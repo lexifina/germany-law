@@ -1,0 +1,6 @@
+# TOP 16: Bekanntgaben und Aktuelles
+
+- Sitzung: 12. Sitzung des Gemeinderates (1995-10-17)
+- Körperschaft: Stadtverwaltung Freiburg
+- Öffentlich: ja
+- OParl: https://ris.freiburg.de/oparl/agendaItem/ni_2005-GR-57%7CBekannt%7C1
