@@ -1,0 +1,13 @@
+# Erfahrungsbericht des Patientenfürsprechers des Krankenhauses Reinickendorf in der Vivantes GmbH - ö. B. Humboldt-Krankenhaus - für das Jahr 2003
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Drucksache/Vorlage: 0810/XVII
+- Art: Vorlage zur Kenntnisnahme
+- Datum: 2004-05-12
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=679
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/papers.asp?id=679
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=130&id=60335
+- Beratung: Entscheidung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=564 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=599 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=20
+- underDirectionOf: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=at&id=55
