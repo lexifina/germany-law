@@ -1,8 +1,8 @@
 # Verwaltungsvorschrift des Sächsischen Staatsministeriums für Wissenschaft, Kultur und Tourismus für den Staatsbetrieb Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsmini
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2025-05-03 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/21191.1
+- Datum: 2027-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/21191.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -22,12 +22,10 @@ REVOSax
 
 Hauptinhalt
 
-Historische Fassung
+Zukünftige Fassung
 
-war gültig vom
-03.05.2025
-bis
-27.08.2026
+wird gültig ab
+01.01.2027
 
 Verwaltungsvorschrift des Sächsischen Staatsministeriums für Wissenschaft, Kultur und Tourismus für
 
@@ -66,7 +64,7 @@ Die SLUB verfolgt gemeinnützige Zwecke. Im Falle der Aufgabenerledigung durch D
 
 2.
 
-Die eigenen Einnahmen, öffentlichen Zuschüsse und die Zuwendungen Dritter dürfen nur für Aufgaben im Sinne des § 2 des Gesetzes über die Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden verwendet werden.
+Die eigenen Einnahmen, öffentlichen Zuschüsse und die Zuwendungen Dritter dürfen nur für Aufgaben im Sinne des § 2 des Gesetzes über die Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden sowie für andere der SLUB zugewiesene Aufgaben verwendet werden. Nummer 1 bleibt davon unberührt.
 
 
 III.
@@ -83,7 +81,7 @@ Die Generaldirektorin oder der Generaldirektor leitet die Bibliothek. In den zus
 
 2.
 
-Die Generaldirektorin oder der Generaldirektor sorgt für die Einhaltung des Wirtschaftsplanes nach Maßgabe der einschlägigen Haushaltsvorschriften. Es sind dabei die Sorgfaltspflichten eines ordentlichen Kaufmanns zu beachten sowie der finanzielle und der geltende tarifrechtliche Rahmen einzuhalten. Soweit sie oder er die Aufgabe einer oder eines Beauftragten für den Haushalt nach § 9 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 21. Mai 2021 (SächsGVBl. S. 578) geändert worden ist, in der jeweils geltenden Fassung, nicht selbst wahrnimmt, ist eine der stellvertretenden Personen als Beauftragte oder Beauftragter für den Haushalt zu bestellen.
+Die Generaldirektorin oder der Generaldirektor sorgt für die Einhaltung des Wirtschaftsplanes nach Maßgabe der einschlägigen Haushaltsvorschriften. Es sind dabei die Sorgfaltspflichten eines ordentlichen Kaufmanns zu beachten sowie der finanzielle und der geltende tarifrechtliche Rahmen einzuhalten. Soweit sie oder er die Aufgabe einer oder eines Beauftragten für den Haushalt nach § 9 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 27. Juni 2025 (SächsGVBl. S. 285) geändert worden ist, in der jeweils geltenden Fassung, nicht selbst wahrnimmt, ist eine der stellvertretenden Personen als Beauftragte oder Beauftragter für den Haushalt zu bestellen.
 
 3.
 
@@ -195,7 +193,7 @@ Der SLUB werden die zur Wahrnehmung ihrer Aufgaben notwendigen Gebäude und Flä
 
 
 IX.
-Wirtschaftsführung, Rechnungswesen, Controlling
+Wirtschaftsführung, Rechnungswesen
 
 1.
 
@@ -207,18 +205,55 @@ Die Generaldirektorin oder der Generaldirektor legt den Wirtschaftsplan der Staa
 
 3.
 
-Zum Rechnungswesen und Controlling gehören insbesondere die Kosten- und Leistungsrechnung sowie ein Berichtswesen, in dessen Rahmen unter anderem Quartalsberichte sowie Berichte zum Vollzug des Wirtschaftsplanes und zum Stand der Erfüllung der jährlichen Zielvereinbarung zu erstellen und der Staatministerin oder dem Staatsminister spätestens vier Wochen nach dem Stichtag vorzulegen sind. 
+Jahresabschluss und Lagebericht der SLUB werden in entsprechender Anwendung der Vorschriften des Dritten Buches des Handelsgesetzbuches, insbesondere § 264 Absatz 1 und 2 des Handelsgesetzbuches, in der jeweils geltenden Fassung, mit Ausnahme von Vorschriften über die Nachhaltigkeitsberichterstattung im Sinne der Richtlinie 2013/34/EU zum Schluss jedes Wirtschaftsjahres aufgestellt und innerhalb von drei Monaten nach dem jeweiligen Stichtag der Staatsministerin oder dem Staatsminister vorgelegt. Der von einem öffentlich bestellten Wirtschaftsprüfer geprüfte und testierte Jahresabschluss und der Lagebericht für das abgelaufene Geschäftsjahr sind innerhalb von sechs Monaten nach Ende des abgelaufenen Geschäftsjahres der Staatsministerin oder dem Staatsminister sowie dem Verwaltungsrat vorzulegen. Die Prüfung erfolgt dabei auch nach den besonderen Prüfungsbestimmungen des § 53 des Haushaltsgrundsätzegesetzes vom 19. August 1969 (BGBl. I S. 1273), das zuletzt durch Artikel 2 des Gesetzes vom 12. Mai 2026 (BGBl. 2026 I Nr. 137) geändert worden ist, in der jeweils geltenden Fassung.
 
 4.
 
-Jahresabschluss und Lagebericht der SLUB werden in entsprechender Anwendung der Vorschriften des Dritten Buches des Handelsgesetzbuches, insbesondere § 264 Absatz 1 und 2 des Handelsgesetzbuches, in der jeweils geltenden Fassung, mit Ausnahme von Vorschriften über die Nachhaltigkeitsberichterstattung im Sinne der Richtlinie 2013/34/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Jahresabschluss, den konsolidierten Abschluss und damit verbundene Berichte von Unternehmen bestimmter Rechtsformen und zur Änderung der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 78/660/EWG und 83/349/EWG des Rates (ABl. L 182 vom 29.6.2013, S. 19), die zuletzt durch die Richtlinie (EU) 2025/2 (ABl. L, 2025/2, 8.1.2025) geändert worden ist, in der jeweils geltenden Fassung, zum Schluss jedes Wirtschaftsjahres aufgestellt und innerhalb von drei Monaten nach dem jeweiligen Stichtag der Staatsministerin oder dem Staatsminister vorgelegt. Der von einem öffentlich bestellten Wirtschaftsprüfer geprüfte und testierte Jahresabschluss und der Lagebericht für das abgelaufene Geschäftsjahr sind innerhalb von sechs Monaten nach Ende des abgelaufenen Geschäftsjahres der Staatsministerin oder dem Staatsminister sowie dem Verwaltungsrat vorzulegen. Die Prüfung erfolgt dabei auch nach den besonderen Prüfungsbestimmungen des § 53 des Haushaltsgrundsätzegesetzes vom 19. August 1969 (BGBl. I S. 1273), das zuletzt durch Artikel 1 des Gesetzes vom 21. August 2024 (BGBl. 2024 I Nr. 361) geändert worden ist, in der jeweils geltenden Fassung.
+Entwicklungen, die die Zahlungsfähigkeit der SLUB gefährden könnten, sind der Staatsministerin oder dem Staatsminister von der SLUB unverzüglich unter Darlegung der Gründe anzuzeigen. Die SLUB hat gleichzeitig die zur Abwendung der Zahlungsunfähigkeit bereits eingeleiteten und noch zu ergreifenden Maßnahmen darzulegen.
 
 5.
 
-Entwicklungen, die die Zahlungsfähigkeit der SLUB gefährden könnten, sind der Staatsministerin oder dem Staatsminister von der SLUB unverzüglich unter Darlegung der Gründe anzuzeigen. Die SLUB hat gleichzeitig die zur Abwendung der Zahlungsunfähigkeit bereits eingeleiteten und noch zu ergreifenden Maßnahmen darzulegen.
+Mit dem Jahresabschluss legt die SLUB dem Staatsministerium den jährlichen Risikobericht mit den identifizierten Risiken und den eingeleiteten Gegenmaßnahmen vor.
 
 
 X.
+Controlling
+
+1.
+
+Zum Ende eines jeden Quartals erarbeitet die Generaldirektorin oder der Generaldirektor einen Controllingbericht zu betriebswirtschaftlichen Kennzahlen. Dieser besteht aus:
+
+
+a)
+
+einer Abrechnung zum Wirtschaftsplan sowie
+
+
+b)
+
+einer Controllingtabelle und einer Abrechnung zur Inanspruchnahme und Einhaltung der im Rahmen von § 7a Absatz 2 der Sächsischen Haushaltsordnung zugelassenen Stellenplanflexibilität.
+
+
+Die Controllingberichte werden dem Staatsministerium innerhalb von einem Monat nach dem jeweiligen Stichtag vorgelegt.
+
+2.
+
+Zum Ende eines jeden Jahres erstellt die Generaldirektorin oder der Generaldirektor einen Bericht mit einer Abrechnung von einrichtungsspezifischen Kennzahlen sowie einem dazugehörigen Erläuterungsteil. Die Abrechnung wird dem Staatsministerium zusammen mit dem von einem öffentlich bestellten Wirtschaftsprüfer geprüften und testierten Jahresabschluss für das abgelaufene Geschäftsjahr vorgelegt.
+
+3.
+
+Zum Stichtag für das dritte Quartal ist durch die Generaldirektorin oder den Generaldirektor über den Stand der Umsetzung der im Rahmen von § 7a Absatz 2 der Sächsischen Haushaltsordnung abgeschlossenen Zielvereinbarung (Zielerfüllung) hinaus die Hochrechnung des voraussichtlichen Wertes zum Ende des vierten Quartals zu dokumentieren (Zwischenabrechnung).
+
+4.
+
+Im Erläuterungsteil zu Nummer 2 werden in knapper und übersichtlicher Form die für den Geschäftsbetrieb bedeutenden Entwicklungen des aktuellen Berichtszeitraums dargestellt, insbesondere solche, die Auswirkungen auf die Kennzahlen und die Zielerfüllung haben. Die Ausführungen sind mit geeigneten Diagrammen zu veranschaulichen. Bei Kennzahlen, für die saisonale Schwankungen charakteristisch sind, ist der Bezug zum jeweiligen Stichtag des Vorjahres herzustellen. Wesentliche Abweichungen der Ist-Werte von den Vorjahres- und den Plan-Werten beziehungsweise der Prognose von den gesetzten Zielen sind zu begründen, eventuelle Handlungsbedarfe sind darzustellen. Als wesentlich gelten grundsätzlich alle Abweichungen, die mindestens zehn Prozent vom Zielwert betragen. 
+
+5.
+
+Im Rahmen der Berichterstattung zum vierten Quartal erfolgt die Schlussabrechnung zur Zielvereinbarung.
+
+
+XI.
 Inkrafttreten, Außerkrafttreten
 
 Diese Verwaltungsvorschrift tritt am Tag nach der Veröffentlichung in Kraft. Gleichzeitig tritt die Verwaltungsvorschrift des Sächsischen Staatsministeriums für Wissenschaft und Kunst für den Staatsbetrieb Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden vom 30. Dezember 2013 (SächsABl. 2014 S. 297), zuletzt enthalten in der Verwaltungsvorschrift vom 11. Dezember 2023 (SächsABl. SDr. S. S 295), außer Kraft.
@@ -238,9 +273,7 @@ Fsn-Nr.: 70
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  3. Mai 2025
-
-Fassung gültig bis: 27. August 2026
+Fassung gültig ab:  1. Januar 2027
 
 Drucken/Speichern
 
@@ -265,7 +298,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/21191.1
+https://www.revosax.sachsen.de/vorschrift/21191.3
 Stand vom
 18.11.2026
 
