@@ -1,0 +1,1 @@
+Auf Grund des Art. 82a des Ausführungsgesetzes zum Bürgerlichen Gesetzbuch erläßt das Bayerische Staatsministerium des Innern im Einvernehmen mit dem Bayerischen Staatsministerium der Justiz folgende Verordnung:

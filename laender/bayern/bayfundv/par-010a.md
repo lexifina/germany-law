@@ -1,0 +1,5 @@
+# § 10a
+(1) Die Bekanntmachungen durch eine Behörde nach den §§ 980, 981 und 983 des Bürgerlichen Gesetzbuchs erfolgen durch Aushang an der Amtsstelle oder an der von der Behörde sonst bestimmten Stelle.
+(2) Die Bekanntmachungen nach den §§ 980 und 981 des Bürgerlichen Gesetzbuchs durch eine Verkehrsanstalt, die in der Rechtsform des Privatrechts betrieben wird, erfolgen durch Aushang an der Geschäftsstelle am Sitz der Anstalt. Die Regierung kann eine andere oder zusätzliche Stelle für den Aushang bestimmen.
+(3) Die in der Bekanntmachung zu bestimmende Frist zur Anmeldung von Rechten muß mindestens sechs Wochen betragen. Die Frist beginnt mit dem Aushang. Bei einer weiteren Bekanntmachung in öffentlichen Blättern beginnt die Frist mit der letzten Veröffentlichung.
+(4) Die Bekanntmachung soll mindestens sechs Wochen ausgehängt werden. Auf die Gültigkeit der Bekanntmachung ist es ohne Einfluß, wenn das Schriftstück von dem Ort des Aushangs vorzeitig entfernt wird. Der Fund kann zusätzlich anderweitig, insbesondere in öffentlichen Blättern, bekanntgemacht werden.
