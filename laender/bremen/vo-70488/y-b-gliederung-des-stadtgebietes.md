@@ -5,7 +5,7 @@ Nr. | Stadtbezirke Bezeichnung | Nr. | Stadtteile Bezeichnung | Nr. | Ortsteile 
 1 | Mitte | 11 | Mitte | 111 | Altstadt
  |  |  |  | 112 | Bahnhofsvorstadt
  |  |  |  | 113 | Ostertor
- |  | 12 | Häfen | 121 | Handelshäfen
+ |  | 12 | Häfen*) | 121 | Handelshäfen
  |  |  |  | 122 | Industriehäfen
  |  |  |  | 123 | stadtbrem. Überseehafengebiet Bremerhaven
  |  |  |  | 124 | Neustädter Hafen
@@ -18,25 +18,25 @@ Nr. | Stadtbezirke Bezeichnung | Nr. | Stadtteile Bezeichnung | Nr. | Ortsteile 
  |  |  |  | 216 | Buntentor
  |  |  |  | 217 | Neuenland
  |  |  |  | 218 | Huckelriede
- |  | 23 | Obervieland*) | 231 | Habenhausen
+ |  | 23 | Obervieland | 231 | Habenhausen
  |  |  |  | 232 | Arsten
  |  |  |  | 233 | Kattenturm
  |  |  |  | 234 | Kattenesch
- |  | 24 | Huchting*) | 241 | Mittelshuchting
+ |  | 24 | Huchting | 241 | Mittelshuchting
  |  |  |  | 242 | Sodenmatt
  |  |  |  | 243 | Kirchhuchting
  |  |  |  | 244 | Grolland
  |  | 25 | Woltmershausen | 251 | Woltmershausen
  |  |  |  | 252 | Rablinghausen
- |  |  |  | 261 | Seehausen*)
- |  |  |  | 271 | Strom*)
+ |  |  |  | 261 | Seehausen
+ |  |  |  | 271 | Strom
 3 | Ost | 31 | Östliche Vorstadt | 311 | Steintor
  |  |  |  | 312 | Fesenfeld
  |  |  |  | 313 | Peterswerder
  |  |  |  | 314 | Hulsberg
  |  | 32 | Schwachhausen | 321 | Neu-Schwachhausen
  |  |  |  | 322 | Bürgerpark
- |  |  |  | 323 | Bürgerweide-Barkhof
+ |  |  |  | 323 | Barkhof
  |  |  |  | 324 | Riensberg
  |  |  |  | 325 | Radio Bremen
  |  |  |  | 326 | Schwachhausen
@@ -45,24 +45,24 @@ Nr. | Stadtbezirke Bezeichnung | Nr. | Stadtteile Bezeichnung | Nr. | Ortsteile 
  |  |  |  | 332 | Neue Vahr Nord
  |  |  |  | 334 | Neue Vahr Südwest
  |  |  |  | 335 | Neue Vahr Südost
- |  | 34 | Horn-Lehe*) | 341 | Horn
+ |  | 34 | Horn-Lehe | 341 | Horn
  |  |  |  | 342 | Lehe
  |  |  |  | 343 | Lehesterdeich
- |  |  |  | 351 | Borgfeld*)
- |  |  |  | 361 | Oberneuland*)
- |  | 37 | Osterholz*) | 371 | Ellener Feld
+ |  |  |  | 351 | Borgfeld
+ |  |  |  | 361 | Oberneuland
+ |  | 37 | Osterholz | 371 | Ellener Feld
  |  |  |  | 372 | Ellenerbrok-Schevemoor
  |  |  |  | 373 | Tenever
  |  |  |  | 374 | Osterholz
  |  |  |  | 375 | Blockdiek
- |  | 38 | Hemelingen*) | 381 | Sebaldsbrück
+ |  | 38 | Hemelingen | 381 | Sebaldsbrück
  |  |  |  | 382 | Hastedt
  |  |  |  | 383 | Hemelingen
  |  |  |  | 384 | Arbergen
  |  |  |  | 385 | Mahndorf
-4 | West |  |  | 411 | Blockland*)
+4 | West |  |  | 411 | Blockland
  |  | 42 | Findorff | 421 | Regensburger Straße
- |  |  |  | 422 | Findorff
+ |  |  |  | 422 | Findorff-Bürgerweide
  |  |  |  | 423 | Weidedamm
  |  |  |  | 424 | In den Hufen
  |  | 43 | Walle | 431 | Utbremen
@@ -76,32 +76,20 @@ Nr. | Stadtbezirke Bezeichnung | Nr. | Stadtteile Bezeichnung | Nr. | Ortsteile 
  |  |  |  | 443 | Ohlenhof
  |  |  |  | 444 | In den Wischen
  |  |  |  | 445 | Oslebshausen
-5 | Nord | 51 | Burglesum*) | 511 | Burg-Grambke
+5 | Nord | 51 | Burglesum | 511 | Burg-Grambke
  |  |  |  | 512 | Werderland
  |  |  |  | 513 | Burgdamm
  |  |  |  | 514 | Lesum
  |  |  |  | 515 | St. Magnus
- |  | 52 | Vegesack*) | 521 | Vegesack
+ |  | 52 | Vegesack | 521 | Vegesack
  |  |  |  | 522 | Grohn
  |  |  |  | 523 | Schönebeck
  |  |  |  | 524 | Aumund-Hammersbeck
  |  |  |  | 525 | Fähr-Lobbendorf
- |  | 53 | Blumenthal*) | 531 | Blumenthal
+ |  | 53 | Blumenthal | 531 | Blumenthal
  |  |  |  | 532 | Rönnebeck
  |  |  |  | 533 | Lüssum-Bockhorn
  |  |  |  | 534 | Farge
  |  |  |  | 535 | Rekum
 Fußnoten
-*) Stadtteile bzw. Ortsteile mit Ortsamtsverwaltung
-*) Stadtteile bzw. Ortsteile mit Ortsamtsverwaltung
-*) Stadtteile bzw. Ortsteile mit Ortsamtsverwaltung
-*) Stadtteile bzw. Ortsteile mit Ortsamtsverwaltung
-*) Stadtteile bzw. Ortsteile mit Ortsamtsverwaltung
-*) Stadtteile bzw. Ortsteile mit Ortsamtsverwaltung
-*) Stadtteile bzw. Ortsteile mit Ortsamtsverwaltung
-*) Stadtteile bzw. Ortsteile mit Ortsamtsverwaltung
-*) Stadtteile bzw. Ortsteile mit Ortsamtsverwaltung
-*) Stadtteile bzw. Ortsteile mit Ortsamtsverwaltung
-*) Stadtteile bzw. Ortsteile mit Ortsamtsverwaltung
-*) Stadtteile bzw. Ortsteile mit Ortsamtsverwaltung
-*) Stadtteile bzw. Ortsteile mit Ortsamtsverwaltung
+*) Stadtteil ohne Ortsamtsverwaltung

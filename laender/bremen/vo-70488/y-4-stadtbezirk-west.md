@@ -4,10 +4,10 @@
 Der Ortsteil Blockland wird im N von der Landesgrenze und im O von den Ortsteilen Borgfeld und Lehesterdeich begrenzt. Im S verläuft die Grenze längs der Autobahn bis zur Kleinen Wümme. Die weitere Abgrenzung im SW und NW bilden die Kleine Wümme, das Maschinenfleet und die Lesummitte.
 (421) Ortsteil Regensburger Straße
 Der Ortsteil Regensburger Straße wird im N durch den Utbremer Ring (Nr. 158 bis 186), im W die Hamburger Bahn, im S die Hemmstraße (Nr. 76 bis 192) und im O durch die Fürther Straße (Nr. 2 bis 112) begrenzt.
-(422) Ortsteil Findorff
-Der Ortsteil Findorff wird im NW durch die Ortsteil Regensburger Straße (Hemmstraße Nr. 73 bis 185), im SW die Eisenbahn, im SO die Findorffstraße und im NO durch die Eickedorfer Straße begrenzt.
+(422) Ortsteil Findorff-Bürgerweide
+Der Ortsteil Findorff-Bürgerweide wird im NW durch den Ortsteil Regensburger Straße (Hemmstraße Nr. 73 bis 185), im SW durch die Bahnanlagen, im SO durch den Ortsteil Barkhof und im NO durch die Eickedorfer Straße und Hollerallee bis zur Einmündung der westlichen Umfahrung der Straßenbahnschleife zur Gustav-Deetjen-Allee begrenzt.
 (423) Ortsteil Weidedamm
-Der Ortsteil Weidedamm wird im N durch die Hamburger Bahn, im SW die Ortsteile Regensburger Straße und Findorff und im SO durch die Ortsteile Bürgerpark und Neu-Schwachhausen begrenzt.
+Der Ortsteil Weidedamm wird im N durch die Hamburger Bahn, im SW die Ortsteile Regensburger Straße und Findorff-Bürgerweide und im SO durch die Ortsteile Bürgerpark und Neu-Schwachhausen begrenzt.
 (424) Ortsteil In den Hufen
 Der Ortsteil In den Hufen wird im N durch den Ortsteil Blockland, im W den Autobahnzubringer Freihäfen einschließlich Autobahnauffahrt, im S den Ortsteil Weidedamm und im O durch die Ortsteile Neu-Schwachhausen und Lehe begrenzt.
 (431) Ortsteil Utbremen
