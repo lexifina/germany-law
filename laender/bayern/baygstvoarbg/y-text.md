@@ -1,0 +1,1 @@
+Auf Grund des Art. 15 Abs. 2 des Gesetzes zur Ausführung des Gerichtsverfassungsgesetzes und von Verfahrensgesetzen des Bundes erläßt das Bayerische Staatsministerium für Arbeit und Sozialordnung im Einvernehmen mit dem Bayerischen Staatsministerium der Justiz folgende Verordnung:
