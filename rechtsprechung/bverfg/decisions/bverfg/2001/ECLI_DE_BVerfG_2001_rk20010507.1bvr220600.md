@@ -1,0 +1,214 @@
+---
+ecli: "ECLI:DE:BVerfG:2001:rk20010507.1bvr220600"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 2206/00"
+decided: "2001-05-07"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 7. Mai 2001\n- 1 BvR 2206/00 -, Rn. 1-26,\n                    https://www.bverfg.de/e/rk20010507_1bvr220600"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/05/rk20010507_1bvr220600.html"
+corpus_doc_id: "BVerfG_2001-05-07_K_1_BvR_2206_00_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/grundgesetz/artikel/005.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 2206/00 vom 2001-05-07
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 1 BVR 2206/00 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+des Herrn Professor Dr. M...
+
+- Bevollmächtigter: Professor Dr. Jörn Eckert,
+                    Buckowweg 6, 24111 Kiel -
+gegen § 38 Abs. 1 Nr. 1 des Gesetzes über die Hochschulen und Klinika im Lande
+      Schleswig-Holstein (Hochschulgesetz - HSG) in der Fassung des Gesetzes
+      zur Änderung des Hochschulgesetzes (Strukturreform-Novelle) vom 23. November 1999 (GVOBl S. 380)
+
+hat die 2. Kammer des Ersten Senats des Bundesverfassungsgerichts durch
+                                   die Richterin Jaeger
+                                   und die Richter Hömig,
+                                   Bryde
+
+gemäß § 93 b in Verbindung mit § 93 a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 7. Mai 2001 einstimmig beschlossen:
+
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+
+                                      Gründe:
+ Die Verfassungsbeschwerde richtet sich gegen die Änderung der Mehrheitsverhältnisse in einem Hochschulgremium durch die schleswig-holsteinische Strukturreformnovelle.
+
+                                          I.
+  1. Der Beschwerdeführer ist Professor an einer schleswig-holsteinischen Universität. Er wendet sich gegen § 38 Abs. 1 Nr. 1 des Gesetzes über die Hochschulen und
+Klinika im Lande Schleswig-Holstein (Hochschulgesetz - HSG) in der durch das Gesetz zur Änderung des Hochschulgesetzes (Strukturreform-Novelle) vom 23. November 1999 (GVOBl Schleswig-Holstein, S. 380) geänderten, seit dem 1. Dezember
+1999 geltenden Fassung (neu gefasst mit Neubekanntmachung vom 4. Mai 2000,
+GVOBl Schleswig-Holstein, S. 416). § 38 Abs. 1 HSG hat folgenden Wortlaut:
+
+                                        § 38                                          3
+
+                      Zusammensetzung des Konsistoriums                               4
+
+(1) Das Konsistorium besteht aus                                                      5
+
+
+
+                                          1/6
+
+1. bis zu 60 Mitgliedern, die von den Mitgliedergruppen nach § 23 Abs. 1 Nr. 1 bis 4    6
+im Verhältnis 2:1:2:1 gewählt werden,
+
+2. den Mitgliedern des Rektorats, den Dekaninnen und Dekanen und der Frauenbeauftragten mit Antragsrecht und beratender Stimme.
+
+ Bisher waren die vier Mitgliedergruppen der Hochschullehrer, des wissenschaftlichen Dienstes, der Studierenden und des nichtwissenschaftlichen Dienstes im Konsistorium im Verhältnis 11:4:4:2 vertreten. Mit der angegriffenen Gesetzesänderung
+wurde das Verhältnis in 2:1:2:1 geändert. Im zweiten Hochschulgremium, dem Senat,
+bleibt es bei einem Verhältnis von 12:4:4:2.
+
+  Zu den Aufgaben des Konsistoriums gehört es unter anderem, über die Verfassung        9
+mit Zweidrittelmehrheit zu beschließen (§ 37 Abs. 1 Nr. 1, Abs. 3 HSG) und die Mitglieder des Rektorats zu wählen (§ 37 Abs. 1 Nr. 2 HSG). Neu eingeführt wurde die
+Befugnis des Konsistoriums, Rektoratsmitglieder mit Dreiviertelmehrheit abzuberufen (§ 50 a Abs. 1 HSG). Neu ist auch die Regelung, dass einem Rektor, der zuvor
+ein Hochschullehreramt bei einem anderen Dienstherrn innehatte, nach Ablauf seiner
+vollen Rektorenamtszeit ohne Berufungsverfahren ein entsprechendes Amt in der
+Regel an der Hochschule zu verleihen ist, an der das Rektorenamt wahrgenommen
+wurde (§ 48 a Abs. 3 Satz 2 HSG).
+
+ Die Aufgaben des Rektorats wurden in der Novelle insofern erweitert, als sich die     10
+Leitungsfunktion nicht mehr nur auf die Verwaltung der Hochschule beschränkt, sondern die Leitung der Hochschule allgemein umfasst, soweit nicht eine andere Zuständigkeit festgelegt ist (§ 44 Abs. 1 Satz 1 HSG). Außerdem schließt das Rektorat mit
+dem Ministerium die neu eingeführten Zielvereinbarungen ab, die der Zustimmung
+des Senats bedürfen (§ 44 Abs. 1 Satz 2 HSG).
+
+  2. Der Beschwerdeführer rügt eine Verletzung des Art. 5 Abs. 3 Satz 1 GG. Mit nur    11
+noch einem Drittel der Stimmen habe die Gruppe der Professoren im Konsistorium
+nicht mehr den verfassungsrechtlich gebotenen Einfluss. Das Konsistorium sei nach
+typisierender Betrachtungsweise ein Gremium, das über unmittelbar wissenschaftsrelevante Fragen entscheide. Dies ergebe sich aus seiner Befugnis, über die Verfassung zu beschließen und die Mitglieder des Rektorats zu wählen und abzuberufen.
+
+ Die Verfassung sei die entscheidende Organisationssatzung, sie lege die innere        12
+Struktur der Hochschule im Rahmen der vom Hochschulgesetz belassenen Freiräume verbindlich fest. Damit könne das Konsistorium in Forschung und Lehre unmittelbar betreffende Angelegenheiten eingreifen. Da die Verfassung nicht auf Vorschlag
+des Senats beschlossen werde und die Professoren im Konsistorium auch keine
+Sperrminorität hätten, sei ein ausreichender Einfluss der Gruppe der Professoren
+nicht gewährleistet.
+
+  Eine Auswahl der Rektoratsmitglieder nach sachgerechten, der Wissenschaftsfreiheit entsprechenden Kriterien sei nicht gewährleistet. Senat und Konsistorium könnten sich bei der Rektoratswahl gegenseitig blockieren und dadurch die Handlungsfä-
+
+
+                                         2/6
+
+higkeit der Hochschule gefährden. Das Konsistorium treffe aufgrund der in § 48 a
+Abs. 3 HSG vorgesehenen späteren Amtsübertragung ohne Berufungsverfahren im
+Falle der Wahl eines externen Professors zum Rektor eine Personalentscheidung
+in Angelegenheiten der Hochschullehrer, ohne dass der hierfür gebotene Professoreneinfluss gegeben sei. Die Wissenschaftsrelevanz der Rektoratswahl ergebe sich
+auch aus der umfassenden Leitungskompetenz des Rektorats sowie aus dessen
+Zuständigkeit zum Abschluss von Zielvereinbarungen mit dem Ministerium. Die Regelungsgegenstände der Zielvereinbarungen seien offenkundig unmittelbar wissenschaftsrelevant. Der insoweit fachkundige Senat habe nach § 44 Abs. 1 HSG nur die
+Möglichkeit der Ablehnung beziehungsweise Zustimmung zu der vom Rektorat verhandelten Vereinbarung und somit keine unmittelbare inhaltliche Einflussnahmemöglichkeit.
+
+                                         II.
+ Die Verfassungsbeschwerde ist nicht zur Entscheidung anzunehmen. Die Voraussetzungen des § 93 a Abs. 2 BVerfGG sind nicht gegeben. Der Verfassungsbeschwerde kommt keine grundsätzliche verfassungsrechtliche Bedeutung zu. Die
+maßgeblichen verfassungsrechtlichen Fragen sind vom Bundesverfassungsgericht
+entschieden (vgl. BVerfGE 35, 79 <107 ff.>; 47, 327 <361 ff.>; 55, 37 <51 ff.>; 61,
+260 <274 ff.>). Die Annahme der Verfassungsbeschwerde ist auch nicht zur Durchsetzung des vom Beschwerdeführer als verletzt bezeichneten Grundrechts der Wissenschaftsfreiheit angezeigt. Denn die Verfassungsbeschwerde hat keine Aussicht
+auf Erfolg.
+
+ Die Verfassungsbeschwerde ist unbegründet.                                             15
+
+  1. Prüfungsmaßstab ist die durch Art. 5 Abs. 3 Satz 1 GG gewährleistete Wissenschaftsfreiheit. Nach der Wertentscheidung des Art. 5 Abs. 3 Satz 1 GG hat der Staat
+durch geeignete organisatorische Maßnahmen sicherzustellen, dass das individuelle
+Grundrecht der freien wissenschaftlichen Betätigung so weit unangetastet bleibt, wie
+das unter Berücksichtigung der anderen legitimen Aufgaben der Wissenschaftseinrichtungen und der Grundrechte der verschiedenen Beteiligten möglich ist. Dabei
+kann der Gesetzgeber die Organisation der Hochschulen nach seinem Ermessen
+ordnen, solange gewährleistet ist, dass der Kernbereich wissenschaftlicher Betätigung der Selbstbestimmung des einzelnen Grundrechtsträgers vorbehalten bleibt.
+Soweit gruppenmäßig zusammengesetzte Hochschulorgane über unmittelbar wissenschaftsrelevante Angelegenheiten zu entscheiden haben, ist ein hinreichender
+Einfluss der Gruppe der Hochschullehrer zu gewährleisten. Es ist grundsätzlich der
+Gestaltungsfreiheit des Gesetzgebers anheim gegeben, durch welche organisatorischen Maßnahmen er den verfassungsrechtlich gebotenen Einfluss der Gruppe der
+Hochschullehrer sichert; dabei ist eine typisierende Betrachtungsweise zulässig (vgl.
+BVerfGE 35, 79 <112 ff., 135>).
+
+ 2. Mit diesen Grundsätzen sind die geänderten Mehrheitsverhältnisse im schleswigholsteinischen Konsistorium vereinbar. Die Angelegenheiten, mit denen das Konsis-
+
+
+                                         3/6
+
+torium befasst ist, sind nicht typischerweise unmittelbar wissenschaftsrelevant. Dies
+gilt auch für die Befugnisse des Konsistoriums, über die Verfassung zu beschließen
+und die Mitglieder des Rektorats zu wählen.
+
+ a) Die Inhalte der Hochschulverfassung sind typischerweise nicht unmittelbar wissenschaftsrelevant. Es handelt sich um die Kodifikation eines durch das Hochschulgesetz bereits weitgehend vorgegebenen Rahmens. Vor allem § 3 HSG stellt sicher,
+dass mittels der Verfassung nicht unmittelbar in Forschung oder Lehre eingegriffen
+werden kann. Die Gesetzesbegründung (Landtag Schleswig-Holstein, Drs. 14/2121,
+S. 14 f. zu Nr. 23) geht ebenfalls davon aus, dass Entscheidungen des Konsistoriums
+nicht unmittelbar Lehre und Forschung berühren. Diese Vorstellung des Gesetzgebers ist bei der Auslegung der Kompetenz des Konsistoriums zur Verfassungsgebung zu berücksichtigen. Die für Forschung und Lehre unmittelbar wichtigen Fragen
+sind, wie die einzelnen Zuständigkeiten des Senats in § 39 Abs. 2 HSG zeigen, vielmehr dem Senat zugewiesen und somit einer Regelung in der Verfassung entzogen.
+
+ Sollte die Verfassung trotzdem ausnahmsweise unmittelbar wissenschaftsrelevante        19
+Fragen betreffen, sichern im Übrigen die Schutzvorschriften für die Gruppe der Hochschullehrer (§ 25 Abs. 1 HSG - eingeschränktes Stimmrecht der Angehörigen des
+nichtwissenschaftlichen Dienstes; § 25 Abs. 2 HSG - ausschlaggebender Einfluss
+der Hochschullehrer in Forschungs- und Berufungsangelegenheiten) deren verfassungsrechtlich gebotenen Einfluss zusätzlich.
+
+  b) Hinsichtlich der Rektoratswahl ergibt sich ein weitgehender Einfluss der Gruppe    20
+der Hochschullehrer im Konsistorium bereits daraus, dass die Mitglieder des Rektorats sämtlich auf Vorschlag des Senats gewählt werden (§ 47 Abs. 4 Satz 1, § 49
+Abs. 2 Satz 1, § 50 Abs. 1 Satz 1 erster Halbsatz HSG). Hierdurch können die Hochschullehrer sicherstellen, dass nur Personen vorgeschlagen werden, welche die für
+das Amt aus der Sicht der Hochschullehrer erforderlichen Qualifikationen aufweisen.
+Die Wissenschaftsfreiheit verlangt nicht, dass die Hochschullehrer auch bei der weiteren Auswahl im Konsistorium entscheidenden Einfluss haben; die weitere Auswahl
+muss sich nicht allein an wissenschaftsrelevanten Qualifikationsunterschieden orientieren.
+
+  Der Einfluss der Gruppe der Hochschullehrer im Senat auf die Bildung des Senatsvorschlages ist auch ausreichend. Zwar haben die Hochschullehrer aufgrund der für
+die meisten Rektoratsmitglieder erforderlichen Zweidrittelmehrheit lediglich eine
+Sperrminorität. Dadurch entsteht in der Tat ein Druck zur Verständigung mit anderen
+Senatsmitgliedern. Dies ist jedoch verfassungsrechtlich nicht zu beanstanden. Hinsichtlich der Person des Kanzlers oder der Kanzlerin, also des einzigen Rektoratsmitglieds, das nicht regelmäßig selbst Hochschullehrer ist, können sich die Hochschullehrer im Senat kraft einfacher Mehrheit durchsetzen. Hinsichtlich der übrigen
+Mitglieder des Rektorats ist ihnen eine Verständigung mit mindestens einem Teil der
+weiteren Senatsmitglieder zumutbar. Denn die Aufgaben des Rektorats sind nicht typischerweise unmittelbar wissenschaftsrelevant; soweit sie es ausnahmsweise sein
+
+
+
+                                         4/6
+
+können, ist ein hinreichender Einfluss der Gruppe der Hochschullehrer gewährleistet.
+
+  Die Leitungskompetenz des Rektorats, die nach § 44 Abs. 1 Satz 1 erster Halbsatz      22
+HSG ausdrücklich durch gesetzlich oder durch die Hochschulverfassung festgelegte
+Zuständigkeiten beschränkt wird, macht die Rektoratswahl nicht zu einer unmittelbar
+wissenschaftsrelevanten Aufgabe. Die Leitungskompetenz des Rektorats ist insbesondere durch die aus § 39 Abs. 1 HSG sich ergebende, grundsätzliche Richtlinienkompetenz des Senats begrenzt. Bei verfassungskonformer Auslegung überschreiten die Weisungsbefugnisse des Rektorats nicht den Rahmen dessen, was ein
+Hochschullehrer aufgrund seiner Einbindung in die Institution der Universität hinnehmen muss (vgl. BVerfGE 57, 70 <94>; 93, 85 <97>).
+
+  Die Regelungsgegenstände der vom Rektorat abzuschließenden Zielvereinbarungen erscheinen teilweise in der Tat wissenschaftsrelevant (§ 15 a Abs. 1 Nr. 1, 2, 4
+und 5 HSG). Allerdings ist die Befugnis des Rektorats, in den Zielvereinbarungen verbindliche Absprachen zu treffen, inhaltlich durch die Entscheidungskompetenzen
+sonstiger Hochschulorgane, insbesondere des Senats, begrenzt. Inwieweit die Kompetenz zum Abschluss von Zielvereinbarungen dennoch unmittelbar wissenschaftsrelevant ist, kann dahin stehen. Denn ein hinreichender Einfluss der Gruppe der
+Hochschullehrer ist dadurch gewahrt, dass die Zielvereinbarungen der Zustimmung
+des Senats bedürfen (§ 39 Abs. 2 Nr. 4, § 44 Abs. 1 Satz 2 HSG). Dadurch ist das
+Rektorat jedenfalls in Angelegenheiten, die für die künftige Ausübung der Wissenschaftsfreiheit von Bedeutung sind und insofern eine kritische Beurteilung im Senat
+erwarten lassen, gezwungen, sich bezüglich der Inhalte der Zielvereinbarungen mit
+dem Senat abzustimmen. Der Senat kann damit auf solche Inhalte hinreichend Einfluss nehmen.
+
+ Auch die nach § 48 a Abs. 3 HSG mögliche, spätere Übertragung eines Professorenamtes an den Rektor oder die Rektorin macht die angegriffenen Mehrheitsverhältnisse im Konsistorium nicht verfassungswidrig. Dabei kommt es nicht darauf an, ob
+der in § 48 a Abs. 3 Satz 2 HSG vorgesehene, ersatzlose Wegfall der Mitwirkung der
+Hochschule bei der Stellenbesetzung mit höherem Recht vereinbar ist und ob dies
+gegebenenfalls auch der einzelne Hochschullehrer geltend machen könnte. Bedenken gegen die hier allein angegriffenen Mehrheitsverhältnisse im Konsistorium können sich daraus nicht ergeben, weil mangels Kenntnis der konkreten Stellenanforderungen zum Zeitpunkt der Rektoratswahl eine angemessene Beurteilung der
+späteren Berufungsfrage unabhängig von der Zusammensetzung des Konsistoriums
+nicht möglich ist.
+
+ Von einer weiteren Begründung wird gemäß § 93 d Abs. 1 Satz 3 BVerfGG abgesehen.
+
+ Diese Entscheidung ist unanfechtbar.                                                   26
+
+                Jaeger                  Hömig                 Bryde
+
+
+
+
+                                          5/6
+
+Bundesverfassungsgericht, Beschluss der 2. Kammer des Ersten Senats vom
+7. Mai 2001 - 1 BvR 2206/00
+
+Zitiervorschlag BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 7. Mai 2001 -
+                1 BvR 2206/00 - Rn. (1 - 26), http://www.bverfg.de/e/
+                rk20010507_1bvr220600.html
+
+ECLI            ECLI:DE:BVerfG:2001:rk20010507.1bvr220600
+
+
+
+
+                                      6/6
