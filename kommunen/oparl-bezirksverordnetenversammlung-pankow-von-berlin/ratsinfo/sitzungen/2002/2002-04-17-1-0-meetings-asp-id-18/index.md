@@ -1,0 +1,60 @@
+# 5. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2002-04-17T17:30:00+02:00
+- Ende: 2002-04-17T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=18
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=18
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - im Ausschuss abgelehnt
+- TOP 1.2: Abstimmung über die Tagesordnung - im Ausschuss abgelehnt
+- TOP 1.3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 1.4: Mündliche Anfrage - im Ausschuss abgelehnt
+- TOP 1.5: Bericht des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 1.6: Konsensliste - im Ausschuss abgelehnt
+- TOP 1.7: Erweiterung des Privatschulangebotes - überwiesen
+- TOP 1.8: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Rechtsverordnung zur Kündigungsbeschränkung bei Wohnungsumwandlung - überwiesen
+- TOP 1.10: Liegenschaft Hauptstraße 56 in Französisch Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Schändung des jüdischen Friedhofs in der Schönhauser Allee - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Erschließungsstraße für das ABB-Gelände - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Künstlerhof Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Life Science Center Berlin-Buch - überwiesen
+- TOP 1.15: Erhalt des Künstlerhofes Buch - zurückgezogen
+- TOP 1.16: Wahl von Bürgerdeputierten - erledigt
+- TOP 1.17: Hilfe für MOVADO - mit Änderungen in der BVV beschlossen
+- TOP 1.18: Trägerwechsel für den Künstlerhof Buch - in der BVV abgelehnt
+- TOP 1.19: Ehrenbrief - mit Änderungen in der BVV beschlossen
+- TOP 1.20: Teilnahme am europäischen Zertifizierungs- und Auszeichnungsprogramm "European Energy Award" - überwiesen
+- TOP 1.21: Wahl von Bürgerdeputierten - erledigt
+- TOP 1.22: MoZArT - Modellvorhaben - beantwortet
+- TOP 1.23: Abwendungsvereinbarung zwischen BA und BauBeCon, Wohnstadt "Carl Legien" - beantwortet
+- TOP 1.24: Künstlerhof Buch - beantwortet
+- TOP 1.25: Verbesserung der Verkehrs- und Umfeldsituation im Mendelssohn-Viertel - beantwortet
+- TOP 1.26: Benennung des Platzes zwischen Gustav-Adolf-Straße und der Prenzlauer Promenade (vor der " Brotfabrik") mit dem Namen Caligariplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Erzieherausstattung im offenen Ganztagesbetrieb bzw. der hortähnlichen Betreuung - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Entwurf des Doppelhaushaltsplanes 2002/2003 für den Bezirk Pankow (Zahlenteil einschließlich Vorbericht sowie Stellenplan) - überwiesen
+- TOP 1.29: Energiebericht - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Bauliche Mängel in der Kita "La Cigale" - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Elektrosmog in Pankow - überwiesen
+- TOP 1.32: LZA Regelung Krugstege - Bahnhofstraße, Krugstege - Blankenburger Pflasterweg - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Geschlechtergerechter Haushalt - ein erster Schritt - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex II - (offen)
+- TOP 2.1: Botanische Anlagen in Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Bericht zu Städtepartnerschaften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Bericht zu GA-Mitteln - vertagt
+- TOP 2.4: Benennung einer Privatstraße in Rousseauweg - erledigt
+- TOP 2.5: Benennung der Straße 73 (OT Niederschönhausen) in Wilhelm-Wolff-Straße - erledigt
+- TOP 2.6: LernNetz Berlin-Brandenburg - erledigt
+- TOP 2.7: Investitionsplanung von Berlin 2002 - 2006 Anmeldung des Bezirks Pankow - vertagt
+- TOP 2.8: Bebauungsplanentwurf XIX-40j vom 30. April 2001 mit Deckblatt vom 3. August 2001 für das Gelände östlich der Kleingartenanlage "Neuland Buchholz" und des Schillingweges, südlich der Anna-Bruseberg-Straße, zwischen Triftstraße und Jean-Calas-Weg im Bezirk Pankow Ortsteil Französisch Buchholz - erledigt
+- TOP 2.9: Umzug der bestehenden "Gustave-Eiffel-Oberschule" (1. OH/OR pb), Kastanienallee 82 in 10435 Berlin in das Schulgebäude in der Hanns-Eisler-Straße 78 - 80 in 10409 Berlin - erledigt
+- TOP 3: Verb. Wohnumfeld Mendelssohnviertel - in der BVV zurückgezogen
+- TOP 4: Streichung der KW-Vermerke an 3 Stellen für Pädagogische Mitarbeiter der VHS - zurückgezogen
