@@ -1,0 +1,80 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2003-11-12T17:00:00+01:00
+- Ende: 2003-11-12T22:15:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=468
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=468
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=19429
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2004 - im Ausschuss abgelehnt
+- TOP 3: Dringlichkeitsanträge - (offen)
+- TOP 3.1: Auswirkungen der Nicht-Verfassungsmäßigkeit des Berliner Haushalts - beantwortet
+- TOP 3.2: Gründung einer unabhängigen Sportarbeitsgemeinschaft - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.3: Kindertagesstättenübertragungen - überwiesen
+- TOP 4: Konsensliste - überwiesen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Gutes Essen für gutes Geld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Rundweg um den Poloplatz - überwiesen
+- TOP 6.3: Wohnungsamt auflösen - auch in der Verwaltung sparen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Poloplatz jetzt öffnen ! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.5: Behindertenparkplätze am Schwimmbad Märkisches Viertel einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Erhalt der Schule für Ergotherapie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Förderung der konstruktiven Zusammenarbeit zwischen der Musikschule und den Reinickendorfer Schulen - überwiesen
+- TOP 6.8: Folgen der Abschaffung von ABM und SAM - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.9: Aufnahme des Rundweges und der Zuwegungen zum Rundweg des Poloplatzes in das öffentliche Wege- und Straßenregister - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.10: Ja zu Kitas in kirchlicher Trägerschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.11: Poloplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.12: Öffnung der Kastanienallee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.13: Mehr Informationen für die Bürgerinnen und Bürger durch das Internet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.14: Fahrradweg Bernauer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Bildungsprogramme für Kindertagesstätten - beantwortet
+- TOP 7.2: Brustkrebsrate in Reinickendorf / Frauengesundheit - beantwortet
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Bezirkshaushaltsrechnung für das Haushaltsjahr 2002 - überwiesen
+- TOP 8.2: Entwurf des Bebauungsplanes XX-295 - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Bad in der Cité Foch wieder öffnen - erledigt
+- TOP 9.2: BVG-Wartehäuschen am Donnersmarckplatz - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Optimierung des Buskonzeptes - in der BVV abgelehnt
+- TOP 9.4: Schlüsselverträge für Sportvereine - erledigt
+- TOP 9.5: Einsatz der Expressbuslinie X 33 auch am Sonntag - erledigt
+- TOP 9.6: Umbenennung der Berliner Straße in Tegel in "Allee der Hennigsdorfer" - in der BVV abgelehnt
+- TOP 9.7: Absolutes Haltverbot an der Durchfahrt Wiltinger Straße - erledigt
+- TOP 9.8: Verordnung über die Genehmigungsbedürftigkeit von Grundstücksteilungen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Kulturarbeit in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Erhalt des Rettungswagens der Berliner Feuerwehr in Lübars - überwiesen
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Natur- und Erlebnispfad am Tegeler Fließ - überwiesen
+- TOP 11.2: Einstellung von Antragsformularen und lokalen bezirklichen Vorschriften auf der Internetseite des Bezirks - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Rundweg Kastanienallee am Poloplatz; hier: Vertragsstrafe - überwiesen
+- TOP 11.4: Wegöffnung um den Poloplatz - in der BVV zurückgezogen
+- TOP 11.5: Lärmminderungsplanung für Reinickendorf - überwiesen
+- TOP 11.6: Fahrradabstellplätze an S- und U-Bahnhöfen - überwiesen
+- TOP 11.7: Gewaltprävention durch Reinickendorfer Sportvereine - überwiesen
+- TOP 11.8: Behandlung von OWI-Anzeigen - in der BVV zurückgezogen
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Buslinie X 21 weiterhin bis zum Zentralen Omnibus-Bahnhof - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Außenstände von Kita-Beiträgen einbehalten - überwiesen
+- TOP 12.3: Erhalt der entgeltfreien Nutzung der Bäder durch die Sportvereine - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Anordnung von Tempo-30-km/h in der Nacht - überwiesen
+- TOP 12.5: Abordnung des Durchfahrverbotes Fürstendamm / B96 - überwiesen
+- TOP 12.6: Veränderung der Buslinie 120 in Tegel - überwiesen
+- TOP 12.7: Bekämpfung der Wildschweinplage - überwiesen
+- TOP 12.8: Gewährleistung des unentgeltlichen Schulschwimmens - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Hinweise an Hundeauslaufgebieten - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Keine Schlechterstellung behinderter Menschen / Blindengeld - überwiesen
+- TOP 12.11: Extra-Förderung für Begabte in benachteiligten Ortsteilen - vertagt
+- TOP 12.12: Buslinie 248 Büdnerring - überwiesen
+- TOP 12.13: Mehr Verkehrssicherheit für die Nutzer des Centre Bagatelle - überwiesen
+- TOP 13: Frauengesundheitsförderung - überwiesen
