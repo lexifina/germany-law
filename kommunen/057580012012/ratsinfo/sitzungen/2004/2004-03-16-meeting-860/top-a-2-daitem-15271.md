@@ -1,0 +1,6 @@
+# TOP A.2: Niederschrift des öffentlichen Teils der Sitzung vom 25.11.03
+
+- Sitzung: Sportausschuss (2004-03-16)
+- Körperschaft: Stadt Herford
+- Öffentlich: ja
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/15271
