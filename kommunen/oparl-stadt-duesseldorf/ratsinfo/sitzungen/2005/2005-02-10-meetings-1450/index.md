@@ -1,0 +1,64 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-02-10T14:00:00+01:00
+- Ende: 2005-02-10T20:03:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1450
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1450
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111418.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111418.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111418.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Anfragen - zur Kenntnis genommen
+- TOP 5: Anfrage RF Leibauer: L 404 - zur Kenntnis genommen
+- TOP 6: Anfr. CDU: Kriminalitätsentwicklung - zur Kenntnis genommen
+- TOP 7: Anfr. Bü90: Gender Mainstreaming - zur Kenntnis genommen
+- TOP 8: Anfr. CDU: Auswirkungen Hartz IV - zur Kenntnis genommen
+- TOP 9: Anfrage Rf Frey: Integration - zur Kenntnis genommen
+- TOP 10: Anfr. Kahl: Kiefernstraße - zur Kenntnis genommen
+- TOP 11: 4 g nach Nö verschoben - zur Kenntnis genommen
+- TOP 12: Anfr. Kahl: Hühner-Hugo - zur Kenntnis genommen
+- TOP 13: Anfr. Laubernburg: 8. Mai - zur Kenntnis genommen
+- TOP 14: Flutopferhilfe Sri Lanka - Gen. 60er - einstimmig beschlossen
+- TOP 15: 60er: Sri Lanka - einstimmig beschlossen
+- TOP 16: VR Werkstatt - einstimmig beschlossen
+- TOP 17: Lokale Agenda - einstimmig beschlossen
+- TOP 18: Anträge - zur Kenntnis genommen
+- TOP 19: Antr. Bü90: Flagge CSD - mehrheitlich abgelehnt
+- TOP 20: Antr. CDU/FDP: Schulpartnerschaften - mehrheitlich beschlossen
+- TOP 21: Ändantr. Bü90: Schulpartnerschaften - mehrheitlich abgelehnt
+- TOP 22: Antr. Bü90: Verkauf Flughafen - mehrheitlich abgelehnt
+- TOP 23: Antr. Bü90: atmosfair - mehrheitlich abgelehnt
+- TOP 24: Antr. SPD: Korruptionsbekämpfungsgesetz - verwiesen
+- TOP 25: Antr. SPD: Familien fördern - mehrheitlich abgelehnt
+- TOP 26: Kämmererliste 2004 - mehrheitlich beschlossen
+- TOP 27: Kämmererliste 2003 - mehrheitlich beschlossen
+- TOP 28: Kreiswahlausschuss - einstimmig beschlossen
+- TOP 29: Wahl sachkundiger Einwohnerinnen und Einwohner in - einstimmig beschlossen
+- TOP 30: Änderung der Zuständigkeitsordnung - zur Kenntnis genommen
+- TOP 31: üpl-Mieten und Leasing für Informationstechnik - einstimmig beschlossen
+- TOP 32: Erschließung der Grundstücke Tichauer Weg - einstimmig beschlossen
+- TOP 33: Entsendung eines weiteren Vertreters der Landeshau - einstimmig beschlossen
+- TOP 34: Grundsatzbeschluss Heine-Haus Bolkerstr. 53 - mehrheitlich beschlossen
+- TOP 35: Schließung städt. JFE Dreherstr. 185 - mehrheitlich beschlossen
+- TOP 36: Änd.-antr. SPD: Schließung JFE Dreher 185 - mehrheitlich abgelehnt
+- TOP 37: Schließung städt. Kita Dreherstr. 185a - mehrheitlich beschlossen
+- TOP 38: Änd.-antr. SPD: KITA Dreher 185a - mehrheitlich abgelehnt
+- TOP 39: Kunstrasen Ernst-Poensgen-Allee - einstimmig beschlossen
+- TOP 40: Kunstrasen Feuerbachstraße B+F - einstimmig beschlossen
+- TOP 41: Sanierung Durchlass Krippstraße / Gumbertstraße - einstimmig beschlossen
+- TOP 42: Sanierung des Rückstaudeiches am Brückerbach - einstimmig beschlossen
+- TOP 43: Antrag Flughafen 13.10.04 auf Ert. e. luftr. Geneh - mehrheitlich beschlossen
+- TOP 44: Sanierung Brunnenanlage Nordpark - Grundsatzbesch - einstimmig beschlossen
+- TOP 45: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 46: Pl5581/36-Rather Kreuzweg/Marler2.VerlVä - einstimmig beschlossen
+- TOP 47: Pl5675/46langenbergerStrVeränderungssperre - einstimmig beschlossen
