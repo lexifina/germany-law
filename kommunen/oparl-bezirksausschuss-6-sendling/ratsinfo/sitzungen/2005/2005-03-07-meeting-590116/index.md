@@ -1,0 +1,56 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2005-03-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/590116
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/590116
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Einführung der "Putzstundenregelung" als gesetzliche Regelsperrzeit in Bayern - <div>bekannt geben</div>
+- TOP .2.: Sicherheit auf der Wiesn; Prüfungsantrag zur teilweisen Neuordnung
+- TOP .3.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 4.: Verkehrsangelegenheiten
+- TOP 4.1.: Verlängerung der Buslinie 152 bis Harras - <div>Zustimmung mit Bedingung</div>
+- TOP 4.2.: Anordnung einer Ladezone in der Aberlestraße, südlich Oberländerstraße - <div>Abgelehnt</div>
+- TOP 4.3.: Bootscorso mit historischen Faltbooten auf der innerstädtischen Isar am 28.05.2005 - <div>Abgelehnt</div>
+- TOP 4.4.: Fortschreibung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 4.5.: Errichtung eines personenbezogenen Behindertenparkplatzes in der Ganghoferstraße
+- TOP 4.6.: Entwurmung der Füchse im Stadtgebiet München
+- TOP 5.: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 5.1.: Budgetantrag der Montessori-Schule; Â? 246,- - <div>Abgelehnt</div>
+- TOP 5.2.: Neue Form der Feste junger Erwachsener - <div>nach Antrag</div>
+- TOP 5.3.: Ablauf von Bürgerversammlungen; keine Kommentierung der Anträge durch die Versammlungsleitung unmittelbar vor der Abstimmung
+- TOP 6.: Referat für Stadtplanung und Bauordnung
+- TOP 6.1.: Meldelisten Bauvorhaben
+- TOP 6.2.: Bauvorhaben Schanzenbachstr. 1 bzw. Kochelseestraße - <div>nach Antrag</div>
+- TOP 6.3.: Bauvorhaben Plinganserstraße 9; Nutzungsänderung Gewerbefläche zu Pizza- und Asia-Lieferservice - <div>qualifizierte Vertagung</div>
+- TOP 6.4.: Bauvorhaben Plinganserstraße 58; eine Werbeanlage - <div>Ablehnung</div>
+- TOP 6.5.: Bauvorhaben Thalkirchner Straße 158; Feuerwehrzufahrt - <div>bekannt geben</div>
+- TOP 6.6.: Bauvorhaben Plinganserstraße 19; Nutzungsänderung - <div>bekannt geben</div>
+- TOP 6.7.: Fortschreibung des Zentrenkonzeptes - Nahversorgung in München
+- TOP 6.8.: Wohnen in München III; Wohnungsbauprogramm 2005 / 2006
+- TOP 7.: Baureferat
+- TOP 7.1.: Veranstaltung in der Neuhofener Anlage; Volleyball-Turnier am 19.06.2005 - <div>nach Antrag</div>
+- TOP 7.2.: Fußgänger- und Radfahrertunnel zwischen Johann-Clanze-Straße und Sylvensteinstraße - <div>qualifizierte Vertagung</div>
+- TOP 7.3.: Grillsaison an der Isar 2005; Runder Tisch - <div>nach Antrag</div>
+- TOP 8.: Baum- und Umweltschutz
+- TOP 8.1.: Baumfällung Plinganserstraße 110; eine Föhre, eine Buche - <div>gemäß Ausschussbeschluss</div>
+- TOP 8.2.: Fällung von Gefahrenbäumen auf öffentlichem Grund - <div>bekannt geben</div>
+- TOP 9.: Soziales- und Sozialreferat
+- TOP 9.1.: Neuorganisation der Börsenstandorte für die Kindertagespflege in Familien
+- TOP 9.2.: Kommunales Wohnungsbauprogramm; Bauvorhaben Thalkirchner Straße 190 - <div>vertagt</div>
+- TOP 10.: Schulreferat
+- TOP 10.1.: Anpassung des städtischen Kindergartenversorgungsziels - Grundsatzbeschluss
+- TOP 10.2.: Änderung der Volksschulorganisation in der Landeshauptstadt München; Grundschlulen Pfeuferstraße 1, Bergmannstraße 36 und Plinganserstraße 28
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Umzug des Oktoberfestbauhofes
+- TOP 13.2.: Übermittlung der Standorte von schulischen Einrichtungen sowie Kindergärten / Horten an alle Mobilfunkbetreiber und Aufnahme dieser Einrichtugen in die Suchkreismeldungen - <div>nach Antrag</div>
+- TOP 13.3.: Vergabe von Zuschüssen nur für Veranstalter von Kulturprogrammen in barrierefreien Räumen - <div>Abweichende Beschlussfassung</div>
