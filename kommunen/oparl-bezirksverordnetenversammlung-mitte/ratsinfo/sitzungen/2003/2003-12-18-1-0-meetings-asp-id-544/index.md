@@ -1,0 +1,100 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2003-12-18T17:30:00+01:00
+- Ende: 2003-12-18T22:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=544
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=544
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=38912
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Bürgerhaushalt - beantwortet
+- TOP 3.2: Umweltpreis Mitte - beantwortet
+- TOP 3.3: Kita- und Schulanlagensanierungsprogramm (KSSP) im Bezirk Mitte - beantwortet
+- TOP 3.4: Wochenmarkt auf dem Hackeschen Markt - beantwortet
+- TOP 3.5: Kürzung des Blindengeldes - Verwaltungschaos auf dem Rücken der Betroffenen? - schriftlich beantwortet
+- TOP 3.6: Weihnachtsmarkt - schriftlich beantwortet
+- TOP 3.7: Namensgebung Olof Palme - schriftlich beantwortet
+- TOP 3.8: Datenabgleich mit der Sozialhilfe - schriftlich beantwortet
+- TOP 3.9: Job-Aktiv-Center - Arbeitsbeschaffungsmaßnahme für Bezirksverordnete? - schriftlich beantwortet
+- TOP 3.10: Zigarettenautomaten in öffentlichen Einrichtungen des Bezirksamtes Mitte (insbesondere Erika-Heß-Eisstadion) - schriftlich beantwortet
+- TOP 3.11: Fixerstuben und der Art. 89 (1) VvB - schriftlich beantwortet
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Fahrgeldpauschale für Leistungsbezieher/innen nach dem BSHG und AsylblG - beantwortet
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Kommunale Strategien gegen Rechtsextremismus und Fremdenfeindlichkeit im Bezirk Mitte - Aktionsplan - - beantwortet
+- TOP 5.2: Berlin-Kolleg - beantwortet
+- TOP 5.3: Umsetzung von Einzelmaßnahmen aus dem Verkehrskonzept Spandauer Vorstadt - beantwortet
+- TOP 5.4: Drogenkonsumraum in Moabit - wenig Informationen, viel Ablehnung? - beantwortet
+- TOP 5.5: "Social Sponsoring" - schriftlich beantwortet
+- TOP 5.6: Bürger-zum-Hauhalt.de und wohin noch? - schriftlich beantwortet
+- TOP 5.7: Auswirkungen des neuen Tarifvertrages im öffentlichen Dienst - schriftlich beantwortet
+- TOP 5.8: Geschäftsordnung der BVV - beantwortet
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Festsetzung der Erhaltungsverordnung gem. § 172 Abs. 1 Satz 1 Nr. 1 BauGB für das Gebiet "Westliches Ergänzungsgebiet Südliche Brunnenstraße" im Bezirk Mitte von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Bebauungsplanentwurf III-105-1 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-105-1 - überwiesen
+- TOP 8.3: Bebauungsplanentwurf III-240 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-240 - überwiesen
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Gegen häusliche Gewalt gegen Frauen II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2: Bezirklicher Leitfaden gegen häusliche Gewalt gegen Frauen III - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.3: Drogenkonsumräume - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.4: Straßenbenennung nach Yitzak Rabin
+- TOP 9.5: Krankenhausbeirat
+- TOP 9.6: Privates Geld für öffentliche Gebäude - Energiesparcontracting für Mittes Liegenschaften vorbereiten
+- TOP 9.7: Parkplatzkonzept für Reisebusse entwickeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.8: Bericht über Drogenkonsumräume/ alt Drucksachen Nr. I/ 537
+- TOP 9.9: Konzept Patenschaft zur Mittelstreifenbegrünung
+- TOP 9.10: Gefahrenstelle Bornholmer Straße 44
+- TOP 9.11: Umsetzung des § 5 des Interessenausgleichs durch Berliner Immobilienmanagement GmbH (BIM)
+- TOP 9.12: Anders Parken in der Kirchstraße
+- TOP 9.13: Zebrastreifen in der Kirchstraße
+- TOP 9.14: BürgerInnen wollen aktiv werden
+- TOP 9.15: Projekt Obdachlosenheim Legiendamm 30-32/ Waldemarstraße 12-18 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.16: Energiesparen als Kapitalanlage: Bürgercontracting - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.17: Patientenfürsprecher - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.18: Übertragung des Tarifvertrages - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.19: Stationärer Drogenkonsumraum in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.20: Schwerpunktsetzung bei der Abarbeitung des Antragsstaus bei der Grundsicherung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.21: Beschluss über das Ergebnis der Träger öffentlicher Belange zum Bebauungsplanentwurf III-114-2 und der Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.22: Übertragung der Kindertagesstätte Friedrichstraße 129 f an den freien Träger "Volkssolidarität Landesverband Berlin e.V." zum 01.01.2004 durch Nutzungsvertrag - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.23: Übertragung der Kindertagesstätte Bredowstraße 27a an den freien Träger "Arbeiter-Samariter-Bund Kinder- und Jugendhilfe gGmbH" am 01.01.2004 durch Nutzungsvertrag - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.24: Benennung des Bezirkswahlleiters und seines Stellvertreters für den Verwaltungsbezirk Mitte von Berlin für die Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland -Europawahl 2004- am 13. Juni 2004 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.25: Ergebnis der Beteiligung der Träger öffentlicher Belange zum Bebauungsplanentwurf III-213b, die Reduzierung des Geltungsbereiches und die Durchführung der öffentlichen Auslegung gem § 3 Abs. 2 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.26: Sicherheit am Kindermuseum alt: Drucksache Nr. I/286 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Ethik/ Philosophie an der Menzel-Oberschule - überwiesen
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Familie und oder Beruf - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Lärm ist schädlich - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Verkehrssicherheit Alexanderplatz - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Umweltbildungsangebote für Zuwanderer - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Neubau der Monbijoubrücke - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Anträge ins Internet - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Umsetzung Drogenkonsumraum - überwiesen
+- TOP 12.2: Zeitgemäßes und der Sache angemessenes Beschäftigungsprofil - überwiesen
+- TOP 12.3: Umzug des Berlin-Kollegs - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bürgerbeteiligung am Haushalt - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Öffentlicher Runder Tisch zum Drogenkonsumraum in Moabit - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Kooperation zwischen Verwaltung und Schulen - zurückgezogen
+- TOP 12.7: Community-Service-Programm - zurückgezogen
+- TOP 12.8: Umsetzung des Beschlusses - überwiesen
+- TOP 12.9: Klassenfahrten - überwiesen
+- TOP 12.10: Bericht über die Umsetzung des Chancengleichheitsplans - überwiesen
+- TOP 12.11: Entscheidungen ins Netz? - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Keine Streichung des kostenlosen AIDS-Tests (HIV-Test) - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Hoftheater Hexenkessel - zurückgezogen
