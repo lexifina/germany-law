@@ -2982,6 +2982,9 @@ bis 3,00 DM
 je Tonne Schlachtfleisch,
 welches im Betrieb
 gewonnen wird
+597.02 | Untersuchung mittels BSE-Test für Rinder, einschließlich Wasserbüffel und Bisons, im Alter von über 30 Monate |  |  | 
+je Tier |  |  | 50,- DM
+ |  | bis 250,- DM
 598 | Ausbildung/Prüfungen |  | 
 598.00 | Ausbildung zum/zur Fleischkontrolleur/in (Fleisch- und Trichinenuntersuchung) | je Teilnehmer | 300,- DM
 1 bis 2 Teilnehmer | je Teilnehmer | 225,- DM
