@@ -1,21 +1,11 @@
 # § 1a Begriffsbestimmungen
 (1) Rundfunk ist für die Allgemeinheit bestimmte, zeitlich geordnete und planvolle Veranstaltung und Verbreitung für die öffentliche Meinungsbildung relevanter Darbietungen aller Art in Wort, in Ton und in Bild unter Benutzung elektromagnetischer Schwingungen ohne Verbindungsleiter oder längs oder mittels eines Leiters, auch wenn die Darbietungen verschlüsselt verbreitet werden oder nur gegen ein besonderes Entgelt empfangbar sind.
-(2) Rundfunkähnliche Dienste sind technisch wie Rundfunk verbreitete, an die Allgemeinheit oder einen beschränkten Teilnehmerkreis gerichtete Kommunikationsangebote, die weder Rundfunk noch Individualkommunikation darstellen. Zu rundfunkähnlichen Diensten gehören insbesondere:
-1. Textdienste – Textprogramme, die zusammen mit einem Fernseh- oder Hörfunkprogramm die vertikale Austastlücke des Fernsehsignals (Fernsehtext) oder den Radiotext-Datenblock im RDS-Unterträger (Radiotext) nutzen,
-2. Kommunikationsangebote, soweit sie publizistische Inhalte enthalten, die geeignet sind, die öffentliche Meinungsbildung zu beeinflussen: Sendungen auf Abruf – Kommunikationsangebote, die von einem elektronischen Speicher selbständig an jeden Teilnehmer übermittelt werden, der sie einzeln abruft, unabhängig davon, ob die Übermittlung alsbald oder zu einem späteren Zeitpunkt vorgenommen wird und ob sie gegen Entgelt angeboten oder übermittelt wird,
-3. Sendungen auf Zugriff – Kommunikationsangebote, die im raschen Wechsel so verbreitet werden, daß jedermann jederzeit oder zu einem beliebigen Zeitpunkt innerhalb eines bestimmten Zeitrahmens jede einzelne Information auswählen und sofort oder mit einer Wartezeit sichtbar oder hörbar machen kann, soweit diese Kommunikationsangebote publizistische Inhalte enthalten, die geeignet sind, die öffentliche Meinungsbildung zu beeinflussen,
-4. Fernseheinkaufsprogramme – Angebote von Waren oder Dienstleistungen in Bild, Ton oder Text an eine Vielzahl von Adressaten mit dem Ziel der einzelnen Rückkommunikation, wenn über die reine Darstellung des Angebotes von Waren oder Dienstleistungen hinaus ein gestaltetes Beiprogramm angeboten wird, solange dieses Beiprogramm nicht im Vordergrund steht.
-(3) Unbeschadet der technischen Übertragungsmöglichkeiten ist weder Rundfunk noch rundfunkähnlicher Dienst, was keine publizistische Relevanz hat, insbesondere:
-1. der Austausch von Informationen und Daten (elektronische Post);
-2. Fernwirkdienste zum Messen, Steuern oder Regeln sowie vergleichbare Sicherheits- und Wachdienste;
-3. der elektronische Vertrieb als ein ausschließliches Angebot von Waren und Dienstleistungen an eine Vielzahl von Adressaten mit einer individuellen Rückkommunikation, soweit der Vertrieb selbst nicht ein Angebot auf Empfang von Rundfunk ist, insbesondere Verkaufskataloge, Telebanking, Telespiele, Buchungsdienste und Sendungen auf Abruf.
+(2) (aufgehoben)
+(3) (aufgehoben)
 (4) Vollprogramme sind Rundfunkprogramme mit vielfältigen Inhalten, in welchen Unterrichtung, Bildung und Unterhaltung insgesamt einen wesentlichen Teil des Gesamtprogrammes bilden.
 (5) Spartenprogramme sind Rundfunkprogramme mit wesentlich gleichartigen Inhalten, insbesondere als Nachrichten-, Bildungs-, Kultur-, Unterhaltungs- oder Sportprogramme.
 (6) Fensterprogramme sind zeitlich begrenzte Rundfunkprogramme von wöchentlich mindestens 60 Minuten Länge, die inhaltlich vorrangig auf sächsische Orte und Regionen, auf Sachsen oder auf Sachsen und eines oder mehrere benachbarte Länder bezogen sind oder überwiegend in Sachsen hergestellt werden und im Rahmen eines bundesweiten Programms zusammen mit diesem oder sendetechnisch getrennt verbreitet werden. Dabei kann der Veranstalter des Fensterprogramms auch mit anderen bundesweiten, landesweiten, regionalen oder örtlichen Veranstaltern zusammenarbeiten.
-(7) Sendung ist
-1. ein inhaltlich zusammenhängender, in sich geschlossener, zeitlich begrenzter Teil eines Rundfunkprogramms (Rundfunksendung),
-2. die einzelne Textseite oder die unmittelbar miteinander verknüpften Textseiten eines Textprogramms (Textsendung) oder
-3. die einzelne in sich geschlossene Ton- und Bewegtbilddarbietung (Ton- und Bewegtbildsendung).
-(8) Veranstalter ist, wer ein Rundfunkprogramm oder einen rundfunkähnlichen Dienst in eigener inhaltlicher Verantwortung verbreitet.
+(7) Sendung ist ein inhaltlich zusammenhängender, in sich geschlossener, zeitlich begrenzter Teil eines Rundfunkprogramms.
+(8) Veranstalter ist, wer ein Rundfunkprogramm in eigener inhaltlicher Verantwortung verbreitet.
 (9) Landesanstalt ist die Sächsische Landesanstalt für privaten Rundfunk und neue Medien.
 (10) Technische Übertragungskapazitäten sind elektromagnetische Wellen bestimmter Frequenz oder Frequenzbänder (Frequenzen).
