@@ -1,0 +1,78 @@
+# 6. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2002-04-25T16:00:00+02:00
+- Ende: 2002-04-25T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=7
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=7
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_04 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Wahl des Schriftführers - vertagt
+- TOP 8: Wahl der stellv. Schriftführerin/des stellv. Schriftführers
+- TOP 9: Kölner Modell - schriftlich beantwortet
+- TOP 10: Stadtschreiber - schriftlich beantwortet
+- TOP 11: Europäische Förderprogramme - schriftlich beantwortet
+- TOP 12: Mittel aus städtebaulichen Verträgen - schriftlich beantwortet
+- TOP 13: Gedenken an die Opfer der SED-Diktatur - beantwortet
+- TOP 14: Die soziokulturelle Infrastruktur Treptow-Köpenicks - vertagt
+- TOP 15: Entwurf des Doppelhaushaltes Treptow-Köpenick für die Haushaltsjahre 2002/2003
+- TOP 15.1: Doppelhaushalt 2002/2003 - Inhaltlich nicht steuerbare Titel des T-Teils - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Doppelhaushalt 2002/2003 - Finanzierung Krematorium - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15.3: Doppelhaushalt 2002/2003 -Haushaltsdurchführung 2002 - mit Änderungen in der BVV beschlossen
+- TOP 15.4: Doppelhaushalt 2002/2003 - Vorbereitung Ergänzungshaushalt 2003 - ohne Änderungen in der BVV beschlossen
+- TOP 16: Bezirkshaushaltsrechnung 1999 mit Vorbericht und Entlastung des Bezirksamtes <span style="color: #888a85" title="Zusatzinfo">(übernommen aus WP IV-K)</span>
+- TOP 17: Genehmigung der Bezirkshaushaltsrechnung Treptow für das Haushaltsjahr 1999 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 18: Aufnahme des Bezirks Treptow-Köpenick, Teil Köpenick, von Berlin in das Gesunde Städte-Netzwerk der Bundesrepublik Deutschland <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span>
+- TOP 19: Lärmbelästigung und Verwahrlosung am neu errichteten Sport- und Bolzplatz an der 15. Grundschule "Am Buntzelberg" in Bohnsdorf <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span>
+- TOP 20: Straßenbenennung im Baugebiet Hessenwinkel-West <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span>
+- TOP 21: Verbreitern des Fahrbahnbereiches Regattastraße/Sportpromenade zur Gewinnung von Parkplätzen und Verbesserung des Verkehrs <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span>
+- TOP 22: Genehmigung der im Haushaltsjahr 2000 in Anspruch genommenen über- und außerplanmäßigen Ausgaben <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 23: Genehmigung der im 1. Halbjahr 2001 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen
+- TOP 24: Schließung der Grundschule am Fischerkietz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 25: "Tag der offenen Tür" Kaufhalle Allende II
+- TOP 26: Bebauungsplan XV-19 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 27: Mieten freier Träger in landeseigenen Objekten - ohne Änderungen in der BVV beschlossen
+- TOP 28: Köpenicker Sommer
+- TOP 29: Europaweiter Autofreier Tag
+- TOP 30: Absperrungen und Bauzäune
+- TOP 31: Modellprojekt zum Projekt "Teilräumliche Lärmminderungsplanung" - überwiesen
+- TOP 32: Aufstellungsbeschluss der Erhaltungsverordnung gemäß § 172 Abs. 1 BauGB für den Ortsteil Oberschöneweide - überwiesen
+- TOP 33: Beschluss zur Aufstellung des Bebauungsplanes 9-5 im Bezirk Treptow-Köpenick, Ortsteil Müggelheim - überwiesen
+- TOP 34: Anmeldung zur Investitionsplanung 2002 bis 2006 - überwiesen
+- TOP 35: Beflaggung zum Christopher-Street-Day - ohne Änderungen in der BVV beschlossen
+- TOP 36: Mobile Einkaufsmöglichkeiten Allende II - überwiesen
+- TOP 37: Keine Sparmaßnahmen auf den Rücken unserer Kinder - ohne Änderungen in der BVV beschlossen
+- TOP 38: Fluglärm-Messstelle in Müggelheim - überwiesen
+- TOP 39: Finanzierung öffentlicher und freier Träger 2003 - vertagt
+- TOP 40: "Grünes Dreieck Späthsfelde" - überwiesen
+- TOP 41: Vermeidung von Mietkautionszahlungen für Empfänger von Sozialleistungen - überwiesen
+- TOP 42: Mittel aus städtebaulichem Vertrag für Schule am Wasserturm einsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 43: Maßnahmen gegen Schmierereien an bezirkseigenen Gebäuden - vertagt
+- TOP 44: Direkte S-Bahn-Verbindung Grünau-Innenstadt - überwiesen
+- TOP 45: Rücksicht Seniorinnen und Senioren vor Einrichtungen - vertagt
+- TOP 46: Sanierung Rad- und Fußweg am Falkenberg - überwiesen
+- TOP 47: Benennung einer Straße oder eines Platzes im Bezirk Treptow-Köpenick nach Hans Schmidt - ohne Änderungen in der BVV beschlossen
+- TOP 48: Weitere Entwicklung und Profilierung des Innovationsparkes Wuhlheide - überwiesen
+- TOP 49: Optimierung der LSA-Steuerung für TVO - ohne Änderungen in der BVV beschlossen
+- TOP 50: LKW-Fahrverbot Königsheideweg - vertagt
+- TOP 51: Marktplatzgestaltung von Friedrichshagen - vertagt
+- TOP 52: Umgestaltung des Platzes des 23. April - vertagt
+- TOP 53: Vermittlung von Gewerbeflächen und Standortmarketing - vertagt
+- TOP 54: Vollzeitpflege in Familien nach KJHG - vertagt
+- TOP 55: Personalausstattung im Sozialamt Treptow-Köpenick - vertagt
+- TOP 56: Wirtschaftsentwicklung kontra Umwelt- und Naturschutz - vertagt
+- TOP 57: Montessori-Zweig an Köpenicker Grundschulen - vertagt
+- TOP 58: Parkhaus Treptow - wie geht es weiter? - vertagt
+- TOP 59: Versammlung der Beschäftigten aller Berliner Bezirksämter - ohne Änderungen in der BVV beschlossen
+- TOP 60: Änderungen bei den Ausschüsses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
