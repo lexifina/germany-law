@@ -1,8 +1,8 @@
 # (3) Die Grenzen des Schutzgebietes sind in einer Übersichtskarte
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2001-02-10 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/15182.1
+- Datum: 2002-12-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/15231.1
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -12,25 +12,17 @@
 
 Festsetzung als Schutzgebiet
 
-Die in § 2 näher bezeichneten Flächen auf dem Gebiet der Stadt Radeburg im Landkreis Meißen und der Gemeinde Laußnitz im Landkreis Kamenz werden als Naturschutzgebiet festgesetzt. Das Naturschutzgebiet führt die Bezeichnung „Waldmoore bei Großdittmannsdorf“.
+Die in § 2 näher bezeichneten Flächen auf dem Gebiet der Stadt Meißen und der Gemeinde Diera-Zehren im Landkreis Meißen werden als Naturschutzgebiet festgesetzt. Das Naturschutzgebiet führt die Bezeichnung „Elbtalhänge zwischen Rottewitz und Zadel“.
 
 § 2
 
 Schutzgegenstand
 
-(1) Das Naturschutzgebiet hat eine Größe von etwa 93,5 ha.
+(1) Das Naturschutzgebiet hat eine Größe von etwa 31,1 ha.
 
-(2) Das Schutzgebiet umfasst
+(2) Das sich am Elbtalhang zwischen Rottewitz und Zadel erstreckende Naturschutzgebiet besteht aus zwei Teilbereichen westlich und östlich der Gemeindestraße vom Ortsteil Karpfenschänke nach Diera. Bestandteile des Naturschutzgebietes sind aufgelassene Steinbrüche, bewaldete Steilhänge, Streuobstwiesen sowie Trockenrasen im Außenbereich zwischen der Straße im Elbtal im Süden und den Rebflächen auf dem Plateau im Norden. Bewirtschaftete Weinberge befinden sich nicht im Naturschutzgebiet.
 
-1.
-
-auf dem Gebiet der Stadt Radeburg, Gemarkung Großdittmannsdorf nach dem Stand der Flurkarte vom 7. Juni 1994 die Flurstücke 966 und 967 (teilweise) sowie
-
-2.
-
-auf dem Gebiet der Gemeinde Laußnitz, Gemarkung Laußnitz nach dem Stand der Flurkarte vom 25. Mai 1994 die Flurstücke 1319/2 (teilweise), 1320/2 (teilweise), 1320/4, 1320/5, 1321, 1323, 1328, 1333/1 (teilweise), 1333/2 (teilweise) und 1334 (teilweise).
-
-(3) Die Grenzen des Schutzgebietes sind in einer Übersichtskarte vom 19. Dezember 2000 im Maßstab 1 : 10 000 und in zwei Flurkarten vom 19. Dezember 2000 im Maßstab 1 : 2 000 und 1 : 5 000 eingetragen. Maßgebend für den Grenzverlauf ist die Linienaußenkante der Grenzeintragungen in der  Flurkarte. Die Karten sind Bestandteil der Verordnung. Die Verordnung wird zusammen mit der Übersichtskarte im Sächsischen Amtsblatt verkündet. Die Verordnung mit Karten ist beim Regierungspräsidium Dresden, in 01099 Dresden, Stauffenbergallee 2,  auf die Dauer von zwei Wochen nach der Verkündung im Sächsischen Amtsblatt zur kostenlosen Einsicht durch jedermann während der Sprechzeiten öffentlich ausgelegt.
+(3) Die Grenzen des Schutzgebietes sind in einer Übersichtskarte vom 25. Oktober 2002 im Maßstab 1 : 10 000 und in fünf Flurkarten vom 25. Oktober 2002 im Maßstab  1 : 2 000 eingetragen. Maßgebend für den Grenzverlauf ist die Linienaußenkante der Grenzeintragungen in den Flurkarten. Die Karten sind Bestandteil der Verordnung. Die Verordnung wird zusammen mit der Übersichtskarte im Sächsischen Amtsblatt verkündet. Die Verordnung mit Karten ist beim Regierungspräsidium Dresden, in 01099 Dresden, Stauffenbergallee 2, im Raum 3089, auf die Dauer von zwei Wochen nach der Verkündung im Sächsischen Amtsblatt zur kostenlosen Einsicht durch jedermann während der Sprechzeiten öffentlich ausgelegt.
 
 (4) Die Verordnung mit Karten wird nach Ablauf der Auslegungsfrist beim Regierungspräsidium Dresden zur kostenlosen Einsicht durch jedermann während der Sprechzeiten niedergelegt.
 
@@ -38,33 +30,53 @@ auf dem Gebiet der Gemeinde Laußnitz, Gemarkung Laußnitz nach dem Stand der Fl
 
 Schutzzweck
 
-(1) Schutzzweck ist die Erhaltung, Entwicklung und wissenschaftliche Dokumentation eines bewaldeten Moor- und Quellgebietes am Südwestrand der Laußnitzer Heide. Es weist eine landesbedeutsame Biotop- und Artenausstattung sowie Moorwaldentwicklung auf.
+(1) Schutzzweck ist die nachhaltige Bewahrung, pflegliche Nutzung und naturschutzgerechte Entwicklung zweier Steilhänge des Meißener Durchbruchtales der Elbe zwischen Rottewitz und Zadel. Sie prägen das Bild einer historisch gewachsenen, naturnahen Kulturlandschaft und dienen mit ihrem besonderen Lokalklima als Lebensstätte für zahlreiche seltene und gefährdete Pflanzengesellschaften und Tierarten. Das Gebiet ist Bestandteil eines zusammenhängenden europäischen ökologischen Netzes besonderer Schutzgebiete im Sinne der Richtlinie 92/43/EWG des Rates zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (Flora-Fauna-Habitat-Richtlinie) vom 21. Mai 1992 (ABl. EG Nr. L 206, S. 7), zuletzt geändert durch die Richtlinie 97/62/EG vom 27. Oktober 1997 (ABl. EG Nr. L 305, S. 42), in der jeweils geltenden Fassung.
 
 (2) Schutzzweck ist insbesondere
 
 1.
 
-die Erhaltung des gebietseigenen Hydroregimes, einschließlich von Schutz- und Pufferzonen ohne Entwässerung;
+die Erhaltung und Entwicklung des Gesamtgebietes und seiner Teile in ihrem räumlichen und funktionellen Zusammenhang unter Vermeidung direkter Stoffeinträge sowie innerer und äußerer Störungseinflüsse;
 
 2.
 
-die Bewahrung eines intakten Moor- und Torfkörpers mit Waldmooren, Sümpfen, seggen- und binsenreichen Nassstandorten, Moorwäldern, Quellbereichen, naturnahen Kleingewässern, Verlandungsbereichen stehender Gewässer sowie höhlenreichen Altholzinseln und höhlenreichen Einzelbäumen als ungestörten Lebensraum für die moortypischen gefährdeten und empfindlichen Pflanzengesellschaften und Tiergemeinschaften;
+die Sicherung und Verbesserung der Kohärenzbedingungen zu angrenzenden und benachbarten Lebensräumen und Lebensstätten, die nach der Flora-Fauna-Habitat-Richtlinie von gemeinschaftlicher Bedeutung sind;
 
 3.
 
-die Erhaltung und Entwicklung eines naturnahen Moorwaldes mit einem hohen Anteil an Altbäumen, Höhlenbäumen und Totholz;
+die Ruhigstellung der aufgelassenen Steinbrüche einschließlich der Oberhänge und Bruchsohlen als Lebensstätten für störungsempfindliche, Fels bewohnende Tierarten mit teilweise hohen Schutzansprüchen;
 
 4.
 
-die Erhaltung und Entwicklung einer moortypischen Flora von überregionaler Bedeutung;
+die Erhaltung der Gesteinshalden, Felsköpfe, Lößwände und Trockenmauern als Lebensstätten für seltene wärmebedürftige Tierarten;
 
 5.
 
-die Erhaltung und Entwicklung des Lebensraumes einer beispielhaft vollständigen moortypischen Fauna, insbesondere von Libellen-, Lurch-, Kriechtier- und Vogelarten sowie
+die Gewährleistung der weiteren Vegetationsentwicklung von besonders trockenwarmen seltenen Sonderstandorten auf Gestein und Löß in aufgelassenen Steinbrüchen und an natürlichen Felshängen;
 
 6.
 
-die Erhaltung der als historische Zeugnisse früherer Kulturlandschaft überkommenen Elemente Kleinteich, Dämme, Gräben, Forst- und Wegesäulen, Heidewege und Hohlweg.
+die Erhaltung der blütenreichen Pflanzengesellschaften des mageren Grünlandes und der Trockenrasen auf der Lößterrasse oberhalb der Steilhänge in ihrer kleinräumigen standörtlichen Verschiedenheit durch spezifische Pflege;
+
+7.
+
+die Erhaltung und Entwicklung der trockenwarmen Gebüsche und Wälder als Lebensstätten, vernetzende und Einfluss dämpfende Strukturen durch Pflege, pflegliche Nutzung und Sukzession;
+
+8.
+
+die Bewahrung und Entwicklung eines dauerhaft günstigen Erhaltungszustandes der gebietseigenen Lebensraum-Typen gemäß Anhang I der Flora-Fauna-Habitat-Richtlinie, insbesondere der Trespen-Schwingel-Kalk-Trockenrasen, mageren Flachland-Mähwiesen, Silikatfelsen mit Felsspalten- und Pioniervegetation und Labkraut-Eichen-Hainbuchenwäldern sowie ihrer Arten;
+
+9.
+
+die Bewahrung und Entwicklung eines dauerhaft günstigen Erhaltungszustandes der gebietseigenen Populationen aller Tier- und Pflanzenarten gemäß der Anhänge II und IV der Flora-Fauna-Habitat-Richtlinie, insbesondere von Fledermäusen, Schlingnatter, Zauneidechse und der Schmetterlingsart Spanische Flagge;
+
+10.
+
+die Erhaltung, Förderung und Pflege der gebietstypischen seltenen Wildbirne sowie des baumhöhlenreichen Streuobstes;
+
+11.
+
+die Erhaltung des charakteristischen Bildes einer landesbedeutsamen Kulturlandschaft von hervorragender Schönheit, Eigenart und Vielfalt.
 
 § 4
 
@@ -76,7 +88,7 @@ Verbote
 
 1.
 
-bauliche Anlagen im Sinne der Sächsischen Bauordnung (SächsBO) in der Fassung vom 18. März 1999 (SächsGVBl. S. 85), in der jeweils geltenden Fassung, zu errichten, zu ändern, abzubrechen oder der Errichtung gleichgestellte Maßnahmen durchzuführen;
+bauliche Anlagen im Sinne der Sächsischen Bauordnung (SächsBO) vom 18.  März 1999 (SächsGVBl. S. 85, 86), zuletzt geändert durch Artikel 3 des Gesetzes vom 14. Dezember 2001 (SächsGVBl. S. 716, 724), zu errichten, zu ändern, abzubrechen oder der Errichtung gleichgestellte Maßnahmen durchzuführen;
 
 2.
 
@@ -96,7 +108,7 @@ Abfälle oder sonstige Materialien oder Stoffe einzubringen oder zu lagern;
 
 6.
 
-Entwässerungs- oder andere Maßnahmen vorzunehmen, die den Wasserhaushalt des Gebietes verändern können, oder Gewässer zu verunreinigen;
+Entwässerungs- oder andere Maßnahmen vorzunehmen, die den Wasserhaushalt des Gebietes verändern können;
 
 7.
 
@@ -116,7 +128,7 @@ die bisherige Grundstücksnutzung in einer Art zu ändern, welche dem Schutzzwec
 
 11.
 
-zu baden oder Eis- oder Wassersport zu betreiben oder Sportveranstaltungen durchzuführen;
+Felsen zu beklettern oder Sportveranstaltungen durchzuführen;
 
 12.
 
@@ -124,7 +136,7 @@ zu zelten, zu lagern, Wohnwagen, sonstige Fahrzeuge oder Verkaufsstände aufzust
 
 13.
 
-Flächen außerhalb der Wege zu betreten, auf diesen zu reiten oder mit motorgetriebenen oder bespannten Fahrzeugen zu befahren;
+Flächen außerhalb der Straßen und Wege zu betreten, auf diesen zu reiten oder mit motorgetriebenen oder bespannten Fahrzeugen zu befahren;
 
 14.
 
@@ -146,7 +158,7 @@ mit Luftfahrzeugen zu starten oder zu landen.
 
 Zulässige Handlungen
 
-§ 4 gilt nicht
+(1) § 4 gilt nicht
 
 1.
 
@@ -154,50 +166,37 @@ für die dem Schutzzweck untergeordnete Ausübung der Jagd mit den Maßgaben, da
 
 a)
 
-die Jagd als Ansitz- oder Pirschjagd erfolgt;
+die Jagd auf Schalen- und Raubwild als Einzeljagd erfolgt;
 
 b)
 
-die Bejagung des Schalen- und Raubwildes durch Drückjagd vom 1. Oktober bis zum 31. Dezember eines jeden Jahres zulässig ist, außerhalb dieses Zeitraumes bedarf sie der Genehmigung der Naturschutzbehörde;
+die Bejagung des Schalen- und Raubwildes durch Drückjagd vom 1. Oktober bis zum 31. Dezember eines jeden Jahres zulässig ist, außerhalb dieses Zeitraumes der Genehmigung durch die Naturschutzbehörde bedarf;
 
 c)
 
-die Jagd auf Federwild in den gemäß § 26
-SächsNatSchG geschützten moor- und nässebestimmten Biotopen verboten ist;
+die Jagd auf Federwild verboten ist;
 
 d)
 
-der Jagdausübungsberechtigte die gemäß § 26
-SächsNatSchG geschützten moor- und nässebestimmten Biotope außerhalb der Wege nur zur Nachsuche und Aufnahme des erlegten Wildes betreten darf;
+gemäß § 37 Abs. 3
+SächsLJagdG die Anlage von Jagdeinrichtungen der Genehmigung durch die Naturschutzbehörde bedarf;
 
 e)
 
-die Anlage von Jagdeinrichtungen gemäß § 37 Abs. 3
-SächsLJagdG der Genehmigung der Naturschutzbehörde bedarf, die Anlage von Kirrungen, Wildfütterungen oder Salzleckstellen in den gemäß § 26
-SächsNatSchG geschützten moor- und nässebestimmten Biotopen jedoch verboten ist;
+gemäß § 30 Abs. 2 Nr. 7
+SächsLJagdG die Jagd mit Schlageisen verboten ist;
 
 2.
 
-für die dem Schutzzweck entsprechende umweltgerechte Waldbewirtschaftung in der bisherigen Art und im bisherigen Umfang mit den Maßgaben, dass
+für die dem Schutzzweck entsprechende umweltgerechte landwirtschaftliche Nutzung und Waldbewirtschaftung in der bisherigen Art und im bisherigen Umfang mit den Maßgaben, dass
 
 a)
 
-die Forstarbeiten im Zeitraum zwischen dem 1. September und dem 1. März eines jeden Jahres durchzuführen sind; notwendige Forstarbeiten außerhalb dieses Zeitraumes bedürfen der Genehmigung der Naturschutzbehörde; Maßnahmen des Forstschutzes bleiben hiervon unberührt;
+das Einbringen von Dung, Gülle, Jauche oder Mineraldünger oder
 
 b)
 
-nur standortheimische Gehölze gepflanzt werden dürfen;
-
-c)
-
-Kahlhiebe im Sinne des § 19 Waldgesetzes für den Freistaat Sachsen (SächsWaldG) vom 10. April 1992 (SächsGVBl. S. 137) in der jeweils geltenden Fassung verboten sind;
-
-d)
-
-Düngung, Kalkung, die Lagerung oder der Einsatz von Bioziden, Auftaumitteln oder anderen Chemikalien verboten ist;
-
-§ 4 Abs. 2 Nr. 2, 6 und 10 bleibt unberührt; auf § 30 Abs. 2
-SächsWaldG wird verwiesen;
+die Lagerung oder Anwendung von Bioziden, Auftaumitteln oder anderer Chemikalien verboten ist; § 4 Abs. 2 Nr. 2 bleibt unberührt; auf § 30 Abs. 2 des Waldgesetzes für den Freistaat Sachsen (SächsWaldG) vom 10. April 1992 (SächsGVBl. S. 137), das zuletzt durch Artikel 19 des Gesetzes vom 6. Juni 2002 (SächsGVBl. S. 168, 172) geändert worden ist, wird verwiesen;
 
 3.
 
@@ -217,43 +216,67 @@ für die von der Naturschutzbehörde angeordneten oder genehmigten Wegemarkierun
 
 7.
 
-für Tätigkeiten im Rahmen von Forschungsarbeiten einschließlich Dokumentationen und Sicherungsarbeiten, die von der Naturschutzbehörde veranlasst oder genehmigt werden.
+für Tätigkeiten im Rahmen von wissenschaftlichen Arbeiten einschließlich Dokumentationen und Sicherungsarbeiten sowie Maßnahmen zur Generhaltung, die von der Naturschutzbehörde veranlasst oder genehmigt werden.
+
+(2) Die in Absatz 1 festgelegten Verbote, Gebote und Maßgaben für die land- und forstwirtschaftliche Bodennutzung gelten nicht, solange und soweit sich der Nutzungsberechtigte durch schriftliche Vereinbarung mit der Naturschutzbehörde oder im Einvernehmen mit der Naturschutzbehörde zur Einhaltung der dort ausgesprochenen Vorgaben verpflichtet hat.
 
 § 6
 
 Pflege- und Entwicklungsgrundsätze
 
-(1) Grundsätze der Pflege und Entwicklung des Naturschutzgebietes sind:
+(1) Die Grundsätze der Pflege und Entwicklung des Naturschutzgebietes folgen den Leitbildern,
 
 1.
 
-den Torfbildungsprozess zu fördern;
+die Standorte nach den Prioritäten der Einzelschutzzwecke nachhaltig zu sichern und
 
 2.
 
-naturnahe Moorwälder auf nässebestimmten Standorten mit einem hohen Anteil höhlenreicher Altbäume und Totholzstämme als Vermehrungs- und Wohnstätten geschützter Arten weiter auszuprägen;
+die Vegetationsstruktur der Wiesen, Halbtrockenrasen, Säume, Gebüsche und Wälder in einem räumlichen und zeitlichen Wechsel von pfleglicher Nutzung, Pflege und zeitweiliger oder vollständiger Auflassung in ihrer gebietstypischen Vielfalt und kleinteiligen Vernetzung zu erhalten.
+
+(2) Wesentliche Grundsätze der Pflege und Entwicklung sind
+
+1.
+
+die Verbesserung der Kohärenzbedingungen zu angrenzenden und benachbarten Lebensräumen und Lebensstätten, die nach der Flora-Fauna-Habitat-Richtlinie von gemeinschaftlicher Bedeutung sind, insbesondere durch Grünland- und Waldpflege;
+
+2.
+
+die Offenhaltung des weitgehend gehölzfrei zu haltenden blütenreichen Grünlandes auf dem Lößplateau durch regelmäßige extensive Beweidung mit Schafen und Ziegen sowie ergänzende Mahd mit Beräumung des Mähgutes;
 
 3.
 
-bodenständige Baumarten, insbesondere die Stieleiche und die Tieflandsfichte, durch weitere Naturwaldentwicklung auf festzulegenden Teilflächen und geeignete forstliche Maßnahmen, einschließlich Naturverjüngung, zu fördern;
+die regelmäßige auflockernde Entbuschung der Plateau-, Hang- und Sohlenbereiche mit Entnahmeschwerpunkten in dicht schließenden Schlehen- und Hartriegelgebüschen;
 
 4.
 
-die hydrologische Schutzzone durch die langfristige Umwandlung der Forsten in naturnahe und standortheimische Waldgesellschaften trockenwarmer Standorte durch geeignete forstliche Maßnahmen ökologisch aufzuwerten;
+der Umbau der größeren Robinienbestände in naturnahen Eichenmischwald durch schrittweise Entnahme, Nachpflanzung und kontinuierliche Förderung der Naturverjüngung;
 
 5.
 
-die seggen- und binsenreiche Forstwiese im Südteil jährlich einschürig zu mähen oder mit Schafen zu beweiden;
+die dauerhafte Erhaltungspflege der gebietstypischen Wälder, die dem natürlichen Vegetationspotential entsprechen, bei Belassen des Totholzes;
 
 6.
 
-in Flächenrotation Teile der Flachmoorwiese jährlich einschürig zu mähen, um die Verbuschung zu verhindern und Nährstoffe zu entziehen und
+die Erhaltungspflege des baumhöhlenreichen Streuobstes in einer ausgewogenen Altersverteilung;
 
 7.
 
-das forstgeschichtlich bedeutsame Wege- und Schneisensystem ohne weiteren technischen Ausbau zu unterhalten.
+die Förderung der Wildbirne durch periodisches Freistellen ihrer Standorte;
 
-(2) Die erforderlichen Pflege- und Entwicklungsmaßnahmen können in einem Pflege- und Entwicklungsplan festgelegt werden. Auf § 15 Abs. 5, §§ 38 und 39
+8.
+
+die bedarfsweise Steuerung der Vegetationsstruktur an Lebensstätten spezieller Pflanzen- und Tierarten durch kleinflächiges Auflichten und Entnehmen;
+
+9.
+
+das regelmäßige Offenhalten der sonnenexponierten Gesteinsschuttstandorte in den Alt-Steinbrüchen;
+
+10.
+
+die Instandhaltung der gebietstypischen Trockenmauern.
+
+(3) Die erforderlichen Pflege- und Entwicklungsmaßnahmen können in einem Pflege- und Entwicklungsplan festgelegt werden. Auf den § 15 Abs. 5, die §§ 38 und 39
 SächsNatSchG wird verwiesen.
 
 § 7
@@ -298,7 +321,7 @@ entgegen § 4 Abs. 2 Nr. 5 Abfälle oder sonstige Materialien oder Stoffe einbri
 
 6.
 
-entgegen § 4 Abs. 2 Nr. 6 Entwässerungs- oder andere Maßnahmen vornimmt, die den Wasserhaushalt des Gebietes verändern können, oder Gewässer verunreinigt;
+entgegen § 4 Abs. 2 Nr. 6 Entwässerungs- oder andere Maßnahmen vornimmt, die den Wasserhaushalt des Gebietes verändern können;
 
 7.
 
@@ -318,7 +341,7 @@ entgegen § 4 Abs. 2 Nr. 10 die bisherige Grundstücksnutzung in einer Art ände
 
 11.
 
-entgegen § 4 Abs. 2 Nr. 11 badet oder Eis- oder Wassersport betreibt oder Sportveranstaltungen durchführt;
+entgegen § 4 Abs. 2 Nr. 11 Felsen beklettert oder Sportveranstaltungen durchführt;
 
 12.
 
@@ -326,7 +349,7 @@ entgegen § 4 Abs. 2 Nr. 12 zeltet, lagert, Wohnwagen, sonstige Fahrzeuge oder V
 
 13.
 
-entgegen § 4 Abs. 2 Nr. 13 Flächen außerhalb der Wege betritt, auf diesen reitet oder mit motorgetriebenen oder bespannten Fahrzeugen befährt;
+entgegen § 4 Abs. 2 Nr. 13 Flächen außerhalb der Straßen und Wege betritt, auf diesen reitet oder mit motorgetriebenen oder bespannten Fahrzeugen befährt;
 
 14.
 
@@ -351,62 +374,50 @@ SächsNatSchG handelt des Weiteren, wer vorsätzlich oder fahrlässig
 
 1.
 
-entgegen § 5 Nr. 1 Buchst. d als Jagdausübungsberechtigter die gemäß § 26
-SächsNatSchG geschützten moor- und nässebestimmten Biotope außerhalb der Wege betritt, soweit dies nicht zur Nachsuche und Aufnahme des erlegten Wildes erfolgt;
+entgegen § 5 Abs. 1 Nr. 1 Buchst. d ohne Genehmigung der Naturschutzbehörde Jagdeinrichtungen anlegt;
 
 2.
 
-entgegen § 5 Nr. 1 Buchst. e in den gemäß § 26
-SächsNatSchG geschützten moor- und nässebestimmten Biotopen Kirrungen, Wildfütterungen oder Salzleckstellen anlegt;
+entgegen § 5 Nr. 2 Buchst. a Dung, Gülle, Jauche oder Mineraldünger einbringt;
 
 3.
 
-entgegen § 5 Nr. 2 Buchst. a ohne Genehmigung der Naturschutzbehörde Forstarbeiten außerhalb des Zeitraumes zwischen dem 1. September und dem 1. März eines jeden Jahres durchführt, soweit sie nicht dem Forstschutz dienen;
+entgegen § 5 Nr. 2 Buchst. b Biozide, Auftaumittel oder andere Chemikalien lagert oder anwendet oder
 
 4.
 
-entgegen § 5 Nr. 2 Buchst. b Gehölze pflanzt, die nicht standortheimisch sind;
-
-5.
-
-entgegen § 5 Nr. 2 Buchst. c Kahlhiebe im Sinne des § 19
-SächsWaldG vornimmt;
-
-6.
-
-entgegen § 5 Nr. 2 Buchst. d düngt, kalkt, Biozide, Auftaumittel oder andere Chemikalien lagert oder einsetzt oder
-
-7.
-
-entgegen § 5 Nr. 7 ohne Veranlassung oder Genehmigung durch die Naturschutzbehörde Tätigkeiten im Rahmen von Forschungsarbeiten einschließlich Dokumentationen und Sicherungsarbeiten durchführt.
+entgegen § 5 Abs. 1 Nr. 7 ohne Veranlassung oder Genehmigung der Naturschutzbehörde Tätigkeiten im Rahmen von wissenschaftlichen Arbeiten einschließlich Dokumentationen und Sicherungsarbeiten sowie Maßnahmen zur Generhaltung durchführt.
 
 (4) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 1
 SächsNatSchG handelt auch, wer vorsätzlich oder fahrlässig einer vollziehbaren Auflage zuwiderhandelt, mit der eine nach § 53
 SächsNatSchG erteilte Befreiung oder eine nach § 7 Abs. 2 dieser Verordnung erteilte Genehmigung versehen worden ist.
 
-(5) Ordnungswidrig im Sinne des § 58 Abs. 1
+(5) Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 5 Buchst. a
 SächsLJagdG handelt, wer vorsätzlich
 
 1.
 
-entgegen § 5 Nr. 1 Buchst. a die Jagd anders als durch Ansitz- oder Pirschjagd ausübt oder ohne Genehmigung der Naturschutzbehörde die Drückjagd auf Schalen- und Raubwild außerhalb des Zeitraumes vom 1. Oktober bis zum 31. Dezember eines jeden Jahres ausübt oder
+entgegen § 5 Abs. 1 Nr. 1 Buchst. a die Jagd auf Schalen- und Raubwild anders als durch Einzeljagd ausübt;
 
 2.
 
-entgegen § 5 Nr. 1 Buchst. b in den gemäß § 26
-SächsNatSchG geschützten moor- und nässebestimmten Biotopen Federwild jagt.
+entgegen § 5 Abs. 1 Nr. 1 Buchst. b ohne Genehmigung durch die Naturschutzbehörde die Drückjagd auf Schalen- und Raubwild außerhalb des Zeitraumes vom 1. Oktober bis zum 31. Dezember durchführt oder
+
+3.
+
+entgegen § 5 Abs. 1 Nr. 1 Buchst. c Federwild jagt.
 
 § 9
 
-In-Kraft-Treten und Außer-Kraft-Treten
+In-Kraft-Treten
 
-Diese Verordnung tritt am Tage nach Ablauf der Auslegungsfrist gemäß § 2 Abs. 3 Satz 5 in Kraft. Gleichzeitig tritt die Verordnung des Regierungspräsidiums Dresden zur einstweiligen Sicherstellung des Naturschutzgebietes „Waldmoore bei Großdittmannsdorf“ vom 12. März 1996 (SächsABl. S. 392) und die Verordnung des Regierungspräsidiums Dresden zur Verlängerung der Geltungsdauer der Verordnung des Regierungspräsidiums Dresden zur einstweiligen Sicherstellung des Naturschutzgebietes „Waldmoore bei Großdittmannsdorf“ vom 24. Februar 1999 (SächsGVBl. 142) außer Kraft.
+Diese Verordnung tritt am Tage nach Ablauf der Auslegungsfrist gemäß § 2 Abs. 3 Satz 5 in Kraft.
 
-Dresden, den 19. Dezember 2000
+Dresden, den 25. Oktober 2002
 
 Regierungspräsidium Dresden
 
-Dr. Weidelener
+Dr. Hasenpflug
 
 Regierungspräsident
 
