@@ -1,0 +1,3 @@
+# § 13a Instandhaltung, Wartung, Betriebskontrolle
+(1) Der Unternehmer hat durch Instandhaltungs- und Wartungsmaßnahmen sowie Inspektionen dafür zu sorgen, dass die Anlage während der gesamten Betriebsdauer den Anforderungen des Anhangs II der Richtlinie 2000/9/EG entspricht.
+(2) Für die Instandhaltungs- und Wartungsmaßnahmen, die Inspektionen und Betriebskontrollen sowie für den Brandschutz und die Alarmierung hat der Unternehmer einen Plan nach dem Stand der Technik aufzustellen, regelmäßig auf den neuesten Stand zu bringen und im Betrieb verfügbar zu halten. Über die Maßnahmen und Kontrollen sind Nachweise zu führen.
