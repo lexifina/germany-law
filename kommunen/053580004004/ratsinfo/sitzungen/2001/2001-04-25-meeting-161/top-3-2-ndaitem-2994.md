@@ -1,4 +1,4 @@
-# TOP 3.2.: Genehmigung von Dringlichkeitsbeschlüssen
+# TOP 3.2.: Erlass gemeindlicher Forderungen
 
 - Sitzung: Gemeinderat (2001-04-25)
 - Körperschaft: Gemeinde Aldenhoven
