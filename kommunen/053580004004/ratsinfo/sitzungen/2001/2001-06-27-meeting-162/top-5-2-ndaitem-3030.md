@@ -1,4 +1,4 @@
-# TOP 5.2.: Anregungen und Beschwerden gem. § 24 Abs. 1 GO NW
+# TOP 5.2.: Quecksilber-Störfall in der MVA Weisweiler
 
 - Sitzung: Gemeinderat (2001-06-27)
 - Körperschaft: Gemeinde Aldenhoven
