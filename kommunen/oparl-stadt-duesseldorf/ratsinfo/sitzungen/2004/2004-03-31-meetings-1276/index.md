@@ -1,0 +1,67 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-03-31T15:00:00+02:00
+- Ende: 2004-03-31T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1276
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1276
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111473.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111473.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111473.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: SPD-Antr:Kooperat.Werkstatt Reitzensteinkaserne - zur Kenntnis genommen
+- TOP 3: SPD-Anf: Bahnhof Bilk, Ddorf Arcaden - zur Kenntnis genommen
+- TOP 4: Anfr Bü90/Grüne: Gestaltungsbeirat - zur Kenntnis genommen
+- TOP 5: FDP Anf: Regierungsviertel Haroldstr Jürgenspl - zur Kenntnis genommen
+- TOP 6: Anf SPD: Ausstellung "Der Traum vom Turm...." - zur Kenntnis genommen
+- TOP 7: Geneh60(2)S1GO Sw Harffstr Aufheb u neu Aufstell. - einstimmig beschlossen
+- TOP 8: DE: Sw Harffstr Aufheb+neuBeschl.Aufstellung - zur Kenntnis genommen
+- TOP 9: Gewerbegebiet Südwestlich Harffstraße - zur Kenntnis genommen
+- TOP 10: Gewerbegebiet Südwestlich Harffstraße - Aufstellun - zur Kenntnis genommen
+- TOP 11: FNPÄ 110 Schinkel/Schirmer AufstAbsBübetöffAusl - mehrheitlich beschlossen
+- TOP 12: B-Plan Nr. 5577/73 - östlich Schinkel-/Schirmerst - einstimmig beschlossen
+- TOP 13: FNPÄ72Gatzweiler AufstBerichte BürgerTrägeröffAusl - mehrheitlich beschlossen
+- TOP 14: B-Plan Nr. 5178/54 - Gatzweiler Gelände - mehrheitlich beschlossen
+- TOP 15: EAntr.SPD:BPl5178/54 und FNPÄ72-Gatzweiler - mehrheitlich abgelehnt
+- TOP 16: ErgAntrSPD: FNPÄ 72 Viersener/Neuwerker - zur Kenntnis genommen
+- TOP 17: FNP-Ä Nr. 13 - Airport City - einstimmig beschlossen
+- TOP 18: B-Plan Nr. 5382/29 -airport city - mehrheitlich beschlossen
+- TOP 19: ÄAntrBü90/Grüne zu BPlan Airport City - mehrheitlich abgelehnt
+- TOP 20: ÄAntr SPD: BPl 5382/29 - Airport City - - mehrheitlich abgelehnt
+- TOP 21: B-Plan Nr, 5379/57 - Beiderseits Josef-Gockeln-Str - einstimmig beschlossen
+- TOP 22: BPl5379/56Sky-Office Aufst..öffAusl - einstimmig beschlossen
+- TOP 23: FNP-Ä Nr. 45 - Am Quellenbusch - Bürgerbeteiligung - einstimmig beschlossen
+- TOP 24: Plan Nr. 61-12/1381 - Aufhebung Aufstellungsbeschl - einstimmig beschlossen
+- TOP 25: Plan Nr. 5977/51 - Aufhebung Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 26: B-Plan Nr. 5977/049 - Am Quellenbusch - - einstimmig beschlossen
+- TOP 27: ErgAntrSPD zu BPl 5977/49 Am Quellenbusch - mehrheitlich abgelehnt
+- TOP 28: Vereinf.Änderung B-Plan Nr. 5782/10 - einstimmig beschlossen
+- TOP 29: FNP-Änderung Nr. 52 - Nördl. Karl-Hohmann-Str. - mehrheitlich beschlossen
+- TOP 30: Plan Nr. 61/12-1819 - Aufhebung - mehrheitlich beschlossen
+- TOP 31: B-Plan r. 6071/36 - Nördl.Karl-Hohmann-Straße - mehrheitlich beschlossen
+- TOP 32: B-Plan Nr. 5477/122 - Kö-Bogen - Änderung Aufstell - mehrheitlich beschlossen
+- TOP 33: Bebauungsplan-Vorentwurf Nr. 5477/123 - Kö-Bogen - mehrheitlich beschlossen
+- TOP 34: FNP-Ä Nr. 77 - NDD Tannenstraße - einstimmig beschlossen
+- TOP 35: PlNr5483/12KiesheckerW/GleisdreieckAufh.Aufst. - einstimmig beschlossen
+- TOP 36: Plan Nr. 5483/14 - Kieshecker Weg - Aufstellung - einstimmig beschlossen
+- TOP 37: Perspektiven für den D.dorfer Hafen - mehrheitlich beschlossen
+- TOP 38: FNP-Änderung Nr. 116 - Hafen - Frühz.Bürgerbet. - mehrheitlich beschlossen
+- TOP 39: Bauleitplanung Hafen - mehrheitlich beschlossen
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: BA Georg-GlockStr18 Erweiterung des vorh. Geb. - einstimmig beschlossen
+- TOP 42: BA Hammer Str. 23 Neubau Hotel u. TG - einstimmig beschlossen
+- TOP 43: Änderungssatzung Amt 60 - einstimmig beschlossen
+- TOP 44: PLATZDA! Sommerauftritt 2 - einstimmig beschlossen
+- TOP 45: Plan Nr. 5476/114 - Denkmalbereichssatzung
+- TOP 46: Erg.Antr.Bü90/G:Denkmalbereichssatzung Karlstadt
+- TOP 47: Worringer Platz - zur Kenntnis genommen
+- TOP 48: Broschüre "Der schnelle Weg zum Bauen" - zur Kenntnis genommen
+- TOP 49: BA Inselstr ohne Nr. Pavillon "FaszinationHanels" - zur Kenntnis genommen
+- TOP 50: Überarb.Planung Bahnhof Bilk mdlVortr. - zur Kenntnis genommen
