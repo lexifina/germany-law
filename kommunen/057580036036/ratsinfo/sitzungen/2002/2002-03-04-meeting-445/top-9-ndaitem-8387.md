@@ -1,0 +1,6 @@
+# TOP 9.: Ausbau der Valdorfer Straße hier: Bericht zur zeitlichen Abfolge und zu vorgesehenen Umleitungsstrecken mündl. Bericht Dipl.-Ing. Kruse
+
+- Sitzung: ABD (2002-03-04)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/8387
