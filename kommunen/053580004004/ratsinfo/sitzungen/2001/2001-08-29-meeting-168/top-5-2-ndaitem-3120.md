@@ -1,4 +1,4 @@
-# TOP 5.2.: Grundstücksangelegenheiten
+# TOP 5.2.: Verkauf eines Grundstückes
 
 - Sitzung: Gemeinderat (2001-08-29)
 - Körperschaft: Gemeinde Aldenhoven
