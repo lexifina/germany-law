@@ -25,13 +25,13 @@ Schlachthofdirektor - Bremerhaven -
 Sonderschulrektor
 - als Leiter einer Sonderschule mit mehr als 180 Schülern -
 Fußnoten
-1) Erhält eine Amtszulage von 182,29 DM.
-1) Erhält eine Amtszulage von 182,29 DM.
+1) Erhält eine Amtszulage von 190,39 DM.
+1) Erhält eine Amtszulage von 190,39 DM.
+2) Erhält eine Amtszulage von 285,57 DM.
 2) Erhalt eine Amtszulage von 273,42 DM.
-2) Erhalt eine Amtszulage von 273,42 DM.
-2) Erhalt eine Amtszulage von 273,42 DM.
-2) Erhalt eine Amtszulage von 273,42 DM.
-2) Erhalt eine Amtszulage von 273,42 DM.
-3) Erhalt eine Amtszulage von 455,64 DM.
-4) Erhält eine Amtszulage von 505,53 DM - ab Juli 1976 k. w. -
+2) Erhält eine Amtszulage von 285,57 DM.
+2) Erhält eine Amtszulage von 285,57 DM.
+2) Erhält eine Amtszulage von 285,57 DM.
+3) Erhält eine Amtszulage von 475,88 DM.
+4) Erhält eine Amtszulage von 527,99 DM (kw)
 5) Nach vollendetem 10. Dienstjahr als Beamter auf Zeit. Erhält das Endgrundgehalt.

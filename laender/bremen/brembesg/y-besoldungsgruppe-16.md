@@ -15,4 +15,4 @@ Hauptgeschäftsführer bei der Handwerkskammer Bremen
 Oberschulrat, soweit nicht in Besoldungsgruppe A 15
 Rektor einer Fachhochschule
 Fußnoten
-1) Erhält eine Amtszulage von 305,81 DM. - K.w. -
+1) Erhält eine Amtszulage von 319,40 DM (kw).

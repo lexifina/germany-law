@@ -24,12 +24,12 @@ Sonderschulkonrektor
 Sonderschulrektor
 - als Leiter einer Sonderschule mit bis zu 180 Schülern1) -
 Fußnoten
-1) Erhält eine Amtszulage von 273,52 DM.
-1) Erhält eine Amtszulage von 273,52 DM.
-1) Erhält eine Amtszulage von 273,52 DM.
-1) Erhält eine Amtszulage von 273,52 DM.
-1) Erhält eine Amtszulage von 273,52 DM.
-1) Erhält eine Amtszulage von 273,52 DM.
+1) Erhält eine Amtszulage von 285,57 DM.
+1) Erhält eine Amtszulage von 285,57 DM.
+1) Erhält eine Amtszulage von 285,57 DM.
+1) Erhält eine Amtszulage von 285,57 DM.
+1) Erhält eine Amtszulage von 285,57 DM.
+1) Erhält eine Amtszulage von 285,57 DM.
 2) Erhält als Leiter der Orientierungsstufe mit mehr als 180 Schülern eine Stellenzulage von 150 DM
 3) Erhält nach Maßgabe der Vorbemerkung Nr. 12 zu den Bundesbesoldungsordnungen A und B eine Stellenzulage
 4) Bis zum vollendeten 10. Dienstjahr als Beamter auf Zeit. Erhält das Endgrundgehalt.

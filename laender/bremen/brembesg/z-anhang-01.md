@@ -4,7 +4,7 @@
 # Anhang 1 - Besoldungsgruppe A 12 a
 Anhang 1
 Besoldungsgruppe A 12 a
-2-Jahres-Rhythmus | 3-Jahres-Rhythmus | 4-Jahres-Rhythmus
-Stufe
+2-Jahres-Rhythmus | 3-Jahres-Rhythmus | 4-Jahres-Rhythmus |  |  |  |  |  |  |  |  | 
+Stufe |  |  |  |  |  |  |  |  |  |  | 
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
- |  | 4452,82 | 4710,94 | 4969,06 | 5227,18 | 5485,30 | 5657,38 | 5829,46 | 6001,54 | 6173,62 | 6345,70
+- | - | 4650,68 | 4920,27 | 5189,45 | 5459,45 | 5729,04 | 5908,76 | 6088,49 | 6268,22 | 6447,94 | 6627,68
