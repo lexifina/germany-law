@@ -1,0 +1,51 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-04-21T15:00:00+02:00
+- Ende: 2004-04-21T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1304
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1304
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111236.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111236.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111236.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Anfragen und Anträge
+- TOP 4: CDU Anfrage Stärkung Erziehungsfähigk.Familien - zur Kenntnis genommen
+- TOP 5: Anfrage CDU 'Ferienangebote' - zur Kenntnis genommen
+- TOP 6: Infos Ferienaktionen 2004 - einstimmig beschlossen
+- TOP 7: Anfrage CDU 'Versorgung unter 3-jähriger' - zur Kenntnis genommen
+- TOP 8: Anfrage FDP 'Am Quellenbusch' - zur Kenntnis genommen
+- TOP 9: Antrag SPD 'Spiel- und Sportmöglichkeiten' - einstimmig beschlossen
+- TOP 10: Anfrage Bü 90 / Grüne 'Jugendliche in Lichtenb.' - zur Kenntnis genommen
+- TOP 11: Tageseinrichtungen für Kinder
+- TOP 12: Förderung einer Kita unter Trägerschaft des DRK - einstimmig beschlossen
+- TOP 13: Besondere Förderung kirchlicher Träger - einstimmig beschlossen
+- TOP 14: Fortführung zusätzl. Plätze f. Schulk. in Kitas - einstimmig beschlossen
+- TOP 15: Schließung der Kita Malmedyer Str. 5 - einstimmig beschlossen
+- TOP 16: Umsetzung Teilzeitkonzept - zur Kenntnis genommen
+- TOP 17: Frühprävention in Kitas - einstimmig beschlossen
+- TOP 18: Entwicklung Verpflegungskosten in städt. Kitas - einstimmig beschlossen
+- TOP 19: Jugendförderung
+- TOP 20: Prävention von Gewalt und Verwahrlosung
+- TOP 21: Infos der Verwaltung - zur Kenntnis genommen
+- TOP 22: Jugendschützende und fördernde Aktionen -Vergabeb. - mehrheitlich beschlossen
+- TOP 23: akki - einstimmig beschlossen
+- TOP 24: Anerkennung nach § 75 SGB VIII
+- TOP 25: Anerkennung PSZ e.V. nach § 75 SGB VIII - einstimmig beschlossen
+- TOP 26: Anerkennung KABAWIL e.V. nach § 75 SGB VIII - einstimmig beschlossen
+- TOP 27: Anerkennung JBH gGmbH nach § 75 SGB VIII - einstimmig beschlossen
+- TOP 28: Controllingberichte Kita, HzE und UVG - einstimmig beschlossen
+- TOP 29: Zuwendungen an das Jugendamt im Jahre 2003 - einstimmig beschlossen
+- TOP 30: Zuschüsse 2003 - einstimmig beschlossen
+- TOP 31: Beschlusskontrolle II/2004 - zur Kenntnis genommen
+- TOP 32: Infos BVs - zur Kenntnis genommen
+- TOP 33: Mitteilungen - zur Kenntnis genommen
+- TOP 34: Verschiedenes - zur Kenntnis genommen
