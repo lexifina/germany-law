@@ -1,0 +1,1 @@
+Auf Grund des Art. 17 Abs. 2 des Gesetzes über das berufliche Schulwesen in der Fassung der Bekanntmachung vom 29. Juli 1986 (GVBl S. 192, BayRS 2236-1-1-K) erläßt das Bayerische Staatsministerium für Unterricht, Kultus, Wissenschaft und Kunst im Einvernehmen mit den Bayerischen Staatsministerien der Finanzen und für Wirtschaft und Verkehr folgende Verordnung:
