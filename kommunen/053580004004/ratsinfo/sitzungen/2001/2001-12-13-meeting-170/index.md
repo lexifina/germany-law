@@ -1,0 +1,58 @@
+# Gemeinderat
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2001-12-13T17:00:00+01:00
+- Ende: 2001-12-13T21:00:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZR5oX-NuAvUIMVbLr3DZDCU
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/170
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU-GtFDMHl_r1GvIdwSXs9UHVf9fh5h6hQcJQmilqdnJ/Oeffentliche_Niederschrift_Gemeinderat_13.12.2001.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 25.10.2001 -öffentlicher Teil-
+- TOP 3.: Finanzen, Haushalt
+- TOP 3.1.: Einbringung Haushalt 2002 -  
+- TOP 3.2.: Stellenplan für das Jahr 2002 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Satzungen, Ortsrecht
+- TOP 4.1.: 10. Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2.: Umstellung der Vergnügungssteuersatzung auf den Euro - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3.: 15. Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 4.4.: Anpassungen von Ratsentscheidungen durch die Einführung des Euro - Einstimmig, 0 Enthaltung(en)
+- TOP 4.5.: 7. Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren / Winterdienstgebühren in der Gemeinde Aldenhoven (Straßenreinigungs- und Gebührensatzung) - Einstimmig, 0 Enthaltung(en)
+- TOP 4.6.: Erhöhung der Hundesteuer - 0 Ja-Stimme(n), 0 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 4.7.: 7. Änderungssatzung der Satzung über die Gebührenordnung für die Benutzung der Friedhöfe in der Gemeinde Aldenhoven - 17 Ja-Stimme(n), 11 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: Kostenerstattung für die Benutzung gemeindlicher Einrichtungen - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Bauleitplanung
+- TOP 6.1.: 1. 25. Änderung des Flächennutzungsplanes - Römerpark - 2. 8. Änderung des Bebauungsplanes Nr. 8 A - Römerpark - hier: zu 1 und 2: Aufstellungsbeschluss Zu 1 und 2: Beschluss über die Bürgerbeteiligung gemäß § 3 Abs. 1 BauGB sowie die frühzeitige Beteiligung der Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB - 17 Ja-Stimme(n), 11 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 6.2.: Stellungnahme zur Änderung des Flächennutzungsplanes für die Ausweisung von Konzentrationsflächen für Windkraftanlagen im Stadtgebiet Jülich; hier: Erneute Offenlage gemäß § 3 Abs. 2 BauGB - 27 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Erstattung von Bewirtschaftungskosten - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Grundsatzbeschluss zur Nutzung gemeindlicher Gehweganlagen - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Mitteilungen und Anfragen.
+- TOP 11.: Verschiedenes.
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 25.10.2001 -nichtöffentlicher Teil-.
+- TOP 2.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 2.1.: Neueinstellung einer Mitarbeiterin für das Sozialamt der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Grundstücksangelegenheiten
+- TOP 3.1.: Übertragung einer Straßenteilfläche in der Gemarkung Siersdorf - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2.: Veräußerung des Grundstückes "Pützdorfer Straße", Gemarkung Aldenhoven, Flur 29, Flurstück 233 tlw. - 17 Ja-Stimme(n), 11 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.: Höhergruppierungen und Neueinstellungen im Arbeiterbereich - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2.: Einstellung eines Angestellten - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3.: Ausschreibung von 2 Stellen im Arbeiterbereich - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Errichtung einer Mariengrotte - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Evtl. Erwerb von Geschäftsanteilen der Stadt Alsdorf an der Verbandswasserwerk Aldenhoven GmbH - 27 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 7.: Zuschussbedarf im Bereich Volkshochschule - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Zuwendung für die Durchführung von denkmalpflegerischen Maßnahmen - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Erstellung eines Generalentwässerungsplanes für das Gemeindegebiet Aldenhoven - 16 Ja-Stimme(n), 11 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 10.: PCB-Sanierung der Realschule Aldenhoven, B-Trakt; hier: Auftragsvergabe - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Änderung der Rahmen- und Abstimmungsvereinbarung zwischen dem Kreis Düren, den kreisangehörigen Kommunen, der DSD AG und der ARGE - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Mitteilungen und Anfragen.
+- TOP 13.: Verschiedenes.
