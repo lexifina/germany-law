@@ -1,6 +1,6 @@
 # Anlage 1 (zu § 3 Abs. 1)
 Monatliche Dienstaufwandsentschädigung für Landräte und Beigeordnete
-Dienstaufwandsentschädigung
+Dienstaufwandsentschädigungen
 Einwohnerzahl des Landkreises | Landräte | erste Beigeordnete | weitere Beigeordnete
 Einwohnerzahl des Landkreises | Landräte | erste Beigeordnete | weitere Beigeordnete
 bis | 100 000 | 332 EUR | 166 EUR | –

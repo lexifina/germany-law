@@ -1,7 +1,7 @@
 # Anlage 2 (zu § 3 Abs. 1)
 Monatliche Dienstaufwandsentschädigung für Bürgermeister und Beigeordnete
-Dienstaufwandsentschädigung
-Einwohnerzahl des Landkreises | Landräte | erste Beigeordnete | weitere Beigeordnete
+Dienstaufwandsentschädigungen
+Einwohnerzahl der Gemeinde | Bürgermeister | erste Beigeordnete | weitere Beigeordnete
 Einwohnerzahl der Gemeinde | Bürgermeister | erste Beigeordnete | weitere Beigeordnete
 bis | 2 000 | 169 EUR | – | –
 bis | 5 000 | 184 EUR | – | –
