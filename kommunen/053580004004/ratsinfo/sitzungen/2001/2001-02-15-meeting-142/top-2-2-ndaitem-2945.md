@@ -1,4 +1,4 @@
-# TOP 2.2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+# TOP 2.2.: Erstellung Kanalkataster; Beauftragung von Ingenieurleistungen
 
 - Sitzung: Gemeinderates (2001-02-15)
 - Körperschaft: Gemeinde Aldenhoven
