@@ -1,0 +1,62 @@
+# 10. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2002-09-26T16:00:00+02:00
+- Ende: 2002-09-26T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=233
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=233
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - (offen)
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_08 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Schaukästen an den Rathäudern für die Lokale Agenda 21 - mit Änderungen in der BVV beschlossen
+- TOP 8: Wirtschaftsentwicklung kontra Umwelt- und Naturschutz - schriftlich beantwortet
+- TOP 9: Zweckentfremdungsverbotsverordnung endlich gekippt - leider viel zu spät - schriftlich beantwortet
+- TOP 10: Ausfall von Sprachunterricht in den Oberschulen des Bezirkes Treptow-Köpenick - schriftlich beantwortet
+- TOP 11: Wilhelminenhöfe - schriftlich beantwortet
+- TOP 12: Ergänzungsplan Treptow-Köpenick für das Haushaltsjahr 2003 - überwiesen
+- TOP 13: Sondermittel für IQ 1185 i.G. e.V. (SM 236) - ohne Änderungen in der BVV beschlossen
+- TOP 14: Gedenktafel für das ehemalige Durchgangslager Wilhelmshagen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Eigentumsbeeinträchtigungen durch die Wasserschutzverordnung Altglienicke
+- TOP 16: Begrenzung der Abgas- und Geräuschemissionen motorisierter Wasserfahrzeuge - überwiesen
+- TOP 17: Bebauungsplan XV-37b: - Inhaltliche Änderung des Bebauungsplans und Ergebnis der Betroffenenbeteiligung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 18: Planreife für das Bauvorhaben Neubau von 88 Wohneinheiten, Paradiesstraße 209-211 E im Bezirk Treptow-Köpenick, Ortsteil Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 19: (vertraulich)
+- TOP 20: Frauenförderplan (FFP 2002) für das Bezirksamt Treptow-Köpenick von Berlin - überwiesen
+- TOP 21: Ampel aus ab 22.00 Uhr - überwiesen
+- TOP 22: Fortführung "Mellow-Park" - ohne Änderungen in der BVV beschlossen
+- TOP 23: Tempo 30 in der Köpenicker Straße im Ortsteil Altglienicke - überwiesen
+- TOP 24: Stellungnahme des Bezirksamtes zum geänderten Landesentwicklungsplan - ohne Änderungen in der BVV beschlossen
+- TOP 25: Das freiwillige soziale Jahr - überwiesen
+- TOP 26: Grünphase - überwiesen
+- TOP 27: Busanbindung Ärztinnenviertel Altglienicke - überwiesen
+- TOP 28: Mehr Transparenz für bezirkliche Schulentwicklungsplanung - ohne Änderungen in der BVV beschlossen
+- TOP 29: 250 Jahre Johannisthal - mit Änderungen in der BVV beschlossen
+- TOP 30: Gedenkstätten Maueropfer/Maueröffnung - ohne Änderungen in der BVV beschlossen
+- TOP 31: Wochenmarkt Oberschöneweide - mit Änderungen in der BVV beschlossen
+- TOP 32: Umfahrung Müggelheimer Straße/Wendenschloßstraße - überwiesen
+- TOP 33: Anwohnerzugang Feldstraße - überwiesen
+- TOP 34: Abfallverminderung/Abfallvermeidung - überwiesen
+- TOP 35: Berliner Bauordnung - überwiesen
+- TOP 36: Hinweisschild zum Wohngebiet Am Krusenick - ohne Änderungen in der BVV beschlossen
+- TOP 37: Sanierungsprogramm für Kindertagesstätten - in der BVV abgelehnt
+- TOP 38: Maßnahmen zu umweltgerechtem Verhalten - überwiesen
+- TOP 39: Untersuchung der Ablagerungen im Zeuthener See und Langer See auf Schadstoffe - überwiesen
+- TOP 40: Ski- und Snowboardhalle - überwiesen
+- TOP 41: Einkaufsstraßenmarketing - überwiesen
+- TOP 42: Verkauf von Gehölzen
+- TOP 43: Späth'sche Baumschule - vertagt
+- TOP 44: Beabsichtigte Schulschließung Ernst-Friedrich-Gymnasium - vertagt
+- TOP 45: Schulentwicklungsplan 2002-2006 - vertagt
+- TOP 46: Solar-aktiv - vertagt
+- TOP 47: Jugendcliquen in Treptow-Köpenick - vertagt
+- TOP 48: Sicherung der bezirklichen Schuldner- und Insolvenzberatung - ohne Änderungen in der BVV beschlossen
