@@ -1,0 +1,167 @@
+# öffentliche / nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2005-02-28T16:06:00+01:00
+- Ende: 2005-02-28T22:18:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3531
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3531
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00047860.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00047569.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Flutopferhilfe
+- TOP 1.2.1: Kooperation "Hilfe für die Flutopfer in Südasien" - ungeändert beschlossen
+- TOP 1.2.2: Partnerschaftsprojekte im Flutkastrophengebiet - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.2.3: Flutopferhilfe langfristig sichern - Wuppertaler Initiativen koordinieren - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.2.4: Patenschaft der Stadt Wuppertal mit einer von der Flutkatastrophe in Süd-Ost-Asien betroffenen Kommu - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.3: Finanzierung des Ausbaus der Wuppertaler Schwebebahn und der Projekte der Regionale 2006 - ungeändert beschlossen
+- TOP 1.3.1: Stadtwerke und Regionale 2006 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.3.2: Grundsatzbeschluss zur Neuausrichtung der Wuppertaler Stadtwerke (WSW AG) - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.3.3: Finanzierung des Neubaus der Wuppertaler Schwebebahn und - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.3.4: Finanzierung des Ausbaus der Wuppertaler Schwebebahn und der Projekte der Regionale 2006 - zur Vorberatung verwiesen
+- TOP 1.3.5: Neuausrichtung der Wuppertaler Stadtwerke AG - ungeändert beschlossen
+- TOP 1.4: Nachhaltigkeitsbericht 2004 - Entgegennahme ohne Beschluss
+- TOP 1.5: Resolution zu Hartz IV - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Biotonne - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Biotonne-CDU Anfrage vom 25. Januar 2005 - abschließend zur Kenntnis genommen
+- TOP 2.2: Hartz IV und Jugendliche in Ausbildung - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Anfrage der Fraktion der PDS (VO 0128/05) - abschließend zur Kenntnis genommen
+- TOP 2.3: Umsetzung von Hartz IV in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Anfrage der Fraktion der PDS (VO/0155/05) - abschließend zur Kenntnis genommen
+- TOP 2.4: Auswirkungen von Hartz IV in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Anfrage der Ratsgruppe REP (VO/0196/05) - abschließend zur Kenntnis genommen
+- TOP 2.5: 1-Euro-Jobs - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Anfrage der Fraktion der PDS (VO/0152/05) - abschließend zur Kenntnis genommen
+- TOP 2.6: Handlungsspielraum der Mitarbeiter der Stadtverwaltung - abschließend zur Kenntnis genommen
+- TOP 2.6.1: Antwort auf die Anfrage der Fraktion der PDS im Rat der Stadt (Drucks. Nr. VO/0153/05) - abschließend zur Kenntnis genommen
+- TOP 2.7: Pressemeldungen zum Beirat RWE vom 22. und 25. Januar 2005 - abschließend zur Kenntnis genommen
+- TOP 2.7.1: Beantwortung der Anfrage der Ratsgruppe Die Republikaner vom 02.02.2005 - abschließend zur Kenntnis genommen
+- TOP 2.8: Grundstücke an der Carl-Schurz-Str., Gemarkung Elberfeld, Flur 240, Flurstück 170 sowie Flur 246, Fl - abschließend zur Kenntnis genommen
+- TOP 2.8.1: Ratsanfrage der FDP-Fraktion vom14.02.2005 zu Grundstücken an der Carl-Schurz-Straße - abschließend zur Kenntnis genommen
+- TOP 2.9: Einhaltung der Zuständigkeiten bei Änderungen der Denkmalliste - abschließend zur Kenntnis genommen
+- TOP 2.9.1: Einhaltung von Zuständigkeiten bei Änderungen der Denkmalliste - abschließend zur Kenntnis genommen
+- TOP 2.10: Rekonstruktion der noch vorhandenen alten Schwebebahnstationen - abschließend zur Kenntnis genommen
+- TOP 2.10.1: Beantwortung der Anfrage der Ratsgruppe Die Republikaner im Rat der Stadt Wuppertal vom 15.02.2005; - abschließend zur Kenntnis genommen
+- TOP 2.11: Offene Ganztagsschulen (OGGS) im Primarbereich - abschließend zur Kenntnis genommen
+- TOP 2.11.1: Offene Ganztagsschulen (OGGS) im Primarbereich - abschließend zur Kenntnis genommen
+- TOP 2.12: Grundschule Cronenberger Straße - abschließend zur Kenntnis genommen
+- TOP 2.12.1: Grundschule Cronenberger Straße - abschließend zur Kenntnis genommen
+- TOP 2.13: Grundstücke Mediapark - abschließend zur Kenntnis genommen
+- TOP 2.13.1: Grundstück Mediapark - Antwort der Verwaltung zur Anfage der PDS-Ratsfraktion - abschließend zur Kenntnis genommen
+- TOP 2.14: Fahrgastaufkommen der Schwebebahn - abschließend zur Kenntnis genommen
+- TOP 2.14.1: Beantwortung der Anfrage der Ratsgruppe Die Republikaner im Rat der Stadt Wuppertal vom 21.02.2005, - abschließend zur Kenntnis genommen
+- TOP 2.15: Stellenausschreibung: Teamleiter/in für den Bereich Denkmalschutz und -pflege - abschließend zur Kenntnis genommen
+- TOP 2.15.1: Stellenausschreibung: Teamleiter/in für den Bereich Denkmalschutz und -pflege - abschließend zur Kenntnis genommen
+- TOP 2.16: Bauvorhaben Briller Straße / Luisenstraße - abschließend zur Kenntnis genommen
+- TOP 2.16.1: Grundstück Luisenstr. 140 - abschließend zur Kenntnis genommen
+- TOP 2.17: Parken im Zooviertel - abschließend zur Kenntnis genommen
+- TOP 2.17.1: Parken im Zooviertel - abschließend zur Kenntnis genommen
+- TOP 2.18: Bisherige Auswirkungen der angekündigten Zweitwohnungssteuer - abschließend zur Kenntnis genommen
+- TOP 2.18.1: Beantwortung der Anfrage der FDP-Fraktion im Rat der Stadt Wuppertal vom 23.02.05 - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Wirtschaftliche Betätigung der Berufsfeuerwehr
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Einrichtung einer Ratskommission "Neues Kommunales Finanzmanagement / IT" - ungeändert beschlossen
+- TOP 4.2: Rußpartikelfilter für Fahrzeuge der WSW
+- TOP 4.2.1: Rußpartikelfilter für Fahrzeuge der WSW - zur Vorberatung verwiesen
+- TOP 4.3: Bergische Initiative zur Bekämpfung von Leerständen in den Innenstädten - zur Vorberatung verwiesen
+- TOP 4.4: Photovoltaikanlagen auf städtischen Gebäuden - zur Vorberatung verwiesen
+- TOP 4.5: Schulessen
+- TOP 4.5.1: Mittagessen für Kinder von ALG II-Beziehern in der OGGS
+- TOP 4.6: Skulptur "Pallas Athene" von Arno Breker - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Kunstsammlung von-der-Heydt-Museum
+- TOP 5.2: Pendlernetz Nordrhein-Westfalen
+- TOP 6: Ortsrecht
+- TOP 6.1: Sanierungssatzung Stadtumbau West einschl. Mediapark - ungeändert beschlossen
+- TOP 6.2: Sanierungssatzung Freizeitschwerpunkt Zoo /Sambatrasse - ungeändert beschlossen
+- TOP 6.3: Verordnung über zusätzliche Wochenmarktartikel - ungeändert beschlossen
+- TOP 6.4: Zweite Änderung der Satzung der Stadt Wuppertal für die Durchführung von Einwohneranträgen - ungeändert beschlossen
+- TOP 6.4.1: Änderung der Bürgerbegehrenssatzung - erledigt durch Beschluss zu einem anderen TOP
+- TOP 6.4.2: Änderung der Bürgerbegehrenssatzung - erledigt durch Beschluss zu einem anderen TOP
+- TOP 6.5: Einzelsatzung Rosenau/Stennert - ungeändert beschlossen
+- TOP 6.6: Neufassung der Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 6.7: Satzungsänderung des Behindertenbeirates - abgelehnt
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Kreisverkehr Hatzfelder Str./Märkische Str./Einern - Erhöhung der Gesamtbaukosten - ungeändert beschlossen
+- TOP 7.2: Konkretisierung der globalen Minderausgaben aus dem Haushaltssicherungskonzept 2004 - vertagen
+- TOP 7.3: Kategorien und Prioritäten für den Vermögenshaushalt 2005 - ungeändert beschlossen
+- TOP 7.4: Genehmigung einer außerplanmäßigen Ausgabe für den Umbau der Jugendverkehrsschule West - ungeändert beschlossen
+- TOP 7.5: Beschaffung von Feuerwehrfahrzeugen - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Entwicklung der Wuppertaler Bühnen - ungeändert beschlossen
+- TOP 8.1.1: Entwicklung der Wuppertaler Bühnen - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan des Eigenbetriebes Gebäudemanagement Wuppertal 2005 - ungeändert beschlossen
+- TOP 8.3: Erläuterung der Grundzüge der Transaktionen der Gemeinnützigen Wohnungsbaugesellschaft mbH (GWG) dur
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 622 B -Friedrich-Engels-Allee/ Ost- 4. Änderung des Bebauungsplanes - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 214 -Georg-Arends-Weg- - ungeändert beschlossen
+- TOP 9.3: Bauleitplanverfahren Nr. 1051 -Wilhelm-Raabe-Weg- - ungeändert beschlossen
+- TOP 9.4: Bauleitplanverfahren Nr. 1004 - Nevigeser Str./ Am Eigenbach- - ungeändert beschlossen
+- TOP 9.5: Bauleitplanverfahren Nr. 512 - Wasserstr. - - ungeändert beschlossen
+- TOP 9.6: Bauleitplanverfahren Nr. 167 / 167 A - In der Beek / In den Birken / Katernberger Schulweg - - ungeändert beschlossen
+- TOP 9.7: Bauleitplanverfahren Nr. 810 A - Uellendahler Straße/Zamenhofstraße - 1. Änderung Satzungsbeschluss - ungeändert beschlossen
+- TOP 9.8: Bauleitplanverfahren Nr. 650 - Jöferweg - - ungeändert beschlossen
+- TOP 9.9: Bebauungsplan Nr. 1071 - Golfplatz Haan-Düsseltal - - abgesetzt
+- TOP 9.10: Abweichungssatzung Rabenweg - ungeändert beschlossen
+- TOP 9.11: Abweichungssatzung Oberheidter Straße - ungeändert beschlossen
+- TOP 9.12: Abweichungssatzung Zillertaler Straße - ungeändert beschlossen
+- TOP 9.13: Aufhebung des Fluchtlinienplanes Nr. 803 - ungeändert beschlossen
+- TOP 9.14: Rechtmäßige Herstellung von Erschließungsanlagen - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubau einer weiteren Turnhalle an der Gesamtschule Ronsdorf - geändert beschlossen
+- TOP 10.1.1: Neubau einer weiteren Turnhalle an der GS Ronsdorf - erledigt durch Beschluss zu einem anderen TOP
+- TOP 10.2: Erweiterung der Gemeinschaftsgrundschule Nathrather Straße in Wuppertal-Vohwinkel - ungeändert beschlossen
+- TOP 10.3: Erweiterung der GGS Kurt-Schumacher-Straße in Wuppertal-Elberfeld - ungeändert beschlossen
+- TOP 10.4: Fortsetzung Brandschutzsanierung Haus der Jugend Barmen - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Entscheidung über die Gültigkeit der Wahl des Oberbürgermeisters am 26. September 2004 - ungeändert beschlossen
+- TOP 11.2: Entscheidung über die Gültigkeit der Wahl des Rates der Stadt und der Bezirksvertretungen am - ungeändert beschlossen
+- TOP 11.3: Beschlussfassung über die Gültigkeit der Wahl der Migrantenvertreter/innen im Migrationsausschuss - ungeändert beschlossen
+- TOP 11.4: Einführung des NKF zum 01.01.2008 hier: Umsetzung des Organisations- und Finanzierungskonzeptes - ungeändert beschlossen
+- TOP 11.5: Nachhaltigkeitsbericht 2004
+- TOP 11.6: Umwandlung von Gruppen in städtischen Tageseinrichtungen für Kinder
+- TOP 11.7: Schließung einer Gruppe in der städtischen Tageseinrichtung für Kinder Schöllerweg 11a - ungeändert beschlossen
+- TOP 11.8: Finanzierung der Offenen Ganztagsschule im Primarbereich (OGGS) in den Schuljahren 2005/2006 ff - vertagen
+- TOP 11.8.1: Änderungsantrag zu VO/0086/05: Finanzierung der Offenen Ganztagsschule - vertagen
+- TOP 11.8.2: Änderungsantrag zu VO/0086/05: Finanzierung der Offenen Ganztagsgrundschule - vertagen
+- TOP 11.8.3: Ausbau der Offenen Ganztagsschule (OGGS) im Primarbereich ab dem Schuljahr 2005/2006 - vertagen
+- TOP 11.9: Neue Preise für die Konzerte - ungeändert beschlossen
+- TOP 11.10: Bericht der Steuerungsgruppe zur Verbesserung der Situation auf öffentlichen Straßen und Plätzen - abgesetzt
+- TOP 11.11: Eisenbahnrechtliche Entwidmung der Sambatrasse - ungeändert beschlossen
+- TOP 11.12: Verlängerung Amtszeit Generalintendant und künstl. Geschäftsführer der Wuppertaler Bühnen - ungeändert beschlossen
+- TOP 11.13: Weiterentwicklung des öffentlich-rechtlichen Rahmenvertrages zur Neuordnung der Sozialen Dienste - abgesetzt
+- TOP 11.14: Wuppertal - Pass - teilweise beschlossen
+- TOP 11.14.1: Vergünstigung "Freie Fahrt mit den Wuppertalern Verkehrsmitteln" - abgelehnt
+- TOP 11.14.2: Ergänzungsantrag TOP 11.14, VO/0029/05 - Wuppertal Pass - vertagen
+- TOP 11.14.3: Schulessen - vertagen
+- TOP 11.14.4: Mittagessen für Kinder von ALG II-Beziehern in der OGGS - vertagen
+- TOP 11.15: Brandschutzbedarfsplan der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.15.1: Brandschutzbedarfsplan der Stadt Wupperta - ungeändert beschlossen
+- TOP 11.15.2: Brandschutzbedarfsplan (BSBP) der Stadt Wuppertal - erledigt durch Beschluss zu einem anderen TOP
+- TOP 11.15.3: Brandschutzbedarfsplan der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.16: Restitution von Kunstgegenständen aus ehemals jüdischem Eigentum - ungeändert beschlossen
+- TOP 11.17: Beschluss über die Jahresrechnung 2003 und Entscheidung über die Entlastung des Oberbürgermeisters - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Benennung sachkundiger Einwohnerinnen und Einwohner für die Ausschüsse des Rates - ungeändert beschlossen
+- TOP 12.1.1: Benennung sachkundiger Einwohner für Gemeinderatsausschüsse nach § 50 Abs. 4 GO NRW - erledigt durch Beschluss zu einem anderen TOP
+- TOP 12.2: Wahl eines stellvertretenden Mitglieds für die Verbandsversammlung des Abfallwirtschaftsverbandes EK - ungeändert beschlossen
+- TOP 12.3: Benennung von beratenden Mitgliedern im Schulausschuss - geändert beschlossen
+- TOP 12.4: Bildung der Kreiswahlausschüsse für die Landtagswahl am 22. Mai 2005 - geändert beschlossen
+- TOP 12.5: Wechsel des städt. Vertreters in der Gesellschafterversammlung der Wuppertaler Krisendienst gGmbH - ungeändert beschlossen
+- TOP 12.6: Umbesetzung im Beirat der Tanztheater Wuppertal Pina Bausch GmbH - geändert beschlossen
+- TOP 12.7: Gremienbesetzung /Benennungen - ungeändert beschlossen
+- TOP 12.8: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.9: Gremienbesetzung/Benennung - ungeändert beschlossen
+- TOP 12.10: Bestellung eines weiteren zusätzlichen sachkundigen Einwohners mit beratender Stimme und eines Stell - ungeändert beschlossen
+- TOP 12.11: Besetzung von Gremien - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 13.1: Genehmigung einer Dringlichkeitsentscheidung im Bebauungsplan 653 - Neue Friedrich-Straße / Gathe - - Dringlichkeitsentscheidung genehmigt
