@@ -1,4 +1,4 @@
-# TOP 5.1.: Soziale Angelegenheiten
+# TOP 5.1.: Projekt "Wach-Koma-Klinik" in Aldenhoven-Schleiden, Am Nonnenhof
 
 - Sitzung: Schul- und Sozialausschuss (2001-05-10)
 - Körperschaft: Gemeinde Aldenhoven
