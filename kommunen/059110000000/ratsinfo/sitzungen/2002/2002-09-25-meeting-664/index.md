@@ -1,0 +1,58 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2002-09-25T15:00:00+02:00
+- Ende: 2002-09-25T16:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZW17qw4AYvUcwLZuPXX4wgE
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/664
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW-ECm5vMgj-BUeebEN6Xa9jWjat59aHeyPRND0fKs_m/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_25.09.2002.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: Vergabe von Zuschüssen an Selbsthilfegruppen und Initiativen -Sozialamt-
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Situation bei der Aufnahme und Unterbringung von Flüchtlingen und Aussiedlerinnen und Aussiedlern in Bochum
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: keine Tagesordnungspunkte
+- TOP 8: Einmalige Leistungen in der Sozialhilfe
+- TOP 9: Unterbringung von Aussiedlern, Flüchtlingen und Wohnungslosen
+- TOP 10: Hilfsangebote für Täter häuslicher Gewalt
+- TOP 11: Anregung des Seniorenbeirates zur Sozialberichterstattung vom 17.04.2002, TOP II./1
+- TOP 12: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 13: Häusliche Gewalt
+- TOP 14: Beschlussvorschläge für den Rat
+- TOP 15: Träger der Migrationsarbeit in Bochum
+- TOP 16: Kürzungspläne des Landes NW
+- TOP 17: Methadonsubstitution
+- TOP 18: Anträge
+- TOP 19: Unterbringung von Flüchtlingen
+- TOP 20: Ausgabenentwicklung im Sozialamt und Gesundheitsamt
+- TOP 21: Mitteilungen
+- TOP 22: Anfrage der Fraktion Die Grünen im Rat in der Sitzung des Sozial- und Gesundheitsausschusses am 20.06.2002 - 1/VI. 1. -
+- TOP 23: Anfragen
+- TOP 24: Rechenschaftsberichte der Vereine NORA und MIRA
+- TOP 25: Sozialberichterstattung -Nachtrag-
+- TOP 26: Erhebung einer Krankenhausumlage durch das Land NRW
+- TOP 27: Arbeit mit suchtgefährdeten und drogenabhängigen Migranten aus den ehemaligen GUS-Staaten
+- TOP 28: Projekt: Implementation des personenzentrierten Ansatzes in der psychiatrischen Versorgung NRW
+- TOP 29: Ambulante psychiatrische Versorgung chronisch mehrfachbeeinträchtigter abhängigkeitskranker Menschen (Alkohol und Medikamente) in den städtischen Versorgungsgebieten Nord und Ost
+- TOP 30: Landeshaushalt 2003, hier: Vorgesehene Kürzungen bzw. Wegfall von Landeszuschüssen
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: keine Tagesordnungspunkte
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 7: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 8: Beschlussvorschläge für den Rat
+- TOP 9: Anträge
+- TOP 10: Mitteilungen
+- TOP 11: Anfragen
