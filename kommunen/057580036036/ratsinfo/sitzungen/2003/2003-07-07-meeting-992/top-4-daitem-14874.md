@@ -1,0 +1,6 @@
+# TOP 4.: Prüfung des Gemeindeprüfungsamtes des Kreises Herford über die überörtliche Prüfung der Haushalts- und Wirtschaftsführung in den Haushaltsjahren 1999 und 2000 bei dem Kurzweckverband
+
+- Sitzung: RPA (2003-07-07)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/14874
