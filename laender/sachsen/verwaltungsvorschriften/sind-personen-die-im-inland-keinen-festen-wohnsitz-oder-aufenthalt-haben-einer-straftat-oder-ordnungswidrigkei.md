@@ -1,8 +1,8 @@
 # Sind Personen, die im Inland keinen festen Wohnsitz oder Aufenthalt haben, einer Straftat oder Ordnungswidrigkeit dringend verdächtig, können Polizeibeamte nach Maßgabe der §§ 127a, 132 der Strafprozeßordnung (StPO) Sicherheitsleistungen erheben. Von
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 1999-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/4335.1
+- Datum: 2002-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/4335.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -38,7 +38,7 @@ Bei der Festsetzung der Höhe der Sicherheitsleistungen sind die vom Generalstaa
 
 bb)
 Höhe der Kosten des Verfahrens
-Die Kosten des Verfahrens setzen sich zusammen aus Gebühren und Auslagen. Die voraussichtliche Gebühr im Strafbefehlsverfahren beträgt bei einer zu erwartenden Geldstrafe bis zu 90 Tagessätzen 40 DM, bis zu 180 Tagessätzen 80 DM und von mehr als 180 Tagessätzen 160 DM. Wenn die Zustellung an einen Zustellungsbevollmächtigten gegen Empfangsbekenntnis nicht möglich ist, sind als Auslagen für die Zustellungskosten 11 DM anzusetzen. Besondere Auslagen, wie beispielsweise die Kosten eines Blutalkoholgutachtens, sind ebenfalls zu berücksichtigen. Zu den Kosten des Verfahrens gehören nicht die Auslagen für Dolmetscher und Übersetzer, die herangezogen werden, um für einen Beschuldigten, der die deutsche Sprache nicht versteht oder sich in ihr nicht ausdrücken kann, Erklärungen oder Schriftstücke zu übertragen, auf deren Verständnis er zu seiner Verteidigung angewiesen ist.
+Die Kosten des Verfahrens setzen sich zusammen aus Gebühren und Auslagen. Die voraussichtliche Gebühr im Strafbefehlsverfahren beträgt bei einer zu erwartenden Geldstrafe bis zu 90 Tagessätzen 20,50 EUR, bis zu 180 Tagessätzen 41,00 EUR und von mehr als 180 Tagessätzen 82,00 EUR. Wenn die Zustellung an einen Zustellungsbevollmächtigten gegen Empfangsbekenntnis nicht möglich ist, sind als Auslagen für die Zustellungskosten 5,62 EUR anzusetzen. Besondere Auslagen, wie beispielsweise die Kosten eines Blutalkoholgutachtens, sind ebenfalls zu berücksichtigen. Zu den Kosten des Verfahrens gehören nicht die Auslagen für Dolmetscher und Übersetzer, die herangezogen werden, um für einen Beschuldigten, der die deutsche Sprache nicht versteht oder sich in ihr nicht ausdrücken kann, Erklärungen oder Schriftstücke zu übertragen, auf deren Verständnis er zu seiner Verteidigung angewiesen ist.
 
 cc)
 Zweifelsfälle
@@ -49,19 +49,15 @@ Art der Sicherheit
 
 aa)
 Bargeld
-Die Sicherheit ist grundsätzlich in Deutscher Mark (bar) zu leisten. Ist dies nicht möglich, können ausländische konvertierbare Währungen ebenfalls als Sicherheit dienen, wenn der Umrechnungskurs dem Polizeibeamten bekannt oder leicht zu ermitteln und der Beamte in der Lage ist, die Echtheit des Geldes zu beurteilen. Ausländische Währungen sind von dem Hilfsbeamten der Staatsanwaltschaft nach Möglichkeit in Deutsche Mark umzutauschen; die Umtauschbelege sind zur Akte zu nehmen.
+Die Sicherheit ist grundsätzlich in Euro (bar) zu leisten. Ist dies nicht möglich, können ausländische konvertierbare Währungen ebenfalls als Sicherheit dienen, wenn der Umrechnungskurs dem Polizeibeamten bekannt oder leicht zu ermitteln und der Beamte in der Lage ist, die Echtheit des Geldes zu beurteilen. Ausländische Währungen sind von dem Hilfsbeamten der Staatsanwaltschaft nach Möglichkeit in Euro umzutauschen; die Umtauschbelege sind zur Akte zu nehmen.
 
 bb)
-Eurocheques
-Auf Deutsche Mark lautende Eurocheques können bis zu einer Höhe von 400,00 DM pro Scheck angenommen werden. Der Scheck muß vom Aussteller in Gegenwart des Annehmenden unterschrieben werden. Dieser überprüft die Gültigkeit der Scheckkarte, die Übereinstimmung von Geldinstitut und Kontonummer auf dem Scheck und der Karte, sowie die Übereinstimmung der Unterschrift mit derjenigen auf der Scheckkarte. Auf der Rückseite des Schecks ist die Nummer der Scheckkarte zu notieren.
-
-cc)
 Andere Arten der Sicherheit
 Über andere Arten der Sicherheitsleistung, beispielsweise Hinterlegung von anderen Wertpapieren, Pfandbestellung, Bürgschaft geeigneter Personen, Zahlung mittels Kreditkarte, ist im Einzelfall nach pflichtgemäßem Ermessen zu entscheiden.
 
 f)
 Behandlung der Sicherheit
-Sicherheiten in barem Geld werden bei der Gerichtszahlstelle oder Landesjustizkasse eingezahlt oder auf das Konto der Landesjustizkasse bei der Landeszentralbank Chemnitz, Kontonummer: 87 001 500, Bankleitzahl: 870 000 00, überwiesen. Wertpapiere werden ebenfalls den genannten Kassen übergeben. Außerhalb der Dienstzeiten entgegengenommene Sicherheiten werden bis zum folgenden Werktag in hinreichend gesicherten Behältnissen der Polizeidienststellen aufbewahrt. Das Aktenzeichen des Verfahrens oder die Tagebuch-Nummer der Polizeidienststelle, die zuständige Staatsanwaltschaft, der Name des Beschuldigten und der Grund „Sicherheit für Geldstrafe und Kosten“ sind anzugeben. Die Landesjustizkasse bucht die eingehenden Beträge beim Titel 112 01, die Gerichtszahlstelle in dem entsprechenden Titelverzeichnis. Die Landesjustizkasse oder Gerichtszahlstelle übersendet eine Zahlungsanzeige an die zuständige Staatsanwaltschaft oder, wenn kein staatsanwaltschaftliches Aktenzeichen vorliegt, an die einzahlende Polizeibehörde unter deren Tagebuch-Nummer. Die Anzeige ist zu den Akten zu nehmen.
+Sicherheiten in barem Geld werden bei der Gerichtszahlstelle oder Landesjustizkasse Chemnitz eingezahlt oder auf das Konto der Landesjustizkasse Chemnitz bei der Landeszentralbank Chemnitz, Kontonummer: 87 001 500, Bankleitzahl: 870 000 00, überwiesen. Wertpapiere werden ebenfalls den genannten Kassen übergeben. Außerhalb der Dienstzeiten entgegengenommene Sicherheiten werden bis zum folgenden Werktag in hinreichend gesicherten Behältnissen der Polizeidienststellen aufbewahrt. Das Aktenzeichen des Verfahrens oder die Tagebuch-Nummer der Polizeidienststelle, die zuständige Staatsanwaltschaft, der Name des Beschuldigten und der Grund „Sicherheit für Geldstrafe und Kosten“ sind anzugeben. Die Landesjustizkasse Chemnitz bucht die eingehenden Beträge beim Titel 112 01, die Gerichtszahlstelle in dem entsprechenden Titelverzeichnis. Die Landesjustizkasse Chemnitz oder Gerichtszahlstelle übersendet eine Zahlungsanzeige an die zuständige Staatsanwaltschaft oder, wenn kein staatsanwaltschaftliches Aktenzeichen vorliegt, an die einzahlende Polizeibehörde unter deren Tagebuch-Nummer. Die Anzeige ist zu den Akten zu nehmen.
 
 g)
 Beschlagnahme
@@ -123,7 +119,7 @@ Bei der Ermittlung der zu erwartenden Geldbuße sind die einschlägigen Bußgeld
 
 bb)
 Höhe der voraussichtlichen Gebühr
-Die voraussichtliche Gebühr beträgt 5 vom Hundert der Geldbuße, jedoch mindestens 25 DM und höchstens 12 500 DM. Die Auslagen sind hinzuzurechnen.
+Die voraussichtliche Gebühr beträgt 5 vom Hundert der Geldbuße, jedoch mindestens 12,50 EUR und höchstens 6 250 EUR. Die Auslagen sind hinzuzurechnen.
 
 c)
 Behandlung der Sicherheit
