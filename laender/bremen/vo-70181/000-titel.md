@@ -1,0 +1,1 @@
+# Verordnung über die Entnahme von Wasser aus oberirdischen Gewässern zum Zweck der Trinkwasserversorgung und über die Meßmethoden sowie über die Häufigkeit der Probenahmen und der Analysen des Oberflächenwassers für die Trinkwassergewinnung vom 11. April 1
