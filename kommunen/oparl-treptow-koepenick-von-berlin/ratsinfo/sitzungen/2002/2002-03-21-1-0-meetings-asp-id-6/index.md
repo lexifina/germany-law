@@ -1,0 +1,72 @@
+# 5. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2002-03-21T16:00:00+01:00
+- Ende: 2002-03-21T22:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=6
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers V_03 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Uferwanderweg am Müggelsee - schriftlich beantwortet
+- TOP 8: Nachtflug und Lärmschutzmaßnahmen Flughafen Schönefeld - schriftlich beantwortet
+- TOP 9: Wahl zusätzlicher Bürgerdeputierter <span style="color: #888a85" title="Zusatzinfo">(offen)</span> - mit Änderungen in der BVV beschlossen
+- TOP 10: Wahl zusätzlicher Bürgerdeputierter - im Ältestenrat zurückgezogen
+- TOP 11: Nutzung ehemalige Sparkassenfiliale Müggelheim - in der BVV abgelehnt
+- TOP 12: Auswirkungen der Koalitionsvereinbarungen von SPD und PDS auf den Bezirk Treptow-Köpenick von Berlin - beantwortet
+- TOP 13: Treffpunkt rechtsextremer Jugendlicher am Schul- und Bolzplatz an der 15. Grundschule in Bohnsdorf - beantwortet
+- TOP 14: Ausflugs- und Tourismusmanagement Müggelturm oder Ruine mit Denkmalschutz? - beantwortet
+- TOP 15: Kölner Modell - vertagt
+- TOP 16: Stadtschreiber - vertagt
+- TOP 17: Schulgebäude 1. OR Kiefholzstraße - beantwortet
+- TOP 18: Europäische Förderprogramme - vertagt
+- TOP 19: 250 Jahre Johannisthal - beantwortet
+- TOP 20: Informationsfreiheitsgesetz - beantwortet
+- TOP 21: Ergänzung des "Maria-Jankowski-Gedenksteins" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 22: "Stiftung eines "Maria-Jankowski-Preises" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 23: Querungshilfen für Fußgänger <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 24: Finanzmittel für Lokale Agenda <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 25: Ergänzung der bezirklichen Stellungnahme zum Planfeststellungsverfahren Flughafen <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 26: Entlastung der Baumschulenstraße <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 27: Konzeption für ehemaliges Zivilschutzgelände in Bohnsdorf <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 28: Trassenauswahl der Straßenbauinvestition 4212/72072 Glienicker Weg <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 29: Erneuerung S-Bahnhof Baumschulenweg <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 30: Wirtschaftsentwicklung <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 31: Verdichtung des Fahrtaktes der Straßenbahnlinie 28 <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 32: Bolzplatz auf dem Geländer der Grundschule An den Püttbergen <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 33: Sich kreuzende Vorfahrtsstraßen <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span>
+- TOP 34: Keine Starkstromhochleitung in Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span>
+- TOP 35: Fahrrinnenregelung auf dem Müggelsee <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span>
+- TOP 36: Bezirkliche Beteiligung an der Landesentwicklungsplanung
+- TOP 37: Konzept zur Kostenreduzierung - ohne Änderungen in der BVV beschlossen
+- TOP 38: Schwerpunkte für die Beteiligung an der Landesentwicklungsplanung
+- TOP 39: Sozialtag 2002 und Rio-Konferenz
+- TOP 40: Prüfergebnis zur Standortsicherung des Spreeparks im Bezirk Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 41: Positionierung zur Verfahrensregelung hinsichtlich der neuen Befahrensregelung für den Großen Müggelsee durch die Wasser- und Schifffahrtsdirektion Ost - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 42: Mieten freier Träger in landeseigenen Objekten - überwiesen
+- TOP 43: Schulwegsicherung Schönefelder Chaussee/Vernusstraße - ohne Änderungen in der BVV beschlossen
+- TOP 44: Errichtung eines Campingplatzes - mit Änderungen in der BVV beschlossen
+- TOP 45: Köpenicker Sommer - überwiesen
+- TOP 46: Kosten-Nutzen-Analyse zur Übertragung von städtischen Kitas - überwiesen
+- TOP 47: Betriebskostenübersicht - ohne Änderungen in der BVV beschlossen
+- TOP 48: Kürzungen bei Schulen in freier Trägerschaft - überwiesen
+- TOP 49: Europaweiter Autofreier Tag - überwiesen
+- TOP 50: Gesamtkonzeption für das Erholungsgebiet rund um den Langen See und den Müggelsee - ohne Änderungen in der BVV beschlossen
+- TOP 51: Montessori an Schmöckwitzer Grundschule - überwiesen
+- TOP 52: Absperrungen und Bauzäune - überwiesen
+- TOP 53: Gesamtkonzept für die Verkehrsregelung auf den Seen und Gewässern des Bezirks - ohne Änderungen in der BVV beschlossen
+- TOP 54: Saisonbedingte Busparkplätze - mit Änderungen in der BVV beschlossen
+- TOP 55: Mittel aus städtebaulichen Verträgen - vertagt
+- TOP 56: Gedenken an die Opfer der SED-Diktatur - vertagt
+- TOP 57: Müggelturm - beantwortet
+- TOP 58: Die soziokulturelle Infrastruktur Treptow-Köpenicks - vertagt
