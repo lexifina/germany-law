@@ -1,4 +1,3 @@
-## Gesetz über den privaten Rundfunk und neue Medien in Sachsen (Sächsisches Privatrundfunkgesetz – SächsPRG)
 # Inhaltsübersicht
 1. Abschnitt Allgemeine Bestimmungen
 § 1 Anwendungsbereich
@@ -7,7 +6,7 @@
 § 3 Programme im privaten Rundfunk
 § 4 Zuordnung technischer Übertragungskapazitäten
 2. Abschnitt Zulassung der Veranstalter
-§ 5 Zulassungsverfahren
+§ 5 Zulassung von Rundfunkprogrammen, Verbreitung von Mediendiensten
 § 6 Zulassungsvoraussetzungen
 § 7 Sicherung der Meinungsvielfalt
 § 8 Vermeidung vorherrschender Meinungsmacht
@@ -30,8 +29,8 @@
 5. Abschnitt Finanzierung der Programme
 § 23 Formen der Finanzierung
 § 24 Werbung, Sponsorsendungen
-6. Abschnitt Rundfunkähnliche Dienste, neue Rundfunknutzungen
-§ 25 Rundfunkähnliche Dienste
+6. Abschnitt Weitere Rundfunknutzungen, Rundfunkerprobung
+§ 25 Weitere Rundfunknutzungen
 § 26 Rundfunkerprobung
 7. Abschnitt Sächsische Landesanstalt für privaten Rundfunkund neue Medien
 § 27 Rechtsform und Organe
