@@ -1,0 +1,57 @@
+# 19. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2003-12-10T17:30:00+01:00
+- Ende: 2003-12-10T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=606
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=606
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - im Ausschuss abgelehnt
+- TOP 1.2: Abstimmung über die Tagesordnung - im Ausschuss abgelehnt
+- TOP 1.3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 1.4: Mündliche Anfrage - im Ausschuss abgelehnt
+- TOP 1.5: Bericht des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 1.6: Konsensliste - im Ausschuss abgelehnt
+- TOP 1.7: Neuwahl von Schiedspersonen für die Schiedsamtsbezirke 5 und 11 im Bezirk Pankow - gewählt
+- TOP 1.8: Bebauungsplan XVIII-45a für die Grundstücke Berliner Allee 30/48, Mahlerstraße 2/8, 1/11 (teilweise) und Bizetstraße 23/27, 41 sowie Abschnitte der Mahlerstraße und Bizetstraße im Bezirk Pankow, Ortsteil Weißensee - Beschluss gemäß § 6 Abs. 3 AGBauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.8.1: Beschluss gemäß § 6 Abs. 3 AGBauGB für den Bebauungsplan XVIII-45a für die Grundstücke Berliner Allee 30/48, Mahlerstraße 2/8, 1/11 (teilweise) und Bizetstraße 23/27, 41 sowie Abschnitte der Mahlerstraße und Bizetstraße im Bezirk Pankow, Ortsteil Weißensee - überwiesen
+- TOP 1.9: Vorhabenbezogener Bebauungsplan XIX - VE 5 für das Gelände südlich der Blankenfelder Straße zwischen Chartronstraße und Saupeweg (Flur 114, Flurstücke 412 und 414) ("Stadtgärten Buchholz") im Bezirk Pankow, Ortsteil Französisch Buchholz. - Änderung des von der Bezirksverordnetenversammlung am 13.01.2000 beschlossenen vorhabenbezogenen Bebauungsplans (Drs. Nr. 665/III) - überwiesen
+- TOP 1.10: Der Himmel über Pankow - Klimaschutz vor Ort - überwiesen
+- TOP 1.11: Verkehrsberuhigung in der Cantianstraße - überwiesen
+- TOP 1.12: Erhalt des Gewerbestandortes Greifswalder Straße 200 - überwiesen
+- TOP 1.13: Standort Blankenfelde erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Weitere Umsetzung des Lokalen Aktionplanes Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Planspiel Kommunalpolitik - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Fußgängerüberweg Schönholzer Weg - überwiesen
+- TOP 1.17: Nördlicher Ausgang am S-Bahnhof Karow - überwiesen
+- TOP 1.18: HIV-Prävention an Schulen und in Jugendfreizeiteinrichtungen - beantwortet
+- TOP 1.19: Platanen-Grundschule in Blankenfelde - zurückgezogen
+- TOP 1.20: Erhalt der Kinder- und Jugendarbeit des Lindenhof e. V. Blankenfelde - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Sitzmöbel an BVG - Haltestelle - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Sicherheit von MitarbeiterInnen des Bezirksamtes in Bereichen mit Publikumsverkehr - beantwortet
+- TOP 1.23: Soziale Projekte - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Freiluftbühne der Kurt-Schwitters-Oberschule - beantwortet
+- TOP 1.25: Geplante Linienänderungen im Großbezirk Pankow zum 14. Dezember 2003 - beantwortet
+- TOP 1.26: Inbetriebnahme des ehem. Lehrerwohnhauses der Grundschule Christburger Straße als Hort und Jugendfreizeitstätte - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Bericht zu Blockheizkraftwerken in öffentlich-privater Zusammenarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Keine Mobilitätshindernisse im Mauerpark - überwiesen
+- TOP 1.29: Mobilitätsfalle auf dem Mauerweg - überwiesen
+- TOP 1.30: BürgerInnenengagement fördern: Bepflanzung von Baumscheiben - überwiesen
+- TOP 1.31: Verkehrsberuhigung in der Choriner Straße - überwiesen
+- TOP 2: Komplex II - überwiesen
+- TOP 2.1: Bürodienstruine Dusekestraße 43 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Ein Golfplatz in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Lichtsignalanlage Berliner Allee/Buschallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Pankow für saubere Luft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Nutzung der Laufbahn des kleinen Stadions des Jahnsportparks durch Läuferinnen und Läufer - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Auslobung des Wettbewerbs Familienfreundlicher Betrieb Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Änderung der Sanierungsziele im Sanierungsgebiet Teutoburger Platz Choriner Straße 58 und 59 in Verbindung mit Choriner Straße 47, 48 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Lokaler Aktionsplan Pankow - Beauftragung Netzwerkstelle [moskito] mit der Umsetzung der Handlungsempfehlungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Präzisierung der sozialen Sanierungsziele für die Sanierungsgebiete im OT Prenzlauer Berg Rahmenbedingungen zur Anwendung des § 180 BauGB - Gebietssozialplan - mit Abschlussbericht zur Kenntnis genommen
