@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 1994-12-28 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/bildung_amt_jaenschwalde
+- Datum: 1995-03-27 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/aend_name_amt_zehdenick
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -27,30 +27,20 @@ A |
 
 Aktuelle Fassung
 
-Bildung des Amtes Jänschwalde
+Änderung des Namens des Amtes Zehdenick
 
-vom 22. Dezember 1992
+vom 20. März 1995
 
-(ABl./93, [Nr. 8], S.158)
+(ABl./95, [Nr. 26], S.342)
 
-Der Minister des Innern hat seine Zustimmung zu den Beschlüssen über die Bildung des folgenden Amtes erteilt:
+Der Minister des Innern hat in Anwendung von § 1 Abs. 3 der Amtsordnung für das Land Brandenburg vom 15. Oktober 1993 (GVBl. I S. 398, 450) seine Zustimmung zur folgenden Ände­rung des Namens des Amtes Zehdenick (ABl. 1992 S. 1890) erteilt:
 
-Amt Jänschwalde mit Sitz in Jänschwalde, bestehend aus den Gemeinden
+Das Amt Zehdenick
 
-Drewitz
+(Landkreis Oberhavel)
 
-Grießen
+wird mit Wirkung vom 27. März 1995 in das Amt
 
-Horno
+Zehdenick und Gemeinden
 
-Jänschwalde
-
-Alle Gemeinden und das Amt liegen im Kreis Guben.
-
-Die Zustimmung gilt befristet bis zum 28.12.1994.
-
-Gemäß § 49 Abs. 1 des Verwaltungsverfahrensgesetzes - VwVfG - vom 25. Mai 1976 (BGBl. I S. 1253) zuletzt geändert durch Art. 7 § 3 BetreuungsG vom 12.9.1990 (BGBl. I S. 2002) wird der Erlaß über die Zuordnung der Gemeinden Jänschwalde, Horno, Grießen und Drewitz (Kreis Guben) zum Amt Schenkendöbern vom 23.9.1992 widerrufen.
-
-Gem. § 49 Abs. 3 VwVfG wird als Zeitpunkt für das Wirksamwerden des Widerrufs der 28.12.1992 festgelegt.
-
-In Anwendung von § 6 Satz 2 der Verordnung über das Verfahren bei der erstmaligen Bildung sowie bei der Änderung und bei der Auflösung von Ämtern im Land Brandenburg vom 13.01.1992 (GVBl. II S. 22) wurde als Zeitpunkt für das Zustandekommen des o. g. Amtes der 28.12.1992 festgelegt. Dieser Zeitpunkt wird hiermit bekanntgemacht.
+umbenannt.
