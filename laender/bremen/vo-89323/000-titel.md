@@ -1,1 +1,1 @@
-# Verordnung zur Sicherung von Naturdenkmalen vom 14. Juni 1950
+# Verordnung zur Sicherung von Naturdenkmälern vom 16. Februar 1957

@@ -1,3 +1,3 @@
 # Eingangsformel
-Auf Grund der §§ 12 Abs. 1, 13 Abs. 1, 15 und 16 Abs. 1 des Reichsnaturschutzgesetzes vom 26. Juni 1935 (RGBl. I S. 821 sowie der §§ 7 Abs. 1 bis 4 und 9 der Durchführungsverordnung vom 31. Oktober 1935 (RGBl. I S. 1275) wird verordnet:
+Auf Grund der §§ 12 Abs. 1, 13 Abs. 1, 15 und 16 Abs. 1 des Reichsnaturschutzgesetzes vom 26. Juni 1935 (RGBl. I S. 821) sowie der §§ 7 Abs. 1-4 und 9 der Durchführungsverordnung zum Reichsnaturschutzgesetz vom 31. Oktober 1935 (RGBl. I S. 1275) wird verordnet:
 Einzelansicht Seitenanfang
