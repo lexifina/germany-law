@@ -1,0 +1,8 @@
+# TOP 9.3: Haus der Stadtgeschichte
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Kulturausschusses (2003-05-14)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/7295
+- Ergebnis: Entgegennahme ohne Beschluss
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/4055
