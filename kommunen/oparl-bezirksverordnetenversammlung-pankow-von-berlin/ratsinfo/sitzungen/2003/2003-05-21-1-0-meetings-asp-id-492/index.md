@@ -1,0 +1,99 @@
+# 15. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2003-05-21T17:30:00+02:00
+- Ende: 2003-05-21T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=492
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=492
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - zur Kenntnis genommen
+- TOP 1.2: Abstimmung über die Tagesordnung - zur Kenntnis genommen
+- TOP 1.3: Dringlichkeitsanträge - zur Kenntnis genommen
+- TOP 1.4: Mündliche Anfrage - zur Kenntnis genommen
+- TOP 1.5: Bericht des Bezirksamtes - zur Kenntnis genommen
+- TOP 1.6: Konsensliste - zur Kenntnis genommen
+- TOP 1.7: Elektrosmog in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.8: Schüler - BVV - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Regionaler Aktionsplan gegen häusliche Gewalt - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Verkehrsberuhigung in der Waldstraße im Ortsteil Pankow - in der BVV abgelehnt
+- TOP 1.11: Drei Botschaften für Aldi - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Ein Golfplatz in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Kultur- und Bildungsentwicklungsplan Pankow 2003 - 2007 (Stand 30.04.03) - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: UMTS Sendeanlagen auf bezirkseigenen Flächen und Gebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Sportstätten für die Theresienschule - überwiesen
+- TOP 1.16: Anschlussnutzung des Platzhauses auf dem Helmholtzplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Erhalt des Programms für besondere soziale Projekte in den östlichen Bezirken - Sonderprogramm - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Nutzung moderner Kommunikationstechniken durch das Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Betrifft: Prüfantrag V - 0249/02 (Fahrradfahren auf Wegen in Parks und Grünanlagen in Pankow) (beschlossen auf der 14. Tagung der BVV am 2. April) - beantwortet
+- TOP 1.20: Gedenkzeichen Bezirksamtsgelände Fröbelstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Geförderte Projekte freier Träger - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Einrichtung zeitlich befristeter Parkmöglichkeit, Walter-Friedrich-Str., 13125 Berlin-Buch - überwiesen
+- TOP 1.23: Ergänzung des Fahrradroutennetzes: Von der Linienstraße zum Prenzlauer Berg - überwiesen
+- TOP 1.24: Erhalt der Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Fahrradstellplätze auf der Blankenburger Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Fortführung des Schülerclubprogrammes - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Parkraumbewirtschaftung vor den Bürodienstgebäuden im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Lichtsignalanlage Berliner Allee/Buschallee - überwiesen
+- TOP 1.29: Verkehrsbelastung in Heinersdorf - Entwicklungschancen für den Ortsteil - überwiesen
+- TOP 1.30: Girokonten für Sozialhilfeempfangende - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Windenergie sinnvoll nutzen! - überwiesen
+- TOP 1.32: Gleisanschluss für das Heinersdorfer Gewerbegebiet - überwiesen
+- TOP 1.33: Kundenmonitoring - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Schulnummernvergabe - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Ablauf der Debatte Bezirksplan zum Berliner Haushalt 2004/2005 - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: "Schwimmhalle Wolfshagener Straße" - beantwortet
+- TOP 1.37: Vertretung bezirklicher Interessen gegenüber der Stadtentwicklungsgesellschaft Eldenaer Straße (SES) - in der BVV zurückgezogen
+- TOP 1.38: Lärm in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Fifty-fifty (I.): Bürokratie überwinden - Reibungslose Zusammenarbeit zwischen den Abteilungen - mit Änderungen in der BVV beschlossen
+- TOP 1.40: Bereichsentwicklungsplanung für Pankow - in der BVV zurückgezogen
+- TOP 1.41: Fifty-fifty (II.): Public-Private-Partnership - Kooperationsmöglichkeiten nutzen - in der BVV zurückgezogen
+- TOP 1.42: Fifty-fifty (III.): Anzeige schaffen - Nachhaltige Energieeinsparung sichern - in der BVV zurückgezogen
+- TOP 1.43: Fifty-fifty (IV.): Wettbewerb zwischen den Schulen - Attraktivität von Fifty-fifty steigern - in der BVV zurückgezogen
+- TOP 1.44: Fifty-fifty (V.): Finanzierung und Auszahlungsmodalitäten - Rahmenbedingungen optimieren - in der BVV zurückgezogen
+- TOP 1.45: Pankow für saubere Luft - ohne Änderungen in der BVV beschlossen
+- TOP 1.46: Unterstützung von Pankower Einkaufsstraßen - in der BVV zurückgezogen
+- TOP 1.47: Planung der Personaleinsparung 2003 - 2006 - vertagt
+- TOP 2: Komplex II - vertagt
+- TOP 2.1: Konzeption zur Arbeit des Behindertenbeauftragten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Bolzplatz an der Marie - kontinuierliche Nutzung während des Turnhallenbaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Bäderschließung in Berlin - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Sozialplanung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Seniorenwohnen in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Behindertengerechte Zugänge im Sozialamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Erhalt des Standortes der WIP - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Zaun an der Zufahrt zur KGA Lindenhof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Kompostierbarer Hausmüll - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Jugendpsychiatrischer Dienst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Halbjährliche Berichterstattung über Budgetentwicklung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Verkehrsberuhigung Bahnhofstraße Blankenburg, Bereich Albert-Schweizer-Stiftung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Drs. IV - 0123/01 vom 03.07.2002, Bezirkshaushaltsrechnungen 1999 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Fifty-fifty-Projekte in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Buslinie 107 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: EU-Bericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Statistik der Sozialräume - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Keine Novellierung der BauO auf Kosten der Kinder - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Alternativen zum geplanten Erweiterungsbau Milchhäuschen und Erhalt der ca. 80 Jahre alten Kastanie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Anmeldung zur Investitionsplanung 2003 - 2007 des Bezirkes Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Aufhebung der Zacharias Grundschule, Sulzfelder Straße 15 in 13088 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Zusammenlegung der Thule-Grundschule, Thulestraße 39/41 in 13189 Berlin mit der Grundschule am Eschengraben, Eschengraben 40 in 13189 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Aufhebung der Edgar-Ende-Grundschule, Erich-Weinert-Str. 105 in 10405 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Vorhabenbezogener Bebauungsplan XVIII-VE-1 für die Grundstücke Malchower Chaussee 6, 10 und Piesporter Straße 38, 38 A und 38 B im Bezirk Pankow von Berlin, Ortsteil Stadtrandsiedlung Malchow; Beschluss über die Festsetzung als Rechtsverordnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Antragsprüfkreterien für die Milieuschutzgebiete gem. § 172 Abs. 1 Satz 1 Nr. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Anbringen von 3 Fahnen mit der Werbung zum Trommelfest RAKATAK vom 20. Juni 2003 bis zum 30. Juni 2003 im Rathaus Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Neubesetzung des Stiftungsrates der Stiftung Pfefferwerk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Antrag der Bauhaus Grundstück- und Vermögensverwaltung GmbH über die Einleitung eines Bebauungsplanverfahrens gemäß § 12 Abs. 2 Satz 1 BauGB betreffs der Erweiterung des Bauhauses am Standort Schönerlinder Straße im Ortsteil Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Suche nach einem gleichwertigen Ersatz für den Ballspielplatz auf der "Marie" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.32: Aufsuchender Sozialdienst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Familiengericht Pankow / Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Rahmenplanung "Gewerbeflächen Heinersdorf" als Grundlage für die weitere Bearbeitung des Bebauungsplanentwurfs XVIII-39 im Ortsteil Heinersdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Kultur- und Bildungsentwicklungsplan Pankow 2003 - 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Schulentwicklungs- und Schulnetzplan des Bezirks Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
