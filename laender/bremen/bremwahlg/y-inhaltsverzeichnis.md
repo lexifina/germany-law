@@ -45,6 +45,7 @@ Siebter Abschnitt Erwerb und Verlust der Mitgliedschaft in der Bürgerschaft
 34 | Verlust der Mitgliedschaft in der Bürgerschaft
 35 | Folge eines Parteienverbotes
 36 | Berufung von Listennachfolgern
+36a | Erwerb und Verlust der Mitgliedschaft in der Stadtbürgerschaft.
 Achter Abschnitt Wahlprüfung, Nachwahlen und Wiederholungswahlen
 37 | Wahlprüfungsgericht
 38 | Verfahren
