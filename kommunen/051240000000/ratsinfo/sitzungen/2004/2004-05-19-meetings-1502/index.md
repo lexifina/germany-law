@@ -1,0 +1,97 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2004-05-19T16:00:00+02:00
+- Ende: 2004-05-19T16:15:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1502
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1502
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen -Stand: 19.05.2004 - 12.00 Uhr - http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00035425.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Anregungen und Beschwerden gem. § 24 GO
+- TOP 2.1: Verabschiedung eines Kinder- und Jugendfördergesetzes in Nordrhein-Westfalen
+- TOP 3: Neue Fraktionsanträge
+- TOP 3.1: Konzeption zur Verbesserung der öffentlichen Sicherheit in Wuppertal
+- TOP 3.2: Konzept für eine sinnvolle Sperrmüllverwertung
+- TOP 3.3: Wuppertaler Bündnis für Familien - zur Vorberatung verwiesen
+- TOP 3.4: Städtebauliche Neuorientierung Bereich Loh
+- TOP 3.5: Möglichkeit der freien Auswahl von Untersuchungslaboren
+- TOP 3.6: Sondersitzung zur Situation der Wuppertaler Stadtwerke - abgelehnt
+- TOP 3.7: Bildung eines Ausschusses für Migrationsfragen - in der Sache erledigt
+- TOP 3.7.1: Bildung eines Migrationsausschusses - ungeändert beschlossen
+- TOP 3.8: Aufhebung aller Würdigungen des Baron Eduard von der Heydt in Wuppertal - abgelehnt
+- TOP 3.9: Resolution gegen die geplante Ausbildungsplatzabgabe - vertagen
+- TOP 3.9.1: Ausbildungsplatzumlage - vertagen
+- TOP 3.10: Einrichtung von Betreuungsangeboten für Kinder unter 2 Jahren - zur Vorberatung verwiesen
+- TOP 3.11: Ausnahmegenehmigung "Bergischer Sonderparkausweis" - ungeändert beschlossen
+- TOP 3.12: Stadtumbau West - in der Sache erledigt
+- TOP 3.12.1: Stadtumbau West - Stellungnahme der Verwaltung - in der Sache erledigt
+- TOP 3.13: Kooperation KFZ-Zulassungsstelle mit dem Finanzamt Wuppertal-Elberfeld
+- TOP 3.14: Wirtschaftliche Verwertung der GOH-Kaserne - Aufhebung der Unterschutzstellung - ungeändert beschlossen
+- TOP 3.15: Antrag auf Einrichtung einer gentechnikfreien Region - Nichtbefassung beschlossen
+- TOP 3.16: Übernahme von Kosten medizinischer Behandlung - abschließend mit Aufträgen beschlossen
+- TOP 3.17: Befestigungsmöglichkeiten für Hundeleinen an öffentlichen Gebäuden - zur Vorberatung verwiesen
+- TOP 3.18: L 411: Verkehrsberuhigende Maßnahmen - zur Vorberatung verwiesen
+- TOP 3.19: Von der Offenen Ganztagsgrundschule zur Ganztagsschule - zur Vorberatung verwiesen
+- TOP 3.20: Renovierung Stadtbad Ronsdorf - zur Vorberatung verwiesen
+- TOP 4: Fraktionsanträge, die bereits in einem Gremium vorberaten wurden (§ 8 der Geschäftsordnung für den R
+- TOP 4.1: Umsetzung der Mobilfunkvereinbarung NRW - in der Sache erledigt
+- TOP 4.2: Aufstellung eines Bebauungsplans Wiesenstraße/Froweinstraße - in der Sache erledigt
+- TOP 4.3: Übernahme von Teilflächen der HELIOS-Kliniken am Arrenberg - vertagen
+- TOP 4.3.1: Nicht-betriebsnotwendige Immobilien der HELIOS Klinikum Wuppertal GmbH am Standort Elberfeld - vertagen
+- TOP 4.3.2: Nicht-betriebsnotwendige Immobilien der HELIOS Klinikum Wuppertal GmbH am Standort Elberfeld - vertagen
+- TOP 4.4: Kommunale Sportentwicklungsplanung - geändert beschlossen
+- TOP 4.4.1: Änderungsantrag zu Drs. VO/2768/04 "Kommunale Sportentwicklungsplanung" - ungeändert beschlossen
+- TOP 4.5: Ganztagsgrundschulen in Wuppertal
+- TOP 5: Ortsrecht
+- TOP 5.1: Differenzierung der Ablösesummen in der bestehenden Stellplatz-Ablösungs-Satzung - ungeändert beschlossen
+- TOP 5.2: Satzung zur Erklärung der Gemeinnützigkeit der Stadtbibliothek - ungeändert beschlossen
+- TOP 5.3: Satzungen zur Änderung der Beitrags- und Gebührensatzungen zur Satzung über die Abwasserbeseitung
+- TOP 5.4: Satzung zur Erklärung der Gemeinnützigkeit des Sinfonieorchesters - ungeändert beschlossen
+- TOP 5.5: Erste Satzung zur Änderung der Hundesteuersatzung - ungeändert beschlossen
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Straßenbeleuchtung - zur Vorberatung verwiesen
+- TOP 6.1.1: Reduzierung der Energiekosten für die Straßenbeleuchtung - abgelehnt
+- TOP 6.2: Änderungsantrag zum Haushaltsplanentwurf 2004/2005 - Einzelplan 27 - VO/2624/04/1-Neuf - in der Sache erledigt
+- TOP 6.3: Dringende Straßeninstandsetzungsmaßnahmen 2004 - überplanmäßige Ausgabe - ungeändert beschlossen
+- TOP 6.4: Kategorisierung und Priorisierung von Investitionen - ungeändert beschlossen
+- TOP 6.5: Änderungsantrag zu VO/2619/04 - abgelehnt
+- TOP 7: Angelegenheiten des Beteiligungsmanagements
+- TOP 7.1: Jahresabschluss des KIJU der Stadt Wuppertal für das Geschäftsjahr 2003 - ungeändert beschlossen
+- TOP 7.2: Wirtschaftsplan des Gebäudemanagements der Stadt Wuppertal 2004 - ungeändert beschlossen
+- TOP 8: Planverfahren
+- TOP 8.1: Bauleitplanverfahren Nr. 887 - Clausenstr. / Schwesterstr. - - ungeändert beschlossen
+- TOP 8.2: 2. Verlängerung einer Veränderungssperre im Bebauungsplan 1000 - Widukindstraße - - ungeändert beschlossen
+- TOP 8.3: Bebauungsplan Nr. 316 -Im Rehsiepen- - ungeändert beschlossen
+- TOP 8.4: 2. Verlängerung einer Veränderungssperre im Bebauungsplan 316 - Im Rehsiepen - - in der Sache erledigt
+- TOP 8.5: 1. Verlängerung einer zweiten Veränderungssperre im Bebauungsplan 1054 - Werther Hof / Lindenstraße- - ungeändert beschlossen
+- TOP 8.6: Bauleitplanverfahren Nr. A - Döppersberg / Busbahnhof
+- TOP 9: Baumaßnahmen
+- TOP 9.1: Neubau einer Anlage für Brillenpinguine; Annahme eines Geschenkes des Zoo-Vereins Wuppertal e. V. - ungeändert beschlossen
+- TOP 9.2: Erweiterung der Hauptschule Dieckerhoffstraße - ungeändert beschlossen
+- TOP 9.3: Erweiterung der Schule für geistig Behinderte Melanchthonstraße - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Masterplan zur Entwicklung der Wuppertaler Gewerbeparks - vertagen
+- TOP 10.2: Managementprogramm 2004/2005 der Stadt Wuppertal - vertagen
+- TOP 10.2.1: Managementprogramm "Innenstadtentwicklung" - vertagen
+- TOP 10.2.2: Änderungsantrag Managementprogramm 2004/2005 der Stadt Wuppertal - vertagen
+- TOP 10.3: Privatisierung der städtischen Wochenmärkte - vertagen
+- TOP 10.4: Entgelt für das Mittagessen im Schuljahr 2004/2005 an den städtischen Ganztagsschulen - ungeändert beschlossen
+- TOP 10.5: Verlagerung der JVS Ost und der JVS West zur Skaterhalle Wicked Woods
+- TOP 10.6: Änderung der Sportförderungsrichtlinien - ungeändert beschlossen
+- TOP 10.7: Bürgerbegehren gegen Grundschulschließungen - ungeändert beschlossen
+- TOP 11: Gremienbesetzung / Benennung
+- TOP 11.1: Neuwahl eines Mitglieds bzw. eines stellvertretenden Mitglieds des Jugendhilfeausschusses - ungeändert beschlossen
+- TOP 11.2: Wahl der Bezirksjugendräte 2005/2006 - Wahl eines gesamtstädtischen Jugendrates - vorbehaltlich beschlossen
+- TOP 11.3: Wahl eines sachkundigen Einwohners für den Ausschuss Soziales und Gesundheit - ungeändert beschlossen
+- TOP 11.4: Wahl der Vertreter für Beiräte, Kuratorien, überörtliche Gremien u. a. - ungeändert beschlossen
+- TOP 11.5: Verwaltungsausschuss der Bundesagentur für Arbeit - ungeändert beschlossen
+- TOP 11.6: Wahl der Vertrauenspersonen als Beisitzer/innen des Schöffenwahlausschusses
+- TOP 11.7: Aufsichtsrat der Hotel AG - ungeändert beschlossen
+- TOP 12: Genehmigung von Dringlichkeitsentscheidungen
