@@ -1,0 +1,1 @@
+# Verordnung über die nach dem Gesetz zur Neuordnung des Rechts der Kriegsdienstverweigerung und des Zivildienstes zu bestimmende kommunale Vertretungskörperschaft für die Wahl der ehrenamtlichen Beisitzer in den Ausschüssen und Kammern für Kriegsdienstverw
