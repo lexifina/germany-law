@@ -1,0 +1,144 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2004-07-19T16:00:00+02:00
+- Ende: 2004-07-19T21:42:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1496
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1496
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung - Stand 08.07.2004 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00039139.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00040131.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00039799.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde
+- TOP 2.1: Cross-Border-Leasing (US-Lease)-Verträge vor dem Aus - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Anfrage der PDS-Ratsgruppe im Rat der Stadt Wuppertal vom 05.07.2004, Drucks.-Nr. VO/3278/04 - abschließend zur Kenntnis genommen
+- TOP 2.2: Kaufkraftverlust durch Einführung des Arbeitslosengeld II in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Beantwortung der Anfrage der PDS Ratsgruppe vom 05.07.04 - Drs.-Nr. VO/3279/04 - abschließend zur Kenntnis genommen
+- TOP 2.3: Resolution Lückenschluss L 419 - Aktueller Sachstandsbericht - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Resolution Lückenschluss L 419 - Aktueller Sachstandsbericht - abschließend zur Kenntnis genommen
+- TOP 2.4: Wagenhalle Unterkirchen - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Wagenhalle Unterkirchen - abschließend zur Kenntnis genommen
+- TOP 2.5: Finanzierung Regionaleprojekte - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Antwort der Verwaltung auf die Anfrage der SPD-Fraktion - abschließend zur Kenntnis genommen
+- TOP 2.6: Baumaßnahmen Vonkeln - abschließend zur Kenntnis genommen
+- TOP 2.6.1: Baumaßnahmen Vonkeln - Bericht der Verwaltung - abschließend zur Kenntnis genommen
+- TOP 2.7: Schließung der Meldestelle in Elberfeld - abschließend zur Kenntnis genommen
+- TOP 2.7.1: Schließung der Meldestelle in Elberfeld - abschließend zur Kenntnis genommen
+- TOP 2.8: Nutzung des Medienzentrums - abschließend zur Kenntnis genommen
+- TOP 2.8.1: Antwort zur Anfrage Bündnis 90/Die Grünen - Drucksache - VO/3313/04 - Nutzung Medienzentrum - abschließend zur Kenntnis genommen
+- TOP 3: Neue Fraktionsanträge
+- TOP 3.1: Mehrzweckhalle Unterkirchen - ungeändert beschlossen
+- TOP 3.1.1: Stellungnahme der Verwaltung zu VO/2714/04 - Mehrzweckhalle Unterkirchen - Kenntnis genommen
+- TOP 3.2: Drs. VO/2502/04, Änderung der Verleih- und Nutzungsordnung für das Medienzentrum der Stadt Wuppertal - geändert beschlossen
+- TOP 3.2.1: Verleih- und Nutzungsordnung für das Medienzentrum der Stadt Wuppertal - in der Sache erledigt
+- TOP 3.3: Konzept für den Ausbau von Lebensmitteldiscountern - abgelehnt
+- TOP 3.3.1: Verwaltungsvorlage zum gemeinsamen Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN und der FDP-Fraktion - - von der Tagesordnung gesetzt
+- TOP 3.4: BürgerInnenhaushalt - von der Tagesordnung gesetzt
+- TOP 3.5: Rollstühle in städtischen Gebäuden - geändert beschlossen
+- TOP 3.6: Sparsamkeit und Wirtschaftlichkeit der Ratsarbeit erhöhen - zur Vorberatung verwiesen
+- TOP 3.7: Jugendverkehrsschulen - geändert beschlossen
+- TOP 3.7.1: Jugendverkehrsschulen Ost und West - geändert beschlossen
+- TOP 3.8: Hundertwasser-Haus - zur Vorberatung verwiesen
+- TOP 3.9: Keine gentechnisch veränderten Produkte im Konzern Stadt - ungeändert beschlossen
+- TOP 3.9.1: Wahlfreiheit bezüglich Gentechnik in kommunalen Einrichtungen - zur Vorberatung verwiesen
+- TOP 3.9.2: Antrag zur Tagesordnung zu Top 3.9 Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN VO/3257/04 - zur Vorberatung verwiesen
+- TOP 3.10: Planung und Durchführung einer kontrovers besetzten Podiumsdiskussion zum Thema Grüne Gentechnik - zur Vorberatung verwiesen
+- TOP 3.11: Einrichtung zusätzlicher Gruppen an den Offenen Ganztagsgrundschule zum Schuljahr 2004/05 - in der Sache erledigt
+- TOP 3.11.1: Ausweitung der Offenen Ganztagsschule für das Schuljahr 2004/05 - ungeändert beschlossen
+- TOP 3.12: Umsetzung der Europäischen Wasserrahmenrichtlinie für den Bürger kostenneutral gestalten - ungeändert beschlossen
+- TOP 3.13: Kunstsammlung von-der-Heydt-Museum - zur Vorberatung verwiesen
+- TOP 3.14: Erhalt und die Sicherung der Wuppertaler Stadtwerke AG - zur Vorberatung verwiesen
+- TOP 3.15: Projekte der Regionale 2006
+- TOP 3.16: Zukunft des ÖPNV - zur Vorberatung verwiesen
+- TOP 3.17: Ausbildungsplätze schaffen - ungeändert beschlossen
+- TOP 3.18: Dringlichkeitsantrag: Zusammenlegung der Berufs- und der Werksfeuerwehr Bayer
+- TOP 4: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 4.1: Wuppertaler Bündnis für Familien - ungeändert beschlossen
+- TOP 4.2: Befestigungsmöglichkeiten für Hundeleinen an öffentlichen Gebäuden - in der Sache erledigt
+- TOP 4.2.1: Befestigungsmöglichkeiten für Hundeleinen an öffentlichen Gebäuden - in der Sache erledigt
+- TOP 4.3: L 411: Verkehrsberuhigende Maßnahmen - ungeändert beschlossen
+- TOP 4.4: Von der Offenen Ganztagsgrundschule zur Ganztagsschule - von der Tagesordnung gesetzt
+- TOP 4.5: Renovierung Stadtbad Ronsdorf - in der Sache erledigt
+- TOP 4.6: Erhalt des Siedlungscharakters Falkenberg - ungeändert beschlossen
+- TOP 4.7: Möglichkeit der freien Auswahl von Untersuchungslaboren - von der Tagesordnung gesetzt
+- TOP 5: Ortsrecht
+- TOP 5.1: Einzelsatzung Trägerstraße - ungeändert beschlossen
+- TOP 5.2: Abweichungssatzung Westring - ungeändert beschlossen
+- TOP 5.3: Abweichungssatzung Cronenfelder Straße - ungeändert beschlossen
+- TOP 5.4: 10. Änderungssatzung über die Erhebung von Benutzungsgebühren in Übergangseinrichtungen - ungeändert beschlossen
+- TOP 5.5: Außerdienststellung des städt. Friedhofes Schorfer Straße (Wuppertal-Cronenberg) - ungeändert beschlossen
+- TOP 5.6: Erste Satzung zur Änderung der Friedhofs- und Bestattungssatzung - ungeändert beschlossen
+- TOP 5.7: Zehnte Satzung zur Änderung der Gebührensatzung für die Friedhöfe der Stadt Wuppertal - ungeändert beschlossen
+- TOP 5.8: Entgeltordnung des Von der Heydt-Museums - ungeändert beschlossen
+- TOP 5.9: Satzung über die Erhebung einer Zweitwohnungssteuer in der Stadt Wuppertal - von der Tagesordnung gesetzt
+- TOP 5.9.1: Änderungsantrag zur Drucksache VO/3217/04 - ungeändert beschlossen
+- TOP 5.9.2: Zweitwohnungssteuer - abgelehnt
+- TOP 5.10: Neufassung der Wahlordnung für die Vertreter der Migrantinnen und Migranten im Migrationsausschuss - ungeändert beschlossen
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Straßenbeleuchtung - von der Tagesordnung gesetzt
+- TOP 6.2: Über- und außerplanmäßige Ausgaben 2003 - abschließend zur Kenntnis genommen
+- TOP 6.3: Über- und außerplanmäßige Ausgaben 2004 - abschließend zur Kenntnis genommen
+- TOP 6.4: Regionale 2006 - Priorisierung und Finanzierung der Projekte - in der Sache erledigt
+- TOP 6.4.1: Projekte der Regionale 2006 - abgelehnt
+- TOP 6.4.2: Änderungsantrag zu VO/3244/04 - TOP 6.4 - abgelehnt
+- TOP 6.4.3: Änderungsantrag zu VO/3244/04 - TOP 6.4 - abgelehnt
+- TOP 6.4.4: Änderungsantrag zur Drucksache VO/3244/04 - REGIONALE 2006 - Priorisierung und Finanzierung - ungeändert beschlossen
+- TOP 7: Angelegenheiten des Beteiligungsmanagements
+- TOP 7.1: Beteiligungsbericht der Stadt Wuppertal für das Jahr 2002 - abschließend zur Kenntnis genommen
+- TOP 7.2: Jahresabschluss der Stadtsparkasse Wuppertal für das Geschäftsjahr 2003 - ungeändert beschlossen
+- TOP 8: Planverfahren
+- TOP 8.1: Bauleitplanverfahren Nr. 910 - westlich Oberbergische Str. - - abgelehnt
+- TOP 8.2: Bauleitplanverfahren Nr. 892 - Steinweg/Alter Markt - - ungeändert beschlossen
+- TOP 8.3: Bauleitplanverfahren Nr. 1010 -Gartenmarkt Wieden- - ungeändert beschlossen
+- TOP 8.4: Bauleitplanverfahren Nr. 954 A - Döppersberg / Busbahnhof - ungeändert beschlossen
+- TOP 8.5: Bauleitplanverfahren Nr. 1068 - Bayreuther Straße/Briller Straße - - ungeändert beschlossen
+- TOP 8.6: Bebauungsplan Nr. 933 Bahnhofstraße / Südstraße - 2. Änderung - - ungeändert beschlossen
+- TOP 8.7: Bebauungsplan Nr. 1069 -Bredde/ Berliner Straße - vorbehaltlich beschlossen
+- TOP 8.8: Satzungsbeschluss Bebauungsplan Nr.1054 -Werther Hof/ Lindenstraße- - ungeändert beschlossen
+- TOP 8.9: Anordnung einer Veränderungssperre im Bebauungsplan 884 - Küllenhahner Straße - - ungeändert beschlossen
+- TOP 8.10: Anordnung einer Veränderungssperre im Bebauungsplan 1065 - Steinbecker Meile - ungeändert beschlossen
+- TOP 8.11: 1. Verlängerung einer Veränderungssperre im Bebauungsplan 968 - Industriestraße - - ungeändert beschlossen
+- TOP 8.12: 1. Verlängerung einer Veränderungssperre im Bebauungsplan 512/1. Änd. - Wasserstraße - - ungeändert beschlossen
+- TOP 8.13: Aufhebung der Fluchtlinienpläne Nr. 210 und 226 - ungeändert beschlossen
+- TOP 9: Baumaßnahmen
+- TOP 9.1: Neubau der Grundschule Hermann-Herberts-Schule, Cronenfelder Straße - mit Aufträgen beschlossen
+- TOP 9.2: Neubau eines Traktes für Naturwissenschaften in der Gesamtschule Vohwinkel, Florian-Geyer-Straße - ungeändert beschlossen
+- TOP 9.3: Erweiterung katholischen Grundschule Schlüssel - ungeändert beschlossen
+- TOP 9.4: Erweiterung der Gemeinschaftsgrundschule Am Hofe - vorbehaltlich beschlossen
+- TOP 9.5: Erweiterung Grundschule Küllenhahner Straße - geändert beschlossen
+- TOP 9.6: Erweiterung der Schule am Nordpark, Melanchthonstraße - vorbehaltlich beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Managementprogramm 2004/2005 der Stadt Wuppertal - ungeändert beschlossen
+- TOP 10.1.1: Änderungsantrag Managementprogramm 2004/2005 der Stadt Wuppertal - in der Sache erledigt
+- TOP 10.1.2: Managementprogramm "Innenstadtentwicklung" - ungeändert beschlossen
+- TOP 10.1.3: Änderungsantrag der CDU zu TOP 10.1.1 zum Managementprogramm 2004/2005 - abgelehnt
+- TOP 10.2: Schulbezirksänderungen im Rahmen der Grundschulentwicklungsplanung für Wuppertal - ungeändert beschlossen
+- TOP 10.2.1: Änderungsantrag zu VO/2954/04/1 - in der Sache erledigt
+- TOP 10.3: Umwandlung von Gruppen - ungeändert beschlossen
+- TOP 10.4: Errichtung einer sonderpädagogischen Fördergruppe der Sekundarstufe I an der Hauptschule Langerfeld - ungeändert beschlossen
+- TOP 10.5: Errichtung einer sonderpädagogischen Fördergruppe der Sekundarstufe II am Berufskolleg Kohlstraße - ungeändert beschlossen
+- TOP 10.6: Stadtentwässerung - Maßnahmenkatalog 2005/2006 der WSW AG - ungeändert beschlossen
+- TOP 10.7: Energieeffizientes Wuppertal - Wiederholungsaudit zum European Energy Award - ungeändert beschlossen
+- TOP 10.8: Hof- und Fassadenprogramm für gründerzeitliche Stadtteile - geändert beschlossen
+- TOP 10.9: Umsetzung Hartz IV - mit Aufträgen beschlossen
+- TOP 10.9.1: Ergänzungsantrag zu VO/3069/04 Umsetzung Hartz IV - in der Sache erledigt
+- TOP 10.10: Rettungsdienstbedarfsplan - von der Tagesordnung gesetzt
+- TOP 10.11: Brandschutzbedarfsplan der Stadt Wuppertal - von der Tagesordnung gesetzt
+- TOP 10.12: Neuordnung der Grundschulen in Ronsdorf - ungeändert beschlossen
+- TOP 10.13: Behandlung im Rat erfolgt unter TOP 12.2
+- TOP 11: Gremienbesetzung / Benennungen
+- TOP 11.1: Wahlausschuss - Benennung eines neuen stellvertretenden Beisitzers - ungeändert beschlossen
+- TOP 11.2: Bestellung einer Stellvertreterin für den Vertreter der Stadt in der Hauptversammlung der Hotel AG - ungeändert beschlossen
+- TOP 11.3: - Nur Hauptausschuss -
+- TOP 11.4: Bundesagentur für Arbeit - Ausschuss für anzeigepflichtige Entlassungen - ungeändert beschlossen
+- TOP 11.5: Wird unter TOP 5.10 behandelt
+- TOP 12: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 12.1: Rückzahlung zuviel erhaltener Landeszuwendungen für die Maßnahme "Busspur Gathe" - Dringlichkeitsentscheidung genehmigt
+- TOP 12.2: Aussagegenehmigung gemäß § 43 II Ziff. 2 GO NRW für Herrn Stadtverordneten Jürgen Reese - Dringlichkeitsentscheidung genehmigt
