@@ -1,3 +1,2 @@
 # Verwaltungsvollstreckungsgesetz für den Freistaat Sachsen (SächsVwVG)
-Vom 17. Juli 1992
-Rechtsbereinigt mit Stand vom 1. Juli 2002
+[Berichtig durch Ber. vom 26. November 2003 (SächsGVBl. S. 913)]
