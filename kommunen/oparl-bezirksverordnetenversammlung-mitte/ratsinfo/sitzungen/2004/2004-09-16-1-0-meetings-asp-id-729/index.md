@@ -1,0 +1,73 @@
+# 29. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2004-09-16T17:30:00+02:00
+- Ende: 2004-09-16T22:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=729
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=729
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Thematische Stunde - (offen)
+- TOP 3.1: Bündnis für Wirtschaft und Arbeit in Mitte im Rahmen der Hartz-IV-Umsetzung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Beck für die Fraktion)</span> - beantwortet
+- TOP 3.2: Initiativen zu Hartz IV im Bezirk Mitte <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Scheffler für die Fraktion)</span> - überwiesen
+- TOP 3.3: Hartz IV <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Schmidt)</span> - mit Änderungen in der BVV beschlossen
+- TOP 3.4: Hartz IV im Bezirk Mitte - Kommunale Beschäftigung zum Nutzen des Gemeinwesens und der Arbeitssuchenden <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Scheffler für die Fraktion)</span> - überwiesen
+- TOP 3.5: Beteiligung der BVV im Beirat der Arbeitsgemeinschaft <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Mahr)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfrage - (offen)
+- TOP 4.1: Verzögerung bei Arbeitslosengeld II durch verspätete Software? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek)</span> - beantwortet
+- TOP 4.2: Tagung zum Quartiersmanagement <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Reuter)</span> - beantwortet
+- TOP 4.3: Pflanz- und Blumenkübel für die Müllerstraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Neuhaus)</span> - beantwortet
+- TOP 4.4: Umgestaltung des Ostteils des Großen Tiergartens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Kalex)</span> - beantwortet
+- TOP 5: Dringlichkeitsanfrage - (offen)
+- TOP 5.1: Bezirkliches Ordnungsamt - zum Einsatz der AußendienstmitarbeiterInnen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Hoff für die Fraktion)</span> - beantwortet
+- TOP 6: Große Anfrage - (offen)
+- TOP 6.1: Beschädigungen im Bereich Hackescher Markt während des Wochenmarktes <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Rissmann)</span> - beantwortet
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Interreligiöser Dialog <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Matischok-Yesilcimen)</span> - beantwortet
+- TOP 6.4: Landen EU-Fördermittel auch im Zielgebiet Berlin-Mitte? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann von Dassel für die Fraktion)</span> - beantwortet
+- TOP 6.5: Ordnungsämter: Keine Ordnung in Mitte? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann von Dassel für die Fraktion)</span> - beantwortet
+- TOP 7: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Genehmigung der im Haushaltsjahr 2003 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Berufung eines stellvertretenden beratenden Mitgliedes in den Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 6 AG KJHG i.V. mit § 35 Abs. 8 AG KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Optimale Betreuung der Hortkinder sichern - überwiesen
+- TOP 10.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Beleuchtung in der Kleingartenanlage Togo e.V. <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Mahr)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11: Antrag - (offen)
+- TOP 11.1: "Sportanlage Nordbahnhof" - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Schwerpunkteinsätze des Ordnungsamtes <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Rissmann)</span> - überwiesen
+- TOP 11.3: Ausbau der Invalidenstraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Diedrich für die Fraktion)</span> - überwiesen
+- TOP 11.4: Behindertenparkplätze am Dienstgebäude Karl-Marx-Allee <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Jahn)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Konzept gegen öffentliche Trinkgelage <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Rissmann)</span> - überwiesen
+- TOP 11.6: Maßnahmenübersicht zu den Quartiersmanagementgebieten <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Reuter)</span> - überwiesen
+- TOP 11.7: Stärkung der Bezirke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Verfasser 2: Dr. Kalex Wildenhein-Lauterbach)</span> - mit Änderungen in der BVV beschlossen
+- TOP 12: Antrag/Beschlussempfehlung - (offen)
+- TOP 13: Vorlage zur Kenntnisnahme - (offen)
+- TOP 13.1: Versäumnisse in den Kulturämtern Mitte Alt und Wedding, Finanzdefizit von mind. 35.000 Euro
+- TOP 13.2: Kapitel 4721, Titel 111 93 (Ausgleichs- und Ersatzmaßnahmen) <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Mahr Lauke)</span>
+- TOP 13.3: Krankenhausbeirat <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ziermann für die Fraktion)</span>
+- TOP 13.4: Verteilungsschlüssel für Asylbewerber oder Kriegsflüchtlinge <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Zander)</span>
+- TOP 13.5: Anmeldung für die Investitionsplanung 2003 - 2007
+- TOP 13.6: Patientenfürsprecher <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Scholz Schauer-Oldenburg)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: GA-Mittel Umbaumaßnahme Schiffbauerdamm <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Matischok-Yesilcimen Beck)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: Umweltbildungsangebote für Zuwanderer <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Scholz David)</span> - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.9: Abweisung wohnungsloser kranker Menschen durch Krankenhäuser <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Scheffler Schauer-Oldenburg)</span> - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.10: Gremium zur Entwicklung von Kriterien für die Vergabe der Bezirksverdienstmedaille <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Scholz)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.11: Schülerinseln erhalten <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Spallek Dr. Kalex Stiller Schmidt)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.12: Sachmittel für die Unterstützung der ehrenamtlichen Arbeit der Bürgerinnen und Bürger zur Verbesserung der öffentlichen Infrastruktur im Jahre 2004 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.13: Fortschreibung über die Maßnahmen im Kita- und Schulsanierungsprogramm (I) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.14: Programmmitel "Soziale Stadt" 2004-2007 der QM-Gebiete Reinickendorfer-/ Pankstraße, Moabit West, Magdeburger Platz, Soldiner Straße und Sparrplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.15: Beschluss über das Ergebnis der Beteiligung der Träger öffentlicher Belange zum Bebauungsplan I-20 und der Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
