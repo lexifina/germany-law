@@ -1,3 +1,4 @@
+## Gesetz über die Kommunalwahlen im Freistaat Sachsen (Kommunalwahlgesetz – KomWG) (Berichtigt durch Berichtigung vom 5. Mai 2004 )
 # Inhaltsübersicht
 Erster Teil Gemeindewahlen
 Erster Abschnitt Gemeinderatswahlen
@@ -7,10 +8,14 @@ Erster Unterabschnitt Wahlvorbereitung, Wahlorgane
 § 3 Ausübung des Wahlrechts
 § 4 Wählerverzeichnisse
 § 5 Wahlscheine
-§ 6 Wahlvorschläge
-§ 7 Aufstellung von Bewerbern
+§ 6 Einreichung von Wahlvorschlägen
+§ 6a Inhalt und Form der Wahlvorschläge
+§ 6b Unterstützungsunterschriften
+§ 6c Aufstellung von Bewerbern
+§ 6d Änderung von Wahlvorschlägen
+§ 7 Zulassung von Wahlvorschlägen
 § 8 Wahlorgane
-§ 9 Gemeindewahlausschuß
+§ 9 Gemeindewahlausschuss
 § 10 Wahlvorstände
 § 11 Mitglieder des Gemeindewahlausschusses und der Wahlvorstände
 § 12 Besorgung der laufenden Wahlgeschäfte
@@ -42,7 +47,8 @@ Sechster Unterabschnitt Wahlkosten
 Zweiter Abschnitt Ortschaftsratswahlen
 § 33 Anwendbarkeit von Rechtsvorschriften
 § 34 Wahltag
-§ 35 Wahlgebiet, Wahlkreise, Wahlbezirke
+§ 35 Wahlgebiet, Wahlkreise, Wahlberechtigung
+§ 35a Unterstützungsunterschriften
 § 36 Aufstellung von Bewerbern
 § 37 Stimmzettel
 Dritter Abschnitt Bürgermeisterwahlen
@@ -52,7 +58,8 @@ Dritter Abschnitt Bürgermeisterwahlen
 § 41 Wahlvorschläge
 § 42 Stimmzettel
 § 43 Stimmenzahl, Stimmabgabe
-§ 44 Wahlprüfung
+§ 44 Ungültige Stimmen
+§ 45 Wahlprüfung
 § 46 Amtsantritt
 § 47 Neuwahl
 Zweiter Teil Kreiswahlen
@@ -61,21 +68,21 @@ Erster Abschnitt Kreistagswahlen
 § 49 Wahltag
 § 50 Wahlgebiet, Wahlkreise, Wahlbezirke
 § 51 Wahlorgane
-§ 52 Kreiswahlausschuß
-§ 53 Gemeindewahlausschuß
+§ 52 Kreiswahlausschuss
+§ 53 Gemeindewahlausschuss
 § 54 Besorgung der laufenden Wahlgeschäfte
 § 55 Wahlkosten
 Zweiter Abschnitt Landratswahlen
 § 56
-Dritter Teil Gleichzeitige Durchführung Mehrerer Wahlen
+Dritter Teil Gleichzeitige Durchführung mehrerer Wahlen
 § 57
 Vierter Teil Sonstige Vorschriften
-§ 58 Sonderbestimmungen zu den ersten Wahlen nach diesem Gesetz
-§ 59 Besonderer Ausschuß der künftigen Landkreise
+§ 58 (weggefallen)
+§ 59 (weggefallen)
 § 60 Fristen und Termine
 § 61 Ordnungswidrigkeiten
 § 62 Kommunalwahlordnung
 § 63 Verwaltungsvorschriften
-§ 64 Änderung der Gemeindeordnung für den Freistaat Sachsen
+§ 64 Einschränkung von Grundrechten
 § 65 Maßgebende Einwohnerzahl
-§ 66 Inkrafttreten
+§ 66 In-Kraft-Treten

@@ -1,0 +1,3 @@
+# § 6d Änderung von Wahlvorschlägen
+(1) Nach Ablauf der Einreichungsfrist kann ein Wahlvorschlag nur durch gemeinsame Erklärung der Vertrauenspersonen und nur dann geändert werden, wenn ein Bewerber des Wahlvorschlags stirbt oder seine Wählbarkeit verliert. Das Verfahren nach § 6c braucht nicht eingehalten zu werden, erneute Unterstützungsunterschriften sind nicht erforderlich. Nach der Entscheidung über die Zulassung des Wahlvorschlags ist jede Änderung ausgeschlossen.
+(2) Nach Ablauf der Einreichungsfrist können nur noch Mängel an Wahlvorschlägen behoben werden, die den Inhalt des Wahlvorschlags nicht verändern.
