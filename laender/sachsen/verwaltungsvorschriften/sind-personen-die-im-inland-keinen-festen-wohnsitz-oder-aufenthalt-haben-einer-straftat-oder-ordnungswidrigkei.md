@@ -1,0 +1,148 @@
+# Sind Personen, die im Inland keinen festen Wohnsitz oder Aufenthalt haben, einer Straftat oder Ordnungswidrigkeit dringend verdächtig, können Polizeibeamte nach Maßgabe der §§ 127a, 132 der Strafprozeßordnung (StPO) Sicherheitsleistungen erheben. Von
+
+- Herausgeber: Freistaat Sachsen
+- Datum: 1999-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/4335.1
+- Text: REVOSax-Seite der Fassung, als Text
+- Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
+
+---
+
+I. Allgemeines
+
+Sind Personen, die im Inland keinen festen Wohnsitz oder Aufenthalt haben, einer Straftat oder Ordnungswidrigkeit dringend verdächtig, können Polizeibeamte nach Maßgabe der §§ 127a, 132 der Strafprozeßordnung (StPO) Sicherheitsleistungen erheben. Von Jugendlichen wird die Leistung einer Sicherheit nicht verlangt.
+
+II. Sicherheitsleistung bei Straftaten
+
+1.
+Sicherheitsleistung bei dringendem Verdacht von Straftaten, wenn die Voraussetzungen eines Haftbefehls nicht vorliegen (§ 132 StPO)
+
+a)
+Voraussetzungen
+Hat der einer Straftat dringend verdächtige Beschuldigte im Inland keinen festen Wohnsitz oder Aufenthaltsort, liegen aber die Voraussetzungen eines Haftbefehls nicht vor, so kann, um die Durchführung des Strafverfahrens sicherzustellen, angeordnet werden, daß der Beschuldigte eine angemessene Sicherheit für die zu erwartende Geldstrafe und die Kosten des Verfahrens leistet und eine im Bezirk des zuständigen Gerichts wohnende Person zum Empfang von Zustellungen bevollmächtigt.
+
+b)
+Anordnungsbefugnis
+Grundsätzlich trifft der Richter die Anordnung. Bei Gefahr im Verzug sind neben der Staatsanwaltschaft auch deren Hilfsbeamte zur Anordnung befugt.
+
+c)
+Gefahr im Verzuge
+Gefahr im Verzuge liegt in der Regel vor, wenn zu befürchten ist, daß die Anordnung des Richters nicht rechtzeitig herbeigeführt werden kann, insbesondere wenn der Beschuldigte ausreisen will und der Richter nicht erreichbar ist oder der Beschuldigte nicht bereit ist, den Richter aufzusuchen.
+
+d)
+Höhe der Sicherheit
+
+aa)
+Höhe der zu erwartenden Geldstrafe
+Bei der Festsetzung der Höhe der Sicherheitsleistungen sind die vom Generalstaatsanwalt des Freistaates Sachsen erlassenen Hinweise zur Strafzumessung zu beachten. Der Generalstaatsanwalt stellt allen Polizeibehörden diese Hinweise in der jeweils geltenden Fassung zur Verfügung.
+
+bb)
+Höhe der Kosten des Verfahrens
+Die Kosten des Verfahrens setzen sich zusammen aus Gebühren und Auslagen. Die voraussichtliche Gebühr im Strafbefehlsverfahren beträgt bei einer zu erwartenden Geldstrafe bis zu 90 Tagessätzen 40 DM, bis zu 180 Tagessätzen 80 DM und von mehr als 180 Tagessätzen 160 DM. Wenn die Zustellung an einen Zustellungsbevollmächtigten gegen Empfangsbekenntnis nicht möglich ist, sind als Auslagen für die Zustellungskosten 11 DM anzusetzen. Besondere Auslagen, wie beispielsweise die Kosten eines Blutalkoholgutachtens, sind ebenfalls zu berücksichtigen. Zu den Kosten des Verfahrens gehören nicht die Auslagen für Dolmetscher und Übersetzer, die herangezogen werden, um für einen Beschuldigten, der die deutsche Sprache nicht versteht oder sich in ihr nicht ausdrücken kann, Erklärungen oder Schriftstücke zu übertragen, auf deren Verständnis er zu seiner Verteidigung angewiesen ist.
+
+cc)
+Zweifelsfälle
+Bestehen Zweifel über die Höhe der zu bestimmenden Sicherheit, setzt der Hilfsbeamte der Staatsanwaltschaft sich mit der zuständigen Staatsanwaltschaft in Verbindung, wenn der Beschuldigte zur Sicherheitsleistung imstande ist.
+
+e)
+Art der Sicherheit
+
+aa)
+Bargeld
+Die Sicherheit ist grundsätzlich in Deutscher Mark (bar) zu leisten. Ist dies nicht möglich, können ausländische konvertierbare Währungen ebenfalls als Sicherheit dienen, wenn der Umrechnungskurs dem Polizeibeamten bekannt oder leicht zu ermitteln und der Beamte in der Lage ist, die Echtheit des Geldes zu beurteilen. Ausländische Währungen sind von dem Hilfsbeamten der Staatsanwaltschaft nach Möglichkeit in Deutsche Mark umzutauschen; die Umtauschbelege sind zur Akte zu nehmen.
+
+bb)
+Eurocheques
+Auf Deutsche Mark lautende Eurocheques können bis zu einer Höhe von 400,00 DM pro Scheck angenommen werden. Der Scheck muß vom Aussteller in Gegenwart des Annehmenden unterschrieben werden. Dieser überprüft die Gültigkeit der Scheckkarte, die Übereinstimmung von Geldinstitut und Kontonummer auf dem Scheck und der Karte, sowie die Übereinstimmung der Unterschrift mit derjenigen auf der Scheckkarte. Auf der Rückseite des Schecks ist die Nummer der Scheckkarte zu notieren.
+
+cc)
+Andere Arten der Sicherheit
+Über andere Arten der Sicherheitsleistung, beispielsweise Hinterlegung von anderen Wertpapieren, Pfandbestellung, Bürgschaft geeigneter Personen, Zahlung mittels Kreditkarte, ist im Einzelfall nach pflichtgemäßem Ermessen zu entscheiden.
+
+f)
+Behandlung der Sicherheit
+Sicherheiten in barem Geld werden bei der Gerichtszahlstelle oder Landesjustizkasse eingezahlt oder auf das Konto der Landesjustizkasse bei der Landeszentralbank Chemnitz, Kontonummer: 87 001 500, Bankleitzahl: 870 000 00, überwiesen. Wertpapiere werden ebenfalls den genannten Kassen übergeben. Außerhalb der Dienstzeiten entgegengenommene Sicherheiten werden bis zum folgenden Werktag in hinreichend gesicherten Behältnissen der Polizeidienststellen aufbewahrt. Das Aktenzeichen des Verfahrens oder die Tagebuch-Nummer der Polizeidienststelle, die zuständige Staatsanwaltschaft, der Name des Beschuldigten und der Grund „Sicherheit für Geldstrafe und Kosten“ sind anzugeben. Die Landesjustizkasse bucht die eingehenden Beträge beim Titel 112 01, die Gerichtszahlstelle in dem entsprechenden Titelverzeichnis. Die Landesjustizkasse oder Gerichtszahlstelle übersendet eine Zahlungsanzeige an die zuständige Staatsanwaltschaft oder, wenn kein staatsanwaltschaftliches Aktenzeichen vorliegt, an die einzahlende Polizeibehörde unter deren Tagebuch-Nummer. Die Anzeige ist zu den Akten zu nehmen.
+
+g)
+Beschlagnahme
+
+aa)
+Voraussetzungen
+Leistet der Beschuldigte die Sicherheit nicht oder lehnt er es ab, einen Zustellungsbevollmächtigten zu bestellen, können Beförderungsmittel und andere Sachen (auch Bargeld), die der Beschuldigte mit sich führt und die ihm gehören, beschlagnahmt werden. Der Grundsatz der Verhältnismäßigkeit ist zu beachten.
+
+bb)
+Umfang der Beschlagnahme
+Der Wert der beschlagnahmten Sachen soll nicht mehr als das Doppelte der festgesetzten Sicherheit betragen. Das Kraftfahrzeug des Beschuldigten soll nicht beschlagnahmt werden, wenn andere geeignete Sachen zur Verfügung stehen. Sachen, die während der Beschlagnahme verderben oder erheblich an Wert verlieren können oder deren Aufbewahrung und Pflege mit unverhältnismäßig hohen Aufwendungen oder Schwierigkeiten verbunden ist, sowie unpfändbare Sachen nach § 811 ZPO, beispielsweise Trauringe oder kleinere Geldbeträge, die zur Beschaffung von Nahrungsmitteln erforderlich sind, sollen ebenfalls nicht beschlagnahmt werden.
+
+cc)
+Verfahren
+Für das Verfahren gelten die §§ 94 und 98 StPO. Hat der Beschuldigte gegen die Beschlagnahme ausdrücklich Widerspruch erhoben, ist binnen drei Tagen die richterliche Bestätigung herbeizuführen. Die beschlagnahmten Sachen sind sicher zu verwahren und an die zuständige Staatsanwaltschaft zu übergeben. Die Entscheidung über die Herausgabe oder die Verwertung der beschlagnahmten Gegenstände trifft die Staatsanwaltschaft.
+
+h)
+Zustellungsbevollmächtigter
+Der Beschuldigte muß eine im Bezirk des zuständigen Gerichts wohnende Person zum Zustellungsbevollmächtigten bestimmen. Neben Bekannten und Verwandten des Beschuldigten kommen Rechtsanwälte, Vertreter von Automobilverbänden oder Spediteure in Betracht. Das Einverständnis des Bevollmächtigten ist erforderlich; es ist gegebenenfalls fernmündlich einzuholen und aktenkundig zu machen. Hat sich ein Polizeibeamter der zuständigen Polizeidirektion oder ein Beamter der Geschäftsstelle des zuständigen Amtsgerichts hierzu allgemein bereit erklärt, soll in der Regel dieser als Zustellungsbevollmächtigter benannt werden. Die dem Beamten aus dieser Aufgabe erwachsenden Aufwendungen trägt die Staatskasse. Mitglieder einer ausländischen diplomatischen Mission oder einer ausländischen konsularischen Vertretung und deren Angehörige können nicht als Zustellungsbevollmächtigte bestimmt werden.
+
+i)
+Niederschrift
+Über die Bestellung eines Zustellungsbevollmächtigten ist eine Niederschrift nach dem Vordruck SN VB 381-01 bis SN VB 381-20 zu fertigen. Dabei soll ein Vordruck in einer von dem Beschuldigten beherrschten Sprache ausgewählt werden. Über die Entgegennahme der Sicherheitsleistung ist eine Niederschrift nach dem Vordruck SN VB 382 fertigen. Die Beschlagnahme ist in der Niederschrift zu vermerken.
+
+2.
+Sicherheitsleistungen bei Verdacht von Straftaten, wenn die Voraussetzungen eines Haftbefehls ausschließlich wegen Fluchtgefahr vorliegen (§ 127a StPO)
+
+a)
+Voraussetzungen
+Hat der Beschuldigte im Inland keinen festen Wohnsitz oder Aufenthalt und liegen die Voraussetzungen eines Haftbefehls nur wegen Fluchtgefahr vor, kann davon abgesehen werden, seine Festnahme anzuordnen oder aufrechtzuerhalten, wenn nicht damit zu rechnen ist, daß wegen der Tat eine Freiheitsstrafe verhängt oder eine freiheitsentziehende Maßregel der Besserung und Sicherung angeordnet wird. Der Beschuldigte muß jedoch eine angemessene Sicherheit für die zu erwartende Geldstrafe und die Kosten des Verfahrens leisten und eine im Bezirk des zuständigen Gerichts wohnende Person zum Empfang der Zustellungen bevollmächtigen.
+
+b)
+Anordnungsbefugnis
+Solange keine Entscheidung der Staatsanwaltschaft oder des Gerichts vorliegt, ist jeder Polizeibeamte zu der Anordnung befugt.
+
+c)
+Verfahren
+Die Vorschriften zur Höhe und Behandlung der Sicherheit in Nummer 1 Buchst. d und g, über den Zustellungsbevollmächtigten in Nummer 1 Buchst. h sowie über die Anfertigung einer Niederschrift in Nummer 1 Buchst. i gelten entsprechend. Als Sicherheitsleistung sind regelmäßig nur die in Nummer 1 Buchst. e genannten Sicherheiten entgegenzunehmen. Andernfalls ist die Festnahme aufrechtzuerhalten und der Beschuldigte unter Beteiligung der Staatsanwaltschaft dem Richter vorzuführen. Eine Beschlagnahme des Beförderungsmittels oder anderer Sachen des Beschuldigten ist unzulässig.
+
+III. Sicherheitsleistung bei Ordnungswidrigkeiten
+
+1.
+Verwarnung
+Bei dringendem Verdacht einer geringfügigen Ordnungswidrigkeit ist vorrangig festzustellen, ob eine Verwarnung ohne Verhängung eines Verwarnungsgelds ausreicht. Andernfalls ist zu klären, ob der Betroffene mit der sofortigen Zahlung eines Verwarnungsgeldes einverstanden ist. Die Benennung eines Zustellungsbevollmächtigten ist nicht erforderlich.
+
+2.
+Bußgeldverfahren
+
+a)
+Allgemeines
+Ist eine Verwarnung nicht ausreichend oder ist der Betroffene mit der Zahlung eines Verwarnungsgeldes nicht einverstanden, kann durch die Hilfsbeamten der Staatsanwaltschaft gemäß § 46 Abs. 1 OWiG in Verbindung mit § 132 StPO bei Gefahr im Verzuge die Leistung einer angemessenen Sicherheit angeordnet werden und gegebenenfalls eine Beschlagnahme erfolgen. Die Vorschriften in Ziffer II Nr. 1 Buchst. d und g gelten entsprechend, sofern nachfolgend nicht anderes bestimmt ist.
+
+b)
+Höhe der Sicherheit
+
+aa)
+Höhe der zu erwartenden Geldbuße
+Bei der Ermittlung der zu erwartenden Geldbuße sind die einschlägigen Bußgeldkataloge zu beachten; insbesondere sind die Regelsätze des Tatbestandskatalogs für Verkehrsordnungswidrigkeiten zu berücksichtigen.
+
+bb)
+Höhe der voraussichtlichen Gebühr
+Die voraussichtliche Gebühr beträgt 5 vom Hundert der Geldbuße, jedoch mindestens 25 DM und höchstens 12 500 DM. Die Auslagen sind hinzuzurechnen.
+
+c)
+Behandlung der Sicherheit
+Geldbeträge sind entsprechend § 2 SächsOWiG an die zuständige Bußgeldstelle zu überweisen.
+
+d)
+Zustellungsbevollmächtigter
+Hat sich ein Bediensteter der zuständigen Verfolgungsbehörde allgemein bereit erklärt, vom Betroffenen zum Zustellungsbevollmächtigten bestimmt zu werden, soll dieser in der Regel benannt werden.
+
+IV. Inkrafttreten
+
+Diese Verwaltungsvorschrift tritt am 1. Juli 1999 in Kraft.
+
+Dresden, den 17. Mai 1999
+
+Der Staatsminister der Justiz
+Steffen Heitmann
+
+Dresden, den 1. Juni 1999
+
+Der Staatsminister des Innern
+Klaus Hardraht
