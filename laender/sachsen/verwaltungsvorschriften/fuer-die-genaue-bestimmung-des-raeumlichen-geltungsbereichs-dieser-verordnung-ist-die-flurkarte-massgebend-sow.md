@@ -1,8 +1,8 @@
 # Für die genaue Bestimmung des räumlichen Geltungsbereichs dieser Verordnung ist die Flurkarte maßgebend. Soweit sich die rote Grenzlinie mit Flurstücksgrenzen deckt, bildet die jeweilige Flurstücksgrenze die Schutzgebietsgrenze; ansonsten bestimmt di
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2000-02-11 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/15167.1
+- Datum: 2001-11-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/15167.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -159,6 +159,11 @@ Grundsatz der Pflege und Entwicklung
 Zur Erhaltung und Gestaltung der mosaikartigen Struktur einander abwechselnder Offenland- und Gehölzbereiche sind im Naturschutzgebiet Pflege- und Entwicklungsmaßnahmen wie zum Beispiel extensive Beweidung, Mahd und Gehölzrückschnitt notwendig.
 
 Einzelheiten dazu werden in einem Pflege- und Entwicklungsplan geregelt.
+
+§ 6a
+
+Die in §§ 4, 5 und 6 festgelegten Verbote, Gebote und Maßgaben gelten nicht für die land-, forst- und fischereiwirtschaftliche Bodennutzung, solange und soweit sich der Nutzungsberechtigte durch schriftliche Vereinbarung mit der Naturschutzbehörde oder im Einvernehmen mit der Naturschutzbehörde zur Einhaltung der dort ausgesprochenen Vorgaben verpflichtet hat.
+1
 
 § 7
 
