@@ -1,4 +1,4 @@
-# TOP 8.1.: Zuschussgewährung
+# TOP 8.1.: Antrag der Frauenberatungsstelle - Frauen helfen Frauen e.V. - auf Bezuschussung der Personal- und Sachkosten
 
 - Sitzung: Gemeinderat (2001-06-27)
 - Körperschaft: Gemeinde Aldenhoven
