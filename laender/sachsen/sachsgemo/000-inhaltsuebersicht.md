@@ -1,4 +1,3 @@
-## Gemeindeordnung für den Freistaat Sachsen (SächsGemO)
 # Inhaltsübersicht
 Erster Teil Rechtsstellung, Aufgaben und Gebiet der Gemeinde
 Erster Abschnitt Rechtsstellung und Aufgaben
