@@ -1,0 +1,80 @@
+# 29. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2005-01-19T17:30:00+01:00
+- Ende: 2005-01-19T17:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=416
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=416
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - zur Kenntnis genommen
+- TOP 1.2: Abstimmung über die Tagesordnung - zur Kenntnis genommen
+- TOP 1.3: Dringlichkeitsanträge - zur Kenntnis genommen
+- TOP 1.3.1: Fortgesetzte Anwendung fehlerhafter Abrechnungsverfahren im Sozialamt über den Mai 2004 hinaus - Millionenschäden für das Haushaltsjahr 2006 für den Bezirk erwartet - falsche Information der BVV durch den zuständigen Bezirksstadtrat ?! - beantwortet
+- TOP 1.4: Mündliche Anfrage - beantwortet
+- TOP 1.5: Bericht des Bezirksamtes - beantwortet
+- TOP 1.6: Konsensliste - beantwortet
+- TOP 1.7: Wahl eines Bürgerdeputierten in den Ausschuss JobCenter Pankow - gewählt
+- TOP 1.8: Wahl eines Bürgerdeputierten - gewählt
+- TOP 1.9: Wahl eines Mitgliedes in den Beirat der Albert-Schweitzer-Stiftung gemäß § 8 der Stiftungssatzung - gewählt
+- TOP 1.10: Erhalt des ehemaligen Wasch- und Heizhauses in der Carl-Legien-Siedlung - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Kreuzstraße im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Barrierefreie Nutzung der Kassenautomaten für Menschen mit Behinderung sicherstellen! - vertagt
+- TOP 1.13: Neuausrichtung des Quartiersmanagement - beantwortet
+- TOP 1.14: Sozialticket und bezahlter Urlaub für Beschäftigte mit Ein-Euro-Jobs in Pankow - überwiesen
+- TOP 1.15: Rahmenbedingungen zur Sicherung der bezirklichen Kultur- und Bildungsarbeit schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Straßenumbenennung in Blankenfelde - überwiesen
+- TOP 1.17: Blockheizkraftwerke, Beschluss V - 0608/03 - beantwortet
+- TOP 1.18: Öffnungszeiten JobCenter - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Lokale Agenda 21 - überwiesen
+- TOP 1.20: Planung von Schulhofumgestaltungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Schmitt, Katja)</span> - überwiesen
+- TOP 1.21: Verkehrslage um den Spielplatz in der Gethsemanestraße - überwiesen
+- TOP 1.22: Den Flutopfern helfen - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.23: Zukunft der vom Bezirksamt betriebenen Märkte - zurückgezogen
+- TOP 1.24: Bauvorhaben der HOWOGE WBG in Blankenburg - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Komplex 2 - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 2.1: Spielplatzplanung für den Bezirk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Kein Kita-Konzern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Fahrrad fahren - auch im Winter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Notwendige Berichte Verkehr - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Unterstützung für Kindergarten-Neubau in der Choriner Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Mit Natur zur Weltkultur - die Carl-Legien-Siedlung bleibt grün - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Nördlicher Ausgang am S-Bahnhof Karow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Abschluss eines städtebaulichen Vertrages zur Sicherung der geplanten JFE im Bötzowviertel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Freie Bahn über den Gleimtunnel - vertagt
+- TOP 2.10: Kommunale Beschäftigung - zum Nutzen des Gemeinwesens und der Arbeitslosen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Internetpräsenz des Bezirkes - vertagt
+- TOP 2.12: Ausbau der Infrastruktur in Sanierungsgebieten - vertagt
+- TOP 2.13: "Albert-Schweitzer-Stiftung" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Bronzeplastik "Viertelmondträgerin" auf dem Pankower Anger - vertagt
+- TOP 2.15: Flugbenzin für Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Hartz IV - siehe auch Drs. Nr. V - 0862/04 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Öffnungszeiten der Schwimmhallen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Alte Bäume in der Kastanienallee (Rosenthal) erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Kältehilfe abstimmen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Aufteilung der Grundstücke Charlottenburger Str. 117 - 119, hinter Langhansstraße 24 - 25 zwischen den Bedarfsträgern des Fachvermögens und der Katholischen Theresienschule - vertagt
+- TOP 2.21: Änderung der Sanierungsziele für den Schulstandort der Reinhold-Burger-Oberschule, Neue Schönholzer Str. 32 und die Grünfläche mit Kinderspielplatz, Mühlenstr. 8 im Sanierungsgebiet Pankow Wollankstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Benennung der "Zeuschelstraße" im OT Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Übertragung der Kindertagesstätte Eschengraben 49, 13189 Berlin, an den freien Träger "Kaleidoskop e.V.", Maximilianstr. 3/4, 13187 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Übertragung der Kindertagesstätte Petitweg 20, 13127 Berlin, an den freien Träger der Jugendhilfe "Kinder im Kiez GmbH", Kopernikusstraße 23, 10245 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Übertragung der kommunalen Kindertagesstätte Pfannschmidtstr. 2, 13125 Berlin, an den freien Träger der Jugendhilfe "Bürgerhaus e.V." Berliner Straße 24 in 13127 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Übertragung der kommunalen Kindertagesstätte Uhlandstr. 33, 13158 Berlin, an den freien Träger der Jugendhilfe "BOOT e.V.", Fredersdorfer Str. 10 in 10243 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Zusammenlegung der Pasteur-Oberschule (03Y01), Pasteurstraße 7/9/11 in 10407 Berlin und der Camille-Claudel-Oberschule (03Y02), Eugen-Schönhaar-Str. 18 in 10407 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Pankower Bezirksfeste - vertagt
+- TOP 2.29: Aufhebung der Beschlüsse zur Aufstellung der Bebauungspläne XIX-20, XIX-33, XVIII-20 c und XVIII-22 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Zusammenlegung der Wieland-Herzfelde-Oberschule (03Y06) und der Bühring-Oberschule (03Y07) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Zusammenlegung der Friedrich-List-Oberschule (03Y08) und der Max-Born-Oberschule (03Y12) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Aufhebung der Raoul-Wallenberg-Oberschule (03T04), Falkenberger Str. 31 in 13088 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Aufhebung der Oberschule am Schlosspark (03R08), Mendelstraße 54 in 13187 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Aufhebung der Fallada-Oberschule (03T06) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Umsetzung von Ansätzen innerhalb des Einzelplanes 37 im Haushaltsplan 2005 zur Einhaltung der vorgegebenen Veranschlagung und Bewirtschaftung von Lehr- und Lernmitteln sowie des Sammeltitels ab dem Haushaltjahr 2005 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Verwaltung der Anlagen "Einigkeit" im Ortsteil Rosenthal, "Idehorst" (kommunaler Teil) im Ortsteil Blankenfelde, "Blankenburg" in den Ortsteilen Buchholz und Blankenburg und "Rennbahn" im Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Umsetzung von Ansätzen des Haushaltsplanes 2005 innerhalb des Einzelplanes 39 - vertagt
+- TOP 2.38: Bebauungsplan 3-7 VE für eine Teilfläche des Geländes nördlich des Blankenburger Pflasterweges zwischen Suderoder Graben, Außenring der Deutschen Bahn, Schälingsgraben sowie Teilflächen der Grundstücke westlich dieses Geländes im Bezirk Pankow, Ortsteile Stadtrandsiedlung Malchow und Blankenburg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.39: Anmeldung für die Investitionsplanung 2005 bis 2009 Bezirk Pankow - vertagt
