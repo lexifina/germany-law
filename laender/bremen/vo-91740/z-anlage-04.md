@@ -1,6 +1,6 @@
 # Anlage 4 - Stundentafel für die Fachoberschule, Fachrichtung Elektrotechnik
 Anlage 4
-(zu § 3 Abs. 1)
+(zu § 4 Abs. 1)
 Stundentafel für die Fachoberschule, Fachrichtung Elektrotechnik
  | Wochenunterrichtsstunden
 Ohne abgeschlossene Berufsausbildung |  | Mit abgeschlossener Berufsausbildung

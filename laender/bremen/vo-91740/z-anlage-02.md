@@ -1,6 +1,6 @@
 # Anlage 2 - Stundentafel für die Fachoberschule, Fachrichtung Maschinentechnik
 Anlage 2
-(zu § 3 Abs. 1)
+(zu § 4 Abs. 1)
 Stundentafel für die Fachoberschule, Fachrichtung Maschinentechnik
  | Wochenunterrichtsstunden
 Ohne abgeschlossene Berufsausbildung |  | Mit abgeschlossener Berufsausbildung

@@ -1,6 +1,6 @@
 # Anlage 12 - Stundentafel für die Fachoberschule, Fachrichtung Ernährung und Hauswirtschaft
 Anlage 12
-zu § 3 Abs. 1
+(zu § 4 Abs. 1)
 Stundentafel für die Fachoberschule, Fachrichtung Ernährung und Hauswirtschaft
  | Wochenunterrichtsstunden
 Ohne abgeschlossene Berufsausbildung |  | Mit abgeschlossener Berufsausbildung

@@ -1,6 +1,6 @@
 # Anlage 5 - Stundentafel für die Fachoberschule, Fachrichtung Bautechnik
 Anlage 5
-zu § 3 Abs. 1
+(zu § 4 Abs. 1)
 Stundentafel für die Fachoberschule, Fachrichtung Bautechnik
  | Wochenunterrichtsstunden
 Ohne abgeschlossene Berufsausbildung |  | Mit abgeschlossener Berufsausbildung

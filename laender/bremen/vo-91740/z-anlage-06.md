@@ -1,6 +1,6 @@
 # Anlage 6 - Stundentafel für die Fachoberschule, Fachrichtung Vermessungstechnik
 Anlage 6
-zu § 3 Abs. 1
+(zu § 4 Abs. 1)
 Stundentafel für die Fachoberschule, Fachrichtung Vermessungstechnik
 Wochenunterrichtsstunden
  | Mit abgeschlossener Berufsausbildung

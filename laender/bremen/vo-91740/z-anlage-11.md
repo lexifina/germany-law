@@ -1,6 +1,6 @@
 # Anlage 11 - Stundentafel für die Fachrichtung Textil und Bekleidung
 Anlage 11
-zu § 3 Abs. 1
+(zu § 4 Abs. 1)
 Stundentafel für die Fachrichtung Textil und Bekleidung
  | Wochenunterrichtsstunden
 Ohne abgeschlossene Berufsausbildung |  | Mit abgeschlossener Berufsausbildung

@@ -1,6 +1,6 @@
 # Anlage 1 - Stundentafel für die Fachoberschule, Fachrichtung Wirtschaft
 Anlage 1
-zu § 3 Abs. 1
+(zu § 4 Abs. 1)
 Stundentafel für die Fachoberschule, Fachrichtung Wirtschaft
  | Wochenunterrichtsstunden
 Ohne abgeschlossene Berufsausbildung |  | Mit abgeschlossener Berufsausbildung

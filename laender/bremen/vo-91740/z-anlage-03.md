@@ -1,6 +1,6 @@
 # Anlage 3 - Stundentafel für die Fachoberschule, Fachrichtung Seefahrt
 Anlage 3
-zu § 3 Abs. 1
+(zu § 4 Abs. 1)
 Stundentafel für die Fachoberschule, Fachrichtung Seefahrt
 Wochenunterrichtsstunden
  | Mit abgeschlossener Berufsausbildung
@@ -18,9 +18,6 @@ Sport | 2 | 2
  | 21 | 21
 2. | Fachrichtungsbezogener Lernbereich |  | 
 2.1 | Fachtheoretischer Bereich |  | 
-Schiffssicherung | - | -
-Ladungs- und Umschlagtechnik/Schiffstechnik | - | -
-Schiffsfahrdienst | - | -
 Schiffstechnik | 3 | 3
 Werkstofflehre und technische Konstruktionen | 3 | 3
 Seeverkehrslehre | 3 | 3

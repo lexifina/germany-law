@@ -1,6 +1,6 @@
 # Anlage 10 - Stundentafel für die Fachoberschule, Fachrichtung Naturwissenschaften
 Anlage 10
-(zu § 3 Abs. 1)
+(zu § 4 Abs. 1)
 Stundentafel für die Fachoberschule, Fachrichtung Naturwissenschaften
  | Wochenunterrichtsstunden Mit abgeschlossener Berufsausbildung 12. Jahrgangsstufe Schulhalbjahr
 Fächer | 1. | 2.

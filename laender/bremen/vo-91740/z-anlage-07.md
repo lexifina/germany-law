@@ -1,6 +1,6 @@
 # Anlage 7 - Stundentafel für die Fachoberschule, Fachrichtung Architektur
 Anlage 7
-zu § 3 Abs. 1
+(zu § 4 Abs. 1)
 Stundentafel für die Fachoberschule, Fachrichtung Architektur
  | Wochenunterrichtsstunden
 Ohne abgeschlossene Berufsausbildung |  | Mit abgeschlossener Berufsausbildung

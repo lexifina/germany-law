@@ -1,6 +1,6 @@
 # Anlage 14 - Stundentafel für die Fachoberschule, Fachrichtung Gesundheit
 Anlage 14
-(zu § 3 Abs. 1)
+(zu § 4 Abs. 1)
 Stundentafel für die Fachoberschule, Fachrichtung Gesundheit
  | Wochenunterrichtsstunden Mit abgeschlossener Berufsausbildung 12. Jahrgangsstufe Schulhalbjahr
 Fächer | 1. | 2.
