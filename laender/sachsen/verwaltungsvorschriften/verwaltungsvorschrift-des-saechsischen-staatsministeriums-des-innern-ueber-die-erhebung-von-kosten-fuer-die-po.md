@@ -1,69 +1,68 @@
-# Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über die Erhebung von Kosten für die polizeiliche Begleitung von Transporten Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über die Erhebung von Kost
+# Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über die Erhebung von Kosten für die polizeiliche Begleitung von Transporten Az.: 38-1133.4/6
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 1993-06-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/3424.1
+- Datum: 1998-11-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/3424.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Zur Portalnavigation
+Verwaltungsvorschrift
 
-Zum Hauptinhalt
+des Sächsischen Staatsministeriums des Innern
 
-Zum Footer-Bereich
+über die Erhebung von Kosten für die polizeiliche Begleitung von Transporten
 
-REVOSax – Landesrecht Sachsen
+Az.: 38-1133.4/6
 
-Portalnavigation
+Vom 31. Mai 1993
 
-REVOSax
+[Geändert durch VwV vom 28. Oktober 1998 (SächsABl. S. 822)]
 
-Hauptinhalt
+Auf der Grundlage des Verwaltungskostengesetzes des Freistaates Sachsen (
+SächsVwKG) vom 15. April 1992 (SächsGVBI. S. 164) wird bestimmt:
 
-Historische Fassung
+1.
 
-war gültig vom
-01.06.1993
-bis
-01.11.1998
+Kosten nach Nummer 75.1 des Kostenverzeichnisses werden für die polizeiliche Begleitung von Schwer- und Großraumtransporten, gefährlichen Transporten (z. B. Beförderung von radioaktiven Stoffen, Sprengstoffen) und gefährdeten Transporten (Beförderung von Geld, Kunstgut) erhoben.
 
-Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über die Erhebung von Kosten für die polizeiliche Begleitung von Transporten
+2.
 
-Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über die Erhebung von Kosten für die polizeiliche Begleitung von Transporten vom 31. Mai 1993 (SächsABl. S. 737), die zuletzt durch die Verwaltungsvorschrift vom  3. Februar 2023 (SächsABl. S. 271) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 25. November 2025 (SächsABl. SDr. S. S 212)
+Mit den je Begleitkilometer und Begleitfahrzeug erhobenen Kosten sind – unabhängig von Art, Dauer und Umfang des Transports sowie der Anzahl der eingesetzten Polizeibeamten – sämtliche Aufwendungen der Polizei anläßlich der Transportbegleitung abgegolten.
 
-Datei nicht im Datenbestand.
+3.
 
-Verweis auf Bundesgesetze
+Kosten sind nur für die Strecke der Transportbegleitung zu berechnen. Der Zufahrtsweg zum Ort, an dem die polizeiliche Begleitung eines Transports zu übernehmen ist sowie der Rückweg zum Standort nach beendeter Transportbegleitung bleiben außer Betracht.
 
-Fundstelle und systematische Gliederungsnummer
+4.
 
-SächsABl. 1993 Nr. 24, S. 737
+Fährt die Polizei die Übernahmestelle an, ohne vereinbarungsgemäß die Begleitung durchführen zu können, ist die Mindestgebühr nach Nummer 75.1.1 zu erheben (§ 6 SächsVwKG).
 
-Fsn-Nr.: 211-V93.1
+Die Mindestgebühr ist je Transport, nicht je Begleitfahrzeug, zu erheben.
 
-Gültigkeitszeitraum
+5.
 
-Fassung gültig ab:  1. Juni 1993
+Die Kosten für die polizeiliche Begleitung sind aufgrund eines Begleitscheines nach dem beigefügten Muster der Anlage zu berechnen und für alle polizeilichen Begleitungen von der Landespolizeidirektion, in deren Dienstbezirk die polizeiliche Begleitung des Transports endet oder aus deren Dienstbezirk er das Landesgebiet verläßt, bzw. von der Polizeidirektion Zentrale Dienste Sachsen für Wasserfahrzeuge zu erheben.
 
-Fassung gültig bis:  1. November 1998
+Für jeden Transport ist grundsätzlich nur ein Begleitschein zu verwenden. Er ist von derjenigen Polizeidienststelle auszufertigen, deren Beamte den Transport innerhalb des Freistaates zuerst begleiten. Nur in Fällen, in denen der Transport auf Zwischenstrecken nicht durch Polizeibeamte begleitet wird und deshalb der Begleitschein an die nächste Polizeibegleitung nicht weitergegeben werden kann, sind von den berührten Polizeidienststellen weitere Begleitscheine nach Bedarf auszustellen. Die begleitenden Polizeibeamten haben in den Begleitschein die erforderlichen Angaben einzutragen, diese unterschriftlich zu bestätigen und den Begleitschein der nächsten Polizeibegleitung oder – soweit dies nicht in Betracht kommt (außer dem oben genannten Fall beispielsweise auch, wenn ein Transport das Landesgebiet verläßt) – ihrer Dienststelle zu übergeben. Diese leitet den Begleitschein an die für die Kostenanforderung zuständige Landespolizeidirektion bzw. an die Polizeidirektion Zentrale Dienste Sachsen weiter. Wird ein Transport nur innerhalb des Dienstbezirks einer Polizeidircktion von Beamten dieser Polizeidienststelle oder ihr nachgeordneter Dienststellen begleitet, ist die Gebühr abweichend von Absatz 1 von der Polizeidirektion zu erheben.
 
-Hilfe
+Die Kosten werden bei Kapitel 0312 Titel 111 01 vereinnahmt. Ein Kostenausgleich zwischen den beteiligten Polizeidienststellen findet nicht statt.
 
-Hilfe zu Historische Fassungen
+6.
 
-Fragen und Antworten
+Im übrigen wird auf die Vorschriften des Ersten Abschnitts des Verwaltungskostengesetzes hingewiesen.
 
-Barrierefreiheit
+7.
 
-|  |
+Diese Verwaltungsvorschrift tritt am 1. Juni 1993 in Kraft.
 
-|  |
+Dresden, den 31. Mai 1993
 
-Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/3424.1
-Stand vom
-18.11.2026
+Sächsisches Staatsministerium des Innern
 
-Herausgeber: Sächsische Staatskanzlei https://www.sk.sachsen.de/
+Dr. Wolf
+
+Landespolizeipräsident
+
+Anlage
