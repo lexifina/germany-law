@@ -1,0 +1,7 @@
+# TOP 4: Haushaltsberatungen 2005
+
+- Sitzung: Ausschuss für öffentliche Einrichtungen (2004-11-23)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/129052
+- Ergebnis: zur Kenntnis genommen
