@@ -1,0 +1,7 @@
+# Artikel 52
+
+Bei Ueberweisung des Ueberschusses der Postverwaltung für allgemeine Bundeszwecke (Artikel 49.) soll, in Betracht der bisherigen Verschiedenheit der von den Landes-Postverwaltungen der einzelnen Gebiete erzielten Rein-Einnahmen, zum Zwecke einer entsprechenden Ausgleichung während der unten festgesetzten Uebergangszeit folgendes Verfahren beobachtet werden.
+Aus den Postüberschüssen, welche in den einzelnen Postbezirken während der fünf Jahre 1861. bis 1865. aufgekommen sind, wird ein durchschnittlicher Jahresüberschuß berechnet, und der Antheil, welchen jeder einzelne Postbezirk an dem für das gesammte Gebiet des Norddeutschen Bundes sich darnach herausstellenden Postüberschüsse gehabt hat, nach Prozenten festgestellt.
+Nach Maaßgabe des auf diese Weise festgestellten Verhältnisses werden aus den im Bunde aufkommenden Postüberschüssen während der nächsten acht Jahre den einzelnen Staaten, die sich für dieselben ergebenden Quoten auf ihre sonstigen Beiträge zu Bundeszwecken zu Gute gerechnet.
+Nach Ablauf der acht Jahre hört jene Unterscheidung auf, und fließen die Postüberschüsse in ungetheilter Aufrechnung nach dem Artikel 49. enthaltenen Grundsatz der Bundeskasse zu.
+Von den während der vorgedachten acht Jahre für die Hansestädte sich herausstellenden Quote des Postüberschusses wird alljährlich vorweg die Hälfte dem Bundespräsidium zur Disposition gestellt zu dem Zwecke, daraus zunächst die Kosten für die Herstellung normaler Posteinrichtungen in den Hansestädten zu bestreiten.
