@@ -1,4 +1,4 @@
-# TOP 6.5.: Finanzen, Haushalt
+# TOP 6.5.: Änderungsvorschläge der UsA zum Haushalt 2001
 
 - Sitzung: Gemeinderates (2001-02-15)
 - Körperschaft: Gemeinde Aldenhoven
