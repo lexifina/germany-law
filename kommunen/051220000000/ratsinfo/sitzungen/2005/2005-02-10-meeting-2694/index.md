@@ -1,0 +1,63 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2005-02-10T16:00:00+01:00
+- Ende: 2005-02-10T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZY9CwHYmB0aHYetsmh-n1Rw
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/2694
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUNyEc7RLvRhzofZ5s9X524xqVB-JzRXBmNd32h-4ZRf/Oeffentliche_Niederschrift_Rat_10.02.2005.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Umbesetzung von Ausschüssen
+- TOP 2: Auflösung des Wahlprüfungsausschusses
+- TOP 3: Bildung und Besetzung der Kreiswahlausschüsse für die Wahlkreise 33 Solingen II - Wuppertal III und 34 Solingen I
+- TOP 4: Benennung von Mitgliedern der Einigungsstelle
+- TOP 5: Lokaler Beirat zur Regionale 2006
+- TOP 6: Antrag der Ratsgruppe Solingen AKTIV vom 27.01.2005
+- TOP 7: Antrag der Ratsgruppe Solingen AKTIV vom 27.01.2005
+- TOP 8: Antrag der Ratsfraktion Bündnis 90/Die Grünen - offene Liste vom 26.01.2005
+- TOP 9: Antrag der Ratsfraktion Bündnis 90/Die Grünen - offene Liste vom 27.01.2005
+- TOP 10: Antrag der Ratsfraktion Bündnis 90/Die Grünen - offene Liste vom 26.01.2005
+- TOP 11: Bildung und Besetzung der Kreiswahlausschüsse
+- TOP 12: Satzung der Stadt Solingen für die Durchführung von Bürgerentscheiden
+- TOP 13: Jahresabschluss 2003 der EntsorgungsBetriebe Solingen
+- TOP 14: Jahresabschluss 2003 des MHKW der EntsorgungsBetriebe Solingen
+- TOP 15: Landesarbeitsgemeinschaft der kommunalen Migrantenvertretungen NRW (LAGA)
+- TOP 16: Jahresabschluss 2003 und Lagebericht der Altenzentren der Stadt Solingen
+- TOP 17: I. Satzung zur Änderung der Betriebssatzung für die Altenzentren der Stadt Solingen
+- TOP 18: Wirtschaftsplan 2005 des Städtischen Klinikums Solingen (WP)
+- TOP 19: Wirtschaftsplan 2005 des Städtischen Klinikums Solingen (WP)
+- TOP 20: Beirat für Spätaussiedler
+- TOP 21: Neuwahl der Mitglieder des Beirates für Spätaussiedler der Stadt Solingen
+- TOP 22: Konzeption zur Einrichtung einer "Integrationsfachstelle" im Rahmen der Umsetzung des Zuwanderungsgesetzes
+- TOP 23: Vorlage eines Berichts "Kindergesundheit in Solingen"
+- TOP 24: Walter-Bremer-Institut
+- TOP 25: Bestellung des Vorsitzenden des Umlegungsausschusses
+- TOP 26: Vergabe des Agenda-Preises der Stadt Solingen 2004
+- TOP 27: Lokale Agenda 21
+- TOP 28: Bauleitplanung Graf-Engelbert-Straße/Elisenstraße
+- TOP 29: Bauleitplanung Friedrichstraße/Melbeckstraße
+- TOP 30: Bauleitplanung Bonner Straße
+- TOP 31: Bauleitplanung Südliche Innenstadt Solingen - "Südpark"
+- TOP 32: Sanierungsgebiet Müngsten
+- TOP 33: Rathaus-Parkplatz/Bebauungsplan S 555
+- TOP 34: Antrag der Ratsfraktion Bündnis 90/Die Grünen - offene Liste vom 12.01.2005
+- TOP 35: Raumprogramm für eine eventuelle Rathauserweiterung in Zusammenhang mit der Bebauung des Rathausparkplatzes
+- TOP 36: Kooperationskosten der gemeinsamen Feuerwehrleitstelle
+- TOP 37: Buslinien 681/682 sowie zur Ausrüstung der Dieselbusse
+- TOP 38: RWE-Regionalbeirat
+- TOP 39: Umtauschanleihe für RWE-Aktien
+- TOP 40: Mieten an den VBS
+- TOP 41: Jahresabschluss 2003 des Städtischen Klinikums Solingen
+- TOP 42: Über- und außerplanmäßige Ausgaben im 4. Quartal 2004
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Neubau Elisabeth-Roock-Haus
+- TOP 2: Neubau Elisabeth-Roock-Haus
+- TOP 3: Konzernbeschäftigtenvertretung bei der Stadt Solingen
+- TOP 4: Anfrage der Ratsfraktion Bündnis 90/Die Grünen - offene Liste vom 26.01.2005
