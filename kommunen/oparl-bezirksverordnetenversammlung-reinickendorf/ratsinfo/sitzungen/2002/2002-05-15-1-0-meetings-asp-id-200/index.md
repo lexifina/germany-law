@@ -1,0 +1,73 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf AUS TECHNISCHEN GRÜNDEN KÖNNEN DIE TAGESORDNUNG UND DIE EINLADUNG NICHT IN DATENFORM ABGERUFEN WERDEN!
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2002-05-15T17:00:00+02:00
+- Ende: 2002-05-15T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=200
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=200
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: (nichtöffentlich) - überwiesen
+- TOP 2: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: (nichtöffentlich) - erledigt
+- TOP 4: (nichtöffentlich) - überwiesen
+- TOP 5: (nichtöffentlich) - erledigt
+- TOP 6: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: (nichtöffentlich) - erledigt
+- TOP 8: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 9: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: (nichtöffentlich) - erledigt
+- TOP 12: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 13: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 14: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 15: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 16: (nichtöffentlich) - in der BVV abgelehnt
+- TOP 17: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18: (nichtöffentlich) - in der BVV abgelehnt
+- TOP 19: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 20: (nichtöffentlich) - erledigt
+- TOP 21: (nichtöffentlich) - erledigt
+- TOP 22: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 23: (nichtöffentlich) - erledigt
+- TOP 24: (nichtöffentlich) - erledigt
+- TOP 25: (nichtöffentlich) - überwiesen
+- TOP 26: (nichtöffentlich) - überwiesen
+- TOP 27: (nichtöffentlich) - überwiesen
+- TOP 28: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 29: (nichtöffentlich) - überwiesen
+- TOP 30: (nichtöffentlich) - beantwortet
+- TOP 31: (nichtöffentlich) - überwiesen
+- TOP 32: (nichtöffentlich) - mit Änderungen in der BVV beschlossen
+- TOP 33: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 34: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 35: (nichtöffentlich) - überwiesen
+- TOP 36: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 37: (nichtöffentlich) - überwiesen
+- TOP 38: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 39: (nichtöffentlich) - überwiesen
+- TOP 40: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 41: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 42: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 43: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 44: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 45: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 46: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 47: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 48: Fachräume für neue Hauptschule - ohne Änderungen in der BVV beschlossen
+- TOP 49: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 50: (nichtöffentlich) - überwiesen
+- TOP 51: (nichtöffentlich) - überwiesen
+- TOP 52: (nichtöffentlich) - überwiesen
+- TOP 53: (nichtöffentlich) - überwiesen
+- TOP 54: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 55: (nichtöffentlich) - überwiesen
+- TOP 56: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 57: (nichtöffentlich) - überwiesen
+- TOP 58: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 59: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
