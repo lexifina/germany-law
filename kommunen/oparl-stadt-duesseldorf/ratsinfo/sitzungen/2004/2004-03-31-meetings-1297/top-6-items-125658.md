@@ -1,0 +1,6 @@
+# TOP 6: Flinger Broich 87,Fortun.95 Bez.sportanlage
+
+- Sitzung: Bezirksvertretung 2 (2004-03-31)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/125658
