@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Auschusses für Finanzen und Beteiligungssteuerung
+
+- Körperschaft: Instance 0001
+- Beginn: 2004-12-08T17:05:00+01:00
+- Ende: 2004-12-08T19:45:00+01:00
+- Ort: Rathaus Barmen, Sitzungszimmer 260
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/81
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3491
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3491
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00042353.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00044357.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Geschäftsführerin und einer Stellvertreterin - ungeändert beschlossen
+- TOP 2: Abschluss des ESW für das Geschäftsjahr 2003 - ungeändert beschlossen
+- TOP 3: Wirtschaftsplan des ESW für das Geschäftsjahr 2005 - ungeändert beschlossen
+- TOP 4: Jahresabschluss 2003 für die Alten- und Altenpflegeheime der Stadt Wuppertal - ungeändert beschlossen
+- TOP 5: Wirtschaftsplan der Alten- und Altenpflegeheim der Stadt Wuppertal (APH) für das Jahr 2005 - ungeändert beschlossen
+- TOP 6: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2005 - ungeändert beschlossen
+- TOP 7: Wirtschaftsplanung KIJU 2005 - ungeändert beschlossen
+- TOP 8: Jahresabschluss 2002 des GMW - ungeändert beschlossen
+- TOP 9: Wirtschaftsplan 2005 der Wirtschafts und Beschäftigungsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 10: Wirtschaftsplan der APH Service GmbH für das Wirtschaftjahr 2005 - ungeändert beschlossen
+- TOP 11: Jahresabschluss der Stadthalle Wuppertal Betrieb- und Veranstaltungsgesellschaft mbH 2003 - ungeändert beschlossen
+- TOP 12: Änderung des Gesellschaftsvertrages der Wuppertaler Bühnen GmbH - ungeändert beschlossen
+- TOP 13: Änderung des Gesellschaftsvertrages der Abfallwirtschaftsgesellschaft mbH Wuppertal und Entsendung v - zur Vorberatung verwiesen
+- TOP 14: Verbandsversammlung des Wupperverbandes am 14.12.2004 - ungeändert beschlossen
+- TOP 15: Erhalt und die Sicherung der Wuppertaler Stadtwerke AG - zurückgestellt
+- TOP 16: Beratung durch die Fa.Ernst & Young - mit Aufträgen beschlossen
+- TOP 16.1: Beantwortung der Anfrage der SPD-Fraktion im Rat der Stadt Wuppertal vom 30.11.2004 - Entgegennahme ohne Beschluss
+- TOP 17: Offenlegung der Vorstandsgehälter bei städtischen Tochterunternehmen und Beteiligungen - geändert beschlossen
+- TOP 18: Berichte und Mitteilungen - Entgegennahme ohne Beschluss
+- TOP 24: Stand der Kassenkredite und Schulden zum 30.09.2004 - Ausblick auf den Kassenkreditbedarf 2005 - Entgegennahme ohne Beschluss
+- TOP 25: Finanzstatus 10/04 - Entgegennahme ohne Beschluss
+- TOP 26: Über- und außerplanmäßige Ausgaben 2004 - mit Aufträgen beschlossen
+- TOP 27: Ergebnis der Prüfung des Haushaltsplanes 2004/2005 durch die Kommunalaufsicht - ungeändert beschlossen
+- TOP 28: Gebührensatzung zur Abfallwirtschaftssatzung für das Jahr 2005 - ungeändert beschlossen
+- TOP 29: Satzung z. Änderung d. Satzung über d. Straßenreinigung u. d. Erhebung v. Straßenreinigungsgebühren - ungeändert beschlossen
+- TOP 30: 2. Satzung zur Änderung der Beitrags- und Gebührensatzung vom 18.12.2002 - ungeändert beschlossen
+- TOP 31: Herrichtung des 2. baulichen Rettungsweges - ungeändert beschlossen
+- TOP 32: Schulentwicklungsplanung für die Berufskolleg gemeinsam mit den Städten Remscheid und Solingen - ungeändert beschlossen
+- TOP 33: Hundertwasser-Haus - in der Sache erledigt
+- TOP 34: Prüfauftrag BürgerInnenhaushalt - vertagen
+- TOP 34.1: BürgerInnenhaushalt - vertagen
+- TOP 35: Straßenbeleuchtung - Kenntnis genommen
+- TOP 35.1: Umsetzung weiterer Haushaltskonsolidierungsmaßnahmen; Straßenbeleuchtung - Entgegennahme ohne Beschluss
+- TOP 36: US Cross Border Leasing; Stand des Gesetzgebungsverfahrens in den USA - Entgegennahme ohne Beschluss
+- TOP 37: Berichte und Mitteilungen
