@@ -1,0 +1,53 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2002-11-18T18:00:00+01:00
+- Ende: 2002-11-18T20:45:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Sitzungsraum 413
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdHT0GYjFMX7K2yvtfodSBE
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/533
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdLvQJSYVrl2DMYzp_sPz9lOkcX_izhHMpOjyihQYATb/Oeffentliche_Niederschrift_Hauptausschuss_18.11.2002.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Gebührenhaushalte / Betriebsabrechnungen
+- TOP 3.1.: Gebührenhaushalt Abfallwirtschaft; Kalkulation der Abfallgebühren für das Jahr 2003 - Mehrheitlich dafür
+- TOP 3.2.: Gebührenhaushalt Straßenreinigung; Gebührenkalkulation für das Jahr 2003, Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - Mehrheitlich dafür
+- TOP 3.3.: III. Nachtrag zum Vertrag über die Sammlung und den Transport von Altpapier in der Stadt Emsdetten - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Stadtsparkasse Emsdetten
+- TOP 4.1.: Beschluss über die Genehmigung der Wiederbestellung zum Vorsitzenden des Vorstandes der Stadtsparkasse Emsdetten - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2.: Erlass einer neuen Satzung für die Stadtsparkasse Emsdetten - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3.: Vereinigung der Stadtsparkassen Emsdetten und Ochtrup - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Richtlinien
+- TOP 5.1.: Brandschutzbedarfsplan - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Etat / Budget
+- TOP 6.1.: Budgetbericht zum 31.10.2002 - Zur Kenntnis genommen
+- TOP 7.: Finanzangelegenheiten
+- TOP 7.1.: Über- und außerplanmäßige Ausgaben im III. Quartal 2002 - Zur Kenntnis genommen
+- TOP 8.: Flächennutzungsplan
+- TOP 8.1.: 14. Änderung des Flächennutzungsplanes der Stadt Emsdetten - 15 Ja-Stimme(n), 2 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 8.2.: 14. Änderung des Flächennutzungsplanes der Stadt Emsdetten
+- TOP 9.: Bebauungspläne
+- TOP 9.1.: Bebauungsplan Nr. 56 "Mühlenbachaue" - Satzungsbeschluss - 16 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 9.2.: Bebauungsplan Nr. 28 "Höftstraße", 1. Änderung und Erweiterung - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Erhebung von Anlieger- und Erschließungsbeiträgen
+- TOP 10.1.: Abschnittsbildung gem. § 130 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 10.2.: Kostenspaltung nach dem KAG - Einstimmig, 0 Enthaltung(en)
+- TOP 10.3.: Ablösung von Straßenbaubeiträgen nach § 8 KAG - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Kulturangelegenheiten
+- TOP 11.1.: Information über Inhalt, Ergebnisse und Arbeit mit dem Bibliothekskennzahlenvergleich (BIX) - Abgesetzt
+- TOP 12.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 12.1.: Antrag der Ehe-, Familien- und Lebensberatung im Bistum Münster vom 05.04.2002 auf Förderung der Beratungsarbeit für Emsdettener Bürgerinnen und Bürger
+- TOP 12.2.: Antrag des Lernen fördern e.V. vom 15.10.2002 auf Gewährung eines Zuschusses für ein Projekt im Rahmen der "Entwicklung integrativer Angebote für junge Menschen mit Behinderung zur Eingliederung in die Arbeitswelt" - 12 Ja-Stimme(n), 5 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 13.: Verwaltungsorganisation
+- TOP 13.1.: Zielvereinbarungen zwischen Politik und Verwaltung; Zusammenhänge zwischen Zielvereinbarungen und Interkommunalen Leistungsvergleichen am Beispiel "B I X - Bibliotheksindex" - Zur Kenntnis genommen
+- TOP 13.2.: Sinnhaftigkeit von Outcourcing städtischer Leistungen - Einstimmig, 0 Enthaltung(en)
+- TOP 13.3.: Einführung eines Graphischen Informationssystem - GIS- - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Zukünftige Verwendung der ehemaligen Schule Ahlintel - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Verschiedenes
