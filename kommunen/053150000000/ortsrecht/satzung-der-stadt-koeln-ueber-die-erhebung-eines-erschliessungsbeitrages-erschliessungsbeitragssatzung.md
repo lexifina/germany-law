@@ -1,15 +1,15 @@
 # Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages - Erschließungsbeitragssatzung
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2004-02-11 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/1._Änderung_der_stadt_köln_über_die_erhebung_e._erschließungsbeitrages__erschließungsbeitragssatzung__11-02-2004.pdf
+- Datum: 2004-09-29 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/2._Änderung_der_stadt_köln_über_die_erhebung_e._erschließungsbeitrages__erschließungsbeitragssatzung__29-09-2004.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages - Erschließungsbeitragssatzung vom 29. Juni 2001
-in der Fassung der 1. Satzung zur Änderung der Erschließungsbeitragssatzung vom 11. Februar 2004
+in der Fassung der 2. Satzung zur Änderung der Erschließungsbeitragssatzung vom 29. September 2004
 Der Rat der Stadt Köln hat in seiner Sitzung am 15.05.2001 aufgrund des § 132 Baugesetzbuch (BauGB) in der Fassung der Bekanntmachung vom 27.08.1997 (BGBl. I S. 2141) in Verbindung mit §§ 7 und 76 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen (GO NRW) in der Fassung der Bekanntmachung vom 14.07.1994 (GV. NRW S. 666/SGV. NRW 2023) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - diese Satzung beschlossen:
 
 § 1 Gegenstand der Satzung
@@ -144,7 +144,7 @@ Seite 3 von 9
 
 Einheitssatz für Erschließungsanlagen bzw. ihre Teileinrichtungen nach § 2 Abs. 1 Ziffer
 
-Herstellungszeitraum ab 01.01.2002 bis 31.12.2002
+Herstellungszeitraum ab 01.01.2003 bis 31.12.2003
 
 Euro/m²
 
@@ -152,63 +152,63 @@ Euro/m²
 
 Oberbau ohne Decke Decke gesamt
 
-60,07 22,05 82,12
+58,15 21,27 79,42
 
 b) Fahrbahn
 
 Oberbau ohne Decke Decke gesamt
 
-57,66 21,65 79,31
+55,81 20,88 76,69
 
 c) Fahrbahn
 
 Oberbau ohne Decke Decke gesamt
 
-47,43 17,60 65,03
+45,91 16,98 62,89
 
 d) Fahrbahn
 
 Oberbau ohne Decke Decke gesamt
 
-45,74 15,64 61,38
+44,28 15,09 59,37
 
 Gehwege Radwege Parkflächen kombinierter Geh-/ Radweg Mischverkehrsflächen Oberbau ohne Decke
 Decke gesamt
 
-81,49 51,61 47,79 51,29 37,58 29,48 67,06
+67,75 49,31 58,66 49,01 37,09 29,71 66,80
 
 Fußgängergeschäftsstraßen
 
-95,53
+95,16
 
 2 selbstständige Wohnwege
 
 Oberbau ohne Decke Decke gesamt
 
-48,26 31,58 79,84
+47,63 31,83 79,46
 
 3 Fahrbahn
 
 Oberbau ohne Decke Decke gesamt
 
-45,74 15,64 61,38
+44,28 15,09 59,37
 
 4 a) Straßenbegleitgrün b) Straßenbäume
 
-22,26 je Baum
-726,20
+14,42 je Baum
+781,56
 
 1 bis 4 Straßenbeleuchtung
 
 a) technische Leuchtstellen
 
-7,11
+6,03
 
 Seite 4 von 9
 
 b) dekorative Leuchtstellen
 
-14,02
+13,74
 
 Die Verzeichnisse der Einheitssätze sind Bestandteil dieser Satzung.
 
@@ -316,5 +316,5 @@ b) diese gärtnerisch gestaltet sind.
 Seite 9 von 9
 
 § 10 Immissionsschutzanlagen Bei Anlagen zum Schutz von Baugebieten gegen schädliche Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes werden die Art, der Umfang, die Merkmale der endgültigen Herstellung sowie die Verteilung des beitragsfähigen Erschließungsaufwandes durch Satzung im Einzelfall abweichend oder ergänzend geregelt.
-§ 11 Inkrafttreten Diese Satzung tritt rückwirkend zum 01.01.2002 in Kraft. - ABl StK 2001, S. 289, 2004, S. 106 -
+§ 11 Inkrafttreten Diese Satzung tritt rückwirkend zum 01.01.2003 in Kraft. - ABl StK 2001, S. 289, 2004, S. 106, S. 876 -
 Seite 10 von 9
