@@ -1,0 +1,116 @@
+---
+ecli: "ECLI:DE:BVerfG:2004:rk20040609.1bvr066804"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 668/04"
+decided: "2004-06-09"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 9. Juni 2004\n- 1 BvR 668/04 -, Rn. 1-6,\n                    https://www.bverfg.de/e/rk20040609_1bvr066804"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2004/06/rk20040609_1bvr066804.html"
+corpus_doc_id: "BVerfG_2004-06-09_K_1_BvR_0668_04_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0032.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/grundgesetz/artikel/010.md", "germany/bund/acts/grundgesetz/artikel/019.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 668/04 vom 2004-06-09
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 1 BVR 668/04 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+des Herrn S...
+
+gegen § 33 a Abs. 1 Nr. 2 und 3 des Niedersächsischen Gesetzes über die öffentliche Sicherheit und Ordnung (Nds.SOG) in der Fassung der Änderung
+      durch Artikel 1 des Gesetzes vom 11. Dezember 2003 (Nds.GVBl S. 414)
+
+hier:   Antrag auf Erlass einer einstweiligen Anordnung
+
+hat die 1. Kammer des Ersten Senats des Bundesverfassungsgerichts durch
+                                 den Präsidenten Papier,
+                                 die Richterin Haas
+                                 und den Richter Hoffmann-Riem
+
+gemäß § 32 Abs. 1 in Verbindung mit § 93 d Abs. 2 BVerfGG in der Fassung der
+Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 9. Juni 2004 einstimmig beschlossen:
+
+Der Antrag auf Erlass einer einstweiligen Anordnung wird abgelehnt.
+
+                                     Gründe:
+
+                                         I.
+ Der Antrag ist darauf gerichtet, § 33 a Abs. 1 Nr. 2 und 3 des Niedersächsischen      1
+Gesetzes über die öffentliche Sicherheit und Ordnung (im Folgenden: Nds.SOG) außer Vollzug zu setzen. Nach dem durch Artikel 1 des Gesetzes vom 11. Dezember
+2003 (Nds.GVBl S. 413) neu eingefügten § 33 a Nds.SOG kann die Polizei nach Absatz 1 Nr. 2 personenbezogene Daten durch Überwachung und Aufzeichnung der
+Telekommunikation über Personen erheben, bei denen Tatsachen die Annahme
+rechtfertigen, dass sie Straftaten von erheblicher Bedeutung begehen werden, wenn
+die Vorsorge für die Verfolgung oder die Verhütung dieser Straftaten auf andere Weise nicht möglich erscheint; § 33 a Abs. 1 Nr. 3 Nds.SOG ermöglicht die Datenerhebung auch über Kontakt- und Begleitpersonen der in Nummer 2 genannten Personen, wenn dies zur Vorsorge für die Verfolgung oder zur Verhütung einer Straftat
+nach Nummer 2 unerlässlich ist.
+
+  In dieser am 19. Dezember 2003 in Kraft getretenen Vorschrift sieht der Beschwerdeführer unter anderem eine Verletzung seines Fernmeldegeheimnisses (Art. 10
+Abs. 1 GG) und der Rechtsweggarantie nach Art. 19 Abs. 4 GG. Bezogen auf die geltend gemachte Verletzung seines Fernmeldegeheimnisses weist er insbesondere
+
+
+                                         1/4
+
+darauf hin, bei Anwendung der gerügten Norm könnten seine Telefongespräche
+heimlich abgehört und aufgezeichnet werden, obwohl gegen ihn weder der Verdacht
+einer Straftat bestehe noch von ihm eine Gefahr im polizeirechtlichen Sinne ausgehe.
+Art. 19 Abs. 4 GG sei verletzt, weil die Überwachung dem Betroffenen nicht mitgeteilt
+werde. In der Folge sei es nicht möglich, eine gerichtliche Kontrolle herbeizuführen.
+Der Beschwerdeführer führt aus, er werde durch die angegriffenen Regelungen so
+schwerwiegend verletzt, dass eine Außervollzugsetzung der Norm im Wege der
+einstweiligen Anordnung zur Abwehr schwerer, ihm gegenwärtig drohender Nachteile dringend geboten sei.
+
+                                         II.
+ Der Antrag auf Erlass einer einstweiligen Anordnung bleibt ohne Erfolg.                3
+
+  Nach § 32 BVerfGG kann das Bundesverfassungsgericht einen Zustand durch               4
+einstweilige Anordnung vorläufig regeln, wenn dies zur Abwehr schwerer Nachteile,
+zur Verhinderung drohender Gewalt oder aus einem anderen wichtigen Grund zum
+gemeinen Wohl dringend geboten ist. Dabei ist, wenn die Aussetzung des Vollzugs
+eines Gesetzes begehrt wird, ein besonders strenger Maßstab anzulegen. Das Bundesverfassungsgericht darf von seiner Befugnis, ein Gesetz außer Kraft zu setzen,
+nur mit größter Zurückhaltung Gebrauch machen, ist doch der Erlass einer einstweiligen Anordnung gegen ein Gesetz stets ein erheblicher Eingriff in die Gestaltungsfreiheit des Gesetzgebers. Die Gründe, die für den Erlass einer einstweiligen Anordnung
+sprechen, müssen daher im Vergleich zu Anordnungen, die weniger schwer in die Interessen der Allgemeinheit eingreifen, bei Gesetzen besonderes Gewicht haben (vgl.
+BVerfGE 104, 23 <27 f.>; 104, 51 <55 f.>). Zudem rechtfertigen schwere Nachteile
+oder ein anderer wichtiger Grund für sich eine einstweilige Anordnung noch nicht. Ihr
+Erlass muss zur Abwehr der Nachteile auch unter Berücksichtigung der bei einer Verfassungsbeschwerde gegen ein Gesetz erforderlichen Zurückhaltung des Senats
+dringend geboten sein. Die in § 32 Abs. 1 BVerfGG geforderte Dringlichkeit ist als
+Unaufschiebbarkeit einer zumindest vorläufigen Regelung zu verstehen (BVerfG,
+1. Kammer des Zweiten Senats, NVwZ 2000, S. 789).
+
+ Solche besonders gewichtigen dringlichen Gründe, die im Rahmen der anzustellenden Folgenabwägung den Erlass einer einstweiligen Anordnung und die Aussetzung
+des Vollzugs der angegriffenen Regelungen rechtfertigen könnten, hat der Beschwerdeführer nicht hinreichend substantiiert dargelegt. Der bloße Hinweis darauf,
+er suche häufig eine Gaststätte auf, die auch von teilweise extrem und womöglich gewaltbereitem linksradikal gesonnenen Publikum frequentiert werde, begründet ebenso wenig ein besonderes Risiko einer Datenerhebung bei ihm und eine besondere
+Dringlichkeit wie der Verweis auf den großen Freundes- und Bekanntenkreis des Beschwerdeführers, zu dem auch Personen im Sinne von § 33 a Abs. 1 Nr. 2 Nds.SOG
+gehören könnten.
+
+
+
+
+                                         2/4
+
+Diese Entscheidung ist unanfechtbar.                          6
+
+               Papier                  Haas   Hoffmann-Riem
+
+
+
+
+                                        3/4
+
+Bundesverfassungsgericht, Beschluss der 1. Kammer des Ersten Senats vom 9. Juni 2004 - 1 BvR 668/04
+
+Zitiervorschlag BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 9. Juni 2004
+                - 1 BvR 668/04 - Rn. (1 - 6), http://www.bverfg.de/e/
+                rk20040609_1bvr066804.html
+
+ECLI            ECLI:DE:BVerfG:2004:rk20040609.1bvr066804
+
+
+
+
+                                      4/4
