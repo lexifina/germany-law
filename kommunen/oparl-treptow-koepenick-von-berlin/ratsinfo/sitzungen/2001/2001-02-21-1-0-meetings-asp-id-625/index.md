@@ -1,0 +1,76 @@
+# 6. (öfftl.) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2001-02-21T16:00:00+01:00
+- Ende: 2001-02-21T22:25:00+01:00
+- Ort: Vollmerstr. 2, 12489 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=625
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=625
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=33555
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2: Informationen des Vorstehers - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. 2/01 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Wahl von stellvertretenden Bürgerdeputierten - gewählt
+- TOP 8: Wahl des Beirates in Sozialhilfeangelegenheiten <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, SozGes)</span> - gewählt
+- TOP 9: Verteilung der Sitze in den Ausschüssen - vertagt
+- TOP 10: Bearbeitung von Sondermittelanträgen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Winfried Blohm)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Sondermittel für Regionalgruppe Berlin der IGSL e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 12: Sondermittel für Berliner Parkeisenbahn gGmbH - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge auf Planreife - ohne Änderungen in der BVV beschlossen
+- TOP 14: Straßenbenennung im WISTA-Gelände - ohne Änderungen in der BVV beschlossen
+- TOP 15: Saubere Altstadt Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 16: Konkretisierung und Fortschreibung der städtebaulichen und sozialen Sanierungsziele für das Sanierungsgebiet Altstadt/Kietz Vorstadt - überwiesen
+- TOP 17: Aufnahme des Bezirks Treptow-Köpenick, Teil Köpenick, von Berlin in das Gesunde Städte-Netzwerk der Bundesrepublik Deutschland - überwiesen
+- TOP 18: Sondermittel für die Selbsthilfegruppe Gymnastik - überwiesen
+- TOP 19: Sondermittel für Treptower Teufel Tennis Club e.V. - überwiesen
+- TOP 20: Sondermittel für die Volkssolidarität Treptow/Köpenick e.V. - überwiesen
+- TOP 21: Sondermittel für Tourismusverein Berlin Köpenick-Treptow e.V. - überwiesen
+- TOP 22: Sondermittel für das Jugendtheaterzentrum "Alte Möbelfabrik e.V." - überwiesen
+- TOP 23: Sondermittel für Selbsthilfegruppe Multiple Sklerose Berlin-Köpenick - überwiesen
+- TOP 24: Wahl zusätzlicher Bürgerdeputierter - ohne Änderungen in der BVV beschlossen
+- TOP 25: Regionale Hotelroute - überwiesen
+- TOP 26: Ladenöffnungszeiten - mit Änderungen in der BVV beschlossen
+- TOP 27: Verstärkte Überprüfung der Einhaltung der Geschwindigkeit in den Tempo 30 Zonen - vertagt
+- TOP 28: Grünstraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Elke Werner Verfasser 2: Brigitte Gelbke)</span> - überwiesen
+- TOP 29: Neubau einer Schießsportanlage für den bisherigen Standort Rudower Chaussee - vertagt
+- TOP 30: Projekt "Reha-Haus" - ohne Änderungen in der BVV beschlossen
+- TOP 31: Überweisung der Drs. 414/IV-T und 493/IV-T - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 32: Auftragsvergabe Verwaltungszentrum Adlershof - überwiesen
+- TOP 33: Öffnungszeiten der Gedenkstätte Köpenicker Blutwoche - ohne Änderungen in der BVV beschlossen
+- TOP 34: Städtepartnerschaften des Bezirks Treptow-Köpenick - überwiesen
+- TOP 35: Mündliche Anfragen - überwiesen
+- TOP 36: Haus der Begegnung Niebergallstraße - ohne Änderungen in der BVV beschlossen
+- TOP 37: Rindfleischlose Nahrungsalternativen - überwiesen
+- TOP 38: Internetangebot der Verwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 39: Parkverbot Grünstraße - überwiesen
+- TOP 40: Wiederaufnahme von Baumaßnahmen - vertagt
+- TOP 41: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42: Wiedererrichtung des Sportdenkmals in Grünau - überwiesen
+- TOP 43: Touristische Leitsystem - überwiesen
+- TOP 44: Straßenbenennung in Grünau - überwiesen
+- TOP 45: Bericht über die Entwicklung von Wirtschaft und Gewerbe in Treptow-Köpenick - mit Änderungen in der BVV beschlossen
+- TOP 46: Internet-Präsenz der BVV - ohne Änderungen in der BVV beschlossen
+- TOP 47: Sicherung des Wassersportmuseums Grünau am gegenwärtigen Standort - ohne Änderungen in der BVV beschlossen
+- TOP 48: Demographische Entwicklung in Treptow-Köpenick - vertagt
+- TOP 49: Schutz des im nordöstlichen An- und Abflugbereich des Flughafen Berlin-Schönefeld gelegenen Trinkwasserschutzgebietes vor dem Eintrag trinkwassergefährdender Stoffe als Folge des Flugbetriebs und von eventuellen Flugunfällen - überwiesen
+- TOP 50: Keine Hemmnisse für Sehbehinderte und Blinde auf den Geh- und Verkehrswegen im Bezirk Treptow-Köpenick von Berlin - überwiesen
+- TOP 51: 300. Preußenjahr - überwiesen
+- TOP 52: Lagerung von Baustoffabfällen in der Kiefholzstr. 389 in 12435 Berlin - vertagt
+- TOP 53: Baustofftransport auf dem Wasser? - vertagt
+- TOP 54: "Rinderwahn auch im Bezirksamt?" Verbraucherschutz und Information im Bezirk - vertagt
+- TOP 55: Senioren im Internet - vertagt
+- TOP 56: Solarenergie - vertagt
+- TOP 57: Legionellen-Bakterien - vertagt
+- TOP 58: Anhörung TÖB Großflughafen Schönefeld - vertagt
+- TOP 59: Bauablauf Erweiterung und Umbau Realschule, Neubau Sporthalle, Glienicker Straße - vertagt
+- TOP 60: Getrennte Müllsammlung in Schulen - vertagt
+- TOP 61: Berufung von beratenden Mitgliedern des JHA - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
