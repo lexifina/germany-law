@@ -1,0 +1,6 @@
+# TOP 8: Abflugroute MODRU X (BRS130303-00118.doc)
+
+- Sitzung: Bezirksausschuss Rosellen (2003-03-13)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/104833
