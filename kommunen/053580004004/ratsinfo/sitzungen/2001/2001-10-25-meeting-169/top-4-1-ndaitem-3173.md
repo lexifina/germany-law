@@ -1,4 +1,4 @@
-# TOP 4.1.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+# TOP 4.1.: Nutzung des "DAA-Gebäudes"
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
