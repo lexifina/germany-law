@@ -1,4 +1,4 @@
-# TOP 3.3.: Schulangelegenheiten
+# TOP 3.3.: Verwaltungsinterne Fortschreibung des Schulentwicklungplanes des Gde. Aldenhoven
 
 - Sitzung: Schul- und Sozialausschuss (2001-05-10)
 - Körperschaft: Gemeinde Aldenhoven
