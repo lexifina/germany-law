@@ -1,0 +1,8 @@
+# TOP 2.13: Bebauungsplan XVIII-45a, Ortsteil Weißensee - Ergebnis der Auswertung der Beteiligung der Träger öffentlicher Belange, Titeländerung, Durchführung der öffentlichen Auslegung
+
+- Sitzung: 17. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin (2003-09-17)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=4469
+- Ergebnis: mit Abschlussbericht zur Kenntnis genommen
+- Beratung: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/consultations.asp?typ=i&id=4469
