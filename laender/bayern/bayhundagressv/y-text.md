@@ -1,0 +1,1 @@
+Auf Grund von Art. 37 Abs. 1 Satz 2 Halbsatz 2 des Landesstraf- und Verordnungsgesetzes – LStVG – (BayRS 2011–2–I), zuletzt geändert durch Gesetz vom 10. Juni 1992 (GVBl S. 152), erläßt das Bayerische Staatsministerium des Innern folgende Verordnung:
