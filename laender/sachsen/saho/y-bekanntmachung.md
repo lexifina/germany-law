@@ -5,4 +5,4 @@ Aufgrund des Artikels 15 des Gesetzes über Maßnahmen zur Sicherung der öffent
 2. Artikel 4 des Ersten Gesetzes zur Euro-bedingten Änderung des sächsischen Landesrechts vom 19. Oktober 1998 (SächsGVBl. S. 505),
 3. Artikel 13 des eingangs genannten Gesetzes (SächsGVBl. S. 513, 516, 2001 S. 97).
 Dresden, den 10. April 2001
-Der Staatsminister der Finanzen Dr. Thomas de Maizire
+Der Staatsminister der Finanzen Dr. Thomas de Maizière
