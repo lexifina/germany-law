@@ -1,4 +1,4 @@
-# TOP 3.2.: Genehmigung von Dringlichkeitsbeschlüssen
+# TOP 3.2.: Schulcontainer Käthe-Kollwitz-Realschule Aldenhoven
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
