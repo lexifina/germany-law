@@ -15,6 +15,7 @@ Teil 4:Prüfung
 § 9 | Allgemeines
 § 10 | Abnahme der Prüfung
 § 11 | Prüfungsausschuß und Teilprüfungsausschüsse
+§ 11a | Berücksichtigung besonderer Belange Behinderter
 § 12 | Gegenstand, Ort und Termine der Prüfung, Belehrung
 § 13 | Zulassung zur Prüfung
 § 14 | Erste Prüfungskonferenz
