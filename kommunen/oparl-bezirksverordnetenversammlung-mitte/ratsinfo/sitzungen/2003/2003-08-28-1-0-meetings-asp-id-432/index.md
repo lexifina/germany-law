@@ -1,0 +1,119 @@
+# 18. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2003-08-28T17:30:00+02:00
+- Ende: 2003-08-28T22:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=432
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=432
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=37069
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Gefährdung der Arbeit der GalB - beantwortet
+- TOP 3.2: Mittel für ehrenamtliche Arbeit in Mitte - beantwortet
+- TOP 3.3: Haushaltsplanentwurf im Internet
+- TOP 3.4: Seniorenwohnhäuser und Seniorenfreizeitstätten an Freie Träger - beantwortet
+- TOP 3.5: Bundespressestrand - beantwortet
+- TOP 3.6: Vignetten für Anwohnerparken - beantwortet
+- TOP 3.7: Hansa Theater - beantwortet
+- TOP 3.8: Probleme bei der Love Parade 2003 - schriftlich beantwortet
+- TOP 3.9: Mietvertragsfreie Nutzung von Bezirksräumen durch das Arbeitsamt: Wir haben's ja!? - schriftlich beantwortet
+- TOP 3.10: Aufhebung der Lernmittelfreiheit - schriftlich beantwortet
+- TOP 3.11: Camper am Schloßplatz - schriftlich beantwortet
+- TOP 3.12: Zaun Reichstagswiese - schriftlich beantwortet
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Was geschieht im Essener Park? - beantwortet
+- TOP 5.2: Auswirkungen des Tarifabschlusses des Landes Berlin - beantwortet
+- TOP 5.3: Umbau unter den Linden: Welches Ausmaß hat Strieders Kettensägeorgie? - beantwortet
+- TOP 5.4: Straßennutzungsgebühren für Gewerbetreibende - beantwortet
+- TOP 5.5: Gemeindepsychiatrische Versorgung in Berlin Mitte
+- TOP 5.6: Schuljahr 2003/ 2004 - beantwortet
+- TOP 5.7: Geltung der Tarifergebnisse vom 01. August 2003 für die Zuwendungsempfänger - beantwortet
+- TOP 5.8: Erreichbarkeit der Bürgerämter und anderer bezirklicher Ämter - beantwortet
+- TOP 5.9: Fifty-Fifty im neuen Schuljahr - Traum- oder Fehlstart? - schriftlich beantwortet
+- TOP 5.10: Viel mehr Grün - kein Cent mehr? Berücksichtigt der Senat die Aufwendungen für zusätzliche Grün- und Freiflächen bei der Mittelzuweisung? - schriftlich beantwortet
+- TOP 5.11: Einführung des digitalen terrestrischen Fernsehens - Guckt das Bezirksamt jetzt finanziell in die Röhre?
+- TOP 5.12: Potemkinsche Dörfer am Invalidenpark? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Entwurf des Doppelbezirkshaushaltsplans Mitte für die Haushaltsjahre 2004 und 2005/ Nachschiebeliste Nr. 1 zum Entwurf des Doppelhaushaltsplans Mitte für die Haushaltsjahre 2004 und 2005 - überwiesen
+- TOP 8.2: Festsetzung der Erhaltungsverordnung gem. § 172 Abs. 1 Satz 1 Nr. 2 BauGB für das Gebiet "Oranienburger Vorstadt" im Bezirk Mitte von Berlin - überwiesen
+- TOP 8.3: Die Benennung, des, durch den Senat von Berlin zu erfolgende Ernennung, Verwaltungsbeamten und seines Stellvertreters für den beim Amtsgericht Tiergarten zu bildenden Schöffenwahlausschuss für die Geschäftsjahre 2005 bis 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Blaue Flaggen sollen wehen über Berlins Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2: Parlament der Bäume wieder öffnen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.3: Dokumentation "nicht misshandeln" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.4: Fallbezogenes Zumessungsmodell zur Steuerung von Sozialhilfemitteln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.5: Beibehaltung der Nutzung des Geländes des ehemaligen Krankenhauses Moabit als Naherholungsbereich für die Bevölkerung
+- TOP 9.6: Mehr Transparenz für bezirkliche Schulentwicklungsplanung
+- TOP 9.7: Hemingway-Oberschule
+- TOP 9.8: Instandsetzung des ehemaligen Seniorenheims Koppenplatz
+- TOP 9.9: Förderung des Projektes "Migration und Quartiersentwicklung, Wir in Moabit: gemeinsam leben, gemeinsam gestalten" im Ortsteil Moabit
+- TOP 9.10: Max-Beckmann-Saal
+- TOP 9.11: Bezirke bei der Entbürokratisierung beteiligen
+- TOP 9.12: Einsparungen bei Heiz- und Betriebskosten bei SozialhilfeempfängerInnen
+- TOP 9.13: Galerie Mitte
+- TOP 9.14: Vergütung für ärztliche Leistungen bei Sozialhilfeempfängern ändern
+- TOP 9.15: Konzeption zur Arbeitsvermittlung von Sozialhilfeempfangenden
+- TOP 9.16: Umsetzung des Armutsberichts
+- TOP 9.17: Sammlung gebrauchter Druckerpatronen
+- TOP 9.18: Unterbringung von Asylbewerbern in Wohnungen
+- TOP 9.19: Arbeitsmarktpolitische Konferenz
+- TOP 9.20: Gewerbe- und Kulturstandort Grundstück Rosenthaler Straße 39
+- TOP 9.21: Sicherung Frauenprojekte
+- TOP 9.22: Metropoltheater
+- TOP 9.23: Bericht zur Kooperation zwischen LuV Jugend und der Polizei
+- TOP 9.24: Leitlinien für die kommunale Kulturarbeit im Bezirk Mitte
+- TOP 9.25: Beschlüsse zum Doppelhaushalt 2004/05 und Projekt Eigenbetrieb Öffentliche Bibliotheken
+- TOP 9.26: Budgetierungsergebnisse 2002
+- TOP 9.27: Sozialraumorientierte und kleinräumige Datenerfassung
+- TOP 9.28: Bezirklichen Ausländeranteil bei der Finanzzuweisung berücksichtigen
+- TOP 9.29: Umsetzung des § 5 des Interessenausgleichs durch Berliner Immobilienmanagement GmbH (BIM)
+- TOP 9.30: Fusionierung 10. und 12. Grundschule Wedding - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.31: Namensgebung für die 5. Grundschule/Mi - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.32: Sachmittel für die Unterstützung der ehrenamtlichen Arbeit der Bürgerinnen und Bürger zur Verbesserung der öffentlichen Infrastruktur im Jahre 2003 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.33: Die im ersten Halbjahr 2003 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.34: Weiterentwicklung bestehender Schulen zu Ganztagsschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.35: Nutzungsordnung alt: Drucksache Nr. I/219 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.36: Sprachstandsmessungen alt: Drucksache Nr. I/110 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.37: Auswertung der Beteiligung der Träger öffentlicher Belange gemäß § 4 BauGB Erweiterung des Geltungsbereichs des Bebauungsplans 1-4 im Bezirk Mitte, Ortsteil Tiergarten Durchführung der öffentlichen Auslegung gemäß § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.38: Beschluss über das Ergebnis der Beteiligung der Träger öffentlicher Belange zum Bebauungsplanentwurf III-105-3 und der Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.39: Programmmittel "Soziale Stadt" 2003-2007 der QM-Gebiete Reinickendorfer-/ Pankstraße, Moabit West, Magdeburger Platz, Soldiner Straße und Sparrplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.40: Renovierungsmittel alt: Drucksache 46/I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.41: Wachturm am Kieler Eck alt: Drucksache I/464 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.42: Programm Fifty-Fifty verlängern alt: Drucksache Nr. I/491 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.43: Konzeption für den Max-Beckmann-Saal alt: Drucksache Nr. I/209 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Ausschreibung für die Pflege der Grünflächen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bebauungsplan II-141a, Sicherung der Wohnnutzung für die Grundstücke Lützowufer 20-23, Lützowplatz 2/ 18 und Wichmannstraße 1-3 - überwiesen
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Anders Parken in der Kirchstraße
+- TOP 11.2: Zebrastreifen in der Kirchstraße
+- TOP 11.3: BürgerInnen wollen aktiv werden
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Projekt Obdachlosenheim Legiendamm 30-32/ Waldemarstraße 12-18 - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Opferkreuze
+- TOP 12.3: Ergänzung des Budgetierungsverfahrens durch Qualitätskriterien - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Fünf Prozent der Bewirtschaftungskosten für Investitionen zur Ernergieeinsparung - überwiesen
+- TOP 12.5: Denkmal für die homosexuellen NS-Opfer - überwiesen
+- TOP 12.6: Keine finanziellen Belastungen des Bezirkshaushaltes durch die Novellierung GDG und Neuordnung des Öffentlichen Gesundheitsdienstes - überwiesen
+- TOP 12.7: Wahl von stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Energiesparen als Kapitalanlage: Bürgercontracting - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Patientenfürsprecher - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Wildwiesen statt Rollrasen - überwiesen
+- TOP 12.11: Bauunterhaltungsplanung bis zum 01. Januar 2004 - überwiesen
+- TOP 12.12: Bezirksverdienstmedaille - zurückgezogen
+- TOP 12.13: Übertragung des Tarifvertrages - ohne Änderungen in der BVV beschlossen
