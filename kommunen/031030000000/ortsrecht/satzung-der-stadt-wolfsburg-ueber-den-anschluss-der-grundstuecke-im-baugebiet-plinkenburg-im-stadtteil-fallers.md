@@ -1,0 +1,59 @@
+# Satzung der Stadt Wolfsburg über den Anschluß der Grundstücke im Baugebiet „Plinkenburg“ im Stadtteil Fallersleben an das Fernwärmeversorgungsnetz der Stadtwerke Wolfsburg AG in der Fassung des 1. Nachtrages
+
+- Gemeinde: Stadt Wolfsburg (ARS 031030000000)
+- Datum: 1999-04-16 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.wolfsburg.de/-/media/wolfsburg/statistik_daten_fakten/satzungen_verordnungen/fernwaermesatzung_plinkenburg.pdf
+- Text: PDF der Stadt, Textschicht (pdftotext)
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+7 - 27
+Satzung der Stadt Wolfsburg über den Anschluß der Grundstücke im Baugebiet „Plinkenburg“ im Stadtteil Fallersleben an das Fernwärmeversorgungsnetz der Stadtwerke Wolfsburg AG in der Fassung des 1. Nachtrages vom 24.03.1999 (in Kraft seit dem 16.04.1999)
+Aufgrund der §§ 6, 8 und 40 der Nds. Gemeindeordnung in der Fassung vom 22.06.1982 (Nds. GVBl. S. 229) in der jeweils geltenden Fassung hat der Rat der Stadt Wolfsburg durch Beschluß vom 23.11.1983 folgende Satzung erlassen:
+§1
+Geltungsbereich
+1. Die Bestimmungen über den Anschluß der Grundstücke im Baugebiet „Plinkenburg“ im Stadtteil Fallersleben an das Fernwärmeversorgungsnetz gelten innerhalb der Grenzen des anliegenden Planes. Der Geltungsbereich dieser Satzung liegt im Bereich eines Heilquellenschutzgebietes.
+Der Plan ist Bestandteil dieser Satzung.
+2. Die in dieser Satzung für die Grundstückseigentümer gegebenen Vorschriften gelten entsprechend für die Erbbauberechtigten und Nießbraucher sowie für die in ähnlicher Weise zur Nutzung des Grundstückes dinglich Berechtigten.
+3. Als Grundstück im Sinne dieser Satzung ist ohne Rücksicht auf die Grundbuchbezeichnung jeder zusammenhängende Grundbesitz anzusehen, der eine selbständige wirtschaftliche Einheit bildet, insbesondere dann, wenn ihm eine besondere Hausnummer zugeteilt ist.
+4. Die Stadtwerke Wolfsburg AG ist verpflichtet, die Grundstücke zu angemessenen Bedingungen mit Fernwärme zu versorgen.
+§2
+Anschluß- und Benutzungsrecht
+1. Jeder dinglich Berechtigte eines im Baugebiet „Plinkenburg“ liegenden, durch eine betriebsfertige Versorgungsleitung erschlossenen bebauten oder bebaubaren Grundstücks ist vorbehaltlich der Einschränkung in § 3 berechtigt zu verlangen, daß sein Grundstück an das Fernwärmeversorgungsnetz angeschlossen wird (Anschlußrecht).
+2. Nach dem betriebsfertigen Anschluß des Grundstücks an das Fernwärmeversorgungsnetz haben die Anschlußnehmer das Recht, die benötigten Wärmemengen aus den Versorgungsanlagen zu entnehmen (Benutzungsrecht).
+§3
+Begrenzung des Anschlußrechts
+Ist der Anschluß (§ 2 Abs. 1) wegen der besonderen Lage des Grundstücks oder aus sonstigen technischen oder wirtschaftlichen Gründen mit erheblichen Schwierigkeiten verbunden oder sind dafür besondere Maßnahmen und Aufwendungen erforderlich, kann die Stadt den Anschluß versagen und den Antragsteller auf andere Energiequellen verweisen. Dies gilt nicht, wenn der Antragsteller sich bereit erklärt, neben dem Anschlußbeitrag auch die entstehenden Mehrkosten für den Bau und ggf. den Betrieb zu tragen. In diesem Falle hat er auf Verlangen angemessene Sicherheit zu leisten.
+Sind die Gründe, die zur Versagung des Anschlusses geführt haben, fortgefallen, ist nach den Vorschriften dieser Satzung zu verfahren.
+
+7 - 27 Seite 2
+§4
+Anschluß- und Benutzungszwang
+1. Jeder Eigentümer eines durch eine betriebsfertige Versorgungsleitung erschlossenen Grundstücks ist verpflichtet, an das öffentliche Fernwärmeversorgungsnetz der Stadtwerke Wolfsburg AG anzuschließen. Befinden sich auf einem Grundstück mehrere Gebäude, in denen Raumwärme benötigt wird, so ist jedes dieser Gebäude anzuschließen.
+2. Auf Grundstücken, die an das öffentliche Fernwärmeversorgungsnetz angeschlossen sind, ist der gesamte Bedarf an Raumwärme ausschließlich aus dem Fernwärmeversorgungsnetz zu decken. Diese Verpflichtung obliegt den Grundstückseigentümern sowie sämtlichen Bewohnern der Gebäude und sonstigen Raumwärmeverbrauchern.
+3. Auf den anschlußpflichtigen Grundstücken ist die Benutzung von Feuerungsanlagen zum Betrieb mit Kohle, Koks, Holz, Öl oder anderen Stoffen, die Rauch oder Abgase entwickeln können, sowie die Errichtung und der Betrieb von Wärmeerzeugungsanlagen nicht gestattet. Dies gilt nicht für eventuelle zusätzliche Kaminfeuerstellen in den Wohnhäusern, sofern diese nicht der Heizung der Gebäude dienen, nur gelegentlich benutzt und überwiegend mit Holz befeuert werden.
+§5
+Befreiung vom Anschluß- und Benutzungszwang
+1. Für die am Tage des Inkrafttretens dieser Satzung in Bauwerken vorhandenen immissionsfreien Heizungsanlagen wird Befreiung vom Anschluß- und Benutzungszwang erteilt. Sie können unter dem Gesichtspunkt des Bestandsschutzes weiter betrieben werden.
+2. Die Befreiung vom Anschluß- und Benutzungszwang ist innerhalb eines Monats nach schriftlicher Aufforderung zum Anschluß schriftlich bei der Stadt zu beantragen und unter Beifügung der erforderlichen Unterlagen zu begründen.
+3. Befreiung vom Anschluß- und Benutzungszwang muß im Einzelfall - vorbehaltlich der Genehmigungsfähigkeit der Anlagen - auf Antrag auch erteilt werden, wenn die Versorgung des Grundstücks mit Wärme durch regenerative Energiequellen (z. B. elektrisch betriebene Wärmepumpen) erfolgen soll.
+Solaranlagen auf Dach- und Wandflächen sind nur zulässig, wenn sie keine negativen Auswirkun gen auf das historische Stadtbild in diesem Baugebiet haben. Bei Bohrungen für die Wärmegewinnung mittels Wärmepumpen sind die Schutzbestimmungen der Quellenschutzverordnung für die Schwefelquelle zu beachten. Der Antrag ist bei der Stadt Wolfsburg schriftlich einzureichen und eingehend zu begründen.
+4. Eine Befreiung vom Anschluß- und Benutzungszwang wird widerruflich oder befristet erteilt. Eine Befreiung vom Anschluß- und Benutzungszwang gem. § 5 Abs. 3 kann außerdem unter Bedingungen oder mit Auflagen erteilt werden.
+5. Sofern zu einem späteren Zeitpunkt Erneuerungsmaßnahmen beantragt werden, ist die Heizungsanlage im Sinne des Bebauungsplanes und dieser Satzung zu ändern, wenn sich die Kosten der Änderung dadurch im Sinne von § 99 Abs. 3 NBauO nicht mehr als 20 % erhöhen.
+...
+
+7 - 27 Seite 3
+§6
+Ausführung und Benutzung
+1. Der Anschluß an das Fernwärmeversorgungsnetz ist vom Grundstückseigentümer bei der Stadtwerke Wolfsburg AG zu beantragen. Der Antrag muß bei Neubauten gleichzeitig mit dem Antrag auf Baugenehmigung gestellt werden.
+2. Der Anschluß und die Versorgung erfolgen auf der Grundlage privatrechtlicher Verträge nach der Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme vom 20.06.1980 (AVBFernwärmeV, BGBl. I S. 742 ff.) und nach den Ergänzenden Bestimmungen über den Fernwärmeanschluß der Stadtwerke Wolfsburg AG in ihren jeweils geltenden Fassungen.
+§7
+Inkrafttreten
+Diese Satzung tritt am Tage nach ihrer Veröffentlichung in Kraft.
+
+Satzung öffentlich bekanntgemacht im Amtsblatt am: 1. Nachtrag öffentlich bekanntgemacht im Amtsblatt am:
+Satzung in Kraft getreten am: 1. Nachtrag in Kraft getreten am:
+
+03.06.1985 15.04.1999
+04.06.1985 16.04.1999
