@@ -1,0 +1,79 @@
+# 13. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2003-03-05T17:30:00+01:00
+- Ende: 2003-03-05T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=439
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=439
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - zur Kenntnis genommen
+- TOP 1.2: Abstimmung über die Tagesordnung - zur Kenntnis genommen
+- TOP 1.3: Dringlichkeitsanträge - zur Kenntnis genommen
+- TOP 1.3.1: Schlussbericht des Bezirksamtes zur Drucksache Nr. V - 0313/02 (Schwedter Straße Nord) - vertagt
+- TOP 1.3.2: Sicherheit auf dem Helmholtzplatz - in der BVV abgelehnt
+- TOP 1.4: Mündliche Anfrage - in der BVV abgelehnt
+- TOP 1.5: Bericht des Bezirksamtes - in der BVV abgelehnt
+- TOP 1.6: Konsensliste - in der BVV abgelehnt
+- TOP 1.7: Nachwahl eines stellvertretenden Bürgerdeputierten für den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.8: Vorhabenbezogener Bebauungsplan XVIII-VE-1 für die Grundstücke Malchower Chaussee 6, 10 und Piesporter Straße 38, 38 a und 38 b im Bezirk Pankow, OT Stadtrandsiedlung Malchow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.9: Erlass einer Verordnung über die Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB für das Gebiet Ostseestraße/Grellstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Fahrradstraßen im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Freie Träger im Bereich der Hilfe in besonderen Lebenslagen - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Verkehrsberuhigung Bahnhofstraße Blankenburg, Bereich Albert-Schweizer-Stiftung - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Gebietssozialpläne in Erhaltungsgebieten - vertagt
+- TOP 1.14: Tempo 30 in der Langhansstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Beabsichtigte Änderung des Flächennutzungsplans, "Ehem. Nordtangente" (Lfd. Nr. 29/95) - mit Änderungen in der BVV beschlossen
+- TOP 1.16: Zugang zum Intranet der Bzirksverwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Postalische Versorgung in Blankenburg - zurückgezogen
+- TOP 1.18: ÖPNV-Anbindung von Pankow zum Alexanderplatz - überwiesen
+- TOP 1.19: Statistik der Sozialräume - überwiesen
+- TOP 1.20: Asbest in der Aula der 3. OG PB - schriftlich beantwortet
+- TOP 1.21: EU-Bericht - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Keine Novellierung der BauO auf Kosten der Kinder - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Teilnahme von Schulen am Projekt "Schule ohne Rassismus" - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Schulversuch "Produktives Lernen" an der Gustav-Eiffel-Oberschule - beantwortet
+- TOP 1.25: Pankower Schulklassen besuchen die ehemalige Haftanstalt des MfS? - in der BVV abgelehnt
+- TOP 1.26: Verkehrsberuhigung in der Waldstraße im Ortsteil Pankow - überwiesen
+- TOP 1.27: Berlin - City for Peace - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Unterlagen zum Sanierungsbedarf der Schulen im Bezirk als Antwort auf die kleine Anfrage 0033/02 - überwiesen
+- TOP 1.29: Buslinie 107 - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Geschlechtergerechter Haushalt - ein zweiter Schritt - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Familiengericht Pankow / Weißensee - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.1: Zügige Weiterführung der Bauleitplanung für das ABB-Gelände - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.1.1: Erschließungsstraße für das ABB-Gelände - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Bauliche Mängel in der Kita "La Cigale" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Aufstellung einer Erhaltungssatzung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Künstlerhof Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5.1: Erhalt des Künstlerhofes Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Feuerstellen im Mauerpark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Bericht zu unbefestigten Straßen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7.1: Ausbesserung nicht befestigter Straßen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Erhaltungsrechtsverordnungen Ostseestraße/Grellstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Schutz der in den Milieuschutzgebieten wohnenden Menschen und deren Sozialstruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Kürzungen der Jugendberufshilfe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Abschaffung der Decklungszahlen für den offenen Ganztagsbetrieb und die hortähnliche Betreuung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Projekt "Lokaler Aktionsplan..." - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Bebauungsplan XVIII-VE-1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Bericht zur Entwicklung der Ausgaben und zur Steuerbarkeit der Ausgaben im T- und im Z-Teil des bezirklichen Haushalts - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Halbjährliche Berichterstattung über Budgetentwicklung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Realisierung von Vorschlägen zu Gedenkzeichen im öffentlichen Raum - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Gestaltung der Haushaltspläne - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Linienführung der Buslinie 251 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Ökologische und soziale Gestaltungsziele für die Schwedter Straße/Nord - keine Straßenerweiterung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Schmutzwasserentwässerung Blankenburger Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Präsentation von Bauvorhaben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Saarbrücker Straße / Königstadtbrauerei - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Gewerbehof Saarbrücker Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Bebauungsplanentwurf XIX-17 für die Grundstücke Buchholzer Straße 66, 69 (teilweise) im Bezirk Pankow, Ortsteil Niederschönhausen - Änderung des Geltungsbereiches - Änderung der Planungsziele - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Schließung der Außenstelle der Bezirkskasse im OT Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Regelungen über die Nutzung und Zuständigkeit der bisher als Kleingartenanlage "Parksiedlung" im Ortsteil Französisch-Buchholz und "Schildow-Waldeck" im Ortsteil Blankenfelde genutzten landeseigenen Grundstücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Vorhabenbezogener Bebauungsplan XVIII-VE-1 für die Grundstücke Malchower Chaussee 6, 10 und Piesporter Straße 38, 38 a und 38 b im Bezirk Pankow, OT Stadtrandsiedlung Malchow - mit Abschlussbericht zur Kenntnis genommen
