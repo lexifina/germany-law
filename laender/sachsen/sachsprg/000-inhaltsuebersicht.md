@@ -1,4 +1,3 @@
-## Gesetz über den privaten Rundfunk und neue Medien in Sachsen (Sächsisches Privatrundfunkgesetz – SächsPRG)
 # Inhaltsübersicht
 1. Abschnitt Allgemeine Bestimmungen
 § 1 Anwendungsbereich
