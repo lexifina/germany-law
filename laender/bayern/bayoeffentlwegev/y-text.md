@@ -1,0 +1,1 @@
+Auf Grund des Art. 54 Abs. 6 des Bayerischen Straßen- und Wegegesetzes (BayStrWG) erläßt das Bayerische Staatsministerium des Innern im Einvernehmen mit dem Bayerischen Staatsministerium für Ernährung, Landwirtschaft und Forsten folgende Verordnung:
