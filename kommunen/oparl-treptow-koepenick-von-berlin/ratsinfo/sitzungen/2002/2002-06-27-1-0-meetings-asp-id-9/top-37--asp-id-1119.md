@@ -1,0 +1,8 @@
+# TOP 37: Bebauungsplan XVI-10a-1 im Bezirk Treptow-Köpenick; Verordnung über die Festsetzung des Bebauungsplans XVI-10a-1 im Bezirk Treptow-Köpenick
+
+- Sitzung: 8. (ordentliche) Sitzung der Bezirksverordnetenversammlung (2002-06-27)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=1119
+- Ergebnis: ohne Änderungen in der BVV beschlossen
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=1119
