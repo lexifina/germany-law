@@ -1,0 +1,62 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2004-11-12T16:04:00+01:00
+- Ende: 2004-11-12T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/185
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/185
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 0: Anf. Stv. Zander Betr.: Ein-Euro-Jobs b. d.Verw.
+- TOP 0: Stand Verfahren Kreiswasserwerke
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Vorprüfung Gültigkeit Wahl
+- TOP 6: Errichtung einer Synagoge in Neuss
+- TOP 7: Wahl d. Ausschussmitglieder u. Stellvertr.
+- TOP 8: Bildung und Besetzung des Ältestenrates
+- TOP 9: Wahl v. Stv in den Umlegungsausschuss
+- TOP 10: Bild. AG Gebühren (RAT121104-01981.doc)
+- TOP 11: Ben. Ausw.grem. Invest.wetbew. Rennb.gel.
+- TOP 12: Wahl Integrationsrat
+- TOP 13: Vertr. Stadt Neuss Verw.r. Lukaskrankenh.
+- TOP 14: Vertr. Stadt Neuss Aufsichtsr. der Stadtw. N.
+- TOP 15: Vertr. St.t Neuss Aufs.r. SWN Energie u.Wasser
+- TOP 16: Drittgr.: Verb.vers. Zweckverb. VRR Ge.vers.KMN
+- TOP 17: Vertr. Stadt Neuss Aufsichtsrat REGIOBAHN
+- TOP 18: Vert. Stadt Neuss Aufs.r. Verk.ges. Kreis Neuss
+- TOP 19: Vertr. Stadt Neuss Ges.vers. u. Aufs.rat AWL
+- TOP 20: Vertr. Stadt Neuss Aufsichtsr. Neusser Bauv. AG
+- TOP 21: Vertr. Stadt Neuss NTTG - Stadthallenkom.
+- TOP 22: Vertr. Stadt Neuss Verb.vers. SKzweckverb. u.a.
+- TOP 23: Vertr. Stadt Neuss Kur. Jubiläumsst. SK u.a.
+- TOP 24: Drittgr.: Verb.vers. Rh. Spark.- u. Giroverb.
+- TOP 25: Vertr. Stadt Neuss Verw.r. Berufsbildungswerk
+- TOP 26: Vertr. Stadt Neuss Verw.r. GWN
+- TOP 27: Vertr. Stadt Neuss Aufsichtsr. N.-D.dorfer Häfen
+- TOP 28: Vertr. Stadt Neuss Aufs.r. N. Bäder u. Eissporth.
+- TOP 29: Drittgr.: Verb.vers. Zw.verb.KDVZ Neuss
+- TOP 30: Drittgr.: Aufsichtsrat der Kreiswerke Grevenbr.
+- TOP 31: Drittgr.: Del.vers. d. Erftverbandes
+- TOP 32: Drittgr.: Erbent. d. Deichverb. Meerbusch-Lank
+- TOP 33: Drittgr.: Deicha./ Erbent. d. D.verb. Uedesh.
+- TOP 34: Drittgr.: Aussch. d. Wasser- u. B.verb. Nordk.
+- TOP 35: Drittgremien,hier: Berufsschulbeirat
+- TOP 36: Drittgr. Landesverb. d. VHS NRW e.V.
+- TOP 37: Drittgr.: Kuratorium d. Stiftung Insel Hombr.
+- TOP 38: Drittgr.: Ver. RLT / Th. am Niederrh. - N.
+- TOP 39: Drittgr.: Vorst. Dt. Kammerak. Neuss
+- TOP 40: Drittgr.: Flughafenbeirat
+- TOP 41: Drittgr.: Braunkohlenausschuss
+- TOP 42: Haushalt 2005, Entw. HHP u H.h.satz.
+- TOP 43: Haush. 2005, Invest.pr. 2004- 2008 u. Finanzpl.
+- TOP 44: Sitzungskal. d. Rates u. s. Ausschüsse für 2005
+- TOP 45: Einwohnerfragestunde
