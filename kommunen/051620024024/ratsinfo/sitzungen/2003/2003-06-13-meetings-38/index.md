@@ -1,0 +1,52 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2003-06-13T16:00:00+02:00
+- Ende: 2003-06-13T20:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/38
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/38
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Flurdecke des Nelly-Sachs-Gymnasiums
+- TOP 2: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 3: Architektenwettbewerb Clemens-Sels-Museum
+- TOP 4: Genehmigung der Tagesordnung
+- TOP 5: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 6: Verk. Beteil. SWN an d. DSM
+- TOP 7: Gen. DE Nr. 87: Pfleges. Herz-Jesu
+- TOP 8: Einwohnerfragestunde
+- TOP 9: Aufstellung B-Plan 390 (ISR)
+- TOP 10: Schlussber. d. AG Aufgabenkritik
+- TOP 11: Aufstellung FNP-Änderung 98 (ISR)
+- TOP 12: Planfeststellungsverfahren A57
+- TOP 13: 1. Verlängerung Veränderungssperre 25
+- TOP 14: 1. Verlängerung Veränderungssperre 26
+- TOP 15: SPD: Verw. d. Förderm. f. d. off. Ganztagssch
+- TOP 16: B-plan Nr. 17/2 - Gewerbegeb. Hoisten
+- TOP 17: Übertragung von Entsorgungsaufgaben
+- TOP 18: FDP: Neuss, e. seniorenfreundl. Stadt?
+- TOP 19: FDP: Transp. Vorstandsbez. städt. Untern. u.ä.
+- TOP 20: FDP: Verbess. d. Haushalts
+- TOP 21: UA/PDS: Planung Omnibusbahnhof
+- TOP 22: UA/PDS : Einf. e. neuen Stadt-Logos
+- TOP 23: UA/PDS: Stadt-Umland Verband
+- TOP 24: UA/PDS: WTB-Turm im Hammfeld
+- TOP 25: UA/PDS: Straßenbahnlinie U 81
+- TOP 26: UA/PDS: Case-Gelände)
+- TOP 27: Stv. London: Sportinfrastr. Rosellen
+- TOP 28: UA/PDS: Dt. Städtetag in Mannheim
+- TOP 29: UA/PDS: Repräs. d. Stadt Neuss im Landtag
+- TOP 30: UA/PDS: Friedensgipfel d. CDU m. Bürgerm.
+- TOP 31: UA/PDS: Umgest. d. Bürgergesellschaft
+- TOP 32: UA/PDS: K8n - Akteneinsicht
+- TOP 33: Stv. Klinkicht: Leerstand Friedrichstr. 8
+- TOP 34: Stv. Dr. Köppen: Kosteneinsp. d. Open Source?
+- TOP 35: Stv. Riedl: Schulsp. Geschw.-Scholl-Sch.
+- TOP 36: Einwohnerfragestunde
+- TOP 37: Stv. Klinkicht: Leerstand Finkenstr. 40
+- TOP 38: Steuerschätzung 2003 - 2007 (RAT130603-00446.doc)
