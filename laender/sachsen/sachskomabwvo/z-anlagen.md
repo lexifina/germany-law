@@ -1,4 +1,4 @@
-Anlage 1
+Anlage 1 (zu § 2 Abs. 1 Satz 1)
 Anlage 1
 Lfd. Nr. | Talsperre (TS)/Speicher (Sp.)/ Revierwasserlaufanstalt (RWA) | Bemerkung
 Lfd. Nr. | Talsperre (TS)/Speicher (Sp.)/ Revierwasserlaufanstalt (RWA) | Bemerkung
