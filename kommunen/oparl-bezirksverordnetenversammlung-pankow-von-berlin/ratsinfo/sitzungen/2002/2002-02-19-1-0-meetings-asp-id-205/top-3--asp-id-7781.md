@@ -1,0 +1,7 @@
+# TOP 3: Bericht aus dem Bezirksamtes
+
+- Sitzung: 2. öffentliche Sitzung des Ausschusses für Schule und Sport (2002-02-19)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=7781
+- Ergebnis: im Ausschuss abgelehnt
