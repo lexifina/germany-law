@@ -1,3 +1,4 @@
-# Verordnung des Sächsischen Staatsministeriums für Kultus über die Lehrerkonferenzen (Lehrerkonferenzordnung – LKonfO)
+# Verordnung des Sächsischen Staatsministeriums für Kultus über die Lehrerkonferenzen (Lehrerkonferenzverordnung – LKonfVO)
 Vom 12. Juli 1994
-Aufgrund von § 44 Abs. 3 des Schulgesetzes für den Freistaat Sachsen (SchulG ) vom 3. Juli 1991 (SächsGVBl. S. 213) wird verordnet:
+Rechtsbereinigt mit Stand vom 1. August 2004
+Aufgrund von § 44 Abs. 3 des Schulgesetzes für den Freistaat Sachsen (SchulG) vom 3. Juli 1991 (SächsGVBl. S. 213) wird verordnet:
