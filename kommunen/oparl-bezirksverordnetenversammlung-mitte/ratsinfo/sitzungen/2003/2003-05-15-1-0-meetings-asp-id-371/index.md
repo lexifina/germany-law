@@ -1,0 +1,119 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2003-05-15T17:30:00+02:00
+- Ende: 2003-05-15T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=371
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=371
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=33628
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - (offen)
+- TOP 2: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Grünfläche vor dem Reichstag
+- TOP 3.2: Benennung der Jugendfreizeiteinrichtung Demminer Straße nach Olof Palme
+- TOP 3.3: Drucksache 0211/II
+- TOP 3.4: Baumfällung in der Föhrer Straße
+- TOP 3.5: Harte Zeiten im Sozialamt?
+- TOP 3.6: Grundstück Jülicher-/ Behmstraße
+- TOP 3.7: Bauarbeiten
+- TOP 3.8: Regenbogenfahnen zum CSD (1)
+- TOP 3.9: Einrichtung eines Drogenkonsumraums im Bezirk
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: 50.000 Euro aus bezirklichen Mitteln für die Sommerbewirtschaftung von Kneipen am Schiffbauerdamm?
+- TOP 5.2: Internetdomainnamen
+- TOP 5.3: Gesundheitsmanagement
+- TOP 5.4: Kulturamt und Bezirkshaushalt - Vergabe des Max-Beckmann-Saales
+- TOP 5.5: Sprachstandsmessung
+- TOP 5.6: Verkehrskonzept Spandauer Vorstadt
+- TOP 5.7: Arbeitsmarktpolitische Maßnahmen
+- TOP 5.8: Finanzausstattung der Bezirke
+- TOP 5.9: Miniermottenbekämpfung
+- TOP 5.10: EU-Programm-Koordination
+- TOP 5.11: Zukunft der Arminius-Markthalle in Moabit
+- TOP 5.12: Mitschuld an der Berliner Ausbildungsmisere
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 6.1: Wahl des Beirates in Sozialhilfeangelegenheiten
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 7.1: Genehmigung der im Haushaltsjahr 2001 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtigungsermächtigungen
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Bebauungsplan II-161 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans II-161
+- TOP 8.2: Fortschreibung des Rahmenplanes für das förmlich festgesetzte Sanierungsgebiet Spandauer Vorstadt im Bezirk Mitte von Berlin
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Gesundheitsstandort - Moabit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2: Gegen häusliche Gewalt gegen Frauen II - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.3: Zusammenfassung von Strukturen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.4: Bezirklicher Leitfaden gegen häusliche Gewalt gegen Frauen III - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.5: Drogenkonsumräume - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.6: Gegen häusliche Gewalt gegen Frauen (IV)
+- TOP 9.7: Miniermottenbekämpfung
+- TOP 9.8: Krankenhausbeirat
+- TOP 9.9: Sicherung von Wohnnutzungen im Bezirk Mitte
+- TOP 9.10: Koordinierung des Angebots des Nachtcafés
+- TOP 9.11: Kältehilfe
+- TOP 9.12: Sanierungsbedarf für Gebäude der 11. Grundschule Mitte
+- TOP 9.13: Konzept der AG "Hunde in der Großstadt" im Quartiersmanagement Moabit West
+- TOP 9.14: Fahrradstellplätze Lehrter Bahnhof
+- TOP 9.15: Behindertengerechte Aufzüge U-Bahn Amrumer Straße
+- TOP 9.16: Dubiosen Hospizbetreiber verhindern!
+- TOP 9.17: Hochschulmedizin/ Klinikstandorte in Mitte
+- TOP 9.18: Konzepterstellung für die Errichtung eines Drogenkonsumraums
+- TOP 9.19: Zugang zum Neuen Stadthaus über Am Jüdenhof
+- TOP 9.20: 50 Jahre 17. Juni
+- TOP 9.21: Konsequente Einbeziehung des Frauenbeirates in die Stadtplanung
+- TOP 9.22: Konzept für eine bürger/innenfreundliche Beschwerdestelle/ alt: Drucksache Nr. 99/I
+- TOP 9.23: - Aufstellung des Bebauungsplanes 1-7B im Bezirk Mitte, Ortsteil Moabit, - die Durchführung der frühzeitigen Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB)
+- TOP 9.24: Liegenschaftsfonds/ alt Drucksache Nr. 32/I
+- TOP 9.25: Ergebnis der Auswertung der Beteiligung der Träger öffentlicher Belange gemäß § 4 BauGB zum Bebauungsplanentwurf III-237b für das Grundstück Wolliner Straße 25-26 im Bezirk Mitte, Ortsteil Wedding
+- TOP 9.26: Rungestraße 10, Prüfung auf Denkmaleigenschaft nach § 2 Denkmalschutzgesetz
+- TOP 9.27: Krankenhaus Moabit/ alt Drucksache Nr. 195/I
+- TOP 9.28: Gesundheitszentrum Krankenhaus Moabit/ alt Drucksache Nr. I/294
+- TOP 9.29: Bericht über Drogenkonsumräume/ alt Drucksachen Nr. I/ 537
+- TOP 9.30: Anwendung von Antragsprüfkriterien für das Erhaltungsverordnungsgebiet gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB "Friedrich-Wilhelm-Stadt" im Bezirk Mitte von Berlin
+- TOP 9.31: Einschränkung der Geltungsbereiche des Bebauungsplanentwurfes II-170 und des Bebauungsplanes II-171, die Erweiterung des Geltungsbereichs des Bebauungsplanes 1-4 im Bezirk Mitte, Ortsteil Tiergarten, die Auswertung der frühzeitigen Bürgerbeteiligunggemäß § 3 Abs. 1 BauGB die Durchführung der Beteiligung der Träger öffentlicher Belange
+- TOP 9.32: Betriebliche Abfallwirtschaft 2002 im Bezirksamt Mitte von Berlin
+- TOP 9.33: Eckwertebeschluss zur Aufteilung des Übergangsbudgets bzw. Produktsummenbudgets (nur A-Teil), der Einnahmevorgaben und der Zuweisungen für Transferausgaben in Vorbereitung des Doppelhaushaltsplans 2004/2005
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Imbissstand erhalten
+- TOP 10.2: Umgestaltung des Schul- und Sportgeländes Neues Ufer
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Sportstättenentwicklungsplan
+- TOP 11.2: Umsetzung des Armutsberichts
+- TOP 11.3: Vorklassen retten!
+- TOP 11.4: Zwischennutzung am Checkpoint Charlie muss der historischen Bedeutung des Ortes gerecht werden
+- TOP 11.5: Bericht zur Kooperation zwischen LuV Jugend und der Polizei
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Obdachlosenarbeit regionalisieren
+- TOP 12.2: Wahl eines stellvertretenden Bürgerdeputierten
+- TOP 12.3: Arbeit der Drogenkonsumräume in Moabit; Zugangsberechtigungen
+- TOP 12.4: Metropoltheater
+- TOP 12.5: Öffentliches Geld für öffentliche Nutzung - keine bezirklichen Mittel für Umbaumaßnahmen zur Sommerbewirtschaftung von gastronomischen Einrichtungen am Schiffbauerdamm
+- TOP 12.6: Modifizierung des Bezirksamtsbeschlusses 73/81 des BA Wedding
+- TOP 12.7: Leitlinien für die kommunale Kulturarbeit im Bezirk Mitte
+- TOP 12.8: Beschlüsse zum Doppelhaushalt 2004/05 und Projekt Eigenbetrieb Öffentliche Bibliotheken
+- TOP 12.9: Historische Bezirksamtsbeschlüsse
+- TOP 12.10: Konzept Patenschaft zur Mittelstreifenbegrünung
+- TOP 12.11: Einjährige Vertragslaufzeiten
+- TOP 12.12: Budgetierungsergebnisse 2002
+- TOP 12.13: Kooperationsverträge zur Sanierung von bezirklichen Einrichtungen
+- TOP 12.14: Sozialraumorientierte und kleinräumige Datenerfassung
+- TOP 12.15: Bezirklichen Ausländeranteil bei der Finanzzuweisung berücksichtigen
+- TOP 12.16: Wochenendsperrung der John-Foster-Dulles-Allee für den motorisierten Individualverkehr
+- TOP 12.17: Gefahrenstelle Bornholmer Straße 44
+- TOP 12.18: Regenbogenfahnen zum CSD (2)
+- TOP 12.19: Essen in Bio-Qualität in Schulen
+- TOP 12.20: Effizienzsteigerung durch Outsourcing hier: Gebäudedienstleistungsmanagement
+- TOP 12.21: Umsetzung des § 5 des Interessenausgleichs durch Berliner Immobilienmanagement GmbH (BIM)
+- TOP 12.22: Keine existenzbedrohenden Einsparungen an den Unis
+- TOP 12.23: Transparenz der bezirklichen Verwaltung - Geschäftsverteilungspläne für die Abteilungen des Bezirksamtes vorlegen
