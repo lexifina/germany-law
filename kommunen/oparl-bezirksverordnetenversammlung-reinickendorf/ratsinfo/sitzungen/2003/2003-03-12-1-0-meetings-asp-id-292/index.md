@@ -1,0 +1,102 @@
+# 15. Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2003-03-12T17:00:00+01:00
+- Ende: 2003-03-12T21:45:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=292
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=292
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - im Ausschuss abgelehnt
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: (nichtöffentlich) - in der BVV abgelehnt
+- TOP 2.2: (nichtöffentlich) - in der BVV abgelehnt
+- TOP 2.3: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 2.4: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 2.5: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - (offen)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Feststellungen - (offen)
+- TOP 5.1: (nichtöffentlich) - erledigt
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Nutzung der Musikschule - überwiesen
+- TOP 6.2: Projekt "Erstausbildung in Teilzeit für junge Mütter" in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Jugendhilfeplanung KJHG - überwiesen
+- TOP 6.4: Kita-Kürzungen im Haushaltsgesetz für die Jahre 2002/2003 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: Auswirkungen der LKW-Maut auf die Reinickendorfer Bevölkerung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Informationsangebot über freie Träger im Kita-Bereich - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Kooperation für Publikationen des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Instrumenten-Sponsoring an der Musikschule - überwiesen
+- TOP 6.9: Vermietung der VHS-Computerräume an Dritte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.10: Vertretung Reinickendorfer Anglerinteressen bei der Festlegung der Hegebezirke und der Gründung der Hegegenossenschaften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.11: Veranstaltungsprogramm für den "Reinickendorfer Sommer" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.12: Unfallschwerpunkt entschärfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.13: Konsequentes Rauchverbot in Kitas - überwiesen
+- TOP 6.14: Finanzierung der Digital-TV-Decoder im Sozialhilfeetat den Bezirken abfedern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.15: Kampanie: "Rettet die Reinickendorfer Kastanien" (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.16: Biotonnen erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.17: Fortführung des Reinickendorfer Sommers - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.18: Sondernutzungsverträge / Residenzstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.19: Verantwortung des Senats zur Förderung der Wirtschaft - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.20: Halteverbot am Robinienweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.21: Aufstellung des Bebauungsplans 12-6 für das Grundstück Quickborner Straße 111/119 sowie einen Abschnitt der Quickborner Straße im Bezirk Reinickendorf, Ortsteil Lübars - überwiesen
+- TOP 6.22: Aufstellung des Bebauungsplanes 12-7 B - überwiesen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Lernmittel - vertagt
+- TOP 7.2: Verbraucherschutz stärken, Verbraucherinnen/Verbraucher besser informieren - schriftlich beantwortet
+- TOP 8: (nichtöffentlich) - (offen)
+- TOP 8.1: Entwurf des Bebauungsplanes XX-238 - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Wahl einer/eines Bezirksbehindertenbeauftragten - zurückgezogen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Ausweisung von Schriftücken in männlicher und weiblicher Form - erledigt
+- TOP 9.3: Halbjährlicher Bericht an die BVV über Trägerwechsel im Bezirksamt - in der BVV abgelehnt
+- TOP 9.4: Bezirkshaushaltsrechnung für das Haushaltsjahr 2001 - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Kostensenkung zustimmen - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Vorbereitungen zum Bezirkshaushalt 2004 - in der BVV abgelehnt
+- TOP 9.7: Programm-Konzept "Reinickendorfer Sommer" - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Arbeits- und Sozialamt unter einem Dach - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Bevorzugte Anschaffung von erdgasbetriebenen Fahrzeugen - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Geldleistung statt Sachleistung nach § 3 Asylbewerberleistungsgesetz - vertagt
+- TOP 9.11: Unterstützung des Konzepts "Arbeits- und Sozialamt unter einem Dach" - ohne Änderungen in der BVV beschlossen
+- TOP 10: Anträge - (offen)
+- TOP 10.1: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Warmwasserbereitung in Bezirksgebäuden - überwiesen
+- TOP 11.2: Schulstationen - vertagt
+- TOP 11.3: Bessere Beschilderung der Behindertenberatungszentrale - überwiesen
+- TOP 11.4: Bürgerbeteiligung am Tourismuskonzept - überwiesen
+- TOP 11.5: (nichtöffentlich) - vertagt
+- TOP 11.6: (nichtöffentlich) - überwiesen
+- TOP 11.7: Kosten sparen - Einnahmen erzielen - überwiesen
+- TOP 11.8: Gewährung von Hilfen zur Erziehung - überwiesen
+- TOP 11.9: Reinickendorfer Hotels für Umstellung auf erneuerbare Energien gewinnen - überwiesen
+- TOP 11.10: Öffentliche Ausschreibung der Jugendeinrichtungen - überwiesen
+- TOP 11.11: Beteiligung der Musikschule am Reinickendorfer Sommer - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: VHS-Programm: Kurse gegen Schlafstörungen - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Schnell reagieren - Roncalli-Markt nach Tegel holen - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: (nichtöffentlich) - überwiesen
+- TOP 11.15: "Krieg und Frieden" - ein Wettbewerb für Reinickendorfer Schulen - überwiesen
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Faxgerät für Gehörlose und Stumme - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: (nichtöffentlich) - vertagt
+- TOP 12.3: "Babycare" - Frühgeburtenverhinderung möglichst flächendeckend - überwiesen
+- TOP 12.4: Tempo-30-Zone am Hermsdorfer Damm - überwiesen
+- TOP 12.5: (nichtöffentlich) - vertagt
+- TOP 12.6: Park & Ride-Möglichkeit am S-Bahnhof Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Impfungen Jugendlicher Reisender mit Meningokokken-Impfstoff für Reisen in europäische Länder - überwiesen
+- TOP 12.8: Grüner Pfeil Frohnauer Straße/Ecke Hermsdorfer Damm - überwiesen
+- TOP 12.9: Straßenbeleuchtung an den Bushaltestellen - überwiesen
+- TOP 13: Auflistung zu ehrender Personen - in der BVV abgelehnt
+- TOP 14: Westanbindung des ABB-Geländes - in der BVV abgelehnt
+- TOP 15: Neue Aktivitäten des Bezirksamtes für eine Gestaltung der Insel im Tegeler Hafen - in der BVV abgelehnt
+- TOP 16: Straßenfest in der Gorkistraße - ohne Änderungen in der BVV beschlossen
+- TOP 17: 50 Jahre 17. Juni 1953 - ohne Änderungen in der BVV beschlossen
+- TOP 18: Keine Erhöhung der Kita-Gebühren - überwiesen
+- TOP 19: Fortsetzung des Schul- und Sportstättensanierungsprogramms - ohne Änderungen in der BVV beschlossen
+- TOP 20: Videoüberwachung auf S- und U-Bahnhöfen - in der BVV abgelehnt
