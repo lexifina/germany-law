@@ -4,11 +4,11 @@ Scan: https://www.digitale-sammlungen.de/view/bsb10518698?page=156 (Bayerische S
 
 ---
 
-' 5. 80.
+§. 80.
 
 Der Kaiſer hat das Recht des Geſezvorſchlages. Er übt die geſeßgebende Gewalt in Gemeinſchaft mit dem Reichstage unter den verfaſſungsmäßigen Beſchränkungen aus. Er verkündigt die Reichsgeſeze und erläßt die zur Vollziehung derſelben. nöthigen Verordnungen.
 
-. S. 81.
+§. 81.
 
 In Strafſachen, welche zur Zuſtändigkeit des Reichsgerichts gehören, hat der Kaiſer das Recht der Begnadigung und Strafmilderung. Das Verbot der Einleitung oder Fortſezung von Unterſuchungen kann der Kaiſer nur mit Zuſtimmung des Reichstages erlaſſen. 3
 
@@ -18,7 +18,7 @@ SF. 82. ;
 
 Dem Kaiſer liegt die Wahrung des Reichsfriedens ob.
 
-S. 83.
+§. 83.
 
 Der Kaiſer hat die Verfügung über die bewaffnete Macht.
 
@@ -30,7 +30,7 @@ Abſc<nitt IV. Der Reichstag.
 
 Artikel I.
 
-SF. 385.
+§. 85.
 
 Der Reichstag beſteht aus zwei Häuſern, dem Staatenhaus und dem Volkshaus.
 

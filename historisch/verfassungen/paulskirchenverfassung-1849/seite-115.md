@@ -4,130 +4,43 @@ Scan: https://www.digitale-sammlungen.de/view/bsb10518698?page=173 (Bayerische S
 
 ---
 
-5. 87.
+§. 87.
 
-Die Zahl der Mitglieder verneint ſi ia ſotgeiipen Verhältniß:
+Die Zahl der Mitglieder vertheilt ſich nach folgendem Verhältniß:
 
-Proußen +... . 40 Mitglieder.
+| Staat | Mitglieder |
+| --- | --- |
+| Preußen | 40 Mitglieder. |
+| Oeſterreich | 38 „ |
+| Bayern | 18 „ |
+| Sachſen | 10 „ |
+| Hannover | 10 „ |
+| Würtemberg | 10 „ |
+| Baden | 9 „ |
+| Kurheſſen | 6 „ |
+| Großherzogthum Heſſen | 6 „ |
+| Holſtein (-Schleswig, ſ. Reich §. 1.) | 6 „ |
+| Mecklenburg-Schwerin | 4 „ |
+| Luxemburg-Limburg | 3 „ |
+| Naſſau | 3 „ |
+| Braunſchweig | 2 „ |
+| Oldenburg | 2 „ |
+| Sachſen-Weimar | 2 „ |
+| Sachſen-Coburg-Gotha | 1 „ |
+| Sachſen-Meiningen-Hildburghauſen | 1 „ |
+| Sachſen-Altenburg | 1 „ |
+| Mecklenburg-Strelitz | 1 „ |
+| Anhalt-Deſſau | 1 „ |
+| Anhalt-Bernburg | 1 „ |
+| Anhalt-Köthen | 1 „ |
+| Schwarzburg-Sondershauſen | 1 „ |
+| Schwarzburg-Rudolſtadt | 1 „ |
+| Hohenzollern-Hechingen | 1 „ |
+| Liechtenſtein | 1 „ |
+| Hohenzollern-Sigmaringen | 1 „ |
+| Waldeck | 1 „ |
+| Reuß ältere Linie | 1 „ |
+| Reuß jüngere Linie | 1 „ |
+| | 184 Mitglieder. |
 
-Oſterei 2 EE REIEN 72" REUS
-
-y
-
-Väayern.. "4 2 ee ue 00
-
-y
-
-Sachſen: 2104 RERE 128 SINN 2202501540
-
-y
-
-Hafiover Ti... 44 72 << 5 5.0 Ke540
-
-y
-
-Würtemberg... ie nnn nn urr
-
-[4
-
-Sen ahnen =< TF 6 69 052 IS
-
-- Baden
-
-y
-
-Kurheſſen .
-
-y
-
-Großherzogthum Heſſen „Fu.n. ;
-
-y
-
-Holſtein (-Schleswig, ſ. Reich 5. 1.)
-
-[4
-
-Mecklenburg- Schwerin <zu
-
-y
-
-Luremburg-Limburg
-
-y
-
-Naſſau
-
-y
-
-Braunſchweig
-
-[4
-
-Oldenburg
-
-y
-
-Sachſen-Weimar
-
-y
-
-Sachſen - Coburg - Gotha . .
-
-y
-
-Sachſen - Meiningen - "Siöwbyrghauſen ;
-
-y
-
-Sachſen - Altenburg .
-
-y
-
-Medlenburg- Streliz .
-
-y
-
-Anhalt-Deſſau .
-
-vy
-
-Anhalt - Bernburg
-
-y
-
-Anhalt-Köthen .
-
-y
-
-Schwarzburg - Sonbeishauſen. en
-
-y
-
-Schwarzburg - Rudolſtadt .
-
-y
-
-Hohenzollern - Hechingen .
-
-[4
-
-Liechtenſtein .
-
-y
-
-HobeizellerivSigiätingen
-
-v
-
-Waldek
-
-y
-
-Reuß ältere Unie .
-
-y
-
-Reuß jüngere Linie
-
-54 Mitglieder,
+(Die Kopfzeile „Staat | Mitglieder“ ist nicht gedruckt; im Druck stehen Namen und Zahlen mit Punktlinien.)

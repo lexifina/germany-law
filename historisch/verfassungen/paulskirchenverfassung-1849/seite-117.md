@@ -10,7 +10,7 @@ In denjenigen "Staäten / welche “nur "Ein Mitglied ' in däs Staatenhaus'" fe
 
 Auf dieſelbe Weiſe iſt in denjenigen Stagten. le eine ungerade Zahl von Mitgliedern ſenden, in Betreff des /letten« derſelben zu. verfahren.
 
-SF. 90.
+§. 90.
 
 Wenn mehrere deutſche Staaten zu einem Ganzen verbunden werden, ſo entſcheidet ein Reichsgeſeß über die dadurch etwa nothwendig werdende - Abänderung 11 in der Zuſammenſeßung des Staatenhauſes.
 
@@ -30,13 +30,13 @@ Wird nach Ablauf dieſer'«drei» Jahre: und vor Vollendung - neuen ; Wahlen fü
 
 " "Artikel ür.' V
 
-C. 93.
+§. 93.
 
 H 'KL15
 
 Das Volkshaus beſteht aus den Abgeordneten des deutſchen Volkes.
 
-S. 94.
+§. 94.
 
 Die Mitglieder des Volkshaäuſes werden" füt vas eiſe 'Mal auf vier Jahre, deme nächſt immer auf drei "Jähre gewählt.“
 

@@ -20,7 +20,7 @@ geſchloſſen werden ſollen. 7) Wenn deutſche Landestheile abgetreten, oder w
 
 einverleibt oder auf andere Weiſe mit demſelben verbunden werden ſollen:
 
-S.: 103.
+§. 103.
 
 Bei Feſtſtellung des Reichshaushaltes treten folgende Beſtimmungen ein: 1) Alle die Finanzen betreffenden Vorlagen der Reichsregierung gelangen zunächſt 'an
 

@@ -4,11 +4,11 @@ Scan: https://www.digitale-sammlungen.de/view/bsb10518698?page=135 (Bayerische S
 
 ---
 
-S. 132.
+§. 132.
 
 Jeder Deutſche hat das deutſche Reichsbürgerrecht. Die ihm Kraft deſſen zuſtehenden Rechte kann er in jedem deutſchen Lande ausüben. Ueber das Recht, zur deutſchen Reichsverſammlung zu wählen, verfügt das Reichswahlgeſeß. -
 
-FS. 133.
+§. 133.
 
 Jeder. Deutſche hat das Recht, an jedem Orte des Neichsgebietes ſeinen Aufenthalt und Wohnſitz zu nehmen, Liegenſchaften jeder Art zu erwerben und darüber zu verfügen, jeden Nahrungszweig zu betreiben, das Gemeindebürgerrecht zu gewinnen.
 
@@ -18,7 +18,7 @@ S8. 134.
 
 Kein deutſcher Staat darf zwiſchen ſeinen Angehörigen und andern Deutſchen einen Unterſchied im bürgerlichen, peinlichen und Prozeß- Rechte machen, welcher die letzteren als Ausländer, zurückſeßt.
 
-FS. 135.
+§. 135.
 
 Die Strafe des bürgerlichen Todes ſoll nicht ſtattfinden, und da, wo ſie.bereits - ausgeſprochen iſt, in ihren Wirkungen aufhören, ſoweit. nicht hierdurch. erworbene- Privatrechte verletzt werden. : S. 136.
 
@@ -28,7 +28,7 @@ Die Auswanderungsangelegenheit ſteht unter dem Schuße und der Fürſorge des R
 
 Artikel 11.
 
-6.137.
+§. 137.
 
 Vor dem Geſeke gilt kein Unterſchied der Stände, Der Adel als Stand iſt aufgehoben.
 

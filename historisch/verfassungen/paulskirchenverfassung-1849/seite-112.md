@@ -10,17 +10,17 @@ Die Reichsgewalt if befugt, wenu ſie zm Geſammtintereſſe Deutſchlapds gemei
 
 Der Reichsgewalt liegt es ob, durch die Erlaſſung allgemeiner Geſegbücher über bürgerliches Recht, Handel8s- und Wechſekrecht, Strafrecht und gerichtliches Verfahren die Rechtseinheit im deutſchen Volke zu begründen.
 
-SF. 65.
+§. 65.
 
 Alle Geſeße und Verordnungen der Reichsgewalt erhalten verbindliche Kraft dir ihre Verkündigung von Reichswegen.
 
-6. 66.
+§. 66.
 
 Reichsgeſeze gehen den Geſezen der Einzelſtaaten vor, infofern ihnen micht atusdrücklich eine nur ſubſidiäre Geltung beigelegt iſt.
 
 Artikel XIV.
 
-S. 67.
+§. 67.
 
 Die Anſtellung der Reichsbeamten geht yom Reiche aus.
 
@@ -30,15 +30,15 @@ Abſchnitt 111. Das Reichsoberhaupt.
 
 Artikel 1.
 
-CS. 68.
+§. 68.
 
 Die Würde des Reichsoberhauptes wird einem der regierenden- deutſchen Fürſten übertragen...
 
-CF. 69.
+§. 69.
 
 Dieſe Würde iſt erblich im Hauſe des Fürſten, dem fie übertragen worden. Sie vererbt im Mannsſtamme nach dem Rechte der Erſtgeburt.
 
-8. 70.
+§. 70.
 
 Das Reichsoberhaupt führt den Titel: Kaiſer der Deutſchen.
 

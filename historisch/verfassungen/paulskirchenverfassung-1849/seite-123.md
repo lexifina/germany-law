@@ -4,7 +4,7 @@ Scan: https://www.digitale-sammlungen.de/view/bsb10518698?page=171 (Bayerische S
 
 ---
 
-S. 126.
+§. 126.
 
 Zur Zuſtändigkeit des Reichsgerichts gehören: a) Klagen eines Einzelſtaates gegen die Reichsgewalt wegen Verletzung der Reichs-
 

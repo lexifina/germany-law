@@ -20,7 +20,7 @@ Der Reichstag, verſammelt. ſich jedes. Jahr. „am, Siße, „der. .Reichsregi
 
 Außerdem. kann der.Reichstag, zu „außerordentlichen Sitzungen jederzeit vom. Reichsoberhaupt einberufen werden.
 
-SF. 105.
+§. 105.
 
 Die ordentlichen Siküngsperioden'der' Landtage in" den “Einzelſtäaten ſollen mit denen..des. Reichstages . in. der „Regel: nicht. zuſammenfallen. .. Das Rährre;; bleibt: einem Reichsgeſez vorbehalten.
 
@@ -30,7 +30,7 @@ Das Volkshaus kann durch das Reichsoberhaupt aufgelöſt werden,
 
 In. dem Falle der Auflöſung iſt der Reichstag binnen, drei Monaten wieder zu verſammeln.
 
-"sS 107.
+§. 107.
 
 „Die Auflöfung des jp Suthanils hat 'die gleichzeitige Vertagung des Staatenhauſes bis zur Wiederberufung des Reichstages zur Folge.
 
@@ -38,6 +38,6 @@ Die Sißungöperioden beider Häuſer ſind dieſelben.
 
 Das Ende ir Situngsperiode des Reichstages wird vom Keigoverhaun beſtimmt.
 
-; ' FS. 109.
+§. 109.
 
 - Eine „Bittahſig des'Reichstages-'oder“ eines“ der beiden" Häuſer dutch)v das Reichsoberhaupt bedarf, wenn fie nach Eröffnung der Sißung auf länger“als vierzehn Tage ausgeſprochen werden foll, der Zuſtimmung des 'Reichstages "öder des betreffenden Hauſes. 1.4 Aich ber Reichstäg"felbſt (6 Ane his der "beiden" h Sſiſehn ih Kip auf vierzehn Töhſe VertaFeht di 9 NO Ae OF ENTEN « 3 DIN

@@ -8,19 +8,19 @@ So oft ſich der Kaiſer nicht am Siße der Reichsregierung befindet, muß einer
 
 Die Beſtimmungen über den Siß der Reichöregierung bleibe einem Röichögeſeh vorbehalten.
 
-6.'72.
+§. 72.
 
 Der Kaiſer bezieht eine Civilliſte, welche der Reichstag feſtſekt.
 
 Artikel Il.
 
-6. 73.
+§. 73.
 
 Die Perſon des Kaiſers iſt unverleßlich.
 
 Der Kaiſer übt die ihm Übertragene Gewalt durc<h verantwortliche von ihm ernannte Miniſter aus.
 
-Ss. 74.
+§. 74.
 
 Alle Regierungshandlungen des Kaiſers bedürfen zu ihrer Gültigkeit der Gegenzeichnung von wenigſtens einem der Reichsminiſter, welcher dadurch die Verantwortung übernimmt.
 
@@ -30,18 +30,18 @@ Artikel I11.
 
 Der Kaiſer übt die völkerrechtliche Vertretung des deutſchen Reiches und der einzelnen deutſchen Staaten aus. Er ſtellt" die Reichsgeſandten und die Conſuln an und führt den diplomatiſchen Verkehr. >
 
-' 5. 76.
+§. 76.
 
 Der Kaiſer: erklärt Krieg und ſchließt Frieden.
 
-8. 77.
+§. 77.
 
 Der Kaiſer ſchließt die Bündniſſe und Verträge mit den auswärtigen Mächten ab, . und zwar unter Mitwirkung des Reichstages, inſoweit dieſe in der Yeiſaſſung vorbehalten iſt.
 
-S. 78.
+§. 78.
 
 Alle Verträge nicht rein privatrechtlihen Inhalts, welche deutſche Regierungen unter ſic) oder mit auswärtigeu Regierungen abſchließen, ſind dem Kaiſer zur Kenntnißnahme, und inſofern das Reichsintereſſe dabei betheiligt iſt, zur Beſtätigung vorzulegen.
 
-5 79.
+§. 79.
 
 Der Kaiſer beruft und ſpter den Reichstag; er hat das Recht, das Volkshaus aufzulöſett.

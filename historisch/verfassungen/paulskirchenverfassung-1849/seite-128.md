@@ -4,11 +4,11 @@ Scan: https://www.digitale-sammlungen.de/view/bsb10518698?page=146 (Bayerische S
 
 ---
 
-FS. 146.
+§. 146.
 
 Durch das religiöſe Bekenntniß wird der Genuß der bürgerlichen und ſtaatsbürgerlichen Rechte weder bedingt noch beſchränkt. Den ſtaatsbürgerlichen Pflichten darf dasſelbe keinen Abbruch thun.
 
-S. 147.
+§. 147.
 
 Jede Religionsgeſellſchaft ordnet und verwaltet ihre Angelegenheiten ſelbſtſtändig, bleibt aber den allgemeinen Staatsgeſezen unterworfen.
 
@@ -18,11 +18,11 @@ Neue Religionsgeſellſchaften dürfen ſich bilden; einer Anerkennung ihres Bek
 
 ,
 
-S. 143.
+§. 148.
 
 Niemand ſoll zu einer kir<lihen Handlung oder Feierlichkeit gezwungen werden.
 
-| FS. 149.
+§. 149.
 
 Die Formel des Eides ſoll künftig lauten: „So wahr mir Gott helfe“.
 
@@ -42,6 +42,6 @@ Artikel VI1.
 
 Die Wiſſenſchaft und ihre Lehre iſt frei.
 
-FS. 153.
+§. 153.
 
 Das Unterrichts- und Erziehungsweſen ſteht unter der Oberaufſicht des Staats, und iſt, „abgeſehen vom Religionsunterricht, der Beaufſichtigung der Geiſtlichkeit als ſolcher enthoben.

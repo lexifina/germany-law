@@ -8,7 +8,7 @@ mäßigem Wege itt demſfölden eine Regentſchaft, niedergeſett Herdeit, zu we
 
 Abgeſehen von den bereits beſtehenden Verbindungen deutſcher und nichtdeutſcher Länder "ſoll kein Staatsoberhaupt eines mnichtdeutſchen Landes zugleich zur“ Regierung eines deutſchen Landes gelangen, noch darf ein in Deutſchland regierender Fürſt, ohne ſeine deutſche Regierung abzutreten, eine fremde Krone annehmen.
 
-CS. 5.
+§. 5.
 
 Die einzelnen deutſchen Staaten behalten ihre Selbſtſtändigkeit, ſoweit dieſelbe nicht durch die Reichsverfaſſung beſchränkt iſt; ſie haben alle ſtaatlichen Hoheiten und Rechte, ſoweit dieſe nicht der Neichsgewalt ausdrücklich übertragen ſind.
 
@@ -16,7 +16,7 @@ Abſc<nitt Il. Die Reichsgewalt.
 
 ; Artikel 1. id |
 
-S. 6.
+§. 6.
 
 Die Reichsgewalt ausſchließlich übt dem Auslande gegenüber die völkerrechtliche Vertretung Deutſchlands und der einzelnen deutſchen Staaten aus,
 
@@ -28,7 +28,7 @@ Die einzelnen deutſchen Regierungen haben nicht das Recht, ſtändige Geſandte
 
 Die Abſendung von Bevollmächtigten an das Reichsoberhaupt iſt den einzelnen Regierungen unbenommen.
 
-SF. 8.
+§. 8.
 
 Die einzelnen deutſchen Regierungen find befugt, Verträge mit anderen deutſchen Regierungen abzuſchließen.
 

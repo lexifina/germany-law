@@ -4,7 +4,7 @@ Scan: https://www.digitale-sammlungen.de/view/bsb10518698?page=152 (Bayerische S
 
 ---
 
-5. 15.
+§. 15.
 
 Alle durch Verwendung von Truppen zu Reichszwecken entſtehenden Koſten, welche den durch das Reich feſtgeſezten Friedensſtand Überſteigen; fallen dem Reiche zur Laſt.
 
@@ -20,13 +20,13 @@ Für die größeren militäriſchen. Ganzen, zu denen Truppen mehrerer Staaten v
 
 Für den Krieg ernennt die Reichsgewalt die commandirenden Generale der ſelbſtſtändigen Corps, ſowie das Perſonale der Hauptquartiere,
 
-SF. 18.
+§. 18.
 
 Der Reichsgewalt ſteht die Befugniß zu, Reichsfeſtungen und Küſtenvertheidigungswerke, anzulegen, und, inſoweit die Sicherheit des Reiches es erfordert, vorhandene Feſtungen gegen billige Ausgleichung, namentlich für das überlieferte Kriegsmaterial, zu Reichsfeſtungen zu erklären.
 
 Die Reichsfeſtungen und Küſtenvertheidigungswerke des Reiches. werden auf Reichskoſten unterhalten.
 
-FS. 19.
+§. 19.
 
 Die Seemacht iſt ausſchließlich Sache des Reiches. Es iſt keinem Einzelſtaate geſtattet, Kriegsſchiffe für ſich zu halten oder Kaperbriefe auszugeben.
 

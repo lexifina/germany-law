@@ -14,7 +14,7 @@ Jedes der beiden Häuſer wählt ſeinen Präſidenten, ſeine Vieepräſidenten
 
 „Die. Sißungen „beider Häuſer ſind "öffentlich, 7. Die Geſchäftsordnung "eines “jeden Hauſes beſtimmt. unter welchen Bedingungen. vertrauliche Siſiiſiet fah fiiden können,
 
-SF. 112.
+§. 112.
 
 Jedes Haus prüft die Vollmachten ſeiner Mitglieber 1 und entſcheidet über die Zulaſſung derſelben.
 
@@ -22,7 +22,7 @@ Jedes Haus prüft die Vollmachten ſeiner Mitglieber 1 und entſcheidet über di
 
 Jedes Mitglied leiſtet» bei: ſeinem Eintritt “den Eid „Ich ahinbte die“ deutſche Reichsverfaſſung getreulich zu beobachten und aufrecht zu erhalten, ſo wahr mir Gött helfe.“
 
-5. 114.
+§. 114.
 
 „»Jedes Haus hat «das < Recht; ſeine Mitglieder wegen unwürdigen Verhaltens im Hauſe zu beſtrafen und „äußerſten Falls, auszuſchließen.- "Das Nähere beſtimmt die “Geſchäftsordnung jedes Hauſes.
 
@@ -40,6 +40,6 @@ Jedes Haus hat das Recht, ſich ſeine Geſchäftsordnung, ſelbſt... zu geben;
 
 Artikel vl: * dis
 
-S. 417.
+§. 117.
 
 Ein Mitglied des Reichstäages darf während der Dauer ver Sikungsperiode ohne Zuſtimmung des Hauſes, zu welchem es gehört, wegen ſtrafrechtlicher Anſchuldigungen weder verhaftet, noch in Unterfihung "fp0g werden, mit alleiniger Ausnahiſe der umrrjn aufs friſcher: That:iauug Anitas 50 5 ne , : 5 118.

@@ -30,18 +30,18 @@ Kein Richter darf, außer durch Urtheil und Recht, von ſeinem Amt entfernt, ode
 
 Suspenſion darf nicht ohne gerichtlichen Beſchluß erfolgen. - Kein Richter darf wider ſeinen Willen, außer durch gerichtlichen Beſchluß in den durch das Geſet beſtimmten Fällen und Formen, zu einer andern Stelle verſeßt oder in Ruheſtand geſeßt werden.
 
-S. 178.
+§. 178.
 
 Das Gerichtsverfahren ſoll öffentlich und mündlich ſein.
 
 Ausnahmen von der Oeffentlichkeit beſtimmt im Intereſſe der Sittlichkeit das Geſeß.
 
-SC. 179.
+§. 179.
 
 In Strafſachen gilt der Anklageprozeß.
 
 Schwurgerichte ſollen jedenfalls in ſchwereren Strafſachen und bei allen politiſchen Vergehen urtheilen.
 
-S. 180.
+§. 180.
 
 Die bürgerliche Rechtspflege ſoll in Sachen beſonderer Berufserfahrung durch ſachkundige, von den Berufsgenoſſen frei gewählte Richter geübt oder mitgeübt werden.

@@ -4,11 +4,11 @@ Scan: https://www.digitale-sammlungen.de/view/bsb10518698?page=132 (Bayerische S
 
 ---
 
-g. 49.
+§. 49.
 
 Zur Beſtreitung ſeiner Ausgaben iſt das Reich zunächſt auf ſeinen Antheil an den Einkünften aus den Zöllen und den gemeinſamen Produftions- und Verbrauchs-Steuern angewieſen. 1.
 
-S. 50.
+§. 50.
 
 Die Reichsgewalt hat das Recht, inſoweit die ſonſtigen Einkünfte nicht aufteiiheit, "Matrikularbeiträge aufzunehmen.
 
@@ -18,17 +18,17 @@ Die Reichsgewalt iſt befugt, in außerordentlihen Fällen Reichsſteuern aufzul
 
 Artikel. Xl.
 
-CS. 52.
+§. 52.
 
 Den Umfang der Gerichtsbarkeit des Reiches beſtimmt der Abſchnitt vom Reichsgericht.
 
 Artikel XIl.
 
-S. 53.
+§. 53.
 
 Der Reichsgewalt liegt es ob, die kraft der Reichsverfaſſung allen Deutſchen verbürgten Rechte oberaufſehend zu wahren.
 
-6. 54.
+§. 54.
 
 Der Reichsgewalt liegt die Wahrung des Reichsfriedens ob.
 

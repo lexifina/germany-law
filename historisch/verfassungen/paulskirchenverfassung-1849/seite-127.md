@@ -6,11 +6,11 @@ Scan: https://www.digitale-sammlungen.de/view/bsb10518698?page=145 (Bayerische S
 
 Die Unverletßlichkeit der Wohnung iſt kein Hinderniß der Verhaftung eines gerichtlic Verfolgten. |
 
-S. 141.
+§. 141.
 
 Die Beſchlagnahme von Briefen und Papieren darf, außer bei einer Verhaftung oder Hausſuchung, nur in Kraft eines richterlichen, mit Gründen verſehenen Befehls vorgenommen werden, welcher ſofort oder innerhalb der nächſten vier und zwanzig Stunden dem Betheiligten' zugeſtellt werden ſoll.
 
-S. 142.
+§. 142.
 
 Das Briefgeheimniß iſt gewährleiſtet.
 
@@ -18,7 +18,7 @@ Die bei ſtrafgerichtlichen Unterſuchungen und in Kriegsfällen nothwendigen Be
 
 Artikel 1V.
 
-S. 143.
+§. 143.
 
 Jeder Deutſche hat das Recht, dur<h Wort, Schrift, Dru und bildliche Darſtellung ſeine Meinung frei zu äußern,
 
@@ -30,7 +30,7 @@ Ein Preßgeſez wird vom Reiche erlaſſen werden.
 
 Artikel V.
 
-S. 144.
+§. 144.
 
 Jeder Deutſche hat volle- Glaubens-- und Gewiſſensfreiheit.
 
