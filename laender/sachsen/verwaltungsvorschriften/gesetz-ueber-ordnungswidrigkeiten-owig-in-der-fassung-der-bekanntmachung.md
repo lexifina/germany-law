@@ -1,8 +1,8 @@
-# Gesetz über Ordnungswidrigkeiten ( OWiG ) in der Fassung der Bekanntmachung
+# Gesetz über Ordnungswidrigkeiten ( OWiG) in der Fassung der Bekanntmachung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 1997-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/4740.1
+- Datum: 2002-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/4740.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -12,11 +12,11 @@
 
 Im Strafverfahren und im gerichtlichen Verfahren nach dem
 Gesetz über Ordnungswidrigkeiten (
-OWiG
-) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), zuletzt geändert durch Artikel 7 des Gesetzes vom 28. Oktober 1994 (BGBl. I S. 3186), können die Kosten (Gebühren und Auslagen) des Verfahrens dem zur Kostentragung Verurteilten insoweit auferlegt werden, als das
-Gerichtskostengesetz (
 
-GKG) in der Fassung der Bekanntmachung vom 15. Dezember 1975 (BGBl. I S. 3047), zuletzt geändert durch Artikel 9 des Gesetzes vom 1. November 1996 (BGBl. I S. 1626), die Erhebung von Kosten vorsieht (§ 1 Abs. 1
+OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), zuletzt geändert durch Artikel 7 des Gesetzes vom 28. Oktober 1994 (BGBl. I S. 3186), können die Kosten (Gebühren und Auslagen) des Verfahrens dem zur Kostentragung Verurteilten insoweit auferlegt werden, als das
+
+Gerichtskostengesetz (GKG) in der Fassung der Bekanntmachung vom 15. Dezember 1975 (BGBl. I S. 3047), zuletzt geändert durch Artikel 9 des Gesetzes vom 1. November 1996 (BGBl. I S. 1626), die Erhebung von Kosten vorsieht (§ 1 Abs. 1
+
 GKG).
 
 Die Auslagen, die dem Betroffenen im Bußgeldverfahren von der Verwaltungsbehörde auferlegt werden können, sind in § 107 Abs. 3 0WiG abschließend aufgeführt.
@@ -26,8 +26,8 @@ Die Auslagen, die dem Betroffenen im Bußgeldverfahren von der Verwaltungsbehör
 Zu den Kosten des Verfahrens gehören auch die Auslagen im vorbereitenden Verfahren, die der Polizei bei der Erforschung von Straftaten beziehungsweise Ordnungswidrigkeiten entstehen.
 
 Allerdings können nur die in der Anlage 1 zum
-GKG – Kostenverzeichnis (KV) – beziehungsweise die in § 107 Abs. 3
-
+GKG
+– Kostenverzeichnis (KV) – beziehungsweise die in § 107 Abs. 3
 OWiG aufgeführten Arten von Auslagen in der dort genannten Höhe in Rechnung gestellt werden. Diese sind von der Polizei in den Akten zu vermerken oder zu den Akten mitzuteilen, unabhängig davon, ob eine Verurteilung zu erwarten ist und ob Aussicht besteht, die Kosten einzuziehen.
 
 Zu diesem Zweck ist ein Polizeikostennachweis nach dem Muster der
@@ -78,6 +78,7 @@ OWiG).
 
 Entschädigungen für Zeugen (KV Nummern 9014, 9015 in Verbindung mit Nummer 9005 beziehungsweise §§ 59 und 107 Abs. 3 Nr. 5
 OWiG). Auf § 18 Abs. 7
+
 SächsPolG wird hingewiesen.
 
 3.7
@@ -86,7 +87,9 @@ Entschädigungen für Sachverständige, auch wenn aus Gründen der Gegenseitigke
 OWiG).
 
 Das Gesetz über die Entschädigung von Zeugen und Sachverständigen (ZSEG) gilt entsprechend (§ 59
-OWiG, § 18 Abs. 7 SächsPolG); in den Polizeikostennachweis dürfen höchstens die Sätze nach dem ZSEG aufgenommen werden.
+OWiG, § 18 Abs. 7
+
+SächsPolG); in den Polizeikostennachweis dürfen höchstens die Sätze nach dem ZSEG aufgenommen werden.
 
 Zu den Entschädigungen für Sachverständige gehören insbesondere folgende Kosten soweit sie zu Beweiszwecken angefallen sind: Kosten für Blutentnahmen, Blutuntersuchungen und sonstige ärztliche Untersuchungen, Kosten für eine von der Polizei angeordnete Leichenschau, Kosten für technische Sachverständige, Kosten für die Untersuchung von Lebensmitteln.
 
@@ -106,6 +109,7 @@ der Beschuldigte die Kosten durch schuldhafte Säumnis oder in sonstiger Weise s
 
 In der Spalte „Bemerkungen“ des Polizeikostennachweises sind die Umstände aufzuführen, die es rechtfertigen, den Beschuldigten die Dolmetscherkosten nach § 467 Abs. 2 Satz 1
 StPO, auch in Verbindung mit § 46 Abs. 1
+
 OWiG, aufzuerlegen. Ansonsten ist zu vermerken, daß die Kosten nur vorsorglich mitgeteilt werden.
 
 Soweit mehrere trennbare Dolmetscher- oder Übersetzungsleistungen vorliegen, sind die entstandenen Kosten entsprechend aufgeschlüsselt vorzumerken.
@@ -187,7 +191,7 @@ Kann bei Auslagen, die für mehrere Straf- oder Bußgeldverfahren entstanden sin
 
 6
 
-Die den Justiz- und Bußgeldbehörden des Freistaates Sachsen mitgeteilten polizeilichen Auslagen werden der Polizei unabhängig davon, ob sie eingezogen werden können, nicht erstattet. Dasselbe gilt für polizeiliche Auslagen, die den Justiz- und Bußgeldbehörden anderer Bundesländer mitgeteilt werden. Dagegen hat die Polizei für Auslagen, die ihr bei der Ausführung von Ersuchen von Bundesgerichten, der Generalbundesanwaltschaft von Polizeidienststellen oder Bußgeldbehörden des Bundes erwachsen, einen Erstattungsanspruch, soweit die ersuchende Stelle die Auslagen von den Betroffenen einziehen kann und es sich um Beträge von mehr als 50 DM handelt. Die ersuchende Stelle ist im Polizeikostennachweis zu bitten, den eingezogenen Betrag unter Angabe des Aktenzeichens zu überweisen.
+Die den Justiz- und Bußgeldbehörden des Freistaates Sachsen mitgeteilten polizeilichen Auslagen werden der Polizei unabhängig davon, ob sie eingezogen werden können, nicht erstattet. Dasselbe gilt für polizeiliche Auslagen, die den Justiz- und Bußgeldbehörden anderer Bundesländer mitgeteilt werden. Dagegen hat die Polizei für Auslagen, die ihr bei der Ausführung von Ersuchen von Bundesgerichten, der Generalbundesanwaltschaft von Polizeidienststellen oder Bußgeldbehörden des Bundes erwachsen, einen Erstattungsanspruch, soweit die ersuchende Stelle die Auslagen von den Betroffenen einziehen kann und es sich um Beträge von mehr als 25 EUR handelt. Die ersuchende Stelle ist im Polizeikostennachweis zu bitten, den eingezogenen Betrag unter Angabe des Aktenzeichens zu überweisen.
 
 7
 
@@ -207,16 +211,15 @@ Landespolizeipräsident
 
 Anlage
 
-Ort, Datum
-
 Dienststelle
+
+Ort, Datum
 
 Tagebuchnummer
 
 Polizeikosten-Nachweis
 
-–
-Muster –
+– Muster –
 
 im Strafverfahren/Bußgeldverfahren .........................................
 
@@ -226,15 +229,13 @@ wegen ..........................................................................
 
 sind hier folgende Auslagen entstanden:
 
-Aufstellung der Auslagen
+Polizeikosten-Nachweis
 
-| Auslagenart
+| Art der Auslagen
 
-| Rechnungssteller/Rechnungsdatum
+| Rechnungssteller und Rechnungsdatum
 
-| Betrag
-
-| Bemerkung
+| Betrag in Euro
 
 |  Art der Auslagen
 |   Rechnungs-
@@ -246,8 +247,8 @@ Rechnungs-
 datum
 |   Betrag
 
-DM
-|   Bemer-
+EUR
+|  Bemer-
 
 kungen
 
@@ -285,7 +286,9 @@ Auslagen für Sachverständige
 
 Dolmetscher und Übersetzungsleistungen
 
-Entschädigung für die Herausgabe von Gegenständen, Überwachung Fernmeldeverkehr und Auskünfte Reisekostenvergütungen/ Auslagenersatz
+Entschädigung für die Herausgabe von Gegenständen, Überwachung Fernmeldeverkehr und Auskünfte Reisekostenvergütungen/
+
+Auslagenersatz
 
 Kosten für die Bereitstellung von Räumen
 
@@ -316,14 +319,11 @@ Auslagenersatz an ausländische Stellen
 
 |
 
-|
-
-Gesamtbetrag
-
+| Gesamtbetrag
 |
 |
 |
 
-(Nur bei Beträgen über 50 DM, die Behörden des Bundes mitgeteilt werden.)
+(Nur bei Beträgen über 25 EUR, die Behörden des Bundes mitgeteilt werden.)
 
 Es wird gebeten, den eingezogenen Betrag zu überweisen auf Konto-Nummer: . . . . . . . . . . . . . .
