@@ -1,0 +1,53 @@
+# Gemeinderat
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2004-11-11T18:00:00+01:00
+- Ende: 2004-11-11T21:20:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZLeAevzk_0JUoQYiJYp24I
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/474
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUcYQ1Ma2CmAVUU0hKanrCozhOqDFt3YBeDi-6Lc1Ha7/Oeffentliche_Niederschrift_Gemeinderat_11.11.2004.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 13.10.2004 -öffentlicher Teil-
+- TOP 3.: Verpflichtung und Einführung eines Ratsmitgliedes
+- TOP 4.: Anregungen und Beschwerden gem. § 24 Abs. 1 GO NW
+- TOP 4.1.: Bushaltestelle "Von-Paland-Straße" - 15 Ja-Stimme(n), 14 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 5.1.: Bauleitplanung Bebauungsplan 32 S - Industriepark Emil Mayrisch - hier: a) Beschluss zu den eingegangenen Anregungen während der erneuten Offenlage gemäß § 3 Abs. 2 BauGB b) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 6.1.: Prüfung der Jahresrechnung 2003 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2.: Entlastung des Bürgermeisters - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Neubesetzung von Ausschüssen
+- TOP 7.1.: Wahl der Mitglieder der Ausschüsse und deren StellvertreterInnen - Einstimmig, 0 Enthaltung(en)
+- TOP 7.2.: Verteilung der Ausschußvorsitze
+- TOP 8.: Neubesetzung von Gremien
+- TOP 8.1.: Vertretung der Gemeinde Aldenhoven in der Verbandsversammlung der Kommunalen Datenverarbeitungszentrale Rhein-Erft-Rur (KDVZ) - Einstimmig, 0 Enthaltung(en)
+- TOP 8.2.: Benennung der Mitglieder des Partnerschaftskomitees - Einstimmig, 0 Enthaltung(en)
+- TOP 8.3.: Bestellung der Mitglieder für die Gesellschafterversammlung der WOGA GmbH & Co. KG - Einstimmig, 0 Enthaltung(en)
+- TOP 8.4.: Bestellung der Mitglieder für die Gesellschafterversammlung der WOGA Beteiligungsgesellschaft mbH - Einstimmig, 0 Enthaltung(en)
+- TOP 8.5.: Benennung der VertreterInnen der Gemeinde Aldenhoven für die Mitgliederversammlung des Nordrhein-Westfälischen Städte- und Gemeindebundes - Einstimmig, 0 Enthaltung(en)
+- TOP 8.6.: Wahl der VertreterInnen der Gemeinde Aldenhoven für die Mitgliederversammlung der Arbeitsgemeinschaft Inde-Rur e.V. - Einstimmig, 0 Enthaltung(en)
+- TOP 8.7.: Bestellung der gemeindlichen VertreterInnen für die Gesellschafterversammlung und den Aufsichtsrat der Verbandswasserwerk Aldenhoven GmbH
+- TOP 8.8.: Wahl einer Vertreterin/eines Vertreters für die Mitgliederversammlung des Vereins “Zukunftsinitiative im Aachener Raum (ZAR) e.V.”
+- TOP 8.9.: Benennung eines Mitgliedes für den AVV-Beirat des Kreises Düren - Einstimmig, 0 Enthaltung(en)
+- TOP 8.10.: Wahl der gemeindlichen Vertreter in den Kindergartenräten - Einstimmig, 0 Enthaltung(en)
+- TOP 8.11.: Vertretung der Gemeinde Aldenhoven in Gesellschafterversammlung und Beirat der EWV Energie- und Wasser-Versorgung GmbH
+- TOP 8.12.: Entsendung eines Mitgliedes in die Gesellschafterversammlung der Freizeitzentrum Blausteinsee GmbH
+- TOP 9.: Umbau der Aula der Hauptschule Aldenhoven; Nachfinanzierung
+- TOP 10.: Mitteilungen und Anfragen.
+- TOP 11.: Verschiedenes.
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 13.10.2004 -nichtöffentlicher Teil-.
+- TOP 2.: Grundstücksangelegenheiten
+- TOP 2.1.: Tausch einer Straßenlandfläche in Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 2.2.: Übertragung einer Teilfläche aus der Straßenparzelle "Auf der Komm"
+- TOP 2.3.: Übertragung einer Straßen- bzw. Wegefläche in Aldenhoven-Engelsdorf - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Mitteilungen und Anfragen.
+- TOP 4.: Verschiedenes.
