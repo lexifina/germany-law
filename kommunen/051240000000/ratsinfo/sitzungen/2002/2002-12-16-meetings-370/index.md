@@ -1,0 +1,104 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2002-12-16T14:00:00+01:00
+- Ende: 2002-12-16T18:00:00+01:00
+- Ort: Ratssaal - Rathaus Wuppertal-Barmen
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/370
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/370
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00009731.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00013047.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Resolution zu geplanter Demo Rechtsextremer - ungeändert beschlossen
+- TOP 2: Fragestunde
+- TOP 2.1: ÖPNV-Gesetz NW - Kenntnis genommen
+- TOP 2.2: Hinweisschilder am Rathausgebäude - Kenntnis genommen
+- TOP 3: Neue Fraktionsanträge
+- TOP 3.1: von der Heydt-Museum - zur Vorberatung verwiesen
+- TOP 3.2: Ratssitzungen durch Gebärdendolmetscher übersetzen - ungeändert beschlossen
+- TOP 3.3: Lenkungsausschuss für Schwimmbad-Neubau - zur Vorberatung verwiesen
+- TOP 3.4: Grünanlage Kolpingstraße - zur Vorberatung verwiesen
+- TOP 3.5: Erklärung des Wuppertaler Stadtrates - geändert beschlossen
+- TOP 3.6: Digitales Immobilieninformationssystem - von der Tagesordnung gesetzt
+- TOP 3.7: Grundschulentwicklungsplan - Nichtbefassung beschlossen
+- TOP 4: Fraktionsanträge, die bereits in einem Gremium vor
+- TOP 4.1: Gestrichen, da Vorberatung nicht abgeschlossen. - von der Tagesordnung gesetzt
+- TOP 4.2: Gestrichen, da Vorberatung nicht abgeschlossen. - von der Tagesordnung gesetzt
+- TOP 4.3: Fußball-WM 2006 - geändert beschlossen
+- TOP 4.4: Gestrichen, da Vorberatung nicht abgeschlossen. - von der Tagesordnung gesetzt
+- TOP 4.5: LED für die Beleuchtung in Verkehrsampeln - Kenntnis genommen
+- TOP 5: Ortsrecht
+- TOP 5.1: Satzungen der Stadtentwässerung - ungeändert beschlossen
+- TOP 5.1.1: Barwertvorteil aus US-Lease - Abwassergebühr 2003 - ungeändert beschlossen
+- TOP 5.1.2: Änderung Regenwassergebühr
+- TOP 5.2: Änderungssatzung Bürgerbegehren - ungeändert beschlossen
+- TOP 5.3: 4. Satzung zur Änderung Abfallwirtschaft - geändert beschlossen
+- TOP 5.4: Vergnügungssteuersatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 5.4.1: Vergnügungssteuersatzung der Stadt Wuppertal
+- TOP 5.4.2: Satzung: Vergnügungssteuer - ungeändert beschlossen
+- TOP 5.5: Straßenreinigungssatzung - ungeändert beschlossen
+- TOP 5.6: Änderung d. Entgeltordnung f. Bäder d. Stadt W'tal - geändert beschlossen
+- TOP 5.7: Aufhebung von Sanierungssatzungen - ungeändert beschlossen
+- TOP 5.8: Änderung der Hauptsatzung - geändert beschlossen
+- TOP 5.9: Gebührensatzung für die Abfallwirtschaft 2003 - ungeändert beschlossen
+- TOP 5.10: zusätzliche Ladenöffnungszeiten - ungeändert beschlossen
+- TOP 5.11: Satzungen für Tageseinrichtungen für Kinder - ungeändert beschlossen
+- TOP 5.11.1: Satzungen für Tageseinrichtungen für Kinder - ungeändert beschlossen
+- TOP 6: Haushaltsangelegenheiten
+- TOP 7: Angelegenheiten des Beteiligungsmanagements
+- TOP 7.1: Zustimmung LVR Investitionsaufwendungen - ungeändert beschlossen
+- TOP 7.2: Beteiligung eines vertikalen strategischen Partner - ungeändert beschlossen
+- TOP 7.3: Suche Mitgesellschafter KWG - ungeändert beschlossen
+- TOP 7.4: Wirtschaftsplan Alten- und Altenpflegeheime 2003 - ungeändert beschlossen
+- TOP 7.5: Wirtschaftsplan KIJU für das Geschäftsjahr 2003 - ungeändert beschlossen
+- TOP 7.6: Gestrichen, da Vorberatung nicht abgeschlossen. - von der Tagesordnung gesetzt
+- TOP 7.7: Abschluss des ESW für das Geschäftsjahr 2001 - ungeändert beschlossen
+- TOP 7.8: Wirtschaftsführung ESW 2003 - ungeändert beschlossen
+- TOP 8: Planverfahren
+- TOP 8.1: Landschaftsplan Wuppertal-West - ungeändert beschlossen
+- TOP 8.1.1: Landschaftsplanverfahren Wuppertal-West - ungeändert beschlossen
+- TOP 8.2: Bauleitplanverfahren Nr. 976 - Vohwinkeler Str./ - ungeändert beschlossen
+- TOP 8.3: Bebauungsplan Nr. 228 - Barmer Straße - Aufhebung - ungeändert beschlossen
+- TOP 8.4: Durchführungsplan Nr. 121 Teil A : Fluchtlinien - ungeändert beschlossen
+- TOP 8.5: Bauleitplanverfahren Nr. 703 - Bendahl - - ungeändert beschlossen
+- TOP 8.6: Bauleitplanverfahren Nr. 820 - ungeändert beschlossen
+- TOP 8.7: Bauleitplanverfahren Nr. 1051 -Wilhelm-Raabe-Weg- - ungeändert beschlossen
+- TOP 9: Baumaßnahmen
+- TOP 9.1: Durchführungsbeschluss für den Neubau der Feuer- u - ungeändert beschlossen
+- TOP 9.2: Durchführungsbeschluss für den Neubau eines Feuerw - ungeändert beschlossen
+- TOP 9.3: Umgestaltung der B7, IV. Bauabschnitt (Historische - geändert beschlossen
+- TOP 9.4: Neubau des Spielplatzhauses Hardt - ungeändert beschlossen
+- TOP 9.5: Gestrichen - von der Verwaltung zurückgezogen. - von der Tagesordnung gesetzt
+- TOP 10: Gremienbesetzung / Benennung
+- TOP 10.1: Neuwahl stellvertr. Mitglied Jugendhilfeaussch. - ungeändert beschlossen
+- TOP 10.2: NN
+- TOP 10.3: Gremienumbesetzung - ungeändert beschlossen
+- TOP 10.4: Besetzung von Gremien, Ausschüssen - ungeändert beschlossen
+- TOP 10.5: Gremienumbesetzungen - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Abgesetzt. - von der Tagesordnung gesetzt
+- TOP 11.1.1: Abgesetzt. - von der Tagesordnung gesetzt
+- TOP 11.1.2: Abgesetzt. - von der Tagesordnung gesetzt
+- TOP 11.2: Zukünftige Entwicklung der Wuppertaler Bühnen und - geändert beschlossen
+- TOP 11.2.1: Ergänzungsantrag TOP 11.2, Drs. VO/0817/02: - ungeändert beschlossen
+- TOP 11.3: Rechtmäßige Herstellung von Erschließungsanlagen - ungeändert beschlossen
+- TOP 11.4: Rechtmäßige Herstellung von Erschließungsanlagen - ungeändert beschlossen
+- TOP 11.5: Stadtbildverbesserung - geändert beschlossen
+- TOP 11.5.1: - Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 11.6: Einrichtung BK Kohlstr. - ungeändert beschlossen
+- TOP 11.7: Förderung der Regionale 2006 Agentur GmbH - ungeändert beschlossen
+- TOP 11.8: Erklärung von Barcelona - ungeändert beschlossen
+- TOP 11.9: Biologische Station Mittlere Wupper - ungeändert beschlossen
+- TOP 11.10: Bericht der Steuerungsgruppe zur Verbesserung - Kenntnis genommen
+- TOP 11.11: Änderung der Ehrenordnung - ungeändert beschlossen
+- TOP 11.12: Ehrenrat - ungeändert beschlossen
+- TOP 11.13: Gestrichen - von der Verwaltung zurückgezogen. - von der Tagesordnung gesetzt
+- TOP 11.13.1: Gestrichen - Siehe TOP 11.13 - von der Tagesordnung gesetzt
+- TOP 12: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 12.1: Klageverfahren Wassergewinnungsanlage Haan - Dringlichkeitsentscheidung genehmigt
