@@ -1,0 +1,122 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2002-11-21T17:30:00+01:00
+- Ende: 2002-11-21T17:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=161
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=161
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=17136
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - erledigt
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Weihnachtsmarkt auf dem Gendarmenmarkt
+- TOP 3.2: Soziale Stabilisierung im Huttenkiez, Drucksache 72/II
+- TOP 3.3: Medizinische Kosten für Sozialhilfeempfänger
+- TOP 3.4: Der Platz der Republik
+- TOP 3.5: Wem gehört der Platz der Republik vor dem Reichstag?
+- TOP 3.6: Gemeinnützliche zusätzliche Arbeit durch Sozialhilfeempfänger
+- TOP 3.7: Bauarbeiten Lehrter Straße
+- TOP 3.8: Kündigung des Kooperationsvertrages
+- TOP 3.9: Ist die Landeshaushaltsordnung flexibler als das Bezirksamt?
+- TOP 3.10: Loveparade 2002
+- TOP 3.11: Erhöhung der Arbeitszeit für Beamte
+- TOP 3.12: Milieuschutzverordnungen
+- TOP 3.13: Umschulung ade - Willkommen sozialpolitische Steinzeit?!
+- TOP 3.14: Neues Jugendwohnhaus
+- TOP 3.15: Miniermotte II
+- TOP 3.16: Besondere soziale Projekte
+- TOP 3.17: Schulschwänzer
+- TOP 3.18: Straßenreinigungsgebühren
+- TOP 3.19: Einzäunung Behm-/Jülicher Straße
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Bochumer Straße Pausenhof und Patrkplatz der Techniker Schule?
+- TOP 5.2: Sicherung von Kleingärten im Bezirk Mitte - Kleine Anfrage 61/II vom 10.06.2002
+- TOP 5.3: Finanzielle Situation der Seniorenwohnheime
+- TOP 5.4: Sanierung sozialverträglich gestalten?
+- TOP 5.5: Es werde Solar-Licht: Getrübte Erinnerungsvermögen eines Stadtrates
+- TOP 5.6: Freifläche am ehemaligen Straßenbahndepot Wiebestraße
+- TOP 5.7: Feels like in HEAVEN? Bisher fehlt leider der Zugang!
+- TOP 5.8: Politischer Stellenwert der Gedenkveranstaltung zum 09. November 1938 für das Bezirksamt
+- TOP 5.9: Geschichtspark Zellengefängnis Moabit
+- TOP 5.10: Weihnachtsmarkt auf dem Gendarmenmarkt
+- TOP 5.11: Schulschließungen: Wie geht es weiter?
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 6.1: Terminplan 2003
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Seniorenkonferenz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.2: Eine Brücke für Rosa-Luxemburg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.3: Bezirklicher Leitfaden gegen häusliche Gewalt gegen Frauen III - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.4: Mittel zur Gestaltung des öffentlichen Raumes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.5: MieterInnenschutz beim Verkauf von Häusern der Wohnungsbaugesellschaft Mitte
+- TOP 9.6: Kontrolle Belegungsbindung und Mietobergrenzen/Ursprungsantrag Drucksache Nr. I/38, 4. BVV vom 18.01.2001
+- TOP 9.7: Beschluss über die Aufstellung des Bebauungsplan 1-3 und die Durchführung der frühzeitigen Bürgerbeteiligung
+- TOP 9.8: Sachmittel für die Unterstützung der ehrenamtlichen Arbeit der Bürgerinnen und Bürger zur Verbesserung der öffentlichen Infrastruktur im Jahr 2002
+- TOP 9.9: Programmmittel ´Soziale Stadt´ 2003 - 2006 der QM-Gebiete Moabit West, Magdeburger Platz, Soldiner Straße und Sparrplatz
+- TOP 9.10: Beschluss des Anhörungsergebnisses vom 11. Juni 2002 aus der Beteiligung der Bürger an der Bauleitplanung gem. § 3 Abs. 1 BauGB sowie über die Durchführung der Beteiligung der Träger öffentlicher Belange für das Bebauungsplanverfahren III-237b zur Sicherung eines allgemeinen Wohngebiets auf dem Grundstück Wolliner Straße 25-26 im Bezirk Mitte, Ortsteil Wedding
+- TOP 9.11: Ausbau des Westhafens zu einem Güterverkehrssubzentrum/ alt Drucksachen Nr. I/208
+- TOP 9.12: Bebauungsplan zur Sicherung der IBA Wohnanlage Lützowplatz 2-18, Lützowufer 20-23, Wichmannstraße 1-3 alt: Drucksache Nr. I/522
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Konkretisierung der Kostenschätzung für den Umzug der Schillerbibliothek an den Standort BVV-Saal Rathaus OT Wedding
+- TOP 10.2: Alles hat ein Ende nur die Stellenbesetzung nicht
+- TOP 10.3: Beschleunigung des Grundstücksverkaufs an das SOS Kinderdorf
+- TOP 10.4: Realisierung eines Kinderprojektes im Moabiter Huttenkiez
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Bezirklicher Integrationsbericht - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Arbeitsaufnahme für Sozialhilfeempfängerinnen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Balkon- und Vorgartenwettbewerb
+- TOP 11.4: Präventionspreis
+- TOP 11.5: Miniermottenbekämpfung
+- TOP 11.6: Beteiligung der Krankenkasse an Impfstoffkosten
+- TOP 11.7: Instandsetzung des ehemaligen Seniorenheims Koppenplatz
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Förderung des Projektes "Migration und Quartiersentwicklung, Wir in Moabit: gemeinsam leben, gemeinsam gestalten" im Ortsteil Moabit
+- TOP 12.2: Max-Beckmann-Saal
+- TOP 12.3: Kapitel 4721, Titel 111 93 (Ausgleichs- und Ersatzmaßnahmen)
+- TOP 12.4: SeniorInnen + BVG
+- TOP 12.5: Brandenburger Tor - Durchfahrt
+- TOP 12.6: Zukunftsfähige Personalpolitik / Übernahme von Azubis
+- TOP 12.7: Emmissionsarme Brennstoffe der Bezirksfahrzeugflotte
+- TOP 12.8: Bezirke bei der Entbürokratisierung beteiligen
+- TOP 12.9: Wohnhäuser in der Leipziger Straße 114 - 120 und Mauerstraße 65 - 68 erhalten
+- TOP 12.10: Kostenersparnis durch Outsourcing der Grünflächenpflege
+- TOP 12.11: Einrichten einer Kurzparkzone
+- TOP 12.12: Sicherheitsempfinden am Bahnhof Friedrichstraße verbessern
+- TOP 12.13: Sommerbad Seydlitzstraße - Verkauf abwenden - Fördermöglichkeiten ausschöpfen
+- TOP 12.14: Gestaltung von Einfahrten zu Parkhäusern
+- TOP 12.15: Parkplatzkonzept für Reisebusse entwickeln
+- TOP 12.16: Was lange währt, wird nix: Beschwerdestelle einrichten - Ombudsmann/-frau berufen
+- TOP 12.17: Werbeschilder für Gewerbetreibende an den Ausgängen des U- und S-Bahnhofes Wedding
+- TOP 12.18: Aktion "FIT KID - Die Gesund-Essen-Aktion für Kitas"
+- TOP 12.19: Sicherung des Wohnens Leipziger Straße 114-120 / Mauerstraße 65-68
+- TOP 12.20: Koordinierung des Angebots des Nachtcafés
+- TOP 12.21: Dezentrales Konzept zur Betreuung Wohnungsloser
+- TOP 12.22: Kältehilfe
+- TOP 12.23: Keine Entscheidung ohne Entscheidungsgrundlage - Aussetzung der Entscheidung zum Standort der 5.Grundschule/ Europa-Schule
+- TOP 12.24: Einrichtung eines Fußgängerüberweges (Zebrastreifen)
+- TOP 12.25: Teilsanierung des Freibades Seydlitzstraße
+- TOP 12.26: FE-Maßnahmen
+- TOP 12.27: Wechsel des Telefonanbieters
+- TOP 12.28: Zukunft der ´ehemaligen´ Weddinger Seniorenwohnheime
+- TOP 12.29: Bebauungsplanverfahren 1-2 (Spittelmarkt)
+- TOP 12.30: Dienstanweisung für alle Abteilungen zum Thema Baumschutz
+- TOP 12.31: Besuch der Gedenkstätte Hohenschönhausen
+- TOP 12.32: Investitionsplanung 2003-2007
+- TOP 12.33: Mittel für das Projekt Fifty-Fifty aufstocken
+- TOP 12.34: Vergütung für ärztliche Leistungen bei Sozialhilfeempfängern ändern
+- TOP 12.35: Der ´Schwarze Kanal´ hofft auf das Bezirksamt
+- TOP 12.36: Sanierungsbedarf für Gebäude der 11. Grundschule Mitte
+- TOP 12.37: Beseitigung von Hundekot
