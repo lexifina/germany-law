@@ -1,4 +1,3 @@
-## Sächsisches Personalvertretungsgesetz (SächsPersVG)
 # Inhaltsverzeichnis
 Teil 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
@@ -60,7 +59,7 @@ Teil 5 Personalversammlung
 § 53 Teilnahmerecht
 Teil 6 Stufenvertretungen und Gesamtpersonalrat
 § 54 Stufenvertretungen
-§ 55 Entsprechende Anwendung der Personalvertretungsvorschriften
+§ 55 Entsprechenende Anwendung der Personalvertretungsvorschriften
 § 56 Gesamtpersonalrat
 § 57 Wahl, Amtszeit und Geschäftsführung
 Teil 7 Besondere Vertretungen
@@ -70,7 +69,7 @@ Teil 7 Besondere Vertretungen
 § 61 Wahlvorstand – Amtszeit
 § 62 Aufgaben
 § 63 Entsprechende Anwendung von Vorschriften
-§ 64 Stufenvertretungen und Gesamt-, Jugend- undAuszubildendenvertretung
+§ 64 Stufenvertretungen und Gesamt-Jugend- und Auszubildendenvertretung
 § 65 Jugend- und Auszubildendenversammlung
 § 66 Ausbildungsbeirat
 § 67 Schulen und Lehrkräfte
