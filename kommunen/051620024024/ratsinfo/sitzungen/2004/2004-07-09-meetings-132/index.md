@@ -1,0 +1,56 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2004-07-09T16:00:00+02:00
+- Ende: 2004-07-09T22:02:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/132
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/132
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Vermarktung von Flächen auf der Hafenmole I im Wege von Anhandgabe-Vereinbarungen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 5: Einwohnerfragestunde
+- TOP 6: Transparenz der Vorstandsbezüge und Geschäftsführergehälter in städtischen und städtisch dominierten Unternehmen
+- TOP 7: Genehmigung der Tagesordnung
+- TOP 8: Rahmenplan Marienkirchviertel
+- TOP 9: FNP-Änderung 101, Auslegungsbeschluss
+- TOP 10: B-Plan 110/7, Auslegungsbeschluss
+- TOP 11: B-Plan 201/2, Auslegungsbeschluss
+- TOP 12: Lichterbrücken - Tor zur Nordstadt
+- TOP 13: FNP-Änderung 103, Auslegungsbeschluss
+- TOP 14: B-Plan 427, Satzungsbeschluss
+- TOP 15: FNP-Änderung 105, Aufstellungsbeschluss
+- TOP 16: Umwandlung Hafenbetriebe in KG
+- TOP 17: FNP-Änderung 102, Aufstellung+Auslegung
+- TOP 18: Weiterentwicklung REMINEX
+- TOP 19: B-Plan 294/1, Auslegungsbeschluss
+- TOP 20: Vertrag zum weiteren Ausbau der OP
+- TOP 21: Hartz IV (SOZ160604-01703.doc)
+- TOP 22: Jahresabschlusses Herz– Jesu
+- TOP 23: Ergebnisverwendungsbeschluss
+- TOP 24: Bericht Seniorenbeauftragte (SOZ160604-01683.doc)
+- TOP 25: Umwandlung städt. Liegenschaften
+- TOP 26: Trägerwechsel Kita Holbeinstraße
+- TOP 27: Anhandgabe-Vereinbarung Rennbahngelände
+- TOP 28: B-Plan 431, Auslegungsbeschluss
+- TOP 29: „Neusser Bündnis für Familien“ (RAT090704-01802)
+- TOP 30: Kultur des Erinnerns (RAT090704-01803)
+- TOP 31: Buskap Rheinfährstr./Dormagener Str.
+- TOP 32: Handwerker-Parkausweis (RAT090704-01797.doc)
+- TOP 33: Wiedereintritt in das Kultursekretariat NRW
+- TOP 34: Änd. Rechtsv. Bildung v. Schulb. GS
+- TOP 35: Ausbau Vereinsstraße, L 154, Straßenbau
+- TOP 36: Reduzierung Verbandsversammlung (KDVZ)
+- TOP 37: Einwohnerfragestunde
+- TOP 38: Trägerwechsel Kita Franz-Leuninger-Straße
+- TOP 39: Grupellostraße
+- TOP 40: Ausbau Vereinsstraße, L 154, Kanalbau
+- TOP 41: FNP Nr. 96 (Windkraftanlagen)
+- TOP 42: Verwendung Jahresüberschusses Spk
