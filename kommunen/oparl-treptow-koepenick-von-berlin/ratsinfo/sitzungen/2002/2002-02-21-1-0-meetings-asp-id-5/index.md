@@ -1,0 +1,63 @@
+# 4. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2002-02-21T16:00:00+01:00
+- Ende: 2002-02-21T22:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - (offen)
+- TOP 2: Dringlichkeiten und Tagesordnung - (offen)
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_2 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Wahl von Bürgerdeputierten - gewählt
+- TOP 8: Wahl von Bürgerdeputierten - gewählt
+- TOP 9: Wahl von Bürgerdeputierten - gewählt
+- TOP 10: Berufung von beratenden Mitgliedern und stellv. beratenden Mitgliedern des JHA - gewählt
+- TOP 11: Umsetzung des Artikels 11 der Verfassung von Berlin im Bezirk Treptow-Köpenick - schriftlich beantwortet
+- TOP 12: Bezirkliche Grundstücke für den Berliner Liegenschaftsfonds - schriftlich beantwortet
+- TOP 13: Bebauungsplan - schriftlich beantwortet
+- TOP 14: Landesprogramm Jugendnetz Berlin - beantwortet
+- TOP 15: Standortfrage Spreepark - beantwortet
+- TOP 16: Spreepark Berlin - ausweglose Situation?
+- TOP 17: Sitzungsterminplan 2002 der BVV Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 18: Schließung der Grundschule am Wald - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 19: Bebauungsplan XV-39a, hier: Rechtsverordnung zur Festsetzung des Bebauungsplanes XV-39a - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 20: "Tag der offenen Tür" Kaufhalle Allende II - überwiesen
+- TOP 21: Stasiüberprüfung der Bezirksverordneten - ohne Änderungen in der BVV beschlossen
+- TOP 22: Reiterstaffel - in der BVV abgelehnt
+- TOP 23: Renaturierung der ehemaligen GUS-Fläche an der Treskowallee - mit Änderungen in der BVV beschlossen
+- TOP 24: Hinweise auf Stadtteilbibliotheken - ohne Änderungen in der BVV beschlossen
+- TOP 25: Müggelpark in Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 26: Schließung von Schwimmhallen in Treptow-Köpenick - mit Änderungen in der BVV beschlossen
+- TOP 27: Rettet das Eierhäuschen
+- TOP 28: Sozialtag 2002 und Rio-Konferenz - überwiesen
+- TOP 29: Grüne Pfeile - überwiesen
+- TOP 30: Wahl zusätzlicher Bürgerdeputierter <span style="color: #888a85" title="Zusatzinfo">(offen)</span> - vertagt
+- TOP 31: Wahl zusätzlicher Bürgerdeputierter - vertagt
+- TOP 32: Nutzung ehemalige Sparkassenfiliale Müggelheim - vertagt
+- TOP 33: Repression gegen Junge Gemeinde Schmöckwitz nach dem Mauerbau - ohne Änderungen in der BVV beschlossen
+- TOP 34: Korruption im verschuldeten Vergnügungspark - beantwortet
+- TOP 35: Bäderschließungen - beantwortet
+- TOP 36: Auswirkungen der Koalitionsvereinbarungen von SPD und PDS auf den Bezirk Treptow-Köpenick von Berlin - vertagt
+- TOP 37: Spreepark - was nun? - beantwortet
+- TOP 38: Uferwanderweg am Müggelsee - vertagt
+- TOP 39: Treffpunkt rechtsextremer Jugendlicher am Schul- und Bolzplatz an der 15. Grundschule in Bohnsdorf - vertagt
+- TOP 40: Erbbauzins für Spreepark - beantwortet
+- TOP 41: Ausflugs- und Tourismusmanagement Müggelturm oder Ruine mit Denkmalschutz? - vertagt
+- TOP 42: Kölner Modell - vertagt
+- TOP 43: Nachtflug und Lärmschutzmaßnahmen Flughafen Schönefeld - vertagt
+- TOP 44: Stadtschreiber - vertagt
+- TOP 45: Schulgebäude 1. OR Kiefholzstraße - vertagt
+- TOP 46: Europäische Förderprogramme - vertagt
+- TOP 47: 250 Jahre Johannisthal - vertagt
+- TOP 48: Informationsfreiheitsgesetz - vertagt
+- TOP 49: Bebauungsplan XV-19 - überwiesen
