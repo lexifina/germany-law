@@ -1,0 +1,74 @@
+# 22. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2004-03-31T17:30:00+02:00
+- Ende: 2004-03-31T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=283
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=283
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - im Ausschuss abgelehnt
+- TOP 1.2: Abstimmung über die Tagesordnung - im Ausschuss abgelehnt
+- TOP 1.3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 1.4: Mündliche Anfrage - im Ausschuss abgelehnt
+- TOP 1.4.1: Erhalt des "Alten Waschhauses" und des Schülertreffs Rennbahnstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Bericht des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 1.6: Konsensliste - im Ausschuss abgelehnt
+- TOP 1.7: Aufstellung der Vorschlagsliste zur Wahl der Schöffen für die Geschäftsjahre 2005 bis 2008 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.8: Wahl der Vertrauenspersonen für den Schöffenwahlausschuss zur Schöffenwahl für die Geschäftsjahre 2005 - 2008 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.9: Erhalt des Heimatmuseums am Standort Weißensee - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Keine bezirkliche Förderung des Mime Centrums Berlin/Erhalt der jungeKUNSTwerkstätten - in der BVV abgelehnt
+- TOP 1.11: Sportunterricht der Evangelischen Schule Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Die kommunale Demokratie ist bürgernah und damit bürgerfreundlich - zurückgezogen
+- TOP 1.13: Weiterbildung von Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Ausbau der öffentlichen Infrastruktur in Buch - überwiesen
+- TOP 1.15: Standortkonzept Bibliotheken I - in der BVV abgelehnt
+- TOP 1.16: Standortkonzept Bibliotheken II - mit Änderungen in der BVV beschlossen
+- TOP 1.17: 60er-Jahre-Planung im Sanierungsgebiet Winsstraße - beantwortet
+- TOP 1.18: Kein Kita-Konzern - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Anbindung von Buch an das Fernstraßennetz - überwiesen
+- TOP 1.20: Grüner Blechpfeil in Blankenburg - mit Änderungen in der BVV beschlossen
+- TOP 1.21: Neue Zumessungen für die Unterhaltung öffentlicher Grünanlagen im Bezirk - beantwortet
+- TOP 1.22: Geplante Neuaufteilung der Mittel für die Grünflächenunterhaltung - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Internetpräsenz des Bezirks - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Sicherung der Arbeit der Kinder- und Jugendfreizeiteinrichtung K 14 in Karow - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Verlängerung der Buslinie 158 bis zum S-Bhf. Prenzlauer Allee - überwiesen
+- TOP 1.26: Wir kaufen eine Atomfabrik - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Verkehrsregelung an der Kreuzung Pankgrafenstraße / Bucher Straße - überwiesen
+- TOP 1.28: BürgerInnenbeteiligung und ressortübergreifende Planung - Bereichsentwicklungsplanung im Bezirk Pankow - überwiesen
+- TOP 1.29: Leitlinien - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Versickerung von Niederschlagswasser auf bezirkseigenen Grundstücken - überwiesen
+- TOP 1.31: Bilanz des Grundsicherungsgesetzes für 2003 - beantwortet
+- TOP 1.32: Gefährliche Baustellen-Regelungen auf Radverkehrsanlagen und Gehwegen - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Illegales Kurzzeitparken in der Prenzlauer Allee auf neu geschaffenen Übergängen für den Fußverkehr - überwiesen
+- TOP 1.34: Die kommunale Demokratie ist bürgernah und damit bürgerfreundlich - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex II - (offen)
+- TOP 2.1: Botanische Anlagen in Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Geschlechtergerechter Haushalt - ein erster Schritt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Zentrale Inkassostelle des Bezirks - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: EU-Bericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Teilnahme von Schulen am Projekt "Schule ohne Rassismus" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Tourismuskonzert - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Kultur- und Bildungsentwicklungsplan Pankow 2003 - 2007 (Stand 30.04.03) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Fortführung des Schülerclubprogrammes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Einrichtung zeitlich befristeter Parkmöglichkeiten und eines Behindertenparkplatzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Mendelssohnstraße als Einbahnstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Verschärfung der Verkehrsprobleme im Wohnviertel an der Esplanade - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Fußgängerüberweg in der Bahnhofstraße in Französisch Buchholz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Sichere Radverkehrsanlagen in der Wisbyer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Halteverbot (Z.283) Krontaler Str., 13125 Berlin Karow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Sitzmöbel an BVG - Haltestelle - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Nördlicher Ausgang am S-Bahnhof Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Inbetriebnahme des ehem. Lehrerwohnhauses der Grundschule Christburger Straße als Hort und Jugendfreizeitstätte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Erhalt des Gewerbestandortes Greifswalder Straße 200 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Veränderungen im Bezirkshaushaltsplan 2004 / 2005 des Bezirksamtes Pankow - hier: Haushaltsjahr 2004 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Änderung der Sanierungsziele im Sanierungsgebiet Teutoburger Platz Templiner Straße 19 / Schwedter Straße 261, 262 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Einschränkung des Bebauungsplanentwurfes XVIII-63 um die Grundstücke Meyerbeerstraße 32/56, Herbert-Baum-Straße 24/32, Gounodstraße 19/23, Teilflächen des Grundstückes Gounodstraße 29/33, Gounodstraße 41/43 sowie Mahlerstraße 25 und 33 im Bezirk Pankow, OT Weißensee und Erweiterung des Geltungsbereiches des Bebauungsplanentwurfes XVIII-65 um die Grundstücke Mahlerstraße 25 und 26 im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Bebauungsplanentwurf XIX-58 für das Gelände zwischen Hauptstraße, Wilhelmsruher Damm und Kleingartenanlage "Rosenthal Nord" im Bezirk Pankow, Ortsteil Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: freie Drucksachennummer - erledigt
