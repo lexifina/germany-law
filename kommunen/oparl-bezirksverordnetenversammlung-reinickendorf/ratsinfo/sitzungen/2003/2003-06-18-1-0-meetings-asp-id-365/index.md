@@ -1,0 +1,79 @@
+# 18. Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2003-06-18T17:00:00+02:00
+- Ende: 2003-06-18T22:10:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=365
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=365
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=17159
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Öffnung der Kastanienallee - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Zustimmung der BVV bei Vertragsänderungen betreffend Poloplatz - überwiesen
+- TOP 2.3: Übertragung der Einrichtung "Walter May" an einen freien Träger - überwiesen
+- TOP 2.4: Förderung hochbegabter Schülerinnen und Schüler - überwiesen
+- TOP 2.5: Erhalt der Postfiliale Am Vierrutenberg 54 - ohne Änderungen in der BVV beschlossen
+- TOP 2.6: Umbenennung der Berliner Straße in Tegel in "Allee der Hennigsdorfer" - überwiesen
+- TOP 2.7: Personalzuschlag im Rahmen der Sprachstandserhebung "Bärenstark" - überwiesen
+- TOP 3: Konsensliste - erledigt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Umsetzung der Fauna-Flora-Habitat-Richtlinie der EU - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Entbürokratisierung der Berliner Verwaltung - überwiesen
+- TOP 5.3: Maßnahmen für die schnelle Erfassung von Müllablagerungen im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: 50 Jahre 17. Juni 1953 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Bezirksverordnetenversammlung fordert Kiezbus in Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Beibehaltung von Qualitätsstandards bei Übertragung von Kindertagesstätten an freie Träger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Faxgerät für Gehörlose und Stumme - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Straßenbeleuchtung an den Bushaltestellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: VHS-Programm: Kurse gegen Schlafstörungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Gewährung von Hilfen zur Erziehung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Beteiligung der Musikschule am Reinickendorfer Sommer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Erhalt der Seelsorge im Humboldt-Klinikum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Doppelhaushalt 2004/2005 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Angebot "HeizEnergieCheck" des Umweltbundesamtes als Link auf Reinickendorfer Homepage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Bericht über das Ergebnis der frühzeitigen Bürgerbeteiligung zum Bebauungsplanentwurf 12-6 - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Beschäftigungspolitik im Bezirk - beantwortet
+- TOP 6.2: Kinder- und Jugendkriminalität in Reinickendorf - beantwortet
+- TOP 6.2.1: Kinder- und Jugendkriminalität in Reinickendorf - überwiesen
+- TOP 6.3: Radverkehr in Reinickendorf - schriftlich beantwortet
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Neuwahl der Mitglieder und stellvertretenden Mitglieder des Beirates in Sozialhilfeangelegenheiten - vertagt
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Reinickendorf ohne Hindernisse - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Förderung der konstruktiven Zusammenarbeit zwischen der Musikschule und den Reinickendorfer Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Offensive für den Mittelstand - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Bürgerbeteiligung am Tourismuskonzept - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Schulstationen - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Rechnungsausstellung für VHS-Teilnehmer - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Informationen für Wassersportler verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 8.8: Überprüfung von Mietverträgen von Sozialhilfeempfängern - erledigt
+- TOP 8.9: Sprachstandsmessungen - vertagt
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: Sichere Überquerung - überwiesen
+- TOP 9.2: Einrichtung eines Campingplatzes - überwiesen
+- TOP 9.3: Radweg zwischen Leipziger Straße und Am Pilz - überwiesen
+- TOP 9.4: Park & Ride Möglichkeiten - überwiesen
+- TOP 9.5: Kiezbus - überwiesen
+- TOP 9.6: Behindertengerechter Poloplatz - überwiesen
+- TOP 9.7: Informationsschilder / Tourismusbüro - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Kooperation zwischen Jugendhilfe und Schule - überwiesen
+- TOP 9.9: Erschließungsauflagen bei Investitionsprojekten - überwiesen
+- TOP 9.10: Musikschule - überwiesen
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: Information über Veränderungen im Krankenhausplan - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Beseitigung der Sturmschäden am Gelände des Buddhistischen Hauses - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Keine Tabak- und Alkohol-Werbung im Umkreis von Schulen - überwiesen
+- TOP 10.4: Unterrichtung der Eltern über die Einführung einer Eigenbeteiligung an Lernmitteln - überwiesen
+- TOP 10.5: Reitweg - überwiesen
+- TOP 10.6: Impfkampagne auch in Oberstufenzentren - vertagt
+- TOP 10.7: Schneller unbürokratischer Ersatz von Schäden durch Flugzeuge - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Ampelanlage Ruppiner Chaussee/Kiefheider Weg - überwiesen
