@@ -1,0 +1,67 @@
+# 34. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2004-12-16T16:00:00+01:00
+- Ende: 2004-12-16T20:40:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=525
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=525
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=27129
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_36 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 7.1: Drogenproblematik im Bezirk Treptow-Köpenick - schriftlich beantwortet
+- TOP 8: Beschlussvorlagen - gegenstandslos
+- TOP 8.1: Sondermittel für FIPP e.V. (SM 461) - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Sondermittel für Förderverein Anne-Frank-Gymnasium e.V. (SM 462) - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: - Entwurf des Bebauungsplans XV-21a und Begründung, - Entwurf der Rechtsverordnung zum Bebauungsplan XV-21a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 9: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 9.1: Bezirkshaushaltsrechnung 2002 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Sicherung bezirklicher Internetadressen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Nutzung des Schlosshofes im Rahmen des mit der Stiftung Preußischer Kulturbesitz geschlossenen Vertrages vom 05.03.04 nach § 6 für das Jahr 2005 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, PVFinWi)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Verkehrsorganisation nach Eröffnung der Autobahn A 113 (neu) - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Parkplätze Alte Försterei <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Kein Ausbau der Nalepastraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Udo Franzke)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Abwasser- und Fäkalienentsorgung in Gebieten ohne Anschluss an die öffentliche Kanalisation - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Fußwegenetz Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Ferientickets für Schüler <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Schulticket <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Heike Kappel)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Anhörung zur Entwicklung des östlichen Müggelseeufers <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Steganlage Frauentog - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 10.1: Nichtanwendbarkeit der Verordnung über die Teilungsgenehmigungspflicht im Bebauungsplan XV-46 im Bezirk Treptow-Köpenick, Ortsteil Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 10.2: Bebauungsplan 9-24 im Bezirk Treptow-Köpenick, Ortsteil Oberschöneweide hier: - Aufstellung des Bebauungsplans <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 10.3: Bebauungsplan XVI-34 hier: Einstellung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 10.4: Umbenennung des Melli-Beese-Ringes im Entwicklungsgebiet Adlershof in "Melli-Beese-Straße" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.5: Benennung einer Privatstraße im Entwicklungsgebiet Adlershof, zwischen Max-Born-Straße und Brook-Taylor-Straße, in "Zum Trudelturm" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.6: Bebauungsplan XVI-83-1 hier: Einstellung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 10.7: Einstellung des Landschaftsplanverfahrens XVI-L-1 "Müggelspree" im Bezirk Treptow-Köpenick, Ortsteil Rahnsdorf <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 10.8: Bebauungsplan 9-26 hier: Einleitung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 10.9: Eröffnung der "BRIDGE OF HEARTS"/"Brücke der Herzen" anlässlich der Treptower Festtage 2005 am 11. Juni 2005 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, JugSport)</span> - überwiesen
+- TOP 10.10: Änderungsbeschluss zum BA-Beschluss Nr. 98/01 vom 17.07.2001 für den Bebauungsplanentwurf XV-64b im Bezirk Treptow-Köpenick, Ortsteil Niederschöneweide <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 10.11: Verleihung des Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.12: Nichtraucherschutz in Dienstgebäuden des Bezirkes <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, UmGrünImm)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Anträge - gegenstandslos
+- TOP 11.1: Angebote an Nichtleistungsempfänger/innen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Petra Reichardt)</span> - überwiesen
+- TOP 11.2: Steganlage für den Frauentog - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Hinweistafeln für Gottesdienste - überwiesen
+- TOP 11.4: Winterdienst <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - in der BVV zurückgezogen
+- TOP 11.5: Schwellenfreies Fahrradfahren <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Jochen Querengässer)</span> - überwiesen
+- TOP 11.6: Bürgerhaushalt - zweiter Schritt - überwiesen
+- TOP 11.7: Familienservicestelle - Treptow-Köpenick familienfreundlich gestalten <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Kathrin Bernikas)</span> - überwiesen
+- TOP 11.8: Kita im Seniorenheim <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Klaus Chinea Correa)</span> - überwiesen
+- TOP 11.9: Stefan-Heym-Straße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Katharina Weise)</span> - in der BVV abgelehnt
+- TOP 11.10: Sportplatz am Wasserwerk Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Verbesserungen für Rollstuhlfahrer und Gehbehinderte auf der S-Bahn-Linie 3 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - im Ältestenrat zurückgezogen
+- TOP 11.12: Durchführung der bezirklichen Nachhaltigkeitsprüfung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Jochen Querengässer Verfasser 2: Marina Borkenhagen)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Mieterinformation - ohne Änderungen in der BVV beschlossen
