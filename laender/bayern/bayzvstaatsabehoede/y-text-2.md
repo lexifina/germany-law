@@ -1,0 +1,2 @@
+– von § 16 Abs. 1 Sätze 2 und 3 und § 23 Abs. 1 Sätze 3 und 4 des Staatsangehörigkeitsgesetzes – StAG - (BGBl III 102-1), zuletzt geändert durch Art. 1 des Gesetzes vom 15. Juli 1999 (BGBl I S. 1618),
+– des Gesetzes zum Vollzug des Reichs- und Staatsangehörigkeitsgesetzes (BayRS 102-1-I) in Verbindung mit § 1 der Verordnung zur Übertragung der Befugnis, die zum Vollzug der staatsangehörigkeitsrechtlichen Vorschriften zuständigen Behörden zu bestimmen, (BayRS 102-2-I),
