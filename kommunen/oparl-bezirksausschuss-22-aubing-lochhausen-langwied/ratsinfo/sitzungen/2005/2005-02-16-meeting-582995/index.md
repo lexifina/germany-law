@@ -1,0 +1,77 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2005-02-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/582995
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/582995
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.: Niederschrift der BA-Sitzung vom 19.01.05
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Ampelschaltung in der Altostraße
+- TOP 2.2.: Streichung von Mitteln für Schulweghelfer an den Überwegen Grundschule Ravensburger Ring, Tettnanger Straße und Ravensburger Ring Mitte
+- TOP 2.3.: Ökumenischer Kirchentag 2005
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Sachstand zum Bau des Lärmschutzwalles zwischen Germeringer Weg und Moosschwaiger Weg in östlicher Richtung
+- TOP 4.2.: Berücksichtigung von Unterführungen an der Hellensteinstraße / Ravens- burger Ring, am Germeringer Weg und westlich der A 99 im beabsichtigten Grundsatzbeschluss des Referates für Stadtplanung und Bauordnung zur Durchfahrtshöhe von Unterführungen
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: ESV Sportfreunde München Neuaubing e.V.; Umbau der WC-Anlage im Sportgebäude an der Papinstraße 22
+- TOP 5.2.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22; Antragsteller: Elternbeirat der Grundschule am Ravensburger Ring; Maßnahme: Selbstbehauptungskurse für Mädchen und Jungen
+- TOP 5.3.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22; Antragsteller: BRK Wasserwacht Ortsgruppe München-West; Maßnahme: Kauf eines Laptops und eines Beamers für die Ausbildung von Jugendlichen
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörung zu Fällungsanträgen
+- TOP 6.2.: Außenbereichssatzung für die Wohnbebauung am Krähenweg (beiderseits); Anhörung durch das Referat für Stadtplanung und Bauordnung
+- TOP 6.3.: Frühkindliche Gesundheitsförderung; Schließung der Mütter-/Väterberatungsstelen zugunsten vermehrter Hausbesuche; Anhörung durch das Referat für Gesundheit und Umwelt zum Entwurf der Beschlussvorlage für die Sitzung des Gesundheits- und Krankenhausausschusses am 14.04.2005
+- TOP 6.4.: Bergsonstraße 136; Antrag auf Errichtung einer Werbeanlage; Anhörung durch das Referat für Stadtplanung und Bauordnung
+- TOP 6.5.: Endgültige Realisierung der B+R- und P+R-anlage am S-Bahnhof Langwied (Südostseite) im Zuge des Neubaus der Bergsonstraße; Anhörung durch das Referat für Stadtplanung und Bauordnung
+- TOP 6.6.: Verbindungsweg zwischen Straße Im Stocket und dem Grünzug Am Langwieder Bach; Anhörung durch das Kreisverwaltungsreferat zu einem Antrag auf Reitverbot für diesen Weg
+- TOP 6.7.: Errichtung von Werbeanlagen im 22. Stadtbezirk; Anhörungen durch das Referat für Stadtplanung und Bauordnung zu 6 Anträgen auf Errichtung von Werbeanlagen in der Bodenseestraße
+- TOP 6.8.: Gemeindegrenzänderung Landeshauptstadt München / Große Kreisstadt Germering; Anhörung durch das Kommunalreferat zur Beschlussvorlage für die Sitzung des Kommunalausschusses am 14.04.05
+- TOP 6.9.: Bebauungsplan Nr. 1703 Schussenrieder Straße; Anhörung durch das Planungsreferat zum Beschlussentwurf für die Sitzung des Ausschusses für Stadtplanung und Bauordnung
+- TOP 6.10.: DB-Betriebswagenwerk; Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 Abs. 2 AEG für die Erstellung von Zaunanlagen und Zugangskontrollen; Nähe Rupert-Bodner-Straße
+- TOP 6.11.: Flächennutzungsplanänderung Nr. 6 der Gemeinde Gräfelfing; Anhörung durch das Referat für Stadtplanung und Bauordnung
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Baufälle im 22. Stadtbezirk (vom03.01.-09.01., 10.01.-16.01.,17.01.-23.01., 24.01.-30.01.05); Mitteilungen des Referates für Stadtplanung und Bauordnung
+- TOP 7.2.: Vollzug der Baumschutzverordnung; Beseitigung von Borkenkäferbäumen auf ei-nem Anwesen in der Brunhamstraße; Mitteilung des Referates für Stadtplanung und Bauordnung
+- TOP 7.3.: Statistik zu Werbeanlagen; Information durch das Referat für Stadtplanung und Bauordnung
+- TOP 7.4.: Aufhebung der Tonnagebeschränkung an der Überführung der Eschenrieder Straße über die A 8; Verkehrsrechtliche Anordnung des Kreisverwaltungsreferates vom 30.12.2004
+- TOP 7.5.: Fortschreibung der Machbarkeitsstudie Bürgerzentren (Stadtratsbeschluss vom 04.10.2000); Konzentration regionaler städtischer Dienstleistungen in ausgewählten Stadtbezirken; Schreiben des Personal- und Organisationsreferates vom 05.01.2005
+- TOP 7.6.: Finanzplan 2004; Zuleitung durch die Stadtkämmerei
+- TOP 7.7.: Bundesautobahn A 8 / West München - Ulm; Abschnitt AK München-West - AD München-Eschenried, Anbau von Standstreifen von km 3,060 bis 6,235 mit Umbau der Anschlussstelle München Langwied; Plangenehmigung; Plangenehmigungsbescheid der Regierung von Oberbayern vom 10.01.2005
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Aufstellung von Abfallkörben in der Grünanlage zwischen Aubing-Ost-Straße und Kastelburgstraße; Schreiben des Baureferates-Gartenbau vom 14.01.2005 zum Antrag Nr. 2494 des BA 22 vom 20.10.2004
+- TOP 8.2.: Installation eines Geländers bzw. Handlaufs an der Südseite des S-Bahnhalte-punktes Aubing; Schreiben des Baureferates-Tiefbau vom 17.01.2005 zum Antrag Nr. 2587 des BA 22 vom 17.11.2004
+- TOP 8.3.: Wohnsituation der Anlieger am Langwieder Bach 41 und 43 unmittelbar an der derzeitigen Baustelle der A 99; Schreiben des Baureferates-Tiefbau vom 18.01.2005 zum Antrag Nr. 2584 des BA 22 vom 17.11.2004
+- TOP 8.4.: Ausdünnung der Bepflanzung entlang des Fußweges nördliche Seite Georg-Böhmer-Weg; Schreiben des Baureferates-Gartenbau vom 24.01.2005 zum Antrag Nr. 2585 des BA 22 vom 17.11.2004
+- TOP 8.5.: Verbesserung der Verkehrssituation im Kreuzungsbereich Limes-/Bodenseestraße durch technische bzw. bauliche Veränderungen; Schreiben des Baureferates-Tiefbau vom 24.01.2005 zum Antrag Nr. 2586 des BA 11 vom 17.11.2004
+- TOP 8.6.: Antrag des Vereins Schulkulturagentur e.V. auf Einrichtung eines offenen Lernzentrums am Westkreuz; Stellungnahme der Stadtschulrätin vom 01.02.05 zur Anfrage des BA 22 aus der Sitzung vom 15.12.04
+- TOP 8.7.: Mobilfunk; Suchkreis M-Neuaubing-Ost 440290; Schreiben der T-Mobile GmbH vom 04.02.05 zum Beschluss des BA 22 vom 19.01.05
+- TOP 8.8.: Beleuchtung an den Fahrradständern an der Nordseite des S-Bahnhaltepunktes Aubing; Schreiben des Baureferates-Tiefbau vom 03.02.05 zum Antrag Nr. 2583 des BA 22 vom 17.11.04
+- TOP 8.9.: Fußgängerüberweg Grundschule an der Gotzmannstr. 19; Schreiben des Kreisverwaltungsreferates vom 27.01.05 zum Antrag Nr. 2591 des BA 22 vom 17.11.04
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Beschluss des Bauausschusses vom 18.01.05 - Nulltoleranz gegenüber Schmutzfinken und keine Fixerspritzen auf Spielplätzen
+- TOP 9.2.: Bekanntgaben in der Sitzung des Kinder- und Jugendhilfeausschusses am 11.01.05 und in der Sitzung des Sozialausschusses am 13.01.05 - Sachverständige für Migrationsfragen; Interkulturell orientiertes Qualitätsmanagement; Vorschlag zur Auswahl der Regionen
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Nächste BA-Sitzung: Mittwoch, 16.03.2005, 19.30 Uhr Gaststätte, Wienerwald, Limesstraße 63
+- TOP 10.2.: Mobilfunk; Übermittlung der Standorte von schulischen Einrichtungen sowie Kindergärten/Horten im Stadtbezirk an die Mobilfunkbetreiber; Schreiben und Antrag des BA 21 Pasing-Obermenzing
+- TOP 10.3.: Vergabe von Zuschüssen nur für Veranstalter von Kulturprogrammen in barrierefreien Räumen; Antrag des BA 17 Obergiesing
+- TOP 10.4.: Wahl der Seniorenvertretung 2005 - Veranstaltungen in den Stadtbezirken; Termin für Stadtbezirk 22: 22.02.05, Gaststätte Wienerwald, Limesstraße 63
+- TOP 10.5.: Geplante Bodenbehandlungsanlage an der Goteboldstraße; Schreiben des BA 21 Pasing-Obermenzing
+- TOP 10.6.: Einladung zu einer Informationsveranstaltung des Baureferates im Straßenunterhaltsbezirk West, Planegger Str. 111 am Mittwoch, den 06.04.05 um 18.00 Uhr
