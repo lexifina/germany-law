@@ -1,29 +1,27 @@
-# Ratsbeschluss vom 23.11.1979 über die Behandlung der Bauleitplanung von Nachbargemeinden
+# Ratsbeschluss vom 17.02.1995 über die zeitliche Befristung beim Aufstellen von Wahlplakaten
 
 - Gemeinde: Stadt Neuss (ARS 051620024024)
-- Datum: 1976-11-23 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.neuss.de/fileadmin/Redaktion/downloads/ortsrecht/61-04_bauleitplanung-von-nachbargemeinden.pdf
+- Datum: 1995-02-17 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.neuss.de/fileadmin/Redaktion/downloads/ortsrecht/69-03_aufstellen-von-wahlplakaten.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-61/04 HdO
+Aufstellen von Wahlplakaten 69/03 HdO
 
--------------------------------------------------------------------
+1
 
-Bauleitplanung von
+------------------------------------------------------------------------------------------------------
 
-61/04
+Aufstellen von Wahlplakaten
 
-Nachbargemeinden
+69/03
 
-56. Erg. Lief. 3/95 HdO
+66. Erg. Lief. 1/2002 HdO
 
--------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 
-Ratsbeschluß vom 23. November 1976 über die Behandlung der Bauleitplanung von Nachbargemeinden
-
-Es wird zustimmend zur Kenntnis genommen, daß in Zukunft eine Ausschußberatung zu Bauleitplanungen der Nachbargemeinden nur dann erfolgt, wenn nach Meinung der Verwaltung Bedenken erhoben werden sollen und/oder die Planungen von solch qualitativem und quantitativem Gewicht sind (zum Beispiel zentrale Einrichtungen oder neue Wohngebiete ab 50 WE und mehr), daß der Rat dazu informiert werden sollte.
-
-Im übrigen wird die Verwaltung ermächtigt, die Stellungnahme abzugeben.
+Ratsbeschluß vom 17. Februar 1995 über die zeitliche Befristung beim Aufstellen von Wahlplakaten
+Der Ratsbeschluß vom 26. Februar 1982 über die zeitliche Befristung beim Aufstellen von Wahlplakaten wird aufgehoben und durch folgenden Beschluß ersetzt:
+Den politischen Parteien wird das Aufstellen von sog. Dreieckständern und sonstigen Plakattafeln auf öffentlichen Straßen grundsätzlich sechs Wochen vor den jeweiligen Wahlterminen gestattet. Mit der Plakatierung kann bereits am jeweiligen voraufgehenden Samstag um 8.00 Uhr begonnen werden. Die Verwaltung wird gebeten, strengstens darauf zu achten, daß dieser frühestmögliche Plakatierungstermin eingehalten wird.
