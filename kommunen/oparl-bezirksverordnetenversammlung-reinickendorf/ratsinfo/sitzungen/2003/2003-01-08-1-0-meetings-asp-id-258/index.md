@@ -1,0 +1,93 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf AUS TECHNISCHEN GRÜNDEN KÖNNEN DIE TAGESORDNUNG UND DIE EINLADUNG NICHT IN DATENFORM ABGERUFEN WERDEN!
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2003-01-08T17:00:00+01:00
+- Ende: 2003-01-08T17:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=258
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=258
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: (nichtöffentlich) - (offen)
+- TOP 2: (nichtöffentlich) - (offen)
+- TOP 3: (nichtöffentlich) - (offen)
+- TOP 4: (nichtöffentlich) - (offen)
+- TOP 5: (nichtöffentlich) - (offen)
+- TOP 5.1: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: (nichtöffentlich) - überwiesen
+- TOP 5.5: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: (nichtöffentlich) - (offen)
+- TOP 6.1: (nichtöffentlich) - (offen)
+- TOP 6.2: (nichtöffentlich) - beantwortet
+- TOP 6.3: (nichtöffentlich) - beantwortet
+- TOP 6.4: (nichtöffentlich) - beantwortet
+- TOP 6.5: (nichtöffentlich) - beantwortet
+- TOP 7: (nichtöffentlich) - (offen)
+- TOP 7.1: (nichtöffentlich) - erledigt
+- TOP 7.2: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: (nichtöffentlich) - in der BVV abgelehnt
+- TOP 7.4: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 7.5: (nichtöffentlich) - erledigt
+- TOP 7.6: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 7.7: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 7.8: (nichtöffentlich) - erledigt
+- TOP 7.9: (nichtöffentlich) - erledigt
+- TOP 7.10: (nichtöffentlich) - erledigt
+- TOP 7.11: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 7.12: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 7.13: (nichtöffentlich) - erledigt
+- TOP 7.14: (nichtöffentlich) - erledigt
+- TOP 7.15: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 7.16: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 7.17: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 7.18: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 7.19: (nichtöffentlich) - vertagt
+- TOP 7.20: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 8: (nichtöffentlich) - (offen)
+- TOP 8.1: (nichtöffentlich) - vertagt
+- TOP 8.2: (nichtöffentlich) - vertagt
+- TOP 8.3: (nichtöffentlich) - überwiesen
+- TOP 9: (nichtöffentlich) - (offen)
+- TOP 9.1: (nichtöffentlich) - überwiesen
+- TOP 9.2: (nichtöffentlich) - überwiesen
+- TOP 9.3: (nichtöffentlich) - überwiesen
+- TOP 9.4: (nichtöffentlich) - überwiesen
+- TOP 9.5: (nichtöffentlich) - überwiesen
+- TOP 9.6: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: (nichtöffentlich) - überwiesen
+- TOP 9.8: (nichtöffentlich) - überwiesen
+- TOP 9.9: (nichtöffentlich) - überwiesen
+- TOP 9.10: (nichtöffentlich) - überwiesen
+- TOP 9.11: (nichtöffentlich) - überwiesen
+- TOP 9.12: (nichtöffentlich) - vertagt
+- TOP 10: (nichtöffentlich) - (offen)
+- TOP 10.1: (nichtöffentlich) - überwiesen
+- TOP 10.2: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: (nichtöffentlich) - überwiesen
+- TOP 10.4: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: (nichtöffentlich) - vertagt
+- TOP 10.6: (nichtöffentlich) - überwiesen
+- TOP 10.7: (nichtöffentlich) - überwiesen
+- TOP 10.8: (nichtöffentlich) - überwiesen
+- TOP 10.9: (nichtöffentlich) - überwiesen
+- TOP 10.10: (nichtöffentlich) - überwiesen
+- TOP 10.11: (nichtöffentlich) - überwiesen
+- TOP 10.12: (nichtöffentlich) - überwiesen
+- TOP 10.13: (nichtöffentlich) - überwiesen
+- TOP 10.14: (nichtöffentlich) - überwiesen
+- TOP 11: (nichtöffentlich) - beantwortet
+- TOP 12: (nichtöffentlich) - in der BVV abgelehnt
+- TOP 13: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 14: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 15: (nichtöffentlich) - mit Änderungen in der BVV beschlossen
