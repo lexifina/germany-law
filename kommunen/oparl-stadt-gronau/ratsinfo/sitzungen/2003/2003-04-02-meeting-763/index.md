@@ -1,0 +1,59 @@
+# Rat
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2003-04-02T17:00:00+02:00
+- Ende: 2003-04-02T22:55:00+02:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdUNyxPWedWw4xmBQXn1UN0
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/763
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcensz0lpUP9oirItUH5jdtbvKTKQ4AmSaJbfLs24zFm/Oeffentliche_Niederschrift_Rat_02.04.2003.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 19.02.2003
+- TOP 3.: Kündigung der Vereinbarung mit dem Sozialdienst kath. Frauen e.V., Ortsgruppe Gronau vom 04.12.97 - 38 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 4.: Inselpark Gronau Errichtung eines Factory-Outlet-Centers hier: Vorstellung des städtebaulichen Grobkonzeptes durch die Investoren - 29 Jastimmen, 1 Neinstimmen, 9 Enthaltungen
+- TOP 4.1.: Inselpark Gronau Errichtung eines Factory-Outlet-Centers hier: Vorstellung des städtebaulichen Grobkonzeptes durch die Investoren - 29 Jastimmen, 1 Neinstimmen, 9 Enthaltungen
+- TOP 5.: Stellenplanentwurf für das Jahr 2003 - 23 Jastimmen, 15 Neinstimmen, 1 Enthaltungen
+- TOP 5.1.: Stellenplanentwurf für das Jahr 2003 - 23 Jastimmen, 15 Neinstimmen, 1 Enthaltungen
+- TOP 6.: Abschließende Beratung des Budgetentwurfs 2003 - 23 Jastimmen, 15 Neinstimmen, 0 Enthaltungen
+- TOP 7.: Genehmigung von über- und außerplanmäßigen Bereitstellungen von Haushaltsmitteln im Haushaltsjahr 2002 Genehmigung der Bildung von Haushaltseinnahme- und Haushaltsausgaberesten - Einstimmig, 0 Enthaltungen
+- TOP 8.: Wirtschaftsplan der Zentralen Bau- und Umweltdienste der Stadt Gronau (Westf.) für das Wirtschaftsjahr 2003 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Wirtschaftsplan 2003 der Kulturbüro Gronau GmbH - 23 Jastimmen, 15 Neinstimmen, 0 Enthaltungen
+- TOP 10.: Bildung und Zusammensetzung von Ausschüssen nach § 57 Abs. 1 und 2 sowie § 58 der Gemeindeordnung Nordrhein-Westfalen (GO NW) - Einstimmig, 1 Enthaltungen
+- TOP 11.: Zuständigkeiten der Ausschüsse gem. § 57 Abs. 4 in Verbindung mit § 58 Abs. 4 der Gemeindeordnung NW; Änderung der Zuständigkeitsordnung der Stadt Gronau vom 18.01.1995 - Einstimmig, 0 Enthaltungen
+- TOP 11.1.: Zuständigkeiten der Ausschüsse gem. § 57 Abs. 4 in Verbindung mit § 58 Abs. 4 der Gemeindeordnung NW; Änderung der Zuständigkeitsordnung der Stadt Gronau vom 18.01.1995 - Einstimmig, 0 Enthaltungen
+- TOP 12.: Bildung von Ausschüssen nach § 58 der Gemeindeordnung NW; Wahl der Mitglieder - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bestimmung der Ausschussvorsitzenden gem. § 58 Abs. 5 GO - Einstimmig, 0 Enthaltungen
+- TOP 14.: 73. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich: "Vennstraße", Stadtteil Epe - Aufhebung des Aufstellungsbeschlusses vom 04.09.2002 - Einstimmig, 0 Enthaltungen
+- TOP 14.1.: 73. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich: "Vennstraße", Stadtteil Epe Aufhebung des Aufstellungsbeschlusses vom 04.09.2002 Stellungnahme der kath. Kirchengemeinde St. Agatha - Ohne Abstimmung
+- TOP 15.: Bebauungsplan Nr. 29 "Ginsterweg", 3. Änderung, Stadtteil Gronau 1. Änderung des Aufstellungsbeschlusses 2. Billigung der Plankonzeption 3. Beschluss zur öffentlichen Auslegung 4. Benachrichtigung der Träger öffentlicher Belange - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 238 "Industrie- u. Gewerbepark an der Steinfurter Straße", Stadtteil Epe 1. Behandlung der Stellungnahmen aus der frühzeitigen Bürgerbeteiligung gem. § 3 (1) BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 (1) BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 (2) BauGB 4. Satzungsbeschluss gem. § 10 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 17.: Bebauungsplan Nr. 135 "Overdinkelstraße", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Satzungsbeschluss gem. § 10 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 18.: Änderung des Bebauungsplanes Nr. 33 "Carl-Zeiss-Weg", Stadtteil Gronau durch den vorhabensbezogenen Bebauungsplan "Bauzentrum Geveler" 1. Aufstellungsbeschluss 2. Beteiligung der Bürger gem. § 3 Abs. 1 BauGB 3. Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 19.: Genehmigung zur Erteilung einer Kostenübernahmezusage Hier: Ganztagsbetreuung in der Pestalozzischule - Einstimmig, 0 Enthaltungen
+- TOP 20.: Nutzung von Räumen des Drilandmuseums durch den Heimatverein Gronau e.V. - Einstimmig, 11 Enthaltungen
+- TOP 21.: Umbenennung von städt. Freisportanlagen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Freisportanlage "Wolbertshof" Beantragung eines städt. Zuschusses für die Errichtung einer Zuschauertribüne mit einer Bestuhlung - Einstimmig, 0 Enthaltungen
+- TOP 23.: Vergabe eines Straßennamens für die neue Stichstraße am Postbrückenweg - Einstimmig, 0 Enthaltungen
+- TOP 24.: Vergabe von Straßennamen in dem Gewerbegebiet Ecke Ochtruper Straße/Steinfurter Straße - Einstimmig, 0 Enthaltungen
+- TOP 25.: Vergabe eines Straßennamens im Bebauungsplan Nr. 135 an der Overdinkelstraße - Einstimmig, 0 Enthaltungen
+- TOP 26.: Vergabe von Straßennamen in dem Neubaugebiet nördlich der Bentheimer Straße - Einstimmig, 0 Enthaltungen
+- TOP 27.: Änderung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass im Gebiet der Stadt Gronau (Westf.) vom 31.08.1999 i. d. F. vom 10.10.2001 - Einstimmig, 0 Enthaltungen
+- TOP 28.: Endausbau der Urananreicherungsanlage Gronau (UAA) hier: Stellungnahme des Bundesverbandes Bürgerinitiativen Umweltschutz (BBU) e.V.
+- TOP 29.: Errichtung und Betrieb einer Neuanlage gem. § 4 BImSchG; Hähnchenmastanlage für 38.000 Masthähnchen auf dem Grundstück Gronau-Epe, Sunderhook 8 hier: Änderung der Stellung des Stallgebäudes
+- TOP 30.: Geänderte Terminplanung für das 2. Quartal 2003
+- TOP 31.: Umbenennung der Lenné-Straße in Lenné-Allee - Einstimmig, 0 Enthaltungen
+- TOP 31.1.: Mitteilungen der Verwaltung
+- TOP 31.2.: Ergebnis Müllsammelaktion 2003
+- TOP 31.3.: Dankeschön aus Olbernhau
+- TOP 31.4.: Sachstandsmitteilung zur Anfrage der CDU-Fraktion zu den Ladenöffnungszeiten während der Laga
+- TOP 32.: Anfragen
+- TOP 32.1.: Instandsetzung des Denkmalsteins am Rathausturm (RM Pieper)
+- TOP 32.2.: Künftige Verwendung der Laga-Fahrradständer (RM Rüger-Müller)
+- TOP 32.3.: Krötenwanderung am Lindenhof (RM Rüger-Müller)
