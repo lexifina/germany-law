@@ -1,0 +1,15 @@
+# Ausschuss für Stadtentwicklung und Verkehr (2. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 1999-02-23T17:00:00+01:00
+- Ende: 1999-02-23T19:15:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-141
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZeAX4ClMDHMPlB7oGvCxCR4
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/1980
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP II.: Nichtöffentliche Sitzung
