@@ -1,0 +1,59 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf AUS TECHNISCHEN GRÜNDEN KÖNNEN DIE TAGESORDNUNG UND DIE EINLADUNG NICHT IN DATENFORM ABGERUFEN WERDEN!
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2002-11-13T17:00:00+01:00
+- Ende: 2002-11-13T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=205
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=205
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: (nichtöffentlich) - überwiesen
+- TOP 2: (nichtöffentlich) - überwiesen
+- TOP 3: (nichtöffentlich) - überwiesen
+- TOP 4: (nichtöffentlich) - vertagt
+- TOP 5: (nichtöffentlich) - überwiesen
+- TOP 6: Einrichtung von "Spezialklassen" und "Begabtengruppen" - überwiesen
+- TOP 7: Einrichtung einer Waldschule in Reinickendorf - überwiesen
+- TOP 8: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 9: (nichtöffentlich) - mit Änderungen in der BVV beschlossen
+- TOP 10: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 11: (nichtöffentlich) - überwiesen
+- TOP 12: (nichtöffentlich) - überwiesen
+- TOP 13: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 18: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 20: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 21: (nichtöffentlich) - zur Kenntnis genommen
+- TOP 22: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 23: (nichtöffentlich) - vertagt
+- TOP 24: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 25: (nichtöffentlich) - überwiesen
+- TOP 26: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 27: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 28: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 29: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 30: (nichtöffentlich) - überwiesen
+- TOP 31: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 32: (nichtöffentlich) - überwiesen
+- TOP 33: (nichtöffentlich) - überwiesen
+- TOP 34: (nichtöffentlich) - überwiesen
+- TOP 35: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 36: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 37: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 38: (nichtöffentlich) - überwiesen
+- TOP 39: (nichtöffentlich) - überwiesen
+- TOP 40: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 41: (nichtöffentlich) - überwiesen
+- TOP 42: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 43: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 44: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 45: (nichtöffentlich) - überwiesen
