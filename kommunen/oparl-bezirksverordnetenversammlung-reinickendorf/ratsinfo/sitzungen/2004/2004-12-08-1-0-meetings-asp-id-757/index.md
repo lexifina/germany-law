@@ -1,0 +1,90 @@
+# 34. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2004-12-08T17:00:00+01:00
+- Ende: 2004-12-08T21:15:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=757
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=757
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=25869
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Konkrete Aspekte der Schulentwicklungsplanung in Reinickendorf - beantwortet
+- TOP 2.2: Angebot der Kultureinrichtung Famagusta - ohne Änderungen in der BVV beschlossen
+- TOP 2.3: Stadtteilladen Tegel-Süd sichern - mit Änderungen in der BVV beschlossen
+- TOP 2.3.1: Erhalt des Stadtteilvereins Reinickendorf-West - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Feststellungen - (offen)
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 25 BezVerwG - ohne Änderungen in der BVV beschlossen
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: "Aussteigekarte für Reisende im Seuchenverdachtsfall" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Schnellstmögliche Behandlung von Schlaganfallpatienten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Verbesserung des Gesundheitsbewusstseins von Kindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Vorliegende Planung zum Ausbau der Schulzendorfer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: Verbesserung der Verkehrs- und Parksituation im Bereich der Brodersenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Mittelkürzung für das Projekt "FreiFrau" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Verkehrssituation an den Tagen des Trödelmarktes / Wilhelmsruher Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Übertragung von Kindertagesstätten an freie Träger - überwiesen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Äußerung der Bezirksbürgermeisterin über den Regierenden Bürgermeister - beantwortet
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Bezirkshaushaltsrechnung für das Haushaltsjahr 2003 - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Entwurf des Bebauungsplanes XX-182 d sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Einladungen zu BVV-Sitzungen ins Internet stellen - erledigt
+- TOP 9.2: Risiken durch Tattoos und Permanent Make-up - erledigt
+- TOP 9.3: Internetauftritt des Bezirks - erledigt
+- TOP 9.4: Rauch-/Feuermeldeanlagen in Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Optimierung der Internet-Darstellung des Fontanehauses - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Ausstattung des Behindertenfahrstuhls für Sehbehinderte - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Schulische Aktivitäten zur Grünflächenpflege - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Schulung "Erste Hilfe am Kleinkind" - erledigt
+- TOP 9.9: Gesundes Essen in Horten und Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Erinnerung an das Wirken von Dr. Wladimir Lindenberg - erledigt
+- TOP 9.11: Klassenfahrten für alle Schüler/Schülerinnen ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Freilandlabor am Flughafensee unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Fortführung des Projekts "FreiFrau" - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Frühzeitige Erkennung von Beschädigungen und Gefahrenstellen auf Spielplätzen durch "Spielplatztelefon" - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Pendeltüren im Rathaus - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Rückgabe von Alt-CDs - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Sprachförderprogramme in Kindertagesstätten - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Initiativen zu Hartz IV im Bezirk - erledigt
+- TOP 9.19: Hartz IV - 4 / Wahlmöglichkeit - erledigt
+- TOP 9.20: Hartz IV - 5 / Arbeitsgelegenheiten mit Qualifizierung - erledigt
+- TOP 9.21: Hartz IV - 6 / Erstangebotsrecht - erledigt
+- TOP 9.22: Hartz IV - 2 / Verzicht auf Einkommensanrechnung - erledigt
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Nachwahl einer Bürgerdeputierten in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: 60. Jahrestag der Befreiung vom Nationalsozialismus und der Beendigung des zweiten Weltkrieges in Europa im Bezirk Reinickendorf würdig begehen - überwiesen
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Ressortübergreifendes Gesamtkonzept für als besonders belastet ausgewiesene Kieze in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Erweiterung des Schulangebots in Heiligensee - überwiesen
+- TOP 11.3: Bessere Vermeidung von Straßenverkehrslärm - überwiesen
+- TOP 11.4: Wahlunterlagen im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Öffnung der Aussichtsplattform auf dem Casino-Turm/Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Gesicht zeigen - Fahne gegen Gewalt am Rathaus hissen - in der BVV zurückgezogen
+- TOP 11.7: Befreiung von der WBS-Pflicht in Tegel-Süd - überwiesen
+- TOP 11.8: Skulpturengarten Tegeler Insel - überwiesen
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Darstellung Reinickendorfs in TV-Spots - überwiesen
+- TOP 12.2: Anordnung eines Zebrastreifens im Senftenberger Ring Ecke Calauer Straße - überwiesen
+- TOP 12.3: Wildschutzmaßnahmen auf der B96 - überwiesen
+- TOP 12.4: 8. Mai als Gedenktag für die bedingungslose Kapitulation Hitlerdeutschlands im Land Berlin einführen! - überwiesen
+- TOP 12.5: Keine Zentralisierung der Bibliotheken - überwiesen
+- TOP 12.6: Besserer Zugang zum Postamt Grußdorfstraße auch für Mütter und Väter mit Kinderwagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Fortbestand des "MV-Express" sichern - mit Änderungen in der BVV beschlossen
+- TOP 12.7.1: Fortbestand des "MV-Express" - ohne Änderungen in der BVV beschlossen
+- TOP 13: Einhaltung des Bebauungsplans XX-210 in der Kolonie Waldessaum - beantwortet
+- TOP 13.1: Bebauungsplan XX-210 durchsetzen ! - überwiesen
+- TOP 14: Ganztagsgrundschulen im Bezirk Reinickendorf - beantwortet
+- TOP 15: Änderung der Geschäftsordnung - in der BVV abgelehnt
+- TOP 16: Änderung der Geschäftsordnung - in der BVV abgelehnt
+- TOP 17: Änderung der Geschäftsordnung - Bürgerfragestunde - ohne Änderungen in der BVV beschlossen
+- TOP 18: Prüfung der planungsrechtlichen Ausweisung von Kleingartenanlagen - ohne Änderungen in der BVV beschlossen
