@@ -1,1 +1,1 @@
-# Gesetz zum Schutze vor Luftverunreinigungen, Geräuschen und Erschütterungen (Immissionsschutzgesetz) vom 30. Juni 1970
+# Bremisches Gesetz zum Schutz vor schädlichen Umwelteinwirkungen (Bremisches Immissionsschutzgesetz - BremImSchG) vom 26. Juni 2001
