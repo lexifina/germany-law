@@ -1,0 +1,79 @@
+# 31. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2004-09-15T17:00:00+02:00
+- Ende: 2004-09-15T19:15:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=673
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=673
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=24363
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Varianten für den Ausbau der Schulzendorfer Straße - erledigt
+- TOP 2.2: Vorliegende Planung zum Ausbau der Schulzendorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 2.3: Zebrastreifen vor den Borsig-Hallen in der Straße Am Borsigturm - überwiesen
+- TOP 2.4: Fortführung des Projekts "FreiFrau" - überwiesen
+- TOP 3: Konsensliste - überwiesen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Sprachstandsmessungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Blockademuseum des AMVD e. V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Geregelter Unterricht statt Schulbuch-Chaos ! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Ausstellung "Gewalt gegen Frauen im Alltag" auch in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Legionellenbefall im Paracelsus-Bad - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Gewährleistung des unentgeltlichen Schulschwimmens - überwiesen
+- TOP 5.7: Mehr Verkehrssicherheit für die Nutzer des Centre Bagatelle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Frauengesundheitsförderung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Schulschwänzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Hortplätze sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Bestand der Graphothek auch im Internet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Zentrale Ordnungsämter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Internet-Sicherheit für Kinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Fortführung des sog. Schulschwänzerprojekts "Leona" auf der Insel Scharfenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Wirtschaftsentwicklung in Geschäftsstraßen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.16: Intensivierung der Zusammenarbeit zwischen AMVD e. V. und Heimatmuseum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.17: Unterstützung der Kampagne "Hinsehen.Handeln.Helfen!" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.18: Ausstellung "Die braune Falle" auch in Reinickendorf zeigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.19: Intensive Nutzung des Bundestagangebotes "Parlamentarische Demokratie" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.20: Beteiligung an der Solardachbörse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.21: Zusätzliche Verkehrsberuhigung Auguste-Viktoria-Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.22: Öffnungszeiten der Jugend-Verkehrsschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.23: Beibehaltung des Anschlusses von Wohnsiedlungen an den ÖPNV in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.24: Bessere Beleuchtung der Provinzstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.25: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-238 - überwiesen
+- TOP 5.26: Bericht über das Ergebnis der Beteiligung der Träger öffentlicher Belange zum Entwurf des Bebauungsplanes 12-4 - überwiesen
+- TOP 5.27: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-295 - überwiesen
+- TOP 5.28: Entwürfe der Bebauungspläne XX-25 b, XX-25 c, XX-25 d, XX-25 f, XX-25 k, XX-25 n, XX-25 q, XX-25 t, XX-25 w - überwiesen
+- TOP 5.29: Gesamtplanung der Ganztagsschulen im Rahmen des Investitionsprogramms "Zukunft Bildung und Betreuung (IZBB) 2003 bis 2007 im Zusammenhang mit der Verlagerung der Horte aus dem Jugend- in den Schulbereich zum 01.08.2005 - überwiesen
+- TOP 5.30: Bebauungsplanentwurf XX-18-1 Bericht über das Ergebnis der Beteiligung der Träger öffentlicher Belange - überwiesen
+- TOP 6: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 6.1: Hermsdorfer Verkehr - in der BVV abgelehnt
+- TOP 6.2: Nachtschaltung an Lichtzeichenanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Freigabe der Jagowstraße für Radfahrer - in der BVV abgelehnt
+- TOP 6.4: Einrichtung von Radstreifen - ohne Änderungen in der BVV beschlossen
+- TOP 6.5: Prüfung der Verkehrssituation Fürstendamm / B96 - ohne Änderungen in der BVV beschlossen
+- TOP 6.6: Zusätzliche Kurzparkzonen im Bereich Zeltinger Platz - erledigt
+- TOP 6.7: Zebrastreifen für Fußgänger in der Grußdorfstraße in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 7: Anträge - (offen)
+- TOP 7.1: Teilnahme des Bezirksamtes an den Bürgersprechstunden - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Änderung der Geschäftsordnung - Bürgerfragestunde - überwiesen
+- TOP 8: Ersuchen - (offen)
+- TOP 8.1: Gesundes Essen in Horten und Schulen - überwiesen
+- TOP 8.2: Erinnerung an das Wirken von Dr. Wladimir Lindenberg - überwiesen
+- TOP 8.3: Demokratische Kontrolle bei der Umsetzung des Reformvorhabens "Hartz IV" - überwiesen
+- TOP 8.3.1: Demokratische Kontrolle bei der Umsetzung des Reformvorhabens Hartz IV - überwiesen
+- TOP 8.4: Klassenfahrten für alle Schüler/Schülerinnen ermöglichen - überwiesen
+- TOP 8.5: Freilandlabor am Flughafensee unterstützen - überwiesen
+- TOP 9: Empfehlungen - (offen)
+- TOP 9.1: Existenzgründerseminare an Reinickendorfer Berufsschulen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Verkehrssituation an den Tagen des Trödelmarktes auf dem Parkplatz am Wilhelmsruher Damm deutlich verbessern - gegenstandslos
+- TOP 9.2.1: Verkehrssituation an den Tagen des Trödelmarktes / Wilhelmsruher Damm - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Zebrastreifen Am Dachsbau/Schulzendorfer Straße - überwiesen
+- TOP 9.4: Ferientickets für Schüler - überwiesen
+- TOP 9.5: Behindertengerechte Bahnhöfe nach Umstellung auf "BVG 2005 plus" - überwiesen
