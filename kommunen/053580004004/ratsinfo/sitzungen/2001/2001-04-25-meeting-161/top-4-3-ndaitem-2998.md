@@ -1,4 +1,4 @@
-# TOP 4.3.: Grundstücksangelegenheiten
+# TOP 4.3.: Antrag auf Verlängerung der Bauverpflichtungsfrist
 
 - Sitzung: Gemeinderat (2001-04-25)
 - Körperschaft: Gemeinde Aldenhoven
