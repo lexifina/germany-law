@@ -1,0 +1,59 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2005-01-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/571022
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/571022
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.1.: Umgestaltung des Herzog-Ernst-Platzes; zeitlicher Ablauf der Baumaßnahme - <div>Zur Kenntnis genommen</div>
+- TOP 2.2.: Bericht aus dem Mieterbeirat der Landeshauptstadt München
+- TOP 3.: Gaststättenangelegenheiten
+- TOP 3.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 4.: Verkehrsangelegenheiten
+- TOP 4.1.: Geschwindigkeitsüberschreitungen im Bereich der Ludwig-Krafft-Str., Josef-Lutz-Weg und Heinrich-Stieglitz-Kehre - <div>nach Antrag</div>
+- TOP 4.2.: Wiedereinführung des 10-Minuten-Taktes bei der Buslinie 134 (frühere Linie 66) - <div>Zur Kenntnis genommen</div>
+- TOP 4.3.: Lichtzeichenanlagen - Bauprogramm 2005 - <div>nach Antrag</div>
+- TOP 4.4.: Positive PKW-Beschilderung an der Thalkirchner Str. / Tumblingerstr. - <div>nach Antrag</div>
+- TOP 4.5.: Verhinderung des "Wildparkens" auf dem Margaretenplatz
+- TOP 5.: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 5.1.: Änderung der BA-Satzung; Anhörung für den BA beim Kauf von Grundstücken - <div>nach Antrag</div>
+- TOP 5.2.: Gebührenfreiheit für Veranstaltungen im "öffentlichen Stadtbezirksinteresse" - <div>Zur Kenntnis genommen</div>
+- TOP 5.3.: Budgetantrag der Montessori-Schule; Â? 246,- - <div>vertagt</div>
+- TOP 6.: Referat für Stadtplanung und Bauordnung
+- TOP 6.1.: Meldeliste Bauvorhaben
+- TOP 6.2.: Bauvorhaben Schanzenbachstr. 1 - <div>qualifizierte Vertagung</div>
+- TOP 6.3.: Bauvorhaben Mobilfunkcontainer Isartalstraße 48 - <div>Zur Kenntnis genommen</div>
+- TOP 6.4.: Bauvorhaben Isarauen 8
+- TOP 6.5.: Verhältnis von Radverkehr zum motorisierten Individualverkehr
+- TOP 7.: Baureferat
+- TOP 7.1.: Straßenunterhalt in Sendling; Bericht über die Sitzung des Unterausschusses Bau vom 14.12.04
+- TOP 8.: Baum- und Umweltschutz
+- TOP 8.1.: Baumfällungen auf öffentlichem Grund - <div>nach Antrag</div>
+- TOP 8.2.: Baumfällung Plinganserstr. 15; eine Weide
+- TOP 9.: Soziales- und Sozialreferat
+- TOP 9.1.: Wahl der 8. Seniorenvertretung 2005; Liste der Kandidatinnen und Kandidaten
+- TOP 9.2.: Zweckentfremdung Lipowskystraße
+- TOP 9.3.: Sachverständige für Migrationsfragen; interkulturell orientiertes Qualitätsmanagement, Vorschlag zur Auswahl der Regionen
+- TOP 9.4.: Bauträgerauswahl für die Baugrundstücke des kommunalen Wohnungsbauprogrammes
+- TOP 10.: Schulreferat
+- TOP 10.1.: Stadtteilbezogenes Verzeichnis der städtischen Kindertageseinrichtungen, Kooperationseinrichtungen und Tagesheime
+- TOP 10.2.: DAV-Kletterzentrum an der Thalkirchner Straße
+- TOP 10.3.: Bereinigtes Einschreibeergebnis für das Kindergartenjahr / Schuljahr 2004/2005
+- TOP 10.4.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen für das Schuljahr 2004/2005
+- TOP 10.5.: Schüler/-innen und Klassenzahlen; Berufliche Schulen der LH München für das Jahr 2004/2005
+- TOP 10.6.: Schüler- und Klassenzahlen an den städt. und staatl. Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art für das Schuljahr 2004/2005
+- TOP 10.7.: Schüler- und Klassenzahlen an den städt. Realschulen, staatl. Realschulen und der städt. Franz-Auweck-Abendschule
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Lärmbeinträchtigung durch das Heizkraftwerk Süd - <div>ohne Entscheidung</div>
+- TOP 13.2.: Mobilfunk; Suchkreismeldung Theresienwiese Süd, Flaucher West - <div>Kenntnisnahme mit Hinweis an Antragsteller</div>
