@@ -1,4 +1,4 @@
-# TOP 2.1.: Grundstücksangelegenheiten
+# TOP 2.1.: Übertragung einer Ackerparzelle in der Gemarkung Schleiden
 
 - Sitzung: Gemeinderat (2001-06-27)
 - Körperschaft: Gemeinde Aldenhoven
