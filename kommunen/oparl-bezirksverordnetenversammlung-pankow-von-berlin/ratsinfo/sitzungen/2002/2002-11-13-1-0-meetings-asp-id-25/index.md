@@ -1,0 +1,74 @@
+# 10. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2002-11-13T17:30:00+01:00
+- Ende: 2002-11-13T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=25
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=25
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - zur Kenntnis genommen
+- TOP 1.2: Abstimmung über die Tagesordnung - zur Kenntnis genommen
+- TOP 1.3: Dringlichkeitsanträge - zur Kenntnis genommen
+- TOP 1.3.1: Bereitstellung von Unterlagen für Bezirksverordnete - ohne Änderungen in der BVV beschlossen
+- TOP 1.4: Mündliche Anfrage - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.5: Bericht des Bezirksamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.6: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.7: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.8: Übertragung der Funktion eines Bezirksbehindertenbeauftragten im Geschäftsbereich des Bezirksbürgermeisters - überwiesen
+- TOP 1.9: Nachweis der im Haushaltsjahr 2001 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 1.10: Krisendienst - überwiesen
+- TOP 1.11: Zuwendung Insolvenzberatung - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Projekt "Lokaler Aktionsplan..." - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Umzug der Gustave-Eiffel-Oberschule (Umsetzung des mit der BVV - Drucksache 085/02 zur Kenntnis gegebenen Bezirksamtsbeschlusses) - beantwortet
+- TOP 1.13.1: Umzug der Gustave-Eiffel-Oberschule in die Hanns-Eisler-Str. (Umsetzung des mit der BVV - Drucksache 085/02 zur Kenntnis gegebenen Bezirksamtsbeschlusses) - zurückgezogen
+- TOP 1.14: Nachnutzung des Schulgebäudes Kastanienallee 82 - ohne Änderungen in der BVV beschlossen
+- TOP 1.14.1: Nutzung des Gebäudekomplexes Kastanienallee 82 - ohne Änderungen in der BVV beschlossen
+- TOP 1.14.2: Modernen und einheitlichen Immobilien-Service einrichten! - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Jugendpsychiatrischer Dienst - überwiesen
+- TOP 1.16: Bericht zur Entwicklung der Ausgaben und zur Steuerbarkeit der Ausgaben im T- und im Z-Teil des bezirklichen Haushalts - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Erinnerung an den 17. Juni 1953 - überwiesen
+- TOP 1.18: Beteiligung der BürgerInnen an den Planungen zu einem Vorhaben eines Aldi-Verbrauchermarktes in der Schwedter Straße - überwiesen
+- TOP 1.19: Aufsuchender Sozialdienst - überwiesen
+- TOP 1.20: Halbjährliche Berichterstattung über Budgetentwicklung - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Bürodienstruine Dusekestraße 43 - überwiesen
+- TOP 1.22: Ende des Milieuschutzes im Bezirk Pankow - Absicht oder Tiefschlaf des Bezirksamtes? - beantwortet
+- TOP 1.23: Kompostierbarer Hausmüll - überwiesen
+- TOP 1.24: Ernennung von Beamten zur Anstellung - beantwortet
+- TOP 1.25: Marode Ställe an der BAB 114 - in der BVV abgelehnt
+- TOP 1.26: Umzugsmanagement des Bezirkes - beantwortet
+- TOP 1.27: Bebauungsplan XVIII-VE-1 - überwiesen
+- TOP 1.28: Umgang des Bezirks Pankow mit den Vorschlägen der Hartz-Kommission - beantwortet
+- TOP 1.29: Glaubwürdigkeit von Aussagen von Mitgliedern des Bezirksamtes - beantwortet
+- TOP 1.30: Freie Träger im Bereich der Hilfe in besonderen Lebenslagen - überwiesen
+- TOP 1.31: Zugang zu Planungsunterlagen für beteiligte Ausschüsse der BVV - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Zaun an der Zufahrt zur KGA Lindenhof - überwiesen
+- TOP 1.33: Leitsystem für LKW während der Baumaßnahmen in der Pistoriusstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Wiedereinführung der Buslinie 257 - überwiesen
+- TOP 1.35: Kein Schleichverkehr in Heinersdorf - Verkehrsberuhigung für ein Wohngebiet - überwiesen
+- TOP 1.36: Mittelfreigabe für die Verstärkungsmittel Titel 97113 im Kapitel 5950 - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.1: Bericht zur öffentlichen Infrastruktur in Sanierungsgebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Bauliche Mängel in der Kita "La Cigale" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Sicherung der Kleingartenanlage "Straße vor Schönholz" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Schleichverkehr in Heinersdorf - Zurückweisung einer Bezirksamtsvorlage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Schönerlinder Weg - Zurückweisung einer Bezirksamtsvorlage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Kleingartenbericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Genehmigungsvorbehalt in Milieuschutz- und Sanierungsgebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Erweiterung des Privatschulangebotes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Erzieherausstattung im offenen Ganztagesbetrieb bzw. der hortähnlichen Betreuung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Life Science Center Berlin-Buch - zur Kenntnis genommen
+- TOP 2.11: Kostenlose Abnahme von Spermüll - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Märkte in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Schutz der in den Milieuschutzgebieten wohnenden Menschen und deren Sozialstruktur - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Durchführung eines Bürgerbegehrens gemäß § 41 BezVG auf Antrag der Bürgerinitiative "Pankow bleibt" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Bebauungsplan XVIII-40, Ortsteil Heinersdorf - Änderung der Planungsziele - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Antragsprüfkreterien für die Milieuschutzgebiete gem. § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Verlegung von Gedenksteinen im Rahmen des "Projektes Stolpersteine" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: Laubsammeln in Pankow - schriftlich beantwortet
