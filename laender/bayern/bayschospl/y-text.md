@@ -1,0 +1,1 @@
+Auf Grund des Art. 5 Abs. 2 des Gesetzes über das Erziehungs- und Unterrichtswesen (EUG) vom 9. März 1960 (GVBl. S. 19), zuletzt geändert durch das Gesetz vom 27. Juli 1971 (GVBl. S. 252), erläßt das Bayerische Staatsministerium für Unterricht und Kultus folgende Schulordnung:
