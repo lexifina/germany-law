@@ -1,1 +1,1 @@
-# Verordnung zur Übertragung von Aufgaben der Finanzverwaltung auf das Finanzamt Bremen-Nord vom 20. Juni 1990
+# Verordnung zur Übertragung von Aufgaben der Finanzverwaltung auf bestimmte Finanzämter (Annahmestellen Zuständigkeitsverordnung) vom 1. Juli 1997
