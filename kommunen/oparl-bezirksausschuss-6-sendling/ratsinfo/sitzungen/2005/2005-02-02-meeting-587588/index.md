@@ -1,0 +1,53 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2005-02-02T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/587588
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/587588
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 3.: Gaststättenangelegenheiten
+- TOP 3.1.: Einführung der "Putzstundenregelung" als gesetzliche Regelsperrzeit in Bayern
+- TOP 3.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 4.: Verkehrsangelegenheiten
+- TOP 4.1.: Abmarkierung der Parkplätze am Gotzinger Platz - <div>Erneute Behandlung abgelehnt</div>
+- TOP 5.: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 5.1.: Budgetantrag der Montessori-Schule; Â? 246,- - <div>vertagt</div>
+- TOP 6.: Referat für Stadtplanung und Bauordnung
+- TOP 6.1.: Meldelisten Bauvorhaben
+- TOP 6.2.: Bauvorhaben Schanzenbachstr. 1 - <div>Zur Kenntnis genommen</div>
+- TOP 6.3.: Bauvorhaben Brudermühlstraße / Implerstraße; Errichtung eines Antennenmastens für BOS-Funk - <div>qualifizierte Vertagung</div>
+- TOP 6.4.: Bauvorhaben Plinganserstraße 19; Nutzungsänderung - <div>qualifizierte Vertagung</div>
+- TOP 6.5.: Bauvorhaben Oberländerstraße 4; DG Aufstockung, Balkon- und Aufzugsanbau - <div>Zustimmend zur Kenntnis genommen</div>
+- TOP 6.6.: Bauvorhaben Demleitnerstraße 1 - 23; Neubau von 30 Wohnungen als Dachausbau bzw. Teilaufstockung - <div>Zustimmend zur Kenntnis genommen</div>
+- TOP 7.: Baureferat
+- TOP 7.1.: Verbesserung der Aufenthaltsqualität des Margaretenplatzes; Verhinderung des "Wildparkens" durch bauliche Maßnahmen
+- TOP 7.2.: BUGA München 2005; Übersicht über die Veranstaltungen der Bezirksausschüsse
+- TOP 7.3.: Fahrbahnsanierung Brudermühlstraße 2 - 52 - <div>Zustimmend zur Kenntnis genommen</div>
+- TOP 7.4.: Salzstreuung auf der Treppe an der Lipowskystraße / Lindwurmstraße
+- TOP 7.5.: Isar-Plan; Verbesserung der Hochwassersicherheit und naturnahen Umgestaltung der Isar; Beauftragung der Entwurfs- und Genehmigungsplanung
+- TOP 7.6.: Nulltoleranz gegenüber Schmutzfinken und keine Fixerspritzen auf Spielplätzen
+- TOP 8.: Baum- und Umweltschutz
+- TOP 8.1.: Baumfällungen Bauvorhaben Bavariastraße 6 - <div>Zustimmung, einstimmig - mit Ersatzpflanzung</div>
+- TOP 8.2.: Baumfällungen Bauvorhaben Demleitnerstraße 1 - 23 - <div>Zustimmung, einstimmig - mit Ersatzpflanzung</div>
+- TOP 8.3.: Baumfällung Plinganserstraße 51; Begründung der Fällungsgenehmigung
+- TOP 8.4.: Baumfällung Plinganserstraße 15
+- TOP 9.: Soziales- und Sozialreferat
+- TOP 9.1.: Planung der strukturellen Einführung des SBH 6 / 7
+- TOP 10.: Schulreferat
+- TOP 10.1.: Grundschule an der Pfeuferstraße - Sprengelbildung - <div>Zustimmung, einstimmig</div>
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Fortschreibung der Machbarkeitsstudie Bürgerzentren
+- TOP 13.2.: Finanzplan 2004 - 2008
+- TOP 13.3.: Frühkindliche Gesundheitsförderung; Schließung der Mütter-/Väterberatungsstellen zugunsten vermehrter Hausbesuche - <div>Stellungnahme Beschlossen</div>
+- TOP 13.4.: Bericht der Intitiative "Historische Lernorte in Sendling"
