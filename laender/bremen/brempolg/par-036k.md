@@ -5,7 +5,7 @@
 2. bei der nach bestimmten Fristen vorzunehmenden Überprüfung oder aus Anlass einer Einzelfallbearbeitung festgestellt wird, dass ihre Kenntnis für die speichernde Stelle zur Erfüllung der in ihrer Zuständigkeit liegenden Aufgaben nicht mehr erforderlich ist.
 Ist eine Löschung wegen der besonderen Art der Speicherung nicht oder nur mit unverhältnismäßigem Aufwand möglich, kann an die Stelle der Löschung die Sperrung treten.
 (3) Sind personenbezogene Daten in Akten gespeichert, sind sie im Fall von Absatz 2 Nr. 1 durch Anbringung eines entsprechenden Vermerks zu sperren. Im Fall von Absatz 2 Nr. 2 sind die Akten spätestens zu vernichten, wenn die gesamte Akte zur Erfüllung der in der Zuständigkeit der speichernden Stelle liegenden Aufgaben nicht mehr erforderlich ist.
-(4) Der Senator für Inneres, Kultur und Sport legt durch Verwaltungsvorschrift die Fristen fest, nach deren Ablauf zu prüfen ist, ob die weitere Speicherung der Daten zur Aufgabenerfüllung erforderlich ist. Die Fristen dürfen
+(4) Der Senator für Inneres und Sport legt durch Verwaltungsvorschrift die Fristen fest, nach deren Ablauf zu prüfen ist, ob die weitere Speicherung der Daten zur Aufgabenerfüllung erforderlich ist. Die Fristen dürfen
 1. bei Erwachsenen zehn Jahre,
 2. bei Minderjährigen fünf Jahre und
 3. bei Minderjährigen, die das 14. Lebensjahr nicht vollendet haben, zwei Jahre
