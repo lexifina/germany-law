@@ -1,0 +1,323 @@
+---
+ecli: "ECLI:DE:BGH:2002:180302IIZR11.01.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-02"
+aktenzeichen: "II ZR 11/01"
+decided: "2002-03-18"
+typ: "U"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2002&Sort=1&Seite=19&nr=19584&anz=2753&pos=576&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-02_LE_2002-03-18_II_ZR_11_01_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/aktg/0036.md", "germany/bund/acts/aktg/0210.md", "germany/bund/acts/gmbhg/0057.md", "germany/bund/acts/gmbhg/0057i.md", "germany/bund/acts/zpo/0330.md", "germany/bund/acts/zpo/0557.md"]
+---
+
+# Bundesgerichtshof, II ZR 11/01 vom 2002-03-18
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                    IM NAMEN DES VOLKES
+
+                         VERSÄUMNISURTEIL
+II ZR 11/01                                                     Verkündet am:
+                                                                18. März 2002
+                                                                Boppel
+                                                                Justizamtsinspektor
+                                                                als Urkundsbeamter
+                                                                der Geschäftsstelle
+                             in dem Rechtsstreit
+
+Nachschlagewerk: ja
+BGHZ:               nein
+BGHR:               ja
+
+GmbHG §§ 7, 8 Abs. 2, 11, 55-57
+
+
+a) Zur Frage der Bewertung des Vermögens einer Vor-GmbH, deren Ingangsetzung in der Zeit zwischen Aufnahme der Geschäftstätigkeit und Eintragung in das Handelsregister bereits zu einer als Unternehmen anzusehenden Organisationseinheit geführt hat.
+b) Die Leistung einer Bareinlage aus einer Kapitalerhöhung, durch die der Debetsaldo eines Bankkontos zurückgeführt wird, kann auch dann zur freien
+  Verfügung erfolgt sein, wenn das Kreditinstitut der Gesellschaft mit Rücksicht auf die Kapitalerhöhung auf einem anderen Konto einen Kredit zur
+  Verfügung stellt, der den Einlagebetrag erreicht oder übersteigt.
+c)Bei einer Kapitalerhöhung ist die Bareinlage schon dann zur (endgültig) freien Verfügung der Geschäftsführung geleistet worden, wenn sie nach dem
+  Kapitalerhöhungsbeschluß in ihren uneingeschränkten Verfügungsbereich
+  gelangt ist und nicht an den Einleger zurückfließt (Aufgabe von BGHZ 119,
+  177 - Leitsätze b + c).
+
+                                   -2-
+
+
+
+
+d) Bei der Anmeldung der Kapitalerhöhung zur Eintragung in das Handelsregister hat die Geschäftsführung zu versichern, daß der Einlagebetrag für die
+  Zwecke der Gesellschaft zur (endgültig) freien Verfügung der Geschäftsführung eingezahlt und auch in der Folge nicht an den Einleger zurückgezahlt
+  worden ist.
+
+
+BGH, Versäumnisurteil vom 18. März 2002 - II ZR 11/01 - OLG Naumburg
+                                                        LG Halle
+
+                                      -3-
+
+
+
+      Der II. Zivilsenat des Bundesgerichtshofes hat auf die mündliche Verhandlung vom 18. März 2002 durch den Vorsitzenden Richter Dr. h.c. Röhricht,
+die Richter Dr. Hesselberger, Prof. Dr. Henze, Kraemer und die Richterin
+Münke
+
+
+für Recht erkannt:
+
+
+      Auf die Revision des Beklagten wird das Urteil des 7. Zivilsenats
+      des Oberlandesgerichts Naumburg vom 8. Dezember 2000 aufgehoben.
+
+
+      Die Sache wird zur anderweiten Verhandlung und Entscheidung,
+      auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.
+
+
+                              Von Rechts wegen
+
+
+
+
+                                 Tatbestand:
+
+
+      Die Klägerin, Verwalterin in dem Gesamtvollstreckungsverfahren über
+das   Vermögen       der   I. GmbH,   verlangt   von   dem   Beklagten    die
+Zahlung des Einlagebetrages, der auf den von dem Beklagten gehaltenen Geschäftsanteil an der Gemeinschuldnerin entfällt. Dem liegt folgender Sachverhalt zugrunde:
+
+                                     -4-
+
+
+
+
+      Die Gemeinschuldnerin ist mit Vertrag vom 3. Dezember 1991 errichtet
+worden. Nachdem ihr Stammkapital mit Beschluß vom 12. August 1992 um
+1.000,00 DM auf 51.000,00 DM erhöht worden war, wurde die Gesellschaft am
+13. Oktober 1992 in das Handelsregister eingetragen. Die Eintragung der Kapitalerhöhung erfolgte am 13. September 1993. Mit Beschluß vom 21. März
+1994 wurde das Stammkapital um weitere 600.000,00 DM auf 651.000,00 DM
+erhöht. Diese Kapitalerhöhung ist nach Anmeldung am 29. März 1995 am
+16. April 1998 in das Handelsregister eingetragen worden. Der Beklagte erwarb den von ihm gehaltenen Geschäftsanteil im Nennwert von 25.000,00 DM
+vor dem 12. August 1992; im übrigen war er an der Kapitalerhöhung vom
+21. März 1994 beteiligt. Zuletzt war er nach teilweiser Veräußerung seiner Beteiligung an Mitgesellschafter an dem Stammkapital der Gesellschaft noch mit
+einem Betrag von nominal 84.600,00 DM beteiligt.
+
+
+      Die nach der Errichtung der Gesellschaft und nach der ersten Kapitalerhöhung fälligen Beträge von 50.000,00 DM und 1.000,00 DM sind ebenso wie
+die aus der Kapitalerhöhung vom 21. März 1994 hervorgegangenen Beträge
+auf   das    bei   der   V.bank    E.      geführte   Konto   Nr.   der   Gemeinschuldnerin eingezahlt worden. Zu dem Zeitpunkt der Einzahlung der Beträge von 50.000,00 DM und 1.000,00 DM trifft das Berufungsgericht keine
+Feststellungen, ebensowenig zur Höhe der Beteiligung des Beklagten im Zeitpunkt der Eintragung der Gesellschaft; der Betrag von 600.000,00 DM ist in der
+Zeit bis zum 31. März 1994 an die Gesellschaft gezahlt worden.
+
+
+      Die Klägerin behauptet, der Rechtsvorgänger des Beklagten habe zwar
+den auf ihn entfallenden Einlagebetrag gezahlt; dieser habe jedoch nicht aus-
+
+                                            -5-
+
+
+
+gereicht, um die bereits bei Eintragung der Gesellschaft bestehende Unterbilanz zu beseitigen. Auch der aus der zweiten Kapitalerhöhung geschuldete
+Betrag sei beglichen worden. Jedoch sei diese Leistung nicht zur freien Verfügung der Geschäftsführung erfolgt. Denn mit dem Betrag sei der für das Gesellschaftskonto      von    der     V.bank       E.   der   Gemeinschuldnerin   gewährte Überziehungskredit getilgt worden. Aus diesem Grunde sei der Beklagte verpflichtet, den aus diesen Gründungs- und Kapitalerhöhungsvorgängen auf seinen Anteil entfallenden Betrag von 84.600,00 DM noch einmal zu
+zahlen.
+
+
+          Der Beklagte bestreitet, daß bereits vor Eintragung der Gemeinschuldnerin in das Handelsregister eine Unterbilanz vorgelegen habe. Er behauptet
+ferner,      der   von      der    V.bank     E.       auf   dem   Konto   gewährte
+Rahmenkredit sei durch stillschweigend zustande gekommene Vereinbarung
+über den 31. Dezember 1993 hinaus verlängert worden. Ferner habe die
+V.bank der Gemeinschuldnerin am 17. Mai 1994 aufgrund der Kapitalerhöhung
+vom 21. März 1994 einen Investitionskredit in Höhe von 2 Mio. DM gewährt.
+
+
+          Das Landgericht hat die Klage abgewiesen, das Berufungsgericht hat ihr
+stattgegeben. Mit seiner Revision erstrebt der Beklagte die Wiederherstellung
+des Landgerichtsurteils.
+
+
+                                  Entscheidungsgründe:
+
+
+          Da die Klägerin im Verhandlungstermin trotz dessen rechtzeitiger Bekanntgabe nicht vertreten war, ist über die sie betreffende Revision durch Versäumnisurteil zu entscheiden (§§ 330, 557 ZPO). Das Urteil beruht jedoch in-
+
+                                      -6-
+
+
+
+haltlich nicht auf der Säumnis, sondern auf einer Sachprüfung (vgl. BGHZ 37,
+79, 82).
+
+
+      Die Revision des Beklagten führt zur Zurückverweisung. Die von dem
+Berufungsgericht getroffenen Feststellungen tragen die Verurteilung des Beklagten zur Zahlung des Einlagebetrages nicht.
+
+
+      1. Die Revision rügt zu Recht, daß die Feststellungen des Berufungsgerichtes zum Vorliegen einer Unterbilanz im Zeitpunkt der Eintragung der Gesellschaft rechtsfehlerhaft sind. Zwar ist die im Auftrag der Klägerin von der A.
+GmbH erstellte Vorbelastungsbilanz entsprechend den Vorgaben der Rechtsprechung des Senates unter Zugrundelegung von Fortführungswerten aufgestellt worden (Sen.Urt. v. 29. September 1997 - II ZR 245/96, ZIP 1997, 2008).
+Sie berücksichtigt aber nicht, daß die Gemeinschuldnerin in der Form der Vor-GmbH in der Zeit von ihrer Gründung am 3. Dezember 1991 bis zu ihrer Eintragung am 13. Oktober 1992 bereits geschäftlich tätig gewesen ist. Hat die
+Ingangsetzung der Vor-GmbH in der Zeit zwischen Errichtung und Eintragung
+in das Handelsregister durch Aufnahme der Geschäftstätigkeit bereits ausnahmsweise zu einer Organisationseinheit geführt, die als Unternehmen anzusehen ist, das über seine einzelnen Vermögenswerte hinaus einen eigenen
+Vermögenswert repräsentiert, muß für die Zwecke der Unterbilanzhaftung das
+Unternehmen im ganzen bewertet werden (BGHZ 140, 35). Die Revision zeigt
+auf, daß die Vor-GmbH bereits 30 Arbeitnehmer beschäftigte und einen Rahmenvertrag mit der MU. abgeschlossen hatte. Das hätte dem Berufungsgericht
+Veranlassung zu der Prüfung der Frage geben müssen, ob die Vor-GmbH bereits als selbständiges Unternehmen zu werten war. Soweit das der Fall war,
+
+                                        -7-
+
+
+
+hätte es auch eine entsprechend angepaßte Bewertung des Unternehmens
+vornehmen müssen.
+
+
+       2. a) Bei der rechtlichen Bewertung der Zahlungsvorgänge im Rahmen
+der Kapitalerhöhung vom 21. März 1994 geht das Berufungsgericht zwar zutreffend davon aus, daß die freie Verfügung der Geschäftsführung über Einlagemittel dann nicht ausgeschlossen ist, wenn mit dem Einlagebetrag ein Debetsaldo zurückgeführt wird, der die Linie eines der Gesellschaft eingeräumten
+Rahmenkredites nicht überschreitet. Denn in diesem Falle steht der Gesellschaft weiterhin Liquidität in Höhe des gezahlten Einlagebetrages zur Verfügung (BGH, Urt. v. 24. September 1990 - II ZR 203/89, ZIP 1990, 1400, 1401;
+Urt. v. 3. Dezember 1990 - II ZR 215/89, ZIP 1991, 445; vgl. auch Urt. v.
+10. Juni 1996 - II ZR 98/95, ZIP 1996, 1466, 1467). Die Revision rügt jedoch zu
+Recht, daß das Berufungsgericht diese Voraussetzungen rechtsfehlerhaft verneint hat.
+
+
+       b) Es steht zwar unstreitig fest, daß die V.bank E. den Rahmenkredit bis zum 31. Dezember 1993 befristet hatte. Aus dem übereinstimmenden Vortrag der Parteien ergibt sich jedoch, daß sie der Gemeinschuldnerin die Überziehung des maßgebenden Kontos unter erheblicher Ausweitung
+des Kreditvolumens zumindest bis zum 31. Dezember 1995 gestattet hat. Das
+Berufungsgericht leitet seine Schlußfolgerung, daß der weiterhin gestatteten
+Überziehung lediglich eine Duldung durch die V.bank, nicht aber eine stillschweigende Vereinbarung zwischen dieser und der Gemeinschuldnerin zugrunde
+gelegen habe, vor allem aus dem Inhalt des Schreibens vom 12. Oktober 1993
+her.   In    diesem   Schreiben   hat   die   V.bank   den   Kreditrahmen   auf
+
+                                      -8-
+
+
+
+600.000,00 DM erhöht und gleichzeitig ausgeführt, daß der diesen Rahmen
+übersteigende Sollbetrag des Kontos nach den Angaben der Gemeinschuldnerin durch die Gewinnspanne aus zwei Großprojekten in M. und F.
+zurückgeführt werden könne. Dem steht jedoch die zumindest bis zum
+31. Dezember 1995 unter Ausweitung des Kreditvolumens gestattete Kontoüberziehung entgegen. Daraus kann eine zwischen der Gemeinschuldnerin
+und der V.bank stillschweigend getroffene Vereinbarung über die Verlängerung
+- und Erweiterung - des Kreditvolumens dann hergeleitet werden, wenn die
+V.bank den aus ihrem Schreiben vom 12. Oktober 1993 ersichtlichen Vorbehalt nicht aufrechterhalten hat. Ob das der Fall war, hat das Berufungsgericht nicht festgestellt. Um zu einer abschließenden Beurteilung dieser Frage
+kommen zu können, muß es zu den Umständen, die der über den
+31. Dezember 1993 hinaus festgestellten Überziehung des Kontos zugrunde
+liegen, noch weitere Feststellungen treffen.
+
+
+       c) Der Beklagte hat unter Beweisantritt ferner vorgetragen, die V.bank
+habe der Gemeinschuldnerin mit Rücksicht auf die Erhöhung des Stammkapitals um 600.000,00 DM weitere Kreditzusagen gemacht. Dazu gehöre auch das
+am 17. Mai 1994 gewährte Investitionsdarlehen. Das Berufungsgericht hat das
+Bestehen eines wirtschaftlichen Zusammenhanges zwischen der Kapitalerhöhung und der Gewährung des Investitionsdarlehens als wahr unterstellt. Es
+meint jedoch, die Möglichkeit der Inanspruchnahme dieses Darlehens habe die
+freie Verfügung über den Einlagebetrag deswegen nicht gewährleistet, weil
+Kredittilgung und Krediteinräumung auf unterschiedlichen Konten vorgenommen worden seien. Das ist, wie die Revision zutreffend rügt, rechtsfehlerhaft.
+
+                                    -9-
+
+
+
+      Aus dem Vortrag des Beklagten folgt, daß die V.bank E. das
+Investitionsdarlehen von 2 Mio. DM der Gemeinschuldnerin deswegen gewährt
+hat, weil mit dem aus der Kapitalerhöhung stammenden Einlagebetrag andere
+Darlehensverbindlichkeiten der Gemeinschuldnerin zurückgeführt werden
+konnten. Dafür spricht insbesondere auch der Umstand, daß zwischen der
+Einlageleistung und der Zusage des Investitionsdarlehens weniger als zwei
+Monate gelegen haben. Erweist sich der Vortrag des Beklagten als richtig, ist
+davon auszugehen, daß zwischen Einlageleistung und der Darlehensgewährung ein rechtlicher und wirtschaftlicher Zusammenhang besteht. Unter dieser
+Voraussetzung wäre die Einlageleistung zur freien Verfügung der Geschäftsführung der Gemeinschuldnerin erbracht worden. Zwar hätte die V.bank E.
+mit der Einlageleistung eine Darlehensforderung verrechnet. Da die Geschäftsführung jedoch aufgrund der Darlehensgewährung anderweitig Liquidität in Höhe des Einlagebetrages ausschöpfen konnte, war sie in der Verfügung
+über den Einlagebetrag nicht beschränkt. Das Berufungsgericht wird daher
+dem Vortrag des Beklagten nachgehen und den dazu angebotenen Beweis
+erheben müssen, um auch zu diesem Punkt die weiterhin erforderlichen Feststellungen treffen zu können.
+
+
+      3. Die Leistung zur freien Verfügung der Geschäftsführung scheitert
+auch nicht daran, daß im Zeitpunkt des Antrages auf Eintragung der Kapitalerhöhung in das Handelsregister möglicherweise die Voraussetzung der wertgleichen Deckung des Einlagebetrages durch damit angeschaffte aktivierungsfähige Güter (vgl. BGHZ 119, 177) nicht mehr vorgelegen hat. Die Klägerin hat dazu ausgeführt, die Einlagebeträge seien zur Tilgung von Gläubigerforderungen verwendet worden, die infolge Überschuldung der Gesellschaft
+nicht mehr werthaltig gewesen seien. Der Beklagte hingegen behauptet, der
+
+                                      - 10 -
+
+
+
+Betrag, der ihm nach Leistung der Einlagen als Liquidität zur Verfügung gestanden habe, sei in Anlagegüter investiert worden. Auf die Entscheidung dieser Frage kommt es jedoch nicht an.
+
+
+      Allerdings weist die Klägerin zutreffend darauf hin, daß die Geschäftsführung einer Kapitalgesellschaft nach dem zitierten Senatsurteil über den
+Einlagebetrag aus einer Kapitalerhöhung vor dem Zeitpunkt des Eintragungsantrages nur unter dem Vorbehalt wertgleicher Deckung verfügen darf. Die
+Mittel müßten so eingesetzt werden, daß der Gesellschaft ein dem aufg ewandten Betrag entsprechendes Aktivum zufließe (aaO S. 187). An dieser
+Rechtsprechung hält der Senat nicht mehr fest. Gegen sie ist zu Recht eingewandt worden, der Vorbehalt wertgleicher Deckung komme nur dann in Betracht, wenn Verfügungen über Einlagen, die zwischen dem Kapitalerhöhungsbeschluß und dem Antrag auf Eintragung der Kapitalerhöhung in das Handelsregister vorgenommen würden, in ähnlicher Weise das Erfordernis eines besonderen Gläubigerschutzes auslösen würden wie Verfügungen über Einlagen,
+die bei der Gründung zwischen der Errichtung der Gesellschaft und dem Antrag auf ihre Eintragung geleistet werden. Das ist jedoch nicht der Fall, weil bei
+der Kapitalerhöhung die Einlage - anders als bei der Gründung - an die bereits
+bestehende Gesellschaft geleistet wird und es deswegen besonderer Maßnahmen zur Gewährleistung einer ordnungsgemäßen Aufbringung des Stammkapitals nicht bedarf (Priester, ZIP 1994, 599, 602; vgl. dazu auch Karsten
+Schmidt, AG 1986, 106, 107 ff. und Hommelhoff/Kleindiek, ZIP 1987, 477,
+482 ff.). Auch der Ansicht, der Erhöhungsbetrag müsse im Zeitpunkt der Anmeldung der Kapitalerhöhung noch durch das Reinvermögen der Gesellschaft
+gedeckt sein (so Ihrig, Die endgültig freie Verfügung für die Einlage von Kapitalgesellschaften 1991, S. 303 ff., ihm folgend Ulmer, GmbH-Rundschau 1993,
+
+                                     - 11 -
+
+
+
+189, 195) vermag der Senat nicht zu folgen. Soweit sie auf die Regelung des
+§ 210 Abs. 1 Satz 2 AktG bzw. § 57 i Abs. 1 Satz 2 GmbHG gestützt wird, nach
+der die eine Kapitalerhöhung aus Gesellschaftsmitteln anmeldenden Organmitglieder versichern müssen, daß nach ihrer Kenntnis zwischen dem Stichtag
+der eingereichten Bilanz und dem Tag der Anmeldung keine die Erhöhung verhindernden Vermögensminderungen eingetreten sind, liegt dem kein allgemeines, auch für die Kapitalerhöhung gegen Einlagen maßgebendes Prinzip zugrunde. Zutreffend ist darauf hingewiesen worden, daß mit dieser Versicherung
+lediglich der Zeitraum überbrückt werden soll, der zwischen der das Vorhandensein der umzuwandelnden Rücklagen nachweisenden Bilanz und dem Anmeldungszeitpunkt liegt (Priester, ZIP 1994 aaO S. 603). Hüffer (ZGR 1993,
+474, 482 f.) ist zwar zuzugestehen, daß sich nach dem Wortlaut des Gesetzes
+der Gegenstand der Leistung endgültig in der freien Verfügung der Geschäftsführung befinden muß (§ 57 Abs. 2 Satz 1 GmbHG, § 188 Abs. 2 Satz 1 i.V.m.
+§ 36 Abs. 2 Satz 1 AktG). Darin mag die Vorstellung des historischen Gesetzgebers zum Ausdruck kommen, der die Kapitalerhöhung als (erweiternde) Teilneugründung verstanden hat (vgl. Henze, Die treuhänderische und haftungsrechtliche Stellung des Sacheinlegers bei Kapitalerhöhungen unter besonderer
+Berücksichtigung der Banken 1970, S. 155 ff.). Diese Vorstellung ist jedoch
+überholt. Die Kapitalerhöhung gehört zwar zu den der Entscheidung durch die
+Hauptversammlung vorbehaltenen Grundlagengeschäften; sie führt jedoch
+nicht zu einer Veränderung der Kapitalgesellschaft in ihrer Eigenschaft als juristische Person, sondern führt lediglich zu einer Erweiterung des nach der gesetzlichen Konzeption dem Schutz der Gläubiger dienenden Haftkapitals. Da
+das Vermögen, das der Deckung der erhöhten Kapitalziffer dient, bei der Kapitalerhöhung unmittelbar der Gesellschaft zufließt, gelangt es in den Entscheidungs- und Handlungsbereich des geschäftsführenden Organs. Damit ist
+
+                                     - 12 -
+
+
+
+der Vorgang der Mittelaufbringung abgeschlossen. Von diesem Zeitpunkt an ist
+das geschäftsführende Organ berechtigt und verpflichtet, im Rahmen seiner
+unternehmerischen Entscheidungsfreiheit im Interesse der Gesellschaft über
+das eingebrachte Vermögen zu verfügen. Anders ist das lediglich zu beurteilen
+in den Fällen verdeckter Sacheinlagen, bei denen die Gesellschaft lediglich
+Durchgangsstation einer Leistung des Einlegers an sich selbst ist (vgl. dazu
+BGHZ 113, 335) sowie bei der unmittelbaren Leistung an einen Gesellschaftsgläubiger, bei der jegliche Einwirkungsmöglichkeit des Geschäftsführers ausgeschlossen wird (BGHZ 119, 177, 188 f.). Bei dieser Sachlage wohnt dem
+Wortlaut der angeführten Vorschriften eine überschießende Tendenz inne, die
+durch teleologische Reduktion auf den zutreffenden und erforderlichen Regelungsbereich zurückzuführen ist.
+
+
+      Danach ist davon auszugehen, daß bei der Kapitalerhöhung die Leistung der Einlage schon dann zur freien Verfügung der Geschäftsführung erbracht worden ist, wenn sie in ihren uneingeschränkten Verfügungsbereich
+gelangt ist. Eine zeitliche Grenze für diese Leistung wird lediglich durch das
+Erfordernis eines Kapitalerhöhungsbeschlusses gesetzt. Wird sie danach bis
+zur Eintragung der Kapitalerhöhung in das Handelsregister zu irgendeinem
+Zeitpunkt ordnungsgemäß ohne späteren Rückfluß an den Einleger erbracht,
+hat der Einleger seine Leistungspflicht erfüllt, so daß er von der Einlageverpflichtung frei wird. Die Versicherung des Geschäftsführers hat dahin zu lauten,
+daß der Betrag der Einzahlung zur freien Verfügung der Geschäftsführung für
+die Zwecke der Gesellschaft eingezahlt und auch in der Folge nicht an den
+Einleger zurückgezahlt worden ist. Nach alledem kann der Beklagte nicht als
+verpflichtet angesehen werden, die Einlage nochmals zu leisten.
+
+                                    - 13 -
+
+
+
+      4. Die Klägerin hat behauptet, die Gesellschafter seien im Umfange der
+Einlageleistung von ihren zugunsten der Gemeinschuldnerin übernommenen
+Bürgschaftsverpflichtungen befreit worden. Schon aus diesem Grunde sei eine
+Leistung zur freien Verfügung der Geschäftsführung nicht erbracht worden.
+Das ist unrichtig. Trifft der Vortrag der Klägerin zu, kann die Folge lediglich
+sein, daß die Gesellschaft einen Rechtsanspruch auf Wiedereinräumung der
+Bürgschaft oder auf Leistung eines entsprechenden Erstattungsbetrages hätte.
+Dabei kann die Frage offenbleiben, ob dieser Anspruch nur gegen den Rechtsvorgänger des Beklagten oder auch gegen diesen besteht.
+
+
+      5. Der Revision des Beklagten war aufgrund dieser Umstände stattzugeben. Die Sache war an das Berufungsgericht zurückzuverweisen, damit es
+- gegebenenfalls nach ergänzendem Sachvortrag durch die Parteien - Gelegenheit erhält, die für eine sachgemäße Entscheidung noch erforderlichen
+Feststellungen zu treffen. Dabei hat es erforderlichenfalls auch die weitergehenden Rügen der Revision gegen die von der A. GmbH erstellte Vorbelastungsbilanz zu prüfen.
+
+
+
+
+Röhricht                        Hesselberger                             Henze
+
+
+                Kraemer                                Münke
