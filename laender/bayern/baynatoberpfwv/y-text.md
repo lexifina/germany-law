@@ -1,0 +1,1 @@
+Auf Grund von Art. 11, 45 Abs. 1 Nr. 2 und Art. 37 Abs. 2 Nr. 1 des Bayerischen Naturschutzgesetzes – BayNatSchG – (BayRS 791-1-U), zuletzt geändert durch Gesetz vom 28. April 1994 (GVBl S. 299), erläßt das Bayerische Staatsministerium für Landesentwicklung und Umweltfragen folgende Verordnung:
