@@ -1,0 +1,64 @@
+# 15. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2003-02-27T16:00:00+01:00
+- Ende: 2003-02-27T22:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=238
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=238
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_12 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Wahl des Schriftführers - vertagt
+- TOP 8: (vertraulich)
+- TOP 9: Neuwahl des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 10: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - gewählt
+- TOP 11: Solar-aktiv - beantwortet
+- TOP 12: Hartz-Konzept - schriftlich beantwortet
+- TOP 13: Schaffung eines bezirklichen Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" und Verfahren zur Verteilung des Ehrenzeichens
+- TOP 14: Benennung neuer Straßen am Bahnhof Schöneweide - mit Änderungen in der BVV beschlossen
+- TOP 15: Modellprojekt von freien Trägern und Schulamt
+- TOP 16: Busspur auf der B 96a
+- TOP 17: Beschäftigtenumfrage
+- TOP 18: Bebauungsplan XV-46 hier: Planreife für das Grundstück Müngersdorfer Straße / Ewaldstraße 116/122, Ortsteil Altglienicke
+- TOP 19: Lärmschutzgestaltung
+- TOP 20: Unzulängliche Zustände im Abschiebegewahrsam Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 21: - Widmung und Einbeziehung der neu gebauten Verbindungsstraße zwischen der Planstraße West 2 und der Straße am Flugplatz in Berlin-Johannisthal in den Segelfliegerdamm und Benennung in "Segelfliegerdamm" - Umbenennung des bisherigen Teilstücks des Segelfliegerdamms zwischen Winckelmannstraße und Planstraße West 2 in "Alter Segelfliegerdamm" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 22: Schließung der Oberschule am Lakegrund (Gesamtschule) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 23: Schließung der Grundschule am Birkenwäldchen - vertagt
+- TOP 24: Schließung der Grundschule am Saturnring - vertagt
+- TOP 25: Schließung der Hirschgarten-Grundschule - vertagt
+- TOP 26: Gestaltung des mit dem BA-Beschluss 43/02 geschaffenen Ehrenzeichens "Bürgermedaille Bezirk Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 27: Aufstellungsbeschluss für eine Erhaltungsverordnung für die Pflanzgartensiedlung, Ortsteil Köpenick - überwiesen
+- TOP 28: Widmung und Benennung des neu gebauten Straßenabschnittes zwischen Rixdorfer Straße und Schnellerstraße in Niederschöneweide in "Karlshorster Straße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 29: Beratungsangebote - überwiesen
+- TOP 30: Kitaübertragungen zum Kitajahr 2003/2004 gemäß den Vorgaben vom Senat - mit Änderungen in der BVV beschlossen
+- TOP 31: Rollheimerdorf in der Wuhlheide - überwiesen
+- TOP 32: Straßenbenennung in Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 33: Abschaffung des Dienstwagens für den Bezirksbürgermeister - überwiesen
+- TOP 34: Koordinierungsstelle für ambulante Rehabilitation älterer Bürger - ohne Änderungen in der BVV beschlossen
+- TOP 35: Integration von Vietnamesinnen - überwiesen
+- TOP 36: Radikale Senkung der Parkgebühren in der Köpenicker Altstadt (Parkraumbewirtschaftung) - überwiesen
+- TOP 37: Widmung und Benennung eines Weges in Altglienicke in "Schattenweg" - ohne Änderungen in der BVV beschlossen
+- TOP 38: Kenntlichmachung der Mittelinsel Schnellerstraße / Bruno-Bürgel-Weg - überwiesen
+- TOP 39: Einführung von Teilinklusivmieten - überwiesen
+- TOP 40: Benennung vom 2 Straßen in Müggelheim in Müggellandstraße und Norheimer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 41: Mehr Rechte für Einwohnerinnen und Einwohner im Bezirk - überwiesen
+- TOP 42: Fußweg zum Zentrum von Altglienicke - überwiesen
+- TOP 43: Benennung eines Platzes in Johannisthal in Albineaplatz - gegenstandslos
+- TOP 44: Mehr Rechte für die Bezirke in Berlin - überwiesen
+- TOP 45: Internetauftritt des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 46: Auswirkungen des Ausstieges aus der Anschlussförderung des sozialen Wohnungsbaus für Treptow-Köpenick - vertagt
+- TOP 47: Flughafen Berlin-Schönefeld - vertagt
+- TOP 48: Erhalt des Hauses Natur und Umwelt
+- TOP 49: Zeitweise Freigabe Altglienicker Brücke - ohne Änderungen in der BVV beschlossen
+- TOP 50: Würdigung Städtepartnerschaft Albinea
