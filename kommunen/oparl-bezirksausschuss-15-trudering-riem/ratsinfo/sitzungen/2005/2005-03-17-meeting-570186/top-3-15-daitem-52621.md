@@ -1,0 +1,7 @@
+# TOP 3.15.: Einführung von kostenlosen Parktickets für MVV Pendler an P&R Anlagen, Antrag Nr. 2400 des BA 15 vom 23.09.2004
+
+- Sitzung: BA 15 - Vollgremium (2005-03-17)
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/52621
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/52621
