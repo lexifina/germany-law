@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Herford
+- Beginn: 2001-09-21T16:00:00+02:00
+- Ende: 2001-09-21T21:00:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdV_HDWlmLd3yoXksP1AELw
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/258
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 22.06.2001
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.5: Innen-und Stadtentwicklung
+- TOP A.6: Organisationsstruktur der Verwaltung hier: Dezernatsverteilungsplan
+- TOP A.7: Unternehmen Stadt Herford; hier: Reorganisationsüberlegungen in der Verwaltung und in städtischen Tochterunternehmen
+- TOP A.8: Festlegung der Termine für die Sitzungen des Haupt-und Finanzausschusses sowie des Rates im Jahre 2002
+- TOP A.9: Änderung der Hauptsatzung der Stadt Herford a) § 17 Beigeordnete b) § 8 Ersatz von Verdienstausfall
+- TOP A.10: Allgemeine Vertretung des Bürgermeisters
+- TOP A.11: Festsetzung der Höhe der Fraktionsmittel
+- TOP A.12: Schiedsamtsbezirk Herford I Wahl einer Schiedsperson
+- TOP A.13: Weiterführung der Vereinbarung über die Zusammenarbeit in der regionalen Arbeitsgemeinschaft Arbeit und Leben -DGB/VHS-
+- TOP A.14: Beschäftigung Schwerbehinderter bei der Stadt Herford und ihren wesentlichen wirtschaftlichen Beteiligungen
+- TOP A.15: Machbarkeitsstudie zur Präsentation der Stadt- und Stiftsgeschichte
+- TOP A.16: Beitritt der Stadt Herford in die Landesarbeitsgemeinschaft Agenda 21 (LAGA 21) in NRW
+- TOP A.17: Nachfolgeregelungen in Organen von Drittorganisationen
+- TOP A.18: Geschäftsführung der Herforder Stadtgarten-Schützenhof GmbH 1. Abberufung einer Geschäftsführerin 2. Berufung eines Geschäftsführers
+- TOP A.19: Wohnbau Herford GmbH; hier: Bestellung eines nebenamtlichen Geschäftsführers
+- TOP A.20: Benennung des städtischen Vertreters in der Gesellschafterversammlung der "INTERKOMM - Interkommunales Gewerbegebiet Ostwestfalen-Lippe GmbH"
+- TOP A.21: MKK gGmbH a) Bau-und Planungsangelegenheiten b) Ausstellungen 2001/2002 c) Änderung in der Geschäftsleitung
+- TOP A.22: Stadtwerke Herford GmbH; hier: Aufnahme eines strategischen Partners
+- TOP A.23: Resolution zum Erhalt des Herforder Zollamtes
+- TOP A.24: Quartalsbericht über die unerheblichen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen
+- TOP A.25: Entscheidung über erhebliche überplanmäßige Mehrausgaben im Teilbudget Jugendhilfe
+- TOP A.26: Zustimmung zu einer erheblichen überplanmäßigen Verpflichtungsermächtigung
+- TOP A.27: Grundsätzliche Überlegungen zum Haushalt 2002
+- TOP A.28: Jahresabschluss zum 31.12.2000 der HVV-GmbH hier: a) Entlastung des Aufsichtsrates für das Geschäftsjahr 2000 b) Beschluss über die Verlustabdeckung 2000
+- TOP A.29: Jahresabschluss 2000 der Herforder Stadtgarten- und Schützenhof GmbH hier: a) Entlastung des Aufsichtsrates b) Verlustabdeckung nach § 15 des Gesellschaftsvertrages
+- TOP A.30: Jahresabschluss 2000 des Abwasserwerkes der Stadt Herford
+- TOP A.31: Flächennutzungsplan-Teiländerung Nr. 1.00 "Gewerbegebiete" hier: Beschluss der FNP-Änderung
+- TOP A.32: Bebauungsplan Nr. 6.61 "Auf der Helle" hier: Satzungsbeschluss gemäß § 10 Baugesetzbuch (BauGB)
+- TOP A.33: Bebauungsplan Nr. 8.28a "Wellbrocker Weg / Engerstraße, Teil 1" Bebauungsplan Nr. 8.31 "Wellbrocker Weg / Engerstraße, Teil 2" vereinfachte Änderung Nr. 1.01 gemäß § 13 Baugesetzbuch (BauGB) hier: Satzungsbeschluss
+- TOP A.34: Bebauungsplan Nr. 8.28a "Wellbrocker Weg / Engerstraße, Teil 1" vereinfachte Änderung Nr. 2.01 gemäß § 13 Baugesetzbuch (BauGB) hier: Satzungsbeschluss
+- TOP A.35: Vereinfachte Änderung Nr. 1.01 des Bebauungsplanes Nr. 6.50 "Heidsiek/Lehmkuhlenweg-Süd" gemäß § 13 Baugesetzbuch (BauGB) hier: Satzungsbeschluss
+- TOP A.36: Endgültiger Ausbau des Mirabellenweges (Verlängerung) und des Rad-/Gehweges zur Elverdisser Straße; hier: Ausbauprogramm
+- TOP A.37: Endgültiger Ausbau der Zeppelinstraße von Ausbauende bis Anschluss Laarer Straße; hier: Ausbauprogramm
+- TOP A.38: Endgültiger Ausbau der Brauerstraße hier: Änderung des Ausbauprogramm-Beschlusses vom 07.04.2000
+- TOP A.39: Antrag der SPD-Fraktion; hier: Herforder Weihnachtslicht
