@@ -1,0 +1,69 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2004-12-08T16:00:00+01:00
+- Ende: 2004-12-08T20:00:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=97
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=97
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt am 17.11.2004
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Beschluss des Rates der Stadt Aachen über die Gültigkeit der Wahl des Oberbürgermeisters der Stadt Aachen, der Wahl des Rates und der Wahl der Bezirksvertretungen der Aachener Stadtbezirke am 26.09.2004
+- TOP 4: Änderung des Ortsrechteshier: Zuständigkeitsordnung u.a.
+- TOP 5: Dezernate und Besetzung von Beigeordnetenstellen; hier: Antrag der Fraktionen von SPD und Grünen vom 18.11.2004 zur Tagesordnung
+- TOP 6: Ausschreibung der Stelle der/des Beigeordneten für Finanzen
+- TOP 6.1: Ausschreibung der Stelle der/des Beigeordneten für Finanzenhier: Ergänzende Empfehlungen des Personal- und Verwaltungsausschusses
+- TOP 7: Ausschreibung der Stelle der/des Beigeordneten für Kultur und Bildung
+- TOP 7.1: Ausschreibung der Stelle der/des Beigeordneten für Kultur und Bildunghier: Ergänzende Empfehlungen des Personal- und Verwaltungsausschusses
+- TOP 7.2: Beauftragung einer Personalberatungsfirma zur Personalsuche und-auswahl zur Besetzung der auszuschreibenden Beigeordnetenstellen- Ratsantrag SPD Fraktion und Fraktion Die Grünen vom 18.11.2004
+- TOP 8: Bericht über die Prüfung der Jahresrechnung für das Haushaltsjahr 2002Allgemeiner Berichtsband
+- TOP 9: Über- und außerplanmäßige Ausgaben, Verpflichtungsermächtigungen
+- TOP 9.1: Über- und außerplanmäßige Ausgaben/ Verpflichtungsermächtigungen -Haushaltsjahr 2004-Hst. 1.79100.57040.8 Stadtmarketing anlässlich der Weltreiterspiele 2006 und EuRegionale 2008
+- TOP 9.2: Über- und außerplanmäßige Ausgaben/Verpflichtungsermächtigungen -Haushaltsjahr 2004- Hst. 9.85500.93500.2 Beschaffung von beweglichem Vermögen
+- TOP 9.3: Über- und außerplanmäßige Ausgaben/ Verpflichtungsermächtigungen -Haushaltsjahr 2004- Genehmigung einer Dringlichkeitsentscheidung bei Hst. 9.33110.98500.9 Zuschuss für Obermaschinerie (Darlehen)
+- TOP 9.4: Über- und außerplanmäßige Ausgaben/Verpflichtungsermächtigungen -Haushaltsjahr 2004-Genehmigung einer Dringlichkeitsentscheidung bei Hst. 9.06000.94290.0 Verw.Geb. Blücherplatz, Umbau
+- TOP 9.5: Über- und außerplanmäßige Ausgaben/Verpflichtungsermächtigungen -Haushaltsjahr 2004-Hst. 9.63000.95050.8 Erneuerung DB-Brücke Entenpfuhler Weg
+- TOP 9.6: Über- und außerplanmäßige Ausgaben/Verpflichtungsermächtigungen -Haushaltsjahr 2004-Kenntnisnahme von Mehrausgaben
+- TOP 9.7: Über- und außerplanmäßige Ausgaben/ VerpflichtungsermächtigungenHst. 9.70200.95220.0 Neuenhofstraße/Fringsbenden, Bebauungsplangebiet 860, Erschließung
+- TOP 9.8: Über- und außerplanmäßige Ausgaben/Verpflichtungsermächtigungen -Haushaltsjahr 2004-Hst. 1.54200.64510.0 Schadensersatz
+- TOP 10: Nachtragshaushaltssatzung 2004
+- TOP 11: Wirtschaftsplan 2005 des Aachener Stadtbetriebes
+- TOP 12: AbfallbeseitigungA) Gebühren für die Beseitigung von Abfällen durch den Zweckverband Entsorgungsregion West (ZEW)B) Gebührenbedarfsberechnung für die Abfallgebühren in der Stadt Aachen 2005C) XIV. Nachtrag zur Abfallwirtschaftssatzung vom 10.12.1992
+- TOP 12.1: AbfallbeseitigungA) Gebühren für die Beseitigung von Abfällen durch den Zweckverband Entsorgungsregion West (ZEW)B) Gebührenbedarfsberechnung für die Abfallgebühren in der Stadt Aachen 2005C) XIV. Nachtrag zur Abfallwirtschaftssatzung vom 10.12.1992
+- TOP 13: Weitere Aufgabenübertragung auf den Zweckverband Entsorgungsregion West (ZEW)1. Entsorgung der kompostierbaren Abfälle aus der Stadt Aachen2. Entsorgung der Schadstoffe aus der Stadt Aachen hier: Antrag der CDU- und SPD-Fraktion im Rat der Stadt vom 05.02.2004, Nr. 375/14 sowie Ratsbeschluss vom 23.06.2004
+- TOP 14: 17. Nachtrag zur Straßenreinigungs- und Gebührensatzung in der Stadt Aachen
+- TOP 15: 6. Nachtrag zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung) der Stadt Aachen
+- TOP 16: 6. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranalge (Kanalanschlusssatzung der Stadt Aachen)
+- TOP 17: Änderung Nr. 18 des Landschaftsplanes 1988 der Stadt Aachen- Naturschutzgebiet Brander Wald -hier: Beitrittsbeschluss zur Genehmigung der Bezirksregierung Köln vom 28.07.2004
+- TOP 18: Bebauungsplan Nr. 844 - Siedlung In den Heimgärten - für den Planbereich imStadtbezirk Aachen-Mitte im Bereich für den Planbereich Stadtbezirk Aachen-Mitteim Bereich Friedrich-Ebert-Allee, Im Gillesbachtal und Branderhofer Weg
+- TOP 19: Denkmalbereichssatzung ‚In den Heimgärten’
+- TOP 20: Entwicklung des Firmengeländes der Firma Rheinnadel im Stadtbezirk Aachen-Mittehier: 1. Aufstellungsbeschluss für einen Bebauungsplan2. Erlass einer Satzung über ein besonderes gemeindliches Vorkaufsrecht
+- TOP 21: Änderung Nr. 89 des Flächennutzungsplanes 1980 der Stadt Aachen- Erweiterung Gewerbegebiet Oberforstbach Süd - hier: Bericht über das Ergebnis der OffenlagenÄnderungsbeschluss
+- TOP 22: Auswirkungen der gestiegenen Einwohnerzahl
+- TOP 23: Ausstellung des Ermäßigungsausweises Aachen-Pass
+- TOP 24: Sportpauschale- Änderung der Richtlinien der Stadt Aachen zur Förderung des Sports- Einführung der Richtlinien für die Gewährung von Zuschüssen für Sportbaumaßnahmen durch die Stadt Aachen
+- TOP 25: Wahl des Kreiswahlausschusses für die Landtagswahl am 22.05.2005
+- TOP 26: Benennung von 4 stimmberechtigten Abgeordneten für die 33. ordentliche Hauptversammlung des Deutschen Städtetages vom 31. Mai bis 02. Juni 2005 in Berlin
+- TOP 27: Änderung der Richtlinien über die Zuwendungen zum Geschäftsbedarf der Ratsfraktionenhier: Antrag der Fraktion der CDU vom 14.10.2004 zur Tagesordnung
+- TOP 28: Besetzung der Einigungsstelle gem. § 67 Landespersonalvertretungsgesetz bei der Stadtverwaltung Aachen
+- TOP 29: Wiedereintritt der Stadt Aachen in den Verein 'Aachener Friedenspreis' e.V. hier: Antrag der Fraktionen von SPD und Grünen vom 09.11.2004
+- TOP 30: Appell 'Sozialer Konsens für Aachen'hier: Antrag der Fraktionen von SPD und Grünen sowie der PDS vom 16.11.2004 zur Tagesordnung
+- TOP 31: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 32: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.4: nicht öffentlicher Tagesordnungspunkt
