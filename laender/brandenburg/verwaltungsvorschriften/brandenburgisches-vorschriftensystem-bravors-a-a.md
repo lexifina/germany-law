@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2000-01-26 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/vereinbarung_krebsregister_2000
+- Datum: 2000-03-22 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/hygiene_2000
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -27,178 +27,50 @@ A |
 
 Aktuelle Fassung
 
-Bekanntmachung der Vereinbarung zwischen der Bundesrepublik Deutschland, vertreten durch die Bundesministerin für Gesundheit, und den Ländern, vertreten durch die für das Gesundheitswesen zuständigen Ministerinnen und Minister, Senatorinnen und Senatoren, über die Finanzierung des Kinderkrebsregisters beim Institut für medizinische Statistik und Dokumentation des Klinikums der Johannes Gutenberg-Universität Mainz
+Durchführung der Hygieneüberwachung in medizinischen Einrichtungen
 
-vom 26. Januar 2000
+vom 22. März 2000
 
-(ABl./00, [Nr. 08], S.70)
+(ABl./00, [Nr. 16], S.208)
 
-Die in Trier am 9. und 10. Juni 1999 unterzeichnete Vereinbarung zwischen der Bundesrepublik Deutschland, vertreten durch die Bundesministerin für Gesundheit, und den Ländern, vertreten durch die für das Gesundheitswesen zuständigen Ministerinnen und Minister, Senatorinnen und Senatoren, über die Finanzierung des Kinderkrebsregisters beim Institut für medizinische Statistik und Dokumentation des Klinikums der Johannes Gutenberg-Universität Mainz ist nach ihrem Artikel 5 am
+Die Gesundheitsämter der Landkreise und kreisfreien Städte haben gemäß § 19 Abs. 1 Nr. 1 und 3 des Brandenburgischen Gesundheitsdienstgesetzes vom 3. Juni 1994 (GVBl. I S. 178) die Aufgabe, medizinische Einrichtungen und deren Leistungen auf die Einhaltung der Anforderungen an die Hygiene zu überwachen. Um eine einheitliche qualitätsgerechte Durchführung der Hygieneüberwachung im Land Brandenburg zu gewährleisten, wird folgende Empfehlung gegeben.
 
-1. Januar 2000 in Kraft getreten. Die Vereinbarung wird nachstehend veröffentlicht.
+1. Allgemeines
 
-Potsdam, den 26. Januar 2000
+1.1. Die Gesundheitsämter der Landkreis und kreisfreien Städte überwachen medizinische Einrichtungen auf die Einhaltung der infektionshygienischen Anforderungen und beraten diese mit dem Ziel, Infektionsgefahren für die betreuten Patienten abzuwehren.
 
-Der Minister für Arbeit, Soziales, Gesundheit und Frauen
+1.2. Die Gesundheitsämter arbeiten bei der Erfüllung dieser Aufgabe mit anderen am Gesundheitsschutz beteiligten Behörden zusammen.
 
-Alwin Ziel
+1.3. Medizinische Einrichtungen im Sinne dieses Rundschreibens sind Krankenhäuser, Vorsorge- und Rehabilitationseinrichtungen, Einrichtungen für ambulantes Operieren, Dialyseeinrichtungen, Entbindungsheime, Kurheime und andere vergleichbare Behandlungs- oder Versorgungseinrichtungen.
 
-Vereinbarung über die Finanzierung des Kinderkrebsregisters beim Institut für medizinische Statistik und Dokumentation des Klinikums der Johannes Gutenberg-Universität Mainz
+1.4. Überwacht werden ferner Arztpraxen, Zahnarztpraxen, Praxen sonstiger Heilberufe und Einrichtungen, in denen Tätigkeiten am Menschen durchgeführt werden, bei denen die Möglichkeit der Übertragung von Krankheitserregern durch Blut besteht.
 
-Die Bundesrepublik Deutschland, vertreten durch die Bundesministerin für Gesundheit,
+1.5. Überwachung und Beratung erfolgen auf der Grundlage geltender rechtlicher Regelungen und allgemein anerkannter fachlicher Normen und Standards.
 
-das Land Rheinland-Pfalz, vertreten durch den Minister für Arbeit, Soziales und Gesundheit
+2. Gegenstand der Überwachung
 
-sowie
+Die Gesundheitsämter überwachen die medizinischen Einrichtungen hinsichtlich der betrieblich-organisatorischen und baulich-funktionellen Erfordernisse an die Einhaltung der Hygiene. Zu den genannten Erfordernissen gehören insbesondere Angaben zu Aufgabenverteilung und Verantwortlichkeiten, zur Hygienekommission, zur fachlichen Qualifizierung der Mitarbeiter, zur Fortbildung des Pflegepersonals in Fragen der Hygiene, Angaben über Desinfektion, Reinigung und Sterilisation, zur Überwachung medizinischer Geräte, zur Erfassung und Bewertung nosokomialer Infektionen sowie die allgemeinen hygienischen und baulich-funktionellen Bedingungen.
 
-das Land Baden-Württemberg, vertreten durch den Sozialminister,
+3. Durchführung der Überwachung
 
-der Freistaat Bayern, vertreten durch die Staatsministerin für Arbeit und Sozialordnung, Familie, Frauen und Gesundheit,
+3.1. Die Gesundheitsämter führen die Überwachung und Beratung der in Nummer 1.3 genannten Einrichtungen im rahmen einer Begehung der Einrichtungen durch. Hierzu erfolgt eine rechtzeitige Abstimmung zwischen den Gesundheitsämtern und den Leiterinnen und Leitern der Einrichtungen.
 
-das Land Berlin, vertreten durch die Senatorin für Gesundheit und Soziales,
+3.2. Bei der Begehungen sollen die ärztliche Leitung, die Pflegedienst- und die Verwaltungsleitung, die Hygienefachkraft, die Leitung der Abteilung Technik, die Krankenhaushygienetechnikerin oder der Krankenhaushygieniker und die oder der in den einzelnen Fachbereichen zuständige hygienebeauftragte Ärztin oder Arzt anwesend sein.
 
-das Land Brandenburg, vertreten durch die Ministerin für Arbeit, Soziales, Gesundheit und Frauen,
+3.3. Hygienische Risikobereiche wie Operationseinheiten, Einheiten für Intensivmedizin, Frühgebührenenstationen, Dialyseeinheiten und Einheiten für Zentralsterilisation und sonstige Risikobereiche werden mindestens einmal im Jahr, übrige Bereiche wie Stationen, Laboratorien, radiologische und nuklearmedizinische Einrichtungen und andere Bereiche zweijährliche besichtigt.
 
-die Freie Hansestadt Bremen, vertreten durch die Senatorin für Frauen, Gesundheit, Jugend, Soziales und Umweltschutz,
+3.4. Die Gesundheitsämter sind befugt, Protokolle zur Sicherung infektionshygiensicher Maßnahmen, Unterlagen zur Erfassung nosokomialer Infektionen, der Überwachung von raumlufttechnischen Anlagen sowie sonstige Dokumentationen von Maßnahmen zur Verhütung und Bekämpfung von Infektionen einzusehen.
 
-die Freie und Hansestadt Hamburg, vertreten durch die Senatorin für Arbeit, Gesundheit und Soziales,
+3.5. Nach der Begehung wird durch das Gesundheitsamt innerhalb von vier Wochen ein Bericht erstellt. Dieser enthält Angaben zur infektionshygienischen Situation gemäß Nummer 2, Beanstandungen und Empfehlungen zu deren Beseitigung. Den Bericht erhält die ärztliche Leitung der Einrichtung.
 
-das Land Hessen, vertreten durch die Sozialministerin,
+4. Dokumentation und Gesundheitsberichterstattung
 
-das Land Mecklenburg-Vorpommern, vertreten durch die Sozialministerin,
+4.1. Di Ergebnisse der infektionshygienischen Überwachung medizinischer Einrichtungen sind teil der Gesundheitsberichterstattung gemäß § 15 Abs. 1 des Brandenburgischen Gesundheitsdienstgesetzes. Sie werden von den Gesundheitsämtern projektbezogen nach Vorgabe der obersten Landesgesundheitsbehörde dokumentiert und dem Landesgesundheitsamt mittels elektronischen Datenträgern übersandt.
 
-das Land Niedersachsen, vertreten durch die Ministerin für Frauen, Arbeit und Soziales,
+4.2. Das Landesgesundheitsamt informiert die oberste Landesgesundheitsbehörde übe die infektionshygienische Situation in medizinischen Einrichtungen im Land Brandenburg.
 
-das Land Nordrhein-Westfalen, vertreten durch die Ministerin für Frauen, Jugend, Familie und Gesundheit,
+5. Fortbildung
 
-das Saarland, vertreten durch die Ministerin für Frauen, Arbeit, Gesundheit und Soziales,
+Die Mitarbeiterinnen und Mitarbeiter der Gesundheitsämter, die in der Krankenhaushygiene tätig sind, sind verpflichtet, sich laufend mit den neuesten Erkenntnissen in der Krankenhaushygiene vertraut zu machen. Sie haben jährlich an entsprechenden Fortbildungsveranstaltungen teilzunehmen.
 
-der Freistaat Sachsen, vertreten durch den Staatsminister für Soziales, Gesundheit und Familie,
-
-das Land Sachsen-Anhalt, vertreten durch die Ministerin für Arbeit, Frauen, Gesundheit und Soziales,
-
-das Land Schleswig-Holstein, vertreten durch die Ministerin für Arbeit, Gesundheit und Soziales,
-
-und
-
-der Freistaat Thüringen, vertreten durch die Ministerin für Soziales und Gesundheit
-
-schließen auf der Grundlage des unter Tagesordnungspunkt 4.3 gefassten Beschlusses der Konferenz der für das Gesundheitswesen zuständigen Ministerinnen und Minister, Senatorinnen und Senatoren der Länder vom 20. und 21. November 1997 in Saarbrücken die folgende Vereinbarung:
-
-Artikel 1
-
-(1) Ab dem Haushaltsjahr 2000 beteiligen sich der Bund und die Länder (Beteiligte) nach Maßgabe der zur Verfügung stehenden Haushaltsmittel anteilig an der Finanzierung des beim Institut für medizinische Statistik und Dokumentation des Klinikums Johannes Gutenberg-Universität Mainz eingerichteten Kinderkrebsregisters nach Maßgabe der folgenden Bestimmungen.
-
-(2) Der Bund und das Land Rheinland-Pfalz tragen je ein Drittel des Finanzbedarfs des Kinderkrebsregisters.
-
-(3) Das verbleibende Drittel des Finanzbedarfs wird anteilig zwischen den Ländern einschließlich Rheinland-Pfalz nach dem „Königsteiner Schlüssel” aufgeteilt. Danach werden zwei Drittel des jeweiligen Länderanteils nach dem Verhältnis der Steuereinnahmen und ein Drittel nach dem Verhältnis der Bevölkerungszahl der Länder aufgebracht. Als Steuereinnahmen gelten die im Länderfinanzausgleich zugrunde gelegten Steuereinnahmen der Länder. Die Steuereinnahmen erhöhen oder vermindern sich um die Beträge, welche die Länder im Rahmen des Länderfinanzausgleichs von anderen Ländern erhalten oder an andere Länder abführen. Maßgebend sind die Steuereinnahmen und die vom Statistischen Bundesamt für den 30. Juni festgestellte Bevölkerungszahl des dem Haushaltsjahr zwei Jahre vorhergehenden Haushaltsjahres.
-
-Artikel 2
-
-Das für das Gesundheitswesen zuständige Ministerium des Landes Rheinland-Pfalz veranlasst, dass das Klinikum der Johannes Gutenberg-Universität Mainz den notwendigen Finanzbedarf des Kinderkrebsregisters für das nächste Haushaltsjahr nach den Grundsätzen der Sparsamkeit und Wirtschaftlichkeit ermittelt und bei diesem Ministerium die Förderung möglichst bis zum 1. Juli des laufenden Jahres für den Förderungszeitraum des folgenden Jahres beantragt. Der Antrag wird nach den jeweils geltenden haushaltsrechtlichen Vorschriften des Landes Rheinland-Pfalz geprüft.
-
-Artikel 3
-
-(1) Die Feststellung des notwendigen Finanzbedarfs des Kinderkrebsregisters für das nächste Haushaltsjahr durch das für das Gesundheitswesen zuständige Ministerium des Landes Rheinland-Pfalz bedarf der Zustimmung von mehr als zwei Drittel der für das Gesundheitswesen zuständigen obersten Behörden des Bundes und der Länder möglichst bis zum
-
-31. Oktober des laufenden Jahres.
-
-(2) Auf der Grundlage der Feststellung nach Absatz 1 ermittelt das für das Gesundheitswesen zuständige Ministerium des Landes Rheinland-Pfalz den jeweiligen Finanzanteil der Beteiligten, fordert die Beträge bei den übrigen Beteiligten an und erlässt den Zuwendungsbescheid an das Klinikum der Johannes Gutenberg-Universität Mainz.
-
-(3) Die Beträge der übrigen Beteiligten werden in zwei Raten jeweils zum 15. Januar und zum 15. Juli des Förderungszeitraums fällig.
-
-Artikel 4
-
-(1) Das Klinikum der Johannes Gutenberg-Universität Mainz legt spätestens bis zum 1. April des auf den Zuwendungszeitraum folgenden Jahres nach Maßgabe des Zuwendungsbescheides dem für das Gesundheitswesen zuständigen Ministerium des Landes Rheinland-Pfalz einen nach den jeweils geltenden haushaltsrechtlichen Vorschriften des Landes Rheinland-Pfalz prüfungsfähigen Verwendungsnachweis und in ausreichender Stückzahl einen Jahresbericht mit regionalisierter Datenaufbereitung vor, den das zuständige Ministerium des Landes Rheinland-Pfalz nach Prüfung an die übrigen Beteiligten weiterleitet.
-
-(2) Ergeben sich bei der Prüfung des Verwendungsnachweises Minderausgaben, sind diese vom Klinikum der Johannes Gu-tenberg-Universität Mainz nach Maßgabe des Zuwendungsbescheides zurückzuerstatten.
-
-(3) Das für das Gesundheitswesen zuständige Ministerium des Landes Rheinland-Pfalz teilt den übrigen Beteiligten das Ergebnis der Prüfung des Verwendungsnachweises mit; auf Wunsch gibt es ihnen den geprüften Verwendungsnachweis mit den entsprechenden Belegen bekannt.
-
-(4) Überzahlungen der Beteiligten gegenüber dem sich aus dem geprüften Verwendungsnachweis des Klinikums der Johannes Gutenberg-Universität Mainz ergebenden Finanzbedarf werden im Rahmen der Zahlung für den nächsten Zuwendungszeitraum ausgeglichen oder bei zwischenzeitlich erfolgter Kündigung rückerstattet.
-
-Artikel 5
-
-(1) Diese Vereinbarung tritt am 1. Januar 2000 in Kraft.
-
-(2) Die Vereinbarung kann von jedem Beteiligten durch schriftliche Erklärung gegenüber den übrigen Beteiligten zum Schluss eines Kalenderjahres mit Frist von zwei Jahren gekündigt werden. Innerhalb von sechs Monaten nach Zugang der Kündigungserklärung können sich andere Beteiligte dieser Kündigung anschließen.
-
-(3) Ist die Vereinbarung durch den Bund, das Land Rheinland-Pfalz oder von mehr als einem Drittel der übrigen Beteiligten gekündigt, tritt sie mit Ablauf der Kündigungsfrist außer Kraft.
-
-(4) In allen anderen Fällen gilt die Vereinbarung zwischen den verbleibenden Beteiligten fort mit der Maßgabe, dass der infolge der Kündigung nicht mehr gedeckte Finanzbedarf des Kinderkrebsregisters von den verbleibenden Ländern anteilig gemäß den Grundsätzen des Artikels 1 Abs. 3 finanziert wird.
-
-Trier, den 9./10. Juni 1999
-
-Für die Bundesrepublik Deutschland
-
-Andrea Fischer
-
-Für das Land Rheinland-Pfalz
-
-Florian Gerster
-
-Für das Land Baden-Württemberg
-
-Dr. Friedhelm Repnik
-
-Für den Freistaat Bayern
-
-Barbara Stamm
-
-Für das Land Berlin
-
-Beate Hübner
-
-Für das Land Brandenburg
-
-Dr. Regine Hildebrandt
-
-Für die Freie Hansestadt Bremen
-
-Christine Wischer
-
-Für die Freie und Hansestadt Hamburg
-
-In Vertretung
-
-Dr. Peter Lippert
-
-Für das Land Hessen
-
-Marlies Mosiek-Urbahn
-
-Für das Land Mecklenburg-Vorpommern
-
-In Vertretung
-
-Prof. Dr. Axel Azzola
-
-Für das Land Niedersachsen
-
-Heidrun Merk
-
-Für das Land Nordrhein-Westfalen
-
-Birgit Fischer
-
-Für das Saarland
-
-Barbara Wackernagel-Jacobs
-
-Für den Freistaat Sachsen
-
-In Vertretung
-
-Dr. Albin Nees
-
-Für das Land Sachsen-Anhalt
-
-Dr. Gerlinde Kuppe
-
-Für das Land Schleswig-Holstein
-
-Heide Moser
-
-Für den Freistaat Thüringen
-
-Irene Ellenberger
+Die Teilnahme an Fortbildungsveranstaltungen ist zu ermöglichen.
