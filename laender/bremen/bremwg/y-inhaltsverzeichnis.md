@@ -146,8 +146,8 @@ Abschnitt 1 - Unterhaltung
 § 101 | Unterhaltung der natürlichen Gewässer zweiter Ordnung
 § 102 | Unterhaltung der künstlichen Gewässer zweiter Ordnung
 § 102a | Unterhaltung der Gewässer dritter Ordnung
-§ 102b | Übertragung der Unterhaltungspflicht
 § 103 | Unterhaltung der Anlagen in und an Gewässern
+§ 103a | Übertragung der Unterhaltungspflicht
 § 104 | Unterhaltung der Häfen, Lande- und Umschlagstellen
 § 105 | Unterhaltungspflicht auf Grund besonderen Titels
 § 106 | Ersatzvornahme
