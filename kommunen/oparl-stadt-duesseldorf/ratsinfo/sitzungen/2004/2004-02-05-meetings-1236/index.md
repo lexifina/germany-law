@@ -1,0 +1,58 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-02-05T14:00:00+01:00
+- Ende: 2004-02-05T18:33:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1236
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1236
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111224.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111224.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111224.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Wahl eines/einer Beigeordneten - mehrheitlich beschlossen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Akt. Anfr. CDU: Kriminalstatistik 2003 - zur Kenntnis genommen
+- TOP 6: Anfragen - zur Kenntnis genommen
+- TOP 7: Anfr. Bü90: Stadtwerke - zur Kenntnis genommen
+- TOP 8: Anfr. Bü90: FLughafen MG - zur Kenntnis genommen
+- TOP 9: Anfr. SPD: Ornungsdienst in den STadtteilen - zur Kenntnis genommen
+- TOP 10: Anfr. Laubenburg: Büroleerstand - zur Kenntnis genommen
+- TOP 11: Anfr. Laubenburg: Kolonialismus - zur Kenntnis genommen
+- TOP 12: Anfr. FDP: Stadtsparkasse - zur Kenntnis genommen
+- TOP 13: Anträge - zur Kenntnis genommen
+- TOP 14: Antr. CDU: Rekommunalisierung der Strassenreinigun - zur Kenntnis genommen
+- TOP 15: Änd.-antr. FDP: Rekommunalisierung der Straßenrein - zur Kenntnis genommen
+- TOP 16: Beschlusskontrolle für den Rat - einstimmig beschlossen
+- TOP 17: Kämmererliste - mehrheitlich beschlossen
+- TOP 18: Arena: Lärmschutzwand - mehrheitlich beschlossen
+- TOP 19: Grundsatzbeschluss: Sanierung der Tonhalle - einstimmig beschlossen
+- TOP 20: Interfr. Erg.-antr.: Tonhalle - einstimmig beschlossen
+- TOP 21: Kunstrasen Benrath - einstimmig beschlossen
+- TOP 22: GGS Neustrelitzer Str. 10 (Bau - einstimmig beschlossen
+- TOP 23: Umbesetzung Kommunalwahlausschuss - einstimmig beschlossen
+- TOP 24: Kapitalvertretungen - einstimmig beschlossen
+- TOP 25: AR Jugendberufshilfe - einstimmig beschlossen
+- TOP 26: VR Werkstatt für angepaßte Arbeit GmbH - einstimmig beschlossen
+- TOP 27: AR Zukunftswerkstatt - einstimmig beschlossen
+- TOP 28: AR Stadtwerke Beteilig/Bäderges. - einstimmig beschlossen
+- TOP 29: AR Stadtwerke AG - einstimmig beschlossen
+- TOP 30: Konsortialausschuss Stadtwerke - einstimmig beschlossen
+- TOP 31: Unterbacher See - einstimmig beschlossen
+- TOP 32: Kuratorium NRW-Forum - mehrheitlich beschlossen
+- TOP 33: Verwaltungsausschuss Arbeitsamt - einstimmig beschlossen
+- TOP 34: Wiederwahl Schiedsperson - einstimmig beschlossen
+- TOP 35: Genehmigung 60er - einstimmig beschlossen
+- TOP 36: Dringlichkeit Synagoge - einstimmig beschlossen
+- TOP 37: Änderung Hauptsatzung - einstimmig beschlossen
+- TOP 38: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 39: Plan Nr. 5480/29 - Veränderungssperre Ulmen-/Rathe - mehrheitlich beschlossen
+- TOP 40: B-Plan Nr. 5380/31 - Meineckestraße - mehrheitlich beschlossen
+- TOP 41: Umbesetzungen - einstimmig beschlossen
