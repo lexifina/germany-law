@@ -1,0 +1,63 @@
+# 5. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-02-09T17:50:00+01:00
+- Ende: 2005-02-09T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/4874
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/4874
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00213969.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP -: Beschlusspunkte unter Hinweis auf die zugehörigen Vorlagen:
+- TOP 8: Feststellung der Gültigkeit der Kommunalwahlen am 26.09.2004 - in der Fassung der Ergänzungsvorlage beschlossen
+- TOP 9: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen - zur Kenntnis genommen
+- TOP 10: Gestellung einer Ausfallbürgschaft für die Stiftung Siverdes - einstimmig beschlossen
+- TOP 11: Wirtschaftspläne von Gesellschaften
+- TOP 11.1: Wirtschaftsplan - einstimmig beschlossen
+- TOP 11.2: Wirtschaftsplan - einstimmig beschlossen
+- TOP 12: Tagesbetreuung von Kindern im Kleinkind- und Grundschulalter
+- TOP 12.1: Grundlagen und Perspektivplanung für die Förderung, Betreuung und Bildung von Kindern - einstimmig beschlossen
+- TOP 12.2: Tagesbetreuungsausbauprogramm für die Betreuung, Förderung und Bildung von Kindern unter drei Jahren - einstimmig beschlossen
+- TOP 12.3: Umwandlung weiter Schulen in offene Ganztagsschulen zum Schuljahr 2005/06 - einstimmig geändert beschlossen
+- TOP 12.4: Elternbeiträge - einstimmig geändert beschlossen
+- TOP 13: Errichtungsbeschluss Modelleinrichtung Roxel, Kindertageseinrichtung und Kinder- und Jugendarbeit - mehrheitlich beschlossen
+- TOP 14: Weiterentwicklung der Berufskollegs: Errichtungsvorhaben der Berufskollegs in städtischer Trägerscha - einstimmig beschlossen
+- TOP 15: Wahrnehmung der Aufgaben der Stadtbildstelle durch den Landschaftsverband Westfalen-Lippe - einstimmig beschlossen
+- TOP 16: Preis der Stadt Münster für Europäische Poesie 2005 - einstimmig beschlossen
+- TOP 17: Hilfevermittlung und Kurzzeitübernachtung - HuK - für wohnungslose Männer im städt. Gebäude Fr - von der Tagesordnung abgesetzt
+- TOP 18: Jahresbericht 2003 der Feuerwehr Münster - zur Kenntnis genommen
+- TOP 19: Internationales Treffen mit Jugendlichen und Zeitzeugen aus den Partnerstädten zum 60. Jahrestag des - einstimmig beschlossen
+- TOP 20: Bauleitplanung
+- TOP 20.1: Stadtbezirk Münster-Mitte
+- TOP 20.1.1: Bebauungsplan Nr. 491: Stubengasse / Loerstraße - mehrheitlich beschlossen
+- TOP 20.1.2: Bebauungsplan Nr. 493: Aasee - Terrassen - einstimmig beschlossen
+- TOP 20.2: Stadtbezirk Münster-Hiltrup
+- TOP 20.2.1: Bebauungsplan Nr. 471: Amelsbüren - südlich Wiedaustraße - einstimmig beschlossen
+- TOP 20.3: Stadtbezirk Münster-Nord
+- TOP 20.3.1: 1. Änderung des Bebauungsplanes Nr. 114 Teilabschnitt V: Zentrum Nord - mehrheitlich beschlossen
+- TOP 21: Kommunale Gremien
+- TOP 21.1: Einrichtung einer kommunalen Seniorenvertretung und ihre Einbeziehung - mehrheitlich beschlossen
+- TOP 21.2: Sachkundige Einwohner/innen in Ausschüssen des Rates - einstimmig geändert beschlossen
+- TOP 21.3: Besetzung und Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 21.4: Bestellung von Vertreter/ innen der Stadt Münster in den Ausschuss des Unterhaltungsverbandes II St. - einstimmig geändert beschlossen
+- TOP 22: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 22.1: Die beste Schulform wählen - Elterninformation über mögliche Schulabschlüsse - verwiesen
+- TOP 22.2: Offene Ganztagsschule - andere Formen wagen - verwiesen
+- TOP 22.3: Internationales Jugendtreffen am 60. Jahrentag des Endes des II. Weltkrieges am 08.05.2005 - eingebracht
+- TOP 22.4: Taxi-Qualität verbessern - verwiesen
+- TOP 22.5: Kompetenzzentrum Begabtenförderung für Münster - - verwiesen
+- TOP 22.6: Trägerübergreifendes Forum zur Koordinierung und Bündelung der Angebote schaffen - verwiesen
+- TOP 23: Verschiedenes
