@@ -1,0 +1,7 @@
+# TOP 6: Mitteilungen des Vorstehers Nr. 2/01
+
+- Sitzung: 6. (öfftl.) Sitzung der Bezirksverordnetenversammlung (2001-02-21)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=8889
+- Ergebnis: zur Kenntnis genommen (Beratungsfolge beendet)
