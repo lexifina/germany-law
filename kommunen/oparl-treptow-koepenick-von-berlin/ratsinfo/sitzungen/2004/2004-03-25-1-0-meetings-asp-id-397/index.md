@@ -1,0 +1,96 @@
+# 26. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2004-03-25T16:00:00+01:00
+- Ende: 2004-03-25T22:05:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=397
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=397
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=19141
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Personelles/Wahlen - erledigt
+- TOP 7.1: Wahl einer Schiedsperson - gewählt
+- TOP 7.2: Vorschlagslisten für die Schöffenwahl - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Wahl von 10 Vertrauenspersonen als Beisitzer im Ausschuss für die Wahl der Schöffen - gewählt
+- TOP 7.4: Vorschlagsliste für die Wahl von ehrenamtlichen Richtern für das Oberverwaltungsgericht - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.5: Vorschlagsliste für die Wahl von ehrenamtlichen Richtern für das Verwaltungsgericht - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Großen Anfragen - (offen)
+- TOP 8.1: Ausgliedern von Aufgaben - beantwortet
+- TOP 8.2: Spreepark und Eierhäuschen - vertagt
+- TOP 9: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 9.1: Jugendliche Flüchtlinge - schriftlich beantwortet
+- TOP 10: Beschlussvorlagen - gegenstandslos
+- TOP 10.1: - Entwurf des Bebauungsplans XV-19 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-19 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - überwiesen
+- TOP 10.2: - Entwurf des Bebauungsplans XV-18 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-18 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - überwiesen
+- TOP 10.3: - Entwurf des Bebauungsplans XV-45 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-45 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - überwiesen
+- TOP 10.4: - Entwurf des Bebauungsplans XV-20 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-20 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - überwiesen
+- TOP 10.5: Sondermittel für Förderverein Wassersporthandicaps e.V. (SM 406) - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Sondermittel für GEBEWO gGmbH - Haus Schöneweide - (SM 410) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Sondermittel für Förderverein an der Heide - 10. Grundschule e.V. (SM 404) - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Sondermittel für Blau-Gelb Köpenick e.V. (SM 414) - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Sondermittel für Diakoniekreis Kietzer Feld (SM 415) - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Sondermittel für Kunstfabrik Köpenick GmbH (SM 418) - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Sondermittel für Bürgerverein Wendenschloß - Kietzer Feld - Gartenvorstadt e.V. (SM 416) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 11.1: Produktorientierte Darstellung des Haushaltsplanes 2004 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Bürgerbeteiligung - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Entwicklungskonzept Regattastraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Kuhle Wampe im FNP sichern - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Neues Tarifsystem bei der BVG und der S-Bahn (1) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Einleitung eines Bebauungsplanverfahrens für Kuhle Wampe/Krampenburg - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Zeuthen I im FNP sichern - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Einleitung eines Bebauungsplanverfahrens für den Standort Zeltplatz Zeuthen I/Teikyo-University - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Treptow-Köpenick familienfreundlich gestalten - Spielecken in Besucherwartezonen - mit Änderungen in der BVV beschlossen
+- TOP 11.10: Große Krampe I und II erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Verleihung des Namens "Stefan Heym" an die Stadtteilbibliothek Adlershof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Kinder- und Jugendgesundheitsdienst - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Pflanzen für den Abschiebegewahrsam - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Baumschutzverordnung - überwiesen
+- TOP 12: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 12.1: Benennung des neu gebauten Straßenabschnitts der Späthstraße im Ortsteil Baumschulenweg zwischen Einmündung in die alte Späthstraße und Anna-Nemitz-Brücke/Bezirksgrenze Neukölln in "Neue Späthstraße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Konkretisierung und Fortschreibung der städtebaulichen und sozialen Sanierungsziele für das Sanierungsgebiet Altstadt/Kietz Vorstadt - überwiesen
+- TOP 12.3: Lokale Agenda Treptow-Köpenick - gegenstandslos
+- TOP 13: Anträge - gegenstandslos
+- TOP 13.1: Überquerung des Fürstenwalder Damms in Höhe Westendsiedlung und Mühlweg - überwiesen
+- TOP 13.2: Optimierung der Ampelschaltung Kreuzung Fürstenwalder Damm/Bölschestr. - überwiesen
+- TOP 13.3: Entfernung der Stalin-Inschriften am Treptower Ehrenmal - überwiesen
+- TOP 13.4: Deutschkurse im Abschiebegewahrsam - vertagt
+- TOP 13.5: Vorstellung des Spreeparkkonzeptes - überwiesen
+- TOP 13.6: Krematorien - überwiesen
+- TOP 13.7: Gedenktafeln an früheren MfS-Kreisdienststellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Kosten der Schulhortangebote - überwiesen
+- TOP 13.9: Tiefbrunnen - überwiesen
+- TOP 13.10: Haltestelle Luisenhain - vertagt
+- TOP 13.11: Kostenmanagement - überwiesen
+- TOP 13.12: Forum Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 13.13: Chancen für arbeitslose Jugendliche sichern - überwiesen
+- TOP 13.14: Umsatzentwicklung in der Köpenicker Altstadt - überwiesen
+- TOP 13.15: Rechtzeitige Information der Anwohner und Verkehrsteilnehmer - vertagt
+- TOP 13.16: Uferweg Britzer Zweigkanal - vertagt
+- TOP 13.17: Steganlagenkonzeption Treptow-Köpenick - überwiesen
+- TOP 13.18: Informationen zu Tiefbauarbeiten - überwiesen
+- TOP 13.19: Übertragung von Seniorenfreizeitstätten - ohne Änderungen in der BVV beschlossen
+- TOP 13.20: Bürgernahe Politik - ohne Änderungen in der BVV beschlossen
+- TOP 13.21: Hinweisschilder auf Alt-Bezirke - mit Änderungen in der BVV beschlossen
+- TOP 13.22: Sicheres Überqueren der Fahrbahn Fürstenwalder Damm im Ortsteil Friedrichshagen - überwiesen
+- TOP 13.23: Kommunale Demokratie - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.24: Wertausgleich Grünflächen - ohne Änderungen in der BVV beschlossen
+- TOP 13.25: Wertausgleich Grünflächen - zurückgezogen
+- TOP 13.26: Grünflächenunterhaltung - zurückgezogen
+- TOP 14: Große Anfragen - erledigt
+- TOP 14.1: Anschlussbedingungen an die Entwässerung - vertagt
+- TOP 14.2: Der Außendienst im neuen Ordnungsamt - Kietzpolizei oder uniformierte Parkwächter? - vertagt
+- TOP 14.3: Müllbehälter im Bezirk - vertagt
+- TOP 14.4: Straßenbauarbeiten in Friedrichshagen - vertagt
+- TOP 14.5: Leistungen nach dem Asylbewerberleistungsgesetz - vertagt
