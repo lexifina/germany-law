@@ -1,4 +1,3 @@
-## Landesjugendhilfegesetz
 Inhaltsübersicht
 Erster Abschnitt Träger der öffentlichen Jugendhilfe
 § 1 Örtliche Träger der öffentlichen Jugendhilfe, Jugendamt
