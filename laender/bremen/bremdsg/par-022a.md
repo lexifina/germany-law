@@ -1,0 +1,2 @@
+# § 22a Widerspruchsrecht
+Personenbezogene Daten dürfen nicht automatisiert oder in nicht automatisierten Dateien verarbeitet werden, soweit der Betroffene der Verarbeitung bei der verantwortlichen Stelle widerspricht und eine Prüfung ergibt, dass das schutzwürdige Interesse des Betroffenen wegen seiner besonderen persönlichen Situation das Interesse der verantwortlichen Stelle an dieser Verarbeitung überwiegt. Satz 1 gilt nicht, wenn eine Rechtsvorschrift zur Verarbeitung der Daten verpflichtet.

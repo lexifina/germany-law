@@ -1,0 +1,2 @@
+# § 22b Anrufungsrecht
+Jeder kann sich an den Landesbeauftragten für den Datenschutz wenden, wenn er annimmt, bei der Verarbeitung seiner personenbezogenen Daten durch datenverarbeitende Stellen in seinen Rechten verletzt worden zu sein; hierbei brauchen Bedienstete öffentlicher Stellen den Dienstweg nicht einzuhalten. Niemand darf dafür gemaßregelt oder benachteiligt werden, dass er sich aufgrund tatsächlicher Anhaltspunkte für einen Verstoß gegen dieses Gesetz oder andere Vorschriften über den Datenschutz an den Landesbeauftragten für den Datenschutz wendet.

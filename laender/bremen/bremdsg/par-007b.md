@@ -1,0 +1,3 @@
+# § 7b Datenschutzaudit
+(1) Die in § 1 Abs. 2 genannten Stellen können zur Verbesserung des Datenschutzes und der Datensicherheit ihre Verfahren sowie ihre technischen Einrichtungen durch unabhängige Gutachter prüfen und bewerten lassen. Der Senat regelt das Nähere zu Inhalt und Ausgestaltung des Prüfungs- und Bewertungsverfahrens durch Rechtsverordnung.
+(2) Verfahren und technische Einrichtungen, deren Vereinbarkeit mit den Vorschriften über den Datenschutz und die Datensicherheit in einem förmlichen Verfahren festgestellt wurde, das den Anforderungen der Rechtsverordnung nach Absatz 1 entspricht, sollen von den in § 1 Abs. 2 genannten Stellen vorrangig eingesetzt werden.
