@@ -1,4 +1,4 @@
-# TOP 5.1.: Satzungen, Ortsrecht
+# TOP 5.1.: Verwaltungsgebührensatzung der Gemeinde Aldenhoven
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
