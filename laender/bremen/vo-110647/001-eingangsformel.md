@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 49 Abs. 3 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 16. Mai 1997 (BGBl. I S. 1065, 2032), das zuletzt durch Artikel 15 des Gesetzes vom 16. Juli 1998 (BGBl. I S. 1827) geändert worden ist, in Verbindung mit § 1 der Verordnung zur Übertragung der Ermächtigung nach § 49 Abs. 3 des Bundesbesoldungsgesetzes vom 16. Dezember 1975 (Brem.GBl. S. 385 - 36-b-5) wird verordnet:
