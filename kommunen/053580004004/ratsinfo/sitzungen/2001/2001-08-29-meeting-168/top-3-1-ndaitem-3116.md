@@ -1,4 +1,4 @@
-# TOP 3.1.: Genehmigung von Dringlichkeitsbeschlüssen
+# TOP 3.1.: Übertragung eines Baugrundstückes in Aldenhoven
 
 - Sitzung: Gemeinderat (2001-08-29)
 - Körperschaft: Gemeinde Aldenhoven
