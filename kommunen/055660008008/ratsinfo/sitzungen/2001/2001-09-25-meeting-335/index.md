@@ -1,0 +1,65 @@
+# Rat
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2001-09-25T18:00:00+02:00
+- Ende: 2001-09-25T19:50:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZxHOpRJUKZU0YEE59A1LjI
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/335
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb30LfdkOYOO61ZXJ-3Wo63Bw2H1aF5kJI8S6c6gVYp1/Oeffentliche_Niederschrift_Rat_25.09.2001.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 GO
+- TOP 4.1.: Genehmigung Dringlichkeit RWK Grünring/Westring - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2.: Genehmigung Dringlichkeitsentscheidung Ausbau Gehweg Reckenfelder Straße - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3.: Genehmigung Dringlichkeitsentscheidung Neubau Reinermann-Steg - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Bildung und Besetzung von Gremien
+- TOP 5.1.: Ersatzwahl zu Gremien - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2.: Ersatzwahl zu Gremien - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Stellenplan
+- TOP 6.1.: Änderung Stellenplan 2001 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Finanzangelegenheiten
+- TOP 7.1.: Über- und außerplanmäßige Ausgaben im II. Quartal 2001 - Zur Kenntnis genommen
+- TOP 7.2.: Genehmigung einer überplanmäßigen Ausgabe bei Haushaltsstelle 22000.94000 "Anbau Käthe-Kollwitz-Schule (Grünring)" - Einstimmig, 0 Enthaltung(en)
+- TOP 7.3.: Leistung einer außerplanmäßigen Ausgabe - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Stadtsparkasse Emsdetten
+- TOP 8.1.: Stadtsparkasse Emsdetten hier: Entlastung der Sparkassenorgane für das Jahr 2000 - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Stadtwerke Emsdetten GmbH
+- TOP 9.1.: Feststellung des Jahresabschlusses 2000 der Stadtwerke Emsdetten GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 9.2.: Erteilung und Widerruf einer Handlungsvollmacht für Mitarbeiter bei den Stadtwerken Emsdetten GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Flächennutzungsplan
+- TOP 10.1.: 23. Änderung des Flächennutzungsplanes der Stadt Emsdetten - Feststellungsbeschluss - 24 Ja-Stimme(n), 16 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 11.: Bebauungspläne
+- TOP 11.1.: Bebauungsplan Nr. 19 B "Eisenbahnstraße" - 39 Ja-Stimme(n), 2 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11.2.: Bebauungsplan Nr. 34 A "Wildgrund-West" - Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 11.3.: Bebauungsplan Nr. 19 A "Emsstraße/Bundesbahn", 5. Änderung - Satzungsbeschluss - 24 Ja-Stimme(n), 16 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 12.: Allgemeine Stadtentwicklungsplanung
+- TOP 12.1.: Wettbewerb Mühlenbachaue - Beschluss über das Wettbewerbsergebnis - Einstimmig, 1 Enthaltung(en)
+- TOP 13.: Schulangelegenheiten
+- TOP 13.1.: Übernahme von Elternbeiträgen für die Ganztagsbetreuung von Schülerinnen und Schülern in Grundschulen - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Kulturangelegenheiten
+- TOP 14.1.: Entscheidung über eine neue Benutzungs- und Gebührenordnung für die Stadtbibliothek - Einstimmig, 2 Enthaltung(en)
+- TOP 15.: Sportangelegenheiten
+- TOP 15.1.: Erhöhung des Reinigungszuschusses an die DJK Fortuna nach Fertigstellung der Erweiterung des Umkleidegebäudes Stadion West - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 16.1.: Vertragliche Regelung zur Finanzierung der Beratungsstelle des Kreisel e.V. für den Zeitraum 01.01.2001 bis 31.12.2005 - Einstimmig, 2 Enthaltung(en)
+- TOP 16.2.: Vertragliche Regelung zur Finanzierung der Beratungsstelle des Kreisel e.V. für den Zeitraum 01.01.2001 bis 31.12.2005 - Einstimmig, 2 Enthaltung(en)
+- TOP 16.3.: Vertragliche Regelung zur Finanzierung der Erziehungsberatungsstelle und des Fachkräfteteams "Ambulante Hilfen zur Erziehung" des Caritasverbandes für das Dekanat Emsdetten-Greven e.V. für den Zeitraum 01.01.2001 bis 31.12.2005 - Einstimmig, 0 Enthaltung(en)
+- TOP 16.4.: Richtlinien des Jugendamtes der Stadt Emsdetten für die Wirtschaftliche Jugendhilfe einschließlich der Kostenheranziehung - Einstimmig, 0 Enthaltung(en)
+- TOP 16.5.: Vertragliche Regelung zur Finanzierung des T.I.B. in Trägerschaft des Lernen fördern e.V. für den Zeitraum 01.01.2001 bis 31.12.2005 - Einstimmig, 0 Enthaltung(en)
+- TOP 16.6.: Vertragliche Regelung zur Finanzierung des Jugendzentrums J.U.K.S. des ISJ e.V. für den Zeitraum 01.01.2001 bis 31.12.2005 - Einstimmig, 0 Enthaltung(en)
+- TOP 16.7.: Vertragliche Regelung zur Finanzierung des Jugendzentrums Kolpinghaus für den Zeitraum 01.01.2001 bis 31.12.2005 - Einstimmig, 1 Enthaltung(en)
+- TOP 16.8.: Neufassung der Richtlinien zur Förderung der Kinder- und Jugendarbeit sowie der außerschulischen Jugend- und Familienbildung und Familienerholung - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: Verkehrsfragen
+- TOP 17.1.: Radverkehr Kreuzungsbereich Nordwalder Str./Buckhoffstr./Mühlenstr. - Einstimmig, 2 Enthaltung(en)
+- TOP 18.: Verwaltungsorganisation
+- TOP 18.1.: Umsetzung von Vorschlägen zur Optimierung der Ratsarbeit auf der Grundlage von Empfehlungen der Arbeitsgemeinschaft "Kommunen der Zukunft" - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Verschiedenes 1. Sachstandsbericht über Anregungen und Bedenken
