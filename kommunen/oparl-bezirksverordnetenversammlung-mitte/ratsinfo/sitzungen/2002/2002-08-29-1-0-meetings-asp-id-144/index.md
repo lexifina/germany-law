@@ -1,0 +1,143 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2002-08-29T17:30:00+02:00
+- Ende: 2002-08-29T23:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=144
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=144
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - (offen)
+- TOP 1.2: der Fraktionen - (offen)
+- TOP 1.3: der Ausschüsse - (offen)
+- TOP 1.4: des Bezirksamtes - (offen)
+- TOP 2: Konsensliste - (offen)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Schließung Max-Beckmann-Saal
+- TOP 3.2: Schreiben der "Bardorf Erben Grundstücksverwaltung"
+- TOP 3.3: Vereinslokale
+- TOP 3.4: Einflussnahme auf Festreden Berliner Abgeordnete
+- TOP 3.5: Zahnärztlicher Dienst
+- TOP 3.6: Werbeflächen
+- TOP 3.7: Entfernung des "Grünen Pfeils" Leipziger Straße / Ecke Jerusalemer Straße
+- TOP 3.8: Plan- und Verdachtsproben
+- TOP 3.9: Ausschuss von Behinderten im Max-Beckmann-Saal
+- TOP 3.10: Beantwortung von Anfragen Weddinger Geschäftsleute
+- TOP 3.11: Halteverbot in der Bochumer Straße vom 03. - 05.09.02
+- TOP 3.12: Änderungen bei künftigen Straßenfesten
+- TOP 3.13: Aitowracks
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Baustand Papageno - Grundschule
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Sommerbad Poseidon
+- TOP 5.2: Zu Verkehrsbe(un)ruhigung Hackescher Markt
+- TOP 5.3: Infektionsepidemiologisches Jahrbuch meldepflichtiger Krankheiten für 2001
+- TOP 5.4: Parteipolitische Nutzung des BA-Schaukastens am Mathilde-Jacob-Platz
+- TOP 5.5: Haushaltssperre durch den Senat
+- TOP 5.6: Interessenbekundungsverfahren zur Vermietung von Dachflächen zur Nutzung von Photovoltaikanlagen
+- TOP 5.7: Überprüfung von Internet-Cafés
+- TOP 5.8: Keine Trägervielfalt in der Abteilung Soziales
+- TOP 5.9: Beginn des Schuljahres 2002/2003
+- TOP 5.10: Rettung des Schwimmbades Seydlitzstraße - Welches Konzept hat das Bezirksamt?
+- TOP 5.11: Bauarbeiten in der Chausseestraße zwischen Torstraße und Invalidenstraße
+- TOP 5.12: Grünfläche Grüntaler Straße
+- TOP 5.13: Sanierung Gartenstadt Atlantik
+- TOP 5.14: Arbeitsfähigkeit des Grundbuchamtes Mitte
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 8
+- TOP 8.2: Wahl des Beirates in Sozialhilfeangelegenheiten
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Schilder auf allen Weddinger Spielplätzen XVI/235 BA
+- TOP 9.2: Liegenschaftsfonds I/32 BA
+- TOP 9.3: Kontrolle Belegungsbindung u. Mietobergrenzen I/38 BA
+- TOP 9.4: Offene Mieterberatung im Bezirk Mitte I/54 BA
+- TOP 9.5: Gewerbemietspiegel I/66 BA
+- TOP 9.6: Gutachten zur gelungenen Integration I/119 BA
+- TOP 9.7: Keine Punkerhäuser in Moabit I/211 BA
+- TOP 9.8: Existenzgründungsbüro im Rahmen der Gründungsoffensive I/221
+- TOP 9.9: Tegeler Straße und Mettmannplatz nach Fertigstellung von S 21 und Overfly I/246 BA
+- TOP 9.10: Sponsoring im Bezirk I/279 BA
+- TOP 9.11: Gesundheitszentrum Krankenhaus Moabit I/294
+- TOP 9.12: Gremiengestaltung im Bereich der lokalen Ökonomie I/309
+- TOP 9.13: Ungenügender Abfluß auf dem Parkstreifen Rathaus Tiergarten
+- TOP 9.14: Erhalt des Luisenblocks
+- TOP 9.15: Haushalt 2002 - Keine Absenkung der Mittel für Förderprogramme
+- TOP 9.16: Bebauungspläne ins Internet I/371
+- TOP 9.17: Unter den Linden: Promenieren ohne Lebensgefahr I/381
+- TOP 9.18: Keine Hochhausbebauung am Spreeufer I/384
+- TOP 9.19: MieterInnenschutz beim Verkauf von Häusern der Wohnungsbaugesellschaft Mitte I/391
+- TOP 9.20: Verfall der Häuser Prinzenstraße/Osloer Straße I/481
+- TOP 9.21: Alarmanlage im Haus der Jugend I/542
+- TOP 9.22: Krankenhaus Moabit: Anwendung des Überleitungvertrages
+- TOP 9.23: Produktkatalog 6.0
+- TOP 9.24: Detaillierte Untersuchung über das Ausbildungs- und Arbeitsplatzpotential nichtdeutscher Unternehmen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.25: Mittes Privatschulen müssen erhalten bleiben
+- TOP 9.26: Verkehrssicherheit in Großer Hamburger Straße
+- TOP 9.27: Drogenproblematik/Drogenszene rund um das Gesundbrunnen-Center
+- TOP 9.28: Hinweisschild für die Gedenkstätte "Berliner Mauer"
+- TOP 9.29: Tempolimit in der Paulstraße
+- TOP 9.30: Herstellung der Pergola am ehem. Kaiser-Wilhelm-Palais
+- TOP 9.31: Senkrecht-Parken in der Flensburger Straße
+- TOP 9.32: Keine Punkerhäuser in Moabit
+- TOP 9.33: Einsparung bei Mietkosten für QM-Büros
+- TOP 9.34: Gewachsenen Strukturen bei IDA-Maßnahmen erhalten
+- TOP 9.35: Love-Parade
+- TOP 9.36: "Kampfhunde-Verordnung" umsetzen!
+- TOP 9.37: Mittel zur Gestaltung des öffentlichen Raumes
+- TOP 9.38: Förderung kommunalpolitischer Stiftungen
+- TOP 9.39: Investitionen zur Senkung der Energie-, Wasser- und Abfallkosten
+- TOP 9.40: Neubauvorhaben Alte Schönhauser Straße 15 - 16 / Steinstraße 1 - 2
+- TOP 9.41: Verfahrensweise bei Straßen (Plätzen) und deren Neu- bzw. Umbenennungen
+- TOP 9.42: MieterInnenschutz beim Verkauf von Häusern der Wohnungsbaugesellschaft Mitte
+- TOP 9.43: Eckwertebeschluss zur Untersetzung der im Doppelhaushalt 2002/2003 für 2003 enthaltenen Pauschalen sowie der (voraussichtlichen) Einsparsumme Personal zur Erarbeitung des Ergänzungsplanes 2003
+- TOP 9.44: Haftung des Bezirks für überzahlte Investitionsentgelte
+- TOP 9.45: Tätigkeitsbericht der Behindertenbeauftragten beim Bezirksamt Mitte
+- TOP 9.46: Anweisung über die Bereitstellung von Stellplätzen für Kraftfahrzeuge im Bereich der Bezirksverwaltung Mitte
+- TOP 9.47: Finanzierung der Projekte des bezirklichen Beschäftigungsbündnisses Mitte
+- TOP 9.48: Beschluss über die Durchführung der Beteiligung der Träger öffentlicher Belange für das B-Planverfahren I-59 f - Karl-Marx-Alle / Schillingstraße -
+- TOP 9.49: Beschluss des Anhörungsergebnisses vom 25.02.2002 aus der Beteiligung der Bürger an der Bauleitplanung gem. § 3 Abs. 1 BauGB sowie über die Durchführung der Beteiligung der Träger öffentlicher Belange für das B-Planvwerfahren III-212 zur Sicherung von öffentlichen Parkanlagen auf dem Grundstück Sprenglerstraße 28-29, Kiautschoustr. 110.11, der Kiautschoustraße zwischen Torfstraße und Samoastraße und auf dem Pekinger Platz im Bezirk Mitte, OT Wedding
+- TOP 9.50: Einrichtung von integrierten Stadtteilverfahren - Quartiersmanagement - im Bezirk Mitte, Gebiete Magdeburger Platz, Soldiner Straße und Moabit West; hier: Vertragsverlängerung für das Jahr 2002
+- TOP 9.51: Ausschreibung eines Umweltpreises im Bezirk Mitte 2002/2003
+- TOP 9.52: Im ersten Halbjahr 2002 zugelassene über- und außerplanmäßige Ausgaben und Verpflichtungsermächtigungen
+- TOP 9.53: Auswertung der Beteiligung der Träger öffentlicher Belange gem. § 4 BauGB sowie über den B-Plan-Entwurf III-242 und die Begründung zur Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB
+- TOP 9.54: Positionierung des Bezirksamtes zu Inhalten für das anstehende Bietverfahren zur Veräußerung und Neubebauung der fläche des ehemaligen Stadions der Weltjugend an der Chausseestraße 95 - 97
+- TOP 9.55: Neubenennung zweier Mitglieder in den "Beirat für Migranten und Flüchtlinge - Ausländerbeirat - beim Bezirksamt Mitte von Berlin
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Milchhof e. V.
+- TOP 10.2: Spenden für Opfer des Hochwassers im August 2002
+- TOP 10.3: Alexanderplatz - ein Platz für junge Leute
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Ausbau des Westhafens zu einem Güterverkehrssubzentrum I/208
+- TOP 11.2: Sozialhilfemissbrauch I/293
+- TOP 11.3: Seniorenkonferenz - (offen)
+- TOP 11.4: Grundsicherung - (offen)
+- TOP 11.5: Tempolimit Transvaalstraße
+- TOP 11.6: Sauberkeit am Hansaplatz
+- TOP 11.7: Beibehaltung der Nutzung des Geländes des ehemaligen Krankenhauses Moabit als Naherholungsbereich für die Bevölkerung
+- TOP 11.8: Einrichtung von öffentlichen Toiletten
+- TOP 11.9: Keine Änderung des § 7 Abs. 2 Sportförderungsgesetz
+- TOP 11.10: Geschäftsordnungs-Antrag
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Umbenennung des Ausschusses
+- TOP 12.2: Verfahrensregelung zur Vergabe der Mittel des "Fonds zur Unterstützung ehrenamtlichen Engagements von Bürgerinnen und Bürgern" gemäß DS II/220
+- TOP 12.3: Miniermottenbekämpfung
+- TOP 12.4: Schließung Brandenburger Tor
+- TOP 12.5: Überprüfung auf eine hauptamtliche oder inoffizielle Tätigkeit für das MfS
+- TOP 12.6: Beteiligung der Krankenkasse an Impfstoffkosten
+- TOP 12.7: Schaukasten politsch neutral gestalten
+- TOP 12.8: Seniorenfahrten
+- TOP 12.9: Umsetzung des sogenannten Interessenausgleichs für die ehemaligen Beschäftigten der Krankenhaus Moabit gGmbH
+- TOP 12.10: Einheitlicher Standard für bezirklichen Verbraucherschutz
+- TOP 12.11: Müll auf dem Tacheles-Gelände
+- TOP 12.12: Verkehrsplanung S 21 - Schließung Tegeler Straße
+- TOP 12.13: Forderungen von Bürgern zum Turmstraßenfest
+- TOP 12.14: Straßenbenennung nach Yitzak Rabin
+- TOP 12.15: Instandsetzung des ehemaligen Seniorenheims Koppenplatz
