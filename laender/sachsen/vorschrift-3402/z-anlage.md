@@ -1,5 +1,5 @@
-# Anlage (zu § 1)
-I. Zentrale Zuständigkeit einzelner Finanzämter für den Bereich mehrerer Finanzämter (ohne zentrale Zuständigkeiten für die Einheitsbewertung des Grundbesitzes, für die Kraftfahrzeugsteuer und für die Grunderwerbsteuer)
+# Anlage (zu § 1
+I. Zentrale Zuständigkeit einzelner Finanzämter für den Bereich mehrerer Finanzämter (ohne zentrale Zuständigkeiten für die Bewertung des Grundbesitzes, für die Kraftfahrzeugsteuer und für die Grunderwerbsteuer)
 Zentrale Zuständigkeit einzelner Finanzämter für den Bereich mehrerer Finanzämter
 Laufende Nummer | Aufgabe | Zuständige(s) Finanzamt/Finanzämter | Die Zuständigkeit ist ausgedehnt auf das Gebiet/den Bezirk des Finanzamtes
 Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/ Finanzämter | Die Zuständigkeit ist ausgedehnt auf das Gebiet/den Bezirk des Finanzamtes
@@ -10,7 +10,7 @@ Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/ Finanzämter | Die Zuständigkei
 4. | Erbschaft- und Schenkungsteuer | Chemnitz-Land Bautzen Leipzig III | Regierungsbezirk Chemnitz Regierungsbezirk Dresden Regierungsbezirk Leipzig
 5. | Gesonderte Feststellungen nach dem Außensteuergesetz und nach § 180 Abs. 5 Nr. 1 AO 1977 | Dresden III | Freistaat Sachsen
 6. | Verwaltungsaufgaben, die über die Festsetzung und Erhebung der Umsatzsteuer im grenzüberschreitenden Personenbeförderungsverkehr hinausgehen | Görlitz | Freistaat Sachsen
-7. | Besteuerung grenzüberschreitender Arbeitnehmerüberlassung sowie die Besteuerung der im Ausland ansässigen Werkvertragsunternehmen und Werkvertragsarbeitnehmer | Chemnitz-Süd | Freistaat Sachsen
+7. | Besteuerung grenzüberschreitender Arbeitnehmerüberlassung sowie die Besteuerung der im Ausland ansässigen Werkvertragsunternehmen und Werkvertragsarbeitnehmer, soweit sich die Zuständigkeit nicht nach § 20a AO bestimmt | Chemnitz-Süd | Freistaat Sachsen
 8. | Betriebsprüfung |  | 
  | a) | allgemein | Bautzen | Bautzen Bischofswerda Görlitz Hoyerswerda Löbau
  |  |  | Chemnitz-Süd | Chemnitz-Land Chemnitz-Mitte Chemnitz-Süd Freiberg Mittweida
@@ -27,15 +27,20 @@ Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/ Finanzämter | Die Zuständigkei
  |  |  | Meißen | Dresden I Dresden II Dresden III Freital Meißen Pirna Riesa
  | c) | Kreditinstitute, Versicherungsunternehmen | Chemnitz-Süd Dresden II Leipzig II | Regierungsbezirk Chemnitz Regierungsbezirk Dresden Regierungsbezirk Leipzig
  | d) | Versorgungsbetriebe | Chemnitz-Süd Dresden II Leipzig I | Regierungsbezirk Chemnitz Regierungsbezirk Dresden Regierungsbezirk Leipzig
- | e) | grenzüberschreitende Arbeitnehmerüberlassung sowie im Ausland ansässige Werkvertragsunternehmen und Werkvertragsarbeitnehmer | Chemnitz-Süd | Freistaat Sachsen
- | f) | Versicherungssteuer | Dreden II | Freistaat Sachsen
-9. | Lohnsteuer-Außenprüfung für A1- und A2-Betriebe (Betriebe mit 500 und mehr oder 100 bis 499 Arbeitnehmern) | Bautzen | Bautzen Bischofswerda Görlitz Hoyerswerda Löbau
- |  |  | Chemnitz-Mitte | Annaberg Chemnitz-Land Chemnitz-Mitte Chemnitz-Süd Freiberg Hohenstein-Ernstthal Mittweida Stollberg Zschopau
- |  |  | Dresden I | Dresden I Dresden II Dresden III Freital Meißen Pirna Riesa
- |  |  | Leipzig II | Borna Döbeln Eilenburg Grimma Leipzig I Leipzig II Leipzig III Oschatz
- |  |  | Zwickau-Stadt | Auerbach Plauen Schwarzenberg Zwickau-Land Zwickau-Stadt
-10. | Steuerfahndung | Chemnitz-Süd Freital Leipzig I | Regierungsbezirk Chemnitz Regierungsbezirk Dresden Regierungsbezirk Leipzig
-11. | Bußgeld- und Strafsachenstelle | Chemnitz-Süd Freital Leipzig I | Regierungsbezirk Chemnitz Regierungsbezirk Dresden Regierungsbezirk Leipzig
+ | e) | grenzüberschreitende Arbeitnehmerüberlassung, im Ausland ansässige Werkvertragsunternehmen und Werkvertragsarbeitnehmer sowie Fälle des § 20a AO | Chemnitz-Süd | Freistaat Sachsen
+ | f) | Feuerschutz- und Versicherungsteuer | Dreden II | Freistaat Sachsen
+9. | Lohnsteuer-Außenprüfung für A1- und A2-Betriebe (Betriebe mit 500 und mehr oder 100 bis 499 Arbeitnehmern) |  | 
+a) | für A 1- und A 2-Betriebe (Betriebe mit 500 und mehr oder 100 bis 499 Arbeitnehmern) | Bautzen | Bautzen Bischofswerda Görlitz Hoyerswerda Löbau
+ | Chemnitz-Mitte | Annaberg Chemnitz-Land Chemnitz-Mitte Chemnitz-Süd Freiberg Hohenstein-Ernstthal Mittweida Stollberg Zschopau
+ | Dresden I | Dresden I Dresden II Dresden III Freital Meißen Pirna Riesa
+ | Leipzig II | Borna Döbeln Eilenburg Grimma Leipzig I Leipzig II Leipzig III Oschatz
+ | Zwickau-Stadt | Auerbach Plauen Schwarzenberg Zwickau-Land Zwickau-Stadt
+b) | bei Arbeitgebern im Sinne des § 20a AO | Chemnitz-Mitte | Freistaat Sachsen
+10. | Steuerfahndung sowie Bußgeld- und Strafsachenstelle |  | 
+a) | allgemein | Chemnitz-Süd | Regierungsbezirk Chemnitz
+ | Freital | Regierungsbezirk Dresden
+ | Leipzig I | Regierungsbezirk Leipzig
+b) | bei zentralisierter Zuständigkeit für Fälle des § 20a AO oder Nummer 7 dieser Anlage | Chemnitz-Süd | Freistaat Sachsen
 II. Bezeichnung, Sitz, Amtsbezirk und übertragene Zuständigkeit der Finanzämter in Sachsen (ohne zentrale Zuständigkeiten nach Abschnitt I und ohne Zuständigkeit für die Kraftfahrzeugsteuer nach Abschnitt III)
 Bezeichnung, Sitz, Amtsbezirk und übertragene Zuständigkeit der Finanzämter in Sachsen
 Bezeichnung und Sitz des Finanzamtes | Bezirk des Finanzamtes | Die Zuständigkeit ist ausgedehnt | Die Zuständigkeit ist übertragen
@@ -74,7 +79,6 @@ Bautzen | Vom Landkreis Bautzen die Gemeinden |  |  |  |
  | Crostau |  |  |  | 
  | Cunewalde |  |  |  | 
  | Doberschau-Gaußig |  |  |  | 
- | Eulowitz |  |  |  | 
  | Göda |  |  |  | 
  | Großdubrau |  |  |  | 
  | Großpostwitz/O.L. |  |  |  | 
@@ -103,13 +107,12 @@ Bischofswerda | Vom Landkreis Bautzen die Gemeinden |  |  |  |
  | Schmölln-Putzkau |  |  |  | 
  | Steinigtwolmsdorf |  |  |  | 
  | Vom Landkreis Kamenz die Gemeinden |  |  |  | 
- | Bischheim-Häslich |  |  |  | 
  | Bretnig-Hauswalde |  |  |  | 
  | Crostwitz |  |  |  | 
  | Elstra |  |  |  | 
- | Gersdorf-Möhrsdorf |  |  |  | 
  | Großnaundorf |  |  |  | 
  | Großröhrsdorf |  |  |  | 
+ | Haselbachtal |  |  |  | 
  | Kamenz |  |  |  | 
  | Königsbrück |  |  |  | 
  | Laußnitz |  |  |  | 
@@ -123,7 +126,6 @@ Bischofswerda | Vom Landkreis Bautzen die Gemeinden |  |  |  |
  | Pulsnitz |  |  |  | 
  | Räckelwitz |  |  |  | 
  | Ralbitz-Rosenthal |  |  |  | 
- | Reichenbach-Reichenau |  |  |  | 
  | Schönteichen |  |  |  | 
  | Schwepnitz |  |  |  | 
  | Steina |  |  |  | 
@@ -153,7 +155,7 @@ Chemnitz-Land, Chemnitz | Von der Kreisfreien Stadt Chemnitz die Stadtteile |  |
  | Hartmannsdorf |  |  |  | 
  | Mühlau |  |  |  | 
  | Taura b. Burgstädt |  |  |  | 
-Chemnitz-Mitte, Chemnitz | Von der Kreisfreien Stadt Chemnitz die Stadtteile |  |  | Einheitsbewertung des Grundbesitzes Grunderwerbsteuer | Chemnitz- Süd
+Chemnitz-Mitte, Chemnitz | Von der Kreisfreien Stadt Chemnitz die Stadtteile |  |  | Bewertung des Grundbesitzes Grunderwerbsteuer | Chemnitz- Süd
  | Altendorf |  |  |  | 
  | Borna-Heinersdorf |  |  |  | 
  | Ebersdorf |  |  |  | 
@@ -174,7 +176,7 @@ Chemnitz-Mitte, Chemnitz | Von der Kreisfreien Stadt Chemnitz die Stadtteile |  
  | Stelzendorf |  |  |  | 
  | Yorckgebiet |  |  |  | 
  | Zentrum |  |  |  | 
-Chemnitz-Süd, Chemnitz | Von der Kreisfreien Stadt Chemnitz die Stadtteile | Einheitsbewertung des Grundbesitzes Grunderwerbsteuer | Chemnitz- Mitte |  | 
+Chemnitz-Süd, Chemnitz | Von der Kreisfreien Stadt Chemnitz die Stadtteile | Bewertung des Grundbesitzes Grunderwerbsteuer | Chemnitz- Mitte |  | 
  | Adelsberg |  |  |  | 
  | Altchemnitz |  |  |  | 
  | Bernsdorf |  |  |  | 
@@ -191,7 +193,7 @@ Chemnitz-Süd, Chemnitz | Von der Kreisfreien Stadt Chemnitz die Stadtteile | Ei
  | Morgenleite |  |  |  | 
  | Reichenhain |  |  |  | 
 Döbeln | Landkreis Döbeln |  |  |  | 
-Dresden I, Dresden | Von der Kreisfreien Stadt Dresden die Stadtteile |  |  | Einheitsbewertung des Grundbesitzes Grunderwerbsteuer | Dresden II
+Dresden I, Dresden | Von der Kreisfreien Stadt Dresden die Stadtteile |  |  | Bewertung des Grundbesitzes Grunderwerbsteuer | Dresden II
  | Blasewitz |  |  |  | 
  | Bühlau/Weißer Hirsch |  |  |  | 
  | Großzschachwitz |  |  |  | 
@@ -214,7 +216,7 @@ Dresden I, Dresden | Von der Kreisfreien Stadt Dresden die Stadtteile |  |  | Ei
  | Striesen-West |  |  |  | 
  | Tolkewitz/Seidnitz-Nord |  |  |  | 
  | Wilsdruffer Vorstadt/Seevorstadt-West |  |  |  | 
-Dresden II, Dresden | Von der Kreisfreien Stadt Dresden die Stadtteile | Einheitsbewertung des Grundbesitzes Grunderwerbsteuer | Dresden I Dresden III |  | 
+Dresden II, Dresden | Von der Kreisfreien Stadt Dresden die Stadtteile | Bewertung des Grundbesitzes Grunderwerbsteuer | Dresden I Dresden III |  | 
  | Albertstadt |  |  |  | 
  | Äußere Neustadt |  |  |  | 
  | Dresdner Heide |  |  |  | 
@@ -241,7 +243,7 @@ Dresden II, Dresden | Von der Kreisfreien Stadt Dresden die Stadtteile | Einheit
  | Moritzburg |  |  |  | 
  | Radebeul |  |  |  | 
  | Radeburg |  |  |  | 
-Dresden III, Dresden | Von der Kreisfreien Stadt Dresden die Stadtteile |  |  | Einheitsbewertung des Grundbesitzes Grunderwerbsteuer | Dresden II
+Dresden III, Dresden | Von der Kreisfreien Stadt Dresden die Stadtteile |  |  | Bewertung des Grundbesitzes Grunderwerbsteuer | Dresden II
  | Briesnitz |  |  |  | 
  | Coschütz/Gittersee |  |  |  | 
  | Cossebaude/Oberwartha (Ortschaft) |  |  |  | 
@@ -328,7 +330,6 @@ Hoyerswerda | Kreisfreie Stadt Hoyerswerda und vom Landkreis Kamenz die Gemeinde
  | Bernsdorf |  |  |  | 
  | Elsterheide |  |  |  | 
  | Knappensee |  |  |  | 
- | Laubusch |  |  |  | 
  | Lauta |  |  |  | 
  | Leippe-Torno |  |  |  | 
  | Lohsa |  |  |  | 
@@ -347,15 +348,15 @@ Hoyerswerda | Kreisfreie Stadt Hoyerswerda und vom Landkreis Kamenz die Gemeinde
  | Uhyst |  |  |  | 
  | Weißkeißel |  |  |  | 
  | Weißwasser/O.L. |  |  |  | 
-Leipzig I, Leipzig | Von der Kreisfreien Stadt Leipzig die Stadtbezirke |  |  | Einheitsbewertung des Grundbesitzes Grunderwerbsteuer | Leipzig III
+Leipzig I, Leipzig | Von der Kreisfreien Stadt Leipzig die Stadtbezirke |  |  | Bewertung des Grundbesitzes Grunderwerbsteuer | Leipzig III
  | Nord |  |  |  | 
  | Nordost |  |  |  | 
  | Ost |  |  |  | 
-Leipzig II, Leipzig | Von der Kreisfreien Stadt Leipzig die Stadtbezirke |  |  | Einheitsbewertung des Grundbesitzes Grunderwerbsteuer | Leipzig III
+Leipzig II, Leipzig | Von der Kreisfreien Stadt Leipzig die Stadtbezirke |  |  | Bewertung des Grundbesitzes Grunderwerbsteuer | Leipzig III
  | Mitte |  |  |  | 
  | Süd |  |  |  | 
  | Südost |  |  |  | 
-Leipzig III, Leipzig | Von der Kreisfreien Stadt Leipzig die Stadtbezirke | Einheitsbewertung des Grundbesitzes Grunderwerbsteuer | Leipzig I Leipzig II |  | 
+Leipzig III, Leipzig | Von der Kreisfreien Stadt Leipzig die Stadtbezirke | Bewertung des Grundbesitzes Grunderwerbsteuer | Leipzig I Leipzig II |  | 
  | Alt-West |  |  |  | 
  | Nordwest |  |  |  | 
  | Südwest |  |  |  | 
