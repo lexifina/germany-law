@@ -12,13 +12,13 @@ Artikel IV.
 
 Ein Reichsgeſeß wird“ beſtimmen, wie weit die Mündungen der "Pinjalaen Flüſſe zu rechnen ſind.
 
-CS... 21.
+§. 21.
 
 Die Reichsgewalt hat die Oberaufſicht über dieſe Anſtalten und Einrichtungen.
 
 Es ſteht ihr zu, die betreffenden Staaten zu gehöriger Unterhaltung derſelben anzuhalten, auch dieſelben aus den Mitteln des Reiches zu vermehren und zu erweitern.
 
-; 5.22.
+§. 22.
 
 Die Abgaben, welche in den Seeuferſtaaten von den Schiffen und deren Ladungen für die Benußung. der Schifffahrtsanſtalten erhoben werden, dürfen die zur Unterhaltung - dieſer Anſtalten nothwendigen Koſten nicht überſteigen. Sie unterliegen der Genehmigung der Reichsgewalt.
 

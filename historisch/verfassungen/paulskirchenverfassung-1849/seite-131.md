@@ -10,13 +10,13 @@ und Leiſtungen.
 
 Mit dieſen Rechten fallen auch die Gegenleiſtungen und däſten weg, welche dem bisher Berechtigten dafür oblagen.
 
-S. 168.
+§. 168.
 
 Alle auf Grund und Boden haftenden Abgaben 'und Leiſtungen, insbeſondere die Zehnten, ſind ablösbar: ob nur auf Antrag des Belaſteten oder auch des Berechtigten, und in welcher Weiſe, bleibt der Geſeßgebung der einzelnen Staaten überlaſſen.
 
 Es ſoll fortan kein Grundſtück mit einer unablösbaren Abgabe oder Leiſtung belaſtet werden.
 
-SF. 169.
+§. 169.
 
 Im Grundeigenthum liegt die Berechtigung zur Jagd auf eignem Grund und Boden.
 
@@ -38,6 +38,6 @@ S5. 1714.
 
 Aller Lehensverband iſt aufzuheben. Das Nähere über die Art und Weiſe der Ausführung haben die Geſezgebungen der Einzelſtaaten anzuordnen.
 
-S. 172.
+§. 172.
 
 Die Strafe der VermögenSseinziehung ſoll nicht ſtattfinden.

@@ -22,11 +22,11 @@ Im Falle einer widerrechtlich verfügten oder verlängerten Gefangenſchaft iſt
 
 Die für das Heer- und Seeweſen erforderlichen Modifikationen bi Beſtimmungen werden beſonderen Geſetzen vorbehalten,
 
-S. 139.
+§. 139.
 
 Die Todesſtrafe, ausgenommen wo das Kriegsrecht ſie vorſchreibt, oder. das See-“ recht im Fall von Meutereien ſie zuläßt, ſo wie die Strafen des Prangers,: der. Brandmarkung und der körperlichen Züchtigung, ſind abgeſchafft. hi-X
 
-FS. 140.
+§. 140.
 
 Die Wohnung iſt unverleßlich.
 

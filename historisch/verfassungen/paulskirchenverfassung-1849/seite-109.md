@@ -26,7 +26,7 @@ Sie hat das Recht, Reichsmünzen zu prägen.
 
 Der Reichsgewalt liegt es ob, in ganz Deutſchland daſſelbe Syſtein für Maaß „und Gewicht, ſo wie für deu Feingehalt der Gold- und Silberwäaren zu begründen.
 
-S. 47.
+§. 47.
 
 Die 'Reichsgewalt. hat das. Necht, das Bankweſen und das Ausgeben von Papier- „geld durch die Neichsgeſeßgebung- zu regeln. Sie überwacht die Ausführung der dar- - Über: erlaſſeneu: Neichsgeſege,
 

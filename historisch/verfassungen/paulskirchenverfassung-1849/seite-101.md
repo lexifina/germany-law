@@ -30,6 +30,6 @@ Hat ein deutſches Land mit einem nichtdeutſchen Lande daſſelbe Staatsoberhau
 
 Die Reichsverfaſſung und Reichsgeſeßgebung hat in einem ſolchen deutſchen Lande ' dieſelbe verbindliche Kraft; wie in.den übrigen deutſchen Ländern;
 
-CF... 3.
+§. 3.
 
 Hat ein deutſches Land mit einem nichtdeutſchen Lande daſſelbe Staatsoberhaupt, ſo muß dieſes entweder in ſeinem deutſchen Lande refidiren, oder es muß auf verfaſſungs- ! : mäßigem

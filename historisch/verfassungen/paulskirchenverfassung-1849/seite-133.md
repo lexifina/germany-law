@@ -4,7 +4,7 @@ Scan: https://www.digitale-sammlungen.de/view/bsb10518698?page=137 (Bayerische S
 
 ---
 
-S. 181.
+§. 181.
 
 Rechtepflege und Verwaltung ſcllen getrennt und von einander uvabhängig ſein.
 
@@ -16,7 +16,7 @@ Die Verwaltungsrechtspflege hört auf; über alle Rechtsverlezungen entſcheiden
 
 Der Polizei ſteht keine Strafgerichtsbarkeit zu.
 
-| S. 183.
+§. 183.
 
 Rechtskräftige Urtheile deutſcher Gerichte ſind in allen deutſchen Landen gleich wirkſam und vollziehbar.
 
@@ -30,7 +30,7 @@ Jede Gemeinde hat als Grundrechte ihrer Verfaſſung: a. die Wahl ihrer Vorſteh
 
 Ortspolizei, unter geſeßlich geordneter Oberaufſicht des Staates; c. die Veröffentlichung ihres Gemeindehaushaltes; d. Oeffentlichkeit der Verhandlungen als Regel.
 
-SF. 185.
+§. 185.
 
 Jedes Grundſtück ſoll einem Gemeindeverbande angehören.
 
@@ -38,12 +38,12 @@ Beſchränkungen wegen Waldungen und Wüſteneien bleiben der Lande8geſeßgebun
 
 Artikel Xl1.
 
-. S. 186.
+§. 186.
 
 Jeder deutſche Staat ſoll eine Verfaſſung mit Volksvertretung haben.
 
 Die Miniſter ſind der Volksvertretung verantwortlich.
 
-S. 187.
+§. 187.
 
 Die Volksvertretung hat eine entſcheidende Stimme bei der Geſezgebung, bei der Beſteuerung, bei der Oidnung des Staatehaushalies; auch hat ſie =- wo zwei Kam- Reichsgeſetzbl. 1849. 16. ESt. mern

@@ -10,13 +10,13 @@ Die Sißungen der Landtage ſind in der Regel öffentlich.
 
 Artikel Nl
 
-'6. 188.
+§. 188.
 
 Den nicht deutſch redenden Volksſtämmen Deutſchlands iſt ihre volksthümliche Entwickelung gewährleiſtet, namentlich die 'Gleichberechtigung ihrer Sprachen, Jo weit deren Gebiete reichen, in dem Kirchenweſen, dem Unterrichte, der innern Verwaltung und der NRechtspflege.
 
 Artikel XIV.
 
-6. 189.
+§. 189.
 
 Jeder deutſche Staatsbürger in der Fremde ſteht unter dem Schuße des Reiches.
 
@@ -34,10 +34,10 @@ Der 'Eid lautet: „I< ſc<wöre, 'das Reich Hind 'die Rechte Des veütſchen "V
 
 Erſt nach geleiſtetem Eide iſt der Kaiſer berechtigt, Negierängehandlungen vorzunehmen.
 
-S. 191.
+§. 191.
 
 Die Reichsbeamten haben beim Antritt ihres Amtes einen Eid auf die Reichsverfaſſung zu leiſten. Das Nähere beſtimmt die Dienſtpragmatik des Reiches,
 
-CS. 192.
+§. 192.
 
 Ueber die Verantwortlichkeit der Reichsminiſter ſoll "ein Reichszeſeß erlaſſen werden.

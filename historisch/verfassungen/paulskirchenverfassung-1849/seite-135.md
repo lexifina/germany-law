@@ -4,17 +4,17 @@ Scan: https://www.digitale-sammlungen.de/view/bsb10518698?page=143 (Bayerische S
 
 ---
 
-5. 193.
+§. 193.
 
 Die Verpflichtung auf die Reichsverfaſſung wird in den Einzelſiazten mit der Verpflictung auf. die Landesverfaſſuyg verbunden und dieſer vorangejeßt.
 
 Attikel 1
 
-. 194.
+§. 194.
 
 Keine Beſtimmung in der Verfaſſung oder. in den Geſeßen eines Einzelſtaates darf mit der Reichsverſaſſung in Widerſpruch ſtehen.
 
-6. 195.
+§. 195.
 
 Eine Aenderung der Regierungsform in einem Einzelſtaats kann yur mit Zuſtim« mung der Reichsgewalt erfolgen. Dieſe Zuſtimmung muß in den ſür Aenderungen der Reichsverfaſſung vorgeſchriebenen Formen gegeben werden.
 
@@ -34,6 +34,6 @@ Der Zuſtimmung des Reichsoberhaupts bedarf es nicht, wenn in drei ſich unmitte
 
 Artikel IV.
 
-8: 497.
+§. 197.
 
 Im Falle des Kriegs oder“ Aufruhrs können die Beſtimmungen der Grundrechte über Verhaftung, Hausſuchung und Verfammlungsrecht von der Reichsregierung oder der Regierung eines Einzelſtagtes für einzelne Bezirke zeitweiſe außer Krait geſeßt werden; jedoch nur unter folgenden Bedingungen :

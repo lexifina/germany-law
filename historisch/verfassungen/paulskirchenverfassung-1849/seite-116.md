@@ -4,48 +4,39 @@ Scan: https://www.digitale-sammlungen.de/view/bsb10518698?page=174 (Bayerische S
 
 ---
 
-Transport: 184 Mitglieder
+| Staat | Mitglieder |
+| --- | --- |
+| | Transport: 184 Mitglieder |
+| Schaumburg-Lippe | 1 „ |
+| Lippe-Detmold | 1 „ |
+| Heſſen-Homburg | 1 „ |
+| Lauenburg | 1 „ |
+| Lübeck | 1 „ |
+| Frankfurt | 1 „ |
+| Bremen | 1 „ |
+| Hamburg | 1 „ |
+| | 192 Mitglieder. |
 
-* Lippe-Detmold . EN M m nm m - mf .
+So lange die deutſch-öſterreichiſchen Lande an dem Bundesſtaate nicht Theil nehmen, erhalten nachfolgende Staaten eine größere Anzahl von Stimmen im Staatenhauſe; nämlich:
 
-Heſſen - Homburg 1 2
+| Staat | Stimmen |
+| --- | --- |
+| Bayern | 20 |
+| Sachſen | 12 |
+| Hannover | 12 |
+| Würtemberg | 12 |
+| Baden | 10 |
+| Großherzogthum Heſſen | 8 |
+| Kurheſſen | 7 |
+| Naſſau | 4 |
+| Hamburg | 2 |
 
-Lauenburg >. 1 .
+(Die Kopfzeilen der Tabellen sind nicht gedruckt; im Druck stehen Namen und Zahlen mit Punktlinien.)
 
-Lübe> . 1 '
+§. 88.
 
-Frankfurt . 1 “
+Die Mitglieder des Staatenhauſes werden zur Hälfte durch die Regierung und zur Hälfte durch die Volksvertretung der betreffenden Staaten ernannt.
 
-Bremen EE HEHE 11507 4. 1004 r
+In denjenigen deutſchen Staaten, welche aus mehreren Provinzen oder Ländern mit abgeſonderter Verfaſſung oder Verwaltung beſtehen, ſind die durch die Volksvertretung dieſes Staates zu ernennenden Mitglieder des Staatenhauſes nicht von der allgemeinen Landesvertretung, ſondern von den Vertretungen der einzelnen Länder oder Provinzen (Provinzialſtänden) zu ernennen.
 
-Damburgigt 4925.01 247500 2..2550254 '
-
-192 Mitglieder.
-
-So lange die deutſch - öfterreichiſhen Lande an dem Vundesſtaate nicht Theil nehmen, erhalten nachfolgende Staaten eine Aöfers Anzahl von Stüthien im Staatenhauſe; nämlich:
-
-WDayen ei 2 20
-
-BEE ee ls 3 492
-
-Nannovore ien 1 72 we 5
-
-ALiirfeinberg 422 20 75.0 22.5748
-
-Waden 4: ZIEHE Hd zu: +;
-
-Großherzogthum beſen 242 1998
-
-Kurheſſen eee 2. Mga;
-
-Naſſau: 22 02 En IE
-
-Hamburg ' . ) 2 |
-
-e 6. 88.
-
-Die Mitglieder des Staatenhauſes werden zur Hälfte dur< die Regierung und zur Hälfte durch die“ Volksvertretung der betreffenden. Staaten ernannt.
-
-In denjenigen deutſchen Staaten, welche aus mehreren Provinzen oder Ländern mit abgeſonderter Verfaſſung oder Verwaltung beſtehen, ſind die durch die Volksvertretung dieſes Staates zu ernennenden Mitglieder des Staatenhauſes nicht von der  allgemeinen Landesvertretung, ſondern von den Vertretungen der einzelnen Länder oder Provinzen (Provinzialſtänden) zu ernennen.
-
-Das Verhältniß, nach welchem die Zahl der dieſen. Staaten zukommenden Mitglieder unter die einzelnen Länder oder Provinzen zu vertheilen iſt, bleibt der Landesgeſeßgetang vötbehaiten: I": Wo
+Das Verhältniß, nach welchem die Zahl der dieſen Staaten zukommenden Mitglieder unter die einzelnen Länder oder Provinzen zu vertheilen iſt, bleibt der Landesgeſetzgebung vorbehalten.

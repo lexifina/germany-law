@@ -16,11 +16,11 @@ CS. 162,
 
 Die Deutſchen haben das Recht, Vereine zu bilden. Dieſes Recht ſoll durch feine vorbeugende Maaßregel beſchränkt werden.
 
-S. 163.
+§. 163.
 
 Die in den 55. 161 und 162 enthaltenen Beßimmungen finden auf das Heer und die Kriegsflotte Anwendung, inſoweit die militäriſchen Disciplinarvorſchriften nicht entgegenſteh Artikel IX. egenſtehen.'
 
-S. 164.
+§. 164.
 
 Das Eigenthum iſt unverleßlich.
 
@@ -28,13 +28,13 @@ Eine Enteignung kann nur aus Rückſichten..des gemeinen Beſten, / nur -auf Gru
 
 Das geiſtige Eigenthum ſoll durch die Reichsgeſeßgebung geſchütßt. werden.
 
-FS. 165.
+§. 165.
 
 Jeder Grundeigenthümer kann ſeinen Grundbeſitz unter Lebenden und von Todes wegen ganz oder theilweiſe veräußern. Den Einzelſtaaten bleibt Überlaſſen, die Durchführung des Grundſaßes der Theilbarkeit alles Grundeigenthums durch UebergangEsgeſeze zu vermitteln.
 
 Für die todte Hand ſind Beſchränkungen des Rechts, Liegenſchaften zu erwerben und „über. ſie „zu „verfügen, «im Wege, der Geſetzgebung: aus Gründen „des öffentlichen Wohls zuläſſig. .
 
-S. 166.
+§. 166.
 
 Jeder Unterthänigkeits- und Hörigkeitsverband hört für immer auf,
 
