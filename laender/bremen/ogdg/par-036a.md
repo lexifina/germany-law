@@ -1,0 +1,3 @@
+# § 36a Datenverarbeitung im Auftrag
+(1) Daten im Sinne des § 31 sind in der Regel in den Behörden und Einrichtungen des Öffentlichen Gesundheitsdienstes zu verarbeiten. Eine Verarbeitung im Auftrag ist nur zulässig, wenn die Wahrung der Datenschutzbestimmungen dieses Gesetzes bei der verarbeitenden Stelle sichergestellt ist und diese sich insoweit der Kontrolle des Landesbeauftragten für den Datenschutz unterwirft.
+(2) Daten aus dem ärztlichen Bereich sind in jedem Fall auf physisch getrennten Dateien zu verarbeiten und dürfen nur im Rahmen der Weisungen der jeweiligen Behörde oder Einrichtung des Öffentlichen Gesundheitsdienstes verarbeitet werden.
