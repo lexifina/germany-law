@@ -1,10 +1,10 @@
-# Inhaltsübersicht
+Inhaltsübersicht
 Erster Abschnitt Allgemeines
 § 1 Geltungsbereich
 § 2 Begriffsbestimmungen
 Zweiter Abschnitt Staatliches Archivwesen
 § 3 Organisation des staatlichen Archivwesens
-§ 4 Aufgaben der staatlichen Archive
+§ 4 Aufgaben des Sächsischen Staatsarchivs
 § 5 Anbietung und Übernahme von Archivgut
 § 6 Rechtsansprüche Betroffener
 § 7 Deposita
