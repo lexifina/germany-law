@@ -1,4 +1,4 @@
-# TOP 4.1.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+# TOP 4.1.: Denkmalschutz Eintragung eines Bodendenkmals in die Denkmalliste der Gemeinde Aldenhoven
 
 - Sitzung: Gemeinderates (2001-02-15)
 - Körperschaft: Gemeinde Aldenhoven
