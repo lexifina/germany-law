@@ -1,0 +1,177 @@
+---
+ecli: "ECLI:DE:BVerfG:2001:qk20011208.1bvq004901"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvQ 49/01"
+decided: "2001-12-08"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 8. Dezember 2001\n- 1 BvQ 49/01 -, Rn. 1-12,\n                    https://www.bverfg.de/e/qk20011208_1bvq004901"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/12/qk20011208_1bvq004901.html"
+corpus_doc_id: "BVerfG_2001-12-08_K_1_BvQ_0049_01_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0003.md", "germany/bund/acts/bverfgg/0011.md", "germany/bund/acts/bverfgg/0023.md", "germany/bund/acts/bverfgg/0032.md", "germany/bund/acts/bverfgg/0034a.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/grundgesetz/artikel/005.md", "germany/bund/acts/grundgesetz/artikel/008.md", "germany/bund/acts/grundgesetz/artikel/021.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvQ 49/01 vom 2001-12-08
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 1 BVQ 49/01 -
+
+
+
+
+                              Im Namen des Volkes
+
+                              In dem Verfahren
+                                     über
+                                 den Antrag,
+                     im Wege der einstweiligen Anordnung
+unter teilweiser Aufhebung der Beschlüsse des Thüringer Oberverwaltungsgerichts
+vom 7. Dezember 2001 - 3 ZEO 812/01 - und des Verwaltungsgerichts Weimar vom
+6. Dezember 2001 - 7 E 2193/01.We - die aufschiebende Wirkung des Widerspruchs der Antragstellerin gegen die Verbotsverfügung des Landratsamts Nordhausen vom 6. November 2001 - 32-103/01 - wieder herzustellen.
+
+Antragsteller: 1. Nationaldemokratische Partei Deutschlands,
+
+              2. Herrn S...
+
+- Bevollmächtigter: Rechtsanwalt Dr. Hans Günter Eisenecker,
+                    Dorfstraße 22, 19260 Goldenbow -
+hat die 1. Kammer des Ersten Senats des Bundesverfassungsgerichts durch
+                                 den Vizepräsidenten Papier
+                                 und die Richter Steiner,
+                                 Hoffmann-Riem
+
+gemäß § 32 Abs. 1 in Verbindung mit § 93 d Abs. 2 BVerfGG in der Fassung der
+Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 8. Dezember 2001 einstimmig beschlossen:
+
+  1. Auf den Antrag des Antragstellers zu 2 wird der Beschluss des Verwaltungsgerichts Weimar vom 6. Dezember 2001 - 7 E 2193/01.We - aufgehoben, soweit der Antragstellerin zu 1 untersagt worden ist, den Antragsteller zu 2 während der für den 8. Dezember 2001 angemeldeten Versammlung in
+     Nordhausen unter dem Thema "Abschied der DM" als Redner auftreten zu lassen.
+  2. Der Antrag der Antragstellerin zu 1 auf Erlass einer einstweiligen Anordnung
+     wird abgelehnt.
+  3. Das Land Thüringen hat dem Antragsteller zu 2 die notwendigen Auslagen zu
+     erstatten.
+
+
+                                         1/6
+
+  4. Der Wert des Gegenstands der anwaltlichen Tätigkeit wird betreffend den Antrag des Antragstellers zu 2 auf 8.000 DM (in Worten: achttausend Deutsche
+     Mark) festgesetzt.
+
+                                     Gründe:
+ Der Antrag auf Erlass einer einstweiligen Anordnung betrifft Auflagen, unter denen    1
+das Verwaltungsgericht die aufschiebende Wirkung des Widerspruchs gegen ein
+Versammlungsverbot wieder hergestellt hat. Die Kammer hat die Begründung ihrer
+Entscheidung über den Antrag gemäß § 32 Abs. 5 in Verbindung mit § 93 d Abs. 2
+BVerfGG nach Bekanntgabe des Beschlusses schriftlich abgefasst.
+
+                                         I.
+  Die Antragstellerin zu 1 meldete Ende August diesen Jahres bei der Versammlungsbehörde für den 8. Dezember, 18 Uhr, eine Demonstration in Gestalt eines Fackelzuges zum Thema "Abschied der DM" an. Diese wurde mit sofort vollziehbar erklärtem Bescheid der Versammlungsbehörde verboten. Die Antragstellerin zu 1 legte
+hiergegen Widerspruch ein und beantragte beim Verwaltungsgericht vorläufigen
+Rechtsschutz. Das Verwaltungsgericht stellte die aufschiebende Wirkung des Widerspruchs gegen das Versammlungsverbot wieder her, verband diese Entscheidung jedoch mit mehreren Auflagen. Zu diesen zählte ein an die Antragstellerin zu 1 gerichtetes Verbot, den Antragsteller zu 2 - Vorsitzender des Thüringischen
+Landesverbandes der NPD - als Redner bei der Versammlung auftreten zu lassen,
+weil zu erwarten sei, er werde im Rahmen seiner Rede strafbare Äußerungen tätigen.
+Ferner wurde untersagt, bei der Versammlung Fackeln mitzuführen. Die Antragstellerin zu 1 beantragte beim Oberverwaltungsgericht die Zulassung der Beschwerde gegen diesen Beschluss. Der Antragsteller zu 2 erklärte seinen Betritt zu diesem Verfahren     als    Streitgenosse.     Das    Oberverwaltungsgericht      lehnte   den
+Beschwerdezulassungsantrag mangels wirksamer Prozessvollmacht als unzulässig
+ab. Den Beitritt des Antragstellers zu 2 wertete es als unzulässige Antragsänderung.
+
+ Die Antragsteller haben den Erlass einer einstweiligen Anordnung nach § 32            3
+BVerfGG beantragt; sie begehren die Aufhebung der oben bezeichneten Auflagen.
+
+                                         II.
+ 1. Die Voraussetzungen für den Erlass der begehrten einstweiligen Anordnung           4
+nach § 32 Abs. 1 BVerfGG liegen vor, soweit sich der Antragsteller zu 2 dagegen
+wendet, dass ihm durch eine im Beschluss des Verwaltungsgerichts verfügte Auflage
+die Möglichkeit genommen worden ist, auf der für den 8. Dezember angemeldeten
+Versammlung als Redner aufzutreten.
+
+ a) Bei - wie hier - offenem Ausgang eines noch möglichen Verfassungsbeschwerdeverfahrens muss das Bundesverfassungsgericht im Verfahren des einstweiligen
+Rechtsschutzes eine Folgenabwägung durchführen (vgl. BVerfGE 99, 57 <66>;
+stRspr). Betrifft der Eilantrag hoheitliche Maßnahmen der Beschränkung einer öffent-
+
+
+                                         2/6
+
+lichen Versammlung, so überprüft das Bundesverfassungsgericht die angegriffene
+Entscheidung im Interesse des effektiven Grundrechtsschutzes auch auf offensichtliche Fehler bei der Anwendung der betroffenen Grundrechte (vgl. näher BVerfG,
+1. Kammer des Ersten Senats, NJW 2001, S. 2076 <2077> m.w.N.). Dabei hat
+das Bundesverfassungsgericht in aller Regel die Tatsachenfeststellungen und Tatsachenwürdigungen in den angegriffenen Entscheidungen zu Grunde zu legen (vgl.
+hierzu etwa BVerfGE 34, 211 <216>; 36, 37 <40>; BVerfG, 1. Kammer des Ersten
+Senats, NJW 2001, S. 2076 <2077>). Das Gericht kann sich aber darauf allein nicht
+stützen, wenn offensichtlich ist, dass die Tatsachenwürdigung oder die Rechtsanwendung unter Berücksichtigung des Schutzgehalts der betroffenen Grundrechte offensichtlich nicht tragfähig ist.
+
+ Bei der rechtlichen Überprüfung eines Redeverbots ist zu berücksichtigen, dass dieses als präventive Maßnahme besonders intensiv in die Meinungsäußerungsfreiheit
+des Betroffenen aus Art. 5 Abs. 1 Satz 1 GG eingreift. Infolge des Redeverbots werden Abklärungen darüber unmöglich, ob die zu erwartenden Äußerungen wirklich
+strafbar wären. Zudem unterbindet ein Redeverbot nicht nur einzelne, möglicherweise strafbare Aussagen, sondern auch rechtlich unbedenkliche Bestandteile der Rede. Zählt ein Redebeitrag zu den Programmpunkten einer öffentlichen Versammlung,
+so beeinträchtigt das Redeverbot die Möglichkeit kommunikativer Entfaltung in Gemeinschaft mit anderen Versammlungsteilnehmern und beeinträchtigt damit auch
+das Grundrecht der Versammlungsfreiheit aus Art. 8 Abs. 1 GG.
+
+  b) Das hier zu beurteilende Redeverbot schränkt den Antragsteller zu 2 eigenständig in seinen Grundrechten aus Art. 5 Abs. 1 Satz 1 und Art. 8 Abs. 1 GG ein, ohne
+dass dies auch bei Berücksichtigung der Besonderheiten einer verwaltungsgerichtlichen Auflage im Eilrechtsschutz gerechtfertigt ist. Die in der behördlichen Verbotsverfügung und im angegriffenen verwaltungsgerichtlichen Beschluss dargelegten
+Umstände sind zur Rechtfertigung der Grundrechtseingriffe offensichtlich nicht tragfähig.
+
+  Es ist weder von der Verwaltungsbehörde noch von dem Verwaltungsgericht nachvollziehbar dargelegt, aus welchen konkreten Tatsachen sich ergibt, dass der Antragsteller zu 2 seinen Auftritt als Redner der geplanten öffentlichen Versammlung nutzen werde, Äußerungen strafbaren Inhalts abzugeben, und warum ein vollständiges
+Redeverbot auch angesichts des schweren Grundrechtseingriffs verhältnismäßig ist.
+Soweit das Verwaltungsgericht seine Gefahrenprognose auf Äußerungen stützt, die
+der Antragsteller zu 2 anlässlich eines Kooperationsgesprächs am 18. Oktober 2001
+zum Thema der Terroranschläge in den Vereinigten Staaten abgegeben hat, wird
+nicht ausgeführt, welche strafbaren Äußerungen auf der Versammlung mit hoher
+Wahrscheinlichkeit zu erwarten sind und auf Grund welcher Umstände anzunehmen
+ist, der Antragsteller zu 2 werde sich vermutlich weder durch das Risiko einer Strafverfolgung noch durch Einwirkung des Versammlungsleiters von strafbaren Äußerungen abhalten lassen. Soweit die Behörde und das Gericht auf die "einschlägige Vorbestrafung" des Antragstellers zu 2 "insbesondere auch wegen NS-Propaganda"
+
+
+                                         3/6
+
+abstellen, fehlt es an Darlegungen, ob dies in einer hinreichenden zeitlichen Nähe
+zu der Versammlung erfolgt ist, so dass es zur aktuellen Gefahrenprognose herangezogen werden kann. Da die damaligen Äußerungen offenbar keinen Bezug zu einer Versammlung hatten, hätten im Übrigen Anhaltspunkte dafür bezeichnet werden
+müssen, dass entsprechende Äußerungen auf der Versammlung in Nordhausen getätigt würden.
+
+  Bei der Rechtfertigung des Redeverbots hätte auch berücksichtigt werden müssen,          9
+dass es um eine Grundrechtsausübung im Rahmen einer Versammlung einer nicht
+verbotenen politischen Partei ging. Denn aus Art. 21 Abs. 1 GG folgt eine Privilegierung der politischen Parteien gegenüber den übrigen Vereinigungen und Verbänden
+(vgl. BVerfGE 2, 1 <13>; 47, 198 <228>; BVerfG, 1. Kammer des Ersten Senats,
+NJW 2001, S. 2076 <2077>). Das Entscheidungsmonopol des Bundesverfassungsgerichts für das Verbot von Parteien (Art. 21 Abs. 2 Satz 2 GG) schließt ein administratives Einschreiten gegen die Aktivitäten einer politischen Partei schlechthin aus,
+soweit sie sich allgemein erlaubter Mittel bedient (vgl. BVerfGE 12, 296 <305 ff.>; 39,
+334 <357>; 40, 287 <291>; 47, 130 <139>; 47, 198 <228>; BVerfG, 1. Kammer des
+Ersten Senats, NJW 2001, S. 2076 <2077>; stRspr.). Die Funktionäre, Mitglieder und
+Anhänger einer Partei dürfen dementsprechend grundsätzlich nicht daran gehindert
+werden, die Ziele ihrer Partei einer breiten Öffentlichkeit zu vermitteln und insbesondere auch auf offenen Parteiveranstaltungen im Namen ihrer Partei für eine bestimmte Beantwortung politischer Fragen zu werben (vgl. BVerfGE 47, 130 <139>; 47, 198
+<230>; 69, 257 <268 f.>).
+
+  2. Der Antrag der Antragstellerin zu 1 ist unzulässig, da er nicht den Begründungserfordernissen des § 23 Abs. 1 Satz 2 BVerfGG entspricht. Die Antragstellerin zu 1
+hat nicht hinreichend substantiiert dargelegt, vor der Anrufung des Bundesverfassungsgerichts im Eilrechtsschutzverfahren vor dem Oberverwaltungsgericht alles Erforderliche unternommen zu haben, um die von ihr geltend gemachte Grundrechtsverletzung auszuräumen. Sie hat trotz einer entsprechenden Anfrage des
+Oberverwaltungsgerichts nicht dargelegt, dass der Antragsteller zu 2 als Vorsitzender des Thüringischen Landesverbands der NPD satzungsmäßig befugt ist, als organschaftlicher Vertreter des Kreisverbandes Gotha/Erfurt zu handeln und dem für
+diesen im Ausgangsverfahren aufgetretenen Rechtsanwalt eine wirksame Prozessvollmacht zu erteilen. Einen solchen Nachweis hat sie auch im Verfahren vor dem
+Bundesverfassungsgericht nicht erbracht.
+
+  3. Die Entscheidung über die Erstattung der Auslagen beruht auf § 34 a Abs. 3           11
+BVerfGG, die Festsetzung des Werts des Gegenstands der anwaltlichen Tätigkeit auf
+§ 113 Abs. 2 Satz 3 BRAGO in Verbindung mit den durch das Bundesverfassungsgericht hierzu entwickelten Grundsätzen (vgl. BVerfGE 79, 357 <361 ff.>; 79, 365
+<366 ff.>).
+
+
+
+
+                                          4/6
+
+Diese Entscheidung ist unanfechtbar.                         12
+
+              Papier               Steiner   Hoffmann-Riem
+
+
+
+
+                                       5/6
+
+Bundesverfassungsgericht, Beschluss der 1. Kammer des Ersten Senats vom 8. Dezember 2001 - 1 BvQ 49/01
+
+Zitiervorschlag BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 8. Dezember 2001 - 1 BvQ 49/01 - Rn. (1 - 12), http://www.bverfg.de/e/
+                qk20011208_1bvq004901.html
+
+ECLI           ECLI:DE:BVerfG:2001:qk20011208.1bvq004901
+
+
+
+
+                                     6/6
