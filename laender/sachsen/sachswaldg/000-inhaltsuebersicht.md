@@ -41,7 +41,7 @@ Sechster Teil Förderung der Forstwirtschaft
 § 34 Förderung der Forstwirtschaft
 Siebenter Teil Forstorganisation
 § 35 Forstbehörden
-§ 36 Sächsische Landesanstalt für Forsten
+§ 36 aufgehoben
 § 37 Aufgaben und Zuständigkeit der Forstbehörden
 § 38 Beratung und Unterstützung Dritter bei landschaftsbezogenen Maßnahmen
 § 39 Landesforstwirtschaftsrat
