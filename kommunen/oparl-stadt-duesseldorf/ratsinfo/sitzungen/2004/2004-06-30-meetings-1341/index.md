@@ -1,0 +1,58 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-06-30T15:00:00+02:00
+- Ende: 2004-06-30T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1341
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1341
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111333.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111333.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111333.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Anfragen und Anträge
+- TOP 4: Interfraktioneller Antrag 'Dd Initiative Partiz.' - einstimmig beschlossen
+- TOP 5: Antrag CDU,SPD,FDP 'Sozialräumliche Orientierung' - einstimmig beschlossen
+- TOP 6: Antrag CDU + FDP 'Sonderfinanz. Betriebskosten' - einstimmig beschlossen
+- TOP 7: Antrag CDU / FDP 'Jugendsozialarbeit' - einstimmig beschlossen
+- TOP 8: Anfrage Bü 90 / Die Grünen 'Jugend ans Netz' - zur Kenntnis genommen
+- TOP 9: Tageseinrichtungen für Kinder
+- TOP 10: Kita-Bedarfsplanung - einstimmig beschlossen
+- TOP 11: Bildungsoffensive III
+- TOP 12: Ergebnis Elternbefragung Öffnungszeiten Kitas - zur Kenntnis genommen
+- TOP 13: Übernahme Trägeranteil Kita Tiefenbroicher Weg 4 - einstimmig beschlossen
+- TOP 14: Zuschüsse für Investitionen an freie Träger - passieren lassen
+- TOP 15: Genehmigung verringerter Öffnungszeiten - einstimmig beschlossen
+- TOP 16: Trägerwechsel Betriebskita Uni - einstimmig beschlossen
+- TOP 17: Jugendförderung
+- TOP 18: Jugendschützende u. -fördernde Aktionen / Projekte
+- TOP 19: Gesamtkonzept zur Gewaltprävention
+- TOP 20: Zusätzliche Infos zu 40/42/2004
+- TOP 21: Jugendschützende und -fördernde Aktionen und Proj.
+- TOP 22: Erweiterung JFE Kiefernstraße 21 - passieren lassen
+- TOP 23: Fortsetzung Sanierungsmaßnahmen JFEs - einstimmig beschlossen
+- TOP 24: Masterpläne
+- TOP 25: Masterplan Jugend - einstimmig beschlossen
+- TOP 26: Masterplan Kinderspielplätze - passieren lassen
+- TOP 27: Sport- und Spiel - passieren lassen
+- TOP 28: Kommunale Mitfinanzierung von OT-Betriebskosten - einstimmig beschlossen
+- TOP 29: Jugend, Kultur und Schule
+- TOP 30: Jugend, Kultur und Schule - einstimmig beschlossen
+- TOP 31: "KünstlerInnenn in Schulen" und "Kulturinstitute u - einstimmig beschlossen
+- TOP 32: Hilfen zur Erziehung
+- TOP 33: Stadtteilorientierte Jugendhilfe - zur Kenntnis genommen
+- TOP 34: Zwischenberichte der Verwaltung
+- TOP 35: AGs und AKs in der Jugendhilfe - zur Kenntnis genommen
+- TOP 36: Täter-Opfer-Ausgleich (TOA) - zur Kenntnis genommen
+- TOP 37: Prüfung Zuwendungen Rather Modell 2001 - zur Kenntnis genommen
+- TOP 38: Controllingberichte Kita, HzE und UVK (31.05.2004) - einstimmig beschlossen
+- TOP 39: Beschlusskontrolle III/2004 - zur Kenntnis genommen
+- TOP 40: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 41: Verschiedenes - zur Kenntnis genommen
