@@ -1,0 +1,92 @@
+# 9. (öfftl.) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2001-05-30T16:00:00+02:00
+- Ende: 2001-05-30T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=628
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=628
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2: Informationen des Vorstehers - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. 5/01 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses - gewählt
+- TOP 8: Wahl von stellvertretenden Bürgerdeputierten - gewählt
+- TOP 9: Autobahn 103 - schriftlich beantwortet
+- TOP 10: Baustelleneinrichtungen bzw. Bauablagerungsflächen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dirk D. Retzlaff)</span> - schriftlich beantwortet
+- TOP 11: Förderung der sozialen Infrastruktur <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Anneliese Bräuer)</span> - schriftlich beantwortet
+- TOP 12: Alte Försterei bundesligareif <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - schriftlich beantwortet
+- TOP 13: Grenzwachturm im Schlesischen Busch <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Elke Werner Verfasser 3: Karl-Georg Maucher)</span> - beantwortet
+- TOP 14: Moosstraße 5 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Anneliese Bräuer)</span> - vertagt
+- TOP 15: Benennung von Nummern-Straßen - ohne Änderungen in der BVV beschlossen
+- TOP 16: Buchbestand Bibliotheken <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Elke Werner)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 17: Nein zu Fremdenfeindlichkeit und Gewalt <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Elke Werner Verfasser 2: Brigitte Gelbke)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 18: Auftragsvergabe Verwaltungszentrum Adlershof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 19: Nachtflugbeschränkungen für den Flughafen Berlin-Schönefeld - ohne Änderungen in der BVV beschlossen
+- TOP 20: Umsetzung des BVV-Beschlusses Nr. 061/07/01 "Treptow-Köpenicks Entwicklung zum Solarbezirk" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauUm)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 21: Finanzielle Handlungsfähigkeit des Bezirks - ohne Änderungen in der BVV beschlossen
+- TOP 22: Seniorenfreizeitstätte in Adlershof - mit Änderungen in der BVV beschlossen
+- TOP 23: Beflaggung des Köpenicker Rathauses zum Christopher-Stree-Day <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Katharina Grell)</span> - mit Änderungen in der BVV beschlossen
+- TOP 24: Benennung von Nummern-Straßen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Werner Laube)</span> - gegenstandslos
+- TOP 25: Büste Ernst Schneller - ohne Änderungen in der BVV beschlossen
+- TOP 26: Schaukästen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Barbara Nowak)</span> - mit Änderungen in der BVV beschlossen
+- TOP 27: Sicherung der Existenz des Spreeparks im Bezirk - mit Änderungen in der BVV beschlossen
+- TOP 28: "IQ 1185" - mit Änderungen in der BVV beschlossen
+- TOP 29: Schwimmhallen in Treptow <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Alexandra Friede)</span> - vertagt
+- TOP 30: Programm Prosoz im Sozialamt - vertagt
+- TOP 31: Sozialstiftung Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Elke Werner Verfasser 2: Brigitte Gelbke Verfasser 3: Klaus Pick)</span> - vertagt
+- TOP 32: Ortskernumfahrung Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - vertagt
+- TOP 33: Konzept zur Ansiedlung von Gewerbeunternehmen im Zusammenhang mit dem Ausbau und dem Betrieb des Verkehrsflughafens Berlin-Schönefeld <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margit Görsch)</span> - vertagt
+- TOP 34: Sondermittel für Netzwerk in Köpenick e.V., Spielmobil Köpenick - vertagt
+- TOP 35: Sondermittel für "Sozialwerk des Demokratischen Frauenbundes", Projekt Soziale Jugendbörse - ohne Änderungen in der BVV beschlossen
+- TOP 36: Sondermittel für "Seniorenverein Wuhlheide e.V." - ohne Änderungen in der BVV beschlossen
+- TOP 37: Sondermittel für "all eins e.V." - ohne Änderungen in der BVV beschlossen
+- TOP 38: Sondermittel für "Jugendfeuerwehr Berlin-Müggelheim" - ohne Änderungen in der BVV beschlossen
+- TOP 39: "Sondermittel für Salvador-Allende-Oberschule" - in der BVV zurückgezogen
+- TOP 40: Benennung einer neuen öffentlichen Straße sowie 11 neuer Privatstraßen in der Gartenstadt Falkenberg in Berlin-Bohnsdorf <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauUm)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 41: Benennung und Widmung des neuen Straßenabschnittes der "Kalker Straße" (Altglienicke) <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauUm)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 42: Schließung der Fridtjof-Nansen-Oberschule (Gesamtschule) <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BiKuS)</span> - vertagt
+- TOP 43: Trassenauswahl der Straßenbahnbauinvestition - 4212/720 72 Ost-West-Trasse (1. Abschnitt) <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauUm)</span> - überwiesen
+- TOP 44: Sondermittel für allgemeine jugendberatung e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 45: Sondermittel für "allgemeine jugendberatung e.V." (Gruppenreise Korsika) - ohne Änderungen in der BVV beschlossen
+- TOP 46: Sondermittel für die Selbsthilfegruppe Gymnastik - ohne Änderungen in der BVV beschlossen
+- TOP 47: Verstärkte Überprüfung der Einhaltung der Geschwindigkeit in den Tempo 30 Zonen - ohne Änderungen in der BVV beschlossen
+- TOP 48: Parkordnung vor dem Krankenhaus Köpenick (alte Allendestr.) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 49: Umgestaltung des Griechischen Parks <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Thomas Krause)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 50: Umweltinformations- und Umweltbildungsprogramm <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ernst Welters)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 51: Tourismus- und Dienstleistungsstandorte - vertagt
+- TOP 52: Arbeiten in den Bootshallen Wendenschloßstr. 404 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach)</span> - vertagt
+- TOP 53: Radweg Müggelheimer Damm für Rollstuhlfahrer <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 54: Erlass der Erhaltungsverordnung gemäß § 172 Abs. 1 i.V.m. Abs. 3 BauGB für das Gebiet Hessenwinkel im Bezirk Treptow-Köpenick von Berlin <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, Stadt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 55: Erlass der Erhaltungsverordnung gemäß § 172 Abs. 1 i.V.m. Abs. 3 BauGB für das Gebiet Wilhelmshagen im Bezirk Treptow-Köpenick von Berlin <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, Stadt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 56: Aufstellungsbeschluss für den Bebauungsplan 9-2 im Bezirk Treptow-Köpenick, Ortsteil Oberschöneweide <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, Stadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 57: Konzeption für die Durchführung der 5. Wirtschaftstage Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Petra Reichardt)</span> - vertagt
+- TOP 58: Durchführung eines bezirklichen Tourismustages <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Petra Reichardt)</span> - vertagt
+- TOP 59: Ergänzung des Beschlusses 038/06/00 der ehemaligen BVV Köpenick, (Drs. 492/III, Erarbeitung eines Lärmminderungsplanes) <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margit Görsch)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 60: Zu-Wasser-Lassen von Kleinstbooten über öffentliche Zugänge <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Martin Sattelkau)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 61: Bildung eines Wirtschaftsbeirates <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Norbert Pewestorff)</span> - überwiesen
+- TOP 62: Geschäftszentrum im Entwicklungsgebiet Adlershof - vertagt
+- TOP 63: Halteverbot im Bereich Friedlander Straße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wolfgang Grasenick)</span> - überwiesen
+- TOP 64: Köpenicker Herbstfest <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Elke Werner)</span> - vertagt
+- TOP 65: Umsetzung des neuen Rechtes für eingetragene Lebenspartnerschaft <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Constance S. Pewestorff)</span> - vertagt
+- TOP 66: Gedenktafelprogramm im Bezirk Treptow-Köpenick - überwiesen
+- TOP 67: Lärmbelästigung und Verwahrlosung am neu errichteten Sport- und Bolzplatz an der 15. Grundschule "Am Buntzelberg" in Bohnsdorf - überwiesen
+- TOP 68: Ergänzung des "Maria-Jankowski-Gedenksteins" - vertagt
+- TOP 69: Wegweisung zum WISTA in Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 70: Bezirksamt Treptow-Köpenick mit einheitlicher Telefonnummer <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wolfgang Grasenick)</span> - überwiesen
+- TOP 71: "Stiftung eines "Maria-Jankowski-Preises" - vertagt
+- TOP 72: Betriebskosten für Alte Feuerwache Altglienicke - vertagt
+- TOP 73: Sondernutzung von öffentlichem Straßenland <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Norbert Pewestorff)</span> - überwiesen
+- TOP 74: Entsperrung des Treptower Parks - ohne Änderungen in der BVV beschlossen
+- TOP 75: Bordsteinabsenkungen am S-Bahnhof Plänterwald <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Thomas Krause)</span> - überwiesen
+- TOP 76: Konkretisierung und Fortschreibung der städtebaulichen und sozialen Sanierungsziele für das Sanierungsgebiet Altstadt/Kietz Vorstadt - vertagt
+- TOP 77: Weiterbau Kita Uhlenhorster Straße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Marko Tesch)</span> - vertagt
+- TOP 78: nicht öffentlicher Tagesordnungspunkt
