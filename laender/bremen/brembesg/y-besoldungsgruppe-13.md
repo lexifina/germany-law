@@ -21,6 +21,6 @@ Fußnoten
 2) Erhält eine ruhegehaltfähige Stellenzulage nach der Vorbemerkung Nr. 27 Abs. 1 Buchstabe c zu den Bundesbesoldungsordnungen A und B.
 2) Erhält eine ruhegehaltfähige Stellenzulage nach der Vorbemerkung Nr. 27 Abs. 1 Buchstabe c zu den Bundesbesoldungsordnungen A und B.
 3) Erhält nach Maßgabe der Vorbemerkung Nr. 12 zu den Bundesbesoldungsordnungen A und B eine Stellenzulage.
-4) Erhält als Leiter des allgemeinbildenden Zweiges der Abteilung Aus- und Fortbildung der Polizei Bremen eine Stellenzulage von 54 DM.
-4) Erhält als Leiter des allgemeinbildenden Zweiges der Abteilung Aus- und Fortbildung der Polizei Bremen eine Stellenzulage von 54 DM.
+4) Erhält als Leiter des allgemeinbildenden Zweiges der Abteilung Aus- und Fortbildung der Polizei Bremen eine Stellenzulage von EUR 27,61.
+4) Erhält als Leiter des allgemeinbildenden Zweiges der Abteilung Aus- und Fortbildung der Polizei Bremen eine Stellenzulage von EUR 27,61.
 5) Erhält eine Amtszulage von 257,08 DM.

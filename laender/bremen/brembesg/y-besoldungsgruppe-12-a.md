@@ -11,5 +11,5 @@ einer berufsbildenden Schule
 einer voll ausgebauten Gesamtschule
 einem Gymnasium
 einer Sonderschule
-eine Stellenzulage von 50 DM.
-3) Erhält für die Dauer seiner Tätigkeit als Pädagogischer Mitarbeiter beim Senator für Bildung und Wissenschaft eine Stellenzulage von 50 DM.
+eine Stellenzulage von EUR 25,56.
+3) Erhält für die Dauer seiner Tätigkeit als Pädagogischer Mitarbeiter beim Senator für Bildung und Wissenschaft eine Stellenzulage von EUR 25,56.

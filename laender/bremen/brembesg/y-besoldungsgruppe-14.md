@@ -31,7 +31,7 @@ Fußnoten
 1) Erhält eine Amtszulage von 285,57 DM.
 1) Erhält eine Amtszulage von 285,57 DM.
 1) Erhält eine Amtszulage von 285,57 DM.
-2) Erhält als Leiter der Orientierungsstufe mit mehr als 180 Schülern eine Stellenzulage von 150 DM
+2) Erhält als Leiter der Orientierungsstufe mit mehr als 180 Schülern eine Stellenzulage von EUR 76,69
 3) Erhält nach Maßgabe der Vorbemerkung Nr. 12 zu den Bundesbesoldungsordnungen A und B eine Stellenzulage
 4) Bis zum vollendeten 10. Dienstjahr als Beamter auf Zeit. Erhält das Endgrundgehalt.
 5) Die am 1. Januar 2000 im Amt befindlichen Stelleninhaber erhalten weiterhin Dienstbezüge aus Besoldungsgruppe A 15.
