@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 1994-10-01 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/aend_name_amt_bad_freienwalde
+- Datum: 1994-12-28 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/bildung_amt_jaenschwalde
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -27,20 +27,30 @@ A |
 
 Aktuelle Fassung
 
-Änderung des Namens des Amtes Bad Freienwalde
+Bildung des Amtes Jänschwalde
 
-vom 20. September 1994
+vom 22. Dezember 1992
 
-(ABl./94, [Nr. 71], S.1447)
+(ABl./93, [Nr. 8], S.158)
 
-Der Minister des Innern hat in Anwendung von § 1 Abs. 3 der Amtsordnung für das Land Brandenburg vom 15. Oktober 1993 (GVBl. I S. 398, 450) folgender Änderung des Namens des Amtes Bad Freienwalde (ABl. 1992 S. 2462) zugestimmt:
+Der Minister des Innern hat seine Zustimmung zu den Beschlüssen über die Bildung des folgenden Amtes erteilt:
 
-Das Amt
+Amt Jänschwalde mit Sitz in Jänschwalde, bestehend aus den Gemeinden
 
-Bad Freienwalde
+Drewitz
 
-(Landkreis Märkisch-Oderland)
+Grießen
 
-erhält mit Wirkung zum 01.10.1994 den Namen
+Horno
 
-Bad Freienwalde-Insel.
+Jänschwalde
+
+Alle Gemeinden und das Amt liegen im Kreis Guben.
+
+Die Zustimmung gilt befristet bis zum 28.12.1994.
+
+Gemäß § 49 Abs. 1 des Verwaltungsverfahrensgesetzes - VwVfG - vom 25. Mai 1976 (BGBl. I S. 1253) zuletzt geändert durch Art. 7 § 3 BetreuungsG vom 12.9.1990 (BGBl. I S. 2002) wird der Erlaß über die Zuordnung der Gemeinden Jänschwalde, Horno, Grießen und Drewitz (Kreis Guben) zum Amt Schenkendöbern vom 23.9.1992 widerrufen.
+
+Gem. § 49 Abs. 3 VwVfG wird als Zeitpunkt für das Wirksamwerden des Widerrufs der 28.12.1992 festgelegt.
+
+In Anwendung von § 6 Satz 2 der Verordnung über das Verfahren bei der erstmaligen Bildung sowie bei der Änderung und bei der Auflösung von Ämtern im Land Brandenburg vom 13.01.1992 (GVBl. II S. 22) wurde als Zeitpunkt für das Zustandekommen des o. g. Amtes der 28.12.1992 festgelegt. Dieser Zeitpunkt wird hiermit bekanntgemacht.
