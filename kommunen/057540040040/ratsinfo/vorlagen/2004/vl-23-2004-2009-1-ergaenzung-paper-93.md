@@ -1,0 +1,25 @@
+# Kalkulation der Abfallgebühren 2005
+
+- Körperschaft: Gemeinde Steinhagen
+- Drucksache/Vorlage: VL-23-2004/2009 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2004-12-15
+- Ratsinformationssystem: https://ratsinfo.steinhagen.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZaTL3zLiP3ScILnbJKK1T_Y
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/paper/93
+- Quelle: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Kalkulation der Abfallgebühren 2005) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdiVgh8Cr2ehrwXhUl5Fwvpp_0i3sJy8LLi8LdpcNbOG/Beschlussvorlage_VL-23-2004-2009_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Berechnung des Durchschnittes der Leerungshäufigkeit) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUt8b_4ZbWRUNBiL-etL4ka6WPM7rAXL21CEIony9r13/Berechnung_des_Durchschnittes_der_Leerungshaeufigkeit.pdf
+- Anlage: Beschlussvorlage (Abfallmengen-Entwicklung im Vergleich) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT496k94O8ZeTouvHMUiWAlVeEjsSP5BsE1x-8sgrUIW/Abfallmengen-Entwicklung_im_Vergleich.pdf
+- Anlage: Beschlussvorlage (Kalkulation der Einnahmen aus Zusatzentleerungen in 2004) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUJJnslLQb8WykFzaxhZbqrrwoeDXf-gazsTHt7xaU_p/Kalkulation_der_Einnahmen_aus_Zusatzentleerungen_in_2004.pdf
+- Anlage: Beschlussvorlage (Berechnung der voraussichtlichen Zusatzentleerungen in 2005) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcB6xUqLa25VH2BgW7JFP5wgex-sIMo4WzYzyVzMGCd3/Berechnung_der_voraussichtlichen_Zusatzentleerungen_in_2005.pdf
+- Anlage: Beschlussvorlage (Zusammenstellung des Haushaltes 2005) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXaYNjllrUNM4aTfy7JvY9zdN-6bpO9YbzyEji0iGSsX/Zusammenstellung_des_Haushaltes_2005.pdf
+- Anlage: Beschlussvorlage (Berechnung der Gebühren für die Komposttonne in 2005) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYE-Q1W-WeMjl2sL6IV95kOLVIuDfVhU1XjV3jmM-U03/Berechnung_der_Gebuehren_fuer_die_Komposttonne_in_2005.pdf
+- Anlage: Beschlussvorlage (Zuordnung der Kosten für die Leistungsbereiche Restmüll- und Biomüllentsorgung) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZViaa8d_tkynpv72iYwd94gl1ex7SaUl8JQv4u50nqvE/Zuordnung_der_Kosten_fuer_die_Leistungsbereiche_Restmuell-_und_Biomuellentsorgung.pdf
+- Anlage: Beschlussvorlage (Übersicht der Gebührenmodelle für die Restmülltonne) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa6QAIhiJcRskcaJU01TM4GckGXav_5jhuwRzDWX5SCp/Uebersicht_der_Gebuehrenmodelle_fuer_die_Restmuelltonne.pdf
+- Anlage: Beschlussvorlage (Gebührenkalkulation für das Gebührenmodell 1) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfAlXABr_BnMWYPHfs_DFjefMxu1oSs1QrG4b0ijtkKF/Gebuehrenkalkulation_fuer_das_Gebuehrenmodell_1.pdf
+- Anlage: Beschlussvorlage (Zuordnung der Kostenanteile zwischen Mindest- und Zusatzentleerungen beim Gebührenmodell 1) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfQU0p3Pnaq5oBU0r7BMzG4kvgTV6ucKRqKBpvFp5NQW/Zuordnung_der_Kostenanteile_zwischen_Mindest-_und_Zusatzentleerungen_beim_Gebuehrenmodell_1.pdf
+- Anlage: Beschlussvorlage (Gebührenkalkulation für das Gebührenmodell 2) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR5AINlz2KAQ3qZx0CFV9xPBPeGA0vH2lqZSW7QCw9By/Gebuehrenkalkulation_fuer_das_Gebuehrenmodell_2.pdf
+- Anlage: Beschlussvorlage (Zuordnung der Kostenanteile zwischen Mindest- und Zusatzentleerungen beim Gebührenmodell 2) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbRFyhcoP9G35v7EUWH93dS1airRgBKT3eVPZX1-qX-R/Zuordnung_der_Kostenanteile_zwischen_Mindest-_und_Zusatzentleerungen_beim_Gebuehrenmodell_2.pdf
+- Anlage: Beschlussvorlage (Gebührenkalkulation für das Gebührenmodell 3) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTuT2ox38YcLSM8aTdjqUtlnrXgFBc_jtGWzd-AMwTLH/Gebuehrenkalkulation_fuer_das_Gebuehrenmodell_3.pdf
+- Beratung:  https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/meeting/158 https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/1-9
+- underDirectionOf: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/3-183
