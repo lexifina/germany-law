@@ -1,0 +1,69 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf AUS TECHNISCHEN GRÜNDEN KÖNNEN DIE EINLADUNG UND DIE TAGESORDNUNG NCHT IN DATENFORM ABGERUFEN WERDEN!
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2002-06-12T17:00:00+02:00
+- Ende: 2002-06-12T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=201
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=201
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: (nichtöffentlich) - überwiesen
+- TOP 2: (nichtöffentlich) - überwiesen
+- TOP 3: (nichtöffentlich) - erledigt
+- TOP 4: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 9: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 12: (nichtöffentlich) - erledigt
+- TOP 13: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 14: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 16: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 17: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 18: (nichtöffentlich) - überwiesen
+- TOP 19: (nichtöffentlich) - beantwortet
+- TOP 20: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 21: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 22: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 23: (nichtöffentlich) - gegenstandslos
+- TOP 24: (nichtöffentlich) - mit Änderungen in der BVV beschlossen
+- TOP 25: (nichtöffentlich) - überwiesen
+- TOP 26: (nichtöffentlich) - überwiesen
+- TOP 27: (nichtöffentlich) - überwiesen
+- TOP 28: Schwarzarbeit bei Bautätigkeiten - überwiesen
+- TOP 29: (nichtöffentlich) - überwiesen
+- TOP 30: (nichtöffentlich) - überwiesen
+- TOP 31: (nichtöffentlich) - überwiesen
+- TOP 32: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 33: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 34: (nichtöffentlich) - mit Änderungen in der BVV beschlossen
+- TOP 35: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 36: (nichtöffentlich) - überwiesen
+- TOP 37: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 38: (nichtöffentlich) - überwiesen
+- TOP 39: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 40: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 41: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 42: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 43: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 44: (nichtöffentlich) - überwiesen
+- TOP 45: (nichtöffentlich) - überwiesen
+- TOP 46: (nichtöffentlich) - mit Änderungen in der BVV beschlossen
+- TOP 47: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 48: (nichtöffentlich) - überwiesen
+- TOP 49: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 50: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 51: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 52: (nichtöffentlich) - überwiesen
+- TOP 53: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 54: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 55: (nichtöffentlich) - mit Änderungen in der BVV beschlossen
