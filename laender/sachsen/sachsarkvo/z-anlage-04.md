@@ -1,64 +1,64 @@
-Anlage 4 (zu § 8 SächsRKVO)
+# Anlage 4 (zu § 8 SächsRKVO)
 Asien
 Anlage 4
-Land/Ort | Auslandstagegeld – in DM – | Auslandsübernachtungskosten bis zu ... DM mit Nachweis – in DM –
-Land/Ort | Auslands- tagegeld – in DM – | Auslandsüber- nachtungskosten bis zu ... DM mit Nachweis – in DM –
+Land/Ort | Auslandstagegeld – in EUR – | Auslandsübernachtungskosten bis zu … EUR mit Nachweis – in EUR –
+Land/Ort | Auslandstagegeld – in EUR – | Auslandsüber- nachtungskosten bis zu … EUR mit Nachweis – in EUR –
 1 | 2 | 3
-Armenien | 35 | 110
-Aserbaidschan | 50 | 220
-Bahrain | 75 | 160
-Bangladesch | 45 | 200
-Brunei | 60 | 140
+Armenien | 17,90 | 56,24
+Aserbaidschan | 25,56 | 112,48
+Bahrain | 38,35 | 81,81
+Bangladesch | 23,01 | 102,26
+Brunei | 30,68 | 71,58
 China |  | 
-Peking | 70 | 140
-Schanghai | 80 | 200
-im Übrigen | 65 | 170
-Georgien | 70 | 260
+– Peking | 35,79 | 71,58
+– Schanghai | 40,90 | 102,26
+– im Übrigen | 33,23 | 86,92
+Georgien | 35,79 | 132,94
 Indien |  | 
-New Dehli | 40 | 230
-Mumbai (Bombay) | 50 | 290
-im Übrigen | 40 | 200
-Indonesien | 60 | 200
-Iran, Islamische Republik | 30 | 180
-Israel | 75 | 210
+– New Delhi | 20,45 | 117,60
+– Mumbai (Bombay) | 25,56 | 148,27
+– im Übrigen | 20,45 | 102,26
+Indonesien | 30,68 | 102,26
+Iran, Islamische Republik | 15,34 | 92,03
+Israel | 38,35 | 107,37
 Japan |  | 
-Tokio | 110 | 210
-im Übrigen | 110 | 180
-Jemen | 55 | 160
-Jordanien | 60 | 140
-Kambodscha | 50 | 80
-Kasachstan | 50 | 140
-Katar | 60 | 180
-Kirgisistan | 30 | 120
-Korea, Demokratische Volksrepublik | 85 | 140
-Korea, Republik | 80 | 200
-Kuwait | 55 | 160
-Laos, Demokratische Volksrepublik | 45 | 100
-Libanon | 60 | 170
-Malaysia | 50 | 80
-Malediven | 50 | 160
-Mongolei | 50 | 140
-Myanmar | 50 | 100
-Nepal | 50 | 140
-Oman | 70 | 130
-Pakistan | 35 | 150
-Philippinen | 60 | 200
+– Tokio | 56,24 | 107,37
+– im Übrigen | 56,24 | 92,03
+Jemen | 28,12 | 81,81
+Jordanien | 30,68 | 71,58
+Kambodscha | 25,56 | 40,90
+Kasachstan | 25,56 | 71,58
+Katar | 30,68 | 92,03
+Kirgisistan | 15,34 | 61,36
+Korea, Demokratische Volksrepublik | 43,46 | 71,58
+Korea, Republik | 40,90 | 102,26
+Kuwait | 28,12 | 81,81
+Laos, Demokratische Volksrepublik | 23,01 | 51,13
+Libanon | 30,68 | 86,92
+Malaysia | 25,56 | 40,90
+Maledive | 25,56 | 81,81
+Mongolei | 25,56 | 71,58
+Myanmar | 25,56 | 51,13
+Nepal | 25,56 | 71,58
+Oman | 35,79 | 66,47
+Pakistan | 17,90 | 76,69
+Philippinen | 30,68 | 102,26
 Saudi-Arabien |  | 
-Riad | 80 | 180
-im Übrigen | 80 | 130
-Singapur | 60 | 140
-Sri Lanka | 50 | 170
-Syrien, Arabische Republik | 60 | 210
-Tadschikistan | 45 | 100
-Taiwan | 55 | 200
-Thailand | 50 | 150
+– Riad | 40,90 | 92,03
+– im Übrigen | 40,90 | 66,47
+Singapur | 30,68 | 71,58
+Sri Lanka | 25,56 | 86,92
+Syrien, Arabische Republik | 30,68 | 107,37
+Tadschikistan | 23,01 | 51,13
+Taiwan | 28,12 | 102,26
+Thailand | 25,56 | 76,69
 Türkei (siehe unter Europa) |  | 
-Turkmenistan | 60 | 100
-Usbekistan | 80 | 180
+Turkmenistan | 30,68 | 51,13
+Usbekistan | 40,90 | 92,03
 Vereinigte Arabische Emirate |  | 
-Dubai | 70 | 170
-im Übrigen | 70 | 120
+– Dubai | 35,79 | 86,92
+– im Übrigen | 35,79 | 61,36
 Vietnam |  | 
-Ho-Chi-Min-Stadt | 45 | 110
-im Übrigen | 35 | 90
+– Ho-Chi-Min-Stadt | 23,01 | 56,24
+– im Übrigen | 17,90 | 46,02
 Zypern (siehe unter Europa) |  | 
