@@ -1,4 +1,4 @@
-# TOP 3.1.: Genehmigung von Dringlichkeitsbeschlüssen
+# TOP 3.1.: Versetzung eines Beamten in den vorzeitigen Ruhestand wegen Dienstunfähigkeit
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
