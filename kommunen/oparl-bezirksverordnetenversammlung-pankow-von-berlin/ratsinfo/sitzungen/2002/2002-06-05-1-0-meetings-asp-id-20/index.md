@@ -1,0 +1,77 @@
+# 6. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2002-06-05T17:30:00+02:00
+- Ende: 2002-06-05T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=20
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=20
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - im Ausschuss abgelehnt
+- TOP 1.2: Abstimmung über die Tagesordnung - im Ausschuss abgelehnt
+- TOP 1.3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 1.4: Mündliche Anfrage - im Ausschuss abgelehnt
+- TOP 1.5: Bericht des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 1.6: Konsensliste - im Ausschuss abgelehnt
+- TOP 1.7: Geschäftsordnung für das Bezirksamt Pankow - erledigt
+- TOP 1.8: Kostenlose Abnahme von Spermüll - überwiesen
+- TOP 1.9: Sicherheit auf den Straßen für Senioren - überwiesen
+- TOP 1.10: Verkehrsproblem: Straßenüberquerung der Hauptstraße in Höhe Hertzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Verbesserung des Kontaktes zu Senioren im Alter zwischen 75 und 80 Jahren - überwiesen
+- TOP 1.12: Erhalt der Seniorenbegegnungs- und Freizeitstätten im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Für seniorengerechtes Wohnen und gegen Einsamkeit im Alter - mit Änderungen in der BVV beschlossen
+- TOP 1.14: Seniorenwohnen in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Abbau von Gewerberaumleerstand - beantwortet
+- TOP 1.16: Instandsetzung von Straßen und Fahrradwege - beantwortet
+- TOP 1.17: Bauzeiten der Berliner Wasserbetriebe - beantwortet
+- TOP 1.18: Bauvorhaben im Bezirk - beantwortet
+- TOP 1.19: Wiederwahl bzw. Neuwahl von ehrenamtlichen Mitarbeitern und Mitarbeiterinnen in Sozialkommissionen, für Arbeitsgruppen sowie für Sonderaufgaben - gewählt
+- TOP 1.20: Beschluss gemäß § 6 Abs. 3 AGBauGB für den Bebauungsplan XVIII-30a für die Grundstücke Karower Damm 35, Treseburger Straße 28 - 30, Teilflächen der Grundstücke Treseburger Straße 25 - 27 sowie Abschnitte des Karower Damms und der Treseburger Straße im Bezirk Pankow, Ortsteil Blankenburg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.21: Feuerstellen im Mauerpark - überwiesen
+- TOP 1.22: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.23: Untätigkeitsklagen - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: "Gesicht zeigen" auf dem Weißenseer Blumenfest und dem Fest an der Panke - mit Änderungen in der BVV beschlossen
+- TOP 1.25: Schließung des Trödelmarktes am S-Bahnhof Wilhelmsruh - vertagt
+- TOP 1.26: Erhalt des Sozialamtes am Standort Weißensee - vertagt
+- TOP 1.27: Ruhiger Wohnen in der Wollankstraße - vertagt
+- TOP 1.28: Einrichtung eines Fußgängerüberweges Kreuzungsbereich Bahnhofstraße/Hubertusdamm - überwiesen
+- TOP 1.29: Reduzierung von Lärmimmissionen in der Langhansstraße - vertagt
+- TOP 1.30: Veränderung der Schaltzeiten der Lichtzeichenanlage Bucher Chaussee/Achillesstraße in Karow - überwiesen
+- TOP 1.31: Überlassung von bezirkseigenen Räumen an Sportvereine - vertagt
+- TOP 1.32: GA-Fördermittel zur Sanierung der Friedrich-Engels-Straße - vertagt
+- TOP 1.33: Bericht zu unbefestigten Straßen - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Verringerung des verkehrlichen Gefahrenpotentiales im Kurvenbereich Hubertusdamm/Schönerlinder Weg - überwiesen
+- TOP 1.35: Nutzung von Stadtplätzen und Grünanlagen - vertagt
+- TOP 1.36: Verkehrsberuhigung Schönhauser Straße - vertagt
+- TOP 1.37: Märkte in Pankow - mit Änderungen in der BVV beschlossen
+- TOP 1.38: Änderung eines Sanierungsziels für das Sanierungsgebiet Weißensee - Komponistenviertel - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Verkehrsberuhigung um den Solonplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.40: Sozialplanung - ohne Änderungen in der BVV beschlossen
+- TOP 1.41: Teilnahme am europäischen Zertifizierungs- und Auszeichnungsprogramm "European Energy Award" - (offen)
+- TOP 1.42: Zustand von Spielgeräten auf Schulhöfen - vertagt
+- TOP 2: Komplex II - (offen)
+- TOP 2.1: Maßnahmen zur Korruptionsprävention und -bekämpfung - vertagt
+- TOP 2.2: Aufhebung der Julius-Rodenberg-Oberschule, Hanns-Eisler-Str. 78 - 80 in 10409 Berlin - erledigt
+- TOP 2.3: Bebauungsplan IV - 61, Ortsteil Prenzlauer Berg - Titeländerung, Ergebnis der Auswertung der Beteiligung der Träger der öffentlichen Belange, öffentliche Auslegung - erledigt
+- TOP 2.4: Fortsetzung des Agendaprozesses in Pankow - erledigt
+- TOP 2.5: Kooperationsvereinbarung über die Zusammenarbeit zwischen dem Sozialamt Pankow und dem Arbeitsamt Pankow - erledigt
+- TOP 2.6: Benennung der 2. Oberschule (Realschule,1811302) in "Archimedes-Oberschule" - erledigt
+- TOP 2.7: Benennung der 2. Oberschule (Hauptschule, Pankow) in "Hufeland-Oberschule" - erledigt
+- TOP 2.8: Gründung der 2. Sonderschule für Lernbehinderte (2.SL ws-1812102-) Ortsteil Karow, Bedeweg 1 - erledigt
+- TOP 2.9: Umbau der Pistoriusstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Keine Betriebsverlagerung von Spreequell - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Auswertung der öffentlichen Auslegung und Teilung des Bebauungsplanes XVIII-30 für das Gelände zwischen der Laake, dem Karower Damm, den Grundstücken Karower Damm 34, Straße 26 Nm. 6/12, Straße 56 Nm. 1A, 1B, 7, 9, 13, 17, 19, Villacher Straße 27, 28, der Villacher Straße, den Grundstücken Lindenberger Weg 36, 37, Mühlenstraße 43, 47/53, Straße 24 Nr. 3, der Straße 24, den Grundstücken Kirchstraße 28 - 38, Georgenstraße 36, der Georgenstraße, dem Städtischen Friedhof Blankenburg einschließlich Z - vertagt
+- TOP 2.13: Bebauungsplan XIX-34a für das Gelände zwischen der Wiltbergstraße, der westlichen Grenze des Grundstücks Wiltbergstraße 11, der verlängerten Groscurthstraße und der westlichen Grenze des Grundstücks Walter-Friedrich-Straße 12/14 und der verlängertenFranz-Schmidt-Straße in Richtung Bahndamm und der Straße zum P+R Parkplatz sowie einem Abschnitt der Wiltbergstraße im Bezirk Pankow, Ortsteil Buch Bebauungsplan XIX-36 für das Gelände zwischen Wiltbergstraße, der Straße zum P+R Parkplatz bis zum Sü - erledigt
+- TOP 3: Rederecht für Mitglieder der Seniorenvertretung in den BVV-Ausschüssen - in der BVV zurückgezogen
+- TOP 4: Fahrradwege - in der BVV zurückgezogen
+- TOP 5: Altersgerechte Wohnungen - in der BVV zurückgezogen
+- TOP 6: Sozialbericht für den Bezirk - in der BVV zurückgezogen
+- TOP 7: Baustelle Pastor-Niemöller-Platz/Herrmann-Hesse-Straße - in der BVV zurückgezogen
+- TOP 8: Weißenseer Blumenfest - Platzhalter - in der BVV zurückgezogen
