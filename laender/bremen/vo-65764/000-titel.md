@@ -1,0 +1,1 @@
+# Verordnung über die Teilnahmeverpflichtung an ärztlichen Untersuchungen für Schülerinnen und Schüler an Werkschulen, an beruflichen Schulen, an Sekundarschulen und an Förderzentren im Land Bremen vom 18. Juli 1997
