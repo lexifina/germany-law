@@ -1,0 +1,73 @@
+# 14. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2003-04-02T17:30:00+02:00
+- Ende: 2003-04-02T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=491
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=491
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - zur Kenntnis genommen
+- TOP 1.1.1: Sicherheit auf den Straßen für Senioren - in der BVV zurückgezogen
+- TOP 1.2: Abstimmung über die Tagesordnung - in der BVV zurückgezogen
+- TOP 1.3: Dringlichkeitsanträge - in der BVV zurückgezogen
+- TOP 1.3.1: Alternativen zum geplanten Erweiterungsbau Milchhäuschen und Erhalt der ca. 80 Jahre alten Kastanie - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.3.2: Half-Pipe-Anlage auf dem Spielplatz des Neubaugebietes Buch IV - beantwortet
+- TOP 1.4: Mündliche Anfrage - beantwortet
+- TOP 1.5: Bericht des Bezirksamtes - beantwortet
+- TOP 1.6: Konsensliste - beantwortet
+- TOP 1.7: Erhalt der 16. Grundschule "Edgar Ende" in Berlin-Pankow, Ortsteil Prenzlauer Berg - in der BVV abgelehnt
+- TOP 1.8: Elektrosmog in Pankow - vertagt
+- TOP 1.9: Fahrradfahren auf Wegen in Parks und Grünanlagen in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Keine Überlastung des Mauerparks - in der BVV abgelehnt
+- TOP 1.11: Zaun an der Zufahrt zur KGA Lindenhof - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Kein Schleichverkehr in Heinersdorf - Verkehrsberuhigung für ein Wohngebiet - in der BVV abgelehnt
+- TOP 1.13: Einrichtung von Parkmöglichkeiten auf dem Hubertusdamm - in der BVV zurückgezogen
+- TOP 1.14: Keine Erhöhung von Kita-Gebühren - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Modernen und einheitlichen Immobilien-Service einrichten! II (Drs. V - 0283/02) - mit Änderungen in der BVV beschlossen
+- TOP 1.16: Unterlagen zum Sanierungsbedarf der Schulen im Bezirk als Antwort auf die kleine Anfrage 0033/02 - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Statistik der Sozialräume - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: ÖPNV-Anbindung von Pankow zum Alexanderplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Modernisierungsankündigungen der BauBeCon Holding AG im Milieuschutzgebiet "Ostseestraße / Grellstraße" - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Bebauungspläne Antrag - überwiesen
+- TOP 1.21: Ausschuss für Tourismus - überwiesen
+- TOP 1.22: Drei Botschaften für Aldi - überwiesen
+- TOP 1.23: Ratskeller im Rathaus Pankow - beantwortet
+- TOP 1.24: Turnhallenbau Winsstraße - mit Änderungen in der BVV beschlossen
+- TOP 1.25: Französisch Buchholz als Standort des geplanten Golfplatzes - überwiesen
+- TOP 1.26: Pilotprojekt neuer Glascontainer - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Ein Golfplatz in Pankow - überwiesen
+- TOP 1.28: Straßensanierungsprogramm - in der BVV abgelehnt
+- TOP 1.29: Energiesparpartnerschaft zwischen dem Bezirk Pankow und Johnson Control - überwiesen
+- TOP 1.30: Weniger Lärm - mehr Lebensqualität - beantwortet
+- TOP 1.31: Tourismuskonzert - überwiesen
+- TOP 1.32: Schüler - BVV - vertagt
+- TOP 1.33: Ausschreibung des Platzhauses auf dem Helmholtzplatz - zurückgezogen
+- TOP 1.34: Gestaltung von Haushaltsplanentwürfen - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Bauliche Maßnahmen an Schulgebäuden und Sportanlagen - zurückgezogen
+- TOP 1.36: Schlussbericht des Bezirksamtes zur Drucksache Nr. V - 0313/02 (Schwedter Straße Nord) - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Beteiligung der BVV und ihrer Ausschüsse bei der Aufstellung von B-Plänen - überwiesen
+- TOP 1.38: Einheitliches Verfahren bei Nachaufträgen im Bezirksamt durchsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.1: Botanische Anlagen in Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Kleingartenbericht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Verschönerung des Stadtbildes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Kindertagesstätten-Entwicklungsplanung (KEP) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Benennung "Bleichröder Park" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5.1: Bolzplatz an der Marie - kontinuierliche Nutzung während des Turnhallenbaus - vertagt
+- TOP 2.5.2: Suche nach einem gleichwertigen Ersatz für den Ballspielplatz auf der "Marie" - vertagt
+- TOP 2.6: Umweltentlastungsprogramm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Konzeption zur Arbeit des Behindertenbeauftragten - vertagt
+- TOP 2.8: Beabsichtigte Änderung des Flächennutzungsplans, "Ehem. Nordtangente" (Lfd. Nr. 29/95) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Rahmenplanung "Gewerbeflächen Heinersdorf" als Grundlage für die weitere Bearbeitung des Bebauungsplanentwurfs XVIII-39 im Ortsteil Heinersdorf - vertagt
+- TOP 2.10: Anmeldung zur Investitionsplanung 2003 - 2007 des Bezirkes Pankow - vertagt
+- TOP 2.11: Bebauungsplanentwurf XIX-13 für einen Abschnitt der Panke zwischen Ossietzkystraße und Schönholzer Straße (Flurstück 119/Flurkarte 42919, Flurstück 5/Flurkarte 42819, Flurstück 90/Flurkarte 42820), die Grundstücke Majakowskiring 1 und 3, das Geländean der Ossietzkystraße und Elisabethweg (Flurstücke 117, 118 und 128/Flurkarte 42919), das Grundstück Grabbeallee 2/12, einen Abschnitt des Zingergrabens zwischen Grabbeallee und Panke (Flurstücke 278 und 279/Flurkarte 42919, Flurstücke 79, 80 und 20 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Bebauungsplanentwurf XIX-61 für die Grundstücke Brehmestraße 15-22 sowie den Bereich zwischen Brehmestraße, Bahnstraße Gesundbrunnen Richtung Bernau (Stettiner Bahn) und Bahnstraße Gesundbrunnen Richtung Oranienburg (Nordbahn) genannt "Nasses Dreieck" sowie einen Abschnitt der Esplanade zwischen Bahnlinie und Dolomitenstraße im Bezirk Pankow Änderung der Planungsziele bezüglich des Grundstückes Brehmestraße 21-22 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Benennung einer Privatstraße im OT Rosenthal in Rosskastanienhof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Benennung einer Privatstraße in An den Feldtmanngärten - im OT Weißensee - mit Abschlussbericht zur Kenntnis genommen
