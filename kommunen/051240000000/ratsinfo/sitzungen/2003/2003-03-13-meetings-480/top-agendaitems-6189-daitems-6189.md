@@ -1,0 +1,6 @@
+# TOP -: Sportausschuss
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Sportausschusses Die Sitzung fällt aus!!!!! (2003-03-13)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/6189
