@@ -1,0 +1,403 @@
+---
+ecli: "ECLI:DE:BVerfG:2004:rs20040504.1bvr189203"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 1892/03"
+decided: "2004-05-04"
+typ: "B"
+bverfge: "FALSE"
+zitiervorschlag: "BVerfG, Beschluss des Ersten Senats vom 4. Mai 2004\n- 1 BvR 1892/03 -, Rn. 1-37,\n                    https://www.bverfg.de/e/rs20040504_1bvr189203"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2004/05/rs20040504_1bvr189203.html"
+corpus_doc_id: "BVerfG_2004-05-04_S_1_BvR_1892_03_NA_Wiedereinsetzung_110_339.txt"
+cites_law: ["germany/bund/acts/bverfgg/0034a.md", "germany/bund/acts/grundgesetz/artikel/002.md", "germany/bund/acts/grundgesetz/artikel/019.md", "germany/bund/acts/grundgesetz/artikel/020.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/vwgo/0003.md", "germany/bund/acts/vwgo/0005.md", "germany/bund/acts/vwgo/0087a.md", "germany/bund/acts/vwgo/0124a.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 1892/03 vom 2004-05-04: Wiedereinsetzung
+
+## Entscheidung
+
+Leitsatz
+                zum Beschluss des Ersten Senats vom 4. Mai 2004
+                                 - 1 BvR 1892/03 -
+Zu den Anforderungen des Grundsatzes eines fairen Verfahrens bei der Entscheidung über die Wiedereinsetzung in den vorigen Stand in Fällen, in denen die Fristversäumung auf Fehlern des Gerichts beruht.
+
+
+
+
+                                        1/13
+
+BUNDESVERFASSUNGSGERICHT
+- 1 BVR 1892/03 -
+
+
+
+
+                              Im Namen des Volkes
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+der A ... e.G.
+
+- Bevollmächtigte: Rechtsanwälte Ulrich Behr und Koll.,
+                   Englerallee 19, 14195 Berlin -
+gegen den Beschluss des Hessischen Verwaltungsgerichtshofs vom 7. August
+      2003 - 6 UZ 1801/02 -
+
+hat das Bundesverfassungsgericht - Erster Senat - unter Mitwirkung
+                                 des Präsidenten Papier,
+                                 der Richterinnen Jaeger,
+                                 Haas,
+                                 der Richter Hömig,
+                                 Steiner,
+                                 der Richterin Hohmann-Dennhardt
+                                 und der Richter Hoffmann-Riem,
+                                 Bryde
+
+am 4. Mai 2004 beschlossen:
+
+Der Beschluss des Hessischen Verwaltungsgerichtshofs vom 7. August 2003 - 6 UZ
+1801/02 - verletzt die Beschwerdeführerin in ihren Grundrechten aus Artikel 2 Absatz 1 in Verbindung mit Artikel 20 Absatz 3 und aus Artikel 19 Absatz 4 des Grundgesetzes. Er wird aufgehoben. Die Sache wird an den Hessischen Verwaltungsgerichtshof zurückverwiesen.
+Das Land Hessen hat der Beschwerdeführerin die notwendigen Auslagen zu erstatten.
+
+                                     Gründe:
+ Die Beschwerdeführerin wendet sich gegen die Versagung der Wiedereinsetzung in       1
+die Begründungsfrist für einen Berufungszulassungsantrag (§ 124 a Abs. 4 Satz 4
+und 5 VwGO).
+
+
+                                        2/13
+
+  1. Die Beschwerdeführerin, eine Agrargenossenschaft, klagte im verwaltungsgerichtlichen Ausgangsverfahren auf Gewährung einer Beihilfe zum Hanfanbau. Am
+Ende des klageabweisenden Urteils des Verwaltungsgerichts, der Beschwerdeführerin zugestellt am 23. Mai 2002, gab die Rechtsmittelbelehrung die Rechtslage korrekt
+wieder, indem es hieß, ein Antrag auf Zulassung der Berufung und dessen Begründung seien beim Verwaltungsgericht einzureichen.
+
+  Die Beschwerdeführerin reichte zunächst beim Verwaltungsgericht einen nicht begründeten Antrag auf Zulassung der Berufung ein und teilte mit, die Begründung bleibe einem gesonderten Schriftsatz vorbehalten. Mit einem auf richterlicher Anordnung
+beruhenden Schreiben forderte die Geschäftsstelle des Verwaltungsgerichts die Beschwerdeführerin auf, künftige Schriftsätze an den Verwaltungsgerichtshof zu richten; beigefügt war die Abschrift ihres Schreibens an den Verwaltungsgerichtshof, mit
+dem das Verwaltungsgericht den Eingang des Antrages auf Zulassung der Berufung
+anzeigte und die Akten an den Verwaltungsgerichtshof übersandte. Mit einem Schreiben des Vorsitzenden bestätigte der Verwaltungsgerichtshof der Beschwerdeführerin
+den Eingang des Zulassungsantrages. Die Gerichtsakten seien dem Verwaltungsgerichtshof zur Entscheidung vorgelegt worden, und das Verfahren habe beim Verwaltungsgerichtshof eine neue Geschäftsnummer erhalten, die stets anzugeben sei. Der
+Vorsitzende fragte außerdem, ob Einverständnis mit einer Entscheidung durch ihn
+bestehe, und gab folgenden Hinweis:
+
+Sie werden gebeten, Schriftsätze nur dann mittels Telefax einzureichen, wenn dies      4
+durch besondere Umstände ausnahmsweise gerechtfertigt ist (z.B. Fristablauf). Ansonsten sollten Schriftsätze ausschließlich auf dem normalen Postweg übersandt
+bzw. unmittelbar hier abgegeben werden.
+
+  Mit einem per Fax am 23. Juli 2002 unter dem neuen Aktenzeichen an den Verwaltungsgerichtshof übermittelten Schriftsatz begründete die Beschwerdeführerin ihren
+Antrag auf Zulassung der Berufung. Mit Schreiben vom 23. Januar 2003 wies der
+Verwaltungsgerichtshof die Beschwerdeführerin darauf hin, die Begründung hätte
+entsprechend der zwingenden Vorschrift des § 124 a Abs. 4 Satz 5 VwGO beim Verwaltungsgericht eingereicht werden müssen. Darauf weise auch die Rechtsmittelbelehrung ausdrücklich hin. Mit einem am 29. Januar 2003 per Fax an den Verwaltungsgerichtshof übermittelten Schriftsatz beantragte die Beschwerdeführerin wegen
+der versäumten Frist zur Begründung des Antrags auf Zulassung der Berufung die
+Wiedereinsetzung in den vorigen Stand. Nach den Schreiben des Verwaltungsgerichts und des Vorsitzenden des zuständigen Senats des Verwaltungsgerichtshofs
+habe die Beschwerdeführerin davon ausgehen müssen, dass die Begründung beim
+Verwaltungsgerichtshof einzureichen sei. Am 30. Januar 2003 ging die Begründung
+des Antrags auf Zulassung der Berufung beim Verwaltungsgericht ein.
+
+  2. Der Verwaltungsgerichtshof verwarf den Antrag der Beschwerdeführerin auf Zulassung der Berufung als unzulässig. Die Beschwerdeführerin habe die zweimonatige Begründungsfrist versäumt und ihr könne die beantragte Wiedereinsetzung in den
+
+
+
+                                        3/13
+
+vorigen Stand nicht gewährt werden, da sie nicht ohne ihr Verschulden gehindert
+gewesen sei, die Frist einzuhalten. Zwar sei die Übersendung der Gerichtsakten an
+den Verwaltungsgerichtshof verfrüht gewesen und hätten die Schreiben des Verwaltungsgerichts und des Verwaltungsgerichtshofs Zweifel aufkommen lassen können, bei welchem Gericht die Begründung des Zulassungsantrags einzureichen sei.
+Von einem Rechtsanwalt müsse aber verlangt werden, dass er den Vorrang der eindeutigen gesetzlichen Regelung und der damit übereinstimmenden Rechtsmittelbelehrung erkenne. Schließlich hätten die Bevollmächtigten der Beschwerdeführerin
+die Möglichkeit gehabt, die Begründung des Zulassungsantrags vorsorglich bei beiden Gerichten einzureichen oder so rechtzeitig bei einem Gericht, dass dieses den
+Schriftsatz im ordentlichen Geschäftsgang fristwahrend an das zuständige Gericht
+hätte weiterleiten können.
+
+  3. Die Beschwerdeführerin rügt mit ihrer Verfassungsbeschwerde eine Verletzung         7
+ihrer Rechte aus Art. 19 Abs. 4, Art. 20 Abs. 3 und Art. 103 Abs. 1 GG durch die Entscheidung des Verwaltungsgerichtshofs. Es gehöre zu einer rechtsstaatlichen Verfahrensgestaltung, den durch Gerichte irregeführten Rechtsuchenden zumindest dadurch schadlos zu halten, dass ihm Wiedereinsetzung in den vorigen Stand gewährt
+werde.
+
+ 4. Zur Verfassungsbeschwerde haben die Hessische Staatskanzlei sowie die Beklagte des Ausgangsverfahrens Stellung genommen. Sie halten die Verfassungsbeschwerde für unbegründet.
+
+  Die Verfassungsbeschwerde ist begründet. Die angegriffene Entscheidung verletzt        9
+die Beschwerdeführerin in ihrem Recht auf ein faires Verfahren aus Art. 2 Abs. 1 GG
+in Verbindung mit dem Rechtsstaatsprinzip sowie in ihrem Justizgewährungsanspruch aus Art. 19 Abs. 4 GG.
+
+ 1. Das aus Art. 2 Abs. 1 in Verbindung mit Art. 20 Abs. 3 GG als allgemeinem Prozessgrundrecht folgende Recht auf ein faires Verfahren (vgl. BVerfGE 38, 105
+<111>; 57, 250 <274 f.>) hat für ein rechtsstaatliches Gerichtsverfahren grundlegende Bedeutung (vgl. auch Art. 6 EMRK und Art. 47 Abs. 2 der Charta der Grundrechte
+der Europäischen Union). Aus dem Gebot eines fairen Verfahrens folgt unter anderem, dass das Gericht aus eigenen oder ihm zuzurechnenden Fehlern, Unklarheiten
+oder Versäumnissen keine Verfahrensnachteile ableiten darf (vgl. BVerfGE 78, 123
+<126>).
+
+  Der in Art. 19 Abs. 4 GG verankerte Justizgewährungsanspruch gegen Akte der öffentlichen Gewalt überlässt zwar die nähere Ausgestaltung des durch die Vorschrift
+garantierten Rechtsweges der jeweiligen Prozessordnung. Bei der Auslegung und
+Anwendung dieser Prozessordnung dürfen die Gerichte aber den Zugang zu den den
+Rechtsuchenden eingeräumten Instanzen nicht in unzumutbarer Weise erschweren
+(vgl. BVerfGE 44, 302 <305>; 52, 203 <207>; 69, 381 <385>). Insbesondere dürfen
+die Anforderungen daran, was der Betroffene veranlasst haben muss, um Wiedereinsetzung in den vorigen Stand zu erlangen, nicht überspannt werden (vgl. BVerfGE
+
+
+                                         4/13
+
+40, 88 <91>; 67, 208 <212 f.>). Beruht eine Fristversäumung auf Fehlern des Gerichts, sind die Anforderungen an eine Wiedereinsetzung mit besonderer Fairness zu
+handhaben.
+
+ 2. Diese Grundsätze werden durch die angegriffene Entscheidung verletzt. Sowohl        12
+Verwaltungsgericht als auch Verwaltungsgerichtshof haben im Verfahren Fehler begangen. Sie haben der Beschwerdeführerin nicht nur missverständliche, sondern falsche Hinweise gegeben.
+
+  a) Das Verwaltungsgericht forderte die Beschwerdeführerin auf, künftige Schriftsätze an den Verwaltungsgerichtshof zu richten, und übermittelte ihr die Abschrift eines
+Schreibens an den Verwaltungsgerichtshof, mit dem das Verwaltungsgericht den
+Verwaltungsgerichtshof über den Eingang des Antrages auf Zulassung der Berufung
+informierte und die Akten nebst Anlagen und Überstücken an den Verwaltungsgerichtshof übersandte. Alle Unterlagen, die für den Prozess von Bedeutung sein können, waren damit schon beim Berufungsgericht, obwohl erst nach der noch beim Verwaltungsgericht einzureichenden Begründung die Abgabe an die zweite Instanz
+ansteht. Das Schreiben des Verwaltungsgerichts war kein bloßes Versehen der Geschäftsstelle, sondern beruhte auf richterlicher Anordnung. Es war auch nicht mehrdeutig. Als künftiger Schriftsatz kam in diesem Verfahrensstand nur die - bereits angekündigte - Begründung des Antrags auf Zulassung der Berufung in Betracht. Diese
+ist jedoch gemäß § 124 a Abs. 4 Satz 5 VwGO bei dem Verwaltungsgericht und gerade nicht bei dem Verwaltungsgerichtshof einzureichen.
+
+  b) Der Verwaltungsgerichtshof bestätigte der Beschwerdeführerin den Eingang der       14
+Akten und des Zulassungsantrags. Außerdem wurde bei der Beschwerdeführerin angefragt, ob sie mit einer Streitentscheidung durch den Vorsitzenden gemäß § 87 a
+Abs. 2 und 3 VwGO einverstanden sei. Der Hinweis über die Einreichung künftiger
+Schriftsätze enthielt zudem die Worte "unmittelbar hier". Insgesamt lässt sich das
+Schreiben des Verwaltungsgerichtshofs im Berufungszulassungsverfahren, bei dem
+es nach Stellung des Antrags auf Zulassung der Berufung im Wesentlichen nur um
+einen einzigen Schriftsatz, nämlich die Begründung des Antrags auf Zulassung der
+Berufung geht, nicht anders auslegen, als dass das Verfahren nunmehr beim Verwaltungsgerichtshof anhängig ist und alle Schriftsätze dorthin gerichtet werden sollen.
+Auch in diesem Schreiben konnten die Prozessbevollmächtigten der Beschwerdeführerin nicht lediglich ein Versehen der Geschäftsstelle sehen. Das Schreiben ist vom
+Vorsitzenden des zuständigen Senats unterschrieben und enthielt mit der Anfrage
+nach § 87 a VwGO auch Elemente, die eine inhaltliche richterliche Befassung mit
+dem Gegenstand voraussetzen.
+
+  3. Die Einreichung der Begründung zum Berufungszulassungsantrag direkt beim           15
+Verwaltungsgerichtshof durch die Prozessbevollmächtigten der Beschwerdeführerin
+wurde daher unmittelbar durch die unzutreffenden Hinweise beider Gerichte veranlasst.
+
+ Allerdings widerspricht das Vorgehen der Prozessbevollmächtigten dem Wortlaut          16
+
+
+                                         5/13
+
+der Vorschrift des § 124 a Abs. 4 Satz 5 VwGO, die den Prozessbevollmächtigten
+bekannt sein musste. Auch die Rechtsmittelbelehrung verlangte dem Gesetz entsprechend die Einreichung der Begründung beim Verwaltungsgericht. Grundsätzlich
+darf sich ein Prozessbevollmächtigter bei einer klaren Rechtslage nicht auf eine falsche Auskunft des Gerichts verlassen. Im vorliegenden Fall sind die Hinweise gleich
+zweier Gerichte jedoch so eindeutig und in Form eines Schreibens des Senatsvorsitzenden so gewichtig, dass bei den Prozessbevollmächtigten der Beschwerdeführerin
+der Eindruck entstehen musste, sie bräuchten sich nicht nach der Rechtslage und
+der Belehrung zu richten.
+
+  Dass die Prozessbevollmächtigten diesen Hinweisen folgten, lag auch deshalb nahe, weil der Rechtsuchende im Falle des § 124 a Abs. 4 Satz 5 VwGO mit einer zwar
+sprachlich eindeutigen, aber der Sache nach nicht ohne weiteres nachvollziehbaren
+gesetzlichen Regelung konfrontiert ist. Da das Gesetz eine Abhilfemöglichkeit durch
+das Verwaltungsgericht nicht vorsieht und der Rechtsstreit nach verbreiteter Auffassung in Rechtsprechung und Literatur (vgl. die Nachweise bei Roth, NVwZ 2003,
+S. 1189 <1190 Fn. 17>) mit Stellung des Zulassungsantrags beim Verwaltungsgerichtshof anhängig ist, ist es wenig einsichtig, dass die Begründung beim Verwaltungsgericht eingereicht werden muss. Inzwischen hat auch der Gesetzgeber beschlossen, die Regelung zu ändern; er sieht künftig die Einreichung der Begründung
+beim Oberverwaltungsgericht vor (Art. 6 Nr. 2 a des Ersten Gesetzes zur Modernisierung der Justiz <BRDrucks 537/04>). Die Gesetzesmaterialien zur noch geltenden
+Fassung enthalten zu Absatz 4 keine Begründung (BTDrucks 14/6393, S. 13 <zu
+- damals - § 124 b des Entwurfs>). Im Anschluss an die Begründung einer erfolglosen Anregung des Bundesrates, bei zugelassener Berufung die Berufungsbegründung ebenfalls beim Verwaltungsgericht einzureichen (BTDrucks 14/6854, S. 5
+Nr. 13), wird in der Rechtsprechung der Sinn von § 124 a Abs. 4 Satz 5 VwGO darin
+gesehen, die Akten bis zur Fertigstellung der Begründung zur Erleichterung der Akteneinsicht beim - typischerweise für den Rechtsuchenden näheren - Verwaltungsgericht zu belassen (vgl. VGH Baden-Württemberg, NVwZ-RR 2003, S. 156 <157>;
+OVG Nordrhein-Westfalen, NVwZ 2003, S. 1279; vgl. auch BVerfG, 3. Kammer des
+Ersten Senats, Beschluss vom 3. März 2003 - 1 BvR 310/03 -, NVwZ 2003, S. 728
+<729>). Damit ist es schwer zu vereinbaren, wenn die Akten wie im vorliegenden Fall
+formularmäßig schon mit Antragseingang an das Berufungsgericht weiter geleitet
+werden. Jedenfalls musste der Hinweis auf die Aktenweiterleitung die Prozessbevollmächtigten zusätzlich in der Vorstellung bestärken, dass sie von nun an nur noch mit
+dem Verwaltungsgerichtshof zu verkehren haben.
+
+ In dieser Situation durften die Prozessbevollmächtigten der Beschwerdeführerin davon ausgehen, dass die Gerichte sich zu einer pragmatischen Handhabung entschlossen hatten. Unter diesen besonderen Umständen kann ihnen auch ausnahmsweise aus der Nichtbeachtung des Wortlauts von Gesetz und Rechtsmittelbelehrung
+kein Vorwurf gemacht werden. Die schwer nachvollziehbare Gesetzeslage verstärkt
+hier die Fürsorgepflicht der Gerichte. Sie müssen es vermeiden, durch eigenes Ver-
+
+
+
+                                         6/13
+
+halten zusätzliche Verwirrung zu stiften. Das kann nur gelingen, wenn sie die Handhabung der Eingangsbestätigung und Aktenversendung genau an der Rechtslage
+ausrichten, die für die Rechtsmittelführer gilt.
+
+ 4. Die Prozessbevollmächtigten der Beschwerdeführerin haben die gesetzlichen         19
+Voraussetzungen für eine Wiedereinsetzung in den vorigen Stand erfüllt. Sie haben
+rechtzeitig nach der Belehrung über die Fristversäumung die Begründungsschrift
+beim Verwaltungsgericht eingereicht und rechtzeitig die Wiedereinsetzung beantragt.
+
+ Unter diesen Umständen kann die Zurückweisung des Antrags der Beschwerdeführerin auf Wiedereinsetzung in den vorigen Stand keinen Bestand haben.
+
+  5. Die Entscheidung über die Erstattung der notwenigen Auslagen der Beschwerdeführerin folgt aus § 34 a Abs. 2 BVerfGG.
+
+ 6. Die Entscheidung ist mit 7 : 1 Stimmen ergangen.                                  22
+
+               Papier                 Jaeger                 Haas
+
+                                                          Hohmann-Hömig                 Steiner
+                                                          Dennhardt
+
+           Hoffmann-Riem                                    Bryde
+
+
+
+
+                                        7/13
+
+                              Abweichende Meinung
+                                 der Richterin Haas
+                zum Beschluss des Ersten Senats vom 4. Mai 2004
+                                 - 1 BvR 1892/03 -
+
+ Der Beschluss des Verwaltungsgerichtshofs, mit dem der Antrag auf Wiedereinsetzung in die Frist zur Begründung des Zulassungsantrags abgelehnt und der Antrag
+auf Zulassung der Berufung verworfen worden ist, begegnet keinen verfassungsrechtlichen Bedenken.
+
+                                         I.
+  Aus der Rechtsschutzgarantie des Art. 19 Abs. 4 GG ergibt sich, dass die Gerichte     24
+den Zugang zu den in den Verfahrensordnungen eingeräumten Instanzen durch die
+Auslegung und Anwendung des Prozessrechts nicht in unzumutbarer, aus Sachgründen nicht mehr zu rechtfertigender Weise erschweren dürfen (stRspr, vgl. etwa
+BVerfGE 77, 275 <284>). Dies gilt auch für die Entscheidung über die Wiedereinsetzung in den vorigen Stand bei Versäumung einer Rechtsmittelfrist (stRspr, vgl. etwa
+BVerfGE 54, 80 <84>). Keine Überspannung der Voraussetzungen für eine Wiedereinsetzung liegt darin, dass ein der Partei zurechenbares Anwaltsverschulden grundsätzlich in mangelnden Rechtskenntnissen gesehen wird (vgl. BGHZ 8, 47 <54>;
+Greger, in: Zöller, ZPO, 24. Auflage 2004, § 233 Rn. 23 Stichwort "Rechtsirrtum").
+Wird die Begründungsfrist des § 124 a Abs. 4 Satz 4 VwGO versäumt, weil der Prozessbevollmächtigte sie entgegen der zwingenden Formvorschrift des § 124 a Abs. 4
+Satz 5 VwGO in seiner während des Ausgangsverfahrens geltenden Fassung (die
+Vorschrift wird durch Art. 6 Nr. 2 a des Ersten Gesetzes zur Modernisierung der Justiz geändert, BRDrucks 537/04) nicht beim Verwaltungsgericht eingereicht hat, beruht die Fristversäumung daher in der Regel auf einem Verschulden des Anwalts.
+
+  Allerdings folgt aus dem verfassungsrechtlich gewährleisteten Anspruch auf ein faires Verfahren, dass ein Richter aus eigenen oder ihm zuzurechnenden Fehlern oder
+Versäumnissen keine Verfahrensnachteile ableiten darf (vgl. BVerfGE 78, 123
+<126>). Geht es um die Wahrung von Fristen, schließt es der Grundsatz fairer Verfahrensführung aus, die Verantwortung für eine Säumnis auf den Bürger abzuwälzen,
+deren Ursache allein in der Sphäre des Gerichts liegt (vgl. BVerfGE 69, 381
+<386 f.>). Von einer alleinigen Verursachung durch das Gericht kann jedoch dann
+nicht ausgegangen werden, wenn der Bürger
+oder sein Prozessbevollmächtigter mögliche und ihm zumutbare Anstrengungen unterlassen hat, von sich aus zum Wegfall des Hindernisses beizutragen, das der Wahrung der Frist entgegensteht (vgl. Beschluss der 3. Kammer des Zweiten Senats vom
+21. Dezember 1995 – 2 BvR 2033/95, NJW 1996, S. 1811). Die verfassungsrechtliche Gewährleistung fairen Verfahrens hat daher nicht zur Folge, dass ein Rechtsanwalt jede gerichtliche Äußerung ungeprüft befolgen müsste. Gibt eine gerichtliche Äußerung zu Zweifeln Anlass, hat der Rechtsanwalt den Zweifeln nachzugehen, sich
+
+
+                                         8/13
+
+ein eigenes Bild von der Rechtslage zu machen und gegebenenfalls geeignete Maßnahmen zu treffen, um einen Formverstoß zu verhindern. Gerichtliche Auskünfte
+oder Anweisungen, erst recht gerichtliche Bitten oder Anregungen, stehen im Rang
+nicht über dem geltenden Prozessrecht. Sie vermögen zwingendes Recht nicht abzubedingen. Sie suspendieren insbesondere nicht den Anwalt von der ihm als Organ
+der Rechtspflege eigenständig obliegenden Aufgabe, die Rechtslage zu kennen und
+entsprechend zu verfahren.
+
+ Wann bei dieser Rechtslage einen Rechtsanwalt in Rücksicht ganz besonders gelagerter Konstellationen ausnahmsweise kein Verschulden trifft, kann dahinstehen. Ein
+solcher Fall liegt hier jedenfalls nicht vor.
+
+                                         II.
+  Der Verwaltungsgerichtshof ist zu Recht davon ausgegangen, dass die Prozessbevollmächtigten der Beschwerdeführerin aufgrund der Gerichtsschreiben nicht davon
+ausgehen durften, sie könnten die Begründungsschrift bei dem Verwaltungsgerichtshof einreichen, sondern dass bei ihnen durch die Schreiben nur Zweifel an dem richtigen Adressaten der Begründungsschrift ausgelöst werden konnten, welche sie hätten ausräumen müssen.
+
+  1. Das Schreiben des Verwaltungsgerichts – es handelt sich nicht um ein richterliches Schreiben, sondern um das Schreiben einer Urkundsbeamtin, welches mit dem
+Zusatz "auf Anordnung" unterzeichnet ist, ohne dass für den Adressaten deutlich
+wird, um wessen Anordnung es sich handelt – war zwar nicht ganz eindeutig, aber
+konnte von den Prozessbevollmächtigten so verstanden werden, als sollten alle künftigen Schriftsätze an den Verwaltungsgerichtshof gerichtet werden. Denn seinem
+Wortlaut nach bezog sich die in ihm enthaltene Bitte, künftige Schriftsätze beim Verwaltungsgerichtshof einzureichen, auch auf die Begründung des Zulassungsantrags,
+obwohl dieser nach § 124 a Abs. 4 Satz 5 VwGO beim Verwaltungsgericht einzureichen ist.
+
+  Die Prozessbevollmächtigten der Beschwerdeführerin konnten aus diesem Schreiben gleichwohl nicht hinreichend sicher schließen, dass sie die Begründungsschrift
+entgegen § 124 a Abs. 4 Satz 5 VwGO beim Verwaltungsgerichtshof einreichen durften. Dies folgt vor allem daraus, dass die Prozessbevollmächtigten wissen mussten,
+dass es sich bei § 124 a Abs. 4 Satz 5 VwGO um eine zwingende Vorschrift handelt,
+also kein Raum für eine hiervon abweichende Aufforderung durch das Verwaltungsgericht war. Im Hinblick darauf, dass es sich bei dem Schreiben vom 26. Juni 2002
+ersichtlich um einen Vordruck handelte, lag auch zur Erklärung der Gedanke nahe,
+dass die auf einem Textbaustein basierende Formulierung an den seit 1. Januar
+2002 geltenden § 124 a Abs. 4 Satz 5 VwGO noch nicht angepasst war bzw. die Urkundsbeamtin das falsche Formular gewählt hatte.
+
+ Die Bitte, künftige Schriftsätze beim Verwaltungsgerichtshof einzureichen, erhielt     30
+auch nicht deshalb ein größeres Gewicht, weil es sich um eine richterliche Auskunft
+
+
+                                         9/13
+
+oder Bitte gehandelt hätte. Daraus, dass das Schreiben "auf Anordnung" erging,
+konnten die Prozessbevollmächtigten nicht schließen, dass das Schreiben auf einer
+richterlichen Anordnung beruhte. Denn die Unterzeichnung "auf Anordnung" lässt
+- wie die Prozessbevollmächtigten als im Umgang mit Gerichten Kundige wissen
+mussten und auch wussten, wie ihre Einlassung belegt, die nicht von einem richterlichen, sondern einem gerichtlichen Schreiben spricht - grundsätzlich keinen Schluss
+über die Person des Anordnenden zu (vgl. den Runderlass des Hessischen Ministeriums der Justiz vom 20. März 1997 über die Vollziehung von Schriftstücken, JMBl
+S. 393 unter Nr. III 1). Schließlich mussten die Prozessbevollmächtigten berücksichtigen, dass über die Zulässigkeit des Antrags auf Zulassung der Berufung nicht das
+Verwaltungsgericht, sondern der Verwaltungsgerichtshof entscheidet. Dem Schreiben der Urkundsbeamtin konnten jedoch keine Anhaltspunkte dafür entnommen werden, dass der Verwaltungsgerichtshof bei seiner Entscheidung über die Zulässigkeit
+des Berufungszulassungsantrags von den Voraussetzungen des § 124 a Abs. 4 Satz
+5 VwGO abweichen würde.
+
+  2. Die Eingangsbestätigung des Verwaltungsgerichtshofs konnte für sich genommen bei den Prozessbevollmächtigten noch nicht einmal Zweifel über die Verbindlichkeit des § 124 a Abs. 4 Satz 5 VwGO auslösen. Anders als die Senatsmehrheit
+wohl meint, verhält das Schreiben des Verwaltungsgerichtshofs sich nicht zu der Frage, ob anwaltliche Schriftsätze im Zulassungsverfahren beim Verwaltungsgerichtshof oder beim Verwaltungsgericht einzureichen sind. Dies gilt insbesondere für die
+Passage, in der darum gebeten wird, auf die Versendung von Schriftsätzen per Telefax möglichst zu verzichten. Sie lautet: "Sie werden gebeten, Schriftsätze nur dann
+mittels Telefax einzureichen, wenn dies durch besondere Umstände ausnahmsweise
+gerechtfertigt ist (z.B. Fristablauf). Ansonsten sollten Schriftsätze ausschließlich auf
+dem normalen Postweg übersandt bzw. unmittelbar hier abgegeben werden." Dieser
+Hinweis befasst sich nicht damit, ob Schriftsätze beim Verwaltungsgerichtshof oder
+beim Verwaltungsgericht eingereicht werden sollen oder können. Er betrifft nach seinem klaren Wortlaut nur die Frage, auf welche Weise (wie) Schriftsätze beim Verwaltungsgerichtshof eingereicht werden sollen. Ohne Bedeutung ist dabei auch, dass
+der Hinweis unter anderem die Worte "unmittelbar hier" enthält. Aus dem Kontext dieser Passage ergibt sich eindeutig, dass "unmittelbar hier abgegeben" als Alternative
+zu "auf dem normalen Postweg übersandt" gemeint ist, sich also nur auf die Art und
+Weise der Übermittlung bezieht.
+
+  Auch unter Berücksichtigung der konkreten Verfahrenssituation konnte der Hinweis         32
+über die Form der Schriftsatzeinreichung nicht als Anweisung verstanden werden,
+die Begründung des Zulassungsantrags beim Verwaltungsgerichtshof einzureichen.
+Dies wäre angesichts der klaren, von den Prozessbevollmächtigten auch erkannten
+Zielrichtung des Hinweises (Begrenzung der Telefaxnutzung) selbst dann nicht zweifelhaft, wenn er sich nur auf die Begründung des Antrags beziehen könnte, weil andere Schriftsätze nicht denkbar wären, wovon offensichtlich die Senatsmehrheit ausgeht. Tatsächlich kommt jedoch eine Vielzahl von Schriftsätzen in Betracht, die im
+
+
+
+                                          10/13
+
+Rahmen des Zulassungsverfahrens an den Verwaltungsgerichtshof gerichtet werden
+dürfen. Dabei handelt es sich etwa um Anfragen zur Verfahrensdauer und zur Geschäftsverteilung, um Stellungnahmen zum Streitwert, um die Replik auf die Erwiderung des Rechtsmittelgegners oder auch die Zurücknahme des Zulassungsantrags
+(weitere Beispiele zu § 124 a VwGO a.F. etwa bei Seibert, in: Sodan/Ziekow, VwGO,
+§ 124 a, Stand Juli 2000, Rn. 52, 108, 117, 217, 220, 223). Auf diese Schriftsätze
+bezieht sich der Hinweis des Verwaltungsgerichtshofs über die Art und Weise der
+Einreichung.
+
+  Aus der inhaltlichen Gesamtschau des Schreibens des Verwaltungsgerichtshofs ergibt sich für das Verständnis vom Sinn des Hinweises - den übrigens auch die Prozessbevollmächtigten in der vorstehend dargelegten Weise verstanden haben -
+nichts anderes. Insbesondere ist insoweit ohne Bedeutung für das Verständnis des
+Hinweises auf die Zahl der einzureichenden Kopien, dass in der Eingangsbestätigung danach gefragt wird, ob Einverständnis mit einer Entscheidung durch den Vorsitzenden besteht. Diese Anfrage, die keinen Bezug zum Einreichungsmodus hat, erfolgte ersichtlich routinemäßig, da zu diesem Zeitpunkt noch gar nicht die
+Begründung des Zulassungsantrags vorlag. Deshalb kann aus dieser Anfrage – entgegen der Auffassung der Senatsmehrheit - auch nicht auf eine nähere inhaltliche
+Befassung des Vorsitzenden mit dem Zulassungsverfahren geschlossen werden.
+
+  Die Eingangsbestätigung des Verwaltungsgerichtshofs war daher auch nicht geeignet, den durch das Schreiben der Urkundsbeamtin des Verwaltungsgerichts vermittelten Eindruck in dem Sinn zu verstärken, dass die Prozessbevollmächtigten sicher
+davon ausgehen konnten, sie sollten entgegen § 124 a Abs. 4 Satz 5 VwGO die Begründungsschrift beim Verwaltungsgerichtshof einreichen. Nur bei sehr oberflächlicher Lektüre konnte der Umstand, dass die Eingangsbestätigung sich auch mit der
+Form der Einreichung von Schriftsätzen befasst, als – wie die Prozessbevollmächtigten der Beschwerdeführerin in ihrem Wiedereinsetzungsantrag vorgetragen haben -
+"Ergänzung" der verwaltungsgerichtlichen Verfügung verstanden werden.
+
+  3. Auch die in dem Schreiben des Verwaltungsgerichtshofs enthaltene Bestätigung        35
+des Akteneingangs konnte bei den Prozessbevollmächtigten nicht die zweifelsfreie
+Überzeugung hervorrufen, der Senat erwarte von ihnen nunmehr die Einreichung der
+Begründungsschrift beim Verwaltungsgerichtshof. In ihrem Wiedereinsetzungsantrag
+haben die Prozessbevollmächtigten insoweit zunächst nur vorgetragen, sie seien davon ausgegangen, das Verwaltungsgericht könne nach Abgabe der Akten weitere in
+der Sache eingehende Schriftsätze gar nicht mehr zuordnen. Für diesen praxisfernen
+Schluss bestanden jedoch keinerlei Anhaltspunkte. Vielmehr mussten die Prozessbevollmächtigten wissen, dass Gerichte bei Abgabe des Verfahrens stets ein Retent
+führen. Im Rahmen der weiteren Begründung des Wiedereinsetzungsantrags haben
+die Prozessbevollmächtigten dann ausgeführt, sie hätten den Hinweis auf die möglichste Vermeidung von Telefaxen so verstanden, dass unnötiger Verwaltungsaufwand vermieden werden sollte. Als unnötigen Verwaltungsaufwand hätten sie es
+aber betrachtet, einen Schriftsatz an ein Gericht zu schicken, bei dem keinerlei Akten
+
+
+                                         11/13
+
+mehr vorhanden seien, so dass dieser Schriftsatz unmittelbar an das für die Entscheidung zuständige Gericht weitergeleitet werden müsste. Verfassungsrechtlich
+unbedenklich hat der Verwaltungsgerichtshof diese Folgerung der Prozessbevollmächtigten als sie nicht verschuldensentlastend angesehen. Noch nachvollziehbar
+ist zwar der Schluss der Prozessbevollmächtigten von dem konkreten Anliegen des
+Verwaltungsgerichtshofs, den Eingang von Telefaxen zu begrenzen, auf die abstrakte Maßgabe, unnötigen Verwaltungsaufwand zu vermeiden. Jedoch findet die weitere
+Schlussfolgerung, dass der Verwaltungsgerichtshof mit dieser allgemeinen Zielsetzung auch die Einreichung der Begründungsschrift beim Verwaltungsgerichtshof vorgegeben habe, in der Eingangsbestätigung keinerlei Grundlage. Insbesondere konnten die Prozessbevollmächtigten nicht annehmen, dass der Verwaltungsgerichtshof
+von ihnen nicht nur ein effizientes und prozessordnungsgemäßes Verhalten (Vermeidung unnötiger Telefaxe), sondern auch ein prozessordnungswidriges Verhalten, die
+Abweichung von § 124 a Abs. 4 Satz 5 VwGO, erwartete.
+
+ 4. Der Verwaltungsgerichtshof hat bei der Beurteilung des Verschuldens der Prozessbevollmächtigten am Maßstab des fairen Verfahrens wie auch des Art. 19 Abs. 4
+GG zu Recht unberücksichtigt gelassen, welchen Regelungszweck die Vorschrift des
+§ 124 a Abs. 4 Satz 5 VwGO verfolgt. Für die Frage des Verschuldens kommt es nur
+auf solche subjektiven Umstände an, die von den Prozessbevollmächtigten selbst
+geltend gemacht werden. Die Prozessbevollmächtigten haben sich in ihrem Wiedereinsetzungsantrag aber nicht darauf berufen, dass sie Sinn und Zweck des § 124 a
+Abs. 4 Satz 5 VwGO nicht erkannt hätten und daher davon ausgegangen seien, die
+Gerichte hätten sich zu einer pragmatischen Vorgehensweise entschlossen.
+
+  5. Der Verwaltungsgerichtshof ist bei der Ablehnung des Wiedereinsetzungsantrags      37
+daher in verfassungskonformer Weise von einem Verschulden der Prozessbevollmächtigten ausgegangen. Das Verschulden liegt darin, dass die Prozessbevollmächtigten ihren Angaben zufolge gar nicht auf die Idee gekommen sind, sich über die vermeintlichen Vorgaben des Verwaltungsgerichts und des Verwaltungsgerichtshofs
+hinwegzusetzen oder diese auch nur anzuzweifeln. Angesichts des Wortlauts des
+Schreibens der Urkundsbeamtin und der entgegenstehenden, eindeutigen Rechtslage mussten sich einem Prozessbevollmächtigten vielmehr erhebliche Zweifel daran
+aufdrängen, die Begründungsschrift fristwahrend auch beim Verwaltungsgerichtshof
+einreichen zu können. Demgemäß wären die Prozessbevollmächtigten gehalten gewesen, alles zu tun, um eine Klärung herbeizuführen oder jedenfalls so zu verfahren,
+dass die Gefahr einer Fristversäumung gebannt war. Dass sie das nicht getan haben
+- darin liegt, wie der Verwaltungsgerichtshof verfassungsrechtlich unbedenklich erkannt hat, ihr Verschulden.
+
+                                       Haas
+
+
+
+
+                                        12/13
+
+Bundesverfassungsgericht, Beschluss des Ersten Senats vom 4. Mai 2004 -
+1 BvR 1892/03
+
+Zitiervorschlag BVerfG, Beschluss des Ersten Senats vom 4. Mai 2004 - 1 BvR 1892/03
+                - Rn. (1 - 37), http://www.bverfg.de/e/rs20040504_1bvr189203.html
+
+ECLI            ECLI:DE:BVerfG:2004:rs20040504.1bvr189203
+
+
+
+
+                                     13/13
