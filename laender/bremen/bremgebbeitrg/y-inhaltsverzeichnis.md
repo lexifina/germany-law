@@ -27,6 +27,7 @@ Inhaltsübersicht
 § 21 | Sicherung von Beitragsforderungen
 4. Abschnitt Vorschriften über Kosten und Beiträge
 § 22 | Entscheidung über Kosten und Beiträge
+§ 22a | Beleihung
 § 23 | Säumnis
 § 23a | Zinsen bei Aussetzung der Vollziehung
 § 24 | Stundung
