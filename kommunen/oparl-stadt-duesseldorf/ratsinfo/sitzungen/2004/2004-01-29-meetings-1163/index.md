@@ -1,0 +1,57 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-01-29T15:00:00+01:00
+- Ende: 2004-01-29T17:45:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1163
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1163
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111461.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111461.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111461.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 04.12.2003 - einstimmig beschlossen
+- TOP 3: BPlan 5775/35 sw Königsberger Frühz Bürgerbet - einstimmig beschlossen
+- TOP 4: Plan Nr. 5876/11 - 1. Verlängerung Veränderungs. - einstimmig beschlossen
+- TOP 5: Grünweg Karlsruher Straße und Schlosspark Eller - einstimmig beschlossen
+- TOP 6: Zuschuss an den Reit- und Ponyclub Düsseldorf - einstimmig beschlossen
+- TOP 7: Kulturbahnhof Eller - einstimmig beschlossen
+- TOP 8: Baumpflanzungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 9: Trödelmärkte auf dem Schützenplatz Gubener Straße - einstimmig beschlossen
+- TOP 10: Jahrmärkte in Eller auf dem Gertrudisplatz - einstimmig beschlossen
+- TOP 11: Taubenturm - zur Kenntnis genommen
+- TOP 12: B-Plan nördlich Höherweg - zur Kenntnis genommen
+- TOP 13: Förderung der Sportvereine im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 14: Jugendfreizeitstätte Kuthsweg - zur Kenntnis genommen
+- TOP 15: Verkehrliche Engstellen / Ausbau Ronsdorfer Straße - zur Kenntnis genommen
+- TOP 16: Bebauungspläne - zur Kenntnis genommen
+- TOP 17: Schule Richardstraße - zur Kenntnis genommen
+- TOP 18: Straßenbenennung - zur Kenntnis genommen
+- TOP 19: Haltestelle Bernburger Straße - einstimmig beschlossen
+- TOP 20: Reichenbacher Weg - einstimmig beschlossen
+- TOP 21: Parkplatzsituation Vennhauser Allee - einstimmig beschlossen
+- TOP 22: Haltverbot Gubener Staße - einstimmig beschlossen
+- TOP 23: Straßenreinigungsgebühren - einstimmig beschlossen
+- TOP 24: Widmung von Straßen - zur Kenntnis genommen
+- TOP 25: Mobilfunkantennen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 26: Reinigung von Verbindungswegen durch die AWISTA - zur Kenntnis genommen
+- TOP 27: Bushaltestelle Am Ellerforst - zur Kenntnis genommen
+- TOP 28: Heidelberger Straße / Schlossallee - zur Kenntnis genommen
+- TOP 29: Parkplatz Gumbertstraße - zur Kenntnis genommen
+- TOP 30: Verkehrssituation Werstener Feld / Karlsruher Str. - zur Kenntnis genommen
+- TOP 31: Spielplatz Gather Weg - Aufstellen einer Laterne - zur Kenntnis genommen
+- TOP 32: Altglassammlung Gertrudisplatz - zur Kenntnis genommen
+- TOP 33: Breidenplatz - behindertengerechter Aufgang - zur Kenntnis genommen
+- TOP 34: Breidenplatz in Unterbach - zur Kenntnis genommen
+- TOP 35: Treppenaufgang Breidenplatz - zur Kenntnis genommen
+- TOP 36: Bürgerberatung durch die Stadtwerke AG - zur Kenntnis genommen
+- TOP 37: Entwicklung der Grundwasserstände in Düsseldorf - zur Kenntnis genommen
+- TOP 38: Veantwortung der Stadt bei hoh.Grundwasserständen - zur Kenntnis genommen
+- TOP 39: Grünflächen Königsberger Straße - zur Kenntnis genommen
+- TOP 40: Schrottplatz Am Kleinforst - zur Kenntnis genommen
