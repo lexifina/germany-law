@@ -1,0 +1,8 @@
+# TOP 4.1.: Schaffung einer Personalstelle mit dem Schwerpunkt Seniorenarbeit im Fachbereich III
+
+- Sitzung: SozA (2002-11-07)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/10761
+- Ergebnis: Zur Kenntnis genommen
+- Beratung: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/4035
