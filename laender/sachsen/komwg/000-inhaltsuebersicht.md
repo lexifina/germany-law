@@ -52,8 +52,7 @@ Dritter Abschnitt Bürgermeisterwahlen
 § 41 Wahlvorschläge
 § 42 Stimmzettel
 § 43 Stimmenzahl, Stimmabgabe
-§ 44 Ungültige Stimmen
-§ 45 Wahlprüfung
+§ 44 Wahlprüfung
 § 46 Amtsantritt
 § 47 Neuwahl
 Zweiter Teil Kreiswahlen
@@ -68,7 +67,7 @@ Erster Abschnitt Kreistagswahlen
 § 55 Wahlkosten
 Zweiter Abschnitt Landratswahlen
 § 56
-Dritter Teil Gleichzeitige Durchführung mehrerer Wahlen
+Dritter Teil Gleichzeitige Durchführung Mehrerer Wahlen
 § 57
 Vierter Teil Sonstige Vorschriften
 § 58 Sonderbestimmungen zu den ersten Wahlen nach diesem Gesetz
@@ -79,4 +78,4 @@ Vierter Teil Sonstige Vorschriften
 § 63 Verwaltungsvorschriften
 § 64 Änderung der Gemeindeordnung für den Freistaat Sachsen
 § 65 Maßgebende Einwohnerzahl
-§ 66 6Inkrafttreten
+§ 66 Inkrafttreten
