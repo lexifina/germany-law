@@ -1,0 +1,738 @@
+---
+ecli: "ECLI:DE:BVerfG:2003:rs20031105.2bvr124303"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 1243/03"
+decided: "2003-11-05"
+typ: "B"
+bverfge: "FALSE"
+zitiervorschlag: "BVerfG, Beschluss des Zweiten Senats vom 5. November 2003\n- 2 BvR 1243/03 -, Rn. 1-84,\n                    https://www.bverfg.de/e/rs20031105_2bvr124303"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2003/11/rs20031105_2bvr124303.html"
+corpus_doc_id: "BVerfG_2003-11-05_S_2_BvR_1243_03_NA_Auslieferung-Lockvogel-Völkerrecht-1_109_13.txt"
+cites_law: ["germany/bund/acts/bverfgg/0014.md", "germany/bund/acts/grundgesetz/artikel/001.md", "germany/bund/acts/grundgesetz/artikel/002.md", "germany/bund/acts/grundgesetz/artikel/019.md", "germany/bund/acts/grundgesetz/artikel/025.md", "germany/bund/acts/grundgesetz/artikel/027.md", "germany/bund/acts/grundgesetz/artikel/036.md", "germany/bund/acts/grundgesetz/artikel/100.md", "germany/bund/acts/grundgesetz/artikel/101.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/irg/0003.md", "germany/bund/acts/irg/0010.md", "germany/bund/acts/irg/0065.md", "germany/bund/acts/stgb/0129a.md", "germany/bund/acts/stgb/0129b.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 1243/03 vom 2003-11-05: Auslieferung-Lockvogel-Völkerrecht-1
+
+## Entscheidung
+
+Leitsatz
+         zu den Beschlüssen des Zweiten Senats vom 5. November 2003
+                                - 2 BvR 1243/03 -
+                                - 2 BvR 1506/03 -
+Es besteht keine allgemeine Regel des Völkerrechts, wonach niemand in den ersuchenden Staat ausgeliefert werden darf, der aus seinem Heimatstaat mit List, aber
+ohne Beeinträchtigung seiner Entscheidungsfreiheit in den ersuchten Staat gelockt
+worden ist.
+
+
+
+
+                                       1/21
+
+BUNDESVERFASSUNGSGERICHT
+- 2 BVR 1243/03 -
+
+
+
+
+                              Im Namen des Volkes
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+des jemenitischen Staatsangehörigen Z...
+
+- Bevollmächtigte: Rechtsanwälte Ewald Herzog und Koll.,
+                   Paul-Ehrlich-Straße 37-39, 60596 Frankfurt am Main –
+gegen den Beschluss des Oberlandesgerichts Frankfurt am Main vom 18. Juli
+      2003 – 2 Ausl. A 5/03 –
+
+und    Antrag auf Erlass einer einstweiligen Anordnung
+
+hat das Bundesverfassungsgericht - Zweiter Senat - unter Mitwirkung der Richterinnen und Richter
+                                 Vizepräsident Hassemer,
+                                 Jentsch,
+                                 Broß,
+                                 Osterloh,
+                                 Di Fabio,
+                                 Mellinghoff,
+                                 Lübbe-Wolff,
+                                 Gerhardt
+
+am 5.November 2003 beschlossen:
+
+Die Verfassungsbeschwerde wird zurückgewiesen.
+Damit erledigt sich der Antrag auf Erlass einer einstweiligen Anordnung.
+
+                                     Gründe:
+
+                                         A.
+ Der Beschwerdeführer wendet sich mit seiner Verfassungsbeschwerde gegen den          1
+Beschluss des Oberlandesgerichts Frankfurt am Main, mit dem seine Auslieferung in
+die Vereinigten Staaten von Amerika zum Zwecke der Strafverfolgung für zulässig erklärt wurde.
+
+
+                                        2/21
+
+                                         I.
+ 1. Der Beschwerdeführer ist nach eigenen Angaben Sekretär des A., des Beraters         2
+des jemenitischen Ministers für religiöse Stiftungen im Range eines Staatssekretärs
+und Imams der Al-Ihsan-Moschee in Sanaa/Jemen.
+
+  Er wurde am 10. Januar 2003 zusammen mit A. in Frankfurt am Main festgenommen. Der Festnahme liegt der Haftbefehl des Bundesgerichts der Vereinigten Staaten für den östlichen Bezirk New Yorks vom 9. Januar 2003 zu Grunde. Die U.S.-
+amerikanischen Strafverfolgungsbehörden werfen dem Beschwerdeführer vor, sich
+zwischen Januar 2002 und Januar 2003 mit A. verschworen und die Akquirierung von
+Spenden insbesondere für Al-Qaida und Hamas zugesagt zu haben. Ihm wird damit
+die Unterstützung terroristischer Vereinigungen vorgeworfen (Title 18 United State
+Code § 2332 B).
+
+  Die Reise des Beschwerdeführers nach Deutschland ist maßgeblich durch Gespräche veranlasst worden, die ein jemenitischer Staatsangehöriger in verdecktem Auftrag der U.S.-amerikanischen Ermittlungs- und Strafverfolgungsbehörden mit A. im
+Jemen geführt hat. Dieser V-Mann überzeugte A., dass er diesen im Ausland mit einer weiteren Person zusammenbringen könne, die zu einer größeren Geldspende
+bereit sei. Dabei ist umstritten, für welche Zwecke das Geld gespendet werden sollte.
+Nach den Aussagen des Beschwerdeführers in seiner verantwortlichen Vernehmung
+durch die deutschen Ermittlungsbehörden beruhte die Entscheidung zur Reise nach
+Deutschland auf einem freien Willensentschluss des A. Der Beschwerdeführer folgte
+in seiner Funktion als Sekretär des A. diesen Reiseplänen.
+
+  2. Der Beschwerdeführer wurde auf der Grundlage des Beschlusses des Oberlandesgerichts Frankfurt am Main vom 14. Januar 2003 in vorläufige Auslieferungshaft
+genommen. Am 21. Januar 2003 übermittelte die Botschaft der Vereinigten Staaten
+der Bundesregierung ein Ersuchen zur Auslieferung des Beschwerdeführers zum
+Zwecke der Strafverfolgung. Dem Auslieferungsersuchen liegt der Auslieferungsvertrag zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von
+Amerika vom 20. Juni 1978 (BGBl 1980 II S. 646, 1300) in Verbindung mit dem Zusatzvertrag vom 21. Oktober 1986 (BGBl 1988 II S. 1086; 1993 II S. 846) zu Grunde.
+Dem Ersuchen waren der Haftbefehl vom 9. Januar 2003 und die schriftliche eidesstattliche Erklärung der stellvertretenden U.S.-amerikanischen Bundesanwältin für
+den östlichen Justizbezirk New Yorks vom 17. Januar 2003 beigefügt, in der diese
+den Stand der Ermittlungen in den Vereinigten Staaten darlegte.
+
+ 3. Auf Antrag der Staatsanwaltschaft ordnete das Oberlandesgericht mit Beschluss       6
+vom 10. März 2003 an, dass die vorläufige Auslieferungshaft als förmliche fortdauere.
+Zuvor hatten die U.S.-amerikanischen Behörden ihren Auslieferungsantrag vor dem
+Hintergrund einer Entscheidung des Oberlandesgerichts gemäß § 30 Abs. 1 des Gesetzes über die internationale Rechtshilfe in Strafsachen – IRG vom 23. Dezember
+1982 (BGBl I S. 2071), zuletzt geändert durch Gesetz vom 21. Juni 2002 (BGBl I
+S. 2144) in dem Parallelverfahren gegen A. durch die Einreichung weiterer Ausliefe-
+
+
+                                         3/21
+
+rungsunterlagen beim Oberlandesgericht ergänzt. Darunter befand sich auch die eidesstattliche Erklärung eines Ermittlungsbeamten der U.S.-amerikanischen Bundespolizei FBI, in der dargelegt wird, welche konkreten Handlungen dem Beschwerdeführer strafrechtlich zur Last gelegt werden. Bei sinngemäßer Umstellung dieses
+Sachverhalts sei das Verhalten des Beschwerdeführers, so das Oberlandesgericht
+in seinem Beschluss vom 10. März 2003, als vollendete Unterstützung von terroristischen Organisationen nach § 129a Abs. 3, Abs. 1, § 129, § 129b StGB strafbar.
+
+ 4. In mehreren diplomatischen Noten, die letzte vom 27. März 2003, legte die Botschaft der Republik Jemen gegenüber dem Auswärtigen Amt ihre Auffassung dar,
+dass der Beschwerdeführer unter Umgehung des in der jemenitischen Verfassung
+enthaltenen Verbots der Auslieferung für eigene Staatsangehörige völkerrechtswidrig
+aus dem Jemen nach Deutschland entführt worden sei. Die Bundesregierung wurde
+aufgefordert, den Beschwerdeführer in den Jemen zurückzuführen.
+
+   5. Die Botschaft der Vereinigten Staaten sicherte mit Verbalnote vom 22. Mai 2003      8
+zu, dass der Beschwerdeführer nicht vor einem Militärgericht entsprechend dem Erlass des U.S.-amerikanischen Präsidenten vom 13. November 2001 (Presidential Military Order, U.S. Federal Register vom 16. November 2001, Vol. 66 Nr. 222, S.
+57831 ff.) oder einem anderen Ausnahmegericht strafrechtlich verfolgt werde. Die
+Zusicherung erfolgte unter Wahrung der Rechtsauffassung der Vereinigten Staaten,
+dass es sich nach Ansicht der Vereinigten Staaten bei den in dem Erlass vorgesehenen Militärtribunalen (military commissions) nicht um außerordentliche Gerichte im
+Sinne von Art. 13 des deutsch-U.S.-amerikanischen Auslieferungsvertrages handele.
+
+  6. a) Im weiteren Verlauf des Auslieferungsverfahrens beantragte der Beschwerdeführer in mehreren Schriftsätzen, die zu einem weiteren Rechtshilfeverfahren bei der
+Staatsanwaltschaft geführten Akten beizuziehen, die seine Observation während des
+Aufenthalts in Frankfurt am Main beträfen. In diesem Rechtshilfeverfahren ging es
+um unterstützende Ermittlungsmaßnahmen deutscher Behörden, die im Zusammenhang mit der Festnahme des Beschwerdeführers und des A. in einem Hotelzimmer
+am Frankfurter Flughafen standen. Diese Anträge wies das Oberlandesgericht durch
+Beschluss vom 8. Mai 2003 zurück. Eine Prüfung der Unterlagen sei nicht erforderlich, weil im Auslieferungsverkehr mit den Vereinigten Staaten auf deutscher Seite eine Prüfung des Schuldverdachts nicht stattfinde.
+
+ b) Gegen diesen Beschluss des Oberlandesgerichts erhob der Beschwerdeführer             10
+eine Gegenvorstellung. Darin trug er im Wesentlichen verschiedene Argumente zur
+Frage der Tatverdachtsprüfung vor. Mit weiterem Schriftsatz beantragte der Beschwerdeführer, die Auslieferung für unzulässig zu erklären. Dabei bezog er sich auf
+einen Schriftsatz des Bevollmächtigten in dem parallelen Auslieferungsverfahren gegen A.
+
+ Er sei zum Zwecke der Umgehung des jemenitischen Auslieferungsrechts in völkerrechtswidriger Weise nach Deutschland entführt worden. Die Erkenntnisse gegen ihn
+
+
+                                         4/21
+
+dürften nicht verwertet werden, weil sie in völkerrechtswidriger Weise erlangt worden
+seien. Des Weiteren verstoße eine Auslieferung in die Vereinigten Staaten gegen die
+vom Völkerrecht geforderten rechtsstaatlichen Mindeststandards. Entgegen Art. 14
+Abs. 3 Buchstabe a des deutsch-U.S.-amerikanischen Auslieferungsvertrages sei
+vom Oberlandesgericht keine Prüfung des Tatverdachts vorgenommen worden. Die
+fehlende Tatverdachtsprüfung verstoße zusätzlich gegen § 10 Abs. 2 IRG. Er dürfe
+ferner nicht ausgeliefert werden, weil die ihm vorgeworfenen Taten nicht - wie von
+den einschlägigen deutschen Strafvorschriften vorausgesetzt - im räumlichen Geltungsbereich des Strafgesetzbuches begangen worden seien. Außerdem mangelte
+es den Auslieferungsunterlagen an der hinreichenden Darlegung einer nach Zeit, Ort
+sowie Art und Weise spezifizierten Straftat. Schließlich fehle es an der gemäß § 129b
+Abs. 1 Satz 3 StGB erforderlichen Verfolgungsermächtigung.
+
+ c) Mit Beschluss vom 18. Juli 2003 erklärte das Oberlandesgericht die Auslieferung     12
+des Beschwerdeführers für zulässig und ordnete die Fortdauer der Auslieferungshaft
+an. Die dem Beschwerdeführer in dem U.S.-amerikanischen Haftbefehl vom 9. Januar 2003 in Verbindung mit den eidesstattlichen Erklärungen der Ermittlungsbeamten
+zur Last gelegten Taten seien nach dem Recht beider Staaten strafbar und auslieferungsfähig. Gründe, die der Auslieferung entgegenstehen könnten, lägen nicht vor.
+
+  Das von der Republik Jemen mit diplomatischer Note gegenüber der Bundesregierung geltend gemachte Rückführungsverlangen berühre die Zulässigkeit der Auslieferung nicht. Denn etwaige völkerrechtliche Wiedergutmachungsansprüche bestünden ausschließlich zwischen den beteiligten Staaten. Selbst wenn in dem Einsatz
+eines jemenitischen Staatsangehörigen im Jemen als verdeckter Ermittler der Vereinigten Staaten eine völkerrechtswidrige Verletzung der Souveränität des Jemen zu
+sehen sei, stünde dies einer Strafverfolgung des Beschwerdeführers nicht entgegen.
+Es bestehe keine allgemeine Regel des Völkerrechts, die dem Gerichtsstaat geböte,
+ein Strafverfahren einzustellen, wenn eine Person unter Verletzung der Gebietshoheit eines fremden Staates durch Einsatz eines Lockspitzels mit List zur Tatbegehung und zur Einreise in den Gerichtsstaat veranlasst worden sei. Eine solche Regel
+setze eine entsprechende Staatenpraxis voraus. In der Staatenpraxis ließen sich jedoch unterschiedliche Auffassungen über die Rechtsfolgen einer völkerrechtswidrigen Entführung unter Einsatz von Gewalt nachweisen. Diese Einschätzung werde
+von der völkerrechtlichen Literatur bestätigt.
+
+  Durch den Einsatz verdeckter Ermittler sei weder gegen das Rechtsstaatsprinzip        14
+noch gegen Art. 1 Abs. 1 GG verstoßen worden. Der Einsatz solcher Ermittlungsmethoden sei zur Verfolgung besonders gefährlicher und schwer aufklärbarer Straftaten
+erforderlich und geboten. Ein Verfahrenshindernis könne nur in extrem gelagerten
+Ausnahmefällen angenommen werden, wenn sich ergebe, dass bei Berücksichtigung
+aller Umstände rechtsstaatlich unverzichtbare Erfordernisse nicht mehr gewahrt worden seien. Ein solcher Ausnahmefall liege nicht vor.
+
+ Auch eine Prüfung des Tatverdachts sei auf deutscher Seite nicht veranlasst. Im        15
+
+
+
+                                         5/21
+
+Auslieferungsverkehr mit den Vereinigten Staaten finde eine Nachprüfung des Verdachts grundsätzlich nicht statt. Besondere Umstände, die eine solche Prüfung gemäß § 10 Abs. 2 IRG erforderlich machten, lägen nicht vor. Das betreffe auch die
+von dem Beschwerdeführer gerügte Souveränitätsverletzung der Vereinigten Staaten gegenüber der Republik Jemen. Die Zeugenaussage des verdeckten Ermittlers
+sei nach dem Recht beider Staaten kein illegales Beweismittel.
+
+  Die Voraussetzung der beiderseitigen Strafbarkeit sei ebenfalls erfüllt, weil es bei   16
+der nach § 3 IRG notwendigen sinngemäßen Umstellung des von den U.S.-
+amerikanischen Behörden mitgeteilten Sachverhalts gerechtfertigt sei, die Aktivitäten
+des Beschwerdeführers nach deutschem Recht als Unterstützung der terroristischen
+Organisationen Hamas und Al-Qaida gemäß § 129a Abs. 1 StGB einzuordnen. Für
+die Prüfung des § 3 IRG sei der Sachverhalt so zu behandeln, als sei die Tat in dem
+ersuchten Staat geschehen. Danach wäre in Deutschland eine Strafbarkeit nach
+§ 129, § 129a, § 129b StGB gegeben. Für das Auslieferungsverfahren sei unbeachtlich, dass § 129b StGB erst im August 2002 in Kraft getreten sei. Denn maßgeblicher
+Zeitpunkt für die zu prüfende Strafbarkeit nach deutschem Recht sei der Eingang des
+Auslieferungsersuchens in Deutschland oder die Entscheidung darüber. Das Rückwirkungsverbot nach Art. 103 Abs. 2 GG stehe dem nicht entgegen, weil dieses nur
+für das materielle Strafrecht gelte. Die Strafbarkeit nach U.S.-amerikanischem Recht
+ergebe sich aus Hauptabschnitt 18 des United States Code, § 2339 B.
+
+ 7. a) Mit Schriftsatz vom 24. Juli 2003 erhob der Beschwerdeführer eine Gegenvorstellung. Der Beschluss vom 18. Juli 2003 beruhe in Bezug auf die Bewertung der
+"völkerrechtswidrigen Entführung" auf einer mangelnden Auseinandersetzung mit
+der Literatur und der Staatenpraxis. Ferner hätten die eidesstattlichen Erklärungen
+nicht als "in sich schlüssig und widerspruchsfrei" gewertet werden dürfen. Schließlich
+sei das Ermittlungsergebnis, auf das seine Strafbarkeit gestützt werde, den eidlichen
+Erklärungen nicht zu entnehmen.
+
+ Der Beschwerdeführer lehnte ferner die Mitglieder des erkennenden Strafsenats           18
+wegen Besorgnis der Befangenheit ab. Er begründete den Antrag damit, dass in den
+Gründen des Beschlusses vom 18. Juli 2003 von dem Tatvorwurf der "Akquirierung
+von Spenden" die Rede sei, der sich nicht in den Auslieferungsunterlagen finde und
+bei dem es sich um eine Neuschöpfung des Senats handele.
+
+ b) Mit Beschluss vom 31. Juli 2003 verwarf das Oberlandesgericht das Ablehnungsgesuch als unzulässig und wies die Gegenvorstellung zurück. Für die Ablehnung von
+Richtern, die an einer mit der Gegenvorstellung angegriffenen Entscheidung mitgewirkt hätten, sei kein Raum. Die Ablehnung wegen Besorgnis der Befangenheit komme nur für das gesetzlich geregelte Verfahren in Betracht, solange die zu fällende
+Entscheidung noch nicht ergangen sei. Bei einer Gegenvorstellung handele es sich
+hingegen um einen außerordentlichen Rechtsbehelf, der für den Verfahrensfortgang
+ohne unmittelbaren Einfluss sei. Im Hinblick auf die Gegenvorstellung habe sich der
+Senat mit den Folgen eines Lockspitzeleinsatzes auseinandergesetzt. Schließlich
+
+
+
+                                         6/21
+
+handele es sich bei der Formulierung "Akquirierung von Spenden" um die verkürzte
+Umschreibung der im Beschluss vom 10. März 2003 beschriebenen Aktivitäten des
+Beschwerdeführers, wie sie sich aus dem mitgeteilten Sachverhalt ergäben; ein neuer Tatvorwurf sei damit nicht erhoben worden.
+
+                                         II.
+ Mit der Verfassungsbeschwerde rügt der Beschwerdeführer eine Verletzung von            20
+Art. 101 Abs. 1 Satz 2 in Verbindung mit Art. 100 Abs. 2, Art. 2 Abs. 2 in Verbindung
+mit Art. 25, Art. 2 Abs. 1, Art. 2 Abs. 1 in Verbindung mit Art. 1 Abs. 1 und Art. 19
+Abs. 4, Art. 103 Abs. 1 und 2 GG sowie seines Rechts auf ein faires Verfahren.
+
+  1. Der verfassungsrechtliche Anspruch auf den gesetzlichen Richter gemäß              21
+Art. 101 Abs. 1 Satz 2 GG sei verletzt, weil das Oberlandesgericht dem Bundesverfassungsgericht auf der Grundlage von Art. 100 Abs. 2 GG nicht die Frage vorgelegt
+habe, ob eine allgemeine Regel des Völkerrechts Bestandteil des Bundesrechts sei,
+wonach niemand ausgeliefert werden dürfe, der aus seinem Heimatstaat zwecks
+Umgehung des dortigen Auslieferungsverbotes in den ersuchten Staat entführt worden sei. Anlass zur Vorlage dieser Frage habe insbesondere deshalb bestanden,
+weil das Schweizerische Bundesgericht durch Urteil vom 15. Juli 1982 das Vorhandensein einer solchen Regel bejaht habe. Eine solche Entführung begründe kein
+Strafverfolgungs-, sondern ein Auslieferungshindernis.
+
+  Das Recht aus Art. 101 Abs. 1 Satz 2 in Verbindung mit Art. 100 Abs. 2 GG sei ferner verletzt, weil das Oberlandesgericht dem Bundesverfassungsgericht auch die
+Frage nicht vorgelegt habe, ob eine allgemeine Regel des Völkerrechts Bestandteil
+des Bundesrechts sei, wonach niemand wegen Tatvorwürfen des ersuchenden Staates ausgeliefert werden dürfe, wenn sich diese Tatvorwürfe auf angebliche Erkenntnisse stützten, die durch eine völkerrechtswidrige, souveränitätsverletzende Agententätigkeit des ersuchenden Staates im Heimatstaat des Beschwerdeführers
+gewonnen worden seien.
+
+  Schließlich habe das Oberlandesgericht dem Bundesverfassungsgericht auch nicht        23
+die Frage vorgelegt, ob eine allgemeine Regel des Völkerrechts Bestandteil des Bundesrechts sei, wonach es zu den rechtsstaatlichen Mindestgarantien eines Verfahrens gehöre, dass eine zeitlich unbefristete Sicherungsverwahrung ausgeschlossen
+sei, obgleich die U.S.-amerikanische Zusicherung einen solchen Ausschluss nicht
+gewährleiste und der Erlass des Präsidenten vom 13. November 2001 eine unbefristete Internierung für des Terrorismus verdächtige ausländische Staatsangehörige vor
+der Durchführung eines Verfahrens vor einem Militärtribunal vorsehe.
+
+ 2. Da die vorgenannten Völkerrechtsregeln bestünden und das Oberlandesgericht          24
+die auf unzulässige Weise gewonnenen Erkenntnisse zur Grundlage seiner Entscheidung gemacht habe, sei der Beschwerdeführer in seinem Recht auf Freiheit vor gesetzlosem Zwang und auf körperliche Unversehrtheit gemäß Art. 2 Abs. 2 in Verbindung mit Art. 25 GG verletzt.
+
+
+                                         7/21
+
+ 3. Das Recht auf Freiheit vor gesetzlosem Zwang sei durch die Weigerung des           25
+Oberlandesgerichts verletzt, nach § 10 Abs. 2 IRG eine Tatverdachtsprüfung durchzuführen, obgleich Anhaltspunkte für ein rechtsmissbräuchliches Auslieferungsersuchen bestünden.
+
+ 4. In seinem Grundrecht auf ein faires Verfahren sei der Beschwerdeführer verletzt,   26
+weil das Oberlandesgericht im Auslieferungsersuchen enthaltene Tatvorwürfe berücksichtigt habe, die sich auf angebliche Observationsergebnisse stützten, welche
+auf der Grundlage eines gesonderten Rechtshilfeersuchens in Deutschland gewonnen worden seien, ohne dass das Gericht vorab die entsprechenden Zulässigkeitsvoraussetzungen geprüft habe.
+
+ 5. Eine Verletzung seines Grundrechts aus Art. 2 Abs. 1 in Verbindung mit Art. 1      27
+Abs. 1 GG und Art. 19 Abs. 4 GG sei gegeben, weil das Oberlandesgericht seiner
+verfassungsrechtlichen Pflicht zur Sachverhaltsaufklärung in Bezug auf die Frage
+nicht nachgekommen sei, ob er bei einer eventuellen Auslieferung in die Vereinigten
+Staaten rechtsstaatswidrigen Verhörmethoden ausgesetzt sein werde.
+
+  6. Das grundrechtsgleiche Recht auf Einhaltung des Rückwirkungsverbots sei verletzt, weil die Vorwürfe im Auslieferungsverfahren sich auf Taten bezögen, die zum
+Zeitpunkt der Tatbegehung nach deutschem Recht nicht strafbar gewesen seien.
+Schließlich behauptet der Beschwerdeführer eine Verletzung seines Anspruchs auf
+rechtliches Gehör gemäß Art. 103 Abs. 1 GG.
+
+                                        B.
+ Die zulässige Verfassungsbeschwerde ist unbegründet.                                  29
+
+                                         I.
+ Die Rüge des Beschwerdeführers, in seinem grundrechtsgleichen Recht aus               30
+Art. 101 Abs. 1 Satz 2 GG verletzt zu sein, weil das Oberlandesgericht entgegen
+Art. 100 Abs. 2 GG nicht die Entscheidung des Bundesverfassungsgerichts über das
+Bestehen oder Nichtbestehen einer allgemeinen Regel des Völkerrechts eingeholt
+habe, führt im Ergebnis nicht zu einer Aufhebung der angegriffenen Entscheidung, da
+diese nicht auf einem Verstoß gegen Art. 101 Abs. 1 Satz 2 in Verbindung mit
+Art. 100 Abs. 2 GG beruhen.
+
+  Zwar hat das Oberlandesgericht entgegen Art. 100 Abs. 2 GG objektiv bestehende       31
+Zweifel hinsichtlich Existenz und Inhalt einer allgemeinen Regel des Völkerrechts
+dem Bundesverfassungsgericht nicht zur Klärung vorgelegt (1.), obwohl die Klärung
+dieser Zweifel entscheidungserheblich war (2.). Das Bundesverfassungsgericht wäre
+jedoch in einem völkerrechtlichen Verifikationsverfahren nach Art. 100 Abs. 2 GG zu
+dem Ergebnis gelangt, dass in einem ersuchten Staat bei der im Streitfall gegebenen
+Sachverhaltskonstellation kein Auslieferungshindernis besteht, wenn der Verfolgte
+zur Umgehung eines innerstaatlichen Auslieferungsverbots für eigene Staatsangehörige aus seinem Heimatstaat unter Anwendung von List durch den ersuchenden
+
+
+                                        8/21
+
+Staat herausgelockt wurde (3.); daher beruht die angegriffene Entscheidung nicht auf
+einer Verletzung der Vorlagepflicht.
+
+  1. Im Rechtsstreit des Auslieferungsverfahrens war zweifelhaft, ob eine Regel des    32
+Völkerrechts Bestandteil des Bundesrechts ist. Es bestanden Zweifel hinsichtlich der
+Frage, welche Folgen es für ein Auslieferungsverfahren im ersuchten Staat hat, wenn
+der ersuchende Staat möglicherweise völkerrechtswidrig den Angehörigen einer dritten Staatsgewalt in den ersuchten Staat gelockt hat. Das Oberlandesgericht hat solche Zweifel thematisiert und selbst entschieden, anstatt eine Entscheidung des Bundesverfassungsgerichts einzuholen.
+
+  a) Der Betroffene kann seinem gesetzlichen Richter grundsätzlich auch durch das      33
+Unterlassen einer Vorlage nach Art. 100 Abs. 2 GG entzogen werden. Nach Art. 100
+Abs. 2 GG hat ein Fachgericht die Entscheidung des Bundesverfassungsgerichts
+einzuholen, wenn in einem Rechtsstreit objektiv zweifelhaft ist, ob eine allgemeine
+Regel des Völkerrechts Bestandteil des Bundesrechts ist (vgl. BVerfGE 46, 342
+<362 f.>). Eine Nichtvorlage verletzt das Recht auf den gesetzlichen Richter gemäß
+Art. 101 Abs. 1 Satz 2 GG, sofern eine Vorlage gemäß Art. 100 Abs. 2 GG geboten
+gewesen wäre (vgl. BVerfGE 18, 441 <447 f.>; 64, 1 <12 f.>; Beschluss der 4. Kammer des Zweiten Senats des Bundesverfassungsgerichts vom 12. Dezember 2000
+- 2 BvR 1290/99 -, NJW 2001, S. 1848).
+
+  Dies setzt voraus, dass die völkerrechtliche Regel entscheidungserheblich ist und    34
+dass das Fachgericht auf ernstzunehmende Zweifel stößt, ob und mit welchem Inhalt
+sie gemäß Art. 25 Satz 1 GG Bestandteil des Bundesrechts ist, mag das Fachgericht
+selbst auch keine Zweifel haben (vgl. BVerfGE 15, 25 <30>; 23, 288 <316 ff.>; 96, 68
+<77>; stRspr). Nicht das erkennende Gericht, sondern nur das Bundesverfassungsgericht hat die Befugnis, vorhandene Zweifel aufzuklären. Ernstzunehmende Zweifel
+bestehen dann, wenn das Gericht mit seiner Entscheidung von der Meinung eines
+Verfassungsorgans, von den Entscheidungen hoher deutscher, ausländischer oder
+internationaler Gerichte oder von den Lehren anerkannter Autoren der Völkerrechtswissenschaft abweichen würde (vgl. BVerfGE 23, 288 <319>; 96, 68 <77>).
+
+  b) Nach ständiger Rechtsprechung verletzt ein Gericht Art. 101 Abs. 1 Satz 2 GG      35
+nicht schon bei jeder irrtümlichen Überschreitung der ihm vom Gesetz gezogenen
+Grenzen. Die Grenze zur Verfassungswidrigkeit ist erst überschritten, wenn die fehlerhafte Auslegung und Anwendung einfachen Rechts schlechthin unvertretbar ist,
+die Handhabung dieses Rechts deshalb außerhalb der Gesetzlichkeit steht (vgl.
+BVerfGE 87, 282 <284 f.>; 96, 68 <77>).
+
+  Dieser Grundsatz gilt zwar prinzipiell auch für die Vorlagepflicht nach Art. 100     36
+Abs. 2 GG. Liegen jedoch hinsichtlich des Bestehens oder der Tragweite einer allgemeinen Regel des Völkerrechts objektiv ernstzunehmende Zweifel vor, so verstößt
+das Fachgericht, das zur Klärung der Frage nicht dem Bundesverfassungsgericht
+vorlegt, regelmäßig gegen das grundrechtsgleiche Recht auf den gesetzlichen Richter. Es ist der primäre Zweck des Verifikationsverfahrens, Verletzungen des Völker-
+
+
+                                        9/21
+
+rechts, die in der fehlerhaften Anwendung oder Nichtbeachtung völkerrechtlicher
+Normen durch deutsche Gerichte liegen und eine völkerrechtliche Verantwortlichkeit
+Deutschlands begründen können, nach Möglichkeit zu verhindern und zu beseitigen
+(vgl. BVerfGE 58, 1 <34>; 59, 63 <89>). Darüber hinaus soll das Verfahren auch
+die staatenübergreifende Einheitlichkeit und Verlässlichkeit der Völkerrechtsregeln
+sichern (vgl. BVerfGE 96, 68 <77 f.>); es ist insofern ein Element der Völkerrechtsoffenheit des Grundgesetzes. Das Bundesverfassungsgericht stellt sich damit mittelbar
+in den Dienst der Durchsetzung des Völkerrechts und vermindert dadurch das Risiko
+der Nichtbefolgung internationalen Rechts. Deshalb hat das Fachgericht in diesem
+Verfahren keinen Vertretbarkeitsspielraum bei der Würdigung objektiv ernstzunehmender Zweifel. Für lediglich rechtsirrtümliche Verstöße gegen die Vorlagepflicht, die
+nicht Art. 101 Abs. 1 Satz 2 GG verletzen, bleibt hiernach nur ein gering bemessener
+Raum (vgl. BVerfGE 64, 1 <21>).
+
+  c) Gegenstand des Zweifels sind die völkerrechtliche Bewertung der Umstände, unter denen der Beschwerdeführer nach Deutschland gelangt ist, sowie deren mögliche
+Rechtsfolgen für das Auslieferungsverfahren.
+
+  aa) Das Oberlandesgericht legt in den Gründen seines Beschlusses vom 18. Juli          38
+2003 dar, dass selbst dann, wenn eine völkerrechtswidrige Verletzung der Souveränität des Jemen durch den Einsatz eines jemenitischen Staatsangehörigen auf Anweisung des U.S.-amerikanischen Bundeskriminalamtes (FBI) im Jemen vorliegen
+sollte, dieser Umstand einer Strafverfolgung und Auslieferung wegen der dem Verfolgten zur Last gelegten Taten nicht entgegenstünde. Es bestehe keine allgemeine
+Regel des Völkerrechts, die es dem Gerichtsstaat geböte, ein Strafverfahren einzustellen, wenn eine Person unter Verletzung der Gebietshoheit eines fremden Staates
+durch den Einsatz eines so genannten Lockspitzels mit List zur Tatbegehung und zur
+Einreise in den Gerichtsstaat veranlasst worden sei. Entsprechendes gelte daher
+auch für das Auslieferungsverfahren.
+
+  Die Voraussetzungen für die Entstehung einer allgemeinen Regel des Völkerrechts        39
+lägen nicht vor. Denn selbst bei einer völkerrechtswidrigen Entführung unter Anwendung von Gewalt, die einen stärkeren Eingriff in die Gebietshoheit des Aufenthaltsstaates darstelle als das Herauslocken mit List, bestünden sowohl in der Staatenpraxis als auch in der völkerrechtlichen Literatur unterschiedliche Auffassungen, ob bei
+einem Protest des verletzten Staates die völkerrechtswidrige Ergreifung ein Strafverfahren im Gerichtsstaat aus Gründen des Völkerrechts hindere. Das Gericht hat sich
+sodann mit der vom Beschwerdeführer angeführten Rechtsprechung, insbesondere
+des Schweizerischen Bundesgerichts, auseinandergesetzt und ist zu der Auffassung
+gelangt, dass eine entsprechende allgemeine Regel des Völkerrechts nicht bestehe.
+
+ bb) Das Oberlandesgericht war nicht befugt, die Zweifel an den nach Völkergewohnheitsrecht gegebenen Folgen eines "völkerrechtswidrigen Herauslockens"
+selbst auszuräumen. Dabei ist insbesondere zu berücksichtigen, dass die einschlägige Staatenpraxis und die Lehrmeinungen, die das Oberlandesgericht berücksichtigt
+
+
+
+                                         10/21
+
+hat, sich ganz überwiegend auf Situationen beziehen, in denen lediglich zwei Staaten
+beteiligt sind. In dem vorliegenden Fall bestehen jedoch Rechtsbeziehungen zwischen der Republik Jemen als Heimatstaat des Beschwerdeführers, den Vereinigten
+Staaten von Amerika als ersuchendem Gerichtsstaat und der Bundesrepublik
+Deutschland als ersuchtem Aufenthaltsstaat. Dementsprechend beziehen sich die
+geltend gemachten Rechtsfolgen der behaupteten Völkerrechtsverletzung nicht unmittelbar auf ein Strafverfahren im Gerichtsstaat (vgl. Beschluss der 3. Kammer des
+Zweiten Senats des Bundesverfassungsgerichts vom 3. Juni 1986 - 2 BvR 837/85 -,
+NJW 1986, S. 3021; Beschluss der 3. Kammer des Zweiten Senats des Bundesverfassungsgerichts vom 19. Oktober 1994 - 2 BvR 435/87 -, NStZ 1995, S. 95), sondern auf ein Auslieferungsverfahren im ersuchten Aufenthaltsstaat.
+
+ 2. Eine Vorlagepflicht nach Art. 100 Abs. 2 GG besteht nur, wenn die Zweifel entscheidungserheblich sind. Diese Voraussetzung ist ebenfalls erfüllt.
+
+ Sollte die Auslieferung des Beschwerdeführers auf Grund der Umstände, die zu seiner Festnahme in Deutschland geführt haben, gegen eine allgemeine Regel des Völkerrechts verstoßen, dann geböte Art. 25 GG die Einhaltung des Völkergewohnheitsrechts mit der Folge, dass Deutschland den Beschwerdeführer aus dem
+Bundesgebiet ausreisen lassen müsste, soweit nicht eine Strafverfolgung durch deutsche Behörden wegen eines möglichen Verstoßes gegen deutsche Strafbestimmungen in Betracht käme.
+
+  Nach Art. 25 GG sind bei der Gestaltung der innerstaatlichen Rechtsordnung durch     43
+den Normgeber und bei der Auslegung und Anwendung von Vorschriften des innerstaatlichen Rechts durch Verwaltung und Gerichte die allgemeinen Regeln des Völkerrechts zu beachten (vgl. BVerfGE 23, 288 <300>; 31, 145 <177>; Beschluss des
+Bundesverfassungsgerichts <Vorprüfungsausschuss> vom 11. Oktober 1985 – 2
+BvR 336/85 -, EuGRZ 1985, S. 654 – Pakelli). Hieraus folgt insbesondere, dass die
+Behörden und Gerichte der Bundesrepublik Deutschland durch Art. 25 GG grundsätzlich daran gehindert sind, innerstaatliches Recht in einer Weise auszulegen und
+anzuwenden, die die allgemeinen Regeln des Völkerrechts verletzt. Sie sind auch
+verpflichtet, alles zu unterlassen, was einer unter Verstoß gegen allgemeine Regeln
+des Völkerrechts vorgenommenen Handlung nichtdeutscher Hoheitsträger im Geltungsbereich des Grundgesetzes Wirksamkeit verschafft, und gehindert, an einer gegen die allgemeinen Regeln des Völkerrechts verstoßenden Handlung nichtdeutscher Hoheitsträger bestimmend mitzuwirken (vgl. BVerfGE 75, 1 <18 f.>).
+
+ So könnte sich, wenn das Tätigwerden des jemenitischen V-Mannes im Auftrag der        44
+U.S.-amerikanischen Ermittlungsbehörden als völkerrechtswidrig einzuordnen wäre,
+hieraus möglicherweise ein Auslieferungshindernis auf deutscher Seite ergeben. Die
+Gebietshoheit eines Staates, die Ausdruck seiner Souveränität ist, verbietet grundsätzlich das hoheitliche Tätigwerden anderer Staaten oder Träger hoheitlicher Gewalt auf dem Territorium des betroffenen Staates. Dabei kann das Handeln von Privatpersonen einem Staat zugerechnet werden, wenn etwa die Handlung von diesem
+
+
+
+                                        11/21
+
+gesteuert wird.
+
+  Ein deliktisches Handeln der Vereinigten Staaten würde deren völkerrechtliche Verantwortung gegenüber dem Jemen begründen. In einem solchen Fall bestünde die
+Gefahr, dass Deutschland durch die Auslieferung des Beschwerdeführers den möglicherweise völkerrechtswidrigen Akt der Vereinigten Staaten unterstützt und dadurch
+selbst gegenüber dem Jemen völkerrechtlich verantwortlich würde. Dass eine solche
+Staatenverantwortlichkeit unter bestimmten Voraussetzungen durch die Unterstützung der völkerrechtswidrigen Handlung Dritter begründet werden kann, zeigt Art. 16
+des Entwurfs der International Law Commission (ILC) über eine Konvention zur Staatenverantwortlichkeit, in der das Völkergewohnheitsrecht in diesem Bereich kodifiziert ist (vgl. dazu Crawford, The International Law Commission's Articles on State
+Responsibility, 2002, Art. 16, S. 148 ff.).
+
+  3. Die angegriffene Entscheidung beruht jedoch nicht auf dem Verstoß gegen               46
+Art. 101 Abs. 1 Satz 2 in Verbindung mit Art. 100 Abs. 2 GG. Denn das Bundesverfassungsgericht wäre in einem Verifikationsverfahren zu dem Ergebnis gelangt, dass
+eine allgemeine Regel des Völkerrechts, wonach niemand ausgeliefert werden dürfe,
+der aus seinem Heimatstaat zwecks Umgehung des dortigen Auslieferungsverbotes
+mit List in den ersuchten Staat gelockt worden ist, jedenfalls für Fälle wie dem vorliegenden nicht besteht.
+
+ Da der erkennende Senat des Bundesverfassungsgerichts selbst der gesetzliche              47
+Richter ist, dem der Beschwerdeführer entzogen wurde – er wäre nach Art. 100
+Abs. 2 GG, § 13 Nr. 12, § 14 Abs. 2 BVerfGG zuständig gewesen –, kann festgestellt
+werden, dass die angegriffene Entscheidung nicht anders hätte ausfallen dürfen,
+wenn Art. 101 Abs. 1 Satz 2 GG beachtet worden wäre (vgl. BVerfGE 64, 1 <21 f.>;
+96, 68 <86>).
+
+ a) Bei den allgemeinen Regeln des Völkerrechts handelt es sich in erster Linie um         48
+universell geltendes Völkergewohnheitsrecht, ergänzt durch anerkannte allgemeine
+Rechtsgrundsätze (vgl. BVerfGE 15, 25 <32 ff.>; 16, 27 <33>; 23, 288 <317>). Völkergewohnheitsrecht ist der Brauch, hinter dem die Überzeugung rechtlicher Verpflichtung steht ("usage generally accepted as expressing principles of law, so die
+Formulierung des Ständigen Internationalen Gerichtshofs, PCIJ Series A 10 <1927>,
+18 – Lotus-Fall; ausführlich zur Bildung von Völkergewohnheitsrecht Dahm/Delbrück/
+Wolfrum, Völkerrecht, Bd. I/1, 2. Aufl., 1989, S. 56 ff. m.w.N.). Seine Entstehung ist
+demnach an zwei Voraussetzungen geknüpft: erstens an das zeitlich andauernde
+und möglichst einheitliche Verhalten unter weit gestreuter und repräsentativer Beteiligung von Staaten und anderen, rechtssetzungsbefugten Völkerrechtssubjekten;
+zweitens an die hinter dieser Übung stehende Auffassung, "im Rahmen des völkerrechtlich Gebotenen und Erlaubten oder Notwendigen zu handeln" (opinio iuris sive
+necessitatis, vgl. BVerfGE 66, 39 <64 f.>; 96, 68 <86 f.>).
+
+ Das Bundesverfassungsgericht ermittelt die Existenz und Tragweite allgemeiner             49
+Regeln im Sinne des Art. 25 GG, indem es die einschlägige Staatenpraxis heranzieht
+
+
+                                          12/21
+
+(vgl. BVerfGE 94, 315 <332>). Zu diesem Zweck stellt das Gericht auf das Verhalten
+der für den völkerrechtlichen Verkehr nach internationalem oder nationalem Recht
+zuständigen Staatsorgane ab; das werden in der Regel die Regierung oder das
+Staatsoberhaupt sein. Die Staatenpraxis kann sich daneben aber auch aus den Akten anderer Staatsorgane wie solchen des Gesetzgebers oder der Gerichte ergeben,
+soweit ihr Verhalten unmittelbar völkerrechtlich erheblich ist (vgl. BVerfGE 46, 342
+<362 ff.> und LS 6).
+
+  Auch wenn im Grundsatz weiter gilt, dass richterliche Entscheidungen, wie auch          50
+völkerrechtliche Lehrmeinungen, nur als Hilfsmittel für die Ermittlung von Völkergewohnheitsrecht heranzuziehen sind (vgl. BVerfGE 96, 68 <87>; siehe auch Art. 38
+Abs. 1 Buchstabe d des Statuts des Internationalen Gerichtshofs), ist bei der Ermittlung der Staatenpraxis den neueren Rechtsentwicklungen auf internationaler Ebene
+Rechnung zu tragen, die durch fortschreitende Differenzierung und eine Zunahme
+der anerkannten Völkerrechtssubjekte gekennzeichnet sind. Deshalb verdienen die
+Handlungen von Organen internationaler Organisationen und vor allem internationaler Gerichte besondere Aufmerksamkeit.
+
+ b) Die Untersuchung der Staatenpraxis zeigt, dass die vom Beschwerdeführer behauptete allgemeine Regel des Völkerrechts nicht besteht. Die Rechtsprechung der
+Gerichte zu der Frage, ob das Herauslocken eines Verfolgten aus seinem Heimatstaat zu einem Auslieferungshindernis in dem ersuchten Aufenthaltsstaat wird, ist uneinheitlich. Die überwiegende Zahl der Entscheidungen sieht in den der Verhaftung
+vorausgehenden Umständen sogar kein Strafverfolgungshindernis im Gerichtsstaat.
+
+  aa) Keiner Entscheidung bedarf in diesem Zusammenhang, ob sich aus dem Völkergewohnheitsrecht ein nationales Strafverfahrens- oder Auslieferungshindernis ergibt, wenn der Verfolgte unter Anwendung von Gewalt aus seinem Heimatstaat in
+den Gerichtsstaat oder den ersuchten Staat verbracht wurde. Zwar deutet die neuere
+Staatenpraxis insbesondere infolge der Auseinandersetzung mit der Entscheidung
+des U.S. Supreme Court in dem Fall Alvarez-Machain (United States Reports, Vol.
+504 <1991/92>, 655 ff.) darauf hin, dass der Grundsatz male captus, bene detentus
+jedenfalls dann abgelehnt wird, wenn sich der Gerichtsstaat des Verfolgten unter
+schweren Menschenrechtsverletzungen bemächtigte und der in seiner Gebietshoheit
+verletzte Staat gegen ein solches Vorgehen protestiert hat (vgl. International Criminal
+Tribunal for the Former Yugoslavia, Prosecutor v. Dragan Nikolic, Entscheidung vom
+5. Juni 2003 – IT-94-2-AR73 -, Appeals Chamber, Ziff. 24 ff. unter Hinweis auf die
+Entscheidung des U.S. Federal Court of Appeals, United States v. Toscanino, 500
+Federal Reporter, Second Series, 267 <1974>); siehe auch Wilske, Die völkerrechtswidrige Entführung und ihre Rechtsfolgen, 2000, S. 272 ff., 336 m.w.N.).
+
+ Der vorliegende Sachverhalt unterscheidet sich jedoch in wichtigen Einzelheiten          53
+von diesen Fallkonstellationen. Denn die Entscheidung des Beschwerdeführers, den
+Jemen zu verlassen, beruhte auf seinem freien Willensentschluss. Er selbst hat ausgesagt, dass A. auf Grund der für Jemeniten günstigen Visumsregelungen in
+
+
+
+                                         13/21
+
+Deutschland und der guten Verkehrsanbindung Frankfurt am Main als Ort für ein
+Treffen vorgeschlagen hat, das der Akquisition von Spenden dienen sollte. Der Beschwerdeführer begleitete A., der zwar mit einer List getäuscht worden ist, sodass
+er aus einer auf Täuschung beruhenden Motivation heraus nach Deutschland gereist
+ist. Weder A. noch der Beschwerdeführer waren aber direkt willensbeugender Gewalt
+oder einer Drohung mit Gewalt ausgesetzt, noch ermöglichte die List eine später
+gewaltsame Entführung. Die Täuschungshandlungen sind nicht von deutschen Behörden ausgegangen, und sie sind ihnen auch nicht zuzurechnen. Schließlich gibt
+es auch keine Anhaltspunkte für die Annahme, dass die deutschen Behörden mit
+den U.S.-amerikanischen Strafverfolgungs- und Ermittlungsbehörden kollusiv zusammengearbeitet hätten, um A. und den Beschwerdeführer gerade zu einer Reise
+nach Deutschland zu bewegen.
+
+ bb) Es lässt sich nicht feststellen, dass für diese Sachverhaltskonstellation sich eine   54
+völkerrechtliche Übung herausgebildet hat, die die Auslieferung als Verstoß gegen
+Völkergewohnheitsrecht erscheinen ließe.
+
+  (1) Sowohl nationale als auch internationale Gerichte haben es in einer Reihe von        55
+Entscheidungen schon grundsätzlich abgelehnt, das Herauslocken einer Person aus
+einem Staat als Grund für ein Auslieferungs- oder sogar Strafverfolgungshindernis
+anzuerkennen. Das House of Lords lehnte in dem Fall Schmidt eine Völkerrechtsverletzung ab, obwohl hier ein in Irland ansässiger deutscher Staatsangehöriger durch
+Telefongespräche mit britischen Polizeibeamten nach Großbritannien gelockt worden war, um ihn wegen Drogendelikten nach Deutschland auszuliefern (House of
+Lords, In re Schmidt, <1994> 3 Weekly Law Reports, 228). In dem Fall United States
+v. Wilson hielt der U.S. Federal Court of Appeals die Anklage gegen den Verfolgten,
+der von einem Agenten zum Verlassen seines Zufluchtsortes in Libyen überredet
+worden war, mit der Begründung aufrecht, er sei lediglich das Opfer eines "gewaltlosen Tricks" geworden (U.S. Federal Court of Appeals, 721 Federal Reporter, Second
+Series, 967 <1983>). Der kanadische Ontario High Court of Justice entschied in dem
+Verfahren Hartnett, dass die Festnahme zweier U.S.-Amerikaner wegen Betrugsdelikten, die unter dem Vorwand einer Zeugenvernehmung nach Kanada eingeladen
+worden waren, nicht die Annahme eines Verfahrenshindernisses rechtfertige (Ontario High Court of Justice, Re Hartnett and the Queen, Entscheidung vom 20. September 1973, 14 Canadian Criminal Cases, 69).
+
+  Der Internationale Strafgerichtshof für das ehemalige Jugoslawien kam nach einer         56
+umfassenden Prüfung der Staatenpraxis in einem Fall, in dem der Beschuldigte von
+der Staatsanwaltschaft unter einem Vorwand zu einer Reise aus Serbien und Montenegro in das unter Aufsicht der Vereinten Nationen stehende Gebiet von Ostslawonien überredet worden war, zu dem Ergebnis, dass die strafrechtliche Verfolgung einer
+Person, die durch Täuschung bewogen wurde, sich in den Zugriffsbereich auswärtiger Strafverfolgungsorgane zu begeben, in der Staatenpraxis allenfalls dann als Verletzung des internationalen Rechts oder einzelner Grundrechte angesehen wird,
+wenn ein wirksamer Auslieferungsvertrag umgangen oder ungerechtfertigt Gewalt
+
+
+                                          14/21
+
+gegen den Verfolgten ausgeübt wurde (International Criminal Tribunal for the Former
+Yugoslavia, Prosecutor v. Dokmanovic <Motion for Release>, Trial Chamber, Entscheidung vom 22. Oktober 1997 - IT-95-13a-PT -, International Law Reports Vol.
+111 <1998>, 458 <490>; International Criminal Tribunal for the Former Yugoslavia,
+Prosecutor v. Dragan Nikolic, Entscheidung vom 5. Juni 2003 - IT-94-2-AR73 -, Appeals Chamber, Ziff. 20 ff.).
+
+  (2) Demgegenüber lassen sich zwar auch Gerichtsentscheidungen anführen, denen          57
+eine andere Rechtsauffassung zu Grunde liegt. Das Schweizerische Bundesgericht
+hat in einer - bereits erwähnten - Entscheidung, auf die der Beschwerdeführer seinen
+Vortrag maßgeblich stützt, die Auslieferung eines belgischen Staatsangehörigen
+nach Deutschland verweigert, weil der Verfolgte unter Verstoß gegen die belgische
+Souveränität von deutschen Behörden in die Schweiz gelockt worden war (Schweizerisches Bundesgericht, Urteil vom 15. Juli 1982, EuGRZ 1983, S. 435 ff.). Diese Praxis ist indessen nicht hinlänglich verbreitet, um als gefestigte, Völkergewohnheitsrecht begründende Übung angesehen werden zu können.
+
+  (3) Bei der Auswertung der vorliegenden Gerichtsentscheidung kann nicht unberücksichtigt bleiben, dass es bereits fraglich ist, unter welchen Voraussetzungen das
+listige Herauslocken eines Verfolgten aus seinem Aufenthaltsstaat – anders als beim
+Einsatz von Gewalt – überhaupt als völkerrechtswidrige Handlung zu sehen ist (vgl.
+Wilske, a.a.O., S. 101 ff. m.w.N.). Soweit beim Einsatz von List der bezweckte Grenzübertritt des Verfolgten auch durch eigene Interessen motiviert ist, und die Möglichkeit besteht, dass sich der Verfolgte gegen eine Ausreise entscheidet, ist dieser regelmäßig nicht das Objekt hoheitlichen Zwangs.
+
+  Zwar kann die Grenze zwischen listigem Herauslocken und dem Bruch des Willens          59
+durch Gewalt in einem Grenzbereich fließend werden, etwa wenn etwas vorgespiegelt wird, was auf den Betroffenen wie unwiderstehlicher Zwang wirkt. Eine solche
+Konstellation ist hier jedoch nicht gegeben. Vielmehr ist der Beschwerdeführer auf
+Grund einer autonomen Entscheidung in Verfolgung bestimmter eigener Interessen
+in das Bundesgebiet gereist.
+
+  Die jüngere Staatenpraxis berücksichtigt im Übrigen auch die Schwere des Strafvorwurfs und stellt insofern Verhältnismäßigkeitserwägungen an. Der Schutz hochrangiger Rechtsgüter, der auf internationaler Ebene in den letzten Jahren intensiviert
+wurde, kann geeignet sein, eine mit dem Einsatz von List möglicherweise einhergehende Verletzung der Personalhoheit eines Staates zu rechtfertigen (vgl. International Criminal Tribunal for the Former Yugoslavia, Prosecutor v. Dragan Nikolic, a.a.O.,
+Ziff. 26). Soweit es um die Bekämpfung schwerster Straftaten – etwa die Förderung
+internationalen Drogenhandels oder des Terrorismus – geht, wird das listige Herauslocken aus der Gebietshoheit eines Staates jedenfalls nicht in dem für den Nachweis
+einer Staatenpraxis erforderlichen Umfang als Strafverfolgungshindernis gesehen.
+Für das Bestehen eines Auslieferungshindernisses kann nichts anderes gelten.
+
+
+
+
+                                         15/21
+
+                                        II.
+ Die angegriffene Entscheidung verstößt nicht gegen Art. 2 Abs. 1, Abs. 2 Satz 2 in   61
+Verbindung mit Art. 25 GG, da die vom Beschwerdeführer behauptete allgemeine
+Regel des Völkerrechts – Auslieferungshindernis bei einer "Entführung" durch List –
+nach den obigen Ausführungen nicht besteht und die Entscheidung des Oberlandesgerichts auf dem festgestellten Verstoß gegen Art. 101 Abs. 1 Satz 2 GG nicht beruht.
+
+                                        III.
+  1. Die Rüge des Beschwerdeführers, sein Recht auf Freiheit vor gesetzlosem          62
+Zwang gemäß Art. 2 Abs. 1 GG sei dadurch verletzt, dass das Oberlandesgericht,
+trotz bestehender Anhaltspunkte für ein rechtsmissbräuchliches Auslieferungsersuchen weder nach § 10 Abs. 2 IRG noch nach Art. 14 Abs. 3 Buchstabe a des
+deutsch-U.S.-amerikanischen Auslieferungsvertrages eine Tatverdachtsprüfung
+durchgeführt hat, greift ebenfalls nicht durch.
+
+  Mit diesem Vorbringen macht der Beschwerdeführer eine fehlerhafte Anwendung         63
+einfachen Rechts geltend. Die Auslegung des Gesetzes und seine Anwendung auf
+den einzelnen Fall sind jedoch grundsätzlich Sache der dafür zuständigen Fachgerichte (vgl. BVerfGE 18, 85 <93>; 30, 173 <196 f.>; 57, 250 <272>; 74, 102 <127>;
+stRspr). Auch in Auslieferungsverfahren prüft das Bundesverfassungsgericht insoweit nur, ob die Rechtsanwendung oder das dazu eingeschlagene Verfahren unter
+keinem denkbaren Gesichtspunkt rechtlich vertretbar ist und sich daher der Schluss
+aufdrängt, dass die Entscheidung auf sachfremden und damit willkürlichen Erwägungen beruht (vgl. Beschluss der 1. Kammer des Zweiten Senats des Bundesverfassungsgerichts vom 11. Dezember 2000 - 2 BvR 2184/00 -; BVerfGE 80, 48 <51>; Beschluss des Zweiten Senats des Bundesverfassungsgerichts vom 24. Juni 2003 - 2
+BvR 685/03 -). Diese Grenzen sind hier nicht überschritten.
+
+  Im Falle einer völkervertraglich geregelten Auslieferung wird der Tatverdacht im    64
+Auslieferungsverfahren grundsätzlich nicht überprüft. Ausnahmen von diesem
+Grundsatz sind nur in besonders gelagerten Fällen gerechtfertigt (vgl. BVerfGE 60,
+348 <355, 356>; 63, 197 <206>, Beschluss der 1. Kammer des Zweiten Senats des
+Bundesverfassungsgerichts vom 9. November 2000 - 2 BvR 1560/00 -, NStZ 2001,
+S. 203). Der Bundesgerichtshof hat die Tatbestandsvoraussetzung des § 10 Abs. 2
+IRG dahingehend konkretisiert, dass eine Prüfung des Tatverdachts zulässig und geboten sei, wenn das Auslieferungsersuchen missbräuchlich erscheine oder dem Betroffenen im ersuchenden Staat ein rechtsstaatswidriges Verfahren drohe (BGHSt
+32, 314). Das Vorliegen solcher oder weiterer besonderer Umstände hat der Beschwerdeführer jedoch nicht dargelegt.
+
+ Die Einschätzung des Oberlandesgerichts, die Voraussetzungen des § 10 Abs. 2         65
+IRG für eine Prüfung des Tatverdachts lägen hinsichtlich des dem Auslieferungsbegehren zu Grunde liegenden Verdachts der Mitgliedschaft in terroristischen Vereini-
+
+
+
+                                       16/21
+
+gungen nicht vor, ist verfassungsrechtlich nicht zu beanstanden. Das Oberlandesgericht hat in den Gründen seiner Entscheidung nachvollziehbar ausgeführt, dass
+Art. 14 Abs. 3 Buchstabe a des deutsch-U.S.-amerikanischen Auslieferungsvertrages nicht zu einer Prüfung des hinreichenden Tat- oder Schuldverdachts auf deutscher Seite zwinge.
+
+                                         IV.
+ Auch die Rüge einer Verletzung des Rechts auf ein faires rechtsstaatliches Verfahren hat keinen Erfolg.
+
+  1. Aus dem Rechtsstaatsprinzip in Verbindung mit dem allgemeinen Freiheitsrecht       67
+aus Art. 2 Abs. 1 GG folgt ein Anspruch auf ein faires rechtsstaatliches Verfahren
+(vgl. BVerfGE 38, 105 <111>). An diesem allgemeinen Prozessgrundrecht sind alle
+diejenigen Beschränkungen zu messen, die von den spezielleren grundrechtlichen
+Verfahrensgarantien nicht erfasst werden (vgl. BVerfGE 57, 250 <274 f.>).
+
+  2. Das Oberlandesgericht hat in seinem Beschluss vom 18. Juli 2003 den Einsatz        68
+eines verdeckten Ermittlers im Ermittlungsverfahren gegen den Beschwerdeführer
+nicht als Verstoß gegen das Rechtsstaatsprinzip und Art. 1 Abs. 1 GG gewertet. Zur
+Verfolgung besonders gefährlicher und schwer aufklärbarer Straftaten wie beispielsweise solcher gemäß § 129, § 129a und § 129b StGB sei der Einsatz verdeckter Ermittler erforderlich und geboten. Die Staaten- und Völkerrechtsgemeinschaft müsse
+zur Bekämpfung schwerwiegender Straftaten weltweit handelnder terroristischer Organisationen auch mit außergewöhnlichen, grenzüberschreitenden Ermittlungsmaßnahmen reagieren können. Ein Verfahrenshindernis sei nur in extrem gelagerten
+Ausnahmefällen anzunehmen; ein solcher liege hier nicht vor. Im Übrigen habe das
+Oberlandesgericht die Rechtmäßigkeit des weiteren Rechtshilfevorganges im Auslieferungsverfahren nicht zu prüfen.
+
+ 3. Ungeachtet einer Entscheidung darüber, ob der Einsatz eines jemenitischen V-        69
+Mannes durch U.S.-amerikanische Strafverfolgungs- und Ermittlungsbehörden im
+Jemen prinzipiell an deutschen Grundrechten gemessen werden kann, ist diese Begründung verfassungsrechtlich nicht zu beanstanden.
+
+  Der Einsatz von V-Leuten kann im Einzelfall notwendig sein, weil nur auf diesem       70
+Wege interne, nicht öffentlich verfügbare Informationen über den Aufbau terroristischer Organisationen, ihre Führungspersonen, ihre tatsächlichen - nicht nur die öffentlich deklarierten - Ziele sowie die Planung und Durchführung konkreter Maßnahmen erlangt werden können. Insbesondere können mittels geheimer Informanten
+Erkenntnisse über interne Äußerungen und mündliche Erörterungen innerhalb der
+Organisation gewonnen werden.
+
+ Auch nach den Maßstäben des deutschen Rechts begegnet der Einsatz von V-               71
+Leuten zur Verhinderung oder Aufklärung von Straftaten mit terroristischem Hintergrund grundsätzlich keinen Bedenken im Hinblick auf die Verhältnismäßigkeit der
+Mittel (vgl. zur Verfolgung besonders gefährlicher und schwer aufklärbarer Kriminali-
+
+
+                                        17/21
+
+tät insbesondere im Rauschgifthandel BVerfGE 57, 250 <284>; BGHSt 32, 115
+<121 f.>; 40, 211 <215 ff.>; 41, 42 ff.).
+
+                                         V.
+ Der Beschwerdeführer ist nicht in seinen Rechten aus Art. 2 Abs. 1 in Verbindung        72
+mit Art. 1 Abs. 1 GG und Art. 19 Abs. 4 GG verletzt. Das Oberlandesgericht hat die
+Auslieferung im Einklang mit den verfassungsrechtlichen Vorgaben für zulässig erklärt. Dies gilt auch, soweit der Beschwerdeführer eine weitere Sachverhaltsaufklärung in Bezug auf angeblich rechtsstaatswidrige Verhörmethoden in den Vereinigten
+Staaten beantragt hatte. Das Oberlandesgericht hat dieses Vorbringen unter Hinweis
+auf fehlende Anhaltspunkte in der Praxis der Vereinigten Staaten zurückgewiesen.
+Diese Begründung ist verfassungsrechtlich nicht zu beanstanden.
+
+  Sie steht zum einen im Einklang mit der neueren Rechtsprechung des Bundesverfassungsgerichts, wonach im Auslieferungsverkehr zwischen Deutschland und anderen Staaten, insbesondere wenn dieser auf einer völkervertraglichen Grundlage
+durchgeführt wird, dem ersuchenden Staat im Hinblick auf die Einhaltung der Grundsätze der Rechtsstaatlichkeit und des Menschenrechtsschutzes grundsätzlich Vertrauen entgegenzubringen ist. Dieser Grundsatz kann so lange Geltung beanspruchen, wie er nicht durch entgegenstehende Tatsachen erschüttert wird (Beschluss
+des Zweiten Senats des Bundesverfassungsgerichts vom 24. Juni 2003 – 2 BvR 685/
+03 -, Auslieferung nach Indien). Solche Tatsachen lagen zum Zeitpunkt der Entscheidung des Oberlandesgerichts nicht vor.
+
+  Zum anderen ist entscheidend zu berücksichtigen, dass die Vereinigten Staaten die      74
+mögliche Anwendung des Präsidentenerlasses vom 13. November 2001 durch ihre
+Zusicherung vom 22. Mai 2003 ausgeschlossen haben. Damit sind die Vereinigten
+Staaten die völkerrechtlich bindende Verpflichtung eingegangen, den Beschwerdeführer nach seiner Auslieferung weder vor ein Ausnahmegericht zu stellen noch das
+in dem Erlass vom 13. November 2001 vorgesehene Verfahrensrecht anzuwenden
+und ihn auch nicht in ein Internierungslager zu verbringen. Es gibt keine Anhaltspunkte dafür, dass sich die Vereinigten Staaten bei einer Auslieferung des Beschwerdeführers nicht an die gegebene Zusicherung halten würden.
+
+ Im Übrigen ist zu berücksichtigen, dass die zwischen Deutschland und den Vereinigten Staaten bestehenden völkervertraglichen Rechtshilfebeziehungen durch die
+Unterzeichnung des Abkommens über die Rechtshilfe in Strafsachen am 14. Oktober
+2003 noch einmal intensiviert wurden. Dieser Umstand bekräftigt die Vermutung,
+dass die Vereinigten Staaten ihre Verpflichtungen gegenüber Deutschland prinzipiell
+einhalten werden (vgl. dazu Beschluss des Zweiten Senats des Bundesverfassungsgerichts vom 24. Juni 2003 – 2 BvR 685/03 -, III. 2. b).
+
+ Zudem kann angenommen werden, dass die Bundesregierung über ihre diplomatischen Vertretungen das weitere Verfahren in den Vereinigten Staaten von sich aus
+beobachtet.
+
+
+                                         18/21
+
+                                        VI.
+  Auch die Rüge des Beschwerdeführers, sein grundrechtsgleiches Recht auf Einhaltung des Rückwirkungsverbots nach Art. 103 Abs. 2 GG sei verletzt, weil sich die
+Vorwürfe im Auslieferungsverfahren auf Taten bezögen, die zum Zeitpunkt der Tatbegehung nach deutschem Recht nicht strafbar gewesen seien, hat keinen Erfolg.
+
+  Das Oberlandesgericht ist in seiner Entscheidung zu Recht davon ausgegangen,         78
+dass für die Zwecke des Auslieferungsverfahrens der seitens des ersuchenden Staates erhobene Tatvorwurf gegen den Betroffenen nach § 3 IRG sinngemäß auf die
+deutsche Rechtslage umgestellt werden müsse. Bei einer solchen Umstellung der
+Tat sei danach zu fragen, wie die Tat nach dem Recht des ersuchten Staates zu beurteilen wäre. Aus der Sicht der deutschen Rechtsordnung komme eine Strafbarkeit
+für die dem Beschwerdeführer zur Last gelegten Handlungen nach § 129, § 129a und
+§ 129b StGB in Betracht. Dass § 129b StGB erst Ende August 2002 in das Strafgesetzbuch eingefügt worden sei, sei unerheblich, weil maßgeblicher Zeitpunkt für die
+Prüfung von § 3 IRG der Eingang des Auslieferungsersuchens oder die Entscheidung darüber sei. Diese Begründung des Oberlandesgerichts steht mit den verfassungsrechtlichen Vorgaben in Einklang.
+
+  Eine Verletzung von Art. 103 Abs. 2 GG dürfte hier ausscheiden, weil die vom Beschwerdeführer gerügte angebliche Rückwirkung nicht zu einer rückwirkenden Bestrafung führt, sondern nur die Auslieferungsvoraussetzung der beiderseitigen Strafbarkeit betrifft und daher vom Schutzzweck des Art. 103 Abs. 2 GG nicht erfasst wird
+(vgl. OLG Karlsruhe, NJW 1985, S. 2096 und Lagodny, in: Schomburg/Lagodny, Internationale Rechtshilfe in Strafsachen, 3. Aufl., 1998, § 3 IRG Rn. 21). Einer abschließenden Entscheidung dieser Frage, inwieweit sich eine Person im Auslieferungsverfahren überhaupt auf eine Verletzung von Art. 103 Abs. 2 GG berufen kann,
+bedarf es jedoch nicht, denn jedenfalls ist vorliegend das Rückwirkungsverbot gewahrt. Das Oberlandesgericht hat in vertretbarer Weise darauf hingewiesen, dass in
+den Tatvorwurf auch Handlungen einbezogen sind, die nach dem In-Kraft-Treten von
+§ 129b StGB vorgenommen wurden.
+
+                                        VII.
+ Die Rüge des Beschwerdeführers, seinem Bevollmächtigten sei keine ausreichende        80
+Einsicht in die Akten des Auslieferungsverfahrens gewährt und dadurch sei sein Anspruch auf Gewährung rechtlichen Gehörs verletzt worden, ist unbegründet.
+
+ Art. 103 Abs. 1 GG gewährleistet, dass der Beschuldigte im Strafverfahren Gelegenheit erhält, sich zu dem einer Entscheidung zu Grunde liegenden Sachverhalt
+grundsätzlich vor deren Erlass zu äußern und damit das Gericht in seiner Willensbildung zu beeinflussen. Es dürfen einer gerichtlichen Entscheidung nur solche Tatsachen und Beweisergebnisse zu Grunde gelegt werden, zu denen der Beschuldigte
+Stellung nehmen konnte. Art. 103 Abs. 1 GG will verhindern, dass das Gericht ihm
+bekannte, dem Beschuldigten aber verschlossene Sachverhalte zu dessen Nachteil
+
+
+
+                                        19/21
+
+verwertet. Diese Gewährleistung ist auf das Auslieferungsverfahren, das kein Strafverfahren ist, übertragbar.
+
+ Der Bevollmächtigte des Beschwerdeführers hat Einsicht in alle dem Oberlandesgericht im Auslieferungsverfahren vorliegenden Akten erhalten. Einen darüber hinausgehenden Anspruch auf Erweiterung des gerichtlichen Aktenbestandes gewährt
+Art. 103 Abs. 1 GG nicht (vgl. BVerfGE 63, 45 <59 f.>; Beschluss der 3. Kammer des
+Zweiten Senats des Bundesverfassungsgerichts vom 11. Januar 2002 – 2 BvR 1328/
+00 -).
+
+                                        C.
+ Durch die Entscheidung in der Hauptsache erledigt sich der Antrag auf Erlass einer   83
+einstweiligen Anordnung.
+
+ Die Entscheidung ist einstimmig ergangen.                                            84
+
+              Hassemer               Jentsch                 Broß
+
+              Osterloh               Di Fabio             Mellinghoff
+
+             Lübbe-Wolff                                   Gerhardt
+
+
+
+
+                                       20/21
+
+Bundesverfassungsgericht, Beschluss des Zweiten Senats vom 5. November 2003 -
+2 BvR 1243/03
+
+Zitiervorschlag BVerfG, Beschluss des Zweiten Senats vom 5. November 2003 -
+                2 BvR 1243/03 - Rn. (1 - 84), http://www.bverfg.de/e/
+                rs20031105_2bvr124303.html
+
+ECLI           ECLI:DE:BVerfG:2003:rs20031105.2bvr124303
+
+
+
+
+                                    21/21
