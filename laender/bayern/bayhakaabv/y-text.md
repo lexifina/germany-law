@@ -1,0 +1,1 @@
+Auf Grund von § 90 Abs. 3 der Handwerksordnung in Verbindung mit § 1 des Gesetzes über Ermächtigungen zum Erlaß von Rechtsverordnungen vom 3. Juli 1961 (BGBl. I S. 856) und § 1 Abs. 1 Satz 1 der Verordnung über die Zuständigkeit zum Erlaß von Rechtsverordnungen erläßt das Bayerische Staatsministerium für Wirtschaft und Verkehr folgende Verordnung:
