@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 79 Abs. 1 und 3 des Bremischen Polizeigesetzes vom 21. März 1983 (Brem.GBl. S. 141, 301 - 205-a-1), das zuletzt durch Gesetz vom 22. Dezember 1998 (Brem.GBl. S. 361) geändert worden ist, und des § 3 Abs. 3 Satz 2, § 9 Satz 3, § 10 Abs. 3 Satz 4, § 21a Satz 3 und § 30 Abs. 2 Satz 3 des Pflanzenschutzgesetzes in der Fassung der Bekanntmachung vom 14. Mai 1998 (BGBl. I S. 971, 1527, 3512) verordnet der Senat:
