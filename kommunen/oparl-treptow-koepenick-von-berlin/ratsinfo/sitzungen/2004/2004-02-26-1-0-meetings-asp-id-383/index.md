@@ -1,0 +1,69 @@
+# 25. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2004-02-26T16:00:00+01:00
+- Ende: 2004-02-26T22:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=383
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=383
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=30174
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_26 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 7.1: Schlussfolgerungen aus dem Abschlussbericht - schriftlich beantwortet
+- TOP 7.2: Finanzierung Kulturarbeit - schriftlich beantwortet
+- TOP 8: Beschlussvorlagen - gegenstandslos
+- TOP 8.1: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 401) - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 402) - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Sondermittel für Tourismusverein Berlin Treptow-Köpenick e.V. (SM 403) - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Sondermittel für Beate Spitzmüller (SM 407) - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 9.1: Bezirkshaushaltsrechnung für das Haushaltsjahr 2001 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Wuhlewanderweg - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Spreeuferweg Spindlersfeld-Niederschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Gesamtfinanzierung Alte Möbelfabrik und Flussbad Gartenstraße - vertagt
+- TOP 9.5: Mehr für unsere Kinder tun - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Genehmigung der im Haushaltsjahr 2002 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Genehmigung der im 1. Halbjahr 2003 zugelassenen über- und außerplanmäßigen Ausgaben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Überprüfung Schulstandort Köpenicker Gesamtschule - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Umsetzung Lärmminderungsplan - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.10: Information Wiedereröffnung Schloss Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Übersicht Busparkplätze - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Bebauungsplan XVI-58 im Ortsteil Rahnsdorf Planreife für die Grundstücke Fürstenwalder Allee 326 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Anträge - gegenstandslos
+- TOP 10.1: Kinder- und Jugendgesundheitsdienst - überwiesen
+- TOP 10.2: Kulturelle Nutzung der Schlossinsel - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Präventionsarbeit an Oberschulen in Treptow-Köpenick - Informationsveranstaltungen intensivieren - überwiesen
+- TOP 10.4: Lokale Agenda, Kinder und Verkehrssicherheit - überwiesen
+- TOP 10.5: Kaisersteg - überwiesen
+- TOP 10.6: Kunst im Abschiebegewahrsam - mit Änderungen in der BVV beschlossen
+- TOP 10.7: Integrative Beschulung - mit Änderungen in der BVV beschlossen
+- TOP 10.8: Einrichtung von zwei gesicherten Fußgängerüberwegen in Oberschöneweide - überwiesen
+- TOP 10.9: Fußgängerzone in der Altstadt Köpenick - im Ältestenrat zurückgezogen
+- TOP 10.10: Umbenennung der Straße "Alt-Köpenick" - überwiesen
+- TOP 10.11: Uferdurchwegung - überwiesen
+- TOP 10.12: Weiterentwicklung der Schulentwicklungsplanung - mit Änderungen in der BVV beschlossen
+- TOP 10.13: Verlängerung der Buslinie 272 von der Haltestelle Stelzenweg in Neukölln zur Haltestelle Baumschulenstraße / Fähre und zurück - überwiesen
+- TOP 10.14: Lichtzeichenanlage Seelenbinderstraße/Bahnhofstraße - überwiesen
+- TOP 10.15: Behindertenfreundliches Alt-Köpenick - in der BVV abgelehnt
+- TOP 10.16: Nutzung des Fußgängerbereiches - überwiesen
+- TOP 10.17: Beleuchtung Rathausuhr Johannisthal - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Pflanzen für den Abschiebegewahrsam - überwiesen
+- TOP 10.19: Überprüfung Standort Bushaltestelle "Späthsfelder Weg" - überwiesen
+- TOP 10.20: Deutschkurse im Abschiebegewahrsam - vertagt
+- TOP 10.21: Überarbeitung Schulentwicklungsplan - im Ältestenrat zurückgezogen
+- TOP 10.22: Baumschutzverordnung - überwiesen
+- TOP 11: Große Anfragen - gegenstandslos
+- TOP 11.1: Ausgliedern von Aufgaben - vertagt
+- TOP 11.2: Spreepark und Eierhäuschen - vertagt
+- TOP 11.3: Jugendliche Flüchtlinge - vertagt
