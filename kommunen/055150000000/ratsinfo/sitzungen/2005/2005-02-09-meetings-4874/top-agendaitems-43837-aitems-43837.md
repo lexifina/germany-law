@@ -1,0 +1,6 @@
+# TOP -: Beschlusspunkte unter Hinweis auf die zugehörigen Vorlagen:
+
+- Sitzung: 5. Sitzung (2005-02-09)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/43837
