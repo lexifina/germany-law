@@ -1,4 +1,4 @@
-# TOP 6.2.: Finanzen, Haushalt
+# TOP 6.2.: Änderungsvorschläge der CDU zum Haushalt 2001
 
 - Sitzung: Gemeinderates (2001-02-15)
 - Körperschaft: Gemeinde Aldenhoven
