@@ -1,0 +1,75 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2005-03-09T17:00:00+01:00
+- Ende: 2005-03-09T21:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=818
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=818
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=27047
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: 60. Jahrestag der Befreiung vom Nationalsozialismus und der Beendigung des zweiten Weltkrieges in Europa im Bezirk Reinickendorf würdig begehen - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Ambulante Therapieeinrichtung für Sexualstraftäter in Tegel - beantwortet
+- TOP 2.2.1: Ambulante Therapieeinrichtung für Sexualstraftäter in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 2.3: Populismus versus Deregulierung - beantwortet
+- TOP 2.4: Kitaplanung ab 1. August 2005 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Antrag auf Änderung der Geschäftsordnung - überwiesen
+- TOP 3: Konsensliste - überwiesen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Förderung der konstruktiven Zusammenarbeit zwischen der Musikschule und den Reinickendorfer Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Einrichtung eines Campingplatzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Keine freie Abgabe von Cannabis - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Übernachtungsparkplätze für Wohnmobile einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Kundenservice der Post AG im Filial- und Briefkastennetz wieder verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Projekte im Bereich der Greenwichpromenade - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Behindertengerechte Bahnhöfe nach Umstellung auf "BVG 2005 plus" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Rückgabe von Alt-CDs - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Reform des Öffentlichen Gesundheitsdienstes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Sprachförderprogramme in Kindertagesstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Beteiligung an der Zentrenoffensive "MittendrIn Berlin" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Kein Verkauf der GeSoBau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-92-1 für die Grundstücke Mittelbruchzeile 78/90 und Epensteinstraße 17/27 im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Anmeldungen für die Investitionsplanung 2005 bis 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Änderung des Geltungsbereiches für den Bebauungsplanentwurf XX-55-1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.16: Vollzug des Kreislaufwirtschafts- und Abfallgesetzes im Bezirksamt Reinickendorf - überwiesen
+- TOP 5.17: Erfahrungsbericht des Patientenfürsprechers des Krankenhauses Reinickendorf in der Vivantes GmbH - ö. B. Humboldt-Krankenhaus - für das Jahr 2004 - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Kita-Eigenbetrieb - beantwortet
+- TOP 6.1.1: Kita-Eigenbetrieb - überwiesen
+- TOP 6.2: Moderne Lehr- und Lernkonzepte ausbauen - in der BVV zurückgezogen
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Wahl (Wiederwahl) des Schiedsmannes Peter Senge - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Immissionsschutz an der Greenwichpromenade - in der BVV abgelehnt
+- TOP 8.2: Ideenwettbewerb für Greenwichpromenade - in der BVV abgelehnt
+- TOP 8.3: Keine Zentralisierung der Bibliotheken - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: "Kummertelefon" - Gewaltpotenziale an Schulen rechtzeitig erkennen - erledigt
+- TOP 8.5: Eigenbetrieb Kitas mit der BVV vorbereiten - erledigt
+- TOP 8.6: Arbeitsgemeinschaft nach § 44b SGB II - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Erhalt der Heilpädagogischen Pflegestellen - erledigt
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: Hinweis auf Fortbildung durch den Kinder- und Jugendpsychiatrischen Dienst - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Beleuchtung des Parkplatzes der Lauterbach-Schule und des Schulweges zur Lauterbach-Schule - überwiesen
+- TOP 9.3: Schlaglöchertelefon - überwiesen
+- TOP 9.4: Qualitätsstandards in Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Platzzahlreduzierung - überwiesen
+- TOP 9.6: Radspuren für die Quickborner Straße - überwiesen
+- TOP 9.7: Radspur in der Grußdorfstraße - überwiesen
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: Weiterführung der Ringlinie 325 nach Tegel - überwiesen
+- TOP 10.2: Dezentralisierung der Heimaufsicht - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Umweltfreundliche Materialien auch an Reinickendorfer Schulen - überwiesen
+- TOP 10.4: Sicherheit für Fußgänger an der Welfenallee/Ludolfinger Platz - überwiesen
+- TOP 10.5: Erzieherinnen/Erzieher an Horten - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Verkehrsspiegel in der Frohnauer Straße - überwiesen
+- TOP 10.7: Ausstellung "Tatmotiv Ehre" - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Wiederherstellung des Trimm-dich-Pfades am Saatwinkler Damm - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Entfernung von Graffiti-Schmierereien - ohne Änderungen in der BVV beschlossen
