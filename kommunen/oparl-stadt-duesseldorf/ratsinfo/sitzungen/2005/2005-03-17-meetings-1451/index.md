@@ -1,0 +1,75 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-03-17T14:00:00+01:00
+- Ende: 2005-03-17T20:22:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1451
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1451
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111437.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111437.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111437.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Dringl.-antr. Bü90: Saubere Luft - mehrheitlich abgelehnt
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Akt. Anfr. SPD: Ausstattung des OSD mit Baretts - zur Kenntnis genommen
+- TOP 6: Anfr. akt. Anlass: Luftbelastung in Düsseldorf - zur Kenntnis genommen
+- TOP 7: Anfr.akt. RH Laubenb. - zur Kenntnis genommen
+- TOP 8: Anfr aktuell d.Rf Kahl - zur Kenntnis genommen
+- TOP 9: Anfragen - zur Kenntnis genommen
+- TOP 10: Anfr.Bü90/Grü: Weihnachtsmärkte - zur Kenntnis genommen
+- TOP 11: Anfr. SPD- Abriss d. Gebäudes Knuppertsbrück - zur Kenntnis genommen
+- TOP 12: Anfr. Deilmann: Kneipen - zur Kenntnis genommen
+- TOP 13: Anfr. CDU: Sachstandsbericht Bürgersaal, K20 - zur Kenntnis genommen
+- TOP 14: Anfr. Hebeler: Junge Arbeitslose und HARTZ IV - zur Kenntnis genommen
+- TOP 15: Anfr.:RF Kahl - zur Kenntnis genommen
+- TOP 16: Anfr: RH Laubenburg:Rechtsextr. Straftaten - zur Kenntnis genommen
+- TOP 17: Anfr.:RF Thum, Arbeitsbed. für Medienvertr. - zur Kenntnis genommen
+- TOP 18: Anfr: RH Albes: Arenanutzung durch die Stadt - zur Kenntnis genommen
+- TOP 19: Integrationskonzept - mehrheitlich beschlossen
+- TOP 20: ÄA-Bü90/Grü: Integrationskonz. - mehrheitlich abgelehnt
+- TOP 21: Änd. ZustO (Neufassung) - einstimmig beschlossen
+- TOP 22: Interfr. Ändantr.: ZustO - einstimmig beschlossen
+- TOP 23: ÄA-SPD-Ratsfr.:Zuständigkeitsordnung - mehrheitlich abgelehnt
+- TOP 24: Erg.Antr:Bü90/GRü: Zuständigkeit AreZI - zur Kenntnis genommen
+- TOP 25: Anträge - zur Kenntnis genommen
+- TOP 26: Antr. CDU/FDP: Eintritt Museen - mehrheitlich beschlossen
+- TOP 27: Antr.:CDU/FDP, Kriminalprävention - mehrheitlich beschlossen
+- TOP 28: Antr:CDU/FDP: Familie u. Beruf - mehrheitlich beschlossen
+- TOP 29: Antr.:CDU/FDP:Betreuung unter 3-jähriger - einstimmig beschlossen
+- TOP 30: ÄA-SPD: Betr. u. 3 jähriger - mehrheitlich abgelehnt
+- TOP 31: Antr. Bü90: Hartz IV - Job Plus - einstimmig beschlossen
+- TOP 32: Änd.-antr. CDU/FDP: Hartz IV - einstimmig beschlossen
+- TOP 33: Antr:SPD,. Ki-undJugendfreizanl. A.d.Icklack - verwiesen
+- TOP 34: Anfr.SPD, Präsentation WM 2006 - mehrheitlich abgelehnt
+- TOP 35: Beschlusskontrolle für den Rat - mehrheitlich beschlossen
+- TOP 36: Kämmererliste 2004 - einstimmig beschlossen
+- TOP 37: Bildungsoffensive II - einstimmig beschlossen
+- TOP 38: Tagesklinik Flurstraße 47 B+F - einstimmig beschlossen
+- TOP 39: Neubau Gymnastikhalle GGS Deutzer Str. 102 - einstimmig beschlossen
+- TOP 40: Brandschutz TVG I 2. u. 3. OG B+F - einstimmig beschlossen
+- TOP 41: Sanierung Stockumer Höfe - einstimmig beschlossen
+- TOP 42: AR FDG Neuwahl - mehrheitlich beschlossen
+- TOP 43: Lokale Agenda: Lenkungsgruppe - einstimmig beschlossen
+- TOP 44: Neubildung der Einigungsstelle - mehrheitlich beschlossen
+- TOP 45: Satzung Oberk. Rheinwiese - einstimmig beschlossen
+- TOP 46: Sonntagsfreigaben - mehrheitlich beschlossen
+- TOP 47: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 48: Plan Nr. 5483/15 - Kieshecker Weg - Veränderungssp - einstimmig beschlossen
+- TOP 49: 1. Verlängerung der Veränderungssperre - Bruchstr. - einstimmig beschlossen
+- TOP 50: 1. Verlängerung der Veränderungssperre - einstimmig beschlossen
+- TOP 51: FNP-Änderung Nr. 75 - Anregungen Plan - einstimmig beschlossen
+- TOP 52: FNP-Änderung Nr. 62 - Flemingweg - mehrheitlich beschlossen
+- TOP 53: B-Plan Nr. 5876/10 - Nördl. Königsberger Str. Ost - einstimmig beschlossen
+- TOP 54: B-Plan Nr. 5776/12 - Nördl. Königsberger Str. (W) - einstimmig beschlossen
+- TOP 55: B-Plan Nr. 5771/28 - Am Falder - mehrheitlich beschlossen
+- TOP 56: B-Plan Nr. 5480/26 - Rheinmetall - einstimmig beschlossen
+- TOP 57: Vorhabenbezogener B-Plan Nr. 5980/02 - einstimmig beschlossen
+- TOP 58: Apl für IDR - einstimmig beschlossen
