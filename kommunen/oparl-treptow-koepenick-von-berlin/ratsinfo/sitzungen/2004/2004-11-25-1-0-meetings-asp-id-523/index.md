@@ -1,0 +1,83 @@
+# 33. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2004-11-25T16:00:00+01:00
+- Ende: 2004-11-25T21:15:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=523
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=523
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=26857
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Personelles/Wahlen - gegenstandslos
+- TOP 7.1: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 7.2: Abberufung eines beratenden Mitgliedes des JHA - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Berufung eines beratenden Mitgliedes des JHA - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Beschlussvorlagen - gegenstandslos
+- TOP 8.1: Sondermittel für AG Interkulturelle Gärten Treptow-Köpenick & Brandenburg (SM 457) - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Sondermittel für Kunstfabrik e.V. (SM 458) - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Sondermittel für Bürgerverein Wilhelmshagen-Rahnsdorf e.V. (SM 459) - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 9.1: Präventionsarbeit an Oberschulen in Treptow-Köpenick - Informationsveranstaltungen intensivieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Parkverbot Tankstelle Wendenschloßstraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Tom Schreiber Verfasser 3: Klaus Chinea Correa)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Bereitschaftsdienst der Berufsberatung für Treptow-Köpenicker arbeitslose Jugendliche - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Lärmkarte und Aktionsplan zur Lärmminderung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Oliver Igel)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Bebauungsplan XVI-48 hier: Einstellung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Bebauungsplan 9-23 hier: Einleitung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Einbeziehung der Straße 125a in Altglienicke, zwischen Wegedornstraße und Usedomstraße liegend, in die Usedomstraße und Benennung in "Usedomstraße" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Beschilderung FHTW-Standort Oberschöneweide <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Genehmigung der im Haushaltsjahr 2003 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, PVFinWi)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.10: Sicherstellung der bezirklichen Schuldnerberatung - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Verbindungsweg der Parkanlage an der Wuhle - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Absperrung Alt-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Errichtung einer bezirklichen Arbeitsgemeinschaft gemäß § 44 b SGB II <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, SozGes)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 10.1: Benennung der Verbindungsstraße zwischen Sobernheimer Straße und der Krampenburg in Müggelheim in "Straße zur Krampenburg" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.2: Nutzung des Schlosshofes im Rahmen des mit der Stiftung Preußischer Kulturbesitz geschlossenen Vertrages vom 05.03.04 nach § 6 für das Jahr 2005 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, PVFinWi)</span> - überwiesen
+- TOP 10.3: Konzeption "Integration von Migrantinnen und Migranten in Treptow-Köpenick" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, PVFinWi)</span> - überwiesen
+- TOP 10.4: Konkretisierung und Fortschreibung der städtebaulichen und sozialen Sanierungsziele für das Sanierungsgebiet Oberschöneweide <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 10.5: Benennung der noch im Bau befindlichen Privatstraße im Ortsteil Bohndorf, zwischen Parchwitzer Straße und Fritz-Kühn-Straße, in "Atlantisring" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.6: Schließung der Sportanlage "Ernst Thälmann" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, JugSport)</span> - überwiesen
+- TOP 10.7: Schließung der Sportanlage "Eiche" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, JugSport)</span> - überwiesen
+- TOP 11: Anträge - gegenstandslos
+- TOP 11.1: Zivilen Widerstand gegen Rechtsextremismus organisieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Struktur-ABM <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach Verfasser 2: Karin Kant)</span> - überwiesen
+- TOP 11.3: Verkehrsorganisation nach Eröffnung der Autobahn A 113 (neu) - überwiesen
+- TOP 11.4: Konzepte der Europabeauftragten - überwiesen
+- TOP 11.5: Keine Seebrücke im Frauentog <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - in der BVV zurückgezogen
+- TOP 11.6: Schulschwimmen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Heike Kappel)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Radfahren im Bezirk <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margret Radebold)</span> - überwiesen
+- TOP 11.8: Parkplätze Alte Försterei <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - überwiesen
+- TOP 11.9: Bearbeitungsfristen von Widersprüchen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Klaus Chinea Correa)</span> - überwiesen
+- TOP 11.10: Nachtfahrverbot für LKW in Straßen mit Bodenschwellen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - in der BVV abgelehnt
+- TOP 11.11: Schulticket <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Heike Kappel)</span> - überwiesen
+- TOP 11.12: Hundeauslaufgebiete <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margret Radebold)</span> - überwiesen
+- TOP 11.13: Kinderbuchkino - Zugang zur Literatur ebnen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Kathrin Bernikas)</span> - überwiesen
+- TOP 11.14: Abwasser- und Fäkalienentsorgung in Gebieten ohne Anschluss an die öffentliche Kanalisation - überwiesen
+- TOP 11.15: Datenerfassung und Zusammenstellung zur wirtschaftlichen Entwicklung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Petra Reichardt)</span> - überwiesen
+- TOP 11.16: Umschichtung von Investitionsmitteln <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margret Radebold)</span> - überwiesen
+- TOP 11.17: Spielplatzführer für Treptow-Köpenick - Service für junge Familien <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Kathrin Bernikas)</span> - überwiesen
+- TOP 11.18: Fußwegenetz Friedrichshagen - überwiesen
+- TOP 11.19: Kein Ausbau der Nalepastraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Udo Franzke)</span> - überwiesen
+- TOP 11.20: Winterdienst im Bohnsdorfer Tunnel (1) - ohne Änderungen in der BVV beschlossen
+- TOP 11.21: Steganlage Frauentog - überwiesen
+- TOP 11.22: Wegerecht von der Bölschestraße zur Emmerichstraße - überwiesen
+- TOP 11.23: Winterdienst im Bohnsdorfer Tunnel (2) - ohne Änderungen in der BVV beschlossen
+- TOP 11.24: Gewaltpotenziale an Schulen rechtzeitig erkennen und den Opfern Hilfe leisten / "Kummertelefon" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : René Feldt)</span> - überwiesen
+- TOP 11.25: Räumung von Fahrradwegen in Wintermonaten <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - überwiesen
+- TOP 11.26: Bau eines Fuß- und Radweges Kablower Weg - überwiesen
+- TOP 11.27: Seelenbinderstraße/Bahnhofstraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.28: Veröffentlichungen über Radfahren im Bezirk <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margret Radebold)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.29: Laufende Leistungen zum Lebensunterhalt nach dem BSHG - überwiesen
+- TOP 12: Große Anfragen - gegenstandslos
+- TOP 12.1: Drogenproblematik im Bezirk Treptow-Köpenick - vertagt
