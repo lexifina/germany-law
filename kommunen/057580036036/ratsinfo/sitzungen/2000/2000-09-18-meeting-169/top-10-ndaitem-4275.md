@@ -1,0 +1,6 @@
+# TOP 10.: Controlling-Bericht (mündlicher Vortrag)
+
+- Sitzung: WAS (2000-09-18)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/4275
