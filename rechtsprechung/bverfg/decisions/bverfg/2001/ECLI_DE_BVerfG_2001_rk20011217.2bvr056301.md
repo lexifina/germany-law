@@ -1,0 +1,124 @@
+---
+ecli: "ECLI:DE:BVerfG:2001:rk20011217.2bvr056301"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 563/01"
+decided: "2001-12-17"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 1. Kammer des Zweiten Senats vom 17. Dezember 2001\n- 2 BvR 563/01 -, Rn. 1-6,\n                    https://www.bverfg.de/e/rk20011217_2bvr056301"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/12/rk20011217_2bvr056301.html"
+corpus_doc_id: "BVerfG_2001-12-17_K_2_BvR_0563_01_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/bvfg/0002.md", "germany/bund/acts/bvfg/0004.md", "germany/bund/acts/bvfg/0015.md", "germany/bund/acts/bvfg/0026.md", "germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/grundgesetz/artikel/019.md", "germany/bund/acts/grundgesetz/artikel/116.md", "germany/bund/acts/stag/0007.md", "germany/bund/acts/stag/0040a.md", "germany/bund/acts/vwgo/0124.md", "germany/bund/acts/vwgo/0124a.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 563/01 vom 2001-12-17
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 2 BVR 563/01 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+der russischen Staatsangehörigen
+1. H... ,
+2. H... ,
+3. H... ,
+4. H... ,
+
+- Bevollmächtigter: Rechtsanwalt Robert Stuhr,
+                    Westerwaldstraße 52, 53773 Hennef -
+1. unmittelbar gegen
+   den Beschluss des Niedersächsischen Oberverwaltungsgerichts vom 14. November 2000 - 13 L 3156/00 -,
+
+2. mittelbar gegen §§ 124, 124a VwGO
+
+hat die 1. Kammer des Zweiten Senats des Bundesverfassungsgerichts durch die
+Richter
+                                 Sommer,
+                                 Broß,
+                                 Mellinghoff
+
+gemäß § 93b in Verbindung mit § 93a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 17. Dezember 2001 einstimmig
+beschlossen:
+
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+
+                                     Gründe:
+ Die Verfassungsbeschwerde betrifft Fragen der Berufungszulassung im Vertriebenen- und Staatsangehörigkeitsrecht.
+
+  Die Voraussetzungen des § 93a Abs. 2 BVerfGG für deren Annahme liegen nicht         2
+vor, da ihr weder grundsätzliche verfassungsrechtliche Bedeutung zukommt noch ihre Annahme zur Durchsetzung von Grundrechten oder grundrechtsgleichen Rechten
+der Beschwerdeführer angezeigt ist. Sie besitzt keine hinreichende Aussicht auf Erfolg (BVerfGE 90, 22 <25 f.>).
+
+ Eine Verletzung des Art. 3 Abs. 1 GG ist nicht ersichtlich. Das Niedersächsische     3
+Oberverwaltungsgericht hat nicht in einer dem Gleichheitsgrundsatz widersprechenden Weise die Berufung nicht zugelassen. Art. 3 Abs. 1 GG verbietet die Ungleichbe-
+
+
+                                        1/4
+
+handlung der Betroffenen nur bei vergleichbaren Sachverhalten. Im von den Beschwerdeführern angeführten "Parallelverfahren" wurde die Berufungszulassung
+vom Niedersächsischen Oberverwaltungsgericht (Beschluss vom 16. Juni 2000 - 13
+L 1267/00 -) damit begründet, dass die Rechtssache besondere rechtliche Schwierigkeiten im Hinblick auf die Auslegung und Anwendung des § 40a StAG aufweise
+und insoweit auch von grundsätzlicher Bedeutung sei. Zwar haben sich auch die Beschwerdeführer des vorliegenden Verfahrens auf § 40a StAG berufen. Dass es sich
+jedoch hierbei um unterschiedliche Rechtsfragen handelt, auf die dann auch die abweichenden Entscheidungen über die Berufungszulassung gestützt wurden, ergibt
+sich aus den erstinstanzlichen Urteilen: Während im "Parallelverfahren" das Verwaltungsgericht Braunschweig seine Entscheidung allein darauf gegründet hat, dass der
+dortige Kläger die deutsche Staatsangehörigkeit aufgrund der Regelung des § 40a
+Satz 2 StAG nicht erworben haben könne und dann ausführlich zum Regelungsinhalt des § 40a Satz 2 StAG Stellung nimmt, hat im vorliegenden Fall das Verwaltungsgericht Hannover selbstständig tragend die deutsche Staatsangehörigkeit der
+Beschwerdeführer deshalb verneint, weil sie nicht Statusdeutsche seien. Da es daher aufgrund des rechtlichen Ansatzpunktes des Verwaltungsgerichts Hannover gar
+nicht auf etwaige Probleme im Rahmen der Auslegung und Anwendung des § 40a
+StAG ankam, war das Oberverwaltungsgericht auch nicht aus Gründen der Gleichbehandlung gehalten, dem Antrag der Beschwerdeführer auf Zulassung der Berufung
+stattzugeben.
+
+  Soweit die Beschwerdeführer eine Verletzung von Art. 19 Abs. 4 Satz 1 GG durch      4
+die Nichtzulassung der Berufung rügen, scheidet eine Annahme der Verfassungsbeschwerde deshalb aus, weil jedenfalls deutlich absehbar ist, dass die Beschwerdeführer auch im Falle einer Zurückverweisung an das Ausgangsgericht bei einer erneuten Entscheidung über den Zulassungsantrag im Ergebnis keinen Erfolg haben
+würden (vgl. BVerfGE 90, 22 <26>). Die Frage des Zusammenhangs zwischen der
+Spätaussiedlereigenschaft und dem Statuserwerb nach Art. 116 Abs. 1 GG ist zwischenzeitlich durch das Bundesverwaltungsgericht höchstrichterlich und im Sinne
+der Rechtsprechung des Niedersächsischen Oberverwaltungsgerichts geklärt. Das
+Bundesverwaltungsgericht hat mit Urteilen vom 19. Juni 2001 - 1 C 26.00 - (zur Veröffentlichung in der Entscheidungssammlung vorgesehen) und - 1 C 27.00 - entschieden, dass aufgrund eines Aufnahmebescheids (§ 26 BVFG) eingereiste Personen nur unter den Voraussetzungen des § 4 Abs. 3 Satz 1 BVFG die Eigenschaft als
+Statusdeutsche im Sinne des Art. 116 Abs. 1 GG erwerben können und die Zulassung der Einreise im Wege des Aufnahmeverfahrens als solche noch nicht den Erwerb dieser Eigenschaft bewirkt. Zudem sei bei der Entscheidung über die Eigenschaft als Spätaussiedler im Rahmen einer auf Feststellung des Deutschenstatus
+gerichteten Klage das Verwaltungsgericht gemäß § 15 Abs. 1 Satz 2 BVFG an eine
+bestandskräftig gewordene behördliche Versagung einer Spätaussiedlerbescheinigung nach § 15 Abs. 1 Satz 1 BVFG gebunden. Wie bereits das Oberverwaltungsgericht hat auch das Bundesverwaltungsgericht angenommen, dass die Spätaussiedlereigenschaft nicht allein durch die Einreise im Wege des Aufnahmeverfahrens
+
+
+                                        2/4
+
+erworben wird, sondern zusätzlich die Spätaussiedlereigenschaft tatsächlich vorhanden sein muss, insbesondere auch um den Deutschenstatus im Sinne des Art. 116
+Abs. 1 GG erwerben zu können; diese Verfassungsbestimmung wolle nur diejenigen begünstigen, die bei ihrer Einreise tatsächlich deutsche Volkszugehörige seien
+(unter Hinweis auf Bundesverfassungsgericht, Beschluss der 2. Kammer des Zweiten Senats vom 5. Juli 2000 - 2 BvR 865/00 -, NVwZ-RR 2000, S. 836). Auch
+die staatsangehörigkeitsrechtlichen Folgen sieht das Bundesverwaltungsgericht wie
+das Oberverwaltungsgericht: Das Staatsangehörigkeitsrecht knüpfe an den Nachweis der Spätaussiedlereigenschaft und nicht an den Aufnahmebescheid an, wie § 7
+Satz 1 StAG zeige, wonach ein Deutscher im Sinne des Art. 116 Abs. 1 GG, der nicht
+die deutsche Staatsangehörigkeit besitze, mit der Ausstellung der Bescheinigung gemäß § 15 Abs. 1 oder 2 BVFG die deutsche Staatsangehörigkeit erwerbe. Dementsprechend bestimme die Überleitungsvorschrift des § 40a StAG, dass diejenigen, die
+bereits am Stichtag 1. August 1999 die Statusdeutscheneigenschaft besessen hätten, an diesem Tag die deutsche Staatsangehörigkeit erwerben sollten, wenn sie
+im Besitze einer Spätaussiedlerbescheinigung seien. Daraus hat das Bundesverwaltungsgericht gefolgert, dass der Aufnahmebescheid nicht rechtsverbindlich über den
+Deutschenstatus entscheiden könne. Diesem gehe typischerweise nur eine vorläufige, summarische und zentral beim Bundesverwaltungsamt durchgeführte Prüfung
+voraus, während die abschließende Prüfung der Spätaussiedlereigenschaft den zuständigen Landesbehörden nach der Einreise vorbehalten sei. Demgemäß entfalte
+der Aufnahmebescheid - abgesehen von der Voraussetzung der "Aufnahme" - keine
+Bindungswirkung für die Entscheidung nach § 15 Abs. 1 Satz 1 BVFG.
+
+ Von einer weiteren Begründung wird abgesehen (§ 93 d Abs. 1 Satz 3 BVerfGG).         5
+
+ Diese Entscheidung ist unanfechtbar.                                                 6
+
+              Sommer                    Broß              Mellinghoff
+
+
+
+
+                                         3/4
+
+Bundesverfassungsgericht, Beschluss der 1. Kammer des Zweiten Senats vom
+17. Dezember 2001 - 2 BvR 563/01
+
+Zitiervorschlag BVerfG, Beschluss der 1. Kammer des Zweiten Senats vom 17. Dezember 2001 - 2 BvR 563/01 - Rn. (1 - 6), http://www.bverfg.de/e/
+                rk20011217_2bvr056301.html
+
+ECLI           ECLI:DE:BVerfG:2001:rk20011217.2bvr056301
+
+
+
+
+                                     4/4
