@@ -1,164 +1,111 @@
 # Anlage 1: Übersichtsplan
 
 - Gemeinde: Stadt Halle (Saale) (ARS 150020000000)
-- Datum: 2003-03-31 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.halle.de/fileadmin/Binaries/Verwaltung/Stadtpolitik_und_Ortsrecht/Satzungen_und_Verordnungen/GB_II_Stadtentwicklung_Umwelt/FB_Staedtebau_und_Bauordnung/EHS_31_Anlage_1_Lageplan_Geltungsbereich.pdf
+- Datum: 2004-04-05 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.halle.de/fileadmin/Binaries/Verwaltung/Stadtpolitik_und_Ortsrecht/Satzungen_und_Verordnungen/GB_II_Stadtentwicklung_Umwelt/FB_Staedtebau_und_Bauordnung/EHS_56_Anlage_1_Lageplan_Geltungsbereich.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 '
-
-„
-
-/
-
-· 6220 UH
-
-'
-
-i
-
-'!
-
-6082
-
-Gem/arkung /J Flur 2
-
-836 105
-8,.3,3
-
-;)
-
-„
-
-..
-„
-
-„
-
-„,,..,. J
-
-. „ „(
-
-.
-
-„ ..···--·--/--„_ ____.)
-
-/ ;(
-
----­
--------­---„....
-
-/­
-
 \
 
-//
-(
+..............~.,_ -
 
--!·----­ ,,' „„ ,1
+' ,'
 
-1
+i,
 
-1
+--------~
 
-'''
+\\
+4
 
-____ .......-­
--...
---..
+......... _____
 
-\
+'!:
 
-1
-
-'
+\\ ···-------i.--
 
 11
 
-''
+·'.
 
-1
-
-'
-
-1
-
-'
-
+',\
 \
 
-l un~ruGndkarte Kartengrundlage·. Li'egensch\aftskarti' .
+'·'.
+••
 
-Gemeinde·
+1
 
-Stadt Halle (Saal mit Inhalt der Stadt
+\,
+"
+'\,'',,,
 
--
+-------------------------------------
+Q~~~Q-::~~Q---------1 .....···········----
 
-Gemarkung:
+... ..... _____ ...
 
-H:il ' FB Vermessung
+·--__,_---~\4
+
+Gemarkung Trotha Flur 25
+
+unm
+
+•1___
+
+~
+
+Ili
+
+"'C• ~~~~--1~~~~-'-~~~~~~~'-~~~~~~~~~~-'-,\
+
+Kartengrundlage: Liegenschaftskarte mit Inhalt der Stadtgrundkarte
+
+::::~~
+
+Stadt Halle (Saale), FB Vermessung und Geodaten
+
+_
+
+Geme!ndc:
+
+Halle
+
+Gemarkun~:
+
+Trotha
 
 Flur:
 
-.e
+25
 
-eodaten
+:&:
 
 Maßstab:
 
-~e1deburg
+1 : 1000
 
-SSttaanndd dder L.iegenschaftskart . 1 .· 1000
+Stand der Uegenschaflskarte: Januar 2004
 
-Ak1enzeic~geu~gserlaubnis . er Planunterlage· e. März 2003
+CD
+eo.
 
-V ervre!fälf
+Stand der Planunterlage:
 
-n. EV-32-03
+März 2004
 
-erte· ilt
+Vervielfältigungserlaubnis erteilt durch das Landesamt für Vermessung und Geoinformation Sachsen-Anhalt am 05.04.2004 Aktenzeichen: EV-06-04
 
-d urch
+\ Vorhaben:
+Planbezeichnun Datum: Bearbeiter: FB Stadtentwicklung
+unct.·-planung Ressort' Stadtplanung Team N'ord/West
 
-Mä
-das
-
-Krzata2s0te0r3amt
-
-Hall e
-
-am
-
-31.03.2003
-
-6220 UH
-ttt t
-
-\\lli
-1
-\ 1 \ \
-
-Vorhaben:
-
-ERREHIDAELBTUURNGGSSATZUNG NR. 31 - BAWERtTZ
-
-P!anbazeichnun .
-
-Datum:
-
-·
-
-Bearbeiter
-
-FB Stadtentwicklun und -planun g
-
-Ressort Stadt 1 g Team Süd/Osi anung
-
-Maßstab: art
-~* HALLE Die S1adt
-
-1:1000
+ERHALTUNGSSATZUNG NR. 56
+Wohnquartier Am Hang
+1 : 1000
+~
+HALLE* Die Stadt
