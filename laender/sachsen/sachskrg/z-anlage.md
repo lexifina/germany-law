@@ -1,9 +1,8 @@
 # Anlage
 Anlage zum Gesetz über die Kulturräume in Sachsen (Sächsisches Kulturraumgesetz – SächsKRG)
 1. Kulturraum Vogtland
-1. Göltzschtalkreis
-2. Elstertalkreis
-3. Stadt Plauen
+1. Vogtlandkreis
+2. Stadt Plauen
 2. Kulturraum Zwickauer Raum
 1. Chemnitzer Land
 2. Zwickauer Land
@@ -23,7 +22,7 @@ Anlage zum Gesetz über die Kulturräume in Sachsen (Sächsisches Kulturraumgese
 3. Muldentalkreis
 4. Torgau-Oschatz
 6. Kulturraum Elbtal
-1. Meißen-Dresden
+1. Meißen-Radebeul
 2. Riesa-Großenhain
 7. Kulturraum Sächsische Schweiz/Osterzgebirge
 1. Sächsische Schweiz
@@ -34,7 +33,7 @@ Anlage zum Gesetz über die Kulturräume in Sachsen (Sächsisches Kulturraumgese
 3. Stadt Hoyerswerda
 4. Niederschlesischer Oberlausitzkreis
 5. Sächsischer Oberlausitzkreis
-6. Westlausitzkreis
+6. Westlausitz-Dresdner Land
 9. Kulturstadt Chemnitz
 10. Kulturstadt Leipzig
 11. Kulturstadt Dresden
