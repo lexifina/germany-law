@@ -1,0 +1,6 @@
+# TOP 10.3.: Wegfall des Kreiszuschusses zur Pflegeberatung
+
+- Sitzung: Soziales u. Familie (2003-03-17)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/12330
