@@ -1,0 +1,67 @@
+# 31. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2004-09-23T16:00:00+02:00
+- Ende: 2004-09-23T22:05:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=492
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=492
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=24194
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_32 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 7.1: Flughafen Schönefeld - nach dem Feststellungsbeschluss - schriftlich beantwortet
+- TOP 7.2: Freie Kapazitäten an den Kitas Freier Träger - schriftlich beantwortet
+- TOP 8: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 8.1: Konzept für Jugendarbeit in Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Elke Werner Verfasser 2: Brigitte Gelbke)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Konkretisierung und Fortschreibung der städtebaulichen und sozialen Sanierungsziele für das Sanierungsgebiet Altstadt/Kietz Vorstadt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Tempo 70 auf der Rummelsburger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Verkehrsberuhigende Maßnahmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Erweiterung der Linksabbiegespur Adlergestell / Köpenicker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Parken ohne Gebühren an der Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Abstimmung von Baumaßnahmen mit dem Brandenburger Umland - ohne Änderungen in der BVV beschlossen
+- TOP 8.8: Aufhebung der geltenden Erhaltungsverordnung des Gebietes "Oberschöneweide" vom 24.02.1993 (GVBl. S. 110) und zugleich Erlass der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB für das Gebiet "Oberschöneweide" - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Planfeststellung der Süd-Ost-Verbindung, Abschnitt zwischen Rummelsburger Straße und Köpenicker Landstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.10: Bebauungsplanverfahren XV-65 im Bezirk Treptow-Köpenick, Ortsteil Adlershof - Auswertung der TÖB - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.11: Bebauungsplan 9-22 hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.12: - Entwurf des Bebauungsplans XVI-13 für das Gelände zwischen Lindenstraße, Spreestraße, der Spree und der Wuhle im Bezirk Treptow-Köpenick, Ortsteil Köpenick - Ergebnis der eingeschränkten Betroffenenbeteiligung gemäß § 3 Abs. 3 Satz 3 BauGB in Verbindung mit § 13 Abs. 2 BauGB - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.13: Sicherung der demokratischen Kontrolle in der Arbeitsgemeinschaft/Jobcenter - ohne Änderungen in der BVV beschlossen
+- TOP 8.14: Nutzung des Schlosshofes - ohne Änderungen in der BVV beschlossen
+- TOP 8.15: Parken auf dem Adlergestell in Höhe Dörpfeldstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 9.1: Bebauungsplan 9-7 hier: - Auswertung der frühzeitigen Bürgerbeteiligung - Auswertung der Trägerbeteiligung (TÖB) - überwiesen
+- TOP 9.2: Benennung der Planstraße 46/1 in Altglienicke (Flurstück 3409, Kartenblatt 30207), zwischen Müngersdorfer Straße und Klettenberger Straße gelegen, in "Deutzer Steig" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.3: Bebauungsplan XVI-33 hier: Einstellung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Anträge - gegenstandslos
+- TOP 10.1: Süd-Ost-Verbindung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Udo Franzke)</span> - überwiesen
+- TOP 10.2: Süd-Ost-Verbindung - überwiesen
+- TOP 10.3: 15 Jahre demokratische BVV <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ulrich Stahr)</span> - vertagt
+- TOP 10.4: Parkverbot Tankstelle Wendenschlossstraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Tom Schreiber Verfasser 3: Klaus Chinea Correa)</span> - überwiesen
+- TOP 10.5: Buslinie 167 erhalten <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Monika Brännström)</span> - überwiesen
+- TOP 10.6: Haus Natur und Umwelt 2005 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Oliver Igel)</span> - überwiesen
+- TOP 10.7: Wolfgang-Steinitz-Straße - überwiesen
+- TOP 10.8: Fahrrad fahren in Grünanlagen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Christina Lindenberg)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Fußgängerschutz Ortskern Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - überwiesen
+- TOP 10.10: Hochzeitsfeiern im Schloss Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Oliver Igel)</span> - überwiesen
+- TOP 10.11: Neue Benutzerbedingungen für Bibliotheken <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Monika Höppner)</span> - überwiesen
+- TOP 10.12: Bewegung in Kitas <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margret Radebold)</span> - überwiesen
+- TOP 10.13: Wegweiser Rudower Chaussee 4 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Monika Höppner)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Lärmkarte und Aktionsplan zur Lärmminderung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Oliver Igel)</span> - überwiesen
+- TOP 10.15: Erhalt Schmuckurne für Marianne von Schmettau <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Monika Höppner)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Aussetzung der Vollziehbarkeit des Planfestellungsbeschlusses - in der BVV abgelehnt
+- TOP 10.17: Durchsetzung der Einwendungen zum Planfeststellungsbeschluss Flughafen Schönefeld - in der BVV zurückgezogen
+- TOP 10.18: Flughafen Berlin-Brandenburg-International - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.19: Bereitschaftsdienst der Berufsberatung für Treptow-Köpenicker arbeitslose Jugendliche - vertagt
+- TOP 11: Große Anfragen - gegenstandslos
+- TOP 11.1: Rechtsextreme Aktivitäten - vertagt
+- TOP 11.2: Veränderungen im LuV (Amt) Planen und Vermessen - vertagt
