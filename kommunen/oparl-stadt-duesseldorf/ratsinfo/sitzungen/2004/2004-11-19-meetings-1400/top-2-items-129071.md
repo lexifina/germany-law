@@ -1,0 +1,7 @@
+# TOP 2: Anerkennung TO
+
+- Sitzung: Frauenausschuss (bis 09/2009) (2004-11-19)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/129071
+- Ergebnis: einstimmig beschlossen
