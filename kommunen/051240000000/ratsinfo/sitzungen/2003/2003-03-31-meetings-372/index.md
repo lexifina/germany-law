@@ -1,0 +1,87 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2003-03-31T16:00:00+02:00
+- Ende: 2003-03-31T17:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/372
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/372
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00016988.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00017691.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde
+- TOP 2.1: Umsetzung des Gesetzes zur Gleichstellung behinderter Menschen - zurückgestellt
+- TOP 2.2: Anfrage zu einer irrtümlichen Überweisung - abschließend zur Kenntnis genommen
+- TOP 2.3: Mietminderung Kolkmannhaus - abschließend zur Kenntnis genommen
+- TOP 2.4: Anfrage Helios - abschließend zur Kenntnis genommen
+- TOP 2.5: Errichtung der Modulbauten Dependance Gym. Siegesstraße in Ronsdorf - abschließend zur Kenntnis genommen
+- TOP 3: Neue Fraktionsanträge
+- TOP 3.1: Vorsitz Ehrenrat - von der Tagesordnung gesetzt
+- TOP 3.2: Europäische Woche der Mobilität - zur Vorberatung verwiesen
+- TOP 3.3: Geplantes Gewerbegebiet ehemaliger Rangierbahnhof Vohwinkel - von der Tagesordnung gesetzt
+- TOP 3.4: Sozialhilfeempfänger - zur Vorberatung verwiesen
+- TOP 3.5: Cross-Border-Leasing - abgelehnt
+- TOP 3.6: Aufstellung eines Bebauungsplanes für das Grundstück Remscheider Str. 113 und Einleitung eines Ände - ungeändert beschlossen
+- TOP 3.6.1: - Bauleitplanverfahren Nr. 344 -Lüttringhauser Straße - - ungeändert beschlossen
+- TOP 3.6.2: Bebauungsplan Nr. 1061 -Remscheider Straße- - ungeändert beschlossen
+- TOP 3.7: Verbesserung der Bürgerbeteiligung - zur Vorberatung verwiesen
+- TOP 3.8: Koordinierungsstelle für Bauprojekte Wuppertaler Firmen - zur Vorberatung verwiesen
+- TOP 3.9: Entwicklung des ÖPNV - zur Vorberatung verwiesen
+- TOP 3.10: Dringlichkeitsentscheidung gemäß § 60 GO NRW - ungeändert beschlossen
+- TOP 3.10.1: Umgang mit Dringlichkeitsentscheidungen - von der Tagesordnung gesetzt
+- TOP 3.11: Soziale Stadtteilentwicklung - Stadtteilbüros - zur Vorberatung verwiesen
+- TOP 3.12: Externes juristisches Gutachten zum rechtlichen Status der Arkadengänge am Rathaus Barmen - zur Vorberatung verwiesen
+- TOP 3.13: Verbesserung der Betreuung von Schulkindern im Primarbereich - zur Vorberatung verwiesen
+- TOP 3.13.1: Ganztagsgrundschulen in Wuppertal - zur Vorberatung verwiesen
+- TOP 3.13.2: Betreuungsangebot an Wuppertaler Grundschulen - zur Vorberatung verwiesen
+- TOP 3.14: "CITIES FOR PEACE" Wuppertal - Stadt für Frieden - ungeändert beschlossen
+- TOP 4: Fraktionsanträge, die bereits in einem Gremium vorberaten wurden (§ 8 der Geschäftsordnung für den R
+- TOP 4.1: Grünanlage Kolpingstraße - ungeändert beschlossen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: von der Heydt-Museum - von der Tagesordnung gesetzt
+- TOP 4.4: Studium der Gebärdensprache - abgelehnt
+- TOP 4.5: Zusammenarbeit von Schule und Politik - von der Tagesordnung gesetzt
+- TOP 4.6: Bau eines neuen Bades / Standort Am Wunderbau - von der Tagesordnung gesetzt
+- TOP 5: Ortsrecht
+- TOP 5.1: Gebührensatzung Obdachloseneinrichtung - ungeändert beschlossen
+- TOP 5.2: Zusätzliche Ladenöffnungszeiten - ungeändert beschlossen
+- TOP 5.3: Abweichungssatzung für die Schönebecker Straße - ungeändert beschlossen
+- TOP 6: Haushaltsangelegenheiten
+- TOP 7: Angelegenheiten des Beteiligungsmanagements
+- TOP 7.1: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7.2: Beteiligungsbericht der Stadt Wuppertal für das Jahr 2000 - von der Tagesordnung gesetzt
+- TOP 8: Planverfahren
+- TOP 8.1: Bauleitplanverfahren Nr. 892 - ungeändert beschlossen
+- TOP 8.2: Bauleitplanverfahren Nr. 981-südlich Unterdörnen - ungeändert beschlossen
+- TOP 8.3: Bauleitplanverfahren Nr. 1059 - ungeändert beschlossen
+- TOP 8.4: Veränderungssperre im BP 1054 - ungeändert beschlossen
+- TOP 9: Baumaßnahmen
+- TOP 9.1: Neubau der GGS Siegelberg - ungeändert beschlossen
+- TOP 9.2: Erstmalige Herstellung der Thielestraße - ungeändert beschlossen
+- TOP 9.3: Baumaßnahmen an der GGS Rudolfstraße - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Fortschreibung des Abwasserbeseitigungskonzeptes - ungeändert beschlossen
+- TOP 10.2: Umwandlung von Gruppen - ungeändert beschlossen
+- TOP 10.3: Bestellung einer Behindertenbeauftragten - ungeändert beschlossen
+- TOP 10.4: Kreisbeirat für Vertriebene / Flüchtlinge / ... - ungeändert beschlossen
+- TOP 10.5: Vertrag mit dem Kunst- und Museumsverein - ungeändert beschlossen
+- TOP 10.6: Stellungnahme Stadt Wuppertal GPA-Bericht Nr. 3043 - ungeändert beschlossen
+- TOP 10.7: Strategische Steuerung - Zwischenbericht - eingebracht
+- TOP 11: Gremienbesetzung / Benennungen
+- TOP 11.1: Mitgliedschaft im Verwaltungsausschuss des Arbeitsamtes - ungeändert beschlossen
+- TOP 11.2: Entsendung von Delegierten der Stadt Wuppertal in die Verbandsversammlung des Wupperverbandes - ungeändert beschlossen
+- TOP 11.3: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 11.4: Wahl der Beisitzerinnen und Beisitzer des Wahlausschusses für die Kommunalwahl 2004 und des Wahlaus - ungeändert beschlossen
+- TOP 11.5: Gremienumbesetzung - ungeändert beschlossen
+- TOP 11.6: Besetzung von Gremien - ungeändert beschlossen
+- TOP 11.7: Besetzung von Gremien - ungeändert beschlossen
+- TOP 12: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 12.1: NN - Die Behandlung der Drucksache VO/1284/03 erfolgt unter TOP 3.6.1 - von der Tagesordnung gesetzt
+- TOP 12.2: NN - Die Behandlung der Drucksache VO/1302/03 erfolgt unter TOP 3.6.2 - von der Tagesordnung gesetzt
+- TOP 15.3: NN
