@@ -1,0 +1,71 @@
+# 21. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2004-03-03T17:30:00+01:00
+- Ende: 2004-03-03T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=264
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=264
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - im Ausschuss abgelehnt
+- TOP 1.2: Abstimmung über die Tagesordnung - im Ausschuss abgelehnt
+- TOP 1.3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 1.4: Mündliche Anfrage - im Ausschuss abgelehnt
+- TOP 1.4.1: Die kommunale Demokratie ist bürgernah und damit bürgerfreundlich - vertagt
+- TOP 1.5: Bericht des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 1.6: Konsensliste - im Ausschuss abgelehnt
+- TOP 1.7: Wahl eines Mitgliedes des Beirates der Vivantes - Netzwerk für Gesundheit GmbH (gemäß Krankenhausunternehmensgesetz, § 4) - gewählt
+- TOP 1.8: Gläserner Haushalt/Transparenz im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Anbringung von Pollern - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Rauchfreie und Gesunde Schule - auch in Pankow - überwiesen
+- TOP 1.11: Aufgabe der Seniorenbegegnungsstätte Tollerstraße und Überführung der Angebote für Seniorinnen und Senioren in den Jugendklub Tollerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Kosten von B-Planverfahren und die Anwendung des Verursacherprinzips - überwiesen
+- TOP 1.13: Standortkonzept Bibliotheken - mit Änderungen in der BVV beschlossen
+- TOP 1.14: Gibt es Gesundheitsvorsorge auch für SozialhilfeempfängerInnen? - beantwortet
+- TOP 1.15: Entwicklung von Stadtteilzentren - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Sportunterricht der Evangelischen Schule Pankow - überwiesen
+- TOP 1.17: Dezentrale Mieterbetreuung bei der GESOBAU AG erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Fußball-WM 2006 - überwiesen
+- TOP 1.19: Ratskeller in Pankow erhalten! - überwiesen
+- TOP 1.20: Studienarbeiten - mit Änderungen in der BVV beschlossen
+- TOP 1.21: Gen-Food - in der BVV abgelehnt
+- TOP 1.22: Verkehrslösung für Französisch Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.1: Konzeption zur Arbeit des Behindertenbeauftragten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Elektrosmog in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Märkte in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Verkehrskonzept für den Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Der Himmel über Pankow - Klimaschutz vor Ort - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Negativkatalog zur Beschränkung von Sondernutzung von Straßenland - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Drei Botschaften für Aldi - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Girokonten für Sozialhilfeempfangende - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Ergänzung des Fahrradroutennetzes: Von der Linienstraße zum Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Errichtung eines Fußgängerüberweges in der Schwedter Straße, zwischen Gleimstraße und Schwedter Steg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Pankow für Europa - Mitgliedeschaft in der Euregio Pomerania anstreben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Neue Gebührenordnung für Krippen-, Kita- und Hortplätze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Verkehrsberuhigung in der Cantianstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Standort Blankenfelde erhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Bericht zu Blockheizkraftwerken in öffentlich-privater Zusammenarbeit - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Sozialticket - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Gründung der Arbeitsgruppe "Verkehrssicherheit" im Bezirk Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Bebauungsplan XVIII-58-1 für die Grundstücke Lehderstraße 68, 69 im Bezirk Pankow, Ortsteil Weißensee zur Änderung des festgesetzten Bebauungsplanes XVIII-58 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Vorbericht zum Bezirkshaushaltsplan 2004/2005 des Bezirks Pankow hier: 2. Ergänzung gemäß Schreiben der Senatsverwaltung für Finanzen vom 11.02.2004 zu den Auswirkungen des Urteils des Verfassungsgerichtshofs von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: (nichtöffentlich)
+- TOP 2.20.1: (nichtöffentlich)
+- TOP 3: Drucksachen der 20. Tagung - (offen)
+- TOP 3.1: Parkraumbewirtschaftung vor den Bürodienstgebäuden im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.2: Kompetenz im Verkehr für die Bezirke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.3: Spielplatzplanung für den Bezirk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3.4: Energiesparpartnerschaft zwischen dem Bezirk Pankow und Johnson Control - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3.5: Bebauungspläne Antrag - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.6: Fifty-fifty (I.): Bürokratie überwinden - Reibungslose Zusammenarbeit zwischen den Abteilungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3.7: Erhalt der Kleingärten in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3.8: Nutzung der Laufbahn des kleinen Stadions des Jahnsportparks durch Läuferinnen und Läufer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.9: Bebauungsplanentwurf XVIII-24-2 für das Gelände zwischen der öffentlichen Parkanlage am Hofzeichendamm, Ingwäonenweg, Siversdorpstraße, Gatterweg und dem Grundstück Gatterweg 17 im Bezirk Pankow, Ortsteil Karow zur Änderung des Bebauungsplanes XVIII-24, festgesetzt am 5. Januar 1995 (GVBl.S.11) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4: Mitwirkung der Bezirksverordnetenversammlung an Entscheidungen des Liegenschaftsfonds - in der BVV zurückgezogen
