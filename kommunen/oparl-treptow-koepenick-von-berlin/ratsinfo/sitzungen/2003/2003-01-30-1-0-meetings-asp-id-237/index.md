@@ -1,0 +1,61 @@
+# 14. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2003-01-30T16:00:00+01:00
+- Ende: 2003-01-30T21:10:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=237
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=237
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Wahl des Schriftführers - vertagt
+- TOP 8: (vertraulich)
+- TOP 9: Wahl zusätzlicher Bürgerdeputierter - in der BVV zurückgezogen
+- TOP 10: Straßenbaubeitragsgesetz
+- TOP 11: - Entwurf des Bebauungsplans XV-46 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-46 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - überwiesen
+- TOP 12: Begrenzung der Abgas- und Geräuschemissionen motorisierter Wasserfahrzeuge - ohne Änderungen in der BVV beschlossen
+- TOP 13: Schulverweigerer bzw. Schüler mit schuldistanziertem Verhalten
+- TOP 14: Frauenförderplan (FFP 2002) für das Bezirksamt Treptow-Köpenick von Berlin
+- TOP 15: Bebauungsplan XV-19 hier: Planreife für die Grundstücke Rudower Straße 24 bis 30 und Am Kiesberg 5 und 7, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 16: Genehmigung der im 1. Halbjahr 2002 zugelassenen über- und außerplanmäßigen Ausgaben
+- TOP 17: Bebauungsplan XVI-29 hier: Änderung des BA-Beschlusses Nr. 149/93 vom 27. September 1993 (Teilung des Geltungsbereiches)
+- TOP 18: Bebauungsplan XVI-48 hier: Änderung des BA-Beschlusses Nr. 154/93 vom 29. November 1993 (Reduzierung des Geltungsbereiches)
+- TOP 19: Flexible Investitionsplanung
+- TOP 20: Ampelschaltung in Baumschulenweg
+- TOP 21: Investitionsplanung 2003
+- TOP 22: Heidekampgraben
+- TOP 23: Görlitzer Damm
+- TOP 24: Bebauungsplan XVI-21 hier: Erweiterung des Geltungsbereiches, Inhaltliche Planänderungen
+- TOP 25: Bebauungsplan XVI-13 hier: - Auswertung der TÖB - Auswertung der öffentlichen Auslegung sowie der eingeschränkten Betroffenenvertretung - Inhaltliche Änderungen
+- TOP 26: Durchgangsverkehr
+- TOP 27: Rollheimerdorf
+- TOP 28: Konkretisierung und Fortschreibung der Sanierungsziele im Sanierungsgebiet Köpenick Altstadt/Kietz Vorstadt zur Entwicklung des Frauentogs - überwiesen
+- TOP 29: Bebauungsplan XV-46 hier: Planreife für das Grundstück Müngersdorfer Straße / Ewaldstraße 116/122, Ortsteil Altglienicke - überwiesen
+- TOP 30: Bebauungspläne XV-45 und XV-46 hier: Auswertung der erneuten öffentlichen Auslegung der Bebauungspläne XV-45 und XV-46 - überwiesen
+- TOP 31: Lärmschutzgestaltung - überwiesen
+- TOP 32: Bezirkliche Aktivitäten im FEZ - überwiesen
+- TOP 33: Sozialtag 2003 - überwiesen
+- TOP 34: Arbeitskreis Medienpädagogik - in der BVV zurückgezogen
+- TOP 35: 7. Wirtschaftstage in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 36: Verkehrssicherungsmaßnahmen auf dem Fürstenwalder Damm, Höhe Jastrower Weg - überwiesen
+- TOP 37: Verlegung der Bushaltestelle "Späthsfelder Weg" im Königsheideweg - ohne Änderungen in der BVV beschlossen
+- TOP 38: Schulentwicklungsplanung 2002-2006 - notwendige Schließung von Schulen - überwiesen
+- TOP 39: Verkehrssicherungsmaßnahmen Fürstenwalder Damm / Einmündung Müggelseedamm - überwiesen
+- TOP 40: Städtepartnerschaft mit Albinea - mit Änderungen in der BVV beschlossen
+- TOP 41: Europaschule - beantwortet
+- TOP 42: Kölner Modell - beantwortet
+- TOP 43: Soziale Grundsicherung - beantwortet
+- TOP 44: Informationsdefizit über Grundschulangebot - beantwortet
+- TOP 45: Hartz-Konzept
+- TOP 46: Unzulängliche Zustände im Abschiebegewahrsam Grünau - überwiesen
+- TOP 47: Haushaltssperre - ohne Änderungen in der BVV beschlossen
