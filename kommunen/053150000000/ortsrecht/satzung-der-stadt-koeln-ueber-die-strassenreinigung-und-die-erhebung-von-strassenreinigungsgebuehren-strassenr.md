@@ -2,7 +2,7 @@
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
 - Datum: 2005-03-08 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/satzung_über_die_straßenreinigung_und_die_erhebung_von_straßenreinigungsgebühren_Änderungssatzung_2002.pdf
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/satzung_über_die_straßenreinigung_und_die_erhebung_von_straßenreinigungsgebühren_Änderungssatzung_2003.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,8 +10,8 @@
 
 Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -)
 vom 19. Dezember 1994
-in der Fassung der Satzung zur Änderung der Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -) für das Jahr 2002 vom 8. März 2005
-- ABl. StK 1994 S. 1, 1995 S. 1, 1996 S. 511, 1997 S. 529, 1998 S. 497, 1999 S. 613, 2000 S. 527, 2001 S. 589, 2005, S. 114
+in der Fassung der Satzung zur Änderung der Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -) für das Jahr 2003 vom 8. März 2005
+- ABl. StK 1994 S. 1, 1995 S. 1, 1996 S. 511, 1997 S. 529, 1998 S. 497, 1999 S. 613, 2000 S. 527, 2001 S. 589, 2002 S. 575, 2005, S. 115
 Der Rat der Stadt Köln hat in seiner Sitzung vom 13, 12. 1994 aufgrund der §§ 1, 3 und des Gesetzes über die Reinigung öffentlicher Straßen (StrReinG NW) vom 18. Dezember 1975 (SGV NW 2061) in Verbindung mit den §§ 2, 4, 6, 12 und 20 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) vom 21. Oktober 1969 (SGV NW 610) und den §§ 7 und 76 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV NW 2023) - jeweils in der bei Erlaß dieser Satzung geltenden Fassung diese Satzung beschlossen:
 § 1 Allgemeines
 (1) Die Stadt betreibt die Reinigung der öffentlichen Straßen innerhalb der geschlossenen Ortslagen - bei Bundesstraßen, Landstraßen und Kreisstraßen jedoch nur der Ortsdurchfahren als öffentliche Einrichtung. Mit der Erfüllung der Aufgaben nach dieser Satzung hat die Stadt Köln die AWB Abfallwirtschaftsbelriebe Köln GmbH &.Co. KG (im folgenden „AWB" genannt) beauftragt.
@@ -160,17 +160,19 @@ Seite 5 von 8
 Als Straßen in diesem Sinne gelten auch sonstige Straßen, deren besonderer Reinigungsaufwand eine Zuordnung nach den Ziffern 1. bis 3. nicht zulässt.
 
 § 8 Gebührensatz
-(1) Der Gebührensatz für ein Kalenderjahr je Meter der Grundstücksseiten entlang der erschließenden Straße bei wöchentlich einmaliger Reinigung beträgt bei 1. Fahrbahnen 1.1 von Anliegerstraßen 1.1.1 ohne besonderen Reinigungsaufwand 1.1.2 mit besonderem Reinigungsaufwand 1.2 von Hauptstraßen 1.2.1 ohne besonderen Reinigungsaufwand 1.2.2 mit besonderem Reinigungsaufwand
+(1) Der Gebührensatz für ein Kalenderjahr je Meter der Grundstücksseiten entlang der erschließenden Straße bei wöchentlich einmaliger Reinigung beträgt bei
 
-3,06 € 7,48 €
-2,53 € 6,94 €
+1. Fahrbahnen 1.1 von Anliegerstraßen 1.1.1 ohne besonderen Reinigungsaufwand 1.1.2 mit besonderem Reinigungsaufwand 1.2 von Hauptstraßen 1.2.1 ohne besonderen Reinigungsaufwand 1.2.2 mit besonderem Reinigungsaufwand
+
+3,09 € 7,53 €
+2,55 € 7,00 €
 
 Fahrbahnen mit besonderem Reinigungsaufwand sind Fahrbahnen, an denen kein abgegrenzter Gehweg vorhanden ist. Soweit Fahrbahnen von Straßen unter die Ziffern 1.1.2 und 1.2.2 fallen, sind sie in der als Anlage 2 beigefügten Aufstellung genannt. Diese Anlage ist Bestandteil der Satzung.
 
 2. Gehwegen 3. Fußgängergeschäftsstraße 3.1 ohne besonderen Reinigungsaufwand 3.2 mit besonderem Reinigungsaufwand
 
-4,42 €
-9,30 € 11,38 €
+4,45 €
+9,38 € 11,45 €
 
 Soweit Straßen unter die Ziffer 3.2 fallen, sind sie in der als Anlage 3 beigefügten Aufstellung genannt. Diese Anlage ist Bestandteil der Satzung.
 
@@ -178,12 +180,11 @@ Soweit Straßen unter die Ziffer 3.2 fallen, sind sie in der als Anlage 3 beigef
 
 § 9 Gebührenschuldner, Anzeige- und Auskunftspflicht, Betretungsrecht
 (1) Gebührenschuldner/in ist der/die Eigentümer/in des erschlossenen Grundstücks. Mehrere Gebührenschuldner/ innen sind Gesamtschuldner/innen.
-(2) Im Falle eines Eigentumswechsels ist der/die neue Eigentümer/in vom Beginn des Monats an gebührenpflichtig, der dem Monat der Rechtsänderung folgt, es sei denn, daß in dem Rechtsänderungsvertrag etwas anderes geregelt ist. Den Wechsel haben der/die bisherige und der/die neue Eigentümer/in unverzüglich der Stadt anzuzeigen und entsprechend nachzuweisen.
-(3) Die Gebührenschuldner/innen haben alle für die Errechnung der Gebühren erforderlichen Auskünfte zu erteilen und zu dulden, daß Beauftragte der Stadt nach Vorlage eines dienstlichen Ausweises das Grundstück betreten, um
-
+(2) Im Falle eines Eigentumswechsels ist der- neue Eigentümer vom Beginn des Monats an gebührenpflichtig, der dem Monat der Rechtsänderung folgt., Ist im Rechtsänderungsvertrag geregelt, dass der Erwerber die Lasten zu einem früheren Zeitpunkt übernimmt, so ist er ab diesem Zeitpunkt neben dem Eigentümer Gebührenschuldner. Den Wechsel haben der bisherige und der neue Eigentümer unverzüglich der Stadt anzuzeigen und entsprechend nachzuweisen.
+(3) Die Gebührenschuldner/innen haben alle für die Errechnung der Gebühren erforderlichen Auskünfte zu erteilen und zu dulden, dass Beauftragte der Stadt
 Seite 6 von 8
 
-Feststellungen zu treffen, die für die ordnungsgemäße Gebührenerhebung notwendig sind.
+nach Vorlage eines dienstlichen Ausweises das Grundstück betreten, um Feststellungen zu treffen, die für die ordnungsgemäße Gebührenerhebung notwendig sind.
 § 10 Entstehung, Änderung, Fälligkeit und Vorauszahlung der Gebühr
 (1) Die Gebührenpflicht entsteht mit dem 1. des Monats, in dem die satzungsmäßige Reinigung der Straße begonnen wird. Sie erlischt mit dem Ende des Monats, in dem die. satzungsmäßige Reinigung eingestellt wird.
 (2) Ändern sich .die Grundlagen für die Berechnung der Gebühr; so mindert oder erhöht sich die Benutzungsgebühr vom 1. des Monats an, der der Änderung folgt.
@@ -194,5 +195,5 @@ Seite 7 von 8
 Gebührenbescheides zu entrichten. Die Verpflichtung, rückständige Vorauszahlungen schon früher zu entrichten, bleibt unberührt. (8) 1st die nach Abs. 5 geleistete Vorauszählung höher als der nach dem Gebührenbescheid für den Vorauszahlungszeitraum geschuldete Betrag, wird der Unterschiedsbetrag nach Bekanntgabe des Gebührenbescheides durch Aufrechnung oder Zurückzahlung ausgeglichen. (9) Die Absätze 7 und 8 gelten entsprechend, wenn der Gebührenbescheid aufgehoben oder geändert wird.
 § 11 Ordnungswidrigkeiten (1) Unbeschadet der im Bundes- oder. Landesrecht getroffenen Sonderregelungen
 handelt ordnungswidrig, wer vorsätzlich oder fahrlässig dieser Satzung zuwiderhandelt, insbesondere 1. vorgeschriebene oder übernommene Reinigungen nicht' durchführt (§ 2 Abs. l, § 4 Abs. l und 2), 2. belästigende Staubentwicklung .nicht verhindert (§ 4 Abs. 3 Satz 1), 3. Kehricht und sonstige Abfälle nicht ordnungsgemäß entfernt (§ 4 Abs. 3 Satz 2), 4. Schnee nicht ordnungsgemäß entfernt und lagert, sowie Schnee- und Eisglätte nicht ordnungsgemäß bekämpft (§ 5 Abs. 1, §2 Abs. 2 Sätze 1 und 2), 5. die Beendigung der Übernahme der Reinigung nicht anzeigt (g 2 Abs. 3 Satz 4). (1) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 500,-€ geahndet werden.
-§ 12 Inkrafttreten, Außerkrafttreten Diese Satzung tritt rückwirkend zum 1. Januar 2002 in Kraft.
+§ 12 Inkrafttreten, Außerkrafttreten Diese Satzung tritt rückwirkend zum 1. Januar 2003 in Kraft.
 Seite 8 von 8
