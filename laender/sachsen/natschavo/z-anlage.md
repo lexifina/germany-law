@@ -1,7 +1,7 @@
 # Anlage (zu § 2 Abs. 5, § 5 Abs. 1 und 6)
-Katalog der Flächennutzungstypen (A) und Flächenfunktionen (B)
+Katalog der Flächennutzungstypen (A) und Flächenfunktionen (B)]
 Katalog
-Kennung | Beschreibung | Wertzahl
+Kennung | Flächennutzungstypen | Wertzahl
  |  | Wertzahl
 A0: | bebaute oder wasserundurchlässige versiegelte Flächen (etwa Bauwerke, Asphalt- und Betonflächen, Betonbecken, unbegrünte Deponien) | 0,0
 A1: | wasserdurchlässige befestigte oder begrünte Flächen (etwa Schotter-, Pflaster- und Rasengitterflächen, begrünte Deponien, übererdete Tiefgaragen, Rasenansaaten) | 0,1
