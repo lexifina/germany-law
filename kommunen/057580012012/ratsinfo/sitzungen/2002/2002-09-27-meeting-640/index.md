@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Herford
+- Beginn: 2002-09-27T16:00:00+02:00
+- Ende: 2002-09-27T21:15:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZddgZz6wm_wOkz1uifRFHis
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/640
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfnOYemiqbAJhRGEZypzHnC9DJpE_x8uxhIssVZp9amH/Oeffentliche_Niederschrift_Rat_27.09.2002.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sondersitzung des Rates vom 17.07.2002
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: Aufgabenkritik
+- TOP A.4a): Aufgabenkritik; hier: Sachstandsbericht - Zur Kenntnis genommen
+- TOP A.4b): Aufgabenkritik; hier: Satzung zur Reduzierung der zu wählenden Ratsmitglieder - Mit Mehrheit bei 2 Enthaltung(en)
+- TOP A.4c): Aufgabenkritik; hier: Zuschüsse an Organisationen und Förderung sozialer und kultureller Aktivitäten der Ausländer - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.4d): Aufgabenkritik; hier: Alters- und Ehejubiläen - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.4e): Aufgabenkritik; hier: Verzicht auf die Einstellung von Auszubildenden und Anwärtern im Jahr 2003 - Mit Mehrheit bei 3 Enthaltung(en)
+- TOP A.5: Umsetzung des Handlungsprogramms "Wohnungs- und Baulandpolitik" - Zur Kenntnis genommen
+- TOP A.6: Umsetzung des Handlungsprogramms "Quartiersentwicklung Nordstadt" - Einstimmig bei 0 Enthaltung(en)
+- TOP A.7: MKK gGmbH: Sachstandsbericht - Zur Kenntnis genommen
+- TOP A.8: Nutzungs- und Entgeltordnung Stedefreund - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.9: Zweiter Situationsbericht zur Haushaltswirtschaft 2002 - Zur Kenntnis genommen
+- TOP A.10: Quartalsbericht über erteilte Zustimmungen zu über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - Zur Kenntnis genommen
+- TOP A.11: Übernahme einer Ausfallbürgschaft für die Objektgesellschaft Elsbach-Areal GmbH & Co. KG für eine Darlehensaufnahme im Jahr 2002 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.12: Entscheidung über erhebliche außerplanmäßige Mehrausgaben im Verwaltungshaushalt hier: Kosten einer Hundebestandsaufnahme - Einstimmig bei 0 Enthaltung(en)
+- TOP A.13: Zustimmung zu erheblichen außerplanmäßigen Verpflichtungsermächtigungen hier: a) Neuinstallation Wärmeverbundsystem einschl. Wärmedämmungsmaßnahmen Gesamtschule Friedenstal b) Errichtung eines geneigten Flachdachs einschl. Wärmedämmungsmaßnahmen Ernst-Barlach-Schule - Einstimmig bei 0 Enthaltung(en)
+- TOP A.14: 7. Satzung zur Änderung der Satzung der Stadt Herford über die Erhebung von Beiträgen nach § 8 KAG (Kommunalabgabengesetz) für straßenbauliche Maßnahmen vom 13.09.1978 - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.15: FNP-Teiländerung Nr. 2.96 "Windenergieanlagen" hier: weiteres Verfahren - Mit Mehrheit bei 4 Enthaltung(en)
+- TOP A.16: Flächennutzungsplan-Teiländerung Nr. 3.99 "Kirschengarten" hier:Beitritt zur Maßgabe der Genehmigung durch die Bezirksregierung - Einstimmig bei 0 Enthaltung(en)
+- TOP A.17: Bebauungsplan Nr. 6.23c "Rohfeld" - Änderung Nr. 1.01 hier: Satzungsbeschluss - Einstimmig bei 0 Enthaltung(en)
+- TOP A.18: Bebauungsplan Nr. 7.60 "Im Obernholz / Ruddersiek" hier: Satzungsbeschluss - Einstimmig bei 0 Enthaltung(en)
+- TOP A.19: Bebauungsplan Nr. 8.51 "Heidestraße" - Änderung Nr. 1.01 hier: Satzungsbeschluss - Einstimmig bei 0 Enthaltung(en)
+- TOP A.20: Bebauungsplan Nr. 10.34b "Steiler Weg" - Änderung Nr. 1.98 "Vorm Holzschlinge" hier: Satzungsbeschluss - Einstimmig bei 0 Enthaltung(en)
+- TOP A.21: Endgültiger Ausbau des Oetinghauser Weges von Annastraße bis Goltzstraße hier: Ausbauprogramm - Einstimmig bei 0 Enthaltung(en)
+- TOP A.22: Endgültiger Ausbau der Stichstraße Diebrocker Straße 84 / 86 hier: Ausbauprogramm - Einstimmig bei 0 Enthaltung(en)
+- TOP A.23: Minden-Herforder-Verkehrsgesellschaft mbH (MHV GmbH); hier: Genehmigung der dringlichen Entscheidung vom 23.07.2002 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.24: Wohnbau Herford GmbH; hier: Genehmigung der dringlichen Entscheidung vom 28.08.2002 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.25: MKK gGmbH: Genehmigung des Abstimmungsverhaltens des Vertreters der Stadt Herford in der Gesellschafterversammlung der MKK gGmbH - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.26: HVV GmbH; hier: Abstimmungsverhalten des städt. Vertreters in der Gesellschafterversammlung - Einstimmig bei 0 Enthaltung(en)
+- TOP A.27: Stadtgarten-und Schützenhof GmbH; hier: Abstimmungsverhalten des städt. Vertreters in der Gesellschafterversammlung - Einstimmig bei 0 Enthaltung(en)
+- TOP A.28: Abwasserwerk der Stadt Herford; hier: Jahresabschluss 2001
+- TOP A.29: Festlegung der Termine für die Sitzungen des Haupt-und Finanzausschusses sowie des Rates im Jahre 2003 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.30: Umbesetzung von Ausschüssen - Einstimmig bei 0 Enthaltung(en)
+- TOP A.31: Umbesetzungen im Behindertenbeirat der Stadt Herford - Einstimmig bei 0 Enthaltung(en)
+- TOP A.32: Wahl eines neuen ordentlichen Mitgliedes in den Behindertenbeirat der Stadt Herford - Einstimmig bei 0 Enthaltung(en)
+- TOP A.33: Antrag der FDP-Fraktion: Errichtung eines Brunnens auf dem Alten Markt - Mit Mehrheit bei 0 Enthaltung(en)
