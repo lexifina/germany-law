@@ -1,4 +1,4 @@
-# TOP 2.4.: Grundstücksangelegenheiten
+# TOP 2.4.: Übertragung eines Gewerbegrundstückes in Aldenhoven
 
 - Sitzung: Gemeinderat (2001-06-27)
 - Körperschaft: Gemeinde Aldenhoven
