@@ -1,0 +1,79 @@
+# 29. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2004-06-09T17:00:00+02:00
+- Ende: 2004-06-09T19:05:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=625
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=625
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=23349
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Beibehaltung des Anschlusses von Wohnsiedlungen an den ÖPNV in Reinickendorf - in der BVV zurückgezogen
+- TOP 2.2: Busanbindung für Rollbergesiedlung und "Cité Foch" erhalten ! - in der BVV zurückgezogen
+- TOP 2.2.1: Beibehaltung des Anschlusses von Wohnsiedlungen an den ÖPNV in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 2.3: Müllentsorgung in Kitas und Schulen effektivieren - überwiesen
+- TOP 2.4: Verkehrsprojekt Schulzendorfer Straße im Dialog mit den Betroffenen - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - (offen)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Poloplatz jetzt öffnen ! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.2: Krankenhausbeiräte mit Vivantes-Vertretern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Aufnahme des Rundweges und der Zuwegungen zum Rundweg des Poloplatzes in das öffentliche Wege- und Straßenregister - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.4: Poloplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.5: Behindertengerechter Poloplatz - überwiesen
+- TOP 5.6: Öffnung der Kastanienallee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.7: Besetzung der Krankenhausbeiräte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Kulturarbeit in Reinickendorf - überwiesen
+- TOP 5.9: Statistische Regionen - überwiesen
+- TOP 5.10: Teileinziehung Sittestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Natur- und Erlebnispfad am Tegeler Fließ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Folgen der Einsparungen bei der Feuerwehr für die öffentlichen Gebäude im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Parkverbot in der Buddestraße an der Einmündung zum Waidmannsluster Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Rechtswidrige Sondernutzung öffentlichen Straßenlandes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Halteverbotsschild Buddestraße Ecke Waidmannsluster Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.16: Strikte Einhaltung des Nachtflugverbotes am Flughafen Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.17: Entwürfe der Bebauungspläne XX-B 25 a-w "Gartenstadt Frohnau" - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Hartz III und IV und soziokulturelle Projekte im Bezirk - beantwortet
+- TOP 6.2: "Gender Mainstreaming" jetzt umsetzen - vertagt
+- TOP 7: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 7.1: Bebauung der Kolonie am Waldessaum - in der BVV abgelehnt
+- TOP 7.2: Barrierefreiheit für www.reinickendorf.de - erledigt
+- TOP 7.3: Effizienzsteigerung bei der Bearbeitung von Einbürgerungsanträgen - erledigt
+- TOP 7.4: Erste-Hilfe-Maßnahmen bei Herzinfarkten und Schlaganfällen - erledigt
+- TOP 7.5: Hortplätze sichern - ohne Änderungen in der BVV beschlossen
+- TOP 7.6: Frühintervention bei Drogenmissbrauch - erledigt
+- TOP 7.7: Einbau von Rauchmeldern in privaten Neubauten - in der BVV abgelehnt
+- TOP 7.8: Erhalt des Hauptzugangs Oranienburger Straße zur KBoN - erledigt
+- TOP 7.9: Ansprechpartner für Kinderärzte bei Hinweisen auf Kindesmisshandlung - ohne Änderungen in der BVV beschlossen
+- TOP 7.10: Ratten in Wohngebieten - erledigt
+- TOP 7.11: Volkshochschule im Tegel-Center - in der BVV abgelehnt
+- TOP 7.12: Bezirkskasse modernisieren - erledigt
+- TOP 7.13: Gemüsestand am Wilhelmsruher Damm Ecke Dannenwalder Weg - erledigt
+- TOP 7.14: Kein Befahren des Marktplatzes im Märkischen Viertel - erledigt
+- TOP 7.15: Aufhebung des BVV-Beschlusses zur Drs. Nr. 0813/XVII - ohne Änderungen in der BVV beschlossen
+- TOP 8: Ersuchen - (offen)
+- TOP 8.1: Ausstattung des Behindertenfahrstuhls für Sehbehinderte - überwiesen
+- TOP 8.2: Optimierung der Internet-Darstellung des Fontanehauses - überwiesen
+- TOP 8.3: Profildarstellung von Oberschulen - überwiesen
+- TOP 8.4: Eltern-Kind-Zimmer - überwiesen
+- TOP 8.5: Mülltrennung - überwiesen
+- TOP 8.6: Baumaßnahmen an der Schulzendorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Firmenticket für Bezirksamtsmitarbeiterinnen und Bezirksamtsmitarbeiter - überwiesen
+- TOP 8.8: Rauch-/Feuermeldeanlagen in Kitas - überwiesen
+- TOP 8.9: Hinweis auf die Bezirkskasse - ohne Änderungen in der BVV beschlossen
+- TOP 9: Empfehlungen - (offen)
+- TOP 9.1: Zusätzliche Verkehrsberuhigung Auguste-Viktoria-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Verkehrssicherheit auch nach Umbau der Schulzendorfer Straße gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Keine Wasserstraßen-Maut in Reinickendorf - überwiesen
+- TOP 9.4: Busse zu Briefkästen - überwiesen
+- TOP 9.5: Öffnungszeiten der Jugend-Verkehrsschulen - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Gewährleistung der Mobilität von Behinderten durch Einsatz behindertengerechter Taxis - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Zebrastreifen für Fußgänger in der Gorkistraße in Tegel - überwiesen
