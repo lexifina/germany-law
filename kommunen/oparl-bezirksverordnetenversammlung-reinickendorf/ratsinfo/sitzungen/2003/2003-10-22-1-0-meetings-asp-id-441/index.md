@@ -1,0 +1,79 @@
+# 21. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2003-10-22T17:00:00+02:00
+- Ende: 2003-10-22T21:50:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=441
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=441
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=18849
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Legionellenbefall im Paracelsus-Bad - überwiesen
+- TOP 3: Konsensliste - überwiesen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Förderung des naturwissenschaftlichen Unterrichts an Berliner Schulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.2: Keine Dienstbesprechungen an Schulen während der Unterrichtszeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Arbeits- und Sozialamt unter einem Dach - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: "Sendemast-Park" in Lübars verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Offensive für den Mittelstand - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Unterstützung des Konzepts "Arbeits- und Sozialamt unter einem Dach" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Tempo-30-Zone am Hermsdorfer Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Gemeinsame Reitwegemarke in Berlin und Brandenburg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Vorgeschriebene Rechtsabfahrt Robinienweg/B 96 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Vorbereitende Pflegemaßnahmen im Tegeler Fließ vor der Ausweisung als FFH-Fläche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Schützenswerte Tierarten in Reinickendorfs künftigen FFH-Gebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Information über Veränderungen im Krankenhausplan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Kinder- und Jugendkriminalität in Reinickendorf - überwiesen
+- TOP 5.14: Bebauungsplanentwurf 12-6; Bericht über das Ergebnis der Beteiligung der Träger öffentlicher Belange - überwiesen
+- TOP 5.15: Abschlussbericht des Haushaltsausschusses über das Ergebnis der Akteneinsicht "Poloplatz" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Planungen am Tegeler See - beantwortet
+- TOP 6.2: Auswirkungen der sog. Gesundheitsreform auf den Bezirk Reinickendorf - in der BVV zurückgezogen
+- TOP 7: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 7.1: Reinickendorfer Jugendpolitik hat Priorität - Kita-Beköstigung Gesamtaufgabe des Bezirksamtes - erledigt
+- TOP 7.2: "Krieg und Frieden" - ein Wettbewerb für Reinickendorfer Schulen - überwiesen
+- TOP 7.3: Förderung der Jugendkunstschule - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Maßnahmen zum Schutz vor BSE - erledigt
+- TOP 7.5: Pläne zum Havelausbau stoppen - ohne Änderungen in der BVV beschlossen
+- TOP 7.6: Sichere Überquerung - erledigt
+- TOP 7.7: Reitweg - ohne Änderungen in der BVV beschlossen
+- TOP 7.8: Kein landesweiter Kindertagesstätten-Betrieb, sondern eigenverantwortliche Entscheidung der Bezirke - ohne Änderungen in der BVV beschlossen
+- TOP 7.9: Auffahrt zur Bundesfernstraße im Kreuzungsbereich Schulzendorfer Straße - erledigt
+- TOP 7.10: Beseitigung einer Bodenversiegelung - erledigt
+- TOP 7.11: Erhalt der Angebote für Schüler mit sonderpädagogischem Förderbedarf - ohne Änderungen in der BVV beschlossen
+- TOP 7.12: Straßenbenennung für die neue Verbindung zum ABB-Gelände - ohne Änderungen in der BVV beschlossen
+- TOP 7.13: Haushaltsberatungen - erledigt
+- TOP 7.14: Tätigkeit der Verwaltung des Jugendamtes Reinickendorf - mit Änderungen in der BVV beschlossen
+- TOP 7.15: Umsetzung des Tarifvertrages in den Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 7.16: Teileinziehung Sittestraße - überwiesen
+- TOP 7.17: Gemeinde 'Auf dem Weg' Evangelische Freikirche e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 8: Anträge - (offen)
+- TOP 8.1: Änderung der Geschäftsordnung - überwiesen
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: Ausstellung "Gewalt gegen frauen im Alltag" auch in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Partizipation des Behindertenbeirats - überwiesen
+- TOP 9.3: Europäisches Jahr des Sports 2004 - überwiesen
+- TOP 9.4: Arbeitszeitguthaben der Mitarbeiterinnen und Mitarbeiter des Bezirksamtes - überwiesen
+- TOP 9.5: Information über die Erfahrungen mit der Abschaffung der Lernmittelfreiheit - überwiesen
+- TOP 9.6: Verkehrssicherheit im Bezirk: besser zur Schule laufen, als zu fahren. - überwiesen
+- TOP 9.7: Sanierungs- und Instandsetzungsbedarf in Reinickendorfer Schulen - überwiesen
+- TOP 9.8: Förderung kleiner lokaler Initiativen, sog. Kleinstvorhaben/Mikroprojekte - ohne Änderungen in der BVV beschlossen
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: Sicherstellung der fachlichen Qualifikation von Lehrkräften für die 1. Fremdsprache ab Klasse 3 - überwiesen
+- TOP 10.2: Erweiterung der kardiologischen Behandlungsmöglichkeiten im Dominikus-Krankenhaus - überwiesen
+- TOP 10.3: Innovativer Unterricht - überwiesen
+- TOP 10.4: Feuerwache Tegel - überwiesen
+- TOP 10.5: Effizienzsteigerung bei der Bearbeitung von Einbürgerungsanträgen - überwiesen
+- TOP 10.6: Handlauf für dieTreppen an der Balustrade / Ludolfingerplatz - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Keine freie Abgabe von Cannabis - mit Änderungen in der BVV beschlossen
+- TOP 10.8: Wiederaufnahme des Betriebs der Personen-Fähre Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Standort Wiesengrund - überwiesen
+- TOP 11: Anforderungen an künftige Planungen für das Gelände zwischen Greenwichpromenade, Sechser-Brücke und Tegeler Hafen - überwiesen
