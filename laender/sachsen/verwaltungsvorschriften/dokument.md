@@ -1,8 +1,8 @@
-# 01.06.1997 – 31.08.2001
+# 01.01.2002 – 30.08.2006
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 1997-06-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/2805.1
+- Datum: 2002-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/3756.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -10,121 +10,103 @@
 
 I.
 
-Allgemeines
+Kostenerhebung bei der Vollstreckung von Freiheitsstrafen
 
-Der Täter-Opfer-Ausgleich (TOA) dient durch den unmittelbaren Ausgleich zwischen Täter und Opfer dem Rechtsfrieden. Die Maßnahmen des TOA sind Alternativen zu den allgemeinen Strafsanktionen; sie sollen einen Beitrag zur Rückfallvermeidung und zur Kriminalpräventation leisten. Sie dienen dem Schutz des Opfers.
+Die Kosten der Vollstreckung von Freiheitsstrafen und die Voraussetzungen für deren Erhebung bestimmen sich nach § 50 Abs. 1, 2 und 4 des Gesetzes über den Vollzug der Freiheitsstrafe und der freiheitsentziehenden Maßregeln der Besserung und Sicherung (
+Strafvollzugsgesetz
+–
+StVollzG) vom 16. März 1976 (BGBl. I S. 581, 2088, 1977 S. 436), das zuletzt durch Artikel 1 des Gesetzes vom 5. Oktober 2002 (BGBl. I S. 3954) geändert worden ist, in der jeweils geltenden Fassung. Das Staatsministerium der Justiz gibt den nach § 50 Abs. 2 Satz 2
 
-Der TOA kann insbesondere in dem unmittelbaren persönlichen Kontakt zwischen Täter und Opfer und einer vom Täter zu leistenden Schadenswiedergutmachung bestehen. Daneben soll er den Täter zur aktiven Auseinandersetzung mit der Tat und ihren Folgen bewegen und ihm gesellschaftliche Normen und Werte bewußtmachen.
-
-Die rechtlichen Grundlagen des TOA sind in Verfahren gegen Erwachsene Beschuldigte § 153a Abs. 1 Satz 1 Nr. 1 und § 153b Abs. 1
-StPO, in Verfahren gegen jugendliche und heranwachsende Beschuldigte § 10 Abs. 1 Satz 3 Nr. 7, § 45 Abs. 2 und 3
-JGG.
+StVollzG festgestellten Durchschnittsbetrag jeweils gesondert bekannt.
 
 II.
 
-Persönliche und sachliche Voraussetzungen
+Verfahren der Vollstreckungsbehörde
 
-Ein TOA wird insbesondere dann durchgeführt, wenn
+1.
 
-dem Opfer ein regulierungsbedürftiger materieller oder immaterieller Schaden entstanden ist, wobei Opfer auch eine Organisation oder eine Körperschaft sein kann,
+Für den Ansatz der Vollstreckungskosten ist nach § 5 Abs. 1 Satz 2 KostVfg in Verbindung mit § 4 Abs. 2
+GKG die Vollstreckungsbehörde zuständig. Sie teilt der Justizvollzugsanstalt mit, ob der Gefangene über Einkünfte oder Guthaben verfügt, die die Inanspruchnahme ermöglichen.
 
-der Beschuldigte und das Opfer zu einem Ausgleich auf freiwilliger Basis bereit sind und die Form der Wiedergutmachung akzeptieren, wobei bei minderjährigen Beschuldigten oder Opfern die Zustimmung des Sorgeberechtigten erforderlich ist und
+2.
 
-der Beschuldigte die schädigende Handlung einräumt, wobei ein volles Geständnis nicht erforderlich ist.
+Hat der Gefangene Anspruch auf laufende Sozialleistungen (insbesondere Renten) in Geld, vergleiche hierzu §§ 18 ff.
+SGB I, die zur Sicherung des Lebensunterhalts bestimmt sind, leitet die Vollstreckungsbehörde den Anspruch in Höhe der nach § 50 Abs. 2
 
-Der TOA ist nicht durchzuführen, wenn eine folgenlose Einstellung des Verfahrens gemäß § 153 Abs. 1
-StPO oder § 45 Abs. 1
-JGG in Betracht kommt.
+StVollzG
 
-Der TOA darf nicht dazu dienen, unter dem Druck des Ermittlungsverfahrens umstrittene Ansprüche zu regeln.
+zu erstattenden Kosten durch eine schriftliche Anzeige an den zuständigen Leistungsträger nach § 50
+SGB I auf den Justizfiskus über. Die Anzeige bewirkt den Anspruchsübergang nur insoweit, als die Sozialleistung nicht an Unterhaltsberechtigte oder die in § 49 Abs. 2
 
-Vorstrafen oder ein früher durchgeführter TOA schließen eine neue Maßnahme nicht aus.
+SGB I genannten Kinder zu bezahlen ist, der Leistungsberechtigte die Kosten der Vollstreckung zu erstatten hat und die Leistung auf den für die Erstattung maßgebenden Zeitpunkt fällt. Da sich der Übergang auf den Zeitraum beschränkt, für den der Gefangene Vollstreckungskosten zu tragen hat, muß die Überleitung bewirkt werden, sobald erkennbar ist, daß der Gefangene voraussichtlich während eines zusammenhängenden Zeitraums von mehr als einem Monat nicht arbeiten kann. Kann zu diesem Zeitpunkt noch nicht abschließend beurteilt werden, ob Ansprüche unterhaltsberechtigter Verwandter zu befriedigen sind oder die Inanspruchnahme der Einkünfte die Wiedereingliederung des Gefangenen gefährden würde, steht dies der unverzüglichen Überleitung nicht entgegen; die Überleitungsanzeige muß gegebenenfalls nachträglich berichtigt werden.
 
 III.
 
-Anwendungsbereich
+Verfahren der Justizvollzugsanstalt
 
-Für den TOA kommen leichte bis mittelschwere Straftaten in Betracht, insbesondere:
+1.
 
-Hausfriedensbruch (§ 123
-StGB),
+Bei der Aufnahme ist jeder zu einer Freiheitsstrafe Verurteilte darauf hinzuweisen, unter welchen Voraussetzungen und gegebenenfalls in welcher Höhe Vollstreckungskosten zu zahlen sind.
 
-Beleidigung (§§ 185 bis 187a und 189
-StGB),
+Es ist aktenkundig zu machen,
 
-Körperverletzung (§§ 223, 223a und 230
-StGB),
+a)
 
-Bedrohung (§ 241
-StGB),
+ob und gegebenenfalls in welcher Höhe er über Einkünfte verfügt, wie beispielsweise Gehalt, Rente, Mieteinnahmen, die auf die Zeit der Freiheitsentziehung entfallen, und
 
-Sachbeschädigung (§ 303
-StGB),
+b)
 
-Diebstahl und Unterschlagung (§§ 242, 246
-StGB),
+welche Ansprüche unterhaltsberechtigter Angehöriger aus diesen Einkünften zu befriedigen sind.
 
-Betrug (§ 263
-StGB) und sonstige Vermögensdelikte,
+Erlangt die Justizvollzugsanstalt bei der Aufnahme oder später Kenntnis, daß ein Gefangener über Einkünfte verfügt, die der Vollstreckungsbehörde nicht bekannt sind, unterrichtet sie die Vollstreckungsbehörde.
 
-Nötigung (§ 240
-StGB) und in besonders gelagerten Fällen Erpressung (§ 253
-StGB).
+2.
 
-Bei anderen Straftaten ist der TOA nicht ausgeschlossen. Bei Verbrechen soll nur in Ausnahmefällen auf die Durchführung eines TOA hingewirkt werden.
+Verfügt der Gefangene über Einkünfte oder Guthaben und ist es aus der Sicht der Justizvollzugsanstalt nicht erforderlich, im Interesse der Wiedereingliederung des Gefangenen von dessen Inanspruchnahme abzusehen, teilt die Justizvollzugsanstalt der Vollstreckungsbehörde die Umstände mit, die den Ansatz der Vollstreckungskosten rechtfertigen, im übrigen unterbleibt eine Benachrichtigung der Vollstreckungsbehörde.
+
+Über Umstände, die eine eingetretene Zahlungspflicht ändern oder ganz entfallen lassen, unterrichtet die Justizvollzugsanstalt die Vollstreckungsbehörde ebenfalls.
+
+Im einzelnen wird auf folgendes hingewiesen:
+
+a)
+
+Bei schuldhafter Nichtarbeit genügt in der Regel, wenn die Justizvollzugsanstalt die Vollstreckungsbehörde nachträglich, spätestens am Schluß eines jeden halben Jahres nach Beginn der Vollstreckung oder, wenn der Gefangene vorher entlassen wird, bei der Entlassung, über Art und Dauer der schuldhaften Nichtarbeit unterrichtet. Ist von vornherein ersichtlich, daß sich die verschuldete Nichtarbeit wahrscheinlich über einen längeren zusammenhängenden Zeitraum als einen Monat erstrecken wird, unterrichtet die Justizvollzugsanstalt die Vollstreckungsbehörde unverzüglich.
+
+b)
+
+Sobald für die Justizvollzugsanstalt erkennbar ist, daß ein Gefangener, der über Einkünfte verfügt, ohne sein Verschulden während eines zusammenhängenden Zeitraums von mehr als einem Monat nicht arbeiten kann, unterrichtet sie hiervon unverzüglich die Vollstreckungsbehörde.
+
+3.
+
+Bei den Gefangenen, bei denen eine Inanspruchnahme in Betracht kommt, sind die Vollzugspläne mit einem Vermerk zu kennzeichnen, aus dem die Mitteilungspflicht hervorgeht. Ergibt sich bei der Überprüfung eine Veränderung, ist der Vermerk entsprechend anzupassen.
+
+4.
+
+Verfügt der Gefangene über ein Guthaben auf seinem Gefangenengeldkonto, das nicht als Hausgeld oder Überbrückungsgeld in Anspruch genommen wird, ist die Justizvollzugsanstalt berechtigt, den darüber hinaus gehenden Betrag mit den geltend zu machenden Haftkosten aufzurechnen. Die Einnahme ist zu buchen bei Kapitel 06 05, Titel 111 16. Die Höhe des aufgerechneten Betrages teilt die Justizvollzugsanstalt der Vollstreckungsbehörde mit.
 
 IV.
 
-Verfahren
+Erhebung sonstiger Haftkosten
 
-Mit der Vorbereitung und Durchführung des TOA beauftragt die Staatsanwaltschaft die Vermittlungsstelle. Dies ist bei erwachsenen Beschuldigten der Soziale Dienst der Justiz, bei Jugendlichen oder heranwachsenden Beschuldigten die Jugendgerichtshilfe (JGH) des für den Jugendlichen oder Heranwachsenden zuständigen Jugendamts. Das Jugendamt kann einen anerkannten Träger der freien Jugendhilfe mit der Durchführung beauftragen.
+1.
 
-Die Staatsanwaltschaft stellt der Vermittlungsstelle die erforderlichen Unterlagen zur Verfügung. Belange des Datenschutzes für Opfer, Beschuldigte und etwaige Dritte sind von den beteiligten Stellen zu berücksichtigen.
+Die Kosten der Untersuchungshaft und der sonstigen Haft außer Zwangshaft können nach Nummer 9011 des Kostenverzeichnisses, Anlage 1 zu § 11
+GKG, nur verlangt werden, wenn sie nach den für die Freiheitsstrafe geltenden Vorschriften zu erheben wären.
 
-Halten die Polizei oder die JGH einen TOA für angezeigt, führen sie eine Entscheidung der Staatsanwaltschaft über dessen Durchführung herbei.
+2.
 
-Die Vermittlungsstelle nimmt, gegebenenfalls über den von ihr beauftragten Träger der freien Jugendhilfe, unverzüglich Kontakt mit dem Beschuldigten und dem Opfer auf und klärt deren Bereitschaft zur Durchführung des TOA. Nach Abschluss ihrer Tätigkeit berichtet die Vermittlungsstelle der Staatsanwaltschaft schriftlich über die Ausgleichsbemühungen und deren Ergebnis, insbesondere über den Umfang der Entschädigungsleistung. Die Vermittlungsstelle überwacht die Erfüllung der vereinbarten Leistungen. Bei Verzögerungen, spätestens nach drei Monaten, erhält die Staatsanwaltschaft eine Sachstandsmitteilung.
-
-Scheitert der TOA am fehlenden Ausgleichswillen des Geschädigten, obwohl der Beschuldigte sich ernsthaft um einen solchen Ausgleich bemüht hat, ist zu prüfen, ob gleichwohl eine Verfahrenseinstellung nach § 153b Abs. 1
-StPO in Verbindung mit § 46a Nr. 1
-StGB oder § 45 Abs. 2
-JGG in Betracht kommt.
-
-Ein vom Gericht veranlaßter und erfolgreich durchgeführter TOA soll in der Regel Anlaß zur Zustimmung zu einer Verfahrenseinstellung gemäß § 153a Abs. 2, § 153b Abs. 2
-StPO beziehungsweise § 47 Abs. 2
-JGG geben.
-
-Mit der Erteilung des Auftrags zur Durchführung des TOA wird das Verfahren gemäß § 153a Abs. 1 Satz 1 Nr. 1
-StPO (Zählkarte Nummer 14.3 Sp. 18), § 153b Abs. 1
-StPO oder § 45 Abs. 2
-JGG (Zählkarte Nummer 16.8 Sp. 28) vorläufig eingestellt. Soweit erforderlich, ist die Zustimmung des Gerichts einzuholen.
-
-Schlägt der TOA fehl, sind die Ermittlungen wiederaufzunehmen. Entsprechend § 5 Abs. 3 der Zählkartenanordnung wird in diesem Fall ohne Neueintragung des Verfahrens eine neue Zählkarte angelegt. Im Js-Register für Strafsachen und Bußgeldsachen der Staatsanwaltschaft werden die Wiederaufnahme der Ermittlungen und das Datum vermerkt.
-
-Unter den Voraussetzungen des § 40 Abs. 1 des Gesetzes über die Schiedsstellen in den Gemeinden vom 13. September 1990 (GBl. Nr. 61 S. 1527) übergibt der Staatsanwalt die Sache einer gemeindlichen Schiedsstelle.
+Die Kosten einer Zwangshaft werden nach Nummer 9010 des Kostenverzeichnisses, Anlage 1 zu § 11
+GKG, ohne die Einschränkung des § 50 Abs. 1
+StVollzG in Höhe des Haftkostenbeitrages erhoben.
 
 V.
 
 Inkrafttreten
 
-Diese Verwaltungsvorschrift tritt am 1. Juni 1997 in Kraft.
+Diese Verwaltungsvorschrift tritt am 1. Juni 1998 in Kraft.
 
-Dresden, den 17. April 1997
+Dresden, den 26. Mai 1998
 
 Der Staatsminister der Justiz
 
 Steffen Heitmann
-
-Dresden, den 24. April 1997
-
-Der Staatsminister des Innern
-
-Klaus Hardraht
-
-Dresden, den 30. April 1997
-
-Der Staatsminister
-
-für Soziales, Gesundheit und Familie
-
-Dr. Hans Geisler
