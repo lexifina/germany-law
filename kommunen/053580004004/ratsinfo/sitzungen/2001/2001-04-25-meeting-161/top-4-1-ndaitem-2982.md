@@ -1,4 +1,4 @@
-# TOP 4.1.: Anregungen und Beschwerden gem. § 24 Abs. 1 GO NW
+# TOP 4.1.: Antrag der SPD-Fraktion hier: Bau einer Bürgerhalle
 
 - Sitzung: Gemeinderat (2001-04-25)
 - Körperschaft: Gemeinde Aldenhoven
