@@ -1,0 +1,76 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2005-02-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/569321
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/569321
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Einbau eines Aufzuges im S-Bahnhof Berg am Laim, wenn ein neuer Tunnel gebaut wird; BV-Empfehlung Nr.8 vom 09.03.04; Entscheidung
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1: Friedenstraße 10, Opiomolgelände Geb. B, Dachterrasse Club 4
+- TOP 3.1.1: Erhöhung der Verkehrssicherheit an der Kreuzung Berg am Laim Str./Riedgaustr.; Antrag Nr. 2711 vom 20.12.2004; Antwort (zu TOP 3.1.2.4./12/04)
+- TOP 3.1.2: Einrichtung eines Fußgängerübergangs mit Zebrastreifen über die St.-Veit-Straße Höhe Waldstr.; Antrag Nr.2497 vom 28.10.2004; Antwort (zu TOP 3.1.2.3./10/04)
+- TOP 3.1.3: Neumarkt Straße Halteverbot; Verkehrsrechtliche Anordnung, (zu TOP 3.1.2.1./10/04)
+- TOP 3.1.1: Hundekot in öffentlichen Grünflächen; Antrag Nr.2713 vom 21.12.2004; Antwort (zu TOP 3.6.3./12/04)
+- TOP 3.1.2: Übermittlung der Standorte von schulischen Einrichtungen sowie Kindergärten/ an alle Mobilfunkbetreiber und Aufnahme dieser Einrichtungen in die Suchkreismeldungen; Antrag des BA 21
+- TOP 3.1.1: Vergabe von Zuschüssen nur für Veranstalter von Kulturprogrammen in barrierefreien Räumen; Antrag des BA 17
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.1: Neue Form der Feste junger Erwachsener; Anhörung
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.1: Frühkindliche Gesundheitsförderung, Schließung der Mütter/Väterberatungsstellen; Anhörung
+- TOP 3.1.1: Antrag auf Zuschuss aus dem Budget des BA 14; Maibaumverein Berg am Laim e.V.
+- TOP 3.1.2: Antrag auf Zuschuss aus dem Budget des BA 14; Verein pflegebedürftiger Menschen e.V.
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.1: Änderung der BA-Satzung; Anhörung für den Kauf von Grundstücken, Antwort (zu TOP 3.6.2./01/05)
+- TOP 3.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.3: Höhenstadter Str.; Verschmutzung der Grünanlage und nächtliche Ruhestörung; Schreiben der GWG
+- TOP 3.1.4: Heranziehung von ALG II-Empfängern zum Schneeräumen; Antrag von Hr. Dolag
+- TOP 3.1.1: Bad-Kreuther-Str.; Antrag auf Fällung laut Plan
+- TOP 3.1.2: Sonnwendjochstr. 50, Antrag auf Fällung laut Plan
+- TOP 3.1.3: Gratlspitzstr. 33, Antrag auf Fällung laut Plan
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1: Sanierung in München ? ?Klassische Stadtsanierung; Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 16.02.05
+- TOP 4.1.2: Meldeliste der Erstanträge in der Zeit vom 10.01.05 - 30.01.05
+- TOP 4.1.3: Meldeliste der Änderungen in der Zeit vom 10.01.05 - 06.02.05
+- TOP 4.1.4: Meldeliste der Abbrüche in der Zeit vom 10.01.05 - 06.02.05
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.1: Raumvorgaben und tatsächlich vorhandene Räumlichkeiten an der Förderschule Innsbrucker Ring
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.1: Antrag auf Budget des BA 14 des Elternbeirates der Ludwig-Thoma-Realschule ? Bescheid
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.1: Ablauf von Bürgerversammlungen, Keine Kommentierung der Anträge durch die Versammlungsleitung unmittelbar vor der Abstimmung; Beschlussvorlage
+- TOP 4.1.2: Richtlinien für Veranstaltungen auf öffentlichen Straßengrund; Beschlussvorlage
+- TOP 4.1.3: Zweckentfremdung von Wohnraum; Halfingerstr. 33 Abbruch: 110m² bzw. 1 WE; geplanter Neubau: 373m² bzw. 3 WE
+- TOP 4.1.4: Finanzplan 2004-2008
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
