@@ -1,8 +1,8 @@
 # (3) Die Außengrenzen des Schutzgebietes sind in einer Übersichtskarte
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2001-01-05 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/15178.1
+- Datum: 2001-11-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/15178.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -234,6 +234,11 @@ für behördlich angeordnete oder zugelassene Beschilderungen;
 8.
 
 für die von der Naturschutzbehörde angeordneten oder genehmigten Wegemarkierungen.
+
+§ 5a
+
+Die in § 5 festgelegten Verbote, Gebote und Maßgaben für die land-, forst- und fischereiwirtschaftliche Bodennutzung gelten nicht, solange und soweit sich der Nutzungsberechtigte durch schriftliche Vereinbarung mit der Naturschutzbehörde oder im Einvernehmen mit der Naturschutzbehörde zur Einhaltung der dort ausgesprochenen Vorgaben verpflichtet hat.
+1
 
 § 6
 
