@@ -1,1 +1,1 @@
-# Verordnung zur Regelung des Aufnahmeverfahrens in beruflichen Vollzeitbildungsgängen im Lande Bremen vom 20. Februar 1996
+# Verordnung zur Regelung des Aufnahmeverfahrens in beruflichen Vollzeitbildungsgängen im Lande Bremen vom 22. Dezember 2004
