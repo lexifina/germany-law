@@ -1,4 +1,4 @@
-# TOP 3.2.: Schulangelegenheiten
+# TOP 3.2.: Raumsituation zum Schuljahr 2001/2002 an der GGS Aldenhoven, Schwanenstraße- Auslagerung von einem Klassenraum im neuen Grundschulgebäude Schwanenstraße -
 
 - Sitzung: Schul- und Sozialausschuss (2001-05-10)
 - Körperschaft: Gemeinde Aldenhoven
