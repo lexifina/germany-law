@@ -1,0 +1,108 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2003-12-15T16:00:00+01:00
+- Ende: 2003-12-15T19:22:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1492
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1492
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung (Stand 12.12.2003 - 12.00 Uhr) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00028850.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00029174.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00028993.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (Rat)
+- TOP 2.1: Stiftungen in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.2: Ein neuer Aufbruch - Regionale Zusammenarbeit stärken! - abschließend zur Kenntnis genommen
+- TOP 2.3: Entwicklung und Auswirkungen der geänderten Vergnügungssteuersatzung - abschließend zur Kenntnis genommen
+- TOP 2.4: Folgen der Einführung des sog. Wasserentnahmeentgeltes für Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.5: Gesetzesfolgenabschätzung Gesundheitsreform - abschließend zur Kenntnis genommen
+- TOP 2.6: Personelle Entwicklung der Freiwilligen Feuerwehren in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.7: Zur Drucksache VO/2323/03, Tunnel Alter Markt - vertagen
+- TOP 2.8: Starenkästen - vertagen
+- TOP 2.9: Ansiedlung eines Möbelmarktes an der Parkstraße - abschließend zur Kenntnis genommen
+- TOP 2.10: Dringlichkeitsanfrage Verkauf von GWG-Wohnungen - abschließend zur Kenntnis genommen
+- TOP 2.11: Auswirkungen der Ergebnisse des Vermittlungsausschusses von Bundestag und Bundesrat auf die Stadt - abschließend zur Kenntnis genommen
+- TOP 3: Neue Fraktionsanträge
+- TOP 3.1: Kürzungen im Landesjugendplan - ungeändert beschlossen
+- TOP 3.2: - Gestrichen -
+- TOP 3.3: Antrag zur Rückführung des städtischen Gesundheitsamtes - abgelehnt
+- TOP 3.4: Antrag zu den Verlusten der WSW AG und der Nachschusspflicht der Stadt - Nichtbefassung beschlossen
+- TOP 3.5: Genehmigung von Volksfesten durch die Stadtverwaltung - zur Vorberatung verwiesen
+- TOP 3.6: Wuppertal wird Hauptstadt der Spaßgesellschaft - Nichtbefassung beschlossen
+- TOP 3.7: Bewerbung der Stadt Wuppertal an dem Projekt "Young Democracy" der Bertelsmann-Stiftung - zur Vorberatung verwiesen
+- TOP 4: Fraktionsanträge, die bereits in einem Gremium vorberaten wurden (§ 8 der Geschäftsordnung für den R
+- TOP 4.1: - Gestrichen -
+- TOP 4.2: Planung von Gewerbegebieten in Wuppertal gezielt vorantreiben - geändert beschlossen
+- TOP 4.2.1: Änderungs- und Ergänzungsantrag zur Dr.sache VO/1805/03 - ungeändert beschlossen
+- TOP 4.3: - Gestrichen -
+- TOP 4.4: - Gestrichen -
+- TOP 4.5: - Gestrichen -
+- TOP 4.6: Treppen der Stadt Wuppertal - abgelehnt
+- TOP 4.7: Nutzung der ehem. Stadiongaststätte durch Stadtsportbund und Stadtbetrieb Sport und Bäder - in der Sache erledigt
+- TOP 5: Ortsrecht
+- TOP 5.1: 2. Abweichungssatzung Schluchtstraße - ungeändert beschlossen
+- TOP 5.2: 2. Abweichungssatzung Schönebecker Straße - ungeändert beschlossen
+- TOP 5.3: - Gestrichen -
+- TOP 5.4: Entgeltordnung für das Historische Zentrum - ungeändert beschlossen
+- TOP 5.5: Gebührensatzung der Abfallwirtschaft für das Jahr 2004 - ungeändert beschlossen
+- TOP 5.5.1: - Gestrichen -
+- TOP 5.6: Denkmalbereichsatzung für das Zoo-Viertel in Wuppertal - ungeändert beschlossen
+- TOP 5.7: Änderung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz - ungeändert beschlossen
+- TOP 5.8: Änderung der Satzung - ungeändert beschlossen
+- TOP 5.9: Sanierungssatzung Barmer Innenstadt - ungeändert beschlossen
+- TOP 5.10: Abfallwirtschaftssatzung - ungeändert beschlossen
+- TOP 5.11: 6. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungs - ungeändert beschlossen
+- TOP 5.11.1: Wirtschaftsführung des Eigenbetriebes ESW für das Jahr 2004 - ungeändert beschlossen
+- TOP 5.11.2: 6. Satzung zur Änderung der Satzung über die Straßenreinigung - ungeändert beschlossen
+- TOP 5.11.3: Änderungsantrag zur Verwaltungs-Drs. VO/2331/03 - 1. Ergänzung - zur Vorberatung verwiesen
+- TOP 6: Haushaltsangelegenheiten
+- TOP 7: Angelegenheiten des Beteiligungsmanagements
+- TOP 7.1: Jahresabschluss 2002 für die Alten- und Altenpflegeheime der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2004 - ungeändert beschlossen
+- TOP 7.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2004 - ungeändert beschlossen
+- TOP 7.4: Wirtschaftsplan KIJU 2004 - ungeändert beschlossen
+- TOP 7.5: Abschluss des Eigenbetriebes Entsorungs- und Straßenreinigung Wuppertal für das Geschäftsjahr 2002 - ungeändert beschlossen
+- TOP 7.6: Jahresabschluss der Stadtsparkasse Wuppertal für das Geschäftsjahr 2002 - ungeändert beschlossen
+- TOP 7.7: Gesellschafterversammlung der Deutsche Städte Medien GmbH (DSM) am 07.11.2003 - ungeändert beschlossen
+- TOP 8: Planverfahren
+- TOP 8.1: Bauleitplanverfahren Nr. 1064 - Briller Str. / Nordbahn - - ungeändert beschlossen
+- TOP 8.2: Bebauungsplan Nr. 1065 - Steinbecker Meile - - ungeändert beschlossen
+- TOP 8.3: 1. Verlängerung einer Veränderungssperre BP 1054 - Werther Hof / Lindenstraße - - ungeändert beschlossen
+- TOP 8.4: Anordnung einer Veränderungssperre im BP 344 - Lüttringhauser Straße - - geändert beschlossen
+- TOP 9: Baumaßnahmen
+- TOP 9.1: Neubau einer Fahrzeughalle und Anbau für die Freiwillige Feuerwehr Walbrecken - ungeändert beschlossen
+- TOP 9.2: Ausbau DB Kursbuchstrecke 458 / Regionalbahn 47 "Der Müngstener" - ungeändert beschlossen
+- TOP 9.3: Sanierung der Deponie Eskesberg West - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: - Gestrichen -
+- TOP 10.2: Offene Ganztagsgrundschule im Primarbereich - geändert beschlossen
+- TOP 10.2.1: OGS - Offene Ganztagsgrundschule - ungeändert beschlossen
+- TOP 10.3: - Gestrichen -
+- TOP 10.4: Schulentwicklungsplanung im Stadtbezirk Ronsdorf
+- TOP 10.4.1: Schulentwicklungsplanung im Stadtbezirk Ronsdorf - in der Sache erledigt
+- TOP 10.5: Einrichtung eines Beirates für die Stiftung Sozialfonds Wuppertal - ungeändert beschlossen
+- TOP 10.6: Mietspiegel 2004 - Stellungnahme ist als Anlage neu eingestellt - - ungeändert beschlossen
+- TOP 10.7: Stadtfest 75 Jahre Wuppertal " Wir sitzen alle an einem Tisch" - ungeändert beschlossen
+- TOP 10.8: Interkommunale Zusammenarbeit der Feuerwehren Solingen und Wuppertal; - geändert beschlossen
+- TOP 10.9: Restitution von Kunstgegenständen - geändert beschlossen
+- TOP 10.9.1: Antrag zur Rückgabe der Bilder - in der Sache erledigt
+- TOP 10.10: Beschluss über die Jahresrechnung 2002 und Entscheidung über die Entlastung des Oberbürgermeisters - ungeändert beschlossen
+- TOP 10.11: Grundschule Siegelberg
+- TOP 10.11.1: Neubau Gemeinschaftsgrundschule Beyenburg - in der Sache erledigt
+- TOP 10.11.2: Neubau einer Grundschule für Beyenburg - in der Sache erledigt
+- TOP 10.11.3: Neubau Grundschule Siegelberg - ungeändert beschlossen
+- TOP 11: Gremienbesetzung / Benennungen
+- TOP 11.1: Benennung städtischer Vertreter für die Planungsgemeinschaft Circle Line - ungeändert beschlossen
+- TOP 11.2: Wahl eines sachkundigen Einwohners für den Ausschuss Soziales und Gesundheit - ungeändert beschlossen
+- TOP 11.3: Wiederbesetzung der Position eines sachkundigen Einwohners im Sportausschuss
+- TOP 11.4: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 11.5: Gremienbesetzung / Benennung - geändert beschlossen
+- TOP 11.6: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 14.1: Wird unter TOP 2.4 behandelt.
+- TOP 15.2: Wird unter TOP 5.11.1 behandelt.
