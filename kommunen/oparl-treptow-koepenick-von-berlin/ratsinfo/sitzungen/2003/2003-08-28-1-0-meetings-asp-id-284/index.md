@@ -1,0 +1,78 @@
+# 19. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2003-08-28T16:00:00+02:00
+- Ende: 2003-08-28T22:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=284
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=284
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_19 und V_20 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Herausragender Lenin - ohne Änderungen in der BVV beschlossen
+- TOP 8: Änderung der Geschäftsordnung - in der BVV abgelehnt
+- TOP 9: Einhaltung der Zielvereinbarung zwischen Bezirksamt Treptow-Köpenick und Sozialamt vom 06.07.2001 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Entgeltverordnung der Volkshochschulen - vertagt
+- TOP 11: Sportfördermittel - in der BVV abgelehnt
+- TOP 12: Gesunde Städte Netzwerk - schriftlich beantwortet
+- TOP 13: Spreepark - schriftlich beantwortet
+- TOP 14: Arbeitsstand Hortbetreuung der Lernanfänger für das Schuljahr 2003/2004 - schriftlich beantwortet
+- TOP 15: Entwurf Verwaltungsvorschrift Prüfdienste - schriftlich beantwortet
+- TOP 16: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2004 und 2005 - überwiesen
+- TOP 17: Bebauungsplanentwurf XVI-6 im Ortsteil Müggelheim - Zustimmungsverfahren nach § 125 Abs. 2 BauGB für die Herstellung einer Erschließungsanlage gemäß § 127 Abs. 2 BauGB im Geltungsbereich eines Bebauungsplanentwurfes vor Festsetzung des Bebauungsplans - überwiesen
+- TOP 18: Sondermittel für IG Dörpfeldstraße e.V. (SM 334) - im Ältestenrat zurückgezogen
+- TOP 19: Sondermittel für Juwel e.V. (SM 338) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 20: Sondermittel für Kunstfabrik Köpenick GmbH (SM 341) - ohne Änderungen in der BVV beschlossen
+- TOP 21: Sondermittel für Förderverein für Montessori-Pädagogik in Friedrichshagen e.V. (SM 342) - im Ältestenrat zurückgezogen
+- TOP 22: Sondermittel für Gemischter Seniorenchor "Intermezzo" (SM 347) - ohne Änderungen in der BVV beschlossen
+- TOP 23: Sondermittel für Selbsthilfegruppe Gymnastik (SM 348) - ohne Änderungen in der BVV beschlossen
+- TOP 24: Mehr Rechte für Einwohnerinnen und Einwohner im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 25: Mehr Rechte für die Bezirke in Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 26: Verkehrskonzept mit Inbetriebnahme der A113 neu
+- TOP 27: Bebauungsplanentwurf XV-30, Ortsteil Alt-Treptow - Inhaltliche Planänderungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 28: Tempo 70 auf dem Müggelheimer Damm - in der BVV zurückgezogen
+- TOP 29: Bebauungsplanentwurf XV-25, Ortsteil Altglienicke - Inhaltliche Planänderungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 30: Umgestaltung des Platzes 23. April
+- TOP 31: Einladung eines ehemaligen Zwangsarbeiters
+- TOP 32: Europaweiter Autofreier Tag - ohne Änderungen in der BVV beschlossen
+- TOP 33: Senkung von Fernsprechgebühren - ohne Änderungen in der BVV beschlossen
+- TOP 34: - Entwurf des Bebauungsplans XVI-13 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XVI-13 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 35: Bebauungsplan 9-1 hier: - Reduzierung des Geltungsbereiches - Auswertung der frühzeitigen Bürgerbeteiligung - Auswertung der TÖB
+- TOP 36: Bebauungsplan XVI-17, hier: Inhaltliche Planänderungen
+- TOP 37: Einleitung des Planaufstellungsverfahrens zum Bebauungsplan XV-12-1 zur teilweisen Änderung des Bebauungsplans XV-12 für die Grundstücke Bouchéstraße 71-75 und Wildenbruchstraße 53-55 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - überwiesen
+- TOP 38: Bebauungsplanentwurf XV-64a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Niederschöneweide hier: Planreife für das Grundstück Schnellerstraße 20 E und G im Bezirk Treptow-Köpenick, Ortsteil Niederschöneweide - überwiesen
+- TOP 39: Leitlinien für die Seniorenpolitik im Bezirk Treptow-Köpenick - überwiesen
+- TOP 40: Bebauungsplan XV-36 hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 41: Einstellung des Landschaftsplanverfahrens der Landschaftspläne XV-L-1 a, b und c im Bezirk Treptow-Köpenick, Ortsteil Altglienicke - überwiesen
+- TOP 42: Gesamtkonzeption für das Gebiet Müggelsee - Langer See - Dämeritzsee Untersuchung der Entwicklungsmöglichkeiten für Naherholung und Tourismus - überwiesen
+- TOP 43: Produktorientierte Darstellung des Haushaltsplanes 2004 - überwiesen
+- TOP 44: Bebauungsplan XV-46 hier: Planreife für das Grundstück Ewaldstraße 112, Ortsteil Altglienicke - überwiesen
+- TOP 45: Bürgerbeteiligung - überwiesen
+- TOP 46: Lärmminderungsplan Altstadt Köpenick - mit Änderungen in der BVV beschlossen
+- TOP 47: Fürstenwalder Damm (I) - ohne Änderungen in der BVV beschlossen
+- TOP 48: Dieselabgase - überwiesen
+- TOP 49: Missbilligung - vertagt
+- TOP 50: Wappen für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 51: Ausweichquartier für Kita Griechische Allee - ohne Änderungen in der BVV beschlossen
+- TOP 52: Fürstenwalder Damm (II) - ohne Änderungen in der BVV beschlossen
+- TOP 53: Friedhofsvandalismus eindämmen - überwiesen
+- TOP 54: Treppenabgang Baumgarteninsel - ohne Änderungen in der BVV beschlossen
+- TOP 55: Rückgabe Ausstellungsstücke des Köpenicker Schlosses - überwiesen
+- TOP 56: Straßenbenennungen nach Beteiligten des 17. Juni - überwiesen
+- TOP 57: DDR-Unrechtsregime als Mahnung - überwiesen
+- TOP 58: Altstadtförderung statt Altstadtmanager - überwiesen
+- TOP 59: Denkmal für die Opfer politischer Gewalt - vertagt
+- TOP 60: Integration der ausländischen Mitbürger - vertagt
+- TOP 61: Sonderprogramme für Arbeitsplätze - aktive Arbeitsmarktpolitik auch im Bezirk Treptow-Köpenick - vertagt
+- TOP 62: Ausbildungssituation im Land Berlin - vertagt
+- TOP 63: Vorschlagswesen - vertagt
+- TOP 64: Verordnung über den Erlass der Veränderungssperre XV-27/13 für das Grundstück Schönefelder Chaussee 58 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke
