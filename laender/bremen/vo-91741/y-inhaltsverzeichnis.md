@@ -2,11 +2,11 @@
 Inhaltsübersicht
 Teil I: Ausbildung
 § 1 | Aufgabe und Ziel
-§ 2 | Allgemeine Unterrichtsgrundsätze
+§ 2 | Unterrichtsgrundsätze
 § 3 | Dauer und Organisation der Ausbildung
-§ 4 | Unterrichtsfächer, Stundentafeln und Lehrpläne
+§ 4 | Unterrichtsfächer und Stundentafeln
 § 5 | Voraussetzungen für die Zulassung zur Ausbildung
-§ 6 | Zulassungsverfahren für Ausländer und Aussiedler
+§ 6 | Zulassungsverfahren für Bewerber nicht deutscher Herkunftssprache
 § 7 | Zulassung
 Teil II: Prüfung
 1. Kapitel: Allgemeine Bestimmungen
@@ -16,6 +16,7 @@ Teil II: Prüfung
 § 11 | Teilprüfungen im fachrichtungsbezogenen kaufmännischen Lernbereich
 § 12 | Prüfungsausschüsse und Teilprüfungsausschüsse
 § 13 | Ort und Termine der Teilprüfung, Belehrung
+§ 13a | Berücksichtigung besonderer Belange Behinderter
 § 14 | Noten
 § 15 | Täuschung und Behinderung
 § 16 | Versäumnis
