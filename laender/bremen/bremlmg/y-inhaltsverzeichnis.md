@@ -24,6 +24,7 @@ Abschnitt 4 Anforderungen an Rundfunkprogramme
 § 17 | Programmauftrag
 § 18 | Vielfalt
 § 19 | Programmgrundsätze
+§ 19a | Werbung, Sponsoring, Teleshopping
 Abschnitt 5 Pflichten der Veranstalter
 § 20 | Verantwortlichkeit
 § 21 | Eingabe- und Beschwerderecht, Auskunftspflicht
