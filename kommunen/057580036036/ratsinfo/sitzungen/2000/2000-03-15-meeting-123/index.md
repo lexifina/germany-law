@@ -1,0 +1,56 @@
+# Rat der Stadt Vlotho
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 2000-03-15T17:00:00+01:00
+- Ende: 2000-03-15T21:00:00+01:00
+- Ort: Rathaus, Lange Str. 60, 32602 Vlotho, Sitzungssaal
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQ-hpbNtZGqCnZHK0Xkr6vc
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/123
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZco8rLRIhDA7Xynm62mV00Fg38FTh6gSJQHn873XH89C/Oeffentliche_Niederschrift_Rat_15.03.2000.pdf
+
+## Tagesordnung
+
+- TOP 1.: Preisverleihung Umweltschutzpreis "Klima 2000"
+- TOP 2.: Niederschrift über die Sitzung vom -nichtöffentlicher Teil-
+- TOP 3.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 3.1.: Genehmigung einer dringlichen Entscheidung nach § 60 Abs. 1 GO NW zur Leistung von außerplanmäßigen sowie überplanmäßigen Haushaltsausgaben - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 5.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 6.: Angelegenheiten des Kurzweckverbandes (Berichte und Beschlussfassungen)
+- TOP 7.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 7.1.: Maßnahmen zur Reduzierung und Verlangsamung des Verkehrs in der Maasbeeker Straße - Einstimmig, 0 Enthaltung(en)
+- TOP 7.2.: Errichtung eines Kreisels an der Einmündung Neue Landstraße auf die Herforder Straße - Einstimmig, 3 Enthaltung(en)
+- TOP 7.3.: Tempo 30 für die Straße "Im Kalbersiek" - 31 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 7.4.: Neufassung der Hundesteuersatzung -  
+- TOP 7.5.: Verbesserung des ÖPNV-Angebotes für den Westteil der Innenstadt - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Zielvereinbarungen zwischen Rat und Verwaltung
+- TOP 9.: S t e l l e n p l a n 2000
+- TOP 9.1.: Haushaltssatzung / Haushaltsplan der Stadt Vlotho für das Haushaltsjahr 2000
+- TOP 10.: Neufassung der Hundesteuersatzung - 31 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11.: ÖPNV - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Bestellung des stellvertretenden Wehrführers - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Vorbereitung der Wahl der Schöffen für die Amtszeit vom 01. Januar 2001 bis 31. Dezember 2004 - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: 12. Änderung des Flächennutzungsplanes hier: Bereiche Im Witthausfeld/Feldweg/Am Heilen Berge (OT Valdorf) und Clara-Schumann-Straße/Mozartstraße (OT Uffeln) sowie Rosenburg im OT Uffeln - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Gewässer- und Straßenausbau für den Bereich der Höltkebruchstraße zwischen Fußweg Dr.-Großmann-Straße und Einmündung Kaitenweg - Abgesetzt
+- TOP 16.: 4. Änderung des Bebauungsplanes Nr. U 2 "Gebiet zwischen Mindener Straße und Höferweg"; hier: Aufstellungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: Generalinstandsetzung der Grundschule -Uffeln, Buhnstraße- - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Generalinstandsetzung der Grundschule Vlotho - Schulteil Bonneberger Straße 25 - hier: Außenanlagen - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Anträge gemäß § 3 der GeschO
+- TOP 19.1.: V/053 Massnahmen im Zusammenhang mit der Übernahem eines Teilstückes der derzeitigen Autobahn-Anschlußstelle Vlotho-Exter
+- TOP 19.2.: V/067 Berücksichtiguung von energiesparenden und umweltgerechten Maßnahmen in der Gebäudetechnik bei städtischen Vorhaben
+- TOP 19.3.: Vorbereitung und Durchführung einer Gewerbe- und Wirtschaftsschau der Vlothoer Unternehmen - Einstimmig, 0 Enthaltung(en)
+- TOP 19.4.: Einrichtung einer Postagentur im Ortsteil Uffeln - Einstimmig, 0 Enthaltung(en)
+- TOP 19.5.: Runder Tisch Abfallentsorgung Siedlung Drosselstraße - Einstimmig, 0 Enthaltung(en)
+- TOP 19.6.: Errichtung eines Kreisels an der Kreuzung ehemaliger Sonntagskrug - Einstimmig, 1 Enthaltung(en)
+- TOP 19.7.: Zukunft des Unternehmen EMR - 31 Ja-Stimme(n), 1 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 19.8.: Personelle Unterbesetzung des Fachbereiches IV - Besetzung der freien Ingenieurstelle - Einstimmig, 0 Enthaltung(en)
+- TOP 19.9.: Büroräume für die Verwaltung der Fa. Dico - Zur Kenntnis genommen
+- TOP 19.10.: Widerrechtliche Nutzung des Parkplatzes am Waldfreibad Valdorf - Einstimmig, 0 Enthaltung(en)
+- TOP 19.11.: Öffentliche Ausschreibung des Schülerspezialverkehrs - Einstimmig, 0 Enthaltung(en)
+- TOP 20.: Anfragen nach § 18 der Geschäftsordnung und Mitteilungen
+- TOP 21.: Niederschrift über die Sitzung vom - nichtöffentlicher Teil -
+- TOP 23.: Angelegenheiten des Kurzweckverbandes (Berichte und Beschlussfassungen)
+- TOP 29.: Wahl der Schöffen für die Amtszeit vom 01. Januar 2001 bis 31. Dezember 2004 - Einstimmig, 2 Enthaltung(en)
