@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2003-10-14 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/vereinbarung_tierseuchen_2003
+- Datum: 2003-12-03 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/archivordnung_1992
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -26,489 +26,82 @@ A |
 |
 
 Aktuelle Fassung
+Änderungshistorie
 
-Bekanntmachung über das In-Kraft-Treten der Vereinbarung über die Einrichtung einer „Task Force Tierseuchenbekämpfung“
+Archivordnung für die Kataster- und Vermessungsämter des Landes Brandenburg
 
-vom 14. Oktober 2003
+vom 9. Januar 1992
 
-(ABl./03, [Nr. 45], S.1018)
+(ABl./92, [Nr. 8], S.142)
 
-Die am 28. Juli 2003 letztunterzeichnete Vereinbarung über die Einrichtung einer „Task Force Tierseuchenbekämpfung“ ist nach ihrem § 9 am 28. Juli 2003 in Kraft getreten. Die Vereinbarung wird nachstehend veröffentlicht.
+geändert durch Erlass zur Gebrauchs- und Sicherungsverfilmung durch die LGB vom 3. Dezember 2003
 
-Potsdam, den 14. Oktober 2003
+(ABl./20, [Nr. 47], S.1141)
 
-Der Ministerpräsident
+1. Räumlichkeiten
 
-Matthias Platzeck
+1.1 Das Archivgut der Kataster- und Vermessungsämter ist in Räumen unterzubringen, die hinreichend gesichert sind und für den Geschäftsverkehr geeignet liegen.
 
-Vereinbarung über die Einrichtung einer „Task Force Tierseuchenbekämpfung“
+1.2 Die Archivräume müssen so beschaffen sein, daß die dort gelagerten Dokumente gegen Staub, Feuchtigkeit, Hitze oder sonstige nachteilige Einflüsse geschützt sind. Sofern in diesen Räumen gleichzeitig Arbeitsplätze bestehen, sind die gesetzlichen Regelungen über Arbeitsstätten (Arbeitsstättenverordnung - ArbStättV - vom 20.03.1975 (BGBl. I S. 729) zu beachten.
 
-vom 28. Juli 2003
+1.3 Die Archivräume sind so einzurichten und auszustatten, daß ihr Gebrauch bei Beachtung wirtschaftlicher Grundsätze den geringsten Aufwand an Zeit und Arbeit erfordert.
 
-Zwischen
+1.4 Akten sowie Bücher sind in Regalen, Karten in dafür geeigneten Schränken unterzubringen.
 
-der Bundesrepublik Deutschland
+1.5 Originalunterlagen dürfen ohne Zustimmung der Aufsichtsbehörde nicht aus den Räumen der Katasterbehörde herausgegeben werden.
 
-vertreten durch das
+2. Ablage und Ordnung der Vermessungsrisse
 
-Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft
+2.1 Die Vermessungsrisse (Fortführungsrisse, Handrisse etc.) sind nach Gemarkungen getrennt, flurweise in der Reihenfolge ihrer Übername in das Liegenschaftskataster in Stehordnern aufzubewahren.
 
-Rochusstraße 1, 53123 Bonn
+2.2 Ältere Vermessungsrisse, bei denen sich durch Umgemarkung bzw. Umflurung die Ordnungsmerkmale geändert haben, bleiben in der Gemarkung und Flur abgeheftet, der sie früher zugeordnet waren.
 
-dem Land Baden-Württemberg
+2.3 Sind auf einem Vermessungsriß Flurstücke mehrerer Gemarkungen bzw. mehrerer Fluren enthalten, ist der Riß der Gemarkung bzw. der Flur zuzuordnen, die als erste im Kopf des Vermessungsrisses aufgeführt oder die den größten Teil des Risses darstellt. Auf dem betreffenden Vermessungsriß ist die Gemarkung bzw. Flur, unter der der Riß abgelegt ist, zu unterstreichen. In den anderen Fluren ist ein Hinweisblatt nach dem Muster der Anlage 1 einzuheften.
 
-vertreten durch das
+2.4 Sind bei Vermessungsrissen getrennte Titelblätter vorgeheftet, können die darin enthaltenen wichtigen Daten nach dem Muster der Anlage 2 Nrn. 2 - 4 auf den Riß übernommen und das Titelblatt vernichtet werden.
 
-Ministerium für Ernährung und Ländlichen Raum
+2.5 Für fehlende oder nicht aufzufindende Vermessungsrisse ist ein Hinweisblatt nach dem Muster der Anlage 1 oder ein Fortführungsriß-Ersatz einzuordnen.
 
-Kernerplatz 10
+2.6 Vermessungsrisse in einem Format größer als DIN A 3 (i. a. Neuvermessungsrisse) dürfen weder gerollt noch gefaltet werden; sie sind getrennt von den übrigen Ver­messungsrissen entsprechend Ziffer 2.1 in geeigneten Schränken hängend aufzubewahren.
 
-70182 Stuttgart
+2.7 Vor den Vermessungsrissen der einzelnen Fluren ist ein Trennblatt nach dem Muster der Anlage 3 einzulegen, in dem die Flurstücke, die Art der Vermessung sowie die Rißblattnummer einzutragen sind. Für Vermessungsrisse, die nach Ziffer 2.6 gesondert abgelegt werden, ist an der entsprechenden Stelle ein Hinweisblatt nach dem Muster der Anlage 1 und in dem vorgehefteten Trennblatt ein zusätzlicher Vermerk anzubringen.
 
-dem Freistaat Bayern
+2.8 Die Zuordnung der Fluren zu den Gemarkungen und Gemeinden ergibt sich aus der Flurübersichtskarte 1:50.000.
 
-vertreten durch das
+3. Numerierung der Vermessungsrisse
 
-Bayerische Staatsministerium für Gesundheit, Ernährung und Verbraucherschutz
+3.1 Die Vermessungsrisse einer Flur sind mit 1 beginnend durchlaufend zu numerieren. Die Riß-Blattnummer ist auf dem betreffenden Vermessungsriß rechts oben im Kopf des Vordrucks einzutragen.
 
-Schellingstr. 155
+3.2 Zugehörige Berechnungen (wie Kleinpunktberechnungen, Umformungen etc.) erhalten die gleiche Blattnummer wie der Vermessungsriß und können in besonderen Ordnern archiviert werden. Nr. 3.3 Satz 3 gilt entsprechend.
 
-80797 München
+3.3 Grenzniederschriften, dazugehörige Skizzen, Vollmachten, Benachrichtigungen etc. erhalten die gleiche Blattnummer wie der betreffende Vermessungsriß. Sie sind getrennt von den Vermessungsrissen in Ordnern aufzubewahren. Zur Sicherstellung der Vollständigkeit sollen auf diesen Unterlagen zusätzlich Unternummern vergeben werden (z. B. 141/1, 141/2).
 
-dem Land Berlin
+3.4 Die Vermessungsrisse vor Aufstellung des Einheitskatasters (z.B. aus den Grundsteuerfortschreibungsrollen) sind in der gleichen Weise und Ordnung wie die Vermessungsrisse in gesonderten Ordnern abzulegen. Zur Unterscheidung dieses Nachweises von den übrigen Vermessungsrissen ist der Blattnummer ein zusätzliches „A“ (z. B. A 1, A 2 etc.) voranzusetzen.
 
-vertreten durch die
+3.5 Für Handrisse gilt Ziffer 3.4, jedoch ist der Blattnummer ein zusätzliches „H“ voranzusetzen. In dem Trennblatt für die Handrisse sind die im Riß dargestellten Stammflurstücke nachzuweisen.
 
-Senatsverwaltung für Gesundheit, Soziales und Verbraucherschutz
+4. Ablage und Ordnung sonstiger Zahlennachweise
 
-Oranienstraße 106
+4.1 Einmessungsrisse von Aufnahmepunkten (AP-Karten) sind in Ordnern, getrennt nach Numerierungsbezirken, in aufsteigender Folge der Punktnummern abzuheften. Sofern bei älteren Einmessungsrissen diese Ordnungsmerkmale fehlen, kann eine Ablage nach Gemarkung und Flur erfolgen, ggf. mit Hinweis auf die Blattnummer des Vermessungsrisses.
 
-10969 Berlin
+4.2 Koordinatennachweise bzw. deren Verzeichnisse sind analog Ziffer 4.1 abzulegen.
 
-dem Land Brandenburg
+5. Kennzeichnung neuer Abmarkungen in den Vermessungsrissen
 
-vertreten durch das
+5.1 Im Hinblick auf die Anfertigung von Vermessungsunterlagen und als vorbereitende Maßnahme für eine spätere Mikroverfilmung ist es erforderlich, die in den Vermessungsrissen und sonstigen Zahlennachweisen rot gekennzeichneten neuen Grenzen sowie die neuen Abmarkungen von Grenz- und Vermessungspunkten mit einer zusätzlichen Signatur kenntlich zu machen. Als Signatur ist ein keilförmiger schwarzes Dreieck mit einer Grundseite von 2 mm und einer Höhe von 5 mm zu verwenden, das auf die neue Grenze bzw. Abmarkung hinweist.
 
-Ministerium für Landwirtschaft, Umweltschutz und Raumordnung
+5.2 Sofern diese Signatur aus personellen Gründen nicht sofort in allen archivierten Vermessungsrissen nachgetragen werden kann, sind auf jeden Fall die Vermessungsrisse, die bei Vermessungsanträgen als Vermessungsunterlagen herausgegeben werden, entsprechend zu kennzeichnen.
 
-Spornstraße
+6. Ablage und Ordnung der Katasterkarten
 
-14467 Potsdam
+6.1 Sämtliche Karten (Urkarten, Urpausen, Ergänzungskarten, Flurskartenpausen etc.) sind getrennt in dafür speziell geeigneten Schränken unterzubringen; sie dürfen weder gerollt noch gefaltet archiviert werden.
 
-der Freien Hansestadt Bremen
+6.2 Die Karten sind in alphabetischer Folge der Gemarkung zu ordnen.
 
-vertreten durch den
+6.3 Die im Gebrauchsarchiv ständig vorzuhaltenden Karten, im wesentlichen die aktuellen Flurkarten, sind in Schränken hängend aufzubewahren.
 
-Senator für Arbeit, Frauen, Gesundheit, Jugend und Soziales
+6.4 Karten, die den historischen Nachweis darstellen, können in einem sog. ruhenden Archiv untergebracht werden. Ziffern 1.1 bis 1.5 gelten sinngemäß.
 
-Contrescarpe 73
+7. aufgehoben
 
-28195 Bremen
-
-der Freien und Hansestadt Hamburg
-
-vertreten durch die
-
-Behörde für Umwelt und Gesundheit
-
-Lagerstr. 36
-
-20357 Hamburg
-
-dem Land Hessen
-
-vertreten durch das
-
-Hessische Sozialministerium
-
-Dostojewskistraße 4
-
-65187 Wiesbaden
-
-dem Land Mecklenburg-Vorpommern
-
-vertreten durch das
-
-Ministerium für Ernährung, Landwirtschaft, Forsten und Fischerei
-
-Paulshoeher Weg 1
-
-19061 Schwerin
-
-dem Land Niedersachsen
-
-vertreten durch das
-
-Niedersächsische Ministerium für Ernährung, Landwirtschaft und Forsten
-
-Calenberger Straße 2
-
-30169 Hannover
-
-dem Land Nordrhein-Westfalen
-
-vertreten durch das
-
-Ministerium für Umwelt und Naturschutz, Landwirtschaft und Verbraucherschutz
-
-Schwannstraße 3
-
-40476 Düsseldorf
-
-dem Land Rheinland-Pfalz
-
-vertreten durch das
-
-Ministerium für Umwelt und Forsten
-
-Kaiser-Friedrich-Str. 1
-
-55116 Mainz
-
-dem Land Saarland
-
-vertreten durch das
-
-Ministerium für Frauen, Arbeit, Gesundheit & Soziales
-
-Franz-Josef-Röder-Straße 23
-
-66119 Saarbrücken
-
-dem Freistaat Sachsen
-
-vertreten durch das
-
-Sächsische Staatsministerium für Soziales
-
-Albertstraße 10
-
-01097 Dresden
-
-dem Land Sachsen-Anhalt
-
-vertreten durch das
-
-Ministerium für Landwirtschaft und Umwelt
-
-Olvenstedter Straße 4
-
-39108 Magdeburg
-
-dem Land Schleswig-Holstein
-
-vertreten durch das
-
-Ministerium für ländliche Räume, Landesplanung, Landwirtschaft und Tourismus
-
-Düsternbrooker Weg 104
-
-24105 Kiel
-
-dem Freistaat Thüringen
-
-vertreten durch das
-
-Ministerium für Soziales, Familie und Gesundheit
-
-Werner-Seelenbinder-Straße 6
-
-99096 Erfurt
-
-Präambel
-
-Die Agrarministerkonferenz vom 19. bis 21. September 2001 in Prenzlau hat ein neues Konzept zur Bekämpfung bestimmter hochkontagiöser Tierseuchen beschlossen. Kein Land ist für sich allein in der Lage, den Ausbruch einer hochkontagiösen Tierseuche wie Maul- und Klauenseuche zu beherrschen. Für diese Fälle ist ein noch intensiveres Zusammenwirken des Bundes und der Länder notwendig. Daher wurde die Bildung einer „Task Force Tierseuchenbekämpfung“ („Task Force“) auf Bund-Länder-Ebene zur Bekämpfung hochkontagiöser Tierseuchen in Deutschland beschlossen.
-
-Die „Task Force“ dient der Beratung der für die Tierseuchenbekämpfung zuständigen Länder. Mit der Beratung durch die „Task Force“ soll zugleich ein koordiniertes Vorgehen bei der Bekämpfung hochkontagiöser Tierseuchen sichergestellt werden.
-
-§ 1
-
-„Task Force“
-
-(1) Bund und Länder richten eine „Task Force“ zur Bekämpfung hochkontagiöser Tierseuchen ein, die aus jeweils einem in der Tierseuchenbekämpfung erfahrenen Vertreter* der an der Vereinbarung beteiligten Länder, des Bundesministeriums der Verteidigung, der Bundesforschungsanstalt für Viruskrankheiten der Tiere sowie dem Leiter des Nationalen Krisenzentrums Tierseuchenbekämpfung beim Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft (BMVEL) oder seinem Vertreter (Mitglieder) besteht.
-
-(2) Vorsitzender der „Task Force“ ist der Leiter des Nationalen Krisenzentrums Tierseuchenbekämpfung beim BMVEL oder sein Vertreter.
-
-(3) Die „Task Force“ ist beschlussfähig, wenn mehr als die Hälfte der in der „Task Force“ vertretenen Länder sowie der Vorsitzende anwesend sind. Jedes Mitglied hat eine Stimme. Beschlüsse der „Task Force“ kommen, vorbehaltlich des Absatzes 4 Satz 2, mit der Mehrheit der Stimmen der in der „Task Force“ vertretenen Länder zustande.
-
-(4) Die „Task Force“ gibt sich eine Geschäftsordnung. Für die Beschlussfassung über die Geschäftsordnung ist Einstimmigkeit erforderlich.
-
-§ 2
-
-Aufgaben
-
-(1) Die „Task Force“ nimmt folgende Aufgaben wahr:
-
-Empfehlungen zur Bekämpfung hochkontagiöser Tierseuchen, insbesondere im Hinblick auf länderübergreifende und grenzüberschreitende Belange,
-
-Sammlung und Bewertung epidemiologischer Erkenntnisse,
-
-Erstellung einer Übersicht über die Standards der Länder für die Durchführung von Maßnahmen der Tierseuchenbekämpfung sowie Empfehlungen zur Aktualisierung dieser Standards,
-
-Vorschläge für die Einrichtung und den Betrieb schneller, insbesondere länderübergreifender Informationswege, auch im Hinblick auf Informationspflichten gegenüber der Europäischen Gemeinschaft, den Mitgliedstaaten und Drittländern,
-
-Erstellung und Pflege einer Liste von Personen, die im Falle des Ausbruchs oder des Verdachts eines Ausbruchs einer hochkontagiösen Tierseuche (Krisenfall) den betroffenen Ländern zur Personalverstärkung zur Verfügung stehen,
-
-Pflege und Fortschreibung der „Handbücher Tierseuchenbekämpfung“ insbesondere im Hinblick auf die praktische Vollzugstätigkeit,
-
-Vorschläge zur Koordinierung diagnostischer Kapazitäten,
-
-Vorschläge zur Durchführung von Fortbildungs- und Schulungsmaßnahmen sowie länderübergreifender Übungen und Trainingsprogramme,
-
-Empfehlungen hinsichtlich der Einrichtung mobiler Bekämpfungszentren,
-
-Erstellung und Pflege einer Liste in der Tierseuchenbekämpfung erfahrener Spezialisten zur Verwendung in einer Expertengruppe nach § 3 aus Vorschlägen des Bundes und der Länder für ihren jeweiligen Bereich,
-
-im Krisenfall Benennung der Mitglieder der Expertengruppe nach § 3.
-
-(2) Zur Behandlung besonderer Fragestellungen im Zusammenhang mit der Tierseuchenbekämpfung kann die „Task Force“ Arbeitsgruppen einrichten. Das Nähere regelt die Geschäftsordnung.
-
-§ 3
-
-Expertengruppe
-
-(1) Auf Anforderung eines betroffenen Landes wird im Krisenfall eine Expertengruppe gebildet. Fordern mehrere Länder eine Expertengruppe an, können weitere Expertengruppen gebildet werden. Anforderungen sind an die „Task Force“ zu richten.
-
-(2) Jede Expertengruppe besteht aus mindestens drei in der Tierseuchenbekämpfung erfahrenen Experten der Länder oder des Bundes, die von der „Task Force“ aus der Liste nach § 2 Nr. 10 ausgewählt und benannt werden.
-
-(3) Die Expertengruppe berät die zuständige Landesbehörde und gibt Empfehlungen, um ein koordiniertes und einheitliches Vorgehen der Länder bei der Tierseuchenbekämpfung zu gewährleisten.
-
-(4) Für die „Task Force“ und auf Anforderung auch für den zentralen Krisenstab auf der Ebene der Amtschefs der für die Tierseuchenbekämpfung zuständigen Ressorts des Bundes und der Länder erstellen die Expertengruppen in Abstimmung mit den jeweils betroffenen Ländern Berichte über den Stand der Seuchenbekämpfung.
-
-§ 4
-
-Arbeitsstab
-
-(1) Zur fachlichen Vorbereitung der Beschlüsse der „Task Force“ wird ein Arbeitsstab gebildet. Diesem obliegt insbesondere die Erarbeitung von Berichten und Beschlussvorschlägen im Hinblick auf die Erledigung der Aufgaben der „Task Force“ nach § 2 Abs. 1.
-
-(2) Der Arbeitsstab wird im Auftrag der Länder von Nordrhein-Westfalen, vertreten durch das Ministerium für Umwelt und Naturschutz, Landwirtschaft und Verbraucherschutz, eingerichtet. Der Arbeitsstab besteht aus einem beamteten oder beauftragten Tierarzt, einem Sachbearbeiter sowie einem weiteren, jeweils für sechs Monate von den Ländern entsandten Tierarzt. Der Arbeitsstab wird in räumlicher Nähe zum Nationalen Krisenzentrum Tierseuchenbekämpfung beim BMVEL eingerichtet.
-
-(3) Das Land Nordrhein-Westfalen hält die erforderlichen Stellen für den Arbeitsstab vor. Die Länder entsenden den weiteren Tierarzt nach Absatz 2 Satz 2 in alphabetischer Reihenfolge, beginnend mit dem Zeitpunkt, an dem der Arbeitsstab seine Tätigkeit aufnimmt. Abweichend von Satz 2 kann ein anderes als das zur Entsendung verpflichtete Land den weiteren Tierarzt entsenden, soweit die „Task Force“ einer solchen Entsendung nicht widerspricht. Das BMVEL stellt die für den Arbeitsstab erforderlichen Räumlichkeiten und Arbeitsmittel zur Verfügung.
-
-§ 5
-
-Geschäftsführung
-
-Die laufenden Geschäfte der „Task Force“ führt der Vorsitzende; er lädt zu den Sitzungen der „Task Force“ ein. Das Nähere regelt die Geschäftsordnung.
-
-§ 6
-
-Kostentragung
-
-(1) Die Personal- und Personalnebenkosten für den beamteten oder beauftragten Tierarzt und den Sachbearbeiter nach § 4 Abs. 2 Satz 2 werden von den Ländern entsprechend ihrem jeweiligen Anteil an Großvieheinheiten getragen. Für die Berechnung der Großvieheinheiten werden die Tierarten Rinder, Schweine und Schafe nach dem aktuellen Stand der Erhebung über die Viehbestände nach dem Agrarstatistikgesetz zu Grunde gelegt.
-
-(2) Die Personal- und Personalnebenkosten für den weiteren Tierarzt nach § 4 Abs. 2 Satz 2 trägt das entsendende Land.
-
-(3) Die Kosten der räumlichen Unterbringung des Arbeitsstabes sowie die Kosten der erforderlichen Ausstattung mit Sachmitteln trägt das BMVEL.
-
-(4) Die Reisekosten der Expertengruppe nach § 3 trägt jeweils das die Expertengruppe anfordernde Land.
-
-§ 7
-
-Vereinbarungsdauer und Kündigung
-
-(1) Die Vereinbarung gilt für unbestimmte Zeit. Sie kann von jeder Partei durch schriftliche Erklärung gegenüber den anderen Parteien zum Schluss eines Kalenderjahres mit einer Frist von einem Jahr gekündigt werden, erstmals nach einer dreijährigen Laufzeit. Erfolgt die Kündigung durch eine andere Partei als durch den Bund oder das Land Nordrhein-Westfalen, wird die Vereinbarung mit den verbleibenden Parteien fortgesetzt.
-
-(2) Die kündigende Partei bleibt verpflichtet, zur Kostentragung nach § 6 solange und insoweit beizutragen, als der Finanzbedarf infolge ihrer Beteiligung erforderlich geworden ist. Nach dem Ausscheiden anfallende Kosten, die dem Zeitraum der Mitgliedschaft zuzurechnen sind, sind in entsprechender Anwendung des § 6 von der kündigenden Partei zu tragen.
-
-§ 8
-
-Schlussbestimmungen
-
-Sollte eine oder mehrere Bestimmungen dieser Vereinbarung unwirksam sein oder werden, wird hierdurch die Wirksamkeit der Vereinbarung im Übrigen nicht berührt. An Stelle der unwirksamen Bestimmung soll eine Regelung treten, die dem mit der Vereinbarung verfolgten Zweck am nächsten kommt.
-
-§ 9
-
-Inkrafttreten
-
-Die Vereinbarung tritt in Kraft, sobald die letzte an der Vereinbarung beteiligte Partei diese unterzeichnet und die unterzeichnete Vereinbarung dem BMVEL übermittelt hat. Hierzu genügt es, wenn jede an der Vereinbarung beteiligte Partei eine Anfertigung, die mit den von den anderen beteiligten Parteien unterzeichneten Ausfertigungen im Wortlaut gleich ist, unterzeichnet und dem BMVEL übermittelt hat. Das BMVEL unterrichtet die an der Vereinbarung beteiligten Parteien über den Zeitpunkt des Inkrafttretens der Vereinbarung.
-
-Berlin, den 23. Januar 2003
-
-Für die Bundesrepublik Deutschland
-
-vertreten durch:
-
-Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft
-
-Alexander Müller
-
-Für das Land:
-
-Stuttgart, den 12. Februar 2003
-
-Baden-Württemberg
-
-vertreten durch:
-
-Ministerium für Ernährung und Ländlichen Raum
-
-Arnold
-
-München, den 22. April 2003
-
-(Datum des Übersendungsschreibens)
-
-Bayern
-
-vertreten durch:
-
-Bayerisches Staatsministerium für Gesundheit, Ernährung und Verbraucherschutz
-
-Erika Görlitz
-
-Berlin, den 13. Juni 2003
-
-(Datum des Übersendungsschreibens)
-
-Berlin
-
-vertreten durch:
-
-Senatsverwaltung für Gesundheit, Soziales und Verbraucherschutz
-
-Schulte-Sasse
-
-Potsdam, den 10. Juli 2003
-
-Brandenburg
-
-vertreten durch:
-
-Ministerium für Landwirtschaft, Umweltschutz und Raumordnung
-
-Schmitz-Jersch
-
-Bremen, den 27. Mai 2003
-
-Bremen
-
-vertreten durch:
-
-Senator für Arbeit, Frauen, Gesundheit, Jugend und Soziales
-
-In Vertretung
-
-Arnold Knigge
-
-Hamburg, den 15. Juli 2003
-
-Hamburg
-
-vertreten durch:
-
-Behörde für Umwelt und Gesundheit
-
-Gregor Kempkens
-
-Wiesbaden, den 14. Februar 2003
-
-Hessen
-
-vertreten durch:
-
-Hessisches Sozialministerium
-
-Seif
-
-Schwerin, den 4. März 2003
-
-Mecklenburg-Vorpommern
-
-vertreten durch:
-
-Ministerium für Ernährung, Landwirtschaft, Forsten und Fischerei
-
-Kreer
-
-Hannover, den 3. Februar 2003
-
-Niedersachsen
-
-vertreten durch:
-
-Niedersächsisches Ministerium für Ernährung, Landwirtschaft und Forsten
-
-In Vertretung
-
-Schulz
-
-Düsseldorf, den 28. Juli 2003
-
-Nordrhein-Westfalen
-
-vertreten durch:
-
-Ministerium für Umwelt und Naturschutz, Landwirtschaft und Verbraucherschutz
-
-In Vertretung
-
-Dr. Thomas Griese
-
-Mainz, den 2. Mai 2003
-
-Rheinland-Pfalz
-
-vertreten durch:
-
-Ministerium für Umwelt und Forsten
-
-Hendrik Hering
-
-Saarbrücken, den 25. März 2003
-
-Saarland
-
-vertreten durch: Herrn Staatssekretär Josef Hecken
-
-Ministerium für Frauen, Arbeit, Gesundheit und Soziales
-
-J. Hecken
-
-Dresden, den 2. April 2003
-
-Sachsen
-
-vertreten durch:
-
-Sächsisches Staatsministerium für Soziales
-
-Albin Nees
-
-Magdeburg, den 19. Februar 2003
-
-Sachsen-Anhalt
-
-vertreten durch:
-
-Ministerium für Landwirtschaft und Umwelt
-
-(Siegel)
-
-Aeikens
-
-Kiel, den 21. März 2003
-
-Schleswig-Holstein
-
-vertreten durch:
-
-Ministerium für Soziales, Gesundheit und Verbraucherschutz
-
-Die Zustimmung erfolgt unter dem Vorbehalt, dass der Haushaltsgesetzgeber des Landes Schleswig-Holstein die erforderlichen Mittel in den Haushalten ab 2004 zur Verfügung stellt.
-
-Horst-Dieter Fischer
-
-Erfurt, den 19. Februar 2003
-
-Thüringen
-
-vertreten durch:
-
-Ministerium für Soziales, Familie und Gesundheit
-
-In Vertretung
-
-Heinz-Günter Maaßen
-
-* Zur besseren Lesbarkeit wird durchgängig die männliche Form verwandt.
+Anmerkung: Die Anlagen wurden nicht aufgenommen.
