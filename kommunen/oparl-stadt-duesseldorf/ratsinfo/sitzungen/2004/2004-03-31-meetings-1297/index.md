@@ -1,0 +1,52 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-03-31T16:00:00+02:00
+- Ende: 2004-03-31T00:00:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1297
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1297
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111223.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111223.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111223.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung der NS
+- TOP 3: Zulassung
+- TOP 4: Soziale Stadt NRW
+- TOP 5: Rethelstraße
+- TOP 6: Flinger Broich 87,Fortun.95 Bez.sportanlage
+- TOP 7: Graf-Recke-Straße
+- TOP 8: Bauunterhalt
+- TOP 9: Unfallentwicklung im Stadtbezirk 2
+- TOP 10: Ronsdorfer Straße/Höherweg
+- TOP 11: Flinger Broich Vennhauser Straße
+- TOP 12: Hans-Günther-Sohl-Str.
+- TOP 13: Abfallbeseitigung, Duales System
+- TOP 14: Verwendung Haushalt 2004
+- TOP 15: Kindergärten, Tagesstätten VI
+- TOP 16: Zoopark III
+- TOP 17: Cranachstraße
+- TOP 18: Straßenbaumaßnahmen
+- TOP 19: Fahrrad, Garagen, Abstellanlagen
+- TOP 20: GBA Verschiedene Verkehrsangelgegenheiten
+- TOP 21: Wetterstr. Unterführung
+- TOP 22: Zoopark III
+- TOP 23: Kindergärten,-Tageseinrichtungen
+- TOP 24: Flinger Richtweg - Schützenplatz - IV
+- TOP 25: B-Plan 5676/60 Stadtwerke
+- TOP 26: Abfallbeseitigung, duales System
+- TOP 27: Brehmstraße Eisstadion III
+- TOP 28: Zoopark III
+- TOP 29: Lärmschutz
+- TOP 30: Lärmschutz
+- TOP 31: Sicherheit im öffentlichen Raum
+- TOP 32: Graf-Recke-Str
+- TOP 33: Wohnungsangelegenheiten II
+- TOP 34: Ronsdorfer Straße 145
+- TOP 35: Baumpflanzungen, Baumentfernungen
