@@ -1,0 +1,67 @@
+# Konstituierende Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2004-10-13T17:00:00+02:00
+- Ende: 2004-10-13T18:25:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=81
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=81
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den AltersvorsitzendenFeststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - ungeändert beschlossen
+- TOP 2: Benennung von Stimmzählern für die Sitzungen des Rates - ungeändert beschlossen
+- TOP 3: Bestellung eines Schriftführers und einer Stellvertreterin - ungeändert beschlossen
+- TOP 4: Amtseinführung des Oberbürgermeisters - ungeändert beschlossen
+- TOP 5: Einführung und Verpflichtung der Ratsmitglieder - ungeändert beschlossen
+- TOP 6: Festlegung der Zahl der zu wählenden ehrenamtlichen Stellvertreter des Oberbürgermeisters - ungeändert beschlossen
+- TOP 7: Wahl der ehrenamtlichen Stellvertreter des Oberbürgermeisters - ungeändert beschlossen
+- TOP 8: Einführung und Verpflichtung der ehrenamtlichen Stellvertreter des Oberbürgermeisters - ungeändert beschlossen
+- TOP 9: Bildung des Wahlprüfungsausschusses zur Vorprüfungder Wahl des Oberbürgermeisters,der Wahl des Rates der Stadt undder Wahl der Bezirksvertretungen am 26.09.2004 - ungeändert beschlossen
+- TOP 10: Entscheidung über Art, Anzahl, Größe und Zusammensetzung der zu bildenden Ausschüsse - ungeändert beschlossen
+- TOP 10.1: Entscheidung über Art, Anzahl, Größe und Zusammensetzung der zu bildenden Ausschüssehier: Sitzverteilung nach d'Hondt - ungeändert beschlossen
+- TOP 11: Wahl der Ausschussmitglieder - vertagt
+- TOP 12: Bildung von weiteren Ausschüssen des Rates der Stadthier: Neubildung des Jugendhilfeausschusses - vertagt
+- TOP 13: Bestimmung der Ausschussvorsitzenden und stellvertr. Ausschussvorsitzenden - vertagt
+- TOP 14: Wahl der städtischen Vertreter in Gesellschaften, Verbänden und sonstigen Organisationenhier: Grundsatzinformationen - vertagt
+- TOP 15: Vertretung der Stadt in Haupt- und Gesellschafterversammlungen - vertagt
+- TOP 16: Bestellung der Mitglieder des Aufsichtsrates der AGIT "Aachener Gesellschaft für Innovation und Technologietransfer GmbH" gem. § 113 Abs. 2 GO NRW i.V.m. mit § 50 Abs. 4 GO NRW - vertagt
+- TOP 16.1: Wahl der städt. Vertreter in Gesellschaften, Verbänden und sonstigen Organisationen;hier: Entsendung des Oberbürgermeisters bzw. eines Vertreters gem. § 113 (3) GO NW - vertagt
+- TOP 17: Bestellung des Mitgliedes im Aufsichtsrat der Aachener Kreuz Merzbrück GmbH & Co. KG (AKM) gem. § 113 Abs. 3 GO NRW - vertagt
+- TOP 18: Bestellung der Mitglieder des Aufsichtrates der Aachener Parkhaus GmbH - APAG - gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - vertagt
+- TOP 19: Besetzung des Aufsichtsrates der Aachener Straßenbahn- und Energieversorgungs AGASEAG - vertagt
+- TOP 19.1: Wahl städt. Vertreter in Gesellschaften und sonst. OrganisationenNachtrag zu Top 19,21,38 - vertagt
+- TOP 20: Bestellung des Mitgliedes für den Beirat AKREKA GmbH - vertagt
+- TOP 21: AVV GmbH - Aufsichtsrat - vertagt
+- TOP 22: Benennung von Vertretern der Stadt Aachen im Aufsichtsrat der AWA Entsorgung GmbH gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - vertagt
+- TOP 23: Benennung von Vertretern der Stadt Aachen in der Gesellschafterversammlung derEuRegionale 2008 Agentur GmbH gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs.4 GO NRW - vertagt
+- TOP 24: Benennung von Vertretern der Stadt Aachen im Aufsichtsrat der Energieversorgungs- undVerkehrsgesellschaft Aachen (EVA) gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - vertagt
+- TOP 25: Bestellung der Mitglieder des Aufsichtsrates der Flugplatz Aachen-Merzbrück GmbH (FAM) gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - vertagt
+- TOP 26: Bestellung der Mitglieder des Aufsichtsrates der Gewerbegrundstücksgesellschaft Aachen- GEGRA - gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - vertagt
+- TOP 27: Bestellung der Mitglieder des Aufsichtsrates der Gemeinützigen Wohnungsgesellschaft für Aachen AG –gewoge- gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - vertagt
+- TOP 28: Bestellung des Mitgliedes des Aufsichtsrates der „ Grenzüberschreitendes Gewerbegebiet Aachen- Heerlen N.V. – GOB N.V.“ und der „Avantis Services N.V.“gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW. - vertagt
+- TOP 29: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der Kur- und Badegesellschaft mbH gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - vertagt
+- TOP 30: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der MVA Weisweiler GmbH & Co KG gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - vertagt
+- TOP 31: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der regio iT aachen GmbH- Gesellschaft für Informationstechnologie - gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - vertagt
+- TOP 32: Gremien der Sparkasse Aachen und weiterer ZweckverbändeI Wahl der Vertreter/innen der Stadt Aachen in die Verbandsversammlung des Sparkassenzweckverbandes Kreis Aachen - Stadt Aachen sowie Empfehlungen für die anstehenden Entscheidungen in der Verbandsversammlung - vertagt
+- TOP 33: Wahl der Vertreter der Stadt in das Kuratorium der Stiftung Jugendförderungswerk der Sparkasse Aachen gem. § 113 (2) GO NRW in Verbindung mit § 50 (4) GO NRW - vertagt
+- TOP 34: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der Stadtwerke Aachen AG (STAWAG) gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - vertagt
+- TOP 35: Bestellung der Mitglieder des Aufsichtsrates der Wassergewinnungs- und Aufbereitungsgesellschaft Nordeifel mbH WAG gem. § 113 (2) GO NRW in Verbindung mit § 50 (4) GO NRW - vertagt
+- TOP 36: Bestellung von Vertretern der Stadt Aachen für die Verbandsversammlung des WVER Wasserverband Eifel Rur und den Verbandsrat gem. § 113 (2) GO NRW in Verbindung mit § 50 (4) GO NRW - vertagt
+- TOP 37: Benennung der Vertreter der Stadt Aachen in der Schulverbandsversammlung für das Abendgymnasium und die Abendrealschule gem. § 113 (2) GO NW in Verbindung mit § 50 (4) GO NW - vertagt
+- TOP 38: Zweckverband AVV "Aachener Verkehrsverbund" und Aufsichtsrat - vertagt
+- TOP 39: Bestellung von Vertretern der Stadt Aachen für die Verbandsversammlung des Zweckverbands Entsorgungsregion West gem. § 113 (2) GO NRW in Verbindung mit § 50 (4) GO NRW - vertagt
+- TOP 40: Zweckverband StädteRegion Aachen - vertagt
+- TOP 41: Schulverband in der Städteregion - vertagt
+- TOP 42: Bestellung von Vertretern der Stadt Aachen für die Verbandsversammlung des ZweckverbandesStraßenverkehrsamt Aachen gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GONRW - vertagt
+- TOP 43: Studieninstitut für kommunale Verwaltung Aachen - vertagt
+- TOP 44: Trägerverein Berufsbildungs- und Gewerbeförderungseinrichtung Aachen e.V. der Handwerkskammer Aachen - vertagt
+- TOP 45: Entsendung von Mitgliedern in das Direktorium der Gesellschaft für die Verleihung des Internationalen Karlspreises zu Aachen e.V. - ungeändert beschlossen
+- TOP 46: Bestellung der Vertreter der Stadt Aachen im KREISPOLIZEIBEIRAT gem. § 113 (2) GO NW in Verbindung mit § 50 (4) GO NW - vertagt
+- TOP 47: Wahl der Mitglieder des REGIO-RATES - vertagt
+- TOP 50: Vertretung der Stadt Aachen im Kuratorium der Viktoriaschule - vertagt
+- TOP 51: Änderung der Zweckverbandssatzung des Zweckverbandes AVV - ungeändert beschlossen
+- TOP 52: Mitteilungen der Verwaltung - ungeändert beschlossen
