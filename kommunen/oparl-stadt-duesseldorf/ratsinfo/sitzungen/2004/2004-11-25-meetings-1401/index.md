@@ -1,0 +1,51 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-11-25T15:00:00+01:00
+- Ende: 2004-11-25T17:20:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1401
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1401
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111361.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111361.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111361.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Bestellung des Schriftführers und des stellvertret - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: Bau- und Finanzierungsbeschluss; Sanierung der Ton - passieren lassen
+- TOP 6: Ausstellungsprogramm 1. Halbjahr 2005, Heinrich-He - einstimmig beschlossen
+- TOP 7: Ausstellungsprogramm 1. Halbjahr 2005, Theatermuse - einstimmig beschlossen
+- TOP 8: Ausstellungsprogramm 1. Halbjahr 2005, Filmmuseum - einstimmig beschlossen
+- TOP 9: Ausstellungsprogramm 1. Halbjahr 2005, Hetjens-Mus - einstimmig beschlossen
+- TOP 10: Ausstellungsprogramm 1.Halbjahr 2005, Stadtmuseum - einstimmig beschlossen
+- TOP 11: Ausstellungsprogramm 1.Halbjahr 2005, Goethe-Museu - einstimmig beschlossen
+- TOP 12: Ausstellungsprogramm 1. Halbjahr 2005, Mahn- und G - einstimmig beschlossen
+- TOP 13: Ausstellungsprogramm 1. Halbjahr 2005, Kunstraum - einstimmig beschlossen
+- TOP 14: Annahme einer Schenkung für die städtische Sammlun - einstimmig beschlossen
+- TOP 15: Änderung der Bestimmungen für die Beiräte des Kult - einstimmig beschlossen
+- TOP 16: Kleine Kommission "Tonhalle" - einstimmig beschlossen
+- TOP 17: Kleine Kommission "Oper 2005" - einstimmig beschlossen
+- TOP 18: Heine-Haus Bolkerstr. 53 - einstimmig beschlossen
+- TOP 19: Dringlichkeitsentscheidung: Anbringung e. Gedenkta - einstimmig beschlossen
+- TOP 20: Sachstandsbericht Stadt der Wissenschaft/ Wissensc - mehrheitlich beschlossen
+- TOP 21: Bericht Förderung Kirchenmusik - einstimmig beschlossen
+- TOP 22: Entwurf des Haushaltsplanes 2005, der Finanzplanun - mehrheitlich beschlossen
+- TOP 23: Antr. Bü90/Grüne u. SPD-Fr.: Beirat f. Film u. Mu - mehrheitlich abgelehnt
+- TOP 23: Änderungsantrag der CDU- und FDP-Fraktion - mehrheitlich beschlossen
+- TOP 24: Antr. Grüne z. Etat 2005: Zuschüsse f.d. Beirätete - mehrheitlich abgelehnt
+- TOP 24: Änderungsantrag der CDU- und FDP-Fraktion - einstimmig beschlossen
+- TOP 25: Antr. Grüne u. SPD z. Etat 2005: Einr. e. Hst. Meh - mehrheitlich abgelehnt
+- TOP 26: Antr. Grüne: Einricht. v. zwei jugendbibliothekari - mehrheitlich abgelehnt
+- TOP 27: Antr. SPD-Fr.: Etat 2005; Förd. v. Nachwuchsmusike - mehrheitlich abgelehnt
+- TOP 28: Antrag der SPD-Fraktion zum Etat 2005: Haushalt de - mehrheitlich abgelehnt
+- TOP 28: Änderungsantrag der CDU- und FDP-Fraktion - mehrheitlich abgelehnt
+- TOP 29: Antrag der CDU- und FDP-Fraktion: "altstadtherbst - einstimmig beschlossen
+- TOP 30: Antrag der CDU- und FDP-Fraktion: "zentrum für akt - einstimmig beschlossen
+- TOP 31: Sonstiges - zur Kenntnis genommen
