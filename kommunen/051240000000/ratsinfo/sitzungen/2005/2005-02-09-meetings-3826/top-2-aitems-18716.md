@@ -1,0 +1,6 @@
+# TOP 2: Grundschule Nützenbergerstraße 242 - Sachstandsbericht
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Elberfeld-West (2005-02-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/18716
