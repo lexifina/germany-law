@@ -1,0 +1,51 @@
+# 3. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-03-16T17:04:00+01:00
+- Ende: 2005-03-16T20:21:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/4975
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/4975
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00215471.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Vorberatung von etatrelevanten Ratsentscheidungen
+- TOP 2: Bühnenbewirtschaftungsplan der Städtischen Bühnen Münster für die Spielzeit 2005/2006 - mehrheitlich beschlossen
+- TOP 3: Weiterentwicklung Sporthalle Berg Fidel, Errichtungs- und Raumprogrammbeschluss zum Multifunktions - einstimmig beschlossen
+- TOP 4: Unbefristete Fortführung der Arbeit der Drogentherapeutischen Ambulanz/Drogenkonsumraum und Finanzie - einstimmig beschlossen
+- TOP 5: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 5.1: 1. Beförderungsentgelte und -bedingungen für die von der Stadt Münster zugelassenen Taxen - einstimmig beschlossen
+- TOP 5.2: Benutzungs- und Gebührensatzung der Lehranstalt für pharmazeutisch-technische Assistenten/innen - einstimmig beschlossen
+- TOP 5.3: Vergabe- und Entgeltordnung für die Benutzung von Räumen in Schulgebäuden der Stadt Münster - einstimmig beschlossen
+- TOP 5.4: Vergnügungssteuersatzung der Stadt Münster - einstimmig beschlossen
+- TOP 5.5: Gebühren Fleisch- und Geflügelfleischhygiene - einstimmig beschlossen
+- TOP 6: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2005 - ohne Beschlussfassung geschoben
+- TOP -: Vorberatung sonstiger Ratsentscheidungen
+- TOP 7: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01. August 2005 - ohne Beschlussfassung geschoben
+- TOP 8: Aktionen in der Nachfolge des Wettbewerbes "The International Awards for Liveable Communities 2004" - einstimmig beschlossen
+- TOP 9: "Lichtkonzept Münster" - einstimmig beschlossen
+- TOP 10: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen aus Anlass der Veranstaltung - einstimmig beschlossen
+- TOP 11: Hilfevermittlung und Kurzzeitübernachtung - HuK - für wohnungslose Männer im städt. Gebäude Fr - einstimmig beschlossen
+- TOP 12: Bauleitplanung
+- TOP 12.1: Stadtbezirk Mitte
+- TOP 12.1.1: Bebauungsplan Nr. 476: Stolbergstraße / Piusallee - einstimmig beschlossen
+- TOP 12.1.2: Aufhebung des Bebauungsplanes Nr. 452: Tiefgarage Ludgeriplatz - einstimmig beschlossen
+- TOP 12.2: Stadtbezirk West
+- TOP 12.2.1: 1. Änderung des Bebauungsplanes Nr. 409: Technologiepark Steinfurter Straße - mehrheitlich beschlossen
+- TOP 12.2.2: 3. Änderung des Bebauungsplanes Nr. 396: Mecklenbeck - Weseler Straße / Dingbängerweg - einstimmig beschlossen
+- TOP 12.3: Stadtbezirk Hiltrup
+- TOP 12.3.1: 4. Änderung des Flächennutzungsplanes im Stadtbezirk Hiltrup im Stadtteil Amelsbüren - einstimmig beschlossen
+- TOP 12.4: Stadtbezirk Südost
+- TOP 12.4.1: 6. Änderung des fortgeschriebenen Flächennutzungsplanes der Stadt Münster - mehrheitlich beschlossen
+- TOP 12.4.2: Bebauungsplan Nr. 463: Wolbeck - Gewerbegebiet östlich der Münsterstraße / Grenkuhlenweg - mehrheitlich beschlossen
+- TOP 12.4.3: Bebauungsplan Nr. 494: Wolbeck - Gewerbegebiet - einstimmig beschlossen
+- TOP 13: Besetzungen und Umbesetzungen von Gremien
+- TOP 13.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 13.2: Neubesetzung des Beirates Münster Marketing - einstimmig beschlossen
+- TOP 13.3: Besetzung von Vorstandspositionen der "Münsterland-Touristik Grünes Band e.V." - einstimmig beschlossen
+- TOP 14: Verschiedenes
