@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Herford
+- Beginn: 2004-12-03T16:10:00+01:00
+- Ende: 2004-12-03T19:20:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZTu9Tds7iYYui85Wjagir_g
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/883
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdz4is38wYLQJKelKD1NadczaDj_t7Mg226-ko9W6dyu/Einladung_Rat_03.12.2004.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYdRqeVpxhGF20FZSKiUn9t-xTLgB3ntBG0iXd-p4YVk/Oeffentliche_Niederschrift_Rat_03.12.2004.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 16.07.2004 sowie der konstituierenden Sitzung des Rates am 15.10.2004
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: MKK gGmbH
+- TOP A.4a): MKK gGmbH: Sachstandsbericht MARTa - Mit Mehrheit bei 2 Enthaltung(en)
+- TOP A.4b): Zustimmung zu einer Ausgabe im Vermögenshaushalt - Mit Mehrheit bei 1 Enthaltung(en)
+- TOP A.5: 2. Situationsbericht zur Haushaltswirtschaft 2004 - Zur Kenntnis genommen
+- TOP A.6: Umsetzung Hartz IV/SGB II hier: Gründung einer Arbeitsgemeinschaft (ARGE) nach § 44 b SGB II - Zur Kenntnis genommen
+- TOP A.7: Projektantrag zum Aufbau eines trägerübergreifenden Gesamthilfesystems für von Wohnungslosigkeit bedrohte und betroffene Haushalte - Einstimmig bei 0 Enthaltung(en)
+- TOP A.8: Neubesetzung von Ausschüssen - Einstimmig bei 0 Enthaltung(en)
+- TOP A.9: Beirat für Stadtbildpflege hier: Neuwahl der Mitglieder und Stellvertreter - Einstimmig bei 0 Enthaltung(en)
+- TOP A.10: Bestellung von Trägervertreterinnen und Trägervertretern für die Räte der Tageseinrichtungen für Kinder im Bereich der Stadt Herford - Einstimmig bei 0 Enthaltung(en)
+- TOP A.11: Neubesetzung der Einigungsstelle nach dem Landespersonalvertretungsgesetz - Einstimmig bei 0 Enthaltung(en)
+- TOP A.12: Benennung von Vertretungen der Stadt Herford für den Vorstand des Landestheaters Detmold e.V. - Einstimmig bei 0 Enthaltung(en)
+- TOP A.13: Beschluss über die Jahresrechnung 2003 und die Entlastung des Bürgermeisters für die Führung der Haushaltswirtschaft im Haushaltsjahr 2003 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.14: Änderung der Gebührenstruktur für den Krankentransport und die Notfallrettung - Einstimmig bei 0 Enthaltung(en)
+- TOP A.15: Stadttheater - Vermietordnung; hier: Änderung der Kosten für Kartensätze - Einstimmig bei 0 Enthaltung(en)
+- TOP A.16: Neufestsetzung der Gebühren für die Unterbringung von Flüchtlingen, Aussiedlern und Wohnungslosen in Übergangsheimen und Notunterkünften - Einstimmig bei 0 Enthaltung(en)
+- TOP A.17: Quartalsbericht über erteilte Zustimmungen zu (unerheblichen) über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen, hier: 3. Quartal 2004 - Zur Kenntnis genommen
+- TOP A.17a): Zustimmung zu einer erheblichen außerplanmäßigen Verpflichtungsermächtigung hier: Sportplätze am Stadion, Vergabe des Nachtragsauftrags für einen Kunstrasenplatz - Einstimmig bei 0 Enthaltung(en)
+- TOP A.18: Bebauungsplan Nr. 8.65 "Auf der Höhe / Im Papendiek" hier: Satzungsbeschluss - Einstimmig bei 0 Enthaltung(en)
+- TOP A.19: Änderung Nr. 1.04 des Bebauungsplanes Nr. 6.61 "Auf der Helle" hier: Satzungsbeschluss - Einstimmig bei 0 Enthaltung(en)
+- TOP A.20: FNP-Teiländerung Nr. 3.03 "Gewerbeflächenrücknahme II" hier: Änderungsbeschluss - Einstimmig bei 0 Enthaltung(en)
+- TOP A.21: Gründung einer Netzbetriebsgesellschaft als Tochterunternehmen der Stadtwerke Herford GmbH und Abschluss eines Ergebnisabführungsvertrags hier: Genehmigung der dringlichen Entscheidung vom 15.11.2004 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.22: Besetzung des Aufsichtsratsmandates der E.ON Westfalen Weser AG hier: Genehmigung der dringlichen Entscheidung vom 26.10.2004 - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.23: WWS Wohn- und Wirtschafts-Service Herford GmbH: Jahresabschluss 2003 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.24: WWS Wohn- und Wirtschafts-Service Herford GmbH: Wirtschaftsplan 2003-2007 und Stellenplan 2005 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.25: Interkomm GmbH: Wirtschaftsplan 2005 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.26: Die Chance gGmbH: Wirtschaftsplan 2005 und zukünftige Ausrichtung - Einstimmig bei 0 Enthaltung(en)
+- TOP A.27: Kommunale Beteiligungsges. für den lokalen Rundfunk im Kreis Herford mbH: Jahresabschluss 2003 und Wirtschaftsplan 2005 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.28: Abwasserwerk der Stadt Herford
+- TOP A.28a): Jahresabschluss 2003 des Abwasserwerkes der Stadt Herford Feststellung und Ergebnisverwendung - Einstimmig bei 0 Enthaltung(en)
+- TOP A.28b): Änderung des Wirtschaftsplanes 2004 a) Finanzplan b) Erfolgsplan - Einstimmig bei 0 Enthaltung(en)
+- TOP A.28c): Wirtschaftsplan 2005 a) Finanzplan b) Erfolgsplan c) Stellenplan - Einstimmig bei 0 Enthaltung(en)
+- TOP A.28d): Änderung der Betriebssatzung vom 10.11.1994 - Abgesetzt
+- TOP A.28e): Änderung der Entwässerungsgebührensatzung vom 21.06.2001 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.29: Antrag der CDU-Fraktion; hier: Änderung der Richtlinien für die Vergabe des Heiko-Ploeger-Bürgerpreises
