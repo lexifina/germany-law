@@ -1,4 +1,4 @@
-# TOP 4.1.: Soziale Angelegenheiten
+# TOP 4.1.: Informationen zum Thema "Kindergartenplätze" in der Gemeinde Aldenhoven
 
 - Sitzung: Schul- und Sozialausschuss (2001-09-26)
 - Körperschaft: Gemeinde Aldenhoven
