@@ -1,8 +1,8 @@
 # Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Trennungsgeldverordnung Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Trennungsgeldverord
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 1997-10-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1804.2
+- Datum: 1998-06-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1804.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.10.1997
+04.06.1998
 bis
-03.06.1998
+31.08.1999
 
 Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Trennungsgeldverordnung
 
@@ -45,9 +45,9 @@ Fsn-Nr.: 242-V96.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Oktober 1997
+Fassung gültig ab:  4. Juni 1998
 
-Fassung gültig bis:  3. Juni 1998
+Fassung gültig bis: 31. August 1999
 
 Hilfe
 
@@ -62,7 +62,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/1804.2
+https://www.revosax.sachsen.de/vorschrift/1804.3
 Stand vom
 18.11.2026
 
