@@ -1,3 +1,4 @@
+## Gesetz über den Finanzausgleich mit den Gemeinden und Landkreisen im Freistaat Sachsen (Finanzausgleichsgesetz – FAG)
 # Inhaltsübersicht
 Erster Abschnitt Grundsätze des Finanzausgleichs
 § 1 Finanzausgleichsleistungen und Grundsatz der Lastenverteilung
@@ -51,3 +52,4 @@ Elfter Abschnitt Gemeinsame Vorschriften, Verfahren und In-Kraft-Treten
 § 34 Beirat
 § 35 Verjährung
 § 36 In-Kraft-Treten
+Anlage 1 (zu § 7 Abs. 3) Anlage 2 (zu § 7 Abs. 3) Anlage 3 (zu § 7 Abs. 3)
