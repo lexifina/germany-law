@@ -1,0 +1,64 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-12-02T15:00:00+01:00
+- Ende: 2004-12-02T18:45:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1383
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1383
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111515.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111515.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111515.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift vom 02.11.2004 - zur Kenntnis genommen
+- TOP 3: Stadtteilgrenze Eller - Lierenfeld - zur Kenntnis genommen
+- TOP 4: Sanierung Durchlass Krippstraße / Gumbertstraße - zur Kenntnis genommen
+- TOP 5: Trödelmärkte 1. Hj. 2005 - zur Kenntnis genommen
+- TOP 6: Parkscheibenregelung S-Bahnhof Eller-Mitte - zur Kenntnis genommen
+- TOP 7: Nachbarschaftspark Eller - Lierenfeld - zur Kenntnis genommen
+- TOP 8: Zuschüsse zu kulturellen Veranstaltungen - zur Kenntnis genommen
+- TOP 9: Zuschüsse zu kulturellen Veranstaltungen - zur Kenntnis genommen
+- TOP 10: Zuschüsse der Bezirksvertretung 8 im Jahre 2004 - zur Kenntnis genommen
+- TOP 11: Gumbertstraße 178 - 180 - zur Kenntnis genommen
+- TOP 12: Parkplatz Gumbertstraße 178 - zur Kenntnis genommen
+- TOP 13: ehem. AWO - Kindertagesstätte von-Krüger-Straße - zur Kenntnis genommen
+- TOP 14: Sozialamt - Zweigstelle Eller - zur Kenntnis genommen
+- TOP 15: Stadtbad Eller, Kikweg - zur Kenntnis genommen
+- TOP 16: Sanierung der S-Bahnhöfe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 17: Stadtinformationstafeln der Firma WALL - zur Kenntnis genommen
+- TOP 18: Öffnung von Schulhöfen zum Spielen - zur Kenntnis genommen
+- TOP 19: Jugendrat in den Stadtbezirken - zur Kenntnis genommen
+- TOP 20: Regenrückhaltebecken Rothenbergstraße - zur Kenntnis genommen
+- TOP 21: Räume Polizeiposten Unterbach - zur Kenntnis genommen
+- TOP 22: Kanalisation Vennstraße - zur Kenntnis genommen
+- TOP 23: Kuthsweg - Container - zur Kenntnis genommen
+- TOP 24: Carl-Sonnenschein-Schule in Unterbach - zur Kenntnis genommen
+- TOP 25: Sitzungszeiten - zur Kenntnis genommen
+- TOP 26: Behindertenparkplatz vor Stadtsparkasse Eller - zur Kenntnis genommen
+- TOP 27: Autobücherei in Düsseldorf-Vennhausen - zur Kenntnis genommen
+- TOP 28: Parkscheibenregelung auf der Vennhauser Allee - zur Kenntnis genommen
+- TOP 29: Beflaggung Rathaus Eller - zur Kenntnis genommen
+- TOP 30: Fahrradweg Karl-Geusen-Straße - zur Kenntnis genommen
+- TOP 31: Autorenlesung - zur Kenntnis genommen
+- TOP 32: Arbeitskreis gegen Rechts - zur Kenntnis genommen
+- TOP 33: Parkplatzerweiterung Eller-Mitte - zur Kenntnis genommen
+- TOP 34: Arbeitskreis gegen Extremismus - zur Kenntnis genommen
+- TOP 35: Verkehrslenkung bei größeren Baustellen - zur Kenntnis genommen
+- TOP 36: Platzgestaltung Am Turnisch - zur Kenntnis genommen
+- TOP 37: Schlossparkkonzerte - zur Kenntnis genommen
+- TOP 38: Verkehrssituation Unterbach - zur Kenntnis genommen
+- TOP 39: Kreisverkehr Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 40: Überplanung Vennhauser Allee - zur Kenntnis genommen
+- TOP 41: Sitzungstermine im Jahre 2005 - zur Kenntnis genommen
+- TOP 42: Trauungen im Rathaus Eller - zur Kenntnis genommen
+- TOP 43: Ergebnis der Etatberatung in den Fachausschüssen - zur Kenntnis genommen
+- TOP 44: Gehölzrodung Vennhauser Allee - zur Kenntnis genommen
+- TOP 45: Gubener Straße - zur Kenntnis genommen
+- TOP 46: Straßenbenennung - zur Kenntnis genommen
+- TOP 47: Neujahrsempfang der Bezirksvertretung 8
