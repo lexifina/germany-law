@@ -1,0 +1,74 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-03-25T14:10:00+01:00
+- Ende: 2004-03-25T19:42:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1237
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1237
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111258.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111258.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111258.pdf
+
+## Tagesordnung
+
+- TOP 1: Vereidigung eines Beigeordneten - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Akt. Anfr. CDU: Ausbildungsplatzabgabe - zur Kenntnis genommen
+- TOP 6: Akt. Anfr. SPD: ADFC-Umfrage - zur Kenntnis genommen
+- TOP 7: Akt. Anfr. Lohse: Gagfah-Wohnungen - zur Kenntnis genommen
+- TOP 8: Akt. Anfr. SPD: Städt. Öffentlichkeitsarbeit II - zur Kenntnis genommen
+- TOP 9: Akt. Anfr. Laubenburg:Ausgl. Rheinbahn - zur Kenntnis genommen
+- TOP 10: Akt. Anfr. Laubenburg: Silberpfeile - zur Kenntnis genommen
+- TOP 11: Anfragen - zur Kenntnis genommen
+- TOP 12: Anfr. FDP/CDU: Hartz IV - zur Kenntnis genommen
+- TOP 13: Anfr. Bü90: Hartz IV - zur Kenntnis genommen
+- TOP 14: Anfr. CDU: Ausw. Landeshh. auf Jugend- und Soziale - zur Kenntnis genommen
+- TOP 15: Anfr. CDU: Familienpolitik - zur Kenntnis genommen
+- TOP 16: Anfr. Bü90: Städtepartnerschaften - zur Kenntnis genommen
+- TOP 17: Anfr. BM Winterwerber: Kö-Bogen - zur Kenntnis genommen
+- TOP 18: Anfr. Laubenburg: Genpflanzen - zur Kenntnis genommen
+- TOP 19: Anfr. FDP: Krankenhäuser - zur Kenntnis genommen
+- TOP 20: Anfr. Laubenburg: Rheinquerung Messe - zur Kenntnis genommen
+- TOP 21: Anträge - zur Kenntnis genommen
+- TOP 22: Antr. Bü90: Kö-Bogen - mehrheitlich abgelehnt
+- TOP 23: Änd.-antr. CDU/FDP: Kö-Bogen - mehrheitlich beschlossen
+- TOP 24: Antr. SPD: Seniorenpolitik - verwiesen
+- TOP 25: Antr. SPD: Städtebauliche Vision - mehrheitlich abgelehnt
+- TOP 26: Antra. SPD: Open-Air-Kino - mehrheitlich abgelehnt
+- TOP 27: Antr. CDU/FDP: Zentrum gegen Vertreibung - mehrheitlich beschlossen
+- TOP 28: Kämmererliste (2003) - mehrheitlich beschlossen
+- TOP 29: Kämmererliste 2004 - mehrheitlich beschlossen
+- TOP 30: Ertüchtigung Südbrücke - zur Kenntnis genommen
+- TOP 31: Südbrücke (Neufassung) - einstimmig beschlossen
+- TOP 32: Gesamtmaßnahme Burgplatz 1 - mehrheitlich beschlossen
+- TOP 33: Renovierung Rückertstr. - Information - - einstimmig beschlossen
+- TOP 34: GHS Bernburger Straße 44 - 46, Gesamtsanie - einstimmig beschlossen
+- TOP 35: Humboldt Gymnasium Pempelforter Str. 40, Gesamtsan - einstimmig beschlossen
+- TOP 36: GGS Rolandstr. 40, Gesamtsanierung - einstimmig beschlossen
+- TOP 37: Neubau Stadtteilpark Flingern - einstimmig beschlossen
+- TOP 38: Brandschutzsanierung der Feuerwache 3, Münsterstra - einstimmig beschlossen
+- TOP 39: Ergänzung der Kalkulation für die Straßenreinigung - einstimmig beschlossen
+- TOP 40: Änderung der Regelungen für Eigenkompostierer - einstimmig beschlossen
+- TOP 41: Änderung der Satzung über die Abfallentsorgung - einstimmig beschlossen
+- TOP 42: 8. Satzung zur Änderung der Gebührensatzung über d - einstimmig beschlossen
+- TOP 43: Reihenfolge Vertretung OB - einstimmig beschlossen
+- TOP 44: Umbesetzung Ausschüsse - einstimmig beschlossen
+- TOP 45: AR IDR - mehrheitlich beschlossen
+- TOP 46: AR Seniorenzentren und Kliniken - mehrheitlich beschlossen
+- TOP 47: AR Fh Mönchengladbach - mehrheitlich beschlossen
+- TOP 48: AR Grundstücksentw.-ges. - mehrheitlich beschlossen
+- TOP 49: DMT - AR - einstimmig beschlossen
+- TOP 50: Bildungsoffensive II - einstimmig beschlossen
+- TOP 51: Plan Nr. 5876/11 - 1. Verlängerung Veränderungs. - einstimmig beschlossen
+- TOP 52: Pl5175/07Weizenmühlenstr Veränderungssperre - mehrheitlich beschlossen
+- TOP 53: B-Plan Nr. 6078/43 - Steinweg - Ergänzung; Satzung - einstimmig beschlossen
+- TOP 54: en. 60er, B-Plan Nr. 5581/36 - einstimmig beschlossen
+- TOP 55: 60(1)S.2:BPl5581/36RatherKreuzw/MarlerStr1.VerVÄ - einstimmig beschlossen
+- TOP 56: Grundsatzbeschluss Kunstrasenplätze 2004 - einstimmig beschlossen
+- TOP 57: Modernisierung Rather Waldstadion - einstimmig beschlossen
