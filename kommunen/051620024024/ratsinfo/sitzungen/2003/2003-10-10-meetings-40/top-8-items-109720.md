@@ -1,0 +1,6 @@
+# TOP 8: Bericht BM v. d. Expo Real
+
+- Sitzung: Rat der Stadt Neuss (2003-10-10)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/109720
