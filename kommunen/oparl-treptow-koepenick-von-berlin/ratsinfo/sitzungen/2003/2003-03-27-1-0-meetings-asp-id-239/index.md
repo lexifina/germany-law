@@ -1,0 +1,72 @@
+# 16. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2003-03-27T16:00:00+01:00
+- Ende: 2003-03-27T22:05:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=239
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=239
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_15 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Wahl des Schriftführers - gewählt
+- TOP 8: Wahl der stellv. Schriftführerin/des stellv. Schriftführers - gewählt
+- TOP 9: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im JHA - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Wahl von Patientenfürsprechern - vertagt
+- TOP 11: Wahl der Mitglieder der Sozialkommissionen - vertagt
+- TOP 12: Schließung der Grundschule am Birkenwäldchen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Schließung der Grundschule am Saturnring - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Schließung der Hirschgarten-Grundschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Flughafen Berlin-Schönefeld - schriftlich beantwortet
+- TOP 16: Sondermittel für Collage e.V. (SM 301) - ohne Änderungen in der BVV beschlossen
+- TOP 17: Sondermittel für Schule am Plänterwald - ohne Änderungen in der BVV beschlossen
+- TOP 18: Sondermittel für Seniorenbetreuung (SM 308) - ohne Änderungen in der BVV beschlossen
+- TOP 19: Sondermittel für Landesverein Waldarbeitsmeisterschaften Berlin-Brandenburg e.V. (SM 306) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 20: Sondermittel für SG Burgund 1912 Friedrichshagen e.V. (SM 313) - ohne Änderungen in der BVV beschlossen
+- TOP 21: Sondermittel für Segelgemeinschaft Wendenschloß e.V. (SM 314) - ohne Änderungen in der BVV beschlossen
+- TOP 22: Sondermittel für Bürgerverein Wendenschloß-Kietzer Feld-Gartenvorstadt e.V. (SM 315) - ohne Änderungen in der BVV beschlossen
+- TOP 23: Sondermittel für Förderverein Lokale Agenda 21 Treptow-Köpenick e.V. (SM 325) - ohne Änderungen in der BVV beschlossen
+- TOP 24: Änderung bei den Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 25: Rettet das Eierhäuschen
+- TOP 26: Grüne Pfeile
+- TOP 27: Umfahrung Müggelheimer Straße/Wendenschloßstraße
+- TOP 28: Ortsteilbenennung
+- TOP 29: Verkehrssicherungsmaßnahmen auf dem Fürstenwalder Damm, Höhe Jastrower Weg
+- TOP 30: Verkehrssicherungsmaßnahmen Fürstenwalder Damm / Einmündung Müggelseedamm - ohne Änderungen in der BVV beschlossen
+- TOP 31: Abschaffung des Dienstwagens für den Bezirksbürgermeister
+- TOP 32: Aufstellungsbeschluss für eine Erhaltungsverordnung für die Pflanzgartensiedlung, Ortsteil Köpenick
+- TOP 33: Fußweg zum Zentrum von Altglienicke
+- TOP 34: Bezirkshaushaltsrechnung für das Haushaltsjahr 2000
+- TOP 35: Schulentwicklungsplanung 2002 bis 2006 - überwiesen
+- TOP 36: Weiterführung des Uferweges an der Spree im Block 1 des Sanierungsgebietes Köpenick Altstadt/Kietz Vorstadt Treppenabgang zum Katzengrabensteg auf die Baumgarteninsel - überwiesen
+- TOP 37: Prioritätenliste für den Neubau und die Modernisierung von Lichtsignalanlagen (LSA) - überwiesen
+- TOP 38: Änderungsbeschluss zum Bezirksamtsbeschluss Nr. 125/2002 vom 17.12.2002 für den Bebauungsplanentwurf XV-46 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke (Festsetzungsbeschluss) - überwiesen
+- TOP 39: Anmeldung zur Investitionsplanung 2003-2007 - überwiesen
+- TOP 40: Besetzung der Stelle eines Sozialarbeiters im Abschiebegewahrsam - ohne Änderungen in der BVV beschlossen
+- TOP 41: Zügiger Weiterbau der Köpenicker Altstadtumfahrung von der Oberspreestraße zum Glienicker Weg - ohne Änderungen in der BVV beschlossen
+- TOP 42: Grüner Pfeil am S-Bahnhof Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 43: Köpenicker Sommer - ohne Änderungen in der BVV beschlossen
+- TOP 44: Treptower Radsportfest - mit Änderungen in der BVV beschlossen
+- TOP 45: Lichtzeichenanlage - überwiesen
+- TOP 46: Fußballweltmeisterschaft 2006 - ohne Änderungen in der BVV beschlossen
+- TOP 47: Verkehrskonzept mit Inbetriebnahme der A113 neu - überwiesen
+- TOP 48: Vorbereitung Wirtschaftstage 2003 - ohne Änderungen in der BVV beschlossen
+- TOP 49: Umwidmung Freifläche Frauentog - überwiesen
+- TOP 50: Osterfeuer der Freiwilligen Feuerwehr Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 51: Änderung der Geschäftsordnung - überwiesen
+- TOP 52: Hortplätze 2003/2004 - vertagt
+- TOP 53: Aufhebung Lernmittelfreiheit - vertagt
+- TOP 54: FHTW - vertagt
+- TOP 55: Erklärung zu den Ereignissen um den Abschiebegewahrsam Berlin-Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 56: Tourismusinformation - mit Änderungen in der BVV beschlossen
+- TOP 57: Einhaltung der Zielvereinbarung zwischen Bezirksamt Treptow-Köpenick und Sozialamt vom 06.07.2001 - überwiesen
+- TOP 58: Bauruine in der Straße Am Küstergarten - vertagt
