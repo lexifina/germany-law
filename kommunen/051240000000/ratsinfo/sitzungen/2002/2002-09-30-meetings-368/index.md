@@ -1,0 +1,103 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2002-09-30T16:00:00+02:00
+- Ende: 2002-09-30T18:03:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/368
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/368
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00008820.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00009125.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Bestellung eines weiteren allgemeinen Vertreters - ungeändert beschlossen
+- TOP 2: Fragestunde
+- TOP 2.1: Folgen des Grundsicherungsgesetzes des Bundes
+- TOP 2.2: Folgen des Zuwanderungsgesetzes des Bundes
+- TOP 2.3: Trinkwasserversorgung und ihre Folgen für die
+- TOP 2.4: Grundsicherungskonzept
+- TOP 2.5: Geschwindigkeitsmessung Ehrenhainstraße
+- TOP 2.6: Öffentliches Gelöbnis auf dem Laurentiusplatz
+- TOP 2.7: Verwendung von Recyclingpapier
+- TOP 2.8: Situation an der Hermann-Herberts-Schule
+- TOP 2.9: Baumaßnahmen im Schulzentrum Süd
+- TOP 2.10: Mobilfunkanlagen von Mobilcom in Wuppertal
+- TOP 2.11: Schließung der Altentagesstätte Schusterstraße
+- TOP 3: Neue Fraktionsanträge
+- TOP 3.1: Festsetzung von Mieten für städtische Schulräume
+- TOP 3.2: Terminplanung Steuerungsgremium Regionale 2006 - ungeändert beschlossen
+- TOP 3.2.1: Regionale 2006: Steuerung der Regionaleprojekte - vertagt auf Rat
+- TOP 3.3: Fußball-WM 2006 - vertagt auf Rat
+- TOP 3.4: Änderung der Hauptsatzung - vertagt auf Rat
+- TOP 3.5: Spende der Sitzungsgelder
+- TOP 3.6: Neue Rechts-u. Organisationsform Zoo - vertagt auf Rat
+- TOP 3.7: LED für die Beleuchtung in Verkehrsampeln - vertagt auf Rat
+- TOP 3.8: Protest gegen Rechtsextremismus
+- TOP 4: Fraktionsanträge, die bereits in einem Gremium vor
+- TOP 4.1: N N
+- TOP 4.2: N.N Behandlung erfolgt unter TOP 8.4
+- TOP 5: Ortsrecht
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Über- und außerplanmäßige Ausgaben 2002 - ungeändert beschlossen
+- TOP 6.2: Vorgabe der Kommunalaufsicht zur Kreditreduzierung - ungeändert beschlossen
+- TOP 7: Angelegenheiten des Beteiligungsmanagements
+- TOP 7.1: Gründung einer regionalen Verkehrsmanagementgesel. - vertagen
+- TOP 7.2: die börse, Zustimmung zur gGmbH-Gründung
+- TOP 8: Planverfahren
+- TOP 8.1: 2 . Verlängerung einer Veränderungssperre BP 1021 - ungeändert beschlossen
+- TOP 8.2: Bebauungsplan Nr. 938 - Barmenia - ungeändert beschlossen
+- TOP 8.3: Bebauungsplanverfahren Nr. 964- Lienhardplatz- - ungeändert beschlossen
+- TOP 8.4: Bauleitplanverfahren 1013 Aufhebungsbeschluss - abgelehnt
+- TOP 8.4.1: Fläche "An der Bük" - abgelehnt
+- TOP 8.5: Durchführungsplan Nr. 45 - Haspel - - ungeändert beschlossen
+- TOP 8.6: Bauleitplanverfahren Nr. 881 V - geändert beschlossen
+- TOP 8.7: Bauleitplanverfahren Nr. 881 - ungeändert beschlossen
+- TOP 8.8: Entwicklungssatzung in Langerfeld-Beyenburg - ungeändert beschlossen
+- TOP 8.9: vorhabenbezogener Bebauungsplan Nr. 1037 - ungeändert beschlossen
+- TOP 8.9.1: Bauleitplanverfahren Luhnsfelder Höhe
+- TOP 8.10: Landschaftsplanverfahren - Landschaftsplan Wuppert - geändert beschlossen
+- TOP 8.10.1: Landschaftsplanverfahren - Landschaftsplan Wuppert - geändert beschlossen
+- TOP 8.11: Bauleitplanverfahren Nr. 512 - Wasserstr. - - ungeändert beschlossen
+- TOP 9: Baumaßnahmen
+- TOP 9.1: Erweiterung der GGS Meyerstraße um 3 Klassenräume - ungeändert beschlossen
+- TOP 9.2: Erweiterung des Schulzentrums Ost, - ungeändert beschlossen
+- TOP 9.3: Ersatz eines abgängigen 4-klassigen Leichtbaus - ungeändert beschlossen
+- TOP 9.4: Errichtung von naturwissenschaftlichen Räumen, - ungeändert beschlossen
+- TOP 9.5: Erweiterung der Gesamtschule Langerfeld, - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Jahresabschluss 2001 für die - ungeändert beschlossen
+- TOP 10.2: Gartenhallenbad Langerfeld - ungeändert beschlossen
+- TOP 10.3: N.N
+- TOP 10.4: Abweichungssatzung Schluchtstraße - ungeändert beschlossen
+- TOP 10.5: Förderung der Wohnberatungsstelle in Wuppertal - ungeändert beschlossen
+- TOP 10.6: European Energy Award - ungeändert beschlossen
+- TOP 10.7: Stadtbildverbesserung - vertagen
+- TOP 10.8: Kulturachse Barmen - geändert beschlossen
+- TOP 10.9: Regionale 2006 - Zoo/ Stadion - - ungeändert beschlossen
+- TOP 10.10: Spielgruppenförderung - ungeändert beschlossen
+- TOP 10.11: Schwimmoper - vertagen
+- TOP 10.11.1: Umnutzung der Schwimmoper - vertagen
+- TOP 10.11.2: Vertagung und Anfragen zur Schwimmoper - vertagen
+- TOP 10.12: Bürgerbegehren für den Erhalt der Schwimmoper - vertagen
+- TOP 10.13: Gewährung v. Zuschüssen an priv. Sonderschulträger - ungeändert beschlossen
+- TOP 10.14: Investitionskostenzuschuss an Verein Waldorfhaus - ungeändert beschlossen
+- TOP 10.15: Maßnahmenkatalog der WSW AG, Sparte Stadtentwässer - ungeändert beschlossen
+- TOP 10.16: Ausschreibung und Verkauf von Wohnbauflächen - ungeändert beschlossen
+- TOP 10.16.1: Änderungsantrag - abgelehnt
+- TOP 11: Gremienbesetzung / Benennungen
+- TOP 11.1: Umbesetzung des Denkmalpflegeausschusses - ungeändert beschlossen
+- TOP 11.2: Beirat FSG - ungeändert beschlossen
+- TOP 11.3: Neuwahl eines sachkundigen Einwohners/Vertreters - ungeändert beschlossen
+- TOP 11.4: Umbesetzung im Ausschuss für Frauenförderung - ungeändert beschlossen
+- TOP 11.5: Besetzung des Lenkungsausschusses - ungeändert beschlossen
+- TOP 11.6: Umbesetzung des Umweltausschusses - ungeändert beschlossen
+- TOP 12: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 12.1: Modulbau an der GGS Hermann-Herberts-Schule - Dringlichkeitsentscheidung genehmigt
+- TOP 12.2: Wahl der Bezirksjugendräte - Dringlichkeitsentscheidung genehmigt
+- TOP 12.3: Melderegisterauskünfte in Bezug auf die Wahl - Dringlichkeitsentscheidung genehmigt
+- TOP 12.4: Sanierung des Gebäudes der kath. Grundschule - Dringlichkeitsentscheidung genehmigt
