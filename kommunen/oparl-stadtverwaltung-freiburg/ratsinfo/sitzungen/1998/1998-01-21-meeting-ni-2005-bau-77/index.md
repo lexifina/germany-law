@@ -1,0 +1,16 @@
+# Gemeinsame Sitzung des Bau- und Verkehrsausschusses und 1. Sitzung des Bauausschusses
+
+- Körperschaft: Stadtverwaltung Freiburg
+- Beginn: 1998-01-21T16:15:00+01:00
+- Ende: 1998-01-21T19:20:00+01:00
+- Ort: Großer Sitzungssaal im Bestandsgebäude des RiS, Fehrenbachallee 12, 79106 Freiburg im Breisgau
+- Status: terminiert
+- Gremium: 
+- Ratsinformationssystem: https://ris.freiburg.de/oparl/meeting/ni_2005-Bau-77
+- OParl: https://ris.freiburg.de/oparl/meeting/ni_2005-Bau-77
+- Quelle: https://ris.freiburg.de/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: 6. Bebauungsplanänderung Gewerbe- und Industriegebiet Hochdorf h i e r : Aufstellungsbeschluß
+- TOP 2: Bekanntgaben und Aktuelles
