@@ -1,0 +1,86 @@
+# 29. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2004-06-24T16:00:00+02:00
+- Ende: 2004-06-24T22:15:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=453
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=453
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=23563
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Personelles/Wahlen - beantwortet
+- TOP 7.1: Wahl der Schiedspersonen für die Schiedsamtsbezirke Treptow-Köpenick 1 bis 3 - gewählt
+- TOP 8: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 8.1: Leistungen nach dem Asylbewerberleistungsgesetz - schriftlich beantwortet
+- TOP 8.2: Gender Budgeting - schriftlich beantwortet
+- TOP 9: Beschlussvorlagen - gegenstandslos
+- TOP 9.1: Sondermittel für Selbsthilfegruppe Gymnastik (SM 436) - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Sondermittel für Freiwillige Feuerwehr Berlin-Grünau (SM 419) - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Sondermittel für Jugendfeuerwehr Johannisthal (SM 430) - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Sondermittel für TC Berlin-Grünau e.V. (SM 434) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Sondermittel für Katholische Kirchengemeinde St. Josef (SM 437) - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Sondermittel für Indische Solidaritätsaktion e.V. (SM 441) - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Sondermittel für Adlershofer Festkomitee (SM 443) - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Sondermittel für ajb gmbh Betreutes Wohnen Treptow (SM 445) - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Sondermittel für Schlossplatztheater (SM 446) - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Erlass der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB für die Pflanzgartensiedlung im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - überwiesen
+- TOP 9.11: Planungsrechtliche Sicherung nach § 125 Abs. 2 BauGB zur Verbindung der öffentlichen Parkanlage im ehemaligen Ernst-Grube-Stadion (Bebauungsplan XVI-10a) mit dem Angersteinweg/Eiselenweg über Teilflächen der Grundstücke Angersteinweg 2 und 4. - überwiesen
+- TOP 9.12: Sondermittel für Kreisjugendring e.V. (SM 449) - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 10.1: Fortführung des Kulturpolitischen Kalenders - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bolzplatz an der 15. Grundschule in Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Bezirkliche Aktivitäten im FEZ - mit Änderungen in der BVV beschlossen
+- TOP 10.4: Verlängerung der Buslinie 272 von der Haltestelle Stelzenweg in Neukölln zur Haltestelle Baumschulenstraße / Fähre und zurück - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Kosten der Schulhortangebote - in der BVV abgelehnt
+- TOP 10.6: Aufstellungsbeschluss der Erhaltungsverordnung nach § 172 Abs. 1 Satz 1 Nr. 1 BauGB für das Gebiet Dammweg 5-117 im Bezirk Treptow-Köpenick, Ortsteil Plänterwald - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Würdigung 15. Jahrestag des Mauerfalls - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Würdigung des 60. Jahrestages des Endes des 2. Weltkrieges und der Befreiung vom Nationalsozialismus - mit Änderungen in der BVV beschlossen
+- TOP 10.9: Parken in der Peetzseestraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Aßmannstraße / Rahnsdorfer Straße als Fahrradstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Mietervertretungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.13: Benennung der Straße 125A - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Regenbogenfahnen an den Fahnenmasten - mit Änderungen in der BVV beschlossen
+- TOP 10.15: Historische Nutzung des Grenzwachturms "Am Schlesischen Busch" - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Schulentwicklungsplanung I - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 11.1: Lokale Agenda Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Leitlinien für die kommunale Kulturarbeit im Bezirk Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.3: Konzept zur Standortoptimierung ungedeckter Sportanlagen Sportstättenentwicklungsplan 2004 - überwiesen
+- TOP 11.4: Beantragung der Verleihung eines Bezirkswappens für den Bezirk Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.5: Bebauungsplan XV-13 hier: Änderung und Teilung des Geltungsbereiches des Bebauungsplanes in die aufzustellenden Bebauungspläne XV-13a und XV-13b - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Anträge - gegenstandslos
+- TOP 12.1: Neuregelung der europäischen Badegewässerverordnung - vertagt
+- TOP 12.2: Rathaus Johannisthal als Kiezzentrum - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Geplante Schließung des Bahnüberganges km 16,4 im Bereich Bohnsdorf Schwarzer Weg/Waldstr. - Berliner Forsten - überwiesen
+- TOP 12.4: Gestaltung aktiver demokratischer Mitwirkung von Bürgerinnen und Bürgern im Bezirk - vertagt
+- TOP 12.5: S 3 wieder bis Westkreuz - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Stadtcampingplatz - überwiesen
+- TOP 12.7: Öffentliche Toilette am S-Bahnhof Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Parken ohne Gebühren an der Altstadt Köpenick - überwiesen
+- TOP 12.9: Gender Budgeting (II) - überwiesen
+- TOP 12.10: Colani-Ausstellung und Colani Design GmbH - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Projekte und sexuelle Identität - überwiesen
+- TOP 12.12: Verkehrslösung Johannisthal (Melli-Beese-Ring) - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Ausschilderung Alte Försterei - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Anlaufstelle für verfassungsfeindliche Symbole an Gebäuden - überwiesen
+- TOP 12.15: Schulfusionen beschleunigen - überwiesen
+- TOP 12.16: Werbung auf Fuhrpark-Fahrzeugen - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: "Tag der offenen Tür" - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Dezentrale Kulturarbeit - überwiesen
+- TOP 12.19: Erhalt Mädchennotdienste - überwiesen
+- TOP 12.20: Keine Änderung der Linienführung Tram 61 - mit Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.1: Auswirkungen der Hartzgesetze auf die soziokulturelle Infrastruktur Treptow-Köpenicks - vertagt
+- TOP 13.2: Umsetzung von Hartz IV im Bezirk - vertagt
