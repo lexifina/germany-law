@@ -1,0 +1,57 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-05-25T17:00:00+02:00
+- Ende: 2004-05-25T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1317
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1317
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111248.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111248.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111248.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Kriminalitäts- und Verkehrsunfallentwicklung
+- TOP 4: Grundwasserverunreinigung Gerrresheim Süd-Sachstan
+- TOP 5: L404 Grundsatzbeschluss
+- TOP 6: B-Plan Nr. 6080/21 - Gallberger Höhe
+- TOP 7: Freigabe von verkaufsoffenen Sonntagen im Jahr '04
+- TOP 8: Classics & Garden 04
+- TOP 9: Zuschuss an Borussia Düsseldorf
+- TOP 10: Verwendung von Haushaltsmitteln
+- TOP 11: Ambiente Blutskapellchen
+- TOP 12: Straßen nach Antifaschisten benennen
+- TOP 13: Schulinformation zur Kommunalwahl 2004
+- TOP 14: Sicherung des Kletterbaumes am Mühlenbergweg
+- TOP 15: Verbesserte Notrufmöglichkeit
+- TOP 16: Sicherheit von Fahrradfahrern auf der Benderstraße
+- TOP 17: Lebensqualität im Stadtbezirk 7
+- TOP 18: Revitalisierungsprogramm für Gerresheim
+- TOP 19: Lichtmasterplan
+- TOP 20: Glashütte
+- TOP 21: Offene Ganztagsschule
+- TOP 22: Ausbau der Torfbruchstraße
+- TOP 23: Erweiterung des Bürgerhauses Gerresheim
+- TOP 24: Umlaufschranke Wendehammer Fröbelstraße
+- TOP 25: Aloys-Odenthal-Platz
+- TOP 26: Einbahnregelung Pilgerweg
+- TOP 27: Wegebeleuchtung
+- TOP 28: Spielplatz Oberlinstraße
+- TOP 29: Poller am Schellbergweg
+- TOP 30: Verkehrslenkung Kreuzung Heyestr./Torfbruchstr.
+- TOP 31: Sperreinrichtung Bereich Schellbergweg
+- TOP 32: Ringofengelände "Am Wildpark"
+- TOP 33: Parksituation im Brölweg
+- TOP 34: Bürgerhaus Gerresheim
+- TOP 35: Absicherung der Kindergartenplätze
+- TOP 36: Fahrbahninstandsetzungsbedarfsliste
+- TOP 37: Platz Metzkauser-/Ecke Benderstraße
+- TOP 38: Verkehrsberuhigungsschwellen "Am Wildpark"
+- TOP 39: Piktogramm Heckteichstraße
+- TOP 40: Umbau der Bergischen Landstraße
