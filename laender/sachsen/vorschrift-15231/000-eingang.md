@@ -1,0 +1,3 @@
+# Verordnung des Regierungspräsidiums Dresden zur Festsetzung des Naturschutzgebietes „Elbtalhänge zwischen Rottewitz und Zadel“
+Vom 25. Oktober 2002
+Auf Grund von § 16 und § 50 Abs. 1 Nr. 2 des Sächsischen Gesetzes über Naturschutz und Landschaftspflege (Sächsisches Naturschutzgesetz – SächsNatSchG) in der Fassung der Bekanntmachung vom 11. Oktober 1994 (SächsGVBl. S. 1601, 1995 S. 106), das zuletzt durch Artikel 1 § 1 Nr. 18 des Gesetzes vom 6. Juni 2002 (SächsGVBl. S. 168) geändert worden ist, und § 32 Abs. 1 des Sächsischen Landesjagdgesetzes (SächsLJagdG) vom 8. Mai 1991 (SächsGVBl. S. 67), das zuletzt durch Artikel 50 des Gesetzes vom 28. Juni 2001 (SächsGVBl. S. 426, 430) geändert worden ist, wird im Einvernehmen mit der höheren Jagdbehörde verordnet:
