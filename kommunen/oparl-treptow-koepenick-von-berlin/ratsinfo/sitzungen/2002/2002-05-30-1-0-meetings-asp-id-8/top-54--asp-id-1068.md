@@ -1,0 +1,6 @@
+# TOP 54: Sanierung Rad- und Fußweg am Falkenberg
+
+- Sitzung: 7. (ordentliche) Sitzung der Bezirksverordnetenversammlung (2002-05-30)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=1068
