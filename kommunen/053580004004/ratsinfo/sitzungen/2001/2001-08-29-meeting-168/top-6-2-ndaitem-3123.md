@@ -1,7 +1,6 @@
-# TOP 6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+# TOP 6.2.: Personalplanung; Beförderungen - Höhergruppierungen
 
 - Sitzung: Gemeinderat (2001-08-29)
 - Körperschaft: Gemeinde Aldenhoven
 - Öffentlich: ja
 - OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/3123
-- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
