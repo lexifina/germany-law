@@ -37,6 +37,12 @@ oder
 Grund: Sicherheitsfarbe; Text: Kontrastfarbe.
 5.4. Bildzeichen
 Die Aufmachung muß so einfach wie möglich sein; auf Einzelheiten, die für das Verständnis unnötig sind, ist zu verzichten.
-6. GEFAHRENKENNZEICHNUNG DURCH GELB/SCHWARZ
+5.5. Größe der Zeichen
+Für die Bemessung der Größe eines Zeichens soll die Formel
+beachtet werden. Dabei ist A die Fläche des Zeichens in m2 und 1 der Abstand in m, in dem die Bedeutung des Zeichens noch erkennbar sein muß.
+Anmerkung: Die Formel läßt sich bis zu einem Abstand von etwa 50 m anwenden.
+6. Farb- und fotometrische Eigenschaften der Werkstoffe
+Hinsichtlich der Farb- und fotometrischen Eigenschaften der Werkstoffe sollen die ISO-Normen und die Normen der Internationalen Beleuchtungskommission (CIE Commission internationale de l'éclairage) angewendet werden.
+7. GEFAHRENKENNZEICHNUNG DURCH GELB/SCHWARZ
 Fußnoten
 (1) Gilt als Sicherheitsfarbe nur in Verbindung mit einem Bildzeichen oder einem Text auf Gebotszeichen oder Hinweiszeichen mit sicherheitstechnischen Anweisungen.
