@@ -1,4 +1,3 @@
-## Gesetz über den Kommunalen Versorgungsverband Sachsen (SächsGKV)
 # Inhaltsübersicht
 Erster Teil Aufbau und Rechtsstellung
 § 1 Rechtsstellung und Sitz
@@ -33,7 +32,7 @@ Vierter Teil Verfassung und Verwaltung
 3. Abschnitt: Direktor
 § 23 Rechtsstellung
 § 24 Aufgaben
-§ 258 Beauftragung, Vollmacht, Verpflichtungserklärungen
+§ 25 Beauftragung, Vollmacht, Verpflichtungserklärungen
 4. Abschnitt: Beschäftigte
 § 26 Beschäftigte
 Fünfter Teil Finanzwirtschaft
@@ -46,5 +45,10 @@ Sechster Teil Aufsicht
 Siebter Teil Sonderkasse
 § 32 Allgemeines
 § 33 Verwaltungsausschuß
-Achter Teil Schlußvorschriften
-§ 24 Inkrafttreten und Schlußvorschriften
+Achter Teil Sondervermögen nach §14a Bundesbesoldungsgesetz
+§ 34 Allgemeines
+§ 35 Anlage der Mittel
+§ 36 Verwaltungsausschuß
+§ 37 Satzung
+Neunter Teil Schlußvorschriften
+§ 38 Inkrafttreten und Schlußvorschriften
