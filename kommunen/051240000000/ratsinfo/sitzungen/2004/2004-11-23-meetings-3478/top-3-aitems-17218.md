@@ -1,0 +1,6 @@
+# TOP 3: Wahl einer / eines Vorsitzenden
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Werksausschusses Kinder- und Jugendwohngruppen (2004-11-23)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/17218
