@@ -41,9 +41,7 @@ fortgeltend:
 §§ 1 bis 3 § 10 §§ 13 bis 21 § 22 Abs. 4 § 23 Abs. 1 §§ 24 bis 28 Abs. 1 §§ 29 bis 32
 11. 611 Gesetz zur Regelung des Kirchensteuerwesens
 vom 23. September 1990 (BGBl. 1990 II S. 885, 1194)
-Genese: § 14 Abs. 1 Satz 1 aufgehoben durch Artikel 9 des Gesetzes über die Organisation der Gerichte im Freistaat Sachsen (Sächsisches Gerichtsorganisationsgesetz – SächsGerOrgG) vom 30. Juni 1992 (SächsGVBl. S. 287); § 5 Abs. 2 Satz 3 gestrichen und § 5 Abs. 3 angefügt durch Gesetz zur Änderung des Gesetzes zur Regelung des Kirchensteuerwesens vom 10. November 1992 (SächsGVBl. S. 539); Abschnitt IV aufgehoben durch § 39 Nr. 2 Sächsisches Meldegesetz (SächsMG) vom 21. April 1993 (SächsGVBl. S. 353); § 6 Abs. 3 Satz 1, § 12 Abs. 1 Satz 2 und § 14 Abs. 1 Satz 2 geändert durch Gesetz zum Vertrag mit den evangelischen Landeskirchen im Freistaat Sachsen vom 24. Juni 1994 (SächsGVBl. S. 1252); § 6 Abs. 1 Nr. 1 Satz 2, Abs. 3 Satz 3 geändert, § 8 Abs. 2 neugefaßt und § 14 Abs. 1 geändert durch Artikel 2 des Gesetzes zum Vertrag zwischen dem Heiligen Stuhl und dem Freistaat Sachsen vom 24. Januar 1997 (SächsGVBl. S. 17); § 2 Nr. 1 Buchst. c, Nr. 2 Buchst. c und e neugefaßt, § 5 Abs. 2 Satz 1 und 2 geändert, § 5 Abs. 3 eingefügt, § 5 Abs. 4 geändert, § 6 Abs. 1 geändert, § 6 Abs. 2 eingefügt, § 6 Abs. 4 geändert, § 8 Abs. 2 Satz 1 neugefaßt, § 10 geändert durch Gesetz zur Änderung des Gesetzes zur Regelung des Kirchensteuerwesens vom 15. Januar 1998 (SächsGVBl. S. 3)
-fortgeltend:
-gesamte Vorschrift
+Vorschrift außer Kraft durch § 17 des G vom 14. Februar 2002 (SächsGVBl. S. 82, 84)
 12. 7820 Anordnung über den Einsatz von Bienenvölkern zur Blütenbestäubung von Obst-, Ölfrucht- und Vermehrungskulturen sowie zur Nutzung sonstiger Kultur- und Naturtrachten
 vom 18. September 1987 (GBl. I Nr. 25 S. 243)
 fortgeltend:
