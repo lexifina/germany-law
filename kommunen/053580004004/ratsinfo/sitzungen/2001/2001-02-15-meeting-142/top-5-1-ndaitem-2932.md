@@ -1,4 +1,4 @@
-# TOP 5.1.: Neubesetzung von Gremien
+# TOP 5.1.: Neubesetzung von Ausschüssen pp. nach dem Ausscheiden des Ratsherrn Hüttenhain
 
 - Sitzung: Gemeinderates (2001-02-15)
 - Körperschaft: Gemeinde Aldenhoven
