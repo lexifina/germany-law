@@ -1,0 +1,8 @@
+# TOP 7: Vorhabenbezogener Bebauungsplan 9-6 VE hier: Einleitung des Planaufstellungsverfahrens
+
+- Sitzung: 31. (öfftl.) Sitzung des Ausschusses für Stadtplanung und Verkehr (2003-11-19)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=3600
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=3600
