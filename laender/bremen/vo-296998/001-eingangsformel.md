@@ -1,0 +1,2 @@
+# Eingangsformel
+Zur Durchführung des Gesetzes über Maßnahmen zur Verbesserung der Agrarstruktur und zur Sicherung land- und forstwirtschaftlicher Betriebe (Grundstücksverkehrsgesetz - GrdstVG) vom 28. Juli 1961 (BGBl. I S. 1091) und des Gesetzes über das gerichtliche Verfahren in Landwirtschaftssachen vom 21. Juli 1953 (BGBl. I S. 667) in der Fassung des Grundstücksverkehrsgesetzes bestimmt der Senat:
