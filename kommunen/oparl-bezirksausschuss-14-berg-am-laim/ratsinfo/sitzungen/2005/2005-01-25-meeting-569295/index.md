@@ -1,0 +1,97 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2005-01-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/569295
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/569295
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 1.1.7: Besetzung der Unterausschüsse
+- TOP 1.1.1: Umbesetzungen in den Unterausschüsse Fest und Kultur sowie Soziales
+- TOP 1.1.2: Wahl einer/eines Vorsitzenden des Unterausschusses Soziales
+- TOP 1.1.3: Wahl einer/eines Vorsitzenden des Unterausschusses Fest und Kultur
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1: Entwurf vorhabenbezogener Bebauungsplan Nr.1931;Bereich Hultschiner Straße (östlich) zwischen Zamila - und Zamdorfer Straße
+- TOP 3.1.2: Gaststättenbetrieb Grafinger Str.6, Nutzungsänderung; Tektur des Gesamtplans
+- TOP 3.1.3: Gaststättenbetrieb Friedensstraße 10, Optimolgelände Geb. F; Nutzungsänderung Kfz?Stellplatz zu Gastronomie
+- TOP 3.1.4: Gaststättenbetrieb Friedensstraße 10, Optimolgelände Geb. A; Nutzungsänderung Ausstellungsfläche zu Salsa-Club/Diskothek
+- TOP 3.1.5: Gaststättenbetrieb Friedensstraße 10, Optimolgelände Geb. A, Nutzungsänderung: Teilfläche zu Gastronomiebetrieb
+- TOP 3.1.6: Gaststättenbetrieb Friedensstraße 10, Umbau u. Nutzungsänderung: Laden zu Teestube, Tektur
+- TOP 3.1.7: Gaststättenbetrieb Grafinger Str. 6, Nutzungsänderung, Kultfabrik Werk 2, Tektur
+- TOP 3.1.8: Gaststättenbetrieb Grafinger Str. 6, Nutzungsänderung, Kultfabrik Werk 7, Tektur
+- TOP 3.1.1: Lichtzeichenanlagenprogramm 2005; Anhörung
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.1: Akuter Raummangel an Berg am Laimer Schulen; Antrag
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.1: Betreuung in staatlichen Gemeinschaftsunterkünften; Antwort des Sozialreferats (zu TOP 3.4.1/11/03)
+- TOP 3.1.1: Antrag auf Zuschuss aus dem Budget des BA 14 des Elternbeirats der städt. Ludwig-Thoma Realschule
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.1: ?Putzstunde?; Schreiben des KVR (zu TOP 3.6.2/10/04)
+- TOP 3.1.2: Änderung der BA-Satzung; Anhörung für den Kauf von Grundstücken; Anhörung
+- TOP 3.1.3: Antrag auf Gastspiel der ? Euskirchner Zeltpuppenbühne?; Anhörung
+- TOP 3.1.4: Antrag auf Gastspiel der ? Puppenbühne Liebe?; Anhörung
+- TOP 3.1.1: Halfinger Str. 33, Antrag auf Fällung laut Plan
+- TOP 3.1.2: Josef-Ritz-Weg 37+39, Antrag auf Fällung laut Plan
+- TOP 3.1.3: Oedkarspitzstr. 30; Antrag auf Fällung laut Plan
+- TOP 3.1.4: Simbacher Str.8; Antrag auf Fällung eines Laubbaumes
+- TOP 3.1.5: Blombergstr.9; Antrag auf Fällung eines Nadelbaumes
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1: Vollzug des Allgemeinen Eisenbahngesetzes; Erweiterung der Abstellanlage des S-Bahnhofes Steinhausen;Stellungnahme des Referats für Stadtplanung und Bauordnung (zu TOP 3.1.2.5./11/04)
+- TOP 4.1.2: Stadtsanierung in München, Sanierungsgebiet Haidhausen; Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 12.01.2005
+- TOP 4.1.3: Werbeanlagen; Information des Referats für Stadtplanung und Bauordnung
+- TOP 4.1.4: Meldeliste der Erstanträge in der Zeit vom 06.11.2004 bis 02.01.2005
+- TOP 4.1.5: Meldeliste der Änderungen in der Zeit vom 06.12.2004 bis 09.01.2005
+- TOP 4.1.6: Meldeliste der Abbrüche in der Zeit vom 20.12.2004 bis 02.01.2005
+- TOP 4.1.1: Neues Busnetz ab 12.12.2004; Schreiben der MVG
+- TOP 4.1.2: ?Verhältnis Radfahrverkehr und motorisierter Individualverkehr?; Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 12.01.2005
+- TOP 4.1.1: Nulltoleranz gegenüber Schmutzfinken und keine Fixerspritzen auf Spielplätzen; Beschlussvorlage des Bauausschusses vom 18.01.2005
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.1: Schüler ? und Klassenzahlen der öffentl. Grund-,Haupt- und Förderschulen;
+- TOP 4.1.2: Schüler ? und Klassenzahlen städtischer und staatlicher Gymnasien;
+- TOP 4.1.3: Schüler ? und Klassenzahlen der städtischen Realschulen;
+- TOP 4.1.4: Schüler/innen und Klassenstand beruflicher Schulen;
+- TOP 4.1.5: Aufbau einer Praktikumsbörse; Schreiben des ?Kompetenz für Frauen e.V.? vom 23.12.2004
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.1: Sachverständige für Migrationsfragen; Beschlussvorlage des Sozialausschusses vom 03.01.2005
+- TOP 4.1.2: Quartierbezogene Bewohnerarbeit; Beschluss des Sozialhilfeausschusses vom 25.11.2004
+- TOP 4.1.3: Stadtteilbezogenes Verzeichnis städtischer Kindertageseinrichtungen; Schreiben des Schul- und Kultusreferats vom 11/04
+- TOP 4.1.4: Bereinigtes Einschreibeergebnis Schuljahr 04/05; Schreiben des Schul und Kultusreferats vom 03.01.2005
+- TOP 4.1.5: Münchener Gesamtplan II, Soziale Wohnungsfürsorge; Beschluss des Sozialhilfeausschusses vom 25.11.04
+- TOP 4.1.6: Bau von barrierefreien Wohnungen in den Unterkunftsanlagen der LH München; Beschlussvorlage des Sozialausschusses vom 13.01.2005
+- TOP 4.1.1: Antrag auf Budget des BA 14 durch den Theaterverein ?Die lustigen Truderinger?. ? Bescheid
+- TOP 4.1.2: Antrag auf Budget des BA 14 durch den Kinder und Jugendtreff Zeugnerhof ? Bescheid
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.1: Fortschreibung der Machbarkeitsstudie Bürgerzentrum; Schreiben des Personal und Organisationsreferats vom 05.01.2005
+- TOP 4.1.2: Einführung des Ratsinformationssystems (RIS) bei den BA Geschäftstellen; Schreiben des Direktoriums vom 15.12.2004
+- TOP 4.1.1: Mutschellerstr. 3 Fällungsantrag vom 05.10.2004; Bescheid
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
