@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 22c Abs. 1 des Gerichtsverfassungsgesetzes in der Fassung der Bekanntmachung vom 9. Mai 1975 (BGBl. I S. 1077), das zuletzt durch Gesetz vom 26. Juli 2002 (BGBl. I S. 2914) geändert worden ist, in Verbindung mit der Verordnung über die Übertragung der Ermächtigung nach § 22c Abs. 1 Satz 1 des Gerichtsverfassungsgesetzes vom 22. Oktober 2002 (Brem.GBl. S. 543) wird verordnet:
