@@ -1,0 +1,68 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-06-17T14:00:00+02:00
+- Ende: 2004-06-17T20:59:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1239
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1239
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111282.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111282.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111282.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpfl. RM - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Anfragen - zur Kenntnis genommen
+- TOP 6: Akt. Anfr. Laubenburg: BAT - zur Kenntnis genommen
+- TOP 7: Anfr. CDU: Hilfe Drogenabhängige - zur Kenntnis genommen
+- TOP 8: Anfr. CDU: Hartz IV - zur Kenntnis genommen
+- TOP 9: Anfr. SPD: Sporthalle Karl-Hohmann-Straße - zur Kenntnis genommen
+- TOP 10: Anfr.SPD: Ö-Arbeit III - zur Kenntnis genommen
+- TOP 11: Anfr. Bü90: Gedenktafel im Rathaus - zur Kenntnis genommen
+- TOP 12: Anfr. Lohs: Biogarten - zur Kenntnis genommen
+- TOP 13: Anfr. Rf Zimmermann: Aquazoo - zur Kenntnis genommen
+- TOP 14: Anträge - zur Kenntnis genommen
+- TOP 15: Antr.SPD/Bü90/GRü: Ausländerbeirat - mehrheitlich abgelehnt
+- TOP 16: 01/147/2004: Änd.-antr. FDP - mehrheitlich abgelehnt
+- TOP 17: Antr.Bü90/Grü: Kriminalprävention - mehrheitlich abgelehnt
+- TOP 18: Antr.Bü90/Grü: Sportstättenpl. - mehrheitlich abgelehnt
+- TOP 19: Antr. FDP: Sicherheit - mehrheitlich abgelehnt
+- TOP 20: Antr. SPD: Handlungsfelder Sicherheit und Ordnung - mehrheitlich abgelehnt
+- TOP 21: Antr. SPD: Familien fördern, Kinder stärken - mehrheitlich abgelehnt
+- TOP 22: 01/148/2004: Änd.-antr. CDU/FDP - mehrheitlich beschlossen
+- TOP 23: Antr. CDU: Sicherheit - mehrheitlich beschlossen
+- TOP 24: Partnerschaft Chongqing - einstimmig beschlossen
+- TOP 25: Kämmererliste 2003 - mehrheitlich beschlossen
+- TOP 26: Kämmererliste 2004 - mehrheitlich beschlossen
+- TOP 27: Üpl. Mittel f. Absicherung amerik. G-Konsulat - mehrheitlich beschlossen
+- TOP 28: "Happy Hour" Eintrittsfreie Stunden in den städtis - einstimmig beschlossen
+- TOP 29: Bauherrenvorlage Vennhauser Allee - einstimmig beschlossen
+- TOP 30: 4-Nationen-Hockey-Turnier in Düsseldorf - einstimmig beschlossen
+- TOP 31: Vermarktung Sportveranstaltungen - mehrheitlich beschlossen
+- TOP 32: Eisstadion Theodorstraße
+- TOP 33: Änd.-antr. Bü90: Eishalle Theodorstraße
+- TOP 34: Erg.-antr. SPD: Eishalle Theodorstraße
+- TOP 35: Schule Siegburger Str. 137 - 139 49 B+F - einstimmig beschlossen
+- TOP 36: MP 2004 Sanierung Gemeinschaftsgrundschule Adam- - einstimmig beschlossen
+- TOP 37: Masterplan Schulen 2004, Sanierung Kath. G - einstimmig beschlossen
+- TOP 38: Worringer Platz - einstimmig beschlossen
+- TOP 39: Umbesetzungen - einstimmig beschlossen
+- TOP 40: Umbes. d. Komm.Wahlauss. - einstimmig beschlossen
+- TOP 41: Vorschl. Bes. VR Agentur f.Arb Dssd. - mehrheitlich beschlossen
+- TOP 42: Ausschuss anzeigepflichtige Entlassungen - einstimmig beschlossen
+- TOP 43: Schöffenwahlausschuss - einstimmig beschlossen
+- TOP 44: Verleihung des Heine-Preises 2004 - einstimmig beschlossen
+- TOP 45: Freigabe von verkaufsoffenen Sonntagen im Jahr '04 - einstimmig beschlossen
+- TOP 46: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 47: Plan Nr. 5775/36 - Veränderungssperre - 2.Verl. - einstimmig beschlossen
+- TOP 48: Pl5972/19IndGebwestlOerschbachstr VÄ - einstimmig beschlossen
+- TOP 49: Plan Nr. 5476/114 - Denkmalbereichssatzung - einstimmig beschlossen
+- TOP 50: FNPÄ 52 Nördl.karl-Hohmann-Str. Plan - einstimmig beschlossen
+- TOP 51: Aufsichtsrat ekz - einstimmig beschlossen
