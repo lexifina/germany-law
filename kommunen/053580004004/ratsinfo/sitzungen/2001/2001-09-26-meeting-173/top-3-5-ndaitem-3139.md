@@ -1,4 +1,4 @@
-# TOP 3.5.: Schulangelegenheiten
+# TOP 3.5.: Aufteilung der Haushaltsmittel für die Nachmittagsbetreuung 2001
 
 - Sitzung: Schul- und Sozialausschuss (2001-09-26)
 - Körperschaft: Gemeinde Aldenhoven
