@@ -1,0 +1,61 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2004-12-15T17:05:00+01:00
+- Ende: 2004-12-15T19:30:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2004-RAT-3
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2004-RAT-3
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2004-RAT-3
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2004-RAT-3
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2004-RAT-3
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Bildung eines Behindertenbeirates und Seniorenbeirates;
+- TOP 3: Verbesserung der politischen Partizipation der Migranten; hier: Benennung von Ratsmitgliedern sowie beratenden Mitgliedern im Integrationsrat und Hielsetzung Kommunaler Integrationsarbeit
+- TOP 4: Zweite Änderung der Geschäftsordnung für den Rat der Stadt und seiner Ausschüsse
+- TOP 5: 2. Änderung der Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel 'EUV, Stadtbetrieb Castrop-Rauxel - AöR'
+- TOP 6: Jahresabschluss 2003
+- TOP 7: Übernahme der Geschäftsanteile der Nowak GmbH
+- TOP 8: Ergänzungswahl zum Betriebsausschuss 2
+- TOP 9: Antrag der CDU-Fraktion vom 1. Dezember 2004; Zweite Feuer- und Rettungswache für Castrop-Rauxel
+- TOP 10: Kommunalwahl 2004; hier: Beschluss über die Gültigkeit der Wahl zur Vertretung der Stadt Castrop-Rauxel im Wahlbezirk 14
+- TOP 11: Übernahme einer Ausfallbürgschaft zugunsten des SV Wacker Obercastrop e. V. über 25.000 €
+- TOP 12: Finanzcontrolling: Unternehmensbericht
+- TOP 13: Sachstandsbericht Haushaltsicherungskonzept
+- TOP 14: Sachstandsbericht über die private Reinigung städtischer Objekte
+- TOP 15: Unbefristete Weiterbeschäftigung bzw. befristete Neueinstellung von 14 Reinigungskräften
+- TOP 16: Wahl der Schiedsperson für den Bezirk III
+- TOP 17: Mittelbewilligung für Projekte im Rahmen des European Energy Award und für Maßnamen im Rahmen der Lokalen Agenda 21 für das Jahr 2005
+- TOP 18: Planungsprozess Neue Mitte Castrop-Rauxel zur städtebaulichen Gesamtentwicklung und Nutzungskonkretisierung am Stadtmittelpunkt hier: Beschluss zur Durchführung
+- TOP 19: Nahversorgungskonzept der Stadt Castrop-Rauxel hier: Beschluss über die Scharnierstandorte in Merklinde und in Rauxel/Deininghausen
+- TOP 20: Satzung über die Erhebung von Kostenersatz und Entgelten für Leistungen der Feuerwehr der Stadt Castrop-Rauxel (Feuerwehrsatzung)
+- TOP 21: Gebührensatzung für die Durchführung der Brandschau und sonstiger brandschutztechnischer Leistungen
+- TOP 22: Benennung eines Vertreters/Stellvertreters der Stadt Castrop-Rauxel für die Mitgliederversammlung des Westfälischen Landestheaters e.V.
+- TOP 23: Erweiterung der Lindenschule (städt. Gemeinschaftsgrundschule) hier: Genehmigung der Vorplanung
+- TOP 24: BAULEITPLANUNG 1. Änderung des Bebauungsplanes Nr. 144 Planbereich: 'Heimstraße' hier: Satzungsbeschluss nach § 10 BauGB
+- TOP 25: BAULEITPLANUNG Bebauungsplan Nr. 171 Planbereich: Vinckeweg hier: Beschluss einer Veränderungssperre nach §§ 14 und 16 BauGB
+- TOP 26: Gebührenbedarfsrechnung Friedhofswesen 2005
+- TOP 27: Satzung über besondere Anforderungen an Werbeanlagen sowie über deren äußere Gestaltung (Werbesatzung) für den Bereich der Innenstadt der Stadt Castrop-Rauxel
+- TOP 28: Satzung zur Aufhebung der Satzungen über die Genehmigungspflicht von Grundstücksteilungen
+- TOP 29: Abweichungssatzung für die 'Ziegelstraße' zur Satzung der Stadt Castrop-Rauxel über die Erhebung des Erschließungsbeitrages vom 19.12.1980
+- TOP 30: Gebührenbedarfsberechnung 'Abfallentsorgung' und Erlass einer Gebührensatzung zur Kreislaufwirtschafts- und Abfallsatzung
+- TOP 31: Gebührenbedarfsberechnung 'Klärschlammentsorgung' und Erlass einer Grundstücksentwässerungsanlagensatzung
+- TOP 32: Gebührenbedarfsberechnung 'Stadtentwässerung' und Erlass einer Gebührensatzung zur Entwässerungssatzung
+- TOP 33: Teilnahme an Sitzungen und Versammlungen des 'Klimabündnis der europäischen Städte mit indigenen Völkern der Regenwälder/Alianza del Klima e.V.', die sich aus der Mitgliedschaft für die Stadt Castrop-Rauxel ergeben
+- TOP 34: Gemeinsamer Antrag der SPD-Fraktion und Fraktion Bündnis 90/Die Grünen vom 30. November 2004: Erhöhung der Zahl der Ausbildungsplätze
+- TOP 35: Berichterstattung über die Beteiligungen der Stadt Castrop-Rauxel
+- TOP 36: Haushaltsüberschreitung bei der Haushaltsstelle 2.63000.940400 - Ausbau Bockenfelder Straße
+- TOP 37: Inanspruchnahme von Haushaltsmitteln im Rahmen der gegenseitigen Deckungsfähigkeit - Bereich Schulen -
+- TOP 38: Inanspruchnahme von Haushaltsmitteln im Rahmen einer Haushaltsüberschreitung gemäß § 82 GO NRW (überplanmäßige Ausgabe) - Bereich Wirtschaftliche Hilfen -
+- TOP 39: Anfragen der Ratsmitglieder
+- TOP 40: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
