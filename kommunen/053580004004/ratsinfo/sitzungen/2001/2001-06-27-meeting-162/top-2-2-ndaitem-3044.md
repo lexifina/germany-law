@@ -1,4 +1,4 @@
-# TOP 2.2.: Grundstücksangelegenheiten
+# TOP 2.2.: Veräußerung eines gemeindeeigenen Grundstückes im Pestalozziring
 
 - Sitzung: Gemeinderat (2001-06-27)
 - Körperschaft: Gemeinde Aldenhoven
