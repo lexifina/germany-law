@@ -1,0 +1,11 @@
+# Reichs-Gesetz-Blatt 1849, 16. Stück, Seite 140
+
+Scan: https://www.digitale-sammlungen.de/view/bsb10518698?page=168 (Bayerische Staatsbibliothek, Bild 168)
+
+---
+
+W. Schrader, Abgeordneter für Brandenburg a. H. Dr. Wilhelm Krafft aus Nürnberg. Breu ſing aus Ogsnabrück. Herrmann Metzke von Sagan, für Sagan-Sprottau. Dr. F. Lammers aus Erlangen. Ernſt Erasmus Vogel aus Guben, Abgeordneter für den 23. brandenburgiſchen Wahlbezirk. Hermann von Köſteritz, Abgeordneter für Elberfeld. Karl Zittel aus Heidelberg, Abgeordneter für Karlsruhe. Heinrich Sc<irmeiſter, Abgeordneter für Inſterburg und Niederung. Franz v. Schleuſing, Abgeordneter für Raſtenburg und Lötzen, Johannes Zeltner aus Nürnberg , für den Wahlbezirk Fürth. Albert Ko smann aus Stettin, Abgeordneter für den 10. Wahlbezirk von Pommern, Ernſt Dee>e, Abgeordneter der freien Stadt Lübeck. Dr. Guſtav Schwetſchke aus Halle, Wahlbezirk Sangerhauſen-Querfurth. Gieſebreht aus Stettin. CE. Marcus aus Bartenſtein, für den Wahlbezirk- Friedland und Gerdauen, Nerreter, für den Wahlbezirk Frauſtadt in Deutſch-Poſen. Backhaus, für Walde> und Pyrmont. I. B. Mann jun. aus Roſtock. Guſtav Hofmann, Abgeordneter des 8, Wahlbezirks im Großherzogthum Heſſen. Wilhelm Stahl aus Erlangen, Abgeordneter für den Wahlbezirk Ellingen in Bayern. Schierenberg aus Detmold, Abgeordneter für Lippe. Carl Kotſchy, Paſtor aus Uſtron, Abgeordneter für den Bielizer Wahlbezirk im öſterreichiſchen |
+
+Schleſien. E. Viebig aus Poſen. Franz Möller, Abgeordneter des Wahlbezirks Reichenberg in Böhmen. Wilhelm Junkmann aus Münſter, Wahlkreis Recklinghauſen, Haltern, Dorſten, Dülmen. | Friſch aus Stuttgart, Ph. J. Caspers aus Coblenz. * Aug. Drechsl er aus Roſto>, Abgeordneter des 5. Meclenburg-S<hwerin'ſchen Wahlkreiſes. Freeſe aus Stargard in Pommern, Guſtav Rob. Groß, Abg. für den Wahlbezirk Nimes in Böhmen. Aloyſius Mutius Ottow, Abgeordneter für die Kreiſe Wehlau und Labiau in „Oſtpreußen. i Mar. Heinr. Rüder aus und für Oldenburg. Werner Johannes, Abgeordneter für Meiningen. Graf von Giech, für Hof. Theodor Reh von Darmſtadt, Abgeordneter für den Großherzoglich Heſſiſchen Wahlbezirk
+
+Offenbach. -M Goltz, Abgeordneter für die Wahlkreiſe Brieg-Namslau. Martiny aus Pr. Friedland, Abg. für den Wahlkreis Schlochau - Flatow in Weſtpreußen. F. Zachariä, Abgeordneter von Anhalt-Bernburg. | Adolf von Zerzog aus Regensburg. |
