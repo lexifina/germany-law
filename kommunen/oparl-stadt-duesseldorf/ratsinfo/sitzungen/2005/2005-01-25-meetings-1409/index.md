@@ -1,0 +1,54 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-01-25T17:00:00+01:00
+- Ende: 2005-01-25T00:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1409
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1409
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111369.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111369.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111369.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Bücherei Gerresheim
+- TOP 4: Radweg Knittkuhler Straße
+- TOP 5: Schließung städt. JFE Dreherstr. 185
+- TOP 6: Schließung städt. Kita Dreherstr. 185a
+- TOP 7: Bau Sporthalle Gerresheim
+- TOP 8: Kunstrasen Ernst-Poensgen-Allee
+- TOP 9: Kinderspielplatz Metzkauser Straße
+- TOP 10: Zuschuss für Ruderanlage
+- TOP 11: Krammarkt in Gerresheim
+- TOP 12: Erweiterung des Bauhauses
+- TOP 13: Verwendung von Haushaltsmitteln
+- TOP 14: Sportplatz FC Gerresheim
+- TOP 15: Beflaggung am Christopher-Street-Day
+- TOP 16: Brötchen-Taste
+- TOP 17: Baumfällung auf dem Gewerbehof Heyestraße
+- TOP 18: Straßenbenennung nach Willi Wigold
+- TOP 19: Rauchverbot an Schulen
+- TOP 20: Museum - Räume für Dauerausstellungen
+- TOP 21: Stadtwerke - Verkehrsmanagement
+- TOP 22: Bäume Pfeifferstraße
+- TOP 23: Internet-Darstellung
+- TOP 24: Schulbus Knittkuhl
+- TOP 25: Arbeitsplätze Glashütte
+- TOP 26: Golfplatz Grafenberg
+- TOP 27: Gedenkveranstaltung am 11. März 2005
+- TOP 28: Planung L 404 n - Im Brühl
+- TOP 29: Planung L 404 n - Umweltbericht
+- TOP 30: L 404 n
+- TOP 31: Schadstoffemissionen Ludenberger Straße
+- TOP 32: Bahnhof Gerresheim
+- TOP 33: Stillegung Schmelzwanne
+- TOP 34: Stilllegung Schmelzofen Glashütte
+- TOP 35: Quadenhof
+- TOP 36: Schulsportanlage Peckhausweg
+- TOP 37: Ergebnisse Haushaltsberatungen
