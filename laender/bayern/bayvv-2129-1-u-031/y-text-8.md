@@ -1,0 +1,1 @@
+Der Betrieb motorisierter Schneefahrzeuge bedarf einer Ausnahmegenehmigung nach Art. 12 Abs. 2 BayImSchG. Vor Erteilung der Ausnahmegenehmigung hat die Kreisverwaltungsbehörde u.a. zu prüfen, ob die Sicherheit von Skifahrern auf Skiabfahrten (Pisten) und Skiwanderwegen (Loipen) i. S. von Art. 24 LStVG gefährdet sein kann. Für diese Prüfung werden folgende Hinweise gegeben:
