@@ -1,0 +1,56 @@
+# öffentliche Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2002-03-05T16:10:00+01:00
+- Ende: 2002-03-05T17:28:00+01:00
+- Ort: Rathaus Wuppertal-Barmen, Wegnerstr., Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/13
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/690
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/690
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00003752.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00004256.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung neuer Ausschussmitglieder
+- TOP 2: Vertagung von Tagesordnungspunkten
+- TOP 3: Anliegen der Bezirksjugendräte
+- TOP 4: Neuwahl eines Mitglieds den UA JHPl.
+- TOP 5: Anerkennung als Träger der freien Jugendhilfe - ungeändert beschlossen
+- TOP 6: Anerkennung als Träger der freien Jugendhilfe - ungeändert beschlossen
+- TOP 7: Anerkennung "Zwergenburg e.V." a - ungeändert beschlossen
+- TOP 8: Abbau von Plätzen in Tageseinrichtungen für Kinder
+- TOP 9: Zigarettenautomaten an Schulen u. Jugendeinrichtg. - geändert beschlossen
+- TOP 10: Entgeltordnung des Stadtbetriebs Jugend & Freizeit - ungeändert beschlossen
+- TOP 11: Kinderspielplätze - geändert beschlossen
+- TOP 12: Maßnahmenkatalog Runder Tisch Minderheitenpolitik - ungeändert beschlossen
+- TOP 13: Beratung des Haushaltsplan-Entwurfes 2002/2003
+- TOP 13.1: Zuschüsse an freie Träger
+- TOP 13.1.1: Antrag der SPD-Fraktion zum HHpl.-Entw. 2002/2003 - geändert beschlossen
+- TOP 13.1.2: Antrag der CDU-Fraktion zum HHpl.-Entw. 2002/2003
+- TOP 13.1.3: Antrag der F.D.P.-Fraktion zum HHpl.-Entw. 2002/03
+- TOP 13.2: Auslobung eines Integrationspreises
+- TOP 13.2.1: Antrag der SPD-Frakt.: Integrationspreis - ungeändert beschlossen
+- TOP 13.2.2: Antrag der CDU-Frakt.: Integrationspreis
+- TOP 13.2.3: Antrag der F.D.P.-Fraktion: Integrationspreis
+- TOP 13.3: Broschüre f. ausl. Eltern m. Kindern im Kiga-Alter
+- TOP 13.3.1: Broschüre f. ausl. Eltern m. Kindern im Kiga-Alter - ungeändert beschlossen
+- TOP 13.3.2: Broschüre f. ausl. Eltern m. Kindern im Kiga-Alter
+- TOP 13.3.3: Broschüre f. ausl. Eltern m. Kindern im Kiga-Alter
+- TOP 13.4: Umbenennung der HHSt. Für Spielgruppen fr. Träger
+- TOP 13.4.1: SPD-Antrag: Umbenennung einer HHSt. im UA 4640 - ungeändert beschlossen
+- TOP 13.4.2: CDU-Antrag: Umbenennung einer HHSt. im UA 4640
+- TOP 13.4.3: F.D.P.-Antrag: Umbenennung einer HHSt. im UA 4640
+- TOP 13.5: Anträge Bünd. 90/Grüne zum HHpl.-Entw. 2002/2003
+- TOP 13.6: Bünd. 90/Grüne: Kinderschutzambulanz
+- TOP 13.7: Einsparbeiträge der AGFW - ungeändert beschlossen
+- TOP 14: Berichte
+- TOP 14.1: Mitteilungen der Verwaltung
+- TOP 14.2: Bildung des Ressorts Zuwanderung und Integration - Kenntnis genommen
+- TOP 14.3: Kennzahlen der Jugendhilfe (Jahresbericht 2001) - zurückgestellt
+- TOP 14.4: Kennzahlen der Sozialhilfe - zurückgestellt
+- TOP 14.5: Kennzahlen der Beistandschaft - zurückgestellt
+- TOP 14.6: Kennzahlen der Heranziehung - zurückgestellt
+- TOP 15: Wünsche und Anregungen
