@@ -1,0 +1,52 @@
+# Rat
+
+- Körperschaft: Stadt Herford
+- Beginn: 2002-04-26T16:00:00+02:00
+- Ende: 2002-04-26T20:40:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQt-RhVsQ3S30ju4wILQank
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/638
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcd6onpDWT5PB0_H1nOBQHMGS0SnvAzW2slwPkiChf9Y/Oeffentliche_Niederschrift_Rat_26.04.2002.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 01.02.2002
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.5: Lokale Agenda - Leitbild für eine nachhaltige Entwicklung in Herford - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.6: Antrag des Kuratoriums für eine Dokumentations-und Begegnungsstätte in Herford zum Erinnern, Forschen und Gedenken auf fortgesetzte/dauerhafte Überlassung der Kleinen Markthalle als Veranstaltungsort - Abgesetzt
+- TOP A.7: Erteilung der Stadtfreiheit an das in Herford stationierte Britische Signalregiment - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.8: Vorschlag zur Wohnungs- und Baulandpolitik - Einstimmig bei 0 Enthaltung(en)
+- TOP A.9: 50 Plätze-Programm
+- TOP A.10: Wallanlagen
+- TOP A.11: Entsendung von Mitgliedern des Ausländerbeirates in städt. Fachausschüsse und Beiräte - Einstimmig bei 0 Enthaltung(en)
+- TOP A.12: Berufung eines Mitgliedes und eines stellvertr. Mitgliedes in den Beirat für Stadtbildpflege - Einstimmig bei 0 Enthaltung(en)
+- TOP A.13: Neuwahl von stimmberechtigten Mitgliedern für den Jugendhilfeausschuss, die nicht dem Rat angehören gem. § 71 Abs. 1Ziff. 2 KJHG und § 4 Abs. 1 AG-KJHG - Einstimmig bei 0 Enthaltung(en)
+- TOP A.14: Bestellung des stellvertr. Leiters der freiwilligen Feuerwehr - Einstimmig bei 0 Enthaltung(en)
+- TOP A.15: Herforder Stadtgarten- und Schützenhof GmbH; hier: Bestellung eines Aufsichtsratsmitgliedes - Abgesetzt
+- TOP A.16: Herforder Versorgungs- und Verkehrs-GmbH hier: a) Genehmigung der dringlichen Entscheidung vom 20.3.2002 b) Bestellung eines weiteren Prokuristen - Einstimmig bei 0 Enthaltung(en)
+- TOP A.17: Aktionärsvereinigung der kommunalen WFG-Aktionäre GmbH hier: Genehmigung einer dringlichen Entscheidung nach § 60 GO NRW - Einstimmig bei 0 Enthaltung(en)
+- TOP A.18: MKK gGmbH; hier: Sachstandsbericht
+- TOP A.19: Bericht über den Rechnungsabschluss des Haushalts 2001 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.20: Vostellung des Produkthaushaltes 2002
+- TOP A.21: Quartalsbericht über erteilte Zustimmungen zu über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - Zur Kenntnis genommen
+- TOP A.22: Gemeindefinanzierungsgesetz 2001/2002; hier: Klageerhebung gegen die Nichtberücksichtigung der A- und D-Einwohner - Einstimmig bei 0 Enthaltung(en)
+- TOP A.23: Entwurf einer Neufassung der Sportförderungsrichtlinien der Stadt Herford - Einstimmig bei 0 Enthaltung(en)
+- TOP A.24: Änderung der ordnungsbehördlichen Immissionsschutz- u. Sperrzeitverordnung - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.25: Verlängerung der Ladenöffnungszeiten anlässlich Jazztime, Folk-Festival und Herforder Weihnachtslicht - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.26: Bebauungsplan Nr. 8.55 "Benter Weg" - Änderung Nr. 1.00 hier: Satzungsbeschluss - Einstimmig bei 0 Enthaltung(en)
+- TOP A.27: Flächennutzungsplan-Teiländerung Nr. 1.98 "Vorm Holzschlinge" hier: Beschluss der FNP-Änderung - Einstimmig bei 0 Enthaltung(en)
+- TOP A.28: Stadterneuerungsprogramm "Bahnhof / Goebenstraße" hier: förmliche Festlegung des Bereiches als Sanierungsgebiet gemäß § 142 Baugesetzbuch (BauGB) - Einstimmig bei 0 Enthaltung(en)
+- TOP A.29: Endgültiger Ausbau des "Strothkamps" von Ackerstraße bis Füllenkamp; hier: Ausbauprogramm - Einstimmig bei 0 Enthaltung(en)
+- TOP A.30: Endgültiger Ausbau des Falterweges hier: Ausbauprogramm - Einstimmig bei 0 Enthaltung(en)
+- TOP A.31: Mitgliedschaft der Stadt Herford im Deutschen Städtetag
+- TOP A.32: Anträge der SPD-Fraktion
+- TOP A.32a): Antrag der SPD-Fraktion; hier: Aufhebung der Wiederbesetzungssperre für die städt. Kindergärten und die Feuerwehr - Einstimmig bei 0 Enthaltung(en)
+- TOP A.32b): Bestellung von Trägervertreterinnen und Trägervertretern für die Räte der Tageseinrichtungen für Kinder im Bereich der Stadt Herford - Einstimmig bei 0 Enthaltung(en)
+- TOP A.33: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen; hier: Verhandlungen um eine Fusion der ostwestfälischen Energieunternehmen
+- TOP A.34: Antrag der Fraktion Bündnis 90/Die Grünen; hier: Umbesetzung von Ausschüssen
