@@ -1,0 +1,129 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2002-06-20T17:30:00+02:00
+- Ende: 2002-06-20T17:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=126
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=126
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - (offen)
+- TOP 1.2: der Fraktionen - (offen)
+- TOP 1.3: der Ausschüsse - (offen)
+- TOP 1.4: des Bezirksamtes - (offen)
+- TOP 2: Konsensliste - (offen)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: CSD-Sponsoring
+- TOP 3.2: Niemand hat die Absicht, die Gerichtstraße nicht zu öffnen! ODER?
+- TOP 3.3: Sanierung Hemingway-Oberschule
+- TOP 3.4: Erika-Heß-Feriendorf
+- TOP 3.5: Förderunterricht in Grundschulen in Tiergarten
+- TOP 3.6: Mietkautionen für SozialhilfeempfängerInnen - Amnesie im Sozialamt?
+- TOP 3.7: Sanierungsmittel für die Papageno-Grundschule
+- TOP 3.8: Fördermittel aus dem Europäischen Strukturförderfond (EFRE)
+- TOP 3.9: Auswirkungen auf IDA-Maßnahmen
+- TOP 3.10: Grundsicherungsamt - High Noon im Bezirksamt?
+- TOP 3.11: Finanzierung der Brunnen in Mitte
+- TOP 3.12: Zwischenbericht Nachnutzungskonzept Krematorium Wedding
+- TOP 3.13: Spielgerät für Kita "Glashaus"
+- TOP 3.14: Gewerbeummeldung innerhalb des Bezirks Mitte
+- TOP 3.15: Beflaggung Christopher-Street-Day
+- TOP 3.16: Statue des Freiherrn von und zum Stein
+- TOP 3.17: Fußgängerüberweg Alte Jakobstraße/Ecke Sebastianstraße
+- TOP 3.18: Mittelstreifen in der Turmstraße
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Zweckentremdung von Wohnraum für alle
+- TOP 4.2: Wegfall der Zweckentfremdungsverbotsordnung
+- TOP 4.3: Bewerbungsverfahren Sanierungszeitung
+- TOP 4.4: Hackescher Markt
+- TOP 4.5: Sommerbad Seydlitzstraße endgültig verloren
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Fixerstuben in Mitte
+- TOP 5.2: Fallrevision "Hilfen zur Erziehung"
+- TOP 5.3: Kita-Essen in Mitte - Leben Tom und Jerry gesünder?
+- TOP 5.4: Wiedereröffnung des westlichen U-Bahneingangs Schillingstraße
+- TOP 5.5: Ausstattung mit Stellen in der Bezirksverwaltung
+- TOP 5.6: "Heimstatt statt Heim"
+- TOP 5.7: Nachnutzung des Krankenhauses Moabit (KM)
+- TOP 5.8: Vergiftung der Lebensmittel mit Nitrofen
+- TOP 5.9: Kleingartenpolitik
+- TOP 5.10: Haushaltsplan 2002
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 6.1: Ausschuss für Geschäftsordnungsangelegenheiten
+- TOP 6.2: Änderung des Rahmenplanes für das Grundstück Brunnenstraße 157 im Sanierungsgebiet Rosenthaler Vorstadt
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 7.1: Genehmigung der im Haushaltsjahr 2000 in den Bezirken Mitte, Tiergarten und Wedding zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen 0503/I Bezirksamt
+- TOP 7.2: Bebauungsplanentwurf III-240 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-240 - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Beschluss des B-Planes VII-280 in der Planfassung vom 22. März 2002 - (offen)
+- TOP 8.2: Konkretisierung der Sanierungsziele für das Grundstück Brunnenstraße 33 im Sanierungsgebiet Rosenthaler Vorstadt
+- TOP 8.3: Genehmigung der im Haushaltsjahr 2001 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtigungsermächtigungen
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Einführung der Parkraumbewirtschaftung 0161/XVI Bezirksamt
+- TOP 9.2: Keine Regelanfrage beim Verfassungsschutz bei Einbürgerungsersuchen 0101/I Bezirksamt
+- TOP 9.3: Ausschilderung Neues Stadthaus auf dem U-Bahnhof Klosterstraße 0102/I Bezirksamt
+- TOP 9.4: Energie- und Umweltbericht 0105/I Bezirksamt
+- TOP 9.5: Bericht über Drogenkonsumräume (alt: Keine Einrichtung von Fixerstuben) 0537/I Bezirksamt
+- TOP 9.6: Information über Baumfällungen im Bezirk - (offen)
+- TOP 9.7: Parlament der Bäume wieder öffnen! - (offen)
+- TOP 9.8: Verkehrssicherheit in Großer Hamburger Straße - (offen)
+- TOP 9.9: Drogenkonsumräume - (offen)
+- TOP 9.10: Tempolimit in der Paulstraße - (offen)
+- TOP 9.11: Senkrecht-Parken in der Flensburger Straße - (offen)
+- TOP 9.12: Entfernung von "Fahrradwracks" - (offen)
+- TOP 9.13: Einrichtung eines Wartehäuschens in der Annenstraße - (offen)
+- TOP 9.14: Titel für einen Fonds zur Unterstützung öffentlichen ehrenamtlichen Engagements - (offen)
+- TOP 9.15: Arbeit statt Sozialhilfe - (offen)
+- TOP 9.16: Erhalt des Kindermuseums Labyrinth - (offen)
+- TOP 9.17: Beschluss über die Einschränkung des Geltungsbereichs des B-Plan-Entwurfs I-20 im Bezirk Mitte, OT Mitte und durchführung der frühzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 BauGB
+- TOP 9.18: Schulorganisatorische Maßnahmen (II) zum Schuljahr 2002/03
+- TOP 9.19: Betriebliche Abfallwirtschaft 2001 im Bezirksamt Mitte von Berlin
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Zuschüsse für Jugendorganisationen
+- TOP 10.2: Mehr Transparenz für bezirkliche Schulentwicklungsplanung
+- TOP 10.3: Hemingway-Oberschule
+- TOP 10.4: Fortsetzung von Lehrgängen zum nachträglichen Erwerb des Hauptschulabschlusses
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Gedenktafel am Dienstgebäude Iranische Straße 0114/I Hauptausschuss
+- TOP 11.2: Gegen häusliche Gewalt gegen Frauen - (offen)
+- TOP 11.3: Gegen häusliche Gewalt gegen Frauen II - (offen)
+- TOP 11.4: Bezirklicher Leitfaden gegen häusliche Gewalt gegen Frauen III - (offen)
+- TOP 11.5: Zusätzliche Haushaltsrisiken für 2002 und 2003 durch Einführung des digitalen terrestrischen Fernsehens - (offen)
+- TOP 11.6: Verteilung zusätzlicher Asylbewerber - (offen)
+- TOP 11.7: Interessenbekundungsverfahren Stadtbad Gerichtstraße - (offen)
+- TOP 11.8: Einsparung bei Mietkosten für QM-Büros - (offen)
+- TOP 11.9: Fallbezogenes Zumessungsmodell zur Steuerung von Sozialhilfemitteln - (offen)
+- TOP 11.10: Einrichtung erster Klassen
+- TOP 12: Antrag - (offen)
+- TOP 12.1: IuK-Technik - Ausstattung der Dienststellen
+- TOP 12.2: Verfahrensweise bei Straßen (Plätzen) und deren Neu- bzw. Umbenennungen
+- TOP 12.3: Sauberkeit am Hansaplatz
+- TOP 12.4: Ausgaben des T- und des Z-Teils - Kontrolle und Controlling
+- TOP 12.5: Öffnung und Nutzung des Geländes des ehemaligen Krankenhauses Moabit als Naherholungsbereich für die Bevölkerung
+- TOP 12.6: Einrichtung erster Klassen (Luisenstadt)
+- TOP 12.7: Balkon- und Vorgartenwettbewerb
+- TOP 12.8: Einrichtung erster Klassen (Luisenstadt)
+- TOP 12.9: MieterInnenschutz beim Verkauf von Häusern der Wohnungsbaugesellschaft Mitte
+- TOP 12.10: Einrichtung erster Klassen (Mosaik)
+- TOP 12.11: Präventionspreis
+- TOP 12.12: Einrichtung erster Klassen (Mosaik)
+- TOP 12.13: Versäumnisse in den Kulturämtern Mitte Alt und Wedding, Finanzdefizit von mind. 35.000 Euro
+- TOP 12.14: Einrichtung erster Klassen (R-S-G)
+- TOP 12.15: Hinweisschilder für Behinderte
+- TOP 12.16: Einrichtung erster Klassen (R-S-G)
+- TOP 12.17: Gemeinsame Verantwortung für den Invalidenpark
+- TOP 12.18: Einrichtung von öffentlichen Toiletten
+- TOP 12.19: Keine Änderung des § 7 Abs. 2 Sportförderungsgesetz
+- TOP 12.20: Ausreichend Zeit für Haushaltsberatungen!
+- TOP 12.21: Schillerbibliothek
+- TOP 12.22: Unentgeltliche Nutzung der Bäder durch anerkannte Sportvereine
+- TOP 12.23: Keine Senkung der Kita-Standards
+- TOP 12.24: Beschilderung der Mauerstraße
+- TOP 12.25: Geschäftsordnungs-Antrag
+- TOP 12.26: Benennung stellv. Bürgerdeputierter für den Ausschuss Wirtschaft und Arbeit
