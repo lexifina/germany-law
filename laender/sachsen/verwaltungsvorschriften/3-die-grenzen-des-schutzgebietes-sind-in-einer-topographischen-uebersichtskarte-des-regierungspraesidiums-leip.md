@@ -2,7 +2,7 @@
 
 - Herausgeber: Freistaat Sachsen
 - Datum: 2001-11-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/15148.2
+- Quelle: https://www.revosax.sachsen.de/vorschrift/15170.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -12,71 +12,63 @@
 
 Festsetzung als Schutzgebiet
 
-Die in § 2 näher bezeichneten Flächen auf dem Gebiet der Gemeinde Ostrau im Landkreis Döbeln werden als Naturschutzgebiet festgesetzt. Das Naturschutzgebiet führt die Bezeichnung „Alte Halde – Dolomitgebiet Ostrau“.
+Die in § 2 näher bezeichneten Flächen auf dem Gebiet der Stadt Dahlen und der Gemeinden Cavertitz und Liebschützberg, Landkreis Torgau-Oschatz, werden als Naturschutzgebiet festgesetzt. Das Naturschutzgebiet führt die Bezeichnung „Langes Holz - Radeland“.
 
 § 2
 
 Schutzgegenstand
 
-(1) Das Naturschutzgebiet hat eine Größe von zirka 26,5 ha und umfasst in zwei getrennt liegenden Teilgebieten einen naturnahen, teilweise bewaldeten, teilweise extensiv landwirtschaftlich genutzten Ausschnitt des „Birmenitzbachtales“ und den ehemaligen „Kalkbruch Münchhof“.
+(1) Das Naturschutzgebiet hat eine Größe von zirka 49,4 ha. Es umfasst zwei Auwaldflächen (Langes Holz und Radelandwald), ein zwischen diesen gelegenes größeres Feldgehölz, den Bereich der Radelandwiesen mit Feucht- und Frischwiesen sowie die westlich des Langen Holzes angrenzenden Wiesen und die östlich des Radelandwaldes angrenzenden Feuchtwiesen in der Aue des Böhlbaches.
 
-(2) Das Schutzgebiet umfasst nach dem Stand der Flurkarten vom 14. Oktober 1998 (Gemarkung Münchhof Blatt 5; Gemarkung Zschochau Blatt 4, Rahmenkarten 4, 6 und 7; Gemarkung Beutig Blatt 1; Gemarkung Ostrau Blatt 7) und 21. Oktober 1998 (Gemarkung Zschochau Rahmenkarte 3) auf dem Gebiet der Gemeinde Ostrau, Landkreis Döbeln, die folgenden Flurstücke:
+(2) Das Schutzgebiet umfasst nach dem Stand vom 5. November 1998 (Karte Nummer 5 vom 4. November 1994)
 
-Gemarkung Zschochau
+auf dem Gebiet der Stadt Dahlen, Gemarkung Großböhla
 
-Flurstücke 181/1 (zum Teil), 327 (zum Teil), 328/1 (zum Teil), 329/1 (zum Teil), 331 (zum Teil), 332, 333, 334, 335, 336, 337, 338, 339, 360 (zum Teil), 361a (zum Teil), 363, 364, 365/2, 366, 368, 369, 370, 371/1, 371/2;
+die Flurstücke 214, 524/1, 526, 527, 528, 529, 530, 531/1, 531/2, 532/1, 533/1, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570 und Flurstück 576 zum Teil,
 
-Gemarkung Beutig
+auf dem Gebiet der Gemeinde Liebschützberg, Gemarkung Wellerswalde
 
-Flurstücke 9 (zum Teil), 10 (zum Teil), 11 (zum Teil), 12 (zum Teil), 13/1, 13/2, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29;
+die Flurstücke 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 522a, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541 und 584 zum Teil,
 
-Gemarkung Ostrau
+auf dem Gebiet der Gemeinde Liebschützberg, Gemarkung Leisnitz
 
-Flurstücke 262 (zum Teil), 264 (zum Teil), 266 (zum Teil), 272/1 (zum Teil);
+die Flurstücke 248/1 zum Teil, 249/1, 250/1, 251/1, 252/1, 253/1, 254/1, 255 zum Teil, 258 zum Teil, 259 zum Teil und 262 zum Teil.
 
-Gemarkung Münchhof
+(3) Die Grenzen des Schutzgebietes sind in einer topographischen Übersichtskarte des Regierungspräsidiums Leipzig vom 23. März 2000 im Maßstab 1 : 10 000 und in 6 Flurkarten des Regierungspräsidiums Leipzig vom 23. März 2000 im Maßstab 1 : 2 000 mit Stand vom 5. November 1998 beziehungsweise 4. November 1994 (Gemarkung Großböhla, Blatt: 8) rot und in den Vervielfältigungen schwarz dargestellt. Maßgebend für den Grenzverlauf ist die Linienaußenkante der Grenzeintragung auf den Flurkarten. Anschlusspunkte der NSG-Grenze, bei denen die Grenze von einer Flurkarte beziehungsweise einem Flurkartenausschnitt zur beziehungsweise zum nächsten wechselt, sind mit A 1 bis A 8 auf den jeweils zwei betreffenden Flurkarten gekennzeichnet. Die Karten sind Bestandteil der Verordnung.
 
-Flurstück 30/2 (zum Teil).
+(4) Die Verordnung mit Karten wird beim Regierungspräsidium Leipzig, Braustraße 2, 04107 Leipzig, Zimmer 449, auf die Dauer von zwei Wochen nach der Verkündung dieser Verordnung im Sächsischen Amtsblatt zur kostenlosen Einsicht durch jedermann während der Sprechzeiten öffentlich ausgelegt.
 
-(3) Die Grenzen des Schutzgebietes sind in einer topographischen Übersichtskarte des Regierungspräsidiums Leipzig vom 17. Juni 1999 im Maßstab 1 : 10 000, in einer Flurstücksübersichtskarte des Regierungspräsidiums Leipzig vom 17. Juni 1999 im Maßstab 1 : 2 000 und in 8 Flurkarten des Regierungspräsidiums Leipzig vom 17. Juni 1999 im Maßstab 1 : 2 000 (Gemarkungen Zschochau, Ostrau) beziehungsweise 1 : 2 730 (Gemarkungen Münchhof und Beutig, bei letzterer ist der „Neuvermessene Anteil“ 1 : 2 000 dargestellt) rot eingetragen. Maßgebend für den Grenzverlauf ist die Linienaußenkante der Grenzeintragung auf den Flurkarten. Anschlusspunkte der NSG-Grenze, bei denen die Grenze von einer Flurkarte beziehungsweise einem Flurkartenausschnitt zur beziehungsweise zum nächsten wechselt, sind mit A 1 bis A 9 auf den jeweils zwei betreffenden Flurkarten und der Flurstücksübersichtskarte gekennzeichnet. Die Karten sind Bestandteil der Verordnung.
-
-(4) Die Verordnung mit Karten wird beim Regierungspräsidium Leipzig, Braustraße 2, 04107 Leipzig, Zimmer 449, auf die Dauer von zwei Wochen nach der Verkündung dieser Verordnung im Sächsischen Amtsblatt zur kostenlosen Einsicht durch jedermann während der Dienstzeiten öffentlich ausgelegt.
-
-(5) Die Verordnung mit Karten ist nach Ablauf der Auslegungsfrist beim Regierungspräsidium Leipzig zur kostenlosen Einsicht durch jedermann während der Dienstzeiten niedergelegt.
+(5) Die Verordnung mit Karten ist nach Ablauf der Auslegungsfrist beim Regierungspräsidium Leipzig zur kostenlosen Einsicht durch jedermann während der Sprechzeiten niedergelegt.
 
 § 3
 
 Schutzzweck
 
-Besonderer Schutzzweck ist :
+Schutzzweck ist:
 
 1.
 
-die Sicherung eines repräsentativen, naturraumtypischen und naturnahen Landschaftsausschnittes des Mulde-Löß-Hügellandes mit anstehendem Zechsteindolomit der Mügelner Senke, welcher durch seine Seltenheit im nordwestsächsischen Raum, seine besondere Eigenart und hervorragende landschaftliche Schönheit geprägt ist und eine hohe wissenschaftliche, naturgeschichtliche und landeskundliche Bedeutung hat;
+die Erhaltung und Entwicklung der aus wissenschaftlichen, naturgeschichtlichen und landeskundlichen Gründen wertvollen extensiv genutzten Feuchtwiesen- und Großseggenbereiche als Refugium für an diese Biotoptypen gebundene Tier- und Pflanzenarten,
 
 2.
 
-die Erhaltung und Entwicklung naturnaher und natürlicher Standorte und Habitate der Flora und Fauna des Gebietes, insbesondere der zahlreichen regional und überregional seltenen und bedrohten Arten der kalk- beziehungsweise basenreichen sowie wärmegetönten Standorte (Magerrasen und Auewiesen, felsgebundene Habitate und naturnahe Laubwälder einschließlich der zugehörigen natürlichen Entwicklungsstadien);
+die Erhaltung und Entwicklung der wertvollen Feuchtwaldlebensgemeinschaften mit artenreichen Frühjahrsgeophytenlebensgemeinschaften und artenreicher Fauna einschließlich eines möglichst naturnahen Alt- und Totholzanteils,
 
 3.
 
-die Erhaltung der Leistungsfähigkeit des Naturhaushaltes dieses durch seine Insellage in der ausgeräumten Agrarlandschaft gekennzeichneten Rückzugsgebietes zahlreicher Tier- und Pflanzenarten;
+die Erhaltung und Entwicklung der im Gebiet vorkommenden wildlebenden Tier- und Pflanzenarten, insbesondere der seltenen, bedrohten und besonders geschützten Arten der Feuchtwiesen, Hochstaudenfluren, Großseggenriede sowie der Uferbereiche und der Feuchtwälder,
 
 4.
 
-die Erhaltung der vorhandenen Dolomitaufschlüsse als wissenschaftliche Studien- und Anschauungsobjekte;
+Sicherung und Entwicklung artenreicher Waldmäntel mit einheimischen und standortgerechten Gehölzen,
 
 5.
 
-die Sicherung und Entwicklung naturnaher Waldbestände durch naturnahe Bewirtschaftung unter größtmöglicher Nutzung von Prozessen der natürlichen Sukzession;
+Entwicklung der bislang intensiv genutzten Grünlandflächen zu artenreichen Frisch- und Feuchtwiesen,
 
 6.
 
-die Erhaltung und Entwicklung eines weitgehend naturnahen Bachabschnittes einschließlich Bachauenwald mit einheimischen, standortgerechten Gehölzarten der Lößgefilde;
-
-7.
-
-die Sicherung einer natürlichen, gedeihlichen Populationsentwicklung der zahlreichen seltenen und bedrohten bodenständigen Arten, wie zum Beispiel Türkenbundlilie, Heidegünzel, Sichelmöhre, Bunte Kronwicke sowie Mopsfledermaus, Mittelspecht und Neuntöter.
+Erhaltung und Entwicklung der naturnahen Gewässerstrukturen.
 
 § 4
 
@@ -84,7 +76,7 @@ Verbote
 
 (1) In dem Naturschutzgebiet sind alle Handlungen verboten, die zu einer Zerstörung, Beschädigung oder Veränderung des Schutzgebietes oder seiner Bestandteile oder zu einer nachhaltigen Störung führen können.
 
-(2) Insbesondere ist verboten :
+(2) Insbesondere ist verboten:
 
 1.
 
@@ -92,7 +84,7 @@ bauliche Anlagen im Sinne der Sächsischen Bauordnung zu errichten, zu ändern, 
 
 2.
 
-Straßen, Wege, Plätze oder sonstige Verkehrsanlagen anzulegen;
+Straßen, Wege, Plätze oder sonstige Verkehrsanlagen anzulegen und zu verändern;
 
 3.
 
@@ -108,7 +100,7 @@ Abfälle zu lagern oder abzulagern;
 
 6.
 
-Gülle, Jauche, Chemikalien, insbesondere Biozide oder ähnlich wirkende Stoffe oder sonstige Materialien auszubringen oder zu lagern;
+Gülle, Jauche, Chemikalien, insbesondere Biozide oder ähnlich wirkende Stoffe, oder sonstige Materialien auszubringen oder zu lagern;
 
 7.
 
@@ -132,7 +124,7 @@ Pflanzen oder Pflanzenteile einzubringen, zu entnehmen, zu beschädigen oder zu 
 
 12.
 
-Tiere einzubringen, wildlebenden Tieren nachzustellen, sie zu beunruhigen, zu fangen, zu verletzen oder zu töten oder Puppen, Larven, Eier oder Nester oder sonstige Brut-, Wohn- oder Zufluchtsstätten dieser Tiere zu entfernen, zu beschädigen oder zu zerstören;
+Tiere einzubringen, wildlebenden Tieren nachzustellen, sie zu beunruhigen, sie zu fangen, zu verletzen oder zu töten oder Puppen, Larven, Eier oder Nester oder sonstige Brut-, Wohn- oder Zufluchtsstätten dieser Tiere zu entfernen, zu beschädigen oder zu zerstören;
 
 13.
 
@@ -152,15 +144,15 @@ zu zelten, zu lagern, Wohnwagen oder -mobile, sonstige Fahrzeuge oder Verkaufsst
 
 17.
 
-auf Flächen außerhalb der entsprechend öffentlich gewidmeten Straßen und Wege zu reiten, Rad oder Schlitten oder mit motorgetriebenen oder bespannten Fahrzeugen zu fahren;
+außerhalb der entsprechend öffentlich gewidmeten Straßen und Wege zu reiten, Rad zu fahren oder mit motorgetriebenen oder bespannten Fahrzeugen zu fahren;
 
 18.
 
-Flächen außerhalb der öffentlichen Straßen und Wege zu betreten;
+Flächen außerhalb der öffentlichen Straßen und Wege zu betreten,
 
 19.
 
-jede Art von Motor-, Geländelauf-, Geländerad- oder Flugsport, einschließlich Modellflugsport zu betreiben;
+Motor-, Geländelauf-, Geländerad- oder Flugsport, einschließlich Modellflugsport, jeglicher Art zu betreiben;
 
 20.
 
@@ -168,7 +160,7 @@ Fahrzeuge, Maschinen oder Geräte zu waschen oder zu reinigen;
 
 21.
 
-Feuer anzumachen oder zu unterhalten;
+Feuer anzumachen und zu unterhalten;
 
 22.
 
@@ -176,25 +168,17 @@ zu baden;
 
 23.
 
-außerhalb des Fischereirechtes zu angeln;
+Hunde frei laufen zu lassen;
 
 24.
 
-die Gewässer mit Booten aller Art zu befahren;
+Lärm, Erschütterungen, Luftverunreinigungen zu verursachen, die geeignet sind, Tiere zu beunruhigen oder den Naturgenuss zu beeinträchtigen;
 
 25.
 
-Hunde frei laufen zu lassen;
+Lichtquellen zu betreiben, die geeignet sind, Tiere zu beunruhigen;
 
 26.
-
-Lärm, Erschütterungen, Luftverunreinigungen zu verursachen, die geeignet sind, Tiere zu beunruhigen, wesentliche Bestandteile des NSG in der Standsicherheit zu gefährden oder den Naturgenuss zu beeinträchtigen;
-
-27.
-
-Lichtquellen zu betreiben, die geeignet sind, Tiere zu beunruhigen oder den Naturgenuss zu beeinträchtigen;
-
-28.
 
 Veranstaltungen jeglicher Art durchzuführen.
 
@@ -210,44 +194,46 @@ Zulässige Handlungen
 1.
 
 für die dem Schutzzweck entsprechende, im Sinne des § 3
-SächsNatSchG umweltgerechte landwirtschaftliche Nutzung der Landwirtschaftsflächen in der bisherigen Art und im bisherigen Umfang mit der Maßgabe, dass
+SächsNatSchG umweltgerechte landwirtschaftliche Nutzung in der bisherigen Art und im bisherigen Umfang mit der Maßgabe, dass
 
 1.1
 
-§ 4 Abs. 2 Nr. 5, 7, 8, 9, 10, 15 unberührt bleiben;
+§ 4 Abs. 2 Nr. 5, 7, 8, 9, 10, 15 unberührt bleiben,
 
 1.2
 
-§ 4 Abs. 2 Nr. 6 unberührt bleibt; ausgenommen ist das Ausbringen von Gülle, Jauche und mineralischem Dünger sowie von Bioziden auf den randlich berührten beziehungsweise eingeschlossenen landwirtschaftlichen Nutzflächen des Schutzgebietsteils „Kalkbruch Münchhof“ und den ebenfalls randlich berührten derzeit ackerbaulich genutzten Teilen der Flurstücke 11 und 12 der Gemarkung Beutig und der Flurstücke 328 und 329 der Gemarkung Zschochau;
+§ 4 Abs. 2 Nr. 6 mit Ausnahme des Ausbringens von Gülle, Jauche und mineralischem Dünger auf den westlich an das Lange Holz anschließenden Frischwiesen (Flurstücke 524/1, 526, 527, 528, 529, 530, 531/1, 531/2, 532/1 Gemarkung Großböhla) sowie von Gülle, Jauche, mineralischem Dünger und Bioziden auf den randlich berührten ackerbaulich genutzten Teilflächen der Flurstücke 514 und 515 der Gemarkung Wellerswalde unberührt bleibt,
 
 1.3
 
-die Mahd von Wiesen vor dem 15. Juni beziehungsweise die Mahd des Trockenhanges (Flurstücke 328, 329, 363, 364 Gemarkung Zschochau) vor dem 15. Juli eines jeden Jahres nur in Einvernehmen mit der unteren Naturschutzbehörde erfolgt;
+die Mahd der Großseggenbestände Flurstücke 524 bis 530 Gemarkung Großböhla vor dem 15. Juli nur im Einvernehmen mit der unteren Naturschutzbehörde erfolgt;
 
 2.
 
 für die dem Schutzzweck entsprechende, im Sinne des § 3
-SächsNatSchG umweltgerechte forstwirtschaftliche Nutzung der Forstwirtschaftsflächen in der bisherigen Art und im bisherigen Umfang mit der Maßgabe, dass
+SächsNatSchG umweltgerechte forstwirtschaftliche Nutzung in der bisherigen Art und im bisherigen Umfang mit der Maßgabe, dass
 
 2.1
 
-vorhandene naturnahe Laubholzbestockung erhalten bleibt;
+vorhandene naturnahe Laubholzbestockungen erhalten bleiben,
 
 2.2
 
-der Holzeinschlag sich in den Bereichen mit naturnaher Laubholzbestockung auf Einzelstammentnahme beschränkt;
+in naturnahen Waldbeständen keine Kahlhiebe vorgenommen werden,
 
 2.3
 
-flächiger Holzeinschlag nur in Bereichen mit bisher nicht naturnaher Bestockung nach Herstellung des Einvernehmens mit der Naturschutzbehörde erfolgt;
+Kahlhiebe und flächenhafte Nutzungen in anderen Waldbeständen der Genehmigung durch die zuständige Naturschutzbehörde bedürfen;
+
+Die Genehmigung wird durch eine nach anderen Rechtsvorschriften erforderliche Genehmigung oder Erlaubnis ersetzt, wenn diese im Einvernehmen mit der Naturschutzbehörde erteilt wurde. § 19 Sächsisches Waldgesetz vom 10. April 1992 bleibt unberührt;
 
 2.4
 
-bei Aufforstungen grundsätzlich standortgerechte heimische Baumarten verwendet werden;
+bei Verjüngungsmaßnahmen ausschließlich standortgerechte, heimische Laubbaumarten verwendet werden,
 
 2.5
 
-in naturnah bestockten Waldbereichen natürliche Alters- und Zerfallsphasen des Bestandes auf Teilflächen zugelassen werden;[Auf § 30 Abs. 2 des Waldgesetzes für den Freistaat Sachsen (SächsWaldG) vom 10. April 1992 (SächsGVBl. S. 137) wird verwiesen.]
+in naturnah bestockten Waldbereichen natürliche Alters- und Zerfallsphasen des Bestands geduldet werden;
 
 3.
 
@@ -255,33 +241,44 @@ für die dem Schutzzweck entsprechende, ordnungsgemäße Ausübung der Jagd mit 
 
 3.1
 
-gemäß § 37 Abs. 3 des Sächsischen Landesjagdgesetzes (SächsLJagdG) vom 8. Mai 1991 (SächsGVBl. S. 67) die Errichtung von Jagdeinrichtungen der Genehmigung durch die zuständige Naturschutzbehörde bedarf und gemäß § 30 Abs. 2 Nr. 7
-SächsLJagdG die Jagd mit Schlageisen verboten ist;
+die Jagd grundsätzlich durch Einzeljagd erfolgt,
 
 3.2
+
+Treib- und Drückjagden der Herstellung des Einvernehmens mit der zuständigen Naturschutzbehörde bedürfen und nur vom November bis Januar stattfinden dürfen,
+
+3.3
+
+gemäß § 37 Abs. 3 des Sächsischen Landesjagdgesetzes (SächsLJagdG) vom 8. Mai 1991 die Errichtung von Jagdeinrichtungen der Genehmigung durch die zuständige Naturschutzbehörde bedarf,
+
+3.4
+
+gemäß § 30 Abs. 2 Nr. 7
+SächsLJagdG die Jagd mit Schlageisen verboten ist,
+
+3.5
 
 eine Jagdausübung aus Gründen des Naturschutzes unberührt bleibt;
 
 4.
 
-für die dem Schutzzweck entsprechende, im Sinne des § 3
-SächsNatSchG umweltgerechte und zwischen der zuständigen Fischerei- und Naturschutzbehörde einvernehmlich abgestimmte Ausübung des Fischereirechtes;
+für die dem Schutzzweck entsprechende Unterhaltung der Gewässer mit der Maßgabe, dass die Unterhaltung und Pflege der wasserbaulichen Anlagen ökologisch verträglich und nur im Einvernehmen mit der zuständigen Naturschutzbehörde erfolgt;
 
 5.
 
-für die dem Schutzzweck entsprechende Unterhaltung der Gewässer mit der Maßgabe, dass die Unterhaltung und Pflege der wasserbaulichen Anlagen ökologisch verträglich erfolgt und Eingriffe in Gehölze oder sonstige naturnahe Ufervegetation nur im Einvernehmen mit der  zuständigen Naturschutzbehörde erfolgen.
+für die sonstige, bisher rechtmäßig ausgeübte Nutzung der Grundstücke und Wege sowie der rechtmäßig bestehenden Einrichtungen in der bisherigen Art und im bisherigen Umfang sowie deren Unterhaltung und Erhaltung;
 
 6.
 
-für die sonstige, bisher rechtmäßig ausgeübte Nutzung der Grundstücke, Gewässer und Wege sowie der rechtmäßig bestehenden Einrichtungen in der bisherigen Art und im bisherigen Umfang sowie deren Unterhaltung und Erhaltung;
+für Pflege- und Entwicklungsmaßnahmen, die von der Naturschutzbehörde oder der von ihr beauftragten Stelle angeordnet werden;
 
 7.
 
-für Pflege- und Entwicklungsmaßnahmen, die von der unteren Naturschutzbehörde oder der von ihr beauftragten Stelle angeordnet werden;
+für wissenschaftliche Untersuchungen im Auftrag der Naturschutzbehörde zur Aufstellung oder Fortschreibung eines Pflege- und Entwicklungsplanes beziehungsweise zur Überwachung des Bestands der Schutzgüter;
 
 8.
 
-für behördlich abgestimmte wissenschaftliche Untersuchungen im Auftrag der Naturschutz- beziehungsweise Naturschutzfachbehörde zur Aufstellung oder Fortschreibung eines Pflege- und Entwicklungsplanes beziehungsweise zur Überwachung des Bestands der Schutzgüter;
+für behördlich abgestimmte und genehmigte Tätigkeiten im Rahmen wissenschaftlicher Forschungsaufgaben;
 
 9.
 
@@ -289,23 +286,15 @@ für behördlich angeordnete oder zugelassene Beschilderungen oder Wegemarkierun
 
 10.
 
-für behördlich abgestimmte und genehmigte Tätigkeiten im Rahmen wissenschaftlicher Forschungsaufgaben;
+für behördlich abgestimmte und genehmigte Arbeiten zur Erkundung und Beseitigung von Gefahren aus Altlasten;
 
 11.
 
-für behördlich abgestimmte und genehmigte Arbeiten zur Erkundung und Beseitigung von Gefahren aus Altlasten;
+für gesetzlich vorgesehene Vermessungsarbeiten in Abstimmung mit der zuständigen Naturschutzbehörde;
 
 12.
 
-für gesetzlich geregelte Vermessungsarbeiten;
-
-13.
-
-für bergtechnisch erforderliche Arbeiten zur Rekultivierung und Bergsicherung auf den im NSG eingeschlossenen Teilen der Flurstücke 360 und 361a der Gemarkung Zschochau, sofern diese nach Herstellung des Einvernehmens mit der Naturschutzbehörde erfolgen;
-
-14.
-
-für die Aufforstung der an den Bach anschließenden Bereiche (Flurstücke 331 bis 339, Gemarkung Zschochau) mit auenwaldtypischen Baum- und Straucharten, soweit keine Vorkommen gefährdeter Arten betroffen sind, in einer maximalen Breite von 10 m und nach Herstellung des Einvernehmens mit der zuständigen Naturschutzbehörde.
+für wasserwirtschaftliche Maßnahmen außerhalb des NSG, die in das NSG hineinwirken, aber nicht den oberflächennahen, pflanzenwirksamen Grundwasserleiter beeinflussen.
 
 § 5a
 
@@ -314,30 +303,40 @@ Die in den §§ 4 und 5 festgelegten Verbote, Gebote und Maßgaben für die land
 
 § 6
 
-Grundsätze der Pflege und Entwicklung
+Pflege- und Entwicklungsmaßnahmen
 
-(1) Zum Erreichen des Schutzzweckes nach § 3 und nach Maßgabe der §§ 4 und 5 dieser Verordnung ist zur dauerhaften Sicherung und Weiterentwicklung der Schutzwürdigkeit des Naturschutzgebietes
+(1) Nach Maßgabe der §§ 4 und 5 dieser Verordnung ist zur dauerhaften Sicherung und Weiterentwicklung der Schutzwürdigkeit des Schutzgebietes
 
 1.
 
-eine extensive Grünlandnutzung einzuführen beziehungsweise fortzusetzen;
+eine naturschutzgerechte Grünlandnutzung für die Feucht- und Frischwiesenbereiche zwischen Langem Holz und Radelandwald sowie östlich des Radelandwaldes unter besonderer Berücksichtigung der Bedeutung und des Potenzials für zahlreiche, an extensive Nutzung der Wiesen angepaßte Tierarten zu sichern beziehungsweise zu entwickeln;
 
 2.
 
-die Erhaltung und Entwicklung des naturnahen Bachlaufs sowie der Trockenbiotope zu gewährleisten;
+für die bisher intensiv genutzten randlich gelegenen Wiesen westlich des Langen Holzes einvernehmlich mit den Eigentümern und Nutzungsberechtigten eine naturschutzgerechte Grünlandnutzung einzuleiten beziehungsweise zu entwickeln;
 
 3.
 
-eine naturnahe, bestandserhaltende Waldbewirtschaftung für den Bereich Birmenitzbachtal einzuführen und für den Bereich Münchhof, soweit nicht die Erhaltung der Verkehrssicherheit anderes erfordert, der Wald der natürlichen Entwicklung zu überlassen;
+für die an die Wiesenbereiche der Bachaue angrenzenden Ackerflächen auf eine Bewirtschaftung hinzuwirken, die einen Nährstoff- oder Biozideintrag in die geschützten Grünlandbereiche verhindert;
 
 4.
 
-eine Konzeption zur Besucherlenkung zu erstellen und umzusetzen, die insbesondere die zweckgebundene, dem Schutzzweck entsprechende Erhaltung bestimmter vorhandener Wege beinhaltet einschließlich einer Betrachtungsmöglichkeit der Dolomitwand.
+die Entwässerungswirkung von Gräben soweit zurückzunehmen, wie das unter Rücksichtnahme auf die betroffenen, berechtigten landwirtschaftlichen Nutzungen auch außerhalb des Schutzgebiets möglich ist;
 
-(2) Der zu erstellende Pflege- und Entwicklungsplan dient der Konkretisierung der in Absatz 1 aufgeführten und in der Würdigung erläuterten Entwicklungsziele und wird fortzuschreibende Grundlage für Pflege- und Entwicklungsmaßnahmen.
+5.
+
+die Entwicklung von naturnahen Gewässer- und Gewässerrandstrukturen anzustreben;
+
+6.
+
+für die Waldflächen eine naturnahe, bestandserhaltende Waldbewirtschaftung einzuführen beziehungsweise weiterzuentwicken, um naturnahe Wald- und Waldrandstrukturen zu erhalten, insgesamt eine Gehölzzusammensetzung aus einheimischen und standortgerechten Arten mit einer gestuften Altersklassenzusammensetzung einschließlich natürlicher Alterungs- und Zerfallsphasen langfristig zu erreichen.
+
+(2) Ein zu erstellender Pflege- und Entwicklungsplan (PEP) dient der Konkretisierung der in § 6 Abs. 1 Nr. 1 bis 6 aufgeführten Maßnahmen, wobei die im PEP festzulegenden Maßnahmen mit den Eigentümern beziehungsweise den Nutzern der Flächen abzustimmen sind.
 
 (3) Die Durchführung von Pflege- und Entwicklungsmaßnahmen kann Eigentümern und Nutzungsberechtigten gemäß § 15 Abs. 5
-SächsNatSchG auf Antrag übertragen werden. Ansonsten ist die Durchführung der im Pflege- und Entwicklungsplan vorgeschlagenen Maßnahmen zu dulden.
+SächsNatSchG auf Antrag übertragen werden. Ansonsten haben diese die Durchführung der im Pflege- und Entwicklungsplan vorgeschlagenen Maßnahmen zu dulden.
+
+(4) Entschädigungsansprüche und Härtefallausgleichszahlungen werden nach den jeweils geltenden bundes- und landesrechtlichen gesetzlichen Bestimmungen geregelt.
 
 § 7
 
@@ -373,7 +372,7 @@ SächsNatSchG gilt entsprechend.
 
 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 1
+(1) Ordnungswidrig im Sinne § 61 Abs. 1 Nr. 1
 SächsNatSchG handelt, wer in dem Naturschutzgebiet vorsätzlich oder fahrlässig, soweit § 5 nichts anderes bestimmt, entgegen § 4 Abs. 1 Handlungen vornimmt, die zu einer Zerstörung, Beschädigung oder Veränderung des Schutzgebietes oder seiner Bestandteile oder zu einer nachhaltigen Störung führen können oder dem Schutzzweck nach § 3 zuwiderlaufen können.
 
 (2) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 1
@@ -386,7 +385,7 @@ Sächsischen Bauordnung errichtet, ändert, abbricht oder der Errichtung gleichg
 
 2.
 
-entgegen § 4 Abs. 2 Nr. 2 Straßen, Wege, Plätze oder sonstige Verkehrsanlagen anlegt;
+entgegen § 4 Abs. 2 Nr. 2 Straßen, Wege, Plätze oder sonstige Verkehrsanlagen anlegt oder verändert;
 
 3.
 
@@ -446,15 +445,15 @@ entgegen § 4 Abs. 2 Nr. 16 zeltet, lagert, Wohnwagen oder -mobile, sonstige Fah
 
 17.
 
-entgegen § 4 Abs. 2 Nr. 17 auf Flächen außerhalb der entsprechend öffentlich gewidmeten Straßen und Wege reitet, Rad oder Schlitten oder mit motorgetriebenen oder bespannten Fahrzeugen fährt;
+entgegen § 4 Abs. 2 Nr. 17 auf Flächen außerhalb der entsprechend öffentlich gewidmeten Straßen und Wege reitet, mit Rad fährt oder mit motorgetriebenen oder bespannten Fahrzeugen fährt
 
 18.
 
-entgegen § 4 Abs. 2 Nr. 18 Flächen außerhalb der öffentlichen Straßen und Wege betritt;
+entgegen § 4 Abs. 2 Nr. 18 Flächen außerhalb der öffentlichen Straßen und Wege betritt,
 
 19.
 
-entgegen § 4 Abs. 2 Nr. 19 jede Art von Motor-, Geländelauf-, Geländerad- oder Flugsport, einschließlich Modellflugsport betreibt;
+entgegen § 4 Abs. 2 Nr. 19 Motor-, Geländelauf, Geländerad- oder Flugsport, einschließlich Modellflugsport, jeglicher Art betreibt;
 
 20.
 
@@ -462,7 +461,7 @@ entgegen § 4 Abs. 2 Nr. 20 Fahrzeuge, Maschinen oder Geräte wäscht oder reini
 
 21.
 
-entgegen § 4 Abs. 2 Nr. 21 Feuer anmacht oder unterhält;
+entgegen § 4 Abs. 2 Nr. 21 Feuer anmacht und unterhält;
 
 22.
 
@@ -470,27 +469,19 @@ entgegen § 4 Abs. 2 Nr. 22 badet;
 
 23.
 
-entgegen § 4 Abs. 2 Nr. 23 außerhalb des Fischereirechtes angelt;
+entgegen § 4 Abs. 2 Nr. 23 Hunde frei laufen lässt;
 
 24.
 
-entgegen § 4 Abs. 2 Nr. 24 die Gewässer mit Booten aller Art befährt;
+entgegen § 4 Abs. 2 Nr. 24 Lärm, Erschütterungen, Luftverunreinigungen verursacht, die geeignet sind, Tiere zu beunruhigen oder den Naturgenuss zu beeinträchtigen;
 
 25.
 
-entgegen § 4 Abs. 2 Nr. 25 Hunde frei laufen lässt;
+entgegen § 4 Abs. 2 Nr. 25 Lichtquellen betreibt, die geeignet sind, Tiere zu beunruhigen;
 
 26.
 
-entgegen § 4 Abs. 2 Nr. 26 Lärm, Erschütterungen, Luftverunreinigungen verursacht, die geeignet sind, Tiere zu beunruhigen, wesentliche Bestandteile des NSG in der Standsicherheit zu gefährden oder den Naturgenuss zu beeinträchtigen;
-
-27.
-
-entgegen § 4 Abs. 2 Nr. 27 Lichtquellen betreibt, die geeignet sind, Tiere zu beunruhigen oder den Naturgenuss zu beeinträchtigen;
-
-28.
-
-entgegen § 4 Abs. 2 Nr. 28 Veranstaltungen jeglicher Art durchführt.
+entgegen § 4 Abs. 2 Nr. 26 Veranstaltungen jeglicher Art durchführt.
 
 (3) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 1
 SächsNatSchG handelt weiterhin, wer vorsätzlich oder fahrlässig
@@ -512,11 +503,11 @@ einer vollziehbaren Nebenbestimmung zuwiderhandelt, mit der eine nach § 7 ertei
 
 In-Kraft-Treten
 
-(1) Diese Verordnung tritt am Tage nach Ablauf der Auslegungsfrist gemäß § 2 Abs. 4 dieser Verordnung in Kraft.
+(1) Diese Verordnung tritt am Tage nach Ablauf der Auslegungsfrist gemäß § 2 Abs. 5 dieser Verordnung in Kraft.
 
-(2) Mit In-Kraft-Treten dieser Verordnung treten die einstweilige Sicherung des Naturschutzgebietes „Alte Halde – Dolomitwand“ in der Form der Anordnung des Regierungspräsidiums Leipzig vom 13. März 1995 gegen die Kalkwerke Ostrau GmbH und der Allgemeinverfügung des Regierungspräsidiums Leipzig vom 12. April 1995 (SächsABl. S. 584) sowie die Verordnung des Regierungspräsidiums Leipzig zur Festsetzung des Naturschutzgebietes „Alte Halde – Dolomitgebiet Ostrau“ vom 6. November 1996 (SächsABl. S. 1119) in der Fassung der Ergänzungsverordnung des Regierungspräsidiums Leipzig vom 17. Januar 1997 (SächsABl. S. 189) außer Kraft.
+(2) Mit In-Kraft-Treten dieser Verordnung tritt die „Anordnung Nummer 2 über Naturschutzgebiete“ vom 30. März 1961 (GBl. II DDR, S. 166) sowie die Festlegung des Regierungsbevollmächtigten zu Naturschutzgebieten des Verwaltungsbezirkes Leipzig vom 2. Oktober 1990, soweit sie sich auf Teile der in § 2 beschriebenen Fläche bezieht, außer Kraft.
 
-Leipzig, den 17. Juni 1999
+Leipzig, den 23. März 2000
 
 Regierungspräsidium Leipzig
 
@@ -524,9 +515,9 @@ Steinbach
 
 Regierungspräsident
 
-Verkündungshinweis:
+Verkündigungshinweis:
 
 Gemäß § 51 Abs. 10
-SächsNatSchG ist eine Verletzung der Verfahrensvorschriften unbeachtlich, wenn sie nicht innerhalb eines Jahres nach Verkündung der Rechtsverordnung schriftlich unter Angabe des Sachverhaltes, der die Verletzung begründen soll, bei der höheren Naturschutzbehörde, die die Rechtsverordnung erlassen hat, geltend gemacht wird.
+SächsNatSchG ist eine Verletzung der Verfahrensvorschriften unbeachtlich, wenn sie nicht innerhalb eines Jahres nach Verkündigung der Rechtsverordnung schriftlich unter Angabe des Sachverhaltes, der die Verletzung begründen soll, bei der höheren Naturschutzbehörde, die die Rechtsverordnung erlassen hat, geltend gemacht wird.
 
 Übersichtskarte
