@@ -1,0 +1,102 @@
+# 17. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2003-05-22T16:00:00+02:00
+- Ende: 2003-05-22T22:35:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=240
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=240
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - schriftlich beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_16 und V_17 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Wahl von Patientenfürsprechern - gewählt
+- TOP 8: Wahl der Mitglieder der Sozialkommissionen - gewählt
+- TOP 9: Bauruine in der Straße Am Küstergarten - überwiesen
+- TOP 10: Aufhebung Lernmittelfreiheit - beantwortet
+- TOP 11: Auswirkungen des Ausstieges aus der Anschlussförderung des sozialen Wohnungsbaus für Treptow-Köpenick - schriftlich beantwortet
+- TOP 12: FHTW - schriftlich beantwortet
+- TOP 13: Hortplätze 2003/2004 - schriftlich beantwortet
+- TOP 14: Sondermittel für Bund der Antifaschisten Köpenick e.V. (SM 310) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15: Sondermittel für Tourismusverein Berlin Köpenick-Treptow e.V. (SM 317) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 16: Sondermittel für Freiwillige Feuerwehr Grünau (SM 311) - ohne Änderungen in der BVV beschlossen
+- TOP 17: Sondermittel für eltern helfen eltern e.V. (SM 312) - ohne Änderungen in der BVV beschlossen
+- TOP 18: Sondermittel für Diakoniekreis Kietzer Feld (SM 316) - ohne Änderungen in der BVV beschlossen
+- TOP 19: Sondermittel für Freiwillige Feuerwehr Johannisthal (SM 319) - ohne Änderungen in der BVV beschlossen
+- TOP 20: Sondermittel für Offensiv '91 e.V. (SM 321) - ohne Änderungen in der BVV beschlossen
+- TOP 21: Sondermittel für Jugendfeuerwehr Oberschöneweide (SM 322) - ohne Änderungen in der BVV beschlossen
+- TOP 22: Sondermittel für Alte Möbelfabrik e.V. (SM 324) - ohne Änderungen in der BVV beschlossen
+- TOP 23: Sondermittel für Bürgerverein Wilhelmshagen/Rahnsdorf e.V. (SM 329) - ohne Änderungen in der BVV beschlossen
+- TOP 24: Sondermittel für Gesellschaft zur Betreuung Wohnungsloser und sozial Schwacher - Haus Schöneweide (SM 337) - ohne Änderungen in der BVV beschlossen
+- TOP 25: Sondermittel für Köpenicker Seniorenzeitung (SM 318) - ohne Änderungen in der BVV beschlossen
+- TOP 26: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 332) - ohne Änderungen in der BVV beschlossen
+- TOP 27: Sondermittel für Seniorenverein Wuhlheide e.V. (SM 326) - ohne Änderungen in der BVV beschlossen
+- TOP 28: Sondermittel für Selbsthilfegruppe "Multiple Sklerose" (SM 331) - ohne Änderungen in der BVV beschlossen
+- TOP 29: Sondermittel für Förderverein Heimatmuseum Treptow e.V. (SM 333) - ohne Änderungen in der BVV beschlossen
+- TOP 30: Sondermittel für Sylvester e.V. (SM 335) - ohne Änderungen in der BVV beschlossen
+- TOP 31: Sondermittel für Sylvester e.V. (SM 336) - ohne Änderungen in der BVV beschlossen
+- TOP 32: Leitlinien für die Seniorenpolitik
+- TOP 33: Schulentwicklungsplanung 2002-2006 - notwendige Schließung von Schulen
+- TOP 34: - Entwurf des Bebauungsplans XV-46 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-46 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke
+- TOP 35: Bebauungspläne XV-45 und XV-46 hier: Auswertung der erneuten öffentlichen Auslegung der Bebauungspläne XV-45 und XV-46
+- TOP 36: Kenntlichmachung der Mittelinsel Schnellerstraße / Bruno-Bürgel-Weg
+- TOP 37: Beratungsangebote
+- TOP 38: Rollheimerdorf in der Wuhlheide
+- TOP 39: Radikale Senkung der Parkgebühren in der Köpenicker Altstadt (Parkraumbewirtschaftung) - ohne Änderungen in der BVV beschlossen
+- TOP 40: Einführung von Teilinklusivmieten
+- TOP 41: Schulentwicklungsplanung 2002 bis 2006
+- TOP 42: Änderungsbeschluss zum Bezirksamtsbeschluss Nr. 125/2002 vom 17.12.2002 für den Bebauungsplanentwurf XV-46 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke (Festsetzungsbeschluss)
+- TOP 43: Bebauungsplanentwurf XV-17 hier: Einstellung des Planfeststellungsverfahrens - überwiesen
+- TOP 44: BA-Vorlage Nr. 153/03: Investitionsplanung 2003 bis 2007 - Entwurf, Finanzierung der gezielten Zuweisung - Einzelplan 40 - Jugend und Sport - überwiesen
+- TOP 45: Bebauungsplan XVI-78, hier: Reduzierung des Geltungsbereichs - überwiesen
+- TOP 46: Bebauungsplanentwurf XV-30, Ortsteil Alt-Treptow - Inhaltliche Planänderungen - überwiesen
+- TOP 47: Eingeschränkte Widmung des Verbindungsweges zwischen Erxlebenstraße und Agnes-Hacker-Straße in Altglienicke und Benennung in "Schattenweg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 48: - Benennung der Straße 635 in Müggelheim in "Müggellandstraße" - Benennung der Straße 639 in Müggelheim in "Norheimer Straße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 49: Gründung der 2. Sonderschule für Lernbehinderte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 50: Bebauungsplan XV-10a, hier: Rechtsverordnung zur Festsetzung des Bebauungsplanentwurfes XV-10a - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 51: Benennung der bisher als Privatstraße benannten öffentlichen Verbindungsstraße zwischen Nalepastraße und Tabbertstraße in Oberschöneweide in "Kunheimstraße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 52: Bebauungsplanentwurf XV-25, Ortsteil Altglienicke - Inhaltliche Planänderungen - überwiesen
+- TOP 53: Gemeinsam gegen rechte Aktivitäten am S-Bahnhof Schöneweide - überwiesen
+- TOP 54: Pilotprojekt Schilderarme Stadt - überwiesen
+- TOP 55: Keine Streichung des "12 Millionen-Programms" - ohne Änderungen in der BVV beschlossen
+- TOP 56: Entgeltverordnung der Volkshochschulen - überwiesen
+- TOP 57: Dauerhafter Saisonbusparkplatz - überwiesen
+- TOP 58: Beschilderung WISTA-Gelände am Adlergestell - überwiesen
+- TOP 59: Belegbetten im Krankenhaus Köpenick - überwiesen
+- TOP 60: Grünflächen - intensive-extensive Pflege - überwiesen
+- TOP 61: Umgestaltung des Platzes 23. April - überwiesen
+- TOP 62: Köpenicker Sommer - ohne Änderungen in der BVV beschlossen
+- TOP 63: Wochenmarkt Bölschestraße - vertagt
+- TOP 64: Demontage von Briefkästen im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 65: Regenbogenflaggen zum Christopher Street Day - vertagt
+- TOP 66: Zukunft der Naturzeltplätze - überwiesen
+- TOP 67: Berücksichtigung bezirklicher Belange im Planfeststellungsverfahren zum BBI - ohne Änderungen in der BVV beschlossen
+- TOP 68: Bauherreninformation - überwiesen
+- TOP 69: Tempo 70 auf dem Müggelheimer Damm - überwiesen
+- TOP 70: Einladung eines ehemaligen Zwangsarbeiters - überwiesen
+- TOP 71: Herausragender Lenin
+- TOP 72: Haus der Natur und Umwelt in der Wuhlheide - ohne Änderungen in der BVV beschlossen
+- TOP 73: Europaweiter Autofreier Tag - vertagt
+- TOP 74: Tempo 70 auf der Straße An der Wuhlheide - vertagt
+- TOP 75: Denkmal für Chris Gueffroy - überwiesen
+- TOP 76: Finanzierung Haus Natur und Umwelt - ohne Änderungen in der BVV beschlossen
+- TOP 77: Benennung Straße 87 (Altglienicke) - ohne Änderungen in der BVV beschlossen
+- TOP 78: Hortbetreuung der Lernanfänger im Schuljahr 2003/2004 - mit Änderungen in der BVV beschlossen
+- TOP 79: Senkung von Fernsprechgebühren - vertagt
+- TOP 80: Schulen in freier Trägerschaft - überwiesen
+- TOP 81: Parkplätze in der Laurenzstraße - überwiesen
+- TOP 82: Ein- und Aussteigemöglichkeit an der Musikschule
+- TOP 83: Normaluhr auf dem Schloßplatz - ohne Änderungen in der BVV beschlossen
+- TOP 84: Gesamtschulstandort Allende-Viertel - vertagt
+- TOP 85: Straßenbaubeitragsgesetz
+- TOP 86: Spreepark - vertagt
+- TOP 87: Konkretisierung und Fortschreibung der Sanierungsziele im Sanierungsgebiet Köpenick Altstadt/Kietz Vorstadt zur Entwicklung des Frauentogs
+- TOP 88: Existenzsicherung von Collage e.V. - ohne Änderungen in der BVV beschlossen
