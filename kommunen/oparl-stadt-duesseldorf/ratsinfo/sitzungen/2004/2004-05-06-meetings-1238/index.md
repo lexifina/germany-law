@@ -1,0 +1,70 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-05-06T14:00:00+02:00
+- Ende: 2004-05-06T18:51:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1238
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1238
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111488.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111488.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111488.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 3: Akt. Anfr. Laubenburg: BAT
+- TOP 4: Anfragen - zur Kenntnis genommen
+- TOP 5: Anfr. SPD: Ö-Arbeit - zur Kenntnis genommen
+- TOP 6: Anfr. FDP: Kliniken - zur Kenntnis genommen
+- TOP 7: Anfr. CDU: Schul- und Bildungssysteme - zur Kenntnis genommen
+- TOP 8: Anfr. CDU: Initiative Soziale Marktwirtschaft - zur Kenntnis genommen
+- TOP 9: Anfr. Bü90: Unvollständige Familien - zur Kenntnis genommen
+- TOP 10: ANfr. Laubenburg: Werbung an Schulen - zur Kenntnis genommen
+- TOP 11: Anfr. Laubenburg: Fahrtkosten Rheinbahn - zur Kenntnis genommen
+- TOP 12: Anfr. Lohse: Hartz IV - zur Kenntnis genommen
+- TOP 13: Anfr. FDP: Sport-Gymnasium - zur Kenntnis genommen
+- TOP 14: Anträge - zur Kenntnis genommen
+- TOP 15: Antr. Bü90: Luftreinhaltung - mehrheitlich abgelehnt
+- TOP 16: Änd.-antr. CDU/FDP: Luftverschmutzung verringern - mehrheitlich beschlossen
+- TOP 17: Antr. SPD:Sicherheitsbericht für Düsseldorf - zur Kenntnis genommen
+- TOP 18: Interfr. Antrag: Patentgerichtsverfahren - einstimmig beschlossen
+- TOP 19: Kämmererliste 2003 - mehrheitlich beschlossen
+- TOP 20: Kämmererliste 2004 - mehrheitlich beschlossen
+- TOP 21: Humboldt-Gymnasium - einstimmig beschlossen
+- TOP 22: Ausstellung "Der Traum vom Turm" im NRW-Forum Kult - einstimmig beschlossen
+- TOP 23: Abn. d. Jahresrechn. 2002/2003 d. DOR u. endg. Fes - mehrheitlich beschlossen
+- TOP 24: Schließung der Kita Malmedyer Str. 5 - einstimmig beschlossen
+- TOP 25: Besondere Förderung kirchlicher Träger - einstimmig beschlossen
+- TOP 26: Kunstrasen Lohausen - einstimmig beschlossen
+- TOP 27: Kunstrasen BSA Feuerbachstraße - einstimmig beschlossen
+- TOP 28: Freie Christliche Schule - einstimmig beschlossen
+- TOP 29: Bilkrather Weg / Angerbenden - einstimmig beschlossen
+- TOP 30: Goethe-Gymnasium - einstimmig beschlossen
+- TOP 31: akki - einstimmig beschlossen
+- TOP 32: Brandschutz Rheinufertunnel - einstimmig beschlossen
+- TOP 33: Neubau Quartierpark Kirchstraße/Sonnenpark im Rahm - einstimmig beschlossen
+- TOP 34: Feuerwache 8 in der Gräulinger Straße 27 - einstimmig beschlossen
+- TOP 35: Masterplan Kinderspielplätze - einstimmig beschlossen
+- TOP 36: Annahme einer Schenkung für das Stadtarchiv - einstimmig beschlossen
+- TOP 37: Ausschussumbesetzungen - einstimmig beschlossen
+- TOP 38: Vertrauenspersonen Schöffenwahlausschuss - einstimmig beschlossen
+- TOP 39: AR FDGHG - mehrheitlich beschlossen
+- TOP 40: Gen. eines 60er- Beschlusses - mehrheitlich beschlossen
+- TOP 41: Sonntagsfreigaben - zur Kenntnis genommen
+- TOP 42: Gen. eines 60er-Beschlusses - einstimmig beschlossen
+- TOP 43: BSA Flinger Broich - zur Kenntnis genommen
+- TOP 44: Gen. 60er Beschluss - mehrheitlich beschlossen
+- TOP 45: Realisierung des dritten Bauabschnitts des IHZ-P - zur Kenntnis genommen
+- TOP 46: Gen. eines 60er- Beschl. - einstimmig beschlossen
+- TOP 47: 60er: Mitgliederversammlung Städtetag NRW - zur Kenntnis genommen
+- TOP 48: Änderungssatzung Amt 60 - einstimmig beschlossen
+- TOP 49: Bericht der Denkmalbehörde über das Jahr 2003 - einstimmig beschlossen
+- TOP 50: Freigabe eines verkaufsoffenen Sonntags - mehrheitlich beschlossen
+- TOP 51: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 52: Plan Nr. 5776/11 - Nördl. Höherweg - Veränderung - einstimmig beschlossen
+- TOP 53: Freigabe eines verkaufsoffenen Sonntags "Drupa" - mehrheitlich beschlossen
