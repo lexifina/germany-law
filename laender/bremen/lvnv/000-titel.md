@@ -1,1 +1,1 @@
-# Verordnung über den Umfang der Lehrverpflichtung an staatlichen Hochschulen (LVV) vom 22. Juli 2002
+# Verordnung über den Umfang und den Nachweis der Erfüllung der Lehrverpflichtung an staatlichen Hochschulen (Lehrverpflichtungs- und Lehrnachweisverordnung - LVNV) vom 14. Mai 2004
