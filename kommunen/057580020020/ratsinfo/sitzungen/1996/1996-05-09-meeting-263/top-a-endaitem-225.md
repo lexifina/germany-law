@@ -1,0 +1,6 @@
+# TOP A.: ÖFFENTLICHE SITZUNG
+
+- Sitzung: Sitzung (1996-05-09)
+- Körperschaft: Gemeinde Kirchlengern
+- Öffentlich: ja
+- OParl: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/225
