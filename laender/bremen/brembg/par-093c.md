@@ -1,0 +1,2 @@
+# § 93 c
+Der Beamte ist zu Beschwerden, Behauptungen und Bewertungen, die für ihn ungünstig sind oder ihm nachteilig werden können, vor deren Aufnahme in die Personalakte zu hören, soweit die Anhörung nicht nach anderen Rechtsvorschriften erfolgt. Die Äußerung des Beamten ist zur Personalakte zu nehmen.

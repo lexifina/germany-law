@@ -1,0 +1,2 @@
+# § 165 c
+Professoren sind verpflichtet, eine entgeltliche wissenschaftliche oder künstlerische Tätigkeit im Sinne des § 65 Abs. 1 Nr. 3 sowie eine entgeltliche mit Lehr- und Forschungsaufgaben zusammenhängende selbständige Gutachtertätigkeit im Sinne des § 65 Abs. 1 Nr. 4 dem Dienstvorgesetzten unter Angabe der Belastung durch die Nebentätigkeit und der daraus zu erwartenden Einkünfte anzuzeigen.

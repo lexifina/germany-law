@@ -1,0 +1,5 @@
+# § 71 b
+(1) Beamten mit Dienstbezügen kann in Bereichen, in denen aufgrund der Arbeitsmarktsituation ein außergewöhnlicher Bewerbermangel besteht und deshalb zur Aufrechterhaltung der Funktionsfähigkeit der öffentlichen Verwaltung ein dringendes Bedürfnis zur Gewinnung von Teilzeitkräften gegeben ist, auf Antrag Teilzeitbeschäftigung bis zur Hälfte der regelmäßigen Arbeitszeit bis zur Dauer von insgesamt 15 Jahren bewilligt werden. § 71 a Abs. 1 Satz 2 gilt entsprechend.
+(2) Für die Übernahme von Nebentätigkeiten gelten die §§ 63 bis 65. § 64 Abs. 2 Satz 3 gilt mit der Maßgabe, daß von der regelmäßigen wöchentlichen Arbeitszeit ohne Rücksicht auf die Bewilligung von Teilzeitbeschäftigung auszugehen ist.
+(3) § 71 a Abs. 2 Satz 4 gilt entsprechend.
+(4) Teilzeitbeschäftigung nach Absatz 1 Satz 1 sowie Teilzeitbeschäftigung und Urlaub nach § 71 a Abs. 1 Satz 1 Nr. 1, 3 und 4 dürfen zusammen die Dauer von 15 Jahren nicht überschreiten. Bei Teilzeitbeschäftigung im Sinne des Absatzes 1 Satz 2 oder im Sinne des § 71 a Abs. 1 Satz 2 gilt Satz 1 mit der Maßgabe, daß an die Stelle der Dauer von 15 Jahren die Dauer von 20 Jahren tritt.

@@ -1,0 +1,3 @@
+# § 41 d
+(1) Der in den einstweiligen Ruhestand versetzte Beamte ist verpflichtet, einer erneuten Berufung in das Beamtenverhältnis auf Lebenszeit Folge zu leisten, wenn ihm ein Amt verliehen werden soll, das derselben oder mindestens einer gleichwertigen Laufbahn angehört wie das frühere Amt und mit mindestens demselben Endgrundgehalt (§ 27 Abs. 2 Satz 2) verbunden ist.
+(2) Kommt der Beamte der Verpflichtung nach Absatz 1 schuldhaft nicht nach, obwohl er auf die Folgen eines solchen Verhaltens schriftlich hingewiesen worden ist, so verliert er für diese Zeit seinen Anspruch auf Versorgungsbezüge.
