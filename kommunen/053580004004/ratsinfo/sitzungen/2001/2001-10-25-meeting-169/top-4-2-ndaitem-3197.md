@@ -1,4 +1,4 @@
-# TOP 4.2.: Grundstücksangelegenheiten
+# TOP 4.2.: Kauf eines Grundstückes zur Anlegung eines Bolzplatzes in Aldenhoven
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
