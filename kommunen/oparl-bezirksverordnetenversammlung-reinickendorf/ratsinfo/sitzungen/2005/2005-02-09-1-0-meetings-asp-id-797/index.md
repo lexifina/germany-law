@@ -1,0 +1,72 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2005-02-09T17:00:00+01:00
+- Ende: 2005-02-09T22:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=797
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=797
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=26627
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Entwurf des Bebauungsplanes XX-B 30 - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Entwurf des Bebauungsplanes 12-7 B sowie Verordnung über die Festsetzung des Bebauungsplanes 12-7 B im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 2.3: Entwurf des Bebauungsplanes XX-285 sowie Verordnung über die Festsetzung des Bebauungsplanes XX-285 im Bezirk Reinickendorf, Ortsteil Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 2.4: Verzicht auf das geplante Straßenausbaubeitragsgesetz - in der BVV abgelehnt
+- TOP 3: Konsensliste - in der BVV abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Feststellungen - (offen)
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretender Bürgerdeputierter gem. § 25 BezVerwG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Berücksichtigung sozialer Aspekte beim Abbau von Briefkästen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Insektenfreundliche und Energie sparende Außenbeleuchtung in den waldnahen Außenbereichen des Bezirks Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Erwerb der deutschen Staatsangehörigkeit in feierlichem Rahmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Rauch-/Feuermeldeanlagen in Kitas - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.5: Frühzeitige Erkennung von Beschädigungen und Gefahrenstellen auf Spielplätzen durch "Spielplatztelefon" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Pendeltüren im Rathaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Befestigung des Fußweges durch den "Entenschnabel" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Besserer Zugang zum Postamt Grußdorfstraße auch für Mütter und Väter mit Kinderwagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.9: Öffnung der Aussichtsplattform auf dem Casino-Turm/Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.10: Übertragung weiterer Kindertagesstätten an freie Träger - überwiesen
+- TOP 6.11: Erfahrungsbericht der Patientenfürsprecherin des Dominikus-Krankenhauses für das Jahr 2004 - überwiesen
+- TOP 6.12: Übertragung weiterer Kindertagesstätten an freie Träger - überwiesen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Situation der Schulkinder islamischer Religion - beantwortet
+- TOP 7.2: Schulreformen ohne notwendiges Lehrpersonal - beantwortet
+- TOP 7.3: Bilanz und Perspektive der bezirklichen Kulturarbeit - beantwortet
+- TOP 7.4: Anmeldesituation für das Kitajahr 2005/2006 - beantwortet
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Entwurf des Bebauungsplanes XX-286 für Teilflächen der Grundstücke Berliner Straße 19, 26, 27 und 35 ... sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-286 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Praxisnaher Unterricht an Regelschulen - in der BVV abgelehnt
+- TOP 9.2: Anforderungen an künftige Planungen für das Gelände zwischen Greenwichpromenade, Sechser-Brücke und Tegeler Hafen - erledigt
+- TOP 9.3: Geplante Gastanlegestelle im Tegeler See - erledigt
+- TOP 9.4: Interessenbekundungsverfahren Greenwichpromenade - erledigt
+- TOP 9.5: Erweiterung des Schulangebots in Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Planungen zur Umgestaltung der Greenwichpromenade nicht weiter verfolgen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Anbindung der Schulsekretariate an das Intranet - überwiesen
+- TOP 10.2: Europawoche 2005 - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Beschäftigte des Bezirks Reinickendorf - überwiesen
+- TOP 10.4: Kosten des Kita-Eigenbetriebs - überwiesen
+- TOP 10.5: Teilnahme am Programm WiS - überwiesen
+- TOP 10.6: Abo-Essen für alle Schüler - überwiesen
+- TOP 10.7: Energiebericht für Reinickendorf vorlegen - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Städtebaulicher Handlungsbedarf in Reinickendorf - überwiesen
+- TOP 10.9: Fußgängerzone Gorkistraße - überwiesen
+- TOP 10.10: Insel im Tegeler Hafen - überwiesen
+- TOP 10.11: Parksituation in Alt-Tegel - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Erhalt der Heilpädagogischen Pflegestellen - überwiesen
+- TOP 11.2: Aktueller Leitfaden an alle Elternvertreter - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Fuß- und Radweg am Kurt-Schumacher-Damm - überwiesen
+- TOP 11.4: Sichere Überquerung der Straße am Borsigturm - überwiesen
+- TOP 11.5: EU-Feinstaubrichtlinien - überwiesen
+- TOP 11.6: Optimierung der Busverbindung im MV - überwiesen
+- TOP 11.7: Einführung von LED-Lichtzeichenanlagen - überwiesen
