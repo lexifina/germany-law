@@ -1,0 +1,73 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2005-03-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/581263
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/581263
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Vorstellung des Projektes: Verlegung der Fernwärmeleitung durch der SWM GmbH
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 2.1.: Niederschrift der Sitzung vom 14.02.2005
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Hirtentäschelweg 2, 1 Birke
+- TOP 3.2.: Waldklausenweg 8, 1 Kiefer, 1 Fichte
+- TOP 3.3.: Haderunstr. 19, 1 Fichte
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 3.4.: Stahleckplatz 9, Fällungsantrag vom 16.11.2004 (Referat für Stadtplanung und Bauordnung, 10.02.2005)
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Budget
+- TOP 4.2.: UA Jugend/Soziales
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag der Schulsozialarbeit Guardini-Hauptschule auf Gewährung eines Zuschusses aus dem BA-Budget (Direktorium, 10.02.2005)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Zweckentfremdung von Wohnraum - Windeckstr. 15 (Sozialreferat, 17.02.2005) - Waldgartenstr. 30 (Sozialreferat, 09.02.2005)
+- TOP 7.2.: Parkscheibenzone in der Sauerbruchstraße (KVR, 19.01.2005)
+- TOP 7.3.: Unveränderte Fortführung der Gaststätte: Cafe Jeanette, Lorettoplatz (KVR, 11.02.2005)
+- TOP 7.4.: Ausnahmebewilligung für Veranstaltungen in verschiedenen Grünanlagen, Puppentheatervorführungen (Baureferat, 14.02.2005)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Veranstaltung auf öffentlichem Verkehrsgrund, Straßenfest des musischen Kindergartens Christa Gittner e.V. am 25.06.2005 (KVR, 21.02.2005)
+- TOP 8.2.: Bebauungsplan der Gemeinde Gräfelfing (Referat für Stadtplanung und Bauordnung, 10.02.2005)
+- TOP 8.3.: Neue Form der Feste junger Erwachsener (Direktorium, 16.02.2005)
+- TOP 8.4.: Flächennutzungsplan Nr.: 12 der Gemeinde Neuried (Referat für Stadtplanung und Bauordnung, 14.02.2005)
+- TOP 8.5.: Bebauungsplan Nr.: 54 A - 1 50 Forschung der Gemeinde Planegg (Referat für Stadtplanung und Bauordnung, 11.02.2005)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Gräfelfinger Straße; "Haderner Krautgartler", (KVR, 04.02.2005)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Bushaltestelle Terofalstr. 4 - 6 (Polizeiinspektion 33, 15.02.2005)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Grüner Pfeil an der Lichtzeichenanlage Willibaldstraße / Senftenauerstraße (BA 21, 10.02.2005)
+- TOP 11.2.: Genuss und Qualität mit Bio-Lebensmitteln (Referat für Gesundheit und Umwelt, 09.02.2005)
+- TOP 11.3.: MVV-Vorverkaufsstellen in Trudering-Riem (BA 15, 26.10.2005)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.3.1: Vollversammlung
+- TOP 12.3.3.1: am 23.02.2005 Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich III/3 Stiftsbogen, Walter-Hopf-Weg, Bundesautobahn A 96, Schröfelhofstraße, Kurparkstraße
+- TOP 12.3.3.2: am 23.02.2005 Vergabe der städtischen Dächer zur Solarstromerzeugung - Erfahrungsbericht über das Ausschreibungsverfahren der LH München - "Mietfreie" Vergabe der städtischen Dächer zur Solarstromerzeugung - Vergabe städtischer Dächer für Bürgersolaranlagen
+- TOP 12.4.: Senatsbeschlüsse
+- TOP 12.4.1.1: Beschluss des Verwaltungs- und Personalausschusses vom 03.02.2005 Ablauf von Bürgerversammlungen; Keine Kommentierung der Anträge durch die Versammlungsleitung unmittelbar vor der Abstimmung (abgelehnt)
+- TOP 12.4.1.2: Beschluss des Umweltausschusses vom 01.02.2005 Vergabe der städtischen Dächer zur Solarstromerzeugnung - Erfahrungsbericht über das Ausschreibungsverfahren der LH München - "Mietfreie" Vergabe der städtischen Dächer zur Solarstromerzeugung - Vergabe städtischer Dächer für Bürgersolaranlagen (vertagt ins Plemun)
+- TOP 12.4.2.1: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2005 Fortschreibung des Zentrenkonzeptes - Nahversorgung in München - Ausweisung von dringend benötigten Flächen für Läden zur Deckung des täglichen Bedarfs in Daglfing - Stadtteilzentren retten - Nahversorgung sichern - Stärkung der Einzelhandelsstruckturen in den Stadtrandbezirken durch konsequente Bauleitplanung - Wohnortnahe Versorgung für ältere Menschen
+- TOP 12.4.2.2: Beschluss des Kinder- und Jugendhilfeausschusses, des Sozialhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.02.2005 a) Zuschussnehmerdatei 2005, Vollzug des Haushaltsplanes 2005 für den Bereich "Förderung freier Träger" des Sozilareferates/Zentrale b) Zuschussnehmerdatei 2005, Vollzug des Haushaltsplanes 2005 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung c) Zuschussnehmerdatei 2005, Vollzug des Haushaltsplanes 2005 für den Bereich "Förderung freier Träger des Stadtjugendamtes d) Zuschussnehmerdatei 2005, Vollzug des Haushaltsplanes 2005 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 12.4.2.3: Beschluss des Bauausschusses vom 08.03.2005 Maßnahmen gegen das Abstellen von Anhängern und gewerblich genutzten Fahrzeugen / Gewerbebedarf auf öffentlichem Verkehrsgrund
+- TOP 12.5.: Vorberatende Ausschüsse
+- TOP 12.5.1.1: Beschluss des Schulausschusses vom 16.02.2005 Anpassung des städt. Kindergartenversorgungsziels -Grundsatzbeschluss-
+- TOP 12.6.: Referentenantrag
+- TOP 12.6.1.1: für die gemeinsame Sitzung des Kreisverwaltungsausschusses, Bauausschusses, Kulturausschusses und des Ausschusses für Arbeit und Wirtschaft vom 15.02.2005 Fortschreibung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 12.7.: Bekanntgaben
+- TOP 12.7.1: im Kinder- und Jugendhilfeausschuss am 11.01.2005 und im Sozialausschuss am 13.01.2005 Sachverständige für Migrationsfragen, Interkulturell orientiertes Qualitätsmanagement, Vorschlag zur Auswahl der Regionen
+- TOP 12.7.2: im Bauausschuss vom 08.03.2005 Baumfällungen und Baumpflanzungen im öffentlichen Grün
+- TOP 12.5.1: Gefasste Beschlüsse
+- TOP 12.4.2: Referentenanträge
