@@ -1,0 +1,55 @@
+# Rat
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2004-07-21T17:00:00+02:00
+- Ende: 2004-07-21T21:50:00+02:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZav0s6tN9irBU_JuHyo59Rw
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/956
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcF42ZqqvOu_Isg9AqjTp73zphDC_yMkr1yHHLKYlAGo/Bekanntmachung_Rat_21.07.2004.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYauoqteZxQumX9AF0eRa-MeKUIWmu7B_jkCvRxkXKed/Oeffentliche_Niederschrift_Rat_21.07.2004.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 26.05.2004
+- TOP 3.: Anregungen und Beschwerden gem. § 24 GO NW
+- TOP 3.1.: Nr. 2/2004; Städtebaulicher Vertrag "Glanemannsweg/Kurfürstenstraße" - Einstimmig, 0 Enthaltungen
+- TOP 3.2.: Benennung des Platzes des LAGA-Wasserlabyrinths nach dem Begründer der Gronauer Textilindustrie Mathieu van Delden - Einstimmig, 0 Enthaltungen
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1.: Mehr Demokratie wagen; gegen einen schleichenden Abbau der Transparenz kommunalpolitischer Entscheidungen in Gronau - Antrag der FDP-Fraktion vom 18.04.2004 - - 17 Jastimmen, 18 Neinstimmen, 2 Enthaltungen
+- TOP 4.2.: Geschäftskonzept der Rock- und Pop-Museum GmbH und dessen Auswirkung auf den künftigen Betriebsmittelbedarf des Museums; Antrag der FDP-Fraktion vom 28.05.2004 - Einstimmig, 0 Enthaltungen
+- TOP 4.3.: Erstellung einer Bürgermeistergalerie - Einstimmig, 1 Enthaltungen
+- TOP 4.4.: Privatgrundstücke in öffentlicher Nutzung; Erschließungs- und wegerechtliche Problematik im Bereich der ehemaligen Gemeinde Epe; Antrag der FDP-Fraktion vom 04.06.2004 - Einstimmig, 0 Enthaltungen
+- TOP 4.5.: Änderung des Vertragsstandards für die städtebaulichen Verträge; Antrag der CDU-Fraktion vom 23.06.2004 - Einstimmig, 0 Enthaltungen
+- TOP 4.6.: Allee Stadtpark Epe Antrag der SPD-Fraktion vom 08.07.2004 - Einstimmig, 0 Enthaltungen
+- TOP 4.7.: Benennung der Grachten im Inselpark; Antrag der SPD-Fraktion vom 06.07.04 - Einstimmig, 0 Enthaltungen
+- TOP 4.8.: Sachstandbericht zur Errichtung eines Krematoriums; Antrag der SPD-Fraktion vom 12.07.2004 - Einstimmig, 0 Enthaltungen
+- TOP 5.: Beauftragung einer Wirtschaftsprüfungsgesellschaft für die Jahresabschlussprüfung des Abwasserwerkes der Stadt Gronau für das Wirtschaftsjahr 2003 - Einstimmig, 0 Enthaltungen
+- TOP 6.: Aktuelle Finanzsituation der Stadt Gronau
+- TOP 7.: Bericht über die Budgetabwicklung der Stadt Gronau (Westf.) im II. Quartal 2004 Über-/außerplanmäßige Mittelbereitstellungen im II. Quartal 2004 - Einstimmig, 11 Enthaltungen
+- TOP 8.: Bebauungsplan Nr. 201 "Hof Terbahl", 3. Änderung, Stadtteil Epe I. Planverfahren 1. Aufstellungsbeschluss 2. Bürgerbeteiligung 3. Beteiligung der Träger öffentlicher Belange II. Städtebaulicher Vertrag - Einstimmig, 0 Enthaltungen
+- TOP 9.: Erlass einer ordnungsbehördlichen Verordnung über die Ausübung des Gemeingebrauchs auf einem Teil des ehemaligen Geländes der Landesgartenschau Gronau-Losser 2003 - Einstimmig, 0 Enthaltungen
+- TOP 10.: Änderung der Budgetvereinbarung mit den Gronauer Schulen - Bewirtschaftung der Entgelte und Mieten bzw. Kostenerstattungen für die schulfremde Nutzung von Schulen - Einstimmig, 0 Enthaltungen
+- TOP 11.: Erlass einer neuen Satzung für die Sparkasse Gronau - Einstimmig, 0 Enthaltungen
+- TOP 12.: Öffentlich-rechtliche Vereinbarung zur Errichtung einer gemeinsamen Adoptionsvermittlungsstelle - Einstimmig, 0 Enthaltungen
+- TOP 13.: Neubildung der Einigungsstelle gemäß § 67 Landespersonalvertretungsgesetz - Einstimmig, 1 Enthaltungen
+- TOP 14.: Mitteilungen der Verwaltung
+- TOP 14.1.: Inselpark Gronau Errichtung eines Factory-Outlet-Center (FOC) Sachstandsbericht
+- TOP 14.2.: Einladung der Partnerstadt Mezöberény
+- TOP 14.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Anfragen
+- TOP 15.1.: Bushaltestelle am St.-Antonius-Hospital (Anfrage von RM Pieper)
+- TOP 15.2.: Beschilderung Rock~nPopmuseum (Anfrage von RM von Borczyskowski)
+- TOP 15.3.: Biker-Treff (Anfrage von RM Tillmann)
+- TOP 15.4.: Novellierung Baurecht (Anfrag von RM Dr. Loos)
+- TOP 15.5.: Bahnhofshaltepunkt Gronau-Ost (Anfrage von RM Krause)
+- TOP 15.6.: Beschilderung ev. Friedhof (Anfrag von RM Krause)
+- TOP 15.7.: Radweg Vereinnstraße (Anfrage von RM Schemitzek)
+- TOP 15.8.: Campingplatz Dreiländersee (Anfrage von RM Roters)
+- TOP 15.9.: Spielplatz Euregioring (Anfrage von RM Pogorzelski)
+- TOP 15.10.: Sichtschutz Wendehammer Bootssteg Dreiländersee (Anfrag von RM Lenz)
