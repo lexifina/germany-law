@@ -1,0 +1,1 @@
+Der Freistaat Bayern fördert Büchereibauten der Träger öffentlicher Büchereien in Bayern nach diesen Richtlinien und gemäß den allgemeinen haushaltsrechtlichen Bestimmungen – insbesondere für Zuwendungen des Freistaates Bayern nach Art. 23 und 44 BayHO. Die Förderung erfolgt ohne Rechtsanspruch im Rahmen der verfügbaren Haushaltsmittel.
