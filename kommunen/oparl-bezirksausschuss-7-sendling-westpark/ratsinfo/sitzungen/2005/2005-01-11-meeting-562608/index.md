@@ -1,0 +1,90 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2005-01-11T20:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/562608
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/562608
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.1.: Beschluss nach § 7 Absatz 3 und 4 der GeschO in die Tagesordnung aufzunehmende Anträge und Anfragen, soweit sie sich nicht aus Vorberatung, Anhörung und Unterrichtung ergeben
+- TOP 0.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 0.3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 0.4.: Genehmigung der Tagesordnung
+- TOP 0.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.6.: Toiletten im Westpark
+- TOP 0.7.: Parkhaus Garmischer Straße
+- TOP 0.8.: Wendeverbot an der Kreuzung Fürstenriederstraße / Waldfriedhofstraße
+- TOP 0.9.: UA 07 - Verkehr - 10.01.2005
+- TOP 0.10.: Ausländerbeauftragter
+- TOP 0.11.: Jugendbeauftragter
+- TOP 0.12.: Kinderbeauftragter
+- TOP 0.13.: Seniorenbeauftragte
+- TOP 0.14.: a. Grüntenstr.25 Fällung einer Fichte b.Säulingstr. 1 Fällung einer Linde c.Faberstr. 11 Fällung eines Baumhasel d.Ettalstr. 11 Fällung einer Fichte e.Werdenfelsstr. 43 Fällung einer Fichte f.Elmauer Str. 4 Fällung einer Weißtanne g. Attenkoferstr. 1,22,24,45,59 Fällung mehrerer Bäume h. Johan-Clanze-Str. 53 Fällung eines Spitzahorn
+- TOP 0.15.: Alpspitzstr. 1
+- TOP 0.16.: Krüner Str. 26
+- TOP 0.17.: Fernpaßstr. 27
+- TOP 0.18.: Fürstenrieder Str. 159
+- TOP 0.19.: Josef-Naus-Str. 3
+- TOP 0.20.: Ebermayerstr. 16
+- TOP 0.21.: Waldfriedhofstr. 30
+- TOP 0.22.: a. Thailändische Kunst- u. Kulturverein Kulturfeier / Nepalpagode 02./03.07 und 22.10.05 b. Städt. Sing und Musikschule Konzert / Seebühne 01.06 und 04.06.05 c. Festspielhaus Theater / Seebühne 11.06.05 d. Kino, Mond & Sterne Oper-Air-Kino / Seebühne 57 mal 2005 e. Kulturgipfel italienische Nacht / Seebühne 08.-10.07.05 f. Promünchen Oper-Air-Diashow / Seebühne 6 mal 2005 g. TAT; Theater Aktion Tanz Theater / Seebühne 7 mal 2005 h. Deutsche Buddhistische Union Vesakh-Fest /Nepalpagode 4 x von Juni bis Sept. i. Circus Roberto Zirkuswiese / Westpark 01.06. -12.06.05 j. Feierwerk e.V. Kinderfaschingsumzug 06.02.05 k. Kleingartenverein Süd-West Zeltaufbau / Parkplatz 30.06. - 03.07.05
+- TOP 0.23.: Lichtzeichenbauprogramm 2005
+- TOP 0.24.: Verkehrsrechtliche Anordnung; Marbachstraße
+- TOP 0.25.: Suchkreismeldung Murnauer Straße
+- TOP 0.26.: Änderung der BA - Satzung; Anhörung für den BA beim Kauf von Grundstücken
+- TOP 0.27.: Allgemeines
+- TOP 0.28.: Gehölzpflegearbeiten im Westpark
+- TOP 0.29.: Auf hochfrequentierten Gehwegen ist Salz zu streuen
+- TOP 0.30.: Übersicht der BA-Sitzungen und BV Termine 2005
+- TOP 0.31.: Verkehrsrechtliche Anordnung; Partnachplatz
+- TOP 0.32.: Verkehrsrechtliche Anordnung; Hansastraße
+- TOP 0.33.: Bauvorhaben
+- TOP 0.34.: Handlungsprogramm Mittlerer Ring 2001-2005;
+- TOP 0.35.: Bau von Tiefgaragen
+- TOP 0.36.: Perspektive München; Münchner Bürgerinnen- und Bürgerbefragung
+- TOP 0.37.: Haushaltsentwurf 2005
+- TOP 0.38.: Münchner Gesamtplan II, Soziale Wohnungsversorgung
+- TOP 0.39.: Produktbeschreibung des Stadtjugendamtes
+- TOP 0.40.: PLUS - Warenhandel GmbH; Lebensmittelversorgung im 7. Stadtbezirk
+- TOP 0.41.: Lärm- und Abgasschutzmaßnahmen am Rubihornweg
+- TOP 0.42.: MVG - Neues Busnetz
+- TOP 0.43.: Kreisjugendring München; Finanzknappheit
+- TOP 0.44.: Bayr. Staatsminister für Wirtschaft, Infrastruktur, Verkehr und Technologie; Transrapid und Mittlerer Ring
+- TOP 0.45.: Ausländerbeirat; Abschluss der Konstituierung
+- TOP 0.46.: Zukunft der Arbeitsgruppe Obdachlosigkeit..
+- TOP 0.47.: Einführung des Ratsinformationssystems (RIS) bei den BA - Geschäftstellen
+- TOP 0.48.: Vollzug der Baumschutzverordnung
+- TOP 0.49.: Fällung wegen Borkenkäferbefall
+- TOP 0.50.: Termin für die Festlegung eines Schulsprengelvorschlages
+- TOP 0: Tagesordnung
+- TOP 0.&nbsp;: Anfragen aus der Bürgerversammlung
+- TOP 0.&nbsp;: Anträge
+- TOP 0.&nbsp;: Anträge und Berichte aus den Unterausschüssen
+- TOP 0.&nbsp;: Bericht der Beauftragten
+- TOP 0.&nbsp;: Anhörungen:
+- TOP 0.&nbsp;: Baumschutz
+- TOP 0.&nbsp;: Baumfällungen
+- TOP 0.&nbsp;: Baumfällungen / Bauvorhaben
+- TOP 0.&nbsp;: Errichtung einer Warenstellage
+- TOP 0.&nbsp;: Westparkveranstaltungen / auf öffentlichem Grund
+- TOP 0.&nbsp;: Referat für Gesundheit und Umwelt
+- TOP 0.&nbsp;: Büro der Bürgermeisterin
+- TOP 0.&nbsp;: Unterrichtung
+- TOP 0.&nbsp;: Baureferat
+- TOP 0.&nbsp;: Lokalbaukommission
+- TOP 0.&nbsp;: Stadtkämmerei
+- TOP 0.&nbsp;: Sozialreferat
+- TOP 0: Schriftverkehr
+- TOP 0.&nbsp;: Bürgerschreiben
+- TOP 0.&nbsp;: Bezirksausschüsse
+- TOP 0.&nbsp;: Schul- und Kultusreferat
+- TOP 0.&nbsp;: Verschiedenes
+- TOP 0.&nbsp;: Kreisverwaltungsreferat
+- TOP 0.&nbsp;: Direktorium
+- TOP 0.&nbsp;: Referat für Stadtplanung und Bauordnung
