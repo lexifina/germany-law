@@ -11,9 +11,6 @@
 § 11 | Aufsicht, Meldepflichten
 § 12 | Führung der Amtsvormundschaft und Amtspflegeschaft
 § 13 | Leistungen bei Unterbringung außerhalb der eigenen Familie
-§ 14 | Heranziehung zu den Kosten
+§ 14 | (weggefallen)
 § 15 | Vereinbarungen über die Höhe der Kosten
-§ 16 | Angebote von Leistungen der allgemeinen Förderung der Erziehung
-§ 17 | Änderung des Jugendbildungsgesetzes
-§ 18 | Änderung des Kindergarten- und Hortgesetzes für das Land Bremen
-§ 19 | Inkrafttreten
+§ 16 | Inkrafttreten
