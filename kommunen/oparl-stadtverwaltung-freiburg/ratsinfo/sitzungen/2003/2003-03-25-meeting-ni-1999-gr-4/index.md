@@ -1,0 +1,59 @@
+# 4. Sitzung des Gemeinderates
+
+- Körperschaft: Stadtverwaltung Freiburg
+- Beginn: 2003-03-25T15:00:00+01:00
+- Ende: 2003-03-25T22:00:00+01:00
+- Ort: Neuer Ratssaal des Rathauses, Rathausplatz 2 - 4, 79098 Freiburg im Breisgau
+- Status: terminiert
+- Gremium: https://ris.freiburg.de/oparl/organization/GR
+- Ratsinformationssystem: https://ris.freiburg.de/oparl/meeting/ni_1999-GR-4
+- OParl: https://ris.freiburg.de/oparl/meeting/ni_1999-GR-4
+- Quelle: https://ris.freiburg.de/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 47: Erklärung zum Irak-Krieg
+- TOP 1: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : 1. Änderung der Hauptsatzung 2. Auflösung der a) Kommission für Kunst b) Kommission für Straßenbenennung c) Kinderkommission 3. Entpflichtung der sachkundigen Einwohnerinnen und Einwohner bzw. Sachverständigen der Kommission für Kunst und der Kinderkommission
+- TOP 1.1: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : 1. Änderung der Hauptsatzung 2. Auflösung der a) Kommission für Kunst b) Kommission für Straßenbenennung c) Kinderkommission 3. Entpflichtung der sachkundigen Einwohnerinnen und Einwohner bzw. Sachverständigen der Kommission für Kunst und der Kinderkommission
+- TOP 2: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r: Änderung der Richtlinien zur Förderung des Schüler- und Jugendaustauschs der Stadt Freiburg im Rahmen der Städtepartnerschaften
+- TOP 3: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Abschluss eines Vertrags mit der Taxivereinigung Freiburg über die Durchführung des Frauenachtfahrdienstes mit geänderten Tarifen und Bedienzeiten
+- TOP 4: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Überlassung von städtischen Einrichtungen, Anpassung der Richtlinien und Neufestsetzung von Tarifen, Anpassung des Betriebsführungsvertrages für das Historische Kaufhaus mit der Freiburg Wirtschaft und Touristik GmbH
+- TOP 5: Änderung der Verwaltungsgebührensatzung
+- TOP 6: Betreff: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Stadtbibliothek a) Kalkulation und Beschluss der Benutzungsgebühren der Stadtbibliothek für die Jahre 5/2003 bis 4/2008 b) Änderung der Stadtbibliothekssatzung
+- TOP 7: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004: Schülerbeförderung h i e r : Änderung der Satzung über die Erstattung der notwendigen Schülerbeförderungskosten
+- TOP 7.1: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004: Schülerbeförderung h i e r : Änderung der Satzung über die Erstattung der notwendigen Schülerbeförderungskosten
+- TOP 8: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Neuregelung Kommunale Ergänzende Betreuung ab dem Schuljahr 2003/2004
+- TOP 9: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Schließung der Hallenbäder Hochdorf und Lehen
+- TOP 9.1: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Schließung der Hallenbäder Hochdorf und Lehen
+- TOP 10: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Reduzierung der Öffnungsperioden in den Bädern
+- TOP 10.1: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Reduzierung der Öffnungsperioden in den Bädern
+- TOP 11: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Reduzierung des Defizites bei Tiergehege und Stadtgut Mundenhof durch Einnahmeverbesserungen
+- TOP 12: Eintrittspreise und Abonnements beim Theater Freiburg für die Spielzeit 2003/2004
+- TOP 13: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Einführung eines zusätzlichen Schließtages / Erhebung von Eintrittsgeldern bei den Städtischen Museen Freiburg
+- TOP 13.1: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Verzicht auf Einführung eines zusätzlichen Schließtages / Erhebung von Eintrittsgeldern bei den Städtischen Museen Freiburg
+- TOP 14: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Schließung der Städtischen Galerie Schwarzes Kloster zum 01.05.2003
+- TOP 15: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Aufhebung und Änderung von Richtlinien, Gemeinderatsbeschlüssen und der sonstigen bisherigen Zuschusspraxis betreffend den Sozial- und Jugendhilfebereich
+- TOP 16: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Konzentration der psychologischen Beratungsstellen auf zwei Einrichtungen und Verlagerung auf freie Träger
+- TOP 17: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Änderung der Richtlinien der Stadt Freiburg i. Br. für die Aufnahme und Beteiligung am Programm „Mutter und Kind - Hilfe für Alleinerziehende'
+- TOP 18: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Abenteuerspielplatz Weingarten
+- TOP 19: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : a) Abbruch der Stadthalle b) Erweiterung der Neuen Messe
+- TOP 19.1: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : a) Abbruch der Stadthalle b) Erweiterung der Neuen Messe
+- TOP 20: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : 1. Stilllegung Industriegleisanlage IZ-Hochdorf 2. Stilllegung nicht genutzter Gleisanlagen im Industriegebiet Freiburg-Nord
+- TOP 21: Sondernutzungsgebührensatzung h i e r : Gebührenverzeichnis ab dem Jahr 2003 Sondernutzungsgebührensatzung h i e r : Gebührenverzeichnis ab dem Jahr 2003
+- TOP 22: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Stadtreinigung
+- TOP 23: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Senkung der Zinszuschüsse
+- TOP 23.1: Strukturelle Maßnahmen zum Doppelhaushalt 2003/2004 h i e r : Senkung der Zinszuschüsse
+- TOP 24: Strukturvereinfachungen bei Stellenbesetzungsverfahren h i e r : Antragsrecht des Gemeinderats auf gemeinderätliche Auswahlkommissionen
+- TOP 24.1: Strukturvereinfachungen bei Stellenbesetzungsverfahren h i e r : Antragsrecht des Gemeinderats auf gemeinderätliche Auswahlkommissionen
+- TOP 25: Gender Mainstreaming
+- TOP 26: Schlackeverwertung der TREA-Breisgau h i e r : Nichtziehen der Option aus dem Entsorgungsvertrag zwischen GAB und SOTEC
+- TOP 27: Erweiterung der Max-Weber-Schule um den Schulversuch zweijähriges Berufskolleg Wirtschaftsinformatik bei gleichzeitigem Wegfall je einer Klasse des kaufmännischen Berufskollegs I und des kaufmännischen Berufskollegs II ab dem Schuljahr 2003/2004 (Beschluss nach § 30 Schulgesetz)
+- TOP 28: Neueinrichtung des Berufskollegs für Praktikantinnen/Praktikanten an der Merian-Schule zum Schuljahr 2003/2004 als Schulversuch (Beschluss nach § 30 i. V m § 22 Schulgesetz)
+- TOP 29: Verlegung der Berufsfachschule zum Erwerb von Zusatzqualifikation (BFQ) als Schulversuch (Beschluss nach § 30 i. V. m. § 22 Schulgesetz) und der einjährigen Berufsfachschule Hauswirtschaft (1 BFH) (Beschluss nach § 30 Schulgesetz) von der Merianschule an die Edith-Stein-Schule zum Schuljahr 2003/2004
+- TOP 30: Weiherhof-Schulen h i e r : Sachstandsbericht zur Sanierung und zur Aula und weiteres Vorgehen
+- TOP 31: Fortschreibung Bundesverkehrswegeplan BVWPL h i e r: Zentrale Straßenverkehrsprojekte der Region Freiburg: B31 / Stadttunnel und Bundesautobahn A 5
+- TOP 32: Bebauungsplan 'Stadtbahn Vauban' (Wiehre und St. Georgen) Plan Nr. 6-142; h i e r : a) Ergebnis der Umweltverträglichkeitsprüfung b) Entscheidung über die geltend gemachten Anregungen c) Satzungsbeschluss
+- TOP 33: Bebauungsplan 'Stadtbahn Vauban' (Wiehre und St. Georgen) Plan Nr. 6-142; h i e r : Beschluss zur Änderung des Flächennutzungsplanes im Parallelverfahren gemäß § 8 Abs. 3 BauGB (49. Änderung)
+- TOP 34: Entwicklungsmaßnahme Vauban h i e r : 3. Kindergarten an der Wiesentalstraße
+- TOP 34.1: Entwicklungsmaßnahme Vauban h i e r : 3. Kindergarten an der Wiesentalstraße
+- TOP 35: Bebauungsplan und örtliche Bauvorschriften zur 1. Bebauungsplanänderung 'Betzenhausen-Hofacker', Plan-Nr. 5-14b.1 h i e r : a) Änderung des Flächennutzungsplanes im Parallelverfahren gemäß § 8 Abs. 3 BauGB (53. Änderung) b) Entscheidung über die eingegangenen Anregungen c) Satzungsbeschluss (Bebauungsplan und örtliche Bauvorschriften)
