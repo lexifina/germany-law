@@ -1,0 +1,97 @@
+# 15. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2003-03-20T17:30:00+01:00
+- Ende: 2003-03-20T23:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=344
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=344
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - (offen)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Unterhosen von außergewöhnlicher stadtpolitischer Bedeutung
+- TOP 3.2: Schaukasten im Rathaus Wedding
+- TOP 3.3: Bildung für alle?
+- TOP 3.4: Kostenvergleiche
+- TOP 3.5: Papageno-Grundschule
+- TOP 3.6: Baugerüst am Admiralspalast
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Lernmittelfreiheit
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Arbeitsmarktpolitik des Arbeitsamtes Mitte und ihre Folgen für den Bezirk
+- TOP 5.2: Soziales - flächendeckende Einführung Fallmanagement
+- TOP 5.3: Kitas
+- TOP 5.4: Status Quo - Übertragung des LHO-Betriebs Weddinger Seniorenheime
+- TOP 5.5: Verwendung von Mitteln für Ausgleichsmaßnahmen
+- TOP 5.6: Einführung des terrestrischen Fernsehens (DVB-T)
+- TOP 5.7: Bauvorhaben Postfuhramt
+- TOP 5.8: PISA und Integration
+- TOP 5.9: Schallschutz für die Wohnhäuser in der Tegeler Straße
+- TOP 5.10: Karnevalskosten
+- TOP 5.11: Auslaufen Anschlussförderungn sozialer Wohnungsbau
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Berufung eines beratenden Mitgliedes und dessen Stellvertreter in den Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 5 AG KJHG i.V. mit § 35 Abs. 8 AG KJHG
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Cafeteria in der Moses-Mendelssohn-Oberschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2: Finanzierung der Sanierungskosten des Sommerbades Poststadion - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.3: Alexanderplatz - ein Platz für junge Leute
+- TOP 9.4: Einrichten einer Kurzparkzone
+- TOP 9.5: Sicherung des Wohnens Leipziger Straße 114-120 / Mauerstraße 65-68
+- TOP 9.6: Beschleunigung des Grundstücksverkaufs an das SOS Kinderdorf
+- TOP 9.7: Karnevalsumzug in Berlin
+- TOP 9.8: Zukünftige Gestaltung auf dem Grundstück Koppenplatz 11
+- TOP 9.9: Schul- und Sportstättensanierungsprogramm jetzt!
+- TOP 9.10: Kurzparkzone im Teilbereich Spandauer Straße/ alt Drucksachen Nr. 313/I
+- TOP 9.11: Schulmuseum alt Drucksache Nr. 456/I
+- TOP 9.12: Einrichtung von integrierten Stadtteilverfahren - Quartiersmanagement - im Bezirk Mitte, Gebiete Sparrpatz, Magdeburger Platz, Soldiner Straße und Moabit West hier: Vertragsverlängerung für das Jahr 2003
+- TOP 9.13: * Beschluss der Teilung des Geltungsbereiches des Bebauungsplanes I-24 in die Bereiche I-24a und I-24b zwecks Sicherung der öffentlichen Grünanlage mit Kinderspielplatz auf den Grundstücken Auguststraße 3A, 4 und 5 (Teil I-24a) im Bezirk Mitte, Ortsteil Mitte, in der Planfassung vom 07.09.1999. * Beschluss über das Ergebnis der Beteiligung der Träger öffentlicher Belange gem. § 4 (1) BauGB für den Bebauungsplan Teil I-24a (Auguststraße 3A, 4 und 5) * Beschluss zur Durchführung der öffentlichen A
+- TOP 9.14: Beschluss über die Aufstellung des Bebauungsplans 1-13 und die Durchführung der frühzeitigen Bürgerbeteiligung
+- TOP 9.15: Beschluss über die Aufstellung des Bebauungsplans 1-6 und die Durchführung der frühzeitigen Bürgerbeteiligung
+- TOP 9.16: Beschluss über die Aufstellung des Bebauungsplans 1-11
+- TOP 9.17: Aufstellung des Bebauungsplanes 1-10 im Bezirk Mitte, Ortsteil Mitte und die Durchführung der frühzeitigen Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB)
+- TOP 9.18: Sicherung der Handlungsfähigkeit des Bezirksamtes Mitte von Berlin bis zum Jahr 2006
+- TOP 9.19: Jugendkunstschulen als Baustein im kommunalen Bildungsangebot alt Drucksache Nr. 103/I
+- TOP 9.20: Sicherung der Schulstationen alt Drucksache Nr. 278/I
+- TOP 9.21: Freibad Plötzensee/ alt Drucksache Nr 324/I (Freibgad Humboldthain)
+- TOP 9.22: Mittel aus Fifty-Fifty endlich an die Schulen auszahlen alt Drucksache Nr. 490/I
+- TOP 9.23: Sport auf dem ehemaligen Gelände des Stadions der Weltjugend alt Drucksachen Nr. 565/I
+- TOP 9.24: Anmeldung für die Investitionsplanung 2003 - 2007
+- TOP 9.25: Schulsponsoring
+- TOP 9.26: Erhöhung der Wohn- und Lebensqualität für die Anwohner der Lehrter Straße/ alt Drucksachen-Nr. 459/I
+- TOP 9.27: Schulentwicklungsplan 2002
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Besetzung des Ausschusses für Sport (II)
+- TOP 10.2: Neuordnung der Berliner Krematoriumslandschaft
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Forderungen von Bürgern zum Turmstraßenfest
+- TOP 11.2: Vergütung für ärztliche Leistungen bei Sozialhilfeempfängern ändern
+- TOP 11.3: Vorklassen retten!
+- TOP 11.4: Keine Baumfällungen ohne Straßenbahn
+- TOP 11.5: Sammlung gebrauchter Druckerpatronen
+- TOP 11.6: Verteilungsschlüssel für Asylbewerber oder Kriegsflüchtlinge
+- TOP 11.7: Unterbringung von Asylbewerbern in Wohnungen
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Wahlpflichtbereich Religion und Ethik/ Philosophie
+- TOP 12.2: Internetpräsenz des Bezirksamtes bürgerfreundlicher gestalten
+- TOP 12.3: Zwischennutzung am Checkpoint Charlie muss der historischen Bedeutung des Ortes gerecht werden
+- TOP 12.4: Konsequente Einbeziehung des Frauenbeirates in die Stadtplanung
+- TOP 12.5: Konzept zur besseren Vermittlung
+- TOP 12.6: Ausschuss Gesundheit und Soziales und Zuwendungsbescheide für Freie Träger
+- TOP 12.7: Obdachlosigkeit regionalisieren
+- TOP 12.8: Wahl eines stellvertretenden Bürgerdeputierten
+- TOP 12.9: Arbeit der Drogenkonsumräume in Moabit; Zugangsberechtigungen
+- TOP 12.10: Wegfall der Tagesmütter
+- TOP 12.11: Metropoltheater
+- TOP 12.12: Bericht zur Kooperation zwischen LuV Jugend und der Polizei
