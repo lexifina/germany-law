@@ -1,0 +1,108 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2002-04-18T17:30:00+02:00
+- Ende: 2002-04-18T23:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=88
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=88
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=6770
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - (offen)
+- TOP 1.2: der Fraktionen - (offen)
+- TOP 1.3: der Ausschüsse - (offen)
+- TOP 1.4: des Bezirksamtes - (offen)
+- TOP 2: Konsensliste - (offen)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Mehr "echtes" Grün im Regierungsviertel - (offen)
+- TOP 3.2: Zirkus Roland/Busch - (offen)
+- TOP 3.3: Großer Veranstaltungssaal, Haus der Jugend, Neuener Platz - (offen)
+- TOP 3.4: Beflaggung zum Christopher Street Day (I) - (offen)
+- TOP 3.5: Spielplätze - (offen)
+- TOP 3.6: Hepatitis-A-Impfung - (offen)
+- TOP 3.7: Papageno Grundschule - (offen)
+- TOP 3.8: Bad am Humdoldthain - (offen)
+- TOP 3.9: Erste Längste Kunstmeile Berlin-Mitte - (offen)
+- TOP 3.10: Nachnutzung des Krematoriums Wedding - (offen)
+- TOP 3.11: Ausländeranteil in Grundschulen - (offen)
+- TOP 3.12: Ampelphasen - (offen)
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Schulschließungen - (offen)
+- TOP 4.2: Runder Tisch "Erhalt des Schwimmbades Seydlitzstraße" (BVV-Beschluss Drs.-Nr. II/196) - (offen)
+- TOP 4.3: Autowerbung auf dem Gendarmenmarkt - (offen)
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Sanierungsarbeiten an der Hemmingway-Oberschule - (offen)
+- TOP 5.2: Hemmingway-Oberschule - (offen)
+- TOP 5.3: Sicherheit in den Grünanlagen - (offen)
+- TOP 5.4: Weddinger Seniorenheimbetrieb - (offen)
+- TOP 5.5: Lokale Arbeitsmarktpolitik intensivieren - (offen)
+- TOP 5.6: Kürzungen im T-Teil bei den entgeltfinanzierten Betreuungsleistungen - (offen)
+- TOP 5.7: Einrüstung Französischer Dom - (offen)
+- TOP 5.8: Praktika der Fachschüler Sozialpädagogik - (offen)
+- TOP 5.9: Ehemaliges Standesamt Tiergarten - (offen)
+- TOP 6: Vorlage zur Beschlussfassung/Beschlussempfehlung
+- TOP 6.1: Neufassung des Bezirkshaushaltsplanentwurfs Mitte für das Haushaltsjahr 2002 - (offen)
+- TOP 6.2: Bebauungsplanentwurf III-43-3 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-43-3
+- TOP 7: Vorlage zur Beschlussfassung - (offen)
+- TOP 7.1: Doppelhaushaltsplanentwurf des Bezirks Mitte für die Haushaltsjahre 2002 und 2003 - (offen)
+- TOP 7.2: Bebauungsplanentwurf III-105-1 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-105-1 - (offen)
+- TOP 8: Vorlage zur Kenntnisnahme - (offen)
+- TOP 8.1: Krankenhaus Moabit 195/I BA
+- TOP 8.2: BVV-Informationen über Internet 444/I BA
+- TOP 8.3: Über - keine Absenkung der Standards in den Kindertagestätten
+- TOP 8.4: Forschungsprojekt "Werkstattbuch für die Entwicklung überforderter Nachbarschaften Fallbeispiel QM-Gebiet Beusselstr./Moabit-West" - (offen)
+- TOP 8.5: Einrichtung von integrierten Stadtteilverfahren - Quartiersmanagement - im Bezirk Mitte, Gebiet Sparrplatz hier: Vertragsverlängerung für das Jahr 2002 - (offen)
+- TOP 8.6: Schulorganisatorische Maßnahmen zum Schuljahr 2002/03 - (offen)
+- TOP 8.7: Neuordnung der Stimm-/Wahlbezirke für politische Wahlen - (offen)
+- TOP 8.8: Umbenennung des LuV Lultur in LuV Bibliotheken und Kultur - (offen)
+- TOP 8.9: Geltungsbereich des Bebauungsplanes III-245 im Bezirk Mitte, Ortsteil Gesundbrunnen - (offen)
+- TOP 9: Dringlichkeitsantrag - (offen)
+- TOP 9.1: Nachfolgekonzept für das Krematorium Wedding - (offen)
+- TOP 9.2: Einquartierung von Asylbewerbern und Flüchtlingen - im Ausschuss abgelehnt
+- TOP 9.3: Papageno-Grundschule - (offen)
+- TOP 9.4: Finanzieller Aufwand für die Instandsetzung der Schulgebäude Bergstraße und Gartenstraße - (offen)
+- TOP 9.5: Öffnung des Sommerbades Humboldthain - (offen)
+- TOP 9.6: Mittel zur Gestaltung des öffentlichen Raumes - (offen)
+- TOP 9.7: Beflaggung zum Christopher-Street-Day (II) - (offen)
+- TOP 9.8: Förderung kommunalpolitischer Stiftungen - (offen)
+- TOP 10: Antrag/Beschlussempfehlung - (offen)
+- TOP 10.1: Ausstellung gegen Extremismus 388/I BiKu
+- TOP 10.2: Parkplätze um die Arminius-Markthalle schaffen 529/I Stadt
+- TOP 10.3: Mittes Privatschulen müssen erhalten bleiben
+- TOP 10.4: Architrarinschrift am Schauspielhaus
+- TOP 10.5: Dauerhafte Sicherung der Auszahlung der 50:50-Mittel
+- TOP 10.6: Verbindliche Energie- und Ressourceneinsparpläne
+- TOP 10.7: Tempolimit in der Paulstraße
+- TOP 10.8: Abteilungsgenaue Ressourcenverantwortung
+- TOP 10.9: Senkrecht-Parken in der Flensburger Straße
+- TOP 10.10: Schaffung eines Fonds für sich schnell amortisierende Investitionen
+- TOP 10.11: Fortbildung der HausmeisterInnen in energietechnischen Fragen
+- TOP 10.12: Titel für einen Fonds zur Unterstützung öffentlichen ehrenamtlichen Engagements
+- TOP 11: Antrag - (offen)
+- TOP 11.1: Gesundheitsstandort - Moabit - (offen)
+- TOP 11.2: Internet-Angebot des Bezirkes verbessern - (offen)
+- TOP 11.3: Krankenhaus Moabit: Anwendung des Überleitungvertrages - (offen)
+- TOP 11.4: Datenschutz von Sozialhilfe-Berechtigten - (offen)
+- TOP 11.5: Wendeverbot in Hauptverkehrszeiten - (offen)
+- TOP 11.6: Gewerbemietenentwicklung Turmstraße - (offen)
+- TOP 11.7: Gewachsenen Strukturen bei IDA-Maßnahmen erhalten - (offen)
+- TOP 11.8: Gegen den Durchgangsverkehr in der geplanten Erschließungsstraße zur Schwartzkopffstraße - (offen)
+- TOP 11.9: Podewil erhalten! - (offen)
+- TOP 11.10: Ampelanlagen - (offen)
+- TOP 11.11: Arbeit statt Sozialhilfe - (offen)
+- TOP 11.12: Auflistung aller Denkmäler - (offen)
+- TOP 11.13: Gegen überdimensionierten Straßenausbau auf dem Nordbahngelände - (offen)
+- TOP 11.14: Erhalt des Kindermuseums Labyrinth - (offen)
+- TOP 11.15: Grundsicherung - (offen)
+- TOP 11.16: IdA-Projekte für 2002 - (offen)
+- TOP 11.17: Lernmittel für Schulen auszahlen! - (offen)
+- TOP 11.18: Love-Parade - (offen)
+- TOP 11.19: "Kampfhunde-Verordnung" umsetzen! - (offen)
+- TOP 11.20: Fallbezogenes Zumessungsmodell zur Steuerung von Sozialhilfemitteln - (offen)
+- TOP 11.21: Sommerbad Poststadion - (offen)
