@@ -1,0 +1,113 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2005-02-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/567136
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/567136
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Neue MVG-Pläne für Harlachinger Anwohner; Bürgerschreiben vom 09.01.2005 - <div>Nachfrage bei der MVG</div>
+- TOP 2.2.: Neue Gasturbine im Heizkraftwerk Süd; Bürgerschreiben vom 25.01.2005 - <div>Nachfrage bei den Stadtwerken</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: UA 18 - Budgetangelegenheiten - 10.02.2005 - <div>berichtet</div>
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Elternsprecherin der Klasse 1 e der Rotbuchenschule Harlaching; für die Maßnahme: Projekt Klasse 2000, Gesundheitsförderung und Suchtvorbeugung; Antragssumme: 1.040.- Â?; Antrag vom 26.01.2005 - <div>Rückverweisung an Fachausschuss</div>
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: UA 18 - Verkehr - 11.02.2005 - <div>berichtet</div>
+- TOP 3.1.: Beidseitiges Haltverbot für LKW an der Säbener Straße ab der Kreuzung Säbener-/Klausener Straße bis zur Naupliastraße; Antrag der CSU-Fraktion - <div>nach geänderten Antrag von Herrn Baumgärtner</div>
+- TOP 3.1.: Fahrbahnsanierung der Candidstraße 2 - 30; (zwischen Brudermühltunnel und Tegernseer Land- / Spixstraße); Zuleitung des Baureferats mit der Bitte um Stellungnahme - <div>gemäß Ausschussbeschluss</div>
+- TOP 3.2.: PKW-Parkzone Säbener Straße; Anhörung gemäß § 3 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach §45 StVO - <div>siehe TOP 3.2.3.1</div>
+- TOP 3.3.: Haltverbot gegenüber Sachsenstraße 8; Anhörung gemäß § 3 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach §45 StVO - <div>gemäß Ausschussbeschluss</div>
+- TOP 3.1.: Verbesserte Beleuchtung am Fußgängerüberweg in der Schönstraße in Höhe Wilhelm-Kuhnert -Straße - <div>zur Kenntnis genommen</div>
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: UA 18 - Umwelt - 10.02.2005 - <div>berichtet</div>
+- TOP 3.1.: Übermittlung der Standorte von schulischen Einrichtungen sowie Kindergärten/Horten im Bezirk Pasing/Obermenzing an alle Mobilfunkbetreiber und Aufnahme dieser Einrichtungen in die Suchkreismeldungen - <div>gemäß Ausschussbeschluss</div>
+- TOP 3.1.: Nulltoleranz gegenüber Schmutzfinken und keine Fixerspritzen auf Spielplätzen; Beschluss des Bauausschusses vom 18.01.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung Anwesen Authariplatz; Bescheid vom 10.01.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Isar-Plan , Verbesserung der Hochwassersicherheit und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung zwischen südlicher Stadtgrenze und Corneliusbrücke in München; Planungsabschnitt III, Bauabschnitt 7: Realisierung des Isar-Planes zwischen der Braunauer Eisenbahnbrücke und der Corneliusbrücke; Beauftragung der Entwurfs- und Genehmigungsplanung und Ausführungsplanung für den Bauabschnitt 7 Sachstand zum Isar-Plan; Beschluss des Bauausschusses vom 15.02.2005 - <div>gem. Vorschlag UA Umwelt</div>
+- TOP 3.4.: Entwurmung der Füchse im Stadtgebiet München; Beschluss des Bezirksausschusses des 20. Stadtbezirks Hadern vom 14.02.2005 - <div>gem. Vorschlag UA Umwelt</div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: UA 18 - Soziales - 14.02.2005 - <div>berichtet</div>
+- TOP 3.1.: Frühkindliche Gesundheitsförderung, Schließung der Mütter-/Väterberatungsstellen zugunsten vermehrter Hausbesuche; Anhörung zum Beschlussentwurf für die Sitzung des Gesundheits- und Krankenhausausschusses am 14.04.2005 - <div>gemäß Ausschussbeschluss</div>
+- TOP 3.1.: Übernahme der Betriebskindertageseinrichtungen am Sanatoriumsplatz 2 (KH München Harlaching) in die Trägerschaft des Schulreferats; Schreiben vom 17.01.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Schulgebäude in der Fromundstraße; Hausnummernänderung; Zuleitung vom 10.01.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Sachverständige für Migrationsfragen, interkulturell oreintiertes Qualitätsmanagement, Vorschlag zur Auswahl der Regionen; Bekanntgabe in der Sitzung des Kinder- und Jugenhilfeausschusses vom 11.01.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Fortschreibung der Machbarkeitsstudie Bürgerzentren (Stadtratsbeschluss vom 04.10.2000) - Konzentration regionaler städtischer Dienstleistungen in ausgewählten Stadtteilzentren; Zuleitung vom 05.01.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: UA 18 - Bau und Planung - 10.02.2005 - <div>berichtet</div>
+- TOP 3.1.: "Putzstunde" (tägl. 05.00 - 06.00 Uhr) als gesetzl. Regelsperrzeit in Bayern; Zuleitung vom 28.12.2004 mit der Bitte um Stellungnahme - <div>gemäß Ausschussbeschluss</div>
+- TOP 3.5.4.2: Anhörung zu Bauvorhaben
+- TOP 3.5.4.2.1.: Anwesen in der Reichenhaller Straße; Nutzungsänderung im Souterrain als Erweiterung für eine Krankentransport-Firma im DG; Anhörung vom 01.02.2005 - <div>gemäß Ausschussbeschluss</div>
+- TOP 3.5.4.3: Baumbestandspläne
+- TOP 3.5.4.3.1.: Anwesen in der Arnpeckstraße; Anhörung vom 12.01.2005 - <div>Rückgabe an das Referat</div>
+- TOP 3.5.4.3.2.: Anwesen in der Rotbuchenstraße; Anhörung vom 18.01.2005 - <div>Ablehnung der Fällungen</div>
+- TOP 3.5.4.3.3.: Anwesen in der Salierstraße; Anhörung vom 3.01.2005 - <div>Ablehnung der Fällungen</div>
+- TOP 3.5.4.3.4.: Anwesen in der Athener Straße; Anhörung vom 31.01.2005 - <div>Zustimmung mit Ersatzpflanzung</div>
+- TOP 3.5.4.3.5.: Anwesen in der Geiselgasteigstraße; Anhörung vom 26.01.2005 - <div>Zustimmung mit Ersatzpflanzung</div>
+- TOP 3.5.4.3.1.: Gaststätten (unveränderte Fortführung); Trink- und Imbisskiosk "das älteste Würstlstandl von München"; Mitteilung vom 20.12.2004 - <div>zur Kenntnis genommen</div>
+- TOP 3.5.4.3.2.: Gaststätten (unveränderte Fortführung); SSW "Cafe am Eingang"; Mitteilung vom 20.01.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.5.4.3.3.: Baufälle im 18. Stadtbezirk - <div>zur Kenntnis genommen</div>
+- TOP 3.5.4.3.4.: Gaststätten (unveränderte Fortführung); SSW "Pensiero"; Mitteilung vom 24.01.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.5.4.3.5.: Werbeanlagen; Handelsjournal Nr. 12/Dezember 2004; Zuleitung vom 04.01.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.5.4.3.6.: Unterrichtungen im Vollzug der Verordnung über Verbot der Zweckentfremdung von Wohnraum; Anwesen in der Schönstraße; Unterrichtung vom 21.01.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.5.4.3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.5.4.3.1.: UA 18 - Kultur, Veranstaltungen - 11.02.2005 - <div>Sitzung entfiel</div>
+- TOP 3.5.4.3.1.: Vergabe von Zuschüssen nur für Veranstalter von Kulturprogrammen in barrierefreien Räumen; Antrag des BA 17 Obergiesing mit der Bitte um Unterstützung - <div>abgelehnt</div>
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.3.1.1.: Am Staudengarten, 1 Blautanne - <div>Zustimmung mit Ersatzpflanzung</div>
+- TOP 4.3.1.2.: Säbener Straße, 6 Fichten - <div>Zustimmung mit Ersatzpflanzung</div>
+- TOP 4.3.1.3.: Grünwalder Straße, 1 Ahorn - <div>Zustimmung mit Ersatzpflanzung</div>
+- TOP 4.3.1.4.: Obere Weidenstraße, 3 Kiefern - <div>ohne Entscheidung</div>
+- TOP 4.3.1.5.: Kastanienstraße; 2 Scheinakazien - <div>ohne Entscheidung</div>
+- TOP 4.3.1.6.: Mailänder Straße, 1 Linde - <div>Zustimmung ohne Ersatzpflanzung</div>
+- TOP 4.3.1.7.: Kastanienstraße, 2 Scheinakazien - <div>ohne Entscheidung</div>
+- TOP 4.3.1.8.: Miesbacher Straße, 2 Fichten - <div>Zustimmung mit Ersatzpflanzung</div>
+- TOP 4.3.1.9.: Hochederstraße; 2 Akazien - <div>Zustimmung ohne Ersatzpflanzung</div>
+- TOP 4.3.1.10.: Traminer Straße, 5 Fichten - <div>Zustimmung mit Ersatzpflanzung</div>
+- TOP 4.3.1.11.: Geiselgasteigstraße; 1 Tanne - <div>Ablehnung</div>
+- TOP 4.3.1.12.: Lindenstraße; 1 Silberpappel - <div>Zustimmung mit Ersatzpflanzung</div>
+- TOP 4.3.1.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.3.1.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.3.1.1.: Finanzplan 2004 - 2008; Zuleitung vom 17.01.2005 - <div>zur Kenntnis genommen</div>
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.5.4.3.3.6.1: Bericht
+- TOP 3.5.4.3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.4.3.3.6.3: Anträge
+- TOP 3.5.4.3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.4.3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.4.3.3.6.7: Sonstiges
