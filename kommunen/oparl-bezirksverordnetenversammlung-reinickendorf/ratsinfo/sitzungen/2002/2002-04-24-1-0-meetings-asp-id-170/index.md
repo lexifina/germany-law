@@ -1,0 +1,21 @@
+# 3. öffentliche Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2002-04-24T17:00:00+02:00
+- Ende: 2002-04-24T18:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=170
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=170
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Info-Veranstaltung für Mädchen und junge Frauen für die Ausbildungsberufe in der Informationstechnik
+- TOP 4: Touristeninformationen auch in Englisch
+- TOP 5: Projekt "Erstausbildung in Teilzeit für junge Mütter" in Reinickendorf
+- TOP 6: Bericht aus dem Bezirksamt
+- TOP 7: Verschiedenes
