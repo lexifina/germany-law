@@ -1,5 +1,6 @@
-# Inhaltsübersicht
-Erster Teil Allgemeine Vorschriften
+## Sächsisches Personalvertretungsgesetz (SächsPersVG)
+# Inhaltsverzeichnis
+Teil 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
 § 2 Zusammenarbeitsgebot
 § 3 Gewerkschaften und Arbeitgebervereinigungen
@@ -11,7 +12,7 @@ Erster Teil Allgemeine Vorschriften
 § 9 Weiterbeschäftigung Auszubildender
 § 10 Schweigepflicht
 § 11 Unfallvorschriften
-Zweiter Teil Personalvertretungen
+Teil 2 Personalvertretungen
 § 12 Bildung von Personalräten
 § 13 Wahlberechtigung
 § 14 Wählbarkeit
@@ -24,61 +25,62 @@ Zweiter Teil Personalvertretungen
 § 21 Wahl des Wahlvorstands durch die Personalversammlung
 § 22 Bestellung des Wahlvorstands durch den Dienststellenleiter
 § 23 Wahleinleitung
-§ 24 Schutz der Wahl - Kostenregelung
+§ 24 Schutz der Wahl – Kostenregelung
 § 25 Anfechtung der Wahl
 § 26 Amtszeit
 § 27 Wahlzeitraum
-§ 28 Ausschluß und Auflösung
+§ 28 Ausschluss und Auflösung
 § 29 Erlöschen der Mitgliedschaft
 § 30 Ruhen der Mitgliedschaft
 § 31 Ersatzmitglieder
-§ 32 Neuwahl bei Umorganisation von Dienststellen und Körperschaften
-Dritter Teil Geschäftsführung
+§ 32 Neuwahl bei Umorganisation von Dienststellen undKörperschaften
+Teil 3 Geschäftsführung
 § 33 Vorstand des Personalrats
 § 34 Aufgaben des Vorstands
 § 35 Sitzungen
 § 36 Durchführung von Sitzungen
 § 37 Teilnahme von Beauftragten der Gewerkschaften
-§ 38 Beschlußfassung – Beschlußfähigkeit
-§ 39 Gemeinsame Beratung- Gruppenentscheidung
+§ 38 Beschlussfassung – Beschlussfähigkeit
+§ 39 Gemeinsame Beratung – Gruppenentscheidung
 § 40 Aussetzung von Beschlüssen
 § 41 Teilnahme weiterer Personen
 § 42 Verhandlungsniederschrift
 § 43 Geschäftsordnung
 § 44 Sprechstunden
 § 45 Kosten
-Vierter Teil Rechtsstellung
+Teil 4 Rechtsstellung
 § 46 Freistellung vom Dienst
 § 47 Schulungs- und Bildungsveranstaltungen
-§ 48 Schutzvorschriften Fünfter Teil Personalversammlung
+§ 48 Schutzvorschriften
+Teil 5 Personalversammlung
 § 49 Zusammensetzung und Leitung
-§ 50 Einberufung- Tätigkeitsbericht
+§ 50 Einberufung – Tätigkeitsbericht
 § 51 Zeitpunkt
 § 52 Gegenstand
 § 53 Teilnahmerecht
-Sechster Teil Stufenvertretungen und Gesamtpersonalrat
+Teil 6 Stufenvertretungen und Gesamtpersonalrat
 § 54 Stufenvertretungen
 § 55 Entsprechende Anwendung der Personalvertretungsvorschriften
 § 56 Gesamtpersonalrat
 § 57 Wahl, Amtszeit und Geschäftsführung
-Siebenter Teil Besondere Vertretungen
+Teil 7 Besondere Vertretungen
 § 58 Jugend- und Auszubildendenvertretung
 § 59 Aktives und passives Wahlrecht
 § 60 Zusammensetzung
 § 61 Wahlvorstand – Amtszeit
 § 62 Aufgaben
 § 63 Entsprechende Anwendung von Vorschriften
-§ 64 Stufenvertretungen und Gesamt-, Jugend- und Auszubildendenvertretung
+§ 64 Stufenvertretungen und Gesamt-, Jugend- undAuszubildendenvertretung
 § 65 Jugend- und Auszubildendenversammlung
 § 66 Ausbildungsbeirat
 § 67 Schulen und Lehrkräfte
 § 68 Polizei
 § 69 aufgehoben
 § 70 Staatliche Forstverwaltung
-Achter Teil Beteiligung der Personalvertretungen
+Teil 8 Beteiligung der Personalvertretungen
 § 71 Zusammenarbeit
-§ 72 Gleichmäßige Behandlung - Verbot parteipolitischer Betätigung
-§ 73 Allgemeine Aufgaben- Anhörungen
+§ 72 Gleichmäßige Behandlung – Verbot parteipolitischerBetätigung
+§ 73 Allgemeine Aufgaben – Anhörungen
 § 74 Unfall-, Umwelt- und Gesundheitsgefahren
 § 75 Teilnahme an Prüfungen
 § 76 Verfahren der Mitwirkung
@@ -89,17 +91,17 @@ Achter Teil Beteiligung der Personalvertretungen
 § 81 Mitbestimmung in Angelegenheiten der Beamten und in sonstigen allgemeinen Angelegenheiten
 § 82 Einschränkung der Mitbestimmung, Versagungsgründe
 § 83 Initiativrecht
-§ 84 Dienstvereinbarungen- Tarifverträge
+§ 84 Dienstvereinbarungen – Tarifverträge
 § 85 Einigungsstelle
 § 86 Durchführung von Entscheidungen
 § 87 Beteiligung der Stufenvertretungen und des Gesamtpersonalrats
-Neunter Teil Gerichtliche Entscheidung
+Teil 9 Gerichtliche Entscheidung
 § 88 Zuständigkeit und Entscheidungen der Verwaltungsgerichte
 § 89 Bildung von Fachkammern
-Zehnter Teil Verschlußsachen und Verfassungsschutz
-§ 90 Ausschuß für geheime Verschlußsachen
+Teil 10 Verschlusssachen und Verfassungsschutz
+§ 90 Ausschuss für geheime Verschlusssachen
 § 91 Abweichungen für das Landesamt für Verfassungsschutz
-Elfter Teil Übergangs- und Schlußvorschriften
+Teil 11 Übergangs- und Schlussvorschriften
 § 92 Rechtsverordnung über Wahlvorschriften
 § 93 Übergangsbestimmungen
-§ 94 Inkrafttreten – Außerkrafttreten
+§ 94 In-Kraft-Treten – Außer-Kraft-Treten
