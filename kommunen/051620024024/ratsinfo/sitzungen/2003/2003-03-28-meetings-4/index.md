@@ -1,0 +1,57 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2003-03-28T16:10:00+01:00
+- Ende: 2003-03-28T21:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: FDP: Offe. Ganztagsgr.sch.
+- TOP 2: Verl. Freileitung im Hammfeld
+- TOP 3: Genehmigung der Tagesordnung
+- TOP 4: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 5: Gen. DE Nr. 81, Beigeordn.st.
+- TOP 6: Einwohnerfragestunde
+- TOP 7: Stv. Pietsch: Hammfeld II - Grundstücksf.
+- TOP 8: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 9: Ausgl. Bäder/Eissporthalle in GmbH
+- TOP 10: Antr. City Treff N. Verl. Ladenöffn.z.
+- TOP 11: Kinderspielplatzprogramm 2003
+- TOP 12: Austr. NT TG aus Tourism. G. Mittl. Niederrhein
+- TOP 13: Rahmenplanung südliche Furth
+- TOP 14: Waldkindergarten (JHA18.03.03-00148)
+- TOP 15: Rad-/Fußweges Rosellener Schulstraße
+- TOP 16: Insti.f. berufl.Fortbild.Aufl. Gesellsch.
+- TOP 17: FlNP Nr. 95 (SAH270303-00221.doc)
+- TOP 18: Stammkapitale Neuss-Hessentor Multimodal GmbH
+- TOP 19: Komm.w. 2004 , Zahl Ratsvertr.
+- TOP 20: Beg.Senioren in Kroatien Vertr. Stadt Neuss
+- TOP 21: Aufl. Arbeitsgruppe Bäder
+- TOP 22: Jahresrechnung 2002
+- TOP 23: SPD Offe.Ganztagsgrundsch.
+- TOP 24: FDP:Erhaltungsstr.f. Neusser Straßen
+- TOP 25: B90/ D.G.:„Offe. Ganztagssch. im Primarbereich
+- TOP 26: SPD: Umben. Carl-Diem-Straße
+- TOP 27: SPD: Stadt m. Platz - NRW m. Plätze
+- TOP 28: FDP:Verschm. der Stadt offensiv bekämpfen
+- TOP 29: FDP:Regelm. Frühjahrsputz in d. Stadt Neuss
+- TOP 30: CDU: Umsetzung Leitant. Tagesbetr. v. Kindern
+- TOP 31: CDU: Ermittlung d. Bedarfs n. Ganztagssch.
+- TOP 32: Grüne Wellen im Ne. Straßenver.
+- TOP 33: Zwischenb. Entw. Rennbahngel.
+- TOP 34: Einwohnerfragestunde
+- TOP 35: Offene Ganztagsschule Primarbereich
+- TOP 36: Bild. Adopt.vermittl.st. Neuss/ Dormagen
+- TOP 37: Ortsmittelpunkt Rosellerheide
+- TOP 38: Verlagerung ZOB - Rückseite Hbf
+- TOP 39: Umschlaggesellschaft trimodalen Verkehr
+- TOP 40: Pers. Situat. Kinderbüro
+- TOP 41: Exkursion nach Maastricht
+- TOP 42: 1100-Jahr-Feier Pskow
+- TOP 43: Einführung und Verpflichtung von Stadtverordneten
