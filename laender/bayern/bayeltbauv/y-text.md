@@ -1,0 +1,1 @@
+Auf Grund des Art. 90 Abs. 1 Satz 1 Nrn. 1 und 3 der Bayerischen Bauordnung (BayBO) in der Fassung der Bekanntmachung vom 4. August 1997 (GVBl S. 433, BayRS 2132-1-I) erläßt das Bayerische Staatsministerium des Innern folgende Verordnung:
