@@ -1,0 +1,104 @@
+# 20. Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2003-09-17T17:00:00+02:00
+- Ende: 2003-09-17T21:40:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=416
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=416
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=18206
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Statistische Regionen - überwiesen
+- TOP 2.2: Stände und Kioske in der Fußgängerzone Gorkistraße - überwiesen
+- TOP 2.3: Fahrradweg Bernauer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - (offen)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Fachräume für neue Hauptschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Schulsituation in Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Kostenlose Tests auf angeborene Hörschädigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Abstimmung von Rahmenplänen der 6. und 7. Klassen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.5: Technisch-naturwissenschaftliche Grundkenntnisse an den Grundschulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.6: Konzept zur Steigerung der Organspendebereitschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Erste-Hilfe-Kurse an Oberschulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.8: Beteiligung Reinickendorfer Kultur-Projekte am EU-Förderprogramm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Impfkosten im Gesundheitsamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Lehrpläne für den fremdsprachlichen Unterricht ab Klasse 3 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.11: Solarstrom für Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Förderung öffentlicher Auftritte von Musikschülerinnen und Musikschülern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Gedenkstätte Hohenschönhausen besuchen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Musikschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Quartiere in Reinickendorf für Gäste des Ökumenischen Kirchentages 2003 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.16: Jugendschutz in Internetcafés - überwiesen
+- TOP 5.17: Kostensenkung zustimmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.18: Synchronisierung der Anmeldefristen für Schule und Hort - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.19: Unterstützung medienpädagogischer Konzepte in Internetcafés - überwiesen
+- TOP 5.20: Untersuchungen ab dem 5. Lebensjahr - überwiesen
+- TOP 5.21: Vollständige Darstellung der Oberschulen in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.22: Kooperation zwischen der VHS und anderen Bildungsträgern - vertagt
+- TOP 5.23: Umgehende Realisierung der Zertifizierung der Berliner Krankenhäuser - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.24: Bessere Organisation bei der Sprachstandsfeststellung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.25: Erhalt des Standortes Wiesengrund für die Kinder- und Jugendpsychiatrie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.26: Eigenverantwortung von Jugendlichen stärken - Zahlungsverkehr selbst verwalten lernen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.27: Standorte für neue Ganztagsschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.28: Sicherung der stationären psychiatrischen Versorgungsstruktur in Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.29: Bundesbau-Sonderprogramm "Gebundene Ganztagsschule" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.30: Öffentliche Ausschreibung der Jugendeinrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.31: "Babycare" - Frühgeburtenverhinderung möglichst flächendeckend - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.32: Schulstationen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.33: Teilnehmerbestätigung bei der VHS - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.34: Keine Absenkung des Betreuungsniveaus in den Kitas - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.35: Sicherung von Qualitätsstandards der Kindertagesstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.36: Entfernung ortsfremder Bäume in Kleingartenanlagen - überwiesen
+- TOP 5.37: Sicherung von Nachwuchskräften im öffentlichen Dienst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.38: Rechnungsausstellung für VHS-Teilnehmer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.39: Sicherstellung der Mobilität von Behinderten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.40: Informationen für Wassersportler verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.41: Meldung über Infektionserkrankungen künftig sicher übermitteln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.42: Hinweis auf Girls' Day am 08. Mai 2003 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.43: Stellung des Jugendparlamentes - überwiesen
+- TOP 5.44: Erhalt der "Regionalen Beschäftigungsagentur Reinickendorf" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.45: Patientenfürsprecher - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.46: Informationsschilder / Tourismusbüro - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.47: Schneller unbürokratischer Ersatz von Schäden durch Flugzeuge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.48: Erhalt der Postfiliale Am Vierrutenberg 54 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.49: Aufstellung des Bebauungsplanes 12 - 10 - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Auswirkungen des Baus der Müllaufbereitungsanlage der Firma Alba - beantwortet
+- TOP 6.2: Schulreinigung - beantwortet
+- TOP 6.2.1: Schulreinigung - überwiesen
+- TOP 6.3: Umsetzung des Tarifvertrages in den Kitas - beantwortet
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Verordnung über die Genehmigungsbedürftigkeit von Grundstücksteilungen - überwiesen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Unterbringung von Asylbewerbern in Wohnungen - erledigt
+- TOP 8.2: Ja zu Kitas in kirchlicher Trägerschaft - mit Änderungen in der BVV beschlossen
+- TOP 8.3: Maßnahmen zur Förderung von Kindern nicht deutscher Herkunft in Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Berücksichtigung sozialer Aspekte beim Abbau von Briefkästen - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Kooperation zwischen Jugendhilfe und Schule - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Förderung hochbegabter Schülerinnen und Schüler - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Entbürokratisierungsbemühungen des Berliner Senats - ohne Änderungen in der BVV beschlossen
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: Erhalt der ambulanten Versorgungsstruktur - überwiesen
+- TOP 9.2: Mehr Informationen für die Bürgerinnen und Bürger durch das Internet - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Denkmal für die Gefallenen und Opfer der Weltkriege am Ende der Wiltinger Straße in Frohnau - überwiesen
+- TOP 9.4: Kulturarbeit in Reinickendorf - überwiesen
+- TOP 9.5: Sicherstellung der Betreuungsqualität in Kitas während der Ferienzeit - überwiesen
+- TOP 9.6: Barrierefreiheit für www.reinickendorf.de - überwiesen
+- TOP 9.7: Publikationen des Bezirksamtes - überwiesen
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: Weitere Verkehrsentlastung in der Auguste-Viktoria-Allee - überwiesen
+- TOP 10.2: Ausgleich aller Mehrausgaben für gesetzliche Leistungen - überwiesen
+- TOP 10.3: Absolutes Haltverbot an der Durchfahrt Wiltinger Straße - überwiesen
+- TOP 10.4: Einhaltung der Sicherheitsstandards für das Krankenhaus des Maßregelvollzugs - überwiesen
+- TOP 10.5: Einrichtung einer Clearing-Stelle für die bezirkliche Finanzzuweisung - überwiesen
+- TOP 10.6: Schul-Wettbewerb für Reinickendorfer Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Stärkung der kommunalen Selbstverwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Erhalt des Löschbootes in Tegelort - überwiesen
