@@ -3,7 +3,7 @@ Besoldungsgruppe 15
 Abteilungsdirektor beim Landesinstitut für Schule1)
 Abteilungsleiter an einem Schulzentrum
 - der Sekundarstufe II1) -
-- des gymnasialen Zweiges der Sekundarstufe I -
+- des gymnasialen Zweiges der Sekundarstufe I mit mehr als 180 Schüler -
 Direktor der Beratungsstelle für Kinder, Jugendliche und Eltern
 Direktor einer Gesamtschule
 - mit bis zu 1000 Schülern2) -
