@@ -1,0 +1,60 @@
+# Rat
+
+- Körperschaft: Stadt Herford
+- Beginn: 2002-12-06T16:00:00+01:00
+- Ende: 2002-12-06T23:55:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUVhZOyrQDQl4JsEoYUYPRk
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/642
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdSVg9IXKFssLmLWZbjny8KmxpX_kNgEsYP6t-cFSoaP/Oeffentliche_Niederschrift_Rat_06.12.2002.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 27.09.2002
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: Neuordnung städtischer Gesellschaften - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.5: ÖPNV-Konzept - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.6: Machbarkeitsstudie zur Präsentation der Stadt- und Stiftsgeschichte - Mit Mehrheit bei 3 Enthaltung(en)
+- TOP A.7: Einspruch der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen gegen einen Beschluss des Bau-und Umweltausschusses vom 31.12.02; hier: Ausbau einer Erschließungsstraße zwischen der Elverdisser Str. und dem Gewerbegebiet Heidsiek
+- TOP A.8: Entwurf der Haushaltssatzung 2003 / 2004 sowie der Mittelfristigen Finanz- und Investitionsplanung 2002 - 2007 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.9: Stellenplan für die Haushaltsjahre 2003/2004 - Zur Kenntnis genommen
+- TOP A.10: Aufgabenkritik
+- TOP A.10a): Aufgabenkritik; hier: Sachstandsbericht
+- TOP A.10b): Aufgabenkritik; hier: Auswirkungen einer Verschiebung des Sitzungsbeginns auf 17.00 Uhr bzw. 18.00 Uhr - Abgesetzt
+- TOP A.10c): Aufgabenkritik; hier: Redezeitbegrenzungen für die Sitzungen des Rates
+- TOP A.10d): Umsetzung der Aufgabenkritik im Dezernat Soziales a. Örtliche Fürsorgestelle b.Dienstleistungszentrum fürarbeitslose/arbeitsfähige Sozialhilfeempfänger/innen der Stadt Herford mit integrierter gemeinsamer Anlaufstelle für den Bereich der Stadt Herfoid (Job-Börse) c.Gewährung von Sachleistungen für Asylbewerber nach dem Asylbewerberleistungsgesetz d.Veränderung des fachl. Aufgabenzuschnitts der Jugendhilfe - Einstimmig bei 0 Enthaltung(en)
+- TOP A.11: Umsetzung des Handlungsprogramms "Wohnungs- und Baulandpolitik" - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.12: MKK gGmbH a) Sachstandsbericht b) Wirtschaftsplan 2003 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.13: Pro Herford GmbH
+- TOP A.13a): Bewirtschaftung der Markthalle; hier: Übertragung auf die Pro Herford GmbH - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.13b): Beteiligung der Pro Herford GmbH an der VBL; hier: Verpflichtungserklärung der Stadt Herford - Einstimmig bei 0 Enthaltung(en)
+- TOP A.13c): Vereinbarung zur Stimmrechtsausübung und Verlustabdeckung - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.14: Abwasserwerk der Stadt Herford
+- TOP A.14a): Änderung des Wirtschaftsplanes 2002
+- TOP A.14b): Wirtschaftsplan 2003
+- TOP A.15: Bericht des Gemeindeprüfungsamtes des Kreises Herford über die überörtliche Prüfung der Haushalts-und Wirtschaftsführung sowie über die bestimmungsgemäße Verwendung der zweckgebundenen Staatszuweisungen in den Haushaltsjahren 1999 und 2000 - Zur Kenntnis genommen
+- TOP A.16: Beschluss über die Jahresrechnung 2001 und die Entlastung des Bürgermeisters für die Führung der Haushaltswirtschaft im Haushaltsjahr 2001 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.17: Quartalsbericht über erteilte Zustimmungen zu über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - Zur Kenntnis genommen
+- TOP A.18: Friedrich und Elise Menge-Stiftung: a) Zuständigkeits- und Satzungsänderung b) Bestimmung eines Stiftungsvorstands - Einstimmig bei 0 Enthaltung(en)
+- TOP A.19: Erlass einer Vergnügungssteuersatzung - Einstimmig bei 0 Enthaltung(en)
+- TOP A.20: Neufestsetzung der Gebühren für die Unterbringung von Flüchtlingen, Aussiedlern und Wohnungslosen in Übergangsheimen und Notunterkünften - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.21: Gebührenhaushalt "Abfallbeseitigung" hier: Änderung der Satzung über die Abfallbeseitigung in der Stadt Herford - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.22: Gebührenhaushalt "Straßenreinigung" hier: 22. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung (Änderung des Straßenverzeichnisses) - Einstimmig bei 0 Enthaltung(en)
+- TOP A.23: Stadttheater; hier: Neue Preisgestaltung ab der Spielzeit 2003 / 2004 - Einstimmig bei 0 Enthaltung(en)
+- TOP A.24: Stadtbibliothek; Änderung der Anlagen zur Benutzungsordnung - Einstimmig bei 0 Enthaltung(en)
+- TOP A.25: Ladenöffnungszeiten anlässlich Folk-Festival und Herforder Weihnachtslicht - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.26: Vermietung von Schulräumen für schulfremde Zwecke - Abgesetzt
+- TOP A.27: Gestaltung Alter Markt - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.28: Baumschutzangelegenheiten: hier: Fällung einer Linde für den Neubau einer Wohnanlage am Linnenbauerplatz - Einstimmig bei 0 Enthaltung(en)
+- TOP A.29: Neuaufstellung des Gebietsentwicklungsplanes Oberbereich Bielefeld hier: Erörterung der Stellungnahme der Stadt Herford - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.30: FNP-Teiländerung Nr. 4.01 "Gewerbegebiete Rücknahme" hier: Beschluss der FNP-Änderung - Einstimmig bei 0 Enthaltung(en)
+- TOP A.31: Bebauungsplan Nr. 8.61 "Pattweg" (Teil A) hier: Satzungsbeschluss - Einstimmig bei 0 Enthaltung(en)
+- TOP A.32: Bebauungsplan Nr. 11.34 "Waldfrieden" - vereinfachte Änderung Nr. 1.02 hier: Satzungsbeschluss - Einstimmig bei 0 Enthaltung(en)
+- TOP A.33: Endgültiger Ausbau der Straße "Im Babenbecker Feld" für die Abschnitte Oststraße bis Mittelweg sowie Krokusweg bis Engerstraße hier: Ausbauprogramm - Einstimmig bei 0 Enthaltung(en)
+- TOP A.34: Genehmigung einer dringlichen Entscheidung nach § 60 GO NRW zur Einberufung einer Einwohnerversammlung - Einstimmig bei 0 Enthaltung(en)
+- TOP A.35: Zusammenführung der Aufgaben-und Finanzverantwortung in der Sozialhilfe; hier: Abschluss eines Vertrages nach § 6 Abs. 2 AG-BSHG NRW zwischen dem Kreis Herford als örtlichem Träger der Sozialhilfe und seinen kreisangehörigen Städten und Gemeinden Bünde, Enger, Herford, Hiddenhausen, Kirchlengern, Löhne, Rödinghausen, Spenge und Vlotho über die Regelung der Finanzverantwortung für Hilfen, zu deren Durchführung die Kommunen per Satzung nach § 3 AG-BSHG NRW herangezogen sind, und eines Interkommunalen Härteausgleichs - Einstimmig bei 0 Enthaltung(en)
