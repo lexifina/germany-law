@@ -1,0 +1,51 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2000-08-29T15:00:00+02:00
+- Ende: 2000-08-29T16:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYqbccAKTFFlKSwTFh-eiNE
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/670
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe9mKUjyCuf7TzVTV4NidqVLS0MO0-HUxVzzk1cMMS-Z/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_29.08.2000.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: IFAK e.V., Multikulturelle Jugend-, Familien- und Seniorenarbeit hier: Antrag auf Bewilligung eines städt. Zuschusses zur Einrichtung einer 0,5 Sozialberaterstelle für ältere Migranten in Bochum
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: Beibehaltung der Sechsten Änderungssatzung vom 21.11.1996 zur Obdachlosen- gebührensatzung
+- TOP 5: Situation bei der Aufnahme und Unterbringung von Flüchtlingen und Aussiedlern/Innen in Bochum
+- TOP 6: Weiterführung des Modellprojektes Nachgehende Sozialarbeit
+- TOP 7: Wohnheimplätze Behinderte
+- TOP 8: Unterbringung Obdachlose
+- TOP 9: Entspannung der Situation am Springerplatz
+- TOP 10: Bericht über das Projekt "Integration schwerbehinderter Langzeitarbeitsloser" bei der Fürsorgestelle für Schwerbehinderte
+- TOP 11: Pflegekonferenz
+- TOP 12: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 13: Beschlussvorschläge für den Rat
+- TOP 14: Pflegekonferenz
+- TOP 15: Anträge auf städtische Förderung hier: Frauennetzwerk NORA e. V. und Wildwasser Bochum e. V.
+- TOP 16: Sachstandsbericht AIDS
+- TOP 17: Pflegekonferenz
+- TOP 18: Anträge
+- TOP 19: Niederschrift über die Sitzung des Psychosozialen Ausschusses vom 10.05.2000
+- TOP 20: Mitteilungen
+- TOP 21: ASS-Programm (Arbeit statt Sozialhilfe) 1997 - 1999 hier: Bericht
+- TOP 22: Anfragen
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: keine Tagesordnungspunkte
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 8: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 9: Beschlussvorschläge für den Rat
+- TOP 10: Anträge
+- TOP 11: Mitteilungen
+- TOP 12: Anfragen
