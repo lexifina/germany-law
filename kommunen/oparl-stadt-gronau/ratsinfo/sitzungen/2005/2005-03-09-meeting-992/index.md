@@ -1,0 +1,52 @@
+# Rat
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2005-03-09T17:00:00+01:00
+- Ende: 2005-03-09T21:40:00+01:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRd6qzm80qW-lt0u_z4KqYE
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/992
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb4Kn4XHZusC_IYhdz23NEyMHb-Vdl6QueXjOdE2mrPx/Bekanntmachung_Rat_09.03.2005.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbamTSXEpx6ImjtA9sVYyYT2icyEsGQvMRQ5W6h7Wzbz/Oeffentliche_Niederschrift_Rat_09.03.2005.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 09.02.2005
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1.: Untersuchung der demografischen Entwicklung der Stadt Gronau; Antrag der CDU-Fraktion - Ohne Abstimmung
+- TOP 3.2.: Verbesserung der Sporthallensituation; Anträge der CDU-Fraktion vom 11.02.2005 - Einstimmig, 0 Enthaltungen
+- TOP 3.3.: Verwendung des Infrastrukturausgleichs im Rahmen des Kommunalen Bodenmanagements; Antrag der SPD-Fraktion vom 24.02.2005 - Einstimmig, 0 Enthaltungen
+- TOP 4.: Einrichtung einer "Offenen Ganztagsschule im Primarbereich" an der Georgschule mit einer Schülergruppe (Gruppenstärke max. 25 Kinder) - Einstimmig, 0 Enthaltungen
+- TOP 5.: Raumsituation am Werner-von-Siemens-Gymnasium Antrag des Schulleiters vom 6. Dezember 2004 Anträge der SPD-Fraktion vom 14. und 16. Dezember 2004 Raumsituation des Driland Kollegs (siehe Vorlage zu TO 10) - Einstimmig, 1 Enthaltungen
+- TOP 6.: Antrag des Driland Kollegs über die Bereitstellung von zusätzlichen Fachräumen und Klassenzimmern, eines größeren Lehrerzimmers und von Funktionsräumen
+- TOP 6.1.: Antrag des Driland Kollegs über die Bereitstellung von zusätzlichen Fachräumen und Klassenzimmern, eines größeren Lehrerzimmers und von Funktionsräumen - Einstimmig, 0 Enthaltungen
+- TOP 7.: Genehmigung von über- und außerplanmäßigen Bereitstellungen von Haushaltsmitteln im Haushaltsjahr 2004 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Wirtschaftsplan 2005 Zentrale Bau- und Umweltdienste der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 9.: Wirtschaftsplan 2005 der GEG - Einstimmig, 1 Enthaltungen
+- TOP 10.: Aufnahme einer Verpflichtungsermächtigung für die Beschaffung von Feuerwehrfahrzeugen in das Budget 2005 - Einstimmig, 0 Enthaltungen
+- TOP 11.: Stellenplanentwurf für das Jahr 2005 - 25 Jastimmen, 13 Neinstimmen, 1 Enthaltungen
+- TOP 12.: Fortschreibung Frauenförderplan - Einstimmig, 0 Enthaltungen
+- TOP 13.: Abschliessende Beratung des Budgetentwurfs 2005 - Einstimmig, 0 Enthaltungen
+- TOP 13.1.: Abschliessende Beratung des Budgetentwurfs 2005 - 37 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 14.: Vorhabenbezogener Bebauungsplan "Kircheninsel", Stadtteil Gronau 1. Genehmigung des Durchführungsvertrages, § 12 BauGB 2. Bebauungsplanverfahren 2.1 Behandlung der Stellungnahmen aus der Beteiligung der Bürger gem. § 3 Abs. 1 BauGB 2.2 Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 2.3 Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 2.4 Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 15.: Bebauungsplan Nr. 216 "Am Friedhof", 2. Änderung, Stadtteil Epe 1. Behandlung der Stellungnahmen aus der Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 16.: Änderung des Gesellschaftsvertrages der "rock`n`popmuseum GmbH" - Regelung über die Vertretung von Aufsichtsratsmitgliedern - Einstimmig, 0 Enthaltungen
+- TOP 17.: Neufassung der Einstell- und Benutzungsbedingungen für die städtische Tiefgarage am Paßweg - Einstimmig, 0 Enthaltungen
+- TOP 18.: Widmung von Verkehrsflächen im Bereich der Stadt Gronau für den öffentlichen Verkehr - Einstimmig, 0 Enthaltungen
+- TOP 19.: Terminplanung für das 2. Quartal 2005
+- TOP 20.: Mitteilungen der Verwaltung
+- TOP 21.: Anfragen
+- TOP 21.1.: Statistische Angaben zu Alleinerziehenden und Arbeitslosen in der Stadt Gronau (RM Walkowiak)
+- TOP 21.2.: Erinnerung an die Erledigung einer Anfrage (RM Bartels)
+- TOP 21.3.: Folgen der Verringerung der Ausgabestellen für die "Gelben Säcke" (RM Bartels)
+- TOP 21.4.: Finanzielle Auswirkungen von Hartz IV auf den städtischen Haushalt (RM Pieper)
+- TOP 21.5.: Vermarktung des Vorplatzes der Bürgerhalle (RM Buchholz)
+- TOP 21.6.: Neuigkeiten in Sachen FOC? (RM Schwartze)
+- TOP 21.7.: Entwicklung im Strafrechtsverfahren gegen Vertreter der MIM Deutschland GmbH (RM von Borczyskowski)
+- TOP 21.8.: Sachstand Gebührenregelwerk für die Nutzung der Bürgerhalle (2. Stellv. d. BM Rehbein)
+- TOP 21.9.: Auslegung des Genehmigungsbescheides für den Endausbau der UAG (RM Buchholz)
