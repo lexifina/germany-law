@@ -1,0 +1,97 @@
+# öffentliche Sitzung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2003-01-29T17:30:00+01:00
+- Ende: 2003-01-29T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=27
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=27
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.2: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.3: Dringlichkeitsanträge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.3.1: Grundstücksankauf Charlottenstraße - beantwortet
+- TOP 1.3.2: Saarbrücker Straße / Königstadtbrauerei - ohne Änderungen in der BVV beschlossen
+- TOP 1.3.3: Baracke Fröbelstraße 17 - ohne Änderungen in der BVV beschlossen
+- TOP 1.3.4: Königsstadtbrauerei - beantwortet
+- TOP 1.4: Mündliche Anfrage - beantwortet
+- TOP 1.5: Bericht des Bezirksamtes - beantwortet
+- TOP 1.6: Konsensliste - beantwortet
+- TOP 1.7: Vorschlag für die Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.8: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.9: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.10: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.11: Herstellung der Heinrich-Böll-Straße von der Dietzgenstraße bis Kreuzgrabenbrücke (II. Bauabschnitt) im Ortsteil Niederschönhausen nach § 125 Abs. 2 Baugesetzbuch - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Drs. IV - 0123/01 vom 03.07.2002, Bezirkshaushaltsrechnungen 1999 - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Erinnerung an den 17. Juni 1953 - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Kompostierbarer Hausmüll - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Aufsuchender Sozialdienst - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Benennung "Bleichröder Park" - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Gestaltung der Haushaltspläne - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Schriftführung in den Ausschüssen - in der BVV abgelehnt
+- TOP 1.19: Zentrale Inkassostelle des Bezirks - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Finanzielle Ausstattung von Frauenprojekten - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Brechthaus Berliner Allee 185 - in der BVV abgelehnt
+- TOP 1.22: Modernen und einheitlichen Immobilien-Service einrichten! II (Drs. V - 0283/02) - überwiesen
+- TOP 1.23: Der Himmel über Pankow - Klimaschutz vor Ort - überwiesen
+- TOP 1.24: Keine Erhöhung von Kita-Gebühren - überwiesen
+- TOP 1.25: Einrichtung von Parkmöglichkeiten auf dem Hubertusdamm - überwiesen
+- TOP 1.26: Gebietssozialpläne in Erhaltungsgebieten - überwiesen
+- TOP 1.27: Krankenversicherungskosten für Aussiedler bzw. deren Familienangehörige - überwiesen
+- TOP 1.28: Umweltentlastungsprogramm - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Keine neuen Standorte für großflächigen Einzelhandel! - überwiesen
+- TOP 1.30: Krankenhausstandort im Prenzlauer Berg muss erhalten bleiben! - überwiesen
+- TOP 1.31: Bereichsentwicklungsplanung für Pankow - überwiesen
+- TOP 1.32: Spielplatzplanung für den Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Pflegepartnerschaften durch Schulen - in der BVV abgelehnt
+- TOP 1.34: Bolzplatz an der Marie - kontinuierliche Nutzung während des Turnhallenbaus - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Fifty-fifty-Projekte in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Negativkatalog zur Beschränkung von Sondernutzung von Straßenland - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Suche nach einem gleichwertigen Ersatz für den Ballspielplatz auf der "Marie" - vertagt
+- TOP 1.38: Konzeption zur Arbeit des Behindertenbeauftragten - mit Änderungen in der BVV beschlossen
+- TOP 1.39: Controlling im Bereich Soziales - beantwortet
+- TOP 1.40: Heinz-Brandt-Straße in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.41: Künstlerhof Buch - beantwortet
+- TOP 2: Komplex II - (offen)
+- TOP 2.1: Erschließungsstraße für das ABB-Gelände - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Einrichtung eines Fußgängerüberweges Kreuzungsbereich Bahnhofstraße/Hubertusdamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Künstlerhof Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Kompetenz im Verkehr für die Bezirke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Veränderung der Schaltzeiten der Lichtzeichenanlage Bucher Chaussee/Achillesstraße in Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Zügige Weiterführung der Bauleitplanung für das ABB-Gelände - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Neutraler Bezirksname - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Investitionsplanung 2003 bis 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Auflistung aller Aufgrabungen im Altbezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Life Science Center Berlin-Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Märkte in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Einhaltung des Nachtflugverbots von und zum Flughafen Tegel <span style="color: #888a85" title="Zusatzinfo">(Schlussbericht)</span> - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Pankow gegen Fluglärm! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Aufstellung einer Erhaltungssetzung Falkenberger Straße/Gierstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Bericht zu GA-Mitteln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Bürodienstruine Dusekestraße 43 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Leitsystem für LKW während der Baumaßnahmen in der Pistoriusstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Modernen und einheitlichen Immobilien-Service einrichten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Zugang zu Planungsunterlagen für beteiligte Ausschüsse der BVV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Halbjährliche Berichterstattung über Budgetentwicklung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Nichtbewilligte ABM "Interkulturelles Netzwerk" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Beschluss über die öffentliche Auslegung des Landschaftsplanes IV-L-3 für die "Gründerzeitgebiete Prenzlauer Berg" gemäß § 11 Abs. 6 Berliner Naturschutzgesetz (NatSchGBln) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Übertragung der kommunalen Kindertagesstätte "Gleimstrolche", Gleimstraße 46/47, in 10437 Berlin, an den freien Träger "Kulturverein Prenzlauer Berg e. V.", Schönfließer Straße 7, in 10439 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Übertragung der kommunalen Kindertagesstätte "Am Brennerberg",Tiroler Straße 29/Zillertalstraße 38, in 13187 Berlin, an den freien Träger "Bürgerhaus e. V.", Berliner Straße 24, in 13127 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Übertragung der kommunalen Kindertagesstätte "Löwenzahn", Knaackstraße 53 Objekt II, in 10435 Berlin, an die "Hanna gGmbH" Kita Trägerschaften, Hartmut Horst, Kollwitzstraße 50 in 10405 Berlin, und Nico Gonska, Husemannstraße 23, in 10435 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Übertragung der kommunalen Kindertagesstätte "Die Insel", Nantestraße 69, in 13127 Berlin, an den freien Träger "Jugendwerk Aufbau Ost e. V.", Torgauer Straße 27 - 29, in 12627 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Beschluss über die Festsetzung des Bebauungsplanes IV-63 als Rechtsverordnung gemäß § 6 Abs. 5 AGBauGB für das Grundstück Esmarchstraße 14, Pasteurstraße 14 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Änderung eines Sanierungszieles für das Sanierungsgebiet Weißensee - Komponistenviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Aufstellung des vorhabenbezogenen Bebauungsplanes 3-4 VE für die Erweiterung eines bestehenden Baumarktes um ein Gartencenter auf den Grundstücken Idunastraße 1-2 im Bezirk Pankow, Ortsteil Heinersdorf. Reduzierung des Geltungsbereiches des Bebauungsplanes XVIII - 36 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Sozialplanung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.31: GA-Fördermittel zur Sanierung der Friedrich-Engels-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Mehr Bürgerbeteiligung und Transparenz bei Bebauungsplanverfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Reduzierung von Lärmimmissionen in der Langhansstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Ein Bezirk steigt um - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Bereitstellung von Unterlagen für Bezirksverordnete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Radwegeverbindung parallel zur B 109 nach Wandlitz - mit Abschlussbericht zur Kenntnis genommen
