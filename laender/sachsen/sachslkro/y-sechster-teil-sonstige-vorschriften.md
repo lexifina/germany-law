@@ -1,7 +1,5 @@
 ## Fünfter Teil Aufsicht
-## Sechster Teil Sonstige Vorschriften
-# § 66 Ordnungswidrigkeiten
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer aufgrund von
+# Sechster Teil Sonstige Vorschriften
 1. § 3 Abs. 1 erlassenen Satzung über die Benutzung einer öffentlichen Einrichtung,
 2. § 12 erlassenen Satzung über den Anschluß- und Benutzungszwang
 zuwiderhandelt, soweit die Satzung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
