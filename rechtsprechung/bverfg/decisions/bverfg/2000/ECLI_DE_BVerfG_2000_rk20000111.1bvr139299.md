@@ -1,0 +1,161 @@
+---
+ecli: "ECLI:DE:BVerfG:2000:rk20000111.1bvr139299"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 1392/99"
+decided: "2000-01-11"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 11. Januar 2000\n- 1 BvR 1392/99 -, Rn. 1-12,\n                    https://www.bverfg.de/e/rk20000111_1bvr139299"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2000/01/rk20000111_1bvr139299.html"
+corpus_doc_id: "BVerfG_2000-01-11_K_1_BvR_1392_99_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0032.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/grundgesetz/artikel/143.md", "germany/bund/acts/sachenrberg/0065.md", "germany/bund/acts/sachenrberg/0074.md", "germany/bund/acts/sachenrberg/0108.md", "germany/bund/acts/sachenrberg/0121.md", "germany/bund/acts/zpo/0148.md", "germany/bund/acts/zpo/0705.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 1392/99 vom 2000-01-11
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 1 BVR 1392/99 -
+
+                                 In dem Verfahren
+                                       über
+                           die Verfassungsbeschwerde
+der Frau N...
+
+- Bevollmächtigte: Rechtsanwälte Alexander S. Brust und Partner,
+                   Leisewitzstraße 28, Hannover -
+gegen a) den Beschluß des Bundesgerichtshofs vom 1. Juli 1999 - V ZR 361/98 -,
+
+        b) das Urteil des Oberlandesgerichts Dresden vom 28. Juli 1998 - 3 U 117/
+           98 -,
+
+        c) das Urteil des Landgerichts Dresden vom 11. Dezember 1997 - 17 O
+           7051/96 -
+
+hier:    Antrag auf Erlaß einer einstweiligen Anordnung
+
+hat die 2. Kammer des Ersten Senats des Bundesverfassungsgerichts durch den
+                                 Richter Kühling,
+                                 die Richterin Jaeger
+                                 und den Richter Hömig
+
+gemäß § 32 Abs. 1 in Verbindung mit § 93 d Abs. 2 BVerfGG in der Fassung der
+Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 11. Januar 2000 einstimmig beschlossen:
+
+Der Antrag auf Erlaß einer einstweiligen Anordnung wird abgelehnt.
+
+                                     Gründe:
+ Das Verfahren betrifft die Anwendung des § 121 Abs. 2 des Sachenrechtsbereinigungsgesetzes (SachenRBerG).
+
+                                         I.
+  1. Die Beschwerdeführerin ist Eigentümerin eines mit einem Wohngebäude bebauten, im Beitrittsgebiet belegenen Grundstücks, das nach dem Vermögensgesetz zurückübertragen worden ist. Im Mai 1990 wurde es mit notariellem Kaufvertrag an die
+Mieter der Wohnungen, die Kläger des Ausgangsverfahrens, veräußert. Diese wurden im Januar 1991 als Eigentümer im Grundbuch eingetragen. 1996 nahm das Amt
+zur Regelung offener Vermögensfragen im Hinblick auf die Anmeldung vermögensrechtlicher Ansprüche der Beschwerdeführerin die zunächst erteilte Grundstücksverkehrsgenehmigung zurück. Das notarielle Vermittlungsverfahren zwischen den Parteien nach den §§ 87 ff. SachenRBerG wurde wegen fehlender Einigung ausgesetzt.
+
+
+                                         1/5
+
+ Im Ausgangsverfahren hat das Landgericht festgestellt, daß die Kläger von der Beschwerdeführerin in bezug auf das streitgegenständliche Grundstück die Annahme
+eines Kaufangebots verlangen können, wenn dessen Inhalt den §§ 65 bis 74 SachenRBerG entspreche; den Klägern stehe nach § 121 Abs. 2 SachenRBerG ein Ankaufsrecht zu. Das Oberlandesgericht hat die Berufung der Beschwerdeführerin zurückgewiesen, der Bundesgerichtshof ihre Revision nicht angenommen, weil die
+Rechtssache keine grundsätzliche Bedeutung und die Revision im Endergebnis auch
+keine Aussicht auf Erfolg habe.
+
+  Mit der Verfassungsbeschwerde wendet sich die Beschwerdeführerin gegen diese        4
+Gerichtsentscheidungen. Sie rügt eine Verletzung von Art. 3 Abs. 1, Art. 14 Abs. 1,
+Art. 20 Abs. 3 und Art. 143 Abs. 3 GG in Verbindung mit Art. 41 des Einigungsvertrags. Die den Entscheidungen zugrunde liegende Bestimmung des § 121 Abs. 2 SachenRBerG sei verfassungswidrig.
+
+ 2. Mit der Verfassungsbeschwerde verbunden ist ein Antrag auf Erlaß einer einstweiligen Anordnung mit dem Ziel, die Vollziehung der angegriffenen Entscheidungen
+bis zur Entscheidung über die Verfassungsbeschwerde auszusetzen. Der Erlaß der
+Anordnung sei zur Abwehr schwerer Nachteile geboten. Wenn sie nicht erginge,
+könnten die Nutzer ihr Ankaufsrecht geltend machen und das streitgegenständliche
+Grundstück nach dem Erwerb des Eigentums an Dritte veräußern. In diesem Fall
+könnte die Beschwerdeführerin selbst bei einem späteren Erfolg der Verfassungsbeschwerde vom gutgläubigen Dritterwerber nicht die Herausgabe des Grundstücks
+verlangen. Die Folgenabwägung falle daher zu ihren Gunsten aus.
+
+  3. Zu dem Antrag auf Erlaß einer einstweiligen Anordnung haben das Bundesministerium der Justiz namens der Bundesregierung, das Ministerium der Justiz und für
+Bundes- und Europaangelegenheiten des Landes Brandenburg und das Sächsische
+Staatsministerium der Justiz für die jeweilige Landesregierung sowie die Kläger des
+Ausgangsverfahrens Stellung genommen. Sie sind im Ergebnis übereinstimmend der
+Auffassung, daß die Voraussetzungen für den Erlaß einer einstweiligen Anordnung
+nicht gegeben sind.
+
+                                        II.
+ Der Antrag auf Erlaß einer einstweiligen Anordnung bleibt ohne Erfolg.               7
+
+  1. Der Erlaß einer solchen Anordnung ist allerdings nicht schon deshalb ausgeschlossen, weil es sich bei dem angegriffenen Urteil des Landgerichts gemäß § 108
+Abs. 1 SachenRBerG um ein Feststellungsurteil handelt (vgl. Tropf, in: Czub/
+Schmidt-Räntsch/Frenz, SachenRBerG, 1995, § 108 Rn. 1 ff.; Vossius, Sachen-RBerG, 1995, § 108 Rn. 7 ff.). Zwar kommt bei einem Feststellungsurteil nach allgemeiner Meinung eine Vollstreckung der Hauptsacheentscheidung nicht in Betracht
+(vgl. Krüger, in: Münchener Kommentar zur Zivilprozeßordnung, Band 2, 1992, § 704
+Rn. 6; Münzberg, in: Stein/Jonas, ZPO, 21. Aufl., Band 6, 1995, Rn. 47 vor § 704;
+Stöber, in: Zöller, ZPO, 21. Aufl. 1999, § 704 Rn. 2). Jedoch kann auch ein solches
+
+
+                                         2/5
+
+Urteil in formelle (vgl. § 705 ZPO) und materielle Rechtskraft erwachsen (vgl. Gottwald, in: Münchener Kommentar zur Zivilprozeßordnung, Band 1, 1992, § 322 Rn.
+25; Leipold, in: Stein/Jonas, a.a.O., Band 4, Teilband 1, 1998, § 322 Rn. 56; Vollkommer, in: Zöller, a.a.O., Rn. 8 vor § 322, § 322 Rn. 6 ff.). Mit der Rechtskraft der
+angegriffenen Entscheidungen steht deshalb zwischen der Beschwerdeführerin und
+den Klägern bindend fest, daß diese nach § 121 Abs. 2 in Verbindung mit Abs. 1,
+§ 15 Abs. 1 und den §§ 65 ff. SachenRBerG den Ankauf des streitgegenständlichen
+Grundstücks verlangen können. Die Beschwerdeführerin wendet sich mit der Verfassungsbeschwerde mittelbar gegen die dieses Ankaufsrecht gewährende Bestimmung des § 121 Abs. 2 Sachen-RBerG. Mit der begehrten einstweiligen Anordnung
+soll verhindert werden, daß die Kläger das Grundstück der Beschwerdeführerin bereits vor einer Entscheidung über die Verfassungsbeschwerde nach den Vorschriften
+des Sachenrechtsbereinigungsgesetzes erwerben und weiter veräußern. Ihr Antrag
+ist also inhaltlich darauf gerichtet, die Wirkung der angegriffenen Gerichtsentscheidungen bis zur Entscheidung über die Verfassungsbeschwerde auszusetzen. Eine
+solche Regelung kann das Bundesverfassungsgericht im Wege der einstweiligen Anordnung grundsätzlich treffen (vgl. BVerfGE 90, 277 <278>; 92, 126 <127>).
+
+ 2. Die begehrte einstweilige Anordnung kann jedoch deshalb nicht ergehen, weil die          9
+Voraussetzungen des § 32 Abs. 1 BVerfGG nicht vorliegen.
+
+  Bei der Prüfung dieser Voraussetzungen ist ein strenger Maßstab anzulegen. Eine           10
+einstweilige Anordnung kann nicht erlassen werden, wenn die Verfassungsbeschwerde als unzulässig oder als offensichtlich unbegründet erachtet wird oder wenn
+die Abwägung der Folgen, die im Falle des Erlasses oder Nichterlasses der einstweiligen Anordnung jeweils entstünden, zu Lasten des Beschwerdeführers ausfällt (vgl.
+BVerfGE 85, 130 <133>; 94, 334 <347>; stRspr).
+
+  Im vorliegenden Fall braucht auf die Erfolgsaussichten der Verfassungsbeschwerde          11
+nicht eingegangen zu werden. Auch auf die Folgen, die der Erlaß der begehrten
+einstweiligen Anordnung für die Kläger des Ausgangsverfahrens hätte, kommt es
+letztlich nicht an. Denn unabhängig davon drohen der Beschwerdeführerin bei Nichterlaß der einstweiligen Anordnung durch die angegriffenen Entscheidungen keine
+schweren Nachteile. Diese Entscheidungen führen noch nicht dazu, daß die Beschwerdeführerin das Eigentum an ihrem Grundstück verliert. Mit der Rechtskraft des
+angegriffenen landgerichtlichen Urteils steht, wie ausgeführt (vgl. oben unter II 1), lediglich fest, daß die Kläger gemäß § 121 Abs. 2 in Verbindung mit Abs. 1, § 15 Abs. 1
+und den §§ 65 ff. SachenRBerG den Ankauf dieses Grundstücks verlangen können.
+Zum Erwerb des Grundstückseigentums bedarf es deshalb weiterer Schritte. Dabei
+ist nach dem bisherigen Verlauf und in Anbetracht der Rechtsauffassung der Beschwerdeführerin davon auszugehen, daß diese auch weiterhin nicht zum freiwilligen
+Abschluß eines Kaufvertrags über das streitgegenständliche Grundstück bereit sein
+wird. Die Kläger werden daher ihr festgestelltes Ankaufsrecht zunächst im notariellen
+Vermittlungsverfahren nach den §§ 87 ff. SachenRBerG und anschließend gemäß
+den §§ 103 ff. SachenRBerG vor den Zivilgerichten geltend machen und durchsetzen
+
+
+                                           3/5
+
+müssen. Die Beschwerdeführerin kann in diesen Verfahren zwar nicht mehr das Bestehen eines Ankaufsrechts der Kläger in Frage stellen, aber einwenden, daß deren
+Kaufangebot nicht den Bestimmungen der §§ 65 bis 74 SachenRBerG entspricht.
+Die genannten Verfahren nach dem Sachenrechtsbereinigungsgesetz sind notwendigerweise mit einem weiteren zeitlichen Aufschub verbunden. Auch wenn sich dieser nicht exakt vorherbestimmen läßt, kann angenommen werden, daß bis zum Abschluß dieser Verfahren über die vorliegende Verfassungsbeschwerde entschieden
+sein wird. Erst recht hat die Beschwerdeführerin beim Unterbleiben der einstweiligen
+Anordnung keine erheblichen Nachteile zu befürchten, wenn das zu erwartende zivilgerichtliche Verfahren nach den §§ 103 ff. SachenRBerG im Hinblick auf die vorliegende Verfassungsbe-schwerde in entsprechender Anwendung des § 148 ZPO (vgl.
+dazu auch BGH, NJW 1998, S. 1957) ausgesetzt werden sollte.
+
+ Diese Entscheidung ist unanfechtbar.                                                  12
+
+
+               Kühling                  Jaeger               Hömig
+
+
+
+
+                                          4/5
+
+Bundesverfassungsgericht, Beschluss der 2. Kammer des Ersten Senats vom
+11. Januar 2000 - 1 BvR 1392/99
+
+Zitiervorschlag BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 11. Januar 2000 - 1 BvR 1392/99 - Rn. (1 - 12), http://www.bverfg.de/e/
+                rk20000111_1bvr139299.html
+
+ECLI            ECLI:DE:BVerfG:2000:rk20000111.1bvr139299
+
+
+
+
+                                      5/5
