@@ -17,5 +17,5 @@ Zweiter Abschnitt Vergütung der Prüfstelle und der Prüfingenieure
 § 14 Auslagen
 § 15 Gebührenschuldner, Fälligkeit
 Dritter Abschnitt Übergangs- und Schlußvorschrift
-§ 16 Übergangsregelung
+§ 16 aufgehoben
 § 17 Inkrafttreten
