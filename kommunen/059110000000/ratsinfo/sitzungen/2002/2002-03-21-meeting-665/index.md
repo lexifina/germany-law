@@ -1,0 +1,55 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2002-03-21T15:00:00+01:00
+- Ende: 2002-03-21T16:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVL1owHA88758xTPpPwB2IM
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/665
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVCTh6m2FIOye8gnwpjcgtSjMvL5eI6e3_PcRUS2ryZr/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_21.03.2002.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Einrichtung einer Kontakt- und Informationsstelle für Selbsthilfegruppen (KISS)
+- TOP 2: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 3: Einrichtung eines Tagesaufenthaltes für alleinstehende Wohnungslose und andere Personen mit sozialen Schwierigkeiten im Gebäude Stühmeyerstr. 33
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Situation bei der Aufnahme und Unterbringung von Flüchtlingen und Aussiedlerinnen und Aussiedlern in Bochum
+- TOP 7: keine Tagesordnungspunkte
+- TOP 8: Sozialberichterstattung
+- TOP 9: Bericht über die Beschäftigungsförderung des Sozialamtes
+- TOP 10: ESF (Europäischer Sozialfonds) - kofinanziertes ASS-Nachfolgeprogramm 2002/Konzeption/Antragsvorhaben -
+- TOP 11: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 12: Einrichtung einer Kontakt- und Informationsstelle für Selbsthilfegruppen (KISS)
+- TOP 13: Gemeinsame Beratungsstelle "Jobkick"
+- TOP 14: Beschlussvorschläge für den Rat
+- TOP 15: Schuldenberatung in Bochum
+- TOP 16: Anonyme Obdachlosigkeit
+- TOP 17: Anträge
+- TOP 18: Heimaufsicht
+- TOP 19: Aufnahme von Personen ohne Krankenversicherungsschutz in die gesetzliche Pflegeversicherung
+- TOP 20: Situation mehrfachgeschädigter Suchtkranker in Bochum-Ost
+- TOP 21: Mitteilungen
+- TOP 22: Anfragen
+- TOP 23: Gesetz über eine bedarfsorientierte Grundsicherung im Alter und bei Erwerbsminderung (GSiG)
+- TOP 24: Auswirkung der Krankenhausplanung des Landes NW
+- TOP 25: Niederschrift über die Sitzung des Psychosozialen Ausschusses am 19.12.2001
+- TOP 26: Eröffnung eines Drogenkonsumraumes in Bochum
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: keine Tagesordnungspunkte
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 8: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 9: Beschlussvorschläge für den Rat
+- TOP 10: Anträge
+- TOP 11: Mitteilungen
+- TOP 12: Anfragen
