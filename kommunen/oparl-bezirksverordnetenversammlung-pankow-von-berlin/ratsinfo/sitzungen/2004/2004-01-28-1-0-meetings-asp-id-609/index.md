@@ -1,0 +1,81 @@
+# 20. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2004-01-28T17:30:00+01:00
+- Ende: 2004-01-28T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=609
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=609
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - zur Kenntnis genommen
+- TOP 1.2: Abstimmung über die Tagesordnung - zur Kenntnis genommen
+- TOP 1.3: Aktuelle Stunde - zur Kenntnis genommen
+- TOP 1.4: Dringlichkeitsanträge - zur Kenntnis genommen
+- TOP 1.4.1: Erhalt des Gewerbestandortes Greifswalder Straße 200 - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.6: Bericht des Bezirksamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.7: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.8: Vorbericht zum Bezirkshaushaltsplan 2004 / 2005 des Bezirks Pankow hier: Ergänzung gemäß Schreiben der Senatsverwaltung für Finanzen vom 18.12.2003 zu den Auswirkungen des Urteils des Verfassungsgerichtshofes von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Ergänzungsplan 2004 / 2005 für die Drs. der BVV V - 0465/03 (Doppelhaushaltsplan 2004 / 2005) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.10: Nachweis der im Haushaltsjahr 2002 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Eliashof - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Umsetzung der Leitlinien für einen barrierefreien Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Fußgängerüberweg in der Bahnhofstraße in Französisch Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Sichere Radverkehrsanlagen in der Wisbyer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Halteverbot (Z.283) Krontaler Str., 13125 Berlin Karow - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Nördlicher Ausgang am S-Bahnhof Karow - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Vorhabenbezogener Bebauungsplan XIX - VE 5 für das Gelände südlich der Blankenfelder Straße zwischen Chartronstraße und Saupeweg (Flur 114, Flurstücke 412 und 414) ("Stadtgärten Buchholz") im Bezirk Pankow, Ortsteil Französisch Buchholz. - Änderung des von der Bezirksverordnetenversammlung am 13.01.2000 beschlossenen vorhabenbezogenen Bebauungsplans (Drs. Nr. 665/III) - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Fußgängerüberweg Schönholzer Weg - zurückgezogen
+- TOP 1.19: Schloss Schönhausen retten - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Lokale Agenda 21 - beantwortet
+- TOP 1.21: Präzisierung der sozialen Sanierungsziele für die Sanierungsgebiete im Ortsteil Prenzlauer Berg (Vorlage zur Kenntnisnahme 603/03) - überwiesen
+- TOP 1.22: Sozialticket - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Anbringung einer Gedenktafel am Haus der 2+4-Verhandlungen - zurückgezogen
+- TOP 1.24: Information der Bürgerinnen über das Golfplatz-Vorhaben - mit Änderungen in der BVV beschlossen
+- TOP 1.25: Straßenverkehrsunfälle von Kindern - beantwortet
+- TOP 1.26: Errichtung von Ordnungsämtern in den Bezirken - schriftlich beantwortet
+- TOP 1.27: Mitwirkung der Bezirksverordnetenversammlung an Entscheidungen des Liegenschaftsfonds - überwiesen
+- TOP 2: Komplex II - überwiesen
+- TOP 2.1: Parkraumbewirtschaftung vor den Bürodienstgebäuden im Bezirk - vertagt
+- TOP 2.2: Für seniorengerechtes Wohnen und gegen Einsamkeit im Alter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Zuwendung Insolvenzberatung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Kompetenz im Verkehr für die Bezirke - vertagt
+- TOP 2.5: Modernen und einheitlichen Immobilien-Service einrichten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5.1: Modernen und einheitlichen Immobilien-Service einrichten! II (Drs. V - 0283/02) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Spielplatzplanung für den Bezirk - vertagt
+- TOP 2.7: Energiesparpartnerschaft zwischen dem Bezirk Pankow und Johnson Control - vertagt
+- TOP 2.8: Bebauungspläne Antrag - vertagt
+- TOP 2.9: Einrichtung zeitlich befristeter Parkmöglichkeit, Walter-Friedrich-Str., 13125 Berlin-Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Fahrradstellplätze auf der Blankenburger Chaussee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Fifty-fifty (I.): Bürokratie überwinden - Reibungslose Zusammenarbeit zwischen den Abteilungen - vertagt
+- TOP 2.12: Ergänzung des Fahrradroutennetzes: Von der Linienstraße zum Prenzlauer Berg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Verkehrsbelastung in Heinersdorf - Entwicklungschancen für den Ortsteil - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Gleisanschluss für das Heinersdorfer Gewerbegebiet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Sozialhilfeleistungen und gemeinnützige Arbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Einrichtung zeitlich befristeter Parkmöglichkeiten und eines Behindertenparkplatzes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Ersatz fehlender Bäume - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Erhalt der Kleingärten in Pankow - vertagt
+- TOP 2.19: Mendelssohnstraße als Einbahnstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Fußgängerüberweg in der Zepernicker Straße im Ortsteil Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Mehr Sicherheit für Fußgänger I - Überquerungsmöglichkeiten über die Danziger Straße schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Mehr Sicherheit für Fußgänger II - Überquerungsmöglichkeiten über die Eberswalder Straße schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Fahrradroute vom Caligariplatz in den Landschsftspark Barnim - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Milchhäuschen Weißensee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Nutzung der Laufbahn des kleinen Stadions des Jahnsportparks durch Läuferinnen und Läufer - vertagt
+- TOP 2.26: Schulwegsicherheit vor der 13. Grundschule in Wilhelmsruh/Rosenthal - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Zulässigkeit von Hallenfußball in für Fußball geeigneten Sporthallen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.28: Verschärfung der Verkehrsprobleme im Wohnviertel an der Esplanade - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.29: Straßen-, Platz- und Brückenum- und neubenennungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Weitere Umsetzung des Lokalen Aktionplanes Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.31: Erhalt der Kinder- und Jugendarbeit des Lindenhof e. V. Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.32: Bebauungsplan XIX-53 (Gewerbegebiet "Pankow-Nord") für das Gelände zwischen Schönerlinder Straße, der Bahnstraße, dem Autobahnzubringer A 114, der Berliner Landesgrenze zur Gemeinde Schönerlinde und der Autobahn A 10/E 55 im Bezirk Pankow, OrtsteileBuch und Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Städtepartnerschaft - Programm der Zusammenarbeit für das Jahr 2004 zwischen der Stadt Kolobrzeg und dem Bezirk Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Aufstellung des Bebauungsplanes 3 - 5 für das Gelände zwischen Treskowstraße, Berliner Straße, der Straße Am Steinberg und Prenzlauer Promenade sowie die Treskowstraße im Bezirk Pankow, Ortsteile Heinersdorf und Pankow zur Sicherung eines Gewerbegebietes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Nutzungsgelderhöhung für die in der Anlage "Schildow-Waldeck" belegenden Parzellen zum 01.04.2004 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Bebauungsplanentwurf XVIII-24-2 für das Gelände zwischen der öffentlichen Parkanlage am Hofzeichendamm, Ingwäonenweg, Siversdorpstraße, Gatterweg und dem Grundstück Gatterweg 17 im Bezirk Pankow, Ortsteil Karow zur Änderung des Bebauungsplanes XVIII-24, festgesetzt am 5. Januar 1995 (GVBl.S.11) - vertagt
