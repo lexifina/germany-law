@@ -1,0 +1,57 @@
+# 31. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2005-03-23T17:30:00+01:00
+- Ende: 2005-03-23T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=717
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=717
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - beantwortet
+- TOP 1.2: Abstimmung über die Tagesordnung - beantwortet
+- TOP 1.3: Dringlichkeitsanträge - beantwortet
+- TOP 1.4: Mündliche Anfrage - im Ausschuss abgelehnt
+- TOP 1.5: Bericht des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 1.6: Konsensliste - im Ausschuss abgelehnt
+- TOP 1.7: (nichtöffentlich)
+- TOP 1.8: (nichtöffentlich)
+- TOP 1.9: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss JobCenter Pankow - gewählt
+- TOP 1.10: Kosten für den Betrieb des Moduls "Allris-Net" - überwiesen
+- TOP 1.11: Mauerstreifen - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Pankow für Europa - Mitglied in der Kommunalgesellschaft Pomerania e.V. werden - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Sozialticket und bezahlter Urlaub für Beschäftigte mit Ein-Euro-Jobs in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Planung von Schulhofumgestaltungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Schmitt, Katja)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Lokale Agenda 21 - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Ehrengrabstätte für Peter Fechter - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Bezirkliche Vertretung in den Aufsichtsräten von Wohnungsbaugesellschaften im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Arbeitsgelegenheiten mit Mehraufwandsentschädigung - beantwortet
+- TOP 1.19: VertreterIn des Rates für Migrantinnen im Beirat des JobCenter Pankow - beantwortet
+- TOP 1.20: Entwicklung der Verkehrsinfrastruktur in Buch - überwiesen
+- TOP 1.21: Mehr Demokratie in der vorbereitenden und verbindlichen Bauleitplanung in Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Sportstätte am Weißen See erhalten - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.23: Wohnumfeld in den Sanierungsgebieten verbessern - überwiesen
+- TOP 1.24: Wegeleitsystem für Berlin-Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Verkehrsgefährdungen vorbeugen an der Schönhauser Straße / Marienstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Luxusprojekt "Asphaltierung des Mauerparks" verhindern - überwiesen
+- TOP 1.27: Energiecheck bezahlen - Kosten sparen - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.1: EU-Bericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Weitere Umsetzung des Lokalen Aktionplanes Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Kein Kita-Konzern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Erhalt des ehemaligen Wasch- und Heizhauses in der Carl-Legien-Siedlung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Abschluss eines städtebaulichen Vertrages zur Sicherung der geplanten JFE im Bötzowviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Fortführung "Mobiles Bürgerbüro" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Hartz IV - siehe auch Drs. Nr. V - 0862/04 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Kreuzstraße im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Änderung des Flächennutzungsplanes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Aufklärungsarbeit zu Risiken einer HIV-Infektion verstärken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Nutzungsentgelterhöhung für zu Erholungszwecken genutzte Parzellen in den Anlagen "Frohsinn" und "Nordend" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Benennung von 2 neu entstehenden Privatstraßen "Le Bonheur-Straße" und "La Familie-Straße" im OT Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Weitere Umsetzung des Lokalen Aktionsplanes - Abschluss der Zielvereinbarung 2005 - mit Abschlussbericht zur Kenntnis genommen
