@@ -1,0 +1,51 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-05-07T16:00:00+02:00
+- Ende: 2004-05-07T00:00:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1321
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1321
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111247.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111247.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111247.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung Tagesordnung
+- TOP 3: Genehmigung Niederschrift
+- TOP 4: Kamper Acker / Planung
+- TOP 5: B-Plan Nr. 5672/22 - Flemingweg
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Verkehrsberuhigung Auf'm Rott
+- TOP 8: Trödelmärkte auf dem Schützenplatz Spangerstraße
+- TOP 9: ZuschussTurngau Düsseldorf e.V.
+- TOP 10: Freie Christliche Schule
+- TOP 11: Freigabe von verkaufsoffenen Sonntagen im Jahr '04
+- TOP 12: "Home & Garden 2004" auf dem Gelände des
+- TOP 13: Anfrage:Konzept Stadtteilzentrum Benrath
+- TOP 14: Anfrage: Paulsmühle
+- TOP 15: Anfrage: Paulinenplatz
+- TOP 16: Anfrage: Grabsteine am Rheinufer, Nikolausstraße
+- TOP 17: Anfrage: Abgeknickte Poller
+- TOP 18: Antrag: LKW-Verkehr auf der Straße "Am Schönenkam
+- TOP 19: Antrag: Absperrpoller auf der Straße Alt Himmelgei
+- TOP 20: Antrag: Gehweginstandsetzung
+- TOP 21: Antrag: Benrather Schloßallee
+- TOP 22: Antrag: Erhalt der Sportfläche Benrath 10-Platz
+- TOP 23: Antrag: Gelände Benrath 10
+- TOP 24: Antrag: Entwicklungskonzept Sportanlage Paulsmühle
+- TOP 25: Antrag: Farblich dargestellter Radweg
+- TOP 26: Verfügungsmittel: SV Wersten 04
+- TOP 27: Verfügungsmittel: Kleingartenanlage Im Himmelgeist
+- TOP 28: Verfügungsmittel: Stadtbücherei Benrath
+- TOP 29: Verfügungsmittel: Sängerkreis Düsseldorf
+- TOP 30: Verfügungsmittel: Offene Tür Wersten e.V.
+- TOP 31: Verfügungsmittel: Pfarrgemeinderat St. Hubertus
+- TOP 32: Zuschuss für eine kulturelle Veranstaltung
+- TOP 33: Antrag: Benrather Bierbörse 2004
+- TOP 34: Pl5972/19IndGebwestlOerschbachstr VÄ
