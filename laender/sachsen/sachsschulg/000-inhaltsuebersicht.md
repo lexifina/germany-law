@@ -6,6 +6,7 @@ Inhaltsübersicht
 § 3 Geltungsbereich
 2. Abschnitt Gliederung des Schulwesens
 § 4 Schularten und Schulstufen
+§ 4a Mindestschülerzahl, Klassenobergrenzen, Zügigkeit, Schulweg
 § 5 Grundschule
 § 6 Mittelschule
 § 7 Gymnasium
@@ -18,6 +19,7 @@ Inhaltsübersicht
 § 14 Schulen des zweiten Bildungsweges
 § 15 Schulversuche
 § 16 Ganztagesbetreuung
+§ 16a Ganztagsangebote
 § 17 Bildungsberatung
 3. Abschnitt Religionsunterricht, Ethik
 § 18 Religionsunterricht
@@ -27,6 +29,7 @@ Inhaltsübersicht
 § 21 Grundsätze
 § 22 Schulträger
 § 23 Aufgaben des Schulträgers
+§ 23a Schulnetzplanung
 § 24 Einrichtung, Änderung und Aufhebung von Schulen
 § 25 Schulbezirk
 3. Teil Schulpflicht
@@ -47,7 +50,7 @@ Inhaltsübersicht
 § 39 Erziehungs- und Ordnungsmaßnahmen
 5. Teil Lehrer, Schulleiter
 § 40 Personalhoheit, Lehrer
-§ 41 Schulleiter, Stellvertretender Schulleiter
+§ 41 Schulleiter, stellvertretender Schulleiter
 § 42 Aufgaben des Schulleiters
 6. Teil Schulverfassung
 1. Abschnitt Konferenzen
