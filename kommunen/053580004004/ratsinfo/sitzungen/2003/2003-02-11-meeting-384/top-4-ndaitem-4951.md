@@ -1,0 +1,6 @@
+# TOP 4.: Umbau Aula Hauptschule - Sachstandsbericht des Architekten und der Verwaltung
+
+- Sitzung: Bauverwaltungsausschuss (2003-02-11)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/4951
