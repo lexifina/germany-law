@@ -1,0 +1,59 @@
+# Rat
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 2001-09-26T17:00:00+02:00
+- Ende: 2001-09-26T21:50:00+02:00
+- Ort: Rathaus, Lange Str. 60, 32602 Vlotho, Sitzungssaal
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdfGmMi6liVB__8rS41LcCI
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/269
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc2VCXEBWzO9QzUTmjT1_4v--gXabQzzVSTn6A0OmaoJ/Oeffentliche_Niederschrift_Rat_26.09.2001.pdf
+
+## Tagesordnung
+
+- TOP I.: A. Öffentliche Sitzung
+- TOP 1.: Niederschrift über die 13. Sitzung vom 03.07.2001 - öffentlicher Teil -
+- TOP 2.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 2.1.: Gaspreissenkung zum 01.10.2001 - Einstimmig, 0 Enthaltung(en)
+- TOP 2.2.: Brandschutzmaßnahme Grundschule Herforder Straße 8 hier: Leistung einer außerplanmäßigen Haushaltsausgabe - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 4.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 5.: Angelegenheiten des Kurzweckverbandes (Berichte und Beschlussfassungen)
+- TOP 6.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 6.1.: Sanierung des Mahnmals in Exter - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2.: Restaurierung des örtlichen Kriegerdenkmals; Installierung einer Gedenktafel für die Vertreibungsopfer -  
+- TOP 6.3.: Anbringung einer Bronzetafel am Mahnmal in Exter - 18 Ja-Stimme(n), 16 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 6.4.: Verkehrssichernde Maßnahmen im Bereich der Hans-Schwarze-Grundschule Valdorf, Schulteil Topsundern - Einstimmig, 0 Enthaltung(en)
+- TOP 6.5.: Zufahrt und Böschungsbefestigung zu den Häusern Kuhkamp 7, 8, 9, 11, 13, 14 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.6.: Anlegung eines Rad-Fußweges an der Rintelner Straße - Ohne Abstimmung
+- TOP 6.7.: Änderung der Verkehrsführung im Bereich des Gewerbegebietes Hollwiesen/Wehrendorf - Ohne Abstimmung
+- TOP 6.8.: Verkehrsberuhigung "Höferbrink" - Ohne Abstimmung
+- TOP 6.9.: Amtliche Bekanntmachungen in Tageszeitungen - 34 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 6.10.: VlothoBus - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk Valdorf II - 17 Ja-Stimme(n), 15 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 7.1.: Umbesetzung von Ausschüssen - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Aufwandsentschädigung für die Feuerwehrführungskräfte - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Touristisches Informations- und Beschilderungskonzept - 32 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 10.: Vereinbarung über eine Zusammenarbeit in der regionalen Arbeitsgemeinschaft "Arbeit und Leben DGB / VHS, Kreis Herford" - 15 Ja-Stimme(n), 18 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11.: Nachtragswirtschaftsplan Stadtwerke für das Wirtschaftsjahr 2001 - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Genehmigung zur Leistung einer außerplanmäßigen Haushaltsausgabe bei der Haushaltsstelle 1.200.9352.00 (PC-Beschaffung) - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Leistung einer außerplanmäßigen Ausgabe im UA 200 des VM-Haushaltes hier: Vergabe eines Projektsteuerungsauftrages an die Fa. BauGrund für die Generalinstandsetzung der Schulstandorte Herforder Straße 8, Topsundernweg 18, Hohenhausener Straße 1 und Jägerortstraße 30 - 19 Ja-Stimme(n), 14 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 14.: Leistung einer außerplanmäßigen Ausgabe im Abschnitt 200 des Vermögenshaushaltes (Finanzierung der Beseitigung von Unfallgefahren in Schulen) - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Schaffung eines ÖPNV-Verknüpfungspunktes am Bahnhof hier: Leistung einer außerplanmäßigen Ausgabe im Abschnitt 630 des Vermögenshaushaltes - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Erlass einer Satzung über abweichende Herstellungsmerkmale bei der Erschließungsanlage Lange Wand - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: Abweichende Herstellungsmerkmale im Bereich der Anliegerstraße "Auf der Linde" hier: Erlass einer Satzung über abweichende Herstellungsmerkmale - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Erlass einer Satzung über abweichende Herstellungsmerkmale bei der Erschließungsmaßnahme des Ostabschnittes "Südfeldstraße" zwischen Hochstraße und Steinstraße - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: 6. Änderung des Bebauungsplanes Nr. 1.1 "Gebiet zwischen Herforder Str. und Valdorfer Str."; hier: Offenlegungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 20.: 4. Änderung des Bebauungsplanes Nr. U 2 "Gebiet zwischen Mindener Str. und Höferweg"; hier: Offenlegungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 21.: Privatausbau der städtischen Verkehrsanlage "Eschweg" - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Fraktionsanträge gem. § 3 der Geschäftsordnung
+- TOP 22.1.: Radweg Rintelner Straße - Ohne Abstimmung
+- TOP 22.2.: Flüchtlingsbetreuung - Ohne Abstimmung
+- TOP 22.3.: Umgestaltung der L778 zwischen Exter und Vlotho hier: Herstellung eines sicheren Rad-/ Gehweges auf der vorhandenen Straßentrasse -  
+- TOP 23.: Anfragen nach § 18 der Geschäftsordnung und Mitteilungen
+- TOP 23.1.: Buslinie 457 nach Bad Oeynhausen
+- TOP 23.2.: Akkustik in der neuen Sporthalle am Wesergymnasium
+- TOP 23.3.: Nutzungskonzept für das leerstehende Dachgeschoss im Gebäude Lange Str. 80
+- TOP 23.4.: Sachstandsabfrage Valdorfer Straße, Ebenöder Weg, Horstweg, Auf der Kaiten
