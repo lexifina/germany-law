@@ -1,0 +1,71 @@
+# 28. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2004-12-08T17:30:00+01:00
+- Ende: 2004-12-08T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=397
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=397
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - gewählt
+- TOP 1.2: Abstimmung über die Tagesordnung - gewählt
+- TOP 1.3: Dringlichkeitsanträge - gewählt
+- TOP 1.4: Mündliche Anfrage - gewählt
+- TOP 1.5: Bericht des Bezirksamtes - gewählt
+- TOP 1.6: Konsensliste - gewählt
+- TOP 1.7: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.8: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.9: Wahl eines Bürgerdeputierten - gewählt
+- TOP 1.10: Bebauungsplan XIX-40i und Bebauungsplan XIX-59 - im Ausschuss abgelehnt
+- TOP 1.11: Überleitung von Hortplätzen an Schulen - in der BVV abgelehnt
+- TOP 1.12: Mehr Verkehrssicherheit im Wohnviertel Talstraße / Spiekermannstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.13: Nördlicher Ausgang am S-Bahnhof Karow - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Sommerrodelbahn - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Nachweis der im Haushaltsjahr 2003 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.16: Barrierefreie Nutzung der Kassenautomaten für Menschen mit Behinderung sicherstellen! - vertagt
+- TOP 1.17: Änderung der LSA Taktzeiten in der Bornholmer Straße - im Ausschuss abgelehnt
+- TOP 1.18: Bauvorhaben der HOWOGE WBG in Blankenburg - zurückgezogen
+- TOP 1.19: Platz des 9. November 1989 - überwiesen
+- TOP 1.20: Grundsicherungsanträge und ein neues Haushaltsdefizit? - beantwortet
+- TOP 1.21: Änderung des Flächennutzungsplanes - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.22: Aufklärungsarbeit zu Risiken einer HIV-Infektion verstärken - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.23: Gedenkstein auf dem Friedhof Schönholzer Heide - überwiesen
+- TOP 1.24: Goldene Handschläge - beantwortet
+- TOP 1.25: Konzeptionen für die Stadtteilfeste - überwiesen
+- TOP 1.26: Sanierungsziel Kindertagesstätte im Sanierungsgebiet Bötzowstraße, Grundstück Am Friedrichshain 29 - 32 - überwiesen
+- TOP 1.27: Kältehilfe abstimmen! - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.28: Chancengleichheit am Arbeitsmarkt - überwiesen
+- TOP 1.29: Pankow für Europa - Mitglied in der Kommunalgesellschaft Pomerania e.V. werden - überwiesen
+- TOP 1.30: Soziale Projekte - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex II - (offen)
+- TOP 2.1: Halbjährliche Berichterstattung über Budgetentwicklung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Energiesparpartnerschaft zwischen dem Bezirk Pankow und Johnson Control - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Erhalt des Heimatmuseums am Standort Weißensee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Eliashof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Mehr Sicherheit für Fußgänger I - Überquerungsmöglichkeiten über die Danziger Straße schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Mehr Sicherheit für Fußgänger II - Überquerungsmöglichkeiten über die Eberswalder Straße schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Entwicklungsplanung kommunaler Begegnungsstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Bericht zu Blockheizkraftwerken in öffentlich-privater Zusammenarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Fußball-WM 2006 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Verlängerung der Buslinie 158 bis zum S-Bhf. Prenzlauer Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Fußgängerüberweg am Bahnhof Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Hartz IV: Beteiligung der Bezirke an den künftigen Arbeitsgemeinschaften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Lärmminderung in der Kastanienallee im OT Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Kein Kahlschlag hinter dem Rücken der Bezirksverordnetenversammlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Barrierefreies Wilhelmsruh - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Fortführung "Mobiles Bürgerbüro" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Pachtverträge zu Kleingartenanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Auflagenbeschluss zum Doppelhaushalt 2004/2005 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Hartz IV - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Benennung einer Privatstraße im OT Französisch Buchholz in Stephanusring - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Verlängerung des Förderzeitraumes des Projektes Regionalmanagement Berlin-Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Festsetzung des vorhabenbezogenen Bebauungsplanes XIX-VE 5 vom 24. Februar 1998 mit Deckblatt vom 06. November 2003 für das Gelände südlich der Blankenfelder Straße zwischen Chartronstraße und Saupeweg (Flur 114, Flurstück 412 und 414) im Bezirk Pankow, Ortsteil Französisch Buchholz ("Stadtgärten Buchholz") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Hartz IV - 1. Zwischenbericht (VzK gemäß § 13 BezVG) - siehe auch Drs. Nr. V - 0838/04 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Inbetriebnahme des ehem. Lehrerwohnhauses der Grundschule Christburger Straße als Hort und Jugendfreizeitstätte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Wortprotokolle von BVV-Tagungen - mit Zwischenbericht zur Kenntnis genommen
