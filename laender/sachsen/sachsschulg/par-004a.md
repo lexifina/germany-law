@@ -1,4 +1,4 @@
-# § 4a Mindestschülerzahl, Klassenobergrenzen,Zügigkeit, Schulweg
+# § 4a Mindestschülerzahl, Klassenobergrenzen, Zügigkeit, Schulweg
 (1) Die Mindestschülerzahlen an allgemeinbildenden Schulen betragen:
 1. an Grundschulen für die erste einzurichtende Klasse je Klassenstufe 15 Schüler und für jede weitere einzurichtende Klasse 14 Schüler,
 2. an Mittelschulen für die ersten beiden einzurichtenden Klassen je Klassenstufe 20 Schüler und für jede weitere einzurichtende Klasse 19 Schüler,

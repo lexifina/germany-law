@@ -15,10 +15,11 @@ Inhaltsübersicht
 § 10 Fachschule
 § 11 Fachoberschule
 § 12 Berufliches Gymnasium
-§ 13 Förderschulen
+§ 13 Allgemein bildende Förderschulen
+§ 13a Berufsbildende Förderschulen
 § 14 Schulen des zweiten Bildungsweges
 § 15 Schulversuche
-§ 16 Ganztagesbetreuung
+§ 16 Betreuungsangebote
 § 16a Ganztagsangebote
 § 17 Bildungsberatung
 3. Abschnitt Religionsunterricht, Ethik
@@ -34,6 +35,7 @@ Inhaltsübersicht
 § 25 Schulbezirk
 3. Teil Schulpflicht
 § 26 Allgemeines
+§ 26a Schulgesundheitspflege
 § 27 Beginn der Schulpflicht
 § 28 Dauer und Ende der Schulpflicht
 § 29 Ruhen der Schulpflicht
@@ -79,6 +81,6 @@ Inhaltsübersicht
 § 62 Schul- und Prüfungsordnungen
 8. Teil Landesbildungsrat
 § 63 Landesbildungsrat
-9. Teil Schlußbestimmungen
+9. Teil Schlussbestimmungen
 § 64 Übergangsbestimmungen
-§ 65 Inkrafttreten
+§ 65 In-Kraft-Treten
