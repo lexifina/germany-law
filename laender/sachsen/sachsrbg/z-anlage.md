@@ -34,8 +34,7 @@ fortgeltend:
 gesamte Vorschrift
 9. 315 Gesetz über die Schiedsstellen in den Gemeinden
 vom 13. September 1990 (GBl. I Nr. 61 S. 1527)
-fortgeltend:
-§§ 1 bis 39 §§ 46 bis 58
+Vorschrift außer Kraft durch § 59 des G vom 27. Mai 1999 (SächsGVBl. S. 247, 254)
 10. 40a Gesetz über die Bildung und Tätigkeit von Stiftungen – Stiftungsgesetz –
 vom 13. September 1990 (GBl. I Nr. 61 S. 1483)
 fortgeltend:
@@ -79,7 +78,7 @@ vom 26. März 1970 (GBl. II Nr. 32 S. 231)
 Genese: § 12 Abs. 2 aufgehoben durch § 20 Abs. 3 der Verordnung über die Leitung und Durchführung der öffentlichen Personenbeförderung – Personenbeförderungsverordnung (PBVO) – vom 5. Januar 1984 (GBl. I Nr. 4 S. 25)
 fortgeltend für Binnengewässer:
 gesamte Vorschrift
-20. 9503 Anordnung über die Besetzung von Fahrzeugen und Verbänden sowie über Befähigungszeugnisse, Berechtigungsscheine, Bordlisten und Schifferdienstbücher in der Binnenschiffahrt – Binnenschiffsbesetzungsanordnung (BSB- AO) –
+20. 9503 Anordnung über die Besetzung von Fahrzeugen und Verbänden sowie über Befähigungszeugnisse, Berechtigungsscheine, Bordlisten und Schifferdienstbücher in der Binnenschiffahrt – Binnenschiffsbesetzungsanordnung (BSB-AO) –
 vom 18. Dezember 1986 (GBl. I Sonderdruck Nr. 1281)
 fortgeltend für schiffbare Landeswasserstraßen:
 gesamte Vorschrift mit Ausnahme des § 24
