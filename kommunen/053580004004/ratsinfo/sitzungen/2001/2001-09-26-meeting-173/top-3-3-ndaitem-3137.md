@@ -1,4 +1,4 @@
-# TOP 3.3.: Schulangelegenheiten
+# TOP 3.3.: Nutzung des "DAA-Gebäudes"
 
 - Sitzung: Schul- und Sozialausschuss (2001-09-26)
 - Körperschaft: Gemeinde Aldenhoven
