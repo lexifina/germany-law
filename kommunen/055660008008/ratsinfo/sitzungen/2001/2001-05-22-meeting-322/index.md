@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2001-05-22T18:00:00+02:00
+- Ende: 2001-05-22T19:50:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUpiPGyKsSVYVX9Lp8yBP1M
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/322
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYtC2C895Q_yd36JZ4AmNLdk2QAjc--IaAC7-VfeGv_c/Oeffentliche_Niederschrift_Rat_22.05.2001.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Bildung und Besetzung von Gremien
+- TOP 4.1.: Ersatzwahl für den Ausländerrat - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Satzungsrecht
+- TOP 5.1.: Erhebung von Gebühren für die Durchführung von Brandschauen - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2.: Höhe des Ablösebetrages gem. § 51 Abs. 5 BauO NRW je Stellplatz - Einstimmig, 0 Enthaltung(en)
+- TOP 5.3.: Einführung des EURO hier: Gestaltung der Parkgebühren im Parkhaus und im Innenstadtbereich - 32 Ja-Stimme(n), 4 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 6.: Richtlinien
+- TOP 6.1.: Richtlinien über die Gewährung von Zuschüssen zur Erhaltung von Denkmälern in der Stadt Emsdetten - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2.: Zuwendungen an Fraktionen - Einstimmig, 1 Enthaltung(en)
+- TOP 6.3.: Richtlinien der Stadt Emsdetten zur Förderung von Partnerschaftsaktivitäten - Einstimmig, 0 Enthaltung(en)
+- TOP 6.4.: Neufassung der Repräsentationsrichtlinien - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Etat / Budget
+- TOP 7.1.: Kommunaler Bürgerhaushalt - Ergebnis der Fragebogenaktion - - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Finanzangelegenheiten
+- TOP 8.1.: Über- und außerplanmäßige Ausgaben im I. Quartal 2001 - Zur Kenntnis genommen
+- TOP 9.: Stadtsparkasse Emsdetten
+- TOP 9.1.: Beschluss über die Genehmigung der Bestellung von Mitgliedern des Vorstandes der Stadtsparkasse Emsdetten - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Allgemeine Stadtentwicklungsplanung
+- TOP 10.1.: Naturnahe Entwicklung des Emsdettener Mühlenbaches - Einstimmig, 0 Enthaltung(en)
+- TOP 10.2.: Umlegungsverfahren Bplan Nr. 17 C IV - Einstimmig, 0 Enthaltung(en)
+- TOP 10.3.: Umlegungsverfahrens Bplan Nr. 29 B "Spatzenweg West" - Einstimmig, 0 Enthaltung(en)
+- TOP 10.4.: Umlegungsverfahren Bplan Nr. 34 A "Wildgrund West" - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Planung von Tiefbauvorhaben
+- TOP 11.1.: Vorstellung der 3. Fortschreibung des Abwasserbeseitigungskonzeptes für das Abwasserwerk der Stadt Emsdetten - Einstimmig, 0 Enthaltung(en)
+- TOP 11.2.: Ausbau Hörstingsheide, Holunderweg (Teilstück Einmündung Schlehenweg/Akazienweg bis Bauende) und Fichtenweg; Vorstellung der Ausbauplanung - Einstimmig, 0 Enthaltung(en)
+- TOP 11.3.: Vorstellung der Ausbauplanung Lange Water - Teilstück von Neuenkirchener Straße bis Vennweg - - Einstimmig, 0 Enthaltung(en)
+- TOP 11.4.: Vorstellung der Ausbauplanung Lange Water - Teilstück von Neuenkirchener Straße bis Vennweg - - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Schulangelegenheiten
+- TOP 12.1.: Nachmittagsbetreuung von Schülern und Schülerinnen in Grundschulen - Einstimmig, 0 Enthaltung(en)
+- TOP 12.2.: Ganztagsbetreuung von Grundschulkindern in Tageseinrichtungen für Kinder über die Mittagszeit hinaus sowie in Ferienfreizeiten, bei Unterrichtsausfall und an unterrichtsfreien Tagen - Ohne Abstimmung
+- TOP 12.3.: Erweiterung und Umbau der Geschwister-Scholl-Schule; Entscheidung über das weitere Verfahren - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 13.1.: Trägerschaft neuer Kindergarten in Westum - Einstimmig, 0 Enthaltung(en)
+- TOP 13.2.: Einrichtung einer zusätzlichen KIGA-Gruppe für das Kindergartenjahr 2001/2002 im Kindergarten St. Marien, Grevener Damm - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Verschiedenes 1. Sachstandsbericht über Anregungen und Bedenken
