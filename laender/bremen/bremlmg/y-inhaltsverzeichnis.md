@@ -34,8 +34,8 @@ Abschnitt 5 Pflichten der Veranstalter
 Abschnitt 6 Offener Kanal
 § 26 | Grundsätze
 § 27 | Finanzierung
-Abschnitt 7 Textdienste
-§ 28 | Textdienste
+Abschnitt 7 Mediendienste
+§ 28 | Mediendienste
 Abschnitt 8 Sendungen in Einrichtungen, in Wohneinheiten und bei öffentlichen Veranstaltungen
 § 29 | Sendungen in Einrichtungen, in Wohneinheiten und bei öffentlichen Veranstaltungen
 Abschnitt 9 Weiterverbreitung von Rundfunkprogrammen in Kabelanlagen
