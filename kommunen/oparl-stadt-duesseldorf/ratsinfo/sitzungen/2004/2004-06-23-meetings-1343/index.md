@@ -1,0 +1,52 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-06-23T16:00:00+02:00
+- Ende: 2004-06-23T00:00:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1343
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1343
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111257.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111257.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111257.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung der Niederschrift
+- TOP 3: Zul
+- TOP 4: Campus
+- TOP 5: Flingern/Oberbilk II
+- TOP 6: Lichtmasterplan Teil 2 als Teil der Aktion PLATZDA
+- TOP 7: Hohenzollern
+- TOP 8: Zoopark III
+- TOP 9: 5578/40 Brehmstraße Bunker
+- TOP 10: Verwendung Haushaltsmittel 2004
+- TOP 11: Ortsumgehung Flingern/L 404
+- TOP 12: Ortsumgehung Flingern/L 404
+- TOP 13: Zoopark III
+- TOP 14: Brehmplatz
+- TOP 15: ÖPNV-Linienführung/Verbesserungen
+- TOP 16: Kiefernstraße II
+- TOP 17: Schlüterstraße Schlüterstraße
+- TOP 18: Umweltschutz IV
+- TOP 19: Degerstr./LZA Lindenstr. u.a./Sperrung,Schilder
+- TOP 20: Brehmstraße - B-Plan 5578/40
+- TOP 21: Grunerstraße
+- TOP 22: Kettwiger Straße/Erkrather Straße
+- TOP 23: Vorgartensatzung
+- TOP 24: Verlängerte Simrockstraße
+- TOP 25: -Lindenstraße/Bunker_
+- TOP 26: Grafenberger Allee -Wehrhhahn- ab 3/88 II
+- TOP 27: Abfallbeseitigung - Duales System
+- TOP 28: Altenbergstraße Sportflächen
+- TOP 29: Lärmschutz
+- TOP 30: -Altenburgstraße 81-
+- TOP 31: Straßenbaumaßnahmen
+- TOP 32: Zoopark III
+- TOP 33: Wetterstr.-Unterführung
+- TOP 34: Flinger Broich/Vennhauser Straße
+- TOP 35: Fahrradabstellanlagen
