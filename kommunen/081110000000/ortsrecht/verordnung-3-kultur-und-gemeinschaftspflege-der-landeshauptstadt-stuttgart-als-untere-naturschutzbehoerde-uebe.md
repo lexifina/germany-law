@@ -1,182 +1,179 @@
-# Verordnung 3 Kultur- und Gemeinschaftspflege der Landeshauptstadt Stuttgart als untere Naturschutzbehörde über das Landschaftsschutzgebiet
+# Verordnung 3 Kultur- und Gemeinschaftspflege der Landeshauptstadt Stuttgart als untere Naturschutzbehörde über das Landschaftsschutzgebiet „Weilimdorf-West“ auf der Gemarkung Weilimdorf
 
 - Gemeinde: Landeshauptstadt Stuttgart (ARS 081110000000)
-- Datum: 1999-01-21 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stuttgart.de/medien/ibs/3-2d.pdf
+- Datum: 2004-09-23 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stuttgart.de/medien/ibs/3-2k.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-3/2 d
+3/2k
 Verordnung
 
 3 Kultur- und
 Gemeinschaftspflege
 
-der Landeshauptstadt Stuttgart als untere Naturschutzbehörde über das Landschaftsschutzgebiet
-”Dornhalde - Haldenwald” auf den Gemarkungen Möhringen und Stuttgart
-
-Vom 23./29. Dezember 1998
-
-Bekannt gemacht im Amtsblatt der Stadt Stuttgart Nr. 3 vom 21. Januar 1999
+der Landeshauptstadt Stuttgart als untere Naturschutzbehörde über das Landschaftsschutzgebiet „Weilimdorf-West“ auf der Gemarkung Weilimdorf
+Vom 3. September 2004
+Bekannt gemacht im Amtsblatt Nr. 39 vom 23. September 2004
 
 Aufgrund von §§ 22, 58 Abs. 3 und 64 Abs. 1 Nr. 2 des Gesetzes zum Schutz der Natur, zur Pflege der Landschaft und über die Erholungsvorsorge in der freien Landschaft (Naturschutzgesetz - NatSchG) in der Fassung der Bekanntmachung vom 29. März 1995 (GBl. S. 385) wird hiermit verordnet:
-Allgemeine Vorschriften §1
-Erklärung zum Schutzgebiet
-Die in § 2 näher bezeichneten Flächen auf dem Gebiet des Stadtkreises Stuttgart Gemarkungen Möhringen und Stuttgart (mit Flur Degerloch) werden zum Landschaftsschutzgebiet erklärt. Das Landschaftsschutzgebiet führt die Bezeichnung ”Dornhalde - Haldenwald”.
+Allgemeine Vorschriften
+§1 Erklärung zum Schutzgebiet
+Die in § 2 näher bezeichneten Flächen auf dem Gebiet des Stadtkreises Stuttgart, Gemarkung Weilimdorf werden zum Landschaftsschutzgebiet erklärt. Das Landschaftsschutzgebiet führt die Bezeichnung „Weilimdorf-West“.
 §2 Schutzgegenstand
-(1) Das Landschaftsschutzgebiet hat eine Größe von rund 70 ha.
+(1) Das Landschaftsschutzgebiet hat eine Größe von rund 236 ha.
 (2) Das Schutzgebiet umfasst im Wesentlichen folgende Landschaftsteile:
-a) die Gewanne ”Dornhalde” und ”Kressart” in Möhringen-Sonnenberg, b) die ”Schwälblesklinge” und das Gewann ”Kohlhau” in Möhringen-
-Sonnenberg, c) den ”Kohlbach” mit Gartengrundstücken im Gewann ”Schloßwaldäcker” in
-Stuttgart-Kaltental, d) den ”Haldenwald” in Möhringen-Sonnenberg.
+a) die Wiesen-, Garten- und Ackerflächen entlang der B 295, im Osten bis zum Ortsrand von Weilimdorf, im Westen bis zum Bebauungsrand von Wolfbusch, Giebel und Hausen;
+b) den Fasanengarten mit umliegenden Gärten;
+c) den Schnatzgraben und den Beutenbach mit den angrenzenden Wiesen-, Acker- und Gartenflächen;
 
-Stuttgarter Stadtrecht 3. Erg.-Lfg. (August 2000)
+Stuttgarter Stadtrecht 11. Erg.-Lfg. (August 2008)
 
 1
 
-3/2 d
+3/2k
 
-Verordnung über das Landschaftsschutzgebiet ”Dornhalde - Haldenwald”
+Verordnung der Landeshauptstadt Stuttgart als untere
+
+Naturschutzbehörde über das Landschaftsschutzgebiet „Weilimdorf-West“
+
+d) die Freiflächen nördlich der B 295 zwischen der Stadtkreisgrenze von Stuttgart und dem Rand des Gewerbegebietes von Weilimdorf mit dem „Grünen Heiner“.
 
 (3) Das Schutzgebiet umfasst die nachfolgend aufgeführten Gewanne ganz oder teilweise:
-”Haldenwald”, ”Schloßwaldäcker”, ”Kohlhau”, ”Kressart” und ”Dornhalde”.
 
-(4) Die Grenzen des Landschaftsschutzgebietes sind in einer Übersichtskarte des Stadtmessungsamtes vom 15. Januar 1997 im Maßstab 1 : 20 000 mit durchgezogener grüner Linie sowie in einer Stadtkarte des Stadtmessungsamtes vom 28. Oktober 1998 im Maßstab 1 : 2 500 mit durchgezogener grüner Linie eingetragen. Die Karten sind Bestandteil dieser Verordnung. Die Verordnung mit Karten wird beim Amt für Umweltschutz der Landeshauptstadt Stuttgart - untere Naturschutzbehörde - während der Dienststunden zur kostenlosen Einsicht durch jedermann niedergelegt.
+Krautgartenäcker, Unter der Ditzinger Straße, Ob der Ditzinger Straße, Gerlinger Weg, Rennsträßle, Bergheimer Weg, Bergheimer Höhe, Schelmenäcker, Vor der Hart, Hartwald, Froschäcker, Hartwiesen, Hart, Rappach, Hausen, Steinröhre, Heckwiese, Untermark, Vogellöcher, Lachen, Lachenwiesen, Blauäcker, Binsenbusch, Schmalwiesen, Lotterberg, Haus, Reute, Geschnait.
+
+(4) Die Grenzen des Landschaftsschutzgebietes sind mit dem Abgrenzungsstand vom 09. Februar 2004 in einer Übersichtskarte des Stadtmessungsamtes vom 17. August 2004 im Maßstab 1:20 000 flächenhaft grün punktiert sowie in einer Stadtkarte des Stadtmessungsamtes vom 22. Januar 1999 im Maßstab 1:5 000 mit durchgezogener grüner Linie eingetragen. Die Karten sind Bestandteile dieser Verordnung. Die Verordnung mit Karten wird beim Amt für Umweltschutz der Landeshauptstadt Stuttgart - untere Naturschutzbehörde - während der Sprechzeiten zur kostenlosen Einsicht durch jedermann niedergelegt.
 
 Im Falle des Widerspruches zwischen der textlichen Beschreibung und der zeichnerischen Darstellung gelten die in der Karte getroffenen Festlegungen.
 
 §3 Schutzzweck
 
-Schutzzweck des Landschaftsschutzgebietes ist:
+Wesentlicher Schutzzweck ist die Erhaltung der vielfältigen Kulturlandschaft mit ihrer Wechselwirkung zwischen Streuobstwiesen, Grünland-, Acker-, Gartenund Waldflächen als sich ergänzende Lebensräume für einheimische Pflanzen und Tiere sowie als weitläufiges Naherholungsgebiet im Stadtteil Weilimdorf.
 
-1. Schutz der extensiven Flächennutzung als Streuobstwiese im Gewann ”Kressart” und als typisches obstbaumbestandenes Stuttgarter ”Gütlesgebiet” im Gewann ”Dornhalde”,
-2. Erhalt des luftreinen und wenig lärmbelasteten Naherholungsgebietes für die Bevölkerung Sonnenbergs und Kaltentals,
-3. Erhalt und Förderung der freien Zugänglichkeit der offenen Landschaft, insbesondere der Streuobstwiese im Gewann ”Kressart”,
-4. Erhalt der in der Wechselwirkung zwischen historischen Nutzungsformen und Oberflächenausbildung beispielhaften landschaftlichen Ausprägungen dieses Keupergebietes,
-5. Erhalt der landschaftstypischen Kleingewässer ”Schwälblesklinge” und ”Kohlbach” sowie der zahlreichen geologischen Kleinaufschlüsse in den Waldgebieten ”Haldenwald” und ”Kohlhau”,
-6. Bestandserhaltung der heimischen Vegetation entsprechend der Begriffsbestimmung des Bundesnaturschutzgesetzes insbesondere durch Förderung von Neu- und Nachpflanzungen der in den jeweiligen Gewannen standorttypischen Gewächse,
+Insbesondere:
+
+1. Erhalt der zahlreichen naturnah bewirtschafteten Gartenflächen in den Gewannen „Hausen“, „Hartwiesen“, „Hart“, „Schelmenäcker“ und „Vor der Hart“ in ihrer natürlichen Eigenart;
+
+2. Erhalt der noch offenen Landschaftsteile wie der Streuobstwiesen und sonstiger nicht eingefriedeter Flächen zwischen dem „Fasanengarten“ und dem westlichen Ortsrand von Weilimdorf. Erweiterung der offenen Flächen durch Rückbau nicht bestandsgeschützter Einfriedigungen und sonstiger Sperren. Weiterentwicklung und Herstellung von ökologischen Ausgleichsflächen durch Entsiegelung von befestigten Bodenflächen (z. B. Rückbau von nicht benötigten Straßen, Wegen, Stellplätzen usw.);
 
 2
 
-Verordnung über das Landschaftsschutzgebiet ”Dornhalde - Haldenwald”
+Verordnung der Landeshauptstadt Stuttgart als untere
 
-3/2 d
+3/2k
 
-7. Erhalt des sich an die Landschaftsschutzgebiete ”Waldfriedhof - Dornhalde” und ”Schimmelhüttenweg” anschließenden Wald- und Streuobstwiesengebietes als Teil des von Heslach bis nach Kaltental reichenden Biotopverbundsystems,
-8. Sicherung des kombinierten Lebensraumes aus Kleingewässern, Mischwald und offener Landschaft als Rückzugsgebiet besonders geschützter Tierarten, insbesondere des Feuersalamanders, des Bergmolches und der vom Aussterben bedrohten Vogelarten Mittelspecht, Halsbandschnäpper und Wendehals,
-9. Entwicklung und Förderung ökologischer Ausgleichsflächen, insbesondere durch den Rückbau vorhandener Sperren und Entsiegelung von Bodenflächen,
-10. Erhalt und Förderung des naturnahen Verlaufs und der biologischen Durchgängigkeit der ”Schwälblesklinge” und des ”Kohlbaches”,
-11. Erhalt der durch extensive Bewirtschaftung gewährleisteten Vegetationsvielfalt als Voraussetzung der Lebensraumsicherung vieler Brutvögel, insbesondere der vom Aussterben bedrohten Vogelarten Mittelspecht, Halsbandschnäpper und Grauspecht,
-12. Sicherung der artenreichen Mischwaldgebiete ”Haldenwald” und ”Kohlhau” in ihrer Artenvielfalt u. a. als Standort besonders geschützter Pilzarten sowie von Orchideen.
+Naturschutzbehörde über das Landschaftsschutzgebiet „Weilimdorf-West“
+
+3. Erhalt, naturnahe Entwicklung und Pflege der noch unverbauten Abschnitte der Fließgewässer „Schnatzgraben“, „Aischbach“, „Beutenbach“, „Lachengraben“ und „Lindenbach“. Wiederherstellung von natürlichen Bachläufen durch Renaturierungsmaßnahmen bei verbauten Abschnitten;
+
+4. Erhalt und Förderung der durch ältere bäuerliche Nutzungsformen noch geprägten Kulturlandschaft wie dem Streuobstanbau und der offenen Wiesennutzung insbesondere in den Gewannen „Ob der Ditzinger Straße“, „Gerlinger Weg“, „Rennsträßle“, „Reute“, „Schmalwiesen“ und „Blauäcker“;
+
+5. Erhalt und Sicherung der Vegetationsbestände im Bereich „Grüner Heiner“ sowie des Waldgebietes „Hartwald“ als besonders markante Landschaftsteile , als Naherholungsgebiet und Lebensraum bedrohter einheimischer Tierund Pflanzenarten (z.B. Pirol, verschiedene Wildbienen, Schmetterlinge und Speierlingbaum);
+
+6. Freihaltung der klimaaktiven Bereiche wie den Kaltlufteinzugsgebieten und Frischluftströmungsbahnen insbesondere der „Reisachmulde“, entlang des „Schnatzgrabens“, des „Beutenbaches“ sowie des „Lachengrabens“;
+
+7. Erhalt der natürlichen Böden als Grundlage für die Entwicklung und Förderung von Streuobstwiesen und Grünlandschaften im Rahmen des Biotopverbundes.
 
 §4 Verbote
 
 In dem Landschaftsschutzgebiet sind alle Handlungen verboten, die den Charakter des Gebietes verändern oder dem Schutzzweck zuwiderlaufen, insbesondere wenn dadurch
 
-1. der Naturhaushalt geschädigt wird,
-2. die Nutzungsfähigkeit der Naturgüter nachhaltig gestört wird, 3. eine im Sinne des § 3 geschützte Flächennutzung auf Dauer geändert wird, 4. das Landschaftsbild nachteilig geändert oder die natürliche Eigenart der
-Landschaft auf andere Weise beeinträchtigt wird oder
+1. der Naturhaushalt geschädigt wird;
+
+2. die Nutzungsfähigkeit der Naturgüter nachhaltig gestört wird;
+
+3. eine im Sinne des § 3 geschützte Flächennutzung auf Dauer geändert wird;
+
+4. das Landschaftsbild nachhaltig geändert oder die natürliche Eigenart der Landschaft auf andere Weise beeinträchtigt wird;
+
 5. der Naturgenuss oder der besondere Erholungswert der Landschaft beeinträchtigt wird.
 
-Stuttgarter Stadtrecht 3. Erg.-Lfg. (August 2000)
+Stuttgarter Stadtrecht 11. Erg.-Lfg. (August 2008)
 
 3
 
-3/2 d
+3/2k
 
-Verordnung über das Landschaftsschutzgebiet ”Dornhalde - Haldenwald”
+Verordnung der Landeshauptstadt Stuttgart als untere
+
+Naturschutzbehörde über das Landschaftsschutzgebiet „Weilimdorf-West“
 
 §5 Erlaubnisvorbehalt
 
-(1) Handlungen, die den Charakter des Gebietes verändern oder dem besonderen Schutzzweck zuwiderlaufen können, bedürfen der Erlaubnis der unteren Naturschutzbehörde.
+(1) Handlungen, die den Charakter des Gebietes verändern oder dem Schutzzweck zuwiderlaufen können, bedürfen der schriftlichen Erlaubnis der unteren Naturschutzbehörde.
 
-(2) Der Erlaubnis bedarf es insbesondere,
+(2) Der Erlaubnis bedürfen insbesondere folgende Handlungen:
 
-1. wesentliche Landschaftsbestandteile wie Trockenmauern, landschaftsprägende Bäume, Gebüsche, Hecken, Feld- und Ufergehölze, Obsthochstämme, Böschungen, Felsen und ähnliche Naturerscheinungen, die zur Zierde und Belebung des Landschaftsbildes beitragen oder die der Erhaltung der wildlebenden Tier- und Pflanzenwelt dienen, zu beseitigen, zu zerstören oder zu ändern;
-2. das Recht des Betretens der freien Landschaft im Sinne des Naturschutzgesetzes durch Sperren zu beschränken;
-3. bauliche Anlagen im Sinne der Landesbauordnung zu errichten oder der Errichtung gleichgestellte Maßnahmen durchzuführen. Instandsetzungs- und Unterhaltungsarbeiten an oder in zulässigerweise errichteten baulichen Anlagen bedürfen keiner Erlaubnis;
-4. Straßen, Wege, Plätze oder sonstige Verkehrsanlagen anzulegen, oberoder unterirdische Leitungen zu verlegen oder Anlagen dieser Art zu verändern;
-5. Stätten für Sport und Spiel, einschließlich Motorsportanlagen, anzulegen oder zu verändern;
-6. Flugplätze oder Gelände für das Starten und Landen von Luftsportgeräten (z. B. Hängegleiter, Gleitflugzeuge, Gleitfallschirme) sowie Gelände für den Aufstieg von Flugmodellen, die der luftverkehrsrechtlichen Erlaubnis bedürfen, anzulegen oder zu verändern;
-7. fließende oder stehende Gewässer anzulegen, zu beseitigen oder zu verändern sowie Entwässerungs- oder andere Maßnahmen vorzunehmen, die den Wasserhaushalt verändern;
-8. Plakate, Bild- oder Schrifttafeln aufzustellen oder anzubringen, mit Ausnahme behördlich zugelassener Beschilderungen;
-9. die Bodengestalt zu verändern, insbesondere durch Auffüllungen und Abgrabungen;
-10. neu aufzuforsten oder Christbaum- und Schmuckreisigkulturen und Vorratspflanzungen von Sträuchern und Bäumen anzulegen;
+1. Beseitigung, Zerstörung oder Änderung von landschaftsprägenden oder ökologisch wertvollen Landschaftsbestandteilen wie z. B. markanten Bäumen, Hecken, Feld- oder Ufergehölzen, Schilf- oder Röhrichtbeständen, Obsthochstämmen, Felsen oder Trockenmauern;
+2. Errichtung von baulichen Anlagen im Sinne der Landesbauordnung in der jeweils geltenden Fassung oder Maßnahmen, die der Errichtung gleichgestellt sind. Ausgenommen sind Instandsetzungs- und Unterhaltungsmaßnahmen an legalen baulichen Anlagen;
+3. Errichtung oder Veränderung von Einfriedigungen und Sperren jeder Art (auch durch Hecken, Schilder usw.), welche das Betreten der freien Landschaft verhindern oder einschränken;
+4. Anlage oder Veränderung von Straßen, Wegen, Plätzen oder anderen Verkehrsanlagen. Verlegen oder Ändern von ober- oder unterirdischen Leitungen aller Art;
+5. Veränderung der Bodengestalt durch Auffüllungen oder Abgrabungen, insbesondere Abbau, Entnahme oder Einbringen von Steinen, Kies, Sand, Lehm oder anderen Bodenbestandteilen, Vornahme von Bohrungen;
+
+6. Anlage, Beseitigung oder Änderung von fließenden oder stehenden Gewässern sowie Maßnahmen vorzunehmen, die den Wasserhaushalt verändern können (z. B. Entwässerung von Wiesen);
+
+7. Aufstellen oder Anbringen von Plakaten, Bild- oder Schrifttafeln, soweit sie nicht behördlich aufgrund anderer Rechtsvorschriften zugelassen sind;
+8. Lagern von Gegenständen und Materialien, soweit sie nicht zur zulässigen Nutzung des Grundstückes erforderlich sind und störend wirken. Insbesondere Lagern von Abfällen, alten Fässern, alten Fahrzeugen oder Fahrzeugteilen, Baumaterialien usw.;
+9. Aufstellen von Wohnwagen oder Verkaufständen, Abstellen von Kraftfahrzeugen und Anhängern außerhalb der zugelassenen Plätze und mehrtägiges Zelten;
 
 4
 
-Verordnung über das Landschaftsschutzgebiet ”Dornhalde - Haldenwald”
+Verordnung der Landeshauptstadt Stuttgart als untere
 
-3/2 d
+3/2k
 
-11. Art und Umfang der bisherigen Grundstücksnutzung entgegen dem Schutzzweck zu ändern;
-12. Dauergrünland oder Dauerbrache umzubrechen;
-13. nicht heimische Gehölze entsprechend der Begriffsbestimmung des Bundesnaturschutzgesetzes oder nicht bodenständige Gehölze, insbesondere Nadelgehölze, an- oder nachzupflanzen;
-14. chemische Pflanzenschutzmittel außerhalb land- und forstwirtschaftlich genutzter Grundstücke zu verwenden;
-15. Motorsport zu betreiben oder mit Motorschlitten zu fahren;
-16. länger als eine Woche zu zelten oder zu lagern sowie unabhängig von der Dauer Wohnwagen oder Verkaufstände aufzustellen oder Kraftfahrzeuge abzustellen, soweit diese nicht zur Ausübung von zulässigen Grundstücksnutzungen, etwa während Be- und Entladevorgängen, benötigt werden. Baurechtliche und straßenverkehrsrechtliche Vorschriften bleiben hiervon unberührt;
-17. Gegenstände zu lagern, soweit sie nicht zur zulässigen Nutzung des Grundstückes erforderlich sind;
-18. Obsthochstämme zu beseitigen, soweit sich aus anderen öffentlichrechtlichen Vorschriften keine Beseitigungspflicht ergibt;
-19. die besonders geschützte Flächennutzung von obstbaumbestandenen Wiesenflächen in den Gewannen ”Kressart” und ”Dornhalde” zu ändern.
+Naturschutzbehörde über das Landschaftsschutzgebiet „Weilimdorf-West“
+
+10. Anlage von Christbaum- und Ziergehölzkulturen, Anpflanzung nicht heimischer, standortfremder Gehölze (entsprechend der Begriffsbestimmung des Bundesnaturschutzgesetzes);
+
+11. Umbruch von Grünland in Acker, Änderung der bisherigen Grundstücksnutzung z. B. von naturnahen Gartenflächen in reine Freizeitanlagen.
 
 (3) Die Erlaubnis ist zu erteilen, wenn die Handlung Wirkungen der in § 4 genannten Art nicht zur Folge hat oder solche Wirkungen durch Auflagen oder Bedingungen abgewendet werden können. Sie kann mit Auflagen, Bedingungen, befristet oder widerruflich erteilt werden, wenn dadurch erreicht werden kann, dass die Wirkungen der Handlung dem Schutzzweck nur unwesentlich zuwiderlaufen.
 
 (4) Die Erlaubnis wird durch eine nach anderen Vorschriften notwendige Gestattung ersetzt, wenn diese im Einvernehmen mit der unteren Naturschutzbehörde erteilt wird.
 
-Stuttgarter Stadtrecht 3. Erg.-Lfg. (August 2000)
+§6 Zulässige Handlungen
+
+Die §§ 4 und 5 gelten nicht:
+
+1. für die Nutzung im Rahmen einer ordnungsgemäßen Bewirtschaftung landwirtschaftlicher Grundstücke, ausgenommen Maßnahmen nach § 5 Absatz 2 Nrn. 1 und 5;
+
+2. für die Nutzung im Rahmen einer ordnungsgemäßen Bewirtschaftung forstwirtschaftlicher Grundstücke;
+
+3. für die ordnungsgemäße Ausübung der Jagd und Fischerei;
+
+4. für die ordnungsgemäße Nutzung, Unterhaltung und Instandsetzung von Straßen, Wegen, Plätzen und Gewässern sowie sonstigen Ver- und Entsorgungseinrichtungen, ausgenommen Maßnahmen wie z. B. Änderung des Belages, Neubaumaßnahmen im Uferbereich usw.;
+
+5. für die ordnungsgemäße Nutzung und Unterhaltung der Windkraftanlage „Grüner Heiner“ sowie deren Instandsetzung und Erneuerung entsprechend dem Stand der Technik innerhalb des in der Fortschreibung des Regionalplanes vom 28. April 2004 festgesetzten Vorranggebietes.
+
+Stuttgarter Stadtrecht 11. Erg.-Lfg. (August 2008)
 
 5
 
-3/2 d
+3/2k
 
-Verordnung über das Landschaftsschutzgebiet ”Dornhalde - Haldenwald”
+Verordnung der Landeshauptstadt Stuttgart als untere
 
-§6 Zulässige Handlungen
+Naturschutzbehörde über das Landschaftsschutzgebiet „Weilimdorf-West“
 
-(1) Die Verbote und Erlaubnisvorbehalte der §§ 4 und 5 gelten nicht für die im Sinne des Naturschutzgesetzes
+Schlussvorschriften
 
-1. ordnungsgemäße landwirtschaftliche Bodennutzung, die den Boden pflegt, Erosion und Humusabbau vermeidet, Gewässerrandstreifen und Ufer, oberirdische Gewässer und Grundwasser nicht in ihrer chemischen, physikalischen und biologischen Beschaffenheit beeinträchtigt und wild lebenden Tieren und Pflanzen ausreichenden Lebensraum erhält. Dies gilt insbesondere mit der Maßgabe, dass
-a) die Bodengestalt nicht verändert wird,
-b) Dauergrünland oder Dauerbrache nicht umgebrochen wird,
-c) wesentliche Landschaftsbestandteile, wie Trockenmauern, landschaftsprägende Bäume, Gebüsche, Hecken, Feld- und Ufergehölze, Obsthochstämme, Böschungen, Felsen und ähnliche Naturerscheinungen, die zur Zierde und Belebung des Landschaftsbildes beitragen oder die der Erhaltung der wild lebenden Tier- und Pflanzenwelt dienen, nicht beseitigt, zerstört oder geändert werden,
-d) eine im Sinne von § 3 geschützte Flächennutzung nicht geändert wird;
-2. ordnungsgemäße forstwirtschaftliche Bodennutzung;
-3. ordnungsgemäße Ausübung der Jagd und Fischerei.
-
-(2) Die Verbote und Erlaubnisvorbehalte der §§ 4 und 5 gelten des Weiteren nicht für die Beseitigung abgestorbener Obsthochstämme, wenn anstelle dieser Obsthochstämme auf demselben Grundstück ebenso viele junge Obsthochstämme nachgepflanzt werden.
-
-(3) Unberührt bleibt auch die Unterhaltung und Instandsetzung der Straßen, Wege, Plätze, Gewässer und der öffentlichen Ver- und Entsorgungseinrichtungen. Davon ausgenommen sind Maßnahmen nach § 5 Abs. 2 Nr. 1, sofern Unterhaltungs- und Instandsetzungsmaßnahmen nicht lediglich aus Verkehrssicherungsgründen vorgenommen werden. Erd-, Gras- und Schotterwege sowie Wege mit wasserdurchlässigen Oberflächen sind als solche zu erhalten.
-
-§7 Schutz- und Pflegemaßnahmen
-
-Schutz- und Pflegemaßnahmen werden durch die untere Naturschutzbehörde in einem Pflegeplan oder durch Einzelanordnung festgelegt, soweit sie nicht für Waldflächen im Forsteinrichtungswerk integriert sind. §§ 4 und 5 dieser Verordnung sind insoweit nicht anzuwenden.
-
-6
-
-Verordnung über das Landschaftsschutzgebiet ”Dornhalde - Haldenwald”
-
-3/2 d
-
-Schlussvorschriften §8
-Befreiungen
-
+§7 Befreiungen
 Von den Vorschriften dieser Verordnung kann nach § 63 NatSchG durch die untere Naturschutzbehörde Befreiung erteilt werden.
 
-§9 Ordnungswidrigkeiten
-
+§8 Ordnungswidrigkeiten
 (1) Ordnungswidrig im Sinne des § 64 Abs. 1 Nr. 2 NatSchG handelt, wer in dem Landschaftsschutzgebiet vorsätzlich oder fahrlässig
-
 1. entgegen § 22 Abs. 3 NatSchG in Verbindung mit § 4 dieser Verordnung Handlungen vornimmt, die den Charakter des Gebietes verändern oder dem besonderen Schutzzweck zuwiderlaufen,
+
 2. entgegen § 5 dieser Verordnung ohne vorherige Erlaubnis Handlungen vornimmt, die den Charakter des Gebietes verändern oder dem besonderen Schutzzweck zuwiderlaufen können.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße der in § 64 Abs. 3 NatSchG bestimmten Höhe geahndet werden.
 
-§ 10 In-Kraft-Treten
+§9 In-Kraft-Treten
+(1) Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
+(2) § 1 Abs. 1 Nrn. 4 und 5 der Landschaftsschutzverordnung vom 10. November 1961 (Amtsblatt Nr. 49 vom 07. Dezember 1961) treten außer Kraft.
 
-Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
-Stuttgarter Stadtrecht 3. Erg.-Lfg. (August 2000)
-
-7
+6
