@@ -1,0 +1,77 @@
+# 28. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2004-05-12T17:00:00+02:00
+- Ende: 2004-05-12T21:30:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=605
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=605
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=22835
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Petitionsausschuss des Abgeordnetenhauses - überwiesen
+- TOP 2.2: Don Cato Umwelt-Europameisterschaft 2004 - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Kostenloses Office-Paket für Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Impfkampagne auch in Oberstufenzentren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Erhalt der ambulanten Versorgungsstruktur - überwiesen
+- TOP 5.4: Information über die Erfahrungen mit der Abschaffung der Lernmittelfreiheit - überwiesen
+- TOP 5.5: Einstellung von Antragsformularen und lokalen bezirklichen Vorschriften auf der Internetseite des Bezirks - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Schulreifeuntersuchung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.7: Denkmal am Ende der Wiltinger Straße in Frohnau - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.8: Halteverbot in der Titiseestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Abschaffung der Sozialkarte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-291 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Sozialstrukturatlas Berlin 2003 - überwiesen
+- TOP 6.1.1: Bezirklichem Wertausgleich widersprechen - überwiesen
+- TOP 6.2: EU-Osterweiterung - Aufgabe und Chance für den Bezirk Reinickendorf - vertagt
+- TOP 7: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 7.1: Zusätzliche Hortplätze in der Reneé-Sintenis-Grundschule - erledigt
+- TOP 7.2: Anordnung von Tempo-30-km/h in der Nacht - erledigt
+- TOP 7.3: Schulschwänzen - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Rauchverbot auch an Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 7.5: Geschwindigkeitsüberprüfung im Bereich Schlossstraße/Ulmenstraße/Glienicker Straße - erledigt
+- TOP 7.6: Schulsanitätsdienst des ASB - ohne Änderungen in der BVV beschlossen
+- TOP 7.7: Parkverbot in der Buddestraße an der Einmündung zum Waidmannsluster Damm - ohne Änderungen in der BVV beschlossen
+- TOP 7.8: Fortführung des sog. Schulschwänzerprojekts "Leona" auf der Insel Scharfenberg - ohne Änderungen in der BVV beschlossen
+- TOP 7.9: Halteverbotsschild Buddestraße Ecke Waidmannsluster Damm - ohne Änderungen in der BVV beschlossen
+- TOP 7.10: Intensivierung der Zusammenarbeit zwischen AMVD e. V. und Heimatmuseum - ohne Änderungen in der BVV beschlossen
+- TOP 7.11: Aufbauklassen für Realschüler erhalten - erledigt
+- TOP 8: Anträge - (offen)
+- TOP 8.1: Betreuungsangebot Erpelgrund-Schule - überwiesen
+- TOP 8.2: Intranet - überwiesen
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: Einrichtung einer zweisprachigen Kita als Zeichen der Verbundenheit mit Frankreich - überwiesen
+- TOP 9.2: Erwerb der deutschen Staatsangehörigkeit in feierlichem Rahmen - überwiesen
+- TOP 9.3: Unterstützung der Kampagne "Hinsehen.Handeln.Helfen!" - überwiesen
+- TOP 9.4: Freigabe der Jagowstraße für Radfahrer - überwiesen
+- TOP 9.5: Risiken durch Tattoos und Permanent Make-up - überwiesen
+- TOP 9.6: Bericht über die Zusammenarbeit des Bezirkes Reinickendorf mit der EU - überwiesen
+- TOP 9.7: Ausstellung "Die braune Falle" auch in Reinickendorf zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Müllentsorgung in Kitas und Schulen effektivieren - überwiesen
+- TOP 9.9: Deutsch für Nichtbeamte - überwiesen
+- TOP 9.10: Beteiligung an der Solardachbörse - überwiesen
+- TOP 9.11: Intensive Nutzung des Bundestagangebotes "Parlamentarische Demokratie" - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Einrichtung von Radstreifen - überwiesen
+- TOP 9.13: Programm "respectABel" - überwiesen
+- TOP 9.14: Sportplatz Königshorster Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Mehr Einnahmen! - Bezirkseigene Fahrzeuge als Werbeträger - überwiesen
+- TOP 9.16: Teilnahme Reinickendorfer Oberschulen am Programm "WiS - Wissenschaft in die Schulen!" - überwiesen
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: Zeit- und ortsteilnahe Nutzung aller Notfallstationen der Reinickendorfer Krankenhäuser - überwiesen
+- TOP 10.2: Insektenfreundliche und Energie sparende Außenbeleuchtung in den waldnahen Außenbereichen des Bezirks Reinickendorf - überwiesen
+- TOP 10.3: Finanzhilfen aus dem Gemeindefinanzierungsgesetz (GVFG) - überwiesen
+- TOP 10.4: Radweg-Ausschilderung Ludwig-Lesser-Park - überwiesen
+- TOP 10.5: Prüfung der Verkehrssituation Fürstendamm / B96 - überwiesen
+- TOP 10.6: Zusätzliche Kurzparkzonen im Bereich Zeltinger Platz - überwiesen
+- TOP 11: Internet-Auftritt des Bezirks Reinickendorf - überwiesen
+- TOP 12: Internetauftritt des Bezirks - überwiesen
