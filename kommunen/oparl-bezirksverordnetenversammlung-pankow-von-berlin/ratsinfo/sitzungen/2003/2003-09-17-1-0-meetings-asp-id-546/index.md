@@ -1,0 +1,94 @@
+# 17. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2003-09-17T17:30:00+02:00
+- Ende: 2003-09-17T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=546
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=546
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.2: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.3: Dringlichkeitsanträge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.3.1: Umsetzung der Leitlinien für einen barrierefreien Bezirk Pankow - vertagt
+- TOP 1.3.2: Akuten Imageverfall und dauerhafte Brachlegung von Schloss Schönhausen dringend stoppen - vertagt
+- TOP 1.3.3: Kein "Maschendrahtzaun" in Pankow - vertagt
+- TOP 1.4: Mündliche Anfrage - vertagt
+- TOP 1.5: Bericht des Bezirksamtes - vertagt
+- TOP 1.6: Konsensliste - vertagt
+- TOP 1.7: Nachwahl einer Patientenfürsprecherin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.8: Wiederwahl bzw. Neuwahl von ehrenamtlichen Mitarbeitern und Mitarbeiterinnen in Sozialkommissionen und Arbeitsgruppen sowie für Sonderaufgaben - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Wiederwahl einer Schiedsperson für den Schiedsamtsbezirk 6 im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Wiederwahl einer Schiedsperson für den Schiedsamtsbezirk 7 im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Nachweis der im Haushaltsjahr 2002 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 1.12: Erlass einer Erhaltungsverordnung gemäß § 172 Abs. 1, Satz 1 Nr. 1 des BauGB für das Gebiet Ostseestraße/Grellstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Bezirkshaushaltsrechnungen der Bezirke Prenzlauer Berg, Weißensee und pankow von Berlin für das Haushaltsjahr 2000 - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Galerien in bezirklicher Trägerschaft - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Umbenennung einer Straße - mit Änderungen in der BVV beschlossen
+- TOP 1.16: Der Himmel über Pankow - Klimaschutz vor Ort - vertagt
+- TOP 1.17: Energiesparpartnerschaft zwischen dem Bezirk Pankow und Johnson Control - vertagt
+- TOP 1.18: Pankow für Europa - Mitgliedeschaft in der Euregio Pomerania anstreben - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Beteiligung der BVV und ihrer Ausschüsse bei der Aufstellung von B-Plänen - mit Änderungen in der BVV beschlossen
+- TOP 1.20: Windenergie sinnvoll nutzen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Lichtsignalanlage Berliner Allee/Buschallee - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Einrichtung zeitlich befristeter Parkmöglichkeit, Walter-Friedrich-Str., 13125 Berlin-Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Fahrradstellplätze auf der Blankenburger Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Ergänzung des Fahrradroutennetzes: Von der Linienstraße zum Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: KITA - Gebühren - beantwortet
+- TOP 1.26: Erhöhung der KiTa - Gebühren - beantwortet
+- TOP 1.27: Neue Gebührenordnung für Krippen-, Kita- und Hortplätze - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Neue Gebührenordnung für Krippen-, KiTa- und Hortplätze zurücknehmen! - in der BVV abgelehnt
+- TOP 1.29: Milchhäuschen Weißensee - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Ganztagsschule - zurückgezogen
+- TOP 1.31: Geschlechtergerechter Haushalt - ein dritter Schritt - schriftlich beantwortet
+- TOP 1.32: Bebauungsplan XIX-40i und Bebauungsplan XIX-59 - überwiesen
+- TOP 1.33: Nutzung der Laufbahn des kleinen Stadions des Jahnsportparks durch Läuferinnen und Läufer - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Mehr Sicherheit für Fußgänger I - Überquerungsmöglichkeiten über die Danziger Straße schaffen - überwiesen
+- TOP 1.35: Mendelssohnstraße als Einbahnstraße - überwiesen
+- TOP 1.36: Mehr Sicherheit für Fußgänger II - Überquerungsmöglichkeiten über die Eberswalder Straße schaffen - überwiesen
+- TOP 1.37: Fußgängerüberweg in der Zepernicker Straße im Ortsteil Buch - überwiesen
+- TOP 1.38: Fahrradroute vom Caligariplatz in den Landschsftspark Barnim - überwiesen
+- TOP 1.39: Beschluss zur Freigabe von 8.000 € als Kofinanzierung des Bezirks für das "Touristische Wegeleitsystem" aus Haushaltstitel 97113 in Kapitel 5950 - ohne Änderungen in der BVV beschlossen
+- TOP 1.40: Spielplatzbauvorhaben - ohne Änderungen in der BVV beschlossen
+- TOP 1.41: Mauerstreifen - überwiesen
+- TOP 1.42: Erhalt der Kleingärten in Pankow - mit Änderungen in der BVV beschlossen
+- TOP 1.43: Kahlschlag jetzt schon auf dem Schulhof? - beantwortet
+- TOP 1.44: Bauarbeiten an der Grundschule im Blumenviertel - ohne Änderungen in der BVV beschlossen
+- TOP 1.45: Baumaßnahmen und Verkehrssicherheit in der Kastanienallee und Friedrich-Engels-Straße in Wilhelmsruh/Rosenthal - beantwortet
+- TOP 1.46: Personalnotstand im Sozialamt - beantwortet
+- TOP 1.47: Denkmalbereich Alt-Karow - beantwortet
+- TOP 1.48: Schulwegsicherheit vor der 13. Grundschule in Wilhelmsruh/Rosenthal - ohne Änderungen in der BVV beschlossen
+- TOP 1.49: "Mauerpark als sicherer Ort" - in der BVV abgelehnt
+- TOP 1.50: Lehrerhaus Christburger Straße - beantwortet
+- TOP 1.51: Würdigung des Christopher Street Day - beantwortet
+- TOP 1.52: Zulässigkeit von Hallenfußball in für Fußball geeigneten Sporthallen - überwiesen
+- TOP 1.53: Jugendhilfe und Schule - beantwortet
+- TOP 1.54: Eliashof - überwiesen
+- TOP 1.55: Life Science Center Berlin-Buch - überwiesen
+- TOP 1.56: Spielgeräteunfall auf dem Humannplatz - schriftlich beantwortet
+- TOP 2: Komplex II - (offen)
+- TOP 2.1: Aufstellung einer Erhaltungssatzung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Erhaltungssatzung Ostseestraße / Grellstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Feuerstellen im Mauerpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Veränderung der Verkehrszeichenregelung Tempo 30 mit Zusatzschild, Rosenthaler Weg in Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Einheitliches Verfahren bei Nachaufträgen im Bezirksamt durchsetzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Geförderte Projekte freier Träger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Erhalt der Sozialkommissionen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Fortführung des Schülerclubprogrammes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Kautionen bei Abschluss von Mietverträgen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Mietspiegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Touristisches Wegeleitsystem für den Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Bebauungsplan XVIII-45a, Ortsteil Weißensee - Ergebnis der Auswertung der Beteiligung der Träger öffentlicher Belange, Titeländerung, Durchführung der öffentlichen Auslegung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Berliner Prater - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Nachtrag zum Doppelhaushaltsplan 2004/2005 - BA-Beschluss V-285/2003 Übersicht zur Überlassung landeseigener Grundstücke, Gebäude und Räume unter Wert (Nachtrag zur Drs. V - 0465/03) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Arbeitsanweisung zur Übertragung kommunaler Kindertagesstätten des Bezirks Pankow von Berlin auf Träger der freien Jugendhilfe und auf andere Trägerschaftsformen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Schließung Friedhof Gaillardstraße 8 - 10, 13187 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: 1. Nachschiebeliste zur Bezirksamtsvorlage V - 385 / 2003 - Entwurf des Doppelhaushaltsplanes 2004 / 2005 für den Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
