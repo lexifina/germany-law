@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund § 63 des Bremischen Wassergesetzes (BrWG) vom 13. März 1962 (SaBremR 2180-a-1), zuletzt geändert durch Artikel 54 des Gesetzes zur Anpassung des Landesrechts an das Einführungsgesetz zum Strafgesetzbuch und andere bundesrechtliche Vorschriften vom 18. Dezember 1974 (Brem.GBl. S. 351), wird für die stehenden Gewässer in der Stadtgemeinde Bremen mit Ausnahme des stadtbremischen Überseehafengebietes in Bremerhaven verordnet:
