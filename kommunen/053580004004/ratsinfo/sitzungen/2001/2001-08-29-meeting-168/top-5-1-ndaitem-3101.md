@@ -1,4 +1,4 @@
-# TOP 5.1.: Neubesetzung von Gremien
+# TOP 5.1.: Nachfolgebestimmung eines sachkundigen Bürgers
 
 - Sitzung: Gemeinderat (2001-08-29)
 - Körperschaft: Gemeinde Aldenhoven
