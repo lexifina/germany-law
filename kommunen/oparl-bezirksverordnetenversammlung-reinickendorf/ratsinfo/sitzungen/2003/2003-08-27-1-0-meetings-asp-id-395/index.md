@@ -1,0 +1,99 @@
+# 19. Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2003-08-27T17:00:00+02:00
+- Ende: 2003-08-27T21:40:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=395
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=395
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=17666
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Entwurf des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2004 und 2005 (Doppelhaushalt) - überwiesen
+- TOP 2.2: Haushaltsberatungen - überwiesen
+- TOP 2.3: Tätigkeit der Verwaltung des Jugendamtes Reinickendorf - überwiesen
+- TOP 2.4: Geregelter Unterricht statt Schulbuch-Chaos ! - ohne Änderungen in der BVV beschlossen
+- TOP 2.5: Umsetzung des Tarifvertrages in den Kitas - überwiesen
+- TOP 3: Konsensliste - überwiesen
+- TOP 4: Mündliche Anfragen - überwiesen
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Lärm macht krank - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Standortveränderungen der Bushaltestellen Linie 133 auf der Berliner Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Bessere Infrastruktur für die Patienten der KBoN - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Sinnvolle Differenzierung auf dem Gelände der KBoN - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Vorzug ambulanter Tagesplätze in Tageseinrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Reinickendorf ohne Hindernisse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Kampagne: "Rettet die Reinickendorfer Kastanien" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Behindertengerechte Einrichtung des Schwimmbades im MV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Programm-Konzept "Reinickendorfer Sommer" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Ausweitung der BVG-B-Zone nach Brandenburg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.11: Kurzparkzone in der Welfenallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Erhalt und Ausbau P & R am S-Bahnhof Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Markt am Rathaus qualifizieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Erhalt des Telebusses - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Verunreinigungen des Erdreichs am Interessentenweg nachgehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.16: Bürgerbeteiligung am Tourismuskonzept - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.17: Schnell reagieren - Roncalli-Markt nach Tegel holen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.18: Impfungen Jugendlicher Reisender mit Meningokokken-Impfstoff für Reisen in europäische Länder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.19: Kein Holz auf ausgewiesenen Reitwegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.20: Bessere Ausschilderung der Reitwege - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.21: Tore an den Wildschutzzäunen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.22: Energiesparen auch im Rathaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.23: Bestandssicherung einer Mauerseglerkolonie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.24: Schutzgitter vor der Kindertagesstätte in der Namslaustr. 45/47 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.25: Beseitigung der Sturmschäden am Gelände des Buddhistischen Hauses - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Abbau bezirklicher Rechte und Zuständigkeiten - beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 7.1: Gender-Mainstreaming - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Zukunft der Kitas im Bezirk gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Denkmal für die Gefallenen des 1. Weltkrieges am Ende der Wiltinger Straße in Frohnau - erledigt
+- TOP 7.4: Behindertenparkplätze am Schwimmbad Märkisches Viertel einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 7.5: Beschilderung für Behinderten-Parkplätze - ohne Änderungen in der BVV beschlossen
+- TOP 7.6: Verkehrsberuhigung in der Namslaustraße - in der BVV abgelehnt
+- TOP 7.7: "Sendemast-Park" in Lübars verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 7.8: Warmwasserbereitung in Bezirksgebäuden - erledigt
+- TOP 7.9: Tempo-30-Zone am Hermsdorfer Damm - ohne Änderungen in der BVV beschlossen
+- TOP 7.10: Bessere Beschilderung der Behindertenberatungszentrale - ohne Änderungen in der BVV beschlossen
+- TOP 7.11: Gemeinsame Reitwegemarke in Berlin und Brandenburg - ohne Änderungen in der BVV beschlossen
+- TOP 7.12: Folgen der Abschaffung von ABM und SAM - ohne Änderungen in der BVV beschlossen
+- TOP 7.13: Aufstellung von Sammelbehältern für Altglas und sonstige Wertstoffe auch in Frohnau - in der BVV zurückgezogen
+- TOP 7.14: Aufnahme des Rundweges und der Zuwegungen zum Rundweg des Poloplatzes in das öffentliche Wege- und Straßenregister - ohne Änderungen in der BVV beschlossen
+- TOP 7.15: Bericht zur Kooperation zwischen dem Ressort Jugend und der Polizei - ohne Änderungen in der BVV beschlossen
+- TOP 7.16: Telearbeitsplätze - ohne Änderungen in der BVV beschlossen
+- TOP 7.17: Vorgeschriebene Rechtsabfahrt Robinienweg/B 96 - ohne Änderungen in der BVV beschlossen
+- TOP 7.18: Vorbereitende Pflegemaßnahmen im Tegeler Fließ vor der Ausweisung als FFH-Fläche - ohne Änderungen in der BVV beschlossen
+- TOP 7.19: Pläne zum Havelausbau stoppen - überwiesen
+- TOP 7.20: Schützenswerte Tierarten in Reinickendorfs künftigen FFH-Gebieten - ohne Änderungen in der BVV beschlossen
+- TOP 7.21: Erschließungsauflagen bei Investitionsprojekten - in der BVV abgelehnt
+- TOP 7.22: Übertragung der Einrichtung "Walter May" an einen freien Träger - ohne Änderungen in der BVV beschlossen
+- TOP 7.23: "Aussteigekarte für Reisende im Seuchenverdachtsfall" - ohne Änderungen in der BVV beschlossen
+- TOP 7.24: Kinder- und Jugendkriminalität in Reinickendorf - mit Änderungen in der BVV beschlossen
+- TOP 8: Ersuchen - (offen)
+- TOP 8.1: Betreuungsangebot Hoffmann-von-Fallersleben-Grundschule unterstützen - überwiesen
+- TOP 8.2: Keine willkürliche Anwendung der Ausnahmezulassungen - überwiesen
+- TOP 8.3: Auflistung der 20 finanzstärksten externen Produkte im Bezirk - in der BVV zurückgezogen
+- TOP 8.4: Mobiles Bürgerbüro - überwiesen
+- TOP 8.5: Kein landesweiter Kindertagesstätten-Betrieb, sondern eigenverantwortliche Entscheidung der Bezirke - überwiesen
+- TOP 8.6: Weiterentwicklung des Reinickendorfer Umwelttages - überwiesen
+- TOP 9: Empfehlungen - (offen)
+- TOP 9.1: Erhalt der Angebote für Schüler mit sonderpädagogischem Förderbedarf - überwiesen
+- TOP 9.2: Beibehaltung der Sportförderung - mit Änderungen in der BVV beschlossen
+- TOP 9.3: Auffahrt zur Bundesfernstraße im Kreuzungsbereich Schulzendorfer Straße - überwiesen
+- TOP 9.4: Blockademuseum des AMVD e. V. - überwiesen
+- TOP 9.5: Straßenbenennung für die neue Verbindung zum ABB-Gelände - überwiesen
+- TOP 9.6: Besetzung der Krankenhausbeiräte - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Beseitigung einer illegalen Sperrmüllablagerung - in der BVV zurückgezogen
+- TOP 9.8: Erhalt der Freiwilligen Feuerwehren - überwiesen
+- TOP 9.9: Beseitigung einer Bodenversiegelung - überwiesen
+- TOP 9.10: Sicherung der Kleingartenkolonien - überwiesen
+- TOP 9.11: Keine Reduzierung von Standorten der Polizeiabschnitte in Reinickendorf - überwiesen
+- TOP 10: Neuwahl der Mitglieder und stellvertretenden Mitglieder des Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Sprachstandsmessungen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Impfkampagne auch in Oberstufenzentren - ohne Änderungen in der BVV beschlossen
