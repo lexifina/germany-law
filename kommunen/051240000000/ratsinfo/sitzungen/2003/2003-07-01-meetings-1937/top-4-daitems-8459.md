@@ -1,0 +1,8 @@
+# TOP 4: REGIONALE 2006
+
+- Sitzung: öffentliche Sitzung der Bezirksvertretung Oberbarmen (2003-07-01)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/8459
+- Ergebnis: Kenntnis genommen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/4626
