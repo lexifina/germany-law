@@ -7,6 +7,10 @@ b)
 Evangelische Kirche der Kirchenprovinz Sachsen
 c)
 Evangelische Kirche des Görlitzer Kirchengebiets
+d)
+Evangelische Kirche in Berlin-Brandenburg
+e)
+Evangelisch-Lutherische Kirche in Thüringen
 2. Im Bereich der Katholischen Kirche:
 a)
 Bistum Dresden-Meißen
