@@ -1,0 +1,108 @@
+# 12. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2002-12-19T17:30:00+01:00
+- Ende: 2002-12-19T23:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=273
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=273
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=20795
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - erledigt
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Öffentliche Toiletten - Sauberkeit am Hansaplatz
+- TOP 3.2: Jugendeinrichtung Koloniestraße 116
+- TOP 3.3: Schwitzen in der Schule
+- TOP 3.4: Unseriöser Hospizbetreiber im Gesundheitszentrum Moabit?
+- TOP 3.5: Paechbrot - Areal
+- TOP 3.6: Personalausstattung in Berlins Kindertagesstätten
+- TOP 3.7: Baumfällung am Nordufer?
+- TOP 3.8: Hat das Landesschulamt Angst vorm Dunkeln?
+- TOP 3.9: Postfuhramt
+- TOP 3.10: Jugend-, Kultur- und Kommunikationszentrum Torstraße 153 in Mitte
+- TOP 3.11: Brandschaden am Heimatmuseum
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Haushaltsdurchführung 2003 des Bezirkes Mitte
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Kosten und Nutzen der Facility-Management-Software Busy
+- TOP 5.2: Festsetzung von B-Plänen
+- TOP 5.3: "Druckräume" in Moabit
+- TOP 5.4: Ergebnisse bei T und Z
+- TOP 5.5: Verwertung von nutzbarem Büromaterial
+- TOP 5.6: Grundsicherungsamt
+- TOP 5.7: Graffiti-Schäden im Bezirk Mitte
+- TOP 5.8: Hochschulmedizin/ Klinikstandorte in Mitte
+- TOP 5.9: Sporthalle Schulstraße/ Ruheplatzstraße
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Bebaungsplanentwurf III-43-3 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-43-3
+- TOP 8.2: Sitzungsplan der Ausschüsse für das Jahr 2003
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Soziale Stabilisierung im Huttenkiez - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.2: Parlament der Bäume wieder öffnen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.3: Drogenproblematik/Drogenszene rund um das Gesundbrunnen-Center - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.4: Hinweisschild für die Gedenkstätte "Berliner Mauer" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.5: Erscheinungsbild eines Straßenabschnitts vor der Gedenkstätte "Berliner Mauer" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.6: Senkrecht-Parken in der Flensburger Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.7: Einrichtung eines Wartehäuschens in der Annenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.8: Titel für einen Fonds zur Unterstützung öffentlichen ehrenamtlichen Engagements - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.9: Neue Regierung - altes Leid: Love-Parade wieder im Tiergarten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.10: Love-Parade - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.11: Tempolimit Transvaalstraße
+- TOP 9.12: IuK-Technik - Ausstattung der Dienststellen
+- TOP 9.13: Beibehaltung der Nutzung des Geländes des ehemaligen Krankenhauses Moabit als Naherholungsbereich für die Bevölkerung
+- TOP 9.14: Verkehrsplanung S 21 - Schließung Tegeler Straße / Erweiterung B-Plan-Entwurf Nr. III-212
+- TOP 9.15: Zukunft der ´ehemaligen´ Weddinger Seniorenwohnheime
+- TOP 9.16: Love-Parade (Drucksache Nr. I/421, I. Wahlperiode)
+- TOP 9.17: Keine Fehlsubventionierung der Love-Parade (weder durch Einstufung als politische Demonstration noch durch Mitveranstaltung des Senats) (alt: Drucksachen Nr. I/339)
+- TOP 9.18: Fahrradständer an U-Bahnhöfen (alt: Drucksachen Nr. I/310)
+- TOP 9.19: Straßenmarkierung Holzmarktstraße (alt: Drucksachen Nr I/52)
+- TOP 9.20: Gedenktafel am Dienstgebäude Iranische Straße (alt: Drucksachen Nr. I/114)
+- TOP 9.21: Keine Mobilfunkanlagen auf Schulen, Kindertagesstätten und Krankenhäusern ( alt: Drucksachen Nr I/534)
+- TOP 9.22: Energie- und Umweltbericht (alt: Drucksache Nr. I/105)
+- TOP 9.23: Standortwechsel der Schillerbibliothek von der Müllerstraße 48 a in das BDG Müllerstraße 147 - Nachnutzung ehemaliger BVV-Saal, Rathaus Wedding/ Neubau - und zukünftiger Ausbau des sog. Luftgeschosses BVV-Saal zur Bibliothek
+- TOP 9.24: Verwendung der von der Senatsverwaltung für Stadtentwicklung dem Bezirk Mitte im Jahr 2001 zur Verfügung gestellten Sachmittel zur Unterstützung des ehrenamtlichen Engagements vor Bürgerinnen und Bürgern
+- TOP 9.25: Beschluss über das Anhörungsergebnis der Bürgerbeteiligung gem § 3 Abs. 1 Baugesetzbuch (BauGB) zum Bebauungsplanentwurf II-105-3- und den Bebauungsplanentwurf III-105-3 für die Beteiligung der Träger öffentlicher Belange gem. § 4 BauGB
+- TOP 9.26: Übertragung der Kindertagestätte Sebastianstraße 23 an den freien Träger "GFJ - gemeinnützige Gesellschaft für Familien- und Jugendhilfe mbH" am 01.01.2003 durch Nutzungsvertrag
+- TOP 9.27: Sicherung einer umfassenden Wahrnehmung des Kinder- und Jugendgesundheitsdienstes alt: Drucksache Nr. XVI/488 (Wedding)
+- TOP 9.28: Trägerwechsel LHO-Betrieb Weddinger Senioreneinrichtungen hier: Seniorenheime Graunstraße 13 und Schwyzer Straße 7 ( BA-Beschluss Nr. 185/II)
+- TOP 9.29: Trägerwechsel LHO-Betrieb Weddinger Senioreneinrichtungen; hier: Seniorenheim Schulstraße 97 (BA-Beschluss Nr. 359/II)
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Sozial-ökologische Sanierung des Gebäudes Lehrter Straße 35 Kulturfabrik in Berlin Mitte, Ortsteil Moabit
+- TOP 10.2: Dubiosen Hospizbetreiber verhindern!
+- TOP 10.3: Hochschulmedizin/ Klinikstandorte in Mitte
+- TOP 10.4: Zukünftige Gestaltung auf dem Grundstück Koppenplatz 12
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Dokumentation "nicht misshandeln" - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Krankenhausbeirat
+- TOP 11.3: Sicherung von Wohnnutzungen im Bezirk Mitte
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Karnevalsumzug in Berlin
+- TOP 12.2: Kein großflächiger Einzelhandel an der Alexanderstraße
+- TOP 12.3: Sportstättenentwicklungsplan
+- TOP 12.4: Konzeption zur Arbeitsvermittlung von Sozialhilfeempfangenden
+- TOP 12.5: Umsetzung des Armutsberichts
+- TOP 12.6: Vorklassen retten!
+- TOP 12.7: Vorschlagsrecht für die Vergabe von Lottomitteln
+- TOP 12.8: Happy Birthday Beschwerdemanagement - 2 Jahre und das Bezirksamt findet keine Worte
+- TOP 12.9: Realistische Raumbedarfsmessung an den Schulen
+- TOP 12.10: Schulen für junge KünstlerInnen öffnen
+- TOP 12.11: Konzept der AG "Hunde in der Großstadt" im Quartiersmanagement Moabit West
+- TOP 12.12: Biotonne erhalten
+- TOP 12.13: Fahrradstellplätze Lehrter Bahnhof
+- TOP 12.14: Behindertengerechte Aufgänge / Aufzüge am Lehrter Bahnhof
+- TOP 12.15: Behindertengerechte Aufzüge U-Bahn Amrumer Straße
+- TOP 12.16: Keine Baumfällungen ohne Straßenbahn
+- TOP 12.17: Umgang mit dem Bauvorhaben auf dem Gelände Auguststraße 5a/ Oranienburger Straße 35-36/ Tucholskystraße 19/21 (Postfuhramt)
+- TOP 12.18: Sammlung gebrauchter Druckerpatronen
