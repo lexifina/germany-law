@@ -1,0 +1,6 @@
+# TOP 9: Satzungsbeschluß B-Plan 430
+
+- Sitzung: Rat der Stadt Neuss (2003-05-16)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/109522
