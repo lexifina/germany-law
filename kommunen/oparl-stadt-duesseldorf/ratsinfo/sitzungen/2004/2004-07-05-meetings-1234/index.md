@@ -1,0 +1,63 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-07-05T15:00:00+02:00
+- Ende: 2004-07-05T16:08:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1234
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1234
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111270.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111270.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111270.pdf
+
+## Tagesordnung
+
+- TOP 1: Sachverständiger - einstimmig beschlossen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Multifunktionsarena - zur Kenntnis genommen
+- TOP 5: Bekanntgabe üpl + apl 2004 - einstimmig beschlossen
+- TOP 6: Folgekosten bzgl. B+F - einstimmig beschlossen
+- TOP 7: Kioskabriss Kamper Acker - üpl - - passieren lassen
+- TOP 8: Verlagerung eines Tennisclubs - einstimmig beschlossen
+- TOP 9: Grundsatzbeschluß Neukonzeption Stadtmuseum - einstimmig beschlossen
+- TOP 10: Erweiterung JFE Kiefernstraße 21 - einstimmig beschlossen
+- TOP 11: Zuschüsse für Investitionen an freie Träger - einstimmig beschlossen
+- TOP 12: Sanierung Südallee - einstimmig beschlossen
+- TOP 13: Neubau Peckhausweg - einstimmig beschlossen
+- TOP 14: Sporthalle Deutzer Straße - einstimmig beschlossen
+- TOP 15: Neubau 3-fach Sporthalle Hansaallee - einstimmig beschlossen
+- TOP 16: Neubau DTTZ - einstimmig beschlossen
+- TOP 17: Philips-Halle, Siegburger Str. , Brandschutz - Inf - einstimmig beschlossen
+- TOP 18: Brinckmannstr. 16 Neubau behindertengerechte Dreif - einstimmig beschlossen
+- TOP 19: Schulneubau Salierstraße 37 - Bau- und Finanzierun - einstimmig beschlossen
+- TOP 20: Sanierung Lohauser Deich - einstimmig beschlossen
+- TOP 21: Leistungen für Dritte - einstimmig beschlossen
+- TOP 22: VK Heerdt - mehrheitlich beschlossen
+- TOP 23: L404 Grundsatzbeschluss - passieren lassen
+- TOP 24: Erneuerung LZA / üpl Mittel - einstimmig beschlossen
+- TOP 25: Sport- und Spiel - einstimmig beschlossen
+- TOP 26: Kurat. d. Stiftung Kunsts. NRW - einstimmig beschlossen
+- TOP 27: Wiederbest. für den Umlegungsausschuss - einstimmig beschlossen
+- TOP 28: Schiedsmann - einstimmig beschlossen
+- TOP 29: Prüfungsordnung - einstimmig beschlossen
+- TOP 30: Gen. Dienstreise - einstimmig beschlossen
+- TOP 31: Verleihung der Förderpreise 2004 - einstimmig beschlossen
+- TOP 32: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 33: Region. Einzelhandelskonzept westl.Ruhrgeb.+Ddorf - einstimmig beschlossen
+- TOP 34: Satzung über den Umgang mit gestalterischem Licht - mehrheitlich beschlossen
+- TOP 35: B-Plan Nr. 6076/35 - Östl. Heyestr. - einstimmig beschlossen
+- TOP 36: B-Plan Nr. 6079/06 - Am Großen Dern - einstimmig beschlossen
+- TOP 37: BPlNr5675/36-Kirchstr AnregÄndiroterFSatzung - einstimmig beschlossen
+- TOP 38: Beteiligungsrichtlinien der Lhstd. Df. - passieren lassen
+- TOP 39: Kommunale Mitfinanzierung von OT-Betriebskosten - einstimmig beschlossen
+- TOP 40: Außenkabinen BSA Freiheitshagen - einstimmig beschlossen
+- TOP 41: Kleinspielfelder Arenasportpark - einstimmig beschlossen
+- TOP 42: Taxentarifordnung - passieren lassen
+- TOP 43: Änderungsantr. Bü90/Grü, Taxent. - zur Kenntnis genommen
+- TOP 44: Feuerwache Frankfurter Straße 245, 1. Bauabschnitt - einstimmig beschlossen
+- TOP 45: Erweiterung des Glasmuseums Hentrich - einstimmig beschlossen
+- TOP 46: Erste-HilfeKurse an Düsseldorfer Schulen - passieren lassen
