@@ -1,0 +1,7 @@
+# TOP 8: Planung für eine Neuauflage der Materialsammlung 2005 (Anlage)
+
+- Sitzung: 36. öffentliche Sitzung des Jugendhilfeausschusses (2005-01-06)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=16107
+- Ergebnis: (offen)
