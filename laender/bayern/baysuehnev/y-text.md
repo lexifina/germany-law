@@ -1,0 +1,1 @@
+Auf Grund von § 380 der Strafprozeßordnung und des Art. 2 Abs. 3 des Ausführungsgesetzes zur Strafprozeßordnung (AGStPO) vom 17. November 1956 (BayBS III S. 149) erläßt das Bayerische Staatsministerium des Innern im Einvernehmen mit dem Bayerischen Staatsministerium der Justiz folgende Verordnung:
