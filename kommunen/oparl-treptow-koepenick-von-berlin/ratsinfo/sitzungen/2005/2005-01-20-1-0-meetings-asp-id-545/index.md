@@ -1,0 +1,56 @@
+# 35. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2005-01-20T16:00:00+01:00
+- Ende: 2005-01-20T20:05:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=545
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=545
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=27972
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_37 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 7.1: Hartz IV - 1, Leerstehende Gebäude <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Constance S. Pewestorff)</span> - mit Änderungen in der BVV beschlossen
+- TOP 7.2: Hartz IV - 2, Zwei-Euro-Jobs <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Petra Reichardt)</span> - in der BVV zurückgezogen
+- TOP 7.3: Hartz IV - 4, Wahlmöglichkeit <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Constance S. Pewestorff)</span> - mit Änderungen in der BVV beschlossen
+- TOP 7.4: Hartz IV - 5, Arbeitsgelegenheiten mit Qualifizierung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Petra Reichardt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 7.5: Struktur-ABM <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach Verfasser 2: Karin Kant)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 7.6: Berichte der Europabeauftragten - ohne Änderungen in der BVV beschlossen
+- TOP 7.7: Bearbeitungsfristen von Widersprüchen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Klaus Chinea Correa)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.8: Nichtanwendbarkeit der Verordnung über die Teilungsgenehmigungspflicht im Bebauungsplan XV-46 im Bezirk Treptow-Köpenick, Ortsteil Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.9: Schwellenfreies Fahrradfahren <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Jochen Querengässer)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 7.10: Bebauungsplan XVI-83-1 hier: Einstellung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.11: Bebauungsplan 9-26 hier: Einleitung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.12: Änderungsbeschluss zum BA-Beschluss Nr. 98/01 vom 17.07.2001 für den Bebauungsplanentwurf XV-64b im Bezirk Treptow-Köpenick, Ortsteil Niederschöneweide <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.13: Wiederherstellung Ehrenmal für die Opfer des Nationalsozialismus <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Katharina Weise)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 7.14: Neue Benutzerbedingungen für Bibliotheken <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Monika Höppner)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 7.15: Kinderbuchkino - Zugang zur Literatur ebnen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Kathrin Bernikas)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 8.1: Änderungsbeschluss zum Bezirksamtsbeschluss Nr. 103/98 vom 24.11.1998 für den Bebauungsplanentwurf XV-27 im Bezirk Treptow-Köpenick, Ortsteil Altglienicke - Teilung des Bebauungsplans - Änderung der Planungsziele - Auswertung der TÖB <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 9: Anträge - gegenstandslos
+- TOP 9.1: Konzept zur Unterbringung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Heike Kappel)</span> - überwiesen
+- TOP 9.2: Feierstunde anlässlich des 15. Jahrestages der Deutschen Einheit <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Oliver Igel)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: "Tag des Ehrenamts" in Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Kathrin Bernikas Verfasser 2: Ulrich Stahr)</span> - in der BVV abgelehnt
+- TOP 9.4: ÖPNV-Haltestelle am Schlossplatz - in der BVV zurückgezogen
+- TOP 9.5: Behindertengerechte Tram 60 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach)</span> - überwiesen
+- TOP 9.6: Sicherung des Bobrowski-Arbeitszimmers als Literaturmuseum <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Oliver Igel)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Schulraumverbesserung für Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Kathrin Bernikas)</span> - überwiesen
+- TOP 9.8: Veränderungen von Linienführungen des ÖPNV im Bezirk <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach)</span> - überwiesen
+- TOP 9.9: Verkehrsberuhigung - Edisonstraße - überwiesen
+- TOP 9.10: Namensgebung für Rathausräume <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - überwiesen
+- TOP 9.11: Verkehrsregelung - Kreuzung Wilhelminenhofstraße / Siemensstraße - überwiesen
+- TOP 9.12: "Internetseiten" für ehrenamtliche Leistungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Kathrin Bernikas Verfasser 2: Ulrich Stahr)</span> - überwiesen
+- TOP 9.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Große Anfragen - gegenstandslos
+- TOP 10.1: Treptow-Köpenick als Solarbezirk und Nutzer regenerativer Energien - vertagt
+- TOP 10.2: Personalserviceagenturen der Arbeitsagentur Süd - vertagt
