@@ -1,0 +1,14 @@
+# Ausschuss für soziale Fragen (alt) (17. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 1983-09-28T17:00:00+01:00
+- Ende: 1983-09-28T18:45:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-123
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZa6p3FwsFnjuObj0RChwkNY
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6870
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
