@@ -1,0 +1,6 @@
+# TOP 3: Grünzug mit Wanderwegverbindung
+
+- Sitzung: Bezirksausschuss Holzheim (2003-06-24)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/104102
