@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 1995-07-20 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/akt_ehrenmaeler_1995
+- Datum: 1996-12-19 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/zweckverband_1996
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -27,14 +27,20 @@ A |
 
 Aktuelle Fassung
 
-Aufhebung des Erlasses des Ministers des Innern über die Behandlung sowjetischer Ehren- und Denkmäler
+Durchführung des Zweckverbandssicherungsgesetzes
 
-vom 20. Juli 1995
+vom 19. Dezember 1996
 
-(ABl./95, [Nr. 58], S.758)
+(ABl./97, [Nr. 1], S.2)
 
-Der Erlaß des Ministers des Innern über die Behandlung sowjetischer Ehren- und Denkmäler vom 13. Februar 1991 (ABl. S. 166) wird aufgehoben.
+Am 10. Dezember 1996 ist das Zweckverbandssicherungsgesetz (ZwVerbSG) vom 4. Dezember 1996 (GVBl. I S. 314) in Kraft getreten.
 
-Auf die Regelungen des Gesetzes über den Schutz und die Pflege der Denkmale und Bodendenkmale im Land Brandenburg vom 22. Juni 1991 (GVBl. S. 311) sowie des Abkommens vom 16. Dezember 1992 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Russischen Föderation über Kriegsgräberfürsorge (BGBl. II 1994 S. 598) wird hingewiesen.
+Es wird darauf hingewiesen, daß nach § 7 Abs. 1 ZwVerbSG die Beteiligten der tatsächlich in Vollzug gesetzten Zweckverbände innerhalb von drei Monaten nach Inkrafttreten des Gesetzes zur Sicherung der Arbeitsfähigkeit von Zweckverbänden der Aufsichtsbehörde einen Prüfungsbericht über seine wirksame Bildung und über erforderlich werdende Satzungsänderungen vorzulegen haben.
 
-Die Aufhebung tritt mit sofortiger Wirkung in Kraft.
+Für die zuständigen Aufsichtsbehörden ergibt sich aus dem Gesetz die Pflicht zur Bekanntmachung der erforderlichen Änderungssatzungen und der gültigen Verbandssatzungen der wirksam gegründeten Zweckverbände unter Hinweis auf deren Entstehungsdatum.
+
+Auf den Runderlaß II Nr. 8 - Az.: II/1-28-00 - vom 18. Juli 1996 wird hingewiesen.
+
+Nach § 1 Abs. 1 Nr. 1 ZwVerbSG ist es für die wirksame Bildung der Zweckverbände erforderlich, daß die Verbandssatzung den notwendigen Inhalt nach § 9 Abs. 2 Satz 1 1. Halbsatz des Gesetzes über kommunale Gemeinschaftsarbeit im Land Brandenburg aufweist. Die Zweckverbände und Aufsichtsbehörden werden darauf hingewiesen, daß die Verbandssatzungen darüber hinaus auch die Anforderungen des  § 9 Abs. 2 Satz 1 2. Halbsatz des Gesetzes über kommunale Gemeinschaftsarbeit im Land Brandenburg erfüllen  müssen.  Die
+
+Satzungen sind, falls erforderlich, entsprechend anzupassen. Auf die wirksame Gründung der Zweckverbände hat ein Fehlen der im 2. Halbsatz normierten Anforderungen keinen Einfluß.
