@@ -1,0 +1,7 @@
+# TOP 3: Bericht des Bezirksamtes
+
+- Sitzung: 21. (öfftl.) Sitzung des Ausschusses für Sport (2004-01-08)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=3984
+- Ergebnis: erledigt
