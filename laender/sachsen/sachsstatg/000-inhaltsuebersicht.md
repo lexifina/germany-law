@@ -12,6 +12,7 @@
 § 11 Erhebungen für besondere Zwecke
 § 12 Erhebungs- und Hilfsmerkmale
 § 13 Erhebungsvordrucke
+§ 13a Computergestützte Erhebungsverfahren
 § 14 Trennung und Löschung der Hilfsmerkmale
 § 15 Adreßdateien
 § 16 Erhebungsbeauftragte
