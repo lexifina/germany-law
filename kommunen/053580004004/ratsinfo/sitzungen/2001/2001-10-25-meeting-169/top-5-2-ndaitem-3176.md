@@ -1,4 +1,4 @@
-# TOP 5.2.: Satzungen, Ortsrecht
+# TOP 5.2.: Änderung der Geschäftsordnung des Rates hier: § 10 Teilnahme an Sitzungen
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
