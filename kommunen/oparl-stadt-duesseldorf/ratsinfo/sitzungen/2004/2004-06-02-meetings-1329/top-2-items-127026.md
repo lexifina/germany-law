@@ -1,0 +1,7 @@
+# TOP 2: Projektvorstellung
+
+- Sitzung: Jugendhilfeausschuss (2004-06-02)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/127026
+- Ergebnis: zur Kenntnis genommen
