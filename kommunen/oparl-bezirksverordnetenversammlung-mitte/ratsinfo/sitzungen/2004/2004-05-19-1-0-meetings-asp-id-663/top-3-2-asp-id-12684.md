@@ -1,0 +1,7 @@
+# TOP 3.2: Mieterberatung - Auswertung der öffentlichen Ausschreibung für Mieterberatung in den Sanierungsgebieten des Bezirkes Mitte; Auftragsnehmerwechsel Gäste: ASUM GmbH, neuer Auftragnehmer BfsS GmbH, ehemaliger Auftragnehmer
+
+- Sitzung: 27. öffentliche Sitzung des Ausschusses für Sanierung, Quartiersentwicklung und Bauen (2004-05-19)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=12684
+- Ergebnis: erledigt
