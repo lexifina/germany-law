@@ -1,0 +1,96 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-07-15T12:00:00+02:00
+- Ende: 2004-07-15T20:47:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1240
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1240
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111290.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111290.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111290.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 3: Akt. Anfr. SPD: Jahresabschluss - mehrheitlich abgelehnt
+- TOP 4: Anfragen - zur Kenntnis genommen
+- TOP 5: Anfrage Rh Laubenburg: Arbeit für alle - zur Kenntnis genommen
+- TOP 6: Anfr. SPD: Resolution Personalversammlung - zur Kenntnis genommen
+- TOP 7: Anfr. Bü90: Appell OVA - zur Kenntnis genommen
+- TOP 8: Anfr. CDU: ViD - zur Kenntnis genommen
+- TOP 9: Anfr. CDU: Hartz IV - zur Kenntnis genommen
+- TOP 10: Anfr. Lohse: Preiserh. VRR - zur Kenntnis genommen
+- TOP 11: anfr. SPD: Zukünftige Nutzung des VKW-Geländes - zur Kenntnis genommen
+- TOP 12: Einbringung des Haushaltsplanentwurfes 2005 - zur Kenntnis genommen
+- TOP 13: Neufassung Theodorstraße - mehrheitlich beschlossen
+- TOP 14: Erg.-antr. SPD: Eishalle Theodorstraße - mehrheitlich abgelehnt
+- TOP 15: Änd.-antr. Bü90: Eishalle Theodorstraße - mehrheitlich abgelehnt
+- TOP 16: Hartz IV - mehrheitlich beschlossen
+- TOP 17: ERg.-antr.Bü90: Hartz IV - mehrheitlich abgelehnt
+- TOP 18: Anträge - zur Kenntnis genommen
+- TOP 19: Antr. CDU/FDP: Unterrichtsausfall - mehrheitlich beschlossen
+- TOP 20: Änd.-antr. Bü90: Unterrichtsausfall - mehrheitlich abgelehnt
+- TOP 21: Änd.-antr. SPD: Unterrichtsausfall - mehrheitlich abgelehnt
+- TOP 22: Antr. CDU/FDP: Schwerpunktbildung Gymnasien - mehrheitlich beschlossen
+- TOP 23: Änd.-antr. SPD: Schwerpunktbildung Gymnasien - mehrheitlich abgelehnt
+- TOP 24: Antr. CDU/FDP: Kirchenkonzertleben - mehrheitlich beschlossen
+- TOP 25: Änd.-antr. SPD:Kirchen und Chor - mehrheitlich abgelehnt
+- TOP 26: Antr. Bü90: Masterplan Einzelhandel - mehrheitlich abgelehnt
+- TOP 27: Änd.-antr. CDU/FDP: Einzelhandel - mehrheitlich beschlossen
+- TOP 28: Antr.SPD: Bilker Arcaden - mehrheitlich abgelehnt
+- TOP 29: Antr. SPD: Spitze Speditionstraße - mehrheitlich abgelehnt
+- TOP 30: Antr. SPD: Neue Rahmenplanung für Stadthaus Mühlen - mehrheitlich abgelehnt
+- TOP 31: Erg.-antr. Bü90: Stadthaus - zur Kenntnis genommen
+- TOP 32: Jahresrechnung SSK - mehrheitlich beschlossen
+- TOP 33: Bekanntgabe üpl + apl 2004 - mehrheitlich beschlossen
+- TOP 34: Üpl. Kamper Acker - Neufassung - mehrheitlich beschlossen
+- TOP 35: Verlagerung eines Tennisclubs - einstimmig beschlossen
+- TOP 36: Erste-HilfeKurse an Düsseldorfer Schulen - einstimmig beschlossen
+- TOP 37: Erweiterung des Glasmuseums Hentrich - einstimmig beschlossen
+- TOP 38: Sanierung DOR - einstimmig beschlossen
+- TOP 39: Sanierung Schauspielhaus-Planungsauftrag - einstimmig beschlossen
+- TOP 40: Neukonzeption Stadtmuseum - einstimmig beschlossen
+- TOP 41: Erweiterung JFE Kiefernstraße 21 - einstimmig beschlossen
+- TOP 42: Zuschüsse für Investitionen an freie Träger - einstimmig beschlossen
+- TOP 43: Kommunale Mitfinanzierung von OT-Betriebskosten - einstimmig beschlossen
+- TOP 44: Sanierung Südallee - einstimmig beschlossen
+- TOP 45: Neubau Peckhausweg - einstimmig beschlossen
+- TOP 46: Sporthalle Deutzer Straße - einstimmig beschlossen
+- TOP 47: Neubau 3-fach Sporthalle Hansaallee - einstimmig beschlossen
+- TOP 48: Neubau DTTZ - einstimmig beschlossen
+- TOP 49: Außenkabinen BSA Freiheitshagen - einstimmig beschlossen
+- TOP 50: Kleinspielfelder Arenasportpark - einstimmig beschlossen
+- TOP 51: Philips-Halle, Siegburger Str. , Brandschutz - Inf - einstimmig beschlossen
+- TOP 52: Brinckmannstr. 16 Neubau behindertengerechte Dreif - einstimmig beschlossen
+- TOP 53: Schulneubau Salierstraße 37 - Bau- und Finanzierun - einstimmig beschlossen
+- TOP 54: Sanierung Lohauser Deich - einstimmig beschlossen
+- TOP 55: Leistungen für Dritte - einstimmig beschlossen
+- TOP 56: VK Heerdt - mehrheitlich beschlossen
+- TOP 57: Änd.-antr. SPD: Verkehrskonzept Heerdt/Oberkassel - mehrheitlich abgelehnt
+- TOP 58: L404 Grundsatzbeschluss - mehrheitlich beschlossen
+- TOP 59: Erneuerung LZA / üpl Mittel - einstimmig beschlossen
+- TOP 60: Feuerwache Frankfurter Straße 245, 1. Bauabschnitt - einstimmig beschlossen
+- TOP 61: Sport- und Spiel - einstimmig beschlossen
+- TOP 62: Kurat. d. Stiftung Kunsts. NRW - einstimmig beschlossen
+- TOP 63: Wiederbest. für den Umlegungsausschuss - einstimmig beschlossen
+- TOP 64: Umbesetzung Kommunalwahlausschuss - einstimmig beschlossen
+- TOP 65: Schiedsmann - einstimmig beschlossen
+- TOP 66: Beteiligungsrichtlinien der Lhstd. Df. - einstimmig beschlossen
+- TOP 67: Prüfungsordnung - einstimmig beschlossen
+- TOP 68: Taxentarifordnung - zur Kenntnis genommen
+- TOP 69: Taxentarif neu - einstimmig beschlossen
+- TOP 70: Verleihung der Förderpreise 2004 - einstimmig beschlossen
+- TOP 71: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 72: Region. Einzelhandelskonzept westl.Ruhrgeb.+Ddorf - einstimmig beschlossen
+- TOP 73: Satzung über den Umgang mit gestalterischem Licht - mehrheitlich beschlossen
+- TOP 74: Änd.-antr. Bü90: Lichtgestaltung - mehrheitlich abgelehnt
+- TOP 75: B-Plan Nr. 6076/35 - Östl. Heyestr. - einstimmig beschlossen
+- TOP 76: B-Plan Nr. 6079/06 - Am Großen Dern - einstimmig beschlossen
+- TOP 77: BPlNr5675/36-Kirchstr AnregÄndiroterFSatzung - einstimmig beschlossen
+- TOP 78: Familienkarte - mehrheitlich beschlossen
+- TOP 79: Änd.-antr. Bü90: Familienkarte - mehrheitlich abgelehnt
