@@ -1,0 +1,8 @@
+# TOP 9.1: Bad in der Cité Foch wieder öffnen
+
+- Sitzung: 22. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf (2003-11-12)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=4356
+- Ergebnis: erledigt
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=4356
