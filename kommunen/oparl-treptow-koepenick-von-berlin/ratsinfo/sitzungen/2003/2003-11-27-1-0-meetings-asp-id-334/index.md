@@ -1,0 +1,70 @@
+# 22. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2003-11-27T16:00:00+01:00
+- Ende: 2003-11-27T22:15:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=334
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=334
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=19886
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Wahl einer stellvertretenden Bürgerdeputierten - gewählt
+- TOP 8: Wahl einer Bürgerdeputierten - gewählt
+- TOP 9: Parkplätze in der Laurenzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10: Denkmal auf dem Platz des 23. April - ohne Änderungen in der BVV beschlossen
+- TOP 11: Jugend- und Kulturzentrum "Für Toleranz - gegen Gewalt" - ohne Änderungen in der BVV beschlossen
+- TOP 12: Wärmestuben - erledigt
+- TOP 13: Aufrechterhaltung eines ausreichenden Angebotes an Kältehilfe im Bezirk - mit Änderungen in der BVV beschlossen
+- TOP 14: Missbilligung - in der BVV abgelehnt
+- TOP 15: Redaktionsschluss der Schulbroschüre - zurückgezogen
+- TOP 16: Europaweiter Autofreier Tag - überwiesen
+- TOP 17: Italienische Wochen - mit Änderungen in der BVV beschlossen
+- TOP 18: Bürgerinformation zum Wasserturm Altglienicke - in der BVV abgelehnt
+- TOP 19: Entwicklung des Wissenschaftsstandortes Treptow-Köpenick durch bessere Kooperationen - überwiesen
+- TOP 20: Bebauungsplan Plänterwald - in der BVV zurückgezogen
+- TOP 21: Arbeitsmarktpolitik - vertagt
+- TOP 22: Liegenschaftsfonds - schriftlich beantwortet
+- TOP 23: Einbürgerung - schriftlich beantwortet
+- TOP 24: Trainingsraum für an Morbus Bechterew Erkrankte - ohne Änderungen in der BVV beschlossen
+- TOP 25: DDR-Unrechtsregime als Mahnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 26: Altstadtförderung statt Altstadtmanager - ohne Änderungen in der BVV beschlossen
+- TOP 27: Schule am Plänterwald - ohne Änderungen in der BVV beschlossen
+- TOP 28: Veränderung der Verkehrsorganisation an der Kreuzung Adlergestell/Wassersportallee - ohne Änderungen in der BVV beschlossen
+- TOP 29: Nachnutzung Schulsportanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 30: Haushaltsplan veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 31: Bezirksamt Treptow-Köpenick im Intranet - ohne Änderungen in der BVV beschlossen
+- TOP 32: - Umbenennung eines Teiles des Geltower Weges 24, 26, 28 und 30 (Flurstücke 2725/53 tlw., 2726/53, 2592/53, 2854 tlw.) in Altglienicke in "Kirschweg" und - Verlängerung des Kirschweges unter Einbeziehung der o.g. Flurstücke des Geltower Weges bis zurBrigittenwegbrücke (Flurstücke 2853, 2854, 2594/53, 2726/53, 2722/53 tlw., 2724/53 tlw., 2725/53 tlw.) und Benennung in "Kirschweg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 33: Bebauungsplan 9-21 hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 34: Schließung der Grundschule am Park - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 35: Regionale Ausbildungsverbünde - ohne Änderungen in der BVV beschlossen
+- TOP 36: Wuhlewanderweg - überwiesen
+- TOP 37: Doppelhaushalt adé - vertagt
+- TOP 38: Schuldnerberatung im Bezirk - überwiesen
+- TOP 39: Schließzeiten der Friedhöfe - überwiesen
+- TOP 40: Altstadtkonferenz - vertagt
+- TOP 41: Optimierung der LSA für Altstadtumfahrung - ohne Änderungen in der BVV beschlossen
+- TOP 42: Bürgeranhörung Starkstromtrasse Altglienicke - in der BVV zurückgezogen
+- TOP 43: Erörterungstermin Starkstromleitung Altglienicke vor Ort - ohne Änderungen in der BVV beschlossen
+- TOP 44: Ausgliedern von Aufgaben - überwiesen
+- TOP 45: Spreeuferweg Spindlersfeld-Niederschöneweide - überwiesen
+- TOP 46: Grundständiges Evangelisches Gymnasium für Treptow-Köpenick - überwiesen
+- TOP 47: Auswirkungen des Tarifvertrages - überwiesen
+- TOP 48: Gewaltprävention durch Treptow-Köpenicker Sportvereine - mit Änderungen in der BVV beschlossen
+- TOP 49: Grundständiges Gymnasium "Best-sabel" in Treptow-Köpenick - überwiesen
+- TOP 50: Entwicklungskonzept Regattastraße - überwiesen
+- TOP 51: Briefkasten Rathaus Treptow <span style="color: #888a85" title="Zusatzinfo">(Änderungsantrag ersetzt Ursprungsantrag)</span> - vertagt
+- TOP 52: Spielplatz Hasselwerderstr. 38 - mit Änderungen in der BVV beschlossen
+- TOP 53: Gesundheitsförderung und Gesundheitsmanagement - vertagt
+- TOP 54: Wasserturm Altglienicke - vertagt
+- TOP 55: Erhalt des Löschbootes der Berliner Feuerwehr - mit Änderungen in der BVV beschlossen
