@@ -1,0 +1,88 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2003-02-12T16:00:00+01:00
+- Ende: 2003-02-12T16:53:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/377
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/377
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00009735.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00014981.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Anregungen und Beschwerden gem. § 24 GO
+- TOP 3: Neue Fraktionsanträge
+- TOP 3.1: Medienentwicklungsplanung - ungeändert beschlossen
+- TOP 3.1.1: Medienentwicklungsplan - ungeändert beschlossen
+- TOP 3.2: Resolution: Keine Erhöhung der Landschaftsumlage
+- TOP 3.3: Gestrichen - Anmeldung zur TO zurückgezogen. - von der Tagesordnung gesetzt
+- TOP 3.4: Studienzweig der Gebärdensprache
+- TOP 3.5: Unterstützung behinderter Menschen - zur Vorberatung verwiesen
+- TOP 3.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7: Änderung der Verwaltungsgebührensatzung - zur Vorberatung verwiesen
+- TOP 3.8: Resolution - Offene Ganztagsgrundschulen - zur Vorberatung verwiesen
+- TOP 3.9: Bau eines neuen Bades / Standort Am Wunderbau - zur Vorberatung verwiesen
+- TOP 3.10: Tarifgemeinschaft - zur Vorberatung verwiesen
+- TOP 3.11: Kommission zur Reform der Gemeindefinanzen - ungeändert beschlossen
+- TOP 3.12: Vorsitz Ehrenrat - von der Tagesordnung gesetzt
+- TOP 3.13: Land und Bund belasten Landschaftsverbandsumlage - ungeändert beschlossen
+- TOP 3.14: Sozialhilfeempfänger - von der Tagesordnung gesetzt
+- TOP 3.15: Neueinteilung der Landtagswahlkreise / Resolution
+- TOP 3.15.1: Neueinteilung der Landtagswahlkreise - ungeändert beschlossen
+- TOP 4: Fraktionsanträge, die bereits in einem Gremium vor
+- TOP 4.1: Ein neuer Aufbruch - Regionale Zusammenarbeit - ungeändert beschlossen
+- TOP 4.2: Grünanlage Kolpingstraße - zurückgestellt
+- TOP 4.3: Lenkungsausschuss für Schwimmbad-Neubau - ungeändert beschlossen
+- TOP 5: Ortsrecht
+- TOP 5.1: Satzungsneufassung Obdachloseneinrichtung - ungeändert beschlossen
+- TOP 5.2: Gestrichen - Vorberatung nicht abgeschlossen! - vertagt auf Rat
+- TOP 6: Haushaltsangelegenheiten
+- TOP 7: Angelegenheiten des Beteiligungsmanagement
+- TOP 8: Planverfahren
+- TOP 8.1: Bauleitplanverfahren Nr 682- Hardt - Schwabenweg - ungeändert beschlossen
+- TOP 8.2: Bauleitplanverfahren Nr. 1000 - Widukindstr. - - ungeändert beschlossen
+- TOP 8.3: Bauleitplanverfahren Nr. 599 -Beckmannshof - ungeändert beschlossen
+- TOP 8.4: 2. Verlängerung einer Veränderungssperre BP 1021 - ungeändert beschlossen
+- TOP 8.5: Bauleitplanverfahren Nr. 1029, Satzungsbeschluss - ungeändert beschlossen
+- TOP 8.5.1: Bauleitplanverfahren Nr. 1029 - ungeändert beschlossen
+- TOP 9: Baumaßnahmen
+- TOP 9.1: N.N. - Behandlung erfolgt unter TOP 12.1.
+- TOP 9.2: Umsetzung der Rahmenplanung Döppersberg
+- TOP 9.2.1: Änderungsantrag zum Beschlußvorschlag VO/0986/02 - geändert beschlossen
+- TOP 9.3: Ausbau der Wuppertaler Schwebebahn - geändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Grundschulentwicklungsplanung - vertagt auf Rat
+- TOP 10.1.1: Finanzielle Auswirkungen der Grundschulentwicklung - vertagt auf Rat
+- TOP 10.1.2: Finanzwirtschaftliche Auswirkungen - vertagt auf Rat
+- TOP 10.1.3: Schulentwicklungsplanung - vertagt auf Rat
+- TOP 10.1.4: Grundschulentwicklungsplanung - vertagt auf Rat
+- TOP 10.1.5: Grundschulschließungen - Antrag der Ratsgruppe der - vertagt auf Rat
+- TOP 10.2: Vereinbarung zwischen der Dr. Werner Jackstädt- - ungeändert beschlossen
+- TOP 10.3: Vereinbarung zwischen der Brennscheidt-Stiftung - ungeändert beschlossen
+- TOP 10.4: Entwidmung bzw. Widmung von Obdachloseneinrichtung - ungeändert beschlossen
+- TOP 10.5: Naturpark Bergisches Land - ungeändert beschlossen
+- TOP 10.6: Wuppertal-Messe 2003 mit Wirtschaftstag - ungeändert beschlossen
+- TOP 10.7: Übergang der Aufgaben der Seniorenarbeit auf APH - ungeändert beschlossen
+- TOP 10.8: Gestrichen für TO Hauptausschuss (Vorberatung läuf - von der Tagesordnung gesetzt
+- TOP 10.9: Bildung einer Lenkungsgruppe - ungeändert beschlossen
+- TOP 10.9.1: zu TOP 10.9 Drs. Nr. VO/1051/03 - Neuf.
+- TOP 10.10: NN - Behandlung nur im RAT 17.02.2003.
+- TOP 10.11: N.N. - Behandlung erfolgt unter TOP 3.1.1.
+- TOP 10.12: Regionale 2006: Steuerung der Regionale-Projekte - ungeändert beschlossen
+- TOP 11: Gremienbesetzung / Benennung
+- TOP 11.1: Bestellung Aufsichtsratsmitglieder KWG - geändert beschlossen
+- TOP 11.1.1: zu TOP 11.1 Drs. VO/0936/02
+- TOP 11.2: Gremienbesetzung / Benennung - Seniorenbeirat - ungeändert beschlossen
+- TOP 11.3: Hauptversammlung des Deutschen Städtetages - ungeändert beschlossen
+- TOP 11.4: Gestrichen - TOP ist erledigt. - von der Tagesordnung gesetzt
+- TOP 11.5: Umbesetzungen - ungeändert beschlossen
+- TOP 11.6: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 11.7: Gremienbesetzungen - ungeändert beschlossen
+- TOP 11.8: Gremienbesetzung / Benennungen - ungeändert beschlossen
+- TOP 12: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 12.1: Umbau des Kirchengebäudes am Platz der Republik - Dringlichkeitsentscheidung genehmigt
