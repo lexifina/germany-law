@@ -1,0 +1,2 @@
+# Eingangsformel
+Auf Grund der Verordnung über die soziale Kriegsbeschädigten- und Kriegshinterbliebenenfürsorge vom 8. Februar 1919 (RGBl. S. 187) in der Fassung des Art. 21 der Verordnung zur Herabminderung der Personalausgaben des Reiches vom 27. Oktober 1923 (RGBl. I S. 999) und zur Regelung der Zuständigkeiten für die Durchführung der §§ 25 bis 27 e des Bundesversorgungsgesetzes in der Fassung des Ersten Neuordnungsgesetzes vom 27. Juni 1960 (BGBl. I S. 453) sowie der Verordnung zur Kriegsopferfürsorge vom 30. Mai 1961 (BGBl. I S. 653) verordnet der Senat:
