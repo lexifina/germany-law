@@ -1,0 +1,62 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2004-12-09T16:00:00+01:00
+- Ende: 2004-12-09T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZeKZ8sY8K7msQcjtEb8A3T8
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/2667
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZbGqKB4YrSI4TwlJAWo_D1m3plADCspfJs-WYbPEYR1/Oeffentliche_Niederschrift_Rat_09.12.2004.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Protokoll über die 2. Sitzung des Rates am 08.11.2004
+- TOP 2: Neufassung der Regelung über die Zuständigkeiten der Ausschüsse
+- TOP 3: Neufassung der Regelung über die Zuständigkeiten der Ausschüsse
+- TOP 4: Neufassung der Regelung über die Zuständigkeiten der Ausschüsse
+- TOP 5: Rheinischer Sparkassen - und Giroverband
+- TOP 6: Vorschlagsliste für die Wahl der ehrenamtlichen Richter und Richterinnen beim Bundessozialgericht Kassel
+- TOP 7: Beteiligungsbericht 2004 der Stadt Solingen
+- TOP 8: Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 9: Kunst-Museum Solingen Grundstücksgesellschaft mbH & Co. KG
+- TOP 10: Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 11: 33. ordentliche Hauptversammlung des Deutschen Städtetages
+- TOP 12: Bestellung des Ersten Beigeordneten
+- TOP 13: Festlegung der Reihenfolge der Allgemeine Vertretung des Oberbürgermeisters
+- TOP 14: Wasserversorgungsverband Rhein-Wupper
+- TOP 15: Entsendung eines stellvertretenden Mitglieds in den Verbandrat des Wupperverbandes
+- TOP 16: Nachtrag zum Stellenplan 2004
+- TOP 17: Gültigkeit der am 26.09.2004 stattgefundenen allgemeinen Wahlen zu den Vertretungen der Stadt Solingen
+- TOP 18: I. Änderungssatzung zur Marktgebührensatzung der Stadt Solingen
+- TOP 19: Gebührenbedarfsberechnungen 2005
+- TOP 20: Satzung über die Straßenreinigung in der Stadt Solingen (Straßenreinigungssatzung)
+- TOP 21: Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluß an die öffentliche Abwasseranlage (Entwässerungssatzung -EntwS-)
+- TOP 22: III. Änderungssatzung zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung - EntsorgS -)
+- TOP 23: Satzung über die Abfallentsorgung in der Solingen (Abfallentsorgungssatzung-AbfS)
+- TOP 24: Wirtschaftsplan 2005 EntsorgungsBetriebe Solingen
+- TOP 25: I. Änderung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung der Abfallentsorgungsanlagen Deponie mit Wertstoffhof und Kompostierungsanlage
+- TOP 26: Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung des Müllheizkraftwerkes der EntsorgungsBetriebe Solingen
+- TOP 27: Wirtschaftsplan 2005 EntsorgungsBetriebe Solingen -Müllheizkraftwerk-
+- TOP 28: Satzung zur Durchführung von Bürgerentscheiden im Gebiet der Stadt Solingen
+- TOP 29: Neubildung des Jugendhilfeausschusses für die Wahlperiode 2004 - 2009
+- TOP 30: Neubildung des Zuwanderer- und Integrationsrates für die Wahlperiode 2004 bis 2009
+- TOP 31: "Erfolgreiche Integration ist kein Zufall - Strategien kommunaler Integrationspolitik"
+- TOP 32: Krankenhausgesellschaft Nordrhein-Westfalen (KGNW)
+- TOP 33: Besetzung des Beirates für das Walter-Bremer-Institut;
+- TOP 34: Besetzung des Prüfungsausschusses für die Fachschule Solingen
+- TOP 35: Wahl der Mitglieder des Beirates bei der Unteren Landschaftsbehörde
+- TOP 36: Wahl der Mitglieder des Beirates bei der Unteren Landschaftsbehörde
+- TOP 37: Teilneubesetzung des Planungsbeirates für die Umgestaltung von Graf-Wilhelm-Platz/Neumarkt
+- TOP 38: Stadtumbau West; Gebiet Grimmstraße/Beethovenstraße
+- TOP 39: Bauleitplanung Cronenberger Straße/Konrad-Adenauer-Straße
+- TOP 40: Bauleitplanung Fuhrstraße/Rankestraße
+- TOP 41: Verschiedenes
+- TOP 42: Konzernbeschäftigtenvertretung bei der Stadt Solingen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Beförderungen
+- TOP 2: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 3: Protokoll über die 2. Sitzung des Rates am 08.11.2004
