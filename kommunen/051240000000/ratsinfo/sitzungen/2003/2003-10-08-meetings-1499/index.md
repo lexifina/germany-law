@@ -1,0 +1,83 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2003-10-08T16:00:00+02:00
+- Ende: 2003-10-08T16:30:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1499
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1499
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00024127.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: NN (Nur RAT: Einbringung Haushalt)
+- TOP 1.2: Vertagt auf Rat 13.10.2003.
+- TOP 2: Anregungen und Beschwerden gem. § 24 GO
+- TOP 3: Neue Fraktionsanträge
+- TOP 3.1: Nutzung der ehem. Stadiongaststätte durch Stadtsportbund und Stadtbetrieb Sport und Bäder
+- TOP 3.2: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 3.3: Einrichtung einer Babyklappe in Wuppertal - geändert beschlossen
+- TOP 3.4: Friedhofs- und Bestattungssatzung - zur Vorberatung verwiesen
+- TOP 3.5: Babyklappe - geändert beschlossen
+- TOP 3.6: Keine 3. Ausschreibung der Schwimmoper - in der Sache erledigt
+- TOP 3.7: Treppen der Stadt Wuppertal - zur Vorberatung verwiesen
+- TOP 4: Fraktionsanträge, die bereits in einem Gremium vorberaten wurden (§ 8 der Geschäftsordnung für den R
+- TOP 4.1: Externes juristisches Gutachten zum rechtlichen Status der Arkadengänge am Rathaus Barmen - abgelehnt
+- TOP 4.2: Gedenktafel zur Bücherverbrennung 1933 - abgelehnt
+- TOP 4.2.1: Errichtung eines mahnenden Erinnerungszeichens auf dem Rathausvorplatz - abgelehnt
+- TOP 4.2.2: Erstellung einer Gedenktafel - ungeändert beschlossen
+- TOP 4.3: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 4.4: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 4.5: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 4.6: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 4.7: Mehr Sicherheit für die Menschen auf Wuppertals Bürgersteigen und Straßen - abgelehnt
+- TOP 4.8: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 4.9: Abgesetzt. Vorberatung Änderungsantrag zur Drs.: VO/1753/03 - Sanierung der Gesamtschule Langerfeld
+- TOP 4.10: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 4.11: Vertagt auf Rat 13.10.2003
+- TOP 4.11.1: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 5: Ortsrecht
+- TOP 5.1: Abweichungssatzung für die Schellenbecker Straße - ungeändert beschlossen
+- TOP 5.2: Aufhebung von Stellplatzverzichtssatzungen - ungeändert beschlossen
+- TOP 5.3: Einzelsatzung Alter Markt - ungeändert beschlossen
+- TOP 5.4: Umsetzung der Entsorgungskooperation EKOCity - ungeändert beschlossen
+- TOP 5.5: Fleisch- und Geflügelfleischhygiene-Gebührensatzung - in der Sache erledigt
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Vertagt auf Rat 13.10.2003.
+- TOP 6.1.1: Vertagt auf Rat 13.10.2003.
+- TOP 6.2: Sofortmaßnahmen an gefährdeten Ingenieurbauwerken - ungeändert beschlossen
+- TOP 7: Angelegenheiten des Beteiligungsmanagements
+- TOP 8: Planverfahren
+- TOP 8.1: Bebauungsplanverfahren Nr. 964 -Lienhardplatz- - ungeändert beschlossen
+- TOP 8.2: Anordnung einer Veränderungssperre im Bauleitplan 512/1.Änd. - Wasserstraße - - ungeändert beschlossen
+- TOP 8.3: 5. Bebauungsplanänderung Nr. 167 / 167 A - ungeändert beschlossen
+- TOP 8.4: Bauleitplanverfahren Nr. 622 B -Friedrich-Engels-Allee /Ost - - ungeändert beschlossen
+- TOP 8.5: Vertagt auf Rat 13.10.2003.
+- TOP 8.6: Bauleitplanverfahren Nr. 1004 - Nevigeser Straße/ Am Eigenbach - - ungeändert beschlossen
+- TOP 9: Baumaßnahmen
+- TOP 9.1: Deweerth'scher Garten, Bau einer Tiefgarage - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Jüdisches Leben in Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.2: Schulentwicklungsplanung - geändert beschlossen
+- TOP 10.3: Einrichtung eines Friedwaldes in Wuppertal - zur Vorberatung verwiesen
+- TOP 10.3.1: Friedwald für Elberfeld - zur Vorberatung verwiesen
+- TOP 10.4: Errichtung eines Taubenhauses - ungeändert beschlossen
+- TOP 10.5: Vertagt auf Rat 13.10.2003.
+- TOP 10.5.1: Vertagt auf Rat 13.10.2003.
+- TOP 10.6: Leistungsvertrag zur ambulanten Hilfe für jüdische Kontingentflüchtlinge in Wuppertal v.20.02.2000
+- TOP 11: Gremienbesetzung / Benennung
+- TOP 11.1: Änderung der Zusammensetzung des Beirats - ungeändert beschlossen
+- TOP 11.2: Neubesetzung des Verbandsrates des Wupperverbandes - ungeändert beschlossen
+- TOP 11.3: Benennung eines sachkundigen Bürgers
+- TOP 11.4: Abgesetzt. Von der Verwaltung zurückgezogen.
+- TOP 11.5: Vertagt auf Rat 13.10.2003.
+- TOP 11.6: Vertagt auf Rat 13.10.2003. - von der Tagesordnung gesetzt
+- TOP 11.7: Gremien / Umbesetzung - vertagen
+- TOP 11.8: Besetzung von Gremien - ungeändert beschlossen
+- TOP 11.9: Gremien/Umbesetzungen - ungeändert beschlossen
+- TOP 12: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 12.1: Sanierung der Wupperbrücke Rutenbeck - Dringlichkeitsentscheidung genehmigt
