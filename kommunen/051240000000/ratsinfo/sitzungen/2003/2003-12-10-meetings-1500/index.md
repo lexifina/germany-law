@@ -1,0 +1,89 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2003-12-10T16:03:00+01:00
+- Ende: 2003-12-10T16:20:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1500
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1500
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen Stand 27.11.2003 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00027646.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Anregungen und Beschwerden gem. § 24 GO (HA)
+- TOP 3: Neue Fraktionsanträge
+- TOP 3.1: Kürzungen im Landesjugendplan - ungeändert beschlossen
+- TOP 3.2: - Gestrichen -
+- TOP 3.3: Antrag zur Rückführung des städtischen Gesundheitsamtes - abgelehnt
+- TOP 3.4: Antrag zu den Verlusten der WSW AG und der Nachschusspflicht der Stadt - Nichtbefassung beschlossen
+- TOP 3.5: Genehmigung von Volksfesten durch die Stadtverwaltung - vertagt auf Rat
+- TOP 3.6: Wuppertal wird Hauptstadt der Spaßgesellschaft - Nichtbefassung beschlossen
+- TOP 4: Fraktionsanträge, die bereits in einem Gremium vorberaten wurden (§ 8 der Geschäftsordnung für den R
+- TOP 4.1: - Gestrichen -
+- TOP 4.2: Planung von Gewerbegebieten in Wuppertal gezielt vorantreiben - geändert beschlossen
+- TOP 4.2.1: Änderungs- und Ergänzungsantrag zur Dr.sache VO/1805/03 - ungeändert beschlossen
+- TOP 4.3: - Gestrichen -
+- TOP 4.4: - Gestrichen -
+- TOP 4.5: - Gestrichen -
+- TOP 4.6: Treppen der Stadt Wuppertal - abgelehnt
+- TOP 4.7: Nutzung der ehem. Stadiongaststätte durch Stadtsportbund und Stadtbetrieb Sport und Bäder - in der Sache erledigt
+- TOP 5: Ortsrecht
+- TOP 5.1: 2. Abweichungssatzung Schluchtstraße - ungeändert beschlossen
+- TOP 5.2: 2. Abweichungssatzung Schönebecker Straße - ungeändert beschlossen
+- TOP 5.3: - Gestrichen -
+- TOP 5.4: Entgeltordnung für das Historische Zentrum - ungeändert beschlossen
+- TOP 5.5: Gebührensatzung der Abfallwirtschaft für das Jahr 2004 - ungeändert beschlossen
+- TOP 5.5.1: Antrag der FDP-Fraktion zur VO/2183/03
+- TOP 5.6: Denkmalbereichsatzung für das Zoo-Viertel in Wuppertal - ungeändert beschlossen
+- TOP 5.7: Änderung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz - ungeändert beschlossen
+- TOP 5.8: Änderung der Satzung - ungeändert beschlossen
+- TOP 5.9: Sanierungssatzung Barmer Innenstadt - ungeändert beschlossen
+- TOP 5.10: Abfallwirtschaftssatzung - ungeändert beschlossen
+- TOP 5.11: 6. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungs - vertagen
+- TOP 5.11.1: Wirtschaftsführung des Eigenbetriebes ESW für das Jahr 2004 - vertagen
+- TOP 5.11.2: 6. Satzung zur Änderung der Satzung über die Straßenreinigung - vertagen
+- TOP 6: Haushaltsangelegenheiten
+- TOP 7: Angelegenheiten des Beteiligungsmanagements
+- TOP 7.1: Jahresabschluss 2002 für die Alten- und Altenpflegeheime der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2004 - ungeändert beschlossen
+- TOP 7.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2004 - ungeändert beschlossen
+- TOP 7.4: Wirtschaftsplan Kinder- und Jugendwohngruppen 2004 - ungeändert beschlossen
+- TOP 7.5: Abschluss des Eigenbetriebes Entsorungs- und Straßenreinigung Wuppertal für das Geschäftsjahr 2002 - ungeändert beschlossen
+- TOP 7.6: Jahresabschluss der Stadtsparkasse Wuppertal für das Geschäftsjahr 2002 - ungeändert beschlossen
+- TOP 7.7: Gesellschafterversammlung der Deutsche Städte Medien GmbH (DSM) am 07.11.2003 - ungeändert beschlossen
+- TOP 8: Planverfahren
+- TOP 8.1: Bauleitplanverfahren Nr. 1064 - Briller Str. / Nordbahn - - ungeändert beschlossen
+- TOP 8.2: Bebauungsplan Nr. 1065 - Steinbecker Meile - - ungeändert beschlossen
+- TOP 8.3: 1. Verlängerung einer Veränderungssperre BP 1054 - Werther Hof / Lindenstraße - - vorbehaltlich beschlossen
+- TOP 8.4: Anordnung einer Veränderungssperre im BP 344 - Lüttringhauser Straße - - vertagen
+- TOP 9: Baumaßnahmen
+- TOP 9.1: Neubau einer Fahrzeughalle und Anbau für die Freiwillige Feuerwehr Walbrecken - vorbehaltlich beschlossen
+- TOP 9.2: Ausbau DB Kursbuchstrecke 458 / Regionalbahn 47 "Der Müngstener" - ungeändert beschlossen
+- TOP 9.3: Sanierung der Deponie Eskesberg West - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: - Gestrichen -
+- TOP 10.2: Offene Ganztagsgrundschule im Primarbereich - geändert beschlossen
+- TOP 10.2.1: OGS - Offene Ganztagsgrundschule - ungeändert beschlossen
+- TOP 10.3: - Gestrichen -
+- TOP 10.4: Schulentwicklungsplanung im Stadtbezirk Ronsdorf - vertagen
+- TOP 10.5: Einrichtung eines Beirates für die Stiftung Sozialfonds Wuppertal - ungeändert beschlossen
+- TOP 10.6: Mietspiegel 2004 - vertagen
+- TOP 10.7: Stadtfest 75 Jahre Wuppertal " Wir sitzen alle an einem Tisch" - ungeändert beschlossen
+- TOP 10.8: Interkommunale Zusammenarbeit der Feuerwehren Solingen und Wuppertal; - vertagen
+- TOP 10.9: Restitution von Kunstgegenständen - vertagen
+- TOP 10.9.1: Antrag zur Rückgabe der Bilder - vertagen
+- TOP 10.10: Nur Rat 15.12.2003.
+- TOP 10.11: Grundschule Siegelberg - vertagen
+- TOP 10.11.1: Neubau Gemeinschaftsgrundschule Beyenburg - vertagen
+- TOP 10.11.2: Neubau einer Grundschule für Beyenburg - vertagen
+- TOP 11: Gremienbesetzung / Benennung
+- TOP 11.1: Benennung städtischer Vertreter für die Planungsgemeinschaft Circle Line - ungeändert beschlossen
+- TOP 11.2: Wahl eines sachkundigen Einwohners für den Ausschuss Soziales und Gesundheit - ungeändert beschlossen
+- TOP 11.3: Wiederbesetzung der Position eines sachkundigen Einwohners im Sportausschuss
+- TOP 11.4: Gremienbesetzungen / Benennungen - ungeändert beschlossen
+- TOP 11.5: Gremienbesetzung / Benennung - geändert beschlossen
+- TOP 11.6: Umbesetzung von Gremien - ungeändert beschlossen
