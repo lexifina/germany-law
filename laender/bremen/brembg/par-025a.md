@@ -18,7 +18,7 @@ Die unabhängige Stelle (§ 23) kann Ausnahmen von Satz 1 zulassen.
 2. in den Fällen des § 90a Abs. 1 dieses Gesetzes und des § 29 des Bremischen Abgeordnetengesetzes mit dem Beginn des Mandats,
 3. mit der Versetzung zu einem anderen Dienstherrn,
 4. mit der Berufung in eines der in Absatz 2 genannten Ämter,
-5. mit Verhängung einer nur im förmlichen Disziplinarverfahren zulässigen Disziplinarmaßnahme oder
+5. mit der Verhängung mindestens einer Kürzung der Dienstbezüge oder
 6. mit Beendigung seines Beamtenverhältnisses auf Lebenszeit oder Richterverhältnisses auf Lebenszeit aus dem Beamtenverhältnis auf Zeit nach Absatz 1 entlassen.
 (9) Mit dem Ende des Beamtenverhältnisses auf Zeit endet der Anspruch auf Besoldung aus diesem Amt. Weitergehende besoldungsrechtliche Ansprüche bestehen nicht.
 (10) Der Beamte darf während seiner Amtszeit nur die Amtsbezeichnung des ihm übertragenen Amtes mit leitender Funktion führen. § 80 Abs. 2 Satz 2 findet nur dann entsprechende Anwendung, wenn das Amt mit leitender Funktion mindestens eine Amtszeit wahrgenommen worden ist.
