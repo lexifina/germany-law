@@ -1,0 +1,24 @@
+# Umbenennung des Seebergsteiges
+
+- Körperschaft: Charlottenburg-Wilmersdorf von Berlin
+- Drucksache/Vorlage: 0175/2
+- Art: Antrag
+- Datum: 2002-05-30
+- Ratsinformationssystem: https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=177
+- OParl: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/papers.asp?id=177
+- Quelle: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=216 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=199 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=9
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=200 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=9
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=203 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=9
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=95 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=15
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=96 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=15
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=35 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=36 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=38 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=57 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=7
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=58 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=7
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=62 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=7
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=63 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=7
+- Beratung: Entscheidung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=221 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=at&id=8
