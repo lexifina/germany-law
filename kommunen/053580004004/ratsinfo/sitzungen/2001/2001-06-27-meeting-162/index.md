@@ -1,0 +1,62 @@
+# Gemeinderat
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2001-06-27T18:00:00+02:00
+- Ende: 2001-06-27T22:45:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcAb1xluHFRc9anySVnMoOc
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/162
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXgOZ1x93YmtEwMVzNG-k28gxXmHs3WQcYAkM0cHPn-5/Oeffentliche_Niederschrift_Gemeinderat_27.06.2001.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 25.04.2001 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+- TOP 3.1.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+- TOP 3.1.: Projekt "Wach-Koma-Klinik" in Aldenhoven-Schleiden, Am Nonnenhof
+- TOP 4.: Einwohnerantrag gem. § 25 GO NW
+- TOP 5.: Anregungen und Beschwerden gem. § 24 Abs. 1 GO NW
+- TOP 5.1.: Anregungen und Beschwerden gem. § 24 Abs. 1 GO NW
+- TOP 5.1.: Parksituation an der Zehnthofstraße
+- TOP 5.2.: Anregungen und Beschwerden gem. § 24 Abs. 1 GO NW
+- TOP 5.2.: Quecksilber-Störfall in der MVA Weisweiler
+- TOP 6.: Beanstandung eines Ausschuss- bzw. Ratsbeschlusses
+- TOP 7.: Satzungen, Ortsrecht
+- TOP 7.1.: Satzungen, Ortsrecht
+- TOP 7.1.: 2. Änderung der Baumschutzsatzung der Gemeinde Aldenhoven
+- TOP 8.: Zuschussgewährung
+- TOP 8.1.: Zuschussgewährung
+- TOP 8.1.: Antrag der Frauenberatungsstelle - Frauen helfen Frauen e.V. - auf Bezuschussung der Personal- und Sachkosten
+- TOP 9.: Ferienaktion für Kinder und Jugendliche hier: Bereitstellung von Busfahrkarten
+- TOP 10.: Ernennung zum Ehrenbrandmeister der Gemeinde Aldenhoven
+- TOP 11.: Widmung von Gemeindestraßen
+- TOP 12.: Mitteilungen und Anfragen.
+- TOP 13.: Verschiedenes.
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 25.04.2001 -nichtöffentlicher Teil-.
+- TOP 2.: Grundstücksangelegenheiten
+- TOP 2.1.: Grundstücksangelegenheiten
+- TOP 2.1.: Übertragung einer Ackerparzelle in der Gemarkung Schleiden
+- TOP 2.2.: Grundstücksangelegenheiten
+- TOP 2.2.: Veräußerung eines gemeindeeigenen Grundstückes im Pestalozziring
+- TOP 2.3.: Grundstücksangelegenheiten
+- TOP 2.3.: Umnutzung der Mietwohnung im Feuerwehrgerätehaus Schleiden, Landstr. 21 sowie Veräußerung einer Teilfläche des Grundstückes
+- TOP 2.4.: Grundstücksangelegenheiten
+- TOP 2.4.: Übertragung eines Gewerbegrundstückes in Aldenhoven
+- TOP 2.5.: Grundstücksangelegenheiten
+- TOP 2.5.: Verkauf von bebauten Grundstücken an die WOGA GmbH & Co.KG und Zahlung eines Mietzinses für diese Häuser und DAA-Gebäude (Kellerbereich) an die WOGA GmbH & Co.KG
+- TOP 3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Übernahme von Gemeindearbeitern in unbefristete Beschäftigungsverhältnisse
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Personalsituation hier: Antrag der UsA-Fraktion auf Beförderung eines Beamten
+- TOP 4.: Grundsatzbeschluss zur Nutzung gemeindlicher Gehweganlagen
+- TOP 5.: Straßenbeleuchtungsvertrag zwischen Vertragsunternehmer und der Gemeinde Aldenhoven; künftige Verfahrensweise
+- TOP 6.: Bergschäden RWE Rheinbraun
+- TOP 7.: Mitteilungen und Anfragen.
+- TOP 8.: Verschiedenes.
