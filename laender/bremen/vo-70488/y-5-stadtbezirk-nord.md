@@ -1,0 +1,33 @@
+# 5. Stadtbezirk Nord
+5. Stadtbezirk Nord
+(511) Ortsteil Burg-Grambke
+Burg-Grambke wird im N von der Lesummitte, im O vom Ortsteil Blockland, im SO vom Ortsteil Oslebshausen und im S vom Ortsteil Industriehäfen (Klöckner-Gelände) begrenzt. Am Weg Vor den Hohen Bunten wendet sich die Grenze in nördlicher Richtung vom Klöckner-Gelände ab und erreicht am Burger Sielgraben die Siedlung Dunge, die nach Burg-Grambke einbezogen wird. Die Grenze verläuft sodann weiter an der Dunger Straße und westlich der Grundstücke an der Straße Auf der Fredewisch, trifft auf die Lesumbroker Landstraße westlich von Haus Nr. 52, läuft an ihr in nordwestlicher Richtung, überquert sie beim Siel westlich von Haus Nr. 51 und trifft am Graben verlaufend auf die Lesummitte.
+(512) Ortsteil Werderland
+Der Ortsteil Werderland wird im N von der NW-Grenze der VR Flur 182 und deren Verlängerung bis zur Lesummitte und von der Lesummitte, im O von den Ortsteilen Burg-Grambke und Industriehäfen und im S sowie im W von der Weser bzw. der Landesgrenze umschlossen.
+(513) Ortsteil Burgdamm
+Burgdamm wird im N durch die Landesgrenze, im W durch den Lesumer Schnellweg bis zur Einmündung der Straße Heidbergstift begrenzt. Die Grenze läuft weiter in südöstlicher Richtung zurück zur Ihle, entlang der Ihle bis zur Bahnlinie Bremen-Vegesack, entlang dieser, dann entlang der Bremer Heerstraße bis zum südlichsten Graben des Lesumer Heulandes, durch diesen bis zur Lesum. Im S bildet die Lesum und im O die Landesgrenze die Begrenzung.
+(514) Ortsteil Lesum
+Lesum wird im N durch die Landesgrenze, im W den Holthorster Weg, die O-Grenze des Grundstücks Kränholm, die Eisenbahn und An Knoops Park bis zur Lesum im S die Lesummitte und im O durch den Ortsteil Burgdamm begrenzt.
+(515) Ortsteil St. Magnus
+St. Magnus wird im N durch die Landesgrenze, im W durch eine Linie begrenzt, die östlich von Flurstück 1 der VR Flur 356 von der Landesgrenze nach S abzweigt, den Schönebecker Kirchweg von der Straße Zum Fichtenhof trennt, an ihm in nordwestlicher Richtung entlangläuft und dann in südlicher Richtung westlich des Flurstücks 82 der VR Flur 356 verläuft und den Punkt erreicht, der die Vegesacker Heerstraße von der Straße Unter den Linden trennt. Von diesem Punkt folgt die Grenze der Vegesacker Heerstraße in westlicher Richtung bis zur Abfahrt der B 74, dann an der nördlichen Böschungsoberkante der Abfahrt in südöstlicher Richtung bis zur W-Grenze der VR Flur 358 und an dieser in südlicher Richtung bis zur Vegesacker Bahn, überschreitet diese, wendet sich dann nach W und schließt das Grundstück Windmühlenstraße 22 ein, die Siedlung Schierholz/Schäferheide jedoch aus.
+Östlich der Siedlung verläuft die Grenzlinie nach S bis zum Grohner Friedhof, an dessen O-Grenze bis zur Grenze des Kasernengeländes und an dieser entlang, bis sie die Friedrich-Humbert-Straße erreicht. Nach Überquerung der Straße umschließt die Grenzlinie die VL Flur 359 bis zur Lesummitte. Die Grundstücke Friedrich-Humbert-Straße 1 bis 9 a (ungerade), 8 bis 14 (gerade), gehören zum Ortsteil St. Magnus. Im S wird St. Magnus durch die Lesum und im O durch den Ortsteil Lesum begrenzt.
+(521) Ortsteil Vegesack
+Vegesack wird im N durch die B 74, im W die Georg Gleistein-Straße (Nr. 73 bis 37), die Fritz-Wildung-Straße, die Ludwig-Jahn-Straße, die Straße Fährgrund und die Schulkenstraße bis zur Wesermitte, im S die Landesgrenze und im O durch den Ortsteil Werderland, die Mitte der Hafeneinfahrt des Vegesacker Hafens, die Mitte des Vegesacker Hafens, die S-Grenze des Vegesacker Bahnhofsplatzes und die Hermann-Fortmann-Straße und die Zufahrtstraße bis zur Unterführung der B 74 zur Straße Auf dem Krümpel begrenzt.
+(522) Ortsteil Grohn
+Grohn wird im N durch die Eisenbahn, im W den Ortsteil Vegesack, im S die Lesummitte und im O durch den Ortsteil St. Magnus begrenzt.
+(523) Ortsteil Schönebeck
+Schönebeck wird im NO durch die Landesgrenze, im W die Borchshöher Straße (Nr. 147 bis 17), im S die Ortsteile Vegesack, Grohn und St. Magnus und im O durch den Ortsteil St. Magnus begrenzt.
+(524) Ortsteil Aumund-Hammersbeck
+Aumund-Hammersbeck wird N und W durch die Landesgrenze, im S die Hammersbecker Straße, die Georg-Gleistein-Straße und die B 74 und im O durch den Ortsteil Schönebeck begrenzt.
+(525) Ortsteil Fähr-Lobbendorf
+Fähr-Lobbendorf wird im N durch den Ortsteil Aumund-Hammersbeck und die Landesgrenze, im W durch die W-Grenze des Grundstückes Hammersbecker Straße Nr. 223, den W-Rand des Geländes des Zentralkrankenhauses Bremen-Nord bis zum Verbindungsweg zwischen der Straße Am Forst und der Kuhstraße und dann durch die W-Grenze des Grundstückes Kuhstraße Nr. 20 sowie der W-Grenze der Fluren VR 160 und 159 einschließlich des Grundstücks Lindenstraße Nr. 105 bis zur Weser, im S die Weser und im O durch die Ortsteile Vegesack und Aumund-Hammersbeck begrenzt.
+(531) Ortsteil Blumenthal
+Blumenthal wird im NO durch die Landesgrenze, den Weg südlich des Friedhofes am Godenweg, den Godenweg und die Lüssumer Straße (Nr. 115 bis 165) im W die Straße Kreinsloger (Nr. 9 bis 149), deren Verlängerung bis zur Weserstrandstraße, die Weserstrandstraße bis zur W-Grenze des Grundstücks Weserstrandstraße Nr. 21 und deren Verlängerung bis zur Weser, im S die Weser und im O durch den Ortsteil Fähr-Lobbendorf begrenzt.
+(532) Ortsteil Rönnebeck
+Rönnebeck wird im N durch die Ermlandstraße, Turnerstraße (Nr. 70 bis 64), die Cranzer Straße (Nr. 2 bis 32) und Samlandstraße (Nr. 2 a bis 24), im W durch die Straßen Am Rottpohl (Nr. 19 bis 1), Richard-Taylor-Str. (Nr. 11 a bis 27), An der Amtsweide und durch die W-Grenze des Grundstückes Farger Straße Nr. 8 und deren Verlängerung bis zur Landesgrenze, im S die Landesgrenze und im O durch den Ortsteil Blumenthal begrenzt.
+(533) Ortsteil Lüssum-Bockhorn
+Lüssum-Bockhorn wird im O und N durch die Landesgrenze, im W den östlichen Wifozaun (einschließlich des Geländes der Schule Sandwehen, Flurstück 142/3 der VR Flur 140), von der Landesgrenze bis zur Heinrich-Steffens-Straße, die Heinrich-Steffens-Straße und die Samlandstraße (Nr. 45 bis 31) und im S durch die Ortsteile Rönnebeck und Blumenthal begrenzt.
+(534) Ortsteil Farge
+Farge wird im N durch die Landesgrenze, im NW den westlichen Wifo-Zaun, die Heidstraße (Nr. 21 bis 1), den Pötjerweg (Nr. 23 bis 21), die Wilhelm-Brandhorst-Straße (Nr. 37 bis 1) und die Straße Unterm Berg, deren Verlängerung bis zur W-Grenze des Grundstückes des Bauhofes, durch diese und deren Verlängerung bis zur Landesgrenze, im SW die Landesgrenze und im O durch die Ortsteile Rönnebeck und Lüssum-Bockhorn begrenzt.
+(535) Ortsteil Rekum
+Rekum wird in N, W und O durch die Landesgrenze und im SO durch den Ortsteil Farge begrenzt.
