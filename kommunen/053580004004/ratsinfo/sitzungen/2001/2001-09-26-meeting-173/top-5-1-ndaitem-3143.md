@@ -1,4 +1,4 @@
-# TOP 5.1.: Kultur- und Sportangelegenheiten
+# TOP 5.1.: Belegung von Sportstätten
 
 - Sitzung: Schul- und Sozialausschuss (2001-09-26)
 - Körperschaft: Gemeinde Aldenhoven
