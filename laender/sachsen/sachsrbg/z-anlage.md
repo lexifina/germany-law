@@ -2,24 +2,20 @@
 Lfd. Nr. Sachgebiet Titel/Quelle/Genese/fortgeltende Bestandteile
 1. 214 Vierte Durchführungsverordnung zum Landeskulturgesetz – Schutz vor Lärm –
 vom 14. Mai 1970 (GBl. II Nr. 46 S. 343)
-fortgeltend:
-§ 5 Abs. 1 §§ 7, 9 und 17
+Vorschrift aufgehoben durch Artikel 1 § 1 Nr. 22 des G vom 6. Juni 2002 (SächsGVBl. S. 168)
 2. 214 Anordnung über Feuerungsanlagen, Anlagen zur Verteilung von Wärme und zur Warmwasserversorgung sowie Brennstofflagerung – Feuerungsanordnung (FeuAO) –
 vom 10. September 1990 (GBl. I Nr. 62 S. 1557)
 Vorschrift außer Kraft durch § 15 Absatz 2 der VO vom 17. September 1998 (SächsGVBl. S. 516, 520)
 3. 215 Brandschutzanordnung Nr. 9 – Verkaufsstätten, Warenhäuser und Messehallen –
 vom 26. Januar 1963 (GBl. II Nr. 13 S. 79)
-Genese: § 17 neugefaßt durch Brandschutzanordnung Nr. 9/1. – Verkaufsstätten, Warenhäuser und Messehallen – vom 20. Juli 1965 (GBl. II Nr. 81 S. 617)
-fortgeltend:
-gesamte Vorschrift
+Vorschrift aufgehoben durch Artikel 1 § 1 Nr. 23 des G vom 6. Juni 2002 (SächsGVBl. S. 168)
 4. 215 Arbeitsschutz- und Brandschutzanordnung 420 – Verkaufsstellen –
 vom 27. Dezember 1973 (GBl. I 1974 Nr. 7 S. 66)
 fortgeltend:
 §§ 1, 2, 4 bis 12 § 13 Abs. 2 bis 8 § 14 Abs. 2 und 3 §§ 15 bis 18
 5. 221 Anordnung über die Ausbildung von technischen Assistenten auf dem Gebiet der Naturwissenschaften
 vom 10. Dezember 1960 (GBl. II 1961 Nr. 2 S. 3)
-fortgeltend:
-§§ 1 bis 4 § 6
+Vorschrift aufgehoben durch Artikel 1 § 1 Nr. 24 des G vom 6. Juni 2002 (SächsGVBl. S. 168)
 6. 226+ Anordnung über die Touristik mit Reit- und Zugtieren
 vom 31. Oktober 1974 (GBl. I Nr. 56 S. 511)
 fortgeltend:
