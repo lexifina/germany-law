@@ -1,0 +1,8 @@
+# TOP 14.: Über- und außerplanmäßige Haushaltsausgaben im Haushaltsjahr 1999
+
+- Sitzung: Rat der Stadt Vlotho (2000-06-07)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/2466
+- Ergebnis: Zur Kenntnis genommen
+- Beratung: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/1452
