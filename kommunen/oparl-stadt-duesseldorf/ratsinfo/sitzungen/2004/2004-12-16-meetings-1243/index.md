@@ -1,0 +1,110 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-12-16T09:00:00+01:00
+- Ende: 2004-12-16T19:03:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1243
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1243
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111393.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111393.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111393.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Gültigkeit der Kommunalwahlen - mehrheitlich beschlossen
+- TOP 4: Verleihung des Titels Ehrenoberbürgermeisterin - mehrheitlich beschlossen
+- TOP 5: Satzung über Gebühren zur Tierkörperbeseitigung ec - mehrheitlich beschlossen
+- TOP 6: Ändantr.K+L: Satzung Tierkörper - mehrheitlich abgelehnt
+- TOP 7: Wirtschaftsplan 2005 - einstimmig beschlossen
+- TOP 8: Wirtschaftsplanung 2004-2008 - einstimmig beschlossen
+- TOP 9: Kalkulation der Kanalbenutzungsgebühren - einstimmig beschlossen
+- TOP 10: Kostenentwicklung im Bereich Müllabfuhr - mehrheitlich beschlossen
+- TOP 11: Kostenentwicklung im Bereich Straßenreinigung - Au - mehrheitlich beschlossen
+- TOP 12: (12.) Änderung der Satzung über die Reinigung der - mehrheitlich beschlossen
+- TOP 13: Etatberatung 2005 - zur Kenntnis genommen
+- TOP 14: Haushaltssatzung 2005 - mehrheitlich beschlossen
+- TOP 15: Änd.-antr. Bü90: Etat 2005 - mehrheitlich abgelehnt
+- TOP 16: Änd.-antr. SPD/Bü90: Etat 2005-SN1 - mehrheitlich abgelehnt
+- TOP 17: Änd.-antr. SPD: Etat 2005-Ausbildung - mehrheitlich abgelehnt
+- TOP 18: Änd.-antr. Bü90: Etat 2005-Reine Luft - mehrheitlich abgelehnt
+- TOP 19: Änd.-antr. Bü90: Etat 2005-Lärmminderung - mehrheitlich abgelehnt
+- TOP 20: Änd.-antr. Bü90/SPD: Etat 2005-Zakk - mehrheitlich abgelehnt
+- TOP 21: Änd.-antr. SPD: Etat 2005-Hartz IV Entlastung - mehrheitlich abgelehnt
+- TOP 22: Änd.-antr. SPD: Etat 2005-Gruppenstärke Kitas - mehrheitlich abgelehnt
+- TOP 23: Änd.-antr. SPD: Etat 2005-Drogenkonsumraum - zur Kenntnis genommen
+- TOP 24: Änd.-antr. SPD: Etat 2005-Grundsteuer - mehrheitlich abgelehnt
+- TOP 25: Änd.-antr. SPD: Etat 2005-Lärmschutz - mehrheitlich abgelehnt
+- TOP 26: Änd.-antr. SPD: Etat 2005-Stadteil Erneuerungsbeda - mehrheitlich abgelehnt
+- TOP 27: Änd.-antr. SPD: Etat 2005-Mobilitätsbehinderte - mehrheitlich abgelehnt
+- TOP 28: Änd.-antr. SPD: Etat 2005-Integration - mehrheitlich abgelehnt
+- TOP 29: Änd.-antr. CDU/FDP: Etat 2005 - Schuldenprävention - mehrheitlich beschlossen
+- TOP 30: Änd.-antr. CDU/FDP: Herztod - einstimmig beschlossen
+- TOP 31: Änd.-antr. CDU/FDP: Oldtimerbahn - mehrheitlich beschlossen
+- TOP 32: Änd.-antr. K+L: MahnundGedenkstätte - mehrheitlich abgelehnt
+- TOP 33: Änd.-antr. K+L: Armut - mehrheitlich abgelehnt
+- TOP 34: Ändantr. K+L: Kiefernstraße - mehrheitlich abgelehnt
+- TOP 35: Ändantr. K+L: Gewalt an Frauen - mehrheitlich abgelehnt
+- TOP 36: Ändantr. K+L: EU - mehrheitlich abgelehnt
+- TOP 37: Ändantr. K+L: Partizipation - mehrheitlich abgelehnt
+- TOP 38: Ändantr. K+L: Gesundheitsförderung - mehrheitlich abgelehnt
+- TOP 39: Ändantr K+L: Stellenplan und Budget - mehrheitlich abgelehnt
+- TOP 40: Änd.-antr. K+L: Wohnungsprogramm - mehrheitlich abgelehnt
+- TOP 41: Ändantr CDU/FDP: Etat 2005 Baketballkörbe - mehrheitlich beschlossen
+- TOP 42: Ändant. K+L: Gebäudereinigung - mehrheitlich abgelehnt
+- TOP 43: Ändantr. k+l: 1eurojobs - mehrheitlich abgelehnt
+- TOP 44: ändantr k+l: CSD - mehrheitlich abgelehnt
+- TOP 45: ändantr. k+l: Stadthaus - mehrheitlich abgelehnt
+- TOP 46: ändantr. k+l: Statmuseum - mehrheitlich abgelehnt
+- TOP 47: ändantr. k+l: Klinik Flurstraße - mehrheitlich abgelehnt
+- TOP 48: ändantr. cdu+fdp: Drogenkonsumraum - einstimmig beschlossen
+- TOP 49: Haushaltssatzung 2005 und NKF - mehrheitlich beschlossen
+- TOP 50: Vorschl. u. Anregungen der BV`s zur Haushaltss. - mehrheitlich beschlossen
+- TOP 51: Veränderungsverz. zum HPL-Entwurf 2005 u.Finanzpl. - mehrheitlich beschlossen
+- TOP 52: Veränderungsv. zum HPL-Entwurf 2005 u. MIP - 2008 - mehrheitlich beschlossen
+- TOP 53: Veränderungsverz. zum HPL-Entwurf 2005,Doppik - mehrheitlich beschlossen
+- TOP 54: Stellenplan 2005 - mehrheitlich beschlossen
+- TOP 55: Kämmererliste 2003 - einstimmig beschlossen
+- TOP 56: Kämmererliste 2004 - mehrheitlich beschlossen
+- TOP 57: Üpl-Mittel Geräte, Zubehör, Software - einstimmig beschlossen
+- TOP 58: Üpl-Mittel Beschaffung von IT-Produkten - einstimmig beschlossen
+- TOP 59: Erschließung der Grundstücke Am Mühlenberg - einstimmig beschlossen
+- TOP 60: Bau- und Finanzierungsbeschluss; Sanierung der Ton - mehrheitlich beschlossen
+- TOP 61: Erg.-antr. SPD: Sanierung der Tonhalle - mehrheitlich abgelehnt
+- TOP 62: ändantr. Bü90: Tonhalle - mehrheitlich abgelehnt
+- TOP 63: Zuschuss Boule - mehrheitlich beschlossen
+- TOP 64: Sportfördermittel - einstimmig beschlossen
+- TOP 65: Jahresabschluss 2003 inkl. Lagebericht - einstimmig beschlossen
+- TOP 66: Schulneubau Räuscher Weg B+F - einstimmig beschlossen
+- TOP 67: VID Rheinufertunnel - einstimmig beschlossen
+- TOP 68: Kiesheckerweg, Lichtenbroicher Weg, Kürtenstraße - einstimmig beschlossen
+- TOP 69: Komplettsanierung Hauptgebäude Feuerwache 1 - einstimmig beschlossen
+- TOP 70: Teilsanierung der Feuerwache 3, Münsterstraße 15 - - einstimmig beschlossen
+- TOP 71: Teilsanierung Feuerwache 10, Posener Straße - einstimmig beschlossen
+- TOP 72: Goethe-Museum - einstimmig beschlossen
+- TOP 73: Flughafenbeirat - zur Kenntnis genommen
+- TOP 74: Schulausschuss - stv. beratendes Mitglied - einstimmig beschlossen
+- TOP 75: Bestellung einer Prüferin des Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 76: Neuwahl von Mitgliedern in die Mitgliederversa - einstimmig beschlossen
+- TOP 77: Gen. 60er-Beschluss - einstimmig beschlossen
+- TOP 78: Städtetag - mehrheitlich beschlossen
+- TOP 79: Benutzungsordnung Feuerbachstraße - einstimmig beschlossen
+- TOP 80: Annahme einer Schenkung für die städtische Sammlun - mehrheitlich beschlossen
+- TOP 81: Umbenennung einer Teilfläche des Corneliusplatzes - mehrheitlich beschlossen
+- TOP 82: Benennung Danziger Str. (B8 und B8n) - einstimmig beschlossen
+- TOP 83: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 84: Gen. 60er,b-Plan 5773/54, Veränd. Sperre - einstimmig beschlossen
+- TOP 85: Pl5773/54-GewerbegeböHarffstr-Veränderungssp. - einstimmig beschlossen
+- TOP 86: FNP-Änd. 76 Ulmen/Rather Str Plan - einstimmig beschlossen
+- TOP 87: FNPÄ 13- Airport City - Anregungen; Plan - mehrheitlich beschlossen
+- TOP 88: BPl5382/29AirportCity Anr.Ä in rot Satzung - mehrheitlich beschlossen
+- TOP 89: B-Plan Nr.5782/10 - einstimmig beschlossen
+- TOP 90: B-Plan Nr. 5776/10 - Nördl. Höherweg - einstimmig beschlossen
+- TOP 91: Ergänzungssatzung Nr. 5487/07 - Pannschoppen - einstimmig beschlossen
+- TOP 92: PlNr5476/114 DenkmalberSatzung Karlst-Satzung - einstimmig beschlossen
+- TOP 93: Neubau von 5 Kleinstpielfeldern etc. - mehrheitlich beschlossen
