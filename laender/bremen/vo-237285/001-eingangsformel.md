@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 36 Absatz 2 des Gesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 2. Januar 1975 (BGBl. I S. 80, ber. S. 520), zuletzt geändert durch Gesetz vom 5. Oktober 1978 (BGBl. I S. 1645) und des § 26 Abs. 1 des Straßenverkehrsgesetzes vom 19. Dezember 1952 (BGBl. I S. 837), zuletzt geändert durch Gesetz vom 6. April 1980 (BGBl. I S. 413) verordnet der Senat:
