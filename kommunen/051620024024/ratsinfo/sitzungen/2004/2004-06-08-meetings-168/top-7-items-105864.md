@@ -1,0 +1,6 @@
+# TOP 7: Steuerschätzung 2004 - 2008
+
+- Sitzung: Finanzausschuss (2004-06-08)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/105864
