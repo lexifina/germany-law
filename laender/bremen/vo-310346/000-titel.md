@@ -1,1 +1,1 @@
-# Verordnung über das Finanz- und Rechnungswesen der Universität Bremen vom 20. Dezember 2002
+# Verordnung über das Finanz- und Rechnungswesen der Universität Bremen, der Hochschule Bremen, der Hochschule für Künste, der Hochschule Bremerhaven und der Staats- und Universitätsbibliothek vom 18. Juni 2004
