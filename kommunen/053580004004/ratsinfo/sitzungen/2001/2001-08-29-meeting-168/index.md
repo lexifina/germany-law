@@ -1,0 +1,62 @@
+# Gemeinderat
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2001-08-29T18:00:00+02:00
+- Ende: 2001-08-29T22:00:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSjb1jEH9ZJ9VyvIxiArr4c
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/168
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbdKndUbksZJQlzOEfHUbRLxYuYekPjXt5SJyUfUYS4W/Oeffentliche_Niederschrift_Gemeinderat_29.08.2001.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 27.06.2001 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1.: Bauleitplanung; 23. Änderung des Flächennutzungsplanes - Dürboslar - hier: a) Beschluss zu den eingegangenen Bedenken und Anregungen während der Offenlage b) Feststellungsbeschluss
+- TOP 4.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 4.1.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 4.1.: Prüfung der Jahresrechnung und Rechnungsbelege 2000 und Entlastung des Bürgermeisters
+- TOP 5.: Neubesetzung von Gremien
+- TOP 5.1.: Neubesetzung von Gremien
+- TOP 5.1.: Nachfolgebestimmung eines sachkundigen Bürgers
+- TOP 6.: Satzungen, Ortsrecht
+- TOP 6.1.: Satzungen, Ortsrecht
+- TOP 6.1.: Satzung über die Inanspruchnahme von Dienstleistungen der Freiwilligen Feuerwehr der Gemeinde Aldenhoven sowie zur Regelung des Kostenersatzes und der Erhebung von Gebühren.
+- TOP 7.: Einwohnerantrag gem. § 25 GO NW hier: Römerpark
+- TOP 8.: Verleih der Feuerwehr-Ehrennadel der Gemeinde Aldenhoven
+- TOP 9.: Neustrukturierung der Wirtschaftsförderung im Kreis Düren
+- TOP 10.: Bericht über- und außerplanmäßige Ausgaben Stand 30.06.2001
+- TOP 11.: Mitteilungen und Anfragen.
+- TOP 12.: Verschiedenes.
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 27.06.2001 -nichtöffentlicher Teil-.
+- TOP 2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.1.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.1.: Antrag auf Übernahme einer Baulast auf dem gemeindeeigenen Grundstück Gemarkung Freialdenhoven, Flur 5, Flurstück 88
+- TOP 2.2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.3.: Beauftragungen Umbau des Kindergarten Schleiden
+- TOP 3.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 3.1.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 3.1.: Übertragung eines Baugrundstückes in Aldenhoven
+- TOP 4.: Antrag der CDU-Fraktion hier: Verkauf einer Fläche in der Kapuzinerstraße
+- TOP 5.: Grundstücksangelegenheiten
+- TOP 5.1.: Grundstücksangelegenheiten
+- TOP 5.1.: Übertragung einer Teilfläche des gemeindeeigenen Grundstückes Gemarkung Schleiden, Flur 10 Nr. 56
+- TOP 5.2.: Grundstücksangelegenheiten
+- TOP 5.2.: Verkauf eines Grundstückes
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.: Versetzung eines Beamten in den Ruhestand
+- TOP 6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.: Personalplanung; Beförderungen - Höhergruppierungen
+- TOP 7.: Erwerb eines Holzzerkleinerers - Häckslers - für den Baubetriebshof
+- TOP 8.: Stundung von Ablösungsbeträgen (Erschließungskostenbeiträgen) im Bereich des Baugebietes S 18
+- TOP 9.: Mitteilungen und Anfragen.
+- TOP 10.: Verschiedenes.
