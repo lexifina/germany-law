@@ -1,4 +1,4 @@
-# TOP 3.1.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+# TOP 3.1.: Bauleitplanung; 23. Änderung des Flächennutzungsplanes - Dürboslar - hier: a) Beschluss zu den eingegangenen Bedenken und Anregungen während der Offenlage b) Feststellungsbeschluss
 
 - Sitzung: Gemeinderat (2001-08-29)
 - Körperschaft: Gemeinde Aldenhoven
