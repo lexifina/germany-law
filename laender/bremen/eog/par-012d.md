@@ -1,0 +1,2 @@
+# § 12d Anwendung der Bremischen Landesbauordnung
+(1) Die Vorschriften der Bremischen Landesbauordnung sowie die aufgrund der Bremischen Landesbauordnung erlassenen Bestimmungen sind für die Herstellung, Beseitigung oder Änderung von Grundstücksentwässerungsanlagen entsprechend anzuwenden, soweit in diesem Ortsgesetz keine abweichenden oder inhaltsgleichen Bestimmungen enthalten sind.
