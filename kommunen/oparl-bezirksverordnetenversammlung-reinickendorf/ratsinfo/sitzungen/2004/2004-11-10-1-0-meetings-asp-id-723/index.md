@@ -1,0 +1,83 @@
+# 33. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2004-11-10T17:00:00+01:00
+- Ende: 2004-11-10T22:10:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=723
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=723
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=25269
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Kein Verkauf der GeSoBau - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - im Ausschuss abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Nutzung erneuerbarer Energien voranbringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Einhaltung der Sicherheitsstandards für das Krankenhaus des Maßregelvollzugs - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Lärmminderungsplanung für Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Kindergeburtstag im Heimatmuseum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Keine Behinderungen durch Trödelmarkt/Markstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Einrichtung von Radstreifen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Prüfung der Verkehrssituation Fürstendamm / B96 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Zebrastreifen für Fußgänger in der Grußdorfstraße in Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Existenzgründerseminare an Reinickendorfer Berufsschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Trägerwechsel der Schulfarm Insel Scharfenberg zum 01.01.2005 - überwiesen
+- TOP 5.11: Entwurf des Bebauungsplanes XX-219 a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Information über die Auswertung der Beteiligung der Träger öffentlicher Belange zum Bebauungsplanentwurf XX-235 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Bebauungsplanentwurf XX-172; Änderung des Geltungsbereiches, Auswertung der Beteiligung der Träger öffentlicher Belange, öffentliche Auslegung des Bebauungsplanentwurfs XX-172 a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Bebauungsplanentwurf XX-236 b; Änderung des Geltungsbereiches, Auswertung der Beteiligung der Träger öffentlicher Belange, öffentliche Auslegung des Bebauungsplanentwurfs XX-236 c - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Information über die Auswertung der Beteiligung der Träger öffentlicher Belange zum Bebauungsplanentwurf XX-237 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Einhaltung des Bebauungsplans XX-210 in der Kolonie Waldessaum - vertagt
+- TOP 6.2: Ganztagsgrundschulen im Bezirk Reinickendorf - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Entwurf des Bebauungsplanes XX-B 30 - überwiesen
+- TOP 7.2: Berufung eines beratendes Mitgliedes und Stellvertreters in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Änderung der Geschäftsordnung - vertagt
+- TOP 8.2: Keine Wasserstraßen-Maut in Reinickendorf - erledigt
+- TOP 8.3: Änderung der Geschäftsordnung - vertagt
+- TOP 8.4: Änderung der Geschäftsordnung - Bürgerfragestunde - vertagt
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Nachwahl einer Bürgerdeputierten in den Jugendhilfeausschuss - in der BVV zurückgezogen
+- TOP 9.2: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: KJHG muss in der gesetzgeberischen Kompetenz des Bundes bleiben - überwiesen
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Zügiges Verfahren hinsichtlich der Bebauungspläne / Dorf Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Beteiligung an der Zentrenoffensive "MittendrIn Berlin" - überwiesen
+- TOP 10.3: Fahrradparkhäuser - überwiesen
+- TOP 10.4: Hartz IV - 1 / Zwei-Euro-Jobs - überwiesen
+- TOP 10.5: Prüfung der planungsrechtlichen Ausweisung von Kleingartenanlagen - vertagt
+- TOP 10.6: Immissionsschutz an der Greenwichpromenade - überwiesen
+- TOP 10.7: Initiativen zu Hartz IV im Bezirk - überwiesen
+- TOP 10.8: Hartz IV - 3 / Förderdauer ausschöpfen - überwiesen
+- TOP 10.9: 700-Jahr-Feier Heiligensee 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Straßenverkehrsrechtliche Anliegen der BVV jetzt umsetzen - überwiesen
+- TOP 10.11: Hartz IV - 4 / Wahlmöglichkeit - überwiesen
+- TOP 10.12: Nutzung der Radwege - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Hartz IV - 5 / Arbeitsgelegenheiten mit Qualifizierung - überwiesen
+- TOP 10.14: Hinweis auf die Dampferanlegestelle / Tegeler See - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Hartz IV - 6 / Erstangebotsrecht - überwiesen
+- TOP 10.16: Ideenwettbewerb für Greenwichpromenade - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Tag des Friedhofs in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Herz-Defibrilatoren in Reinickendorf - überwiesen
+- TOP 11.3: Hartz IV - 2 / Verzicht auf Einkommensanrechnung - überwiesen
+- TOP 11.4: Befestigung des Fußweges durch den "Entenschnabel" - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Schulwegsicherung in Heiligensee - überwiesen
+- TOP 12: Aktueller Stand im bezirklichen Ordnungsamt - beantwortet
+- TOP 13: Zusammenarbeit der Ganztagsschulen mit der Musikschule - beantwortet
+- TOP 14: "Gender Mainstreaming" jetzt umsetzen - beantwortet
+- TOP 14.1: "Gender Mainstreaming" jetzt umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Müllentsorgung in Kitas und Schulen effektivieren - in der BVV abgelehnt
+- TOP 16: Bürgerschaftliches Engagement zur Grünflächenpflege unterstützen - in der BVV abgelehnt
+- TOP 17: Abstimmungsverhalten im Rat der Bürgermeister - in der BVV abgelehnt
+- TOP 18: Beratung in den Fachausschüssen der BVV - in der BVV abgelehnt
+- TOP 19: Kein Verkauf der GeSoBau - ohne Änderungen in der BVV beschlossen
