@@ -1,0 +1,6 @@
+# TOP 20.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+
+- Sitzung: ABD (2001-09-12)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/6316
