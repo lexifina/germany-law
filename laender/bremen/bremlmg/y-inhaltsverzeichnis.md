@@ -5,9 +5,9 @@ Abschnitt 1 Allgemeine Vorschriften
 § 2 | Begriffsbestimmungen
 Abschnitt 2 Zuordnung von Übertragungskapazitäten
 § 3 | Inhalt der Zuordnungsentscheidung
-§ 4 | Zuordnungsausschuß
-§ 5 | Verfahren
-§ 6 | Zuordnung von Übertragungskapazitäten zwischen Ländern
+§ 4 | Zuordnungsverfahren
+§ 5 | Zuordnung von Übertragungskapazitäten zwischen Ländern
+§ 6 | Einführung des digitalen terrestrischen Fernsehens
 Abschnitt 3 Zulassung von Rundfunkprogrammen
 § 7 | Zulassung, Antragsverfahren
 § 7a | Vereinfachtes Zulassungsverfahren
@@ -20,6 +20,7 @@ Abschnitt 3 Zulassung von Rundfunkprogrammen
 § 14 | Aufsicht über private Rundfunkveranstalter
 § 15 | Rücknahme
 § 16 | Widerruf
+§ 16a | Zuweisung digitaler Übertragungskapazitäten und technische Bündelung
 Abschnitt 4 Anforderungen an Rundfunkprogramme
 § 17 | Programmauftrag
 § 18 | Vielfalt
