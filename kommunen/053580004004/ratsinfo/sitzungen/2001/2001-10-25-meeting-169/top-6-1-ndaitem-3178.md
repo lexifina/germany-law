@@ -1,4 +1,4 @@
-# TOP 6.1.: Zuschussgewährung
+# TOP 6.1.: Zuweisung zur Förderung kommunaler Projekte der Entwicklungszusammenarbeit nach § 20 Abs. 1 Nr. 4 GFG hier: Zuschussgewährung
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
