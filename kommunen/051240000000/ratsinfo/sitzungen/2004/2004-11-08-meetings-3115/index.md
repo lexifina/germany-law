@@ -1,0 +1,113 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2004-11-08T16:00:00+01:00
+- Ende: 2004-11-08T19:21:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3115
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3115
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Rat - Stand 29.10.2004 - http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00041329.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00042141.pdf
+
+## Tagesordnung
+
+- TOP 1: Wahl der Bürgermeister
+- TOP 1.1: TOP 1 Wahl der Bürgermeister - ungeändert beschlossen
+- TOP 2: Wahl der Mitglieder zur Landschaftsversammlung Rheinland
+- TOP 3: Bildung eines Wahlprüfungsausschusses
+- TOP 4: Bildung und Besetzung von Ausschüssen
+- TOP 4.1: Bildung von Ausschüssen - Grundsatzbeschluss -
+- TOP 4.1.1: Tagesordnungspunkt 4.1, hier: Festlegung der Größe der Ratsausschüsse
+- TOP 4.1.2: Besetzunglisten der Fraktionen
+- TOP -: Besetzungsvorschläge CDU-Fraktion
+- TOP -: Besetzung von Ausschüssen und anderen Gremien (SPD-Fraktion)
+- TOP -: Besetzungsvorschläge der Fraktion BÜNDNIS 90/DIE GRÜNEN
+- TOP -: Ausschuss- und Gremienbesetzungen der WfW - Vorschläge
+- TOP -: Besetzungsliste der FDP-Fraktion für die Ausschüsse und Gremien
+- TOP -: Ausschussbesetzung (Liste der PDS-Fraktion)
+- TOP 4.1.3: Anträge der Ratsgruppe der REP vom 05.11.2004
+- TOP 4.2: Wahl der Mitglieder und deren Vertreter/innen in den Hauptausschuss
+- TOP 4.3: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Finanzen und Be
+- TOP 4.4: Wahl der Mitglieder und deren Vertreter/innen in den Rechnungsprüfungsausschuss
+- TOP 4.5: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss Zentrale Dienste
+- TOP 4.6: Wahl der Mitglieder und deren Vertreter/innen in den Schulausschuss
+- TOP 4.7: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Soziales, Gesundheit und Familie
+- TOP 4.8: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für die Gleichstellung von Frau und M
+- TOP 4.9: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Ordnung, Sicherheit
+- TOP 4.10: Wahl der Mitglieder und deren Vertreter/innen in den Sportausschuss
+- TOP 4.11: Wahl der Mitglieder und deren Vertreter/innen in den Kulturausschuss
+- TOP 4.12: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss Bauplanung
+- TOP 4.13: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Wirtschaft, Stadtentwicklung und
+- TOP 4.14: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Umwelt
+- TOP 4.15: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Verkehr
+- TOP 4.16: Wahl der Mitglieder und deren Vertreter/innen in das Steuerungsgremium Regionale 2006
+- TOP 4.17: Bestellung der Mitglieder des Werksausschusses Gebäudemanagement
+- TOP 4.18: Bildung des Werksausschusses für die Alten- und Altenpflegeheime der Stadt Wuppertal - APH -
+- TOP 4.19: Bildung des Werksausschusses für die Kinder- und Jugendwohngruppen der Stadt Wuppertal - KIJU -
+- TOP 4.19.1: Wahl der Mitglieder und deren Vertreter/innen in den Migrationsausschuss
+- TOP 4.20: Wahl der Mitglieder und deren Vertreter/innen in den Jugendhilfeausschuss
+- TOP 4.21: Besetzung der Vorsitze und deren Stellvertretung von TOP 4.3 bis TOP 4.19.1
+- TOP 5: Bildung und Besetzung von sonstigen Gremien
+- TOP 5.1: Wahl der Mitglieder und der stellvertretenden Mitglieder für den Umlegungsausschuss
+- TOP 5.2: Bestellung eines Vertreters/in für den Vertreter der Stadt in Gesellschafter- bzw. Hauptversammlunge
+- TOP 5.3: Wahl der Mitglieder/VertreterInnen für den Beirat bei der Unteren Landschaftsbehörde
+- TOP 5.4: Abberufung und Neubestellung Vertreters Gesellschafterversammlung der Regionale 2006 Agentur GmbH
+- TOP 5.5: Bestellung der Mitglieder des Aufsichtsrates der Hotel AG
+- TOP 5.6: Bestellung der Mitglieder für den Aufsichtsrat der Wirtschafts- und Beschäftigungsförderungsgesell.
+- TOP 5.7: Bestellung der Mitglieder des Aufsichtsrates der HELIOS Klinikum Wuppertal GmbH
+- TOP 5.8: Bestellung der Vertreter der Stadt Wuppertal für den Aufsichtsrat der Wuppertaler Stadtwerke AG (WSW
+- TOP 5.9: Vorlage wurde von der Verwaltung zurückgezogen
+- TOP 5.10: Bestellung Mitglieder Aufsichtsrat Stadthalle Wuppertal Betriebs- und Veranstaltungsgesellschaft mbH
+- TOP 5.11: Bestellung der Mitglieder für den Aufsichtsrat der Wuppertaler Bühnen GmbH
+- TOP 5.12: Bestellung der Mitglieder für den Beirat der Tanztheater Wuppertal Pina Bausch GmbH
+- TOP 5.13: Wahl der bzw. des Vorsitzenden und der übrigen Mitglieder des Verwaltungsrates der Stadtsparkasse W
+- TOP 5.14: Benennung der Mitglieder der Ankaufskommission Eduard von der Heydt-Stiftung
+- TOP 5.15: Benennung der Mitglieder der Kommission für die Dr.-Alfred-Springorum-Stiftung
+- TOP 5.16: Benennung der Mitglieder des Kuratoriums Wilhelm-Dörpfeld-Gymnasium
+- TOP 5.17: Benennung der Mitglieder des Börsenbeirates
+- TOP 5.18: Benennung der Mitglieder für den Beirat des Trägervereins "Begegnungsstätte Alte Synagoge Wuppertal
+- TOP 5.19: Benennung der Mitglieder des Kuratoriums der Bergischen Universität - Gesamthochschule Wuppertal
+- TOP 5.20: Benennung der Mitglieder des Tierheimbeirates
+- TOP 5.21: Benennung der Mitglieder im Zweckverband Naturpark Bergisch Land
+- TOP 5.22: Benennung der Mitglieder im Zweckverband Ittertal
+- TOP 5.23: Benennung der Mitglieder des Zweckverbandes Neandertal
+- TOP 5.24: Benennung der Mitglieder des Vereins zur Förderung der Abfallwirtschaft Region Rhein-Wupper
+- TOP 5.25: Benennung des Vertreters für den Beirat des Schlossbauvereins Burg an der Wupper e.V.
+- TOP 5.26: Wahl von Mitgliedern der Veranstaltergemeinschaft Lokalfunk Wuppertal e.V.
+- TOP 5.27: Benennung der Mitglieder des Beirates Wuppertaler Kinder- und Jugendtheater
+- TOP 5.28: Gestaltungsbeirat - Neuberufung der Mitglieder
+- TOP 5.29: Benennung der Mitglieder des Polizeibeirates
+- TOP 5.30: Abberufung der bisherigen und Entsendung neuer Vertreterinnen bzw. Vertreter in den Aufsichtsrat der
+- TOP 6: Besetzung von überörtlichen Körperschaften und Verbänden
+- TOP 6.1: Entsendung von Delegierten als Vertreter der Stadt Wuppertal in die Gremien des Wupperverbandes
+- TOP 6.2: Abberufung und Bestellung der Vertreter in der Zweckverbandsversammlung des VRR
+- TOP 6.3: Beschlussfassung bzw. Empfehlung über die Besetzung der Gremien des Abfallwirtschaftsverbandes EKOC
+- TOP 6.4: Wahl der Mitglieder für den Regionalrat
+- TOP 6.5: Wahl der Vertreter zur Mitgliederversammlung der Kommunalen Arbeitsgemeinschaft Bergisch Land e.V.
+- TOP 7: Neue Fraktionsanträge/Fragestunde
+- TOP 7.1: Antrag auf Halbierung der Aufwandsentschädigung für alle Ratsmitglieder und Bezirksvertretungen
+- TOP 7.2: Ausbau Wuppertaler Schwebebahn
+- TOP 7.3: Schwebebahnausbau
+- TOP 7.4: Anträge der Ratsgruppe der REP zur Besetzung von Ausschüssen vom 05.11.2004
+- TOP 7.4.1: Wahl der Mitglieder und deren Vertreter/innen in den Hauptausschuss zu VO/3428/04
+- TOP 7.4.2: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Finanzen und Beteiligungssteurung
+- TOP 7.4.3: Wahl der Mitglieder und deren Vertreter/innen in den Schulausschuss zu VO/3415/04
+- TOP 7.4.4: Wahl der Mitglieder und deren Vertreter/innen in den Rechnungsprüfungsausschuss zu VO/3435/0
+- TOP 7.4.5: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss Zentrale Dienste zu VO/3436/04
+- TOP 7.4.6: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Soziales, Gesundheit und Familie
+- TOP 8: Ortsrecht
+- TOP 9: Haushaltsangelegenheiten
+- TOP 10: Angelegenheiten des Beteiligungsmanagements
+- TOP 10.1: Wirtschaftsplan der Regionale 2006 Agentur GmbH für das Geschäftsjahr 2005
+- TOP 11: Planverfahren
+- TOP 11.2: Freiraumprogramm Talachse - Leitlinie Wupper - weitere Planungsschritte
+- TOP 11.3: Freiraumprogramm Talachse "Neuer Garten Hardt" - weitere Planungsschritte
+- TOP 12: Baumaßnahmen
+- TOP 13: Allgemeine Vorlagen
+- TOP 13.1: Mitgliedschaft der Stadt Wuppertal im Dachverband Kommunaler IT-Dienstleister (KDN)
+- TOP 13.2: Bildung der Einigungsstelle gemäß § 67 Landespersonalvertretungsgesetz NRW
+- TOP 14: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 18.4: Wird unter TOP 5.30 - öffentlicher Teil - behandelt.
