@@ -9,5 +9,5 @@ Vorbemerkungen
 5. Soweit sich die Einreihung in die Besoldungsgruppen nach der Schülerzahl bestimmt, ist von der Zahl der bei Schuljahrsbeginn vorhandenen Schüler jeweils vom Beginn des folgenden Haushaltsjahres an auszugehen. Das gilt auch für Ämter, deren Einreihung in den Bundesbesoldungsordnungen geregelt ist.
 6. Soweit sich aus dem Bundesbesoldungsgesetz und den in der Bremischen Besoldungsordnung A getroffenen Regelungen nichts Abweichendes ergibt und die Tätigkeit nicht bereits bei der Einstufung berücksichtigt worden ist, erhalten Lehrkräfte im Eingangs- und ersten Beförderungsamt ihrer Laufbahn
 a) wenn sie der Besoldungsgruppe A 12 oder einer niedrigeren Besoldungsgruppe angehören, bei Unterricht an einer Sonderschule eine Stellenzulage von 50 DM,
-b) als Pädagogischer Mitarbeiter beim Senator für Bildung, Wissenschaft, Kunst und Sport eine Stellenzulage von 50 DM.
+b) als Pädagogischer Mitarbeiter beim Senator für Bildung und Wissenschaft eine Stellenzulage von 50 DM.
 7. Die Forschungsstelle Text-, Überlieferungs- und Bildungsgeschichte an der Universität Bremen ist eine Einrichtung im Sinne der Vorbemerkung Nr. 2 Abs. 1 zu den Bundesbesoldungsordnungen A und B.

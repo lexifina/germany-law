@@ -12,4 +12,4 @@ einer voll ausgebauten Gesamtschule
 einem Gymnasium
 einer Sonderschule
 eine Stellenzulage von 50 DM.
-3) Erhält für die Dauer seiner Tätigkeit als Pädagogischer Mitarbeiter beim Senator für Bildung, Wissenschaft, Kunst und Sport eine Stellenzulage von 50 DM.
+3) Erhält für die Dauer seiner Tätigkeit als Pädagogischer Mitarbeiter beim Senator für Bildung und Wissenschaft eine Stellenzulage von 50 DM.
