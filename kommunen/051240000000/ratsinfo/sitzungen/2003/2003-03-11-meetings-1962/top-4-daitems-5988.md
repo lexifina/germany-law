@@ -1,0 +1,7 @@
+# TOP 4: Vorstellung der Realisierungsplanung Justizzentrum
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses Verbindliche Bauleitplanung (2003-03-11)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/5988
+- Ergebnis: Kenntnis genommen
