@@ -1,4 +1,4 @@
 # Sächsisches Gesetz über kommunale Zusammenarbeit (SächsKomZG)
 Vom 19. August 1993
-Rechtsbereinigt mit Stand vom 1. April 2003
+Rechtsbereinigt mit Stand vom 23. Mai 2004
 Der Sächsische Landtag hat am 15. Juli 1993 das folgende Gesetz beschlossen:
