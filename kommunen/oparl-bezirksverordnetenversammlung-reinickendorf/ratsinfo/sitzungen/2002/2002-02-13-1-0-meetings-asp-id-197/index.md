@@ -1,0 +1,69 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf AUS TECHNISCHEN GRÜNDEN KÖNNEN DIE TAGESORDNUNG UND DIE EINLADUNG NICHT IN DATENFORM ABGERUFEN WERDEN!
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2002-02-13T17:00:00+01:00
+- Ende: 2002-02-13T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=197
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=197
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: (nichtöffentlich) - (offen)
+- TOP 2: (nichtöffentlich) - (offen)
+- TOP 3: (nichtöffentlich) - (offen)
+- TOP 3.1: (nichtöffentlich) - (offen)
+- TOP 4: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 5: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 6: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 7: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 8: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 9: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 10: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 11: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 12: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 13: (nichtöffentlich) - überwiesen
+- TOP 14: (nichtöffentlich) - überwiesen
+- TOP 15: (nichtöffentlich) - mit Änderungen in der BVV beschlossen
+- TOP 16: (nichtöffentlich) - erledigt
+- TOP 17: (nichtöffentlich) - vertagt
+- TOP 18: (nichtöffentlich) - überwiesen
+- TOP 19: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 20: (nichtöffentlich) - überwiesen
+- TOP 21: (nichtöffentlich) - überwiesen
+- TOP 22: (nichtöffentlich) - überwiesen
+- TOP 23: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 24: (nichtöffentlich) - überwiesen
+- TOP 25: (nichtöffentlich) - vertagt
+- TOP 26: (nichtöffentlich) - überwiesen
+- TOP 27: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 28: (nichtöffentlich) - überwiesen
+- TOP 29: (nichtöffentlich) - überwiesen
+- TOP 30: (nichtöffentlich) - überwiesen
+- TOP 31: (nichtöffentlich) - überwiesen
+- TOP 32: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 33: (nichtöffentlich) - beantwortet
+- TOP 34: (nichtöffentlich) - vertagt
+- TOP 35: (nichtöffentlich) - vertagt
+- TOP 36: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 37: (nichtöffentlich) - überwiesen
+- TOP 38: (nichtöffentlich) - überwiesen
+- TOP 39: (nichtöffentlich) - überwiesen
+- TOP 40: (nichtöffentlich) - beantwortet
+- TOP 41: (nichtöffentlich) - beantwortet
+- TOP 42: (nichtöffentlich) - erledigt
+- TOP 43: (nichtöffentlich) - überwiesen
+- TOP 44: (nichtöffentlich) - überwiesen
+- TOP 45: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 46: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 47: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 48: (nichtöffentlich) - überwiesen
+- TOP 49: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 50: (nichtöffentlich) - überwiesen
+- TOP 51: (nichtöffentlich) - vertagt
+- TOP 52: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 53: (nichtöffentlich) - mit Änderungen in der BVV beschlossen
+- TOP 54: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
