@@ -1,8 +1,8 @@
 # Vollzitat: VwV-Lehrkräftebeurteilung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2002-11-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/2913.2
+- Datum: 2003-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/2913.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.11.2002
+01.01.2003
 bis
-31.12.2002
+31.12.2003
 
 VwV-Lehrkräftebeurteilung
 
@@ -105,7 +105,7 @@ beurlaubt sind
 
 b)
 
-zu einem anderen Dienstherrn abgeordnet sind oder
+u einem anderen Dienstherrn abgeordnet sind oder
 
 c)
 
@@ -423,7 +423,7 @@ In-Kraft-Treten, Außer-Kraft-Treten, Übergangsbestimmungen
 
 1.
 
-Der Stichtag für die erste regelmäßige Beurteilung nach dieser Verwaltungsvorschrift der Schulleiter ist der 31. März 2003. Der Stichtag für die erste regelmäßige Beurteilung nach dieser Verwaltungsvorschrift der Beschäftigten (einschließlich Fachleiter, jedoch ohne Schulleiter und Stellvertreter und Fachberater) ist der 1. Oktober 2003. Der Stichtag für die erste regelmäßige Beurteilung nach dieser Verwaltungsvorschrift für die stellvertretenden Schulleiter und Fachberater ist der 31. Januar 2004. Stichtag ist der letzte Tag des Beurteilungszeitraumes. Die Beurteilung soll den Mitarbeitern spätestens ein halbes Jahr nach Ablauf des Stichtages eröffnet werden.
+Der Stichtag für die erste regelmäßige Beurteilung nach dieser Verwaltungsvorschrift der Schulleiter ist der 31. März 2003. Der Stichtag für die erste regelmäßige Beurteilung nach dieser Verwaltungsvorschrift der Beschäftigten (einschließlich Fachleiter, jedoch ohne Schulleiter und Stellvertreter und Fachberater) ist der 1. August 2004. Der Stichtag für die erste regelmäßige Beurteilung nach dieser Verwaltungsvorschrift für die stellvertretenden Schulleiter und Fachberater ist der 1. Juni 2004. Stichtag ist der letzte Tag des Beurteilungszeitraumes. Die Beurteilung soll den Mitarbeitern spätestens ein halbes Jahr nach Ablauf des Stichtages eröffnet werden.
 
 2.
 
@@ -457,9 +457,9 @@ Fsn-Nr.: 240-V02.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. November 2002
+Fassung gültig ab:  1. Januar 2003
 
-Fassung gültig bis: 31. Dezember 2002
+Fassung gültig bis: 31. Dezember 2003
 
 Drucken/Speichern
 
@@ -486,7 +486,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/2913.2
+https://www.revosax.sachsen.de/vorschrift/2913.3
 Stand vom
 18.11.2026
 
