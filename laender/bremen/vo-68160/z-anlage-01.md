@@ -2,22 +2,25 @@
 Anlage 1
 (zu § 4 Abs. 1)
 Stundentafel für die kaufmännische Berufsfachschule Bildungsgang: Handelsschule
-Fächer | Wochenunterrichtsstunden | 
+ | Unterrichts- stunden pro Jahr | 
  | 1. | 2.
- | Schuljahr
-1. Fachrichtungsübergreifender Lernbereich |  | 
-Deutsch | 4 | 4
-Politik | 2 | 2
-Sport | 2 | 2
- | 8 | 8
-2. Fachrichtungsbezogener Lernbereich |  | 
-Englisch | 4 | 4
-Mathematik | 3 | 3
-Betriebswirtschaftslehre | 3 | 3
-Rechnungswesen | 4 | 4
-Datenverarbeitung | 2 | 2
-Bürowirtschaft/Lernbüro | 3 | 3
-Textverarbeitung | 3 | 3
-Stütz- und Förderunterricht | 2 | 2
- | 24 | 24
- | 32 | 32
+ | Schuljahr | 
+Pflichtbereich |  | 
+Fachrichtungsüber- greifender Bereich |  | 
+Deutsch | 320 | 320
+Fremdsprache |  | 
+Mathematik | 120 | 120
+Politik | 80 | 80
+Sport | 80 | 80
+ | 600 | 600
+Fachrichtungsbezogener Lernbereich |  | 
+Wirtschaftslehre mit Wirtschaftspraxis | 200 | 240
+Informationsverarbeitung | 320 | 320
+- Rechnungswesen einschließ- lich Datenverarbeitung |  | 
+- Textverarbeitung |  | 
+ | 520 | 520
+Wahlpflichtbereich |  | 
+ | 160 | 160
+ | 160 | 160
+Gesamtstunden Schüler | 1280 | 1280
+Gesamtstunden Lehrer | 1280 | 1280

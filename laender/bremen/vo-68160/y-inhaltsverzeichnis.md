@@ -14,6 +14,7 @@ Teil 2: Prüfung
 § 10 | Prüfungsausschuß und Teilprüfungsausschüsse
 § 11 | Gegenstand, Ort und Termine der Prüfung, Belehrung
 § 12 | Zulassung zur Prüfung
+§ 12a | Berücksichtigung besonderer Belange Behinderter
 § 13 | Festlegung der schriftlichen Prüfungsfächer
 § 14 | Erste Prüfungskonferenz
 § 15 | Praktische Prüfung
