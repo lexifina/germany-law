@@ -1,0 +1,1 @@
+Auf Grund des § 87 Abs. 2 der Patentanwaltsordnung vom 7. September 1966 (BGBl I S. 557), zuletzt geändert durch Art. 1 Nr. 13 des Gesetzes vom 19. Dezember 1998 (BGBl I S. 3836), erlässt das Bayerische Staatsministerium der Justiz folgende Verordnung:
