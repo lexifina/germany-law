@@ -61,22 +61,15 @@ fortgeltend:
 gesamte Vorschrift nach Maßgabe von Artikel 3 Satz 3 des Gesetzes zur Regelung der Rechtsverhältnisse bei Eisenbahnen und Seilbahnen im Freistaat Sachsen vom 12. März 1998 (SächsGVBl. S. 97, 106).
 17. 94 Anordnung Nr. 2 über die Regelung des Verkehrs auf Binnengewässern – Binnengewässerverkehrsordnung (BGVO) –
 vom 15. Februar 1984 (GBl. I Sonderdruck Nr. 951/1)
-fortgeltend:
-gesamte Vorschrift
+Vorschrift außer Kraft durch § 17 Nr. 1 der VO vom 12. März 2004 (SächsGVBl. S. 123, 126)
 18. 94 Anordnung Nr. 2 über die Regelung des Verkehrs mit Sport- und Hausbooten – Sportbootanordnung (SBAO) –
 vom 27. Februar 1990 (GBl. I Sonderdruck Nr. 730/4)
-fortgeltend für Landeswasserstraßen:
-gesamte Vorschrift
+Vorschrift außer Kraft durch § 17 Nr. 2 der VO vom 12. März 2004 (SächsGVBl. S. 123, 126)
 19. 950 Anordnung über den Betrieb und die Benutzung von Fähren und Fähranlegestellen – Fährordnung –
 vom 26. März 1970 (GBl. II Nr. 32 S. 231)
-Genese: § 12 Abs. 2 aufgehoben durch § 20 Abs. 3 der Verordnung über die Leitung und Durchführung der öffentlichen Personenbeförderung – Personenbeförderungsverordnung (PBVO) – vom 5. Januar 1984 (GBl. I Nr. 4 S. 25)
-fortgeltend für Binnengewässer:
-gesamte Vorschrift
+Vorschrift außer Kraft durch § 17 Nr. 3 der VO vom 12. März 2004 (SächsGVBl. S. 123, 126)
 20. 9503 Anordnung über die Besetzung von Fahrzeugen und Verbänden sowie über Befähigungszeugnisse, Berechtigungsscheine, Bordlisten und Schifferdienstbücher in der Binnenschiffahrt – Binnenschiffsbesetzungsanordnung (BSB-AO) –
 vom 18. Dezember 1986 (GBl. I Sonderdruck Nr. 1281)
-fortgeltend für schiffbare Landeswasserstraßen:
-gesamte Vorschrift mit Ausnahme des § 24
+Vorschrift außer Kraft durch § 17 Nr. 4 der VO vom 12. März 2004 (SächsGVBl. S. 123, 126)
 21. 97 Anordnung über die öffentliche Personen- und Gepäckbeförderung des Kraftverkehrs, Nahverkehrs und der Fahrgastschiffahrt – Personenbeförderungsanordnung (PBO) –
-vom 5. Januar 1984 (GBl. I Nr. 4 S. 44)
-fortgeltend:
-Abschnitt I, ausgenommen § 1 Abs. 1 Buchst. a bis e, Abschnitte II, IV und VI
+Vorschrift außer Kraft durch § 17 Nr. 5 der VO vom 12. März 2004 (SächsGVBl. S. 123, 126)
