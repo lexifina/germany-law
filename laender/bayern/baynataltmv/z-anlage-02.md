@@ -1,0 +1,20 @@
+# Anlage 2 (zu § 6 Abs. 2)
+Die Verbote des § 6 Abs. 2 gelten in folgenden Tallandschaften der Schutzzone:
+– Altmühltal zwischen Treuchtlingen-Dietfurt, Landkreis Weißenburg-Gunzenhausen, und Kelheim, Landkreis Kelheim,
+– Tal der östlichen Rohrach zwischen Heidenheim-Rohrach und Altmühltal bei Treuchtlingen-Wettelsheim, Landkreis Weißenburg-Gunzenhausen,
+– Möhrenbachtal zwischen Treuchtlingen-Gundelsheim und Altmühltal bei Treuchtlingen, Landkreis Weißenburg-Gunzenhausen,
+– Laubental und Schambachtal zwischen Weißenburg-Laubenthal und Altmühltal bei Treuchtlingen-Schambach, Landkreis Weißenburg-Gunzenhausen,
+– Gailachtal zwischen Monheim-Warching, Landkreis Donau-Ries, und Altmühltal bei Mörnsheim, Landkreis Eichstätt,
+– Rieder Tal zwischen Wellheim-Konstein und Altmühltal bei Dollnstein, Landkreis Eichstätt,
+– Schuttertal zwischen Wellheim, Landkreis Eichstätt, und Einmündung des Hüttinger Bachs nördlich von Neuburg-Bergen, Landkreis Neuburg-Schrobenhausen, mit Tal des Hüttinger Bachs zwischen Rennertshofen-Ellenbrunn und Schuttertal, Landkreis Neuburg-Schrobenhausen,
+– Kindertal zwischen Adelschlag-Ochsenfeld und Eichstätt-Wasserzell, Landkreis Eichstätt,
+– Pfünzer Tal östlich von Adelschlag bis Altmühltal bei Walting-Pfünz, Landkreis Eichstätt,
+– Affental zwischen Schönem Haartal westlich von Walting-Affenthal und Altmühltal bei Walting, Landkreis Eichstätt,
+– Schambachtal zwischen Lachengrund südlich von Kipfenberg-Schambach und Altmühltal bei Kipfenberg-Arnsberg, Landkreis Eichstätt,
+– Birktal zwischen Heiligengrund und Altmühltal bei Kipfenberg, Landkreis Eichstätt,
+– Anlautertal zwischen Nennslingen, Landkreis Weißenburg-Gunzenhausen, und Altmühltal bei Kinding, Landkreis Eichstätt, mit Morsbachtal zwischen Titting-Morsbach und Anlautertal, Landkreis Eichstätt,
+– Schwarzachtal zwischen Greding-Großhöbing, Landkreis Roth, und Altmühltal bei Kinding, Landkreis Eichstätt, mit Agbachtal zwischen Greding-Herrnsberg und Greding, Landkreis Roth, und Heimbachtal zwischen Brunntal, Landkreis Roth, und Schwarzachtal, Landkreis Eichstätt,
+– Sulztal zwischen nördlicher Naturparkgrenze bei Berching-Breitenfurt, Landkreis Neumarkt i. d. OPf., und Altmühltal bei Beilngries, Landkreis Eichstätt,
+– Tal der Weißen-/Unterbürger Laaber zwischen nördlicher Naturparkgrenze bei Berching-Biermühle und Altmühltal bei Dietfurt a. d. Altmühl, Landkreis Neumarkt i. d. OPf.,
+– Tal der Wissinger-/Breitenbrunner Laaber zwischen nördlicher Naturparkgrenze bei Seubersdorf-Wissing und Tal der Weißen Laaber bei Dietfurt a. d. Altmühl, Landkreis Neumarkt i. d. OPf.,
+– Schambachtal zwischen Altmannstein-Schamhaupten, Landkreis Eichstätt, und Altmühltal bei Riedenburg, Landkreis Kelheim.
