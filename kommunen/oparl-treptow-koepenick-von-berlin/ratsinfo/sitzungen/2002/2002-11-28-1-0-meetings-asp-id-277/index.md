@@ -1,0 +1,83 @@
+# 12. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2002-11-28T16:00:00+01:00
+- Ende: 2002-11-28T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=277
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=277
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Nachnutzung von Schulgebäuden
+- TOP 8: Europaschule
+- TOP 9: "Gestiegene Sozialausgaben - Schlusslicht Treptow-Köpenick"
+- TOP 10: Einnahmen in den Seniorenfreizeiteinrichtungen - schriftlich beantwortet
+- TOP 11: Personal für Sicherheit auf Kinderspielplätzen - vertagt
+- TOP 12: Abfallvermeidung bei Großveranstaltungen - vertagt
+- TOP 13: Jugendcliquen in Treptow-Köpenick - schriftlich beantwortet
+- TOP 14: Solar-aktiv - vertagt
+- TOP 15: Schulentwicklungsplan 2002-2006 - vertagt
+- TOP 16: Zentrale Revision zur Korruptionsbekämpfung - schriftlich beantwortet
+- TOP 17: Sondermittel für den Kulturverein Brücke 7 e.V. (SM 247) - ohne Änderungen in der BVV beschlossen
+- TOP 18: Sondermittel für Tourismusverein Berlin Köpenick-Treptow e.V. (SM 253) - ohne Änderungen in der BVV beschlossen
+- TOP 19: Sondermittel für Richtershorner Ruderverein e.V. (SM 254) - ohne Änderungen in der BVV beschlossen
+- TOP 20: Sondermittel für Besuch von Flutopfern (SM 255) - mit Änderungen in der BVV beschlossen
+- TOP 21: Sondermittel für Kulturring in Berlin e.V. (SM 256) - ohne Änderungen in der BVV beschlossen
+- TOP 22: Sondermittel für Kindervereinigung Berlin e.V. (SM 257) - ohne Änderungen in der BVV beschlossen
+- TOP 23: Sondermittel für Kulturhistorischer Verein Friedrichshagen e.V. (SM 259) - ohne Änderungen in der BVV beschlossen
+- TOP 24: Änderung der Geschäftsordnung der BVV Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 25: Hinweisschilder auf bedeutende Persönlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 26: Wirtschaftliche Ergebnisse für den Bezirk - in der BVV zurückgezogen
+- TOP 27: Stele auf dem Platz der Befreiung - ohne Änderungen in der BVV beschlossen
+- TOP 28: 1. FC Union - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 29: Entlastung Köpenicker Altstadt nach Straßeneröffnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 30: Bebauungsplan 9-9, hier: - Rechtsverordnung zur Festsetzung des Bebauungsplanes 9-9 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 31: Ampel aus ab 22.00 Uhr - ohne Änderungen in der BVV beschlossen
+- TOP 32: Tempo 30 in der Köpenicker Straße im Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 33: Grünphase
+- TOP 34: Busanbindung Ärztinnenviertel Altglienicke
+- TOP 35: Anwohnerzugang Feldstraße
+- TOP 36: Maßnahmen zu umweltgerechtem Verhalten
+- TOP 37: Untersuchung der Ablagerungen im Zeuthener See und Langer See auf Schadstoffe
+- TOP 38: Ski- und Snowboardhalle
+- TOP 39: Genehmigung der im Haushaltsjahr 2001 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen
+- TOP 40: Einstellung des Planaufstellungsverfahrens zum Bebauungsplan XVI-19 nebst Begründung
+- TOP 41: Einleitung des Planaufstellungsverfahrens zum Bebauungsplan 9-11 nebst Begründung
+- TOP 42: - Entwurf des Bebauungsplanes XV-10a nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-10a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke
+- TOP 43: Größere Fahrzeuge auf der Nachtbuslinie N69
+- TOP 44: Altglienicker Brücke
+- TOP 45: Festlegung der instanziellen Zuständigkeit innerhalb des Bezirksamtes Treptow-Köpenick für Umweltverträglichkeitsprüfungen in Ergänzung des BA-Beschlusses Nr. 61/02 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 46: Genehmigung der im 1. Halbjahr 2002 zugelassenen über- und außerplanmäßigen Ausgaben
+- TOP 47: Änderung des BA-Beschlusses 71/02 vom 09.07.2002 "Benennung von 46 Privatstraßen im Wissenschaftsstandort Adlershof", BAAG-Gelände und Benennung eines neu gebauten privaten Platzes im BAAG-Gelände, Ortsteil Johannisthal, in "Forum" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 48: Bebauungsplan XVI-29 hier: Änderung des BA-Beschlusses Nr. 149/93 vom 27. September 1993 (Teilung des Geltungsbereiches)
+- TOP 49: Bebauungsplan XVI-48 hier: Änderung des BA-Beschlusses Nr. 154/93 vom 29. November 1993 (Reduzierung des Geltungsbereiches)
+- TOP 50: Übertragung an Freie Träger
+- TOP 51: Flexible Investitionsplanung
+- TOP 52: Weiterbau der A 100 bis zur Frankfurter Allee - ohne Änderungen in der BVV beschlossen
+- TOP 53: Umbau der "Domäne-Halle" im Entwicklungsgebiet Adlershof zu einem Sportkomplex - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 54: Grünzug Spree - Wuhlheide in Oberschöneweide
+- TOP 55: Ampelschaltung in Baumschulenweg
+- TOP 56: Investitionsplanung 2003
+- TOP 57: Busspur auf der B 96a
+- TOP 58: Jugendforum 2010 zur Zukunft der Jugendarbeit
+- TOP 59: Übernahme von Auszubildenden
+- TOP 60: Beschäftigtenumfrage
+- TOP 61: Ortsteilbenennung
+- TOP 62: Heidekampgraben
+- TOP 63: Leitlinien für die Seniorenpolitik
+- TOP 64: Görlitzer Damm
+- TOP 65: Verkehrssicherung Wilhelm-Spindler-Brücke
+- TOP 66: Tempo-30-Zone in der Baumschulenstraße
+- TOP 67: Wochenmärkte
+- TOP 68: Aktion Fluthilfe
+- TOP 69: Personalentwicklung im Bezirksamt Treptow-Köpenick
