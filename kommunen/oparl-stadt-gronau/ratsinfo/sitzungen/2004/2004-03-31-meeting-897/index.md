@@ -1,0 +1,53 @@
+# Rat
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2004-03-31T17:00:00+02:00
+- Ende: 2004-03-31T22:55:00+02:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRhXzhdtLAXv5Qf3TzUBhHA
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/897
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY5zW-hXxoLG3VEEZGw1o484isA4iWDebjs5XJg6QkYK/Bekanntmachung_Rat_31.03.2004.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYIYlrHbiERrdb92qMXu8APfJz-lOa7wQKw0BsPILuU6/Oeffentliche_Niederschrift_Rat_31.03.2004.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 04.02.2004
+- TOP 3.: Wirtschaftsplan 2004 Zentrale Bau- und Umweltdienste der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 4.: Wirtschaftsplan 2004 der Landesgartenschau Gronau/Losser 2003 GmbH - Einstimmig, 0 Enthaltungen
+- TOP 5.: Stellenplanentwurf für das Jahr 2004 - 25 Jastimmen, 14 Neinstimmen, 2 Enthaltungen
+- TOP 6.: Abschließende Beratung des Budgetentwurfs 2004 - 26 Jastimmen, 14 Neinstimmen, 1 Enthaltungen
+- TOP 6.1.: Abschließende Beratung des Budgetentwurfs 2004 (Ergänzungsvorlage) - 26 Jastimmen, 14 Neinstimmen, 1 Enthaltungen
+- TOP 7.: Inselpark Gronau Ansiedlung eines Factory-Outlet-Center Sachstandsbericht - Ohne Abstimmung
+- TOP 8.: Inselpark Gronau Vorhabenbezogener Bebauungsplan "Kircheninsel" (Errichtung eines Wohn- und Geschäftshauses), Stadtteil Gronau 1. Aufstellungsbeschluss 2. Beteiligung der Bürger gem. § 3 Abs. 1 BauGB 3. Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 9.: Anträge der Fraktionen
+- TOP 9.1.: Öffnung eines Wohnmobil-Parkplatzes am Dreiländersee für PKW's -Antrag der CDU-Fraktion vom 16.03.2004 - Einstimmig, 0 Enthaltungen
+- TOP 9.2.: Antrag der SPD-Fraktion im Rat der Stadt Gronau Änderung des Flächennutzungsplanes im Bereich der Vennstraße, Stadtteil Epe - 40 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 9.3.: Resolution zur Bewerbung der Stadt Münster als "Kulturhauptstadt Europas" - Antrag der SPD-Fraktion vom 22.03.2004
+- TOP 9.4.: Resolution des Gronauer Rates gegen den geplanten Castortransport von Rossendorf nach Ahaus - Antrag der UWG - Fraktion
+- TOP 10.: Stärkung des Stadtmarketings und Weiterentwicklung des touristischen Folgekonzeptes nach der Landesgartenschau - Einstimmig, 0 Enthaltungen
+- TOP 11.: Betrieb der Radstation am Bahnhof Gronau - Einstell-Gebühren und Abstellverbote für den Bahnhofsvorplatz - 39 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 12.: Antrag der Arbeiterwohlfahrt auf Erhöhung der städischen Zuschüsse zu den Betriebskosten der Kindergärten in Trägerschaft der Arbeiterwohlfahrt - Einstimmig, 0 Enthaltungen
+- TOP 13.: Vertrag mit dem Diakonischen Werk über die Wahrnehmung von Aufgaben der offenen/mobilen Jugendarbeit im Sinne des § 11 SGB VIII - Einstimmig, 0 Enthaltungen
+- TOP 14.: Errichtung einer "Offenen Ganztagsschule im Primarbereich" an der Pestalozzischule (Sonderschule) Anträge an die Bezirksregierung Münster auf Bewilligung einer Landeszuwendung für die Durchführung des außerunterrichtlichen Angebots und von Bundesmitteln für investive Maßnahmen - Einstimmig, 0 Enthaltungen
+- TOP 15.: Gewährung einer jährlichen Zuwendung für die Frauenschutzwohnung in Gronau hier: Abschluss einer Vereinbarung mit dem Sozialdienst katholischer Frauen e.V., Ortsgruppe Gronau - Einstimmig, 0 Enthaltungen
+- TOP 16.: Jahresabschluss 2002 der Landesgartenschau Gronau/Losser 2003 GmbH 1. Kenntnisnahme des Jahesabschlusses 2002 2. Entlastung des Aufsichtsrates und der Geschäftsführung - Einstimmig, 0 Enthaltungen
+- TOP 17.: Bekanntgabe des Jahresabschlussergebnisses 2003 sowie Vorlage des Rechenschafts- und Verwaltungsberichtes der Stadt Gronau - 29 Jastimmen, 0 Neinstimmen, 12 Enthaltungen
+- TOP 18.: Genehmigung von über- und außerplanmäßigen Bereitstellungen von Haushaltsmitteln im Haushaltsjahr 2003 Genehmigung der Bildung von Haushaltseinnahme- und Haushaltsausgaberesten - 29 Jastimmen, 0 Neinstimmen, 12 Enthaltungen
+- TOP 19.: 69. Änderung des Flächennutzungsplanes (Windenergieanlagen) Aufhebung der vom Rat der Stadt Gronau am 19.11.2003 beschlossenen Maßgabe, dass die Abstandsvorgabe von 50 m in südlicher Richtung aufgehoben wird. - Einstimmig, 0 Enthaltungen
+- TOP 20.: 76. Änderung des Flächennutzungsplanes der Stadt Gronau (Windenergieanlagen) 1. Aufstellungsbeschluss gem. § 2 (1) BauGB 2. Beteiligung der Bürger gem. § 3 (1) BauGB 3. Beteiligung der Träger öffentlicher Belange gem. § 4 (1) BauGB - Einstimmig, 0 Enthaltungen
+- TOP 21.: Bebauungsplan Nr. 207 "Nieland", 2. Änderung, Stadtteil Epe 1. Behandlung der Stellungnahmen aus der frühzeitigen Bürgerbeteiligung gem. § 3 (1) BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 (1) BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 (2) BauGB 4. Satzungsbeschluss gem. § 10 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 22.: Bebauungsplan Nr. 204 "Danzigweg", 1. Änderung, Stadtteil Epe 1. Aufstellungsbeschluss 2. Bürgerbeteiligung 3. Beteiligung der Träger öffentlicher Belange - Einstimmig, 0 Enthaltungen
+- TOP 23.: Bebauungsplan Nr. 234 "Hoher Weg", Teilbereich I, 2. Änderung, Stadtteil Epe 1. Aufstellungsbeschluss 2. Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 3. Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 24.: Bestellung eines Vertreters der Stadt Gronau für die Sitzungen des Aufsichtsrates der Kultur-Büro Gronau GmbH - 28 Jastimmen, 0 Neinstimmen, 13 Enthaltungen
+- TOP 25.: Bestellung eines Vertreters des Hauptverwaltungsbeamten für die Sitzungen des Aufsichtsrates der Chance GmbH und der Gesellschaft für Arbeitsförderung mbH (GFA) - Einstimmig, 0 Enthaltungen
+- TOP 26.: Mitteilungen der Verwaltung
+- TOP 26.1.: Vorläufiger Jahresabschluss des Geschäftsjahres 2003 der Rock´n´Popmuseum GmbH erstellt
+- TOP 27.: Anfragen
+- TOP 27.1.: Zahlungen an die Fa. MIM für gelieferte LED-Displays (RM Walkowiak)
+- TOP 27.2.: Anfrage zu Leistungen nach dem Asylbewerberleistungsgesetz (RM Bartels)
+- TOP 27.3.: Ansiedlung eines Lebensmittelmarktes in der Oststraße? (RM Arends)
