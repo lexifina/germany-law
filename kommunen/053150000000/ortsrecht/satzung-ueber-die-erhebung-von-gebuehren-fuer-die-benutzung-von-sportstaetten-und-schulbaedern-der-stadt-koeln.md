@@ -1,8 +1,8 @@
 # Satzung über die Erhebung von Gebühren für die Benutzung von Sportstätten und Schulbädern der Stadt Köln sowie der städtischen Nutzungszeiten in den Bädern der KölnBäder GmbH (Sportstättengebührensatzung)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2004-05-24 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/sportstaettengebuehrensatzung_24-05-2004.pdf
+- Datum: 2004-12-21 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/sportstaettengebuehrensatzung_21-12-2004.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,9 +10,8 @@
 
 Satzung über die Erhebung von Gebühren für die Benutzung von Sportstätten und Schulbädern der Stadt Köln sowie der städtischen Nutzungszeiten in den
 Bädern der KölnBäder GmbH (Sportstättengebührensatzung) vom 7. Juli 1998
-in der Fassung der 2. Satzung zur Änderung Sportstättengebührensatzung vom 24. Mai 2004
-- ABl. StK 1998 S. 257 ff., S. 404, 2004, S. 251
-Präambel
+in der Fassung der 3. Satzung zur Änderung Sportstättengebührensatzung vom 21. Dezember 2004
+- ABl. StK 1998 S. 257 ff., S. 404, 2004, S. 251, S. 1018 Präambel
 Der Rat hat in seiner Sitzung vom 23. Juni 1998 aufgrund der §§ 4,5 und 6 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen vom 21. Oktober 1969 (SGV. NW 610) in Verbindung mit den §§ 7 und 76 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV. NRW 2023) jeweils in der geltenden Fassung - diese Satzung beschlossen.
 §1 Gebührenpflicht
 Für die Inanspruchnahme der der Geltung der Sportstättensatzung vom 07.07.1998 in deren jeweils geltenden Fassung - unterliegenden Einrichtungen werden Gebühren und Kosten nach dieser Satzung und dem zugehörigen Gebührentarif erhoben. Der Gebührentarif ist Bestandteil dieser Satzung.
@@ -22,11 +21,14 @@ Für die Inanspruchnahme der der Geltung der Sportstättensatzung vom 07.07.1998
 Seite 1 von 10
 
 §3 Schuldner
-(1) Schuldner ist a) bei Gebühren nach den Ziffern 1. bis 4.5 der Erlaubnisnehmer, b) bei Gebühren für Nebenleistungen nach den Ziffern 5. bis 5.4 des Gebührentarifs, wer die Nebenleistungen in Anspruch nimmt, c) bei sonstigen Leistungen, wer die Leistung in Anspruch nimmt.
+(1) Schuldner ist a) bei Gebühren nach den Ziffern 1. bis 4.5 der Erlaubnisnehmer, b) bei Gebühren für Nebenleistungen nach den Ziffern 5. bis 5.4 des Gebührentarifs, wer die Nebenleistungen in Anspruch nimmt,
+c) bei sonstigen Leistungen, wer die Leistung in Anspruch nimmt.
 (2) Bei nichtrechtsfähigen Personengruppen sind alle Mitglieder derselben Schuldner.
 §4 Befreiung, Ermäßigung und Erhöhung von Benutzungsgebühren
 (1)
-1.1. Die Benutzung der „ungedeckten Sportstätten“ zu Lehr- und Übungszwecken sowie für Amateursportveranstaltungen ist gebührenfrei; für die Benutzung der „gedeckten Sportstätten“ zu Lehr- und Übungszwecken gilt eine Gebührenbefreiung zu 75% (s. Gebührentarif 2.2.1 bis 2.2.3 und 2.2.5); die Benutzung der „gedeckten Sportstätten“ für Amateursportveranstaltungen ist gebührenfrei1.1.1. für Vereine, die dem StadtSportBund Köln e.V. über ihren örtlichen Fachverband (bzw. über ihre örtliche Interessengemeinschaft) und über den Stadtbezirkssportverband angehören, wenn mindestens 20 % ihrer Mitglieder minderjährig sind oder wenn sie aus Gründen, die sie nicht selbst zu vertreten haben, keine Jugendarbeit betreiben können. Stichtag zum Nachweis der Anzahl minderjähriger Mitglieder ist der 28. 02. des jeweiligen Jahres, 1.1.2. auf Antrag für nicht vereinsgebundene Kinder- und Jugendgruppen in Begleitung eines Gruppenleiters mit Übungsleiterlizenz A oder vergleichbarer Lehrbefähigung, 1.1.3. auf Antrag für Sportgruppen der freien Wohlfahrtsverbände, Behindertenorganisationen, Seniorengemeinschaften sowie andere Einrichtungen, soweit sie keinen gesetzlichen Förderungsanspruch haben und als gemeinnützig anerkannt sind und lizensierte Übungsleiter oder Betreuer mit vergleichbarer Lehrbefähigung einsetzen, 1.1.4. für Sportgruppen des Bildungswerkes des LandesSportBundes NW und der Volkshochschule der Stadt Köln.
+1.1. Die Benutzung der „ungedeckten Sportstätten“ zu Lehr- und Übungszwecken sowie für Amateursportveranstaltungen ist gebührenfrei; für die Benutzung der „gedeckten Sportstätten“ zu Lehr- und Übungszwecken durch Kinder und Jugendliche gilt eine Gebührenbefreiung zu 100 %, für alle übrigen Gruppen zu 75% (s. Gebührentarif 2.2.1 bis 2.2.3 und 2.2.5); die Benutzung der „gedeckten Sportstätten“ für Amateursportveranstaltungen ist gebührenfrei 1.1.1. für Vereine, die dem StadtSportBund Köln e.V. über ihren örtlichen Fachverband (bzw. über ihre örtliche Interessengemeinschaft) und über den Stadtbezirkssportverband angehören, wenn mindestens 20 % ihrer Mitglieder minderjährig sind oder wenn sie aus Gründen, die sie nicht selbst zu vertreten haben, keine Jugendarbeit betreiben können. Stichtag zum Nachweis der Anzahl minder-jähriger Mitglieder ist der 28. 02. des jeweiligen Jahres, 1.1.2. auf Antrag für nicht vereinsgebundene Kinder- und Jugendgruppen in Begleitung eines Gruppenleiters mit Übungsleiterlizenz A oder vergleichbarer Lehrbefähigung,
+1.1.3. auf Antrag für Sportgruppen der freien Wohlfahrtsverbände, Behindertenorganisationen, Seniorengemeinschaften sowie andere Einrichtungen, soweit sie keinen gesetzlichen Förderungsanspruch haben und als gemeinnützig anerkannt sind und lizensierte Übungsleiter oder Betreuer mit vergleichbarer Lehrbefähigung einsetzen,
+1.1.4. für Sportgruppen des Bildungswerkes des LandesSportBundes NW und der Volkshochschule der Stadt Köln.
 Diese Gebührenbefreiung gilt nicht für Einrichtungen und Gruppen, die erwerbswirtschaftliche Zwecke verfolgen, ebenso nicht für Nebenleistungen nach den Tarifstellen 5 und 6 des Gebührentarifs.
 Seite 2 von 10
 
@@ -50,8 +52,8 @@ Aufgaben für den Bereich der Schulen arbeiten, insbesondere Maßnahmen zur Inte
 §5 Ausnahmen
 Im Einzelfall kann der Sportausschuss, soweit keine städtischen Interessen entgegenstehen, eine Ausnahme genehmigen für Veranstaltungen außerhalb der Spiele der Fußball-Bundesliga sowie bei nichtsportlichen Veranstaltungen in der Hauptkampfbahn des Müngersdorfer Stadions bezüglich der Tarifstelle 1.3.1 des Gebührentarifs.
 §6 Inkrafttreten
-(1) Diese Satzung tritt am 01.04.2004 in Kraft.
-- ABl StK 1998, S. 260, 2001, S. 534, 2004, S. 251
+(1) Diese Satzung tritt am 01.01.2005 in Kraft.
+- ABl StK 1998, S. 260, 2001, S. 534, 2004, S. 251, S. 1018
 Seite 4 von 10
 
 Gebührentarif
