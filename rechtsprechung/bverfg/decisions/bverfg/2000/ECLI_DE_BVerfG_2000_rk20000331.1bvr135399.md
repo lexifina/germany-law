@@ -1,0 +1,139 @@
+---
+ecli: "ECLI:DE:BVerfG:2000:rk20000331.1bvr135399"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 1353/99"
+decided: "2000-03-31"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 31. März 2000\n- 1 BvR 1353/99 -, Rn. 1-8,\n                    https://www.bverfg.de/e/rk20000331_1bvr135399"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2000/03/rk20000331_1bvr135399.html"
+corpus_doc_id: "BVerfG_2000-03-31_K_1_BvR_1353_99_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/grundgesetz/artikel/001.md", "germany/bund/acts/grundgesetz/artikel/006.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 1353/99 vom 2000-03-31
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 1 BVR 1353/99 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+der W. GmbH,
+vertreten durch den Geschäftsführer
+
+- Bevollmächtigte: Rechtsanwälte Klaus Sedelmeier und Koll.,
+                   Königstraße 1 A, Stuttgart -
+gegen a) das Urteil des Hanseatischen Oberlandesgerichts Hamburg vom 22. Juni
+         1999 - 7 U 19/99 -,
+
+      b) das Urteil des Landgerichts Hamburg vom 18. Dezember 1998 - 324 O
+         374/98 -
+
+hat die 1. Kammer des Ersten Senats des Bundesverfassungsgerichts durch den
+                                 Vizepräsidenten Papier
+                                 und die Richter Steiner,
+                                 Hoffmann-Riem
+
+gemäß § 93 b in Verbindung mit § 93 a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 31. März 2000 einstimmig beschlossen:
+
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+
+                                      Gründe:
+ Die Verfassungsbeschwerde betrifft Fragen des Persönlichkeitsschutzes eines Kindes gegenüber der Wortberichterstattung der Presse. Kläger des Ausgangsverfahrens ist ein minderjähriger Sohn der Prinzessin Caroline von Monaco.
+
+ Die Verfassungsbeschwerde ist nicht zur Entscheidung anzunehmen. Ihr kommt           2
+keine grundsätzliche verfassungsrechtliche Bedeutung im Sinne des § 93 a Abs. 2
+Buchstabe a BVerfGG zu. Die von ihr aufgeworfenen grundsätzlichen Fragen sind
+mit dem Urteil des Ersten Senats des Bundesverfassungsgerichts vom 15. Dezember
+1999 - 1 BvR 653/96 - geklärt worden. Es ist Aufgabe der Fachgerichte, diese Grundsätze bei der Entscheidung konkreter Streitfälle anzuwenden.
+
+  Die Annahme der Verfassungsbeschwerde ist auch nicht nach § 93 a Abs. 2 Buchstabe b BVerfGG zur Durchsetzung der Grundrechte der Beschwerdeführerin angezeigt. Das ist der Fall, wenn die geltend gemachte Verletzung von Grundrechten besonderes Gewicht hat oder den Beschwerdeführer in existentieller Weise betrifft.
+Besonders gewichtig ist eine Grundrechtsverletzung, die auf eine generelle Vernachlässigung von Grundrechten hindeutet oder wegen ihrer Wirkung geeignet ist, von
+
+
+                                         1/4
+
+der Ausübung von Grundrechten abzuhalten. Eine geltend gemachte Verletzung hat
+ferner dann besonderes Gewicht, wenn sie auf einer groben Verkennung des durch
+ein Grundrecht gewährten Schutzes oder einem geradezu leichtfertigen Umgang mit
+grundrechtlich geschützten Positionen beruht (vgl. BVerfGE 90, 22 <25>).
+
+  In den angegriffenen Entscheidungen haben die Zivilgerichte die Pressefreiheit, die      4
+sie bei der Auslegung und Anwendung der einschlägigen zivilrechtlichen Vorschriften
+ebenso berücksichtigen müssen wie den grundrechtlichen Persönlichkeitsschutz,
+weder verkannt noch im Verhältnis zu diesem fehlerhaft gewichtet. Art. 2 Abs. 1 in
+Verbindung mit Art. 1 Abs. 1 GG, dessen Ausstrahlungswirkung das zivilrechtliche
+Persönlichkeitsrecht verstärken kann, vermittelt entgegen einigen Ausführungen der
+angegriffenen Entscheidungen zwar kein allgemeines und umfassendes Verfügungsrecht über die Darstellung der eigenen Person (vgl. das Urteil des Ersten Senats des
+Bundesverfassungsgerichts vom 15. Dezember 1999 - 1 BvR 653/96 -, Umdruck S.
+28 f.). Er schützt jedoch unter anderem die Privatsphäre. Dieser Schutz erfasst zum
+einen in thematischer Hinsicht Angelegenheiten, die wegen ihres Informationsinhalts
+typischerweise als "privat" eingestuft werden, etwa weil ihre öffentliche Erörterung als
+unschicklich gilt, das Bekanntwerden als peinlich empfunden wird oder nachteilige
+Reaktionen in der Umwelt auslöst. Er erstreckt sich zum anderen auf einen räumlich
+bestimmten Bereich, in dem der Einzelne die Möglichkeit hat, frei von öffentlicher Beobachtung und der von ihr erzwungenen Selbstkontrolle zu sein, und in dem er zu
+sich kommen, sich entspannen oder auch gehen lassen kann.
+
+  Dabei bedürfen Kinder hinsichtlich der Gefahren, die von einer Berichterstattung der     5
+Medien über Kinder ausgehen, eines besonderen Schutzes. Ihre Persönlichkeitsentfaltung kann durch die Berichterstattung in Medien empfindlicher gestört werden als
+diejenige von Erwachsenen, so dass der Bereich, in dem sie sich frei von öffentlicher
+Beobachtung fühlen und entfalten dürfen, umfassender geschützt sein muss (vgl. das
+Urteil des Ersten Senats des Bundesverfassungsgerichts vom 15. Dezember 1999 -
+1 BvR 653/96 -, Umdruck S. 35 f.). Dieser Schutz verwirklicht sich nicht nur über das
+elterliche Erziehungsrecht des Art. 6 Abs. 1 GG, sondern folgt auch aus dem eigenen
+Recht des Kindes auf ungehinderte Entfaltung seiner Persönlichkeit im Sinne von Art.
+2 Abs. 1 in Verbindung mit Art. 1 Abs. 1 GG (vgl. BVerfGE 24, 119 <144>; 45, 400
+<417>; 72, 122 <137>). Das Recht jedes Kindes auf Entwicklung zur Persönlichkeit -
+auf "Person werden" - umfasst sowohl die Privatsphäre als auch die kindgemäße Entfaltung in öffentlichen Räumen. Zur Entwicklung der Persönlichkeit gehört es, sich in
+der Öffentlichkeit angemessen bewegen zu lernen, ohne dadurch das Risiko einer
+Medienberichterstattung über das eigene Verhalten auszulösen. Dies gilt auch für
+Kinder, deren Eltern Personen von zeitgeschichtlicher Bedeutung sind.
+
+ Unter Berücksichtigung dieser grundrechtlichen Maßstäbe legen die angegriffenen           6
+Entscheidungen in verfassungsrechtlich nicht zu beanstandender Weise zugrunde,
+dass die Äußerung, der Kläger habe noch keine Freundin, in den Bereich der Privatsphäre falle. Hinsichtlich der Beurteilung der Äußerung, der Kläger liebe Fußball,
+mag die Zuordnung zur Privatsphäre zwar zweifelhaft sein, soweit sich seine Vorliebe
+
+
+                                           2/4
+
+in dem Besuch öffentlicher Sportveranstaltungen oder der Teilnahme an öffentlichen
+Fußballspielen auswirkt. Die Gerichte berücksichtigen dabei sowie bei der Zuordnung der Aussage, der Kläger treibe viel Sport, zur Sozialsphäre jedoch entsprechend den verfassungsrechtlichen Anforderungen zu Recht, dass der Kläger sich
+auf Grund seines Alters in einer besonders schutzwürdigen Phase seiner Persönlichkeitsentwicklung befindet. Verfassungsrechtlich ist die durch solche Erwägungen
+geprägte Ausgestaltung des zivilrechtlichen Persönlichkeitsrechts ebenso wenig zu
+beanstanden wie die im Rahmen der weiteren Tatbestandsmerkmale des Unterlassungsanspruchs erfolgte Bewertung und Gewichtung des durch die Pressefreiheit
+geschützten Berichterstattungs- und Unterhaltungsinteresses. Auch wenn die bloße
+Unterhaltung ebenfalls in den Grundrechtsschutz einbezogen ist und sie in mehr oder
+weniger weit reichendem Umfang meinungsbildende Funktion haben kann, darf im
+Rahmen der Abwägung berücksichtigt werden, ob Fragen, die die Öffentlichkeit wesentlich angehen, erörtert oder lediglich private Angelegenheiten, die nur die Neugier
+befriedigen, ausgebreitet werden (vgl. das Urteil des Ersten Senats des Bundesverfassungsgerichts vom 15. Dezember 1999 - 1 BvR 653/96 -, Umdruck S. 41 ff.).
+
+ Von einer weiteren Begründung wird gemäß § 93 d Abs. 1 Satz 3 BVerfGG abgesehen.
+
+ Diese Entscheidung ist unanfechtbar.                                                    8
+
+
+                Papier                 Steiner           Hoffmann-Riem
+
+
+
+
+                                          3/4
+
+Bundesverfassungsgericht, Beschluss der 1. Kammer des Ersten Senats vom
+31. März 2000 - 1 BvR 1353/99
+
+Zitiervorschlag BVerfG, Beschluss der 1. Kammer des Ersten Senats vom
+                31. März 2000 - 1 BvR 1353/99 - Rn. (1 - 8), http://www.bverfg.de/e/
+                rk20000331_1bvr135399.html
+
+ECLI             ECLI:DE:BVerfG:2000:rk20000331.1bvr135399
+
+
+
+
+                                        4/4
