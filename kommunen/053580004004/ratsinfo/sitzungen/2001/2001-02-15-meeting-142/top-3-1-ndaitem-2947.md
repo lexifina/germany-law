@@ -1,4 +1,4 @@
-# TOP 3.1.: Genehmigung von Dringlichkeitsbeschlüssen
+# TOP 3.1.: Vermietung von Büroräumen und einer Garage
 
 - Sitzung: Gemeinderates (2001-02-15)
 - Körperschaft: Gemeinde Aldenhoven
