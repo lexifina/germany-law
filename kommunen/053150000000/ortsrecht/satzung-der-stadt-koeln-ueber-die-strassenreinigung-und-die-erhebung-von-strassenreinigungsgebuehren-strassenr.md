@@ -1,8 +1,8 @@
 # Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2004-06-17 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/11._Änderungssatzung_über_die_straßenreinigung_und_die_erhebung_von_straßenreinigungsgebühren_vom17.06.2004.pdf
+- Datum: 2004-07-06 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/10._Änderungssatzung_über_die_straßenreinigung_und_die_erhebung_von_straßenreinigungsgebühren_vom_06.07.2004.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,8 +10,8 @@
 
 Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -)
 vom 19. Dezember 1994
-in der Fassung der 11. Satzung zur Änderung der Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -) vom 17. Juni 2004
-- ABl. StK 1994 S. 1, 1995 S. 1, 1996 S. 511, 1997 S. 529, 1998 S. 497, 1999 S. 613, 2000 S. 527, 2001 S. 589, 2002 S. 575, 2003 S. 1, 2004 S. 323, S. 327
+in der Fassung der 10. Satzung zur Änderung der Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -) vom 6. Juli 2004
+- ABl. StK 1994 S. 1, 1995 S. 1, 1996 S. 511, 1997 S. 529, 1998 S. 497, 1999 S. 613, 2000 S. 527, 2001 S. 589, 2002 S. 575, 2003 S. 1, 2004 S. 323
 Der Rat der Stadt Köln hat in seiner Sitzung vom 13, 12. 1994 aufgrund der §§ 1, 3 und des Gesetzes über die Reinigung öffentlicher Straßen (StrReinG NW) vom 18. Dezember 1975 (SGV NW 2061) in Verbindung mit den §§ 2, 4, 6, 12 und 20 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) vom 21. Oktober 1969 (SGV NW 610) und den §§ 7 und 76 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV NW 2023) - jeweils in der bei Erlaß dieser Satzung geltenden Fassung diese Satzung beschlossen:
 § 1 Allgemeines
 (1) Die Stadt betreibt die Reinigung der öffentlichen Straßen innerhalb der geschlossenen Ortslagen - bei Bundesstraßen, Landstraßen und Kreisstraßen jedoch nur der Ortsdurchfahren als öffentliche Einrichtung. Mit der Erfüllung der Aufgaben nach dieser Satzung hat die Stadt Köln die AWB Abfallwirtschaftsbelriebe Köln GmbH &.Co. KG (im folgenden „AWB" genannt) beauftragt.
@@ -195,7 +195,7 @@ Seite 7 von 8
 Gebührenbescheides zu entrichten. Die Verpflichtung, rückständige Vorauszahlungen schon früher zu entrichten, bleibt unberührt. (8) 1st die nach Abs. 5 geleistete Vorauszählung höher als der nach dem Gebührenbescheid für den Vorauszahlungszeitraum geschuldete Betrag, wird der Unterschiedsbetrag nach Bekanntgabe des Gebührenbescheides durch Aufrechnung oder Zurückzahlung ausgeglichen. (9) Die Absätze 7 und 8 gelten entsprechend, wenn der Gebührenbescheid aufgehoben oder geändert wird.
 § 11 Ordnungswidrigkeiten (1) Unbeschadet der im Bundes- oder. Landesrecht getroffenen Sonderregelungen
 handelt ordnungswidrig, wer vorsätzlich oder fahrlässig dieser Satzung zuwiderhandelt, insbesondere 1. vorgeschriebene oder übernommene Reinigungen nicht' durchführt (§ 2 Abs. l, § 4 Abs. l und 2), 2. belästigende Staubentwicklung .nicht verhindert (§ 4 Abs. 3 Satz 1), 3. Kehricht und sonstige Abfälle nicht ordnungsgemäß entfernt (§ 4 Abs. 3 Satz 2), 4. Schnee nicht ordnungsgemäß entfernt und lagert, sowie Schnee- und Eisglätte nicht ordnungsgemäß bekämpft (§ 5 Abs. 1, §2 Abs. 2 Sätze 1 und 2), 5. die Beendigung der Übernahme der Reinigung nicht anzeigt (g 2 Abs. 3 Satz 4). (1) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 500,-€ geahndet werden.
-§ 12 In-Kraft-Treten Diese Satzung tritt am 1. Juli 2004 in Kraft.
+§ 12 Inkrafttreten Diese Satzung tritt am 1. Januar 2004 in Kraft.
 Seite 8 von 8
 
 Amtsblatt der Stadt Köln
@@ -204,36 +204,7 @@ Ausgegeben am 07. Juli 2004
 
 Nummer 27
 
-Seite 327
-
-Vorstehende Satzung wird hiermit öffentlich bekannt gemacht.
-Es wird auf die Rechtsfolgen nach § 7 Abs. 6 Satz 1 der Gemeindeordnung für das Land Nordrhein-Westfalen hingewiesen.
-§ 7 Abs. 6 Satz 1 der Gemeindeordnung lautet:
-
-378 11. Satzung zur Änderung der Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -) vom 6. Juli 2004
-
-„Die Verletzung von Verfahrens- oder Formvorschriften dieses Gesetzes kann gegen Satzungen, sonstige ortsrechtliche Bestimmungen und Flächennutzungspläne nach Ablauf eines Jahres seit ihrer Verkündung nicht mehr geltend gemacht werden, es sei denn, a) eine vorgeschriebene Genehmigung fehlt oder ein vorge-
-schriebenes Anzeigeverfahren wurde nicht durchgeführt, b) die Satzung, die sonstige ortsrechtliche Bestimmung oder
-der Flächennutzungsplan ist nicht ordnungsgemäß öffentlich bekannt gemacht worden, c) der Bürgermeister hat den Ratsbeschluss vorher beanstandet oder d) der Form- oder Verfahrensmangel ist gegenüber der Gemeinde vorher gerügt und dabei die verletzte Rechtsvorschrift und die Tatsache bezeichnet worden, die den Mangel ergibt.”
-
-Köln, den 6.7.2004
-
-Der Oberbürgermeister In Vertretung
-gez. Winkelhog Stadtdirektor
-
-Der Rat der Stadt Köln hat in seiner Sitzung vom 24.06.2004 aufgrund der §§ 1, 3 und 4 des Gesetzes über die Reinigung öffentlicher Straßen (StrReinG NRW) vom 18. Dezember 1975 (SGV NRW 2061) in Verbindung mit den §§ 2, 4, 6, 12 und 20 des Kommunalabgabengesetzes für das Land NordrheinWestfalen (KAG) vom 21. Oktober 1969 (SGV NRW 610) und den §§ 7 und 76 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV NRW 2023) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - diese Satzung beschlossen:
-I.
-Die Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -) vom 19. Dezember 1994 (ABl. Stadt Köln 1994 Nr. 62, S. 1), in der Fassung der 10. Änderungssatzung vom 24.06.2004 wird wie folgt geändert:
-Das Straßenreinigungsverzeichnis nach § 2 Abs. 1 (Anlage 1 der Straßenreinigungssatzung) wird geändert. Die Änderungen ergeben sich aus der Anlage dieser Änderungssatzung; die Anlage ist Bestandteil dieser Satzung.
-
-II.
-
-In-Kraft-Treten
-
-Diese Satzung tritt am 01. Juli 2004 in Kraft.
-
-Anlage 1 zur Straßenreinigungssatzung
-Straßenreinigungsverzeichnis gemäß § 3 Abs. 1 StrReinS
+Seite 324
 
 Amtsblatt der Stadt Köln
 
@@ -241,7 +212,7 @@ Ausgegeben am 07. Juli 2004
 
 Nummer 27
 
-Seite 328
+Seite 325
 
 Amtsblatt der Stadt Köln
 
@@ -249,164 +220,6 @@ Ausgegeben am 07. Juli 2004
 
 Nummer 27
 
-Seite 329
+Seite 326
 
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 330
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 331
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 332
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 333
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 334
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 335
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 336
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 337
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 338
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 339
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 340
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 341
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 342
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 343
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 344
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 345
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 346
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 347
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 348
-
-Amtsblatt der Stadt Köln
-
-Ausgegeben am 07. Juli 2004
-
-Nummer 27
-
-Seite 349
+bis Vietorstraße
