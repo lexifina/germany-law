@@ -1,0 +1,1 @@
+# Verordnung zur Bestimmung der wesentlich Beteiligten im Sinne von § 6 Absatz 3 Satz 1 des Gesetzes zur wirtschaftlichen Sicherung der Krankenhäuser und zur Regelung der Krankenhauspflegesätze vom 3. Juli 1973
