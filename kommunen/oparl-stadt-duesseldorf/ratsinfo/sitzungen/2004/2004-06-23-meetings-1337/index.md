@@ -1,0 +1,59 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-06-23T15:00:00+02:00
+- Ende: 2004-06-23T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1337
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1337
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111261.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111261.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111261.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: B-Plan Nr. 5771/28 - Am Falder - mehrheitlich beschlossen
+- TOP 4: Plan Nr. 61/12-1824 - Schlüterstraße - einstimmig beschlossen
+- TOP 5: Plan Nr. 61/12-1782 - Bahnhof Grafenberg - einstimmig beschlossen
+- TOP 6: FNPÄ85HohenzollernalleeAufstAbsehBüBerTöAus - mehrheitlich beschlossen
+- TOP 7: BPl5777/48Schlüter/HohenzollernAufstAbsBüBerTöAus - mehrheitlich beschlossen
+- TOP 8: FNPÄ76 Ulmen/RatherStr Aufst,AbsBübet,öffAusl - einstimmig beschlossen
+- TOP 9: B-Plan-Entwurf Nr. 5480/26 - Rheinmetall - einstimmig beschlossen
+- TOP 10: B-Plan Nr. 6079/06 - Am Großen Dern - einstimmig beschlossen
+- TOP 11: B-Plan Nr. 6076/35 - Östl. Heyestr. - einstimmig beschlossen
+- TOP 12: PlNr5775/35SüdwKönigsbergerStr Änderung Aufstell. - einstimmig beschlossen
+- TOP 13: FNP-Ä Nr. 113 - Südwestl. Königsberger Str. - einstimmig beschlossen
+- TOP 14: BPl 5775/35 Südwestl.KönigsbergerBerichte,öffAusl. - einstimmig beschlossen
+- TOP 15: Plan Nr. 61-12/1659 - Grünzug - Teil 4 - einstimmig beschlossen
+- TOP 16: Plan Nr. 61-12/1660 - Grünzug - Teil 5 - einstimmig beschlossen
+- TOP 17: FNP-Ä Nr. 63 - Kikweg - einstimmig beschlossen
+- TOP 18: B-Plan Nr. 5974/36 - Kikweg - einstimmig beschlossen
+- TOP 19: BPl5974/37Kikweg Anordnung der Umlegung - einstimmig beschlossen
+- TOP 20: B-Plan Nr. 5776/12 - Nördli. Königsberger Str. - einstimmig beschlossen
+- TOP 21: FNP-Ä Nr. 89 - Wohngebiet Itter-Himmelgeist - einstimmig beschlossen
+- TOP 22: BPlNr5675/36-Kirchstr AnregÄndiroterFSatzung - einstimmig beschlossen
+- TOP 23: BPl 5675/45 - Kirchstr - Anordnung Umlegung - einstimmig beschlossen
+- TOP 24: B-Plan Nr. 5978/50 - Von-Gahlen-Str. - mehrheitlich beschlossen
+- TOP 25: BPl5187/09Gew.geb nördl. EinbrStr. Einstellung - einstimmig beschlossen
+- TOP 26: ??? - einstimmig beschlossen
+- TOP 27: BPl5187/16Kehrbesen Aufst.Ber.Bübezt u. Träger öA. - einstimmig beschlossen
+- TOP 28: VereinfÄndBPl5978/49Bender/BergLandStr öffAusl - einstimmig beschlossen
+- TOP 29: FNP-Ä Nr.83 - Südwestl. Am Mühlenberg - einstimmig beschlossen
+- TOP 30: BPl4978/15-SwAmMühlenberg ÄndAufstBerBü+TräöffAusl - einstimmig beschlossen
+- TOP 31: FNPÄ86Ddorf Arc. Aufst.BerBübetBerTrägöffAusl - mehrheitlich beschlossen
+- TOP 32: BPl5475/54DdorfArcadenAufstBerichteöff.Ausl. - mehrheitlich beschlossen
+- TOP 33: B-Plan VE Nr. 4978/12 - Verlängerte Böhlerstraße - - einstimmig beschlossen
+- TOP 34: B-Plan VE Nr. 4978/17 - Verlängerte Böhlerstraße - - einstimmig beschlossen
+- TOP 35: BVor Düsseldorfer 1 Neubau Jugendherb m. Sitz Vw
+- TOP 36: Satzung über den Umgang mit gestalterischem Licht - mehrheitlich beschlossen
+- TOP 37: Gestaltung Graf-Adolf-Platz - einstimmig beschlossen
+- TOP 38: Region. Einzelhandelskonzept westl.Ruhrgeb.+Ddorf - einstimmig beschlossen
+- TOP 39: StellStadt§8LuftVGLandepl MG - zur Kenntnis genommen
+- TOP 40: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 41: Flingern/Oberbilk Sachstand - zur Kenntnis genommen
+- TOP 42: Geschäftsbericht 2003 (Stadtplanungsamt) - zur Kenntnis genommen
