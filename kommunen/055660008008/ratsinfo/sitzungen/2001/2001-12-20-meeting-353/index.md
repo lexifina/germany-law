@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2001-12-20T18:00:00+01:00
+- Ende: 2001-12-20T19:45:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdZHHTBSFqhSfK_niCgP8LQ
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/353
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbGNP9H6m4viXqbhw9NiZ041F82S_tcpfzTdgyVUCcGZ/Oeffentliche_Niederschrift_Rat_20.12.2001.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Gebührenhaushalte / Betriebsabrechnungen
+- TOP 4.1.: Entwurf Wirtschaftsplan für das Jahr 2002
+- TOP 4.2.: 1. Ergänzung Entwurf Wirtschaftsplan für das Jahr 2002 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3.: Kalkulation Entwässerungsgebühren für das Jahr 2002 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Satzungsrecht
+- TOP 5.1.: II. Nachtrag Satzung Entsorgung Grundstücksentwässerungsanlagen - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2.: X. Nachtrag zur Beitrags- und Gebührensatzung zur Entwässerungssatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 5.3.: Neufassung der Satzung der Stadt Emsdetten über die Umlegung des Unterhaltungsaufwandes der Stadt Emsdetten für fließende Gewässer II. Ordnung - Einstimmig, 0 Enthaltung(en)
+- TOP 5.4.: Neufassung der Vergnügungssteuersatzung der Stadt Emsdetten - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Stellenplan
+- TOP 6.1.: Stellenplan 2002 - Einstimmig, 1 Enthaltung(en)
+- TOP 7.: Etat / Budget
+- TOP 7.1.: Haushaltssatzung und Budget 2002 sowie Finanzplanung einschl. Investitionsprogramm 2001 - 2005 - 27 Ja-Stimme(n), 17 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 8.: Finanzangelegenheiten
+- TOP 8.1.: Über- und außerplanmäßige Ausgaben im III. Quartal 2001 - Zur Kenntnis genommen
+- TOP 8.2.: Kreditaufnahme - Zur Kenntnis genommen
+- TOP 8.3.: Jahresrechnung und Entlastung - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Allgemeine Stadtentwicklungsplanung
+- TOP 9.1.: Anordnung des Umlegungsverfahrens nach § 46 Abs. 1 Baugesetzbuch für weitere Teilbereiche des "Industriegebietes Süd" - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Planung von Tiefbauvorhaben
+- TOP 10.1.: Vorstellung Ausbauplanung Straßenbau "Westring/Grünring" - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Widmung von Straßen (einschl. Einziehungsverfahren)
+- TOP 11.1.: Widmung eines Abschnittes der Habichtshöhe - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Erhebung von Anlieger- und Erschließungsbeiträgen
+- TOP 12.1.: Erhebung Erschließungsbeiträge; Fertigstellungsbeschluss Abschnitt Habichtshöhe - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Schulangelegenheiten
+- TOP 13.1.: Verwendung der Schulpauschale - 31 Ja-Stimme(n), 12 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 14.: Kulturangelegenheiten
+- TOP 14.1.: Entscheidung über die zukünftige Nutzung des Kolpinghauses und des Gebäudes der Käthe-Kollwitz-Schule, Lange Straße - 26 Ja-Stimme(n), 17 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 15.: Resolution zur Lehrerversorgung an den städtischen Schulen - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Allgemeine Sozialangelegenheiten
+- TOP 16.1.: Unterbringung ausländischer Flüchtlinge - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: Allgemeine Umweltangelegenheiten
+- TOP 17.1.: Baumschutzsatzung; Neufassung der Baumschutzsatzung auf Grund der Euro-Umstellung sowie Änderung der Satzung in einem Punkt - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Verschiedenes 1. Sachstandsbericht über Anregungen und Bedenken
