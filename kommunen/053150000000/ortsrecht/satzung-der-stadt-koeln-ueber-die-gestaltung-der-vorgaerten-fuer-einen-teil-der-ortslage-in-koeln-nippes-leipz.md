@@ -1,15 +1,17 @@
 # Satzung der Stadt Köln über die Gestaltung der Vorgärten für einen Teil der Ortslage in Köln-Nippes (Leipziger Platz)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2003-01-24 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/satzung_über_die_gestaltung_der_vorgärten_für_einen_teil_der_ortslage_in_köln-nippes__leipziger_platz_.pdf
+- Datum: 2004-09-09 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/1._satzungsänderung_über_die_gestaltung_der_vorgärten_für_einen_teil_der_ortslage_in_köln-nippes__leipziger_platz_.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Satzung der Stadt Köln über die Gestaltung der Vorgärten für einen Teil der Ortslage in Köln-Nippes (Leipziger Platz) vom 24. Januar 2003
-- ABl Stk 2003, S. 63 f. -
+Satzung der Stadt Köln über die Gestaltung der Vorgärten für einen Teil der Ortslage in Köln-Nippes (Leipziger Platz)
+vom 24. Januar 2003
+in der Fassung der 1. Satzung der Stadt Köln über die Gestaltung der Vorgärten für einen Teil der Ortslage in Köln-Nippes (Leipziger Platz) vom 9. September 2004
+- ABl Stk 2003, S. 63 f., 2004, S. 845 –
 Der Rat der Stadt Köln hat in seiner Sitzung am 14.11.2002 aufgrund des § 86 Abs. 1 Ziffer 4 in Verbindung mit § 84 Abs. 1 Nr. 20 und Abs. 3 der Bauordnung für das Land Nordrhein-Westfalen (BauO NW) vom 01.03.2000 (GV NW S. 255/SGV NW 232) - in Verbindung mit § 7 der Gemeindeordnung für das Land Nordrhein- Westfalen (GO NW) vom 14.07.1994 (GV NW S. 666/SGV NW 2023) - in der bei Erlass dieser Satzung geltenden Fassung - diese Satzung beschlossen:
 Präambel
 Der Geltungsbereich der Satzung liegt im Herzen des Stadtteils Köln-Nippes mit dem Leipziger Platz in der Mitte. Der Bereich wird begrenzt durch die Nordstraße im Norden, die Niehler Straße im Osten, die Florastraße im Süden und die Neusser Straße im Westen.
@@ -31,9 +33,7 @@ Seite 2 von 4
 Da das oben beschriebene harmonische Ortsbild jedoch nicht nur dann stark beeinträchtigt wird, wenn Stellplätze in den Vorgärten eingerichtet werden, sondern generell dann, wenn diese Vorgärten umgenutzt werden in Abstell- oder Lagerplätze oder in Arbeitsflächen, ist in der Satzung ein Ausschluss dieser Nutzungen in den Vorgärten ebenfalls vorgesehen und die gärtnerische Gestaltung vorgeschrieben.
 § 1 Geltungsbereich Die Vorschriften dieser Satzung gelten für die Vorgärten im Geltungsbereich dieser Satzung. Der räumliche Geltungsbereich umfasst das Gebiet zwischen der Nordstraße, Niehler Straße, Florastraße und Neusser Straße, das im beiliegenden Plan (Anlage) markiert ist. Der Plan ist Bestandteil dieser Satzung.
 § 2 Gestaltung der Vorgärten (1) Die Vorgärten im Geltungsbereich dieser Satzung sind gärtnerisch zu gestalten. Die
-Begrünung/Bepflanzung hat auch mit Pflanzen, Sträuchern oder Bäumen zu erfolgen. (2) Die Vorgärten dürfen nicht als Stellplätze, Außengastronomiefläche, Abstell- oder
-Lagerplatz oder als Arbeitsfläche hergerichtet oder benutzt werden. (3) Das Verbot gemäß § 2 (2) gilt nicht für Wertstoff- und Abfallbehälter, die durch
-Hecken einzugrünen sind.
+Begrünung/Bepflanzung hat auch mit Pflanzen, Sträuchern und Bäumen zu erfolgen. Ausgenommen hiervon sind Zufahrten zu Bauwichgaragen bzw. Kellergaragen bei neu geplanten Wohngebäuden. Diese Zufahrten sollen aus lediglich zwei Streifen von jeweils 40 cm bis 50 cm Breite aus Rasengittersteinen, Betonsteinen oder ähnlichem Material bestehen, die im Pkw-Radabstand verlegt werden und wenn der übrige Bereich der Zufahrten mit Bodendecker oder Rasen begrünt wird. (2) Die Vorgärten dürfen nicht als Stellplätze, Abstell- oder Lagerplätze oder als Abstellfläche hergerichtet werden. (3) Das Verbot gemäß § 2 (2) gilt nicht für Wertstoff- und Abfallbehälter, die durch Hecken einzugrünen sind.
 § 3 Ordnungswidrigkeiten Wer vorsätzlich oder fahrlässig § 2 (2) dieser Satzung zuwiderhandelt, handelt ordnungswidrig im Sinne des § 84 Abs. 1 Nr. 20 BauO NW. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 50.000,00 € geahndet werden.
 § 4 Inkrafttreten Diese Satzung tritt mit dem Tag nach der Bekanntmachung in Kraft.
 Seite 3 von 4
