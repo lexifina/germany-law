@@ -1,0 +1,1 @@
+Auf Grund des Art. 14 Abs. 2 Satz 2 des Gesetzes zur Ausführung des Gerichtsverfassungsgesetzes und von Verfahrensgesetzen des Bundes (AGGVG) erläßt das Bayerische Staatsministerium der Justiz folgende Verordnung:
