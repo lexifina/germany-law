@@ -1,0 +1,64 @@
+# 30. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2005-02-23T17:30:00+01:00
+- Ende: 2005-02-23T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=435
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=435
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - zur Kenntnis genommen
+- TOP 1.2: Abstimmung über die Tagesordnung - zur Kenntnis genommen
+- TOP 1.3: Dringlichkeitsanträge - zur Kenntnis genommen
+- TOP 1.4: Mündliche Anfrage - zur Kenntnis genommen
+- TOP 1.5: Bericht des Bezirksamtes - zur Kenntnis genommen
+- TOP 1.6: Konsensliste - zur Kenntnis genommen
+- TOP 1.7: Wahl von 2 Vertretern der BVV in den Beirat der Arbeitsgemeinschaft (JobCenter Pankow) Drs. zurückgezogen - Nr. ist frei - gewählt
+- TOP 1.8: Nachwahl eines Bürgerdeputierten für den Jugendhilfeausschuss der BVV für die V. Wahlpriode - gewählt
+- TOP 1.9: Wahl eines stellv. Bürgerdeputierten - gewählt
+- TOP 1.10: Wahl einer stellv. Bürgerdeputierten - gewählt
+- TOP 1.11: Wahl eines stellv. Bürgerdeputierten - gewählt
+- TOP 1.12: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss Umwelt und Natur - gewählt
+- TOP 1.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.14: Bebauungsplan XVIII-30b - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.15: Barrierefreie Nutzung der Kassenautomaten für Menschen mit Behinderung sicherstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Platz des 9. November 1989 - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.17: Pankow für Europa - Mitglied in der Kommunalgesellschaft Pomerania e.V. werden - vertagt
+- TOP 1.18: Chancengleichheit am Arbeitsmarkt - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.19: Verkehrslage um den Spielplatz in der Gethsemanestraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Regionalmodell des Sozialamtes - überwiesen
+- TOP 1.21: Ehrengrabstätte für Peter Fechter - überwiesen
+- TOP 1.22: KiTa - Eigenbetrieb des Bezirks Pankow? - beantwortet
+- TOP 1.23: Einbürgerungsfeiern in Pankow - überwiesen
+- TOP 1.24: Wirksamkeit städtebaulicher Verträge in Sanierungs- und Milieuschutzgebieten - beantwortet
+- TOP 1.25: Gedenkstättenkonzept - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Information der BürgerInnen über die neuen Grenzwerte für Luftschadstoffe - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 1.27: JobCenter Pankow und Bezirkshaushalt - beantwortet
+- TOP 1.28: Straßenausbaubeitragsgesetz verhindern - überwiesen
+- TOP 1.29: Quartiersmanagement - überwiesen
+- TOP 1.30: Kosten für zusätzliche Transporte von Schülern/Schülerinnen zum Europasportpark - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Verhaltenskodex gegen Korruption - auch für Bezirksverordnete - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.32: Aktivitäten des Beirates für das JobCenter starten - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Arbeitsräume zum Selbststudium an Oberschulen - überwiesen
+- TOP 1.34: Weiter mit der Sonne - überwiesen
+- TOP 1.35: Aufgabe des Schulstandortes Bizetstraße - überwiesen
+- TOP 2: Komplex 2 - überwiesen
+- TOP 2.1: Bezirkliche Vertretung in Aufsichtsräten von Wohnungsbaugesellschaften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Hartz IV - Auswirkungen auf Arbeit des Jugendamtes mit benachteiligten Jugendlichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Mehr Verkehrssicherheit im Wohnviertel Talstraße / Spiekermannstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Sommerrodelbahn - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Umbenennung der "Blankenfelder Straße" im OT Rosenthal in "Dietzgenstraße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Bedarfsüberprüfung von Angeboten der Kindertagesbetreuung im Zuge der Neuordnung der Kindertagesstättenangebote im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Einstellung des Verfahrens zur Aufstellung des Landschaftsplanes XIX-L-1 (Ortsteil Blankenfelde) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Bebauungsplan IV - 36 für die Grundstücke Pasteurstraße 20/26 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Benennung von Anlagen, Orten und öffentlichen Einrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Abschluss eines öffentlich-rechtlichen Vertrages mit der Prenzlauer Gärten Grundbesitz AG für die Grundstücke Am Friedrichshain 28 und 29 - 32 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Änderung der Sanierungsziele für die Grundstücke Mühlenstraße 22 - 24 im Sanierungsgebiet Pankow-Wollankstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Bebauungsplan XVIII-30b - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Kündigung der Mitgliedschaft in der Interkommunalen Arbeitsgemeinschaft "Mühlenbecker Land" - mit Abschlussbericht zur Kenntnis genommen
