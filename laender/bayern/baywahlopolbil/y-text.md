@@ -1,0 +1,1 @@
+Auf Grund des Art. 14 Abs. 3 Satz 1 des Gesetzes über die Errichtung einer Akademie für Politische Bildung erläßt die Bayerische Staatsregierung mit Zustimmung des Bayerischen Landtags folgende Verordnung:
