@@ -1,4 +1,4 @@
-# Inhaltsübersicht
+# Inhaltsübersicht 1
 1. Abschnitt Allgemeine Bestimmungen
 § 1 Anwendungsbereich
 § 1a Begriffsbestimmungen
@@ -39,13 +39,13 @@
 § 30 Arbeitsweise und Aufgaben der Versammlung
 § 31 Medienrat
 § 32 Arbeitsweise und Aufgaben des Medienrates
-§ 33 Direktor der Landesanstalt
-§ 34 Arbeitsweise und Aufgaben des Direktors
+§ 33 Geschäftsführer der Landesanstalt
+§ 34 Arbeitsweise und Aufgaben des Geschäftsführers
 § 35 Finanzierung der Landesanstalt
 § 36 Aufsicht über die Landesanstalt
 8. Abschnitt Weiterverbreitung von Rundfunkprogrammen in Kabelanlagen
-§37 Zulässigkeit der Weiterverbreitung
-§38 Weiterverbreitung
+§ 37 Zulässigkeit der Weiterverbreitung
+§ 38 Weiterverbreitung
 9. Abschnitt Maßnahmen der Aufsicht
 § 39 Allgemeine Aufsicht über Veranstalter
 § 40 Rücknahme der Zulassung
