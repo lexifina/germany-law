@@ -1,0 +1,396 @@
+---
+ecli: "ECLI:DE:BVerfG:2004:qs20040623a.1bvq001904"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvQ 19/04"
+decided: "2004-06-23"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss des Ersten Senats vom 23. Juni 2004\n- 1 BvQ 19/04 -, Rn. 1-30,\n                    https://www.bverfg.de/e/qs20040623a_1bvq001904"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2004/06/qs20040623a_1bvq001904.html"
+corpus_doc_id: "BVerfG_2004-06-23_S_1_BvQ_0019_04_a_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0032.md", "germany/bund/acts/grundgesetz/artikel/005.md", "germany/bund/acts/grundgesetz/artikel/008.md", "germany/bund/acts/stgb/0002.md", "germany/bund/acts/stgb/0086.md", "germany/bund/acts/stgb/0086a.md", "germany/bund/acts/stgb/0130.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvQ 19/04 vom 2004-06-23
+
+## Entscheidung
+
+Leitsätze
+         zum Beschluss des Ersten Senats vom 23. Juni 2004
+                           - 1 BvQ 19/04 -
+
+1. Im Verfahren des einstweiligen Rechtsschutzes nach § 32 Abs. 1
+   BVerfGG sind die erkennbaren Erfolgsaussichten einer Verfassungsbeschwerde gegen die verwaltungsgerichtliche Eilentscheidung vom
+   Bundesverfassungsgericht zu berücksichtigen, wenn ein Abwarten
+   den Grundrechtsschutz vereitelte.
+2. Beschränkungen des Inhalts und der Form einer Meinungsäußerung
+   finden ihre Rechtfertigung ausschließlich in den in Art. 5 Abs. 2 GG
+   aufgeführten Schranken auch dann, wenn die Äußerung in einer oder
+   durch eine Versammlung erfolgt (im Anschluss an BVerfGE 90, 241).
+3. Zur rechtlichen Tragweite des Schutzguts der öffentlichen Ordnung im
+   Versammlungsrecht.
+
+
+
+
+                                 1/12
+
+BUNDESVERFASSUNGSGERICHT
+- 1 BVQ 19/04 -
+
+
+
+
+                             Im Namen des Volkes
+
+                              In dem Verfahren
+                              über den Antrag,
+                     im Wege der einstweiligen Anordnung
+unter Aufhebung des Beschlusses des Oberverwaltungsgerichts für das Land
+Nordrhein-Westfalen vom 21. Juni 2004 - 5 B 1208/04 - die aufschiebende Wirkung
+des Widerspruchs des Antragstellers gegen die Verfügung des Polizeipräsidiums
+Bochum vom 6. Mai 2004 - VL 1.2-231-49/2004 - wieder herzustellen,
+
+Antragsteller: NPD-Landesverband Nordrhein-Westfalen,
+               vertreten durch den Landesvorsitzenden Stephan Haase,
+               Günnigfelder Straße 101 a, 44866 Wattenscheid,
+
+hat das Bundesverfassungsgericht - Erster Senat - unter Mitwirkung
+                                des Präsidenten Papier,
+                                der Richterinnen Jaeger,
+                                Haas,
+                                der Richter Hömig,
+                                Steiner,
+                                der Richterin Hohmann-Dennhardt
+                                und der Richter Hoffmann-Riem,
+                                Bryde
+
+am 23. Juni 2004 beschlossen:
+
+  1. Die aufschiebende Wirkung des Widerspruchs des Antragstellers gegen die
+     Verbotsverfügung des Polizeipräsidiums Bochum vom 6. Mai 2004
+     - VL 1.2-231-49/2004 - wird wieder hergestellt.
+  2. Das Land Nordrhein-Westfalen hat dem Antragsteller die notwendigen Auslagen zu erstatten.
+
+                                    Gründe:
+ Der Senat hat die Begründung seiner Entscheidung gemäß § 32 Abs. 5 BVerfGG       1
+nach Bekanntgabe des Tenors des Beschlusses schriftlich abgefasst.
+
+
+
+
+                                       2/12
+
+                                         A.
+ Der Antrag auf Erlass einer einstweiligen Anordnung betrifft die versammlungsbehördlich angeordnete sofortige Vollziehung eines Versammlungsverbots.
+
+                                         I.
+  1. Unter dem 18. Dezember 2003 meldete der Antragsteller, der Landesverband           3
+Nordrhein-Westfalen der NPD, beim Polizeipräsidium Bochum als der zuständigen
+Versammlungsbehörde für den 13. und 20. März 2004 die Durchführung zweier Aufzüge mit Kundgebungen in Bochum unter dem Motto "Stoppt den Synagogenbau - 4
+Millionen fürs Volk!" an. Mit Bescheid vom 30. Januar 2004 verbot das Polizeipräsidium - der Antragsgegner im Ausgangsverfahren - unter Anordnung der sofortigen
+Vollziehung die Durchführung der Versammlung sowie jeder Ersatzveranstaltung an
+diesem oder an einem anderen Tag innerhalb seines Zuständigkeitsbereichs. Die angemeldeten Versammlungen seien zu verbieten, weil nach gegenwärtiger Kenntnislage die öffentliche Ordnung im Sinne von § 15 des Versammlungsgesetzes (im Folgenden: VersG) unmittelbar und erheblich gefährdet sei.
+
+  2. Der Antragsteller erhob gegen die Verbotsverfügung Widerspruch und stellte mit     4
+Erfolg beim Verwaltungsgericht einen Antrag auf Wiederherstellung der aufschiebenden Wirkung seines Widerspruchs. Auf die Beschwerde des Antragsgegners änderte
+das Oberverwaltungsgericht durch Beschluss vom 2. März 2004 die Entscheidung
+des Verwaltungsgerichts und lehnte den Antrag auf Wiederherstellung der aufschiebenden Wirkung ab. Bei Durchführung der geplanten Versammlung sei die öffentliche Sicherheit wegen eines Verstoßes gegen § 130 Abs. 1 Nr. 1 und 2 StGB unmittelbar gefährdet. Auch die Gefahr für die öffentliche Ordnung rechtfertige das
+Versammlungsverbot. Nach der Rechtsprechung des beschließenden Senats lasse
+sich eine rechtsextremistische Ideologie wie der Nationalsozialismus unter dem
+Grundgesetz nicht - auch nicht mit den Mitteln des Demonstrationsrechts - legitimieren; der aus der Werteordnung des Grundgesetzes ableitbaren verfassungsimmanenten Beschränkung sei auch unterhalb der Schwelle strafrechtlicher und verfassungsgerichtlicher Verbots- und Verwirkungsentscheidungen Rechnung zu tragen.
+Die vorliegende Versammlung laufe grundgesetzlichen Wertvorstellungen zuwider,
+die zentraler Ausdruck der Abkehr vom Nationalsozialismus seien. Auch sei mit dem
+gewählten Motto eine gegen die jüdischen Mitbürger gerichtete Provokation besonderer Art und Intensität verbunden.
+
+  3. Die 1. Kammer des Ersten Senats des Bundesverfassungsgerichts lehnte durch         5
+Beschluss vom 12. März 2004 - 1 BvQ 6/04 - den Antrag auf Erlass einer einstweiligen Anordnung ab (DVBl 2004, S. 697 f.). Tragfähig sei unter den vom Oberverwaltungsgericht genannten Begründungen allerdings nur die, dass die geplante Versammlung gegen § 130 Abs. 1 StGB und damit gegen die öffentliche Sicherheit im
+Sinne des § 15 Abs. 1 VersG verstoße. Die Tatsachenwürdigung des Oberverwaltungsgerichts sei nicht offensichtlich fehlsam. Zwischenzeitlich seien allerdings das
+Versammlungsmotto und der Versammlungsaufruf geändert worden. Die rechtliche
+
+
+                                         3/12
+
+Würdigung des zu erwartenden Versammlungsgeschehens könne jedoch nicht davon absehen, dass der ursprüngliche Versammlungsaufruf mit dem ursprünglichen
+Versammlungsmotto weiterhin in Veröffentlichungen enthalten sei, die dem Antragsteller direkt zuzurechnen seien oder die ihm erkennbar auf die von ihm geplante
+Versammlung hinwiesen, ohne dass er den dort enthaltenen Angaben entgegentrete.
+Daher bestehe kein Anlass, die Gefahrenlage anders einzuschätzen.
+
+                                         II.
+  1. Mit Schreiben vom 18. März 2004 meldete der Antragsteller einen Aufzug mit         6
+Kundgebungen für den 26. Juni 2004 in Bochum an. Vorgesehen war das Versammlungsthema: "Keine Steuergelder für den Synagogenbau. Für Meinungsfreiheit.". Unter Anordnung der sofortigen Vollziehung stellte der Antragsgegner mit Bescheid vom
+6. Mai 2004 fest, dass es sich bei der geplanten Versammlung um eine versammlungsrechtliche Ersatzveranstaltung handele, die von dem in der Verfügung vom 30.
+Januar 2004 ausgesprochenen Verbot mitumfasst sei. Die in dieser Verfügung aufgeführten Gründe gälten auch für die beabsichtigte Versammlung am 26. Juni 2004.
+
+  2. Der Antragsteller erhob gegen die Verfügung Widerspruch und beantragte beim        7
+Verwaltungsgericht die Wiederherstellung der aufschiebenden Wirkung seines
+Rechtsbehelfs. Dem wurde durch Beschluss des Verwaltungsgerichts vom 9. Juni
+2004 entsprochen. Die in dem angegriffenen Bescheid erfolgte Feststellung eines
+Verbots der für den 26. Juni 2004 geplanten Versammlung sei rechtswidrig. Auf
+Grund der Bedeutung der grundrechtlich geschützten Versammlungsfreiheit seien
+Verbote einer Versammlung unter freiem Himmel nur einzelfallbezogen zulässig. Eine beabsichtigte Versammlung könne nur dann als "Ersatzveranstaltung" von dem
+für eine "Ausgangsveranstaltung" ausgesprochenen Verbot erfasst werden, wenn die
+Verbotsgründe für die ursprünglich geplante Versammlung mit hinreichender Verlässlichkeit weiter fortbestünden. So liege es hier angesichts des veränderten Versammlungsmottos und der aktuellen Verlautbarungen des Antragstellers nicht.
+
+  Die Voraussetzungen eines Versammlungsverbots gemäß § 15 Abs. 1 VersG lägen           8
+nicht vor. Dass auch bei Durchführung der Versammlung am 26. Juni 2004 der Tatbestand der Volksverhetzung oder ein anderer einschlägiger Straftatbestand verwirklicht werde, sei nicht mit der gebotenen Verlässlichkeit zu erwarten. Die bundesverfassungsgerichtlich gebilligten Gründe des Verbots der für den 13. März 2004 in
+Bochum angemeldeten Versammlung zu dem Thema "Stoppt den Synagogenbau
+- 4 Millionen fürs Volk!" trügen insoweit nicht mehr. Zwar sei dieses Motto vom Oberverwaltungsgericht in seinem Beschluss vom 2. März 2004 als volksverhetzend beurteilt worden. Hieraus könne jedoch nicht abgeleitet werden, auch das geänderte Thema verwirkliche bereits diesen oder einen anderen Straftatbestand. Ein
+volksverhetzender Charakter könne insbesondere nicht daraus hergeleitet werden,
+dass der Antragsteller sich nach wie vor dafür ausspreche, keine Steuergelder für
+den Synagogenbau in Bochum zur Verfügung zu stellen. Die zuständige Staatsanwaltschaft habe ihre Bewertung, selbst das alte Versammlungsmotto erfülle nicht den
+
+
+                                         4/12
+
+Straftatbestand der Volksverhetzung, auch in Kenntnis der Ausführungen des Oberverwaltungsgerichts in dessen Beschluss vom 2. März 2004 nicht revidiert.
+
+  3. Auf die Beschwerde des Antragsgegners änderte das Oberverwaltungsgericht             9
+mit Beschluss vom 21. Juni 2004 die Entscheidung des Verwaltungsgerichts und
+lehnte den Antrag auf Wiederherstellung der aufschiebenden Wirkung ab. Es könne
+dahinstehen, ob es sich um eine nur feststellende Verfügung in Ausführung des früher schon erlassenen Versammlungsverbots handele. Tenor und Begründung der
+jetzt angefochtenen Verfügung ließen bei objektiver Betrachtung für den Adressaten
+das Ziel erkennen, eine Durchführung der angemeldeten Versammlung zu verhindern. Der Antragsgegner habe auf Grund der inhaltlichen Anknüpfung an die Ausgangsverfügung konkludent den Verbotstatbestand einer unmittelbaren Gefahr für
+die öffentliche Ordnung im Sinne des § 15 Abs. 1 VersG geltend gemacht. Dieser
+Verbotstatbestand sei gegeben. Das Oberverwaltungsgericht habe schon in seinem
+Beschluss vom 2. März 2004 ausgeführt, dass das ursprüngliche Versammlungsthema offenkundig eine antisemitische Grundrichtung aufgewiesen habe. Abgesehen
+von einer strafbewehrten Volksverhetzung habe sich mit dem damaligen Motto eine
+gegen die jüdischen Mitbürger gerichtete spezifische Provokation verbunden. Die in
+Deutschland lebenden Menschen jüdischen Glaubens seien in böswilliger und verächtlich machender Weise als nicht zum "Volk" gehörend aus der staatlichen Gemeinschaft ausgegrenzt worden; dadurch seien der soziale Wert- und Achtungsanspruch der deutschen Juden verletzt und das friedliche Zusammenleben von Juden
+und Nicht-Juden in Deutschland gestört worden. Daran habe das jetzt aktuelle Motto
+"Keine Steuergelder für den Synagogenbau. Für Meinungsfreiheit." nichts geändert.
+Das alte Motto wirke mit seiner ausgrenzenden und hetzerischen Zielsetzung im öffentlichen Bewusstsein nach. Außerdem handele es sich bei den nunmehr gewählten
+Formulierungen des neuen Mottos ersichtlich um kosmetische Korrekturen, die allein
+dazu dienten, der Gefahr einer Bestrafung nach § 130 Abs. 1 StGB und eines hieran
+anknüpfenden Versammlungsverbots zu entgehen. Die von der Versammlung ausgehende Provokationswirkung könne mit Auflagen nicht begrenzt werden, so dass
+ein Versammlungsverbot gerechtfertigt sei.
+
+ 4. Mit dem Antrag auf Erlass einer einstweiligen Anordnung macht der Antragsteller      10
+geltend: Sowohl die Verfügung des Antragsgegners vom 6. Mai 2004 als auch der
+Beschluss des Oberverwaltungsgerichts vom 21. Juni 2004 verletzten ihn in seinen
+Grundrechten auf Versammlungsfreiheit gemäß Art. 8 GG und auf Meinungsfreiheit
+gemäß Art. 5 Abs. 1 Satz 1 GG. Es handele sich nicht um eine "versammlungsrechtliche Ersatzveranstaltung" für die vom Antragsgegner am 30. Januar 2004 verbotene
+Versammlung. Das aktuelle Demonstrationsthema unterscheide sich deutlich von
+dem ursprünglichen Versammlungsmotto. Die angemeldete Versammlung richte sich
+gegen die Verwendung von Steuermitteln für kirchliche Zwecke; auf die Religionsgemeinschaft komme es nicht an. Es könne dem Antragsteller nicht verwehrt werden,
+als nicht verbotene politische Partei sich öffentlich an deren Mitglieder und Anhänger
+zu wenden. Die geplante Versammlung stelle keinen Verstoß gegen die öffentliche
+
+
+
+                                         5/12
+
+Ordnung dar. Auch wenn ein Großteil der Bevölkerung vermutlich eine andere Meinung als der Antragsteller vertrete, sei die Diskussion zu der Frage, wie in Zeiten
+knapper Kassen die öffentlichen Gelder sinnvoll auszugeben seien, keine Angelegenheit, die gegen das Anstandsgefühl der Mehrheit der Bevölkerung verstoße.
+
+                                        III.
+ Wegen der besonderen Dringlichkeit hat das Bundesverfassungsgericht gemäß            11
+§ 32 Abs. 2 Satz 2 BVerfGG davon abgesehen, dem Antragsgegner des Ausgangsverfahrens Gelegenheit zur Stellungnahme zu geben.
+
+                                        B.
+ Der Antrag auf Erlass einer einstweiligen Anordnung ist zulässig und begründet.      12
+
+                                         I.
+ 1. Nach § 32 Abs. 1 BVerfGG kann das Bundesverfassungsgericht im Streitfall einen Zustand durch einstweilige Anordnung vorläufig regeln, wenn dies zur Abwehr
+schwerer Nachteile, zur Verhinderung drohender Gewalt oder aus einem anderen
+wichtigen Grund zum gemeinen Wohl dringend geboten ist. Dabei haben die Gründe,
+die für die Verfassungswidrigkeit des angegriffenen Hoheitsakts vorgetragen werden,
+grundsätzlich außer Betracht zu bleiben. Der Antrag auf Eilrechtsschutz hat jedoch
+keinen Erfolg, wenn eine Verfassungsbeschwerde unzulässig oder offensichtlich unbegründet wäre (vgl. BVerfGE 88, 169 <171 f.>; 91, 328 <332>). Das ist vorliegend
+nicht der Fall.
+
+ Die Erfolgsaussichten der Verfassungsbeschwerde können ferner maßgeblich werden, wenn verwaltungsgerichtliche Beschlüsse betroffen sind, die im Verfahren des
+einstweiligen Rechtsschutzes ergangen sind und die Entscheidung in der Hauptsache vorwegnehmen (vgl. BVerfGE 34, 160 <163>; 63, 254; 67, 149 <152>), insbesondere wenn die behauptete Rechtsverletzung bei Verweigerung einstweiligen
+Rechtsschutzes nicht mehr rückgängig gemacht werden könnte, die Entscheidung in
+der Hauptsache also zu spät käme (vgl. BVerfGE 46, 160 <164>). Blieben in solchen
+Fällen die im Zeitpunkt der Eilentscheidung erkennbaren Erfolgsaussichten einer
+Verfassungsbeschwerde gegen die verwaltungsgerichtliche Eilentscheidung außer
+Ansatz, würde sich bei der Folgenabwägung das Rechtsgut durchsetzen, das gewichtiger oder dessen behauptete Gefährdung intensiver als das kollidierende ist,
+selbst wenn schon die im Eilrechtsschutzverfahren mögliche Prüfung ergibt, dass die
+rechtlichen Voraussetzungen für seinen Schutz offensichtlich nicht gegeben sind.
+Dies widerspräche der Aufgabe des Bundesverfassungsgerichts, die Beachtung der
+Grundrechte im Verfahren der Verfassungsbeschwerde zu sichern.
+
+ Dementsprechend sind die im Eilrechtsschutzverfahren erkennbaren Erfolgsaussichten einer Verfassungsbeschwerde zu berücksichtigen, wenn aus Anlass eines
+Versammlungsverbots über einen Antrag auf einstweiligen Rechtsschutz zur Wiederherstellung der aufschiebenden Wirkung eines Widerspruchs zu entscheiden ist und
+
+
+                                        6/12
+
+ein Abwarten bis zum Abschluss des Verfassungsbeschwerdeverfahrens oder des
+Hauptsacheverfahrens den Versammlungszweck mit hoher Wahrscheinlichkeit vereitelte. Ergibt die Prüfung im Eilrechtsschutzverfahren, dass eine Verfassungsbeschwerde offensichtlich begründet wäre, läge in der Nichtgewährung von Rechtsschutz der schwere Nachteil für das gemeine Wohl im Sinne des § 32 Abs. 1
+BVerfGG.
+
+ 2. Die Voraussetzungen für die Überprüfung der Erfolgsaussichten einer noch ausstehenden Verfassungsbeschwerde sind vorliegend gegeben. Die Versammlung gilt
+einem zeitabhängigen Ereignis; ihr Zweck könnte bei einem Abwarten bis zum Abschluss des Hauptsacheverfahrens höchstwahrscheinlich nicht mehr erreicht werden.
+
+                                         II.
+ Die dem Bundesverfassungsgericht im Eilrechtsverfahren allein mögliche vorläufige     17
+Prüfung lässt eine Rechtsgrundlage für das ausgesprochene Versammlungsverbot
+nicht erkennen.
+
+ 1. Das Verbot gründet im vorliegenden Fall in erster Linie auf der Annahme, dass      18
+das Versammlungsmotto und die in der Versammlung zu erwartenden Äußerungen
+die öffentliche Ordnung unmittelbar gefährden. Das Oberverwaltungsgericht geht in
+seiner Rechtsprechung, auf die sich auch die Versammlungsbehörde beruft, davon
+aus, dass Versammlungen mit demonstrativen Äußerungen neonazistischer Meinungsinhalte unter Berufung auf verfassungsimmanente Beschränkungen beziehungsweise zum Schutz der öffentlichen Ordnung verboten werden können, wenn
+die Schwelle der Strafbarkeit im Einzelfall nicht erreicht ist (vgl. OVG NRW, NJW
+2001, S. 2111; NJW 2001, S. 2113; NJW 2001, S. 2114; NJW 2001, S. 2986
+<2987>; DVBl 2001, S. 584; grundsätzlich übereinstimmend Battis/Grigoleit, NVwZ
+2001, S. 121; dies., NJW 2001, S. 2051). Auf diese Rechtsauffassung kann ein Versammlungsverbot nicht gestützt werden.
+
+  a) Staatliche Beschränkungen des Inhalts und der Form einer Meinungsäußerung         19
+betreffen den Schutzbereich des Art. 5 Abs. 1 GG. Ihre Rechtfertigung finden sie,
+auch wenn die Äußerung in einer oder durch eine Versammlung erfolgt, in den
+Schranken des Art. 5 Abs. 2 GG (vgl. BVerfGE 90, 241 <246>; BVerfG, 1. Kammer
+des Ersten Senats, Beschluss vom 5. September 2003 - 1 BvQ 32/03 -, NVwZ 2004,
+S. 90 <91>). Demgegenüber schützt Art. 8 Abs. 1 GG die Freiheit, mit anderen Personen zum Zwecke einer gemeinschaftlichen, auf die Teilhabe an der öffentlichen
+Meinungsbildung gerichteten Erörterung oder Kundgebung örtlich zusammenzukommen (vgl. BVerfGE 104, 92 <104>). Der Schutzbereich dieser Grundrechtsnorm ist
+betroffen, wenn eine Versammlung verboten oder aufgelöst oder die Art und Weise
+ihrer Durchführung durch staatliche Maßnahmen beschränkt wird. Die in den Absätzen 2 von Art. 5 und Art. 8 GG enthaltenen Schranken sind auf die jeweiligen Schutzbereiche der betroffenen Grundrechtsnorm bezogen. Der Inhalt einer Meinungsäußerung, der im Rahmen des Art. 5 GG nicht unterbunden werden darf, kann daher auch
+
+
+                                        7/12
+
+nicht zur Rechtfertigung von Maßnahmen herangezogen werden, die das Grundrecht
+des Art. 8 GG beschränken (vgl. BVerfGE 90, 241 <246>).
+
+ b) Eine inhaltliche Begrenzung von Meinungsäußerungen kommt, soweit sie nicht         20
+dem Schutze der Jugend oder dem Recht der persönlichen Ehre dient, nur im Rahmen der allgemeinen Gesetze im Sinne des Art. 5 Abs. 2 GG in Betracht. Dies sind
+Gesetze, die sich nicht gegen die Meinungsfreiheit an sich oder gegen die Äußerung
+einer bestimmten Meinung richten, die vielmehr dem Schutz eines schlechthin, ohne
+Rücksicht auf eine bestimmte Meinung, zu schützenden Rechtsguts dienen (vgl.
+BVerfGE 7, 198 <209>; 93, 266 <291>; 97, 125 <146>; stRspr). Dieses Rechtsgut
+muss in der Rechtsordnung allgemein und damit unabhängig davon geschützt sein,
+ob es durch Meinungsäußerungen oder auf andere Weise verletzt werden kann. Soweit Rechtsnormen auslegungsbedürftig sind, darf die Auslegung nicht zur Außerachtlassung des Schutzgehalts von Art. 5 Abs. 1 GG führen.
+
+  c) Die Versammlungsbehörde und das Oberverwaltungsgericht haben ihre Entscheidung ausschließlich auf den Inhalt der zu erwartenden Äußerungen gestützt.
+Der Gesetzgeber hat in den allgemeinen Gesetzen, insbesondere den Strafgesetzen
+(so etwa in den §§ 86, 86 a, 130 StGB), Beschränkungen des Inhalts von Meinungsäußerungen an nähere tatbestandliche Voraussetzungen gebunden; eine Berufung
+auf das Tatbestandsmerkmal der öffentlichen Ordnung ist insofern nicht vorgesehen.
+Damit wird dem Umstand Rechnung getragen, dass Meinungsäußerungen in der pluralistischen Demokratie des Grundgesetzes grundsätzlich frei sind, es sei denn, der
+Gesetzgeber hat im Interesse des Rechtsgüterschutzes Schranken im Einklang mit
+Art. 5 Abs. 2 GG festgelegt. Für den Begriff der öffentlichen Ordnung ist demgegenüber kennzeichnend, dass er auf ungeschriebene Regeln verweist, deren Befolgung
+nach den jeweils herrschenden und mit dem Wertgehalt des Grundgesetzes zu vereinbarenden sozialen und ethischen Anschauungen als unerlässliche Voraussetzung
+eines geordneten menschlichen Zusammenlebens innerhalb eines bestimmten Gebiets angesehen wird (vgl. BVerfGE 69, 315 <352>). Das Grundrecht der Meinungsfreiheit ist ein Recht auch zum Schutz von Minderheiten; seine Ausübung darf nicht
+allgemein und ohne eine tatbestandliche Eingrenzung, die mit dem Schutzzweck des
+Grundrechts übereinstimmt, unter den Vorbehalt gestellt werden, dass die geäußerten Meinungsinhalte herrschenden sozialen oder ethischen Auffassungen nicht widersprechen.
+
+ Dementsprechend hat der Gesetzgeber in seiner Rechtsordnung, insbesondere in          22
+den Strafgesetzen, Meinungsäußerungen nur dann beschränkt, wenn sie zugleich
+sonstige Rechtsgüter - etwa die Menschenwürde oder das allgemeine Persönlichkeitsrecht - verletzen. Unter diesen Voraussetzungen dient die Strafrechtsordnung
+auch der Bekämpfung solcher Rechtsgutverletzungen, die durch antisemitische oder
+rassistische Äußerungen erfolgen. Werden die entsprechenden Strafgesetze durch
+Meinungsäußerungen missachtet, so liegt darin zugleich eine Verletzung der öffentlichen Sicherheit; eine so begründete Gefahr kann durch die Ordnungsbehörden abgewehrt werden, und zwar auch mit Auswirkungen auf Versammlungen. Das Grund-
+
+
+                                        8/12
+
+recht der Versammlungsfreiheit schützt die Durchführung von Versammlungen, ermöglicht jedoch nicht Rechtsgutverletzungen, die außerhalb von Versammlungen unterbunden werden dürfen. Die in § 15 Abs. 1 VersG enthaltene, auf den Schutzbereich des Art. 8 Abs. 1 GG bezogene Ermächtigung darf andererseits aber nicht zu
+einer Ausweitung der in der Rechtsordnung enthaltenen Schranken des Inhalts von
+Meinungsäußerungen führen.
+
+  d) Verfassungsrechtlich unbedenklich ist es, dass § 15 VersG gemäß § 20 VersG        23
+Beschränkungen der Versammlungsfreiheit, darunter auch zur Abwehr von Gefahren
+für die öffentliche Ordnung, erlaubt, vorausgesetzt, dass diese nicht aus dem Inhalt
+der Äußerungen, sondern aus der Art und Weise der Durchführung der Versammlung
+folgen. So sind Beschränkungen der Versammlungsfreiheit verfassungsrechtlich unbedenklich, die ein aggressives und provokatives, die Bürger einschüchterndes Verhalten der Versammlungsteilnehmer verhindern sollen, durch das ein Klima der Gewaltdemonstration und potentieller Gewaltbereitschaft erzeugt wird (vgl. BVerfG,
+1. Kammer des Ersten Senats, Beschluss vom 24. März 2001 - 1 BvQ 13/01 -, NJW
+2001, S. 2069 <2071>; Beschluss vom 7. April 2001 - 1 BvQ 17/01 und 1 BvQ 18/
+01 -, NJW 2001, S. 2072 <2074>; Beschluss vom 5. September 2003 - 1 BvQ 32/03 -
+, NVwZ 2004, S. 90 <91>). Die öffentliche Ordnung kann auch verletzt sein, wenn
+Rechtsextremisten einen Aufzug an einem speziell der Erinnerung an das Unrecht
+des Nationalsozialismus und den Holocaust dienenden Feiertag so durchführen,
+dass von seiner Art und Weise Provokationen ausgehen, die das sittliche Empfinden
+der Bürgerinnen und Bürger erheblich beeinträchtigen (vgl. BVerfG, 1. Kammer des
+Ersten Senats, Beschluss vom 26. Januar 2001 - 1 BvQ 9/01 -, DVBl 2001, S. 558).
+Gleiches gilt, wenn ein Aufzug sich durch sein Gesamtgepräge mit den Riten und
+Symbolen der nationalsozialistischen Gewaltherrschaft identifiziert und durch Wachrufen der Schrecken des vergangenen totalitären und unmenschlichen Regimes andere Bürger einschüchtert (vgl. BVerfG, 1. Kammer des Ersten Senats, Beschluss
+vom 5. September 2003 - 1 BvQ 32/03 -, NVwZ 2004, S. 90 <91>). In solchen Fällen
+ist unter Berücksichtigung des Grundsatzes der Verhältnismäßigkeit zu klären, durch
+welche Maßnahmen die Gefahr abgewehrt werden kann. Dafür kommen in erster Linie Auflagen in Betracht. Reichen sie zur Gefahrenabwehr nicht aus, kann die Versammlung verboten werden (vgl. BVerfGE 69, 315 <353>).
+
+ 2. a) Schranken der Meinungsfreiheit können sich auch aus kollidierenden Grundrechten und damit aus der Verfassung selbst ergeben (vgl. BVerfGE 66, 116 <136>).
+Die von der Versammlungsbehörde und dem Oberverwaltungsgericht als Maßstab
+herangezogene öffentliche Ordnung ist keine solche Grundrechtsschranke (vgl. Rühl,
+NVwZ 2003, S. 531 <536 f.>; Kniesel/Poscher, NJW 2004, S. 422 <428>). Soweit
+verfassungsunmittelbare Schranken von Grundrechten anzuerkennen sind, ermöglichen sie zwar Freiheitsbeschränkungen; ihre Konkretisierung aber unterliegt dem
+Vorbehalt des Gesetzes (vgl. BVerfGE 83, 130 <142>; 108, 282 <297, 302, 311>).
+Sie bedürfen daher einer gesetzlichen Grundlage. Schon daran fehlt es im Hinblick
+auf die vom Oberverwaltungsgericht angenommene verfassungsimmanente Be-
+
+
+
+                                        9/12
+
+schränkung der Kundgabe einer rechtsextremistischen Ideologie (vgl. OVG NRW,
+NJW 2001, S. 2111 f.; NJW 2001, S. 2113 f.; NJW 2001, S. 2986 f.).
+
+  b) Einschränkungen von Versammlungen wegen des Inhalts der mit ihnen verbundenen Äußerungen können auch nicht darauf gestützt werden, dass das Grundgesetz sich angesichts der Erfahrungen mit dem Nationalsozialismus für eine wehrhafte
+Demokratie entschieden hat. In der Tat will das Grundgesetz nationalsozialistische
+Bestrebungen abwehren. Zugleich schafft es rechtsstaatliche Sicherungen, deren
+Fehlen das menschenverachtende Regime des Nationalsozialismus geprägt hat.
+Dementsprechend enthält das Grundgesetz einen Auftrag zur Abwehr von Beeinträchtigungen der Grundlagen einer freiheitlichen demokratischen Ordnung mit den
+Mitteln des Rechtsstaats.
+
+ Dem trägt die Rechtsordnung insbesondere in den Strafgesetzen durch besondere         26
+Schutznormen Rechnung. Das Grundgesetz enthält darüber hinaus in Art. 9 Abs. 2,
+Art. 18 und Art. 21 Abs. 2 sowie auch in Art. 26 Abs. 1 besondere Schutzvorkehrungen, die zeigen, dass der Verfassungsstaat des Grundgesetzes sich gegen Gefährdungen seiner Grundordnung - auch soweit sie auf der Verbreitung nationalsozialistischen Gedankenguts beruhen - im Rahmen rechtsstaatlich geregelter Verfahren
+wehrt. Aus den aufgeführten Normen des Grundgesetzes können aber keine weiter
+gehenden Rechtsfolgen als die ausdrücklich angeordneten abgeleitet werden (vgl.
+BVerfGE 10, 118 <123>; 13, 46 <52>; 25, 44 <57 f.>; BVerfG, 1. Kammer des Ersten
+Senats, Beschluss vom 5. September 2003 - 1 BvQ 32/03 -, NVwZ 2004, S. 90
+<91>). Die Sperrwirkung dieser Vorschriften steht daher einer Berufung auf ungeschriebene verfassungsimmanente Schranken als Rechtfertigung für sonstige Maßnahmen zum Schutz der freiheitlichen demokratischen Grundordnung entgegen. Die
+Auffassung des Oberverwaltungsgerichts, dass das Grundgesetz zu hohe Hürden für
+die Inanspruchnahme der Vorkehrungen zur Abwehr von Gefahren für die freiheitliche demokratische Ordnung gegen Rechtsextremisten geschaffen habe (vgl. OVG
+NRW, NJW 2001, S. 2114), erlaubt keine Errichtung von Grundrechtsschranken
+durch Richterrecht. Die im Grundgesetz vorgesehenen Beschränkungsmöglichkeiten
+sind zugleich Ausdruck der vom Verfassungsgeber anerkannten Notwendigkeiten einer Beschränkung.
+
+ 3. Der Verbotstatbestand der unmittelbaren Gefahr für die öffentliche Sicherheit      27
+nach § 15 Abs. 1 VersG, der vom Oberverwaltungsgericht für die erste, am 18. Dezember 2003 angemeldete Versammlung bejaht worden war, kommt nicht mehr zum
+Tragen. Mit dem Vorliegen des Tatbestands der Volksverhetzung, auf den die angenommene Gefährdung der öffentlichen Sicherheit gestützt worden war, hat das Oberverwaltungsgericht seine neue Entscheidung nicht begründet. Die Staatsanwaltschaft hat ihn schon für das frühere Versammlungsmotto verneint. Ob die
+Veränderung des Mottos - wie das Oberverwaltungsgericht meint - nur eine kosmetische Korrektur war, die dazu dienen sollte, der Gefahr einer Bestrafung nach § 130
+StGB und eines hieran anknüpfenden Versammlungsverbots zu entgehen, ist versammlungsrechtlich unerheblich. Ermächtigungen zur Beschränkung grundrechtli-
+
+
+                                        10/12
+
+cher Freiheiten knüpfen nicht an die Gesinnung, sondern an Gefahren für Rechtsgüter an, die aus konkreten Handlungen folgen (vgl. BVerfGE 25, 44 <58>).
+
+                                        III.
+ Die aufschiebende Wirkung des Widerspruchs ist wieder herzustellen.                  28
+
+  Die Verweigerung der aufschiebenden Wirkung des Widerspruchs führt angesichts       29
+der offensichtlichen Rechtswidrigkeit der Verbotsverfügung zu einem schweren
+Nachteil im Sinne des § 32 Abs. 1 BVerfGG. Vor Durchführung des Hauptsacheverfahrens wird es dem Veranstalter angesichts der rechtswidrigen Praxis nicht möglich
+sein, sein Anliegen in einer den Versammlungszweck berücksichtigenden Weise zu
+verfolgen, danach wird es angesichts der Zeitabhängigkeit des Versammlungsanliegens dafür zu spät sein.
+
+ Diese Entscheidung ist einstimmig ergangen.                                          30
+
+               Papier                 Jaeger                 Haas
+
+                                                          Hohmann-Hömig                 Steiner
+                                                          Dennhardt
+
+           Hoffmann-Riem                                    Bryde
+
+
+
+
+                                       11/12
+
+Bundesverfassungsgericht, Beschluss des Ersten Senats vom 23. Juni 2004 -
+1 BvQ 19/04
+
+Zitiervorschlag BVerfG, Beschluss des Ersten Senats vom 23. Juni 2004 - 1 BvQ 19/04
+                - Rn. (1 - 30), http://www.bverfg.de/e/qs20040623a_1bvq001904.html
+
+ECLI            ECLI:DE:BVerfG:2004:qs20040623a.1bvq001904
+
+
+
+
+                                     12/12
