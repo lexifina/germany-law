@@ -1,0 +1,128 @@
+---
+ecli: "ECLI:DE:BVerfG:1999:rk19991210.1bvr160399"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 1603/99"
+decided: "1999-12-10"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 10. Dezember 1999\n- 1 BvR 1603/99 -, Rn. 1-12,\n                    https://www.bverfg.de/e/rk19991210_1bvr160399"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1999/12/rk19991210_1bvr160399.html"
+corpus_doc_id: "BVerfG_1999-12-10_K_1_BvR_1603_99_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/aktg/0304.md", "germany/bund/acts/aktg/0305.md", "germany/bund/acts/bverfgg/0001.md", "germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/grundgesetz/artikel/006.md", "germany/bund/acts/grundgesetz/artikel/009.md", "germany/bund/acts/grundgesetz/artikel/014.md", "germany/bund/acts/grundgesetz/artikel/103.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 1603/99 vom 1999-12-10
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 1 BVR 1603/99 -
+
+                               In dem Verfahren
+                                     über
+                         die Verfassungsbeschwerde
+der Frau G...
+
+- Bevollmächtigter: Rechtsanwalt Dr. Hans Norbert Götz,
+                    Ludwig-Wilhelm-Straße 1, Baden-Baden -
+gegen den Beschluß des Oberlandesgerichts Karlsruhe vom 4. August 1999 - 12
+      W 17/99 -
+
+hat die 1. Kammer des Ersten Senats des Bundesverfassungsgerichts durch
+                                den Vizepräsidenten Papier
+                                und die Richter Grimm,
+                                Hömig
+
+gemäß § 93 b in Verbindung mit § 93 a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 10. Dezember 1999 einstimmig
+beschlossen:
+
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+
+                                    Gründe:
+ Die Voraussetzungen für eine Annahme der Verfassungsbeschwerde (§ 93 a Abs. 2      1
+BVerfGG) liegen nicht vor.
+
+ 1. Der Verfassungsbeschwerde kommt keine grundsätzliche verfassungsrechtliche      2
+Bedeutung zu (§ 93 a Abs. 2 Buchstabe a BVerfGG).
+
+  Diese ist nur gegeben, wenn die Verfassungsbeschwerde eine verfassungsrechtliche Frage aufwirft, die sich nicht ohne weiteres aus dem Grundgesetz beantworten
+läßt und noch nicht durch die verfassungsgerichtliche Rechtsprechung geklärt oder
+die durch veränderte Verhältnisse erneut klärungsbedürftig geworden ist (vgl.
+BVerfGE 90, 22 <24>). Die hier von der Verfassungsbeschwerde aufgeworfenen verfassungsrechtlichen Fragen zur Relevanz des Börsenkurses bei der Bestimmung von
+Ausgleich und Abfindung im Rahmen eines aktienrechtlichen Spruchstellenverfahrens und zur Notwendigkeit der Anhörung eines Sachverständigen in einem solchen
+Verfahren sind in der Rechtsprechung des Bundesverfassungsgerichts geklärt (vgl.
+BVerfGE 100, 289, sowie BVerfG, 1. Kammer des Ersten Senats, DB 1998, S. 1506,
+mit der dort zitierten verfassungsgerichtlichen Rechtsprechung).
+
+ 2. Die Annahme der Verfassungsbeschwerde ist auch nicht zur Durchsetzung von       4
+Verfassungsrechten angezeigt (§ 93 a Abs. 2 Buchstabe b BVerfGG).
+
+
+
+                                       1/4
+
+  Angezeigt ist die Annahme, wenn die geltend gemachte Verletzung von Grundrechten oder grundrechtsgleichen Rechten besonderes Gewicht hat oder den Beschwerdeführer in existentieller Weise betrifft. Besonders gewichtig ist eine Grundrechtsverletzung, die auf eine generelle Vernachlässigung von Grundrechten hindeutet oder
+wegen ihrer Wirkung geeignet ist, von der Ausübung von Grundrechten abzuhalten.
+Eine geltend gemachte Verletzung hat ferner dann besonderes Gewicht, wenn sie
+auf einer groben Verkennung des durch ein Grundrecht gewährten Schutzes oder einem geradezu leichtfertigen Umgang mit grundrechtlich geschützten Positionen beruht oder rechtsstaatliche Grundsätze kraß verletzt. Eine existentielle Betroffenheit
+des Beschwerdeführers kann sich vor allem aus dem Gegenstand der angegriffenen
+Entscheidung oder seiner aus ihr folgenden Belastung ergeben (vgl. BVerfGE 90, 22
+<25>). Danach bedarf es im vorliegenden Fall keiner Annahme der Verfassungsbeschwerde.
+
+ a) Allerdings steht der angegriffene Beschluß des Oberlandesgerichts mit Art. 14          6
+Abs. 1 GG nicht in Einklang. Das Oberlandesgericht hat eine Berücksichtigung des
+Börsenkurses bei der Bestimmung des angemessenen Ausgleichs und der angemessenen Abfindung unter Berufung auf die herrschende Auffassung in Rechtsprechung und Literatur sowie in Anbetracht der Ausführungen des gerichtlich bestellten
+Sachverständigen prinzipiell abgelehnt. Das steht mit den Anforderungen, die von
+Verfassungs wegen bei der Auslegung und Anwendung der §§ 304, 305 AktG zu beachten sind, nicht in Einklang (vgl. BVerfGE 100, 289 <307 ff.>).
+
+  Es bedarf daneben keiner Entscheidung, ob das Oberlandesgericht überdies die             7
+Anforderungen des Art. 103 Abs. 1 GG verkannt hat. Grundsätzlich müssen die Gerichte in einem aktienrechtlichen Spruchstellenverfahren einem rechtzeitigen und
+nicht mißbräuchlichen Antrag auf Anhörung des Sachverständigen Folge leisten oder
+jedenfalls begründen, warum sie dem Antrag nicht nachkommen (vgl. BVerfG, 1.
+Kammer des Ersten Senats, DB 1998, S. 1506). Ob im vorliegenden Fall die "Bitte"
+der Beschwerdeführerin aus ihrem Schriftsatz vom 20. Mai 1999, den Sachverständigen zu einem Erörterungstermin zu laden, als "rechtzeitiger und nicht mißbräuchlicher Antrag" anzusehen ist, kann dahinstehen, weil es jedenfalls an den Voraussetzungen des § 93 a Abs. 2 Buchstabe a BVerfGG fehlt.
+
+ b) Die Voraussetzungen, unter denen eine Annahme der Verfassungsbeschwerde                8
+zur Durchsetzung der als verletzt gerügten Grundrechte angezeigt ist, liegen nicht
+vor.
+
+ aa) Der Beschluß des Oberlandesgerichts stellt sich trotz des Verstoßes gegen Art.        9
+14 Abs. 1 GG nicht als besonders gewichtige Grundrechtsverletzung dar.
+
+  Die verfassungswidrige Feststellung des Oberlandesgerichts zur grundsätzlichen Irrelevanz des Börsenkurses bei der Bestimmung einer angemessenen Entschädigung für Minderheitsaktionäre im Rahmen eines aktienrechtlichen Spruchstellenverfahrens beruhte auf einer langjährigen, im Schrifttum und in der Rechtsprechung - bis
+zum Beschluß des Bundesverfassungsgerichts vom 27. April 1999 (BVerfGE 100,
+
+
+                                          2/4
+
+289) - weitgehend unbestrittenen Auffassung. Erst in neuerer Zeit ist die früher herrschende Auffassung auch unter grundrechtlichen Aspekten vorsichtig problematisiert
+worden (vgl. die Nachweise bei Hüffer, AktG, 4. Aufl. 1999, § 305 Rn. 20 a). Unter
+diesen Umständen läßt sich nicht von einer groben Verkennung des durch ein Grundrecht gewährten Schutzes oder einem geradezu leichtfertigen Umgang mit grundrechtlich geschützten Positionen sprechen. Auch eine krasse Verletzung von rechtsstaatlichen Grundsätzen liegt nicht vor. Insbesondere kann dem Oberlandesgericht
+nicht vorgeworfen werden, es habe die Rechtsprechung des Bundesverfassungsgerichts ignoriert. Zum Zeitpunkt seiner Entscheidung (4. August 1999) konnte das Gericht den DAT-Beschluß des Bundesverfassungsgerichts vom 27. April 1999 nicht
+kennen, weil dieser erst durch die Pressemitteilung vom 10. August 1999 bekanntgegeben wurde. Ebensowenig läßt sich feststellen, daß das Oberlandesgericht in bezug auf den gerügten Gehörsverstoß die Rechtsprechung des Bundesverfassungsgerichts in krasser Weise mißachtet hätte.
+
+  bb) Auch eine existentielle Betroffenheit der Beschwerdeführerin ist nicht ersichtlich. Die Beschwerdeführerin ist an der abhängigen Gesellschaft mit zehn Aktien beteiligt. Daß der Ausgang des Spruchstellenverfahrens angesichts dieser Beteiligungshöhe für die Beschwerdeführerin von existentieller Bedeutung wäre, ist weder
+dargetan noch ersichtlich.
+
+ Diese Entscheidung ist unanfechtbar.                                                    12
+
+                Papier                  Grimm                 Hömig
+
+
+
+
+                                          3/4
+
+Bundesverfassungsgericht, Beschluss der 1. Kammer des Ersten Senats vom
+10. Dezember 1999 - 1 BvR 1603/99
+
+Zitiervorschlag BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 10. Dezember 1999 - 1 BvR 1603/99 - Rn. (1 - 12), http://www.bverfg.de/e/
+                rk19991210_1bvr160399.html
+
+ECLI           ECLI:DE:BVerfG:1999:rk19991210.1bvr160399
+
+
+
+
+                                     4/4
