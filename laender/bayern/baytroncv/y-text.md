@@ -1,0 +1,1 @@
+Auf Grund des Art. 6 Abs. 3 des Gesetzes über Spielbanken im Freistaat Bayern vom 26. Juli 1995 (GVBl S. 350, BayRS 2187-1-I) erläßt das Bayerische Staatsministerium des Innern im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
