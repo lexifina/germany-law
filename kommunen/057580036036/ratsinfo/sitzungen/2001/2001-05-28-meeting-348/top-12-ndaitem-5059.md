@@ -1,0 +1,6 @@
+# TOP 12.: Angelegenheiten des Kurzweckverbandes (Berichte und Beschlussfassungen)
+
+- Sitzung: Rat (2001-05-28)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/5059
