@@ -1,0 +1,7 @@
+# TOP 3.2: Zugriff auf das Intranet der Berliner Verwaltung
+
+- Sitzung: 22. öffentliche/nichtöffentliche Sitzung des Hauptausschusses (2003-09-02)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=7837
+- Ergebnis: vertagt
