@@ -1,4 +1,4 @@
-# TOP 5.1.: Anregungen und Beschwerden gem. § 24 Abs. 1 GO NW
+# TOP 5.1.: Parksituation an der Zehnthofstraße
 
 - Sitzung: Gemeinderat (2001-06-27)
 - Körperschaft: Gemeinde Aldenhoven
