@@ -1,0 +1,3 @@
+# Verordnung des Regierungspräsidiums Dresden zur Änderung der Abgrenzung des Landschaftsschutzgebietes „Sächsische Schweiz“
+Vom 10. Dezember 1998
+Aufgrund von § 50 Abs. 2 des Sächsischen Gesetzes über Naturschutz und Landschaftspflege (Sächsisches Naturschutzgesetz – SächsNatSchG) in der Fassung der Bekanntmachung vom 11. Oktober 1994 (SächsGVBl. S. 1601, ber. 1995 S. 106) in Verbindung mit der Verordnung des Sächsischen Staatsministeriums für Umwelt und Landesentwicklung zur Bestimmung der Zuständigkeit für das Landschaftsschutzgebiet Sächsische Schweiz vom 30. September 1996 (SächsGVBl. S. 424) und § 51 Abs. 1 SächsNatSchG wird verordnet:
