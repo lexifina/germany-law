@@ -1,0 +1,7 @@
+# TOP 9: Benennung der Straße 549 in Blumeslake
+
+- Sitzung: 30. (öfftl.) Sitzung des Ausschusses für Kultur (2004-09-30)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=5890
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
