@@ -1,8 +1,8 @@
 # Vollzitat: FRL Verbraucherschutz
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2029-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/21362.2
+- Datum: 2031-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/21362.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,7 +25,7 @@ Hauptinhalt
 Zukünftige Fassung
 
 wird gültig ab
-01.01.2029
+01.01.2031
 
 FRL Verbraucherschutz
 
@@ -114,359 +114,8 @@ Für die Bewilligung, Auszahlung und Abrechnung der Zuwendungen, sowie den Nachw
 Teil 2
 Besondere Regelungen
 
-A.
-Verbraucherzentrale Sachsen
-
-I.
-Zuwendungszweck
-
-Zweck der Förderung ist die dauerhafte Information, Beratung und Aufklärung von Verbraucherinnen und Verbrauchern im Freistaat Sachsen zur Stärkung ihrer diesbezüglichen Rechte und Kenntnisse.
-
-II.
-Gegenstand der Förderung
-
-Gefördert wird die satzungsmäßige Aufgabenwahrnehmung einer Einrichtung, die Interessen von Verbraucherinnen und Verbrauchern durch eine unabhängige Aufklärung, Beratung, Information und Rechtsdurchsetzung wahrnimmt und fördert sowie durch ihre Öffentlichkeitsarbeit und die Zusammenarbeit mit anderen Akteuren verbraucherpolitisch wirksam ist.
-
-III.
-Zuwendungsempfänger
-
-Zuwendungsempfänger ist die Verbraucherzentrale Sachsen e. V.
-
-IV.
-Zuwendungsvoraussetzungen
-
-1.
-
-Der Zuwendungsempfänger muss einen Wirtschaftsplan sowie einen aktuellen Jahresabschluss vorlegen. Der Wirtschaftsplan muss alle zu erwartenden Einnahmen und voraussichtlich zu leistenden Ausgaben sowie einen Organisations- und Stellenplan enthalten. Eine Übersicht über das Vermögen und die Schulden sowie über die voraussichtlich einzugehenden Verpflichtungen zu Lasten künftiger Jahre ist als Anlage beizufügen, soweit sich dies nicht schon aus dem Wirtschaftsplan ergibt. 
-
-2.
-
-Der Sitz des Zuwendungsempfängers muss sich im Freistaat Sachsen befinden. 
-
-3.
-
-Voraussetzung für die Zuwendung ist der Nachweis der Gemeinnützigkeit durch den Zuwendungsempfänger in Form eines aktuellen Freistellungsbescheides durch das Finanzamt.
-
-
-V.
-Art und Umfang, Höhe der Zuwendungen
-
-1.
-
-Die Zuwendung wird im Rahmen einer institutionellen Förderung als Fehlbedarfsfinanzierung in Form eines Zuschusses gewährt. Der Zuschuss ist begrenzt auf die im maßgeblichen Förderjahr zweckentsprechend veranschlagten Haushaltsmittel.
-
-2.
-
-Zuwendungsfähig sind die Personal- und Sachausgaben, die zur Wahrnehmung der satzungsmäßigen Aufgaben notwendig sind und im Rahmen des vom Zuwendungsgeber gebilligten Wirtschaftsplans und des Organisations- und Stellenplans liegen. Das Wirtschaftsjahr ist das Haushaltsjahr. 
-
-3.
-
-Zu den Sachausgaben gehören investive Ausgaben zur Ausstattung und Modernisierung von Beratungseinrichtungen und der Geschäftsstelle. Zuwendungsfähig sind die erforderlichen Ausgaben nach den Kostengruppen der DIN 276:
-
-
-a)
-
-610 – Allgemeine Ausstattung,
-
-
-b)
-
-620 – Besondere Ausstattung,
-
-
-c)
-
-630 – Informationstechnische Ausstattung.
-
-4.
-
-Die Finanzierung von Kooperationspartnern ist ausgeschlossen.
-
-
-VI.
-Verfahren
-
-1.
-
-Die Zuwendung kann für einen Zeitraum von zwei Jahren, beginnend ab dem 1. Januar eines Jahres gewährt werden und steht unter dem Vorbehalt von verfügbaren Verpflichtungsermächtigungen. 
-
-2.
-
-Anträge auf Gewährung der Zuwendung sind schriftlich bis zum 31. Oktober vor Beginn des nächsten Bewilligungszeitraums bei der Bewilligungsbehörde einzureichen. Dem Antrag auf Gewährung der Zuwendung sind beizufügen:
-
-
-a)
-
-ein Wirtschaftsplan und ein aktueller Jahresabschluss; der Plan muss alle zu erwartenden Einnahmen und voraussichtlich zu leistenden Ausgaben enthalten, 
-
-
-b)
-
-der Organisations- und Stellenplan für das jeweilige Förderjahr einschließlich einer Gegenüberstellung zum laufenden Jahr und
-
-
-c)
-
-die aktuelle Satzung.
-
-3.
-
-Bis zum Ende eines Jahres ist der Jahresarbeitsplan zu übermitteln, welcher die wesentlichen Ziele für die Arbeit der Einrichtung im nächsten Jahr umfasst.
-
-4.
-
-Die Auszahlung erfolgt gemäß Nummer 7.3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung in zwei Raten, und zwar spätestens zum 1. Februar und zum 1. Juli des jeweiligen Förderjahres.
-
-
-B.
-Wirtschaftlicher Verbraucherschutz
-
-I.
-Zuwendungszweck
-
-Zweck der Förderung ist es, zielgruppenspezifische Informations- und Bildungsangebote für sächsische Verbraucherinnen und Verbraucher im Bereich des wirtschaftlichen Verbraucherschutzes zu erstellen, um ihre Position am Markt zu stärken und ihnen Orientierung sowie Hilfe zur Selbsthilfe zu bieten.
-
-II.
-Gegenstand der Förderung
-
-Gefördert werden Maßnahmen zur Information und Bildung der Verbraucherinnen und Verbraucher im Bereich des wirtschaftlichen Verbraucherschutzes im Freistaat Sachsen.
-
-III.
-Zuwendungsempfänger
-
-Zuwendungsempfänger ist die Verbraucherzentrale Sachsen e. V.
-
-IV.
-Zuwendungsvoraussetzungen
-
-Die Bewilligung erfolgt unter der Voraussetzung, dass der Bund mindestens in gleicher Höhe Mittel gewährt.
-
-V.
-Art und Umfang, Höhe der Zuwendungen
-
-1.
-
-Die Zuwendung wird im Rahmen einer Projektförderung als Fehlbedarfsfinanzierung in Form eines Zuschusses gewährt.
-
-2.
-
-Zuwendungsfähig sind projektbezogene Personal- und Sachausgaben.
-
-
-VI.
-Verfahren
-
-1.
-
-Der Antrag auf Gewährung einer Zuwendung ist spätestens bis zum 31. Oktober des laufenden Jahres für das Folgejahr bei der Bewilligungsbehörde auf dem entsprechenden Antragsformular einzureichen. Die Bewilligungsbehörde kann im Einzelfall Ausnahmen zulassen. Dem Antrag sind beizufügen: 
-
-
-a)
-
-eine ausführliche Beschreibung des Projekts und seiner Ziele,
-
-
-b)
-
-ein Finanzierungsplan und 
-
-
-c)
-
-der Nachweis der Förderung durch den Bund.
-
-2.
-
-Für das Auszahlungsverfahren gilt Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung.
-
-3.
-
-Bewilligungszeitraum ist das Kalenderjahr.
-
-
-C.
-Ernährungsaufklärung
-
-I.
-Zuwendungszweck
-
-Ziel der Förderung ist es, dass Verbraucherinnen und Verbraucher durch Information, Bildung und Beratung in den Bereichen Ernährung und Lebensmittel vor Irreführung, Täuschung und gesundheitlicher Beeinträchtigung geschützt werden sowie ihnen Konsum- und Ernährungskompetenzen vermittelt werden, um gesundheitliche Chancengerechtigkeit zu ermöglichen.
-
-II.
-Gegenstand der Förderung
-
-Gefördert werden folgende Maßnahmen:
-
-1.
-
-Verbraucherinformation, -aufklärung oder -bildung zu den Themen gesunde und nachhaltige Ernährung und Lebensmittel, dabei insbesondere die Verbraucherbildung an Schulen zu den Themen gesunde und nachhaltige Ernährung und Ernährungsumgebung,
-
-2.
-
-persönliche und digitale Beratung zu den Themen Ernährung und Lebensmittel, individuell und in Gruppen, stationär oder mobil, 
-
-3.
-
-Fortbildungsmaßnahmen, die zur Vermittlung, Erweiterung, Vertiefung und Weiterentwicklung spezifischer Fachkenntnisse der im Förderbereich Tätigen, insbesondere Fachpersonal, ehrenamtlich Tätiger und Angehöriger erforderlich sind (Multiplikatorenschulungen) sowie
-
-4.
-
-Beteiligung an der Ausbildung von Diätassistentinnen und Diätassistenten sowie weiterer fachbezogener Berufsausbildungen und Studiengängen durch die Vergabe von Praktikumsplätzen.
-
-
-III.
-Zuwendungsempfänger
-
-Zuwendungsempfänger ist die Verbraucherzentrale Sachsen e. V.
-
-IV.
-Zuwendungsvoraussetzungen
-
-Voraussetzung für die Gewährung einer Zuwendung ist, dass
-
-1.
-
-der Bund für das Projekt „Information der Verbraucherinnen und Verbraucher auf dem Gebiet der Ernährung“ Mittel gewährt,
-
-2.
-
-Maßnahmen zum Umgang mit und zur Auswahl von Lebensmitteln auf den Empfehlungen der Deutschen Gesellschaft für Ernährung e. V. (https://www.dge.de/gesunde-ernaehrung/gut-essen-und-trinken/dge-empfehlungen/) oder anderen wissenschaftlichen Einrichtungen beruhen, sowie auf die objektive Information der Verbraucherinnen und Verbraucher ausgerichtet sind und
-
-3.
-
-die Beratung mittels speziell ausgebildeter Fachkräfte auf dem Gebiet der Ernährungsberatung im gesamten Freistaat Sachsen durchgeführt wird.
-
-
-V.
-Art und Umfang, Höhe der Zuwendungen
-
-1.
-
-Die Zuwendung wird als Zuschuss im Rahmen einer Projektförderung als Fehlbedarfsfinanzierung gewährt. 
-
-2.
-
-Zuwendungsfähig sind projektbezogene Personal- und Sachausgaben.
-
-3.
-
-Zu den Sachausgaben gehören investive Ausgaben zur Einrichtung und Ausstattung von Lehrküchen. 
-
-
-VI.
-Verfahren
-
-1.
-
-Der Antrag auf Gewährung einer Zuwendung ist spätestens bis zum 31. Oktober des laufenden Jahres für das Folgejahr bei der Bewilligungsbehörde auf dem entsprechenden Antragsformular einzureichen. Die Bewilligungsbehörde kann im Einzelfall Ausnahmen zulassen. Dem Antrag sind beizufügen: 
-
-
-a)
-
-eine ausführliche Beschreibung des Projekts und seiner Ziele,
-
-
-b)
-
-ein Finanzierungsplan, 
-
-
-c)
-
-Personalblätter und Nachweise über Qualifikationen des eingesetzten Personals und
-
-
-d)
-
-eine Eigenerklärung, dass die Empfehlungen der Deutschen Gesellschaft für Ernährung e. V. eingehalten werden. 
-
-2.
-
-Für das Auszahlungsverfahren gilt Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung.
-
-3.
-
-Bewilligungszeitraum ist das Kalenderjahr.
-
-
-D.
-Modellprojekte Verbraucherarbeit
-
-I.
-Zuwendungszweck
-
-Der Freistaat Sachsen fördert Modellprojekte im Bereich des Verbraucherschutzes. Modellprojekte sind Maßnahmen, die einem zeitlich befristeten Ausprobieren neuer Lösungswege mit dem Zweck dienen, diese auf weitere Anwendungsfälle zu übertragen. Modellprojekte sind gekennzeichnet durch die Merkmale Erprobung und Weiterentwicklung. Ziel der Förderung von Modellprojekten ist die Weiterentwicklung der Verbraucherarbeit. Es sollen innovative Maßnahmen mit herausgehobener und zukunftsorientierter Bedeutung unterstützt werden.
-
-II.
-Gegenstand der Förderung
-
-Gefördert werden folgende Modellprojekte des Verbraucherschutzes:
-
-1.
-
-innovative Informations- und Beratungsansätze,
-
-2.
-
-Beratung aufgrund unvorhersehbarerer Entwicklungen und Ereignisse,
-
-3.
-
-Forschung zu aus Verbrauchersicht aktuellen und weiterzuentwickelnden Themen, aufgrund von neuen Entwicklungen in Rechtsprechung und Wissenschaft,
-
-4.
-
-zur Erschließung neuer Zielgruppen und
-
-5.
-
-Verbraucherbildung durch Trainings in Erlebnis- oder Übungsräumen.
-
-
-III.
-Zuwendungsempfänger
-
-Zuwendungsempfänger sind juristische Personen des öffentlichen Rechts und des Privatrechts.
-
-IV.
-Zuwendungsvoraussetzungen
-
-1.
-
-Dem Antrag ist eine ausführliche Beschreibung des Projekts und seiner Ziele beizufügen. 
-
-2.
-
-Mit der Antragstellung ist ein Finanzierungsplan vorzulegen und der Vereinsregister- oder Handelsregisterauszug, sofern eine Eintragung vorliegt.
-
-
-V.
-Art und Umfang, Höhe der Zuwendungen
-
-1.
-
-Die Zuwendung wird als Zuschuss im Rahmen einer Projektförderung als Anteilfinanzierung gewährt. 
-
-2.
-
-Die Höhe der Zuwendung beträgt bis zu 90 Prozent der zuwendungsfähigen Ausgaben. In begründeten Einzelfällen kann die Bewilligungsbehörde im Benehmen mit dem Staatsministerium für Soziales, Gesundheit und Gesellschaftlichen Zusammenhalt einen Fördersatz von bis zu 100 Prozent gewähren, wenn der Zuwendungsempfänger nicht in der Lage ist, einen Eigenanteil in der geforderten Höhe zu erbringen. Ein begründeter Einzelfall liegt vor, wenn ein herausragendes fachpolitisches Interesse an der Maßnahme aufgrund des besonders innovativen Charakters besteht, um die Verbraucherarbeit weiterzuentwickeln.
-
-3.
-
-Zuwendungsfähig sind projektbezogene Personal- und Sachausgaben.
-
-
-VI.
-Verfahren
-
-1.
-
-Eine Antragstellung ist nur nach einem Förderaufruf des Staatsministeriums für Soziales, Gesundheit und Gesellschaftlichen Zusammenhalt möglich. Dieser konkretisiert die in der Richtlinie enthaltenen Bestimmungen wie zum Beispiel die Antragsfristen, maximale Förderbeträge und Projektlaufzeiten. Der Förderaufruf wird im Sächsischen Amtsblatt und auf der Internetseite der Bewilligungsbehörde veröffentlicht.
-
-2.
-
-Es gilt das Auszahlungsverfahren nach Nummer 7.1 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung oder Nummer 7.1 der Anlage 3 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung. Für nicht kommunale Zuwendungsempfänger gilt das Auszahlungsverfahren nach Nummer 7.5 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung nur, wenn die Voraussetzungen erfüllt sind.
-
+A-D
+(entfällt)
 
 E.
 Verbraucherinsolvenzberatung
@@ -794,9 +443,11 @@ Fsn-Nr.: 5586
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2029
+Fassung gültig ab:  1. Januar 2031
 
-Fassung gültig bis: 31. Dezember 2030
+Vorschrift außer Kraft mit Ablauf des:
+
+31. Dezember 2034
 
 Drucken/Speichern
 
@@ -821,7 +472,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/21362.2
+https://www.revosax.sachsen.de/vorschrift/21362.3
 Stand vom
 18.11.2026
 
