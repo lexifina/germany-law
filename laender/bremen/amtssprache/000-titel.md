@@ -1,0 +1,1 @@
+# Verordnung über die Zulassung von Ausländern und Aussiedlern und über die Anerkennung der Sprache des Herkunftslandes (Amtssprache) als Fremdsprache in beruflichen Vollzeitschulen vom 6. August 1986
