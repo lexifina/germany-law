@@ -1,0 +1,1 @@
+Auf Grund von § 6a Abs. 2 Satz 2 und Abs. 3 Satz 1 Allgemeines Eisenbahngesetz (BGBl III 930–1), zuletzt geändert durch Art. 24 des Gesetzes vom 3. Mai 2000 (BGBl I S. 632), erlässt die Bayerische Staatsregierung folgende Verordnung:
