@@ -1,1 +1,1 @@
-# Verordnung über die Wahl des Börsenrates der Bremer Wertpapierbörse vom 7. August 1995
+# Verordnung über die Wahl des Börsenrates der Börse Berlin-Bremen vom 19. Februar 2004

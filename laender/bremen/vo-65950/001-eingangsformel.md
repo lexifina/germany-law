@@ -1,2 +1,3 @@
 # Eingangsformel
-Aufgrund des § 3a Abs. 3 des Börsengesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4110-1, veröffentlichen bereinigten Fassung, das zuletzt durch Artikel 2 des Gesetzes vom 26. Juli 1994 (BGBl. I S. 1749) geändert worden ist, in Verbindung mit § 1 der Verordnung zur Übertragung von Zuständigkeiten nach dem Börsengesetz vom 31. Januar 1995 (Brem.GBl. S. 125), wird verordnet:
+Auf Grund des § 10 Abs. 3 des Börsengesetzes vom 21. Juni 2002 (BGBl. I S. 2010), geändert durch Artikel 72 der Verordnung vom 25. November 2003 (BGBl. I S. 2304), in Verbindung mit § 1 der Verordnung zur Übertragung von Zuständigkeiten nach dem Börsengesetz vom 6. August 2002 (Brem.GBl. S. 331 - 411-c-1) wird nach Anhörung des Börsenrates verordnet:
+Einzelansicht Seitenanfang
