@@ -1,0 +1,6 @@
+# TOP 50: Maßnahmen zur Verkehrssicherheit im Bereich der Einmündung des Müggelseedamms in den Fürstenwalder Damm (Rahnsdorf)
+
+- Sitzung: 8. (ordentliche) Sitzung der Bezirksverordnetenversammlung (2002-06-27)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=1229
