@@ -14,6 +14,7 @@ Inhaltsübersicht
 § 10 | Schuldhaft verursachte Kosten
 § 11 | Auslagen
 § 12 | Benutzungsgebühren
+§ 12a | Kostenersatz für Anschlußkanäle
 § 13 | Kostenschuldner
 § 14 | Entstehung der Kostenschuld
 § 15 | Fälligkeit der Kostenschuld
@@ -27,6 +28,7 @@ Inhaltsübersicht
 4. Abschnitt Vorschriften über Kosten und Beiträge
 § 22 | Entscheidung über Kosten und Beiträge
 § 23 | Säumnis
+§ 23a | Zinsen bei Aussetzung der Vollziehung
 § 24 | Stundung
 § 25 | Erlaß
 § 26 | Rückzahlung und Verrechnung
