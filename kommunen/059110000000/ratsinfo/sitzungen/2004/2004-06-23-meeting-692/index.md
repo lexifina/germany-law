@@ -1,0 +1,53 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2004-06-23T15:00:00+02:00
+- Ende: 2004-06-23T17:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZLoJXDLtADe-TrsZtlYkfU
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/692
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSkV65Q0FKMZEfjAgnMjrKIslN6lxeLkvOsT5dS6wJqT/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_23.06.2004.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Betreuungswesen in Bochum
+- TOP 2: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Situation bei der Aufnahme und Unterbringung von Flüchtlingen, Aussiedlerinnen und Aussiedlern in Bochum
+- TOP 7: Vergabe von Zuschüssen an Selbsthilfegruppen und Initiativen - Sozialamt -
+- TOP 8: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 9: Situation der Methadon-Ambulanz der Krisenhilfe, hier: Auswirkungen der Richtlinien über die Bewertung ärztlicher Untersuchungs- und Behandlungsmethoden (BUB-Richtlinien) sowie des Gesetzes zur Modernisierung der gesetzlichen Krankenversicherung (GMG)
+- TOP 10: Betreuungs- und Handlungskonzept für Obdachlose/Wohnungslose und von Obdachlosigkeit/Wohnungslosigkeit bedrohte Personen, Aussiedler/innen, jüdische Emigranten, Flüchtlinge und Asylbewerber/innen
+- TOP 11: Betreutes Wohnen für psychisch behinderte, abhängigkeitskranke und geistig behinderte Bochumer Bürgerinnen und Bürger
+- TOP 12: Anonyme Hinweise von Dritten
+- TOP 13: Förderung neuer Wohnformen
+- TOP 14: Zusammenführung von Arbeitslosenhilfe und Sozialhilfe ab 01.01.2005
+- TOP 15: Beschlussvorschläge für den Rat
+- TOP 16: Anträge
+- TOP 17: Sozialberichterstattung/Gesundheitsberichterstattung, Auswertung der Einschulungsuntersuchungen 2002/2003
+- TOP 18: Sozialpsychiatrischer Kinder- und Jugenddienst, Entwicklung des Dienstes im Jahr 2002
+- TOP 19: Mitteilungen
+- TOP 20: Anfragen
+- TOP 21: Anfrage der FDP zur Sitzung des Sozial- und Gesundheitsausschusses am 23.06.04 hier: Stellungnahme der Betreuungsstelle
+- TOP 22: Anonme Hinweise von Dritten
+- TOP 23: Einleitung des Agendaprozesses für Seniorinnen und Senioren hier: Barrierefreiheit öffentlicher und privater (Neu-) Bauten
+- TOP 24: Beteiligungsverfahren Griesenbruch
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: keine Tagesordnungspunkte
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 8: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 9: Beschlussvorschläge für den Rat
+- TOP 10: Anträge
+- TOP 11: Mitteilungen
+- TOP 12: Anfragen
