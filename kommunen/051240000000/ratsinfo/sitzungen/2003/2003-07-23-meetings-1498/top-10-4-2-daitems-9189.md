@@ -1,0 +1,8 @@
+# TOP 10.4.2: Stellungnahme der Bezirksregierung zum Bürgerbegehren zurückweisen!
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Hauptausschusses (2003-07-23)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/9189
+- Ergebnis: vertagen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/4668
