@@ -1,13 +1,10 @@
 # Bekanntmachung der Neufassung des Abgeordnetengesetzes
-Vom 2. Mai 1994
-Aufgrund des Artikels 3 des Gesetzes zur Änderung des Sächsischen Ministergesetzes und des Abgeordnetengesetzes vom 9. März 1994 (SächsGVBl. S. 466) wird nachstehend der Wortlaut des Gesetzes über die Rechtsverhältnisse der Mitglieder des Sächsischen Landtages (Abgeordnetengesetz) in der vom 1. April 1994 an geltenden Fassung bekanntgemacht. Die Neufassung berücksichtigt:
-1. das Gesetz über die Rechtsverhältnisse der Mitglieder des Sächsischen Landtages (Abgeordnetengesetz) vom 26. Februar 1991 (SächsGVBl. S. 44),
-2. das Erste Gesetz zur Änderung des Gesetzes über die Rechtsverhältnisse der Mitglieder des Sächsischen Landtages vom 14. November 1991 (SächsGVBl. S. 380),
-3. das Zweite Gesetz zur Änderung des Gesetzes über die Rechtsverhältnisse der Mitglieder des Sächsischen Landtages – Abgeordnetengesetz – vom 8. Januar 1992 (SächsGVBl. S. 1),
-4. das Dritte Gesetz zur Änderung des Gesetzes über die Rechtsverhältnisse der Mitglieder des Sächsischen Landtages – Abgeordnetengesetz – vom 24. Juni 1992 (SächsGVBl. S. 268),
-5. das Vierte Gesetz zur Änderung des Gesetzes über die Rechtsverhältnisse der Mitglieder des Sächsischen Landtages (Abgeordnetengesetz) vom 13. Mai 1993 (SächsGVBl. S. 461),
-6. das Gesetz über die Wahlen zum Sächsischen Landtag vom 5. August 1993 (SächsGVBl. S. 723),
-7. das Fünfte Gesetz zur Änderung des Gesetzes über die Rechtsverhältnisse der Mitglieder des Sächsischen Landtages (Abgeordnetengesetz) vom 12. Oktober 1993 (SächsGVBl. S. 918) und
-8. den Artikel 2 des eingangs genannten Gesetzes.
-Dresden, den 2. Mai 1994
+Vom 4. Juli 2000
+Aufgrund des Artikels 2 des Neunten Gesetzes zur Änderung des Gesetzes über die Rechtsverhältnisse der Mitglieder des Sächsischen Landtages – Abgeordnetengesetz – vom 4. Mai 2000 (SächsGVBl. S. 215) wird nachstehend der Wortlaut des Abgeordnetengesetzes in der seit 27. Mai 2000 geltenden Fassung bekannt gemacht. Die Neufassung berücksichtigt:
+1. die Fassung der Bekanntmachung des Gesetzes vom 2. Mai 1994 (SächsGVBl. S. 954)
+2. das teils mit Wirkung vom 12. September 1994, teils mit Wirkung vom 1. Januar 1995 und teils am 28. Januar 1995 in Kraft getretene Gesetz vom 12. Januar 1995 (SächsGVBl. S. 2),
+3. das teils mit Wirkung vom 12. September 1994 und teils mit Wirkung vom 1. Januar 1995 in Kraft getretene Gesetz vom 18. April 1995 (SächsGVBl. S. 141),
+4. das teils mit Wirkung vom 12. September 1994 und teils am 1. Januar 1998 in Kraft getretene Gesetz vom 12. Dezember 1997 (SächsGVBl. S. 677),
+5. das teils mit Wirkung vom 1. Januar 2000 und teils am 27. Mai 2000 in Kraft getretene eingangs genannte Gesetz.
+Dresden, den 4. Juli 2000
 Der Staatsminister der Justiz Steffen Heitmann
