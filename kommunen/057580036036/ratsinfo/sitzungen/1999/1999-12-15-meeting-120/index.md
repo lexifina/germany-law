@@ -1,0 +1,66 @@
+# Rat der Stadt Vlotho
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 1999-12-15T16:00:00+01:00
+- Ende: 1999-12-15T20:50:00+01:00
+- Ort: Haus des Gastes, Bäderstr. 23, 32602 Vlotho, Saal
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZccJqsp8_rk__LRFPBx2YMY
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/120
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX-yUrn0wBMEQYcNia_7r-G-jgiF4KR3ViXGQPdXSIXX/Oeffentliche_Niederschrift_Rat_15.12.1999.pdf
+
+## Tagesordnung
+
+- TOP 1.: Niederschrift über die Sitzung vom - nichtöffentlicher Teil -
+- TOP 2.: Bestimmung eines Mitgliedes zur Mitunterzeichnung der heutigen Sitzungsniederschrift
+- TOP 3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 5.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 6.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 7.: Angelegenheiten des Kurzweckverbandes (Berichte und Beschlussfassungen)
+- TOP 8.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 8.1.: V/154 Verkehrsberuhigung im Bereich der Straße "Zum Mergelbruch"
+- TOP 8.2.: V/153 Beibehaltung der Sperrung der Aubignystraße für den Durchgangsverkehr
+- TOP 8.3.: Sperrung der Aubigny-Straße nach dem Ausbau - Einstimmig, 0 Enthaltung(en)
+- TOP 8.4.: Lösungsänderung des derzeitigen Zustandes "Verkehrsaufkommen Galgenkamp" - Einstimmig, 0 Enthaltung(en)
+- TOP 8.5.: Öffentliche Parkplätze an der Herforder Straße 67 - 73 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.6.: V/152 Errichtung einer Beach-Volleyballanlage im Waldfreibad Valdorf
+- TOP 8.7.: Bewilligung von außerplanmäßigen Mitteln zur Anschaffung zeitgemäßer Rechnersysteme für die Realschule Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 8.8.: Förderung der Jugendarbeit in Vlotho - 33 Ja-Stimme(n), 2 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 8.9.: Schaffung von Hortplätzen in der Kindertagesstätte Vlohzirkus - Einstimmig, 10 Enthaltung(en)
+- TOP 9.: Beschluss über die Gültigkeit der Gemeinderats- und Bürgermeisterwahl vom 12. September 1999
+- TOP 10.: Neufassung der Hauptsatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Neufassung der Hauptsatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Neufassung der Geschäftsordnung - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Neufassung der Geschäftsordnung - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Höhe der Zuwendungen an die Fraktionen für sachliche und personelle Aufwendungen der Geschäftsführung; Bereitstellung von Fraktionsgeschäftszimmern; Zahlung von Sitzungsgeldern für Fraktionssitzungen - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Aufwandsentschädigung für die Sozialbetreuerinnen und Sozialbetreuer - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: VI/056 REGIONALE Heilgarten 2000 GmbH Weiteres Verfahren der Projekte der Gesellschaft, insbesondere: Poetische Landschaft/ Brückenschlag Reisegarten
+- TOP 17.: REGIONALE-Maßnahme "Amtshausberg Vlotho" - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Neuerrichtung eines Bewirtungspavillons und einer Toilettenanlage auf dem Ge-lände des Burgrestaurants, Burgstraße 41 - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Neuorganisation der städtischen Betriebe und Einrichtungen - Einstimmig, 0 Enthaltung(en)
+- TOP 20.: V/836 Jahresabschluss 1998 der Stadtwerke Vlotho
+- TOP 21.: Wirtschaftsplan der Stadtwerke Vlotho für das Geschäftsjahr 2000 - 18 Ja-Stimme(n), 17 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 22.: Änderung der allgemeinen Erdgastarife und der Erdgassonderpreise zum 01. Januar 2000 - 33 Ja-Stimme(n), 2 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 23.: Jahresabschluß 1998 des Abwasserwerkes der Stadt Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 24.: Abwasserbeseitigungsgebühren - Gebührenbedarfsberechnung - 33 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 25.: Wirtschaftsplan des Abwasserwerkes der Stadt Vlotho für das Geschäftsjahr 2000 - 17 Ja-Stimme(n), 16 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 26.: Wirtschaftlichkeitsberechnung für Übergangswohnheimehier: Gebührenbedarfsberechnungen 2000 - Einstimmig, 0 Enthaltung(en)
+- TOP 27.: Friedhofsgebührenhier: Gebührenbedarfsberechnung 2000 - Einstimmig, 0 Enthaltung(en)
+- TOP 28.: Gebührenbedarfsberechnung Straßenreinigung 2000 - 21 Ja-Stimme(n), 12 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 29.: Gebührenbedarfsberechnung Abfallentsorgung 2000 - 21 Ja-Stimme(n), 13 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 30.: Beitrags- und Gebührensatzungsänderung hier: Artikelsatzung - 19 Ja-Stimme(n), 15 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 31.: Neufassung der Hundesteuersatzung - Abgesetzt
+- TOP 32.: Fortsetzung des Bodenordnungsverfahrens zur Renaturierung des Forellenbaches (Güstenbach) - Einstimmig, 0 Enthaltung(en)
+- TOP 33.: Einziehung des "Kirchweges" im Bereich "Alter Schulweg" im Ortsteil Exter - Einstimmig, 0 Enthaltung(en)
+- TOP 34.: Über- und außerplanmäßige Haushaltsausgaben im Haushaltsjahr 1999 - Zur Kenntnis genommen
+- TOP 35.: Anträge gemäß § 3 der GeschO
+- TOP 35.1.: Schaffung der Möglichkeit eines gesicherten Rad- Fußweges unter der Autobahnbrücke A2 im Zuge der Bonneberger Straße - Einstimmig, 0 Enthaltung(en)
+- TOP 35.2.: Pflegemaßnahmen an Obstbäumen - Einstimmig, 0 Enthaltung(en)
+- TOP 35.3.: Fortführung der Baumaßnahme auf dem Friedhof an der Buhnstraße - Einstimmig, 0 Enthaltung(en)
+- TOP 35.4.: Bepflanzung der Pflanzbuchten im Straßenbereich der Mühlenhof-Siedlung - Einstimmig, 0 Enthaltung(en)
+- TOP 36.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37.: Anfragen nach § 18 der Geschäftsordnung und Mitteilungen
+- TOP 39.: Angelegenheiten des Kurzweckverbandes (Berichte und Beschlussfassungen)
