@@ -1,0 +1,99 @@
+# 17. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2003-06-19T17:30:00+02:00
+- Ende: 2003-06-19T21:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=404
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=404
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Sprinkleranlage Reichstagswiese - beantwortet
+- TOP 3.2: Mündliche Anfrage DS 0858/II vom 13.05.03 - beantwortet
+- TOP 3.3: Aufhebung der Lernmittelfreiheit - beantwortet
+- TOP 3.4: Mittel der Deutschen Klasenlotterie Berlin in Grenz- und Härtefällen - Sparen um jeden Preis? - beantwortet
+- TOP 3.5: "Berliner Blockade" bei den Bundesliegenschaften - beantwortet
+- TOP 3.6: Einführung der Parkraumbewirtschaftung Müllerstraße alt: DS XVI/161 (Wedding) / neu: DS 0720/II - beantwortet
+- TOP 3.7: Kinderzentrum Möwensee - beantwortet
+- TOP 3.8: Informationsblatt zu Drogenkonsumräumen (3) - schriftlich beantwortet
+- TOP 3.9: Sachstand zur Beantwortung Kleine Anfrage 122/II - schriftlich beantwortet
+- TOP 3.10: Sporthalle Wiesenstraße - in der BVV zurückgezogen
+- TOP 3.11: Parkplatz am Volkspark Rehberge - schriftlich beantwortet
+- TOP 3.12: Weddinger Seniorenheime - schriftlich beantwortet
+- TOP 3.13: Flutopferspende - schriftlich beantwortet
+- TOP 3.14: Kontamination am Südwall - oder was spricht gegen eine Abtragung? - schriftlich beantwortet
+- TOP 3.15: Tivoli - schriftlich beantwortet
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Doppelbelastung des Bezirksbürgermeisters - beantwortet
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Keine Linden Unter den Linden?
+- TOP 5.2: Die Gewerbetreibenden in der Wilhelmstraße brauchen die Unterstützung des Bezirksamtes
+- TOP 5.3: Regierender in Partylaune?
+- TOP 5.4: Bezirkliches Kita- und Schulsanierungsprogramm
+- TOP 5.5: Gremien im Bereich der lokalen Ökonomie
+- TOP 5.6: Beantwortung von Anfragen
+- TOP 5.7: Müllentsorgung bei Großveranstaltungen
+- TOP 5.8: Schloßfreiheit
+- TOP 5.9: Schwarze Löcher im Bezirksamt Mitte?
+- TOP 5.10: Wann kommt das Bezirksamt in die Kirchstraße?
+- TOP 5.11: Aufhebung der Lernmittelfreiheit
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 9 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Änderung der Sanierungsziele für das Grundstück Koppenplatz 11/ Linienstraße 163-165 im förmlich festgesetzten Sanierungsgebiet Spandauer Vorstadt im Bezirk Mitte von Berlin
+- TOP 8.3: Genehmigung der im Haushaltsjahr 2002 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen
+- TOP 8.4: Bebauungsplanentwurf II-141a vom 15. November 2002 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans II-141a
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Hinweisschild für die Gedenkstätte "Berliner Mauer" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2: Fortbildung der HausmeisterInnen in energietechnischen Fragen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.3: Präventionspreis
+- TOP 9.4: Privates Geld für öffentliche Gebäude - Energiesparcontracting für Mittes Liegenschaften vorbereiten
+- TOP 9.5: Dezentrales Konzept zur Betreuung Wohnungsloser
+- TOP 9.6: Einrichtung eines Fußgängerüberweges (Zebrastreifen)
+- TOP 9.7: Bebauungsplanverfahren 1-2 (Spittelmarkt)
+- TOP 9.8: Vergütung für ärztliche Leistungen bei Sozialhilfeempfängern ändern
+- TOP 9.9: Biotonne erhalten
+- TOP 9.10: Behindertengerechte Aufgänge / Aufzüge am Lehrter Bahnhof
+- TOP 9.11: Verteilungsschlüssel für Asylbewerber oder Kriegsflüchtlinge
+- TOP 9.12: Unterbringung von Asylbewerbern in Wohnungen
+- TOP 9.13: Keine Bebauung des Diplomatenparks!
+- TOP 9.14: Stiftung Bezirksbürgermeisterin Erika-Heß
+- TOP 9.15: Ausschuss Gesundheit und Soziales und Zuwendungsbescheide für Freie Träger
+- TOP 9.16: Transparenz der bezirklichen Verwaltung - Geschäftsverteilungspläne für die Abteilungen des Bezirksamtes vorlegen
+- TOP 9.17: Bundesprogramm Lokales Kapital für Soziale Zwecke (LOS)
+- TOP 9.18: Bildung eines Beirates für den Großen Tiergarten alt: Drucksache Nr. I/19
+- TOP 9.19: Erscheinungsbild des S-Bahn-Viadukts verbessern alt: Drucksache Nr. I/200
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Fusionierung 10. und 12. Grundschule Wedding - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Schulwegsicherung - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Wahl eines ordentlichen Bürgerdeputierten
+- TOP 10.4: Wahl von stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Einsparungen bei Heiz- und Betriebskosten bei SozialhilfeempfängerInnen
+- TOP 11.2: Öffentliches Geld für öffentliche Nutzung - keine bezirklichen Mittel für Umbaumaßnahmen zur Sommerbewirtschaftung von gastronomischen Einrichtungen am Schiffbauerdamm
+- TOP 11.3: Konzept Patenschaft zur Mittelstreifenbegrünung
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Aufhebung von überholten Bezirksamtsbeschlüssen
+- TOP 12.2: Einrichtung von Busparkplätzen oder Halteplätzen in der Wilhelmstraße zwischen Voss- und Leipziger Straße
+- TOP 12.3: Arminiusmarkthalle
+- TOP 12.4: Grün geht vor - Erweiterung des Mauerparks unterstützen
+- TOP 12.5: Leitlinien zur Übertragung der bezirklichen Seniorenfreizeitstätten
+- TOP 12.6: Energiesparende Investitionen
+- TOP 12.7: Autos statt Bäume? Umbau des Boulevards Unter den Linden natur- und stadtverträglich gestalten
+- TOP 12.8: Anders Parken in der Kirchstraße
+- TOP 12.9: Zebrastreifen in der Kirchstraße
+- TOP 12.10: BürgerInnen wollen aktiv werden
+- TOP 12.11: Bildung vermeidet Armut - überwiesen
+- TOP 12.12: § 46 (2) Geschäftsordnung der Bezirksverordnetenversammlung Mitte - Kleine Anfragen
