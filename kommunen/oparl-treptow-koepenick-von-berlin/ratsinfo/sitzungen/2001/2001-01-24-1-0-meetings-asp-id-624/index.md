@@ -1,0 +1,70 @@
+# 5. (öfftl.) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2001-01-24T16:00:00+01:00
+- Ende: 2001-01-24T21:50:00+01:00
+- Ort: Vollmerstr. 2, 12489 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=624
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=624
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=30988
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 1.1: Ladenöffnungszeiten - vertagt
+- TOP 2: Informationen des Vorstehers - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.1: Verwendung von zusätzlichen Mitteln für 2001 - Zuschüsse für besondere soziale Projekte - - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Wahl der bezirklichen Behindertenbeauftragten - gewählt
+- TOP 8: Wahl von Bürgerdeputierten - gewählt
+- TOP 9: Wahl von Bürgerdeputierten - gewählt
+- TOP 10: Wahl von Bürgerdeputierten - gewählt
+- TOP 11: Berufung von beratenden Mitgliedern und stellvertretenden beratenden Mitgliedern des JHA - vertagt
+- TOP 12: Sondermittel für Jugendfeuerwehr Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Wahl zusätzlicher Bürgerdeputierter - in der BVV zurückgezogen
+- TOP 14: Sitzungsterminplan 2001 der BVV Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15: Bildung und Einrichtung der Stabsstelle "Zentrale Revision zur Korruptionsbekämpfung" für die Bezirke Treptow und Köpenick und den durch Zusammenlegung der Bezirke entstehenden neuen Bezirk Treptow-Köpenick von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Sondermittel für Yachtclub Wendenschloß e.V. - überwiesen
+- TOP 17: Sondermittel für allgemeine jugendberatung e.V. - überwiesen
+- TOP 18: Sondermittel für Regionalgruppe Berlin der IGSL e.V. - überwiesen
+- TOP 19: Sondermittel für Treptower Schreibwerkstatt - überwiesen
+- TOP 20: Sondermittel für GFAJ e.V., Fachinformationsstelle/Facharchiv Extremismus und Jugendmedien - überwiesen
+- TOP 21: Sondermittel für Adlershofer Tennis-Club e.V. - überwiesen
+- TOP 22: Sondermittel für Berliner Parkeisenbahn gGmbH - überwiesen
+- TOP 23: Kleingartenbeirat - mit Änderungen in der BVV beschlossen
+- TOP 24: Kein Ausbau der Straßenbahn in der Dörpfeldstraße - überwiesen
+- TOP 25: Buslinie 167 - überwiesen
+- TOP 26: Buchbestand Bibliotheken <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Elke Werner)</span> - überwiesen
+- TOP 27: Behindertengerechter Umbau des Bahnhofes Köpenick - überwiesen
+- TOP 28: Aktion Notausgang - erledigt
+- TOP 29: Verkauf unverzollter Zigaretten - ohne Änderungen in der BVV beschlossen
+- TOP 30: Treptow-Köpenicks Entwicklung zum Solarbezirk <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Elke Werner)</span> - überwiesen
+- TOP 31: Dauerhafte Finanzierung - überwiesen
+- TOP 32: Entwicklung Sportstätten - ohne Änderungen in der BVV beschlossen
+- TOP 33: Restaurierung des BVV-Saales - überwiesen
+- TOP 34: "Aktion Noteingang" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Elke Werner)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 35: Agenda 21 - überwiesen
+- TOP 36: Entwicklungskonzept Kultur - ohne Änderungen in der BVV beschlossen
+- TOP 37: Schulstation an der Sonderschule für Lernbehinderte - überwiesen
+- TOP 38: Nein zu Fremdenfeindlichkeit und Gewalt <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Elke Werner Verfasser 2: Brigitte Gelbke)</span> - überwiesen
+- TOP 39: Konzept für Entwicklung der Bibliotheken - ohne Änderungen in der BVV beschlossen
+- TOP 40: Schulentwicklungsplan - mit Änderungen in der BVV beschlossen
+- TOP 41: Sicherheit in der Lindenstraße (Ortsteil Köpenick) - ohne Änderungen in der BVV beschlossen
+- TOP 42: Straßenbenennung im WISTA-Gelände - überwiesen
+- TOP 43: Saubere Altstadt Köpenick - überwiesen
+- TOP 44: Anträge auf Planreife - überwiesen
+- TOP 44.1: Straßenbenennung in der Gartenstadt Falkenberg - ohne Änderungen in der BVV beschlossen
+- TOP 44.2: Sondermittel für Eisenbahnsportverein Lok Berlin-Schöneweide e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 45: Agendaprozess - in der BVV zurückgezogen
+- TOP 46: Lagerung von Baustoffabfällen in der Kiefholzstr. 389 in 12435 Berlin - überwiesen
+- TOP 47: Gedenktafel am ehemaligen NS-Zwangsarbeiterlager NSW und Perspektive des denkmalgeschützten Objektes nach einem (auch teilweisen) Verkauf - beantwortet
+- TOP 48: Schulstation Tandem e.V. - beantwortet
+- TOP 49: Zustand des Treptower Parks - beantwortet
+- TOP 50: Personalüberhang im Bezirk Treptow-Köpenick - beantwortet
+- TOP 51: Baustofftransport auf dem Wasser? - vertagt
