@@ -1,0 +1,56 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2004-05-14T16:00:00+02:00
+- Ende: 2004-05-14T20:54:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/130
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/130
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: apl Ausgabe+ VE OGS)
+- TOP 2: Aufhebung der Sperrung Grupellostraße
+- TOP 3: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 4: Nutzung Case-Gelände, hier: Beach-Soccer
+- TOP 5: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 6: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 7: 6. Satzung z. Änd. d. Stellplatzablöses.
+- TOP 8: Machbarkeitsstudie U81
+- TOP 9: Einwohnerfragestunde
+- TOP 10: Wahl eines/einer Beigeordneten (HA280404-01449.doc)
+- TOP 11: Anschlussstelle Floßhafenstr./Willy-Brandt-Ring
+- TOP 12: Floßhafenstr./ Willy-Brandt-Ring, Kanalbau
+- TOP 13: Auswertung Landeswettbewerb
+- TOP 14: Maßnahmen Bahnhofsumfeld
+- TOP 15: Lärmschutz Jülicher Landstraße
+- TOP 16: Ausbau Osterather Straße
+- TOP 17: Erweiterung Flughafen MG
+- TOP 18: Genehmigung der Tagesordnung
+- TOP 19: Umlegungsverfahrens Bebauungspläne Nr. 345 und 434
+- TOP 20: Erschl.Am Sportplatz/Reuschenberger Straße, B-P374
+- TOP 21: Erschließung Volmerswerther Str., Straßenbau
+- TOP 22: B-Plan V417, Teilaufhebung
+- TOP 23: Erschließung Volmerswerther Str., Kanalbau
+- TOP 24: Wohnwege am Nordparkweg, Straßenbau
+- TOP 25: Düsseldorf Art:card (KUL270404-01445.doc)
+- TOP 26: Wohnwege Nordparkweg, Kanalbau
+- TOP 27: Verlegung Wirtschaftsweg Jakob-Weitz-Str.
+- TOP 28: Umwandlungsverfahren an Neusser Grundschulen
+- TOP 29: Umbau Bushaltestellen Berghäuschensweg
+- TOP 30: Erneuerung der Gleise Oberstraße
+- TOP 31: FNPänderung 103 - Furth-Süd Aufstellung
+- TOP 32: Entsendung Mitgliede DKN-Sitzung
+- TOP 33: Erschl. Am Sportplatz/Reuschenberger Str., Kanal
+- TOP 34: Erschließung Firma BRATA
+- TOP 35: Veränderungssperre 29, Satzungsbeschluss
+- TOP 36: B-Plan 294/1, Aufstellungsbeschluss
+- TOP 37: Erweiterung der St. Peter-Schule
+- TOP 38: Festst. d. Beend. d. Beamtenverh. a. Zeit
+- TOP 39: Handwerker-Parkausweis (RAT140504-01579.doc)
+- TOP 40: Umsetzung Ratsbeschluss Vorstandsbezüge
+- TOP 41: Offene Ganztagsschule - Elternbeiträge
+- TOP 42: Einwohnerfragestunde
