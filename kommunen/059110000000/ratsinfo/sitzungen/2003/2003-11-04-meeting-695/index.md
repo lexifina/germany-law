@@ -1,0 +1,53 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2003-11-04T15:00:00+01:00
+- Ende: 2003-11-04T16:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWRYe7r8TJscT7ScNkZrH2Q
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/695
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTni1m2a1nzeFD-lyVjcfnEGcJRb5oeV302Ie0AeBcKT/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_04.11.2003.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: Vergabe von Zuschüssen an Selbsthilfegruppen und Initiativen
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Insolvenz privater Haushalte
+- TOP 7: keine Tagesordnungspunkte
+- TOP 8: Sprachkurse für Migranten aus den ehemaligen GUS-Staaten
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 11: Sachstandsbericht "Obdachlose/Wohnungslose und von Obdachlosigkeit/ Wohnungslosigkeit bedrohte Personen, AussiedlerInnen, Flüchtlinge und AsylbewerberInnen sowie Situation der Wohnunterkünfte für diese Personengruppen"
+- TOP 12: Beschlussvorschläge für den Rat
+- TOP 13: JobKick - gemeinsame Beratungsstelle des Sozialamtes der Stadt Bochum und des Arbeitsamtes Bochum sowie Umsetzung der übrigen Programme -
+- TOP 14: Finanzielle Auswirkungen der Beratungs- und Vermittlungsaktivitäten im Rahmen der Hilfe zur Arbeit beim Sozialamt
+- TOP 15: Anträge
+- TOP 16: Krankenhilfe in der Sozialhilfe
+- TOP 17: Mitteilungen
+- TOP 18: Entwicklung der Fallzahlen in der Grundsicherung
+- TOP 19: Anfragen
+- TOP 20: Jahresbericht 2002 Case Management/ nachgehende Sozialarbeit
+- TOP 21: Jahresbericht 2002 Krisenhilfe e. V.
+- TOP 22: Jahresstatistik 2002 des Sozialpsychiatrischen Dienstes der Stadt Bochum
+- TOP 23: Betreutes Wohnen für psychisch behinderte, abhängigkeitskranke und geistig behinderte Menschen
+- TOP 24: Umfrage zur Ausbildungssituation
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: keine Tagesordnungspunkte
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 8: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 9: Beschlussvorschläge für den Rat
+- TOP 10: Anträge
+- TOP 11: Mitteilungen
+- TOP 12: Anfragen
