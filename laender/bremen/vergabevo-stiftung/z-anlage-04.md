@@ -1,22 +1,11 @@
-# Anlage 4 - Ermittlung der Messzahl bei der Auswahl für ein Zweitstudium
+# Anlage 4 - Zuordnung der Kreise und kreisfreien Städte zu den Studienorten
 Anlage 4
-(zu § 23 Abs. 2 Satz 2)
-Ermittlung der Messzahl bei der Auswahl für ein Zweitstudium
-(1) Die Messzahl ist die Summe der Punktzahlen, die für das Ergebnis der Abschlussprüfung des Erststudiums und für den Grad der Bedeutung der Gründe für das Zweitstudium vergeben werden.
-(2) 1Für das Ergebnis der Abschlussprüfung des Erststudiums werden folgende Punktzahlen vergeben:
-1. Noten „ausgezeichnet“ und „sehr gut“ | - | 4 Punkte;
-2. Noten „gut“ und „voll befriedigend“ | - | 3 Punkte;
-3. Note „befriedigend“ | - | 2 Punkte;
-4. Note „ausreichend“ | - | 1 Punkt.
-2Ist die Note der Abschlussprüfung des Erststudiums nicht nachgewiesen, wird das Ergebnis der Abschlussprüfung mit 1 Punkt bewertet.
-(3) 1Nach dem Grad der Bedeutung der Gründe für das Zweitstudium werden folgende Punktzahlen vergeben:
-1. | „zwingende berufliche Gründe“ | - 9 Punkte;
-zwingende berufliche Gründe liegen vor, wenn ein Beruf angestrebt wird, der nur aufgrund zweier abgeschlossener Studiengänge ausgeübt werden kann;
-2. | „wissenschaftliche Gründe“ | - 7 bis 11 Punkte;
-wissenschaftliche Gründe liegen vor, wenn im Hinblick auf eine spätere Tätigkeit in Wissenschaft und Forschung auf der Grundlage der bisherigen wissenschaftlichen und praktischen Tätigkeit eine weitere wissenschaftliche Qualifikation in einem anderen Studiengang angestrebt wird;
-3. | „besondere berufliche Gründe“ | - 7 Punkte;
-besondere berufliche Gründe liegen vor, wenn die berufliche Situation dadurch erheblich verbessert wird, dass der Abschluss des Zweitstudiums das Erststudium sinnvoll ergänzt;
-4. | „sonstige berufliche Gründe“ | - 4 Punkte;
-sonstige berufliche Gründe liegen vor, wenn das Zweitstudium aufgrund der beruflichen Situation aus sonstigen Gründen zu befürworten ist;
-5. | „keiner der vorgenannten Gründe“ | - 1 Punkt.
-2Liegen wissenschaftliche Gründe vor, ist die Punktzahl innerhalb des Rahmens von 7 bis 11 Punkten davon abhängig, welches Gewicht die Gründe haben, welche Leistungen bisher erbracht worden sind und in welchem Maß die Gründe von allgemeinem Interesse sind. 3Wird das Zweitstudium nach einer Familienphase zum Zwecke der Wiedereingliederung oder des Neueinstiegs in das Berufsleben angestrebt, kann dieser Umstand unabhängig von der Bewertung des Vorhabens und seiner Zuordnung zu einer der vorgenannten Fallgruppen durch Gewährung eines Zuschlags von bis zu 2 Punkten bei der Messzahlbildung berücksichtigt werden.
+(zu § 21 Abs. 1 Satz 3)
+Zuordnung der Kreise und kreisfreien Städte zu den Studienorten
+(1) Ein Studienort kann eine Hochschule, ein Teil einer Hochschule oder ein gemeinsames Studienangebot mehrer Hochschulen sein.
+(2) Einem Studienort eines Landes zugeordnet sind der Kreis oder die kreisfreie Stadt des Studienorts sowie die hieran angrenzenden Kreise oder kreisfreien Städte des Landes. Sofern sich in einem Kreis oder in einer kreisfreien Stadt oder in den hieran angrenzenden Kreisen oder kreisfreien Städten kein Studienort des Landes befindet, ist dieser Kreis oder diese kreisfreie Stadt dem nächsten Studienort des Landes zugeordnet. Dies gilt entsprechend, wenn Studiengänge nur an bestimmten Studienorten des Landes angeboten werden. Kreise und kreisfreie Städte eines Landes sind auch dem Studienort eines anderen Landes zugeordnet, wenn sie an den Kreis oder die kreisfreie Stadt des Studienorts des anderen Landes angrenzen; dabei gelten Bremen und Bremerhaven als eine kreisfreie Stadt.
+(3) Örtliche und regionale Verwaltungseinheiten eines anderen Mitgliedstaates der Europäischen Union, die an ein Land der Bundesrepublik Deutschland angrenzen, können einem Studienort dieses Landes zugeordnet werden, wenn sie an den Kreis oder die kreisfreie Stadt dieses Studienorts angrenzen.
+(4) In der nachfolgenden Übersicht ist für jeden Kreis und jede kreisfreie Stadt die Entfernung zu den Studienorten des Landes als Länge der Luftlinie zwischen Kreisstadt und Studienort in Kilometern (km), jeweils auf 10 km gerundet – für Bayern in einer Stufenfolge von 1 bis 9 entsprechend der Entfernung -, angegeben.
+(5) Ist ein Studienort im Kreis oder in der kreisfreien Stadt oder in einem hieran angrenzenden Kreis oder einer hieran angrenzenden kreisfreien Stadt gelegen, ist als Entfernung 0 angegeben; dies gilt auch für außerhalb des Landes gelegene Studienorte.
+(6) Für Bayern ist der der Hauptwohnung nächstgelegene Studienort jeweils mit der Stufe 1 angegeben; die weitere Zuordnung ergibt sich aus der Stufenfolge.
+Einzelansicht Seitenanfang
