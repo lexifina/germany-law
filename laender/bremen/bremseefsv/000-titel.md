@@ -1,0 +1,1 @@
+# Verordnung über die Ausbildung und die Prüfung in den angegliederten Bildungsgängen (Fachschulen) für Nautik, Schiffsbetriebstechnik und Seefunk an den Hochschulen im Lande Bremen (BremSeeFSV) vom 24. Juli 1992
