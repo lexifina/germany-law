@@ -1,0 +1,58 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2005-02-01T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/593669
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/593669
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 3: Festlegung der endgültigen Tagesordnung
+- TOP 4: Genehmigung des Protokolls der letzten Sitzung
+- TOP 5: Anträge
+- TOP 5.1.: Umwidmung A-Fläche im Bereich Meglingerstraße
+- TOP 5.2.: Antrag Einwohnversammlung "Überplanung ehem. Bhf. Thalkirchen"
+- TOP 5.3.: Unterbindung Lkw-Schleichverkehr am Mittleren Ring
+- TOP 5.4.: Qualitätssicherung MVG
+- TOP 5.5.: Streetwork im Stadtbezirk
+- TOP 6: Budget
+- TOP 7: Stellungnahmen
+- TOP 7.1: Unterausschuss Baumschutz und Umwelt
+- TOP 7.1.1.: Baumschutzliste
+- TOP 7.1.2.: Umwelt
+- TOP 7.2: Unterausschuss für Verkehr
+- TOP 7.2.1.: Anliegerverkehr Beuerberger- / Bichler Str.
+- TOP 7.2.2.: Kurzparkplatz vor der Kita Neunkirchner Straße
+- TOP 7.2.3.: Bushaltestellen in Fürstenried West
+- TOP 7.2.4.: Wege zur Isar
+- TOP 7.2.5.: Gefährdung von Fußgängern und Radfahrern durch Autos im Bereich Prinz-Ludwigs-Höhe
+- TOP 7.2.6.: Haltverbot vor ARAL-Tankstelle bei Ein-/Ausfahrt Boschetsrieder Straße
+- TOP 7.2.7.: 7. Zielstattstr. 6
+- TOP 7.3: Gaststätten
+- TOP 7.3.1.: Frühlingsfest Fürstenried
+- TOP 7.4: Entscheidungsfälle
+- TOP 7.5: Unterausschuss für Bau und Planung
+- TOP 7.5.1.: Reismühlenstr. 58
+- TOP 7.5.2.: Fritz-Baer-Str. 35
+- TOP 7.5.3.: Reismühlenstr. 23
+- TOP 7.5.4.: Geisenbrunner Str. 58
+- TOP 7.5.5.: Steiner Str. 15
+- TOP 7.5.6.: St.- Wendel-Str. o.Nr.
+- TOP 7.5.7.: Zielstattstr. 20
+- TOP 7.6: Zweckentfremdungen
+- TOP 7.6.1.: Kirchweg 3
+- TOP 7.6.2.: Makartstr. 1
+- TOP 7.7: Änderung der BA-Satzung beim Kauf von Grundstücken
+- TOP 7.8: Schließung der Mütter-/Väterberatungsstellen zugunsten vermehrter Haubesuche
+- TOP 7.9: Veranstaltung zur BUGA 2005
+- TOP 7.10: Erhöhung der Anzahl der Regsambeauftragten
+- TOP 7.11: Verlängerung der Gmunder Str. nach Westen
+- TOP 7.12: Instandsetzung Conwentzstr. und Straßenbrücke Wenzbach
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
