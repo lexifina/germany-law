@@ -1,0 +1,108 @@
+# 17. Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2003-05-14T17:00:00+02:00
+- Ende: 2003-05-14T22:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=341
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=341
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=15215
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Berufung eines beratenden Mitgliedes und Stellvertreters in den Jugendhilfeausschuss - gewählt
+- TOP 2.2: Erhalt der "Regionalen Beschäftigungsagentur Reinickendorf" - ohne Änderungen in der BVV beschlossen
+- TOP 2.3: Grafitti-Schmierereien am Medebacher Weg - in der BVV abgelehnt
+- TOP 2.4: Poloplatz - mit Änderungen in der BVV beschlossen
+- TOP 2.5: Bundesbau-Sonderprogramm "Verlässliche Ganztagsschule" - ohne Änderungen in der BVV beschlossen
+- TOP 2.6: Patientenfürsprecher - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Telekom-Computerkurse mit Kinderbetreuung für junge Mütter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Kosten für Wärmeversorgung und Stromversorgung der vom Bezirk bewirtschafteten Gebäude - überwiesen
+- TOP 5.3: Neukonzeption für den Maßregelvollzug - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: AIDS-Prävention in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Gesundheitskurse für Kinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Bessere Abfallentsorgung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Sozialticket erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Kennzeichnung des ehemaligen Mauerverlaufs auch in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Wochenmarkt im Märkischen Zentrum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Informationstafel am S-Bahnhof Frohnau - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.11: Erhalt der Schule für Ergotherapie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.12: Betriebskosten senken - überwiesen
+- TOP 5.13: Service in der Cité Foch verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Brutplätze für den "Vogel des Jahres 2003" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Geschwindigkeitsbegrenzung vor dem Haupteingang zur Jugendfarm Lübars in der Quickborner Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.16: Park & Ride-Möglichkeit am S-Bahnhof Heiligensee - überwiesen
+- TOP 5.17: Ampelphase Vierrutenberg / Zabel-Krüger-Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.18: Bezirkliche Einrichtung exemplarisch auf Solarenergie umstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.19: Anmeldungen für die Investitionsplanung 2003 bis 2007 - überwiesen
+- TOP 5.20: Aufstellung des Bebauungsplanes 12-9 - überwiesen
+- TOP 5.21: Verordnung über die Verlängerung der Veränderungssperre XX-291/41 - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Beschäftigungspolitik im Bezirk - vertagt
+- TOP 7: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 7.1: Kostenlose Tests auf angeborene Hörschädigungen - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Kurse für Geschwisterkinder zum Umgang mit Babys - in der BVV abgelehnt
+- TOP 7.3: Standortveränderungen der Bushaltestellen Linie 133 auf der Berliner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Einrichtung einer Bus-Verbindung zwischen Pankow und Wittenau - erledigt
+- TOP 7.5: Vollständige Darstellung der Oberschulen in Reinickendorf - mit Änderungen in der BVV beschlossen
+- TOP 7.6: Umgehende Realisierung der Zertifizierung der Berliner Krankenhäuser - ohne Änderungen in der BVV beschlossen
+- TOP 7.7: BVG-Unterstellhäuschen in Wittenau - erledigt
+- TOP 7.8: Ausweitung der BVG-B-Zone nach Brandenburg - ohne Änderungen in der BVV beschlossen
+- TOP 7.9: Erhalt und Ausbau P & R am S-Bahnhof Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 7.10: Frühzeitige Beteiligung der Bezirksverordnetenversammlung bei Haushaltsplanaufstellung sicherstellen - in der BVV abgelehnt
+- TOP 7.11: Bessere Organisation bei der Sprachstandsfeststellung - ohne Änderungen in der BVV beschlossen
+- TOP 7.12: Projekt "Lernen aus der Geschichte" - ohne Änderungen in der BVV beschlossen
+- TOP 7.13: Kindertagesstättensanierungsprogramm analog zum Schul- und Sportanlagensanierungsprogramm - in der BVV abgelehnt
+- TOP 7.14: Erhalt des Standortes Wiesengrund für die Kinder- und Jugendpsychiatrie - ohne Änderungen in der BVV beschlossen
+- TOP 7.15: Pünktlichkeit der Buslinie 120 - erledigt
+- TOP 7.16: Französische Sprache "unters Volk" bringen - ohne Änderungen in der BVV beschlossen
+- TOP 7.17: Vermeidung von Unterrichtsausfall in den Grundschulen während der Durchführung der Sprachstandserhebung - erledigt
+- TOP 7.18: Sicherung der stationären psychiatrischen Versorgungsstruktur in Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 7.19: Öffentliche Ausschreibung der Jugendeinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 7.20: Straßenbeleuchtung an den Bushaltestellen - ohne Änderungen in der BVV beschlossen
+- TOP 7.21: "Babycare" - Frühgeburtenverhinderung möglichst flächendeckend - ohne Änderungen in der BVV beschlossen
+- TOP 7.22: Impfungen Jugendlicher Reisender mit Meningokokken-Impfstoff für Reisen in europäische Länder - in der BVV abgelehnt
+- TOP 7.23: Gewährung von Hilfen zur Erziehung - ohne Änderungen in der BVV beschlossen
+- TOP 7.24: Keine Absenkung des Betreuungsniveaus in den Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 7.25: Sicherung von Qualitätsstandards der Kindertagesstätten - mit Änderungen in der BVV beschlossen
+- TOP 8: Anträge - (offen)
+- TOP 8.1: Ja zu Kitas in kirchlicher Trägerschaft - überwiesen
+- TOP 8.2: Bericht zur Kooperation zwischen dem Ressort Jugend und der Polizei - überwiesen
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: Zusätzliche Hortplätze in der Reneé-Sintenis-Grundschule - überwiesen
+- TOP 9.2: Maßnahmen zur Förderung von Kindern nicht deutscher Herkunft in Kitas - überwiesen
+- TOP 9.3: Nutzung erneuerbarer Energien voranbringen - überwiesen
+- TOP 9.4: Schlüsselverträge für Sportvereine - überwiesen
+- TOP 9.5: Energiesparen auch im Rathaus - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Bestandssicherung einer Mauerseglerkolonie - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Aufnahme des Rundweges und der Zuwegungen zum Rundweg des Poloplatzes in das öffentliche Wege- und Straßenregister - überwiesen
+- TOP 9.8: Vorbereitende Pflegemaßnahmen im Tegeler Fließ vor der Ausweisung als FFH-Fläche - überwiesen
+- TOP 9.9: Maßnahmen zum Schutz vor BSE - überwiesen
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: Telearbeitsplätze - überwiesen
+- TOP 10.2: Förderung der Jugendkunstschule - überwiesen
+- TOP 10.3: Pläne zum Havelausbau stoppen - überwiesen
+- TOP 10.4: Einsatz der Expressbuslinie X 33 auch am Sonntag - überwiesen
+- TOP 10.5: Berücksichtigung sozialer Aspekte beim Abbau von Briefkästen - überwiesen
+- TOP 10.6: Keine Einschränkung des Angebots der Buslinie 222 - überwiesen
+- TOP 10.7: Aufstellung von Sammelbehältern für Altglas und sonstige Wertstoffe auch in Frohnau - überwiesen
+- TOP 10.8: Vorgeschriebene Rechtsabfahrt Robinienweg/B 96 - überwiesen
+- TOP 10.9: Schutzgitter vor der Kindertagesstätte in der Namslaustr. 45/47 - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Schützenswerte Tierarten in Reinickendorfs künftigen FFH-Gebieten - überwiesen
+- TOP 11: Benennung eines Mitgliedes der Bezirksverordnetenversammlung Reinickendorf als stellvertretendes Beiratsmitglied im bezirklichen Krankenhausbeirat der VIVANTES-Netzwerk für Gesundheit GmbH - gewählt
+- TOP 12: Wahl einer/eines Bezirksbehindertenbeauftragten - gewählt
+- TOP 13: Einrichtung einer Waldschule in Reinickendorf - überwiesen
+- TOP 14: Tourismuskonzept umwelt- und naturgerecht gestalten - in der BVV abgelehnt
+- TOP 15: Verkehrsberuhigung in der Namslaustraße - überwiesen
+- TOP 16: Kooperation zwischen der VHS und anderen Bildungsträgern - ohne Änderungen in der BVV beschlossen
+- TOP 17: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen
+- TOP 18: Müllvermeidung und Recycling statt Müllverbrennung - in der BVV abgelehnt
+- TOP 19: Hinweis auf Girls' Day am 08. Mai 2003 - mit Änderungen in der BVV beschlossen
