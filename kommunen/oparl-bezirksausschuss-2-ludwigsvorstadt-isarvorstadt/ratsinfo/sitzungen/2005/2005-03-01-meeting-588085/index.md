@@ -1,0 +1,76 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2005-03-01T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/588085
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/588085
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .2.1.: BA-Budget
+- TOP .1.: BA-eigene Veranstaltungen - Realisierung einer Seniorenveranstaltung (Restmittel 2004)
+- TOP .2.: BA-eigene Veranstaltungen, Zuschuss für eine Veranstaltung im Tröpferlbad (Restmittel 2004)
+- TOP .2.2.: Kultur
+- TOP .3.: Anhörungen
+- TOP .1.: Anhörungsverfahren zur Änderung der Volksschulorganisation in der LH München: Grundschule Gärtnerplatz /Klenzestr. 27
+- TOP .2.: Neue Form Fest junger Erwachsener
+- TOP .4.: Unterrichtungen (siehe Infos)
+- TOP .1.: Vergabe von Zuschüssen nur für Veranstalter von Kulturprogrammen in barrierefreien Räumen
+- TOP .2.: Stolpersteine
+- TOP .3.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .1.: Umstellung von Dampf- auf Heißwasserversorgung in der Isartalstraße; BVE Nr. 85 vom 18.11.2004
+- TOP .2.: Lärm- und Schadstoffmessung in der Herzog-Heinrich- und Kapuzinerstraße; BVE Nr. 81 vom 18.11.2004
+- TOP .3.1.: Bauvorhaben
+- TOP .1.: Buttermelcherstr. 4, DG-Aufstockung samt Einbau eines Liftes
+- TOP .2.: Goethestr. 11, Nutzungsänderung einer Bankfiliale in 3 Spielotheken - Vorbescheid
+- TOP .3.: Waltherstr. 17, DG-Ausbau und Errichtung e. Aufzugs
+- TOP .4.: Körnerstr. 3, Neubau eines Mehrfamilienhauses mit TG
+- TOP .5.: Ickstattstr. 16, Bestandsaufnahme Wohn- und Geschäftshaus / RGB (Tektur)
+- TOP .6.: Geyerstr. 20 , Anbau von Balkonen im Dachgeschoss
+- TOP .7.: Buttermelcherstr. 18, Nutzungsänderung im EG: Laden zu Imbiss, Pizza und China-Food Heimservice (Vertagung v. 25.01.2005)
+- TOP .8.: Schwanthalerstr. 42, Nutzungsänderungen, Brandschutzauflagen
+- TOP .9.: Schmellerstr. 23, Modernisierung eines Wohnhauses - Plenumsbeschluss
+- TOP .3.2.: Baumfällungen
+- TOP .1.: Lindwurmstr. 48, Fällung v. 1 kranken Ahorn
+- TOP .2.: Haydnstr. 2, Fällung 1 Gefahrenbaums
+- TOP .1.: Zufahrt zur Spielothek in der Poccistraße - Versetzung der Poller
+- TOP .2.: U-Bahnhof Sendlinger Tor - Umbau nach Abschluss der Bauarbeiten am Marienplatz
+- TOP .3.: Übermittlung der Standorte von schulischen Einrichtungen sowie Kindergärten/Horten an alle Mobilfunkbetreiber und Aufnahme dieser Einrichtungen in die Suchkreismeldungen - <div>nach Antrag</div>
+- TOP .4.: Bericht des Beauftragten (AK Attraktive Innenstadt)
+- TOP .1.: Probleme während des Oktoberfestes; BVE Nr. 79 vom 18.11.2005
+- TOP .3.1.: Sperrzeit-Angelegenheiten
+- TOP .3.2.: Freischankflächen
+- TOP .1.: "Woanders Club", Sonnenstr. 12
+- TOP .2.: EiscafÃ© Venezia, Karlsplatz 25; Betriebszeitverlängeung für die fFreischankfläche
+- TOP .3.: Gaststätte "Maxi", Bayerstr. 37, Bürgerbeschwerde wegen Rattenplage
+- TOP .3.3.: Warenstellagen
+- TOP .1.: Bayerst. 31/Schwanthalerstr. 45 (Taschen, Uhren, Koffer)
+- TOP .3.4.: Verkehr
+- TOP .1.: Kohlstraße, Errichtung einer Ladezone
+- TOP .2.: Verlängerung der Buslinie 152 bis Harras; BVE Nr. 82 vom 18.11.2005
+- TOP .3.: Lichtzeichenanlagenbauprogramm für 2005 (vertagung vom 25.01.2005)
+- TOP .2.: Veranstaltungen
+- TOP .4.: Longboard - Slalom-contest am 23.04.2005 auf der Theresienwiese
+- TOP .5.: Bootcorso auf der Isar am 28.05.2005
+- TOP .1.: Umbau des Oktoberfestes (Bürgerschreiben)
+- TOP .2.: Runder Tisch "Partybus" am 08.03.2005, 18.00 - 19.00 Uhr im Sofia-Grill
+- TOP .3.: Ortstermin Taxistand Hauptbahnhof Süd
+- TOP .4.: Antrag des BA 8 zur Freihaltung der Radwege auf der Theresienwiese
+- TOP .5.: Bericht des Beauftragten (AK Theresienwiese)
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP .1.: Einladung zu den UA-Sitzungen im März
+- TOP .3.2.: Berichte aus den anderen BA
+- TOP .3.3.: Bericht des Internetbeauftragten
