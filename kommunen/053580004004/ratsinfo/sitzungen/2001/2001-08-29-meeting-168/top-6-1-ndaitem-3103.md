@@ -1,4 +1,4 @@
-# TOP 6.1.: Satzungen, Ortsrecht
+# TOP 6.1.: Satzung über die Inanspruchnahme von Dienstleistungen der Freiwilligen Feuerwehr der Gemeinde Aldenhoven sowie zur Regelung des Kostenersatzes und der Erhebung von Gebühren.
 
 - Sitzung: Gemeinderat (2001-08-29)
 - Körperschaft: Gemeinde Aldenhoven
