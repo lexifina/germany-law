@@ -1,0 +1,56 @@
+# Gemeinderates
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2001-02-15T18:00:00+01:00
+- Ende: 2001-02-15T20:45:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaxhKNmUkhLunHwPDu2oIdU
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/142
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSu0TB_dYu44rLXMMhFLiCZBewXlPcTUNOz0LZLGfH-d/Oeffentliche_Niederschrift_Gemeinderat_15.02.2001.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Einführung und Verpflichtung des neuen Ratsherrn Wilhelm Dohmen
+- TOP 2.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 3.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 20.12.2000 -öffentlicher Teil-
+- TOP 4.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 4.1.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 4.1.: Denkmalschutz Eintragung eines Bodendenkmals in die Denkmalliste der Gemeinde Aldenhoven
+- TOP 5.: Neubesetzung von Gremien
+- TOP 5.1.: Neubesetzung von Gremien
+- TOP 5.1.: Neubesetzung von Ausschüssen pp. nach dem Ausscheiden des Ratsherrn Hüttenhain
+- TOP 6.: Finanzen, Haushalt
+- TOP 6.1.: Finanzen, Haushalt
+- TOP 6.1.: Änderungsvorschläge der Verwaltung zum Haushalt 2001
+- TOP 6.2.: Finanzen, Haushalt
+- TOP 6.2.: Änderungsvorschläge der CDU zum Haushalt 2001
+- TOP 6.3.: Finanzen, Haushalt
+- TOP 6.3.: Änderungsvorschläge der SPD zum Haushalt 2001
+- TOP 6.4.: Finanzen, Haushalt
+- TOP 6.4.: Änderungsvorschläge der FWG zum Haushalt 2001
+- TOP 6.5.: Finanzen, Haushalt
+- TOP 6.5.: Änderungsvorschläge der UsA zum Haushalt 2001
+- TOP 7.: Stellenplan für das Haushaltsjahr 2001
+- TOP 8.: Mitteilungen und Anfragen.
+- TOP 9.: Verschiedenes.
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 20.12.2000 -nichtöffentlicher Teil-.
+- TOP 2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.1.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.1.: Umbau der Aula der Hauptschule Aldenhoven zu einer Begegnungsstätte; Beauftragung Entwurfsplanung
+- TOP 2.2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.2.: Erstellung Kanalkataster; Beauftragung von Ingenieurleistungen
+- TOP 3.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 3.1.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 3.1.: Vermietung von Büroräumen und einer Garage
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.: Personalplanung 2001
+- TOP 5.: Maßnahmen zur Kostenreduzierung
+- TOP 6.: Übertragung einer Splissparzelle in Aldenhoven-Siersdorf
+- TOP 7.: Mitteilungen und Anfragen.
+- TOP 8.: Verschiedenes.
