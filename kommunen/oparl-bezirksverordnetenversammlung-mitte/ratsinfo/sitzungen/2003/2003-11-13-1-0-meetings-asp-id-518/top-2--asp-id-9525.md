@@ -1,0 +1,7 @@
+# TOP 2: Genehmigung des Protokolls der 22. Sitzung am 11.09.2003 und der 23. Sitzung am 16.10.2003
+
+- Sitzung: 24. öffentliche Sitzung des Ausschusses für Schule (2003-11-13)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=9525
+- Ergebnis: im Ausschuss abgelehnt
