@@ -1,0 +1,6 @@
+# TOP 12.: Verschiedenes
+
+- Sitzung: Bau-, Planungs- und Umweltausschuss (28. Sitzung) (2004-09-15)
+- Körperschaft: Gemeinde Stemwede
+- Öffentlich: ja
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/1522
