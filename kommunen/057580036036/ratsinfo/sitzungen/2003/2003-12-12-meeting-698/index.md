@@ -1,0 +1,52 @@
+# Rat
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 2003-12-12T16:00:00+01:00
+- Ende: 2003-12-12T18:30:00+01:00
+- Ort: Haus des Gastes, Bäderstr. 23, 32602 Vlotho, Saal
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZXgkS4uwNutdhXtNkifN35E
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/698
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQdsPgblhHqfXS9JGeCm2wOF5mzWtAEt0Ce5X9XamXx1/Oeffentliche_Niederschrift_Rat_12.12.2003.pdf
+
+## Tagesordnung
+
+- TOP I.: A. Öffentliche Sitzung
+- TOP 1.: Jahresrückblick des Bürgermeisters
+- TOP 2.: Niederschrift über die 30. Sitzung vom 20.11.2003 - öffentlicher Teil -
+- TOP 3.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 4.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 5.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 6.: Angelegenheiten des Kurzweckverbandes (Berichte und Beschlussfassungen)
+- TOP 7.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 7.1.: Erlass einer Vergnügungssteuersatzung der Stadt Vlotho - Einstimmig, 2 Enthaltung(en)
+- TOP 7.2.: Verkehrsberuhigung der Möllberger Straße/ Einrichtung einer 30 km/h Zone - Einstimmig, 0 Enthaltung(en)
+- TOP 7.3.: Maßnahmen zur Herabsetzung des Unfallrisikos auf der Wehrendorfer Str. (K12) im Bereich des Gemeindehauses bzw. der Einmündung Waddenbergstr. und Windfeldstr. - Einstimmig, 0 Enthaltung(en)
+- TOP 7.4.: Verkehrssituation Ausfahrt Jahnstraße zur Mindener Straße - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Fraktionsanträge gem. § 3 der Geschäftsordnung
+- TOP 8.1.: Unterhaltung und Instandsetzung städtischer Grünflächen - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Beschluss über die Gültigkeit der Bürgermeisterwahlen vom 28.09.03 und 12.10.03 (mündlicher Vortrag)
+- TOP 10.: Jahresabschluss 2002 der Stadtwerke Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Wirtschaftsplan der Stadtwerke Vlotho für das Wirtschaftsjahr 2004 - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Jahresabschluss 2002 der Vlothoer Wirtschaftsbetriebe, Betriebssparte Abwasser - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Jahresabschluss 2002 der Vlothoer Wirtschaftsbetriebe, Betriebssparte Service - Einstimmig, 2 Enthaltung(en)
+- TOP 14.: Abwasserbeseitigungsgebühren - Gebührenbedarfsberechnung - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe - Betriebssparte Abwasser - für das Wirtschaftsjahr 2004 - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe - Betriebssparte Service - für das Wirtschaftsjahr 2004 - Einstimmig, 2 Enthaltung(en)
+- TOP 17.: Beitrags- und Gebührensatzungsänderung Artikelsatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Integration der RWE Gas AG in die neue Struktur des RWE-Konzerns - Einstimmig, 0 Enthaltung(en)
+- TOP 18.1.: Einlage der Anteile an der RWE Gas AG in den Betrieb gewerblicher Art Freibad - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Integration des freigestellten Schülerspezialverkehrs in den öffentlichen Personennahverkehr - 30 Ja-Stimme(n), 2 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 20.: Umbesetzung von Ausschüssen - Einstimmig, 0 Enthaltung(en)
+- TOP 21.: Überplanmäßige Ausgaben im Produkt Brandschutz und Bevölkerungsschutz für ehrenamtliche Tätigkeiten - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Überplanmäßige Ausgabe im Produkt Brandschutz und Bevölkerungsschutz für Ersatzbeschaffung eines LF 8/6 für die Löschgruppe Steinbründorf - Einstimmig, 0 Enthaltung(en)
+- TOP 23.: Außerplanmäßige Haushaltsausgabe im Produkt Öffentlicher Personennahverkehr für die Beschaffung des zu integrierenden Schülerspezialverkehrs in den ÖPNV-Verkehr - Einstimmig, 1 Enthaltung(en)
+- TOP 24.: Leistung einer überplanmäßigen Haushaltsausgabe beim Produkt 310 025 005; Betrieb 99999; Sachkonto 8655000 - Stadtmarketing- Heilgarten 2000 -Amtshausberg- - 29 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 25.: Leistung einer überplanmäßigen Haushaltsausgabe beim Produkt 040 014 001 (Bereitstellung / Bewirtschaftung Gebäude / Grundstücke) hier: Umgestaltung ehem. Hausmeisterwohnung Grundschule Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 26.: Aufstellung des Bebauungsplanes Nr. V 18 "Pehlenstraße/Schmeltenweg" - Einstimmig, 0 Enthaltung(en)
+- TOP 27.: Aufstellung des Bebauungsplanes E 14 "Solterberg" - Einstimmig, 0 Enthaltung(en)
+- TOP 28.: Aufstellung des Bebauungsplanes E 13 "Portablick" - Einstimmig, 0 Enthaltung(en)
+- TOP 29.: Ausbau des Gewässers Sperlsiek hier: Leistung einer überplanmäßigen Haushaltsausgabe beim Produkt 250 043 002 - Einstimmig, 0 Enthaltung(en)
+- TOP 30.: Anfragen nach § 18 der Geschäftsordnung und Mitteilungen
