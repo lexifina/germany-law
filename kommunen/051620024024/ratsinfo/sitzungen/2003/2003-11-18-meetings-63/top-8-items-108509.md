@@ -1,0 +1,6 @@
+# TOP 8: Schenkung der Vereinigung der Heimatfreunde Neuss
+
+- Sitzung: Kulturausschuss (2003-11-18)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/108509
