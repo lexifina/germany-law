@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 15 Abs. 3 Satz 2, § 17 Abs. 4 Satz 2 und Abs. 5 Satz 2, § 20 Abs. 7 Satz 2, § 32 Satz 2, § 41 Abs. 2 Satz 2, § 64 Abs. 1 Satz 3 und § 54 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045) in Verbindung mit § 79 Abs. 3 des Bremischen Polizeigesetzes vom 21. März 1983 (Brem.GBl. S. 141, 301 - 205-a-1), das zuletzt durch Gesetz vom 22. Dezember 1998 (Brem.GBl. S. 361) geändert worden ist, verordnet der Senat:
