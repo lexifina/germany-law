@@ -1,0 +1,8 @@
+# TOP 6.: Verleihung der Feuerwehr-Ehrennadel der Gemeinde Aldenhoven
+
+- Sitzung: Gemeinderat (2002-02-18)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/3747
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
+- Beratung: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/consultation/1693
