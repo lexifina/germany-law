@@ -1,0 +1,1 @@
+Auf Grund des Art. 12 Abs. 2 Satz 2 des Gesetzes zur Ausführung des Gerichtsverfassungsgesetzes und von Verfahrensgesetzen des Bundes (BayRS 300–1–1–J) erläßt das Bayerische Staatsministerium der Justiz folgende Verordnung:
