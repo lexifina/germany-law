@@ -1,4 +1,4 @@
 # Gesetz zur Rechtsstellung und Finanzierung der Fraktionen des Sächsischen Landtages (Fraktionsrechtsstellungsgesetz)
 Vom 24. August 1998
-Rechtsbereinigt mit Stand vom 1. Januar 2002
+Rechtsbereinigt mit Stand vom 1. Oktober 2004
 Der Sächsische Landtag hat am 23. Juli 1998 das folgende Gesetz beschlossen:
