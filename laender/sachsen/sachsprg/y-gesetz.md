@@ -1,2 +1,2 @@
 # Gesetz über den privaten Rundfunk und neue Medien in Sachsen (Sächsisches Privatrundfunkgesetz – SächsPRG)
-Rechtsbereinigt mit Stand vom 25. März 2000
+Berichtigt durch Berichtigung vom 24. September 2001 (SächsGVBl. S. 684)

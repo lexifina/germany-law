@@ -1,4 +1,4 @@
-# Inhaltsübersicht 1
+Inhaltsübersicht
 1. Abschnitt Allgemeine Bestimmungen
 § 1 Anwendungsbereich
 § 1a Begriffsbestimmungen
@@ -6,7 +6,7 @@
 § 3 Programme im privaten Rundfunk
 § 4 Zuordnung technischer Übertragungskapazitäten
 2. Abschnitt Zulassung der Veranstalter
-§ 5 Zulassung von Rundfunkprogrammen, Verbreitung von Mediendiensten
+§ 5 Zulassung von Rundfunkprogrammen
 § 6 Zulassungsvoraussetzungen
 § 7 Sicherung der Meinungsvielfalt
 § 8 Vermeidung vorherrschender Meinungsmacht
@@ -32,7 +32,7 @@
 6. Abschnitt Weitere Rundfunknutzungen, Rundfunkerprobung
 § 25 Weitere Rundfunknutzungen
 § 26 Rundfunkerprobung
-7. Abschnitt Sächsische Landesanstalt für privaten Rundfunk und neue Medien
+7. Abschnitt Sächsische Landesanstalt für privaten Rundfunkund neue Medien
 § 27 Rechtsform und Organe
 § 28 Aufgaben der Landesanstalt
 § 29 Versammlung der Landesanstalt
@@ -43,9 +43,9 @@
 § 34 Arbeitsweise und Aufgaben des Geschäftsführers
 § 35 Finanzierung der Landesanstalt
 § 36 Aufsicht über die Landesanstalt
-8. Abschnitt Weiterverbreitung von Rundfunkprogrammen in Kabelanlagen
+8. Abschnitt Verbreitung, Weiterverbreitung von Rundfunkprogrammen in Kabelanlagen
 § 37 Zulässigkeit der Weiterverbreitung
-§ 38 Weiterverbreitung
+§ 38 Verbreitung, Weiterverbreitung
 9. Abschnitt Maßnahmen der Aufsicht
 § 39 Allgemeine Aufsicht über Veranstalter
 § 40 Rücknahme der Zulassung
@@ -56,6 +56,6 @@
 § 44 Datenverarbeitung zu eigenen publizistischen Zwecken
 § 45 Bestandsdaten, Daten über den Empfang von Programmen und Sendungen
 § 45a Schutz der Geheimhaltung
-11. Abschnitt Übergangs- und Schlußbestimmungen
+11. Abschnitt Übergangs- und Schlussbestimmungen
 § 46 Übergangsbestimmungen
-§ 47 Inkrafttreten
+§ 47 In-Kraft-Treten
