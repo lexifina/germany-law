@@ -1,0 +1,1 @@
+# Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 24 Abs. 2 und 3 der Verordnung über die Krankenfürsorge auf Kauffahrteischiffen vom 18. Juli 1972
