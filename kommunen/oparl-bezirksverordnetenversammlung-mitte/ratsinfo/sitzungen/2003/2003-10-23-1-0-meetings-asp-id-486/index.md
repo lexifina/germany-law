@@ -1,0 +1,110 @@
+# 20. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2003-10-23T17:30:00+02:00
+- Ende: 2003-10-23T22:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=486
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=486
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=37953
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: "Humboldthainer" - beantwortet
+- TOP 3.2: Geheimdienst auf Abwegen - was plant der Bundesnachrichtendienst (BND) auf dem Gelände des ehemaligen Stadions der Weltjugend? - beantwortet
+- TOP 3.3: Standort Drogenkonsumraum - beantwortet
+- TOP 3.4: City-Toilette auf der Museumsinsel - beantwortet
+- TOP 3.5: Bericht Drogenkonsumräume - schriftlich beantwortet
+- TOP 3.6: Schulbuchkauf - schriftlich beantwortet
+- TOP 3.7: Interkultureller Garten - schriftlich beantwortet
+- TOP 3.8: Zeitung zur Information über den Stand der Sanierungsdurchführung in den förmlich festgesetzten Sanierungsgebieten im Bezirk Mitte "stadt.plan.mitte" - schriftlich beantwortet
+- TOP 3.9: Service Internet - schriftlich beantwortet
+- TOP 3.10: Bezirkskulturfonds 2003 - schriftlich beantwortet
+- TOP 3.11: Zur Drucksache 0523/II, Vorlage zur Kenntnisnahme "Krankenhausbeirat" - schriftlich beantwortet
+- TOP 3.12: Fehlende Ausschreibung - schriftlich beantwortet
+- TOP 3.13: Dienstreisen - schriftlich beantwortet
+- TOP 3.14: Antwort auf die Drucksache Nr. 0222/II - schriftlich beantwortet
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Bezirkliches "Kita- und Schulsanierungsprogramm" - beantwortet
+- TOP 5.2: Mittel aus dem Umweltentlastungsprogramm für die ernergetische Sanierung von Schulen und Kitas - beantwortet
+- TOP 5.3: Umsetzung des Heimgesetzes - beantwortet
+- TOP 5.4: Kann Mitte auf den Sport verzichten? - schriftlich beantwortet
+- TOP 5.5: Job-Aktiv-Center - Arbeitsbeschaffungsmaßnahme für den Rechnungshof? - schriftlich beantwortet
+- TOP 5.6: Beschäftigungsfördernde Infrastrukturmaßnahmen - BSI - - schriftlich beantwortet
+- TOP 5.7: Nullnummer im Stadtentwicklungsbereich? - schriftlich beantwortet
+- TOP 5.8: Haushaltsmittel im Kapitel 4722 Titel 521 10 - schriftlich beantwortet
+- TOP 5.9: Großes Theater für teures Geld und ernüchterndes Gutachten - oder: wie bremst sich das Bezirksamt aus - Sanierungsgelder in den Sand gesetzt? - schriftlich beantwortet
+- TOP 5.10: Mieterberatung - schriftlich beantwortet
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 7.1: 3 Prozent der Bewirtschaftungskosten für Energie und Wasser für Investitionen zur Ressourceneinsparung - in der BVV abgelehnt
+- TOP 7.2: Bauunterhaltungsplanung Januar 2004 - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Entwurf des Doppelhaushaltsplans Mitte für die Haushaltsjahre 2004 und 2005/ Nachschiebeliste Nr. 2 zum Entwurf des Doppelhaushaltsplans Mitte für die Haushaltsjahre 2004 und 2005 - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Festsetzung der Erhaltungsverordnung gem. § 172 Abs. 1 Satz 1 Nr. 2 BauGB für das Gebiet "Oranienburger Vorstadt" im Bezirk Mitte von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Bebauungsplanentwurf I-39 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-39 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: "Keine Mobilfunkanlagen auf Schulen und Kindertagesstätten"
+- TOP 9.2: Privates Geld für öffentliche Gebäude - Energiesparcontracting für Mittes Liegenschaften vorbereiten
+- TOP 9.3: Sicherheitsempfinden am Bahnhof Friedrichstraße verbessern
+- TOP 9.4: FE-Maßnahmen
+- TOP 9.5: Obdachloseneinrichtungen im Bezirk Mitte alt: Drucksache Nr. 549/I
+- TOP 9.6: Wochenendsperrung der John-Foster-Dulles-Allee für den motorisierten Individualverkehr
+- TOP 9.7: Gefahrenstelle Bornholmer Straße 44
+- TOP 9.8: Essen in Bio-Qualität in Schulen
+- TOP 9.9: Autos statt Bäume? Umbau des Boulevards Unter den Linden natur- und stadtverträglich gestalten
+- TOP 9.10: Änderung der Geschäftsordnung des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.11: Ergebnis der öffentlichen Auslegung gemäß § 3 Abs. 2 und 3 Baugesetzbuch des Bebauungsplanentwurfes I-39 für das Gelände zwischen Reinhardtstraße, Friedrichstraße, Schiffbauerdamm und Albrechtstraße im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.12: Ergebnis der Beteiligung der Träger öffentlicher Belange gemäß § 4 Baugesetzbuch für das vorhabenbezogene Bebauungsplanverfahren 1-5 VE (südlicher Hackescher Markt) und die Durchführung der öffentlichen Auslegung gemäß § 3 Abs. 2 Baugesetzbuch für das vorhabenbezogene Bebauungsplanverfahrren 1-5 VE im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.13: Durchwegung in Anbindung der Klosterstraße zur Rathausstraße alt Drucksache Nr.379/I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.14: Rauchfreie Schulen alt: Drucksache Nr. 392/I - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.15: Aufstellung des Bebauungsplans 1-12 im Bezirk Mitte, Ortsteil Moabit, die Durchführung der Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB), die Einstellung des Bebauungsplanverfahrens II-154 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Unterstützung des Zentrums Demokratische Kultur - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bestmögliche Umsetzung des Sprachförderkonzeptes - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Das Portrait des Bundespräsidenten Rau - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Keine Übertragung des Tarifabschlusses auf die Beschäftigten nach § 19 Abs. 2 Bundessozialhilfegesetz - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Ansiedlung Bundesnachrichtendienst - in der BVV abgelehnt
+- TOP 10.6: Neugestaltung der Fläche ehemaliges Stadion der Weltjugend - ohne Änderungen in der BVV beschlossen
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Erhaltungssatzung für das Gebiet um den Arkonaplatz - in der BVV abgelehnt
+- TOP 11.2: Bildung vermeidet Armut - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Opferkreuze
+- TOP 11.4: Denkmal für die homosexuellen NS-Opfer - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Keine finanziellen Belastungen des Bezirkshaushaltes durch die Novellierung GDG und Neuordnung des Öffentlichen Gesundheitsdienstes - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Räumlichkeiten für Heimatverein Tiergarten e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Bebauungsplan II-141a, Sicherung der Wohnnutzung für die Grundstücke Lützowufer 20-23, Lützowplatz 2/ 18 und Wichmannstraße 1-3 - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Keine Aufweichung des Baumschutzes - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag - (offen)
+- TOP 12.1: GA-Mittel Umbaumaßnahme Schiffbauerdamm - überwiesen
+- TOP 12.2: Bürgerbeteiligung erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Wahl eines stv. Bürgerdeputierten für den Ausschuss für Sport - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Privatisierung von Leistungen des bezirklichen Gesundheitsdienstes - überwiesen
+- TOP 12.5: Lärm ist schädlich - überwiesen
+- TOP 12.6: Sportanlagen jetzt! - überwiesen
+- TOP 12.7: Weiterführung des Programms 40+ - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Fifty-Fifty beim Energiespar-Contracting berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Verkehrssicherheit Alexanderplatz - überwiesen
+- TOP 12.10: Umweltbildungsangebote für Zuwanderer - überwiesen
+- TOP 12.11: Mehr Transparenz im Haushalt! - überwiesen
+- TOP 12.12: Kaufhof am Alexanderplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Vorwärts immer, rückwärts nimmer: Fifty-Fifty weiter entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Sichere Straßenbahnhaltestelle - überwiesen
+- TOP 12.15: Tätigkeitsbericht EU-Beauftragte(r) - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Defizite im Kita-Bereich senken - Kita-Beiträge von Sozialhilfeempfängern direkt überweisen - überwiesen
+- TOP 12.17: Neubau der Monbijoubrücke - überwiesen
+- TOP 12.18: Effizienzsteigerung bei der Bearbeitung von Einbürgerungsanträgen - überwiesen
+- TOP 12.19: Tempo 30 vor Schule in der Gartenstraße - in der BVV zurückgezogen
+- TOP 12.20: Ausschreibung der Vermessung von Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Schmutz- und Niederschlagswasser - überwiesen
