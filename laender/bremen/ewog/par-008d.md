@@ -1,0 +1,2 @@
+# § 8d Anforderungen an Einleitungen aus Herkunftsbereichen der Abwasserverordnung
+Soweit in den Anhängen zu § 1 Abs. 1 der Abwasserverordnung für die dort bestimmten Herkunftsbereiche Anforderungen für den Ort des Anfalls des Abwassers oder vor seiner Vermischung einschließlich der sie betreffenden allgemeinen Anforderungen festgelegt werden, gelten diese als Mindestanforderungen für das Einleiten entsprechenden Abwassers in öffentliche Abwasseranlagen. § 31a Abs. 1 bis 3 und die §§ 31b bis 31e des Bremischen Wassergesetzes gelten entsprechend.
