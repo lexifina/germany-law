@@ -1,0 +1,7 @@
+# TOP A.6: Regelung zur Verwendung der Spende der Elektrizitätswerke Minden-Ravensberg GmbH für soziale Zwecke
+
+- Sitzung: Sozialausschuss (2001-08-30)
+- Körperschaft: Stadt Herford
+- Öffentlich: ja
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/8845
+- Beratung: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/3045
