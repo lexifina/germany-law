@@ -1,4 +1,4 @@
-Inhaltsübersicht
+# Inhaltsübersicht
 I. Abschnitt Aufgabe und Gegenstand von Denkmalschutz und Denkmalpflege
 § 1 Aufgabe
 § 2 Gegenstand des Denkmalschutzes
@@ -41,7 +41,7 @@ V. Abschnitt Straftaten und Ordnungswidrigkeiten
 § 35 Straftaten
 § 36 Ordnungswidrigkeiten
 VI. Abschnitt Schlußbestimmungen
-§ 37 Verwaltungsvorschriften
+§ 37 aufgehoben
 § 38 Übergangsbestimmungen
 § 39 Aufhebung von Vorschriften
 § 40 Inkrafttreten

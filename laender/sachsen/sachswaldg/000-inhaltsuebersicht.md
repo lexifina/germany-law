@@ -68,7 +68,7 @@ Zehnter Teil Ordnungswidrigkeiten
 Elfter Teil Übergangs- und Schlußvorschriften
 § 57 Forstnutzungsrechte
 § 58 Forstberichte
-§ 59 Überleitungs- und Verwaltungsvorschriften
+§ 59 Übergangsvorschriften
 § 60 Änderung von Gesetzen
 § 61 Aufhebung von Rechtsvorschriften
 § 62 Inkrafttreten
