@@ -6,8 +6,7 @@ fortgeltend:
 § 5 Abs. 1 §§ 7, 9 und 17
 2. 214 Anordnung über Feuerungsanlagen, Anlagen zur Verteilung von Wärme und zur Warmwasserversorgung sowie Brennstofflagerung – Feuerungsanordnung (FeuAO) –
 vom 10. September 1990 (GBl. I Nr. 62 S. 1557)
-fortgeltend:
-gesamte Vorschrift
+Vorschrift außer Kraft durch § 15 Absatz 2 der VO vom 17. September 1998 (SächsGVBl. S. 516, 520)
 3. 215 Brandschutzanordnung Nr. 9 – Verkaufsstätten, Warenhäuser und Messehallen –
 vom 26. Januar 1963 (GBl. II Nr. 13 S. 79)
 Genese: § 17 neugefaßt durch Brandschutzanordnung Nr. 9/1. – Verkaufsstätten, Warenhäuser und Messehallen – vom 20. Juli 1965 (GBl. II Nr. 81 S. 617)
