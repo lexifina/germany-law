@@ -1,4 +1,4 @@
-# Inhaltsübersicht
+Inhaltsübersicht
 1. Teil Allgemeine Vorschriften
 1. Abschnitt Erziehungs- und Bildungsauftrag, Geltungsbereich
 § 1 Erziehungs- und Bildungsauftrag der Schule
@@ -35,7 +35,7 @@
 § 28 Dauer und Ende der Schulpflicht
 § 29 Ruhen der Schulpflicht
 § 30 Besuch von Förderschulen
-§ 3 Verantwortung für die Erfüllung der Schulpflicht
+§ 31 Verantwortung für die Erfüllung der Schulpflicht
 4. Teil Schulverhältnis
 § 32 Rechtsstellung der Schule
 § 33 Schuljahr, Ferien
@@ -46,7 +46,7 @@
 § 38 Schulgeld- und Lernmittelfreiheit
 § 39 Erziehungs- und Ordnungsmaßnahmen
 5. Teil Lehrer, Schulleiter
-§ 40 Lehrer
+§ 40 Personalhoheit, Lehrer
 § 41 Schulleiter, Stellvertretender Schulleiter
 § 42 Aufgaben des Schulleiters
 6. Teil Schulverfassung
@@ -63,7 +63,7 @@
 3. Abschnitt Mitwirkung der Schüler
 § 51 Schülermitwirkung, Schülervertretung
 § 52 Klassenschülersprecher
-§ 53 5Schülerrat, Schülersprecher
+§ 53 Schülerrat, Schülersprecher
 § 54 Kreisschülerrat
 § 55 Landesschülerrat
 § 56 Schülerzeitschriften
