@@ -1,0 +1,89 @@
+# 25. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2004-09-01T17:30:00+02:00
+- Ende: 2004-09-01T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=340
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=340
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - im Ausschuss abgelehnt
+- TOP 1.2: Abstimmung über die Tagesordnung - im Ausschuss abgelehnt
+- TOP 1.3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 1.4: Mündliche Anfrage - im Ausschuss abgelehnt
+- TOP 1.5: Bericht des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 1.6: Konsensliste - im Ausschuss abgelehnt
+- TOP 1.7: Nachweis der im Haushaltsjahr 2003 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 1.8: BürgerInnenengagement fördern: Bepflanzung von Baumscheiben - mit Änderungen in der BVV beschlossen
+- TOP 1.9: Fußgängerüberweg am Bahnhof Karow - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Mitwirkung der Bezirksverordnetenversammlung an Entscheidungen des Liegenschaftsfonds zu Grundstücksverkäufen - in der BVV abgelehnt
+- TOP 1.11: Gut Blankenfelde - in der BVV abgelehnt
+- TOP 1.12: Pankow gegen Rechtsextremismus, Rassismus und Antisemitusmus - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Geschäftsbereich des Wirtschaftsausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Hartz IV: Umsetzung von Hartz IV demokratisch kontrollieren - überwiesen
+- TOP 1.15: Seniorenbegegnungsstätte Tollerstraße erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Bezirksamt als Motor für neue Energien - beantwortet
+- TOP 1.17: Drucksache 586/03, "Entwicklung kommunaler Begegnungsstätten" vom 12. 11. 2003 - beantwortet
+- TOP 1.18: Antragsformular "Arbeitslosengeld II / Sozialgeld" (SGB II) - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Miniermotte bekämpfen - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Mit Natur zur Weltkultur - die Carl-Legien-Siedlung bleibt grün - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Fahrradabstellanlagen am U- und S-Bahnhof Schönhauser Allee - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Jugendprojekt "Schmale" unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Wortprotokolle von BVV-Tagungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Erhalt des ehemaligen Wasch- und Heizhauses in der Carl-Legien-Siedlung - überwiesen
+- TOP 1.25: Mehr Verkehrssicherheit im Wohnviertel Talstraße / Spiekermannstraße - überwiesen
+- TOP 2: Komplex II - (offen)
+- TOP 2.1: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Geschlechtergerechter Haushalt - ein erster Schritt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Bericht zu GA-Mitteln - zur Kenntnis genommen
+- TOP 2.4: (nichtöffentlich)
+- TOP 2.4.1: (nichtöffentlich)
+- TOP 2.5: Halbjährliche Berichterstattung über Budgetentwicklung - zur Kenntnis genommen
+- TOP 2.6: Keine Erhöhung von Kita-Gebühren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Erhalt der Kleingärten in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Zulässigkeit von Hallenfußball in für Fußball geeigneten Sporthallen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Halteverbot (Z.283) Krontaler Str., 13125 Berlin Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Standort Blankenfelde erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Studienarbeiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Verkehrslösung für Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Sportunterricht der Evangelischen Schule Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Weiterbildung von Mitarbeiterinnen und Mitarbeitern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Verkehrsregelung an der Kreuzung Pankgrafenstraße / Bucher Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Ausbau der öffentlichen Infrastruktur in Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Verlängerung der Buslinie 158 bis zum S-Bhf. Prenzlauer Allee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Illegales Kurzzeitparken in der Prenzlauer Allee auf neu geschaffenen Übergängen für den Fußverkehr - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Fassadenbegrünung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Bauzeit Florastraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Hartz IV: Beteiligung der Bezirke an den künftigen Arbeitsgemeinschaften - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Kita-Sanierungs- und Neubauprojekte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Verlegung Bushaltestelle Blankenburger Pflasterweg (Mörderberg) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Verkehrschaos Berliner Allee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: "Trixi-Spiegel" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Naturnahes Grün in der Carl-Legien-Siedlung erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Erhalt des Krankenhauses Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Überschreitungen im T- und Z-Teil im Jahresabschluss 2003 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Geschäftsverteilung im Bezirksamt hier: Zuordnung des Ordnungsamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Fortschreibung der Sanierungsziele im Sanierungsgebiet Bötzowstraße, Am Friedrichshain 29 - 32 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Änderung der Sanierungsziele im Sanierungsgebiet Bötzowstraße, Pasteurstraße 20 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Beschluss über das Ergebnis der Auswertung der frühzeitigen Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes 3-5 für das Gelände zwischen Treskowstraße, Berliner Straße, der Straße Am Steinberg und Prenzlauer Promenade sowie die Treskowstraße im Bezirk Pankow, Ortsteile Heinersdorf, Weißensee und Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Beendigung der zwischen dem Bezirksamt und den Bezirksverbänden der Kleingärtner Pankow e. V. und Weißensee e. V. bestehenden Verträge die Anlagen "Rennbahn", "Blankenburg", "Einigkeit" und "Idehorst" betreffend - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Änderung der Sanierungsziele für die Grundstücke Florastraße 86 und 87 im Sanierungsgebiet Pankow - Wollankstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Lieferung und Installation einer digitalen Telekommunikationsanlage für das Bezirksamt Pankow von Berlin (Ersatzbeschaffung) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Beschluss zur Aufstellung eines vorhabenbezogenen Bebauungsplans mit der Bezeichnung 3-7 VE sowie Beschlüsse zur Durchführung von frühzeitiger Bürgerbeteiligung und Beteiligung der Träger öffentlicher Belange - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Pachtvertrag für den Golfplatz in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.38: Historische Erforschung und Vermittlung der Geschichte des Bezirksamtsgeländes (Fröbelstraße) im Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.39: Aufgabe der geplanten Nutzung für die Liegenschaft Alt Karow 15 in 13125 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.40: Benennung einer Privatstraße in Rupertweg im OT Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.41: Bebauungsplan XVIII 58-1 für die Grundstücke Lehderstraße 68, 69 im Bezirk Pankow, Ortsteil Weißensee; Auswertung der frühzeitigen Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) Bezug: Aufstellungsbeschluss Nr. V-0583/04 vom 10 Februar 2004-08-16 Kenntnisnahme BVV vom 03. März 2004 (Drs. Nr. V-0640/04) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.42: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.43: Bestellung von Trägervertretern zur Errichtung einer Arbeitsgemeinschaft (ArGe) nach dem SGB II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.44: Aufhebung der Beschlüsse zur Aufstellung der Bebauungspläne XVIII - 48, XVIII - 49, XVIII - 53, XVIII-62 und XIX-9 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.45: Kein Kita-Konzern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.46: Gefährliche Baustellen-Regelungen auf Radverkehrsanlagen und Gehwegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.47: Aufgabe der Seniorenbegegnungsstätte Tollerstraße und Überführung der Angebote für Seniorinnen und Senioren in den Jugendklub Tollerstraße - mit Zwischenbericht zur Kenntnis genommen
