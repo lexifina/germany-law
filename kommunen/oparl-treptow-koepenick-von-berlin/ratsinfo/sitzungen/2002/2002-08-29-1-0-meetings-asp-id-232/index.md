@@ -1,0 +1,68 @@
+# 9. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2002-08-29T16:00:00+02:00
+- Ende: 2002-08-29T16:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=232
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=232
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_07 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Geplante Versorgung des Tanklagers - schriftlich beantwortet
+- TOP 8: Beschilderung Bezirksgrenzen - in der BVV abgelehnt
+- TOP 9: Würdigung städtepartnerschaftlicher Vereinbarungen - mit Änderungen in der BVV beschlossen
+- TOP 10: Parkplatz Regattastraße - in der BVV zurückgezogen
+- TOP 11: Öffentliches Auftreten der Bezirksstadträtin für Soziales und Gesundheit - beantwortet
+- TOP 12: Zweckentfremdungsverbotsverordnung endlich gekippt - leider viel zu spät - vertagt
+- TOP 13: Bürgerzentrum Ortolfstraße - Altglienicke - schriftlich beantwortet
+- TOP 14: Radwege im grünen Bezirk Treptow-Köpenick - beantwortet
+- TOP 15: Sondermittel für Bürgerverein Allendeviertel Köpenick e.V. (SM 230) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 16: Sondermittel für Seniorenzeitung Herbstblatt Treptow & Köpenick (SM 231) - ohne Änderungen in der BVV beschlossen
+- TOP 17: Sondermittel für Freundeskreis der Musikschule Köpenick e.V. (SM 237) - ohne Änderungen in der BVV beschlossen
+- TOP 18: Mhoch 3 - Modeklassen der Best-Sabel-Fachoberschule für Design (SM 239) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 19: Sondermittel für Tourismusverein Köpenick-Treptow e.V. (SM 242) - ohne Änderungen in der BVV beschlossen
+- TOP 20: Sondermittel für Reha-Zentrum Fürstenwalder Damm 432 gGmbH (SM 243) - ohne Änderungen in der BVV beschlossen
+- TOP 21: Sondermittel für Behindertenverein Köpenick e.V. (SM 245) - ohne Änderungen in der BVV beschlossen
+- TOP 22: Investitionsplanung 2001-2005, hier: Einarbeitung des Revisionsergebnisses zu den bezirklichen Investitionsausgaben als Grundlage für die Aufstellung des Bezirkshaushaltsplans 2002/2003, sowie Aufstellung von Unterlagen für die Investitionsplanung 2002-2006
+- TOP 23: Anmeldung zur Investitionsplanung 2002 bis 2006
+- TOP 24: Einschulungsbezirke
+- TOP 25: Einleitung des Planaufstellungsverfahrens zum Bebauungsplan 9-7 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Plänterwald
+- TOP 25.1: Planziele B-Plan 9-7 im Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 26: Erweiterung des Messbereichs der Fluglärmmessstationen im Umfeld des Flughafens Schönefeld - ohne Änderungen in der BVV beschlossen
+- TOP 27: Entwurf des Bebauungsplans XV-37 ea nebst Begründung; Entwurf der Rechtsverordnung zum Bebauungsplan XV-37 ea im Bezirk Treptow-Köpenick von Berlin, Ortsteil Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 28: Benennung von 46 Privatstraßen im Wirtschaftsstandort Adlershof, BAAG-Gelände - in der BVV zurückgezogen
+- TOP 29: Benennung der 1. Oberschule (Hauptschule), Schulnummer 1511201, Baumschulenstraße 79, 12437 Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 30: Konkretisierung und Fortschreibung der Sanierungsziele für die Umgestaltung des Luisenhains im Block 15 im Sanierungsgebiet Köpenick Altstadt / Kietz Vorstadt; Angestrebte Nutzung im Luisenhain - überwiesen
+- TOP 31: Benennung von 9 Nummernstraßen in der Siedlung Spreetal in Altglienicke -Straße 72 und 75 bis 81 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 32: Denkmalgerechte Umgestaltung von Schloßplatz und Grünstraße im Sanierungsgebiet Köpenick Altstadt / Kietz Vorstadt; Baustellenmarketing - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 33: Intensivierung des Agendaprozesses - überwiesen
+- TOP 34: Auswirkungen des Gewaltschutzgesetzes im Bezirk Treptow-Köpenick - in der BVV zurückgezogen
+- TOP 35: Übernahme der unrentierlichen Kosten der Sanierung der Grundstücke Alt-Köpenick/Ecke Laurenzstraße 1, 1A und Grünstraße 18, 19, 20, 21/Ecke Böttcherstraße 1 durch das Land Berlin - überwiesen
+- TOP 36: Finanzielle Hilfe - Hochwassergebiet Mulde - in der BVV zurückgezogen
+- TOP 37: Schulverweigerer bzw. Schüler mit schuldistanziertem Verhalten - überwiesen
+- TOP 38: Begrenzung der Abgas- und Geräuschemissionen motorisierter Wasserfahrzeuge - überwiesen
+- TOP 39: Gedenkveranstaltung 17. Juni 1953 im Jahre 2003 - ohne Änderungen in der BVV beschlossen
+- TOP 40: Ausschuss Eingaben und Beschwerden "on tour" - überwiesen
+- TOP 41: 1. FC Union - überwiesen
+- TOP 42: Frauenförderplan - mit Änderungen in der BVV beschlossen
+- TOP 43: Geänderte Grundlagen der flughafenbezogenen Planung für Schönefeld - überwiesen
+- TOP 44: Darstellung der Bezirksgeschichte im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 45: Fußgängerüberweg - Treptowe Park - überwiesen
+- TOP 46: Entlastung Köpenicker Altstadt nach Straßeneröffnung - überwiesen
+- TOP 47: Schaukästen an den Rathäudern für die Lokale Agenda 21 - vertagt
+- TOP 48: Glasfaserwerk Corning Cable in Berlin-Johannisthal - beantwortet
+- TOP 49: Ausfall von Sprachunterricht in den Oberschulen des Bezirkes Treptow-Köpenick - vertagt
+- TOP 50: Energie-Contracting - beantwortet
+- TOP 51: Wilhelminenhöfe - vertagt
+- TOP 52: Auswirkungen des Gewaltschutzgesetzes im Bezirk Treptow-Köpenick - beantwortet
+- TOP 53: Anmeldung für die Oberschule und Bildung der 7. Klassen zum Schuljahr 2002/2003
