@@ -1,0 +1,1 @@
+Auf Grund des Art. 7 des Gesetzes über die Gutachterstelle für die freiwillige Kastration und andere Behandlungsmethoden erläßt das Staatsministerium des Innern im Einvernehmen mit dem Staatsministerium der Justiz folgende Verordnung:
