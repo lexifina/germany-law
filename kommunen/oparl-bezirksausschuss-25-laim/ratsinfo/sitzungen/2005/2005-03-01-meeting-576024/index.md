@@ -1,0 +1,98 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2005-03-01T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/576024
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/576024
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.1.: Erweiterung der Kinderkrippe Mathunistr. 6
+- TOP 1.2.: Buslinie 131; Haltestelle Schäufeleinstraße stadtauswärts
+- TOP 1.3.: Taktausdünnung Buslinie 131
+- TOP 2: Anträge
+- TOP 2.1.: Sanierung der Riegerhofstraße zwischen Gotthard - und Valpichlerstraße
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Planungsreferat vom 18.01.05: Verlängerung der U 5 - West nach Pasing ( Empfehlung Nr. 58 der Bürgerversammlung des 21. Stadtbezirkes Bezirksteil Obermenzing vom 21.10.04 ) Anhörung zum Entwurf einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 4.2.: Schreiben Baureferat vom 18.01.05: Veranstaltung an der Von - der - Pfordten - Straße; Flohmarkt am 12.03.05
+- TOP 4.3.: Schreiben Baureferat vom 10.02.05: Veranstaltung am Laimer Anger; Osterfeuer am 27.03.05
+- TOP 4.4.: Schreiben Baureferat vom 04.02.05: Veranstaltung an der Von - der - Pfordten - Straße; Flohmarkt am 16.04.05
+- TOP 4.5.: Schreiben KVR vom 26.01.05: Errichtung eines personenbezogenen Behindertenparkplatzes in der Landsberger Str. 357
+- TOP 4.6.: Schreiben KVR vom 27.01.05: Änderung des Haltverbots in der Helmpertstraße; Anhörung zu einer verkehrsrechtlichen Anordnung
+- TOP 4.7.: Schreiben KVR vom 04.01.05: Burgkmairstr. 48 Seite Fachnerstraße; Lieferzone ( Vertagung aus der Sitzung vom 01.02.05 )
+- TOP 4.8.: Schreiben Referat für Arbeit und Wirtschaft vom 09.02.05: Umrüstung der Rolltreppen am Laimer Platz ( Empfehlung Nr. 25 der Bürgerversammlung vom 28.10.04 ) Anhörung zum Entwurf einer Beschlussvorlage für den Ausschuss für Arbeit und Wirtschaft am 12.04.05
+- TOP 5: Baumfällungen
+- TOP 5.1.: Antrag auf Fällung von 3 Fichten; Geyerspergerstr. 56
+- TOP 5.2.: Antrag auf Fällung von 1 Roteiche und 1 Platane; Rushaimerstr. 10
+- TOP 5.3.: Antrag auf Fällung von 2 Laubbäumen; Flintsbacher Str. 3
+- TOP 5.4.: Antrag auf Fällung von 1 Fichte; Agricolastr. 36
+- TOP 5.6: Baumfällungen in Verbindung mit Bauvorhaben ( Baumbestandspläne )
+- TOP 7: Bauvorhaben
+- TOP 7.1.: Schäufeleinstr. 20; Neubau eines Mehrfamilienhauses ( 14 WE ) mit Tiefgarage
+- TOP 7.2.: Agricolastr. 36; Neubau einer Wohnanlage ( 9 WE ) mit Tiefgarage
+- TOP 7.3.: Schreiben ESV - Laim vom 05.02.05: Projekt Lukas - Schule / ESV - Riegerhofstraße
+- TOP 0.&nbsp;: Sonstiges
+- TOP 8.1.: Schreiben Stadtkämmerei vom 17.01.05: Finanzplan 2004 - 2008
+- TOP 8.2.: Schreiben BA 21 Pasing -Obermenzing vom 17.01.05: Mobilfunk
+- TOP 8.3.: Schreiben BA 17 Obergiesing vom 11.01.05: Vergabe von Zuschüssen nur für Veranstalter von Kulturprogrammen in barrierefreien Räumen
+- TOP 8.4.: Schreiben Pädagogische Aktion / Spielen in der Stadt e. V. vom 20.01.05: Planung der Einsätze der Münchner SommerSpielAktion 2005
+- TOP 8.5.: Schreiben Baureferat vom 07.02.05: Einladung zu einer Informationsveranstaltung am 06.04.05
+- TOP 8.10: Protokolle
+- TOP 8.6.: Protokoll der BA - Sitzung vom 11.01.05
+- TOP 9: Umlauf
+- TOP 0.1.: Schreiben Baureferat vom 17.01.05: Vernachlässigung des Kleinsteinpflasters, z. B. in der Perhamerstraße ( Schreiben BA vom 17.12.04 )
+- TOP 0.2.: Schreiben Planungsreferat vom 07.02.05: Mathunistr. 6; Erweiterung der Kinderkrippe
+- TOP 0.3.: Schreiben Planungsreferat vom 19.01.05: Inderstorferstr. 16; Fällungsgenehmigung für 1 Eschenahorn
+- TOP 0.4.: Schreiben Planungsreferat vom 19.01.05: Weßlinger Str. 5; Fällungsgenehmigung für 1 Schwarzpappel
+- TOP 0.5.: Schreiben Planungsreferat vom 19.01.05: Fürstenrieder Str. 144; Fällungsgenehmigung für 2 Birken
+- TOP 0.6.: Schreiben Planungsreferat vom 19.01.05: Senftenauerstr. 2; Fällungsgenehmigung für 1 Eschenahorn
+- TOP 0.7.: Schreiben Planungsreferat vom 17.01.05: Joergstr. 6; Fällungsgenehmigung für 1 Rotfichte und 1 Walsnußbaum
+- TOP 0.8.: Schreiben Planungsreferat vom 17.01.05: Wilhelm - Riehl - Str. 50; Fällungsgenehmigung für 1 Fichte
+- TOP 0.9.: Schreiben Planungsreferat vom 17.01.05: Valpichlerstr. 121; Fällungsgenehmigung für 1 Schwarzkiefer sowie Genehmigung zur Kronenvolumenreduzierung an 1 Esche
+- TOP 0.10.: Schreiben Planungsreferat vom 18.01.05: Camerloherstr. 131; Fällungsgenehmigung für 1 Silberahorn sowie Genehmigung zur Kronenauslichtung an 4 Ahornbäumen, 2 Buchen und 1 Esche
+- TOP 0.11.: Schreiben Planungsreferat vom 18.01.05: Hogenbergstr. 3; Fällungsgenehmigung für 1 Schwarzpappel
+- TOP 0.12.: Schreiben Planungsreferat vom 18.01.05: Käpflstr. 5; Fällungsgenehmigung für 1 Bergahorn
+- TOP 0.13.: Schreiben Planungsreferat vom 18.01.05: Stürzerstr. 38; Fällungsgenehmigung für 1 Roßkastanie und 1 Eberesche
+- TOP 0.14.: Schreiben Baureferat vom 21.01.05: Unterrichtung über das Fällen von Gefahrenbäumen; Schule Camerloherstr. 110
+- TOP 0.1.: Schreiben KVR vom 01.02.05: Schank - und Speisewirtschaft " Müller Brot ", Elsenheimerstr. 57
+- TOP 0.2.: Schreiben KVR vom 28.01.05: Schank - und Speisewirtschaft " Galatasaray Treff ", Landsberger Str. 199
+- TOP 0.3.: Schreiben KVR vom 24.01.05: Schank - und Speisewirtschaft " Pub 9 ", Veit - Stoß - Str. 9
+- TOP 0.4.: Schreiben KVR vom 04.02.05: Schank - und Speisewirtschaft " Ristorante Peperone ", Pronnerplatz 6
+- TOP 0.1.: Schreiben Baureferat vom 03.02.05: Ausnahmebewilligung für einen Flohmarkt auf dem Hogenbergplatz am 09.04.05 und 17.09.05
+- TOP 0.2.: Schreiben Baureferat vom 03.02.05: Ausnahmebewilligung für einen Flohmarkt am Hogenbergplatz am 23.04.05
+- TOP 0.3.: Schreiben Baureferat vom 04.02.05: Ausnahmebewilligung für einen Flohmarkt am Agricolaplatz am 05.03.05
+- TOP 0.1.: Bautenlisten vom 17.01. - 23.01.05
+- TOP 0.1.1: Erstantragsverfahren a ) Joergstraße
+- TOP 0.1.2: Änderungsverfahren a ) Agricolastraße
+- TOP 0.2.: Bautenliste vom 24.01. - 30.01.05
+- TOP 0.2.1: Erstantragsverfahren a ) Gotthardstraße b ) Agnes - Bernauer - Straße c ) Endelhauserstraße d ) Gunzenlehstraße e ) Diesterwegstraße
+- TOP 0.3.: Bautenliste vom 31.01. - 06.02.05:
+- TOP 0.3.1: Erstantragsverfahren a ) Agricolastraße b ) Aindorferstraße c ) Schäufeleinstraße
+- TOP 0.3.2: Änderungsverfahren a ) Mitterhofstraße
+- TOP 0.3.3: Abbruchanzeigen, Zustimmungsverfahren etc. a ) Agricolastraße b ) Landsberger Straße
+- TOP 0.4.: Bautenliste vom 07.02. - 13.02.05:
+- TOP 0.4.1: Erstantragsverfahren a ) Hönlestraße
+- TOP 0.4.2: Abbruchanzeigen, Zustimmungsverfahren etc. a ) Gotthardstraße b ) Flotowstraße
+- TOP 0.1.: Schreiben Planungsreferat vom 04.02.05: Beantragte Abgeschlossenheitsbescheinigungen vom 16.01. - 31.01.05
+- TOP 0.1.: Beschluss der Vollversammlung vom 15.12.04: Zentrale Bahnflächen München, Hauptbahnhof - Laim - Pasing Bebauungsplan mit Grünordnung Nr. 1925 Nymphenburg Süd, Bahnlinie ( nördlich ) , Nymphenburger Schlosspark, Herthastraße, Wotanstraße ( westlich ) und Winfriedstraße ( südlich ) - ehemaliger Rangierbahnhof und ESV - Gelände - ( Änderung des Bebauungsplanes Nr. 768 ) Billigungsbeschluss
+- TOP 0.2.: Beschluss des Bauausschusses vom 18.01.05: Nulltoleranz gegenüber Schmutzfinken und keine Fixerspritzen auf Spielplätzen
+- TOP 0.3.: Beschluss in der gemeinsamen Sitzung des Kreisverwaltungsausschusses, Bauausschusses, Kulturausschusses und Ausschusses für Arbeit und Wirtschaft vom 15.02.05: Fortschreibung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.02.05: Bebauungsplan Nr. 1963, Fürstenrieder Str. 21 ( Teiländerung des Beb.Pl.Nr. 425 a ) / Aufstellungsbeschluss
+- TOP 0.5.: Beschluss des Verwaltungs - und Personalausschusses vom 03.02.05: Ablauf von Bürgerversammlungen; Keine Kommentierung der Anträge durch die Versammlungsleitung unmittelbar vor der Abstimmung
+- TOP 0.6.: Schriftverkehr aus der BA - Sitzung vom 11.01.05
+- TOP 0.7.: Schreiben Schul - und Kultusreferat vom 26.11.04: Protokoll zum Eltern - / Leiterinnen - Treffen im Kindergartenjahr 2004 / 2005
+- TOP 0.8.: Schreiben Referat für Gesundheit und Umwelt vom 09.02.05: Broschüre " Genuss und Qualität mit Bio - Lebensmittel in der Außer - Haus - Versorgung "
+- TOP 0: Antwortschreiben
+- TOP 0.&nbsp;: Vollzug der Baumschutzverordnung
+- TOP 0: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 0: Vollzug der Grünanlagensatzung
+- TOP 0: Bautenlisten
+- TOP 0: WEB &#8211; Listen
+- TOP 0: Stadtrats- und Ausschussbeschlüsse
