@@ -1,0 +1,59 @@
+# 37. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2005-03-17T16:00:00+01:00
+- Ende: 2005-03-17T19:50:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=581
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=581
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=31859
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_39 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Personelles/Wahlen - gegenstandslos
+- TOP 7.1: Neuwahl des Beirates in Sozialhilfeangelegenheiten <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, SozGes)</span> - gewählt
+- TOP 8: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 8.1: Straßenausbaumaßnahmen im Bezirk - schriftlich beantwortet
+- TOP 8.2: Straßenausbaubeitragsgesetz - schriftlich beantwortet
+- TOP 9: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 9.1: Hartz IV - 3, Förderdauer ausschöpfen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Petra Reichardt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Bebauungsplan 9-24 im Bezirk Treptow-Köpenick, Ortsteil Oberschöneweide hier: - Aufstellung des Bebauungsplans <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: - Entwurf des Bebauungsplans XV-21a und Begründung, - Entwurf der Rechtsverordnung zum Bebauungsplan XV-21a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.5: Bebauungsplan XVI-38 hier: Einstellung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Lichtsignalanlage für Stadtplatz/Ruska-Ufer <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Hartwig Studemund)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Freystadter Weg <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Udo Franzke)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Umwidmung der A113 von Waltersdorf bis zum Dreieck Treptow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Wendemöglichkeit in der Müggelheimer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Information der Bürgerinnen und Bürger über die neuen Grenzwerte für Luftschadstoffe <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Klaus Chinea Correa)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Verordnung über die Verlängerung der Veränderungssperre XV-27/13 für das Grundstück Schönefelder Chaussee 58 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 10.1: Benennung der Zufahrtsstraße zum Freizeit- und Erholungszentrum (FEZ) in Oberschöneweide in "Straße zum FEZ" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.2: Inhaltliche Planänderungen zum Bebauungsplanentwurf XVI-58 im Ortsteil Rahnsdorf <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 10.3: Genehmigung der im 1. Halbjahr 2004 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, PVFinWi)</span> - überwiesen
+- TOP 10.4: Aktualisierung des Sachstandes zur Beplanung der Flurstücke Fürstenwalder Damm 388 und Müggelseedamm 109/111 (ehemaliges ASMW-Gelände) im Bezirk Treptow-Köpenick, Ortsteil Friedrichshagen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 11: Anträge - gegenstandslos
+- TOP 11.1: Prozess der Lokalen Agenda 21 - überwiesen
+- TOP 11.2: Gedenktafel für Treptower Schiffsunglück <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bärbel König Verfasser 2: Stefan Förster)</span> - überwiesen
+- TOP 11.3: Wettbewerb "Mittendrin Berlin - Die Zentren-Initiative" - zurückgezogen
+- TOP 11.4: Sperrung der Straße zum Müggelturm <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - im Ältestenrat zurückgezogen
+- TOP 11.5: Wertausgleichskriterien - mit Änderungen in der BVV beschlossen
+- TOP 11.6: Staatliche Anerkennung als Erholungsort <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Oliver Igel)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Rahnsdorf-Süd - Anschluss an das öffentliche Abwassernetz - überwiesen
+- TOP 11.8: Personelle Unterstützung Lokale Agenda 21 - überwiesen
+- TOP 12: Große Anfragen - erledigt
+- TOP 12.1: Bürgerhaushalt - vertagt
+- TOP 12.2: Hartz IV - Umsetzung im Bezirk Treptow-Köpenick - vertagt
+- TOP 13: Vorlagen zur Beschlussfassung - erledigt
+- TOP 13.1: Sondermittel für Müggelheimer Heimatverein e.V. (SM 505) - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Sondermittel für Diakoniekreis Kietzer Feld (SM 507) - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Sondermittel für Alte Möbelfabrik e.V. (SM 512) - ohne Änderungen in der BVV beschlossen
