@@ -1,0 +1,76 @@
+# 20. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2003-09-25T16:00:00+02:00
+- Ende: 2003-09-25T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=308
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=308
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=39444
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - schriftlich beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_21 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - in der BVV abgelehnt
+- TOP 8: Vorzeitige Beendigung des Amtes einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorzeitige Beendigung des Amtes einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Wahl einer/eines Bürgerdeputierten und Stellvertreters für den Jugendhilfeausschuss - vertagt
+- TOP 11: Denkmal für die Opfer politischer Gewalt - beantwortet
+- TOP 12: Integration der ausländischen Mitbürger - schriftlich beantwortet
+- TOP 13: Sonderprogramme für Arbeitsplätze - aktive Arbeitsmarktpolitik auch im Bezirk Treptow-Köpenick - schriftlich beantwortet
+- TOP 14: Ausbildungssituation im Land Berlin - schriftlich beantwortet
+- TOP 15: Vorschlagswesen - vertagt
+- TOP 16: Entgeltverordnung der Volkshochschulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 17: Sondermittel für IQ 1185 e.V. (SM 304) - ohne Änderungen in der BVV beschlossen
+- TOP 18: Sondermittel für IG Dörpfeldstraße e.V. (SM 334) - ohne Änderungen in der BVV beschlossen
+- TOP 19: Sondermittel für Haven of Peace e.V. (SM 344) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 20: Sondermittel für Katholische Kirchengemeinde St. Josef (SM 349) - ohne Änderungen in der BVV beschlossen
+- TOP 21: Bebauungsplanentwurf XVI-17 - Planreife für die Grundstücke Friedrichshagener Str. 2-2H und das Flurstück 279 Gemarkung 515 Flur 465 im Bezirk Treptow-Köpenick, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 22: Bezirkshaushaltsrechnung 2002 - überwiesen
+- TOP 23: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2004 und 2005 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 24: Tempo 70 auf der Straße An der Wuhlheide - vertagt
+- TOP 25: Lärmminderungsplanung für die Altstadt Köpenick und Stadtteile Adlershof, Köllnische Vorstadt, Allende-Wendenschloss, Dammvorstadt - vertagt
+- TOP 26: Bebauungsplanentwurf XVI-6 im Ortsteil Müggelheim - Zustimmungsverfahren nach § 125 Abs. 2 BauGB für die Herstellung einer Erschließungsanlage gemäß § 127 Abs. 2 BauGB im Geltungsbereich eines Bebauungsplanentwurfes vor Festsetzung des Bebauungsplans - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 27: Einleitung des Planaufstellungsverfahrens zum Bebauungsplan XV-12-1 zur teilweisen Änderung des Bebauungsplans XV-12 für die Grundstücke Bouchéstraße 71-75 und Wildenbruchstraße 53-55 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 28: Bebauungsplanentwurf XV-64a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Niederschöneweide hier: Planreife für das Grundstück Schnellerstraße 20 E und G im Bezirk Treptow-Köpenick, Ortsteil Niederschöneweide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 29: Dieselabgase - ohne Änderungen in der BVV beschlossen
+- TOP 30: Verordnung über den Erlass der Veränderungssperre XV-27/13 für das Grundstück Schönefelder Chaussee 58 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 31: Weiterführung des Uferweges an der Spree im Block 1 des Sanierungsgebietes Köpenick Altstadt/Kietz Vorstadt Treppenabgang zum Katzengrabensteg auf die Baumgarteninsel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 32: Berichterstattung zum aktuellen Arbeitsstand der Arbeitsgruppe Kiezzentren und der Arbeitsgruppe Sozialräume der BVV - überwiesen
+- TOP 33: Benennung der Straße 87 in Altglienicke in "Am Pumpwerk" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 34: Abschlussbericht zur Untersuchung Grünauer Straße - vertagt
+- TOP 35: Italienische Wochen - vertagt
+- TOP 36: Denkmal auf dem Platz des 23. April - überwiesen
+- TOP 37: Geplante Förderung Rollheimerdorf 2004 - vertagt
+- TOP 38: Dienstfahrräder im Jugend- und Sozialamt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 39: Mustervertrag (Baubetreuungsvertrag) - ohne Änderungen in der BVV beschlossen
+- TOP 40: Fußgängerzone Grünstraße - überwiesen
+- TOP 41: Jugend- und Kulturzentrum "Für Toleranz - gegen Gewalt" - überwiesen
+- TOP 42: Wasserskianlage - mit Änderungen in der BVV beschlossen
+- TOP 43: Vergabe von Ingenieurleistungen - ohne Änderungen in der BVV beschlossen
+- TOP 44: Tempo 20 in Alt-Köpenick - überwiesen
+- TOP 45: Kein landesweiter Kindertagesstättenbetrieb, sondern eigenverantwortliche Entscheidung der Bezirke - ohne Änderungen in der BVV beschlossen
+- TOP 46: Schule am Plänterwald - überwiesen
+- TOP 47: Veränderung der Verkehrsorganisation an der Kreuzung Adlergestell/Wassersportallee - überwiesen
+- TOP 48: Tourismusleitsystem - überwiesen
+- TOP 49: Veränderung der Linienführung des 166-er Busses - ohne Änderungen in der BVV beschlossen
+- TOP 50: Kastanienrettung - vertagt
+- TOP 51: Tempo 30 Teilstück Dammweg - ohne Änderungen in der BVV beschlossen
+- TOP 52: Doppelhaushalt adé - vertagt
+- TOP 53: Nachnutzung Schulsportanlagen - überwiesen
+- TOP 54: UNESCO-Schule - überwiesen
+- TOP 55: Schuldruckerei Gesamtschule - überwiesen
+- TOP 56: Arbeitslehrebereich an der Gesamtschule - überwiesen
+- TOP 57: Behindertenzugänglichkeit am Gesamtschulstandort - überwiesen
+- TOP 58: Friedrichshagener Straße 08 - überwiesen
+- TOP 59: Liegenschaftsfonds - vertagt
+- TOP 60: Einbürgerung - vertagt
+- TOP 61: Baumaßnahmen in Friedrichshagen - vertagt
