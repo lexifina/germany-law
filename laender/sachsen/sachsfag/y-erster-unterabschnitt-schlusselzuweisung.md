@@ -1,0 +1,1 @@
+Erster Unterabschnitt Schlüsselzuweisungen nach mangelnder Steuerkraft an kreisangehörige Gemeinden

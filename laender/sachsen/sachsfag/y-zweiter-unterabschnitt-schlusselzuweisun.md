@@ -1,0 +1,1 @@
+Zweiter Unterabschnitt Schlüsselzuweisungen nach mangelnder Steuerkraft an Kreisfreie Städte
