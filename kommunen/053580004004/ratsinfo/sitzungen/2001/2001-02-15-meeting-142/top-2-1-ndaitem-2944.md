@@ -1,4 +1,4 @@
-# TOP 2.1.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+# TOP 2.1.: Umbau der Aula der Hauptschule Aldenhoven zu einer Begegnungsstätte; Beauftragung Entwurfsplanung
 
 - Sitzung: Gemeinderates (2001-02-15)
 - Körperschaft: Gemeinde Aldenhoven
