@@ -66,9 +66,9 @@ Dritter Teil Ordnungswidrigkeiten, Übergangs- und Schlußbestimmungen
 § 53 Einteilung der vorhandenen öffentlichen Straßen
 § 54 Straßen- und Bestandsverzeichnisse
 § 55 Ortsdurchfahrten
-§ 56 Umstufung
+§ 56 (aufgehoben)
 § 57 Gesetzlicher Eigentumsübergang
 § 58 Sondernutzung
-§ 59 Enteignungsentschädigung, Enteignungsverfahren
-§ 60 Anhängige Verfahren
+§ 59 (aufgehoben)
+§ 60 (aufgehoben)
 § 61 Schlußbestimmungen
