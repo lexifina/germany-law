@@ -1,0 +1,89 @@
+# 16. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2003-07-02T17:30:00+02:00
+- Ende: 2003-07-02T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=518
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=518
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - im Ausschuss abgelehnt
+- TOP 1.2: Abstimmung über die Tagesordnung - im Ausschuss abgelehnt
+- TOP 1.3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 1.3.1: Erhalt der Kleingärten in Pankow - in der BVV abgelehnt
+- TOP 1.4: Mündliche Anfrage - in der BVV abgelehnt
+- TOP 1.5: Bericht des Bezirksamtes - in der BVV abgelehnt
+- TOP 1.6: Konsensliste - in der BVV abgelehnt
+- TOP 1.7: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.8: Bebauungspläne Antrag - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Verwüstung des Mauerparks - beantwortet
+- TOP 1.10: Erhaltungssatzung Ostseestraße / Grellstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Umgang mit bauenden Investoren im Bezirk Pankow - beantwortet
+- TOP 1.12: Öffentliche Berichterstattung über die Arbeit des Stadtplanungsamtes von Pankow in den örtlichen Medien von Berlin - beantwortet
+- TOP 1.13: Nutzung der neuen Sporthalle in der Winsstraße - beantwortet
+- TOP 1.14: Lokale Energieagentur - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Nehlhans - Gedenktafel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.16: Berliner Größenwahn schädigt Pankower Wirtschaft - beantwortet
+- TOP 1.17: Erhalt des Heimatmuseums am Standort Weißensee - überwiesen
+- TOP 1.18: Entwurf des Doppelhaushaltsplanes 2004/2005 für den Bezirk Pankow (einschließlich Vorbericht sowie Stellenplan) - überwiesen
+- TOP 1.19: Pankow für Europa - Mitgliedeschaft in der Euregio Pomerania anstreben - überwiesen
+- TOP 1.20: Umweltbelange in der Bauleitplanung stärker berücksichtigen - überwiesen
+- TOP 1.21: Lärmminderung Langhansstraße - in der BVV zurückgezogen
+- TOP 1.22: Einrichtung zeitlich befristeter Parkmöglichkeiten und eines Behindertenparkplatzes - überwiesen
+- TOP 1.23: Ersatz fehlender Bäume - überwiesen
+- TOP 1.24: Freigabe der Ansätze für die Investitionsbaumaßnahmen Kapitel 4212, Titel 738 06 - Neubau der Zimbelstraße von Schönhauser Straße bis Wackenbergstraße im Bezirk Pankow Ortsteil Französisch Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Gebietssozialpläne in Erhaltungsgebieten - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Ausschuss für Tourismus - in der BVV abgelehnt
+- TOP 1.27: Tourismuskonzert - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Sportstätten für die Theresienschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Nachhaltiges Energiesparen - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Errichtung eines Fußgängerüberweges in der Schwedter Straße, zwischen Gleimstraße und Schwedter Steg - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Überblick über Fußgängerüberwege - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Bezirkshaushaltsrechnungen der Bezirke Prenzlauer Berg, Weißensee und Pankow von Berlin für das Haushaltsjahr 2000 - Ersuchen an das Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Einzelfahrschein "Kurzstrecke" - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Mietspiegel - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: "Freie Schule" in der Kastanienallee 82 - zurückgezogen
+- TOP 1.36: Entwicklung OT Pankow - Süd - zurückgezogen
+- TOP 1.37: Der Himmel über Pankow - Klimaschutz vor Ort - vertagt
+- TOP 1.38: Energiesparpartnerschaft zwischen dem Bezirk Pankow und Johnson Control - vertagt
+- TOP 1.39: Radfernwanderweg durch den Schloßpark Niederschönhausen und den Schloßpark Buch - mit Änderungen in der BVV beschlossen
+- TOP 1.40: Zur Entscheidungsfindung über die Varianten zum Ausbau des östlichen Teils der Heinz-Brandt-Straße (ehem. ABB-Straße) zum "PankowPark" - zurückgezogen
+- TOP 1.41: Keine bezirkliche Förderung des Mime Centrums Berlin/Erhalt der jungeKUNSTwerkstätten - überwiesen
+- TOP 1.42: Festlegung in Ergänzung zur Geschäftsordnung - Teilnehmerinnen- und Teilnehmerkreis bei nichtöffentlichen Tagungen der BVV bzw. Sitzungen von Ausschüssen - zurückgezogen
+- TOP 1.43: Sozialhilfeleistungen und gemeinnützige Arbeit - mit Änderungen in der BVV beschlossen
+- TOP 1.44: Planung der Personaleinsparung 2003 - 2006 - mit Änderungen in der BVV beschlossen
+- TOP 2: Komplex II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.1: Bauliche Mängel in der Kita "La Cigale" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Geschlechtergerechter Haushalt - ein erster Schritt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Märkte in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Bericht zu GA-Mitteln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Änderung des FNP im Teilbereich der ehemaligen Nordtangente - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Graffiti im Mauerpark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Heinz-Brandt-Straße in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Tempo 30 in der Langhansstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: ÖPNV-Anbindung von Pankow zum Alexanderplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Fahrradstraßen im Bezirk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Modernisierungsankündigungen der BauBeCon Holding AG im Milieuschutzgebiet "Ostseestraße / Grellstraße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Turnhallenbau Winsstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Schulnummernvergabe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Umzug der bestehenden "Gustave-Eiffel-Oberschule" (1.OH/OR pb), Kastanienallee 82 in 10435 Berlin in das Schulgebäude in der Hanns-Eisler-Str. 78 - 80 in 10409 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Übertragung der kommunalen Kindertagesstätte "Freche Früchtchen" Paul-Robeson-Straße 12/13, in 10439 Berlin, an den freien Träger "Kulturverein Prenzlauer Berg e. V. "Schönfließer Straße 07, in 10439 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Konkretisierung der sozialen Sanierungsziele für das Sanierungsgebiet Weißensee - Komponistenviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Aufgabe des Kindertagesstättenstandortes Lindenberger Straße 12 in 13156 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Fortschreibung des städtebaulichen Erneuerungs- und Handlungskonzeptes (Rahmenplan) für das Sanierungsgebiet Weißensee "Komponistenviertel" - Stand 02/2003 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Neubau der Zimbelstraße von Schönhauser Straße bis Wackenbergstraße im Bezirk Pankow, Ortsteil Französisch Buchholz Kapitel 4212, Titel 73806 Auswertung und Ergebnis der Bürgerbeteiligung zum Neubau der Zimbelstraße von Schönhauser Straße bis Wackenbergstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Benennung einer Straße in Saaler Bogen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Bebauungsplan XVIII-24-2 für das Gelände zwischen der öffentlichen Parkanlage am Hofzeichendamm, Ingwäonenweg, Siverstorpstraße, Gatterweg und dem Grundstück Gatterweg 17 im Bezirk Pankow, Ortsteil Karow zur Änderung des festgesetzten BebauungsplanesXVIII-24 Ergebnis der frühzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Ökologische Beratungsstelle für die Sanierungsgebiete im Bezirk Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Nutzung des Gebäudekomplexes Kastanienallee 82 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Nachnutzung des Schulgebäudes Kastanienallee 82 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Unterlagen zum Sanierungsbedarf der Schulen im Bezirk als Antwort auf die kleine Anfrage 0033/02 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Teilnahme von Schulen am Projekt "Schule ohne Rassismus" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Studie zur Überarbeitung der Bereichsentwicklungsplanung Weißensee für den Ortskern Heinersdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: Beschäftigungspolitik im Bezirk - schriftlich beantwortet
