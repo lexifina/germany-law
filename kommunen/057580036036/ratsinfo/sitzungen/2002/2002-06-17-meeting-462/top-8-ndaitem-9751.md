@@ -1,0 +1,6 @@
+# TOP 8.: Absicherung des Einmündungsbereiches Linnenbeeker Weg in die Winterbergstraße
+
+- Sitzung: ABD (2002-06-17)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/9751
