@@ -1,0 +1,15 @@
+# Die in die Satzungen einbezogenen Gebäude stellen im Zusammenhang räumliche Straßenkanten an Straßenzügen her, an denen sich die Stadt Halle (Saale) repräsentiert. Momentan sind die in die Satzungen integrierten Straßenzüge noch geschlossen erhalten.
+
+- Gemeinde: Stadt Halle (Saale) (ARS 150020000000)
+- Datum: 1997-08-18 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.halle.de/fileadmin/Binaries/Verwaltung/Stadtpolitik_und_Ortsrecht/Satzungen_und_Verordnungen/GB_II_Stadtentwicklung_Umwelt/FB_Staedtebau_und_Bauordnung/EHS_9_10_11_12_Begruendung_zur_Satzung.pdf
+- Text: PDF der Stadt, Textschicht (pdftotext)
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+Begründung
+Die in die Satzungen einbezogenen Gebäude stellen im Zusammenhang räumliche Straßenkanten an Straßenzügen her, an denen sich die Stadt Halle (Saale) repräsentiert. Momentan sind die in die Satzungen integrierten Straßenzüge noch geschlossen erhalten. Durch einen Sanierungsstau stehen jetzt viele Häuser leer.
+Ein Wegbrechen der Straßenkanten würde die städtebauliche Eigenart der Gebiete vollständig verändern. Die Typik der Gebiete mit straßenbegleitender Bebauung, die das Rückrat für die anschließenden Gebiete bilden und die Ablesbarkeit der städtebaulichen Entwicklung wäre unwiederbringlich verloren.
+Zur Stärkung dieser städtebaulich wertvollen Strukturen ist es notwendig, dass die vom Gesetzgeber angebotenen Erleichterungen aufgegriffen werden. Es sind Objekte ausgewählt worden, bei denen damit gerechnet werden muss, dass eine Lücke zwischen ungefördertem, jedoch erforderlichem Investitionsvolumen bei der Sanierung und spätere Einnahmemöglichkeit entsteht. Die Folge wären Rückgang der Investitionstätigkeit in diesen so wichtigen Bereichen, fortschreitender Leerstand und Aufgabe der Gebäude bis hin zum Verfall.
+Durch die Erhaltungssatzungen können Investoren Investitionszulagen des Bundes nach dem lnvestitionszulagegesetz vom 18.08.1997 (BGBI. IS. 2070ff.) in Höhe von bis zu 22% des lnvestvolumens erzielen (vgl.§3 Abs. 1 Ziff.4 Lit.b des vorgenannten Gesetzes). Mit der lnkrafttretung dieser Satzung sind keine Ansprüche gegen die Stadt - seien es Ausgleichszahlungen, seien es Übernahmeansprüche - verbunden - eine solche Satzung stellt keinen enteigneten Eingriff dar (vgl. Ernst /Bielenberg /Zinkhahn, Kommentar zum BauGB, Loseblattsammlung Stand September 2000, §173 Rdnr.33). Allenfalls beim Vollzug dieser Satzung - wenn die Kommune die jeweiligen Bau- und Umnutzungsanträge zu prüfen hat, wären derartige Ansprüche der Investoren denkbar - aber eben nur, sollte die Stadt entsprechende Investitionen katekorisch ablehnen unter Hintenanstellung jedweder wirtschaftlicher Zwänge. Da dies gerade nicht bezweckt ist, vielmehr Investitionen erleichtert werden sollen durch Satzungen, ist ein Haftungs- und Entschädigungsrisiko der Stadt hier auszuschließen. Es bleibt beim Vorteil der ganz erheblichen Investitionsvergünstigung für Investitionen nach dem lnvestitionszulagegesetz.
