@@ -1,0 +1,270 @@
+---
+ecli: "ECLI:DE:BGH:2003:130103XIZR14.02.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-11"
+aktenzeichen: "XI ZR 14/02"
+decided: "2003-01-13"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2003&Sort=1&Seite=2&nr=25544&anz=2892&pos=60&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-11_NA_2003-01-13_XI_ZR_14_02_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/zpo/0044.md", "germany/bund/acts/zpo/0046.md", "germany/bund/acts/zpo/0294.md", "germany/bund/acts/zpo/0567.md", "germany/bund/acts/zpo/0569.md", "germany/bund/acts/zpo/0574.md"]
+---
+
+# Bundesgerichtshof, XI ZR 14/02 vom 2003-01-13
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+
+                   BESCHLUSS
+XI ZR 14/02
+
+                          vom
+
+                    13. Januar 2003
+
+
+                   in dem Rechtsstreit
+
+                                  -2-
+
+
+
+Der XI. Zivilsenat des Bundesgerichtshofes hat am 13. Januar 2003
+durch die Richter Dr. Appl, Prof. Dr. Goette, Dr. Kurzwelly, Kraemer und
+die Richterin Münke
+
+
+beschlossen:
+
+
+      Die sofortige Beschwerde des Klägers gegen den Beschluß des XI. Zivilsenats des Bundesgerichtshofs
+      vom 14. Mai 2002 wird auf seine Kosten als unzulässig
+      verworfen.
+
+
+      Die Ablehnungsgesuche des Klägers gegen die Richter   am   Bundesgerichtshof    Dr. B.,   Dr. M.,   Dr. J.,
+      Dr. Wa. und die Richterin am Bundesgerichtshof Ma.
+      werden für unbegründet erklärt.
+
+
+
+
+                                Gründe:
+
+
+                                     I.
+
+
+      Der Kläger macht gegen die beklagte Bank im Zusammenhang mit
+der von ihm als "drückervermittelte Wohnungsfinanzierung" bezeichneten
+Darlehensaufnahme für den Erwerb einer Eigentumswohnung Schadensersatz- und Bereicherungsansprüche geltend. Seinen in der Berufungsinstanz erfolglos gebliebenen Klageantrag verfolgt er mit der Revision
+weiter.
+
+                                  -3-
+
+
+
+      Mit Schriftsatz vom 4. April 2002 - ergänzt durch weitere Schriftsätze vom 24. April und 13. Mai 2002 - hat er den Vorsitzenden Richter
+am Bundesgerichtshof N. und den Richter am Bundesgerichtshof Dr. S.
+wegen Besorgnis der Befangenheit abgelehnt und hierzu im wesentlichen folgendes vorgetragen: Die im Schrifttum weit überwiegend abgelehnte Rechtsprechung des XI. Zivilsenats zu den sog. "drückervermittelten Wohnungsfinanzierungen" offenbare eine verbraucherfeindliche,
+die Interessen der Banken in besonderem Maße bevorzugende Einstellung der abgelehnten Richter. Anders sei ihre als "Rechtsbeugung durch
+Verletzung des Anspruchs auf rechtliches Gehör" qualifizierte Rechtsprechung, die davon gekennzeichnet sei, daß sie Vorbringen der betroffenen Anleger nicht vollständig zur Kenntnis nehme, nicht erklärlich.
+Als Referenten bankrechtliche Fragen behandelnder Seminare seien sie
+verschiedentlich zusammen mit dem als "Cheflobbyisten" der Banken
+bezeichneten Dr. Br. in der Öffentlichkeit aufgetreten und hätten damit
+ihre Nähe zu den Kreditinstituten deutlich gemacht. Sie hätten den "Verdacht der Bestechlichkeit" hervorgerufen, weil sie verschiedentlich, u.a.
+bei dem von den - wie gerichtsbekannt ist - banknahen "W." am 18. und
+19. Mai 2001 in P. veranstalteten Seminar als Referenten aufgetreten
+seien und für ihre Mitwirkung Honorare bezogen hätten, die entweder
+aus den sehr hohen Teilnehmergebühren oder aber von den letztlich
+hinter dem Veranstalter stehenden Banken aufgebracht worden seien.
+Äußerungen des Richters am Bundesgerichtshof Dr. S. während der Diskussion am 18. Mai 2001 hätten drei laufende Revisionsverfahren betroffen; der abgelehnte Richter habe erklärt, das betreffende Oberlandesgericht habe den Verbraucherschutz auf seine Fahne geschrieben,
+"diesem Spuk" müsse "ein Ende bereitet werden". Dieser Ankündigung
+
+                                   -4-
+
+
+
+folgend habe der XI. Zivilsenat später die erwähnten Entscheidungen
+aufgehoben.
+
+
+        Der Vorsitzende Richter am Bundesgerichtshof N. habe in einem in
+der Universität L. gehaltenen Festvortrag Ausführungen gemacht, die
+- vor allem im Hinblick auf abfällige Äußerungen über die Rechtsprechung des Gerichtshofs der Europäischen Gemeinschaften und über abweichende Literaturmeinungen - den Eindruck hervorrufen müßten, daß
+er sich als "Rechtsgestalter" und nicht als an das Gesetz gebundener
+"Rechtsanwender" verstehe.
+
+
+        Zur Glaubhaftmachung eines Teils seines Vorbringens hat sich der
+Kläger auf die eidesstattliche Versicherung einer Redakteurin der Zeitschrift "F." und einen schriftlichen Bericht eines Rechtsanwalts bezogen,
+der an dem W.-Seminar in P. teilgenommen hat und seine "Angaben anwaltlich versichert" hat. Die abgelehnten Richter haben sich zu den Gesuchen dienstlich geäußert. Die Richtigkeit ihrer Angaben hat Rechtsanwalt beim Bundesgerichtshof Prof. Dr. K., der ebenfalls an dem genannten W.-Seminar teilgenommen hat, "voll und ganz bestätigt".
+
+
+        Durch Beschluß vom 14. Mai 2002 sind die Ablehnungsgesuche
+als unbegründet zurückgewiesen worden. Hiergegen hat der Kläger sofortige Beschwerde eingelegt und unter Bezugnahme auf seine Angriffe
+gegen     die   angefochtene   Entscheidung   die   fünf   Mitglieder   des
+XI. Zivilsenats, welche diesen Beschluß gefaßt haben, ebenfalls wegen
+Besorgnis der Befangenheit abgelehnt. Ergänzend stützt der Kläger sich
+darauf, daß der Senat unter Mitwirkung der beiden abgelehnten Richter
+am 4. Juni 2002, also wenige Tage nach Zustellung des angefochtenen
+
+                                   -5-
+
+
+
+Beschlusses, in dem Verfahren XI ZR 357/01 die Revision der Klägerin,
+welche die Richter ebenfalls wegen Besorgnis der Befangenheit abgelehnt hatte, nicht zur Entscheidung angenommen hat.
+
+
+      Die abgelehnten Richter haben sich dienstlich geäußert; der Kläger hatte Gelegenheit, hierzu Stellung zu nehmen. Richter am Bundesgerichtshof Dr. S. ist wegen Erreichens der Altersgrenze mit Ablauf des
+Monats November 2002 in den Ruhestand getreten.
+
+
+
+
+                                   II.
+
+
+      Die sofortige Beschwerde gegen den Beschluß vom 14. Mai 2002
+ist unzulässig, die gegen die übrigen Richter des XI. Zivilsenats gerichteten Ablehnungsgesuche sind nicht begründet. Das gilt nicht nur hinsichtlich der einzelnen angeführten Ablehnungsgründe, sondern auch
+bezüglich ihrer Gesamtwürdigung.
+
+
+      1. Nach § 46 Abs. 2 ZPO i.V.m. § 567 Abs. 1 ZPO findet die sofortige Beschwerde allein gegen bestimmte im ersten Rechtszug erlassene
+Entscheidungen der Amtsgerichte und der Landgerichte statt. Nach der
+seit dem 1. Januar 2002 geltenden Fassung der Zivilprozeßordnung wäre
+die sofortige Beschwerde deswegen auch nicht eröffnet, wenn ein Senat
+des Oberlandesgerichts ein gegen eines seiner Mitglieder gerichtetes
+Ablehnungsgesuch für unbegründet erklärt; in einem solchen Fall wäre
+vielmehr nach § 574 Abs. 1 Nr. 2 ZPO nur die Rechtsbeschwerde statthaft, soweit sie von dem Oberlandesgericht in seinem Beschluß zugelassen worden ist (vgl. Zöller/Vollkommer, ZPO, 23. Aufl., § 46 Rdn. 14a).
+
+                                   -6-
+
+
+
+Gegen einen entsprechenden Beschluß des Bundesgerichtshofs sieht
+das Gesetz nicht einmal diese eingeschränkte Möglichkeit der Überprüfung der getroffenen Entscheidung vor.
+
+
+      Es bedarf keiner abschließenden Entscheidung, ob der Kläger
+stattdessen Gegenvorstellungen gegen die angefochtene Entscheidung
+erheben könnte (vgl. für Entscheidungen des OLG Zöller/Vollkommer,
+aaO § 46 Rdn. 14a am Ende). Denn diese hätten jedenfalls in der Sache
+keinen Erfolg. Soweit eine solche Gegenvorstellung das gegen den
+Richter am Bundesgerichtshof Dr. S. gerichtete Ablehnungsgesuch betrifft, ist dasselbe mit seinem Ausscheiden aus dem aktiven Dienst ohnehin unzulässig geworden (vgl. Thomas/Putzo, ZPO, 24. Aufl., § 46
+Rdn. 8); hinsichtlich des Vorsitzenden Richters am Bundesgerichtshof N.
+hätte sie - wie sich aus den Ausführungen zu Ziff. 2. im einzelnen ergibt -
+in der Sache keinen Erfolg.
+
+
+      2. Weder die Spruchpraxis des XI. Zivilsenats zu den von dem
+Kläger sog. "drückervermittelten Wohnungsfinanzierungen" noch die
+Mitwirkung an der angefochtenen Entscheidung oder dem Nichtannahmebeschluß vom 4. Juni 2002 (XI ZR 357/01) begründen die Besorgnis
+der Befangenheit der abgelehnten Richter.
+
+
+      Im Ablehnungsverfahren nach der Zivilprozeßordnung ist nicht
+darüber zu entscheiden, ob der Richter befangen ist, sondern ob aus der
+Sicht einer objektiv und vernünftig urteilenden Partei die Besorgnis besteht, der zur Entscheidung berufene Richter stehe der Sache nicht unvoreingenommen und unparteiisch gegenüber (st. Rspr. Nachw. bei
+Zöller/Vollkommer, aaO § 42 Rdn. 9). Zu dieser Vorstellung kann eine
+
+                                  -7-
+
+
+
+nach diesem objektivierten Maßstab urteilende Partei nicht allein deswegen gelangen, weil der Richter in seiner bisherigen Spruchtätigkeit oder
+im Rahmen wissenschaftlicher Erörterungen einen Rechtsstandpunkt
+eingenommen hat, der der ablehnenden Partei ungünstig ist; denn das
+Ablehnungsverfahren dient nicht dazu, einer Partei die Handhabe zu geben, einen ihr genehmen, nämlich ihrem Anliegen gewogenen Richter
+auszuwählen; es soll nur verhindern, daß ein Richter über die Rechtssache entscheidet, der die zur Entscheidung stehenden Fragen - und damit
+auch seine bisher vertretene Ansicht - im Lichte der ihm unterbreiteten
+Argumente nicht unvoreingenommen und kritisch prüft und den Eindruck
+hervorruft, in seiner Ansicht festgelegt oder gegenüber einer Partei ablehnend gesonnen zu sein.
+
+
+      Diese Voraussetzungen sind von dem Kläger nicht glaubhaft gemacht worden (§ 294 ZPO i.V.m. § 44 Abs. 2 ZPO). Insbesondere besteht kein Anlaß zu der Annahme, der XI. Zivilsenat entscheide grundsätzlich zugunsten der Banken.
+
+
+      Zu dieser Überzeugung kann eine vernünftig und ihrerseits nicht
+voreingenommen urteilende Partei auch nicht deswegen gelangen, weil
+Richter sich an dem in Deutschland üblichen wissenschaftlichen Diskurs
+beteiligen und in diesem Zusammenhang sich nicht nur literarisch, sondern auch in Diskussionsveranstaltungen äußern, dabei die Leitlinien der
+Senatsrechtsprechung verdeutlichen und sich der Kritik von Wissenschaft und Praxis stellen. Auch kritische Äußerungen gegenüber anderen
+Ansichten - mögen sie von Gerichten, Wissenschaftlern oder praktisch
+tätigen Juristen vertreten werden - rechtfertigen die Besorgnis der Befangenheit nicht, soweit deutlich wird, daß es sich bei der von dem
+
+                                  -8-
+
+
+
+Richter vertretenen Meinung um eine vorläufige Stellungnahme handelt,
+die er bei besseren Argumenten zu revidieren bereit ist.
+
+
+      Das gilt auch, wenn ein solcher Meinungsaustausch in Foren stattfindet, welche von Institutionen veranstaltet werden, hinter denen bestimmte Interessengruppen stehen, und wenn den teilnehmenden richterlichen Referenten für ihre Vorbereitung und Mitwirkung ein Honorar
+gezahlt wird. Denn niemand, der objektiv urteilt, wird annehmen, daß ein
+Richter sich wegen eines solchen Honorars in seiner spruchrichterlichen
+Tätigkeit beeinflussen, also - wie der Kläger es bezeichnet hat - den
+Verdacht der Bestechlichkeit aufkommen lassen wird. Das gilt selbst
+dann, wenn man - wie der Kläger in seiner Beschwerdeschrift - annehmen wollte, die beiden Richter des XI. Zivilsenats hätten sich das von
+den Teilnehmern der W.-Veranstaltung aufgebrachte gesamte Gebührenaufkommen geteilt. Davon abgesehen ist die dieser Vorstellung
+zugrundeliegende Rechnung offensichtlich abwegig, denn jede sachlich
+urteilende Partei wird erwägen, daß der Veranstalter für die Konzeption,
+die Vorbereitung und die Durchführung einer solchen in angemieteten
+Räumen stattfindenden Diskussionsveranstaltung erhebliche Mittel aufwenden muß und daß deswegen allen - und nicht nur den richterlichen -
+Referenten lediglich ein geringes Honorar gezahlt werden kann, das
+- ermittelt man Stundenhonorarsätze - weit unter den Beträgen liegt, die
+Rechtsberater ihren Mandanten in Rechnung zu stellen pflegen.
+
+
+      Auch der Umstand, daß der XI. Zivilsenat nach der Behauptung
+des Klägers regelmäßig in dem Zusammenhang der sog. "drückervermittelten Wohnungsfinanzierungen" zu Lasten der Anleger entschieden
+hat, begründet nicht den Vorwurf der Voreingenommenheit. Eine sachlich
+
+                                  -9-
+
+
+
+urteilende und nicht einseitig von der Richtigkeit des eigenen Standpunkts überzeugte Partei würde nämlich nicht - wie der Kläger, der in
+diesem Zusammenhang den Vorwurf der Rechtsbeugung erhebt - aus
+dieser Judikatur den Schluß ziehen, daß das Gericht ihre Erwägungen
+nicht zur Kenntnis nimmt und willkürlich handelt, sondern sie würde sich
+fragen, ob entweder die eigenen Argumente nicht tragfähig genug sind
+oder ob es an ihrer hinreichenden Darstellung im Prozeß gemangelt hat,
+um den Richter zu überzeugen. Eine seinem Anliegen gegenüber voreingenommene Einstellung kann der Kläger auch nicht daraus herleiten,
+daß er in diesem Zusammenhang bemängelt, der XI. Zivilsenat und vor
+allem sein Vorsitzender gäben dem Gesichtspunkt der Rechtssicherheit
+vor dem der Einzelfallgerechtigkeit den Vorzug; denn eben diese Vorgehensweise ist dem Bundesgerichtshof mit dem jüngst reformierten Revisionsverfahren durch den Gesetzgeber aufgegeben worden.
+
+
+      Voreingenommenheit der Richter des XI. Zivilsenats kann auch
+nicht daraus hergeleitet werden, daß sie den Ablehnungsgesuchen gegen den Vorsitzenden Richter am Bundesgerichtshof N. und den Richter
+am Bundesgerichtshof Dr. S. im Hinblick auf deren angebliche Äußerungen in P. und L. nicht entsprochen haben. Ob das Vorbringen des Klägers durch die von ihm vorgelegten Schilderungen von Frau La. und
+Rechtsanwalt Dr. Sc. auch unter Berücksichtigung der gegenteiligen
+Darstellungen der abgelehnten Richter und des Rechtsanwalts am Bundesgerichtshof Prof. Dr. K. als glaubhaft gemacht anzusehen ist, ist ein
+Akt wertender richterlicher Erkenntnis; der Kläger verkennt die Bedeutung der Glaubhaftmachung, wenn er erwartet, die bloße Vorlage von
+seine Vorwürfe teilweise bestätigenden Schriftstücken reiche für die gebotene Glaubhaftmachung aus, so daß das Gericht, das dem nicht folge,
+
+                                 - 10 -
+
+
+
+seine fehlende Unvoreingenommenheit offenbare und deswegen mit Erfolg abgelehnt werden könne.
+
+
+       Zu Unrecht leitet der Kläger schließlich die Besorgnis der Befangenheit daraus her, daß der XI. Zivilsenat in der Sache XI ZR 357/01 am
+4. Juni 2002 - unter Mitwirkung der abgelehnten Richter - die Nichtannahme der von der Klägerin jenes Rechtsstreits eingelegten Revision
+beschlossen hat. Es beruht auf einer Verkennung der nach der Zivilprozeßordnung bestehenden Rechtsmittelmöglichkeiten, wenn er meint, der
+Senat habe vor "Ablauf der Notfrist" des § 569 ZPO nicht entscheiden
+dürfen, weil der Beschluß vom 14. Mai 2002 vorher nicht in formelle
+Rechtskraft erwachsen sei. Wie oben ausgeführt, ist das von dem Kläger
+für gegeben erachtete Rechtsmittel der sofortigen Beschwerde nicht
+statthaft.
+
+
+
+Appl                           Goette                         Kurzwelly
+
+             Kraemer                           Münke
