@@ -1,0 +1,76 @@
+# 27. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2004-04-21T17:00:00+02:00
+- Ende: 2004-04-21T22:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=583
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=583
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=22381
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - im Ausschuss abgelehnt
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Sicherstellung der Betreuungsqualität in Kitas während der Ferienzeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Übertragung der Einrichtung "Freizeit- und Übernachtungsstätte Kinderwald" an einen freien Träger - überwiesen
+- TOP 2.3: Aufstellen der Vorschlagslisten für die Wahl der ehrenamtlichen Richter/Richterinnen beim Verwaltungsgericht und Oberverwaltungsgericht Berlin für die Geschäftsjahre 2005 - 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 2.4: Keine Behinderungen durch Trödelmarkt/Markstraße - ohne Änderungen in der BVV beschlossen
+- TOP 2.5: Gen-Food - überwiesen
+- TOP 2.6: Gastanks in Kleingärten - überwiesen
+- TOP 2.7: Bericht über die Gewalt an Reinickendorfer Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Feststellungen - (offen)
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gem. § 25 BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Stärkung der kommunalen Selbstverwaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Gemeinde 'Auf dem Weg' Evangelische Freikirche e. V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Europäisches Jahr der Erziehung durch Sport 2004 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Keine Schlechterstellung behinderter Menschen / Blindengeld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: Abordnung des Durchfahrverbotes Fürstendamm / B96 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Weitere Offenhaltung des Hallenbades in der Seestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Information über die Humboldt-Bibliothek - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Bebauungsplanentwurf 12-7 B Ergebnis der frühzeitigen Bürgerbeteiligung - überwiesen
+- TOP 6.9: Bebauungsplanentwurf 12-7 B Ergebnis der Trägerbeteiligung - überwiesen
+- TOP 6.10: Erfahrungsbericht der Patientenfürsprecherin des Krankenhauses Reinickendorf der Vivantes GmbH ö. B. KBoN - Psychiatrie - für das Jahr 2003 - überwiesen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Spielstättenmanagement in Reinickendorf - beantwortet
+- TOP 7.2: Weihnachtsmarkt 2004 in Tegel - beantwortet
+- TOP 7.3: Umsetzung des Landespflegegeldgesetzes vom 17.12.2003 in Reinickendorf - beantwortet
+- TOP 7.4: Maßregelvollzug in Reinickendorf - beantwortet
+- TOP 7.5: Internet-Auftritt des Bezirks Reinickendorf - vertagt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Wahl einer Patientenfürsprecherin für das Vitanas-Krankenhaus für Geriatrie - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Feuerwache Tegel - in der BVV abgelehnt
+- TOP 9.2: Verkehrssicherheit im Bezirk: Besser zur Schule laufen, als zu fahren. - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Lärmminderungsplanung für Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Extra-Förderung für Begabte in benachteiligten Ortsteilen - erledigt
+- TOP 9.5: Entwicklung des Berliner Bildungsprogramms für Kindertagesstätten - in der BVV zurückgezogen
+- TOP 9.6: Frauengesundheitsförderung - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Denkmal am Ende der Wiltinger Straße in Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Übergang zur Romain-Rolland-Oberschule - erledigt
+- TOP 9.9: Schnellstmögliche Behandlung von Schlaganfallpatienten - überwiesen
+- TOP 9.10: Veranstaltungskonzept für das Centre Bagatelle - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Wirtschaftsentwicklung in Geschäftsstraßen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Graphothek im Fontane-Haus - ohne Änderungen in der BVV beschlossen
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Girl´s Day 2004 - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Kindergeburtstag im Heimatmuseum - überwiesen
+- TOP 11.3: Verbesserung des Gesundheitsbewusstseins von Kindern - überwiesen
+- TOP 11.4: Bezirkskasse modernisieren - überwiesen
+- TOP 11.5: Volkshochschule im Tegel-Center - überwiesen
+- TOP 11.6: Modellprojekt "5. Klasse-Start Realschule" - überwiesen
+- TOP 11.7: Informationsveranstaltungen zum Übergang an Oberschulen - überwiesen
+- TOP 11.8: Broschüre "Reinickendorf im Blickpunkt" nicht weiter auslegen - in der BVV zurückgezogen
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Nachtschaltung an Lichtzeichenanlagen - überwiesen
+- TOP 12.2: Gemüsestand am Wilhelmsruher Damm Ecke Dannenwalder Weg - überwiesen
+- TOP 12.3: Kein Befahren des Marktplatzes im Märkischen Viertel - überwiesen
+- TOP 13: Weihnachtsmarkt in Tegel - überwiesen
+- TOP 14: Weihnachtsmarkt in Tegel - überwiesen
