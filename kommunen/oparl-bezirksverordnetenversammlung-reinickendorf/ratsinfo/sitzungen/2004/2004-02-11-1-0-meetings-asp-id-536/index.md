@@ -1,0 +1,75 @@
+# 25. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2004-02-11T17:00:00+01:00
+- Ende: 2004-02-11T21:05:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=536
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=536
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Wahl der Vertrauenspersonen für den Schöffenwahlausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Benennung eines Mitglieds der BVV für den bezirklichen Krankenhausbeirat der VIVANTES GmbH - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Synchronisierung der Anmeldefristen für Schule und Hort - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Kooperation zwischen der VHS und anderen Bildungsträgern - überwiesen
+- TOP 5.3: Projekt "Lernen aus der Geschichte" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Pläne zum Havelausbau stoppen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Reitweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Förderung hochbegabter Schülerinnen und Schüler - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Zustimmung der BVV bei Vertragsänderungen betreffend Poloplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Weiterentwicklung des Reinickendorfer Umwelttages - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Formulierung der Ausnahmezulassungen zur Lärmverordnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Wiederaufnahme des Betriebs der Personen-Fähre Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Bekämpfung der Wildschweinplage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Hinweise an Hundeauslaufgebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Erhalt der entgeltfreien Nutzung der Bäder durch die Sportvereine - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Gewährleistung des unentgeltlichen Schulschwimmens - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.15: Liberalisierung der Berliner Baumschutzverordnung - überwiesen
+- TOP 5.16: Erfahrungsbericht der Patientenfürsprecherin des Dominikus-Krankenhauses für das Jahr 2003 - überwiesen
+- TOP 5.17: Vollzug des Kreislaufwirtschafts- und Abfallgesetzes im Bezirksamt Reinickendorf - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Wirtschaftsentwicklung in Geschäftstraßen - überwiesen
+- TOP 6.2: Aussagenvielfalt zur Kita-Übertragung Bernauer Straße - beantwortet
+- TOP 6.3: Ausgeh-Verbot für Kinder unter 14 Jahren - beantwortet
+- TOP 6.4: Kürzungen im Kulturetat - überwiesen
+- TOP 6.5: Hartz III und IV und soziokulturelle Projekte im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 6.6: sog. Schulschwänzerprojekt "Leona" - überwiesen
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Verordnung über die Veränderungssperre 12-7 B / 42 - überwiesen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.2: Barrierefreiheit für www.reinickendorf.de - überwiesen
+- TOP 8.3: Sicherstellung der Betreuungsqualität in Kitas während der Ferienzeit - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Publikationen des Bezirksamtes - mit Änderungen in der BVV beschlossen
+- TOP 8.5: Statistische Regionen - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Arbeitszeitguthaben der Mitarbeiterinnen und Mitarbeiter des Bezirksamtes - in der BVV abgelehnt
+- TOP 8.7: Europäisches Jahr der Erziehung durch Sport 2004 - mit Änderungen in der BVV beschlossen
+- TOP 8.8: Bezirkshaushaltsrechnung für das Haushaltsjahr 2002 - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Außenstände von Kita-Beiträgen einbehalten - erledigt
+- TOP 8.10: Abordnung des Durchfahrverbotes Fürstendamm / B96 - ohne Änderungen in der BVV beschlossen
+- TOP 8.11: Mehr Verkehrssicherheit für die Nutzer des Centre Bagatelle - ohne Änderungen in der BVV beschlossen
+- TOP 8.12: Parkverbot an der Durchfahrt Mittelstreifen Wiltinger Straße - erledigt
+- TOP 8.13: Halteverbot in der Titiseestraße - ohne Änderungen in der BVV beschlossen
+- TOP 8.14: Abschaffung der Sozialkarte - ohne Änderungen in der BVV beschlossen
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: Information über die Humboldt-Bibliothek - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Fortführung des sog. Schulschwänzerprojekts "Leona" auf der Insel Scharfenberg - überwiesen
+- TOP 9.3: Schulsanitätsdienst des ASB - überwiesen
+- TOP 9.4: Einladungen zu BVV-Sitzungen ins Internet stellen - überwiesen
+- TOP 9.5: Veranstaltungskonzept für das Centre Bagatelle - überwiesen
+- TOP 9.6: Übernachtungsplätze für Wohnmobile einrichten - überwiesen
+- TOP 9.7: Ratten in Wohngebieten - überwiesen
+- TOP 9.8: rechtswidrige Sondernutzung öffentlichen Straßenlandes - ohne Änderungen in der BVV beschlossen
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: Halteverbotsschild Buddestraße Ecke Waidmannsluster Damm - überwiesen
+- TOP 10.2: Parkverbot in der Buddestraße an der Einmündung zum Waidmannsluster Damm - überwiesen
+- TOP 11: Wirtschaftsentwicklung in Geschäftsstraßen - überwiesen
