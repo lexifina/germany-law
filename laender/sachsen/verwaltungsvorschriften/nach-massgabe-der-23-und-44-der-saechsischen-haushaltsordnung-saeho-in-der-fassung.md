@@ -1,8 +1,8 @@
 # nach Maßgabe der §§ 23 und 44 der Sächsischen Haushaltsordnung ( SäHO) in der Fassung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2004-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/3068.2
+- Datum: 2005-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/3068.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -204,221 +204,91 @@ Rechtsvorschrift
 
 Beteiligung des SMS an den von der TSK zu tragenden Kosten bis zu
 
-|
+|  1
+| Programm Stutengesundheitsdienst der Sächsischen Tierseuchenkasse vom 26. März 1997
+| 70 %
 
-1
+|  2
+| Programm zur Abklärung von Aborten bei Pferden, Rindern, Schweinen und Schafen vom 13. Oktober 1998
+| 70 %
 
-|
+|  3
+| Programm der Sächsischen Tierseuchenkasse zur Prophylaxe und Bekämpfung der Equinen Herpes-Virus-Infektion bei Pferden vom 9. Oktober 2003
+| 50 %
 
-Programm Stutengesundheitsdienst der Sächsischen Tierseuchenkasse vom 26. März 1997
-
-|
-
-70 %
-
-|
-
-2
-
-|
-
-Programm zur Abklärung von Aborten bei Pferden, Rindern, Schweinen und Schafen vom 13. Oktober 1998
-
-|
-
-70 %
-
-|
-
-3
-
-|
-
-Programm der Sächsischen Tierseuchenkasse zur Prophylaxe und Bekämpfung der Equinen Herpes-Virus-Infektion bei Pferden vom 9. Oktober 2003
-
-|
-
-50 %
-
-|
-
-4
-
-|
-
-Neufassung des Landesprogramms des Sächsischen Staatsministeriums für Soziales, Gesundheit, Jugend und Familie und der Sächsischen Tierseuchenkasse zum Schutz der Rinder vor einer Infektion mit dem Bovinen Herpesvirus Typ 1 und zur Bekämpfung in BHV1-infizierten Rinderbeständen (
+|  4
+| Neufassung des Landesprogramms des Sächsischen Staatsministeriums für Soziales, Gesundheit, Jugend und Familie und der Sächsischen Tierseuchenkasse zum Schutz der Rinder vor einer Infektion mit dem Bovinen Herpesvirus Typ 1 und zur Bekämpfung in BHV1-infizierten Rinderbeständen (
 BHV1-Landesprogramm) vom 18. April 2002 (SächsABl. S. 676)
+| 80 %
 
-|
+|  5
+| Gemeinsames Programm des Sächsischen Staatsministeriums für Soziales und der Sächsischen Tierseuchenkasse zur Bekämpfung der Salmonellose bei Rindern vom 9. Oktober 2003
+| 70 %
 
-80 %
+|  6
+| Programm der Sächsischen Tierseuchenkasse zum Schutz von Rinderbeständen vor einer Infektion mit dem Virus der Bovinen Virusdiarrhoe/Mucosal Disease (BVD/MD) und zur Bekämpfung in infizierten Beständen vom 17. April 1998, geändert am 27. September 2001
+| 70 %
 
-|
+|  7
+| Programm des SMS und der Sächsischen Tierseuchenkasse zur Paratuberkulose-Diagnostik und -Bekämpfung vom 10. Januar 2002
+| 70 %
 
-5
+|  8
+| Programm zur Förderung der Eutergesundheit in Sachsen gemäß „VwV des SMS zur Durchführung des amtlichen Eutergesundheitsdienstes im Freistaat Sachsen“ vom 17. April 1998
+| 70 %
 
-|
-
-Gemeinsames Programm des Sächsischen Staatsministeriums für Soziales und der Sächsischen Tierseuchenkasse zur Bekämpfung der Salmonellose bei Rindern vom 9. Oktober 2003
-
-|
-
-70 %
-
-|
-
-6
-
-|
-
-Programm der Sächsischen Tierseuchenkasse zum Schutz von Rinderbeständen vor einer Infektion mit dem Virus der Bovinen Virusdiarrhoe/Mucosal Disease (BVD/MD) und zur Bekämpfung in infizierten Beständen vom 17. April 1998, geändert am 27. September 2001
-
-|
-
-70 %
-
-|
-
-7
-
-|
-
-Programm des SMS und der Sächsischen Tierseuchenkasse zur Paratuberkulose-Diagnostik und -Bekämpfung vom 10. Januar 2002
-
-|
-
-70 %
-
-|
-
-8
-
-|
-
-Programm zur Förderung der Eutergesundheit in Sachsen gemäß „VwV des SMS zur Durchführung des amtlichen Eutergesundheitsdienstes im Freistaat Sachsen“ vom 17. April 1998
-
-|
-
-70 %
-
-|
-
-9
-
-|
-
-Programm des SMS und der Sächsischen Tierseuchenkasse zum Schutz der Schweinebestände vor der Infektion mit dem Virus des Porcinen Reproductiven und Respiratorischen Syndroms (
+|  9
+| Programm des SMS und der Sächsischen Tierseuchenkasse zum Schutz der Schweinebestände vor der Infektion mit dem Virus des Porcinen Reproductiven und Respiratorischen Syndroms (
 PRRS-Programm) vom 17. April 1998 (SächsABl. S. 656), geändert durch VwV vom 24. Juni 1999 (SächsABl. S. 663)
+| 70 %
 
+| 10
+| Programm des SMS und der Sächsischen Tierseuchenkasse zur Verbesserung der Fruchtbarkeitsleistung der Sauen in den Ferkelerzeugerbetrieben im Freistaat Sachsen vom 10. Januar 2002
+| 70 %
+
+| 11
 |
-
-70 %
-
-|
-
-10
-
-|
-
-Programm des SMS und der Sächsischen Tierseuchenkasse zur Verbesserung der Fruchtbarkeitsleistung der Sauen in den Ferkelerzeugerbetrieben im Freistaat Sachsen vom 10. Januar 2002
-
-|
-
-70 %
-
-|
-
-11
-
-|
-
 Richtlinie zur Maedi-Sanierung der Herdbuchbestände Deutsches Milchschaf, Texelschaf, Schwarzköpfiges Fleischschaf im Freistaat Sachsen vom 11. Januar 1993 (SächsABl. S. 376), verlängert durch VwV vom 20. November 1998 (SächsABl. S. 1013)
+| 70 %
 
+| 12
 |
-
-70 %
-
-|
-
-12
-
-|
-
 Richtlinie des SMS zur Bekämpfung der Varroatose bei Honigbienen vom 12. Oktober 1994 (SächsABl. S. 1363), verlängert durch VwV vom 18. November 1999 (SächsABl. S. 1164)
+| 70 %
 
+| 13
+| Programm der Sächsischen Tierseuchenkasse zur Bekämpfung von Salmonella Gallinarum-Pullorum in Rassegeflügelbeständen im Freistaat Sachsen vom 2. Januar 1995
+| 90 %
+
+| 14
 |
-
-70 %
-
-|
-
-13
-
-|
-
-Programm der Sächsischen Tierseuchenkasse zur Bekämpfung von Salmonella Gallinarum-Pullorum in Rassegeflügelbeständen im Freistaat Sachsen vom 2. Januar 1995
-
-|
-
-90 %
-
-|
-
-14
-
-|
-
 Richtlinie des SMS zur Bekämpfung der Salmonelleninfektion in Hühnergeflügelbeständen des Freistaates Sachsen vom 20. April 1993 (SächsABl. S. 851), geändert durch Bekanntmachung vom 1. Juli 1995 (SächsABl. S. 919), verlängert durch VwV vom 20. November 1998 (SächsABl. S. 1013)
+| 90 %
 
+| 15
 |
-
-90 %
-
-|
-
-15
-
-|
-
 Programm der Sächsischen Tierseuchenkasse zur Beteiligung an der Salmonellenpflichtimpfung in Aufzuchtbetrieben nach der
 Hühner-Salmonellen-Verordnung vom 11. April 1994
 
+| 90 %
+
+| 16
+| VwV des SMS – Bekämpfung der Newcastle Disease (ND), Programm zur serologischen Kontrolle der Impfung vom 23. Mai 1997, geändert durch VwV vom 23. Dezember 1997
+| 90 %
+
+| 17
+| Programm zur Abklärung von vermehrt auftretenden, neuartigen Hautveränderungen bei Karpfen vom 15. Oktober 1997, geändert am 13. Oktober 1998
+| 50 %
+
+| 18
 |
-
-90 %
-
-|
-
-16
-
-|
-
-VwV des SMS – Bekämpfung der Newcastle Disease (ND), Programm zur serologischen Kontrolle der Impfung vom 23. Mai 1997, geändert durch VwV vom 23. Dezember 1997
-
-|
-
-90 %
-
-|
-
-17
-
-|
-
-Programm zur Abklärung von vermehrt auftretenden, neuartigen Hautveränderungen bei Karpfen vom 15. Oktober 1997, geändert am 13. Oktober 1998
-
-|
-
-50 %
-
-|
-
-18
-
-|
-
 Verwaltungsvorschrift des SMS zur Leukose- und Brucelloseüberwachung in Milchproben vom 11. März 1994 (SächsABl. S. 566), zuletzt geändert durch VwV vom 21. Juni 1996 (SächsABl. S. 692), verlängert durch VwV vom 18. November 1999 (SächsABl. S. 1164)
+| 70 %
 
-|
+| 19
+| Programm der Sächsischen Tierseuchenkasse zur Diagnostik und Prophylaxe von Stoffwechselstörungen in Rinderbeständen vom 29. März 2004
+| 10 %
 
-70 %
+| 20
+| Programm der Sächsischen Tierseuchenkasse zur Bekämpfung der Schnüffelkrankheit (Progressive Rhinitis atrophicans, PRa) in den Schweinezuchtbeständen Sachsens vom 18. Oktober 2004
+| 10 %
