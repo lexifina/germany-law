@@ -1,2 +1,2 @@
 # Gesetz über die Rechtsverhältnisse der Mitglieder des Sächsischen Landtages (Abgeordnetengesetz)
-Rechtsbereinigt mit Stand vom 23. Mai 2004
+Rechtsbereinigt mit Stand vom 26. Juni 2004
