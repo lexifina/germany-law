@@ -1,0 +1,6 @@
+# TOP 17.: Planungsrechtliche Steuerung der Vorrangflächen für Windenergieanlagen
+
+- Sitzung: Rat (2004-07-14)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/17584
