@@ -1,0 +1,6 @@
+# TOP 4: Bestellung des/der Schriftführers/ Schriftführerin und des/der Stellvertreters/Stellvertreterin
+
+- Sitzung: Sozialausschuss (2004-12-02)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/113678
