@@ -10,7 +10,7 @@ ERSTER ABSCHNITT RECHTSSTELLUNG UND AUFGABEN
 ZWEITER ABSCHNITT GEBIET DER GEMEINDE
 § 7 Gebietsbestand
 § 8 Gebietsänderungen
-§ 9 Vereinbarung über Gebietsänderungem
+§ 9 Vereinbarung über Gebietsänderungen
 ZWEITER TEIL EINWOHNER UND BÜRGER DER GEMEINDE
 § 10 Rechtsstellung der Einwohner
 § 11 Unterrichtung und Beratung der Einwohner Ausschüssen
