@@ -1,0 +1,73 @@
+# 32. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2004-10-20T17:10:00+02:00
+- Ende: 2004-10-20T21:58:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=698
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=698
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=24891
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2005 - ohne Änderungen in der BVV beschlossen
+- TOP 3: Dringlichkeitsanträge - (offen)
+- TOP 3.1: Baumaßnahmen an der Schulzendorfer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.2: Verkehrssicherheit auch nach Umbau der Schulzendorfer Straße gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.3: Verkehrsprojekt Schulzendorfer Straße im Dialog mit den Betroffenen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.4: Vorliegende Planung zum Ausbau der Schulzendorfer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3.5: Reform des Öffentlichen Gesundheitsdienstes - ohne Änderungen in der BVV beschlossen
+- TOP 3.6: Sprachförderprogramme in Kindertagesstätten - überwiesen
+- TOP 3.7: Interessenbekundungsverfahren Greenwichpromenade - überwiesen
+- TOP 3.8: Integration in Kitas - überwiesen
+- TOP 3.9: Die Integrationskita Senftenberger Ring 53 - 69 erhalten - in der BVV abgelehnt
+- TOP 4: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 25 BezVG - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Ansprechpartner für Kinderärzte bei Hinweisen auf Kindesmisshandlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: FreiwilligenPass einführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Nachtschaltung an Lichtzeichenanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Finanzhilfen aus dem Gemeindeverkehrsfinanzierungsgesetz (GVFG) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Personelle Besetzung der Trägervertretung in der Arbeitsgemeinschaft gemäß § 44 b Sozialgesetzbuch Teil II (SGB II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: EU-Osterweiterung - Aufgabe und Chance für den Bezirk Reinickendorf - beantwortet
+- TOP 8.2: Aktueller Stand im bezirklichen Ordnungsamt - vertagt
+- TOP 8.3: Zusammenarbeit der Ganztagsschulen mit der Musikschule - vertagt
+- TOP 8.4: "Gender Mainstreaming" jetzt umsetzen - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Anforderungen an künftige Planungen für das Gelände zwischen Greenwichpromenade, Sechser-Brücke und Tegeler Hafen - überwiesen
+- TOP 10.2: Zeit- und ortsteilnahe Nutzung aller Notfallstationen der Reinickendorfer Krankenhäuser - erledigt
+- TOP 10.3: Bezirklichem Wertausgleich widersprechen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Eltern-Kind-Zimmer - erledigt
+- TOP 10.5: Firmenticket für Bezirksamtsmitarbeiterinnen und Bezirksamtsmitarbeiter - erledigt
+- TOP 10.6: Müllentsorgung in Kitas und Schulen effektivieren - vertagt
+- TOP 10.7: Bürgerschaftliches Engagement zur Grünflächenpflege unterstützen - vertagt
+- TOP 10.8: Entwurf des Bebauungsplanes XX-92-1 - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Demokratische Kontrolle bei der Umsetzung des Reformvorhabens "Hartz IV" - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Volkshochschule auch in der Ferienzeit - überwiesen
+- TOP 12.2: Hin- und Rückfahrt zum Schulschwimmen - überwiesen
+- TOP 12.3: Rundweg Kastanienallee am Poloplatz; hier: Vertragsstrafe - überwiesen
+- TOP 12.4: Pendeltüren im Rathaus - überwiesen
+- TOP 12.5: Zebrastreifen in der Heinsestraße in Hermsdorf - überwiesen
+- TOP 12.6: Abstimmungsverhalten im Rat der Bürgermeister - vertagt
+- TOP 12.7: Frühzeitige Erkennung von Beschädigungen und Gefahrenstellen auf Spielplätzen durch "Spielplatztelefon" - überwiesen
+- TOP 12.8: Aufstellung eines Aschenbechers neben dem Außenfahrstuhl - in der BVV zurückgezogen
+- TOP 12.9: Beratung in den Fachausschüssen der BVV - vertagt
+- TOP 12.10: Rückgabe von Alt-CDs - überwiesen
+- TOP 12.11: Geplanter Zebrastreifen in der Heinsestraße - überwiesen
+- TOP 12.12: Geplante Gastanlegestelle im Tegeler See - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: "Sicherer Fußgängerüberweg zur Post am Zeltinger Platz in Frohnau"; hier: Tempo "30" am Zeltinger Platz - überwiesen
+- TOP 13.2: Standortnummern von BVG-Haltestellen - überwiesen
+- TOP 13.3: Dialog-Displays zur Autofahrerinformation - überwiesen
