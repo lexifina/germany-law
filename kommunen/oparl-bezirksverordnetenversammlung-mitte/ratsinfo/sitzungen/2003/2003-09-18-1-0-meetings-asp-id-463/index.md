@@ -1,0 +1,72 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2003-09-18T17:30:00+02:00
+- Ende: 2003-09-18T21:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=463
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=463
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Profiling - beantwortet
+- TOP 3.2: Übernahme der Beamtenanwärter - beantwortet
+- TOP 3.3: Bildnis des Bundespräsidenten für die Galerie im Rathaus Tiergarten (I) - beantwortet
+- TOP 3.4: Höhere Gewalt im Sozialamt - beantwortet
+- TOP 3.5: Reise nach Peking - schriftlich beantwortet
+- TOP 3.6: Effizienzsteigerung durch Outsourcing - hier: Gebäudedienstleistungsmanagement, Stand der Bearbeitung der Drs. 850/II - schriftlich beantwortet
+- TOP 3.7: Verkehrssicherheit - schriftlich beantwortet
+- TOP 3.8: Sicherung der Handlungsfähigkeit des Bezirksamtes Mitte von Berlin bis zum Jahr 2006 - schriftlich beantwortet
+- TOP 3.9: Energiecontracting für Mittes Liegenschaften, hier: Bearbeitung der Drs. 529/II durch das Bezirksamt - schriftlich beantwortet
+- TOP 3.10: Umbenennung Jugendfreizeiteinrichtung Demminer Straße - schriftlich beantwortet
+- TOP 3.11: FIT KID - Die Gesund-Essen-Aktion für Kitas - schriftlich beantwortet
+- TOP 3.12: Polizeiaktion im "Tresor" - schriftlich beantwortet
+- TOP 3.13: Nördlicher Ausgang des ehemaligen Fußgängertunnels Gertrauden- Ecke Breitestraße - schriftlich beantwortet
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Mein Freund der Baum ist tot -Steht der Baumschutz in Berlin vor seinem Ende? - beantwortet
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Familie und oder Beruf? - beantwortet
+- TOP 5.2: Hartz III und IV/ Profiling in Berlin - beantwortet
+- TOP 5.3: Teures Hobby Kind - Welche Wirkung haben die Gebührenerhöhungen auf Mittes Krippen, Kitas und Horte? - beantwortet
+- TOP 5.4: Weiterentwicklung Kulturforum - beantwortet
+- TOP 5.5: Schutz von Denkmälern - beantwortet
+- TOP 5.6: One-Stop-Agency - One-face-to-the-customer - beantwortet
+- TOP 5.7: Einbürgerung im Bezirk Mitte - beantwortet
+- TOP 5.8: Verkäufe öffentlicher Liegenschaften in Mitte - beantwortet
+- TOP 5.9: Überschreitungen im T- und Z-Teil - schriftlich beantwortet
+- TOP 5.10: Eiskalt erwischt? Das Erika-Heß-Eisstadion und die Bezirksfinanzen - schriftlich beantwortet
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2002 - überwiesen
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Seniorenkonferenz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2: Konzeption zur Arbeitsvermittlung von Sozialhilfeempfangenden
+- TOP 9.3: Umgang mit dem Bauvorhaben der Deutschen Post auf dem Gelände Auguststraße 5a/Oranienburger Straße 35-36/Tucholskystraße 19/21 (Postfuhramt)
+- TOP 9.4: Neuordnung der Berliner Krematoriumslandschaft
+- TOP 9.5: Modifizierung des Bezirksamtsbeschlusses 73/81 des BA Wedding
+- TOP 9.6: Beschluss über das Ergebnis der Beteiligung der Träger öffentliche Belange gem. § 4 (1) BauGB und die Durchführung der öffentlichen Auslegung gem. § 3 (2) BauGB für den Bebauungsplan I - 53 für das Gebiet zwischen Rosenthaler Straße, Steinstraße undGormannstraße im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Integrationspreis der BVV Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Schwerpunktsetzung bei der Abarbeitung des Antragsstaus bei der Grundsicherung - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Keine Aufweichung des Baumschutzes - überwiesen
+- TOP 10.4: Rückkehr zur dezentralen "Kleinen baulichen Unterhaltung" - überwiesen
+- TOP 10.5: Bildnis des Bundespräsidenten für die Galerie im Rathaus Tiergarten (II) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Wildwiesen statt Rollrasen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Räumlichkeiten für Heimatverein Tiergarten e.V. - überwiesen
+- TOP 12.2: Familie und oder Beruf - überwiesen
+- TOP 12.3: Grün statt Müll - Konzept zur Senkung der Personal- und Sachkosten der Müllentsorgung in öffentlichen Grünanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Sachbeschädigung verhindern - in der BVV abgelehnt
+- TOP 12.5: Stationärer Drogenkonsumraum in Mitte - ohne Änderungen in der BVV beschlossen
