@@ -1,0 +1,63 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2004-03-10T17:00:00+01:00
+- Ende: 2004-03-10T19:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=564
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=564
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=21871
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Bezirkliche Selbstverwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Auswirkungen der Gesundheitsreform auf den Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 2.3: Aufstellung der Vorschlagslisten für die Wahl der Schöffen für die Geschäftsjahre 2005 - 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 2.4: Übertragung der Einrichtung "Auf dem Schershain", Grebenhain/Hessen, an einen freien Träger - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Erkennen und Förderung von Kindern mit besonderen Begabungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Bessere Beschilderung der Behindertenberatungszentrale - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Einrichtung eines Campingplatzes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.4: Erhalt der Freiwilligen Feuerwehren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Schul-Wettbewerb für Reinickendorfer Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Erhalt des Löschbootes in Tegelort - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Schulreinigung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Gründung einer unabhängigen Sportarbeitsgemeinschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Verordnung über die Festsetzung des Bebauungsplanes XX - 250 im Bezirk Reinickendorf - überwiesen
+- TOP 5.10: Erfahrungsbericht des Patientenfürsprechers im Krankenhaus Reinickendorf - ö. B. KBoN - Krankenhaus des Maßregelvollzuges Berlin (KMV) für den Zeitraum Januar 2003 bis Dezember 2003 - überwiesen
+- TOP 5.11: Erfahrungsbericht des Patientenfürsprechers des Krankenhauses Reinickendorf in der Vivantes GmbH - ö. B. Humboldt-Krankenhaus - für das Jahr 2003 - überwiesen
+- TOP 5.12: Erlass der Verordnung über die Veränderungssperre 12-7 B / 42 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Auswirkungen der sog. Gesundheitsreform auf den Bezirk Reinickendorf - in der BVV zurückgezogen
+- TOP 6.2: Bezirkliche Ordnungsämter - beantwortet
+- TOP 6.3: Pläne zur Umgestaltung der Greenwichpromenade - beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 7.1: Ansehen bewahren, Regeln für den Sitzungsablauf der Bezirksverordnetenversammlung aufstellen - erledigt
+- TOP 7.2: Behindertengerechter Poloplatz - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Blockademuseum des AMVD e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Erhalt des Rettungswagens der Berliner Feuerwehr in Lübars - erledigt
+- TOP 7.5: Natur- und Erlebnispfad am Tegeler Fließ - ohne Änderungen in der BVV beschlossen
+- TOP 7.6: Elektronische Geschäftskorrespondenz - ohne Änderungen in der BVV beschlossen
+- TOP 7.7: Sicherstellung originärer Rettungsaufgaben durch die Feuerwehr - ohne Änderungen in der BVV beschlossen
+- TOP 7.8: Zentrale Ordnungsämter - ohne Änderungen in der BVV beschlossen
+- TOP 7.9: Spezielle Angebote für Seniorinnen und Senioren im Fontanehaus - erledigt
+- TOP 7.10: FreiwilligenPass einführen - ohne Änderungen in der BVV beschlossen
+- TOP 7.11: Gescheiterte Übertragung von zwei Kindertagesstätten - in der BVV zurückgezogen
+- TOP 7.12: Kitaübertragungen hierzu: Wirtschaftliche Tragfähigkeit von freien Trägern - in der BVV abgelehnt
+- TOP 7.13: Änderung der Geschäftsordnung § 36 Abs. 8 (Redezeit) - ohne Änderungen in der BVV beschlossen
+- TOP 8: Ersuchen - (offen)
+- TOP 8.1: Intensivierung der Zusammenarbeit zwischen AMVD e. V. und Heimatmuseum - überwiesen
+- TOP 8.2: Kundenservice der Post AG im Filial- und Briefkastennetz wieder verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Hermsdorfer Verkehr - überwiesen
+- TOP 8.4: Bericht über die Gewalt an Reinickendorfer Schulen - überwiesen
+- TOP 9: Empfehlungen - (offen)
+- TOP 9.1: Aufhebung der Radwegnutzungspflicht - überwiesen
+- TOP 9.2: Aufbauklassen für Realschüler erhalten - überwiesen
+- TOP 9.3: Strikte Einhaltung des Nachtflugverbotes am Flughafen Tegel - ohne Änderungen in der BVV beschlossen
