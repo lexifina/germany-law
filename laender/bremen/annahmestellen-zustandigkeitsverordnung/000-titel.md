@@ -1,1 +1,1 @@
-# Verordnung zur Übertragung von Aufgaben der Finanzverwaltung auf bestimmte Finanzämter (Vollstreckungs-Zuständigkeitsverordnung) vom 22. November 1983
+# Verordnung zur Übertragung von Aufgaben der Finanzverwaltung auf das Finanzamt Bremen-Nord vom 20. Juni 1990
