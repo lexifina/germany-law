@@ -1,0 +1,58 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2005-04-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/590043
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/590043
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.1.: Euro-Skate-Halle Leopoldstr. 250; Finanzierung durch Litfaßsäulen
+- TOP 2.2.: Baureferat - Gartenbau; Besprechung diverser "Altvorgänge" bzw. nicht abgeschlossener Maßnahmen
+- TOP 3.: Gaststättenangelegenheiten
+- TOP 3.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 4.: Verkehrsangelegenheiten
+- TOP 4.1.: Blade Night 2005 - <div>Zustimmung, einstimmig</div>
+- TOP 4.2.: Einladung der MVG zur Veranstaltung "topbus Manöverkritik"
+- TOP 4.3.: Resolution zum Schwerlastverkehr bzw. zur Feinstaubbelastung in München
+- TOP 5.: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 5.1.: Anhörung der Bezirksausschüsse in stadtratpflichtigen Angelegenheiten - <div>qualifizierte Vertagung</div>
+- TOP 5.2.: Bürgerversammlungen mit Multimedia-Präsentation im Jahr 2005
+- TOP 5.3.: Themenvorschläge möglicher Schwerpunkte der Bürgerversammlung am 16.06.2005 a) Präsentation der Verwaltung b) Medienunterstützung für den BA-Bericht
+- TOP 6.: Referat für Stadtplanung und Bauordnung
+- TOP 6.1.: Meldelisten Bauvorhaben
+- TOP 6.2.: Bauvorhaben Plinganserstraße 9
+- TOP 6.3.: Schaftlachstraße 9
+- TOP 6.4.: Bauvorhaben Steinerstraße 6
+- TOP 6.5.: Bauvorhaben Fallstraße 26
+- TOP 6.6.: Bauvorhaben Isarauen 8
+- TOP 6.7.: Auswirkungen der LKW-Maut auf München
+- TOP 6.8.: Bauvorhaben Kochelseestraße / Thalkirchner Straße
+- TOP 6.9.: Bauvorhaben Schanzenbachstraße 1
+- TOP 7.: Baureferat
+- TOP 7.1.: Realisierung des Isar-Planes zwischen Braunauer Eisenbahnbrücke und der Corneliusbrücke
+- TOP 7.2.: Fuß- und Radwegbrücke Ganghofer- / Pfeuferstraße
+- TOP 7.3.: Grünanlage Am Isarkanal 5
+- TOP 7.4.: Maßnahmen gegen das Abstellen von Anhängern und gewerblich genutzten Fahrzeugen / Gewerbebedarf auf öffentlichem Verkehrsgrund
+- TOP 8.: Baum- und Umweltschutz
+- TOP 8.1.: Baumfällung Valleystraße 32; ein Ahorn
+- TOP 8.2.: Baumschutz bei städtischen Baumaßnahmen und in Grünanlagen
+- TOP 8.3.: Baumfällungen und Baumpflanzungen im öffentlichen Grün
+- TOP 9.: Soziales- und Sozialreferat
+- TOP 9.1.: Sozialbürgerhaus für die Stadtbezirke 6 und 7
+- TOP 9.2.: Kommunales Wohnbauprogramm; Bauvorhaben Thalkirchner Straße 190
+- TOP 10.: Schulreferat
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 11.1.: Mehr Kontrollen auf Bürgersteigen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Übermittlung sensibler Einrichtungen an alle Mobilfunkbetreiber
+- TOP 13.2.: Grillen und Bodenfeuer im Landschaftsschutzgebiet Flaucher; Untersuchung der Rauchbelastung der Anwohner
+- TOP 13.3.: Vollzug des Fischereigesetzes; Vergrämung von Kormoran und Gänsesäger an der Isar
