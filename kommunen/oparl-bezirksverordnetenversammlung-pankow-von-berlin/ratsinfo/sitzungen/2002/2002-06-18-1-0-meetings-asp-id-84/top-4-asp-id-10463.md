@@ -1,0 +1,7 @@
+# TOP 4: Vorbereitung einer Anhörung zur Vorlage Elektrosmog in Pankow Drs 0103/02
+
+- Sitzung: 9. öffentliche Sitzung des Ausschusses für Gesundheit und Soziales (2002-06-18)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=10463
+- Ergebnis: zur Kenntnis genommen
