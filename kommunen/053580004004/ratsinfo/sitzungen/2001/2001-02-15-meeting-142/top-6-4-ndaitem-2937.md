@@ -1,4 +1,4 @@
-# TOP 6.4.: Finanzen, Haushalt
+# TOP 6.4.: Änderungsvorschläge der FWG zum Haushalt 2001
 
 - Sitzung: Gemeinderates (2001-02-15)
 - Körperschaft: Gemeinde Aldenhoven
