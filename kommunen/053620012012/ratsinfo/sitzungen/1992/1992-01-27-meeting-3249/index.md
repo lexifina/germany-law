@@ -1,0 +1,17 @@
+# Hauptausschuss (1. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 1992-01-27T17:00:00+01:00
+- Ende: 1992-01-27T17:20:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcnsIonFhkab-D8O-MpxD9o
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/3249
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb0lrYf5G-8a-oc3lWqy50YqNguo-V9BGAWokBPMJ7CF/Oeffentliche_Niederschrift_Hauptausschuss_27.01.1992.pdf
+
+## Tagesordnung
+
+- TOP II.: Nichtöffentliche Sitzung
+- TOP I.: Öffentliche Sitzung
