@@ -1,0 +1,91 @@
+# 23. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2003-12-10T17:00:00+01:00
+- Ende: 2003-12-10T21:55:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=495
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=495
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=20186
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Bestand der Graphothek auch im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Erhalt und Funktionsfähigkeit der Graphothek Berlin - in der BVV abgelehnt
+- TOP 2.3: Rechte Szene in Reinickendorf - beantwortet
+- TOP 2.4: Kindertagesstättenübertragungen - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - (offen)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Feststellungen - (offen)
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 25 BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Übertragung einer Schule an einen freien Träger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Erhalt der Reinickendorfer Schulpaktischen Seminare - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Einführung neusprachlicher Gymniasalklassen ab Klasse 5 an zusätzlichen Gymnasien in Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.4: Sonderschulen als Grund- und Oberschulen berücksichtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: Schulpatenschaften für das Heimatmuseum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Technisch-naturwissenschaftliche Grundkenntnisse an den Grundschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Kältehilfe unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Erhalt der Vorschulklassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.9: Projekt "Lernen aus der Geschichte" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.10: Aktion "Schüler entlarven Stromfresser" mit Reinickendorfer Schulen durchführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.11: Bericht zur Kooperation zwischen dem Ressort Jugend und der Polizei - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.12: Telearbeitsplätze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.13: Förderung hochbegabter Schülerinnen und Schüler - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.14: Straßenbenennung für die neue Verbindung zum ABB-Gelände - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.15: Verordnung über die Genehmigungsbedürftigkeit von Grundstücksteilungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.16: Handlauf für die Treppen an der Balustrade / Ludolfingerplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.17: Förderung kleiner lokaler Initiativen, sog. Kleinstvorhaben/Mikroprojekte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.18: Neue Entgeltordnung für die Musikschule Reinickendorf - überwiesen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Zentrale Ordnungsämter in den Berliner Bezirken - beantwortet
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Entwurf des Bebauungsplanes XX-291 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Erkennen und Förderung von Kindern mit besonderen Begabungen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Reinickendorfer Hotels für Umstellung auf erneuerbare Energien gewinnen - erledigt
+- TOP 9.3: Nutzung erneuerbarer Energien voranbringen - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Einrichtung eines Campingplatzes - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Zustimmung der BVV bei Vertragsänderungen betreffend Poloplatz - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Weiterentwicklung des Reinickendorfer Umwelttages - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Keine willkürliche Anwendung der Ausnahmezulassungen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Erhalt der Freiwilligen Feuerwehren - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Erhalt der ambulanten Versorgungsstruktur - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Einhaltung der Sicherheitsstandards für das Krankenhaus des Maßregelvollzugs - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Erhalt des Löschbootes in Tegelort - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Schulreinigung - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Teileinziehung Sittestraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Innovativer Unterricht - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Information über die Erfahrungen mit der Abschaffung der Lernmittelfreiheit - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Erweiterung der kardiologischen Behandlungsmöglichkeiten im Dominikus-Krankenhaus - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Sicherstellung der fachlichen Qualifikation von Lehrkräften für die 1. Fremdsprache ab Klasse 3 - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Standort Wiesengrund - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: Legionellenbefall im Paracelsus-Bad - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Schulreifeuntersuchung - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Liberalisierung der Berliner Baumschutzverordnung - ohne Änderungen in der BVV beschlossen
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Elektronische Geschäftskorrespondenz - überwiesen
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Stärkung des Kultur-Standortes Humboldt-Bibliothek durch Integration der Graphothek - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Folgen der Einsparungen bei der Feuerwehr für die öffentlichen Gebäude im Bezirk Reinickendorf - vertagt
+- TOP 11.3: Zukunft der Graphothek Berlin - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Denkmal am Ende der Wiltinger Straße in Frohnau - überwiesen
+- TOP 11.5: Neue Tarife der Berliner Verkehrsunternehmen - vertagt
+- TOP 11.6: Hortplätze sichern - überwiesen
+- TOP 11.7: Sicherstellung originärer Rettungsaufgaben durch die Feuerwehr - überwiesen
+- TOP 11.8: Erste-Hilfe-Maßnahmen bei Herzinfarkten und Schlaganfällen - überwiesen
+- TOP 11.9: Frühintervention bei Drogenmissbrauch - überwiesen
+- TOP 11.10: Krankenhausbeirat - vertagt
+- TOP 11.11: Schulschwänzen - überwiesen
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Rauchverbot auch an Schulen - überwiesen
+- TOP 12.2: Humboldt-Kinder-Uni - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Übergang zur Romain-Rolland-Oberschule - überwiesen
+- TOP 12.4: Parkverbot an der Durchfahrt Mittelstreifen Wiltinger Straße - überwiesen
+- TOP 13: Extra-Förderung für Begabte in benachteiligten Ortsteilen - überwiesen
+- TOP 14: Zentrale Ordnungsämter - überwiesen
