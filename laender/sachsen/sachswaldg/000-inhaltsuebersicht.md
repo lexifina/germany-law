@@ -41,7 +41,7 @@ Sechster Teil Förderung der Forstwirtschaft
 § 34 Förderung der Forstwirtschaft
 Siebenter Teil Forstorganisation
 § 35 Forstbehörden
-§ 36 aufgehoben
+§ 36 Sächsische Landesanstalt für Forsten
 § 37 Aufgaben und Zuständigkeit der Forstbehörden
 § 38 Beratung und Unterstützung Dritter bei landschaftsbezogenen Maßnahmen
 § 39 Landesforstwirtschaftsrat
@@ -68,7 +68,7 @@ Zehnter Teil Ordnungswidrigkeiten
 Elfter Teil Übergangs- und Schlußvorschriften
 § 57 Forstnutzungsrechte
 § 58 Forstberichte
-§ 59 Übergangsvorschriften
+§ 59 Überleitungs- und Verwaltungsvorschriften
 § 60 Änderung von Gesetzen
 § 61 Aufhebung von Rechtsvorschriften
 § 62 Inkrafttreten
