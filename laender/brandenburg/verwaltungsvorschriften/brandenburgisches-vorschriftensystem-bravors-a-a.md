@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 1995-03-27 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/aend_name_amt_zehdenick
+- Datum: 1995-07-20 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/akt_ehrenmaeler_1995
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -27,20 +27,14 @@ A |
 
 Aktuelle Fassung
 
-Änderung des Namens des Amtes Zehdenick
+Aufhebung des Erlasses des Ministers des Innern über die Behandlung sowjetischer Ehren- und Denkmäler
 
-vom 20. März 1995
+vom 20. Juli 1995
 
-(ABl./95, [Nr. 26], S.342)
+(ABl./95, [Nr. 58], S.758)
 
-Der Minister des Innern hat in Anwendung von § 1 Abs. 3 der Amtsordnung für das Land Brandenburg vom 15. Oktober 1993 (GVBl. I S. 398, 450) seine Zustimmung zur folgenden Ände­rung des Namens des Amtes Zehdenick (ABl. 1992 S. 1890) erteilt:
+Der Erlaß des Ministers des Innern über die Behandlung sowjetischer Ehren- und Denkmäler vom 13. Februar 1991 (ABl. S. 166) wird aufgehoben.
 
-Das Amt Zehdenick
+Auf die Regelungen des Gesetzes über den Schutz und die Pflege der Denkmale und Bodendenkmale im Land Brandenburg vom 22. Juni 1991 (GVBl. S. 311) sowie des Abkommens vom 16. Dezember 1992 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Russischen Föderation über Kriegsgräberfürsorge (BGBl. II 1994 S. 598) wird hingewiesen.
 
-(Landkreis Oberhavel)
-
-wird mit Wirkung vom 27. März 1995 in das Amt
-
-Zehdenick und Gemeinden
-
-umbenannt.
+Die Aufhebung tritt mit sofortiger Wirkung in Kraft.
