@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2024-09-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.10
+- Datum: 2027-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.12
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -22,12 +22,10 @@ REVOSax
 
 Hauptinhalt
 
-Historische Fassung
+Zukünftige Fassung
 
-war gültig vom
-06.09.2024
-bis
-31.07.2025
+wird gültig ab
+01.08.2027
 
 VwV Stundentafeln berufsbildende Schulen
 
@@ -205,7 +203,7 @@ Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung
 
 A.17a
 
-Berufsausbildung in den Berufen des Berufsbereiches Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42r HwO
+Ausbildungen gemäß § 66 BBiG und § 42r HwO im Berufsbereich Wirtschaft und Verwaltung
 
 
 A.18
@@ -215,7 +213,7 @@ Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtscha
 
 A.18a
 
-Berufsausbildung in den Berufen der Berufsbereiche außer Berufsbereich Wirtschaft und Verwaltung gemäß § 66 BBiG und § 42r HwO
+Ausbildungen gemäß § 66 BBiG und § 42r HwO außer Berufsbereich Wirtschaft und Verwaltung
 
 
 A.19
@@ -645,78 +643,52 @@ Auslaufende Stundentafeln
 
 F.1
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Altenpflege
 
+Berufsfachschule für medizinische Dokumentation (gilt für Schülerinnen und Schüler, die sich im Schuljahr 2024/2025 in der Ausbildung befunden haben, bis zum Ende der Ausbildung)
 
 F.2
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Gesundheits- und Krankenpflege und Gesundheits- und Kinderkrankenpflege
-
+Berufsfachschule für Pflegehilfe (gilt für Schülerinnen und Schüler, die sich im Schuljahr 2024/2025 in der Ausbildung befunden haben, bis zum Ende der Ausbildung)
 
 F.3
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Hebammen und Entbindungspfleger
-
+Berufsfachschule für Sozialwesen (gilt für Schülerinnen und Schüler, die sich im Schuljahr 2024/2025 in der Ausbildung befunden haben, bis zum Ende der Ausbildung)
 
 F.4
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenz, Beruf Medizinisch-technische Laboratoriumsassistentin oder Medizinisch-technischer Laboratoriumsassistent
-
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Hebammen und Entbindungspfleger
 
 F.5
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenz, Beruf Medizinisch-technische Radiologieassistentin oder Medizinisch-technischer Radiologieassistent
-
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenz, Beruf Medizinisch-technische Laboratoriumsassistentin oder Medizinisch-technischer Laboratoriumsassistent
 
 F.6
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenz, Beruf Medizinisch-technische Assistentin für Funktionsdiagnostik oder Medizinisch-technischer Assistent für Funktionsdiagnostik
-
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenz, Beruf Medizinisch-technische Radiologieassistentin oder Medizinisch-technischer Radiologieassistent
 
 F.7
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenz, Beruf Veterinärmedizinisch-technische Assistent oder Veterinärmedizinisch-technischer Assistent
-
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenz, Beruf Medizinisch-technische Assistentin für Funktionsdiagnostik oder Medizinisch-technischer Assistent für Funktionsdiagnostik
 
 F.8
 
-Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pharmazeutisch-technische Assistenz.
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Medizinisch-technische Assistenz, Beruf Veterinärmedizinisch-technische Assistent oder Veterinärmedizinisch-technischer Assistent
 
-G)
+F.9
 
-Stundentafeln der Schularten Berufsfachschule und Fachschule auf Grund der Corona-Pandemie (gültig ab Schuljahr 2020/2021)
+Berufsfachschule für bundesrechtlich geregelte Gesundheitsfachberufe, Berufsfachschule für Pharmazeutisch-technische Assistenz (gilt für Schülerinnen und Schüler, die sich im Schuljahr 2022/2023 in der Ausbildung befunden haben, bis zum Ende der Ausbildung)
 
-G.1
+F.10
 
-Berufsfachschule für medizinische Dokumentation
+Fachschule – Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege (gilt für Schülerinnen und Schüler, die sich im Schuljahr 2024/2025 in der Ausbildung befunden haben, bis zum Ende der Ausbildung)
 
-G.2
+F.11
 
-Berufsfachschule für Sozialwesen
+Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik (gilt für Schülerinnen und Schüler, die sich im Schuljahr 2024/2025 in der Ausbildung befunden haben, bis zum Ende der Ausbildung)
 
-G.3
+F.12
 
-Berufsfachschule für Pflegehilfe
-
-G.4
-
-Fachschule – Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege
-
-G.5
-
-Fachschule – Fachbereich Sozialwesen, Fachrichtung Heilerziehungspflege (gültig für Schuljahr 2020/2021, Klassenstufen 2 und 3 sowie für Schuljahr 2021/2022, Klassenstufe 3)
-
-G.6
-
-Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik
-
-G.7
-
-Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik, verkürzte Ausbildung
-
-G.8
-
-Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik (gültig für Schuljahr 2020/2021, Klassenstufen 2 und 3 sowie für Schuljahr 2021/2022, Klassenstufe 3)
+Fachschule – Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik, verkürzte Ausbildung (gilt für Schülerinnen und Schüler, die sich im Schuljahr 2024/2025 in der Ausbildung befunden haben, bis zum Ende der Ausbildung)“.
 
 
 III.
@@ -747,8 +719,6 @@ Teil E – Berufliches Gymnasium
 
 Teil F – Auslaufende Stundentafeln
 
-Teil G – Stundentafeln auf Grund der Corona-Pandemie (gültig ab Schuljahr 2020/2021)
-
 Verweis auf Bundesgesetze
 
 Fundstelle und systematische Gliederungsnummer
@@ -759,9 +729,7 @@ Fsn-Nr.: 710-V17.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  6. September 2024
-
-Fassung gültig bis: 31. Juli 2025
+Fassung gültig ab:  1. August 2027
 
 Drucken/Speichern
 
@@ -788,7 +756,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17348.10
+https://www.revosax.sachsen.de/vorschrift/17348.12
 Stand vom
 18.11.2026
 
