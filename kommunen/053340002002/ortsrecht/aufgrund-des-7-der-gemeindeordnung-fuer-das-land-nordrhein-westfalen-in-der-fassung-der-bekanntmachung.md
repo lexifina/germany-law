@@ -1,56 +1,101 @@
 # Aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung
 
 - Gemeinde: Stadt Aachen (ARS 053340002002)
-- Datum: 2002-04-19 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.aachen.de/in-aachen-leben/politik-und-verwaltung/stadtrecht/bauwesen/gestaltungssatzung-hofenbornstrasse.pdf?cid=461
+- Datum: 2004-05-25 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.aachen.de/in-aachen-leben/politik-und-verwaltung/stadtrecht/bauwesen/609.pdf?cid=447
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 SATZUNG
-über die Gestaltung baulicher Anlagen für den Bereich des Bebauungsplanes Nr. 837 - Hofenbornstraße
-vom 19.4.2002
-Aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14.07.1994 (GV. NRW. S. 666/SGV NRW 2023) und der §§ 86 Abs. 1 der Bauordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 01. März 2000 (GV. NRW. S. 256/SGV NRW 232) hat der Rat der Stadt Aachen in seiner Sitzung am 29.8.2001 folgende Satzung beschlossen:
+über die Gestaltung baulicher Anlagen in der Siedlung „In den Heimgärten“ vom 25.05.2004
+
+Aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666/SGV NRW 2023) und des § 86 Abs.1 Nr. 2. der Bauordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 01. März 2000 (GV. NRW. S. 256/SGV NRW 232) hat der Rat der Stadt Aachen in seiner Sitzung am 17.03.2004 folgende Satzung beschlossen:
+
 §1 Örtlicher Geltungsbereich
-Der Geltungsbereich der Satzung umfaßt die im beiliegenden Plan, der Bestandteil dieser Satzung ist, dargestellten Grundstücke (Geltungsbereich des Bebauungsplanes 837).
+Der örtliche Geltungsbereich der Satzung erstreckt sich auf den in dem als Anlage 1 dieser Satzung als Bestandteil beigefügten Plan dargestellten Bereich.
+
 §2 Sachlicher Geltungsbereich
-1. Diese Satzung gilt für alle baulichen Maßnahmen wie Neu- und Umbauten, Instandsetzungen, Änderung von vorhandenen baulichen Anlagen, wenn diese geeignet sind, das Erscheinungsbild der Baukörper zu beeinträchtigen. Eine Beeinträchtigung liegt insbesondere vor, wenn die in § 3 genannten Anforderungen nicht erfüllt werden.
-2. Festsetzungen in Bebauungsplänen bleiben unberührt.
-§3 Gestaltungsanforderungen
-1. Fassaden 1.1 Die Fassaden der Gebäude sind in glatt- bis schwachstrukturierten Putzen in
-hellen Farbtönen oder in Verblendmauerwerk aus Klinker auszuführen.
-1
+Diese Satzung gilt für alle baulichen Änderungen an (1) straßenseitigen Fassaden und den dazugehörigen rechtwinklig abgehenden Fassaden einschließlich ihrer Öff-
+nungen. (2) Dächern einschließlich ihrer Dachaufbauten. (3) Grundstückseinfassungen (4) Vorgärten (5) Straßenführung, Platzbildung und vorhandenen Frei- und Grünflächen.
+Festsetzungen in Bebauungsplänen und die Bestimmungen einer Satzung nach § 5 Denkmalschutzgesetz bleiben unberührt.
 
-1.2 Die Fassaden der untergeordneten Gebäudeteile, Garagen und Nebenanlagen im Sinne von § 14 Baunutzungsverordnung sind in Material und Farbe der Fassade des Hauptgebäudes anzupassen.
-1.3 Bei max. 30 Prozent der Fassadenfläche einschließlich Fensterfläche eines Hauses sind abweichende Materialien zu den in Ziff. 1.1 und 1.2 angegebenen zulässig (z. B. Holz, Zinkblech, Schiefer).
-2. Fenster Es sind nur hochstehende rechteckige bis max. quadratische Fensterformate zulässig. Ausgenommen hiervon sind Terrassenfenster, deren Höhe über 2,0 m beträgt (Rohbaumaß).
-3. Dachformen Bei den Hauptgebäuden im Bereich der besonderen Bauweise (g 1) sind nur Pultdächer zulässig. Bei den Hauptgebäuden in den Bereichen, in denen nur Einzel- und Doppelhäuser zulässig sind und im Bereich der offenen Bauweise sind nur Sattel- und Pultdächer zulässig. Die Regelungen nach Ziff.3 gelten nicht für untergeordnete Gebäudeteile, Garagen, Carports und Nebenanlagen i.S. v. § 14 BauNVO.
-4. Dacheindeckungen 4.1 Die Dacheindeckungen der Gauben und Zwerchgiebel sind wie die Dachein-
-deckung des Hauptdaches auszuführen.
-4.2 Bei Gebäuden mit Satteldächern sind nur rote sowie graue bis anthrazitfarbene Dacheindeckungen zulässig.
-4.3 Bei Gebäuden mit Pultdächern sind rote, graue bis anthrazitfarbene und mit Metalldacheindeckungen sowie begrünte Dächer zulässig.
-5. Gauben und Zwerchgiebel Gauben und Zwerchgiebel sind bis zu einer Breite von 2/3 der Hausbreite, max. jedoch bis 4,0 m Breite zulässig.
-Die Firsthöhen der Gauben und Zwerchgiebel dürfen die Firsthöhe des Hauptdaches nicht überschreiten.
-2
+§3 Besondere Anforderungen
 
-§4 Einfriedungen 1. Einfriedungen der Vorgärten sind unzulässig. 2. Entlang der sonstigen Grundstücksgrenzen sind nur Metallstab-Gitterzäune sowie Maschendrahtzäune in dunkelgrüner Farbe bis zu einer Höhe von max. 1,6 m zulässig. 3. Bis zu einer Terrassentiefe von 3,0 m sind Sichtschutzmauern bis zu 2 m Höhe zulässig.
-§5 Versagen der Baugenehmigung/Genehmigungsfreie Vorhaben Die Baugenehmigung für bauliche Maßnahmen ist zu versagen, wenn das Vorhaben den Bestimmungen des § 3 dieser Satzung nicht entspricht.
-§6 Ausnahmen Von den Vorschriften dieser Satzung können Ausnahmen zugelassen werden, wenn die Realisierung der satzungsmäßigen Vorschriften im Einzelfall zu einer unbeabsichtigten Härte führen würde und zweitens die Grundzüge der Planung nicht berührt werden.
-§7 Ordnungswidrigkeiten Wer vorsätzlich, fahrlässig oder ohne Baugenehmigung gegen - die Gestaltungsvorschriften gem. § 3 oder - Einfriedungsregelungen gem. § 4verstösst, handelt ordnungswidrig im Sinne des § 84 Abs. 1 Nr. 20 der Bauordnung NRW. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 100.000 DM bzw. 50.000 EURO geahndet werden.
-3
+(1) Zur Vermeidung von Beeinträchtigungen des Erscheinungsbildes der Siedlung „In den Heimgärten“ sind bei Ände-
 
-§ 8 Inkrafttreten Diese Satzung tritt am Tage nach ihrer öffentlichen Bekanntmachung in Kraft.Vorstehende Satzung wird hiermit öffentlich bekanntgemacht. Es wird darauf hingewiesen, daß eine Verletzung von Verfahrens- und Formvorschriften der Gemeindeordnung für das Land NW beim Zustandekommen dieser Satzung nach Ablauf eines Jahres seit dieser Bekanntmachung nicht mehr geltend gemacht werden kann, es sei denn,
-a) eine vorgeschriebene Genehmigung fehlt, b) diese Satzung ist nicht ordnungsgemäß öffentlich bekanntgemacht worden, c) der Oberbürgermeister hat den Ratsbeschluß vorher beanstandet
-oder d) der Form- oder Verfahrensmangel ist gegenüber der Stadt Aachen vorher
-gerügt und dabei die verletzte Rechtsvorschrift und die Tatsache bezeichnet worden, die den Mangel ergibt.
-Aachen, den 19.4.2002
+rung der straßenseitigen und den dazugehörigen rechtwinklig abgehenden Fassaden und Dächern
+
+a)
+
+Form und Eindeckung des Daches einschl. Dachgauben
+
+a)
+
+die Gestalt des Baukörpers
+
+b)
+
+die Verteilung und Form der Fensteröffnungen
+
+stadt aachen
+
+c)
+
+die Gliederung und Flächenbehandlung der Fassade
+
+d)
+
+die Art und Farbe der zu verwendenden Baustoffe
+
+auf ihre ursprüngliche Form- und Farbgebung zurückzuführen.
+
+(2) Auf der straßenseitigen Dachfläche sind an den Reihenendhäusern 2 Dachflächenfenster mit insgesamt 2 qm Belichtungsfläche zulässig.
+(3) An den Kopfseiten der Reihenendhäuser ist ein zusätzliches Fenster im Erdgeschoss neben dem Eingangsvorbau im hinteren Bereich zulässig.
+
+(4) Vor den Mittelhäusern und neben den Endhäusern sind kleinere Unterstände für Fahrräder, Müll, Kinderwagen etc. zulässig. Bei den Mittelhäusern soll die Höhe der Unterstände die Brüstungshöhe des Fensters im Eingangsvorbau nicht übersteigen.
+
+(5) Neue Haustüren sollen entsprechend dem historischen Vorbild als waagerecht verbretterte Tür mit senkrechtem Lichtausschnitt hergestellt werden. Der Lichtausschnitt kann zur Verbesserung der Belichtung des Flures unter Beibehaltung seiner Proportionen größer ausgebildet werden.
+
+(6) An den Reihenendhäusern sind Stellplätze und Carports zulässig.
+
+(7) Auf den rückwärtigen Dachflächen sind Dachgauben unter folgenden Gestaltungsvoraussetzungen zulässig:
+
+a) Dachgauben dürfen nicht über die gesamte Breite des Gebäudes errichtet werden. Auf mindestens einer Seite muß der Abstand der Gaube zu Gebäudeabschluß- und Trennwänden mind. 3-4 Dachpfannenreihen betragen.
+a) Zwischen dem Fußpunkt der Gaube und dem Endpunkt des Dachüberstandes müssen mind. 1-3 Dachpfannenreihen liegen. Die max. Höhe der Gaube, gemessen von der Oberkante Fertigfußboden im Dachgeschoß bis zur Traufe der Gaube, darf an der Vorderseite max. 2,50 m betragen.
+
+§4 Versagen der Baugenehmigung
+Die Baugenehmigung für bauliche Maßnahmen ist zu versagen, wenn das Vorhaben den Bestimmungen des § 3 dieser Satzung nicht entspricht.
+
+§5 Außenwerbung und Warenautomaten
+(1) Im Geltungsbereich dieser Satzung sind Warenautomaten genehmigungspflichtig.
+(2) Werbeanlagen sind nur an der Stätte der Leistung und bis zur Brüstung des 1. OG zulässig.
+(3) Bewegliche (laufende) und solche Lichtwerbungen, bei denen die Beleuchtung ganz oder teilweise im Wechsel anund ausgeschaltet wird, sind unzulässig.
+(4) Werbeplakate, die nach den Bestimmungen der BauO NRW genehmigungs- und anzeigefrei sind, sind innerhalb des Geltungsbereiches dieser Satzung nur an dafür vorgesehenen und genehmigten Einrichtungen (Plakattafeln, Litfaßsäulen) zulässig.
+(5) Abs. 4 gilt nicht für Anlagen auf öffentlichen Verkehrsflächen für amtliche Mitteilungen und zur Unterrichtung der Bevölkerung über kirchliche, kulturelle, politische u. ä. Veranstaltungen, auch wenn die jeweils freie Fläche für andere Werbung verwendet wird.
+
+stadt aachen
+§6 Markisen und Vordächer
+Markisen sind auf der Straßen- und Giebelseite der Gebäude unzulässig.
+Vordächer zu Haustüren sind als schlichte, transparente Konstruktion aus Stahl/Glas herzustellen.
+§7 Antennen, Satellitenschüsseln und Sonnenkollektoren
+(1) Innerhalb des Geltungsbereiches der Satzung ist auf jedem Gebäude max. eine Antennenanlage oder Satellitenschüssel zulässig. Die Größe der Schüssel darf 0,80 m Durchmesser nicht übersteigen.
+Auf straßen- und giebelseitigen Dachflächen und Hausfassaden ist die Anbringung von Satellitenschüsseln unzulässig.
+(2) Sonnenkollektoren sind auf den straßen- und giebelseitigen Dachflächen sowie an Hausfassaden unzulässig.
+§8 Vorgärten
+Die Vorgärten sind ausschließlich gärtnerisch zu gestalten. Die Neuerrichtung von Einfriedungen, die nicht den historischen Vorbildern entsprechen, ist unzulässig.
+Die Versiegelung von Flächen, auch zur Anlage von Stellplätzen, ist nicht zulässig.
+§9 Ordnungswidrigkeiten
+Ordnungswidrig im Sinne des § 84 Abs. 1 Nr. 20 handelt, wer vorsätzlich, fahrlässig oder ohne Erlaubnis gegen die Bestimmungen der §§ 3, 5 - 8 dieser Satzung verstößt. Die Ordnungswidrigkeit kann mit einer Geldbuße bis 50.000 EUR geahndet werden.
+§ 10 Inkrafttreten
+Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
+Die vorstehende Satzung über die Gestaltung baulicher Anlagen in der Siedlung „In den Heimgärten“ wird hiermit öffentlich bekannt gemacht. Es wird darauf hingewiesen, dass eine Verletzung von Verfahrens- und Formvorschriften der Gemeindeordnung NW beim Zustandekommen dieser Satzung nach Ablauf eines Jahres seit dieser Bekanntmachung nicht mehr geltend gemacht werden kann, es sei denn,
+a) eine vorgeschriebene Genehmigung fehlt, b) diese Satzung ist nicht ordnungsgemäß bekannt gemacht worden, c) der Oberbürgermeister hat den Satzungsbeschluss vorher beanstandet oder d) der Form- und Verfahrensmangel ist gegenüber der Stadt Aachen vorher schriftlich gerügt worden und dabei die verletzte Rechtsvorschrift und die Tatsache bezeichnet worden, die den Mangel ergibt.
+
+Aachen, den 25.05.2004
 (Dr. Linden) Oberbürgermeister
 
-L:\A6010\BEYERA60\Hofenbornstraße\GestaltSatzung veröffentl.Text.wpd
+stadt aachen
 
-4
-
-L:\A6010\BEYERA60\Hofenbornstraße\GestaltSatzung veröffentl.Text.wpd
-
-5
+-4-
