@@ -1,0 +1,102 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2002-05-16T17:30:00+02:00
+- Ende: 2002-05-16T23:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=117
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=117
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - (offen)
+- TOP 1.2: der Fraktionen - (offen)
+- TOP 1.3: der Ausschüsse - (offen)
+- TOP 1.4: des Bezirksamtes - (offen)
+- TOP 2: Konsensliste - (offen)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Kommunale Kindertagesstätten
+- TOP 3.2: Andenken Matthias Erzberger
+- TOP 3.3: Personalüberhang
+- TOP 3.4: Mineralfaserplatten-Sanierung in der Hemingway-Schule
+- TOP 3.5: City-Management in der Tumrstraße
+- TOP 3.6: Krematorium Wedding
+- TOP 3.7: Freier Träger "Putte"
+- TOP 3.8: Bautätigkeit Augustenburger Platz
+- TOP 3.9: Kita und Spielplatz auf dem Gelände des ehem. Krankenhauses Moabit
+- TOP 3.10: Standort Mitte für das Bundeswehrkrankenhaus
+- TOP 3.11: Die Turmstraße muss gepflegter werden / Drs. I/226, Vorlage zur Kenntnisnahme
+- TOP 3.12: Spielplatzübergabe Tegeler - Ecke Lynarstraße
+- TOP 3.13: Maßnahmen gegen Überschreitungen des T-Teils
+- TOP 3.14: Pisa-Studie
+- TOP 3.15: Jugendherberge Standort ehem. Krankenhaus Moabit
+- TOP 3.16: Schulbedarfsplanung in Mitte
+- TOP 3.17: "Geheime" Konten bei Leistungsempfängern
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Aufforstungsarbeiten - Love Parade 2001
+- TOP 4.2: Runder Tisch zum Erhalt des Schwimmbades in der Seydlitzstraße
+- TOP 4.3: Papageno-Grundschule
+- TOP 4.4: Papageno-Grundschule
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Umbau des Berolina-Hauses
+- TOP 5.2: Anmeldungen für die Grundschule
+- TOP 5.3: Planungen zum Spittelmarkt
+- TOP 5.4: Überbezirkliche SchülerInnen-Wanderung
+- TOP 5.5: Einführung der Parkraumbewirtschaftung
+- TOP 5.6: Fixerstube in Moabit
+- TOP 5.7: Wohnversorgung für Asylbewerberinnen und Asylbewerber
+- TOP 5.8: Rosa-Rot ist Denkmals Tod - Auswirkungen der geplanten Einstellung des Denkmalschutzprogramms für den Bezirk Mitte
+- TOP 5.9: Umwandlungen von Mietwohnungen
+- TOP 5.10: Betrugsfälle
+- TOP 5.11: Straßenbahn durch die Turmstraße
+- TOP 5.12: Rechtsfreier Raum in Mitte?
+- TOP 5.13: Stiftung "Lebendige Stadt"
+- TOP 5.14: Fa. Nike hält Nutzungsvereinbarung nicht ein!
+- TOP 5.15: Brunnensanierung und Brunnenbetrieb
+- TOP 5.16: ver.di im Schwarzen Kanal - Ist Wagendorf an der Schillingbrücke noch zu retten?
+- TOP 5.17: Ressourcenmanagement des Bezirksamtes
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Berufung der beratenden Mitglieder des Jugendhilfeausschusses gemäß § 35 AG KJHG
+- TOP 8.2: Wahl eines Patientenfürsprechers
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Verkehrsberuhigung Stephankiez
+- TOP 9.2: Telefon-Verzeichnis des Bezirksamtes - (offen)
+- TOP 9.3: Produktkatalog 6.0 - (offen)
+- TOP 9.4: Zentraler Festplatz 1 - (offen)
+- TOP 9.5: Fachpost-Lauf-Zeiten verkürzen! - (offen)
+- TOP 9.6: Zentraler Festplatz 2 - (offen)
+- TOP 9.7: Anmeldungen für die Investitionsplanung 2002 - 2006
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Neubauvorhaben Alte Schönhauser Straße 15 - 16 / Steinstraße 1 - 2
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Keine Mobilfunkanlagen auf den Dächern von Schulen 0525/I SozGes
+- TOP 11.2: Keine Mobilfunkanlagen auf Schulen, Kindertagesstätten und Krankenhäusern 0534/I SozGes
+- TOP 11.3: Soziale Stabilisierung im Huttenkiez - (offen)
+- TOP 11.4: Detaillierte Untersuchung über das Ausbildungs- und Arbeitsplatzpotential nichtdeutscher Unternehmen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Wendeverbot in Hauptverkehrszeiten
+- TOP 11.6: Gegen den Durchgangsverkehr in der geplanten Erschließungsstraße zur Schwartzkopffstraße
+- TOP 11.7: Ampelanlagen
+- TOP 11.8: Gegen überdimensionierten Straßenausbau auf dem Nordbahngelände
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Gegen häusliche Gewalt gegen Frauen (IV)
+- TOP 12.2: "Keine Mobilfunkanlagen auf Schulen und Kindertagesstätten"
+- TOP 12.3: Tempolimit Transvaalstraße
+- TOP 12.4: Einrichtung erster Klassen
+- TOP 12.5: Finanzieller Ausgleich für überbezirkliche Schülerinnen-Wanderung
+- TOP 12.6: Personalzuschüsse für Schulen in freier Trägerschaft nicht kürzen
+- TOP 12.7: Raumnutzungsordnung üfr Einrichtungen des Bezirks Mitte
+- TOP 12.8: Haushaltsdurchführung "T-Teil"
+- TOP 12.9: Berlinische Galerie in's Postfuhramt Oranienburger Straße
+- TOP 12.10: Fortbildung für Lehrer und Rahmenpläne für die Berliner Schulen
+- TOP 12.11: European School in das Staatsratsgebäude
+- TOP 12.12: Investitionen zur Senkung der Energie-, Wasser- und Abfallkosten
+- TOP 12.13: Verfahrens- und Umsetzungsvorschlag für das Haushaltsjahr 2003
+- TOP 12.14: Einführung T-Teil
+- TOP 12.15: Besetzung des JHA
+- TOP 12.16: Bürgerfragestunde
