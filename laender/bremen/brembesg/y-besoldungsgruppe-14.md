@@ -8,7 +8,6 @@ Abteilungsleiter eines Schulzentrums der Sekundarstufe I
 - der Orientierungsstufe mit mehr als 180 Schülern1) -
 Erster Fachleiter beim Landesinstitut für Schule
 Fachbereichsleiter
-Hafenkapitän, soweit nicht in Besoldungsgruppe A 15
 Jahrgangsleiter an einer Gesamtschule2)
 Konrektor
 - als der ständige Vertreter des Leiters einer mit einer Grundschule, mit einer Grund- und Hauptschule oder mit einer Hauptschule verbundenen Realschule mit mehr als 540 Schülern -
@@ -20,11 +19,16 @@ Rektor
 - einer mit einer Grundschule, mit einer Grund- und Hauptschule oder mit einer Hauptschule verbundenen Realschule mit mehr als 540 Schülern1) -
 Schulrat1)
 Sonderschulkonrektor
+- als der ständige Vertreter des Leiters eines Förderzentrums mit bis zu 180 Schülern6) -
+- als der ständige Vertreter des Leiters eines Förderzentrums mit mehr als 180 Schülern1)6) -
 - als der ständige Vertreter des Leiters einer Sonderschule mit bis zu 180 Schülern -
 - als der ständige Vertreter des Leiters einer Sonderschule mit mehr als 180 Schülern1) -
 Sonderschulrektor
+- als Leiter eines Förderzentrums mit bis zu 180 Schülern1)6) -
 - als Leiter einer Sonderschule mit bis zu 180 Schülern1) -
 Fußnoten
+1) Erhält eine Amtszulage von 285,57 DM.
+1) Erhält eine Amtszulage von 285,57 DM.
 1) Erhält eine Amtszulage von 285,57 DM.
 1) Erhält eine Amtszulage von 285,57 DM.
 1) Erhält eine Amtszulage von 285,57 DM.
@@ -35,3 +39,6 @@ Fußnoten
 3) Erhält nach Maßgabe der Vorbemerkung Nr. 12 zu den Bundesbesoldungsordnungen A und B eine Stellenzulage
 4) Bis zum vollendeten 10. Dienstjahr als Beamter auf Zeit. Erhält das Endgrundgehalt.
 5) Die am 1. Januar 2000 im Amt befindlichen Stelleninhaber erhalten weiterhin Dienstbezüge aus Besoldungsgruppe A 15.
+6) Für die Berechnung der Schülerzahlen werden die Schüler/-innen mit festgestelltem sonderpädagogischen Förderbedarf, soweit sie im Förderzentrum unterrichtet werden, voll gezählt und, soweit sie in allgemeinbildenden Schulen unterrichtet und dabei von Lehrkräften des Förderzentrums ergänzend gefördert werden, zur Hälfte zu Grunde gelegt.
+6) Für die Berechnung der Schülerzahlen werden die Schüler/-innen mit festgestelltem sonderpädagogischen Förderbedarf, soweit sie im Förderzentrum unterrichtet werden, voll gezählt und, soweit sie in allgemeinbildenden Schulen unterrichtet und dabei von Lehrkräften des Förderzentrums ergänzend gefördert werden, zur Hälfte zu Grunde gelegt.
+6) Für die Berechnung der Schülerzahlen werden die Schüler/-innen mit festgestelltem sonderpädagogischen Förderbedarf, soweit sie im Förderzentrum unterrichtet werden, voll gezählt und, soweit sie in allgemeinbildenden Schulen unterrichtet und dabei von Lehrkräften des Förderzentrums ergänzend gefördert werden, zur Hälfte zu Grunde gelegt.

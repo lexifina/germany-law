@@ -2,7 +2,6 @@
 Besoldungsgruppe 13
 Fachleiter beim Landesinstitut für Schule
 Funkoberlehrer
-Haupthafenmeister, soweit nicht in Besoldungsgruppe A 12
 Konrektor
 - als der ständige Vertreter des Leiters einer mit einer Grundschule, mit einer Grund- und Hauptschule oder mit einer Hauptschule verbundenen Realschule mit bis zu 540 Schülern1) -
 - als der ständige Vertreter des Leiters einer Grundschule mit mehr als 180 bis zu 360 Schülern -

@@ -17,12 +17,12 @@ Direktorstellvertreter
 - als der ständige Vertreter des Leiters eines Schulzentrums der Sekundarstufe I mit mehr als 1000 Schülern2) -
 - als der ständige Vertreter des Leiters eines Schulzentrums der Sekundarstufe II2) -
 Fachdirektor beim Landesinstitut für Schule
-Hafenkapitän, soweit nicht in Besoldungsgruppe A 14
 Leiter der Pädagogischen Arbeitsstelle - Lehrerfortbildungsinstitut Bremerhaven -
 Oberschulrat4), soweit nicht in Besoldungsgruppe A 16
 Ortsamtsleiter5), soweit nicht in Besoldungsgruppe A 14
 Schlachthofdirektor - Bremerhaven -
 Sonderschulrektor
+- als Leiter eines Förderzentrums mit mehr als 180 Schülern6)
 - als Leiter einer Sonderschule mit mehr als 180 Schülern -
 Fußnoten
 1) Erhält eine Amtszulage von 190,39 DM.
@@ -35,3 +35,4 @@ Fußnoten
 3) Erhält eine Amtszulage von 475,88 DM.
 4) Erhält eine Amtszulage von 527,99 DM (kw)
 5) Nach vollendetem 10. Dienstjahr als Beamter auf Zeit. Erhält das Endgrundgehalt.
+6) Für die Berechnung der Schülerzahlen werden die Schüler/-innen mit festgestelltem sonderpädagogischen Förderbedarf, soweit sie im Förderzentrum unterrichtet werden, voll gezählt und, soweit sie in allgemeinbildenden Schulen unterrichtet und dabei von Lehrkräften des Förderzentrums ergänzend gefördert werden, zur Hälfte zu Grunde gelegt.

@@ -8,4 +8,4 @@
 ## Besoldungsgruppe 8
 # Besoldungsgruppe 9
 Besoldungsgruppe 9
-Hafenmeister, soweit nicht in Besoldungsgruppe A 10
+(aufgehoben)
