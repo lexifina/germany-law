@@ -1,0 +1,1 @@
+Auf Grund von Art. 17 Nr. 5 des Bayerischen Eisenbahn- und Bergbahngesetzes (BayEBG) vom 10. Juli 1998 (GVBl. S. 389, BayRS 932-1-W) erläßt das Bayerische Staatsministerium für Wirtschaft, Verkehr und Technologie folgende Verordnung:
