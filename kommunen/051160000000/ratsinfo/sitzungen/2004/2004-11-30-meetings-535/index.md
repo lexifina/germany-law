@@ -1,0 +1,60 @@
+# Planungs- und Bauausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2004-11-30T14:00:00+01:00
+- Ende: 2004-11-30T19:45:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/82
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/535
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/535
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung von sB - Zur Kenntnis genommen
+- TOP 2: Bestellung eines Schriftführers - PlanB - - Einstimmiger Beschluss
+- TOP 3: Tonbandaufnahmen - PlanB - - Einstimmiger Beschluss
+- TOP 4: Kommission Prüfung von Anregungen BP-Verfahren - Einstimmiger Beschluss
+- TOP 5: Niederschrift 18.07.04 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 6: Niederschrift 14.09.04 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 7: Jahresbericht 2003 der NVV AG - Kenntnisnahme
+- TOP 8: 8. Nachtrag zur Kanalbenutzungsordnung - Von Verwaltung zurückgezogen
+- TOP 9: Zehnter Nachtrag zum Taxentarif - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 10: 164. Änderung des Flächennutzungsplanes - Kenntnisnahme
+- TOP 11: Bebauungsplan Nr. 656/III - Kenntnisnahme
+- TOP 12: Bebauungsplan Nr. 654/V - Kenntnisnahme
+- TOP 13: Bebauungsplan Nr. 649/V - Kenntnisnahme
+- TOP 14: 1. Änderung des Bebauungsplanes Nr. 304/VII - Kenntnisnahme
+- TOP 15: Teilaufhebung des Bebauungsplanes Rheydt Nr. 1009a - Kenntnisnahme
+- TOP 16: Bebauungsplan Nr. 651/IX - Kenntnisnahme
+- TOP 17: Bebauungsplan Nr. 652/IX - Kenntnisnahme
+- TOP 18: Bebauungsplan Nr. 624/VII - Einstimmiger Beschluss
+- TOP 19: Bebauungsplan Nr. 639/VIII - Einstimmiger Beschluss
+- TOP 20: Vorhabenbezogener Bebauungsplan Nr. 648/III - Absolute Mehrheit
+- TOP 21: 162. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 22: 2. Änderung des Bebauungsplanes Nr. 481/III - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 23: Vorhabenbezogener Bebauungsplan Nr. 526/I - Von Verwaltung zurückgezogen
+- TOP 24: 34. Nachtrag zur Entwässerungssatzung - Von Verwaltung zurückgezogen
+- TOP 25: 64. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 26: Bebauungsplan Nr. 604/V - Einstimmiger Beschluss
+- TOP 27: Bebauungsplan Nr. 615/VIII - Einstimmiger Beschluss
+- TOP 28: Bebauungsplan Nr. 640/IX - Einstimmiger Beschluss
+- TOP 29: Bebauungsplan Nr. 641/IX - Einstimmiger Beschluss
+- TOP 30: Vorhabenbezogener Bebauungsplan Nr. 630/X - Einstimmiger Beschluss
+- TOP 31: 149. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 32: Städtebauliche Rahmenplanung Dammer Feld - Einstimmiger Beschluss
+- TOP 33: Sachstandsbericht SPNV - Einstimmiger Beschluss
+- TOP 34: Nahversorgungs- und Zentrenkonzept - Einstimmiger Beschluss
+- TOP 35: Neubau der B 59 n - Absolute Mehrheit
+- TOP 36: Aufhebungssatzung Teilungsgenehmigungen - Einstimmiger Beschluss
+- TOP 37: Erschließungsvertrag BP 604/V - Ehrenstraße - Einstimmiger Beschluss
+- TOP 38: Erschließungsvertrag BP 626/II - Göckelsweg - Einstimmiger Beschluss
+- TOP 39: Erschließungsvertrag Am Kopsweg - Ost (BP 350/I) - Einstimmiger Beschluss
+- TOP 40: Erschließungsvertrag Rheinbahnstraße - Einstimmiger Beschluss
+- TOP 41: Abzurechnende Erschließungsanlagen nach BauGB - Einstimmiger Beschluss
+- TOP 42: Neubau "Offene Ganztagsschule" Eickener Str.311 - Einstimmiger Beschluss
+- TOP 43: Neubau Mehrzweckhalle Neuwerk - Absolute Mehrheit
+- TOP 44: Kenntnisnahme der Denkmalliste - Einstimmiger Beschluss
+- TOP 45: Berichte - Zur Kenntnis genommen
+- TOP 46: Anfragen - Zur Kenntnis genommen
