@@ -16,7 +16,7 @@ Zweiter Abschnitt Schutzrechte
 § 12 | Übernahme von Daten durch Archive
 Dritter Abschnitt Meldepflichten
 § 13 | Allgemeine Meldepflicht
-§ 14 | Nebenmeldepflicht des Wohnungsgebers
+§ 14 | Mitwirkungspflicht des Wohnungsgebers
 § 15 | Begriff der Wohnung
 § 16 | Mehrere Wohnungen
 § 17 | Erfüllung der allgemeinen Meldepflicht
