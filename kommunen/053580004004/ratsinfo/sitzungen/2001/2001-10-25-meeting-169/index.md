@@ -1,0 +1,73 @@
+# Gemeinderat
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2001-10-25T18:00:00+02:00
+- Ende: 2001-10-25T22:00:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZX1tSCGPPeNKxdhJKAlpCo0
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/169
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZLXdU8MIrKdnsTttYZh6gwL7lhO1cC7dXa8n-96uuE-/Oeffentliche_Niederschrift_Gemeinderat_25.10.2001.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 29.08.2001 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1.: Durchführung des 4. Aldenhovener Umwelttages im Römerpark
+- TOP 3.2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.2.: Erstellung von Parkplätzen in der "Kapuzinerstraße" in Aldenhoven
+- TOP 3.3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.3.: Umgestaltung/Modernisierung des Römerparks in Aldenhoven unter Einbeziehung einer naturnahen Gestaltung des Merzbaches
+- TOP 4.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+- TOP 4.1.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+- TOP 4.1.: Nutzung des "DAA-Gebäudes"
+- TOP 5.: Satzungen, Ortsrecht
+- TOP 5.1.: Satzungen, Ortsrecht
+- TOP 5.1.: Verwaltungsgebührensatzung der Gemeinde Aldenhoven
+- TOP 5.2.: Satzungen, Ortsrecht
+- TOP 5.2.: Änderung der Geschäftsordnung des Rates hier: § 10 Teilnahme an Sitzungen
+- TOP 6.: Zuschussgewährung
+- TOP 6.1.: Zuschussgewährung
+- TOP 6.1.: Zuweisung zur Förderung kommunaler Projekte der Entwicklungszusammenarbeit nach § 20 Abs. 1 Nr. 4 GFG hier: Zuschussgewährung
+- TOP 7.: Wahl der Schiedsperson und der stellvertretenden Schiedsperson für das Gebiet der Gemeinde Aldenhoven
+- TOP 8.: Dachausbau Sportheim Aldenhoven - Kostenermittlung und Mietzinskalkulation
+- TOP 9.: Über- und außerplanmäßige Ausgaben nach dem Stand 30.09.2001
+- TOP 10.: Finanzbericht 2001 nach dem Stand 30.Sept. 2001
+- TOP 11.: Durchführung der Straßenreinigung
+- TOP 12.: Städte- und Gemeindenetz Bördenpark
+- TOP 13.: Mitteilungen und Anfragen.
+- TOP 14.: Verschiedenes.
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 29.08.2001 -nichtöffentlicher Teil-.
+- TOP 2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.1.: Grundstücksangelegenheiten
+- TOP 2.1.: Antrag auf Übernahme einer Baulast auf dem Grundstück Gemarkung Aldenhoven, Flur 2, Flurstück 466
+- TOP 2.2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.2.: Sanierung der Drainage des Aschesportplatzes in Freialdenhoven
+- TOP 2.3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.3.: Einbau einer Heizungsanlage in das Obergeschoss des Feuerwehrgerätehauses Schleiden
+- TOP 3.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 3.1.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 3.1.: Versetzung eines Beamten in den vorzeitigen Ruhestand wegen Dienstunfähigkeit
+- TOP 3.2.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 3.2.: Schulcontainer Käthe-Kollwitz-Realschule Aldenhoven
+- TOP 4.: Grundstücksangelegenheiten
+- TOP 4.1.: Grundstücksangelegenheiten
+- TOP 4.1.: Übertragung einer Straßenteilfläche in der Gemarkung Siersdorf
+- TOP 4.2.: Grundstücksangelegenheiten
+- TOP 4.2.: Kauf eines Grundstückes zur Anlegung eines Bolzplatzes in Aldenhoven
+- TOP 4.3.: Grundstücksangelegenheiten
+- TOP 4.3.: Verkauf eines Industriegrundstückes in Aldenhoven
+- TOP 4.4.: Grundstücksangelegenheiten
+- TOP 4.4.: Grundstückstausch für die Grundstücke Gemarkung Aldenhoven, Flur 16, Nrn. 258 und 352
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1.: a) Einstellung eines Teilzeitbeschäftigten b) Höhergruppierung einer Angestellten c) Regelung Unterschriftsbefugnis
+- TOP 6.: Wiederaufbau der Kommende Siersdorf zum Alten- und Pflegeheim
+- TOP 7.: Mitteilungen und Anfragen.
+- TOP 8.: Verschiedenes.
