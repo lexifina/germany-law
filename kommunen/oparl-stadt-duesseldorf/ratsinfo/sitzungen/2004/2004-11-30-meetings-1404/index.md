@@ -1,0 +1,54 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-11-30T16:00:00+01:00
+- Ende: 2004-11-30T18:40:00+01:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1404
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1404
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111344.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111344.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111344.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift - zur Kenntnis genommen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: zurückgezogen - zur Kenntnis genommen
+- TOP 8: Bockumer straße -Fußgängerüberweg- - zur Kenntnis genommen
+- TOP 9: Bennennung Danziger Str. (B8 und B8n) - zur Kenntnis genommen
+- TOP 10: Weihnachtsmarkt "Kaiserswerther Winterzauber" - zur Kenntnis genommen
+- TOP 11: Stockumer Kirchstraße/Kaiserswerther Straße - zur Kenntnis genommen
+- TOP 12: Freiheitshagen - Herrichtung - zur Kenntnis genommen
+- TOP 13: Leuchtenberger Kirchweg - Grün-/Baumbewuchs - zur Kenntnis genommen
+- TOP 14: Ruhebänke Stockum - zur Kenntnis genommen
+- TOP 15: Nordpark - Ballhaus, Illumination - zur Kenntnis genommen
+- TOP 16: Angermunder Straße - Parkscheibenregelung - zur Kenntnis genommen
+- TOP 17: Kinderspielplatz Melbecksweg - zur Kenntnis genommen
+- TOP 18: Angermunder Straße - Baumpflanzungen - zur Kenntnis genommen
+- TOP 19: Angermunder Straße - Verkehrskontrollen - zur Kenntnis genommen
+- TOP 20: Angermund/ S- Bahnhof - zur Kenntnis genommen
+- TOP 21: Angermunder Straße - Radwege - zur Kenntnis genommen
+- TOP 22: Verkehrsberuhigung Angermunder u. Rahmer Straße - zur Kenntnis genommen
+- TOP 23: Max-Clarenbach-Weg - Herrichtung - zur Kenntnis genommen
+- TOP 24: Offene Ganztagsschule im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 25: Betreuungsangebot für unter 3-Jährige - zur Kenntnis genommen
+- TOP 26: Alte Landstraße - Bürgersteige - zur Kenntnis genommen
+- TOP 27: Arnheimer Straße - Parkplätze - zur Kenntnis genommen
+- TOP 28: Angermund - Pflege der Rosenbeete - zur Kenntnis genommen
+- TOP 29: Arena - Schallreduzierung - zur Kenntnis genommen
+- TOP 30: Verkehrsfluss Niederrheinstraße - A 44 - zur Kenntnis genommen
+- TOP 31: Sandweg - Überarbeitung Taxispur - zur Kenntnis genommen
+- TOP 32: Sportanlage - Neusser Weg - zur Kenntnis genommen
+- TOP 33: Rauchverbot an Schulen - zur Kenntnis genommen
+- TOP 34: Stellungnahmen und Mitteilungen - zur Kenntnis genommen
+- TOP 35: Verschiedenes - zur Kenntnis genommen
+- TOP 36: Hochwasserschutz Angermund/Kalkum - zur Kenntnis genommen
+- TOP 37: Widmung von Straßen - zur Kenntnis genommen
