@@ -1,0 +1,89 @@
+# Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen für einen Teil der Ortslagen in Köln-Altstadt/Nord zwischen Dom, Rheinufer, Heumarkt , Gürzenich und Marspfortengasse
+
+- Gemeinde: Stadt Köln (ARS 053150000000)
+- Datum: 2002-04-16 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/werbesatzung-altstadt-nord20020416.pdf
+- Text: PDF der Stadt, Textschicht (pdftotext)
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+Satzung über Anbringungsort, Abmessung und Ausgestaltung von Werbeanlagen für einen Teil der Ortslagen in Köln-Altstadt/Nord zwischen Dom, Rheinufer, Heumarkt , Gürzenich und Marspfortengasse
+vom 16.04.2002
+Der Rat der Stadt Köln hat in seiner Sitzung am 31.01.2002 aufgrund des § 86 Abs. 1 Nr. 1 und 2 und Abs. 2 Nr. 1 in Verbindung mit § 84 Abs. 1 Nr. 20 und Abs. 3, § 65 Abs. 1 Nr. 33, 34 und 35 der Bauordnung für das Land Nordrhein-Westfalen (BauO NW) vom 01.06.2000 (GV NW S. 622 / SGV NW 232) -in Verbindung mit § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NW) vom 14.07.1994 (GV NW S. 666/ SGV NW 2023) -in der bei Erlass dieser Satzung geltenden Fassungdiese Satzung beschlossen:
+Präambel
+Das Satzungsgebiet umfasst das nordöstliche römische Köln. Die im Jahre 50 begonnene römische Stadtmauer verlief im Osten mitten durch das Satzungsgebiet. Funde aus römischer Zeit – im Norden Reste reicherer Wohnbauten und eines Tempels sowie im mittleren Abschnitt in Fundamente des ehemaligen Stadthalterpalasts der Provinz Niedergermaniens und der südlich anschließenden Aula regia – deuten auf die wichtige Bedeutung dieses Teils des römischen Kölns. Vor der römischen Mauer lag der römische Hafen, der im Norden vor dem Domchor lag, im anschließenden Teil befand sich das Hafenbecken im Bereich der heutigen Bechergasse und des Alter Markts sowie westlich des Heumarkts. Auf der in römischer Zeit vorgelagerten Insel lagen drei römische Speicherhallen im Bereich von Groß St. Martin. Südlich davon etwa in Höhe der heutigen Salzgasse/Obenmarspforte führte die im Jahre 312 errichtete feste Brücke über den Rhein.
+Auch in den folgenden Jahrhunderten prägten de Veränderungen im Satzungsgebiet die Geschichte der Stadt Köln. In Nachbarschaft des römischen Tempels aus dem 2 Jh. entstanden im 3. Jahrhundert die erste Hauskapelle der Christen in Köln, der eine frühchristlichen Bischofskirche Ende des 4. Jahrhunderts folgte und nach den verschiedensten, immer umfangreicheren Baumaßnahmen schließlich 1248 der Grundstein für den heutigen Dom gelegt wurde.
+Am südlichen Rand des Satzungsgebietes stehen die Ruinen einer der ältesten Kölner Pfarrkirche; der Gründungsbau dieser Kirche Alt-St. Alban stammt vermutlich aus dem 9. Jahrhundert oder vorher.
+Das Praetorium wurde nach Abzug der Römer nach der Mitte des fünften Jahrhunderts von den Franken als Königspalast weiter genutzt. In der Karolingerzeit entwickelte sich auf dem Gelände des Praetoriums ein Viertel reicher Kaufleute und ein Wohngebiet für Juden, aus dem sich später das Judenviertel entwickelte. Hier stand auch seit dem 12. Jahrhundert das Haus der Reichen, ein Vorgängerbau des heutigen Rathauses, das sich seit Mitte des 14. Jahrhunderts zu dem gegenwärtigen Rathauskomplex entwickelte. Seit dem Hochmittelalter waren so im Satzungsgebiet
+Seite 1 von 8
+
+das Rathaus, der zentrale Bau der städtischen Verwaltung sowie der Dom, der repräsentative Bau der christlichen Kirche und zwischenzeitlich vermutlich seit dem 4. Jahrhundert auch eine Synagoge mit einer Mikwe, als Kulturzentrum der Kölner Juden versammelt. Nach Vertreibung der Juden aus Köln im Jahre 1424 wurde die Synagoge zur Ratskapelle umgebaut und damit der Ratsbezirk aufgewertet.
+Der römische Hafen war im 2. Jahrhundert bereits verlandet und es entsteht allmählich eine Rheinvorstadt, die mit der Stadterweiterung vor 950 Jahren vollendet wurde. Erzbischof Bruno (953-965) gründete auf den Fundamenten der römischen Bauten ein Kanonikerstift, das im 11 Jahrhundert in ein Benediktinerkloster umgewandelt wurde und dessen Kirche Groß St. Martin bis heute das Viertel optisch beherrscht. Die Funktion des Hafens übernahm nun die Werft entlang des Rheins vor der neuen Vorstadt. Der Standort des Kölner Wirtschaftszentrums war damit bis zum Ende des 19. Jahrhunderts festgelegt. Auf dem Alter Markt und Heumarkt wurde die Ware angeboten und 1142 auf dem Heumarkt die Münze errichtet. Seit 1426 wurde im sogenannten Fischkaufhaus, dem Vorgänger der heutigen Stapelhauses, die auf dem Rhein beförderte Ware kontrolliert, drei Tage lang zum Verkauf angeboten, und ordnungsgemäß verpackt auf andere Schiffe verladen. 1730 wurde auf dem Heumarkt die Börse erstellt und 1797 in seiner Nähe im Rheinviertel die Handelskammer errichtet. Auch die Kaufleute wählten als Wohnplatz das Rheinviertel. 1822 wurde die erste Brücke in nachrömischer Zeit im Süden des Satzungsgebietes in Höhe der Markmannsgasse als Schiffsbrücke erstellt.
+Mit der Verlegung des Hafenbetriebs in den 1898 fertig gestellten Rheinauhafen verlor das Rheinviertel seine Wirtschaftsfunktion. Der alte Verkehr auf den Umschlagsflächen am Ufer verwandelte sich mit der Motorisierung in Durchgangsverkehr. Das Viertel selbst war in den 20er Jahren des 20. Jahrhunderts bereits sanierungsreif. Ziel der Sanierung war es, das inzwischen dicht bebaute Viertel zu entkernen. So entstanden die beiden größeren Plätze Eisenmarkt und Ostermannplatz während der Sanierungsarbeiten der 30erJahre. Bauteile reicherer abgetragener Bauten, wie Portale wurden an Neubauten untergebracht. Zahlreiche barocke Hauseingänge, Kranbalken und Grinköpfe, auch wenn sich nicht mehr an originaler Stelle sind, erinnern gegenwärtig an das einstige reiche Kaufmannsviertel. Nach dem zweiten Weltkrieg wurden im Zuge des Wiederaufbaus die schmalen Fassaden beibehalten und die Schieferdeckung allgemein vorgeschrieben. Mitte des 20. Jahrhunderts verbreiterte man den ehemaligen Kai zu einer komfortablen Uferpromenade durch Vorbau einer über die Wasserfläche ausragenden Betontafel. 1983 kam es mit Fertigstellung des Rheinufertunnels, der die Straße unter das frühere Hafengelände absenkt, zur Anlage des Rheingartens. Innerhalb des Rheingartens wurde ein Bollwerk aus spätmittelalterlichen Befestigung Kölns in seinem Grundriss sichtbar festgeschrieben.
+Im nördlichen Kaufmannsviertel entlang der Mühlengase entwickelte sich während des 19. Jahrhunderts anstelle einzelner Häuser der große Handels- und Fabrikbetrieb der Textilfirma „Brüggelmann“. In Nachfolge der mittelalterlichen Kaufleute kamen im 19. und 20. Jahrhundert die Bauten zweier weiterer Handelsfirmen hinzu, „Neuerburg“ und „Farina Gegenüber“. Sie zeugen noch von dem früheren wirtschaftlichen Leben im Umkreis des städtischen Verwaltungszentrums.
+Neben der einst stark verdichteten Bebauung um das geistliche und weltliche Zentrum Kölns bestanden im Mittelalter nur die beiden großen Marktplätze und der
+Seite 2 von 8
+
+Rathausplatz als Freiflächen im Satzungsgebiet. Im Zuge der Säkularisation entstanden an Stelle der beiden Pfarrkirchen St. Laurentius und St. Brigiden weitere Plätzchen, der Laurenzplatz und eine Freifläche an der Südseite von Groß St. Martin. Weitere Plätze ergaben sich durch die Domfreilegung im 19. Jahrhundert, die genannte Sanierung des Rheinviertels und schließlich nach den Zerstörungen des Zweiten Weltkrieges durch Freihalten zwischen größeren neue Baukörpern. Seit dem ausgehenden 19. Jahrhundert bis in die Gegenwart werden die zahlreichen Plätze mit Brunnenanlagen und Standbildern geschmückt.
+Der Geltungsbereich der Satzung ist – wie oben dargelegt – geprägt durch bedeutende Sakral-, Kultur-und Verwaltungsbauten und er stellt die Keimzelle der geschichtlichen Entwicklung Kölns dar. Zahlreiche baukünstlerisch und historisch bedeutsame Bauwerke befinden sich im Satzungsgebiet .Auch der aus der Antike und dem Mittelalter weitgehend übernommene bzw. noch erhaltene Stadtgrundriss ist von städtebaulich-historischer Bedeutung.
+Die baugestalterische Absicht dieser Satzung ist wegen ihrer geschichtlichen Bedeutung einerseits die Erhaltung des Straßen- und Platzbildes dieses schützenswerten Gebietes, das bisher durch Werbeanlagen nicht übermäßig beeinträchtigt ist und andererseits die zukünftige Entwicklung positiv zu beeinflussen. Es gibt seit 1987 für einen Großteil des Gebietes bereits eine „Werbesatzung“, die für Werbeanlagen an privaten Gebäuden und im öffentlichen Straßenraum Regelungen vorgibt. Dies ist auch deshalb erforderlich, da für den Satzungsbereich zwei Bebauungspläne im Rahmen der Sanierung Altstadt aufgestellt werden (Arbeitstitel: „Groß St. Martin“ und „Brüggelmannhaus“), die nunmehr auch mit dem erweiterten Geltungsbereich der Werbesatzung identisch sind. Aus Gründen der geordneten städtebaulichen Entwicklung (gleiche Grundlage für die rechtliche Beurteilung von Bauvorhaben) in Verbindung mit der Sicherung der Sanierungsziele ist es erforderlich, die Werbesatzung auf den gesamten Geltungsbereich der Bebauungspläne auszudehnen.
+Um das oben geschilderte unverwechselbare Ortsbild auch zukünftig zu erhalten, sollen die Werbeanlagen, die an den Gebäuden im Geltungsbereich dieser Satzung angebracht werden sollen, besondere Anforderungen gestellt werden. Das bedeutet, dass die Werbung in Abmessung, Ausgestaltung und Anbringungsort auf die besondere Situation am Gebäude und auch im Straßenraum Rücksicht nehmen muss, so dass eine Beeinträchtigung bzw. Verunstaltung des Gebietes, der Straßen und ihrer Gebäude durch zu große, zu schrille und falsch platzierte Werbeanlagen sowie eine große Häufung dieser Anlagen verhindert wird.
+Daher wurde bei der Abwägung der öffentlichen und privaten Belange dem öffentlichen Interesse an der Schutzwürdigkeit dieses Stadtgebietes vor den ungeschränkten Interessen der Geschäftswelt und der Werbewirtschaft der Vorrang einräumt. Die Geschäftsleute profitieren ihrerseits von der Attraktivität der Straßen, so dass ihnen gewisse Einschränkungen bei den Werbeanlagen zugemutet werden können. Den Belangen der Werbewirtschaft wird dadurch Rechnung getragen, dass bestimmte Werbeanlagen nur in dafür ausgewiesenen Bereichen im öffentlichen Straßenland, die sowohl den stadtgestalterischen als auch den wirtschaftlichen Gesichtspunkten genügen, zulässig sind. Eine zu große Häufung dieser Werbeanlagen ist somit ausgeschlossen.
+Seite 3 von 8
+
+Grundsätzlich kann zu der Größe von Werbeanlagen gesagt werden, dass Werbeanlagen an Gebäudefassaden eine gewisse Abmessung nicht überschreiten sollten, die sich an den Gebäudeproportionen orientieren muss. Würde dem nicht gefolgt, so würde die Architektur verunklart und die Proportionen der Gebäude wären nicht mehr ablesbar.
+Gebäudefassaden sind durch Architekturelemente, wie Wandflächen, Stützen, Erker, Balkone, vor allem aber durch Türen, Fenster und Brüstungen, stark gegliedert. Für den Passanten sind diese Elemente – vor allem die letztgenannten – unverzichtbarer Bestandteil zur Orientierung in der gebauten Umwelt. Durch sie nimmt er den Maßstab des Gebäudes, die Geschosszahl, die Geschosshöhe und bis zu einem gewissen Grade auch die Funktion und den Inhalt der Gebäude wahr. Dieses gilt auch für ungegliederte und scheinbar leere Fassadenteile, die im Zusammenhang mit der Gesamtfassade einen wesentlichen Teil der architektonischen Aussage des Gebäudes ausmachen. Deshalb sollen Werbeanlagen an Gebäudefassaden nur eine Dimension und Ausgestaltung haben, die die Dominanz dieser Architekturelemente nicht beeinträchtigt.
+Aus den o.g. Gründen können Reklamen, die in den westlich ungegliederten Straßenflächen stehen, meist größere Dimensionen haben. Es müssen daher an Reklameflächen im Straßenland und an Gebäuden verschiedene Maßstäbe angelegt werden.
+Aus Gründen der Erkennbarkeit der o.g. Maßstäblichkeit der Gebäude, vor allem der Ablesbarkeit von Geschosshöhen und Fenstergrößen, wird eine Einzelreklamefläche an Gebäuden von maximal 1,0m² als noch vertretbar angesehen.
+Generell sollen die Werbeanlagen eine Ausdehnung von maximal 0,25m nicht überschreiten, um nicht zu weit in den öffentlichen Straßenraum hineinzuragen. Ausgenommen von dieser Regelung sind die auskragenden Hinweisschilder von Gaststätten, die historisch bedingt auf eine lange Tradition zurückblicken können und daher auch zukünftig zulässig sein sollen.
+§1 Geltungsbereich
+Die Vorschriften dieser Satzung gelten für das Errichten, Aufstellen, Anbringen und Ändern von Werbeanlagen im räumlichen Geltungsbereich dieser Satzung. Der räumliche Geltungsbereich umfasst das im beiliegenden Plan –Anlage- umrandete Gebiet. Der Plan ist Bestandteil dieser Satzung.
+§2 Umfang des Genehmigungsvorbehalts
+(1) Alle Werbeanlagen im Geltungsbereich dieser Satzung mit Ausnahme der in Absatz 2 genannten Werbeanlagen sind genehmigungspflichtig.
+(2) Einer Genehmigung aufgrund dieser Satzung bedarf es nicht für:
+Seite 4 von 8
+
+- Werbanlagen bis zu einer Größe von 0,5 m²
+- Werbanlagen für zeitlich begrenzte Veranstaltungen, insbesondere für Ausverkäufe und Schlussverkäufe an der Stätte der Leistung, jedoch nur für die Dauer der Veranstaltung.
+- Werbeanlagen, die an der Stätte der Leistung vorübergehend angebracht oder aufgestellt sind, soweit sie nicht mit dem Boden oder einer anderen baulichen Anlage verbunden sind und nicht über die Baulinie oder Baugrenze hinausragen.
+(3) Die für Werbeanlagen an eingetragenen oder vorläufig geschützten Denkmäler erforderliche besondere Erlaubnis gemäß § 9 in Verbindung mit § 3 Abs. 1 Satz 2 Denkmalschutzgesetz NW bleibt unberührt.
+§3 Genehmigungsvoraussetzungen
+(1) Zulässig sind Werbeanlagen, wenn sie alle nachfolgenden Vorschriften einhalten:
+1. Sie dürfen nur zwischen Erdgeschoss und der Unterkante der Fenster des 2. Obergeschosses angebracht werden.
+2. Sie müssen so angeordnet werden, dass sie Fenster- und Schaufensterflächen weder teilweise noch vollständig verdecken.
+3. Sie dürfen grundsätzlich nur bis zu 1,0m² zusammenhängender Fläche beanspruchen, es sei denn, es handelt sich um einen Schriftzug aus Einzelbuchstaben, der auf der Wandfläche angebracht wird und eine max. Höhe von 0,5m nicht überschreitet. Der Schriftzug darf nicht auf ein anderes Gebäude übergreifen.
+4. Sie dürfen nicht mehr als 0,25m Ausladung aufweisen. Maßgeblich ist der Abstand zwischen der aufgehenden Fassade des Anbringungsgebäudes (Hauswand) und dem parallel dazu entferntesten Punkt der Werbeanlage. Ausgenommen hiervor sind rechtwinklig zur Hauswand angebrachte Hinweisschilder für Gaststätten bis zu einer Größe von 1,0 m²; die Aufhängekonstruktion bleibt hierbei außer Betracht.
+5. Sie dürfen keine wechselnden oder bewegte Sichtfläche oder eine entsprechende Beleuchtung (einschließlich Lichtprojektionen) haben. Als mit dieser Zielsetzung unvereinbar gelten auch akustische und akustisch unterstützte Werbeanlagen.
+(2) Die Nummern 1 bis 5 gelten nicht für Werbeanlagen im Sinne des § 4 dieser Satzung.
+(3) Werbeanlagen an Brückenanlagen, Böschungsmauern, Einfriedungen, Erkern, Balkonbrüstungen und Schornsteinen sind untersagt.
+(4) Die allgemeinen Vorschriften der §§ 12 und 13 BauO NW bleiben unberührt.
+Seite 5 von 8
+
+§4 Besondere Werbekörper
+Besondere Werbekörper wie Litfasssäulen, Werbevitrinen, Werbeanlagen an Fahrradständern und Uhrenkandelaber werden nur in den der Anlage gekennzeichneten Bereichen genehmigt. Werbevitrinen sind auch an der Fahrgastunterständen des öffentlichen Personennahverkehrs zulässig. Für diese gelten die nachfolgenden Anforderungen an ihre Abmessung und ihre technische Beschaffenheit. Sie sind nur genehmigungsfähige, wenn die folgenden besonderen Vorschriften entsprechen:
+1. Litfaßsäulen nicht höher als 6,00 m Durchmesser kleiner als 2,80 m;
+2. Werbevitrinen:
+a) an Unterständen der öffentlichen Nahverkehrsmittel höchstens eine doppelseitige, hinterleuchtete, mit einer Werbefläche von nicht mehr als 1,85 x 1,30 m
+b) hinterleuchtete, doppelseitige Stadtinformationsanlagen mit einer Werbefläche von nicht mehr als 1,85 m x 1,30 m
+3. Werbeanlagen an Fahrradständern Werbeflächen nicht höher als Fahrradständern 0,40 m und nicht breiter als 1,60 m
+4. Uhrenkandelaber nicht höher als 5,50 m
+§5 Bestehende Werbeanlagen
+Für bestehende Werbeanlagen bestimmen die Vorschriften dieser Satzung den Inhalt der sich aus § 87 BauO NW ergebenden Anpassungspflichten.
+§6 Ausnahmen
+Ausnahmen von den o.g. Festsetzungen können in Einzelfällen, sofern diese nicht gegen den Sinn der Satzung verstoßen, nämlich deutliche Dominanz der Architekturelemente vor der Werbung, klare Ablesbarkeit des Straßenverlaufes und unbeeinträchtige Blickbeziehungen auf besondere Bauwerke und Plätze, in Übereinstimmung mit den zuständigen Dienststellen getroffen werden.
+Seite 6 von 8
+
+§7 Ordnungswidrigkeiten
+Wer vorsätzlich oder fahrlässig eine nach dieser Satzung genehmigungspflichtige Werbeanlage ohne Genehmigung errichtet, aufgestellt, ändert oder anbringt, begeht eine Ordnungswidrigkeit im Sinne des § 84 Abs. 1 Nr. 21 und Abs. 3 der BauO NW, die mit einer Geldbuße bis zu 50.000,00 Euro (97.791,50 DM) geahndet werden kann.
+
+§8 Inkrafttreten
+Diese Satzung tritt mit dem Tage nach der Bekanntmachung in Kraft. Vorstehende Verordnung wird hiermit öffentlich bekannt gemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
+
+Köln, den 16.04.2002 - ABl StK 2002, S. 169 -
+
+Der Oberbürgermeister gez. Schramma
+
+Seite 7 von 8
+
+Seite 8 von 8
