@@ -1,4 +1,4 @@
-# TOP 3.2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+# TOP 3.2.: Erstellung von Parkplätzen in der "Kapuzinerstraße" in Aldenhoven
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
