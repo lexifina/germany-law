@@ -4,9 +4,9 @@ Teil 1: Ausbildung
 § 1 | Aufgaben und Ziele
 § 2 | Allgemeine Unterrichtsgrundsätze
 § 3 | Dauer und Organisation der Ausbildung
-§ 4 | Unterrichtsfächer, Stundentafeln und Lehrpläne
+§ 4 | Unterrichtsfächer und Stundentafeln
 § 5 | Voraussetzungen für die Zulassung
-§ 6 | Zulassungsverfahren für Ausländer und Aussiedler
+§ 6 | Zulassungsverfahren für Bewerber nicht deutscher Herkunftssprache
 § 7 | Zulassung
 Teil 2: Prüfung
 § 8 | Allgemeines
@@ -14,10 +14,9 @@ Teil 2: Prüfung
 § 10 | Prüfungsausschuß und Teilprüfungsausschüsse
 § 11 | Gegenstand, Ort und Termine der Prüfung, Belehrung
 § 12 | Zulassung zur Prüfung
-§ 12a | Berücksichtigung besonderer Belange Behinderter
-§ 13 | Festlegung der schriftlichen Prüfungsfächer
-§ 14 | Erste Prüfungskonferenz
-§ 15 | Praktische Prüfung
+§ 13 | Berücksichtigung besonderer Belange Behinderter
+§ 14 | Festlegung der schriftlichen Prüfungsfächer
+§ 15 | Erste Prüfungskonferenz
 § 16 | Schriftliche Prüfung
 § 17 | Zweite Prüfungskonferenz
 § 18 | Mündliche Prüfung
