@@ -1,4 +1,4 @@
-# TOP 4.3.: Grundstücksangelegenheiten
+# TOP 4.3.: Verkauf eines Industriegrundstückes in Aldenhoven
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
