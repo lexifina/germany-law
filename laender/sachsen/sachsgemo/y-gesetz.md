@@ -1,2 +1,2 @@
 # Gemeindeordnung für den Freistaat Sachsen (SächsGemO)
-Rechtsbereinigt mit Stand vom 16. Februar 2002
+Rechtsbereinigt mit Stand vom 13. März 2002
