@@ -1,0 +1,66 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2002-06-20T15:00:00+02:00
+- Ende: 2002-06-20T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZXKHsK9mNngxNLqtcuf41mM
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/663
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRRyp0WABh8LO4FYX0Q-naaYVWLPyiPcJ1_brh8yi9Om/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_20.06.2002.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: Richtlinien der Stadt Bochum zur Förderung von Selbsthilfegruppen und Initiativen im Bereich Sozial- und Gesundheitswesen
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: Sozialberichterstattung - Zwischenbericht - Ausländer, Arbeitslose und Sozialhilfeempfänger - kleinräumige Analyse für das Bochumer Stadtgebiet -
+- TOP 5: Ausweis für die Benutzung städtischer Einrichtungen zum ermässigten Preis (Bochum-Pass)
+- TOP 6: Vorgehensweise der Stadt Bochum zur PCB-Schadstoffsanierung
+- TOP 7: Gestaltung von Sozialhilfebescheiden
+- TOP 8: Ghettoisierung in Bochum
+- TOP 9: Beibehaltung der Siebten Änderungssatzung vom 14.11.2001 zur Obdachlosengebührensatzung
+- TOP 10: Unterkünfte für Aussiedler, Flüchtlinge und Wohnungslose
+- TOP 11: Situation bei der Aufnahme und Unterbringung von Flüchtlingen und Aussiedlerinnen und Aussiedlern in Bochum
+- TOP 12: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 13: Vergabe von Zuschüssen an Selbsthilfegruppen und Initiativen - Sozialamt -
+- TOP 14: Verteilung von Zuschüssen an Selbsthilfegruppen im Gesundheitsbereich - HSt. 1/545 717/700/0
+- TOP 15: Beschlussvorschläge für den Rat
+- TOP 16: Ausländerrechtlicher Status der einzelnen Bewohner in den Übergangsheimen
+- TOP 17: Einrichtung einer Kontakt- und Informationsstelle für Selbsthilfegruppen
+- TOP 18: Ausgabenentwicklung im Dezernat V
+- TOP 19: Vergabe von Zuschüssen an Selbsthilfegruppen und Initiativen -Sozialamt-
+- TOP 20: Anträge
+- TOP 21: Sachstandsbericht für das Jahr 2001 für die Beratungs-, Begegnungs- und Übernachtungsstelle für Wohnungslose in Bochum-Wattenscheid
+- TOP 22: Einrichtung einer Kontakt- und Informationsstelle für Selbsthilfegruppen (KISS)
+- TOP 23: Gesetz über eine bedarfsorientierte Grundsicherung im Alter und bei Erwerbsminderung (GSiG)
+- TOP 24: Mitteilungen
+- TOP 25: Richtlinien der Stadt Bochum zur Förderung von Selbshilfegruppen und Initiativen im Bereich Sozial- und Gesundheitswesen
+- TOP 26: Richtlinien der Stadt Bochum zur Förderung von Selbsthilfegruppen
+- TOP 27: Anfragen
+- TOP 28: Entstehung und Intention des Projektes "JobKick"
+- TOP 29: Eröffnung eines Drogenkonsumraumes in Bochum
+- TOP 30: Nachfolgeprogramme zur Sprungbrett-Maßnahme
+- TOP 31: Beratungsstelle "Cafe Route 66" in Bochum-Wattenscheid
+- TOP 32: Tätigkeitsbericht 2001 des Sozialpsychiatrischen Dienstes der Stadt Bochum
+- TOP 33: Tätigkeitsbericht 2001 der Aids-Hilfe Bochum
+- TOP 34: Jahresstatistik 2001 der Aids-Fachkraft des Gesundheitsamtes und Evaluationsstudie
+- TOP 35: Jahresbericht 2001 Krisenhilfe e. V. Bochum
+- TOP 36: Bericht über die Zusammenarbeit zwischen der Mütterberatung des Gesundheitsamtes und dem Allgemeinen Sozialen Dienst des Jugendamtes
+- TOP 37: Sozialberichterstattung - Zwischenbericht - Ausländer, Arbeitslose und Sozialhilfeempfänger - kleinräumige Analyse für das Bochumer Stadtgebiet -
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: keine Tagesordnungspunkte
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 8: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 9: Beschlussvorschläge für den Rat
+- TOP 10: Anträge
+- TOP 11: Mitteilungen
+- TOP 12: Anfragen
