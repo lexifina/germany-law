@@ -1,0 +1,100 @@
+---
+ecli: "ECLI:DE:BVerfG:2002:rs20021220.2bvr102702"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 1027/02"
+decided: "2002-12-20"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss des Zweiten Senats vom 20. Dezember 2002 - 2 BvR 1027/02,\n                    https://www.bverfg.de/e/rs20021220_2bvr102702"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2002/12/rs20021220_2bvr102702.html"
+corpus_doc_id: "BVerfG_2002-12-20_S_2_BvR_1027_02_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0032.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 1027/02 vom 2002-12-20
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 2 BVR 1027/02 -
+
+
+
+
+                                Im Namen des Volkes
+
+                                    In dem Verfahren
+                                          über
+                              die Verfassungsbeschwerde
+
+1.          des Herrn P...,
+
+2.          des Herrn U...,
+
+3.          des Herrn B...,
+
+4.          der Firma R...,
+
+- Bevollmächtigte zu 4.: Rechtsanwälte Wulf Behrend
+                         Peterson und Koll., Poststraße 2 - 4,
+                         20354 Hamburg -
+gegen a) den Beschluss des Landgerichts Hamburg vom 20. Juni 2002 - 618 Qs
+         54/02 -,
+
+        b) den Beschluss des Landgerichts Hamburg vom 14. Juni 2002 - 618 Qs
+           52/02 -,
+
+        c) den Beschluss des Amtsgerichts Hamburg vom 4. Juni 2002 - 164 Gs
+           737/02 - 5100 Js 85/02 -,
+
+        d) die Beschlüsse des Amtsgerichts Hamburg vom 7. Mai 2002 - 164 Gs
+           737/02 - 5100 Js 85/02 -
+
+hier:    Antrag auf Erlass einer einstweiligen Anordnung
+
+hat das Bundesverfassungsgericht - Zweiter Senat - unter Mitwirkung der Richterinnen und Richter
+                                   Vizepräsident Hassemer,
+                                   Sommer,
+                                   Jentsch,
+                                   Broß,
+                                   Osterloh,
+                                   Di Fabio,
+
+
+                                          1/3
+
+                                Mellinghoff,
+                                Lübbe-Wolff
+
+gemäß § 32 Absatz 6 Satz 2 BVerfGG in der Fassung der Bekanntmachung vom
+11. August 1993 (BGBl I S. 1473) am 20. Dezember 2002 beschlossen:
+
+Die einstweilige Anordnung vom 17. Juli 2002 wird für die Dauer von weiteren sechs
+Monaten, längstens jedoch bis zur Entscheidung über die Verfassungsbeschwerde,
+wiederholt.
+
+             Hassemer               Sommer                 Jentsch
+
+                Broß                Osterloh              Di Fabio
+
+             Mellinghoff                                 Lübbe-Wolff
+
+
+
+
+                                        2/3
+
+Bundesverfassungsgericht, Beschluss des Zweiten Senats vom 20. Dezember 2002
+- 2 BvR 1027/02
+
+Zitiervorschlag BVerfG, Beschluss des Zweiten Senats vom 20. Dezember 2002 -
+                2 BvR 1027/02 - Rn. (1 - ), http://www.bverfg.de/e/
+                rs20021220_2bvr102702.html
+
+ECLI           ECLI:DE:BVerfG:2002:rs20021220.2bvr102702
+
+
+
+
+                                     3/3
