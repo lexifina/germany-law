@@ -1,0 +1,54 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2004-06-18T16:00:00+02:00
+- Ende: 2004-06-18T20:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/131
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/131
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Vereidigung einer Beigeordneten
+- TOP 3: Einwohnerfragestunde
+- TOP 4: 28. Satzung zur Änderung der Satzung
+- TOP 5: FDP-Antrag Tranparenz Vorstandsbezüge
+- TOP 6: Planfeststellungsverfahren Flughafen MG
+- TOP 7: B-Plan 147/4, Satzungsbeschluss
+- TOP 8: B-Plan 437, Aufstellungsbeschluss
+- TOP 9: FNP-Änderung 104, Aufstellungsbeschluss
+- TOP 10: Buskap Rheinfährstr./Dormagener Str.
+- TOP 11: Minikreisverkehr Lüttenglehner Str.
+- TOP 12: Erschließung Nördl. Feldstraße, Straßenbau
+- TOP 13: Erschließung Nördl. Feldstraße, Kanalbau
+- TOP 14: Ausbau Vereinsstraße, L 154, Straßenbau
+- TOP 15: Ausbau Vereinsstraße, L 154, Kanalbau
+- TOP 16: Ausbau Schwarzer Weg
+- TOP 17: Erschl. Raketenstation/Insel Hombroich
+- TOP 18: Verbreiterung Radweg über Erftbrücke Bonner Str.
+- TOP 19: Grünrahmenplan zum Bebauungsplan Nr. 375
+- TOP 20: Eigenbetriebsähnliche Einrichtung Friedhöfe
+- TOP 21: Fortschreibung Kinderbetreuungsbedarsplan
+- TOP 22: Kita Rheinparkcenter/Königsberger Straße
+- TOP 23: Verkehrssituation in Neuss-Allerheiligen
+- TOP 24: Einrichtung Integrationsrat gem. § 126 GO NRW
+- TOP 25: Änderung Wahlverfahrensordnung
+- TOP 26: Offene Ganztagsschule - Elternbeiträge
+- TOP 27: Vertretung in der NTTG
+- TOP 28: Bpl südl. Furth Genehmigung üpl Ausgabe
+- TOP 29: SPD:Leben ohne Barierren
+- TOP 30: Grüne: Weltjugendtreffen 2005
+- TOP 31: FDP: Kommunaler Bürgerhaushalt
+- TOP 32: FDP: Elektronischer Parkausweis
+- TOP 33: Baum:Todesstrecke B477
+- TOP 34: Kenntnisnahme IV. Quartal 2003 und I. Quartal 2004
+- TOP 35: Stellungnahme Kreises zum Haushalt 2004
+- TOP 36: Einwohnerfragestunde
+- TOP 37: B-Plan 120/18, Auslegungsbeschluss
+- TOP 38: Genehmigung der Tagesordnung
+- TOP 39: Bau eines Feuerwehrhauses (BUE130504-01453.doc)
+- TOP 40: GEP-Änderung Flughafen MG
