@@ -1,0 +1,58 @@
+# 22. Sitzung des Betriebsausschusses 3 (Ausschuss für Stadtentwicklung, Bau und Verkehr)
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2005-02-17T17:00:00+01:00
+- Ende: 2005-02-17T18:50:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/B3
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2004-B3-2
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2004-B3-2
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2004-B3-2
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2004-B3-2
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2004-B3-2
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Genehmigung des Protokolls
+- TOP -: 
+- TOP 3: 
+- TOP -: Planung
+- TOP 4: BAULEITPLANUNG 8. Änderung des Flächennutzungsplanes (Teil 2) Planbereich: 'Recklinghauser Straße' hier: Auslegungsbeschluss
+- TOP 5: BAULEITPLANUNG Bebauungsplan der Stadt Castrop-Rauxel Nr. 179 Planbereich: Lange Straße / Alfredstraße hier: Beschluss zur Aufstellung und öffentlichen Auslegung des Bebauungsplanes
+- TOP 6: BAULEITPLANUNG 1. Änderung des Bebauungsplanes der Stadt Castrop-Rauxel Nr. 73a-Teil 1 Planbereich: Südlich des Ickerner Knotens hier: Beschluss zur Aufstellung und öffentlichen Auslegung der Bebauungsplanänderung
+- TOP 7: 73. Änderung des Flächennutzungsplanes Planbereich: Suchttherapiezentrum Ruhrgebiet an der Grutholzallee hier: Beschluss zur Durchführung der Änderung des Flächennutzungsplanes gemäß § 2 BauGB sowie Beschluss zur öffentlichen Auslegung gemäß § 3 BauGB
+- TOP 8: Vorhabenbezogener Bebauungsplan Nr. 29 Planbereich: Suchttherapiezentrum Ruhrgebiet an der Grutholzallee hier: Beschluss zur Einleitung des formalen Verfahrens
+- TOP 9: BAULEITPLANUNG 72. Änderung des Flächennutzungsplanes Planbereich: Erweiterung GE-Merklinde hier: Beschluss zur Durchführung und zur öffentlichen Auslegung des Änderungsentwurfes
+- TOP 10: BAULEITPLANUNG Vorhabenbezogener Bebauungsplan Nr. 27 Planbereich: Erweiterung GE-Gebiet Merklinde hier: Beschluss zur Einleitung des formalen Verfahrens
+- TOP 11: BAULEITPLANUNG Bebauungsplan der Stadt Castrop-Rauxel Nr. 168 Planbereich: Hellweg/Stahlbaustraße hier: Beschluss zur Aufstellung und zur öffentlichen Auslegung des Bebauungsplanentwurfes
+- TOP 12: BAULEITPLANUNG Vorhabenbezogener Bebauungsplan Nr. 24 Planbereich: Senioreneinrichtungen an der Schillerstraße hier: Beschluss zur öffentlichen Auslegung
+- TOP 13: Flächennutzungsplan der Stadt Castrop-Rauxel hier: Beschluss zur Neuaufstellung
+- TOP 14: Initiative Stadt Bau Kultur des Landes Nordrhein-Westfalen Wettbewerb 2004/2005 'Stadt macht Platz - NRW macht Plätze' (2. Phase) hier: Beschluss zur Durchführung
+- TOP 15: Zukunftsprojekt Castrop-Rauxel hier: Beschluss zur Durchführung der Erweiterung der Bürgerbeteiligung
+- TOP 16: Sachstandsbericht 'Schillerschule'
+- TOP -: 
+- TOP 17: Widmung der Wikingerstraße als Gemeindestraße
+- TOP 18: Erneuerung der Hermannstraße/Sofienstraße im Zuge der Kanalbaumaßnahme des EUV
+- TOP 19: Sondersatzung vom __________ zur Satzung der Stadt Castrop-Rauxel über die Erhebung von Beiträgen nach § 8 Kommunalabgabengesetz (KAG) des Landes Nordrhein-Westfalen für straßenbauliche Maßnahmen vom 19.11.1980
+- TOP -: 
+- TOP 20: Spielraum- und Spielplatzplanung in der Stadt Castrop-Rauxel
+- TOP 21: Bericht zur sicherheitstechnischen Überprüfung von diversen Kinderspielplatzgeräten in Castrop-Rauxel
+- TOP 22: Kompensationsflächenkonzept Castrop-Rauxel
+- TOP 23: Verkehrssicherung im Straßenraum vs. Baumschutz
+- TOP -: 
+- TOP -: 
+- TOP 25: Förderung von strukturwirksamen Maßnahmen und Projekten aus den Erlösen des Kreises aus dem Verkauf der VEW-Aktien
+- TOP -: Anfragen und Mitteilungen
+- TOP 26: Anfragen der Ausschussmitglieder
+- TOP 27: Mitteilungen der Verwaltung
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
