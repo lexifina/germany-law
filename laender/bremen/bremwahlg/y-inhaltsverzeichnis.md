@@ -71,3 +71,5 @@ Vierter Teil Schlußbestimmungen
 56 | Wahlkosten
 57 | Wahlstatistik
 58 | Landeswahlordnung
+59 | Vorzeitige Beendigung der Wahlperiode der Bürgerschaft.
+60 | Auswirkungen einer vorzeitigen Beendigung der Wahlperiode der Bürgerschaft auf die Wahl zur Stadtverordnetenversammlung.
