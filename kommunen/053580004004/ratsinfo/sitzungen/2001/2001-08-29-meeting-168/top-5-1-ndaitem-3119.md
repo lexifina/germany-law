@@ -1,4 +1,4 @@
-# TOP 5.1.: Grundstücksangelegenheiten
+# TOP 5.1.: Übertragung einer Teilfläche des gemeindeeigenen Grundstückes Gemarkung Schleiden, Flur 10 Nr. 56
 
 - Sitzung: Gemeinderat (2001-08-29)
 - Körperschaft: Gemeinde Aldenhoven
