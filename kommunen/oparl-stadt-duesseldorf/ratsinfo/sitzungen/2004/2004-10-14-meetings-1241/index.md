@@ -1,0 +1,62 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-10-14T15:00:00+02:00
+- Ende: 2004-10-14T17:13:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1241
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1241
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111350.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111350.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111350.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Schriftführerin des Rates - zur Kenntnis genommen
+- TOP 2: Verpfl. RM - zur Kenntnis genommen
+- TOP 3: Anerkennung TO - zur Kenntnis genommen
+- TOP 4: Genehmigung NS - zur Kenntnis genommen
+- TOP 5: Festlegung Zahl Bürgermeister - zur Kenntnis genommen
+- TOP 6: Wahl Bürgermeister - zur Kenntnis genommen
+- TOP 7: Wahlprüfungsausschuss - zur Kenntnis genommen
+- TOP 8: Kommunalwahlausschuss - zur Kenntnis genommen
+- TOP 9: Bildung Ausschüsse - zur Kenntnis genommen
+- TOP 10: Wahl Ausschussmitglieder - zur Kenntnis genommen
+- TOP 11: Bildung JHA - zur Kenntnis genommen
+- TOP 12: Bildung Schulausschuss - zur Kenntnis genommen
+- TOP 13: Ausschussvorsitze - zur Kenntnis genommen
+- TOP 14: Kreispolizeibeirat - zur Kenntnis genommen
+- TOP 15: Umlegungsausschuss - zur Kenntnis genommen
+- TOP 16: Landschaftsbeirat - zur Kenntnis genommen
+- TOP 17: Kapitalvertretung - zur Kenntnis genommen
+- TOP 18: Besetzung von Gremien im Konzern Düsseldorfer Stad - zur Kenntnis genommen
+- TOP 19: AR Schauspiel - zur Kenntnis genommen
+- TOP 20: Bergisch-Rheinischer Wasserverband - zur Kenntnis genommen
+- TOP 21: ITKRR - zur Kenntnis genommen
+- TOP 22: Zweckverband Neanderthal - zur Kenntnis genommen
+- TOP 23: Unterbacher See - zur Kenntnis genommen
+- TOP 24: VRR - zur Kenntnis genommen
+- TOP 25: IRZ - zur Kenntnis genommen
+- TOP 26: Kuratorium des NRW-Forum Kultur und Wirtschaft - zur Kenntnis genommen
+- TOP 27: Seniorenbetreuung Angermund - zur Kenntnis genommen
+- TOP 28: Einbringung Doppikhaushalt - zur Kenntnis genommen
+- TOP 29: Genehmigung 60er - zur Kenntnis genommen
+- TOP 30: Gen. eines 60 er Beschlusses - zur Kenntnis genommen
+- TOP 31: Fläche für Rettungskräfte 60er Beschluss - zur Kenntnis genommen
+- TOP 32: Genehmigung eines 60er-Beschlusses - zur Kenntnis genommen
+- TOP 33: Aufsichtsrat Rheinbahn - zur Kenntnis genommen
+- TOP 34: Gen. eines 60er - Beschlusses - zur Kenntnis genommen
+- TOP 35: Masterplan; Instandsetzung von Straßen - zur Kenntnis genommen
+- TOP 36: Genehmigung 60er-Beschl. - zur Kenntnis genommen
+- TOP 37: Dringlichkeitsentscheidung - Freigabe Sonntag - zur Kenntnis genommen
+- TOP 38: Genehmigung 60-er Besch. - zur Kenntnis genommen
+- TOP 39: 60er: Kommunalwahlausschuss - zur Kenntnis genommen
+- TOP 40: Gen. 60er-Beschl. - zur Kenntnis genommen
+- TOP 41: Gen. 60er: Alstadttreff - zur Kenntnis genommen
+- TOP 42: Gen. 60-er Beschluss - zur Kenntnis genommen
+- TOP 43: DE60(1)S2: BPL6071/36-Nördl.Karl-Hohmann-Str - zur Kenntnis genommen
+- TOP 44: Gen. 60-er - zur Kenntnis genommen
+- TOP 45: DE §60(1)S2: BPl4978/18 Im Heerdter Feld Anr, Satz - zur Kenntnis genommen
