@@ -1,0 +1,83 @@
+# 12. (öfftl.) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2001-07-18T16:00:00+02:00
+- Ende: 2001-07-18T16:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=631
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=631
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2: Informationen des Vorstehers - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Programm Prosoz im Sozialamt - schriftlich beantwortet
+- TOP 8: Alte Feuerwache und Familienbegegnungszentrum Altglienicke - schriftlich beantwortet
+- TOP 9: Konzept zur Ansiedlung von Gewerbeunternehmen im Zusammenhang mit dem Ausbau und dem Betrieb des Verkehrsflughafens Berlin-Schönefeld <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margit Görsch)</span> - schriftlich beantwortet
+- TOP 10: Neubau der Schienenanbindung zum Tanklager des Flughafens Schönefeld <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Thomas Krause)</span> - schriftlich beantwortet
+- TOP 11: Näherrückende Autobahn <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - schriftlich beantwortet
+- TOP 12: Rathausuhr Johannisthal <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 13: Information der BVV über die Auswirkungen des neuen Flugsicherungsverfahrens zur Lärmbelastung im Bezirk Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ralf Henze)</span> - vertagt
+- TOP 14: Sondermittel für Ortsverein Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 15: Sondermittel für Eltern helfen Eltern e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 16: Sondermittel für Tausendfüßler e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 17: Sondermittel für Segel-Club Fraternitas 1891 e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 18: Sondermittel für Evangelische Kirchengemeinde Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 19: Sondermittel für Alte Möbelfabrik e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 20: Sondermittel für Senioren-Instrumentalgruppe "Volksmusik-Oldies" im Vital - ohne Änderungen in der BVV beschlossen
+- TOP 21: Sondermittel für SSV Oberspree Berlin e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 22: Sondermittel für Kunstverein Treptow e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 23: Sondermittel für Jugendclub Mügge - ohne Änderungen in der BVV beschlossen
+- TOP 24: Sondermittel für Remise Köpenick e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 25: Sondermittel für Behindertenverein Köpenick e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 26: Sondermittel für Deutschen ILCO e.V., Region Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 27: Entwurf des Doppelhaushaltes Treptow-Köpenick für die Haushaltsjahre 2002/2003 - überwiesen
+- TOP 28: Sondermittel für Treptower Schreibwerkstatt - ohne Änderungen in der BVV beschlossen
+- TOP 29: Sondermittel für GFAJ e.V., Fachinformationsstelle/Facharchiv Extremismus und Jugendmedien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 30: Sondermittel für Adlershofer Tennis-Club e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 31: Sondermittel für das Jugendtheaterzentrum "Alte Möbelfabrik e.V." - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 32: Dauerhafte Finanzierung - ohne Änderungen in der BVV beschlossen
+- TOP 33: Aufstellungsbeschluss für den Bebauungsplan 9-1 für das Gelände der ehemaligen Gärtnerei zwischen Feldblumenweg und städtischem Forst Köpenicker Bürgerheide im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauUm)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 34: Anmeldung zur Investitionsplanung 2001 bis 2005 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 35: Jazz-Keller im Rathaus Treptow - überwiesen
+- TOP 36: 40. Jahrestag des Mauerbaus - ohne Änderungen in der BVV beschlossen
+- TOP 37: Fortbildungsangebote - ohne Änderungen in der BVV beschlossen
+- TOP 38: Gedenkstein <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Werner Laube)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 39: Haushaltswirtschaftliche Maßnahmen zur Beseitigung von Unterschieden in der Haushaltssystematik 2001 der ehemaligen Bezirke Treptow und Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, PVFinWi)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 40: Neues Wegerecht von der Bölschestraße zur Emrichstraße und Peter-Hille-Straße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Elke Werner)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 41: - Entwurf des Bebauungsplanes XV-37ea, - Entwurf der Verordnung über die Festsetzung zum Bebauungsplan XV-37ea im Bezirk Treptow-Köpenick von Berlin, Ortsteil Bohnsdorf <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, Stadt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 42: - Entwurf des Bebauungsplans XVI-18 - Entwurf der Verordnung über die Festsetzung zum Bebauungsplan XVI-18 im Bezirk Treptow-Köpenick, Ortsteil Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, Stadt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 43: - Entwurf des Bebauungsplans XVI-21 im Bezirk Treptow-Köpenick, Ortsteil Rahnsdorf - Entwurf der Verordnung über die Festsetzung des Bebauungsplans XVI-21 im Bezirk Treptow-Köpenick, Ortsteil Rahnsdorf <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, Stadt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 44: Änderung der Geschäftsordnung - überwiesen
+- TOP 45: Aufklärung über den EURO - ohne Änderungen in der BVV beschlossen
+- TOP 46: Einsatz der Dokumentationsreihe "Hitlers Kinder" im Geschichtsunterricht <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ulrich Stahr)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 47: Schulschwimmen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Thomas Krause)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 48: Verkehrserschließung des WISTA-Geländes - ohne Änderungen in der BVV beschlossen
+- TOP 49: Projekt "Rauchfreie Zeiten" - überwiesen
+- TOP 50: Klimatisierung des Trauzimmers/Standesamt im Rathaus Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Thomas Krause)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 51: Parkplätze in der Johannisthaler Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 52: Jugendgerechte Förderung des Nichtrauchens - überwiesen
+- TOP 53: Getränkeversorgung im Wartebereich des Trauzimmers/Standesamt im Rathaus Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Thomas Krause)</span> - in der BVV abgelehnt
+- TOP 54: Entlastung der Baumschulenstraße - überwiesen
+- TOP 55: Verbreitern des Fahrbahnbereiches Regattastraße/Sportpromenade zur Gewinnung von Parkplätzen und Verbesserung des Verkehrs - überwiesen
+- TOP 56: Sicherer Schulweg - ohne Änderungen in der BVV beschlossen
+- TOP 57: Verwahrlosung des Grundstückes Anna-Seghers-Straße 87 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wolfgang Grasenick)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 58: Komplexe Begegnungsstätte (Dahmestr. 33) - ohne Änderungen in der BVV beschlossen
+- TOP 59: Sauberkeit im Forst Grünau <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 60: Brunnenanlage im Volkspark - überwiesen
+- TOP 61: Konzeption für ehemaliges Zivilschutzgelände in Bohnsdorf - überwiesen
+- TOP 62: Erweiterung der Tempo-30-Strecke in der Dörpfeldstraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wolfgang Grasenick)</span> - überwiesen
+- TOP 63: Bewerbungstraining für Jugendliche in Jugendfreizeiteinrichtungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ulrich Stahr)</span> - in der BVV abgelehnt
+- TOP 64: Insolvenzverfahren <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Anneliese Bräuer)</span> - vertagt
+- TOP 65: Aufklärung über den EURO für benachteiligte Menschen - vertagt
+- TOP 66: Bauarbeiten in der Dörpfeldstraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wolfgang Grasenick)</span> - vertagt
+- TOP 67: Ratssaal im Rathaus Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Reinhard Mühle)</span> - vertagt
+- TOP 68: Wahl von Mitgliedern der Sozialkommissionen (Nachwahl) <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, SozGes)</span> - gewählt
+- TOP 69: Stand der Entwicklung eines Personalentwicklungsplanes unter Berücksichtigung des Landesgleichstellungsgesetzes <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Elke Werner)</span> - ohne Änderungen in der BVV beschlossen
