@@ -1,4 +1,4 @@
-# TOP 2.1.: Grundstücksangelegenheiten
+# TOP 2.1.: Antrag auf Übernahme einer Baulast auf dem Grundstück Gemarkung Aldenhoven, Flur 2, Flurstück 466
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
