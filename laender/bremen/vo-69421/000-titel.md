@@ -1,1 +1,1 @@
-# Verordnung über die Regelsätze der Sozialhilfe vom 18. Juni 2002
+# Verordnung über die Regelsätze der Sozialhilfe vom 16. Juni 2003
