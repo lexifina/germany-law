@@ -1,8 +1,8 @@
 # Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen über die Benutzung von Dienstkraftfahrzeugen in der Sächsischen Landesverwaltung Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen über die Benutzung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 1992-04-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1197.1
+- Datum: 1996-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1197.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.04.1992
+01.01.1996
 bis
-31.12.1995
+18.02.1999
 
 Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen über die Benutzung von Dienstkraftfahrzeugen in der Sächsischen Landesverwaltung
 
@@ -45,9 +45,9 @@ Fsn-Nr.: 20-V03.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. April 1992
+Fassung gültig ab:  1. Januar 1996
 
-Fassung gültig bis: 31. Dezember 1995
+Fassung gültig bis: 18. Februar 1999
 
 Hilfe
 
@@ -62,7 +62,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/1197.1
+https://www.revosax.sachsen.de/vorschrift/1197.2
 Stand vom
 18.11.2026
 
