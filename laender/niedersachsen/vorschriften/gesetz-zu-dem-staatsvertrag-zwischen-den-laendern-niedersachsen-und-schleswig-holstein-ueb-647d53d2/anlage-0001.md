@@ -1,0 +1,3 @@
+# Anlage 1  Staatsvertrag zwischen den Ländern Niedersachsen und Schleswig-Holstein über die Prüfung von Anwärterinnen und Anwärtern des gehobenen Justizdienstes - Rechtspflegerlaufbahn - bei dem Prüfungsamt für die Rechtspflegerprüfung bei der Niedersächsischen Fachhochschule für Verwaltung und Rechtspflege
+
+>Staatsvertrag zwischen den Ländern Niedersachsen und Schleswig-Holstein über die Prüfung von Anwärterinnen und Anwärtern des gehobenen Justizdienstes - Rechtspflegerlaufbahn - bei dem Prüfungsamt für die Rechtspflegerprüfung bei der Niedersächsischen Fachhochschule für Verwaltung und Rechtspflege
