@@ -4,7 +4,7 @@ Erster Abschnitt Friedhofswesen
 § 2 Gemeindefriedhöfe
 § 3 Andere Friedhöfe und Bestattungsplätze
 § 4 Friedhöfe nichtgemeindlicher Träger
-§ 5 Standort-und Abstandsregeln
+§ 5 Standort- und Abstandsregeln
 § 6 Ruhezeit
 § 7 Benutzungsordnung der Gemeindefriedhöfe
 § 8 Schließung und Aufhebung von Bestattungsplätzen
