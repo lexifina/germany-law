@@ -1,0 +1,1 @@
+# Verordnung über die Führung des Handelsregisters, des Genossenschaftsregisters, des Vereinsregisters und des Güterrechtsregisters in den Bezirken der Amtsgerichte Bremen, Bremerhaven und Bremen-Blumenthal vom 17. Dezember 1986
