@@ -1,8 +1,8 @@
 # Vollzitat: VwV-Lehrkräftebeurteilung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2003-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/2913.3
+- Datum: 2004-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/2913.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2003
+01.01.2004
 bis
-31.12.2003
+25.08.2004
 
 VwV-Lehrkräftebeurteilung
 
@@ -105,7 +105,7 @@ beurlaubt sind
 
 b)
 
-u einem anderen Dienstherrn abgeordnet sind oder
+zu einem anderen Dienstherrn abgeordnet sind oder
 
 c)
 
@@ -265,7 +265,7 @@ Eine Grundlage für die dienstliche Beurteilung sind auch Unterrichtsbesuche. Be
 
 Bei Schulleitern und stellvertretenden Schulleitern gilt abweichend, dass nur ein Unterrichtsbesuch erfolgt. Daneben ist eine weitere, die Tätigkeit prägende Aufgabe zu beobachten. Bei der Beurteilung von Schulleitern muss darüber hinaus ein Unterrichtsbesuch und dessen Auswertung bei einer Lehrkraft bewertet werden.
 
-3.2
+3.3
 
 Die Unterrichtsbesuche sind vom Beurteiler oder einem weiteren Mitglied der Beurteilungskommission vorzunehmen. Hiervon abweichend kann bei Schulen mit 30 und mehr Beschäftigen, für die der Schulleiter Beurteiler ist, der stellvertretende Schulleiter oder der Fachleiter einen Unterrichtsbesuch durchführen. Der Beurteiler muss einen Unterrichtsbesuch vornehmen.
 
@@ -423,13 +423,13 @@ In-Kraft-Treten, Außer-Kraft-Treten, Übergangsbestimmungen
 
 1.
 
-Der Stichtag für die erste regelmäßige Beurteilung nach dieser Verwaltungsvorschrift der Schulleiter ist der 31. März 2003. Der Stichtag für die erste regelmäßige Beurteilung nach dieser Verwaltungsvorschrift der Beschäftigten (einschließlich Fachleiter, jedoch ohne Schulleiter und Stellvertreter und Fachberater) ist der 1. August 2004. Der Stichtag für die erste regelmäßige Beurteilung nach dieser Verwaltungsvorschrift für die stellvertretenden Schulleiter und Fachberater ist der 1. Juni 2004. Stichtag ist der letzte Tag des Beurteilungszeitraumes. Die Beurteilung soll den Mitarbeitern spätestens ein halbes Jahr nach Ablauf des Stichtages eröffnet werden.
+Der Stichtag für die erste regelmäßige Beurteilung nach dieser Verwaltungsvorschrift der Schulleiter ist der 31. März 2003. Der Stichtag für die erste regelmäßige Beurteilung nach dieser Verwaltungsvorschrift der Beschäftigten mit Ausnahme der Schulleiter und Stellvertreter ist der 31. Juli 2006. Der Stichtag für die erste regelmäßige Beurteilung nach dieser Verwaltungsvorschrift für die stellvertretenden Schulleiter ist der 1. Juni 2004. Stichtag ist der letzte Tag des Beurteilungszeitraumes. Die Beurteilung soll den Mitarbeitern spätestens ein halbes Jahr nach Ablauf des Stichtages eröffnet werden.
 
 2.
 
 Solange die
 Sächsische Beurteilungsverordnung nur abweichende Regelungen für die Schulleiter und stellvertretenden Schulleiter im Beamtenverhältnis zulässt, sind sonstige verbeamtete Lehrkräfte nach Maßgabe der
-Sächsischen Beurteilungsverordnung zu beurteilen.
+Sächsische Beurteilungsverordnung zu beurteilen.
 
 3.
 
@@ -457,9 +457,9 @@ Fsn-Nr.: 240-V02.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2003
+Fassung gültig ab:  1. Januar 2004
 
-Fassung gültig bis: 31. Dezember 2003
+Fassung gültig bis: 25. August 2004
 
 Drucken/Speichern
 
@@ -486,7 +486,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/2913.3
+https://www.revosax.sachsen.de/vorschrift/2913.4
 Stand vom
 18.11.2026
 
