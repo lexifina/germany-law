@@ -1,0 +1,92 @@
+# 8. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2002-06-27T16:00:00+02:00
+- Ende: 2002-06-27T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=9
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=9
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers V_06 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Personalausstattung im Sozialamt Treptow-Köpenick - schriftlich beantwortet
+- TOP 8: Übertragung von Kitas in freie Trägerschaft - schriftlich beantwortet
+- TOP 9: Sozialtag Treptow-Köpenick 2002 - schriftlich beantwortet
+- TOP 10: Überfliegen des Wasserschutzgebietes des Wasserwerks Friedrichshagen - schriftlich beantwortet
+- TOP 11: Weitere Entwicklung und Profilierung des Innovationsparkes Wuhlheide - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschwerden anlässlich der ILA - in der BVV abgelehnt
+- TOP 13: Schulverweigerer
+- TOP 14: Freilandlabor Kaniswall - beantwortet
+- TOP 15: Sondermittel für ehrenamtliche Arbeit im Schulgarten Radickestraße (SM 203) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 16: Sondermittel für ehrenamtliche Betreuung ehemaliger Mitarbeiter der Stadtbibliothek (SM 204) - ohne Änderungen in der BVV beschlossen
+- TOP 17: Sondermittel für Treptower Teufel TC e.V. (SM 210) - ohne Änderungen in der BVV beschlossen
+- TOP 18: Sondermittel für Alte Möbelfabrik e.V. (SM 211) - ohne Änderungen in der BVV beschlossen
+- TOP 19: Sondermittel für Selbsthilfegruppe "Multiple Sklerose" (SM 221) - ohne Änderungen in der BVV beschlossen
+- TOP 20: Sondermittel für eltern helfen eltern e.V. (SM 219) - ohne Änderungen in der BVV beschlossen
+- TOP 21: Sondermittel für Diakoniekreis Kietzer Feld im Haus der Begegnung (SM 220) - ohne Änderungen in der BVV beschlossen
+- TOP 22: Sondermittel für Seniorenverein Wuhlheide e.V. (SM 225) - ohne Änderungen in der BVV beschlossen
+- TOP 23: Sondermittel für Indische Solidaritätsaktion e.V. (SM 227) - ohne Änderungen in der BVV beschlossen
+- TOP 24: Sondermittel für Förderkreis "Zwangsarbeiterlager Niederschöneweide" (SM 229) - ohne Änderungen in der BVV beschlossen
+- TOP 25: Sondermittel für Jugendfeuerwehr Müggelheim (SM 232) - ohne Änderungen in der BVV beschlossen
+- TOP 26: Sondermittel für Sylvester e.V. (SM 234) - ohne Änderungen in der BVV beschlossen
+- TOP 27: Sondermittel für Berliner Parkeisenbahn (SM 201) - ohne Änderungen in der BVV beschlossen
+- TOP 28: Sondermittel für TSV Eiche e.V. (SM 207)
+- TOP 29: Sondermittel für Collage e.V. (SM 217) - ohne Änderungen in der BVV beschlossen
+- TOP 30: Sondermittel für Netzwerk in Köpenick e.V. (SM 205) - ohne Änderungen in der BVV beschlossen
+- TOP 31: Sondermittel für allgemeine Jugendberatung gmbh (SM 209) - ohne Änderungen in der BVV beschlossen
+- TOP 32: Sondermittel für Bürgerverein Wendenschloß-Kietzer Feld-Gartenvorstadt e.V. (SM 213) - ohne Änderungen in der BVV beschlossen
+- TOP 33: Sondermittel für offensiv '91 e.V. (SM 224) - ohne Änderungen in der BVV beschlossen
+- TOP 34: Sondermittel für Katholische Kirchengemeinde St. Josef (SM 226) - ohne Änderungen in der BVV beschlossen
+- TOP 35: Sondermittel für die Jugendfeuerwehr Friedrichshagen (SM 228) - ohne Änderungen in der BVV beschlossen
+- TOP 36: Sondermittel für Förderverein Heimatmuseum Treptow (SM 233) - ohne Änderungen in der BVV beschlossen
+- TOP 37: Bebauungsplan XVI-10a-1 im Bezirk Treptow-Köpenick; Verordnung über die Festsetzung des Bebauungsplans XVI-10a-1 im Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 38: Gedenktafelprogramm im Bezirk Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span>
+- TOP 39: Europäische Förderprogramme <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus IV. Wahlperiode)</span>
+- TOP 40: Montessori an Schmöckwitzer Grundschule
+- TOP 41: Modellprojekt zum Projekt "Teilräumliche Lärmminderungsplanung" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 42: Aufstellungsbeschluss der Erhaltungsverordnung gemäß § 172 Abs. 1 BauGB für den Ortsteil Oberschöneweide
+- TOP 43: Beschluss zur Aufstellung des Bebauungsplanes 9-5 im Bezirk Treptow-Köpenick, Ortsteil Müggelheim
+- TOP 44: "Grünes Dreieck Späthsfelde"
+- TOP 45: Vermeidung von Mietkautionszahlungen für Empfänger von Sozialleistungen
+- TOP 46: Einleitung des Planaufstellungsverfahrens zum Bebauungsplan 9-3 im Bezirk Treptow-Köpenick, Ortsteil Oberschöneweide
+- TOP 47: Verfahrensweise zur bezirklichen Stellungnahme in Planfeststellungs- und Plangenehmigungsverfahren nach Fachrecht
+- TOP 48: Sparpotential 1/2002 - Wuhlewanderweg
+- TOP 49: Ergänzung der Verordnung zur Festsetzung der Wasserschutzgebiete
+- TOP 50: Maßnahmen zur Verkehrssicherheit im Bereich der Einmündung des Müggelseedamms in den Fürstenwalder Damm (Rahnsdorf)
+- TOP 51: Anmeldung für die Oberschule und Bildung der 7. Klassen zum Schuljahr 2002/2003 - überwiesen
+- TOP 52: Einleitung des Planaufstellungsverfahrens zum Bebauungsplan 9-7 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Plänterwald - überwiesen
+- TOP 53: Jahresbericht 2001 der Patientenfürsprecherin imDRK-Krankenhaus Köpenick, Ruth Kautzsch, Spreestraße 13, 12555 Berlin - in der BVV zurückgezogen
+- TOP 54: Zuständigkeitsregelung bei Umweltverträglichkeitsprüfung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 55: Infotafeln zu Spielplatzbegehungen - überwiesen
+- TOP 56: Gedenktafel für das ehemalige Durchgangslager Wilhelmshagen - überwiesen
+- TOP 57: Benennung neuer Straßen am Bahnhof Schöneweide - überwiesen
+- TOP 58: Beschilderung Bezirksgrenzen - vertagt
+- TOP 59: Konzept für Sportanlagen - in der BVV zurückgezogen
+- TOP 60: Weiterbestehen der "PLansche" im Plänterwald - ohne Änderungen in der BVV beschlossen
+- TOP 61: Kooperation der Bibliotheksbusse - ohne Änderungen in der BVV beschlossen
+- TOP 62: Würdigung städtepartnerschaftlicher Vereinbarungen - vertagt
+- TOP 63: Einleitung zum B-Plan 9-7, Treptow-Köpenick, Ortsteil Plänterwald (Familienpark "Spreepark") - überwiesen
+- TOP 64: Fortführung des Kulturpolitischen Kalenders
+- TOP 65: Erweiterung des Messbereichs der Fluglärmmessstationen im Umfeld des Flughafens Schönefeld - überwiesen
+- TOP 66: Lokale Agenda 21 - Treptow-Köpenick - überwiesen
+- TOP 67: Kaufhalle Allende II - überwiesen
+- TOP 68: Eigentumsbeeinträchtigungen durch die Wasserschutzverordnung Altglienicke - überwiesen
+- TOP 69: Parkplatz Regattastraße - vertagt
+- TOP 70: Modellprojekt von freien Trägern und Schulamt - überwiesen
+- TOP 71: Gestaltung des Marktplatzes Friedrichshagen - überwiesen
+- TOP 72: Öffentliches Auftreten der Bezirksstadträtin für Soziales und Gesundheit - vertagt
+- TOP 73: Zweckentfremdungsverbotsverordnung endlich gekippt - leider viel zu spät - vertagt
+- TOP 74: Bürgerzentrum Ortolfstraße - Altglienicke - vertagt
+- TOP 75: Radwege im grünen Bezirk Treptow-Köpenick - vertagt
+- TOP 76: Schloßplatz barrierefrei bauen - in der BVV zurückgezogen
+- TOP 77: Arbeitsentwurf "Lokale Agenda 21 Treptow-Köpenick"
+- TOP 78: Sondermittel für Freiwillige Feuerwehr Adlershof, Abt. Jugendfeuerwehr (SM 240) - ohne Änderungen in der BVV beschlossen
