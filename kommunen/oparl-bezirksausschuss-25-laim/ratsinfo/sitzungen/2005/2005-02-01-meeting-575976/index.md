@@ -1,0 +1,59 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2005-02-01T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/575976
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/575976
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.1.: Mittelaltermarkt München - Laym 2004
+- TOP 2: Anträge
+- TOP 2.1.: Einstellung der für die Errichtung des Spielplatzes am Laimer Anger erforderlichen Mittel im MIP Liste 1
+- TOP 2.2.: Sanierung U - Bahnhof Westendstraße
+- TOP 2.3.: Mängelbeseitigung nach Tram - Gleis - Sanierung / Teil 1
+- TOP 2.4.: Mängelbeseitigung nach Tram - Gleis - Sanierung / Teil 2
+- TOP 2.5.: Mehr Lkw - Verkehr in Laim nach Maut - Einführung ?
+- TOP 2.6.: Einsatz des Kinder - Aktions - Koffers für Laimer Kinder
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage KVR: Überprüfung der Signalschaltung ( " Grüne Welle " ) in der Fürstenrieder Straße ( Empfehlung Nr. 27 der Bürgerversammlung vom 28.10.04 )
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 28.12.04: " Putzstunde " ( täglich von 05.00 - 06.00 Uhr ) als gesetzliche Regelsperrzeit in Bayern; Anhörung zur beabsichtigten Neufassung der kommunalen Sperrzeitverordnung
+- TOP 4.2.: Schreiben KVR vom 25.11.04: Dauersperrzeitverkürzung ( Freitag auf Samstag und Samstag auf Sonntag jeweils 06.00 Uhr ) für die Gaststätte / Betriebsstätte " Nachtwerk ", Landsberger Str. 185 ( Wiedervorlage aus der BA - Sitzung vom 11.01.05 )
+- TOP 4.3.: Schreiben KVR vom 04.01.05: Burgkmairstr. 48 Seite Fachnerstraße / Lieferzone; Anhörung zu einer verkehrsrechtlichen Anordnung
+- TOP 4.4.: Schreiben Baureferat vom 13.01.05: Veranstaltung am 05.03.05 auf dem Agricolaplatz; Flohmarkt
+- TOP 4.5.: Schreiben Referat für Gesundheit und Umwelt vom 12.01.05: Frühkindliche Gesundheitsförderung; Schließung der Mütter - / Väterberatungsstellen zugunsten vermehrter Hausbesuche
+- TOP 5: Sonstiges
+- TOP 5.1.: Schreiben Personal - und Organisationsreferat vom 05.01.05: Fortschreibung der Machbarkeitsstudie Bürgerzentren ( Stadtratsbeschluss vom 04.10.00 ) - Konzentration regionaler städtischer Dienstleistungen in ausgewählten Stadtteilzentren
+- TOP 6: Diskussion zum Umlauf
+- TOP 6.1.: Vollzug der Baumschutzverordnung; Schreiben Planungsreferat vom 23.12.04: Borkenkäfer - Bescheinigung; Junkerstr. 75
+- TOP 6.2.: Schreiben Planungsreferat vom 04.01.05: Werbeanlagen
+- TOP 6.3.: Einladung zum Stadtratshearing " Prostitution in München " am 04.02.05
+- TOP 0: Antwortschreiben
+- TOP 0.1.: Schreiben Planungsreferat vom 13.12.04: Aufstellung von Bebauungsplänen für Gartenstadtbereiche im 25. Stadtbezirk ( Antrag Nr. 1244 vom 03.06.03 )
+- TOP 0.2.: Schreiben Kulturreferat vom 05.01.05: Beschilderung INTERIM ( Antrag Nr. 1896 vom 25.02.03 )
+- TOP 0.3.: Schreiben T Mobile Deutschland GmbH vom 03.01.05: UMTS - Suchkreis Friedenheim - Süd ( Schreiben BA vom 07.12.04 )
+- TOP 0.4.: Schreiben Planungsreferat vom 05.01.05: Neubau eines Mehrfamilienhauses ( 14 WE ) mit TG / Vorbescheid; Flotowstr. 53 ( Schreiben BA vom 05.10.04 )
+- TOP 0.5.: Schreiben Planungsreferat vom 11.01.05: Entwurf Verkehrsentwicklungsplan der LH München ( Schreiben BA vom 07.12.04 )
+- TOP 0: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 0.1.: Schreiben KVR vom 21.12.04: Gaststätte " Torbogenstüberl ", Stöberlstr. 33, unveränderte Fortführung
+- TOP 0: Vollzug der Grünanlagensatzung
+- TOP 0.1.: Schreiben Baureferat vom 10.01.05: Veranstaltung am Laimer Anger; Faschingstreiben am 05.02.05 / Genehmigung
+- TOP 0: Bautenlisten
+- TOP 0.1.: Bautenlisten vom 10.01. - 16.01.05: Erstantragsverfahren a ) Landsberger Straße b ) Inderstorfer Straße
+- TOP 0: Stadtrats- und Ausschussbeschlüsse
+- TOP 0.1.: Bekanntgabe im Kinder - und Jugendhilfeausschuss am 11.01.05: Sachverständige für Migrationsfragen, interkulturell orientiertes Qualitätsmanagement, Vorschlag zur Auswahl der Regionen
+- TOP 0.2.: Bekanntgabe im Schulausschuss am 12.01.05: Schüler - und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen der besonderen Art im Schuljahr 2004 / 2005
+- TOP 0.3.: Bekanntgabe im Schulausschuss vom 12.01.05: Schüler - und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz - Auweck - Abendrealschule; Schuljahr 2004 / 2005
+- TOP 0.4.: Bekanntgabe im Schulausschuss vom 12.01.05: Schüler/innen und Klassenstand; Berufliche Schulen der LH München im Schuljahr 2004/2005
+- TOP 0.5.: Bekanntgabe im Schulausschuss vom 12.01.05: Schüler - und Klassenzahlen der öffentlichen Grund -, Haut - und Förderschulen für das Schuljahr 2004 / 2005
+- TOP 0.6.: Bekanntgabe im Schulausschuss vom 12.01.05: Bereinigtes Einschreibeergebnis für das Kindergartenjahr / Schuljahr 2004 / 2005
+- TOP 0.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.05: Wie ist das Verhältnis vom Radfahrverkehr zum motorisierten Individual - und Wirtschaftsverkehr ?
+- TOP 0.8.: Bekanntgabe in der Sitzung des Sozialausschusses vom 13.01.05: Sachverständige für Migrationsfragen, interkulturell orientiertes Qualitätsmanagement, Vorschlag zur Auswahl der Regionen
+- TOP 0.9.: Beschluss des Bauausschusses vom 18.01.05: Nulltoleranz gegenüber Schmutzfinken und keine Fixerspritzen auf Spielplätzen
