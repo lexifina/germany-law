@@ -1,4 +1,4 @@
-# TOP 2.3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+# TOP 2.3.: Einbau einer Heizungsanlage in das Obergeschoss des Feuerwehrgerätehauses Schleiden
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
