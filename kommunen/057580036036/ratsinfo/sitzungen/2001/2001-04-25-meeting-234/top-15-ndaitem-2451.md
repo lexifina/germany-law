@@ -1,0 +1,6 @@
+# TOP 15.: Schaffung von 2 zusätzlichen Klassenräumen für das Schulzentrum
+
+- Sitzung: Rat (2001-04-25)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/2451
