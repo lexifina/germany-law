@@ -1,0 +1,8 @@
+# TOP 5: Perspektivenplan Umfeld Bahnhof Wichlinghausen
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Stadtentwicklungsausschusses (2003-11-27)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/10519
+- Ergebnis: mit Aufträgen beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/5030
