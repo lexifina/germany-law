@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 1996-12-19 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/zweckverband_1996
+- Datum: 1997-06-06 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/ernte_1997
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -27,20 +27,48 @@ A |
 
 Aktuelle Fassung
 
-Durchführung des Zweckverbandssicherungsgesetzes
+Ausnahmegenehmigungen vom Sonn- und Feiertagsfahrverbot des § 30 Absatz 3 der Straßenverkehrs-Ordnung (StVO) für bestimmte Erntetransporte
 
-vom 19. Dezember 1996
+vom 6. Juni 1997
 
-(ABl./97, [Nr. 1], S.2)
+(ABl./97, [Nr. 25], S.553)
 
-Am 10. Dezember 1996 ist das Zweckverbandssicherungsgesetz (ZwVerbSG) vom 4. Dezember 1996 (GVBl. I S. 314) in Kraft getreten.
+Die Sicherstellung der Ernte ist ein dringender Fall im Sinne der Ziffer I. 1 Buchstabe a der Allgemeinen Verwaltungsvorschrift zu § 46 Abs. 1 Nr. 7 StVO. Bei ungünstiger Witterung werden bestimmte Transporte zur Erntezeit unaufschiebbar, um die Ernte vor dem Verderb zu bewahren.
 
-Es wird darauf hingewiesen, daß nach § 7 Abs. 1 ZwVerbSG die Beteiligten der tatsächlich in Vollzug gesetzten Zweckverbände innerhalb von drei Monaten nach Inkrafttreten des Gesetzes zur Sicherung der Arbeitsfähigkeit von Zweckverbänden der Aufsichtsbehörde einen Prüfungsbericht über seine wirksame Bildung und über erforderlich werdende Satzungsänderungen vorzulegen haben.
+Gemäß § 46 Abs. 2 StVO dürfen unter dem Vorbehalt des jederzeitigen Widerrufs Lastkraftwagen mit einem zulässigen Gesamtgewicht über 7,5 t sowie Anhänger hinter Lastkraftwagen an Sonn- und Feiertagen in der Zeit von 00.00 bis 22.00 Uhr entgegen dem Verbot des § 30 Abs. 3 StVO auf allen Straßen des Landes Brandenburg mit Ausnahme der Bundesautobahnen Fahrten zu folgenden Zwecken durchführen:
 
-Für die zuständigen Aufsichtsbehörden ergibt sich aus dem Gesetz die Pflicht zur Bekanntmachung der erforderlichen Änderungssatzungen und der gültigen Verbandssatzungen der wirksam gegründeten Zweckverbände unter Hinweis auf deren Entstehungsdatum.
+1. Transport von geernteten Körnerfrüchten in den Monaten Juli, August und September eines jeden Jahres
 
-Auf den Runderlaß II Nr. 8 - Az.: II/1-28-00 - vom 18. Juli 1996 wird hingewiesen.
+vom Feld zur Verarbeitungsstelle,
 
-Nach § 1 Abs. 1 Nr. 1 ZwVerbSG ist es für die wirksame Bildung der Zweckverbände erforderlich, daß die Verbandssatzung den notwendigen Inhalt nach § 9 Abs. 2 Satz 1 1. Halbsatz des Gesetzes über kommunale Gemeinschaftsarbeit im Land Brandenburg aufweist. Die Zweckverbände und Aufsichtsbehörden werden darauf hingewiesen, daß die Verbandssatzungen darüber hinaus auch die Anforderungen des  § 9 Abs. 2 Satz 1 2. Halbsatz des Gesetzes über kommunale Gemeinschaftsarbeit im Land Brandenburg erfüllen  müssen.  Die
+vom Feld zur Trockenanlage,
 
-Satzungen sind, falls erforderlich, entsprechend anzupassen. Auf die wirksame Gründung der Zweckverbände hat ein Fehlen der im 2. Halbsatz normierten Anforderungen keinen Einfluß.
+vom Feld zum Lagerhaus,
+
+vom Feld zur Verladestelle (z. B. bei der Deutschen Bahn AG) sowie für die
+
+erforderlichen Leerfahrten.
+
+Körnerfrüchte sind Getreide, Ölfrüchte (z. B. Raps, Sonnenblumen) und Leguminosen (z. B. Ackerbohnen, Erbsen, Wicken).
+
+2. Transport von Zuckerrüben, Zuckerrübenpressschnitzeln und Carbokalk vom 15. September bis 31. Dezember eines jeden Jahres (Zuckerrückenverarbeitungskampagne)
+
+vom Ernteort oder Zwischenlagerplatz zu Zuckerfabriken,
+
+von Zuckerfabriken zu den Verbrauchern in der Landwirtschaft sowie für die
+
+erforderlichen Leerfahrten.
+
+3. Transport von erntefrischen Kartoffeln in den Monaten August, September und Oktober eines jeden Jahres
+
+vom Feld zur Aufbereitungsstelle (Abpack- und Sortiereinrichtung),
+
+vom Feld zum Kartoffellager (Lagerhaus, Miete oder Zwischenlager)
+
+vom Feld zur Verladestelle (z. B. bei der Deutschen Bahn AG)
+
+vom Feld in die Stärkefabrik sowie für die
+
+erforderlichen Leerfahrten.
+
+Für Transporte im Sinne der Ziffern 1 bis 3, die im Land Brandenburg beginnen und ihren Zielort in anderen Bundesländern haben, sind Einzelausnahmegenehmigungen gemäß § 46 Abs. 1 Nr. 7 StVO erforderlich, die bei den Straßenverkehrsbehörden zu beantragen sind.
