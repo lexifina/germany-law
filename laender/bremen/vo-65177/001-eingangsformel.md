@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 15 Abs. 2 Satz 1 und des § 34 Abs. 2 Satz 1 des Arbeitsgerichtsgesetzes in der Fassung der Bekanntmachung vom 2. Juli 1979 (BGBl. I S. 853, 1036), das zuletzt durch Artikel 1 des Gesetzes vom 30. März 2000 (BGBl. I S. 333) geändert worden ist, in Verbindung mit § 1 der Verordnung zur Übertragung von Ermächtigungen nach dem Arbeitsgerichtsgesetz vom 7. November 2000 (Brem.GBl. S. 427) wird verordnet:
