@@ -1,0 +1,92 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2005-03-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/569404
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/569404
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1: Friedenstraße 10, Opiomolgelände Geb. C, Lager zu Gastronomie mit Theater
+- TOP 3.1.2: 2. S-Bahn-Stammstrecke, Planfeststellung; Anhörung
+- TOP 3.1.3: Auswirkungen des Bürgerentscheids ?Initiative-Unser-München? auf den Ausbau der Unterführung Berg am Laim Antrag Nr.2497 vom 28.10.2004; Antwort
+- TOP 3.1.4: St.-Michael-Str. 82-88, Neubau des Mutterhauses der Barmherzigen Schwestern, Tektur
+- TOP 3.1.5: Berg-am-Laim-Str. 47; Einrichtung einer Spielhalle; Anhörung
+- TOP 3.1.1: Erhöhung der Verkehrssicherheit an der Kreuzung Berg am Laim Str./Riedgaustr.; Antrag Nr. 2711 vom 20.12.2004; Berichtigte Antwort des KVR und verkehrsrechtliche Anordnung (Anhörung) (zu TOP 3.1.2.4./12/04 und 3.1.2.1./02/05)
+- TOP 3.1.2: Zunahme des Schwerlastverkehrs auf dem Mittleren Ring; Resulution des BA 7
+- TOP 3.1.1: Übermittlung der Standorte von schulischen Einrichtungen sowie Kindergärten/ an alle Mobilfunkbetreiber und Aufnahme dieser Einrichtungen in die Suchkreismeldungen; Schreiben des RGU (zu TOP 3.1.3.2./02/05)
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.1: Erhalt der Schulsozialarbeit an der Hauptschule Echardinger Grünstreifen; Antrag
+- TOP 3.1.2: Zuschauertribüne für mindestens eine der neu zu errichtenden Dreifach-Turnhallen in der Messestadt Riem, Anhörung (zu TOP 3.6.6./11/04)
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.1: Antrag auf Zuschuss aus dem Budget des BA 14; Verein pflegebedürftiger Menschen e.V. (vertagt aus TOP 3.5.2./02/05)
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.1: Veranstaltung auf öffentlichen Verkehrsgrund: Radtour von München nach Aying am 05.05.05; Anhörung
+- TOP 3.1.2: Zirkus Baldoni vom 24.05.05 bis 29.05.05 an der St.-Veit-Straße
+- TOP 3.1.3: Veranstaltung auf öffentlichen Verkehrsgrund: Maifeier des Maibaumvereins Berg am Laim; ?Grüner Markt? Baumkirchner Str. am 01.05.05; Anhörung
+- TOP 3.1.4: Kennzeichnung barrierefreier Veranstaltungsorte; Antrag von MdBA Sascha Multerer
+- TOP 3.1.1: Kranzhornstr. 33, Antrag auf Fällung laut Plan
+- TOP 3.1.2: Inzeller Weg. 5, Antrag auf Fällung von 2 Pappeln
+- TOP 3.1.3: Levelingstr. 2, Antrag auf Fällung von 3 Bäumen
+- TOP 3.1.4: Berg-am-Laim-Str. 129, Antrag auf Fällung von 1 Baum
+- TOP 3.1.5: Weihenstephaner Str. 28, Antrag auf Fällung von 1 Baum
+- TOP 3.1.6: Berg-am-Laim-Str. 115, Antrag auf Fällung von 1 Baum
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1: Mittlerer Ring Ost ? Vogelweideplatz; Planungen zum Planfeststellungsverfahren
+- TOP 4.1.2: Kanalbau im Umgriff des Bebauungsplans 1878, Orleans-, Spichern-, Elsässer- und Kirchenstr.; Projektgenehmigung
+- TOP 4.1.3: Ulrichsbergstr.; Kanalbau i.V.m. Wohnungs- und Gewerbebau; Projektgenehmigung
+- TOP 4.1.4: Meldeliste der Erstanträge in der Zeit vom 07.02.05 ? 06.03.05
+- TOP 4.1.5: Meldeliste der Änderungen in der Zeit vom 21.02.05 - 06.03.05
+- TOP 4.1.6: Meldeliste der Abbrüche in der Zeit vom 07.02.05 - 20.02.05
+- TOP 4.1.1: Auswirkungen der LKW-Maut auf München; Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 02.03.05
+- TOP 4.1.2: Maßnahmen gegen das Abstellen von Anhängern und gewerblich genutzten Fahrzeugen / Gewerbebedarg auf öffentlichem Verkehrsgrund
+- TOP 4.1.3: Neues Busnetz; Einladung zur Manöverkritik
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.1: Planungsdaten des Schulreferates im Schul- und Kindertagesstättenbereich für den 14. Stadtbezirk
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.1: Anpassung des städt. Kindergatenversorgungsziels; Grundsatzbeschluss, Beschlussvorlage des Schulausschusses vom 16.02.05
+- TOP 4.1.2: Bau barrierefreier Wohnungen in den Unterkunftsanlagen der LHM Beschlussvorlage der Vollversammlung vom 26.01.05
+- TOP 4.1.3: Zuschussnehmerdatei 2005; Bereich ?Förderung freier Träger? des Sozialreferates/Zentrale; Beschlussvorlage der gemeinsamen Sitzung vom 01.03.05
+- TOP 4.1.4: Zuschussnehmerdatei 2005; Bereich ?Förderung freier Träger? des Amtes für soziale Sicherung; Beschlussvorlage der gemeinsamen Sitzung vom 01.03.05
+- TOP 4.1.5: Zuschussnehmerdatei 2005; Bereich ?Förderung freier Träger? des Stadtjugendamtes; Beschlussvorlage der gemeinsamen Sitzung vom 01.03.05
+- TOP 4.1.6: Zuschussnehmerdatei 2005; Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration; Beschlussvorlage der gemeinsamen Sitzung vom 01.03.05
+- TOP 4.1.1: Antrag auf Budget des BA 14 des Maibaumverins Berg am Laim; Bescheid
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.1: Vorführungen der Euskirchner Zeltpuppenbühne an der St.-Veit-Str.; Bescheid
+- TOP 4.1.2: Ansprechpartner des Ausländerbeirats für die Bezirksausschüsse
+- TOP 4.1.3: Zweckentfremdung von Wohnraum; Gradlspitz. 33 Abbruch: 128 m² bzw. 2 WE; geplanter Neubau: 257 m² bzw. 2 WE
+- TOP 4.1.4: Fortschreibung des Zentrenkonzepts - Nahversorgung in München, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 02.03.05
+- TOP 4.1.5: Jazz-Benefizkonzert zugunsten der Kirchenrenovierung St. Michael Berg am Laim am 16.04.2005
+- TOP 4.1.1: Baumfällungen und Baumpflanzungen im öffentlichen Grün
+- TOP 4.1.2: Berg-am-Laim-Str. 129; Fällung eines Gefahrenbaums
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
