@@ -1,6 +1,6 @@
 ## 3. Wissenschaftliche und künstlerische Assistenten
 # § 165 e
-(1) Voraussetzung für die Einstellung als wissenschaftlicher Assistent ist neben den allgemeinen dienstrechtlichen Voraussetzungen eine qualifizierte Promotion oder eine qualifizierte zweite Staatsprüfung, in den Ingenieurwissenschaften ein qualifizierter Abschluß des wissenschaftlichen Studiums.
+(1) Voraussetzung für die Einstellung als wissenschaftlicher Assistent ist neben den allgemeinen dienstrechtlichen Voraussetzungen eine qualifizierte Promotion oder eine qualifizierte zweite Staatsprüfung, in den Ingenieurwissenschaften ein Studienabschluß.
 (2) Der wissenschaftliche Assistent wird für die Dauer von drei Jahren zum Beamten auf Zeit ernannt. Das Beamtenverhältnis des Assistenten soll mit dessen Zustimmung spätestens vier Monate vor seinem Ablauf um weitere drei Jahre verlängert werden, wenn er die weitere wissenschaftliche Qualifikation erworben hat oder zu erwarten ist, daß er sie in dieser Zeit erwerben wird. Eine weitere Verlängerung ist abgesehen von den Fällen des § 165 h Abs. 3 nicht zulässig; dies gilt auch für eine erneute Einstellung als Assistent.
 (3) Für wissenschaftliche Assistenten gelten die Vorschriften für Beamte auf Lebenszeit entsprechend, soweit in diesem Abschnitt oder im Bremischen Hochschulgesetz nichts anderes bestimmt ist. Der wissenschaftliche Assistent ist mit Ablauf seiner Amtszeit entlassen. Ein Eintritt in den Ruhestand ist ausgeschlossen.
 (4) Die Absätze 1 bis 3 gelten für künstlerische Assistenten entsprechend.
