@@ -1,0 +1,14 @@
+# 65. (nichtöfftl.) Sitzung des Ältestenrates
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2004-12-09T18:00:00+01:00
+- Ende: 2004-12-09T18:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=9
+- Ratsinformationssystem: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=526
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=526
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
