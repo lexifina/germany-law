@@ -1,0 +1,25 @@
+# Unterstützung des ehrenamtlichen Engagements und der Vereinsarbeit im Bezirk Charlottenburg-Wilmersdorf
+
+- Körperschaft: Charlottenburg-Wilmersdorf von Berlin
+- Drucksache/Vorlage: 0417/2
+- Art: Antrag
+- Datum: 2003-01-23
+- Ratsinformationssystem: https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=421
+- OParl: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/papers.asp?id=421
+- Quelle: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=222 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=400 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=288 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=15
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=289 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=15
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=290 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=15
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=318 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=16
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=319 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=16
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=304 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=14
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=305 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=14
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=306 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=14
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=279 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=21
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=266 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=7
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=267 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=7
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=268 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=7
+- Beratung: Beratung  https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=at&id=9
