@@ -2,7 +2,7 @@
 
 - Herausgeber: Freistaat Sachsen
 - Datum: 2004-06-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/3622.1
+- Quelle: https://www.revosax.sachsen.de/vorschrift/3622.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -98,8 +98,7 @@ Eine gemeinnützige Einrichtung wird erst dann in die Liste aufgenommen, wenn de
 
 a)
 
-eine Bescheinigung oder ein Bescheid über die Gemeinnützigkeit der Einrichtung, zum Beispiel ein Steuerbescheid oder Freistellungsbescheid nach § 5 Abs. 1 Nr. 9 Körperschaftssteuergesetzes (
-KStG) in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4144), das zuletzt durch Artikel 11 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076, 3085) geändert worden ist, in der jeweils geltenden Fassung oder § 3 Nr. 6 Gewerbesteuergesetz (GewStG) in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4167), das zuletzt durch Artikel 12 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076, 3086) geändert worden ist, in der jeweiligen Fassung,
+eine Bescheinigung oder ein Bescheid über die Gemeinnützigkeit der Einrichtung, zum Beispiel ein Steuerbescheid oder Freistellungsbescheid nach § 5 Abs. 1 Nr. 9 Körperschaftssteuergesetzes (KStG) in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4144), das zuletzt durch Artikel 11 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076, 3085) geändert worden ist, in der jeweils geltenden Fassung oder § 3 Nr. 6 Gewerbesteuergesetz (GewStG) in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4167), das zuletzt durch Artikel 12 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076, 3086) geändert worden ist, in der jeweils geltenden Fassung,
 
 b)
 
@@ -111,7 +110,7 @@ eine aktuelle beglaubigte Abschrift der Satzung, aus der die Ziele der Einrichtu
 
 d)
 
-eine Erklärung der Einrichtung, den Verpflichtungen gemäß Nummer 5 nachzukommen,
+eine Erklärung der Einrichtung, den Verpflichtungen gemäß Nummer 6 nachzukommen,
 
 e)
 
@@ -135,11 +134,11 @@ ein Insolvenzverfahren über die Einrichtung eröffnet worden ist,
 
 c)
 
-die Einrichtung die sich aus Nummer 5 ergebenden Verpflichtungen nicht erfüllt.
+die Einrichtung die sich aus Nummer 6 ergebenden Verpflichtungen nicht erfüllt.
 
 9.
 
-Die Liste wird spätestens alle zwei Jahre erneuert. In die neue Liste werden gemeinnützige Einrichtungen nicht erneut aufgenommen, die ihren Verpflichtungen nach Nummer 5 nicht oder nicht vollständig nachgekommen sind. Ein erneuter Antrag der nicht berücksichtigten gemeinnützigen Einrichtungen für eine Aufnahme in die Liste ist möglich. Der Präsident des Oberlandesgerichts kann zudem halbjährlich Nachträge zur Liste erstellen, in die Neuaufnahmen, Änderungen und Streichungen aufgenommen werden.
+Die Liste wird spätestens alle zwei Jahre erneuert. In die neue Liste werden gemeinnützige Einrichtungen nicht erneut aufgenommen, die ihren Verpflichtungen nach Nummer 6 nicht oder nicht vollständig nachgekommen sind. Ein erneuter Antrag der nicht berücksichtigten gemeinnützigen Einrichtungen für eine Aufnahme in die Liste ist möglich. Der Präsident des Oberlandesgerichts kann zudem halbjährlich Nachträge zur Liste erstellen, in die Neuaufnahmen, Änderungen und Streichungen aufgenommen werden.
 
 10.
 
@@ -171,7 +170,7 @@ Der Präsident des Oberlandesgerichts erfasst die den gemeinnützigen Einrichtun
 
 2.
 
-Soweit Mitteilungen nach Ziffer I Nr. 5 Buchst. c und d nicht fristgerecht eingegangen sind, sind sie mit Hinweis auf Ziffer I Nr. 7 und Nr. 8 Satz 2 mit einer Frist von vier Wochen anzumahnen.
+Soweit Mitteilungen nach Ziffer I Nr. 6 Buchst. c nicht fristgerecht eingegangen sind, sind sie mit Hinweis auf Ziffer I Nr. 8 und Nr. 9 Satz 2 mit einer Frist von vier Wochen anzumahnen.
 
 3.
 
@@ -193,4 +192,4 @@ Dresden, den 10. März 2004
 
 Der Staatsminister der Justiz
 
-Dr. Thomas de Maizire
+Dr. Thomas de Maizière
