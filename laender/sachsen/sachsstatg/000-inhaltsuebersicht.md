@@ -24,5 +24,5 @@
 § 22 Bußgeldvorschrift
 § 23 Statistisches Informationssystem
 § 24 Verwaltungsvorschriften
-§ 25 Übergangsvorschriften
+§ 25 aufgehoben
 § 26 Inkrafttreten
