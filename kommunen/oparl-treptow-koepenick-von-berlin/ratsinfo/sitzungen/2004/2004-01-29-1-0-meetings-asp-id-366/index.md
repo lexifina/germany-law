@@ -1,0 +1,71 @@
+# 24. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2004-01-29T16:00:00+01:00
+- Ende: 2004-01-29T21:45:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=366
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=366
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=15852
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_25 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Nachwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Schlussfolgerungen aus dem Abschlussbericht - vertagt
+- TOP 10: Baumschutz - schriftlich beantwortet
+- TOP 11: Prioritätenliste für den Neubau und die Modernisierung von Lichtsignalanlagen (LSA) - in der BVV abgelehnt
+- TOP 12: Tempo 70 auf der Straße An der Wuhlheide - in der BVV abgelehnt
+- TOP 13: Gesamtkonzeption für das Gebiet Müggelsee - Langer See - Dämeritzsee Untersuchung der Entwicklungsmöglichkeiten für Naherholung und Tourismus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Gesamtwegekonzept für Friedrichshagen 2010 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15: Tourismusleitsystem - ohne Änderungen in der BVV beschlossen
+- TOP 16: Verkehrsreglung Schöneicher Straße / Dahlwitzer Landstraße in Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 17: Europaweiter Autofreier Tag - ohne Änderungen in der BVV beschlossen
+- TOP 18: Freiwilligenabfrage bei Kitaplatzab- und ummeldungen - ohne Änderungen in der BVV beschlossen
+- TOP 19: Entwicklung des Wissenschaftsstandortes Treptow-Köpenick durch bessere Kooperationen - ohne Änderungen in der BVV beschlossen
+- TOP 20: Einheitliche Erhebung der Betreuungskosten für Kita- und Schulhort - ohne Änderungen in der BVV beschlossen
+- TOP 21: Ausgliedern von Aufgaben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 22: Bebauungsplan 9-21 Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 23: Mehr Sicherheit für Kinder - Bushaltestelle Königsheideweg/Mahonienweg (Schulwegsicherung) - ohne Änderungen in der BVV beschlossen
+- TOP 24: Einbürgerung - ohne Änderungen in der BVV beschlossen
+- TOP 25: Sexualerziehung an Schulen in Treptow-Köpenick durch freie Träger - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 26: Belebung des Kranbahnparkes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 27: Rechtsverordnung über die Genehmigungspflicht von Grundstücksteilungen im Geltungsbereich des Bebauungsplans XV-46 im Bezirk Treptow-Köpenick, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 28: Bebauungsplan XVI-58 im Ortsteil Rahnsdorf Planreife für die Grundstücke Fürstenwalder Allee 326 - überwiesen
+- TOP 29: Verleihung des Namens "Stefan Heym" an die Stadtteilbibliothek Adlershof - überwiesen
+- TOP 30: Einbeziehung des neu gebauten Straßenabschnitts zwischen Hoffmannstraße und Spree in die Eichenstraße und Benennung in "Eichenstraße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 31: Erhalt des BIZO - überwiesen
+- TOP 32: Kuhle Wampe im FNP sichern - überwiesen
+- TOP 33: Sicherung der Freiwilligen Feuerwehr und Jugendfeuerwehr in Johannisthal - ohne Änderungen in der BVV beschlossen
+- TOP 34: Leistungen nach dem AsylbLG - überwiesen
+- TOP 35: Informationen Wiedereröffnung Schloss Köpenick - überwiesen
+- TOP 36: Wegfall der Sozialtickets der BVG - in der BVV zurückgezogen
+- TOP 37: Einleitung eines Bebauungsplanverfahrens für Kuhle Wampe/Krampenburg - überwiesen
+- TOP 38: Platzgestaltung Köpenicker Str. / Besenbinderstraße - überwiesen
+- TOP 39: Prioritäten für den Neubau und die Modernisierung von Lichtsignalanlagen (LSA) - ohne Änderungen in der BVV beschlossen
+- TOP 40: Neues Tarifsystem bei der BVG und der S-Bahn (1) - überwiesen
+- TOP 41: Zeuthen I im FNP sichern - überwiesen
+- TOP 42: Anpassung Fahrplanänderung der BVG vom 14.12.2003 - ohne Änderungen in der BVV beschlossen
+- TOP 43: Aufgaben des bezirklichen Ordnungsamtes - überwiesen
+- TOP 44: Neues Tarifsystem bei der BVG und der S-Bahn (2) - in der BVV zurückgezogen
+- TOP 45: Einleitung eines Bebauungsplanverfahrens für den Standort Zeltplatz Zeuthen I/Teikyo-University - überwiesen
+- TOP 46: Treptow-Köpenick familienfreundlich gestalten - Spielecken in Besucherwartezonen - überwiesen
+- TOP 47: Übersicht Busparkplätze - überwiesen
+- TOP 48: Ballfanggitter auf den Schulsportplätzen sowie auf Freianlagen - im Ältestenrat zurückgezogen
+- TOP 49: Große Krampe I und II erhalten - überwiesen
+- TOP 50: Projekt "Stolpersteine" - ohne Änderungen in der BVV beschlossen
+- TOP 51: Marketingstrategie für Oberschöneweide - überwiesen
+- TOP 52: Benennung der neuen Autobahnbrücken - überwiesen
+- TOP 53: Benennung der neuen Autobahntunnel - überwiesen
+- TOP 54: Abschichtung von Aufgaben in bezirkliche Verantwortung des Jugendbereiches - beantwortet
+- TOP 55: Finanzierung Kulturarbeit - vertagt
+- TOP 56: Integrationsklassen an Gesamtschulen - beantwortet
