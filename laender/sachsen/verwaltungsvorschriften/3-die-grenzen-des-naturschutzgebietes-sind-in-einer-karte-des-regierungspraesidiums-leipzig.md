@@ -1,8 +1,8 @@
 # (3) Die Grenzen des Naturschutzgebietes sind in einer Karte des Regierungspräsidiums Leipzig
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2000-11-05 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/15176.1
+- Datum: 2001-11-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/15176.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -249,6 +249,11 @@ für die von der Naturschutzbehörde angeordneten oder genehmigten Wegemarkierun
 10.
 
 für gesetzlich vorgeschriebene Vermessungsarbeiten.
+
+§ 5a
+
+Die in den §§ 4 und 5 festgelegten Verbote, Gebote und Maßgaben für die land-, forst- und fischereiwirtschaftliche Bodennutzung gelten nicht, solange und soweit sich der Nutzungsberechtigte durch schriftliche Vereinbarung mit der Naturschutzbehörde oder im Einvernehmen mit der Naturschutzbehörde zur Einhaltung der dort ausgesprochenen Vorgaben verpflichtet hat.
+1
 
 § 6
 
