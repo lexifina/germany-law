@@ -1,0 +1,4 @@
+# § 28a Gründungen, Beteiligungen
+(1) In Fällen, in denen dies aus Gründen der Effektivität geboten ist und der Erfüllung der gesetzlichen Aufgaben der Landesanstalt dient, kann die Landesanstalt privatrechtliche Unternehmen und Körperschaften des öffentlichen Rechts gründen sowie sich an solchen beteiligen.
+(2) Dabei hat sich die Landesanstalt den wesentlichen Einfluss auf die Geschäftsführung der Unternehmen nach Absatz 1, insbesondere eine angemessene Vertretung in deren Aufsichtsorganen, zu sichern.
+(3) Sowohl die Gründung als auch die Beteiligung nach Absatz 1 bedürfen der Genehmigung durch die Rechtsaufsichtsbehörde. Die Rechtsaufsichtsbehörde darf die Genehmigung nur erteilen, wenn die Landesanstalt durch Aufnahme der erforderlichen Regelungen in den Gesellschaftsvertrag oder die Satzung der Unternehmen nach Absatz 1 sicherstellt, dass eine Prüfung der Haushalts- und Wirtschaftsführung dieser Unternehmen durch den Sächsischen Rechnungshof erfolgen soll.

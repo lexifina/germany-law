@@ -32,9 +32,10 @@ Inhaltsübersicht
 6. Abschnitt Weitere Rundfunknutzungen, Rundfunkerprobung
 § 25 Weitere Rundfunknutzungen
 § 26 Rundfunkerprobung
-7. Abschnitt Sächsische Landesanstalt für privaten Rundfunkund neue Medien
+7. Abschnitt Sächsische Landesanstalt für privaten Rundfunk und neue Medien
 § 27 Rechtsform und Organe
 § 28 Aufgaben der Landesanstalt
+§ 28a Gründungen, Beteiligungen
 § 29 Versammlung der Landesanstalt
 § 30 Arbeitsweise und Aufgaben der Versammlung
 § 31 Medienrat
@@ -50,7 +51,7 @@ Inhaltsübersicht
 § 39 Allgemeine Aufsicht über Veranstalter
 § 40 Rücknahme der Zulassung
 § 41 Widerruf der Zulassung
-§ 42 Untersagung der Weiterverbreitung
+§ 42 Untersagung der Verbreitung oder Weiterverbreitung
 § 43 Ordnungswidrigkeiten
 10. Abschnitt Datenschutz und Geheimschutz
 § 44 Datenverarbeitung zu eigenen publizistischen Zwecken
