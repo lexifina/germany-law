@@ -1,3 +1,4 @@
+## Gesetz über den privaten Rundfunk und neue Medien in Sachsen (Sächsisches Privatrundfunkgesetz – SächsPRG)
 # Inhaltsübersicht
 1. Abschnitt Allgemeine Bestimmungen
 § 1 Anwendungsbereich
@@ -16,7 +17,7 @@
 3. Abschnitt Anforderungen an die Programmgestaltung
 § 12 Programmgrundsätze
 § 13 Programmgestaltung
-§ 14 Unzulässige Sendungen, Jugendschutz
+§ 14 Jugendschutz, Kurzberichterstattung, europäische Produktionen
 § 15 Ausgewogenheit des Programmangebots
 4. Abschnitt Besondere Pflichten der Veranstalter
 § 16 Verantwortlichkeit für das Programm
@@ -28,11 +29,11 @@
 § 22 Besondere Sendezeiten
 5. Abschnitt Finanzierung der Programme
 § 23 Formen der Finanzierung
-§ 24 Werbung, Sponsorsendungen
+§ 24 Finanzierung, Werbung, Sponsoring
 6. Abschnitt Weitere Rundfunknutzungen, Rundfunkerprobung
 § 25 Weitere Rundfunknutzungen
 § 26 Rundfunkerprobung
-7. Abschnitt Sächsische Landesanstalt für privaten Rundfunkund neue Medien
+7. Abschnitt Sächsische Landesanstalt für privaten Rundfunk und neue Medien
 § 27 Rechtsform und Organe
 § 28 Aufgaben der Landesanstalt
 § 29 Versammlung der Landesanstalt
@@ -43,9 +44,9 @@
 § 34 Arbeitsweise und Aufgaben des Direktors
 § 35 Finanzierung der Landesanstalt
 § 36 Aufsicht über die Landesanstalt
-8. Abschnitt Weiterverbreitung von Rundfunkprogrammenin Kabelanlagen
-§ 37 Zulässigkeit der Weiterverbreitung
-§ 38 Kanalbelegung
+8. Abschnitt Weiterverbreitung von Rundfunkprogrammen in Kabelanlagen
+§37 Zulässigkeit der Weiterverbreitung
+§38 Weiterverbreitung
 9. Abschnitt Maßnahmen der Aufsicht
 § 39 Allgemeine Aufsicht über Veranstalter
 § 40 Rücknahme der Zulassung
