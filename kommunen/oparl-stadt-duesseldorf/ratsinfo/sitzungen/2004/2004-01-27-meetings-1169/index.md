@@ -1,0 +1,56 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-01-27T17:00:00+01:00
+- Ende: 2004-01-27T00:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1169
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1169
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111458.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111458.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111458.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: B-Plan Nr. 6079/06 - Am Großen Dern
+- TOP 4: Sengbachweg 3 - 9
+- TOP 5: Entwicklung der Grundwasserstände
+- TOP 6: Zuschuss an den Tennisclub Blau-Schwarz e.V.
+- TOP 7: Krammarkt in Gerresheim
+- TOP 8: Klettergerüst im Nachbarschaftspark Diepenstraße
+- TOP 9: Straßenbenennung nach Aloys Odenthal
+- TOP 10: Verkehrssicherheit Zamenhofweg
+- TOP 11: Straßenbenennung nach Aloys Odenthal
+- TOP 12: Bebauung des Grundstücks Villa Sack
+- TOP 13: Arbeitsplatzentwicklung in Untergerresheim
+- TOP 14: Sicherung der Sopher-Gedächtnisstätte
+- TOP 15: Sicherung Bauruine Heyestr./Owensstr.
+- TOP 16: Freigabe der Hatzfeldstraße für Radfahrer
+- TOP 17: Schaffung eines Archivraumes für Vereine
+- TOP 18: Keine Benachteiligung für Gerresheim-Süd
+- TOP 19: Fußgängerüberweg Märkische Straße
+- TOP 20: Ampelanlage Glashüttenstr./Kamper Weg
+- TOP 21: Löcher in der Katharinenstraße
+- TOP 22: Gerresheim-Süd in den Stadtbezirk integrieren
+- TOP 23: B 7 zwischen Blanckertzstraße und Gräulinger Str.
+- TOP 24: Sanierung Straßenbelag Heyestraße
+- TOP 25: Verbesserte Parkplatzzuweisung und -Beschilderung
+- TOP 26: Fußgängerquerung und Geschwindigkeitsreduzierung
+- TOP 27: Verbesserung der Straßenbeleuchtung südl. Heyestr.
+- TOP 28: Straßenbahnhaltestelle Hardenbergstraße
+- TOP 29: Verkehrsspiegel Fröbelstraße/Zamenhofweg
+- TOP 30: Haltelinie Morperstraße
+- TOP 31: Kostenloses Kurzzeitparken
+- TOP 32: Gedächtnisstätte des Bildhauers Bernhard Sopher
+- TOP 33: Neubau von 9 Einfamlienhäusern Hülsmeyerstr. 59-75
+- TOP 34: Mobile Grünschnitt- und Schadstoffsammlung im
+- TOP 35: Aufhebung der Einbahnstraßenregelung
+- TOP 36: Reinigung der Pfeiffer-Brücke
+- TOP 37: Wanderparkplatz Am Trotzhof
+- TOP 38: Mobilfunksendeanlagen
+- TOP 39: Bordsteinabsenkungen
