@@ -1,0 +1,103 @@
+# 25. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2004-03-18T17:30:00+01:00
+- Ende: 2004-03-18T22:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=619
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=619
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - im Ausschuss abgelehnt
+- TOP 1.2: der Fraktionen - im Ausschuss abgelehnt
+- TOP 1.3: der Ausschüsse - im Ausschuss abgelehnt
+- TOP 1.4: des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 2: Konsensliste - im Ausschuss abgelehnt
+- TOP 3: Thematische Stunde - im Ausschuss abgelehnt
+- TOP 4: Mündliche Anfrage - (offen)
+- TOP 4.1: stadt.plan.mitte - beantwortet
+- TOP 4.2: Alles o.k. beim UEP? - beantwortet
+- TOP 4.3: Optionsausübung nach Hartz IV - beantwortet
+- TOP 4.4: Kleine Anfrage bewusst ignoriert? - beantwortet
+- TOP 4.5: Tiergarten im Dunkeln - beantwortet
+- TOP 4.6: Hackescher Markt/Neue Promenade: Wochenmarkt und Gastronomie - schriftlich beantwortet
+- TOP 4.7: Untersagung eines Baugerüstes an der Brandmauer des Metropol-Theaters - schriftlich beantwortet
+- TOP 5: Dringlichkeitsanfrage - (offen)
+- TOP 5.1: Vergabe von LOS-Projekten - beantwortet
+- TOP 5.2: Veränderte Zeitplanung zum Umzug Berlin Kolleg - beantwortet
+- TOP 5.3: Finanzierung des Umzugs Berlin-Kolleg - beantwortet
+- TOP 6: Große Anfrage - (offen)
+- TOP 6.1: Kitaplanung 2004/2005 - beantwortet
+- TOP 6.2: Selbstinszenierung eines Intendanten? - beantwortet
+- TOP 6.3: Anteil ausländischer Kinder in den Kitas im Bezirk Mitte - beantwortet
+- TOP 6.4: Datenschutzverletzung - schriftlich beantwortet
+- TOP 6.5: Islamkundeunterricht - schriftlich beantwortet
+- TOP 6.6: Sozialdatenschutz im Bezirksamt oder: Sozialhilfepranger auf dem Prachtboulevard - schriftlich beantwortet
+- TOP 6.7: Auswirkungen von Hartz IV im Wohngeldamt - schriftlich beantwortet
+- TOP 6.8: Schul- und Sportanlagensanierungsprogramm - schriftlich beantwortet
+- TOP 6.9: Unbesetzte Stellen Schulleiter/Schulleiterinnen - schriftlich beantwortet
+- TOP 6.10: Verkehrssituation Britische Botschaft - schriftlich beantwortet
+- TOP 7: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2001
+- TOP 9: Vorlage zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl der ehrenamtlichen Richter für das Verwaltungsgericht Berlin für die Amtsperiode ab 01. Januar 2005 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Die in einer zusammengefassten Anlage beigefügten Vorschlagslisten für Schöffen für die Geschäftsjahre 2005 bis 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Bebauungsplanentwurf III-105-3 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-105-3 - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlage zur Kenntnisnahme - (offen)
+- TOP 10.1: Information über Baumfällungen im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.2: Eine Brücke für Rosa-Luxemburg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.3: Neue Regierung - altes Leid: Love-Parade wieder im Tiergarten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.4: Love Parade - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.5: Straßenbenennung nach Yitzak Rabin
+- TOP 10.6: Milchhof e. V.
+- TOP 10.7: Werbeschilder für Gewerbetreibende an den Ausgängen des U- und S-Bahnhofes Wedding
+- TOP 10.8: Love-Parade
+- TOP 10.9: Keine Fehlsubventionierung der Love-Parade (weder durch Einstufung als politische Demonstration noch durch Mitveranstaltung des Senats)
+- TOP 10.10: Sprachförderung in Kitas alt: Drucksachen Nr. I/97
+- TOP 10.11: Sponsoringpartner
+- TOP 10.12: Jugendkunstschulen als Baustein im kommunalen Bildungsangebot
+- TOP 10.13: Keine finanziellen Belastungen des Bezirkshaushaltes durch die Novellierung GDG und Neuordnung des Öffentlichen Gesundheitsdienstes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.14: Lärm ist schädlich - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.15: Niederschlagswasser - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.16: Rosenholz-Überprüfung in Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.17: Heimüberprüfung nach dem Heimgesetz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.18: Öffentlicher Runder Tisch zum Drogenkonsumraum in Moabit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.19: Keine Streichung des kostenlosen AIDS-Tests (HIV-Test) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.20: Sponsoring im Bezirk (alt: Drucksache-Nr. I/279)
+- TOP 10.21: Aufstellung des Bebauungsplans 1-17B im Bezirk Mitte, Ortsteil Mitte und die Durchführung der Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.22: Aufstellung des Bebauungsplans 1-18B im Bezirk Mitte, Ortsteil Mitte und die Durchführung der Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.23: Änderung des Geltungsbereichs des Bebauungsplans I-43 im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.24: Auflösung der pauschalen Mehrausgaben im Haushaltsplan 2004 des Bezirks Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.25: Bestätigung der Entscheidung der Begleitausschüsse für die 1. Förderperiode zur Förderung von Mikroprojekten im Rahmen des Bundesmodellprogramms Lokales Kapital für Soziale Zwecke (LOS) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Dringlichkeitsantrag - (offen)
+- TOP 11.1: Mitglied für den Stiftungsrat der Erika-Heß-Stiftung - Benennung durch die BVV - in der BVV abgelehnt
+- TOP 11.2: Mitgliedschaft Erika-Heß-Stiftungsbeirat - in der BVV abgelehnt
+- TOP 11.3: Benennung nach Dr. Ulrich Biel - vertagt
+- TOP 11.4: Hackescher Markt/Neue Promenade: Wochenmarkt und Gastronomie - in der BVV abgelehnt
+- TOP 11.5: Kein zentraler Landesbetrieb! - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Kontaktladen Klik erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Straßenbenennungen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag/Beschlussempfehlung - (offen)
+- TOP 12.1: Arminiusmarkthalle
+- TOP 12.2: Verkehrskonzept Spandauer Vorstadt zügig umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sicherung des Großen Tiergartens - in der BVV zurückgezogen
+- TOP 12.4: Keine Bebauung des Diplomatenparks - in der BVV abgelehnt
+- TOP 13: Antrag - (offen)
+- TOP 13.1: Zusammenarbeit von SGA und Polizei - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Informationsmaterial gegen Drogenhandel - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Abweisung wohnungsloser kranker Menschen durch Krankenhäuser - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Sicherung des Gesamtkunstwerkes Ostteil Großer Tiergarten - überwiesen
+- TOP 13.5: Vertrauen ist gut - Kontrolle ist besser: Jährliche Berichte zur Nutzung von Fördermitteln - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Kinderförderung fortsetzen - überwiesen
+- TOP 13.7: Sportanlage am Nordbahnhof in die I-Planung 2004-2008 - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Sanierung des Tribünengebäudes im Poststadion unterstützen! - überwiesen
+- TOP 13.9: Bibliotheksentwicklungsplan - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Echte Partnerschaft mit dem Regierungsbezirk von Peking - ohne Änderungen in der BVV beschlossen
+- TOP 13.11: Bernhard Weiss zu Ehren - überwiesen
+- TOP 13.12: Zwischennutzung der Sportfläche am Nordbahnhof - ohne Änderungen in der BVV beschlossen
