@@ -1,0 +1,68 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-07-08T15:00:00+02:00
+- Ende: 2004-07-08T19:00:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1167
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1167
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111335.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111335.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111335.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift vom 18.06.2004 - zur Kenntnis genommen
+- TOP 3: Kriminalstatistik und Einsatzlage der Polizei - zur Kenntnis genommen
+- TOP 4: OU Oberbilk - zur Kenntnis genommen
+- TOP 5: B-Plan Nr. 5876/10 - Nördl. Königsberger Str.- Ost - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Lichtmasterplan Teil 2 als Teil der Aktion PLATZDA - zur Kenntnis genommen
+- TOP 11: Gestaltung des Platzes Vennhauser Allee - zur Kenntnis genommen
+- TOP 12: Sporthalle Deutzer Straße - zur Kenntnis genommen
+- TOP 13: Harffstraße / Friedberger Weg - zur Kenntnis genommen
+- TOP 14: Radverbindung Vennhauser Allee - zur Kenntnis genommen
+- TOP 15: Umbau Kinderspielplatz Dillenburger Weg - zur Kenntnis genommen
+- TOP 16: Schulgebäude Fuldaer Straße - zur Kenntnis genommen
+- TOP 17: Bezirksbezogene Bauunterhaltungsmaßnahmen 2004 - zur Kenntnis genommen
+- TOP 18: Bezirksbezogene Bauunterhaltunsmaßnahmen 2004 - zur Kenntnis genommen
+- TOP 19: Zuschüsse der Bezirksvertretung 8 im Jahre 2004 - zur Kenntnis genommen
+- TOP 20: Geschäftslokale Ellerkirchstraße - zur Kenntnis genommen
+- TOP 21: Geschwindigkeitsregelung Vennstraße/Am Kleinforst - zur Kenntnis genommen
+- TOP 22: Ampelanlage Am Zault - zur Kenntnis genommen
+- TOP 23: Verlegung Bushaltestelle Fuldaer Straße - zur Kenntnis genommen
+- TOP 24: Stadtteilgrenze Eller - Lierenfeld - zur Kenntnis genommen
+- TOP 25: Grillplätze Bezirk 8 - zur Kenntnis genommen
+- TOP 26: Neue Stichstraße - zur Kenntnis genommen
+- TOP 27: Gubener Straße - zur Kenntnis genommen
+- TOP 28: Namensgebung Freiheitplatz - zur Kenntnis genommen
+- TOP 29: Gubener Straße - zur Kenntnis genommen
+- TOP 30: Internetauftritt der Bezirksvertretung - zur Kenntnis genommen
+- TOP 31: Parkplatzsituation Vennhauser Allee - zur Kenntnis genommen
+- TOP 32: Baumpflanzungen und Baumfällungen - zur Kenntnis genommen
+- TOP 33: Häuser Hasseler Richtweg 66-78 - zur Kenntnis genommen
+- TOP 34: Haltverbot Kuthsweg - zur Kenntnis genommen
+- TOP 35: Zebrastreifen Eller Kamp - zur Kenntnis genommen
+- TOP 36: Fußweg Eller Kamp - zur Kenntnis genommen
+- TOP 37: Kreuzungsbereich Klein Eller - zur Kenntnis genommen
+- TOP 38: Geschwindigkeitsanzeigetafel - zur Kenntnis genommen
+- TOP 39: Öffnung von Schulhöfen - zur Kenntnis genommen
+- TOP 40: Toilettenanlage Wasserspielplatz Schloss Eller - zur Kenntnis genommen
+- TOP 41: Jugendinitiativen im Bereich In der Elb - zur Kenntnis genommen
+- TOP 42: Jugendarbeit im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 43: Bürgerhaus Eller - zur Kenntnis genommen
+- TOP 44: Schulgebäude Kempgensweg 65 - zur Kenntnis genommen
+- TOP 45: Schulgebäude Leuthenstraße 50 - zur Kenntnis genommen
+- TOP 46: Sitzungstermine der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 47: Reichenbacher Weg - zur Kenntnis genommen
+- TOP 48: Sauberkeit im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 49: Öffnung von Lehrerparkplätzen - zur Kenntnis genommen
+- TOP 50: Behindertenparkplatz Reisholzer Straße - zur Kenntnis genommen
+- TOP 51: Verkehrssituation Kreuzung Sandträgerweg - zur Kenntnis genommen
