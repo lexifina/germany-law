@@ -1,8 +1,8 @@
 # (3) Die Grenzen des Schutzgebietes sind in einer Übersichtskarte des Regierungspräsidiums Dresden
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2000-02-04 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/15165.1
+- Datum: 2001-06-22 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/15150.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -12,83 +12,63 @@
 
 Festsetzung als Schutzgebiet
 
-Die in § 2 näher bezeichneten Flächen auf dem Gebiet der Gemeinde Moritzburg und der Stadt Radeburg im Landkreis Meißen werden als Naturschutzgebiet festgesetzt. Das Naturschutzgebiet führt die Bezeichnung „Frauenteich Moritzburg“.
+Die in § 2 näher bezeichneten Flächen auf dem Gebiet der Gemeinde Laußnitz im Landkreis Kamenz und der Gemeinde Großdittmannsdorf im Landkreis Meißen werden als Naturschutzgebiet festgesetzt. Das Naturschutzgebiet führt die Bezeichnung „Moorwald am Pechfluss bei Medingen“.
 
 § 2
 
 Schutzgegenstand
 
-(1) Das Naturschutzgebiet hat eine Größe von etwa 202 ha.
+(1) Das Naturschutzgebiet hat eine Größe von etwa 84 ha.
 
-(2) Das Schutzgebiet umfasst nach dem Stand der Flurkarten auf dem Gebiet
+(2) Das Schutzgebiet umfasst nach dem Stand vom 26. Januar 1999 auf dem Gebiet
 
 1.
 
-der Gemeinde Moritzburg, Gemarkung Moritzburg, die Flurstücke 47 (teilweise), 48, 49, 50, 51, 52, 380, 381a (teilweise), 381b, 381d, 381e, 381g;
+der Gemeinde Laußnitz, Gemarkung Laußnitz die Flurstücke 1356, 1358, 1360, 1362, 1363 (teilweise), 1369 (teilweise), 1371 (teilweise), 1373 (teilweise);
 
 2.
 
-der Stadt Radeburg, Gemarkung Berbisdorf, die Flurstücke 335, 335a, 336a, 336c, 336e, 336/2, 336/4, 337a, 337/1, 338, 339, 347, 347a, 347b, 347c, 347d, 347e, 405, 406, 412, 417, 417b, 418, 418a;
+der Gemeinde Großdittmannsdorf, Gemarkung Großdittmannsdorf die Flurstücke 242, 244, 245 (teilweise), 246 (teilweise).
 
-3.
+(3) Die Grenzen des Schutzgebietes sind in einer Übersichtskarte des Regierungspräsidiums Dresden vom 15. Juli 1999 im Maßstab 1 : 10 000 und in einer Flurkarte des Regierungspräsidiums Dresden vom 15. Juli 1999 im Maßstab 1 : 5 000 rot eingetragen. Maßgebend für den Grenzverlauf ist die Linienaußenkante der Grenzeintragungen in der Flurkarte. Im Südosten wird das Naturschutzgebiet durch den Diebsteig begrenzt, der selbst Bestandteil des Naturschutzgebietes ist. Die Karten sind Bestandteil der Verordnung. Die Verordnung wird zusammen mit der Übersichtskarte im Sächsischen Amtsblatt verkündet. Die Verordnung mit Karten ist beim Regierungspräsidium Dresden, in 01099 Dresden, Stauffenbergallee 2, auf die Dauer von zwei Wochen nach der Verkündung im Sächsischen Amtsblatt zur kostenlosen Einsicht durch jedermann während der Sprechzeiten öffentlich ausgelegt.
 
-der Stadt Radeburg, Gemarkung Bärwalde, die Flurstücke 234 (teilweise), 236 (teilweise), 237 (teilweise), 238 (teilweise), 239 (teilweise), 240 (teilweise), 241 (teilweise), 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 315, 316, 326 (teilweise), 327, 328, 331, 332 (teilweise), 333 (teilweise), 336 (teilweise), 337 (teilweise), 342 (teilweise), 345 (teilweise), 346 (teilweise), 348/1 (teilweise), 349 (teilweise), 352 (teilweise).
-
-(3) Die Grenzen des Schutzgebietes sind in einer Übersichtskarte des Regierungspräsidiums Dresden vom 15. Dezember 1999 im Maßstab 1 : 10 000 und in fünf Flurkarten des Regierungspräsidiums Dresden vom 15. Dezember 1999 im Maßstab 1:2 000 und 1:5 000 eingetragen. Maßgebend für den Grenzverlauf ist die Linienaußenkante der Grenzeintragungen in den Flurkarten. Im Süden wird das Naturschutzgebiet maßgeblich durch den Neubauernweg begrenzt, der selbst nicht Bestandteil des Gebietes ist. Die Karten sind Bestandteil der Verordnung. Die Verordnung wird zusammen mit der Übersichtskarte im Sächsischen Amtsblatt verkündet und ist mit Karten beim Regierungspräsidium Dresden, in 01099 Dresden, Stauffenbergallee 2, auf die Dauer von zwei Wochen nach der Verkündung im Sächsischen Amtsblatt zur kostenlosen Einsicht durch jedermann während der Sprechzeiten öffentlich ausgelegt.
-
-(4) Die Verordnung mit Karten wird nach Ablauf der Auslegungsfrist beim Regierungspräsidium Dresden zur kostenlosen Einsicht durch jedermann während der Sprechzeiten niedergelegt.
+(4) Die Verordnung mit Karten wird nach Ablauf der Auslegungsfrist beim Regierungspräsidium Dresden, in 01099 Dresden, Stauffenbergallee 2, zur kostenlosen Einsicht durch jedermann während der Sprechzeiten niedergelegt.
 
 § 3
 
 Schutzzweck
 
-(1) Schutzzweck ist die nachhaltige Erhaltung und störungsarme Entwicklung eines komplexen Teichökosystems mit angrenzenden Agrar- und Waldflächen als repräsentativen Kulturlandschaftsausschnitt des Moritzburger Kuppen- und Teichgebietes und regionaltypische Lebensstätte für besonders geschützte, besonders gefährdete und besonders empfindliche Tier- und Pflanzenarten.
+(1) Schutzzweck ist die Erhaltung, Entwicklung und wissenschaftliche Dokumentation eines bewaldeten Moor- und Quellgebietes entlang des Pechflusses einschließlich der sich anschließenden Aue am Südwestrand der Laußnitzer Heide. Es weist eine landesbedeutsame Biotop- und Artenausstattung sowie Moorwaldentwicklung auf.
 
 (2) Schutzzweck ist insbesondere
 
 1.
 
-die Erhaltung und Entwicklung eines für das Moritzburger Kuppen- und Teichgebiet einmaligen Refugial- und Reproduktionsgebietes für Pflanzen und Tiere naturnah bewirtschafteter Teiche und Feuchtgebiete;
+die Erhaltung des hydrologischen und hydrogeologischen Zustandes des Pechflusses und des gebietseigenen Hydroregimes einschließlich von Schutz- und Pufferzonen ohne Entwässerung;
 
 2.
 
-die störungsarme Erhaltung und Entwicklung eines überregional bedeutsamen Brut-, Nahrungs-, Rast- und Mausergebietes seltener und vom Aussterben bedrohter Wasservögel;
+die Bewahrung und Entwicklung eines intakten Moor- und Torfkörpers mit Waldmooren, Sümpfen, seggen- und binsenreichen Nassstandorten, Moorwäldern, Quellbereichen, naturnahen Kleingewässern, Verlandungsbereichen stehender Gewässer, höhlenreichen Altholzinseln und höhlenreichen Einzelbäumen als ungestörten Lebensraum für die moortypischen gefährdeten und empfindlichen Pflanzengesellschaften und Tiergemeinschaften;
 
 3.
 
-die Erhaltung und Entwicklung eines bedeutenden Jahreslebensraumes für Lurche und Kriechtiere;
+die Erhaltung und Entwicklung eines naturnahen Moorwaldes mit einem hohen Anteil an Altbäumen, Höhlenbäumen und Totholz sowie von Wäldern trockenwarmer Standorte mit Halbtrockenrasen und Zwergstrauchheiden;
 
 4.
 
-die Förderung der Wildfischfauna, insbesondere von Karausche, Moderlieschen, Schlammpeitzger und Dreistachligem Stichling sowie in Gräben auch von Gründling;
+die Erhaltung und Entwicklung einer moortypischen Flora von überregionaler Bedeutung, insbesondere der Torfmoos-Wasserschlauch-Gesellschaft;
 
 5.
 
-die Erhaltung und pflegliche Nutzung von gewässernahen Feuchtwiesen als Lebensraum für seltene und gefährdete Tierarten, insbesondere für Orchideen und wiesenbesiedelnde Vogelarten;
+die Erhaltung und Entwicklung des Lebensraumes einer beispielhaft vollständigen moortypischen Fauna, insbesondere für Libellen-, Lurch-, Kriechtier- und Vogelarten;
 
 6.
 
-die Erhaltung und Entwicklung naturnaher Wälder mit hohem Anteil an Alt- und Totholz sowie Höhlenbäumen als störungsarme Lebensstätten von Tierarten mit hohen Schutzansprüchen;
+die Erhaltung und Entwicklung einer schlenkenreichen Pfeifengrasfläche als Lebensraum für seltene und gefährdete Tierarten und als Abbild einer historischen Mähwiese in der Bachaue;
 
 7.
 
-die Bewahrung eines Ökosystems mit möglichst vollständigen Biozönosen und Nahrungsketten;
-
-8.
-
-die Bewahrung eines seit Anfang des 19. Jahrhunderts dokumentierten, wissenschaftlich und wissenschaftsgeschichtlich bedeutsamen faunistisch-floristischen Langzeitbeobachtungs- und Studiengebietes;
-
-9.
-
-die Erhaltung von Fischteichen, Dämmen, Gräben, Grenzsteinen, Heidewegen und der Trockenmauer als historische Zeugnisse früherer Kulturlandschaft;
-
-10.
-
-die Erhaltung und Entwicklung eines unbeeinträchtigten Kulturlandschaftsbildes, das durch den kleinflächigen Wechsel von stehenden und fließenden Gewässern, von Wald und Feldgehölzen, Kuppen und Hohlformen sowie Trocken- und Feuchtstandorten von besonderer Eigenart und hervorragender Schönheit ist;
-
-11.
-
-die Förderung der Umweltbildung, insbesondere durch störungsarme Naturbeobachtung.
+die Erhaltung der als historische Zeugnisse früherer Kulturlandschaft überkommenen Elemente, wie Kleinteiche, Dämme, Gräben, Forst- und Wegesäulen sowie der Heidewege.
 
 § 4
 
@@ -100,7 +80,7 @@ Verbote
 
 1.
 
-bauliche Anlagen im Sinne der Sächsischen Bauordnung (SächsBO) in der Fassung vom 18. März 1999 (SächsGVBl. S.85), in der jeweils geltenden Fassung, zu errichten, zu ändern, abzubrechen oder der Errichtung gleichgestellte Maßnahmen durchzuführen;
+bauliche Anlagen im Sinne der Sächsischen Bauordnung (SächsBO) in der Fassung vom 18. März 1999 (SächsGVBl. S. 85), in der jeweils geltenden Fassung, zu errichten, zu ändern, abzubrechen oder der Errichtung gleichgestellte Maßnahmen durchzuführen;
 
 2.
 
@@ -108,11 +88,11 @@ Straßen, Wege, Plätze oder sonstige Verkehrsanlagen anzulegen, Leitungen ober-
 
 3.
 
-Handlungen vorzunehmen, die den Boden in seiner Gestalt, Struktur und Beschaffenheit verändern oder verändern können;
+Handlungen vorzunehmen, die den Boden in seiner Gestalt, Struktur und Beschaffenheit verändern können;
 
 4.
 
-Auffüllungen vorzunehmen oder Ablagerungen einzubringen;
+Auffüllungen oder Ablagerungen einzubringen;
 
 5.
 
@@ -120,7 +100,7 @@ Abfälle oder sonstige Materialien oder Stoffe einzubringen oder zu lagern;
 
 6.
 
-Entwässerungs- oder andere Maßnahmen vorzunehmen, die den Wasserhaushalt des Gebietes verändern können;
+Entwässerungs- oder andere Maßnahmen vorzunehmen, die den Wasserhaushalt des Gebietes verändern können, oder Gewässer zu verunreinigen;
 
 7.
 
@@ -140,15 +120,15 @@ die bisherige Grundstücksnutzung in einer Art zu ändern, welche dem Schutzzwec
 
 11.
 
-zu zelten, zu lagern, Wohnwagen, sonstige Fahrzeuge oder Verkaufsstände aufzustellen oder motorgetriebene Schlitten zu benutzen;
+zu baden oder Eis- oder Wassersport zu betreiben oder Sportveranstaltungen durchzuführen;
 
 12.
 
-zu baden, Eis- oder Wassersportarten zu betreiben oder Gewässer mit Booten oder anderen Fahrzeugen zu befahren;
+zu zelten, zu lagern, Wohnwagen, sonstige Fahrzeuge oder Verkaufsstände aufzustellen oder motorgetriebene Schlitten zu benutzen;
 
 13.
 
-Flächen außerhalb der öffentlichen Straßen und markierten Wege zu betreten, auf diesen zu reiten oder mit motorgetriebenen oder bespannten Fahrzeugen zu befahren;
+Flächen außerhalb der Wege zu betreten, auf diesen zu reiten oder mit motorgetriebenen oder bespannten Fahrzeugen zu befahren;
 
 14.
 
@@ -160,15 +140,11 @@ Lärm zu verursachen, der geeignet ist, Tiere zu beunruhigen und den Naturgenuss
 
 16.
 
-Hunde unangeleint laufen zu lassen;
+Hunde unangeleint laufen zu lassen oder
 
 17.
 
-mit Luftfahrzeugen zu starten oder zu landen oder
-
-18.
-
-Sportveranstaltungen durchzuführen.
+mit Luftfahrzeugen zu starten oder zu landen.
 
 § 5
 
@@ -178,130 +154,105 @@ Zulässige Handlungen
 
 1.
 
-für die dem Schutzzweck untergeordnete Ausübung der Jagd mit folgenden Maßgaben:
+für die dem Schutzzweck untergeordnete Ausübung der Jagd mit den Maßgaben, dass
 
 a)
 
-Die Jagd auf Schalen- und Raubwild erfolgt als Ansitzjagd;
+die Jagd als Ansitz- oder Pirschjagd erfolgt;
 
 b)
 
-die Jagd auf Schalen- und Raubwild durch Drückjagd ist vom 1. Oktober bis zum 31. Dezember eines jeden Jahres zulässig, außerhalb dieses Zeitraumes bedarf sie der Genehmigung der Naturschutzbehörde;
+die Bejagung des Schalen- und Raubwildes durch Drückjagd vom 1. Oktober bis zum 31. Dezember eines jeden Jahres zulässig ist, außerhalb dieses Zeitraumes bedarf sie der Genehmigung der Naturschutzbehörde;
 
 c)
 
-die Jagd auf Federwild ist verboten;
+die Jagd auf Federwild in den gemäß § 26
+SächsNatSchG geschützten moor- und nässebestimmten Biotopen verboten ist;
 
 d)
 
-die Anlage von Jagdeinrichtungen bedarf der Genehmigung der Naturschutzbehörde gemäß § 37 Abs. 3 Sächsisches Landesjagdgesetz (SächsLJagdG) vom 8. Mai 1991 (SächsGVBl. S. 67), zuletzt geändert durch Gesetz vom 4. Juli 1994 (SächsGVBl. S. 1261), in der jeweils geltenden Fassung;
+der Jagdausübungsberechtigte die gemäß § 26
+SächsNatSchG geschützten moor- und nässebestimmten Biotope außerhalb der Wege nur zur Nachsuche und Aufnahme des erlegten Wildes betreten darf;
 
 e)
 
-die Jagd mit Schlageisen ist gemäß § 30 Abs. 2 Nr. 7
-SächsLJagdG verboten.
+die Anlage von Jagdeinrichtungen gemäß § 37 Abs. 3
+SächsLJagdG der Genehmigung der Naturschutzbehörde bedarf, die Anlage von Kirrungen, Wildfütterungen oder Salzleckstellen in den gemäß § 26 SächsNatSchG geschützten moor- und nässebestimmten Biotopen jedoch verboten ist;
 
 2.
 
-für die dem Schutzzweck entsprechende ordnungsgemäße Ausübung der Fischerei in der bisherigen Art und im bisherigen Umfang mit Karpfen, einschließlich den Nebenfischen Schleie, Hecht, Zander und Wels, im Frauenteich mit folgenden Maßgaben:
+für die dem Schutzzweck entsprechende umweltgerechte Waldbewirtschaftung in der bisherigen Art und im bisherigen Umfang mit den Maßgaben, dass
 
 a)
 
-Die Entkrautung, die Düngung oder der Einsatz von Bioziden oder sonstigen Chemikalien sind verboten; ausgenommen sind die zur Fischkrankheitsbekämpfung notwendigen Maßnahmen;
+Forstarbeiten im Zeitraum zwischen 1. September und dem 1. März eines jeden Jahres durchzuführen sind; notwendige Forstarbeiten außerhalb dieses Zeitraumes bedürfen der Genehmigung der Naturschutzbehörde; Maßnahmen des Forstschutzes bleiben hiervon unberührt;
 
 b)
 
-der Schilfschnitt ist im Zeitraum vom 1. Februar bis zum 31. Juli eines jeden Jahres verboten; außerhalb dieses Zeitraumes bedarf er der Genehmigung der Naturschutzbehörde;
+nur standortheimische Gehölze gepflanzt werden dürfen;
 
 c)
 
-Getreide wird nur zur Erreichung der von der Naturschutzbehörde jeweils festgelegten Zielerträge zugefüttert; die Zufütterung erfolgt nur an gekennzeichneten Futterstellen im Ostteil des Teiches;
+Kahlhiebe im Sinne des § 19 Waldgesetz für den Freistaat Sachsen (SächsWaldG) vom 10. April 1992 (SächsGVBl. S. 137) in der jeweils geltenden Fassung, verboten sind;
 
 d)
 
-eine Kalkung zur Verbesserung des Puffervermögens erfolgt nur als Wasserkalkung mit Kalkmergel; die Durchführung sonstiger Kalkungen bedarf der Genehmigung der Naturschutzbehörde;
+Düngung, Kalkung, die Lagerung oder der Einsatz von Bioziden, Auftaumitteln oder anderen Chemikalien verboten sind;
 
-e)
-
-Fanggeräte sind nach Art oder Standort so einzusetzen und zu betreiben, dass wild lebende Tiere nicht gefährdet oder nachhaltig gestört werden;
+§ 4 Abs. 2 Nr. 2, 6 und 10 bleibt unberührt; auf § 30 Abs. 2
+SächsWaldG wird verwiesen;
 
 3.
 
-für die dem Schutzzweck entsprechende umweltgerechte landwirtschaftliche Nutzung und Waldbewirtschaftung in der bisherigen Art und im bisherigen Umfang mit folgenden Maßgaben:
-
-a)
-
-Die Forstarbeiten sind jeweils auf den Zeitraum vom 1. September bis zum 1. März eines jeden Jahres zu beschränken; notwendige Forstarbeiten außerhalb dieses Zeitraumes bedürfen der Genehmigung der Naturschutzbehörde; Maßnahmen des Forstschutzes bleiben hiervon unberührt;
-
-b)
-
-Kahlhiebe im Sinne des § 19 Waldgesetz für den Freistaat Sachsen (SächsWaldG) vom 10. April 1992 (SächsGVBl. S. 137) sind verboten;
-
-c)
-
-es ist verboten, Grünland in Acker umzuwandeln oder aufzuforsten oder Ufer in die Beweidung einzubeziehen;
-
-d)
-
-es ist verboten, Gülle einzubringen oder Grünlandbiotope im Sinne des § 26
-SächsNatSchG zu düngen;
-
-e)
-
-es ist verboten, Biozide, Auftaumittel oder andere Chemikalien zu lagern oder anzuwenden;
-
-§ 4 Abs. 2 Nr. 2 bleibt unberührt; auf § 30 Abs. 2
-SächsWaldG wird verwiesen;
+für die sonstige bisher rechtmäßig ausgeübte Nutzung der Grundstücke, Gewässer, Straßen und Wege sowie der rechtmäßig bestehenden Einrichtungen in der bisherigen Art und im bisherigen Umfang sowie deren Unterhaltung und Erhaltung;
 
 4.
 
-für die sonstige bisher rechtmäßig ausgeübte Nutzung der Grundstücke, Gewässer, Straßen und Wege sowie der rechtmäßig bestehenden Einrichtungen in der bisherigen Art und im bisherigen Umfang sowie deren Unterhaltung und Erhaltung;
+für Pflege- und Entwicklungsmaßnahmen, die von der Naturschutzbehörde veranlasst werden;
 
 5.
 
-für Pflege- und Entwicklungsmaßnahmen, die von der Naturschutzbehörde veranlasst werden;
+für behördlich angeordnete oder zugelassene Beschilderungen;
 
 6.
 
-für behördlich angeordnete oder zugelassene Beschilderungen;
+für die von der Naturschutzbehörde angeordneten oder genehmigten Wegemarkierungen;
 
 7.
 
-für die von der Naturschutzbehörde angeordneten oder genehmigten Wegemarkierungen;
-
-8.
-
-für Tätigkeiten im Rahmen von Forschungsarbeiten einschließlich Dokumentationen und Sicherungsarbeiten, die von der Naturschutzbehörde veranlasst oder genehmigt sind.
+für die Tätigkeiten im Rahmen von Forschungsarbeiten einschließlich Dokumentationen und Sicherungsarbeiten, die von der Naturschutzbehörde veranlasst oder genehmigt werden.
+1
 
 § 6
 
 Pflege- und Entwicklungsgrundsätze
 
-(1) Grundsätze der Pflege und Entwicklung des Naturschutzgebietes sind
+(1) Grundsätze der Pflege und Entwicklung des Naturschutzgebietes sind,
 
 1.
 
-die Entwicklung des Frauen- und des Schösserteiches zu einem artenreichen Gewässer durch Reduzierung des Nährstoffniveaus;
+den Torfbildungsprozess zu fördern, wobei Art und Umfang der Vernässung von waldbestockten Flächen im Einvernehmen mit der Forstbehörde erfolgt;
 
 2.
 
-die Durchführung von Pflegeeingriffen auf Teilflächen mit fortgeschrittener Sukzession;
+die nach § 26
+SächsNatSchG geschützten oder aus Artenschutzgründen bedeutsamen Offenlandflächen regelmäßig von Verbuschung freizuhalten und die ehemalige Nasswiese ihrem Charakter entsprechend einschürig zu mähen und auszuhagern oder extensiv zu beweiden;
 
 3.
 
-die Umwandlung der Forste in naturnahe, standortheimische Waldgesellschaften mit großem Totholz- und Höhlendargebot;
+naturnahe Moorwälder auf nässebestimmten Standorten mit einem hohen Anteil höhlenreicher Altbäume und Totholzstämme als Vermehrungs- und Wohnstätten geschützter Arten weiter auszuprägen;
 
 4.
 
-die Extensivierung der wirtschaftlichen Nutzung des Feuchtgrünlandes;
+bodenständige Baumarten, insbesondere die Stieleiche und die Tieflandsfichte, durch weitere Naturwaldentwicklung auf festzulegenden Teilflächen und geeignete forstliche Maßnahmen, einschließlich Naturverjüngung, zu fördern;
 
 5.
 
-die Förderung von Ackerwildkräutern durch geeignete Maßnahmen sowie
+auf eine Ausgewogenheit schattiger und durchsonnter Moorwaldbereiche zu achten und
 
 6.
 
-die Lenkung der Besucher.
+das forstgeschichtlich bedeutsame Wege- und Schneisensystem ohne weiteren technischen Ausbau zu unterhalten.
 
 (2) Die erforderlichen Pflege- und Entwicklungsmaßnahmen können in einem Pflege- und Entwicklungsplan festgelegt werden. Auf die §§ 15 Abs. 5, 38 und 39
 SächsNatSchG wird verwiesen.
@@ -313,7 +264,7 @@ Befreiungen und Genehmigungen
 (1) Von den Ge- und Verboten dieser Verordnung kann die Naturschutzbehörde im Einzelfall nach § 53
 SächsNatSchG Befreiung erteilen.
 
-(2) Ist eine Handlung gemäß § 5 nur mit Genehmigung der Naturschutzbehörde zulässig, so ist sie zu erteilen, wenn die Handlung dem Schutzzweck nicht zuwiderläuft. Die Genehmigung kann mit Nebenbestimmungen versehen werden, wenn dadurch die Vereinbarkeit mit dem Schutzzweck erreicht wird. Die Genehmigung wird durch eine nach anderen Vorschriften gleichzeitig erforderliche Gestattung ersetzt. Die Gestattung darf nur erteilt werden, wenn die Naturschutzbehörde ihr Einvernehmen erklärt hat.
+(2) Ist eine Handlung gemäß § 5 nur mit Genehmigung der Naturschutzbehörde zulässig, so ist diese zu erteilen, wenn die Handlung dem Schutzzweck nicht zuwiderläuft. Die Genehmigung kann mit Nebenbestimmungen versehen werden, wenn dadurch die Vereinbarkeit mit dem Schutzzweck erreicht wird. Die Genehmigung wird durch eine nach anderen Vorschriften gleichzeitig erforderliche Gestattung ersetzt. Die Gestattung darf nur erteilt werden, wenn die Naturschutzbehörde ihr Einvernehmen erklärt hat.
 
 § 8
 
@@ -323,11 +274,11 @@ Ordnungswidrigkeiten
 SächsNatSchG handelt, wer in dem Naturschutzgebiet vorsätzlich oder fahrlässig Handlungen vornimmt, die geeignet sind, entgegen § 4 Abs. 1 zu einer Zerstörung, Beschädigung oder Veränderung des Schutzgebietes oder seiner Bestandteile oder zu einer nachhaltigen Störung zu führen.
 
 (2) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 1
-SächsNatSchG handelt insbesondere, wer vorsätzlich oder fahrlässig
+SächsNatSchG handelt, wer vorsätzlich oder fahrlässig
 
 1.
 
-entgegen § 4 Abs. 2 Nr. 1 bauliche Anlagen in Sinne der
+entgegen § 4 Abs. 2 Nr. 1 bauliche Anlagen im Sinne der
 SächsBO errichtet, ändert, abbricht oder der Errichtung gleichgestellte Maßnahmen durchführt;
 
 2.
@@ -340,7 +291,7 @@ entgegen § 4 Abs. 2 Nr. 3 Handlungen vornimmt, die den Boden in seiner Gestalt,
 
 4.
 
-entgegen § 4 Abs. 2 Nr. 4 Auffüllungen vornimmt oder Ablagerungen einbringt;
+entgegen § 4 Abs. 2 Nr. 4 Auffüllungen oder Ablagerungen einbringt;
 
 5.
 
@@ -348,7 +299,7 @@ entgegen § 4 Abs. 2 Nr. 5 Abfälle oder sonstige Materialien oder Stoffe einbri
 
 6.
 
-entgegen § 4 Abs. 2 Nr. 6 Entwässerungs- oder andere Maßnahmen vornimmt, die den Wasserhaushalt des Gebietes verändern können;
+entgegen § 4 Abs. 2 Nr. 6 Entwässerungs- oder andere Maßnahmen vornimmt, die den Wasserhaushalt des Gebietes verändern können, oder Gewässer verunreinigt;
 
 7.
 
@@ -356,11 +307,11 @@ entgegen § 4 Abs. 2 Nr. 7 Plakate, Markierungszeichen, Bild- oder Schrifttafeln
 
 8.
 
-entgegen § 4 Abs. 2 Nr. 8 Pflanzen oder Pflanzenteile einbringt, entnimmt, beschädigt oder zerstört;
+entgegen § 4 Abs. 2 Nr. 8 Pflanzen oder Pflanzenteile einbringt, entnimmt, beschädigt oder zerstört:
 
 9.
 
-entgegen § 4 Abs. 2 Nr. 9 Tiere einbringt, wild lebenden Tieren nachstellt, sie beunruhigt, sie fängt, verletzt oder tötet oder Puppen, Larven, Eier oder Nester oder Brut-, Wohn- oder Zufluchtsstätten dieser Tiere entfernt, beschädigt oder zerstört;
+entgegen § 4 Abs. 2 Nr. 9 Tiere einbringt, wild lebenden Tieren nachstellt, sie beunruhigt, sie fängt, verletzt oder tötet oder Puppen, Larven, Eier oder Nester oder sonstige Brut-, Wohn- oder Zufluchtstätten dieser Tiere entfernt, beschädigt oder zerstört;
 
 10.
 
@@ -368,15 +319,15 @@ entgegen § 4 Abs. 2 Nr. 10 die bisherige Grundstücksnutzung in einer Art ände
 
 11.
 
-entgegen § 4 Abs. 2 Nr. 11 zeltet, lagert, Wohnwagen, sonstige Fahrzeuge oder Verkaufsstände aufstellt oder motorgetriebene Schlitten benutzt;
+entgegen § 4 Abs. 2 Nr. 11 badet oder Eis- oder Wassersport betreibt oder Sportveranstaltungen durchführt;
 
 12.
 
-entgegen § 4 Abs. 2 Nr. 12 badet, Eis- oder Wassersportarten betreibt oder Gewässer mit Booten oder anderen Fahrzeugen befährt;
+entgegen § 4 Abs. 2 Nr. 12 zeltet, lagert, Wohnwagen, sonstige Fahrzeuge oder Verkaufsstände aufstellt oder motorgetriebene Schlitten benutzt;
 
 13.
 
-entgegen § 4 Abs. 2 Nr. 13 Flächen außerhalb der öffentlichen Straßen und markierten Wege betritt, auf diesen reitet oder mit motorgetriebenen oder bespannten Fahrzeugen befährt;
+entgegen § 4 Abs. 2 Nr. 13 Flächen außerhalb von Wegen betritt, auf diesen reitet oder mit motorgetriebenen oder bespannten Fahrzeugen befährt;
 
 14.
 
@@ -388,93 +339,74 @@ entgegen § 4 Abs. 2 Nr. 15 Lärm verursacht, der geeignet ist, Tiere zu beunruh
 
 16.
 
-entgegen § 4 Abs. 2 Nr. 16 Hunde unangeleint laufen lässt;
+entgegen § 4 Abs. 2 Nr. 16 Hunde unangeleint laufen lässt oder
 
 17.
 
-entgegen § 4 Abs. 2 Nr. 17 mit Luftfahrzeugen startet oder landet oder
+entgegen § 4 Abs. 2 Nr. 17 mit Luftfahrzeugen startet oder landet,
 
-18.
+sofern diese Handlungen nicht nach § 5 zulässig sind.
 
-entgegen § 4 Abs. 2 Nr. 18 Sportveranstaltungen durchführt,
-
-sofern diese Handlungen nicht gemäß § 5 zulässig sind.
-
-(3) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 1
+(3) Ordnungswidrig im Sinne § 61 Abs. 1 Nr. 1
 SächsNatSchG handelt des Weiteren, wer vorsätzlich oder fahrlässig
 
 1.
 
-entgegen § 5 Nr. 2 Buchst. a im Frauenteich entkrautet, düngt oder Biozide oder sonstige Chemikalien einsetzt, soweit es sich nicht um notwendige Maßnahmen zur Fischkrankheitsbekämpfung handelt;
+entgegen § 8 Nr. 1 Buchst. d als Jagdausübungsberechtigter die gemäß § 26
+SächsNatSchG geschützten moor- und nässebestimmten Biotope außerhalb der Wege betritt, soweit dies nicht zur Nachsuche und Aufnahme des erlegten Wildes erfolgt;
 
 2.
 
-entgegen § 5 Nr. 2 Buchst. b im Frauenteich Schilf im Zeitraum vom 1. Februar bis zum 31. Juli eines jeden Jahres schneidet oder dies außerhalb dieses Zeitraumes ohne Genehmigung der Naturschutzbehörde vornimmt;
+entgegen § 5 Nr. 1 Buchst. e in den gemäß § 26
+SächsNatSchG geschützten moor- und nässebestimmten Biotopen Kirrungen, Wildfütterungen oder Salzleckstellen anlegt;
 
 3.
 
-entgegen § 5 Nr. 2 Buchst. c Getreide außerhalb der gekennzeichneten Futterstellen im Ostteil des Frauenteiches zufüttert;
+entgegen § 5 Nr. 2 Buchst. a ohne Genehmigung der Naturschutzbehörde Forstarbeiten außerhalb des Zeitraumes zwischen 1. September und 1. März eines jeden Jahres durchführt, soweit sie nicht dem Forstschutz dienen;
 
 4.
 
-entgegen § 5 Nr. 2 Buchst. d im Frauenteich ohne Genehmigung der Naturschutzbehörde andere Kalkungen als Wasserkalkung mit Kalkmergel vornimmt;
+entgegen § 5 Nr. 2 Buchst. b nicht standortheimische Gehölze pflanzt;
 
 5.
 
-entgegen § 5 Nr. 2 Buchst. e Fanggeräte im Frauenteich nach Art oder Standort so einsetzt, dass wild lebende Tiere gefährdet oder nachhaltig gestört werden;
+entgegen § 5 Nr. 2 Buchst. c Kahlhiebe im Sinne des § 19
+SächsWaldG vornimmt;
 
 6.
 
-entgegen § 5 Nr. 3 Buchst. a ohne Genehmigung der Naturschutzbehörde Forstarbeiten außerhalb des Zeitraumes vom 1. September bis zum 1. März eines jeden Jahres durchführt, soweit sie nicht dem Forstschutz dienen;
+entgegen § 5 Nr. 2 Buchst. d düngt, kalkt, Biozide, Auftaumittel oder andere Chemikalien lagert oder einsetzt oder
 
 7.
 
-entgegen § 5 Nr. 3 Buchst. b Kahlhiebe im Sinne des § 19
-SächsWaldG vornimmt;
+entgegen § 5 Nr. 7 ohne Veranlassung oder Genehmigung durch die Naturschutzbehörde Tätigkeiten im Rahmen von Forschungsarbeiten einschließlich Dokumentationen und Sicherungsarbeiten durchführt.
 
-8.
-
-entgegen § 5 Nr. 3 Buchst. c Grünland in Acker umwandelt oder aufforstet oder Ufer in die Beweidung einbezieht;
-
-9.
-
-entgegen § 5 Nr. 3 Buchst. d Gülle einbringt oder Grünlandbiotope im Sinne des § 26
-SächsNatSchG düngt;
-
-10.
-
-entgegen § 5 Nr. 3 Buchst. e Biozide, Auftaumittel oder andere Chemikalien lagert oder anwendet;
-
-11.
-
-entgegen § 5 Nr. 8 ohne Genehmigung der Naturschutzbehörde Tätigkeiten im Rahmen von Forschungsarbeiten einschließlich Dokumentationen und Sicherungsarbeiten vornimmt
-
-(4) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 1
-SächsNatSchG handelt auch, wer vorsätzlich oder fahrlässig einer vollziehbaren Auflage zuwiderhandelt, mit der eine nach § 53
+(4) Ordnungswidrig im Sinne von § 61 Abs. 1 Nr. 1
+SächsNatSchG handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Auflage zuwiderhandelt, mit der eine nach § 53
 SächsNatSchG erteilte Befreiung oder eine nach § 7 Abs. 2 dieser Verordnung erteilte Genehmigung versehen worden ist.
 
-(5) Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 5 Buchst. a
-SächsLJagdG handelt, wer vorsätzlich
+(5) Ordnungswidrig im Sinne von § 58 Abs. 1 Nr. 5 Buchst. a
+SächsLJagdG handelt auch, wer vorsätzlich
 
 1.
 
-entgegen § 5 Nr. 1 Buchst. a die Jagd auf Schalen- und Raubwild anders als durch Ansitzjagd ausübt;
+entgegen § 5 Nr. 1 Buchst. a und Buchst. b die Jagd anders als durch Ansitz- oder Pirschjagd ausübt oder ohne Genehmigung der Naturschutzbehörde die Drückjagd auf Schalen- oder Raubwild außerhalb des Zeitraumes vom 1. Oktober bis zum 31. Dezember eines jeden Jahres durchführt oder
 
 2.
 
-entgegen § 5 Nr. 1 Buchst. b ohne Genehmigung der Naturschutzbehörde die Drückjagd auf Schalen- und Raubwild außerhalb des Zeitraumes vom 1. Oktober bis zum 31. Dezember eines jeden Jahres durchführt oder
-
-3.
-
-entgegen § 5 Nr. 1 Buchst. c Federwild jagt.
+entgegen § 5 Nr. 1 Buchst. c in den gemäß § 26
+SächsNatSchG geschützten moor- und nässebestimmten Biotopen Federwild jagt.
+2
 
 § 9
 
 In-Kraft-Treten und Außer-Kraft-Treten
 
-Diese Verordnung tritt am Tage nach Ablauf der Auslegungsfrist gemäß § 2 Abs. 3 Satz 5 in Kraft. Gleichzeitig treten die Nummer 3.3 des Beschlusses des Bezirkstages Dresden Nummer 30-4/77 vom 23. Juni 1977 (Mitteilungen für die Staatsorgane im Bezirk Dresden Nummer 7/77 S. 18), soweit sie das Naturschutzgebiet  „Frauenteich“ betrifft, sowie die Nummer 3.5 des Beschlusses des Bezirkstages Dresden Nummer 69-11/83 vom 23. Juni 1983 (Mitteilungen für die Staatsorgane im Bezirk Dresden Nummer 3/83 S. 22) außer Kraft.
+Diese Verordnung tritt am Tage nach Ablauf der Auslegungsfrist gemäß § 2 Abs. 3 Satz 6 in Kraft.
 
-Dresden, den 15. Dezember 1999
+Gleichzeitig tritt die Verordnung des Regierungspräsidiums Dresden zur einstweiligen Sicherstellung des Naturschutzgebietes „Moorwald am Pechfluß bei Medingen“ vom 14. November 1995 (SächsABl. S. 38) und die Verordnung des Regierungspräsidiums Dresden zur Verlängerung der Geltungsdauer der einstweiligen Sicherstellung vom 23. Dezember 1998 (SächsGVBl. 1999 S. 11) außer Kraft.
+
+Dresden, den 15. Juli 1999
 
 Regierungspräsidium Dresden
 
