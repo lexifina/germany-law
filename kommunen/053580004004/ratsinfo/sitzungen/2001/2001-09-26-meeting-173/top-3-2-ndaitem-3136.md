@@ -1,4 +1,4 @@
-# TOP 3.2.: Schulangelegenheiten
+# TOP 3.2.: Schulraumsituation Grundschulen in Aldenhoven
 
 - Sitzung: Schul- und Sozialausschuss (2001-09-26)
 - Körperschaft: Gemeinde Aldenhoven
