@@ -1,0 +1,7 @@
+# TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung
+
+- Sitzung: 19. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (2003-09-18)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=8749
+- Ergebnis: (offen)
