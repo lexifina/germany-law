@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 2004-07-14T17:00:00+02:00
+- Ende: 2004-07-14T21:15:00+02:00
+- Ort: Rathaus, Lange Str. 60, 32602 Vlotho, Sitzungssaal
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZes31WcJtyl8sdIvPlRRJBk
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1158
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb9zUmu-MgKQ4qvr8GsuqaUP7tCOBQMXnZsyxU1rFgTW/Oeffentliche_Niederschrift_Rat_14.07.2004.pdf
+
+## Tagesordnung
+
+- TOP I.: A. Öffentliche Sitzung
+- TOP 1.: Niederschrift über die 34 . Sitzung vom 12.05.2004 - öffentlicher Teil -
+- TOP 2.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 3.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 4.: Bestellung des Leiters und des Stellvertreters der Freiwilligen Feuerwehr - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 6.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 6.1.: Neuansiedlung und Erweiterung vorhandener Gewerbebetriebe in Exter - Zur Kenntnis genommen
+- TOP 6.2.: Windkraftanlage auf dem Grundstück Henrichsmeier, Schmeltenweg 4 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.3.: Antrag auf Aufstellung eines Verkehrszeichens an der Solterbergstraße - Einstimmig, 0 Enthaltung(en)
+- TOP 6.4.: Änderung des Flächennutzungsplanes bzw. Aufstellung eines Bebauungsplanes für den Bereich Harksiek/ Buhnstraße - Einstimmig, 0 Enthaltung(en)
+- TOP 6.5.: Verabschiedung eines Kinder- und Jugendfördergesetzes in Nordrhein-Westfalen - Einstimmig, 0 Enthaltung(en)
+- TOP 6.6.: Öffnung der Adlerstraße für den motorisierten Verkehr - Einstimmig, 1 Enthaltung(en)
+- TOP 7.: Jahresabschluss 2003 der Stadtwerke Vlotho - Stellt fest
+- TOP 8.: Entwicklungskonzept Hans-Schwarze-Grundschule - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Einführung einer sozialen Staffelung durch freiwillige Übernahme von Schülerfahrkosten - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Bildung der Einigungsstelle für die Zeit 01.07.2004 - 30.06.2007 (Dauer der Wahlperiode des Personalrates) gem. § 67 Landespersonalvertretungsgesetz (LPVG NW) - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Zuleitung der Jahresrechnung für das Haushaltsjahr 2003 gem. § 93 Abs. 2 GO NRW - Zur Kenntnis genommen
+- TOP 12.: VMR-Verlustübernahme 2002 - 2003 - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Genehmigung zur Leistung einer überplanmäßigen Haushaltsausgabe - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Einbau teerhaltigen Materials hier: a) Leistung einer außerplanmäßigen Haushaltsausgabe mit Benennung der Straßenbaumaßnahme b) Auftragsvergabe - Einstimmig, 0 Enthaltung(en)
+- TOP 15.1.: Überplanmäßige Ausgabe bei dem Produkt 230.042.002.002; SK 86 55 036 Umbau Zufahrt Kindergarten Exter - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Ausbau des Sole-Radweges zwischen Hollenhagen und Querungshilfe Detmolder Straße hier: Erweiterung der Baustraße - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: Planungsrechtliche Steuerung der Vorrangflächen für Windenergieanlagen
+- TOP 18.: Fraktionsanträge gem. § 3 der Geschäftsordnung
+- TOP 18.1.: Ausweisung von Wohnbauflächen im Stadtgebiet/ Umsetzung des Ortsentwicklungsplanes Uffeln - Einstimmig, 1 Enthaltung(en)
+- TOP 18.2.: Aufstellung des Bebauungsplanes U6 Friedhof Uffeln, hier: Satzungsbeschluß - Einstimmig, 0 Enthaltung(en)
+- TOP 18.3.: Prioritätenliste für die Unterhaltung der Straßen im Gebiet der Stadt Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 18.4.: Schüler-Tickets zur Busbeförderung - 30 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 18.5.: "Unterer" Lärmschutzwall an der L 778/ Bereich Bachstraße - Einstimmig, 0 Enthaltung(en)
+- TOP 18.6.: Vorstellung von Planungen für die Anbindung des Oelmühlenparkplatzes an die L 778 und den Bau eines Kreisels an der L 778 Burgstraße/ Winterbergstraße - Ohne Abstimmung
+- TOP 18.7.: Schaffung zusätzlicher Ausbildungsplätze - Einstimmig, 0 Enthaltung(en)
+- TOP 18.8.: Aufstellung von 5 Buswartehäuschen im Stadtgebiet Vlotho - 29 Ja-Stimme(n), 1 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 18.9.: Senkung der Betriebskosten durch Reduzierung des Energieverbrauchs im Rathaus der Stadt Vlotho mit dem Einbau eines Blockheizkraftwerkes (BHKW) - 27 Ja-Stimme(n), 2 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 19.: Anfragen nach § 18 der Geschäftsordnung und Mitteilungen
+- TOP 19.1.: Kanu-Tourismus - Zur Kenntnis genommen
+- TOP 19.2.: Sachstandsbericht zur Umsetzung des Maßnahmenkataloges, der im Zusammenhang mit dem Haushalt 2004 beschlossen wurde - Zur Kenntnis genommen
+- TOP 19.3.: Sachstandsbericht Bahnhofsareal
