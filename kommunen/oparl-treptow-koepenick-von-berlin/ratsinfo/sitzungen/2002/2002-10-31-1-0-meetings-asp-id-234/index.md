@@ -1,0 +1,70 @@
+# 11. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2002-10-31T16:00:00+01:00
+- Ende: 2002-10-31T16:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=234
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=234
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - schriftlich beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_09 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Wahl des Schriftführers - vertagt
+- TOP 8: (vertraulich)
+- TOP 9: Vorzeitige Beendigung des Amtes von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Wahl einer Bürgerdeputierten - gewählt
+- TOP 11: Beabsichtigte Schulschließung Ernst-Friedrich-Gymnasium - schriftlich beantwortet
+- TOP 12: Solar-aktiv - vertagt
+- TOP 13: Späth'sche Baumschule - beantwortet
+- TOP 14: Genehmigung der im Haushaltsjahr 2001 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 15: Bezirkshaushaltsrechnung für das Haushaltsjahr 2001 - überwiesen
+- TOP 16: - Entwurf des Bebauungsplanes XV-10a nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-10a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - überwiesen
+- TOP 17: Sondermittel für Artistenschule contraire (SM 241)
+- TOP 18: Sondermittel für Bürgerverein Friedrichshagen e.V. (SM 235) - ohne Änderungen in der BVV beschlossen
+- TOP 19: Sondermittel für ev. Kirchengemeinde Baumschulenweg (SM 248) - ohne Änderungen in der BVV beschlossen
+- TOP 20: Sondermittel für I.Q. 1185 e.V. (SM 250) - ohne Änderungen in der BVV beschlossen
+- TOP 21: Sondermittel für Förderverein Lokale Agenda 21 Treptow-Köpenick e.V. (SM 251) - ohne Änderungen in der BVV beschlossen
+- TOP 22: Sitzungsterminplan 2003 der BVV Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 23: Aufhebung des Beschlusses Nr. 062/06/02 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 24: Ergänzungsplan Treptow-Köpenick für das Haushaltsjahr 2003
+- TOP 25: Bebauungsplanentwurf XV-18; Inhaltliche Planänderungen
+- TOP 26: Infotafeln zu Spielplatzbegehungen
+- TOP 27: Lokale Agenda 21 - Treptow-Köpenick
+- TOP 28: Einkaufsstraßenmarketing
+- TOP 29: Einstellung des Planaufstellungsverfahrens zum Bebauungsplan XVI-19 nebst Begründung - überwiesen
+- TOP 30: Einleitung des Planaufstellungsverfahrens zum Bebauungsplan 9-11 nebst Begründung - überwiesen
+- TOP 31: Übernahme von Beamtenanwärtern - ohne Änderungen in der BVV beschlossen
+- TOP 32: Bolzplatz an der 15. Grundschule in Bohnsdorf - überwiesen
+- TOP 33: Größere Fahrzeuge auf der Nachtbuslinie N69 - überwiesen
+- TOP 34: Einsparungen im Bereich der kommunalen Senioreneinrichtungen - in der BVV zurückgezogen
+- TOP 35: Qualifizierung des Schulentwicklungsplans - ohne Änderungen in der BVV beschlossen
+- TOP 36: Altglienicker Brücke - überwiesen
+- TOP 37: Müggelheim - Erhaltungssatzung - überwiesen
+- TOP 38: Nachnutzung von Schulgebäuden - vertagt
+- TOP 39: Würdigung Städtepartnerschaft Albinea - überwiesen
+- TOP 40: Schuldiskussionen mit den Bezirksverordneten - zurückgezogen
+- TOP 41: 1. OG (Treptow) Ernst-Friedrich-Gymnasium - ohne Änderungen in der BVV beschlossen
+- TOP 42: Europaschule - vertagt
+- TOP 43: Seniorenfreizeitstätte Britzer Straße, Niederschöneweide - überwiesen
+- TOP 44: Integration der Vietnamesen - ohne Änderungen in der BVV beschlossen
+- TOP 45: Konzeption zur Integration von Migranten - ohne Änderungen in der BVV beschlossen
+- TOP 46: Gastronomie im Touristischen Leitsystem berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 47: "Gestiegene Sozialausgaben - Schlusslicht Treptow-Köpenick" - vertagt
+- TOP 48: Grundschule am Berg - vertagt
+- TOP 49: Zentrale Revision zur Korruptionsbekämpfung - vertagt
+- TOP 50: Einnahmen in den Seniorenfreizeiteinrichtungen - vertagt
+- TOP 51: Personal für Sicherheit auf Kinderspielplätzen - vertagt
+- TOP 52: Abfallvermeidung bei Großveranstaltungen - vertagt
+- TOP 53: Konkretisierung und Fortschreibung der Sanierungsziele für die Umgestaltung des Luisenhains im Block 15 im Sanierungsgebiet Köpenick Altstadt / Kietz Vorstadt; Angestrebte Nutzung im Luisenhain - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 54: Geänderte Grundlagen der flughafenbezogenen Planung für Schönefeld
+- TOP 55: Einleitung des Planaufstellungsverfahrens zum Bebauungsplan 9-4 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick
+- TOP 56: Bebauungsplan XV-19 im Bezirk Treptow-Köpenick, Ortsteil Altglienicke - Beschlussfassung über den Entwurf des Bebauungsplans XV-19 nebst Begründung - Beschlussfassung über den Entwurf der Rechtsverordnung zum Bebauungsplan XV-19
