@@ -1,0 +1,101 @@
+---
+ecli: "ECLI:DE:BVerfG:1998:rk19980614.2bvr025297"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 252/97"
+decided: "1998-06-14"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss des Zweiten Senats vom 14. Juni 1998\n- 2 BvR 252/97 -, Rn. 1-7,\n                    https://www.bverfg.de/e/rk19980614_2bvr025297"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1998/06/rk19980614_2bvr025297.html"
+corpus_doc_id: "BVerfG_1998-06-14_K_2_BvR_0252_97_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0006.md", "germany/bund/acts/bverfgg/0034.md", "germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/grundgesetz/artikel/001.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 252/97 vom 1998-06-14
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 2 BVR 252/97 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+des Herrn H...,
+
+- Bevollmächtigte: Rechtsanwälte T... und Kollegen,
+gegen a) den Beschluß des Oberlandesgerichts Oldenburg vom 20. Dezember
+         1996 - 1 Ws 269/96 -,
+
+       b) den Bescheid des Generalstaatsanwalts in Oldenburg vom 11. November 1996 - Zs 581/96 -2-
+
+hat die 3. Kammer des Zweiten Senats des Bundesverfassungsgerichts durch
+                                 die Richterin Präsidentin Limbach,
+                                 die Richterin Graßhof
+                                 und den Richter Kirchhof
+
+gemäß § 93b in Verbindung mit § 93a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 14. Juni 1998 einstimmig beschlossen:
+
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+Dem Beschwerdeführer wird eine Mißbrauchsgebühr in Höhe von 500,00 DM (i.W.:
+fünfhundert Deutsche Mark) auferlegt.
+
+                                     Gründe:
+
+                                         I.
+ Die Verfassungsbeschwerde richtet sich gegen einen Bescheid der Generalstaatsanwaltschaft Oldenburg und einen Beschluß des Oberlandesgerichts Oldenburg in
+einem Klageerzwingungsverfahren.
+
+ Der Beschwerdeführer sandte vier Einschreibebriefe an Angehörige der Universität      2
+Oldenburg. Die Sendungen wurden bei der zentralen Poststelle der Universität niedergelegt und dort von den Adressaten nicht abgeholt. Erst nach längerer Zeit (etwa
+einem halben Jahr) erhielt der Beschwerdeführer eine Anfrage der zentralen Poststelle, ob die Sendungen weiter aufbewahrt werden sollten. Er erstattete deshalb gegen die verantwortliche Dezernentin der Poststelle Strafanzeige mit der Begründung,
+die Angezeigte habe die Tatbestände der §§ 354 Abs. 3 Ziffer 1 StGB (Verletzung
+des Postgeheimnisses) und 274 StGB (Urkundenunterdrückung) verwirklicht. Die
+Staatsanwaltschaft stellte das Ermittlungsverfahren ein. Die dagegen eingelegte Beschwerde des Beschwerdeführers und sein Antrag auf gerichtliche Entscheidung
+
+
+                                         1/3
+
+blieben ohne Erfolg. Die Generalstaatsanwaltschaft und das Oberlandesgericht vertraten die Auffassung, die Ermittlungen seien zu Recht eingestellt worden, weil die
+Angezeigte nicht von der Post oder mit deren Ermächtigung mit postdienstlichen Verrichtungen betraut gewesen sei und weil in der zunächst unterlassenen Rücksendung der Briefe keine Urkundenunterdrückung gesehen werden könne.
+
+ Der Beschwerdeführer rügt mit der Verfassungsbeschwerde eine Verletzung der              3
+Art. 10 Abs. 1 und Art. 2 Abs. 1 in Verbindung mit Art. 1 GG. Er macht geltend, die Angezeigte habe die Post ordnungsgemäß weiterleiten oder ihn innerhalb der im Postgesetz vorgeschriebenen Wochenfrist unterrichten müssen. Die angegriffenen Entscheidungen seien auch grob unverhältnismäßig. Die eklatante Überschreitung der
+im Postgesetz vorgeschriebenen Wochenfrist dränge geradezu den Verdacht auf,
+daß der Vorsatz für eine Urkundenunterdrückung vorgelegen habe.
+
+                                          II.
+ 1. Die Kammer nimmt die Verfassungsbeschwerde nicht zur Entscheidung an, da              4
+sie offensichtlich unbegründet ist (§ 93a Abs. 2 Buchstabe b BVerfGG).
+
+ Die Generalstaatsanwaltschaft und das Oberlandesgericht haben bei der Auslegung der oben genannten Strafvorschriften den Gehalt der vom Beschwerdeführer
+aufgeführten Grundrechte nicht verkannt.
+
+  2. Die Verfassungsbeschwerde ist mißbräuchlich erhoben im Sinne von § 34 Abs. 2         6
+BVerfGG. Ihre Begründung ist ohne jede verfassungsrechtliche Substanz. Der Beschwerdeführer legt nicht einmal dar, daß die Angelegenheit für ihn von besonderer
+Relevanz war, so daß die Weiterverfolgung der Angelegenheit im Wege der Verfassungsbeschwerde zumindest als verständlich erscheinen könnte. Das Bundesverfassungsgericht muß es nicht hinnehmen, durch derart mißbräuchliche Eingaben von
+der Erfüllung seiner Aufgaben abgehalten zu werden (vgl. etwa BVerfG, NJW 1996,
+S. 2785; 1997, S. 1433 und 1433 f.). Die Aussichtslosigkeit seines Vorbringens mußte dem - anwaltlich beratenen - Beschwerdeführer von Anfang an klar sein. Eine Mißbrauchsgebühr von 500,00 DM erscheint daher angemessen.
+
+ Diese Entscheidung ist unanfechtbar.                                                     7
+
+               Limbach                 Graßhof                Kirchhof
+
+
+
+
+                                          2/3
+
+Bundesverfassungsgericht, Beschluss des Zweiten Senats vom 14. Juni 1998 -
+2 BvR 252/97
+
+Zitiervorschlag BVerfG, Beschluss des Zweiten Senats vom 14. Juni 1998 - 2 BvR 252/
+                97 - Rn. (1 - 7), http://www.bverfg.de/e/rk19980614_2bvr025297.html
+
+ECLI            ECLI:DE:BVerfG:1998:rk19980614.2bvr025297
+
+
+
+
+                                      3/3
