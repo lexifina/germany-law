@@ -1,0 +1,1 @@
+Auf Grund des Art. 15 Abs. 2 des Bayerischen Besoldungsgesetzes erläßt das Bayerische Staatsministerium für Unterricht und Kultus im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
