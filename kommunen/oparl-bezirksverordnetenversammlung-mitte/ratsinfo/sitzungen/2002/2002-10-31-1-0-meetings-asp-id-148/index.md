@@ -1,0 +1,143 @@
+# 10. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2002-10-31T17:30:00+01:00
+- Ende: 2002-10-31T23:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=148
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=148
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - erledigt
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - (offen)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Mysteriöse Computer-Genesung bei der AWO
+- TOP 3.2: Schäden am Großen Tiergarten am 03. Oktober 2002
+- TOP 3.3: Strukturreform
+- TOP 3.4: Aktion "Rettet die Kastanie"
+- TOP 3.5: Umgang des Bezirksamtes mit den Anliegen des Investors für das Grundstück Müllerstraße 48a, Flurstück 7/5/234
+- TOP 3.6: Informationsveranstaltung zum Thema Eigenbetrieb/ Eigenbetriebsgesetz
+- TOP 3.7: Leitsysteme für Sehbehinderte
+- TOP 3.8: Unterhaltspflicht für volljährige Kinder gegenüber ihren Eltern
+- TOP 3.9: Einrichtung von Zebrastreifen
+- TOP 3.10: Grundsicherung - die unendliche Geschichte
+- TOP 3.11: Kita-Privatisierung
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Kältehilfe im Bezirk Mitte
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Fifty-Fifty in Mitte - Stillstand oder Fortschriftt?
+- TOP 5.2: Kompetenzen der Bezirke
+- TOP 5.3: Realisierung der Investitionen 2002 (Stand: 25.03.2002)
+- TOP 5.4: Ausschreibung im Sozialbereich
+- TOP 5.5: Weddinger Seniorenheimbetrieb
+- TOP 5.6: Es werde Solarlicht: Getrübtes Erinnerungsvermögen eines Stadtrates
+- TOP 5.7: Stellenbesetzung Ausländerbeauftragter
+- TOP 5.8: Kinderspielplatz Monbijou-Park
+- TOP 5.9: Parochialstraße 1 - 3 als postsozialistische Wärmestube?
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Entwurf des Ergänzungsplans Mitte für das Haushaltsjahr 2003
+- TOP 8.2: Bebauungsplanentwurf I-41 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-41
+- TOP 8.3: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2001
+- TOP 8.4: Wahl von Mitgliedern im Ehrenamtlichen Dienst
+- TOP 8.5: Bebauungsplanentwurf III-242 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-242
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Parkraumbewirtschaftung Müllerstraße 0161/XVI
+- TOP 9.2: Verkehrsberuhigung Tucholskystraße 0039/I
+- TOP 9.3: Renovierungsmittel 0046/I
+- TOP 9.4: Energie- und Umweltbericht 0105/I
+- TOP 9.5: Konzept zur Entwicklung kommunaler Jugendfreizeiteinrichtungen 0190/I
+- TOP 9.6: Die Turmstraße muss gepflegter werden 0226/I
+- TOP 9.7: Kein Grillverbot im Großen Tiergarten 0287/I
+- TOP 9.8: Verlässliche Halbtagsschule ausbauen
+- TOP 9.9: Fahrradständer an U-Bahnhöfen 0310/I
+- TOP 9.10: Kurzparkzone im Teilbereich Spandauer Straße 0313/I
+- TOP 9.11: Weihnachtsmarkt in Berlins Mitte sichern 0383/I
+- TOP 9.12: Ausstellung gegen Extremismus 0388/I
+- TOP 9.13: Parken mit Parkscheibe in der Müllerstraße 0461/I
+- TOP 9.14: Richtlinien zur VErmietung von Dächern bezirkseigener Immobilien 0486/I
+- TOP 9.15: Zebrastreifen Lehrter Straße 0524/I
+- TOP 9.16: Verkehrstechnische Maßnahmen im Charles-Corcelle-Ring 0528/I
+- TOP 9.17: Nutzbarmachung des Abenteuerspielplatzes im Humboldthain 0532/I
+- TOP 9.18: Hansa-Theater - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.19: Verkehrsberuhigung Stephankiez - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.20: Gegen häusliche Gewalt gegen Frauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.21: Architrarinschrift am Schauspielhaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.22: Zusätzliche Haushaltsrisiken für 2002 und 2003 durch Einführung des digitalen terrestrischen Fernsehens - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.23: Verteilung zusätzlicher Asylbewerber - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.24: Tempolimit in der Paulstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.25: Maßnahmen zur Sicherung des Krematoriums Wedding
+- TOP 9.26: Erhalt Fußgängerzone Rathausstraße - Gegen Straßenneubau Rathausstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.27: Gegen den Durchgangsverkehr in der geplanten Erschließungsstraße zur Schwartzkopffstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.28: Podewil erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.29: Papageno-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.30: Gegen häusliche Gewalt gegen Frauen (IV)
+- TOP 9.31: Tempolimit Transvaalstraße
+- TOP 9.32: Haushaltsdurchführung "T-Teil"
+- TOP 9.33: Berlinische Galerie in's Postfuhramt Oranienburger Straße
+- TOP 9.34: Versäumnisse in den Kulturämtern Mitte Alt und Wedding, Finanzdefizit von mind. 35.000 Euro
+- TOP 9.35: Unentgeltliche Nutzung der Bäder durch anerkannte Sportvereine
+- TOP 9.36: Umsetzung des sogenannten Interessenausgleichs für die ehemaligen Beschäftigten der Krankenhaus Moabit gGmbH
+- TOP 9.37: Aufhebung der 2. Sonder- / Albert-Gutzmann-Schule für Gehörlose im Bezirk Mitte nach geplanter Umsetzung dieser Einrichtung in den Bezirk Friedrichshain-Kreuzberg als Bestandteil des Hörzentrum-Ost und weitere Nutzung des Schulstandortes an der Gartenstraße
+- TOP 9.38: Beschluss über die Einschränkung des Geltungsbereichs des B-Plans I-13 im Bezirk Mitte, OT Mitte, die Aufstellung des B-Plans 1-9 im Bezirk Mitte, OT Mitte und Gesundbrunnen und die Durchführung der frühzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 Baugesetzbuch
+- TOP 9.39: über Strategiekonzept, Programmmittel 2002-2006 und Vertragsverlängerung für das Jahr 2003 für das Quartiersmanagement Reinickendorfer-/Pankstraße
+- TOP 9.40: Praxis-Leitfaden des Frauenbeirates für Stadtplanung im Bezirk Mitte
+- TOP 9.41: Stellenmäßige Unterlegung der Einsparvorgabe 2003 für die Teilglobalsumme "Personal"
+- TOP 9.42: Beendigung der Mitgliedschaft des Bezirks im Europäischen Netzwerk der Städte und Regionen der Sozialen Ökonomie (REVES) mit Wirkung 1.1.2003
+- TOP 9.43: Gründung eines Frauenbeirates
+- TOP 9.44: Anpassung des Grundschulnetzes in den Ortsteilen Mitte und Moabit an die Schülerzahlen durch Aufhebung von drei Grundschulen, den Umzug einer Grundschule sowie durch die organisatorische und inhaltliche Zusammenführung von Einrichtungen
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Papierressourcen in der BVV-Arbeit sparen
+- TOP 10.2: Neubau Sporthalle Wiesenstraße
+- TOP 10.3: Galerie Mitte
+- TOP 10.4: Keine Entscheidung ohne Entscheidungsgrundlage - Aussetzung der Entscheidung zum Standort der 5.Grundschule/ Europa-Schule
+- TOP 10.5: Einrichtung eines Fußgängerüberweges (Zebrastreifen)
+- TOP 10.6: Teilsanierung des Freibades Seydlitzstraße
+- TOP 10.7: FE-Maßnahmen
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Bezirklicher Integrationsbericht - vertagt
+- TOP 11.2: Präventionspreis
+- TOP 11.3: Beteiligung der Krankenkasse an Impfstoffkosten
+- TOP 11.4: Instandsetzung des ehemaligen Seniorenheims Koppenplatz
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Förderung des Projektes "Migration und Quartiersentwicklung, Wir in Moabit: gemeinsam leben, gemeinsam gestalten" im Ortsteil Moabit
+- TOP 12.2: Max-Beckmann-Saal
+- TOP 12.3: Kapitel 4721, Titel 111 93 (Ausgleichs- und Ersatzmaßnahmen)
+- TOP 12.4: SeniorInnen + BVG
+- TOP 12.5: Schutz des Großen Tiergartens
+- TOP 12.6: Brandenburger Tor - Durchfahrt
+- TOP 12.7: Zukunfstfähige Personalpolitik / Übernahme von Azubis
+- TOP 12.8: Gesundheitsbeirat
+- TOP 12.9: Versprochen ist versprochen: Fifty-Fifty-Auszahlungen garantieren
+- TOP 12.10: Emmissionsarme Brennstoffe der Bezirksfahrzeugflotte
+- TOP 12.11: U- und S-Bahnhof Wedding - Übergang Müllerstraße
+- TOP 12.12: Bezirke bei der Entbürokratisierung beteiligen
+- TOP 12.13: Wohnhäuser in der Leipziger Straße 114 - 120 und Mauerstraße 65 - 68 erhalten
+- TOP 12.14: Privates Geld für öffentliche Gebäude - Energiesparcontracting für Mittes Liegenschaften vorbereiten
+- TOP 12.15: Kostenersparnis durch Outsourcing der Grünflächenpflege
+- TOP 12.16: Einrichten einer Kurzparkzone
+- TOP 12.17: Sicherheitsempfinden am Bahnhof Friedrichstraße verbessern
+- TOP 12.18: Sommerbad Seydlitzstraße - Verkauf abwenden - Fördermöglichkeiten ausschöpfen
+- TOP 12.19: Auch in der Verwaltung sparen: Wohnungsamt auflösen
+- TOP 12.20: Gestaltung von Einfahrten zu Parkhäusern
+- TOP 12.21: Parkplatzkonzept für Reisebusse entwickeln
+- TOP 12.22: Was lange währt, wird nix: Beschwerdestelle einrichten - Ombudsmann/-frau berufen
+- TOP 12.23: Kompetenzen der Bezirke
+- TOP 12.24: Erstattung von Impfkosten
+- TOP 12.25: Einsparungen bei Heiz- und Betriebskosten bei SozialhilfeempfängerInnen
+- TOP 12.26: Werbeschilder für Gewerbetreibende an den Ausgängen des U- und S-Bahnhofes Wedding
+- TOP 12.27: Sicherung von Wohnnutzungen im Bezirk Mitte
+- TOP 12.28: Aktion "FIT KID - Die Gesund-Essen-Aktion für Kitas"
+- TOP 12.29: Sicherung der Wohngebäude Leipziger Straße 114-200 / Mauerstraße 65-68
+- TOP 12.30: Koordinierung des Angebots des Nachtcafés
+- TOP 12.31: Dezentrales Konzept zur Betreuung Wohnungsloser
+- TOP 12.32: Kältehilfe
