@@ -49,6 +49,7 @@ Erster Teil Allgemeine Bestimmungen
 § 40 Veränderungssperre
 § 41 Einstellung des Planfeststellungsverfahrens
 § 42 Vorzeitige Besitzeinweisung
+§ 42a Vertreter des Eigentümers
 § 43 Enteignung
 Zweiter Teil Straßenbaulastträger, Aufsicht und Zuständigkeit
 § 44 Träger der Straßenbaulast
