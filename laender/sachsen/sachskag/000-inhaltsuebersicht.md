@@ -1,15 +1,15 @@
 # Inhaltsübersicht
-Erster Abschnitt Allgemeine Vorschriften
+Abschnitt 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
 § 2 Rechtsgrundlage für Kommunalabgaben
 § 3 Verwaltungsverfahren
-§ 4 Kleinbeträge, Abrundung
+§ 4 (aufgehoben)
 § 5 Abgabenhinterziehung
 § 6 Leichtfertige Abgabenverkürzung und Abgabengefährdung
-Zweiter Abschnitt Steuern
+Abschnitt 2 Steuern
 § 7 Gemeindesteuern
 § 8 Kreissteuern
-Dritter Abschnitt Benutzungsgebühren
+Abschnitt 3 Benutzungsgebühren
 § 9 Erhebungsermächtigung, Einrichtungsbegriff
 § 10 Kostendeckungsgrundsatz, Kalkulationszeitraum
 § 11 Kosten
@@ -18,7 +18,7 @@ Dritter Abschnitt Benutzungsgebühren
 § 14 Gebührenbemessung
 § 15 Vorauszahlungen
 § 16 Eigenverbrauch
-Vierter Abschnitt Beiträge für öffentliche Einrichtungen
+Abschnitt 4 Beiträge für öffentliche Einrichtungen
 § 17 Erhebungsermächtigung, Grundsätze
 § 18 Beitragsmaßstab, Beitragssatz
 § 19 Abgrenzung von Teilflächen bei der Beitragsbemessung, weitere Beitragspflichten
@@ -28,7 +28,7 @@ Vierter Abschnitt Beiträge für öffentliche Einrichtungen
 § 23 Vorauszahlungen
 § 24 Öffentliche Last
 § 25 Ablösung, Erschließung durch Dritte
-Fünfter Abschnitt Beiträge für Verkehrsanlagen, besondere Wegebeiträge
+Abschnitt 5 Beiträge für Verkehrsanlagen
 § 26 Erhebungsermächtigung für Beiträge zu Verkehrsanlagen, beitragsfähige Maßnahmen
 § 27 Beitragsfähiger Aufwand
 § 28 Grundsätze der Beitragsbemessung, öffentliches Interesse
@@ -36,13 +36,14 @@ Fünfter Abschnitt Beiträge für Verkehrsanlagen, besondere Wegebeiträge
 § 30 Entstehung der Beitragsschuld, Verrentung
 § 31 Beitragsschuldner, Vorauszahlungen, öffentliche Last, Ablösung
 § 32 Besondere Wegebeiträge
-Sechster Abschnitt Aufwandsersatz und sonstige Abgaben
+Abschnitt 6 Aufwandsersatz und sonstige Abgaben
 § 33 Ersatz des Aufwands für Haus- und Grundstücksanschlüsse
 § 34 Kurtaxe
 § 35 Fremdenverkehrsabgabe
 § 36 Sonstige öffentlich-rechtliche Abgaben und Umlagen
-Siebenter Abschnitt Übergangs- und Schlußbestimmungen
+Abschnitt 7 Übergangs- und Schlussbestimmungen
 § 37 Übergangsbestimmungen
 § 38 Einschränkung von Grundrechten
 § 39 Aufhebung von Rechtsvorschriften
-§ 40 Inkrafttreten
+§ 39a Anpassung der Satzungen an die durch das Verwaltungsmodernisierungsgesetz geänderte Rechtslage
+§ 40 In-Kraft-Treten
