@@ -1,0 +1,55 @@
+# Rat
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2003-02-19T16:00:00+01:00
+- Ende: 2003-02-19T17:55:00+01:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfTn0FSP_wtZctsesAG8q98
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/785
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT3hIM3WRWJyzd09Rf2uF9C2i6rG02f_SS_7a_h3QJbY/Bekanntmachung_Rat_19.02.2003.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbMtOy-f8oq1hDtMID3kYUz3c8UnAVIATizibVngQ2pI/Oeffentliche_Niederschrift_Rat_19.02.2003.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 15.01.2003
+- TOP 3.: Verabschiedung des Vorsitzenden des Umlegungsausschusses
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1.: Niederschrift vom 11.12.02; Beanstandungen der SPD-Frakton zum TOP 11 - Einstimmig, 0 Enthaltungen
+- TOP 5.: Erweiterung (Endausbau) der Urananreicherungsanlage Gronau (UAG) auf 4.500 t UTA/a. - Stellungnahme der Stadt Gronau - 22 Jastimmen, 13 Neinstimmen, 0 Enthaltungen
+- TOP 6.: Änderung der Satzung über die Erhebung von Gebühren aus Anlass von Märkten, Kirmessen und ähnlichen Veranstaltungen in der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 7.: Wirtschaftsplan der Zentralen Bau- und Umweltdienste der Stadt Gronau (Westf.) für das Wirtschaftsjahr 2003 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Wirtschaftsplan 2003 der Gronauer Grundstücksentwicklungsgesellschaft - Einstimmig, 0 Enthaltungen
+- TOP 9.: Bekanntgabe des vorläufigen Rechnungsergebnisses für das Jahr 2002
+- TOP 10.: Bebauungsplan Nr. 217 "Bösinghof", Stadtteil Epe Umlegung Gronau - Bösinghof -, Stadtteil Epe Aufhebung der Umlegungsanordnung gem. § 46 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 11.: Bebauungsplan Nr. 24 "Mühlenmathe", 1. Änderung, Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der vorzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Satzungsbeschluss gem. § 10 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 12.: Bebauungsplan Nr. 212 "Industriegebiet Epe- Süd", 2. Änderung und Ergänzung, Stadtteil Epe 1. Behandlung der Stellungnahmen aus der vorzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnhamen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Satzungsbeschluss gem. § 10 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bebauungsplan Nr. 93 "Butenstegge", 2. Änderung, Stadtteil Gronau 1. Neufassung des Aufstellungsbeschlusses 2. Verzicht auf eine erneute Bürgerbeteiligung 3. Billigung der Plankonzeption 4. Beschluss zur öffentlichen Auslegung 5. Benachrichtung der Träger öffentlicher Belange - Einstimmig, 0 Enthaltungen
+- TOP 14.: 68. Änderung des Flächennutzungsplanes der Stadt Gronau, - Bereich Wackengoorweg 1. Behandlung der Stellungnahmen aus der frühzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Planfeststellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 15.: 65. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich: "Eper Bülten - Fortsetzung", Stadtteil Epe 1. Behandlung der Stellungnahmen aus der frühzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aud der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Planfeststellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 16.: 64. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich: "Reginastraße", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der vorzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der 1. öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der 2. öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 5. Planfesfstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 17.: Bebauungsplan Nr. 132 "Reginastraße", Stadteil Gronau 1. Behandlung der Stellungnahmen aus der vorzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der 1. öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der 2. öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 5. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 18.: 72. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich: "Bebauungsplan Nr. 133 Heerweg/Kaiserstiege", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der vorzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 Bau GB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Planfeststellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 18.1.: 72. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich: "Bebauungsplan Nr. 133 Heerweg/Kaiserstiege", Stadtteil Gronau hier: Ergänzung des Abwägungsvorschlages - Einstimmig, 0 Enthaltungen
+- TOP 19.: Bebauungsplan Nr. 133 "Heerweg/Kaiserstiege", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Bürgerbeteiligung gem. § 3 (1) BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 (1) BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 (2) BauGB 4. Satzungsbechluss gem. § 10 BauGB i. V. m. § 86 (4) BauONW - Einstimmig, 0 Enthaltungen
+- TOP 20.: Bestellung von Mitgliedern des Umlegungsausschusses der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 21.: Neubesetzung von Ausschüssen gem. § 58 GO NW - Einstimmig, 0 Enthaltungen
+- TOP 22.: Neubesetzung von Gremien; Stellvertretendes Mitglied im Aufsichtsrat der Rock´n´Popmuseum GmbH - 24 Jastimmen, 12 Neinstimmen, 0 Enthaltungen
+- TOP 23.: Bestellung eines Vertreters der Stadt Gronau für die Sitzungen des Aufsichtsrates der Kultur-Büro Gronau GmbH - 25 Jastimmen, 12 Neinstimmen, 0 Enthaltungen
+- TOP 24.: Terminplanung für das 2. Quartal 2003
+- TOP 25.: Mitteilungen der Verwaltung
+- TOP 26.: Anfragen
+- TOP 26.1.: Baustelle Steinfurter Str,/Hindenburgring (RM Krause)
+- TOP 26.2.: Folgen der verzögerten Fertigstellung der B 54n für die Laga (RM Walkowiak)
+- TOP 26.3.: Verkehrsinselbepflanzung Sonnenstr./Mondweg (RM Rüger-Müller)
+- TOP 26.4.: Geschwindigkeitsmessungen in verkehrsberuhigten Zonen (RM Rüger-Müller)
+- TOP 26.5.: Aufsicht an der Schulbus-Haltestelle am Bahnhof (RM Rüger-Müller)
+- TOP 26.6.: Wasserqualität in den Grachten (RM Rüger-Müller)
+- TOP 26.7.: Entfernen der Weihnachtsdekoration in der Bahnhofstr. (RM von Borczyskowski)
+- TOP 26.8.: Fällen von Bäumen am Riekenmaateweg, Erinnerung (RM Bartels)
+- TOP 26.9.: Dauer der Kanalbaumaßnahme Overdinkelstr. (RM Mazur)
+- TOP 26.10.: Entfernung von Unrat aus der Umflut (RM Lenz)
