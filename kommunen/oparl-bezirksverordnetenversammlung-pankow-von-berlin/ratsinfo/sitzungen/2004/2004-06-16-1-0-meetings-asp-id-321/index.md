@@ -1,0 +1,72 @@
+# 24. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2004-06-16T17:30:00+02:00
+- Ende: 2004-06-16T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=321
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=321
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - im Ausschuss abgelehnt
+- TOP 1.2: Abstimmung über die Tagesordnung - im Ausschuss abgelehnt
+- TOP 1.3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 1.3.1: Einrichtung 7. Klasse - zurückgezogen
+- TOP 1.3.2: Landschaftsplan IV - L - 3 "Gründerzeitgebiete Prenzlauer Berg" im Bezirk Pankow, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.3.3: Überschreitungen im T- und Z-Teil im Jahresabschluss 2003 - ohne Änderungen in der BVV beschlossen
+- TOP 1.4: Mündliche Anfrage - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.5: Bericht des Bezirksamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.6: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.7: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2001 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.8: Verkehrsberuhigung in der Choriner Straße - in der BVV abgelehnt
+- TOP 1.9: Fußball-WM 2006 - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Rauchfreie und Gesunde Schule - auch in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Hartz IV: Beteiligung der Bezirke an den künftigen Arbeitsgemeinschaften - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Erhalt des Krankenhauses Prenzlauer Berg - mit Änderungen in der BVV beschlossen
+- TOP 1.13: Resolution: "Bleiberecht für Flüchtlinge" - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Keine Videoüberwachung - überwiesen
+- TOP 1.15: Beteiligung der BVV und ihrer Ausschüsse bei der Aufstellung von B-Plänen - hier: Aufhebung eines Bezirksamtsbeschlusses zur Drs. Nr. V - 0410 / 03 - überwiesen
+- TOP 1.16: IHK - Projekt "Partnerschaft Schule - Betrieb" - in der BVV abgelehnt
+- TOP 1.17: Kein Kahlschlag hinter dem Rücken der Bezirksverordnetenversammlung - überwiesen
+- TOP 1.18: Polizei-Umfrage an Schulen - in der BVV abgelehnt
+- TOP 1.18.1: Eine Hand ist keine Faust - ein Fragebogen für die Schulen in Pankow - mit Änderungen in der BVV beschlossen
+- TOP 1.19: Hartz IV - Auswirkungen auf Arbeit des Jugendamtes mit benachteiligten Jugendlichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Ausbildungsplatzabgaben und ihre Folgen - schriftlich beantwortet
+- TOP 1.21: Energieeinsparungen in Pankower Liegenschaften - wie lange dauert noch die Blockadehaltung der Immobilienverwaltung? - beantwortet
+- TOP 1.22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.23: Entsperrung des Ansatzes im Kapitel 4211 / 54102 - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Bezirkseigene Heizungsanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Unterstützung für Kindergarten-Neubau in der Choriner Straße - mit Änderungen in der BVV beschlossen
+- TOP 1.26: Kürzung der öffentlichen Förderung im öffentlich geförderten sozialen Wohnungsbau (VwV Kürzung 2004) - beantwortet
+- TOP 1.27: Kürzung der öffentlichen Förderung im öffentlich geförderten sozialen Wohnungsbau (VwV Kürzung 2004) - überwiesen
+- TOP 1.28: Entsperrung der Kofinanzierungsgelder für das Tourismus - Marketingkonzept - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Barrierefreies Wilhelmsruh - überwiesen
+- TOP 1.30: Gut Blankenfelde - überwiesen
+- TOP 1.31: Sicherung der Kleingärten im Bezirk - überwiesen
+- TOP 1.32: Bericht der Gedenktafelkommission - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Lärmminderung in der Kastanienallee im OT Rosenthal - überwiesen
+- TOP 2: Komplex II - überwiesen
+- TOP 2.1: Regionaler Aktionsplan gegen häusliche Gewalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Der Himmel über Pankow - Klimaschutz vor Ort - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Pankow für Europa - Mitgliedeschaft in der Euregio Pomerania anstreben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Verschärfung der Verkehrsprobleme im Wohnviertel an der Esplanade - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Anbringung von Pollern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Evaluierung im Bereich "Entgeltfinanzierte Betreuungsleistungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Sportunterricht der Evangelischen Schule Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Leitlinien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Kein Kita-Konzern - vertagt
+- TOP 2.10: Weiterbildung von Mitarbeiterinnen und Mitarbeitern - vertagt
+- TOP 2.11: Grüner Blechpfeil in Blankenburg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Gefährliche Baustellen-Regelungen auf Radverkehrsanlagen und Gehwegen - vertagt
+- TOP 2.13: Sicherung der Arbeit der Kinder- und Jugendfreizeiteinrichtung K 14 in Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Geplante Neuaufteilung der Mittel für die Grünflächenunterhaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Erhalt der Suppenküche der Heilsarmee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Bebauungsplan XVIII-45a für die Grundstücke Berliner Allee 30/48, Mahlerstraße 2/8, 1/11 (teilweise), Bizetstraße 23/27, 41 sowie Abschnitte der Mahlerstraße und Bizetstraße im Bezirk Pankow, Ortsteil Weißensee; Beschluss über die Festsetzung als Rechtsverordnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Vereinbarung über den Bestandsabbau, die Verkürzung der Bearbeitungsdauer und die Verfahrensoptimierung in Einbürgerungsverfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Bericht über die Vorbereitung zur Errichtung eines zentralen Ordnungsamtes im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Aufgabe der Seniorenbegegnungsstätte Tollerstraße und Überführung der Angebote für Seniorinnen und Senioren in den Jugendklub Tollerstraße - vertagt
