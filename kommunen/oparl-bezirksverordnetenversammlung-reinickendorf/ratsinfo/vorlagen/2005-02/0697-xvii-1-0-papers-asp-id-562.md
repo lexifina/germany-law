@@ -1,0 +1,32 @@
+# Anforderungen an künftige Planungen für das Gelände zwischen Greenwichpromenade, Sechser-Brücke und Tegeler Hafen
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Drucksache/Vorlage: 0697/XVII
+- Art: Beschlussempfehlung
+- Datum: 2005-02-10
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=562
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/papers.asp?id=562
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=130&id=59990
+- Beratung: Entscheidung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=441 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beratung  https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=2
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=479 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=9
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=651 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=9
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=708 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=9
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=494 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=16
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=552 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=16
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=550 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=17
+- Beratung: Beratung  https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=16
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=619 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=8
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=639 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=8
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=707 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=8
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=744 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=8
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=798 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=9
+- Beratung: Beratung  https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=8
+- Beratung: Beratung  https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=9
+- Beratung: Entscheidung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=706 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=19
+- Beratung: Entscheidung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=698 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beratung  https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=8
+- Beratung: Entscheidung  https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=9
+- Beratung: Entscheidung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=797 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=at&id=2
