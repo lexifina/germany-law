@@ -1,0 +1,1 @@
+Auf Grund von Art. 7, Art. 45 Abs. 2 Satz 2 und Art. 37 Abs. 2 Nr. 1 des Bayerischen Naturschutzgesetzes (BayNatSchG) erläßt das Bayerische Staatsministerium für Landesentwicklung und Umweltfragen folgende Verordnung:
