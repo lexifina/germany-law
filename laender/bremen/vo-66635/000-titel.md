@@ -1,0 +1,1 @@
+# Verordnung über die Zuerkennung eines mit dem Abschluß einer öffentlichen Realschule vergleichbaren Bildungsstandes für Inhaber des Zeugnisses über eine erfolgreich abgelegte Fortbildungsprüfung vom 13. März 1992
