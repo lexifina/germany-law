@@ -1,0 +1,71 @@
+# 26. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2004-09-29T17:30:00+02:00
+- Ende: 2004-09-29T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=359
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=359
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - vertagt
+- TOP 1.2: Abstimmung über die Tagesordnung - vertagt
+- TOP 1.3: Dringlichkeitsanträge - vertagt
+- TOP 1.4: Mündliche Anfrage - vertagt
+- TOP 1.5: Bericht des Bezirksamtes - vertagt
+- TOP 1.6: Konsensliste - vertagt
+- TOP 1.7: Wahl einer Beisitzerin - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.8: Wahl eines Bürgerdeputierten - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.9: Wahl eines Mitgliedes in den Beirat der Albert-Schweitzer-Stiftung gem. § 8 der Stiftungssatzung - vertagt
+- TOP 1.10: Bildung des zeitweiligen Sonderausschusses Hartz IV - erledigt
+- TOP 1.11: Aufstellung der Vorschlagslisten zur Wahl der ehrenamtlichen Richter für das Verwaltungsgericht Berlin und das Oberverwaltungsgericht Berlin für die Geschäftsjahre 2005 - 2008 - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.12: Wahl von ehrenamtlichen Mitarbeitern und Mitarbeiterinnen in Sozialkommissionen und Arbeitsgruppen sowie für Sonderaufgaben - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.13: Ordnungsämter - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Lärmminderung in der Kastanienallee im OT Rosenthal - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.15: Kein Kahlschlag hinter dem Rücken der Bezirksverordnetenversammlung - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Barrierefreies Wilhelmsruh - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.17: Nachweis der im Haushaltsjahr 2003 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - vertagt
+- TOP 1.18: Erhalt des ehemaligen Wasch- und Heizhauses in der Carl-Legien-Siedlung - vertagt
+- TOP 1.19: Ergänzung zum BVV - Beschluss Drs. V-0295/02 vom 16.06.2004 Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2001 - Teil VOB - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.20: Fortführung "Mobiles Bürgerbüro" - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.21: Sommerrodelbahn - überwiesen
+- TOP 1.22: Nördlicher Ausgang am S-Bahnhof Karow - überwiesen
+- TOP 1.23: Belastung des Bezirkshaushaltes 2005 - beantwortet
+- TOP 1.24: Missbilligung des Bezirksstadtrates Johannes Lehmann (gem. § 51 GO BVV) - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.25: Drs. Nr. V-0544/03 - Life Science Center Berlin-Buch - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.26: Standort Kastanienallee 82 - zurückgezogen
+- TOP 1.26.1: Nachnutzung Schulgebäude Kastanienallee - mit Änderungen in der BVV beschlossen
+- TOP 1.27: Pachtverträge zu Kleingartenanlagen - überwiesen
+- TOP 1.28: Sitzungsplan der BVV für 2005 und 2006 - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.29: Umsetzung von Hartz IV in Pankow - beantwortet
+- TOP 1.30: Kommunale Beschäftigung - zum Nutzen des Gemeinwesens und der Arbeitslosen - überwiesen
+- TOP 1.31: Expertise von Nichtregierungsorganisationen im Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Freie Bahn über den Gleimtunnel - überwiesen
+- TOP 1.33: Abschluss eines städtebaulichen Vertrages zur Sicherung der geplanten JFE im Bötzowviertel - überwiesen
+- TOP 1.34: Mehr Verkehrssicherheit in der Bötzowstraße - überwiesen
+- TOP 1.35: Freigabe von 8.000 € zur Finanzierung des "Touristischen Wegeleitsystems Pankow" aus dem Haushaltstitel 97113 in Kapitel 5950 - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Komplex II - (offen)
+- TOP 2.1: Botanische Anlagen in Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Rechtsverordnung zur Kündigungsbeschränkung bei Wohnungsumwandlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Keine Novellierung der BauO auf Kosten der Kinder - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Pilotprojekt neuer Glascontainer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Ersatz fehlender Bäume - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Fußgängerüberweg in der Zepernicker Straße im Ortsteil Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Fußgängerüberweg in der Bahnhofstraße in Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Rauchfreie und Gesunde Schule - auch in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Unterstützung für Kindergarten-Neubau in der Choriner Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Eine Hand ist keine Faust - ein Fragebogen für die Schulen in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Hartz IV - Auswirkungen auf Arbeit des Jugendamtes mit benachteiligten Jugendlichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Seniorenbegegnungsstätte Tollerstraße erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Miniermotte bekämpfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Nutzungsentgelterhöhung für zu Wohnzwecken genutzte Parzellen in der Anlage "Schildow-Waldeck" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Angliederung des LuV's 11 (Amt für Bauaufsicht und Denkmalschutz - BWAD) an das LuV 9 (Stadtplanungsamt - Stapl) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Nachweis der im 1. Halbjahr 2004 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Bebauungsplanentwurf XVIII-24-2 für das Gelände zwischen der öffentlichen Parkanlage am Hofzeichendamm, Ingwäonenweg, Siverstorpstraße, Gatterweg und dem Grundstück Gatterweg 17 im Bezirk Pankow, Ortsteil Karow zur Änderung des Bebauungsplanes XVIII-24, festgesetzt am 5. Januar 1995 (GVBl. S. 11) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Benennung stellvertretender Trägervertreter/innen zur Errichtung einer Arbeitsgemeinschaft (ArGe) nach dem SGB II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Beschluss über die Festsetzung des Landschaftsplanes IV-L-3 "Gründerzeitgebiete Prenzlauer Berg" im Bezirk Pankow, Ortsteil Prenzlauer Berg als Rechtsverordnung - mit Abschlussbericht zur Kenntnis genommen
