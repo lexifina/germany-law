@@ -1,0 +1,62 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-11-05T13:00:00+01:00
+- Ende: 2004-11-05T00:00:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1382
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1382
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111289.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111289.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111289.pdf
+
+## Tagesordnung
+
+- TOP 1: Wahl der BezirksvorsteherIn/der StellvertreterInne - zur Kenntnis genommen
+- TOP 2: Verpflichtung - zur Kenntnis genommen
+- TOP 3: Schriftführer - einstimmig beschlossen
+- TOP 4: Anerkennung Niederschrift - einstimmig beschlossen
+- TOP 5: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 6: Zulassung von Sachverständigen und Einwohnern - einstimmig beschlossen
+- TOP 7: Haushaltsplan-Entwurf 2005 - zur Kenntnis genommen
+- TOP 8: Anfragen zum Haushaltsplan-Entwurf 2005 - zur Kenntnis genommen
+- TOP 9: Anträge zum Haushaltsplanentwurf 2005 - zur Kenntnis genommen
+- TOP 10: Bezirksbezogener Haushaltsansatz - einstimmig beschlossen
+- TOP 11: Bezirksbezogener Bauunterhalt - einstimmig beschlossen
+- TOP 12: Übertragung - einstimmig beschlossen
+- TOP 13: Renovierung des Jugendfeuerwehrraumes - einstimmig beschlossen
+- TOP 14: Ringstraßen im Stadtbezirk 10 - einstimmig beschlossen
+- TOP 15: Haushaltsmittel der Bezirksvertretung - mehrheitlich abgelehnt
+- TOP 16: Um- und Neubau von KSP - zur Kenntnis genommen
+- TOP 17: Historischer Hellerhof - mehrheitlich abgelehnt
+- TOP 18: Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 19: Trödelmärkte 2005 - einstimmig beschlossen
+- TOP 20: Trödelmärkte 2005 - einstimmig beschlossen
+- TOP 21: Trödelmärkte 2005 - einstimmig beschlossen
+- TOP 22: Sitzungstermine - einstimmig beschlossen
+- TOP 23: Genehmigung eines Dringlichkeitsbeschlusses - einstimmig beschlossen
+- TOP 24: Weihnachtsmarkt in Garath 2004 - zur Kenntnis genommen
+- TOP 25: Genehmigung eines Dringlichkeitsbeschlusses - einstimmig beschlossen
+- TOP 26: B-Plan Nr. 6366/19 - S-Bahn-Haltepunkt Hellerhof - zur Kenntnis genommen
+- TOP 27: Änd.PlNr6267/04ua§13AusschlVergn.SB10Auf;öAus - einstimmig beschlossen
+- TOP 28: Anfragen - zur Kenntnis genommen
+- TOP 29: Anträge - zur Kenntnis genommen
+- TOP 30: Verfügungsmittel - einstimmig beschlossen
+- TOP 31: Bäume im Bereich Ingeborg-Bachmann-Str. - einstimmig beschlossen
+- TOP 32: Gefahrloser Überweg - einstimmig beschlossen
+- TOP 33: Renovierung - einstimmig beschlossen
+- TOP 34: Stellungnahmen - zur Kenntnis genommen
+- TOP 35: Grünphase - zur Kenntnis genommen
+- TOP 36: Grünschnitt - zur Kenntnis genommen
+- TOP 37: Sitzbänke - zur Kenntnis genommen
+- TOP 38: Verkehrsregelung - zur Kenntnis genommen
+- TOP 39: Verlegung - zur Kenntnis genommen
+- TOP 40: Neu- und Ersatzpflanzungen - zur Kenntnis genommen
+- TOP 41: Überweg an der Josef-Maria-Olbrich-Straße - zur Kenntnis genommen
+- TOP 42: Überweg an der Stralsunder-/Stettiner Str. - zur Kenntnis genommen
+- TOP 43: Baugenehmigung für eine Nutzungsänderung - zur Kenntnis genommen
+- TOP 44: Verschiedene Stellungnahmen - zur Kenntnis genommen
+- TOP 45: Informationsvorlage - zur Kenntnis genommen
