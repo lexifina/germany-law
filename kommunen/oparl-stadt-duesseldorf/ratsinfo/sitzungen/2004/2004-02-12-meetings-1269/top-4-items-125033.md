@@ -1,0 +1,7 @@
+# TOP 4: Genehmigung der Niederschriften
+
+- Sitzung: Ordnungs- und Verkehrsausschuss (2004-02-12)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/125033
+- Ergebnis: einstimmig beschlossen
