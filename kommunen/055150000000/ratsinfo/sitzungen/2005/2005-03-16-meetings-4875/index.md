@@ -1,0 +1,67 @@
+# 6. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-03-16T17:44:00+01:00
+- Ende: 2005-03-16T20:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/4875
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/4875
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00215470.pdf
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Ausländerbeirates
+- TOP -: Beschlusspunkte zum Etat 2005
+- TOP 9: Bühnenbewirtschaftungsplan der Städtischen Bühnen Münster für die Spielzeit 2005/2006 - mehrheitlich beschlossen
+- TOP 10: Weiterentwicklung Sporthalle Berg Fidel, Errichtungs- und Raumprogrammbeschluss zum Multifunktions - einstimmig beschlossen
+- TOP 11: Unbefristete Fortführung der Arbeit der Drogentherapeutischen Ambulanz/Drogenkonsumraum und Finanzie - einstimmig beschlossen
+- TOP 12: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 12.1: 1. Beförderungsentgelte und -bedingungen für die von der Stadt Münster zugelassenen Taxen - einstimmig beschlossen
+- TOP 12.2: Benutzungs- und Gebührensatzung der Lehranstalt für pharmazeutisch-technische Assistenten/innen - einstimmig beschlossen
+- TOP 12.3: Vergabe- und Entgeltordnung für die Benutzung von Räumen in Schulgebäuden der Stadt Münster - einstimmig beschlossen
+- TOP 12.4: Vergnügungssteuersatzung der Stadt Münster - einstimmig beschlossen
+- TOP 12.5: Gebühren Fleisch- und Geflügelfleischhygiene - einstimmig beschlossen
+- TOP 13: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2005 - mehrheitlich beschlossen
+- TOP -: Sonstige Beschlusspunkte
+- TOP 14: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01. August 2005 - mehrheitlich beschlossen
+- TOP 15: Aktionen in der Nachfolge des Wettbewerbes "The International Awards for Liveable Communities 2004" - einstimmig beschlossen
+- TOP 16: "Lichtkonzept Münster" - einstimmig beschlossen
+- TOP 17: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen aus Anlass der Veranstaltung - einstimmig beschlossen
+- TOP 18: Hilfevermittlung und Kurzzeitübernachtung - HuK - für wohnungslose Männer im städt. Gebäude Fr - einstimmig beschlossen
+- TOP 19: Bauleitplanung
+- TOP 19.1: Stadtbezirk Münster-Mitte
+- TOP 19.1.1: Aufhebung des Bebauungsplanes Nr. 452: Tiefgarage Ludgeriplatz - einstimmig beschlossen
+- TOP 19.1.2: Bebauungsplan Nr. 476: Stolbergstraße / Piusallee - einstimmig beschlossen
+- TOP 19.2: Stadtbezirk Münster-West
+- TOP 19.2.1: 3. Änderung des Bebauungsplanes Nr. 396: Mecklenbeck - Weseler Straße / Dingbängerweg - einstimmig beschlossen
+- TOP 19.2.2: 1. Änderung des Bebauungsplanes Nr. 409: Technologiepark Steinfurter Straße - einstimmig beschlossen
+- TOP 19.3: Stadtbezirk Münster-Hiltrup
+- TOP 19.3.1: 4. Änderung des Flächennutzungsplanes im Stadtbezirk Hiltrup im Stadtteil Amelsbüren - einstimmig beschlossen
+- TOP 19.4: Stadtbezirk Münster-Südost
+- TOP 19.4.1: Bebauungsplan Nr. 463: Wolbeck - Gewerbegebiet östlich der Münsterstraße / Grenkuhlenweg - mehrheitlich beschlossen
+- TOP 19.4.2: Bebauungsplan Nr. 494: Wolbeck - Gewerbegebiet - einstimmig beschlossen
+- TOP 19.5: Stadtbezirk Münster-Ost
+- TOP 20: 6. Änderung des fortgeschriebenen Flächennutzungsplanes der Stadt Münster - mehrheitlich beschlossen
+- TOP 21: Besetzungen und Umbesetzungen von Gremien
+- TOP 21.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 21.2: Neubesetzung des Beirates Münster Marketing - einstimmig beschlossen
+- TOP 21.3: Besetzung von Vorstandspositionen der "Münsterland-Touristik Grünes Band e.V." - einstimmig beschlossen
+- TOP 22: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 22.1: Münsters Bäderlandschaft aufgabenkritisch analysieren und zukunftsgerichtet weiter entwickeln - verwiesen
+- TOP 22.2: Bürgerschaft und Stadt errichten gemeinsam die Musikhalle - verwiesen
+- TOP 22.3: Ein Schülerticket für Münster - freiwillig, gerecht, allgemein - verwiesen
+- TOP 22.4: Ein Jugendparlament für Münster - verwiesen
+- TOP 22.5: Familienfreundliche Innenstadt - Mehr Leben, mehr Qualität, mehr Service - verwiesen
+- TOP 22.6: Dreifachsporthalle Roxel - verwiesen
+- TOP 23: Verschiedenes
