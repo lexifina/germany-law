@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2004-12-15T15:00:00+01:00
+- Ende: 2004-12-15T20:30:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/520
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/520
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022178.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022178.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022178.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Zur Kenntnis genommen
+- TOP 2: Hauptversammlung Städtetag - Einstimmiger Beschluss
+- TOP 3: Sachkundige Einwohner - Einstimmiger Beschluss
+- TOP 4: Goldenes Schöffensiegel - Einstimmiger Beschluss
+- TOP 5: Gültigkeit der Kommunalwahlen vom 26.09.2004 - Einstimmiger Beschluss
+- TOP 6: Wahl der Bezirksvertretung Rheindahlen- Einspruch - Einstimmiger Beschluss
+- TOP 7: Bildung des Kreiswahlausschusses für Landtagswahl - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 8: Theatertor - Kenntnisnahme
+- TOP 9: Schlussbericht zur JR 2003 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 10: Einbringung Haushaltsplanentwurf 2005 - Kenntnisnahme
+- TOP 11: Vertretung der Stadt Mönchengladbach - Einfache Mehrheit
+- TOP 12: Erster Nachtrag Satzung Rettungsdienstgebühren - Einstimmiger Beschluss
+- TOP 13: 8. Nachtrag zur Kanalbenutzungsgebührenordnung - Mit Stimmenmehrheit beschlossen
+- TOP 14: 23. NT zur Straßenreinigungs- u. Gebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 15: 8. Nachtrag zur Abfallsatzung - Mit Stimmenmehrheit beschlossen
+- TOP 16: 7. Nachtrag zur Abfallgebührensatzung - Einfache Mehrheit
+- TOP 17: 9. NT Benutzungsordnung Abfallentsorgungsanlagen - Einstimmiger Beschluss
+- TOP 18: Bereitstellung üpl. Haushaltsmittel Personalausg. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 19: Genehmigung eines Dringlichkeitsentscheides - Einstimmiger Beschluss
+- TOP 20: Laubenbaudarlehen 2004 - Einstimmiger Beschluss
+- TOP 21: Schiedsamtsstellvertreterwahl Bez. I, III/2, IV, V - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 22: Schiedsamtswahl Rheydt-Mitte - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 23: Zehnter Nachtrag zum Taxentarif - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 24: Berufung von ständigen Mitgliedern - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 25: Neufassung der Familien-Förderrichtlinien - Einstimmiger Beschluss
+- TOP 26: Wahl von 8 Ratsmitgliedern - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 27: 64. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 28: Bebauungsplan Nr. 604/V - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 29: Bebauungsplan Nr. 615/VIII - Mit Stimmenmehrheit beschlossen
+- TOP 30: Bebauungsplan Nr. 640/IX - Mit Stimmenmehrheit beschlossen
+- TOP 31: Bebauungsplan Nr. 641/IX - Mit Stimmenmehrheit beschlossen
+- TOP 32: Vorhabenbezogener Bebauungsplan Nr. 630/X - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 33: 149. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 34: Aufhebungssatzung Teilungsgenehmigungen - Einstimmiger Beschluss
+- TOP 35: Beteiligung der Stadt Mönchengladbach an der GEM - Mit Stimmenmehrheit beschlossen
+- TOP 36: Ausschreibung der Stelle eines Beigeordneten - Mit Stimmenmehrheit beschlossen
+- TOP 37: Anfragen - Zur Kenntnis genommen
