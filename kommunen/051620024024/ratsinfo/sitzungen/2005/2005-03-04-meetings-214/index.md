@@ -1,0 +1,81 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2005-03-04T16:11:00+01:00
+- Ende: 2005-03-04T22:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/214
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/214
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Wiederwahl eines Beigeordneten
+- TOP 4: Stv. Quentin: Internationale Schule am Rhein
+- TOP 5: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 6: Einwohnerfragestunde
+- TOP 7: Genehmigung der Tagesordnung
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Antrag d. CDU-Fraktion: Task Force Schulen
+- TOP 10: Stadthallenparkplatz
+- TOP 11: Haushaltsplan 2005
+- TOP 12: Stv. Quentin: Teiln. BM Gespr. Flugh. Düsseld.
+- TOP 13: Gen. DE Nr. 12: Kapitalerh. Stadtwerke Neuss
+- TOP 14: Zwischenbericht zum Frauenförderplan
+- TOP 15: Heimstatt Christ König
+- TOP 16: Vertrag Ordnungspartnerschaft
+- TOP 17: Stv. Rohmer: Anwalts- u. Prozesskosten)
+- TOP 18: Verkehrsentwicklungsplan NE
+- TOP 19: B-Plan 120/18, Satzungsbeschluss
+- TOP 20: FNP-Änderung 98, Auslegungsbeschluss
+- TOP 21: B-Plan 390, Auslegungsbeschluss
+- TOP 22: B-Plan 431, Satzungsbeschluss
+- TOP 23: B-Plan 437, Satzungsbeschluss
+- TOP 24: FNP-Änderung 107, Aufstellungsbeschluss
+- TOP 25: B-Plan V441, Einleitungsbeschluss
+- TOP 26: Johanna-Etienne-Straße, -Herstellungsbeschluss-
+- TOP 27: Nebenanlage Bonner Str. / Änderung Ortsfahrbahn
+- TOP 28: Kan. Chr.-Schaurte/Marienburger/Saarbrückener Str.
+- TOP 29: Grünrahmenplan zum Bebauungsplan Nr. 387
+- TOP 30: Grünrahmenplan zum Bebauungsplan Nr. 424
+- TOP 31: Verl. Fluglärm-Messst. Nr. 3 „Clarenbachschule“(
+- TOP 32: Mitwirkung von Fachberatern in Ausschüssen
+- TOP 33: 1. Änderung Satzung Bürgerentscheide
+- TOP 34: Regelungen Stadthafen Neuss GmbH
+- TOP 35: FNP-Änderung 107 Stadt Dormagen
+- TOP 36: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 37: Schulwegsicherungsmaßnahmen
+- TOP 38: Restaurierung St.-Quirinus-Münster
+- TOP 39: Finanzplanung 2004 - 2008
+- TOP 40: B-Plan 201/2, Satzungsbeschluss
+- TOP 41: Investitionsprogramm 2004 - 2008
+- TOP 42: Haushaltssatzung 2005
+- TOP 43: Umlegungsverfahrens 173
+- TOP 44: Baugebiet B in Allerheiligen
+- TOP 45: Standort Grundschule Allerheiligen
+- TOP 46: Horremer Straße / Haltestelle Am Steinacker
+- TOP 47: Zahl der Sitzungen
+- TOP 48: Antrag Kolping-Bildungswerk/BFZ Schlicherum 2005
+- TOP 49: Kolping-Bildungswerk - veränderter Mitteleinsatz
+- TOP 50: Richtlinien Betreuungsgesetz
+- TOP 51: Neuregelung Ausgabe Schwimmkarten
+- TOP 52: Neufassung Entgeltordnung VHS ab II/2005
+- TOP 53: Auflösung Grundschule Weissenberg-West
+- TOP 54: Änderung der Sportförderrichtlinien
+- TOP 55: 25. Internationaler Hansetag in Tartu/ Estland
+- TOP 56: B. 90/D.G.: Alternative Standorte für die ISR
+- TOP 57: SPD: Ehrenord. f. d. Rat d. Stadt Neuss
+- TOP 58: FDP: Kommunalp. Aktionspr. BM
+- TOP 59: Berufung eines Behinderten - Koordinators
+- TOP 60: Bericht zum NKF
+- TOP 61: Kenntnisnahme üpl./apl. Ausgaben IV. Quartal 2004
+- TOP 62: Einwohnerfragestunde
+- TOP 63: Stv. Dr. Hüsch: Gew. L.zusch. hist. Stadtk.
+- TOP 64: Neuorganisation der städtischen Gebäudewirtschaft
+- TOP 65: SPD: Verlässl. Bildungs- u. Betreuungskette
+- TOP 66: Sachstandsbericht Münsterschule
+- TOP 67: Kreishaushalt 05: Stellungnahme der Bürgermeister
