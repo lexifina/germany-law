@@ -1,0 +1,111 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2004-02-19T17:40:00+01:00
+- Ende: 2004-02-19T22:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=584
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=584
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - beantwortet
+- TOP 1.2: der Fraktionen - beantwortet
+- TOP 1.3: der Ausschüsse - beantwortet
+- TOP 1.4: des Bezirksamtes - beantwortet
+- TOP 2: Konsensliste - beantwortet
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Schulspende von 5000 pm Linoleum - beantwortet
+- TOP 3.2: Treibt das Sozialamt Kranke in die Schuldenfalle? - beantwortet
+- TOP 3.3: Call-Center im Bürgeramt Berlin-Mitte - beantwortet
+- TOP 3.4: Ergebnisse der China-Reise - beantwortet
+- TOP 3.5: Blindengeld gekürzt ohne Bescheid - schriftlich beantwortet
+- TOP 3.6: Berliner Stadtbären - schriftlich beantwortet
+- TOP 3.7: Schneeräumung an Fußgängerüberwegen - schriftlich beantwortet
+- TOP 3.8: Leistungen nur zwei Jahre vergeben? - schriftlich beantwortet
+- TOP 3.9: Beantragung von GA-Mitteln für den Bezirk Mitte - schriftlich beantwortet
+- TOP 3.10: Probleme an der Diesterweg-Oberschule II - schriftlich beantwortet
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Maatwerk-Insolvenz - beantwortet
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Stadträtin auf einem anderen Stern? - beantwortet
+- TOP 5.2: Ergebnisse der 2. Lesung der Bezirkshaushaltspläne - beantwortet
+- TOP 5.3: Bernauer Straße ohne Bäume und ohne Straßenbahn - beantwortet
+- TOP 5.4: Kindergartennutzung - beantwortet
+- TOP 5.5: Verkehrskonzept Spandauer Vorstadt - beantwortet
+- TOP 5.6: Evaluierung der Arbeit in der "Birkenstube" - schriftlich beantwortet
+- TOP 5.7: BSI - in der BVV zurückgezogen
+- TOP 5.8: BVV-Bürgerfragestunde: Aufgeschoben ist nicht aufgehoben - schriftlich beantwortet
+- TOP 5.9: Hilfe aus dem Stellenpool - schriftlich beantwortet
+- TOP 5.10: Touristisches Wegeleitsystem - schriftlich beantwortet
+- TOP 5.11: Stadtentwicklung als Geldbeschaffungsmaßnahme? Geldsegen für das Poststadion - schriftlich beantwortet
+- TOP 5.12: Krankenversicherung für Sozialhilfeempfangende nach § 264 SGB V - Warum einfach, wenn`s auch kompliziert geht?! - schriftlich beantwortet
+- TOP 5.13: Neue Ansätze für die Finanzierung und den Betrieb von Parks - schriftlich beantwortet
+- TOP 5.14: Planungsstand für gebundene Ganztagsschulen - schriftlich beantwortet
+- TOP 5.15: Mietobergrenzen vom Verwaltungsgericht "in die Tonne getreten"? - schriftlich beantwortet
+- TOP 5.16: Rattenplage - schriftlich beantwortet
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 6.1: Neufassung von Einnahmeansätzen im Bezirkshaushaltsplan Mitte für das Haushaltsjahr 2004 - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 7.1: Genehmigung der im Haushaltsjahr 2002 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Bebauungsplanentwurf III-105-1 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-105-1 - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Bebauungsplanentwurf III-240 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-240 - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Berufung eines beratenden Mitgliedes und dessen Stellvertreter in den Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 6 AG KJHG i.V. mit § 35 Abs. 8 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Wahl von zehn Vertrauenspersonen für den beim Amtsgericht Tiergarten zu bildenden Ausschuss zur Auswahl der Schöffinnen und Schöffen für die Geschäftsjahre 2005 bis 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Verkehrsberuhigung Stephankiez - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2: Beschluss und Festsetzung des Bebauungsplanes I-24 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.3: Alexanderplatz - ein Platz für junge Leute
+- TOP 9.4: Konzepterstellung für die Errichtung eines Drogenkonsumraums
+- TOP 9.5: Grün geht vor - Erweiterung des Mauerparks unterstützen
+- TOP 9.6: Wildwiesen statt Rollrasen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.7: Bauunterhaltungsplanung Januar 2004 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.8: Familie und oder Beruf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.9: Grün statt Müll - Konzept zur Senkung der Personal- und Sachkosten der Müllentsorgung in öffentlichen Grünanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.10: Weiterführung des Programms 40+ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.11: Verkehrssicherheit Alexanderplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.12: Vorwärts immer, rückwärts nimmer: Fifty-Fifty weiter entwickeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.13: Ausschreibung der Vermessung von Schulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.14: Unterstützung des Zentrums Demokratische Kultur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.15: Bezirk muss Kinderbetreuung sicher stellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.16: Änderung der Geschäftsordnung der BVV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.17: Entwicklung und Verwendung von Stiftungsmitteln der Stiftung Bezirksbürgermeisterin Erika Heß im Haushaltsjahr 2003 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.18: Energieeinsparungen für Investitionen zur Energieeinsparung nutzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.19: Neufassung der Ergänzung des Vorberichts zum Haushaltsplan 2003/2004 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Umnutzung des ehemaligen BVV-Saales Müllerstraße 147 (Neubau) und notwendige Investitionsmaßnahmen im Zusammenhang mit dem zukünftigen Ausbau des darunter liegenden sog. Luftgeschosses zu einem leistungsstarken Bibliotheksstandort - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Galeria Kaufhof - Verkaufszelt Alexanderplatz - ohne Änderungen in der BVV beschlossen
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Bärenstark fortsetzen! - erledigt
+- TOP 11.2: Zeitgemäßes und der Sache angemessenes Beschäftigungsprofil - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Bericht über die Umsetzung des Chancengleichheitsplans - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Leitlinien für die kommunale Sportentwicklungsplanung in Berlin Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Im Doppelhaushalt 2004/2005 eingestellte Mittel "Zuschüsse für kulturelle Aktivitäten freier Gruppen" Titel 686 10, Kapitel 3721, in Höhe von je 25.000 € - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Temporäre Schließung von Bädern - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Sicherstellung der Gefahrenabwehr durch die Feuerwehr - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Vergabe von Gutachten, Studien u.ä. öffentlich machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Fahrgelderstattung für Sozialhilfeempfangende im Ehrenamt - überwiesen
+- TOP 12.7: Sicherung des Großen Tiergartens - überwiesen
+- TOP 12.8: Werbung auf bezirkseigenen Fahrzeugen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Keine Bebauung des Diplomatenparks - überwiesen
+- TOP 12.10: Unterbringung der Internationalen Schule - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Erhalt des Beschäftigungsprojekts bei BOA e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Mehrkosten durch den Wegfall des Sozial-Tickets - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Sozialhilfeausweis - überwiesen
+- TOP 12.14: Keine sozialen Brachen im Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Integrationsreferent - überwiesen
+- TOP 12.16: Sozialhilferechtliche Instrumentarien zur Integration - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Qualitätsberichte öffentlich geförderter Projekte - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Projekt des gesunden Städtenetzwerks - überwiesen
+- TOP 12.19: Interreligiöses Forum - überwiesen
+- TOP 12.20: Integrationskonzept - überwiesen
+- TOP 12.21: Kommunale gemeinnützige Beschäftigungsgesellschaft - überwiesen
+- TOP 12.22: Ansage in Buslinien - in der BVV zurückgezogen
+- TOP 12.23: Einbau von Rauchmeldern - überwiesen
