@@ -1,1 +1,1 @@
-# Polizeiverordnung über das Halten von Hunden vom 16. November 1992
+# Polizeiverordnung über das Halten von Hunden in der Stadt Bremerhaven vom 7. Juni 2000
