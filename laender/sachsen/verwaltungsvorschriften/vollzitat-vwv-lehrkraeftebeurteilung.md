@@ -1,8 +1,8 @@
 # Vollzitat: VwV-Lehrkräftebeurteilung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2004-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/2913.4
+- Datum: 2004-08-26 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/2913.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2004
+26.08.2004
 bis
-25.08.2004
+29.03.2006
 
 VwV-Lehrkräftebeurteilung
 
@@ -59,11 +59,19 @@ Regelmäßige Beurteilung
 
 2.1
 
-Die regelmäßige Beurteilung hat die Funktion, einen Leistungsvergleich für sämtliche Beschäftigte, die vergleichbare Tätigkeiten oder Funktionen ausüben, zu erstellen. Sie ist das hauptsächliche Mittel, um die in Ziffer II genannten Ziele zu erreichen, insbesondere werden auf dieser Grundlage die Entscheidungen über Höhergruppierungen oder Beförderungen vorbereitet. Die Beschäftigten sind alle drei Jahre zu beurteilen.
+Die regelmäßige Beurteilung hat die Funktion, einen Leistungsvergleich für sämtliche Beschäftigte, die vergleichbare Tätigkeiten oder Funktionen ausüben, zu erstellen. Sie ist das hauptsächliche Mittel, um die in Ziffer II genannten Ziele zu erreichen.
+
+2.1.1
+
+Bei der regelmäßigen Beurteilung werden Beschäftigte, getrennt nach berufsbildenden Schulen, Förderschulen, Gymnasien, Grundschulen und Mittelschulen verglichen, die über die gleiche Eingruppierung bzw. entsprechende Vergütungsgruppe gemäß § 11 BAT-O verfügen sowie Schulleiter und stellvertretende Schulleiter im Bereich der personalführenden Dienststelle. Es sind möglichst große Vergleichsgruppen zu bilden, wobei nicht zwischen Beamten und Angestellten differenziert wird.
+
+2.1.2
+
+Die Beschäftigten sind alle fünf Jahre zu beurteilen. Ausgenommen hiervon sind die Schulleiter und stellvertretenden Schulleiter, die alle drei Jahre zu beurteilen sind. Ausnahmen nach dieser Verwaltungsvorschrift bleiben unberührt.
 
 2.2
 
-Die Beschäftigen nehmen nur dann an einer regelmäßigen Beurteilung teil, wenn die letzte Anlassbeurteilung oder regelmäßige Beurteilung länger als zwölf Monate zurückliegt.
+Die regelmäßige Beurteilung ist unabhängig von vorausgegangenen Anlass- und Regelbeurteilungen zu erstellen. Sie umfasst den gesamten Beurteilungszeitraum der regelmäßigen Beurteilung.
 
 2.3
 
@@ -131,7 +139,7 @@ Die Probezeitbeurteilung hat die Funktion zu beurteilen, ob der Beschäftigte ge
 
 Anlassbeurteilung
 
-Die Anlassbeurteilung hat die gleiche Funktion wie die regelmäßige Beurteilung. Sie erfolgt, sofern der Beschäftigte nicht an der letzten regelmäßigen Beurteilung teilgenommen hat und ein besonderes dienstliches Bedürfnis (z. B. Höhergruppierung, Besetzung von Funktionsstellen) besteht. Eine Anlassbeurteilung wird auf Anforderung einer personalverwaltenden Stelle erstellt. Anlassbeurteilungen sind auf das unbedingt notwendige Maß zu beschränken.
+Die Anlassbeurteilung hat die gleiche Funktion wie die regelmäßige Beurteilung. Sie erfolgt, sofern ein besonderes dienstliches Bedürfnis besteht (z. B. Höhergruppierung, Besetzung von Funktionsstellen). Eine Anlassbeurteilung wird auf Anforderung einer personalverwaltenden Stelle erstellt. Anlassbeurteilungen sind auf das unbedingt notwendige Maß zu beschränken.
 
 5.
 
@@ -259,7 +267,7 @@ Unterrichtsbesuche
 
 3.1
 
-Eine Grundlage für die dienstliche Beurteilung sind auch Unterrichtsbesuche. Bei der regelmäßigen Beurteilung und Probezeitbeurteilung müssen mindestens zwei Unterrichtsbesuche während des Beurteilungszeitraums erfolgen. Bei den anderen Beurteilungsarten sollte ein Unterrichtsbesuch erfolgen. Dabei ist darauf zu achten, dass Unterrichtsbesuche ein breites Spektrum des Unterrichtseinsatzes, sowohl der Fächer wie Klassenstufen abdecken. Die Unterrichtsbesuche sind mit dem Beschäftigten zu besprechen.
+Eine Grundlage für die dienstliche Beurteilung sind auch Unterrichtsbesuche. Bei der regelmäßigen Beurteilung und Probezeitbeurteilung müssen mindestens zwei Unterrichtsbesuche während des Beurteilungszeitraums erfolgen. Bei den anderen Beurteilungsarten sollte ein Unterrichtsbesuch erfolgen. Dabei ist darauf zu achten, dass Unterrichtsbesuche ein breites Spektrum des Unterrichtseinsatzes, sowohl der Fächer wie Klassenstufen abdecken. Die Unterrichtsbesuche sind mit dem Beschäftigten zu besprechen. Die Unterrichtsbesuche finden in der Regel angekündigt statt.
 
 3.2
 
@@ -268,10 +276,6 @@ Bei Schulleitern und stellvertretenden Schulleitern gilt abweichend, dass nur ei
 3.3
 
 Die Unterrichtsbesuche sind vom Beurteiler oder einem weiteren Mitglied der Beurteilungskommission vorzunehmen. Hiervon abweichend kann bei Schulen mit 30 und mehr Beschäftigen, für die der Schulleiter Beurteiler ist, der stellvertretende Schulleiter oder der Fachleiter einen Unterrichtsbesuch durchführen. Der Beurteiler muss einen Unterrichtsbesuch vornehmen.
-
-3.4
-
-Die einmal jährlich zu führenden strukturierten Mitarbeitergespräche zwischen Schulleiter (bzw. dem jeweiligen Vorgesetzten) und dem Beschäftigten einschließlich der dabei getroffenen Zielvereinbarungen bilden zugleich die Grundlage für die Beurteilung des Beschäftigten. Das Mitarbeitergespräch ist gemäß Anlage 3 zu dokumentieren. Hierbei fungiert als Vorgesetzter der Beurteiler.
 
 4.
 
@@ -317,7 +321,21 @@ Zuständig für die Beurteilungen sind der Schulleiter für die Beurteilung der 
 
 2.
 
-Beschäftigte, die zum Beurteilungsstichtag mindestens ein Jahr abgeordnet sind, werden von der abgebenden Dienststelle beurteilt. Diese hat einen Beurteilungsbeitrag durch die aufnehmende Dienstelle einzuholen und zu berücksichtigen. In Fällen der Versetzung erfolgt die Beurteilung durch die aufnehmende Dienststelle, die den Beurteilungsbeitrag der abgebenden Dienststelle einzuholen und zu berücksichtigen hat.
+2.1
+
+Beschäftigte, die am Beurteilungsstichtag länger als zwei Jahre mit über der Hälfte ihres Beschäftigungsumfangs an eine andere Schule abgeordnet sind, werden vom Schulleiter der aufnehmenden Schule beurteilt. Der Beurteilende erhält von jedem anderen Schulleiter, an dessen Schule der Beschäftigte innerhalb des Beurteilungszeitraumes mindestens ein Schuljahr beschäftigt war, einen Beurteilungsbeitrag.
+
+2.2
+
+Beschäftigte, die am Beurteilungsstichtag länger als zwei Jahre an andere Einrichtungen und Behörden im Bereich des Sächsischen Staatsministeriums für Kultus mit über der Hälfte ihres Beschäftigungsumfangs abgeordnet sind, werden gemäß den für diese Einrichtungen und Behörden geltenden Beurteilungsbestimmungen beurteilt. Der Beurteilende erhält von jedem anderen vorher zuständigen Beurteiler des Beschäftigten, der innerhalb des Beurteilungszeitraumes mindestens ein Schuljahr zuständig war, einen Beurteilungsbeitrag.
+
+2.3
+
+Soweit Lehrkräfte an andere Schulen oder Einrichtungen oder Behörden insgesamt mit weniger als der Hälfte oder der Hälfte ihres Beschäftigungsumfangs abgeordnet sind, verbleibt es bei der Zuständigkeit des Schulleiters der Schule, von der sie abgeordnet sind. Der Schulleiter holt Beurteilungsbeiträge ein, die in der Beurteilung zu berücksichtigen sind.
+
+2.4
+
+In allen anderen Fällen entscheidet das zuständige Regionalschulamt.
 
 VII.
 
@@ -361,19 +379,9 @@ Der örtliche Personalrat ist durch den Beurteiler über die allgemeinen Kriteri
 
 VIII.
 
-Richtwert, Beurteilungsmaßstab
-
-1.
+Richtwert
 
 Bei den Beurteilungen soll unter Berücksichtigung der Einzelfallgerechtigkeit von dem Richtwert ausgegangen werden, dass Gesamturteile von 3,0 bis einschließlich 5,0 Punkten an etwa 60 vom Hundert derselben Vergleichsgruppe vergeben werden.
-
-2.
-
-Die Festlegung der Vergleichsgruppen erfolgt durch das Staatsministerium für Kultus. Es sind möglichst große Vergleichsgruppen zu bilden, wobei nicht zwischen Beamten und Angestellten differenziert wird.
-
-3.
-
-Zur Sicherung eines einheitlichen Beurteilungsmaßstabes werden die Beurteilungen vor ihrer Eröffnung der dem Beurteiler übergeordneten Behörde vorgelegt. Bei regelmäßigen Beurteilungen und Beurteilungen, die landesweit zu einem gleichen Zeitpunkt oder Zeitraum erstellt werden, findet eine weitere Abstimmung durch das Staatsministerium für Kultus statt.
 
 IX.
 
@@ -415,7 +423,7 @@ Die bevorstehende Beurteilung schwer behinderter und ihnen gleichgestellter Lehr
 
 3.
 
-Auf Antrag des Beschäftigten nimmt ein Vertreter der zuständigen Schwerbehindertenvertretung am Mitarbeiter-Vorgesetzten-Gespräch, der Besprechung der Grundlagen der Beurteilung und an der Erörterung der Beurteilung teil.
+Auf Antrag des Beschäftigten nimmt ein Vertreter der zuständigen Schwerbehindertenvertretung an der Besprechung der Grundlagen der Beurteilung und an der Erörterung der Beurteilung teil.
 
 XII.
 
@@ -429,7 +437,7 @@ Der Stichtag für die erste regelmäßige Beurteilung nach dieser Verwaltungsvor
 
 Solange die
 Sächsische Beurteilungsverordnung nur abweichende Regelungen für die Schulleiter und stellvertretenden Schulleiter im Beamtenverhältnis zulässt, sind sonstige verbeamtete Lehrkräfte nach Maßgabe der
-Sächsische Beurteilungsverordnung zu beurteilen.
+Sächsischen Beurteilungsverordnung zu beurteilen.
 
 3.
 
@@ -457,9 +465,9 @@ Fsn-Nr.: 240-V02.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2004
+Fassung gültig ab: 26. August 2004
 
-Fassung gültig bis: 25. August 2004
+Fassung gültig bis: 29. März 2006
 
 Drucken/Speichern
 
@@ -486,7 +494,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/2913.4
+https://www.revosax.sachsen.de/vorschrift/2913.5
 Stand vom
 18.11.2026
 
