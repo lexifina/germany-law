@@ -1,4 +1,4 @@
-# TOP 4.4.: Grundstücksangelegenheiten
+# TOP 4.4.: Ankauf von Wohnblöcken an der Frauenrather Straße
 
 - Sitzung: Gemeinderat (2001-04-25)
 - Körperschaft: Gemeinde Aldenhoven
