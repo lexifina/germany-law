@@ -51,7 +51,7 @@ Inhaltsübersicht
 § 39 Allgemeine Aufsicht über Veranstalter
 § 40 Rücknahme der Zulassung
 § 41 Widerruf der Zulassung
-§ 42 Untersagung der Verbreitung oder Weiterverbreitung
+§ 42 Untersagung der Verbreitung
 § 43 Ordnungswidrigkeiten
 10. Abschnitt Datenschutz und Geheimschutz
 § 44 Datenverarbeitung zu eigenen publizistischen Zwecken
