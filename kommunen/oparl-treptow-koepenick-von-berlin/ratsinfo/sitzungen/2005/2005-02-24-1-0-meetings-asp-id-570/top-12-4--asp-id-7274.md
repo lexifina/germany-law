@@ -1,0 +1,8 @@
+# TOP 12.4: Niederflurwagen für Straßenbahn 68
+
+- Sitzung: 36. (ordentliche) Sitzung der Bezirksverordnetenversammlung (2005-02-24)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=7274
+- Ergebnis: überwiesen
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=7274
