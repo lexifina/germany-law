@@ -1,0 +1,86 @@
+# 23. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2004-05-12T17:30:00+02:00
+- Ende: 2004-05-12T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=302
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=302
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - vertagt
+- TOP 1.2: Abstimmung über die Tagesordnung - vertagt
+- TOP 1.3: Dringlichkeitsanträge - vertagt
+- TOP 1.4: Mündliche Anfrage - vertagt
+- TOP 1.4.1: Was würde Bruno Taut dazu sagen? - beantwortet
+- TOP 1.4.2: Naturnahes Grün in der Carl-Legien-Siedlung erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 1.4.3: Erhalt der Suppenküche der Heilsarmee - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Bericht des Bezirksamtes - beantwortet
+- TOP 1.6: Konsensliste - beantwortet
+- TOP 1.7: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk 5 im Bezirk Pankow - gewählt
+- TOP 1.8: Vorschlagsliste zur Wahl der ehrenamtlichen Richter beim Oberverwaltungsgericht Berlin für die Geschäftsjahre 2005 - 2008 - gewählt
+- TOP 1.9: Vorschlagsliste zur Wahl der ehrenamtlichen Richter beim Verwaltungsgericht Berlin für die Geschäftsjahre 2005 - 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Aufhebung der Mittelsperre bis 4720 / 521 10 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.11: Landschaftsplan IV - L - 3 "Gründerzeitgebiete Prenzlauer Berg" im Bezirk Pankow, Ortsteil Prenzlauer Berg - überwiesen
+- TOP 1.12: Ratskeller in Pankow erhalten! - in der BVV abgelehnt
+- TOP 1.13: Versickerung von Niederschlagswasser auf bezirkseigenen Grundstücken - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Verkehrsregelung an der Kreuzung Pankgrafenstraße / Bucher Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Ausbau der öffentlichen Infrastruktur in Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Verlängerung der Buslinie 158 bis zum S-Bhf. Prenzlauer Allee - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Illegales Kurzzeitparken in der Prenzlauer Allee auf neu geschaffenen Übergängen für den Fußverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Fassadenbegrünung - ohne Änderungen in der BVV beschlossen
+- TOP 1.18.1: Grüne Häuser im Sanierungsgebiet - in der BVV zurückgezogen
+- TOP 1.18.2: Fassadenbegrünung - in der BVV zurückgezogen
+- TOP 1.19: Hartz IV: Beteiligung der Bezirke an den künftigen Arbeitsgemeinschaften - überwiesen
+- TOP 1.20: Ordnungsämter - beantwortet
+- TOP 1.21: Soziale Ziele bei der Sanierung - beantwortet
+- TOP 1.22: Schulbezogene Sozialarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Kita-Sanierungs- und Neubauprojekte - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Ordnungsämter - überwiesen
+- TOP 1.25: Fifty/fifty ist auch nicht mehr das, was es mal war - beantwortet
+- TOP 1.26: Bauzeit Florastraße - mit Änderungen in der BVV beschlossen
+- TOP 1.27: Verlegung Bushaltestelle Blankenburger Pflasterweg (Mörderberg) - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Wanderausstellung "Faszination Licht" - in der BVV zurückgezogen
+- TOP 1.29: Mitwirkung der Bezirksverordnetenversammlung an Entscheidungen des Liegenschaftsfonds zu Grundstücksverkäufen - überwiesen
+- TOP 1.30: Paint - Ball - Halle - in der BVV zurückgezogen
+- TOP 1.31: Notwendige Berichte Verkehr - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Verkehrschaos Berliner Allee - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Überleitung von Hortplätzen an Schulen - überwiesen
+- TOP 1.34: Brückenerweiterung Bahnhof Karow - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: "Trixi-Spiegel" - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Fahrrad fahren - auch im Winter - überwiesen
+- TOP 1.37: Fußgängerüberweg am Bahnhof Karow - überwiesen
+- TOP 1.38: Sportentwicklungsplan für den Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.1: Einsatz von Fördermitteln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Beteiligung der BVV und ihrer Ausschüsse bei der Aufstellung von B-Plänen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Ein Golfplatz in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3.1: Information der Bürgerinnen über das Golfplatz-Vorhaben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Windenergie sinnvoll nutzen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Einrichtung zeitlich befristeter Parkmöglichkeit, Walter-Friedrich-Str., 13125 Berlin-Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Fahrradstellplätze auf der Blankenburger Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Gedenkzeichen Bezirksamtsgelände Fröbelstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Fahrradroute vom Caligariplatz in den Landschsftspark Barnim - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Milchhäuschen Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Schulwegsicherheit vor der 13. Grundschule in Wilhelmsruh/Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Schulentwicklungsplanung im Bereich Oberschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Anbringung von Pollern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Verkehrsberuhigung in der Cantianstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Sitzmöbel an BVG - Haltestelle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Dezentrale Mieterbetreuung bei der GESOBAU AG erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Verkehrslösung für Französisch Buchholz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Internetpräsenz des Bezirks - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Erhalt des "Alten Waschhauses" und des Schülertreffs Rennbahnstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Verwaltung der Anlagen "Frohsinn" im Ortsteil Blankenfelde und "Nordend" im Ortsteil Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Landschaftsplan IV - L - 3 "Gründerzeitgebiete Prenzlauer Berg" - Ergebnis der Auswertung und Abwägung der öffentlichen Auslegung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Übertragung der Kindertagesstätte Cunistraße 34, 13127, an den freien Träger der Jugendhilfe "Kinder im Kietz GmbH", Kopernikusstraße 23, 10245 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Übertragung der Kindertagesstätte Wiesenwinkel 17, 13158 Berlin, an den freien Träger der Jugendhilfe "Bürgerhaus e. V.", Berliner Str. 24, 13127 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Übertragung der Kindertagesstätte Röländer Str. 46, 13135 Berlin, an den freien Träger der Jugendhilfe "Pfefferwerk Stadtkultur gGmbH", Fehrbelliner Straße 92, 10119 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Fortschreibung der Schulentwicklungs-/Schulnetzplanung, Teil Oberschulen, des Bezirks Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Personalsituation im LuV Soziales - mit Abschlussbericht zur Kenntnis genommen
