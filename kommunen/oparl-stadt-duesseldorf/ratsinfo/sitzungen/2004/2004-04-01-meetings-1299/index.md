@@ -1,0 +1,51 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-04-01T16:00:00+02:00
+- Ende: 2004-04-01T18:40:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1299
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1299
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111230.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111230.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111230.pdf
+
+## Tagesordnung
+
+- TOP 1: Öffentliche Sitzung
+- TOP 2: Beschlussfähigkeit
+- TOP 3: Anerkennung Tagesordnung
+- TOP 4: Genehmigung der Niederschriften - einstimmig beschlossen
+- TOP 5: Anfragen
+- TOP 6: RF Jäger Christopher Street Day - zur Kenntnis genommen
+- TOP 7: Erschließung Medienhafen - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 9: B-Plan Gatzweiler-Gelände/SPD - mehrheitlich abgelehnt
+- TOP 10: Bericht:Konzeption zur Eindämmung v. Graffities - einstimmig beschlossen
+- TOP 11: Mitteilungen
+- TOP 12: Verkehrsbericht 2003 - zur Kenntnis genommen
+- TOP 13: Ordnungs- und Servicedienst -Jahresbericht 2003- - zur Kenntnis genommen
+- TOP 14: Verwaltungsvorlagen
+- TOP 15: Worringer Platz - einstimmig beschlossen
+- TOP 16: Krefelder Straße - einstimmig beschlossen
+- TOP 17: Graf-Recke-Straße - einstimmig beschlossen
+- TOP 18: Prioritätenliste Straßeninstandsetzung - zur Kenntnis genommen
+- TOP 19: Niederrheinstraße - einstimmig beschlossen
+- TOP 20: Brandschutz Rheinufertunnel - einstimmig beschlossen
+- TOP 21: Treppe Ellerstr. - einstimmig beschlossen
+- TOP 22: Veranstaltungen Burgplatz - einstimmig beschlossen
+- TOP 23: Gebühren für Handwerker - einstimmig beschlossen
+- TOP 24: OSD Doppelstreife - einstimmig beschlossen
+- TOP 25: Sonntagsfreigaben - mehrheitlich beschlossen
+- TOP 26: BPl5379/56Sky-Office Aufst..öffAusl - einstimmig beschlossen
+- TOP 27: B-Plan Nr. 5178/54 - Gatzweiler Gelände - mehrheitlich beschlossen
+- TOP 28: FNPÄ72Gatzweiler AufstBerichte BürgerTrägeröffAusl - einstimmig beschlossen
+- TOP 29: B-Plan Nr. 5977/049 - Am Quellenbusch - - einstimmig beschlossen
+- TOP 30: Kenntnisgaben zu weiteren B-Plan-Verfahren
+- TOP 31: B-Plan Nr. 5477/122 - Kö-Bogen - Änderung Aufstell - zur Kenntnis genommen
+- TOP 32: Bebauungsplan-Vorentwurf Nr. 5477/123 - Kö-Bogen - zur Kenntnis genommen
+- TOP 33: Förderung Fahrradverkehrs - zur Kenntnis genommen
+- TOP 34: Verschiedenes
