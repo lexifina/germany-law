@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 1993-06-23 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/bildung_amt_altlandsberg
+- Datum: 1993-07-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/beflaggung_1993
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -27,30 +27,34 @@ A |
 
 Aktuelle Fassung
 
-Bildung des Amtes Altlandsberg
+Regelung zur Beflaggung der Dienstboote des Polizeipräsidiums der Wasserschutzpolizei des Landes Brandenburg
 
-vom 23. Juni 1993
+vom 24. Juni 1993
 
-(ABl./93, [Nr. 62], S.1288)
+(ABl./93, [Nr. 65], S.1306)
 
-Der Minister des Innern hat seine Zustimmung zu den Be­schlüssen über die Bildung des folgenden Amtes erteilt:
+Aufgrund des § 1 Absatz 1 Nummer 6 in Verbindung mit § 4 der Verordnung über die Führung des Landeswappens vom 30. Mai 1991 (GVBl. S. 348) wird durch den Minister des Innern bestimmt:
 
-Amt Altlandsberg mit Sitz in der Stadt Altlandsberg, beste­hend aus den Gemeinden:
+Dienstboote der Wasserschutzpolizei des Landes Brandenburg führen
 
-Buchholz
 
-Bruchmühle
+am Heck die Flagge der Bundesrepublik Deutschland,
 
-Gielsdorf
+in der Gösch die Landesflagge als Wimpel.
 
-Wegendorf
+Die Abmessungen der Landesflagge in Wimpelform betragen für Boote
 
-Wesendahl
 
-Altlandsberg
+bis 10 Meter Länge:
 
-Alle Gemeinden und das Amt liegen im Kreis Strausberg.
+eine Breite von 21 cm, Länge 40 cm, Wappenmitte 10 cm vom stehenden Liek, Wappenhöhe 8 cm (Muster 1),
 
-Gem. § 48 Abs. 1 des Verwaltungsverfahrensgesetzes für das Land Brandenburg - VwVfGBbg - vom 26.2.1993 (GVBl. I Bbg S. 26) wird der Erlaß des Ministers des Innern über die Bildung des Amtes Niederbarnim-Süd vom 29.5.1992 (Amts­blatt für Brandenburg 1992 S. 950) mit Wirkung für die Zu­kunft zurückgenommen.
+über 10 Meter Länge:
 
-In Anwendung von § 6 Satz 2 der Verordnung über das Ver­fahren bei der erstmaligen Bildung sowie bei der Änderung und bei der Auflösung von Ämtern im Land Brandenburg vom 13.1.1992 (GVBl. Bbg II S. 22) wurde der 23.6.1993 als Zeit­punkt sowohl für das Zustandekommen des Amtes Alt­lands­berg als auch für die Rücknahme des Erlasses über die Bil­dung des Amtes Nieder­barnim-Süd vom 29.5.1992 festge­legt. Dieser Zeitpunkt wird hiermit bekannt­gemacht.
+eine Breite von 33 cm, Länge 60 cm, Wappenmitte 15 cm vom stehenden Liek, Wappenhöhe 13 cm (Muster 2).
+
+Die Flaggenführung richtet sich nach § 14 Flaggenrechtsgesetz.
+
+Diese Regelung tritt am 1. Juli 1993 in Kraft.
+
+Anmerkung: Die Anlage wurde nicht aufgenommen.
