@@ -1,0 +1,108 @@
+# 14. Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2003-02-12T17:00:00+01:00
+- Ende: 2003-02-12T22:20:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=279
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=279
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Dringlichkeitsanträge - zur Kenntnis genommen
+- TOP 2.1: (nichtöffentlich) - überwiesen
+- TOP 2.2: (nichtöffentlich) - überwiesen
+- TOP 2.3: (nichtöffentlich) - in der BVV abgelehnt
+- TOP 3: Konsensliste - im Ausschuss abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Feststellungen - (offen)
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretende Bürgerdeputierte gem. § 25 BezVG - erledigt
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Unterstützung der Aktion "Gemeinsam gegen Männer-Gewalt" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Waldweg Poloplatz Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Keine Aufforstung der abgeholzten Flächen in der Jungfernheide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Raumordnungsverfahren für die geplante MVA Hennigsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Schulwegsicherung in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Bewegungsfreudige Kita - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Rundweg um den Poloplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.9: Poloplatzumrundung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.10: Beschluss der Stadtverordnetenversammlung Hennigsdorf zum Standort der MVA Hennigsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.11: Wanderausstellung "Berlin - eine fußgängerfreundliche Metropole" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.12: Poloplatz jetzt öffnen ! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.13: Konsequentes Rauchverbot in Kitas - in der BVV zurückgezogen
+- TOP 6.14: Kein Verkauf des Poloplatzes in Frohnau durch den Liegenschaftsfonds - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.15: Verhandlungen zum Verkauf des Poloplatzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.16: Erfahrungsbericht des Patientenfürsprechers im Krankenhaus Reinickendorf - ö.B. KBoN - Krankenhaus des Maßregelvollzuges Berlin (KMV) für den Zeitraum Juni 2001 bis Dezember 2002 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.17: Erfahrungsbericht der Patientenfürsprecherin des Dominikus-Krankenhauses für das Jahr 2002 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.18: Bebauungsplanentwürfe XX-B 25 a-w - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Fremdunterbringung von Kindern und Jugendlichen / Koalitionsvereinbarungen - beantwortet
+- TOP 7.2: Behindertenbeauftragte/Behindertenbeauftragter des Bezirkes - beantwortet
+- TOP 7.3: Hortplätze in der Renée-Sintenis-Schule in Frohnau - beantwortet
+- TOP 7.4: Konsequenzen aus Erhöhung der Verzinsung von Wohnungsbaudarlehen für Wohnungsämter - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Sicherer Fußgängerüberweg zur Post am Zeltinger Platz in Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Schwarzarbeit bei Bautätigkeiten - erledigt
+- TOP 8.3: Bessere Abfallentsorgung - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Musikschule - erledigt
+- TOP 8.5: Besserer Verkehrsfluss im Bereich Wittestraße / Eichborndamm - erledigt
+- TOP 8.6: Auflistung zu ehrender Personen - vertagt
+- TOP 8.7: Verstärkte Kontrollen auf dem Uferweg Borsigdamm - ohne Änderungen in der BVV beschlossen
+- TOP 8.8: Ausreichende Schulwegbeleuchtung für die Grundschule am Schäfersee - erledigt
+- TOP 8.9: Westanbindung des ABB-Geländes - vertagt
+- TOP 8.10: Musikschule - ohne Änderungen in der BVV beschlossen
+- TOP 8.11: Neue Aktivitäten des Bezirksamtes für eine Gestaltung der Insel im Tegeler Hafen - vertagt
+- TOP 8.12: Unfallschwerpunkt entschärfen - ohne Änderungen in der BVV beschlossen
+- TOP 8.13: Gehwegparken in der Ruppiner Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 8.14: Straßenfest in der Gorkistraße - vertagt
+- TOP 8.15: Fortbildung im Bereich Musik, Kunst und Kindertanz - in der BVV abgelehnt
+- TOP 8.16: Entwurf des Bebauungsplanes XX-250 - ohne Änderungen in der BVV beschlossen
+- TOP 8.17: Illegale Nutzung des Straßenlandes konsequent verfolgen - ohne Änderungen in der BVV beschlossen
+- TOP 8.18: Bewerbungstraining an der VHS - ohne Änderungen in der BVV beschlossen
+- TOP 8.19: Sicherung des alten Gebäudes des S-Bahnhofs Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 8.20: Nutzungskonzept für das ehemalige "Senats-Reservelager" in der Namslaustraße in Tegel-Süd - erledigt
+- TOP 8.21: Endlich die notwendigen Ampeln in der Provinzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 8.22: Synchronisierung der Anmeldefristen für Schule und Hort - ohne Änderungen in der BVV beschlossen
+- TOP 8.23: "Soziales Lernen" in weiteren Schulen Reinickendorfs - ohne Änderungen in der BVV beschlossen
+- TOP 8.24: Ansehen bewahren, Regeln für den Sitzungsablauf der Bezirksverordnetenversammlung aufstellen - erledigt
+- TOP 8.25: Kurzparkzone in der Welfenallee - ohne Änderungen in der BVV beschlossen
+- TOP 8.26: Halteverbot am Robinienweg - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Bezirksverordnetenversammlung fordert Kiezbus in Hermsdorf - überwiesen
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Wohnungsbauförderung - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: 50 Jahre 17. Juni 1953 - vertagt
+- TOP 10.3: Französische Sprache "unters Volk" bringen - überwiesen
+- TOP 10.4: Offensive für den Mittelstand - überwiesen
+- TOP 10.5: Standorte für neue Ganztagsschulen - überwiesen
+- TOP 10.6: Aktion "Schüler entlarven Stromfresser" mit Reinickendorfer Schulen durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Beibehaltung von Qualitätsstandards bei Übertragung von Kindertagesstätten an freie Träger - überwiesen
+- TOP 10.8: Reinickendorfer Jugendpolitik hat Priorität - Kita-Beköstigung Gesamtaufgabe des Bezirksamtes - überwiesen
+- TOP 10.9: Verunreinigungen des Erdreichs am Interessentenweg nachgehen - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Freigabe der Investitionsmittel 2003 - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Erhalt des Telebusses - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Eigenverantwortung von Jugendlichen stärken - Zahlungsverkehr selbst verwalten lernen - überwiesen
+- TOP 11.4: Sicherung der stationären psychiatrischen Versorgungsstruktur in Berlin - überwiesen
+- TOP 11.5: Vermeidung von Unterrichtsausfall in den Grundschulen während der Durchführung der Sprachstandserhebung - überwiesen
+- TOP 11.6: Erhalt des Standortes Wiesengrund für die Kinder- und Jugendpsychiatrie - überwiesen
+- TOP 11.7: Keine Erhöhung der Kita-Gebühren - vertagt
+- TOP 11.8: Geschwindigkeitsbegrenzung vor dem Haupteingang zur Jugendfarm Lübars in der Quickborner Straße - überwiesen
+- TOP 11.9: Erkennen und Förderung von Kindern mit speziellem Betreuungsbedarf - überwiesen
+- TOP 11.10: Instandsetzung der Wegweisung zu den S-Bahnhöfen Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Fortsetzung des Schul- und Sportstättensanierungsprogramms - vertagt
+- TOP 11.12: Wettbewerb "Jugend-Software 2003" - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Europäische Schülerwettbewerbe - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Videoüberwachung auf S- und U-Bahnhöfen - vertagt
+- TOP 11.15: Pünktlichkeit der Buslinie 120 - überwiesen
+- TOP 12: Poloplatz Frohnau - beantwortet
+- TOP 13: Kältehilfe unterstützen - mit Änderungen in der BVV beschlossen
+- TOP 14: Aufgabenstellung der BVV und ihrer Mitglieder - überwiesen
+- TOP 15: Unterstützung des Prignitzer Appells - in der BVV zurückgezogen
+- TOP 16: Frühzeitige Beteiligung der Bezirksverordnetenversammlung bei Haushaltsplanaufstellung sicherstellen - überwiesen
+- TOP 17: "Sendemast-Park" in Lübars verhindern - überwiesen
