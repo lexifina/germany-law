@@ -1,11 +1,13 @@
-Anlage 1 (zu § 5 Abs. 1 Satz 3, Abs. 3 Satz 2, § 7 Abs. 1 Satz 2)
+## § 15 Übergangsregelungen
+## § 16 In-Kraft-Treten, Außer-Kraft-Treten
+# Anlage 1 (zu § 5 Abs. 1 Satz 3, Abs. 3 Satz 2, § 7 Abs. 1 Satz 2)
 Anlage 1
-Kurort | Kurtaxe
+Kurtaxe | Betrag
 Bad Elster
 Kurtaxe | EUR
 Kurzone I | 2,20
 Kurzone II | 1,10
-Eräßigte Kurtaxe
+Ermäßigte Kurtaxe
 Kurzone I | 2,00
 Kurzone II | 0,90
 Jahreskurtaxe | 80,00
