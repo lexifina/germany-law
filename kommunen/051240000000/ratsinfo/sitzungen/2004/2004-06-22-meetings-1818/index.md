@@ -1,0 +1,52 @@
+# öffentliche Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2004-06-22T16:00:00+02:00
+- Ende: 2004-06-22T18:21:00+02:00
+- Ort: Verwaltungshaus Elberfeld, Neumarkt 10, Raum 302 (Sitzungssaal)
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/13
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1818
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1818
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00036817.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00038655.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Niederschrift über die Sitzung des Jugendhilfeausschusses am 27.04.04
+- TOP 2: Anliegen der Bezirksjugendräte
+- TOP 3: Vorstellung der Aktion Kindertal - Kenntnis genommen
+- TOP 4: Verleih- und Nutzungsordnung für das Medienzentrum
+- TOP 4.1: Verleih- und Nutzungsordnung für das Medienzentrum der Stadt Wuppertal rückgängig machen - abgelehnt
+- TOP 4.2: Drs. VO/2502/04, Änderung der Verleih- und Nutzungsordnung für das Medienzentrum der Stadt Wuppertal - geändert beschlossen
+- TOP 4.3: Änderung der Verleih- und Nutzungsordnung für das Medienzentrum der Stadt Wuppertal - Kenntnis genommen
+- TOP 5: Bürgerantrag nach § 24 GO NRW zur Verabschiedung eines Kinder- und Jugendfördergesetzes - Entgegennahme ohne Beschluss
+- TOP 5.1: Bürgeranträge nach § 24 GO NW zur Verabschiedung eines Kinder- und Jugendfördergesetzes in NRW - zur Vorberatung verwiesen
+- TOP 6: Von der Offenen Ganztagsgrundschule zur Ganztagsschule - abgelehnt
+- TOP 7: Einrichtung von Betreuungsangeboten für Kinder unter 2 Jahre - zurückgestellt
+- TOP 8: Familie in Wuppertal- Familienclub - ungeändert beschlossen
+- TOP 9: Kinder-, jugend- und familienfreundliche Stadt
+- TOP 10: Wuppertaler Bündnis für Familien - ungeändert beschlossen
+- TOP 11: Umwandlung von Gruppen - ungeändert beschlossen
+- TOP 12: Managementprogramm der Stadt Wuppertal
+- TOP 12.1: Managementprogramm 2004/2005 der Stadt Wuppertal - Kenntnis genommen
+- TOP 12.2: Änderungsantrag Managementprogramm 2004/2005 der Stadt Wuppertal - abgelehnt
+- TOP 12.3: Managementprogramm "Innenstadtentwicklung" - Nichtbefassung beschlossen
+- TOP 13: Umsetzung Hartz IV - ungeändert beschlossen
+- TOP 14: Aufstellung der Vorschlagslisten für die Wahl der Jugendschöffen für die Amtszeit 2005 - 2008 - ungeändert beschlossen
+- TOP 15: Berichte
+- TOP 15.1: Verlagerung der Jugendverkehrsschulen Ost und West zur Skaterhalle Wicked Woods
+- TOP 15.1.1: Sachstandsbericht zur Verlagerung der Jugendverkehrsschulen Ost u. West zur Skaterhalle Wicked Wood - Entgegennahme ohne Beschluss
+- TOP 15.2: Öffnung von Schulhöfen - Entgegennahme ohne Beschluss
+- TOP 15.3: Zigarettenautomat in der Nähe des Carl-Duisberg-Gymnasiums - Entgegennahme ohne Beschluss
+- TOP 15.4: Zwischenbericht Regionaleprojekt 2006 Haus der Jugend Barmen
+- TOP 15.5: Ausstattung von Spielplätzen - Kenntnis genommen
+- TOP 15.5.1: Antwort der Verwaltung zur Ausstattung von Spielplätzen - Entgegennahme ohne Beschluss
+- TOP 15.6: Unterbringung von Kindern und Jugendlichen im Rahmen der Hilfe zur Erziehung (regional/überregional)
+- TOP 15.7: Projekt "Alles unter 1 Dach" im Jugend- u. Begegnungszentrum Alte Feuerwache Gathe des Nachbarschaft - eingebracht
+- TOP 15.8: Projekt DIA-TRAIN für benachteiligte Jugendliche - eingebracht
+- TOP 15.9: Reduzierung des Betreuungsangebotes in einer Tageseinrichtg. f. Kinder des Kirchenkreises Barmen - Entgegennahme ohne Beschluss
+- TOP 15.10: Info-Stelle für Eltern von Kindern und Jugendlichen mit Behinderungen - Entgegennahme ohne Beschluss
+- TOP 16: Wünsche und Anregungen
+- TOP 17: Resolution des Jugendhilfeausschusses zum Wegfall von Landesmitteln für die Jugendarbeit
