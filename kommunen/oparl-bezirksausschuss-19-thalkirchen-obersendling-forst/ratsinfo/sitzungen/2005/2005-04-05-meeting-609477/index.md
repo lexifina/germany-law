@@ -1,0 +1,73 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2005-04-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/609477
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/609477
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Anträge
+- TOP 2.1.: Verschmutzung Hermann-Hahn-Platz
+- TOP 3: Unterauschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Umwelt 1. Vergrämung von Kormoran und Gänsesäger an der Isar
+- TOP 5: Unterauschuss Verkehr
+- TOP 5.1.: Anliegerverkehr Beuerberger- /Bichler Str.
+- TOP 5.2.: Kurzparkplatz vor der Kindertagesstätte Neunkirchner Str.
+- TOP 5.3.: Gefahrensituation TG-Ausfahrt Boschetsrieder Str. 51
+- TOP 5.4.: Radweg Wolfratshauser Str. stadteinwärts
+- TOP 5.5.: Verkehrssicherheit Samberger Schule
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Drygalski-Allee 31
+- TOP 6.2.: Argelsrieder Str. 15
+- TOP 6.3.: Boschetsrieder Str. 54
+- TOP 6.4.: Becker-Gundahl-Str. 11
+- TOP 6.5.: Aidenbachstr. 46b
+- TOP 6.6.: Münchner Str. 2
+- TOP 6.7.: Zielstattstr. 71
+- TOP 6.8.: Hofmannstr. 51
+- TOP 6.9.: Frans-Hals-Str. 6
+- TOP 6.10.: Filchnerstr. FlNr. 222/0
+- TOP 6.11.: Limmatstr. 8
+- TOP 6.12.: Reismühlenstr. 13
+- TOP 6.13.: Memlingstr. 13
+- TOP 6.14.: Zielstattstr. 57
+- TOP 6.15.: Kirchweg 3
+- TOP 6.16.: Allescherstr. 16
+- TOP 6.17.: Zeismeringer Str. 22
+- TOP 6.18.: Kurzbauerstr. 2a
+- TOP 6.19.: Herterichstr. 10
+- TOP 6.20.: Herterichstr. 169
+- TOP 6.21.: Pullach Bebauungsplan Nr.29 Amper-Einkaufszentrum
+- TOP 6.22.: Neuried Bebauungsplan Nr. 32 Zugspitzstr. südlich
+- TOP 6.23.: Pössenbacher str. 10
+- TOP 6.24.: Siemens-Parkplatz Tölzer Straße
+- TOP 6.25.: BPl. Neuried (Ortsmitte)
+- TOP 6.26.: Siemens-City
+- TOP 7: Entscheidungsfälle
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Bündnis für Demokratie und Toleranz gegen Gewalt und Extremismus
+- TOP 8.2.: Münchner Blade Night 2005
+- TOP 8.3.: Zweckentfremdung Spindlerstr. 6
+- TOP 8.4.: Zweckentfremdung Geisenbrunner Str. 58, 58a + b
+- TOP 8.5.: Freischankfläche Fox Coffee Shop
+- TOP 8.6.: Sommerfest an der Herterichstraße v. Kindergarten Rudolf-Wilke-Weg
+- TOP 8.7.: "Isarschwimmen 2005"
+- TOP 8.8.: Maibaumfest Alter Wirt Thalkirchen
+- TOP 8.9.: Straßenfest Walliser Straße
+- TOP 8.10.: Kanutriathlon
+- TOP 8.11.: Straßensanierung Kreppeberg
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
