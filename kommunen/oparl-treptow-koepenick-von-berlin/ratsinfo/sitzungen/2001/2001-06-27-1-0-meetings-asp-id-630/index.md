@@ -1,0 +1,72 @@
+# 11. (öfftl.) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2001-06-27T16:00:00+02:00
+- Ende: 2001-06-27T22:05:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=630
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=630
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2: Informationen des Vorstehers - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. 06/01 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 8: Moosstraße 5 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Anneliese Bräuer)</span> - schriftlich beantwortet
+- TOP 9: Sondermittel für Collage e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 10: Sondermittel für Bürgerverein Wendenschloß-Kietzer Feld-Gartenvorstadt e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 11: Sondermittel für den Diakoniekreis Kietzer Feld im Haus der Begegnung - ohne Änderungen in der BVV beschlossen
+- TOP 12: Sondermittel für Volkssport Gemeinschaft Altglienicke e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 13: Sondermittel für Bürgerverein Wilhelmshagen e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Sondermittel für BSV Akademie der Wissenschaften e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15: Sondermittel für Philippe Cousteau Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 16: Sondermittel für Berliner Sportverein Akademie der Wissenschaften - Abteilung Radsport - ohne Änderungen in der BVV beschlossen
+- TOP 17: Sondermittel für Polizeisportverein Olympia Berlin e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 18: Sondermittel für Treptower Teufel Tennis Club e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 19: Sondermittel für die Volkssolidarität Treptow/Köpenick e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 20: Sondermittel für Selbsthilfegruppe Multiple Sklerose Berlin-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 21: Wiedererrichtung des Sportdenkmals in Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 22: Europaweiter autofreier Tag <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Elke Werner)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 23: Köpenicker Sommer <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Elke Werner)</span> - in der BVV zurückgezogen
+- TOP 24: Benennung von 4 durch Autobahn und Bahnlinie geteilte Straßen in Berlin-Bohnsdorf und Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauUm)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 25: Querungshilfen für Fußgänger - überwiesen
+- TOP 26: Bebauungsplanentwurf XV-20 hier: Inhaltliche Planänderungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauUm)</span> - überwiesen
+- TOP 27: "Mellow-Park" an der Friedrichshagener Straße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Thomas Krause)</span> - gegenstandslos
+- TOP 28: Fortführung "Mellow-Park" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Klaus Chinea Correa)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 29: "Mellow-Park" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ulrich Stahr)</span> - gegenstandslos
+- TOP 30: Finanzmittel für Lokale Agenda
+- TOP 31: Kaufhallengebäude Allende Viertel II <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Thomas Krause)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 32: Gedenken an die Opfer der SED-Diktatur <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margret Radebold)</span> - mit Änderungen in der BVV beschlossen
+- TOP 33: Verkehrssicherheit Straße An der Wuhlheide zurückgezogen - überwiesen
+- TOP 34: Konzept für Jugendarbeit in Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Elke Werner Verfasser 2: Brigitte Gelbke)</span> - überwiesen
+- TOP 35: Ergänzung der bezirklichen Stellungnahme zum Planfeststellungsverfahren Flughafen - überwiesen
+- TOP 36: Fortführung Umgestaltung Platz des 23. April <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Klaus Wittig)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 37: Bekanntmachung der BVV- und Ausschusssitzungen im Rathaus Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wolfgang Grasenick)</span> - in der BVV zurückgezogen
+- TOP 38: Mobilfunk-Sendeanlagen - überwiesen
+- TOP 39: Der Großflughafen BBI und die wirtschaftliche Entwicklung des Bezirks - Chancen und Risiken <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ernst Welters)</span> - in der BVV abgelehnt
+- TOP 40: Bus- und Straßenbahnspur Dammbrücke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margret Radebold)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 41: Konzeption zur Entwicklung des Bezirks Treptow-Köpenick im Hinblick auf die Auswirkungen des vorgesehenen Flughafens Berlin-Brandenburg-International (BBI) <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margit Görsch)</span> - überwiesen
+- TOP 42: Europäische Förderprogramme - überwiesen
+- TOP 43: Straßenbenennung im Baugebiet Hessenwinkel-West
+- TOP 44: Unabhängige Verkehrsprognose und Datengrundlage für die Lärmgutachten <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ralf Henze)</span> - überwiesen
+- TOP 45: Abfallbehälter im Bezirk <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Christina Lindenberg)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 46: Finanzielle Entlastung durch Partnerschaft <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - mit Änderungen in der BVV beschlossen
+- TOP 47: Rathausuhr Johannisthal <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - vertagt
+- TOP 48: Ratssaal im Rathaus Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Reinhard Mühle)</span> - in der BVV zurückgezogen
+- TOP 49: Straßenbenennung Straße 87 (Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 50: "Was man nicht kennt, macht Angst; Angst und Unverständnis aber erzeugen Gewalt" - in der BVV zurückgezogen
+- TOP 51: Säuberung des Uferrandes der Badestelle "Ablage" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Erika Ising)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 52: Neubau der Schienenanbindung zum Tanklager des Flughafens Schönefeld <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Thomas Krause)</span> - vertagt
+- TOP 53: Umsetzung des Artikels 11 der Verfassung von Berlin im Bezirk Treptow-Köpenick - vertagt
+- TOP 54: Bezirkliche Grundstücke für den Berliner Liegenschaftsfonds - vertagt
+- TOP 55: S-Bahnhof Adlershof <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Barbara Nowak)</span> - vertagt
+- TOP 56: Näherrückende Autobahn <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - vertagt
+- TOP 57: Straßenbahn <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Barbara Nowak)</span> - vertagt
+- TOP 58: Information der BVV über die Auswirkungen des neuen Flugsicherungsverfahrens zur Lärmbelastung im Bezirk Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ralf Henze)</span> - vertagt
