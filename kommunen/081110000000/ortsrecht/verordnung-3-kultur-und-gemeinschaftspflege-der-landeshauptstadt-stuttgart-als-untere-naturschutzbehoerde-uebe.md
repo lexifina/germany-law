@@ -1,152 +1,182 @@
-# Verordnung 3 Kultur- und Gemeinschaftspflege der Landeshauptstadt Stuttgart als untere Naturschutzbehörde über das
+# Verordnung 3 Kultur- und Gemeinschaftspflege der Landeshauptstadt Stuttgart als untere Naturschutzbehörde über das Landschaftsschutzgebiet
 
 - Gemeinde: Landeshauptstadt Stuttgart (ARS 081110000000)
-- Datum: 1987-11-26 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stuttgart.de/medien/ibs/3-2a.pdf
+- Datum: 1999-01-21 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stuttgart.de/medien/ibs/3-2d.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-3/2 a
+3/2 d
 Verordnung
 
 3 Kultur- und
 Gemeinschaftspflege
 
-der Landeshauptstadt Stuttgart als untere Naturschutzbehörde über das
-Landschaftsschutzgebiet 15n „Zuckerberg - Muckensturm“ auf den Gemarkungen Bad Cannstatt
-und Hofen Vom 12. Oktober 1987 1)
+der Landeshauptstadt Stuttgart als untere Naturschutzbehörde über das Landschaftsschutzgebiet
+”Dornhalde - Haldenwald” auf den Gemarkungen Möhringen und Stuttgart
 
-Bekannt gemacht im Amtsblatt der Stadt Stuttgart Nr. 48 vom 26. November 1987
-Aufgrund von § 22, § 58 Abs. 3 und § 64 Abs. 1 Nr. 2 des Gesetzes zum Schutz der Natur, zur Pflege der Landschaft und über die Erholungsvorsorge in der freien Landschaft (Naturschutzgesetz - NatSchG) vom 21. Oktober 1975 (GBl. S. 654), geändert durch das Gesetz zur Bereinigung des badenwürttembergischen Ordnungswidrigkeitenrechts vom 6. Juni 1983 (GBl. S. 199), wird mit Zustimmung des Regierungspräsidiums Stuttgart als höhere Naturschutzbehörde verordnet:
-§1 Erklärung zum Schutzgebiet
+Vom 23./29. Dezember 1998
 
-Die in § 2 näher bezeichneten Flächen auf dem Gebiet der Gemarkung Bad Cannstatt und Hofen werden zum Landschaftsschutzgebiet erklärt. Das Landschaftsschutzgebiet führt die Bezeichnung Nr. 15n „Zuckerberg - Muckensturm“.
+Bekannt gemacht im Amtsblatt der Stadt Stuttgart Nr. 3 vom 21. Januar 1999
+
+Aufgrund von §§ 22, 58 Abs. 3 und 64 Abs. 1 Nr. 2 des Gesetzes zum Schutz der Natur, zur Pflege der Landschaft und über die Erholungsvorsorge in der freien Landschaft (Naturschutzgesetz - NatSchG) in der Fassung der Bekanntmachung vom 29. März 1995 (GBl. S. 385) wird hiermit verordnet:
+Allgemeine Vorschriften §1
+Erklärung zum Schutzgebiet
+Die in § 2 näher bezeichneten Flächen auf dem Gebiet des Stadtkreises Stuttgart Gemarkungen Möhringen und Stuttgart (mit Flur Degerloch) werden zum Landschaftsschutzgebiet erklärt. Das Landschaftsschutzgebiet führt die Bezeichnung ”Dornhalde - Haldenwald”.
 §2 Schutzgegenstand
+(1) Das Landschaftsschutzgebiet hat eine Größe von rund 70 ha.
+(2) Das Schutzgebiet umfasst im Wesentlichen folgende Landschaftsteile:
+a) die Gewanne ”Dornhalde” und ”Kressart” in Möhringen-Sonnenberg, b) die ”Schwälblesklinge” und das Gewann ”Kohlhau” in Möhringen-
+Sonnenberg, c) den ”Kohlbach” mit Gartengrundstücken im Gewann ”Schloßwaldäcker” in
+Stuttgart-Kaltental, d) den ”Haldenwald” in Möhringen-Sonnenberg.
 
-(1) Das Schutzgebiet erstreckt sich über die Gewanne „Vordere, Mittlere und Hintere Wohlfahrt; Halden; Zuckerberg; Kreistel; Steinhalden und Muckensturm“ und hat eine Größe von ca. 54 ha.
-(2) Das Schutzgebiet umfaßt nach dem Stand vom September 1987 im wesentlichen folgende Landschaftsteile:
-1. landwirtschaftlich und gärtnerisch genutzte Flächen zwischen Wagrainstraße und den Ortsrändern von Hofen und Steinhaldenfeld,
-2. Weinberge zwischen Neckar und südlichem Ortsrand von Steinhaldenfeld,
-1) Zuletzt geändert am 22. Dezember 2005 (Amtsblatt Nr. 3 vom 19. Januar 2006)
-
-Stuttgarter Stadtrecht 9. Erg.-Lfg. (August 2006)
+Stuttgarter Stadtrecht 3. Erg.-Lfg. (August 2000)
 
 1
 
-3/2 a
+3/2 d
 
-Verordnung über das Landschaftsschutzgebiet 15n
+Verordnung über das Landschaftsschutzgebiet ”Dornhalde - Haldenwald”
 
-3. Weinberge und gärtnerisch genutzte Flächen zwischen Neckar Hauptfriedhof,
-4. Weinberge zwischen dem Zuckerleweg und der Siedlung Muckensturm.
+(3) Das Schutzgebiet umfasst die nachfolgend aufgeführten Gewanne ganz oder teilweise:
+”Haldenwald”, ”Schloßwaldäcker”, ”Kohlhau”, ”Kressart” und ”Dornhalde”.
 
-(3) Das Schutzgebiet wird im wesentlichen begrenzt:
-Im Norden durch den Hopfenseeweg, den Feldweg Flst. 728, den Kochelseeweg, den Feldweg Flst. 1877/1, die nördliche Grenze des Flst. 1888/1, die Teilfläche des Flst. 1761, die Zuckerbergstraße, die östlichen Grenzen des Flst. Zuckerbergstraße 80 und Flst. 7010/1, den Feldweg Flst. 7026, entlang der nördlichen Grenzen der Flst. 7021/1, 7022, 7023, 7024, 7025, mittig durch das Flst. Zuckerbergstraße 102, die nördliche Grenze des Flst. 7068, die westliche Grenze des Flst. 7066, den Feldweg Flst. 7028, die nördlichen Grenzen der Flst. 7050 und 7047 mit gerader Verlängerung dieser Grenze (durch das Flst. 7045) bis an die Steinhaldenstraße.
-Im Osten durch die Steinhaldenstraße, entlang der nördlichen Grenze des Flst. 7137, den Feldweg Flst. 6885, die östliche Grenze des Flst. 6880, die nördliche Grenze des Flst. 6878, den Feldweg Flst. 6769, entlang der Einsteinstraße, die Feldwege Flst. 6733 und 6732, die nördliche und östliche Grenze des Flst. 6805, entlang der Steinhaldenstraße und Schmidener Straße, entlang dem Flst. Schmidener Straße 193, entlang des unteren Teiles der Staffelverbindung zwischen Schmidener Straße und der Siedlung Muckensturm.
+(4) Die Grenzen des Landschaftsschutzgebietes sind in einer Übersichtskarte des Stadtmessungsamtes vom 15. Januar 1997 im Maßstab 1 : 20 000 mit durchgezogener grüner Linie sowie in einer Stadtkarte des Stadtmessungsamtes vom 28. Oktober 1998 im Maßstab 1 : 2 500 mit durchgezogener grüner Linie eingetragen. Die Karten sind Bestandteil dieser Verordnung. Die Verordnung mit Karten wird beim Amt für Umweltschutz der Landeshauptstadt Stuttgart - untere Naturschutzbehörde - während der Dienststunden zur kostenlosen Einsicht durch jedermann niedergelegt.
 
-Im Süden durch den Zuckerleweg, den Feldweg Flst. 6835, durch den Steilhang auf den Flst. 5775 und 6874, entlang der Hofener Straße ohne das parallel zur Hofener Straße verlaufende Flst. 6922/1.
+Im Falle des Widerspruches zwischen der textlichen Beschreibung und der zeichnerischen Darstellung gelten die in der Karte getroffenen Festlegungen.
 
-Im Südwesten und Westen entlang der Wagrainstraße bis zum Hopfenseeweg.
-(4) Die Grenzen des Schutzgebietes sind in einer Stadtkarte des Stadtplanungsamtes vom 12. Oktober 1987 im Maßstab 1 : 2 500 grün eingetragen. Die Karte ist Bestandteil der Verordnung.
-
-Die Verordnung mit Karte wird beim Stadtplanungsamt - untere Naturschutzbehörde - zur Einsicht für jedermann während der Dienststunden niedergelegt.
 §3 Schutzzweck
 
-Schutzzweck ist:
-1. Erhaltung der vorhandenen historischen Bodennutzungsform des terrassierten Weinbaus auf den Muschelkalksteinhängen des Neckartals in Teilen der Gewanne „Halden“, „Zuckerberg“, „Kreistel“ und „Steinhalden“.
+Schutzzweck des Landschaftsschutzgebietes ist:
+
+1. Schutz der extensiven Flächennutzung als Streuobstwiese im Gewann ”Kressart” und als typisches obstbaumbestandenes Stuttgarter ”Gütlesgebiet” im Gewann ”Dornhalde”,
+2. Erhalt des luftreinen und wenig lärmbelasteten Naherholungsgebietes für die Bevölkerung Sonnenbergs und Kaltentals,
+3. Erhalt und Förderung der freien Zugänglichkeit der offenen Landschaft, insbesondere der Streuobstwiese im Gewann ”Kressart”,
+4. Erhalt der in der Wechselwirkung zwischen historischen Nutzungsformen und Oberflächenausbildung beispielhaften landschaftlichen Ausprägungen dieses Keupergebietes,
+5. Erhalt der landschaftstypischen Kleingewässer ”Schwälblesklinge” und ”Kohlbach” sowie der zahlreichen geologischen Kleinaufschlüsse in den Waldgebieten ”Haldenwald” und ”Kohlhau”,
+6. Bestandserhaltung der heimischen Vegetation entsprechend der Begriffsbestimmung des Bundesnaturschutzgesetzes insbesondere durch Förderung von Neu- und Nachpflanzungen der in den jeweiligen Gewannen standorttypischen Gewächse,
 
 2
 
-Verordnung über das Landschaftsschutzgebiet 15n
+Verordnung über das Landschaftsschutzgebiet ”Dornhalde - Haldenwald”
 
-3/2 a
+3/2 d
 
-2. Sicherung besonderer, den Landschaftsschutzcharakter prägender topographischer Ausbildungen, die für den Erlebniswert dieser, für den oberen Muschelkalk typischen Landschaft von Bedeutung sind; hervorzuheben sind: die Felsbänder in den Weinbergen der Gewanne „Zuckerberg“ und „Kreistel“ und die Klinge zwischen diesen beiden Gewannen.
-3. Sicherung ökologischer Ausgleichsflächen als Rückzugsgebiet für Tier- und Pflanzenarten, um eine möglichst große Artenvielfalt zu gewährleisten. Hier sind es neben den Trockenmauern der alten Weinberge vor allem die Steilwände, Hangkanten und Böschungen der aufgelassenen Steinbrüche in den Gewannen „Halden“ und „Steinhalden“, die wertvolle Lebensräume für eine entsprechende, angepaßte Tier- und Pflanzenwelt darstellen.
-4. Sicherung des gesamten Landschaftsraumes, der aufgrund seiner natürlichen (z. B. weite Blickbeziehungen oberhalb des engen Neckartales) und kulturhistorischen (steile, terrassierte Weinberge) Werte ein Naherholungsgebiet von überörtlicher Bedeutung ist.
-5. Sicherung des alten Obstbaumbestandes; insbesondere die landschaftsprägenden Mostbirnbäume in Teilen der Gewanne „Kreistel“ und „Steinhalden“.
-6. Sicherung des gesamten Gebietes als Teil eines lokalklimatisch wichtigen Bereichs zur Kalt- und Frischluftproduktion für die Belüftung der Siedlungsgebiete, insbesondere für Teile von Bad Cannstatt, Münster, Hofen und Mühlhausen.
+7. Erhalt des sich an die Landschaftsschutzgebiete ”Waldfriedhof - Dornhalde” und ”Schimmelhüttenweg” anschließenden Wald- und Streuobstwiesengebietes als Teil des von Heslach bis nach Kaltental reichenden Biotopverbundsystems,
+8. Sicherung des kombinierten Lebensraumes aus Kleingewässern, Mischwald und offener Landschaft als Rückzugsgebiet besonders geschützter Tierarten, insbesondere des Feuersalamanders, des Bergmolches und der vom Aussterben bedrohten Vogelarten Mittelspecht, Halsbandschnäpper und Wendehals,
+9. Entwicklung und Förderung ökologischer Ausgleichsflächen, insbesondere durch den Rückbau vorhandener Sperren und Entsiegelung von Bodenflächen,
+10. Erhalt und Förderung des naturnahen Verlaufs und der biologischen Durchgängigkeit der ”Schwälblesklinge” und des ”Kohlbaches”,
+11. Erhalt der durch extensive Bewirtschaftung gewährleisteten Vegetationsvielfalt als Voraussetzung der Lebensraumsicherung vieler Brutvögel, insbesondere der vom Aussterben bedrohten Vogelarten Mittelspecht, Halsbandschnäpper und Grauspecht,
+12. Sicherung der artenreichen Mischwaldgebiete ”Haldenwald” und ”Kohlhau” in ihrer Artenvielfalt u. a. als Standort besonders geschützter Pilzarten sowie von Orchideen.
+
 §4 Verbote
 
-In dem Landschaftsschutzgebiet sind alle Handlungen verboten, die den Charakter des Gebietes verändern oder dem besonderen Schutzzweck zuwiderlaufen, insbesondere wenn dadurch
-1. der Naturhaushalt geschädigt, 2. die Nutzungsfähigkeit der Naturgüter nachhaltig gestört, 3. eine geschützte Flächennutzung auf Dauer geändert, 4. das Landschaftsbild nachteilig geändert oder die natürliche Eigenart der
-Landschaft auf andere Weise beeinträchtigt oder 5. der Naturgenuß oder der besondere Erholungswert der Landschaft beein-
-trächtigt wird.
+In dem Landschaftsschutzgebiet sind alle Handlungen verboten, die den Charakter des Gebietes verändern oder dem Schutzzweck zuwiderlaufen, insbesondere wenn dadurch
 
-Stuttgarter Stadtrecht 4. Auflage (Juni 1996)
+1. der Naturhaushalt geschädigt wird,
+2. die Nutzungsfähigkeit der Naturgüter nachhaltig gestört wird, 3. eine im Sinne des § 3 geschützte Flächennutzung auf Dauer geändert wird, 4. das Landschaftsbild nachteilig geändert oder die natürliche Eigenart der
+Landschaft auf andere Weise beeinträchtigt wird oder
+5. der Naturgenuss oder der besondere Erholungswert der Landschaft beeinträchtigt wird.
+
+Stuttgarter Stadtrecht 3. Erg.-Lfg. (August 2000)
 
 3
 
-3/2 a
+3/2 d
 
-Verordnung über das Landschaftsschutzgebiet 15n
+Verordnung über das Landschaftsschutzgebiet ”Dornhalde - Haldenwald”
 
 §5 Erlaubnisvorbehalt
 
-(1) Handlungen, die den Charakter des Gebietes verändern oder dem besonderen Schutzzweck zuwiderlaufen können, bedürfen der schriftlichen Erlaubnis der unteren Naturschutzbehörde.
+(1) Handlungen, die den Charakter des Gebietes verändern oder dem besonderen Schutzzweck zuwiderlaufen können, bedürfen der Erlaubnis der unteren Naturschutzbehörde.
 
-(2) Der Erlaubnis bedürfen insbesondere folgende Handlungen:
+(2) Der Erlaubnis bedarf es insbesondere,
 
-1. Errichtung baulicher Anlagen im Sinne der Landesbauordnung in der jeweils geltenden Fassung oder der Errichtung gleichgestellter Maßnahmen;
-2. Errichtung von Einfriedungen, insbesondere auch Hecken, sowie jeder Art von Sperren;
-3. Verlegen oder Ändern ober- oder unterirdischer Leitungen aller Art;
-4. Abbau, Entnahme oder Einbringen von Steinen, Kies, Sand, Lehm oder anderen Bodenbestandteilen oder die Veränderung der Bodengestalt auf andere Weise;
-5. Lagern von Gegenständen, soweit sie nicht zur zulässigen Nutzung des Grundstücks erforderlich sind;
-6. Anlage oder Veränderung von Straßen, Wegen, Plätzen oder anderen Verkehrswegen;
-7. Anlage oder Veränderung von Stätten für Sport und Spiel, einschließlich Motorsportanlagen;
-8. Aufstellen von Wohnwagen oder Verkaufsständen und das mehrtägige Zelten oder Abstellen von Kraftfahrzeugen;
-9. Anlage, Beseitigung oder Änderung fließender oder stehender Gewässer;
-10. Aufstellen oder Anbringen von Plakaten, Bild- oder Schrifttafeln;
-11. Neuaufforstungen, Umwandlungen von Wald, Anlage von Gärten oder die wesentliche Änderung der Bodennutzung auf andere Weise;
-12. Beseitigung oder Veränderung von Trockenmauern sowie von Bäumen, Hecken, Gebüschen, Feld- und Ufergehölzen, Schilf- und Rohrbeständen, Felsen und ähnlichen Naturerscheinungen, soweit diese zur Zierde und Belebung des Landschaftsbildes beitragen oder im Interesse der Pflanzenund Tierwelt Erhaltung verdienen und daher wesentliche Bestandteile der Landschaft darstellen.
+1. wesentliche Landschaftsbestandteile wie Trockenmauern, landschaftsprägende Bäume, Gebüsche, Hecken, Feld- und Ufergehölze, Obsthochstämme, Böschungen, Felsen und ähnliche Naturerscheinungen, die zur Zierde und Belebung des Landschaftsbildes beitragen oder die der Erhaltung der wildlebenden Tier- und Pflanzenwelt dienen, zu beseitigen, zu zerstören oder zu ändern;
+2. das Recht des Betretens der freien Landschaft im Sinne des Naturschutzgesetzes durch Sperren zu beschränken;
+3. bauliche Anlagen im Sinne der Landesbauordnung zu errichten oder der Errichtung gleichgestellte Maßnahmen durchzuführen. Instandsetzungs- und Unterhaltungsarbeiten an oder in zulässigerweise errichteten baulichen Anlagen bedürfen keiner Erlaubnis;
+4. Straßen, Wege, Plätze oder sonstige Verkehrsanlagen anzulegen, oberoder unterirdische Leitungen zu verlegen oder Anlagen dieser Art zu verändern;
+5. Stätten für Sport und Spiel, einschließlich Motorsportanlagen, anzulegen oder zu verändern;
+6. Flugplätze oder Gelände für das Starten und Landen von Luftsportgeräten (z. B. Hängegleiter, Gleitflugzeuge, Gleitfallschirme) sowie Gelände für den Aufstieg von Flugmodellen, die der luftverkehrsrechtlichen Erlaubnis bedürfen, anzulegen oder zu verändern;
+7. fließende oder stehende Gewässer anzulegen, zu beseitigen oder zu verändern sowie Entwässerungs- oder andere Maßnahmen vorzunehmen, die den Wasserhaushalt verändern;
+8. Plakate, Bild- oder Schrifttafeln aufzustellen oder anzubringen, mit Ausnahme behördlich zugelassener Beschilderungen;
+9. die Bodengestalt zu verändern, insbesondere durch Auffüllungen und Abgrabungen;
+10. neu aufzuforsten oder Christbaum- und Schmuckreisigkulturen und Vorratspflanzungen von Sträuchern und Bäumen anzulegen;
 
 4
 
-Verordnung über das Landschaftsschutzgebiet 15n
+Verordnung über das Landschaftsschutzgebiet ”Dornhalde - Haldenwald”
 
-3/2 a
+3/2 d
 
-(3) Die Erlaubnis ist zu erteilen, wenn die Wirkungen der Handlung den §§ 3 und 4 nicht oder nur unwesentlich zuwiderlaufen. Sie kann mit Auflagen, unter Bedingungen, befristet oder widerruflich erteilt werden, wenn dadurch erreicht werden kann, daß die Wirkungen der Handlung den §§ 3 und 4 nicht oder nur unwesentlich zuwiderlaufen.
-(4) Die Erlaubnis erlischt, wenn innerhalb von drei Jahren nach ihrer Erteilung nicht mit der erlaubten Handlung begonnen worden ist.
-(5) Die Erlaubnis wird durch eine nach anderen Vorschriften notwendige Gestattung ersetzt, wenn diese mit Zustimmung der Naturschutzbehörde ergangen ist.
+11. Art und Umfang der bisherigen Grundstücksnutzung entgegen dem Schutzzweck zu ändern;
+12. Dauergrünland oder Dauerbrache umzubrechen;
+13. nicht heimische Gehölze entsprechend der Begriffsbestimmung des Bundesnaturschutzgesetzes oder nicht bodenständige Gehölze, insbesondere Nadelgehölze, an- oder nachzupflanzen;
+14. chemische Pflanzenschutzmittel außerhalb land- und forstwirtschaftlich genutzter Grundstücke zu verwenden;
+15. Motorsport zu betreiben oder mit Motorschlitten zu fahren;
+16. länger als eine Woche zu zelten oder zu lagern sowie unabhängig von der Dauer Wohnwagen oder Verkaufstände aufzustellen oder Kraftfahrzeuge abzustellen, soweit diese nicht zur Ausübung von zulässigen Grundstücksnutzungen, etwa während Be- und Entladevorgängen, benötigt werden. Baurechtliche und straßenverkehrsrechtliche Vorschriften bleiben hiervon unberührt;
+17. Gegenstände zu lagern, soweit sie nicht zur zulässigen Nutzung des Grundstückes erforderlich sind;
+18. Obsthochstämme zu beseitigen, soweit sich aus anderen öffentlichrechtlichen Vorschriften keine Beseitigungspflicht ergibt;
+19. die besonders geschützte Flächennutzung von obstbaumbestandenen Wiesenflächen in den Gewannen ”Kressart” und ”Dornhalde” zu ändern.
 
-(6) Bei Handlungen des Bundes und des Landes, die nach anderen Vorschriften keiner Gestattung bedürfen, wird die Erlaubnis durch das Einvernehmen mit der Naturschutzbehörde ersetzt. Das gleiche gilt für Handlungen, die unter Leitung oder Betreuung staatlicher Behörden durchgeführt werden.
-§6 Zulässige Handlungen
+(3) Die Erlaubnis ist zu erteilen, wenn die Handlung Wirkungen der in § 4 genannten Art nicht zur Folge hat oder solche Wirkungen durch Auflagen oder Bedingungen abgewendet werden können. Sie kann mit Auflagen, Bedingungen, befristet oder widerruflich erteilt werden, wenn dadurch erreicht werden kann, dass die Wirkungen der Handlung dem Schutzzweck nur unwesentlich zuwiderlaufen.
 
-Die §§ 4 und 5 gelten nicht
+(4) Die Erlaubnis wird durch eine nach anderen Vorschriften notwendige Gestattung ersetzt, wenn diese im Einvernehmen mit der unteren Naturschutzbehörde erteilt wird.
 
-1. für die Nutzung im Rahmen einer ordnungsmäßigen Bewirtschaftung landund forstwirtschaftlicher Grundstücke mit der Maßgabe, daß Veränderungen an Trockenmauern und Wasserstaffeln - mit Ausnahme von ordnungsgemäßen Unterhaltungsmaßnahmen - erlaubnispflichtig bleiben;
-2. für die ordnungsmäßige Ausübung der Jagd und Fischerei;
-3. für die ordnungsmäßige Unterhaltung der Straßen, Wege, Plätze und Gewässer, ausgenommen Maßnahmen nach § 5 Abs. 2 Nr. 12;
-4. für behördlich angeordnete oder zugelassene Beschilderungen;
-§7 Befreiungen
-
-(1) Von den Vorschriften dieser Verordnung kann nach § 63 NatSchG Befreiung erteilt werden.
-(2) Die Befreiung bedarf bei folgenden Handlungen der Zustimmung des Regierungspräsidiums als höhere Naturschutzbehörde:
-
-1. Genehmigung von Flächennutzungs- oder Bebauungsplänen, die dem Schutzzweck zuwiderlaufen;
-
-Stuttgarter Stadtrecht 4. Auflage (Juni 1996)
+Stuttgarter Stadtrecht 3. Erg.-Lfg. (August 2000)
 
 5
 
-3/2 a
+3/2 d
 
-Verordnung über das Landschaftsschutzgebiet 15n
+Verordnung über das Landschaftsschutzgebiet ”Dornhalde - Haldenwald”
 
-2. Anlage oder Veränderung von Vorhaben im Sinne des § 63 Abs. 2 Nr. 2 NatSchG, die zu Eingriffen von besonderer Tragweite oder zu einer schwerwiegenden Beeinträchtigung überörtlicher Interessen der erholungssuchenden Bevölkerung führen können;
-3. Errichtung von Freizeitanlagen, die in besonders gelagerten Einzelfällen die landschaftliche Eigenart beeinträchtigen können.
-§8 Ordnungswidrigkeiten
+§6 Zulässige Handlungen
 
-(1) Ordnungswidrig im Sinne des § 64 Abs. 1 Nr. 2 des NatSchG handelt, wer vorsätzlich oder fahrlässig einem Tatbestand der §§ 4 oder 5 Abs. 1 und 2 dieser Rechtsverordnung zuwiderhandelt.
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße der in § 64 Abs. 3 NatSchG bestimmten Höhe geahndet werden.
+(1) Die Verbote und Erlaubnisvorbehalte der §§ 4 und 5 gelten nicht für die im Sinne des Naturschutzgesetzes
 
-(3) Der Einzug von Gegenständen, die mit der Ordnungswidrigkeit zusammenhängen, ist in § 64 Abs. 4 NatSchG geregelt.
-§9 Inkrafttreten
+1. ordnungsgemäße landwirtschaftliche Bodennutzung, die den Boden pflegt, Erosion und Humusabbau vermeidet, Gewässerrandstreifen und Ufer, oberirdische Gewässer und Grundwasser nicht in ihrer chemischen, physikalischen und biologischen Beschaffenheit beeinträchtigt und wild lebenden Tieren und Pflanzen ausreichenden Lebensraum erhält. Dies gilt insbesondere mit der Maßgabe, dass
+a) die Bodengestalt nicht verändert wird,
+b) Dauergrünland oder Dauerbrache nicht umgebrochen wird,
+c) wesentliche Landschaftsbestandteile, wie Trockenmauern, landschaftsprägende Bäume, Gebüsche, Hecken, Feld- und Ufergehölze, Obsthochstämme, Böschungen, Felsen und ähnliche Naturerscheinungen, die zur Zierde und Belebung des Landschaftsbildes beitragen oder die der Erhaltung der wild lebenden Tier- und Pflanzenwelt dienen, nicht beseitigt, zerstört oder geändert werden,
+d) eine im Sinne von § 3 geschützte Flächennutzung nicht geändert wird;
+2. ordnungsgemäße forstwirtschaftliche Bodennutzung;
+3. ordnungsgemäße Ausübung der Jagd und Fischerei.
 
-(1) Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-(2) Die Landschaftsschutzverordnung vom 10. November 1961 (Amtsblatt Nr. 49 vom 7. Dezember 1961) tritt bezüglich der Landschaftsschutzgebiete Nr. 15 und 16 innerhalb der Grenzen des Landschaftsschutzgebiets 15n außer Kraft; im übrigen bleiben die Landschaftsschutzgebiete Nr. 15 und 16 bestehen. Ferner wird die Landschaftsschutzverordnung vom 10. November 1961 bezüglich des Landschaftsschutzgebietes Nr. 15 (§ 1 Abs. 1 Nr. 15 der Landschaftsschutzverordnung) dahingehend geändert, daß die Flurstücke 7010, 7010/2, 7010/3, 7010/4, 7010/5, 7010/6, der Feldweg Flst. 7026, die Flurstücke 7034, 7033, Zuckerbergstraße 100 und 102 (nördliche Hälfte), Flst. 7067 an der Zuckerbergstraße, die Parzelle Schmidener Straße 189 sowie die Einsteinstraße und der Zuckerleweg von der Geltung der Landschaftsschutzverordnung ausgenommen werden.
+(2) Die Verbote und Erlaubnisvorbehalte der §§ 4 und 5 gelten des Weiteren nicht für die Beseitigung abgestorbener Obsthochstämme, wenn anstelle dieser Obsthochstämme auf demselben Grundstück ebenso viele junge Obsthochstämme nachgepflanzt werden.
+
+(3) Unberührt bleibt auch die Unterhaltung und Instandsetzung der Straßen, Wege, Plätze, Gewässer und der öffentlichen Ver- und Entsorgungseinrichtungen. Davon ausgenommen sind Maßnahmen nach § 5 Abs. 2 Nr. 1, sofern Unterhaltungs- und Instandsetzungsmaßnahmen nicht lediglich aus Verkehrssicherungsgründen vorgenommen werden. Erd-, Gras- und Schotterwege sowie Wege mit wasserdurchlässigen Oberflächen sind als solche zu erhalten.
+
+§7 Schutz- und Pflegemaßnahmen
+
+Schutz- und Pflegemaßnahmen werden durch die untere Naturschutzbehörde in einem Pflegeplan oder durch Einzelanordnung festgelegt, soweit sie nicht für Waldflächen im Forsteinrichtungswerk integriert sind. §§ 4 und 5 dieser Verordnung sind insoweit nicht anzuwenden.
 
 6
+
+Verordnung über das Landschaftsschutzgebiet ”Dornhalde - Haldenwald”
+
+3/2 d
+
+Schlussvorschriften §8
+Befreiungen
+
+Von den Vorschriften dieser Verordnung kann nach § 63 NatSchG durch die untere Naturschutzbehörde Befreiung erteilt werden.
+
+§9 Ordnungswidrigkeiten
+
+(1) Ordnungswidrig im Sinne des § 64 Abs. 1 Nr. 2 NatSchG handelt, wer in dem Landschaftsschutzgebiet vorsätzlich oder fahrlässig
+
+1. entgegen § 22 Abs. 3 NatSchG in Verbindung mit § 4 dieser Verordnung Handlungen vornimmt, die den Charakter des Gebietes verändern oder dem besonderen Schutzzweck zuwiderlaufen,
+2. entgegen § 5 dieser Verordnung ohne vorherige Erlaubnis Handlungen vornimmt, die den Charakter des Gebietes verändern oder dem besonderen Schutzzweck zuwiderlaufen können.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße der in § 64 Abs. 3 NatSchG bestimmten Höhe geahndet werden.
+
+§ 10 In-Kraft-Treten
+
+Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
+
+Stuttgarter Stadtrecht 3. Erg.-Lfg. (August 2000)
+
+7
