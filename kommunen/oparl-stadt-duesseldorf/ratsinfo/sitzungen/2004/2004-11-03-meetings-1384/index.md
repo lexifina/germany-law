@@ -1,0 +1,61 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-11-03T16:00:00+01:00
+- Ende: 2004-11-03T00:00:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1384
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1384
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111287.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111287.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111287.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung Schriftführer/in - einstimmig beschlossen
+- TOP 2: Festlegung Zahl Stellvertreter - mehrheitlich beschlossen
+- TOP 3: Wahl Bezirksvorsteher und Stellvertreter - mehrheitlich beschlossen
+- TOP 4: Verpflichtung - zur Kenntnis genommen
+- TOP 5: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 6: Genehmigung Niederschrift - mehrheitlich beschlossen
+- TOP 7: B-Plan Nr.5782/10 - einstimmig beschlossen
+- TOP 8: FNPÄ 13- Airport City - Anregungen; Plan - mehrheitlich beschlossen
+- TOP 9: BPl5382/29AirportCity Anr.Ä in rot Satzung - mehrheitlich beschlossen
+- TOP 10: BPl 5581/35-RatherKreuzw/marler BerBü;öff.Ausl. - einstimmig beschlossen
+- TOP 11: Anfrage CDU: Renovierungsarbeiten an öffentlichen - zur Kenntnis genommen
+- TOP 12: Anfrage CDU: Durchgangsverkehr Volkardeyer Weg - zur Kenntnis genommen
+- TOP 13: Anfrage CDU: Geruchsbelästigung in Unterrath - zur Kenntnis genommen
+- TOP 14: Geruchsbelästigung in Unterrath - zur Kenntnis genommen
+- TOP 15: Anfrage SPD: Eissporthalle - zur Kenntnis genommen
+- TOP 16: Antrag SPD: Verkehrsberuhigung Kieshecker-, Lichte - mehrheitlich abgelehnt
+- TOP 17: Haushaltsplanberatung für das Haushaltsjahr 2005 - einstimmig beschlossen
+- TOP 18: HH-Antrag SPD: Graffiti - mehrheitlich abgelehnt
+- TOP 19: HH-Antrag CDU: Jugenfreizeiteinrichtung Lichtenbro - einstimmig beschlossen
+- TOP 20: HH-Antrag SPD: LZA Unterrather Straße/Kartäuser Pa - einstimmig beschlossen
+- TOP 21: HH-Antrag CDU: Unterrather Straße/Kalkumer Straße - einstimmig beschlossen
+- TOP 22: HH-Antrag SPD: Ortsumgehung Rath - mehrheitlich beschlossen
+- TOP 23: HH-Antrag CDU: Ortsumgehung Rath - mehrheitlich beschlossen
+- TOP 24: HH-Antrag CDU: Durchstich Bochumer Straße - mehrheitlich beschlossen
+- TOP 25: HH-Antrag der CDU: Umplanung Hülsmeyerplatz - einstimmig beschlossen
+- TOP 26: HH-Antrag CDU: Rampe Kieshecker Weg/Am Schorn - einstimmig beschlossen
+- TOP 27: HH-Antrag CDU: Beleuchtung Fußweg Schwarzbachgrabe - einstimmig beschlossen
+- TOP 28: HH-Antrag CDU: Radweg DB-Strecke und A 52 - einstimmig beschlossen
+- TOP 29: HH-Antrag CDU: Radwegenetzplanung - einstimmig beschlossen
+- TOP 30: HH-Antrag CDU: Ausbau Wilhelm-Raabe-Straße - mehrheitlich beschlossen
+- TOP 31: HH-Antrag SPD: JFE Lichtenbroich - einstimmig beschlossen
+- TOP 32: HH-Antrag SPD: Fuß u. RadwegRath/Unterrath - einstimmig beschlossen
+- TOP 33: HH-Antrag PDS: Für dieBezirksvertretungen - mehrheitlich abgelehnt
+- TOP 34: HH-Antrag PDS:Bauunterhalt an städt. Einrichtungen - mehrheitlich abgelehnt
+- TOP 35: HH-Antrag PDS: Anhörungsrecht Kinderspielplätze - mehrheitlich abgelehnt
+- TOP 36: Übertragung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 37: Baumpflanzungen im Stadtbezirk 6 - Cloppenburger - einstimmig beschlossen
+- TOP 38: Genehmigung Dringleichkeitsentscheidung Freigabe S - mehrheitlich beschlossen
+- TOP 39: Dringlichkeitsentscheidung - Freigabe Sonntag - mehrheitlich beschlossen
+- TOP 40: Genehmigung Dringlichkeitsentscheidung: ehem. Kauf - einstimmig beschlossen
+- TOP 41: Zuschuss zu einer kulturellen Veranstaltung - mehrheitlich beschlossen
+- TOP 42: Zuschuss an den Post-Kleingärtnerverein Düsseldorf
+- TOP 43: Terminplanung - einstimmig beschlossen
+- TOP 44: Mitteilungen der Verwaltung - einstimmig beschlossen
