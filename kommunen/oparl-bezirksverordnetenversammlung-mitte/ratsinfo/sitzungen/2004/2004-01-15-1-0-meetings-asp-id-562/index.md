@@ -1,0 +1,68 @@
+# 23. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2004-01-15T17:30:00+01:00
+- Ende: 2004-01-15T20:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=562
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=562
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=39407
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - beantwortet
+- TOP 1.2: der Fraktionen - beantwortet
+- TOP 1.3: der Ausschüsse - beantwortet
+- TOP 1.4: des Bezirksamtes - beantwortet
+- TOP 2: Konsensliste - im Ausschuss abgelehnt
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Sperrmüll auf dem Gelände des Hertha-Domizils - beantwortet
+- TOP 3.2: Bezirkskulturfonds 2003 - beantwortet
+- TOP 3.3: Auswirkungen der Kita-Kosten-Erhöhung - beantwortet
+- TOP 3.4: Sanierung Uferpromenade Monbijoupark - beantwortet
+- TOP 3.5: Sportanlage Schul- Ecke Ruheplatzstraße - beantwortet
+- TOP 3.6: Öffentliche Beleuchtung - beantwortet
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Einseitige Kündigung des Mietvertrages von Wal-Mart mit der WBM bezüglich der Rathauspassagen - beantwortet
+- TOP 5.2: Drogenbus - beantwortet
+- TOP 5.3: Vertragskündigung duch Wal-Mart - beantwortet
+- TOP 5.4: Zwingt Sozialamt vom Abschiebeknast in die Illegalität? - beantwortet
+- TOP 5.5: Drogenaufklärung an den Schulen im Bezirk Mitte - beantwortet
+- TOP 5.6: Oranienburger Straße 37 - beantwortet
+- TOP 5.7: Wal Mart: Warum geht der Ami home? - beantwortet
+- TOP 5.8: Ausgleich für die Streichung des BVG-Sozialtickets - beantwortet
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 6.1: Berufung eines beratenden Mitgliedes und dessen Stellvertreter in den Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 5 AG KJHG i.V. mit § 35 Abs. 8 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Fortschreibung von Mietobergrenzen bei Modernisierungsvorhaben von Altbauen in den Sanierungsgebieten Spandauer Vorstadt und Rosenthaler Vorstadt - überwiesen
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Behindertengerechte Aufgänge / Aufzüge am Lehrter Bahnhof
+- TOP 9.2: Behindertengerechte Aufzüge U-Bahn Amrumer Straße
+- TOP 9.3: GA-Mittel Umbaumaßnahme Schiffbauerdamm - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.4: Keine Übertragung des Tarifabschlusses auf die Beschäftigten nach § 19 Abs. 2 Bundessozialhilfegesetz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.5: Einrichtung von integrierten Stadtteilverfahren -Quartiersmanagement- im Bezirk Mitte, Gebiete Sparrplatz, Magdeburger Platz, Soldiner Straße, Reinickendorfer-/ Pankstraße und Moabit West hier: Vertragsverlängerungen für das Jahr 2004 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.6: Verkehrsberuhigung Tucholskystraße alt: Drucksachen-Nr. I/39 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.7: Zebrastreifen Lehrter Straße alt: Drucksachen Nr. I/524 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Benennung von Straßen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Wegfall der Zuschüsse zur Kranken- und Rentenversicherung der freiberuflichen Mitarbeiter/innen der Volkshochschule - ohne Änderungen in der BVV beschlossen
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Wahlpflichtbereich Religion und Ethik/ Philosophie - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Kooperationsverträge zur Sanierung von bezirklichen Einrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Entwicklung von Gewerbe und Handwerk - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Umsetzung des Beschlusses - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Ethik/ Philosophie an der Menzel-Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Wiedereinführung des Sozialtickets - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Eröffnung Drogenkonsumraum - erledigt
+- TOP 12.3: Hoftheater Hexenkessel - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Änderung der Geschäftsordnung der BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Information der Bevölkerung zur Einrichtung von Ordnungsämtern - überwiesen
+- TOP 12.6: Verkehrskonzept Spandauer Vorstadt zügig umsetzen - überwiesen
