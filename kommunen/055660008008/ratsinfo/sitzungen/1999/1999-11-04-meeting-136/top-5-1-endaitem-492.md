@@ -1,0 +1,8 @@
+# TOP 5.1.: Rahmenplanung Oststadt - Bahnhofsumfeldaufwertung
+
+- Sitzung: Ausschuss für Stadtplanung u. Umwelt (1999-11-04)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/492
+- Ergebnis: Zur Kenntnis genommen
+- Beratung: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/148
