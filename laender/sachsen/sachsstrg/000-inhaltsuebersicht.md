@@ -7,6 +7,7 @@ Erster Teil Allgemeine Bestimmungen
 § 4 Straßenverzeichnisse und Straßennummern
 § 5 Ortsdurchfahrten
 § 6 Widmung
+§ 6a Widmung bei außergewöhnlichen Ereignissen
 § 7 Umstufung
 § 8 Einziehung
 § 9 Straßenbaulast
