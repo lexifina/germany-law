@@ -1,0 +1,7 @@
+# TOP 5: Berichte aus den Gremien
+
+- Sitzung: 45. (öfftl.) Sitzung des Jugendhilfeausschusses (2004-09-15)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=5796
+- Ergebnis: (offen)
