@@ -1,0 +1,71 @@
+# Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2004-11-03T17:00:00+01:00
+- Ende: 2004-11-03T19:05:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=2
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=2
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt am 13.10.2004 - ungeändert beschlossen
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Wahl der Ausschussmitglieder - ungeändert beschlossen
+- TOP 4: Bildung von weiteren Ausschüssen des Rates der Stadthier: Neubildung des Jugendhilfeausschusses - ungeändert beschlossen
+- TOP 5: Benennung der Ausschussvorsitzenden und stellvertretenden Ausschussvorsitzenden - ungeändert beschlossen
+- TOP 6: Wahl der Mitglieder der 12. Landschaftsversammlung Rheinland - ungeändert beschlossen
+- TOP 6.1: Wahl der Mitglieder der 12. Landschaftsversammlung Rheinlandweitergehende Erläuterungen - ungeändert beschlossen
+- TOP 7: Wahl der städtischen Vertreter in Gesellschaften, Verbänden und sonstigen Organisationenhier: Grundsatzinformationen - ungeändert beschlossen
+- TOP 7.1: Bestellung der Mitglieder des Aufsichtsrates der AGIT "Aachener Gesellschaft für Innovation und Technologietransfer GmbH" gem. § 113 Abs. 2 GO NRW i.V.m. mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 7.2: Bestellung des Mitgliedes im Aufsichtsrat der Aachener Kreuz Merzbrück GmbH & Co. KG (AKM) gem. § 113 Abs. 3 GO NRW - ungeändert beschlossen
+- TOP 7.3: Bestellung der Mitglieder des Aufsichtrates der Aachener Parkhaus GmbH - APAG - gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 7.4: Besetzung des Aufsichtsrates der Aachener Straßenbahn- und Energieversorgungs AGASEAG - ungeändert beschlossen
+- TOP 7.5: Bestellung des Mitgliedes für den Beirat AKREKA GmbH - ungeändert beschlossen
+- TOP 7.6: AVV GmbH - Aufsichtsrat - ungeändert beschlossen
+- TOP 7.7: Benennung von Vertretern der Stadt Aachen in der Gesellschafterversammlung derEuRegionale 2008 Agentur GmbH gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs.4 GO NRW - ungeändert beschlossen
+- TOP 7.8: Benennung von Vertretern der Stadt Aachen im Aufsichtsrat der Energieversorgungs- undVerkehrsgesellschaft Aachen (EVA) gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 7.9: Bestellung der Mitglieder des Aufsichtsrates der Flugplatz Aachen-Merzbrück GmbH (FAM) gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 7.10: Bestellung der Mitglieder des Aufsichtsrates der Gewerbegrundstücksgesellschaft Aachen- GEGRA - gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 7.11: Bestellung der Mitglieder des Aufsichtsrates der Gemeinnützigen Wohnungsgesellschaft für Aachen AG –gewoge- gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 7.12: Bestellung des Mitgliedes des Aufsichtsrates der „ Grenzüberschreitendes Gewerbegebiet Aachen- Heerlen N.V. – GOB N.V.“ und der „Avantis Services N.V.“gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW. - ungeändert beschlossen
+- TOP 7.13: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der Kur- und Badegesellschaft mbH gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 7.14: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der MVA Weisweiler GmbH & Co KG gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 7.15: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der regio iT aachen GmbH- Gesellschaft für Informationstechnologie - gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 7.16: Gremien der Sparkasse Aachen und weiterer ZweckverbändeWahl der Vertreter/innen der Stadt Aachen in die Verbandsversammlung des Sparkassenzweckverbandes Kreis Aachen - Stadt Aachen sowie Empfehlungen für die anstehenden Entscheidungen in der Verbandsversammlung - ungeändert beschlossen
+- TOP 7.17: Wahl der Vertreter der Stadt in das Kuratorium der Stiftung Jugendförderungswerk der Sparkasse Aachen gem. § 113 (2) GO NRW in Verbindung mit § 50 (4) GO NRW - ungeändert beschlossen
+- TOP 7.18: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der Stadtwerke Aachen AG (STAWAG) gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 7.19: Bestellung der Mitglieder des Aufsichtsrates der Wassergewinnungs- und Aufbereitungsgesellschaft Nordeifel mbH WAG gem. § 113 (2) GO NRW in Verbindung mit § 50 (4) GO NRW - ungeändert beschlossen
+- TOP 7.20: Bestellung von Vertretern der Stadt Aachen für die Verbandsversammlung des WVER Wasserverband Eifel Rur und den Verbandsrat gem. § 113 (2) GO NRW in Verbindung mit § 50 (2) GO NRW - ungeändert beschlossen
+- TOP 7.21: Benennung der Vertreter der Stadt Aachen in der Schulverbandsversammlung für das Abendgymnasium und die Abendrealschule gem. § 113 (2) GO NW in Verbindung mit § 50 (4) GO NW - ungeändert beschlossen
+- TOP 7.22: Zweckverband AVV "Aachener Verkehrsverbund" und Aufsichtsrat - ungeändert beschlossen
+- TOP 7.23: Bestellung von Vertretern der Stadt Aachen für die Verbandsversammlung des Zweckverbands Entsorgungsregion West gem. § 113 (2) GO NRW in Verbindung mit § 50 (4) GO NRW - ungeändert beschlossen
+- TOP 7.24: Zweckverband StädteRegion Aachen - ungeändert beschlossen
+- TOP 7.25: Schulverband in der Städteregion - ungeändert beschlossen
+- TOP 7.26: Bestellung von Vertretern der Stadt Aachen für die Verbandsversammlung des ZweckverbandesStraßenverkehrsamt Aachen gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GONRW - ungeändert beschlossen
+- TOP 7.27: Studieninstitut für kommunale Verwaltung Aachen - ungeändert beschlossen
+- TOP 7.28: Trägerverein Berufsbildungs- und Gewerbeförderungseinrichtung Aachen e.V. der Handwerkskammer Aachen - ungeändert beschlossen
+- TOP 7.29: Bestellung der Vertreter der Stadt Aachen im KREISPOLIZEIBEIRAT gem. § 113 (2) GO NW in Verbindung mit § 50 (4) GO NW - ungeändert beschlossen
+- TOP 7.30: Wahl der Mitglieder des REGIO-RATES - vertagt
+- TOP 7.31: Wahl von Mitgliedern des REGIONALRATES des Regierungsbezirks Köln - ungeändert beschlossen
+- TOP 7.32: Benennung der Mitglieder des Rates im Umlegungsausschuss - ungeändert beschlossen
+- TOP 7.33: Vertretung der Stadt Aachen im Kuratorium der Viktoriaschule - ungeändert beschlossen
+- TOP 8: Sparkasse Aachen: a) Benennung von Mitgliedern des Sparkassen-Beirates und b) Wahl der Dienstkräfte der Sparkasse in den Verwaltungsratc) Benennung von Vertretern der Verwaltung in der Verbandsversammlung nach § 113 II GO NW - ungeändert beschlossen
+- TOP 9: Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen und Richterbeim Sozialgericht Aachen und beim Landessozialgericht Nordrhein-Westfalenin Essen sowie für die Wahl der ehrenamtlichen VerwaltungsrichterInnen beim Oberverwaltungsgericht für das land Nordrhein-Westfalen in Münster - geändert beschlossen
+- TOP 10: Wahl von Mitgliedern des REGIONALRATES des Regierungsbezirks Köln - ungeändert beschlossen
+- TOP 11: Umsetzung des Sozialgesetzbuches (SGB) Zweites Buch (II) - Grundsicherung für Arbeitssuchende -;hier: Abschluss eines Vertrages zwischen der Agentur für Arbeit Aachen und der Stadt Aachen zur Gründung einer Arbeitsgemeinschaft gemäß ' 44 b SGB II sowie zur Übertragung der kommunalen Aufgaben nach '' 22 und 23 SGB II an diese Arbeitsgemeinschaft - ungeändert beschlossen
+- TOP 12: Änderung der Richtlinien über die Zuwendungen zum Geschäftsbedarf der Ratsfraktionenhier: Antrag der Fraktion der CDU vom 14.10.2004 zur Tagesordnung der Sitzung des Rates am 03.11.2004 - vertagt
+- TOP 13: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 14: Mitteilungen der Verwaltung
+- TOP 15: Genehmigung eines Dringlichkeitsbeschlusses: Entwicklung des Dreiländerpunktes im Rahmen EUREGIONALE 2008hier: Erlaß einer Satzung über ein besonderes gemeindliches Vorkaufsrecht - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.5: nicht öffentlicher Tagesordnungspunkt
