@@ -1,0 +1,66 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2004-01-14T17:00:00+01:00
+- Ende: 2004-01-14T21:15:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=516
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=516
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=20652
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - im Ausschuss abgelehnt
+- TOP 2: Dringlichkeitsanträge - überwiesen
+- TOP 2.1: Kindertagesstättenübertragungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Wirksamere Strafen für Graffiti-Sprayer - mit Änderungen in der BVV beschlossen
+- TOP 2.3: Weitere Offenhaltung des Hallenbades in der Seestraße - ohne Änderungen in der BVV beschlossen
+- TOP 2.4: Stärkung des Kultur-Standortes Humboldt-Bibliothek durch Integration der Graphothek - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Übertragung der Kindertagesstätten Seestraße und Bernauer Straße - in der BVV abgelehnt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - überwiesen
+- TOP 5: Vorlagen zur Kenntnisnahme - überwiesen
+- TOP 5.1: Abstimmung von Rahmenplänen der 6. und 7. Klassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: BVG-Wartehäuschen am Donnersmarckplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Maßnahmen zur Förderung von Kindern nicht deutscher Herkunft in Kitas - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Förderung der Jugendkunstschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.5: Kein landesweiter Kindertagesstätten-Betrieb, sondern eigenverantwortliche Entscheidung der Bezirke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Beibehaltung der Sportförderung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Entwurf des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2004 und 2005 (Doppelhaushalt) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.8: Umsetzung des Tarifvertrages in den Kitas - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Buslinie X 21 weiterhin bis zum Zentralen Omnibus-Bahnhof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Neue Entgeltordnung für das Heimatmuseum Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - überwiesen
+- TOP 6.1: Auswirkungen der sog. Gesundheitsreform auf den Bezirk Reinickendorf - vertagt
+- TOP 6.2: Wirtschaftsentwicklung in Geschäftstraßen - vertagt
+- TOP 6.3: Ganztagsschulprogramm in Reinickendorf - beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - überwiesen
+- TOP 7.1: Stände und Kioske in der Fußgängerzone Gorkistraße - erledigt
+- TOP 7.2: Sanierungs- und Instandsetzungsbedarf in Reinickendorfer Schulen - erledigt
+- TOP 7.3: Entwurf des Bebauungsplanes XX-295 - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Bekämpfung der Wildschweinplage - ohne Änderungen in der BVV beschlossen
+- TOP 7.5: Keine Schlechterstellung behinderter Menschen / Blindengeld - ohne Änderungen in der BVV beschlossen
+- TOP 7.6: Organspende - ohne Änderungen in der BVV beschlossen
+- TOP 8: Anträge - überwiesen
+- TOP 8.1: Antisemitismus verurteilen - ohne Änderungen in der BVV beschlossen
+- TOP 9: Ersuchen - überwiesen
+- TOP 9.1: Internet-Sicherheit für Kinder - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: FreiwilligenPass einführen - überwiesen
+- TOP 9.3: Spezielle Angebote für Seniorinnen und Senioren im Fontanehaus - überwiesen
+- TOP 9.4: Gemeinsam gegen Rechtsextremismus - Ziviles Engagement fördern - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Konzept für Grünpatenschaften - überwiesen
+- TOP 10: Empfehlungen - überwiesen
+- TOP 10.1: Schnellstmögliche Behandlung von Schlaganfallpatienten - überwiesen
+- TOP 10.2: Erhalt des Hauptzugangs Oranienburger Straße zur KBoN - überwiesen
+- TOP 10.3: Busanbindung Frohnau - Glienicke - überwiesen
+- TOP 10.4: Einbau von Rauchmeldern in privaten Neubauten - überwiesen
+- TOP 10.5: Ansprechpartner für Kinderärzte bei Hinweisen auf Kindesmisshandlung - überwiesen
+- TOP 10.6: Anzeigetafel am Flughafen Tegel schnell in Stand setzen - in der BVV zurückgezogen
+- TOP 10.7: Geschwindigkeitsüberprüfung im Bereich Schlossstraße/Ulmenstraße/Glienicker Straße - überwiesen
+- TOP 10.8: Halteverbot in der Titiseestraße - überwiesen
+- TOP 11: Folgen der Einsparungen bei der Feuerwehr für die öffentlichen Gebäude im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 12: Krankenhausbeirat - in der BVV abgelehnt
+- TOP 13: Neue Tarife der Berliner Verkehrsunternehmen - in der BVV zurückgezogen
