@@ -1,8 +1,8 @@
 # Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 1996-12-16 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/2._Änderungssatzung_über_die_straßenreinigung_und_die_erhebung_von_straßenreinigungsgebühren_vom_16.12.96.pdf
+- Datum: 1997-12-22 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/3._Änderungssatzung_über_die_straßenreinigung_und_die_erhebung_von_straßenreinigungsgebühren_vom_22.12.97.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,8 +10,8 @@
 
 Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -)
 vom 19. Dezember 1994
-in der Fassung der 2. Satzung zur Änderung der Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -) vom 16. Dezember 1996
-- ABl. StK 1994 S. 1, 1995 S. 1, 1996 S. 511
+in der Fassung der 3. Satzung zur Änderung der Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -) vom 22. Dezember 1997
+- ABl. StK 1994 S. 1, 1995 S. 1, 1996 S. 511, 1997 S. 529
 Der Rat der Stadt Köln hat in seiner Sitzung vom 13, 12. 1994 aufgrund der §§ 1, 3 und des Gesetzes über die Reinigung öffentlicher Straßen (StrReinG NW) vom 18. Dezember 1975 (SGV NW 2061) in Verbindung mit den §§ 2, 4, 6, 12 und 20 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) vom 21. Oktober 1969 (SGV NW 610) und den §§ 7 und 76 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen in der~ Fassung der Bekanntmachung vom 14. Juli 1994 (SGV NW 2023) - jeweils in der~ bei Erlaß dieser Satzung geltenden Fassung diese Satzung beschlossen:
 § 1 Allgemeines
 (1) Die Stadt - Amt für Abfallwirtschaft, Stadtreinigung und Fuhrwesen - betreibt die Reinigung der öffentlichen Straßen innerhalb der geschlossenen Ortslagen - bei Bundesstraßen, Landstraßen und Kreisstraßen jedoch nur der Ortsdurchfahrten als öffentliche Einrichtung.
@@ -30,7 +30,7 @@ Seite 1 von 8
 a) Straßenbezeichnung, b) Straßenart (§ 7 Abs. 4), c) Anzahl der wöchentlichen Reinigungen durch die Stadt, soweit sich nicht aus § 3 Abs. 3 und § 4 Abs. 2 etwas anderes ergibt,
 Seite 2 von 8
 
-d) Reinigungsverpflichtete, Die Regelungen im Straßenreinigungsverzeichnis bleiben bei Umbenennung von Straßen unberührt. (3) Abweichend von den Regelungen zu Abs. 2 Buchst, c) sind Radwege und Mittelalleen einmal wöchentlich zu reinigen.
+d) Reinigungsverpflichtete, Die Regelungen im Straßenreinigungsverzeichnis bleiben bei Umbenennung von Straßen unberührt. (3) Abweichend von den Regelungen zu Abs. 2 Buchst. c) sind Radwege und Mittelalleen einmal wöchentlich zu reinigen. Straßenbegleitgrün ist bis zu viermal jährlich zu reinigen.
 § 4 Ausführung der Reinigung
 (1) Die Fahrbahnen und Gehwege sind nach Maßgabe dieser Satzung, insbesondere des Straßenreinigungsverzeichnisses zu reinigen.
 (2) Soweit die Reinigungspflicht dem/r Anlieger/in obliegt, ist die Reinigung von ihm/ihr nach Bedarf, mindestens jedoch einmal wöchentlich werktags bis spätestens samstags 19.00 Uhr, durchzuführen.
@@ -197,97 +197,64 @@ Seite 7 von 8
 Unterschiedsbetrag nach Bekanntgabe des Gebührenbescheides durch Aufrechnung oder Zurückzahlung ausgeglichen. (9) Die Absätze 7 und 8 gelten entsprechend, wenn der Gebührenbescheid aufgehoben oder geändert wird.
 § 11 Ordnungswidrigkeiten (1) Unbeschadet der im Bundes- oder Landesrecht getroffenen Sonderregelungen
 handelt ordnungswidrig, wer vorsätzlich oder fahrlässig dieser Satzung zuwiderhandelt, insbesondere 1. vorgeschriebene oder übernommene Reinigungen nicht durchführt (§ 2 Abs. 1, § 4 Abs. 1 und 2) 2. belästigende Staubentwicklung nicht verhindert (§ 4 Abs. 3 Satz 1), 3. Kehrricht und sonstige Abfälle nicht ordnungsgemäß entfernt (§ 4 Abs. 3 Satz 2), 4. Schnee nicht ordnungsgemäß entfernt und lagert, sowie Schnee- und Eisglätte nicht ordnungsgemäß bekämpft (§ 5 Abs. 1, § 2 Abs. 2, Satz 1 und 2) 5. die Beendigung der Übernahme der Reinigung nicht anzeigt (§2 Abs. 3 Satz 4). (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 1.000,- DM geahndet werden.
-§ 12 Inkrafttreten, Außerkrafttreten (1) Diese Satzung tritt am 1. Januar 1997 in Kraft.
+§ 12 Inkrafttreten, Außerkrafttreten (1) Diese Satzung tritt am 1. Januar 1998 in Kraft.
 Seite 8 von 8
 
-Anlage I zur Straßenrcinigungssatzung vom 16. Dezember 1996
+Anlage 1 zur Straßenreinigungssatzung • vom 18, Dezember 1997
 Straßenreinigungsverzeichnis gemäß § 3 Abs. 1 StrReinS
-512
+530
 
-Stadtbezirk I
-513,
+Stadtbezirk 1
+531
 
-X RJr^7^ilrl kn-i 21. Straßenname
+Bezirk; 1
+Straßenname
 
-Achtergäßchen
+Alter Markt
 
-Altcburger Straße
+'^
 
-von Sevcrinswall
+von Kleine Budengasse
 
-bis Teutoburger Straße
+bis Bcchcrgassc"
 
-- bis Alteburgcr Wall
+bis Unter Käster/Lintgasse Plalzüäche
 
-bis Kyllstraße
+.von Nr. 2 bis Unter Käster
 
-Am Alten Ufer
+Treppenanlage
 
-bis Goldgassc
+An der Basilika St. Scvcrin
 
-bis Ende
+Bahnhofsvorplatz
 
-Kolonnade von Goldgasse bis Kostgasse
+von Trankgasse
 
-Busparkplatz
+bis Domprobst-Kctzcr-Straßc
 
-Am Leystapel
+Bechergasse
 
-Zugang zur Fußgängerbrücke
+von Große Neugasse/Am Hof •
 
-(hinter Maritim-Hotel)
+bis Ahcr Markt/Mühlengasse
 
-Fußgängerbrücke einschließlich
+Breitesträße
 
-Zu- und Abgänge
+- bis Tunisstraße
 
-Annostraße
+bis Richmodstraße
 
-Antonsgasse
+bis Apostelnstraße
 
-bis Kronengasse
+Brügelmannstraße
 
-. bis Schildergasse
+bis DBF
 
-Börsenplatz
-
-Platzfläche
-
-Brückenslraße
-
-von Hohe Straße
-
-bis Ludwigstraße
-
-bis Ende
-
-Brüderstraße
-
-Platzfläche
-
-Buschgasse
-
-bis Seiteneingang Biberstraße 4
-
-bis Quentelstraß'e bebaute Seite
-
-bis Quentelslraße unbebaute Seite
-
-bis Annostraße
-
-Dreikönigenstraße
-
-Fleischmengergasse
-
-bisBayardsgasse
-
-bis Ende
+Ehrenstraße
 
 Follerstraße
 
-~
-
-.
+von Nr. 2a
 
 bis Koelhofstraße
 
@@ -297,462 +264,89 @@ bis Kleine Witschgasse unbebaute Seite
 
 bis Mathiasstraße
 
-Friesenstraße
+Frankenwerft (Rheinuferlunnel)
 
-bis Friesenwall
+von Markmannsgasse
 
-bis Hohenzollernringentlang Magnusstraße
+bis Fischmarkt
 
-Gabelsbergerstraße
+unterer Fußgängerbereich (Promenade)
+
+Georgsplatz
+
+Parkplatz
+
+"Gcreonskloster (außer Platzfläehc) '' • ,
+
+entlang den Häusern Nr. 2 bis Nr. 18
+
+Verbindungsstraße zwischen
+
+Gcreonstraße Nr. 7 und ,7a
+
+Verbindungsweg zwischen
+
+Gereönstraße 11 und 13
+
+2 Verbindungswege zum Gereonshof
+
+Im Weichserhof
+
+Stiehstraße neben Nr. 5-11
 
 bebaute Seite
 
 unbebaute Seite
 
-Gereonskloster
+• Parkplatz unter der Severinsbrückc
 
-Fußweg zum Kindergarten
+Innere Kanalstraße
 
-Großer Griechenmarkt
+3. Fahrbahn von Krefelder Straße
 
-bis Neuköllner Straße
+bis Neusser Straße
 
-bis Bachemstraße
+Verbindungsstraße zwischen
 
-^
+Subbelrather Straße und
 
-bis Kleiner Griechenmarkt
+Innere Kanalstraße
 
--^
+Fußgängerbrücke zwischen Lentstraße
 
-Treppen
+und Adam-Wrede-Straße
 
-Gülichplatz
+(einschl. Zu- und Abgänge)
 
-Hühenstaufenring
+Jahnstraße
 
-Platzfläche
+von Mauritiuskirchplatz bis Mauritiuswall'
 
-Hühenzollernring
+ungerade Hausnummernseite
 
-Kolonnade vor Nr. 62
+gerade Hausnummernseite
 
-514
+bis Hohenstaufenring
 
-Slraßenari
+2, Fahrbahn von Humboldtstraße
 
-Anzylil der wöchentlichen Reinigungen
+bis Frankstraße
+
+532
+
+Siraßemirl
+
+Anzahl derwöthentlithen Reinigungen
 
 Fahrbahn
 
 Gehweg
 
-Reinigungsverpflichieier
-
-Fahrbahn" Gehweg
-
-Sladi
-
-Anlieger
-
-Stadt
-
-An- , lieger
-
-A
-
-3
-
-X
-
-H
-
-6
-
-6
-
-X
-
-X
-
-H
-
-••5
-
-5
-
-X
-
-X
-
-H
-
-3
-
-3
-
-X
-
-X
-
-A
-
-6
-
-.6
-
-X
-
-X
-
-A
-
-3
-
-3
-
-X
-
-X
-
-G
-
-6.
-
-X
-
-A
-
-6
-
-X
-
-H
-
-5'
-
-5' X
-
-X•
-
-G
-
-2
-
-X
-
-G
-
-2
-
-x'
-
-H
-
-6,
-
-6
-
-X
-
-X
-
-A
-
-6
-
-6
-
-X
-
-X
-
-FG
-
-.'6
-
-X
-
-A.
-
-5
-
-X
-
-A
-
-5' .
-
-X
-
-FG
-
-13
-
-X
-
-A
-
-6.
-
-6
-
-X
-
-X
-
-A
-
-6
-
-6
-
-X
-
-X
-
-A
-
-6
-
-X
-
-A
-
-5•
-
-X
-
-A
-
-5
-
-5
-
-X
-
-X
-
-A
-
-5•
-
-X
-
-A
-
-5
-
-5
-
-X•
-
-X
-
-A
-
-,6
-
-^6
-
-X
-
-X
-
-A
-
-5
-
-5.
-
-X
-
-X
-
-A
-
-6
-
-6
-
-X
-
-X
-
-A
-
-3
-
-3
-
-X
-
-X
-
-A
-
-3
-
-3
-
-X
-
-X
-
-•• A
-
-3
-
-X
-
-A
-
-5
-
-5
-
-X
-
-X
-
-H
-
-6
-
-6
-
-X
-
-X
-
-H
-
-6
-
-X
-
--
-
-A
-
-3
-
-3
-
-X
-
-X
-
-A
-
-3
-
-X
-
-A
-
-5•
-
-X
-
-A
-
-5
-
-X
-
-A
-
-3
-
-3
-
--X
-
-x
-
-A
-
-3
-
-X
-
-A
-
-3
-
-.3
-
-X
-
-X
-
-A
-
-.3
-
-X
-
-A ••
-
-6
-
-6
-
-X
-
-X
-
-H
-
-7
-
-7
-
-X
-
-X
-
-H
-
-7
-
-X
-
-11
-
-13
-
-13
-
-X
-
-X
-
-H
-
-13
-
-X
-
-iR_lpw7Ziir^llcn-- X1
-StraGennume
-in der Fleischhalle In der Höhle
-von Hohe Straße bis Große Sändkaul bis Marspfortengasse bis Quatermarkt Innere Kanalstraße 3. Fahrbahn von Krefelder Straße bis Neusser Straße Verbindungsstraße zwischen Subbelrather Straße und Innere Kanalstraße Fußgängerbrücke zwischen Lentstraße und Adam-Wrede-Straße (einschl. Zu- und Abgänge • zur Inneren Kanalstraße) Jupp-Schmitz-Plätzchen Kartäuscrwall bis Ulrichgassc bis Am Trutzcnbcrg Komödienstraße Markmannsgasse bis Nr. 5 bis Nr. 15 Parkplatz ' Querspange (unter dem Maritim-Hotel) Marlin-Luther-PIatz Parkplatz Neumarkt Platzfläche Parkplatz von 32-38 Rosenstraße von Severinstraße bis Achterstraße bis Annostraße bis Zwirnerstraße bis Bayenstraße Salomonsgasse bis Marspfortengasse bis Laurcnzplatz
-
-Straßenan
-
-Anzahl (lerwöcheniIkhen Reinigungen
+Reinigungsverpflichteter
 
 Fahrbahn
 
-Gehweg
-
-Reinigungsverpflichteier
-
-Fahrbahn
-
-Gehweg
+üehweg
 
 Stadt
 
@@ -764,61 +358,57 @@ Anlieger
 
 FG
 
-6
-
-X
+13 "
 
 FG
 
-A
-
-6
+13
 
 H
 
-2
+•- 13. .
 
 13
 
-X-
-
-6
-
 X
 
-X
+'G
 
-X
-
-X
-
-2
-
-X
-
-X
+• 13
 
 A
 
-3-
+.• 2
 
-3
+.H
+
+12
+
+12
 
 X
+
+.
+
+H
+
+12 •.
 
 X
 
 H
 
-2
+6
 
-X'
+FG
 
-2
+H
+
+12
+
+6
 
 X
-
-A
 
 12
 
@@ -826,15 +416,27 @@ X
 
 A
 
-5
+1
 
-5
+• 1•X
+
+H
+
+12
+
+12
 
 X
 
+A
+
+3
+
+3'
+
 X
 
-•A
+A
 
 3
 
@@ -842,37 +444,17 @@ X
 
 X
 
-X
+A
 
-H
-
-n
-
-11
+3
 
 X
 
-X
+A
 
-H
+,5
 
-6
-
-6
-
-X
-
-X
-
-H
-
-6
-
-X
-
-H
-
-6
+5
 
 X
 
@@ -882,253 +464,169 @@ H
 
 X
 
-A
-
-•. 5
-
-5
-
-X
-
-X
-
-A
-
-2.
-
-.X
+••
 
 H
 
 12
 
-12
+X
+
+H
+
+-5
+
+1•
+
+X•
+
+A• •A
+
+5
+
+;•5
 
 X
+
+1i
 
 X
 
 A
 
-12
+5
 
 X
+
+A
+
+5
+
+X
+
+A•
+
+A
 
 A
 
 3
 
+5
+
+5•
+
+3
+
 X
 
-•
+A
+
+3.
+
+A
+
+3
+
+A
+
+2
+
+H
+
+2
+
+A,
+
+3
+
+3
+
+X
+
+X
+
+X
+
+2
+
+X
+
+3 ' x;
+
+H
+
+2
+
+X
+
+G
+
+2
 
 H
 
 5
 
-5
-
 X
 
-X
-
-A
+H
 
 5
 
-5
+5-
 
 X
 
-X
+H
 
-A
-
-5
-
-X
-
-A
-
-5
+.5 .
 
 5
 
 X
 
-X
+H
 
-y
-
-FG
-
-13
+5
 
 X
 
-A
-
-6.-
-
-6
-
+X X X X X
 X
-
+"
+X X
+X X
+X X X'
+1 •X
+X X X X
+X X X;
+;
 X
+X X
 
-•
-515
-
-Stadtbezirk 2
-516
-
-Bezirk: 2
-
+Bezirk: 1
 Straßenname
+Mauritiuskirchplatz von Mauritiussteinweg bis Am Rinkenpfuhl bis Arndtstraße von Mauritiussteinweg bis Jahnstraße Kirchenseile gegenüberliegende Seite Platzfläche an der Jahnstraße
+Mittelstraße Neumarkt
+Platzfläche Neusser Platz
+von Weißenburgstraße bis Neusser Wall Platzflächc an der Neusser Straße Platzflächc am Neusser Wall Pantaleonsmühlengasse von Weyerstraße bis Wendehammer von Friedrichstraße bis Salierring Schildergasse Severinskirchplatz Platzfläche an der Severinsstraßc Severinskloster Thcodor-B abilon-Straße ohnc'Treppen zum Parkplatz von Haus Nr. 2 und gegenüber bis Haus Nr. 5 und gegenüber
 
-Albcrt-Schwcitzer-Straße
+Straßen an
 
-bis Wendekreis vor der Kirche
-
-Parkplatz am nördl. Ende der
-
-Albert-Schweitzer-Straße
-
-Fußweg vom Wendeplatz zwischen
-
-Nr. 3-5a und dem Parkplatz
-
-Alte Brühler Straße
-
-von Am Kölnberg
-
-bis Blasiusstraße
-
-bis Brühler Landstraße
-
-Am Wingcrt
-
-von Weidengasse bis Nr. 49
-
-Verbindungsweg zum Pflastcrhofweg
-
-entlang den Grundstücken
-
-. Am Wingcrt 41/43 und Pflasterhofweg 74/76
-
-Verbindungsstraße zur Weißer Hauptstr.
-
-entlang den Grundstücken
-
-Am Wingert 40/44 und
-
-Weißer Hauptstraße 8/10
-
-An den vier Linden (bebaute Seite)
-
-Birkenweg
-
-von Weißdornweg
-
-bis Lerchenweg
-
-Bliesheimer Straße.
-
-gegenüber Nr.-7-13
-
-Brühler Landstraße (Höningen)
-
-von Nr. 39 bis einschl. Nr. 65
-
-von Nr. 66 bis einschl. Nr. 112
-
-Derkumer Straße
-
-von Markusstraße bis Vernicher Straße
-
-Stichstraße hinter Nr. 54-112 der Markusstraße
-
-Verbindungsweg entlangdef Schule
-
-Eisvogelweg
-
-von Hahnenstraße
-
-bis einschl. Garagenzufahrt zu Nr. X8
-
-Stichstraße zwischen Nr. 1-25
-
-Ensener Weg (Weiß)
-
-bis Nr. 53
-
-Stichstraße entlang Nr. 28-40a
-
-Godorfer Straße
-
-.-
-
-1 von Giesdorfer Allee
-
-bis einschl. Nr. 58 gerade Hausnummern
-
-bis einschl.' Schulgeiände ungerade Hausnummern
-
-Hahnenstraße
-
-bis Am Blauen Stein
-
-bis Nr: 9
-
-bis Sperberweg
-
-Stichstraße zu den Grundstücken
-
-Nr. 62-94 und 96-134
-
-Hausweilerstraße
-
-von Vernicher Straße
-
-•
-
-bis Nr. 7
-
-•
-
-Markusplatz
-
-Maternusplatz
-
-Parkplatz
-
-Maternusstraße (Rodenkirchen)
-
-Reiherstraße
-
-Römerstraße (Rodenkirchen)
-
-von Friedrich-Ebert-Straße
-
-bis Schillingsrotter Straße
-
-bis An den vier Linden (bebaute Seite) "
-
-Siraßenart
-
-Anzahl der wöchenctichen Reinigungen
+Anzahl der wöchentlichen Reinigungen
 
 Fahrbahn
 
 Gehweg
 
-Rcinigungsverpflichteter
+Reinigungs- ' verpflichteter
 
 Fahrbahn
 
 Gehweg
 
-Stadi
+Stadt
 
 Anlieger
 
@@ -1136,213 +634,68 @@ Stadt
 
 Anlieger
 
-A
-
-1
-
-1
-
-X
-
-X
-
-A
-
-1
-
-X
-•
-X
-
-A
-
-1 - ..
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X.
-
-X
-
-H
-
-1-
-
-X
-
-X
-
-X
-
-A
-
-1
-
-A-
-
-1
-
-H
-
-1
-
-H
-
-•1
-
-A
-
-1
-
-X
-
-X
-
-1
-
-X
-
-X
-
-X
-
-X
-
-•
-
-X
-
-X
-
-X
-
-1
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X X
-
-X
-
-X
-
-X
-
-X
-
-H H
 A A
--A A A A H A
 
-1
-
-X•
-
-X
-
-1
-
-X
-
-X
-
-1
-
-X
-
-X
-
-i.
-
-X
-
-X
-
-X
-
-x'
-;,
-
-1
-
-1
-
-X
-
-X ..
-
-1
-
-1-
-
-X
-
-X
+A
 
 3
 
-3
-
-X
-
-X
+A
 
 3
 
-X
-
-3
-
-3
-
-X
-
-X
-
-1
-
-X
-
-X,
-
-H-
-
-1
+A
 
 H
 
-1
+12
+
+H
+
+12
+
+A
+
+H H H
+
+A
+A FG A A A
+A
+A
+
+3 3
+12 12
+
+3
+
+X
+
+13
+
+5
+
+X
+
+5
+
+X
+
+2
 
 X
 
 X
 
-X
+533
 
-X
+Stadtbezirk 2
+534
 
-517
-
-Bezirk: 2
+BiL^tVv^ilrlk^-. 9^
 Straßenname
-Schulze-Delitzsch-Straße Sürther Straße - von gegenüber Einfahrt Friedhof
-bis Wattigniesstraße von Einfahrt Friedhof bis Ende Schuigrundstück IGS Vernicher Straße -Vochemer Straße (ZoHstock) Weilerswister Straße gegenüber Nr. 1-13 Weißer Straße von Walter-Rathenau-Straße bis Grüngürtelstraße von Johann-Strauß-Straße his Auf dem Kiemberg/Ludwigstraße Verbindungsweg zur Riifgelnatzstraße
+Adamstraße Adlcrstraße
+Wohnweg zu Nr. 21-27 - Stichstraße zwischen. Nr. 3S-64,
+7^102, ilS-144 Verbindungsweg zwischen Nr. 30-32' " zur Grünanlage Am Lennartzhof Verbindungsstraße entlang Nr. 2-18 und 28 • Verbindungsweg neben Nr. 38-40 - bis ßirkenweg Verbindungsweg zur Rheinuferbahn Verbindungsweg von Birkenstraße " zur Rheinuferbahn Verbindungsweg entlang Nr. 5-35 Verbindungsweg neben Nr. 37^7 bis zum Engelshof Carl-Jatho-Straße Fritz-Hecker-Straße von iVlarienhof bis Leichweg/Landskronstraße bis Sportplatzcndc Fritz-Reuter-Straßc (Bayenlhal) Fuchskaulenweg . von Weißer Straße bis Nr. 5 Seitenfront Weißer Straße 165 Heinrich-Erpenbach-Straßc von Nr. 351 , bis Bahnhofstraße Hans-Berge-Straßc Verbindungswege entlang Nr. 1-5, 2-10,9-13, 14-22, 19-23,. Sperberweg 51-53, 25-50 und Carl-Jatho-Straße 12-14, 26-34 Höningcr Weg von Eifclwall ^ bis Am Vorgebirgstor bis Höninger Platz bis Nr. 381 bebaute Seite Friedhof seile Stichstraße vor Nr. 222-226 Platzfläche an der Briedeler Straße Platzfläche vor Nr. 222-226 Homburger Straße Stichstraße zu Nr. 7-13 ^ Parkplatz zwischen Nr. 10-16 und 7-13 gegenüber Nr. 14-16 Hugo-Efferoth-Straße Verbindungsweg zur Markusstraße Stichweg entlang Nr. 21-27 Im Faldergarten Stichstraße zwischen Nr. 4 und 6 Stichweg entlang den Garagen und den Hausgrundstücken 24-36 Lotoswcg ' von Ritterspornweg bis Wendehammer Stichwege A, B und C • Stichweg gegenüber der Einmündung des Minzeweges in den Lotosweg
 
 Straßenart
 
@@ -1352,7 +705,7 @@ Fahrbahn
 
 Gehweg
 
-Reinigungsverpriichieier
+Rcinigungsverpflichteter-
 
 Fahrbahn
 
@@ -1362,234 +715,151 @@ Stadt
 
 Anlieger
 
-Stadt
-
-Anliege r
-
-A
-
-H
-H A
-A A
-
-H H
-
-518-
-
-Stadtbezirk 3
-519
-
-UR\^pty^±irLlcEi". 1 -1^ StraBenname
-
-Albertus-Magnus-Platz
-
-von Gyrhofstraße bis Wendeplatz
-
-mit Brücke über die Universitätsstraße
-
-(außer Platzfläche)
-
-Am Gleueler Bach
-
-Stichstraße zu Nr. 4-16
-
-Am Morsdorfer Hof
-
-Bachemer Straße
-
-bis Gleueler Straße
-
-X
-
-bis Decksteiner Straße
-
-bis Feter-Berchem-Straße
-
-bis Ende
-
-Braugasse
-
-Drachenfelsstraße
-
-3 Stichstraßen zu Nr. 10-20, 22-38, 40-58b
-
-Verbindungsweg zur Sicbcngebirgsallcc
-
-Falkenburgstraße
-
-Gleueler Straße
-
-bis Freiligrathstraße
-
-bis Militärringstraße
-
-Stichstraße zu den Grundstücken Sir. 319-331
-
-Immermannstraße
-
-bis Wendehammer vor Nr. 24-32
-
-Verbindungsweg zur Geibelstraßc
-
-Junkersdorfer Straße
-
-von Stadioneingang Ostseite und gegenüber
-
-bis Carl-Diem-Weg/KÖlner Weg
-
-Kantstraße (Weiden)
-
-Verbindungsweg zur Ricarda-Huch-Str.
-
-und zum Bahndamm
-
-Rudolf-Amelunxen-Straße
-
-bebaute Seite
-
-Bahndammseite
-
-Siegstraße
-
-von Am Heidstamm bis Säarstraße
-
-Stichstraße entlang Nr. 25-33
-
-Toyotaallee
-
-von Einfahrt Gewerbepark (östliche Richtung)
-
-bis Wendehammer
-
-Stichstraße entlang den Grundstücken 23-25
-
-bis Ende
-
-Straßen art
-
-Anzahl der wöchentlichen Reinigungen .
-
-Fahrbahn
-
-Gehweg
-
-Reinigungsverp fliehtet er
-
-Fahrbahn
-
-Gehweg
-
-Stadt
+Slath
 
 Anlieger
 
-Stadt
+"^
 
-Anheger
+X
 
-A
+X""
 
-2
-
-A,
+•A
 
 1
 
+X
+
+X
+
+X"
+
+X'
+
+X X X
+
+X X
+
+-
+
+X
+
+X
+
+•
+
+X
+
+X
+
+••
+
 A
 
 1
+
+1
+
+X
+
+X
+
+X
+
+X
+
+X-
+
+"X
+
+X
 
 H
+. H H H H A A A A A AA
+
+]•
+
+X
+
+X
+
+X
+
+-
+
+X
+"
 
 3
-
-H
-
-2.
-
-H
-
-1
-
-A
-
-1
-
-.A
-
-1
-
-• A •.
-
-1
-
-H
-
-' 3"
-
-H
-
-2
-
-A
-
-1
-
-'
-
-H
-
-2
-
-A
-
-1
-
-A
-
-1
-
-A
-
-1
-
-A
-
-1
-
-A
-
-1
-
-2
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-1
-
-X
-
-X
 
 3
 
 X
 
+•X
+
+5-
+
+. • •5 .
+
 X
+
+X
+
+,3
+
+•3
+
+X
+
+X
+
+3
+
+X
+
+3
+
+3
+
+X
+
+X.
+
+3
+
+X•
+
+3•
+
+X
+
+2•
 
 2
 
 X
+
+X
+
+2
+
+2
+
+X
+
+X
+
+2••
+
+2
+
+X
+
+.X
+
+2
 
 X
 
@@ -1605,43 +875,7 @@ X
 
 X
 
-X.
-
-X-
-
-X
-
-X
-
-'
-
-X
-
-\
-
-X
-
-X
-
-3•
-
-X
-
-X
-
-2
-
-X
-
-X
-
-X
-
-1
-
-X
-
-X X•
+X-'
 
 X
 
@@ -1651,547 +885,220 @@ X
 
 X
 
-X
+535
 
-1
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-••
-
-520
-
-Stadtbezirk 4
-521
-
-Bezirk: 4
-StralSenname
-Börriestraße von Schumacherring .bis Wendehammer
--Fußweg.zum Ollenhauerring Parkplatz
-Jennerstraße Josef-Esser-Platz
-ohne Platzflächc -Unter Bergamotten
-von Unter Kirschen bis Am Langen Stein von Josef^Esscr-Platz bis UnterBirnen bis Seitenfront Sandweg 145 bis Seitenfront Sandweg 147 Unter Birnen Gehweg gegenüber von Haus Nr. 39-65 und gegenüber Haus Nr. 71-81 Unter Kirschen Gehweg von Akazienweg bisNr. la, von Nr. 5 bis Ende, von Nr. 2-8 und von Josef-Esser-Platz bis Ende Verbindungsweg zum Akazienweg
-
-Siraüenart
-
-Anzahl der wöchentlichen Reinigungen
-
-Fahrbahn
-
-Gehweg
-
-Reinigungsverpflichteter
-
-Fahrbahn
-
-Gehweg
-
-Stadi
-
-Anlieger
-
-Stadl
-
-Anlieger
-
-A A
-
-A
-
-1
-
-A
-
-1
-
-A
-
-1
-
-A
-
-1
-
-A
-
-A'
-
-1
-
-A
-
-522
-
-Stadtbezirk 5
-523
-
-Bezirk: 5
+Bezirk: 2
 Straßenname
-Giselherstraße Hcinrich-von-Stephan-Straße
-Wohnwege von Nr. 1-3, 7-11, 13-15 Stichstraße Verbindungsweg zwischen Nr. 6 und.8 Parkplatz Mülhauser Straße Wohnweg vor Nr. 10 Fußweg zur Grünanlage Rotterdamer Straße 3 Stichstraßen zu Nr. 1-35 nur bebaute Seite vor den Häusern Nr. 1-35 ' Verbindungsweg zur Richter Straße Simon-Meister-Straße Parkplatz neben Nr. 33 Wandsbcker Straße Zonscr Straße von Nr. la und gegenüber bis Werkstattstraße Fußweg zur Merheimer Straße und Nr. la
-
-SiriiBenart
-
-Anzahl der wöchentlichen Reinigungen
-
-Fahrbahn
-
-Gehweg
-
-Reinigungsverpflichtcter
-
-Fahrbahn
-
-Gehweg
-
-Siadt
-
-Anlieger
-
-Stadt
-
-Anlieger
-
-A A
-
-A A
-A A A
-A A A
-A A
-
-524
-
-Stadtbezirk 6
-525
-
-Bezirk: 6
-
-Straßenname
-
-Am Donatushof
-
-Parkplätze -
-
-•Donatusweg
-
-bis Weiler Weg (Spielstraße)
-
-bis Ende (Wendehammer)
-
-Fröbelstraße
-
-von Schulstraße über Pestalozzistraße
-
-bis Schulsiraße
-
-Stichstraße entlang den
-
-••-Hausgrundslücken 93-95 und 109-111
-
-• Wohnwege entlang den Hausgrund-
-
-stücken Nr. 5c/7 und 9-21, 36-52,
-
-54-68, 78-84
-
-Fuß- und Radweg ca, 11 Meter Teilstück
-
-vom Wendebereich der Stichstr.
-
-im Bereich der Hausgrundslücke Nr. 95/109
-
-bis zum Garagenhof
-
-Fuß- und Radweg ca. 23 Meter Teilstück
-
-von Zufahrt zum Garagenhof entlang den
-
-Hausgrundstücken Nr. 49-107 u. 109
-
-Gaußstraße
-
-von'Montessoristraße bis einschließlich
-
-Wendebereich
-
-Hackenbroicher Straße
-
-Von St.-Tönnis-Straße
-
-• bis An den Kaulen
-
-bis Bitterstraße
-
-bis Alte Straße
-
-Kopenhagener Straße
-
-bis Einfahrt Tiefgarage und gegenüber
-
-Fußweg entlang Haus Nr. 1 und 3
-
-bis Trondheimer Weg
-
-Longericher Straße (Fesch)
-
-Platzfläche Longericher Straße/
-
-Ecke Escher Straße
-
--Martersteigstraße
-
-Fußweg zur Compesstraße
-
-Montessoristraße
-
-Wege entlang der Hausgrundstücke Nr. 15 und 17
-
-Nr. 15 bis zum Kiefernweg/Lerchenweg
-
-. Nr. 19-31, 33-43, 45-57
-
-Neusser Landstraße
-
-von BAB-Überführung
-
-bis Stallagsbergweg (bebaute Seite)
-
-• von Schule bis Nr. 172
-
-2. und 3. Fahrbahn vor Nr. 85-115
-
-und vor Nr. 132-172
-
-von OD-Schild (Ortsanfang Worringen)
-
-bis Nr. 439
-
-•' ,
-
-Pestalozzislraße
-
-von Fröbelstraße bis Mengenicher Straße
-
-Stichstraße Nr. 4-14, 16-24, 27-35, 51-57
-
-und Grüner Weg 2
-
-Stichstraße Nr. 67-73, 81-89
-
-Wege entlang den Hausgrundstücken
-
-Nr. 1-19 und 29
-
-Fröbelstraße 9 und Schulstraße 53
-
-• Nr. 21-25, 35^9, 59-65, 89-101
-
-Schulstraße
-
-Wege entlang den Hausgrundstücken
-
-Nr. 15-19, 35-53, 61-63
-
-526
-
-Straßenart
-
-Anzahl der wöchentlichen Reinigungen
-
-Fahrbahn
-
-Gehweg
-
-Reinigungsverpflichieter
-
-Fahrbahn
-
-Gehweg
-
-Stadt
-
-Anlieger
-
-Stadt
-
-Anlieger
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
->f
-'
-X
-
-X
-
-X
-
-H
-
-1
-
-H
-
-1
-
-A
-
-3
-
-A
-
-H
-
-1
-
-•
-
-A
-
-1
-
-•^
-
-H
-
-1•
-
-H
-
-1
-
-H
-
-1
-
-"
-
-A
-
-l'
-
-X
-
-X
-
-X
-
-X
-
-X
-
-.X
-
-3.
-
-X
-
-X
-
-3
-x
-
-X X
-
-1
-
-X
-
-X X
-"x
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X.
-
-X
-
-X
-
-X
-
-X
-
-X
-
-Stadtbezirk 7
-527
-
-Bezirk: 7
-Siraßenname
-Bahnhofstraße bis Hauptstraße bis Mühlenstraße
-- bis Ende Meirowskystraße
-von Johannesstraße bis Wendeplatz bis Neue Eilcr Straße
+Minzeweg von Lotosweg'bis Wendehammer Verbindungswege zur Remigiusstraße, Lotosweg und zwischen Minzeweg und Hagebuttenweg Stichweg nördlich und östlich des Wendehammers Stichweg nördlich zum Verbindungsweg zum Hagebuttenweg abgehend Stichweg vom Verbindungsweg zum Lotosweg-abgehend
+Maternusstraße (Rodenkirchen) von Hauptstraße
+, bis Bahnübergang Neuenahrer Straße Ober Buschweg.
+bis Industriestraße Stichstraße zwischen Nr. 5 bis 17b Reiherstraße Stichstraße zwischen Nr. 19 bis 27 Sürther Straße von Hauptstraße bis Grüngürtelsträßc von gegenüber Einfahi^t Friedhof bis WattigniestralSe bis Ende Schulgrundstück IGS Waldkauzweg von Reiherstraße bis einschl. Nr. 77 ,Verbindungswege entlang 5-7; 28-48, 8-22, 68-70 und Adlcrstraße 18-20
 
 Straßen art
 
-Anzahl der wöchentlichen Reinigungen
+Anzahl der wöchentiidicn Reinigungen
+Fahrbahn ' Gehweg
+
+Reinigungsverptlichteter
 
 Fahrbahn
 
 Gehweg
 
-Reinigungsverpflichteter
+Slaclt
+
+Anheger
+
+Stadt
+
+Anlieger
+
+H A H A
+H H H
+XI
+
+536
+
+Stadtbezirk 3
+537
+
+Bezirk: 3
+
+Slraßenniime
+
+Am Justizzentrum
+
+von Rudblf-Amelunxen-Straße
+
+. bis einschließlicli Wendehammer
+
+von Rudolf-Amelunxen-Straße
+
+rechte Seite bis einschließlicli
+
+Wendehammer
+
+Belvederestraße
+
+von Wendelinstraße
+
+bis Walter-Binder-Weg
+
+bebaute Seite bis Nr. 159
+
+Wohnweg neben Nr, 3Ü
+
+Brauwcilcrstraße
+
+bis OD-Schild (Randkanal)
+
+Fußweg von Brauweilerstraße
+
+bis Odemshofallee (entlang Bahndamm)
+
+Carl-Diem-Weg
+
+Hanfweg .
+
+Hecken weg
+
+von Odemshofallee bis Nr. 2a
+
+Fußweg zur Brauweilerstraße
+
+Joseph-Teusch-Straße
+
+'
+
+Verbindungsweg von Wendehammer
+
+bis Dürener Straße entlang den Grundstücken
+
+Joseph-Teusch-Straße 7
+
+und Dürener Straße 332/334:
+
+Stichweg entlang den Hausgrundstücken 10-12
+
+Jungbluthgasse
+
+von Langgasse
+
+bis Holunderweg
+
+Stichstraße zu den Grundstücken
+
+Jungbluthgasse 18-20
+
+Jungbluthgasse 24—32
+
+Meister-Johann-Straße
+
+Morbacher Straße
+
+,
+
+• Wohnwege vor Nr. 8-14 und 16-20
+
+Verbindungsweg zur Kempfelder Straße
+
+Paul-Schallück-Straße
+
+mit Verbindungs\yegen zu den
+
+• _ /"
+
+Häusern Nr. 5-11 und 15-25
+
+Piusstraße
+
+-
+
+von Aachener Straße
+
+bis Wbensamstraße
+
+Parkplatz Ecke Piusstraße
+
+Geleniüsstraße
+
+Pfarriusstraße
+
+Raschdorffstraße
+
+Vincenz-Statz-Straße
+
+Voigteist raße
+
+Werthmannstraße
+
+bis Nr. 34a und gegenüber
+
+weiterführende Umfahrt von
+
+Nr. 23/44 bis 23/44
+
+-2 Verbindungswege zwischen Nr. 11-13
+
+und Nr. 17-19 zur Dürener Straße
+
+538
+
+Straßenurt
+
+Anzahl de wüchenlIkhen Reinigungen
 
 Fahrbahn
 
 Gehweg
 
-Stadt
+-Reinigungs-, verpflkhieler
 
-Anlieger
-
-Stadt
-
-Anlieger
-
-A FC H
-
-.X
-
-528
-
-Stadtbezirk 8
-529
-
-Bezirk: 8
-Straßenname
-Kleinfeldchcnsweg Singhofenerstraßc
-Verbindungswege zwischen Singhofenerstraßc und Sauerlandstraße entlang den Hausgrundstücken Nr. 1-7 und Sauerlandstraße 8 Waldbrölerstraße
-
-Straßenart.
-
-Anzahl der wöchentlichen Reinigungen
-
-Fahrbahn
-
-Gehweg
-
-Reinigungsverpfl ich teter
-
-Fahrbahn
-
-Gehwee
-
-Stadt
-
-Anlieeer
-
-Stadt
-
-Anlieger
-
-530
-
-Stadtbezirk 9
-531
-
-Bezirk: 9
-Straßenname
-Alte Wipperfürther Straße Am Steinbergs Weiher
-von Stegwiese bis Wendeplatz Verbindungsweg zur Steeger Straße Verbindungsweg zur Dellbrücker Straße Verbindungsweg von Am Steinbergs Weiher zur StcgwieseAVichheimer Straße Bruder-Klaus-Platz Platzfläche mit Koionade Stichstraße zu Nr. 2 und 4 mit Wendehammer und Parkplatz Buschfeldstraße von Bergisch Gladbacher Straße bis Piccoloministraße bis Zillestraße bis Ende Fußweg zum S-Bahn-Haltepunkt Glostermannstraße Cottbuser Straße von Berliner Straße bis Neurather Ring bis Schanzenstraße Dellbrücker Straße Hagedornskamp bis Nr. 3/7 und 2-13 Fußweg zur Märchenstraße Isenburger Straße Isenburger Kirchweg bis Nr. 52/53 Isolanistraße von Nr. 2-Nr. 8 Seifenfront Senistraße Nr. 10 Melanchthonstraße Wohnwege zu Nr. 21^27, 29-37, 39^7, 49-55, 44^8, 50-54, 56-62, 64-72 und 74-80 Verbindungsweg von Nr. 15 bis Nr. 88 . Scheidemannstraße Stichstraße zu Nr. 18-20 " Wohnwege zu Nr. 10-12, 14-16 Schlagbaumsweg von Wichheimer Kirchweg bis Einfahrt Gut Schlagbaum StichstraBe zu den Hausgrundstücken Nr. 220-256 Stichstraße von Hauptführung Schlagbaumsweg bis Haus Nr. 244a von Haus Nr. 218h bis Ende Senistraße von Rodfeldstraße ^ bis Isolanistraße bis Wallensteinstraße Vischeringstraße Weg südlich Hausgrundstück Nr. 20 bis Fuß- und Radweg Zwickauer Straße Weg von der Westgrenze des Hausgrundstücks Vischering Straße 20 entlang der Kieingartenanlage bis Fußund Radweg Zwickauer Straße
-
-Anzahl der wöchentlichen Reinigungen
-
-Straßenart • Fahrbahn
-
-Gehweg
-
-Reinigungsverpflichteter
-
-Fahrbahn
+Fahrhahn
 
 Gehweg
 
 Stadt
 
-Anlieger
+Anhcgcr
 
 Stadt
 
 Anlieger
 
-H
+FG
+
+.A
+
+1
 
 3
 
-3
+•X
+
+'
+
+X
+
+„
+
+A
+
+1-
+
+X
+
+A
+
+i
+
+1
+
+X
+
+X
+
+X
 
 X
 
@@ -2201,7 +1108,35 @@ A
 
 1.
 
-1
+X
+
+X
+
+X
+
+X'
+
+X
+
+X
+
+.X
+
+X
+
+X
+
+X
+
+.'
+
+#
+
+X X
+
+A
+
+1.
 
 X
 
@@ -2211,37 +1146,39 @@ A
 
 1
 
-X
+"A
+
+•3
 
 X
 
 X
 
 X
+
+1 •' X
+
+X
+
+;X
+
+X
+
+"•
+
+X
+
+X
+
+3
+
+.X
 
 X
 
 A
 
-1
-
-1
-
-X
-
-X
-
-A
-
-1
-
-X
-
-^X
-
-X
-
-X
+3,
 
 X
 
@@ -2251,9 +1188,17 @@ A
 
 2
 
-X
+X•
 
-X
+1X
+
+A
+
+1
+
+A•
+
+1
 
 A
 
@@ -2261,13 +1206,21 @@ A
 
 A
 
-3
+•1
 
 A
 
-,I
+•1
+
+-"
 
 A
+
+1
+
+'"
+
+X
 
 1
 
@@ -2275,67 +1228,11 @@ X
 
 X
 
-X
-
-X
-
-3
+1
 
 X
 
 X
-
-X-
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-•
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-X
-
-.A
 
 1
 
@@ -2343,6 +1240,14 @@ X
 
 X
 
+1
+
+X
+
+X
+
+•1
+
 X
 
 X
@@ -2353,22 +1258,430 @@ X
 
 X
 
-532
+-
 
-Bezirk: 9
+Stadtbezirk 4
+539
+
+Bezirk: 4
 Straßenname
-Wichheimer Kirchweg von Schlagbaumsweg bis Nr. 1086/129 Stichstraße (Wohnweg) zu den Häusern 131-135 Stichstraße (Wohnweg) zu den Häusern 143-147
-Zillestraße Stichstraße zu Nr. 13-65 und Nr. 67-127
 
-Straßenart
+Claudius-Dornicr-Straßc
 
-Anzahl der wöchentlichen Reinigungen
+Ehrenfeldgürtel
+
+Arkade vor Haus-Nr. 130
+
+Grüner Weg
+
+Grüner Brunnenweg
+
+Gunther-Plüschow-Straße
+
+Helm hol tzplatz
+
+außer Platzfläche
+
+Lukasstraße
+
+Fußgängerbrücke zu Am Gleisdreieck
+
+mit Treppenanlagen
+
+Matlhias-Brüggen-Straße .
+
+von Venloer Straße
+
+,
+
+bis Hugo-Eekener-Straße
+
+Stichstraße neben Nr. 20
+
+Stichstraße zwischen Nr. 7 und Nr. 9
+
+bis Militärringstraße
+
+Melli-Beese-Straße
+
+Mühlehweg-
+
+von Sandweg bis Matthias-Brüggen-Straße
+
+Nonniweg •
+
+von Helmholtzstraße
+
+bis Melatener Weg
+
+Gehweg gerade Hausnummern
+
+bis Äussere Kanaistraße
+
+Obere Dorfstraße
+
+Stichstraße neben Nr. 47
+
+Stichstraße zu Nr. 73a-S3
+
+Stichstraße mit Wohnwegen von Nr. 10
+
+bis 18b und Treppenanlage zur
+
+Klütschgasse
+
+Pellcnzstraße
+
+Rektor-Schmitz-Straße
+
+Richard-Byrd-Straße
+
+von Von-Hünefeld-Straße
+
+bis Von-Hünefeld-Straße
+
+Steubenstraße
+
+bis Haus-Nr. 15/16
+
+Gehweg vor Haus-Nr. 17/18
+
+Verbindungsweg zu den Häusern Nr. 19-23
+
+und 20-24
+
+Von-Hünefeld-Straße
+
+von Hugo-Eckener-Straßc
+
+bis Matthias-Brüggen-Straße
+
+bebaute Seite gerade Hausnummern
+
+bis Haus Nr. 45 Seitenfront
+
+Richard-Byrd-Straße
+
+bebaute Seite ungerade Hausnummern
+
+Venloer Straße
+
+von Innere Kanalstraße bis
+
+Wilhelm-Mauser-Straße
+
+vor dem Grundstück Flur 74, Flurstück 1297/1
+
+(Rochuskapelle)
+
+Platzflächc vor dem Hallenbad
+
+Platztläche vor Nr. 601-603
+
+bis Akazienweg
+
+bis Militärringstraße
+
+bis Freimersdorfer Weg
+
+540
+
+Siraßenarl
+
+. Anzahl der wöchentlichen Reinigungen
 
 Fahrbahn
 
 Gehweg
 
-Reinigungsverpflichteter
+Reinigungsverpflichtetcr
+
+Fahrbahn
+
+Gehweg .
+
+Stadt
+
+Anlieger
+
+Sladt
+
+Anlieger
+
+A
+
+1
+
+•:x
+
+X
+
+H
+
+5
+
+•5
+
+X
+
+X
+
+H
+
+5
+
+X
+
+X
+
+X
+
+A
+
+1
+
+1
+
+X
+
+X
+
+,A
+
+1
+
+X
+
+X
+
+A
+
+2
+
+X
+
+A
+
+2
+
+2
+
+X
+
+X
+
+G
+
+1
+
+X
+
+A
+
+1
+
+A
+
+1
+
+A
+
+1
+
+A
+
+1
+
+A
+
+1
+
+A
+
+1
+
+1
+
+X
+
+1
+
+X
+
+X
+
+X
+
+X
+
+1
+
+X
+
+X X
+X X X
+X-
+
+A
+
+2
+
+A
+
+A
+
+2
+
+A
+
+,1
+
+X
+
+2
+
+X
+
+2
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X,
+
+A'
+
+3
+
+X
+
+X
+
+3
+
+X
+
+X
+
+"X
+
+X
+
+A
+
+1
+
+A
+
+1
+
+A
+
+X
+
+1
+
+X
+
+1
+
+X
+XX
+X
+
+A
+
+1
+
+A
+
+1
+
+X X X
+X X•
+
+H
+
+6
+
+6
+
+X
+
+X
+
+H
+
+6
+
+• X.
+
+G
+
+2
+
+X
+
+A
+
+2•
+
+X
+
+H
+
+5
+
+5
+
+X
+
+X
+
+H
+
+2
+
+.2
+
+X
+
+X
+
+H
+
+2
+
+X
+
+X
+
+Stadtbezirk 5
+541
+
+Bezirk: 5
+Straßenname
+Alzeyer Straße Stichstraße von Haus-Nr. 1 bis Wendekreis und gegenüber Stichstraße vor Haus-Nr. 26-36 und gegenüber Gehweg vor Haus-Nr. 26-36. Verbindungsweg zur Rockenhauser Straße
+Auf der Seekante Stichstraße neben Hausgrundstück 6-10
+Contzenstraße Stichstraße
+Cranachstraße Stichstraße zwischen den Hausgrundstücken Cranachstraße 21 und Ausuststraße 11 •
+
+Straßeniir!
+
+Aniijfhl der wöchentlichen Reinigungen
+
+Fahrbahn
+
+Gehweg
+
+Reinigungsvcrpflichtetcr
 
 Fahrbahn
 
@@ -2380,245 +1693,844 @@ Anlieger
 
 Stadt
 
-An-. lieger
+Anlieger
 
-533
+A A A
 
-Aufstellung der Straßen mit besonderem Reinigungsaufwand für die Fahrbahnen
-gem. § 8 Abs. 1 Ziffern 1.1.2 und 1.2.2 Straßenreinigungssatzung
+A A
 
-Anlage 2
+•542
 
-Stadtbezirk Straßenbezeichnung
+Stadtbezirk 6
+543
 
-Achtcrgäßchcn
+Bezirk: 6
+Straßenname
+Fühlinger Weg von Merianstraße bis Damiansweg (bebaute Seite) bis DB-Unterführung Parkplatz am Windröschenweg
 
-Am Bollwerk
+Siraßenari
 
-Am Frankenturm
+Anzahl der wöchenilichen Reinigungen
 
-..
+Fahrbahn
 
-von Am Bollwerk bis Bischofsgartenstraße
+Gehwes
 
-An der Linde
+Reinigungsverpflichteter
 
-Andreaskloster von An den Dominikanern bis Koniödienstraße
+Fahrbahn
 
-Aquinostraße vor Nr. 1 und Nr! 2 von Nr. 31 bis Krefelder Straße
+Gehweg
 
-Aul dem Rothenberg
+Stadt
 
-Balthasarstr. von Nr. 1 bis Nr. 2/3 und von Nr. 16/17 bis Nr. 20 und gegenüber
+Anheger
 
-Bechergasse • von Große Neugasse/Am Hof
-bis Kleine Budengasse/Ecke Mühlengasse
+Stadt
 
-Breite Straße von Richmodstraße bis Apostclnstraße
+AnUeger
 
-Brigittengäßchen
+H H A
 
-Brunostraße von An St. Magdalcncn bis Kartäuscrwall
+544
 
-Buschgasse bis Seiteneingang Biberstraße 4
+Stadtbezirk 7
+545
 
-Buttermarkt"
+Bezirk: 7
 
-Fischmarkt
+Slraßeimame
 
-" Frankenwerft von Markmannsgasse bis Fischmarkt - unterer^Fußgängerbereich -
+Alte Apotheke
 
-Friesenplatz - Platzfläche -
+Fußweg bis Nr. 8 • . . .
 
-Friesenstraße von Friesenwail bis Hohenzollernring entlang Magnusstaße
+Weg zwisclien Alte Apotlieke und
 
-Friesenwall von Magnusstraße bis Friesenstraße
+Franz-Schaaf-Straße
 
-Gereonshof von Von-Werth-Straße/Hildeboldplatz bis Kaiser-Wiihelm-Ring
+Am Courtsgarten
 
-Gereonskloster
+von Hauptstraße bis Wendeplatz
 
-Glockengasse von Krebsgasse bis Hämergasse
+2 Verbindungswege von Wendeplatz
 
-534
+zum Leinpfad (Treppen)
 
-Stadtbezirk Straßenbezeichnung
-Große Neugassc von Auf dem Brand bis Am Bollwerk,
-Großer Griechenmarkt von Neuköllner Straße bis Bachemstraße
-Hämergasse bis Glockengasse
-Im Stavenhof
-Jahnstraße von Frankstraße bis Humboldtstraße . {Seite, ungerade Hausnummern)
-Karl-Berbuer-Flatz
-Kasparstraße von Nr. 1/2 bis Nr. 23/6 von Nr. 20-22/45 bis Krefelder Wall
-Kolumbahof entlang Nr. 3-5 und gegenüberliegende Seite
-Lintgasse
-Maria-Hilf-Straße
-Markmannsgasse von Nr. 5 bis Nr. 13
-Mauthgassc
-Melchiorstraße vor Nr. 5 von Nr. 19/24 bis Nr. 21/28 von Nr. 35/40 bis Ende
-Mittelstraße
-Mühlengasse
-Pfeilstraße von Hahnenstraße bis Mittelstraße
-Quentelstraße
-Rathausplatz
-, Rudolfplatz - Platzfläche -
-Salzgasse bis Buttermarkt
-Severinskloster
-Si.-Apern-Straße von Breite Straße bis Helenenstraße
-Taubengasse von Nr. 1-21.
-Unter Käster
-Unter Taschenmacher
-Utrechter Straße
+Verbindungsweg zur Straße
 
-Stadtbezirk Straßenbezeichnung
+In der Rosenau
 
-Wickrather Straße von Bernhard-Lcttcrhaus-Straßc bis Ende
+von Wendeanlage bis Eingang
 
-Kaisersescher Straße von Mayener Straße bis Nr. 20
+Turmhofrestaurant
 
-3
+Am Grott
 
-Schlegelstraße
+von Niederkassclcr Straße bis einschl
 
-4
+• Wendeanlagc
 
-Grimmstraße
+Am Maarhof
 
-4
+von Mühlcnweg bis Wendekreis".
 
-Gumprechtstraße
+An der Wcidenkaul
 
-4
+von Jägerstraße bis Beginn Fußweg
 
-Intzestraßc
+ca. 45 m langer Stichweg zu den
 
-4
+Häusern 1-13 und 2-16, beginnend
 
-Keplerstraße
+mit den Hausfronten 1 und 2
 
-von Nr. 23-27, 18-30
+Antoniusstraße
 
-4
+•'
 
-Rothchausstraßc
+von Waldstraße bis Gronaustraße
 
-von Nr. 33/34 bis Ende
+Carlcbachstraßc
 
-Stadtbezirk Slraßenbczeichnung
+vori Neue Eiler Straße bis einschl.
 
-4
+Wendeanlagc
 
-Wißmannstraße
+•.Verbindungsstraße zwischen
 
-5
+Carlcbachstraßc und Meirowskystraße
 
-Mauenhcimer Straße
+entlang den Hausgrundstücken 1-25
 
-von Neusser Straße bis_ Schillstraße
+und 27-49
 
-8
+Christrosenweg
 
-Heßhofplatz
+von Irisweg bis Beginn Fuß- und Radweg
 
-8
+neben Hausgrundstück Frcesicnweg 14
 
-Josephskirchstraße
+Weg von Wendeanlagc neben Haus-
 
-von Vorsterstraße bis Kapitelstraße
+grundstück Freesienweg 14 bis Trisweg
 
-8
+Weg zwischen Christrosenweg und
 
-Markt - ohne Platzfläche -
+Püststraße neben Hausgrundstück 58
 
-8
+abgehend
 
-. Martin-Köllen-Straße
+Fischerweg • '
 
-8
+.
 
-Steprathstraße
+Stichweg neben Haus-Nr.- 20 bis
 
-8
+Beginn Haus-Nr. 18
 
-Waldstraße
+Forsbaehstraße ,
 
-von Ostheimer Straße bis Plantagensiraße
+'_
 
-8
+von Am Leuschhof bis Wendekreis
 
-Westerwaldstraße
+4 Wohnwege zu Nr. 1-3, 5-7, 9-11, 13-15
 
-von Am Grauen Stein bis Usinger Straße
+Stichstraße zu den Häusgrundstücken 2-10
 
-9
+Verbindungswege zur Frankfurter Straße
 
-Ratsstraße -
+und Pappelallee
 
-535
+•• .
 
-Aufstellung der Fußgängergeschäftsstraßen mit besonderem Reinigungsaufwand
-gem. § 8 Abs. 1 Ziffer 3.2 Straßenreinigungssatzung
+Freesienweg
 
-Anlage 3
+von Irisweg bis Fuß- und Rädweg'
 
-Stadtbezirk Straßenbezeichnung
-Am Hof von Wallrafplatz bis Sporergasse
-An der Rechtschule von Wallrafplatz bis Richarlzstraße
-An St. Agatha von Antoniterstraße bis Schildergasse
-Antonsgasse von Kronenstraße bis Schildergasse
-Breite Straße von Tunisstraße bis' Richmodstraße
-Brückenstraße von Hohe Straße bis Ludwigstraße
-Domkloster
-Große Budengasse von Hohe Straße bis Marspfortengasse
-Gürzenichstraße bis Große Sandkaul
-Hämergasse von Glockengasse bis Breite Straße
-Heinrich-BöU-Platz
-Hcrzogstraßc ^von Schildergassc-bis Nr. 4/9
+Christrosenweg entlang den
 
-Stadt^ bezirk Straßenbezeichnung
-Hohe Straße von Sternengassc bis Cäcihenstraße von Burghöfchen bis Walhafplatz
-In der Höhle von Hohe Straße bis Große Sandkaul
-Krebsgasse . von Schildergasse bis Brüderstraße
-Kreuzgasse
-Minoritenslraße von Hohe Straße bis Richartzstraße
-Obenmarspforten von Hohe Straße bis Marspfortengasse
-Perlenpfuhl von Nr. 1-3 und Nr. 2-4
-Roncalliplatz
-Salomonsgassc von Hohe Straße bis Marspfortengasse
-Schildergasse
-Unter Fettenhennen von Wallrafplatz bis Burgmauer
-Wallrafplatz
+Haus-Nr. 2-14
 
-536
+Weg zwischen Christrosenweg und Irisweg
+
+Gronaustraße
+
+von Frankfurter Straße bis Mühlenweg
+
+von Mühlenweg bis Antoniusstraße
+
+Stichstraße zwischen Nr. 4 und 20
+
+entlang den Häusern Nr. 92a bis Nr. 92e
+
+Straßcnari
+
+Anzahl der wöchent, liehen Reinigungen
+
+Fahrhahn
+
+Gehweg
+
+Reinigungs• verpflichteter
+
+Fahrbahn
+
+Gehweg
+
+Stadt
+
+Anlieger
+
+Siadt
+
+Anlieger
+
+X
+
+X
+
+X•
+
+X
+
+.
+
+'X
+
+X
+
+X
+
+X
+
+A , •.
+
+1.
+
+X
+
+X
+
+-^
+
+X
+
+X
+
+''
+
+X
+-
+X
+
+X
+
+X
+
+X;
+
+X
+
+^
+
+1
+
+i
+
+X
+
+X
+
+X
+
+X
+
+X
+
+•X
+
+X
+
+X
+
+X
+
+"X
+
+X
+
+X
+
+•X •
+
+X
+
+X
+
+X
+
+A
+
+1
+
+1
+
+1
+
+.X
+
+X 1
+
+X
+
+•1
+
+X
+
+X •• • .
+
+X
+
+X \'
+
+X
+
+X
+
+546
+
+Bezirk: 7
+
+Siraßennamc
+
+•
+
+Humboldtstraße
+
+Stichstraße zu den Hausgrund-
+
+stücken 138-144
+
+Imraenweg .. .
+
+•-
+
+von Im Lochgarten bis einschl..
+
+Wendeaniage
+
+^
+
+'
+
+Stichstraße zu den Hausgrundstücken 1-7,
+
+Verbindungsweg zwischen Immenweg und
+
+Im Lochgarten entlang den Hausgrund-
+
+stücken 8 und^tO und Im Lochgarten 6Ü
+
+und 62
+
+In der Adelenhütte
+
+von Hauptstraße bis Irisweg
+
+von Rczagstraße bis Poststraße
+
+Gehweg nur rechte Seite
+
+Irisweg
+
+'
+
+Fußweg zum Fliederweg und zur
+
+Hauptstraße
+
+Fußweg entlang der KVB-Trasse
+
+Fußweg entlang der Schule zur KVB-Trasse
+
+Parkplatz vor Nr. 95-103
+
+Verbreiterung der ösdichcn Straßenseite
+
+im Abschnitt, von Roscnhügel bis Christrosenweg
+
+von neben Haus-Nr. 34 bis einschl.
+
+Wendeanlage vor Nr. 60 und 62 sowie
+
+der Einmündungsbereich zur Straße
+
+, In der -Adelenhütte
+
+'.
+
+Weg zwischen Wendeanlage vor den
+
+Haus-Nr. 60/62 und Poststraße
+
+Käulchensweg
+
+•
+
+,
+
+ca. 35 m lange Stichstraße zwischen
+
+den Haus-Nr. 39 .und 41 .
+
+ca. 35 m langes Teilstück des
+
+Käulchensweges im Anschluß an die
+
+Anliegerstraße
+
+•'
+
+Kiingerstraße
+
+von Kaiserstraße bis Friedrichstraße
+
+Stichstraße neben Haus-Nr; 11 einschl.
+
+Wendeanlage vor dem Hausgrundstück 15
+
+Loorweg.
+
+•
+
+•
+
+von Ankerstraße bis Nr. lOl/Auf dem Looi
+
+(bebaute Seite)
+
+Verbindungsweg zwischen Loorweg und
+
+Auf dem Loor entlang den Hausgrund-
+
+stücken 161 und 163 und
+
+Auf dem Loor 70-76 und 78
+
+Mühlenweg
+
+bis Am Maarhof
+
+von Nr. I/Am Maarhof bis Gronaus'traßc
+
+- ungerade Seite
+
+- gerade Seite'
+
+bis Waldstraße
+
+bis Friedensstraße
+
+Stichstraße neben Nr. 52-52b
+
+Nelkenweg
+
+von Westfeldgasse bis Elsdorfer Gasse
+
+von Elsdorfer Gasse bis Tulpenweg '
+
+Anzahl derwöchentlichen Reinigungen
+
+' Reinigungsvcrpflichicter
+
+Fahrbahn
+
+üehweg
+
+' - Straßenart Fahrbahn
+
+Gehweg
+
+Stadt
+
+Anlieger
+
+Stadt
+
+Anr lieger
+
+H
+
+1
+
+X
+
+X
+
+X
+
+X
+
+^
+
+i
+
+X
+
+X
+
+X
+
+A
+
+1
+
+A
+
+'1
+
+•X X
+X
+
+X
+-X
+X X X
+
+X X X X•
+
+X
+
+X
+
+•
+
+A,
+
+1
+
+A,
+
+1•
+
+H
+
+1
+
+X
+
+X
+
+"
+
+-X
+
+X
+
+X
+
+X
+
+'
+
+X
+
+X
+
+'x
+
+X
+
+X
+
+'
+
+x
+
+X
+
+• A• '
+
+1
+
+H
+
+1
+
+••
+
+'
+
+X
+
+X-
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X-
+
+X
+
+X
+
+547
+
+Bezirk: 7
+Straßenname
+Niederkasseler Straße von Frankfurter Straße bis Wendekreis Stichstraße entlang den Hausgrundstücken 1-7 einschl. Wendeanlage Gehweg nur rechte Seite
+Peletierweg Stichweg entlang den rückwärtigen Hausgrundstücken Schmittgasse 129-131
+Rolshoverstraße von östlicher Zubringer bis Auf dem Sandberg bis Platzflächc Sicgburger Straße Verbindungsweg zwischen Nr. 576 und 578 zur Straße Im Butterfaß ca. 40 m langes Teilstück ab Einmündung Siegburger Straße entlang dem Polier Marktplatz'vor den Haus-Nr. 588a und 590
+Rosenhügel von Hauptstraße bis Nr. 6 gegenüberliegende Seite Stichstraße zwischen Nr. Sc/14 bis Wendeanlage Stichweg entlang Nr. lOg/lOh und 12/12a Parkplatz zwischen Hauptstraße und Roscnhügel Verbindungsweg zvi'ischen Roscnhügel in Höhe Nr. 46 und dem Fußweg entlang der KVB-Trasse Fußweg entlang der KVB-Trasse Wendeanlage neben Hausgrundstück 124.
+• Stichstraße vor Haus-Nr. 124-134 Weg zwischen .Wcndcanlage neben Haus Nr. 24 und Christrosenweg
+Rosenstraße Verbindungsweg von Irisweg zum Roscnhügel Verbindungsstraße von Nr. 14 zum Roscnhügel Teilstück zwischen Irisweg und Wcndcanlage neben Haus-Nr. Roscnhügel 124
+Schmittgasse Verbindungsweg zwischen Nr. 118-120 • • Verbindungsweg neben Nr. 100 Stichstraße zu Nr. 212, 224 und 214 Stichstraße von Einmündung bis Garageneinfahrt Haus-Nr. 248 Stichweg zwischen den Hausgrundstücken 212 und 214 bis Hausgrundstück 212a Weg entlang den Hausgrundstücken 224-234 ca. 12 m langer Weg zu den Hausgrundstücken 244-248
+Steinstraße von Friedrich-Ebert-Ufer bis • Theodor-Heuss-Stfaße Stichstraße zu Nr. 56 bis Climbernstraße nur bebaute Seite bis Humboldtstraße/Frankenstraßc bis Frankfurter Straße nur bebaute Seite/ Gehweg nur rechte Seite
+
+Straßenart
+
+• Anzahl der wöchentlichen R e i n igunge n
+
+Fahrbahn
+
+Gehweg
+
+Reinigungsverpfüchteier
+
+Fahrbahn
+
+Gehweg
+
+Stadt
+
+Anlieger
+
+btiid!
+
+Anlieger
+
+A
+
+r
+
+A
+
+1
+
+H
+
+2
+
+X
+
+X
+
+"-•
+
+X
+
+X X
+! i
+
+X.
+X X X
+i^
+X
+x
+X
+
+H' . M ,
+
+-X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+1
+
+X
+
+H
+
+1
+
+X
+
+X
+
+X
+
+X
+
+X
+
+1
+
+X
+
+X
+
+X
+
+X
+
+X.
+
+X
+
+X
+
+X
+
+iX
+
+X
+
+X
+
+X
+
+X
+
+X
+
+'
+
+X
+
+X
+
+X
+
+H
+
+1
+
+A
+
+-1
+
+H
+
+1
+
+H
+
+1
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+•X
+
+X
+
+X
+
+548
+
+Stadtbezirk 8
+249
+
+Bezirk: 8
+Straßenname
+'Adalbertstraße Stichstraße zwischen Nr. 8 und 22
+Burgstraße mit Platzfläche vor Nr. 18-28-
+Forststraße-
+
+StralJenart
+
+Anzahl der wöchentlichen Reinigungen
+
+Fahrbahn
+
+Gehweg
+
+Keinigungsverpflichteter
+
+Fuhrtahn
+
+Gehweg
+
+Stadt
+
+Anlieger
+
+Stadt
+
+An-lieger
+
+A
+
+H H
+
+250
 
 *
-Vorstehende. Satzung wird hiermit öffenthch bekanntgemacht.
-Es wird auf die Rechtsfolgen nach § 7 Abs. 6 Satz 1 der Gemeindeordnurig für das Land Nordrhein-Westfalen hingewiesen.
-§ 7 Abs. 6 Satz 1 der Gemeindeordnung lautet:
-„Die Verletzung von Verfahrens- oder Form Vorschriften dieses Gesetzes kann gegen Satzungen, sonstige ortsrechtliche Bestimmungen und Flächennutzungspläne nach Ablauf eines Jahres seit ihrer Verkündung nicht mehr geltend gemacht werden, es sei denn,
-a) eine vorgeschriebene Genehmigung fehlt oder ein vorgeschriebenes Anzeigeverfahren wurde nicht durchgeführt,
+
+Vorstehende Satzung wird ^hiermit' öffentlich- bekanntgemacht:
+
+Es wird auf die Rechtsfolgen nach § 7 Abs. 6 Satz 1 der Gemeindeordnung für das Land Nordrhein-Westfalen hingewiesen.
+
+§ 7 Abs, 6 Satz 1 der Gemeindeordnung lautet:
+
+„Die Verletzung von Verfahrens- oder Formvorschriften dieses Gesetzes kann gegen Satzungen, sonstige ortsrechtliche Bestimmungen und Flächcnniatzungspläne nach Ablauf eines Jahres seit ihrer Verkündung nicht mehr geltend gemacht werden, es sei denn,
+
+a) eine vorgeschriebene Genehmigung fehlt oder ein vorgeschriebenes Anzeigeverfahren wurde nicht durchge. führt,
+
 b) die Satzung, die sonstige ortsrechtliche Bestimmung oder der Flächennutzungsplan ist nicht ordnungsgemäß öffentlich bekanntgemacht worden,
-c) der Gemeindedirektor hat den Ratsbeschluß vorher beanstandet oder
+
+c) der Gemeindedirektor hat den Ratsbeschluß vorher
+
+beanstandet oder
+
+^
+
+,
+
 d) der Form- oder Verfahrensmangel ist gegenüber der Gemeinde vorher gerügt und dabei die verletzte Rechtsvorschrift und die Tatsache bezeichnet worden, die den Mangel ergibt."
 
-Köln, den 16. 12. 1996
+Köln, den 22. 12. 1997
 
-gez.; Burger Oberbürgermeister
+gez.: Burger Oberbürgermeister
 
-537
-
-538
-
-539
-
-i\
-540
-
-541
+551
 
 STADTKASSE KÖLN Postfach 103551 50475 KÖLN
 
-Postvertriebsstück - Entgelt bezahlt G 2663
+Postvertriebsslück - Entgelt bezahlt G 2663
 
-Redaktionsschluß; Montag 12.00 Uhr Herausgeber: Stadt Köln • Der Obersladtdirektor Redaktion: Presse + Informationsamt, Laurenzplatz 4, 50667 Köln, Zimmer 3; Telefon 2212074, Fax 2216486. Druck: Ncttcshcim Druck GmbH & Co. KG,.Hugo-Junkers-SlraBe 82, 5Ü739 Köln, Telefon 9574710, Fax 95747130 Erseheini wöchentlich, ISSN 0172-2522, Einzelpreis: I,- DM,'Jahresabonnement: 52,- DM.
-542
+Redaktionsschiu(3: Montag 12.00 Uhr Herausgeber: Stadt Köln • Der Oberstadtdirektor Redaktion: Presse + Informationsamt, Laurenzplatz 4, 50667 Köln, Zimmer 3; Telefon 2212074, Fax 2216486. Druck: Nettesheim Druck GmbH & Co. KG, Hugo-Junkcrs-Straßc 82, 50739 Köln, Telefon 9574710, Fax 95747130 Erscheim wöchentlich, ISSN 0172-2522, Einzelpreis: 1,-DM, Jahresabonnement: 52,- DM.
+552
