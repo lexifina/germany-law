@@ -1,0 +1,126 @@
+---
+ecli: "ECLI:DE:BVerfG:2001:rk20010321.2bvr040301"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 403/01"
+decided: "2001-03-21"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 3. Kammer des Zweiten Senats vom 21. März 2001\n- 2 BvR 403/01 -, Rn. 1-7,\n                    https://www.bverfg.de/e/rk20010321_2bvr040301"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/03/rk20010321_2bvr040301.html"
+corpus_doc_id: "BVerfG_2001-03-21_K_2_BvR_0403_01_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0006.md", "germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/stpo/0140.md", "germany/bund/acts/stpo/0238.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 403/01 vom 2001-03-21
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 2 BVR 403/01 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+des Herrn B...
+
+gegen a) den Beschluss des Oberlandesgerichts Frankfurt am Main vom 30. Januar 2001 - 2 Ss 163/00 -,
+
+      b) den Beschluss des Oberlandesgerichts Frankfurt am Main vom 23. August 2000 - 2 Ss 163/00 -,
+
+       c) den Beschluss des Oberlandesgerichts Frankfurt am Main vom 31. Mai
+          2000 - 3 Ws 552/00 -,
+
+      d) das Urteil des Landgerichts Gießen vom 7. Februar 2000 - 3 Ns 106 Js
+         12317/99 -,
+
+      e) das Urteil des Amtsgerichts Friedberg vom 12. Oktober 1999 - 43a Ds -
+         106 Js 12317/99 -
+
+und    Antrag auf Erlass einer einstweiligen Anordnung
+
+hat die 3. Kammer des Zweiten Senats des Bundesverfassungsgerichts durch
+                                 die Richterin Präsidentin Limbach
+                                 und die Richter Hassemer,
+                                 Mellinghoff
+
+gemäß § 93b in Verbindung mit § 93a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 21. März 2001 einstimmig beschlossen:
+
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+Damit erledigt sich der Antrag auf Erlass einer einstweiligen Anordnung.
+
+                                     Gründe:
+ Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen. Die Annahmevoraussetzungen des § 93a Abs. 2 BVerfGG liegen nicht vor. Die Verfassungsbeschwerde hat keine Aussicht auf Erfolg. Damit erledigt sich der Antrag auf
+Erlass einer einstweiligen Anordnung.
+
+ 1. Die Rüge des Beschwerdeführers, das Landgericht habe durch Aufhebung der           2
+auf § 140 Abs. 1 Nr. 5 StPO gestützten Pflichtverteidigerbestellung Art. 3 Abs. 1 GG
+verletzt, ist unbegründet. Die durch die unmittelbar bevorstehende und tatsächlich
+
+
+
+                                         1/4
+
+am 25. November 1999 erfolgte Haftentlassung des Beschwerdeführers veranlasste
+Entscheidung des Gerichts findet ihre Stütze in § 140 Abs. 3 Satz 1 StPO. Zutreffend
+hat das Landgericht angenommen, dass die mit der Inhaftierung einhergehende
+Einschränkung der Verteidigungsmöglichkeiten, der durch die Pflichtverteidigerbestellung entgegengewirkt werden soll, durch die Haftentlassung des Beschwerdeführers mehrere Wochen vor der auf 7. Februar 2000 terminierten Berufungshauptverhandlung weggefallen ist. Auch die weitere Entscheidung des Landgerichts, dem
+Beschwerdeführer entgegen seinem Antrag auch nach § 140 Abs. 2 StPO keinen
+Pflichtverteidiger beizuordnen, verstößt weder gegen das Willkürverbot des Art. 3
+Abs. 1 GG noch verletzt sie den Beschwerdeführer in seinem Anspruch auf ein faires
+rechtsstaatliches Strafverfahren. Der knapp begründeten Entscheidung des Landgerichts lässt sich entnehmen, dass es eine Pflichtverteidigerbestellung weder wegen
+der Schwere der Tat noch wegen der Schwierigkeit der Sach- und Rechtslage oder
+wegen der mangelnden Fähigkeit des Beschwerdeführers, sich selbst zu verteidigen,
+als erforderlich ansah. Dies ist nicht zu beanstanden. Zwar kann im Einzelfall - über
+den Wortlaut des § 140 Abs. 2 StPO hinaus - eine Pflichtverteidigerbestellung für einen - wie hier - von Sozialhilfe lebenden Angeklagten "in schwerwiegenden Fällen"
+von Verfassungs wegen geboten sein (BVerfGE 39, 238 <243>). Ein solcher Fall lag
+hier jedoch nicht vor. Der Beschwerdeführer war erstinstanzlich zu einer Freiheitsstrafe von drei Monaten ohne Bewährung verurteilt worden; eine Erhöhung dieser
+Strafe drohte aufgrund des ausschließlich durch ihn eingelegten Rechtsmittels der
+Berufung nicht.
+
+  Die Sach- und Rechtslage war einfach. Also lag eine Pflichtverteidigerbestellung       3
+über den Wortlaut des § 140 Abs. 2 StPO hinaus fern, so dass es verfassungsrechtlich nicht zu beanstanden ist, dass das Landgericht diese Möglichkeit nicht ausdrücklich erörtert hat.
+
+  2. Die Rüge, das Landgericht habe durch Unterlassen von Maßnahmen, die Hauptbelastungszeugin M. zur Beantwortung weiterer Fragen des Angeklagten anzuhalten, das aus dem Rechtsstaatsprinzip und Art. 6 Abs. 3 d) MRK herzuleitende Fragerecht des Beschwerdeführers verletzt, ist mit Blick auf den Grundsatz der
+Subsidiarität der Verfassungsbeschwerde unzulässig. Der Beschwerdeführer hat es
+versäumt, über die in diesem Zusammenhang getroffenen Anordnungen des Vorsitzenden eine Entscheidung des Gerichts herbeizuführen (§ 238 Abs. 2 StPO) und im
+Revisionsverfahren eine entsprechende Verfahrensrüge zu erheben.
+
+  3. Die Rüge des Beschwerdeführers, durch die ablehnende Entscheidung des               5
+Landgerichts vom 17. März 2000, ihm Ablichtungen der von ihm eingesehenen Sitzungsniederschrift des Berufungsrichters anzufertigen, und durch die seine Beschwerde als unbegründet verwerfende Entscheidung des Oberlandesgerichts in seinem Anspruch auf ein faires rechtsstaatliches Verfahren verletzt zu sein, ist
+unbegründet. Die von einem erkennenden Richter zur Gedächtnisunterstützung gefertigten Notizen sind auch dann, wenn sie versehentlich mit den Akten in den Geschäftsgang gelangt sind, kein Bestandteil der Akten, auf die sich das Akteneinsichts-
+
+
+                                          2/4
+
+recht des Beschuldigten erstrecken könnte (vgl. Karlsruher Kommentar - Laufhütte,
+§ 147 Rn. 4 a. E.; Pfeiffer, § 147 Rn. 5; Kleinknecht/Meyer-Goßner, § 147 Rn. 13;
+weiter Heidelberger Kommentar - Julius, § 147 Rn. 6 im Anschluss an Karlsruhe
+NStZ 1982, S. 299, für gerichtsinterne Aufzeichnungen, die bewusst zu den Akten
+genommen worden sind).
+
+ Von einer weiteren Begründung der Entscheidung wird abgesehen (§ 93d Abs. 1        6
+Satz 3 BVerfGG).
+
+ Diese Entscheidung ist unanfechtbar.                                               7
+
+              Limbach              Hassemer             Mellinghoff
+
+
+
+
+                                        3/4
+
+Bundesverfassungsgericht, Beschluss der 3. Kammer des Zweiten Senats vom
+21. März 2001 - 2 BvR 403/01
+
+Zitiervorschlag BVerfG, Beschluss der 3. Kammer des Zweiten Senats vom
+                21. März 2001 - 2 BvR 403/01 - Rn. (1 - 7), http://www.bverfg.de/e/
+                rk20010321_2bvr040301.html
+
+ECLI             ECLI:DE:BVerfG:2001:rk20010321.2bvr040301
+
+
+
+
+                                        4/4
