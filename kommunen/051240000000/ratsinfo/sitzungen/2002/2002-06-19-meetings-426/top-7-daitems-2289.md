@@ -1,0 +1,7 @@
+# TOP 7: Verschiedenes - öffentlicher Teil
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses Zentrale Dienste (2002-06-19)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/2289
+- Ergebnis: Kenntnis genommen
