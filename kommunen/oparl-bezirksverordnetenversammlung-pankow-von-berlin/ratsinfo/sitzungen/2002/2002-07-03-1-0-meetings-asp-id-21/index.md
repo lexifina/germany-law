@@ -1,0 +1,83 @@
+# 7. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2002-07-03T17:30:00+02:00
+- Ende: 2002-07-03T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=21
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=21
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - zur Kenntnis genommen
+- TOP 1.2: Abstimmung über die Tagesordnung - zur Kenntnis genommen
+- TOP 1.3: Dringlichkeitsanträge - zur Kenntnis genommen
+- TOP 1.4: Mündliche Anfrage - zur Kenntnis genommen
+- TOP 1.5: Bericht des Bezirksamtes - zur Kenntnis genommen
+- TOP 1.6: Konsensliste - zur Kenntnis genommen
+- TOP 1.7: Negativkatalog zur Beschränkung von Sondernutzung von Straßenland - ohne Änderungen in der BVV beschlossen
+- TOP 1.8: Kürzungen der Jugendberufshilfe - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Berufung der Mitglieder mit beratender Stimme für den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Bebauungsplanentwurf XIX-40j für das Gelände östlich der Kleingartenanlage "Neuland Buchholz" und des Schillingweges, südlich der Anna-Bruseberg-Straße, zwischen Triftstraße und Jean-Calas-Weg im Bezirk Pankow Ortsteil Französisch Buchholz erneute Beschlussfassung über - den Entwurf des Bebauungsplans XIX-40j vom 30. April 2001 mit den Deckblättern vom 3. August 2001, vom 2. April 2002 und 3. Juni 2002 einschließlich seiner Begründung gemäß § 6 Abs. 2 Nr. 8 Bezirksverwaltungsgesetz (BezVG) sowi - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.11: Veränderungen zum Doppelhaushaltsplan 2002/2003 des Bezirks Pankow von Berlin - überwiesen
+- TOP 1.12: Beschluss gemäß § 6 Abs. 3 des Gesetzes zur Ausführung des Baugesetzbuches (AGBBauGB) für den Bebauungsplan IV-61 für das Grundstück Liselotte-Herrmann-Straße 29, Hans-Otto-Straße 23 im Bezirk Pankow, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.13: Wahl einer Schiedsperson für den Schiedsamtsbezirk 3 im Bezirk Pankow - gewählt
+- TOP 1.14: Wahl einer Schiedsperson für den Schiedsamtsbezirk 2 im Bezirk Pankow - gewählt
+- TOP 1.15: Nachwahl eines stellvertretenden Bürgerdeputierten für den Jugendhilfeausschuss der BVV für die V. Wahlperiode - gewählt
+- TOP 1.16: Keine Überlastung des Mauerparks - überwiesen
+- TOP 1.17: Erweiterung des Privatschulangebotes - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Verkehrssicherheit für Schülerinnen und Schüler - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Jugendwahl - gewählt
+- TOP 1.20: Ein Bezirk steigt um - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Verkehrsberuhigte Bereiche - Zurückweisung einer Bezirksamtsvorlage - in der BVV abgelehnt
+- TOP 1.22: Life Science Center Berlin-Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Erhaltungsrechtsverordnungen Ostseestraße/Grellstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Projekt "Tanz gegen Rechts" - mit Änderungen in der BVV beschlossen
+- TOP 1.25: Schleichverkehr in Heinersdorf - Zurückweisung einer Bezirksamtsvorlage - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Behindertengerechte Zugänge im Sozialamt - vertagt
+- TOP 1.27: Einhaltung des Nachtflugverbots von und zum Flughafen Tegel - mit Änderungen in der BVV beschlossen
+- TOP 1.28: Umstrukturierungssatzung für Erhaltungsgebiete - in der BVV abgelehnt
+- TOP 1.29: Missbilligung Bezirksstadtrat Köhne - vertagt
+- TOP 1.30: Fußwegsicherung am S-Bahnhof Karow - vertagt
+- TOP 1.31: Wochenendöffnungszeiten sozialer Einrichtungen als Fördervoraussetzung - überwiesen
+- TOP 1.32: Radwegeverbindung parallel zur B 109 nach Wandlitz - überwiesen
+- TOP 1.33: Nachtflugverbot am Flughafen Tegel durchsetzen! - in der BVV abgelehnt
+- TOP 1.34: Aufstellung einer Erhaltungssetzung Falkenberger Straße/Gierstraße - überwiesen
+- TOP 1.35: Verkauf der Königsstadt - Brauerei - vertagt
+- TOP 1.36: Bildung eines Ausschusses für Verkehr - zurückgezogen
+- TOP 1.37: Vermüllung Teich Hansastraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Veränderung der Verkehrszeichenregelung Tempo 30 mit Zusatzschild, Rosenthaler Weg in Französisch Buchholz - überwiesen
+- TOP 1.39: Veränderung der LZA bzw. Verlagerung der Haltelinie für Linksabbieger Hauptstr. Richtung Parkstr. in Französisch Buchholz - überwiesen
+- TOP 1.40: Schließung der Sparkassenfiliale im OT Heinersdorf - vertagt
+- TOP 1.41: Erschließungsstraße "Pankow Park - ABB" - vertagt
+- TOP 1.42: Dezentrale Dienstleistungsstandorte - beantwortet
+- TOP 1.43: Weißenseer Blumenfest - Bilanz des Bezirksamtes - vertagt
+- TOP 1.44: Mitgliedschaft des Bezirkes Pankow in der Fluglärmkommission - beantwortet
+- TOP 1.45: Radfahrangebote in der Grell- und der Storkower Straße - vertagt
+- TOP 1.46: Kostenfreie Nutzung von Standplätzen für soziale Vereine für die Bezirksfeste z. B. Fest an der Panke, Weißenseer Blumenfest - überwiesen
+- TOP 1.47: Verschmutzung durch Wildbader am Weißen See - vertagt
+- TOP 1.48: Ehrenbrief für Ehrenamtliche - vertagt
+- TOP 1.49: Schutz der in den Milieuschutzgebieten wohnenden Menschen und deren Sozialstruktur - ohne Änderungen in der BVV beschlossen
+- TOP 1.50: Bezirkliche Vertretung in Aufsichtsräten von Wohnungsbaugesellschaften - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.51: Benennung eines Vertreters der BVV in den Vorstand des Vereins zur Förderung der Städtepartnerschaft mit Kolobrzeg - vertagt
+- TOP 2: Komplex II - (offen)
+- TOP 2.1: Kleingartenbericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Hilfe für MOVADO - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Liegenschaft Hauptstraße 56 in Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: LZA Regelung Krugstege - Bahnhofstraße, Krugstege - Blankenburger Pflasterweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Realisierung der vertraglichen Leistungen des Investors des "Blumenwinkels" (an der Rennbahnstraße), - der SÜBA Generalbau GmbH -, gegenüber dem Land Berlin - vertagt
+- TOP 2.6: Bauliche Mängel in der Kita "La Cigale" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Erschließungsstraße für das ABB-Gelände - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Zügige Weiterführung der Bauleitplanung für das ABB-Gelände - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Bebauungsplanentwurf XIX-40j für das Gelände östlich der Kleingartenanlage "Neuland Buchholz" und des Schillingweges, südlich der Anna-Bruseberg-Straße, zwischen Triftstraße und Jean-Calas-Weg im Bezirk Pankow Ortsteil Französisch Buchholz - Ergebnisdes Beteiligungsverfahrens gemäß § 3 Abs. 3 Satz 2 i. V. m. § 13 Baugesetzbuch (alte Fassung) zu den Änderungen im Deckblatt vom 2. April 2002 - erledigt
+- TOP 2.10: Aufbau eines Fachbereiches Grundsicherung - erledigt
+- TOP 2.11: Bebauungsplan XVII-24-2 für das Gelände zwischen der öffentlichen Parkanlage am Hofzeichendamm, Ingwäonenweg, Siverstorpstraße, Gatterweg und dem Grundstück Gatterweg 17 im Bezirk Pankow, Ortsteil Karow zur Änderung des festgesetzten BebauungsplanesXVIII-24 - erledigt
+- TOP 2.12: Bezirkliches Bündnis für Wirtschaft und Arbeit Pankow - erledigt
+- TOP 2.13: Auswertung der öffentlichen Auslegung des Bebauungsplanes IV-61 für das Grundstück Liselotte-Herrmann-Straße 29, Hans-Otto-Straße 23 im Bezirk Pankow, Ortsteil Prenzlauer Berg - erledigt
+- TOP 2.14: Einsatz von Fördermitteln zur Sanierung des Stadtbades in der Oderberger Straße - erledigt
+- TOP 2.15: Einsatz von Fördermitteln - zur Kenntnis genommen
+- TOP 3: Jugendwahl - in der BVV zurückgezogen
