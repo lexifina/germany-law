@@ -1,0 +1,77 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2003-07-25T16:15:00+02:00
+- Ende: 2003-07-25T21:37:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/39
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/39
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Vereidigung eines Beigeordneten
+- TOP 3: 2. Wiederwahl eines Beigeordneten
+- TOP 4: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 5: Stv. Pietsch: Umgestaltung Busbahnhof
+- TOP 6: Genehmigung der Tagesordnung
+- TOP 7: Bauhof Moselstr. (HA160703-00425.doc)
+- TOP 8: Übertr. B. / Eissporth. a. d. B.- u. Eissp.h.GmbH
+- TOP 9: Entwicklung d. Rennbahngeländes
+- TOP 10: Bplan 413 – Am Norfbach – (BRS170603-00437.doc)
+- TOP 11: Außenanlagen Feuerwehrgerätehaus Grefrath
+- TOP 12: Auslegungsbeschluss B-Plan 387
+- TOP 13: Auslegungsbeschluss B-Plan 424
+- TOP 14: Aufstellungsbeschluss B-Plan 435
+- TOP 15: Umgestaltung Busbahnhof
+- TOP 16: Ausbau Nebenanlagen Bonner Strasse
+- TOP 17: Wendemöglichkeit u. prov. Parkplätze Finkenstrasse
+- TOP 18: Grünzug mit Wanderwegverbindung
+- TOP 19: Auslegungsbeschluss B-Plan V11b/7
+- TOP 20: Stadtteilbrunnen Uedesheim (AUG210503-00405.doc)
+- TOP 21: Bedarfsplan Tagesbetreuung von Kindern
+- TOP 22: Fusion der Häfen Neuss/Düsseldorf
+- TOP 23: Restaurantschiff Hafenb.1
+- TOP 24: Einrichtungsplanung Greyhound Café-Rheinparkcenter
+- TOP 25: Anpassung Gebührenordnung Stadtbibliothek
+- TOP 26: Benutzungsordnung Stadtbibliothek
+- TOP 27: Gebührensatzung für das Stadtarchiv Neuss
+- TOP 28: Gebührenanpassung CSM
+- TOP 29: Gestaltung der Krämerstraße als Schützenstraße
+- TOP 30: ÖPNV-Anbindung S-Bahn-Haltepunkt Allerheiligen
+- TOP 31: Flächennutzungsplanänderung Nr. 95 –
+- TOP 32: Anp. d. Personalk.zusch. d. Ratsfr.
+- TOP 33: Standort Schützenmuseum (Rat250703-00601.doc)
+- TOP 34: Integrativer Unterricht in der Sekundarstufe I
+- TOP 35: B. 90/ D. GRÜNEN: Kinderbauernhof
+- TOP 36: SPD: Personelle Situation d. Kinderbauernhofes
+- TOP 37: CDU: Angebot des Kinderbauernh. u. ä.
+- TOP 38: B 90/D.G.:. Resolution. z. Reform Gewerbest.
+- TOP 39: FDP: Arbeit im gemeinn. Sektor schaffen
+- TOP 40: CDU: Region Rheinland (RAT250703-00617.doc)
+- TOP 41: Stv. Sahnen: Komm. Integrationskonz.
+- TOP 42: Stv. Pietsch: EUROGA 2002 plus, Nordkanal
+- TOP 43: Stv. Pietsch: Gebühreneinn. Abfallgeb. usw.
+- TOP 44: Stv. Breuer: Festhalle in Neuss
+- TOP 45: Straßenb.linie U81 Bericht ü. d. Planungsstand
+- TOP 46: Sachstandsbericht WTB-Turm (RAT250703-00534.doc)
+- TOP 47: Case-Gelände, Ber. Planungsstand
+- TOP 48: Repräsentation d. Stadt Neuss im Landtag
+- TOP 49: Deutscher Städtetag in Mannheim
+- TOP 50: Dezernatsverteilungsplan (RAT250703-00572.doc)
+- TOP 51: Änd. d. Ratsniederschr. v. 16.05.2003, TOP 7
+- TOP 52: Kinderbauernhof Neuss (RAT250703-00623.doc)
+- TOP 53: Einwohnerfragestunde
+- TOP 54: Bonner Str./ Kreisverkehr Jagenbergstr.
+- TOP 55: Baumtor Ruhrstrasse (BA260603-00400.doc)
+- TOP 56: Vorbereitende Untersuchungen südliche Furth
+- TOP 57: Ergebnis Architektenwettbewerbes CSM
+- TOP 58: Aufstellungsbeschluss B-Plan 57/22
+- TOP 59: Gen. v. D.entsch. Nr. 92, Ausb. d. Bonner Str.
+- TOP 60: Einwohnerfragestunde
+- TOP 61: Erneuerung SW-/RW-Kanäle Krurstrasse
+- TOP 62: Aufstellungsbeschluss B-Plan 201/2
+- TOP 63: Verkehrsberuhigung Grupellostraße
