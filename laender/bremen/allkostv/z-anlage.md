@@ -11,7 +11,7 @@ KOSTENVERZEICHNIS A. Übersicht
 7. Wirtschaft, Ernährung und Landwirtschaft, Außenhandel
 8. Häfen, Schiffahrt und Verkehr
 9. Finanzen, Steuern
-B. Abkürzungsverzeichnis
+Anmerkung: Die im Abschnitt C in DM ausgewiesenen Werte sind mit dem Kurs 1,95583 in Euro umzurechnen. Auf die Regelungen des Euro-Einführungsgesetzes vom 9. Juni 1998 (BGBl. I. S. 1242) wird verwiesen. B. Abkürzungsverzeichnis
 BGB | Bürgerliches Gesetzbuch
 BImSchG | Bundesimmissionsschutzgesetz
 BliwaG | Blindenwarenvertriebsgesetz
@@ -95,9 +95,25 @@ Zwangsgeldes bzw.
 der Aufwendungen für
 die Ersatzvornahme
 mindestens 30,- DM
-102.03 | Festsetzung der Kosten für vorher nicht schriftlich angedrohte Ersatzvornahme nach den §§ 15 und 19 BremVwVG oder entsprechenden anderen Rechtsvorschriften | 30,- DM
-bis 50,- DM
-102.04 | Anordnen einer vorher nicht schriftlich angedrohten Ersatzvornahme nach den §§ 15, 19 BremVwVfG oder entspr. anderer Rechtsvorschriften, wenn die Verpflichtung durch Allgemeinverfügung begründet und örtlich kenntlich gemacht war (z.B. Abschleppen bei Verkehrsverboten) | 48,- DM
+102.03 | Tatbestand nach 102.02 mit anschließender Verschrottung eines Fahrzeugs | 5 v. H. des
+festgesetzten
+Aufwendungen bzw.
+der für die
+Ersatzvornahme
+mindestens 50,- Euro
+102.04 | Tatbestand nach 102.02 mit anschließender Versteigerung eines Fahrzeugs | 5 v. H. des
+festgesetzten
+Zwangsgeldes bzw.
+der Aufwendungen
+für die Ersatzvornahme
+mindestens 70,- Euro
+102.05 | Anordnen einer vorher nicht schriftlich angedrohten Ersatzvornahme nach §§ 15 und 19 BremVwVG oder entsprechenden anderen Rechtsvorschriften im Zusammenhang mit verbotswidrig abgestellten Fahrzeugen (z.B. Abschleppen bei Halteverboten) und Festsetzung der Kosten | 48,- Euro
+ | Anmerkung: | 
+ | Dies gilt auch, sofern nach der Anordnung die Ersatzvornahme aus Gründen, die nicht von der Behörde zu vertreten sind, nicht oder nicht vollständig durchgeführt wird. | 
+ | Anmerkung zu 102.05: | 
+ | Wird die nach Nr. 102.04 zu erhebende Gebühr durch einen Leistungsbescheid festgesetzt, so wird für die Festsetzung keine zusätzliche Gebühr erhoben. | 
+102.06 | Zuschlag bei Tatbestand nach 102.05 mit anschließender Verschrottung eines Fahrzeugs | 30,- Euro
+102.07 | Zuschlag bei Tatbestand nach 102.05 mit anschließender Versteigerung eines Fahrzeugs | 50,- Euro
 103 | Gebührenrechnung nach Zeitaufwand | 
 103.0 | Bei Gebührenberechnungen nach dem Zeitaufwand werden unter Berücksichtigung der Regelung in § 3 BremKostO folgende Stundensätze in Anrechnung gebracht: | 
 103.00 | für einen Beamten Stundensatz des höheren Dienstes oder Angestellten in vergleichbarer Vergütungsgruppe | 114,- DM
@@ -110,15 +126,15 @@ Nettorechnungs-betrages
 103.06 | Einsatzstunde Kleintransporter | 32,40 DM/Std
 103.07 | Einsatzstunde Spezialfahrzeuge und Geräte | Einzelfallberechnung
 104 | Aktenversendung bzw. -aushändigung | 
-104.00 | Aktenversendung oder -aushändigung zur Akteneinsicht im Verwaltungsverfahren und aus sonstigen Gründen ohne Portoauslagen | je Sendung 18,- DM
-104.01 | Aktenversendung oder -aushändigung zur Akteneinsicht im Verwaltungsverfahren und aus sonstigen Gründen einschl. pauschalierter Portoauslagen | je Sendung 26,- DM
+104.00 | Aktenversendung oder -aushändigung zur Akteneinsicht im Verwaltungsverfahren, im Bußgeldverfahren und aus sonstigen Gründen, ohne Portoauslagen | je Sendung 9,20 Euro
+104.01 | Aktenversendung oder -aushändigung zur Akte einsicht im Verwaltungsverfahren, im Bußgeldverfahren und aus sonstigen Gründen, einschl. pauschalierter Portoauslagenje Sendung | 13,29 Euro
 104.02 | Aktenversendung oder -aushändigung zur Akteneinsicht im Bußgeldverfahren an den Verteidiger des Betroffenen | gebührenfrei
 11 | Allgemeine innere Verwaltung | 
 110 | Sonn- und Feiertagsrecht, Titel, Orden und Ehrenzeichen | 
 110.00 | Befreiung von Beschränkungen und Verboten nach dem Gesetz über Sonn- und Feiertage vom 12. November 1954 (SaBremR 113-c-1) | 20,- DM
 bis 100,- DM
-110.01 | Erteilung einer Ersatzurkunde nach dem Gesetz über Titel, Orden und Ehrenzeichen vom 26. Juli 1957 (BGBl. I S. 844) | 109,- DM
-110.02 | Genehmigung zum Vertrieb von Orden und Ehrenzeichen | 226,- DM
+110.01 | Frei | 
+110.02 | Genehmigung zum Erwerb von Orden und Ehrenzeichen zu Sammlerzwecken | 115,55 Euro
 110.03 | Erteilung von Erlaubnissen für die Durchführung von nicht nach §§ 68 und 69 GewO festgesetzten Märkten oder marktähnlichen Veranstaltungen, insbesondere Flohmärkten an Sonn- und Feiertagen | 68100,- DM
 bis 1.500,- DM
 111 | Juristische Personen | 
@@ -192,14 +208,10 @@ bis 4.520,- DM
 114.21 | Aufhebung einer Zulassung nach Nr. 114.19 | 2124,- DM
 115 | Sammlungen | 
 115.00 | Amtshandlungen für öffentliche Sammlungen aufgrund sammlungsrechtlicher Vorschriften | gebührenfrei
-116 | Wege-, Wasser- und Bodenrecht | 
-116.00 | Bescheinigung über die Vertretungsbefugnis für Realverbände | 72,- DM
-116.01 | Genehmigung einer Grundstücks Veräußerung durch eine Bauernschaft | 260,- DM
-zuzüglich 1 v.T.des
-Veräußerungserlöses
-116.02 | Genehmigung einer Grundstücksveräußerung durch eine Interessentenschaft | 130,- DM
-zuzüglich 1 v.T.des
-Veräußerungserlöses
+116 | Frei | 
+116.00 | aufgehoben | 
+116.01 | aufgehoben | 
+116.02 | aufgehoben | 
 117 | Frei | 
 118 | Schornsteinfegerwesen | 
 118.00 | Eintragung in die Bewerberliste nach § 4 Abs 1 des Schornsteinfegergesetzes, in das besondere Verzeichnis gemäß § 12 Abs. 2 der Verordnung über das Schornsteinfegerwesen und die Wiedereintragung gemäß § 4 Abs. 2 Nr. 1 Buchst. a und Abs. 2 Nr. 2 und 3 der Verordnung über das Schornsteinfegerwesen | 100,- DM
@@ -246,7 +258,7 @@ km³,- DM
  | Anmerkung zu 120.10 bis 120.17: | 
  | Bei der Festsetzung der Gebühren werden Hin- und Rückwege zum bzw. vom Einsatzort mitberechnet. Bei angebrochenen Stunden siehe § 5. | 
  | Abweichend von 120.10 bis 120.17 werden berechnet: | 
-120.18 | für eine Nachbeförderung oder Vonbordnahme einer Person mit einem Wasserfahrzeug der Wasserschutzpolizei im Bereich Nordschleuse-Einswarden | 150,- DM
+120.18 | Frei | 
  | Anmerkung: | 
  | Außerhalb des Bereichs Nordschleuse-Einswarden erfolgt Berechnung nach Aufwand gem. Nrn. 120.10 bis 120.17. | 
 120.19 | für die Begleitung und Sicherung von Landtransporten durch Kraftfahrzeuge innerhalb des jeweiligen Gemeindegebietes | je Kraftfahrzeug
@@ -309,6 +321,8 @@ Erstattung der Aufwendungen nach Maßgabe 120.10 bis 120.60 oder, falls dies nic
 120.63 | Amtshandlungen des Polizeivollzugsdienstes, soweit für sie eine Gebühr in den Positionen 120.00 bis 120.62 nicht festgesetzt oder eine Erstattung von Aufwendungen im Sinne von § 11 BremGebBeitrG nicht vorgeschrieben ist | gebührenfrei
 120.64 | Überlassung von Absperrgittern (Druckgittern) an natürliche Personen oder sonstige private Veranstalter oder Einrichtungen | 10,- DM
 (je Druckgitter und angefangene 24 Stunden)
+120.7 | Schriftliche Verbote und Gebote nach dem Brem. Polizeigesetz | 50,- Euro
+bis 1.000,- Euro
 121 | Melde- und Ausweiswesen | 
 121.00 | Auskünfte und Bescheinigungen aus dem Melderegister Einzelauskunft je Namen | 8,- DM
  | Einzelauskunft je Namen nach besonderen Ermittlungen oder aus der abgelegten Kartei | 32,- DM
@@ -330,7 +344,7 @@ Für Gruppenauskünfte, Datenabgleiche und sonstige Auswertungen, die in automat
 122 | Sondernutzungen und allgemeine Ordnungsangelegenheiten | 
 122.00 | Erteilung einer Sondernutzungserlaubnis | 20,- DM
 bis 600,- DM
-122.01 | Festsetzung oder Änderung amtlicher Haus- bzw. Grundstücksnummern je Festsetzung | 23,- DM
+122.01 | Festsetzung oder Änderung amtlicher Haus- bzw. Grundstücksnummern je Haus- bzw. Grundstücksnummer | 11,75 Euro
 122.02 | Ausnahmegenehmigung für ein abweichend von den Vorschriften gestaltetes Hausnummernschild | gebührenfrei
 122.03 | Änderung amtlicher Hausnummern infolge Straßenumbenennungen, veränderten Straßenführungen durch neue Bebauungspläne u.dgl. | gebührenfrei
 122.04 | Festsetzung der Bezeichnung für Privatwege | gebührenfrei
@@ -349,6 +363,11 @@ bis 1.360,- DM
 bis 135,- DM
 122.10 | Ausnahmegenehmigung für das Entleeren von Fäkaliengruben an Sonn- und Feiertagen sowie an Tagen mit Wärmegraden über 20 Grad Celsius | 17,- DM
 122.11 | Erlaubnis zum Abbrennen von Fackeln | 27,- DM
+122.12 | Sicherstellung und Verwahrung sichergestellter Hunde | 35,- Euro
+bis 480,- Euro
+ | Anmerkung: | 
+ | Außer der Gebühr sind die Auslagen sowie sonstigen Aufwendungen für Pflege und Transport des Hundes zu erstatten. | 
+122.13 | Ausnahmegenehmigung für Osterfeuer | 35,- Euro
 123 | Sonstiges | 
 123.0 | Verwaltung von Fundsachen | 
 123.00 | bei einem Schätzwert bis zu 30,- DM | gebührenfrei
@@ -432,6 +451,7 @@ bis 80,- DM
 142.09 | Jägerprüfung | 260,- DM
 142.10 | Bescheinigung über die Jagdpachtfähigkeit gemäß | 11,- DM
 § 11 Abs. 5 des Bundesjagdgesetzes
+142.11 | Zulassung zur Jägerprüfung | 50,- Euro
 143 | Fischereiwesen | 
 143.00 | Fischereischein mit Fischereiprüfung | 100,- DM
 143.01 | Fischereischein nach § 9 Fischereigesetz (Stockangler) | 50,- DM
@@ -486,7 +506,7 @@ bis 6.640,- DM
 bis 440,- DM
 150.17 | Stellvertretererlaubnis nach § 35 Abs. 2 und § 47 GewO | 170,- DM
 bis 470,- DM
-150.18 | Fristverlängerungen nach § 49 Abs. 2 GewO | 90,- DM
+150.18 | Fristverlängerungen nach § 49 Abs. 3 GewO | 90,- DM
 bis 1.800,- DM
 150.19 | Erteilung einer Reisegewerbekarte nach §§ 55 ff GewO | 65,- DM
 bis 1.630,- DM
@@ -519,6 +539,8 @@ bis 67,- DM
 bis 1.035,- DM
 150.34 | Rücknahme und Widerruf von Gewerbeerlaubnissen nach den Vorschriften des Allgemeinen Verwaltungsrechts | 340,- DM
 bis 6.640,- DM
+150.35 | Nachkontrolle eines Gewerbebetriebes, die durch Beanstandungen oder Beschwerde erforderlich wird (bei Beschwerden nur im Falle ihrer Begründetheit) | 40,- Euro
+bis 500,- Euro
 151 | Gewerberechtliche Nebengesetze | 
 151.00 | Untersagung der Betriebsfortsetzung nach § 16 Abs. 3 der Handwerksordnung | 150,- DM
 bis 5.000,- DM
@@ -584,6 +606,8 @@ bis 750,- DM
 bis 565,- DM
 160.09 | Beschäftigungsverbot nach § 21 Gaststättengesetz | 120,- DM
 bis 565,- DM
+160.10 | Nachkontrolle eines Gewerbebetriebes, die durch Beanstandungen oder Beschwerde erforderlich wird (bei Beschwerden nur im Falle ihrer Begründetheit) | 40,- Euro
+bis 500,- Euro
 161 | Amtshandlungen nach der Verordnung zur Ausführung des Gaststättengesetzes vom 3. Mai 1971 (Brem.GBl. S. 131-711-b-2) | 
 161.00 | Anzeigepflicht nach § 13 der Verordnung zur Ausführung des Gaststättengesetzes | 100,- DM
 bis 225,- DM
@@ -703,7 +727,7 @@ bis 1.000,- DM
 200.01 | Übersetzerprüfung | 455,- DM
 200.02 | Gleichzeitige Dolmetscher- und Übersetzerprüfung | 588,50 DM
 200.03 | Bearbeitungsgebühr bei Nichtzulassung (zu 200.00 bis 200.02) | 53,50 DM
-200.04 | frei | 
+200.04 | Zertifizierung von Fremdsprachenkenntnissen | 60,- Euro
 200.05 | frei | 
 200.06 | frei | 
 200.07 | frei | 
@@ -819,7 +843,7 @@ bis 215,- DM
 204.02 | Untersagung des Einstellens und Ausbildens nach dem Berufsbildungsgesetz | 232,- DM
 bis 1.066,- DM
 204.03 | Anerkennung als Ausbildungsstätte gemäß §§ 82 und 96 des Berufsbildungsgesetzes | gebührenfrei
-205 | Privatschulen | 
+205 | Privatschulen und private Hochschulen | 
 205.00 | Bearbeitung eines Antrags auf Genehmigung einer Privatschule (§ 5 Privatschulgesetz) | 594,- DM
 bis 5.940,- DM
 205.01 | Bearbeitung eines Antrags auf Verleihung der Eigenschaft einer anerkannten Privatschule (§ 12 Privatschulgesetz) | 594,- DM
@@ -838,9 +862,16 @@ pro Teilnehmer/in
 je nach Arbeitsaufwand
 205.06 | Tatbestand nach 205.04 für Wiederholung eines Teils der Prüfung | die Hälfte der Gebühr
 nach 205.05
+205.07 | Änderungsantrag zu einer bestehenden Verordnung nach 205.02 | Nach Zeitaufwand,
+mindestens
+200,- Euro
+205.08 | Bearbeitung eines Antrages auf Erteilung der staatlichen Anerkennung einer privaten Hochschule (§ 112 Abs. 1 BremHG) sowie der damit im Zusammenhang stehenden Folgegenehmigungen | 500,- Euro
+bis 5.000,- Euro
+205.09 | Bearbeitung eines Antrages einer ausländischen Hochschule auf Genehmigung zur Niederlassung (§ 112 Abs. 3 BremHG) sowie der damit im Zusammenhang stehenden Folgegenehmigungen | 500,- Euro
+bis 5.000,- Euro
  | Bemerkungen zu 205.05 bis 205.07: | 
  | Der personalle Aufwand für die Abnahme von Prüfungen an Privatschulen ist sehr hoch, da hierfür zusätzlich ein Prüfungsausschuß eingerichtet werden muß. Der tatsächliche Aufwand ist jeweils zu ermitteln. | 
-3 | Eichwesen, Arbeitsschutz und technische Sicherheit | 
+3 | Arbeit | 
 30 | Nebengebühren im Eichwesen | 
 300 | Gebühren für die Bereitstellung | 
 eichamtlicher Prüfmittel für Amtshandlungen außerhalb der Amtsstelle oder deren Bereitstellung für andere Zwecke jeweils an Werktagen
@@ -852,14 +883,28 @@ eichamtlicher Prüfmittel für Amtshandlungen außerhalb der Amtsstelle oder der
 Zusätzlich sind die bei Fremdfirmen anfallenden Reparaturkosten zu tragen.
 300.03 | Gebühr für die Beförderung eichamtlicher Prüfmittel je angefangene 100 kg Gesamtgewicht, wenn für die Amtshandlung Gebühren nach Arbeitsaufwand berechnet werden. | 22,- DM
  | Die ersten 100 kg werden nicht berechnet. | 
-301.00 | Gebühr für die Ermittlung der Kenndosisleistung an Röntgeneinrichtungen gemäß § 17 Abs. 1 der Röntgenverordnung einschließlich Ausstellung der Prüfbescheinigung sowie Anfertigung einer Bestrahlungszeitentabelle: Es werden Gebühren nach dem Arbeitsaufwand berechnet. Dabei werden die Stundensätze der jeweils geltenden Eich- und Beglaubigungskostenordnung zugrundegelegt. | 
+300.04 | Gebühr für das Be- und Entladen eichamtlicher Prüfmittel im Eichamt mittels Kran | 
+je angefangene 500 kg Gesamtgewicht | 3,70 Euro
+301 | Medizinprodukte mit Messfunktionen | 
+301.00 | Blutdruckmessgeräte, Prüfung im Eichamt | 12,- Euro
+301.01 | Blutdruckmessgeräte, Prüfung im Eichamt, ab dem 11. Stück | 7,- Euro
+301.02 | Blutdruckmessgeräte, Prüfung im Rahmen der Rundfahrt | 14,- Euro
+301.03 | Blutdruckmessgeräte, Prüfung außerhalb der Rundfahrt einschließlich Reise- und Wartezeiten | nach Arbeitsaufwand
+301.04 | Anzeigegeräte für medizinische Elektrothermometer (MET) einschließlich Prüfbescheinigung, Prüfung im Eichamt | 20,- Euro
+301.05 | Anzeigegeräte für medizinische Elektrothermometer (MET) einschließlich Prüfbescheinigung, Prüfung außerhalb des Eichamtes einschließlich Reise- und Wartezeiten | nach Arbeitsaufwand
+ | Hinweis zu 301.03 und 301.05: | 
+ | Bei Abrechnung nach Arbeitsaufwand werden die Stun-densätze für Prüf- und Reisezeiten entsprechend der jeweils geltenden EichKostV zugrunde gelegt. | 
+301.06 | Applanationstonometer - Prüfung im Eichamt einschließlich Prüfbescheinigung | 55,- Euro
+301.07 | Impressionstonometer - Prüfung im Eichamt einschließlich Prüfbescheinigung | 45,- Euro
+301.08 | Versand- und Verpackungskosten für zurückgesandte Messgeräte | Porto plus
+5,- Euro
 31 | Gebühren auf dem Gebiete des Arbeitsschutzes und der technischen Sicherheit | 
 310 | Sozialer Arbeitsschutz | 
 310.00 | Ausnahmen von den Vorschriften über die Arbeitszeit und den Vorschriften über das Verbot der Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen | 84,- DM
 bis 1.350,- DM
 310.01 | Amtshandlungen aufgrund des Mutterschutzgesetzes und § 18 Abs. 1 des Bundeserziehungsgeldgesetzes | 168,- DM
 bis 2.000,- DM
-310.02 | Ausnahmen vom Jugendarbeitsgesetz | 84,- DM
+310.02 | Ausnahmen vom Jugendarbeitsschutzgesetz | 84,- DM
 bis 1.000,- DM
 310.03 | Ausnahmen vom Ladenschlußgesetz | 68,- DM
 bis 500,- DM
@@ -868,32 +913,11 @@ bis 500,- DM
 1.350,- DM
 311.01 | Mitwirkung bei Lehrgängen | Gebühr nach
 Zeitaufwand
-312 | Arbeitsmedizinische Vorsorgeuntersuchungen; | 
-312.00 | Vorsorgeuntersuchungen im Sinne der Verordnung über gefährliche Stoffe | 166,67 v.H. der
-Gebühr nach der
-Gebührenordnung
-für Ärzte (GOÄ)
-312.01 | Untersuchungen nach den berufsgenossenschaftlichen Grundsätzen für arbeitsmedizinische Vorsorgeuntersuchungen | Pauschgebühr nach
-Ltnr. 62a des
-Abkommens Ärzte/
-Berufsgenossenschaften
-312.02 | Sonstige Laborleistungen | 166,67 v.H. der
-Gebühr nach der GOÄ
- | Anmerkung: | 
- | Die Gebührenberechnung erfolgt nur dann nach der GOÄ, sofern nicht für gleiche Leistungen eine Gebühr in diesem Gebührenverzeichnis enthalten ist. | 
-313 | Arbeitsstätten, Gefahrstoffe, Gerätesicherheitsgesetz (ausgenommen die von 315 erfaßten Fälle), Verordnungen aufgrund von § 120e Gewerbeordnung | 
-313.00 | Erlaubnisse zur Begasung | 160,- DM
-313.01 | Erteilung von Befähigungsscheinen | 110,- DM
-313.02 | Änderung von Erlaubnissen oder Befähigungsscheinen | 55,- DM
-313.03 | Anerkennung von Fachkundelehrgängen | 228,- DM
-bis 1.350,- DM
-313.04 | Mitwirkung bei Lehrgängen | Gebühr nach
-Zeitaufwand
-313.05 | Bauartzulassungen | 252,- DM
-bis 3.000,- DM
-313.06 | Sonstige Amtshandlungen | 136,- DM
+312 | Frei | 
+313 | Arbeitsschutzgesetz und darauf erlassene Verordnungen | 
+313.00 | Sonstige Amtshandlungen | 136,- DM
 (z. B. Ausnahmen) | bis 1.350,- DM
-314 | Strahlenschutz | 
+314 | Strahlenschutzverordnung, Röntgenverordnung | 
 314.00 | Genehmigungen aufgrund der Strahlenschutzverordnung oder der Röntgenver Ordnung einschließlich Festsetzung der Deckungsvorsorge | 168,- DM
 bis 2.000,- DM
 314.01 | Änderung von Genehmigungen | 68,- DM
@@ -904,26 +928,24 @@ bis 1.200,- DM
 bis 3.000,- DM
 314.05 | Sonstige Amthandlungen aufgrund der Strahlenschutzvorschriften | 68,- DM
 bis 700,- DM
-315 | Anlagen nach § 2 Abs. 2a Gerätesicherheitsgesetz (GSG) | 
+315 | Gerätesicherheitsgesetz und Medizinproduktegesetz | 
 315.00 | Genehmigungen zur Errichtung und zum Betrieb von Anlagen sowie Änderung dieser Genehmigungen | 5 v. T der
 Errichtungskosten
 mind. 210,- DM
  | Die Gebühr erhöht sich ggf. um eine | 
-nach Nr. 315.02 fällige Gebühr.
-315.01 | Bauartzulassungen | 252,- DM
-bis 3.000,- DM
-315.02 | Ausnahmen von den Vorschriften | 168,- DM
+nach Nr. 315.01 fällige Gebühr.
+315.01 | Ausnahmen von den Vorschriften | 168,- DM
 bis 1.350,- DM
-315.03 | Fristung (§ 11 Abs. 5 GSG) | 84,- DM
+315.02 | Fristung (§ 11 Abs. 5 GSG) | 84,- DM
 bis 270,- DM
-315.04 | Erteilung von befristeten Genehmigungen. | 
+315.03 | Erteilung von befristeten Genehmigungen. | 
  |  | Ein Drittel der
 nach 315.00 sich
 ergebenden Gebühr,
 aufgerundet auf
 volle 10,- DM
-315.05 | Prüfung von Getränkeschankanlagen | 40,- DM
-je Anlage
+315.04 | Sonstige Amtshandlungen | 69,54 Euro bis 690,24 Euro
+315.05 | aufgehoben | 
  | Anmerkungen zu 315.00: | 
  | a) Als Errichtungskosten sind die Kosten der Teile der Anlage zugrunde zu legen, auf die sich die Genehmigung erstreckt; der Wert der Grundfläche sowie die Kosten von Hochbauten, die nicht Bestandteile der Anlagen im Sinne der jeweiligen Rechtsvorschrift sind, werden nicht einbezogen. | 
 b) Erstreckt sich das Verfahren zugleich auf die bauaufsichtliche Genehmigung, so erhöhen sich die Gebühren um die im Baugenehmigungsverfahren vorgeschriebenen Gebühren nach 601.
@@ -932,14 +954,16 @@ c) Wird von der Genehmigung nicht Gebrauch gemacht, so werden 20 v. H. der Gebü
 316.00 | Anerkennung von Sachverständigen und Sachkundigen | 168,- DM
 bis 1.350,- DM
 316.01 | Anerkennung von Sachverständigen der technischen Überwachungsvereine | gebührenfrei
-316.02 | Anerkennung von Sachverständigenorganisationen im Sinne von § 14 Abs. 1 GSG sowie von ausländischen Sachverständigenorganisationen | 342,- DM
-bis 4.100,- DM
-317 | Medizinproduktegesetz | 
-317.00 | Bauartzulassungen | 252,- DM
-bis 3.000,- DM
-317.01 | Sonstige Amtshandlungen aufgrund des Medizinproduktegesetzes | 68,- DM
-bis 700,- DM
-318 | Verwaltungszwang auf dem Gebiet des Arbeitsschutzes und der technischen Sicherheit, Besichtigungstätigkeit | 
+316.02 | Benennung von zugelassenen Überwachungsstellen | 174,86 Euro bis 2.096,30 Euro
+317 | Chemikaliengesetz und darauf erlassene Verordnungen | 
+317.00 | Erlaubnisse zur Begasung | 81,81 Euro
+317.01 | Erteilung von Befähigungsscheinen | 56,24 Euro
+317.02 | Änderung von Erlaubnissen oder Befähigungsscheinen | 28,12 Euro
+317.03 | Anerkennung von Fachkundelehrgängen | 116,57 Euro
+bis 690,24 Euro
+317.04 | Sonstige Amtshandlungen aufgrund dieser Vorschriften | 34,76 Euro
+bis 357,90 Euro
+318 | Verwaltungszwang auf dem Gebiet des Arbeitsschutzes und der technischen Sicherheit, Überwachungstätigkeiten | 
 318.00 | Erteilung eines Ge- oder Verbots sowie die Androhung von Zwangsmitteln nach den §§ 11 und 17 des Bremischen Verwaltungsvollstreckungsgesetzes oder entsprechenden anderen Rechtsvorschriften | gebührenfrei
 318.01 | Nach erfolgter vergeblicher Anmahnung des Tuns, Lassens oder der Duldung innerhalb der letzten 3 Jahre | 136,- DM
 bis 2.000,- DM
@@ -950,9 +974,10 @@ für die Ersatzvornahme,
 mindestens 68,- DM
 318.03 | Besichtigungen ohne besonderen Anlaß | gebührenfrei
 318.04 | Nachkontrollen und andere Besichtigungen, die durch den Betroffenen veranlaßt wurden | Gebühr nach Zeitaufwand
+318.05 | Überwachung von gesetzlich vorgeschriebenen oder angeordneten Betreiber-/Arbeitgeberpflichten bei anzeige- oder genehmigungsbedürftigen Anlagen oder Tätigkeiten | Gebühr nach Zeitaufwand
 319 | Anzeigen auf den Gebieten des Arbeitsschutzes und der technischen Sicherheit | 
 319.00 | Bearbeitung von gesetzlich vorgeschriebenen Anzeigen | Gebühr nach Zeitaufwand
-32 | Sonstige | 
+32 | Gesundheitlicher Arbeitsschutz | 
 320 | Ermächtigung von Ärzten | 
 320.00 | Ermächtigung von Ärzten zur Durchführung | 160,- DM
 bestimmter Untersuchungen | 70,- DM
@@ -963,20 +988,18 @@ für jede weitere Untersuchungsart |
 300,- DM
 321.01 | Übernahme eines 200 Liter-Rollreifenfasses mit radioaktivem Abfall, wenn der Ablieferer ein eigenes Faß verwendet | 3.000,- DM
 321.02 | Ist wegen hoher Aktivität des Abfalles eine Sonderabschirmung erforderlich, verdoppelt sich die Gebühr nach Nr. 321.00 oder 321.01 | 
-322 | Berufsrecht | 
-322.00 | Eintragung in das Verzeichnis der Ausbildungsverhältnisse nach § 31 des Berufsbildungsgesetzes bei der zuständigen Stelle einschließlich der Änderungen, sofern der Ausbildende nicht das Land oder die Stadt Bremen ist | 43,- DM
-322.01 | Zulassung zur Fortbildungs- oder Umschulungsprüfung gemäß § 46 oder 47 des Berufsbildungsgesetzes auf Antrag des Arbeitgebers | 43,- DM
-322.02 | Teilnahme an Meisterprüfungen in der Hauswirtschaft (fällig bei Antritt des ersten Teils der Meisterprüfung) | 75,- DM
-322.03 | Teilnahme von externen Prüflingen an der Abschlußprüfung gemäß § 34 des Berufsbildungsgesetzes für den Ausbildungsberuf „Hauswirtschafter/Hauswirtschafterin“ (mit Ausnahme der Absolventen einer bremischen Berufsfachschule mit qualifizierendem Abschluß) | 70,- DM
+322 | Frei | 
+322.00 | aufgehoben | 
+322.01 | aufgehoben | 
+322.02 | aufgehoben | 
+322.03 | aufgehoben | 
 323 | Betriebsverfassungsrecht | 
 323.00 | Entscheidung über die Anerkennung von Schulungs- und Bildungsveranstaltungen nach § 37 Abs. 7 des Betriebsverfassungsgesetzes | gebührenfrei
-324 | Schwimmeister | 
-324.00 | Prüfung als Schwimmeister | gebührenfrei
+324 | Frei | 
+324.00 | aufgehoben | 
 325 | Benzin-Blei-Gesetz | 
 325.00 | Entnahme von Proben | 
 Gebühr nach Zeitaufwand
- | Anmerkung: | 
- | Bei der Entnahme und Untersuchung durch Dritte sind die dadurch entstehenden Kosten als besondere Auslagen zu erstatten. | 
 4 | Jugend und Soziales | 
 40 | Soziales | 
 400 | Soziale und sozialpädagogische Berufe | 
@@ -3003,22 +3026,26 @@ bis 20,- DM
 6 | Bauwesen, Wasserrecht, Enteignungsrecht, Kataster- und Vermessungswesen, Materialprüfung, Umweltschutz, Pflanzenschutz, Immissionsschutz | 
 60 | Bauwesen (Bodenverkehr, Bauaufsicht) | 
 600 | Bodenverkehr | 
-600.00 | Teilungsgenehmigung nach § 19 Abs. 1 Nr. 1 bis 4 des Baugesetzbuches (BauGB) in der Fassung der Bekanntmachung vom 8. Dezember 1986 (BGBl. I S. 2253) | 1 v. T. des auf volle
-1000,- DM aufzurundenden
-Verkehrswertes des
-Grundstücks
-mindestens 100,- DM
-höchstens 2 500,- DM
- | Anmerkung: | 
-Bei bebauten Grundstücken ist von dem Verkehrswert des unbebauten Grundstücks auszugehen. Bei Teilungen ist der Verkehrswert der Grundfläche zugrundezulegen, die in die städteplanerische Beurteilung einfließt bzw. berücksichtigt werden muß.
-600.01 | Zeugnis nach § 23 Abs. 2 BauGB in Verbindung mit § 19 Abs. 3 Satz 6 BauGB | wie nach 600.00
-600.02 | Negativzeugnisse nach § 23 Abs. 2 BauGB | 10. v. H. der Gebühr
-nach 600.00
-mindestens 100,- DM
-600.03 | Zeugnis über das Nichtbestehen bzw. die Nichtausübung des gesetzlichen Vorkaufsrechts nach § 28 Abs. 1 Satz 3 BauGB | 40,- DM
-600.04 | Versagung gemäß § 20 Abs. 1 und 2 BauGB einer Teilungsgenehmigung nach BauGB | 75 v. H. der Gebühr nach
-600.00,
-mindestens 100,- DM
+600.00 | Teilungsgenehmigungen | 50,- Euro
+nach § 19 Abs. 1 | bis 1.050,- Euro
+Baugesetzbuch (BauGB) | 
+600.01 | Zeugnis nach § 20 | 75 % der Gebühr
+Abs. 2 i. V. m. § 19 | nach 600.00
+Abs. 3 BauGB | 
+600.02 | Negativzeugnis nach | 25,- Euro
+§ 20 Abs. 2 BauGB
+600.03 | Versagung einer | 50 v. H. der Gebühr
+Teilungsgenehmigung | nach 600.00
+nach § 20 BauGB | mindestens 25,- Euro
+600.04 | Teilungsgenehmigungen nach § 11 Abs. 1 BremLBO je nach Umfang der zu prüfenden bauordnungsrechtlichen Belange | 50,- Euro
+bis 1.050,- Euro
+600.05 | Negativzeugnis nach § 11 Abs. 3 BremLBO i. V. mit § 20 Abs. 2 BauGB | 25,- Euro
+600.06 | Versagung einer Teilungsgenehmigung nach § 11 Abs. 2 BremLBO | 50 v. H. der Gebühr nach 600.04, mindestens 25,- Euro
+600.07 | Bescheid nach § 11 Abs. 1 BremLBO i. V. mit § 19 Abs. 3 BauGB | 75 v. H. der Gebühr nach 600.00
+ | Anmerkung zu Ziff. 600.00 bis 600.07 | 
+ | 1. Gebühren nach § 19 BauGB werden getrennt von Gebühren nach § 11 BremLBO berechnet. | 
+2. Soweit eine Teilungsgenehmigung Befreiungen oder Ausnahmen von baurechtlichen Vorschriften zur Folge hat, sind die Gebühren nach Ziffer 601.16 und 601.17 gesondert zu berechnen.
+600.08 | Zeugnis über das Nichtbestehen bzw. die Nichtausübung des gesetzlichen Vorkaufrechts nach § 28 Abs. 1 Satz 3 BauGB | 20,- Euro
 601 | Bauordnung/Bauaufsicht | 
 601.00 | Genehmigung zur Errichtung oder Änderung einer baulichen Anlage für Wohnzwecke einschl. zugehöriger Stellplätze, Garagen und Nebenanlagen nach § 64 Abs. 1 BremLBO | 6 v. T. der Baukosten
 mindestens 140,- DM
@@ -3349,13 +3376,7 @@ Sachgegenstand ist das auf dem belasteten Grundstück jeweils gesicherte Recht (
 ab 6. Seite 5,50 DM
 mindestens 21,- DM
 601.27.05 | Schriftliche Auskunft über das Bestehen oder Nichtbestehen einer Baulast je Grundbuchgrundstück, ggf. zuzügl. der Gebühr nach Nr. 601.27.04 | 21,- DM
-601.28 | Grundstücksteilungen (XE „Grundstücksteilungen“) | 
-601.28.00 | Teilungsgenehmigung nach § 11 Abs. 1 BremLBO je nach Umfang der zu prüfenden bauordnungsrechtlichen Belange | 200,- DM
-bis 2 100,- DM
-601.28.01 | Negativzeugnis nach § 11 Abs. 3 BremLBO i. V. mit § 23 Abs. 2 des Bundesbaugesetzes | 50,- DM
-601.28.02 | Versagung einer Teilungsgenehmigung nach § 11 Abs. 2 BremLBO | 56,- DM
-601.28.03 | Anmerkungen zu 601.28.00 bis 601.28.02: | 
-Soweit eine Teilungsgenehmigung Befreiungen oder Ausnahmen von baurechtlichen Vorschriften zur Folge hat, sind die Gebühren nach 601.16 und 601.17 gesondert zu berechnen.
+601.28 | aufgehoben | 
 601.29 | Beratung des Bauherrn oder der am Bau Beteiligten (§§ 55 bis 58 BremLBO) | nach Zeitaufwand
 601.29.00 | Die Gebühr für eine Arbeitsstunde zu 601.29 beträgt | 84,- DM
 601.29.01 | Anmerkung zu 601.29.00: | 
@@ -3417,7 +3438,7 @@ mindestens 180,- DM
 604.01 | Gebühren für Befreiungen und Ausnahmen sind ggf. zusätzlich nach 601.16 bzw. 601.17 zu entrichten. | 
 61 | Wasserrecht | 
 610 | Maßnahmen nach dem Bremischen Wassergesetz (BrWG) in der Neufassung vom 26. Februar 1991 (Brem.GBl. S. 65 - 2180-a-1) | 
-610.00 | Erteilung einer Erlaubnis | 
+610.00 | Erteil620.05ung einer Erlaubnis | 
 610.00.00 | ohne förmliches Verfahren (§§ 3, 26 Satz 1 BrWG) | 
 610.00.00.00 | Niederschlagswassereinleitungen, Dränagen | 60,- DM
 bis 1 500,- DM
@@ -3569,7 +3590,7 @@ je Wohneinheit
 bis 1 000,- DM
 620.03.01 | Zulassung als Betreuungsunternehmen nach § 37 II. WoBauG, jedoch nur für ein einzelnes Bauvorhaben | 300,- DM
 620.04 | Entziehung der Zulassung als Betreuungsunternehmen nach § 37 II. WoBauG | 300,- DM
-620.05 | Erteilung einer Wohnberechtigungsbescheidung für eine Wohnung nach | 20,- DM
+620.05 | Erteilung einer Wohnberechtigungsbescheidung für eine Wohnung nach | 10,- Euro
 § 88a II. WoBauG (2. Förderungsweg)
 § 88d II. WoBauG (3. Förderungsweg)
 § 88e II. WoBauG (4. Förderungsweg)
@@ -3577,14 +3598,14 @@ bis 1 000,- DM
 621 | Wohnungsbindungsgesetz | 
 621.00 | Erteilung einer Genehmigung nach § 5a Abs. 3 Satz 1 der Verordnung über die Ermittlung der zulässigen Miete für preisgebundene Wohnungen (Neubaumietenverordnung 1970 - NKV 1970) | 55,- DM
 bis 500,- DM
-621.00.00 | Erteilung einer Wohnberechtigungsbescheinigung nach § 5 Wo-BindG für den 1, Förderungsweg (inkl. Ablehnungsbescheid) | 20,- DM
+621.00.00 | Erteilung einer Wohnberechtigungsbescheinigung nach § 5 Wo-BindG für den 1, Förderungsweg (inkl. Ablehnungsbescheid) | 10,- Euro
 621.00.01 | Vom Eigentümer beantragte Freistellung nach § 7 WoBindG zugunsten eines nicht wohnberechtigten Mieters | 60,- DM
 622 | Zweckentfremdung | 
 622.00 | Genehmigung von Zweckentfremdung und von baulichen Änderungen von Wohnraum nach § 12 WoBindG bzw. nach der Zweckentfremdungsverordnung | 5 v. H. der ehemaligen
 Abstandsumme,
 mindestens 150,- DM
 622.01 | Im Falle der Ablehnung der Genehmigung | 90,- DM
-623 | Heimstätten- und Siedlungswesen | 
+623 | Siedlungswesen | 
 623.03 | Amtshandlungen nach den Richtlinien über Zuwendungen für geräumte Wohnunterkünfte in Kleingärten | gebührenfrei
 624 | Obdachlosenpolizei | 
 624.00 | Einweisung in Wohnungen und Obdachlosenunterkünfte | gebührenfrei
@@ -4282,7 +4303,7 @@ höchstens 5,000,- DM
 664.51 | Widerruf der Anerkennung nach § 11 Abs. 3 Entsorgergemeinschaftenrichtlinie | 250,- DM
 664.52 | Zulassung eines gemeinsamen Abfallwirtschaftskonzeptes nach § 9 Abs. 1 Abfallwirtschaftskonzept- und -bilanzverordnung -AbfKoBiV- | 50,- DM
 bis 1.000,- DM
-664.53 | frei | 
+664.53 | Erstmalige Entscheidung über die Erteilung einer Transportgenehmigung nach § 8 Transportgenehmigungsverordnung - TgV - | 250,- Euro bis 5.000,- Euro
 664.54 | frei | 
 664.55 | Entscheidung nach einer wesentlichen Änderung der für die Erfüllung der Genehmigungsvoraussetzungenbis erheblichen Umstände | 100,- DM
 10.000,- DM
@@ -4292,6 +4313,12 @@ bis 10.000,- DM
 bis 1.000,- DM
 664.58 | nachträgliche Anerkennung eines oder mehrerer Lehrgänge für einen einzelnen Teilnehmer | 20,- DM
 bis 200,- DM
+664.59 | Erteilung einer Zustimmung, Genehmigung oder Sammelgenehmigung für die Verbringung von Abfällen nach Art. 33 Abs. 1 der EG-Abfallverbringungsverordnung Nr. 259/93 | 250,- Euro bis 5.000,- Euro
+664.60 | Entnahme einer Probe der verbrachten Abfällen nach Art. 33 Abs. 1 der EG-Abfallverbringungsverordnung Nr. 259/93 | 50,- Euro
+664.61 | Untersuchung der verbrachten Abfälle je Probe, wenn die zuständige Behörde die Untersuchung selbst vornimmt nach Art. 33 Abs. 1 der EG-Abfallverbringungsverordnung Nr. 259/93 | 50,- Euro
+664.62 | Untersuchung der verbrachten Abfälle je Probe, wenn die zuständige Behörde die Untersuchung durch Dritte vornehmen lässt nach Art. 33 Abs. 1 der EG-Abfallverbringungsverordnung Nr. 259/93 | 50,- Euro
+ | Anmerkung zu 664.60, 664.61 und 664.62: | 
+ | Die für die Entnahme und Untersuchung von Proben anfallenden Kosten werden zusätzlich als Auslagen erhoben. Dies gilt auch für die Kosten, die durch die Entnahme und Untersuchung durch Dritte entstehen. | 
 664.70 | Erteilung einer Freistellung nach § 6 Abs. 3 Satz 6 der Verpackungsverordnung vom 12. Juni 1991 (BGBl. I S. 1234) | 2.500,- DM
 bis 50.000,- DM
 664.71 | Überprüfung der nach der Verpackungsverordnung vorzulegenden Mengenstromnachweise | 1.000,- DM
@@ -4328,7 +4355,7 @@ bis 410,- DM
 666 | Umlegungsrecht | 
 666.00 | Geschäfte und Verhandlungen, die der Durchführung oder Vermeidung von Umlegungen dienen, einschl. der Berichtigung der öffentlichen Bücher (§ 79 Abs. 1 des Baugesetzbuches -BauGB- i.d. Fassung der Bekanntmachung vom 8. Dezember 1986, BGBl. I S. 2253) | gebührenfrei
 667 | Städtebauförderungsrecht | 
-667.00 | Bestätigungen von Unternehmen als Sanierungs- oder Entwicklungsträger nach §§ 158 und 167 des Baugesetzbuches in der Fassung der Bekanntmachung vom 8. Dezember 1986 (BGBl. I S. 2253) bei einem Finanzierungsvolumen | 
+667.00 | Bestätigungen von Unternehmen als Sanierungs- oder Entwicklungsträger nach §§ 158 und 167 Baugesetzbuch (BauGB) bei einem Finanzierungsvolumen | 
 667.00.00 | bis zu 10 Mio DM | 800,- DM
 667.00.01 | bis zu 25 Mio DM | 1.100,- DM
 667.00.02 | bis zu 50 Mio DM | 1.350,- DM
@@ -4339,6 +4366,13 @@ höchstens 5.500,- DM
 667.01.00 | zur Vorbereitung oder Durchführung von Sanierungsmaßnahmen | gebührenfrei
 667.01.01 | zur Durchführung von Erwerbsvorgängen | gebührenfrei
 667.01.02 | zur Gründung oder Auflösung eines Unternehmens, dessen Geschäftszweck ausschließlich darauf gerichtet ist, als Sanierungsträger tätig zu werden. | gebührenfrei
+667.02 | Teilungsgenehmigung nach § 144 Abs. 2 Nr. 5 BauGB | 100,- Euro bis 1.055,- Euro
+667.03 | Versagung einer Teilungsgenehmigung nach § 144 Abs. 2 Nr. 5 BauGB | 50 v. H. der Gebühr nach 667.02
+667.04 | Bescheinigung nach den „Bescheinigungsrichtlinien Anwendung der §§ 7h, 10f und 11a des EStG“ bei einem bescheinigten Wert | 
+bis 10.000,- Euro | 40,- Euro
+bis 50.000,- Euro | 70,- Euro
+je weitere angefangene 50.000,- Euro | 70,- Euro
+höchstens | 1.000,- Euro
 668 | Immissionsschutz | 
 668.00 | Entscheidungen der höheren Verwaltungsbehörde nach § 42 Abs. 3 des Bundes-Immissionsschutzgesetzes | gebührenfrei
 669 | Stadtplanung | 
@@ -4389,6 +4423,14 @@ bis 669.00.00.04
  |  | 30,- DM
 669.04.00 | Abgabe des geltenden Flächennutzungsplanes (Farbdruck 1 : 50.000) | 10,- DM
 669.04.01 | Abgabe des geltenden Flächennutzungsplanes in digitaler Form | 30,- DM
+669.04.02 | Abgabe von Bauleitplänen in digitaler Form im EDBS-Format pro angefangene 10 ha Kartenfläche | 50,- Euro
+669.04.03 | Bei Konvertierungen in andere Dateiformate | Je angef. 1/2 Std. nach Ziff. 103 zzgl. Materialkosten
+669.04.04 | Abgabe von rechtsverbindlichen bzw. -wirksamen Bauleitplänen einschl. zeichn. U. textl. Festsetzungen sowie Erschließungsplänen in 4-Farben-Plot | 
+bei Format DIN A4 oder bis 6,5 dm² | 30,- Euro
+bei Format DIN A3 oder bis 13 dm² | 36,- Euro
+bei Format DIN A2 oder bis 25 dm² | 48,- Euro
+bei Format DIN A1 oder bis 50 dm² | 60,- Euro
+bei Format über 50 dm² | zzgl. 0,40 Euro je dm² für die über 50 dm² hinausgehende Fläche
 669.05 | Abgabe von Planaufstellungsbeschlüssen (Vorlage und Übersichtsplan) | 50 v.H. der Sätze
 nach 669.00.00.00
 bis 669.00.00.04
@@ -5244,17 +5286,45 @@ bis 1.000,- DM
 692.44 | Überprüfung der Prüfberichte nach § 6 Abs. 4 der 21. BImSchV | 200,- DM
 692.45 | Zulassung einer Ausnahme nach § 7 der 21. BImSchV | 100,- DM
 bis 1.000,- DM
+692.46 | Entscheidung über die Bekanntgabe einer Stelle nach § 7 Abs. 3 der Verordnung über Anlagen zur Feuerbestattung - 27.BimSchV - | 250,- Euro
+ansässig in Bremen | bis 1.000 Euro
+ansässig außerhalb Bremens | 250,- Euro
+692.47 | Fristverlängerung zu 692.46 | 250,- Euro
+692.48 | Nachkontrollen und andere Besichtigungen, die durch den Betroffenen veranlasst wurden nach Zeitaufwand | 
 693 | Amtshandlungen nach der TA Luft | 
 693.00 | Entscheidung über die Bekanntgabe einer Stelle nach Nr. 3.2 der Technischen Anleitung Luft (TA Luft) ansässig in Bremen | 500,- DM
 bis 2.000,- DM
  | ansässig außerhalb Bremens | 500,- DM
 693.01 | Fristverlängerung zu 693.00 | 500,- DM
 694 | frei | 
-695 | frei | 
-696 | frei | 
+695 | Umweltinformationen nach dem Umweltinformationsgesetz (UIG) vom 8. Juli 1994 (BGBl. I S. 1490) | 
+695.00 | Übermittlung von Umweltinformationen im Rahmen der Öffentlichkeitsarbeit, Abrufen von der Öffentlichkeit zugänglich gemachten Umweltinformationen über Bildschirmtext oder Internet, Einsichtnahme in das Wasserbuch | gebührenfrei
+695.01 | Ablehnung oder Rücknahme eines Antrags auf Übermittlung von Umweltinformationen | gebührenfrei
+695.02 | Übermittlung von Umweltinformationen durch mündliche Auskünfte oder durch schriftliche Auskünfte bzw. auf sonstigem Wege bei geringfügigem Aufwand (bis 30 Minuten) | gebührenfrei
+695.03 | Übermittlung von Umweltinformationen durch schriftliche Auskünfte oder auf sonstigem Wege (z.B. Akteneinsicht) bei | 
+mehr als geringfügigem Aufwand | 10,- Euro
+(0,5 bis 3 Stunden) | bis 140,- Euro
+erheblichem Aufwand (3 bis 8 Stunden) | 140,- Euro bis 370,- Euro
+außergewöhnlich hohem Aufwand | 370,- Euro
+(mehr als 8 Stunden) | bis 500,- Euro
+ | Anmerkung zu 695.00 bis 695.03: | 
+ | Die bei der Auskunftserteilung entstehenden Kosten für die Herstellung von Duplikaten oder Kopien (auch auf Datenträgern) werden wie folgt als Auslagen gesondert erhoben: | 
+ | - je DIN A 4-Kopie von Papiervorlagen | 0,10 Euro
+ | - je DIN A 3-Kopie von Papiervorlagen | 0,15 Euro
+ | - Reproduktion von verfilmten Akten | 0,25 Euro
+ | je Seite | 
+ | Herstellung von Kopien auf sonstigen Datenträgern oder Filmkopien | in Höhe der entstandenen Kosten
+ | - Aufwand für besondere Verpackung und besondere Beförderung | in Höhe der entstandenen Kosten
+696 | Bodenschutz/Altlasten | 
+696.00 | Anordnung nach § 9 Abs. 2 des Bundes-Bodenschutzgesetzes (BBodSchG) vom 17. März 1998 (BGBl. I. S. 502) | 150,- Euro bis 3.000,- Euro
+696.01 | Anordnungen nach § 10 Abs. 1 BBodSchG | 250,- Euro bis 5.000,- Euro
+696.02 | Anordnung zur Durchführung einer Sanierungsuntersuchung oder zur Vorlage eines Sanierungsplans nach § 13 Abs. 1 BBodSchG | 250,- Euro bis 5.000,- Euro
+696.03 | Verbindlicherklärung eines Sanierungsplanes nach § 13 Abs. 6 BBodSchG | 500,- Euro bis 10.000,- Euro
+696.04 | Anordnung von Überwachungs- und Eigenkontrollmaßnahmen nach § 15 Abs. 2 BBodSchG | 50,- Euro bis 1.000,- Euro
+696.05 | Anordnungen nach § 16 Abs. 1 BBodSchG | 50,- Euro bis 1.000,- Euro
 697 | frei | 
 698 | frei | 
-699 | Umweltbezogene Informationen | 
+699 | Sonstiges | 
  | (Vollzug des Gesetzes zur Umsetzung der Richtlinie 90/313/EWG des Rates vom 7. Juni 1990 über den freien Zugang zu Informationen über die Umwelt vom 8. Juli 1994 -BGBl.I S. 1490- UIG) und Sonstiges | 
 699.00 | Bescheinigung nach § 7d Abs. 2 Nr. 2 des Einkommensteuergesetzes (EStG) für Wirtschaftsgüter, die dem Umweltschutz dienen bis zu einer Investitionssumme von 50.000,- DM | 5 v.T. der Investitionssumme,
 mindestens 120,- DM
@@ -5264,28 +5334,9 @@ Betrages
 zusätzlich zu 319.03.00,
 höchstens 3.200,- DM
 699.01 | Bestätigungen nach § 7d Abs. 8 Satz 2 des EStG | 63,- DM
-699.02 | Erteilung einer Auskunft mit nur geringem Aufwand | 10,- DM
-bis 100,- DM
-699.03 | Erteilung einer Auskunft mit umfangreichem Aufwand | nach Zeitaufwand
-699.04 | Überlassung von Informationsträgern einschl. der Gewährung von Akteneinsicht | nach Zeitaufwand
-699.05 | Zuschlag bei der Aussonderung von Informationen oder Daten nach den §§ 7 und 8 UIG | 50,- DM
-bis 1.000,- DM
- | Anmerkungen zu 699.02 bis 699.05: | 
- | Werden im Zuge der Auskunftserteilung Abschriften, Ablichtungen, Vervielfältigungen oder Negative zur Verfügung gestellt, sind hierfür Gebühren nach den Ziffern 101.01 und 101.02 zusätzlich zu erheben. Wird eine Gebühr nach Zeitaufwand berechnet, sind dafür die Stundensätze der Ziffer 103 maßgebend. | 
 7 | Wirtschaft, Ernährung und Landwirtschaft, Außenhandel | 
 70 | Wirtschaft | 
-700 | Gewerbe- und Sachverständigenrecht | 
-700.00 | Genehmigungen und Erlaubnisse nach § 34b Abs. 5 GewO | 200,- DM
-bis 800,- DM
-700.01 | Ermächtigung zur Ausstellung von Orderlagerscheinen gemäß Verordnung über Orderlagerscheine vom 16. Dezember 1931 (RGBl. I S. 763, BGBl. III Folge 10 S. 95-4102-1) | 500,- DM
-bis 5.000,- DM
- | Amtshandlungen nach der Verordnung über die öffentliche Bestellung und Vereidigung von Sachverständigen (SVO) vom 23. Mai 1977 (Brem.GBl. S. 253 - 7131-a-3) | 
-700.02 | Öffentliche Bestellung und Vereidigung von Sachverständigen und Handelshilfspersonen i.S. des § 36 GewO gemäß §§ 3ff. SVO | 300,- DM
-bis 800,- DM
-700.03 | Verlängerung oder Erneuerung einer befristeten Bestellung bzw. Beschränkung oder Erweiterung des Sachgebietes einer Bestellung nach § 6 Abs. 2, § 7 Abs. 4, § 24 Abs. 4 SVO | 180,- DM
-bis 500,- DM
-700.04 | Aberkennung der Sachverständigeneigenschaft nach § 25 Abs. 1 SVO | 360,- DM
-bis 600,- DM
+700 | Frei | 
 701 | Handwerks- und Berufsrecht | 
  | Amtshandlungen nach der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), zuletzt geändert am 20. Dezember 1993 (BGBl. 1993 I, S. 2256) | 
 701.00 | Ausübungsberechtigung für ein anderes Handwerk nach § 7a HwO | 300,- DM
@@ -5301,9 +5352,9 @@ bis 300,- DM
 701.05 | Genehmigung von Satzungen von Landesinnungsverbänden nach § 80 HwO | 120,- DM
 bis 500,- DM
  | Sonstiges Berufsrecht | 
-701.06 | Ausnahmegenehmigungen und Gestattungen nach § 1 Abs. 3 und § 6 der Durchführungsverordnung zu dem Gesetz über die Führung der Berufsbezeichnung „Drogist“ und „Drogerie“ vom 25. November 1946 (SaBremR 711-d-2) | 100,- DM
-bis 400,- DM
-702 | frei | 
+702 | Unternehmensbeteiligungsgesellschaften | 
+702.00 | Anerkennung von Unternehmensbeteiligungsgesellschaften gem. § 14 Abs. 2 UBGG | 500,- Euro bis 5.000,- Euro
+702.01 | Rücknahme und Widerruf der Anerkennung | 300,- Euro bis 5.000,- Euro
 703 | Börsenaufsicht | 
 703.00 | Errichtung einer Börse (§ 1 Abs. 1 des Börsengesetzes in der Fassung der Bekanntmachung vom 27. Mai 1908, RGBl. S. 215), zuletzt geändert durch Gesetz vom 26. Juli 1994 (BGBl. I S. 1749) | 6.600,- DM
 bis 30.000,- DM
@@ -5325,41 +5376,17 @@ bis 400,- DM
 704.01 | Zulassung einer Enteignung gemäß § 11 des Gesetzes zur Förderung der Energiewirtschaft | gebührenfrei
  | Anmerkung: | 
  | Für das evtl. anschließende Enteignungsverfahren werden Gebühren nach 630 erhoben. | 
-705 | Mehrstimmrechtsaktien | 
-705.00 | Ausnahmebewilligung zur Ausgabe von Mehrheitsstimmrechtsaktien nach § 12 Abs. 2 des Aktiengesetzes vom 6. September 1965 (BGBl. I S. 1089) | 0,001 v.H. des
-Nennbetrages
-der Aktien
+705 | Frei | 
 706 | Genehmigungen nach der Bundestarifordnung Elektrizität vom 26. November 1971 (BGBl. I S. 1865) i. d. F. der Zweiten Verordnung zur Änderung der Bundestarifordnung Elektrizität vom 30. Januar 1980 (BGBl. I S. 122) | 
 706.00 | Genehmigungen nach § 12a Bundestarifordnung Elektrizität | 1.000,- DM
 bis 5.000,- DM
 706.01 | Genehmigungen nach § 12b Bundestarifordnung Elektrizität | 500,- DM
 bis 3.000,- DM
 71 | Ernährung und Landwirtschaft | 
-710 | Warenbezeichnungen | 
-710.00 | Verleihung des Rechts zur Führung der Bezeichnung „Deutsche Markenbutter“ - Sauerrahmbutter - | 172,- DM
-710.01 | Verleihung des Rechts zur Führung der Bezeichnung „Deutsche Markenbutter“ - Süßrahmbutter - | 172,- DM
-710.02 | Wiederverleihung des Rechts zur Führung der Bezeichnung „Deutsche Markenbutter“ - Sauerrahmbutter - | 90,- DM
-710.03 | Wiederverleihung des Rechts zur Führung der Bezeichnung „Deutsche Markenbutter“ - Süßrahmbutter - | 90,- DM
-710.04 | Verleihung des Rechts zur Führung der Bezeichnung „Markenkäse“ | 90,- DM
-710.05 | Wiederverleihung des Rechts zur Führung der Bezeichnung „Markenkäse“ | 46,- DM
+710 | Frei | 
 711 | Flurbereinigung | 
 711.00 | Amtshandlungen, die der Durchführung der Flurbereinigung dienen | gebührenfrei
-712 | Tierzucht | 
- | Körungen | 
-712.00 | Hengste | 15,- DM
-712.01 | Kleinpferde und Ponyhengste | 10,- DM
-712.02 | Bullen | 20,- DM
-712.03 | Eber | 5,- DM
-712.04 | Schafböcke | 2,- DM
-712.05 | Ziegenböcke | 2,- DM
- | Deckerlaubnisse | 
-712.06 | Hengste | 15,- DM
-712.07 | Kleinpferde und Ponyhengste | 10,- DM
-712.08 | Bullen | 20,- DM
-712.09 | Eber | 5,- DM
-712.10 | Schafböcke | 2,- DM
-712.11 | Ziegenböcke | 2,- DM
-712.12 | Einsatz des Spermas von nicht in Bremen oder Niedersachsen stationierten oder nicht mehr lebenden Vatertieren in der künstlichen Besamung | 30,- DM
+712 | Frei | 
 713 | Landtechnik | 
 713.00 | Bearbeitung von Anträgen auf Gasölverbilligung | 10,- DM
 bis 200,- DM
@@ -5388,8 +5415,7 @@ bis 40,- DM
 812 | Gefährliche Seefrachtgüter | 
 812.00 | Ausnahmegenehmigungen nach der Verordnung über die Beförderung gefährlicher Güter mit Seeschiffen vom 5. Juli 1978 (BGBl. I S. 1017) | 30,- DM
 bis 520,- DM
-813 | Verfrachtung alkoholischer Waren | 
-813.00 | Erlaubnisscheine nach der Verordnung zur Ausführung des Reichsgesetzes 17,- DM über die Verfrachtung alkoholischer Waren vom 18. August 1927 (SaBremR 9510-b-1) | 
+813 | Frei | 
 814 | Maßnahmen der Seemannsämter | 
 814.00 | Ausstellung eines Seefahrtbuches | Die Gebührensätze richten sich nach der Kostenverordnung für Amtshandlungen der Seemannsämter - SeemannsÄKostV - vom 9. Juni 1992 (BGBl. I S. 1038) in der jeweils geltenden Fassung
  | Verlängerung der Gültigkeitsdauer eines Seefahrtsbuches
@@ -5412,25 +5438,6 @@ bis 1.000,- DM
 bis 400,- DM
 815.02 | Widerruf der öffentlichen Bestellung | 265,- DM
 bis 700,- DM
-816 | Maßnahmen der Schiffsbesichtiger | 
-816.00 | Schiffs- und Proviantbesichtigungen | 
- | bei Schiffen bis zu 2.500 BRT | 80,- DM
- | bei Schiffen von 2501 bis 5000 BRT | 110,- DM
- | bei Schiffen von 5001 bis 10.000 BRT | 150,- DM
- | bei Schiffen über 10.000 BRT | 190,- DM
- | Anmerkung: | 
- | Die Gebühren gelten für die Besichtigung im ganzen ohne Rücksicht darauf, ob der Besichtiger sich einmal oder mehrere Male an Bord begeben muß. | 
-816.01 | Lukenbesichtigungen | 
- | bei Schiffen bis zu 1.500 BRT | 45,- DM
- | bei Schiffen über 1.500 BRT | 75,- DM
- | Anmerkung: | 
- | Die Gebühren gelten ohne Rücksicht auf die Zahl der Besichtigungen oder darauf, ob ein oder mehrere Besichtiger tätig waren. | 
-816.02 | Ladungsbesichtigungen | 
- | bei Schiffen bis zu 1.500 BRT | 135,- DM
- | bei Schiffen von 1.501 bis 5.000 BRT | 200,- DM
- | bei Schiffen über 5.000 BRT | 280,- DM
- | Anmerkung: | 
- | Die Gebühren gelten ohne Rücksicht auf die Zahl der Besichtigungen oder darauf, ob ein oder mehrere Besichtiger tätig waren. Bei Besichtigungen und Schadensfällen, die eine längere oder häufigere Anwesenheit der Schiffsbesichtiger an Bord erforderlich machen, kann ein Zuschlag von 50 v.H. der Gebühr erhoben werden. | 
 82 | Schiffahrt - Binnenschiffahrt | 
 820 | Maßnahmen nach der Polizeiverordnung über den Verkehr auf dem Binnenschiffahrtsweg Elbe-Weser vom 21. Januar 1963 (SaBremR 950-c-1) | 
 820.00 | Ausnahmegenehmigungen nach § 11 | 25,- DM
