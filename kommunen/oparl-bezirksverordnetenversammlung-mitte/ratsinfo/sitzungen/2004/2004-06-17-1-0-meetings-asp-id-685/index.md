@@ -1,0 +1,86 @@
+# 27. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2004-06-17T17:30:00+02:00
+- Ende: 2004-06-17T22:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=685
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=685
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=41943
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - erledigt
+- TOP 3: Thematische Stunde - (offen)
+- TOP 4: Mündliche Anfrage - (offen)
+- TOP 4.1: Bürokratiedschungel im Bezirksamt Mitte? - beantwortet
+- TOP 4.2: Echte Partnerschaft mit dem Regierungsbezirk von Peking (Drucksache 1268/II) - in der BVV zurückgezogen
+- TOP 4.3: JoJo vor dem Aus? - beantwortet
+- TOP 4.4: Umgestaltung des Ostteils des Großen Tiergartens - beantwortet
+- TOP 4.5: Einnahmen des Bezirks aus Grundstücksverkäufen - beantwortet
+- TOP 4.6: Jugendbande im Bereich der Müllerhalle - beantwortet
+- TOP 4.7: Bauvorhaben am Bahnhof Jannowitzbrücke - beantwortet
+- TOP 4.8: Pflanzkübel in der Müllerstraße - beantwortet
+- TOP 4.9: Regelungen des Bezirksamtes mit der Firma Wall - beantwortet
+- TOP 5: Dringlichkeitsanfrage - (offen)
+- TOP 5.1: Zur Situation der Anlaufstellen der Mädchennotdienste - beantwortet
+- TOP 5.2: Classik Open Air auf dem Gendarmenmarkt - beantwortet
+- TOP 6: Große Anfrage - (offen)
+- TOP 6.1: U5-Baustelle am Pariser Platz - beantwortet
+- TOP 6.2: Scientology - beantwortet
+- TOP 6.3: Innere und Äußere Schulangelegenheit - oder: Sagt die Verwaltung nur, was siezugeben muss? - beantwortet
+- TOP 6.4: Gesundheits- und Sozialzentrum Moabit - schriftlich beantwortet
+- TOP 6.5: Strategischer Zielfindungsprozess des Bezirksamtes - schriftlich beantwortet
+- TOP 6.6: Bezirkliche Ordnungsämter: Wer jagt bald mit Gummiknüppeln und Pfefferspray die Grillsünder? - schriftlich beantwortet
+- TOP 6.7: Umsetzung Hartz IV Arbeitslosengeld II - schriftlich beantwortet
+- TOP 6.8: Bezirkliche Bühne für verfassungsrechtlich bedenkliche und verfassungsfeindliche Organisationen - beantwortet
+- TOP 6.9: Vergabe des Gebäudes der ehemaligen Kita Pflugstraße - schriftlich beantwortet
+- TOP 6.10: Tricksen, Schieben und Hinhalten - verstößt das Bezirksamt am Hackeschen Markt gegen seine eigene Ausschreibung und das Vereinigungsrecht? - schriftlich beantwortet
+- TOP 6.11: Kassenautomaten im Bezirksamt Mitte -Top oder Flop? - schriftlich beantwortet
+- TOP 7: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7.1: Nachtragliste für die Wahl der ehrenamtlichen Richter am Verwaltungsgericht Berlin für die Amtsperiode ab 01. Januar 2005 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Wahl der ehrenamtlichen Richter für das Oberverwaltungsgericht Berlin für die Amtsperiode ab 01. Januar 2005 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Bebauungsplanentwurf III-237b sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-237b - überwiesen
+- TOP 8.2: Bereichsentwicklungsplanung alt: Drucksache I/275 - überwiesen
+- TOP 9: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Kriterien für Städtepartnerschaften - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Schülerinseln erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 11: Antrag - (offen)
+- TOP 11.1: Vergabe von Frauennamen bei der Benennung neuer Straßen und Plätze - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Kioske retten! - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Bericht über Partnerschaften des Bezirks - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Mitgliedschaft im Stiftungsbeirat der Erika-Heß-Stiftung - in der BVV abgelehnt
+- TOP 11.5: Weniger Müll tut gut - Modellversuch zur Reduzierung der Abfallkosten in Grünanlagen - überwiesen
+- TOP 11.6: Sanitäre Anlagen in der Mosaik-Grundschule - überwiesen
+- TOP 11.7: Gremium zur Entwicklung von Kriterien für die Vergabe der Bezirksverdienstmedaille - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Baustelle für U 55 - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondernutzung öffentlichen Straßenlandes durch Scientology - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Keine Unterstützung für verfassungsrechtlich bedenkliche bzw. verfassungsfeindliche Organisationen - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Änderung des "BVG Verkehrskonzept 2005 plus" - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Strandbar Mitte erhalten - überwiesen
+- TOP 11.13: Stärkung der Bezirke/ Umsetzung Hartz IV - Arbeitslosengeld II - überwiesen
+- TOP 11.14: Umweltfeindliches Grillen im Tiergarten unterbinden und Kosten senken - in der BVV abgelehnt
+- TOP 11.15: Mitgliedschaft Stiftungsbeirat der Erika-Heß-Stiftung - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Antikriegsmuseum in dem Jüdenhof - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag/Beschlussempfehlung - (offen)
+- TOP 12.1: Interreligiöses Forum - in der BVV abgelehnt
+- TOP 12.2: Integrationskonzept - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Offene Mieterberatung - in der BVV abgelehnt
+- TOP 13: Vorlage zur Kenntnisnahme - (offen)
+- TOP 13.1: Privates Geld für öffentliche Gebäude - Energiesparcontracting für Mittes Liegenschaften vorbereiten
+- TOP 13.2: Obdachloseneinrichtungen im Bezirk Mitte alt: Drucksache Nr. 549/I
+- TOP 13.3: Ergänzung des Budgetierungsverfahrens durch Qualitätskriterien - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.4: Entwicklung von Gewerbe und Handwerk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.5: Genehmigung der im Haushaltsjahr 2003 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.6: Einführung gemeinsamer Planungsebenen in allen planenden Fachabteilungen - Regionen, Planungsgebiete, Planungsräume sowie Versorgungsbereiche/ -einheiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: Beschluss über das Ergebnis der frühzeitigen Bürgerbeteiligung des Bebauungsplans 1-11, die Änderung des Titels und die Durchführung der Trägerbeteiligung gemäß § 4 BauGB - mit Abschlussbericht zur Kenntnis genommen
