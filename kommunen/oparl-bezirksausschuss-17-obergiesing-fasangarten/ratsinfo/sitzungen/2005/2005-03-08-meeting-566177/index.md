@@ -1,0 +1,108 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2005-03-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/566177
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/566177
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.1.: Stadtteilkulturzentrum Giesinger Bahnhof; Schreiben des Betreibers vom 22.02.2005
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3.: Anträge/Anfragen
+- TOP 3.1.: Vorauszahlung anlässlich der Liquiditätskrise des Betreibers des Stadtteilkulturzentrums Giesinger Bahnhof; (Nachtrag 08.03.2005)
+- TOP 3.2.: Feinstaubimmissionen; Maßnahmen für den Schutz der Anwohner der Chiemgaustraße und der Tegernseer Landstraße; (Nachtrag 08.03.2005)
+- TOP 3.3.: Besuch des Spielfilms "Sophie Scholl - Die letzten Tage"; Finanzielle Förderung der Schulen im Stadtbezirk durch den BA 17; (Nachtrag vom 08.03.2005)
+- TOP 4.: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Bürgertreff Pollat e.V. c/o Weiße Feder, für die Maßnahme: Anschubfinanzierung für ein Jugendprojekt; Antragssumme: 3.500,-- Â?; Beschlussvorlage durch das Direktorium vom 27.10.2004 (vertagt aus den Sitzungen vom 14.12.04, 11.01.05 und 09.02.05) zu TOP 4.1.1 Genehmigung der Nutzungsänderung zu einem sozialen Treffpunkt; Bescheid des Referats für Stadtplanung und Bauordnung vom 15.02.2005
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Bildhaueratelier Zündler, für die Maßnahme: Kunstaustellung im Kulturzentrum Giesinger Bahnhof vom 26.05.05 bis 29.05.05; Antragssumme: 300,-- Â?; Antrag vom 24.01.2005
+- TOP 4.5.: Unterausschüsse
+- TOP 4.1.: UA 17 - Bau und Planung - 02.03.2005
+- TOP 0.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 17 Obergiesing; Widmung der Teilstrecke der Herber-Quandt-Straße; Beschluss des BA 17 vom 08.03.2005
+- TOP 0.1.: Gemeinde Neubiberg; Flächennutzungsplan-Änderung Nr. 18; Zuleitung durch das Planungsreferat vom 16.02.05 mit der Bitte um Stellungnahme bis 14.03.2005
+- TOP 0.2.: - Anwohnergaragen in München; Änderung der Prioritätenliste a) Abstufung des Anwohnergaragenstandortes Wettersteinplatz in die 2. Stufe b) Aufnahme des Anwohnergaragenstandortes Deisenhofener Str. in die 1. Stufe Anhörung der Bezirksausschüsse 17 und 18 zu einer Beschlussvorlage des Planungsreferates (vertagt aus der Sitzung vom 09.11.2004) - Protokoll der Einwohnerversammlung zum Thema "Anwohnergarage in der Deisenhofener / Herzogstandstraße " vom 19.01.2005
+- TOP 0.3.: Vollzug von § 13 der BA-Satzung; Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen); hier: Martin-Luther-Str. 10, eine Mega-Light Werbeanlage;
+- TOP 0.4.: Vollzug von § 13 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Giesinger Bahnhofplatz, Neubau eines Verwaltungsgebäudes mit TG
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Renovierungsarbeiten an der Sportanlage St.-Martin-Str.; Sanierung des Spielplatzes; Antrag Nr. 2730 des BA 17 vom 11.01.2005; Antwortschreiben des Schul- und Kultusreferates vom 26.01.2005
+- TOP 0.3.: Fortschreibung des Zentrenkonzeptes - Nahversorgung in München; a) Ausweisung von dringend benötigten Flächen für Läden zur Deckung des täglichen Bedarfs in Daglfing b) Stadtteilzentren retten - Nahversorgung sichern c) Stärkung der Einzelhandelsstrukturen in den Stadtrandbezirken durch konsequente Bauleitplanung d) Wohnortnahe Versorgung für ältere Menschen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2005
+- TOP 0.4.: SSW "Kulisse", Traunsteiner Str.; Mitteilung vom 20.12.2004
+- TOP 0.5.: Kleingaststätte "Kastanienklause", Martin-Luther-Str.; Mitteilung vom 20.12.2004
+- TOP 0.6.: CafÃ© "Baskent", Eintrachtstraße; Mitteilung vom 27.01.2005
+- TOP 0.7.: SSW "Volltreffer", Zugspitzstraße; Mitteilung vom 01.02.2005
+- TOP 0.1.: UA 17 - Familie, Soziales, Ausbildung - 02.03.2005
+- TOP 0.1.: des Sozialreferates/Zentrale; Beschluss des Kinder- und Jugendhilfeausschusses, des Sozialhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.03.2005
+- TOP 0.2.: des Amtes für Soziale Sicherung; Beschluss des Kinder- und Jugendhilfeausschusses, des Sozialhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.03.2005
+- TOP 0.3.: des Stadtjugendamtes; Rücknahme der Mittelkürzung an den Kreisjugendring und Wiederherstellung des Standes 2002 bzw. keine weiteren Kürzungen; Beschluss des Kinder- und Jugendhilfeausschusses, des Sozialhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.03.2005
+- TOP 0.4.: des Amtes für Wohnen und Migration; Beschluss des KInder- und Jugendhilfeausschusses und des Sozialhilfeausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses, des Sozialausschusses und des Sozialhilfeausschusses vom 01.03.2005
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.1.: Instandsetzung eines Teilabschnitts des Fußgängerüberwegs St.-Quirin-Platz (Nordostseite), Ecke Chiemgau- / Tegernseer Landstraße; Schreiben Baureferat-Tiefbau vom 15.02.05 zum Antrag Nr. 2669 des BA 17 vom 14.12.04
+- TOP 0.1.: UA 17 - Umwelt - 01.03.2005
+- TOP 0.1.: Verunreinigung der städtischen Grünanlagen; Sensibilisierung der Hundebesitzer; Antwortschreiben des Baureferats vom 25.01.05 zum Schreiben des BA 17 vom 17.11.2004
+- TOP 0.2.: Verunreinigung der städtischen Grünanlagen; Sensibilisierung der Hundebesitzer ("Merkblatt für Münchner Hundehalter"); Schreiben der Stadtkämmerei vom 03.02.2005
+- TOP 0.3.: Vollzug der Baumschutzverordnung; Unterrichtung durch das Referat für Stadtplanung und Bauordnung; Genehmigung vom 16.02. für das Anwesen Kesselbergstraße
+- TOP 0.1.: Ausstellungsprojekt "60 Jahre Kriegsende in Giesing"; Ausstellungskonzept des Verein "Freunde Giesings e.V." vom 21.02.2005
+- TOP 0.1.: Veranstaltung auf dem Walchenseeplatz; Flohmarkt am 15.04.05; Zuleitung durch das Baureferat mit der Bitte um Stellungnahme bis 16.03.2005
+- TOP 0.2.: Veranstaltung auf dem Walchenseeplatz; Spielmobil und SommercafÃ© von Mai bis September 2005; Zuleitung durch das Baureferat-Gartenbau mit der Bitte um Stellungnahme bis 16.03.2005
+- TOP 0.3.: Stadtteilkulturzentrum Giesinger Bahnhof im 17. Stadtbezirk Obergiesing; Gewährung von Zuwendungen an den Verein "Freunde Giesings e.V.", Betreiber des Stadtteilkulturzentrums Giesinger Bahnhof; Beschlussvorlage für den Kulturausschuss am 10.03.2005 (Nachtrag vom 08.03.05)
+- TOP 0.1.: Fortschreibung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund; Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund; Nutzung des Königsplatzes; Kultur-Open-Air-Veranstaltungen; Stadtteilfeste bewahren; Beschluss in der gemeinsamen Sitzung des Kreisverwaltungsausschusses, Bauausschusses; Kulturaussschusses und des Ausschusses für Arbeit und Wirtschaft vom 15.02.2005
+- TOP 6.: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.1.: Neue Form der Feste junger Erwachsener; Schreiben des Direktoriums vom 16.02.2005 mit der Bitte um Rückäußerung bis 29.03.2005
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.: Ablauf von Bürgerversammlungen; Keine Kommentierung der Anträge durch die Versammlungsleitung unmittelbar vor der Abstimmung; Beschluss des Verwaltungs- und Personalausschusses vom 03.02.2005
+- TOP 7.: Berichte der Beauftragten
+- TOP 7.7.1: Ausländer/Innen
+- TOP 7.7.2: Baumschutz
+- TOP 7.7.2.1: Einzelfälle
+- TOP 7.7.2.2: Baumbestandspläne
+- TOP 7.1.: Anwesen in der Chiemgaustraße; Zuleitung durch das Planungsreferat vom 14.02.2005
+- TOP 7.2.: Anwesen in der Tegernseer Landstraße; Zuleitung durch das Planungsreferat vom 07.02.2005
+- TOP 7.7.3: Behinderte
+- TOP 7.7.4: Frauen
+- TOP 7.7.5: Kinder
+- TOP 7.7.6: Senioren/Innen
+- TOP 7.7.7: Stadtteilpartnerschaft Colerain Township, Ohio, USA
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.&nbsp;: Gaststätten (unveränderte Fortführung); Mitteilungen des KVR
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.&nbsp;: Zuschussnehmerdatei 2005; Vollzug des Haushaltsplanes 2005 für den Bereich "Förderung freier Träger"
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
