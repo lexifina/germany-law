@@ -1,0 +1,98 @@
+---
+ecli: "ECLI:DE:BVerfG:2003:rs20030515.2bvr071601"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 716/01"
+decided: "2003-05-15"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss des Zweiten Senats vom 15. Mai 2003 - 2 BvR 716/01,\n                    https://www.bverfg.de/e/rs20030515_2bvr071601"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2003/05/rs20030515_2bvr071601.html"
+corpus_doc_id: "BVerfG_2003-05-15_S_2_BvR_0716_01_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/jgg/0051.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 716/01 vom 2003-05-15
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 2 BVR 716/01 -
+
+
+
+
+                                   In dem Verfahren
+                                         über
+                             die Verfassungsbeschwerde
+des Herrn Z ...
+
+- Bevollmächtigter: Professor Dr. Bernhard Haffke,
+                    Universität Passau, 94030 Passau -
+gegen 1. a) den Beschluss des Oberlandesgerichts Karlsruhe vom 11. Februar
+            2002 - 2 Ss 185/01 -,
+
+             b) das Urteil des Amtsgerichts Heidelberg vom 2. Mai 2001 - 5 Ds 36 Js
+                9126/2000 - AK 132/00 Jug -,
+
+        2. a) den Beschluss des Landgerichts Heidelberg vom 3. April 2001 - 3 Qs
+              10/01 Jug -,
+
+             b) den Beschluss des Amtsgerichts Heidelberg vom 16. März 2001 - 5 Ds
+                36 Js 9126/2000 - AK 132/00 Jug -,
+
+        3. a) den Beschluss des Landgerichts Heidelberg vom 1. Februar 2001 - 3
+              Qs 2/01 -,
+
+             b) den Beschluss des Amtsgerichts Heidelberg vom 11. Januar 2001 - 5
+                Ds 36 Js 9126/2000 - AK 132/00 Jug -,
+
+        4.      die Anordnung des Vorsitzenden des Amtsgerichts Heidelberg vom
+                29. Juni 2000 - 5 Ds 36 Js 9126/2000 - AK 132/00 Jug -,
+
+        5.      mittelbar § 51 Abs. 2 JGG
+
+hier:         Festsetzung des Gegenstandswerts
+
+hat das Bundesverfassungsgericht - Zweiter Senat - unter Mitwirkung der Richterinnen und Richter
+                                    Vizepräsident Hassemer,
+                                    Sommer,
+                                    Jentsch,
+                                    Broß,
+                                    Osterloh,
+
+
+                                            1/3
+
+                                Di Fabio,
+                                Mellinghoff,
+                                Lübbe-Wolff
+
+am 15. Mai 2003 einstimmig beschlossen:
+
+Der Wert des Gegenstands der anwaltlichen Tätigkeit wird nach § 113 Abs. 2 Satz 2
+BRAGO auf 20.000 € (in Worten: zwanzigtausend Euro) festgesetzt.
+
+             Hassemer               Sommer                Jentsch
+
+                Broß                Osterloh              Di Fabio
+
+             Mellinghoff                                Lübbe-Wolff
+
+
+
+
+                                        2/3
+
+Bundesverfassungsgericht, Beschluss des Zweiten Senats vom 15. Mai 2003 -
+2 BvR 716/01
+
+Zitiervorschlag BVerfG, Beschluss des Zweiten Senats vom 15. Mai 2003 - 2 BvR 716/
+                01 - Rn. (1 - ), http://www.bverfg.de/e/rs20030515_2bvr071601.html
+
+ECLI            ECLI:DE:BVerfG:2003:rs20030515.2bvr071601
+
+
+
+
+                                      3/3
