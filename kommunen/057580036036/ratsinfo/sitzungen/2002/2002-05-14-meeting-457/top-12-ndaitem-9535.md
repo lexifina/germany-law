@@ -1,0 +1,7 @@
+# TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: AUP (2002-05-14)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/9535
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
