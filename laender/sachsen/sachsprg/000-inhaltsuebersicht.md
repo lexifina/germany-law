@@ -1,13 +1,15 @@
+## Gesetz über den privaten Rundfunk und neue Medien in Sachsen (Sächsisches Privatrundfunkgesetz – SächsPRG)
 # Inhaltsübersicht
 1. Abschnitt Allgemeine Bestimmungen
 § 1 Anwendungsbereich
+§ 1a Begriffsbestimmungen
 § 2 Grundsätze für die Veranstaltung von privatem Rundfunk
 § 3 Programme im privaten Rundfunk
 § 4 Zuordnung technischer Übertragungskapazitäten
 2. Abschnitt Zulassung der Veranstalter
 § 5 Zulassungsverfahren
 § 6 Zulassungsvoraussetzungen
-§ 7 Mehrfache Veranstaltertätigkeit
+§ 7 Sicherung der Meinungsvielfalt
 § 8 Vermeidung vorherrschender Meinungsmacht
 § 9 Mitwirkungspflichten
 § 10 Auswahlgrundsätze
@@ -28,21 +30,21 @@
 5. Abschnitt Finanzierung der Programme
 § 23 Formen der Finanzierung
 § 24 Werbung, Sponsorsendungen
-6. Abschnitt Fernsehtext, neue Rundfunknutzungen
-§ 25 Fernsehtext
+6. Abschnitt Rundfunkähnliche Dienste, neue Rundfunknutzungen
+§ 25 Rundfunkähnliche Dienste
 § 26 Rundfunkerprobung
-7. Abschnitt Sächsische Landesanstalt für privaten Rundfunk und neue Medien
+7. Abschnitt Sächsische Landesanstalt für privaten Rundfunkund neue Medien
 § 27 Rechtsform und Organe
 § 28 Aufgaben der Landesanstalt
-§ 29 Zusammensetzung der Versammlung
-§ 30 Rechtsstellung der Mitglieder der Versammlung
-§ 31 Aufgaben der Versammlung
-§ 32 Verfahren der Versammlung
-§ 33 Verwaltungsrat
-§ 34 Direktor der Landesanstalt
+§ 29 Versammlung der Landesanstalt
+§ 30 Arbeitsweise und Aufgaben der Versammlung
+§ 31 Medienrat
+§ 32 Arbeitsweise und Aufgaben des Medienrates
+§ 33 Direktor der Landesanstalt
+§ 34 Arbeitsweise und Aufgaben des Direktors
 § 35 Finanzierung der Landesanstalt
 § 36 Aufsicht über die Landesanstalt
-8. Abschnitt Weiterverbreitung von Rundfunkprogrammen in Kabelanlagen
+8. Abschnitt Weiterverbreitung von Rundfunkprogrammenin Kabelanlagen
 § 37 Zulässigkeit der Weiterverbreitung
 § 38 Kanalbelegung
 9. Abschnitt Maßnahmen der Aufsicht
@@ -51,9 +53,10 @@
 § 41 Widerruf der Zulassung
 § 42 Untersagung der Weiterverbreitung
 § 43 Ordnungswidrigkeiten
-10. Abschnitt Datenschutz
+10. Abschnitt Datenschutz und Geheimschutz
 § 44 Datenverarbeitung zu eigenen publizistischen Zwecken
 § 45 Daten über den Empfang von Programmen und Sendungen
+§ 45a Schutz der Geheimhaltung
 11. Abschnitt Übergangs- und Schlußbestimmungen
-§ 46 Aufnahme der Tätigkeit der Landesanstalt
+§ 46 Übergangsbestimmungen
 § 47 Inkrafttreten
