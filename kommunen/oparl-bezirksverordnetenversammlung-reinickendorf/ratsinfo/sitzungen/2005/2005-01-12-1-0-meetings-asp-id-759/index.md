@@ -1,0 +1,69 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2005-01-12T17:00:00+01:00
+- Ende: 2005-01-12T18:25:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=759
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=759
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=26267
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Ferientickets für Schüler - überwiesen
+- TOP 3: Konsensliste - überwiesen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Veranstaltungskonzept für das Centre Bagatelle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Zügiges Verfahren hinsichtlich der Bebauungspläne / Dorf Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: 700-Jahr-Feier Heiligensee 2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Nutzung der Radwege - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Hinweis auf die Dampferanlegestelle / Tegeler See - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Tag des Friedhofs in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Öffentlich-rechtlicher Vertrag über die Gründung und Ausgestaltung der Arbeitsgemeinschaft JobCenter Reinickendorf gemäß § 44 b Sozialgesetzbuch, Teil II (SGB II) - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Situation der Schulkinder islamischer Religion - vertagt
+- TOP 6.2: Probleme mit der Ordnung an der Greenwichpromenade - beantwortet
+- TOP 6.2.1: Probleme mit der Ordnung an der Greenwichpromenade hier: Hafenmeister - überwiesen
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Entwurf des Bebauungsplanes XX-282 für das Grundstück Edelhofdamm 56/Zerndorfer Weg 88 ... Ortsteil Frohnau sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-282 - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Buslinie 248 Büdnerring - erledigt
+- TOP 8.2: Busanbindung Frohnau - Glienicke - erledigt
+- TOP 8.3: Übernachtungsparkplätze für Wohnmobile einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Weihnachtsmarkt in Tegel - erledigt
+- TOP 8.5: Weihnachtsmarkt in Tegel - erledigt
+- TOP 8.6: Profildarstellung von Oberschulen - erledigt
+- TOP 8.7: U-Bahnausgänge Schlossplatz/Bernstorffstraße/Berliner Straße - erledigt
+- TOP 8.8: Beantragte Zügigkeit für Ganztagsschulen einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Projekte im Bereich der Greenwichpromenade - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Behindertengerechte Bahnhöfe nach Umstellung auf "BVG 2005 plus" - ohne Änderungen in der BVV beschlossen
+- TOP 8.11: Zebrastreifen vor den Borsig-Hallen in der Straße Am Borsigturm - in der BVV abgelehnt
+- TOP 8.12: "Sicherer Fußgängerüberweg zur Post am Zeltinger Platz in Frohnau"; hier: Tempo "30" am Zeltinger Platz - ohne Änderungen in der BVV beschlossen
+- TOP 8.13: Standortnummern von BVG-Haltestellen - ohne Änderungen in der BVV beschlossen
+- TOP 8.14: Zebrastreifen in der Heinsestraße in Hermsdorf - erledigt
+- TOP 8.15: Geplanter Zebrastreifen in der Heinsestraße - erledigt
+- TOP 8.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.16.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.17: Integration in Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 8.18: Beteiligung an der Zentrenoffensive "MittendrIn Berlin" - ohne Änderungen in der BVV beschlossen
+- TOP 8.19: Herz-Defibrillatoren in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Wahl von stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Einheitliche Wahrnehmung des gesamten Aufgabenspektrums im Ordnungsamt - überwiesen
+- TOP 10.2: Quartiere und Trainingsmöglichkeiten für die Leichtathletik-WM 2009 in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Eigenbetrieb Kitas mit der BVV vorbereiten - überwiesen
+- TOP 10.4: Gefahrenstelle auf unbebautem Privatgrundstück beseitigen - in der BVV zurückgezogen
+- TOP 10.5: Raumluftqualität an Schulen verbessern - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Grüner Pfeil für die Einmündung Gorkistraße / Am Nordgraben - in der BVV zurückgezogen
+- TOP 11.2: Stärkung der Kooperationen zwischen Schulen und Reinickendorfer Sportvereinen - überwiesen
+- TOP 11.3: Arbeitsgemeinschaft nach § 44b SGB II - überwiesen
+- TOP 11.4: "Kummertelefon" - Gewaltpotenziale an Schulen rechtzeitig erkennen - überwiesen
+- TOP 11.5: Gültigkeit des Schultickets - ohne Änderungen in der BVV beschlossen
