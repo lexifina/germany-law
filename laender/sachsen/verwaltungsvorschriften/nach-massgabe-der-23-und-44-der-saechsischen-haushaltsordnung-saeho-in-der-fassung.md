@@ -1,8 +1,8 @@
 # nach Maßgabe der §§ 23 und 44 der Sächsischen Haushaltsordnung ( SäHO) in der Fassung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2002-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/3068.1
+- Datum: 2004-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/3068.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -234,7 +234,7 @@ Programm zur Abklärung von Aborten bei Pferden, Rindern, Schweinen und Schafen 
 
 |
 
-Programm der Sächsischen Tierseuchenkasse zur Abklärung der CEM-Verbreitung (Kontagiöse Equine Metritis) bei Hengsten mit Deckerlaubnis in Sachsen vom 10. Januar 2002
+Programm der Sächsischen Tierseuchenkasse zur Prophylaxe und Bekämpfung der Equinen Herpes-Virus-Infektion bei Pferden vom 9. Oktober 2003
 
 |
 
@@ -246,7 +246,8 @@ Programm der Sächsischen Tierseuchenkasse zur Abklärung der CEM-Verbreitung (K
 
 |
 
-Landesprogramm des SMS und der Sächsischen Tierseuchenkasse zum Schutz der Rinderbestände vor BHV1-Infektionen und zur Bekämpfung in BHV1-infizierten Rinderbeständen vom 17. April 1998 (SächsABl. S. 358), geändert durch VwV vom 24. Juni 1999 (SächsABl. S. 663)
+Neufassung des Landesprogramms des Sächsischen Staatsministeriums für Soziales, Gesundheit, Jugend und Familie und der Sächsischen Tierseuchenkasse zum Schutz der Rinder vor einer Infektion mit dem Bovinen Herpesvirus Typ 1 und zur Bekämpfung in BHV1-infizierten Rinderbeständen (
+BHV1-Landesprogramm) vom 18. April 2002 (SächsABl. S. 676)
 
 |
 
@@ -258,8 +259,7 @@ Landesprogramm des SMS und der Sächsischen Tierseuchenkasse zum Schutz der Rind
 
 |
 
-Salmonelloseuntersuchung: Nummer 8 der
-VwV des SMS über die Durchführung und Abrechnung von Maßnahmen der Tierseuchenbekämpfung vom 27. Februar 1995 (SächsABl. S. 532), zuletzt geändert durch VwV vom 1. März 1997 (SächsABl. S. 357), verlängert durch SMS-Verlängerungs-VwV 2000)
+Gemeinsames Programm des Sächsischen Staatsministeriums für Soziales und der Sächsischen Tierseuchenkasse zur Bekämpfung der Salmonellose bei Rindern vom 9. Oktober 2003
 
 |
 
