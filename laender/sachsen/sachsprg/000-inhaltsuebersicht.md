@@ -28,7 +28,7 @@
 § 22 Besondere Sendezeiten
 5. Abschnitt Finanzierung der Programme
 § 23 Formen der Finanzierung
-§ 24 Finanzierung, Werbung, Sponsoring
+§ 24 Finanzierung, Werbung, Teleshopping, Sponsoring
 6. Abschnitt Weitere Rundfunknutzungen, Rundfunkerprobung
 § 25 Weitere Rundfunknutzungen
 § 26 Rundfunkerprobung
@@ -54,7 +54,7 @@
 § 43 Ordnungswidrigkeiten
 10. Abschnitt Datenschutz und Geheimschutz
 § 44 Datenverarbeitung zu eigenen publizistischen Zwecken
-§ 45 Daten über den Empfang von Programmen und Sendungen
+§ 45 Bestandsdaten, Daten über den Empfang von Programmen und Sendungen
 § 45a Schutz der Geheimhaltung
 11. Abschnitt Übergangs- und Schlußbestimmungen
 § 46 Übergangsbestimmungen
