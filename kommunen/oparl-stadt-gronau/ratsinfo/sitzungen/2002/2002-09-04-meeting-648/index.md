@@ -1,0 +1,52 @@
+# Rat
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2002-09-04T17:00:00+02:00
+- Ende: 2002-09-04T20:15:00+02:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYjnKveXfERizAVnXo1KjEM
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/648
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRGm2j3L6SOA1IucwCb-MXF4EdlzjlUb_bZjKwq_hEwT/Bekanntmachung_Rat_04.09.2002.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZek7YrqdOFKs7nU2-EavU3kgk1C3XzU22S0ghBC5ZIok/Oeffentliche_Niederschrift_Rat_04.09.2002.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 10.07.2002
+- TOP 3.: Bestellung von Schriftführern - Einstimmig, 0 Enthaltungen
+- TOP 4.: Vereidigung und Amtseinführung des Technischen Beigeordneten - Ohne Abstimmung
+- TOP 5.: Wahl des/der Ersten Beigeordneten der Stadt Gronau - 20 Jastimmen, 15 Neinstimmen, 2 Enthaltungen
+- TOP 6.: Bürgerantrag Nr.8/2002, Gewährung eines Zuschusses für den IKMG 2002 - Einstimmig, 1 Enthaltungen
+- TOP 7.: Spende des Rates der Stadt Gronau für Opfer der Flutkatastrophe - Einstimmig, 0 Enthaltungen
+- TOP 8.: Nachbesetzung im Verwaltungsrat der Stadtsparkasse - Einstimmig, 0 Enthaltungen
+- TOP 9.: Bericht über die Budgetentwicklung im II. Quartal 2002 und Genehmigung von über- und außerplanmäßigen Ausgaben - Einstimmig, 0 Enthaltungen
+- TOP 10.: Entwurf des Gemeindefinanzierungsgesetzes 2003 (GFG 2003) mit den voraussichtlichen Auswirkungen auf die Stadt Gronau - Ohne Abstimmung
+- TOP 11.: Situation im Gronauer Stadtpark - Thema Sicherheit - Einstimmig, 0 Enthaltungen
+- TOP 12.: Neubau Kreisverkehr B 474 Hauskamp/Hofkamp - Aufhebung des Sperrvermerkes im Haushaltsplan 2002 - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bebauungsplan Nr. 211 "Industriegebiet Epe - Nord", 2 Änderung u. Ergänzung, Teilbereich I, Stadtteil Epe Umlegung Gronau - Klosterstraße -, Stadtteil Epe Aufhebung der Umlegungsanordnung gem. § 46 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 14.: Bebauungsplan Nr. 100 "Sonnenstraße", 1. Änderung, Stadtteil Gronau 1. Aufstellungsbeschluss 2. Bürgerbeteiligung 3. Beteiligung der Träger öffentlicher Belange - Einstimmig, 0 Enthaltungen
+- TOP 15.: Bebauungsplan Nr. 29 "Ginsterweg", 3. Änderung, Stadtteil Gronau 1. Aufstellungsbeschluss 2. Bürgerbeteiligung 3. Beteiligung der Träger öffentlicher Belange - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 97 "Waldweg", 1. Änderung, Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Satzungsbeschluss gem. § 10 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 17.: Bebauungsplan Nr. 134 „Südlich der Iltisstraße“, Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der frühzeitigen Bürgerbeteiligung gemäß § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gemäß § 3 Abs. 2 BauGB 4. Satzungsbeschluss gemäß § 10 BauGB i. V. m. § 86 Abs. 4 BauO NW - Einstimmig, 0 Enthaltungen
+- TOP 17.1.: Bebauungsplan Nr. 134 „Südlich der Iltisstraße“, Stadtteil Gronau Behandlung der Stellungnahmen des Kreises Borken 1. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gemäß § 3 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 18.: Bebauungsplan Nr. 207 "Nieland", 2. Änderung, Stadtteil Epe 1. Aufstellungsbeschluss 2. Bürgerbeteiligung 3. Beteiligung der Träger öffentlicher Belange - Einstimmig, 0 Enthaltungen
+- TOP 19.: 66. Änderung des Flächennutzungsplanes der Stadt Gronau Bereich: Overdinkelstraße 1. Behandlung der Stellungnahmen aus der Bürgerbeteiligung gemäß § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gemäß § 3 Abs. 2 BauGB 4. Planfeststellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 20.: 73. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich: Vennstraße, Stadtteil Epe 1. Aufstellungsbeschluss 2. Beteiligung der Bürger 3. Beteiligung der Träger öffentlicher Belange - Einstimmig, 0 Enthaltungen
+- TOP 21.: 70. Änderung des Flächennutzungsplanes der Stadt Gronau Bereich: "Nördlich der Bentheimer Straße, Stadtteil Gronau Bebauungsplan Nr. 142 "Nördlich der Bentheimer Straße", Stadtteil Gronau 1. Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB 2. Beteiligung der Bürger gem. § 3 Abs. 1 BauGB 3. Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 4. Anordnung der Umlegung gem. § 46 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 21.1.: Bebauungsplan Nr. 243 "Hauskamp-Süd", Stadtteil Epe 1. Aufstellungsbeschluss gem. § 1 Abs. 3 i.V.m. § 2 Abs. 1 BauGB 2. Beteiligung der Bürger gem. § 3 Abs. 1 BauGB 3. Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 21.2.: Bebauungsplan Nr. 142 "Nördlich der Bentheimer Straße", Stadtteil Gronau Erlass einer Veränderungssperre - Einstimmig, 0 Enthaltungen
+- TOP 22.: Brunnen Theodor Heuss Platz - Einstimmig, 0 Enthaltungen
+- TOP 23.: Gemeindekongress 2002 des Städte- und Gemeindebundes NRW - Einstimmig, 0 Enthaltungen
+- TOP 24.: Mitteilungen der Verwaltung
+- TOP 25.: Anfragen
+- TOP 25.1.: Neue Ampelanlage an der B 474 ( RM Gerwens)
+- TOP 25.2.: Parkende Lkw am Hotel Lotus, Vereinsstraße (RM Schemitzek)
+- TOP 25.3.: Höhenniveau der Straße "Brefelds Goren" (RM Tillmann)
+- TOP 25.4.: Zeitpunkt der Eröffnung des Kindergartens an der Gerdingseite (RM Tillmann)
+- TOP 25.5.: Zustand der Tennenlaufbahn des Stadtparksportplatzes Gronau (RM Roters)
+- TOP 25.6.: Bemühungen des FC Gronau um eine eigene sportliche Heimat (RM Roters)
+- TOP 25.7.: Pflasterarbeiten vor der Stadtsparkasse Gronau (RM Nowazcyk)
