@@ -1,0 +1,6 @@
+# TOP 4.: Erstellung Kanalkataster; Beauftragung von Ingenieurleistungen
+
+- Sitzung: Bauverwaltungsausschuss (2001-02-07)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/2913
