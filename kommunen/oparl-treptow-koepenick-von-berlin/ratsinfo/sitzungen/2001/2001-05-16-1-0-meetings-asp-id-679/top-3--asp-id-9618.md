@@ -1,0 +1,7 @@
+# TOP 3: Besuch des Mieters KBB (Kollektorbau Berlin) und Besichtigung derer Produktionsräume
+
+- Sitzung: 5. (öfftl.) Sitzung des Ausschusses für Wirtschaft und Tourismus (2001-05-16)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=9618
+- Ergebnis: erledigt
