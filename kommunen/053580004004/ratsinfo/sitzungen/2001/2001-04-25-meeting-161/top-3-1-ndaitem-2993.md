@@ -1,4 +1,4 @@
-# TOP 3.1.: Genehmigung von Dringlichkeitsbeschlüssen
+# TOP 3.1.: Einstellung einer Verwaltungsangestellten für das Betriebsamt
 
 - Sitzung: Gemeinderat (2001-04-25)
 - Körperschaft: Gemeinde Aldenhoven
