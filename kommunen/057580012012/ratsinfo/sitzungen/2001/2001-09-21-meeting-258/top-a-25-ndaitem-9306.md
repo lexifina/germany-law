@@ -1,0 +1,7 @@
+# TOP A.25: Entscheidung über erhebliche überplanmäßige Mehrausgaben im Teilbudget Jugendhilfe
+
+- Sitzung: Rat (2001-09-21)
+- Körperschaft: Stadt Herford
+- Öffentlich: ja
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/9306
+- Beratung: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/3085
