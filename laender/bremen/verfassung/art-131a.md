@@ -1,0 +1,2 @@
+# Artikel 131a
+Die Aufnahme von Krediten sowie die Übernahme von Bürgschaften, Garantien oder sonstigen Gewährleistungen, die zu Ausgaben in künftigen Rechnungsjahren führen können, bedürfen einer der Höhe nach bestimmten oder bestimmbaren Ermächtigung durch Gesetz. Die Einnahmen aus Krediten dürfen die Summe der im Haushaltsplan veranschlagten Ausgaben für Investitionen nicht überschreiten; Ausnahmen sind nur zulässig zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts.
