@@ -1,4 +1,4 @@
-# TOP 3.1.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+# TOP 3.1.: Durchführung des 4. Aldenhovener Umwelttages im Römerpark
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
