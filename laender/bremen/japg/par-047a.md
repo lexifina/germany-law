@@ -1,0 +1,2 @@
+# § 47a Ergänzungsvorbereitungsdienst
+Hat ein Referendar die zweite juristische Staatsprüfung erstmalig nicht bestanden, verweist der Leiter der Ausbildung den Referendar zurück in den Vorbereitungsdienst (Ergänzungsvorbereitungsdienst) und regelt dessen nähere Ausgestaltung. Der Ergänzungsvorbereitungsdienst dauert 6 Monate; der Leiter der Ausbildung kann ihn in Ausnahmefällen verkürzen oder wegfallen lassen. Er darf die Dauer von 3 Monaten nicht unterschreiten, wenn der Referendar bereits von der mündlichen Prüfung ausgeschlossen wurde.
