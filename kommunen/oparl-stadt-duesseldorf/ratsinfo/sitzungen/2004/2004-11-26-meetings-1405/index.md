@@ -1,0 +1,52 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-11-26T14:00:00+01:00
+- Ende: 2004-11-26T00:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1405
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1405
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111297.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111297.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111297.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Zulassung Sachverständige
+- TOP 4: Stadtmuseum - zur Kenntnis genommen
+- TOP 5: Konrad-Adenauer-Platz "Stadt macht Platz -..." - zur Kenntnis genommen
+- TOP 6: Radstation B.-V. Suttner-Platz - zur Kenntnis genommen
+- TOP 7: Verkehrsplanung GAP 15 - zur Kenntnis genommen
+- TOP 8: Tersteegenstraße / Füllenbachstraße - einstimmig beschlossen
+- TOP 9: "Grüne Wellen" in Düsseldorf
+- TOP 10: Dringlichkeitsbeschluss - einstimmig beschlossen
+- TOP 11: Kö-Galerie - einstimmig beschlossen
+- TOP 12: Tersteegenstraße 19 - 31 - einstimmig beschlossen
+- TOP 13: Parkregelung auf der Heinrich-Heine-Allee - zur Kenntnis genommen
+- TOP 14: Poller am Carlsplatz - zur Kenntnis genommen
+- TOP 15: Carlsplatz -Piktogramme- - einstimmig beschlossen
+- TOP 16: Stadtmuseum - einstimmig beschlossen
+- TOP 17: Buslinie 726 - einstimmig beschlossen
+- TOP 18: Rochusmarkt/Bagelstraße - einstimmig beschlossen
+- TOP 19: Anglersteg am Rheinufer - einstimmig beschlossen
+- TOP 20: Baumbepflanzung Heinrich-Heine-Allee - einstimmig beschlossen
+- TOP 21: Fernbusbahnhof Worringer Straße - einstimmig beschlossen
+- TOP 22: Parkhaus Ratinger Straße - zur Kenntnis genommen
+- TOP 23: Königsallee in den Hofgarten - einstimmig beschlossen
+- TOP 24: Stadthaus - einstimmig beschlossen
+- TOP 25: Tannenstraße - einstimmig beschlossen
+- TOP 26: ÖPNV in den Abend- und Nachtstunden - zur Kenntnis genommen
+- TOP 27: Drogenkonsumräume - zur Kenntnis genommen
+- TOP 28: "Les Halles" - einstimmig beschlossen
+- TOP 29: Zietenstraße - zur Kenntnis genommen
+- TOP 30: Land- / Amtsgericht Mühlenstraße - zur Kenntnis genommen
+- TOP 31: Stadthaus Mühlenstraße - zur Kenntnis genommen
+- TOP 32: Paketpostgelände Worringer Straße 140 P - zur Kenntnis genommen
+- TOP 33: Tersteegenstraße - zur Kenntnis genommen
+- TOP 34: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 35: Trödelmarkt "Les Halles" - zur Kenntnis genommen
