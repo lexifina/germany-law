@@ -1,0 +1,52 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-02-08T17:00:00+01:00
+- Ende: 2005-02-08T21:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/93
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/4899
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/4899
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00212188.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Berichte
+- TOP 3.1: Jahresbericht 2003 der Fachstelle Jugendförderung zur Kinder- und Jugendarbeit in Münster - zur Kenntnis genommen
+- TOP 3.2: Bericht über den Stand der Vorplanungen zum Ausbau des DEK / Stadtstrecke Münster - zur Kenntnis genommen
+- TOP 3.3: Arbeitsprogramm 2005 des Amtes für Grünflächen und Umweltschutz - zur Kenntnis genommen
+- TOP 3.4: Arbeitsprogramm 2005 - zur Kenntnis genommen
+- TOP 3.5: Mobilfunksendeanlagen in Münster - zur Kenntnis genommen
+- TOP 3.6: Sperrung Hofstraße - verkehrliche Auswirkungen der Kanalbauarbeiten (mündlicher Bericht) - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Sanierung von Spielplätzen im Stadtbezirk Münster Südost - mehrheitlich geändert beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: Bebauungsplan Nr. 494: Wolbeck - Gewerbegebiet - mehrheitlich beschlossen
+- TOP 5.2: 6. Änderung des fortgeschriebenen Flächennutzungsplanes der Stadt Münster - einstimmig beschlossen
+- TOP 5.3: Bebauungsplan Nr. 463: Wolbeck - Gewerbegebiet östlich der Münsterstraße / Grenkuhlenweg - einstimmig beschlossen
+- TOP 5.4: Bebauungsplan Nr. 463: Wolbeck - Gewerbegebiet östlich Münsterstraße / Grenkuhlenweg - zur Kenntnis genommen
+- TOP 5.5: Haushaltsplan 2005 Finanz- und Investitionsplan 2004-2008
+- TOP 5.6: Baumaßnahmen auf Sportanlagen - einstimmig beschlossen
+- TOP 6: Anträge/Anregungen
+- TOP 6.1: Wendemöglichkeit im Bereich der Lichtsignalanlage Albersloher Weg/Gremmendorfer Weg - zur Kenntnis genommen
+- TOP 6.2: Zwei Rechtsabbieger- und eine integrierte Linksabbiegerspur vom Gremmend. Weg in den Albersloher Weg - zur Kenntnis genommen
+- TOP 6.3: Be- und Ausleuchtung des Gehweges Anton-Knubel-Weg zwischen Nachtigallenweg und Vörnste Esch, - von der Tagesordnung abgesetzt
+- TOP 6.4: Wartezonen an Lichtsignalanlagen auf dem Albersloher Weg - von der Tagesordnung abgesetzt
+- TOP 6.5: Zukunft des Westpreußischen Landesmuseums
+- TOP 6.6: Radweg Telgter Straße - von der Tagesordnung abgesetzt
+- TOP 6.7: Beleuchtung Homanstraße - von der Tagesordnung abgesetzt
+- TOP 6.8: Verschönerung der Mittelstreifen der Buschstraße und der Peter-Büscher-Straße - zur Kenntnis genommen
+- TOP 6.9: Skateranlage für den Stadtbezirk Münster-Südost - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Raumprobleme im Schulzentrum Wolbeck - zur Kenntnis genommen
+- TOP 7.2: Ausbau der Nordseite des Erbdrostenweges - von der Tagesordnung abgesetzt
+- TOP 7.3: Ausbau des Albersloher Weges stadtauswärts vom Angelsachsenweg bis zum Osttor - zur Kenntnis genommen
+- TOP 7.4: Radweg auf dem Heumannsweg - zur Kenntnis genommen
+- TOP 7.5: Engpässe auf den Sportanlagen des VfL Wolbeck - zur Kenntnis genommen
+- TOP 7.6: Bestattungszeiten Friedhof Wolbeck - zur Kenntnis genommen
+- TOP 7.7: Umgestaltung Marktplatz Wolbeck - zur Kenntnis genommen
+- TOP 8: Verschiedenes
