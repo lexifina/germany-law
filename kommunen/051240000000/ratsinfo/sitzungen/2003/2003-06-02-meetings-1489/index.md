@@ -1,0 +1,89 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2003-06-02T16:00:00+02:00
+- Ende: 2003-06-02T19:15:00+02:00
+- Ort: Rathaus Barmen Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1489
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1489
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00019536.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00020253.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Wahl eines Generalmusikdirektors - ungeändert beschlossen
+- TOP 2: Fragestunde
+- TOP 2.1: Umsetzung des Gesetzes zur Gleichstellung behinderter Menschen - abschließend zur Kenntnis genommen
+- TOP 2.2: Einrichtung eines CityService mit Sozialhilfeempfängern in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.3: Städt. Fahrzeugbeschaffung "Kein Diesel ohne Filter" / Erdgasbetriebene Kfz - abschließend zur Kenntnis genommen
+- TOP 3: Neue Fraktionsanträge
+- TOP 3.1: Umsetzung des Grundschulentwicklungsplans der Stadt Wuppertal - ungeändert beschlossen
+- TOP 3.2: Rücktrittsforderung - Nichtbefassung beschlossen
+- TOP 3.3: Altersvorsorge für städt. Arbeitnehmer - zur Vorberatung verwiesen
+- TOP 3.4: Gedenktafel zur Bücherverbrennung 1933 - zur Vorberatung verwiesen
+- TOP 3.5: Fuhlrott-Museum - zur Vorberatung verwiesen
+- TOP 3.6: Einrichtung von Taubenhäusern - zur Vorberatung verwiesen
+- TOP 3.7: Abgesetzt. - von der Tagesordnung gesetzt
+- TOP 3.8: Modernisierung der Gewerbesteuer - geändert beschlossen
+- TOP 3.8.1: Gewerbesteuer abschaffen - geändert beschlossen
+- TOP 3.9: Nachhaltiges Stadtmarketing - zur Vorberatung verwiesen
+- TOP 3.10: Abgesetzt - von der Tagesordnung gesetzt
+- TOP 3.11: Bürgerbegehren - Nichtbefassung beschlossen
+- TOP 3.12: Zukünftige Nutzung des Areals GOH-Kaserne - ungeändert beschlossen
+- TOP 4: Fraktionsanträge, die bereits in einem Gremium vorberaten wurden (§ 8 der Geschäftsordnung für den R
+- TOP 4.1: Abgesetzt. - von der Tagesordnung gesetzt
+- TOP 4.2: Abgesetzt. - von der Tagesordnung gesetzt
+- TOP 4.3: Abgesetzt. - von der Tagesordnung gesetzt
+- TOP 4.4: Abgesetzt. - von der Tagesordnung gesetzt
+- TOP 4.5: Externes juristisches Gutachten zum rechtlichen Status der Arkadengänge am Rathaus Barmen - zur Vorberatung verwiesen
+- TOP 4.6: Soziale Stadtteilentwicklung - Stadtteilbüros - abgelehnt
+- TOP 4.7: "Verbesserung der Bürgerbeteiligung" - ungeändert beschlossen
+- TOP 4.8: Sozialhilfeempfänger - abgelehnt
+- TOP 4.9: Abgesetzt. - von der Tagesordnung gesetzt
+- TOP 4.10: Abgesetzt. - von der Tagesordnung gesetzt
+- TOP 4.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.12: N.N. Behandlung erfolgt unter TOP 5.1.1
+- TOP 4.13: Erledigt durch Beschluss des Rates am 17.02.2003 zu Drucksache VO/1057/03 - von der Tagesordnung gesetzt
+- TOP 4.14: Europäische Woche der Mobilität - geändert beschlossen
+- TOP 5: Ortsrecht
+- TOP 5.1: Verwaltungsgebührensatzung - ungeändert beschlossen
+- TOP 5.1.1: Änderung der Verwaltungsgebührensatzung - ungeändert beschlossen
+- TOP 5.2: Gründung des "Bergisches Land Tourismusmarketing e.V." - geändert beschlossen
+- TOP 5.3: Denkmalbereichsatzung für das Zoo-Viertel in Wuppertal - ungeändert beschlossen
+- TOP 6: Haushaltsangelegenheiten
+- TOP 7: Angelegenheiten des Beteiligungsmanagements
+- TOP 7.1: Jahresabschluss Kinder- und Jugendwohngruppen 2002 - ungeändert beschlossen
+- TOP 7.2: Beteiligung an der DSM Deutsche Städte-Medien GmbH - ungeändert beschlossen
+- TOP 7.2.1: Ergänzungsantrag zu TOP 7.2 VO/1436/03; Arbeitsplätze bei der DSM - ungeändert beschlossen
+- TOP 7.3: Beteiligungsbericht der Stadt Wuppertal für das Jahr 2000 - Entgegennahme ohne Beschluss
+- TOP 7.4: Wirtschaftsplan der Wuppertaler Bühnen GmbH für das Geschäftsjahr 2003/2004 - ungeändert beschlossen
+- TOP 7.4.1: Änderungsantrag zur Drs. VO/1602/03 - abgelehnt
+- TOP 8: Planverfahren
+- TOP 8.1: Bebauungsplan Nr. 444 - 2.Änderung - abgelehnt
+- TOP 8.2: 27. Änderung des Gebietsentwicklungsplanes 99 (Kalkabbau Dornap) - ungeändert beschlossen
+- TOP 8.3: Aufhebung des Bebauungsplanes 300 - Berghauser Straße - - ungeändert beschlossen
+- TOP 8.4: Aufhebung von Beschlüssen zu Bauleitplanverfahren - geändert beschlossen
+- TOP 8.5: Aufhebung Fluchtlinienplan Nr. 803 - südlicher Abschnitt Görresweg - - ungeändert beschlossen
+- TOP 8.6: Bauleitplanverfahren Nr. 469 - ungeändert beschlossen
+- TOP 8.7: 1. Verlängerung einer Veränderungssperre im Bebauungsplan 316 - Im Rehsiepen - ungeändert beschlossen
+- TOP 8.8: 1. Verlängerung einer Veränderungssperre im Bebauungsplan 1000 - Widukindstraße - ungeändert beschlossen
+- TOP 9: Baumaßnahmen
+- TOP 9.1: Errichtung einer viergruppigen Tageseinrichtung für Kinder in der Ferdinand-Lassalle-Straße - ungeändert beschlossen
+- TOP 9.2: Sanierungsbedarf Gebäude Kolpingstr. 8; Zukunft der Zentralbibliothek - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Aufhebung des Ratsbeschlusses "Mindestlöhne im Baugewerbe" vom 01.07.1996 - geändert beschlossen
+- TOP 10.2: Entgelt für das Mittagessen im Schuljahr 2003/2004 an den städtischen Ganztagsschulen - ungeändert beschlossen
+- TOP 10.3: Einrichtung der Offenen Ganztagsschule an einer Gemeinschaftsgrundschule - geändert beschlossen
+- TOP 11: Gremienbesetzung / Benennungen
+- TOP 11.1: Wahl der Beisitzerinnen und Beisitzer des Wahlausschusses für die Kommunalwahl 2004 und des Wahlauss - ungeändert beschlossen
+- TOP 11.2: Wahl eines stellvertretenden Vorsitzenden des Finanzausschusses - ungeändert beschlossen
+- TOP 11.3: Neue Mitarbeiterin der FDP-Fraktion - ungeändert beschlossen
+- TOP 11.4: Benennung eines sachkundigen Einwohners für den Ausschuss für Beteiligungssteuerung - ungeändert beschlossen
+- TOP 11.5: Umbesetzung im Seniorenbeirat - ungeändert beschlossen
+- TOP 11.6: Umbesetzungen - ungeändert beschlossen
+- TOP 12: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 12.1: Zusätzliche Ladenöffnungszeiten - Dringlichkeitsentscheidung gefasst
