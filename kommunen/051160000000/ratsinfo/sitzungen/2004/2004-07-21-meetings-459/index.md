@@ -1,0 +1,61 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2004-07-21T15:00:00+02:00
+- Ende: 2004-07-21T20:10:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/459
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/459
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Einstimmiger Beschluss
+- TOP 2: Verkauf städtischer Grundstücke - Absolute Mehrheit
+- TOP 3: Liegenschaften EWMG - Mit Stimmenmehrheit abgelehnt
+- TOP 4: Reminex GmbH - Absolute Mehrheit
+- TOP 5: Bekanntgabe Abschlussergebnis Stadtsparkasse 2003 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 6: Entlastung der Sparkassenorgane - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 7: Zustimmung zur Inangriffnahme neuer Investitionen - Absolute Mehrheit
+- TOP 8: Üpl. und apl. Ausgaben des Haushaltsjahres 2004 - Kenntnisnahme
+- TOP 9: Apl. VE 2004 , Heinrich-Pesch-Straße, Ausbau - Absolute Mehrheit
+- TOP 10: AchterNachtrag Benutzungsordnung Abfallentsorgung - Einstimmiger Beschluss
+- TOP 11: Änderungswahl im Beirat - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 12: Offenhalten Verkaufsstellen 650-Jahr-Feier Rheind. - Absolute Mehrheit
+- TOP 13: OffenhaltenVerkaufsstellen Art Saturday - Absolute Mehrheit
+- TOP 14: Offenhalten Verkaufsstellen Stadtschützenfest - Absolute Mehrheit
+- TOP 15: Ordn.beh. VO Offenhalten Brunnenfest - Absolute Mehrheit
+- TOP 16: 2. ÄnderungsVO zur Straßen- und AnlagenVO - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 17: Abschluss einer Vereinbarung - Einstimmiger Beschluss
+- TOP 18: Schiedsamtswahl Bezirk V - Neuwerk - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 19: Schiedsamtswahl Bezirk III/1 - Stadtmitte - Absolute Mehrheit
+- TOP 20: Wiederwahl Schiedsamtsstellv. Bezirk II - Hardt - Absolute Mehrheit
+- TOP 21: 6. Nachtrag Musikschulordnung - Einstimmiger Beschluss
+- TOP 22: Benutzungsordnung Theater - Einstimmiger Beschluss
+- TOP 23: Verwendung Sportpauschale - Absolute Mehrheit
+- TOP 24: Museumsdepot/Schlossmühle - Absolute Mehrheit
+- TOP 25: Satzung Kinderspielflächen auf Baugrundstücken - Einstimmiger Beschluss
+- TOP 26: Hilfen zur Erziehung - Einstimmiger Beschluss
+- TOP 27: Umsetzung d.Vierten Gesetzes f.moderne Dienstl. - Einstimmiger Beschluss
+- TOP 28: WahlO IntegraRat; Hauptsatzung + GeschäftsO Rat - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 29: Verbände der freien Wohlfahrtspflege - Einstimmiger Beschluss
+- TOP 30: Jahresabschluss 2003 der GSM - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 31: 143. FNP Änd. - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 32: 149. FNP Änd. - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 33: 1. Änd. Bebauungsplan Nr. 508 / I - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 34: Bebauungsplan Nr. 609 / V - Einstimmiger Beschluss
+- TOP 35: Bebauungsplan Nr. 610/VIII - Einstimmiger Beschluss
+- TOP 36: 153. FNP Änd. - Absolute Mehrheit
+- TOP 37: Bebauungsplan Nr. 626 / II - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 38: 158. FNP Änderung - Einstimmiger Beschluss
+- TOP 39: Bebauungsplan Nr. 635 / I - Einstimmiger Beschluss
+- TOP 40: Veränderungssperre Schwogenstraße - Absolute Mehrheit
+- TOP 41: Bebauungsplan Nr. 620/VIII - Einstimmiger Beschluss
+- TOP 42: Straßenneu- und umbenennung im Nordpark - Einstimmiger Beschluss
+- TOP 43: 7. NT Abfall/Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 44: Nachhaltigkeit auch für Sparkassen - Mit Stimmenmehrheit abgelehnt
+- TOP 45: Wahl ehrenamtl. Richter/-innen für das OVG Münster - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 46: Schöffenwahlausschuss - Absolute Mehrheit
+- TOP 47: Anfragen - Kenntnisnahme
