@@ -1,0 +1,2 @@
+# § 11a Bilinguale Bildungsgänge
+Wird ein Schüler oder eine Schülerin zweimal in derselben Jahrgangsstufe oder in zwei aufeinanderfolgenden Jahrgangsstufen innerhalb eines bilingualen Bildungsganges nicht versetzt, erfolgt auf Beschluss der Versetzungskonferenz eine Versetzung in die entsprechende Jahrgangsstufe des Regelbildungsganges des Gymnasiums, wenn die Leistungsschwächen in der unzureichenden Beherrschung der den Unterricht bestimmenden Fremdsprache begründet sind.
