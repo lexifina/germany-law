@@ -1,0 +1,85 @@
+# 21. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2003-11-20T17:30:00+01:00
+- Ende: 2003-11-20T21:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=517
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=517
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=38484
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Zentralisierung der Anmeldestellen für Tagespflege-Bedarf - beantwortet
+- TOP 3.2: Haushalt 2004/ 2005 - Noch mal von vorne? - beantwortet
+- TOP 3.3: Pin AG - beantwortet
+- TOP 3.4: Seniorenwohnheime - beantwortet
+- TOP 3.5: Planungen zum Gormanndreieck - schriftlich beantwortet
+- TOP 3.6: Nicht beantwortete Anfragen aus der BVV - schriftlich beantwortet
+- TOP 3.7: Unterrichtsausfall im Bezirk - schriftlich beantwortet
+- TOP 3.8: Bearbeitungszeiten Kleiner Anfragen - schriftlich beantwortet
+- TOP 3.9: Gelten Zentrale Dienstvorschriften der Bundeswehr nun auch für Sportvereine im Bezirk? - schriftlich beantwortet
+- TOP 3.10: Neues Mietobergrenzenkonzept - schriftlich beantwortet
+- TOP 3.11: Arbeitssituation im Wohngeldamt - schriftlich beantwortet
+- TOP 3.12: Probleme an der Diesterweg-Oberschule - schriftlich beantwortet
+- TOP 3.13: Standort - schriftlich beantwortet
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Umzug des Berlin-Kolleg - beantwortet
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Bundesnachrichtendienst in Mitte - beantwortet
+- TOP 5.2: Sprachstandsmessung Bärenstark - beantwortet
+- TOP 5.3: Finanzielle Unterstützung des Bezirksamts für linksextremistische Zeitung - beantwortet
+- TOP 5.4: Kopftuchverbot in den Schulen von Mitte? - schriftlich beantwortet
+- TOP 5.5: Optimierung der Nutzung von UEP-Mitteln - schriftlich beantwortet
+- TOP 5.6: Schule mit Hochbegabtenförderung - schriftlich beantwortet
+- TOP 5.7: Bananenrepublik Mitte - oder: Darf man bei ausreichernder und "genehmer" Gegenleistung im öffentlichen Straßenland werben? - schriftlich beantwortet
+- TOP 5.8: Geplante Änderung der Bauordnung Berlin (BauOBln) - schriftlich beantwortet
+- TOP 5.9: "Brötchentaste" als Appetithappen für Parkplatzhungrige? - schriftlich beantwortet
+- TOP 5.10: BVG-Sozialticket erhalten! - schriftlich beantwortet
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 7.1: Genehmigung der Bezirkshaushaltsrechnungen Mitte (alt), Tiergarten und Wedding für das Haushaltsjahr 2000 - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Sitzungskalender 2004 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Berufung eines Bürgerdeputierten in den Jugendhilfeausschuss gemäß § 35 Abs. 5 Nr. 2 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Bebauungsplan 1-4 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-4 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Effizienzsteigerung durch Outsourcing hier: Gebäudedienstleistungsmanagement
+- TOP 9.2: Schulwegsicherung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.3: Ergänzung des Budgetierungsverfahrens durch Qualitätskriterien - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.4: Änderung von Einschulungsbereichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.5: Abberufung und Neubenennung von Mitgliedern im Frauenbeirat - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.6: Zielvereinbarungen für das Haushaltsjahr 2003 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.7: Gesamtkonzept zur Sprachförderung im Bezirk Mitte/ Maßnahmenkatalog zur Verbesserung der Sprachkompetenz von Kindern und Jugendlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Berlin-Kolleg am neuen Standort?! - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: stadt.plan.mitte - überwiesen
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Einjährige Vertragslaufzeiten
+- TOP 11.2: Grün geht vor - Erweiterung des Mauerparks unterstützen
+- TOP 11.3: Leitlinien zur Übertragung der bezirklichen Seniorenfreizeitstätten - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: GA-Mittel Umbaumaßnahme Schiffbauerdamm - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Mehr Transparenz im Haushalt! - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Niederschlagswasser - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Freie Fahrt für freie BürgerInnen - Jugendverkehrsschulen an Freie Träger übertragen - überwiesen
+- TOP 12.2: Lernstatt im Wohnbezirk e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Bärenstark fortsetzen! - überwiesen
+- TOP 12.4: Honorarmittel in Zeiten des Art. 89 - zurückgezogen
+- TOP 12.5: Anträge ins Internet - überwiesen
+- TOP 12.6: Bezirk muss Kinderbetreuung sicher stellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Entwicklung von Gewerbe und Handwerk - überwiesen
+- TOP 12.8: Rosenholz-Überprüfung in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Geschlechtsbewusste Sozialisation - überwiesen
+- TOP 12.10: Parkraumbewirtschaftung - 15 Minuten frei Parken - in der BVV zurückgezogen
+- TOP 12.11: Heimüberprüfung nach dem Heimgesetz - ohne Änderungen in der BVV beschlossen
