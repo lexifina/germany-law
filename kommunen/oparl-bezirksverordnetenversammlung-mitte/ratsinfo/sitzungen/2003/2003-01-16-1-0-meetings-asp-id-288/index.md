@@ -1,0 +1,73 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2003-01-16T17:30:00+01:00
+- Ende: 2003-01-16T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=288
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=288
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=22942
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - mit Änderungen in der BVV beschlossen
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Bebauungsplan 1-10 ( Sicherung Wohnnutzung Leipziger Straße 114-120/ Mauerstraße 65-68)
+- TOP 3.2: Überquerung der Mohrenstraße für Schüler sicher gestalten
+- TOP 3.3: Hartz-Vorschläge
+- TOP 3.4: Öffentliche Terminplanung
+- TOP 3.5: Krematorium Wedding
+- TOP 3.6: Grundstück Jülicher-/ Behmstraße ( einschließlich Hertha-Domizil)
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Krematorium Wedding
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Mehrbelastung für den Bezirkshaushalt durch Auslaufen der Förderung im Sozialen Wohnungsbau - Kostenfalle für den Bezirkshaushalt Mitte?
+- TOP 5.2: Ausschöpfung der Sanierungsmittel
+- TOP 5.3: Ideenmanagement und betriebliches Vorschlagswesen im Bezirksamt Mitte
+- TOP 5.4: Grundstücke Bochumer Straße 14 und Bundesratufer 7
+- TOP 5.5: Islamunterricht
+- TOP 5.6: Bürgerbüros
+- TOP 5.7: Bahnfrei für den Radverkehr auch in Mitte?
+- TOP 5.8: Aktueller Geschäftsverteilungsplan Bezirksamt Mitte
+- TOP 5.9: Ergebnisse der Parkraumbewirtschaftung
+- TOP 5.10: Zusätzliche Lichtzeichenanlage in der Soldiner Straße
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Fortschreibung des Rahmenplanes für das förmlich festgesetzte Sanierungsgebiet Rosenthaler Vorstadt im Bezirk Mitte von Berlin
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Arbeitsaufnahme für Sozialhilfeempfängerinnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2: Senkrecht-Parken in der Flensburger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.3: Grundsicherung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.4: Sommerbad Poststadion - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.5: Förderung des Projektes "Migration und Quartiersentwicklung, Wir in Moabit: gemeinsam leben, gemeinsam gestalten" im Ortsteil Moabit
+- TOP 9.6: Ausbau des Westhafens zu einem Güterverkehrssubzentrum/ alt Drucksachen Nr. I/208
+- TOP 9.7: Energie- und Umweltbericht (alt: Drucksache Nr. I/105)
+- TOP 9.8: Kein Grillverbot im Großen Tiergarten (II) alt: Drucksache I/287
+- TOP 9.9: Obdachloseneinrichtungen im Bezirk Mitte alt: Drucksache Nr. 549/I
+- TOP 9.10: Beschluss über die Auswertung der frühzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 BauGB und die Durchführung der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB für den Bebauungsplanentwurf I-53 für das Gebiet zwischen Rosenthaler Straße, Steinstraße und Gormannstraße im Bezirk Mitte, Ortsteil Mitte
+- TOP 9.11: Auswertung der frühzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 BauGB zum Bebauungsplanentwurf I-20 im Bezirk Mitte, Ortsteil Mitte und die Durchführung der Beteiligung der Träger öffentlicher Belange gem.§ 4 BauGB
+- TOP 9.12: Beschluss über die Erweiterung des Geltungsbereichs des Bebauungsplanentwurfs II-138 um Teilflächen des Hamburg-Lehrter Güterbahnhofs sowie Beschluss über die Durchführung der Beteiligung der Träger öffentlicher Belange für das BebauungsplanverfahrenII-138 zur Sicherung von Wohn- und Mischgebieten sowie privater Grünfläche für die Grundstücke Lehrter Straße 6-22 und Teilflächen des Hamburg-Lehrter Güterbahnhofs im Bezirk Mitte, Ortsteil Tiergarten.
+- TOP 9.13: Ergebnis der Auswertung der Beteiligung der Träger öffentlicher Belange gemäß § 4 BauGB zum Bebauungsplanentwurf III-212 für die Grundstücke Sprengelstraße 28, 29, Kiautschoustraße 10,11, Pekinger Platz sowie einen Abschnitt der Kiautschoustraße zwischen Torfstraße und Samoastraße im Bezirk Mitte, Ortsteil Wedding und Vergrößerung des Geltungsbereichs um einen Teilbereich der Straße Nordufer zwischen Torfstraße und Samoastraße im Bezirk Mitte, Ortsteil Wedding
+- TOP 9.14: Erhalt des Luisenblocks alt: Drucksache Nr. 315/I
+- TOP 9.15: Keine Hochhausbebauung am Spreeufer (II) alt: Drucksache Nr. 384/I
+- TOP 9.16: Verkehrstechnische Maßnahmen am Charles-Corcelle-Ring alt: Drucksachen Nr. 528/I
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Umgang mit dem Bauvorhaben der Deutschen Post auf dem Gelände Auguststraße 5a/Oranienburger Straße 35-36/Tucholskystraße 19/21 (Postfuhramt)
+- TOP 10.2: Zugang zum Neuen Stadthaus über Am Jüdenhof
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Zukunftsfähige Personalpolitik / Übernahme von Azubis
+- TOP 11.2: Umgang mit dem Bauvorhaben der Deutschen Post auf dem Gelände Auguststraße 5a/ Oranienburger Straße 35-36/ Tucholskystraße 19/21 (Postfuhramt)
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Verteilungsschlüssel für Asylbewerber oder Kriegsflüchtlinge
+- TOP 12.2: Wechsele bei den Bürgerdeputierten
+- TOP 12.3: Unterbringung von Asylbewerbern in Wohnungen
+- TOP 12.4: Konzepterstellung für die Errichtung eines Drogenkonsumraums
