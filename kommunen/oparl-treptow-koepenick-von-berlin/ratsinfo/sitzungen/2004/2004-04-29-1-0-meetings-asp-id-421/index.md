@@ -1,0 +1,102 @@
+# 27. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2004-04-29T16:00:00+02:00
+- Ende: 2004-04-29T21:40:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=421
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=421
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_28 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Personelles/Wahlen - erledigt
+- TOP 7.1: Vorzeitige Beendigung des Amtes einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Wahl einer Schiedsperson - Schiedsamtsbezirk Treptow-Köpenick 5 - gewählt
+- TOP 7.3: Neuwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8: Anträge - gegenstandslos
+- TOP 8.1: Rechtzeitige Information der Anwohner und Verkehrsteilnehmer - in der BVV zurückgezogen
+- TOP 8.2: Uferweg Britzer Zweigkanal - ohne Änderungen in der BVV beschlossen
+- TOP 9: Großen Anfragen - gegenstandslos
+- TOP 9.1: Anschlussbedingungen an die Entwässerung - beantwortet
+- TOP 9.2: Der Außendienst im neuen Ordnungsamt - Kietzpolizei oder uniformierte Parkwächter? - beantwortet
+- TOP 9.3: Müllbehälter im Bezirk - beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 10.1: Spreepark und Eierhäuschen - schriftlich beantwortet
+- TOP 10.2: Straßenbauarbeiten in Friedrichshagen - schriftlich beantwortet
+- TOP 10.3: Leistungen nach dem Asylbewerberleistungsgesetz - vertagt
+- TOP 11: Beschlussvorlagen - gegenstandslos
+- TOP 11.1: Verordnung über den Erlass der Veränderungssperre 9-21/14 für die Grundstücke Sterndamm 29/35 im Bezirk Treptow-Köpenick, Ortsteil Johannisthal - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für IG Dörpfeldstraße e.V. (SM 413) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Seniorenverein Wuhlheide e.V. (SM 421) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Behindertenverein Köpenick e.V. (SM 422) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für GEBEWO - Haus Schöneweide (SM 423) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für MUT - Beratungs- und Behandlungsstelle für Suchtkranke (SM 424) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für KSV 1980 e.V. (SM 426) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für Selbsthilfegruppe Multiple Sklerose (SM 431) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondermittel für Förderkreis Hilfe für strahlengeschädigte belorussische Kinder (SM 417) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - erledigt
+- TOP 12.1: Gemeinsam gegen rechte Aktivitäten am S-Bahnhof Schöneweide - Antrag auf unbestimmte Zeit zurückgezogen -( 9.9.03) - in der BVV zurückgezogen
+- TOP 12.2: Straßenbenennung Schliemann-Siedlung (Johannisthal) - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Benennung der neuen Autobahnbrücken - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Benennung der neuen Autobahntunnel - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Kaisersteg - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Uferdurchwegung - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Lichtzeichenanlage Seelenbinderstraße/Bahnhofstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: - Entwurf des Bebauungsplans XV-19 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-19 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: - Entwurf des Bebauungsplans XV-18 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-18 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: - Entwurf des Bebauungsplans XV-45 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-45 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: - Entwurf des Bebauungsplans XV-20 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-20 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Überquerung des Fürstenwalder Damms in Höhe Westendsiedlung und Mühlweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Optimierung der Ampelschaltung Kreuzung Fürstenwalder Damm/Bölschestr. - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Stalin-Inschriften am Treptower Ehrenmal - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Steganlagenkonzeption Treptow-Köpenick - überwiesen
+- TOP 12.16: Informationen zu Tiefbauarbeiten - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Tiefbrunnen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.1: Bauvorhaben "Ausbau der Paradiesstraße von Parchwitzer Straße bis Siebweg" - überwiesen
+- TOP 13.2: Leitlinien für die kommunale Kulturarbeit im Bezirk Treptow-Köpenick - vertagt
+- TOP 13.3: Einsetzen einer "Arbeitsgruppe Europa" (AG Europa) - überwiesen
+- TOP 13.4: Verleihung des Namens "Stefan Heym" an die Stadtteilbibliothek Adlershof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Aufstellungsbeschluss der Erhaltungsverordnung nach § 172 Abs. 1 Satz 1 Nr. 1 BauGB für das Gebiet Dammweg 5-117 im Bezirk Treptow-Köpenick, Ortsteil Plänterwald - überwiesen
+- TOP 13.6: Straßenplanung der Süd-Ost-Verbindung - überwiesen
+- TOP 13.7: Lokale Agenda Treptow-Köpenick - vertagt
+- TOP 14: Anträge - gegenstandslos
+- TOP 14.1: Parken in der Peetzseestraße - überwiesen
+- TOP 14.2: Querungshilfen in der Kiefholzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Rechtsformänderung der städtischen Kindertagesstätten - im Ältestenrat zurückgezogen
+- TOP 14.4: Aßmannstraße / Rahnsdorfer Straße als Fahrradstraße - überwiesen
+- TOP 14.5: Europamaterial in den Bürgerämtern - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: EU Fördermittel für das FEZ - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Leserkarten für Sozialhilfeberechtigte - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Verkehrschaos in Friedrichshagen vermeiden - überwiesen
+- TOP 14.9: Gender Budgeting - überwiesen
+- TOP 14.10: Kommunale Trägerschaft von Kitas im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Verkehrsberuhigende Maßnahmen - überwiesen
+- TOP 14.12: Standard für Straßenausbau - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Sicherheit der Fußgänger in Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Auszeichnung für Internetauftritte von Schulen - überwiesen
+- TOP 14.15: Tempo 70 auf der Rummelsburger Straße - überwiesen
+- TOP 14.16: Mietervertretungen - überwiesen
+- TOP 14.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.18: Hinweis zu kommunalen Partnerschaften - überwiesen
+- TOP 14.19: Benennung zweier Brücken der TVO - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Veränderung eines Tempo-30-Bereichs vor einer Kita - überwiesen
+- TOP 14.21: Ausschilderung Wissenschafts- und Medienstandort Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 14.22: Würdigung 15. Jahrestag des Mauerfalls - überwiesen
+- TOP 14.23: Benennung der Straße 125A - überwiesen
+- TOP 14.24: Benennung von Verbindungswegen - ohne Änderungen in der BVV beschlossen
+- TOP 14.25: Würdigung "60 Jahre Kriegsende" - überwiesen
+- TOP 14.26: Einrichtung von siebenten Klassen - mit Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - gegenstandslos
+- TOP 15.1: Auswirkungen der Hartzgesetze auf die soziokulturelle Infrastruktur Treptow-Köpenicks - vertagt
+- TOP 15.2: Mittelpunktbibliothek "Friedrich Wolf" - beantwortet
+- TOP 15.3: Gender Budgeting - vertagt
