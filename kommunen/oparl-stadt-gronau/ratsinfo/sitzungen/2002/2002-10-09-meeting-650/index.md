@@ -1,0 +1,55 @@
+# Rat
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2002-10-09T17:00:00+02:00
+- Ende: 2002-10-09T19:05:00+02:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfm7jLTVZvKy8HW83JjVpGw
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/650
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWhAuuV271wwsG6kG7i5T6_4YCS7KuN47tdcsRRMJ7Z4/Bekanntmachung_Rat_09.10.2002.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWO8gbU7j1_MPkV_ArofQtrRc08o0BZlM5orgMcDN9CU/Oeffentliche_Niederschrift_Rat_09.10.2002.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschriften vom 25.09.2002 und 04.09.2002
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Vereidigung und Amtseinführung des Ersten Beigeordneten -  
+- TOP 5.: Einbringung des 1. Nachtragshaushaltsplanes für das Haushaltsjahr 2002 einschl. Haushaltssicherungskonzept und mittelfristiger Finanz- und Investitionsplanung - Einstimmig, 0 Enthaltungen
+- TOP 6.: Jahresabschluss für das Abwasserwerk der Stadt Gronau (Westf.) Wirtschaftsjahr 2001 - Schlussbesprechung und Beschlussfassung - Einstimmig, 0 Enthaltungen
+- TOP 7.: Jahresabschluss 2001 der Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG) 1. Kenntnisnahme des Jahresabschlussergebnisses 2. Beschlussfassung der Gesellschafterversammlung über die Feststellung des Jahresabschlusses, die Übernahme der Jahresfehlbetrages durch die Stadt Gronau sowie die Entlastung des Geschäftsführers und der Aufsichtratsmitglieder (Aufsichtsrat vom 17.09.2002, Pkt. 2 TO) - Einstimmig, 0 Enthaltungen
+- TOP 8.: Wirtschaftsplan 2003 der Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG) - Einstimmig, 0 Enthaltungen
+- TOP 9.: Straßenausbauplanungen 2003 - Prioritätenliste - Einstimmig, 0 Enthaltungen
+- TOP 10.: Pauschalierte Zuweisung zur Förderung kommunaler Projekte der Entwicklungszusammenarbeit nach §20 Abs.2 Nr.4 Gemeindefinanzierungsgesetz (GFG) 2001 für die Haushaltsjahre 2001 und 2002; Antrag Nr.2 der Lokalen Agenda 21; - 35 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 11.: Sammelvorlage zu den Anträgen der Lokalen Agenda 21 " Perspektiven für Gronau" -  
+- TOP 11.1.: Anträge der Lokalen Agenda 21 an den Rat der Stadt Gronau; Antrag Nr. 1: Beantragung einer Arbeitsbeschaffungsmaßnahme für eine Agenda-Vollzeitstelle (BAT IV a) zur intensiven Koordinierung und Begleitung des Lokalen Agenda 21-Prozesses durch die Stadt Gronau - Einstimmig, 1 Enthaltungen
+- TOP 11.2.: 391/2002 Pauschalierte Zuweisung zur Förderung kommunaler Projekte der Entwicklungszusammenarbeit nach § 20 Abs. 2 Nr. 4 GFG (s. TOP 10)
+- TOP 11.3.: Antrag Nr.3 der Lokalen Agenda 21: Sondierung nach zusätzlichen Mitteln für den Agenda - Prozess -  
+- TOP 11.4.: Anräge der Arbeitsgruppen der Lokalen Agenda 21 an den Rat der Stadt Gronau; Antrag Nr. 4: Kurzfristige Einrichtung einer zweiten Stelle im Umweltschutzbereich sowie die Überprüfung der bestehenden Organisationsform - Einstimmig, 2 Enthaltungen
+- TOP 11.5.: Anträge der Lokalen Agenda 21 "Perspektiven für Gronau" an den Rat der Stadt Gronau am 19.12.2001 (Vorlage 547/2001-TOP 16) hier: Antrag Nr. 5 - Planung und Umsetzung eines modernen Stadtbus-Systems - Einstimmig, 1 Enthaltungen
+- TOP 11.6.: Anträge der Lokalen Agenda 21 "Perspektiven für Gronau" an den Rat der Stadt Gronau am 19.12.2001 (Vorlage 547/2001-TOP 16) hier: Antrag Nr. 6 - Verbesserung des regionalen Busverkehrs - Einstimmig, 0 Enthaltungen
+- TOP 11.7.: Anträge der Lokalen Agenda 21 "Perspektiven für Gronau" an den Rat der Stadt Gronau am 19.12.2001 (Vorlage 547/2001 - TOP 16) hier: Antrag Nr. 7 - Verbesserungen im Schienenverkehr - Einstimmig, 0 Enthaltungen
+- TOP 11.8.: Lokale Agende 21 Antrag Nr. 8: Verbesserung des Fuß- und Radverkehrs -  
+- TOP 11.9.: 3 Anträge der lokalen Agenda 21 - Arbeitsgruppe Kinder, Jugend, Kultur und Bildung - - Einstimmig, 0 Enthaltungen
+- TOP 11.10.: Anträge der Arbeitsgruppen der Lokalen Agenda 21 an den Rat der Stadt Gronau; Antrag Nr. 12: Ausländerbeirat - Einstimmig, 2 Enthaltungen
+- TOP 11.11.: Anträge der Arbeitsgruppen der Lokalen Agenda 21 an den Rat der Stadt Gronau; Antrag Nr. 13: Sachkundige Ausländische Mitbürger/-innen
+- TOP 11.12.: 1/2002 Budgetentwurf 2002 - Antrag Nr. 14 der Lokalen Agenda 21
+- TOP 11.13.: Anträge zur Lokalen Agenda: Antrag Nr. 15 - MIGRATION "Sprachkurse und Qualifikation" - Ohne Abstimmung
+- TOP 11.14.: Bleiberecht für Asylbewerber/innen - 33 Jastimmen, 4 Neinstimmen, 2 Enthaltungen
+- TOP 11.15.: Gewährung von ungekürzten Sozialleistungen an Asylbewerbern/-innen - Einstimmig, 2 Enthaltungen
+- TOP 12.: nicht-öffentliche Vorlage - Einstimmig, 3 Enthaltungen
+- TOP 12.1.: Mitteilungen der Verwaltung
+- TOP 12.2.: Terminplanung IV. Quartal 2002
+- TOP 13.: Anfragen
+- TOP 13.1.: Öffnungszeitpunkt des Rock´n´Pop-Museums unzulässige Mitteilung des Geschäftsführers an die Medien? (Anfrage RM Krause)
+- TOP 13.2.: Verzögerungen bei der Realisierung des Baugebiets "Overdinkelstr." (RM Krause)
+- TOP 13.3.: Anregung eines erneuten Gesprächs in Sachen Morgenstern-Siedlung (RM Krause)
+- TOP 13.4.: Lehrstellenbilanz des Arbeitsamtes Coesfeld im Jahr 2002 (RM Arends)
+- TOP 13.5.: Mangelnde Präsenz der Berufsberatung in Gronau (RM Arends)
+- TOP 13.6.: Optische Aufbesserung des Bahnhofhaltepunkts Epe (RM Loos)
+- TOP 13.7.: Sitzungen des Aufsichtsrats der Kultur GmbH (RM Kubel)
+- TOP 13.8.: Keine Annahme der B 54n durch Verkehrsteilnehmer? (RM Krause)
