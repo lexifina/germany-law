@@ -1,0 +1,75 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-11-08T14:00:00+01:00
+- Ende: 2004-11-08T18:03:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1242
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1242
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111375.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111375.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111375.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - zur Kenntnis genommen
+- TOP 2: Genehmigung NS - zur Kenntnis genommen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Akt. Anfr. Laubenburg: Methadon - zur Kenntnis genommen
+- TOP 5: Akt. Anfr. Wien-Mr.: Kamper Acker - zur Kenntnis genommen
+- TOP 6: Anfragen - zur Kenntnis genommen
+- TOP 7: Drogen/Fixerstuben - zur Kenntnis genommen
+- TOP 8: Anfr.Rf.Kahl:Kosten Hundesteuer etc. - zur Kenntnis genommen
+- TOP 9: Anfr.Rf.Kahl: Strompreiserhöhungen etc. - zur Kenntnis genommen
+- TOP 10: Anfr.Rh.Laubenburg:Wegfall von Arbeitsplätzen - zur Kenntnis genommen
+- TOP 11: Anfr.Rh. Laubenb.:Offenl. v. Vorstandsgehältern - zur Kenntnis genommen
+- TOP 12: Anfr. SPD: Instandsetzung Häuser - zur Kenntnis genommen
+- TOP 13: Anfr.Bü90/Grü:Fragebogenaktion "Projekt Palme" - zur Kenntnis genommen
+- TOP 14: Anträge - zur Kenntnis genommen
+- TOP 15: Antr. Bü90/Grü:Attraktive Altstadt - zur Kenntnis genommen
+- TOP 16: Antr. SPD: Satzung Bürgerentscheide - zur Kenntnis genommen
+- TOP 17: Antr. SPD: Verzahnung AREZI - zur Kenntnis genommen
+- TOP 18: Erg.-antr. Bü90: Arezi - zur Kenntnis genommen
+- TOP 19: Interfr. Antr.: Ausländerbeirat - zur Kenntnis genommen
+- TOP 20: Hartz IV - zur Kenntnis genommen
+- TOP 21: Fraktionsl. Ratsmitgl. i.d. Ausschüssen - zur Kenntnis genommen
+- TOP 22: Verwaltungsrat Stadtsparkasse - zur Kenntnis genommen
+- TOP 23: Verbandsversammlung Giroverband - zur Kenntnis genommen
+- TOP 24: AR GEW Düsseldorf - zur Kenntnis genommen
+- TOP 25: Konstit. Regionalrat - zur Kenntnis genommen
+- TOP 26: Bildung Landschaftsversammlung - zur Kenntnis genommen
+- TOP 27: AR Flughafen - zur Kenntnis genommen
+- TOP 28: AR Flugh. MG, Ersatzwahl - zur Kenntnis genommen
+- TOP 29: Kommission nach § 32 b Luftverkehrsgesetz - zur Kenntnis genommen
+- TOP 30: AR -IDR - - zur Kenntnis genommen
+- TOP 31: AR Messe Df. - zur Kenntnis genommen
+- TOP 32: AR Df. Congress Veranst. Ges. - zur Kenntnis genommen
+- TOP 33: AR Marketing u. Tourismus GmbH - zur Kenntnis genommen
+- TOP 34: AR Kliniken u. Seniorenzentren - zur Kenntnis genommen
+- TOP 35: Verwaltungsrat Werkstatt f. angep. Arbeit - zur Kenntnis genommen
+- TOP 36: AR Jugendberufshilfe - zur Kenntnis genommen
+- TOP 37: AR Zukunftswerkstatt Df. - zur Kenntnis genommen
+- TOP 38: AR Rhein. Bahnges. - zur Kenntnis genommen
+- TOP 39: AR Reg. Bahng. Kaarst-Neuss-Df, etc. - zur Kenntnis genommen
+- TOP 40: AR Städt. Wohnungsg. - zur Kenntnis genommen
+- TOP 41: AR Deutsche Oper a.R., Theatergem. Df-Du - zur Kenntnis genommen
+- TOP 42: AR Kunsthalle Df. - zur Kenntnis genommen
+- TOP 43: AR Düsseldorfer Künstleratelier - zur Kenntnis genommen
+- TOP 44: Düsseldorfer Gesundheitskonferenz - zur Kenntnis genommen
+- TOP 45: Verbandsausschuss Neanderthal - zur Kenntnis genommen
+- TOP 46: Arbeitsgemeinschaft DUS-ME - zur Kenntnis genommen
+- TOP 47: Kuratorium Stiftung Schl. u. Park Benrath - zur Kenntnis genommen
+- TOP 48: Kuratorium d. Stiftung museum kunstpalast - zur Kenntnis genommen
+- TOP 49: Kuratorium der Volkshochschule - zur Kenntnis genommen
+- TOP 50: Brandschutz, TVG 1, Auf`m Hennekamp45 - zur Kenntnis genommen
+- TOP 51: Kiesheckerweg, Lichtenbroicher Weg, Kürtenstraße
+- TOP 52: Bestellung und Abberufung von Prüferinnen - zur Kenntnis genommen
+- TOP 53: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 54: 5576/78 Veränderungssperre - 1.Verlängerung - zur Kenntnis genommen
+- TOP 55: B-Plan Nr. 5379/56 - Sky Office - Änd. in rot;Satz - zur Kenntnis genommen
+- TOP 56: Lichtzeichenanl. - zur Kenntnis genommen
+- TOP 57: Gen. 60er,Einr. eines Basketballspielfeldes etc. - zur Kenntnis genommen
+- TOP 58: Umbesetzung v. Ausschüssen - zur Kenntnis genommen
