@@ -1,0 +1,141 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2004-12-20T16:08:00+01:00
+- Ende: 2004-12-20T18:20:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3117
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3117
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung - Stand: 10.12.2004 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00043135.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00044253.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00043940.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Bestellung der Schriftführer für den Hauptausschuss (nur HA)
+- TOP 1.2: Einführung eines Stadtverordneten (nur Rat)
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: Wiederwahl eines Beigeordneten (nur Rat) - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Kündigungssperrfristverordnung - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Kündigungssperrfristverordnung - abschließend zur Kenntnis genommen
+- TOP 2.2: Finanzierungsablauf für die Regionale 2006 Projekte - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Finanzierungsablauf für die Regionale 2006 - Projekte - abschließend zur Kenntnis genommen
+- TOP 2.3: Datenschutz bei Hartz VI - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Datenschutz bei Hartz IV
+- TOP 2.4: Fragestunde in der Ratssitzung am 20.12.2004 - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Zur Fragestunde in der Ratssitzung am 20.12.2004
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Prüfauftrag BürgerInnenhaushalt - von der Tagesordnung gesetzt
+- TOP 4.1.1: BürgerInnenhaushalt - von der Tagesordnung gesetzt
+- TOP 4.2: Änderung der Bürgerbegehrenssatzung - zur Vorberatung verwiesen
+- TOP 4.2.1: Änderung der Bürgerbegehrenssatzung - zur Vorberatung verwiesen
+- TOP 4.3: Ausbau der Offenen Ganztagsgrundschule in Wuppertal - zur Vorberatung verwiesen
+- TOP 4.4: Pendlernetz Nordrhein-Westfalen - zur Vorberatung verwiesen
+- TOP 4.4.1: Stellungnahme zum Antrag der SPD-Ratsfraktion "Pendlernetz NRW" (VO/3668/04) - vertagt auf Rat
+- TOP 4.5: Offenlegung der Vorstandsgehälter bei städtischen Tochterunternehmen und Beteiligungen - geändert beschlossen
+- TOP 4.6: Dreckwegtag - zur Vorberatung verwiesen
+- TOP 4.7: Ausschreibung der Stelle des Leiters des Stadtbetriebs Sport und Bäder - von der Tagesordnung gesetzt
+- TOP 4.8: Holzhackschnitzelheizung - von der Tagesordnung gesetzt
+- TOP 4.9: Erhaltung Kurbad Barmen - zur Vorberatung verwiesen
+- TOP 4.10: Arbeitslosengeld II - Nichtbefassung beschlossen
+- TOP 4.11: Appell an die Bundesregierung zum Arbeitslosengeld II - Nichtbefassung beschlossen
+- TOP 4.12: Wuppertaler Stadtwerke - vertagt auf Rat
+- TOP 4.13: Änderung des Zuschnitts der Geschäftsbereiche - von der Tagesordnung gesetzt
+- TOP 4.14: Optimierung der Arbeit des städtischen Gestaltungsbeirates - zur Vorberatung verwiesen
+- TOP 4.14.1: Beschleunigung von Bauanträgen und Optimierung der Arbeit des Gestaltungsbeirates - zur Vorberatung verwiesen
+- TOP 4.14.2: Gestaltungsbeirat - zur Vorberatung verwiesen
+- TOP 4.14.3: Optimierung der Arbeit des Gestaltungsbeirates - zur Vorberatung verwiesen
+- TOP 4.14.4: Beschleunigung von Bauanträgen - zur Vorberatung verwiesen
+- TOP 4.14.5: Optimierung der Arbeit des städtischen Gestaltungsbeirates - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Übernahme von Teilflächen der HELIOS-Kliniken am Arrenberg - von der Tagesordnung gesetzt
+- TOP 5.2: Reduktion der Kosten der Straßenbeleuchtung - von der Tagesordnung gesetzt
+- TOP 5.3: Hundertwasser-Haus - von der Tagesordnung gesetzt
+- TOP 5.4: Erhalt und die Sicherung der Wuppertaler Stadtwerke AG - von der Tagesordnung gesetzt
+- TOP 5.5: Wird unter TOP 4.5 behandelt.
+- TOP 6: Ortsrecht
+- TOP 6.1: Gebührensatzung zur Abfallwirtschaftssatzung für das Jahr 2005 - ungeändert beschlossen
+- TOP 6.2: 6. Satzung zur Änderung der Abfallwirtschaftssatzung vom 17.12.1999 - ungeändert beschlossen
+- TOP 6.3: Änderung § 5 der Satzung des Jugendamtes über die beratenden Mitglieder des Jugendhilfeausschusses - geändert beschlossen
+- TOP 6.4: Satzung z. Änderung d. Satzung über d. Straßenreinigung u. d. Erhebung v. Straßenreinigungsgebühren - ungeändert beschlossen
+- TOP 6.5: 2. Satzung zur Änderung der Beitrags- und Gebührensatzung vom 18.12.2002 - ungeändert beschlossen
+- TOP 6.6: Neufassung der Zuständigkeitsordnung - vertagen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Ausgaben 2004 - ungeändert beschlossen
+- TOP 7.2: Ergebnis der Prüfung des Haushaltsplanes 2004/2005 durch die Kommunalaufsicht - ungeändert beschlossen
+- TOP 7.3: Haushalt 2004/2005 und Haushaltssicherungskonzept der Stadt Wuppertal - abschließend zur Kenntnis genommen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2003 für die Alten- und Altenpflegeheime der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan der Alten- und Altenpflegeheim der Stadt Wuppertal (APH) für das Jahr 2005 - geändert beschlossen
+- TOP 8.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2005 - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplanung Kinder- und Jugendwohngruppen (KIJU) 2005 - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss 2003 für den Eigenbetrieb Straßenreinigung Wuppertal - ungeändert beschlossen
+- TOP 8.6: Wirtschaftsplan für den Eigenbetrieb Straßenreinigung Wuppertal für das Geschäftsjahr 2005 - ungeändert beschlossen
+- TOP 8.7: Jahresabschluss 2002 für den Eigenbetrieb Gebäudemanagement Wuppertal - ungeändert beschlossen
+- TOP 8.8: Änderung des Gesellschaftsvertrages der Abfallwirtschaftsgesellschaft mbH Wuppertal und Entsendung v - ungeändert beschlossen
+- TOP 8.9: Änderung des Gesellschaftsvertrages der Wuppertaler Bühnen GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 989 -Langerfelder Straße/Klippe- - ungeändert beschlossen
+- TOP 9.2: Landschaftsplan Wuppertal-Ost Umsetzung der Fauna Flora Habitat-Richtlinie - Beitrittsbeschluss - ungeändert beschlossen
+- TOP 9.3: Landschaftsplan Wuppertal-Gelpe Umsetzung der Fauna Flora Habitat-Richtlinie - Beitrittsbeschluss - ungeändert beschlossen
+- TOP 9.4: Landschaftsplan Wuppertal-Nord Beitrittsbeschluss - erledigt durch Beschluss zu einem anderen TOP
+- TOP 9.4.1: Landschaftsplan Wuppertal-Nord Beitrittsbeschluss - erledigt durch Beschluss zu einem anderen TOP
+- TOP 9.4.2: Landschaftsplan Wuppertal-Nord - 2. Ergänzung des Beitrittsbeschlusses - erledigt durch Beschluss zu einem anderen TOP
+- TOP 9.4.3: Landschaftspläne-Grundlagen der Zusammenarbeit zwischen den Ortsbauernschaften und der Stadt Wuppert - erledigt durch Beschluss zu einem anderen TOP
+- TOP 9.4.4: Landschaftsplan Wuppertal-Nord Beitrittsbeschluss - Neufassung - ungeändert beschlossen
+- TOP 9.5: Landschaftsplan Wuppertal-West Beitrittsbeschluss - erledigt durch Beschluss zu einem anderen TOP
+- TOP 9.5.1: Landschaftsplan Wuppertal-West Beitrittsbeschluss - erledigt durch Beschluss zu einem anderen TOP
+- TOP 9.5.2: Landschaftsplan Wuppertal-West zweite Ergänzung des Beitrittsbeschlusses - erledigt durch Beschluss zu einem anderen TOP
+- TOP 9.5.3: Landschaftsplan Wuppertal-West Beitrittsbeschluss - Neufassung - ungeändert beschlossen
+- TOP 9.6: Flächennutzungsplan - Beitrittsbeschluss - ungeändert beschlossen
+- TOP 9.6.1: Flächennutzungsplan - Beitrittsbeschluss - ungeändert beschlossen
+- TOP 9.7: 1. Verlängerung einer Veränderungssperre im Bebauungsplan 344 - Lüttringhauser Straße - - ungeändert beschlossen
+- TOP 9.8: Anordnung einer Veränderungssperre im Bebauungsplan 954B - Döppersberg/Bundesallee - - ungeändert beschlossen
+- TOP 9.9: Errichtung einer Windkraftanlage auf dem Grundstück Erbschlö - Gründeponie (Kastenberg) - ungeändert beschlossen
+- TOP 9.9.1: Vorrangflächen Windkraftanlagen - zur Vorberatung verwiesen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Sanierung der Wupperbrücke Pestalozzistrasse - ungeändert beschlossen
+- TOP 10.2: Herrichtung des 2. baulichen Rettungsweges - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Schulentwicklungsplanung für die Berufskollegs gemeinsam mit den Städten Remscheid und Solingen - ungeändert beschlossen
+- TOP 11.2: Schließung von Gruppen in der städt. Tageseinrichtung für Kinder Am Deckershäuschen 63 / Röttgen 100 - ungeändert beschlossen
+- TOP 11.3: Mitgliedschaft der Stadt Wuppertal im QUALLIANZ e.V. - ungeändert beschlossen
+- TOP 11.4: Rettungsdienstbedarfsplan - ungeändert beschlossen
+- TOP 11.5: Gewährung eines Zuschusses an den Betriebssportkreisverband Wuppertal e.V. - ungeändert beschlossen
+- TOP 11.6: Gewährung eines Zuschusses an den Trägerverein Kletterzentrum Wuppertal e.V. - ungeändert beschlossen
+- TOP 11.7: Zuschuss an den TSV Fortuna Wuppertal e. V. zur Errichtung einer Flutlichtanlage auf der Bezirkssp - ungeändert beschlossen
+- TOP 11.8: Zuschuss an den Lichtbund Wuppertal e.V. zur Sanierung des Vereinshauses auf der vereinseigenen Spo - ungeändert beschlossen
+- TOP 11.9: Zuschuss an die Segler - Vereinigung Wuppertal zur Sanierung des Clubhauses an der Bevertalsperre / - ungeändert beschlossen
+- TOP 11.10: Zuschuss an den SSV Sudberg e.V. zum Umbau der ehemaligen Platzwart-wohnung in zwei Dusch - und U - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Berufung von Mitgliedern mit beratender Stimme für den Schulausschuss - geändert beschlossen
+- TOP 12.2: Besetzung der Konferenz für Volkshochschule und Familienbildungsstätte - ungeändert beschlossen
+- TOP 12.3: Vertretung der Stadt Wuppertal im Landesverband der Volkshochschulen von Nordrhein-Westfalen e.V - ungeändert beschlossen
+- TOP 12.4: Benennung von Stellv. für die Verbandsversammlung des KDN - Dachverband kom. IT-Dienstleister - ungeändert beschlossen
+- TOP 12.5: 33. ordentliche Hauptversammlung des Deutschen Städtetages vom 31. Mai - 02. Juni 2005 in Berlin - ungeändert beschlossen
+- TOP 12.6: Gestaltungsbeirat - Neuberufung der Mitglieder - ungeändert beschlossen
+- TOP 12.7: Teilnahme von Sachverständigen an den Sitzungen des Schulausschusses - erledigt durch Beschluss zu einem anderen TOP
+- TOP 12.7.1: Berufung von Mitgliedern mit beratender Stimme für den Schulausschuss - erledigt durch Beschluss zu einem anderen TOP
+- TOP 12.8: Umbesetzungen in städtischen Gremien - ungeändert beschlossen
+- TOP 12.9: Bennenung weiterer Stellvertreter der Fraktion BÜNDNIS 90/DIE GRÜNEN in den städtischen Gremien - ungeändert beschlossen
+- TOP 12.10: Interfraktionelle Vereinbarung über die Besetzung der Ratsausschüsse mit sachkundigen Einwohnern in - geändert beschlossen
+- TOP 12.10.1: Wahl sachkundiger Einwohner - erledigt durch Beschluss zu einem anderen TOP
+- TOP 12.10.2: Ergänzungsantrag zu VO 3704/04, TOP 12.10 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 12.11: Bestellung eines Vertreters in der Zweckverbandsversammlung Verkehrsverbund Rhein-Ruhr - ungeändert beschlossen
+- TOP 12.12: Bestellung von zwei zusätzlichen sachkundigen Einwohnern mit beratender Stimme und zwei Stell - geändert beschlossen
+- TOP 12.13: Bildung einer Kommission zur Vorbereitung eines Grundsatzbeschlusses zur zukünftigen Entwicklung der - ungeändert beschlossen
+- TOP 12.14: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.15: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.16: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.17: Stellvertretende Mitglieder der CDU-Fraktion im Seniorenbeirat - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 13.1: Erwerb zusätzlicher SAP-Lizenzen - Dringlichkeitsentscheidung genehmigt
+- TOP 13.2: Öffentlich - rechtlicher Vertrag zur Gründung und Ausgestaltung der ARGE Wuppertal - Dringlichkeitsentscheidung genehmigt
+- TOP 13.3: Trägerversammlung der ARGE Wuppertal - Dringlichkeitsentscheidung genehmigt
+- TOP 16.1: Wird unter TOP 2.2 - öffentlicher Teil - behandelt
