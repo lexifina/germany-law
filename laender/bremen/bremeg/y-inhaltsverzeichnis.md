@@ -20,7 +20,7 @@ Vierter Abschnitt: Rahmenbedingungen für die Energiewirtschaft im Lande Bremen
 § 14 | Vorranggebiete
 § 15 | Öffentlichkeitsbeteiligung
 § 16 | Energiedienstleistungsunternehmen
-§ 17 | Einspeisung von Strom aus Kraft-Wärme-Kopplung
+§ 17 | (weggefallen)
 Fünfter Abschnitt: Sonstige Maßnahmen zur Einsparung von Energie
 § 18 | Anforderungen an die Errichtung und den Betrieb sonstiger Anlagen
 § 19 | Verbot des Neuanschlusses elektrischer Heizungen
