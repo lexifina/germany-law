@@ -1,0 +1,53 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2001-11-27T14:00:00+01:00
+- Ende: 2001-11-27T16:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZR8goZo9UCg-RGOtvM250VQ
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/669
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ3bhhyalROtiuy5T32Jfys5XkAzakVvZomLSweDvehI/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_27.11.2001.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: Vergbe von Zuschüssen an Selbsthilfegruppen und Initiativen - Sozialamt -
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Strukturelle Anpassung des ASS-Beschäftigungsprogrammes
+- TOP 6: Situation bei der Aufnahme und Unterbringung von Flüchtlingen und Aussiedlerinnen und Aussiedlern in Bochum
+- TOP 7: Einmaliger Heizkostenzuschusses des Bundes
+- TOP 8: Erteilung von rechtsmittelfähigen Bescheiden in der Sozialhilfe
+- TOP 9: Modellprojekt Sozialagenuren
+- TOP 10: Hilfeangebot "Betreutes Wohnen nach § 72 Bundessozialhilfegesetz (BSHG)" in Bochum
+- TOP 11: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 12: Städt. Zuschuss an Wildwasser Bochum e. V.
+- TOP 13: Gemeinsame Beratungsstelle "Jobkick"
+- TOP 14: Fallbearbeitungsquote in der Sozialhilfe
+- TOP 15: Beschlussvorschläge für den Rat
+- TOP 16: Anträge
+- TOP 17: Zwischenbericht zur Sozialplanung
+- TOP 18: Beschäftigungsprogramm "Arbeit statt Sozialhilfe" (ASS)
+- TOP 19: Erteilung von rechtsmittelfähigen Bescheiden in der Sozialhilfe
+- TOP 20: Betreuungsarbeit zwischen dem Gesundheitsamt und der Altenhilfe des Sozialamtes
+- TOP 21: Mitteilungen
+- TOP 22: Gesetz zur Gewährung eines einmaligen Heizkostenzuschusses
+- TOP 23: Anfragen
+- TOP 24: Vorübergehende Einrichtung eines Tagesaufenthaltes für alleinstehende Wohnungslose und andere Personen mit sozialen Schwierigkeiten
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: keine Tagesordnungspunkte
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 8: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 9: Beschlussvorschläge für den Rat
+- TOP 10: Anträge
+- TOP 11: Mitteilungen
+- TOP 12: Anfragen
