@@ -33,13 +33,14 @@ d)Soweit die Zahl der Studierenden innerhalb der Regelstudienzeit 1.000 übersch
 II.
 1. Unter Schulen im Sinne des Artikels 6 Abs. 1 und 2 des Konkordats sind die Grundschulen (Klasse 1 bis 4) zu verstehen.
 Bei den im Rahmen des Niedersächsischen Schulgesetzes bei der Zusammenlegung von Schulen zu treffenden Maßnahmen soll auf die bekenntnismäßige Zusammensetzung der Schülerschaft Rücksicht genommen werden.
-Vorhandene Vorklassen können nach Maßgabe des Niedersächsischen Schulgesetzes (NSchG) fortgeführt werden.
 2. Es bestehen folgende Ersatzschulen in kirchlicher Trägerschaft, die aus öffentlichen Schulen hervorgegangen sind:
-je eine Kooperative Haupt- und Realschule in Cloppenburg, Göttingen, Hannover, Lingen, Meppen, Oldenburg, Papenburg, Vechta, Wilchelmshaven, Wolfsburg und
-je zwei Kooperative Haupt- und Realschulen in Hildesheim und Osnabrück,
-Hauptschule - mit dem 5. und 6. Schuljahrgang - in Duderstadt.
-Die Hauptschule in Duderstadt kann im Einvernehmen mit dem Land und dem kommunalen Schulträger auf Antrag des kirchlichen Schuträgers um einen Realschulzweig zu einer Kooperativen Haupt- und Realschule erweitert werden.
-Über die Erweiterung von Kooperativen Haupt- und Realschulen um einen Gymnasialzweig und das Führen dieser Schulen als Ganztagsschulen werden Verhandlungen geführt, wenn die Diozösen dies begehren.
+je eine Haupt- und Realschule in Cloppenburg, Göttingen, Hannover, Lingen, Meppen, Oldenburg, Papenburg, Vechta, Wilhelmshaven und Wolfsburg,
+je zwei Haupt- und Realschulen in Hildesheim und Osnabrück,
+eine Hauptschule in Duderstadt.
+Die Hauptschule in Duderstadt kann im Einvernehmen mit dem Land und dem kommunalen Schulträger auf Antrag des kirchlichen Schulträgers zu einer Haupt- und Realschule erweitert werden.
+Das schulische Angebot an den Standorten der Ersatzschulen in Duderstadt, Göttingen und Wolfsburg kann auf Antrag des kirchlichen Schulträgers im Einvernehmen mit dem kommunalen Schulträger und mit Genehmigung des Kultusministeriums um ein Gymnasium des Sekundarbereichs I erweitert werden.
+Werden die vorgenannten Ersatzschulen nach Entscheidung des kirchlichen Schulträgers als Ganztagsschulen geführt, erfolgt die Kostenerstattung nach den entsprechenden Regelungen für die öffentlichen Ganztagsschulen.
+Über die Erweiterung des schulischen Angebots um ein Gymnasium des Sekundarbereichs I an den anderen Standorten werden Verhandlungen geführt, wenn die Diözesen dies begehren.
 Gemäß Abschnitt II der Anlage zu Artikel 7 des Gesetzes vom 25. Juni 2002 (Nds. GVBl. S. 312) werden die folgenden genannten Schulen bis zum 31. Juli 2008 in die in Abschnitt II Nummer 2 dieser Übereinkunft genannten Schulen umgewandelt:
 "Aus öffentlichen Schulen hervorgegangene und zum Teil um Realschulzweige erweiterte Ersatzschulen in kirchlicher Trägerschaft bestehen in folgenden Orten:
 Cloppenburg Orientierungsstufe Hauptschule
@@ -62,7 +63,7 @@ a) Einwohnerzahl, Ausdehnung und Verkehrsverhältnisse der betreffenden Gemeinde
 b) Veränderung der Bevölkerung nach Zahl und Gliederung,
 c) Stärke der jeweiligen Schuljahrgänge.
 Zwischen den Schulen nach Nummer 2 und allgemein bildenden Schulen in öffentlicher Trägerschaft ist eine Zusammenarbeit zu ermöglichen.
-4. Zur Dienstleistung an die in Nummer 2 genannten Schulen werden im niedersächsischen Landesdienst stehende Lehrkräfte unter Fortzahlung der Bezüge beurlaubt werden. Die Zeit der Beurlaubung wird bei der Anwendung beamtenrechtlicher Vorschriften einer im öffentlichen Schuldienst im Beamtenverhältnis verbrachten Beschäftigungszeit gleichgestellt.
+4. Zur Dienstleistung an die in Nummer 2 genannten Schulen werden mit ihrer Zustimmung im niedersächsischen Landesdienst stehende Lehrkräfte befristet oder unbefristet unter Fortzahlung der Bezüge beurlaubt. Die Zeit der Beurlaubung wird bei der Anwendung beamtenrechtlicher Vorschriften einer im öffentlichen Schuldienst im Beamtenverhältnis verbrachten Beschäftigungszeit gleichgestellt.
 Für die an den in Nummer 2 genannten Schulen beschäftigten Lehrkräfte, die nicht beurlaubte Landesbedienstete sind, erstattet das Land die tatsächlich geleisteten Bezüge oder Vergütungen bis zur Höhe der Bezüge oder Vergütungen einer vergleichbaren Lehrkraft an einer entsprechenden öffentlichen Schule.
 Daneben werden nach Maßgabe staatlicher Grundsätze
 a)die Arbeitgeberbeiträge zur Sozialversicherung und gesetzlichen Unfallversicherung und
@@ -72,11 +73,11 @@ Für beamtete Lehrkräfte der Kirchen im Schuldienst werden die Aufwendungen nac
 Zur Abgeltung sämtlicher sonstiger Personalausgaben zahlt das Land einen Pauschalbetrag in Höhe von 1 vom Hundert des Bezüge- oder Vergütungsaufwandes.
 Die Zahl der Lehrkräfte, für die das Land die Personalkosten trägt, richtet sich nach den für das öffentliche Schulwesen geltenden Maßstäben.
 5. Das Land wird die Bemühungen der Kirche unterstützen, die unentgeltliche Überlassung der erforderlichen Schulgebäude und -anlagen sowie die Übernahme der Hälfte der Sachkosten durch die bisherigen Schulträger zu erlangen.
-6. Das Land wird sich an den laufenden Sachkosten mit 15 vom Hundert des Gesamtbetrages beteiligen. Hierbei wird ein Betrag von 210 DM (15 vom Hundert von 1.400 DM) je Schüler pro Haushaltsjahr ab 1994 zu Grunde gelegt. Bei einer wesentlichen Veränderung der laufenden Sachkosten aller in Nummer 2 genannten Schulen kann jeder der Vertragsschließenden eine Anpassung dieses Betrages verlangen. Dabei wird als wesentlich eine Veränderung der laufenden Sachkosten um mehr als 10 vom Hundert gegenüber der letzten Festsetzung angesehen.
+6. Das Land wird sich an den laufenden Sachkosten mit 15 vom Hundert des Gesamtbetrages beteiligen. Hierbei wird ein Betrag von 107,37 Euro (15 vom Hundert von 715,80 Euro) je Schülerin und Schüler pro Haushaltsjahr ab 2002 zugrunde gelegt. Bei einer wesentlichen Veränderung der laufenden Sachkosten aller in Nummer 2 genannten Schulen kann jeder der Vertragsschließenden eine Anpassung dieses Betrages verlangen. Dabei wird als wesentlich eine Veränderung der laufenden Sachkosten um mehr als 10 vom Hundert gegenüber der letzten Festsetzung angesehen.
 Zu den sächlichen Kosten gehören nicht Schulbaukosten und Grunderwerbskosten für Schulzwecke. Im Übrigen findet § 113 Abs. 1 Satz 2 NSchG Anwendung.
 7. Die Investitionskosten sind vom kirchlichen Schulträger aufzubringen. Das Land beteiligt sich daran wie bei öffentlichen Schulträgern.
 8. § 114 NSchG ist für Schülerinnen und Schüler der in Nummer 2 genannten Schulen mit der Maßgabe anzuwenden, dass die Beförderungs- oder Erstattungspflicht auch für den Weg zu der nächsten dieser Schulen besteht, die den von der Schülerin oder dem Schüler verfolgten Bildungsgang anbietet.
-9. Abweichend von der sonst geltenden Freiheit der Schulen in freier Trägerschaft hinsichtlich der Aufnahme von Schülerinnen und Schülern darf der Anteil an nichtkatholischen Schülerinnen und Schülern in diesen kirchlichen Schulen 20 vom Hundert nicht übersteigen. Das Kultusministerium kann auf Antrag für einzelne Schulen ausnahmsweise einen höheren Anteil zulassen.
+9. Abweichend von der sonst geltenden Freiheit der Schulen in freier Trägerschaft hinsichtlich der Aufnahme von Schülerinnen und Schülern darf der Anteil an nichtkatholischen Schülerinnen und Schülern in diesen kirchlichen Schulen 30 vom Hundert nicht übersteigen. Das Kultusministerium kann im Einvernehmen mit dem kommunalen Schulträger auf Antrag des kirchlichen Schulträgers für einzelne Schulen ausnahmsweise befristet einen höheren Anteil zulassen.
 Wird der hiernach zulässige Anteil nichtkatholischer Schülerinnen und Schüler überschritten, nehmen diese Schulen an der vorstehenden Kostenregelung nicht teil. Für sie gelten die Bestimmungen über die Höhe der Finanzhilfe für Schulen in freier Trägerschaft.
 10. Kirchliche Trägerschaft besteht bei den in Nummer 2 genannten Schulen auch bei Überführung in eine der in Artikel 12 Abs. 2 des Konkordats vom 26. Februar 1965 genannten Institutionen.
 11. Die nachgeordneten Schulbehörden und der Landesrechnungshof sind berechtigt, bei den Schulen nach Nummer 2 und ihren Trägern alle die Geldleistungen des Landes betreffenden Angaben an Ort und Stelle zu überprüfen, die dazugehörigen Unterlagen einzusehen und Auskünfte zu verlangen.
