@@ -1,0 +1,6 @@
+# TOP A.18: Möglichkeiten der Solarenergienutzung auf Dächern öffentlicher Gebäude - Bericht -
+
+- Sitzung: Bau- und Umweltausschuss (2004-09-16)
+- Körperschaft: Stadt Herford
+- Öffentlich: ja
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/15689
