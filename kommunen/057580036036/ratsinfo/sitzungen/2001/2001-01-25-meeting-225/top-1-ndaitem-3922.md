@@ -1,0 +1,6 @@
+# TOP 1.: Bestellung einer Schriftführerin
+
+- Sitzung: SozA/ASJS (2001-01-25)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/3922
