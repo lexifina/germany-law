@@ -20,6 +20,7 @@ Abschnitt 2 Die Organe der Anstalt
 § 16 | Aufgaben und Arbeitsweise des Direktoriums
 § 17 | Organisation und Leitungsfunktionen
 § 18 | Berufsgruppenvertretung
+§ 18 a | Personalvertretungsrecht
 Abschnitt 3 Die Wirtschaft der Anstalt
 § 19 | Einahmen
 § 20 | Beteiligung an Unternehmen
@@ -28,6 +29,7 @@ Abschnitt 4 Rechte Dritter
 § 22 | Einsichtsrecht
 § 23 | Eingaben, Beschwerden
 § 24 | Gegendarstellungsrecht
+§ 24 a | Sendezeit für Dritte
 Abschnitt 5 Staatliche Befugnisse
 § 25 | Verlautbarungsrecht
 § 26 | Rechtsaufsicht

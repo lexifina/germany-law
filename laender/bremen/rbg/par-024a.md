@@ -1,0 +1,3 @@
+# § 24 a Sendezeit für Dritte
+(1) Parteien und Wählervereinigungen ist zur Vorbereitung der Wahlen zum Deutschen Bundestag und zum Europäischen Parlament angemessene Sendezeit entsprechend § 5 Abs. 1 bis 3 des Parteiengesetzes zur Eigendarstellung einzuräumen, wenn sie mit einem Wahlvorschlag zugelassen sind.
+(2) Der Intendant oder die Intendantin kann die Ausstrahlung der Sendung einer Partei oder Wählervereinigung ablehnen, wenn die Sendung die Würde des Menschen oder die religiösen und sittlichen Überzeugungen anderer Menschen verletzt, gegen die allgemeinen Gesetze verstößt oder nicht dem Zweck der Parteienwerbung dient.

@@ -1,0 +1,7 @@
+# § 19a Werbung, Sponsoring, Teleshopping
+(1) Für Werbung, Sponsoring und Teleshopping gelten die Bestimmungen des Rundfunkstaatsvertrages.
+(2) Für lokale oder regionale Fernsehprogramme, die im Lande Bremen veranstaltet werden, gilt Absatz 1 mit folgenden Maßgaben:
+1. § 7 Abs. 4 Satz 2 des Rundfunkstaatsvertrages findet keine Anwendung.
+2. § 44 Abs. 3 bis 5 des Rundfunkstaatsvertrages findet keine Anwendung; bei der Einfügung von Werbung und Teleshopping-Spots in Sendungen sind natürliche Unterbrechungen im Ablauf der Sendungen und die Länge der Sendungen zu berücksichtigen; der gesamte Zusammenhang und der Charakter der Sendung dürfen nicht beeinträchtigt werden; es darf nicht gegen die Rechte von Rechteinhabern verstoßen werden.
+3. §§ 45, 45a des Rundfunkstaatsvertrages finden keine Anwendung; Teleshopping-Fenster müssen klar als solche gekennzeichnet sein.
+Die Einzelheiten regelt die Landesmedienanstalt durch Satzung.
