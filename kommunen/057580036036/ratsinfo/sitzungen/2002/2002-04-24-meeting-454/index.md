@@ -1,0 +1,58 @@
+# Rat
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 2002-04-24T17:00:00+02:00
+- Ende: 2002-04-24T19:40:00+02:00
+- Ort: Rathaus, Lange Str. 60, 32602 Vlotho, Sitzungssaal
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZI7kUeS9-fuWBVzZby0D74
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/454
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf0uPpiE4EEcs-xsmv_3HHYub3tEp4-eoNWD_1O0POUg/Oeffentliche_Niederschrift_Rat_24.04.2002.pdf
+
+## Tagesordnung
+
+- TOP I.: A. Öffentliche Sitzung
+- TOP 1.: Einführung eines neuen Ratsmitgliedes
+- TOP 2.: Niederschrift über die 19. Sitzung vom 28.02.2002 - öffentlicher Teil -
+- TOP 3.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 3.1.: Erdgastarife
+- TOP 4.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 5.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 6.: Angelegenheiten des Kurzweckverbandes (Berichte und Beschlussfassungen)
+- TOP 7.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 7.1.: Änderung des Landschaftsplanes Vlotho des Kreises Herford im Bereich Timmerbergstraße / Klusweg - Einstimmig, 0 Enthaltung(en)
+- TOP 7.2.: Änderung des Landschaftsplanes Vlotho des Kreises Herford im Bereich Timmerbergstraße / Klusweg - Einstimmig, 0 Enthaltung(en)
+- TOP 7.3.: Änderung des Landschaftsplanes Vlotho des Kreises Herford im Bereich Timmerbergstraße / Klusweg - Einstimmig, 0 Enthaltung(en)
+- TOP 7.4.: Änderung des Landschaftsplanes Vlotho des Kreises Herford im Bereich Timmerbergstraße / Klusweg - Einstimmig, 0 Enthaltung(en)
+- TOP 7.5.: Änderung des Landschaftsplanes Vlotho des Kreises Herford im Bereich des Grundbesitzes Klusberg/Mittelweg - Einstimmig, 0 Enthaltung(en)
+- TOP 7.6.: Durchsetzung der Einhaltung der Verkehrsregeln an der oberen Valdorfer Straße hinteren bzw. unteren Südspange - Ohne Abstimmung
+- TOP 7.7.: Grundstücke Lubskostraße und obere Aubignystraße - Einstimmig, 0 Enthaltung(en)
+- TOP 7.8.: Grundstücke Lubskostraße und obere Aubignystraße "Extensive Begrünung" - Einstimmig, 0 Enthaltung(en)
+- TOP 7.9.: Verkehrsmaßnahmen in der Dornberger Heide - 22 Ja-Stimme(n), 11 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 7.10.: Neuvermessung der Vorrangflächen für Windkraftanlagen - 22 Ja-Stimme(n), 11 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 7.11.: Offenlegung der Vereinbarung mit den Betreibern der Windkraftanlagen - Ohne Abstimmung
+- TOP 7.12.: Keine weitere Genehmigung von Windkraftanlagen - 22 Ja-Stimme(n), 11 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 7.13.: Gegen Windkraftanlagen auf dem Hollenhagen - 22 Ja-Stimme(n), 11 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 7.14.: Gegen die Errichtung von Windkraftanlagen im Stadtgebiet Vlotho, insbesondere in unserer unmittelbaren Nähe auf dem Solterberg - 22 Ja-Stimme(n), 11 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 7.15.: Genehmigung von Windkraftanlagen in den Bereichen der im Flächennutzungsplan der Stadt Vlotho ausgewiesenen Vorrangflächen für die Errichtung und den Betrieb von Windkraftanlagen - 22 Ja-Stimme(n), 11 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 7.16.: Gegen die Errichtung einer Windenergieanlage bzw. -anlagen Steinegge; Portablick - 22 Ja-Stimme(n), 11 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 8.: Vorrangflächen für Windenergieanlagen im Stadtgebiet -Bereich Hollenhagen- a) Aufstellung des Bebauungsplanes E 11 "Windenergieanlagen Hollenhagen" b) Erlass einer Veränderungssperre für den Bereich des Bebauungsplanes E 11 "Windenergieanlagen Hollenhagen" - 22 Ja-Stimme(n), 11 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 9.: Vorrangflächen für Windenergieanlagen im Stadtgebiet -Bereich Solterwisch- a) Aufstellung des Bebauungsplanes E 12 "Windenergieanlagen Solterwisch" (Bereich zwischen Herforder Straße - L778- und Bundesautobahn A2) b)Erlass einer Veränderungssperre für den Bereich des Bebauungsplanes E 12 "Windenergieanlagen Solterwisch" - 22 Ja-Stimme(n), 11 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 10.: Einrichtung einer Verbraucherberatungsstelle
+- TOP 11.: Genehmigung zur Leistung von außerplanmäßigen Haushaltsausgaben bei Produkt-Nr. 180 032 003 (bisheriger Unterabschnitt 570 - Waldfreibad) - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Beteiligung der Stadt Vlotho am Kompass-Projekt der Bertelsmann Stiftung - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Verschmelzung des Wohnungsfürsorgevereines Herford e.V. mit der Bau- und Siedlungsgenossenschaft für den Kreis Herford e.G. - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk Valdorf III - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Stromlieferungsverträge mit dem Elektrizitätswerk Minden-Ravensberg - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Ausbau der Anliegerstraße "Eggeweg" zwischen den Grundstücken Eggeweg 9/10 und der Kreuzung Borlefzener Kirchweg und Vorbereitung des Restausbaues 2003 - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: Ausbau der Gehweganlage (Reststück) an der Herforder Straße zwischen Einmündung Bökenwiese/Lüdekingsgarten und Ausbauende hier: Leistung einer außerplanmäßigen Haushaltsausgabe - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Ausbau des Sole-Radweges zwischen der Stadtgrenze Bad Salzuflen und der Kreuzung Hollenhagen/Glimkestraße parallel der Detmolder Straße (L 772) hier: Leistung einer überplanmäßigen Haushaltsausgabe für die Erarbeitung der Entwurfsplanung - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Fraktionsanträge gem. § 3 der Geschäftsordnung
+- TOP 19.1.: Änderung des Bebauungsplanes U 1 Uffeln - Ortsmitte im Bereich Mindener - Gartenstraße/ Blumenring - Einstimmig, 0 Enthaltung(en)
+- TOP 19.2.: Beseitigung von Herkulesstauden im Stadtgebiet - Einstimmig, 0 Enthaltung(en)
+- TOP 19.3.: Fusion der beiden Energieunternehmen EMR und PESAG - Einstimmig, 0 Enthaltung(en)
+- TOP 19.4.: Neuer Aussenanstrich für das Burgrestaurant - Einstimmig, 2 Enthaltung(en)
+- TOP 19.5.: Ausschussumbesetzung - Einstimmig, 0 Enthaltung(en)
+- TOP 20.: Anfragen nach § 18 der Geschäftsordnung und Mitteilungen
