@@ -1,0 +1,53 @@
+# Sitzung des Rates am 29.03.2004 - Haushaltsplanberatungen
+
+- Körperschaft: Instance 0001
+- Beginn: 2004-03-29T00:00:00+02:00
+- Ende: 2004-03-29T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/2998
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/2998
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00034190.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Haushaltsplanentwurf 2004/2005 einschließlich Investitionsprogramm und Stellenplan
+- TOP 1.2: 1. Veränderungsnachweisung zum Haushaltsplanentwurf 2004/2005 - ungeändert beschlossen
+- TOP 1.3: 2. Veränderungsnachweisung zum Haushaltsplanentwurf 2004/2005 - ungeändert beschlossen
+- TOP 1.4: Empfehlungen von Fachausschüssen zum Haushaltsplanentwurf 2004/2005 - Entgegennahme ohne Beschluss
+- TOP 1.5: Empfehlungen von Bezirksvertretungen zum Haushaltsplanentwurf 2004/2005 - Entgegennahme ohne Beschluss
+- TOP 1.6: Umsetzung der bereits beschlossenen Maßnahmen zur Haushaltskonsolidierung - Entgegennahme ohne Beschluss
+- TOP 1.7: Weitere Haushaltskonsolidierungsmaßnahmen zum Haushaltsplanentwurf 2004/2005 - geändert beschlossen
+- TOP 1.7.1: Freie Mittel Bezirksvertretungen - ungeändert beschlossen
+- TOP 1.7.2: Hundesteuer - ungeändert beschlossen
+- TOP 1.7.3: Straßenbeleuchtung - zur Vorberatung verwiesen
+- TOP 1.7.4: Änderungsantrag zu Drs. VO/2619/04 - geändert beschlossen
+- TOP 1.7.5: Antrag zur Forcierung der Bergischen Kooperationvon Volkshochschulen und FamilienbildungsstättenAntr - ungeändert beschlossen
+- TOP 1.7.6: Änderungsantrag zu VO/2619/04 - geändert beschlossen
+- TOP 1.7.7: Pauschale Darstellung von Kürzungen im Sozial- und Jugendbereich verhindern - zur Vorberatung verwiesen
+- TOP 1.8: Einzeldrucksachen mit Auswirkungen auf den Haushaltsplanentwurf 2004/2005
+- TOP 1.8.1: Umsetzung der Offenen Ganztagsschule im Primarbereich im Schuljahr 2004/2005
+- TOP 1.8.2: Ganztagsgrundschulen in Wuppertal - vertagen
+- TOP 1.8.3: Änderungsantrag zu VO/2624/03
+- TOP 1.8.4: Änderungsantrag zur VO/2624/04/1 - Anlage 2
+- TOP 1.8.5: Änderungsantrag zum Haushaltsplanentwurf 2004/2005 - Einzelplan 27 - VO/2624/04/1-Neuf - zur Vorberatung verwiesen
+- TOP 1.8.6: Medienentwicklungsplan für die Schulen der Stadt Wuppertal - geändert beschlossen
+- TOP 1.8.7: Änderung der Verleih- und Nutzungsordnung für das Medienzentrum der Stadt Wuppertal - geändert beschlossen
+- TOP 1.8.8: Sanierung des Gartenhallenbades Langerfeld - ungeändert beschlossen
+- TOP 1.8.9: Globalzuschuss Haushaltsstellen - ungeändert beschlossen
+- TOP 1.8.10: Beantragung eines weiteren TOP zu VO/1989/03 - in der Sache erledigt
+- TOP 1.8.11: Anträge freier Träger aus dem Jugend- und Sozialbereich zum Haushaltsplan 2004/2005 - in der Sache erledigt
+- TOP 1.8.12: Haushaltsberatungen - Reduzierung der Zuschüsse im Bereich d. Betreuung v.Flüchtlingen /Aussiedlern - geändert beschlossen
+- TOP 1.8.13: Zukunft der Freiwilligen Feuerwehr Vohwinkel
+- TOP 1.9: Anträge der Fraktionen
+- TOP 1.9.1: Änderungsantrag zum Haushaltsplanentwurf 2004/2005 - EP 3320 Orchester und Konzerte - ungeändert beschlossen
+- TOP 1.9.2: Änderungsantrag zum Haushaltsplanentwurf 2004/2005 - Einzelplan 3320 Orchester und Konzerte - ungeändert beschlossen
+- TOP 1.10: Einwendungen gegen den Haushaltsplanentwurf 2004/2005
+- TOP 1.11: 3. Veränderungsnachweisung zum Haushaltsplanentwurf 2004/2005 - ungeändert beschlossen
+- TOP 1.12: Haushaltssatzung 2004/ 2005 - ungeändert beschlossen
+- TOP 1.13: Beschlüsse - ungeändert beschlossen
+- TOP 2: Fragestunde
+- TOP 2.1: Zweitwohnsitze
