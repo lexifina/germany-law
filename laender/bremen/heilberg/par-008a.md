@@ -1,0 +1,3 @@
+# § 8a
+(1) Die Kammern haben dafür Sorge zu tragen, dass Maßnahmen der Qualitätssicherung im Tätigkeitsbereich der Kammerangehörigen entwickelt und umgesetzt werden. Sie sind an Qualitätssicherungsvorhaben Dritter zu beteiligen, soweit Belange der jeweiligen Kammerangehörigen betroffen sind. Sie sollen auf eine Koordinierung ähnlicher Vorhaben hinwirken, soweit diese in verschiedenen Einrichtungen durchgeführt werden.
+(2) Die Kammern sollen von den Kammerangehörigen die zur Qualitätssicherung nach Absatz 1 erforderlichen Daten aus der Berufsausübung erheben und nach Auswertung dieser Daten Empfehlungen aussprechen.

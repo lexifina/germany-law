@@ -1,0 +1,1 @@
+# Gesetz über die Berufsvertretung, die Berufsausübung, die Weiterbildung und die Berufsgerichtsbarkeit der Ärzte, Zahnärzte, Psychotherapeuten, Tierärzte und Apotheker (Heilberufsgesetz - HeilBerG) in der Fassung vom 15. April 2005
