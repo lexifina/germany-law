@@ -1,0 +1,59 @@
+# 28. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2004-05-27T16:00:00+02:00
+- Ende: 2004-05-27T17:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=435
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=435
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=20676
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mitteilungen des Vorstehers V_29 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Personelles/Wahlen - gegenstandslos
+- TOP 6.1: Wahl der Schiedspersonen für die Schiedsamtsbezirke Treptow-Köpenick 1 bis 3 - vertagt
+- TOP 6.2: Abberufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Berufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Abberufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.5: Berufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Beschlussvorlagen - erledigt
+- TOP 7.1: Sondermittel für Förderverein für Montessori-Pädagogik in Friedrichshagen e.V. (SM 408) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Sondermittel für Bürgerverein Wilhelmshagen-Rahnsdorf e.V. (SM 420) - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Sondermittel für Förderverein Freiwillige Feuerwehr Bohnsdorf e.V. (SM 428) - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Sondermittel für I.Q. 1185 e.V. (SM 429) - ohne Änderungen in der BVV beschlossen
+- TOP 7.5: Sondermittel für Kunstfabrik Köpenick GmbH (SM 433) - ohne Änderungen in der BVV beschlossen
+- TOP 7.6: Sondermittel für Berliner Sportverein AdW e.V. (SM 435) - ohne Änderungen in der BVV beschlossen
+- TOP 7.7: Sondermittel für Kreisjugendring e.V. (SM 438) - ohne Änderungen in der BVV beschlossen
+- TOP 7.8: Sondermittel für Alte Möbelfabrik e.V. (SM 440) - mit Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 8.1: Bezirkliche Aktivitäten im FEZ - vertagt
+- TOP 8.2: Bauvorhaben "Ausbau der Paradiesstraße von Parchwitzer Straße bis Siebweg" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Marketingstrategie für Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Lokale Agenda, Kinder und Verkehrssicherheit - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Nutzung des Fußgängerbereiches - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Umsatzentwicklung in der Köpenicker Altstadt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.7: Kostenmanagement - ohne Änderungen in der BVV beschlossen
+- TOP 8.8: Steganlagenkonzeption Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Einsetzen einer "Arbeitsgruppe Europa" (AG Europa) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.10: Auszeichnung für Internetauftritte von Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.11: Mietervertretungen - vertagt
+- TOP 9: Anträge - gegenstandslos
+- TOP 9.1: Südostverbindung über die Spree - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Regenbogenfahnen an den Fahnenmasten - überwiesen
+- TOP 9.3: Fusionsgrundsätze - überwiesen
+- TOP 9.4: Historische Nutzung des Grenzwachturms "Am Schlesischen Busch" - überwiesen
+- TOP 9.5: Wachturm Schlesischer Busch - im Ältestenrat zurückgezogen
+- TOP 9.6: Pace-Fahne - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Schulentwicklungsplanung I - überwiesen
+- TOP 9.8: Erhalt Wasserwerk Altglienicke - überwiesen
+- TOP 9.9: Graffitibeseitigung - überwiesen
+- TOP 9.10: Schulentwicklungsplanung II - überwiesen
+- TOP 9.11: Erweiterung der Linksabbiegespur Adlergestell / Köpenicker Straße - überwiesen
