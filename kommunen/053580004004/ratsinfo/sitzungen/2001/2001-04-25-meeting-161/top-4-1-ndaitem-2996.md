@@ -1,4 +1,4 @@
-# TOP 4.1.: Grundstücksangelegenheiten
+# TOP 4.1.: Verkauf einer Straßenteilfläche in Aldenhoven-Siersdorf
 
 - Sitzung: Gemeinderat (2001-04-25)
 - Körperschaft: Gemeinde Aldenhoven
