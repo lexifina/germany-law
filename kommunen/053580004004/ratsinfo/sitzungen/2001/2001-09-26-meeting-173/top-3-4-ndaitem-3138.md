@@ -1,4 +1,4 @@
-# TOP 3.4.: Schulangelegenheiten
+# TOP 3.4.: Antrag der Johannesschule Siersdorf auf bauliche Ergänzung der Johannesschule
 
 - Sitzung: Schul- und Sozialausschuss (2001-09-26)
 - Körperschaft: Gemeinde Aldenhoven
