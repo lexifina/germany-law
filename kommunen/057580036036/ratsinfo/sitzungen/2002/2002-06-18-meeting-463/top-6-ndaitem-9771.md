@@ -1,0 +1,6 @@
+# TOP 6.: Oberflächenentwässerung im Bereich Bonneberg hier: Vorstellung der Vorentwurfsplanung (mündl. Vortrag Dipl.-Ing. Brombach)
+
+- Sitzung: AU (2002-06-18)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/9771
