@@ -1,4 +1,4 @@
-# TOP 4.2.: Grundstücksangelegenheiten
+# TOP 4.2.: Übertragung des Grundstückes Gemarkung Aldenhoven, Flur 16, Nr. 62
 
 - Sitzung: Gemeinderat (2001-04-25)
 - Körperschaft: Gemeinde Aldenhoven
