@@ -14,7 +14,7 @@ Zweiter Teil Einwohner und Bürger des Landkreises
 § 9 Rechtsstellung der Einwohner
 § 10 Unterrichtung und Beratung der Einwohner
 § 11 Petitionsrecht
-§ 12 Anschluß- und Benutzungszwang
+§ 12 Anschluß-' und Benutzungszwang
 § 13 Bürger des Landkreises
 § 14 Wahlrecht
 § 15 Ehrenamtliche Tätigkeit
