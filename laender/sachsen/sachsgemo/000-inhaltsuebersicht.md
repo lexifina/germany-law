@@ -1,3 +1,4 @@
+## Gemeindeordnung für den Freistaat Sachsen (SächsGemO)
 # Inhaltsübersicht
 Erster Teil Rechtsstellung, Aufgaben und Gebiet der Gemeinde
 Erster Abschnitt Rechtsstellung und Aufgaben
@@ -147,4 +148,4 @@ Sechster Teil Sonstige Vorschriften
 § 129 Sonstige Verwaltungsvorschriften
 § 130 Änderung des Sächsischen Brandschutzgesetzes
 § 131 Übergangsvorschriften
-§ 132 Inkrafttreten
+§ 132 In-Kraft-Treten
