@@ -39,7 +39,7 @@ e) Urlaub | 90, 90 a
 f) Dienstjubiläen | 91, 92
 g) Personalakten | 93-93 h
 h) Vereinigungsfreiheit | 94
-i) Dienstzeugnis | 95
+i) Dienstliche Beurteilung, Auswahlverfahren, Dienstzeugnis | 95, 95 a
 3. Beamtenvertretung | 96, 97
 Abschnitt IV
 Versorgung | 98-158 (weggefallen)

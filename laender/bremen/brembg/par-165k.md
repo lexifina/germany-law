@@ -1,4 +1,0 @@
-## 8. Rektoren
-# § 165 k
-(1) Die Rektoren der Universität und der Hochschule Bremen werden für die Dauer von fünf Jahren zu Beamten auf Zeit ernannt; dies gilt nicht, wenn der zum Rektor Gewählte bereits Beamter des Landes oder der Stadtgemeinde Bremen ist. § 6 Abs. 4 Satz 3 gilt entsprechend.
-(2) § 42 Abs. 2 Satz 1 und 2 findet keine Anwendung. Der zum Beamten auf Zeit ernannte Rektor tritt nach Ablauf seiner Amtszeit nur dann in den Ruhestand, wenn er eine Dienstzeit von mindestens zehn Jahren in einem Beamtenverhältnis mit Dienstbezügen zurückgelegt hat oder aus einem Beamtenverhältnis auf Lebenszeit zum Beamten auf Zeit ernannt worden war. Tritt er nicht in den Ruhestand, ist er entlassen. Er kann auf seinen Antrag wegen Erreichens der Altersgrenze des § 42 Abs. 1 Satz 1 in den Ruhestand versetzt werden; Satz 2 findet Anwendung, wenn er eine Amtszeit als Rektor von mehr als fünf Jahren zurückgelegt hat.
