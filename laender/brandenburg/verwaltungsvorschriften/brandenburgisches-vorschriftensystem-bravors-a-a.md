@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2001-05-23 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/akt_mpu_eigrl_bus_2001
+- Datum: 2001-10-18 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/auslandsuebernachtungsgeld_2001
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -26,13 +26,20 @@ A |
 |
 
 Aktuelle Fassung
+Anlagen (1)
 
-Richtlinie für die amtliche Anerkennung von medizinisch-psychologischen Untersuchungsstellen (MPU) in der Neufassung vom 12. Juli 1992;
-Richtlinie für die Prüfung der körperlichen und geistigen Eignung von Fahrerlaubnisbewerbern und -inhabern (Eignungsrichtlinie - EigRL);
-Richtlinie für die Ausbildung der Bewerber um eine Fahrerlaubnis zur Fahrgastbeförderung in Kraftomnibussen (Busfahrer-Ausbildungsrichtlinie)
+Auslandsreisekostenverordnung - ARV - Auslandsübernachtungsgeld nach § 3 Absatz 1 Satz 3 ARV -
 
-vom 23. Mai 2001
+vom 18. Oktober 2001
 
-(ABl./01, [Nr. 25], S.439)
+(ABl./01, [Nr. 47], S.782)
 
-Kein Text vorhanden.
+Nach § 3 Abs.1 Satz 3 der ARV kann das Auslandsübernachtungsgeld in begründeten Ausnahmefällen über die in Satz 1 genannte Höhe hinaus gewährt werden, wenn und soweit die nachgewiesenen notwendigen Übernachtungskosten das Auslandsübernachtungsgeld für die gesamte Auslandsdienstreise übersteigen.
+
+Im Interesse einer einheitlichen Anwendung im Bereich des Landesbeamtengesetzes wird gebeten, die mit dem beigefügten Rundschreiben des Bundesministeriums des Innern vom 20. September 2001 bekannt gegebene Verfahrensweise zur Berechnung des Auslandstagegeldes in diesen Fällen zu beachten.
+
+Anlagen
+
+1
+
+Anlage zum Rundschreiben des Ministeriums der Finanzen vom 18. Oktober 2001 97.4 KB
