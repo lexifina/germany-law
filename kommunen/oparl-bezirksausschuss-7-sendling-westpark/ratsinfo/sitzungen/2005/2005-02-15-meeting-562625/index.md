@@ -1,0 +1,97 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2005-02-15T20:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/562625
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/562625
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3: Genehmigung der Tagesordnung
+- TOP 4: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.1.: Mittlerer Ring Südwest; Empfehlung Nr. 26 der BV vom 17.11.04
+- TOP 0.1.: Anzeige der Abfahrtszeit der Linie 151 an Haltestelle Waldfriedhofstraße
+- TOP 0.1.: UA 07 - Bau und Umwelt - 17.01.2005
+- TOP 0.2.: UA 07 - Verkehr - 25.01.2005
+- TOP 5: Baumfällungen
+- TOP 5.1.: Penzberger Str. 3 Fällung zweier Tannen Hr. Kramm
+- TOP 5.2.: Aichacher Str. 23 Fällung einer Lärche Hr. Dr.Bader
+- TOP 5.3.: Billrothstr.9 Fällung einer Kiefer Fr. Mitkin
+- TOP 5.4.: Slevogtstr. 25 Fällung eines Ahorn Hr. Dr. Bader
+- TOP 5.5.: Garmischer Str. 193 Fällung zweier Bäume Hr. Nagel
+- TOP 5.6.: Innerkoflerstr. 23 Fällung einer Fichte Hr. Stahsdorf
+- TOP 5.7.: Grünstr. 22 Fällung einer Birke Hr. Dr. Bader
+- TOP 5.8.: Weilheimer Str. 6 Fällung einer Robinie Hr. Kramm
+- TOP 6: Baumfällungen / Bauvorhaben
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.: Rottenbucher Str. 48 Fr. Merkel
+- TOP 7: Westparkveranstaltungen
+- TOP 7.1.: Münchner Adventjugend Info-Stand 10 mal im Jahr
+- TOP 7.2.: Veranstaltungen im Sardischen Haus (siehe extra Auflistung im Sitzungsordner)
+- TOP 7.3.: Internationale Begegnungsfest 2005 Spielwiese am See 17. Juli
+- TOP 7.4.: ESV München-Neuaubing Volkslauf 13.03.05
+- TOP 7.5.: MobilSpiel e.V. Spielfest auf der großen Spielwiese 24.04.05
+- TOP 8.1.: Einziehung einer Wegestrecke; Fußweg , östlich der Edelsbergstraße
+- TOP 10: Referat für Gesundheit und Umwelt
+- TOP 10.2.: Schließung der Mütter-/ Väterberatungsstellen
+- TOP 11.1.: Sprengelbildung für die neu zu errichtende Grundschule an der Pfeuferstraße
+- TOP 12: Allgemeines
+- TOP 12.1.: Sanierungsprogram Westpark 2. Bauabschnitt - Tei A -Versickerung und Rreinigung der Seen im Ostteil
+- TOP 12.2.: Nulltoleranz gegenüber Schmutzfinken und keine Fixerspritzen auf Spielplätzen
+- TOP 14: Kreisverwaltungsreferat
+- TOP 14.1.: Verkehrsrechtliche Anordnung; Änderung der Park- und Verkehrsregelung im Bereich der Eichstätter-, Ludwigshafener- und Westendstraße
+- TOP 14.2.: Entwurmung der Füchse im Stadtgebiet München
+- TOP 14.3.: Verkehrsrechtliche Anordnung Höltystr.8
+- TOP 15: Lokalbaukommission
+- TOP 15.1.: Bauvorhaben
+- TOP 17: Personal- und Organisationsreferat
+- TOP 17.1.: Fortschreibung der Machbarkeitsstudie Bürgerzentren; Konzentration regionaler städtischer Dienststellen in ausgewählten Stadtteilzentren
+- TOP 16: Referat für Stadtplanung und Bauordnung
+- TOP 16.1.: Wie ist das Verhältnis von Radfahrverkehr zum motorisierten Individual- und Wirtschaftsverkehr ?
+- TOP 17.1.: Sachverständige für Migrationsfragen; Interkulturell orientiertes Qualitätsmanagement; Vorschlag zur Auswahl der Regionen
+- TOP 18.1.: Schüler- und Klassenzahlen an den städt. und staatl. Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art für das Schuljahr 2004/2005
+- TOP 18.2.: Schüler/innen und Klassenstand; Berufliche Schulen der LH-München für das Jahr 2004/2005
+- TOP 18.3.: Schüler- und Klassenzahlen an den städt. Realschulen, staatl. Realschulen und der städt. Franz-Auweck-Abendschule
+- TOP 18.4.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen für das Schuljahr 2004/2005
+- TOP 18.5.: Bereinigtes Einschreibeergebnis für das Kindergartenjahr/Schuljahr 2004/2005
+- TOP 19: Bürgerschreiben
+- TOP 19.1.: Internationales Begegnungsfest 2005
+- TOP 19.2.: Gehölzarbeiten an der BAB 96
+- TOP 19.3.: Unterstüzung für Feierwerk e.V.
+- TOP 19.4.: Suche nach Jugendtreff
+- TOP 20.1.: BA-Veranstaltungen zur BUGA München 2005
+- TOP 20.2.: Lärm- und Abgasschutzmaßnahmen ; Rubihornweg
+- TOP 20: Bezirksausschüsse
+- TOP 20.1.: Vergabe von Zuschüssen nur für Veranstalter von Kulturprogrammen in barrierefreien Räumen
+- TOP 20.2.: Übermittlung der Standorte an alle Mobilfunkbetreiber und Aufnahme dieser Einrichtungen in die Suchkreismeldungen
+- TOP 20.3.: TOP-Bus ; Fahrplan der Linie 134
+- TOP 22: Referat für Stadtpalnung und Bauordnung
+- TOP 22.1.: Bauvorhaben Partnachplatz 1
+- TOP 22.2.: Werbeanlagen
+- TOP 22.3.: Nutzungsänderung Ortlerstr. 8
+- TOP 22.4.: Vollzug der Baumschutzverordnung
+- TOP 23.1.: Kommunales Wohnungsbauförderungsprogramm; Partnachplatz / Albert-Roßhaupter-Straße 80a
+- TOP 23.2.: Wahl der Seniorenvertretung 2005; Veranstaltungen in den Stadtbezirken
+- TOP 4.&nbsp;: Bürgerversammlungsempfehlung
+- TOP 0: Anträge
+- TOP 0: Anträge und Berichte aus den Unterausschüssen
+- TOP 0: Berichte der Beauftragten
+- TOP 0: Anhörungen
+- TOP 0: Baumschutz:
+- TOP 8: Baureferat (1)
+- TOP 11: Schul- und Kultusreferat (1)
+- TOP 0: Unterrichtung
+- TOP 12: Baureferat (2)
+- TOP 17: Sozialreferat (1)
+- TOP 18: Schul- und Kultusreferat (2)
+- TOP 0: Schriftverkehr
+- TOP 20: Baureferat (3)
+- TOP 23: Sozialreferat (2)
+- TOP 0: Verschiedenes
+- TOP 2: Nachträglich in die Tagesordnung aufzunehmen
