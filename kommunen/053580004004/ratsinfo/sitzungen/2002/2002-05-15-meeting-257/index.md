@@ -1,0 +1,55 @@
+# Gemeinderat
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2002-05-15T18:00:00+02:00
+- Ende: 2002-05-15T22:00:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZeLilTnOmReZHJSA6fZvjq4
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/257
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYAC_m1rFYp7QYJ0ayUAagC9ODuqAv9VUiXRezzs4-re/Oeffentliche_Niederschrift_Gemeinderat_15.05.2002.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 18.02.2002 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1.: Bauleitplanung 26. Änderung des Flächennutzungsplanes - Freialdenhoven - hier: a) Beschluss zu den eingegangenen Bedenken und Anregungen während der Offenlage b) Feststellungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2.: Bauleitplanung Bebauungsplan 41 S - Am Wittstock - hier: a) Abschluss eines städtebaulichen Vertrages gemäß § 11 BauGB b) Aufstellungsbeschluss gemäß § 2 BauGB für den Bebauungsplan 41 S - Am Wittstock - c) Beschluss über die Bürgerbeteiligung gemäß § 3 Abs. 1 BauGB sowie die frühzeitige Beteiligung der Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3.: Ausbau der Kreisstraßen 11 und 12 im Zuge der Ortsdurchfahrten Freialdenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 3.4.: Bauleitplanung Bebauungsplan 15 A - 15. Änderung - hier: a) Abschluss eines städtebaulichen Vertrages gemäß § 11 BauGB b) Aufstellungsbeschluss gemäß § 2 BauGB für die 15. Änderung des Bebauungsplanes 15 A c) Beschluss über die Bürgerbeteiligung gemäß § 3 Abs. 1 BauGB sowie die frühzeitige Beteiligung der Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB - 22 Ja-Stimme(n), 4 Nein-Stimme(n), 1 Stimmenthaltung(en)
+- TOP 3.5.: Sanierung Rasenplatz der Sportanlage in Freialdenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+- TOP 4.1.: Einrichtung einer eingruppigen Kindertageseinrichtung in Aldenhoven-Freialdenhoven hier: Übernahme der Trägerschaft - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2.: Fortschreibung Schulentwicklungsplan - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 5.1.: Einrichtung einer eingruppigen Kindertagesstätte in Aldenhoven-Freialdenhoven hier: Übernahme der Trägerschaft - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Beschluss zum Ausbau der ehemaligen Schule in Freialdenhoven
+- TOP 7.: Fortschreibung des Schulentwicklungsplanes 2002 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Bekanntgabe des Ergebnisses der Jahresrechnung 2001 - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Neue Straßenbezeichnung im Baugebiet "Pestalozziring" Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: ZAR - Beitritt zur EuRegionale 2008
+- TOP 11.: Mitteilungen und Anfragen.
+- TOP 12.: Verschiedenes.
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 18.02.2002 -nichtöffentlicher Teil-.
+- TOP 2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.1.: Antrag auf Übernahme einer Baulast auf dem gemeindeeigenen Wirtschaftsweg Gemarkung Engelsdorf, Flur 1, Flurstück 25 - 26 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 2.2.: Antrag auf Übernahme einer Baulast auf dem gemeindeeigenen Wirtschaftsweg Gemarkung Aldenhoven, Flur 22, Flurstück 53 - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 3.1.: Beauftragung der Erstellung eines Sanierungskonzepts und Durchführung der PCB-Sanierung im B-Trakt der Käthe-Kollwitz-Schule in Aldenhoven - 22 Ja-Stimme(n), 3 Nein-Stimme(n), 2 Stimmenthaltung(en)
+- TOP 3.2.: Übertragung eines Industriegrundstückes in Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Verkauf einer Teilfläche aus der gemeindeeigenen Straßenparzelle Gemarkung Aldenhoven, Flur 3 Nr. 1008, Martin-Luther-Str., - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Flurbereinigung Inden - Erstellung einer ökologischen Ausgleichsfläche - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Antrag des Landschaftsverbandes Rheinland/Rheinisches Amt für Denkmalpflege auf Eintragung der Pfarrkirche St. Martin in die Denkmalliste der Gemeinde Aldenhoven. - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Abschluss eines Nutzungsvertrages für die Errichtung von Windkraftanlagen auf gemeindeeigenen Grundstücken - 26 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 8.: Beschaffung und Errichtung einer weiteren Urnen-Stelengruppe für den Friedhof Siersdorf - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Ausbau der Aula der Hauptschule hier: Vertragliche Vereinbarung - 14 Ja-Stimme(n), 7 Nein-Stimme(n), 6 Stimmenthaltung(en)
+- TOP 10.: Rasensportplatz Freialdenhoven
+- TOP 11.: Containerklassen für die Käthe-Kollwitz-Realschule Aldenhoven aus Anlass der PCB-Sanierung - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Abschluss von Verträgen; hier: Gemeinde WOGA/GlückAuf-Aldenhoven - 5 Ja-Stimme(n), 21 Nein-Stimme(n), 1 Stimmenthaltung(en)
+- TOP 13.: Mitteilungen und Anfragen.
+- TOP 14.: Verschiedenes.
