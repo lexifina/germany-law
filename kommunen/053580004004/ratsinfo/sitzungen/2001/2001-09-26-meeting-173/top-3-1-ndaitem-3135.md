@@ -1,4 +1,4 @@
-# TOP 3.1.: Schulangelegenheiten
+# TOP 3.1.: Fortschreibung des Schulentwicklungsplanes der Gemeinde Aldenhoven
 
 - Sitzung: Schul- und Sozialausschuss (2001-09-26)
 - Körperschaft: Gemeinde Aldenhoven
