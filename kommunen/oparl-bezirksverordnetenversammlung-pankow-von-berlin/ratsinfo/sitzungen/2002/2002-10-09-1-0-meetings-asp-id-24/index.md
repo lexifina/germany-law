@@ -1,0 +1,65 @@
+# 9. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2002-10-09T17:30:00+02:00
+- Ende: 2002-10-09T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=24
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=24
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - beantwortet
+- TOP 1.2: Abstimmung über die Tagesordnung - beantwortet
+- TOP 1.3: Dringlichkeitsanträge - beantwortet
+- TOP 1.3.1: Zuwendungsbescheide für Projekte Freier Träger im Bereich Gesundheit und Soziales für das Jahr 2003 - ohne Änderungen in der BVV beschlossen
+- TOP 1.4: Mündliche Anfrage - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.5: Bericht des Bezirksamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.6: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.7: Neutraler Bezirksname - ohne Änderungen in der BVV beschlossen
+- TOP 1.8: Zuwendung Insolvenzberatung - überwiesen
+- TOP 1.9: Erhalt des Künstlerhofes Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Vorderhaus Danziger Straße 50 - beantwortet
+- TOP 1.11: Kein Durchgangsverkehr durch den Helmholtzkietz! - in der BVV abgelehnt
+- TOP 1.12: Besuch von Schulklassen in der ehemaligen zentralen Haftanstalt des MfS - mit Änderungen in der BVV beschlossen
+- TOP 1.13: Investitionsplanung 2003 bis 2007 - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Umweltpreis Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Keine Wendeschleife in der Berliner Straße - überwiesen
+- TOP 1.16: Mehr Bürgerbeteiligung und Transparenz bei Bebauungsplanverfahren - überwiesen
+- TOP 1.17: Wahlkampfkultur 2002 - beantwortet
+- TOP 1.18: Fahrradfahren auf Wegen in Parks und Grünanlagen in Pankow - überwiesen
+- TOP 1.19: Kindertagesstätten-Entwicklungsplanung (KEP) - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Kompetenz im Verkehr für die Bezirke - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Schleichverkehr in der Nisblestraße und im Kalvinistenweg - in der BVV abgelehnt
+- TOP 1.22: Verlängerung Esplanade zur Grüntaler Straße - in der BVV abgelehnt
+- TOP 1.23: Rechtsverordnung zur Kündigungsbeschränkung bei Wohnungsumwandlung - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Wochenendöffnungszeiten sozialer Einrichtungen als Fördervoraussetzung - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Radwegeverbindung parallel zur B 109 nach Wandlitz - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Veränderung der Verkehrszeichenregelung Tempo 30 mit Zusatzschild, Rosenthaler Weg in Französisch Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Benennung eines Vertreters der BVV in den Vorstand des Vereins zur Förderung der Städtepartnerschaft mit Kolobrzeg - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Verschönerung des Stadtbildes - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex II - (offen)
+- TOP 2.1: Bäderschließung in Berlin - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Botanische Anlagen in Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Wohnhaus Kuglerstraße 11 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Verkehrsberuhigung um den Solonplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Kleingartenbeirat - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Benennung des Platzes zwischen Gustav-Adolf-Straße und der Prenzlauer Promenade (vor der " Brotfabrik") mit dem Namen Caligariplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Künstlerhof Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Geschlechtergerechter Haushalt - ein erster Schritt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Seniorenwohnen in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Erhalt der Seniorenbegegnungs- und Freizeitstätten im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Verbesserung des Kontaktes zu Senioren im Alter zwischen 75 und 80 Jahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Für seniorengerechtes Wohnen und gegen Einsamkeit im Alter - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Überlassung von bezirkseigenen Räumen an Sportvereine - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Projekt "Tanz gegen Rechts" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Vermüllung Teich Hansastraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Kürzungen der Jugendberufshilfe - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Beschluss über die Festsetzung des Bebauungsplanes IV-61 als Rechtsverordnung gemäß § 6 Abs. 5 AGBauGB für das Grundstück Liselotte-Herrmann-Straße 29, Hans-Otto-Straße 23 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Einhaltung des Nachtflugverbots von und zum Flughafen Tegel - mit Zwischenbericht zur Kenntnis genommen
