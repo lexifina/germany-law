@@ -49,15 +49,12 @@ Abschnitt VI
 Beamte der Bremischen Bürgerschaft | 165
 Abschnitt VI a Beamte an Hochschulen
 1. Allgemeines | 165 a
-2. Professoren | 165 b-165 d
-3. Wissenschaftliche und künstlerische Assistenten | 165 e
-4. Oberassistenten, Oberingenieure | 165 f
-5. Hochschuldozenten | 165 g
+2. Professoren | 165 b und-165 d
+3. Juniorprofessoren | 165 e
 6. Dienstrechtliche Sonderregelungen | 165 h
 7. Wissenschaftliche und künstlerische Mitarbeiter | 165 i
 8. Rektoren | 165 k
-9. Der Kanzler der Universität | 165 l
-10. Übergangsbestimmungen | 165 m
+9. Kanzler | 165 l
 Abschnitt VII
 Ehrenbeamte | 166
 Abschnitt VIII
