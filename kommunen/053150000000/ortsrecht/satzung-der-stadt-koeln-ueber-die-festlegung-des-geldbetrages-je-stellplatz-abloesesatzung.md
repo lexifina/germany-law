@@ -1,16 +1,16 @@
 # Satzung der Stadt Köln über die Festlegung des Geldbetrages je Stellplatz (Ablösesatzung)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2003-10-15 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/1._Änderungssatzung_der_stadt_köln_über_die_festlegung_des_geldbetrages_je_stellplatz__ablösesatzung__vom_15.10.03.pdf
+- Datum: 2004-02-25 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/2._Änderungssatzung_der_stadt_köln_über_die_festlegung_des_geldbetrages_je_stellplatz__ablösesatzung__vom_25.02.04.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Satzung der Stadt Köln über die Festlegung des Geldbetrages je Stellplatz (Ablösesatzung)
-vom 9. November 2001 in der Fassung der 1. Satzung zur Änderung der Satzung der Stadt Köln über die Festlegung des Geldbetrages je Stellplatz (Ablösesatzung) vom 15. Oktober 2003
-- ABl. StK 2001 S. 509 ff, 2003 S. 1 Der Rat der Stadt Köln hat in seiner Sitzung am 11.09.2001 aufgrund des § 51 Abs. 5 der Bauordnung für das Land Nordrhein-Westfalen vom 01.03.2000 - BauO NRW (GV NW S. 256) und der §§ 7 und 41 der Gemeindeordnung für das Land NordrheinWestfalen in der Fassung der Bekanntmachung vom 14.07.1994 (GV NW S. 666/SGV NW 2023) diese Satzung beschlossen:
+vom 9. November 2001 in der Fassung der 2. Satzung zur Änderung der Satzung der Stadt Köln über die Festlegung des Geldbetrages je Stellplatz (Ablösesatzung) vom 25. Februar 2004
+- ABl. StK 2001 S. 509 ff, 2003 S. 1, 2004 S. 1 Der Rat der Stadt Köln hat in seiner Sitzung am 11.09.2001 aufgrund des § 51 Abs. 5 der Bauordnung für das Land Nordrhein-Westfalen vom 01.03.2000 - BauO NRW (GV NW S. 256) und der §§ 7 und 41 der Gemeindeordnung für das Land NordrheinWestfalen in der Fassung der Bekanntmachung vom 14.07.1994 (GV NW S. 666/SGV NW 2023) diese Satzung beschlossen:
 Präambel:
 § 51 Abs. 1 der Bauordnung für das Land Nordrhein- Westfalen in der Fassung der Bekanntmachung vom 01.03.2000 (BauO NRW) geht u.a. davon aus, dass bauliche oder sonstige Anlagen, bei denen Zugangs - und Abgangsverkehr mittels Kraftfahrzeug zu erwarten ist, nur errichtet werden dürfen, wenn Stellplätze oder Garagen hergestellt werden. Diese sind gem. § 51 Abs. 3 BauO NRW auf dem Baugrundstück oder auf einem geeigneten Grundstück in der näheren Umgebung, dessen Benutzung für diesen Zweck öffentlich-rechtlich gesichert ist, herzu- stellen. Die nachstehende Satzung geht grundsätzlich von dem Bestehen der vorgeschriebenen Herstellungspflichten aus, es sei denn die Bauordnung NRW selbst sieht eine andere Regelung vor (z.B. eine Untersagung oder Einschränkung der Herstellung oder Sonderregelungen für Dachgeschossausbau zu Wohnzwecken, § 51 Abs. 4 und 9 BauO NRW). Sie trifft Regelungen für die Fälle, in denen notwendige Stellplätze oder Garagen nicht oder nur unter großen Schwierigkeiten hergestellt werden können, oder die Herstellung aufgrund einer Satzung nach § 51 Abs. 4 Nr. 2 BauO NRW untersagt oder eingeschränkt ist, und deshalb auf die Herstellung der notwendigen Stellplätze verzichtet werden kann (§ 51 Abs. 5 BauO NRW). Die Entscheidung über den Verzicht auf die Herstellung wird nach pflichtgemäßem Ermessen getroffen; ein Rechtsanspruch auf den Verzicht der Stadt Köln besteht grundsätzlich nicht. Die eingenommenen Geldbeträge zur Stellplatzablösung sind nach § 51 Abs. 6 BauO NRW zweckgebunden zur Herstellung zusätzlicher öffentlicher Parkeinrichtungen im Gemeindegebiet, für investive Maßnahmen zur Verbesserung des öffentlichen Personennahverkehrs oder für investive Maßnahmen zur Verbesserung des Fahrradverkehrs zu verwenden.
 Seite 1 von 5
@@ -33,8 +33,8 @@ b) für Wohnungen mit mindestens 35 m² Wohnfläche in neu zu errichtenden Gebä
 - die mindestens 2 selbständige Wohnungen mit einer Gesamtwohnfläche von mindestens 200 m² enthalten,
 c) bei öffentlich geförderten Wohnbauvorhaben, die mit einem Belegungsrecht oder Miethöhenvereinbarungen verbunden sind,
 d) bei Bauvorhaben, die für öffentliche Zwecke genutzt werden sollen, e) bei Baudenkmälern gem. § 3 des Denkmalschutzgesetzes des Landes
-Nordrhein-Westfalen in der jeweils geltenden Fassung, f) bei Bauvorhaben von Gewerbebetrieben mit bis zu fünf Beschäftigten
-und bis zu 150 qm Nutzfläche, mit Ausnahme von Spielhallen und Gaststätten
+Nordrhein-Westfalen in der jeweils geltenden Fassung, f) bei Bauvorhaben von Gewerbebetrieben mit bis zu zehn Beschäftigten
+und bis zu 300 qm Nutzfläche, mit Ausnahme von Spielhallen und Gaststätten
 in der Gebietszone I 3.800,- €, in der Gebietszone II 2.650,- €.
 4. Liegen zwei oder mehrere Voraussetzungen des § 2 Abs. 3, Buchstaben a), c) bis e) dieser Satzung gleich- zeitig vor, so beträgt unter Zugrundelegung eines Vomhundertsatzes von 10 v.H. gemäß § 51 Abs. 5 Satz 4 BauO NRW der je Stellplatz zu zahlende Geldbetrag
 in der Gebietszone I 1.900,- €, in der Gebietszone II 1.300,- €.
