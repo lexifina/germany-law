@@ -1,0 +1,111 @@
+# 16. Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2003-04-09T17:00:00+02:00
+- Ende: 2003-04-09T22:31:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=319
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=319
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Stellung des Jugendparlamentes - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Kooperation mit dem museumspädagogischen Dienst Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Sicherer Fußgängerüberweg zur Post am Zeltinger Platz in Frohnau - überwiesen
+- TOP 5.3: Streckenführung des Rostock-Express - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Qualifizierung der Wirtschaftsregion Nord-West - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Unterhaltssäumige Väter in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Konzept zur Steigerung der Organspendebereitschaft - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.7: Geplanter Übergang der Jugendfarm Lübars in freie Trägerschaft - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.8: Mehr Säure-Selbsttests zur Erkennung der bakteriellen Vaginose - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Beteiligung Reinickendorfer Kultur-Projekte am EU-Förderprogramm - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.10: Info-Veranstaltungen zu medizinischen Themen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Weiterbildungsmaßnahmen in Teilzeit für Mütter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Verstärkte Kontrollen auf dem Uferweg Borsigdamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Übertragung der Jugendfarm Lübars - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.14: Gehwegparken in der Ruppiner Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Optimierung der Beschilderung an den U- und S-Bahnhöfen KBoN - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.16: Illegale Nutzung des Straßenlandes konsequent verfolgen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.17: Bewerbungstraining an der VHS - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.18: Sicherung des alten Gebäudes des S-Bahnhofs Tegel - überwiesen
+- TOP 5.19: Endlich die notwendigen Ampeln in der Provinzstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.20: Krankenhausbeiräte mit Vivantes-Vertretern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.21: Vorklassen in Kitas - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.22: Verbesserte Bürgerinformation bezüglich defekter Gaslaternen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.23: Information über das ab 01. Januar 2003 geltende Dosenpfand - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.24: Bevorzugte Anschaffung von erdgasbetriebenen Fahrzeugen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.25: Wohnungsbauförderung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.26: Freigabe der Investitionsmittel 2003 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.27: Fortsetzung des Schul- und Sportstättensanierungsprogramms - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.28: Instandsetzung der Wegweisung zu den S-Bahnhöfen Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.29: Erfahrungsbericht des Patientenfürsprechers des Krankenhauses Reinickendorf in der Vivantes GmbH - örtlicher Bereich Humboldt-Krankenhaus - für das Jahr 2002 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.30: Entwurf des Bebauungsplanes 12-4 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.31: Aufstellung des Bebauungsplanes 12-8 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.32: Entwurf des Bebauungsplanes XX - 291 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.33: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Hortplätze im Waldseeweg - was geschah mit dem potenziellen Hortplatz-Standort? - beantwortet
+- TOP 7: (nichtöffentlich) - (offen)
+- TOP 7.1: Benennung eines Mitgliedes der Bezirksverordnetenversammlung Reinickendorf als stellvertretendes Beiratsmitglied im bezirklichen Krankenhausbeirat der VIVANTES-Netzwerk für Gesundheit GmbH - vertagt
+- TOP 7.2: Wahl einer/eines Bezirksbehindertenbeauftragten - vertagt
+- TOP 7.3: Verordnung über die Verlängerung der Veränderungssperre XX - 291/41 - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Bericht über wohnortnahe Deutschkurse an der VHS - erledigt
+- TOP 8.2: Lärm macht krank - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Einrichtung einer Waldschule in Reinickendorf - vertagt
+- TOP 8.4: Maßnahmen für die schnelle Erfassung von Müllablagerungen im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Tourismuskonzept umwelt- und naturgerecht gestalten - vertagt
+- TOP 8.6: Informationstafel am S-Bahnhof Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Verkehrsberuhigung in der Namslaustraße - vertagt
+- TOP 8.8: Ansehen bewahren, Regeln für den Sitzungsablauf der Bezirksverordnetenversammlung aufstellen - überwiesen
+- TOP 8.9: Verbindungsweg zwischen Wilhelm-Blume-Allee und Ziekowstraße - erledigt
+- TOP 8.10: Kooperation zwischen der VHS und anderen Bildungsträgern - vertagt
+- TOP 8.11: Aufgabenstellung der BVV und ihrer Mitglieder - ohne Änderungen in der BVV beschlossen
+- TOP 8.12: Änderung der Geschäftsordnung - vertagt
+- TOP 8.13: Betriebskosten senken - ohne Änderungen in der BVV beschlossen
+- TOP 8.14: Markt am Rathaus qualifizieren - ohne Änderungen in der BVV beschlossen
+- TOP 8.15: Brutplätze für den "Vogel des Jahres 2003" - ohne Änderungen in der BVV beschlossen
+- TOP 8.16: Müllvermeidung und Recycling statt Müllverbrennung - vertagt
+- TOP 8.17: Bezirksverordnetenversammlung fordert Kiezbus in Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.18: Verunreinigungen des Erdreichs am Interessentenweg nachgehen - ohne Änderungen in der BVV beschlossen
+- TOP 8.19: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 8.20: Geschwindigkeitsbegrenzung vor dem Haupteingang zur Jugendfarm Lübars in der Quickborner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 8.21: Beibehaltung von Qualitätsstandards bei Übertragung von Kindertagesstätten an freie Träger - ohne Änderungen in der BVV beschlossen
+- TOP 8.22: Teilnehmerbestätigung bei der VHS - ohne Änderungen in der BVV beschlossen
+- TOP 8.23: Regularien für Bürgersprechstunde - ohne Änderungen in der BVV beschlossen
+- TOP 8.24: Entfernung ortsfremder Bäume in Kleingartenanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Sicherung von Nachwuchskräften im öffentlichen Dienst - ohne Änderungen in der BVV beschlossen
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Folgen der Abschaffung von ABM und SAM - überwiesen
+- TOP 10.2: Rechnungsausstellung für VHS-Teilnehmer - überwiesen
+- TOP 10.3: Informationen für Wassersportler verbessern - überwiesen
+- TOP 10.4: Angebot "HeizEnergieCheck" des Umweltbundesamtes als Link auf Reinickendorfer Homepage - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Hinweis auf Girls' Day am 08. Mai 2003 - vertagt
+- TOP 10.6: Optimierung des Buskonzeptes - überwiesen
+- TOP 10.7: Bundesbau-Sonderprogramm "Verlässliche Ganztagsschule" - überwiesen
+- TOP 10.8: Bezirkliche Einrichtung exemplarisch auf Solarenergie umstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Überprüfung von Mietverträgen von Sozialhilfeempfängern - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Kein Holz auf ausgewiesenen Reitwegen - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sicherstellung der Mobilität von Behinderten - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Meldung über Infektionserkrankungen künftig sicher übermitteln - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Gemeinsame Reitwegemarke in Berlin und Brandenburg - überwiesen
+- TOP 11.5: Ausreichende Personalmittel zur Sprachstandserhebung - überwiesen
+- TOP 11.6: Tore an den Wildschutzzäunen - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Bessere Ausschilderung der Reitwege - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Ampelphase Vierrutenberg / Zabel-Krüger-Damm - ohne Änderungen in der BVV beschlossen
+- TOP 12: Lernmittel - ohne Änderungen in der BVV beschlossen
+- TOP 13: Geldleistung statt Sachleistung nach § 3 Asylbewerberleistungsgesetz - in der BVV abgelehnt
+- TOP 14: Schulstationen - überwiesen
+- TOP 15: Unterbringung von Asylbewerbern in Wohnungen - überwiesen
+- TOP 16: Erhalt der Seelsorge im Humboldt-Klinikum - ohne Änderungen in der BVV beschlossen
+- TOP 17: Doppelhaushalt 2004/2005 - ohne Änderungen in der BVV beschlossen
