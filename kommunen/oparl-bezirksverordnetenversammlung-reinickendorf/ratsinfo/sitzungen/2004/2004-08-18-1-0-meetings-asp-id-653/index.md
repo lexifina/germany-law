@@ -1,0 +1,79 @@
+# 30. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2004-08-18T17:00:00+02:00
+- Ende: 2004-08-18T21:25:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=653
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=653
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=23939
+
+## Tagesordnung
+
+- TOP 1: Mitteillungen - ohne Änderungen in der BVV beschlossen
+- TOP 2: Dringlichkeitsanträge - ohne Änderungen in der BVV beschlossen
+- TOP 2.1: Verbesserung der Verkehrs- und Parksituation im Bereich der Brodersenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Mittelkürzung für das Projekt "FreiFrau" - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - ohne Änderungen in der BVV beschlossen
+- TOP 5: Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen
+- TOP 5.1: Berücksichtigung sozialer Aspekte beim Abbau von Briefkästen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.2: Einhaltung der Sicherheitsstandards für das Krankenhaus des Maßregelvollzugs - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.3: Erweiterung der kardiologischen Behandlungsmöglichkeiten im Dominikus-Krankenhaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Standort Wiesengrund - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.5: Sicherstellung originärer Rettungsaufgaben durch die Feuerwehr - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Organspende - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Gemeinsam gegen Rechtsextremismus - Ziviles Engagement fördern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Girl´s Day 2004 - überwiesen
+- TOP 5.9: Sportplatz Königshorster Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Don Cato Umwelt-Europameisterschaft 2004 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - überwiesen
+- TOP 6.1: "Gender Mainstreaming" jetzt umsetzen - in der BVV zurückgezogen
+- TOP 6.2: Sachstand zum Thema "Hort an Schule" - beantwortet
+- TOP 6.3: Bauberatungszentrum - beantwortet
+- TOP 6.4: Ergebnisse des Interessenbekundungsverfahrens - beantwortet
+- TOP 6.4.1: Projekte im Bereich der Greenwichpromenade - überwiesen
+- TOP 6.5: Ausbau der Schulzendorfer Straße - beantwortet
+- TOP 6.6: Wie bürgerfreundlich sind Reinickendorfs Bürgerämter wirklich? - überwiesen
+- TOP 6.7: Bürgerschaftliches Engagement fördern - beantwortet
+- TOP 7: Vorlagen zur Beschlussfassung - überwiesen
+- TOP 7.1: Wahl einer Patientenfürsprecherin für die Klinik Wiesengrund - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Entwurf des Bebauungsplanes XX-92-1 - überwiesen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - überwiesen
+- TOP 8.1: Gewaltprävention durch Reinickendorfer Sportvereine - in der BVV abgelehnt
+- TOP 8.2: Schnellstmögliche Behandlung von Schlaganfallpatienten - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Informationsveranstaltungen zum Übergang an Oberschulen - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Kindergeburtstag im Heimatmuseum - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Verbesserung des Gesundheitsbewusstseins von Kindern - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Modellprojekt "5. Klasse-Start Realschule" - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Gen-Food - in der BVV abgelehnt
+- TOP 8.8: Gastanks in Kleingärten - erledigt
+- TOP 8.9: Betreuungsangebot Erpelgrund-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Intranet - ohne Änderungen in der BVV beschlossen
+- TOP 8.11: Deutsch für Nichtbeamte - in der BVV abgelehnt
+- TOP 8.12: Unterstützung der Kampagne "Hinsehen.Handeln.Helfen!" - ohne Änderungen in der BVV beschlossen
+- TOP 8.13: Teilnahme Reinickendorfer Oberschulen am Programm "WiS - Wissenschaft in die Schulen!" - ohne Änderungen in der BVV beschlossen
+- TOP 8.14: Insektenfreundliche und Energie sparende Außenbeleuchtung in den waldnahen Außenbereichen des Bezirks Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.15: Erwerb der deutschen Staatsangehörigkeit in feierlichem Rahmen - ohne Änderungen in der BVV beschlossen
+- TOP 8.16: Einrichtung einer zweisprachigen Kita als Zeichen der Verbundenheit mit Frankreich - ohne Änderungen in der BVV beschlossen
+- TOP 8.17: Radweg-Ausschilderung Ludwig-Lesser-Park - erledigt
+- TOP 8.18: Beteiligung an der Solardachbörse - ohne Änderungen in der BVV beschlossen
+- TOP 8.19: Finanzhilfen aus dem Gemeindeverkehrsfinanzierungsgesetz (GVFG) - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - ohne Änderungen in der BVV beschlossen
+- TOP 9.1: Änderung der Geschäftsordnung - überwiesen
+- TOP 10: Ersuchen - überwiesen
+- TOP 10.1: Beteiligung an der Aktion "Gewalt kommt nicht in die Tüte" - in der BVV zurückgezogen
+- TOP 10.2: Fahrradabstellplätze am S-Bhf. Frohnau - überwiesen
+- TOP 10.3: Varianten für den Ausbau der Schulzendorfer Straße - überwiesen
+- TOP 10.4: Vorliegende Planung zum Ausbau der Schulzendorfer Straße - überwiesen
+- TOP 10.5: Bürgerschaftliches Engagement zur Grünflächenpflege unterstützen - überwiesen
+- TOP 10.6: U-Bahnausgänge Schlossplatz/Bernstorffstraße/Berliner Straße - überwiesen
+- TOP 10.7: Schulische Aktivitäten zur Grünflächenpflege - überwiesen
+- TOP 11: Empfehlungen - überwiesen
+- TOP 11.1: Schulung "Erste Hilfe am Kleinkind" - überwiesen
+- TOP 11.2: Beantragte Zügigkeit für Ganztagsschulen einrichten - überwiesen
+- TOP 11.3: Bessere Beleuchtung der Provinzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Gewässerfreigabe für führerscheinfreie Hausboote - überwiesen
