@@ -59,7 +59,7 @@ Teil 5 Personalversammlung
 § 53 Teilnahmerecht
 Teil 6 Stufenvertretungen und Gesamtpersonalrat
 § 54 Stufenvertretungen
-§ 55 Entsprechenende Anwendung der Personalvertretungsvorschriften
+§ 55 Entsprechende Anwendung der Personalvertretungsvorschriften
 § 56 Gesamtpersonalrat
 § 57 Wahl, Amtszeit und Geschäftsführung
 Teil 7 Besondere Vertretungen
