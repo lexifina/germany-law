@@ -12,9 +12,9 @@ Erster Abschnitt Organisatorische Vorschriften
 Zweiter Abschnitt Verfahrensvorschriften
 § 8 Einreichung und Stellungnahme
 § 9 Ungültige Stimmen
-§ 10 Feststellung der formellen Voraussetzungen
-§ 11 Zuständigkeit, Verfahren und Entscheidung des Verfassungsgerichtshofs
-§ 12 Entscheidung über die Verfassungsmäßigkeit des Gesetzentwurfes
+§ 10 Prüfung durch den Landtagspräsidenten
+§ 11 Zuständigkeit und Verfahren des Verfassungsgerichtshofs
+§ 12 Entscheidung des Verfassungsgerichtshofs
 § 13 Veröffentlichung
 § 14 Behandlung im Landtag
 § 15 Kosten
