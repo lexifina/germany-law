@@ -1,8 +1,8 @@
 # (3) Die Grenzen des Schutzgebietes sind in einer topographischen Übersichtskarte des Regierungspräsidiums Leipzig
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 1999-07-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/15148.1
+- Datum: 2001-11-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/15148.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -306,6 +306,11 @@ für bergtechnisch erforderliche Arbeiten zur Rekultivierung und Bergsicherung a
 14.
 
 für die Aufforstung der an den Bach anschließenden Bereiche (Flurstücke 331 bis 339, Gemarkung Zschochau) mit auenwaldtypischen Baum- und Straucharten, soweit keine Vorkommen gefährdeter Arten betroffen sind, in einer maximalen Breite von 10 m und nach Herstellung des Einvernehmens mit der zuständigen Naturschutzbehörde.
+
+§ 5a
+
+Die in den §§ 4 und 5 festgelegten Verbote, Gebote und Maßgaben für die land-, forst- und fischereiwirtschaftliche Bodennutzung gelten nicht, solange und soweit sich der Nutzungsberechtigte durch schriftliche Vereinbarung mit der Naturschutzbehörde oder im Einvernehmen mit der Naturschutzbehörde zur Einhaltung der dort ausgesprochenen Vorgaben verpflichtet hat.
+1
 
 § 6
 
