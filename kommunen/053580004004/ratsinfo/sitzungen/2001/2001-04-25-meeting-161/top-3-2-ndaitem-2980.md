@@ -1,4 +1,4 @@
-# TOP 3.2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+# TOP 3.2.: Satzung über die Festlegung der Grenzen für den im Zusammenhang bebauten Ortsteil Aldenhoven-Siersdorf (§ 34 Abs. 4 Satz 1 Nr. 1 BauGB) unter Einbeziehung einzelner Außenbereichsgrundstücke (§ 34 Abs. 4 Satz 1 Nr. 1 BauGB in Verbindung mit § 34 Abs. 4 Satz 1 Nr. 3 BauGB) a) Beschluss über die eingegangenen Bedenken und Anregungen b) Satzungsbeschluss
 
 - Sitzung: Gemeinderat (2001-04-25)
 - Körperschaft: Gemeinde Aldenhoven
