@@ -1,0 +1,68 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2005-03-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/610954
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/610954
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Bahnunterführung Allacher Straße; Keine Wiederherstellung der Verkehrsinsel an der Westseite; Versetzung der Pfosten in der Unterführung sowie Zurücksetzung der Pfosten zur Ausfahrt Angerlohstraße ( Empfehlung Nr. 34 der Bürgerversammlung vom 16.11.04 )
+- TOP 5.: Anhörungen
+- TOP 5.1.: Neue Form der Feste junger Erwachsener
+- TOP 5.2.: Busanbindung der sog. Waldkolonie an den S - Bahnhof Allach bzw. an das Zentrum von Allach
+- TOP 5.3.: Eversbuschstr. 104: Errichtung einer beleuchteten Werbetafel
+- TOP 5.4.: Eversbuschstr. 210: Errichtung einer beleuchteten Werbetafel
+- TOP 6.: Schreiben der Stadtverwaltung
+- TOP 6.1.: Schreiben des Direktoriums
+- TOP 6.1.1: Zuwendungsbewilligung aus dem Budget der Bezirksausschüsse; Antragsteller: Fluchtpunkt - Verein für Jugendpflege und Jugendhilfe e. V.
+- TOP 6.2.: Schreiben des Baureferates
+- TOP 6.2.1: Einladung zu einer Informationsveranstaltung am 06.04.05
+- TOP 6.2.2: Radweg an der Ludwigsfelder Straße ( Antrag Nr. 2673 vom 14.12.04 )
+- TOP 6.3.: Schreiben des Kommunalreferates
+- TOP 6.3.1: Denk - / Ensembleschutz FlSt. 79, 80 Gemarkung Allach, Eversbuschstr. 159, 161
+- TOP 6.3.2: Flächenmanagement / Vortrag vom 16.02.05
+- TOP 6.4.: Schreiben des Kreisverwaltungsreferates
+- TOP 6.4.1: Aufhebung Z 283 StVO Kupfferstr. 3
+- TOP 6.4.2: Antrag auf Fortführung des Gaststättenbetriebes " Bistro Anadolu ", Eversbuschstr. 74
+- TOP 6.4.3: Antrag auf Fortführung des Gaststättenbetriebes " Hotel Eversbuschhof ", Eversbuschstr. 74
+- TOP 6.4.4: Antrag auf Fortführung des Gaststättenbetriebes " Achilles ", Manzostr. 37
+- TOP 6.5.: Schreiben des Referates für Stadtplanung und Bauordnung
+- TOP 6.5.1: Vollzug der BaumschutzVO
+- TOP 6.5.1.1: Herbigstr. 1; 1 Rotfichte und 1 Lärche
+- TOP 6.5.2: Bauanträge ( vom 07.02. - 13.02., 14.02. - 20.02.05 )
+- TOP 6.5.3: Boden - und Bauschuttrecycling - Anlage in München / Münchner Westen
+- TOP 6.6.: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 6.6.1: Broschüre " München. Der Wirtschaftsstandort 2005 "
+- TOP 7.: Sonstige Schreiben
+- TOP 8.: Stadtrats- und Ausschussbeschlüsse
+- TOP 8.1.: Schulausschuss vom 16.02.05
+- TOP 8.1.1: Anpassung des städtischen Kindergartenversorgungsziels / Grundsatzbeschluss
+- TOP 8.2.: Umweltausschuss vom 01.03.05
+- TOP 8.2.1: Keine Genehmigung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage und einer Erdenbörse durch die Fa. Schernthaner GmbH an der Goteboldstr. 100
+- TOP 8.2.2: Kieswerk / Betonwerk am Paul - Ehrlich - Weg; Keine Genehmigung für die Errichtung und den Betrieb einer Beton - Recyclinganlage auf dem Gelände des Kieswerks / Betonwerks am Paul - Ehrlich - Weg; Keine Erweiterung des Kieswerks, des Betonwerks und der Asphaltmischanlage am Paul - Ehrlich - Weg
+- TOP 8.3.: Gemeinsame Sitzung des Kinder - und Jugendhilfeausschusses, des Sozialhilfeausschusses und des Sozialausschusses vom 01.03.05
+- TOP 8.3.1: Zuschussnehmerdatei 2005; Vollzug des Haushaltsplanes 2005 für den Bereich " Förderung freier Träger " des Sozialreferates / Zentrale
+- TOP 8.3.2: Zuschussnehmerdatei 2005; Vollzug des Haushaltsplanes 2005 für den Bereich " Förderung freier Träger " des Amtes für Soziale Sicherung
+- TOP 8.3.3: Zuschussnehmerdatei 2005; Vollzug des Haushaltsplanes 2005 für den Bereich " Förderung freier Träger " des Amtes für Wohnen und Migration
+- TOP 8.3.4: Zuschussnehmerdatei 2005; Vollzug des Haushaltsplanes 2005 für den Bereich " Förderung freier Träger " des Stadtjugendamtes
+- TOP 8.4.: Ausschuss für Stadtplanung und Bauordnung vom 02.03.05
+- TOP 8.4.1: Fortschreibung des Zentrenkonzeptes - Nahversorgung in München
+- TOP 8.4.2: Dachauer Straße ( beidseitig ), zwischen Würmkanal, Karlsfelder Straße ( nördlich ), Otto - Warburg - Straße, Mannertstraße, Gerberau und Bauschingerstraße - Gelände der Firma MAN -
+- TOP 8.4.3: Wohnen in München III, Wohnungsbauprogramm 2005 / 2006, Zustimmung zu den Maßnahmen
+- TOP 8.4.4: Abgeschlossenheitsbescheinigungen udn Abbruchanzeigen im Jahr 2004
+- TOP 8.5.: Bauausschuss vom 08.03.05
+- TOP 8.5.1: Baumfällungen und Baumpflanzungen im öffentlichen Grün
+- TOP 8.5.2: Maßnahmen gegen das Abstellen von Anhängern und gewerblich genutzten Fahrzeugen / Gewerbebedarf auf öffentlichem Verkehrsgrund
+- TOP 9.: Verschiedenes
