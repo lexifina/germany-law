@@ -1,0 +1,102 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2004-12-17T16:04:00+01:00
+- Ende: 2004-12-17T19:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/198
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/198
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Stv. Hohlm. Häuser d. früh. N. Oberbürgerm. u.a.
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Stv. Pietsch: Geb. 2005 f. d. Ber. Abfallents.
+- TOP 4: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 5: Umst. d. Gebührenabr. im Rettungswesen
+- TOP 6: Gebührenstruktur Stadthallenparkplatz
+- TOP 7: Bildung und Besetzung der AG Rettungswesen
+- TOP 8: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 9: Stv. Pietsch: TOP 18 Fests. Geb. 2005 Abfallents.
+- TOP 10: 4. Satzung z. Änderung d. Verw.geb.s.
+- TOP 11: Bild. Komitee f. Partnersch. u. intern. Bez.
+- TOP 12: Einwohnerfragestunde
+- TOP 13: Änderungssatzung Abfallentsorgung
+- TOP 14: Verzicht Straßenreinigungsgebühren
+- TOP 15: Strassenreinigungsgebühr 2005
+- TOP 16: Einführung Winterdienstgebühr
+- TOP 17: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 18: Schlammabfuhrgebühr 2005
+- TOP 19: Friedhofsgebühren 2005
+- TOP 20: Entgelte und Gebühren
+- TOP 21: Änderung Hundesteuersatzung
+- TOP 22: Bet. d. Neuss-Düsseld. Häfen GmbH an der X-Modal
+- TOP 23: Hartz IV (SOZ021204-02074.doc)
+- TOP 24: Autobahnanschluss Delrath
+- TOP 25: Bahnhofsentwicklung
+- TOP 26: 6. Satzung zur Änderung der Hauptsatzung
+- TOP 27: Festsetzung Abfallentsorgungsgebühren 2005(
+- TOP 28: B-Plan V428, Auslegungsbeschluss
+- TOP 29: FNP-Änderung 102, Feststellungsbeschluss
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Radwegunterf. Eselspfad/Lärmsch. Jülicher Landstr.
+- TOP 32: Neubau Lagerhalle Kläranlage Neuss Ost
+- TOP 33: Erneuerung SW-/RW-Kanal Floßhafenstr.
+- TOP 34: Verlustvortr. 1997 u. Jahresabschl. 31.12.2003, SE
+- TOP 35: Wirtschaftsplan 2005 d. Stadtentwässerung
+- TOP 36: Ausgliederung Liegenschaften
+- TOP 37: FNP-Änderung 106, Aufstellungsbeschluss
+- TOP 38: Kreisverkehrsanlage in Norf
+- TOP 39: Mitgliedschaft Integrationsrat in der LAGA NRW
+- TOP 40: Wahl der Delegierte LAGA NRW (IR071204-02068)
+- TOP 41: Bildung und Besetzung des Unterausschusses Kinder
+- TOP 42: Trägerwechsel Kindertageseinrichtung Cranachstraße
+- TOP 43: Verlagerung der Kinderspielplatzmittel
+- TOP 44: Antrag Kolping-Bildungswerkes 2004
+- TOP 45: Kinderspielplatzprogramm 2005(JHA081204-02041.doc)
+- TOP 46: Errichtung einer Skateranlage am Hafenbecken I
+- TOP 47: Änderung der Richtlinien (JHA081204-01881.doc)
+- TOP 48: Neubildung von zwei Arbeitsgruppen
+- TOP 49: Bildung Kommission zur Sicherung der Schulwege
+- TOP 50: Bil. Arbeitsg. Personalangel.an Schulen
+- TOP 51: Auflösung der Grundschule Weissenberg-West
+- TOP 52: Offene Ganztagsschule
+- TOP 53: Wirtschaftsplan Herz-Jesu
+- TOP 54: Aktivierende Erstberatung
+- TOP 55: Drittgr.: Aufsichtsrat der ISR
+- TOP 56: Ben. Teiln. Dt. Städtetag 02.06.2005 in Berlin
+- TOP 57: Umbenennung des Planungsausschusses
+- TOP 58: Ben. Kirchenvertr. als ber. Mitgl. Schulaussch.
+- TOP 59: SPD: Konzept f. hist. Gebäude u.a.
+- TOP 60: SPD: Erst. Informationsbr. ü. A. AuB
+- TOP 61: Wahl eines/einer Delegierten Hauptauschuss
+- TOP 62: Benennung beratende Mitglieder JHA
+- TOP 63: B-Plan 438, Aufstellungsbeschluss
+- TOP 64: üpl. Ausgaben für Hilfen zur Erziehung
+- TOP 65: B-Plan 439, Aufstellungsbeschluss
+- TOP 66: Antrag Verfahrenseinleitung Saunawelt
+- TOP 67: Ern. RW-Kanal Jülicher Landstr./Radweg Eselspfad
+- TOP 68: Jahresprüfbericht 2003
+- TOP 69: Novelle der Rechnungsprüfungsordnung
+- TOP 70: Benennung der Mitglieder für die Baumkommission
+- TOP 71: Veränderungssperre 30
+- TOP 72: FNP-Änderung 101, Feststellungsbeschluss
+- TOP 73: Erbentag - Deichverband Uedesheim
+- TOP 74: Entwässerungsgebühr 2005
+- TOP 75: Antrag d. CDU-Fr. betr.:Resol. z. Flugh. D.-dorf
+- TOP 76: Kenntnisnahme II. und III. Quartal 2004
+- TOP 77: B-Plan 440, Aufstellungsbeschluss
+- TOP 78: Umwandlung zinsloses Darlehen in Zuschuss
+- TOP 79: Änderungssatzung Straßenreinigung
+- TOP 80: Umwandlung Hafenbetriebe
+- TOP 81: FNP-Änderung 91, Auslegungsbeschluss
+- TOP 82: Anfr. Stv. Ott betr.: Parksit. Preußenstraße
+- TOP 83: Bet. d. Neuss-Düsseld. Häfen GmbH an der IPN
+- TOP 84: Benennung Mitglieder Kommission Kleingartenwesen
+- TOP 85: SPD: Aufn. v. Fachberatern in den AUG
+- TOP 86: Schmutzwasserpumpstation Am Wolfsbruch
+- TOP 87: Einwohnerfragestunde
+- TOP 88: B-Plan 110/7, Satzungsbeschluss
