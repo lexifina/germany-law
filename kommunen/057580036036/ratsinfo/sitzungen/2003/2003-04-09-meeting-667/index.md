@@ -1,0 +1,55 @@
+# Rat
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 2003-04-09T17:00:00+02:00
+- Ende: 2003-04-09T20:45:00+02:00
+- Ort: Rathaus, Lange Str. 60, 32602 Vlotho, Sitzungssaal
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVR4m14ZWGKN2R0GALL68PU
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/667
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSxRI3rZmo7Pbc-rS5Mm7CYhWIzGO-TbeLRTL0iGcO5o/Oeffentliche_Niederschrift_Rat_09.04.2003.pdf
+
+## Tagesordnung
+
+- TOP I.: A. Öffentliche Sitzung
+- TOP 1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Niederschrift über die 26. Sitzung vom 29.01.2003 - öffentlicher Teil -
+- TOP 3.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 3.1.: Gebietsentwicklungsplan für den Regierungsbezirk Detmold (GEP) Neuaufstellung des Teilabschnittes (TA) Oberbereich Bielefeld hier: Änderung der Stellungnahme der Stadt Vlotho vom 03.Juli 2001 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 5.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 6.: Angelegenheiten des Kurzweckverbandes (Berichte und Beschlussfassungen)
+- TOP 7.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 7.1.: Durchsetzung der Einhaltung der Verkehrsregeln an der oberen Valdorfer Straße hinteren bzw. unteren Südspange
+- TOP 7.2.: Feststellung für die Straße "Hollenhagen", dass diese der Belastung durch die Anlieferung weiterer Windkraftanlagen nicht standhält - Einstimmig, 0 Enthaltung(en)
+- TOP 7.3.: Genehmigung von Windkraftanlagen - 24 Ja-Stimme(n), 9 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 7.4.: Konzeption einer "Offenen Ganztagsschule" - 31 Ja-Stimme(n), 1 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 7.5.: Verkehrstechnische Maßnahmen im Bereich des Kindergartens Topsundern - Einstimmig, 0 Enthaltung(en)
+- TOP 7.6.: Ausbau der Straße "Auf dem Schelland" - Einstimmig, 0 Enthaltung(en)
+- TOP 7.7.: Ausbau des Borlefzener Kirchweges - Abgesetzt
+- TOP 8.: Stellenplan 2003 - 33 Ja-Stimme(n), 0 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 9.: Stellenplan 2003 - 33 Ja-Stimme(n), 0 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 10.: Haushaltssatzung / Haushaltsplan der Stadt Vlotho für das Haushaltsjahr 2003 - 18 Ja-Stimme(n), 17 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11.: Beteiligung RWE Gas AG - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Konzept zur Weiterentwicklung der Schulkinderbetreuung im Schuljahr 2003/04 - 31 Ja-Stimme(n), 1 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 13.: Umbesetzung eines Ausschusses - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Umbesetzung eines Ausschusses - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Benutzungsordnung, Geschäftsbedingungen und Entgelttarife für die Stadtbücherei - Abgesetzt
+- TOP 16.: Ausbau des Einmündungsbereiches Valdorfer Straße / Bretthorststraße auf die Salzuflener Straße - Einstimmig, 2 Enthaltung(en)
+- TOP 17.: Erstellung eines Einzelhandelskonzeptes für die Stadt Vlotho unter Einbeziehung einer Verträglichkeitsstudie für das projektierte "Bürgereinkaufszentrum" im Bereich Herforder-, Mindener-, Meyra- und Schützenstraße hier: Leistung einer außerplanmäßigen Haushaltsausgabe - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Fraktionsanträge gem. § 3 der Geschäftsordnung
+- TOP 18.1.: Beschränkung der Aufwendungen für ehrenamtliche Tätigkeiten im Rahmen der Ratsarbeit auf 175.000 € in 2003 -  
+- TOP 18.2.: Kündigung der Zugehörigkeit der Stadt Vlotho im Verbund kommunaler Arbeitgeber zum nächstmöglichen Termin mit dem Ziel, über Haustarifverträge eine Kostenentlastung für den Personalhaushalt der Stadt Vlotho zu ermöglichen - 2 Ja-Stimme(n), 33 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 18.3.: Änderungen zum vorgelegten Eckwerte-Beschluss und Neubeantragung von Investitionsmaßnahmen -  
+- TOP 18.4.: Erneuerung der Innenstadt/ Umgestaltung des Sommerfelder Platzes/ In der Grund - Einstimmig, 0 Enthaltung(en)
+- TOP 18.5.: Generalinstandsetzung und Erweiterung des Weser-Gymnasiums - Abgesetzt
+- TOP 18.6.: Resolution des Rates der Stadt Vlotho gegen die Errichtung eines Hubschrauberlandeplatzes in Bad Seebruch - 17 Ja-Stimme(n), 17 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 18.7.: Einrichtung einer Stelle als Schulsozialarbeiter - Abgesetzt
+- TOP 18.8.: Einrichtung von verkehrsberuhigenden Maßnahmen an der Valdorfer Straße/ Südspange - Einstimmig, 0 Enthaltung(en)
+- TOP 18.9.: Ausbau des Borlefzener Kirchweges hier: Prüfung sowie Planung von geschwindigkeitshemmenden Maßnahmen beim Ausbau des Borlefzener Kirchweges - Abgesetzt
+- TOP 18.10.: Haushaltsberatung 2003; hier: Änderungen
+- TOP 18.11.: Haushalt 2003
+- TOP 19.: Sachstandsbericht Bahnhofsareal
+- TOP 20.: Anfragen nach § 18 der Geschäftsordnung und Mitteilungen
