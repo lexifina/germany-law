@@ -1,0 +1,97 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2004-02-16T16:04:00+01:00
+- Ende: 2004-02-16T19:07:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1493
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1493
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung (Stand: 13.02.2004) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00030686.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00031942.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde
+- TOP 2.1: Starenkästen - abschließend zur Kenntnis genommen
+- TOP 2.2: Verfüllung des "Silbersees" in Küllenhahn mit Abraum aus dem Bau des L418-Tunnels - abschließend zur Kenntnis genommen
+- TOP 2.3: Sauberkeit und Ordnung am Döppersberg - Kenntnis genommen
+- TOP 2.4: Zivildienstleistende in städtischen Einrichtungen - abschließend zur Kenntnis genommen
+- TOP 2.5: Islamisches Schülerwohnheim des VIKZ in Wuppertal ? - abschließend zur Kenntnis genommen
+- TOP 2.6: Resolution des Landschaftsbeirates bei der Bezirksregierung Düsseldorf - abschließend zur Kenntnis genommen
+- TOP 2.7: Änderungen der Vertragsbedingungen für Abonnent Nutzer im SSLZ - abschließend zur Kenntnis genommen
+- TOP 2.8: Bäderzielplanung - abschließend zur Kenntnis genommen
+- TOP 2.9: Heizkraftwerk Barmen - abschließend zur Kenntnis genommen
+- TOP 2.10: lMaßnahmen zur Erhöhung von Sauberkeit in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 3: Neue Fraktionsanträge
+- TOP 3.1: Abgesetzt.
+- TOP 3.2: Erhalt der "Integrativen-Waldorf-Kindertagesstätte - Gemeinsamer Antrag der BV Fraktionen an den Rat - zur Vorberatung verwiesen
+- TOP 3.3: Aufstellung eines Bebauungsplanes Wiesenstraße/Froweinstraße - zur Vorberatung verwiesen
+- TOP 3.4: Wird unter TOP 10.11.1 behandelt.
+- TOP 3.5: Wird unter TOP 10.11.2 behandelt.
+- TOP 3.6: Vorbereitung einer Verfassungsklage - vertagen
+- TOP 3.7: Aufstellungs- und Offenlegungsbeschluss Bebauungsplan Kohlfurther Brücke - in der Sache erledigt
+- TOP 3.7.1: Bauleitplanverfahren Nr. 1067 - östlich Kohlfurther Brücke - - ungeändert beschlossen
+- TOP 3.8: Gemeinsame Rats-Resolution zur geplanten Zusammenlegung der Arbeitslosen- und Sozialhilfe - ungeändert beschlossen
+- TOP 3.8.1: Ergänzungsantrag zur Resolution "Hartz IV" (zu VO/2595/04), TOP 3.8. - ungeändert beschlossen
+- TOP 3.9: Landschaftspläne Wuppertal Nord und West - ungeändert beschlossen
+- TOP 4: Fraktionsanträge, die bereits in einem Gremium vorberaten wurden (§ 8 der Geschäftsordnung für den R
+- TOP 4.1: Frühzeitige Bürgerbeteiligung Südstrassenring - ungeändert beschlossen
+- TOP 4.2: Friedhofs- und Bestattungssatzung
+- TOP 4.3: Abgesetzt.
+- TOP 4.4: Änderungsantrag zur Verwaltungs-Drs. VO/2331/03 - 1. Ergänzung
+- TOP 5: Ortsrecht
+- TOP 5.1: Änderung der Straßenbaubeitragssatzung - ungeändert beschlossen
+- TOP 5.2: Einzelsatzung Kuchhausen von Kuchhauser Straße bis Kuchhausen 41 - ungeändert beschlossen
+- TOP 5.3: Abgesetzt.
+- TOP 5.4: Abgesetzt.
+- TOP 5.5: Fleisch- und Geflügelfleischhygiene-Gebührensatzung - ungeändert beschlossen
+- TOP 6: Haushaltsangelegenheiten
+- TOP 7: Angelegenheiten des Beteiligungsmanagements
+- TOP 7.1: Bestellung eines Werkleiters Kinder- und Jugendwohngruppen - geändert beschlossen
+- TOP 7.2: Bestellung eines stellvertretenden Werkleiters Kinder- und Jugendwohngruppen - geändert beschlossen
+- TOP 8: Planverfahren
+- TOP 8.1: Bauleitplanverfahren Nr. 496 - Kuchhauser Straße -
+- TOP 8.2: Bauleitplanverfahren Nr. 1006 V - westlich Am Freudenberg - geändert beschlossen
+- TOP 8.3: Bebauungsplan Nr. 650 - Jöferweg - (1. Änderung) - geändert beschlossen
+- TOP 8.4: Sammelaufhebungsbeschluss - ungeändert beschlossen
+- TOP 8.5: Aufhebungbeschluss Durchführungsplan Nr. 121 - ungeändert beschlossen
+- TOP 8.6: Bebauungsplan Nr. 1021/1 -Uellendahler Str. / Am Haken- - geändert beschlossen
+- TOP 8.7: Anordnung einer Veränderungssperre im BP 981 - südlich Unterdörnen - - ungeändert beschlossen
+- TOP 8.8: Bebauungsplanverfahren Nr. 1014/2 -westlich Wittener Straße/Teil B- - ungeändert beschlossen
+- TOP 8.9: Bauleitplanverfahren Nr. 1066 - Engineering Park Wuppertal (Generaloberst Hoepner-Kaserne) - ungeändert beschlossen
+- TOP 8.9.1: Bauleitplanverfahren Nr. 1066 - Engineering Park Wuppertal - in der Sache erledigt
+- TOP 8.9.2: Bauleitplanverfahren Nr. 1066 - Engineering Park Wuppertal - in der Sache erledigt
+- TOP 9: Baumaßnahmen
+- TOP 9.1: Neunutzung des Bunkers am Platz der Republik - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Abgesetzt.
+- TOP 10.2: Einrichtung eines Friedwaldes in Wuppertal
+- TOP 10.2.1: Abgesetzt.
+- TOP 10.2.2: Abgesetzt.
+- TOP 10.3: Bewerbung der Stadt Wuppertal an dem Projekt "Young Democracy" der Bertelsmann-Stiftung - ungeändert beschlossen
+- TOP 10.4: Regionales Einzelhandelskonzept Bergisches Städtedreieck - ungeändert beschlossen
+- TOP 10.5: Schließung von Hortgruppen in städt. Tageseinrichtungen für Kinder - geändert beschlossen
+- TOP 10.5.1: Keine Schließung von Horten - abgelehnt
+- TOP 10.6: Umwandlung von Hortgruppen in städt. Tageseinrichtungen für Kinder - ungeändert beschlossen
+- TOP 10.7: 7. Rollhockey-Weltmeisterschaft - ungeändert beschlossen
+- TOP 10.8: Bearbeitungsreihenfolge der Denkmalbereichsatzungen für Wuppertal
+- TOP 10.9: Tunnel Alter Markt - Prüfung von Nutzungsmöglichkeiten - ungeändert beschlossen
+- TOP 10.9.1: Zur Drucksache VO/2323/03, Tunnel Alter Markt
+- TOP 10.9.2: Beantwortung der Anfrage der Fraktion Bündnis 90/DIE GRÜNEN zu VO/2386/03
+- TOP 10.10: Projekt Durchblick - abschließend zur Kenntnis genommen
+- TOP 10.11: Instandsetzung der "Schwimmoper" - Grundsatzbeschluss - - ungeändert beschlossen
+- TOP 10.11.1: Antrag zum Erhalt des Kurbades als städtisches Bad - abgelehnt
+- TOP 10.11.2: Antrag zum Erhalt der Schwimmoper als städtisches Bad - in der Sache erledigt
+- TOP 10.11.3: Ergänzungsantrag "Schwimmoper" zur VO/2579/04 - ungeändert beschlossen
+- TOP 11: Gremienbesetzung / Benennungen
+- TOP 11.1: Mitgliederversammlung 2004 des Städtetages Nordrhein-Westfalen am 26. Mai 2004 in Mülheim/Ruhr - ungeändert beschlossen
+- TOP 11.1.1: Bestellung stimmberechtigter Abgeordneter und deren Vertreter für die Mitgliederversammlung des Städ - geändert beschlossen
+- TOP 11.2: Gremienbesetzung/-benennung für den Ausschuss Stadtmarketing - ungeändert beschlossen
+- TOP 12: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 12.1: Gesellschafterversammlung der Deutsche Städte Medien GmbH (DSM) am 15.01.2004 - Dringlichkeitsentscheidung genehmigt
+- TOP 12.2: Bauleitplanverfahren Nr. 954 - Döppersberg- - Dringlichkeitsentscheidung genehmigt
+- TOP 12.2.1: Bauleitplanverfahren Nr. 954 / B - Döppersberg/ Bundesallee - - Dringlichkeitsentscheidung genehmigt
