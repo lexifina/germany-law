@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2003-12-03 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/archivordnung_1992
+- Datum: 2004-04-20 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/rosenholz_grundsaetze_2004
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -26,82 +26,61 @@ A |
 |
 
 Aktuelle Fassung
-Änderungshistorie
 
-Archivordnung für die Kataster- und Vermessungsämter des Landes Brandenburg
+Grundsätze für die Überprüfung von Dienstkräften des Landes Brandenburg auf Zusammenarbeit mit dem Staatssicherheitsdienst der ehemaligen DDR unter Verwendung der "Rosenholz"-Dateien ("Rosenholz"-Grundsätze)
 
-vom 9. Januar 1992
+vom 20. April 2004
 
-(ABl./92, [Nr. 8], S.142)
+(ABl./04, [Nr. 20], S.338)
 
-geändert durch Erlass zur Gebrauchs- und Sicherungsverfilmung durch die LGB vom 3. Dezember 2003
+Auf der Grundlage der Entschließung des Bundesrates vom 26. September 2003 für eine Überprüfung von Mitarbeiterinnen und Mitarbeiter des öffentlichen Dienstes auf Zusammenarbeit mit dem Staatssicherheitsdienst der ehemaligen DDR unter Verwendung der "Rosenholz"-Dateien, der das Land Brandenburg zugestimmt hat, hat die Landesregierung folgende Grundsätze beschlossen:
 
-(ABl./20, [Nr. 47], S.1141)
+1. Verfahren für eine differenzierte Überprüfung
 
-1. Räumlichkeiten
+In Fortführung ihrer Grundsätze vom 10. Oktober 1995 (ABI. Nr. 74 vom 30. Oktober 1995, S. 914) spricht sich die Landesregierung auch bei dem Verfahren zur Auswertung der Erkenntnisse aus den "Rosenholz"-Dateien für eine differenzierte Überprüfung der Bediensteten des Landes aus. Die Überprüfung ist auf solche Beschäftige im Landesdienst zu begrenzen, die Tätigkeiten in herausgehobenen oder besonders sensitiven Positionen ausüben. Über diesen Personenkreis hinaus erfolgt eine Überprüfung nur bei solchen Bediensteten, die sicherheitsempfindliche Tätigkeiten ausüben. Soweit die Überprüfung von Personen nach dem Gesetz über die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik (Stasi-Unterlagen-Gesetz, StUG) vom 20. Dezember 1991 (BGBl. I S. 2272, zuletzt geändert durch Gesetz vom 11.10.2002 (BGBl. I S. 3970) schon vorgenommen worden ist, wird diese aktualisiert.
 
-1.1 Das Archivgut der Kataster- und Vermessungsämter ist in Räumen unterzubringen, die hinreichend gesichert sind und für den Geschäftsverkehr geeignet liegen.
+Die Mitglieder der Landesregierung können für ihren Geschäftsbereich erweiternde Regelungen treffen.
 
-1.2 Die Archivräume müssen so beschaffen sein, daß die dort gelagerten Dokumente gegen Staub, Feuchtigkeit, Hitze oder sonstige nachteilige Einflüsse geschützt sind. Sofern in diesen Räumen gleichzeitig Arbeitsplätze bestehen, sind die gesetzlichen Regelungen über Arbeitsstätten (Arbeitsstättenverordnung - ArbStättV - vom 20.03.1975 (BGBl. I S. 729) zu beachten.
+Die obersten Dienstbehörden des Landes übersenden nach Maßgabe des nachstehenden Abschnitts 3 die Namen der Beschäftigten ihres jeweiligen Geschäftsbereiches an die Bundesbeauftragte für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik (im folgenden Bundes­beauftragte genannt). Die Bundesbeauftragte soll dabei ge­beten werden zu prüfen, ob aufgrund der "Rosenholz"-Dateien neue Erkenntnisse über eine Zusam­menarbeit mit dem MfS/AfNS vorliegen.
 
-1.3 Die Archivräume sind so einzurichten und auszustatten, daß ihr Gebrauch bei Beachtung wirtschaftlicher Grundsätze den geringsten Aufwand an Zeit und Arbeit erfordert.
+2. Rechtsgrundlage
 
-1.4 Akten sowie Bücher sind in Regalen, Karten in dafür geeigneten Schränken unterzubringen.
+Die Anfragen an die Bundesbeauftragte zur Überprüfung der vorhandenen Beschäftigten des Landes Brandenburg erfolgen nach § 19 Abs. 2 in Verbindung mit §§ 20 und 21, jeweils Abs. 1 Satz 1 Nr. 6 Buchstabe d StUG. Sie unterliegen der Zweckbindung nach § 29 StUG. Die betroffenen Beschäftigten bestätigen auf den hierfür verwendeten Formblättern für die Anfrage bei der Bundesbeauftragten nach §§ 20, 21 StUG die Kenntnisnahme von dieser Anfrage. Die datenschutzrechtlichen Bestimmungen der Nummer 6 des Beschlusses der Landesregierung vom 10. Oktober 1995 gelten entsprechend.
 
-1.5 Originalunterlagen dürfen ohne Zustimmung der Aufsichtsbehörde nicht aus den Räumen der Katasterbehörde herausgegeben werden.
+Die Erkenntnisse der "Rosenholz"-Dateien sollen genutzt werden, um weiteren Aufschluss über eine mögliche Tätigkeit von Bediensteten der Landesverwaltung für den Staatssicherheits­dienst der ehemaligen DDR (Ministerium für Staatssicherheit/Amt für Nationale Sicherheit, MfS/AfNS) zu erhalten.
 
-2. Ablage und Ordnung der Vermessungsrisse
+Stellen einzelne Bedienstete von sich aus einen Antrag bei der Bundesbeauftragten, richtet sich das Verfahren nach § 3 i. V. m. §§ 12, 13 StUG.
 
-2.1 Die Vermessungsrisse (Fortführungsrisse, Handrisse etc.) sind nach Gemarkungen getrennt, flurweise in der Reihenfolge ihrer Übername in das Liegenschaftskataster in Stehordnern aufzubewahren.
+3. Personenkreis, Zeitraum
 
-2.2 Ältere Vermessungsrisse, bei denen sich durch Umgemarkung bzw. Umflurung die Ordnungsmerkmale geändert haben, bleiben in der Gemarkung und Flur abgeheftet, der sie früher zugeordnet waren.
+Die Bestimmung des Personenkreises orientiert sich an dem durch den Verhältnismäßigkeitsgrundsatz vorgegebenen Ziel, einerseits das aus rechtsstaatlichen Gründen gebotene Mindestmaß an Sicherstellung der Unbescholtenheit herausgehobener Funktionsträger zu gewährleisten, und andererseits den durch faktische Entwicklungen und Zeitablauf eingetretenen Zustand in Fällen unterhalb der nachstehend definierten Relevanzschwelle im Interesse des Rechtsfriedens zu respektieren.
 
-2.3 Sind auf einem Vermessungsriß Flurstücke mehrerer Gemarkungen bzw. mehrerer Fluren enthalten, ist der Riß der Gemarkung bzw. der Flur zuzuordnen, die als erste im Kopf des Vermessungsrisses aufgeführt oder die den größten Teil des Risses darstellt. Auf dem betreffenden Vermessungsriß ist die Gemarkung bzw. Flur, unter der der Riß abgelegt ist, zu unterstreichen. In den anderen Fluren ist ein Hinweisblatt nach dem Muster der Anlage 1 einzuheften.
+Die erneute Anfrage wird daher auf folgende Beschäftigte begrenzt:
 
-2.4 Sind bei Vermessungsrissen getrennte Titelblätter vorgeheftet, können die darin enthaltenen wichtigen Daten nach dem Muster der Anlage 2 Nrn. 2 - 4 auf den Riß übernommen und das Titelblatt vernichtet werden.
+Staatssekretäre,
 
-2.5 Für fehlende oder nicht aufzufindende Vermessungsrisse ist ein Hinweisblatt nach dem Muster der Anlage 1 oder ein Fortführungsriß-Ersatz einzuordnen.
+Abteilungsleiter in obersten Landesbehörden,
 
-2.6 Vermessungsrisse in einem Format größer als DIN A 3 (i. a. Neuvermessungsrisse) dürfen weder gerollt noch gefaltet werden; sie sind getrennt von den übrigen Ver­messungsrissen entsprechend Ziffer 2.1 in geeigneten Schränken hängend aufzubewahren.
+Leiter nachgeordneter Behörden, Einrichtungen und Landesbetriebe,
 
-2.7 Vor den Vermessungsrissen der einzelnen Fluren ist ein Trennblatt nach dem Muster der Anlage 3 einzulegen, in dem die Flurstücke, die Art der Vermessung sowie die Rißblattnummer einzutragen sind. Für Vermessungsrisse, die nach Ziffer 2.6 gesondert abgelegt werden, ist an der entsprechenden Stelle ein Hinweisblatt nach dem Muster der Anlage 1 und in dem vorgehefteten Trennblatt ein zusätzlicher Vermerk anzubringen.
+alle Mitarbeiter in Organisationseinheiten oberhalb der Hierarchieebene Abteilungsleitung in obersten Landesbehörden,
 
-2.8 Die Zuordnung der Fluren zu den Gemarkungen und Gemeinden ergibt sich aus der Flurübersichtskarte 1:50.000.
+Mitarbeiter, die in sicherheitsempfindlichen Bereichen nach § 2 Abs. 1 Nr. 3 des Brandenburgischen Sicherheitsüberprüfungsgesetzes eingesetzt sind sowie Personen, die sicherheitsüberprüft sind - unab­hängig von ihrer dienstlichen Stellung.
 
-3. Numerierung der Vermessungsrisse
+Darüber hinaus können die Mitglieder der Landesregierung für den jeweiligen Geschäftsbereich weitere Beschäftigte in eine erneute Anfrage einbeziehen. Sie wird auf Mitarbeiter beschränkt, die eine Funktion mit besonderer Vertrauensstellung oder besonderer öffentlicher Verantwortung bzw. Wahrnehmung ausüben.
 
-3.1 Die Vermessungsrisse einer Flur sind mit 1 beginnend durchlaufend zu numerieren. Die Riß-Blattnummer ist auf dem betreffenden Vermessungsriß rechts oben im Kopf des Vordrucks einzutragen.
+Der Wunsch von Mitarbeitern, sich aufgrund eigener Entscheidung überprüfen zu lassen, bleibt unberührt.
 
-3.2 Zugehörige Berechnungen (wie Kleinpunktberechnungen, Umformungen etc.) erhalten die gleiche Blattnummer wie der Vermessungsriß und können in besonderen Ordnern archiviert werden. Nr. 3.3 Satz 3 gilt entsprechend.
+Die erneute Anfrage bei der Bundesbeauftragten wird unabhängig vom Zeitpunkt des Beginns eines bestehenden Beschäftigungsverhältnisses mit dem Land Brandenburg durchgeführt. Damit werden auch Beschäftigungsverhältnisse erfasst, bei deren Begründung die Grundsätze der Landesregierung vom 10. Oktober 1995 noch nicht in Kraft getreten waren. Abschnitt 4 dieser Grundsätze (Zeitraum der Tätigkeiten für das MfS/AfNS) findet Anwendung.
 
-3.3 Grenzniederschriften, dazugehörige Skizzen, Vollmachten, Benachrichtigungen etc. erhalten die gleiche Blattnummer wie der betreffende Vermessungsriß. Sie sind getrennt von den Vermessungsrissen in Ordnern aufzubewahren. Zur Sicherstellung der Vollständigkeit sollen auf diesen Unterlagen zusätzlich Unternummern vergeben werden (z. B. 141/1, 141/2).
+4. Geltungsbereich
 
-3.4 Die Vermessungsrisse vor Aufstellung des Einheitskatasters (z.B. aus den Grundsteuerfortschreibungsrollen) sind in der gleichen Weise und Ordnung wie die Vermessungsrisse in gesonderten Ordnern abzulegen. Zur Unterscheidung dieses Nachweises von den übrigen Vermessungsrissen ist der Blattnummer ein zusätzliches „A“ (z. B. A 1, A 2 etc.) voranzusetzen.
+Die Grundsätze gelten für die Überprüfung der vorstehend genannten Beschäftigten des Landes Brandenburg. Den Gemeinden, Landkreisen und sonstigen der Aufsicht des Landes unterstehenden Körperschaften, An­stalten und Stiftungen des öffentlichen Rechts wird empfohlen, bei vergleichbaren Funktionen ebenso zu verfahren.
 
-3.5 Für Handrisse gilt Ziffer 3.4, jedoch ist der Blattnummer ein zusätzliches „H“ voranzusetzen. In dem Trennblatt für die Handrisse sind die im Riß dargestellten Stammflurstücke nachzuweisen.
+5. Weitergelten des Beschlusses der Landesregierung vom 10. Oktober 1995
 
-4. Ablage und Ordnung sonstiger Zahlennachweise
+Unbeschadet der vorstehenden Grundsätze gelten bei Neueinstellungen und erstmaliger Berufung in ein Beamtenverhältnis im Land Brandenburg daneben die Bestimmungen der Landesregierung zur Überprüfung hinsichtlich einer Tätigkeit für das ehemalige Ministerium für Staatssicherheit/Amt für Nationale Sicherheit vom 10. Oktober 1995 fort.
 
-4.1 Einmessungsrisse von Aufnahmepunkten (AP-Karten) sind in Ordnern, getrennt nach Numerierungsbezirken, in aufsteigender Folge der Punktnummern abzuheften. Sofern bei älteren Einmessungsrissen diese Ordnungsmerkmale fehlen, kann eine Ablage nach Gemarkung und Flur erfolgen, ggf. mit Hinweis auf die Blattnummer des Vermessungsrisses.
+6. In-Kraft-Treten
 
-4.2 Koordinatennachweise bzw. deren Verzeichnisse sind analog Ziffer 4.1 abzulegen.
-
-5. Kennzeichnung neuer Abmarkungen in den Vermessungsrissen
-
-5.1 Im Hinblick auf die Anfertigung von Vermessungsunterlagen und als vorbereitende Maßnahme für eine spätere Mikroverfilmung ist es erforderlich, die in den Vermessungsrissen und sonstigen Zahlennachweisen rot gekennzeichneten neuen Grenzen sowie die neuen Abmarkungen von Grenz- und Vermessungspunkten mit einer zusätzlichen Signatur kenntlich zu machen. Als Signatur ist ein keilförmiger schwarzes Dreieck mit einer Grundseite von 2 mm und einer Höhe von 5 mm zu verwenden, das auf die neue Grenze bzw. Abmarkung hinweist.
-
-5.2 Sofern diese Signatur aus personellen Gründen nicht sofort in allen archivierten Vermessungsrissen nachgetragen werden kann, sind auf jeden Fall die Vermessungsrisse, die bei Vermessungsanträgen als Vermessungsunterlagen herausgegeben werden, entsprechend zu kennzeichnen.
-
-6. Ablage und Ordnung der Katasterkarten
-
-6.1 Sämtliche Karten (Urkarten, Urpausen, Ergänzungskarten, Flurskartenpausen etc.) sind getrennt in dafür speziell geeigneten Schränken unterzubringen; sie dürfen weder gerollt noch gefaltet archiviert werden.
-
-6.2 Die Karten sind in alphabetischer Folge der Gemarkung zu ordnen.
-
-6.3 Die im Gebrauchsarchiv ständig vorzuhaltenden Karten, im wesentlichen die aktuellen Flurkarten, sind in Schränken hängend aufzubewahren.
-
-6.4 Karten, die den historischen Nachweis darstellen, können in einem sog. ruhenden Archiv untergebracht werden. Ziffern 1.1 bis 1.5 gelten sinngemäß.
-
-7. aufgehoben
-
-Anmerkung: Die Anlagen wurden nicht aufgenommen.
+Diese Grundsätze finden mit Wirkung vom Tag der Veröffentlichung im Amtsblatt für Brandenburg Anwendung.
