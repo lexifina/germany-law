@@ -1,0 +1,7 @@
+# TOP 3: Vertretun g der Stadt
+
+- Sitzung: Rat (2004-11-03)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/103313
+- Ergebnis: Vertagt (s. Niederschrift)
