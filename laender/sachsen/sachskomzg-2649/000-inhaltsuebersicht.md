@@ -1,4 +1,4 @@
-# Inhaltsübersicht
+Inhaltsübersicht
 Erster Teil Allgemeine Vorschriften
 § 1 Anwendungsbereich
 § 2 Formen der kommunalen Zusammenarbeit
@@ -97,6 +97,8 @@ Siebter Teil Übergangs- und Schlußbestimmungen
 § 76 Planungsverbände
 § 77 Kreisgebietsreform
 § 78 Anwendung auf bestehende Zweckverbände, Verwaltungsgemeinschaften und gemeinsame Verwaltungsämter
+§ 78a Übergangsvorschriften aus Anlaß von Änderungen kommunalrechtlicher Vorschriften
+§ 78b Übernahme der Angestellten, Arbeiter sowie der in einem Ausbildungsverhältnis stehenden Beschäftigten
 § 79 Rechtsverordnungen
 § 80 Verwaltungsvorschriften
 § 81 Grenzüberschreitende Zweckverbände
