@@ -1,0 +1,51 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2003-05-20T16:00:00+02:00
+- Ende: 2003-05-20T17:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcJ2m-QlWenjQWrBrKevWxk
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/668
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTbAn_DWhclv00z83B2DayhAFBH56qBgZXLcCsRJz4V-/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_20.05.2003.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Städtischer Zuschuss zur Errichtung eines Wohnheimes für chronisch mehrfach beeinträchtigte alkoholabhängige Menschen, Hustadtring/Bellenkamp. Bauträger: Diakoniewerk Bochum
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Situation bei der Aufnahme und Unterbringung von Flüchtlingen und Aussiedlerinnen und Aussiedlern in Bochum
+- TOP 7: Arbeitsbeschaffungsmaßnahmen
+- TOP 8: Individuelle Schwerstbehinderten-Betreuung (ISB)
+- TOP 9: ESF (Europäischer Sozialfonds) - Kofinanziertes ASS-Nachfolgeprogramm -
+- TOP 10: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 11: Beschlussvorschläge für den Rat
+- TOP 12: Bericht der örtlichen Fürsorgestelle für schwerbehinderte Menschen
+- TOP 13: Insolvenz privater Haushalte
+- TOP 14: Krankenhilfe in der Sozialhilfe
+- TOP 15: Sachstandsbericht Mütterberatung des Gesundheitsamtes unter Berücksichtigung der Zusammenarbeit mit dem Jugendamt
+- TOP 16: Anträge
+- TOP 17: Mitteilungen
+- TOP 18: Konzept Sozialpsychiatrischer Kinder- und Jugenddienst
+- TOP 19: 4. Veränderungsnachweis zum Haushaltsplan-Entwurf 2003/2004
+- TOP 20: Anfragen
+- TOP 21: Konzeptionelle Weiterentwicklung der Sozialagentur mit Zielrichtung eines Job-Centers mit der Arbeitsverwaltung Bochum (Hartz-Konzept)
+- TOP 22: Hilfe bei Krankheit in der Sozialhilfe
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: keine Tagesordnungspunkte
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 8: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 9: Beschlussvorschläge für den Rat
+- TOP 10: Anträge
+- TOP 11: Mitteilungen
+- TOP 12: Anfragen
