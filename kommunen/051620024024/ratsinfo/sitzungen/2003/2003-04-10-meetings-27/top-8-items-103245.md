@@ -1,0 +1,6 @@
+# TOP 8: Bericht Umsetzung Bustrasse (BA100403-00264.doc)
+
+- Sitzung: Bauausschuss (2003-04-10)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/103245
