@@ -1,0 +1,71 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2002-09-25T16:00:00+02:00
+- Ende: 2002-09-25T16:50:00+02:00
+- Ort: Rathaus-Barmen  Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/375
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/375
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00008347.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00009123.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung von Mieten für städtische Schulräume
+- TOP 2: Terminplanung Steuerungsgremium Regionale 2006 - ungeändert beschlossen
+- TOP 3: Fussball WM 2006 - zur Vorberatung verwiesen
+- TOP 5: Spende der Sitzungsgelder der Sondersitzung
+- TOP 6: Neue Rechts- und Organisationsform Zoo
+- TOP 7: Senkung von Baulandpreisen - zur Vorberatung verwiesen
+- TOP 8: Über- und außerplanmäßige Ausgaben 2002 - ungeändert beschlossen
+- TOP 9: Vorgabe der Kommunalaufsicht zur Kreditreduzierung - vertagen
+- TOP 10: Gründung einer regionalen Verkehrsmanagementgesel. - vertagen
+- TOP 11: die börse, Zustimmung zur gGmbH-Gründung
+- TOP 12: 2 . Verlängerung einer Veränderungssperre BP 1021 - ungeändert beschlossen
+- TOP 13: Bebauungsplan Nr. 938 - Barmenia - vorbehaltlich beschlossen
+- TOP 14: Bebauungsplanverfahren Nr. 964- Lienhardplatz- - ungeändert beschlossen
+- TOP 15: Bauleitplanverfahren 1013 Aufhebungsbeschluss - vertagen
+- TOP 15.1: Fläche an der Bük - vertagen
+- TOP 16: Durchführungsplan Nr. 45 - Haspel - - ungeändert beschlossen
+- TOP 17: Bauleitplanverfahren Nr. 881 V - ungeändert beschlossen
+- TOP 18: Bauleitplanverfahren Nr. 881 - ungeändert beschlossen
+- TOP 19: Entwicklungssatzung in Langerfeld-Beyenburg - ungeändert beschlossen
+- TOP 20: vorhabenbezogener Bebauungsplan Nr. 1037 - ungeändert beschlossen
+- TOP 20.1: Bauleitplanverfahren Luhnsfelder Höhe
+- TOP 21: Landschaftsplanverfahren - Landschaftsplan Wuppert - geändert beschlossen
+- TOP 21.1: Landschaftsplanverfahren - Landschaftsplan Wuppert - geändert beschlossen
+- TOP 22: Erweiterung der GGS Meyerstraße um 3 Klassenräume - ungeändert beschlossen
+- TOP 23: Erweiterung des Schulzentrums Ost - ungeändert beschlossen
+- TOP 24: Ersatz eines abgängigen 4-klassigen Leichtbaus und - ungeändert beschlossen
+- TOP 25: Errichtung von naturwissenschaftlichen Räumen, - ungeändert beschlossen
+- TOP 26: Baumaßnahmen im Rahmen von Schulraumentwicklung - ungeändert beschlossen
+- TOP 27: Erweiterung der Gesamtschule Langerfeld
+- TOP 28: Ersatz eines abgängigen 4-klassigen Leichtbaus
+- TOP 29: Jahresabschluss 2001 für die APH - ungeändert beschlossen
+- TOP 30: Gartenhallenbad Langerfeld - vertagen
+- TOP 31: Abweichungssatzung Schluchtstraße - ungeändert beschlossen
+- TOP 32: Förderung der Wohnberatungsstelle in Wuppertal - ungeändert beschlossen
+- TOP 33: European Energy Award - ungeändert beschlossen
+- TOP 34: Stadtbildverbesserung - vertagen
+- TOP 35: Kulturachse Barmen - geändert beschlossen
+- TOP 36: Regionale 2006 - Zoo/ Stadion - - ungeändert beschlossen
+- TOP 37: Spielgruppenförderung - ungeändert beschlossen
+- TOP 38: Schwimmoper - vertagen
+- TOP 39: Bürgerbegehren für den Erhalt der Schwimmoper - vertagen
+- TOP 40: Gewährung v. Zuschüssen an priv. Sonderschulträger - ungeändert beschlossen
+- TOP 41: nvestitionskostenzuschusses an Verein Waldorfhaus - ungeändert beschlossen
+- TOP 42: Maßnahmenkatalog der WSW AG, Sparte Stadtentwässer
+- TOP 43: Ausschreibung und Verkauf von Wohnbauflächen
+- TOP 44: Umbesetzung des Denkmalpflegeausschuss
+- TOP 45: Beirat FSG
+- TOP 46: Neuwahl eines sachkundigen Einwohners/Vertreters - ungeändert beschlossen
+- TOP 47: Umbesetzung im Ausschuss für Frauenförderung - ungeändert beschlossen
+- TOP 48: Besetzung des Lenkungsausschusses - ungeändert beschlossen
+- TOP 49: Umbesetzung des Umweltausschusses - ungeändert beschlossen
+- TOP 50: Modulbau an der GGS Hermann-Herberts-Schule - Dringlichkeitsentscheidung genehmigt
+- TOP 51: Wahl der Bezirksjugendräte - geändert beschlossen
+- TOP 52: Melderegisterauskünfte in Bezug auf die Wahl - Dringlichkeitsentscheidung genehmigt
+- TOP 53: Sanierung des Gebäudes der kath GS - Dringlichkeitsentscheidung genehmigt
