@@ -1,0 +1,82 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2003-12-19T16:00:00+01:00
+- Ende: 2003-12-19T20:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/42
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/42
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Heizungen an Schulen
+- TOP 3: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 4: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 5: Einwohnerfragestunde
+- TOP 6: Kreiswasserwerke - Konzessionsabgabe
+- TOP 7: Genehmigung der Tagesordnung
+- TOP 8: Frauenförderplan der Stadt Neuss
+- TOP 9: 5. Satz. z. Änd. d. Stellplatzablöses.
+- TOP 10: Beratung des Haushaltsplanes 2004
+- TOP 11: St.-Konrad-Bad im Haushaltsplan 2004
+- TOP 12: Verä. v. Ges.schaftsant. Neuss Trimodal
+- TOP 13: Haushaltssatzung 2004
+- TOP 14: Jahresabschluss 31.12.2002 (SOZ121103-00635.doc)
+- TOP 15: Ergebnisverw.Herz-Jesu 02 (SOZ121103-00636.doc)
+- TOP 16: Fests. v. Geb. 2004 f. d. Ber.Straßenr.
+- TOP 17: Finanzplanung 2003 - 2007
+- TOP 18: Gebührentarif zur Friedhofsgebührenordnung
+- TOP 19: Verkehrsentwicklungsplan
+- TOP 20: B-Plan 424, Satzungsbeschluss
+- TOP 21: Ausbau Nebenanlagen Bonner Strasse
+- TOP 22: Ladenz. Weckhoven, Parkpl. Maximilian-Kolbe-Str.
+- TOP 23: Entwicklungskonzept Hafenmole I
+- TOP 24: Umbau und Erweiterung der Realschule Holzheim
+- TOP 25: B-Plan 366/1, Aufstellungsbeschluss
+- TOP 26: Antrag auf B-Plan-Aufstellung, Kreitzer Straße
+- TOP 27: Wendeanlage Stiegergasse
+- TOP 28: FNP-Änderung 97, Aufstellungsbeschluss
+- TOP 29: B-Plan 434, Aufstellungsbeschluss
+- TOP 30: Antrag f. Grundstücke Vellbrüggener Str.
+- TOP 31: B-Plan V11b/7, Satzungsbeschluss
+- TOP 32: Gestaltungssatzung zum V11b/7
+- TOP 33: FNP-Änderung 100, Aufstellungsbeschluss
+- TOP 34: B-Plan 416, Entwurfsvorlage
+- TOP 35: Kreisverkehrsanlage Albertus-Magnus-Straße/...
+- TOP 36: Mini-KV Altebrücker/Albertus-Magnus-Str.
+- TOP 37: MW-Kanal Altebrücker Straße
+- TOP 38: Ortsmittelpunkt Rosellerheide
+- TOP 39: Außenanlagen Sportheim Th.-Klein-Sportanl.Rosellen
+- TOP 40: Antrag auf Änderung B-Plan 294
+- TOP 41: Einrichtungsplanung Innenstadt/Rheinparkcenter
+- TOP 42: Clemens-Sels-Museums Errichtung einer Stiftung
+- TOP 43: Schenkung für das Clemens- Sels-Museum
+- TOP 44: Errichtung einer Bürger-/Stadtstiftung
+- TOP 45: Betreuung von Kindern und Jugendlichen
+- TOP 46: Rahmenkonzept offene Ganztagsschule Stadt Neuss
+- TOP 47: Wirtschaftsplan 2004 (SOZ121103-00634.doc)
+- TOP 48: Bedürfnisermittlung offene Ganztagsschule
+- TOP 49: Hansetag in Turku, Finnland (RAT191203-01021.doc)
+- TOP 50: Rüge f. d. BM w. Verl. d. Initiativr. d. Frakt.
+- TOP 51: B. 90/D.G.:.Geschw.-Sch.-Sch. a. Ganztagssch.
+- TOP 52: Stv. Pietsch: Gebühreneinnahmen
+- TOP 53: Stv.- London: Förderg. f. Ros. Sportinfrastr.
+- TOP 54: Kenntnisnahme III. Quartal 2003
+- TOP 55: Auflösung Vereinigung Wasserübernahme
+- TOP 56: Einwohnerfragestunde
+- TOP 57: SW-Kan. Gladbacher Str. z. Bahnl. u Bataverstr.
+- TOP 58: Investitionsprogramm 2003 - 2007
+- TOP 59: Jahresprüfbericht 2002
+- TOP 60: Umgestaltung Kapitelstraße
+- TOP 61: üpl. Ausgabe für Bewirtschaftungskosten 2003
+- TOP 62: Genehmigung üpl. für Hilfen zur Erziehung
+- TOP 63: Schwimmkarten kinderreiche Familien
+- TOP 64: 27. Satzung Straßenreinigung
+- TOP 65: Teilaufhebung B-Plan V417, Einleitungsbeschluss
+- TOP 66: Abfallgebühren 2004
+- TOP 67: Ausgaben für Hilfen zur Erziehung
+- TOP 68: B-Plan 387, Satzungsbeschluss
