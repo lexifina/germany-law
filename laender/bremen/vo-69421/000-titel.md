@@ -1,1 +1,1 @@
-# Verordnung über die Regelsätze der Sozialhilfe vom 30. Mai 2000
+# Verordnung über die Regelsätze der Sozialhilfe vom 19. Juni 2001
