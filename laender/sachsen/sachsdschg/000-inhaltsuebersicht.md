@@ -1,4 +1,4 @@
-# Inhaltsübersicht
+Inhaltsübersicht
 I. Abschnitt Aufgabe und Gegenstand von Denkmalschutz und Denkmalpflege
 § 1 Aufgabe
 § 2 Gegenstand des Denkmalschutzes
