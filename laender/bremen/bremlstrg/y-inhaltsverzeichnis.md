@@ -31,7 +31,7 @@ Schutzmaßnahmen | Schutzmaßnahmen
 § 24 | Böschungen und Verankerungen
 § 25 | Umleitungen
 § 26 | Duldungspflichten des Anliegers
-6. Abschnitt Besondere Vorschriften für Straßen A
+6. Abschnitt Besondere Vorschriften für Straßen A und UVP-pflichtige Straßen
 § 27 | Bauverbote
 § 28 | Sonstige Beschränkungen
 § 29 | Beschränkungen bei geplanten Straßen
