@@ -1,0 +1,1 @@
+Auf Grund von § 9 Abs. 3, § 13 Abs. 1, § 30 Abs. 2 und § 35 Abs. 1 Satz 2 des Sozialgerichtsgesetzes (SGG) und Art. 78 Abs. 2 des Bayerischen Richtergesetzes vom 26. Februar 1965 (GVBl. S. 13) erläßt die Bayerische Staatsregierung folgende Verordnung:
