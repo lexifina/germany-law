@@ -1,0 +1,75 @@
+# 30. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2004-08-26T16:00:00+02:00
+- Ende: 2004-08-26T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=469
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=469
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=23636
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - schriftlich beantwortet
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Personelles/Wahlen - gegenstandslos
+- TOP 7.1: Berufung eines stellvertretenden beratenden Mitgliedes des JHA - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Anträge - gegenstandslos
+- TOP 8.1: Neuregelung der europäischen Badegewässerverordnung - überwiesen
+- TOP 8.2: Gestaltung aktiver demokratischer Mitwirkung von Bürgerinnen und Bürgern im Bezirk - in der BVV abgelehnt
+- TOP 9: Große Anfragen - gegenstandslos
+- TOP 9.1: Auswirkungen der Hartzgesetze auf die soziokulturelle Infrastruktur Treptow-Köpenicks - vertagt
+- TOP 10: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 10.1: Umsetzung von Hartz IV im Bezirk - schriftlich beantwortet
+- TOP 11: Beschlussvorlagen - gegenstandslos
+- TOP 11.1: Aufhebung der geltenden Erhaltungsverordnung des Gebietes "Oberschöneweide" vom 24.02.1993 (GVBl. S. 110) und zugleich Erlass der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB für das Gebiet "Oberschöneweide" - überwiesen
+- TOP 11.2: Sondermittel für Evangelische Kirchengemeinde Rahnsdorf (SM 439) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Sondermittel für Förderverein "Die kleinen Jo-thaler" e.V. (SM 442) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Seesportclub Berlin-Grünau e.V. (SM 444) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für SV Flatow Köpenick e.V. (SM 447) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Förderverein Lokale Agenda 21 Treptow-Köpenick e.V. (SM 448) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für Ratz-Fatz e.V. (SM 450) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 12.1: Veränderung eines Tempo-30-Bereichs vor einer Kita - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Anlaufstelle für verfassungsfeindliche Symbole an Gebäuden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Erlass der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB für die Pflanzgartensiedlung im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Planungsrechtliche Sicherung nach § 125 Abs. 2 BauGB zur Verbindung der öffentlichen Parkanlage im ehemaligen Ernst-Grube-Stadion (Bebauungsplan XVI-10a) mit dem Angersteinweg/Eiselenweg über Teilflächen der Grundstücke Angersteinweg 2 und 4. - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Konzept zur Standortoptimierung ungedeckter Sportanlagen Sportstättenentwicklungsplan 2004 - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Geplante Schließung des Bahnüberganges km 16,4 im Bereich Bohnsdorf Görlitzer Bahn - Berliner Forsten - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Dezentrale Kulturarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 13.1: Planfeststellung der Süd-Ost-Verbindung, Abschnitt zwischen Rummelsburger Straße und Köpenicker Landstraße - überwiesen
+- TOP 13.2: Bebauungsplanverfahren XV-65 im Bezirk Treptow-Köpenick, Ortsteil Adlershof - Auswertung der TÖB - überwiesen
+- TOP 13.3: Beschluss des Zentren- und Einzelhandelskonzeptes Treptow-Köpenick - Handlungsrahmen für die bezirkliche Entwicklung - Stand 05/04 - überwiesen
+- TOP 13.4: Bebauungsplanentwurf XV-30, Ortsteil Alt-Treptow - Inhaltliche Planänderung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Bebauungsplan 9-22 hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.6: - Entwurf des Bebauungsplans XVI-13 für das Gelände zwischen Lindenstraße, Spreestraße, der Spree und der Wuhle im Bezirk Treptow-Köpenick, Ortsteil Köpenick - Ergebnis der eingeschränkten Betroffenenbeteiligung gemäß § 3 Abs. 3 Satz 3 BauGB in Verbindung mit § 13 Abs. 2 BauGB - überwiesen
+- TOP 13.7: Bebauungsplanentwurf XVI-58 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Rahnsdorf hier: Planreife für das Grundstück Müggelspreeweg, Baufeld 4B teilweise (4B.2.1) im Bezirk Treptow-Köpenick, Ortsteil Rahnsdorf - überwiesen
+- TOP 14: Anträge - gegenstandslos
+- TOP 14.1: Verkehrsführung für Taxis - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Sicherung der demokratischen Kontrolle in den Arbeitsgemeinschaften - überwiesen
+- TOP 14.3: Broschüre Berlin Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Schulstationen - überwiesen
+- TOP 14.5: Abstimmung von Baumaßnahmen mit dem Brandenburger Umland - überwiesen
+- TOP 14.6: Planfeststellungsbeschluss zum BBI - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Langfristige Sicherung von öffentlichen Uferzugängen - überwiesen
+- TOP 14.8: Nutzung des Schlosshofes - überwiesen
+- TOP 14.9: Hilfe unter den Schulen - überwiesen
+- TOP 14.10: Rauchfreies Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Behindertengerechtes Alt-Köpenick - überwiesen
+- TOP 14.12: Fußgängerüberweg für die KITA Mäusestübchen und die Schule am Gingkobaum - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Parken auf dem Adlergestell in Höhe Dörpfeldstraße - überwiesen
+- TOP 14.14: Naturwissenschaften an den Grundschulen - überwiesen
+- TOP 14.15: Denkmal auf dem Schonungsberg - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Entkrampfung des Verkehrs im Wohngebiet - überwiesen
+- TOP 14.17: Bezirkliche Regelungen zur Beflaggung - in der BVV abgelehnt
+- TOP 15: Große Anfragen - gegenstandslos
+- TOP 15.1: Flughafen Schönefeld - nach dem Feststellungsbeschluss - vertagt
+- TOP 15.2: Freie Kapazitäten an den Kita's Freier Träger - vertagt
