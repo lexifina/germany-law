@@ -1,0 +1,8 @@
+# TOP 5: Bekanntgabe Abschlussergebnis Stadtsparkasse 2003
+
+- Sitzung: Rat (2004-07-21)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/102795
+- Ergebnis: Einstimmiger Beschluss mit Enthaltung/en
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/2309
