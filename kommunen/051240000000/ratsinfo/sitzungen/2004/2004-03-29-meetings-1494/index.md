@@ -1,0 +1,95 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2004-03-29T15:02:00+02:00
+- Ende: 2004-03-29T20:07:00+02:00
+- Ort: Rathaus Barmen Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1494
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1494
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00033154.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00034189.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00033838.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde
+- TOP 2.1: Folgen der Einnahmeausfälle aus der LKW-Maut für Wuppertal - vertagen
+- TOP 2.2: Folgen der Hortschließungen - abschließend zur Kenntnis genommen
+- TOP 2.3: Schwerbehindertenparkausweis - abschließend zur Kenntnis genommen
+- TOP 3: Neue Fraktionsanträge
+- TOP 3.1: Erzielung von Synergieeffekten im Sinne eines ganzheitlichen Stadtmarketings - geändert beschlossen
+- TOP 3.2: Schienenpersonennahverkehr Vohwinkel - ungeändert beschlossen
+- TOP 3.3: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 3.4: Ausnahmegenehmigung "Parken für Handwerker" - zur Vorberatung verwiesen
+- TOP 3.4.1: Bergischer Sonderparkausweis für Handwerker - zur Vorberatung verwiesen
+- TOP 3.5: Wird unter TOP 1.9.7 - Haushalt - behandelt.
+- TOP 3.6: Erhalt Wuppertal Institut und Energie Agentur - abgelehnt
+- TOP 3.6.1: Änderungsantrag zu TOP 3.6 - hier: Erhalt Wuppertal Institut und Energie Agentur - ungeändert beschlossen
+- TOP 3.7: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 3.8: Kommunale Sportentwicklungsplanung - zur Vorberatung verwiesen
+- TOP 4: Fraktionsanträge, die bereits in einem Gremium vorberaten wurden (§ 8 der Geschäftsordnung für den R
+- TOP 4.1: Nachhaltiges Stadtmarketing für Wuppertal - abgelehnt
+- TOP 4.2: Sauberes Wuppertal - geändert beschlossen
+- TOP 4.2.1: Sauberes Wuppertal; Antrag der SPD-Fraktion vom 25.07.03 (VO/1883/03) - abschließend zur Kenntnis genommen
+- TOP 4.2.2: Ergänzungsantrag zu Drucks.-Nr.: VO/2653/04 - Sauberes Wuppertal
+- TOP 4.3: Erhalt der "Integrativen-Waldorf-Kindertagesstätte - ungeändert beschlossen
+- TOP 4.4: Änderungsantrag zur Verwaltungs-Drs. VO/2331/03 - 1. Ergänzung
+- TOP 4.5: Vorbereitung einer Verfassungsklage
+- TOP 5: Ortsrecht
+- TOP 5.1: Landschaftsplanverfahren - Landschaftsplan Nord - Satzungsbeschluss - geändert beschlossen
+- TOP 5.1.1: Landschaftsplanverfahren - Landschaftsplan Nord - Satzungsbeschluss - geändert beschlossen
+- TOP 5.1.2: Landschaftsplanverfahren - Landschaftsplan Wuppertal-Nord - Satzungsbeschluss - geändert beschlossen
+- TOP 5.1.3: Änderungsantrag der Umweltverbände zu VO/2383/03 - Landschaftsplan Nord - in der Sache erledigt
+- TOP 5.1.4: Änderungsantrag zu VO/2383/03 Landschaftsplan Nord - in der Sache erledigt
+- TOP 5.1.5: 2. Änderungsantrag zu VO/2383/03 und VO/2387/03 - Landschaftsplan Wuppertal Nord - in der Sache erledigt
+- TOP 5.1.6: Ergänzungs- und Änderungsantrag zu VO/2383/03 - in der Sache erledigt
+- TOP 5.2: Landschaftsplanverfahren - Landschaftsplan West - Satzungsbeschluss - geändert beschlossen
+- TOP 5.2.1: Landschaftsplanverfahren - Landschaftsplan West - Satzungsbeschluss - ungeändert beschlossen
+- TOP 5.2.2: Landschaftsplanverfahren - Landschaftsplan Wuppertal-West - Satzungsbeschluss - geändert beschlossen
+- TOP 5.2.3: Änderungsantrag zu VO/2387/03 Landschaftsplan West - in der Sache erledigt
+- TOP 5.2.4: 2. Änderungsantrag zu VO/2387/03 - Landschaftsplan Wuppertal West - in der Sache erledigt
+- TOP 5.2.5: Änderungsantrag der Umweltverbände zu VO/2387/03 - Landschaftsplan West - in der Sache erledigt
+- TOP 5.2.6: Ergänzungs- und Änderungsantrag zu VO/2387/03, Landschaftsplan Wuppertal-West - in der Sache erledigt
+- TOP 5.3: Landschaftsplan Wuppertal-Ost Umsetzung der FFH - Richtlinie in der Landschaftsplanung - ungeändert beschlossen
+- TOP 5.4: Landschaftsplan Wuppertal-Gelpe Umsetzung der FFH - Richtlinie in der Landschafttsplanung - ungeändert beschlossen
+- TOP 5.5: Entgeltordnung für das Fuhlrott-Museum - ungeändert beschlossen
+- TOP 5.6: Rückwirkender Erlass einer Vergnügungssteuersatzung - ungeändert beschlossen
+- TOP 5.7: Zusätzliche Ladenöffnungszeiten - ungeändert beschlossen
+- TOP 6: Haushaltsangelegenheiten
+- TOP 7: Angelegenheiten des Beteiligungsmanagements
+- TOP 8: Planverfahren
+- TOP 8.1: Bauleitplanverfahren Nr. 634 - Funckstraße - - ungeändert beschlossen
+- TOP 8.2: Vorhabenbezogener Bebauungsplan Nr. 890 V - Am Kalkofen- - ungeändert beschlossen
+- TOP 8.3: Aufhebung einer Veränderungssperre im Bebauungsplan 976 - Vohwinkeler Straße/Haaner Straße - - ungeändert beschlossen
+- TOP 8.4: Bauleitplanverfahren Nr. 622 B -Friedrich-Engels-Allee - ungeändert beschlossen
+- TOP 8.5: 1. Änderung des Bebauungsplan Nr 810 A -Uellendahler Str. Zamenhofstr.- Aufstellungsbeschluss - ungeändert beschlossen
+- TOP 8.6: Anordnung einer Veränderungssperre im Bebauungsplan 887 - Clausenstr. / Schwesterstr. - - ungeändert beschlossen
+- TOP 8.7: Aufstellung eines Bebauungsplans Wiesenstraße/Froweinstraße
+- TOP 8.8: Bauleitplanverfahren Nr. 933- Bahnhofstraße / Südstraße 2. Änderung Aufstellungs- und Offenlegungsbe - ungeändert beschlossen
+- TOP 8.9: Flächennutzungsplan der Stadt Wuppertal - Feststellungsbeschluss - - geändert beschlossen
+- TOP 8.9.1: Flächennutzungsplan der Stadt Wuppertal - Feststellungsbeschluss - - geändert beschlossen
+- TOP 8.9.2: Änderungsantrag zu VO/2314/03 Flächennutzungsplan - in der Sache erledigt
+- TOP 8.9.3: Änderungsantrag der Umweltverbände zu VO/2314/04 - Flächennutzungsplan - in der Sache erledigt
+- TOP 8.9.4: Flächennutzungsplan 2004/"In der Rutenbeck"-Darstellung der "Jugendfarm" als Gemeinbedarfsfläche - in der Sache erledigt
+- TOP 8.9.5: Änderungsantrag zu VO/2314/03 Flächennutzungsplan - in der Sache erledigt
+- TOP 8.10: Bauleitplanverfahren Nr.496 - Kuchhauser Straße - - ungeändert beschlossen
+- TOP 8.11: Bauleitplanverfahren Nr. 653 - Neue Friedrichstraße / Gathe 1. Änderung - ungeändert beschlossen
+- TOP 9: Baumaßnahmen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Strategische Steuerung - geändert beschlossen
+- TOP 10.1.1: Änderungsantrag zur Drucksache VO/2163/03 - geändert beschlossen
+- TOP 10.1.2: Änderungsantrag zur Beschlussvorlage VO 2163/03 - Strategische Steuerung - Kohlenbahntrasse - ungeändert beschlossen
+- TOP 10.2: Managementprogramm 2004/2005 der Stadt Wuppertal
+- TOP 10.3: Schulbezirksänderungen im Rahmen der Grundschulentwicklungsplanung für Wuppertal-Cronenberg
+- TOP 10.4: Schulentwicklungsplanung im Stadtbezirk Ronsdorf - Bestimmungsverfahren zur Festlegung der Schulart - ungeändert beschlossen
+- TOP 10.5: Neuorganisation der Untersuchungsämter Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 10.6: Sanierung der Turnhalle Am Hedtberg 26 in Wuppertal Langerfeld - ungeändert beschlossen
+- TOP 10.7: Bearbeitungsreihenfolge der Denkmalbereichsatzungen für Wuppertal - ungeändert beschlossen
+- TOP 11: Gremienbesetzung / Benennungen
+- TOP 11.1: Neuwahl eines Mitglieds des Jugendhilfeausschusses - ungeändert beschlossen
+- TOP 11.2: Benennung eines stellv. Mitgliedes im Ausschuss Frauenförderung - ungeändert beschlossen
+- TOP 12: Genehmigung von Dringlichkeitsentscheidungen
