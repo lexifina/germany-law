@@ -1,1 +1,1 @@
-# Verordnung zur Sicherung von Naturdenkmälern vom 16. Februar 1957
+# Dritte Verordnung zur Sicherung von Naturdenkmalen vom 23. November 1960
