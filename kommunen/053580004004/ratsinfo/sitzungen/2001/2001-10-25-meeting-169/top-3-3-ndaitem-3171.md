@@ -1,4 +1,4 @@
-# TOP 3.3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+# TOP 3.3.: Umgestaltung/Modernisierung des Römerparks in Aldenhoven unter Einbeziehung einer naturnahen Gestaltung des Merzbaches
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
