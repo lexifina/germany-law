@@ -2,7 +2,7 @@
 
 - Gemeinde: Stadt Duisburg (ARS 051120000000)
 - Datum: 2004-07-14 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.duisburg.de/rathaus/rathausundpolitik/ortsrecht/S37.02-Krankenkraftwagensatzung-6.Aenderung-ab-05.10.2021.pdf
+- Quelle: https://www.duisburg.de/rathaus/rathausundpolitik/ortsrecht/S37.02-Krankenkraftwagensatzung-7.Aenderung-30.09.23.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -26,15 +26,16 @@ Die Satzung beruht auf:
 (6) Begleitpersonen können, soweit mit dem Krankenkraftwagen eine Beförderungsmöglichkeit besteht, mitbefördert werden.
 § 22, 6, 7 Gebührentatbestand und Gebührenhöhe
 (1) Für die Inanspruchnahme des Rettungsdienstes der Stadt Duisburg werden Gebühren erhoben. Die Inanspruchnahme des Rettungsdienstes beginnt, sobald Krankenkraftwagen ausgefahren sind.
-(2) Die Höhe der Gebühren richtet sich nach dem anliegenden Gebührentarif, der Bestandteil dieser Satzung ist. Bei der Gebührenkalkulation werden die Kosten der Fehleinsätze angesetzt.
-(3) Für Fahrten, die über die Stadtgrenze hinausgehen, ist zuvor eine Kostengarantie beizubringen oder ein Kostenvorschuss in Höhe der voraussichtlich entstehenden Gebühren einzuzahlen.
-(4) Die Beförderung von Begleitpersonen von der Abholstelle bis zum Ziel ist unentgeltlich. Die Rückfahrt der Begleitperson vom Beförderungsziel aus bzw. die Mitnahme der Begleitperson bis zur Abholstelle des Patienten (Hinfahrt) sind gebührenpflichtig.
+
 1
 
 37.02
 
 Krankenkraftwagensatzung
 
+(2) Die Höhe der Gebühren richtet sich nach dem anliegenden Gebührentarif, der Bestandteil dieser Satzung ist. Bei der Gebührenkalkulation werden die Kosten der Fehleinsätze angesetzt.
+(3) Für Fahrten, die über die Stadtgrenze hinausgehen, ist zuvor eine Kostengarantie beizubringen oder ein Kostenvorschuss in Höhe der voraussichtlich entstehenden Gebühren einzuzahlen.
+(4) Die Beförderung von Begleitpersonen von der Abholstelle bis zum Ziel ist unentgeltlich. Die Rückfahrt der Begleitperson vom Beförderungsziel aus bzw. die Mitnahme der Begleitperson bis zur Abholstelle des Patienten (Hinfahrt) sind gebührenpflichtig.
 §3 Gebührenpflichtige
 (1) Zur Zahlung der Gebühr ist verpflichtet, wer die Leistung empfängt, bestellt oder bestellen lässt. Mehrere Gebührenpflichtige haften als Gesamtschuldner.
 (2) Als Besteller gilt nicht, wer den Rettungsdienst als unbeteiligter Dritter nicht schuldhaft alarmiert.
@@ -46,15 +47,22 @@ entfällt (siehe F1)
 §6 In-Kraft-Treten
 (1) Diese Satzung tritt am Tag nach der öffentlichen Bekanntmachung in Kraft.
 (2) Gleichzeitig tritt die Satzung über die Inanspruchnahme des Rettungsdienstes der Stadt Duisburg und Gebührenerhebung (Krankenkraftwagensatzung) vom 14. Juli 1993 (Amtsblatt für die Stadt Duisburg Nr. 26/1993, S. 153) in der Fassung der 1. Änderung vom 03. Februar 1994 (Amtsblatt für die Stadt Duisburg Nr. 8/1994, S. 43) außer Kraft.
-F1 Aufgehoben durch Beschluss des Rates der Stadt (DS 13-1493) vom 07.04.2014 i. Verb. mit DS 15-0021, Rat der Stadt vom 02.03.2015, Bekanntmachung im Amtsblatt der Bezirksregierung Düsseldorf (Nr. 22/2015, S. 205). 1Amtsblatt für die Stadt Duisburg Nr. 27/2004, S. 281-285 in Kraft getreten am 31.07.2004 2Amtsblatt für die Stadt Duisburg Nr. 06/2010, S. 67-69 1. Änderung vom 03.02.2010, in Kraft getreten am 16.02.2010 Gebührentarif geändert (Anlage gemäß § 2 Abs. 2 der Krankenkraftwagensatzung) 3Amtsblatt für die Stadt Duisburg Nr. 22/2013 vom 15.07.2013, S. 170-172 2. Änderung vom 08.07.2013, in Kraft getreten am 16.07.2013 4Amtsblatt für die Stadt Duisburg Nr. 25/2015 vom 30.06.2015, S. 165-166 3. Änderung vom 23.06.2015, in Kraft getreten am 01.07.2015
-5Amtsblatt für die Stadt Duisburg Nr. 30/2017 vom 31.07.2017, S. 239 - 242 4. Änderung vom 05.07.2017, in Kraft getreten am 01.08.2017 Änderung Gebührentarif 6Amtsblatt für die Stadt Duisburg Nr. 32/2019 vom 15.10.2019, S. 431-432 5. Änderung vom 09.10.2019, in Kraft getreten am 16.10.2019 Änderung des § 2
+
+F1 Aufgehoben durch Beschluss des Rates der Stadt (DS 13-1493) vom 07.04.2014 i. Verb. mit DS 15-0021, Rat der Stadt vom 02.03.2015, Bekanntmachung im Amtsblatt der Bezirksregierung Düsseldorf (Nr. 22/2015, S. 205).
+
 2
 
 37.02
 
 Krankenkraftwagensatzung
 
-7Amtsblatt für die Stadt Duisburg Nr. 44/2021 vom 04.10.2021, S.495-497 6. Änderung vom 30.09.2021 in Kraft getreten am 05.10.2021 Gebührentarif geändert (Anlage gemäß § 2 Abs. 2 der Krankenkraftwagensatzung)
+1Amtsblatt für die Stadt Duisburg Nr. 27/2004, S. 281-285 in Kraft getreten am 31.07.2004
+2Amtsblatt für die Stadt Duisburg Nr. 06/2010, S. 67-69 1. Änderung vom 03.02.2010, in Kraft getreten am 16.02.2010 Gebührentarif geändert (Anlage gemäß § 2 Abs. 2 der Krankenkraftwagensatzung) 3Amtsblatt für die Stadt Duisburg Nr. 22/2013 vom 15.07.2013, S. 170-172 2. Änderung vom 08.07.2013, in Kraft getreten am 16.07.2013
+4Amtsblatt für die Stadt Duisburg Nr. 25/2015 vom 30.06.2015, S. 165-166 3. Änderung vom 23.06.2015, in Kraft getreten am 01.07.2015
+5Amtsblatt für die Stadt Duisburg Nr. 30/2017 vom 31.07.2017, S. 239 - 242 4. Änderung vom 05.07.2017, in Kraft getreten am 01.08.2017 Änderung Gebührentarif
+6Amtsblatt für die Stadt Duisburg Nr. 32/2019 vom 15.10.2019, S. 431-432 5. Änderung vom 09.10.2019, in Kraft getreten am 16.10.2019 Änderung des § 2
+7Amtsblatt für die Stadt Duisburg Nr. 44/2021 vom 04.10.2021, S.495-497 6. Änderung vom 30.09.2021, in Kraft getreten am 05.10.2021 Gebührentarif geändert (Anlage gemäß § 2 Abs. 2 der Krankenkraftwagensatzung)
+8Amtsblatt für die Stadt Duisburg Nr. 28/2023 vom 29.09.2023, S. 417-420 7. Änderung vom 19.09.2023, in Kraft getreten am 30.09.2023 Neufassung Gebührentarif
 
 3
 
@@ -62,131 +70,72 @@ Krankenkraftwagensatzung
 
 Krankenkraftwagensatzung
 
-Gebührentarif zur Krankenkraftwagensatzung 2, 3, 4, 5, 6, 7
+Gebührentarif zur Krankenkraftwagensatzung 2, 3, 4, 5, 6, 7, 8
 
-Lfd.
-
-Gegenstand
-
-Nr.
-
-1.
-
-Basistarif Einzeltransporte (Fahrt von Ab-
-
-holstelle bis zum Ziel)
-
-1.1.
-
-Krankentransport
-
-1.2.
-
-Notfalltransport
-
-2.
-
-Besondere Leistungen
-
-2.1.
-
-Bereitstellung des Notarztes
-
-2.1.1. 2.1.1.1. 2.1.1.1.1. 2.1.1.1.2.
-
-Mit Notarzteinsatzfahrzeug (NEF) Mehrere Notfallpatienten Bei zwei Notfallpatienten Bei mehr als zwei Notfallpatienten
-
-2.2.
-
-Sammeltransporte
-
-2.2.1.
-
-Bei zwei transportierten Kranken
-
-2.2.2.
-
-Bei mehr als 2 transportierten Kranken
-
-2.3.
-
-Ausgefahrene, aber nicht benutzte Kran-
-
-kenkraftwagen/ Hilfeleistungen
+Lfd. Gegenstand Nr.
 
 Gebührenmaßstab
 
-Gebühren-
-satz EUR
+1.
 
-344,90 395,60
+Einsatzfahrzeuge
 
-je Person je Person
+1.1. 1.1.1.
 
-508,50
-381,35 298,70
+Krankentransportwagen (KTW) mit und ohne Transport Bei zwei transportierten Patienten
 
-je Person 60 % des je-
+je Einsatz je Person und Einsatz
 
+1.1.2. Bei mehr als zwei transportierten Patien- je Person und Einsatz ten
+
+1.2. 1.2.1.
+
+Rettungstransportwagen (RTW) mit und ohne Transport Bei zwei transportierten Patienten
+
+je Einsatz je Person und Einsatz
+
+1.2.2. Bei mehr als zwei transportierten Patien- je Person und Einsatz ten
+
+2.
+
+Notarzteinsatz (einschließlich NEF)
+
+2.1. Bei einem Notfallpatienten
+
+je Einsatz
+
+2.2. Bei zwei Notfallpatienten 2.3. Bei mehr als zwei Notfallpatienten
+
+je Person und Einsatz je Person und Einsatz
+
+3.
+
+Hilfeleistungen (sofern bereits bei Alar- 75 % des jeweiligen
+
+mierung feststeht, dass kein Transport Tarifs der Tarifstelle 1.
+
+erforderlich sein wird)
+
+Gebührensatz EUR
+543,60
+60 % der Tarifstelle 1.1.
+40 % der Tarifstelle 1.1.
+707,05
+60 % der Tarifstelle 1.2.
+40 % der Tarifstelle 1.2.
+688,55
+516,40 404,50
 *
 
-weiligen Tarifs der Tarif-
+4.
 
-stelle 1.
+Vorsorgliche Bereitstellungen
 
-je Person 40 % des je-
+4.1. Vorsorgliche Bereitstellung eines Krankentransportwagens (KTW) je angefangene 15 Minuten
+4.2. Vorsorgliche Bereitstellung eines Rettungstransportwagens (RTW) je angefangene 15 Minuten
+4.3. Vorsorgliche Bereitstellung eines Notarzteinsatzfahrzeuges (NEF) je angefangene 15 Minuten
 
-*
-
-weiligen Tarifs der Tarif-
-
-stelle 1.
-
-75 % des jeweiligen Ta-
-
-*
-
-rifs der Tarifstelle 1.
-
-2.4.
-
-Anschließende Weiter- oder Rückfahrt
-
-2.4.1.
-
-Bei Einzeltransporten
-
-75 % des jeweiligen Ta-
-
-*
-
-rifs der Tarifstelle 1.
-
-je Person 45 % des je-
-
-*
-
-2.4.2.
-
-Bei zwei transportierten Patienten (Sammel- weiligen Tarifs der Tarif-
-
-transport)
-
-stelle 1.
-
-2.4.3.
-
-Bei mehr als 2 transportierten Patienten
-
-je Person 30 % des je-
-
-*
-
-(Sammeltransport)
-
-weiligen Tarifs der Tarif-
-
-stelle 1.
+64,55 247,95 221,60
 
 4
 
@@ -194,68 +143,63 @@ stelle 1.
 
 Krankenkraftwagensatzung
 
-Lfd.
-
-Gegenstand
-
-Gebührenmaßstab
-
-Ge-
-
-Nr.
-
-bühren-
-
-satz
-
-EUR
-
-2.5.
+5.
 
 Kilometerpauschale Hin- und Rückfahrt
 
-außerhalb des Stadtgebietes (gilt auch bei
+außerhalb des Stadtgebietes (gilt auch
 
-ausgefahrenem, aber nicht benutztem
+bei ausgefahrenem, aber nicht benutz-
 
-Krankenkraftwagen)
+tem Krankenkraftwagen)
 
-2.5.1.
-
-Bei Einzeltransporten
+5.1. Bei Einzeltransporten
 
 je km
 
-3,80
+5.2. Bei zwei transportierten Patienten (Sam- je Person und km
 
-2.5.2.
+meltransport)
 
-Bei zwei transportierten Patienten (Sammel- je Person und km
+5.3. Bei mehr als zwei transportierten Patien- je Person und km
 
-1,90
+ten (Sammeltransport)
 
-transport)
+6.
 
-2.5.3.
+Transport von Begleitpersonen in nicht je Person 25 % des je-
 
-Bei mehr als 2 transportierten Patienten
+medizinisch begründeten Fällen
 
-je Person und km
+weiligen Tarifs der Ta-
 
-1,25
+rifstelle 1.
 
-(Sammeltransport)
+7.
 
-2.6.
+Besondere Auslagen / Reisekosten
 
-Rück- bzw. Hintransport von Begleitperso- 25 % des jeweiligen Ta-
+Besondere Auslagen, die im Zusammen-
 
-33,70
+hang mit der Leistung stehen, sind geson-
 
-nen in allen medizinisch nicht begründba- rifs der Tarifstelle 1.1.
+dert zu vergüten.
 
-ren Fällen je Person
+Sofern bei einem Krankentransport oder
+
+Notfalleinsatz Kosten für Verpflegung
+
+und/oder Übernachtung anfallen, werden
+
+diese im Rahmen der jeweils gültigen Fas-
+
+sung des Landesreisekostengesetzes
+
+(LRKG) NW abgerechnet.
 
 *abzurunden auf durch 0,05 € teilbare Beträge
+
+3,80 1,90 1,25
+135,90
 
 5
