@@ -10,6 +10,7 @@ Abschnitt 2 Zuordnung von Übertragungskapazitäten
 § 6 | Zuordnung von Übertragungskapazitäten zwischen Ländern
 Abschnitt 3 Zulassung von Rundfunkprogrammen
 § 7 | Zulassung, Antragsverfahren
+§ 7a | Vereinfachtes Zulassungsverfahren
 § 8 | Zulassungsvoraussetzungen
 § 9 | Zulassungsgrundsätze
 § 10 | Zulassungsbeschränkungen zur Sicherung der Vielfalt
@@ -56,5 +57,7 @@ Abschnitt 11 Datenschutz
 § 43 | Geltung von Datenschutzvorschriften
 § 44 | Datenschutzkontrolle
 § 45 | Datenverarbeitung für publizistische Zwecke
-Abschnitt 12Bußgeldvorschriften
+Abschnitt 11aModellversuche
+§ 45a | Modellversuche
+Abschnitt 12 Bußgeldvorschriften
 § 46 | Ordnungswidrigkeiten
