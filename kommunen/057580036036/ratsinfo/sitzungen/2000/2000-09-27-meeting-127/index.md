@@ -1,0 +1,58 @@
+# Rat der Stadt Vlotho
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 2000-09-27T17:00:00+02:00
+- Ende: 2000-09-27T18:00:00+02:00
+- Ort: Rathaus, Lange Str. 60, 32602 Vlotho, Sitzungssaal
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRU0LmOsx__NSy5J3V5ITJI
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/127
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTa-IDBs_0DCm6dByNwDuSeasP1-L3AKJ8QXIKw6DSpg/Oeffentliche_Niederschrift_Rat_27.09.2000.pdf
+
+## Tagesordnung
+
+- TOP 1.: Niederschrift über die . Sitzung vom
+- TOP 2.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 2.1.: Genehmigung einer Dringlichen Entscheidunghier: Aufhebung des Beschlusses zum Erlass einer Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass - Einstimmig, 0 Enthaltung(en)
+- TOP 2.2.: Genehmigung zur Leistung einer überplanmäßigen Ausgabe bei den Haushaltsstellen 1.421.7913.00.5 (Geldleistungen nach dem Asylbewerberleistungsgesetz) in Höhe von 320.000,- DM und 1.422.7920.00.0 ( Leistungen bei Krankheit nach dem Asylbewerberleistungsgesetz) in Höhe von 130.000,- DM - Einstimmig, 2 Enthaltung(en)
+- TOP 2.3.: Genehmigung zur Leistung einer ausserplanmäßigen Haushaltsausgabe für die Durchführung der Vlothoer Informationstage bei HHst. 1.791.5800.00.9 - Einstimmig, 0 Enthaltung(en)
+- TOP 2.4.: Erschließung einer Grundstücksfläche im Geltungsbereich des Bebauungsplanes "Auf dem Berkenstein" hier: Änderung der genehmigten Straßenplanung - Einstimmig, 1 Enthaltung(en)
+- TOP 2.5.: "Vlotho beWegt!": Wettbewerbsbeitrag der Stadt Vlotho im Rahmen der City-Offensive NRW "Ab in die Mitte" - Leistung einer außerplanmäßigen Haushaltsausgabe - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 4.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 5.: Angelegenheiten des Kurzweckverbandes (Berichte und Beschlussfassungen)
+- TOP 7.: Änderung der allgemeinen Erdgastarife und der Erdgassonderpreise zum 01. Oktober 2000 - 31 Ja-Stimme(n), 2 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 8.: Änderung der Beitrags- und Gebührensatzung der Stadtwerke Vlotho -  
+- TOP 9.: Zusammenführung der Aufgaben- und Finanzverantwortung in der Sozialhilfe hier: Abschluss eines Vertrages zwischen dem Kreis Herford als örtlichem Träger der Sozialhilfe und seinen kreisangehörigen Städten und Gemeinden über die Regelung der Finanzverantwortung für Hilfen, zu deren Durchführung die Kommunen per Satzung herangezogen sind und eines interkommunalen Härteausgleichs - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Satzung über den Ersatz von Verdienstausfall für die beruflich selbständigen eh-renamtlichen Angehörigen der Freiwilligen Feuerwehr - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Auslagenersatz für Angehörige der Freiwilligen Feuerwehr - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Besetzung des ASJS - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Neuwahl eines Sozialbetreuers/einer Sozialbetreuerin für den Ortsteil Uffeln - Einstimmig, 3 Enthaltung(en)
+- TOP 14.: Umbesetzung von Ausschüssen - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Bildung der Einigungsstelle für die Zeit vom 23.05.2000 – 22.05.2004 (Dauer der Wahlperio-de des Personalrates) gem. § 67 Landespersonalvertretungsgesetz (LPVG NW) - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Umorganisation der städt. Werke - Einstimmig, 3 Enthaltung(en)
+- TOP 17.: Änderung der Friedhofssatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Jahresrechnung der Stadt Vlotho für das Haushaltsjahr 1999 sowie Entlastung der Bürgermeisterin - 33 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 19.: Über- und außerplanmäßige Haushaltsausgaben im Haushaltsjahr 2000 - Zur Kenntnis genommen
+- TOP 20.: Taxibus-System Vlotho
+- TOP 21.: Ausbau des Höferweges in Vlotho-Uffeln hier: Leistung einer außerplanmäßigen Haushaltsausgabe bei der Haushaltsstelle 1.630.9561.00.0 - Einstimmig, 1 Enthaltung(en)
+- TOP 22.: Leistung einer außerplanmäßigen Hauhaltsausgabe im Unterabschnitt 690(Planungskosten für die Gewässerumlegung an der Pivitstaße) - 33 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 23.: Leistung einer überplanmäßigen Haushaltsausgabe 1.690.9525.00.8 (Forellenbach) hier: Erstellung eines Konzeptes zur naturnahen Entwicklung der Linnenbeeke - 32 Ja-Stimme(n), 2 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 24.: Ausbau des Soleradweges im Bereich der Salzuflener Str. (K 15) hier: Abschluss einer Vereinbarung mit dem Kreis Herford - Einstimmig, 0 Enthaltung(en)
+- TOP 25.: Aufstellung des "vorhabensbezogenen Bebauungsplanes" U 4 "Fischerstatt/ Rosenburg" nach § 12 Baugesetzbuch (BauGB) - Einstimmig, 1 Enthaltung(en)
+- TOP 26.: Radwegeverbindung Uffeln-Borlefzen - Einstimmig, 0 Enthaltung(en)
+- TOP 27.: Umgestaltung von Teilbereichen des Friedhofes Wasserstraße hier: Leistung einer überplanmäßigen Haushaltsausgabe bei der Haushaltsstelle 1.750.9455.00.7 - 32 Ja-Stimme(n), 2 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 28.: 13. Änderung des Flächennutzungsplanes (Vorrangflächen für Windkraftanlagen) hier: Beschlussfassung zu vorgebrachten Anregungen - Einstimmig, 0 Enthaltung(en)
+- TOP 29.: 13. Änderung des Flächennutzungsplanes hier: Abschlussbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 30.: 12. Änderung des Flächennutzungsplanes hier: Beschlussfassung zu vorgebrachten Anregungen zur Darstellung von Wohnbauflächen - Einstimmig, 0 Enthaltung(en)
+- TOP 31.: 12. Änderung des Flächennutzungsplanes hier: Abschlussbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 32.: 15. Änderung des Flächennutzungsplanes hier: Abschlussbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 33.: Aufstellung des Bebauungsplanes E 9 "Im Meisenfeld" hier: Beschlussfassung zu vorgebrachten Anregungen - Einstimmig, 0 Enthaltung(en)
+- TOP 34.: Aufstellung des Bebauungsplanes E 9 Industriegebiet "Im Meisenfeld" hier: Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 35.: Aufstellung des Bebauungsplanes E 10 "Solarsiedlung Exter" hier: Beschlussfassung zu vorgebrachten Anregungen - Einstimmig, 0 Enthaltung(en)
+- TOP 36.: Aufstellung des maßnahmenbezogenen Bebauungsplanes E 10 "Solarsiedlung Exter" hier: Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 38.: Anfragen nach § 18 der Geschäftsordnung und Mitteilungen
+- TOP 41.: Angelegenheiten des Kurzweckverbandes (Berichte und Beschlussfassungen)
+- TOP 42.: Anregungen und Beschwerden gem. § 24 GO
