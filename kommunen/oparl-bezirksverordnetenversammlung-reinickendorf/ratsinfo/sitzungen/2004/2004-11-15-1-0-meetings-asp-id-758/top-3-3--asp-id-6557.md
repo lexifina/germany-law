@@ -1,0 +1,8 @@
+# TOP 3.3: Internetauftritt des Bezirks Mitberatung: Vorstand der BVV vertagt am: 14.06.2004 und 20.09.2004
+
+- Sitzung: 21. öffentliche Sitzung des Verwaltungsausschusses (2004-11-15)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=6557
+- Ergebnis: erledigt
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=6557
