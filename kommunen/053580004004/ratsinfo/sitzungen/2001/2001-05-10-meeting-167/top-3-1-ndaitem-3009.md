@@ -1,4 +1,4 @@
-# TOP 3.1.: Schulangelegenheiten
+# TOP 3.1.: Umwandlung der Schule für Lernbehinderte -Schirmer-Schule- in Jülich in eine Verbundschule
 
 - Sitzung: Schul- und Sozialausschuss (2001-05-10)
 - Körperschaft: Gemeinde Aldenhoven
