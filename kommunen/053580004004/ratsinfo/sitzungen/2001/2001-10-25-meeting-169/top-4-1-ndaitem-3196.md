@@ -1,4 +1,4 @@
-# TOP 4.1.: Grundstücksangelegenheiten
+# TOP 4.1.: Übertragung einer Straßenteilfläche in der Gemarkung Siersdorf
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
