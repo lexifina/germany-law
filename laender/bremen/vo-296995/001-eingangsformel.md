@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund der §§ 40 und 41 Abs. 1 und 2 des Bremischen Wassergesetzes vom 13. März 1962 (SaBremR 2180-a-1), zuletzt geändert durch Artikel 54 des Gesetzes zur Anpassung des Landesrechts an das Einführungsgesetz zum Strafgesetzbuch und andere bundesrechtliche Vorschriften vom 18. Dezember 1974 (Brem.GBl. S. 351), und der §§ 19 und 41 des Wasserhaushaltsgesetzes vom 27. Juli 1957 (BGBl. I S. 1110), zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974 (BGBl. I S. 469), verordnet der Senat:
