@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 1993-11-22 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/ges_ddr_1993
+- Datum: 1994-04-07 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/leitstellen1994
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -27,147 +27,314 @@ A |
 
 Aktuelle Fassung
 
-Hinweise zur Meldung, Aufbewahrung und Nutzung von Patientenunterlagen, Zentralkarteien, Zentralregistern und Zentraldateien mit patientenbezogenem (medizinischem) Inhalt aus ehemaligen Gesundheitseinrichtungen der DDR
+Gemeinsamer Runderlass über die Errichtung und den Betrieb von Leitstellen für den Brandschutz, Rettungsdienst und Katastrophenschutz (Leitstellenerlass)
 
-vom 22. November 1993
+vom 7. April 1994
 
-(ABl./93, [Nr. 95], S.1725)
+(ABl./94, [Nr. 27], S.400)
 
-Auf Grund des § 34 des Brandenburgischen Datenschutzgesetzes (Bbg DSG) vom 20. Januar 1992 (GVBl. I S. 2) in Verbindung mit § 1 Abs. 4 der Verordnung über den öffentlichen Gesundheitsdienst (ÖGD) und die Aufgaben der Gesundheitsämter in den Landkreisen und kreisfreien Städten vom 8. August 1990 (GBI. 1 S. 1086) wir bezüglich der Meldung, Aufbewahrung und Nutzung von Patientenunterlagen, Zentralkarteien, Zentralregistern und Zentraldateien aus ehemaligen Gesundheitseinrichtungen der DDR folgendes festgelegt:
+Auf Grund des § 26 Abs. 3 Nr. 1 des Brandschutzgesetzes (BSchG) vom 14. Juni 1991 (GVBl. S. 192) in der Fassung der Bekanntmachung vom 9. März 1994 (GVBl. I S. 65) und § 11 Abs. 2 des Brandenburgischen Rettungsdienstgesetzes (BbgRettG) vom 8. Mai 1992 (GVBl. I S. 170) ergeht folgender Erlass:
 
-I. Ziel und Zweck
+1. Begriffsbestimmung
 
-Ziel dieses RunderIasses ist die Gewährleistung einer am geltenden Recht ausgerichteten, bürgerfreundlichen, sicheren und einheitlich gehandhabten Aufbewahrung, Verwaltung und Nutzung von personenbezogenen medizinischen Daten aus ehemaligen Gesundheitseinrichtungen der DDR im Land Brandenburg.
+Die Leitstellen der Landkreise und kreisfreien Städte sind Einrichtungen für den Rettungsdienst, den Brandschutz und den Katastrophenschutz. Sie sind ständig zu besetzen und dienen zur Entgegennahme von Hilfeersuchen und anderen Meldungen sowie zum Alarmieren, Koordinieren und Lenken von Einsatzkräften.
 
-Mit diesem Runderlaß wird ferner angestrebt verläßliche Informationen über Bestand und Verbleib von Patientenunterlagen zu erhalten. Zugleich ist beabsichtigt, eine arzt- und patientenorientierte Auskunftsmögllchkeit beiden Gesundheitsämtern über derartige für die betroffenen Personen wichtigen Unterlagen einzurichten.
+2. Generelle Aufgaben der Leitstelle
 
-Ferner sollen die Gesundheitsämter in die Lage versetzt werden, entsprechend ihrer örtlichen Zuständigkeit Auskunft über den Verbleib gesuchter Patientenunterlagen aus ehemaligen Gesundheitseinrichtungen der DDR zu geben.
+Die Leitstelle hat die Aufgabe, Hilfeersuchen aller Art anzunehmen, erforderlichenfalls weiterzuleiten und die notwendigen Maßnahmen einzuleiten. Dazu muss das Leitstellenpersonal in der Lage sein, eigenverantwortlich Hilfeersuchen und Gefahrensituationen einzuschätzen, zu beurteilen und entsprechende Schlussfolgerungen abzuleiten.
 
-Diese Auskunft erfolgt an auskunftsberechtigte Personen unter Beachtung des geltenden Rechts.
+Die Leitstelle arbeitet mit infragekommenden Dienststellen und Behörden sowie Nachbarleitstellen zusammen und dient fremden Einheiten als Ansprechstelle.
 
-II. Begriffsbestimmungen
+Sie überwacht den Funksprechverkehr des Rettungsdienstes, der Feuerwehren und der Einheiten des Katastrophenschutzes nach der Meterwellenfunkrichtlinie BOS und der Polizeidienstvorschrift PDV/DV 810.3.
 
-Patientenunterlagen im Sinne dieses Runderlasses sind:
+Für die Organisation und Durchführung des Dienstes in den Leitstellen ist eine Dienstanweisung durch den Landkreis bzw. die kreisfreie Stadt zu erlassen, in der insbesondere die Zuordnung der Leitstelle zu den betreffenden Dezernaten/Ämtern, ein verantwortlicher Leiter der Leitstelle sowie die Sicherstellung der Fachaufsicht festzulegen sind.
 
+Die in der Anlage 1 dargestellten Anhalte für die Vorhaltung von technischen Hilfsmitteln, Auskunftsunterlagen, Einsatzplänen u. a. sind zu beachten.
 
-Krankengeschichten,
+2.1 Aufgaben auf dem Gebiet des Rettungsdienstes
 
-Patientenkarteien und Patientenakten,
+Auf dem Gebiet des Rettungsdienstes sind folgende Aufgaben zu erfüllen:
 
-Röntgenunterlagen,
+Alarmierung der zuständigen Einsatzkräfte des Rettungsdienstes nach Maßgabe der Alarm- und Ausrückeordnung,
 
-patientenbezogene, medizinische Laborunterlagen und ähnliche Unterlagen (personenbezogene, medizinische Zentralregister, Zentraldateien und Zentralkarteien, wie nachfolgend in Nr. 2 und 3 aufgeführt), aus ehemaligen staatlichen Gesundheitseinrichtungen der DDR.
+Einsatzlenkung und -koordinierung des Rettungsdienstes,
 
-Zentralregister/Zentraldateien
+Führen eines täglich aktuellen Bettennachweises der Krankenhäuser im Rettungsdienstbereich, gegliedert nach Fachabteilungen,
 
-im Sinne dieses Runderlasses sind insbesondere die kreis- und bezirksbezogenen zentralgeführten, nachstehend aufgeführten Dateien und Register der DDR sowie andere Register/Dateien ähnlichen Inhalts die zu ähnlichen Zielen angelegt wurden.
+Führen einer Dokumentation zur Alarmierung des Rettungsdienstpersonals, Notarztes, Leitenden Notarztes u. a.,
 
-Wesentliche Zentralregister und Zentraldateien der ehemaligen Kreise und Bezirke der DDR sind Register/Dateien aus überbezirklichen Dispensaires und medizinischen Beratungsstellen sowie die vom Büro für Sozialhygiene bzw. den medizinisch-statistischen Abteilungen der Gesundheitsabteilungen der Kreise, z. B.:
+Führen der Leitstellendokumentation "Rettungsdienst"
 
+Auslösung von Maßnahmen (Sofortreaktion) bei größeren Schadensereignissen (Massenanfall von verletzten oder erkrankten Personen), Alarmierung der Sondereinsatzgruppen sowie der überörtlichen Hilfe, Unterstützung der Einsatzleitung,
 
-Krebsregister,
+Einholen und Weiterleiten erforderlicher Auskünfte (z. B. Giftnotruf, Spezialbetten, ...).
 
-Fachbericht Geschlechtskrankheiten,
+2.2 Aufgaben auf dem Gebiet des Brandschutzes
 
-Fachbericht Diabetikerberatung,
+Auf dem Gebiet des Brandschutzes sind von der Leitstelle folgende Aufgaben zu erfüllen:
 
-Fachbericht Rehabilitation,
+Alarmierung der zuständigen Einsatzkräfte nach Maßgabe der Alarm- und Ausrückeordnung,
 
-Fachbericht Beratung älterer Personen.
+Lenken und Koordinieren aller Einsätze der Feuerwehren,
 
-Zentralkarteien
+Unterstützung der Einsatzleitung vor Ort,
 
-im Sinne dieses Runderlasses sind archivierte Karteien in den ehemaligen Polikliniken bzw. den jetzigen Gesundheitszentren, über die Zugang zu Patientenunterlagen nach Nr. 1 gewonnen werden kann.
+Führen des Einsatztagebuches und der Einsatzstatistik,
 
-III. Allgemeine Grundsätze
+Bereithalten von Alarm- und Einsatzplänen sowie anderer Auskunftsunterlagen und Verzeichnisse (siehe Anlage 1),
 
-Öffentliche und nicht öffentliche Stellen im Land Brandenburg, die Patientenunterlagen oder andere personenbezogene medizinische Daten aus ehemaligen Gesundheitseinrichtungen der DDR in ihrer Verfügungsgewalt halten, haben diese entsprechend geltendem Recht und nach Maßgabe dieses Runderlasses aufzubewahren, zu verwalten und zu nutzen. Besonders zu beachten sind hierbei die Vorschriften des Brandenburgischen Datenschutzgesetzes, die über Artikel 9 des Einigungsvertrages fortgeltenden archivrechtlichen Bestimmungen der DDR, sofern sie nicht durch ein Landesarchivgesetz abgelöst werden, und die § 203 bis 205 des Strafgesetzbuches (StGB).
+Einholen und Weiterleiten von erforderlichen Auskünften, (z. B. über gefährliche Stoffe und Güter, u. a.),
 
-Nach § 34 Abs. 1 Bbg DSG stehen Patientenunterlagen, die sich zur Zeit im Besitz von niedergelassenen Ärztinnen oder Ärzten befinden und vor dem 3. Oktober 1990 von einer öffentlichen Gesundheitseinrichtung (z. B. Krankenhaus, Poliklinik), deren Aufgabe jetzt eine öffentliche SteIle des Landes, eine Gemeinde oder ein Gerneindeverband wahrnimmt, gespeichert wurden, demjenigen Träger der öffentlichen Verwaltung zu, der nunmehr für die Verwaltungsaufgabe zuständig ist. Sofern es für die ehemalige Einrichtung keine direkte Nachfolgeeinrichtung gibt, stehen die Unterlagen der öffentlichen Stelle zu, die heute Träger der Einrichtung wäre. Die Regelung in § 34 Abs. 1 Bbg DSG basiert auf der Vorschrift des Einigungsvertrages zum Verwaltungsvermögen (Artikel 21 Abs. 2).
+Alarmierung der überörtlichen Hilfe auf Anweisung bzw. Anforderung,
 
-Die Aufbewahrung, Verwaltung und Nutzung von Patientenunterlagen hat mit der schriftlichen Einwilligung der betroffenen Patientinnen oder Patienten, ihrer gesetzlichen Vertretung oder Erben zu erfolgen.
+Überwachung der angeschlossenen Feuer- und Fernmeldeeinrichtungen.
 
-Öffentliche Stellen, namentlich die Gesundheitsämter und Archive, bedürfen für die Aufbewahrung und Verwaltung von Patientenunterlagen keiner schriftlichen Einwilligung durch die betroffenen Patientinnen oder Patienten, ihrer gesetzlichen Vertretung oder Erben, sofern sie in Rechtsnachfolge der ehemaligen Gesundheitseinrichtungen die Patientenunterlagen, Zentralkarteien, Zentralregister oder Zentraldateien in ihr Verfügungsgewalt erhalten haben.
+2.3 Aufgaben auf dem Gebiet des Katastrophenschutzes
 
-Der Nachweis der geforderten schriftlichen Einwilligung nach Nr. 2 gilt als erbracht, wenn aufgrund von Eintragungen in die Patientenunterlagen oder anderen, vergleichbaren Anhaltspunkten erkennbar ist, dass sich die betroffenen Patientinnen oder Patienten bei dem Inhaber der Verfügungsgewalt über die Patientenunterlagen in ärztlicher Behandlung befinden oder zu einem Zeitpunkt nach dem 3. Oktober 1990 in ärztlicher Behandlung befanden.
+Im Katastrophenfall hat die Leitstelle folgende Aufgaben zu erfüllen:
 
-Die Behandlung von Impfdateien wird in einem gesonderten Runderlass geregelt.
+Auslösung von Sofortmaßnahmen,
 
-IV. Meldung
+Benachrichtigung der Katastrophenschutzbehörde, wenn ein Ereignis Katastrophenmerkmale aufweist,
 
-Die unter Nr. III.1 aufgeführten Stellen sind gehalten, die in ihrer Verfügungsgewalt befindlichen Dateien und Aktenbestände auf vorhandene Patientenunterlagen unter Berücksichtigung der einschlägigen Bestimmungen zu überprüfen. Die zuständigen Heilberufskammern haben in ihrem Verantwortungsbereich dafür Sorge zu tragen, daß die niedergelassene Ärzte- und Zahnärzteschaft in gleicher Weise verfährt.
+Einholen von Informationen über Schadensfälle,
 
-Abweichend von § 34 Abs. 3 Bbg DSG sollen Meldungen über das Vorhandensein von Patientenunterlagen an das örtlich zuständige Gesundheitsamt erfolgen. Die Erstmeldung soll bereits über den Inhalt des § 34 Abs. 3 Bbg DSG hinaus (vgl. auch Tz. 1.10 des Rundschreibens des Ministeriums des Innern zu den §§ 34 ff. des Brandenburgischen Datenschutzgesetzes 16. März 1992, Absatz 1 S. 363 ff.) namensbezogen erfolgen.
+Alarmierung weiterer Katastrophenschutzkräfte.
 
-Diese Meldungen sind bis zum 30. Juni 1994 namensbezogen an das örtlich zuständige Gesundheitsamt zu meIden. Eine Meldung von Patientenunterlagen, die zur begleitenden ärztlichen Betreuung genutzt werden, ist hierbei nicht erforderlich.
+Nach Zusammentritt der Katastrophenschutzleitung (KatSL) dient die Leitstelle als Meldestelle, Informations-, Nachrichtenübermittlungsstelle sowie Führungsmittel.
 
-Können Patientenunterlagen nicht anderweitig ordnungsgemäß aufbewahrt und genutzt werden, so verbleiben diese Patientenunterlagen bei der Ärztin oder dem Arzt, in deren Verfügungsgewalt sie sich zum gegenwärtigen Zeitpunkt befinden. Diese verfahren mit den Patientenunterlagen entsprechend den einschlägigen Bestimmungen. Dazu gehört, daß die Ärztin oder der Arzt die Unterlagen auf Anforderung an die weiterbehandelnde Ärztin oder den weiterbehandelnden Arzt abgibt.
+3. Personelle Ausstattung der Leitstelle
 
-Im Ausnahmefall können Patientenunterlagen an das örtlich zuständige Gesundheitsamt auf eine, die Rechtsvorschriften beachtende Weise übergeben werden.
+Grundsätzlich müssen in der Leitstelle ständig mindestens zwei Personen des Leitstellenpersonals zur Besetzung des Rettungsdienst- und des Brandschutzarbeitsplatzes anwesend sein.
 
-Jede Weitergabe von Patientenunterlagen ist zu dokumentieren und unterliegt der Nachweispflicht über dreißig Jahre, gerechnet vom Tage des letzten Eintrages in die Patientenunterlage.
+Das Leitstellenpersonal muss über umfangreiche Kenntnisse des Verantwortungsbereiches verfügen und derart qualifiziert sein, dass alle Aufgaben der Leitstelle (entsprechend Punkt 2) zügig und sicher erfüllt werden können.
 
-Patientenunterlagen sind durch das örtlich zuständige Gesundheitsamt zu katalogisieren und über dreißig Jahre (gerechnet vom Tage des letzten Eintrags in die Patientenunterlage) aufzubewahren.
+Leitstellenpersonal für den Rettungsdienst muss eine Rettungsassistentenausbildung oder Krankenschwester/-pflegerausbildung erfolgreich abgeschlossen haben, ein Jahr im Rettungsdienst tätig gewesen sein, einen Leitstellenlehrgang und den Sprechfunklehrgang für Leitstellenpersonal an einer vom Ministerium des Innern und Ministerium für Arbeit, Soziales, Gesundheit und Frauen anerkannten Ausbildungseinrichtung mit Erfolg absolviert haben.
 
-Patientenunterlagen die mit an Sicherheit grenzender Wahrscheinlichkeit nicht mehr zu Zwecken der medizinischen Behandlung bzw. für gutachterliche Bearbeitung genutzt werden und die ihre rechtlich festgelegten Aufbewahrungsfristen überschritten haben, sind zu vernichten.
+Leitstellenpersonal für den Brand- und Katastrophenschutz muss eine Ausbildung für Berufsoberbrandmeister (B3) und soweit noch nicht vorhanden einen Sprechfunklehrgang für Leitstellenpersonal vorweisen, ein Jahr Einsatzerfahrung besitzen und einen Leitstellenlehrgang an einer vom Ministerium des Innern anerkannten Ausbildungseinrichtung erfolgreich abgeschlossen haben.
 
-Ein Protokoll zur Dokumentation der durchgeführten Vernichtung ist namensbezogen anzulegen. Dieses Protokoll ist über weitere zehn Jahre, gerechnet vom Tage der Vernichtung der Unterlagen, aufzubewahren.
+Das Leitstellenpersonal hat alle drei Jahre eine 40-stündige Fortbildung und jährlich eine 4-wöchige praktische Tätigkeit im Einsatzdienst Feuerwehr/Rettungsdienst nachzuweisen.
 
-In Ausnahmefällen können Patientenunterlagen von dem örtlich zuständigen Kreisarchiv im Auftrage des örtlich zuständigen Gesundheitsamtes aufbewahrt und verwaltet werden.
+Die aktuell geltenden Festlegungen des Tarifvertrages (gegenwärtig die 40-Stunden Arbeitswoche) sind die Grundlagen für die Berechnung der Stellenanzahl je Leitstellenfunktion.
 
-Eine Meldung entsprechend Nr. 2 ist von einer meldepflichtigen Stelle auch dann abzugeben, wenn diese keine Patientenunterlagen aufbewahrt oder verwaltet. In diesem Fall ist der Vollzug des Runderlasses an das örtlich zuständige Gesundheitsamt zu melden.
+Eine gegenseitige Ersetzbarkeit des Leitstellenpersonals soll über eine entsprechende Qualifizierung erreicht werden. Dazu sind die angebotenen Qualifizierungsmöglichkeiten auf dem Gebiet des Brand- und Katastrophenschutzes sowie Rettungsdienstes zu nutzen.
 
-Treten nach dem 30. Juni 1994 nicht katalogisierte Patientenunterlagen in Erscheinung, so ist mit diesen entsprechend Nr. 1 bis 4 zu verfahren.
+Das zum Zeitpunkt des Inkrafttretens des Leitstellenerlasses diensttuende Leitstellenpersonal kann nach Feststellung der Eignung weiter beschäftigt werden, ist jedoch notwendigenfalls entsprechend diesem Runderlass nachzuqualifizieren.
 
-Es wird empfohlen, daß die Gesundheitsämter die bei ihnen eingehenden Meldungen über namensbezogene Patientenunterlagen in alphabetischer Reihenfolge katalogisieren, so, daß eine Person (Patientin oder Patient) jederzeit erfahren kann, 
+4. Technische Ausstattung der Leitstelle
 
+Die Leitstellen sind mit folgender technischer Grundausstattung zu versehen:
 
-ob sie betreffende Patientenunterlagen vorhanden sind,
+4.1 Nachrichtentechnische Ausstattung:
 
-welchen Inhalt diese haben und
+eine ausreichend ausgelegte Notrufabfrageeinrichtung, die dem Standard des Integrierten Systems Digitaler Netze (ISDN) entsprechen muss,
 
-bei welchen öffentlichen bzw. nicht öffentlichen Stellen sie sich befinden.
+nachrichtentechnische Verbindung zwischen Leitstelle und Polizei zur verzögerungsfreien gegenseitigen Überweisung von Notrufen,
 
-Die Gesundheitsämter ergänzen die von ihnen erstellten Verzeichnisse über die Patientenunterlagen, soweit möglich, fortlaufend.
+ausreichende Anzahl von Posthauptleitungen mit einer Nebenstellenanlage und Zielwahltasten,
 
-V Empfehlung zur Nutzung von Patientenunterlagen
+Telefax mit ca. 50 Speicherplätzen und eigener Amtsleitung,
 
-Grundsätzlich sind für die Nutzung von Patientenunterlagen die einschlägigen Bestimmungen zu beachten sowie die nachfolgenden Grundsätze, hier insbesondere die unter Nr. III.1 und V.2.b. genannten.
+EDV-Anlage, die für den Datentransfer geeignet ist,
 
-Auf Verlangen der betroffenen Patientin oder des Patienten, deren gesetzlichen Vertretung oder Erben ist diesem Personenkreis ein unmittelbares. Recht auf Einsichtnahme zu gewähren unter Beachtung der hierfür geltenden Regelungen (§ 18 Bbg DSG, ggf. i.V.m. § 1922 BGB; §§ 3, 7, 21, 35 und 67 des Sozialgesetzbuches (SGB). Fünftes Buch; § 12 Abs. 1 Verwaltungsverfahrensgesetz der Kriegsopferfürsorge) und unter Berücksichtigung der nachstehenden Empfehlungen.
+technische Einrichtungen für die digitale Alarmierung,
 
-Im Falle einer Einsichtnahme in Patientenunterlagen durch die Patientin oder den Patienten, deren gesetzlichen Vertretung oder Erben ist schriftlich (etwa in Form eines Vordruckes) darauf hinzuweisen, daß eine Einsichtnahme ohne ärztliche Begleitung und Beratung ggf. schwerwiegende Nachteile und Gefährdungen in bezug auf Gesundheit aber auch hinsichtlich des Lebens- und Gesundheitsverständnisses einer Betroffenen oder eines Betroffenen bewirken kann.
+Funkgeräte mit Anschluss an die vom Ministerium des Innern vorgegebenen Funkverkehrskreise (für 2 bis 3 Funkkanäle),
 
-Die ärztliche Begleitung und Beratung sollte im Regelfall durch die behandelnde Ärztin bzw. den behandelnden Arzt oder die Hausärztin bzw. den Hausarzt der antragstellenden Person erfolgen.
+Kurz- und Langzeitdokumentationen,
 
-Im Ausnahmefall kann eine Ärztin oder Arzt des Gesundheitsamtes diesen Dienst hilfsweise übernehmen. Eine Verpflichtung des Gesundheitsamtes, eine Ärztin oder Arzt für diese Zwecke zur Verfügung zu stellen, besteht nicht.
+Funkmeldesystem (FMS) mit Fahrzeuganweisung,
 
-Eine Aushändigung von Patientenunterlagen kann nur an eine behandelnde Ärztin oder einen behandelnden Arzt auf deren schriftliche Anforderung mit Einwilligung der betroffenen Patientin oder Patienten zu Zwecken der medizinischen Behandlung oder Begutachtung erfolgen.
+ausreichend dimensionierte Notstromeinrichtung,
 
-Im Falle einer Anforderung verbleiben die Patientenunterlagen bei der anfordernden Ärztin oder dem anfordernden Arzt. Die Ausgabe ist zu dokumentieren.
+unabhängige Stromversorgung.
 
-Die Aushändigung von ärztlichen Aufzeichnungen (Patientenunterlagen) kann ferner an die Patientinnen oder Patienten erfolgen, damit diese sie von ihnen gewählten weiterbehandelnden Ärztinnen oder Ärzten aushändigen. Die Aushändigung soll dokumentiert werden (schriftliche Empfangsbestätigung).
+4.2 Leitstelleneinrichtung und sonstige Ausstattung:
 
-Eine Kontrolle oder Bewertung von Patientenunterlagen über deren Inhalt sowie sich daraus ergebender medizinischer, rechtlicher und anderer Konsequenzen findet durch die aufbewahrende Einrichtung nicht statt.
+mindestens 3 Doppelbildschirmarbeitsplätze,
 
-Patientenunterlagen mit psychiatrischem Inhalt die als solche deutlich erkennbar sind. werden in Abweichung von Nr. 2 b nur über eine Ärztin oder einen Arzt ausgehändigt, die oder der von der Patientin oder dem Patienten, ihren gesetzlichen Vertretungen oder Erben bestimmt werden.
+nach ergonomischen Gesichtspunkten gestaltete Tische (3 Leitstellentische) und Sessel,
 
-Patienten, die psychiatrisch behandelt worden sind, kann die Einsicht in die vollständigen Krankenunterlagen dann verweigert werden, wenn nach ärztlichem Urteil dem schützenswerte Interessen der Patientin oder des Patienten entgegenstehen.
+bei Vorhandensein von besonderen Gefahrenpotentialen im Zuständigkeitsbereich einer Leitstelle, z. B. Betriebe oder Einrichtungen mit gefährlichen Stoffen und Gütern, durch die die Umgebung über das normale Maß hinaus gefährdet werden könnten, können zusätzliche Einrichtungen, wie z. B. Standleitungen, erforderlich sein,
 
-Für Patientenunterlagen mit psychiatrischen und anderen, sensiblen oder bedenklichen Teilen, deren Inhalt jedoch nicht ohne weiteres erkenn bar ist, gilt Nr. 4 entsprechend.
+Radio mit RDS-Einrichtung,
 
-Das Einsichtsrecht soll sich nicht auf solche Aufzeichnungen erstrecken, an deren Zurückhaltung die Ärztin oder der Arzt ein begründetes Interesse besitzt. Hierzu zählen subjektive Wertungen der Ärztin oder des Arztes, die Wiedergabe persönlicher Eindrücke über die Patientin oder den Patienten und dessen Angehörige, eine vorläufige “Verdachtsdiagnose“, die später wieder aufgegeben worden ist, Bemerkungen über auffälliges Verhalten der Patientin oder des Patienten im Rahmen der Behandlung sowie sonstige persönliche Bemerkungen der Ärztin oder des Arztes.
+Hausüberwachung (z. B. Hallentorsteuerung), elektrische Lautsprecheranlage (ELA), jedoch nur, wenn die Leitstelle in einem Wachgebäude untergebracht ist,
 
-VI. Niedergelassene Ärztinnen und Ärzte sowie Zahnärztinnen und Zahnärzte
+Schallisolation und Klimaanlage im Leitstellenraum.
 
-Die Landesärztekammer und die Landeszahnärztekammer Brandenburg werden aufgefordert, diesen Runderlaß für ihren Bereich innerhalb eigener Zuständigkeit umzusetzen.
+5. Dokumentation von Einsatzdaten im Brandschutz und im Rettungsdienst
 
-VII. Umsetzung
+Für die Kurz- und Langzeiterfassung von Einsatzdaten gelten die in der Anlage 2 aufgeführten Grundsätze.
 
-Die Durchführung dieses Erlasses obliegt den Landkreisen und kreisfreien Städten.
+6. Übergangsregelungen
 
-VIII. Inkrafttreten/Außerkrafttreten
+Bisher bestehende Leitstellen/Notrufabfragestellen für den Rettungsdienst und Brandschutz der Landkreise können bei Bedarf, jedoch nur bis zur Sicherstellung der nachrichtentechnischen Voraussetzungen für die Entgegennahme von Hilfeersuchen sowie die Alarmierung, Koordinierung und Lenkung von Einsatzkräften durch die gemeinsame Leitstelle, weiter als Notrufabfragestellen betrieben werden.
 
-Dieser Runderlaß ergeht nach Anhörung des Landesbeauftragten für den Datenschutz (§ 7 Abs. 2 Bbg DSG) und tritt am Tag nach seiner Verkündung in Kraft.
+Notrufabfragestellen sind der zuständigen Leitstelle nachgeordnet. Für die Organisation und Durchführung des Dienstes in der Notrufabfragestelle ist eine Dienstordnung zu erlassen. Im übrigen gelten die Festlegungen dieses Erlasses.
 
-Am gleichen Tage tritt Nr. 4 des Runderlasses des Ministeriums für Wissenschaft, Forschung und Kultur vom 3. August 1992 außer Kraft.
+Von den Vorschriften über die Qualifikation des Leitstellenpersonals können der Minister für Arbeit, Soziales, Gesundheit und Frauen bzw. der Minister des Innern bis zum 31. Dezember 1995 Ausnahmen erlassen.
+
+Anlage 1
+
+Anhalte für die Vorhaltung von technischen Hilfsmitteln, Auskunftsunterlagen, Einsatzplänen u. a. Dokumenten in der Leitstelle
+
+1. Auskunftsunterlagen:
+
+Nachschlagewerke, Gefahrstoffinformationen, TUIS-Mappen,
+
+Fernsprechnummern aller Leitstellen im Land Brandenburg sowie angrenzender Leitstellen der Nachbarbundesländer,
+
+Aufstellung der Funkkanalverteilung für den Brandschutz, Rettungsdienst und Katastrophenschutz im Land Brandenburg,
+
+Dienstbereitschaften von Apotheken, Ärzten, Zahnärzten, Blutbanken,
+
+Bettennachweis und Verzeichnis von Spezialeinrichtungen,
+
+Übersicht über Autobahnabschnitte, Bundesstraßen, Streckenführung der Deutschen Bahn AG, Wasserstraßennetz, Versorgungsleitungen u. a.,
+
+Übersicht über Spezialeinsatztechnik, Sonderfahrzeuge, Entsorgungsunternehmen u. a.,
+
+Telefon- und Adressenverzeichnisse von Ministerien, Behörden und Ämtern sowie deren Bereitschaftspläne (soweit vorhanden),
+
+Übersicht über vorhandene Fahrzeug- und Materialreserven sowie Lösch- und Einsatztechnik und deren Einsatzbereitschaft (Technikausfälle bzw. Defekte).
+
+2. Kartenmaterial:
+
+Karte des Verantwortungsbereiches (1:50000 UTM-Netz) in mindestens 2-facher Ausführung,
+
+Waldbrandschutzkarten des zuständigen Amtes für Forstwirtschaft (in ausreichender Anzahl, um die Einsatzleitung vor Ort ebenfalls im Einsatzfall auszustatten),
+
+Straßenkarte des Landes Brandenburg und der Bundesrepublik Deutschland.
+
+3. Einsatzpläne, Gefahrenabwehrpläne, Sondereinsatzpläne
+
+Alarm- und Ausrückeordnung,
+
+Einsatzpläne von Betrieben mit besonderem Gefahrenpotential,
+
+Einsatzpläne für besonders gefährdete Waldgebiete,
+
+Maßnahmeplan "Sofortreaktion" (Rettungsdienst),
+
+Katastrophenabwehrpläne des eigenen Verantwortungsbereiches sowie der unmittelbaren Nachbarkreise,
+
+Alarmstichwortkatalog,
+
+Evakuierungspläne besonderer Einrichtungen (z. B. Krankenhäuser, Pflegeheime, u. a.).
+
+Anlage 2
+
+Grundsätze für die Dokumentation von Einsatzdaten des Brandschutzes und des Rettungsdienstes
+
+1. Gesamtdokumentation
+
+Die Einsatzdokumentation setzt sich zusammen aus
+
+dem Meldebild (Einsatzgrunddaten-Notrufabfrage) sowie
+
+der Abwicklung (Einsatzablaufdaten).
+
+Die Einsatzgrunddaten enthalten alle Angaben des Meldebildes, die zur Einsatzentscheidung vom Leitstellenmitarbeiter abzufragen sind. Die Einsatzablaufdaten enthalten alle Angaben vom Beginn der Alarmierung des Einsatz- und Rettungsmittels bis zu dessen Freimeldung.
+
+Als lückenlose Datenbasis sind beide Teile der Einsatzdokumentation (Meldebild und Abwicklung) insbesondere für Zwecke der EDV-Auswertung entsprechend zusammenzuführen.
+
+Die EDV-Daten sind so aufzubereiten, dass diese bei Einführung einer landeseinheitlichen Statistik in diese übernommen werden können.
+
+2. Dokumentationsumfang auf dem Gebiet des Brandschutzes
+
+2.1. Inhaltliche Erfassung
+
+Zu dokumentieren sind mindestens:
+
+die Angaben zur Person des Ereignismeldenden (Brand, Hilfeleistung, Rettungseinsatz, ...),
+
+dessen Erreichbarkeit,
+
+alarmierte und eingesetzte Kräfte und Mittel der Feuerwehren,
+
+Anforderung anderer Behörden,
+
+Einsatz von Sondersignalen,
+
+mögliche Aussagen zum Schaden bzw. zur Ursache des Ereignisses,
+
+Anforderungen von Spezialtechnik und ähnliche inhaltliche Aspekte.
+
+2.2. Zeitliche Erfassung
+
+Zu dokumentieren sind mindestens:
+
+das Datum der Meldung,
+
+Zeitpunkt des Einganges der Meldung,
+
+Ende der Meldung,
+
+Zeitpunkt der Alarmierung der Kräfte und Mittel der Feuerwehren,
+
+der zeitliche Ablauf der Einsatztätigkeit (Ausrückezeit, Nachforderung von Kräften und Mitteln der Feuerwehren, Ende des Einsatzes, Rückkehr zum Standort der Feuerwehr),
+
+Zeiten der Abgabe von Informationen an übergeordnete Behörden und externe Partner.
+
+2.3. Räumliche Erfassung
+
+Zu dokumentieren sind mindestens:
+
+der Einsatzort (Gemeinde, Amt, Anschrift, km des Autobahnabschnittes bzw. der Wasserstraße, ...),
+
+bei Waldbränden die erfasste Fläche, das zuständige Forstamt bzw. die Oberförsterei, Abteilung bzw. Jagen u. a.
+
+3. Dokumentationsumfang auf dem Gebiet des Rettungsdienstes
+
+3.1. Inhaltliche Erfassung
+
+Zu dokumentieren sind mindestens:
+
+der Anrufer- und der Patienten-Name,
+
+die Rückruf-Telefonnummer,
+
+die Einsatzart,
+
+die vorläufige Diagnose (Einsatzanlass),
+
+der Meldeweg,
+
+welches Fahrzeug alarmiert wurde,
+
+die Arztbeteiligung,
+
+Daten der Einsatzprotokolle,
+
+ob es sich um eine Vorbestellung handelt,
+
+wann im Verlaufe des Einsatzes Sondersignale eingesetzt wurden,
+
+ähnliche inhaltliche Aspekte.
+
+3.2. Zeitliche Erfassung
+
+Zu dokumentieren sind mindestens:
+
+das Datum und der Zeitpunkt des Einganges der Meldung in der Leitstelle,
+
+Ende der Meldung,
+
+Zeitpunkt der Alarmierung der Kräfte und Mittel des Rettungsdienstes,
+
+der zeitliche Ablauf der Einsatztätigkeit (Ausrückezeit, Nachforderung von Kräften und Mitteln, Ende des Einsatzes, Rückkehr zum Standort der Rettungsmittel),
+
+Zeitpunkt für geplante (vorangemeldete) Krankentransporte,
+
+Übernahmezeitpunkt eines Folgeeinsatzes.
+
+3.3. Räumliche Erfassung
+
+Hier ist mindestens der Einsatzort sowie das Transportziel zu dokumentieren.
+
+4. Aufbewahrungsfristen
+
+Bandaufzeichnungen (Langzeitdokumentation) = 90 Tage
+
+Schriftliche Unterlagen (Tagesjournal/Wachberichte/Einsatzberichte) = 10 Jahre
