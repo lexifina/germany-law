@@ -1,0 +1,6 @@
+# TOP 13.1.3: Antrag der F.D.P.-Fraktion zum HHpl.-Entw. 2002/03
+
+- Sitzung: öffentliche Sitzung des Jugendhilfeausschusses (2002-03-05)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/1400
