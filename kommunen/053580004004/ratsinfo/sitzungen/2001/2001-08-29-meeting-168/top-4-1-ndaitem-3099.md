@@ -1,4 +1,4 @@
-# TOP 4.1.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+# TOP 4.1.: Prüfung der Jahresrechnung und Rechnungsbelege 2000 und Entlastung des Bürgermeisters
 
 - Sitzung: Gemeinderat (2001-08-29)
 - Körperschaft: Gemeinde Aldenhoven
