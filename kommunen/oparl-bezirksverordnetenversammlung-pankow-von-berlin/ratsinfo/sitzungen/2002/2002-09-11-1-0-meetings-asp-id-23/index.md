@@ -1,0 +1,69 @@
+# 8. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2002-09-11T17:30:00+02:00
+- Ende: 2002-09-11T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=23
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=23
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - im Ausschuss abgelehnt
+- TOP 1.2: Abstimmung über die Tagesordnung - im Ausschuss abgelehnt
+- TOP 1.3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 1.3.1: Vorderhaus Danziger Straße 50 - vertagt
+- TOP 1.4: Mündliche Anfrage - vertagt
+- TOP 1.5: Bericht des Bezirksamtes - vertagt
+- TOP 1.6: Konsensliste - vertagt
+- TOP 1.7: Bebauungsplan XIX-34 a für das Grundstück Wiltbergstraße 23, der Grünfläche beiderseits der Panke und dem P + R Parkplatz sowie Abschnitte der Wiltbergstraße und der Zufahrtstraße zum P + R Parkplatz im Bezirk Pankow, Ortsteil Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.8: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.9: Abschaffung der Decklungszahlen für den offenen Ganztagsbetrieb und die hortähnliche Betreuung - gewählt
+- TOP 1.10: Verkehrskonzept für den Bezirk - gewählt
+- TOP 1.11: Änderung des FNP im Teilbereich der ehemaligen Nordtangente - gewählt
+- TOP 1.12: Teilnahme am europäischen Zertifizierungs- und Auszeichnungsprogramm "European Energy Award" - mit Änderungen in der BVV beschlossen
+- TOP 1.13: Verbesserung des Kontaktes zu Senioren im Alter zwischen 75 und 80 Jahren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.14: Kostenlose Abnahme von Spermüll - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Feuerstellen im Mauerpark - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.16: Einrichtung eines Fußgängerüberweges Kreuzungsbereich Bahnhofstraße/Hubertusdamm - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Reduzierung von Lärmimmissionen in der Langhansstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.18: Veränderung der Schaltzeiten der Lichtzeichenanlage Bucher Chaussee/Achillesstraße in Karow - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Verringerung des verkehrlichen Gefahrenpotentiales im Kurvenbereich Hubertusdamm/Schönerlinder Weg - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Krisendienst - beantwortet
+- TOP 1.21: Verschönerung des Stadtbildes - überwiesen
+- TOP 1.22: Pankow gegen Fluglärm! - beantwortet
+- TOP 1.23: Baumschäden in Pankow - schriftlich beantwortet
+- TOP 1.24: Internet - Cafe´s in Pankow - beantwortet
+- TOP 1.25: (Nu pagadi:): Festival gegen Rassismus vom 23. - 25.08.02 - beantwortet
+- TOP 1.26: Schuljahresbeginn 2002/03 - beantwortet
+- TOP 1.27: Wirtschaftsstandort ABB-Gelände - beantwortet
+- TOP 1.28: Sportstätten im Bezirk - beantwortet
+- TOP 1.29: Rettet den Helmholtzplatz - überwiesen
+- TOP 1.30: Radverkehr in der Pistoriusstraße - beantwortet
+- TOP 1.31: Schatten über Pankow? - beantwortet
+- TOP 1.32: Bericht zu GA-Mitteln - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: BVV beanstandet B. Z. wegen Verstoßes gegen den Pressekodex - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.34: Ältestenrat - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.35: Erhalt des Standortes der WIP - beantwortet
+- TOP 1.36: Kulturbrauerei vor dem Ruin? - beantwortet
+- TOP 2: Komplex II - (offen)
+- TOP 2.1: Verkehrsberuhigung Schönhauser Straße - (offen)
+- TOP 2.2: "Gesicht zeigen" auf dem Weißenseer Blumenfest und dem Fest an der Panke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Verkehrsproblem: Straßenüberquerung der Hauptstraße in Höhe Hertzstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Sozialplanung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Hochschule im Schloss - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Bericht zu Bebauungsplänen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Benennung einer Privatstraße in Johannes-Kupke-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Vorhabenbezogener Bebauungsplan XVIII-VE-1 für die Grundstücke Malchower Chaussee 6, 10 und Piesporter Straße 38, 38 A und 38 B im Bezirk Pankow von Berlin, Ortsteil Stadtrandsiedlung Malchow - Auswertung und Ergebnis der Beteiligung der Träger öffentlicher Belange, - Durchführung der öffentlichen Auslegung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Durchführung eines Bürgerbegehrens gemäß § 41 BezVG auf Antrag der Bürgerinitiative "Pankow bleibt" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Bebauungsplan XVIII-30a für die Grundstücke Karower Damm 35, Treseburger Straße 28 - 30, Teilflächen der Grundstücke Treseburger Straße 25 - 27 sowie Abschnitte des Karower Damms und der Treseburger Straße im Bezirk Pankow, Ortsteil Blankenburg; Beschluss über die Festsetzung als Rechtsverordnung gemäß § 6 Abs. 5 AGBauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Stellungnahme an die Senatsverwaltung für Stadtentwicklung zu den Änderungen des Flächennutzungsplanes in Teilbereichen. Lfd. Nr. 29/95 und 11/01 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Bebauungsplan XIX-40J vom 30. April 2001 mit Deckblatt vom 3. August 2001, Deckblatt vom 2. April 2002 und Deckblatt vom 3. Juni 2002 für das Gelände östlich der Kleingartenanlage "Neuland Buchholz" und des Schillingweges, südlich der Anna-Bruseberg-Straße, zwischen Triftstraße und Jean-Calas-Weg im Bezirk Pankow Ortsteil Französisch Buchholz Beschluss über die Festsetzung des Bebauungsplanes als Rechtsverordnung gemäß § 6 Abs. 5 AGBauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Bebauungsplan XIX-34 a für das Grundstück Wiltbergstraße 23, der Grünfläche beiderseits der Panke und dem P + R Parkplatz sowie Abschnitte der Wiltbergstraße und der Zufahrtstraße zum P + R Parkplatz im Bezirk Pankow, Ortsteil Buch - (offen)
+- TOP 2.14: Bestellung von Mitgliedern des Bezirksamtes für den Beirat des HELIOS Klinikums Berlin am Standort Berlin-Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Vereinbarung zur zahnärztlichen Versorgung Wohnungsloser zwischen dem Land Berlin, Senatsverwaltung für Gesundheit, Soziales und Verbraucherschutz, dem Bezirksamt Pankow von Berlin, Abt. Gesundheit und Soziales und dem Träger MUT gGesellschaft für Gesundheit mbH. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Benennung der Planstraßen TS 12 und ES 22/PS 21 im Entwicklungsgebiet "ALter Schlachthof" im OT Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
