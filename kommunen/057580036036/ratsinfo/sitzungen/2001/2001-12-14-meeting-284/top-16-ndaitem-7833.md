@@ -1,0 +1,8 @@
+# TOP 16.: Kanalanschlussbeitragskalkulation für den Zeitraum 1999 bis 2003
+
+- Sitzung: Rat (2001-12-14)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/7833
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
+- Beratung: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/2968
