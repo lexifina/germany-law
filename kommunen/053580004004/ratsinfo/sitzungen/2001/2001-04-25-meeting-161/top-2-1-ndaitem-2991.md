@@ -1,4 +1,4 @@
-# TOP 2.1.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+# TOP 2.1.: Antrag auf Übernahme einer Baulast auf dem Grundstück Gemarkung Freialdenhoven Flur 6, Flurstück 104
 
 - Sitzung: Gemeinderat (2001-04-25)
 - Körperschaft: Gemeinde Aldenhoven
