@@ -12,7 +12,7 @@ Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/ Finanzämter | Die Zuständigkei
 6. | Verwaltungsaufgaben, die über die Festsetzung und Erhebung der Umsatzsteuer im grenzüberschreitenden Personenbeförderungsverkehr hinausgehen | Görlitz | Freistaat Sachsen
 7. | Besteuerung grenzüberschreitender Arbeitnehmerüberlassung sowie die Besteuerung der im Ausland ansässigen Werkvertragsunternehmen und Werkvertragsarbeitnehmer | Chemnitz-Süd | Freistaat Sachsen
 8. | Betriebsprüfung |  | 
- | a) | allgemein | Bautzen | Bautzen Bischofswerda Görlitz Hoyerswerda Löbau Zittau
+ | a) | allgemein | Bautzen | Bautzen Bischofswerda Görlitz Hoyerswerda Löbau
  |  |  | Chemnitz-Süd | Chemnitz-Land Chemnitz-Mitte Chemnitz-Süd Freiberg Mittweida
  |  |  | Dresden II | Dresden I Dresden II Dresden III Pirna
  |  |  | Grimma | Döbeln Eilenburg Grimma Oschatz
@@ -21,14 +21,15 @@ Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/ Finanzämter | Die Zuständigkei
  |  |  | Leipzig II | Borna Leipzig II
  |  |  | Meißen | Freital Meißen Riesa
  |  |  | Zwickau-Stadt | Auerbach Plauen Schwarzenberg Zwickau-Land Zwickau-Stadt
- | b) | land- und forstwirtschaftliche Betriebe (einschließlich Garten- und Landschaftsbau betriebe mit gewerblichen Einkünften) | Bautzen | Bautzen Bischofswerda Görlitz Hoyerswerda Löbau Zittau
+ | b) | land- und forstwirtschaftliche Betriebe (einschließlich Garten- und Landschaftsbau betriebe mit gewerblichen Einkünften) | Bautzen | Bautzen Bischofswerda Görlitz Hoyerswerda Löbau
  |  |  | Grimma | Borna Döbeln Eilenburg Grimma Leipzig I Leipzig II Leipzig III Oschatz
  |  |  | Hohenstein-Ernstthal | Annaberg Auerbach Chemnitz-Land Chemnitz-Mitte Chemnitz-Süd Freiberg Hohenstein-Ernstthal Mittweida Plauen Schwarzenberg Stollberg Zschopau Zwickau-Land Zwickau-Stadt
  |  |  | Meißen | Dresden I Dresden II Dresden III Freital Meißen Pirna Riesa
  | c) | Kreditinstitute, Versicherungsunternehmen | Chemnitz-Süd Dresden II Leipzig II | Regierungsbezirk Chemnitz Regierungsbezirk Dresden Regierungsbezirk Leipzig
  | d) | Versorgungsbetriebe | Chemnitz-Süd Dresden II Leipzig I | Regierungsbezirk Chemnitz Regierungsbezirk Dresden Regierungsbezirk Leipzig
  | e) | grenzüberschreitende Arbeitnehmerüberlassung sowie im Ausland ansässige Werkvertragsunternehmen und Werkvertragsarbeitnehmer | Chemnitz-Süd | Freistaat Sachsen
-9. | Lohnsteuer-Außenprüfung für A1- und A2-Betriebe (Betriebe mit 500 und mehr oder 100 bis 499 Arbeitnehmern) | Bautzen | Bautzen Bischofswerda Görlitz Hoyerswerda Löbau Zittau
+ | f) | Versicherungssteuer | Dreden II | Freistaat Sachsen
+9. | Lohnsteuer-Außenprüfung für A1- und A2-Betriebe (Betriebe mit 500 und mehr oder 100 bis 499 Arbeitnehmern) | Bautzen | Bautzen Bischofswerda Görlitz Hoyerswerda Löbau
  |  |  | Chemnitz-Mitte | Annaberg Chemnitz-Land Chemnitz-Mitte Chemnitz-Süd Freiberg Hohenstein-Ernstthal Mittweida Stollberg Zschopau
  |  |  | Dresden I | Dresden I Dresden II Dresden III Freital Meißen Pirna Riesa
  |  |  | Leipzig II | Borna Döbeln Eilenburg Grimma Leipzig I Leipzig II Leipzig III Oschatz
@@ -359,33 +360,7 @@ Leipzig III, Leipzig | Von der Kreisfreien Stadt Leipzig die Stadtbezirke | Einh
  | Nordwest |  |  |  | 
  | Südwest |  |  |  | 
  | West |  |  |  | 
-Löbau | Vom Landkreis Löbau-Zittau die Gemeinden |  |  |  | 
- | Beiersdorf |  |  |  | 
- | Bernstadt a. d. Eigen |  |  |  | 
- | Berthelsdorf |  |  |  | 
- | Dürrhennersdorf |  |  |  | 
- | Ebersbach/Sa. |  |  |  | 
- | Eibau |  |  |  | 
- | Friedersdorf |  |  |  | 
- | Großhennersdorf |  |  |  | 
- | Großschweidnitz |  |  |  | 
- | Herrnhut |  |  |  | 
- | Kittlitz |  |  |  | 
- | Lawalde |  |  |  | 
- | Leutersdorf |  |  |  | 
- | Löbau |  |  |  | 
- | Neugersdorf |  |  |  | 
- | Neusalza-Spremberg |  |  |  | 
- | Niedercunnersdorf |  |  |  | 
- | Obercunnersdorf |  |  |  | 
- | Oderwitz |  |  |  | 
- | Oppach |  |  |  | 
- | Ostritz |  |  |  | 
- | Rosenbach |  |  |  | 
- | Schönau-Berzdorf a. d. Eigen |  |  |  | 
- | Schönbach |  |  |  | 
- | Seifhennersdorf |  |  |  | 
- | Strahwalde |  |  |  | 
+Löbau | Landkreis Löbau-Zittau |  |  |  | 
 Meißen | Vom Landkreis Meißen die Gemeinden |  |  |  | 
  | Coswig |  |  |  | 
  | Diera-Zehren |  |  |  | 
@@ -403,7 +378,6 @@ Meißen | Vom Landkreis Meißen die Gemeinden |  |  |  |
  | Weinböhla |  |  |  | 
 Mittweida | Vom Landkreis Mittweida die Gemeinden |  |  |  | 
  | Altmittweida |  |  |  | 
- | Auerswalde |  |  |  | 
  | Erlau |  |  |  | 
  | Frankenberg |  |  |  | 
  | Geringswalde |  |  |  | 
@@ -412,6 +386,7 @@ Mittweida | Vom Landkreis Mittweida die Gemeinden |  |  |  |
  | Königshain-Wiederau |  |  |  | 
  | Kriebstein |  |  |  | 
  | Langensteinbach |  |  |  | 
+ | Lichtenau |  |  |  | 
  | Lunzenau |  |  |  | 
  | Mittweida |  |  |  | 
  | Penig |  |  |  | 
@@ -449,19 +424,6 @@ Plauen | Kreisfreie Stadt Plauen und vom Vogtlandkreis die Gemeinden |  |  |  |
 Riesa | Landkreis Riesa-Großenhain |  |  |  | 
 Schwarzenberg | Landkreis Aue-Schwarzenberg |  |  |  | 
 Stollberg | Landkreis Stollberg |  |  |  | 
-Zittau | Vom Landkreis Löbau-Zittau die Gemeinden |  |  |  | 
- | Bertsdorf-Hörnitz |  |  |  | 
- | Dittelsdorf |  |  |  | 
- | Großschönau |  |  |  | 
- | Hainewalde |  |  |  | 
- | Hirschfelde |  |  |  | 
- | Jonsdorf |  |  |  | 
- | Mittelherwigsdorf |  |  |  | 
- | Olbersdorf |  |  |  | 
- | Oybin |  |  |  | 
- | Schlegel |  |  |  | 
- | Waltersdorf |  |  |  | 
- | Zittau |  |  |  | 
 Zschopau | Mittlerer Erzgebirgskreis |  |  |  | 
 Zwickau-Land, Zwickau | Landkreis Zwickauer Land |  |  |  | 
 Zwickau-Stadt, Zwickau | Kreisfreie Stadt Zwickau |  |  |  | 
@@ -471,6 +433,7 @@ Bezeichnung und Sitz des Finanzamtes | Bezirk des Finanzamtes
 Bezeichnung und Sitz des Finanzamtes | Bezirk des Finanzamtes
 Annaberg | Landkreis Annaberg
 Bautzen | Landkreis Bautzen
+Borna | Landkreis Leipziger Land
 Chemnitz-Süd | Kreisfreie Stadt Chemnitz
 Döbeln | Landkreis Döbeln
 Dresden III | Kreisfreie Stadt Dresden
@@ -481,7 +444,7 @@ Görlitz | Kreisfreie Stadt Görlitz und Niederschlesischer Oberlausitzkreis
 Grimma | Muldentalkreis
 Hohenstein-Ernstthal | Landkreis Chemnitzer Land
 Hoyerswerda | Kreisfreie Stadt Hoyerswerda und Landkreis Kamenz
-Leipzig I | Kreisfreie Stadt Leipzig und Landkreis Leipziger Land
+Leipzig III | Kreisfreie Stadt Leipzig
 Löbau | Landkreis Löbau-Zittau
 Meißen | Landkreis Meißen
 Mittweida | Landkreis Mittweida
