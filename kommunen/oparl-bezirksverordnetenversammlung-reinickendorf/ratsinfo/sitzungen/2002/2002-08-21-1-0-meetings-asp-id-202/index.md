@@ -1,0 +1,86 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf AUS TECHNISCHEN GRÜNDEN KÖNNEN DIE TAGESORDNUNG UND DIE EINLADUNG NICHT IN DATENFORM ABGERUFEN WERDEN!
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2002-08-21T17:00:00+02:00
+- Ende: 2002-08-21T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=202
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=202
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2: (nichtöffentlich) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: (nichtöffentlich) - erledigt
+- TOP 12: (nichtöffentlich) - erledigt
+- TOP 13: (nichtöffentlich) - erledigt
+- TOP 14: (nichtöffentlich) - erledigt
+- TOP 15: (nichtöffentlich) - erledigt
+- TOP 16: (nichtöffentlich) - in der BVV abgelehnt
+- TOP 17: (nichtöffentlich) - erledigt
+- TOP 18: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 20: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 21: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 22: (nichtöffentlich) - in der BVV abgelehnt
+- TOP 23: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 24: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 25: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 26: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 27: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 28: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 29: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 30: (nichtöffentlich) - beantwortet
+- TOP 31: (nichtöffentlich) - überwiesen
+- TOP 32: (nichtöffentlich) - beantwortet
+- TOP 33: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 34: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 35: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 36: (nichtöffentlich) - überwiesen
+- TOP 37: (nichtöffentlich) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 38: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 39: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 40: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 41: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 42: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 43: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 44: (nichtöffentlich) - überwiesen
+- TOP 45: (nichtöffentlich) - zur Kenntnis genommen
+- TOP 46: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 47: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 48: (nichtöffentlich) - überwiesen
+- TOP 49: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 50: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 51: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 52: (nichtöffentlich) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 53: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 54: (nichtöffentlich) - überwiesen
+- TOP 55: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 56: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 57: (nichtöffentlich) - überwiesen
+- TOP 58: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 59: (nichtöffentlich) - überwiesen
+- TOP 60: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 61: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 62: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 63: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 64: (nichtöffentlich) - überwiesen
+- TOP 65: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 66: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 67: (nichtöffentlich) - überwiesen
+- TOP 68: (nichtöffentlich) - überwiesen
+- TOP 69: (nichtöffentlich) - überwiesen
+- TOP 70: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
+- TOP 71: (nichtöffentlich) - überwiesen
+- TOP 72: (nichtöffentlich) - ohne Änderungen in der BVV beschlossen
