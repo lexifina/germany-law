@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2004-03-31T15:00:00+02:00
+- Ende: 2004-03-31T21:40:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/392
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/392
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Zur Kenntnis genommen
+- TOP 2: Wiederbestellung SSK - Einstimmiger Beschluss
+- TOP 3: Neufassung der DA 140 und 141 - Mit Stimmenmehrheit beschlossen
+- TOP 4: HockeyArena im Nordpark - Absolute Mehrheit
+- TOP 5: Üpl. Bereitstellung v. Haushaltsmitteln - Einstimmiger Beschluss
+- TOP 6: Außerplanmäßige Ausgabe des Haushaltsjahres 2004 - Einstimmiger Beschluss
+- TOP 7: Parkplatz Bau-, Besitz- und Betriebsgesellschaft - Absolute Mehrheit
+- TOP 8: Erste Änderung des Landschaftsplanes - Absolute Mehrheit
+- TOP 9: BVerwG - Zusammensetzung der Ausschüsse - Kenntnisnahme
+- TOP 10: Verwaltungsausschuss Agentur für Arbeit MG - Absolute Mehrheit
+- TOP 11: Erster Nachtrag zur Benutzungsordnung Hallenbäder - Einstimmiger Beschluss
+- TOP 12: Pakt für den Sport Ratsbeschluss vom 28.01.2004 - Absolute Mehrheit
+- TOP 13: Entgeltordnung für Theater und Konzerte - Absolute Mehrheit
+- TOP 14: Frei- und Ermäßigungskartenordnung für Veranstalt - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 15: Schule für Sprachbehinderte - Einstimmiger Beschluss
+- TOP 16: Umgestaltung KGS Untereicken und Waisenhaus OGata - Absolute Mehrheit
+- TOP 17: GU in der Sekundarstufe I - zieldifferent - Einstimmiger Beschluss
+- TOP 18: Tierkörperbeseitigung - Einstimmiger Beschluss
+- TOP 19: Geplanter Ersatzbau Tageseinrichtung Heiligenpesch - Einstimmiger Beschluss
+- TOP 20: Bildung eines Integrationsrates anstelle eines AB - Absolute Mehrheit
+- TOP 21: Sonderbeitragssatzung befahrbare Krichelstraße - Einstimmiger Beschluss
+- TOP 22: Sonderbeitragssatzung Hindenburgstraße - Einstimmiger Beschluss
+- TOP 23: Neubau Dreifachsporthalle Hardt - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 24: Bebaungsplan Nr. 538/VIII - Absolute Mehrheit
+- TOP 25: 148. FNP Änderung - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 26: DP M Nr. 75 - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 27: 1. Änderung BP Nr. 465 / I - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 28: 33. Nachtrag zur Entwässerungsatzung - Einstimmiger Beschluss
+- TOP 29: Anordnung der Umlegung für den Bereich des Bebauun - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 30: Bebauungsplan Nr. 609 V - Einstimmiger Beschluss
+- TOP 31: VBP 613/VI - Absolute Mehrheit
+- TOP 32: Anordnung der Umlegung - Einstimmiger Beschluss
+- TOP 33: Beteiligung der Stadt MG an Sanierung Hbf. - Absolute Mehrheit
+- TOP 34: Hartz III und IV - Mit Stimmenmehrheit abgelehnt
+- TOP 35: Mönchengladbach 2030 - Vom Antragsteller zurückgezogen
+- TOP 36: Regionalstelle - Absolute Mehrheit
+- TOP 37: Anfragen
