@@ -1,0 +1,15 @@
+# Kultur- und Partnerschaftsausschuss (alt) (4. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 1985-09-26T17:00:00+02:00
+- Ende: 1985-09-26T18:30:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-161
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZY7VaMSzHgjISbR5JQO48Lw
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/4671
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP II.: Nichtöffentliche Sitzung
