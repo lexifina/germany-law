@@ -1,0 +1,53 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2005-03-09T15:00:00+01:00
+- Ende: 2005-03-09T18:15:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/536
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/536
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022179.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022179.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022179.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Kenntnisnahme
+- TOP 2: Wahl einer/eines Beigeordneten - Mit Stimmenmehrheit beschlossen
+- TOP 3: Korruptionsbekämpfungsbericht - Kenntnisnahme
+- TOP 4: Sachk. Einw. (Senioren) - Einfache Mehrheit
+- TOP 5: Entsendungberatendes Mitglied Braunkohlenausschuss - Einstimmiger Beschluss
+- TOP 6: Wahl des Integrationsrates - Einstimmiger Beschluss
+- TOP 7: Wahl des Integrationsrates - Einstimmiger Beschluss
+- TOP 8: Gültigkeit der Wahl des Integrationsrates - Einstimmiger Beschluss
+- TOP 9: Vertretung der Stadt im VRR - Mit Stimmenmehrheit beschlossen
+- TOP 10: Beteiligung der NVV an Niederrheinwerke VIE - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 11: Bestellung des Vertreters der Stadt Mönchengladbac - Einstimmiger Beschluss
+- TOP 12: 24. NT zur Straßenreinigungs- u. Gebührensatzung - Einstimmiger Beschluss
+- TOP 13: Wahl der Mitglieder Veranstaltergemeinschaft 90.1 - Vertagt (s. Niederschrift)
+- TOP 14: 4. Nachtrag zum Tarif der Volkshochschule - Mit Stimmenmehrheit beschlossen
+- TOP 15: Offene Ganztagsschule - Mit Stimmenmehrheit beschlossen
+- TOP 16: Raumversorgung Realschulen - Mit Stimmenmehrheit beschlossen
+- TOP 17: Pavillonersatz Annaschule - Mit Stimmenmehrheit beschlossen
+- TOP 18: Raumsituation der GHS Heinrich-Lersch - Mit Stimmenmehrheit beschlossen
+- TOP 19: Raumsituation im Schulzentrum Neuwerk - Mit Stimmenmehrheit beschlossen
+- TOP 20: Aufgabe der Tennis- und Kleinspielfelder - Mit Stimmenmehrheit beschlossen
+- TOP 21: Wahl einer Schiedsperson für den Bezirk Wickrath - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 22: Benennung der sachkundigen Einwohner/Innen - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 23: ARGE-Vertrag - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 24: Konsolidierungsplan Bistum Aachen - Mit Stimmenmehrheit beschlossen
+- TOP 25: 1. Verl. Veränderungssperre Hardter Landstr. - Mit Stimmenmehrheit beschlossen
+- TOP 26: 1. Verlängerung Veränderungssperre (Breite Str.) - Einstimmiger Beschluss
+- TOP 27: 1. Verlängerung Veränderungssperre (Buchholz) - Mit Stimmenmehrheit beschlossen
+- TOP 28: 1. Änderung des VBP Nr. 549/VII - Einstimmiger Beschluss
+- TOP 29: 1. Änderung des Bebauungsplanes Nr. 239/I - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 30: Bebauungsplan Nr. 638/II - Einstimmiger Beschluss
+- TOP 31: 34. Nachtrag zur Entwässerungssatzung - Einstimmiger Beschluss
+- TOP 32: Bebauungsplan Nr. 634/VII - Einstimmiger Beschluss
+- TOP 33: Änderung des FNP - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 34: Mitgliedschaft Verein "Straße der Gartenkunst..." - Einstimmiger Beschluss
+- TOP 35: Polizeipräsidium Niederrhein - Einstimmiger Beschluss
+- TOP 36: Anfragen - Zur Kenntnis genommen
