@@ -1,4 +1,4 @@
-# TOP 7.1.: Satzungen, Ortsrecht
+# TOP 7.1.: 2. Änderung der Baumschutzsatzung der Gemeinde Aldenhoven
 
 - Sitzung: Gemeinderat (2001-06-27)
 - Körperschaft: Gemeinde Aldenhoven
