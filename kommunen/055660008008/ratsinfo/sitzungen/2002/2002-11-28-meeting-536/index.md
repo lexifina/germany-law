@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2002-11-28T18:00:00+01:00
+- Ende: 2002-11-28T19:15:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVIIfVZ7jJEars6RzPMzhcE
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/536
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaWs4zwWu8NX3uxvwK4kzbtO4BnPm3on6KzHrY_Uc6q7/Oeffentliche_Niederschrift_Rat_28.11.2002.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Gebührenhaushalte / Betriebsabrechnungen
+- TOP 4.1.: Abwasserwerk der Stadt Emsdetten; Kalkulation der Entwässerungsgebühren für das Jahr 2003 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2.: Gebührenhaushalt Abfallwirtschaft; Kalkulation der Abfallgebühren für das Jahr 2003 - 37 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 4.3.: Gebührenhaushalt Straßenreinigung; Gebührenkalkulation für das Jahr 2003, Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - 32 Ja-Stimme(n), 7 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 4.4.: III. Nachtrag zum Vertrag über die Sammlung und den Transport von Altpapier in der Stadt Emsdetten - Einstimmig, 0 Enthaltung(en)
+- TOP 4.5.: Gebührenhaushalt Abfallwirtschaft; Ergebnis der Umfrageaktion "Gelber Sack oder Gelbe Tonne" und Auswirkungen auf die Systembeschreibung der Stadt Emsdetten - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Richtlinien
+- TOP 5.1.: Brandschutzbedarfsplan - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Etat / Budget
+- TOP 6.1.: Abwasserwerk der Stadt Emsdetten; Entwurf des Wirtschaftsplanes 2003 mit Anlagen - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Finanzangelegenheiten
+- TOP 7.1.: Über- und außerplanmäßige Ausgaben im III. Quartal 2002 - Zur Kenntnis genommen
+- TOP 8.: Stadtsparkasse Emsdetten
+- TOP 8.1.: Beschluss über die Genehmigung der Wiederbestellung zum Vorsitzenden des Vorstandes der Stadtsparkasse Emsdetten - Einstimmig, 0 Enthaltung(en)
+- TOP 8.2.: Erlass einer neuen Satzung für die Stadtsparkasse Emsdetten - Einstimmig, 0 Enthaltung(en)
+- TOP 8.3.: Vereinigung der Stadtsparkassen Emsdetten und Ochtrup - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Flächennutzungsplan
+- TOP 9.1.: 14. Änderung des Flächennutzungsplanes der Stadt Emsdetten - 38 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 9.2.: 14. Änderung des Flächennutzungsplanes der Stadt Emsdetten - 38 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 10.: Bebauungspläne
+- TOP 10.1.: Bebauungsplan Nr. 56 "Mühlenbachaue" - Satzungsbeschluss - 40 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 10.2.: Bebauungsplan Nr. 28 "Höftstraße", 1. Änderung und Erweiterung - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Öffentlicher Personennahverkehr (ÖPNV)
+- TOP 11.1.: AST - Verkehr in Emsdetten 1. Erfahrungsbericht des Jahres 2001 2. Weiterführung des AST Verkehrs für ein Jahr - 40 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 12.: Erhebung von Anlieger- und Erschließungsbeiträgen
+- TOP 12.1.: Abschnittsbildung gem. § 130 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 12.2.: Kostenspaltung nach dem KAG - Einstimmig, 0 Enthaltung(en)
+- TOP 12.3.: Ablösung von Straßenbaubeiträgen nach § 8 KAG - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 13.1.: Antrag des Lernen fördern e.V. vom 15.10.2002 auf Gewährung eines Zuschusses für ein Projekt im Rahmen der "Entwicklung integrativer Angebote für junge Menschen mit Behinderung zur Eingliederung in die Arbeitswelt" - 24 Ja-Stimme(n), 13 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 14.: Zukünftige Verwendung der ehemaligen Schule Ahlintel - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Verschiedenes 1. Sachstandsbericht über Anregungen und Bedenken
