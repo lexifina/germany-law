@@ -1,0 +1,121 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2003-07-23T16:00:00+02:00
+- Ende: 2003-07-23T16:33:00+02:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1498
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/1498
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Version 10.07.2003 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00021535.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Anregungen und Beschwerden gem. § 24 GO
+- TOP 2.1: Beschwerde - Ergänzung zur Drs. 1476/03 vom 5.5.03 - abgelehnt
+- TOP 3: Neue Fraktionsanträge
+- TOP 3.1: Sauberkeit und Ordnung in Wuppertal - vertagen
+- TOP 3.1.1: Sauberkeit in Wuppertal - vertagen
+- TOP 3.1.2: Kooperationsvereinbarung Ordnungspartnerschaft - vertagen
+- TOP 3.1.3: Abfallerziehung an Wuppertaler Kindergärten und Schulen - vertagen
+- TOP 3.2: Fördermittel des Landes zum Umbau der Schwebebahn - vertagen
+- TOP 3.2.1: Fördermittel des Landes zum Umbau der Schwebebahn/Resolution - vertagen
+- TOP 3.3: Abgesetzt, Vorberatung nicht abgeschlossen.
+- TOP 3.4: Fußgängerwege Islandufer / Hardtufer - ungeändert beschlossen
+- TOP 3.5: Wird unter TOP 3.1.2 behandelt.
+- TOP 3.6: Umbau Südstraßenring - zur Vorberatung verwiesen
+- TOP 3.7: Zukunft des ÖPNV - vertagen
+- TOP 3.7.1: "Entwicklung des ÖPNV"
+- TOP 3.8: Planung von Gewerbegebieten in Wuppertal gezielt vorantreiben - zur Vorberatung verwiesen
+- TOP 3.9: Abgesetzt, Vorberatung nicht abgeschlossen.
+- TOP 3.9.1: Abgesetzt, Vorberatung nicht abgeschlossen. - von der Tagesordnung gesetzt
+- TOP 3.10: Mehr Sicherheit für die Menschen auf Wuppertals Bürgersteigen und Straßen - zur Vorberatung verwiesen
+- TOP 3.11: Briefverteilerzentrum in Wuppertal-Vohwinkel
+- TOP 3.11.1: Resolution gegen die Schließung des Briefverteilzentrums am Westring - ungeändert beschlossen
+- TOP 3.12: Errichtung eines Friedwaldes in Wuppertal - zur Vorberatung verwiesen
+- TOP 3.13: Wird unter TOP 3.1.3 behandelt
+- TOP 3.14: Ortsschilder "Universitätsstadt Wuppertal" - zur Vorberatung verwiesen
+- TOP 3.15: Resolution - Förderprogramm Altlasten - ungeändert beschlossen
+- TOP 4: Fraktionsanträge, die bereits in einem Gremium vorberaten wurden (§ 8 der Geschäftsordnung für den R
+- TOP 4.1: Abgesetzt, Vorberatung nicht abgeschlossen. - von der Tagesordnung gesetzt
+- TOP 4.2: Bau eines neuen Bades / Standort Am Wunderbau - vertagen
+- TOP 4.3: Abgesetzt. Vorberatung nicht abgeschlossen. - von der Tagesordnung gesetzt
+- TOP 4.4: Altersvorsorge für städt. Arbeitnehmer - in der Sache erledigt
+- TOP 4.5: Erledigt unter TOP 3.9.1
+- TOP 4.6: Einrichtung von Taubenhäusern - von der Tagesordnung gesetzt
+- TOP 4.7: Abgesetzt, Vorberatung nicht abgeschlossen. - von der Tagesordnung gesetzt
+- TOP 4.8: Nachhaltiges Stadtmarketing - von der Tagesordnung gesetzt
+- TOP 4.9: Wird unter TOP 3.7.1. behandelt.
+- TOP 5: Ortsrecht
+- TOP 5.1: Zweite Satzung zur Änderung der Satzung für die Stiftung Sozialfonds Wuppertal - ungeändert beschlossen
+- TOP 5.1.1: Einrichtung eines Beirates für die Stiftung Sozialfonds Wuppertal; Ergänzungsantrag zur VO/1559/03 - geändert beschlossen
+- TOP 5.2: Satzung über die Erhebung von Gebühren für die Benutzung von Übergangsheimen und Übergangswohnungen - ungeändert beschlossen
+- TOP 5.3: Dritte Änderung der Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 5.4: Sanierungssatzung gem. § 142 BauGB für das Gebiet Döppersberg und Umgebung
+- TOP 5.4.1: Sanierungssatzung gem. § 142 BauGB für das Gebiet Döppersberg und Umgebung - Neufassung - ungeändert beschlossen
+- TOP 5.5: Lernmittelfreiheit - geändert beschlossen
+- TOP 5.6: Neufassung der Entgelt-Ordnung - ungeändert beschlossen
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Erlaß des Innenministeriums - Hinweise für die kommunalaufsichtliche Behandlung von Kommunen ohne ge - vertagen
+- TOP 6.2: Über- und außerplanmäßige Ausgaben 2003 - Kenntnis genommen
+- TOP 6.3: Über- und außerplanmäßige Ausgaben 2002 - Kenntnis genommen
+- TOP 6.4: Finanzierung dringend notwendiger Straßeninstandsetzungen - ungeändert beschlossen
+- TOP 7: Angelegenheiten des Beteiligungsmanagements
+- TOP 7.1: Stadtentwässerung - Maßnahmenkatalog 2004/2005 der WSW AG - ungeändert beschlossen
+- TOP 8: Planverfahren
+- TOP 8.1: Anordnung einer Veränderungssperre im Bauleitplan 976 - Vohwinkeler Str. / Haaner Str. - ungeändert beschlossen
+- TOP 8.2: Anordnung einer Veränderungssperre im Bauleitplan 968 - Industriestraße - - ungeändert beschlossen
+- TOP 8.3: Bauleitplanverfahren Nr. 1058 - Schwalbenstraße - ungeändert beschlossen
+- TOP 8.4: Durchführungsplan Nr. 45 - Haspel - - ungeändert beschlossen
+- TOP 8.5: Bauleitplanverfahren Nr. 654 - Otto-Hausmann-Ring - - ungeändert beschlossen
+- TOP 8.6: Bauleitplanverfahren Nr. 1064 - Briller Str. / Nordbahn - - ungeändert beschlossen
+- TOP 8.7: 1. Änderungsverfahren zur Umsetzung der Flora - Fauna - Habitat - Richtlinien Gelpe - ungeändert beschlossen
+- TOP 8.8: Flora - Fauna - Habitat - Umsetzung im Landschaftsplan Ost - ungeändert beschlossen
+- TOP 8.9: Bauleitplanverfahren Nr. 1025 - August- Jung- Weg - - ungeändert beschlossen
+- TOP 9: Baumaßnahmen
+- TOP 9.1: Sanierung der Gesamtschule Langerfeld - vertagen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Regionales Einzelhandelskonzept Bergisches Städtedreieck - vertagen
+- TOP 10.2: Umwandlung von Gruppen in städt. Tageseinrichtungen für Kinder - ungeändert beschlossen
+- TOP 10.3: Bereitstellung und Betrieb eines E-Procurementsystems (Finanzierungsentscheidung) - ungeändert beschlossen
+- TOP 10.4: Schulen
+- TOP 10.4.1: Bürgerbegehren gegen Grundschulschließungen - vertagen
+- TOP 10.4.2: Stellungnahme der Bezirksregierung zum Bürgerbegehren zurückweisen! - vertagen
+- TOP 10.4.3: Schulentwicklungsplanung, Entwicklung der schulorganisatorischen Maßnahmen - vertagen
+- TOP 10.4.4: Schulentwicklungsplanung - von der Tagesordnung gesetzt
+- TOP 10.4.5: Ganztagsgrundschulen in Wuppertal - von der Tagesordnung gesetzt
+- TOP 10.4.6: Offene Ganztagsgrundschule an der GGS Engelbert - Wüster - Weg zum Schuljahr 2003/04 - von der Tagesordnung gesetzt
+- TOP 10.4.7: Offene Ganztagsgrundschule an der GGS Engelbert - Wüster - Weg zum Schuljahr 2003/04 - von der Tagesordnung gesetzt
+- TOP 10.4.8: Ganztagsschulen in Wuppertal - zur Vorberatung verwiesen
+- TOP 10.5: Regionale 2006
+- TOP 10.5.1: Finanzierung und Umsetzung der Projekte - vertagen
+- TOP 10.5.2: Zukunftsprojekt "Freizeitschwerpunkt Zoologischer Garten,Stadion" - vertagen
+- TOP 10.5.3: Umsetzung des Teilprojektes Döppersberg im Rahmen der Regionale 2006 - vertagen
+- TOP 10.5.4: Umsetzungsplanung Döppersberg - vertagen
+- TOP 10.5.5: Antrag der CDU - Fraktion vom 24.06.03 hier: Stellungnahme der Verwaltung - vertagen
+- TOP 10.5.6: Umbesetzung des weiterentwickelten Rahmenplans Döppersberg - vertagen
+- TOP 10.5.7: Umgestaltung Döppersberg - Stellungnahme der Verwaltung zum Antrag der FDP vom 11.07.03 - vertagen
+- TOP 10.5.8: Ergänzungsantrag zur VO1634/03 (Maßnahmen aus dem städtebaulichen Wettbewerb "Kulturachse Barmen) - vertagen
+- TOP 10.5.9: Maßnahmen aus dem Qualifizierungsverfahren des Städtebaulichen Wettbewerbs "Kulturachse Barmen" - vertagen
+- TOP 10.5.10: Maßnahmen aus dem städtebaulichen Wettbewerb "Kulturachse Barmen" - Stellungnahme zum CDU - Antrag - vertagen
+- TOP 10.5.11: Maßnahmen aus dem Städtebaulichen Wettbewerb "Kulturachse Barmen" - vertagen
+- TOP 10.5.12: Änderungsantrag zu VO/1374/03 Arbeiten und Wohnen in der Sozialen Stadt - vertagen
+- TOP 10.5.13: Regionale 2006 hier: Arbeiten und Wohnen in der Sozialen Stadt - vertagen
+- TOP 10.5.14: Projekt: "Arbeiten und Wohnen in der Sozialen Stadt" - vertagen
+- TOP 10.5.15: Änderungsantrag zur VO 1418/03 Freiraumprogramm Talachse - vertagen
+- TOP 10.5.16: Freiraumprogramm Talachse. Stellungnahme zu Drs. VO/1690/03 zur Drs. VO/1418/03 - vertagen
+- TOP 10.5.17: Sachstandsbericht "Freiraumprogramm Talachse" - vertagen
+- TOP 10.5.18: Handlungsprogramm zum Freiraumprogramm Talachse - vertagen
+- TOP 10.5.19: Entwicklung des MediaParks Wuppertal - Eventzentrum NRW - vertagen
+- TOP 10.5.20: Regionale Verbund- und Kooperationsprojekte - vertagen
+- TOP 10.5.21: Änderungsantrag zur VO/1684
+- TOP 11: Gremienbesetzung / Benennung
+- TOP 11.1: Umbesetzung im Umlegungsausschuss - ungeändert beschlossen
+- TOP 11.2: Berufung in den Verwaltungsausschuss des Arbeitsamtes
+- TOP 11.3: Umbesetzungen Verkehrsausschuss und Ausschuss Zentrale Dienste - ungeändert beschlossen
+- TOP 11.4: Anpassung der Zuständigkeiten und Umbenennung der Ratskommission SAP (TISCHVORLAGE)
+- TOP 12: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 16.1: Wird unter TOP 10.3 behandelt.
