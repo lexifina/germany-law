@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 18 a Abs. 1, Abs. 2, Abs. 3, Abs. 5, Abs. 6 und des § 18 d Abs. 1, Abs. 4 des Wohnungsbindungsgesetzes (WoBindG) in der Fassung der Bekanntmachung vom 22. Juli 1982 (BGBl. I S. 972) und des § 87 a Abs. 5 des Zweiten Wohnungsbaugesetzes (II.WoBauG) in der Fassung der Bekanntmachung vom 30. Juli 1980 (BGBl. I S. 1085), zuletzt geändert durch das Gesetz zur Änderung des Wohnungsbindungsgesetzes, des Zweiten Wohnungsbaugesetzes und des Wohnungsbaugesetzes für das Saarland vom 21. Juli 1982 (BGBl. I S. 969) verordnet der Senat:

@@ -1,0 +1,1 @@
+# Verordnung über die höhere Verzinsung öffentlicher Darlehen und über die Herabsetzung von Zins- und Tilgungshilfen sowie Aufwendungshilfen bei mit öffentlichen Mitteln geförderten Wohnungen vom 16. August 1982
