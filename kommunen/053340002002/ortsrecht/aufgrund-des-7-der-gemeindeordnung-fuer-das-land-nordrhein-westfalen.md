@@ -2,7 +2,7 @@
 
 - Gemeinde: Stadt Aachen (ARS 053340002002)
 - Datum: 2002-04-19 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.aachen.de/in-aachen-leben/politik-und-verwaltung/stadtrecht/bauwesen/633.pdf?cid=47m
+- Quelle: https://www.aachen.de/in-aachen-leben/politik-und-verwaltung/stadtrecht/soziales/5221.pdf?cid=47m
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
