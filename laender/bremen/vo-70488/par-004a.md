@@ -1,0 +1,2 @@
+# § 4a
+Für das Gebiet der Stadtgemeinde Bremen wird ein einheitlicher Straßenschlüssel geführt. Zuständige Behörde für die Führung des Straßenschlüssels ist das Statistische Landesamt.
