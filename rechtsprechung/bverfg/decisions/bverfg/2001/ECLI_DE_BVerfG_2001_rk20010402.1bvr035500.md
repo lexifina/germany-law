@@ -1,0 +1,268 @@
+---
+ecli: "ECLI:DE:BVerfG:2001:rk20010402.1bvr035500"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 355/00"
+decided: "2001-04-02"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 3. Kammer des Ersten Senats vom 2. April 2001\n- 1 BvR 355/00 -, Rn. 1-25,\n                    https://www.bverfg.de/e/rk20010402_1bvr035500"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/04/rk20010402_1bvr035500.html"
+corpus_doc_id: "BVerfG_2001-04-02_K_1_BvR_0355_00_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bgb/1612a.md", "germany/bund/acts/bverfgg/0034a.md", "germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/bverfgg/0093c.md", "germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/zpo/0323.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 355/00 vom 2001-04-02
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 1 BVR 355/00 -
+- 1 BVR 409/00 -
+- 1 BVR 674/00 -
+
+
+
+
+                                  Im Namen des Volkes
+
+                                     In den Verfahren
+                                           über
+                               die Verfassungsbeschwerden
+I. des Minderjährigen Mc. I...
+
+gegen a) den Beschluss des Amtsgerichts Heilbronn vom 7. Februar 2000 - 2 FH
+         346/99 -,
+
+       b) den Beschluss des Amtsgerichts Heilbronn vom 10. November 1999 - 2
+          FH 346/99 -
+
+- 1 BVR 355/00 -,
+
+II. der Minderjährigen R...
+
+gegen a) den Beschluss des Amtsgerichts Heilbronn vom 21. Februar 2000 - 7 FH
+         200/99 -,
+
+       b) den Beschluss des Amtsgerichts Heilbronn vom 13. Januar 2000 - 7 FH
+          200/99 -
+
+- 1 BVR 409/00 -,
+
+III. der Minderjährigen T...
+
+gegen a) den Beschluss des Amtsgerichts Heilbronn vom 6. April 2000 - 3 FH 46/
+         99 -,
+
+       b) den Beschluss des Amtsgerichts Heilbronn vom 20. Januar 2000 - 3 FH
+          46/99 -
+
+- 1 BVR 674/00 -
+
+hat die 3. Kammer des Ersten Senats des Bundesverfassungsgerichts durch
+                                     den Vizepräsidenten Papier
+                                     und die Richterinnen Haas,
+
+
+                                            1/8
+
+                                  Hohmann-Dennhardt
+
+am 2. April 2001 einstimmig beschlossen:
+
+  1. Die Verfassungsbeschwerdeverfahren werden verbunden.
+  2. Die Beschlüsse des Amtsgerichts Heilbronn vom 7. Februar 2000 und vom 10.
+     November 1999 - 2 FH 346/99 - verletzen den Beschwerdeführer zu I in seinem Grundrecht aus Artikel 3 Absatz 1 des Grundgesetzes. Die Entscheidungen werden aufgehoben. Die Sache wird an das Amtsgericht Heilbronn zurückverwiesen.
+  3. Die Beschlüsse des Amtsgerichts Heilbronn vom 21. Februar 2000 und vom
+     13. Januar 2000 - 7 FH 200/99 - verletzen die Beschwerdeführerin zu II in ihrem Grundrecht aus Artikel 3 Absatz 1 des Grundgesetzes. Die Entscheidungen werden aufgehoben. Die Sache wird an das Amtsgericht Heilbronn zurückverwiesen.
+  4. Die Beschlüsse des Amtsgerichts Heilbronn vom 6. April 2000 und vom 20.
+     Januar 2000 - 3 FH 46/99 - verletzen die Beschwerdeführerin zu III in ihrem
+     Grundrecht aus Artikel 3 Absatz 1 des Grundgesetzes. Die Entscheidungen
+     werden aufgehoben. Die Sache wird an das Amtsgericht Heilbronn zurückverwiesen.
+  5. Das Land Baden-Württemberg hat den Beschwerdeführern ihre notwendigen
+     Auslagen zu erstatten.
+
+                                      Gründe:
+  Die zur gemeinsamen Entscheidung verbundenen Verfassungsbeschwerden wenden sich gegen Gerichtsentscheidungen, die den Beschwerdeführern die Umwandlung ihrer vor dem 1. Juli 1998 errichteten Kindesunterhaltstitel in dynamische Unterhaltstitel nach § 1612 a BGB im vereinfachten Verfahren gemäß Art. 5 § 3 Abs. 2 des
+Gesetzes zur Vereinheitlichung des Unterhaltsrechts minderjähriger Kinder (KindUG)
+in Verbindung mit § 645 Abs. 1 ZPO versagen.
+
+                                          I.
+ 1. Verfahren 1 BvR 355/00                                                               2
+
+  Der am 20. April 1996 geborene Beschwerdeführer zu I beantragte im September           3
+1999 beim Amtsgericht Heilbronn die Abänderung der Urkunde des Kreisjugendamtes Heilbronn vom 2. Mai 1997 über den Regelunterhalt zuzüglich eines Zuschlags
+von 200 % des Regelbedarfs in einen dynamischen Titel mit einer Unterhaltsrente in
+Höhe von 300 % des jeweiligen Regelbetrages der Regelbetrag-Verordnung. Diesen
+Antrag hat der zuständige Rechtspfleger des Amtsgerichts unter Hinweis auf den Beschluss des Oberlandesgerichts Stuttgart vom 21. September 1999 - 15 UF 425/99 -
+(nicht veröffentlicht) zurückgewiesen, da die Abänderung von Unterhaltstiteln im vereinfachten Verfahren gemäß Art. 5 § 3 Abs. 2 KindUG in Verbindung mit § 645 Abs. 1
+ZPO auf solche Titel beschränkt sei, die Unterhaltsrenten bis zum Eineinhalbfachen
+
+
+                                          2/8
+
+des Regelbetrages nach der Regelbetrag-Verordnung festsetzen. Ob diese Begrenzung der Abänderbarkeit von Unterhaltstiteln im vereinfachten Verfahren auf einem
+Versehen des Gesetzgebers beruhe, lasse sich nicht feststellen. Eine Möglichkeit,
+entgegen dem eindeutigen Wortlaut des § 645 Abs. 1 ZPO den Gesetzgeber zu korrigieren und im vereinfachten Verfahren eine Festsetzung über 150 % hinaus zuzulassen, bestehe nicht. Auch komme eine Abänderung hinsichtlich eines Teilbetrages,
+der 150 % des Regelbetrages entspreche, nicht in Betracht, da dies zu einer Aufspaltung des Unterhaltstitels führe. Die hiergegen gerichtete Erinnerung des Beschwerdeführers hat das Amtsgericht zurückgewiesen. Es sei nicht beabsichtigt, von der
+Rechtsprechung des Oberlandesgerichts Stuttgart abzuweichen.
+
+ 2. Verfahren 1 BvR 409/00                                                              4
+
+  Die am 24. Oktober 1991 geborene Beschwerdeführerin zu II beantragte im April         5
+1999 beim Amtsgericht Heilbronn die Abänderung des Beschlusses des Amtsgerichts Heilbronn vom 12. Januar 1996, mit dem der Regelunterhalt zuzüglich eines
+Zuschlags von 65 % des Regelbedarfs neu festgesetzt worden war, in einen Unterhaltstitel auf 165 % des jeweiligen Regelbetrages. Das Amtsgericht hat den Antrag
+zurückgewiesen, da gemäß Art. 5 § 3 Abs. 2 KindUG in Verbindung mit § 645 Abs. 1
+ZPO das vereinfachte Verfahren nicht zulässig sei. Die hiergegen gerichtete Erinnerung hat das Amtsgericht zurückgewiesen, da nicht beabsichtigt sei, von der Rechtsprechung des Oberlandesgerichts Stuttgart abzuweichen.
+
+ 3. Verfahren 1 BvR 674/00                                                              6
+
+  Die am 3. Dezember 1990 geborene Beschwerdeführerin zu III beantragte im Januar 1999 beim Amtsgericht Heilbronn die Abänderung des Beschlusses des Amtsgerichts Heilbronn vom 18. Januar 1996, mit dem der Regelunterhalt zuzüglich eines
+Zuschlags von 80 % des Regelbedarfs neu festgesetzt worden war, in einen Unterhaltstitel auf 180 % des jeweiligen Regelbetrages. Der zuständige Rechtspfleger
+beim Amtsgericht Heilbronn hat den Antrag zurückgewiesen, da gemäß Art. 5 § 3
+Abs. 2 KindUG in Verbindung mit § 645 Abs. 1 ZPO das vereinfachte Verfahren nicht
+zulässig sei. Die hiergegen gerichtete Erinnerung hat das Amtsgericht unter Hinweis
+auf den Beschluss des Oberlandesgerichts Stuttgart vom 21. September 1999 - 15
+UF 425/99 - zurückgewiesen.
+
+                                         II.
+ 1. Mit den Verfassungsbeschwerden rügen die Beschwerdeführer die Verletzung ihrer Rechte aus Art. 3 Abs. 1 GG.
+
+  Durch die Verwehrung der Abänderung ihrer Unterhaltstitel im vereinfachten Verfahren werde ihr Recht auf Gleichbehandlung aus Art. 3 Abs. 1 GG mit Minderjährigen, deren Alttitel nicht über dem Eineinhalbfachen des Regelbetrages liegen, verletzt. Ebenso sei ihr Recht auf Gleichbehandlung mit anderen Minderjährigen
+verletzt, für die seit In-Kraft-Treten des KindUG ein dynamischer Titel mit einem Unterhalt, der über dem Eineinhalbfachen des Regelbetrages liegt, geschaffen worden
+
+
+                                         3/8
+
+sei oder noch geschaffen werde. Art. 5 § 3 Abs. 2 KindUG sei teleologisch dahingehend auszulegen, dass die Verweisung auf § 645 Abs. 1 ZPO darauf zu beschränken
+sei, dass der Antrag von einem Kind gestellt werden könne, wenn es noch minderjährig sei und mit dem in Anspruch genommenen Elternteil nicht in einem Haushalt zusammenlebe. Die Beschränkung des vereinfachten Verfahrens auf die Abänderung
+von Titeln mit Unterhaltsbeträgen bis zum Eineinhalbfachen des Regelbetrages sei
+vom Gesetzgeber nicht gewollt. Daher sei Art. 5 § 3 Abs. 2 KindUG dahingehend
+auszulegen, dass die Beschränkung auf das Eineinhalbfache nicht für die Umstellung
+von Alttiteln gelte. Eine Anpassung der Unterhaltstitel sei ansonsten nur wegen veränderter Umstände gemäß § 323 ZPO bei Überschreiten der Wesentlichkeitsgrenze
+von 10 % zu erreichen. Bei gleichbleibendem Einkommen des Unterhaltsverpflichteten müssten, um eine solche Anpassung erreichen zu können, unter Umständen
+sechs bis sieben Änderungen der Regelbetrag-Verordnung abgewartet werden.
+
+ 2. Zu den Verfassungsbeschwerden haben die Bundesregierung, das Deutsche Institut für Jugendhilfe und Familienrecht, der Deutsche Juristinnenbund, der Interessenverband Unterhalt und Familienrecht und die Wissenschaftliche Vereinigung für
+Familienrecht Stellung genommen.
+
+                                        III.
+ Die Kammer nimmt die Verfassungsbeschwerden zur Entscheidung an und gibt ihnen nach § 93 c Abs. 1 Satz 1 in Verbindung mit § 93 a Abs. 2 Buchstabe b BVerfGG
+statt.
+
+  Die Voraussetzungen des § 93 a Abs. 2 BVerfGG liegen vor. Die Annahme der Verfassungsbeschwerden ist zur Durchsetzung des Grundrechts der Beschwerdeführer
+aus Art. 3 Abs. 1 GG angezeigt (§ 93 a Abs. 2 Buchstabe b BVerfGG). Die Voraussetzungen für eine stattgebende Kammerentscheidung liegen vor (§ 93 c BVerfGG). Die
+für die Beurteilung der Verfassungsbeschwerden maßgeblichen Fragen zur Verletzung des allgemeinen Gleichheitssatzes (BVerfGE 1, 14 <52>; 55, 72 <88>; 81, 228
+<236>; 84, 197 <199>), zur Gesetzesauslegung (BVerfGE 3, 162 <182>; 18, 85
+<92 f.>; 21, 209 <216 f.>; 22, 322 <329>; 32, 319 <326>; 75, 302 <313>) und insbesondere zur verfassungskonformen Auslegung (BVerfGE 2, 266 <282>; 336
+<340 f.>; 7, 120 <126>; 8, 71 <77 f.>; 19, 1 <5>; 76 <84>; 31, 119 <132>) hat das
+Bundesverfassungsgericht bereits entschieden.
+
+ 1. Die angegriffenen Entscheidungen verletzen die Beschwerdeführer in ihren           13
+Grundrechten aus Art. 3 Abs. 1 GG.
+
+  a) Der allgemeine Gleichheitssatz ist verletzt, wenn eine Gruppe von Normadressaten anders behandelt wird, obwohl zwischen beiden Gruppen keine Unterschiede von
+solcher Art und solchem Gewicht bestehen, dass sie die ungleiche Behandlung
+rechtfertigen könnten. Eine solche Grundrechtsverletzung kann nicht nur vom Gesetzgeber begangen werden. Sie liegt auch dann vor, wenn die Gerichte im Wege
+der Auslegung gesetzlicher Vorschriften oder der Lückenfüllung zu einer dem Ge-
+
+
+                                         4/8
+
+setzgeber verwehrten Differenzierung gelangen (BVerfGE 84, 197 <199>). Lässt eine Norm mehrere Auslegungen zu, die teils zu einem verfassungswidrigen, teils zu
+einem verfassungsmäßigen Ergebnis führen, so muss die Norm verfassungskonform
+ausgelegt werden. Entscheidungen, die die Norm in einer dem Grundgesetz widersprechenden Weise auslegen, sind aufzuheben (BVerfGE 19, 1 <5>; 31, 119 <132>).
+
+ b) Die Auslegung, die das Amtsgericht dem Art. 5 § 3 Abs. 2 KindUG gegeben hat,          15
+verletzt das Grundrecht der Beschwerdeführer aus Art. 3 Abs. 1 GG.
+
+  Die vom Amtsgericht vorgenommene Auslegung von Art. 5 § 3 Abs. 2 KindUG dahin, dass die Verweisung auf § 645 Abs. 1 ZPO auch die Beschränkung der Anwendung des vereinfachten Verfahrens umfasst, führt dazu, dass Minderjährige mit Alttiteln über dem Eineinhalbfachen des Regelbetrages von der Umwandlung ihrer Alttitel
+in dynamische Titel im vereinfachten Verfahren ausgeschlossen werden.
+
+  Damit werden Minderjährige mit Alttiteln, die Unterhaltsrenten über dem Eineinhalbfachen des Regelbetrages festsetzen, gegenüber Minderjährigen mit Alttiteln, die das
+Eineinhalbfache nicht übersteigen, ungleich behandelt, indem ihnen nicht die Möglichkeit eröffnet wird, einen dynamischen Titel im vereinfachten Verfahren zu erlangen. Für diese Ungleichbehandlung ist ein sachlicher Grund nicht ersichtlich.
+
+ Die Gründe, die für die Beschränkung des vereinfachten Verfahrens bei der Festsetzung von Unterhalt auf eine bestimmte Unterhaltshöhe in § 645 Abs. 1 ZPO ausschlaggebend gewesen sind, greifen nicht bei der Umwandlung von Alttiteln. Für die
+Erstfestsetzung sollte gewährleistet werden, dass die erschwerten Rechtsverteidigungsmöglichkeiten des § 648 ZPO nur bei nicht wesentlich über dem Existenzminimum des Kindes liegenden Unterhaltsbeträgen zum Tragen kommen (vgl. Schumacher/Grün, FamRZ 1998, 778 <789>). Strittige höhere Unterhaltsansprüche, die
+deutlich über dem Lebensnotwendigen liegen, sollten demgegenüber bei Erstfestsetzung dem Klageverfahren vorbehalten bleiben (BTDrucks 13/9596, S. 32). Dieser
+Grund für eine Differenzierung entfällt aber bei der Umstellung von Alttiteln, in denen
+ein Unterhalt schon tituliert und jahrelang ohne Beanstandung gezahlt worden ist,
+auch wenn er deutlich über dem Existenzminimum liegt (OLG Düsseldorf, DAVorm
+2000, 63 <64>).
+
+  c) Die Ungleichbehandlung lässt sich jedoch durch eine verfassungskonforme Auslegung von Art. 5 § 3 Abs. 2 KindUG vermeiden. Mit dem Wortlaut, der Entstehungsgeschichte und dem Sinn von Art. 5 § 3 Abs. 2 KindUG ist eine Auslegung vereinbar,
+die die Beschränkung der Anwendung des vereinfachten Verfahrens auf Unterhaltsbeträge, die das Eineinhalbfache des Regelbetrages nach der Regelbetrag-Verordnung nicht übersteigen, von der Verweisung auf § 645 Abs. 1 ZPO ausnimmt.
+
+  Der Wortlaut des Art. 5 § 3 Abs. 2 KindUG lässt eine solche Auslegung zu, da lediglich die entsprechende Anwendung der dort genannten Vorschriften angeordnet wird.
+
+ Die Entstehungsgeschichte des Art. 5 § 3 Abs. 2 KindUG deutet darauf hin, dass           21
+der Gesetzgeber die Umwandlung von Alttiteln unabhängig von der Höhe der darin
+
+
+                                          5/8
+
+festgesetzten Unterhaltsbeträge im vereinfachten Verfahren zulassen wollte und die
+Gesetz gewordene Fassung auf einem redaktionellen Versehen beruht. § 3 der Übergangsvorschriften in der Fassung des Regierungsentwurfs vom 19. März 1997 sah
+vor, dass Alttitel dahingehend abgeändert werden können, dass die Unterhaltsrente in Vomhundertsätzen der Regelbeträge festgesetzt wird (BTDrucks 13/7338, S.
+14). Bereits in dieser Fassung wurde auf § 645 Abs. 1 ZPO verwiesen, der keine Beschränkung auf das Eineinhalbfache enthielt, allerdings im vereinfachten Verfahren
+nur die Festsetzung des Regelunterhalts in Form eines für die einzelnen Altersstufen
+festen Unterhaltsbetrages (jeweiliger Regelbetrag) zuließ (aaO S. 8). Der Rechtsausschuss schlug dann im Gesetzgebungsverfahren vor, die Anwendbarkeit des vereinfachten Verfahrens auf Unterhaltsbeträge bis zum Eineinhalbfachen des Regelbetrages nach der Regelbetrag-Verordnung auszuweiten (BTDrucks 13/9596, S. 11, 30,
+31, 36). Eine Änderung der Verweisung auf § 645 Abs. 1 ZPO in der Übergangsvorschrift wurde zwar nicht vorgeschlagen. Der Begründung der Beschlussempfehlungen des Rechtsausschusses ist aber auch nicht zu entnehmen, dass mit der empfohlenen Erweiterung der Erstfestsetzung im vereinfachten Verfahren zugleich eine
+Beschränkung der Umwandlungsmöglichkeit von Alttiteln in einem solchen Verfahren
+einhergehen sollte. Vielmehr enthält die Begründung hierzu überhaupt keine Aussage (aaO S. 39). Die Empfehlungen des Rechtsausschusses bezüglich § 645 Abs. 1
+ZPO und § 3 Abs. 2 der Übergangsvorschriften wurden schließlich Gesetz. Es ist nahe liegend, dass im weiteren Verlauf des Gesetzgebungsverfahrens übersehen wurde, dass die Verweisung in § 3 Abs. 2 der Übergangsvorschriften auf § 645 Abs. 1
+ZPO zumindest missverständlich geworden war und der Klarstellung bedurft hätte
+(ähnlich Zöller-Philippi, ZPO, 21. Aufl., Anh. § 660 Rn. 3; OLG Düsseldorf, DAVorm
+2000, 63 <64>). Hierfür spricht auch der Gesetzentwurf des Bundesrates vom 24.
+September 1999, der unter anderem eine Streichung der Verweisung auf § 645 Abs.
+1 ZPO aus Art. 5 § 3 Abs. 2 KindUG vorsieht. Dies sei zur Klarstellung erforderlich,
+da in der Rechtsprechung die Meinung vorherrsche, Art. 5 § 3 Abs. 2 KindUG sei
+dahingehend auszulegen, dass Alttitel, die Unterhaltsrenten ausweisen, die das Eineinhalbfache des Regelbetrages übersteigen, von einer Umwandlung im vereinfachten Verfahren ausgeschlossen seien. Diese Auffassung übergehe jedoch die Entstehungsgeschichte der Vorschrift. Darüber hinaus sei für eine derartige Beschränkung
+auch kein sachlich überzeugender Grund ersichtlich (BTDrucks 14/2096, S. 1, 5, 6,
+9). Diesem Gesetzgebungsvorschlag hat die Bundesregierung in ihrer Stellungnahme zugestimmt und ausgeführt, die Klarstellung entspreche der schon bisher vom
+Bundesministerium der Justiz vertretenen Rechtsauffassung zu Art. 5 § 3 Abs. 2 KindUG (aaO S. 11).
+
+ Auch Sinn und Zweck der Regelung des Art. 5 § 3 Abs. 2 KindUG sprechen für eine       22
+uneingeschränkte Zulassung der Umwandlung von Alttiteln im vereinfachten Verfahren. In der Begründung der Bundesregierung zu § 3 der Übergangsvorschriften zum
+KindUG wird ausgeführt, die Vorschrift sehe ein vereinfachtes gerichtliches Verfahren zur Umstellung von Alttiteln über Kindesunterhalt vor (BTDrucks 13/7338, S. 50).
+Daraus ergibt sich, dass generell ein vereinfachtes Verfahren zur Umwandlung von
+
+
+                                         6/8
+
+bereits bestehenden Unterhaltstiteln zur Verfügung gestellt werden sollte. Mit der
+durch die Übergangsvorschrift des Art. 5 § 3 KindUG ersichtlich angestrebten Entlastung der Unterhaltsgläubiger und der Familiengerichtsbarkeit bei der Umwandlung
+bestehender Unterhaltstitel ist nur eine uneingeschränkte Anwendbarkeit des vereinfachten Verfahrens in Einklang zu bringen (vgl. BTDrucks 14/2096, S. 9).
+
+ d) Die mögliche verfassungskonforme Auslegung von Art. 5 § 3 Abs. 2 KindUG dahingehend, dass die Verweisung auf § 645 Abs. 1 ZPO dessen Beschränkung der
+Anwendbarkeit des vereinfachten Verfahrens auf Unterhaltsbeträge, die das Eineinhalbfache der Regelbeträge nach der Regelbetrag-Verordnung nicht überschreiten,
+bei der Umwandlung von Alttiteln nicht umfasst, ist daher geboten, um eine gegen
+Art. 3 Abs. 1 GG verstoßende Ungleichbehandlung der Beschwerdeführer zu vermeiden. Dies hat das Gericht in seinen mit den Verfassungsbeschwerden angegriffenen
+Entscheidungen verkannt, so dass sie aufzuheben und die Sachen an das Gericht
+zurückzuverweisen sind.
+
+ 2. Die Auslagenentscheidung beruht auf § 34 a Abs. 2 BVerfGG.                        24
+
+ Diese Entscheidung ist unanfechtbar.                                                 25
+
+                                                          Hohmann-Papier                   Haas
+                                                          Dennhardt
+
+
+
+
+                                         7/8
+
+Bundesverfassungsgericht, Beschluss der 3. Kammer des Ersten Senats vom
+2. April 2001 - 1 BvR 355/00
+
+Zitiervorschlag BVerfG, Beschluss der 3. Kammer des Ersten Senats vom 2. April 2001
+                - 1 BvR 355/00 - Rn. (1 - 25), http://www.bverfg.de/e/
+                rk20010402_1bvr035500.html
+
+ECLI            ECLI:DE:BVerfG:2001:rk20010402.1bvr035500
+
+
+
+
+                                      8/8
