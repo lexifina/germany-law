@@ -1,4 +1,4 @@
-# TOP 4.1.: Kultur- und Sportangelegenheiten
+# TOP 4.1.: Antrag des SC Amicitia Schleiden auf Ausrichtung des Gemeindepokals 2002 für Seniorenmannschaften
 
 - Sitzung: Schul- und Sozialausschuss (2001-05-10)
 - Körperschaft: Gemeinde Aldenhoven
