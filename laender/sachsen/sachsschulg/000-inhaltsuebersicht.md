@@ -1,12 +1,13 @@
-Inhaltsübersicht
+## Schulgesetz für den Freistaat Sachsen (SchulG)
+# Inhaltsübersicht
 1. Teil Allgemeine Vorschriften
 1. Abschnitt Erziehungs- und Bildungsauftrag, Geltungsbereich
 § 1 Erziehungs- und Bildungsauftrag der Schule
-§ 2 Schulen im deutsch-sorbischen Gebiet
+§ 2 Sorbische Kultur und Sprache an der Schule
 § 3 Geltungsbereich
 2. Abschnitt Gliederung des Schulwesens
 § 4 Schularten und Schulstufen
-§ 4a Mindestschülerzahl, Klassenobergrenzen, Zügigkeit, Schulweg
+§ 4a Mindestschülerzahl, Klassenobergrenze, Zügigkeit, Schulweg
 § 5 Grundschule
 § 6 Mittelschule
 § 7 Gymnasium
@@ -30,9 +31,8 @@ Inhaltsübersicht
 § 21 Grundsätze
 § 22 Schulträger
 § 23 Aufgaben des Schulträgers
-§ 23a Schulnetzplanung
 § 24 Einrichtung, Änderung und Aufhebung von Schulen
-§ 25 Schulbezirk
+§ 25 Schulbezirk und Einzugsbereich
 3. Teil Schulpflicht
 § 26 Allgemeines
 § 26a Schulgesundheitspflege
@@ -44,8 +44,10 @@ Inhaltsübersicht
 4. Teil Schulverhältnis
 § 32 Rechtsstellung der Schule
 § 33 Schuljahr, Ferien
-§ 34 Wahl des Bildungsweges
-§ 35 Lehrpläne, Stundentafeln, Richtlinien
+§ 34 Wahl des Bildungswegs
+§ 35 Bildungsstandards, Lehrpläne, Stundentafeln, landeseinheitliche Prüfungsaufgaben
+§ 35a Individuelle Förderung der Schüler
+§ 35b Zusammenarbeit
 § 36 Familien- und Sexualerziehung
 § 37 Umwelterziehung
 § 38 Schulgeld- und Lernmittelfreiheit
@@ -65,6 +67,7 @@ Inhaltsübersicht
 § 48 Kreiselternrat
 § 49 Landeselternrat
 § 50 Ausführungsvorschriften
+§ 50a Informationsbefugnis
 3. Abschnitt Mitwirkung der Schüler
 § 51 Schülermitwirkung, Schülervertretung
 § 52 Klassenschülersprecher
@@ -76,6 +79,7 @@ Inhaltsübersicht
 7. Teil Schulaufsicht
 § 58 Inhalt der Schulaufsicht
 § 59 Schulaufsichtsbehörden
+§ 59a Evaluation
 § 60 Zulassung von Lehr- und Lernmitteln
 § 61 Ordnungswidrigkeiten
 § 62 Schul- und Prüfungsordnungen
