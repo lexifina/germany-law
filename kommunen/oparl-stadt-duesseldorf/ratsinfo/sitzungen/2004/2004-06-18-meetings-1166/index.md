@@ -1,0 +1,59 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-06-18T14:00:00+02:00
+- Ende: 2004-06-18T16:10:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1166
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1166
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111264.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111264.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111264.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Verpflichtung eines neuen Mitgliedes der BV 8 - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift vom 22.04.2004 - zur Kenntnis genommen
+- TOP 4: L404 Grundsatzbeschluss - zur Kenntnis genommen
+- TOP 5: OU Oberbilk
+- TOP 6: BPl5776/10 Nördl.Höherweg Aufst. BerBübet+T.öffAus - zur Kenntnis genommen
+- TOP 7: FNP-Ä Nr. 113 - Südwestl. Königsberger Str. - zur Kenntnis genommen
+- TOP 8: PlNr5775/35SüdwKönigsbergerStr Änderung Aufstell. - zur Kenntnis genommen
+- TOP 9: BPl 5775/35 Südwestl.KönigsbergerAufst....öffAusl. - zur Kenntnis genommen
+- TOP 10: B-Plan Nr. 5776/12 - Nördli. Königsberger Str. - zur Kenntnis genommen
+- TOP 11: B-Plan Nr. 5974/36 - Kikweg - zur Kenntnis genommen
+- TOP 12: FNP-Ä Nr. 63 - Kikweg - zur Kenntnis genommen
+- TOP 13: BPl5974/37Kikweg Anordnung der Umlegung - zur Kenntnis genommen
+- TOP 14: Plan Nr. 61-12/1659 - Grünzug - Teil 4 - zur Kenntnis genommen
+- TOP 15: Plan Nr. 61-12/1660 - Grünzug - Teil 5 - zur Kenntnis genommen
+- TOP 16: Bauherrenvorlage Vennhauser Allee - zur Kenntnis genommen
+- TOP 17: Lichtmasterplan Teil 2 als Teil der Aktion PLATZDA
+- TOP 18: Trödelmärkte 2. Halbjahr 2004 - zur Kenntnis genommen
+- TOP 19: Gemeinschaftsgrundschule Gumbertstraße - zur Kenntnis genommen
+- TOP 20: Haltverbot Wäschlacker Weg - zur Kenntnis genommen
+- TOP 21: Zuschuss an den TV Unterbach 1905 e.V. - zur Kenntnis genommen
+- TOP 22: Georg-Schulhoff-Realschule - zur Kenntnis genommen
+- TOP 23: Kriminalstatistik im Stadtbezirk 8
+- TOP 24: Behindertenparkplätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 25: Menzelsee / Elbsee - zur Kenntnis genommen
+- TOP 26: Polizeistatistik Stadtbezirk 8
+- TOP 27: Verlegung Bushaltestelle Fuldaer Straße
+- TOP 28: Behindertenparkplatz Reisholzer Straße - zur Kenntnis genommen
+- TOP 29: Umgestaltung des Freiheitplatzes - zur Kenntnis genommen
+- TOP 30: Bürgersteig Leuthenstraße - zur Kenntnis genommen
+- TOP 31: Kikweg - zur Kenntnis genommen
+- TOP 32: Carl-Sonnenschein-Schule in Unterbach - zur Kenntnis genommen
+- TOP 33: Grundstück Am Kleinforst - zur Kenntnis genommen
+- TOP 34: Breidenplatz - zur Kenntnis genommen
+- TOP 35: Vennstraße - Geschwindigkeitsregelung - zur Kenntnis genommen
+- TOP 36: Rad- / Fußweg Deutzer Straße - zur Kenntnis genommen
+- TOP 37: Gemeinschaftsgrundschule Gumbertstraße 191 - zur Kenntnis genommen
+- TOP 38: Verkehrssituation Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 39: Unfallhäufigkeit Deutzer Straße - zur Kenntnis genommen
+- TOP 40: Verlegung der Haltestelle Fuldaer Straße - zur Kenntnis genommen
+- TOP 41: Haltestelle Bernburger Straße - zur Kenntnis genommen
+- TOP 42: Karlsruher Straße / Einmündung Sturmstraße - zur Kenntnis genommen
