@@ -1,0 +1,55 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2003-02-25T15:00:00+01:00
+- Ende: 2003-02-25T17:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWNSAOrST4DWq5uza343IOU
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/662
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZxEHuxuCJ2bVg5bX3XctnJeQAXW5Y_hxK74FwhuQdCa/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_25.02.2003.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: Beratung des Verwaltungsentwurfes Haushaltsplan 2003/2004 -Sozialamt-
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: Antrag der SPD-Fraktion / Die Grünen zur Sitzung am 23.05.2001, TOP IV/1 - Auswirkung der Krankenhausplanung des Landes NW -
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Methadonsubstitution
+- TOP 8: Richtlinien der Stadt Bochum zur Förderung von Selbsthilfegruppen und Initiativen im Bereich Sozial- und Gesundheitswesen
+- TOP 9: Antrag des Deutschen Paritätischen Wohlfahrtsverbandes zur Einrichtung einer Kontakt- und Informationsstelle für Selbsthilfegruppen (KISS)
+- TOP 10: Beratung der Verwaltungs- und Vermögenshaushaltsplanentwürfe 2003/2004
+- TOP 11: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 12: Beschlussvorschläge für den Rat
+- TOP 13: Case-Management/nachgehende Sozialarbeit bei chronisch mehrfach beeinträchtigten Abhängigen
+- TOP 14: Sitzungstermine des Sozial- und Gesundheitsausschusses im Jahre 2003
+- TOP 15: Anträge
+- TOP 16: Mitteilungen
+- TOP 17: Stilllegung der Röntgenanlage des Gesundheitsamtes
+- TOP 18: Situationsbericht Obdachlose/wohnungslose Personen
+- TOP 19: Anfragen
+- TOP 20: - Tagesaufenthalt Stühmeyerstr. 33 - Abschluss der baulichen Maßnahmen zur neuen Konzeption "Entspannung der Situation am Springerplatz" vom 24.10.2000
+- TOP 21: Situation bei der Aufnahme und Unterbringung von Flüchtlingen und Aussiedlerinnen und Aussiedlern in Bochum
+- TOP 22: Fallzahlen zum Gesetz über eine bedarfsorientierte Grundsicherung im Alter und bei Erwerbsminderung (GSiG)
+- TOP 23: Bericht der Krisenhilfe über die Razzia in den Räumen Viktoriastr. 67
+- TOP 24: Sachstandsbericht über die Tätigkeit im Drogenkonsumraum der Krisenhilfe für die Zeit vom 02.10.2002 - 31.12.2002
+- TOP 25: Jahresstatistik 2002 der Aids-Fachkraft des Gesundheitsamtes
+- TOP 26: Kontakt- und Informationsstelle für Selbsthilfegruppen (KISS)
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: keine Tagesordnungspunkte
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 8: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 9: Beschlussvorschläge für den Rat
+- TOP 10: Anträge
+- TOP 11: Mitteilungen
+- TOP 12: Anfragen
