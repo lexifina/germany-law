@@ -1,0 +1,73 @@
+# 18. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2003-06-26T16:00:00+02:00
+- Ende: 2003-06-26T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=254
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=254
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers V_18 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Bezirksbürgermeister - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Einführung von Teilinklusivmieten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Schulentwicklungsplanung 2002 bis 2006 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Wochenmarkt Bölschestraße - mit Änderungen in der BVV beschlossen
+- TOP 11: Regenbogenflaggen zum Christopher Street Day - zurückgezogen
+- TOP 12: Herausragender Lenin - vertagt
+- TOP 13: Europaweiter Autofreier Tag - überwiesen
+- TOP 14: Tempo 70 auf der Straße An der Wuhlheide - überwiesen
+- TOP 15: Senkung von Fernsprechgebühren - überwiesen
+- TOP 16: Gesamtschulstandort Allende-Viertel - beantwortet
+- TOP 17: Sondermittel für Berufsförderung für Frauen - BFF e.V. (SM 302) - ohne Änderungen in der BVV beschlossen
+- TOP 18: Sondermittel für den Bund der Antifaschisten Treptow e.V. (SM 307) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 19: Sondermittel für Pfeiffer e.V. (SM 323) - ohne Änderungen in der BVV beschlossen
+- TOP 20: Sondermittel für die evangelische Kirchengemeinde Johannisthal (SM 320) - mit Änderungen in der BVV beschlossen
+- TOP 21: Sondermittel für Förderverein Lokale Agenda 21 Treptow-Köpenick e.V. (SM 327) - ohne Änderungen in der BVV beschlossen
+- TOP 22: Sondermittel für PSV Olympia Berlin e.V. (SM 330) - ohne Änderungen in der BVV beschlossen
+- TOP 23: Sondermittel für die Indische Solidaritätsaktion e.V. (SM 340) - ohne Änderungen in der BVV beschlossen
+- TOP 24: Sondermittel für Jugendfeuerwehr Friedrichshagen (SM 343) - ohne Änderungen in der BVV beschlossen
+- TOP 25: Sondermittel für Jugendfeuerwehr Müggelheim (SM 346) - ohne Änderungen in der BVV beschlossen
+- TOP 26: Sondermittel für Freundeskreis der Musikschule Treptow-Köpenick e.V. (SM 328) - ohne Änderungen in der BVV beschlossen
+- TOP 27: - Entwurf des Bebauungsplans XVI-13 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XVI-13 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - überwiesen
+- TOP 28: - Entwurf des Bebauungsplans XV-64a - Entwurf der Rechtsverordnung zum Bebauungsplan XV-64a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Niederschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 29: BA-Vorlage Nr. 153/03: Investitionsplanung 2003 bis 2007 - Entwurf, Finanzierung der gezielten Zuweisung - Einzelplan 40 - Jugend und Sport
+- TOP 30: Anmeldung zur Investitionsplanung 2003-2007
+- TOP 31: Umwidmung Freifläche Frauentog
+- TOP 32: Änderung der Geschäftsordnung - vertagt
+- TOP 33: Einhaltung der Zielvereinbarung zwischen Bezirksamt Treptow-Köpenick und Sozialamt vom 06.07.2001
+- TOP 34: Bauruine in der Straße Am Küstergarten
+- TOP 35: Bebauungsplanentwurf XV-17 hier: Einstellung des Planfeststellungsverfahrens
+- TOP 36: Bebauungsplan XVI-78, hier: Reduzierung des Geltungsbereichs
+- TOP 37: Entgeltverordnung der Volkshochschulen
+- TOP 38: Dauerhafter Saisonbusparkplatz
+- TOP 39: Bauherreninformation
+- TOP 40: Beschilderung WISTA-Gelände am Adlergestell
+- TOP 41: Pilotprojekt Schilderarme Stadt
+- TOP 42: Belegbetten im Krankenhaus Köpenick
+- TOP 43: Grünflächen - intensive-extensive Pflege
+- TOP 44: Schulen in freier Trägerschaft
+- TOP 45: Ein- und Aussteigemöglichkeit an der Musikschule
+- TOP 46: Bebauungsplan 9-1 hier: - Reduzierung des Geltungsbereiches - Auswertung der frühzeitigen Bürgerbeteiligung - Auswertung der TÖB - überwiesen
+- TOP 47: Bebauungsplan XVI-17, hier: Inhaltliche Planänderungen - überwiesen
+- TOP 48: Benennung der im Entwicklungsgebiet Adlershof gelegenen Privatstraße zwischen Groß-Berliner Damm und Kleingartenanlage in "Hans-Schmidt-Straße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 49: Lärmminderungsplanung für die Altstadt Köpenick und Stadtteile Adlershof, Köllnische Vorstadt, Allende-Wendenschloss, Dammvorstadt - überwiesen
+- TOP 50: Benennung eines Platzes in Johannisthal (Höhe Sterndamm 86a-88/Heubergweg) in "Albineaplatz" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 51: Trainingsraum für an Morbus Bechterew Erkrankte - überwiesen
+- TOP 52: Gesprächsrunden mit Partnergemeinden - ohne Änderungen in der BVV beschlossen
+- TOP 53: Spielplatzkommission - ohne Änderungen in der BVV beschlossen
+- TOP 54: Sportfördermittel - vertagt
+- TOP 55: "Köpenicker Sommer" - ohne Änderungen in der BVV beschlossen
+- TOP 56: Gesunde Städte Netzwerk - vertagt
+- TOP 57: Arbeitsstand Hortbetreuung der Lernanfänger für das Schuljahr 2003/2004 - vertagt
+- TOP 58: Entwurf Verwaltungsvorschrift Prüfdienste - vertagt
+- TOP 59: Sondermittel für Netzwerk in Köpenick e.V. - Spielmobil (SM 239) - ohne Änderungen in der BVV beschlossen
