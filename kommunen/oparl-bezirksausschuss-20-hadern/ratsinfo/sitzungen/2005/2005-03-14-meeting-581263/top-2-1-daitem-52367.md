@@ -1,0 +1,7 @@
+# TOP 2.1.: Niederschrift der Sitzung vom 14.02.2005
+
+- Sitzung: BA 20 - Vollgremium (2005-03-14)
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/52367
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/52367
