@@ -1,0 +1,60 @@
+# Rat der Stadt Vlotho
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 2000-06-07T17:00:00+02:00
+- Ende: 2000-06-07T19:40:00+02:00
+- Ort: Rathaus, Lange Str. 60, 32602 Vlotho, Sitzungssaal
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWRG8hwxX9a3JFZKTkLfT70
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/125
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYR2UxtC8f8YEELqY0NNJF2yw6HH60X-Wi2JoExTYBgP/Oeffentliche_Niederschrift_Rat_07.06.2000.pdf
+
+## Tagesordnung
+
+- TOP 3.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 4.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 6.: Angelegenheiten des Kurzweckverbandes (Berichte und Beschlussfassungen)
+- TOP 7.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 7.1.: Länge der Grünphase für Fußgänger an ampelgeregelten Kreuzungen - Einstimmig, 0 Enthaltung(en)
+- TOP 7.2.: Parkplatzprobleme im Bereich der Jugendfreizeitstätte - Einstimmig, 0 Enthaltung(en)
+- TOP 7.3.: Sanierung des Mahnmals in Exter - Einstimmig, 0 Enthaltung(en)
+- TOP 7.4.: Behinderung der Begehbarkeit von Bürgersteigen - Einstimmig, 0 Enthaltung(en)
+- TOP 7.5.: Zufahrt zur Hochbehälteranlage auf dem Solterberg in Exter - Einstimmig, 0 Enthaltung(en)
+- TOP 7.6.: Aufstellung solar-betriebener Parkplatz-Hinweise für die Innenstadt Vlothos - Einstimmig, 0 Enthaltung(en)
+- TOP 7.7.: Ausbau der Straße Am Bonneberg in Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 7.8.: Zusätzliche Straßenlaternen an der Straße Weizenkamp - Einstimmig, 0 Enthaltung(en)
+- TOP 7.9.: Lärmschutzwand entlang der L778 - Ohne Abstimmung
+- TOP 7.10.: Anbringung eines Verkehrsspiegels an der Straße Zum Schelland in Höhe der Einmündung Karlstraße - Einstimmig, 0 Enthaltung(en)
+- TOP 7.11.: Bauplanung Uffeln Flurstücke 995/997ff - Einstimmig, 0 Enthaltung(en)
+- TOP 7.12.: Lösung der Verkehrssituation in der Bergstraße - 33 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 7.13.: Verbesserung der EDV-Ausstattung an den weiterführenden Schulen -  
+- TOP 8.: Änderung der Betriebssatzung der Stadtwerke Vlotho 07. Juni 2000 - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Änderung der allgemeinen Erdgastarife und der Erdgassonderpreise zum 01. Juli 2000 - Einstimmig, 2 Enthaltung(en)
+- TOP 10.: Bestellung von 2 Abwesenheitsvertretern des Werkleiters der Stadtwerke Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Genehmigung zur Leistung einer außerplanmäßigen Haushaltsausgabe bei Haushaltsstelle 1.200.5015.00 (Schulrenovierung) - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Ausstattung der Schulen mit Personalcomputern - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Zuleitung der Jahresrechnung für das Haushaltsjahr 1999 gem. § 93 Abs. 2 GO NW - Zur Kenntnis genommen
+- TOP 14.: Über- und außerplanmäßige Haushaltsausgaben im Haushaltsjahr 1999 - Zur Kenntnis genommen
+- TOP 15.: Leistung einer außerplanmäßigen Ausgabe bei den Haushaltsstellen 1.060.4110.00.0 und 1.060.4210.00.0 (Pensionsrückstellungen nach BBesG und E-FoG) - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Außerplanmäßige Haushaltsausgabe im Budget 1400hier: Haushaltsstelle 1.060.6550.00.1 (Organisationsuntersuchung „Neustrukturie-rung der Eigenbetriebe“) - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: ÖPNVhier: Einführung Taxibus/AST - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: REGIONALE-Heilgarten 2000 GmbH hier: Auflösung der Gesellschaft - Einstimmig, 11 Enthaltung(en)
+- TOP 19.: Zukunft Unternehmen EMR - 33 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 20.: Strukturdefizite Kurorte - Einstimmig, 0 Enthaltung(en)
+- TOP 21.: Bildung eines Ausschusses für die Generalinstansetzung der Schulen (AGIS) - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass - Einstimmig, 1 Enthaltung(en)
+- TOP 23.: Neuwahl von Schiedsmännern/-frauen für die Schiedsamtsbezirke Valdorf I,Exter und Uffeln - Einstimmig, 0 Enthaltung(en)
+- TOP 24.: Neuwahl der ehrenamtlichen Richter/innen für das Verwaltungsgericht Mindenhier: Aufstellung der Vorschlagsliste - Einstimmig, 0 Enthaltung(en)
+- TOP 25.: Neufassung von Förderrichtlinien der Partnerschaftsvereine - Einstimmig, 0 Enthaltung(en)
+- TOP 26.: Leistung einer außerplanmäßigen Haushaltsausgabe im Unterabschnitt 630 - Maßnahme Straßenausbau "Im Kohlpott" - - Einstimmig, 0 Enthaltung(en)
+- TOP 27.: Satzung der Stadt Vlotho über die Aufhebung der Zweckbestimmung des öffentlichen Weges Gemarkung Uffeln, Flur 5, Flurstück 125 - Einstimmig, 0 Enthaltung(en)
+- TOP 28.: Ausbau der Wasserstraße zwischen Kampstraße und Jägerortstraße hier: Leistung einer überplanmäßigen Ausgabe im Abschnitt 630 des Vermögens-haushaltes - Einstimmig, 0 Enthaltung(en)
+- TOP 29.: Leistung einer überplanmäßigen Haushaltsausgabe im Unterabschnitt 690 - Ausbau des unbenannten Gewässers im Bereich Wasserstraße - - Einstimmig, 0 Enthaltung(en)
+- TOP 30.: Erweiterung (Aufstockung) des Weser-Gymnasiums - Einstimmig, 0 Enthaltung(en)
+- TOP 31.: Neuanlage der Schulbushaltestelle am Weser-Gymnasium Vlotho hier: Änderung der Ausbauplanung - 28 Ja-Stimme(n), 2 Gegenstimme(n), 4 Stimmenthaltung(en)
+- TOP 32.: Die Valdorfer Straße im Verkehrskonzept Siedlungsschwerpunkt - Einstimmig, 0 Enthaltung(en)
+- TOP 33.: Ausbau der Valdorfer Straße zwischen der Einmündung Oelbrinkstraße und der Einmündung des Stichweges zum Horstweg (Valdorfer Str. 116) - Einstimmig, 0 Enthaltung(en)
+- TOP 34.: Aufstellung des Bebauungsplanes E 10 „Solarsiedlung Exter“ hier: Beratung über die Modifizierung des Planentwurfes - Einstimmig, 4 Enthaltung(en)
+- TOP 36.: Anfragen nach § 18 der Geschäftsordnung und Mitteilungen
