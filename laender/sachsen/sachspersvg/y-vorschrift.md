@@ -1,2 +1,2 @@
 # Sächsisches Personalvertretungsgesetz (SächsPersVG)
-Rechtbereinigt mit Stand vom 10. April 2002
+Rechtsbereinigt mit Stand vom 1. Januar 2003
