@@ -1,0 +1,1 @@
+# Verordnung über die Einrichtung eines automatisierten Abrufverfahrens beim Rechnungsprüfungsamt der Stadt Bremerhaven für das vom Personalamt der Stadt Bremerhaven unterhaltene Personalabrechnungs-Programmsystem vom 10. Juni 1997
