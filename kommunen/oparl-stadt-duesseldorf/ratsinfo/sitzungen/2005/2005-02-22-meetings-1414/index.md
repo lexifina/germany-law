@@ -1,0 +1,54 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-02-22T17:00:00+01:00
+- Ende: 2005-02-22T00:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1414
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1414
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111390.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111390.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111390.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Straßenbenennung
+- TOP 4: Widmung von Verkehrsflächen
+- TOP 5: verkaufsoffene Sonntage
+- TOP 6: Gedenkveranstaltung
+- TOP 7: Benennung des Aloys-Odenthal-Platzes in Gerresheim
+- TOP 8: Benennung des Platzes am Rathaus
+- TOP 9: Gedenktafel an der Gerresheimer Glashütte
+- TOP 10: Fußweg Kleingärten Heckteichstraße
+- TOP 11: Rahmenplan Gerresheim-Süd
+- TOP 12: Besichtigung der Gerresheimer Glashütte
+- TOP 13: Radweg Benderstraße
+- TOP 14: Radweg "Brücke"
+- TOP 15: Radweg Quadenhofstraße
+- TOP 16: Zebrastreifen Quadenhofstraße
+- TOP 17: Gerricusplatz
+- TOP 18: Sanierung Ostpark
+- TOP 19: Siedlung Knittkuhl
+- TOP 20: Ampelschaltung B 7 / Kreuzung Rennbahnstraße
+- TOP 21: Straßenbeleuchtung Knittkuhler Straße
+- TOP 22: Radweg Ludenberger Straße
+- TOP 23: Radwegeroute zum Unterbacher See
+- TOP 24: Zwischennutzung Knuppertsbrück
+- TOP 25: Korrektur der Stadtbezirkskarte
+- TOP 26: Unfall- und Kriminalitätsentwicklung
+- TOP 27: Absperrungen Gerresheimer Karnevalszug
+- TOP 28: Wander-/Fußwegverbindung Klashausweg
+- TOP 29: L 404 n
+- TOP 30: Schadstoffemissionen Ludenberger Straße
+- TOP 31: Verkehrsbelastung in Grafenberg
+- TOP 32: Kinderspielplatz Am Geisterberg
+- TOP 33: Regenrückhaltebecken "In der Flieth"
+- TOP 34: Auswirkungen der geplanten Umgehungsstraße L 404 n
+- TOP 35: Erneuerung Straßenbeleuchtung Knittkuhl
+- TOP 36: Bauaufsicht
+- TOP 37: Schadstoffentlastung durch L 404 n
