@@ -1,117 +1,675 @@
-# Satzung des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts über die Entsorgung von Schmutzwassergruben – Schmutzwassergrubensatzung –
+# Satzung des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts über die Erhebung von Gebühren für die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage sowie für die Entsorgung von Sch
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2001-10-29 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/schmutzwassergrubensatzung_2001_09_25.pdf
+- Datum: 2004-12-17 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/abwassergebührensatzung_vom_17.12.2004.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Veröffentlicht im Amtsblatt der Stadt Köln vom 29.Oktober 2001, Nr.53, Seite 465 ff
-Satzung des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts
-über die Entsorgung von Schmutzwassergruben – Schmutzwassergrubensatzung – vom 25.September 2001
-Der Verwaltungsrat des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts hat in seiner Sitzung am 18.Juni 2001 aufgrund der §§ 7, 9, 76 und 114 a der Gemeindeordnung für das Land Nordrhein-Westfalen (GO) in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV NRW S.666/SGV NRW 2023) und der §§ 2, 4, 6, 7, 12 und 20 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) vom 21. Oktober 1969 (GV NRW S.712/SGV NRW 610) und der §§ 51, 51 a, 53, 53a, 65, 117 und 161a des Wassergesetzes für das Land Nordrhein-Westfalen (LWG) in der Fassung der Bekanntmachung vom 25. Juni 1995 (GV NRW S.926/SGV NRW 77) – in Verbindung mit der Satzung für das Kommunalunternehmen „Stadtentwässerungsbetriebe Köln Anstalt des öffentlichen Rechts“ der Stadt Köln vom 24. April 2001 (Abl. Stadt Köln 2001 S.145) jeweils in der bei Erlass dieser Satzung geltenden Fassung – folgende Satzung beschlossen.
-Erster Abschnitt Durchführung der Entsorgung
-§1 Allgemeines
-(1) Dem Kommunalunternehmen obliegt auf dem Gebiet der Stadt Köln gemäß § 53 LWG NW die Entsorgung der Schmutzwassergruben von Grundstücksentwässerungsanlagen, die keine Verbindung mit der öffentlichen Abwasseranlage haben. (2) Das Kommunalunternehmen erfüllt diese Aufgabe, indem es durch von ihm beauftragte Unternehmen oder selbst die Entleerung und Abfuhr besorgt. Zur ordnungsgemäßen Beseitigung betreibt es Abwassereinleitungsstellen.
-1
+Satzung des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts über die Erhebung von Gebühren
+für die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage sowie für die Entsorgung von Schmutzwassergruben - Abwassergebührensatzungvom 17. Dezember 2004
+-ABI. StK 2004, S. 981
+Der Verwaltungsrat der Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts (AöR) hat in seiner Sitzung am 08.12.2004 aufgrund der §§ 2, 4, 5, 6, 7, 12 und 20 des Kommunalabgabengesetzes für das Land Nordrhein- Westfalen (KAG) vom 21. Oktober 1969 (SGV NW 610), der §§ 7 und 76 Absatz 1 , 114 a der Gemeindeordnung für das Land Nordrhein-Westfalen vom 14. Juli 1994 (SGV NW 2023) und des § 65 des Wassergesetzes für das Land Nordrhein- Westfalen (LWG) in der Fassung der Bekanntmachung vom 25. Juni 1995 (SGV NW 77) in Verbindung mit der Satzung für das Kommunalunternehmen Stadtentwässerungsbetriebe Köln, AöR der Stadt Köln, vom 10.10.2003 und 19.12.2003 (ABl. Stadt Köln 2003 S.557 und S. 742), der Abwasser- satzung der Stadtentwässerungsbetriebe Köln, AöR vom 25. September 2001 (ABl. Stadt Köln 2001 S.453) und der Schmutzwassergrubensatzung der Stadtentwässerungsbe- triebe Köln, AöR vom 25. September 2001 (ABl. Stadt Köln 2001 S.465) – jeweils in der bei Erlass dieser Satzung gelten- den Fassung – diese Satzung beschlossen:
+Erster Abschnitt Anwendungsbereich
+§ 1 Gegenstand
+(1) Das Kommunalunternehmen Stadtentwässerungsbetriebe Köln, AöR erhebt Gebühren und Auslagen im Sinne der §§ 5, 6 und 7 KAG a) für die Inanspruchnahme der öffentlichen Abwasseranlage,
+Seite 1 von 17
 
-§2 Begriffsbestimmungen
-Im Sinne dieser Satzung bedeuten:
-(1) Schmutzwasser ist das durch haushaltsüblichen Gebrauch in seinen Eigenschaften veränderte Wasser und der Schlamm aus Schmutzwassergruben.
-(2) Schmutzwassergruben im Sinne dieser Satzung sind:
-• Mehrkammerausfaulgruben, • vollbiologische Kleinkläranlagen, • abflusslose Gruben für Schmutzwasser.
-(3) Entsorgung umfasst die Entleerung der Schmutzwassergruben, die Abfuhr und Beseitigung des darin angesammelten Schmutzwassers, sowie dessen Überwachung im Rahmen der Abfuhr.
-(4) Grundstück im Sinne dieser Satzung ist unabhängig von der Eintragung im Liegenschaftskataster und Grundbuch und ohne Rücksicht auf die Grundstücksbezeichnung jeder im Stadtgebiet Köln gelegene zusammenhängende Grundbesitz, der eine selbständige wirtschaftliche Einheit bildet, insbesondere dann, wenn ihm eine Hausnummer zugeteilt ist.
-(5) Anschlussberechtigte sind natürliche und juristische Personen, die Eigentümer eines Grundstückes sind. Dem Eigentümer sind gleichgestellt die berechtigten Wohnungseigentümer, Wohnungserbbauberechtigte, Nießbraucher und sonstige zur Nutzung eines Grundstückes dinglich Berechtigte.
-§3 Anschluss- und Benutzungsrecht
-Jeder Anschlussberechtigte ist berechtigt, von dem Kommunalunternehmen die Entsorgung seiner Schmutzwassergrube zu verlangen, soweit er ausschließlich haushaltsübliches Schmutzwasser einleitet.
-§4 Anschluss- und Benutzungszwang
-(1) Der Anschlussberechtigte ist verpflichtet, das auf seinem Grundstück anfallende haushaltsübliche Schmutzwasser in die Schmutzwassergrube einzuleiten und diese Anlage durch das Kommunalunternehmen entleeren zu lassen.
+b) für die Entsorgung der Schmutzwassergruben nach der Schmutzwassergrubensatzung, c) für Abwasseruntersuchungen, d) für sonstige Leistungen.
+(2) Die Gebühren ergeben sich aus den nachfolgenden Bestimmungen und dem dieser Satzung als Bestandteil beigefügten Gebührentarif.
+Zweiter Abschnitt Gebühren für die Inanspruchnahme der öffentlichen Abwasseranlage
+§ 2 Bemessungsgrundlage
+(1) Die Gebühren bemessen sich unter Berücksichtigung der nachfolgenden Bestimmungen
+a) bei Schmutzwasser nach der von dem Grundstück in die öffentliche Abwasseranlage unmittelbar oder mittelbar eingeleiteten Schmutzwassermenge, b) bei Niederschlagswasser nach der bebauten oder sonst befestigten Grundstücksfläche, von der Niederschlagswasser in die öffentliche Abwasseranlage gelangen kann – nachfolgend angeschlossene Grundstücksfläche genannt –; als angeschlossen gelten auch die befestigten Grundstücksflächen, von denen Niederschlagswasser oberirdisch ohne Sammlung über öffentliches oder privates Straßenland in die öffentliche Abwasseranlage gelangen kann, c) bei von Transportfahrzeugen angeliefertem Schmutzwasser und Schlamm aus Sickerschächten, Schlammfängen, gewerblichen Sammelbehältern und Chemietoiletten, nach der in die öffentliche Abwasseranlage eingeleiteten Menge.
+(2) Als Schmutzwassermenge im Sinne von Absatz 1 Buch- stabe a) gilt unbeschadet der in Absatz 4 getroffenen Ausnahmeregelung
+Seite 2 von 17
+
+a) die von den Wasserversorgungsunternehmen gelieferte und in Rechnung gestellte Wassermenge, b) in den Fällen des § 4 Absatz 6 Buchstabe c) die eingeleitete Menge sowie bei Einleitung durch Transportfahrzeuge in ein Klärwerk die angelieferte Menge, c) die durch eine Gewässerbenutzung im Sinne von § 3 Wasserhaushaltsgesetz (WHG) in der Fassung der Bekanntmachung vom 12. November 1996 (BGBI. I S. 1695) dem Grundstück zugeführte Wassermenge, d) die dem Grundstück sonst zugeführte Wassermenge.
+(3) Als eingeleitete Menge im Sinne von Absatz 1 Buchstabe c) gilt die an den Abwassereinleitungsstellen der Klärwerke gemessene Menge.
+(4) Von der Wassermenge nach Absatz 2 Buchstabe a), c) und d) wird bis zur Bestandskraft des jeweiligen Gebührenbescheides auf Antrag des Gebührenschuldners die Wassermenge abgesetzt, die nachweislich nicht in die öffentliche Abwasseranlage eingeleitet wurde, soweit sie 20 m3/Jahr der nicht eingeleiteten Wassermenge über- steigt. Der Nachweis ist durch festinstallierte geeichte Wasserzähler, ausnahmsweise durch andere nachprüfbare Unterlagen, zu führen. Die Stadtentwässerungsbetriebe Köln, AöR können hinsichtlich der Art und Umfang des Nachweises zusätzliche Anforderungen stellen. Zeigen Wasserzähler nicht oder offenbar nicht richtig an, wird die abzugsfähige Wassermenge geschätzt. Solange und soweit noch keine Wasserzähler eingebaut sind, ent- scheiden die Stadtentwässerungsbetriebe Köln, AöR nach pflichtgemäßem Ermessen, ob und in welcher Höhe ein Abzug aufgrund eines anderen prüffähigen Nachweises vor Einbau eines Wasserzählers gewährt wird. Der Antrag ist bei den Stadtentwässerungsbetrieben Köln, AöR zu stellen.
+(5) Der Gebührenschuldner hat bei den Stadtentwässerungsbetrieben Köln, AöR die in Absatz 2 Buchstabe c) und d) genannte Wassermenge jeweils bis zum 31. März für das abgelaufene Kalenderjahr anzugeben. Diese Menge ist durch festinstallierte geeichte Wassermesser, ausnahmsweise durch andere nachprüfbare Unterlagen nachzuweisen. Die Stadtentwässerungsbetriebe Köln,
+Seite 3 von 17
+
+AöR können hinsichtlich der Art des Umfanges des Nachweises zusätzliche Anforderungen stellen. Ferner hat der Gebührenschuldner den Stadtentwässerungsbetrieben Köln, AöR jeden Neuzugang bzw. jede Änderung der Größe der angeschlossenen Grundstücksfläche unverzüglich mitzuteilen. Im Falle des Absatzes 2 Buchstabe d) gilt als Einleitungsmenge die bei der Einleitung tatsächlich gemessene Menge. Kann diese nicht gemessen werden, hat der Gebührenschuldner sie durch nachprüfbare Unterlagen nachzuweisen.
+(6) Soweit die Angaben nach Absatz 5 nicht, nicht rechtzeitig oder nicht zutreffend gemacht werden, erfolgt eine Schätzung nach Maßgabe von § 12 KAG in Verbindung mit § 162 der Abgabenordnung (AO 1977) vom 16. März 1976 (BGBI. I S. 613).
+§ 3 Berechnung
+(1) Die Berechnungseinheiten für die Gebühren sind a) für Schmutzwasser nach § 2 Absatz 1 Buchstabe a) ein Kubikmeter (m3) der gebührenpflichtigen Schmutzwassermenge, b) für Niederschlagswasser nach § 2 Absatz 1 Buchstabe b) ein Quadratmeter (m2) der angeschlossenen Grundstücksfläche, c) für Stoffe nach § 2 Absatz 1 Buchstabe c) ein Kubikmeter (m3) der eingeleiteten Menge.
+(2) Veranlagungszeitraum ist a) im Falle von § 2 Absatz 1 Buchstabe a) und b) mit Ausnahme von § 2 Absatz 2 Buchstabe b) das Kalenderjahr. Tritt im Laufe des Kalenderjahres eine Gebührenänderung ein, gilt für die Änderung als Veranlagungszeitraum die Zeit vom Inkrafttreten der neuen Gebührensätze bis zum Ende des Kalenderjahres, b) im Falle von § 2 Absatz 1 Buchstabe c) der Kalendermonat, c) im Falle von § 2 Absatz 2 Buchstabe b) das Kalendervierteljahr.
+Seite 4 von 17
+
+(3) Für die Berechnung der Gebühren gilt Folgendes: a) Schmutzwasser aa) Als Schmutzwassermenge gilt bei unbefristeten Einleitungen die Wassermenge, die unter Berück- sichtigung der in § 2 Absatz 4 vorgesehenen Absetzung für das Kalenderjahr ermittelt wurde, das ein Jahr vor Beginn des jeweiligen Veranlagungszeitraumes geendet hat (Schmutzwasserein- leitungsjahr). Im Falle des § 2 Absatz 2 Buchstabe a) gilt die Wassermenge als im Schmutzwassereinleitungsjahr für das Grundstück geliefert, die von dem Wasserversorgungsunternehmen für alle Abrechnungszeit- räume festgestellt und berechnet wurde, deren Ende in den Zeitraum von September 2003 bis August 2004 fällt. Bei der Berechnung von Wohnungs- wasserzählern gilt die am Hauptwasserzähler ermittelte Wasserverbrauchsmenge. Liegt den Abrechnungen nicht insgesamt ein Zeitraum von 12 Monaten zugrunde, wird zur Ermittlung der jähr-
+lichen Schmutzwassermenge die Wassermenge auf einen Wert für 12 Monate anteilig umgerechnet. Liegt ausnahmsweise keine Abrechnung vor, wird die jährliche Schmutzwassermenge unter Berück- sichtigung des Absatzes 4 geschätzt. Tritt im Laufe des Kalenderjahres eine Gebühren- änderung ein, gilt als Schmutzwassermenge für jeden Monat des Veranlagungszeitraumes nach Inkrafttreten der neuen Gebührensätze 1/12 der vor- ermittelten Schmutzwassermenge.
+bb) Bei einer vorübergehenden Einleitung in die öffentli- che Abwasseranlage gem. § 19 der Abwasser- satzung wird der durch den Genehmigungsinhaber nachzuweisende Wasserbezug im Veranlagungs- zeitraum unter Berücksichtigung der nach § 2 Absatz 4 möglichen Absetzung zugrunde gelegt. Der Nachweis über die tatsächliche Einleitungs- menge ist innerhalb von 4 Wochen nach Beendi- gung der Maßnahme zu erbringen.
+b) Als Grundstücksfläche wird die Fläche angesetzt, die zu Beginn des Kalenderjahres an die öffentliche Ab- wasseranlage angeschlossen ist.
+Seite 5 von 17
+
+c) Bei Stoffen nach § 2 Absatz 1 Buchstabe c) und bei Schmutzwasser nach § 2 Absatz 2 Buchstabe b) wird die im Veranlagungszeitraum eingeleitete Menge zugrunde gelegt.
+
+d) Bei Dachbegrünungen kann auf Antrag die Nieder- schlagswassergebühr je nach Abflussbeiwert für die jeweilige Fläche in dem aus der nachstehenden Tabelle ersichtlichen Umfang gemindert werden. Der Abfluss- beiwert ist insbesondere durch die Bestätigung des Gründachherstellers nachzuweisen.
+
+Abflussbei wert
+0,1 0,2 0,3 0,4 0,5 0,6 0,7
+
+Reduzierung der Niederschlagswassergebühr um
+90 % 80 % 70 % 60 % 50 % 40 % 30 %
+
+(4) Bei der erstmaligen Einleitung von Schmutzwasser
+a) von einem Grundstück in die öffentliche Abwasser- anlage sowie im Falle einer veränderten Nutzung des Grundstückes gegenüber dem Schmutzwassereinleitungsjahr wird die Jahresschmutzwassermenge nach Maßgabe von § 12 KAG in Verbindung mit § 162 AO 1977 geschätzt. § 2 Absätze 4 bis 6 gelten ent- sprechend.
+b) Bei vorübergehender Einleitung von Schmutzwasser in die öffentliche Abwasseranlage nach § 19 Abwasser- satzung wird die Schmutzwassermenge anhand der vom Antragsteller angegebenen Einleitungsdauer und einer auf Erfahrungswerten beruhenden durchschnitt- lichen Einleitungsmenge als Vorauszahlung mit der Erteilung der Einleitungsgenehmigung zu Schmutzwassergebühren veranlagt.
+
+(5) Bei der erstmaligen Einleitung von Niederschlagswasser oder bei Änderung der angeschlossenen Grundstücks- fläche innerhalb des Kalenderjahres wird die angeschlos- sene oder geänderte Grundstücksfläche vom Ersten des folgenden Monats der Berechnung zugrunde gelegt. Flächenreduzierungen werden vom Ersten des folgenden Monats nach der Mitteilung berücksichtigt. Für jeden Monat wird 1/12 der Jahresgebühr erhoben. Das gilt auch, wenn im Laufe des Kalenderjahres eine Gebühren- änderung eintritt.
+
+Seite 6 von 17
+
+(6) Wird Niederschlagswasser über Regenwasser -Nutzungs- anlagen nach Gebrauch in die öffentliche Kanalisation ein- geleitet, so ist die Brauchwassermenge über einen festin- stallierten geeichten Wasserzwischenzähler zu erfassen. Die Brauchwasserzuführung ist den Stadtentwässerungs- betrieben Köln, AöR vor Inbetriebnahme einer Anlage anzuzeigen.
+§ 4 Gebührenschuld
+(1) Gebührenschuldner sind a) im Falle von § 2 Absatz 1 Buchstabe a) und b) die Eigentümer der Grundstücke, von denen Abwasser in die öffentliche Abwasseranlage gelangt. Übt ein anderer als der Eigentümer die tatsächliche Herrschaft über das Grundstück in einer Weise aus, dass er den Eigentümer im Regelfall für die gewöhnli- che Nutzungsdauer von der Einwirkung auf das Grundstück wirtschaftlich ausschließen kann, ist dieser Gebührenschuldner (wirtschaftliches Eigentum i. S. von § 39 AO 1977), b) im Falle von § 2 Absatz 1 Buchstabe c) diejenigen, die die Stoffe in die öffentliche Abwasseranlage einleiten, c) im Falle § 3 Absatz 3 Buchstabe a) bb) diejenigen, denen die vorübergehende Einleitung von Abwässern nach § 19 Abwassersatzung genehmigt wurde und d) in allen anderen Fällen diejenigen, die die öffentliche Abwasseranlage tatsächlich nutzen oder genutzt haben.
+Mehrere Gebührenschuldner sind Gesamtschuldner. (2) Im Falle eines Eigentumswechsels ist der neue Eigentümer von Beginn des Monats an gebührenpflichtig, der dem Monat der Rechtsänderung folgt. Den Wechsel haben der bisherige und der neue Eigentümer unverzüglich der Stadt Köln – Kassen- und Steueramt – anzuzeigen und entsprechend nachzuweisen. (3) Die Gebührenschuldner erhalten über die zu entrichtenden Beträge einen Gebührenbescheid. Dieser wird im Falle von § 2 Absatz 1 Buchstabe a) und b) von der Stadt Köln als Verwaltungshelferin der Stadtentwässerungsbetriebe Köln, AöR gefertigt. Dieser Bescheid kann mit dem
+Seite 7 von 17
+
+städtischen Grundbesitzabgabenbescheid verbunden werden. Die Stadtentwässerungsbetriebe Köln, AöR sind berechtigt, mit der Einziehung die Stadt Köln zu beauftragen.
+Bei Wohnungseigentum können die Gebühren einheitlich für die Gemeinschaft festgesetzt werden. Der Gebührenbescheid wird den Wohnungseigentümern oder dem Verwalter, den die Wohnungseigentümer nach dem Wohnungseigentumsgesetz bestellt haben, bekannt gegeben. (4) Das Gebührenschuldverhältnis entsteht a) im Falle von § 2 Absatz 1 Buchstaben a) und b) mit Ausnahme von § 2 Absatz 2 Buchstabe b) erstmalig mit dem Ersten des Monats, der auf den Monat folgt, in dem auf dem Grundstück anfallendes Schmutz- und Niederschlagswasser in die öffentliche Abwasser- anlage eingeleitet worden ist, b) bei Stoffen nach § 2 Absatz 1 Buchstabe c) und bei Schmutzwasser nach § 2 Absatz 2 Buchstabe b) mit der Einleitung in die öffentliche Abwasseranlage.
+(5) Im Falle von § 2 Absatz 1 Buchstaben a) und b) erlischt das Gebührenschuldnerverhältnis mit dem Ende des Monats, in dem die Einleitung in die öffentliche Abwasseranlage geendet hat. Entstandene Gebührenansprüche bleiben hiervon unberührt.
+(6) Als Grundstück sind unabhängig von der Eintragung im Liegenschaftskataster, Grundbuch und Schiffsregister und ohne Rücksicht auf die Grundstücksbezeichnung anzuse- hen a) jeder zusammenhängende Grundbesitz, der eine selb- ständige wirtschaftliche Einheit bildet, insbesondere dann, wenn ihm eine Hausnummer zugeteilt ist, b) alle Straßen, Wege und Plätze, die dem öffentlichen Verkehr gewidmet sind oder ihm ohne Widmung die- nen, c) Gaststättenschiffe, Hotelschiffe, Wohnschiffe und andere schwimmende Einheiten, die entsprechend den §§ 6 und 7 der Abwassersatzung Schmutzwasser in die öffentliche Abwasseranlage einleiten.
+Seite 8 von 17
+
+§ 5 Fälligkeit und Vorauszahlung
+(1) Die Gebühren werden fällig a) im Falle von § 2 Absatz 1 Buchstaben a) und b) mit Ausnahme von § 2 Absatz 2 Buchstabe b) für ein Kalenderjahr am 15. Februar, 15. Mai, 15. August und 15. November zu je gleichen Teilbeträgen. Ist der Ge- bührenbescheid noch nicht bekannt gegeben, hat der Gebührenschuldner zu den vorgenannten Fälligkeitstagen in Höhe der zuletzt festgesetzten Teilbeträge unaufgefordert Vorauszahlung zu leisten. Tritt im Laufe des Kalenderjahres eine Gebührenänderung ein, gelten für Fälligkeit und Vorauszahlung die auf dem Gebührenbescheid angegebenen Termine, b) im Falle von § 2 Absatz 1 Buchstabe c) und § 2 Absatz 2 Buchstabe b) mit dem im Gebührenbescheid ange- gebenen Zeitpunkt, c) im Falle von § 3 Absatz 3 Buchstabe a) aa) und Absatz 4 Buchstabe b) mit dem im Bescheid angegebenen Zeitpunkt.
+(2) Hat der Gebührenschuldner gemäß § 28 Absatz 3 Grundsteuergesetz die Grundsteuer am 1. Juli in einem Jahresbetrag zu entrichten, sind abweichend von Absatz 1 auch die Gebühren zu diesem Zeitpunkt in einer Summe zu zahlen.
+(3) Wird von einem Grundstück im Laufe des Kalenderjahres erstmals Abwasser in die öffentliche Abwasseranlage ein- geleitet, gilt Absatz 1 mit der Maßgabe, dass die für die Zeit zwischen erstmaliger Einleitung und Bekanntgabe des
+Gebührenbescheides geschuldete Gebühr in einer Summe einen Monat nach Bekanntgabe des Bescheides zu zahlen ist. Im Falle des Absatzes 2 wird die für den Rest des Jahres zu zahlende Gebühr einen Monat nach Bekanntgabe des Gebührenbescheides fällig, soweit der Gebührenbescheid nach dem 1. Juni bekannt gegeben wird.
+(4) Ist die nach Absatz 1 Buchstabe a) Satz 2 und § 3 Absatz 4 Buchstabe b) geleistete Vorauszahlung geringer als der nach dem Gebührenbescheid für den Vorauszahlungs- zeitraum geschuldete Betrag, ist der Unterschiedsbetrag innerhalb eines Monats nach Bekanntgabe des Gebühren- bescheides zu entrichten. Die Verpflichtung, rückständige Vorauszahlungen schon früher zu entrichten, bleibt unberührt.
+Seite 9 von 17
+
+(5) Ist die nach Absatz 1 Buchstabe a) Satz 2 und § 3 Absatz 4 Buchstabe b) geleistete Vorauszahlung größer als der nach dem Gebührenbescheid für den Vorauszahlungs- zeitraum geschuldete Betrag, wird der Unterschiedsbetrag nach Bekanntgabe des Gebührenbescheides durch Aufrechnung oder Zurückzahlung ausgeglichen.
+(6) Die Absätze 4 und 5 gelten entsprechend, wenn und soweit der Gebührenbescheid nach Zahlung aufgehoben oder geändert wird.
+Dritter Abschnitt Gebühren für die Entsorgung von Schmutzwassergruben nach der
+Schmutzwassergrubensatzung
+§ 6 Bemessungsgrundlage
+Die Gebühren bemessen sich nach der an der Messvor- richtung des Fäkalienfahrzeuges festgestellten Schmutz- wassermenge und Fäkalschlammmenge (einschließlich des eventuell erforderlichen Wassers zur Verdünnung).
+§ 7 Berechnung
+Die Berechnungseinheit für die Gebühr ist ein Kubikmeter (m3) der gebührenpflichtigen Schmutzwassermenge und Fäkal- schlammmenge.
+§ 8 Gebührenschuld und Fälligkeit
+Seite 10 von 17
+
+(1) Das Gebührenschuldverhältnis entsteht mit der Inan- spruchnahme der Entsorgung.
+(2) Gebührenschuldner sind die Anschlussberechtigten zum Zeitpunkt der Entleerung. Mehrere Gebührenschuldner sind Gesamtschuldner.
+(3) Die Gebühren werden fällig mit dem im Gebührenbescheid angegebenen Zeitpunkt.
+Vierter Abschnitt Abwasseruntersuchungsgebühren
+§ 9 Leistungen
+Die Stadtentwässerungsbetriebe Köln, AöR führen physikali- sche, chemische und biologische Untersuchungen von Ab- wässern und Schlämmen durch.
+§ 10 Gebührenschuld
+(1) Gebührenpflichtig sind alle von den Stadtentwässe- rungsbetrieben Köln, AöR durchgeführten Untersu- chungen. Gebührenschuldner sind a) der Anschlussberechtigte, b) im Falle des § 2 Absatz 1 Buchstabe c) diejenigen, die- die Stoffe in die öffentliche Abwasseranlage einleiten bzw. eingeleitet haben, c) im Falle des § 3 Absatz 3 Buchstabe a) bb) diejenigen, denen die vorübergehende Einleitung von Abwässern nach § 19 der Abwassersatzung genehmigt wurde, d) in allen anderen Fällen diejenigen, die die öffentliche Abwasseranlage tatsächlich nutzen oder genutzt haben.
+Seite 11 von 17
+
+(2) Im Übrigen ist Gebührenschuldner, wer die Abwasser- untersuchung selbst oder durch Dritte, deren Handeln ihm zuzurechnen ist, beantragt hat.
+(3) Für mehrere Abwasseruntersuchungen gemäß Ziffer 3 des Gebührentarifs werden die darin vorgesehenen Gebühren nebeneinander erhoben, auch wenn diese Untersuchun- gen in zeitlichem oder sachlichem Zusammenhang stehen.
+(4) Haben mehrere Beteiligte eine Abwasseruntersuchung beantragt oder werden mehrere durch sie unmittelbar begünstigt, ist jeder gebührenpflichtig, soweit die Leistung ihn betrifft.
+§ 11 Fälligkeit
+Die Gebühren werden mit der Bekanntgabe des Gebühren- bescheides fällig.
+Fünfter Abschnitt Gebühren für sonstige Leistungen
+§ 12 Sonstige Leistungen
+Die Stadtentwässerungsbetriebe Köln, AöR erbringen im Bedarfsfall sonstige Leistungen in geringem Umfang.
+§ 13 Gebührenschuld und Fälligkeit
+(1) Die Gebührenschuld entsteht mit der Inanspruchnahme der Leistung.
+(2) Gebührenschuldner ist der Anschlussberechtigte; im Übri- gen ist Gebührenschuldner, wer die sonstige Leistung
+selbst oder durch Dritte, deren Handeln ihm zuzurechnen ist, beantragt hat. Seite 12 von 17
+
+(3) Die Gebühren werden mit Bekanntgabe des Gebühren- bescheides fällig.
+
+Sechster Abschnitt Schlussvorschriften
+
+§ 14 Auskunftspflicht
+
+Die in den §§ 4, 8 und 11 genannten Gebührenschuldner und deren gesetzliche Vertreter oder Bevollmächtigte sind unbe- schadet der in dieser Satzung und in der Abwassersatzung getroffenen Sonderregelungen verpflichtet, über alle für die richtige Veranlagung maßgebenden Tatsachen innerhalb einer angemessenen Frist die erforderlichen Angaben zu machen und den Beauftragten der Stadtentwässerungsbetriebe Köln, AöR ungehinderten Zutritt zu den Grundstücken und zu allen Anlagenteilen auf den Grundstücken zu gewähren. Die Beauf- tragten haben sich durch einen von den Stadtentwässe- rungsbetrieben Köln, AöR ausgestellten Dienstausweis auszu- weisen.
+
+§ 15 Inkrafttreten
+
+(1) Diese Satzung tritt am 1. Januar 2005 in Kraft.
+(2) Gleichzeitig tritt die Abwassergebührensatzung der Stadtentwässerungsbetriebe Köln, AöR vom 15.12.2003 in der zuletzt gültigen Fassung außer Kraft.
+
+Gebührentarif
+
+zur Satzung der Stadtentwässerungsbetriebe Köln, AöR über die Erhebung der Gebühren für die Entwässerung der Grund- stücke und den Anschluss an die öffentliche Abwasseranlage sowie für die Entsorgung von Schmutzwassergruben vom
+
+1
+1.1 1.1.1
+
+17.12.2004
+
+Gebührensätze für die Inanspruchnahme der öffentlichen Abwasseranlage. Für angefangene m3 und m2 gilt der jeweilige Gebührensatz anteilig:
+
+Euro
+
+Einleitung von Schmutzwasser einschl. nicht genutztem Grundwasser je m3
+
+Schmutzwasser
+
+1,29
+
+Seite 13 von 17
+
+1.1.2
+1.1.3 1.2 1.3
+
+In Kleinkläranlagen vorgereinigtes Schmutzwasser und in Regenwasserkanäle genehmigte
+
+eingeleitete Wassermengen, die nicht unter den Gebührentarif 1.1.3
+
+fallen, je m3
+
+0,80
+
+Nicht genutztes Grundwasser
+
+0,20
+
+Einleitung von Niederschlagswasser je m2 angeschlossener Fläche und Jahr 1,15
+
+Einleitung von durch Transportfahrzeuge angeliefertem nichthäuslichen Schmutz- wasser
+
+und Schlamm aus Sickerschächten, Schlammfängen, gewerblichen Schlamm-
+
+behältern und Chemietoiletten je m3
+
+10,70
+
 2
 
-(2) Es dürfen nicht eingeleitet werden:
-a) Stoffe in fester und flüssiger Form, die dem § 5 der Satzung des Kommunalunternehmens über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage – Abwassersatzung – in der jeweiligen Fassung nicht entsprechen,
-b) Stoffe, die geeignet sind, die Schmutzwassergrube in ihrem Bestand oder Betrieb nachteilig zu beeinträchtigen,
-c) Stoffe, die geeignet sind, die bei der Entleerung, Abfuhr und Beseitigung eingesetzten Geräte, Fahrzeuge und Anlagen in ihrer Funktion zu beeinträchtigen, zu beschädigen oder zu zerstören, oder zu Beeinträchtigungen des Betriebes des Klärwerkes führen können,
-d) Stoffe, durch die das Personal bei der Entsorgung gesundheitlich geschädigt werden kann.
-(3) Das Kommunalunternehmen kann verlangen, dass das Schmutzwasser aus Sammelbehältern von Gaststättenschiffen, Hotelschiffen, Wohnschiffen sowie anderen schwimmenden Einheiten, die mit Aufenthaltsräumen ausgestattet und für einen längeren Zeitraum an einem bestimmten Liegeplatz festgemacht sind, von dem Kommunalunternehmen entsorgt wird, wenn die Möglichkeit des Anschlusses an einen öffentlichen Abwasserkanal nicht besteht.
-§5 Bevollmächtigung
-Der Anschlussberechtigte hat im Falle seiner Verhinderung dem Kommunalunternehmen zur Erfüllung seiner Verpflichtungen aus dieser Satzung einen Bevollmächtigten schriftlich zu benennen.
-§6 Anzeigepflicht
-(1) Der Anschlussberechtigte ist verpflichtet, innerhalb eines Monats nach Inkrafttreten dieser Satzung dem Kommunalunternehmen das Vorhandensein von Schmutzwassergruben im Sinne von § 2 Nr. 2 anzuzeigen. Werden Schmutzwassergruben nach Inkrafttreten dieser Satzung hergestellt, so tritt die Anzeigepflicht mit dem Zeitpunkt der Inbetriebnahme ein.
-(2) Der Anschlussberechtigte hat dem Kommunalunternehmen alle Veränderungen auf seinem Grundstück, die zu einer Veränderung der Menge des Schmutzwassers führen, unverzüglich anzuzeigen.
-(3) Wechselt der Anschlussberechtigte, so sind sowohl der bisherige als auch der neue Anschlussberechtigte verpflichtet, über den Wechsel das Kommunalunternehmen unverzüglich zu unterrichten.
-(4) Die Anzeigen nach Absatz 1 bis 3 haben schriftlich zu erfolgen.
+Gebührensätze für die Entsorgung von Schmutzwassergruben nach der
+
+Schmutzwassergrubensatzung
+
+2.1 2.2
+3.1 3.1.1
+3.1.2 3.2 3.2.1 3.2.2 3.2.3 3.2.4 3.3 3.3.1 3.3.2.1.1
+3.3.2.1.2
+3.3.2.2 3.3.3 3.3.4 3.3.4.1 3.3.4.2 3.3.4.3 3.3.4.4 3.3.4.5 3.3.4.6 3.3.4.7 3.3.4.8 3.3.4.9 3.3.4.10 3.3.4.11 3.3.4.12 3.3.4.13 3.3.4.14 3.3.4.15 3.3.4.16 3.3.4.17
+
+Entsorgung von Kleinkläranlagen je m3
+
+42,20
+
+Entsorgung von abflusslosen Gruben
+
+je m3
+
+28,80
+
 3
 
-(5) In Schadens-, Stör- und Katastrophenfällen hat der Anschlussberechtigte das Kommunalunternehmen unverzüglich vorab fernmündlich zu benachrichtigen. Eine Anzeige in schriftlicher Form ist nachzureichen.
-§7 Entsorgung der Schmutzwassergruben
-(1) Schmutzwassergruben werden nach Bedarf, mindestens jedoch einmal im Jahr, entleert.
-Bedarf besteht, wenn:
-a) Ablagerungen die Betriebsfähigkeit und Betriebssicherheit der Schmutzwassergruben zu beeinträchtigen drohen,
-b) abflusslose Gruben bis 30 cm unter Oberkante gefüllt sind.
-Der Anschlussberechtigte hat dies dem Kommunalunternehmen unverzüglich anzuzeigen.
-(2) Die Entleerung und Abfuhr wird von einem von dem Kommunalunternehmen beauftragten Fäkalienfuhrunternehmen, in Ausnahmefällen von dem Kommunalunternehmen selbst, durchgeführt. Dem Anschlussberechtigten oder dem von ihm Bevollmächtigten wird von dem Fäkalienfuhrunternehmen ein Termin für die Entleerung, in der Regel schriftlich, mitgeteilt. Er hat diesen Termin dem Fäkalienfuhrunternehmen unverzüglich, spätestens jedoch zwei Wochen vor dem Entleerungstermin schriftlich zu bestätigen, oder im Falle seiner Verhinderung mit dem Fäkalienfuhrunternehmen einen neuen Termin abzustimmen.
-In Ausnahmefällen, z. B. bei häufiger Entleerung innerhalb eines Jahres, kann in Absprache zwischen dem Anschlussberechtigten, dem Fäkalienfuhrunternehmen und dem Kommunalunternehmen ein anderes geeignetes Verfahren zur Terminabstimmung festgelegt werden.
-(3) Der Anschlussberechtigte hat das Betreten und Befahren seines Grundstückes zum Zwecke der Entleerung zu dulden. Er ist dafür verantwortlich, dass sich die Zuwegung jederzeit in einem verkehrssicheren Zustand befindet. Das für die Entleerung eventuell erforderliche Wasser zur Verdünnung ist vom Anschlussberechtigten unentgeltlich zur Verfügung zu stellen.
-(4) Der Anschlussberechtigte ist verpflichtet, dem Fäkalienfuhrunternehmen auf den von ihm mitgeführten Begleitscheinen folgende Angaben durch Unterschrift und Datum zu bestätigen:
-1. Art der Schmutzwassergrube, 2. Menge des durch die Messvorrichtung des Fäkalienfahrzeuges angezeigten
-Schmutzwassers (einschließlich des eventuell erforderlichen Wassers zur Verdünnung), 3. Datum der Entleerung.
+Abwasseruntersuchungsgebühren
+
+Probenahmen
+
+mit automatischem Probenahmegerät 150,15 Zuzüglich Gebühren nach Ziffer 5.3.3,
+
+je angefangene Std.
+
+Zuzüglich Gebühren je Nutzungstag
+
+15,17 Zuzüglich Fahrkosten nach Ziffer 6
+
+Von Hand nach Ziffer 5.3.3, je angefangene Std.
+
+Probenvorbereitung (besonderer Aufwand)
+
+Zerkleinern, Trocknen von Böden und Schlämmen siehe Ziffer 5
+
+Siebanalyse siehe Ziffer 5
+
+Eluierbarkeit siehe Ziffer 5
+
+Aufschluss für Spurenanalyse siehe Ziffer 5
+
+Physikalische Untersuchungen
+
+Farbe, Trübung, Geruch, Temperatur
+
+10,30
+
+Bestimmung durch Aufzeichnung mit
+
+einem automatischem Messgerät
+
+193,46 Zuzüglich Gebühren nach Ziffer 5.3.3,
+
+je angefangene Std.
+
+Zuzüglich Gebühren je Nutzungstag
+
+20,67 Zuzüglich Fahrkosten nach Ziffer 6
+
+Bestimmung durch Aufzeichnung
+
+mit einem Gas Messgerät
+
+49,44 Zuzüglich Gebühren nach Ziffer 5.3.3,
+
+je angefangene Std.
+
+Zuzüglich Gebühren je Nutzungstag
+
+3,57 Zuzüglich Fahrkosten nach Ziffer 6
+
+PH-Wert
+
+4,30
+
+Elektrische Leitfähigkeit (konduktometrisch)
+
+6,60
+
+Gesamtrückstand
+
+Gesamttrockenrückstand, Trockenrückstand, je
+
+13,80
+
+3.3.4.2
+
+Glühverlust
+
+15,90
+
+3.3.5 Gehalt an ungelösten Stoffen
+
+3.3.5.1
+
+Absetzbare Stoffe
+
+14,90
+
+3.3.5.2
+
+Abfiltrierbare Stoffe /Trockensubstanz
+
+24,50
+
+3.4 Chemische Untersuchungen
+
+3.4.1 Summen- und Gruppenparameter
+
+3.4.1.1
+
+AOX
+
+55,80
+
+3.4.1.2
+
+BSB5
+
+43,00
+
+3.4.1.3
+
+CSB
+
+24,90
+
+3.4.1.4
+
+EOX siehe Ziffer 5
+
+3.4.1.5
+
+Gesamt-Stickstoff
+
+69,10
+
+3.4.1.6
+
+Kohlenwasserstoffe
+
+64,20
+
+3.4.1.7
+
+Schwerflüchtige lipophile Stoffe
+
+42,40
+
+3.4.1.8
+
+Kjeldahl-Stickstoff
+
+27,70
+
+3.4.1.9
+
+Phenol-Index
+
+36,10
+
+3.4.1.10 Säure- und Basekapazität
+
+20,90
+
+Seite 14 von 17
+
+3.3.4.18 3.3.4.19 3.3.4.20 3.3.4.21 3.3.4.22 3.4.2.1.6
+
+3.4.1.11 DOC/TOC, je
+
+3.4.1.12 TNb
+
+3.4.2 Einzelbestimmungen
+
+3.4.2.1
+
+Anorganisch
+
+3.4.2.1.1 Aggressive Kohlensäure siehe Ziffer 5
+
+3.4.2.1.2 Ammonium photometrisch
+
+26,90 14,90
+23,40
+
+3.4.2.1.7 Freies Chlor, Chlordioxid, je
+
+26,50
+
+3.4.2.1.8 Chlorid
+
+23,30
+
+3.4.2.1.9 Cyanid gesamt, leicht freisetzbar, je
+
+42,40
+
+3.4.2.1.10 Fluorid
+
+23,30
+
+3.4.2.1.11 Nitrat-Stickstoff
+
+23,30
+
+3.4.2.1.12 Nitrit-Stickstoff
+
+26,50
+
+3.4.2.1.13 Phosphat gesamt, Phosphat gelöst, je
+
+34,30
+
+3.4.2.1.14 Sulfat
+
+23,30
+
+3.4.2.1.15 Ortho-Phosphat
+
+34,30
+
+3.4.2.1.16 Sulfid
+
+24,20
+
+3.4.2.1.17 Chromat
+
+32,90
+
+3.4.2.2 Elemente
+
+3.4.2.2.1 Cadmium, Silber, Chrom, Blei, Nickel,
+
+Vanadium, je
+
+29,10
+
+3.4.2.2.2 Zink, Kupfer, Magnesium, Kalium, Kobalt,
+
+Eisen, Mangan, Calcium, Natrium, je
+
+25,90
+
+3.4.2.2.3 Quecksilber, Arsen, Antimon, je
+
+27,90
+
+3.4.2.2.4 Weitere Elemente siehe Ziffer 5
+
+3.4.2.3 Organisch
+
+3.4.2.3.1 Polycyclische aromatische Kohlenwasserstoffe (PAK)
+
+105,50
+
+3.4.2.3.2 Benzol, Toluol, Xylol (BTX), je
+
+65,00
+
+3.4.2.3.3 Leichtflüchtige Halogenkohlenwasserstoffe (LHKW)
+
+61,80
+
+3.4.2.3.4 PCB
+
+106,50
+
+3.4.2.3.5 Aldehyde
+
+105,50
+
+3.4.2.4 Sonderuntersuchungen
+
+3.4.2.4.1 Gaschromatographische Untersuchungen je Einzelstoffkomponente siehe Ziffer 5
+
+3.4.2.4.2 Identifizierung mit Massenspektrometer je Einzelstoffkomponente siehe Ziffer 5
+
+3.5
+
+Biologische Untersuchungen
+
+3.5.1
+
+Mikroskopische Analyse
+
+(Mikroskopisches Bild)
+
+32,00
+
+3.6
+
+Soweit Untersuchungen nicht in den vorstehenden Gebührentatbeständen erfasst sind,
+
+findet Ziffer 5 entsprechende Anwendung. Zusätzlich werden die der StEB dabei
+
+entstehenden Materialkosten in Rechnung gestellt.
+
 4
 
-(5) Der Anschlussberechtigte ist verpflichtet, die ihm überlassene Durchschrift des Begleitscheines und sonstige Kontrollnachweise während der Dauer von mindestens zwei Jahren auf dem Grundstück aufzubewahren und auf Verlangen vorzuzeigen. Eine entsprechende Verpflichtung gilt im Falle des § 4 Abs. 3 für den Schiffsführer auf seinem Schiff.
-§8 Auskunftspflicht und Prüfungsrecht
-(1) Der Anschlussberechtigte ist verpflichtet, über seine Anzeigepflicht nach § 6 hinaus alle zur Durchführung der Entsorgung erforderlichen Auskünfte zu erteilen.
-(2) Den Beauftragten des Kommunalunternehmens ist zur Überprüfung, ob die Vorschriften dieser Satzung befolgt werden, jederzeit ungehinderter Zutritt zu den Grundstücksentwässerungsanlagen zu gewähren. Die Beauftragten des Kommunalunternehmens haben sich auf Verlangen durch einen Dienstausweis oder eine Vollmacht des Kommunalunternehmens auszuweisen.
-(3) Das Kommunalunternehmen oder die von ihm Beauftragten sind jederzeit berechtigt, aus den Schmutzwassergruben Proben zu entnehmen und zu untersuchen. Der Anschlussberechtigte hat durch Unterschrift auf der Probenflasche zu bestätigen, dass die Probe der Schmutzwassergrube entnommen wurde. Werden Stoffe festgestellt, die gemäß § 4 Absatz 2 nicht eingeleitet werden dürfen, hat der Anschlussberechtigte die Kosten der Untersuchung nach Maßgabe der Abwassergebührensatzung des Kommunalunternehmens in der jeweils geltenden Fassung zu tragen.
-§9 Instandhaltung der Grundstücksentwässerungsanlagen
-Grundstücksentwässerungsanlagen sind vom Anschlussberechtigten nach den allgemein anerkannten Regeln der Technik sowie den bau- und wasserrechtlichen Vorschriften herzustellen, zu erneuern und zu ändern.
-Grundstücksentwässerungsanlagen sind vom Anschlussberechtigten ordnungsgemäß zu betreiben und zu unterhalten.
-§ 10 Haftung
-(1) Der Anschlussberechtigte haftet dem Kommunalunternehmen für Schäden, die infolge mangelhaften Zustandes oder satzungswidriger Benutzung seiner Grundstücksentwässerungsanlagen entstehen.
-(2) Kann eine Entsorgung aus Gründen, die der Anschlussberechtigte zu vertreten hat, nicht durchgeführt werden, so hat er dem Kommunalunternehmen die entstandenen Aufwendungen zu ersetzen. Mehrere Anschlussberechtigte haften als Gesamtschuldner.
-5
+Gebührensätze für den Einsatz von Spezialfahrzeugen (je Stunde)
 
-(3) Kann die Entsorgung wegen höherer Gewalt, Betriebsstörungen bei Abfuhr und Beseitigung, Witterungseinflüssen oder Hochwasser nicht oder nicht rechtzeitig durchgeführt werden, hat der Anschlussberechtigte keinen Anspruch auf Schadenersatz.
-§ 11 Ausnahmen, Befreiungen, zusätzliche Anordnungen
-und Erklärungen
-(1) Das Kommunalunternehmen kann von den Vorschriften dieser Satzung Ausnahmen und Befreiungen zulassen. Ausnahmen und Befreiungen werden nur zugelassen, wenn die Abweichung von den Vorschriften der Satzung mit dem öffentlichen Interesse und den gesetzlichen Bestimmungen vereinbar ist, die Betriebssicherheit, die ordnungsgemäße Entsorgung des Schmutzwassers nicht beeinträchtigt wird und die Anwendung der Vorschriften der Satzung im Einzelfall zu einer nicht beabsichtigten Härte führen würde. Ausnahmen und Befreiungen werden nur auf Zeit oder auf jederzeitigen Widerruf erteilt. Sie können mit Bedingungen und Auflagen versehen werden. (2) Das Kommunalunternehmen kann im Einzelfall über die Vorschriften dieser Satzung hinausgehende Anordnungen treffen, wenn dies zur betriebssicheren und ordnungsgemäßen Entsorgung des Schmutzwassers erforderlich ist. (3) Ausnahmen, Befreiungen, Bedingungen, Auflagen, zusätzliche Anordnungen, Erklärungen und Vereinbarungen bedürfen zu ihrer Wirksamkeit der Schriftform. (4) Bei Gefahr im Verzuge können sofort notwendige Anordnungen im Einzelfall auch mündlich getroffen werden. Sie sind auf Verlangen schriftlich zu bestätigen.
-§ 12 Genehmigungsverfahren und Verpflichtungen
-nach anderen gesetzlichen Vorschriften
-Die sonstigen für die Herstellung, Erneuerung, Änderung, Beseitigung und den Betrieb der Grundstücksentwässerungsanlagen geltenden bauordnungsrechtlichen, wasserrechtlichen und emissionsrechtlichen Bestimmungen werden durch diese Satzung nicht berührt.
+4.1
+
+Funkwagen (3-Mann-Bedienung); bei einer Einsatzzeit bis 45 Minuten werden 3/4 des
+
+Stundensatzes fällig. Bei Einsatzzeiten über 1 Stunde wird in Einheiten von jeweils
+
+1/4 Stunde abgerechnet.
+
+98,60
+
+4.2
+
+Winden-Reinigungswagen
+
+(4-Mann-Bedienung)
+
+4.3
+
+Hochdruckwagen
+
+4.3.1
+
+Typ 320/2500 (3-Mann-Bedienung)
+
+4.3.2
+
+Typ 640/7000 (2-Mann-Bedienung)
+
+4.3.3
+
+Typ Super 2000 (3-Mann-Bedienung)
+
+4.3.4
+
+Typ City 200088,90
+
+4.4
+
+Saugwagen (2-Mann-Bedienung)
+
+Seite 15 von 17
+
+129,60 110,30 86,60 152,00
+80,70
+
+4.5
+
+Kanalfernauge (2-Mann-Bedienung)
+
+99,60
+
+4.6
+
+Inspektionswagen (3-Mann-Bedienung)
+
+96,20
+
+4.7
+
+Regie-Wagen (3-Mann-Bedienung)
+
+102,80
+
+4.8
+
+Pumpwerkskontrollwagen
+
+(2-Mann-Bedienung)
+
+68,60
+
+4.9
+
+G-Werkstattwagen (3-Mann-Bedienung)
+
+116,50
+
+4.10
+
+Schieberwartungswagen
+
+(3-Mann-Bedienung)
+
+119,20
+
+4.11
+
+LKW (1-Mann-Bedienung)
+
+67,30
+
+4.12
+
+Notstromaggregat 48 KVA
+
+12,50
+
+4.13
+
+Notstromaggregat 500 KVA
+
+42,50
+
+4.14
+
+Stundensätze für sonstige Spezialfahr- zeuge und Spezialgeräte sind im Bedarfs- fall zu erfragen.
+
+Soweit Arbeiten verrichtet werden, für die kein besonderer Gebühren- tarif vorhanden ist, findet Ziffer 5
+
+Anwendung.
+
+5 5.1 B2 A16 A15 A14 A13 A12 A11 A10 A9 A8 A7 A6 5.2 II III IVa IVb Vb Vc
+
+Personalkosten (Zeitaufwandsgebühr je angefangene Stunde) Beamte Besoldungsgruppen
+Angestellte Vergütungsgruppen
+Seite 16 von 17
+
+70,80 64,60 56,00 51,00 47,90 42,20 35,70 31,40 34,50 28,40 24,70 22,30
+47,80 43,80 38,40 35,90 34,80 30,60
+
+VIb VII VIII 5.3.1 9 8a 8 7a 7 6a 6 5a 5 4a 4 3a 3 2 1a 1 5.3.2 9 8a 8 7a 7 6a 6 5a 5 4a 4 3a 3
+
+Arbeiter Lohngruppen
+22,70 Vorarbeiter Lohngruppen
+
+Seite 17 von 17
+
+26,60 24,60 23,80
+36,60 34,40 33,90 32,90 31,10 31,10 28,50 30,00 28,20 28,50 27,00 26,90 24,90 23,50 25,60
+39,50 37,20 36,70 35,60 33,80 33,70 31,00 32,40 30,60 30,80 29,30 29,10 27,00
+
+1
+
+Personalkosten (Zeitaufwandsgebühr je angefangene Stunde)
+
+Euro
+
+2
+
+25,50
+
+1a
+
+27,60
+
+1
+
+25,00
+
+5.3.2
+
+Probenehmer 6a
+
+28,60
+
+5.4
+
+Kraftfahrer
+
+30,80
+
+5.5
+
+Neben den Stundensätzen nach Ziffer 5 werden bei besonderen Diensten Zuschläge (z.B.
+
+Überstunden-, Sonn-
+
+und Feiertags- sowie Dienstbereitschafts- zuschläge) berechnet. Diese Zuschläge werden ebenfalls auf die Fahrzeugkosten nach Ziffer 4 hinzugerechnet.
+
 6
 
-§ 13 Ordnungswidrigkeiten Ordnungswidrig im Sinne des Ordnungswidrigkeitengesetzes in der Fassung der Bekanntmachung vom 19.02.1987 (BGBl. I S. 602) in der jeweils geltenden Fassung handelt, wer vorsätzlich oder fahrlässig entgegen: 1. § 4 Absatz 1 das auf seinem Grundstück anfallende haushaltsübliche Schmutzwasser nicht in die Schmutzwassergrube einleitet und diese Anlage nicht durch das Kommunalunternehmen entleeren lässt, 2. § 4 Absatz 2 Stoffe einleitet, deren Einleitung ausgeschlossen ist, 3. § 6 seinen Anzeigepflichten nicht nachkommt, 4. § 7 Absatz 1 den Bedarf der Entleerung nicht unverzüglich meldet, 5. § 7 Absatz 2 die Terminabstimmung mit dem Fäkalienfuhrunternehmen nicht wahrnimmt, 6. § 7 Absatz 3 das Betreten und Befahren seines Grundstückes zum Zwecke der Entleerung nicht duldet und die Zuwegung in nicht verkehrssicherem Zustand hält, 7. § 7 Absatz 4 die Angaben auf den Begleitscheinen nicht bestätigt, 8. § 7 Absatz 5 die Begleitscheindurchschrift und sonstige Kontrollnachweise nicht aufbewahrt oder nicht auf Verlangen vorzeigt, 9. § 8 Absatz 1 nicht alle zur Durchführung der ordnungsgemäßen Entsorgung erforderlichen Auskünfte erteilt, 10. § 8 Absatz 2 den Beauftragten des Kommunalunternehmens keinen ungehinderten Zutritt zu den Grundstücksentwässerungsanlagen gewährt. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 51 129,19 Euro geahndet werden.
+Benutzung von Fahrzeugen (nicht Spezialfahrzeuge)
+
+Je angefangener Kilometer
+
+1,40
+
+Die Gebühr nach Ziffer 6 wird neben den Gebühren nach Ziffer 3.1 bis 3.6 und 5 gesondert erhoben
+
 7
 
-Zweiter Abschnitt Gebühren für die Entsorgung
-§ 14 Gegenstand
-Das Kommunalunternehmen erhebt für die Entsorgung Gebühren im Sinne der §§ 5 und 6 KAG. Die Gebühren werden nach der Satzung des Kommunalunternehmens über die Erhebung von Gebühren für die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage sowie für die Entsorgung von Schmutzwassergruben – Abwassergebührensatzung - in der jeweils geltenden Fassung erhoben.
-Dritter Abschnitt
-§ 15 Anwendungsbereich
-(1) Diese Satzung findet keine Anwendung auf Schmutzwassergruben, die sich in einem Kleingarten im Sinne des § 1 Absatz 1 Bundeskleingartengesetz vom 28.02.1983 (BGBl. I S. 210) befinden.
-(2) Diese Satzung findet ebenfalls keine Anwendung auf die in § 1 Absatz 2 des Bundeskleingartengesetzes vom 28.02.1983 aufgeführten Gärten und Grundstücke.
-(3) Die Einschränkung des Anwendungsbereiches nach Absatz (1) und (2) gilt nicht für Kleingärten, Gärten und Grundstücke mit zentralen Schmutzwassergruben, deren Entsorgung nach § 7 gewährleistet ist.
-§ 16 Inkrafttreten
-Diese Satzung tritt am Tag nach ihrer Bekanntmachung im Amtsblatt der Stadt Köln in Kraft.
-Gleichzeitig tritt aufgrund § 14 Absatz 4 der Satzung für das Kommunalunternehmen „Stadtentwässerungsbetriebe Köln Anstalt des öffentlichen Rechts“ der Stadt Köln vom 24.04.2001 die Satzung der Stadt Köln über die Entsorgung von Schmutzwassergruben - Schmutzwassergrubensatzung – vom 12.12.1990 außer Kraft.
-Vorstehende Satzung wird hiermit öffentlich bekannt gemacht.
-Es wird auf die Rechtsfolgen nach § 7 Abs.6 Satz 1 der Gemeindeordnung für das Land Nordrhein-Westfalen hingewiesen.
-8
+Wasserverbrauch (über Hydrant) je m3
 
-§ 7 Abs.6 Satz 1 der Gemeindeordnung lautet:
-„Die Verletzung von Verfahrens- oder Formvorschriften dieses Gesetzes kann gegen Satzungen, sonstige ortsrechtliche Bestimmungen und Flächennutzungspläne nach Ablauf eines Jahres seit ihrer Verkündung nicht mehr geltend gemacht werden, es sei denn,
-a) eine vorgeschriebene Genehmigung fehlt oder ein vorgeschriebenes Anzeigeverfahren wurde nicht durchgeführt,
-b) die Satzung, die sonstige ortsrechtliche Bestimmung oder der Flächennutzungsplan ist nicht ordnungsgemäß öffentlich bekannt gemacht worden,
-c) der Bürgermeister hat den Ratsbeschluss vorher beanstandet oder
-d) der Form- oder Verfahrensmangel ist gegenüber der Gemeinde vorher gerügt und dabei die verletzte Rechtsvorschrift und die Tatsache bezeichnet worden, die den Mangel ergibt.“
+1,25
 
-Köln, den 25. September 2001
+Dieser Gebührentarif ist Bestandteil der Abwassergebührensatzung vom 17.12.2004
 
-gez.: Schramma Oberbürgermeister
-
-gez.: Soénius Kämmerer
-
-9
+Seite 18 von 17
