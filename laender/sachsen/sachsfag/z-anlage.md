@@ -1,4 +1,4 @@
-Anlage (zu § 7)
+# Anlage (zu § 7)
 Übersicht über die Vomhundertsätze (Gewichtungsfaktoren) nach Einwohnern der kreisangehörigen Gemeinden gemäß § 7 Abs. 3
 Gewichtungsfaktoren
 bis | Einwohner | Vomhundertsatz

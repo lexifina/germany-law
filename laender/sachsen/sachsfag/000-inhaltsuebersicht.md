@@ -1,3 +1,4 @@
+## Gesetz über den Finanzausgleich mit den Gemeinden und Landkreisen im Freistaat Sachsen (Finanzausgleichsgesetz – FAG)
 # Inhaltsübersicht
 Erster Abschnitt Grundsätze des Finanzausgleichs
 § 1 Finanzausgleichsleistungen und Grundsatz der Lastenverteilung
@@ -19,11 +20,11 @@ Dritter Unterabschnitt Schlüsselzuweisungen nach mangelnder Umlagekraft an Land
 § 12 Bedarfsmesszahl
 § 13 Umlagekraftmesszahl
 § 14 Festsetzung der Schlüsselzuweisungen
-Vierter Unterabschnitt Ausgleich für übertragene Aufgaben
-§ 15 Ausgleich für übertragene Aufgaben
 Vierter Abschnitt Zweckgebundene investive Schlüsselzuweisungen
-§ 16 Zweckgebundene investive Schlüsselzuweisungen
-Fünfter Abschnitt Ausgleich von Sonderlasten
+§ 15 Zweckgebundene investive Schlüsselzuweisungen
+Fünfter Abschnitt Ausgleich für übertragene Aufgaben
+§ 16 Ausgleich für übertragene Aufgaben
+Sechster Abschnitt Ausgleich von Sonderlasten
 § 17 Ausgleich von Sonderlasten
 Erster Unterabschnitt Straßenlastenausgleich
 § 18 Zuweisungen für Kreisstraßen
@@ -31,24 +32,23 @@ Erster Unterabschnitt Straßenlastenausgleich
 § 20 Zuweisungen für Gemeindestraßen
 Zweiter Unterabschnitt Kulturlastenausgleich
 § 21 Kulturlastenausgleich
-Sechster Abschnitt Bedarfszuweisungen
+Siebenter Abschnitt Bedarfszuweisungen
 § 22 Zuweisungen zum Ausgleich besonderen Bedarfs
-Siebenter Abschnitt Zweckzuweisungen zur Förderung von kommunalen Investitionen
-§ 23 Zweckzuweisungen zur Förderung des Straßenbaus und des Schulhausbaus
+Achter Abschnitt Zweckzuweisungen zur Förderung von kommunalen Investitionen
+§ 23 Pauschale Zweckzuweisungen zur Förderung des Straßenbaus und des Schulhausbaus
 § 24 Zweckzuweisungen zur Förderung kommunaler Investitionen
-Achter Abschnitt Interkommunaler Finanzausgleich
+Neunter Abschnitt Interkommunaler Finanzausgleich
 § 25 Grundsätze
 § 26 Kreisumlage
 § 27 Kulturumlage
 § 28 Landeswohlfahrtsumlage
-§ 29 Besonderer interkommunaler Ausgleich
-Neunter Abschnitt Schuldendienst für kommunale Altschulden auf gesellschaftliche Einrichtungen
-§ 30 Schuldendienst für kommunale Altschulden auf gesellschaftliche Einrichtungen
-Zehnter Abschnitt Gemeinsame Vorschriften, Verfahren und In-Kraft-Treten
-§ 31 Einwohnerzahl
-§ 32 Berechnung, Festsetzung und Auszahlung
-§ 33 Durchführungsvorschriften
-§ 34 Mitwirkungspflichten
-§ 35 Beirat
-§ 36 Verjährung
-§ 37 In-Kraft-Treten
+Zehnter Abschnitt Schuldendienst für kommunale Altschulden auf gesellschaftliche Einrichtungen
+§ 29 Schuldendienst für kommunale Altschulden auf gesellschaftliche Einrichtungen
+Elfter Abschnitt Gemeinsame Vorschriften, Verfahren und In-Kraft-Treten
+§ 30 Einwohnerzahl
+§ 31 Berechnung, Festsetzung und Auszahlung
+§ 32 Durchführungsvorschriften
+§ 33 Mitwirkungspflichten
+§ 34 Beirat
+§ 35 Verjährung
+§ 36 In-Kraft-Treten

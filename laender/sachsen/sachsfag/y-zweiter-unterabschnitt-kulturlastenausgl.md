@@ -1,1 +1,0 @@
-Zweiter Unterabschnitt Kulturlastenausgleich
