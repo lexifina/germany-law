@@ -1,0 +1,7 @@
+# TOP 10.1.: Nächste BA-Sitzung: Mittwoch, 16.03.2005, 19.30 Uhr Gaststätte, Wienerwald, Limesstraße 63
+
+- Sitzung: BA 22 - Vollgremium (2005-02-16)
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/51472
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/51472
