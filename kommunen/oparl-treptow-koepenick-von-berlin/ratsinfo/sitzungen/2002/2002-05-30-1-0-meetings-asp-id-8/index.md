@@ -1,0 +1,68 @@
+# 7. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2002-05-30T16:00:00+02:00
+- Ende: 2002-05-30T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=8
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=8
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Berufung der beratenden und stellvertretenden beratenden Mitglieder des Jugendhilfeausschusses - gewählt
+- TOP 8: Die soziokulturelle Infrastruktur Treptow-Köpenicks - schriftlich beantwortet
+- TOP 9: Vermittlung von Gewerbeflächen und Standortmarketing - schriftlich beantwortet
+- TOP 10: Finanzierung öffentlicher und freier Träger 2003 - mit Änderungen in der BVV beschlossen
+- TOP 11: Maßnahmen gegen Schmierereien an bezirkseigenen Gebäuden - überwiesen
+- TOP 12: Rücksicht Seniorinnen und Senioren vor Einrichtungen - überwiesen
+- TOP 13: LKW-Fahrverbot Königsheideweg - mit Änderungen in der BVV beschlossen
+- TOP 14: Marktplatzgestaltung von Friedrichshagen - beantwortet
+- TOP 15: Umgestaltung des Platzes des 23. April - beantwortet
+- TOP 16: Vollzeitpflege in Familien nach KJHG - beantwortet
+- TOP 17: Personalausstattung im Sozialamt Treptow-Köpenick - vertagt
+- TOP 18: Montessori-Zweig an Köpenicker Grundschulen - beantwortet
+- TOP 19: Parkhaus Treptow - wie geht es weiter? - beantwortet
+- TOP 20: Planreife für das Grundstück Kirschweg 23 im Bezirk Treptow-Köpenick, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 21: Bebauungsplan 9-9 im Bezirk Treptow-Köpenick, Ortsteil Alt-Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 22: Kosten-Nutzen-Analyse zur Übertragung von städtischen Kitas
+- TOP 23: Fluglärm-Messstelle in Müggelheim
+- TOP 24: Weitere Entwicklung und Profilierung des Innovationsparkes Wuhlheide - vertagt
+- TOP 25: Mobile Einkaufsmöglichkeiten Allende II
+- TOP 26: Bebauungsplanentwurf XV-18; Inhaltliche Planänderungen - überwiesen
+- TOP 27: Ausbau der Paradiesstraße von Parchwitzer Straße bis Siebweg - überwiesen
+- TOP 28: Benennung der neu gebauten Tangentialverbindung Ost in "Spindlersfelder Straße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 29: Einleitung des Planaufstellungsverfahrens zum Bebauungsplan 9-3 im Bezirk Treptow-Köpenick, Ortsteil Oberschöneweide - überwiesen
+- TOP 30: Verfahrensweise zur bezirklichen Stellungnahme in Planfeststellungs- und Plangenehmigungsverfahren nach Fachrecht - überwiesen
+- TOP 31: Schaffung eines bezirklichen Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" und Verfahren zur Verteilung des Ehrenzeichens - überwiesen
+- TOP 32: Konkretisierung und Fortschreibung der städtebaulichen und sozialen Sanierungsziele - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 33: Arbeitsentwurf "Lokale Agenda 21 Treptow-Köpenick" - überwiesen
+- TOP 34: Grundstück Bölschestraße 65 - ohne Änderungen in der BVV beschlossen
+- TOP 35: Einschulungsbezirke - überwiesen
+- TOP 36: Ergänzung der Verordnung zur Festsetzung der Wasserschutzgebiete - überwiesen
+- TOP 37: Sparpotential 1/2002 - Wuhlewanderweg - überwiesen
+- TOP 38: Beschwerden anlässlich der ILA - vertagt
+- TOP 39: Hinweisschilder auf bedeutende Persönlichkeiten - überwiesen
+- TOP 40: Maßnahmen zur Verkehrssicherheit im Bereich der Einmündung des Müggelseedamms in den Fürstenwalder Damm (Rahnsdorf) - überwiesen
+- TOP 41: Wirtschaftliche Ergebnisse für den Bezirk - überwiesen
+- TOP 42: Abfallentsorgungskonzeption für die bezirklichen Kleingartenanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 43: Partnerstädtewappen - ohne Änderungen in der BVV beschlossen
+- TOP 44: Bölscheclub Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 45: Stele auf dem Platz der Befreiung - überwiesen
+- TOP 46: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 47: Schulvereweigerer - vertagt
+- TOP 48: Geplante Versorgung des Tanklagers - vertagt
+- TOP 49: Freilandlabor Kaniswall - vertagt
+- TOP 50: Überfliegen des Wasserschutzgebietes des Wasserwerks Friedrichshagen - vertagt
+- TOP 51: Übertragung von Kitas in freie Trägerschaft - vertagt
+- TOP 52: Sozialtag Treptow-Köpenick 2002 - vertagt
+- TOP 53: Direkte S-Bahn-Verbindung Grünau-Innenstadt - ohne Änderungen in der BVV beschlossen
+- TOP 54: Sanierung Rad- und Fußweg am Falkenberg
