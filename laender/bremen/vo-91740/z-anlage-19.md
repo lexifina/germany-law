@@ -1,11 +1,12 @@
-# Anlage 19 - Stundentafel für den Zusatzkurs in Vollzeitform zum Erwerb der Fachhochschulreife für Absolventen der Bildungsgänge zum Kapitän AM, zum Schiffsbetriebstechniker CT und zum Funktechniker FT in den angegliederten Bildungsgängen der Fachhochschulen
+# Anlage 19 - Stundentafel für den Zusatzkurs in Vollzeitform zum Erwerb der Fachhochschulreife für Absolventen der Technikerschulen
 Anlage 19
 zu § 4 Abs. 2
-Stundentafel für den Zusatzkurs in Vollzeitform zum Erwerb der Fachhochschulreife für Absolventen der Bildungsgänge zum Kapitän AM, zum Schiffsbetriebstechniker CT und zum Funktechniker FT in den angegliederten Bildungsgängen der Fachhochschulen
+Stundentafel für den Zusatzkurs in Vollzeitform zum Erwerb der Fachhochschulreife für Absolventen der Technikerschulen
  | Wochenunterrichtsstunden
 Fächer | 
 Deutsch | 8
-Englisch | 4
-Mathematik | 6
-Förderunterricht | 2
- | 20
+Englisch | 8
+Mathematik | 8
+Chemie | 4
+Politik | 2
+ | 30
