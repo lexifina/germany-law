@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2004-11-04T18:33:00+01:00
+- Ende: 2004-11-04T20:12:00+01:00
+- Ort: Rathaus, Kirchweg 1, 33818 Leopoldshöhe, Sitzungssaal
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdsUb8u21amMsxt1-0cDqj8
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/704
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachgang Bekanntmachung 2 (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfMIm8M6CLU2Qj1rXwPPiFxm-qyV_JQAczXDze33C8fH/Nachgang_Bekanntmachung_2_Rat_04.11.2004.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY3zZq2Szk4RsO9uzCaoGxqyyYNAPfQn2sH8kM8VKfHj/Oeffentliche_Niederschrift_Rat_04.11.2004.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Anfragen der Einwohnerinnen und Einwohner
+- TOP 2.: Anfragen der Ratsmitglieder
+- TOP 3.: Informationen des Bürgermeisters
+- TOP 4.: Änderung der Hauptsatzung - 34 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: Besetzung der Ausschüsse
+- TOP 5.1.: Bestimmung der Höchstzahl der Sachkundigen Bürger
+- TOP 5.2.: Wahlen zu den Ausschüssen
+- TOP 6.: Zuteilung und Benennung der Ausschussvorsitzenden und stellvertretenden Ausschussvorsitzenden
+- TOP 7.: Wahl von 5 Vertretern / Vertreterinnen und 5 Stellvertretern / Stellvertreterinnen in die Verbandsversammlung des Sonderschulverbandes Fröbelschule
+- TOP 8.: Wahl von 3 Vertretern / Vertreterinnen und 3 Stellvertretern / Stellvertreterinnen in die Verbandsversammlung des Zweckverbandes Volkshochschule Lippe-West
+- TOP 9.: Wahl von 2 Vertretern / Vertreterinnen und 2 Stellvertretern / Stellvertreterinnen in den Fachausschuss des Zweckverbandes Volkshochschule Lippe-West
+- TOP 10.: Wahl der Vertreter / Vertreterinnen und Stellvertreter / Stellvertreterinnen in den Kindergartenrat des
+- TOP 10.1.: Kindergarten Asemissen (2)
+- TOP 10.2.: Kindergarten Leopoldshöhe (2)
+- TOP 10.3.: Kindergarten Schuckenbaum (2)
+- TOP 10.4.: Kindergarten Greste (2)
+- TOP 10.5.: Kindergarten Bechterdissen (1)
+- TOP 10.6.: Kindergarten AWO Leopoldshöhe (1)
+- TOP 10.7.: Kindergarten AWO Asemissen (1)
+- TOP 10.8.: Kindergarten DRK Asemissen
+- TOP 11.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in die Mitgliederversammlung des Landestheaters Detmold
+- TOP 12.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / eines Stellvertreterin in den Aufsichtsrat der Abfallbeseitigungs-GmbH Lippe
+- TOP 13.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in den Verwaltungsrat des Abfallwirtschaftsverbandes Lippe
+- TOP 14.: Wahl von 2 Vertretern / Vertreterinnen und 2 Stellvertretern / Stellvertreterinnen in die Gesellschafterversammlung der Abfallbeseitungs-GmbH Lippe
+- TOP 15.: Wahl von 2 Vertretern / Vertreterinnen und 2 Stellvertretern / Stellvertreterinnen in die Verbandsversammlung des Abfallwirtschaftsverbandes Lippe
+- TOP 16.: Wahl von BM Schemmel als stellv. Aufsichtsratsmitglied in die Gesellschaft für Abfallentsorgung Lippe (GAL) lt. Vorschlag der Bürgermeisterkonferenz zur Besetzung des Aufsichtsrates der GAL vom 13.07.2004
+- TOP 17.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in die Gesellschafterversammlung der GAL
+- TOP 18.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in den Beirat des Kommunalen Rechenzentrums Minden-Ravensberg/Lippe
+- TOP 19.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in die Verbandsversammlung des Kommunalen Rechenzentrums Minden-Ravensberg/Lippe
+- TOP 20.: Wahl von 4 Vertretern / Vertreterinnen und 4 Stellvertretern / Stellvertreterinnen in die Mitgliederversammlung des Nordrhein-Westfälischen Städte- und Gemeindebundes
+- TOP 21.: Wahl eines Vertreters / Vertreterin und eines Stellvertreters / Stellvertreterin in die Gesellschafterversammlung der Kommunalen Verkehrsgesellschaft Lippe mbH
+- TOP 22.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in die Hauptversammlung der Lippe Tourismus & Marketing AG
+- TOP 23.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in das Netzwerk Lippe
+- TOP 24.: Antrag der Fraktion Bündnis 90 / Die Grünen auf Beratung des Bürgerantrages "Bau von 3 Parkplätzen im Siekweg"
