@@ -1,0 +1,52 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-11-17T15:00:00+01:00
+- Ende: 2004-11-17T00:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1375
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1375
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111510.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111510.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111510.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung von Bürgermitgliedern - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Bestellung Schriftführer - einstimmig beschlossen
+- TOP 5: Haushalt 2005 - mehrheitlich beschlossen
+- TOP 6: Ä-AntrBü90/Grüne: Haushaltsberatungen 2005 - mehrheitlich abgelehnt
+- TOP 7: ÄAntrag CDU/FDP Haushalt - mehrheitlich beschlossen
+- TOP 8: Rahmenplan ehem. Güterbahnhof Oberkassel - einstimmig beschlossen
+- TOP 9: ÄAntrBü90/Gr zu TOP 6 ehem. Güterbhf Oberkassel - mehrheitlich abgelehnt
+- TOP 10: Ergänzungssatzung Nr. 5487/07 - Pannschoppen - einstimmig beschlossen
+- TOP 11: B-Plan Nr.5782/10 - einstimmig beschlossen
+- TOP 12: B-Plan Nr. 5977/049 - Am Quellenbusch - mehrheitlich beschlossen
+- TOP 13: Prüfantrag SPD Quellenbusch - mehrheitlich abgelehnt
+- TOP 14: FNPÄ106 -DuisbLa(GaCe)AufstBerBürgeröffAusl - einstimmig beschlossen
+- TOP 15: 61/12-1424 - P+R-Platz Wittlaer - Aufhebung Aufst. - einstimmig beschlossen
+- TOP 16: BPL5187/17DULand(GaCe)-Auf;BerBü+T;öffAusl - einstimmig beschlossen
+- TOP 17: BPl 5581/35-RatherKreuzw/marler BerBü;öff.Ausl. - einstimmig beschlossen
+- TOP 18: Änd.PlNr6267/04ua§13AusschlVergn.SB10Auf;öAus - einstimmig beschlossen
+- TOP 19: FNPÄ 13- Airport City - Anregungen; Plan - einstimmig beschlossen
+- TOP 20: BPl5382/29AirportCity Anr.Ä in rot Satzung - mehrheitlich beschlossen
+- TOP 21: BPl 5177/42südlSchanzenstr.frühz.Bübet. - einstimmig beschlossen
+- TOP 22: B-Plan Nr. 5776/10 - Nördl. Höherweg - einstimmig beschlossen
+- TOP 23: FNPÄ62-Flemingweg-Auf AbsBübet öAusl. - mehrheitlich beschlossen
+- TOP 24: BPl5672/22-Flemingweg-Aufst BerBübet+Tr öAusl - mehrheitlich beschlossen
+- TOP 25: Ä§13 Bpl 5375/46 - Nördl.Fährstr - Aufst.öff.Ausl. - einstimmig beschlossen
+- TOP 26: Pl5773/54-GewerbegeböHarffstr-Veränderungssp. - einstimmig beschlossen
+- TOP 27: BV Düsseldorfer 1 Neubau JHB mit Sitz Vw
+- TOP 28: BA Wasserstr6 Umbau-nutzung Villa in Bürogeb. - einstimmig beschlossen
+- TOP 29: Konrad-Adenauer-Platz "Stadt macht Platz -..." - einstimmig beschlossen
+- TOP 30: Reitzensteinkaserne Bericht - zur Kenntnis genommen
+- TOP 31: ErgSBWHeinrErh/Rather/Ulmen mdl - zur Kenntnis genommen
+- TOP 32: ErgWettbDiakonie-Campus - zur Kenntnis genommen
+- TOP 33: Haus-Endt-Straße - zur Kenntnis genommen
+- TOP 34: Planungen Theodorstr. mdl. - zur Kenntnis genommen
+- TOP 35: APS-Termine 2005 - zur Kenntnis genommen
