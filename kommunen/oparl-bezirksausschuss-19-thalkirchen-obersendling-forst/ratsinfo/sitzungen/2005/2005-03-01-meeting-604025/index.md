@@ -1,0 +1,52 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2005-03-01T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/604025
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/604025
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeiner Teil / Einleitung zur Sitzung
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Anträge
+- TOP 3: Unterauschuss Budget
+- TOP 3.1.: Initiative "Kinder lesen für Kinder"
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Umwelt
+- TOP 5: Unterauschuss Verkehr
+- TOP 5.1.: Anliegerverkehr Beuerberger- / Bichler Str.
+- TOP 5.2.: Kurzparkplatz vor der Kindertagesstätte Neunkirchner Str.
+- TOP 5.3.: Tempo 30 Boschetsrieder Str.
+- TOP 5.4.: Buslinien
+- TOP 5.5.: Verkehrsführung Emil-Dittler-Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Herterichstr. 169
+- TOP 6.2.: Herterichstr. Fl.Nr. 86/0
+- TOP 6.3.: Baudenkmal Wolfratshauser Str. 50
+- TOP 6.4.: Teiländerung und Ergänzung BPl. Sohnckestr. / Irmgardstr.
+- TOP 6.5.: Frans-Hals-Str. 6
+- TOP 6.6.: Heilmaierstr. 34
+- TOP 6.7.: Änderung Flächennutzungsplan Neuried
+- TOP 6.8.: Drygalski-Allee 31 (Mediamarkt)
+- TOP 6.9.: Seumestr. (BPl.)
+- TOP 7: Entscheidungsfälle
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Werbeanlage Drygalski-Allee 25
+- TOP 8.2.: Zweckentfremdung Reismühlenstr. 23
+- TOP 8.3.: Unv. Fortf. "Cafe am Tierpark"
+- TOP 8.4.: Unv. Fortf. "Cafe Bacio"
+- TOP 8.5.: Unv. Fortf. "Bei Nedeljko"
+- TOP 8.6.: Bootscorso mit historischen Faltbooten auf der Isar
+- TOP 8.7.: Neue Form der Feste junger Erwachsener
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
