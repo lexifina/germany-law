@@ -1,0 +1,4 @@
+# § 47a Kostenfestsetzung
+(1) Sind nach den Bestimmungen dieses Gesetzes Kosten zu erstatten, so werden diese einschließlich eines Gemeinkostenzuschlags von der Straßenbaubehörde durch Bescheid festgesetzt.
+(2) Der Gemeinkostenzuschlag dient der Abwälzung des mit der Durchführung der kostenpflichtigen Maßnahme unmittelbar verbundenen Verwaltungsaufwandes und beträgt zehn vom Hundert der zu erstattenden Kosten. Enthalten die zu erstattenden Kosten Beträge für Maßnahmen an Anlagen Dritter im Straßengrund, so sind diese Beträge bei der Berechnung des Gemeinkostenzuschlags nicht zu berücksichtigen.
+(3) Im übrigen gelten für die Kostenfestsetzung die §§ 15 und 16 sowie §§ 22 bis 28 des Bremischen Gebühren- und Beitragsgesetzes vom 16. Juli 1979 (Brem.GBl. S. 279 - 203-b-l) in der jeweils geltenden Fassung entsprechend.
