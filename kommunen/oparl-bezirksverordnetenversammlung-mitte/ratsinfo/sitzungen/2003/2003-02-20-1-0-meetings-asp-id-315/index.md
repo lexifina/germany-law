@@ -1,0 +1,94 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2003-02-20T17:30:00+01:00
+- Ende: 2003-02-20T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=315
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=315
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=26473
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Mündliche Anfrage - (offen)
+- TOP 3.1: Kita Krankenhaus Moabit
+- TOP 3.2: Postfuhramt
+- TOP 3.3: Sicherung Frauenprojekte
+- TOP 3.4: Benennung Jugendeinrichtung Torstraße 153/ II
+- TOP 3.5: Aktueller Stand Drogenkonsumraum
+- TOP 3.6: Wartung von Straßenlaternen
+- TOP 3.7: Drogenmissbrauch an Schulen
+- TOP 3.8: Heimatmuseum
+- TOP 4: Dringlichkeitsanfrage - (offen)
+- TOP 4.1: Abschaffung von Chipkarten für AsylbewerberInnen
+- TOP 4.2: Bezirkliches Beschwerdemanagement: Nimmt das Bezirksamt die BVV nicht ernst?
+- TOP 5: Große Anfrage - (offen)
+- TOP 5.1: Haushaltspläne
+- TOP 5.2: George Orwell im Sozialamt?!
+- TOP 5.3: Touristisches Wegeleitsystem
+- TOP 5.4: Inhalt der Ausschreibung zu Drogenkonsumräumen
+- TOP 5.5: Grundsicherung
+- TOP 5.6: Keine Sonne über Mittes Dächern?
+- TOP 5.7: Baulicher Zustand des Hauses Rostocker Straße 36
+- TOP 5.8: Baumaßnahmen am Hackeschen Markt
+- TOP 5.9: Mittes Verwaltung ohne Ziele?
+- TOP 6: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Bebauungsplanentwurf III-224 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-224
+- TOP 9: Vorlage zur Kenntnisnahme - (offen)
+- TOP 9.1: Gegen häusliche Gewalt gegen Frauen II - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.2: Entwicklung und Verwendung von Stiftungsmitteln der Stiftung Bezirksbürgermeisterin Erika Heß im Haushaltsjahr 2002 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.3: Sauberkeit am Hansaplatz
+- TOP 9.4: Beibehaltung der Nutzung des Geländes des ehemaligen Krankenhauses Moabit als Naherholungsbereich für die Bevölkerung
+- TOP 9.5: Präventionspreis
+- TOP 9.6: Einrichtung von öffentlichen Toiletten
+- TOP 9.7: Kapitel 4721, Titel 111 93 (Ausgleichs- und Ersatzmaßnahmen)
+- TOP 9.8: Wohnhäuser in der Leipziger Straße 114 - 120 und Mauerstraße 65 - 68 erhalten
+- TOP 9.9: Aktion "FIT KID - Die Gesund-Essen-Aktion für Kitas"
+- TOP 9.10: Sicherung des Wohnens Leipziger Straße 114-120 / Mauerstraße 65-68
+- TOP 9.11: Zukunft der ´ehemaligen´ Weddinger Seniorenwohnheime
+- TOP 9.12: Besuch der Gedenkstätte Hohenschönhausen
+- TOP 9.13: Realisierung eines Kinderprojektes im Moabiter Huttenkiez
+- TOP 9.14: Sicherung von Schulstandorten in der Anpassung des Oberschulnetzes an die rückläufige Schülerzahlenentwicklung durch die Aufhebung von zwei Oberschulen sowie die organisatorische und inhaltliche Zusammenführung dieser Einrichtungen mit fortführendenOberschulen an deren bestehenden Standorten
+- TOP 9.15: Hygienestandard für Schultoiletten alt: Drucksache Nr. I/455
+- TOP 9.16: Einführung der Parkraumbewirtschaftung Müllerstraße alt: Drucksachen Nr. XVI/161 (Wedding)
+- TOP 9.17: Standort des geplanten Seniorenwohnheimes im Sanierungsgebiet Mitte, Spandauer Vorstadt, Block 100004, Koppenplatz 11
+- TOP 9.18: Sprachförderung in Kitas alt: Drucksachen Nr. I/97
+- TOP 9.19: Sponsoringpartner alt: Drucksache Nr. I/227
+- TOP 9.20: Aufstellung des Bebauungsplanes 1-8 im Bezirk Mitte, Ortsteil Mitte, die Durchführung der frühzeitigen Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch ( BauGB) und die Einschränkung des Geltungsbereiches des Bebauungsplanes I-B5
+- TOP 9.21: Ergebnis der frühzeitigen Beteiligung der Bürger an der Bauleitplanung gemäß § 3 Abs. 1 Baugesetzbuch für das vorhabenbezogene Bauplanungsverfahren 1-5 VE (südlich Hackescher Markt) die Einstellung des Bebauungsplanverfahrens I-66 (Nachtbusknoten südlich Hackescher Markt) und die Durchführung der Trägerbeteiligung gemäß § 4 BauGB für das vorhabenbezogene Bebauungsplanverfahren 1-5 VE im Bezirk Mitte, Ortsteil Mitte
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Grundschulen mit Ganztagsangeboten mit ganzer Kraft einrichten
+- TOP 10.2: Gewerbe- und Kulturstandort Grundstück Rosenthaler Straße 39
+- TOP 10.3: Sicherung Frauenprojekte
+- TOP 11: Antrag/Beschlussempfehlung - (offen)
+- TOP 11.1: Privates Geld für öffentliche Gebäude - Energiesparcontracting für Mittes Liegenschaften vorbereiten
+- TOP 11.2: Parkplatzkonzept für Reisebusse entwickeln
+- TOP 11.3: Einrichtung eines Fußgängerüberweges (Zebrastreifen)
+- TOP 11.4: Bebauungsplanverfahren 1-2 (Spittelmarkt)
+- TOP 11.5: Der ´Schwarze Kanal´ hofft auf das Bezirksamt
+- TOP 11.6: Konzeption zur Arbeitsvermittlung von Sozialhilfeempfangenden
+- TOP 11.7: Biotonne erhalten
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Keine Bebauung des Diplomatenparks!
+- TOP 12.2: Arbeitsmarktpolitische Konferenz
+- TOP 12.3: 50 Jahre 17. Juni
+- TOP 12.4: Änderung der Geschäftsordnung
+- TOP 12.5: 50. Jahrestag des Volksaufstandes vom 17. Juni 1953
+- TOP 12.6: Schul- und Sportstättensanierungsprogramm jetzt!
+- TOP 12.7: Stiftung Bezirksbürgermeisterin Erika-Heß
+- TOP 12.8: Integrationspreis der BVV Mitte
+- TOP 12.9: Arbeit der Fixerstuben in Moabit - Berichterstattung in der BVV
+- TOP 12.10: Arbeit der Fixerstube in Moabit: ausreichende Finanzierung sicherstellen - keine Mittel des Bezirks verwenden
+- TOP 12.11: Arbeit der Gedenktafelkommission
+- TOP 12.12: Keine Zweckentfremdung von Ausgleichsmitteln
