@@ -1,0 +1,52 @@
+# 2. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-02-09T17:09:00+01:00
+- Ende: 2005-02-09T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/4937
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/4937
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00212768.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Ratsantrag Nr. 9/2004 von Bündnis 90/DieGrünen/GAL vom 16.05.2004 "Muskelkraft statt Motorkraft - - mehrheitlich beschlossen
+- TOP 2.2: Internationales Treffen mit Jugendlichen und Zeitzeugen aus den Partnerstädten zum 60. Jahrestag des - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 3: Feststellung der Gültigkeit der Kommunalwahlen am 26.09.2004 - einstimmig geändert beschlossen
+- TOP 3.1: Feststellung der Gültigkeit der Kommunalwahlen am 26.09.2004 - einstimmig geändert beschlossen
+- TOP 4: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen - zur Kenntnis genommen
+- TOP 5: Gestellung einer Ausfallbürgschaft für die Stiftung Siverdes - einstimmig beschlossen
+- TOP 6: Wirtschaftspläne von Gesellschaften
+- TOP 6.1: Wirtschaftsplan - einstimmig beschlossen
+- TOP 6.2: Wirtschaftsplan - einstimmig beschlossen
+- TOP 7: Jahresrechnung des Bühnenbewirtschaftungsplanes 2003/ 2004 - zur Kenntnis genommen
+- TOP 8: Tagesbetreuung von Kindern im Grundschul- und Kleinkindalter
+- TOP 8.1: Grundlagen und Perspektivplanung für die Förderung, Betreuung und Bildung von Kindern - ohne Beschlussfassung geschoben
+- TOP 8.2: Tagesbetreuungsausbauprogramm für die Betreuung, Förderung und Bildung von Kindern unter drei Jahren - ohne Beschlussfassung geschoben
+- TOP 8.3: Umwandlung weiter Schulen in offene Ganztagsschulen zum Schuljahr 2005/06 - ohne Beschlussfassung geschoben
+- TOP 8.4: Elternbeiträge - ohne Beschlussfassung geschoben
+- TOP 9: Errichtungsbeschluss Modelleinrichtung Roxel, Kindertageseinrichtung und Kinder- und Jugendarbeit - ohne Beschlussfassung geschoben
+- TOP 10: Weiterentwicklung der Berufskollegs: Errichtungsvorhaben der Berufskollegs in städtischer Trägerscha - einstimmig beschlossen
+- TOP 11: Wahrnehmung der Aufgaben der Stadtbildstelle durch den Landschaftsverband Westfalen-Lippe - einstimmig beschlossen
+- TOP 12: Preis der Stadt Münster für Europäische Poesie 2005 - einstimmig beschlossen
+- TOP 13: Hilfevermittlung und Kurzzeitübernachtung - HuK - für wohnungslose Männer im städt. Gebäude Fr - von der Tagesordnung abgesetzt
+- TOP 14: Jahresbericht 2003 der Feuerwehr Münster - zur Kenntnis genommen
+- TOP 15: Bauleitplanung
+- TOP 15.1: Stadtbezirk Mitte
+- TOP 15.1.1: Bebauungsplan Nr. 491: Stubengasse / Loerstraße - einstimmig beschlossen
+- TOP 15.1.2: Bebauungsplan Nr. 493: Aasee - Terrassen - einstimmig beschlossen
+- TOP 15.2: Stadtbezirk Hiltrup
+- TOP 15.2.1: Bebauungsplan Nr. 471: Amelsbüren - südlich Wiedaustraße - einstimmig beschlossen
+- TOP 15.3: Stadtbezirk Nord
+- TOP 15.3.1: 1. Änderung des Bebauungsplanes Nr. 114 Teilabschnitt V: Zentrum Nord - einstimmig beschlossen
+- TOP 16: Besetzung und Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - in der Fassung der Ergänzungsvorlage beschlossen
+- TOP 16.1: Besetzung und Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - in der Fassung der Ergänzungsvorlage beschlossen
+- TOP 17: Bestellung von Vertreter/ innen der Stadt Münster in den Ausschuss des Unterhaltungsverbandes II St. - einstimmig geändert beschlossen
+- TOP 18: Verschiedenes
