@@ -6,7 +6,7 @@ Erster Abschnitt Bautechnische Prüfungen
 § 4 Ausführung von Prüfaufträgen
 § 5 Prüfungsverzeichnis
 § 6 Typenprüfung
-Zweiter Abschnitt Vergütung der Prüfstelle und der Prüfingenieure
+Zweiter Abschnitt Vergütung des Prüfamtes und der Prüfingenieure
 § 7 Grundlagen der Vergütung
 § 8 Bauwerksklassen
 § 9 Anrechenbare Kosten
@@ -15,7 +15,7 @@ Zweiter Abschnitt Vergütung der Prüfstelle und der Prüfingenieure
 § 12 Vergütung nach Zeitaufwand
 § 13 Umsatzsteuer
 § 14 Auslagen
-§ 15 Gebührenschuldner, Fälligkeit
-Dritter Abschnitt Übergangs- und Schlußvorschrift
-§ 16 aufgehoben
-§ 17 Inkrafttreten
+§ 15 (aufgehoben)
+Dritter Abschnitt Übergangs- und Schlussvorschrift
+§ 16 (aufgehoben)
+§ 17 In-Kraft-Treten
