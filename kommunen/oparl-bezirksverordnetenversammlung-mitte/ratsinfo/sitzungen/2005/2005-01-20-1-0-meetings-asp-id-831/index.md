@@ -1,0 +1,91 @@
+# 33. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2005-01-20T17:30:00+01:00
+- Ende: 2005-01-20T22:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=831
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=831
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=45108
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - (offen)
+- TOP 1.3: der Ausschüsse - (offen)
+- TOP 1.4: des Bezirksamtes - (offen)
+- TOP 2: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Thematische Stunde - (offen)
+- TOP 3.1: Umsetzung von Hartz IV <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ziermann)</span> - beantwortet
+- TOP 3.2: Verschwundene Anträge zum Alg II <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Allendorf)</span> - beantwortet
+- TOP 3.3: Umsetzung von Hartz IV im Bezirk Mitte <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Scheffler für die Frakion)</span> - beantwortet
+- TOP 3.4: Ombudsfrau, Ombudsmann <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Matischok-Yesilcimen)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 3.5: Wohnungspool Angemessener Wohnraum <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Diedrich für die Fraktion)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 3.6: Hartz IV: Verunsicherung über angemessenen Wohnraum beenden! <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Scheffler für die Fraktion)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 3.7: Hartz IV: Betreuung im Jobcenter aller ALG II-Antragsteller <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ziermann)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 3.8: Hartz IV: Odysseefahrten beenden <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ziermann)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfrage - (offen)
+- TOP 4.1: Ablage Bezirksamtsbeschlüsse <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach)</span> - beantwortet
+- TOP 4.2: Schulnetzplan Szenarien angekommen! <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Knape)</span> - beantwortet
+- TOP 4.3: Öko-Markt in der Zionskirchstraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Diedrich)</span> - beantwortet
+- TOP 4.4: Sanierung der Grundschule am Neuen Tor <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller)</span> - beantwortet
+- TOP 4.5: Geschäftsstraßenmanagement in der Müllerstraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Pawlowski)</span> - beantwortet
+- TOP 4.6: Rosa-Luxemburg-Platz <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Mahr)</span> - beantwortet
+- TOP 4.7: Zuarbeit zum zentralen Stellenpool <span style="color: #888a85" title="Zusatzinfo">(Verfasser : von Dassel)</span> - beantwortet
+- TOP 5: Dringlichkeitsanfrage - (offen)
+- TOP 5.1: Finanzieller Schaden für das Land Berlin <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Schymetzko)</span> - beantwortet
+- TOP 5.2: Berlin-Kolleg <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Kalex für die Frakion)</span> - beantwortet
+- TOP 5.3: Berlin-Kolleg: 435 000 Euro zum Fenster hinaus geworfen? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ziermann)</span> - beantwortet
+- TOP 5.4: Misswirtschaft des Berliner Betriebs für gesundheitliche Aufgabe (BBGes) <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Schauer-Oldenburg für die Fraktion)</span> - schriftlich beantwortet
+- TOP 6: Große Anfrage - (offen)
+- TOP 6.1: Studie "Aspekte der Demokratiegefährdung im Berliner Bezirk Mitte und Möglichkeiten der demokratischen Intervention" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Matischok-Yesilcimen)</span> - schriftlich beantwortet
+- TOP 6.2: Erst sanieren, dann schließen? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Dr. Knape)</span> - schriftlich beantwortet
+- TOP 6.3: Neuorientierung der Stadterneuerung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Diedrich für die Fraktion)</span> - schriftlich beantwortet
+- TOP 6.4: Aus alten Fehlern gelernt - entlastet das UEP jetzt auch in MItte die Umwelt? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann von Dassel)</span> - schriftlich beantwortet
+- TOP 6.5: Nachfolge des Bundespressestrandes <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Schmidt)</span> - schriftlich beantwortet
+- TOP 6.6: Vorenthaltende Informationen über Baumfällungen im Bezirk <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Diedrich für die Fraktion)</span> - schriftlich beantwortet
+- TOP 6.7: Personalbesetzung im Ordnungsamt <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Matischok-Yesilcimen)</span> - schriftlich beantwortet
+- TOP 6.8: Bange Zukunft für SeniorInnen-Freizeitstätten? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Schauer-Oldenburg für die Fraktion)</span> - schriftlich beantwortet
+- TOP 6.9: Behindertengerechte Dienstgebäude im Bezirk Mitte <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Scheffler)</span> - schriftlich beantwortet
+- TOP 6.10: Künstliche Mauer am Checkpoint Charlie - genehmigt, geduldet, gewollt? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann von Dassel für die Frakion)</span> - schriftlich beantwortet
+- TOP 6.11: Gemeindepsychiatrische Unterversorgung in Mitte? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Schauer-Oldenburg für die Fraktion)</span> - schriftlich beantwortet
+- TOP 7: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Bebauungsplan I-53 sowie die Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-53 - überwiesen
+- TOP 8.2: Bebauungsplan I-57 in der Planfassung vom 09.11.2001 mit Deckblatt vom 02.07.2004 - überwiesen
+- TOP 9: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 11: Antrag - (offen)
+- TOP 11.1: Berlin Metropolitan School am Koppenplatz <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Seidel)</span> - in der BVV abgelehnt
+- TOP 11.2: Zeitliche Erweiterung Öko-Markt Hackescher Markt <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann für die Fraktion)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Kiezlinien <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ziermann)</span> - in der BVV zurückgezogen
+- TOP 11.4: Studie "Aspekte der Demokratiegefährdung im Berliner Bezirk Mitte und Möglichkeiten der demokratischen Intervention" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wilenhein-Lauterbach Matischok-Yesilcimen)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Theodor-Heuss-Gymnasium erhalten! <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Dr. Knape)</span> - überwiesen
+- TOP 11.6: Gesundheits- und Sozialzentrum Moabit <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ziermann)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Projektbezogene Partnerschaften <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach David)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: "Ein Bedürfnis" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Hilse)</span> - überwiesen
+- TOP 11.9: Gesundheitsniveau in QM-Gebieten erhöhen! <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Schauer-Oldenburg)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Keine Schläge mehr von "Scheinschlag"! <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Rissmann)</span> - überwiesen
+- TOP 11.11: Information der BürgerInnen über die neuen Grenzwerte für Luftschadstoffe <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann von Dassel für die Fraktion)</span> - überwiesen
+- TOP 12: Antrag/Beschlussempfehlung - (offen)
+- TOP 12.1: Sanitäre Anlagen in der Mosaik-Grundschule <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Hartmann)</span> - in der BVV abgelehnt
+- TOP 12.2: Radschlag fürs Ordnungsamt: Anschaffung von Diensträdern für den Außendienst <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann von Dassel für die Fraktion)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Fototafeln 17. Juni am Bundesministerium für Finanzen erhalten <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Dr. Knape Rissmann)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Tätigkeitsbericht Wirtschaftsförderung und -beratung, Ordnung und Gewerbe <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Matischok-Yesilcimen)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlage zur Kenntnisnahme - (offen)
+- TOP 13.1: Zentraler Festplatz 2 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Tromp-Koppes)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.2: Zusammenfassung von Strukturen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Kaex für die Fraktion)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.3: Bebauungsplanverfahren 1-2 (Spittelmarkt) <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Diedrich für die Fraktion)</span>
+- TOP 13.4: Online-Angebot für Sozialhilfeempfangende unterstützen! <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stiller Bertermann Scheffler für die Fraktion)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.5: Energie- und Ressourcenmanagement konsequent fortentwickeln <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stiller Bertermann von Dassel für die Fraktion)</span> - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.6: Stärkung der Bezirke/ Umsetzung Hartz IV - Arbeitslosengeld II <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Matischok-Yesilcimen Schmidt Pawlowski)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: Stärkung der Bezirke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Verfasser 2: Dr. Kalex Wildenhein-Lauterbach)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: Einrichtung von integrierten Stadtteilverfahren - Quartiersmanagement - im Bezirk Mitte, Gebiet Sparrplatz, Magdeburger Platz, Soldiner Straße, Reinickendorfer-/ Pankstraße und Moabit West hier: Vertragsverlängerung für das Jahr 2005 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.9: Ernennung des Bezirksabstimmungsleiters und seines Stellvertreters für den Verwaltungsbezirk Mitte von Berlin für das Volksbegehren zur vorzeitigen Beendigung der 15. Wahlperiode des Abgeordnetenhauses von Berlin. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.10: Aufstellung des Bebauungsplans 134 im Bezirk Mitte, Ortsteil Mitte sowie der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch ( BauGB). - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.11: Änderung der Geschäftsbereiche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.12: Antrag auf Einleitung eines Planfeststellungsverfahrens für das Straßenbauprojekt im Block 9 - Neubau einer Straße II. Ordnung - sowie den Abschluss eines städtebaulichen Vertrages zur Sicherung der benötigten Flächen für den Straßenbau - mit Abschlussbericht zur Kenntnis genommen
