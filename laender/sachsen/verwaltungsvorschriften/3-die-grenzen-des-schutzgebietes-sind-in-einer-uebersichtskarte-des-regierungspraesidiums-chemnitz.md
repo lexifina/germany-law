@@ -1,8 +1,8 @@
 # (3) Die Grenzen des Schutzgebietes sind in einer Übersichtskarte des Regierungspräsidiums Chemnitz
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 1999-07-31 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/15149.1
+- Datum: 2001-11-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/15146.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -12,255 +12,196 @@
 
 Festsetzung als Schutzgebiet
 
-Die in § 2 näher bezeichneten Flächen auf dem Gebiet der Gemeinden Syrau und Leubnitz im Vogtlandkreis und der Kreisfreien Stadt Plauen werden als Naturschutzgebiet festgesetzt. Das Naturschutzgebiet führt die Bezeichnung „Syrau-Kauschwitzer Heide“.
+Die in § 2 näher bezeichneten Flächen auf dem Gebiet der Stadt Glauchau im Landkreis Chemnitzer Land werden als Naturschutzgebiet festgesetzt. Das Naturschutzgebiet führt die Bezeichnung „Am Rümpfwald“.
 
 § 2
 
 Schutzgegenstand
 
-(1) Das Naturschutzgebiet hat eine Größe von zirka 187 ha.
+(1) Das Naturschutzgebiet hat eine Größe von zirka 88 ha.
 
-(2) Das Schutzgebiet umfasst gemäß dem Stand der Flurkartengrundlage auf dem Gebiet der Gemeinde Syrau, Gemarkung Syrau, die Flurstücke mit den Nummern: 126/2, 133/1 (teilweise), 687/1, 701, 788, 789, 790, 791, 796 (teilweise), 797 (teilweise), 799, 804/2, 806, 934/2 (teilweise) und 936/1;
+(2) Das Schutzgebiet umfaßt gemäß dem Stand der Flurkartengrundlage auf dem Gebiet der Stadt Glauchau die folgenden Flurstücke:
 
-auf dem Gebiet der Stadt Plauen, Gemarkung Kauschwitz, die Flurstücke mit den Nummern: 305/6, 326a, 326/1, 327/1, 330/2, 332/1, 333, 334/12 und 337/1 (teilweise);
+in der Gemarkung Glauchau die Nummern 2909 (teilweise), 2916 (teilweise), 2970, 2971, 2972, 3510, 3510a, 3511, 3512 (teilweise), 3513, 3514, 3515, 3516/1 (teilweise), 3517;
 
-auf dem Gebiet der Gemeinde Leubnitz, Gemarkung Schneckengrün, die Flurstücke mit den Nummern: 407/1 (teilweise), 408/2, 408/3 und 413/1.
+in der Gemarkung Rümpfforst die Nummer 9/1 (teilweise);
 
-(3) Die Grenzen des Schutzgebietes sind in einer Übersichtskarte des Regierungspräsidiums Chemnitz vom 16. Juli 1999 im Maßstab 1 : 10 000 und in neun Flurkarten (Kartennummern 1 bis 9) des Regierungspräsidiums Chemnitz vom 16. Juli 1999 in den Maßstäben 1 : 2 000, 1 : 2 730 und 1 : 5 000 als rote Linien eingetragen. Für die genaue Bestimmung des räumlichen Geltungsbereiches dieser Verordnung sind die Flurkarten maßgebend. Soweit sich die roten Grenzlinien mit Flurstücksgrenzen decken, bildet die jeweilige Flurstücksgrenze die Schutzgebietsgrenze; ansonsten bestimmt die Linienaußenkante die Schutzgebietsgrenze. Die Lage der Flurkarten zueinander ist in einer Blattschnittübersichtskarte des Regierungspräsidiums Chemnitz vom 16. Juli 1999 im Maßstab 1 : 10 000 dargestellt. Die vorgenannten Karten sind Bestandteil dieser Verordnung.
+in der Gemarkung Niederlungwitz die Nummern 234/4, 869/2, 869b, 870/4, 876/5, 890, 926;
 
-(4) Die Verordnung mit Karten wird beim Regierungspräsidium Chemnitz in Chemnitz, Altchemnitzer Straße 41, Zimmer 314, zur kostenlosen Einsicht durch jedermann während der Sprechzeiten öffentlich ausgelegt. Dies geschieht auf die Dauer von zwei Wochen nach Verkündung des Verordnungstextes mit Übersichtskarte im Sächsischen Amtsblatt.
+in der Gemarkung Rothenbach die Nummern 11/7, 110/2, 117/2, 125/4, 127/2, 13/4 (teilweise), 137/2, 138/2, 141/2, 158/2, 159, 165/2, 183/2, 185, 189/2, 209/2 (teilweise), 220/2 (teilweise), 223/3 (teilweise), 241, 243a, 314, 318, 319, 320, 321, 321a, 321b, 321c, 80/2, 90/3, 94/2, 94b.
 
-(5) Die Verordnung mit Karten ist nach Ablauf der Auslegungsfrist nach Absatz 4 beim Regierungspräsidium Chemnitz in Chemnitz, Altchemnitzer Straße 41, zur kostenlosen Einsicht durch jedermann während der Sprechzeiten niedergelegt.
+(3) Die Grenzen des Schutzgebietes sind in einer Übersichtskarte des Regierungspräsidiums Chemnitz vom 11. Juni 1999 im Maßstab 1 : 10 000 und in elf Flurkarten des Regierungspräsidiums Chemnitz (Kartennummern 1 bis 11) vom 11. Juni 1999 in den Maßstäben 1 : 1 000 und 1 : 2 730 rot eingetragen. Maßgebend für die Bestimmung des räumlichen Geltungsbereiches des Schutzgebietes ist die Abgrenzung auf den Flurkarten. Soweit sich die roten Grenzlinien mit Flurstücksgrenzen decken, bildet die jeweilige Flurstücksgrenze die Schutzgebietsgrenze; ansonsten bestimmt die Linienaußenkante die Schutzgebietsgrenze. Die Lage der Flurkarten zueinander ist in einer Blattschnitt-Übersichtskarte dargestellt. Die vorgenannten Karten sind Bestandteil dieser Verordnung.
+
+(4) Die Verordnung mit Karten wird beim Regierungspräsidium Chemnitz in Chemnitz, Altchemnitzer Straße 41, Zimmer 314, zur kostenlosen Einsicht durch jedermann während der Sprechzeiten öffentlich ausgelegt. Dies geschieht auf die Dauer von zwei Wochen nach der Verkündung des Verordnungstextes im Sächsischen Amtsblatt.
+
+(5) Die Verordnung mit Karten ist nach Ablauf der Auslegungsfrist beim Regierungspräsidium Chemnitz, Altchemnitzer Straße 41, in Chemnitz, zur kostenlosen Einsicht durch jedermann während der Sprechzeiten niedergelegt.
 
 § 3
 
 Schutzzweck
 
-Schutzzweck ist:
+Schutzzweck ist :
 
 1.
 
-die Erhaltung und Entwicklung von Offenland-Biotopen und ihrer Lebensgemeinschaften, wie Zwergstrauch- und Feuchtheiden, Magerweiden, Magerrasen, Nasswiesen, Röhrichte, Fließ- und Stillgewässer, Zwischenmoore, Moorheiden sowie der dort lebenden Tierarten, wie Braunkehlchen, Heidelerche, Rebhuhn, Bekassine und Flussregenpfeifer sowie Pflanzenarten, wie Heidekraut, Bachnelkenwurz, Arnika, Steifer Augentrost und Borstige Schuppensimse;
+die Erhaltung und Entwicklung von Biotopen und Lebensgemeinschaften, wie magere Ruderalfluren, Zwergstrauchheiden, Halbtrockenrasen, temporäre und permanente Stillgewässer, Verlandungszonen, Hecken, Feldgehölze und Baumreihen, in ihrem räumlichen und funktionellen Zusammenhang;
 
 2.
 
-die Erhaltung der naturnahen Eichentrocken- und Moorwälder und ihrer Lebensgemeinschaften in ihrem Biotopcharakter für die Sicherung einer dauerhaften Funktionsfähigkeit des Naturhaushaltes;
+die Erhaltung der im Gebiet vorkommenden, teils stark gefährdeten Tier- und Pflanzenarten und die Vermeidung von Störungen, insbesondere der bedeutenden Vogelvorkommen von Wiesen- und Heckenbrütern;
 
 3.
 
-die Entwicklung bestimmter Vorwaldflächen zu zwergstrauchreichen Höhenkiefer-Birken-(Eichen-)Wäldern, insbesondere unter Erhaltung eingestreuter Zwergstrauchbestände;
-
-4.
-
-die Entwicklung eines zwergstrauchdurchsetzten höhenkieferreichen Stieleichen-Birken-Waldes unter Beimischung der Weißtanne auf bisher nicht bewaldeten Anteilen des Flurstücks 407/1 der Gemarkung Schneckengrün;
-
-5.
-
-die Erhaltung der unbebauten, durch einzelne eingestreute Gehölze gekennzeichneten, großflächigen und blütenreichen Heidebestände wegen ihrer besonderen Eigenart, hervorragenden Schönheit und Einzigartigkeit im Regierungsbezirk Chemnitz.
+die Erhaltung des im Raum Glauchau letzten großflächigen und reich strukturierten Offenlandlebensraumes sowie seine zielgemäße Pflege.
 
 § 4
 
 Verbote
 
-(1) In dem Naturschutzgebiet sind alle Handlungen verboten, die zu einer Zerstörung, Beschädigung oder Veränderung des Schutzgebietes oder seiner Bestandteile oder zu einer nachhaltigen Störung führen oder führen können.
+(1) In dem Naturschutzgebiet sind alle Handlungen verboten, die zu einer Zerstörung, Beschädigung oder Veränderung des Schutzgebietes oder seiner Bestandteile oder zu einer nachhaltigen Störung führen können.
 
-(2) Insbesondere ist verboten:
+(2) Insbesondere ist verboten :
 
 1.
 
 bauliche Anlagen im Sinne der
-Sächsischen Bauordnung in der jeweils geltenden Fassung zu errichten, zu ändern oder der Errichtung gleichgestellte Maßnahmen durchzuführen;
+Sächsischen Bauordnung in der jeweils geltenden Fassung zu errichten oder der Errichtung gleichgestellte Maßnahmen durchzuführen;
 
 2.
 
-Straßen, Wege, Pfade, Steige, Plätze oder sonstige Verkehrsanlagen anzulegen oder zu verändern, Leitungen ober- oder unterirdisch zu verlegen oder Anlagen dieser Art zu verändern;
+Straßen, Wege, Pfade, Steige, Plätze oder sonstige Verkehrsanlagen anzulegen, Leitungen ober- oder unterirdisch zu verlegen oder Anlagen dieser Art zu verändern;
 
 3.
 
-Handlungen vorzunehmen, die den Boden in seiner Gestalt, Struktur oder Beschaffenheit verändern können;
+Handlungen vorzunehmen, die den Boden in seiner Gestalt, Struktur und Beschaffenheit verändern oder verändern können;
 
 4.
 
-Auffüllungen vorzunehmen oder Ablagerungen einzubringen;
+Auffüllungen oder Ablagerungen vorzunehmen sowie Abfälle oder sonstige Materialien einzubringen;
 
 5.
 
-Abfälle oder sonstige Materialien zu lagern;
+Entwässerungsmaßnahmen oder Veränderungen an Gewässern, einschließlich Tümpeln und Gräben, vorzunehmen oder den Grundwasserstand sowie den Zu- und Ablauf des Wassers zu verändern;
 
 6.
 
-Entwässerungsmaßnahmen oder Veränderungen an Gewässern, einschließlich Gräben vorzunehmen oder den Grundwasserstand sowie den Zu- oder Ablauf des Wassers zu verändern;
+das Gebiet außerhalb der markierten Wege zu betreten, dort Rad zu fahren oder zu reiten;
 
 7.
 
-Feuer anzumachen oder zu unterhalten, Boot zu fahren, Hunde frei laufen zu lassen oder Lärm zu verursachen, der geeignet ist, Tiere zu beunruhigen;
+mit Kraftfahrzeugen aller Art oder mit Wohnwagen zu fahren oder diese abzustellen;
 
 8.
 
-zu zelten, zu lagern, zu baden, Wohnwagen oder Verkaufsstände aufzustellen;
+Markierungszeichen aufzustellen, anzubringen oder aufzuzeichnen, sofern diese geeignet sind, das Betreten des Gebietes räumlich zu lenken;
 
 9.
 
-Markierungszeichen anzubringen oder auf im Naturschutzgebiet befindlichen Objekten aufzuzeichnen, sofern diese geeignet sind, das Betreten des Gebietes räumlich zu lenken;
+zu zelten, zu lagern, zu baden, Boot zu fahren, Verkaufsstände aufzustellen oder Hunde frei laufen zu lassen;
 
 10.
 
-Plakate, Bild- oder Schrifttafeln aufzustellen oder anzubringen;
+Feuer anzumachen oder zu unterhalten;
 
 11.
 
-mit motorgetriebenen oder bespannten Fahrzeugen aller Art oder mit Wohnwagen zu fahren oder diese abzustellen;
+Flugmodelle zu betreiben;
 
 12.
 
-das Naturschutzgebiet in der Zeit vom 1. April bis 14. August eines jeden Jahres außerhalb der Wege zu betreten, im Naturschutzgebiet außerhalb der Wege Rad zu fahren oder außerhalb des ausgewiesenen Weges zu reiten;
+Pflanzen oder Pflanzenteile einzubringen, zu entnehmen, zu beschädigen oder zu zerstören;
 
 13.
 
-Pflanzen, ihre Teile oder Entwicklungsformen einzubringen, zu entnehmen, zu beschädigen oder zu zerstören;
+Tiere einzubringen, wildlebenden Tieren nachzustellen, sie zu beunruhigen oder anzulocken, sie zu fangen, zu verletzen oder zu töten oder Puppen, Larven, Eier oder Nester oder sonstige Brut-, Wohn- oder Zufluchtsstätten dieser Tiere zu entfernen, zu beschädigen oder zu zerstören;
 
 14.
 
-Tiere einzubringen, wildlebenden Tieren nachzustellen, sie zu fangen, zu beunruhigen, anzulocken, zu verletzten, zu töten oder Puppen, Larven, Eier oder Nester oder sonstige Brut-, Wohn- oder Zufluchtstätten dieser Tiere zu entfernen, zu beschädigen oder zu zerstören;
+Pflanzenschutz- oder Schädlingsbekämpfungsmittel sowie sonstige Chemikalien einzusetzen, zu düngen oder zu kalken;
 
 15.
 
-Schlittschuh zu laufen, Boot zu fahren, Flug- oder Bootsmodelle zu betreiben;
-
-16.
-
-zu düngen oder zu kalken;
-
-17.
-
-Weihnachtsbaum- oder Schmuckreisigkulturen anzulegen;
-
-18.
-
-Grünland umzubrechen, Saaten vorzunehmen oder Wiesen vor dem 1. August eines jeden Jahres zu mähen;
-
-19.
-
-Rinder zu weiden;
-
-20.
-
-Nistkästen aufzuhängen oder Futterstellen für Vögel anzulegen.
+Erstaufforstungen vorzunehmen oder Weihnachtsbaum- oder Schmuckreisigkulturen anzulegen.
 
 § 5
 
-Erlaubnisvorbehalte
-
-(1) Der Einsatz von Pflanzenschutzmitteln im Sinne von § 2 Nr. 9 des
-Pflanzenschutzgesetzes vom 14. Mai 1998 kann den Schutzzweck gefährden und bedarf der Erlaubnis der unteren Naturschutzbehörde.
-
-(2) Die Erlaubnis ist zu erteilen, wenn die Handlung den Schutzzweck nach § 3 nicht beeinträchtigt und Wirkungen der in § 4 genannten Art nicht zur Folge hat oder solche Wirkungen durch Nebenbestimmungen abgewendet werden können.
-
-(3) Die Erlaubnis wird durch eine nach anderen Vorschriften notwendigen Gestattung ersetzt, wenn diese im Einvernehmen mit der höheren Naturschutzbehörde erteilt wird.
-
-§ 6
-
 Zulässige Handlungen
 
-§ 4 gilt nicht für:
+§ 4 gilt nicht für :
 
 1.
 
-die dem Schutzzweck nach § 3 untergeordnete ordnungsmäßige Ausübung der Jagd;
+die dem Schutzzweck entsprechende ordnungsmäßige Ausübung der Jagd mit der Maßgabe, dass gemäß § 37 Abs. 3 des Sächsischen Landesjagdgesetzes (SächsLJagdG) vom 8. Mai 1991 (SächsGVBl. S. 67) die Anlage von Jagdeinrichtungen der Genehmigung durch die untere Naturschutzbehörde bedarf und gemäß § 30 Abs. 2 Nr. 7
+SächsLJagdG die Jagd mit Schlageisen verboten ist;
 
 2.
 
-die dem Schutzzweck nach § 3 entsprechende umweltgerechte Forstwirtschaft mit der Maßgabe, dass nur standortgerechte einheimische Baumarten, die der potentiellen natürlichen Vegetation im Schutzgebiet entsprechen, eingebracht werden;
+die umweltgerechte landwirtschaftliche Nutzung in ihrer bisherigen Art und in ihrem bisherigen Umfang;
 
 3.
 
-die dem Schutzzweck nach § 3 entsprechende Bewirtschaftung des Neuen Teiches mit der Maßgabe, dass in den Herbstmonaten bis zum 1. Dezember eines jeden Jahres das Abfischen durch Teichablassen möglich ist; unverzüglich nach dem Abfischen ist ein Anstau auf ein Drittel der normalen Stauhöhe zu gewährleisten. Zulässig sind auch sonstige Maßnahmen und Handlungen im Rahmen der dem Schutzzweck nach § 3 untergeordneten fischereilichen Hege mit der Maßgabe, dass diese der höheren Naturschutzbehörde mindestens drei Wochen vor Durchführung anzuzeigen sind;
+die von der unteren Naturschutzbehörde durchzuführenden oder in Auftrag gegebenen Pflege- und Entwicklungsmaßnahmen;
 
 4.
 
-die Bergung, den Abtransport und die Sprengung von Kampfmitteln mit der Maßgabe, dass  diese – soweit Gefahr im Verzuge nicht unverzügliches Handeln erfordert – der höheren Naturschutzbehörde mindestens zwei Wochen vor Durchführung anzuzeigen sind;
+die von der Naturschutzfachbehörde durchzuführenden oder in Auftrag gegebenen wissenschaftlichen Untersuchungen;
 
 5.
+
+die von der unteren Naturschutzbehörde durchzuführende oder in Auftrag gegebene Markierung von Wegen zum Zwecke der Besucherlenkung sowie die amtliche Kennzeichnung des Naturschutzgebietes gemäß der Verordnung des Sächsischen Staatsministeriums für Umwelt und Landesentwicklung zur Kennzeichnung der geschützten Teile von Natur und Landschaft in der jeweils geltenden Fassung;
+
+6.
+
+sonstige behördlich angeordnete Markierungs- und Sperrmaßnahmen mit der Maßgabe, dass diese der unteren Naturschutzbehörde zwei Wochen vor Durchführung anzuzeigen sind;
+
+7.
+
+die Aufsuchung, die Bergung und den Abtransport von Kampfmitteln mit der Maßgabe, dass diese – soweit Gefahr im Verzuge nicht unverzügliches Handeln erfordert – der unteren Naturschutzbehörde zwei Wochen vor Durchführung anzuzeigen sind;
+
+8.
 
 den Betrieb, die Unterhaltung und die Instandsetzung der vorhandenen Anlagen und Leitungen der öffentlichen Versorgung;
 
-6.
-
-die Erhaltung und Unterhaltung des vorhandenen Reitweges, der Wanderwege „Alte Syrauer Straße“ und „Mehltheuer-Kauschwitz“ und der Ringstraße in ihrer bisherigen Art oder durch Aufschotterung und gegebenenfalls Einbau von Wasserabschlägen;
-
-7.
-
-die von der unteren Naturschutzbehörde in Auftrag gegebenen oder von ihr durchzuführenden Pflege- und Entwicklungsmaßnahmen;
-
-8.
-
-die von der unteren Naturschutzbehörde durchzuführende oder von ihr in Auftrag gegebene Markierung von Wegen zum Zwecke der Besucherlenkung sowie die amtliche Kennzeichnung des Naturschutzgebietes gemäß der Verordnung des Sächsischen Staatsministeriums für Umwelt und Landesentwicklung zur Kennzeichnung der geschützten Teile von Natur und Landschaft in der jeweils geltenden Fassung;
-
 9.
 
-sonstige behördlich angeordnete Markierungs- und Sperrmaßnahmen mit der Maßgabe, dass diese der höheren Naturschutzbehörde zwei Wochen vor Durchführung anzuzeigen sind;
+den Bau und die Benutzung einer Verbindungsstraße aus Richtung des Glauchauer Ortsteils Rothenbach als geradlinige Verlängerung der ehemaligen Panzerstraße in Richtung Klengelhain mit der Maßgabe, dass zuvor die Notwendigkeit der Baumaßnahme durch Vorlage von Aufkommenszahlen und Belegungsprognosen im Rahmen eines mit dem Flächennutzungsplan erarbeiteten ganzheitlichen Verkehrskonzeptes der Großen Kreisstadt Glauchau nachgewiesen sein muss und mit der Verpflichtung zur naturschutzrechtlichen Kompensation der Eingriffsfolgen des Straßenbaus; § 4 Abs. 2 Nr. 2 gilt insoweit nicht.
 
-10.
+§ 6
 
-die dem Schutzzweck entsprechende Beweidung im weiten Gehüt ohne Gatterung;
-
-11.
-
-das Überfliegen des südöstlichen Randbereiches des Gebietes in eine Geländetiefe bis zu 50 Metern im Rahmen der Starts von Flugzeugen und sonstigen Fluggerät.
-
-§ 7
-
-Grundzüge der Pflege und Entwicklung
-
-(1) Der Erreichung des Schutzzweckes dienen folgende Grundzüge der Pflege und Entwicklung:
+Grundsätze der Pflege und Entwicklung
 
 1.
 
-Auf dem Flurstück 407/1 der Gemarkung Schneckengrün sollen bis zu 11 Hektar Fläche mit autochthonem Pflanzmaterial der unter § 6 Nr. 2 genannten Arten aufgeforstet werden, wobei die Heidebestände, Stillgewässer, Kleinröhrichte und Borstengrasrasen als Habitatkomplex der Braunkehlchenpopulation freizuhalten sind;
+Zur Offenhaltung des Gebietes soll bevorzugt eine extensive Schafbeweitung durchgeführt werden;
 
 2.
 
-die Hauptwege sollen zur aktiven Unterbindung rechtswidrigen Kraftfahrzeugverkehrs an geeigneten Stellen dauerhaft abgesperrt werden;
+an geeigneten Stellen sollen kleine Stillgewässer angelegt und gepflegt werden;
 
 3.
 
-am Syrauer Teich soll zur Abpufferung von Schad- und Nährstoffeinträgen in das Stillgewässer eine Schutzpflanzung angelegt werden;
+im Übergangsbereich zwischen Offenland und südlichem Waldbereich soll ein bis 10 Meter tiefer Saum unter Verwendung standortgerechter und gebietstypischer Gehölze zum Aufbau eines stufigen und reichgegliederten Waldrandes aufgeforstet werden. Zur Verbindung der am Schutzgebietsnordwestrand vorhandenen Feldgehölze mit den Waldflächen bei Rothenbach kann eine bis zu 5 Hektar große Waldfläche aufgeforstet werden; § 4 Abs. 2 Nr. 15 gilt insoweit nicht.
 
-4.
+Einzelheiten zu Pflege- und Entwicklungsmaßnahmen werden in einem Pflege- und Entwicklungsplan geregelt.
 
-die Zwergstrauchbestände und sonstigen von Gehölzaufwuchs freizuhaltenden Flächen sollen durch Herden geeigneter Landschafrassen oder Ziegen auf extensive Art und Weise beweidet werden; zur Unterstützung dieser Maßnahme soll Baumaufwuchs durch Rückschnitt oder Rodung zurückgedrängt werden;
+§ 6a
 
-5.
+Die in §§ 4, 5 und 6 festgelegten Verbote, Gebote und Maßgaben gelten nicht für die land-, forst- und fischereiwirtschaftliche Bodennutzung, solange und soweit sich der Nutzungsberechtigte durch schriftliche Vereinbarung mit der Naturschutzbehörde oder im Einvernehmen mit der Naturschutzbehörde zur Einhaltung der dort ausgesprochenen Vorgaben verpflichtet hat.
+1
 
-die Heidebestände sollen zur Verjüngung in fünf- bis zehnjährigem Turnus gemäht werden; degenerierte Heideflächen sollen erforderlichenfalls abschnittsweise geplaggt oder gezielt abgebrannt werden;
+§ 7
 
-6.
-
-die im Vorwaldstadium befindlichen Waldflächen sollen im notwendigen Umfang aufgelichtet werden mit dem Ziel, die Entwicklung zu den unter § 3 Nr. 3 genannten Waldgesellschaften zu unterstützen und mosaikartig eingestreute Zwergstrauchbestände zu erhalten;
-
-7.
-
-für die Schaffung weiterer Heideflächen sollen durch Rohbodenaufschlüsse günstige Keimungsvoraussetzungen geschaffen werden;
-
-8.
-
-die zur Durchführung von Pflegemaßnahmen erforderliche Ringstraße soll erhalten und unterhalten werden.
-
-(2) Nähere Einzelheiten zur Umsetzung der Grundzüge der Pflege und Entwicklung sind in einem Pflege- und Entwicklungsplan geregelt.
-
-§ 8
-
-Befreiung
+Befreiungen
 
 Von den Verboten dieser Verordnung kann die höhere Naturschutzbehörde nach § 53
-SächsNatSchG auf schriftlichen Antrag Befreiung erteilen. Die Befreiung kann mit Nebenbestimmungen versehen werden.
+SächsNatSchG auf schriftlichen Antrag hin Befreiung erteilen.
 
-§ 9
+§ 8
 
 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig gemäß § 61 Abs. 1 Nr. 1
-SächsNatSchG handelt, wer in dem Naturschutzgebiet vorsätzlich oder fahrlässig – ohne dass eine zulässige Handlung in der im § 6 festgelegten Art und Weise oder eine Befreiung im Sinne des § 8 vorliegt –
+SächsNatSchG handelt, wer in dem Naturschutzgebiet vorsätzlich oder fahrlässig – ohne dass eine zulässige Handlung in der im § 5 festgelegten Art und Weise oder eine Befreiung im Sinne des § 7 vorliegt –
 
 1.
 
@@ -273,89 +214,66 @@ entgegen § 4 Abs. 2 Nr. 2 Straßen, Wege, Pfade, Steige, Plätze oder sonstige 
 
 3.
 
-entgegen § 4 Abs. 2 Nr. 3 Handlungen vornimmt, die den Boden in seiner Gestalt, Struktur oder Beschaffenheit verändern können;
+entgegen § 4 Abs. 2 Nr. 3 Handlungen vornimmt, die den Boden in seiner Gestalt, Struktur oder Beschaffenheit verändern oder verändern können;
 
 4.
 
-entgegen § 4 Abs. 2 Nr. 4 Auffüllungen vornimmt oder Ablagerungen einbringt;
+entgegen § 4 Abs. 2 Nr. 4 Auffüllungen oder Ablagerungen vornimmt sowie Abfälle oder sonstige Materialien einbringt;
 
 5.
 
-entgegen § 4 Abs. 2 Nr. 5 Abfälle oder sonstige Materialien lagert;
+entgegen § 4 Abs. 2 Nr. 5 Entwässerungsmaßnahmen oder Veränderungen an Gewässern, einschließlich Tümpeln und Gräben, vornimmt oder den Grundwasserstand sowie den Zu- oder Ablauf des Wassers verändert;
 
 6.
 
-entgegen § 4 Abs. 2 Nr. 6 Entwässerungsmaßnahmen oder Veränderungen an Gewässern einschließlich Gräben vornimmt oder den Grundwasserstand sowie den Zu- oder Ablauf des Wassers verändert;
+entgegen § 4 Abs. 2 Nr. 6 das Gebiet außerhalb markierter Wege betritt, dort Rad fährt oder reitet;
 
 7.
 
-entgegen § 4 Abs. 2 Nr. 7 Feuer anmacht oder unterhält, Boot fährt, Hunde frei laufen lässt oder Lärm verursacht, der geeignet ist, Tiere zu beunruhigen;
+entgegen § 4 Abs. 2 Nr. 7 mit Kraftfahrzeugen aller Art oder mit Wohnwagen fährt oder diese abstellt;
 
 8.
 
-entgegen § 4 Abs. 2 Nr. 8 zeltet, lagert, badet, Wohnwagen oder Verkaufsstände aufstellt;
+entgegen § 4 Abs. 2 Nr. 8 Markierungszeichen, die geeignet sind, das Betreten des Naturschutzgebietes räumlich zu lenken, aufstellt, anbringt oder aufzeichnet;
 
 9.
 
-entgegen § 4 Abs. 2 Nr. 9 Markierungszeichen, die geeignet sind, das Betreten des Gebietes räumlich zu lenken, anbringt oder auf im Naturschutzgebiet befindlichen Objekten aufzeichnet;
+entgegen § 4 Abs. 2 Nr. 9 zeltet, lagert, badet, Boot fährt, Verkaufsstände aufstellt oder Hunde frei laufen lässt;
 
 10.
 
-entgegen § 4 Abs. 2 Nr. 10 Plakate, Bild- oder Schrifttafeln aufstellt oder anbringt;
+entgegen § 4 Abs. 2 Nr. 10 Feuer anmacht oder unterhält;
 
 11.
 
-entgegen § 4 Abs. 2 Nr. 11 mit motorgetriebenen oder bespannten Fahrzeugen aller Art oder mit Wohnwagen fährt oder diese abstellt;
+entgegen § 4 Abs. 2 Nr. 11 Flugmodelle betreibt;
 
 12.
 
-entgegen § 4 Abs. 2 Nr. 12 das Naturschutzgebiet in der Zeit vom 1. April bis 14. August eines jeden Jahres außerhalb der Wege betritt, im Naturschutzgebiet außerhalb der Wege Rad fährt oder außerhalb des dafür ausgewiesenen Weges reitet;
+entgegen § 4 Abs. 2 Nr. 12 Pflanzen oder Pflanzenteile einbringt, entnimmt, beschädigt oder zerstört;
 
 13.
 
-entgegen § 4 Abs. 2 Nr. 13 Pflanzen, ihre Teile oder Entwicklungsformen einbringt, entnimmt, beschädigt oder zerstört;
+entgegen § 4 Abs. 2 Nr. 13 Tiere einbringt, wildlebenden Tieren nachstellt, sie fängt, beunruhigt, anlockt, verletzt, tötet oder ihre Puppen, Larven, Eier oder Nester oder sonstige Brut-, Wohn- oder Zufluchtsstätten dieser Tiere entfernt, beschädigt oder zerstört;
 
 14.
 
-entgegen § 4 Abs. 2 Nr. 14 Tiere einbringt, wildlebenden Tieren nachstellt, sie fängt, beunruhigt, anlockt, verletzt, tötet oder ihre Puppen, Larven, Eier oder Nester oder sonstige Brut-, Wohn- oder Zufluchtsstätten dieser Tiere entfernt, beschädigt oder zerstört;
+entgegen § 4 Abs. 2 Nr. 14 Pflanzenschutz- oder Schädlingsbekämpfungsmittel sowie sonstige Chemikalien einsetzt, düngt oder kalkt;
 
 15.
 
-entgegen § 4 Abs. 2 Nr. 15 Schlittschuh läuft, Boot fährt, Flug-, Fahr- oder Bootsmodelle betreibt oder mit Gleitschirmen oder ähnlichem Gerät fliegt;
-
-16.
-
-entgegen § 4 Abs. 2 Nr. 16 düngt oder kalkt;
-
-17.
-
-entgegen § 4 Abs. 2 Nr. 17 Weihnachtsbaum- oder Schmuckreisigkulturen anlegt;
-
-18.
-
-entgegen § 4 Abs. 2 Nr. 18 Grünland umbricht, Saaten vornimmt oder Wiesen vor dem 1. August eines jeden Jahres mäht;
-
-19.
-
-entgegen § 4 Abs. 2 Nr. 19 Rinder weidet;
-
-20.
-
-entgegen § 4 Abs. 2 Nr. 20 Nistkästen aufhängt oder Futterstellen für Vögel anlegt.
+entgegen § 4 Abs. 2 Nr. 15 Erstaufforstungen vornimmt oder Weihnachtsbaum- oder Schmuckreisigkulturen anlegt.
 
 (2) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 1
-SächsNatSchG handelt des Weiteren, wer vorsätzlich oder fahrlässig ohne schriftliche Erlaubnis der höheren Naturschutzbehörde im Sinne von § 5 Pflanzenschutzmittel einsetzt.
+SächsNatSchG handelt des Weiteren, wer vorsätzlich oder fahrlässig vollziehbare Nebenbestimmungen, mit der eine nach § 7 erteilte Befreiung versehen wurde, nicht, nicht vollständig, nicht fristgemäß oder nicht ordnungsgemäß erfüllt.
 
-(3) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 1
-SächsNatSchG handelt schließlich, wer vorsätzlich oder fahrlässig vollziehbare Nebenbestimmungen, mit der eine nach § 5 erteilte Erlaubnis oder eine nach § 8 erteilte Befreiung versehen wurde, nicht, nicht vollständig, nicht fristgemäß oder nicht ordnungsgemäß erfüllt.
-
-§ 10
+§ 9
 
 In-Kraft-Treten
 
-Diese Verordnung tritt am Tage nach Ablauf der Auslegungsfrist gemäß § 2 Abs. 4 in Kraft.
+Diese Verordnung tritt am Tage nach Ablauf der Auslegungsfrist im Sinne von § 2 Abs. 4 in Kraft.
 
-Chemnitz, den 16. Juli 1999
+Chemnitz, den 11. Juni 1999
 
 Regierungspräsidium Chemnitz
 
