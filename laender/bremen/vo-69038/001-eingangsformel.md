@@ -1,3 +1,2 @@
 # Eingangsformel
-Auf Grund des § 50 Abs. 1 des Personenstandsgesetzes in der Fassung vom 8. August 1957 (BGBl. I S. 1126) verordnet der Senat:
-Einzelansicht Seitenanfang
+Aufgrund von § 70 a Abs. 1, Abs. 2 Nr. 3 und § 70 c des Personenstandsgesetzes in der Fassung vom 8. August 1957 (BGBl. I S. 1125), zuletzt geändert durch das Vierte Gesetz zur Änderung und Ergänzung des Personenstandsgesetzes vom 5. August 1974 (BGBl. I S. 1857), und aufgrund von § 61 Abs. 3 des Polizeigesetzes vom 5. Juli 1960 (SaBremR 205-a-1), zuletzt geändert durch Gesetz vom 8. September 1970 (Brem.GBl. S. 94), verordnet der Senat:

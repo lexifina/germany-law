@@ -1,1 +1,1 @@
-# Erste Verordnung zur Durchführung des Personenstandsgesetzes vom 21. Dezember 1957
+# Zweite Verordnung zur Durchführung des Personenstandsgesetzes vom 10. Dezember 1974
