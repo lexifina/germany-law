@@ -1,0 +1,114 @@
+---
+ecli: "ECLI:DE:BVerfG:2003:rk20030116.1bvr222202"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 2222/02"
+decided: "2003-01-16"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 3. Kammer des Ersten Senats vom 16. Januar 2003\n- 1 BvR 2222/02 -, Rn. 1-7,\n                    https://www.bverfg.de/e/rk20030116_1bvr222202"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2003/01/rk20030116_1bvr222202.html"
+corpus_doc_id: "BVerfG_2003-01-16_K_1_BvR_2222_02_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0090.md", "germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/grundgesetz/artikel/019.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 2222/02 vom 2003-01-16
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 1 BVR 2222/02 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+der Frau F. ,
+
+gegen das Unterlassen des Verwaltungsgerichts Köln, in den Verfahren 5 K 4420/
+      00, 5 K 452/01, 5 K 572/01 und 5 K 3968/01 über die Klagen und Anträge
+      auf Bewilligung von Prozesskostenhilfe sowie Beiordnung eines Rechtsanwalts zu entscheiden
+
+und    Antrag auf Erlass einer einstweiligen Anordnung
+
+und     Antrag auf Bewilligung von Prozesskostenhilfe
+        und Beiordnung eines Rechtsanwalts
+
+hat die 3. Kammer des Ersten Senats des Bundesverfassungsgerichts durch
+                                 den Präsidenten Papier,
+                                 den Richter Steiner
+                                 und die Richterin Hohmann-Dennhardt
+
+gemäß § 93 b in Verbindung mit § 93 a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 16. Januar 2003 einstimmig beschlossen:
+
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+Der Antrag auf Bewilligung von Prozesskostenhilfe und Beiordnung von Rechtsanwalt Plantiko, Bonn, wird abgelehnt.
+Damit erledigt sich zugleich der Antrag auf Erlass einer einstweiligen Anordnung.
+
+                                     Gründe:
+  Die Verfassungsbeschwerde ist nicht zur Entscheidung anzunehmen, weil sie unzulässig ist und daher die Annahmevoraussetzungen des § 93 a Abs. 2 BVerfGG nicht
+vorliegen.
+
+  1. Eine Verfassungsbeschwerde kann grundsätzlich erst nach Erschöpfung des        2
+Rechtswegs erhoben werden (§ 90 Abs. 2 Satz 1 BVerfGG). Ein Beschwerdeführer
+hat daher zunächst die nach der jeweiligen Prozessordnung zur Verfügung stehenden Rechtsbehelfe zu ergreifen. Der in dem Gebot der Rechtswegerschöpfung zum
+Ausdruck kommende Subsidiaritätsgrundsatz soll sicherstellen, dass durch eine umfassende fachgerichtliche Vorprüfung der Beschwerdepunkte dem Bundesverfassungsgericht ein regelmäßig in mehreren Instanzen geprüftes Tatsachenmaterial un-
+
+
+                                         1/4
+
+terbreitet wird und ihm die Fallanschauung und Rechtsauffassung der Gerichte, insbesondere der obersten Bundesgerichte, vermittelt werden. Zugleich entspricht es
+der grundgesetzlichen Zuständigkeitsverteilung und Aufgabenzuweisung, dass vorrangig die Fachgerichte Rechtsschutz gegen Verfassungsverletzungen gewähren
+(vgl. BVerfGE 77, 381 <401> m.w.N.). Auch von einem Rechtsbehelf, dessen Statthaftigkeit umstritten ist, hat der Beschwerdeführer Gebrauch zu machen. Bestehen
+Zweifel an der Statthaftigkeit eines Rechtsbehelfs, ist es grundsätzlich Aufgabe der
+Fachgerichte, über die Gewährung des begehrten Rechtsschutzes nach einfachem
+Recht unter Berücksichtigung der hierzu vertretenen Rechtsansichten zu entscheiden. Der Funktion der Verfassungsbeschwerde würde es zuwiderlaufen, sie anstelle
+oder wahlweise neben einem anderen Rechtsbehelf zuzulassen (vgl. BVerfGE 68,
+376 <381> m.w.N.).
+
+  2. Nach diesen Grundsätzen hat die Beschwerdeführerin den Rechtsweg nicht ausgeschöpft. Die Statthaftigkeit einer gegen die Untätigkeit des angerufenen Gerichts
+erhobenen Beschwerde wird in der verwaltungsgerichtlichen Rechtsprechung und
+Lehre unterschiedlich beurteilt. Einerseits wird die Ansicht vertreten, dass die Verwaltungsgerichtsordnung einen Rechtsschutz in Form der Untätigkeitsbeschwerde gegen die Nichtentscheidung über einen Antrag auf Gewährung von Prozesskostenhilfe
+nicht vorsehe (vgl. OVG Nordrhein-Westfalen, NVwZ-RR 1998, S. 340; OVG Bremen, NJW 1994, S. 992 <993>; Redeker/von Oertzen, Verwaltungsgerichtsordnung,
+13. Aufl., 2000, § 146 Rn. 7 a.E.). Andererseits wird ein solcher Rechtsbehelf als
+statthaft angesehen mit der Begründung, die von der Untätigkeit eines Gerichts Betroffenen müssten die Möglichkeit haben, sich gegen eine Rechtsschutzverweigerung zur Wehr zu setzen (vgl. BayVGH, NVwZ 2000, S. 693; Olbertz: in Schoch/
+Schmidt-Aßmann/Pietzner, Verwaltungsgerichtsordnung, Kommentar, Band II, § 166
+Rn. 85 <Stand: September 1998>; vgl. zum Strafvollstreckungsrecht BVerfG, Beschluss der 3. Kammer des Zweiten Senats, NJW 2001, S. 3615).
+
+  3. Auch wenn der 24. Senat des Oberverwaltungsgerichts für das Land Nordrhein-           4
+Westfalen in der zitierten Entscheidung die Beschwerde gegen eine gerichtliche Untätigkeit in Angelegenheiten der Prozesskostenhilfe als nicht statthaft ansieht, ist die
+Beschwerdeführerin gehalten, wegen der von ihr beanstandeten Untätigkeit des Verwaltungsgerichts Köln zunächst das im Rechtszug übergeordnete Beschwerdegericht anzurufen. Die Statthaftigkeit einer Untätigkeitsbeschwerde ist - soweit ersichtlich - in der Rechtsprechung des Oberverwaltungsgerichts noch nicht abschließend
+geklärt. Immerhin hat der 13. Senat des Gerichts in seinem Beschluss vom 1. Juli
+1999 (NVwZ 1999, Beilage Nr. I 11, S. 105) die Zulässigkeit einer Untätigkeitsbeschwerde offengelassen, gleichzeitig aber darauf hingewiesen, dass Art. 19 Abs. 4
+Satz 1 GG Rechtsschutz innerhalb angemessener Frist garantiere. Die Einlegung einer entsprechenden Beschwerde durch den Beschwerdeführer wäre daher nicht offensichtlich aussichtslos.
+
+ Die Verweisung auf das Beschwerdeverfahren ist der Beschwerdeführerin auch zumutbar. Die Voraussetzungen für eine Vorabentscheidung nach § 90 Abs. 2 Satz 2
+
+
+                                           2/4
+
+BVerfGG liegen nicht vor.
+
+ Von einer weiteren Begründung wird nach § 93 d Abs. 1 Satz 3 BVerfGG abgesehen.
+
+ Diese Entscheidung ist unanfechtbar.                                           7
+
+                                                      Hohmann-Papier               Steiner
+                                                      Dennhardt
+
+
+
+
+                                        3/4
+
+Bundesverfassungsgericht, Beschluss der 3. Kammer des Ersten Senats vom
+16. Januar 2003 - 1 BvR 2222/02
+
+Zitiervorschlag BVerfG, Beschluss der 3. Kammer des Ersten Senats vom 16. Januar 2003 - 1 BvR 2222/02 - Rn. (1 - 7), http://www.bverfg.de/e/
+                rk20030116_1bvr222202.html
+
+ECLI            ECLI:DE:BVerfG:2003:rk20030116.1bvr222202
+
+
+
+
+                                      4/4
