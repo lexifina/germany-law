@@ -1,0 +1,1 @@
+# Verordnung für die an das oldenburgische Pferdezuchtgebiet angegliederten bremischen Gebietsteile auf dem linken Weserufer über Abänderungen des oldenburgischen Pferdezuchtgesetzes vom 29. Mai 1923 und der Ausführungsbestimmungen zu diesem Gesetze vom 11.
