@@ -1,0 +1,93 @@
+# 11. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2002-12-11T17:30:00+01:00
+- Ende: 2002-12-11T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=26
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=26
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - im Ausschuss abgelehnt
+- TOP 1.2: Abstimmung über die Tagesordnung - im Ausschuss abgelehnt
+- TOP 1.3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 1.3.1: Finanzielle Ausstattung von Frauenprojekten - überwiesen
+- TOP 1.4: Mündliche Anfrage - überwiesen
+- TOP 1.5: Bericht des Bezirksamtes - überwiesen
+- TOP 1.6: Konsensliste - überwiesen
+- TOP 1.7: Übertragung der Funktion eines Bezirksbehindertenbeauftragten im Geschäftsbereich des Bezirksbürgermeisters - ohne Änderungen in der BVV beschlossen
+- TOP 1.8: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2001 - überwiesen
+- TOP 1.9: Freizeitstätten-Entwicklungsplan Pankow 2002 - ohne Änderungen in der BVV beschlossen
+- TOP 1.9.1: Freizeitstättenentwicklungsplan (FEP) - erledigt
+- TOP 1.10: Ruhiger Wohnen in der Wollankstraße - in der BVV abgelehnt
+- TOP 1.11: Aufstellung einer Erhaltungssetzung Falkenberger Straße/Gierstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Krisendienst - in der BVV abgelehnt
+- TOP 1.13: Mehr Bürgerbeteiligung und Transparenz bei Bebauungsplanverfahren - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Nachweis der im Haushaltsjahr 2001 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Bürodienstruine Dusekestraße 43 - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Bebauungsplan XVIII-VE-1 - mit Änderungen in der BVV beschlossen
+- TOP 1.17: Jugendpsychiatrischer Dienst - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Veränderungen zum Doppelhaushalt 2002 / 2003 - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Grundsicherungsamt - beantwortet
+- TOP 1.20: Ökologische und soziale Gestaltungsziele für die Schwedter Straße/Nord - keine Straßenerweiterung - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Gestaltung der Haushaltspläne - überwiesen
+- TOP 1.22: Zentrale Inkassostelle des Bezirks - überwiesen
+- TOP 1.23: Um- und Ausbau Brechthaus Berliner Allee 185 - beantwortet
+- TOP 1.24: Präsentation von Bauvorhaben - mit Änderungen in der BVV beschlossen
+- TOP 1.25: Nichtbewilligte ABM "Interkulturelles Netzwerk" - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Regionaler Aktionsplan gegen häusliche Gewalt - überwiesen
+- TOP 1.27: Galerien in bezirklicher Trägerschaft - überwiesen
+- TOP 1.28: Realisierung von Vorschlägen zu Gedenkzeichen im öffentlichen Raum - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Linienführung der Buslinie 251 - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Schmutzwasserentwässerung Blankenburger Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: 17. Juni 1953 - beantwortet
+- TOP 1.32: Umbenennung einer Straße - überwiesen
+- TOP 1.33: Ausbesserung nicht befestigter Straßen - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Benennung "Bleichröder Park" - überwiesen
+- TOP 1.35: Verkehrsberuhigung Bahnhofstraße Blankenburg, Bereich Albert-Schweizer-Stiftung - überwiesen
+- TOP 1.36: Graffiti im Mauerpark - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Schriftführung in den Ausschüssen - überwiesen
+- TOP 1.38: Änderung des Beschlusses 025/02 (Ausschußbildung) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.39: Sitzungsplan der BVV für 2003 und 2004 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Komplex II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.1: Zügige Weiterführung der Bauleitplanung für das ABB-Gelände - vertagt
+- TOP 2.2: Einsatz von Fördermitteln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2.1: Erschließungsstraße für das ABB-Gelände - vertagt
+- TOP 2.3: Verkehrsberuhigung um den Solonplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Aufstellung einer Erhaltungssatzung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Rechtsverordnung zur Kündigungsbeschränkung bei Wohnungsumwandlung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Künstlerhof Buch - vertagt
+- TOP 2.7: Teilnahme am europäischen Zertifizierungs- und Auszeichnungsprogramm "European Energy Award" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Seniorenwohnen in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Erhalt der Seniorenbegegnungs- und Freizeitstätten im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Für seniorengerechtes Wohnen und gegen Einsamkeit im Alter - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Untätigkeitsklagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Einrichtung eines Fußgängerüberweges Kreuzungsbereich Bahnhofstraße/Hubertusdamm - vertagt
+- TOP 2.13: Veränderung der Schaltzeiten der Lichtzeichenanlage Bucher Chaussee/Achillesstraße in Karow - vertagt
+- TOP 2.14: Verringerung des verkehrlichen Gefahrenpotentiales im Kurvenbereich Hubertusdamm/Schönerlinder Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Verkehrsberuhigung Schönhauser Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Einhaltung des Nachtflugverbots von und zum Flughafen Tegel <span style="color: #888a85" title="Zusatzinfo">(Schlussbericht)</span> - vertagt
+- TOP 2.16.1: Pankow gegen Fluglärm! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Verkehrssicherheit für Schülerinnen und Schüler - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Fußwegsicherung am S-Bahnhof Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Wochenendöffnungszeiten sozialer Einrichtungen als Fördervoraussetzung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Radwegeverbindung parallel zur B 109 nach Wandlitz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Erhaltungsrechtsverordnungen Ostseestraße/Grellstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Veränderung der Verkehrszeichenregelung Tempo 30 mit Zusatzschild, Rosenthaler Weg in Französisch Buchholz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Schließung der Sparkassenfiliale im OT Heinersdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Abschaffung der Decklungszahlen für den offenen Ganztagsbetrieb und die hortähnliche Betreuung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Änderung des FNP im Teilbereich der ehemaligen Nordtangente - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Verkehrskonzept für den Bezirk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Besuch von Schulklassen in der ehemaligen zentralen Haftanstalt des MfS - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Neutraler Bezirksname - vertagt
+- TOP 2.29: Investitionsplanung 2003 bis 2007 - vertagt
+- TOP 2.30: Kompetenz im Verkehr für die Bezirke - vertagt
+- TOP 2.31: Anmietung des Brecht-Hauses Weißensee von der Stiftung Denkmalschutz Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Festsetzung des vorhabenbezogenen Bebauungsplanes XIX-VE 6 vom 25. Januar 2000 für die Grundstücke Posaunenweg 6/70, 41/49 und 61/69; Tubaweg 1/61, 2/14 und 30/66; Oboenstein 1 - 14; Zimbelstraße 26 (ehem. Teilflächen der Grundstücke Akkordeonweg 42und 50) im Bezirk Pankow, Ortsteil Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Benennung einer Privatstraße in "An den Zingerwiesen" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: Änderung des Beschlusses Drucksache 267/02 - Platzhalter - - in der BVV zurückgezogen
