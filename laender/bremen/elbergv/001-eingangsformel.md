@@ -1,0 +1,3 @@
+# Eingangsformel
+Aufgrund des § 65 Abs. 4, § 66 Satz 1 Nr. 1, 5, 6, 9 und 10, auch in Verbindung mit § 126 Abs. 1 Satz 1 und Abs. 3, § 127 Abs. 1 und den §§ 128 und 129, sowie des § 68 Abs. 1 des Bundesberggesetzes (BBergG) vom 13. August 1980 (BGBl. 1 S. 1310), zuletzt geändert durch Artikel 4 des Gesetzes vom 26. Januar 1998 (BGBl. I S. 164), i.V.m. § 2 der Verordnung zur Übertragung von Ermächtigungen nach dem Bundesberggesetz vom 20. Juli 1981 (Brem.GBl. S. 153), wird verordnet:
+Einzelansicht Seitenanfang
