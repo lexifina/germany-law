@@ -1,0 +1,1 @@
+Auf Grund von Art. 10 Satz 1 des Gesetzes über Spielbanken im Freistaat Bayern (SpielbG) vom 26. Juli 1995 (GVBl S. 350, BayRS 2187-1-I) erläßt das Bayerische Staatsministerium der Finanzen im Einvernehmen mit dem Staatsministerium des Innern folgende Verordnung:
