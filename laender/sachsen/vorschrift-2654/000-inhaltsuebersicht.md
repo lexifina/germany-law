@@ -1,7 +1,8 @@
+## Gesetz über den Kommunalen Versorgungsverband Sachsen (SächsGKV)
 # Inhaltsübersicht
 Erster Teil Aufbau und Rechtsstellung
 § 1 Rechtsstellung und Sitz
-§ 2 Allgemeine Aufgaben
+§ 2 Aufgaben
 § 3 Satzungen
 Zweiter Teil Mitglieder und Angehörige
 1. Abschnitt: Mitglieder
@@ -14,7 +15,7 @@ Zweiter Teil Mitglieder und Angehörige
 Dritter Teil Leistungen und Erstattungen; weitere Aufgaben
 § 9 Allgemeines
 § 10 Versorgungsleistungen
-§ 11 Leistungen in besonderen Fällen
+§ 11 Leistungen bei Dienstunfällen
 § 12 Versorgungsleistungen an Angestellte
 § 13 Beihilfen
 § 14 Weitere Pflichtaufgaben
@@ -44,11 +45,11 @@ Sechster Teil Aufsicht
 § 31 Aufsicht
 Siebter Teil Sonderkasse
 § 32 Allgemeines
-§ 33 Verwaltungsausschuß
-Achter Teil Sondervermögen nach §14a Bundesbesoldungsgesetz
+§ 33 Verwaltungsausschuss der Zusatzversorgungskasse
+Achter Teil Sondervermögen nach § 14a Bundesbesoldungsgesetz
 § 34 Allgemeines
 § 35 Anlage der Mittel
-§ 36 Verwaltungsausschuß
+§ 36 Verwaltungsausschuss für die Angelegenheiten des Sondervermögens nach § 14a des Bundesbesoldungsgesetzes
 § 37 Satzung
-Neunter Teil Schlußvorschriften
-§ 38 Inkrafttreten und Schlußvorschriften
+Neunter Teil Schlussvorschriften
+§ 38 In-Kraft-Treten und Schlussvorschriften
