@@ -1,0 +1,66 @@
+# 4. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2002-03-06T17:30:00+01:00
+- Ende: 2002-03-06T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=17
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=17
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex I - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - erledigt
+- TOP 1.2: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.3: Dringlichkeitsanträge - erledigt
+- TOP 1.4: Mündliche Anfrage - erledigt
+- TOP 1.5: Bericht des Bezirksamtes - erledigt
+- TOP 1.6: Konsensliste - erledigt
+- TOP 1.7: Bäderschließung in Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.8: Wahlen - gewählt
+- TOP 1.9: Wahl von Mitgliedern des Kuratoriums der "Seniorenstiftung Prenzlauer Berg" - gewählt
+- TOP 1.10: Auflistung aller Aufgrabungen im Altbezirk Pankow - (offen)
+- TOP 1.11: Bauliche Mängel in der Kita "La Cigale" - überwiesen
+- TOP 1.12: Bürgerdeputierte und stellvertretende Bürgerdeputierte - gewählt
+- TOP 1.13: Protokolle der Bezirksamts - Sitzungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Verkehrsberuhigung um den Solonplatz - überwiesen
+- TOP 1.15: Sicherung der Kleingartenanlage "Straße vor Schönholz" - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Hochschule im Schloss - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.18: Sozialplanung - überwiesen
+- TOP 1.19: Bezirkliche Vertretung in Aufsichtsräten von Wohnungsbaugesellschaften - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Vorschlag für die Wahl von Bürgerdeputierten - gewählt
+- TOP 1.21: Schleichverkehr in Heinersdorf - Zurückweisung einer Bezirksamtsvorlage - überwiesen
+- TOP 1.22: Verkehrsberuhigte Bereiche - Zurückweisung einer Bezirksamtsvorlage - überwiesen
+- TOP 1.23: Schönerlinder Weg - Zurückweisung einer Bezirksamtsvorlage - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.25: Kleingartenbeirat - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Aufstellung einer Erhaltungssatzung - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: LZA Regelung Krugstege - Bahnhofstraße, Krugstege - Blankenburger Pflasterweg - überwiesen
+- TOP 1.28: Kleingartenbericht - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Planerische Sicherung der Kleingartenanlage "Straße vor Schönholz" - zurückgezogen
+- TOP 1.30: Realisierung der vertraglichen Leistungen des Investors des "Blumenwinkels" (an der Rennbahnstraße), - der SÜBA Generalbau GmbH -, gegenüber dem Land Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Genehmigungsvorbehalt in Milieuschutz- und Sanierungsgebieten - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Keine Betriebsverlagerung von Spreequell - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Gültigkeit von BVV-Beschlüssen - mit Änderungen in der BVV beschlossen
+- TOP 1.34: Unzumutbare Zustände in den Bürgerämtern - beantwortet
+- TOP 1.35: Linksabbiegerpfeil Dietzgenstr./Blankenburger Str. - in der BVV abgelehnt
+- TOP 1.36: Ein Bezirk steigt um <span style="color: #888a85" title="Zusatzinfo">(Fortsetzung der 3. ordententlichen Sitzung)</span> - vertagt
+- TOP 2: Komplex II - (offen)
+- TOP 2.1: Geschäftsverteilung und Vertretungsregelung des Bezirksamtes - erledigt
+- TOP 2.2: Festlegung der Beauftragten für den Haushalt - erledigt
+- TOP 2.3: Änderung eines Sanierungsziels für das Sanierungsgebiet Weißensee - Komponistenviertel - überwiesen
+- TOP 2.4: Bebauungsplan XIX-60 für die Grundstücke Schönerlinder Straße 56 - 61 und 63, einschließlich der Bucher Straße und Bucher Straße 3, 4 im Bezirk Pankow, Ortsteil Französisch Buchholz hier: Auswertung der frühzeitigen Bürgerbeteiligung nach § 3 Abs. 1Baugesetzbuch (BauGB) - erledigt
+- TOP 2.5: Bericht über das Ergebnis der Auswertung der frühzeitigen Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes XIX-61 für die Grundstücke Brehmestraße 15 - 20 sowie den Bereich zwischen Brehmestraße, Bahnstraße Gesundbrunnen Richtung Bernau (Stettiner Bahn) und Bahnstraße Gesundbrunnen Richtung Oranienburg (Nordbahn) genannt "Nasses Dreieck" und einen Abschnitt der Esplanade zwischen Bahnlinie und Dolomitenstraße im Bezirk Pankow - erledigt
+- TOP 2.6: Bestellung eines Mitgliedes des Bezirksamtes und eines/r Mitarbeiters/in der Bezirksverwaltung in das Kuratorium der "Seniorenstiftung Prenzlauer Berg" - erledigt
+- TOP 2.7: Bestellung des für Gesundheitswesen zuständigen Mitgliedes des Bezirksamtes als Vorsitzender des Beirates der VIVANTES Netzwerk für Gesundheit GmbH des Bezirks Pankow von Berlin - erledigt
+- TOP 2.8: Zusammenlegung der Grundschule am Sandhaus, Wiltbergstr. 37 - 39 in 13125 Berlin mit der 14. Grundschule Pankow, Walter-Friedrich-Str. 16, in 13125 Berlin - erledigt
+- TOP 2.9: Veränderung zum Entwurf des Bezirkshaushaltsplanes des Bezirks Pankow für das Haushaltsjahr 2002 - erledigt
+- TOP 2.10: Benennung von zwei Mitgliedern des Bezirksamtes Pankow von Berlin für das Heimkuratorium der Seniorenheime Alt-Buch 48, Alt-Buch 49 und Theodor-Brugsch-Str. 18 der Paritätischen Gesellschaft für Gesundheits- und Sozialdienste mbH - PGGS - - erledigt
+- TOP 2.11: Markt in Pankow - überwiesen
+- TOP 2.12: Liegenschaft Bruno-Apitz-Str. 14 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Energiebericht - überwiesen
+- TOP 3: Standort für Spreequell sichern - zurückgezogen
