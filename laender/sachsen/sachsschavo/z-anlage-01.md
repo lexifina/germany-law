@@ -13,4 +13,29 @@ Schutzbestimmungen in Wasserschutzgebieten für die Land- und Forstwirtschaft
 3 Des Weiteren gelten in der engeren Schutzzone (Zone II) und der weiteren Schutzzone (Zone III) folgende Verbote und Beschränkungen:
 Beschränkungen und Verbote in der engeren und weiteren Schutzzone (Zone II und III)
 V – verboten b – beschränkt zugelassen unter folgenden Auflagen
-Extrahierte Tabelle: 1
+Beschränkungen und Verbote
+Lfd. Nr. | Schutzbestimmungen | Schutzzone
+Lfd. Nr. | Schutzbestimmungen | Schutzzone
+II | III
+3.1 | Anlegen und Betreiben von Pflanzenkompostierungsanlagen | V | b: | sofern das Sickerwasser oder Sickersaft nicht schadlos aufgefangen werden, verboten
+3.2 | Anwendung von Pflanzenschutzmitteln (PSM) | Anwendung nach Maßgabe der Pflanzenschutz-Anwendungsverordnung vom 10. November 1992 (BGBl. I S. 1887), zuletzt geändert durch Artikel 3 Nr. 8 der Verordnung vom 27. Oktober 1999 (BGBl. I S. 2070, 2071) Verbot der Ausbringung von in der jeweils gültigen Pflanzenschutz-Anwendungsverordnung genannten Pflanzenschutzmitteln mit W-Auflage
+3.3 | Ausbringung von PSM aus Luftfahrzeugen | V | V
+3.4 | Lagerung von Pflanzenschutzmitteln | V | b: | außerhalb von überdachten und undurchlässigen Flächen verboten
+3.5 | Aufbringen von Jauche, Gülle, Silagesickersaft, Klärschlamm und ähnlichen Stoffen | V | ausgenommen in Schutzzone II B von Trinkwassertalsperren, sofern die Bestimmungen der Schutzzone III eingehalten werden | b: | außer 15. Oktober bis 15. Februar Auf begrünten Flächen dürfen jeweils nach der letzten Ernte innerhalb der Vegetationsperiode bis zum Verbotszeitraum maximal 80 Kilogramm Gesamt-Stickstoff je Hektar ausgebracht werden. Dies gilt für acker- und gartenbaulich genutzte Flächen, wenn nach der letzten Ernte die Ausbringung zu
+a) | Gras, Untersaaten oder Zwischenfrüchten, soweit der Leguminosenanteil jeweils unter 50 Prozent liegt,
+b) | Winterraps, Winterrübsen oder in Verbindung mit einer Getreidestrohdüngung zu Wintergerste
+erfolgt Die Ausbringung zu anderen Herbstansaaten ist nur zulässig, soweit durch eine Bodenuntersuchung nach der N min –Methode ein Stickstoffdüngebedarf vor der Ausbringung nachgewiesen wird.
+3.6 | Aufbringen von Festmist und ähnlichen Stoffen | b: | auf Ackerflächen verboten vom 1. Juni bis 31. Januar, wenn nicht unmittelbar nach der Festmistaufbringung eine überwinternde Hauptfrucht oder eine Zwischenfrucht angebaut wird
+3.7 | Ausbringen von Düngemitteln und Silagesickersaft auf Brache, wassergesättigten, gefrorenen oder schneebedeckten Böden | V | V: | ausgenommen bei gefrorenen und schneebedeckten Böden, wenn Abschwemmungen in Gewässer nicht zu besorgen sind
+3.8 | Lagern von Wirtschaftsdünger (Gülle, Jauche, Festmist, Geflügelkot), Silagesickersaft sowie von fließfähigem Mineraldünger, Klärschlamm | V | b: | außerhalb von dauerhaft dichten Anlagen verboten, ausgenommen eine kurzzeitige Zwischenlagerung von Festmist vor der Ausbringung nach Anlage 1 Nr. 3.6, sofern eine Gewässerverunreinigung nicht zu besorgen ist
+3.9 | Lagerung von festem Mineraldünger | b: | ohne Abdeckung und dichten Boden verboten, ausgenommen eine Lagerung von kohlesaurem Kalk innerhalb eines Zeitraumes von bis zu drei Monaten
+3.10 | Errichten und Betreiben von Foliensilos, Freigärhaufen, Feldmieten | V | V: | ausgenommen Wickelballensilage und Schlauchsilos, sofern der Trockensubstanzgehalt des Siliergutes mindestens 30 Prozent beträgt
+3.11 | Errichten oder Erweitern von Anlagen zum Lagern und Abfüllen von Dung und Silagesickersäften | V | b: | außerhalb von dauerhaft dichten Anlagen, die mindestens die Anforderungen gemäß Nummer 7 der Anlage zu § 6 Abs. 1 der Verordnung des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft über Anforderungen an Anlagen zum Lagern und Abfüllen von Dung und Silagesickersäften (Sächsische Dung- und Silagesickersaftanlagenverordnung – SächsDuSVO) vom 26. Februar 1999 (SächsGVBl. S. 131) erfüllen müssen, verboten. Erdbecken, unterirdische Behälter aus Stahl und Stahlbehältern mit Frostanschüttung sowie Holzbehälter sind verboten
+3.12 | Beweidung | V: | ausgenommen in Schutzzone II B von Trinkwassertalsperren, sofern die Bestimmungen der Schutzzone III eingehalten werden | b: | wenn die Beweidung nicht zu einer Zerstörung der Grasnarbe führt, es sei denn, es handelt sich um Kahlstellen im engen Bereich um Tränken und Tore sowie witterungsbedingt kleinflächige Trittschäden (Bagatellschäden)
+3.13 | Beweidung | b: | wenn die Beweidung nicht zu einer Zerstörung der Grasnarbe führt, es sei denn, es handelt sich um Kahlstellen im engen Bereich um Tränken und Tore sowie witterungsbedingt kleinflächige Trittschäden (Bagatellschäden)
+3.14 | Errichten oder Erweitern von Anlagen zur erwerbsmäßigen Tierhaltung | V | b: | wenn die ordnungsgemäße Lagerung und Ausbringung der anfallenden Dungstoffe gewährleistet ist und eine Gewässergefährdung durch Schutzvorkehrungen verhindert werden kann
+3.15 | Verhinderung einer Begrünung der Bodenoberfläche durch wiederholte Bodenbearbeitung (Schwarzbrache) | V: | soweit nicht nach Nummer 2.5 zugelassen
+3.16 | Nasskonservierung von Rundholz | V | V: | erlaubt ist die Beregnung von unbehandeltem Stammholz, wenn das benutzte Gewässer anschließend nicht die engere Schutzzone oder Fassungszone passiert
+3.17 | Behandlung von Stammholz mit Insektiziden und Fungiziden | b: | nach Maßgabe der Pflanzenschutz-Anwendungsverordnung und wenn Abschwemmungen in Gewässer nicht zu besorgen sind
+3.18 | Vergraben und Ablagern von Tierkörpern und Tierkörperteilen | V | V
+3.19 | Viehtrieb an und durch oberirdische Gewässer | V | V

@@ -4,7 +4,7 @@ I. Allgemeines
 Für die Feststellung, ob in einem Wasserschutzgebiet erhöhte Anforderungen gegenüber einer ordnungsgemäßen land- und forstwirtschaftlichen Nutzung eines Grundstücks eine Ausgleichspflicht nach § 19 Abs. 4 WHG begründen, ist ein Vergleich der Anforderungen an die land- und forstwirtschaftliche Nutzung innerhalb eines Wasserschutzgebietes mit solchen Anforderungen, die außerhalb des Wasserschutzgebietes bei gleicher Lage und Situation gestellt werden, durchzuführen. Dabei ist die Gesamtheit der auch außerhalb eines Wasserschutzgebietes geltenden gesetzlichen Anforderungen, insbesondere die
 1. des Wasserhaushaltsgesetzes und des Sächsischen Wassergesetzes,
 2. der Düngeverordnung,
-3. des Gesetzes zum Schutz von Kulturpflanzen (Pflanzenschutzgesetz – PflSchG) in der Fassung der Bekanntmachung vom 14. Mai 1998 (BGBl. I S. 971), zuletzt geändert durch Artikel 14 des Gesetzes vom 25. Juni 2001 (BGBl. I S. 1215, 1217),
+3. des Gesetzes zum Schutz von Kulturpflanzen ( Pflanzenschutzgesetz – PflSchG) in der Fassung der Bekanntmachung vom 14. Mai 1998 (BGBl. I S. 971), zuletzt geändert durch Artikel 14 des Gesetzes vom 25. Juni 2001 (BGBl. I S. 1215, 1217),
 4. des Gesetzes zur Erhaltung des Waldes und zur Förderung der Forstwirtschaft ( Bundeswaldgesetz) vom 2. Mai 1975 (BGBl. I S. 1037), zuletzt geändert durch Artikel 40 des Gesetzes vom 25. Juni 2001 (BGBl. I S. 1215, 1220), und des Sächsischen Waldgesetzes
 sowie die allgemeinen Regeln einer ordnungsgemäßen Landwirtschaft und die jeweiligen Standortbedingungen zu beachten. Die Anforderungen an eine ordnungsgemäße Forstwirtschaft ergeben sich insbesondere aus dem Sächsischen Waldgesetz.
 II. Ausgleichstatbestände und Berechnungsgrundlagen für die Einhaltung der Schutzbestimmungen nach Anlage 1
