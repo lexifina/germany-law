@@ -1,1 +1,0 @@
-Erster Abschnitt Wahlberechtigung, Wählbarkeit

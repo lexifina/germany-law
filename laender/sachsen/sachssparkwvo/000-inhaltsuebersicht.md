@@ -29,6 +29,7 @@ Dritter Abschnitt Wahlen in besonderen Fällen
 § 25 Neubildung
 § 26 Aufnahme
 § 27 Wahlen bei neuerrichteten Sparkassen
+§ 27 a Nachwahl bei Erhöhung der Zahl der Verwaltungsmitglieder
 Vierter Abschnitt Übergangs- und Schlußbestimmungen
 § 28 Fristen
 § 29 Überleitung von Verfahren
