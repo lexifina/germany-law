@@ -1,0 +1,140 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2004-05-27T17:30:00+02:00
+- Ende: 2004-05-27T22:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=653
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=653
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=41412
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - erledigt
+- TOP 3: Thematische Stunde - (offen)
+- TOP 3.1: Quartiersmanagement im Bezirk Mitte - beantwortet
+- TOP 3.2: "Soziale Stadt" auf neuen Wegen? - beantwortet
+- TOP 3.3: Wie weiter mit Mittes Gebieten mit besonderem Entwicklungsbedarf? - beantwortet
+- TOP 3.4: Soziale Stadtentwicklung zu einem Kern bezirklichen Handelns machen - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfrage - (offen)
+- TOP 4.1: Jugendolympiade 2004 - beantwortet
+- TOP 4.2: Arbeitsfähige Sozialhilfeempfangende - beantwortet
+- TOP 4.3: Licht aus im Max-Beckmann-Saal - beantwortet
+- TOP 4.4: Abtragung des Südwalls am zentralen Festplatz - beantwortet
+- TOP 4.5: Folgen durch Entfall des Ateliersofortprogramm - beantwortet
+- TOP 5: Dringlichkeitsanfrage - (offen)
+- TOP 6: Große Anfrage - (offen)
+- TOP 6.1: Grundschule "Neues Tor": Sanierungschaos? - beantwortet
+- TOP 6.2: Ökomarkt Hackescher Markt - beantwortet
+- TOP 6.3: Ausbildungsplatzabgabe und ihre Folgen - beantwortet
+- TOP 6.4: Bürgerhaushalt - Ein Pilot und sein Projekt stürzen ab - beantwortet
+- TOP 6.5: Milieuschutzgebiete - beantwortet
+- TOP 6.6: Ausgabensteigerung bei den entgeltfinanzierten Betreuungsleistungen - schriftlich beantwortet
+- TOP 6.7: Mitte Spitze bei Schulschwänzern? - schriftlich beantwortet
+- TOP 6.8: Zu: Vermittlung von Alleinerziehenden in Arbeit - schriftlich beantwortet
+- TOP 6.9: Übertragung der bezirklichen SeniorInnen-Freizeitstätten - schriftlich beantwortet
+- TOP 6.10: Bezirkliches Ordnungsamt - schriftlich beantwortet
+- TOP 6.11: Ordnung oder Unordnung durch das neue Ordnungsamt - schriftlich beantwortet
+- TOP 6.12: Mietpreisentwicklung im sozialen Wohnungsbau/ Auswirkung auf Empfänger von HzL. - schriftlich beantwortet
+- TOP 6.13: Bauvorhaben am Bahnhof Jannowitzbrücke - schriftlich beantwortet
+- TOP 6.14: Grundstücksbrachen - schriftlich beantwortet
+- TOP 7: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Bebauungsplanentwurf III-212 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-212 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Änderung der Bezirksgrenze im Bereich der Schillingbrücke (Spreeport) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Änderung der Bezirksgrenze im Bereich des Bethaniendammes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Lehrkräfte für allgemeinbildende Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Die Sanierung der Grundschule am Neuen Tor transparent machen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Antrag - (offen)
+- TOP 11.1: Benennung nach Dr. Ulrich Biel - in der BVV abgelehnt
+- TOP 11.2: Online-Angebot für Sozialhilfeempfangende unterstützen! - überwiesen
+- TOP 11.3: Wirtschaftliche Entwicklung am Hackeschen Markt stärken - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Qualitätsverbesserung in den Bürgerämtern durch geschlechtsspezifische Beratung - überwiesen
+- TOP 11.5: Erhalt des Ateliersofortprogramms - in der BVV zurückgezogen
+- TOP 11.6: Offene Mieterberatung - überwiesen
+- TOP 11.7: Sicherer Übergang für Kinder in der Oranienburger Straße - in der BVV zurückgezogen
+- TOP 11.8: Linoleum-Odyssee endlich beenden - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sanierungszeitung - überwiesen
+- TOP 11.10: Energie- und Ressourchenmanagement konsequent fortentwickeln - überwiesen
+- TOP 11.11: Weg mit dem Sand im Getriebe - Bürokratie vereinfachen - überwiesen
+- TOP 11.12: Vorbereitung des Eigenbetriebes Kita - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Spieglein, Spieglein an den Rand - Mittes Fahrzeuge fahren am sichersten im ganzen Land - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag/Beschlussempfehlung - (offen)
+- TOP 12.1: Fahrgelderstattung für Sozialhilfeempfangende im Ehrenamt - erledigt
+- TOP 12.2: Sozialhilfeausweis - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Projekt des gesunden Städtenetzwerks - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Sicherung des Gesamtkunstwerkes Ostteil Großer Tiergarten - in der BVV abgelehnt
+- TOP 12.5: Sanierung des Tribünengebäudes im Poststadion unterstützen! - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlage zur Kenntnisnahme - (offen)
+- TOP 13.1: Drogenkonsumräume - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.2: Straßenbenennung nach Yitzak Rabin
+- TOP 13.3: Koordinierung des Angebots des Nachtcafés
+- TOP 13.4: Dezentrales Konzept zur Betreuung Wohnungsloser
+- TOP 13.5: Zukunft der ´ehemaligen´ Weddinger Seniorenwohnheime
+- TOP 13.6: Ausbau des Westhafens zu einem Güterverkehrssubzentrum/ alt Drucksachen Nr. I/208 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.7: Umsetzung des Armutsberichts
+- TOP 13.8: Trägerwechsel LHO-Betrieb Weddinger Senioreneinrichtungen hier: Seniorenheime Graunstraße 13 und Schwyzer Straße 7 ( BA-Beschluss Nr. 185/II)
+- TOP 13.9: Trägerwechsel LHO-Betrieb Weddinger Senioreneinrichtungen; hier: Seniorenheim Schulstraße 97 (BA-Beschluss Nr. 359/II)
+- TOP 13.10: Einführung der Parkraumbewirtschaftung Müllerstraße alt: Drucksachen Nr. XVI/161 (Wedding)
+- TOP 13.11: Bericht über Drogenkonsumräume/ alt Drucksachen Nr. I/ 537
+- TOP 13.12: Umgestaltung des Schul- und Sportgeländes Neues Ufer
+- TOP 13.13: Schulwegsicherung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.14: Räumlichkeiten für Heimatverein Tiergarten e.V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.15: Bebauungsplan II-141a, Sicherung der Wohnnutzung für die Grundstücke Lützowufer 20-23, Lützowplatz 2/ 18 und Wichmannstraße 1-3 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.16: Familie und oder Beruf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.17: Keine Aufweichung des Baumschutzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.18: Bürgerbeteiligung erweitern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.19: Umweltbildungsangebote für Zuwanderer - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.20: Bestmögliche Umsetzung des Sprachförderkonzeptes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.21: Keine Übertragung des Tarifabschlusses auf die Beschäftigten nach § 19 Abs. 2 Bundessozialhilfegesetz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.22: Lernstatt im Wohnbezirk e.V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.23: Heimüberprüfung nach dem Heimgesetz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.24: Berlin-Kolleg am neuen Standort?! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.25: Umzug des Berlin-Kollegs - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.26: Keine Streichung des kostenlosen AIDS-Tests (HIV-Test) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.27: Wiedereinführung des Sozialtickets - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.28: Wegfall der Zuschüsse zur Kranken- und Rentenversicherung der freiberuflichen Mitarbeiter/innen der Volkshochschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.29: Im Doppelhaushalt 2004/2005 eingestellte Mittel "Zuschüsse für kulturelle Aktivitäten freier Gruppen" Titel 686 10, Kapitel 3721, in Höhe von je 25.000 € - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.30: Temporäre Schließung von Bädern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.31: Vergabe von Gutachten, Studien u.ä. öffentlich machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.32: Werbung auf bezirkseigenen Fahrzeugen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.33: Erhalt des Beschäftigungsprojekts bei BOA e.V. - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.34: Mehrkosten durch den Wegfall des Sozial-Tickets - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.35: Umnutzung des ehemaligen BVV-Saales Müllerstraße 147 (Neubau) und notwendige Investitionsmaßnahmen im Zusammenhang mit dem zukünftigen Ausbau des darunter liegenden sog. Luftgeschosses zu einem leistungsstarken Bibliotheksstandort - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.36: Galeria Kaufhof - Verkaufszelt Alexanderplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.37: Sportanlage am Nordbahnhof in die I-Planung 2004-2008 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.38: Abweisung wohnungsloser kranker Menschen durch Krankenhäuser - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.39: Kein zentraler Landesbetrieb! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.40: Zusammenfassung der Spielplatzentwicklungspläne der Altbezirke alt: Drucksache Nr. I/536 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.41: Beschluss über das Ergebnis der Beteiligung der Träger öffentlicher Belange zum Bebauungsplanentwurf III-241 und der Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.42: Parkraumbewirtschaftungskonzept Bereich Potsdamer Platz und Tiergarten Süd - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.43: Anwendung der fortgeschriebenen Mietobergrenzen für das Erhaltungsgebiet "Friedrich-Wilhelm-Stadt" in Berlin-Mitte. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.44: Umsetzung der Verkehrs- und Straßengestaltungsstudie Spandauer Vorstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.45: "Leitlinien für die Integration" des Beirats für MigrantInnen und Flüchtlinge - Ausländerbeirat - beim Bezirksamt Mitte von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.46: Beschluss über die Durchführung der öffentlichen Auslegung des zum Bebauungsplanentwurf III-217 gem. § 3 Abs. 2 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.47: Rücknahme einer Änderung der Geschäftsordnung des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.48: Aufstellung des Bebauungsplans 1-20 im Bezirk Mitte, Ortsteil Tiergarten sowie die Durchführung der Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.49: Betriebliche Abfallwirtschaft 2003 im Bezirksamt Mitte von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.50: Beschluss über das Ergebnis der frühzeitigen Bürgerbeteiligung des Bebauungsplans 1-13, und Änderung des Titels und die Durchführung der Trägerbeteiligung gemäß § 4 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.51: Beschluss über das Ergebnis der frühzeitigen Bürgerbeteiligung des Bebauungsplan 1-6, und Änderung des Titels und die Durchführung der Trägerbeteiligung gemäß § 4 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.52: Beschluss über das Ergebnis der frühzeitigen Bürgerbeteiligung des Bebauungsplans 1-3. die Änderung des Titels und die Durchführung der Trägerbeteiligung gemäß § 4 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.53: Liegenschaftsfonds alt: Drucksache Nr. I/32 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.54: Konzept zur Entwicklung kommunaler Jugendfreizeiteinrichtungen alt: Drucksache Nr. I/190 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.55: Kriterien für den Begriff "Gesamtstädtische Bedeutung" alt: Drucksache Nr. I/197 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.56: Planwerk Innenstadt - keine verbindliche Vorgabe für die Bezirke alt: Drucksache Nr. I/201 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.57: Übertragung der Kindertagesstätte Lützowstraße 61 a an den freien Träger "INA.KINDER.GARTEN g GmbH" am 01.08.2004 durch Nutzungsvertrag - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.58: Übertragung der Kindertagesstätte Lüneburger Straße 14 an den freien Träger "INA.KINDER.GARTEN g GmbH" am 01.06.2004 durch Nutzungsvertrag - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.59: Beschluss über die Durchführung der öffentlichen Auslegung gemäß § 11 (6) Berliner Naturschutzgesetz (NatschGBln) für den Landschaftsplan I-L-1 Rosenthaler Vorstadt/ Vor den Toren zu Festsetzung des Biotopflächenfaktors (BFF) im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.60: Beschluss über das Ergebnis der Beteiligung der Träger öffentlicher Belange gem. § 10 (2) Berliner Naturschutzgesetz (NatSchGBln) und die Durchführung der öffentlichen Auslegung gem. § 11 (6) NatSchGBln für den Landschaftsplan I-L-2 Spandauer Vorstadt zur Festsetzung des Bioflächenfaktors (BFF) im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.61: Standardisierte Untersuchungen der Deutschkenntnisse alt: Drucksache Nr. I/304 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.62: Konfliktlotsen an Oberschulen alt: Drucksache Nr. I/393 - mit Abschlussbericht zur Kenntnis genommen
