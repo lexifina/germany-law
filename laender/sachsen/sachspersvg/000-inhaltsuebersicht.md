@@ -73,7 +73,7 @@ Siebenter Teil Besondere Vertretungen
 § 66 Ausbildungsbeirat
 § 67 Schulen und Lehrkräfte
 § 68 Polizei
-§ 69 Theater und Bühnen
+§ 69 aufgehoben
 § 70 Staatliche Forstverwaltung
 Achter Teil Beteiligung der Personalvertretungen
 § 71 Zusammenarbeit
@@ -85,8 +85,8 @@ Achter Teil Beteiligung der Personalvertretungen
 § 77 Mitwirkungsrechte
 § 78 Ordentliche Kündigung
 § 79 Verfahren der Mitbestimmung
-§ 80 Fälle der Mitbestimmung
-§ 81 Fälle der eingeschränkten Mitbestimmung
+§ 80 Mitbestimmung in Angelegenheiten der Angestellten und Arbeiter und in sonstigen allgemeinen Angelegenheiten
+§ 81 Mitbestimmung in Angelegenheiten der Beamten und in sonstigen allgemeinen Angelegenheiten
 § 82 Einschränkung der Mitbestimmung, Versagungsgründe
 § 83 Initiativrecht
 § 84 Dienstvereinbarungen- Tarifverträge
