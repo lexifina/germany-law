@@ -1,0 +1,2 @@
+# Eingangsformel
+Auf Grund des § 7 Abs. 3 des Bremischen Lehrerausbildungsgesetzes vom 2. Juli 1974 (Brem.GBl. S. 279 - 221-i-1), das zuletzt durch Artikel 1 des Gesetzes vom 4. August 1998 (Brem.GBl. S. 221) geändert worden ist, in Verbindung mit § 61 Abs. 1 und 2 des Bremischen Hochschulgesetzes in der Fassung der Bekanntmachung vom 11. Juli 2003 (Brem.GBl. S. 295 - 221-a-1) verordnet der Senat:
