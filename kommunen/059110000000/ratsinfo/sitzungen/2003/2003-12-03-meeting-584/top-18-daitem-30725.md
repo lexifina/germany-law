@@ -1,0 +1,6 @@
+# TOP 18: Entwicklung der Fallzahlen in der Grundsicherung
+
+- Sitzung: Seniorenbeirat (2003-12-03)
+- Körperschaft: Stadt Bochum
+- Öffentlich: ja
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/30725
