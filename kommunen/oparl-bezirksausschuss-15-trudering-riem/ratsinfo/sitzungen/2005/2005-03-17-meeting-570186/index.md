@@ -1,0 +1,147 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2005-03-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/570186
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/570186
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 0.1.1: Genehmigung der Niederschrift der BA-Sitzung vom 24.02.05
+- TOP 1.1.: Widmung der Gesamtstrecke der Elisabeth-zu-Guttenberg-Straße
+- TOP 1.2.: Widmung der Gesamtstrecken der Elisabeth-Dane-Straße und Caroline-Herschel-Str.
+- TOP 1.3.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 15 des Männergesangsverein Liederkranz Trudering
+- TOP 1.4.: Bau eines Fußweges in der Xaver-Weismor-Straße, Empfehlung Nr. 23 der BV vom 10.11.04
+- TOP 1.5.: Am Mitterfeld, Fuß- und Radweg an der Westseite zwischen Friedhof Riem und Riemer Straße, Empfehlung Nr. 24 der BV vom 10.11.04
+- TOP 2.1.: Einladung der Bürgerinitiative gegen die Nordostverbindung e.V. zur Jahreshauptversammlung am 10.03.05
+- TOP 2.2.: Ablehnung der Umbenennung der L.-v.-Trotha-Str., H.-v.-Wissmann-Str., K.-v.-Gravenreuth-Str., und H.-Dominik-Str.
+- TOP 2.3.: Buslinienführung in Waldtrudering, insbes. Buslinie 192 und 146
+- TOP 2.4.: Parksituation in der Turnerstr. 43 ? 47
+- TOP 2.5.: Bitte des Verein für selbstbestimmtes Leben e.V., fehlende Briefkästen und Portoautomaten in der Messestadt Riem zu installieren
+- TOP 2.6.: Unfallgefahr durch die gebräuchliche Art der Gehsteigabsenkung bei Grundstückseinfahrten
+- TOP 2.7.: Errichtung von Behindertenparkplätzen vor dem Anwesen Erika-Cremer-Str. 5 Antrag Nr. 1944 des BA 15 vom 18.03.04 (TOP 2.8/03/04)
+- TOP 2.8.: Fahrgastfreundliches Beschleunigen und Abbremsen von S-Bahnen, Trambahnen und Bussen, Antrag Nr. 2472 des BA 15 vom 21.10.2004
+- TOP 2.9.: Preisgestaltung bei den Warenautomaten
+- TOP 2.10.: Bürgerschaftliche Nutzung für das alte Riemer Feuerwehrhaus; Antrag Nr. 1936 des BA 15 vom 18.03.2004 (TOP 3.14/06/04, 3.3/12/04) ? Schreiben der Maibaumfreunde
+- TOP 2.11.: Weitere Wertstoffcontainerplätze für die Messestadt Riem, Schreiben des Arbeitskreises Ökologie
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Präsentation der Einzelhandelsstudie in Trudering-Riem; Antrag Nr. 1846 des BA 15 Trudering-Riem (TOP 3.20/10/04, TOP 10.23/09/04, TOP 3.12/06/04), siehe auch TOP 10.2/03/05
+- TOP 3.3.: A) Bebauungsplan mit Grünordnung Nr. 1958 Haffstraße (östlich) Wasserburger Landstraße (südlich) St.-Augustinus-Straße (nördlich), Teiländerung des Bebauungsplanes Nr. 794 a, 2.Billigungsbeschluss B) Unabhängiges Lärmgutachten für die Haffstraße / Antrag Nr. 2690 d. BA 15 v. 16.12.04
+- TOP 3.4.: Wie überlastet sind die Truderinger Straßen?, Antrag Nr. 2484 des BA 15 vom 21.10.2004
+- TOP 3.5.: Verlängerung des Rappenwegs (Antrag Nr. 2473 vom 21.10.2005), ergänzendes Schreiben vom 22.12.2004
+- TOP 3.6.: Systembauten für Kindergärten und Schulen in Trudering-Riem (Antrag Nr. 2695 vom 16.12.2004)
+- TOP 3.7.: Hygienische Untersuchung des Gymnastikraumes der Forellenschule, Antrag Nr. 2489 des BA 15 vom 21.10.2004
+- TOP 3.8.: Friedhof Riem ? Fragen zu Einzugsbereich und Grabkauf, Antrag Nr. 2628 d. BA 15 v. 25.11.2004
+- TOP 3.9.: Kein Christbaum-Entsorgungschaos mehr in der Messestadt, Antrag Nr. 2580 d. BA 15 v. 25.11.2004
+- TOP 3.10.: Früchtemarkt an der Ecke Kreiller-/ Damaschkestraße, Antrag Nr. 2608 d. BA 15 v. 25.11.2004
+- TOP 3.11.: Von Weyarn lernen: oder wie Bürgerbeteiligung wirklich funktioniert, Antrag Nr. 2719
+- TOP 3.12.: Öffentliche Informationsveranstaltung zum Messepark, Antrag Nr. 2394 des BA 15 vom 23.09.2004
+- TOP 3.13.: Besucherrückgang auf der Heim- und Handwerk 2004 - eine Folge des geänderten Vorverkaufssystems?
+- TOP 3.14.: TOPBUS-Erfahrungen rasch offen legen, Antrag Nr. 2686 des BA 15 vom 16.12.2004
+- TOP 3.15.: Einführung von kostenlosen Parktickets für MVV Pendler an P&R Anlagen, Antrag Nr. 2400 des BA 15 vom 23.09.2004
+- TOP 3.16.: Senkung des MVG-Ausbildungstarifes I, Antrag Nr. 2696 d. BA 15 v. 16.12.2004
+- TOP 3.17.: Private Abwasserleitung kostengünstig sanieren ? wie steht die Stadt dazu? Antrag Nr. 2694 des BA 15 vom 16.12.04 (TOP 4.12/12/04)
+- TOP 3.18.: Klärung verschiedener Baumfällungen, Antrag Nr. 2564 des BA 15 vom 25.11.2004
+- TOP 3.19.: Schwerlastverkehr in der Halfinger Straße, Antrag Nr. 2345 des BA 15 vom 29.07.04 (TOP 2.16/09/04, 3.23/10/04, 2.2./12/04)
+- TOP 4.1.: Bänke entlang des Horst-Salzmann-Weges
+- TOP 4.2.: Internetseite für Kinderbetreuung
+- TOP 4.3.: Kennzeichnung bei Änderungen von Anhörungen
+- TOP 4.4.: Defibrillator an der U-Bahn Messestadt West
+- TOP 4.5.: Bessere Wegbeschreibung der Behindertentoilette U-Bahn Messestadt West
+- TOP 4.6.: Verzicht auf kurzfristige Zwangsräumung der Bauwagensiedlung auf dem Gnadenacker
+- TOP 4.7.: Abstimmung der Elterninfoabende der Münchner Schulen mit den Nachbargemeindeschulen
+- TOP 4.8.: Information zu den Ausleihzahlen der Stadtbüchereien
+- TOP 4.9.: Sozialwohnungsbelegung in Riem
+- TOP 4.10.: Das Projekt ?Gnadenacker? umfassend bewerten
+- TOP 5.1.: Lärmschutz im Bereich Truchtari-Anger, Empfehlung Nr. 25 der BV vom 10.11.2004
+- TOP 5.2.: Neue Form der Feste junger Erwachsener
+- TOP 5.3.: Errichtung einer Plakatanschlagtafel ? beleuchtet - , Bajuwarenstr. 118, Fl.Nr. 334/45, Gemarkung Trudering
+- TOP 5.4.: Beleuchtung für drei bestehende Plakatanschlagtafeln, Bajuwarenstr. 1
+- TOP 6.1.: Zuschauertribüne für die Dreifachsporthalle Messestadt Ost, Antrag Nr. 2611 des BA 14 vom 30.11.2004, Empfehlung Nr. 26 der BV d. BA 15 vom 10.11.2004
+- TOP 6.2.: Maßnahmen gegen das Abstellen von Anhängern und Fahrzeugen auf öffentl. Verkehrsgrund, Empfehlung Nr. 28 der BV vom 10.11.04,
+- TOP 6.3.: Baumschutz bei städt. Baumaßnahmen, Empfehlung Nr. 29 der BV vom 10.11.04
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.1.1: Spielplatz an der Wasserburger Landstraße (2.10/11/04, 7.1.2/01/05)
+- TOP 7.1.2: Zukunft der Arbeitsgruppe Obdachlosigkeit und des Beraterkreises für die Sanierung der städtischen Unterkünfte
+- TOP 7.7.2: UA Planung:
+- TOP 7.1.1: Bebauungsplan Westlich: Heimstettener Weg/Südlich: Alpenstraße
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.1.1: Fehlende Radverkehrsanbindung der BUGA
+- TOP 7.1.2: TOPBUS Treffen mit MVG
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.1.1: Zuschussgewährung Bürgerzentrum Trudering e.V. für Einrichtung einer Teeküche, Antwortschreiben des Direktoriums
+- TOP 7.1.2: Antrag des Bürgerzentrums Trudering e.V. auf Gewährung eines Zuschusses aus dem BA Budget i.H.v. 2.014,64 Euro für Büroausstattung
+- TOP 7.1.3: Antrag des Bürgerzentrums Trudering e.V. auf Gewährung eines Zuschusses aus dem BA Budget i.H.v. 2.505,97 Euro für Künstlergarderobe
+- TOP 7.1.4: Antrag des Bürgerzentrums Trudering e.V. auf Gewährung eines Zuschusses aus dem BA Budget i.H.v. 3.151,24 Euro für Gebäudeausstattung
+- TOP 7.1.5: Antrag des Bürgerzentrums Trudering e.V. auf Gewährung eines Zuschusses aus dem BA Budget i.H.v. 2.156,38 Euro für Mediaausstattung
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 8.1.: Entscheidung gegen das Votum des Bezirksausschusses: Sulzer-Belchen-Weg 12, Neusönnerstr.16, Karpatenstr.7a, Iltisstr.45 Fällung von Stadteigenen Gefahrenbäumen: In der Heulus / Ecke Togostr., In der Heulus, gegenüber Haus Nr. 2, In der Heuluss gegenüber Haus Nr. 4, In der Heuluss gegenüber Haus Nr. 9
+- TOP 8.2.: Damaschkestr. 20
+- TOP 8.3.: Gerstäckerstr. 110 und 112
+- TOP 8.4.: Friedenspromenade 45
+- TOP 8.5.: Birkhahnweg 49
+- TOP 8.6.: Jagdhornstr. 24
+- TOP 8.7.: Kranichweg 29
+- TOP 8.8.: Großfriedrichsburger Str. 28 a
+- TOP 8.9.: Togostraße 40
+- TOP 8.10.: Frauenalpweg 6
+- TOP 8.11.: Heinrich-Wieland-Str.
+- TOP 8.12.: Iltisstraße 45
+- TOP 8.13.: Birkhahnweg 31
+- TOP 8.14.: Batschkastr.25
+- TOP 8.15.: Wasserburger Landstr. 274
+- TOP 8.16.: Eisvogelweg 31
+- TOP 8.17.: Truderingerstr.271
+- TOP 8.18.: Kathreinweg 10
+- TOP 9.1.: Termine/Mitteilungen des BA-Vorsitzenden, Bekanntgabe UA-Termine
+- TOP 9.2.: Rasche Verbesserung der Kindergartensituation in Kirchtrudering
+- TOP 9.3.: Anpassung des städt. Kindergartenversorgungsziels
+- TOP 9.4.: Ansprechpartner des Ausländerbeirates für Bezirksausschüsse
+- TOP 9.5.: Budget der Bezirksausschüsse ? Jahresrückblick 2004
+- TOP 9.6.: Finanzplan 2004 - 2008
+- TOP 9.7.: München ? Der Wirtschaftsstandort
+- TOP 9.8.: 41. Münchner Kinder- und Jugendforum ?Bäume sind zum Klettern da!?
+- TOP 9.9.: Niederschrift über den Augenscheintermin und die mündl. Verhandlung vom 21.02.05 über die hinterleuchtete Wechselwerbeanlage auf Monofuß auf der Riemer Str.270
+- TOP 9.10.: Neues Busnetz ? Einladung zur abschließenden Manöverkritik
+- TOP 10.1.: Bebauungsplan mit Grünordnung Nr. 1958 Haffstraße (östlich) Wasserburger Landstraße (südlich) St.-Augustinus-Straße (nördlich), Billigungsbeschluss
+- TOP 10.2.: Fortschreibung des Zentrenkonzepts: Entwicklungsperspektiven für den Einzelhandel, siehe TOP 3.2/03/05
+- TOP 10.3.: Wohnen in München, III ? Wohnungsbauprogramm 2005/2006, Zustimmung zu den Maßnahmen
+- TOP 10.4.: Bauträgerauswahl für die Baugrundstücke des kommunalen Wohnbauprogramms, Teilprogramm für Benachteiligte am Wohnungsmarkt (KomPro/B)
+- TOP 10.5.: Auswirkungen der Lkw-Maut auf München, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.05
+- TOP 10.6.: Zuschussnehmerdatei 2005 Vollzug des Haushaltsplanes 2005 für den Bereich ?Förderung freier Träger? des Sozialreferates/Zentrale Beschluss des Kinder- und Jugendhilfeausschusses, des Sozialhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.03.05
+- TOP 10.7.: Sponsoring bei der Landeshauptstadt München
+- TOP 10.8.: Antrag auf Gewährung eines Zuschusses für die städt. Sing- und Musikschule (TOP 1.1 vom 24.02.05)
+- TOP 10.9.: Fördern und fordern: Musikunterricht für arme, begabte Kinder, Antrag Nr. 2401 des BA 15 vom 23.09.2004
+- TOP 10.10.: Baumfällungen und Baumpflanzungen im öffentlichen Grün, Bekanntgabe des Bauausschusses vom 08.03.05
+- TOP 10.11.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem Widmung der Gesamtstrecke der Lehrer-Wirth-Str., Maria-Montessori-Str., Erika-Cremer-Str., Beschluss des BA 15 vom 27.01.05
+- TOP 10.12.: Bebauungsplan Nr. 1952 ? Messestadt Riem, Werbeanlagen
+- TOP 10.13.: Unveränderte Fortführung der Schank- und Speisewirtschaft ?König Ludwig an der Messe?, Willy-Brandt-Platz 5
+- TOP 10.14.: Unveränderte Fortführung der Schank- und Speisewirtschaft ?Amici Miei?, Am Mitterfeld 3
+- TOP 10.15.: Unveränderte Fortführung der Schank- und Speisewirtschaft ?Happy Haus?, Schatzbogen
+- TOP 10.16.: MVV-Vorverkaufsstellen in Trudering-Riem und ihr Angebotsumfang; Antrag Nr. 1477 vom 18.09.2003 Verweisung in den UA Bau und Verkehr in der Sitzung am 23.09.2004 (TOP 3.22/09/04, 7.3/10/04, 9.2/02/05) ? Schreiben der BAG West
+- TOP 10.17.: Zweckentfremdung von Wohnraum, Karotschstr. 10
+- TOP 10.18.: Zweckentfremdung von Wohnraum, Niobestr. 24
+- TOP 10.19.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderung zu genehmigten Bauvorhaben vom 14.02.05 ? 27.02.05
+- TOP 10.20.: Samstagsöffnung für Stadtbücherei, Antrag Nr. 2753 des BA 15 (TOP 4.6/01/05)
+- TOP 10.21.: Einführung von kostenlosen Parktickets für MVV Pendler an P&R Anlagen, Antrag Nr. 2400 des BA 15 vom 23.09.2004 (TOP 4.5/09/04)
+- TOP 10.22.: Pressespiegel Bundesgartenschau Januar/Februar 2005, Schwerpunkte: Count Down, Kunst, Kultursommer, Weltreligionen
+- TOP 10.23.: Zweckentfremdung von Wohnraum, Ottilienstr. 35
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
