@@ -1,4 +1,4 @@
-# TOP 2.2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+# TOP 2.2.: Sanierung der Drainage des Aschesportplatzes in Freialdenhoven
 
 - Sitzung: Gemeinderat (2001-10-25)
 - Körperschaft: Gemeinde Aldenhoven
