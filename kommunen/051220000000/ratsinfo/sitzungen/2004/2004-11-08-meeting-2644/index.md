@@ -1,0 +1,89 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2004-11-08T16:00:00+01:00
+- Ende: 2004-11-08T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZdEwTvjp68CnyCc-89ejTD0
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/2644
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZWDLYFAHkyyd5LyjiBYjW05rV3jJZuuvZpry4M4u_fT/Oeffentliche_Niederschrift_Rat_08.11.2004.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Antrag von Solingen AKTIV vom 12.10.2004
+- TOP 2: Besetzung der Ausschüsse
+- TOP 3: Neubildung des Jugendhilfeausschusses für die Wahlperiode 2004 bis 2009
+- TOP 4: IV. Satzung zur Änderung der Hauptsatzung der Stadt Solingen
+- TOP 5: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 6: Zusammenlegung von Arbeitslosenhilfe und Sozialhilfe
+- TOP 7: Zusammenlegung von Arbeitslosenhilfe und Sozialhilfe gemäß dem Vierten Gesetz für moderne Dienstleistungen am Arbeitsmarkt - hartz IV - (SGB II)
+- TOP 8: Zusammenlegung von Arbeitslosenhilfe und Sozialhilfe gemäß dem Vierten Gesetz für moderne Dienstleistungen am Arbeitsmarkt - Hartz IV - (SGB II)
+- TOP 9: Zusammenlegung von Arbeitslosenhilfe und Sozialhilfe gemäß dem Vierten Gesetz für moderne Dienstleistungen am Arbeitsmarkt - Hartz IV - (SGB II)
+- TOP 10: Zusammenlegung von Arbeitslosenhilfe und Sozialhilfe gemäß dem Vierten Gesetz für moderne Dienstleistungen am Arbeitsmarkt - Hartz IV - (SGB II)
+- TOP 11: Antrag der Ratsfraktion Bündnis 90/Die Grünen - offene Liste
+- TOP 12: Zusammenlegung von Arbeitslosenhilfe und Sozialhilfe gemäß dem Vierten Gesetz für moderne Dienstleistungen am Arbeitsmarkt - Hartz IV - (SGB II)
+- TOP 13: Zusammenlegung von Arbeitslosenhilfe und Sozialhilfe gemäß dem Vierten Gesetz für moderne Dienstleistungen am Arbeitsmarkt - Hartz IV - (SGB II)
+- TOP 14: Zusammenlegung von Arbeitslosenhilfe und sozialhilfe gemäß dem Vierten Gesetz für moderne Dienstleistungen am Arbeitsmarkt - Hartz IV - (SGB II)
+- TOP 15: Stadt-Sparkasse Solingen
+- TOP 16: Stadt-Sparkasse Solingen
+- TOP 17: Regionalrat der Bezirksregierung Düsseldorf
+- TOP 18: Kommunale Arbeitsgemeinschaft Bergisch Land e.V. (KAG)
+- TOP 19: Duplikat von Bergisch-Rheinischer Wasserverband
+- TOP 20: Technische Akademie Wuppertal e.V.
+- TOP 21: Bergische Universität Wuppertal
+- TOP 22: Besetzung des Polizeibeirates für den Kreispolizeibezirk Wuppertal
+- TOP 23: Lokaler Beirat zur Regionale 2006
+- TOP 24: Lokalfunk Radio RSG
+- TOP 25: Lokalfunk Radio RSG
+- TOP 26: Kuratorium "Die Schärfste Klinge"
+- TOP 27: Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen
+- TOP 28: GVV-Kommunalversicherung VVaG
+- TOP 29: Kommunaler Schadenausgleich westdeutscher Städte (KSA)
+- TOP 30: Feuerschadengemeinschaft kreisfreier Städte Rheinlands und Westfalens (FSG)
+- TOP 31: Sanierungsgesellschaft Südliche Innenstadt Solingen Verwaltungs-GmbH
+- TOP 32: Sanierungsgesellschaft Südliche Innenstadt mbH & Co. KG
+- TOP 33: Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 34: Wirtschaftsförderung Solingen GmbH & Col KG
+- TOP 35: Wirtschaftsförderung Solingen VerwaltungsGmbH
+- TOP 36: Gründer- und Technologiezentrum Solingen GmbH
+- TOP 37: Forschungsgemeinschaft Werkzeuge und Werkstoffe e.V.
+- TOP 38: Bürgerstiftung Baden
+- TOP 39: Professor-Max-Kratz-Stiftung
+- TOP 40: Bergische Symphoniker - Orchester der Städte Remscheid und Solingen GmbH
+- TOP 41: Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 42: Musikschule Solingen gGmbH
+- TOP 43: Schlossbauverein Burg an der Wupper e. V.
+- TOP 44: Bildung der Einigungsstelle gem. § 67 Abs. 1 Landespersonalvertretungsgesetz Nordrhein-Westfalen
+- TOP 45: Bildung der 12. Landschaftsversammlung Rheinland
+- TOP 46: itec Informationstechnologie Solingen GmbH
+- TOP 47: Institut für Galvano- und Oberflächentechnik Solingen GmbH (IGOS GmbH)
+- TOP 48: Beteiligungsgesellschaft Stadt Solingen mbH (BSG)
+- TOP 49: Stadtwerke Solingen GmbH (SWS)
+- TOP 50: Stadtwerke Aue
+- TOP 51: RWE AG
+- TOP 52: Verband der kommunalen RWE-Aktionäre GmbH (VkA)
+- TOP 53: Zweckverband Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP 54: Wasserversorgungsverband Rhein-Wupper
+- TOP 55: Wasserwerk Baumberg GmbH, Solingen
+- TOP 56: Mitgliedschaft der Stadt Solingen zum Zweckverband KDN - Dachverband Kommunaler IT-Dienstleister
+- TOP 57: Zustimmung zu überplanmäßigen Ausgaben gemäß § 82 der Gemeindeordnung Nordrhein-Westfalen
+- TOP 58: Einführung eines Bürgerhaushaltes für die Stadt Solingen
+- TOP 59: Wupperverband
+- TOP 60: Entsorgung Solingen GmbH (ESG)
+- TOP 61: Kommunale Gesundheitskonferenz
+- TOP 62: Umlegungsausschuss
+- TOP 63: Zusammensetzung der Gewässerschaukommission
+- TOP 64: Besetzung des Agenda-Teams
+- TOP 65: Zweckverband "Naturpark Bergisches Land"
+- TOP 66: Zweckverband Erholungsgebiet Ittertal
+- TOP 67: Geschwister-Niehoff-Stiftung
+- TOP 68: Anfrage von Solingen AKTIV vom 12.10.2004
+- TOP 69: Beantwortung der Anfrage von RM Kirchner
+- TOP 70: B 229 n Autobahnkreuz Langenfeld/Landwehr
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Öffentlich-rechtliche Vereinbarung zwischen der Stadt Haan und der Stadt Solingen
+- TOP 2: Wirtschaftsplan der Regionale 2006 Agentur GmbH für das Geschäftsjahr 2005
