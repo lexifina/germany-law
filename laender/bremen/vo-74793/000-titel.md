@@ -1,0 +1,1 @@
+# Verordnung über den doppelqualifizierenden Bildungsgang Wirtschaftsassistent/Wirtschaftsassistentin, Schwerpunkt Fremdsprachen, mit dem Abschluß der Allgemeinen Hochschulreife (Wirtschaftsassistent/Fremdsprachen-Hochschulreife-Verordnung) vom 26. August 1
