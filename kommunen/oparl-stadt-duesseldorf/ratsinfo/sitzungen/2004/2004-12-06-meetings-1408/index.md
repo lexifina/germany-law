@@ -1,0 +1,69 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2004-12-06T15:00:00+01:00
+- Ende: 2004-12-06T16:15:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1408
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1408
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111376.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111376.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111376.pdf
+
+## Tagesordnung
+
+- TOP 1: Sachverständiger - einstimmig beschlossen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Multifunktionsarena - zur Kenntnis genommen
+- TOP 5: Satzung über Gebühren zur Tierkörperbeseitigung ec - einstimmig beschlossen
+- TOP 6: Wirtschaftsplan 2005 - einstimmig beschlossen
+- TOP 7: Wirtschaftsplanung 2004-2008 - einstimmig beschlossen
+- TOP 8: Kalkulation der Kanalbenutzungsgebühren - einstimmig beschlossen
+- TOP 9: Kostenentwicklung im Bereich Müllabfuhr - einstimmig beschlossen
+- TOP 10: Kostenentwicklung im Bereich Straßenreinigung - Au - einstimmig beschlossen
+- TOP 11: (12.) Änderung der Satzung über die Reinigung der - einstimmig beschlossen
+- TOP 12: Etatberatung 2005 - passieren lassen
+- TOP 13: Haushaltssatzung 2005 - passieren lassen
+- TOP 14: Haushaltssatzung 2005 und NKF - passieren lassen
+- TOP 15: Vorschl. u. Anregungen der BV`s zur Haushaltss. - passieren lassen
+- TOP 16: Veränderungsverz. zum HPL-Entwurf 2005 u.Finanzpl. - passieren lassen
+- TOP 17: Veränderungsv. zum HPL-Entwurf 2005 u. MIP - 2008 - passieren lassen
+- TOP 18: Veränderungsverz. zum HPL-Entwurf 2005,Doppik - passieren lassen
+- TOP 19: Stellenplan 2005 - passieren lassen
+- TOP 20: Kämmererliste 2003 - einstimmig beschlossen
+- TOP 21: Kämmererliste 2004 - einstimmig beschlossen
+- TOP 22: Controllingbericht - einstimmig beschlossen
+- TOP 23: Üpl-Mittel Geräte, Zubehör, Software - einstimmig beschlossen
+- TOP 24: Üpl-Mittel Beschaffung von IT-Produkten - einstimmig beschlossen
+- TOP 25: Erschließung der Grundstücke Am Mühlenberg - einstimmig beschlossen
+- TOP 26: Bau- und Finanzierungsbeschluss; Sanierung der Ton - passieren lassen
+- TOP 27: Zuschuss Boule - passieren lassen
+- TOP 28: Sportfördermittel - einstimmig beschlossen
+- TOP 29: Jahresabschluss 2003 inkl. Lagebericht - einstimmig beschlossen
+- TOP 30: Schulneubau Räuscher Weg B+F - einstimmig beschlossen
+- TOP 31: VID Rheinufertunnel - einstimmig beschlossen
+- TOP 32: Kiesheckerweg, Lichtenbroicher Weg, Kürtenstraße - einstimmig beschlossen
+- TOP 33: Komplettsanierung Hauptgebäude Feuerwache 1 - einstimmig beschlossen
+- TOP 34: Teilsanierung der Feuerwache 3, Münsterstraße 15 - - einstimmig beschlossen
+- TOP 35: Städtetag - einstimmig beschlossen
+- TOP 36: Goethe-Museum - einstimmig beschlossen
+- TOP 37: Flughafenbeirat - einstimmig beschlossen
+- TOP 38: Neuwahl von Mitgliedern in die Mitgliederversa - einstimmig beschlossen
+- TOP 39: Änderung Hundesteuersatzung - zur Kenntnis genommen
+- TOP 40: Benutzungsordnung Feuerbachstraße - einstimmig beschlossen
+- TOP 41: Annahme einer Schenkung für die städtische Sammlun - einstimmig beschlossen
+- TOP 42: Umbenennung einer Teilfläche des Corneliusplatzes - einstimmig beschlossen
+- TOP 43: Benennung Danziger Str. (B8 und B8n) - einstimmig beschlossen
+- TOP 44: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 45: FNPÄ 13- Airport City - Anregungen; Plan - einstimmig beschlossen
+- TOP 46: BPl5382/29AirportCity Anr.Ä in rot Satzung - mehrheitlich beschlossen
+- TOP 47: B-Plan Nr.5782/10 - einstimmig beschlossen
+- TOP 48: B-Plan Nr. 5776/10 - Nördl. Höherweg - einstimmig beschlossen
+- TOP 49: Ergänzungssatzung Nr. 5487/07 - Pannschoppen - einstimmig beschlossen
+- TOP 50: PlNr5476/114 DenkmalberSatzung Karlst-Satzung - einstimmig beschlossen
+- TOP 51: Antr. SPD HFA: Kö-Bogen - mehrheitlich abgelehnt
+- TOP 52: Teilsanierung Feuerwache 10, Posener Straße - einstimmig beschlossen
