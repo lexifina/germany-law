@@ -1,0 +1,6 @@
+# TOP 15: Anfragen
+
+- Sitzung: Sozial- und Gesundheitsausschuss (2004-09-08)
+- Körperschaft: Stadt Bochum
+- Öffentlich: ja
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/36170
