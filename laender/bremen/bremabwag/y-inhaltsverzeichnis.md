@@ -7,8 +7,8 @@ Zweiter Teil: Ermittlung der Schädlichkeit
 § 3 | Abgabe für Niederschlagswasser (zu § 7 des Abwasserabgabengesetzes)
 Dritter Teil: Abgabepflicht, Abwälzbarkeit
 § 4 | Abgabepflicht für Dritte (zu § 9 Abs. 2 und 3 des Abwasserabgabengesetzes)
-§ 5 | Abwälzbarkeit der Abwasserabgabe (zu§ 9 Abs. 2 des Abwasserabgabengesetzes)
-§ 6 | Aufrechnung (zu § 10 Abs. 4 des Abwasserabgabengesetzes)
+§ 5 | Abwälzbarkeit der Abwasserabgabe (zu § 9 Abs. 2 des Abwasserabgabengesetzes)
+§ 6 | Verrechnung (zu § 10 Abs. 3 des Abwasserabgabengesetzes)
 Vierter Teil: Festsetzung und Erhebung der Abgabe
 § 7 | Erfassung der Angabepflichtigen, Erklärungspflicht (zu § 11 des Abwasserabgabengesetzes)
 § 8 | Zuständige Behörde und ihre Aufgaben
