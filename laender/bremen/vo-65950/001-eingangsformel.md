@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 3a Abs. 3 des Börsengesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4110-1, veröffentlichen bereinigten Fassung, das zuletzt durch Artikel 2 des Gesetzes vom 26. Juli 1994 (BGBl. I S. 1749) geändert worden ist, in Verbindung mit § 1 der Verordnung zur Übertragung von Zuständigkeiten nach dem Börsengesetz vom 31. Januar 1995 (Brem.GBl. S. 125), wird verordnet:
