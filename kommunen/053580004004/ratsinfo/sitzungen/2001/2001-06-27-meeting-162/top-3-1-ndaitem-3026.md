@@ -1,4 +1,4 @@
-# TOP 3.1.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+# TOP 3.1.: Projekt "Wach-Koma-Klinik" in Aldenhoven-Schleiden, Am Nonnenhof
 
 - Sitzung: Gemeinderat (2001-06-27)
 - Körperschaft: Gemeinde Aldenhoven
