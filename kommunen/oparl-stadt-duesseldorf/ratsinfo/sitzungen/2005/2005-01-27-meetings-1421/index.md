@@ -1,0 +1,57 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-01-27T16:00:00+01:00
+- Ende: 2005-01-27T18:37:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1421
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1421
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111371.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111371.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111371.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift vom 02.12.2004 - einstimmig beschlossen
+- TOP 3: Neubau Gymnastikhalle GGS Deutzer Str. 102 - einstimmig beschlossen
+- TOP 4: B-Plan Nr. 5876/10 - Nördl. Königsberger Str. Ost - einstimmig beschlossen
+- TOP 5: B-Plan Nr. 5776/12 - Nördl. Königsberger Str. (W) - einstimmig beschlossen
+- TOP 6: FNP-Änderung Nr. 75 - B-Plan Nr. 5776/12 - einstimmig beschlossen
+- TOP 7: B-Plan Nr. 5775/35 - Südwestl. Königsberger Str. - einstimmig beschlossen
+- TOP 8: FNP-Änderung Nr. 113 - Südwestl. Königsberger Str. - einstimmig beschlossen
+- TOP 9: Abbruchantrag Liegnitzer Straße 2
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Gesamtsanierung Schule Bernburger Straße 44-46 - mehrheitlich beschlossen
+- TOP 13: Zuschuss Reit- und Ponyclub Düsseldorf e.V. - einstimmig beschlossen
+- TOP 14: Etat Kulturbahnhof Eller - einstimmig beschlossen
+- TOP 15: Gestaltung Posener Straße / Gleiwitzer Straße - einstimmig beschlossen
+- TOP 16: Elbse - Kieswerk - zur Kenntnis genommen
+- TOP 17: Sozialwohnungen - zur Kenntnis genommen
+- TOP 18: Abenteuerspielplatz Heidelberger Straße - zur Kenntnis genommen
+- TOP 19: Wohnheim Breslauer Straße 21-27 - zur Kenntnis genommen
+- TOP 20: Behindertengerechte Haltestellen & Fahrgastinfo - zur Kenntnis genommen
+- TOP 21: Jugendbildungsstätte St. Swidbert - Unterbach - zur Kenntnis genommen
+- TOP 22: Schloss Eller - zur Kenntnis genommen
+- TOP 23: Rad- und Fußweg auf der Rathelbeckstraße - einstimmig beschlossen
+- TOP 24: Straßenbelag Vennstraße - einstimmig beschlossen
+- TOP 25: Straßenbelag Dellestraße - zur Kenntnis genommen
+- TOP 26: Carl-Sonnenschein-Schule - einstimmig beschlossen
+- TOP 27: Leitplanke Kuthsweg - einstimmig beschlossen
+- TOP 28: Radfahren Reisholzer Straße und Weichselstraße - zur Kenntnis genommen
+- TOP 29: Park & Ride - Beschilderung - zur Kenntnis genommen
+- TOP 30: Verkehrsführung Klein Eller / Annweiler Straße - zur Kenntnis genommen
+- TOP 31: Schloss Eller - mehrheitlich beschlossen
+- TOP 32: Büllenkothenweg / Am Pflanzkamp - Tempo 30 - einstimmig beschlossen
+- TOP 33: Wasserspielplatz Schloss Eller - Toilettenanlage - einstimmig beschlossen
+- TOP 34: Gestaltung des Weihnachtsmarktes - einstimmig beschlossen
+- TOP 35: Ausländerintegration im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 36: Straßengestaltung Am Stufstock - einstimmig beschlossen
+- TOP 37: Schloss Eller (Dringlichkeitsantrag) - mehrheitlich beschlossen
+- TOP 38: Geschwindigkeitsanzeigetafel - zur Kenntnis genommen
+- TOP 39: Widmung von Straßen - zur Kenntnis genommen
+- TOP 40: Kinderspielplatz Gertrudisplatz - zur Kenntnis genommen
