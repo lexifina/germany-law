@@ -1,0 +1,60 @@
+# 23. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2003-12-18T16:00:00+01:00
+- Ende: 2003-12-18T21:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=335
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=335
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=15851
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_24 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Doppelhaushalt adé - in der BVV abgelehnt
+- TOP 8: Altstadtkonferenz - mit Änderungen in der BVV beschlossen
+- TOP 9: Briefkasten Rathaus Treptow <span style="color: #888a85" title="Zusatzinfo">(Änderungsantrag ersetzt Ursprungsantrag)</span> - in der BVV abgelehnt
+- TOP 10: Arbeitsmarktpolitik - schriftlich beantwortet
+- TOP 11: Gesundheitsförderung und Gesundheitsmanagement - schriftlich beantwortet
+- TOP 12: Wasserturm Altglienicke - schriftlich beantwortet
+- TOP 13: Genehmigung der im Haushaltsjahr 2002 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 14: Rechtsverordnung über die Genehmigungspflicht von Grundstücksteilungen im Geltungsbereich des Bebauungsplans XV-46 im Bezirk Treptow-Köpenick, Ortsteil Altglienicke - überwiesen
+- TOP 15: Kenntnisnahme gemäß BA-Beschluss Nr. 43/02 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 16: Fußgängerzone Grünstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 17: Tempo 20 in Alt-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 18: Städtebauliche Verträge hier: Verträge zu Vorhaben am Feldblumenweg (B-Plan 9-1), an der Schnellerstraße 20 C/D (B-Plan XV-64a) und zur Friedrichshagener Straße 2/2a (B-Plan XVI-17) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 19: Bebauungsplan 9-13 hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 20: Bebauungsplanentwurf XV-18 - Inhaltliche Planänderungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 21: Bebauungsplanentwurf XV-19 -Inhaltliche Planänderungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 22: Vorhabenbezogener Bebauungsplan 9-6 VE hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 23: Bebauungsplanentwurf XV-20, Ortsteil Altglienicke - Auswertung der öffentlichen Auslegungen - Inhaltliche Planänderungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 24: Bebauungsplanentwurf XV-21a, Ortsteil Altglienicke - Auswertung der erneuten öffentlichen Auslegung - inhaltliche Planänderungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 25: - Entwurf des Bebauungsplans XVI-21 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XVI-21 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Rahnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 26: Genehmigung der im 1. Halbjahr 2003 zugelassenen über- und außerplanmäßigen Ausgaben - überwiesen
+- TOP 27: Mehr Sicherheit für Kinder - Bushaltestelle Königsheideweg/Mahonienweg (Schulwegsicherung) - überwiesen
+- TOP 28: Einbürgerung - überwiesen
+- TOP 29: Entwicklungsgebiet Johannisthal/Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 30: Schulstation Sonderschule am Plänterwald - ohne Änderungen in der BVV beschlossen
+- TOP 31: Überprüfung Schulstandort Köpenicker Gesamtschule - überwiesen
+- TOP 32: Belebung des Kranbahnparkes - überwiesen
+- TOP 33: Gesamtfinanzierungskonzept - ohne Änderungen in der BVV beschlossen
+- TOP 34: Flexiblere Betreuung von Kindern in Treptow-Köpenick - überwiesen
+- TOP 35: Umsetzung Lärmminderungsplan - überwiesen
+- TOP 36: Mehr für unsere Kinder tun - überwiesen
+- TOP 37: Alte Möbelfabrik und Flussbad Gartenstraße - überwiesen
+- TOP 38: Veröffentlichung einer Studie - mit Änderungen in der BVV beschlossen
+- TOP 39: Veränderung Fahrspuren Straße An der Wuhlheide/Treskowallee - ohne Änderungen in der BVV beschlossen
+- TOP 40: Sexualerziehung an Schulen in Treptow-Köpenick durch freie Träger - überwiesen
+- TOP 41: Kennzeichnung von Bebauungsplänen - ohne Änderungen in der BVV beschlossen
+- TOP 42: Schlussfolgerungen aus dem Abschlussbericht - vertagt
+- TOP 43: Baumschutz - vertagt
+- TOP 44: Sparen bis es quietscht - Auswirkungen auf die Schulen des Bezirks - beantwortet
+- TOP 45: Grundständiges Evangelisches Gymnasium für Treptow-Köpenick - mit Änderungen in der BVV beschlossen
