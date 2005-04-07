@@ -1,0 +1,74 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-04-07T16:00:00+02:00
+- Ende: 2005-04-07T20:00:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1423
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1423
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111407.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111407.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111407.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift vom 03.03.2005 - zur Kenntnis genommen
+- TOP 3: Stadtbüchereien im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Grünwegeverbindung Ellerkirchstraße - zur Kenntnis genommen
+- TOP 6: Radwegebezirksnetz BV 8
+- TOP 7: Angebote für Kinder u. Jugendliche in Unterbach - einstimmig beschlossen
+- TOP 8: Änderungssatzung für einzelne EA in Ddorf - einstimmig beschlossen
+- TOP 9: Jahrmärkte auf dem Gertrudisplatz 2005 - einstimmig beschlossen
+- TOP 10: Lore - Lorentz - Schule - zur Kenntnis genommen
+- TOP 11: Georg - Schulhoff - Realschule Kamper Weg - zur Kenntnis genommen
+- TOP 12: Freiheitplatz - zur Kenntnis genommen
+- TOP 13: Lärmschutz Eller-Rath - zur Kenntnis genommen
+- TOP 14: Verkehrsknoten Gerresheimer Landstr./Rothenbergstr - zur Kenntnis genommen
+- TOP 15: Containerstandplätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 16: Boden- und Grundwassersanierung Waagenstraße - zur Kenntnis genommen
+- TOP 17: Betreuungsplätze für Kinder im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 18: Bauvorhaben L 404 N - zur Kenntnis genommen
+- TOP 19: Schulweghelferdienst - zur Kenntnis genommen
+- TOP 20: Einzelhandelskonzept - zur Kenntnis genommen
+- TOP 21: Oldtimer-Zentrum Harffstraße 110 - zur Kenntnis genommen
+- TOP 22: Straßensanierungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 23: Technische Ausstattung der städtischen Fahrzeuge - zur Kenntnis genommen
+- TOP 24: Auswirkungen der EU-Richtlinie 96/62/EG - zur Kenntnis genommen
+- TOP 25: Baulicher Zustand der Lore-Lorentz-Schule - zur Kenntnis genommen
+- TOP 26: REFINA - einstimmig beschlossen
+- TOP 27: Schloss Eller / Gästehaus im Bereich Schloss Eller - mehrheitlich beschlossen
+- TOP 28: Verbindungsweg zwischen Jäger- und Veehstraße
+- TOP 29: Offene Ganztagsgrundschulen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 30: Stadtteilbücherei Unterbach - einstimmig beschlossen
+- TOP 31: Straßenbelag Am Hackenbruch - einstimmig beschlossen
+- TOP 32: Bürgerversammlung zur L 404n - mehrheitlich beschlossen
+- TOP 33: Machbarkeitsstudie L 404n - mehrheitlich beschlossen
+- TOP 34: Parkplatz Eller-Mitte - einstimmig beschlossen
+- TOP 35: Sitzungsunterlagen für Besucher der BV-Sitzungen - einstimmig beschlossen
+- TOP 36: Rathaus Eller - Gedenktafel - einstimmig beschlossen
+- TOP 37: Karikaturen-Ausstellung 'Deutschstunde' im Rathaus - zur Kenntnis genommen
+- TOP 38: Termin September-Sitzung BV 8 - einstimmig beschlossen
+- TOP 39: Kriminalpräventiver Rat - mehrheitlich abgelehnt
+- TOP 40: Gedenken an Else Gores - mehrheitlich abgelehnt
+- TOP 41: Sitzung des Kriminalpräventiven Rates
+- TOP 42: Einrichtung des AKART
+- TOP 43: Absperrungen im Bereich Gertrudisplatz
+- TOP 44: Lärmschutzwall entlang der A 46
+- TOP 45: Ausstellung Deutschkunde
+- TOP 46: Autobücherei in Düsseldorf - Vennhausen - zur Kenntnis genommen
+- TOP 47: Fahrplan Bushaltestelle Vennhauser Allee - zur Kenntnis genommen
+- TOP 48: Platzgestaltung Am Turnisch - zur Kenntnis genommen
+- TOP 49: Gestaltung eines Weihnachtsmarktes Gertrudisplatz - zur Kenntnis genommen
+- TOP 50: LZA - Schaltungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 51: Leitplanke Kuthsweg - zur Kenntnis genommen
+- TOP 52: Nachbarschaftspark Eller - Lierenfeld - zur Kenntnis genommen
+- TOP 53: Luftreinhaltemessung - zur Kenntnis genommen
+- TOP 54: Straßenbelag Vennstraße - zur Kenntnis genommen
+- TOP 55: Gesamtsanierung Schule Bernburger Straße 44-46 - zur Kenntnis genommen
+- TOP 56: Büllenkothenweg / Am Pflanzkamp - Tempo 30 - zur Kenntnis genommen
+- TOP 57: Tagesordnungspunkt (betrifft Privatpersonen)
