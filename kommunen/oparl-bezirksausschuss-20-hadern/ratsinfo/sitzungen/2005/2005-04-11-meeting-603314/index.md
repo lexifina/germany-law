@@ -1,0 +1,83 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2005-04-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/603314
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/603314
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verschmutzung des Walter-Hopf-Weges
+- TOP 1.2.: Dank an den BA für die gute Zusammenarbeit
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.1.1: Zinckgrafstr. 3, 1 Tanne
+- TOP 3.1.2: Haderungstr. 5, gem. BaumbestandsplanNr.: 05-5680
+- TOP 3.1.3: Wastl-Witt-Str. 4b, 1 Fichte
+- TOP 3.2.: Gräfelfinger Str. 134, 1 Kiefer
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Betriebshof Waldfriedhof , 1 Weide, 1 Eiche
+- TOP 3.2.: Waldfriedhof, 1 Tanne, 1 Eiche
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Kinder/ Schule/Sport
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Grundschule Canisiusplatz 2, Sanierung und Erweiterung des Schulgebäudes, Protokoll der Auftaktbesprechung mit Schulleitung (Schul- und Kultusreferat, 04.03.2005)
+- TOP 7.2.: Trambahnlinien 18 und 19 (MVG, 16.03.2005)
+- TOP 7.3.: Vollzug der Grünanlagensatzung, Veranstaltung am Max-Lebsche-Platz, Haderner Dorffest (Baureferat, 23.02.2005)
+- TOP 7.4.: Zweckentfremdung von Wohnraum - Amarellenweg (Sozialreferat, 30.07.2004)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Neubau eines Büro- und Laborgebäudes für Forschungs- und Entwicklungszwecke mit TG ( Referat für Stadtplanung und Bauordnung, 10.03.2005)
+- TOP 8.2.: 19. Haderner Dorffest vom 29.04. - 08.05.2005 auf dem Max-Lebsche-Platz (KVR, 11.03.2005)
+- TOP 8.3.: Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten (Frau Bürgermeisterin Dr. Bukert, 17.03.2005
+- TOP 8.4.: Neubau einer Wohnanlage mit Tiefgarage, Fürstenrieder Str. 278 a und b (Referat für Stadtplanung und Bauordnung, 07.03.2005)
+- TOP 8.5.: Informationsveranstaltung zum Thema Straßenausbaubeitragsrecht (Baureferat, 21.03.2005)
+- TOP 8.6.: Bebauungsplan Nr. 9, Ortsmitte, Gemeinde Neuried (Referat für Stadtplanung und Bauordnung, 21.03.2005)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Öffentliche städtische Einrichtungen im Bebauungsplan 1817 (Stiftsbogen), BA-Antrag Nr. 02-08/B 42 vom 10.01.2005 (Schul- und Kultusreferat, 22.02.2005)
+- TOP 9.2.: Erweiterung der PKW-Parkplätze rund um den Lorettoplatz, BA-Antrag Nr. 2547 vom 08.11.2005 (KVR, 15.03.2005)
+- TOP 9.3.: Umbenennung Wohnanlage Ludlstraße; BA-Antrag Nr. 2674 vom 13.12.2004 (Sozialreferat, 10.03.2005)
+- TOP 9.4.: Bebauung der Sauerbruchstraße / Prälat-Wellenhofer-Straße, Anfrage aus der BV vom 07.10.2004 (Referat für Stadtplanung und Bauordnung, 20.10.2004)
+- TOP 9.5.: Bürgerversammlungen mit Multimedia-Präsentation im Jahr 2005 (Direktorium, 03.03.2005)
+- TOP 9.6.: Übermittlung sensibler Einrichtungen an alle Mobilfunkbetreiber (Referat für Gesundheit und Umwelt, 11.03.2005)
+- TOP 9.7.: Versetzung des BA-Schaukastens Großhaderner Str. (Kommunalreferat, 07.03.2005)
+- TOP 9.8.: Gartenbauverein München-Großhadern e.V. "Naturlehrpfad", Antrag auf Förderung im Rahmen des Förderprogramms "Bürgerinnen und Bürger gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln (Referat für Stadtplanung und Bauordnung, 14.03.2005)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Bundesautobahn A 96 Lindau-München, Berechnung des Verkehrslärms an der BAB A 96 (Autobahndirektion Südbayern, 23.02.2005)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: München - Der Wirtschaftsstandort; Fakten und Zahlen 2005
+- TOP 11.2.: Gedenktag für die Opfer des Nationalsozialismus 2005; 60. Jahrestag der Befreiung des Konzentrationslagers Ausschwitz 27.01.2005 (BA 3, 27.01.2005)
+- TOP 11.3.: Bündnis für Demokratie und Toleranz, gegen Gewalt und Extremismus "Münchner Bürgerinnen solidarisch mit Wundsiedel" Sternfahrt von München nach Wundsiedel (BA 3, 07.03.2005)
+- TOP 11.4.: Rettung der Euro-Skate-Halle in der Leopoldstraße 250 (Arbeitsgruppe buhlstraße, 07.03.2005), (BA 1, 18.03.2005)
+- TOP 11.5.: Umleitung des Transitschwerlastverkehrs auf den Autobahnring (BA 7, 08.03.2005)
+- TOP 11.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.7.: Vollversammlung
+- TOP 11.7.1.1: am 26.01.2005 Bau barrierefreier Wohnungen in den Unterkunftsanlagen der Landeshauptstadt München; Produkt 4.1.5 Ausweitung des Mehrjahresinvestitionsgrammes 2004-2008, Investitionsliste 1 bei Unterabschnitt 4351, Maßnahmen-Nr. 7620 um 750.000Â?
+- TOP 11.7.1.2: am 23.02.2005 Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich III/3; Stiftsbogen, Walter-Hopf-Weg, Bundesautobahn A 96, Schröfelhofstraße, Kurparkstraße
+- TOP 11.8.: Senatsbeschlüsse
+- TOP 11.8.1.1: Beschluss des Bauausschusses vom 08.03.2005 Baumschutz bei städtischen Baumaßnahmen und in Grünanlagen (Ziffer 3 des Antrages)
+- TOP 11.8.1.2: Maßnahmen gegen das Abstellen von Anhängern und gewerblich genutzten Fahrzeugen / Gewerbebedarf auf öffentlichem Verkehrsgrund
+- TOP 11.8.1.3: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.02.2005 Bebauungsplan mit Grünordnung Nr. 1817 Stiftsbogen, Walter-Hopf-Weg, Bundesautobahn A96, Schröfelhofstr.aße, Kurparkstraße
+- TOP 11.8.1.4: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2005 Auswirkung der Lkw-Maut auf München
+- TOP 11.8.1.5: Beschluss des Umweltausschusses vom 01.03.2005 Vergabe der städtischen Dächer zur Solarstromerzeugung
+- TOP 11.8.1.6: Beschluss des Kinder- und Jugendhilfeausschusses, des Sozialausschusses und des Solzialausschusses in der gemeinsamen Sitzung vom 01.03.2005 - Zuschussnehmerdatei 2005, Vollzug des Haushaltsplanes 2005 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Rücknahme der Mittelkürzung an den Kreisjugendring und Wiederherstellung des Standes 2002 bzw. keine weiteren Kürzungen - Zuschussnehmerdatei 2005, Vollzug des Haushaltsplanes 2005 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration - Zuschussnehmerdatei 2005, Vollzug des Haushaltsplanes 2005 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung - Zuschussnehmerdatei 2005 Vollzug des Haushaltsplanes 2005 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale
+- TOP 11.8.1.7: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2005 Fortschreibung des Zentrenkonzeptes - Nahversorgung in München - Ausweisung von dringend benötigten Flächen für Läden zur Deckung des täglichen Bedarfs in Daglfing - Stadtteilzentren retten - Nahversorgung sicher - Stärkung der Einzelhandelsstrukturen in den Sadtrandbezirken durch konsequente Bauleitplanung - Wohnortnahe Versorgung für ältere Menschen
+- TOP 11.9.: Vorberatende Ausschüsse
+- TOP 11.10.: Bekanntgaben
+- TOP 11.10.1: Bekanntgabe des Bauausschusses vom 08.03.2005 Baumfällungen und Baumpflanzungen im öffentlichen Grün
+- TOP 12.: Nichtöffentliche Sitzung
+- TOP 11.9.1: Gefasste Beschlüsse
+- TOP 11.8.2: Referentenanträge
