@@ -1,0 +1,60 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-04-12T15:00:00+02:00
+- Ende: 2005-04-12T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1525
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1525
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111415.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111415.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111415.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Anfragen und Anträge
+- TOP 3: Kenntnisgabe Ratsbeschluss 01/65/2005 - zur Kenntnis genommen
+- TOP 4: Öffnungszeiten Jugendförderung
+- TOP 5: Kenntnisgabe Ratsbeschluss 01/67/2005 - zur Kenntnis genommen
+- TOP 6: Anfrage CDU 'Öffnungszeiten / Jugendförderung - zur Kenntnis genommen
+- TOP 7: Anfrage CDU - Öffnungszeiten JFE An der Icklack - zur Kenntnis genommen
+- TOP 8: Anfrage CDU 'Kom. Familienbildung /HzE' - zur Kenntnis genommen
+- TOP 9: Anfrage CDU 'Grundlagen Förderung Stadtteiltreffs' - zur Kenntnis genommen
+- TOP 10: Anfrage Bü90/Gr'Ki.m.Migrationshintergrund in Kita - zur Kenntnis genommen
+- TOP 11: Anfrage CDU 'Förderung OTs, JFEs und ASPs' - zur Kenntnis genommen
+- TOP 12: Anfrage CDU 'Ergeb. Startphase Bildungsoff. III' - zur Kenntnis genommen
+- TOP 13: Anfrage SPD Versorgungssituation in Kitas - zur Kenntnis genommen
+- TOP 14: Antrag Bü90/Gr.'Zusammenf. JHP+SchEP' - zur Kenntnis genommen
+- TOP 15: Stellungnahme Antrag Bü90/Gr. 'JHP + SchEP' - zur Kenntnis genommen
+- TOP 16: Tageseinrichtungen für Kinder
+- TOP 17: Kenntnisgabe Ratsbeschluss 01/66/2005 - zur Kenntnis genommen
+- TOP 18: Ausbau Tagesbetreuung für Kinder - einstimmig beschlossen
+- TOP 19: Sonderfinanzierung Kita - einstimmig beschlossen
+- TOP 20: Betriebsträgerwechsel Kita Kaiserswerther Str. 209 - einstimmig beschlossen
+- TOP 21: Verpflegung städt. Kitas - einstimmig beschlossen
+- TOP 22: Bau, Einr.+Instands. von Kitas, Zuschüsse an fr.Tr - einstimmig beschlossen
+- TOP 23: § 25 GTK - Start Smart e.V. - einstimmig beschlossen
+- TOP 24: Jugendförderung
+- TOP 25: Angebote für Kinder u. Jugendliche in Unterbach - einstimmig beschlossen
+- TOP 26: Zwischenbericht Haus des Kindes - zur Kenntnis genommen
+- TOP 27: Gewaltprävention
+- TOP 28: Gewaltpräv.-Jahresbericht04/Planung05 - einstimmig beschlossen
+- TOP 29: Antrag Bü90/Gr. 'Gewaltprävention an Schulen' - zur Kenntnis genommen
+- TOP 30: Mittelvergabe05-jugendsch.u.-fördernde Aktionen - einstimmig beschlossen
+- TOP 31: Hilfen zur Erziehung
+- TOP 32: Umwandlung Verträge + zus. Finazierung Planstellen - einstimmig beschlossen
+- TOP 33: Aufsuchende Arbeit um den Hauptbahnhof - einstimmig beschlossen
+- TOP 34: Auswirkungen Einführung SGB II-Taschengeld - zur Kenntnis genommen
+- TOP 35: Änderungsantrag Bü90/Gr. 'Auswirkungen SGB II' - mehrheitlich beschlossen
+- TOP 36: Controllingberichte - Stand: 28.02.2005
+- TOP 37: Controllingbericht Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 38: Controllingbericht HzE - zur Kenntnis genommen
+- TOP 39: Controllingbericht Unterhaltsvorschuss - zur Kenntnis genommen
+- TOP 40: Organisationsentwicklung im Jugendamt - zur Kenntnis genommen
+- TOP 41: Zuschüsse und Zuwendungen 2004 - einstimmig beschlossen
+- TOP 42: Terminplanung für die Etatberatungen 2006 - einstimmig beschlossen
+- TOP 43: Verschiedenes - zur Kenntnis genommen
