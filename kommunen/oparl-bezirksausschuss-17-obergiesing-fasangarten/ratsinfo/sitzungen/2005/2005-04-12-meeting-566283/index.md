@@ -1,0 +1,119 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2005-04-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/566283
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/566283
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Lärmschutz Pennstraße; Bürgerschreiben vom 17.03.2005
+- TOP 2.2.: Weißenseestraße zwischen Tegernseer Landstraße und Untersbergstraße; Bürgerschreiben vom 22.02.2005
+- TOP 2.3.: Baumfällungen im 17. Stadtbezirk; Antrag auf Klärung bzw. Erteilung sachdienlicher Auskünfte durch den Baumschutzbeauftragten; Bürgerschreiben vom 15.03.05
+- TOP 2.4.: Finanzielle Unterstützung der Euro-Skate-Halle in der Leopoldstraße; Schreiben vom 07.03.05 zu TOP 2.1.2.4 Schreiben des BA 1 - Altstadt-Lehel - vom 18.03.05
+- TOP 2.5.: Erhebung von Ausgleichsbeiträgen, Untere Grasstraße 36; Bürgerschreiben vom 29.03.05
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: REGSAM; Vorstellung der neuen Organisationsstruktur; Themenschwerpunkte und Auswirkungen auf den Stadtbezirk
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3.: Anträge/Anfragen
+- TOP 3.1.: Behindertengerechte Absenkung der Bürgersteige an der Ecke Traunsteiner Str./Chiemgau Str. und rund um den St. Quirinsplatz ; Antrag der SPD-Fraktion vom 12.04.2005
+- TOP 3.2.: Feinstaub; Antrag auf Zustimmung des Luftreinhalteplans und Unterbindung der Maut-Flucht; Antrag der SPD-Fraktion vom 12.04.2005
+- TOP 4.: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Bildhaueratelier Zündler, für die Maßnahme: Kunstaustellung vom 26.05. bis 29.05.05; Antragssumme: 300,- Â?; Beschlussvorlage vom 23.02.05
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: Antrag auf Bezuschussung für Waldfest am 25. Juni 2005 in Höhe von 500,-- Â?; Schreiben vom 22.03.2005
+- TOP 4.5.: Unterausschüsse
+- TOP 0.1.: Vollzug von § 13 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Tegernseer Landstraße 108, Neubau eines Wohn- u. Geschäftshauses
+- TOP 0.2.: Vollzug von § 13 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Chiemgaustr. 66, Neubau von 4 Wohngebäuden (Lärmschutzbebauung mit TG
+- TOP 0.3.: Informationsveranstaltung zum Thema Straßenausbaubeitragsrecht; Vorschläge und Fragen zum Thema
+- TOP 0.4.: Vollzug von § 13 der BA-Satzung, Katalog-Angelgenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Giesinger Bahnhofplatz, Neubau eines Verwaltungsgebäudes mit TG (vertagt aus der Sitzung vom 08.03.05)
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Abgeschlossenheitsbescheinigungen im 17. Stadtbezirk (ggf. Behandlung in nichtöffentlicher Sitzung)
+- TOP 0.3.: Kauf der Bundeswohnungen in der Siedlung am Perlacher Forst, 17. Stadtbezirk Obergiesing; Antrag Nr. 2556 der Stadtratsfraktion der CSU vom 08.02.2001; Beschluss der Vollversammlung des Stadtrates vom 23.02.2005
+- TOP 0.4.: St.-Bonifatius-Str. 12; Neubau von 12 WE; Anforderung der Anhörung im Einzelfall durch den BA 17; Mitteilung des Planungsreferats vom 16.03.2005
+- TOP 0.5.: Gemeinde Neubiberg; Baumaßnahme "infineon" hier: Abwicklung des Baustellenverkehrs über Anliegerstraße im 17. Stadtbezirk; Schreiben vom 18.02.05
+- TOP 0.6.: Stadelheimer Str. 4-6, Flurnummer 16176/4, Gemarkung München Sektion VIII; JVA München - Neubau einer Frauenabteilung und einer Jugendarrestanstalt; Antwort zum Schreiben des BA 17 vom 18.01.05
+- TOP 0.1.: Speiseeiswirtschaft "EiscafÃ© Waltina"; Schwanseestr. 81; Mitteilung vom 02.03.05
+- TOP 0.2.: SSW "Hohenwart"; Gietlstr. 15; Mitteilung vom 20.12.04
+- TOP 0.3.: SSW "Kulisse", Traunsteiner STr. 34; Mitteilung vom 16.03.04
+- TOP 0.1.: Realisierung des Sozialbürgerhauses mit Mittelpunktsbibliothek und Kinderkrippe am Standort Deisenhofener / Herzogstandstraße deutlich vor 2014; Antrag Nr. 2760 des BA 17 vom 14.12.04; Mitteilung vom 21.02.2005
+- TOP 0.2.: Anpassung des städt. Kindergartenversorgungsziels - Grundsatzbeschluss -; Beschluss des Schulausschusses des Stadtrats vom 16.02.2005 (V'B)
+- TOP 0.3.: Zügige Eröffnung des Bürgertreffs in der Pöllatstraße; Schreiben vom 03.03.05 zum Antrag Nr. 2671 des BA 17 vom 14.12.04
+- TOP 0.4.: Kein Personalabbau bei Streetwork, weder im 8. noch im 9. Stadtbezirk; Beschluss des BA 9 vom 15.03.05
+- TOP 0.5.: Lärmbelästigung in der Deisenhofener Str. 16 a; Bürgeranfrage vom 16.12.04; Antwort vom 22.02.05 zum Schreiben des BA 18 vom 18.01.05 (FF)
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.1.: Schulweghelferübergang Traunsteiner Straße; Anhörung gem. § 3 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 0.2.: Erinnerungsverfahren; Traunsteiner Str. 1 - Verkehrshelferüberweg; Zuleitung vom 28.02.05
+- TOP 0.3.: Tegernseer Landstraße 203 c; Herstellen einer Gehbahn; Zuleitung vom 28.02.2005
+- TOP 0.4.: Erinnerungsverfahren; Schwanseestr. 63 - 67 c - Zufahrt neu, Bauschaden, Unterhaltsarbeiten; Zuleitung vom 21.03.05
+- TOP 0.1.: Stadelheimer Str.; Aufhebung der Haltverbotszone nach Zeichen 286 StVO; Mitteilung vom 14.03.05
+- TOP 0.2.: Auswirkungen der Lkw-Maut auf München; Antrag Nr. 02-08 / A 02079 von Herrn Stadtrat M. Pretzl vom 04.11.2004; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 02.03.2005 (SB)
+- TOP 0.3.: Verkehrssituation an der Kreuzung Tegernseer Landstraße / Ichostraße; Antwortschreiben vom 23.02.2005 zum Schreiben des BA 17
+- TOP 0.4.: Einbahnregelung in der Heimgartenstraße; Antwort vom 23.02.05 zum Schreiben des BA 17 vom 18.02.05
+- TOP 0.5.: Maßnahmen gegen das Abstellen von Anhängern und gewerblich genutzten Fahrzeugen / Gewerbebedarf auf öffentlichem Verkehrsgrund (Ziifern 1 und 2 des Antrages); Beschluss des Bauausschusses vom 08.03.05
+- TOP 0.1.: Instandsetzung der Treppen am Zugang zur S-Bahn am Giesinger Bahnhof; Antrag des UA Verkehr des BA 17 vom 11.04.2005
+- TOP 0.1.: Baumfällungen und Baumpflanzungen im öffentlichen Grün; Bekanntgabe im Bauausschuss vom 08.03.2005
+- TOP 0.2.: Baumschutz bei städtischen Baumaßnahmen und in Grünanlagen (Ziffer 3 des Antrages); Beschluss des Bauausschusses vom 08.03.2005 (SB)
+- TOP 0.3.: Übermittlung d. Standorte sensibler Einrichtungen an alle Mobilfunkbetreiber; Antwort des RGU vom 15.03.05 zum Antrag des BA 21 vom 11.01.05
+- TOP 0.1.: Veranstaltung auf öffentl. Verkehrsgrund gem. § 29 der StVO; hier: Flohmarkt des Verbandes alleinerziehender Mütter u. Väter e.V. am 23.04.05 in der Kistlerstraße / Zufahrt Silberhornstraße; Mitteilung vom 14.03.05
+- TOP 0.1.: Stadtteilkulturzentrum Giesinger Bahnhof; Bitte um dringliche Anordnung einer Vorauszahlung an den Betreiber zur Abwendung der Liquiditätskrise; Schreiben des Direktoriums vom 15.03.05
+- TOP 6.: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.1.: Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.: Bündnis für Demokratie u. Toleranz gegen Gewalt u. Extremismus; "Müncher BürgerInnen solidarisch mit Wunsiedel"; Sternfahrt von München nach Wunsiedel (Tag der Demokratie) am Samstag, 20. August 2005; Schreiben vom 07.03.2005
+- TOP 7.: Berichte der Beauftragten
+- TOP 7.7.1: Ausländer/Innen
+- TOP 7.7.2: Baumschutz
+- TOP 7.7.2.1: Einzelfälle
+- TOP 7.1.: Anwesen in der Balanstraße
+- TOP 7.2.: Anwesen in der Stettnerstraße
+- TOP 7.3.: Anwesen Werinherstraße
+- TOP 7.7.2.2: Baumbestandspläne
+- TOP 7.1.: Anwesen in der Schlierseestraße
+- TOP 7.2.: Anwesen in der Deisenhofener Str.
+- TOP 7.7.3: Behinderte
+- TOP 7.7.4: Frauen
+- TOP 7.7.5: Kinder
+- TOP 7.7.6: Senioren/Innen
+- TOP 7.7.7: Stadtteilpartnerschaft Colerain Township, Ohio, USA
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.&nbsp;: Gaststätten (unveränderte Fortführung); Mitteilung des KVR
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
