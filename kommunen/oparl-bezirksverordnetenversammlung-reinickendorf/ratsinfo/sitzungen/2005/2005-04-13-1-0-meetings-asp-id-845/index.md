@@ -1,0 +1,77 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2005-04-13T17:00:00+02:00
+- Ende: 2005-04-13T22:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=845
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=845
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=27491
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Entwurf des Bebauungsplanes XX-18-1 für die Grundstücke Thaterstraße 18 sowie für Abschnitte der Deutschen Straße und der Thaterstraße sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-18-1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.2: Ambulanz für Sexualstraftäter in Tegel - beantwortet
+- TOP 2.3: Religion als Wahlpflichtfach - ohne Änderungen in der BVV beschlossen
+- TOP 2.4: Kita-Eigenbetrieb - überwiesen
+- TOP 2.5: Erhalt der Sprachberatungsstelle im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Gewährleistung der Mobilität von Behinderten durch Einsatz behindertengerechter Taxis - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Fortführung des Projekts "FreiFrau" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Integration in Kitas - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Arbeitsgemeinschaft nach § 44b SGB II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Planungen zur Umgestaltung der Greenwichpromenade nicht weiter verfolgen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Qualitätsstandards in Kitas - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Bericht über das Ergebnis der Beteiligung der Träger öffentlicher Belange gemäß § 4 Baugesetzbuch zum Entwurf des Bebauungsplanes XX-244 für die Grundstückstücke Markendorfer Straße 15/21 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Erfahrungsbericht der Patientenfürsprecherin des Krankenhauses Reinickendorf der Vivantes GmbH ö. B. KBoN - Psychiatrie - für das Jahr 2004 - überwiesen
+- TOP 5.10: Übertragung einer weiteren Kindertagesstätte an einen freien Träger - Kindertagesstätte Walshuter Zeile - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-182 d für die Grundstücke Kurt-Schumacher-Damm 36/38 und 42 sowie einen Teilabschnitt des Kurt-Schumacher-Damms - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: TÜV-Gutachten zur Schulzendorfer Straße - überwiesen
+- TOP 6.1.1: Umsetzung der Maßnahmen zur Schulzendorfer Straße stoppen - überwiesen
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Entwurf des Bebauungsplanes XX-219a vom 2. Mai 2000 und Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-219a - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Entwürfe der Bebauungspläne XX-25 a-w für die Gartenstadt Frohnau sowie Entwürfe der Rechtsverordnungen zur Festsetzung der Bebauungspläne XX-25 a-w - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Entwurf des Bebauungsplanes XX-55-1 für die Verlängerung der Lengeder Straße bis zur Kopenhagener Straße entlang der Bahnanlage im Bezirk Reinickendorf sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-55-1 - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Bericht über die Zusammenarbeit des Bezirkes Reinickendorf mit der EU - in der BVV abgelehnt
+- TOP 8.2: Petitionsausschuss des Abgeordnetenhauses - erledigt
+- TOP 8.3: Fahrradabstellplätze am S-Bhf. Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Schulwegsicherung in Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: KJHG muss in der gesetzgeberischen Kompetenz des Bundes bleiben - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Straßenverkehrsrechtliche Anliegen der BVV jetzt umsetzen - erledigt
+- TOP 8.7: Fahrradparkhäuser - erledigt
+- TOP 8.8: Bessere Vermeidung von Straßenverkehrslärm - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Darstellung Reinickendorfs in TV-Spots - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Bebauungsplan XX-210 durchsetzen ! - überwiesen
+- TOP 8.10.1: Bebauungsplan XX-210 - überwiesen
+- TOP 8.11: Raumluftqualität an Schulen verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 8.12: Stärkung der Kooperationen zwischen Schulen und Reinickendorfer Sportvereinen - ohne Änderungen in der BVV beschlossen
+- TOP 8.13: Einheitliche Wahrnehmung des gesamten Aufgabenspektrums im Ordnungsamt - ohne Änderungen in der BVV beschlossen
+- TOP 8.14: Teilnahme am Programm WiS - vertagt
+- TOP 8.15: Städtebaulicher Handlungsbedarf in Reinickendorf - vertagt
+- TOP 8.16: Fußgängerzone Gorkistraße - vertagt
+- TOP 8.17: Fuß- und Radweg am Kurt-Schumacher-Damm - ohne Änderungen in der BVV beschlossen
+- TOP 8.18: Abo-Essen für alle Schüler - ohne Änderungen in der BVV beschlossen
+- TOP 8.19: Sichere Überquerung der Straße am Borsigturm - erledigt
+- TOP 8.20: Einführung von LED-Lichtzeichenanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: Mitmach-Parcours zur Tabakprävention - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Eröffnung und Betrieb des Schwimmbades Cité Foch fördern - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Berichtigungen und verbesserte Kontrollen im Landschaftsschutzgebiet Tegeler Fließ - überwiesen
+- TOP 9.4: Bürgerdeputierte in Ausschusslisten aufnehmen - überwiesen
+- TOP 9.5: Beflaggung am Christopher-Street-Day - vertagt
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: Fortführung des musikbetonten Profils der Viktor-Gollancz-Grundschule - vertagt
+- TOP 10.2: Bessere Gestaltung neuer Hinweisschilder auf Wanderwegen - überwiesen
+- TOP 10.3: Saubere Luft in der Bernstorffstraße - überwiesen
+- TOP 10.4: Fahrtzeiten der BVG am Humboldt-Krankenhaus - überwiesen
+- TOP 10.5: Aktivitäten zum Internationalen Tag der Umwelt - vertagt
