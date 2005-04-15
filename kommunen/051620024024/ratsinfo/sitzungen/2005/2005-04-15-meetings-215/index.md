@@ -1,0 +1,60 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2005-04-15T16:05:00+02:00
+- Ende: 2005-04-15T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/215
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/215
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Quentin: Münsterschule
+- TOP 2: Gen. DE Nr. 18, : Erh. Wertgr. f. freih. Verg.
+- TOP 3: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 4: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 5: Haushalt Rhein-Kreis-Neuss
+- TOP 6: Genehmigung der Tagesordnung
+- TOP 7: Firma Brata
+- TOP 8: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 9: OGS-Grundsätze, Schulen 2005/2006
+- TOP 10: VEP-Antrag Kamillianergelände
+- TOP 11: Ladenzentrum Weckhoven, Freiflächen
+- TOP 12: Aufwertung Kirmesplatz Reuschenberg
+- TOP 13: Ausbau Kruppstraße
+- TOP 14: Ausbau Im Gleisdreieck, B-Plan 205
+- TOP 15: Minikreisverk. Niederrheinstr./Lüttenglehner Str.
+- TOP 16: B-Plan 9/12, Entwurfsvorlage
+- TOP 17: Veränderungssperre 29, 1. Verlängerung
+- TOP 18: P+R-Parkplatz S-Bahnhof Norf, 2. BA, Straßenbau
+- TOP 19: P+R-Parkplatz S-Bahnhof Norf, 2. BA., Kanalbau
+- TOP 20: Kreisverkehrsanlage Albertus-Magnus-Straße/...
+- TOP 21: B-Plan 294/1, Satzungsbeschluss
+- TOP 22: FNP-Änderung 97, Auslegungsbeschluss
+- TOP 23: B-Plan 434, Auslegungsbeschluss
+- TOP 24: FNP-Änderung 104, Auslegungsbeschluss
+- TOP 25: Grundsatzbeschluss Errichtung eines Atelierhauses
+- TOP 26: Umzug Münsterschule und VHS (WBZ Hafenstraße)
+- TOP 27: Schulorg. Maßn.-Don-Bosco-Schule
+- TOP 28: OGS- Schulen z. Schuljahr 05/06 u. spätere Jahre
+- TOP 29: OGS-Planvorlage, Kostenrahmen
+- TOP 30: Karl-Kreiner-Schule-Planv. u. Kostenr. Altbau
+- TOP 31: Außenanlagen Sporthalle Aurinstrasse
+- TOP 32: Zentrum für Neuropädiatrie
+- TOP 33: Jahresrechnung 2004 (RAT150405-02480.doc)
+- TOP 34: Genehmigung apl Ausgabe im Vmhh
+- TOP 35: Gründung Unterausschuss Schulsanierung
+- TOP 36: Grüne: Maßnahmen zur Luftqualitätsverbesserung
+- TOP 37: Hüsch: Feinstaubbelastung
+- TOP 38: Hick: Auswirkungen Änderung StellplatzVO
+- TOP 39: Einwohnerfragestunde
+- TOP 40: SW-/RW-Kanal Im Gleisdreieck, BPL 205
+- TOP 41: Korruptionsbekämpfung (HA060405-02408.doc)
+- TOP 42: Ehem. Fußgängertunnel Zoll-/Oberstraße
+- TOP 43: Einwohnerfragestunde
+- TOP 44: Stadthafen Neuss GmbH (HA060405-02510.doc)
+- TOP 45: SW-/RW-Kanalsan. Bleichgasse / Bleichstraße
+- TOP 46: Sanierung Wirtschaftsweg Minkel
