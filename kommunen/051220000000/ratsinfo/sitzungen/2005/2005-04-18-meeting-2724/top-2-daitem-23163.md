@@ -1,0 +1,7 @@
+# TOP 2: Verbesserung der Sprachkompetenz
+
+- Sitzung: Zuwanderer- und Integrationsrat (2005-04-18)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/23163
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/4779
