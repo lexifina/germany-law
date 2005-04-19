@@ -1,0 +1,8 @@
+# TOP 9: 1. Änderung des Bebauungsplanes Nr. 288/IX
+
+- Sitzung: Planungs- und Bauausschuss (2005-04-19)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/104042
+- Ergebnis: Einstimmiger Beschluss
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/3200
