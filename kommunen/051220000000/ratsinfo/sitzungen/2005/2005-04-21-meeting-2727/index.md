@@ -1,0 +1,57 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2005-04-21T16:00:00+02:00
+- Ende: 2005-04-21T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZQnDqK84Uj8MvoFHvcfJDIY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/2727
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY4hdzFw_2p8G5SdxTfrQcKFQ9N0qzWrFD1FZAgUSWik/Oeffentliche_Niederschrift_Rat_21.04.2005.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Umbesetzung von Ausschüssen
+- TOP 2: Bestellung des Ersten Beigeordneten (Stadtdirektors)
+- TOP 3: Präsentationsstrategie der Regionale 2006 - Die Bergische Expo
+- TOP 4: Bericht zu den Maßnahmen im Rahmen der Regionale 2006 - Soziale Stadt
+- TOP 5: Verein zur Förderung des Bergischen Instituts für Produktentwicklung und Innovationsmanagement e. V. hier: Vertretung der Stadt Solingen in der Mitgliederversammlung
+- TOP 6: Gesellschaft des Bergischen Instituts für Produktentwicklung und Innovationsmanagement gGmbH (I.P.I)
+- TOP 7: Vernetzung der Bergischen Universität mit Solingen und der Region
+- TOP 8: Leitbild Zukunft.Solingen
+- TOP 9: Europäische Verfassung
+- TOP 10: Kommunale Mittel für das Projekt "Soziale Stadt"
+- TOP 11: Bekräftigung des Beschlusses zum Verkauf der RWE-Aktien
+- TOP 12: Wirtschaftsplan des Vermögensbetriebes der Stadt Solingen für das Jahr 2005
+- TOP 13: Ordnungsbehördliche Verordnung über die Freigabe verkaufsoffener Sonntage in fünf Stadtbezirken der Stadt Solingen aus Anlass verschiedener Feste
+- TOP 14: Ordnungsbehördliche Verordnung über die Freigabe verkaufsoffener Sonntage in fünf Stadtbezirken der Stadt Solingen aus Anlass verschiedener Feste
+- TOP 15: Öffentlich-rechtliche Vereinbarung der Trägergemeinschaft
+- TOP 16: Brandschutzbedarfsplan der Stadt Solingen
+- TOP 17: Satzung der Stadt Solingen für die Durchführung von Bürgerentscheiden
+- TOP 18: Ausschreibungsstop im Bereich des städtischen Reinigungsdienstes
+- TOP 19: Bestellung eines Patientenfürsprechers/einer Patientenfürsprecherin
+- TOP 20: Neufassung der Entgeltordnung für Wahlleistungen
+- TOP 21: III. Satzung zur Änderung der Betriebssatzung
+- TOP 22: III. Satzung zur Änderung der Betriebssatzung
+- TOP 23: Wirtschaftsplan 2005 der Altenzentren der Stadt Solingen
+- TOP 24: Wirtschaftsplan 2005 der Altenzentren der Stadt Solingen
+- TOP 25: Bekämpfung der Jugendarbeitslosigkeit
+- TOP 26: Bauleitplanung Sauerbreystraße/Hochstraße
+- TOP 27: Bauleitplanung Sauerbreystraße/Hochstraße
+- TOP 28: Sicherung der Bauleitplanung
+- TOP 29: Bauleitplanung Pöttweg
+- TOP 30: Bauleitplanung Focher Straße/Dahler Straße
+- TOP 31: Planung eines Parkhauses am Bahnhof Solingen-Ohligs
+- TOP 32: Abonnement der Zeitschrift "Der Schlesier"
+- TOP 33: RWE-Regionalbeirat
+- TOP 34: Anfrage der Ratsfraktion Bündnis 90/Die Grünen offene Liste vom 07.04.2005 zur Feinstaubproblematik in Solingen
+- TOP 35: Ausnahmegenehmigung gemäß § 46 StVO
+- TOP 36: Konzernbeschäftigtenvertretung bei der Stadt Solingen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Verleihung des Ehrenpreises der Stadt Solingen "Die Schärfste Klinge"
+- TOP 2: Rechenschaftsbericht und Haushaltsrechnung 2003
+- TOP 3: Preispolitik der Stadtwerke Solingen GmbH
+- TOP 4: Preispolitik der Stadtwerke Solingen GmbH
