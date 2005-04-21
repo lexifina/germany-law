@@ -1,0 +1,109 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2005-04-21T17:30:00+02:00
+- Ende: 2005-04-21T22:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=902
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=902
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=46820
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - mit Änderungen in der BVV beschlossen
+- TOP 3: Thematische Stunde - (offen)
+- TOP 4: Mündliche Anfrage - (offen)
+- TOP 4.1: Arge-Beirat <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Scheffler)</span> - beantwortet
+- TOP 4.2: Umgestaltung des Leopoldplatzes <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Tolle)</span> - beantwortet
+- TOP 4.3: Regionale wirtschaftliche Interessen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Matischok-Yesilcimen)</span> - beantwortet
+- TOP 4.4: Öffentlich-nichtöffentliche Sitzung am Volkspark am Weinbergsweg <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Reschke)</span> - beantwortet
+- TOP 4.5: Telebus <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Reuter)</span> - beantwortet
+- TOP 4.6: Dietrich-Bonhoeffer-Gedenktafel <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Schauer-Oldenburg)</span> - beantwortet
+- TOP 4.7: Festlegung neuer QM-Kulissen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Diedrich)</span> - beantwortet
+- TOP 4.8: Gesundheitsgefahren im Jobcenter <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Scheffler)</span> - schriftlich beantwortet
+- TOP 4.9: Kein Interesse am SteuerzahlerInnen im BürgerInnen-Amt? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller)</span> - schriftlich beantwortet
+- TOP 5: Dringlichkeitsanfrage - (offen)
+- TOP 5.1: Bauvorhaben Luisenstädtischer Kanal - Beteiligung nur ausgewählter Bürger? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Diedrich für die Fraktion)</span> - beantwortet
+- TOP 6: Große Anfrage - (offen)
+- TOP 6.1: Strandbar/ Theater in - Spielplatz out <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Thierfelder für die Fraktion)</span> - beantwortet
+- TOP 6.2: Zieht die Metropolitan School in eine Ruine ein? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Pawlowski)</span> - beantwortet
+- TOP 6.3: Bezirkliche Gedenkveranstaltung zum 08. Mai 1945 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Mahr)</span> - beantwortet
+- TOP 6.4: Erste Bilanz der ArGe <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Loof für die Fraktion)</span> - beantwortet
+- TOP 6.5: Energiesparcontracting - von der BVV initiiert, doch ohne BVV beschlossen? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann von Dassel für die Fraktion)</span> - schriftlich beantwortet
+- TOP 6.6: Instandhaltungsrückstand für die Straßen in Mitte <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Schmidt)</span> - schriftlich beantwortet
+- TOP 6.7: Sonderprogramm Tiefbauunterhaltung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Asmann)</span> - schriftlich beantwortet
+- TOP 6.8: Breite Diskussion der "Leitlinien für die Integration"? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann für die Fraktion)</span> - schriftlich beantwortet
+- TOP 6.9: Marienviertel - Zurück zu den Wurzeln! <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Pawlowski)</span> - schriftlich beantwortet
+- TOP 6.10: Städtepartnerschaften: BVV außen vor? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann für die Fraktion)</span> - schriftlich beantwortet
+- TOP 6.11: Familie und Beruf kompatibel machen! Was tragen die Kitas dazu bei? <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Pawlowski)</span> - schriftlich beantwortet
+- TOP 7: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Berufung eines beratenden Mitgliedes und dessen Stellvertreter in den Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 6 AG KJHG i.V. mit § 35 Abs. 8 AG KJHG <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Jahn)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl eines Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 9.1: Bebauungsplanentwurf I-25 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-25 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Bebauungsplanentwurf II-145a sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes II-145a - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Bebauungsplan II-147 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes II-147 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Kostenbeitrag Ferienbetreuung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Herrmann)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11: Antrag - (offen)
+- TOP 11.1: Gefährdung durch normwidrige Betten in Pflegeheimen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Schauer-Oldenburg für die Fraktion)</span> - mit Änderungen in der BVV beschlossen
+- TOP 11.2: QM 1 - MitarbeiterInnen mit Migrationshintergrund <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach David)</span> - überwiesen
+- TOP 11.3: Ordnungsmittel zur Sanierung Torstraße 212/ 216 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Seidel)</span> - überwiesen
+- TOP 11.4: 8. Mai - Tag der Befreiung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Kalex Wildenhein-Lauterbach)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Kleine Auguststraße: Schilder statt Poller <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bertermann Dr. Stiller für die Fraktion)</span> - überwiesen
+- TOP 11.6: QM 2 - Information der Bezirksverordnetenversammlung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach David)</span> - überwiesen
+- TOP 11.7: Anbindung der oberen Koloniestraße an den ÖPNV <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Rissmann)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Quartiersmanagement <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Krüger für die Fraktion)</span> - mit Änderungen in der BVV beschlossen
+- TOP 11.9: Tranzparenz beim Haushalt nicht nur für Bezirksverordnete <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bertermann Dr. Stiller von Dassel für die Fraktion)</span> - mit Änderungen in der BVV beschlossen
+- TOP 11.10: Schillerpark im Schillerjahr <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Mahr)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.12: Stadtplatz am Molkenmarkt <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Diedrich für die Fraktion)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Angemessene finanzielle Ausstattung der Bezirke statt wahltaktische Sonderprogramme <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bertermann Dr. Stiller von Dassel für die Fraktion)</span> - überwiesen
+- TOP 11.14: Negativliste Bauchladenhandel <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Matischok-Yesilcimen)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Initiativen des Kurt-Schumacher-Kreises für eine Gedenktafel am Admiralspalast unterstützen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Urban)</span> - überwiesen
+- TOP 11.16: Dieselrußfilter für alle Dienstfahrzeuge des Bezirksamtes Mitte <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bertermann Dr. Stiller von Dassel für die Fraktion)</span> - überwiesen
+- TOP 11.17: Berufsberatung nach SGB III <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Allendorf)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Initiative des Kurt-Schumacher-Kreises für eine Gedenktafel in der Jägerstraße 60 unterstützen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Urban)</span> - überwiesen
+- TOP 11.19: Initiative des Kurt-Schumacher-Kreises für eine Gedenktafel am Potsdamer Platz unterstützen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Urban)</span> - überwiesen
+- TOP 11.20: Verzicht auf das geplante Straßenausbaubeitragsgesetz <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Hilse)</span> - in der BVV abgelehnt
+- TOP 12: Antrag/Beschlussempfehlung - (offen)
+- TOP 12.1: Konzept gegen öffentliche Trinkgelage <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Rissmann)</span> - vertagt
+- TOP 12.2: Internationales Jahr des Sports 2005 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach David Matischok-Yesilcimen)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Fußgängerüberweg <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Bhaduri)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlage zur Kenntnisnahme - (offen)
+- TOP 13.1: Beibehaltung der Nutzung des Geländes des ehemaligen Krankenhauses Moabit als Naherholungsbereich für die Bevölkerung
+- TOP 13.2: Milchhof e. V. <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Jahn; Diedrich)</span>
+- TOP 13.3: Hochschulmedizin/ Klinikstandorte in Mitte <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Scholz für die Fraktion)</span>
+- TOP 13.4: Energiesparende Investitionen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Diedrich für die Fraktion)</span>
+- TOP 13.5: Rosenholz-Überprüfung in Mitte <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Dr. Knape)</span> - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.6: Vergabe von Gutachten, Studien u.ä. öffentlich machen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Diedrich Bertermann)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: Abweisung wohnungsloser kranker Menschen durch Krankenhäuser <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Scheffler Schauer-Oldenburg)</span> - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.8: BND und Senat beim Wort nehmen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann von Dassel für die Fraktion)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.9: Initiativen zu Hartz IV im Bezirk Mitte <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Scheffler für die Fraktion)</span> - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.10: Medizinische Versorgung wohnungsloser kranker Menschen in Krankenhäusern - Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.11: Landesweite Regelung für Gewährung eines Mehrbedarfzuschlages bei kostenaufwendiger Ernährung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ziermann für die Fraktion)</span> - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.12: Radschlag fürs Ordnungsamt: Anschaffung von Diensträdern für den Außendienst <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann von Dassel für die Fraktion)</span> - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.13: Aids-Prävention <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ziermann für die Fraktion)</span> - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.14: Angebote für U-Bahn-Kinder <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Zander)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.15: Haltungsbedingungen von Zirkustieren <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach David)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.16: Info-Pavillon am Schloßplatz ermöglichen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Tolle)</span> - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.17: Übergangsregelung BSHG <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Wildenhein-Lauterbach Matischok-Yesilcimen)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.18: Hartz IV: Verunsicherung über angemessenen Wohnraum beenden! <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Scheffler für die Fraktion)</span> - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.19: Gesundheits- und Sozialzentrum Moabit <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ziermann)</span> - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.20: Gesundheitsniveau in QM-Gebieten erhöhen! <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Stiller Bertermann Schauer-Oldenburg)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.21: Parken in zweiter Reihe unterbinden <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Spallek Reschke)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.22: Benennung einer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.23: Beschluss über das Ergebnis der frühzeitigen Bürgerbeteiligung und der Trägerbeteiligung und die Durchführung der öffentlichen Auslegung gemäß § 3 Abs. 2 BauGB des Bebauungsplans I-63 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.24: Abgabe der kommunalen Seniorenfreizeitstätten in freie Trägerschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.25: Liegenschaftsfonds alt: Drucksache I/32 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.26: über die Absicht, auf Grund der gesetzlichen Änderungen des Baugesetzbuchs noch 35 Bebauungsplanverfahren nach altem Recht bis Juni 2006 festzusetzen und Bebauungsplanverfahren, für die es noch kein Planerfordernis mehr gibt, zeitnah einzustellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.27: Gründung einer Städtepartnerschaft zwischen dem Bezirk Mitte von Berlin und dem Bezirk Budapest Terézváros - mit Abschlussbericht zur Kenntnis genommen
