@@ -1,0 +1,99 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2005-04-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/569374
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/569374
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1: Informationsveranstaltung zum Thema Straßenausbaubeitragsrecht; Anhörung
+- TOP 3.1.2: Stadtsanierung in München am Mittleren Ring Südost; Chancen und Perspektiven für Berg am Laim, Ramersdorf und Giesing
+- TOP 3.1.1: Durchfahrtsunterbrechung in der St.-Michael-Str. zwischen dem Wendehammer und der Else-Rosenfeld-Str.; Antrag Nr. 2712 vom 20.12.2004 (zu TOP 3.1.2.5./12/04)
+- TOP 3.1.2: Einrichtung eines absoluten Halteverbots in der Neumarkter Str. Höhe Hausnr. 59 ? 63; Antrag der SPD Fraktion im BA 14
+- TOP 3.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.5: Sanierung der Trambahn-Gleise zwischen Baumkirchner Str. und St.-Veit-Str.
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.1: Reduzierung der Zahl der Eingangsklassen an der städtischen schulartunabhängigen Orientierungsstufe; Anhörung
+- TOP 3.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.3: Schulsozialarbeit im Westen Berg am Laims, Zwischennachricht (zu TOP 3.3.1./03.05)
+- TOP 3.1.4: Erweiterung der Grundschule an der Grafinger Str. (MIP 2005-2009)
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.1: Kein Stellenabbau bei Streetwork, weder im 8. noch im 9. Stadtbezirk; Antrag des BA 9
+- TOP 3.1.1: Antrag auf Zuschuss aus dem Budget des BA 14; Münchner Aktionswerkstatt G´sundheit (MAG´s); Projekt ?Bunt kickt gut?
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.1: Veranstaltung auf öffentlichen Verkehrsgrund: ?Wohlfühlralley? von Kultur- und Spielraum e.V., Start und Ziel: Baumkirchner Str. ; Anhörung
+- TOP 3.1.2: Stadtteilwoche Trudering-Riem - Berg am Laim 2005 (17.06.05 ? 24.06.05) am 18.06.2005 an der St.-Veit-Straße; Anhörung
+- TOP 3.1.3: MVV-Streifenkarten für Automatenverkauf in Bus und Tram; Antrag des BA 20
+- TOP 3.1.4: Finanzierung der Euro-Skate-Halle durch das Aufstellen von Litfaßsäulen; Antrag der Arbeitsgruppe Buhlstr. e.V.
+- TOP 3.1.5: Verkauf einer städtischen Immobilie: Kreillerstr./Eigenhausstr.; Anhörung
+- TOP 3.1.6: Anhörung der Bezirksausschüsse in stadtratpflichtigen Angelegenheiten; Anhörung
+- TOP 3.1.7: Veranstaltung auf öffentlichen Verkehrsgrund: BUGA-Triathlon am 31.07.05; Anhörung
+- TOP 3.1.8: Veranstaltung auf dem Piusplatz: Spielwoche; AKA e.V.
+- TOP 3.1.9: Dornbergstr. 17; ?Isareckstüberl?: Antrag auf Einrichtung einer Freischankfläche; Anhörung
+- TOP 3.1.10: Oktoberfest 2005: Reservierung der Ratsboxe für die Bezirksausschüsse
+- TOP 3.1.1: Neumarkter Str. 34, Antrag auf Fällung von 2 Pappeln
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1: Straßenausbaubeitragssatzung, Verfahrensregelungen bei der Projektentwicklung; Beschlussvorlage des Bauausschusses vom 12.04.05
+- TOP 4.1.2: Meldeliste der Erstanträge in der Zeit vom 14.03.05 ? 10.04.05
+- TOP 4.1.3: Meldeliste der Änderungen in der Zeit vom 14.03.05 ? 20.03.05
+- TOP 4.1.4: Meldeliste der Abbrüche in der Zeit vom 21.03.05 ? 27.03.05
+- TOP 4.1.1: Wie ist das Verhältnis der Investitionen in den Radverkehr zu den Investitionen in den motorisierten Individual- und Wirtschaftsverkehr; Beschlussvorlage des Bauausschusses vom 12.04.05
+- TOP 4.1.2: Mittlerer Ring Ost ?Vogelweideplatz-; Neugestaltung der Stadteinfahrt am Ende der A 94; Beschlussvorlage des Bauausschusses vom 12.04.05
+- TOP 4.1.3: Frostschäden auf Münchner Straßen; Beschlussvorlage des Bauausschusses vom 12.04.05
+- TOP 4.1.4: Verkehrsbericht der Polizei 2004
+- TOP 4.1.5: Sperre der Echardinger Str. in Höhe der Altöttinger Str.; Antwort zu einer Anfrage aus der BV am 08.03.05
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.1: Zuschauertribüne für mindestens eine der neu zu errichtenden Dreifach-Turnhallen in der Messestadt Riem, Schreiben des BA 15 (zu TOP 3.6.6./11/04 und 3.3.2./03/05)
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.1: Zukunft der Arbeitsgruppe Obdachlosigkeit und des Beraterkreises für die Sanierung der Städtischen Unterkünfte, Beschlussvorlage des Sozialausschusses vom 21.04.05
+- TOP 4.1.1: Antrag auf Budget des BA 14 der Freiwilligen Feuerwehr München, Abteilung Michaeliburg; Wärmebildkamera; Dankschreiben
+- TOP 4.1.2: Antrag auf Budget des BA 14 der Freiwilligen Feuerwehr München, Abteilung Michaeliburg; Wärmebildkamera; Verwendungsnachweis
+- TOP 4.1.3: Antrag auf Budget des BA 14 durch den Elternbeirat der Hauptschule am Echardinger Grünstreifen; Projekt ?Streitschlichter?; Verwendungsnachweis
+- TOP 4.1.4: Antrag auf Budget des BA 14 des Theatervereins ?Die lustigen Truderinger?; Lichtanlage; Verwendungsnachweis
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.1: Perspektive München; Bericht zur Stadtentwicklung 2003; Beschlussvorlage des Bauausschusses vom 12.04.05
+- TOP 4.1.2: Zweckentfremdung von Wohnraum; Sonnwendjochstr. 50 Abbruch: 82 m² bzw. 1 WE; geplanter Neubau: 309 m² bzw. 2 WE
+- TOP 4.1.3: Zirkus Baldoni; Veranstaltungen an der St.-Veit-Str.; Bescheid
+- TOP 4.1.4: Programm ?Bürgerinnen und Bürger gestalten ihre Stadt? ? Bürgerbeteiligung in den Stadtvierteln
+- TOP 4.1.5: Diskurs ?Stadtgestalt und neue Architektur?; Bekanntgabe
+- TOP 4.1.6: Einzelhandelskonzept für den Münchner Südosten; Bekanntgabe
+- TOP 4.1.7: Grafinger Str. 6, Kultfabrik, Gaststätte ?Full Stuff Club?; Antrag auf unveränderte Fortführung
+- TOP 4.1.8: Kennzeichnung bei Änderungen von Anhörungen
+- TOP 4.1.9: Eröffnung der Bezirksinspektion Ost
+- TOP 4.1.10: Mehrjahresinvestitionsprogramm (MIP) 2005-2009
+- TOP 4.1.1: St.-Veit-Str. 54; Fällungsantrag vom 18.08.2004; Bescheid
+- TOP 4.1.2: Levelingstr. 2; Fällungsantrag vom 03.03.2005; Bescheid
+- TOP 4.1.3: Neumarkter Str. 77; Fällung eines Gefahrenbaums
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
