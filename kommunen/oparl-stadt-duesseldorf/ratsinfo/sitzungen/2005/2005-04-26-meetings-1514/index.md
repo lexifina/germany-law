@@ -1,0 +1,57 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-04-26T16:00:00+02:00
+- Ende: 2005-04-26T00:00:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1514
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1514
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111423.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111423.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111423.pdf
+
+## Tagesordnung
+
+- TOP 1: Schriftführer - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - zur Kenntnis genommen
+- TOP 4: Soziale Stadt NRW - zur Kenntnis genommen
+- TOP 5: FNPÄ100-Höherweg/KettwigerStr-Anr. Plan - zur Kenntnis genommen
+- TOP 6: Edisonplatz
+- TOP 7: Radwegenetz Planung II - zur Kenntnis genommen
+- TOP 8: Zoopark IV - zur Kenntnis genommen
+- TOP 9: Bauunterhalt - zur Kenntnis genommen
+- TOP 10: Baumpflanzungen - einstimmig beschlossen
+- TOP 11: Zuschussantrag "Mädchen machen zakk" - zur Kenntnis genommen
+- TOP 12: Flinger Broich 3 - einstimmig beschlossen
+- TOP 13: Flinger Broich 80 - mehrheitlich beschlossen
+- TOP 14: Kiefernstraße II - mehrheitlich beschlossen
+- TOP 15: Kiefernstraße II - mehrheitlich beschlossen
+- TOP 16: Abfallbeseitigung Duales System - mehrheitlich beschlossen
+- TOP 17: Rethelstraße - mehrheitlich beschlossen
+- TOP 18: Höherweg - mehrheitlich beschlossen
+- TOP 19: Umweltschutz V - mehrheitlich beschlossen
+- TOP 20: Umweltschutz V - einstimmig beschlossen
+- TOP 21: Schulen - Generalien - mehrheitlich beschlossen
+- TOP 22: Flinger Broich 89 - mehrheitlich beschlossen
+- TOP 23: Walter Eucken Straße - mehrheitlich beschlossen
+- TOP 24: Stadtwerkepark - zur Kenntnis genommen
+- TOP 25: Rethelstraße - mehrheitlich abgelehnt
+- TOP 26: Faunastraße - einstimmig beschlossen
+- TOP 27: Brehmplatz - mehrheitlich beschlossen
+- TOP 28: Kiefernstraße II - zur Kenntnis genommen
+- TOP 29: Bezirksvertretung Generalien II - zur Kenntnis genommen
+- TOP 30: Flinger Richtweg - zur Kenntnis genommen
+- TOP 31: Kiefernstraße II - zur Kenntnis genommen
+- TOP 32: Hellweg Info 70a - zur Kenntnis genommen
+- TOP 33: Schulen - Generalien
+- TOP 34: Dorotheenstraße - Kinderspielhaus - zur Kenntnis genommen
+- TOP 35: Dorotheenstraße - Kinderspielhaus - zur Kenntnis genommen
+- TOP 36: Maurenbrecherstraße - Erneuerung der Fahrbahn - zur Kenntnis genommen
+- TOP 37: Lärmschutz - zur Kenntnis genommen
+- TOP 38: Gerresheimer Straße/Langerstraße+Umbau neu - zur Kenntnis genommen
+- TOP 39: Gerresheimerstraße - zur Kenntnis genommen
+- TOP 40: Zoopark IV - zur Kenntnis genommen
