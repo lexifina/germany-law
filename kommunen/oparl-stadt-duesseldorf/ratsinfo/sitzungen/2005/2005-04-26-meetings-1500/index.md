@@ -1,0 +1,76 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-04-26T17:00:00+02:00
+- Ende: 2005-04-26T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1500
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1500
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111422.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111422.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111422.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Bericht der Polizei
+- TOP 4: FNPÄ 45 Am Quellenbusch Anreg. Plan
+- TOP 5: B-Plan Nr. 5977/049 - Am Quellenbusch
+- TOP 6: Schiedsperson
+- TOP 7: Bezirksbezogene Bauunterhaltungsmaßnahmen
+- TOP 8: Sonntagsfreigaben III
+- TOP 9: Platzbenennung
+- TOP 10: Zuschuss an die Sportfreunde Gerresheim
+- TOP 11: Zuschuss zum Veedelszoch
+- TOP 12: Zuschussrichtlinien
+- TOP 13: Seniorentag 2005
+- TOP 14: Aufklärung L 404 n
+- TOP 15: Gestaltung Aloys-Odenthal-Platz
+- TOP 16: Ludenberger Straße
+- TOP 17: Sanierung der Ludenberger Straße
+- TOP 18: S-Bahnhof Gerresheim
+- TOP 19: Hardtstraße
+- TOP 20: Hardtstraße Kanal
+- TOP 21: Ludenberger Straße
+- TOP 22: Nachbarschaftspark Diepenstraße
+- TOP 23: Bürgerversammlung zur L 404
+- TOP 24: Verkehrssicherheit Quadenhofstraße
+- TOP 25: Hinweistafel Gerresheimer Süden
+- TOP 26: Schellbergweg
+- TOP 27: Spielplatz Schreberweg
+- TOP 28: L 404 : Feinstaubanalyse
+- TOP 29: Hannele-Zürndorfer-Platz
+- TOP 30: Lkw-Verkehrszählung
+- TOP 31: Kastanienallee
+- TOP 32: Sporthalle Gerresheim
+- TOP 33: Ludenberger Straße
+- TOP 34: Seniorenfreundliche Busstation
+- TOP 35: Aloys-Odenthal-Büste
+- TOP 36: Parkanlage Benderstraße
+- TOP 37: Verkehrslenkung / Verkehrsaufkommen Kleineforstweg
+- TOP 38: Müllhaufen Am Bongard
+- TOP 39: Skulptur Metzkauser Straße
+- TOP 40: Trauzimmer im Gerresheimer Rathaus
+- TOP 41: Erneuerung Straßenbeleuchtung Knittkuhl
+- TOP 42: Robidog-Behälter
+- TOP 43: Parken in zweiter Reihe
+- TOP 44: Nachverdichtung Ostpark-Siedlung
+- TOP 45: Weltjugendtag im Erzbistum Köln
+- TOP 46: Bauaufsicht
+- TOP 47: Parkplätze Heyestraße 99
+- TOP 48: Nachverdichtung Ostpark-Siedlung
+- TOP 49: Offene Ganztagsschule
+- TOP 50: Kanalisation Gallberg/Blanckertzsiedlung
+- TOP 51: Städtischer Kindergarten Heinrich-Könn-Straße
+- TOP 52: Mobbing an Schulen im Stadtbezirk 7
+- TOP 53: Erweiterung des Bürgerhauses Gerresheim
+- TOP 54: Verkehrsentwicklungsplan
+- TOP 55: Rauchverbot an Schulen
+- TOP 56: Golfplatz Grafenberg
+- TOP 57: Buslinie 730
+- TOP 58: Rheinbahnhaltestelle Gerresheimer Krankenhaus
+- TOP 59: Bänke im Nachbarschaftspark Diepenstraße
