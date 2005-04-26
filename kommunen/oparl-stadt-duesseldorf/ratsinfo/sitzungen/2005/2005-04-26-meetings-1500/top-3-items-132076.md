@@ -1,0 +1,7 @@
+# TOP 3: Bericht der Polizei
+
+- Sitzung: Bezirksvertretung 7 (2005-04-26)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/132076
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/27323
