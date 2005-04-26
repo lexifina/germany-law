@@ -1,0 +1,7 @@
+# TOP 4.1.7: Grafinger Str. 6, Kultfabrik, Gaststätte ?Full Stuff Club?; Antrag auf unveränderte Fortführung
+
+- Sitzung: BA 14 - Vollgremium (2005-04-26)
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/53883
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/53883
