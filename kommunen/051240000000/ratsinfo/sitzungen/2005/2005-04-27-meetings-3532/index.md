@@ -1,0 +1,99 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2005-04-27T16:04:00+02:00
+- Ende: 2005-04-27T16:40:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3532
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3532
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 12.04.2005 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00049281.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00050942.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00050171.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Wuppertal gegen Rechtsextremismus - Für Demokratie und Toleranz - nur Rat
+- TOP 1.1.1: Resolution gegen den Aufmarsch von Neonazis am 14. Mai 2005 in Wuppertal - nur Rat
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Risikomanagement von Cross-Border-Leasing-Geschäften - nur Rat
+- TOP 2.2: Städtische Gebäude am Lienhardplatz - nur Rat
+- TOP 2.3: Umsetzung von Hartz lV in Wuppertal - nur Rat
+- TOP 2.4: Fahrverbote für LKW in Wuppertal - nur Rat
+- TOP 2.5: Gefahr der Wahlwiederholung in Wuppertal - nur Rat
+- TOP 2.6: Bürgerinitiative Rettet die Schwebebahn - nur Rat
+- TOP 2.7: Fahrgastaufkommen der Schwebebahn - nur Rat
+- TOP 2.8: Feinstaubmessung - nur Rat
+- TOP 2.9: Feinstaub - nur Rat
+- TOP 2.10: Verwendung von Cortenstahl im Rahmen der Umsetzung von Projekten der Regionale 2006 - nur Rat
+- TOP 2.11: Kohlfurther Brücke - nur Rat
+- TOP 2.12: Einrichtung von Taubenhäusern - nur Rat
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Auflösung des bilingualen Zweiges am Gymnasium Wuppertal-Vohwinkel - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: "Gelbe Schule" Cronenberger Straße - vertagen
+- TOP 4.1.1: Grundschule Cronenberger Straße - vertagen
+- TOP 4.2: Feinstaubfilter für Taxis - zur Vorberatung verwiesen
+- TOP 4.2.1: Maßnahmen gegen Feinstaubbelastung zur Luftreinhaltung - zur Vorberatung verwiesen
+- TOP 4.3: Eintrag ehemaliger NS-Zwangsarbeiterinnen und Zwangsarbeiter in das Goldene Buch der Stadt Wuppertal - vertagen
+- TOP 4.4: Erhöhung der Anzahl der Ratssitzungen auf 10 im Jahr - vertagen
+- TOP 4.5: Arbeitsaufnahme des ARGE-Beirates
+- TOP 4.6: Faires Beschaffungswesen in der Stadt Wuppertal - zur Vorberatung verwiesen
+- TOP 4.7: Unterzeichnung der Erklärung deutscher Bürgermeister zur Abschaffung von Atomwaffen
+- TOP 4.8: Erhaltung des Kurbades Barmen - vertagen
+- TOP 4.9: Erweiterung des Onlineangebotes zur Kinderbetreuung in Wuppertal - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Dreckwegtag - ungeändert beschlossen
+- TOP 5.2: Erhaltung Kurbad Barmen
+- TOP 5.3: Photovoltaikanlagen auf städtischen Gebäuden
+- TOP 5.4: Finanzierung des Ausbaus der Wuppertaler Schwebebahn und der Projekte der Regionale 2006
+- TOP 6: Ortsrecht
+- TOP 6.1: 11. Änderungssatzung zur Satzung über die Erhebung von Gebühren für die Benutzung von Übergangseinri - ungeändert beschlossen
+- TOP 6.2: Zusätzliche Ladenöffnungszeiten - ungeändert beschlossen
+- TOP 6.3: Zweite Änderung der Ehrenordnung der Stadt Wuppertal - geändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit - ungeändert beschlossen
+- TOP 8.2: Änderung der Satzung des Eigenbetriebes Gebäudemanagement Wuppertal - vertagen
+- TOP 8.3: Gründung der Wuppertal Marketing GmbH - geändert beschlossen
+- TOP 8.3.1: Wuppertal Stadtmarketing GmbH - vertagen
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 682 -Hardt / Schwabenweg - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 1074 - Erweiterung des Golfplatzes Bergisch Land - (Flächennutzungsplanände - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1071 - Golfplatz Haan-Düsseltal - - abgesetzt
+- TOP 9.4: Bauleitplanverfahren Nr. 996 V - Wiedener Straße- - abgesetzt
+- TOP 9.5: Bauleitplanverfahren Nr. 1044 V - Neuenbaumer Weg - Vorhabenbezogener Bebauungsplan - abgesetzt
+- TOP 9.6: Neugestaltung Döppersberg ; Alternatives Finanzierungs- und Umsetzungskonzept - Entgegennahme ohne Beschluss
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Erweiterung der Ganztagsgrundschule Küllenhahner Straße - ungeändert beschlossen
+- TOP 10.2: Erweiterung der Grundschule Kampstraße; Standort Am Hofe - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Wuppertal - Pass (Punkt 4 des Beschlussvorschlages) - vertagen
+- TOP 11.1.1: Wuppertal Pass - vertagen
+- TOP 11.1.2: Mittagessen für Kinder von ALG II-Beziehern in der Offenen Ganztagsgrundschule - vertagen
+- TOP 11.1.3: Mittagessen für Kinder von ALG II-Beziehern in der Offenen Ganztagsgrundschule - vertagen
+- TOP 11.3: Teilnahme am ausgeweiteten Schulversuch der Sekundarstufe I - zieldifferent (integrative Lerngruppe) - vertagen
+- TOP 11.4: Annahme einer Schenkung - ungeändert beschlossen
+- TOP 11.5: Rußpartikelfilter für Fahrzeuge der WSW - ungeändert beschlossen
+- TOP 11.5.1: Rußpartikelfilter für Fahrzeuge der WSW - in der Sache erledigt
+- TOP 11.6: Präsentationsstrategie der Regionale 2006 - Die Bergische Expo - ungeändert beschlossen
+- TOP 11.7: Errichtung des Bildungsganges für die Beschulung der Restaurant- und Hotelfachleute für - ungeändert beschlossen
+- TOP 11.8: Pflegeberatung gem. § 4 Pflegegesetz (PfG NW) - ungeändert beschlossen
+- TOP 11.9: 1. Änderung der Richtlinien für den Eduard von der Heydt - Kulturpreis der Stadt Wuppertal - geändert beschlossen
+- TOP 11.10: Optimierung des verwaltungsinternen Steuerungssystems - vertagen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Umbesetzung im Steuerungsgremium Regionale 2006 - ungeändert beschlossen
+- TOP 12.2: Wahl der Vertreter für das Kuratorium Eduard von der Heydt - Kulturpreis - ungeändert beschlossen
+- TOP 12.3: Wiederbesetzung der Stelle der Stadtbetriebsleitung im Von der Heydt - Museum - ungeändert beschlossen
+- TOP 12.4: Besetzung des Betriebsausschusses für die Kinder- und Jugendwohngruppen der Stadt Wuppertal - KIJU - - ungeändert beschlossen
+- TOP 12.5: Abberufung und Bestellung der Mitglieder des Aufsichtsrates der Gemeinnützigen Wohnungsbaugesellscha - ungeändert beschlossen
+- TOP 12.6: Umbesetzung im Sportausschuss - ungeändert beschlossen
+- TOP 12.7: Benennung eines Mitgliedes mit beratender Stimme im Sportausschuss - abgelehnt
+- TOP 12.8: Umbesetzung im Ausschuss für Soziales, Gesundheit und Familie - ungeändert beschlossen
+- TOP 12.9: Gremienbesetzung - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 13.1: Verlegung der katholischen Grundschule Holthauser Straße an den Standort Engelbert-Wüster-Weg - Dringlichkeitsentscheidung genehmigt
+- TOP 13.2: Besetzung des Kreiswahlausschusses für den Wahlkreis 33 bei der Landtagswahl 2005 - Dringlichkeitsentscheidung genehmigt
