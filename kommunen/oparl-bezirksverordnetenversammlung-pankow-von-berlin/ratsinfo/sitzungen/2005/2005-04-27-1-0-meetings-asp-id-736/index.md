@@ -1,0 +1,81 @@
+# 32. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2005-04-27T17:30:00+02:00
+- Ende: 2005-04-27T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=736
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=736
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=3677
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - im Ausschuss abgelehnt
+- TOP 1.2: Abstimmung über die Tagesordnung - im Ausschuss abgelehnt
+- TOP 1.3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 1.4: Mündliche Anfrage - im Ausschuss abgelehnt
+- TOP 1.5: Bericht des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 1.6: Konsensliste - im Ausschuss abgelehnt
+- TOP 1.7: Wahl eines Bürgerdeputierten <span style="color: #888a85" title="Zusatzinfo">(Antrag der Fraktion PDS)</span> - gewählt
+- TOP 1.8: Berufung eines beratenden Mitgliedes für den Jugendhilfeausschuss der BVV Pankow für die V. Wahlperiode - gewählt
+- TOP 1.9: Bebauungsplan 3-7 VE für eine Teilfläche des Geländes nördlich des Blankenburger Pflasterweges zwischen Suderoder Graben, Außenring der Deutschen Bahn, Schälingsgraben sowie Teilflächen der Grundstücke westlich dieses Geländes im Bezirk Pankow, Ortsteile Stadtrandsiedlung Malchow und Blankenburg - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2002 - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Sanierungsziel Kindertagesstätte im Sanierungsgebiet Bötzowstraße, Grundstück Am Friedrichshain 29 - 32 - in der BVV abgelehnt
+- TOP 1.12: Straßenausbaubeitragsgesetz verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Quartiersmanagement - mit Änderungen in der BVV beschlossen
+- TOP 1.14: Einbürgerungsfeiern in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Wohnumfeld in den Sanierungsgebieten verbessern - zurückgezogen
+- TOP 1.16: Kosten für den Betrieb des Moduls "Allris-Net" - zurückgezogen
+- TOP 1.17: Vorbereitungen zur Gründung des KiTa - Eigenbetriebes - beantwortet
+- TOP 1.18: Kindertagesstätten in Pankow vollständig an freie Träger übertragen - in der BVV abgelehnt
+- TOP 1.18.1: Vollständige Übertragung von Kindertagesstätten in Pankow an freie Träger - in der BVV abgelehnt
+- TOP 1.18.2: Entgeltordnung für öffentliche Sportanlagen des Bezirksamtes Pankow - mit Änderungen in der BVV beschlossen
+- TOP 1.18.3: KITA-Eigenbetrieb voranbringen - in der BVV zurückgezogen
+- TOP 1.19: Mauerpark für alle! - in der BVV abgelehnt
+- TOP 1.19.1: Radfahren im Mauerpark - mit Änderungen in der BVV beschlossen
+- TOP 1.19.2: Luxusprojekt "Asphaltierung des Mauerparks" verhindern - in der BVV zurückgezogen
+- TOP 1.20: Breitbandinternet nach Pankow! - überwiesen
+- TOP 1.21: Finanzierung des Mime Centrum Berlin - beantwortet
+- TOP 1.22: Feinstaubbelastungen für Pankower Bürger - vertagt
+- TOP 1.23: Folgeuntersuchung zur Parkraumbewirtschaftung in Mitte - vertagt
+- TOP 1.24: Arbeitsgelegenheiten mit Mehraufwandsentschädigung (MAE) im Bezirksamt Pankow - vertagt
+- TOP 1.25: Bürgerbeteiligung nach Aufhebung der Sanierungsgebiete - vertagt
+- TOP 1.26: Kein Autoverkehr in der Buddestraße! - überwiesen
+- TOP 1.27: Lichtpfeil an der Lichtzeichenanlage (LZA) Breite/Berliner Straße - überwiesen
+- TOP 1.28: Wie weiter mit den ehemaligen Kleingartengebieten - vertagt
+- TOP 1.29: Kleingärten in Pankow erhalten! - vertagt
+- TOP 1.30: Fenster in Brandwände zu unbebauten Grundstücken - überwiesen
+- TOP 1.31: Sichern erreichter Ziele der Stadterneuerung nach Aufhebung der Sanierungsgebiete - überwiesen
+- TOP 1.32: Vermeidung von Schleichverkehr in der Hans-Jürgen-Straße - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Botanische Anlagen in Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Bauliche Mängel in der Kita "La Cigale" - vertagt
+- TOP 2.3: Eliashof - vertagt
+- TOP 2.4: Soziale Projekte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Kein Kita-Konzern - vertagt
+- TOP 2.6: Hartz IV - Auswirkungen auf Arbeit des Jugendamtes mit benachteiligten Jugendlichen - vertagt
+- TOP 2.7: Obdachlose Menschen und Hartz IV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Hartz IV - siehe auch Drs. Nr. V - 0862/04 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Drs. Nr. V- 0857 1. Zwischenbericht - zur Kenntnis genommen
+- TOP 2.10: Chancengleichheit am Arbeitsmarkt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Bauvorhaben der HOWOGE WBG in Blankenburg - vertagt
+- TOP 2.12: Information der BürgerInnen über die neuen Grenzwerte für Luftschadstoffe - vertagt
+- TOP 2.13: Bebauungsplanentwurf XVIII - 13 für die Grundstücke Gartenstraße 40/46, Alt - Blankenburg 53/57, 61/69, Jungbornstraße 2, 6, 10 und eine Teilfläche des städtischen Friedhofs Blankenburg sowie einen Abschnitt der Gartenstraße im Bezirk Weißensee, Ortsteil Blankenburg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Aufhebung der Beschlüsse zur Aufstellung der Bebauungspläne XIX-54 und XVIII-35 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Dauerbetrieb des Online-Service-Büro für Unternehmen (OSW Pankow) - Internetportal des Büros für Wirtschaftsförderung Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Übertragung der Leitung eines Geschäftsbereichs - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Vertretungsregelung der Bezirksamtsmitglieder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Bebauungsplan 3 - 7 VE für eine Teilfläche des Geländes nördlich des Blankenburger Pflasterweges zwischen Suderoder Graben, Außenring der Deutschen Bahn, Schälingsgraben sowie Teilflächen der Grundstücke westlich dieses Geländes im Bezirk Pankow, Ortsteile Stadtrandsiedlung Malchow Blankenburg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Festlegung der Beauftragten für den Haushalt - Veränderungen zum Beschluss des Bezirksamtes V - 03/2002 vom 04.02.2002 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Bestellung eines Mitgliedes des Bezirksamtes in das Kuratorium der "Seniorenstiftung Prenzlauer Berg" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Bestellung eines Mitgliedes des Bezirksamtes Pankow von Berlin für das Heimkuratorium der Seniorenheime Alt-Buch 48, Alt-Buch 49 und Theodor-Brugsch-Str. 18 der Paritätischen Seniorenwohnen g GmbH - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Unterrichtung der BVV über die ab dem 01.04.2005 gültige Struktur des Ordnungsamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Ausdehnung der "Leitlinien für die nachhaltige Entwicklung der Sanierungsgebiete" auf den gesamten Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Benennung von Schulen - 1. Grundschule 03G01 Pankow, Gustav-Adolf-Straße 21, in 13086 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Festsetzung des vorhabenbezogenen Bebauungsplans XIX-VE 9 vom 10. Mai 2001 für das Grundstück Friedrich-Engels-Str. 129 / Kastanienallee 37 - 38 im Bezirk Pankow, Ortsteil Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Öffentlichkeitsbeteiligung zum Entwurf des Zentren- und Einzelhandelskonzeptes des Bezirkes Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: Anlage - Konsensliste - im Ausschuss abgelehnt
