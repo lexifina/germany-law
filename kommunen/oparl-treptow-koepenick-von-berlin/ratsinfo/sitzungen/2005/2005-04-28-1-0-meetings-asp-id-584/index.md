@@ -1,0 +1,75 @@
+# 38. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2005-04-28T16:00:00+02:00
+- Ende: 2005-04-28T22:05:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=584
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=584
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=32935
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Willenserklärung der Bezirksverordnetenversammlung Treptow-Köpenick - 8. Mai 1945: Befreiung von der Nazi-Diktatur! - 8. Mai 2005: Ein Tag für die Demokratie! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.2: Grünau - vertagt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Personelles/Wahlen - gegenstandslos
+- TOP 7.1: Wahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 7.2: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - gewählt
+- TOP 8: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 8.1: Bürgerhaushalt - schriftlich beantwortet
+- TOP 8.2: Hartz IV - Umsetzung im Bezirk Treptow-Köpenick - schriftlich beantwortet
+- TOP 9: Beschlussvorlagen - gegenstandslos
+- TOP 9.1: Sondermittel für Seniorengruppe "Köpenicker Vorleser" (SM 510) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Sondermittel für Seniorenbeirat SFE Britzer Straße (SM 511) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Sondermittel für Jugendfeuerwehr Müggelheim (SM 514) - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Sondermittel für Behindertenverein Köpenick e.V. (SM 516) - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Sondermittel für Haus Schöneweide, GEBEWO (SM 519) - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Sondermittel für SV Luftfahrt Ringen e.V. (SM 521) - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Sondermittel für Adlershofer Künstlerstübchen (SM 522) - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Sondermittel für Seniorenchor "Fröhliche Sänger aus Jo'thal" (SM 525) - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 10.1: Konzeption "Integration von Migrantinnen und Migranten in Treptow-Köpenick" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, PVFinWi)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Bürgerhaushalt - zweiter Schritt - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Bebauungsplan XVI-34 hier: Einstellung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Anmeldung zur Investitionsplanung 2005 bis 2009 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, PVFinWi)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Beseitigung einer Gefahrenstelle durch eindeutige Fahrbahnmarkierung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Hinweistafeln zur Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Fahrradverkehr in Treptow-Köpenick (Vorbeifahrstreifen) <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Gedenktafel für Treptower Schiffsunglück <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bärbel König Verfasser 2: Stefan Förster Verfasser 3: Oliver Igel)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Inhaltliche Planänderungen zum Bebauungsplanentwurf XVI-58 im Ortsteil Rahnsdorf <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.10: Aktualisierung des Sachstandes zur Beplanung der Flurstücke Fürstenwalder Damm 388 und Müggelseedamm 109/111 (ehemaliges ASMW-Gelände) im Bezirk Treptow-Köpenick, Ortsteil Friedrichshagen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.11: Prozess der Lokalen Agenda 21 - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Rahnsdorf-Süd - Anschluss an das öffentliche Abwassernetz - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Personelle Unterstützung Lokale Agenda 21 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 11.1: Bebauungsplan XV-61 hier: Einstellung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 11.2: Umbenennung der im Ortsteil Adlershof zwischen Rudower Chaussee und Köpenicker Straße gelegenen Agastraße in "Am Studio" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 12: Anträge - gegenstandslos
+- TOP 12.1: Kita-Eigenbetriebe - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Erläuterungstafeln Flugplatz Johannisthal <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - überwiesen
+- TOP 12.3: Parkpatenschaften - überwiesen
+- TOP 12.4: Optimierung der Fußgängerampelschaltung am S-Bahnhof Köpenick (Mahlsdorfer Straße) <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bärbel König Verfasser 2: Stefan Förster)</span> - überwiesen
+- TOP 12.5: ArGe/Jobcenter - überwiesen
+- TOP 12.6: Graffiti-Bekämpfung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : René Feldt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Luftmessstation Köpenick-Nord - überwiesen
+- TOP 12.8: Konzept BVG 2005 + - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Laufstrecken in Grünanlagen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margret Radebold)</span> - überwiesen
+- TOP 12.10: Toilettenbauprogramm der BVG <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bärbel König Verfasser 2: Stefan Förster)</span> - mit Änderungen in der BVV beschlossen
+- TOP 12.11: Männer in die Kitas - überwiesen
+- TOP 12.12: Grünflächenpflege nach Friedrichshain-Kreuzberger Modell <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bärbel König Verfasser 2: Stefan Förster)</span> - überwiesen
+- TOP 12.13: Nachmittagsöffnung für Schulhöfe - überwiesen
+- TOP 12.14: Bessere Bekämpfung von Graffitischmiererei <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bärbel König Verfasser 2: Stefan Förster)</span> - überwiesen
+- TOP 12.15: Schachanlage auf der Schlossinsel <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - überwiesen
+- TOP 13: Große Anfragen - gegenstandslos
+- TOP 13.1: Hartz IV - Jobcenter Treptow-Köpenick und ALG II - beantwortet
+- TOP 13.2: Städtepartnerschaften <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Klaus Chinea Correa)</span> - vertagt
+- TOP 13.3: Hartz IV - Vermittlung in Arbeit oder Beschäftigung - vertagt
