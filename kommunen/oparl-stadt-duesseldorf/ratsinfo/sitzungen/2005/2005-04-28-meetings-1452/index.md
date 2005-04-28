@@ -1,0 +1,78 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-04-28T14:00:00+02:00
+- Ende: 2005-04-28T20:12:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1452
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1452
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111765.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111765.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111765.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Dringl. Antr. Bü90: Komm In-NRW-Innovation - mehrheitlich abgelehnt
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Akt. Anfr. CDU:Konversionsverfahren - zur Kenntnis genommen
+- TOP 6: Akt. Anfr. Bü90: Gutachten Einzelhandel - zur Kenntnis genommen
+- TOP 7: Akt. Anfr. CDU: Kö-Überfall - zur Kenntnis genommen
+- TOP 8: Anfragen - zur Kenntnis genommen
+- TOP 9: Anfr. Hahn: Friedhof Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 10: Anfr. FDP: Arbeitgeberverband - zur Kenntnis genommen
+- TOP 11: Anfr. Leibauer: Frischluft L404n - zur Kenntnis genommen
+- TOP 12: Anfr. CDU: Regierungsviertel - zur Kenntnis genommen
+- TOP 13: Anfr. Bü90: Demographische Entwicklung - zur Kenntnis genommen
+- TOP 14: Anfr: RH Laubenburg: Doppelte Staatsbürgerschaften - zur Kenntnis genommen
+- TOP 15: Anfr: RH laubenburg:Nebeneinkünfte des OB - zur Kenntnis genommen
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Stadtteilzentrum Bilk - mehrheitlich beschlossen
+- TOP 18: Änd.A. d. SPD-Ratsfr: Stadtteilz.Bilk - mehrheitlich abgelehnt
+- TOP 19: Anträge - zur Kenntnis genommen
+- TOP 20: Interfr. Antrag: Gedenkstätte - einstimmig beschlossen
+- TOP 21: Antrag Bü90: Hearing Integrationskonzept - mehrheitlich abgelehnt
+- TOP 22: Änd.-antr. CDU/FDP: Hearing zum gesamtstädtischen - mehrheitlich beschlossen
+- TOP 23: Kindergipfel 2006 - einstimmig beschlossen
+- TOP 24: Bürgersaal - mehrheitlich beschlossen
+- TOP 25: Änd.-antr.Bü90: Fertigstellung des Bürgersaal - mehrheitlich abgelehnt
+- TOP 26: Resolution der Ratsfr. CDU/FDP - mehrheitlich beschlossen
+- TOP 27: Antrag SPD: Mobilität in Düsseldorf - mehrheitlich abgelehnt
+- TOP 28: Antrag SPD: Modellprojekt "Erdgasstadt Düsseldorf" - mehrheitlich abgelehnt
+- TOP 29: Änd.-antr. CDU/FDP: Modellprojekt „Erdgasstadt Düs - mehrheitlich beschlossen
+- TOP 30: Antrag SPD: Erdgasbusse für die Rheinbahn - mehrheitlich abgelehnt
+- TOP 31: Antr: Bü90/Grü: Dieselrußfilter - mehrheitlich abgelehnt
+- TOP 32: Antrag Bü90/Grü: Büroleerstand - zur Kenntnis genommen
+- TOP 33: Rechenschaftsbericht 2003 - einstimmig beschlossen
+- TOP 34: Jahresrechnung 2003 - mehrheitlich beschlossen
+- TOP 35: Kämmererliste 2004 - mehrheitlich beschlossen
+- TOP 36: Kämmererliste 2005 - mehrheitlich beschlossen
+- TOP 37: Einrichtung von 5 Stellen - einstimmig beschlossen
+- TOP 38: Düsselpass - einstimmig beschlossen
+- TOP 39: Erg.-antr. SPD/Bü90: Düsselpass - mehrheitlich abgelehnt
+- TOP 40: Maßnahmen zur Umsetzung Neukonzeption - einstimmig beschlossen
+- TOP 41: Betriebsträgerwechsel Kita Kaiserswerther Str. 209 - zur Kenntnis genommen
+- TOP 42: Sonderfinanzierung Kita - einstimmig beschlossen
+- TOP 43: Kunstrasen auf Sportanlagen - einstimmig beschlossen
+- TOP 44: Trägerverein "athetica-Sportinternat Düsseldorf - einstimmig beschlossen
+- TOP 45: Bauherrenvorlage Grundsatzbeschluss Kaiserswerth - einstimmig beschlossen
+- TOP 46: Ersatzneubau und Teilsanierung Feuerwache 8, - einstimmig beschlossen
+- TOP 47: Düsseldorf Präsentation - mehrheitlich beschlossen
+- TOP 48: Düsseldorf-Präsentation in Japan im Juni 2005 - mehrheitlich beschlossen
+- TOP 49: Sonntagsfreigaben III - mehrheitlich beschlossen
+- TOP 50: Umbesetzungen Neufassung - einstimmig beschlossen
+- TOP 51: Ausschussumbesetzung - zur Kenntnis genommen
+- TOP 52: Umlegungsausschuss - einstimmig beschlossen
+- TOP 53: Stadtwerke: Ergänzungswahl - zur Kenntnis genommen
+- TOP 54: Neuwahl Schiedsfrau - einstimmig beschlossen
+- TOP 55: Ä. d. Satzung über Ehrenausz.
+- TOP 56: Neufassung Satzung Abwasser - einstimmig beschlossen
+- TOP 57: Änderung der Entgeltordnung für Sonderleistungen z - mehrheitlich beschlossen
+- TOP 58: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 59: Plan. Nr. 5876/11 - einstimmig beschlossen
+- TOP 60: DE 60(1)S2:Pl.5876/11-Nördl.Königsberger-2.VerVÄ - einstimmig beschlossen
+- TOP 61: Resolution Ausländerbeirat
