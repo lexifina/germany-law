@@ -1,0 +1,7 @@
+# TOP 16: Grünewalder Straße, Gasstraße Blinklicht Fußgänger
+
+- Sitzung: Bezirksvertretung Burg/Höhscheid (2005-04-28)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/8254
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/5024
