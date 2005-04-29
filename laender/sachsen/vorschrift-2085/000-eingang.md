@@ -1,0 +1,3 @@
+# Verordnung des Sächsischen Staatsministeriums der Justiz über die Ermittlungspersonen der Staatsanwaltschaft (VO Ermittlungspersonen Staatsanwaltschaft – VOErmPStA)
+Vom 5. April 2005
+Aufgrund von § 152 Abs. 2 Satz 1 des Gerichtsverfassungsgesetzes ( GVG) in der Fassung der Bekanntmachung vom 9. Mai 1975 (BGBl. I S. 1077), das zuletzt durch Artikel 15c des Gesetzes vom 22. März 2005 (BGBl. I S. 837, 857) geändert worden ist, in Verbindung mit § 1 Abs. 1 Nr. 18 der Verordnung der Sächsischen Staatsregierung über die Übertragung von Zuständigkeiten zum Erlass von Rechtsverordnungen im Bereich der Rechtspflege auf das Sächsische Staatsministerium der Justiz (Zuständigkeitsübertragungsverordnung Justiz – ZustÜVJu) vom 10. Dezember 2004 (SächsGVBl. S. 582), wird verordnet:
