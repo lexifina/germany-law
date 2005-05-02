@@ -1,0 +1,70 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2005-05-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/589998
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/589998
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.1.: Kommunales Wohnungsbauförderprogramm; Bauvorhaben Thalkirchner Straße 190
+- TOP 2.2.: Bauvorhaben Plinganserstraße 22; St. Margaret, erster Bauabschnitt
+- TOP 3.: Gaststättenangelegenheiten
+- TOP 3.1.: Gaststätte "Certosa", Oberländerstraße 14; Antrag auf Genehmigung einer Freischankfläche
+- TOP 3.2.: Gaststätte "Pschorrkrug", Oberländerstraße 32; Antrag auf Genehmigung einer Freischankfläche
+- TOP 3.3.: Implerstraße 23; Genehmigung einer Warenstellage
+- TOP 3.4.: Brudermühlstraße 25; Genehmigung einer Warenstellage
+- TOP 3.5.: Unveränderte Fortführung eines Gaststättenbetriebes
+- TOP 4.: Verkehrsangelegenheiten
+- TOP 4.1.: Bericht aus der Sitzung des Unterausschusses Verkehr vom 12.04.2005
+- TOP 4.2.: Maßnahmen zur Verkehrsberuhigung im Bereich der Ludwig-Krafft-Straße
+- TOP 4.3.: Erhöhung der Sicherheit am Fuß- und Radweg bzw. an den Bushaltestellen in der Albert-Roßhaupter-Straße im Bereich der S-Bahnbrücke
+- TOP 4.4.: Resolution zum Schwerlastverkehr bzw. zur Feinstaubbelastung in München
+- TOP 4.5.: Lärmstörung und Feinstaubbelastung durch Anlieferverkehr und parkende LKW am Edekagelände in der Implerstraße
+- TOP 4.6.: Zunehmende gewerbliche Nutzung der öffentlichen Parkplätze im Bereich des Dietramszeller Platzes
+- TOP 4.7.: Veranstaltung auf öffentl. Verkehrsgrund Am Harras am 25.05.05, 9.00 - 18.00 Uhr; Polizeiinspektion München
+- TOP 4.8.: Veranstaltung auf öffentl. Verkehrsgrund; Straßenfest in der Valleystraße am 18.06.2005
+- TOP 4.9.: Bootscorso mit historischen Faltbooten auf der innerstädtischen Isar
+- TOP 5.: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 5.1.: Budgetantrag der Sendlinger Kulturschmiede e. V.; Kosten für Halteverbotsbeschilderung beim Konzert am 02.07.2005, ¿ 250,-
+- TOP 5.2.: Budgetantrag der Sendlinger Kulturschmiede e. V.; Straßenfest in der Daiserstraße am 30.07.05, ¿ 2.500,-
+- TOP 5.3.: Budgetantrag des SBZ Sendling; Wen-do-Kurs für Mädchen am 04. / 05.06.05, ¿ 400,-
+- TOP 5.4.: Anhörung der Bezirksausschüsse in stadtratpflichtigen Angelegenheiten
+- TOP 5.5.: Kennzeichnung bei Änderung von Anhörungen
+- TOP 5.6.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt"; Projektübersicht 2005
+- TOP 5.7.: Oktoberfest 1.6. - 30.6.2005; Reservierung der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 6.: Referat für Stadtplanung und Bauordnung
+- TOP 6.1.: Meldeliste Bauvorhaben
+- TOP 6.2.: Bauvorhaben Implerstraße 11
+- TOP 6.3.: Bauvorhaben Danklstraße 11
+- TOP 6.4.: Projekt Theresienhöhe, Beirat Stadtgestaltung
+- TOP 6.5.: Diskurs "Stadtgestaltung und neue Architektur"; Hochhäuser im Spannungsfeld von Identität und Wandel der Stadt
+- TOP 6.6.: Festsetzung der Reihenfolge großer Siedlugsmaßnahmen 2005 - 2009
+- TOP 7.: Baureferat
+- TOP 7.1.: Straßenbaumaßnahme Brudermühlstraße / Schäftlarnstraße
+- TOP 7.2.: Verkehrsregelungen bei der Projektentwicklung
+- TOP 7.3.: Frostschäden auf Münchner Straßen
+- TOP 7.4.: Verhältnis der Investitionen in den Radverkehr zu den Investitionen in den motorisierten Individual- und Wirtschaftsverkehr
+- TOP 7.5.: Perspektive München; Bericht zur Stadtentwicklung 2003
+- TOP 8.: Baum- und Umweltschutz
+- TOP 9.: Soziales- und Sozialreferat
+- TOP 9.1.: Kein Personalabbau bei Streetwork
+- TOP 9.2.: Zukunft der Arbeitsgruppe Obdachlosigkeit und des Beraterkreises für die Sanierung der Städtischen Unterkünfte
+- TOP 10.: Schulreferat
+- TOP 10.1.: Schulsprengel Grundschulen Pfeuferstraße 1, Bergmannstraße 36 und Plinganserstraße 28
+- TOP 10.2.: Baumaßnahmen im Zusammenhang mit der Einführung des achtjährigen Gymnasiums (G 8)
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 12.1.: Grundsatzentscheidung des Stadtrats zum Bau einer Moschee innerhalb des Mittleren Rings am Beispiel des von DITIM geplanten Türkisch-Islamischen Kulturzentrums an der Thalkirchner- / Kochelseestraße
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Mobilfunk; Suchkreismeldung Westpark Ost
+- TOP 13.2.: Mobilfunk, Suchkreismeldung Sylvensteinstraße
+- TOP 13.3.: MVV-Streifenkarten für Automatenverkauf in Bus und Tram
+- TOP 13.4.: Mehrjahresinvestitionsprogramm 2005 - 2009
