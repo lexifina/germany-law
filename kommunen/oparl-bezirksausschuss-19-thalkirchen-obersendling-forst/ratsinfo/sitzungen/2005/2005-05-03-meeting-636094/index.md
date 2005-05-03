@@ -1,0 +1,74 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2005-05-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/636094
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/636094
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürger und Bürgerinnen haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Anträge
+- TOP 2.1.: "EURO-Skate"
+- TOP 2.2.: Maßnahmen Josephinenstraße
+- TOP 2.3.: Buslinie 135
+- TOP 2.4.: Spielgeräte Walliser Schule
+- TOP 3: Unterauschuss Budget
+- TOP 3.1.: AK "Für-Netzt"
+- TOP 3.2.: Entwicklung Zentrum Fürstenried Ost
+- TOP 3.3.: Tabalugafest
+- TOP 3.4.: 300 Jahre Sendlinger Mordweihnacht -erklärende Schilder zu Straßennamen-
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Umwelt 1. Verschmutzung Hermann-Hahn-Platz 2. "Isarschwimmen"
+- TOP 5: Unterauschuss Verkehr
+- TOP 5.1.: Ausfahrt Heilmannstr. 4
+- TOP 5.2.: Zebrastreifen Isartalbahnweg/Josephinenweg
+- TOP 5.3.: Fernwärmearbeiten am Sparkassenhochhaus
+- TOP 5.4.: Parken am Maisinger Platz
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Becker-Gundahl-Str. 11
+- TOP 6.2.: Aidenbachstr. 46b
+- TOP 6.3.: Frans-Hals-Str. 6
+- TOP 6.4.: Filchnerstr. FlNr. 222/0
+- TOP 6.5.: Reismühlenstr. 13
+- TOP 6.6.: Memlingst. 13
+- TOP 6.7.: Zeismeringer Str. 22
+- TOP 6.8.: Herterichstr. 10
+- TOP 6.9.: Siemensparkplatz Tölzer Straße
+- TOP 6.10.: Allescherstr. 16
+- TOP 6.11.: Spindlerstr. 6
+- TOP 6.12.: Bericht über Treffen "Zentrum Fürstenried Ost"
+- TOP 6.13.: Maxhofstr. 64
+- TOP 6.14.: Hofmannstr. 7
+- TOP 6.15.: Forstenrieder Allee 194
+- TOP 6.16.: Allescherstr. 47
+- TOP 6.17.: Reismühlenstr. 23
+- TOP 6.18.: Heilmannstr. 34
+- TOP 6.19.: Grünbauerstr. 11
+- TOP 6.20.: Wolfratshauser Str. 109
+- TOP 6.21.: Forstenrieder Allee 23
+- TOP 6.22.: Fritz-Baer-Str. 16
+- TOP 6.23.: Lochhamer Str. 74
+- TOP 6.24.: Zentralländstr. 4
+- TOP 6.25.: Kistlerhofstr. 124
+- TOP 6.26.: Fleischmannstr. 3
+- TOP 6.27.: Kirchweg 3
+- TOP 6.28.: Spindlerstr. 6 /Weichselgarten
+- TOP 6.29.: Termin Einwohnerversammlung Siemens-City
+- TOP 7: Entscheidungsfälle
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Anhörung der Bezirksausschüsse in stadtratpflichtigen Angelegenheiten
+- TOP 8.2.: Wildwasser Abfahrtsrennen auf dem Floßkanal
+- TOP 8.3.: Zweckentfremdung Königswieser Str. 86
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
