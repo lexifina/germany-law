@@ -1,0 +1,154 @@
+---
+ecli: "ECLI:DE:BGH:2005:040505XIIZB202.04.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZB 202/04"
+decided: "2005-05-04"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2005&Sort=1&Seite=37&nr=32656&anz=3103&pos=1111&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_NA_2005-05-04_XII_ZB_202_04_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/zpo/0570.md", "germany/bund/acts/zpo/0574.md", "germany/bund/acts/zpo/0575.md"]
+---
+
+# Bundesgerichtshof, XII ZB 202/04 vom 2005-05-04
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                     BESCHLUSS
+XII ZB 202/04
+
+                            vom
+
+                        4. Mai 2005
+
+                     in dem Rechtsstreit
+
+                                      -2-
+
+
+
+Der XII. Zivilsenat des Bundesgerichtshofs hat am 4. Mai 2005 durch die Vorsitzende Richterin Dr. Hahne, den Richter Sprick, die Richterin Weber-Monecke,
+den Richter Dr. Ahlt sowie die Richterin Dr. Vézina
+
+beschlossen:
+
+
+       Der Antrag der Beklagten, die Zwangsvollstreckung aus dem Teilurteil der 1. Zivilkammer des Landgerichts Duisburg vom 29. April
+       2004 auszusetzen, wird zurückgewiesen.
+
+
+
+
+                                    Gründe:
+
+
+                                       I.
+
+       Die Beklagte war mit dem Vater der Kläger verheiratet. Sie war als dessen Betreuerin, auch für den Bereich der Vermögenssorge, bestellt. Der Vater
+verstarb am 2. September 1998. Die Parteien sind jeweils zu ¼ Erben geworden.
+
+       Die Kläger haben die Beklagte im Wege der Stufenklage u.a. auf Auskunft und Rechnungslegung über das Vermögen des Erblassers im Betreuungszeitraum in Anspruch genommen. Das Landgericht hat die Klage hinsichtlich des Antrags auf Auskunftserteilung und Rechnungslegung durch Teilurteil
+abgewiesen, weil der Auskunftsanspruch bereits erfüllt sei. Für den Zeitraum
+vom 1. September bis 31. Dezember 1995 habe die Beklagte die ihr obliegende
+Verpflichtung zur Rechnungslegung durch Vorlage der Zusammenstellung vom
+14. März 2002 nebst Anlagen und ergänzenden Erklärungen erfüllt. Für den
+
+                                      -3-
+
+
+
+Zeitraum vom 1. Januar 1996 an könne sie sich auf die gegenüber dem Vormundschaftsgericht erfolgte Rechnungslegung berufen.
+
+      Durch weiteres Teilurteil vom 29. April 2004 hat das Landgericht die Beklagte verurteilt, die Richtigkeit und Vollständigkeit ihrer Angaben für den Zeitraum vom 8. September 1995 bis 2. September 1998 an Eides statt zu versichern. Die hiergegen gerichtete Berufung hat das Oberlandesgericht als unzulässig verworfen, weil der Wert des Beschwerdegegenstandes 600 € nicht
+übersteige. Gegen diesen Beschluß legte die Beklagte Rechtsbeschwerde ein.
+
+      Nach deren Begründung beantragten die Prozeßbevollmächtigten der
+Beklagten mit Schriftsatz vom 21. April 2005, die Zwangsvollstreckung aus dem
+Teilurteil des Landgerichts vom 29. April 2004 auszusetzen. Zur Begründung
+wurde ausgeführt, die Kläger betrieben aus dem Teilurteil die Zwangsvollstrekkung; die Beklagte sei für den 12. Mai 2005 zur Abgabe der eidesstattlichen
+Versicherung geladen. Wenn die Zwangsvollstreckung fortgesetzt würde und
+die Beklagte die eidesstattliche Versicherung abgeben müsse, werde die Entscheidung in der Hauptsache vorweggenommen.
+
+
+
+
+                                        II.
+
+      Der Antrag ist zulässig, aber unbegründet.
+
+      1. Im Rechtsbeschwerdeverfahren ist dem Beschwerdeführer gemäß
+§§ 575 Abs. 5, 570 Abs. 3 ZPO die Möglichkeit eröffnet, um Aussetzung der
+Vollziehung der erstinstanzlichen Entscheidung nachzusuchen. Das Rechtsbeschwerdegericht ist nicht darauf beschränkt, die Vollziehung der angefochtenen
+Entscheidung gemäß § 570 Abs. 3 Halbs. 2 ZPO auszusetzen. Es kann vielmehr im Wege der einstweiligen Anordnung gemäß § 570 Abs. 3 Halbs. 1 ZPO
+
+                                          -4-
+
+
+
+auch die Vollziehung der Entscheidung der ersten Instanz aussetzen (BGH Beschluß vom 21. März 2002 - IX ZB 48/02 - NJW 2002, 1658).
+
+       2. Das Rechtsbeschwerdegericht hat über die beantragte einstweilige
+Anordnung nach pflichtgemäßem Ermessen zu entscheiden. Dabei sind die
+Erfolgsaussichten des Rechtsmittels und die den Gläubigern im Falle des Zuwartens mit der Vollstreckung drohenden Nachteile gegeneinander abzuwägen
+(BGH Beschluß vom 21. März 2002 aaO). Erfolgsaussicht kommt der Rechtsbeschwerde nur zu, wenn sie zumindest zulässig erscheint. Das setzt nach
+§ 574 Abs. 1 Nr. 1, Abs. 2 ZPO voraus, daß die Rechtssache grundsätzliche
+Bedeutung hat oder die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Rechtsbeschwerdegerichts
+erfordert. Das ist hier nicht der Fall.
+
+       a) Das Berufungsgericht ist davon ausgegangen, daß für den Wert des
+Beschwerdegegenstandes der Zeit- und Kostenaufwand der ihre Verurteilung
+zur Abgabe der eidesstattlichen Versicherung bekämpfenden Beklagten entscheidend sei, wobei es auf die tatsächlichen Besonderheiten des Falles ankomme. Entgegen der im Berufungsverfahren vertretenen Auffassung der Beklagten bedürfe sie zur Vorbereitung der abzugebenden Erklärung weder der
+Unterstützung durch einen Hausverwalter noch durch einen Steuerberater. Abzustellen sei nämlich auf die von den Klägern konkret erhobenen Einwände,
+nicht dagegen auf die Frage, ob etwa Miete, Strom- und Telefonkosten von der
+Beklagten nur zur Hälfte angesetzt werden könnten bzw. inwieweit zu hohe Lebenshaltungskosten berücksichtigt worden seien. Dies sei eine Rechtsfrage,
+über die erst in der dritten - auf Zahlung von Schadensersatz gerichteten - Stufe
+der Klage zu entscheiden sei.
+
+                                      -5-
+
+
+
+      b) Entgegen der von der Beklagten im Rechtsbeschwerdeverfahren vertretenen Auffassung ist die Rechtsbeschwerde nicht zur Sicherung einer einheitlichen Rechtsprechung (§ 574 Abs. 2 Nr. 2 ZPO) zuzulassen. Unter diesem
+Gesichtspunkt ist eine Entscheidung des Rechtsbeschwerdegerichts nur erforderlich, wenn es gilt, der Entwicklung einer uneinheitlichen Rechtsprechung
+schon in den Anfängen durch eine höchstrichterliche Leitentscheidung entgegenzutreten (BGH Beschluß vom 31. Oktober 2002 - V ZR 100/02 - NJW 2003,
+754, 755). Dessen bedarf es im vorliegenden Fall nicht.
+
+      Das Berufungsgericht ist in Übereinstimmung mit der ständigen Rechtsprechung des Bundesgerichtshofs davon ausgegangen, daß sich im Falle der
+Verurteilung zur Versicherung der Richtigkeit einer erteilten Auskunft an Eides
+statt der Wert des Beschwerdegegenstandes danach bemißt, welchen Aufwand
+an Zeit und Kosten die Abgabe der Versicherung erfordert (BGHZ - GSZ - 128,
+85, 87 ff.). Da die eidesstattliche Versicherung dazu dient, die erteilte Auskunft
+zu erhärten, wird der für die Abgabe maßgebliche Zeit- und Kostenaufwand
+zwar regelmäßig demjenigen für die Erteilung der vorangegangenen Auskunft
+entsprechen (BGH Beschluß vom 1. April 1992 - VIII ZB 2/92 - NJW 1992,
+2020). Auch davon ist das Berufungsgericht aber nicht abgewichen.
+
+      Welche Kosten die Erteilung der Auskunft für die Zeit vom Beginn der
+Betreuung im September 1995 bis zum 31. Dezember 1995 verursacht hat, ist
+von der Beklagten nicht dargelegt worden. Der Erteilung der Auskunft für die
+Zeit vom 1. Januar 1996 bis zum Tod des Erblassers bedurfte es nach dem ersten Teilurteil des Landgerichts nicht, weil die Beklagte sich insoweit auf die
+gegenüber dem Vormundschaftsgericht erfolgte Rechnungslegung berufen
+konnte.
+
+                                      -6-
+
+
+
+        Daß das Berufungsgericht im übrigen darauf abgestellt hat, die Beklagte
+müsse zur Überprüfung der allein relevanten tatsächlichen Angaben nicht sämtliche Unterlagen durchsehen, sondern nur einzelne konkrete Daten überprüfen,
+begründet unter Berücksichtigung der Umstände des vorliegenden Falles ebenfalls kein Abweichen von der vorgenannten Rechtsprechung. Denn ein Teil der
+Angaben, wie etwa die Aufwendungen für Miete, Telefon, Strom und Heimkosten, steht der Höhe nach ersichtlich nicht im Streit. In welchem Umfang die
+entsprechenden Ansätze, auch für die sonstigen Kosten der Lebenshaltung,
+gerechtfertigt waren, ist erst im Rahmen der Entscheidung über die auf Zahlung
+von Schadensersatz gerichtete dritte Stufe der Klage zu entscheiden.
+
+        Bei dieser Rechtslage kam eine Aussetzung der Zwangsvollstreckung
+nicht in Betracht.
+
+
+
+
+Hahne                                Sprick                   Weber-Monecke
+
+                     Ahlt                        Vézina
