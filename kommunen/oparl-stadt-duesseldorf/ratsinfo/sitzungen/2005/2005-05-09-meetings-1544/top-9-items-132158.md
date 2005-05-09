@@ -1,0 +1,7 @@
+# TOP 9: Aktuelles
+
+- Sitzung: Ausschuss für öffentliche Einrichtungen (2005-05-09)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/132158
+- Ergebnis: zur Kenntnis genommen
