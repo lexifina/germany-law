@@ -1,0 +1,93 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2005-05-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/640221
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/640221
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Vorstellung des Vereins SIN-Sudio im Netz e.V.
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Plazerstr. , gem. BaumbestandsplanNr.: 05-5810
+- TOP 3.2.: Steinpilzweg 9, gem. BaumbestandsplanNr.: 05-6839
+- TOP 3.3.: Canisiusstr. 5, 1 Fichte
+- TOP 3.4.: Silberblattstr. 1, 1 Kiefer
+- TOP 3.5.: Waldwiesenstr. 13, 1 Walnussbaum
+- TOP 3.6.: Gräfelfinger Str. 4, 1 Kiefer
+- TOP 3.7.: Tannenwaldstr. 3, 1 Tanne, 1 Birke, 1 Fichte
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Haderunstr. 19, 1 Rotfichte
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 3.1.: Ludlstr. 14, Ersatzpflanzungsbescheid (Referat für Stadtplanung und Bauordnung, 01.04.2005)
+- TOP 3.2.: Kurparkstr. 33, Fällungsgenehmigung (Referat für Stadtplanung und Bauordnung, 14.04.2005)
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Kinder/Schule/Sport
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Ummontage der Schilder in der Feuerwehreinfahrt in der Gelbhofstraße, BV-Empfehlung Nr. 17 vom 07.10.2004 (KVR, 14.04.2005)
+- TOP 6.2.: Antrag des Jugendtreff pfiffTEEN auf Gewährung eines Zuschusses aus dem BA-Budget (Direktorium, 12.04.2005)
+- TOP 6.3.: Antrag der Nachbarschaft Neuhadern e.V. auf Gewährung eines Zuschusses aus dem BA-Budget (Direktorium, 12.04.2005)
+- TOP 6.4.: Eröffnung eines Bauernmarktes am Max-Lebsche-Platz, BV-Empfehlung Nr. 18 vom 07.10.2004 (Kommunalreferat, 15.04.2005)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Mehrjahresinvestitionsprogramm für die Jahre 2005 - 2009 (Stadtkämmerei, 11.04.2005)
+- TOP 7.2.: Zirkusveranstaltung am Max-Lebsche-Platz und an der St.-Veit-Straße (Baureferat, 07.04.2005)
+- TOP 7.3.: Geplanter Spielplatz Waldgartenstraße / Ecke Waldsaumstraße (Emrich, 12.04.2005)
+- TOP 7.4.: Kennzeichnung bei Änderungen von Anhörungen (2. Bürgermeisterin, 08.04.2005)
+- TOP 7.5.: Ergebnis der Seniorenwahl 2005 (Sozialreferat, 24.03.2005; 29.03.2005)
+- TOP 7.6.: Flohmärkte auf dem Max-Lebsche-Platz (Baureferat, 23.03.2005)
+- TOP 7.7.: Unveränderte Fortführung einer Gaststätte, Cafe Greco, Alpenveilchenstr. 56 (KVR, 30.03.2005)
+- TOP 7.8.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln (Direktorium, 08.04.2005)
+- TOP 7.9.: Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse Oktoberfest 2005 (Direktorium, 12.04.2005)
+- TOP 7.10.: Flohmarkt am Ida-Schuhmacher-Weg (Baureferat, 19.04.2005)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: MIP des Kulturreferates 2005 - 2009 und Stellungnahme zu den Anregungen der Bezirksausschüsse (Kulturreferat, 15.04.2005)
+- TOP 8.2.: Veranstaltung auf öffentlichem Verkehrsgrund; Straßenfest der Anlieger der Rolandseckstraße am 02.07.2005 (KVR, 19.04.2005)
+- TOP 8.3.: Erinnerungsverfahren, Geroldseckstraße 4 - 30 (Baureferat, 18.04.2005)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Öffentlich städtische Einrichtungen im Bebauungsplan Nr. 1817 (Stiftsbogen); Aufnahme des Alten- und Service-Zentrums in die Bestandsliste der geplanten Bauvorhaben, BA-Antrag Nr. 41 vom 10.01.2005 (Sozialreferat, 23.03.2005)
+- TOP 9.2.: MVV-Streifenkarten für Automaten in Bus und Tram, BA-Antrag Nr.: 78 vom 14.02.2005 (Referat für Arbeit und Wirtschaft, 05.04.2005)
+- TOP 9.3.: Verschmutzung des Walter-Hopf-Weges (KVR, 12.04.2005)
+- TOP 9.4.: Dönerwagen in der Kleinhaderner Str. (KVR, 06.04.2005)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Verkehrsbericht 2004 (Polizeipräsidium München, März 2005)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Regionale Sozialberichte im Internet (Sozialreferat, 05.04.2005)
+- TOP 11.2.: Münchner Statistik, 4. Quartalsheft Jahrgang 2004
+- TOP 11.3.: Kein Personalabbau bei Streetwork, weder 8. noch im 9. Stadtbezirk (BA 9, 15.03.2005)
+- TOP 11.4.: Jahresbericht 2004 mit Jahresvorschau 2005 (Direktorium, 14.03.2005)
+- TOP 11.5.: MVV-Streifenkarten für Automatenverkauf in Bus und Tram (BA 23, 14.04.2005 und BA 9, 19.04.2005)
+- TOP 11.6.: Protokoll des Verwaltungsbeirates der Wohnungseigentümergemeinschaft "Wohnen "Am Fürstenrieder Wald - München / Großhadern"
+- TOP 11.7.: Stadtteilzeitung wird ins Leben gerufen (Na klar, 21.04.2005)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss des Bauausschusses vom 12.04.2005 Wie ist das Verhältnis der Investitionen in den Radverkehr zu den Investitionen in den motorisierten Individual- und Wirtschaftsverkehr?
+- TOP 12.2.: Beschluss des Bauausschusses vom 12.04.2005 PERSPEKTIVE MÜNCHEN, Bericht zur Stadtentwicklung 2003
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung Fortschreibung des Zentrenkonzeptes - Nahversorgung in München; a) Ausweisung von dringend benötigten Flächen für Läden zur Deckung des täglichen Bedarfs in Dagelfing b) Stadtteilzentren retten - Nahversorgung sichern c) Stärkung der Einzelhandelsstrukturen in den Stadtrandbezirken durch konsequente Bauleitplanung d) Wohnortnahe Versorgung für ältere Menschen
+- TOP 12.4.: Beschluss des Bauausschusses vom 12.04.2005 Frostschäden auf Münchner Straßen
+- TOP 12.1.: Beschluss des Bauausschusses vom 12.04.2005 Straßenausbaubeitragssatzung, Verkehrsregelungen bei Projektentwicklung
+- TOP 12.2.: Beschluss des Sozialausschusses vom 14.04.2005 Zukunft der Arbeitsgruppe Obdachlosigkeit und des Beraterkreises für die Sanierung der Städtischen Unterkünfte
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Sozialausschusses vom 21.04.2005 Entwurf des Mehrjahresinvestitionsprogrammes für die Jahre 2005 - 2009 mit verbindlicher Planung für 2010 Einzelplan 4 / Sozialbereich
+- TOP 12.2.: Beschluss des Schulausschusses vom 27.04.2005 A) Baumaßnahmen im Zusammenhang mit der Einführung des achtjährigen Gymnasiums (G 8) B) Errichtung einer Ganztagesschule an der Hauptschule Fürstenrieder Straße 30, Neubau einer Mensa mit Betreuungsräumen im 25. Stadtbezirk - Laim C) Errichtung von Horträumen im Zuge des Mensaneubauses im Schulzentrum Pfarrer-Grimm-Str. 1, im 23. Stadtbezirk - Allach - Untermenzing
+- TOP 12.3.: Beschluss des Schulausschusses vom 27.04.2005 Mehrjaresinvestitionsprogramm (MIP) 2005 - 2009
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2005 Mehrjahresinvestitionsprogramm für die Jahre 2005 - 2009
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2005 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2005 - 2009
+- TOP 12.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.2005 Mehrjahresinvestitionsprogramm für die Jahre 2005 - 2009 mit verbindlicher Planung für 2010, Stadtentwicklungsplanerische Beurteilung
+- TOP 12.6.1: Bekanntgaben
+- TOP 12.6.1.1: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.04.2005 Diskurs "Stadtgestalt und neue Architektur"
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
