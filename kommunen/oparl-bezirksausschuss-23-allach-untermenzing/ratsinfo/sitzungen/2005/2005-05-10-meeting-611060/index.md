@@ -1,0 +1,71 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2005-05-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/611060
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/611060
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Anhörungen
+- TOP 5.1.: Straßenfest in der Unteren Mühlstr. am 18.06.05
+- TOP 5.2.: Straßenfest in der St. - Johann - Straße am 03.07.05
+- TOP 5.3.: Aufwertung der Würm
+- TOP 5.4.: Busbeschleunigung
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 6.1.: Erhalt des Sommerbades Allach; Bezuschussung aus dem Budget des BA 23
+- TOP 7.: Schreiben der 2. Bürgermeisterin
+- TOP 7.1.: Kennzeichnung bei Änderung von Anhörungen
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln
+- TOP 8.2.: Budgetmittel des BA 23, Ablehnung einer beantragten Zuwendung; Antragsteller: TSV Allach 09
+- TOP 8.3.: Reservierung in der Ratsboxe für die Münchner BAs; Oktoberfest 2005
+- TOP 9.: Schreiben des Kreisverwaltungsreferates
+- TOP 9.1.: Unveränderte Fortführung der Gaststätte " Bistro Anadolu ", Eversbuschstr. 70
+- TOP 9.2.: Erlaubnisbescheid Blade Night 2005
+- TOP 10.: Schreiben des Referates für Stadtplanung und Bauordnung
+- TOP 10.1.: Vollzug der BaumschutzVO a ) Dachauer Str. 667 Baumbest.plan Nr. 7065 b ) Schneider-Ulrich-Weg 7 1 Schwarzkiefer, 1 Serb. Fichte c ) Frühaufstr. 43 1 Birke d ) Hitlstr. 47 1 Linde e ) Pfarrer-Grimm-Str. 1 s. Baumbest.plan Nr. 7348 f ) Theodor - Fischer - Str. 99 1 Fichte g ) Auenbruggerstr. 49 1 Birke h ) Penzoltstr. 8 1 Birke i ) Georg - Reismüller - Str. 16 s. Baumbest.plan Nr. 1421 j ) Eversbuschstr. 23 1 Weide
+- TOP 10.2.: Planergänzung zur landschaftspflegerischen Begleitplanung für die Herstellung von Baustelleneinrichtungs- und Zwischenlagerflächen
+- TOP 10.3.: Bauanträge ( v. 04.04. - 10.04., 11.04. - 17.04 und 18.04. - 24.04.05 )
+- TOP 10.4.: Förderprogramm " Bürgerinnen und Bürger gestalten ihre Stadt " - Bürgerbeteiligung in den Stadtvierteln
+- TOP 10.5.: Abgeschlossenheitsbescheinigungen
+- TOP 10.6.: Errichtung einer Werbeanlage, Oertelplatz 4
+- TOP 10.7.: Errichtung einer Werbeanlage, Schöllstr. 2
+- TOP 10.8.: Fällungsgenehmigung, Allacher Str. 239 a
+- TOP 11.: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 11.1.: Bodenbehandlungsanlage Goteboldstr. 100
+- TOP 12.: Schreiben der Stadtkämmerei
+- TOP 12.1.: Mehrjahresinvestitionsprogramm für die Jahre 2005 - 2009
+- TOP 13.: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 13.1.: Nachbesserung des Fahrplanes der Buslinie 163
+- TOP 13.2.: Buslinien 162, 163, 164
+- TOP 13.3.: MVV - Streifenkarten für Automatenverkauf in Bus und Tram
+- TOP 14.: Schreiben des Kulturreferates
+- TOP 14.1.: Neuorganisation des Kulturreferates
+- TOP 15.: Schreiben des Personal - und Organisationsreferates
+- TOP 15.1.: Fortschreibung der Machbarkeitsstudie Bürgezenten
+- TOP 16.: Schreiben des Schulreferates
+- TOP 16.1.: Schulhof - / Sportplatzöffnung 2005
+- TOP 17.: Schreiben des BA 3 Maxvorstadt
+- TOP 17.1.: Neuregelung der bisherigen Anhörung der Bezirksausschüsse bei stadtratspflichtigen Angelegenheiten
+- TOP 18.: Schreiben des BA 20 Hadern
+- TOP 18.1.: Anhörung der BAs in stadtratspflichtigen Angelegenheiten
+- TOP 19.: Stadtrats - und Ausschussbeschlüsse
+- TOP 19.1.: Ausschuss für Stadtplanung und Bauordnung vom 06.04.05 - Diskurs " Stadtgestalt und neue Architektur " - Fortschreibung des Zentrenkonzeptes / Nahversorgung in München
+- TOP 19.2.: Bauausschuss vom 12.04.05 - Frostschäden auf Münchner Straßen - Straßenausbaubeitragssatzung, Verfahrensregelungen bei der Projektentwicklung - Wie ist das Verhältnis der Investitionen in den Radverkehr zu den Investitionen in den motorisierten Individual - und Wirtschaftsverkehr ? - Perspektive München - Bericht zur Stadtentwicklung 2003
+- TOP 19.3.: Schulausschuss vom 27.04.05 - Mehrjahresinvestitionsprogramm ( MIP ) 2005 - 2009; 1. Investitionsmaßnahmen für Schulen und Kindertagesstätten, 2. Dissens, 3. verfahrenstechnische Neuerungen, 4. Stellungnahmen der BAs - Baumaßnahmen im Zusammenhang mit der Einführung des achtjährigen Gymnasiums, Errichtung von Horträumen im Zuge des Mensaneubaues im Schulzentrum Pfarrer - Grimm - Str. 1
+- TOP 19.4.: Ausschuss für Stadtplanung und Bauordnung vom 27.04.05 - Wohnen in München III, a ) Erfahrungsbericht für das Jahr 2004, b ) Ergänzungen des Erfahrungsberichtes - Wohnen in München III, a ) Verfahrensänderungen im Vollzug des Handlungsprogramms im Jahr 2004, b ) Verlängerung des wohnungspolitischen Handlungsprogramms 2001 - 2005 um das Jahr 2006, c ) Kürzere Wartefrist für Familien mit Kindern im München Modell, d ) Erbbaumodell für Familien mit Kindern, e ) Bezahlbarer Wohnraum für Familien - Workshopreihe Diskurs " Stadtgestalt und neue Architektur " - Mehrjahresinvestitionsprogramm für die Jahre 2005 - 2008, Gliederungsziffern 6100 Referat für Stadtplanung und Bauordnung, 6110 Lokalbaukommission, 6150 Städtebauförderung, 6200 Wohnungsbauförderung, Wohnungsfürsorge - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2005 - 2009 - Mehrjahresinvestitionsprogramm für die Jahre 2005 - 2009 mit verbindlicher Planung für 2010, stadtentwicklungsplanerische Beurteilung - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V / 4 Ludwigsfelder Straße ( südlich ) - Hackersiedlung -, Billigungsbeschluss ( 2. Billigung ) und vorbehaltlich endgültiger Beschluss - Bebauungsplan mit Grünordnung Nr. 1871 Ludwigsfelder Straße ( südlich ) - Hackersiedlung - ( 2. Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss )
+- TOP 19.5.: Sozialausschuss vom 21.04.05 - Zukunft der Arbeitsgruppe Obdachlosigkeit und des Beraterkreises für die Sanierung der Städtischen Unterkünfte
+- TOP 20.: Verschiedenes
