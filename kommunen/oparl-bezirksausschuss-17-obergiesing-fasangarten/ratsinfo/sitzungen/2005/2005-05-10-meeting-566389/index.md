@@ -1,0 +1,74 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2005-05-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/566389
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/566389
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.2.1: Bürgeranliegen
+- TOP 1.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 1.2.1.2: Bürgerschreiben/-anträge
+- TOP 1.2.2.1: Vortrag städtischer Referate
+- TOP 1.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 1.2.: Grünfläche am Giesinger Bahnhof; Aufnahme in das Grünanlagenverzeichnis der LH München; Antrag der PI 23 an das Baureferat mit der Bitte um Unterstützung seitens des BA 17
+- TOP 1.3.: Neue Anzeigetafeln der U-Bahn, Änderungsvorschläge; Antrag der CSU-Fraktion vom 27.04.2005
+- TOP 1.4.: Geländer in der Bergstraße, Reparatur; Antrag der CSU-Fraktion vom 27.04.2005 - <div>nach Antrag</div>
+- TOP 4.: Budget
+- TOP 4.5.1: UA Bau und Planung
+- TOP 4.1.: Stadtsanierung in München am Mittleren Ring Südost; Chancen und Perspektiven für Berg am Laim, Ramersdorf und Giesing; Zuleitung vom 15.04.2005 mit der Bitte um Stellungnahme bis 20.05.2005
+- TOP 4.3.: Einzelhandelskonzeption für den Münchner Südosten; Sitzungsvorlagen Nr. 02-08/V 06002; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.04.2005
+- TOP 4.5.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2005 - 2009; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2005
+- TOP 4.6.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse vom 24.03.2005 (ggf. Behandlung in nichtöffentlicher Sitzung)
+- TOP 4.7.: PERSPEKTIVE MÜNCHEN; Bericht zur Stadtentwicklung 2003; Beschluss des Bauausschusses vom 12.04.2005
+- TOP 4.8.: Wohnen in München, III a) Erfahrungsbericht für das Jahr 2004 b) Ergänzungen des Erfahrungsberichtes Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2005
+- TOP 4.11.: Mehrjahresinvestitionsprogramm für die Jahre 2005 - 2009; Gliederungsziffern 6100 Ref. f. Stadtplanung u. Bauordnung; 6110 Lokalbaukommission; 6150 Städtebauförderung; 6200 Wohnungsbauförderung, Wohnungsfürsorge; Stellungnahme zum Antrag der Bezirksausschüsse 4, 10, 11, 19, 20 und 21; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 27.04.2005
+- TOP 4.12.: Instandsetzung der Straßenbrücke Stadelheimer Straße im Zuge der Tegernseer Landstraße (McGraw Graben) im 17. Stadtbezirk; Beschluss des Bauausschusses vom 03.05.2005
+- TOP 4.13.: Gaststätten (unveränderte Fortführung); SSW (ehemals "Giesinger Treff") in der Perlacher Str.; Mitteilung vom 06.04.2005
+- TOP 4.14.: Gaststätten (unveränderte Fortführung); SSW "La Turka" in der Zugspitzstraße; Mitteilung vom April 2005
+- TOP 0.2.: Zukunft der Arbeitsgruppe Obdachlosigkeit und des Beraterkreises für die Sanierung der Städtischen Unterkünfte; Beschluss des Sozialausschusses vom 21.04.2005
+- TOP 0.3.: A) Baumaßnahmen im Zusammenhang mit der Einführung des achtjährigen Gymnasiums (G 8) B) Errichtung einer Ganztagesschule an der Hauptschule Fürstenrieder Str. 30; Neubau einer Mensam mit Betreuungsräumen im 25. Stadtbezirk - Laim C) Errichtung von Horträumen im Zuge des Mensaneubaus im Schulzentrum Pfarrer-Grimm-Str. 1 im 23. Stadtbezirk - Allach-Untermenzing; Beschluss des Schulausschusses des Stadtrates vom 27.04.2005 (VB)
+- TOP 0.5.3: UA Verkehr
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.1.: Werinherstraße - Äußerer Radroutenring; Anhörung gem. § 3 der Satzung für die Bezirksausschüsse; Zuleitung vom 07.04.2005
+- TOP 0.1.: Kreuzung Tegernseer Landstraße / Wirtstraße; Trennung von Rad- und Passantenverkehr; Antrag Nr. 2729 des BA 17 vom 11.01.05; Schreiben vom 06.04.05
+- TOP 0.4.: Frostschäden auf Münchner Straßen; Beschluss des Bauausschusses vom 12.04.2005
+- TOP 0.5.4: UA Umwelt
+- TOP 0.1.: Vollzug des Bayer. Naturschutzgesetzes und der Baumschutzverordnung; hier: Anwesen in der Werinherstraße; Genehmigung vom 20.04.2005
+- TOP 0.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO; hier: Pfarrfest der kath. .Pfarrgemeinde Hl. Kreuz-Giesing am 10.07.2005
+- TOP 6.: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.2.: Vergabe von Zuschüssen nur für Veranstalter von Kulturprogrammen in barrierefreien Räumen; Beschluss des Kulturausschusses vom 14.04.2005
+- TOP 7.: Berichte der Beauftragten
+- TOP 7.7.2: Baumschutz
+- TOP 7.1.: Anwesen in der Kiesmüllerstraße; Zuleitung vom 13.04.2005
+- TOP 7.2.: Anwesen in der Eslarner Str.; Zuleitung vom 29.03.2005
+- TOP 7.4.: Anwesen in der Eslarner Str.; Zuleitung vom 20.04.2005
+- TOP 7.7.2.2: Baumbestandspläne
+- TOP 7.7.3: Behinderte
+- TOP 7.7.5: Kinder
+- TOP 7.7.6: Senioren/Innen
+- TOP 7.7.7: Stadtteilpartnerschaft Colerain Township, Ohio, USA
+- TOP 7.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 7.8.1.2: UA Familie, Soziales, Ausbildung
+- TOP 7.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 7.8.3: Verschiedenes
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.4.5: Anträge
+- TOP 0.5.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.6: Sonstiges
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
