@@ -1,0 +1,75 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2005-05-10T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/562719
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/562719
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3: Genehmigung der Tagesordnung
+- TOP 4: Genehmigung der Niederschrift der Sitzung vom 09.11.04
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.1.: Anbindung von Feierwerk in der Hansastraße an das Nachtliniensystem der Münchner Verkehrgesellschaft
+- TOP 0.1.: UA 07 - Jugend und Soziales - 19.04.2005
+- TOP 0.2.: UA 07 - Bau und Umwelt - 03.05.2005
+- TOP 0.3.: Ortstermin mit Baureferat-Tiefbau (19.04.05 )
+- TOP 0.1.: Ausländerbeauftragte Jugendbeauftragte Kinderbeauftragte Seniorenbeauftragte
+- TOP 5: Baumfällungen
+- TOP 5.1.: a. Juifenstr. 13 Fällung mehrer Bäume 706 Hr. Kramm b. Hahndorfer Str. 5 Fällung einer Fichte 712 Fr. Schoneweg c. Rottenbucher Str. 10 Fällung einer Fichte 714 Hr. Dr. Klunker d. Hölderlinstr. 8 Fällung einer Fichte 725 Hr. Seidl
+- TOP 6: Baumfällungen / Bauvorhaben
+- TOP 6.1.: a. Fürstenrieder Str. 227 Fällung lt. Antrag 711 Fr. Petz b. Höglwörther Str. 20 Fällung lt. Antrag 717 Hr. Dr. Bader
+- TOP 7: Westparkveranstaltung / auf öffentlichem Grund
+- TOP 7.1.: a. Hausmeisterolympiade Seebühne 11.06.05 b. Christlkindlmarkt Westpark c. Open-Air-Gottesdienst Theatron 02.07.05 d. Musikveranstaltung Theatron 03./10./17.07.05 e. Sommerspielaktion Spielzone Ost 01.08.-19.08.05 f. Bürgerfest Luise-Kiesselbach-Platz 26.06.05 g. 50-Jahr-Feier Grünanlage/ Sappelstraße 04.06.05 h. Straßenfest Rottenbucher Str. 16.07.05
+- TOP 8.1.: Aufstellung einer Warenstellage in der Waldfriedhofstraße 714 Hr. Dr. Klunker
+- TOP 9: Referat für Arbeit und Wirtschaft
+- TOP 9.1.: Busbeschleunigung ; Änderung des MIP 2005 - 2009
+- TOP 10: Allgemeines
+- TOP 11.1.: a. Ausnahmebewilligungen b. Perspektive München ; Bericht zur Stadtentwicklung 2003 c. Frostschäden auf Münchner Straßen d. Wie ist das verhältnis der Investitionen in den Radverkehr zu den Investitionen in den motorisierten Individual- und Wirtschaftsverkehr e. Straßenausbaubeitragssatzung; Verfahrensregelungen
+- TOP 12.1.: unveränderte Gaststättenfortführung
+- TOP 13: Lokalbaukommission
+- TOP 13.1.: Bauvorhaben
+- TOP 14: Referat für Stadtpalnung und Bauordnung
+- TOP 14.1.: a. Wohnen in München III b. Diskurs &+8222;Stadtgestaltung und neue Archtiktur&+8220; c. MIP 2005- 2009 verbindliche Planung für 2010; Stadtentwicklungsplan s d. Festsetzung der Reihenfolge großer Siedlungsmaßnahmen 2005 &+8211; 2009 e. MIP 2005 &+8211; 2009 Gliederungsziffern 6100- 6200 f. Vollzug der Bay. Bauordnung ( Werbeanlagen) g. Vollzug der Baumschutzverordnung ( Gefahrenbaumfällung)
+- TOP 15.1.: Ausschreibung von Trägerschaften für bezuschusste soziale Einrichtungen
+- TOP 16: Schul- und Kultusreferat
+- TOP 16.1.: Baumaßnahmen im Zusammenhang mit der Einführung des achtjährigen Gymnasiums
+- TOP 17: Stadtkämmerei
+- TOP 17.1.: Mehrjahresinvestitionsprogramm 2005 - 2009
+- TOP 18: Bürgerschreiben
+- TOP 18.1.: Weiße Rose Stiftung e.V. ; Unterstützungsersuchen
+- TOP 18.2.: Polizeipräsidium München; Verkehrsbericht 2004
+- TOP 19: Büro der 2. Bürgermeisterin
+- TOP 19.1.: Kennzeichnung bei Änderung der Anhörung
+- TOP 20.1.: Lärm- und Abgasschutzmaßnahmen Rubihornweg
+- TOP 21: Bezirksausschüsse
+- TOP 21.1.: a. Resolution des BA 7 zu Transitschwerlastverkehr b. Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten; BA 20 c. &+8220;Historische Lernorte Sendling&+8221;; BA 6
+- TOP 22: Direktorium
+- TOP 22.1.: a. Reservierung der Ratsboxe für die Bezirksausschüsse b. Programm &+8222;Bürgerinnen und Bürger gestalten ihre Stadt&+8220;
+- TOP 23.1.: Haltverbot in der Sappelstraße
+- TOP 23.2.: Blade Night 2005
+- TOP 24: Kutlurreferat
+- TOP 24.1.: a. Neuorganisation des Kulturreferates
+- TOP 25.1.: a. Sozialbürgerhaus für die Stadtbezirke 6 und 7
+- TOP 0: Anträge
+- TOP 0: Anträge und Berichte aus den Unterausschüssen
+- TOP 0: Berichte der Beauftragten
+- TOP 0: Anhörungen
+- TOP 0: Baumschutz:
+- TOP 8: Kreisverwaltungsreferat (1)
+- TOP 0: Unterrichtung
+- TOP 17.&nbsp;: Schriftverkehr
+- TOP 0: Verschiedenes
+- TOP 11: Baureferat (1)
+- TOP 12: Kreisverwaltungsreferat (2)
+- TOP 15: Sozialreferat (1)
+- TOP 20: Baureferat (2)
+- TOP 23: Kreisverwaltungsreferat (3)
+- TOP 25: Sozialreferat (2)
+- TOP 2: Nachträglich in die Tagesordnung aufzunehmen
