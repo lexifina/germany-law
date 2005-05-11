@@ -1,0 +1,76 @@
+# 39. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2005-05-11T17:00:00+02:00
+- Ende: 2005-05-11T21:45:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=867
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=867
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=27494
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Dringlichkeitsanträge - (offen)
+- TOP 2.1: Umsetzung der Maßnahmen zur Schulzendorfer Straße stoppen - in der BVV abgelehnt
+- TOP 2.2: Urteil des Kammergerichts 26 U 160/04 vom 4. April 2005 - ohne Änderungen in der BVV beschlossen
+- TOP 2.3: Vorliegende Satzung des Kita-Eigenbetriebes gefährdet Reinickendorfer Errungenschaften - überwiesen
+- TOP 2.4: Poloplatz - überwiesen
+- TOP 2.5: 60. Jahrestag der Befreiung und der Beendigung des Zweiten Weltkrieges in Europa - beantwortet
+- TOP 2.6: Sexualstraftäter-Ambulanz - Keine Fakten schaffen bevor Akteneinsicht abgeschlossen ist - ohne Änderungen in der BVV beschlossen
+- TOP 2.7: Geplanter Verkauf Hannah-Höch-Haus - überwiesen
+- TOP 2.7.1: Geplanter Verkauf Hannah-Höch-Haus - überwiesen
+- TOP 2.8: SPD-Filz-Vorwürfe bei Kita-Zusammenlegung ausräumen - in der BVV abgelehnt
+- TOP 3: Konsensliste - in der BVV abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Wohnungsbauförderung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Rauchverbot auch an Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Teilnahme Reinickendorfer Oberschulen am Programm "WiS - Wissenschaft in die Schulen!" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Fahrradabstellplätze am S-Bhf. Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Beantragte Zügigkeit für Ganztagsschulen einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Gesundes Essen in Horten und Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Prüfung der planungsrechtlichen Ausweisung von Kleingartenanlagen - überwiesen
+- TOP 5.8: Schulwegsicherung in Heiligensee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.9: Bessere Vermeidung von Straßenverkehrslärm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Angebot der Kultureinrichtung Famagusta - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Einheitliche Wahrnehmung des gesamten Aufgabenspektrums im Ordnungsamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Fuß- und Radweg am Kurt-Schumacher-Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Aktueller Leitfaden an alle Elternvertreter - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.14: Einführung von LED-Lichtzeichenanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Hinweis auf Fortbildung durch den Kinder- und Jugendpsychiatrischen Dienst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.16: Entfernung von Graffiti-Schmierereien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.17: Erfahrungsbericht der Patientenfürsprecherin des Krankenhauses Reinickendorf der Vivantes GmbH - ö. B. Klinik Wiesengrund - Kinder- und Jugendpsychiatrie für den Zeitraum April 2004 bis Dezember 2004 - überwiesen
+- TOP 5.18: Aufstellung des Bebauungsplanes 12-13 für das Grundstück Tornower Weg 14/22 - überwiesen
+- TOP 5.19: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-282 für die Grundstücke Edelhofdamm 54, 58/62, Zerndorfer Weg 80/86 und Enkircher Straße 1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Baumfällungen in der Schulzendorfer Straße in Berlin-Heiligensee - beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 7.1: Kosten des Kita-Eigenbetriebs - erledigt
+- TOP 7.2: EU-Feinstaubrichtlinien - erledigt
+- TOP 7.3: Schlaglöchertelefon - erledigt
+- TOP 7.4: Radspuren für die Quickborner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 7.5: Radspur in der Grußdorfstraße - ohne Änderungen in der BVV beschlossen
+- TOP 7.6: Beleuchtung des Parkplatzes der Lauterbach-Schule und des Schulweges zur Lauterbach-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 7.7: Umweltfreundliche Materialien auch an Reinickendorfer Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 7.8: Saubere Luft in der Bernstorffstraße - ohne Änderungen in der BVV beschlossen
+- TOP 8: Ersuchen - (offen)
+- TOP 8.1: Verbesserung der Öffentlichkeitsarbeit der Bibliotheken - überwiesen
+- TOP 8.2: Maßnahmen am Flächenhaften Naturdenkmal "Am Dachsbau" - überwiesen
+- TOP 8.3: Ergebnisse des Abfallwirtschaftsberichtes - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Keine Baumpflegemaßnahmen in der Vegetationszeit - überwiesen
+- TOP 8.5: Bebauungspläne Dorf Heiligensee - überwiesen
+- TOP 9: Empfehlungen - (offen)
+- TOP 9.1: Unfallgefahren durch unbeleuchtet abgestellte Anhänger, Schlepper und Wohnwagen in stark befahrenen Straßen - überwiesen
+- TOP 9.2: Lärmbelästigung in der Bernstorffstraße in den Abendstunden und nachts - überwiesen
+- TOP 9.3: Haltestelle Quickborner Straße auch sonntags anfahren - überwiesen
+- TOP 10: Nicht behandelte Drucksachen aus der 38. Sitzung der BVV vom 13.04.2005 - (offen)
+- TOP 10.1: Teilnahme am Programm WiS - in der BVV abgelehnt
+- TOP 10.2: Städtebaulicher Handlungsbedarf in Reinickendorf - in der BVV abgelehnt
+- TOP 10.3: Fußgängerzone Gorkistraße - in der BVV abgelehnt
+- TOP 10.4: Beflaggung am Christopher-Street-Day - in der BVV abgelehnt
+- TOP 10.5: Fortführung des musikbetonten Profils der Viktor-Gollancz-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Aktivitäten zum Internationalen Tag der Umwelt - ohne Änderungen in der BVV beschlossen
