@@ -1,0 +1,8 @@
+# TOP 8.1.1: Teilaufhebung des Bebauungsplanes Nr. 401: Stadthafen I / Albersloher Weg
+
+- Sitzung: 4. Sitzung (2005-05-11)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/46722
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/30683
