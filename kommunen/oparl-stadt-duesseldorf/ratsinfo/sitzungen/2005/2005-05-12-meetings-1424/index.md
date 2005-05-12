@@ -1,0 +1,66 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-05-12T16:00:00+02:00
+- Ende: 2005-05-12T18:58:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1424
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1424
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111753.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111753.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111753.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift vom 07.04.2005 - zur Kenntnis genommen
+- TOP 3: Pl. 6075/36-In den Kötten-1.Verl. Veränderungssp. - einstimmig beschlossen
+- TOP 4: Umbau Kinderspielplätze - einstimmig beschlossen
+- TOP 5: Radwegebezirksnetz BV 8 - zur Kenntnis genommen
+- TOP 6: Trödelmärkte OBI - Parkplatz - einstimmig beschlossen
+- TOP 7: Bezirksbezogene Bauunterhaltungsmaßnahmen 2005 - zur Kenntnis genommen
+- TOP 8: Geraer Weg - einstimmig beschlossen
+- TOP 9: Kindertagesstätte Gertrudisstraße - zur Kenntnis genommen
+- TOP 10: Hundeauslaufplatz - zur Kenntnis genommen
+- TOP 11: Rathelbeckstraße - Unfälle auf dem Zebrastreifen - zur Kenntnis genommen
+- TOP 12: Wilhelm-Heinrich-Weg, Schlesische Staße - zur Kenntnis genommen
+- TOP 13: Häuser Erkrather Straße / Am Bermeshau - zur Kenntnis genommen
+- TOP 14: Planungsstand Elbsee - zur Kenntnis genommen
+- TOP 15: Ehemaliges Lackfarbenfabrik-Gelände
+- TOP 16: Wildplakatieren - zur Kenntnis genommen
+- TOP 17: Sozialwohnungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 18: Dillenburger Weg
+- TOP 19: Zamek - See - zur Kenntnis genommen
+- TOP 20: Abenteuerspielplatz Eller - zur Kenntnis genommen
+- TOP 21: Namenlose Plätze, Staßen und Wege - zur Kenntnis genommen
+- TOP 22: Landesförderung von Projekten im Statdtbezirk 8 - zur Kenntnis genommen
+- TOP 23: Polizeistatistik 2004 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 24: Kultur - Säulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 25: Verbindungsweg zwischen Jäger- und Veehstraße - einstimmig beschlossen
+- TOP 26: Absperrungen im Bereich Gertrudisplatz - einstimmig beschlossen
+- TOP 27: Lärmschutzwall entlang der A 46 - einstimmig beschlossen
+- TOP 28: Ausstellung Deutschkunde - zur Kenntnis genommen
+- TOP 29: Brorsstraße - Parkverbot und Abpollerung - einstimmig beschlossen
+- TOP 30: Querungshilfe Höherweg - einstimmig beschlossen
+- TOP 31: Lärmprognose Oldtimerzentrum - einstimmig beschlossen
+- TOP 32: Peter-Härtling-Schule - Zaunanlage - einstimmig beschlossen
+- TOP 33: Kath. Grundschule Kempgensweg - einstimmig beschlossen
+- TOP 34: Rathaus Eller - Gartenanlage - einstimmig abgelehnt
+- TOP 35: Gothaer Weg / Senftenberger Weg
+- TOP 36: Verteilung der Zuschüsse
+- TOP 37: Wartehäuschen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 38: Vennhauser Allee - Abfallkörbe - mehrheitlich abgelehnt
+- TOP 39: Straßenreinigung in Unterbach - einstimmig beschlossen
+- TOP 40: Instandsetzung Fahrbahnmarkierung - einstimmig beschlossen
+- TOP 41: Bushaltestelle Am Schönenkamp / Deutzer Straße - einstimmig beschlossen
+- TOP 42: Kinderspielplatz Zeppelinstraße - zur Kenntnis genommen
+- TOP 43: Tagesbetreuungsangebote für Kinder unter 3 Jahren - zur Kenntnis genommen
+- TOP 44: Wasserspielplatz Schloss Eller - zur Kenntnis genommen
+- TOP 45: Stadtteilbücherei Unterbach - zur Kenntnis genommen
+- TOP 46: Dringlichkeitsentscheidung Plan Nr. 5876/11 - zur Kenntnis genommen
+- TOP 47: Containerstandplätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 48: Parkplatzerweiterung Eller - Mitte - zur Kenntnis genommen
+- TOP 49: Rathelbeckstraße - kombinierter Fuß- und Radweg - zur Kenntnis genommen
