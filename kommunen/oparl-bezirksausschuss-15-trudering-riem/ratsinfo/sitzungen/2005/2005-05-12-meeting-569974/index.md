@@ -1,0 +1,163 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2005-05-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/569974
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/569974
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1.1.: Entwässerungssatzung der Landeshauptstadt München ? Dichtheitsnachweise, Empfehlung Nr. 19 der BV des Stadtbezirks 15 Trudering-Riem vom 10.11.04
+- TOP 1.2.: Gewährung eines Zuschusses aus den Budgetmitteln des Bezirksausschusses 15, Montessori-Zentrum Trudering
+- TOP 1.3.: Gewährung eines Zuschusses aus den Budgetmitteln des Bezirksausschusses 15, Zirkusprojekt an der Schule vom 27.06.05 ? 02.07.05
+- TOP 2.1.: Chaotische Behandlung von Bürgerversammlungs- und Bezirksausschussanträgen
+- TOP 2.2.: Lagerung/Entsorgung von Müll in Riem
+- TOP 2.3.: Bau eines Clearinghaus in Waldtrudering
+- TOP 2.4.: Kindergarten Trudering ? Bau von zwei Clearinghäusern
+- TOP 2.5.: Zwangsräumung des Gnadenackers, Planung einer ?Europastadt? in Keferloh, Mautflüchtlinge auf der B 471
+- TOP 2.6.: Verkehrsverhältnisse am Mitterfeld
+- TOP 2.7.: Busverbindung zum Einkaufszentrum PEP
+- TOP 2.8.: Erwerb einer Wärmebildkamera mit dem Zuschuss des BA 15 durch FFW Michaeliburg
+- TOP 2.9.: Private Vorschule für Trudering
+- TOP 2.10.: Fahrkartenautomaten auf den Bahnsteigen am Ostbahnhof
+- TOP 3.1.: Ansiedlung einer Postfiliale in der Messestadt Riem (TOP 3.13/02/05)
+- TOP 3.2.: Automatenwünsche: Zahlen mit 20-Euro-Schein und BOB-Tickets, Antrag Nr. 2485 des BA 15 vom 21.10.2004 (TOP 4.11/10/04)
+- TOP 3.3.: Bahnhof Trudering, Benutzung eines Grünstreifens als Ausstellungsfläche für Kraftfahrzeuge (TOP 2.9/11/04, 10.16/01/05)
+- TOP 3.4.: U2-S6-Verknüpfung ? so nah war sie noch nie! (4.6/11/04, 3.9/01/05, Antrag Nr. 2568 des BA 15 vom 25.11.04); BUGA 2005: Vorschläge und Hinweise zur Erschließung mit dem öffentlichen Verkehr (Antrag Nr. 534 des BA 15 vom 17.10.02)
+- TOP 3.5.: Nimmt der Kfz-Verkehr in Trudering-Riem ab? (Antrag Nr. 2700 des BA 15 vom 16.12.04; TOP 3.15/01/05)
+- TOP 3.6.: MOBINET-Wegweisung ? Entlastung für Trudering? (Antrag Nr. 2749 des BA 15 vom 27.01.05, TOP 4.2/01/05)
+- TOP 3.7.: Parken in der Tsingtauer Straße (Antrag Nr. 2766 des BA 15 vom 27.01.05, TOP2.6/01/05)
+- TOP 3.8.: Wärmeversorgungskonzept der Messestadt; Schreiben der GUWOBAU ? Bauträger (TOP 3.16/01/05)
+- TOP 3.9.: Ursprüngliches Abfallwirtschaftskonzept für die Messestadt Riem
+- TOP 3.10.: Vollzug des Bayerischen Naturschutzgesetzes (BayNatSchG); Inkrafttreten der Verordnung der Landeshauptstadt München über den Schutz des Landschaftsbestandteiles ?Am Hochacker Teilfläche d? in München Trudering, Biotop Nr. M-218 d (TOP 7.22/03/04)
+- TOP 3.11.: Bebauungsplan Nr. 153 der Gemeinde Haar, Antrag Nr. 2723 des BA 15 vom 25.11.04
+- TOP 3.12.: Kennzeichnung bei Änderungen von Anhörungen, Antrag Nr. 2783 des BA 15 vom 17.03.05 (TOP 4.3/03/05)
+- TOP 3.13.: 10 Jahre Basteln an den Bürgerzentren sind genug, Antrag Nr. 2751 des BA 15 vom 27.01.05
+- TOP 3.14.: Abstimmung der Elterninfoabende der Münchner Schulen mit den Nachbargemeinden (TOP 4.7/03/05, Antrag Nr. 2787 des BA 15 vom 17.03.05)
+- TOP 3.15.: Installation von Lichtanlagen auf dem Hartplatz und dem geplanten Bolzplatz, Antrag Nr. 2477 des BA 15 vom 21.10.2004 (TOP 4.3/10/04)
+- TOP 3.16.: Zuschuss für die Grundschule am Lehrer-Götz-Weg 21, Antrag Nr. 2718 des BA 15 vom 25.11.04 (TOP 1.6/11/04)
+- TOP 3.17.: Hygienische Untersuchung des Gymnastikraumes der Forellenschule, Antrag Nr. 2489 des BA 15 vom 21.10.2004 (TOP 4.15/10/04, 3.22/02/05, 3.7/03/05)
+- TOP 3.18.: Behindertengerechter Ausbau von Schulen in Trudering-Riem; hier Grundschule an der Forellenstraße (TOP 3.19/02/05)
+- TOP 3.19.: Verzicht auf kurzfristige Zwangsräumung der Bauwagensiedlung auf dem Gnadenacker, Antrag Nr. 2786 des BA 15 vom 17.03.05 (TOP 4.6/03/05)
+- TOP 3.20.: Kürzungen der Flüchtlingshilfe; Auswirkungen auf die Landeshauptstadt München insbesondere auf die Flüchtlingsunterkunft Schwankhardtweg, Antrag Nr. 1798 des BA 15 vom 22.01.2004 (TOP 2.4/01/04)
+- TOP 3.21.: U/S-Bahnhof Trudering Lichtzeichenanlage
+- TOP 4.1.: Entwicklung des Willy-Brandt-Platzes, (SPD)
+- TOP 4.2.: Tribüneneinbau Berufsschulzentrum Messestadt (SPD)
+- TOP 4.3.: Darstellung der Entwicklung der Schülerinnen- und Schülerzahl im Bereich des BA 15 (SPD)
+- TOP 4.4.: Schülerlotsenausbildung/-Fibel (CSU)
+- TOP 4.5.: Auskunft über Feinstaub durch Großbaustellen (CSU)
+- TOP 4.6.: BUGA-Luftbild der Region München dauerhaft erhalten (CSU)
+- TOP 4.7.: Clearinghäuser in Trudering-Riem (CSU)
+- TOP 4.8.: Betreutes Wohnen zu Hause auch in Trudering-Riem ermöglichen (CSU)
+- TOP 4.9.: Fragen zu Clearinghäusern
+- TOP 4.10.: Verzicht auf den Bau eines Clearinghauses am Drosselweg
+- TOP 4.11.: Bürgerversammlung zum Thema Clearinghaus
+- TOP 4.12.: Nutzung von Wohnungsleerständen für Clearinghäuser
+- TOP 5.1.: Radweg Edinburghplatz (Busbahnhof); Anhörung gemäß § 3 der Satzung für Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 5.2.: Unautorisierter Beschlussentwurf zur Busbeschleunigung ? Änderung des Mehrjahresinvestitionsprogramms (MIP) 2005-2009
+- TOP 5.3.: Halteverbot Kamerunstraße; Anhörung gemäß § 13 der Satzung für Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 6.1.: Lärmschutz im Bereich Truchthari-Anger, Empfehlung Nr. 25 der BV vom 10.11.2004 (TOP 5.1/03/05, 10.49/04/05)
+- TOP 6.2.: Entwässerungssatzung der Landeshauptstadt München ? Dichtheitsnachweise, Empfehlung Nr. 19 der BV vom 10.11.04
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.7.2: UA Planung:
+- TOP 7.1.: Bebauungsplan mit Grünordnung Nr. 1728 I, Messestadt Riem, 3. Bauabschnitt Wohnen
+- TOP 7.2.: Begründung zum Entwurf des Bebauungsplanes mit Grünordnung Nr. 1728 l, 3. Bauabschnitt Wohnen
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 8.1.: Mitteilungen und Bescheide über bereits durchgeführte Baumfällungen: Gerstäckerstr. 110
+- TOP 8.2.: Max-Beckmann-Str.32
+- TOP 8.3.: Schwanenweg 7
+- TOP 8.4.: Möwestr.24
+- TOP 8.5.: Breithornstr.7
+- TOP 8.6.: Salzmesserstr.12
+- TOP 8.7.: Solalindenstr.55 a
+- TOP 8.8.: Lachenmeyrstr.4
+- TOP 8.9.: Stieglitzweg 32
+- TOP 8.10.: Groß-Nabas-Str.8
+- TOP 8.11.: Günderodestr.59
+- TOP 8.12.: Kästlenstr.4a
+- TOP 8.13.: Hippelstr.75
+- TOP 8.14.: Zehntfeldstr.176
+- TOP 8.15.: Friedenspromenade 11 ? 11b
+- TOP 8.16.: Deikestraße 34
+- TOP 8.17.: Leibengerstr. 40
+- TOP 8.18.: Emil-Nolde-Str. 7
+- TOP 8.19.: Leonhardiweg
+- TOP 8.20.: Dualastr. 9
+- TOP 8.21.: Sulzer-Belchen-Weg 5 und 5 a
+- TOP 8.22.: Batschkastr. 46
+- TOP 8.23.: Rotfuchsweg 2
+- TOP 8.24.: Dresselstr. 21
+- TOP 8.25.: Damaschkestr. 29
+- TOP 8.26.: Lachenmeyrstr. 6 a
+- TOP 8.27.: Waldschulstr. 29
+- TOP 8.28.: Birthälmer Str. 51
+- TOP 9.1.: Termine
+- TOP 9.2.: Kontoauszug aus dem BA-Konto (Stand 21.12.04)
+- TOP 9.3.: Neuregelung der bisherigen Anhörung der Bezirksausschüsse bei stadtratspflichtigen Angelegenheiten ?Wehret den Anfängen!? ? Schreiben des BA 3 vom 26.04.05
+- TOP 9.4.: Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse beim Oktoberfest 05
+- TOP 9.5.: Vorstellung von drei Büchern des Schriftstellers Benedikt Weyerer
+- TOP 9.6.: Kein Personalabbau bei Streetwork, weder im 8ten noch im 9ten Stadtbezirk
+- TOP 9.7.: Weltkindertag 2005, Protokoll zum 1. Vorbereitungstreffen am 16.03.05 im Haus der Jugendarbeit
+- TOP 9.8.: Mitteilung der Termine der Münchner Sommer SpielAktion 2005 in Trudering-Riem
+- TOP 9.9.: Programm ?Bürgerinnen und Bürger gestalten Ihre Stadt? ? Bürgerbeteiligung in den Stadtvierteln
+- TOP 9.10.: Wohnen in München III a) Erfahrungsbericht für das Jahr 2004 b) Ergänzungen des Erfahrungsberichts
+- TOP 9.11.: Wohnen in München III a) Verfahrensänderungen im Vollzug des Handlungsprogramms im Jahr 2004 b) Verlängerung des wohunungspolitischen Handlungsprogramms 2001 ? 2005 um das Jahr 2006 c) Kürzere Wartefrist für Familien mit Kindern im München Modell d) Erbbaumodell für Familien mit Kindern e) Bezahlbarer Wohnraum für Familien
+- TOP 9.12.: Vorbereitung der durch den BA 15 organisierte Veranstaltung mit Gewerbetreibenden in Trudering
+- TOP 10.1.: Evaluierung der Messestadt Riem (EvaluMR), Bekanntgabe des Nachhaltigkeitsberichts
+- TOP 10.2.: Entwurf des Mehrjahresinvestitionsprogrammes 2005-2009, Einzelplan 4/Sozialbereich
+- TOP 10.3.: Mehrjahresinvestitonsprogramm (MIP) 2005-2009 1. Investitionsmaßnahmen für Schulen und Kindertagesstätten 2. Dissens 3. Verfahrenstechnische Neuerungen 4. Stellungnahmen der Bezirksausschüsse
+- TOP 10.4.: Mehrjahresinvestitionsprogramm 2005-2009 mit verbindlicher Planung für 2010
+- TOP 10.5.: Mehrjahresinvestitionsprogramm 2005-2009, Gliederungsziffern 6100, 6110, 6150, 6200; Stellungnahme zum Antrag der Bezirksausschüsse 4,10,11,19,20 und 21
+- TOP 10.6.: Neuorganisation des Kulturreferats
+- TOP 10.7.: Sachstandsmitteilung ?Standort Mobilfunk-Netzplanung?, Antrag Nr. 2474 des BA 15 vom 21.10.04
+- TOP 10.8.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderung zu genehmigten Bauvorhaben vom 04.04.05 bis 24.04.05
+- TOP 10.9.: Zweckentfremdung von Wohnraum, Togostraße 40
+- TOP 10.10.: Zweckentfremdung von Wohnraum, Zehntfeldstraße 176
+- TOP 10.11.: Wie ist das Verhältnis der Investitionen in den Radverkehr zu den Investitionen in den motorisierten Individual- und Wirtschaftsverkehr?
+- TOP 10.12.: Workshopreihe ? Diskurs ?Stadtgestaltung und neue Architektur?
+- TOP 10.13.: Vollzug des Sprengstoffgesetzes ? SprengG -
+- TOP 10.14.: Bebauungsplan mit Grünordnung Nr. 1758, Truderinger Str. (südl.), Friesenstr. (westl.), Kreillerstr. (beids.), Bajuwarenstr. (beids.), St.-Augustinus-Str. (nördl.), Forellenstr. (östl.) und Elritzenstr. (östl.) ? 2. Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss
+- TOP 10.15.: Zuwendungsbewilligung im Rahmen der Richtlinien für die Gewährung von Zuwendungen aus Budgetmitteln der Bezirksausschüsse der Landeshauptstadt München ? Bescheid Familienzentrum Trudering/Zuschuss für die Einweihung der Räume
+- TOP 10.16.: Kultur- und Bürgerzentrum Trudering ? Freigabe der Zuwendungen für das Haushaltsjahr 2005 gemäß den Zuwendungsrichtlinien
+- TOP 10.17.: Frostschäden auf Münchner Straßen
+- TOP 10.18.: Straßenausbaubeitragssatzung
+- TOP 10.19.: Zukunft der Arbeitsgruppe Obdachlosigkeit und des Beraterkreises für die Sanierung der Städtischen Unterkünfte
+- TOP 10.20.: Gnade für den Gnadenacker ? Keine Zwangsräumung der Obdachloseninitiative die Ameise e.V.
+- TOP 10.21.: Reduzierung der Zahl der Eingangsklassen an der städt. Schulartunabhängigen Orientierungsstufe
+- TOP 10.22.: Bürgerbeteiligung ? Frühzeitige Unterrichtung über die Bauleitplanung
+- TOP 10.23.: Namensgebung Riemer Park und See
+- TOP 10.24.: Messestadt Riem ? EM 225 Wohn- und Anliegerstraßen im 2. BA Wohnen, Genehmigung für den endgültigen Straßenausbau
+- TOP 10.25.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2005 ? 2009
+- TOP 10.27.: Unveränderte Fortführung des Feinkosthandels ?Olivia?
+- TOP 10.28.: Diskurs ?Stadtgestaltung und neue Architektur?
+- TOP 10.29.: Bebauungsplan mit Grünordnung Nr. 1758 a ? Satzungsbeschluss
+- TOP 10.30.: Fortschreibung des Zentrenkonzepts ? Nahversorgung in München
+- TOP 10.31.: Einzelhandelskonzeption für den Münchner Südosten
+- TOP 10.32.: Nachprüfung eines Beschlusses des Ausschusses für Stadtplanung und Bauordnung vom 02.03.05 A) Bebauungsplan mit Grünordnung Nr. 1958 B) Antrag Nr. 2690 des BA 15 vom 16.12.04
+- TOP 10.33.: Münchner Statistik ? 4. Quartalsheft Jahrgang 2004
+- TOP 10.34.: Gewährung eines Zuschusses aus den Budgetmitteln des Bezirksausschusses 15, Bürgerzentrum Trudering ? Ausstattung einer Künstlergarderobe
+- TOP 10.35.: Gewährung eines Zuschusses aus den Budgetmitteln des Bezirksausschusses 15, Bürgerzentrum Trudering ? Schaukasten, Schilder, etc.
+- TOP 10.36.: Gewährung eines Zuschusses aus den Budgetmitteln des Bezirksausschusses 15, Bürgerzentrum Trudering ? Kauf einer Leinwand, eines Beamers und eines Overhead-Projektors
+- TOP 10.37.: Gewährung eines Zuschusses aus den Budgetmitteln des Bezirksausschusses 15, Bürgerzentrum Trudering ? Kauf von Büroausstattung
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
+- TOP 10.38.: Nachhaltiger Fußboden für den Riemer Kopfbau ? Mitteilung über den Sachstand
