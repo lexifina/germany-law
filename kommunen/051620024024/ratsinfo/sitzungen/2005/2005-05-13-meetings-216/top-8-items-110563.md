@@ -1,0 +1,6 @@
+# TOP 8: Anf. Stv. Jahn: Illumin. Unterführung Further Str.
+
+- Sitzung: Rat der Stadt Neuss (2005-05-13)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/110563
