@@ -1,0 +1,55 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2005-05-19T17:05:00+02:00
+- Ende: 2005-05-19T20:50:00+02:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2004-RAT-6
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2004-RAT-6
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2004-RAT-6
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2004-RAT-6
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Auflösung der Grundschule an der Marienburger Straße ab dem Schuljahr 2006/2007
+- TOP 3: Einrichtung einer Stelle 'Jugendhilfeplanung' im Stellenplan Antrag der SPD-Ratfraktion und Grüne Ratsfraktion
+- TOP 4: Stellenplan 2005
+- TOP 5: Beschluss der Haushaltsreste 2004 und Neuveranschlagungen für 2005
+- TOP 6: Beschluss von Dringlichkeitslisten für Investitionen und Investitionsförderungsmaßnahmen für das Haushaltsjahr 2005
+- TOP 7: Haushalts-Eckdaten 2005 Beratung und Beschlussfassung
+- TOP 8: Bürgerbegehren zum Umbau des Stadions an der Bahnhofstraße
+- TOP 9: Einstellungsstopp
+- TOP 10: Haushaltsüberschreitungen 2004 und über- und außerplanmäßige Verpflichtungsermächtigungen 2004
+- TOP 11: Berichterstattung über die Beteiligungen der Stadt Castrop-Rauxel
+- TOP 12: Wiederwahl der Schiedsperson Robert Lasser für den Bezirk V
+- TOP 13: Wahl der Schiedsperson für den Bezirk II
+- TOP 14: Änderung der Gebührenordnung für die Volkshochschule
+- TOP 15: Umwandlung der Europaschule in eine Offene Ganztagsschule ab dem Schuljahr 2005/2006
+- TOP 16: Vorplanung für den Neubau der Grundschule an der Ahornstraße; Genehmigung einer Dringlichkeitsentscheidung gem. § 60 GO.NRW
+- TOP 17: 2. Änderung der Satzung über die Erhebung von Elternbeiträgen im Rahmen der Offenen Ganztagsschule
+- TOP 18: Einbeziehung eines weiteren beratenden Mitgliedes in den Jugendhilfeausschuss Antrag des Stadtjugendringes Castrop-Rauxel e. V.
+- TOP 19: Förderung der Trägeranteile der dritten Gruppe des kath. Kindergartens St. Lambertus - Henrichenburg
+- TOP 20: Beirat für Kunst und Stadtgestaltung der Stadt Castrop-Rauxel hier: Satzung für den Beirat für Kunst und Stadtgestaltung der Stadt Castrop-Rauxel
+- TOP 21: Beirat für Kunst und Stadtgestaltung der Stadt Castrop-Rauxel hier: Berufung der Mitglieder
+- TOP 22: BAULEITPLANUNG Bebauungsplan Nr. 182 Planbereich: Wartburgstraße/Nördlicher Zufahrtsbereich zum Mittelstandspark West hier: Beschluss einer Veränderungssperre nach §§ 14 und 16 BauGB
+- TOP 23: Umlegungsverfahren Nr. 23 Planbereich: Schäferweg hier: Beschluss zur Rücknahme der Anordnung zur Durchführung eines Umlegungsverfahrens
+- TOP 24: 
+- TOP 25: Nachhaltige Regenwasserbewirtschaftung im Emschergebiet hier: Zukunftsvereinbarung Regenwasser
+- TOP 26: Schlussbericht über die Prüfung der Jahresrechnung 2003; Beratung und Beschlussfassung sowie Erteilung der Entlastung
+- TOP 27: Benennung der Organisationen mit beratender Stimme
+- TOP 28: Erweiterung der Lindenschule (städt. Gemeinschaftsgrundschule)
+- TOP 29: Maßnahmen zum Korruptionsbekämpfungsgesetz a) Dritte Änderung der Geschäftsordnung für den Rat der Stadt und die Ausschüsse b) Aufhebung der Ehrenordnung der Stadt Castrop-Rauxel
+- TOP 30: Benennung eines Mitgliedes im Behindertenbeirat
+- TOP 31: Antrag des Ratsmitgliedes Schmidt - Benennung von Sachkundigen Einwohnern durch die Einzelmitglieder des Rates
+- TOP 32: Antrag von Ratsmitglied Schmidt vom 11. März 2005; Einsatz eines neu entwickelten Filter-Systems für Motorenöl
+- TOP 33: Antrag der CDU-Fraktion vom 3. Mai 2005; Einrichtung einer Arbeitsgruppe zur 'Interkommunalen Zusammenarbeit'
+- TOP 34: Anfragen der Ratsmitglieder
+- TOP 35: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
