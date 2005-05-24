@@ -1,0 +1,55 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-05-24T17:00:00+02:00
+- Ende: 2005-05-24T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1564
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1564
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111436.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111436.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111436.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: B-PlanNr. 5978/49 - Benderstr./Bergische Landstr.
+- TOP 4: B-Plan Nr. 5978/50 - Von-Gahlen-Straße
+- TOP 5: Biotopmanagementplan Pillenbachtal
+- TOP 6: Zuschuss Rochusclub
+- TOP 7: Spielstraße Mühlenbergweg
+- TOP 8: Bebauungsplan Mühlenbergweg
+- TOP 9: Feinstaubanalyse
+- TOP 10: Ökologische Veränderungen
+- TOP 11: Frischluftschneise
+- TOP 12: Solarstrom für Haltestellen
+- TOP 13: Spielplatz Schreberweg
+- TOP 14: Gerricus-Pützchen
+- TOP 15: Verkehrssicherheit Bergische Landstaße
+- TOP 16: Umbenennung "Ernst-Poensgen-Allee"
+- TOP 17: Restaurierung Gedenkstein
+- TOP 18: Friedhofswege Gerresheim
+- TOP 19: Bertastraße / Ecke Zamenhofweg
+- TOP 20: Katharinenstraße - Düssel
+- TOP 21: Baugebiet "Am Quellenbusch"
+- TOP 22: Nachbarschaftspark Diepenstraße
+- TOP 23: Bergische Kaserne
+- TOP 24: Kreisverkehr Bender-/Dreher-/Gräulingerstraße
+- TOP 25: Straßenbeleuchtung "Am Pesch"
+- TOP 26: Aufnahme der Seniorenbeauftragten in Info's der BV
+- TOP 27: Weltjugendtag
+- TOP 28: Robidog-Behälter
+- TOP 29: Parkplätze Heyestraße 99
+- TOP 30: Nachverdichtung Ostpark-Siedlung
+- TOP 31: Kindertagesstätte
+- TOP 32: Offene Ganztagsschule
+- TOP 33: EU-Richtlinie Kinderspielplätze
+- TOP 34: Rotthäuser Bachtal - Gebäude Plungscheuer
+- TOP 35: Hohlweg Schäpershof - Rotthäuser Bachtal
+- TOP 36: Abfahrt A 44
+- TOP 37: Jugendeinrichtungen
+- TOP 38: Auswirkungen der geplanten Umgehungsstraße L 404 n
