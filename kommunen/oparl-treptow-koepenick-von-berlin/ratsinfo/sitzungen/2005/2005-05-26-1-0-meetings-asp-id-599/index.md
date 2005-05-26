@@ -1,0 +1,72 @@
+# 39. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2005-05-26T16:00:00+02:00
+- Ende: 2005-05-26T20:50:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=599
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=599
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=34335
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 7.1: Hartz IV - Vermittlung in Arbeit oder Beschäftigung - beantwortet
+- TOP 8: Beschlussvorlagen - gegenstandslos
+- TOP 8.1: Sondermittel für Volkssolidarität LV Berlin e.V. (SM 508) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Sondermittel für Sport-Arbeitsgemeinschaft Treptow-Köpenick e.V. (SM 509) - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Sondermittel für Pro Sport Berlin 24 e.V. (SM 526) - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Sondermittel für Katholische Kirchengemeinde St. Josef (SM 527) - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Sondermittel für Kunstfabrik Köpenick GmbH (SM 528) - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Sondermittel für SG Grün-Weiß Baumschulenweg e.V., Abt. Schach (SM 529) - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Sondermittel für Siedlergemeinschaft "Grüne Trift am Walde" e.V. (SM 515) - ohne Änderungen in der BVV beschlossen
+- TOP 8.8: Sondermittel für Alte Möbelfabrik e.V. (SM 530) - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Sondermittel für Selbsthilfegruppe Multiple Sklerose (SM 533) - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Sondermittel für Kreisjugendring e.V. (SM 534) - ohne Änderungen in der BVV beschlossen
+- TOP 8.11: Sondermittel für Förderverein "Freunde des Philippe-Cousteau-Gymnasiums Treptow e.V." (SM 536) - mit Änderungen in der BVV beschlossen
+- TOP 8.12: Sondermittel für Seniorenverein "Wuhlheide" e.V. (SM 523) - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 9.1: Konkretisierung und Fortschreibung der städtebaulichen und sozialen Sanierungsziele für das Sanierungsgebiet Oberschöneweide <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Hinweistafeln für Gottesdienste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Schützenswerte Gebiete im Ortsteil Rahnsdorf <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Oliver Scholz)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Gewerbeneuansiedlungen prämieren <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Martin Sattelkau)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Genehmigung der im 1. Halbjahr 2004 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, PVFinWi)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Bebauungsplan XV-61 hier: Einstellung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Optimierung der Fußgängerampelschaltung am S-Bahnhof Köpenick (Mahlsdorfer Straße) <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bärbel König Verfasser 2: Stefan Förster)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Grünflächenpflege nach Friedrichshain-Kreuzberger Modell <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bärbel König Verfasser 2: Stefan Förster)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Bessere Bekämpfung von Graffitischmiererei <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bärbel König Verfasser 2: Stefan Förster)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Erläuterungstafeln Flugplatz Johannisthal <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: ArGe/Jobcenter - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 10.1: Bebauungsplan XV-45 - Entwurf des Bebauungsplans XV-45 und Entwurf der Rechtsverordnung zum Bebauungsplan im Bezirk Treptow-Köpenick, Ortsteil Altglienicke (Änderungen zum BA-Beschluss 275/04 vom 9. März 2004) - Ergebnis der Betroffenenbeteiligung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 10.2: Aktuelle Baumaßnahmen Verkehrslösung Altstadt Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 10.3: Umsetzung der Forderung aus dem Gender Mainstreaming Programm für den Bezirk Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Anträge - gegenstandslos
+- TOP 11.1: Bürgerhaushalt 06/07 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Petra Reichardt)</span> - in der BVV abgelehnt
+- TOP 11.2: Brachfläche Bahnhof Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Monika Drews)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Markt auf dem Schlossplatz - überwiesen
+- TOP 11.4: Grünau - in der BVV abgelehnt
+- TOP 11.5: Benennung einer Planstraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - überwiesen
+- TOP 11.6: Flächen für Graffiti - überwiesen
+- TOP 11.7: Erinnerungstafeln <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ulrich Stahr)</span> - überwiesen
+- TOP 11.8: Renaturierung Parkplatz Marienlust - in der BVV zurückgezogen
+- TOP 11.9: Reduzierung der Taxistellplätze am Krankenhaus Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - überwiesen
+- TOP 11.10: Erweiterung des eingeschränkten Halteverbots in der Wendenschloßstraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach)</span> - überwiesen
+- TOP 11.11: Sozialräumliche Auswertung der Bruttowarmmieten von ALG II-Empfängern <span style="color: #888a85" title="Zusatzinfo">(Verfasser : René Feldt)</span> - überwiesen
+- TOP 11.12: Erreichbarkeit Innenstadt für Mobilitätsbehinderte aus Treptow-Köpenick während Sanierungsarbeiten Warschauer Straße und Ostkreuz <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Belohnung für Aufklärung von Vandalismusschäden <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bärbel König Verfasser 2: Stefan Förster)</span> - überwiesen
+- TOP 11.14: Tourismusverein Treptow-Köpenick e.V. <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ulrich Stahr)</span> - überwiesen
+- TOP 11.15: Haltebucht für Seniorenfreizeitstätte <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - überwiesen
+- TOP 12: Große Anfragen - gegenstandslos
+- TOP 12.1: Hartz IV - Zusatzjobs mit Mehraufwandsentschädigung und ihre Auswirkungen auf die soziokulturelle Infrastruktur <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach)</span> - vertagt
+- TOP 12.2: Notwendige Baumaßnahmen am Schulstandort Pablo-Neruda-Straße und deren Planung - beantwortet
+- TOP 12.3: Aktualisierung der Schulentwicklungsplanung 2002-2006 - beantwortet
