@@ -1,0 +1,8 @@
+# TOP 10.1: Bebauungsplan XV-45 - Entwurf des Bebauungsplans XV-45 und Entwurf der Rechtsverordnung zum Bebauungsplan im Bezirk Treptow-Köpenick, Ortsteil Altglienicke (Änderungen zum BA-Beschluss 275/04 vom 9. März 2004) - Ergebnis der Betroffenenbeteiligung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span>
+
+- Sitzung: 39. (ordentliche) Sitzung der Bezirksverordnetenversammlung (2005-05-26)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=8432
+- Ergebnis: überwiesen
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=8432
