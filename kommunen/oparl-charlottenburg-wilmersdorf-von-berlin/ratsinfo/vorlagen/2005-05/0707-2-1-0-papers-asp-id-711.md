@@ -1,0 +1,22 @@
+# Jugendfreizeitheim am Grunewaldsee
+
+- Körperschaft: Charlottenburg-Wilmersdorf von Berlin
+- Drucksache/Vorlage: 0707/2
+- Art: Beschluss
+- Datum: 2005-05-27
+- Ratsinformationssystem: https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=711
+- OParl: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/papers.asp?id=711
+- Quelle: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=230 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=477 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=491 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=643 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=720 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=783 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Beratung  https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Beratung  https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Beratung  https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Beratung  https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=610 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=7
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=788 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=at&id=11
