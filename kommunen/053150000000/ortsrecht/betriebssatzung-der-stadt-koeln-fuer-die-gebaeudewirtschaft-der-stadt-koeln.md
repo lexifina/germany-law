@@ -1,8 +1,8 @@
 # Betriebssatzung der Stadt Köln für die Gebäudewirtschaft der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2005-04-27 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/7._betriebssatzung_gebäudewirtschaft_27.04.2005.pdf
+- Datum: 2005-06-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/8._betriebssatzung_gebäudewirtschaft_01.06.2005.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -13,7 +13,7 @@ Betriebssatzung
 der Stadt Köln für die Gebäudewirtschaft der Stadt Köln
 
 vom 4. Dezember 1996 (Amtsblatt der Stadt Köln Nr. 64 vom 23. Dezember 1996)
-(Stand: 27.04.2005)
+(Stand: 01.06.2005)
 
 lfd Nr. 1
 2
@@ -54,6 +54,14 @@ Betriebssatzung
 
 Betriebssatzung
 
+8
+
+8. Satzung zur
+
+Änderung der
+
+Betriebssatzung
+
 Änderungen der Satzung
 
 Datum 26.03.1997 02.04.1998 22.05.2000
@@ -85,6 +93,12 @@ S.247
 
 3, 4
 
+12.05.2005
+
+Amtsblatt Nr. 24 § 3 Abs. 1 vom 01.06.2005, S. 333
+
+Änderung
+
 Der Rat der Stadt Köln hat in seiner Sitzung vom 05.11.1996 aufgrund der §§ 7, 107 Absatz 2 Satz 2 und 114 Absatz 1 der Gemeindeordnung für das Land Nordrhein-Westfalen vom 14. Juli 1994 (GV NW S. 666; SGV NW 2023) in Verbindung mit der Eigenbetriebsverordnung für das Land Nordrhein-Westfalen vom 1. Juni 1988 (GV NW S. 324; SGV NW 641) jeweils in der bei Erlaß dieser Satzung geltenden Fassung - folgende Betriebssatzung beschlossen:
 
 Betriebssatzung
@@ -114,7 +128,7 @@ Seite 4
 (3) Die Werkleitung ist für die wirtschaftliche Führung der Gebäudewirtschaft der Stadt Köln verantwortlich.
 
 §3 Werksausschuss
-(1) Der Werksausschuss der Gebäudewirtschaft der Stadt Köln ist der Bau- und Verkehrsausschuss des Rates der Stadt Köln.
+(1) Der Werksausschuss der Gebäudewirtschaft der Stadt Köln ist der Ausschuss Bauen und Wohnen des Rates der Stadt Köln.
 (2) Der Werksausschuß entscheidet in den Angelegenheiten, die ihm durch die Gemeindeordnung und die Eigenbetriebsverordnung übertragen sind. Darüber hinaus entscheidet der Werksausschuß in den ihm vom Rat der Stadt Köln ausdrücklich übertragenen Angelegenheiten sowie über
 a) Erlaß und Niederschlagung von Forderungen, wenn sie im Einzelfall
 
