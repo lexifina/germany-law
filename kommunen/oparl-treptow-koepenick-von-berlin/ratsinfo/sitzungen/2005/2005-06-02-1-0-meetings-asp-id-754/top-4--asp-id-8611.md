@@ -1,0 +1,7 @@
+# TOP 4: SM 535 - Bohnsdorfer Skatclub e.V.
+
+- Sitzung: 36. (öfftl.) Sitzung des Ausschusses für Sport (2005-06-02)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=8611
+- Ergebnis: im Ausschuss abgelehnt
