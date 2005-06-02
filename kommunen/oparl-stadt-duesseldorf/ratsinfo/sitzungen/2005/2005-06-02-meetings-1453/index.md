@@ -1,0 +1,85 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-06-02T14:00:00+02:00
+- Ende: 2005-06-02T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1453
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1453
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111540.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111540.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111540.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - zur Kenntnis genommen
+- TOP 2: Genehmigung NS - zur Kenntnis genommen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Akt. Anfr. SPD: Gerresheimer Glashütte - zur Kenntnis genommen
+- TOP 5: Anfrage aktuell: Landesfinanzen - zur Kenntnis genommen
+- TOP 6: Akt. Anfr. Kahl: Glashütte - zur Kenntnis genommen
+- TOP 7: Akt. Anfr. Laubenburg: Rechtsextremistische Treffe - zur Kenntnis genommen
+- TOP 8: Akt. Anfr. Laubenb.: Kitas - zur Kenntnis genommen
+- TOP 9: Anfragen - zur Kenntnis genommen
+- TOP 10: Anfr.CDU: Stadtentwicklung - zur Kenntnis genommen
+- TOP 11: Anfr.CDU: Verkehrsentwicklung Düsseldorf - zur Kenntnis genommen
+- TOP 12: Anfr.Bü90/Grü: Verbesserung städt. Integrat.Arbeit - zur Kenntnis genommen
+- TOP 13: Anfr. Kahl: Oronto - zur Kenntnis genommen
+- TOP 14: Anfr. Laubenburg: Stadthaus - zur Kenntnis genommen
+- TOP 15: Anfr. Kahl: Handlungskonzept Wohnungsbau - zur Kenntnis genommen
+- TOP 16: Anfr,Bü90/Grü: Werbung f.sg. D`f-Arcaden - zur Kenntnis genommen
+- TOP 17: Anfr. Rf Frey: Dome in Rath - zur Kenntnis genommen
+- TOP 18: Ä. d. Satzung über Ehrenausz. - zur Kenntnis genommen
+- TOP 19: Ändantr. K/L: Ehrensatzung - zur Kenntnis genommen
+- TOP 20: Resolution Ausländerbeirat - zur Kenntnis genommen
+- TOP 21: Anträge - zur Kenntnis genommen
+- TOP 22: Antr. Bü90: Büroleerstand - zur Kenntnis genommen
+- TOP 23: Änd.-antr. Kahl/Laub: Büroleerstand - zur Kenntnis genommen
+- TOP 24: Antr.Bü90/Grü: Verbesserung d. Lebensqualität - zur Kenntnis genommen
+- TOP 25: Ändantr. CDU/FDP: Rath und Wersten - zur Kenntnis genommen
+- TOP 26: Antr. Bü90/Grü: Vorb. Planung bei Luft-u. Lärmbel. - zur Kenntnis genommen
+- TOP 27: Änd.-antr. CDU/FDP: Luftbelästigung - zur Kenntnis genommen
+- TOP 28: Antrag SPD: Mieten städt. Räumlichkeiten - zur Kenntnis genommen
+- TOP 29: ÄA Bü90/Grü: Mieten f. Städ.Räumlichkeiten - zur Kenntnis genommen
+- TOP 30: Dringlichkeitsantrag CDU/FDP: Umbenennung Südbrück - zur Kenntnis genommen
+- TOP 31: Kämmererliste 2004 - zur Kenntnis genommen
+- TOP 32: Kämmererliste 2005 - zur Kenntnis genommen
+- TOP 33: Jahresabschluss 2004 SSK - zur Kenntnis genommen
+- TOP 34: ??? - zur Kenntnis genommen
+- TOP 35: Eintrittspreisfestsetzung für die städtischen Muse - zur Kenntnis genommen
+- TOP 36: Ändantr. Bü90: Eintrittspreisfestsetzung für die s - zur Kenntnis genommen
+- TOP 37: Neufestsetzung der Preise für die Art:Card Düsseld - zur Kenntnis genommen
+- TOP 38: Job Plus AGS und Rat - ESF / Land - zur Kenntnis genommen
+- TOP 39: Kamper Acker III - zur Kenntnis genommen
+- TOP 40: Satzung ü.die Durchf. von Bürgerbegehren u. Entsch - zur Kenntnis genommen
+- TOP 41: Ändantr. SPD/Bü90: Satzung Bürgerbegehren - zur Kenntnis genommen
+- TOP 42: Verhaltensregeln - zur Kenntnis genommen
+- TOP 43: Änderungssatzung für einzelne EA in Ddorf - zur Kenntnis genommen
+- TOP 44: Umbesetzungen - zur Kenntnis genommen
+- TOP 45: Gutachtergremium b. U-Bahn-Bau - zur Kenntnis genommen
+- TOP 46: Verw. Ausschuss Agentur f. Arbeit - zur Kenntnis genommen
+- TOP 47: Ersatzwahl freie Träger im JHA - zur Kenntnis genommen
+- TOP 48: Bestellung eines Prüfers des RPA - zur Kenntnis genommen
+- TOP 49: Bestellung sachverständiger Bürgerinnen und Bürger - zur Kenntnis genommen
+- TOP 50: Ändantr. Bü90: Bestellung sachverständiger Bürgeri - zur Kenntnis genommen
+- TOP 51: Gen. 60er: Betriebsträgerwechsel KiTa Kaisersw.Str - zur Kenntnis genommen
+- TOP 52: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 53: Plan Nr.- Veränderungssperre -Ehem. Kaufr - zur Kenntnis genommen
+- TOP 54: Beiderseits Wiesenstraße - 1. Verlängerung der - zur Kenntnis genommen
+- TOP 55: Pl. 6075/36-In den Kötten-1.Verl. Veränderungssp. - zur Kenntnis genommen
+- TOP 56: FNPÄ100-Höherweg/KettwigerStr-Anr. Plan - zur Kenntnis genommen
+- TOP 57: FNPÄ 45 Am Quellenbusch Anreg. Plan - zur Kenntnis genommen
+- TOP 58: B-Plan Nr. 5977/049 - Am Quellenbusch - zur Kenntnis genommen
+- TOP 59: FNP-Änderung Nr. 110 - Östlich Schinkelst - zur Kenntnis genommen
+- TOP 60: B-Plan Nr. 5577/073 - Östlich Schinkel-/Schirmerst - zur Kenntnis genommen
+- TOP 61: BPl.5375/46 Änd § 13, Stellungn, Satzung - zur Kenntnis genommen
+- TOP 62: BPl5672/22-Flemingweg-Änd.+Erg. in rot;Satzung - zur Kenntnis genommen
+- TOP 63: B-PlanNr. 5978/49 - Benderstr./Bergische Landstr. - zur Kenntnis genommen
+- TOP 64: B-Plan Nr. 5978/50 - Von-Gahlen-Straße - zur Kenntnis genommen
+- TOP 65: BPl 6267/11-AusschlVergn.Stätten SB10-Satzung - zur Kenntnis genommen
+- TOP 66: Pl 5476/114 Denkmalbereichss. Karlstadt - Beitritt - zur Kenntnis genommen
+- TOP 67: Gen. 60er: Abgeordnete HV Städtetag - zur Kenntnis genommen
+- TOP 68: 60er: Abgeordnete HV Städtetag - zur Kenntnis genommen
