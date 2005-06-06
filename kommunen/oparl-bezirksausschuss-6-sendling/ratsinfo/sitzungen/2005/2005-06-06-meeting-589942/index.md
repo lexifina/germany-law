@@ -1,0 +1,75 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2005-06-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/589942
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/589942
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 3.: Gaststättenangelegenheiten
+- TOP 3.1.: Gaststätte Dive Delta, Aberlestraße 29; Genehmigung einer Freischankfläche
+- TOP 3.2.: Warenstellage am Asia-Shop, Plinganserstraße 24
+- TOP 3.3.: Warenstellage am "Tee am Harras"; Meindlstraße 23
+- TOP 3.4.: Straßenfest des SPD-Ortsverein in der Daiserstraße am 09.07.2005 - <div>Zustimmung, einstimmig</div>
+- TOP 3.5.: Konzert am Sendlinge Kirchplatz am 02.07.2005; Sendlinger Kulturschmiede - <div>Zustimmung, einstimmig</div>
+- TOP 3.6.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 4.: Verkehrsangelegenheiten
+- TOP 4.1.: topbus Manöverkritik
+- TOP 4.2.: Busbeschleunigung; Änderung des Mehrjahresinvestitionsprogramms
+- TOP 4.3.: Leistungsprogramm 2006 der MVG
+- TOP 4.4.: Baumaßnahme Plinganserstraße 22
+- TOP 4.5.: Einbahnregelung in der Kraelerstraße
+- TOP 5.: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 5.1.: BA-Budget; Fahnenrestauration zum 100jährigen Bestehen des HuVTV Schmied von Kochel; ¿ 1200,-
+- TOP 5.2.: BA-Budget; Ausstellung über die NS-Zeit im ASZ-Sendling, ¿ 670,-
+- TOP 5.3.: Straßenfest der Sendlinger Kulturschmiede in der Daiserstraße; Mitveranstalterschaft durch den BA 6 Sendling
+- TOP 5.4.: Antrag auf Förderung des Besuchs des Films "Sophie Scholl - Die letzen Tage" für Schüler
+- TOP 6.: Referat für Stadtplanung und Bauordnung
+- TOP 6.1.: Meldelisten Bauvorhaben
+- TOP 6.2.: Bauvorhaben Kochelseestr. / Thalkirchner Str.; Bericht von den Gesprächen des BA-Vorstandes mit Vertretern der Kirchen, der Schulen, des Verein für Volkswohnungen und der Großmarkthalle
+- TOP 6.3.: Bauvorhaben Schöttlstr. 5
+- TOP 6.4.: Bauvorhaben Greinerberg 17
+- TOP 6.5.: Bauvorhaben Implerstraße 80
+- TOP 6.6.: Bauvorhaben Kidlerstraße 1
+- TOP 6.7.: Bauvorhaben Sylvensteinstraße 2
+- TOP 6.8.: Bauvorhaben Danklstraße 11
+- TOP 6.9.: Bauvorhaben Isarauen 8
+- TOP 6.10.: Bauvorhaben Ateliers unter der Brücke über die Ganghoferstraße
+- TOP 6.11.: Errichtung einer Werbeanlage in der Implerstraße 8
+- TOP 6.12.: Genehmigung einer Werbeanlage in der Thalkirchner Straße
+- TOP 6.13.: Wohnen in München III
+- TOP 7.: Baureferat
+- TOP 7.1.: Baumaßnahme Herzog-Ernst-Platz
+- TOP 7.2.: Baumaßnahme Brudermühlstraße
+- TOP 7.3.: Baumaßnahme Heckenstallerstraße 1 - 109
+- TOP 7.4.: Straßenbaubeitragssatzung
+- TOP 7.6.: Baumaßnahme Jägerwirtstraße 3 - 9
+- TOP 8.: Baum- und Umweltschutz
+- TOP 8.1.: Baumfällungen Bauvorhaben Greinerberg 17
+- TOP 8.2.: Baumfällungen Karwendelstraße 38 / 40; drei Ahorn
+- TOP 8.3.: Liste über geforderte / geleistete Ersatzpflanzungen
+- TOP 9.: Soziales- und Sozialreferat
+- TOP 9.1.: Bauvorhaben Thalkirchner Straße 190
+- TOP 9.2.: Konzept zur pflegerischen Versorgung älterer Menschen in München
+- TOP 9.3.: Bericht über REGSAM
+- TOP 10.: Schulreferat
+- TOP 10.1.: Antrag auf Errichtung eines Kunstrasenplatzes auf der Bezirkssportanlage Demleitner Straße 2
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 12.1.: Beurteilung des Münchner Vereins DITIM, des Dachverbandes DITIP in Köln, sowie des von DITIM beantragten Moschee-Neubaus in Sendling in Hinblick auf sicherheitsrelevante und integrationspolitische Aspekte - <div>Zustimmung, einstimmig</div>
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Verschiebung der BA-Sitzung im Oktober (10.10.05 auf 04.10.05)?
+- TOP 13.2.: Umwandlung eines Erwachsenenbusses der Fahrbibliotheken in einen Juniorbus
+- TOP 13.3.: Kulturelle und geschichtliche Veränderung der Münchner Stadtviertel durch Migrantinnen und Migranten
+- TOP 13.4.: Fortschreibung der Machbarkeitsstudie Bürgerzentren
+- TOP 13.5.: Tag des offenen Denkmals 2005
+- TOP 13.6.: Feuerwerk des DAV-Kletterzentrums am 10.06.2005
+- TOP 9.4.: Mehrjahresinvestitionsprogramm 2005 - 2009
