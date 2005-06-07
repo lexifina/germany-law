@@ -1,0 +1,51 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-06-07T17:00:00+02:00
+- Ende: 2005-06-07T19:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/91
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5146
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5146
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00218766.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Berichte der Verwaltung
+- TOP 2.1: Jahresbericht 2003/2004 des Kriminalpräventiven Rates Münster - zur Kenntnis genommen
+- TOP 2.2: Ausstattung von Haltestellen mit Wartehallen - Programm 2005 - zur Kenntnis genommen
+- TOP 2.3: Bericht 2004 Stadtteilwerkstatt Nord - zur Kenntnis genommen
+- TOP 2.4: Jahresbericht der Verwaltung zur Kinder- und Jugendarbeit 2004 im Bezirk Nord - zur Kenntnis genommen
+- TOP 2.5: Planung Grotemeyerstraße - südliche Nebenanlagen - - ohne Beschlussfassung geschoben
+- TOP 2.6: Anhörungsbeschlüsse der vorletzten Sitzung
+- TOP 2.7: 1. Änderung des Bebauungsplanes Nr. 106 Teilabschnitt XV: Kinderhaus - haubrockweg - zur Kenntnis genommen
+- TOP 3: Anhörungen
+- TOP 3.1: Neufassung der Zuständigkeitsordnung und Anpassung der Hauptsatzung, der Geschäftsordnung sowie weit - einstimmig beschlossen
+- TOP 3.1.1: Änderungsantrag zur Hauptsatzung - V/0159/2005
+- TOP 3.2: Integriertes Handlungskonzept / Städtebaulicher Maßnahmenplan gemäß § 171 e Baugesetzbuch - ohne Beschlussfassung geschoben
+- TOP 3.3: Ausbau der Kindertagesbetreuungsangebote für Kinder unter drei Jahren (u-3-Programm) - einstimmig beschlossen
+- TOP 3.4: Gemeinsamer Antrag der Fraktionen von CDU und FDP an den Rat Nr. A-R/0014/2005 vom 02.05.2005: "Für - von der Tagesordnung abgesetzt
+- TOP 3.5: Kindertagesbetreuungsbericht 2005 - von der Tagesordnung abgesetzt
+- TOP 3.6: Gewährung städtischer Zuschüsse für die Anschaffung von Sportstättenpflegegeräte - einstimmig beschlossen
+- TOP 3.7: 2. Nahverkehrsplan Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 3.8: 1. Änderung des Bebauungsplanes Nr. 106 Teilabschnitt XV: Kinderhaus - Haubrockweg - einstimmig beschlossen
+- TOP 3.9: Zukünftige Entwicklung der städtischen Bäderlandschaft - von der Tagesordnung abgesetzt
+- TOP 3.10: Einführung eines Untertitels für überlassene kommunale Sportanlagen - von der Tagesordnung abgesetzt
+- TOP 4: Entscheidungen
+- TOP 4.1: Straßenbenennung Janningsplatz - einstimmig beschlossen
+- TOP 4.2: Sanierung von 4 Spielplätzen im Stadtbezirk Münster-Nord 2005 - einstimmig beschlossen
+- TOP 4.3: Freianlagen Erweiterung Norbertschule Coerde - einstimmig beschlossen
+- TOP 4.4: Straßenbenennung Zur Kanalbrücke - von der Tagesordnung abgesetzt
+- TOP 4.5: Verkehrsberuhigung Nerzweg - von der Tagesordnung abgesetzt
+- TOP 4.6: Straßenbenennung Doris-Wortmann-Stiege - einstimmig beschlossen
+- TOP 5: Anregungen/Anträge
+- TOP 5.1: Verbesserung der Verkehrssituation am kath. Gemeindezentrum Kinderhaus - mehrheitlich abgelehnt
+- TOP 5.2: Vergrößerung der Baumscheiben auf dem Parkplatz - Zentrum Kinderhaus - einstimmig beschlossen
+- TOP 5.3: Änderung der Anl. 2, Art. 6 der Hauptsatzung (Vorl. V/0267/2005) - mehrheitlich geändert beschlossen
+- TOP 5.4: Vorstellung der Planungen von Spielplätzen ab 10.000 ¿ (Vorl. V/0267/2005) - einstimmig beschlossen
+- TOP 6: Stellungnahme der Verwaltung zu Anregungen der Bezirksvertretung
+- TOP 7: Stellungnahme der Verwaltung zu Anfragen von Bezirksvertretern
+- TOP 8: Verschiedenes
