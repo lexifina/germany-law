@@ -1,0 +1,63 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2005-06-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/649313
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/649313
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürger und Bürgerinnen haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Anträge
+- TOP 2.1.: Lärmbelästigung / Raserei am Diezweg
+- TOP 3: Unterauschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Verschmutzung Hermann-Hahn-Platz
+- TOP 5: Unterauschuss Verkehr
+- TOP 5.1.: Kurzparkzonen in der Wolfratshauser - und Sollner Straße
+- TOP 5.2.: Busbeschleunigung; Änderung des MIP 2005-2009
+- TOP 5.3.: Leistungsprogramm 2006 der MVG (Fahrplanwechsel Dez.¿05)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Forstenrieder Allee 194
+- TOP 6.2.: Allescherstr. 16
+- TOP 6.3.: Hofmannstr. 50
+- TOP 6.4.: Reismühlenstr. 25
+- TOP 6.5.: Kleinstr. 3
+- TOP 6.6.: Traubinger Str. 17
+- TOP 6.7.: Reismühlenstr. 23
+- TOP 6.8.: Heilmannstr. 19
+- TOP 6.9.: Diefenbachstr. 11
+- TOP 6.10.: Immenstadter Str. 17
+- TOP 6.11.: Unterbrunner Str. 2
+- TOP 6.12.: Geisenbrunner Str. 58
+- TOP 6.13.: Memlingstr. 13
+- TOP 7: Entscheidungsfälle
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Straßenfest Baierbrunner Straße
+- TOP 8.2.: "Tag des offenen Denkmals"
+- TOP 8.3.: Sammelinformationsanlage im Bereich Kistlerhofstr./Drygalski-Allee
+- TOP 8.4.: Friedhofsplanung
+- TOP 8.5.: Zweckentfremdung Fleischmannstr. 3
+- TOP 8.6.: Gartenfest Kleingartenanlage SW 58, 09.07.05
+- TOP 8.7.: Sanierung eines Spielplatzes in der Rupert-Mayer-Straße / Colmarerstraße
+- TOP 8.8.: Einrichtung eines Spielplatzes auf der Prinz-Ludwigs-Höhe
+- TOP 8.9.: Kulturelle und geschichtliche Veränderung der Stadtviertel durch Migrantinnen und Migranten
+- TOP 8.10.: Umwandlung eines Erwachsenenbusses der Fahrbibliotheken in einen Juniorbus
+- TOP 8.11.: Konzept zur pflegerischen Versorgung älterer Menschen in München
+- TOP 8.12.: Veranstaltung: Demonstration gegen das Gesundheitswesen
+- TOP 8.13.: Fußgängerschutzanlage Kistlerhofstr. / Haus Nr. 70
+- TOP 8.14.: Gaststätten Fortführung Miccellis Pizza und Pasta
+- TOP 8.15.: Gaststätten Fortführung Hutzeldörr
+- TOP 8.16.: Gaststätten Fortführung Cafe-Bistro-Cocktailbar Rendezvous
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
