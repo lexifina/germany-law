@@ -1,0 +1,65 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2005-06-08T17:12:00+02:00
+- Ende: 2005-06-08T21:15:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=868
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=868
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=28329
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Konsensliste - im Ausschuss abgelehnt
+- TOP 3: Dringlichkeitsanträge - (offen)
+- TOP 3.1: Hortbetreuung an der Münchhausen-Grundschule - beantwortet
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Feststellungen - (offen)
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gem. § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Informationstafel am S-Bahnhof Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Betreuungsangebot Erpelgrund-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Demokratische Kontrolle bei der Umsetzung des Reformvorhabens "Hartz IV" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: KJHG muss in der gesetzgeberischen Kompetenz des Bundes bleiben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: Wahlunterlagen im Internet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Energiebericht für Reinickendorf vorlegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Abo-Essen für alle Schüler - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.8: Aktueller Leitfaden an alle Elternvertreter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.9: Beleuchtung des Parkplatzes der Lauterbach-Schule und des Schulweges zur Lauterbach-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.10: Ambulante Therapieeinrichtung für Sexualstraftäter in Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.11: Saubere Luft in der Bernstorffstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.12: Urteil des Kammergerichts 26 U 160/04 vom 4. April 2005 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.13: Bericht über das Ergebnis der Trägerbeteiligung zum Bebauungsplan 12-9 (Teilfläche der Kol. Karpfenteich in Lübars) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.14: Übertragung einer weiteren Kindertagesstätte an einen freien Träger (Kindertagesstätte Schramberger Straße) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Bedeutung des Religionsunterrichts - beantwortet
+- TOP 7.2: Ordnungsämter - beantwortet
+- TOP 7.3: Horte an Schulen - alles im grünen Bereich? - beantwortet
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Entwurf des Bebauungsplanes XX-226a vom 6. Juli 1994 für die Grundstücke Gollanczstr. 51/55 und Schönfließer Str. 1/5 und Teilflächen der Gollanczstr. und der Schönfließer Str. sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-226a - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Entwurf des Bebauungsplanes XX-89-1 vom 6. September 1991 für die Grundstücke Blomberger Weg 6 A und 8 sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-89-1 - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Entwurf des Bebauungsplanes XX-302 a für die Grundstücke Ollenhauerstraße 12, Großkopfstraße 14-15, 16 und 17 sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-302 a - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Entwurf des Bebauungsplanes XX-207 für die Grundstücke Schloßstraße 18/19, 20-26, Karolinenstraße 1 B - 1 F, ... sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-207 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Berichtigungen und verbesserte Kontrollen im Landschaftsschutzgebiet Tegeler Fließ - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Bessere Gestaltung neuer Hinweisschilder auf Wanderwegen - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Unfallgefahren durch unbeleuchtet abgestellte Anhänger, Schlepper und Wohnwagen in stark befahrenen Straßen - erledigt
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Deutsches Turnfest - Würdigung des Engagements aller Reinickendorfer Ehrenamtlichen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Halteverbot gegenüber der Ausfahrt der "Nordmeile" - überwiesen
+- TOP 11.2: MAE-Jobs mit Perspektiven auf einen Hauptschulabschluss verbinden - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Aufhebung des totalen Grillverbots im Bezirk Reinickendorf - in der BVV abgelehnt
+- TOP 11.4: Gelände des Humboldt-Schlosses für Besucher zugänglich machen - überwiesen
+- TOP 11.5: Beteiligung der BVV bei bezirklichen Baumaßnahmen innerhalb der Vegetationszeit - überwiesen
+- TOP 11.6: Einhaltung und Schutzbestimmungen im Fließtal und Unterbindung von Feuerwerken am Strandbad Lübars - überwiesen
+- TOP 11.7: Ordnungswidriges Parken in Alt-Tegel unterbinden - überwiesen
+- TOP 11.8: Erneuerung von Bänken und Abfallbehältern am Tegeler See - erledigt
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Finanzieller Ausgleich für die steigenden Vervielfältigungskosten der Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Vorbereitende Maßnahmen für das Tegeler Fließ - überwiesen
+- TOP 12.3: S-Bahnhof Karl-Bonhoeffer-Nervenklinik - überwiesen
