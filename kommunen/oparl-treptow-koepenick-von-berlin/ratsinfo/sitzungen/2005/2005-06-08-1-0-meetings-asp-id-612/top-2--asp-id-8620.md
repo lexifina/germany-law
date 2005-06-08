@@ -1,0 +1,7 @@
+# TOP 2: Vorstellung und aktuelle Situation der Archenhold-Oberschule
+
+- Sitzung: 39. (öfftl.) Sitzung des Ausschusses für Bildung (2005-06-08)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=8620
+- Ergebnis: (offen)
