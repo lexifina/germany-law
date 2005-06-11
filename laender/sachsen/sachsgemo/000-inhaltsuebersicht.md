@@ -46,6 +46,7 @@ Gemeinderat
 § 33 Wahlperiode
 § 34 Ausscheiden, Nachrücken, Ergänzungswahl
 § 35 Rechtsstellung der Gemeinderäte
+§ 35a Fraktionen
 § 36 Vorsitz im Gemeinderat, Einberufung der Sitzungen
 § 37 Öffentlichkeit der Sitzungen
 § 38 Verhandlungsleitung, Geschäftsgang
@@ -130,8 +131,8 @@ Unternehmen und Beteiligungen der Gemeinde
 § 101 Energieverträge
 § 102 Vorlagepflicht
 Vierter Abschnitt
-Prüfungswesen § 103
-Örtliche Prüfungseinrichtungen
+Prüfungswesen
+§ 103 Örtliche Prüfungseinrichtungen
 § 104 Örtliche Prüfung der Jahresrechnung
 § 105 Örtliche Prüfung der Eigenbetriebe
 § 106 Weitere Aufgaben der örtlichen Prüfung
