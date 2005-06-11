@@ -36,6 +36,7 @@ Erster Abschnitt Kreistag
 § 29 Wahlperiode
 § 30 Ausscheiden, Nachrücken, Ergänzungswahl
 § 31 Rechtsstellung der Kreisräte
+§ 31a Fraktionen
 § 32 Vorsitz im Kreistag, Einberufung der Sitzungen
 § 33 Öffentlichkeit der Sitzungen
 § 34 Verhandlungsleitung, Geschäftsgang
