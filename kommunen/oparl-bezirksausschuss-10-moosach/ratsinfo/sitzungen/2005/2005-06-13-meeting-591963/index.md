@@ -1,0 +1,72 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2005-06-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/591963
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/591963
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Verkehrssituation Dachauer Straße / Ecke Feldmochinger Straße
+- TOP 2.2.: LKW-Parken in der Straße "Zur Grünen Eiche"
+- TOP 2.3.: Sauberkeit im Bereich der ehem. Güterhalle am Moosacher Bahnhof
+- TOP 2.4.: Änderung des Standortes der Zeitungsständer im Bereich Pelkovenstr. / Meggendorfer Str.
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Aufnahme der Planungskosten für Erweiterungsbaumaßnahmen der Grund- und Teilhauptschule Welzenbachstraße in MIP-Liste 1
+- TOP 4.2.: Gedenktafel am Haus Pelkovenstr. 60
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 10; HS Haldenberger Straße: Quali-Vorbereitungskurs
+- TOP 6: Anhörungen
+- TOP 6.1.: Konzept zur pflegerischen Versorgung älterer Menschen in München
+- TOP 6.2.: Leistungsprogramm 2006 der MVG (Fahrplanwechsel Dezember 2005)
+- TOP 6.3.: Umwandlung eines Erwachsenenbusses der Fahrbibliotheken in einen Jugendbus
+- TOP 6.4.: Verkürzung des markierten Seitenstreifens in der Hanauer Straße nördlich Dessauer Straße
+- TOP 6.5.: Freischankfläche "Eiscafe Oase", Feldmochinger Str.
+- TOP 6.6.: Busbeschleunigung; Änderung des Mehrjahresinvestitionsprogramms 2005 - 2009
+- TOP 6.7.: Postsportverein München e.V.; Großinstandsetzung des Duschbereiches in der Mehrzweckhalle an der Franz-Mader-Straße
+- TOP 6.8.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Treitschkestraße
+- TOP 6.9.: Errichtung von 5 Plakatanschlagtafeln; Pelkovenstr. 143
+- TOP 6.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: U-Bahn-Linie 3, Fußgängerunterführung am Moosacher Bahnhof
+- TOP 7.2.: MVV-Steifenkarten für Automatenverkauf in Bus und Tram (abgelehnt)
+- TOP 7.3.: Rad- und Fußwegebau in der Pelkovenstraße
+- TOP 7.4.: Verschmutzung des Kapuzinerhölzls (Zwischennachricht)
+- TOP 7.5.: Straßenreinigung im Bereich Riesstraße
+- TOP 7.6.: Protokoll zur abschließenden Manöverkritik - Neues Busnetz
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Einleitung des Planfeststellungsverfahrens für den Planfeststellungsabschnitt 109 der U-Bahn-Linie 3 Nord
+- TOP 8.2.: Verkehrsrechtliche Anordnung: Verbot des Linksabbiegens zum Gartencenter Dehner, Dachauer Str. 543
+- TOP 8.3.: Kulturelle und geschichtliche Veränderung der Münchner Stadtviertel durch Migrantinnen und Migranten
+- TOP 8.4.: Fortschreibung der Machbarkeitsstudie Bürgerzentren
+- TOP 8.5.: Mehrjahresinvestitionsprogramm des Baureferates Gartenbau
+- TOP 8.6.: Mehrjahresinvestitionsprogramm des Baureferates Tiefbau
+- TOP 8.7.: Mehrjahresinvestitionsprogramm des Planungsreferates LBK (geänderter Beschluss)
+- TOP 8.8.: Mehrjahresinvestitionsprogramm des Planungsreferates; Stadtentwicklungsplanerische Beurteilung (geänderter Beschluss)
+- TOP 8.9.: Wohnen in München III (Vertagung)
+- TOP 8.10.: Zukunft in München 2030 - Visionen und Strategien für Stadt und Region
+- TOP 8.11.: Ökologische Investitionen im geförderten Wohnungsbau nmüssen sich lohnen (Antrag der Stadtratsfraktion Bündnis 90 / Die Grünen / RL)
+- TOP 8.12.: Evaluation des Ökologischen Kriterienkataloges
+- TOP 8.13.: Neuorganisation des Kulturreferates
+- TOP 8.14.: Schulhof/Sportplatzöffnung 2005
+- TOP 8.15.: Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten (Schreiben des BA 21 Pasing - Obermenzing)
+- TOP 8.16.: Umzug des Produktteams Stadtjugendamt , Regionale Angebote der offenen Kinder- und Jugendarbeit
+- TOP 8.17.: Straßen- und Grünflächen-Aktionstag in der Nanga-Parbat-Straße (Vorab-Zustimmung der Vorsitzenden aus Fristgründen)
+- TOP 8.18.: Quartierbezogene Bewohnerarbeit; Raummanagement / Trägerauswahl
+- TOP 8.19.: Meldeliste Bauvorhaben
+- TOP 8.20.: Prostitution in München; Dokumentation des Stadtratshearings (Broschüre)
+- TOP 4: Anträge
