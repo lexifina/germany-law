@@ -1,0 +1,89 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2005-06-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/653467
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/653467
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Vorstellung des Vereins SIN-Studio im Netz e.V.
+- TOP 1.2.: Haderner Bauernmarkt kann jede Woche stattfinden, Bio für Hadern
+- TOP 1.3.: Verkehrsverhältnisse in der Willibaldstraße
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Batzerstr. 12, 1 Birke
+- TOP 3.2.: Platanenstr. 29a, 4 Fichten, 1 Hämlocktanne
+- TOP 3.3.: Stiftsbogen 73, 1 Ahornbaum
+- TOP 3.4.: Hirtentäschelweg 2, 1 Birke
+- TOP 3.5.: Eichenstr. 41, 1 Tanne
+- TOP 3.6.: Rolandseckstr. 13, 1 Birke
+- TOP 3.7.: Sonnenblumenstr. 62, 1 Schwarzkiefer, 2 Fichten
+- TOP 3.8.: Am Ährenfeld 3, 1 Feldahorn
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 3.1.: Terofalstr. 9, Ablehnung der Fällung einer Hainbuche (Referat für Stadtplanung und Bauordnung, 06.05.2005)
+- TOP 3.2.: Waldwiesenstr. 13, Fällungsgenehmigung eines Walnußbaums (Referat für Stadtplanung und Bauordnung, 12.05.2005)
+- TOP 4: Ausschussberichte
+- TOP 5: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Entscheidungsfälle
+- TOP 7: Unterrichtungsfälle
+- TOP 7.1.: Zweckentfremdung von Wohnraum - Konrad-Dreher-Str. (Sozialreferat, 03.05.2005) - Kurparkstr. (Sozialreferat, 09.05.2005)
+- TOP 7.2.: Bericht über REGSAM - Sozialausschlussbeschluss (REGSAM, 17.05.2005)
+- TOP 7.3.: Unveränderte Fortführung folgender Gaststättenbetriebe: - Gondrellhof, Ludlstr. 53 (KVR, 29.04.2005) - Cafe Vitali, Marchioninistr. 15 (KVR, 26.04.2005)
+- TOP 7.4.: Neuorganisation des Kulturreferates (Kulturreferat, 25.04.2005)
+- TOP 7.5.: Schulhof-/Sportplatzöffnung 2005 (Schul- und Kultusreferat, 19.04.2005)
+- TOP 7.6.: Baugenehmigung, Schröfelhofstr. FlNr. 247/0, Gemarkung Großhadern (Referat für Stadtplanung und Bauordnung, 11.05.2005)
+- TOP 8: Anhörungsfälle
+- TOP 8.1.: Leistungsprogramm 2006 der MVG, Fahrplanwechsel Dezember 2005 (MVG, 09.05.2005)
+- TOP 8.2.: Veranstaltung auf öffentlichem Verkehrsgrund, Straßenfest in der Wilhelm-Weitling-Straße am 02.07.2005 (KVR, 13.05.2005)
+- TOP 8.3.: Umwandlung eines Erwachsenenbusses der Fahrbibliotheken in einen Juniorbus (Kulturreferat, 17.05.2005)
+- TOP 8.4.: Kulturelle und geschichtliche Veränderung der Münchner STadtviertel durch Migrantinnen und Migranten (Kulturreferat, 12.05.2005)
+- TOP 8.5.: Konzept zur pflegerischen Versorgung älterer Menschen in München, Beschlussentwurf (Sozialreferat, 18.05.2005)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Einzänung des Spielplatzes an der Sauerbruchstr., BA-Antrag Nr. 02-08/B 200 vom 18.04.2005 (Baureferat, 27.04.2005)
+- TOP 9.2.: Eröffnung des Bolzplatzes am Fürstenrieder Wald, Antrag auf Budgetmittel für eigene Veranstaltungen (Direktorium, 10.05.2005)
+- TOP 9.3.: Informationen über den Planungsstand der Kooperationseinrichtung Großhaderner-/Guardinistr. , BA-Antrag Nr. 02-08/B 00074 vom 14.02.2005 (Schul- und Kultusreferat, 26.04.2005)
+- TOP 9.4.: Stiftsbogen 74 - Augustinum, Zwischeninformation (LBK, 13.05.2005)
+- TOP 9.5.: Mehrjahresinvestitionsprogemm 2005 - 2009, Errichtung einer Polizeiinspektion auf dem Gelände des Bebauungsplanes 1817 (KVR, 03.05.2005)
+- TOP 9.6.: Übermittlung der Standorte von schulischen Einrichtungen sowie Kindergärten und Horten im 20. Stadtbezirk an alle Mobilfunkbetreiber und Aufnahme dieser Einrichtungen in die Suchkreismeldungen (Referat für Gesundheit und Umwelt, 13.05.2005)
+- TOP 9.7.: Antrag im nächsten Verbundrat auf Zusammenlegung der Haltestellen Max-Lebsche-Platz und Klinikum Großhadern in eine neutrale Zone, BA-Antrag Nr. 79 vom 14.02.2005 (Referat für ARbeit und Wirtschaft, 19.05.2005)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten (BA 21, 09.05.2005 und BA 3, 26.04.2005))
+- TOP 11.2.: Schautafeln Gehölzlehrpfad im Landschaftspark Laim-Hadern-Pasing (BA 21, 09.05.2005)
+- TOP 11.3.: MVV-Streifenkarten für Automatenverkauf in Bus und Tram (BA 2, 02.05.2005)
+- TOP 11.4.: "Der Maxvorstädter": Vor 60 Jahren NS-Terror in Müncehn im April 1945 (BA 3, 28.04.2005)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: am 20.04.2005 Frostschäden auf Münchner Straßen
+- TOP 12.2.: am 11.05.2005 A) Baumaßnahmen im zusammenhang mit der Einführung des achtjährigen Gymnasiums B) Errichtung einer Ganztagesschule an der Hauptschule Fürstenrieder Str. 30 Neubau einer Mensa mit Betreuungsräumen im 25. Stadtbezirk - Laim C) Errichtung von Horträumen im Zuge des Mensaneubaues im Schulzentrum Pfarrer-Grimm-Str. im 23. Stadtbezirk Allach-Untermenzing
+- TOP 12.1.: am 11.05.2005 Fortschreibung der Machbarkeitsstudie Bürgerzentren
+- TOP 12.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Beschluss des Sozialausschusses vom 21.04.2005 Quartierbezogene Bewohnerarbeit, Raummanagement/Trägerauswahl
+- TOP 12.2.: Beschluss des Bauausschusses vom 12.04.2005 Straßenausbaubeitragssatzung, Verfahrensregelungen bei der Projektentwicklung
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Sportausschusses vom 10.05.2005 Mehrjahresinvestitionsprogramm 2005 - 2009; 1. Investitionsmaßnahmen für Sportanlagen; 2. Dissens; 3. Stellungnahmen der Bezirksausschüsse
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2005 Mehrjahresinvestitionsprogramm für die Jahre 2005 - 2009, insbesondere zum Stadtteilpark am Stiftsbogen
+- TOP 12.3.: Beschluss des Sozialausschusses vom 21.04.2005 Entwurf des Mehrjahresinvestitionsprogrammes für die Jahre 2005 - 2009 mit verbindlicher Planung für 2010 Einzelplan 4 / Sozialbereich
+- TOP 12.4.: Beschluss des Kulturausschusses vom 04.05.2005 Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2005 - 2009 und Stellungnahmen zu den Anregungen der Bezirksausschüsse
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2005 Festsetzung der Reihenfolge großer Siedlungsmaßnehmen für die Jahre 2005 - 2009
+- TOP 12.6.: Beschluss des Bauausschusses vom 03.05.2005 Mehrjahresinvestitionsprogramm für die Jahre 2005 - 2009 mit verbindlicher Planung für 2010 Unterabschnitte; 6300 "Gemeindestraßen", 6600 "Bundes- und Staatsstraßen, Ortsdurchfahrten", 6700 "Straßenbeleuchtung", 6800"Parkscheinautomaten, -uhren, Parkplätze", 6900 "Wasserläufe/Wasserbau"
+- TOP 12.7.: Beschluss des Schulausschusses vom 27.04.2005 und Kinder- und Jugendhilfeausschusses vom 26.04.2005 Mehrjahresinvestitionsprogramm (MIP) 2005 - 2009, 1. Investitionsmaßnahmen für Schulen und Kindertagesstätten, 2. Dissens, 3. verfahrenstechnische Neuerungen, 4. Stellungnahmen der Bezirksausschüsse
+- TOP 12.8.: Beschluss des Bauausschusses vom 03.05.2005 Mehrjahresinvestitionsprogramm für die Jahre 2005 - 2009 mit verbindlicher Planung für 2010; Unterabschnitte, 5800 "Alleen und Anlagen", 5801 "Leistungen an BUGA GmbH", 5900 "Einrichtungen für Erholung und Freizeitgestaltung", 5910"Kleingärten"
+- TOP 12.9.: Beschluss des Bauausschusses vom 03.05.2005 Mehrjahresinvestitionsprogramm für die Jahre 2005 - 2009 mit verbindlicher Planung für 2010; Unterabschnitte 6050 "U-Bahn-Bau; Verwaltung", 8200 "Förderung unterirdischer Massenverkehrsanlagen"
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 27.04.2005 1. Workshopreihe; Diskurs "Stadtgestalt und neue Architektur", Hochhäuser im Spannungsfeld von Identität und Wandel der Stadt
+- TOP 12.2.: 2. Wohnen in München, III; a) Erfahrungsbericht für das Jahr 2004, b) Ergänzuingen des Erfahrungsberichtes
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
