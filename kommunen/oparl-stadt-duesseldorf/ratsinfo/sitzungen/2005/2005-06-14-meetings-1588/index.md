@@ -1,0 +1,51 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-06-14T15:00:00+02:00
+- Ende: 2005-06-14T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1588
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1588
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111759.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111759.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111759.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschriften - einstimmig beschlossen
+- TOP 3: Anfragen und Anträge
+- TOP 4: Anfrage CDU 'Versorgung Kinder in D'dorf' - zur Kenntnis genommen
+- TOP 5: Anfrage CDU 'Steuerung Fachbereich Jugendförderung - zur Kenntnis genommen
+- TOP 6: Antrag Bü 90/Grüne + SPD 'Taschengeld'
+- TOP 7: Weltkindertag 18.09.2005 - zur Kenntnis genommen
+- TOP 8: Kindergipfel 2006 in D'dorf - Antragsstellung - einstimmig beschlossen
+- TOP 9: Tageseinrichtungen für Kinder
+- TOP 10: Auswertung3. Stufe Elternbefragung gem.§ 9 Abs4GTK - zur Kenntnis genommen
+- TOP 11: ??? - einstimmig beschlossen
+- TOP 12: Öffnungszeiten Kita Alte Landstraße 104 - einstimmig beschlossen
+- TOP 13: Smartypants e.V. - Anerkennung § 75 SGB VIII - einstimmig beschlossen
+- TOP 14: Zuschüsse für Inv. an freie Träger der Jugendhilfe - einstimmig beschlossen
+- TOP 15: Bildungsoffensive III - Zwischenbericht - zur Kenntnis genommen
+- TOP 16: Kita-Bedarfsplanung - einstimmig beschlossen
+- TOP 17: Jugendförderung
+- TOP 18: Mittelvergabe 2005 für jugendsch.+-fördernde Proj. - einstimmig beschlossen
+- TOP 19: Zuschuss an den ASP Eller e.V. - einstimmig beschlossen
+- TOP 20: Zuschuss 'Die Wohnung', Eller Süd-Ost - einstimmig beschlossen
+- TOP 21: Investitionskostenzusch. für JFEs freier Träger - einstimmig beschlossen
+- TOP 22: Umwidmung v.Vertragen - einstimmig beschlossen
+- TOP 23: Girls Day 2005 - zur Kenntnis genommen
+- TOP 24: Masterplan Spielplätze - zur Kenntnis genommen
+- TOP 25: Betreuung auf Spielplätzen / Spielplatzinitiativen - zur Kenntnis genommen
+- TOP 26: Erweiterung JFE Kiefernstr. / Zwischenbericht - zur Kenntnis genommen
+- TOP 27: Soziale Dienste
+- TOP 28: JHP Beratungsstellen - einstimmig beschlossen
+- TOP 29: Investive Maßnahmen der freien Träger - einstimmig beschlossen
+- TOP 30: Controllingberichte - Stand: 30.04.2005
+- TOP 31: Controllingbericht Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 32: Controllingbericht HzE - zur Kenntnis genommen
+- TOP 33: Geschäftsordnung ZAG
+- TOP 34: Verschiedenes - zur Kenntnis genommen
