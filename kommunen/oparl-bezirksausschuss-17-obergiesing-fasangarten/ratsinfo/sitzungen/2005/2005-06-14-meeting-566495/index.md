@@ -1,0 +1,86 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2005-06-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/566495
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/566495
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Anfragen an die Untere Naturschutzbehörde zum Thema Baumschutz; Antrag der CSU-Fraktion vom 01.06.2005
+- TOP .2.: Erhalt der Bäume am Busbahnhof Giesinger Bahnhof; Antrag der CSU-Fraktion vom 01.06.2005
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: REGSAM-Moderatorin 17/18, für die Maßnahme: Plakate für die Aktion "Giesing trocken legen"; Antragssumme: 861,24 ¿; Beschlussvorlage durch das Direktorium vom 19.05.2005
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 4.1.: Vollzug von § 13 der BA-Satzung; Katalog Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung, Anwesen in der Werinherstraße, Neubau von Mehrfamilienhäusern (170), 5 Einfamilienhäusern, einem Gewerbehaus, einer Bürohaus-Erweiterung sowie einer Tiefgarage; Zuleitung des Referats für Stadtplanung und Bauordnung vom 31.05.2005 mit der Bitte um Stellungnahme
+- TOP 4.1.: Baufälle im 17. Stadtbezirk
+- TOP 4.2.: Areal der Investa GmbH, Giesinger Bahnhof / Chiemgaustraße; Zwischennachricht vom 28.04.2005 und Antwortschreiben vom 12.05.2005
+- TOP 4.3.: Instandsetzung des Treppenab- und -aufgangs vom Giesinger Bahnhofplatz (direkter Zugang) zur S-Bahn; Antrag Nr. 207 des BA 17 vom 21.04.05; Antwortschreiben vom 18.05.2005 und 09.05.2005
+- TOP 4.4.: "Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt"; Chancen und Perspektiven für Berg am Laim, Ramersdorf und Giesing; Stadtsanierung in München am Mittleren Ring Südost; Korrekturen zur Fassung des Beschlussentwurfs vom 15.04.2005; Zuleitung des Referats für Stadtplanung und Bauordnung vom 12.05.2005 (FF)
+- TOP 4.5.: Ökologische Investitionen im geförderten Wohnungsbau müssen sich lohnen; Antrag der Stadtratsfraktion Bündnis 90/Die Grünen/Rosa Liste; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.06.2005 (FF)
+- TOP 4.6.: Aktualisierung des Flächennutzungsplanes und Aufstellung des Landschaftsplanes, Teilbereich IV - Südost; Billigungsbeschluss, Stadtbezirke 14, 15, 16, 17, 18; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.06.2005
+- TOP 4.&nbsp;: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse
+- TOP 4.1.: Anwesen in der Kiesmüllerstraße.; Mitteilung des Sozialreferats vom 18.05.2005
+- TOP 4.1.: Grünfläche am Giesinger Bahnhofplatz; Aufnahme in das Grünanlagenverzeichnis der LH München; Antrag vom 05.04.2005 (aus der Sitzung vom 10.05. in den UA FSA verwiesen)
+- TOP 4.1.: Konzept zur pflegerischen Versorgung älterer Menschen in München; Zuleitung vom 18.05.2005 mit der Bitte um Stellungnahme
+- TOP 4.1.: Fortführung des Projekts ¿Schulhof- bzw. Sportplatzöffnung¿; Schreiben des Schul- und Kultusreferats vom 19.04.2005
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.: Leistungsprogramm 2006 der MVG (Fahrplanwechsel Dezember 2005); Zuleitung vom 09.05.05 mit der Bitte um Stellungnahme bis 22.06.2005
+- TOP 4.2.: Linienführung der Buslinie 145 (ehemals 98) im Bereich Fasangarten; Zuleitung vom 18.05.2005 mit der Bitte um Stellungnahme bis 22.06.2005
+- TOP 4.1.: Kreuzung Tegernseer Landstraße / Wirtstraße; Trennung von Rad- und Passantenverkehr; Antrag Nr. 2729 des BA 17 vom 11.01.2005 (vertagt aus der Sitzung vom 10.05.2005)
+- TOP 4.1.: Pilotprojekt Hundespielwiese; Zuleitung vom 26.04.2005 mit der Bitte, die Haltung zur Hundespielwiese erneut zu überdenken
+- TOP 4.1.: Mobilfunk; Suchkreismeldung München 16158 (ggf. Behandlung in nichtöffentlicher Sitzung); Zuleitung vom 12.05.2005
+- TOP 4.2.: Mobilfunk; Suchkreismeldung München 590570; Zuleitung vom 18.05.2005 (ggf. Behandlung in nichtöffentlicher Sitzung)
+- TOP 4.3.: Deisenhofener Straße; Umbau eines Verwaltungsgebäudes; Vollzug von § 13 der BA-Satzung, Katalog Angelegenheit Nr. 9.1, Vollzug der Baumschutzverordnung/Baumfällung; Zuleitung des Referats für Stadtplanung und Bauordnung vom 23.05.2005 zur Rückäußerung des BA 17 vom 19.04.2005
+- TOP 4.4.: Evaluation des Ökologischen Kriterienkataloges, Modellvorhaben an der Friedenspromenade und in der Messestadt Riem, "Ökologischer Wohnungsbau - kostenvergleichende Bauvarianten - nachhaltiges Wohnen"; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 08.06.2005 (FF)
+- TOP 4.1.: Kulturelle und geschichtliche Veränderung der Münchner Stadtviertel durch Migrantinnen und Migranten; Antrag Nr. 02-08 / A 02357 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 10.03.2005
+- TOP 4.2.: Umwandlung eines Erwachsenenbusses der Fahrbibliotheken in einen Juniorbus; Zuleitung vom 17.05.2005 mit der Bitte um Stellungnahme zur Beschlussvorlage bis 22.06.2005
+- TOP 4.3.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Straßenfest mit Flohmarkt Untere Grasstraße 22 bis 36 am 17.07.2005; Zuleitung vom 17.05.2005 mit der Bitte um Stellungnahme bis 20.06.2005
+- TOP 4.4.: Veranstaltung an der Weißenseestraße; hier: Gottesdienst im Freien am 17.07.2005 auf der Grünfläche zwischen Chiemgaustraße, Tegernseer Landstraße und Franz-Eigl-Weg; Zuleitung vom 18.05.2005 mit der Bitte um Stellungnahme bis 01.07.2005
+- TOP 4.5.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Straßenfest Am Bergsteig am 10.07.2005; Zuleitung vom 06.05.2005 mit der Bitte um Stellungnahme bis 17.06.2005
+- TOP 4.1.: Neuorganisation des Kulturreferats; Schreiben vom 25.04.2005
+- TOP 6: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.: Neuregelung der bisherigen Anhörung der Bezirksausschüsse bei stadtratspflichtigen Angelegenheiten; Schreiben des Bezirksausschuss 3 vom 26.04.2005
+- TOP 6.2.: Fortschreibung der Machbarkeitsstudie Bürgerzentren; Beschluss des Verwaltungs- und Personalausschusses vom 04.05.2005
+- TOP 6.3.: Zukunft München 2030 - Visionen und Strategien für Stadt und Region; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 08.06.2005
+- TOP 7: Berichte der Beauftragten
+- TOP 7.7.1: Ausländer/Innen
+- TOP 7.7.2: Baumschutz
+- TOP 7.7.2.1: Einzelfälle
+- TOP 7.1.: Anwesen in der Simsseestraße; Zuleitung vom 10.05.2005
+- TOP 7.2.: Anwesen in der Eslarner Straße; Zuleitung vom 25.05.2005
+- TOP 7.7.2.2: Baumbestandspläne
+- TOP 7.1.: Anwesen in der Weißenseestraße; Zuleitung vom 10.05.2005
+- TOP 7.2.: Anwesen in der Kiesmüllerstraße; Zuleitung vom 27.04.2005
+- TOP 7.3.: Anwesen in der Oberviechtacher Straße; Zuleitung vom 27.05.2005
+- TOP 7.7.3: Behinderte
+- TOP 7.7.4: Frauen
+- TOP 7.7.5: Kinder
+- TOP 7.7.6: Senioren/Innen
+- TOP 7.7.7: Stadtteilpartnerschaft Colerain Township, Ohio, USA
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 4.5.5.1: Bericht
+- TOP 4.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 4.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.5.5: Anträge
+- TOP 4.5.5.6: Sonstiges
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
