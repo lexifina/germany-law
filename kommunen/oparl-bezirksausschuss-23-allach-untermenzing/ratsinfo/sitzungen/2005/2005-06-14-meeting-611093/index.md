@@ -1,0 +1,72 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2005-06-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/611093
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/611093
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Spielplatz - Allach Stiegstraße - bitte rauchfreie Zone!
+- TOP 1.2.: Verkehrssituation Ludwigsfelder Straße / Georg-Reismüller-Straße
+- TOP 1.3.: Namen der Stichstraße zur Allacher Mühle
+- TOP 1.4.: Wegfall der Ampel an der Kreuzung Eversbusch - / Vesaliusstraße
+- TOP 2: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: Antrag auf Zuschuss aus dem Budget in Höhe von 1.229 Euro für die Anschaffung eines Defibrillators; Antragsteller: Elternbeirat des Louise - Schroeder - Gymnasiums
+- TOP 4.2.: Antrag auf Zuschuss aus dem Budget in Höhe von 5.700 Euro für die Errichtung einer Gedenkstele; Antragsteller: Katholisches Pfarramt St. Martin Untermenzing
+- TOP 5: Anhörungen
+- TOP 5.1.: Leistungsprogramm 2006 der MVG ( Fahrplanwechsel Dezember 2005 )
+- TOP 5.2.: Konzept zur pflegerischen Versorgung älterer Menschen in München
+- TOP 5.3.: Kulturelle und geschichtliche Veränderung der Münchner Stadtviertel durch Migrantinnen und Migranten
+- TOP 5.4.: Umwandlung eines Erwachsenenbusses der Fahrbibliothek in einen Juniorbus
+- TOP 5.5.: Feuerwerk der Klasse IV am 25.06.05 auf dem Betriebsgelände von Krauss Maffei
+- TOP 5.6.: Beschilderung von ( Privat ) Wegen im Bereich Allach östlich der A 99
+- TOP 5.7.: Infoveranstaltung zur Schafhaltung und zu Naturschutz auf der Wiese Nähe Goteboldstraße am 08.06.05
+- TOP 5.8.: Straßenfest in der Listerstraße am 16.07.05
+- TOP 5.9.: Neubau eines Mehrfamilienhauses mit Tiefgarage / Vorbescheid; Eversbuschstraße Fl.Nr.74
+- TOP 6: Schreiben des Oberbürgermeisters
+- TOP 6.1.: Erhalt des Sommerbades Allach ( Vertagung aus der letzten Sitzung )
+- TOP 6.2.: Verkehrsplanung Münchner Nordwesten
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Schreiben des Direktoriums
+- TOP 8.1.: Auenbrugger Straßenfest, Temporäre Busumleitung
+- TOP 8.2.: Bürgerinnen und Bürger gestalten ihre Stadt; Bürgerbeteiligung in den Stadtvierteln
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Gleichweg, August - Föppl - Straße, Zeißstraße; Bauarbeiten
+- TOP 9.2.: Lärmschutz entlang der Ludwigsfelder Straße; Beleuchtung des Rad - und Fußweges entlang der Bahn
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Gaststätte " Vereinskegelstüberl ", Eversbuschstr. 161; unveränderte Fortführung
+- TOP 10.2.: Verkehrsberuhigter Bereich Jestelstraße; verkehrsrechtliche Anordnung
+- TOP 10.3.: Absolutes Haltverbot in der Schlehbuschstraße; verkehrsrechtliche Anordnung
+- TOP 10.4.: Anmeldung einer Versammlung unter freiem Himmel am 23.06.05 Ecke August - Föppl - / Zeißstraße
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO a ) Riedererstr. 4, 2 Spitzahorn b ) Penzoltstr. 8, 1 Birke c ) Hortigstraße, s. Baumbestandsplan Nr. 10365 d ) Ernst - von - Romberg - Str. 3, s. Baumbestandsplan Nr. 9750 e ) Bauschingerstr. 20, 1 Bergahorn f ) Simonsfeldstr. 5, 1 Kiefer g ) Menzinger Str. 160, 1 Fichte h ) Mangstr. 30, s. Baumbestandsplan Nr. 12009 i ) Rehsteigstr. 5 a, Fällung 1 Linde als Gefahrenbaum j ) Penzoltstr. 8, Fällung 1 Birke als Gefahrenbaum
+- TOP 11.2.: Bauanträge ( v. 02.05. - 08.05., 09.05. - 15.05., 16.05. - 22.05., 23.05. - 29.05.05 )
+- TOP 12: Schreiben des Sozialreferates
+- TOP 12.1.: Zweckentfremdung von Wohnraum, Grandauerstraße
+- TOP 13: Schreiben Referat für Gesundheit und Umwelt
+- TOP 13.1.: Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage, Erdenbörse und Erdenwerk am Standort Goteboldstr. 100
+- TOP 13.2.: Mobilfunk; Baubeginnsanzeige
+- TOP 14: Schreiben Referat für Arbeit und Wirtschaft
+- TOP 14.1.: MVV - Streifenkarten für Automaten in Bus und Tram
+- TOP 15.1.: Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten
+- TOP 16: Stadtrats - und Ausschussbeschlüsse
+- TOP 16.1.: Vollversammlung vom 20.04.05 - Frostschäden auf Münchner Straßen
+- TOP 16.2.: Ausschuss für Stadtplanung und Bauordnung vom 27.04.05 - Bebauungsplan mit Grünordnung Nr. 1871 Ludwigsfelder Straße (südlich) - Hackersiedlung-
+- TOP 16.3.: Vollversammlung vom 11.05.05 - Wohnen in München, III - Fortschreibung der Machbarkeitsstudie Bürgerzentren - Baumaßnahmen im Zusammenhang mit der Einführung des achtjährigen Gymnasiums - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/4, Ludwigsfelder Straße (südlich) -Hackersiedlung-
+- TOP 16.4.: Sozialausschuss vom 07.07.05 - Bericht über REGSAM; Bleibt REGSAM ein Erfolgsmodell?
+- TOP 16.5.: Bauausschuss vom 03.05.05 - Mehrjahresinvestitionsprogramm für die Jahre 2005 - 2009
+- TOP 16.6.: Ausschuss für Stadtplanung und Bauordnung vom 08.06.05: - Ökologische Investitionen im geförderten Wohnungsbau müssen sich lohnen - Evaluation des Ökologischen Kriterienkataloges - Zunkunft München 2030 - Visionen und Strategien für Stadt und Region
+- TOP 16.7.: Bauausschuss vom 14.06.05: - Befragung zur Zufriedenheit der Nutzerinnen und Nutzer mit städtischen Spielplätzen
+- TOP 15: Schreiben BA 21 Pasing - Obermenzing
