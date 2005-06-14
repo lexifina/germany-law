@@ -1,0 +1,67 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2005-06-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/592703
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/592703
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget; Kath. Kirchenstift St. Johannes Evangelist, Sommerfest am 24.06.05
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget; Kath. Kirchenstift St. Johannes Evangelist, Kindergarten-Sommerfest am 19.06.05
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget; Freizeittreff Lerchenauer, Spielfest am Wochenmarkt am 25.06.05
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget; Städt. Willy-Brandt-Gesamtschule, Streichen der Halle
+- TOP 3.1.: Ausbau der Karlfelder Straße zwischen Kristall- und Dachauer Straße
+- TOP 3.2.: Unterstützung und Erhalt des Ausbildungsangebotes der Jungen Arbeit
+- TOP 3.3.: Ablehnung der Skater-Anlage am Fasanerie See,
+- TOP 3.4.: Verlegung der Bushaltestelle in der Lerchenauer Str. 219
+- TOP 3.5.: Gefahrenbeseitigung, Parkverbot für Lkw`s und Neugestaltung der Luitfriedstraße
+- TOP 3.6.: Verkehrsberuhigung in der Pappelallee
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Leistungsprogramm 2006 der MVG (Fahrplanwechsel Dezember 2005)
+- TOP 5.2.: Nachtrag zum Leistungsprogramm 2006 der MVG (Fahrplanwechsel Dezember 2005)
+- TOP 5.3.: Umwandlung eines Erwachsenenbusses der Fahrbibliotheken in einen Juniorbus
+- TOP 5.4.: Vollzug der Baumschutzverordnung a) Schneeglöckchenstr. 56 b) Schwarzhölzlstr. 100 c) Eberwurzstr. d) Kuckucksblumenstr. 10
+- TOP 5.5.: Kulturelle und geschichtliche Veränderungen der Münchner Stadtviertel durch Migrantinnen und Migranten
+- TOP 5.6.: Ittlingerstraße südliche Dülferstraße; Verlängerung einer Halteverbotszone an der Bushaltestelle
+- TOP 5.7.: Konzept zur pflegerischen Versorgung älterer Menschen in München
+- TOP 5.8.: Herstellung der Herbert-Kadner-Str.; Projekt-Nr.: 100166 (vertagt aus den Sitzungen am 15.03. und 12.04.2005)
+- TOP 5.9.: Herstellung der Hederichstraße; Projekt-Nr.: 100164 (vertagt aus den Sitzungen am 15.03. und 12.04.2005)
+- TOP 5.10.: Ausbau der Penckstraße (vertagt aus den Sitzungen am 15.03. und 12.04.2005)
+- TOP 5.11.: Ausbaumaßnahmen - Hornkleeweg, Steinkleeweg Projekt-Nr.: 100167, 100168 (vertagt aus der Sitzung am 12.04.2005)
+- TOP 5.12.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Stösserstraße 1
+- TOP 5.13.: Verkauf einer städtischen Immobilie FlurNr.: 1698, 1900, 2074/16, 2331; Gemarkung Feldmoching
+- TOP 6: Unterrichtungen
+- TOP 6.1.: Bauvorhaben Borsigstraße 105;( Anhörung im Einzelfall auf Anforderung - Vorab-Stellungnahme des Vorsitzenden aus Fristgründen)
+- TOP 6.2.: Fortschreibeung der Machbarkeitsstudie Bürgerzentren (Beschluss des Verwaltungs- und Personalausschusses vom 04.05.2005)
+- TOP 6.3.: Fortschreibung der Machbarkeitsstudie Bürgerzentren (Beschluss der Vollversammlung des Stadtrates vom 11.05.2005)
+- TOP 6.4.: Meldelisten Bauvorhaben
+- TOP 6.5.: Abgeschlossheitsbescheinigung
+- TOP 6.6.: Fällung von Gefahrenbäumen
+- TOP 6.7.: Baumfällung - Borkenkäfer-Befall
+- TOP 6.8.: Zweckentfremdung von Wohnraum
+- TOP 6.9.: Bericht über REGSAM; BleibtRegsam ein Erfolgsmodell?
+- TOP 6.10.: Mehrjahresinvestitionsprogramm für die Jahre 2005-2009 mit Verbindlicher Planung für 2010; Unterabschnitte 6300 "Gemeindestraßen" 6600 "Bundes- und Staatsstraßen; Ortsdurchfahrten" 6700 "Straßenbeleuchtung" 6800 "Parkscheinautomaten, -uhren, Parkplätz" 6900 "Wasserläufe/Wasserbau"
+- TOP 6.11.: Detmoldstraße Projektkosten 1.Bedarfs- und Konzeptgenehmigung 2. Genehmigung zur verwaltungsinternen Projekt- und Ausführungsgenehmigung für die Azaleenstraße als Teil des 1. Bauabschnitts
+- TOP 6.12.: Baubeginnsanzeige einer Mobilfunksendeanlage
+- TOP 6.13.: Betriebsanzeige einer Mobilfunksendeanlage
+- TOP 6.14.: Mobilfunkanlagen - Fasanerie Nord (Schreiben des Referates für Gesundheit und Umwelt an die Bürgerinitiative)
+- TOP 6.15.: Neuorganisation des Kulturreferats
+- TOP 6.16.: Umzug des Produktteams / neue Telefonnummer
+- TOP 6.17.: Schulhof-/ Sportplatzöffnung 2005
+- TOP 6.18.: Schließung der Golgathakirche in Ludwigsfeld
+- TOP 6.19.: Abschlussbericht zur Kooperationswoche "Projekt: kreativer Tanz"
+- TOP 6.20.: Ökologische Investitionen im geförderten Wohnungsbau müssen sich lohnen
+- TOP 6.21.: Zukunft München 2030 - Visionen und Strategien für Stadt und Region
+- TOP 7: Berichte
+- TOP 7.1.: Soziale Stadt
+- TOP 8: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
