@@ -1,0 +1,72 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2005-06-14T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/562692
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/562692
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3: Genehmigung der Tagesordnung
+- TOP 4: Genehmigung der Niederschrift der Sitzung vom 09.11.04
+- TOP 5: Entscheidungen
+- TOP 5.1.: Einziehung einer Teilstecke der Säulingstraße
+- TOP 0: Anträge
+- TOP 0.1.: Anbindung des Feierwerk an das Nachtliniennetz der MVG
+- TOP 0: Anträge und Berichte aus den Unterausschüssen
+- TOP 0.1.: UA 07 - Verkehr - 24.05.2005
+- TOP 0.2.: UA 07 - Haushalt - 06.06.2005
+- TOP 0: Berichte der Beauftragten
+- TOP 0.1.: Ausländerbeauftragte Jugendbeauftragte Kinderbeauftragte Seniorenbeauftragte
+- TOP 0: Anhörungen
+- TOP 0: Baumschutz:
+- TOP 5: Baumfällungen
+- TOP 5.1.: a. Säulingstr. 2 Fällung mehrer Bäume 701 Hr. Keller b. Krüner Str. 69 Fällung einer Fichte 705 Fr. Notbohm c. Ohlstadter Str. 23 Fällung einer Birke 706 Hr. Kramm d. Murnauer Straße 108 Fällung einer Eiche 717 Hr. Dr. Bader
+- TOP 6: Baumfällungen / Bauvorhaben
+- TOP 6.1.: a. Treffauer Str. 32 Fällung lt. Antrag 706 Hr. Kramm b. Farchanter str. 41 Fällung lt. Antrag 713 Fr. Merkel c. Josef-Naus-Str. 3 Fällung lt. Antrag 716 Hr. Stahnsdorf d. Ebermayerstr. 5 Fällung lt. Antrag 718 Fr. Mitkin e .Euckenstr. 12 Fällung lt. Antrag 723 Hr. Kertai
+- TOP 6.7: Referat für Stadtpalung und Bauordnung
+- TOP 6.2.: Errichtung einer Werbeanlage in der Albert-Roßhaupter-Straße 39
+- TOP 6.8: Westparkveranstaltungen / auf öffentlichem Grund
+- TOP 6.3.: a. Tanzvorführung Theatron 24.07.05 b. Theater Theatron 25.06.05 c. Sommerfest Rüdesheimer Str. 2-8 16.07.05 d. Straßenfest Johann-Houis-Straße 09.07.05 e. 125-Jahr-Feier 1880 e.V. Tübinger Str. 10 08.- 10.07.05 f. Kundgebung Zug durch den Stadtbezirk 17.07.05
+- TOP 0.22: Kreisverwaltungsreferat
+- TOP 9.1.: Spielhalle im Anwesen Albert-Roßhaupter-Straße 37
+- TOP 0.21: Referat für Gesundheit und Umwelt
+- TOP 10.1.: Mobilfunk - Suchkreismeldung
+- TOP 11: Kulturreferat
+- TOP 11.2.: a. Kulturelle und geschichtliche Veränderung der Münchner Stadtviertel durch Migrantinnen und Migranten b. Umwandlung eines Erwachsenebusses der Fahrbbliotheken in einen Juniorbus
+- TOP 12: Sozialrererat
+- TOP 12.1.: a. Konzept zur pflegerischen Versorgung älterer Menschen in München
+- TOP 0: Unterrichtung
+- TOP 0.10: Allgemeines
+- TOP 0.1.: a. Ausnahmebewilligungen b. Straßenbaubeitragssatzung ; Verfahrensregelung bei der Projektentwicklung Beschluss c. MIP 2005-2009 ; Unterabschnitte 6300- 6900
+- TOP 0.2.: a. Frühkindliche Gesundheitsförderung; Schließung der Beratungsstellen zugunsten vermehrter Hausbesuche
+- TOP 0.3.: a. unveränderte Gaststättenfortführung
+- TOP 0.14: Lokalbaukommission
+- TOP 0.4.: a. Bauvorhaben
+- TOP 0.15: Personal und Organisationsreferat
+- TOP 0.5.: a. Fortschreibung der Machbarkeitsstudie Bürgerzentren
+- TOP 0.16: Referat für Stadtplanung und Bauordnung
+- TOP 0.6.: a. Zukunft München 2030 ¿ Visionen und Strategien für Stadt und Region b. Ökologische Investitionen im gefördereten Wohnungsbau c. Evaluation des Ökologischen Kriterienkataloges d. MIP 2005 ¿ 2009 Gliederungsziffern 6100- 6200 e. Workshopreihe Diskurs ¿Stadtgestalt und neue Architektur¿ f. Wohnen in München III Beschluss g. Festsetzung der Reihenfolge großer Siedlungsmaßnahmen 2005 ¿ 2009 h. MIP 2005 ¿ 2009 Stadtentwicklungsplanerische Beurteilung f. Vollzug der Baumschutzverordnung
+- TOP 17: Schul- und Kultusreferat
+- TOP 17.1.: a. Baumaßnahmen im Zusammenhang mit der Einführung des achtjährigen Gymnasiums
+- TOP 0: Schriftverkehr
+- TOP 0.17: Bürgerschreiben
+- TOP 0.1.: a. Lärmschutz an der Autobahn BAB 95 b. Dankschreiben für Glückwünsche c. MVG- Protokoll zur abschließenden Manöverkritik
+- TOP 0.18: Büro der 2.Bürgermeisterin
+- TOP 0.2.: a. Baulicher Zustand der Fernpaßschule
+- TOP 0.3.: a. Gleisausbau in der Albert-Roßhaupter-Straße b. Rasche Untertunnelung des Mittlerer Ringes Südwest; Antrag Nr. 241 des BA 7
+- TOP 0.20: Bezirksausschüsse
+- TOP 0.4.: a. Informationsheft; BA 3 b. MVV-Streifenkarten für Automaten in Bus und Tram; BA 20 c. Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten; BA 21
+- TOP 0.5.: a. Beschluss des Umweltausschusses vom01.03.05; Empfehlung Nr. 25 des 7. Stadtbezirkes und Antrag Nr. 80 des BA 7
+- TOP 0.6.: a. Erweiterung der Parkscheibenparkplätze in der Albert-Roßhaupter-Straße; Antrag Nr. 203 des BA 7 b. Spielplan von Kino,Mond u. Sterne 2005 c. Lichtzeichenanlage Garmischer Str. / Luise-Kiesselbach-Platz d.Personenbezogener Sonderparkplatz
+- TOP 0.23: Sozialreferat
+- TOP 0.7.: a. Umzug innerhalb des Referates b. Bericht der Seniorenbeirätin des 7. Stadtbezirkes
+- TOP 0: Verschiedenes
+- TOP 0.19: Baureferat
+- TOP 2: Nachträglich in die Tagesordnung aufzunehmen
