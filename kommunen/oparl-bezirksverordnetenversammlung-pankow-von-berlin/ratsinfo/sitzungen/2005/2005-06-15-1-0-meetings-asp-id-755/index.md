@@ -1,0 +1,93 @@
+# 33. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2005-06-15T17:30:00+02:00
+- Ende: 2005-06-15T22:05:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=755
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=755
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=8048
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Geschäftliche Mitteilungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.2: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 1.4: Mündliche Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.5: Bericht des Bezirksamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.6: Konsensliste - im Ausschuss abgelehnt
+- TOP 1.7: Entwurf des Doppelhaushaltsplanes 2006/2007 für den Bezirk Pankow - überwiesen
+- TOP 1.8: Aufhebung der Mittelsperre bei 4720/521 - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Neuwahl der Mitglieder des Beirates für Sozialhilfeangelegenheiten und deren Stellvertreter - gewählt
+- TOP 1.10: Neuwahl der Mitglieder des Beirates für Sozialhilfeangelegenheiten - gewählt
+- TOP 1.11: Bebauungsplanentwurf XIX-58 a für die Grundstücke Hauptstraße 116/156 im Bezirk Pankow, Ortsteil Rosenthal - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Regionalmodell des Sozialamtes - mit Änderungen in der BVV beschlossen
+- TOP 1.13: Weiter mit der Sonne - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Wohnumfeld in den Sanierungsgebieten verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Entwicklung der Verkehrsinfrastruktur in Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Anschlüsse zwischen S-Bahn und BVG am Bahnhof Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Erarbeitung einer neuen Verkehrskonzeption für Berlin-Buch - erledigt
+- TOP 1.18: Umgestaltung der Kreuzung Alt-Buch, Schwanebecker Chaussee, Zeperniker Straße, Am Stener Berg - erledigt
+- TOP 1.19: Sichern erreichter Ziele der Stadterneuerung nach Aufhebung der Sanierungsgebiete - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Fenster in Brandwände zu unbebauten Grundstücken - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Breitbandinternet nach Pankow! - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Lichtpfeil an der Lichtzeichenanlage (LZA) Breite/Berliner Straße - in der BVV abgelehnt
+- TOP 1.23: Vermeidung von Schleichverkehr in der Hans-Jürgen-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Mauerpark fertigstellen - zurückgezogen
+- TOP 1.25: Den ganzen Mauerpark - ganz! - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Zurückweisung einer persönlichen Erklärung - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Religionsunterricht bzw. Ethik/Philosophie als Wahlpflichtfach anbieten - zurückgezogen
+- TOP 1.28: Stand der Vorbereitungen zur Gründung des KiTa-Eigenbetriebes - erledigt
+- TOP 1.29: Mehr Sicherheit und Platz für die Schüler/innen der Rosa-Luxemburg-Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: MAE-Jobs inkl. Hauptschulabschluss - überwiesen
+- TOP 1.31: Radfernwanderweg Berlin-Usedom im Schlosspark Niederschönhausen - überwiesen
+- TOP 1.32: Interkulturelles Fest "Gemeinsam leben in Pankow" - überwiesen
+- TOP 1.33: Umweltbüro in seiner Qualität erhalten - vertagt
+- TOP 1.34: Übergabe Wiltbergstraße 50, Haus 109, an den Liegenschaftsfonds - zurückgezogen
+- TOP 1.35: Baumfällungen im Bezirk - vertagt
+- TOP 1.36: Sportstättenvergabe transparent gestalten - überwiesen
+- TOP 1.37: Zukunft der Schullandheime und Einrichtungen der Kinder- und Jugenderholung - überwiesen
+- TOP 1.38: Öffentlicher Grundschulraum in Wilhelmsruh/Rosenthal - überwiesen
+- TOP 1.39: Kampf um neue Arbeitsplätze nicht aufgeben - kein Windrad auf dem Gelände Buchholzer Graben/A 109 - ohne Änderungen in der BVV beschlossen
+- TOP 1.40: Hartz IV - Verteilung der Eingliederungsmittel - überwiesen
+- TOP 1.41: Parkordnung in der Sackgasse der Lychener Straße - überwiesen
+- TOP 1.42: Freizug des Gebäudes Gierstraße 15/17 - überwiesen
+- TOP 1.43: Mittelfreigabe für die Kofinanzierung aus Verstärkungsmitteln für die Kulturwirtschaftsstudie - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Keine Novellierung der BauO auf Kosten der Kinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Girokonten für Sozialhilfeempfangende - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Mauerstreifen - vertagt
+- TOP 2.4: Fußball-WM 2006 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Aufgabe der Seniorenbegegnungsstätte Tollerstraße und Überführung der Angebote für Seniorinnen und Senioren in den Jugendklub Tollerstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Bauzeit Florastraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Sportentwicklungsplan für den Bezirk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Bronzeplastik "Viertelmondträgerin" auf dem Pankower Anger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Lesekarten für Sozialhilfeberechtigte und Bezieher von ALG II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Kreuzstraße im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Platz des 9. November 1989 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Pankow für Europa - Mitglied in der Kommunalgesellschaft Pomerania e.V. werden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Soziale Projekte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Verkehrslage um den Spielplatz in der Gethsemanestraße - vertagt
+- TOP 2.15: Sozialticket und bezahlter Urlaub für Beschäftigte mit Ein-Euro-Jobs in Pankow - vertagt
+- TOP 2.16: Öffnungszeiten JobCenter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Planung von Schulhofumgestaltungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Schmitt, Katja)</span> - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Gedenkstättenkonzept - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Aktivitäten des Beirates für das JobCenter starten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Energiecheck bezahlen - Kosten sparen - vertagt
+- TOP 2.21: Wegeleitsystem für Berlin-Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Bezirkliche Vertretung in den Aufsichtsräten von Wohnungsbaugesellschaften im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Verkehrsgefährdungen vorbeugen an der Schönhauser Straße / Marienstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Erarbeitung eines Seniorenmitwirkungsgesetzes im Land Berlin - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: KITA-Eigenbetrieb - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Radfahren im Mauerpark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Festsetzung von Eckwerten für die Aufstellung des Doppelhaushaltsplanes 2006/2007 des Bezirks Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Bebauungsplan XVIII - 30 b für das Gelände zwischen der Treseburger Straße, der westlichen Grenze des Grundstückes Treseburger Straße 26, der südlichen Grenze des Grundstückes Karower Damm 35, verlängert bis zur westlichen Grenze des Grundstückes Treseburger Straße 26, dem Karower Damm, dem Grundstück Lindenberger Weg 11, dem Lindenberger Weg, der Zufahrtsstraße zum Städtischen Friedhof Blankenburg (Flurstück 4), dem Grundstück Alt - Blankenburg 71 B, dem Städtischen Friedhof Blankenburg, den - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Bebauungsplanentwurf XVIII-24-2 für das Gelände zwischen der öffentlichen Parkanlage am Hofzeichendamm, Ingwäonenweg, Siverstorpstraße, Gatterweg und dem Grundstück Gatterweg 17 im Bezirk Pankow, Ortsteil Karow zur Änderung des Bebauungsplanes XVIII-24, festgesetzt am 5. Januar 1995 (GVBl. S. 11). - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Zusammenlegung der Schule im Komponistenviertel (03 S 04) und der Schule am Sonnenwinkel (03 S 05) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Bebauungsplanentwurf XIX-58 a für die Grundstücke Hauptstraße 116/156 im Bezirk Pankow, Ortsteil Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Fortscheibung der Schulentwicklungs-/Schulnetzplanung, Teil Sonderschulen, des Bezirks Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Parzellenverkäufe in Erholungsanlagen - mit Abschlussbericht zur Kenntnis genommen
