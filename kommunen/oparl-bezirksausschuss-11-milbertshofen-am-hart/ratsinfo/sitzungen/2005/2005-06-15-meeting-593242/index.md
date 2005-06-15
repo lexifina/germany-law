@@ -1,0 +1,73 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2005-06-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/593242
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/593242
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Berichte aus dem Stadtrat
+- TOP 3: Berichte der Polizei
+- TOP 4: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Befestigung des Untergrundes der Wertstoffcontainer in der Rockefellerstraße; Dankschreiben
+- TOP 4.2.: Themen der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart am 30.06.2005
+- TOP 4.3.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest der Siedlervereinigung Am Hart e.V. München am 09.07.2005, Vorabzustimmung aus Fristgründen
+- TOP 4.1.: Außenanlagen Hildegard-von-Bingen-Anger; Anwohnerschreiben
+- TOP 4.2.: "Keferloherplatz" im 11. Stadtbezirk Milbertshofen - Am Hart; Beschluss des Bauausschusses vom 03.05.2005
+- TOP 4.3.: Überplanung des Bus-Bahnhofs Olympiazentrum (Antrag Nr. 100 des Bezirksausschusses des 11. Stadtbezirkes vom 02.03.2005); Antwortschreiben des Referates für Arbeit und Wirtschaft
+- TOP 4.1.: Kinderkrippe Neue Nordheide; Einladung zum Sommerfest am 24. Juni 2005
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: ASZ Milbertshofen c/o Stadtteilzentrum Milbertshofen; Nachbarschaftsfest am 11.06.2005
+- TOP 6.2.: Grundschule Bernaysstraße; Tag der offenen Tür am 07.05.2005
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7: Anträge
+- TOP 7.1.: Hinweisschild für LKW-Durchgangsverbot Keferloher- / Ecke Torquato-Tasso-Straße (Siegrun Haller)
+- TOP 7.2.: Fertigstellung von 41 oberirdischen Parkplätzen Nordheide Ost, BeBauPlan 1779 a (SPD-Fraktion im BA 11)
+- TOP 7.1.: Verkehrssituation in der Neubausiedlung Panzerwiese Nord (Gabriele Hinzmann)
+- TOP 7.2.: Feuerwehrzufahrt bei Bad-Soden-Str. 9, Bodenmarkierung und Halteverbotsschilder (Michael Dörrich)
+- TOP 8: Anhörungen
+- TOP 8.1.: Veranstaltung am Korbinianplatz (oder Schmalkaldener Straße); Antrag auf Platzzuteilung für Zirkusprojekt "Milbertini" 2005
+- TOP 8.1.: Baumfällungen Baumaßnahmen: a) Lieberweg 31
+- TOP 8.2.: Baumfällungen Einzelmaßnahmen: a) Neuherbergstr. 113, 1 Linde, 2 Kiefern b) Rockingerstr. 1, 1 Kiefer, 14 Fichten c) Karlsbader Str. 11, 1 Zypresse
+- TOP 8.3.: Anhörung im Einzelfall auf Anforderung, Baumaßnahmen: a) Franfurter Ring 5, Erweiterung eines Lebensmitteleinzelhandelsmarktes zur Nahversorgung mit Backshop um einen Pfandraum und eine Vergrößerung des Lagers 2 b) Oberhofer Platz, Spielmeile Nord c) Moosacher Str. 82, Neubau einer privaten Berufsschule für das Kolping Bildungswerk München
+- TOP 8.4.: Wertstoffcontainerstandort: a) Frauenmantelanger b) Neuherbergstr. / Felsennelkenanger
+- TOP 8.1.: Umwandlung eines Erwachsenenbusses der Fahrbibliotheken in einen Juniorbus; Beschluss des Kulturausschusses vom 21.07.2005
+- TOP 8.2.: "Konzept zur pflegerischen Versorgung älterer Menschen in München"; Entwurf zum Beschluss des Sozialausschusses vom 07.07.2005
+- TOP 8.3.: Kulturelle und geschichtliche Veränderung der Münchener Stadtviertel durch Migrantinnen und Migranten (Antrag Nr. 02-08 / A 02357 der Stadtratsfraktion Bündnis 90 / Die Grünen / RL vom 10.03.2005)
+- TOP 8.1.: Leistungsprogramm 2006 der MVG (Fahrplanwechsel Dezember 2005)
+- TOP 8.2.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Stadtteilfest Milbertshofen, Hanselmannstraße am 25.06.2005
+- TOP 8.3.: Freischankfläche auf öffentlichem Verkehrsgrund; Ausdehnungsantrag
+- TOP 9: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Fortschreibung der Machbarkeitsstudie Bürgerzentren
+- TOP 9.2.: Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten; Stellungnahme des BA 21 Pasing - Obermenzing
+- TOP 9.1.: Meldelisten Bauvorhaben
+- TOP 9.2.: Unverzügliche Wiedereinsetzung des Bebauungsplanes Nr. 1505a (Empfehlung Nr. 86 der Bürgerversammlung des 11. Stadtbezirkes Bezirksteil Milbertshofen am 02.12.2004)
+- TOP 9.3.: Evaluation des Ökologischen Kriterienkataloges; Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 08.06.2005
+- TOP 9.4.: Zukunft München 2030 - Visionen und Strategien für Stadt und Region; Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 08.06.2005
+- TOP 9.5.: Ökologische Investitionen im geförderten Wohnungsbau müssen sich lohnen!; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.06.2005
+- TOP 9.1.: Bericht über REGSAM - Sozialausschussbeschluss am 07.07.2005
+- TOP 9.2.: Stadtjugendamt, Regionale Angebote der offenen Kinder- und Jugendarbeit; Adressänderung
+- TOP 9.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum: a) Rockingerstr. 2 b) Dohlenweg 29
+- TOP 9.4.: Unveränderte Fortführung von Gaststättenbetrieben: a) "Back Up Fitnesscenter", Riesenfeldstr. 75 b) SSW "Tremani", Helene-Mayer-Ring 7a c) SSW "Cafe Bar Restaurant Milbertshofener", Riesenfeldstr.81
+- TOP 9.5.: Quartierbezogene Bewohnerarbeit, Raummanagement / Trägerauswahl; Beschluss des Sozialausschusses vom 21.04.2005
+- TOP 9.6.: Agenda 21 - Eine Welt, Infomaterial
+- TOP 9.7.: Kreisjugendring München-Stadt, Infomaterial
+- TOP 9.1.: Veranstaltung auf öffentlichem Verkehrsgrund, 3. City-Triathlon des MRRC am 29.05.2005, Erlaubnisbescheid
+- TOP 10: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
