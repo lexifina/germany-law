@@ -1,0 +1,60 @@
+# 6. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-06-16T17:00:00+02:00
+- Ende: 2005-06-16T21:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5066
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5066
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00218081.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder (bei Bedarf)
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Bekanntgabe von Eingaben und Anträgen
+- TOP 4.1: FDP-Antrag: Intelligent bauen - Kosten sparen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Stadtentwicklung, Stadterneuerung, Wohnen
+- TOP 5.1: Förderung von Stadterneuerungsprojekten - Sachstand 2005 - ohne Beschlussfassung geschoben
+- TOP 5.2: Vorentwurf Gestaltung einer öffentlichen Wegefläche am Kreativkai - zur Kenntnis genommen
+- TOP 5.3: Modellprojekt "Wohnen für Hilfe" - einstimmig beschlossen
+- TOP 5.4: Integriertes Handlungskonzept / Städtebaulicher Maßnahmenplan gemäß § 171 e Baugesetzbuch - ohne Beschlussfassung geschoben
+- TOP 5.5: Wohnsiedlung "Osthuesheide" - einstimmig beschlossen
+- TOP 6: Stadtplanung
+- TOP 6.1: Neugestaltung des "Picasso-Platzes" - einstimmig beschlossen
+- TOP 6.2: Teilaufhebung des Bebauungsplanes Nr. 401:Stadthafen I / Albersloher Weg - zur Kenntnis genommen
+- TOP 6.3: Bebauungsplan Nr. 490: Sperlichstraße / Von-Stauffenberg-Straße - einstimmig beschlossen
+- TOP 6.4: Vorhabenbezogener Bebauungsplan Nr. 491: Stubengasse / Loerstraße - zur Kenntnis genommen
+- TOP 6.5: Bebauungsplan Nr. 462: Gelmer - Gelmerheide / Zur Eckernheide - einstimmig geändert beschlossen
+- TOP 6.6: 1. Änderung des Bebauungsplanes Nr. 106 Teilabschnitt XV: Kinderhaus - Haubrockweg - einstimmig beschlossen
+- TOP 6.7: 1. Änderung des Bebauungsplanes Nr. 106 Teilabschnitt XV: Kinderhaus - Haubrockweg - zur Kenntnis genommen
+- TOP 6.8: 1. Änderung des Bebauungsplanes Nr. 114 Teilabschnitt IV: Zentrum Nord - mittlerer Bereich - einstimmig beschlossen
+- TOP 6.9: Bebauungsplan Nr. 496: Hiltrup - Landwirtschaftsverlag / östlich Hülsebrockstraße - einstimmig beschlossen
+- TOP 6.10: 8. Änderung des Bebauungsplanes HI 16a: Hiltrup - Emmerbachtal - einstimmig beschlossen
+- TOP 6.11: 7. Änderung des Flächennutzungsplanes für den Bereich Meesenstiege / südlich Sternkamp - mehrheitlich beschlossen
+- TOP 6.12: Bebauungsplan Nr. 470: Hiltrup - verlängerte Hansestraße / Amelsbürener Straße - zur Kenntnis genommen
+- TOP 6.13: Bebauungsplan Nr. 465: Hiltrup - Meesenstiege / südlich Sternkamp - zur Kenntnis genommen
+- TOP 6.14: Bebauungsplan Nr. 498: Roxel - Gewerbegebiet nördlich Nottulner Landweg / Edelkampsfeld - einstimmig beschlossen
+- TOP 6.15: 9. Änderung des Flächennutzungsplanes für den Bereich Hof Schultmann - einstimmig beschlossen
+- TOP 6.16: 2. Änderung des Bebauungsplanes Nr. 396: Mecklenbeck - Weseler Straße / Dingbängerweg / Egelshove - einstimmig beschlossen
+- TOP 6.17: Bebauungsplan Nr. 448: Handorf - Stapelskotten / Laerer Werseufer - von der Tagesordnung abgesetzt
+- TOP 7: Verkehr
+- TOP 7.1: Anbindung Wolbecker Straße / B51
+- TOP 7.2: Zweite Baustufe dynamisches Fahrgast-Informations-System an Haltestellen - einstimmig beschlossen
+- TOP 7.3: Höhere Verkehrssicherheit in der Ortsmitte von Gievenbeck - einstimmig beschlossen
+- TOP 7.4: Dorbaumstraße -Einrichtung eines Fußgängerüberweges zwischen den Straßen Disselbreede und Middelfeld - einstimmig beschlossen
+- TOP 7.5: Kreisverkehr an der Kreuzung Münsterstraße / Am Borggarten - einstimmig beschlossen
+- TOP 7.6: Verkehrsangelegenheiten in der Vorweihnachtszeit 2005 - zur Kenntnis genommen
+- TOP 7.7: Verfahrensvorlage zur Beschaffung einer provisorischen Parkpalette auf dem Parkplatz Georgskommende - mehrheitlich beschlossen
+- TOP 7.8: Schienengüterverkehrsnetz - zur Kenntnis genommen
+- TOP 8: Sonstiges
+- TOP 8.1: Ordnungsbehördlche Verordnung über das Offenhalten der Verkaufsstellen am 27.11.2005 aus Anlass der - vertagt
+- TOP 8.2: Bewilligung - ohne Beschlussfassung geschoben
+- TOP 8.3: Luftqualität in Münster - ohne Beschlussfassung geschoben
+- TOP 9: Beratung von Anträgen und Anfragen
+- TOP 10: Verschiedenes
