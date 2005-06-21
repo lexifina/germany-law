@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2004-12-09 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/gemarkungen_1995
+- Datum: 2005-06-21 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/berufe_2005
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -26,170 +26,170 @@ A |
 |
 
 Aktuelle Fassung
-Änderungshistorie
 
-Die Gemarkungen im Land Brandenburg (Gemarkungserlass)
+Richtlinie des Ministeriums für Arbeit, Soziales, Gesundheit und Familie zur Durchführung der praktischen Ausbildung für Berufe nach dem Masseur- und Physiothera­peutengesetz und dem Ergotherapeutengesetz
 
-vom 30. Januar 1995
+vom 21. Juni 2005
 
-(ABl./95, [Nr. 16], S.150)
+(ABl./05, [Nr. 28], S.728)
 
-zuletzt geändert durch Runderlass des MI (Aufhebung von Runderlassen) vom 9. Dezember 2004
+1. Grundsätze
 
-(ABl./20, [Nr. 47], S.1141)
+Die praktische Ausbildung nach § 4 Abs. 1 und nach § 9 des Masseur- und Physiotherapeutengesetzes (MPhG) und nach § 1 Abs.1 und 2 der Ergotherapeuten-Ausbildungs- und Prüfungsverordnung (ErgThAPrV) ist integrierter Bestandteil der Ausbildung zur Physiotherapeutin oder zum Physiotherapeuten, zur Masseurin und medizinischen Bademeisterin oder zum Masseur und medizinischen Bademeister sowie zur Ergotherapeutin oder zum Ergotherapeuten. Während der praktischen Ausbildung sind alle für die Berufsausübung wesentlichen Kenntnisse und Fertigkeiten zu vermitteln. Die im Unterricht erworbenen Kenntnisse sind zu vertiefen und anzuwenden. Dazu gehören auch vor- und nachbereitende Tätigkeiten wie Dokumentation und Geräte- sowie Apparatepflege.
 
-Inhaltsverzeichnis
+2. Anforderungen an die Ausbildungsstätten
 
-1. Definitionen
+2.1  Die Ausbildungsstätte hat die praktische Ausbildung in Einrichtungen sicherzustellen, die den Anforderungen des jeweiligen Berufsgesetzes und den auf dieser Grundlage erlassenen Ausbildungs- und Prüfungsverordnungen entsprechen. Sie hat dafür Sorge zu tragen, dass für die praktische Ausbildung dauerhaft Ausbildungsplätze in den unter Nummer 3. genannten Einrichtungen in ausreichender Anzahl und Qualität vorhanden sind. Im Rahmen ihrer Gesamtverantwortung für die Ausbildung entscheidet sie selbständig über die Eignung von Einrichtungen für die praktische Ausbildung.
 
-1.1 Gemarkung
+2.2.  Eine Ausbildungsstätte, die nicht an einem Krankenhaus eingerichtet ist oder am Trägerkrankenhaus nicht die gesamte praktische Ausbildung sicherstellen kann, hat mit Krankenhäusern oder anderen geeigneten Einrichtungen Kooperationsverträge abzuschließen. Die Kooperationsverträge sollen mindestens die in der Anlage zu dieser Richtlinie genannten Angaben enthalten.
 
-1.2 Exklave
+2.3  Der Ausbildungsstätte obliegt die Planung, die Koordinierung und die Überwachung der praktischen Ausbildung für jeden Auszubildenden. Hauptberufliche Lehrkräfte der Ausbildungsstätte begleiten die praktische Ausbildung in den Einrichtungen durch Besuche. Aufgabe der Lehrkräfte ist es, zur Förderung und Unterstützung der praktischen Ausbildung die Auszubildenden in den Einrichtungen zu betreuen und zu beurteilen sowie die Anleiterinnen und Anleiter der praktischen Ausbildung zu beraten. Der Umfang der Praxisbegleitung muss für jede auszubildende Person mindestens 2,5 Prozent der Ausbildungszeit des jeweiligen praktischen Ausbildungsabschnittes betragen. Je Kalenderjahr ist eine Beratung zwischen Ausbildungsstätte und den Praxiseinrichtungen durchzuführen.
 
-2. Bezeichnungen
+3. Einrichtungen der praktischen Ausbildung
 
-2.1 Gemarkungen
+3.1  Die praktische Ausbildung nach den §§ 4 und 9 MPhG und § 1 ErgThAPrV ist in Krankenhäusern oder anderen geeigneten Einrichtungen durchzuführen.
 
-2.2 Exklave
+3.2   Für die physiotherapeutische Ausbildung können als geeignete medizinische Einrichtungen nach § 9 Satz 3 MPhG anerkannt werden:
 
-3. Gemarkungskennzeichen
+Rehabilitationseinrichtungen,
 
-3.1 Landesschlüssel
+sonderpädagogische sowie sozialmedizinische Einrichtungen und
 
-3.2 Gemarkungsnummer
+physiotherapeutische Praxen.
 
-4. Gemarkungsgrenzen
+3.3  In der physiotherapeutischen Ausbildung dürfen insgesamt bis zu 50 Prozent der vorgeschriebenen praktischen Ausbildung, unter Berücksichtigung der Nummer 5.5, in ambulanten Einrichtungen nach Nummer 3.2 absolviert werden. Davon dürfen in jedem vorgeschriebenen medizinischen Fachgebiet ebenfalls bis zu 50 Prozent in ambulanten Einrichtungen stattfinden. In den Fachgebieten Neurologie und Pädiatrie kann in begründeteten Ausnahmefällen dieser Prozentsatz überschritten werden.
 
-5. Gemarkungsbestand
+3.4 Für die Ausbildung von Masseurinnen und medizinischen Bademeisterinnen sowie Masseuren und medizinischen Bademeistern können als andere geeignete medizinische Einrichtungen nach § 1 Abs. 2 der Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Bademeister (MB-APrV) anerkannt werden:
 
-6. Gemarkungsverzeichnis
+Rehabilitationseinrichtungen,
 
-6.1 Allgemeines
+Praxen von Masseurinnen und medizinischen Bademeisterinnen oder Masseuren und medizinischen Bademeistern und
 
-6.2 Inhalt
+Physiotherapeutische Praxen, in denen Masseurinnen und medizinische Bademeisterinnen oder Masseure und medizinische Bademeister angestellt sind, welche die Anleitung der Auszubildenden übernehmen.
 
-6.3 Fortschreibung
+In ambulanten Einrichtungen nach Satz 1 sollen in der Regel nicht mehr als 50 Prozent der vorgeschriebenen praktischen Ausbildung absolviert werden.
 
-1. Definitionen
+3.5 Für die ergotherapeutische Ausbildung können als andere geeignete Einrichtungen nach § 1 Abs. 2 Satz 1 ErgThAPrV anerkannt werden:
 
-1.1 Gemarkung
+Rehabilitationseinrichtungen,
 
-Die Gemarkung ist ein Bezirk des Liegenschaftskatasters. Sie umfasst eine im Zusammenhang liegende Gruppe von Fluren innerhalb einer Gemeinde. Eine oder mehrere Gemarkungen sind deckungsgleich mit dem Gebiet einer Gemeinde und eines Grundbuchbezirks.
+sonderpädagogische sowie sozialmedizinische Einrichtungen,
 
-1.2 Exklave
+ergotherapeutische Praxen,
 
-Die Exklave ist eine außerhalb des zusammenhängenden Gemeindegebietes liegende und vom Gebiet einer anderen Körperschaft umschlossene Fläche, die aber zur Gemeinde gehört.
+Einrichtungen der Altenpflege und
 
-2. Bezeichnungen
+Werkstätten für behinderte Menschen.
 
-2.1 Gemarkung
+In ambulanten Einrichtungen nach Satz 1 sollen in der Regel nicht mehr als 50 Prozent der vorgeschriebenen praktischen Ausbildung absolviert werden. Davon dürfen in jedem vorgeschriebenen praktischen Einsatzbereich ebenfalls bis zu 50 Prozent in ambulanten Einrichtungen stattfinden.
 
-(1) Jede Gemarkung wird durch einen Namen und eine Nummer bezeichnet.
+4. Allgemeine Anforderungen an die Einrichtung der praktischen Ausbildung
 
-(2) Als Gemarkungsname ist der Name der Gemeinde, des Gemeinde- oder Ortsteils zu verwenden. Überlieferte Namen sind jedoch aus kulturhistorischen Gründen beizubehalten.
+4.1 Die Einrichtung muss eine ausreichende Anzahl von Patienten betreuen, um den praktisch Auszubildenden zu ermöglichen, täglich mindestens 4 - 6 Behandlungen gemäß Ausbildungsplan selber durchzuführen.
 
-(3) Gemarkungsnamen und -nummern werden vom Ministerium des Innern im Einvernehmen mit dem örtlich zuständigen Katasteramt vergeben.
+4.2 Die Einrichtung muss über eine ausreichende Anzahl von geeignetem Fachpersonal mit entsprechender Berufsbezeichnungserlaubnis verfügen. Die Stellenbesetzung in der Einrichtung hat in der Physiotherapieausbildung mindestens drei vollzeittätigen Physiotherapeutinnen/Physiotherapeuten und in der Ergotherapieausbildung zwei vollzeittätigen Ergotherapeutinnen/Ergotherapeuten zu entsprechen. Für die Ausbildung von Masseurinnen und medizinischen Bademeisterinnen oder Masseuren und medizinischen Bademeistern hat die Stellenbesetzung in der Einrichtung mindestens zwei Vollzeitfachkräften zu entsprechen. Davon muss mindestens eine Vollzeitkraft Masseurin und medizinische Bademeisterin/Masseur und medizinischer Bademeister vorhanden sein.
 
-2.2 Exklave
+4.3 Die Anzahl der Fachkräfte und der praktisch Auszubildenden muss ein ausgewogenes Verhältnis ergeben. Es muss ein Raum für Unterweisungen bzw. Besprechungen zur Verfügung stehen sowie ein gesonderter Arbeitsplatz für jeden praktisch Auszubildenden vorhanden sein.
 
-(1) Jede Exklave erhält den Namen der Gemarkung, in der sie liegt, oder einen eigenen Namen und eine eigene Gemarkungsnummer.
+4.4 Die ambulante Einrichtung muss im Besitz einer Krankenkassenzulassung sein und ihre Tätigkeit beim zuständigen Gesundheitsamt gem. § 19 Abs. 2 des Brandenburgischen Gesundheitsdienstgesetzes (BbgGDG) angezeigt haben.
 
-(2) Als Flurbezeichnung wird ihr eine Flurnummer zugeordnet, die in der namensgebenden Gemarkung noch nicht vergeben ist.
+4.5 Die Einrichtung hat eine dem jeweiligen Ausbildungsziel entsprechende apparative und Geräteausstattung vorzuhalten.
 
-3. Gemarkungskennzeichen
+4.6 Die Auszubildenden sind ganztägig anzuleiten.
 
-Das Gemarkungskennzeichen ist ein sechsstelliges, numerisches Kennzeichen. Es besteht aus einem zweistelligen Landesschlüssel (1. und 2. Stelle) und einer vierstelligen Gemarkungsnummer (3. bis 6. Stelle).
+5. Personelle Anforderungen an die Einrichtung der praktischen Ausbildung
 
-3.1 Landesschlüssel
+5.1 Die ausbildende Einrichtung hat die Praxisanleitung der Auszubildenden durch geeignete Fachkräfte auf der Grundlage eines Ausbildungsplans sicherzustellen. Geeignet sind Fachkräfte, die
 
-Für das Land Brandenburg ist durch das Statistische Bundesamt die Schlüsselzahl 12 vorgegeben.
+im Besitz einer Berufsbezeichnungserlaubnis entsprechend dem Ausbildungsziel sind,
 
-3.2 Gemarkungsnummer
+eine berufpraktische Erfahrungszeit im jeweiligen Beruf von mindestens zwei Jahren in den letzten vier Jahren und
 
-(1) In der 3. und 4. Stelle werden die vom Landesamt für Datenverarbeitung und Statistik Brandenburg in alphabetischer Reihenfolge vergebenen Schlüsselzahlen für die kreisfreien Städte und Landkreise des Landes vor Vollzug des Kreis- und Gerichtsneugliederungsgesetzes vom 24. Dezember 1992 (GVBl. I S. 546) verwendet. Die Beibehaltung dieser Schlüsselzahlen erfolgt aus historischen Gründen. In der 5. und 6. Stelle werden die zum Gebiet der/des jeweiligen kreisfreien Stadt/Landkreises gehörenden Gemarkungen und Exklaven, beginnend mit 01 fortlaufend nummeriert.
+regelmäßige Teilnahme an fachlichen Fortbildungsveranstaltungen nachweisen können.
 
-(2) Die in Absatz 1 beschriebene Nummerierungsweise lässt die Nummerierung von 99 Gemarkungen einschließlich der Exklaven pro kreisfreier Stadt/Landkreis zu. Übersteigt die Anzahl der vorhandenen Gemarkungen und Exklaven diesen Nummerierungsbereich, so wird in der 3. und 4. Stelle die Schlüsselzahl der kreisfreien Stadt oder des Landkreises um 50 erhöht und in der 5. und 6. Stelle die laufende Nummerierung der weiteren zum Gebiet der kreisfreien Stadt oder des Landkreises gehörenden Gemarkungen und Exklaven wieder mit 01 begonnen.
+Die anleitenden Personen sollen sich pädagogisch fortbilden.
 
-(3) Die Gemarkungsnummer bleibt erhalten, wenn sich die Form einer Gemarkung verändert. Auch die Umbenennung sowie die Änderung der Schreibweise von Gemarkungen führen nicht zu einer Neuvergabe der Gemarkungsnummer.
+5.2 Die ausbildende Einrichtung hat eine Anleiterin oder einen Anleiter der praktischen Ausbildung als Ansprechpartnerin bzw. Ansprechpartner für die Ausbildungsstätte zu benennen.
 
-(4) Die Gemarkungsnummer ist zu ändern bzw. neu zu vergeben, wenn durch Teilung oder Vereinigung neue Gemarkungen entstehen und die bisherigen Gemarkungsnamen nicht beibehalten werden.
+5.3 Im Rahmen der praktischen Ausbildung kann eine Anleiterin oder ein Anleiter gleichzeitig nur einen Auszubildenden betreuen.
 
-(5) Fortfallende Gemarkungsnummern sind nicht mehr zu vergeben.
+5.4 Mit ambulanten Einrichtungen ist vertraglich zu vereinbaren, dass Auszubildende bei Hausbesuchen immer von einer Fachkraft im Sinne der Nummer 5.1 Satz 2 begleitet werden.
 
-4. Gemarkungsgrenzen
+5.5 Die praktische Ausbildung von Physiotherapeutinnen und Physiotherapeuten darf in der Pädiatrie und der Neurologie nur dann in einer ambulanten Einrichtung durchgeführt werden, wenn die anleitende Person folgende Voraussetzungen erfüllt:
 
-(1) Die Grenzen der Gemarkung dürfen das Gebiet einer Gemeinde und, wenn das Gebiet der Gemeinde aus mehreren Grundbuchbezirken besteht, das Gebiet eines Grundbuchbezirkes nicht überschreiten.
+Pädiatrie: anerkannte Weiterbildungsabschlüsse auf dem Gebiet der Kinderphysiotherapie mit einem Umfang von 360 - 400 Stunden (z. B. Vojta, Bobath, sensomotorische Integration, Psychomotorik, reflektorische Atemtherapie),
 
-(2) Bei Veränderung von Flurstücksgrenzen, die gleichzeitig Gemarkungsgrenzen sind, ist die Gemarkungsgrenze der veränderten Grenzziehung anzupassen.
+Neurologie: anerkannte Weiterbildungsabschlüsse auf dem Gebiet der Neurologie mit einem Umfang von 200 Stunden (z. B. Bobath, basale Stimulation, Affolter, PNF, Kinaesthetik).
 
-(3) Bei Gemarkungsgrenzen, die gleichzeitig Gemeindegrenzen sind, ist eine Anpassung vorzunehmen, sobald die Gebietsgrenzen der Gemeinde durch die maßgeblichen gesetzlichen Bestimmungen des Landes Brandenburg oder durch genehmigte Gebietsänderungsverträge geändert werden.
+6. Praktische Tätigkeit nach bestandenen staatlichen Prüfung als Masseurin und medizinische Bademeisterin bzw. als Masseur und medizinischer Bademeister nach § 7 MPhG
 
-(4) Für die Änderung der Gemarkungsgrenzen, die gleichzeitig Grundbuchbezirksgrenzen sind, ist das Einvernehmen mit dem zuständigen Amtsgericht - Grundbuchamt - erforderlich.
+6.1 Diese Richtlinie gilt entsprechend für die Ermächtigung von Krankenhäusern oder anderen geeigneten medizinischen Einrichtungen zur Durchführung des Ausbildungsabschnittes praktische Tätigkeit für Masseurinnen und medizinische Bademeisterinnen oder Masseure und medizinische Bademeister nach § 7 MPhG.
 
-5. Gemarkungsbestand
+6.2 Die zuständige Behörde für die Erteilung der Ermächtigung von Einrichtungen für die praktische Tätigkeit nach § 7 Abs. 1 MPHG ist das Landesamt für Soziales und Versorgung.
 
-(1) Der Gemarkungsbestand ist in einem Gemarkungsverzeichnis erfasst. Änderungen im Gemarkungsbestand sind nur zulässig, wenn örtliche oder überörtliche Gegebenheiten gegen die Beibehaltung der bestehenden Gemarkungsaufteilung sprechen. Sie bedürfen der Genehmigung des Ministeriums des Innern.
+6.3  Die Entscheidung über einen Antrag auf Ermächtigung nach den Nummern 6.1 und 6.2 zur Annahme von praktisch Tätigen ist gebührenpflichtig.
 
-(2) Änderungen des Gemarkungsbestandes erfolgen nach Vereinigung oder Teilung von Gemarkungen sowie nach Einführen neuer Gemarkungsnamen. Auch Umgemarkungen von Gemarkungsteilen führen zur Änderung des Gemarkungsbestandes, wenn der größere Gemarkungsteil einen anderen Gemarkungsnamen erhalten soll.
+7. Übergangsbestimmungen
 
-(3) Werden Gemeinden zu einer neuen Gemeinde zusammengeschlossen oder wird eine Gemeinde in eine andere eingegliedert, so bleiben die Gemarkungen mit ihren Bezeichnungen unverändert. Das gleiche gilt für Gemarkungen, die umgemeindet werden. Werden nur Teile einer Gemarkung in eine andere Gemarkung eingegliedert, behält im allgemeinen der größere Gemarkungsteil den bisherigen Gemarkungsnamen.
+Vorhandene Ermächtigungen von Einrichtungen zur Annahme von praktisch Auszubildenden/Praktikanten in einer Ausbildung nach dem Masseur- und Physiotherapeutengesetz oder dem Ergotherapeutengesetz, die vom Landesamt für Soziales und Versorgung erteilt wurden, gelten fort, solange die Zulassungsvoraussetzungen in den ermächtigten Einrichtungen unverändert bleiben.
 
-(4) Nummer 4, Absatz 4 gilt entsprechend.
+8. In-Kraft-Treten, Außer-Kraft-Treten
 
-6. Gemarkungsverzeichnis
+8.1 Diese Richtlinie tritt am Tag nach der Veröffentlichung im Amtsblatt für Brandenburg in Kraft.
 
-6.1 Allgemeines
+8.2 Gleichzeitig tritt die Richtlinie der Ministerin für Arbeit, Soziales, Gesundheit und Frauen vom 22. Januar 1993 über die Erteilung der Ermächtigung zur Annahme von praktisch Auszubildenden für die Berufe "Masseur oder Masseurin" und "Physiotherapeut oder Physiotherapeutin" und von Personen, die die Bezeichnung "Masseur und medizinischer Bademeister oder Masseurin und medizinische Bademeisterin" führen wollen (ABl. S. 274) außer Kraft.
 
-Die Gemarkungen des Landes werden in einem Gemarkungsverzeichnis zusammengestellt. Das Gemarkungsverzeichnis wird vom Ministerium des Innern im Amtsblatt für Brandenburg veröffentlicht. Es wird in ein alphabetisches und in ein numerisches Verzeichnis untergliedert.
+Anlage
 
-6.2 Inhalt
+zu Nummer 2.2 der Richtlinie des Ministeriums für Arbeit, Soziales, Gesundheit und Familie zur Durchführung der praktischen Ausbildung für Berufe nach dem Masseur- und Physiotherapeutengesetz und dem Ergotherapeutengesetz
 
-(1) Das alphabetische Gemarkungsverzeichnis enthält folgende Angaben:
+Kooperationsverträge
 
-Gemarkungsnummern,
+Die Verträge über die praktische Ausbildung der mit der Ausbildungsstätte kooperierenden Einrichtungen nach § 9 Satz 3 MPhG, § 1 Abs. 2 MB-APrV und § 1 Abs. 2 Satz 1 ErgThAPrV müssen mindestens nachfolgende Angaben enthalten:
 
-Gemarkungsnamen,
+Gegenstand und Zweck der Vereinbarung.
 
-Kennzeichnung der Exklaven mit dem Buchstaben E,
+Gesamtzahl der bereitgestellten Praxisplätze,
 
-Gemeindenamen,
+Auflistung der medizinischen Fachgebiete/Einsatzbereiche mit Angabe der Anzahl der Plätze pro Fachgebiet/Einsatzbereich, die gleichzeitig zur Nutzung zur Verfügung gestellt werden können und mit dem Stundenumfang pro Einsatz.
 
-Namen der kreisfreien Städte/Landkreise,
+Rechte und Aufgaben der Praxiseinrichtung:
 
-Behördenkennzahl der Amtsgerichte,
 
-Namen der zuständigen Amtsgerichte.
+Benennung von entsprechend qualifizierten Anleiterinnen und Anleitern für die praktische Ausbildung,
 
-(2) Das numerische Gemarkungsverzeichnis enthält folgende Angaben:
+Angaben zu allen Anleiterinnen und Anleitern in den einzelnen Fachgebieten/Einsatzbereichen (Name, Qualifikation, Fachweiterbildungen),
 
-Gemarkungsnummern,
+Benennung einer verantwortlichen Person für die Praxisanleitung, die der Ausbildungsstätte als Ansprechpartner/in zur Verfügung steht,
 
-Gemarkungsnamen,
+Bereitschaft, den für die praktische Ausbildung verantwortlichen Mitarbeitern der Ausbildungsstätte den Zugang zur Praxiseinrichtung zu gewähren, soweit das für die Betreuung der Auszubildenden erforderlich ist,
 
-Kennzeichnung der Exklaven mit dem Buchstaben E,
+Bereitschaft, die Auszubildenden entsprechend den von der Ausbildungsstätte gestellten Aufgaben auszubilden,
 
-Gemeindenamen,
+eine Bestätigung, dass eine Anleiterin oder ein Anleiter gleichzeitig nur einen Auszubildenden betreut und dass die Betreuung ganztägig erfolgt,
 
-Namen der kreisfreien Städte/Landkreise,
+bei ambulanten Einrichtungen:
 
-Nummer der Finanzämter,
+Erklärung über das Vorliegen der Kassenzulassung und der Anzeige beim Gesundheitsamt,
 
-Namen der zuständigen Finanzämter.
+Erklärung, dass Auszubildende bei Hausbesuchen immer von einer Fachkraft begleitet werden.
 
-6.3 Fortschreibung
+Rechte und Aufgaben der Ausbildungsstätte:
 
-(1) Das Gemarkungsverzeichnis ist bei Änderung der darin enthaltenen Daten fortzuschreiben. Hierzu melden die Katasterämter dem Ministerium des Innern:
 
-die Änderung im Bestand der Gemarkungen/Grundbuchbezirke, soweit sie Auswirkungen auf das Gemarkungsverzeichnis haben,
+Gewährleistung des ordnungsgemäßen Ablaufes der Ausbildung,
 
-die Änderungen der Zuordnung von Gemarkungen/Grundbuchbezirken zu einer Gemeinde oder zur kreisfreien Stadt/zum Landkreis,
+Benennung eines/r Verantwortlichen der Ausbildungsstätte zur Betreuung der Auszubildenden und zur Beratung der Anleiterinnen und Anleiter der praktischen Ausbildung (Name, Qualifikation, Unterrichtsfächer),
 
-die Änderungen von Namen der Gemeinden,
+Betreuung der Auszubildenden, Beratung der Anleiterinnen und Anleiter der praktischen Ausbildung,
 
-die Änderung der Namen der kreisfreien Städte/Landkreise.
+Erarbeiten fachspezifischer Aufgaben für alle praktischen Ausbildungsabschnitte,
 
-(2) Die Änderungen sind in Kopien der betroffenen Seiten des Gemarkungsverzeichnisses einzutragen.
+Kontrolle der Erfüllung der fachspezifischen Aufgaben, in Zusammenarbeit mit den Anleiterinnen und Anleitern der praktischen Ausbildung.
 
-(3) Änderungen werden im Amtsblatt für Brandenburg veröffentlicht.
+Laufzeit und Kündigung der Vereinbarung:
 
-Anmerkung: Die Anlagen (alphabetisches und numerisches Gemarkungsverzeichnis) werden nicht abgebildet, da sie ständigen Veränderungen unterliegen.
+
+möglichst eine unbefristete Laufzeit, mindestens aber für vier Jahre,
+
+Klausel über die Kündigungsfrist soll so gewählt werden, dass die laufende Ausbildung nicht gefährdet wird.
