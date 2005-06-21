@@ -1,0 +1,76 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2005-06-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/567576
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/567576
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: MVV-Streifenkarten für Automatenverkauf in Bus und Tram; Antrag Nr. 236 vom 19.04.2005; Schreiben vom 04.05.2005 (negative Erledigung)
+- TOP 3.2.: Verbesserte Beleuchtung am Fußgängerüberweg in der Schönstraße in Höhe Wilhelm-Kuhnert-Straße; Antrag Nr. 2549 des BA 18 vom 16.11.2004; Schreiben vom 04.05.2005 (positive Erledigung)
+- TOP 3.1.: Aufhebung des personenbezogenen Behindertenparkplatzes in der Untere Weidenstraße 25; Mitteilung vom 18.03.2005
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Baubeginnsanzeige der Mobilfunksendeanlage(n) Candidplatz und Geiselgasteigstraße; Zuleitung vom 25.05.2005 (ggf. Behandlung in nicht-öffentlicher Sitzung)
+- TOP 3.2.: Mobilfunkanlage Säbener Straße; Schreiben vom 31.05.2005 (ggf. Behandlung in nicht-öffentlicher Sitzung)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Konzept zur pflegerischen Versorgung älterer Menschen in München; Entwurf der Beschlussvorlage mit der Bitte um Stellungnahme; Zuleitung vom 18.05.2005
+- TOP 3.1.: Erhalt der Euro-Skate-Halle in der Leopoldstraße; Lösungsvorschläge durch das Sozialreferat; BA-Sitzung vom 19.04.2005; Schreiben vom 24.05.2005 (negative Erledigung)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Anwesen in der Tierparkstraße; Anhörung vom 12.05.2005
+- TOP 3.2.: Anwesen in der Schönstraße; Anhörung vom 12.05.2005
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Zukunft München 2030 - Visionen und Strategien für Stadt und Region; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 08.06.2005
+- TOP 3.3.: Aktualisierung des Flächennutzungsplanes und Aufstellung des Landschaftsplanes Teilbereich VI - Südost; Billigungsbeschluss; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.06.2005 (VB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung an der Hellabrunner Straße (SPD-Kinderfest am 23. Juli); Schreiben vom 10.05.05 mit der Bitte um Stellungnahme bis 22.06.05
+- TOP 3.2.: Umwandlung eines Erwachsenenbusses der Fahrbibliotheken in einen Juniorbus; Zuleitung vom 17.05.2005 mit der Bitte um Stellungnahme zum Entwurf der Beschlussvorlage bis 22.06.2005
+- TOP 3.3.: Veranstaltung auf dem Athener Platz; Sommerfest am 16.07.2005; Zuleitung vom 01.06.2005 mit der Bitte um Stellungnahme bis 17.06.2005
+- TOP 3.1.: Jahresstatistik der Münchner Stadtbibliothek; Schreiben vom 01.06.2005
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
