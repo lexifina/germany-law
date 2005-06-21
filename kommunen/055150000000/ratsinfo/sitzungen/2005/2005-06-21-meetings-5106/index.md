@@ -1,0 +1,64 @@
+# 8. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-06-21T17:07:00+02:00
+- Ende: 2005-06-21T21:09:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5106
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5106
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00218593.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erford
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung - zur Kenntnis genommen
+- TOP 3.2: Anregungen gemäß § 24 der Gemeindeordnung - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Gewährung von Zuschüssen im Stadtbezirk Mitte - einstimmig beschlossen
+- TOP 4.2: Verkehrsberuhigung der Grevingstraße - mehrheitlich geändert beschlossen
+- TOP 4.3: Umgestaltung der Zumsandestraße im Anschluss an die Kanalsanierung - einstimmig beschlossen
+- TOP 4.4: Hermannschule, Dahlweg - mehrheitlich beschlossen
+- TOP 4.5: Dietrich-Bonhoeffer-Schule, Bonhoeffer Straße 50, Münster - einstimmig beschlossen
+- TOP 4.6: Sanierung der KSP "Alter Schützenhof", "Trinitatiskirche", "Körnerstraße", "Tannenbergstraße" - einstimmig beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: Neufassung der Zuständigkeitsordnung und Anpassung der Hauptsatzung, der Geschäftsordnung sowie weit - einstimmig geändert beschlossen
+- TOP 5.2: Zukünftige Entwicklung der städtischen Bäderlandschaft - mehrheitlich beschlossen
+- TOP 5.3: Übertragung Realschule Kreuzviertel, Realisierung Planungsvorschlag, Gründung Projektgesellschaft - einstimmig beschlossen
+- TOP 5.4: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am 27.11.2005 aus Anlass der - einstimmig abgelehnt
+- TOP 5.5: Gemeinsamer Antrag der Fraktionen von CDU und FDP an den Rat Nr. A-R/0014/2005 vom 02.05.2005: "Für - mehrheitlich abgelehnt
+- TOP 5.6: 2. Nahverkehrsplan Stadt Münster - einstimmig geändert beschlossen
+- TOP 5.7: Neugestaltung des "Picasso-Platzes" - einstimmig beschlossen
+- TOP 5.8: 1. Änderung des Bebauungsplanes Nr. 114 Teilabschnitt IV: Zentrum Nord - mittlerer Bereich - einstimmig beschlossen
+- TOP 5.9: Bebauungsplan Nr. 490: Sperlichstraße / Von-Stauffenberg-Straße - einstimmig beschlossen
+- TOP 5.10: Verfahrensvorlage zur Beschaffung einer provisorischen Parkpalette auf dem Parkplatz Georgskommende - bei Stimmengleichheit abgelehnt
+- TOP 5.11: Zweite Baustufe dynamisches Fahrgast-Informations-System an Haltestellen - einstimmig beschlossen
+- TOP 5.12: Ausbau der Kindertagesbetreuungsangebote für Kinder unter drei Jahren (u-3-Programm) - einstimmig beschlossen
+- TOP 5.13: Kindertagesbetreuungsbericht 2005 - einstimmig beschlossen
+- TOP 5.14: Sanierung der Gräfte in der Engelenschanze - von der Tagesordnung abgesetzt
+- TOP 6: Berichte
+- TOP 6.1: Ausstattung von Haltestellen mit Wartehallen - Programm 2005 - zur Kenntnis genommen
+- TOP 6.2: Vorhabenbezogener Bebauungsplan Nr. 491: Stubengasse / Loerstraße - zur Kenntnis genommen
+- TOP 6.3: Vorentwurf Gestaltung einer öffentlichen Wegefläche am Kreativkai - zur Kenntnis genommen
+- TOP 6.4: Teilaufhebung des Bebauungsplanes Nr. 401:Stadthafen I / Albersloher Weg - zur Kenntnis genommen
+- TOP 6.5: Jahresbericht 2003/2004 des Kriminalpräventiven Rates Münster - zur Kenntnis genommen
+- TOP 6.6: Bewilligung - zur Kenntnis genommen
+- TOP 7: Anträge und Anfragen
+- TOP 7.1: Anlage eines Freischachfeldes auf dem Rasengrundstück südlich der Gaststätte "Düesbergklause" - eingebracht
+- TOP 7.2: Innenstadtnaher Aufstellplatz für Wohnmobil-Touristen - eingebracht
+- TOP 7.3: Rindenmulchbahn in der Unterführung am Mauritztor - eingebracht
+- TOP 7.4: Ausbreitung des Riesenbärenklaus - zur Kenntnis genommen
+- TOP 7.5: Städtischer Teil des Gebäudes Hafenstraße 2-4 - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Parkraumkonzept für das Geistviertel im Bereich Ludwig-Erhard-Schule - zur Kenntnis genommen
+- TOP 8.2: Flächennutzung vor dem Stadthaus 1/Klemensstraße für öffentliche Veranstaltungen - zur Kenntnis genommen
+- TOP 8.3: Altkleidercontainer am Hohen Heckenweg in Höhe Herma-Kramm-Weg - vertagt
+- TOP 8.4: Verkehrsspiegel an der Einmündung Finkenstraße/Melchersstraße - zur Kenntnis genommen
+- TOP 8.5: Petanqueanlage an der Engelenschanze - zur Kenntnis genommen
+- TOP 8.6: Großveranstaltungen im Schlossgarten - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
