@@ -1,0 +1,125 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2005-06-22T15:08:00+02:00
+- Ende: 2005-06-22T15:40:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3534
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3534
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 08.06.2005, 10.00 Uhr - http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00052285.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten (nur Rat)
+- TOP 1.1: Einführung von Stadtverordneten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Psychosoziale Betreuung ALG II-BezieherInnen - nur Rat
+- TOP 2.2: Rechte wohnungs- und arbeitsloser Menschen - nur Rat
+- TOP 2.3: Einrichtung von 1-Euro-Jobs - nur Rat
+- TOP 2.4: Wird unter TOP 4.8 behandelt.
+- TOP 2.5: Städtische Gebäude am Lienhardplatz - nur Rat
+- TOP 2.6: Rekonstruktion der noch vorhandenen alten Schwebebahnstationen - nur Rat
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Änderung der Baumschutzsatzung - zur Vorberatung verwiesen
+- TOP 3.2: Überprüfung brandschutztechnischer Einrichtungen bei der Membrana GmbH durch die Berufsfeuerwehr W - vertagt auf Rat
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Erhaltung des Kurbades Barmen - Nichtbefassung beschlossen
+- TOP 4.2: Bunker Platz der Republik - zur Vorberatung verwiesen
+- TOP 4.2.1: Bunker Platz der Republik - zur Vorberatung verwiesen
+- TOP 4.2.2: Ergänzungsantrag zu VO/0674/05 "Bunker Platz der Republik" - zur Vorberatung verwiesen
+- TOP 4.3: Feinstaub. - abgesetzt
+- TOP 4.4: Versorgungsbericht - zur Vorberatung verwiesen
+- TOP 4.5: Unterzeichnung der Erklärung deutscher Bürgermeister zur Abschaffung von Atomwaffen - Nichtbefassung beschlossen
+- TOP 4.6: Fuhlrott-Museum - zur Vorberatung verwiesen
+- TOP 4.7: Verkehrskonzept - abgesetzt
+- TOP 4.8: Sachstandsbericht: Kooperationen im bergischen Städtedreieck - zur Vorberatung verwiesen
+- TOP 4.9: Prüfung eines Pilotprojekts Public Private Partnership (PPP) im Rahmen der Schulbausarnierungen fü d - abgesetzt
+- TOP 4.9.1: Prüfung der Eignung von Public Private Partnership (PPP)-Projekten zur Stärkung und Beschleunigung ö - abgesetzt
+- TOP 4.10: N.N.
+- TOP 4.11: Aufforderung zur Senkung der Unterkunftskosten nach SGB ll - Nichtbefassung beschlossen
+- TOP 4.12: Europäische Woche der Mobilität - vertagt auf Rat
+- TOP 4.13: HELIOS Klinikum GmbH: Erhalt und Ausbau von Arbeitsplätzen - Regelungen des Konsortialvertrages - vertagt auf Rat
+- TOP 4.14: Soziale und ökologische Geldanlage bei Oikocredit - zur Vorberatung verwiesen
+- TOP 4.15: Entwurf der europäischen Kommission zur Dienstleistungsrichtlinie - zur Vorberatung verwiesen
+- TOP 4.16: Änderung der Aufnahmekriterien für städtische Kindertageseinrichtungen - vertagt auf Rat
+- TOP 4.17: Aufhebung der Verordnung über die Regelung der Öffnungszeiten von Außengastronomiebereichen in der S - zur Vorberatung verwiesen
+- TOP 4.18: Einführung eines Handyparksystems - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Feinstaubfilter für Taxis - abgesetzt
+- TOP 5.2: Faires Beschaffungswesen in der Stadt Wuppertal - abgesetzt
+- TOP 5.3: Erweiterung des Onlineangebotes zur Kinderbetreuung in Wuppertal - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: Zweite Satzung zur Änderung der Satzung für die Hedwig-Wülfing-Stiftung - ungeändert beschlossen
+- TOP 6.2: Änderung der Verleih- und Nutzungsordnung für das Medienzentrum der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: Änderung der Gebührensatzung für den Rettungsdienst - geändert beschlossen
+- TOP 6.4: Satzung über die Erhebung einer Zweitwohnungssteuer in der Stadt Wuppertal - vertagt auf Rat
+- TOP 6.5: 5. Änderung der Rechnungsprüfungsordnung und 1. Änderung der Geschäftsanweisung für das RPA - nur Rat
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Ausgaben 2004 - Entgegennahme ohne Beschluss
+- TOP 7.2: Über- und außerplanmäßige Ausgaben 2005 - Entgegennahme ohne Beschluss
+- TOP 7.3: Linksausbieger Dörner Brücke - ungeändert beschlossen
+- TOP 7.4: Üpl. Ausgabe bei der Invest.-Kostenförderg. für Einrichtg. der Tages-, Nacht- u. Kurzzeitpflege - ungeändert beschlossen
+- TOP 7.5: Sanierung der Wupperbrücke Pestalozzistrasse - ungeändert beschlossen
+- TOP 7.6: Tunnelschließung Alter Markt - ungeändert beschlossen
+- TOP 7.7: Sofortmaßnahmen an gefährdeten Ingenieurbauwerken - ungeändert beschlossen
+- TOP 7.8: Gewerbegebiet Westring - Rückforderung von Fördermitteln der Bezirksregierung Düsseldorf - vertagt auf Rat
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss der Kinder- und Jugendwohngruppen der Stadt Wuppertal für das Geschäftsjahr 2004 - ungeändert beschlossen
+- TOP 8.2: Änderung der Betriebssatzung der Alten- und Altenpflegeheime (APH) - ungeändert beschlossen
+- TOP 8.3: Gründung einer Tochtergesellschaft durch die Regiobahn GmbH - vertagt auf Rat
+- TOP 8.4: Jahresabschluss der Stadtsparkasse Wuppertal für das Geschäftsjahr 2004 - vertagt auf Rat
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan Nr. 634 - Funckstraße - - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 1010 -Gartenmarkt Wieden- - ungeändert beschlossen
+- TOP 9.3: Bauleitplanverfahren Nr. 1032 V -Allensteiner Straße- - ungeändert beschlossen
+- TOP 9.4: Landschaftsplan Wuppertal-Nord 1. Änderungsverfahren - Aufstellungsbeschluss - geändert beschlossen
+- TOP 9.5: Landschaftsplan Wuppertal-West 1. Änderungsverfahren - Aufstellungsbeschluss - ungeändert beschlossen
+- TOP 9.6: Landschaftsplan Wuppertal-Ost 2. Änderungsverfahren - Aufstellungsbeschluss - ungeändert beschlossen
+- TOP 9.7: Landschaftsplan Wuppertal-Gelpe 2. Änderungsverfahren - Aufstellungsbeschluss - ungeändert beschlossen
+- TOP 9.8: 1. Verlängerung einer Veränderungssperre im Bebauungsplan 884 - Küllenhahner Straße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Grundschule Liegnitzer Straße - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP -: Entgelt für das Mittagessen in der Offenen Ganztagsgrundschule / Wuppertal - Pass
+- TOP 11.1: Wuppertal - Pass - vertagt auf Rat
+- TOP 11.1.1: Wuppertal-Pass - vertagt auf Rat
+- TOP 11.1.2: Wuppertal - Pass - vertagt auf Rat
+- TOP 11.1.3: Schulessen - vertagt auf Rat
+- TOP 11.1.4: Mittagessen für Kinder von ALG II-Beziehern in der OGGS - vertagt auf Rat
+- TOP 11.1.5: Entgelt für das Mittagessen im Schuljahr 2005/2006 an den städtischen Ganztagsschulen und Offene Gan - vertagt auf Rat
+- TOP 11.1.6: Mittagsverpflegung an Ganztagsschulen - vertagt auf Rat
+- TOP 11.1.7: Regelmäßiges Mittagessen kostenfrei - vertagt auf Rat
+- TOP 11.1.8: Mittagessen an Ganztagsschulen - vertagt auf Rat
+- TOP 11.2: Schulbezirksänderungen im Rahmen der Grundschulentwicklungsplanung - ungeändert beschlossen
+- TOP 11.3: Schulbezirksänderungen im Rahmen der Grundschulentwicklungsplanung - ungeändert beschlossen
+- TOP 11.4: Schulbezirksänderungen im Rahmen der Grundschulentwicklungsplanung - ungeändert beschlossen
+- TOP 11.5: Umwandlung von Gruppen in städtischen Tageseinrichtungen für Kinder - ungeändert beschlossen
+- TOP 11.6: Kinder-, Jugend- und Familienfreundlichkeitsprüfung - vertagt auf Rat
+- TOP 11.6.1: Kinder-, Jugend- Familienfreundlichkeitsprüfung - vertagt auf Rat
+- TOP 11.7: Fusion der städtischen Abendrealschule mit dem städtischen Abendgymnasium - abgelehnt
+- TOP 11.8: Beschleunigung von Bauanträgen / Optimierung der Arbeit des Gestaltungsbeirates
+- TOP 11.8.1: Beschleunigung von Bauanträgen - Entgegennahme ohne Beschluss
+- TOP 11.8.2: Optimierung der Arbeit des Gestaltungsbeirates - ungeändert beschlossen
+- TOP 11.8.3: Gremienbesetzung Gestaltungsbeirat - ungeändert beschlossen
+- TOP 11.9: Optimierung des verwaltungsinternen Steuerungssystems - vertagt auf Rat
+- TOP 11.9.1: Optimierung des verwaltungsinternen Steuerungssystems - vertagt auf Rat
+- TOP 11.10: Stadtentwässerung - Maßnahmenkatalog 2006/Katalogentwurf 2007 - ungeändert beschlossen
+- TOP 11.11: Gründung einer gemeinsamen Einrichtung der Bergischen Weiterbildung - geändert beschlossen
+- TOP 11.11.1: Gründung einer gemeinsamen Einrichtung der Bergischen Weiterbildung - erledigt durch Beschluss zu einem anderen TOP
+- TOP 11.11.2: Gründung einer gemeinsamen Einrichtung der Bergischen Weiterbildung durch die Städte Remscheid, Soli - erledigt durch Beschluss zu einem anderen TOP
+- TOP 11.11.3: Bergische Weiterbildung - Fusion der Volkshochschule - erledigt durch Beschluss zu einem anderen TOP
+- TOP 11.12: Taubenhäuser - abgelehnt
+- TOP 11.13: Abwicklung des Stadterneuerungsprogramms 2005 des Landes zum Projekt 'Stadtumbau West' - ungeändert beschlossen
+- TOP 11.14: Haus der Jugend Barmen - Neukonzeption und Umbau - - ungeändert beschlossen
+- TOP 11.15: Auftragsermächtigung zur Beschaffung der Leitstellentechnik - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Bestellung eines Mitgliedes für den Aufsichtsrat der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 12.2: Benennung der Mitglieder für den Beirat der Justizvollzugsanstalt Wuppertal - ungeändert beschlossen
+- TOP 12.3: Entsendung von Vertretern der Stadt Wuppertal in die Gremien des Wupperverbandes - ungeändert beschlossen
+- TOP 12.4: Umbesetzungen - geändert beschlossen
+- TOP 12.5: Umbesetzungen - ungeändert beschlossen
+- TOP 12.6: Umbesetzungen - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
