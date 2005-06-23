@@ -1,0 +1,74 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-06-23T16:00:00+02:00
+- Ende: 2005-06-23T19:10:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1425
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1425
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111762.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111762.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111762.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 12.05.2005 - mehrheitlich beschlossen
+- TOP 3: Zulassung eines Sachverständigen - einstimmig beschlossen
+- TOP 4: Schloss Eller - zur Kenntnis genommen
+- TOP 5: Glashütte Gerresheim - Resolution - einstimmig beschlossen
+- TOP 6: Abbruchantrag Konradstraße 6 + 8 - einstimmig beschlossen
+- TOP 7: Gesamtsanierung Hockeyspielfeld Bernburger Straße - einstimmig beschlossen
+- TOP 8: Zuschuss an den Düsseldorfer AERO Club e.V. - einstimmig beschlossen
+- TOP 9: Trödelmarkt auf dem Gertrudisplatz - einstimmig beschlossen
+- TOP 10: Trödelmarkt auf dem Gertrudisplatz - einstimmig beschlossen
+- TOP 11: Gesamtschule Kikweg - einstimmig beschlossen
+- TOP 12: Bauunterhalt an städtischen Einrichtungen - einstimmig beschlossen
+- TOP 13: Zuschüsse der Bezirksvertretung 8 im Jahre 2005 - mehrheitlich beschlossen
+- TOP 14: Grundstück Vennhauser Allee / In den Kötten - zur Kenntnis genommen
+- TOP 15: Dillenburger Weg - zur Kenntnis genommen
+- TOP 16: Grundwasserstand im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 17: Schloss Eller - zur Kenntnis genommen
+- TOP 18: Grundwasserstand im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 19: Projekt P - zur Kenntnis genommen
+- TOP 20: Rothenbergstraße - zur Kenntnis genommen
+- TOP 21: Stolpersteine - zur Kenntnis genommen
+- TOP 22: Verkehrszählung - zur Kenntnis genommen
+- TOP 23: Landesmittel für den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 24: Schloss Eller - zur Kenntnis genommen
+- TOP 25: Freiheitplatz - zur Kenntnis genommen
+- TOP 26: Gothaer Weg / Senftenberger Weg - einstimmig beschlossen
+- TOP 27: Verteilung der Zuschüsse - mehrheitlich abgelehnt
+- TOP 28: KGS Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 29: Grundwasseranstieg Tannenhofsiedlung - zur Kenntnis genommen
+- TOP 30: Peter-Härtling-Schule, Vennhauser Allee 167 - einstimmig beschlossen
+- TOP 31: KSP Chemnitzer Straße - zur Kenntnis genommen
+- TOP 32: Kriminalpräventiver Rat - mehrheitlich beschlossen
+- TOP 33: Mittel Bezirksvertretung 8 - mehrheitlich beschlossen
+- TOP 34: Einrichtung des AKART - mehrheitlich beschlossen
+- TOP 35: Öffentliche Grünanlage Chemnitzer/Zwickauer Str. - einstimmig beschlossen
+- TOP 36: Breidenplatz - Kreisverkehr - Radwegbereich - einstimmig beschlossen
+- TOP 37: Breidenplatz - Kreisverkehr - Masterplan Straßen - einstimmig beschlossen
+- TOP 38: Straßenbenennung - zur Kenntnis genommen
+- TOP 39: Einhaltung des Jugendschutzgesetzes - einstimmig beschlossen
+- TOP 40: Infoangebot Grundwasserstände - zur Kenntnis genommen
+- TOP 41: Bürgerversammlung zur L 404n - zur Kenntnis genommen
+- TOP 42: REFINA - zur Kenntnis genommen
+- TOP 43: Offene Ganztagsgrundschulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 44: Fahrradweg Karl-Geusen-Straße - zur Kenntnis genommen
+- TOP 45: Verbindungsweg zwischen Jägerstraße und Veehstraße - zur Kenntnis genommen
+- TOP 46: Machbarkeitsstudie L 404n - zur Kenntnis genommen
+- TOP 47: Parkplatz Eller - Mitte - zur Kenntnis genommen
+- TOP 48: Lärmschutz Bahnstrecke Eller - Rath - zur Kenntnis genommen
+- TOP 49: Querungshilfe Höherweg - zur Kenntnis genommen
+- TOP 50: Straßenbelag Am Hackenbruch - zur Kenntnis genommen
+- TOP 51: Luftreinhaltemesung - zur Kenntnis genommen
+- TOP 52: Absperrungen im Bereich Gertrudisplatz - zur Kenntnis genommen
+- TOP 53: Brorsstraße - Parkverbot und Abpollerung - zur Kenntnis genommen
+- TOP 54: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 55: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 56: Wasserspielplatz Tannenhofweg - zur Kenntnis genommen
+- TOP 57: Sitzungsunterlagen für Besucher
