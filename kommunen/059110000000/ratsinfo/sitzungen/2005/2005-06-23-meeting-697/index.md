@@ -1,0 +1,55 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2005-06-23T15:00:00+02:00
+- Ende: 2005-06-23T17:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbj8Gc9Cy0rJYWEk1VGH1pU
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/697
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXtHSU12X45erqFgBozN1sVx-7t3QssTGP-R6FeUu3pj/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_23.06.2005.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: Vergabe von Zuschüssen an Selbsthilfegruppen und Initiativen - Sozialamt -
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: Urteil des Bundesverfassungsgerichtes vom 07.06.2005
+- TOP 5: Eingliederungshilfen nach § 16 Abs. 2 Satz 2 Nr. 1 bis 4 SGB II
+- TOP 6: Wohnen für Hilfe
+- TOP 7: Unregelmäßigkeiten bei den sogenannten Zusatzjobs
+- TOP 8: Ambulanzbetreutes Wohnen
+- TOP 9: Einführung eines "Sozial-Tickets"
+- TOP 10: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 11: Verteilung von Zuschüssen an Selbsthilfegruppen im Gesundheitsbereich - HSt. 1.545.718.700/6 -
+- TOP 12: Finanzielle Situation der Freien Wohlfahrtspflege
+- TOP 13: Beschlussvorschläge für den Rat
+- TOP 14: Armut in Bochum
+- TOP 15: Vereinfachte Verwaltungsverfahren durch das Zuwanderungsgesetz
+- TOP 16: Lehrmittelfreiheit SGB II
+- TOP 17: Suppenküchen in Bochum
+- TOP 18: Umfrage zur Ausbildungssituation
+- TOP 19: Bewilligung für Erstausstattung bei Schwangerschaft und Geburt
+- TOP 20: Anträge
+- TOP 21: Besetzung des Psychosozialen Ausschusses
+- TOP 22: Angemessene Kosten der Unterkunft im Sinne des § 22 Abs. 1 SGB II und § 29 Abs. 1 SGB XII
+- TOP 23: Angemessenheit von Aufwendungen für Unterkunft bei Schwangerschaft
+- TOP 24: Mitteilungen
+- TOP 25: Höhe der Aufwandsentschädigung bei sogenannten 1-Euro-Jobs
+- TOP 26: Anfragen
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: keine Tagesordnungspunkte
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 8: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 9: Beschlussvorschläge für den Rat
+- TOP 10: Anträge
+- TOP 11: Mitteilungen
+- TOP 12: Anfragen
