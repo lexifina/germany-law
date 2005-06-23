@@ -1,0 +1,86 @@
+# 40. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2005-06-23T16:00:00+02:00
+- Ende: 2005-06-23T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=600
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=600
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=35023
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers V_42 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Personelles/Wahlen - gegenstandslos
+- TOP 7.1: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 8.1: Hartz IV - Zusatzjobs mit Mehraufwandsentschädigung und ihre Auswirkungen auf die soziokulturelle Infrastruktur <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach)</span> - beantwortet
+- TOP 9: Beschlussvorlagen - gegenstandslos
+- TOP 9.1: Entwurf des Bezirkshaushaltsplanes Treptow-Köpenick für die Haushaltsjahre 2006 und 2007 - überwiesen
+- TOP 9.2: Sondermittel für Selbsthilfegruppe Gymnastik (SM 532) - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Sondermittel für Bohnsdorfer Skatclub e.V. (SM 535) - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Sondermittel für I.Q. 1185 e.V. (SM 537) - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Sondermittel für NBZ Hessenwinkel e.V. (SM 538) - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Sondermittel für Indische Solidaritätsaktion e.V. (SM 539) - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Sondermittel für Jugendfeuerwehr Oberschöneweide (SM 540) - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Sondermittel für Brücke 7 e.V. (SM 541) - in der BVV abgelehnt
+- TOP 9.9: Sondermittel für Tourismusverein Treptow-Köpenick e.V. (SM 543) - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Sondermittel für Ortsverein Schmöckwitz e.V. i.G. (SM 544) - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Sondermittel für Katholische Kirchengemeinde St. Josef (SM 546) - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Sondermittel für Der Cöpenicker e.V./Flussbad Gartenstraße (SM 547) - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: - Entwurf des Bebauungsplans 9-1 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan 9-1 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Sondermittel für Adlershofer Bürgerverein Cöllnische Heide e.V. (SM 548) - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 10.1: Behindertengerechtes Alt-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Tempo 30 in der Bölschestraße in Friedrichshagen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Aktualisierung der Schulentwicklungsplanung Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BiKuS)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Neuaufteilung des Straßenraums in der Bölschestraße in Friedrichshagen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Umbenennung der im Ortsteil Adlershof zwischen Rudower Chaussee und Köpenicker Straße gelegenen Agastraße in "Am Studio" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Nachmittagsöffnung für Schulhöfe - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Flächen für Graffiti - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Markt auf dem Schlossplatz - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Reduzierung der Taxistellplätze am Krankenhaus Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Erweiterung des eingeschränkten Halteverbots in der Wendenschloßstraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Bebauungsplan XV-45 - Entwurf des Bebauungsplans XV-45 und Entwurf der Rechtsverordnung zum Bebauungsplan im Bezirk Treptow-Köpenick, Ortsteil Altglienicke (Änderungen zum BA-Beschluss 275/04 vom 9. März 2004) - Ergebnis der Betroffenenbeteiligung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.12: Aktuelle Baumaßnahmen Verkehrslösung Altstadt Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 11.1: Bebauungsplanentwurf 9-1 hier: Planreife für das Grundstück Feldblumenweg 10 A im Bezirk Treptow-Köpenick, Ortsteil Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Bebauungsplanentwurf XV-25 hier: - Auswertung der öffentlichen Auslegungen - Inhaltliche Planänderungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.3: Bebauungsplanentwurf XV-62 hier : Auswertung der Beteiligung der Träger öffentlicher Belange <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 12: Anträge - gegenstandslos
+- TOP 12.1: Schülerverkehr <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Marko Tesch)</span> - überwiesen
+- TOP 12.2: Bezirkliche Baukompetenz erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Wegweiser Langer See und Müggelturm - überwiesen
+- TOP 12.4: Öffentlichkeitsarbeit zum 3. September 2005 - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Begrünung der Widerlager am S-Bahnhof Friedrichshagen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Info-Hotline Schlaglöcher - überwiesen
+- TOP 12.7: Gebührenordnung Musikschulen - überwiesen
+- TOP 12.8: Schluss mit dem Verwirrspiel - überwiesen
+- TOP 12.9: Fahrradverkehr Treptow-Köpenick - Gefährdungen abbauen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - in der BVV zurückgezogen
+- TOP 12.10: Existenzsicherung des Hauses Natur und Umwelt - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Fahrradstellplätze am Markt Friedrichshagen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach Verfasser 2: Karin Kant)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: MAE-Jobs mit Perspektiven auf einen Hauptschulabschluss verbinden - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Veranstaltung zu den Vorwürfen gegen Salvador Allende <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - überwiesen
+- TOP 12.14: Radfahrstreifen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - überwiesen
+- TOP 12.15: Benennung einer Stichstraße in Johannisthal - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Veränderungen des Jugendhilfebedarfs - überwiesen
+- TOP 12.17: Fahrradverkehr Treptow-Köpenick - Öffnung von Einbahnstraßen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - überwiesen
+- TOP 12.18: Bauliche Unterhaltung Fahrradwege <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach Verfasser 2: Karin Kant)</span> - überwiesen
+- TOP 12.19: Fahrradverkehr Treptow-Köpenick - Gefährdungen um Baustellen abbauen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - in der BVV zurückgezogen
+- TOP 12.20: Fahrradstellplätze am S-Bahnhof Friedrichshagen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach Verfasser 2: Karin Kant)</span> - überwiesen
+- TOP 12.21: Bessere Info für Parkplatzsuchende am Strandbad Müggelsee (Rahnsdorf) - mit Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - gegenstandslos
+- TOP 13.1: Rundkurs für Skater <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Guido Rombinsky)</span> - beantwortet
+- TOP 13.2: BAB113n- Verkehrslenkung nach Eröffnung der Anschlussstelle Adlershof - vertagt
+- TOP 13.3: Hinweisschilder zu Partner-Kommunen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ulrich Stahr)</span> - vertagt
+- TOP 13.4: R 1 im Bereich Aßmannstr./Rahnsdorfer Str. <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Peter Leiß)</span> - vertagt
+- TOP 13.5: Öffentliche Nutzung von Sportanlagen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Heike Kappel)</span> - vertagt
+- TOP 13.6: Instandsetzung von Kunst im öffentlichen Raum - vertagt
