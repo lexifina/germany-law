@@ -1,0 +1,52 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-06-24T14:00:00+02:00
+- Ende: 2005-06-24T00:00:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1594
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1594
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111522.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111522.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111522.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 3: Zulassung Sachverständige - zur Kenntnis genommen
+- TOP 4: Kon-Adenauer-Pl. Kooperatives Workshopverf. - zur Kenntnis genommen
+- TOP 5: Realschule In der Lohe - einstimmig beschlossen
+- TOP 6: Kolpingplatz - einstimmig beschlossen
+- TOP 7: Straßenfest auf der Hohestraße - einstimmig beschlossen
+- TOP 8: Ehrenhof - einstimmig beschlossen
+- TOP 9: Kö-Graben - einstimmig beschlossen
+- TOP 10: Oberkasseler Brücke - einstimmig beschlossen
+- TOP 11: Gneisenaustraße - einstimmig beschlossen
+- TOP 12: Heinrich-Heine-Allee/ Übergang Bolkerstr. - zur Kenntnis genommen
+- TOP 13: Fahrradabstellanlagen auf der Ratinger Str.
+- TOP 14: Information über Baustellen - zur Kenntnis genommen
+- TOP 15: Berger Allee / Karltor - mehrheitlich beschlossen
+- TOP 16: Nordstraße - mehrheitlich beschlossen
+- TOP 17: Kolpingplatz - zur Kenntnis genommen
+- TOP 18: Hauptbahnhofgebäude - einstimmig beschlossen
+- TOP 19: Kennedydamm - einstimmig beschlossen
+- TOP 20: Baum(ersatz)pflanzung Jülicher Straße - einstimmig beschlossen
+- TOP 21: Baumpflanzung Innenhof Feld-/Jägerhofstraße
+- TOP 22: Fahrradständer auf dem Marktplatz - einstimmig beschlossen
+- TOP 23: Kreisverkehr - einstimmig beschlossen
+- TOP 24: Hofgarten - einstimmig beschlossen
+- TOP 25: Parkstraße / Blücherstraße - einstimmig beschlossen
+- TOP 26: Konzertmuschel Hofgarten - einstimmig beschlossen
+- TOP 27: Worringer Platz - einstimmig beschlossen
+- TOP 28: Münsterplatz - einstimmig beschlossen
+- TOP 29: Einrichtung eines Arbeitskreises "JVA-Gelände" - einstimmig beschlossen
+- TOP 30: "g@rden" - zur Kenntnis genommen
+- TOP 31: Parkhaus Ratinger Straße - zur Kenntnis genommen
+- TOP 32: Sternstraße - zur Kenntnis genommen
+- TOP 33: Gustaf-Gründgens-Platz - zur Kenntnis genommen
+- TOP 34: Weihnachtsmärkte - zur Kenntnis genommen
+- TOP 35: Mitteilungen der Verwaltung - zur Kenntnis genommen
