@@ -1,0 +1,77 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2005-06-24T16:02:00+02:00
+- Ende: 2005-06-24T21:19:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/217
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/217
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gen. DE Nr. 22 Dienstreise Himmes
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Runder Tisch Schulen
+- TOP 4: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 5: Schulgebäudesanierung-überplan. Ausgabe
+- TOP 6: UA/PDS betr.: Zukunft d. Münstersch.
+- TOP 7: Eigenbetriebsähnliche Einrichtung Friedhöfe
+- TOP 8: Neuorganisation der städtischen Gebäudewirtschaft
+- TOP 9: Planfest.verf. f. d. Ausb. d. A 57 - Anh.verf.
+- TOP 10: Außenanlagen Feuerwehrgerätehaus Neuss-Uedesheim
+- TOP 11: Naturschutz als Artenkiller (RAT240605-02878)
+- TOP 12: Einwohnerfragestunde
+- TOP 13: Gründung Tochtergesellschaft von Regiobahn
+- TOP 14: Abdeckung der Unterdeckung bei NTTG
+- TOP 15: apl. OGS/Karl-Kreiner
+- TOP 16: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 17: Sanierung MW-Kanal Karlstraße
+- TOP 18: Gew. v. Zusch. an d. polit. Jugendorg.
+- TOP 19: Erhöh. d. Vergütung v. Schiedspersonen
+- TOP 20: Erschließung Südl. Furth, B-Plan 437 (Straßenbau)
+- TOP 21: Vorgez. Zwischenausbau Planstraße 2 (
+- TOP 22: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 23: Teilaufhebung B-Plan 219, Grundsatzbeschluss
+- TOP 24: B-Plan 390, Satzungsbeschluss
+- TOP 25: FNP-Änderung 107, Auslegungsbeschluss
+- TOP 26: Regenrückhaltebecken Hoisten
+- TOP 27: Werbeanlagensatzung, Anpassung
+- TOP 28: Erschließung südl. Furth, B-Plan 437 (Kanalbau)
+- TOP 29: Fußgängerquerung Nordkanalallee
+- TOP 30: B-Plan 59/1, Befreiung von Festsetzungen
+- TOP 31: B-Plan 443, Aufstellungsbeschluss
+- TOP 32: FNP-Änderung 98, Feststellungsbeschluss
+- TOP 33: Verkehrsführung Horremer Straße, Stufenkonzept
+- TOP 34: Außenanlagen Sporthalle Allerheiligen
+- TOP 35: KV Sudermann-/Tucherstr. (K 30), B-Plan 434
+- TOP 36: Stadtbildpflege-Plakette 2005
+- TOP 37: Wassersportzentrum im Neusser Süden
+- TOP 38: P+R-Platz am TÜV-Gelände
+- TOP 39: Begrünung Schutzwall, B-Plan Nr. 367
+- TOP 40: Kindertageseinrichtung Hüttenstraße/Weckhoven
+- TOP 41: Benutzungsordnung Stadtbibliothek
+- TOP 42: Horremer Straße / Haltestelle Am Steinacker
+- TOP 43: Realisierung Atelierhaus Hansastraße
+- TOP 44: Auflösung der Grundschule Weissenberg-West
+- TOP 45: Änderung der Rechtsverordnung
+- TOP 46: Schaffung neuer Plätze für Kinder unter 3 Jahren
+- TOP 47: Erw. Außenanl. St. Konrad-Schule
+- TOP 48: Ausbauplanung Kinderspielplatzprogramm 2005
+- TOP 49: Gebührenordnung Stadtbibliothek
+- TOP 50: Bezeichnung der St. Hubertus-GS u. GS Holzheim
+- TOP 51: Anhandgabeverf. Rennb. ,Sachstand
+- TOP 52: Benennung der „Südbrücke“ zwischen NE und D
+- TOP 53: Finanzierung Internationale Schule am Rhein
+- TOP 54: FDP: Stadtteilhelfer
+- TOP 55: UA/PDS: Einf. e. Sozialt. im VRR
+- TOP 56: OGS-Neuregelung der Elternbeiträge
+- TOP 57: Stv. Hick :Mängel Kölner/Bonner Straße
+- TOP 58: OGS-Festsetz. Verwalt.kostenpauschale f. d. Träger
+- TOP 59: Einwohnerfragestunde
+- TOP 60: Jüdisches Gemeindezentrum (RAT240605-02850.doc)
+- TOP 61: Stv. Jahn:Süd-Park (RAT240605-02831)
+- TOP 62: Verg. Stadtb.pflege-Plakette -Preisgericht-
+- TOP 63: Sanierung Münsterschule (RAT240605-02892.doc)
