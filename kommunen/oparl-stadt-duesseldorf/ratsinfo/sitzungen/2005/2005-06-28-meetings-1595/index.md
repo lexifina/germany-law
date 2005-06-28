@@ -1,0 +1,54 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-06-28T17:00:00+02:00
+- Ende: 2005-06-28T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1595
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1595
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111532.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111532.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111532.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Gestaltung Heinrich-Könn-Platz
+- TOP 4: Städtebauliches Konzept südliche Heyestraße
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Am Quellenbusch
+- TOP 7: 4-Fach-Sporthalle Gerresheim
+- TOP 8: DTTZ
+- TOP 9: Verkehrssicherheit auf der Morperstraße
+- TOP 10: Verkehrssicherheit auf der Heyestraße
+- TOP 11: Verlegung Haltestelle Dreherstraße
+- TOP 12: Sperrung der Ludenberger Straße 27.6. - 7.8.05
+- TOP 13: Radweg Ludenberger Straße
+- TOP 14: Aufstellung von Robidog-Behältern in Gerresheim
+- TOP 15: Sicherheit für Kinder Marthastr. u. Mühlenbergweg
+- TOP 16: Verkehrserschließung Nach den Mauresköthen
+- TOP 17: Spielstraßen "Auf der Gemarke" und "Schreberweg"
+- TOP 18: Nutzung des Grundstückes Knuppertsbrück
+- TOP 19: Sicherung Kinderspielplatz Apostelplatz
+- TOP 20: Bürgerbeteiligung - Verwaltungstransparenz
+- TOP 21: Parkplätze Heyestraße 99
+- TOP 22: Hohlweg Schäpershof - Rotthäuser Bachtal
+- TOP 23: Ausbau Gehwege Torfbruchstraße
+- TOP 24: Bus-Linie 733
+- TOP 25: Glashütte
+- TOP 26: Ampelschaltungen B 7
+- TOP 27: Kindertagesstättenplätze in Knittkuhl
+- TOP 28: L 404
+- TOP 29: Ludenberger Straße
+- TOP 30: Ludenberger Straße, Messergebnisse
+- TOP 31: Straßenbeleuchtung Knittkuhler Straße
+- TOP 32: LKW-Verkehrszählung
+- TOP 33: Wegebeleuchtung Heckteichstraße / Kamper Weg
+- TOP 34: Sanierung Ostpark
+- TOP 35: Öffentliche Beleuchtung
+- TOP 36: Infoangebot Grundwasserstände
+- TOP 37: Regenbergastraße
