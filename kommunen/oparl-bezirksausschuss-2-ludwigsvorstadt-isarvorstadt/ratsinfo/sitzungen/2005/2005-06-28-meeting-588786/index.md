@@ -1,0 +1,92 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2005-06-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/588786
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/588786
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Erhaltungssatzung, Erweiterung des Umgriffs
+- TOP .2.1.: BA-Budget
+- TOP .1.: Zuschuss aus dem BA-Budget für das Hinterhoffset der Teestube "komm"-Streetwork
+- TOP .2.: Zuschuss aus dem BA-Budget für die Aktion "Sichere Wiesn" 2005 - Plenumsbeschluss
+- TOP .2.2.: Kultur
+- TOP .1.: Konzept zur pflegerischen Versorgung älterer Menschen in München
+- TOP .2.: Dreimühlenstr. 34, Negativattest
+- TOP .3.: Fördeung Freier Träger durch das Stadtjugendamt: Zuschuss für die Nachbarschaft Westermühlbach
+- TOP .4.: Projekt "Kultur im Stadtquartier"; Beschlussvorlage für den Kulturausschuss am 21.07.2005
+- TOP .5.: Uhlandstr. 4, Verkauf der städtischen Immobilie
+- TOP .1.: Kulturelle und geschichtliche Veränderung der Münchner Stadtviertel durch Migrantinnen und Migranten
+- TOP .2.: Spielplatz Roecklplatz
+- TOP .3.: Stolpersteine
+- TOP .4.: AK Kulturpfade
+- TOP .5.: Neukonzipierung des Festes junger Erwchsener; Einladung zur Besprechung am 20.06.2005
+- TOP .6.: "Unsere Städte sind Bunt nicht braun" / Münchner BürgeriInnen Solidarisch mit Wunsiedel", Sternfahrt nach Wunsiedel am 20.08.2005
+- TOP .5.1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .3.1.: Bauvorhaben
+- TOP .1.: Aventinstr. 11, Umbau einer DG-Wohnung und Einabu einer Dachterrasse
+- TOP .2.: Ickstattstr. 12, Umabu der Hofunterkellerung
+- TOP .3.: Ickstattstr. 10, DG-Ausbau, Anbau von Balkonen u.a.m.
+- TOP .4.: Westermülstr. 25, DG-Ausbau, Anbau v. Liften u. Balkonen
+- TOP .5.: Buttermelcherstr. 4, DG-Aufstockung und Einbau eines Liftes
+- TOP .6.: Buttermelcherstr. 2 a, Aufstockung, Einbau eines Liftes sowie Anbau von Balkonen im 1. OG
+- TOP .7.: Jahnstr. 52, Einbau einer Dachterrasse und dreier Dachfenster
+- TOP .8.: Baumstr. 15, Ausbau eines Speicherraums zu Wohnraum, Einabu einer Dachgaube, Vergrößerung einer bestehenden Gaube
+- TOP .9.: Geyerstr. 22, DG-Ausbau mit Dachanhebung, Errichtung eines 2. Rettungsweges - Plenumsbeschluss
+- TOP .10.: Holzstr. 27, Nutzujngsänderung: Laden zu LAden mit Gastronomie
+- TOP .11.: Sonnenstr. 14, Sanierung und Umbau mit Teilaufstockung eines Büro- und Geschäftsgebäudes
+- TOP .12.: Schillerstr. 41, Errichtung einer Werbeanlage ( 1Plakattafel)
+- TOP .13.: Bavariaring 44, Umbau und Nutzungsänderungen in einem Bürogebäude
+- TOP .14.: Maistr. 26, Aufstockung und DG-Ausbau des Wohn- und Geschäftshauses (Maistr. 26/ Tumblingerstr. 1); Lift- und Balkonanbau - Plenumsbeschluss
+- TOP .15.: Schmellerstr. 6, Balkonanbau im 2. und 3. OG - Plenumsbeschluss
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Planung einer Fernwärmeversorgungsleitung für das KVR Ruppertstraße
+- TOP 3.2.2.: Gestaltung Gärtnerplatz : Beschlussvorlage für den Bauausschuss am 14.07.2005 - Plenumsbeschluss
+- TOP 3.3: Baumschutz
+- TOP 3.3.1.: Herzog-Heinrich-Str. 7, Fällung von 2 Eiben wegen Verschattung von Büroräumen
+- TOP 3.3.2.: Bavariaring 37, Fällung von 1 Hainbuche
+- TOP 3.3.1.: Gestaltung Gärtnerplatz - Verwendung anderer Glühbirnen
+- TOP 3.3.5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP 3.3.1.: Erstellung einer Freischankflächensatzung
+- TOP 3.3.3.1.: Sperrzeitangelegenheiten
+- TOP 3.3.1.: Kellerlokal "Bierhimmel, Antrag auf Sperrzeitaufhebung
+- TOP 3.3.3.2.: Freischankflächen
+- TOP 3.3.1.: Gaststätte "Für Freunde" (ehem. 10 vorne) , Recihenbachstr. 33 : Neuantrag
+- TOP 3.3.2.: "Woanders-Club", Sonnenstr. 12, Betriebszeitverlängerung für die Freischankfläche
+- TOP 3.3.3.: SSW "Viva Clara", Ickstattstr. 13
+- TOP 3.3.4.: Gaststätte "Isar-Lounge, Museumsinsel 1, Betriebszeitverlängerung für den Wirtsgarten bis 1.00 Uhr
+- TOP 3.3.5.: Gaststätte "POP", Baaderstr. 49 (Neuantrag) - Plenumsbeschluss
+- TOP 3.3.3.3.: Warenstellagen
+- TOP 3.3.1.: Bayerstr. 8 (Koffer, Elektroartikel, Geschenkartikel)
+- TOP 3.3.2.: Landwehrstr. 39, Sonnenbrillen, Handyzubehör, Schirme, Koffer
+- TOP 3.3.3.4.: Verkehr
+- TOP 3.3.1.: Kapuzinerstraße/Penny MArkt, Einrichtung einer LAdezone mit eingeschränktem Halteverbot
+- TOP 3.6.2.: Veranstaltungen
+- TOP 3.5.1.: Pfarrfest in der Deutingerstraße und Fahrzeugsegnung in der Wittelsbacher Straße am 24.07.2005
+- TOP 3.6: Theresienwiese
+- TOP 3.6.1.: Rewe-Fest
+- TOP 3.6.2.: Bau von Fundamenten für das Weinzelt
+- TOP 3.6.1.: Absicherung der Baustellen an Radwegen entlang der Lindwurmstraße
+- TOP 3.6.2.: Fehlende Sperr-Markierung in der Grimmstraße
+- TOP 3.6.3.: Beseitigung des Elektro-Häuschens auf der Theresienwiese
+- TOP 3.6.4.: Hundekottüten auf der Theresienwiese
+- TOP 3.6.5.1: Berichte der Beauftragten ( AK Theresienwiese)
+- TOP 3.6.1.: Termine
+- TOP 3.6.3.: Sonstiges / Verschiedenes
+- TOP 3.6.3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP 3.6.3.2.: Berichte aus den anderen BA
+- TOP 3.6.3.3.: Bericht des Internetbeauftragten
+- TOP 3.6.5.: Sonstiges
+- TOP 3.3.1.: Anträge
+- TOP 3.3.2.: Entscheidungen
+- TOP 3.3.3.: Anhörungen
+- TOP 3.6.4.: Unterrichtungen (siehe Infos)
