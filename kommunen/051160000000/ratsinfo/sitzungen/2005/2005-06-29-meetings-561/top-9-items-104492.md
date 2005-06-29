@@ -1,0 +1,8 @@
+# TOP 9: Entlastung der Sparkassenorgane
+
+- Sitzung: Rat (2005-06-29)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/104492
+- Ergebnis: Einstimmiger Beschluss
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/3595
