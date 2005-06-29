@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2005-06-29T15:00:00+02:00
+- Ende: 2005-06-29T19:45:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/561
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/561
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022209.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022209.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022209.pdf
+
+## Tagesordnung
+
+- TOP 1: Nierderschrift - Kenntnisnahme
+- TOP 2: Mandatsnierderlegung - Kenntnisnahme
+- TOP 3: Amtseinführung eines Beigeordneten - Kenntnisnahme
+- TOP 4: Wahl einer sachkundigen Einwohnerin - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 5: Stadtsparkasse - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 6: Jahresrechnung 2004 - Einstimmiger Beschluss
+- TOP 7: Über- und außerplanmäßige Ausgaben HJ 2004 - Kenntnisnahme
+- TOP 8: Bekanntgabe des Abschlussergebnisses - Einstimmiger Beschluss
+- TOP 9: Entlastung der Sparkassenorgane - Einstimmiger Beschluss
+- TOP 10: Neue Investitionen - Einstimmiger Beschluss
+- TOP 11: Aufsichtsrat Kreiswerke GmbH - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 12: Beteiligung der NVV AG an NiederrheinWasser GmbH - Einstimmiger Beschluss
+- TOP 13: Laubenbaudarlehen 2005 - Einstimmiger Beschluss
+- TOP 14: Zweiter Nachtrag zur Hundesteuersatzung - Einstimmiger Beschluss
+- TOP 15: Änderung des Kommunalverfassungsrechts - Einstimmiger Beschluss
+- TOP 16: 2. Änderungs-VO Offenhalten Verkaufsstellen - Mit Stimmenmehrheit beschlossen
+- TOP 17: Schiedsamtswahl Stadtmitte - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 18: Sportpauschale - Einstimmiger Beschluss
+- TOP 19: Sportpauschale 2005 - Einstimmiger Beschluss
+- TOP 20: Hallenbäder - Mit Stimmenmehrheit beschlossen
+- TOP 21: Aufgabe der Hallenbäder Berliner Platz und Neuwerk - Mit Stimmenmehrheit beschlossen
+- TOP 22: Anpassung Betriebsführungsvertrag - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 23: Aufgabe der sportlichen Nutzung des Böklebergs - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 24: Kommunale Entwicklungszusammenarbeit - Einstimmiger Beschluss
+- TOP 25: Errichtung einer 2gruppigen Tageseinrichtung - Einstimmiger Beschluss
+- TOP 26: 2. NT Betriebssatzung Gebäudereinigung - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 27: Benennung des neuen Teilstücks der B 59 n - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 28: 1. Fortschreibung Nahverkehrsplan - Einstimmiger Beschluss
+- TOP 29: Betreuung für Kinder bis zu drei Jahren - Einstimmiger Beschluss
+- TOP 30: Umbesetzung von Ausschüssen - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 31: Umbesetzung Ausschüsse - Einstimmiger Beschluss
+- TOP 32: Ausschüsse - Einstimmiger Beschluss
+- TOP 33: Vertretung - Einstimmiger Beschluss
+- TOP 34: Haus Westland - Kenntnisnahme
+- TOP 35: Schauspielhaus - Kenntnisnahme
+- TOP 36: Schauspielhaus - Kenntnisnahme
+- TOP 37: Anfragen - Zur Kenntnis genommen
