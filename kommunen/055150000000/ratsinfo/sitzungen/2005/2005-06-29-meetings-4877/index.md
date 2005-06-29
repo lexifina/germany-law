@@ -1,0 +1,87 @@
+# 8. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-06-29T18:07:00+02:00
+- Ende: 2005-06-29T23:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/4877
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/4877
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00219591.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 5.1: Offene und Gebundene Ganztagsgrundschulen
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 7.1: "Keine Schultüte ohne Deutschstunde - Vorschulische Sprachförderung für jedes Kind" - verwiesen
+- TOP 8: Handlungskonzept zur Verbesserung der Sauberkeit und Ordnung in Münster - mehrheitlich geändert beschlossen
+- TOP 9: Zukünftige Entwicklung der städtischen Bäderlandschaft - mehrheitlich geändert beschlossen
+- TOP 10: Integriertes Handlungskonzept / Städtebaulicher Maßnahmenplan gemäß § 171 e Baugesetzbuch - einstimmig geändert beschlossen
+- TOP 11: Verfahrensvorlage zur Beschaffung einer provisorischen Parkpalette auf dem Parkplatz Georgskommende - mehrheitlich geändert beschlossen
+- TOP 12: Pakt für den Sport in Münster - einstimmig beschlossen
+- TOP 13: Sportanlage Feldstiege in Münster-Nienberge, - einstimmig beschlossen
+- TOP 14: Sportanlage Coppenrathsweg, Errichtungs- und Raumprogrammbeschluss - mehrheitlich beschlossen
+- TOP 15: Wohnsiedlung "Osthuesheide" - einstimmig beschlossen
+- TOP 16: "Partnership" - mehrheitlich beschlossen
+- TOP 17: Übertragung Realschule Kreuzviertel, Realisierung Planungsvorschlag, Gründung Projektgesellschaft - einstimmig beschlossen
+- TOP 18: Umsatzsteuernachzahlungen der westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - mehrheitlich beschlossen
+- TOP 19: Demographischer Wandel in Münster - Konsequenzen und Optionen - einstimmig beschlossen
+- TOP 20: Abendgymnasium der Stadt Münster, Weiterbildungskolleg - einstimmig beschlossen
+- TOP 21: Kindertagesbetreuungsbericht 2005 - einstimmig beschlossen
+- TOP 22: Ausbau der Kindertagesbetreuungsangebote für Kinder unter drei Jahren (u-3-Programm) - einstimmig beschlossen
+- TOP 23: Modellprojekt "Wohnen für Hilfe" - einstimmig beschlossen
+- TOP 24: Sanierung der Altablagerung Kämpe in Telgte - einstimmig beschlossen
+- TOP 25: Förderprogramm Energieeinsparung und Altbausanierung in der Stadt Münster - mehrheitlich beschlossen
+- TOP 26: Neufassung der Zuständigkeitsordnung und Anpassung der Hauptsatzung, der Geschäftsordnung sowie weit - mehrheitlich geändert beschlossen
+- TOP 27: Entlastung für die Jahresrechnung 2004 - einstimmig beschlossen
+- TOP 28: Jahresabschlüsse
+- TOP 28.1: Feststellung des Jahresabschlusses der citeq zum 31.12.2004 - einstimmig beschlossen
+- TOP 28.2: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2004 - einstimmig beschlossen
+- TOP 28.3: Jahresabschlüsse der Stiftungen für das Wirtschaftsjahr 2004 - einstimmig beschlossen
+- TOP 28.4: Jahresabschluss des Wirtschaftsjahres 2004 der Klarastift Service GmbH - einstimmig beschlossen
+- TOP 28.5: Jahresabschluss des Wirtschaftsjahres 2004 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 29: Jahresbericht 2003/2004 des Kriminalpräventiven Rates Münster - zur Kenntnis genommen
+- TOP 30: Jahresbericht 2004 der Feuerwehr Münster - zur Kenntnis genommen
+- TOP 31: Beteiligung der Stadtwerke Münster GmbH an dem Projekt "InterPorts" GbR - einstimmig beschlossen
+- TOP 32: Bauleitplanung
+- TOP 32.1: Stadtbezirk Münster-Mitte
+- TOP 32.1.1: 1. Änderung des Bebauungsplanes Nr. 114 Teilabschnitt IV: Zentrum Nord - mittlerer Bereich - einstimmig beschlossen
+- TOP 32.1.2: Bebauungsplan Nr. 490: Sperlichstraße / Von-Stauffenberg-Straße - einstimmig beschlossen
+- TOP 32.2: Stadtbezirk Münster-West
+- TOP 32.2.1: 9. Änderung des Flächennutzungsplanes für den Bereich Hof Schultmann - einstimmig beschlossen
+- TOP 32.2.2: 2. Änderung des Bebauungsplanes Nr. 396: Mecklenbeck - Weseler Straße / Dingbängerweg / Egelshove - einstimmig beschlossen
+- TOP 32.2.3: Bebauungsplan Nr. 498: Roxel - Gewerbegebiet nördlich Nottulner Landweg / Edelkampsfeld - einstimmig beschlossen
+- TOP 32.3: Stadtbezirk Münster-Hiltrup
+- TOP 32.3.1: Bebauungsplan Nr. 496: Hiltrup - Landwirtschaftsverlag / östlich Hülsebrockstraße - einstimmig beschlossen
+- TOP 32.3.2: 8. Änderung des Bebauungsplanes HI 16a: Hiltrup - Emmerbachtal - einstimmig beschlossen
+- TOP 32.3.3: 7. Änderung des Flächennutzungsplanes für den Bereich Meesenstiege / südlich Sternkamp - mehrheitlich beschlossen
+- TOP 32.4: Stadtbezirk Münster-Nord
+- TOP 32.4.1: 1. Änderung des Bebauungsplanes Nr. 106 Teilabschnitt XV: Kinderhaus - Haubrockweg - einstimmig beschlossen
+- TOP 32.5: Stadtbezirk Münster-Ost
+- TOP 32.5.1: Bebauungsplan Nr. 462: Gelmer - Gelmerheide / Zur Eckernheide - einstimmig beschlossen
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 33.1: Versorgung mit Lernmitteln sicherstellen - verwiesen
+- TOP 33.2: Ein Brückenkonzept für Münster - verwiesen
+- TOP 33.3: Demokratische Mitwirkungsrechte der Seniorinnen und Senioren stärken - verwiesen
+- TOP 34: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 34.1: Verwertungskonzept für die zukünftige Nutzung des Areals des heutigen Steingymnasiums - verwiesen
+- TOP 34.2: Münster braucht wieder einen Münster-Pass! - verwiesen
+- TOP 34.3: Feierlicher städtischer Empfang für Neueingebürgerte - verwiesen
+- TOP 34.4: Eine Perspektive für den Lindenhof - verwiesen
+- TOP 34.5: Vom Zuschauer zum Mitspieler - Ein Jugendparlament für Münster schaffen! - verwiesen
+- TOP 34.6: Platz für Leistung und Jugend - ein Kunstrasenfeld für den SC Preußen Münster - verwiesen
+- TOP 34.7: Aktive Seniorenarbeit ermöglichen - verwiesen
+- TOP 34.8: "Bildung stärken" - Für Ganztagsgrundschulen werben - verwiesen
+- TOP 34.9: Leitantrag: Entwicklung der RB63 (Münster-Coesfeld) als erste Stadtbahnstrecke in Münster - verwiesen
+- TOP 34.10: Sportgelegenheiten an der Wienburgstraße - verwiesen
+- TOP 34.11: Frische Ideen für den ¿Lindenhof¿ - verwiesen
+- TOP 34.12: Sportanlage Sentruper Höhe - überfällige Sanierung endlich beginnen - verwiesen
+- TOP 35: Verschiedenes
