@@ -1,0 +1,93 @@
+# 5. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-06-29T17:05:00+02:00
+- Ende: 2005-06-29T22:24:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5151
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5151
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00219588.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der SPD-Fraktion Nr. 0007/2005 vom 08.03.2005 "Ein Schülerticket für Münster: Freiwillig, ger - einstimmig beschlossen
+- TOP 2.2: Zukünftige Verwertung des Grundstücks des "Freiherr-vom-Stein-Gymnasiums" am Hindenburgplatz - einstimmig beschlossen
+- TOP 2.3: Soziales Engagement - eine Ehrensache für Münsters Schülerinnen und Schüler - einstimmig beschlossen
+- TOP 2.4: Antrag der Fraktion Bündnis 90/Die Grünen/ GAL an den Rat A-R/0013/2005 "Kommunale Pflegeplanung und - einstimmig beschlossen
+- TOP 2.5: Münster - Stadt des Reitsports - einstimmig beschlossen
+- TOP 2.6: Feinstaub, Einleitung von Minderungsmaßnahmen in Münster - einstimmig beschlossen
+- TOP 3: Neugestaltung des "Picasso-Platzes" - einstimmig beschlossen
+- TOP 4: Anregung gemäß § 24 GO NW: "Keine Urantransporte durch Münster" - mehrheitlich beschlossen
+- TOP 5: Solarkraftwerke auf städtischen Dächern - einstimmig beschlossen
+- TOP 6: Jahresabschlüsse (Beschlusszuständigkeit Hauptausschuss)
+- TOP 6.1: Jahresabschluss 2004 der AirportPark FMO GmbH - einstimmig beschlossen
+- TOP 6.2: Jahresabschluss 2004 der Wohn+Stadtbau Wohnungsunternehmen der Stadt Münster GmbH (Wohn + Stadtbau G - einstimmig beschlossen
+- TOP 6.3: Jahresabschluss 2004 der Westfälische Bauindustrie GmbH - einstimmig beschlossen
+- TOP 6.4: Jahresabschluss 2004 der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - einstimmig beschlossen
+- TOP 6.5: Jahresabschluss 2004 der FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH) - einstimmig beschlossen
+- TOP 6.6: Jahresabschlüsse 2003 und 2004 der Wirtschaftsförderung Münster GmbH - einstimmig beschlossen
+- TOP 6.7: Jahresabschluss 2004 der Technologiepark Münster GmbH - einstimmig beschlossen
+- TOP 6.8: Jahresabschluss 2004 der Theaterhaus Pumpenhaus gGmbH - einstimmig beschlossen
+- TOP 6.9: Jahresabschluss 2004 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 6.10: Jahresabschluss 2004 der ICB Institut für Chemo- und Biosensorik GmbH - einstimmig beschlossen
+- TOP 7: Kommunale Entwicklungszusammenarbeit - einstimmig beschlossen
+- TOP 8: Errichtung einer partiellen Tribünenüberdachung in der Sportanlage Roxel durch den BSV Roxel e. V. - einstimmig beschlossen
+- TOP 9: Berichtsvorlagen an den Hauptausschuss
+- TOP 9.1: Förderung von Stadterneuerungsprojekten - Sachstand 2005 - zur Kenntnis genommen
+- TOP 9.2: Geschäftsbericht 2004 des Sozialamts - zur Kenntnis genommen
+- TOP 9.3: Behindertengleichstellungsgesetz - zur Kenntnis genommen
+- TOP 9.4: Bewilligung - zur Kenntnis genommen
+- TOP 10: Berichtsvorlagen an den Rat
+- TOP 10.1: Jahresbericht 2003/2004 des Kriminalpräventiven Rates Münster - zur Kenntnis genommen
+- TOP 10.2: Jahresbericht 2004 der Feuerwehr Münster - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 11: Handlungskonzept zur Verbesserung der Sauberkeit und Ordnung in Münster - ohne Beschlussfassung geschoben
+- TOP 12: Zukünftige Entwicklung der städtischen Bäderlandschaft - ohne Beschlussfassung geschoben
+- TOP 13: Integriertes Handlungskonzept / Städtebaulicher Maßnahmenplan gemäß § 171 e Baugesetzbuch - ohne Beschlussfassung geschoben
+- TOP 14: Verfahrensvorlage zur Beschaffung einer provisorischen Parkpalette auf dem Parkplatz Georgskommende - ohne Beschlussfassung geschoben
+- TOP 15: Pakt für den Sport in Münster - einstimmig beschlossen
+- TOP 16: Sportanlage Feldstiege in Münster-Nienberge, - einstimmig beschlossen
+- TOP 17: Sportanlage Coppenrathsweg, Errichtungs- und Raumprogrammbeschluss - einstimmig beschlossen
+- TOP 18: Wohnsiedlung "Osthuesheide" - einstimmig beschlossen
+- TOP 19: "Partnership" - ohne Beschlussfassung geschoben
+- TOP 20: Übertragung Realschule Kreuzviertel, Realisierung Planungsvorschlag, Gründung Projektgesellschaft - einstimmig beschlossen
+- TOP 21: Umsatzsteuernachzahlungen der westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - einstimmig beschlossen
+- TOP 22: Demographischer Wandel in Münster - Konsequenzen und Optionen - einstimmig beschlossen
+- TOP 23: Abendgymnasium der Stadt Münster, Weiterbildungskolleg - einstimmig beschlossen
+- TOP 24: Kindertagesbetreuungsbericht 2005 - einstimmig beschlossen
+- TOP 25: Ausbau der Kindertagesbetreuungsangebote für Kinder unter drei Jahren (u-3-Programm) - einstimmig beschlossen
+- TOP 26: Modellprojekt "Wohnen für Hilfe" - ohne Beschlussfassung geschoben
+- TOP 27: Sanierung der Altablagerung Kämpe in Telgte - einstimmig beschlossen
+- TOP 28: Förderprogramm Energieeinsparung und Altbausanierung in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 29: Neufassung der Zuständigkeitsordnung und Anpassung der Hauptsatzung, der Geschäftsordnung sowie weit - ohne Beschlussfassung geschoben
+- TOP 30: Entlastung für die Jahresrechnung 2004 - einstimmig beschlossen
+- TOP 31: Jahresabschlüsse (Beschlusszuständigkeit Rat)
+- TOP 31.1: Feststellung des Jahresabschlusses der citeq zum 31.12.2004 - einstimmig beschlossen
+- TOP 31.2: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2004 - einstimmig beschlossen
+- TOP 31.3: Jahresabschlüsse der Stiftungen für das Wirtschaftsjahr 2004 - einstimmig beschlossen
+- TOP 31.4: Jahresabschluss des Wirtschaftsjahres 2004 der Klarastift Service GmbH - einstimmig beschlossen
+- TOP 31.5: Jahresabschluss des Wirtschaftsjahres 2004 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 32: Beteiligung der Stadtwerke Münster GmbH an dem Projekt "InterPorts" GbR - einstimmig beschlossen
+- TOP 33: Bauleitplanung
+- TOP 33.1: Stadtbezirk Mitte
+- TOP 33.1.1: 1. Änderung des Bebauungsplanes Nr. 114 Teilabschnitt IV: Zentrum Nord - mittlerer Bereich - einstimmig beschlossen
+- TOP 33.1.2: Bebauungsplan Nr. 490: Sperlichstraße / Von-Stauffenberg-Straße - ohne Beschlussfassung geschoben
+- TOP 33.2: Stadtbezirk West
+- TOP 33.2.1: 9. Änderung des Flächennutzungsplanes für den Bereich Hof Schultmann - ohne Beschlussfassung geschoben
+- TOP 33.2.2: 2. Änderung des Bebauungsplanes Nr. 396: Mecklenbeck - Weseler Straße / Dingbängerweg / Egelshove - ohne Beschlussfassung geschoben
+- TOP 33.2.3: Bebauungsplan Nr. 498: Roxel - Gewerbegebiet nördlich Nottulner Landweg / Edelkampsfeld - einstimmig beschlossen
+- TOP 33.3: Stadtbezirk Hiltrup
+- TOP 33.3.1: Bebauungsplan Nr. 496: Hiltrup - Landwirtschaftsverlag / östlich Hülsebrockstraße - einstimmig beschlossen
+- TOP 33.3.2: 8. Änderung des Bebauungsplanes HI 16a: Hiltrup - Emmerbachtal - einstimmig beschlossen
+- TOP 33.3.3: 7. Änderung des Flächennutzungsplanes für den Bereich Meesenstiege / südlich Sternkamp - mehrheitlich beschlossen
+- TOP 33.4: Stadtbezirk Nord
+- TOP 33.4.1: 1. Änderung des Bebauungsplanes Nr. 106 Teilabschnitt XV: Kinderhaus - Haubrockweg - einstimmig beschlossen
+- TOP 33.5: Stadtbezirk Ost
+- TOP 33.5.1: Bebauungsplan Nr. 462: Gelmer - Gelmerheide / Zur Eckernheide - ohne Beschlussfassung geschoben
+- TOP 34: Verschiedenes
