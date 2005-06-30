@@ -1,0 +1,79 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-06-30T14:00:00+02:00
+- Ende: 2005-06-30T21:51:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1454
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1454
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111889.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111889.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111889.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpfl. RM - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - zur Kenntnis genommen
+- TOP 3: Genehmigung NS - zur Kenntnis genommen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Aktuelle Anfr. Kahl.:Haushaltssperre - zur Kenntnis genommen
+- TOP 6: Akt.Anfr.: Kahl.:Rheinbahn Partikelfilter - zur Kenntnis genommen
+- TOP 7: Akt. Anfr: Laubenburg.: Arenainterview - zur Kenntnis genommen
+- TOP 8: Aktuelle Anfr: Laubenburg: Arenainterview II - zur Kenntnis genommen
+- TOP 9: Anfragen - zur Kenntnis genommen
+- TOP 10: Anfr. CDU: Umsetzung Hartz IV - zur Kenntnis genommen
+- TOP 11: Anfr. FDP: Kindergartenplätze - zur Kenntnis genommen
+- TOP 12: Anfr. CDU: Prävention Jugendhilfe - zur Kenntnis genommen
+- TOP 13: Anfr. FDP: Fortbildung städt. MA - zur Kenntnis genommen
+- TOP 14: Anfr. RH Laubenburg:Fragen zum Rating - zur Kenntnis genommen
+- TOP 15: Anträge - zur Kenntnis genommen
+- TOP 16: Antr. SPD: Entwicklung Flughafen - mehrheitlich abgelehnt
+- TOP 17: Änd.-antr. CDU: Flughafen - mehrheitlich beschlossen
+- TOP 18: Antr. Bü90: Wohnen im Alter - mehrheitlich abgelehnt
+- TOP 19: Änd.-antr. CDU: Wohnen im Alter - mehrheitlich beschlossen
+- TOP 20: Antr. Bü90: Umsetzung der Hartz-Reform vor Ort - mehrheitlich abgelehnt
+- TOP 21: Änd.-antr. CDU: Umsetzung der Hartz-Reform vor Ort - mehrheitlich beschlossen
+- TOP 22: 01/216/2005 - mehrheitlich abgelehnt
+- TOP 23: Antr:Bü90/Grü:Erm. VRR-Ticket - mehrheitlich abgelehnt
+- TOP 24: Antr. SPD/Bü90/FDP: Glashütte - zur Kenntnis genommen
+- TOP 25: Interfrakt. Antr. Glashütte - einstimmig beschlossen
+- TOP 26: Prüfung LTU- Arena - einstimmig beschlossen
+- TOP 27: 01/217/2005 - mehrheitlich abgelehnt
+- TOP 28: Gen. üpl u. apl. Ausgaben - mehrheitlich beschlossen
+- TOP 29: üpl-Mittel:Beschaffung von IT-Produkten - einstimmig beschlossen
+- TOP 30: Realschule In der Lohe - einstimmig beschlossen
+- TOP 31: Bauherrenvorlage zur Herbeiführung eines Bau- und - einstimmig beschlossen
+- TOP 32: Umwandlung von Parkplätzen an der Kunsthalle in Ve - mehrheitlich beschlossen
+- TOP 33: Woermannstraße B+F - einstimmig beschlossen
+- TOP 34: Kunstrasen Windscheidstraße - einstimmig beschlossen
+- TOP 35: B+F Hansaallee - einstimmig beschlossen
+- TOP 36: 4-Fach-Sporthalle Gerresheim - einstimmig beschlossen
+- TOP 37: DTTZ - einstimmig beschlossen
+- TOP 38: Stadtteilzentrum Bilk - zur Kenntnis genommen
+- TOP 39: Berufskolleg Redinghovenstraße 20 - einstimmig beschlossen
+- TOP 40: Aachener Platz - einstimmig beschlossen
+- TOP 41: Neuregelungen des Düsseldorfer Kleingartenwesens - mehrheitlich beschlossen
+- TOP 42: Umbesetzungen - einstimmig beschlossen
+- TOP 43: Schiedsperson - einstimmig beschlossen
+- TOP 44: 13. Ordnung zur Änderung der Benutzungsordnung der - zur Kenntnis genommen
+- TOP 45: 13. Ordnung zur Änderung der Benutzungsordnung - einstimmig beschlossen
+- TOP 46: Änderung der Satzung der Anton und Katharina Kippe - einstimmig beschlossen
+- TOP 47: Gesamtschule Kikweg - mehrheitlich beschlossen
+- TOP 48: Bericht des Instituts für Denkmalschutz und Denkma - einstimmig beschlossen
+- TOP 49: Verleihung der Förderpreise für bildende Kunst, da - einstimmig beschlossen
+- TOP 50: Verleihung des Förderpreises für Wissenschaften 20 - einstimmig beschlossen
+- TOP 51: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 52: Plan Nr. 5379/58 beiderseits Josef-Gockeln-Straße - einstimmig beschlossen
+- TOP 53: FNP-Änderung Nr. 113 - Südwestl. Königsberger Str. - einstimmig beschlossen
+- TOP 54: FNP-Änderung Nr. 83 - Am Mühlenberg - einstimmig beschlossen
+- TOP 55: FNPÄ86-Ddorf Arcaden-Anregungen; Plan - zur Kenntnis genommen
+- TOP 56: Änd.-antr. Bü90: FNP Arcaden - mehrheitlich abgelehnt
+- TOP 57: BPl5475/54-Arcaden-Anreg. Abstufung LStr. Satzung - zur Kenntnis genommen
+- TOP 58: Ändantr. FDP: Arcaden - mehrheitlich beschlossen
+- TOP 59: B-Plan Nr. 6366/19 - S-Bahn-HP Hellerhof - einstimmig beschlossen
+- TOP 60: BPl5682/13-Theodorstr/A44-Anrg. Änd. Satzung - einstimmig beschlossen
+- TOP 61: Düsseldorf Arcaden: Baulast - zur Kenntnis genommen
+- TOP 62: Ersatzspielstätte für die Deutsche Oper am Rhein w - mehrheitlich beschlossen
