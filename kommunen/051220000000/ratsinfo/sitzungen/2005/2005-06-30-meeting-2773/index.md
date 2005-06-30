@@ -1,0 +1,65 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2005-06-30T16:00:00+02:00
+- Ende: 2005-06-30T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZeTaScZ6XVX4fKIc8OglTTE
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/2773
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZyD4PYTzdDm8sHYi2mvoeIi5Kc-ejbrzfzNIhpRjZNf/Oeffentliche_Niederschrift_Rat_30.06.2005.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Jahresabschluss zum 31.12.2004 mit Gewinn- und Verlustrechnung für das Jahr 2004
+- TOP 2: Jahresabschluss zum 31. Dezember 2004 mit Gewinn- und Verlustrechnung für das
+- TOP 3: Jahresabschluss zum 31. Dezember 2004 mit Gewinn- und Verlustrechnung für das
+- TOP 4: KGSt-Mitgliederversammlung und -Forum
+- TOP 5: Vorschlag für die Benennung eines Vertreters in der Veranstaltergemeinschaft
+- TOP 6: Bergische Weiterbildung
+- TOP 7: Bergische Weiterbildung
+- TOP 8: Regionale 2006 Projekt "Erlebnis Industriekultur"
+- TOP 9: Erhöhung der Konzerteintrittspreise zur Spielzeit 2005/2006
+- TOP 10: Erhöhung der Theatereintrittspreise zur Spielzeit 2005/2006
+- TOP 11: Antrag der BfS-Ratsfraktion vom 31.05.2005
+- TOP 12: Höchstbetrag der Kassenkredite
+- TOP 13: Verbesserung der Qualität des Schoko-Tickets
+- TOP 14: Einführung eines "Sozial-Tickets" beim VRR
+- TOP 15: Geplante Preiserhöhung im VRR
+- TOP 16: Verkaufsoffene Sonntage im 2. Halbjahr 2005
+- TOP 17: Duplikat von Benennung von Mitgliedern für den Finanzausschuss und den Investitions- und Bauausschuss des Wupperverbandes
+- TOP 18: Abfallwirtschaftskonzept der Stadt Solingen
+- TOP 19: Jahresabschluss 2003 des Vermögensbetriebes der Stadt Solingen
+- TOP 20: Übertragung einzelner Grundstücke der Kernverwaltung auf den VBS
+- TOP 21: Berichtigung des Sondervermögens VBS
+- TOP 22: Proberäume in städtischen Gebäuden
+- TOP 23: Städt. Tageseinrichtung für Kinder Burg, Hasencleverstr. 71
+- TOP 24: I. Ordnung zur Änderung der Ordnung über die Erhebung
+- TOP 25: Jahresabschluss des Städtischen Klinikums Solingen per 31.12.2004
+- TOP 26: Bergische Kooperation
+- TOP 27: Offene Ganztagsschule im Primarbereich (oGS)
+- TOP 28: offene Ganztagsschule im Primarbereich (oGS)
+- TOP 29: Umbesetzung im Beirat Untere Landschaftsbehörde
+- TOP 30: Übertragung der Befugnis zur selbständigen Durchführung von vereinfachten Umlegungsverfahren
+- TOP 31: Künftiges Bedienungskonzept auf der DB-Strecke 458 / Regionalbahn (RB) 47 (Wuppertal Hbf - Remscheid - Solingen-Ohligs)
+- TOP 32: Bauleitplanung Beethovenstraße/Mangenberger Straße
+- TOP 33: Bauleitplanung Klingenstraße/Zietenstraße
+- TOP 34: Bauleitplanung Klingenstraße/Zietenstraße
+- TOP 35: Bauleitplanung Frankfurter Damm / Parsevalstraße
+- TOP 36: Bauleitplanung Brückenpark Müngsten
+- TOP 37: Verkehrssituation Ufergarten / Eiland
+- TOP 38: Auswirkungen der Umsetzung des SGB II (Hartz IV)
+- TOP 39: Zusatzfrage von RM Knoche zur Beantwortung der Anfrage der Ratsgruppe Solingen AKTIV zum Abonnement der Zeitschrift "Der Schlesier"
+- TOP 40: Anfrage der Fraktion Bündnis 90/Die Grünen - offene Liste vom 04.05.2005 zum Betreuungsrecht
+- TOP 41: Entwicklung der Besucherzahlen nach Erhöhung der Theater- und Konzerteintrittspreise
+- TOP 42: "Energreen in Solingen"
+- TOP 43: Bericht des Seniorenbeirates der Stadt Solingen
+- TOP 44: Geschäftskreis der Beigeordneten
+- TOP 45: Sachstandsbericht über laufende Kooperationsverhandlungen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 2: Abschluss einer Abstimmungs- und Verpflichtungserklärung
+- TOP 3: Verkauf einer Grundstücksteilfläche
