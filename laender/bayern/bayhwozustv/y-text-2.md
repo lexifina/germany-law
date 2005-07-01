@@ -1,0 +1,4 @@
+1. § 124b Satz 1 des Gesetzes zur Ordnung des Handwerks (Handwerksordnung) in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl I S. 3074), zuletzt geändert durch Art. 35b des Gesetzes vom 24. Dezember 2003 (BGBl I S. 2954),
+die Bayerische Staatsregierung,
+2. § 16 Abs. 3 Satz 1 und § 113 Abs. 3 Satz 3 und Abs. 4 Satz 2 des Gesetzes zur Ordnung des Handwerks (Handwerksordnung) in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl I S. 3074), zuletzt geändert durch Art. 35b des Gesetzes vom 24. Dezember 2003 (BGBl I S. 2954) in Verbindung mit § 5 Nr. 4 der Verordnung über die Zuständigkeit zum Erlass von Rechtsverordnungen (Delegationsverordnung – DelV–) vom 15. Juni 2004 (GVBl S. 239, BayRS 103–2–S)
+das Bayerische Staatsministerium für Wirtschaft, Infrastruktur, Verkehr und Technologie
