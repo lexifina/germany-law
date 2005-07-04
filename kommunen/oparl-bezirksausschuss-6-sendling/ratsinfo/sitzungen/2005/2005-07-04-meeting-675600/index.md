@@ -1,0 +1,55 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2005-07-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/675600
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/675600
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Sozialbürgerhäuser für die Stadtbezirke 6 und 7; Vertreter des Sozialreferates
+- TOP 3.: Gaststättenangelegenheiten
+- TOP 3.1.: Gaststätte Dive Delta; Aberlestr. 29
+- TOP 3.2.: Freischankfläche ; Gaststätte McDonald's; Am Harras 12
+- TOP 3.3.: Freischankfläche; Gaststätte Valley's ; Aberlestr. 52
+- TOP 4.: Verkehrsangelegenheiten
+- TOP 4.1.: Demonstrationszug durch Sendling am 17.07.2005
+- TOP 4.2.: Verkleinerung der Kurzparkzone ; Lindenschmitstr. 5
+- TOP 5.: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 5.1.: Anbringen der Schilder an den vom BA gestifteten Ruhebänken
+- TOP 5.2.: Ausweichtermin für BA-Wies'n -Besuch
+- TOP 5.3.: UA 06 - Budget und Satzungsangelegenheiten - 04.07.2005
+- TOP 6.: Referat für Stadtplanung und Bauordnung
+- TOP 6.1.: Anbau von vier Balkonen und einer Fluchtleiter; Karwendelstr. 45 und 47
+- TOP 6.2.: Evaluation des ökologischen Kriterienkataloges
+- TOP 6.3.: Ökologische Investitionen im geförderten Wohnungsbau müssen sich lohnen
+- TOP 6.4.: Zukunft München 2030 - Visionen und Strategien für Stadt und Region
+- TOP 6.5.: Grundsatzentscheidung des Münchner Stadtrates zum Bauvorhaben des türkisch islamischen Zentrums an der Thalkirchner- / Kochelstraße in Sendling
+- TOP 7.: Baureferat
+- TOP 7.1.: Befragung zur Zufriedenheit der Nutzerinnen und Nutzer mit städtischen Spielplätzen
+- TOP 7.2.: Vorziehen der Einbahnregelung Ganghofer- / Pfeuferstraße bereits ab 12.07.05; Vertreter des Baureferates-Tiefbau
+- TOP 7.3.: Hundekot in Grüanlagen; Aufstellung von mehr Mülleimern zur Entsorgung
+- TOP 7.4.: Fahrbahnwiederherstellung - <div>nach Antrag</div>
+- TOP 8.: Baum- und Umweltschutz
+- TOP 8.1.: Bauvorhaben Isarauen 8; Neuordnung des Biergartens/ Abbruch und Neubau des Servicegebäudes mit Technikräumen
+- TOP 9.: Soziales- und Sozialreferat
+- TOP 9.1.: Stellungnahme zur Beschlussvorlage für den Szialausschuss am 0707.05; Bericht über REGSAM und bleibt REGSAM ein Erfolgsmodell?
+- TOP 10.: Schulreferat
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 12.1.: Keine Stellplatzablöse für die Künstlerateliers unter der Fußgängerbrücke über die Ganghoferstraße
+- TOP 12.2.: Entfernen der Schilder am Radfahrer- / Fußgängerübergang Meindlstraße / Karwendelstraße
+- TOP 12.3.: Radweg in der Unterführung der Lindwurmstraße; Poller an der kreuzung Daiser-/ Alramstraße
+- TOP 12.4.: Verkehrliche Erschließung des Gotzinger Platzes
+- TOP 12.5.: Anträge des Elternbeirates der Grundschule am Gotzinger Platz
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Informationsrecherche und potionelle Ansprechpartner für Stadtportal
+- TOP 13.2.: Mobilfunk; Umfrage zum Standortabstimmungsverfahren
