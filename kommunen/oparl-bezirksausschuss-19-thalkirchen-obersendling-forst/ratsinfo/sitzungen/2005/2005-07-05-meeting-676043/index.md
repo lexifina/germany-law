@@ -1,0 +1,65 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2005-07-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/676043
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/676043
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Festellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Anträge
+- TOP 3: Unterauschuss Budget
+- TOP 3.1.: Elternbeirat Berner Schule
+- TOP 3.2.: Miteinander leben in Fürstenried e.V.
+- TOP 3.3.: Kath. Pfarrei St. Johann Baptist
+- TOP 3.4.: Spiellandschaft "Hennabergl"
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Mobilfunk Standortabstimmungsverfahren
+- TOP 5: Unterauschuss Verkehr
+- TOP 5.1.: Situation Kreuzungsbereich Drygalski-Allee/Kistlerhofstr./Züricher Str.
+- TOP 5.2.: Durchfahrt Beuerberger- / Bichler Straße
+- TOP 5.3.: Fußgängerüberwege am Isarkanal
+- TOP 5.4.: Haltverbot Bertelestr. östlich Wolfratshauser Straße
+- TOP 5.5.: Parkplatz für Altenbetreuung Ecke Dönniges-/Allmannshausener Str.
+- TOP 5.6.: Haltverbotserweiterung und Pkw-Positivbeschilderung Miesing-/Münchner Str.
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Heilmannstr. 19
+- TOP 6.2.: BPl. Herterichstr. (südl.) Petersenstr. (östl.)
+- TOP 6.3.: BPl. Siemens-City (Kernstandort)
+- TOP 6.4.: Arnrieder Str. 9
+- TOP 6.5.: Schäftlarnstr. 160
+- TOP 6.6.: Schieggstr. o.Nr. (T)
+- TOP 6.7.: Mindelheimer Str. 11
+- TOP 6.8.: Tölzer Str. 5a
+- TOP 6.9.: Kirchbachweg 2 (T)
+- TOP 6.10.: Rotenhanstr. 13 (VB)
+- TOP 6.11.: Heilmaierstr. o.Nr. (T)
+- TOP 6.12.: Faustnerweg 12
+- TOP 6.13.: Forstenrieder Allee 137
+- TOP 6.14.: Forstenrieder Allee 191 (T)
+- TOP 6.15.: Boschetsrieder Str. 127
+- TOP 7: Entscheidungsfälle
+- TOP 7.1.: Hinweisschilder auf den Isartalverein am Isartalbahnweg
+- TOP 7.2.: Öffnungszeiten Bad-Maria-Einsiedel
+- TOP 7.3.: Gehwegerneuerung Josephinenstr.
+- TOP 7.4.: Gehwegverbreiterung Liesl-Karlstadt-Straße
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Sanierung eines Spielplatzes in der Rupert-Mayer-Straße / Colmarer Straße
+- TOP 8.2.: Einrichtung eines Spielplatzes auf der Prinz-Ludwig-Höhe
+- TOP 8.3.: Errichtung eines Kindergartenpavillons auf dem Schulgelände Allescherstr. 46
+- TOP 8.4.: Förderung treff + tee
+- TOP 8.5.: Kultur im Stadtquartier
+- TOP 8.6.: Transformatorenstation Herterichstr. 101
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
