@@ -1,0 +1,64 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2005-07-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/611131
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/611131
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Krauss-Barriere am Frickhingerweg
+- TOP 1.2.: Spielstraße Jestelstraße
+- TOP 2: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.2.: Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage, Erdenbörse und Erdenwerk am Standort Goteboldstr. 100
+- TOP 5.3.: Konzept zur pflegerischen Versorgung älterer Menschen in München (Vertagung aus der Sitzung vom 14.06.05)
+- TOP 6: Schreiben des Oberbürgermeisters
+- TOP 6.1.: Verkehrsplanung Münchner Nordwesten (Vertagung aus der Sitzung vom 14.06.05)
+- TOP 6.2.: Erhalt des Sommerbades Allach; Bezuschussung aus dem Budget des BA 23 (Vertagung aus der Sitzung vom 14.06.05)
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8: Schreiben des Direktoriums
+- TOP 8.1.: Bewilligungsbescheid über Zuwendungen aus Budgetmitteln; Antragsteller SV München Untermenzing e. V.
+- TOP 8.2.: Bewilligungsbescheid über Zuwendungen aus Budgetmitteln; Antragsteller Kath. Pfarramt St. Martin Untermenzing
+- TOP 8.3.: Bewilligungsbescheid über Zuwendungen aus Budgetmitteln; Antragsteller Elternbeirat des Louise-Schroeder-Gymnasiums
+- TOP 9: Schreiben des Baureferates
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Straßenfest Untere Mühlstraße am 18.06.05; Erlaubnisbescheid
+- TOP 10.2.: Bundestagswahl am 18.09.05 (voraussichtlich); Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 10.3.: Bevorrechtigung des Pasinger Heuweges gegenüber der Theodor-Fischer-Straße bzw. Jennerweg / verkehrsrechtliche Anordnung
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der Baumschutzverordnung a) Korbinian-Beer-Str. , s. Baumbestandsplan Nr. 2005-2323 b) Josef-Führer-Str. 33, s. Baumbestandsplan Nr. 2005-2310 c) Herbert-Schober-Str., s. Baumbestandsplan Nr. 2005-10936 d) Aurel-Voß-Str. 3, s. Baumbestandsplan Nr. 2005-12360 e) Trumppstr. 7, 1 Silbertanne f) Dirrstr. 14, 1 Fichte g) Ludwig-Radlkofer-Str., s. Baumbestandsplan Nr. 2005-8844 h) Nätherstr. 3b,s. Baumbestandsplan Nr. 2005-13470 i) Untere Mühlstr. 14, 1 Säulenzypresse j) Ippenbergstr. 10 ( DHH 1 ), s. Baumbestandsplan Nr. 2005-13431 k) Ippenbergstr. 10 (DHH 2), s. Baumbestandsplan Nr. 2005-13434 l) Peter-Winter-Str. 7, s. Baumbestandsplan Nr. 2005-62225
+- TOP 11.2.: Bauanträge (v. 06.06.-12.06., 13.06.-19.06.05)
+- TOP 11.3.: Broschüre "Grünplanung in München"
+- TOP 11.4.: Abgeschlossenheitsbescheinigungen vom 01.06.-15.06.05
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: Neubau einer Kindertagesstätte mit 3 Kindergartengruppen am Pasinger Heuweg
+- TOP 14: Schreiben des Sozialreferates
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Mobilfunk; Standortabstimmungsverfahren - Umfrage
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 17.1.: Jour Fixe und Beschlussvorlage "Kultur im Stadtquartier"
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben des Bezirksausschusses 15 Trudering-Riem
+- TOP 20.1.: Samstagöffnung von Stadtbüchereien
+- TOP 20: Schreiben des BA 21 Pasing-Obermenzing
+- TOP 20.1.: Parkfläche am S-Bahnhaltepunkt Untermenzing
+- TOP 21: Stadtrats- und Ausschussbeschlüsse
+- TOP 21.1.: Vollversammlung vom 11.05.05: - Zukunft der Arbeitsgruppe Obdachlosigkeit und des Beraterkreises für die Sanierung der Städtischen Unterkünfte
+- TOP 21.2.: Bauausschuss vom 28.06.05: - Hundekot in Grünanlagen; Aufstellung von mehr Mülleimern zur Entsorgung - Sanierung der Müllerstadlstraße - Aufwertung der Würm
+- TOP 21.3.: Ausschuss für Stadtplanung und Bauordnung vom 29.06.05: - Bebauungsplan mit Grünordnung Nr. 1857, Von-Kahr-Straße, Allacher Straße und Peter-Dörfler-Straße (südlich), Bahnlinie München-Regensburg (nordwestlich) und Hormayrstraße (östlich) (Teiländerung der Beb.Pl.Nr. 258, 484c und 1393) - Billibungsbeschluss und vorbehalticher Satzungsbeschluss - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/20, Georg-Reismüller-Straße (östlich), Ludwigsfelder Straße (südlich), Bahnlinie München-Treuchtlingen (westlich) - Billigungsbeschluss und vorbehaltlich endgültier Beschluss
+- TOP 22: Verschiedenes
+- TOP 20.2.: Kultur im Stadtquartier
