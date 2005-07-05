@@ -1,0 +1,16 @@
+# Bebauungsplan BO 10 "Gärtnereigelände Hardeweg", zugleich 4. Änderung des Bebauungsplanes BO 2 "Kardinal-von-Galen-Straße", 5. Änderung des Bebauungsplanes BO 9 "Ellinghaus" und 13. Änderung des Bebauungsplanes BO 1 "Velen-Ost" a) Ergebnis der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 BauGB b) Ergebnis des Beteiligungsverfahrens der Träger öffentlicher Belange gemäß § 4 Abs. 1 Satz BauGB c) Offenlegungsbeschluss gemäß § 3 Abs. 2 BauGB
+
+- Körperschaft: Stadt Velen
+- Drucksache/Vorlage: 66/2005 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2005-07-05
+- Ratsinformationssystem: https://velen.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZeUeCdR6M6PnIhd92vlc4lA
+- OParl: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/761
+- Quelle: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Bebauungsplan BO 10 "Gärtnereigelände Hardeweg", zugleich 4. Änderung des Bebauungsplanes BO 2 "Kardinal-von-Galen-Straße", 5. Änderung des Bebauungsplanes BO 9 "Ellinghaus" und 13. Änderung des Bebauungsplanes BO 1 "Velen-Ost"
+a) Ergebnis der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 BauGB
+b) Ergebnis des Beteiligungsverfahrens der Träger öffentlicher Belange gemäß § 4 Abs. 1 Satz BauGB
+c) Offenlegungsbeschluss gemäß § 3 Abs. 2 BauGB) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZV7YX5t_wRJCcqDF7ZeHMDP65jdpp0Ifoi84WlPp87S/Beschlussvorlage_66-2005_1._Ergaenzung.pdf
+- Beratung:  https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/691 https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-4
+- Beratung:  https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/671 https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-188
