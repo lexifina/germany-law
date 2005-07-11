@@ -1,0 +1,84 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2005-07-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/668487
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/668487
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Ossingerstr. 61, 1 Birke
+- TOP 3.2.: Ringstr. 1 b, 1 Birke
+- TOP 3.3.: Waldsaumstr. 4, 1 Douglasie
+- TOP 3.4.: Senftenauerstr. 163, 1 Thuja
+- TOP 3.5.: Kornwegerstr. 55, 1 Tanne, 2 Birken
+- TOP 3.6.: Bortenhofstr. 2, gem. Baumbestandsplan Nr.: 2005-12945
+- TOP 3.7.: Stahleckplatz 2, 1 Fichte, 2 Kiefern
+- TOP 3.8.: Waldklausenweg 19, gem. Baumbestandsplan Nr.: 2005- 12494
+- TOP 3.9.: Kleinhaderner Str. 44, gem. Baumbestandsplan Nr. : 2005-13018
+- TOP 3.10.: Stiftsbogen 74, gem. Baumbestandsplan Nr. 2005-11565
+- TOP 3.11.: Maenherstr. 5, 1 Fichte
+- TOP 3.12.: Pfundmayrstr. 21, 1 Birke
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Hirtentäschelweg 2, 2 Birken (Referat für Stadtplanung und Bauordnung, 06.06.2005)
+- TOP 3.2.: Waldfriedhof (Baureferat, 06.06.2005)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4: Ausschussberichte
+- TOP 5: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 6: Entscheidungsfälle
+- TOP 6.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes im 20. Stadtbezirk Hadern; Errichtung eines ambulanten Obst- und Gemüseverkaufsplatzes an der Terofalstraße
+- TOP 6.2.: Antrag auf Zuschuss aus dem Budget in Höhe von 850 Euro für einen Vortrag am 16.06.05 und ein Sommerfest am 18.06.05; Antragsteller: Verein zur Förderung der Waldorfpädagogik im Münchner Süden e. V., Waldorf Kindergarten Großhadern
+- TOP 7: Unterrichtungsfälle
+- TOP 7.1.: Stellungnahme zur Beschlussvorlage für den Sozialausschuss am 07.07.2005, Bericht über REGSAM (REGSAM, 09.06.2005)
+- TOP 7.2.: Erlaubnisbescheid Straßenfest in der Neufriedenheimer Straße am 18.06.2005 (KVR, 13.06.2005)
+- TOP 7.3.: Erlaubnisbescheid Tag der offenen Tür der FFW München, ABt. Großhadern in der Großhaderner Straße am 18.06.2005 (KVR, 13.06.2005)
+- TOP 7.4.: Unveränderte Fortführung folgender Gaststättenbetriebe: - Vereinswirtschaft TSV Großhadern (KVR, 02.06.05)
+- TOP 7.5.: Aufhebung des personenbezogenen Behindertenparkplatzes im Bereich Wolkerweg 8 (KVR, 12.05.05)
+- TOP 7.6.: Fußgängersicherheit Gräfelfinger Str. 45 (KVR, 15.06.05)
+- TOP 8: Anhörungsfälle
+- TOP 8.1.: Stadtjugendamt / Förderung freier Träger, Nachbarschaft Neuhadern, Bewohnertreff (Sozialreferat, 07.06.2005)
+- TOP 8.2.: Kultur im Stadtquartier, Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen, Evaluierung kultureller Zentren, Kulturellen Zentren und Stadtteilwochen (Kulturreferat, 10.06.2005)
+- TOP 8.3.: Anbau und Erweiterung des Wohnstiftes um 2 Gebäude mit Wohnungen sowie Büro- und Praxisnutzung im EG bis 1. OG und Erweiterung des Empfangs- und Verwaltungsgebäudes, Stiftsbogen 74 (Referat für Stadtplanung und Bauordnung, 14.06.2005)
+- TOP 8.4.: Straßenfest der Evang. Reformations-Gedächtnis-Kirche, Ebernburgstr. 12 am 10.07.05 (KVR, 22.06.05)
+- TOP 8.5.: Veranstaltung am Hedernfeld am 23.07.05 (Baureferat, 21.06.05)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Bolzplatz und Rodelhügel am Fürstenrieder Wald (Baureferat, 13.06.2005)
+- TOP 9.2.: Mehrjahresinvestitionsprogramm 2005 - 2009 und Stellungnahme zu den Anregungen der Bezirksausschüsse (Kulturreferat, 07.06.2005)
+- TOP 9.3.: Kostenpflicht der Behindertenparkplätze auf P + R Anlagen (KVR, 27.05.05)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Sozialorientierte Hausverwaltung für am Wohnungsmarkt Benachteiligte (Sozialreferat)
+- TOP 11.2.: Prostitution in München - Dokumentation des Stadtratshearings am 04.02.05
+- TOP 11.3.: MVV-Streifenkarten für Automatenverkauf in Bus und Tram (BA 17, 24.05.05)
+- TOP 11.4.: "Unsere Städte sind bunt, nicht braun", Sternfahrt von München nach Wunsiedel am Samstag, 20.08.05 (BA 3, 30.05.05)
+- TOP 11.5.: Jahresstatistik der Münchner Stadtbibiliothek (Münchner Stadtbibliothek, 01.06.05)
+- TOP 11.6.: Mobilfunk, Standortabstimmungsverfahren - Umfrage (Referat für Gesundheit und Umwelt, 17.06.05)
+- TOP 11.7.: Samstagsöffnung von Stadtteilbüchereien (BA 15, 20.06.05)
+- TOP 11.8.: Zuwendung aus dem Budgetmitteln im Haushaltsjahr 2005 (SV Sentilo Blumenau e.V., 17.06.05)
+- TOP 11.9.: Grünbroschüre (Planungsreferat, 21.06.05)
+- TOP 11.10.: Bundestagswahl am 18.09.05 (voraussichtlich), Meldung ehrenmalticher Wahlhelferinnen und Wahlhelfer (KVR, 20.06.05)
+- TOP 11.11.: Kultur im Stadtquartier; Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen etc. (BA 21, 20.06.05)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: am 11.05.2005 - Zukunft der Arbeitsgruppe Obdachlosigkeit und des Beraterkreises für die Sanierung der Städtischen Unterkünfte - Wohnen in München III, a) Verfahrensänderungen im Vollzug des Handlungsprogramms im Jahr 2004, b) Verlängerung des Wohnungspolitischen Handlungsprogramms 2001-2005 um das Jahr 2006, c) Kürzere Wartezeiten für Familien mit Kindern im München Modell, d) Erbbaumodell für Familien mit Kindern, e) Bezahlbarer Wohnraum für Familien
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 28.06.2005 Hundekot in Grünanlagen; Aufstellung von mehr Mülleimern zur Entsorgung
+- TOP 12.2.: Beschluss des Bauausschusses vom 14.06.05 Befragung zur Zufriedenheit der Nutzerinnen und Nutzer mit städtischen Spielplätzen
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.06.05 Ökologische Investitionen im geförderten Wohnungsbau müssen sich lohnen!
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 08.06.05 Zukunft München 2030 - Visionen und Strategien für Stadt und Region
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 08.06.05 Evaluation des Ökologischen Kriterienkataloges / Modellvorhaben an der Friedenspromenade und in der Messestadt Riem "Ökologischer Wohnungsbau - kostenvergleichende Bauvarianten - nachhaltiges Wohnen"
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
