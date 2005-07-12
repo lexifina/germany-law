@@ -1,0 +1,98 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2005-07-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/576226
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/576226
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Bauvorhaben in der Veit - Stoß - Straße zwischen Hausnr. 86 und 92
+- TOP 1.3: Teilnahme eines Verterters des Baureferates zur Spielplatzgestaltung am Laimer Anger
+- TOP 2: Anträge
+- TOP 2.1.: CSU-Fraktion: Aufhebung des absoluten Haltverbotes an Freitagen in der Zeit von 07.00-16.00 Uhr an der Nordseite der Agnes-Bernauer-Straße zwischen Fürstenrieder Straße und Lutzstraße
+- TOP 2.2.: Bündnis 90 / Die Grünen: 2 - Richtungs - Radweg in der Gotthardstraße zwischen Willibaldstraße und Fischer - von - Erlach - Straße; dazu: Schreiben BA 21 Pasing - Obermenzing
+- TOP 2.3.: Bündnis 90 / Die Grünen: LKW - Nachtfahrverbot in der Fürstenrieder Straße
+- TOP 2.4.: Bündnis 90 / Die Grünen: Blaues Licht am Laimer Anger - wo ist`s
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 2.438 Euro für die Verschönerung des Pausenhofs; Antragsteller: Elternbeirat der Grundschule Droste - Hülshoff - Straße
+- TOP 3.2.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 5.000 Euro für Trümmerkunst - Realtheater; Antragsteller: P:A:T
+- TOP 3.3.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 700 Euro für die 40 - Jahr - Feier am 10.06.05; Antragsteller: Evangelische Kindertagesstätte Laim, Haslangstr. 46
+- TOP 3.4.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 2.800 Euro für ein Fußballturnier am 02. / 03.07.05; Antragsteller: ESV München - Laim von 1910 e.V.
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 10.06.05: Absolutes Haltverbot Ortsfahrbahn Landsberger Str. 370
+- TOP 4.2.: Schreiben Kulturreferat vom 10.06.05 und 21.06.05: Kultur im Stadtquartier
+- TOP 4.3.: Schreiben KVR vom 17.06.05: Straßenfest in der Egetterstraße am 16.07.05
+- TOP 4.4.: Schreiben Referat für Gesundheit und Umwelt vom 17.06.05: Mobilfunk; Standortabstimmungsverfahren - Umfrage
+- TOP 4.5.: Schreiben KVR vom 16.06.05: Gaststätte " Nachtwerk ", Landsberger Str. 185, Antrag auf Dauersperrzeitvrkürzung Samstag auf Sonntag auf 06.00 Uhr, d. h. aufgehoben
+- TOP 4.6.: Kulturentwicklung Hauptbahnhof - Laim - Pasing, insbesondere im Bereich des 9. Stadtbezirks Neuhausen - Nymphenburg ( Kulturelle Nutzung des stillgelegten Heizkraftwerks an der Helmholtzstraße, Backstage )
+- TOP 5: Baumfällungen
+- TOP 5.1.: Maria - Birnbaum - Str. 10 +10 a: Fällung von 1 Wacholder und 1 Zwergfichte
+- TOP 5.2.: Eckermannstr. 1: Fällung von 1 Fichte, 1 Scheinzypresse und 2 Schwarzkiefern
+- TOP 5.3.: Agricolastr. 38: Fällung von 1 Birke
+- TOP 5.4.: Burgkmairstr. 58: Fällung von 1 Linde
+- TOP 5.5.: Viebigplatz 7: Fällung von 1 Rotfichte
+- TOP 5.6.: Ossietzkystr. 9 + 11: Fällung von 1 Kiefer
+- TOP 5.7.: Geyerspergerstr. 54: Fällung von 3 Fichten
+- TOP 6: Baumfällungen in Verbindung mit Bauvorhaben (Baumbestandsplan)
+- TOP 6.1.: Hogenbergstr. 4: Neubau eines Einfamilienhauses
+- TOP 6.2.: Joergstr. 29: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 6.3.: Agricolastr. 36: Neubau einer Wohnanlage ( 9 WE ) mit TG
+- TOP 7: Bauvorhaben
+- TOP 8: Sonstiges
+- TOP 9: Protokolle
+- TOP 9.1.: Protokoll der BA - Sitzung vom 03.05.05
+- TOP 10: Umlauf
+- TOP 10.1.: Schreiben Planungsreferat vom 09.05.05: Flotowstr. 30; Neubau eines Wohngebäudes ( 1 WE ) mit Garage / Vorbescheid
+- TOP 10.2.: Schreiben Stadtwerke München GmbH vom 25.05.05: U - Bahnhof Westendstraße ( Antrag Nr. 125 vom 01.02.05 )
+- TOP 10.3.: Schreiben Planungsreferat vom 01.06.05: Bauleitplanung, Frühzeitige Unterrichtung der Bürgerinnen und Bürger; Bebauungsplan Nr. 1894 - Laimer Knoten
+- TOP 10.4.: Schreiben Planungsreferat vom 02.06.05: Bauvorhaben Haslangstr. 9 / Vorbescheid
+- TOP 10.5.: Schreiben Baureferat vom 08.06.05: Jugendzentrum " Das Laimer ", Von - der - Pfordten - Str. 59
+- TOP 10.6.: Schreiben KVR vom 22.06.05: Anbringen eines grünen Abbiegepfeils an der Ampelanlage / Rechtsabbiegespur der Landsberger Straße in Höhe des Baumarktes " Bauhaus "
+- TOP 10.7.: Bautenliste vom 23.05. - 29.05.05 1. Erstantragsverfahren a ) Camerloherstr. 173 b ) Joergstr. 29
+- TOP 10.8.: Bautenliste vom 30.05. -05.06.05 1. Erstantragsverfahren a ) Agricolastr. 36 b ) Agnes - Bernauer - Str. 1 c ) Friedenheimer Str. 106 2. Änderungsverfahren a ) Gotthardstr. 160 b ) Landsberger Str. 372
+- TOP 10.9.: Bautenliste vom 06.06. - 12.06.05 1. Erstantragsverfahren a ) Gotthardstr. 154 b ) Johannes - Scharrer - Str. 10
+- TOP 10.10.: Bautenliste vom 13.06. - 19.06.05 1. Erstantragsverfahren a ) Paul - Lagarde - Str. 18 b ) Byecherstr. 25 c ) Haslangstr. 44 a 2. Änderungsverfahren a ) Landsberger Str. 380 b ) Diesterwegstr. 11 c ) Landsberger Str. 194 d ) Agnes - Bernauer - Straße
+- TOP 10.11.: Beantragte Abgeschlossenheitsbescheinigungen vom 16.05. - 31.05.05
+- TOP 10.12.: Schreiben Direktorium vom 08.06.05: Zuschuss aus dem Budget für Selbstbehauptungskurse in Höhe von 800 Euro; Antragsteller: Elternbeirat der Grundschule an der Camerloherstraße
+- TOP 10.13.: Schreiben Direktorium vom 14.06.05: Budgetzuschuss an die " Camerjäger " von 2004
+- TOP 10.14.: Schreiben KVR vom 07.06.05: Drehgenehmigung für den 20.06. und 21.06.05 / Ronpeckhstraße
+- TOP 10.15.: Schreiben KVR vom 06.06.05: Gaststätte " Pub 9 ", unveränderte Fortführung
+- TOP 10.16.: Schreiben KVR vom 07.06.05: Straßenfest in der Haslangstraße am 10.06.05; Erlaubnisbescheid
+- TOP 10.17.: Schreiben Baureferat vom 13.06.05: Genehmigung eines Sommerfestes am 02.07.05 auf dem Agricolaplatz
+- TOP 10.18.: Schreiben Baureferat vom 03.06.05: Genehimgung einer Open Air Veranstaltung auf dem Laimer Anger am 11.06., 18.06., 25.06., 02.07., 12.07. und 23.07.05
+- TOP 10.19.: Schreiben Baureferat vom 20.06.05: Genehmigung eines Sommerfestes am 17.07.05, Schrobenhausener Str. 3 ( Wiese vor dem Kindergarten )
+- TOP 10.20.: Schreiben Planungsreferat vom 16.06.05: Baudererstr. 12; Fällungsgenehmigung
+- TOP 10.21.: Schreiben Planungsreferat vom 16.06.05: Joergstr. 10; Fällungsgenehmigung
+- TOP 10.22.: Schreiben Planungsreferat vom 16.06.05: Stroblstr. 14; Fällungsgenehmigung
+- TOP 10.23.: Schreiben Münchner Stadtbibliothek vom 01.06.05: Jahresstatistik 2004 der Münchner Stadtbibliothek
+- TOP 10.24.: Schreiben KVR vom 20.06.05: Bundestagswahl am 18.09.05 ( voraussichtlich ); Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 10.25.: Schreiben Referat für Gesundheit und Umwelt vom 21.06.05: Mobilfunk; Baubeginnsanzeige
+- TOP 10.26.: Schreiben Schulreferat vom 13.06.05: Das Schulreferat trifft die BAs, Einladung zur Besprechung am 14.07.05
+- TOP 10.27.: Einladung zum 1. Kinderforum in Laim am 22.07.05
+- TOP 10.28.: Schreiben BA 15 Trudering - Riem vom 20.06.05: Samstagsöffnung für die Stadtbücherei Waldtrudering
+- TOP 10.29.: Schreiben BA 21 Pasing - Obermenzing vom 20.06.05: Kultur im Stadtquartier
+- TOP 10.30.: Beschluss der Vollversammlung vom 11.05.05: Wohnen in München III, a ) Verfahrensänderungen im Vollzug des Handlungsprogramms im Jahr 2004, b ) Verlängerung des Wohnungspolitischen Handlungsprogramms 2001 - 2005 um das Jahr 2006, c ) Kürzere Wartefristen für Familien mit Kindern im München Modell, d ) Erbbaumodell für Familien mit Kindern, e ) Bezahlbarer Wohnraum für Familien
+- TOP 10.31.: Beschluss der Vollversammlung von 11.05.05: Bebauungsplan mit Grünordnung Nr. 1897, Agnes - Bernauer - Straße ( südlich ), Kapruner Straße ( westlich ), Fischer - von - Erlach - Straße ( östlich )
+- TOP 10.32.: Beschluss der Vollversammlung vom 11.05.05: Zukunft der Arbeitsgruppe Obdachlosigkeit und des Beraterkreises für die Sanierung der Städtischen Unterkünfte
+- TOP 10.33.: Beschluss des Ausschusses für Stadtplanung vom 08.06.05: Ökologische Investionen im geförderten Wohnungsbau müssen sich lohnen !
+- TOP 10.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.06.05: Verlängerung der U 5 West nach Pasing
+- TOP 10.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.06.05: Sinnvolle Zusammenarbeit zwischen dem ESV Laim und der privaten Lukasschule ( Public - Private - Partnership )
+- TOP 10.36.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 08.06.05: Zukunft München 2030 - Visionen und Strategien für Stadt und Region
+- TOP 10.37.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 08.06.05: Evaluation des Ökologischen Kriterienkataloges; Modellvorhaben an der Friedenspromenade und in der Messestadt Riem " Ökologischer Wohnungsbau - kostenvergleichende Bauvarianten - nachhaltiges Wohnen "
+- TOP 10.38.: Beschluss des Bauausschusses vom 14.06.05: Befragung zur Zufriedenheit der Nutzerinnen und Nutzer mit städtischen Spielplätzen
+- TOP 10.39.: Beschluss der Vollversammlung des Stadtrates vom 22.06.05: 2. S - Bahn - Stammstrecke München, Künftiger S - Bahnhof Marienhof
+- TOP 10.40.: Beschluss des Bauausschusses vom 28.06.05: Hundekot in Grünanlagen; Aufstellung von mehr Mülleimern zur Entsorgung
+- TOP 10.41.: Broschüre " Prostitution in München " - Dokumentation des Stadtratshearings am 04.02.05
+- TOP 10.42.: Broschüre " Sozialorientierte Hausverwaltung für am Wohnungsmarkt Benachteiligte "
+- TOP 10.43.: Schreiben Planungsreferat vom 21.06.05: Broschüre " Grünplanung in München "
+- TOP 10.44.: Schreiben Referat für Arbeit und Wirtschaft vom 29.06.05: Broschüre " Münchner Jahreswirtschaftsbericht 2004 "
+- TOP 10.45.: Münchner Statistik: 2. Quartalsheft Jahrgang 2005
+- TOP 10.46.: Schriftverkehr aus der BA - Sitzung vom 03.05.05
+- TOP 1.2: Bürgerpost an den BA
