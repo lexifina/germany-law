@@ -1,0 +1,60 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2005-07-12T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/562732
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/562732
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3: Genehmigung der Tagesordnung
+- TOP 4: Genehmigung der Niederschrift der Sitzung vom 09.11.04
+- TOP 0: 05. Vorstellung des Bebauungsplanes ¿Albert-Roßhaupter-Straße¿ ¿ Sendlinger Markt;
+- TOP 0: Anträge
+- TOP 0: Anträge und Berichte aus den Unterausschüssen
+- TOP 0.1.: Kulturausschuss ( 30.06.05) Verkehrsauschuss ( 28.06.05 ) Jugend-Und Sozialausschuss ( 27.05.05 ) Haushaltsausschuss ( 05.07.05 )
+- TOP 0: Berichte der Beauftragten
+- TOP 0.1.: Ausländerbeauftragte Jugendbeauftragte Kinderbeauftragte Seniorenbeauftragte
+- TOP 0: Anhörungen
+- TOP 0: Baumschutz:
+- TOP 5: Baumfällungen
+- TOP 5.1.: a. Hundertpfundweg 2-4 Fällung mehrer Bäume 702 Fr. Wanke b. Hansastr. 128 Fällung zweier Fichten 703 Hr. Sturm c. Baderseestr. 10 Fällung einer Birke 706 Hr. Kramm d. Baderseestr. 13 Fällung einer Tanne 706 Hr. Kramm e. Specklinplatz 25 Fällung eines Ahorn 712 Fr. Schoneweg f. Farchanter Str. 19 Fällung einer Zierkirsche 713 Fr. Merkel g. Gerokstr. 8 Fällung einer Fichte 725 Hr. Seidl
+- TOP 6: Baumfällungen / Bauvorhaben
+- TOP 6.1.: a. Ammergaustr. 5 Fällung lt. Antrag 714 Hr. Dr. Klunker b. Josef-Naus-Str. 3 Fällung lt. Antrag 716 Hr. Stahnsdorf
+- TOP 7: Westparkveranstaltungen
+- TOP 7.1.: a. Info-Veranstaltung Theatron 21.08.05 b. Laufveranstaltung 19.07.05 c. Ludwigslauf 09.10.05 d. Sommerfest Zirkuswiese 31.07.05
+- TOP 8: Referat für Gesundheit und Umwelt
+- TOP 8.1.: a. Mobilfunk ¿ Standortabstimmungsverfahren
+- TOP 0: Unterrichtung
+- TOP 9: Allgemeines
+- TOP 10: Baureferat (1)
+- TOP 10.1.: a. Ausnahmebewilligungen Unterrichtung b. Befragung zur Zufreidenheit der Nutzerinnen und Nutzer mit städt. Spielplätzen Beschluss c. Hundekot in Grünanlagen; Aufstellung von mehr Mülleimern zur Entsorgung Beschluss d. Fußgänger- und Radfahrertunnel zw. Johann-Clanze-Str. und Sylevensteinstraße: Empfehlung Nr. 24 der Bürgerversammlung des 7. Stadtbezirkes vom 17.11.04 Beschluss
+- TOP 11: Büro des Oberbürgermeisters
+- TOP 11.1.: a. Grundsatzentscheidung des Stadtrates zum Bau einer Moschee innerhalb des Mittleren Ringes; Beschluss
+- TOP 12: Lokalbaukommssion
+- TOP 12.1.: a. Bauvorhaben
+- TOP 13: Referat für Stadtplanung und Bauordnung
+- TOP 13.2.: a. Wohnen in München III Beschluss b. Vollzug der Baumschutzverordnung Unterrichtung c. Satzung der Landeshauptsadt München über Einfriedungen und Vorgärten Beschluss
+- TOP 14: Sozialreferat (1)
+- TOP 14.3.: a. Zukunft der Arbeitsgruppe Obdachlosigkeit und des Beraterkreises für die Sanierung der städt. Unterkünfte b. Bericht über REGSAM
+- TOP 0: Schriftverkehr
+- TOP 15: Bürgerschreiben
+- TOP 15.1.: a. Jahresstastik der Münchern Stadtbibliothek (2004) b. Lichtzeichenanlage Garmischer Straße / Luise-Kiesselbach-Platz
+- TOP 16: Baureferat (2)
+- TOP 16.1.: a. Verkehrssicherhiet in der Albert-Roßhaupter-Straße; Antrag 204 des BA 7 vom 19.04.05 b. Instandsetzung der Fernpaßstraße nach starker Benutzung; Antrag 205 des BA 7 vom 19.04.05 c. Informationsveranstaltung zum Thema Straßenausbaubeitragsrecht d. Wegerechtliches Einziehungsverfahren
+- TOP 17: Bezirksausschüsse
+- TOP 17.1.: a. Resolution des BA 7 zum Schwerlastverkehr; BA 25
+- TOP 18: Kreisverwaltungsreferat
+- TOP 18.1.: a. Haltverbot in der Sappelstraße ; Antrag 27 des BA7 vom 13.01.05 b. Lichtzeichenanlage Garmischer Straße / Luise-Kiesselbach-Platz c. Schleichverkehr in den Morgenstunden über Ossingerstr./ Meier-Helmbrechtstr. zur Ehrwalder Straße;
+- TOP 19: Kulturreferat
+- TOP 19.1.: a. Protokoll des Jour-Fix mit den Bezirksausschüssen am 13.06.05
+- TOP 20: Sozialreferat (2)
+- TOP 20.1.: a. Prognose Alten- und Pflegeplätze im Stadtbezirk Sendling - Westpark ; Antrag 206 vom 20.04.05
+- TOP 0: Verschiedenes
+- TOP 2: Nachträglich in die Tagesordnung aufzunehmen
