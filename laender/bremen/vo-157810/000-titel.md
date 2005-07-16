@@ -1,1 +1,1 @@
-# Verordnung über die Zuständigkeiten des Vollzuges abfallrechtlicher Vorschriften vom 1. Oktober 1996
+# Verordnung über Zuständigkeiten nach dem Abfallrecht und zur Aufhebung der Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach der Straßenverkehrs-Zulassungs-Ordnung vom 28. Juni 2005
