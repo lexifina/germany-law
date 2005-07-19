@@ -1,0 +1,113 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2005-07-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/567796
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/567796
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Geschwindigkeit des Verkehrs in derSchönstrasse und Parkplatzprobleme am Wochenende; Bürgerschreiben vom 05.07.2005
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Waldkindergarten Wurzelkinder e. V., für die Maßnahme: Bauwagen für den Waldkindergarten; Antragssumme: 2.500,-- ¿; Antrag vom 24.06.2005
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; hier: Ladezone Krumpterstraße; Zuleitung des Kreisverwaltungsreferats vom 16.06.2005
+- TOP 3.1.: Parkordnung in der Hans-Mielich-Straße; Antrag auf Vereinheitlichung und Einrichtung einer Schrägparkzone; Antrag des BA 18 vom 17.05.2005; Antwortschreiben des Kreisverwaltungsreferats vom 16.06.2005 (negative Erledigung)
+- TOP 3.2.: Ausweisung des Teilabschnitts A 995 im Verkehrswegeplan als Autobahn; Antwortschreiben des Referats für Stadtplanung und baurodnung vom 14.06.2005 zum Antrag vom 19.01.2005
+- TOP 3.1.: Fortschreibung Konzept für das Busparken in München; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Mobilfunk, Standortabstimmungsverfahren, Umfrage; Zuleitung des Referats für Gesundheit und Umwelt mit der Bitte um Stellungnahme
+- TOP 3.1.: Errichtung einer Messstation für Abgase und Feinstaub nach EU-Richtlinien an der Tegernseer Landstraße / Mittlerer Ring; Antrag des BA 18 vom 15.03.2005; Antwortschreiben des Referats für Gesundheit und Umwelt, (neutrale Erledigung)
+- TOP 3.1.: Hundekot in den Grünanlagen; Aufstellung von mehr Mülleimern zur Entsorgung; Empfehlung Nr. 14 der Bürgerversammlung des 14. Stadtbezirks Berg am Laim am 08.03.2005; Beschluss des Bauauschusses vom 28.06.2005
+- TOP 3.2.: Grünbroschüre "Grünplanung in München"; Zuleitung des Referats für Stadtplanung und Bauordnung vom 21.06.2005
+- TOP 3.3.: Baubeginnsanzeigen Mobilfunksendeanlagen Candidplatz und Geiselgasteigstraße; Mitteilung des Referates für Gesundheit und Umwelt (ggf. Behandlung in nicht-öffentlicher Sitzung)
+- TOP 3.&nbsp;: Unterrichtung durch das Referat für Stadtplanung und Bauordnung ¿ Untere Naturschutzbehörde im Vollzug der Baumschutzverordnung
+- TOP 3.1.: Anwesen in der Autharistraße; Bescheid vom 06.06.2005
+- TOP 3.2.: Anwesen in der Harthauser Straße; Bescheid vom 22.06.2005
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Bericht über Regsam; Bleibt Regsam ein Erfolgsmodell ?; Beschluss des Sozialausschusses vom 07.07.2005; hierzu Schreiben von Regsam vom 09.06.2005 (vertagt aus der Sitzung vom 21.06.2005)
+- TOP 3.2.: Befragung zur Zufriedenheit der Nutzerinnen und Nutzer mit städtischen Spielplätzen; Beschluss des Bauausschusses vom 14.06.2005
+- TOP 3.3.: Zukunft der Arbeitsgruppe Obdachlosigkeit und des Beraterkreises für die Sanierung der Städtischen Unterkünfte; Beschluss der Vollversammlung des Stadtrates vom 11.05.2005
+- TOP 3.4.: Keine Raummiete für außerschulische Kooperationspartner; Beschluss des Schulausschusses vom 13.07.2005
+- TOP 3.5.: Konzept zur pflegerischen Versorgung älterer Menschen in München; Beschluss des Sozialausschusses vom 07.07.2005
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.&nbsp;: Baumbestandspläne
+- TOP 3.1.: Anwesen in der Quagliostraße; Anhörung vom 28.06.2005
+- TOP 3.2.: Anwesen Rabenkopfstraße; Anhörung vom 21.06.2005
+- TOP 3.&nbsp;: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen Rabenkopfstraße; Anhörung vom 21.06.2005
+- TOP 3.2.: Anwesen in der Schönchenstraße; Anhörung vom 01.07.2005
+- TOP 3.3.: Anwesen Am Rosengarten; Anhörung vom 01.07.2005
+- TOP 3.&nbsp;: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Anhörung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse
+- TOP 3.1.: Anwesen in der Grünwalder Straße; Zuleitung des Sozialreferats vom 22.06.2005 mit der Bitte um Stellungnahme
+- TOP 3.1.: Hans-Mielich-Platz 3; Vorkaufsrecht nach dem BauGB; Antwortschreiben des Kommunalreferats vom 30.06.2005
+- TOP 3.2.: Kindergartenversorgung im 18.Stadtbezirk; Kindertagesstätten freigemeinnütziger Träger; Praxis der Zuschussgewährung an den Kindergarten ¿Biene Maja e.V.¿; Fragenkatalog (Ziffern 1 bis 8); Antwortschreiben des Schul- und Kultusreferates vom 02.06.05 zum Antrag vom 15.03.05 (vertagt aus der Sitzung vom 21.06.2005)
+- TOP 3.1.: "Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt" Chancen und Perspektiven für Berg am Laim, Ramersdorf und Giesing, Stadt-sanierung in München am Mittleren Ring Südsost; A) Ergebnisse der vorbereiten-den Untersuchungen gemäß § 141 Baugesetzbuch (BauGB) im Bereich Mittlerer Ring Südost, B) Beteiligung der Betroffenen und der öffentlichen Aufgabenträger gemäß §§ 137, 139 BauGB - "Öffentlichkeitsphase", C) Förmliche Festlegung der Gebiete "Innsbrucker Ring - westlich" und "Tegernseer Landstraße/Chiemgau-straße" gem. § 142 BauGB, D) Sanierungsziele für die Sanierungsgebiete "Innsbrucker Ring - westlich" und "Tegernseer Landstraße/Chiemgaustraße"; E) Organisatorische Erfordernisse zur Quartiersentwicklung, F) Beauftragung der Münchner Gesellschaft für Stadterneuerung mbH (MGS) mit der Durchführung von Maßnahmen in den künftigen Sanierungsgebieten, G) Anträge und Empfehlungen; Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung, des Bauausschusses, des Sozialausschusses, des Kinder- und Jugendhilfeausschusses, des Ausschusses für Arbeit und Wirtschaft, des Gesundheits- und Krankenhausausschusses, des Umweltschutzausschusses und Schulausschusses vom 29.06.2005 und der Vollversammlung des Stadtrats vom 06.07.2005
+- TOP 3.2.: Satzung der Landeshauptstadt München über Einfriedungen und Vorgärten (Vorgartensatzung); Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung
+- TOP 3.3.: Baufälle im 18. Stadtbezirk
+- TOP 3.4.: Aktualisierung des Flächennutzungsplanes und Aufstellung des Landschaftsplanes Teilbereich VI - Südost; Billigungsbeschluss, Stadtbezirke 14, 15, 16, 17, 18; Beschluss der Vollversammlung des Stadtrates vom 22.06.2005
+- TOP 3.5.: Bebauungsplan mit Grünordnung Nr. 1798, Säbener Straße, Klausener Straße, Am Hohen Weg (Teiländerung des Bebauungsplans nr. 548), Gelände des FC Bayern München, Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2005
+- TOP 3.6.: PERSPEKTIVE München - PM Analysen, Wissenschafts- und Hochschulstandort München, Rahmenbedingungen und Perspektiven; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005
+- TOP 3.7.: PERSPEKTIVE München - PM-Bilanz, Leitprojekt Stadtteilentwicklung Hadern, Münchner Habitat-Tag in Hadern; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005
+- TOP 3.&nbsp;: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung u. Unterrichtung der Bezirksausschüsse; Unterrichtung des Sozialreferats
+- TOP 3.1.: Anwesen in der Aggensteinstraße; Mitteilung des Sozialreferats vom 13.06.2005
+- TOP 3.2.: Anwesen in der Ahornstraße; Mitteilung des Sozialreferats vom 24.06.2005
+- TOP 3.&nbsp;: Gaststätten (unveränderte Fortführung); Mitteilungen des KVR
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Samstagsöffnung für die Stadtteilbüchereien; Schreiben des BA 15 - Trudering-Riem - vom 20.06.2005 mit der Bitte um Unterstützung
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Mehrjahresinvestitionsprogramm für die Jahre 2005 - 2009; Aufnahme der Ausbaumaßnahme Hans-Mielich-Platz in die Investitionsliste 1; Schreiben der Stadtkämmerei vom 07.06.2005
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 7.1.: siehe gesonderte Einladung
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
