@@ -41,8 +41,7 @@ Abschnitt 5 Aufsicht
 § 30 Aufsichtsbehörden
 § 31 Rechtsaufsicht
 Abschnitt 6 Durchführungsbestimmungen
-§ 32
-Durchführungsbestimmungen
+§ 32 Durchführungsbestimmungen
 Teil 2 Landesbank Sachsen Girozentrale
 Abschnitt 1 Allgemeine Vorschriften
 § 33 Name, Rechtsform, Träger, Sitz, Satzung, Mündelsicherheit
@@ -69,7 +68,7 @@ Abschnitt 1 Allgemeine Vorschriften
 § 49 Name, Rechtsform, Träger, Sitz, Satzung
 § 50 Wesen, Aufgabe
 § 51 Kooperationen zwischen Finanzgruppe und Kreditinstituten
-§ 52 Gewährträgerhaftung, Aufgabenlast
+§ 52 Haftung
 § 53 Stammkapital, Anteilseigner, Rücklagen
 Abschnitt 2 Organisation der Finanzgruppe
 § 54 Organe
