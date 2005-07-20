@@ -1,0 +1,76 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2005-07-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/583278
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/583278
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: S-Bahnstation Westkreuz
+- TOP 2.2.: Dank für schnelle Durchführung der Randsteinabsenkung des Fuß- und Radweges in der Hohenesterstraße
+- TOP 2.3.: Müllbehälter an Bushaltestellen
+- TOP 2.4.: Skatehalle für Münchens Kinder und Jugendliche
+- TOP 2.5.: Standorte für 2 Litfaßsäulen im 22. Stadtbezirk
+- TOP 3: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4: Anträge
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Sportverein Lochhausen e.V.
+- TOP 5.2.: Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Evang. Kath. Rat Aubing-Neuaubing
+- TOP 5.3.: Vollz. d. Bayerischen Straßen- und Wegegesetzes im 22. Stadtbezirk; Einrichtung eines ambulanten Blumenverkaufsplatzes an der Hellensteinstraße
+- TOP 6: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörung zu Baumschutzfällen
+- TOP 6.2.: Mobilfunk, Standortabstimmungsverfahren, Umfrage; Schr. des Referates für Gesundheit und Umwelt vom 17.06.05
+- TOP 6.3.: Vollz. d. Bundesimmissionsschutzgesetzes u. d. Gesetzes über die Umweltverträglichkeitsprüfung; Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage, Erdenbörse und Erdenwerk durch das Konsortium Bilfinger/Berger-Schernthaner GmbH am Standort Goteboldstraße 100
+- TOP 6.4.: Plangenehmigung nach § 18 Abs. 2 AEG, ESTW München Südwest; Strecke 5541 München Pasing - Herrsching, Kabeltrasse
+- TOP 6.5.: Planfeststellung nach § 18 AEG, 2. S-Bahn-Stammstrecke München; Planfeststellungsabschnitt 2 München-Mitte - Bereich Westseite Karlsplatz bis westliches Isarufer mit Bahnhof Marienhof einschl. Rettungswege und brandschutztechnische Einrichtungen - Anhörungsverfahren -
+- TOP 6.6.: Außenbereichssatzung für die Wohnbebauung am Krähenweg (beiderseits)
+- TOP 7: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Samstagsöffnung von Stadtteilbüchereien; Schr. des BA 15 vom 20.06.05
+- TOP 7.2.: Kultur im Stadtquartier; Kultur-Katastar zur räumlichen Verteilung der städtischen Kultureinrichtungen; Evaluierung kultureller Zentren; Kulturelle Zentren und Stadtteilwochen; Schr. des BA 21 vom 20.06.05
+- TOP 7.3.: Bundestagswahl am 19.09.2005 (voraussichtlich); Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer; Schr. des KVR vom 20.06.05
+- TOP 7.4.: S-Bahn München, Machbarkeitsstudie zum 4-gleisigen Ausbau der S4-West Pasing-Buchenau, Stellungnahme der LH München; Schr. des Planungsreferates vom 21.06.05
+- TOP 7.5.: Verkehrsrechtliche Anordnung, Z 283 StVO, absolutes Haltverbot, Gehrenäckerweg und Eschenrieder Straße; Schr. des KVR vom 25.04.05
+- TOP 7.6.: Baufälle im 22. Stadtbezirk (v. 13.-19.06.05, v. 20.-26.06.05, v. 27.06.-03.07.05)
+- TOP 7.7.: Zwernitzerstraße, zwischen Altenburgstraße und Gailenreuther Straße, Herstellung der Gehbahn; Schr. des Baureferates vom 24.06.05
+- TOP 7.8.: Ausbau der Schwojerstraße zwischen Görbelmoosstr. und Hs.Nr. 19; Schr. des Baureferates vom 24.06.05
+- TOP 8: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Jour Fixe und Beschlussvorlage "Kultur im Stadtquartier"; Schr. des Kulturreferates vom 21.06.05
+- TOP 8.2.: Herstellung des nördlichen Zuganges des Aubinger Friedhofes; Schr. der Friedhofsverwaltung vom 16.06.05 zum BA-Antrag Nr. 51 vom 19.01.05
+- TOP 8.3.: Beseitigung von Straßenschäden und Anlegen eines Fußgängerweges auf der Papinstraße, Aufstellen von Müllcontainern; Schr. des Baureferates vom 16.06.05
+- TOP 8.4.: Straßendeckensanierung Ehrenbürgstraße; Schr. des Baureferates vom 16.06.05 zum BA-Antrag Nr. 148 vom 16.03.05
+- TOP 8.5.: Aufstellung von Mülltonnen entlang der Rupert-Bodner-Straße; Schr. von aurelis real Esate vom 22.06.05
+- TOP 8.6.: Colmdorfstr. 4, ehemaliger Lagerplatz der Fa. Bilfinger & Berger AG; Schr. des Planungsreferates vom 28.06.05 zur Anfrage des BA vom 19.03.05
+- TOP 8.7.: Anhörung der BA¿s in stadtratspflichtigen Angelegenheiten, hier: Freigabe des Anhörungsverfahrens durch den Stadtrat; Schr. Dr. Burkert vom 27.06.05
+- TOP 8.8.: Veranlassung der Sicherung des Grundstückes für das ehemalige Firmengelände "Bilfinger & Berger" an der Colmdorfstraße; Schr. des Kreisverwaltungsreferates vom 30.06.05 zum BA-Antrag Nr. 244
+- TOP 8.9.: Entfernen der Schmierereien am östlichen Brückenpfeiler der Streiflacher-Weg-Überführung über die A 99; Schr. des Baureferates vom 30.06.05 zum BA-Antrag Nr. 379 vom 20.06.05
+- TOP 9: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Bauausschuss vom 28.06.05 - Siedlungsschwerpunkt Freiham, Verkehrsliche Erschließung im 22. Stadtbezirk
+- TOP 9.2.: Sozialausschuss vom 07.07.05 - Bericht über Regsam - Konzept zur pflegerischen Versorgung älterer Menschen in München
+- TOP 9.3.: Ausschuss für Stadtplanung und Bauordnung vom 29.06.05 - Satzung der LH München über Einfriedungen und Vorgärten (Vorgartensatzung)
+- TOP 9.4.: Bauausschuss vom 14.06.05 - Befragung zur Zufriedenheit der Nutzerinnen und Nutzer mit städtischen Spielplätzen
+- TOP 9.5.: Schulausschuss vom 13.07.05 - Keine Raummiete für außerschulische Kooperationspartner
+- TOP 9.6.: Ausschuss für Stadtplanung und Bauordnung vom 13.07.05 - Perspektive München - PM-Bilanz - Perspektive München - PM Analysen - Fortschreibung Konzept für das Busparken in München
+- TOP 10: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Einladung zur Informationsveranstaltung am 20.07.05 um 18.00 Uhr zum Thema Straßenausbaubeitragsrecht im Baureferat, Friedensstr. 40, Raum 0.409
+- TOP 10.2.: Regionalgespräche zwischen Lokalbaukommission und den Bezirksausschüssen am 26.10.05 um 17.00 Uhr im Planungsreferat, Blumenstr. 28 b, Zimmer 475
+- TOP 10.3.: Münchner Jahreswirtschaftsbericht 2004
+- TOP 10.4.: Wirtschafts-Info 04-2005
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 21.09.2005
