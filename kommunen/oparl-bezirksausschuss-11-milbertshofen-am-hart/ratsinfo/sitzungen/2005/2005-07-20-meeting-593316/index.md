@@ -1,0 +1,93 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2005-07-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/593316
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/593316
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Berichte aus dem Stadtrat
+- TOP 3: Berichte der Polizei
+- TOP 4: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Gemeinsames Sommerfest des Olympiadorfes vom 08.07. - 10.07.2005 auf der Festwiese am Nadisee; Vorabzustimmung
+- TOP 4.1.: Veranstaltungen an der Pragerstraße am 08., 15., und 29.07.2005; Vorabzustimmung
+- TOP 4.2.: Regionalgespräche zwischen Lokalbaukommission und den Bezirksausschüssen; Einladung
+- TOP 4.3.: Rasenerneuerung Kusocinskydamm im Bereich Conollystraße 29-31, Antwortschreiben des Baureferates
+- TOP 4.1.: Gewährung von Zuwendungen für den "Trägerverein Kulturhaus Milbertshofen e.V.", Freigabe der Zuwendung für das Haushaltsjahr 2005 (Beschluss des Kulturausschusses vom 30.06.2005); Vorabzustimmung
+- TOP 4.2.: Kultur im Stadtquartier - Anhörungsfrist; Protest des BA 21 Pasing - Obermenzing
+- TOP 4.1.: Veranstaltung auf öffentlichem Verkehrsgrund, B2Run am 27.07.2005; Vorabzustimmung
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 4.1.: Bundestagswahl am 18.09.2005 (voraussichtlich), Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Kulturverein Olympiadorf e.V.; Sommerfest vom 08.07.- 10.07.2005
+- TOP 6.2.: Stadtteilarbeit e.V.; Internationales Stadtteilfest am 25.06.2005
+- TOP 6.3.: Diakonie Hasenbergl e.V. Bewohnerzentrum Neue Nordheide; Angerfest Neue Nordheide am 02.07.2005; Rücknahme des Antrags
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.1.: Einschränkungen bzw. Einstellung der nächtlichen Ruhestörung durch die Baustelle des BMW FIZ (Empfehlung Nr. 54 der Bürgerversammlung des 11. Stadtbezirkes Bezirksteil Am Hart am 26.06.2003)
+- TOP 7: Anträge
+- TOP 7.1.: Einrichtung von Wahlräumen in der Grundschule am Hildegard-von-Bingen-Anger (Bewohner Gemeinschaft Nordheide e.V., Mathias Kowoll )
+- TOP 7.2.: Beamer und Notebook für den BA 11 (SPD-Fraktion im BA 11)
+- TOP 7.3.: Benennung des U-Bahnhofes Oberwiesenfeld statt Olympiapark-Nord (SPD-Fraktion, CSU-Fraktion, Bündnis 90/Die Grünen im BA 11)
+- TOP 7.1.: Kurzparkzone Schleißheimer Straße zwischen Georgenschwaigstr. und Keferloher Straße (Evamaria Wagner)
+- TOP 8: Anhörungen
+- TOP 8.1.: Baumfällungen Baumaßnahmen: a) Frankfurter Ring 29 b) Georgenschwaigstr. 45 c) Staudenrauchstr. 15
+- TOP 8.2.: Baumfällungen Einzelmaßnahmen: a) Moosacher Straße 80 b) Permanederstr. 23
+- TOP 8.3.: Anhörung im Einzelfall auf Anforderung, Baumaßnahmen: a) Dohlenweg 11
+- TOP 8.4.: Aufwertung und Umgestaltung des Mittelteilers Schleißheimer Straße und des Dülferanger
+- TOP 8.1.: Samstagsöffnung von Stadtteilbüchereien, Schreiben des BA 15 Trudering - Riem
+- TOP 8.2.: Kultur im Stadtquartier; Beschluss des Kulturausschusses vom 21.07.2005
+- TOP 8.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Anhörung - nicht öffentlich -
+- TOP 8.1.: Dauerhafte Verlegung des BMW - Busbahnhofes in die Dostlerstraße
+- TOP 8.2.: Erweiterung des Halteverbotes in der Preußenstraße
+- TOP 9: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Pressemitteilung des BA 19 "Unsere Städte sind bunt, nicht braun", Münchener BürgerInnen solidarisch mit Wunsiedel
+- TOP 9.2.: Anträge der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart vom 30.06.2005
+- TOP 9.3.: Vollzug der Grünanlagensatzung vom 12.08.1991, Veranstaltung an der Panzerwiese (Bewohnerfest am 02.07.2005), Ausnahmebewilligung
+- TOP 9.4.: Vollzug der Grünanlagensatzung vom 12.08.1991, Veranstaltung an der Milbertshofener Straße; Ausnahmebewilligung
+- TOP 9.5.: Vollzug der Grünanlagensatzung vom 12.08.1991, Veranstaltung an derSchmalkaldener Straße; Ausnahmebewilligung
+- TOP 9.6.: Vollzug der Grünanlagensatzung vom 12.08.1991, Feuerwerk auf dem Olympiaberg, Ausnahmebewilligung
+- TOP 9.7.: Direktorium: Zuwendungs- / Änderungsbescheid für einen Zuschuss aus dem BA - Budget a) Alten- und Serviezentrum Milbertshofen, genehmigt 450.-¿ b) Milbertshofen in Aktion, genehmigt 600.-¿ c)Grundschule an der Bernaysstraße, genehmigt 209.-¿
+- TOP 9.1.: Einladung zur Informationsveranstaltung am 20.07.2005 zum Thema Starßenausbaubeitragsrecht, Baureferat
+- TOP 9.2.: Perspektive München - PM - Bilanz, Leitprojekt: Stadtteilentwicklung Hadern; Münchner Habitat-Tag in Hadern
+- TOP 9.3.: Satzung zur Teiländerung und Ergänzung des Bebauungsplanes mit Grünordnung Nr. 1505a Bereich: Maria-Probst-Straße (nördlich), Ingolstädter Straße (östlich), (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005)
+- TOP 9.4.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 9.5.: Hundekot in Grünanlagen; Aufstellung von mehr Mülleimern zur Entsorgung (Beschluss des Bauausschusses vom 28.06.2005)
+- TOP 9.6.: Baumfällung Einzelmaßnahme: Hilgerstr. 7, Genehmigungsbescheid
+- TOP 9.7.: Satzung der Landeshauptstadt München über Einfriedungen und Vorgärten (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2005)
+- TOP 9.8.: Sanierungsgebiet Petuelring (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005)
+- TOP 9.9.: Meldelisten Bauvorhaben
+- TOP 9.10.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1962, Willi-Daume-Platz, Olympiasee, Roopsingh-Bais-Weg, Sea Life Centre; Satzungsbeschluss
+- TOP 9.1.: Stellungnahme zur Beschlussvorlage für den Sozialausschuss am 07.07.2005, Bericht über REGSAM (Antrag Bündnis 90 / Die Grünen / RL) und Bleibt REGSAM ein Erfolgsmodell? (StRin Angelika Gebhardt und StRin Brigitte Meier)
+- TOP 9.2.: Perspektive München - PM Analysen, Wissenschafts- und Hochschulstandort München, Rahmenbedingungen und Perspektiven (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005)
+- TOP 9.3.: Gesamtkonzept zur Betreuung von Senioren im 11. Stadtbezirk (Beschluss des Sozialausschusses vom 09.06.2005)
+- TOP 9.4.: Erweiterung der städtischen Kindertageseinrichtung an der Schleißheimer Str.279
+- TOP 9.5.: Befragung zur Zufriedenheit der Nutzerinnen und Nutzer mit städtischen Spielplätzen (Beschluss des Bauausschusses vom 14.06.2005)
+- TOP 9.6.: Bericht über REGSAM; Bleibt REGSAM ein Erfolgsmodell? (Beschluss des Sozialausschusses vom 07.07.2005)
+- TOP 9.7.: Neukonzipierung "Fest junger Erwachsener" (Beschluss des Verwaltungs- und Personalausschusses von 13.04.2005)
+- TOP 9.8.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 9.9.: Jahresstatistik der Münchner Stadtbibliothek (2004)
+- TOP 9.10.: Sozialorientierte Hausverwaltung für am Wohnungsmarkt Benachteiligte; Sozialreferat, Konzept der Unterkunftsabteilung - 2005
+- TOP 9.11.: Konzept zur pflegerischen Versorgung älterer Menschen in München (Beschluss des Sozialausschusses vom 07.07.2005)
+- TOP 9.12.: Keine Raummiete für außerschulische Kooperationspartner (Beschluss des Schulausschusses des Stadtrates vom 13.07.2005)
+- TOP 9.13.: a) Diskothek "Pulverturm", Schleißheimer Straße 393 b) SSW "Konstanzer Stüberl", Konstanzer Str. 36 c) SSW "St.Georg", Milbertshofener Platz 8 d) KGS "Imbiss", Keferloherstr. 43 e) SSW "Schoppenhaier", Riesenfeldstr. 30
+- TOP 9.1.: Fortschreibung: Konzept für das Busparken in München (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005)
+- TOP 9.2.: Verkehrsrechtliche Anordnung nach § 45 StVO a) Knorrstraße b) Strelitzer Straße
+- TOP 9.3.: Filmaufnahmen auf öffentllichem Verkehrsgrund; Erlaubnisbescheid
+- TOP 9.4.: Veranstaltung auf öffentlichem Verkehrsgrund, Erlaubnisbescheid: a) Nachbarschaftsfest am 11.06.2005 auf dem Alten St. Georgs-Platz b) Flohmarkt Milbertshofener Platz am 18.06.2005 c) Fronleichnamsprozession mit anschl. Beisammensein - Pfarramt St. Georg
+- TOP 10: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
