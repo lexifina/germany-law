@@ -1,0 +1,73 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2005-07-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/592023
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/592023
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Blindensignale an der Ampelanlage Dachauer Str. / Bauberger Str. / Pelkovenstr.: Reduzierung der Lautstärke, Abschaltung während der Nachtstunden
+- TOP 2.2.: Verkehrsaufkommen in der Pelkovenstraße
+- TOP 2.3.: Parkplätze im Bereich Magdalena-Bräu-Weg
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Bürgerbüro
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses; Münchner Aktionswerkstatt G¿sundheit: Aktions- und Bewegungstag am 01.07.05
+- TOP 6.: Anhörungen
+- TOP 6.1.: 2. S-Bahn-Stammstrecke München; Bereitstellungsflächen auf dem Rangierbahnhofgelände
+- TOP 6.2.: Mobilfunk, Standortabstimmungsverfahren
+- TOP 6.4.: Vollzug der Baumschutzverordnung a) Lauinger Str. 37, Hr. Steffens b) Lauinger Str. 23, Hr. Steffens c) Dachauer Str. 140 d, Hr. Dietrich d) Gärtnerstr. 6, Fr. Schrimpf e) Moosstr. 4, Hr. Wimmer
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Widmung Kusocinski-Damm (abgelehnt)
+- TOP 7.2.: Beleuchtung des Bolzplatzes In den Kirschen / Franz-Mader-Str. (abgelehnt)
+- TOP 7.3.: Markthallen im Bereich des Moosacher Bahnhofes
+- TOP 7.4.: Verschmutzung des Kapuzinerhölzls (Zwischennachricht)
+- TOP 7.5.: Errichtung einer Wiederaufbereitungsanlage für Oberbaustoffe im Bereich des Rangierbahnhofs (Verzicht der DB)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Informationen zum Volksbegehren der ödp "Für Gesundheitsvorsorge beim Mobilfunk" (Schreiben des Vorsitzenden der CSU-Landtagsfraktion)
+- TOP 8.2.: Vorgartensatzung, Schreiben der Regierung von Oberbayern, Nichtanwendung von § 3 der Satzung
+- TOP 8.3.: Ehrenpreis für guten Wohnungsbau; Wohnen im Alter und vorbildliche Sanierung
+- TOP 8.4.: Beschlussvollzugskontrolle (BVK)
+- TOP 8.5.: Jahresstatistik der Münchner Stadtbibliothek
+- TOP 8.6.: Gleisbauarbeiten im Bereich Olympiapark West und am Hauptbahnhof / Prielmayerstraße
+- TOP 8.7.: Konsequenzen einer Samstagsöffnung der Stadtbibliotheken (Beschluss des Kulturausschusses und Schreiben des BA 15 Trudering-Riem)
+- TOP 8.8.: Dezimierung der Wasservögel an den Seen im Münchner Norden
+- TOP 8.9.: Bebauungsplan mit Grünordnung Nr. 1941, Baubergerstraße (östlich), Netzerstr.(westlich)
+- TOP 8.10.: Baumfällungsantrag Hirschstr. 19 (Schreiben des Antragstellers an die Untere Naturschutzbehörde)
+- TOP 8.11.: Feuerwerk Hartmannshofer Str. 20, Restaurant "Neue Fasanerie" am 02.07.05 (Vorabstellungnahme der Vorsitzenden aus Fristgründen)
+- TOP 8.12.: Zuordnung der 5. und 6. Klassen der Grund- und Teilhauptschule Am Amphionpark zur Hauptschule an der Leipziger Straße (Schreiben der Regierung von Oberbayern bezüglich der Einwendungen im Anhörungsverfahren)
+- TOP 8.13.: Hundekot in Grünanlagen, Aufstellung von mehr Mülleimern zur Entsorgung (Empfehlung der Bürgerversammlung des 14. Stadtbezirkes Berg am Laim)
+- TOP 8.14.: Änderung des Flächennutzungsplanes, Memminger Platz, Untermenzinger Straße, Allacher Straße, Bahnlinie München-Regensburg (Meiller-Gelände); Billigungsbeschluss und vorbehaltlich endgültiger Beschluss
+- TOP 8.15.: Bebauungsplan mit Grünordnung Nr. 1857; Von-Kahr-Straße, Allacher Straße, Peter-Dörfler-Straße - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss -
+- TOP 8.16.: Kultur im Stadtquartier - Anhörungsfrist; Schreiben des BA 21 Pasing-Obermenzing
+- TOP 8.17.: Internationale Stadtteilfeste: Keine Förderung mehr durch den Ausländerbeirat
+- TOP 8.18.: Perspektive München; Stellungnahmen zur Anhörung der Bezirksausschüsse
+- TOP 8.19.: Perspektive München: Wissenschafts- und Hochschulstandort München
+- TOP 8.20.: Perspektive München: Bilanz; Leitprojekt Stadtteilentwicklung Hadern
+- TOP 8.21.: Vollzug des Bayerischen Naturschutzgesetzes; Novellierung des Landschaftsschutzgebietes "Nymphenburger Park mit Umgriff einschließlich des Nymphenburger Kanals samt der Nördlichen und Südlichen Auffahrtsallee und des Grünwaldparks"
+- TOP 8.22.: Konzept für das Busparken in München, Fortschreibung
+- TOP 8.23.: Meldeliste Bauvorhaben
+- TOP 8.24.: Abgeschlossenheitsbescheinigungen
+- TOP 8.25.: Trinkl-Siedlung; Erstmalige Herstellung im Umgriff des Bebauungsplanes mit Grünordnung Nr. 1702 a
+- TOP 8.26.: Befragung zur Zufriedenheit der Nutzerinnen und Nutzer mit städtischen Spielplätzen
+- TOP 8.27.: Grünbroschüre
+- TOP 8.28.: Konzept zur pflegerischen Versorgung älterer Menschen in München
+- TOP 8.29.: Bericht über REGSAM
+- TOP 8.30.: Keine Raummiete für außerschulische Kooperationspartner
+- TOP 6.3.: Wiederherstellung der Bunzlauer Straße nach dem U-Bahn-Bau
+- TOP 4: Anträge
