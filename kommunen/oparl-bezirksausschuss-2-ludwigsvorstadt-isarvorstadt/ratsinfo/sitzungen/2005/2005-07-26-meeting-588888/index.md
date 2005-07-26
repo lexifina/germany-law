@@ -1,0 +1,73 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2005-07-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/588888
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/588888
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .2.1.: BA-Budget
+- TOP .1.: Zuschuss aus dem BA-Budget für die Aktion "Sichere Wiesn" 2005 (Vertagung vom 28.06.2005)
+- TOP .2.: Zuschuss aus dem BA-Budget für die Maßnahme "Spiele auf dem Pausenhof" der GS Schwanthalerstraße
+- TOP .2.2.: Kultur
+- TOP .1.: Samstagsöffnung von Stadtteilbibliotheken
+- TOP .2.: Erinnerung an den Überfall der Rechtsextremisten in der Zenettistraße
+- TOP .3.1.: Bauvorhaben
+- TOP .1.: Auenstr. 98, Abbruchantrag für das Baudenkmal
+- TOP .2.: Thalkirchner Str. 112, Umbau von 2 Werbetafeln zu einer Tafel
+- TOP .3.: Geyerstr. 22, DG-Ausbau mit Dachanhebung, Errichtung eines 2. Rettungsweges (Vertagung v. 28.06.2005)
+- TOP .4.: Holzstr. 27, Nutzungsänderung Laden zu Gastronomie (Vertagung vom 28.06.2005)
+- TOP .5.: Sonnenstr. 14, Sanierung und Umbau mit Teilaufstockungeines Büro- und Geschäftsgebäudes (Vertagung vom 28.06.2005)
+- TOP .6.: Schillerstr. 41, Errichtung einer Werbeanlage - Plakatanschlagtafel (Vertagung vom 28.06.2005)
+- TOP .7.: Bavariaring 44, Umbau und Nutzungsänderungen in einem Bürogebäude (Vertagung vom 28.06.2005)
+- TOP .8.: Schmellerstr. 6, Balkonausbau im 2. und 3. OG (Vertagung vom 28.06.2005)
+- TOP .9.: Baaderstr. 63, DG-Ausbau sowie Anbau eines Personenaufzuges und von Balkonen
+- TOP .10.: Fraunhoferstr. 14, DG-Ausbau, Balkonanbau
+- TOP .11.: Lindwurmstr. 13, Nutzungsänderung: Bäckerladen mit Stehcafé zu Pizza-Bistro mit Coffee-Shop
+- TOP .12.: Maistr. 26, Aufstockung und DG-Ausbau des Wohn- und Geschäftshauses (Vertagung vom 28.06.2005)
+- TOP .13.: Bayerstr. 47, Umbau und Nutzungsänderung eines Bürogebäudes in ein Hotel (Vorbescheid - Plenumsbeschluss
+- TOP .3.2.: Sonstige
+- TOP .1.: Mobilfunk, Umfrage zum Standortabstimmungsverfahren
+- TOP .2.: Planfeststellung 2.S-Bahnstammstrecke München; Abschnitt 2 München Mitte - Bereich Westseite Karlsplatz bis westliches Isarufer
+- TOP .3.: Neugestaltung des Gärtnerplatzes, Beschlussvorlage für den Bauausschuss
+- TOP .4.: Tiefgarage am Gärtnerplatz, Beschlussvorlage für den Planungsausschuss
+- TOP .3.3.: Baumschutz
+- TOP .1.: BAvariaring 37, Fällung v. 1 Hainbuche
+- TOP .2.: Klenzestr. 30 b, Fällung von 1 Scheinakazie
+- TOP .3.: Pettenkoferstr. 12 - 14, Fällung von 3 Linden (Verlegung von Regenwasserkanälen)
+- TOP .4.: Klenzestr. 17, Fällung einer Birke wegen Schieflage
+- TOP .5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP .1.: Behinderung des Fußgängerverkehrs durch Freischankflächen
+- TOP .3.1.: Sperrzeit-Angelegenheiten
+- TOP .3.2.: Freischankflächen
+- TOP .1.: Gaststätte "Inges Karotte", Baaderstr. 13 (Neuantrag)
+- TOP .2.: Gaststätte "Bistro Domenico", Schillerstr. 24 (Neuantrag)
+- TOP .3.3.: Warenstellagen
+- TOP .1.: Schillerstr. 14 (Obst und Gemüse)
+- TOP .2.: Goethestr. 26 / Seite Landwehrstraße (Obst und Gemüse)
+- TOP .3.4.: Verkehr
+- TOP .1.: Verbreiterung des Fahrweges für die Tram in der Rumfordstraße zwischen Reichenbachplatz und Zweibrückenstraße, Behinderung der Tram durch Falschparker
+- TOP .1.: Straßenfest in der Pestalozzistraße am 10.09.2005 (11.09.2005)
+- TOP .2.: Straßenfest in der Zenettistraße (vorher Thalkirchnerstraße)
+- TOP .3.: medien.marathin 2005
+- TOP .5.1: Berichte der Beauftragten ( AK Theresienwiese)
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP .3.2.: Berichte aus den anderen BA
+- TOP .3.3.: Bericht des Internetbeauftragten
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Infos)
+- TOP .2.: Veranstaltungen
