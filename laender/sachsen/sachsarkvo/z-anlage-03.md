@@ -4,34 +4,44 @@ Anlage 3
 Land/Ort | Auslandstagegeld – in EUR – | Auslandsübernachtungskosten bis zu … EUR mit Nachweis – in EUR –
 Land/Ort | Auslandstagegeld – in EUR – | Auslandsüber- nachtungskosten bis zu … EUR mit Nachweis – in EUR –
 1 | 2 | 3
-Argentinien | 46,02 | 102,26
-Bolivien | 23,01 | 56,24
+Antigua und Barbuda | 35 | 85
+Argentinien | 35 | 90
+Barbados | 35 | 110
+Bolivien | 20 | 65
 Brasilien |  | 
-– Recife | 25,56 | 51,13
-– Rio de Janeiro | 33,23 | 122,71
-– Sao Paulo | 33,23 | 71,58
-– im Übrigen | 28,12 | 61,36
-Chile | 28,12 | 66,47
-Costa Rica | 28,12 | 81,81
-Dominikanische Republik | 30,68 | 86,92
-Ecuador | 20,45 | 71,58
-El Salvador | 23,01 | 81,81
-Guatemala | 28,12 | 76,69
-Haiti | 30,68 | 76,69
-Honduras | 25,56 | 76,69
-Jamaika | 33,23 | 92,03
-Kanada | 30,68 | 76,69
-Kolumbien | 20,45 | 56,24
-Kuba | 28,12 | 71,58
-Mexiko | 25,56 | 51,13
-Nicaragua | 25,56 | 61,36
-Panama | 33,23 | 66,47
-Paraguay | 20,45 | 71,58
-Peru | 28,12 | 86,92
-Trinidad und Tobago | 33,23 | 81,81
-Uruguay | 35,79 | 86,92
-Venezuela | 30,68 | 117,60
+– Rio de Janeiro | 30 | 140
+– Sao Paulo | 30 | 90
+– im Übrigen | 25 | 70
+Chile | 29 | 67
+Costa Rica | 25 | 90
+Dominica | 30 | 80
+Dominikanische Republik | 25 | 100
+Ecuador | 32 | 70
+El Salvador | 30 | 100
+Grenada | 30 | 105
+Guatemala | 25 | 90
+Guyana | 30 | 90
+Haiti | 35 | 90
+Honduras | 25 | 100
+Jamaika | 40 | 110
+Kanada | 30 | 100
+Kolumbien | 20 | 55
+Kuba | 35 | 90
+Mexiko | 30 | 110
+Nicaragua | 25 | 100
+Panama | 37 | 110
+Paraguay | 20 | 50
+Peru | 30 | 90
+St. Kitts und Nevis | 30 | 100
+St. Lucia | 37 | 105
+St. Vincent und die Grenadinen | 30 | 110
+Suriname | 25 | 75
+Trinidad und Tobago | 30 | 100
+Uruguay | 20 | 50
+Venezuela | 25 | 120
 Vereinigte Staaten (USA) |  | 
-– Atlanta, Boston und San Francisco | 40,90 | 117,60
-– New York | 46,02 | 117,60
-– im Übrigen | 40,90 | 102,26
+– San Francisco | 30 | 120
+– Boston, Washington | 45 | 120
+– Houston, Miami | 40 | 110
+– New York Staat, Los Angeles | 40 | 150
+– im Übrigen | 30 | 110

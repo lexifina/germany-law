@@ -4,75 +4,76 @@ Anlage 1
 Land/Ort | Auslandstagegeld – in EUR – | Auslandsübernachtungskosten bis zu … EUR mit Nachweis – in EUR –
 Land/Ort | Auslandstagegeld – in EUR – | Auslandsüber- nachtungskosten bis zu … EUR mit Nachweis – in EUR –
 1 | 2 | 3
-Albanien | 20,45 | 51,13
-Andorra | 25,56 | 81,81
-Belgien | 33,23 | 76,69
-Bosnien und Herzegowina | 25,56 | 76,69
-Bulgarien | 17,90 | 71,58
+Albanien | 25 | 90
+Andorra | 26 | 82
+Belgien | 35 | 100
+Bosnien und Herzegowina | 20 | 70
+Bulgarien | 18 | 72
 Dänemark |  | 
-– Kopenhagen | 40,90 | 92,03
-– im Übrigen | 38,35 | 56,24
-Estland | 28,12 | 76,69
-Finnland | 33,23 | 76,69
+– Kopenhagen | 35 | 140
+– im Übrigen | 35 | 70
+Estland | 22 | 85
+Finnland | 35 | 120
 Frankreich |  | 
-– Paris sowie die Departements 92, 93 und 94 | 40,90 | 81,81
-– Bordeaux und Straßburg | 33,23 | 66,47
-– Lyon | 33,23 | 81,81
-– im Übrigen | 33,23 | 51,13
-Griechenland | 25,56 | 61,36
-Irland | 35,79 | 81,81
-Island | 40,90 | 102,26
+– Paris sowie die Departements 92, 93 und 94 | 40 | 100
+– Straßburg | 32 | 75
+– im Übrigen | 32 | 100
+Griechenland |  | 
+– Athen | 30 | 135
+– im Übrigen | 25 | 85
+Irland | 35 | 130
+Island | 60 | 190
 Italien |  | 
-– Mailand | 33,23 | 102,26
-– im Übrigen (gilt auch für Vatikanstadt) | 30,68 | 81,81
-Jugoslawien | 30,68 | 66,47
-Kroatien | 23,01 | 56,24
-Lettland | 23,01 | 61,36
-Liechtenstein | 38,35 | 81,81
-Litauen | 20,45 | 71,58
-Luxemburg | 33,23 | 71,58
-Malta | 25,56 | 56,24
-Mazedonien | 20,45 | 66,47
-Moldau, Republik | 15,34 | 76,69
-Monaco | 33,23 | 51,13
-Niederlande | 33,23 | 71,58
-Norwegen | 46,02 | 112,48
+– Mailand | 30 | 140
+– Rom (gilt auch für Vatikanstadt) | 30 | 100
+– im Übrigen | 30 | 110
+Kroatien | 24 | 57
+Lettland | 15 | 80
+Liechtenstein | 39 | 82
+Litauen | 22 | 100
+Luxemburg | 32 | 87
+Malta | 25 | 90
+Mazedonien | 20 | 100
+Moldau, Republik | 15 | 90
+Monaco | 34 | 52
+Niederlande | 32 | 100
+Norwegen | 55 | 155
 Österreich |  | 
-– Wien | 30,68 | 81,81
-– im Übrigen | 28,12 | 66,47
+– Wien | 30 | 93
+– im Übrigen | 30 | 70
 Polen |  | 
-– Breslau | 25,56 | 81,81
-– Warschau | 30,68 | 102,26
-– im Übrigen | 23,01 | 61,36
+– Warschau, Krakau | 25 | 90
+– im Übrigen | 20 | 70
 Portugal |  | 
-– Lissabon | 28,12 | 71,58
-– im Übrigen | 25,56 | 71,58
+– Lissabon | 30 | 95
+– im Übrigen | 27 | 95
 Rumänien |  | 
-– Bukarest | 20,45 | 102,26
-– im Übrigen | 12,78 | 35,79
+– Bukarest | 22 | 120
+– im Übrigen | 15 | 55
 Russische Föderation |  | 
-– Moskau | 43,46 1 | 127,82
-– St. Petersburg | 35,79 | 92,03
-– im Übrigen | 17,90 | 35,79
-San Marino | 33,23 | 76,69
-Schweden | 40,90 | 102,26
-Schweiz | 35,79 | 81,81
-Slowakei | 17,90 | 71,58
-Slowenien | 20,45 | 61,36
+– Moskau | 40 | 135
+– St. Petersburg | 30 | 110
+– im Übrigen | 30 | 80
+San Marino | 34 | 77
+Schweden | 50 | 160
+Schweiz | 40 | 89
+Serbien-Montenegro | 20 | 85
+Slowakei | 15 | 110
+Slowenien | 25 | 95
 Spanien |  | 
-– Barcelona | 25,56 | 92,03
-– Kanarische Inseln | 25,56 | 51,13
-– im Übrigen | 25,56 | 76,69
-Tschechische Republik | 20,45 | 76,69
+– Barcelona, Madrid | 30 | 150
+– Kanarische Inseln | 30 | 90
+– Palma de Mallorca | 30 | 125
+– im Übrigen | 30 | 105
+Tschechische Republik | 20 | 97
 Türkei |  | 
-– Ankara und Izmir (geografisch zugehörig zu Asien) | 23,01 | 66,47
-– im Übrigen | 20,45 | 66,47
-Ukraine | 30,68 | 81,81
-Ungarn | 23,01 | 76,69
+– Ankara und Izmir (geografisch zugehörig zu Asien) | 25 | 70
+– im Übrigen | 25 | 60
+Ukraine | 25 | 120
+Ungarn | 20 | 80
 Vereinigtes Königreich von Großbritannien und Nordirland |  | 
-– London | 46,02 | 107,37
-– Manchester | 35,79 | 92,03
-– im Übrigen | 35,79 | 56,24
-Weißrussland | 17,90 | 61,36
-Zypern (einschließlich asiatischer Teil) | 25,56 | 66,47
-1 Bei Unterbringung in Gästewohnungen der deutschen Botschaft in Moskau und der Möglichkeit der Inanspruchnahme dortiger voller Verpflegung (Frühstück, Mittag- und Abendessen) beträgt das Auslandstagegeld für Moskau 15,34 EUR.
+– London | 50 | 152
+– Edinburgh | 35 | 170
+– im Übrigen | 35 | 110
+Weißrussland | 20 | 100
+Zypern (einschließlich asiatischer Teil) | 30 | 110
