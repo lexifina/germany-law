@@ -1,0 +1,3 @@
+# Verordnung des Regierungspräsidiums Chemnitz zur Änderung der Zonierung des Naturparks „Erzgebirge/Vogtland“ auf dem Gebiet der Stadt Schöneck
+Vom 11. Mai 2005
+Aufgrund von § 20 des Sächsischen Gesetzes über Naturschutz und Landschaftspflege (Sächsisches Naturschutzgesetz – SächsNatSchG) in der Fassung der Bekanntmachung vom 11. Oktober 1994 (SächsGVBl. S. 1601, 1995 S. 106), das zuletzt durch Artikel 4 des Gesetzes vom 22. April 2005 (SächsGVBl. S. 121, 124) geändert worden ist und § 1 der Verordnung des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft zur Bestimmung der Zuständigkeit für Änderungen der Naturparkverordnung Erzgebirge/Vogtland vom 23. September 2002 (SächsGVBl. S. 283) wird verordnet:
