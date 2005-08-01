@@ -1,33 +1,35 @@
 # Inhaltsverzeichnis
 Inhaltsübersicht
-Teil 1: Allgemeine Bestimmungen
-§ 1 | Ausbildungsstätten
-§ 2 | Aufgabe und Ziel
-Teil 2: Ausbildung
+Teil 1 Ausbildung
+§ 1 | Aufgaben und Ziele
+§ 2 | Unterrichtsgrundsätze
 § 3 | Dauer und Organisation der Ausbildung
-§ 4 | Unterrichtsfächer, Stundentafeln und Lehrpläne
-§ 5 | Allgemeine Unterrichtsgrundsätze
-Teil 3: Zulassung
-§ 6 | Voraussetzungen für die Zulassung
-§ 7 | Zulassungsverfahren für Ausländer und Aussiedler
-§ 8 | Zulassung
-Teil 4:Prüfung
-§ 9 | Allgemeines
-§ 10 | Abnahme der Prüfung
-§ 11 | Prüfungsausschuß und Teilprüfungsausschüsse
-§ 11a | Berücksichtigung besonderer Belange Behinderter
-§ 12 | Gegenstand, Ort und Termine der Prüfung, Belehrung
+§ 4 | Unterrichtsfächer und Stundentafeln
+§ 5 | Voraussetzungen für die Zulassung
+§ 6 | Zulassungsverfahren für Bewerberinnen und Bewerber nicht deutscher Herkunftssprache
+§ 7 | Zulassung
+Teil 2 Prüfung
+§ 8 | Allgemeines
+§ 9 | Abnahme der Prüfung
+§ 10 | Prüfungsausschuss und Teilprüfungsausschüsse
+§ 11 | Gegenstand, Ort und Termine der Prüfung, Belehrung
+§ 12 | Berücksichtigung besonderer Belange behinderter Menschen
 § 13 | Zulassung zur Prüfung
-§ 14 | Erste Prüfungskonferenz
-§ 15 | Schriftliche Prüfung
-§ 16 | Zweite Prüfungskonferenz
-§ 17 | Mündliche Prüfung
-§ 18 | Noten
-§ 19 | Dritte Prüfungskonferenz, Ergebnis der Prüfung
-§ 20 | Wiederholung der Prüfung
-§ 21 | Täuschung und Behinderung
-§ 22 | Versäumnis
-§ 23 | Prüfung für schulfremde Bewerber
-§ 24 | Niederschriften
-Teil 5:Übergangs- und Schlußbestimmungen
-§ 25 | Übergangs- und Schlußbestimmungen
+§ 14 | Festlegungen zur schriftlichen Prüfung
+§ 15 | Vornoten der Prüfungsfächer
+§ 16 | Erste Prüfungskonferenz
+§ 17 | Schriftliche Prüfung
+§ 18 | Projektarbeit
+§ 19 | Besondere Lernleistung
+§ 20 | Zweite Prüfungskonferenz
+§ 21 | Mündliche Prüfung
+§ 22 | Noten
+§ 23 | Dritte Prüfungskonferenz, Ergebnis der Prüfung
+§ 24 | Wiederholung der Prüfung
+§ 25 | Täuschung und Behinderung
+§ 26 | Versäumnis
+§ 27 | Prüfung für schulfremde Bewerberinnen und Bewerber
+§ 28 | Prüfung für Fernlehrgangsteilnehmerinnen und Fernlehrgangsteilnehmer
+§ 29 | Niederschriften
+Teil 3 Schlussbestimmungen
+§ 30 | In-Kraft-Treten, Übergangsbestimmungen

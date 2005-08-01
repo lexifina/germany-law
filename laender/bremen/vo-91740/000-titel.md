@@ -1,1 +1,1 @@
-# Verordnung über die Fachoberschule vom 11. Juli 1989
+# Verordnung über die Fachoberschule vom 5. Juli 2005
