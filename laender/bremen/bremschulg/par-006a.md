@@ -1,0 +1,6 @@
+# § 6a Unterrichtung der Eltern volljähriger Schülerinnen und Schüler
+(1) Die Eltern volljähriger Schülerinnen und Schüler haben das Recht, sich über deren Ausbildungsweg zu unterrichten. Auskünfte über den Leistungsstand, darf die Schule den Eltern erteilen, wenn die Schülerin oder der Schüler dem nicht widersprochen hat. Über den Widerspruch einer volljährigen Schülerin oder eines volljährigen Schülers werden die Eltern unterrichtet.
+(2) Unbeschadet dessen soll die Schule die Eltern volljähriger Schülerinnen und Schüler über wesentliche den Bildungsgang der Schülerin oder des Schülers betreffende Entscheidungen und andere schwerwiegende Sachverhalte, die das Schulverhältnis wesentlich berühren, unterrichten.
+(3) Absatz 2 findet keine Anwendung, soweit die Schülerin oder der Schüler das 21. Lebensjahr vollendet oder den bestehenden Bildungsgang nach Vollendung des 18. Lebensjahres begonnen hat.
+(4) Eltern im Sinne dieser Bestimmung sind die im Zeitpunkt der Vollendung des 18. Lebensjahres für die Person der Schülerin oder des Schülers Sorgeberechtigten.
+(5) Das Nähere über die Entscheidungen und Sachverhalte nach Absatz 2 sowie zur Benachrichtigung der volljährigen Schülerinnen und Schüler über die Elterninformation regelt eine Rechtsverordnung.
