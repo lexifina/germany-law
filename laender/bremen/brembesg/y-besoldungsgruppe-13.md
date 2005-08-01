@@ -5,8 +5,9 @@ Funkoberlehrer
 Konrektor
 - als der ständige Vertreter des Leiters einer mit einer Grundschule, mit einer Grund- und Hauptschule oder mit einer Hauptschule verbundenen Realschule mit bis zu 540 Schülern1) -
 - als der ständige Vertreter des Leiters einer Grundschule mit mehr als 180 bis zu 360 Schülern -
-Lehrer für die Primarstufe
-Lehrer für die Sekundarstufe I
+Lehrer für die Primarstufe und Sekundarstufe I 7)
+Lehrer für die Primarstufe6)
+Lehrer für die Sekundarstufe I6)
 Lehrer für die Sekundarstufe II2)
 Lehrer für Sonderpädagogik2)
 Oberlehrer im Justizvollzugsdienst3)
@@ -23,3 +24,6 @@ Fußnoten
 4) Erhält als Leiter des allgemeinbildenden Zweiges der Abteilung Aus- und Fortbildung der Polizei Bremen eine Stellenzulage von EUR 27,61.
 4) Erhält als Leiter des allgemeinbildenden Zweiges der Abteilung Aus- und Fortbildung der Polizei Bremen eine Stellenzulage von EUR 27,61.
 5) Erhält eine Amtszulage von 257,08 DM.
+6) Nur für die am 31. Juli 2005 vorhandenen Lehrkräfte.
+6) Nur für die am 31. Juli 2005 vorhandenen Lehrkräfte.
+7) Für dieses Amt dürfen höchstens 40 vom Hundert der Planstellen für die genannten Lehrer ausgewiesen werden.
