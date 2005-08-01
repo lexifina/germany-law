@@ -1,0 +1,82 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2005-08-01T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/696874
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/696874
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.1.: Bauvorhaben Implerstraße 17
+- TOP 3: Gaststättenangelegenheiten
+- TOP 3.1.: Novelierung des Gaststättengesetzes
+- TOP 3.2.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 3.3.: Freischankfläche Alramstraße 27
+- TOP 3.4.: Freischankfläche Gaststätte "Of Of", Oberländerstraße 3B
+- TOP 4: Verkehrsangelegenheiten
+- TOP 4.1.: Errichtung einer Warenstellage, Implerstraße 53
+- TOP 4.2.: Neubau einer Lichtzeichenanlage an der Kreuzung Ganghoferstraße / Pfeuferstraße
+- TOP 4.3.: Lindenschmit- / Kidlerstraße; Aufhebung des Linksabbiegeverbotes
+- TOP 5: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 5.1.: Änderung des Termins der BA-Sitzung im Oktober
+- TOP 5.2.: Versand von Vereinssatzungen mit den Budgetvorlagen
+- TOP 5.3.: Projektwoche "Historische Lernorte Sendling" vom 18. - 24.07.2005
+- TOP 5.4.: Budgetantrag Plinganserschule, Gewaltpräventionsprojekt Schuljahr 2005 / 2006; ¿ 2.000,-
+- TOP 6: Referat für Stadtplanung und Bauordnung
+- TOP 6.1.: Teilnehmer am Regionalgespräch zwischen LBK und BA am 28.09.2005, 17.00 Uhr
+- TOP 6.2.: Meldeliste Bauvorhaben
+- TOP 6.3.: Bauvorhaben Tükisch-Islamisches-Zentrum Kochelseestraße / Thalkirchner Straße
+- TOP 6.4.: Bauvorhaben Königsdorfer Straße; Errichtung eines Parkhauses
+- TOP 6.5.: Bauvorhaben Königsdorfer Straße; Errichtung eines Mehrfamilienhauses
+- TOP 6.6.: Bauvorhaben Isarauen 8
+- TOP 6.7.: Bauvorhaben Am Harras 2
+- TOP 6.8.: Bauvorhaben Wackersberger Straße 59
+- TOP 6.9.: Bauvorhaben Künstlerateliers Fußgängerbrücke Ganghoferstraße
+- TOP 6.10.: Bauvorhaben Karwendelstraße 3
+- TOP 6.11.: Bauvorhaben Danklstraße 11
+- TOP 6.12.: Bauvorhaben Engelhardstraße 31
+- TOP 6.13.: Bauvorhaben Thalkirchner Straße 126
+- TOP 6.14.: Bauvorhaben Karwendelstraße 34
+- TOP 6.15.: Bauvorhaben Schmied-Kochel-Straße 6
+- TOP 6.16.: Bauvorhaben Implerstraße 65
+- TOP 6.17.: Bauvorhaben Margaretenplatz 5b
+- TOP 6.18.: Beschlussvollzugskontrolle
+- TOP 6.19.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung
+- TOP 6.20.: Konzept für das Busparken in München
+- TOP 6.21.: Vorgartensatzung
+- TOP 6.22.: Perspektive München
+- TOP 7: Baureferat
+- TOP 7.1.: Straßenbaumaßnahme Ganghofer-, Pfeufer- und Radlkoferstraße; Einbahnregelung
+- TOP 7.2.: Fehlende Stempen am Neuhauser Weg
+- TOP 7.3.: Befragung zur Zufriedenheit mit städtischen Spielplätzen
+- TOP 8: Baum- und Umweltschutz
+- TOP 8.1.: Baumfällung Kochelseestraße, Türkisch-Islamisches-Kulturzentrum
+- TOP 8.2.: Baumfällung Implerstraße 80; Neubau Mehrfamilienhaus
+- TOP 8.3.: Baumfällung Kreuzung Pfeuferstraße / Johannes-Timm-Straße; Straßenbaumaßnahme
+- TOP 8.4.: Greinerberg 17, Seniorenwohnanlage
+- TOP 8.5.: Baumfällung Plinganserstraße 51; eine Esche
+- TOP 8.6.: Baumfällung Würzstraße 10; eine Scheinakazie
+- TOP 9: Soziales- und Sozialreferat
+- TOP 9.1.: Kommunales Wohnungsbauprogramm; Thalkirchner Straße 190
+- TOP 9.2.: Bauvorhaben Greinerberg 17; Neubau einer Seniorenwohnanlage
+- TOP 9.3.: Konzept zur pflegerischen Versorgung älterer Menschen in München
+- TOP 10: Schulreferat
+- TOP 10.1.: FFC Wacker München 99 e.V. ; Errichtung eines Kunstrasenplatzes
+- TOP 10.2.: Neueröffnung eines städtischen Tagesheimes an der Pfeuferstraße 1
+- TOP 10.3.: Keine Raummiete für außerschulische Kooperationspartner
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 11.1.: Wildparken - Schäftlarnstraße 97
+- TOP 12: Anträge
+- TOP 12.1.: Entfernen der Schilder am Radfahrer- / Fußgängerübergang Meindlstraße / Karwendelstraße
+- TOP 12.2.: Radweg in der Unterführung der Lindwurmstraße; Poller an der kreuzung Daiser-/ Alramstraße
+- TOP 12.3.: Verkehrliche Erschließung des Gotzinger Platzes
+- TOP 12.4.: Anträge des Elternbeirates der Grundschule am Gotzinger Platz
+- TOP 13: Verschiedenes
+- TOP 13.1.: Kultur im Stadtquartier; Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen
