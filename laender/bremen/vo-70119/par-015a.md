@@ -1,0 +1,2 @@
+# § 15a Vornoten der Prüfungsfächer
+Die Vornoten ergeben sich aus den Leistungen im Bildungsgang. Bei Schülerinnen und Schülern nicht deutscher Herkunftssprache wird bei der Bildung der Vornoten nur die Sprache berücksichtigt, in der sie nach § 4 Abs. 3 geprüft werden.
