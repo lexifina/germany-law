@@ -1,5 +1,0 @@
-# § 11a Berücksichtigung besonderer Belange Behinderter
-(1) Im Prüfungsverfahren sind die besonderen Belange Behinderter zu berücksichtigen.
-(2) Der Prüfling hat rechtzeitig vor der Prüfung auf seine Behinderung hinzuweisen, wenn diese im Prüfungsverfahren berücksichtigt werden soll.
-(3) Der Prüfungsausschuß legt in der ersten Prüfungskonferenz fest, durch welche besonderen Maßnahmen die Belange des Behinderten in der Prüfung berücksichtigt werden. Diese Maßnahmen sollen die behinderungsbedingte Benachteiligung ausgleichen, nicht jedoch die Prüfungsanforderungen qualitativ verändern.
-(4) Als geeignete Maßnahmen kommen eine besondere Organisation und eine besondere Gestaltung der Prüfung sowie die Zulassung spezieller Hilfen in Betracht.
