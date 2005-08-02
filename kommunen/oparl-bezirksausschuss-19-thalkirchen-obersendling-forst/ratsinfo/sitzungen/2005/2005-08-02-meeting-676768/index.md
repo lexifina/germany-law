@@ -1,0 +1,72 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2005-08-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/676768
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/676768
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Anträge
+- TOP 2.1.: Anfrage wegen Überflutung Becker-Gundahl-Straße
+- TOP 2.2.: Zeitlich begrenzte Außenstelle der Bezirksinspektion Süd
+- TOP 2.3.: Projekt Spurensuche
+- TOP 2.4.: Bushäuschen-Haltestelle Forstenried
+- TOP 2.5.: Abrissverfügung Herterichstr. 68
+- TOP 2.6.: Industrie-Bahngleis Geisenhausenerstraße
+- TOP 2.7.: Gemeinsamer Fuß- und Radweg Schäftlarnstr. (östlich)
+- TOP 3: Unterausschuss Budget
+- TOP 3.8.: "Green-City"
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Mobilfunk Standortabstimmungsverfahren
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.3.: Fußgängerüberwege am Isarkanal
+- TOP 5.4.: Schmiedberg, Verbot für Fußgänger
+- TOP 5.6.: Bemautung alte Olympiastraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Rotenhanstr. 13
+- TOP 6.2.: Tölzer Str. 5a
+- TOP 6.3.: Kleinstr. 3 (T)
+- TOP 6.4.: Maxhofstr. 64
+- TOP 6.5.: Friedastr. 13
+- TOP 6.6.: Fritz-Baer-Str. FlNr. 608/13
+- TOP 6.7.: Hofmannstr. 10 (T)
+- TOP 6.8.: Forstenrieder Allee 197
+- TOP 6.9.: Herterichstr. FlNr. 18073/33
+- TOP 6.10.: Wolfratshauser Str. 96
+- TOP 6.11.: Zielstattstr. 12
+- TOP 6.12.: Heilmaierstr. 33a
+- TOP 6.13.: Steinkirchner Str. 30
+- TOP 6.14.: Mühlthaler Str. 6 (T)
+- TOP 6.15.: Reismühlenstr. 23 (T)
+- TOP 6.16.: Königswieser Str. 93 (T)
+- TOP 6.17.: Stridbeckstr. 24 (T)
+- TOP 6.18.: Makartstr. 1 (T)
+- TOP 6.19.: Altlastsanierung Boschetsrieder Str./Drygalski-Allee/Kistlerhofstr.
+- TOP 6.20.: Kirchweg 3
+- TOP 6.21.: Hagenauer Str. 6
+- TOP 7: Entscheidungsfälle
+- TOP 7.1.: Errichtung eines ambulanten Obst- und Gemüseverkaufsplatzes an der Wolfratshauser Str. 262
+- TOP 7.2.: Verbesserung der Pflegesituation für alte und behinderte Menschen im Stadtbezirk 19
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Gehwegverbreiterung in der Liesl-Karlstadt-Straße
+- TOP 8.2.: Herstellung der Bushaltestelle in Höhe Kistlerhofstr. 263
+- TOP 8.3.: Namensgebung der Grünfläche südlich und östlich des Siemenssportparks
+- TOP 8.4.: Veranstaltung Weinfest Fellererplatz
+- TOP 8.5.: Zweckentfremdung Kirchbachweg 2
+- TOP 8.6.: Zweckentfremdung Lochhamer Str. 74
+- TOP 8.7.: Veranstaltung Kistlerhofstraße
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 5.7.: Haltverbot Festingstraße
+- TOP 1: Allgemeiner Teil
