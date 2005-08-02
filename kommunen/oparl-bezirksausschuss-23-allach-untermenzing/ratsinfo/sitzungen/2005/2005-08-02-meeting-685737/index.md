@@ -1,0 +1,61 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2005-08-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/685737
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/685737
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 2: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Errichtung von 14 Wohneinheiten mit 2 Einliegerwohnungen und einer TG mit 16 Stellplätzen (Haus 1 + 2); Allacher Str. 258
+- TOP 5.2.: Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage, Erdenbörse und Erdenwerk am Standort Goteboldstr. 100 =&gt; dazu: Ergebnis der Einwohnerversammlung vom 19.07.05
+- TOP 6: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8: Schreiben des Direktoriums
+- TOP 8.1.: Zuwendung aus dem Budget des BA 23; Antragsteller Fluchtpunkt - Verein für Jugendpflege und Jugendhilfe e. V.
+- TOP 9: Schreiben des Baureferates
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Gastsättte "Schmidbauer", Allacher Str. 177; unveränderte Fortführung
+- TOP 10.2.: 50 km / h und Gemeindegrenzbeschilderung Lippweg; verkehrsrechtliche Anordnung
+- TOP 10.3.: Z 283 im Wendehammer der Krauss-Maffei-Straße; verkehrsrechtliche Anordnung
+- TOP 10.4.: Straßenfest in der Listerstraße am 16.07.05; Erlaubnisbescheid
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO a) Allacher Str. 258, s. Baumbestandsplan Nr. 2005-14499 b) Hugo-Heiß-Str. 10, 1 Fichte c) Franz-Nißl-Str. 63, 1 Fichte d) Nigglstr. 14, 1 Tanne e) Nußhäherstr. 29, 3 Eichen
+- TOP 11.2.: Bauanträge (v. 20.06.-26.06., 27.06.-03.07., 04.07.-10.07. und 11.07.-17.07.05)
+- TOP 11.3.: Regionalgespräche zwischen der Lokalbaukommission und den BAs, Termin 26.10.05
+- TOP 11.4.: Planfeststellung nach § 18Abs. 1 Allgemeines Eisenbahngesetz (AEG); NBS/ABS Nürnberg-Ingolstdt-München, Ausbaumaßnahmen im Bereich der LH München, Planungsabschnitt 82 M der ABS Ingolstadt-München, Bahn-km 12,900 bis 4,900; Planergänzung zum landschaftspflegerischen Begleitplan (Auflage aus dem Planfeststellungsbe- schluss vom 20.07.01)
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Stadtrats - und Ausschussbeschlüsse
+- TOP 20.1.: Ausschuss für Stadtplanung und Bauordnung vom 08.06.05: - Evaluation des Ökologischen Kriterienkataloges, Modellvorhaben an der Friedenspromenade und in der Messestadt Riem "Ökologischer Wohnungsbau - kostenvergleichende Bauvarianten - nachhaltiges Wohnen" - Ökologische Investitionen im geförderten Wohnungsbau müssen sich lohnen - Zukunft München 2030 - Visionen und Strategien für Stadt und Region
+- TOP 20.2.: Bauausschuss vom 28.06.05: - Aufwertung der Würm - Sanierung der Müllerstadelstraße - Hundekot in Grünanlagen; Aufstellung von mehr Mülleimern zur Entsorgung
+- TOP 20.3.: Ausschuss für Stadtplanung und Bauordnung vom 29.06.05: - Satzung der LH München über Einfriedungen und Vorgärten (Vorgartensatzung) - Ökologische Investitionen im geförderten Wohnungsbau müssen sich lohen
+- TOP 20.4.: Vollversammlung des Stadtrates vom 06.07.05: - Evaluation des Ökologischen Kriterienkataloges, Modellvorhaben an der Friedenspromenade und in der Messestadt Riem " Ökologischer Wohnungsbau - kostenvergleichende Bauvarianten - nachhaltiges Wohnen "
+- TOP 20.5.: Sozialausschuss vom 07.07.05: - Bericht über REGSAM, Bleibt REGSAM ein Erfolgsmodell? - Konzept zur pflegerischen Versorgung älterer Menschen in München
+- TOP 20.6.: Schulausschuss vom 13.07.05: - Keine Raummiete für außerschulische Kooperationspartner
+- TOP 20.7.: Ausschuss für Stadtplanung und Bauordnung vom 13.07.05: - Perspektive München - PM-Bilanz, Leitprojekt: Stadtteilentwicklung Hadern, Münchner Habitat-Tag in Hadern - Perspektive München - PM-Analyse, Wissenschafts- und Hochschulstandort München, Rahmenbedingungen und Perspektiven - Perspektive München, Bericht zur Stadtentwicklung 2003 - Bebauungsplan mit Grünordnung Nr. 1969, Untere Angerlohe - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/20, Untere Angerlohe; Billigungsbeschluss und vorbehaltlich endgültiger Beschluss - Fortschreibung Konzept für das Busparken in München - Parkfläche am S-Bahnhaltepunkt Untermenzing - Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.05. - 30.06.05 - Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung, Verleihung der Ehrenpreise 2005
+- TOP 20.8.: Beschluss des Bauausschusses vom 19.07.05: - Dezimierung der Wasservögel an den Seen im Münchner Norden - Masterplan MAN, hier: Karlsfelder Straße (neu) zwischen Dachauer Straße bis Schwabenbächl und Bauschingerstraße (nördlicher Abschnitt)
+- TOP 20.9.: Kulturausschuss vom 21.07.05: - Samstagsöffnung für die Stadtbücherei Waldtrudering
+- TOP 21: Verschiedenes
+- TOP 22: Schreiben der Autobahndirektion Südbayern
+- TOP 22.1.: Bundesautobahn A 99, Autobahnring München, Abschnitt Feldmoching-AG Lochhauserstraße, Aufstellung von Inforamtionstafeln an der Alten Kiesstraße im Stadtteil Allach/Untermenzing der LH München
+- TOP 23: Schreiben des Seniorenbeirates
+- TOP 23.1.: Zusammensetzung der neuen Seniorenvertretung
