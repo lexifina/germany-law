@@ -1,0 +1,83 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2005-08-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/695955
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/695955
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehr in der Kornwegerstraße und Spielplätzen in Großhadern
+- TOP 1.2.: Der öffentliche Teil der Baumschule wurde vom Eingang Willibaldstraße verschlossen
+- TOP 1.3.: Anfrage wegen Parkplatzsituation Würmtalstraße im Bereich U-Bahhof Großhadern
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 2.1.: Niederschrift der Sitzung vom 11.07.2005
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Neufriedenheimer Str. 68, gem. Freiflächengestaltungsplan Nr.: 05 - 16836
+- TOP 3.2.: Schietweg 13; 1 Birke, 1 Rotbuche, 1 Tanne
+- TOP 3.3.: Gräfelfinger Str. 91 d, 1 Birke
+- TOP 3.4.: Am Waldrand 37, 1 Fichte
+- TOP 3.5.: Silberblattstr. 28, 1 Walnußbaum
+- TOP 3.6.: Kornwegerstr. 42 b, 2 Birken
+- TOP 3.7.: Georginenstr. 30, gem. Baumbestandsplan 05-17956
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Heterichstr. 60, 1 Birke (Baureferat, 17.06.2005)
+- TOP 3.2.: Ehrenpreisstr. 2, 1 Blaufichte Borkenkäferbefall (Referat für Stadtplanung und Bauordnung, 18.07.2005)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag des Elternbeirates des Kindergartens Blumenau auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.504,- (Direktorium,11.07.2005)
+- TOP 6.2.: Antrag der Spielkiste Blumenau e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.481,95 (Direktorium 07.07.2005)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Zweckentfremdung von Wohnraum - Steinpilzweg (Sozialreferat, 28.06.2005) - Waldklausenweg (Sozialreferat, 27.06.2005) - Pfingstrosenstr. (Sozialreferat, 14.07.2005) - Terofalstr. (Sozialreferat, 14.07.2005)
+- TOP 7.2.: Vorstand des Seniorenbeirats (Seniorenbeirat, 11.07.2005)
+- TOP 7.3.: Baumfällungen im Zusammenhang mit dem Fernwärmeprojekt vom Heizkraftwerk Sendling nach Martinsried (SWM, 21.07.2005)
+- TOP 7.4.: Gleisbauarbeiten im Bereich Hauptbahnhof/Prielmayerstraße, Montag 25.07.2005 und 12.09.2005 (SWM, 20.07.2005)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Errichtung einer Kindertagesstätte mit 2 Kindergartengruppen am Max-Lebsche-Platz / Prälat-Wellenhofer-Straße; 20. Stadtbezirk (Schul- und Kultusreferat, 20.07.2005)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Kostenpflicht der Behindertenparkplätze auf P + R Anlagen (KVR, 27.05.05)
+- TOP 9.2.: Einzäunung aller öffentlichen Spielplätze in Hadern, BA-Antrag Nr.: 372 vom 13.06.2005 (Baureferat, 28.06.2005)
+- TOP 9.3.: Schautafeln Gehölzlehrpfad im Landschaftspark Laim - Hadern - Pasing, BA-Antrag Nr.: 211 vom 22.04.2005 (Baureferat, 27.06.2005)
+- TOP 9.4.: Abbiegesituation an der Kreuzung Haderun- / Waldwiesenstraße (KVR, 13.07.2005)
+- TOP 9.5.: Bericht über REGSAM (Sozialreferat, 18.07.2005)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Geschäftsbericht der Unfallkasse München Geschäftsjahr 2004 (Unfallkasse München, 28.06.2005)
+- TOP 11.2.: Erhalt der Euro-Skate-Halle durch die Errichtung von zwei Litfaßsäulen im Stadtteil (Arbeitsgruppe buhlstraße, 04.07.2005)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: am 06.07.2005: Evaluation des Ökologischen Kriterienkataloges; Modellvorhaben an der Friedenspromenade und in der Messestadt Riem "Ökologischer Wohnungsbau - kostenvergleichende Bauvarianten - nachhaltiges Wohnen"
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2005: Ökologische Investitionen im geförderten Wohnungsbau müssen sich lohnen!
+- TOP 12.2.: Beschluss des Schulausschusses des Stadtrates vom 13.07.2005: - Keine Raummiete für außerschulische Kooperationspartner
+- TOP 12.3.: Beschluss des Bauausschusses vom 28.06.2005: Hundekot in Grünanlagen; Aufstellung von mehr Mülleimern zur Entsorgung
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005: Perspektive München - PM Bilanz -Leitprojekt: Stadtteilentwicklung Hadern - Münchner Habitat-Tag in Hadern
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005: Ehrenpreis für guten Wohnungsbau, Wohnen im lter und vorbildliche Sanierung Verleihung der Ehrenpreise 2005
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung Verleihen der Ehrenpreise 2005
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005: Perspektive München - PM Bilanz - Leitprojekt: Stadtteilentwicklung Hadern - Münchner Habitat-Tag in Hadern
+- TOP 12.3.: Beschluss des Sozialausschusses vom 07.07.2005: - Bericht über REGSAM - Bleibt REGSAM ein Erfolgsmodell?
+- TOP 12.4.: Beschluss des Bauausschusses vom 19.07.2005: Dezimierung der Wasservögel an den Seen im Münchner Norden
+- TOP 12.5.: Beschluss des Kulturausschusses vom 21.07.2005: Samstagsöffnung für Stadtbücherei Waldtrudering
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005: PERSPEKTIVE München - PM Analysen Wissenschafts- und Hochschulstandort München Rahmenbedingungen und Perspektiven
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005: Fortschreibung Konzept für das Busparken in München
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanug und Bauordnung vom 13.07.2005: Perspektive München, Bericht zur Stadtentwicklung 2003 a) Anhörung der Bezirksausschüsse b) Befassung der Fachausschüsse des Stadtrates c) Entscheidungsvorschlag des Planungsreferates Ergänzung zum Beschluss: Perspektive München - PM Analysen Wissenschafts- und Hochschulstandort München Rahmenbedingungen und Perspektiven
+- TOP 12.1.: Beschluss des Sozialausschusses vom 07.07.2005: Konzept zur pflegerischen versorgung älterer Menschen in München
+- TOP 12.2.: Bekanntgaben
+- TOP 12.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2005: Satzung der Landeshauptstadt München über Einfriedungen und Vorgärten (Vorgartensatzung)
+- TOP 12.4.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005: Beschlussvollzugskontrolle (BVK); Bericht über die BVK unterlieen den Beschlüssen des Ausschusses für Stadtplanung und Bauordnung un der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2005
+- TOP 12.5.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 20.06.2005 Evaluation des Ökologischen Kriterienkataloges Modellvorhaben an der Friedenspromenade und in der Messestadt Riem "Ökologischer Wohnungsbau - kosenvergleichende Bauvarianten - nachhaltiges Wohnen"
+- TOP 12.6.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 08.06.2005 Zukunft München 2030 - Visionen und Strategien für Stadt und REgion
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
