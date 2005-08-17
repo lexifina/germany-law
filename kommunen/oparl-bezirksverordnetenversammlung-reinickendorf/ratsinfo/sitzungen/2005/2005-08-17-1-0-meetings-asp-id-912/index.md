@@ -1,0 +1,69 @@
+# 41. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2005-08-17T17:00:00+02:00
+- Ende: 2005-08-17T22:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=912
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=912
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=28741
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Konsensliste - vertagt
+- TOP 3: Dringlichkeitsanträge - (offen)
+- TOP 3.1: Entwurf des Bezirkshaushaltsplanes Reinickendorf für die Haushaltsjahre 2006 und 2007 (Doppelhaushalt) - überwiesen
+- TOP 3.2: Betriebssatzung des zukünftigen Eigenbetriebes - überwiesen
+- TOP 3.3: Schuljahresbeginn 2005/2006 - beantwortet
+- TOP 3.4: Umbaumaßnahmen an Schulen - beantwortet
+- TOP 3.5: Schulstart in Reinickendorf - Reinickendorf ganz unten? - beantwortet
+- TOP 3.6: Mehr Demokratie - Änderung der Geschäftsordnung - überwiesen
+- TOP 3.7: Zentralisierung der bezirklichen Bauämter - beantwortet
+- TOP 3.8: Personalfreiheit auf S-Bahnhöfen - überwiesen
+- TOP 3.9: Mehr Demokratie - Über neue Bürgerrechte informieren - überwiesen
+- TOP 3.10: Feurerlöschboot zurück nach Reinickendorf - überwiesen
+- TOP 3.11: Mieterhöhungen für die (GeSoBau-)Wirtschaftseinheit B - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Klassenfahrten für alle Schüler/Schülerinnen ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Standortnummern von BVG-Haltestellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Ressortübergreifendes Gesamtkonzept für als besonders belastet ausgewiesene Kieze in Reinickendorf - überwiesen
+- TOP 5.4: Erweiterung des Schulangebots in Heiligensee - überwiesen
+- TOP 5.5: Gültigkeit des Schultickets - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.6: Radspuren für die Quickborner Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.7: Radspur in der Grußdorfstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Fortführung des musikbetonten Profils der Viktor-Gollancz-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Berichtigungen und verbesserte Kontrollen im Landschaftsschutzgebiet Tegeler Fließ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Aktivitäten zum Internationalen Tag der Umwelt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Religion als Wahlpflichtfach - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: EU-Projekte - beantwortet
+- TOP 6.2: Radwegestrategie im Bezirk Reinickendorf - beantwortet
+- TOP 6.2.1: Radverkehrskonzept für den Bezirk Reinickendorf - überwiesen
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Entwurf des Bebauungsplanes XX-263 für die Grundstücke Zobeltitzstraße 89, Klixstraße 27 - 35 sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-263 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Entwurf des Bebauungsplanes XX-264 für das Grundstück Antonienstraße 34 W sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-264 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Keine Reduzierung von Standorten der Polizeiabschnitte in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: 8. Mai als Gedenktag für die bedingungslose Kapitulation Hitlerdeutschlands im Land Berlin einführen! - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Skulpturengarten Tegeler Insel - erledigt
+- TOP 8.4: Insel im Tegeler Hafen - vertagt
+- TOP 8.5: Anbindung der Schulsekretariate an das Intranet - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Antrag auf Änderung der Geschäftsordnung - überwiesen
+- TOP 8.7: Bürgerdeputierte in Ausschusslisten aufnehmen - ohne Änderungen in der BVV beschlossen
+- TOP 8.8: Verbesserung der Öffentlichkeitsarbeit der Bibliotheken - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Vorliegende Satzung des Kita-Eigenbetriebes gefährdet Reinickendorfer Errungenschaften - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Missbilligung der Politik der Senatsverwaltung im Zusammenhang mit dem Standort der Ambulanz für Sexualstraftäter in Tegel - vertagt
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Blindenwanderweg am Forstamt - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Projekt "handlungsorientiertes Lernen - LeoNa" - überwiesen
+- TOP 10.3: Kontrolle des Parkverbotes am Tegeler See - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Wiederherstellung der Rasenfläche am Wilhelmsruher Damm - überwiesen
+- TOP 11.2: Einführung eines Produktes "Interpretation von Gender Mainstreaming" - überwiesen
+- TOP 11.3: Berichtspflicht der Arbeitsagentur sicherstellen ! - überwiesen
