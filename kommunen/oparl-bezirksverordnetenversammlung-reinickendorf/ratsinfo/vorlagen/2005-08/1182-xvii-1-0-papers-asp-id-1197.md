@@ -1,0 +1,12 @@
+# Entwurf des Bebauungsplanes XX-264 für das Grundstück Antonienstraße 34 W sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-264
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Drucksache/Vorlage: 1182/XVII
+- Art: Vorlage zur Beschlussfassung
+- Datum: 2005-08-18
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=1197
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/papers.asp?id=1197
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=130&id=61751
+- Beratung: Entscheidung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=912 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=at&id=59
