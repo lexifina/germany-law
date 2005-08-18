@@ -1,0 +1,8 @@
+# TOP 2.1: Lärmbelästigung in der Bernstorffstraße in den Abendstunden und nachts
+
+- Sitzung: 18. öffentliche Sitzung des Umweltausschusses (2005-08-18)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=7741
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=7741
