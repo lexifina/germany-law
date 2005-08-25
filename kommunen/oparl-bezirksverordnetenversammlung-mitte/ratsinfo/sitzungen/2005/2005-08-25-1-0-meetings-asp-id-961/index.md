@@ -1,0 +1,138 @@
+# 39. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2005-08-25T17:30:00+02:00
+- Ende: 2005-08-25T23:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=961
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=961
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=48676
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 3: Thematische Stunde - erledigt
+- TOP 4: Mündliche Anfrage - (offen)
+- TOP 4.1: Bäume statt Poller in der Spandauer Vorstadt - beantwortet
+- TOP 4.2: Information über die Einführung bezirklicher Bürgerbegehren und Bürgerentscheide - beantwortet
+- TOP 4.3: Gemeinsam gegen Gewalt - beantwortet
+- TOP 4.4: Oranienburger Straße 18 - beantwortet
+- TOP 4.5: Anwohnerbeschwerden Auguststraße 84 - beantwortet
+- TOP 4.6: Brunnenstraße 33 - beantwortet
+- TOP 4.7: Berlin Pavillon - schriftlich beantwortet
+- TOP 5: Dringlichkeitsanfrage - (offen)
+- TOP 5.1: Semesterstart in der Volkshochschule Linienstraße 162 - beantwortet
+- TOP 5.2: Kein Service für das Bezirksamt Mitte - beantwortet
+- TOP 5.3: Zirkus Internationale - beantwortet
+- TOP 6: Große Anfrage - (offen)
+- TOP 6.1: Status: Errichtung einer Infobox auf dem Schloßplatz - schriftlich beantwortet
+- TOP 6.2: Schuljahresbeginn im Bezirk Mitte - schriftlich beantwortet
+- TOP 6.3: Auswirkungen der Budgetierungsergebnisse auf die Eckwerte-Bildung - schriftlich beantwortet
+- TOP 6.4: City-Grundschule - Chaos zum Schulanfang? - schriftlich beantwortet
+- TOP 6.5: Drucksache 1643/II - Projektbezogene Partnerschaften - in der BVV zurückgezogen
+- TOP 6.6: Neugestaltung Leopoldplatz - schriftlich beantwortet
+- TOP 6.7: JobCenter in Mitte - Ende gut, gar nichts gut? - schriftlich beantwortet
+- TOP 6.8: Nichts los am "Bezirksstrand"? - schriftlich beantwortet
+- TOP 6.9: Bedarfsanträge und Verträge für ergänzende Betreuung an Schulen - schriftlich beantwortet
+- TOP 6.10: Überschuldung in Mitte - schriftlich beantwortet
+- TOP 7: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7.1: Entwurf des Doppelbezirkshaushaltsplans Mitte für die Haushaltsjahre 2006 und 2007 - überwiesen
+- TOP 7.2: Bebauungsplan I-52a sowie Entscheidung über den Entwurf der Rechtsvorordnung zur Festsetzung des Bebauungsplanes I-52a - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Bürgerbeteiligung bei Änderung von Sanierungszielen in den Sanierungsgebieten von Mitte - überwiesen
+- TOP 8.2: Änderung der Sanierungsziele zur Errichtung einer jüdischen Bildungsstätte auf dem Grundstück Brunnenstraße 33 im Block 099030 des Sanierungsgebietes Mitte Rosenthaler Vorstadt - überwiesen
+- TOP 8.3: Änderung der Sanierungsziele auf dem Grundstück Neue Schönhauser Straße 2, Block 100022, im Sanierungsgebiet Mitte, Spandauer Vorstadt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Aufhebung eines BVV-Beschlusses zu Fortschreibung von Mietobergrenzen von Altbauten in den Sanierungsgebieten Spandauer Vorstadt und Rosenthaler Vorstadt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Benennung eines Mitgliedes der BVV und dessen Stellvertreter für den Verwaltungsrat des zukünftigen Eigenbetriebes "Kindergärten City" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.6: Bebauungsplan I-20 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-20 - überwiesen
+- TOP 8.7: Bebauungsplanentwurf III-204 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-204 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 9.1: Bebauungsplanentwurf III-196 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-196 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Bebauungsplan I-52a sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-52a - erledigt
+- TOP 9.3: Bebauungsplanentwurf 1-6B sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-6B - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Bebauungsplanentwurf III-237b sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-237b - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Bebauungsplanentwurf 1-3B sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-3B - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: B-Plan I-52a - ohne Änderungen in der BVV beschlossen
+- TOP 11: Antrag - (offen)
+- TOP 11.1: Ansiedlung des "Dokumentationszentrum zur Aufarbeitung deutscher und europäischer Vertreibungen" - in der BVV zurückgezogen
+- TOP 11.2: Schwimmbecken im Max-Planck-Gymnasium - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Tempo-30-Zone Lehrter Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Rauchfreies Amt - überwiesen
+- TOP 11.5: QM 3 - Verfügungstellung von Protokollen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Aufzug für U-Bahnhof Voltastraße - mit Änderungen in der BVV beschlossen
+- TOP 11.7: Adidas-Arena auf den Schlossplatz - überwiesen
+- TOP 11.8: Hartz IV: Rahmenvereinbarung zur Weiterentwicklung der Arbeitsgemeinschaften umsetzen und bezirkliche Verantwortung stärken - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Anschluss des Jobcenters an ÖPNV - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Mindeststandard bei der Reinigung von Schulen - überwiesen
+- TOP 11.11: Fanmeile Fußballweltmeisterschaft 2006 - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Keine Fanmeile im Spreebogen - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: UnternehmerInnen-Preis Mitte - überwiesen
+- TOP 12: Antrag/Beschlussempfehlung - (offen)
+- TOP 12.1: Ordnungsmittel zur Sanierung Torstraße 212/ 216 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: QM 2 - Information der Bezirksverordnetenversammlung - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Werbung um/ für Integration ( Migration) - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Zwangsheirat - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Bäume für die Wöhlertstraße - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlage zur Kenntnisnahme - (offen)
+- TOP 13.1: Emmissionsarme Brennstoffe der Bezirksfahrzeugflotte
+- TOP 13.2: Sicherheitsempfinden am Bahnhof Friedrichstraße verbessern
+- TOP 13.3: Gewerbe- und Kulturstandort Grundstück Rosenthaler Straße 39
+- TOP 13.4: Öffentliches Geld für öffentliche Nutzung - keine bezirklichen Mittel für Umbaumaßnahmen zur Sommerbewirtschaftung von gastronomischen Einrichtungen am Schiffbauerdamm
+- TOP 13.5: Anders Parken in der Kirchstraße
+- TOP 13.6: Zebrastreifen in der Kirchstraße
+- TOP 13.7: BürgerInnen wollen aktiv werden
+- TOP 13.8: Werbung auf bezirkseigenen Fahrzeugen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.9: Grün für Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.10: Landesweite Regelung für Gewährung eines Mehrbedarfzuschlages bei kostenaufwendiger Ernährung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.11: Aids-Prävention - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.12: Tätigkeitsbericht Wirtschaftsförderung und -beratung, Ordnung und Gewerbe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.13: Verdrängung des Drogenhandels - Beleuchtung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.14: 8. Mai 2005 - 60. Jahrestag der Befreiung vom Nationalsozialismus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.15: Projektbezogene Partnerschaften - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.16: "Ein Bedürfnis" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.17: Grün erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.18: Paech-Brot-Gelände - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.19: Hartz IV: Zusätzlichkeit und öffentliches Interesse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.20: Für eine bürgerfreundliche Planung in der Invalidenstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.21: Aufhebung der Sanierungsgebiete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.22: Bezirke nicht für menschliches Handeln bestrafen - Basiskorrektur für Altanträge nach BSHG! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.23: Sozialkompensatorischer ÖGD in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.24: Gefährdung durch normwidrige Betten in Pflegeheimen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.25: Quartiersmanagement - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.26: Schillerpark im Schillerjahr - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.27: Stadtplatz am Molkenmarkt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.28: Berufsberatung nach SGB III - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.29: Fußgängerbrücke über die Spree am Bahnhof Friedrichstraße auf einen angemessenen baulichen Stand bringen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.30: Kontingent Sprachförderung Alg II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.31: Keine Verschlechterungen für kranke Menschen durch die Reform des ÖGD! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.32: Gutachten zur Kontamination des Job-Centers - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.33: Zuständigkeitsregelung für ehemals obdachlose Menschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.34: Sprachförderung mit Instrumenten des SGB II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.35: ÖKOPROFIT - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.36: QM für Stephankiez nach Aufhebung als Sanierungsgebiet - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.37: Erhalt der Beratungsstelle für Sehbehinderte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.38: Metropolitan-School - Das Bezirksamt ist am Zug! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.39: Satzung des zukünftigen Eigenbetriebes "Kindergärten City" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.40: Beschluss über die Aufstellung einer Erhaltungsverordnung gemäß § 172 Abs. 1 Nr. 1 Baugesetzbuch (BauGB) für das Gebiet Luisenstädtischer Kanal mit Umfeld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.41: Eckwertebeschluss zur Aufteilung des Produktsummenbudgets, der Zuweisungen für Transfer- und sonstige Personalausgaben sowie der Einnahmevorgaben in Vorbereitung des Doppelhaushaltsplans 2006/2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.42: Vorschlagsliste zur Benennung von ehrenamtlichen Richterinnen und Richtern in der Sozialgerichtsbarkeit für die Berufung durch die Präsidentin des Landessozialgerichts Berlin für die Jahre 2005 bis 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.43: Beschluss über die Aufstellung einer Erhaltungsverordnung gemäß § 172 Abs. 1 Nr. 1 Baugesetzbuch (BauGB) für das Gebiet Köllnischer Park mit Umgebung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.44: Einschränkung des Geltungsbereiches des Bebauungsplans 1-9 im Bezirk Mitte, Ortsteil Mitte und Gesundbrunnen, die Aufstellung des vorhabenbezogenen Bebauungsplans 1-36 VE im Bezirk Mitte, Ortsteile Mitte und Gesundbrunnen sowie die Durchführung der Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) und der Behörden und Träger öffentlicher Belange gemäß § 4 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.45: Beschluss über das Ergebnis der Beteiligung der Träger öffentlicher Belange zum Bebauungsplanentwurf 1-7B und der Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.46: Beschluss über die Einschränkung des Geltungsbereiches des Bebauungsplanes I-45 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.47: Aufstellung des vorhabenbezogenen Bebauungsplans 1-16 VE im Bezirk Mitte, Ortsteil Moabit, die Durchführung der Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch (BauGB), die Durchführung der Beteiligung der Behörden und Träger öffentlicher Belange gem. § 4 BauGB sowie die Reduzierung der Geltungsbereiche der Bebauungsplanentwürfe II-183 und II-184 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.48: Aufstellung der Bebauungspläne 1-22 bis 1-26 und 1-28 bis 1-33 im Bezirk Mitte, Ortsteil Mitte und die Durchführung der Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.49: Aufhebung des Bezirksamtsbeschlusses Nr. 1120 vom 14.06.2005 betreffend der "Änderung der Sanierungsziele zur Ansiedlung der Heinrich-Böll-Stiftung auf dem Grundstück Oranienburger Str. 18, Block 100015 im Sanierungsgebiet Spandauer Vorstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.50: Fortschreibung des Eckwertebeschlusses in Vorbereitung des Doppelhaushaltsplanes 2006/2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.51: Beschluss über das Ergebnis der Beteiligung der Träger öffentlicher Belange sowie die Durchführung der öffentlichen Auslegung zum Bebauungsplanentwurf III-245 gem. § 3 Abs. 2 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.52: Benennung von öffentlichem Straßenland in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.53: Beschluss zur Erweiterung des Geltungsbereiches zum Bebauungsplanentwurf VII-280, die Durchführung der erneuten öffentlichen Auslegung gem. § 3 Abs. 3 Baugesetzbuch ( BauGB) - mit Abschlussbericht zur Kenntnis genommen
