@@ -1,0 +1,65 @@
+# 41. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2005-08-25T16:00:00+02:00
+- Ende: 2005-08-25T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=601
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=601
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=38307
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_43 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - gegenstandslos
+- TOP 7.1: Öffentliche Nutzung von Sportanlagen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Heike Kappel)</span> - beantwortet
+- TOP 8: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 8.1: Städtepartnerschaften - schriftlich beantwortet
+- TOP 8.2: Instandsetzung von Kunst im öffentlichen Raum - schriftlich beantwortet
+- TOP 8.3: Hinweisschilder zu Partner-Kommunen - schriftlich beantwortet
+- TOP 8.4: R 1 im Bereich Aßmannstr./Rahnsdorfer Str. - schriftlich beantwortet
+- TOP 8.5: BAB 113n - Verkehrslenkung nach Eröffnung der Anschlussstelle Adlershof - schriftlich beantwortet
+- TOP 9: Beschlussvorlagen - gegenstandslos
+- TOP 9.1: - Entwurf des Bebauungsplans XV-65 und Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-65 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Adlershof <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 9.2: Sondermittel für Müggelheimer Heimatverein e.V. (SM 520) - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Sondermittel für Fördervein Lokale Agenda 21 Treptow-Köpenick e.V. (SM 542) - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Sondermittel für Vorstand des Kita-Bezirkselternausschusses Treptow-Köpenick (SM 549) - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Sondermittel für Jugendfeuerwehr Johannisthal (SM 550) - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: - Entwurf des Bebauungsplans XVI-58 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XVI-58 für das Gelände zwischen Fürstenwalder Allee, Fahlenbergstraße, Straße 522, Biberpelzstraße und Lagunenweg sowie für die Fahlenbergstraße zwischen Fürstenwalder Allee und Straße 522, die Biberpelzstraße zwischen Straße 522 und Lagunenweg und für den Lagunenweg im Bezirk Treptow-Köpenick, Ortsteil Rahnsdorf <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 9.7: Aufhebung des Beschlusses Nr. 251/16/03 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 10.1: Parkpatenschaften - im Ältestenrat zurückgezogen
+- TOP 10.2: Laufstrecken in Grünanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Schachanlage auf der Schlossinsel - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Benennung einer Planstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Bebauungsplanentwurf XV-62 hier: Auswertung der Beteiligung der Träger öffentlicher Belange - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Schülerverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Wegweiser Langer See und Müggelturm - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Gebührenordnung Musikschulen - mit Änderungen in der BVV beschlossen
+- TOP 10.9: Schluss mit dem Verwirrspiel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.10: Info-Hotline Schlaglöcher - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 11.1: Berichterstattung zum Arbeitsstand bei der Schaffung eines Informationssystems zur Bewertung der Sozialräume im Bezirk Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, SozGes)</span> - überwiesen
+- TOP 11.2: Konkretisierung und Fortschreibung der Sanierungsziele für das Sanierungsgebiet Oberschöneweide im Block 56, Grundstück Wilhelminenhofstraße 68/69; An der Slabystraße <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 11.3: Bebauungsplan XV-31 hier: Einstellung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 11.4: Vorhabenbezogener Bebauungsplan 9-25 VE, Ortsteil Oberschöneweide hier: Einleitung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 11.5: Bebauungsplanentwurf XVI-58 im Bezirk Treptow-Köpenick, Ortsteil Rahnsdorf hier: Planreife für das WA 5C <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 12: Anträge - gegenstandslos
+- TOP 12.1: Streifen des Ordnungsamtes <span style="color: #888a85" title="Zusatzinfo">(Verfasser : André Schubert)</span> - in der BVV abgelehnt
+- TOP 12.2: Mündliche Anfragen der Bürgerinnen und Bürger <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Oliver Igel)</span> - überwiesen
+- TOP 12.3: Steganlage am Luisenhain - in der BVV abgelehnt
+- TOP 12.4: Geschichtsorte <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Joachim Schmidt)</span> - überwiesen
+- TOP 12.5: Vom Wuhle-Wanderweg zur Altstadt - überwiesen
+- TOP 13: Große Anfragen - gegenstandslos
+- TOP 13.1: Übernahme der Gesamtverantwortung für Hartz IV - vertagt
+- TOP 13.2: Schuldner- und Insolvenzberatung (SIB) im Bezirk, Mittel für 2005 bis 2007 - vertagt
+- TOP 13.3: Sicherheit von Radfahrern in der Dörpfeldstraße - vertagt
+- TOP 13.4: Ausbildungsplätze 2005 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Petra Reichardt)</span> - vertagt
