@@ -1,0 +1,86 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2005-08-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/569606
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/569606
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.4: Neuwahl der/des Vorsitzenden des UA Jugend Schule Sport
+- TOP 1.1.5: Ausläufe
+- TOP 1.1.6: Bürgerfragen
+- TOP 1.1.7: Berichte aus den Unterausschüssen
+- TOP 1.1.8: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Sanierung der Bad-Kreuther-Straße - Erneuerung des Fahrbahnbelags, breitere Gehbahnen, verkehrsberuhigte Gestaltung, Empfehlung Nr. 11 der Bürgerversammlung des 14. Stadtbezirkes Berg am Laim am 08.03.05
+- TOP 3.2.: Optimolgelände - Gebäude B - Nutzungsänderung Ausstellungsfläche / Elektroraum zu Imbiss / Kiosk
+- TOP 3.1.: Sanierung der Trambahngleise zwischen Baumkirchner Straße und St.-Veit-Straße
+- TOP 3.2.: Wiederholte Unfälle an der Ausfahrt Bad-Kreuther-Straße zur St.-Michael-Straße
+- TOP 3.3.: Veranstaltung auf öffentlichen Verkehrsgrund: BUGA-Triathlon am 31.07.05; Bitte um Stellungnahme
+- TOP 3.4.: Einseitiges Halteverbot in der Dingolfinger Straße 1 - 7
+- TOP 3.5.: Straßenverkehr in Berg am Laim
+- TOP 3.1.: Mobilfunk Suchkreismeldung Josephsburg, Baumkirchen, Michaeliburg, Kustermannpark
+- TOP 3.2.: Standortsuche Richtfunksammler für Berg am Laim
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Einrichtung einer Nachmittagsbetreuung an der Förderschule Innsbrucker Ring 75; Antrag des BA 14
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Fehlende Hortplätze in Berg am Laim, Antrag Nr. 251 des BA 14
+- TOP 3.2.: "Bericht über REGSAM" (Antrag Bündnis 90/Die Grünen/Rosa Liste) & "Bleibt REGSAM ein Erfolgsmodell?" (Antrag Stadträtinnen A. Gebhardt & B. Meier) - Beschlussvorlage für den Sozialausschuss des Stadtrates - TOP 4.4.4./05/05, 4.4.3./06/05 Beantwortung der Stellungnahme des BA 14
+- TOP 3.3.: Zusammenarbeit mit den Bezirksausschüssen - Informationsaustausch mit dem Sozialreferat
+- TOP 3.1.: Antrag auf Budget des BA 14 durch die Kath. Kindertagesstätte St. Michael
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Geplante "Technoparty" im Michaelibad
+- TOP 3.1.: Michaeliburg, Antrag auf Fällung eines Spitzahorns
+- TOP 3.2.: Bad-Schachener-Str. 63 - 81 - Fällung meherer Bäume
+- TOP 3.3.: Echardinger Str. - Flur Nr. 223/5 - Fällung mehrerer Bäume
+- TOP 3.4.: Echardinger Str. 61-71 - Fällung mehrerer Bäume
+- TOP 3.5.: Dornbergstr. 6-26 a - Fällung mehrerer Bäume
+- TOP 3.6.: Krumbadstraße 46 - 56 - Fällung mehrerer Bäume
+- TOP 3.7.: Hansjakobstraße 48 b - Fällung einer Tanne
+- TOP 3.8.: Hohenbrunner Str. 23 - Fällung einer Weißtanne
+- TOP 3.9.: Ringbergstraße 21 - Fällung einer Eberesche
+- TOP 3.10.: Ariboweg 18 - Fällung mehrerer Bäume
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt - Chancen und Perspektiven für Berg-am-Laim, Ramersdorf und Giesing - Stadtsanierung in München am Mittleren Ring Südost - Vorbereitung der Veranstaltungen in den Quartieren zum Beginn des Projekts im Herbst 2005
+- TOP 4.2.: Meldeliste der Bauvorhaben zwischen 18.07.05 und 14.08.05
+- TOP 4.1.: Widerrechtliches Parken in der Truderinger Str., Ecke Schwanhildenweg - Änderung der Federführung
+- TOP 4.1.: Kultur im Stadtquartier, Ergänzung: Stellungnahmen der Bezirksausschüsse
+- TOP 4.2.: Puppentheatervorstellungen an der Grünanlage St.-Veit-Straße, Aufstellen von Zelten und Wägen
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Zuwendungsbewilligung aus dem Budget des BA 14 für den Förderverein Sozialstation e.V.
+- TOP 4.2.: Zuwendungsbewilligung aus dem Budget des BA 14 für die Kindertagesstätte Tabaluga
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten TOP 1 der BA-Satzungskommission am 19.07.05
+- TOP 4.2.: Info zur Straßenausbaubeitragssatzung
+- TOP 4.3.: Fortführungsantrag Gaststätte "Blue Ingwer", Berg-am-Laim-Str. 64
+- TOP 4.4.: Lärmbelästigung durch Veranstaltungsgelände Ostbahnhof
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.: Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt - Chancen und Perspektiven für Berg-am-Laim, Ramersdorf und Giesing - Stadtteilspaziergang im Sanierungsgebiet Hasenbergl und Erfahrungsaustausch "Soziale Stadt"
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
