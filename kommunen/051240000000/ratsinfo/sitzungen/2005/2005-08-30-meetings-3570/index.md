@@ -1,0 +1,52 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Umwelt
+
+- Körperschaft: Instance 0001
+- Beginn: 2005-08-30T16:00:00+02:00
+- Ende: 2005-08-30T19:20:00+02:00
+- Ort: Rathaus Barmen - Sitzungsraum 2/3 (Altbau, 3.Etage)
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/5
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3570
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3570
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00054739.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00057611.pdf
+
+## Tagesordnung
+
+- TOP 1: Schwerpunktthema: Energieeffizienz / Klimaschutz
+- TOP 1.1: Energieeffizientes Wuppertal - Ergebnisse des Wiederholungsaudits 2005 zum European Energy Award - Entgegennahme ohne Beschluss
+- TOP 1.2: CO2-Kurzbilanz 2004 für die Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 1.3: Aktueller Sachstand zur Beteiligung der WSW am CO2-Emissionshandel
+- TOP 1.4: Aktueller Sachstand zum Aufbau einer Holzenergielogistik im Bergischen Land
+- TOP 1.5: Diskussion
+- TOP 2: Gewässerangelegenheiten
+- TOP 2.1: Gewässerschaden Morsbach
+- TOP 2.2: Verschmutzung Ronsdorfer Bach (Leyerbach) - ungeändert beschlossen
+- TOP 2.3: Dichtigkeitsprüfungen von Abwasserleitungen - vertagen
+- TOP 3: Waldzustand in Wuppertal
+- TOP 3.1: Waldzustand in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 3.2: Beantwortung der Anträge zu "Waldzustand in Wuppertal" - Entgegennahme ohne Beschluss
+- TOP 3.3: Finanzmittel für Waldkalkungen - ungeändert beschlossen
+- TOP 4: Feinstaub / Verkehr
+- TOP 4.1: Gemeinsame Sitzung von Umwelt- und Verkehrsausschuss zur Feinstaubthematik - ungeändert beschlossen
+- TOP 4.2: Feinstaub. Das Übel an der Wurzel packen! - vertagen
+- TOP 4.3: Feinstaubwerte - vertagen
+- TOP 4.4: Aktionsplan Steinweg - vertagen
+- TOP 4.5: Maßnahmen gegen Feinstaubbelastung/zur Luftreinhaltung - vertagen
+- TOP 4.6: Stellungnahme der Verwaltung zu den verkehrspolitischen Anträgen der Ratsfraktionen - vertagen
+- TOP 5: Abfallwirtschaft
+- TOP 5.1: Sperrmüllabfuhr verbessern - ungeändert beschlossen
+- TOP 5.2: "Sperrmüllabfuhr verbessern" - Stellungnahme der AWG Abfallwirtschaftsgesellschaft Wuppertal mbH - Entgegennahme ohne Beschluss
+- TOP 5.3: Aktuelle Entwicklungen in der Wuppertaler Abfallwirtschaft - Entgegennahme ohne Beschluss
+- TOP 5.4: Elektro- und Elektronikgerätegesetz (ElektroG) - Entgegennahme ohne Beschluss
+- TOP 5.5: Abstimmungs- und Verpflichtungserklärungen der Stadt Wuppertal mit Interseroh und Landbell - Entgegennahme ohne Beschluss
+- TOP 6: Aufstellungsbeschluss zum Denkmalbereich " Briller Viertel " - Nichtbefassung beschlossen
+- TOP 7: Bauleitplanverfahren Nr. 1081-Mittelstandspark VohRang- - ungeändert beschlossen
+- TOP 8: Umgang mit Bodenbelastungen - Förderung des Bodenbewusstsein - vertagen
+- TOP 9: Antrag der Stadt Wuppertal auf Änderung des Regionalplanes der Bezirksregierung Düsseldorf im Bereic - Entgegennahme ohne Beschluss
+- TOP 10: Erweiterung des Zweckverbandes "Erholungsgebiet Ittertal" - vertagen
+- TOP 11: Bericht zum Abschluss der Eigentümerinformation § 62 Biotopkartierung - Entgegennahme ohne Beschluss
+- TOP 12: Fällung von Einzelbäumen - Entgegennahme ohne Beschluss
+- TOP 13: Änderung der Baumschutzsatzung - vertagen
+- TOP 14: Berichte, Mitteilungen, Anfragen
