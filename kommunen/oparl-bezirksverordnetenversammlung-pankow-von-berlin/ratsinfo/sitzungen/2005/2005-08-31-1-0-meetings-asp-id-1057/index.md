@@ -1,0 +1,98 @@
+# 34. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2005-08-31T17:30:00+02:00
+- Ende: 2005-08-31T21:50:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1057
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1057
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=12368
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Geschäftliche Mitteilung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.2: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 1.3.1: Stadtbad Oderberger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.4: Mündliche Anfrage - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.5: Bericht des Bezirksamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.6: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.7: Umweltbüro in seiner Qualität erhalten - mit Änderungen in der BVV beschlossen
+- TOP 1.8: Baumfällungen im Bezirk - überwiesen
+- TOP 1.9: Mauerstreifen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.10: Verkehrslage um den Spielplatz in der Gethsemanestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.11: Sozialticket und bezahlter Urlaub für Beschäftigte mit Ein-Euro-Jobs in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.12: Energiecheck bezahlen - Kosten sparen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.13: Nachweis der im Haushaltsjahr 2004 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 1.14: Beschluss gemäß § 6 Abs. 3 AGBauGB über den Bebauungsplan XVIII-24-2 für das Gelände zwischen der öffentlichen Parkanlage am Hofzeichendamm, Ingwäonenweg, Siverstorpstraße, Gatterweg und dem Grundstück Gatterweg 17 im Bezirk Pankow, Ortsteil Karow zur Änderung des Bebauungsplans XVIII-24, festgesetzt am 5. Januar 1995 (GVBl. S. 11). - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Betriebssatzung für den geplanten Eigenbetrieb Kindergärten Pankow-Marzahn/Hellersdorf-Lichtenberg - überwiesen
+- TOP 1.16: B-Plan XIX-34a für das Grundstück Wiltbergstraße 23, der Grünfläche beiderseits der Panke und dem P+R Parkplatz sowie Abschnitte der Wiltbergstraße und der Zufahrtsstraße zum P+R Parkplatz im Bezirk Pankow, Ortsteil Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Kosten für den Betrieb des Moduls "Allris-Net" - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Bürgerbeteiligung nach Aufhebung der Sanierungsgebiete - vertagt
+- TOP 1.19: Fußgängerüberweg in der Falkenberger Straße - überwiesen
+- TOP 1.20: Kein gemeinsamer Bau- und Grünflächenunterhaltungsdienst - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Zentrale Bauämter verhindern - in der BVV abgelehnt
+- TOP 1.22: Betroffenenvertretungen stärker einbeziehen - überwiesen
+- TOP 1.23: Vermeidung des Schleichverkehrs durch die Kuglerstraße - überwiesen
+- TOP 1.24: Sanierungszieländerung Hirschhof - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Doppelhaushalt 2006 / 2007 - überwiesen
+- TOP 1.26: Leerstand beseitigen - den Ratskeller Pankow öffentlich nutzbar machen - überwiesen
+- TOP 1.27: Lichtsignalanlage an der Kreuzung Stargarder Straße/Dunckerstraße - überwiesen
+- TOP 1.28: Verkehrsberuhigung der Stargarder Straße - überwiesen
+- TOP 1.29: Verkehrskonzept Bremer Höhe für Tino Kotte ( AG Verkehrsberuhigung der Bremer Höhe) - überwiesen
+- TOP 1.30: Sanierungszieländerung Verkehr - öffentlicher Raum - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: B-Plan XIX-42 Ortskern Französisch Buchholz für Peter Brenn (Bürgerverein Französisch-Buchholz e.V.) - überwiesen
+- TOP 1.32: Änderung des BezVG I - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Änderung des BezVG II - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Mehr Bürgerdemokratie - überwiesen
+- TOP 1.35: Ausbau der Kreuzung Hauptstraße - Mühlenstraße - Gravensteinstraße in Französisch-Buchholz - überwiesen
+- TOP 1.36: Sportfläche für Französisch-Buchholz für Peter Brenn (Bürgerverein Französisch-Buchholz e.V.) - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.1.1: Expertise von Nichtregierungsorganisationen im Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Bericht zu GA-Mitteln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Tourismuskonzept - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Lokale Energieagentur - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4.1: Entsperrung des Ansatzes im Kapitel 4211 / 54102 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2002 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Erhalt der Kinder- und Jugendreitarbeit des Lindenhof e. V. Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Kein Kita-Konzern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Verlegung Bushaltestelle Blankenburger Pflasterweg (Mörderberg) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Erhalt der Suppenküche der Heilsarmee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Barrierefreie Nutzung der Kassenautomaten für Menschen mit Behinderung sicherstellen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Ehrengrabstätte für Peter Fechter - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Quartiersmanagement - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Einbürgerungsfeiern in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Wohnumfeld in den Sanierungsgebieten verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Entwicklung der Verkehrsinfrastruktur in Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Bezirkliche Vertretung in den Aufsichtsräten von Wohnungsbaugesellschaften im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Erarbeitung eines Seniorenmitwirkungsgesetzes im Land Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Anschlüsse zwischen S-Bahn und BVG am Bahnhof Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: KITA-Eigenbetrieb - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Sichern erreichter Ziele der Stadterneuerung nach Aufhebung der Sanierungsgebiete - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Fenster in Brandwände zu unbebauten Grundstücken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Arbeitsgelegenheiten mit Mehraufwandsentschädigung (MAE) im Bezirksamt Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Vermeidung von Schleichverkehr in der Hans-Jürgen-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Übertragung der kommunalen Kindertagesstätten Görschstr. 15, 13187 Berlin; Müncheha-genstr. 43, 13125 Berlin; Eddastr. 46, 13126 Berlin und Bahnhofstraße 32, 13129 Berlin, an den freien Träger "GFAJ e. V." , Immanuelkirchstr. 8, 10405 Berlin. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Übertragung der kommunalen Kindertagesstätten Lychener Str. 55, 10437 Berlin; Stargarder Str. 19, 10437 Berlin, an den freien Träger "Pfefferwerk Stadtkultur gGmbH" , Fehrbelliner Str. 92, 10119 Berlin. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Übertragung der kommunalen Kindertagesstätten Robert-Rössle-Str. 1a, 13125 Berlin; El-se-Jahn-Str. 40/41, 13088 Berlin, Waldemarstr. 36, 13156 Berlin, an den freien Träger "djo-Regenbogen LV Berlin e. V." , Elberfelder Str. 18, 10555 Berlin. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Übertragung der kommunalen Kindertagesstätten Pankower Str. 13, 13156 Berlin; Hed-wigstr. 6, 13086 Berlin; Driesener Str. 24, 10439 Berlin, an den freien Träger "Forum Sozia-le Dienste GmbH" , Anzengruber Str. 3, 12043 Berlin. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Übertragung der kommunalen Kindertagesstätten Hans-Otto-Str. 40a/b, 10407 Berlin; Belforter Str. 11, 10405 Berlin; Lettestr. 4/5, 10437 Berlin; Knaackstr. 53 / I, 10435 Berlin; Liebermannstr. 20/22, 13088 Berlin, an den freien Träger "Hanna gGmbH, Knaackstr. 53 / II, 10435 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Übertragung der kommunalen Kindertagesstätten Hans-Eisler-Str. 82 / 84, 10409 Berlin; Blankenfelder Str. 9, 13158 Berlin; Wigandstaler Str. 15, 13088 Berlin; Lindenberger Str. 24, 13156 Berlin, an den freien Träger "Kinder in Bewegung gGmbH (Sportjugend Berlin - Ju-gendorganisation im Landessportbund Berlin e.V.), Jesse-Owens-Allee 2, 14053 Berlin. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Übertragung der kommunalen Kindertagesstätten Eberswalder Str. 11/12, 10437 Berlin; Käthe-Niederkirchner-Str. 29, 10407 Berlin; John-Schehr-Str. 35, 10407 Berlin, an den frei-en Träger "Netzwerk Spiel / Kultur Prenzlauer Berg e. V." , Kollwitzstr. 35, 10405 Berlin. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Übertragung der kommunalen Kindertagesstätten Roelckestr. 60, 13086 Berlin; Roelckestr. 117, 13086 Berlin; Stavanger Str. 6/8, 10439 Berlin, an den freien Träger "Bürgerhaus e. V.", Berliner Str. 24, 13127 Berlin. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Übertragung der kommunalen Kindertagesstätten Charlottenburger Str. 7, 13086 Berlin; Gounodstr. 78, 13088 Berlin; Bahnhofstr. 53, 13125 Berlin; Parkstr. 4a, 13187 Berlin, an den freien Träger "Jugend- und Sozialwerk gGmbH" , Mühlenfeld 12, 16515 Oranienburg. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Übertragung der kommunalen Kindertagesstätten Granitzstr. 38, 13189 Berlin; Am Prenz-lauer Berg 15 / 16, 10405 Berlin, an den freien Träger "INA.Kinder.Garten gGmbH" , Karl-Marx-Str. 71, 12043 Berlin. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Übertragung der kommunalen Kindertagesstätten Schweizer Tal 18, 13127 Berlin; Berliner Str. 46c, 13089 Berlin; Dänenstr. 8, 10439 Berlin, an den freien Träger "Jugendwerk Aufbau Ost e. V.", Torgauer Str. 27-29, 12627 Berlin. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Bebauungsplan XIX - 11 für das Gelände zwischen Schillerstraße, Waldowstraße, Beuthstraße und Dietzgenstraße - mit Ausnahme der Grundstücke Waldowstraße 18 - 23a, 26a - 28 und 28b und Beuthstraße 41 - 44 - sowie für die Verbreiterung der Dietzgenstraße zwischen Beuthstraße und Schillerstraße - und für die Verbreiterung der Beuthstraße zwischen Dietzgenstraße und der östlichen Grenze des Grundstücks Beuthstraße 45 im Bezirk Pankow, Ortsteil Niederschönhausen. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Aufstellung einer Erhaltungsverordnung gemäß § 172 Abs.1 Satz 1 Nr. 1 BauGB für das Gebiet "Teutoburger Platz" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Zweiter Pankower Energiebericht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.38: 1. Nachschiebeliste zur Bezirksamtsvorlage V - 1045/2005 - Entwurf des Doppelhaushaltsplanes 2006/2007 für den Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.39: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.40: Bebauungsplanentwurf XVIII-24-2 für das Gelände zwischen der öffentlichen Parkanlage am Hofzeichendamm, Ingwäonenweg, Siverstorpstraße, Gatterweg und dem Grundstück Gatterweg 17 im Bezirk Pankow, Ortsteil Karow zur Änderung des Bebauungsplans XVIII-24, festgesetzt am 5. Januar 1995 (GVBl. S. 11). - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.41: B-Plan XIX-34a für das Grundstück Wiltbergstraße 23, der Grünfläche beiderseits der Panke und dem P+R Parkplatz sowie Abschnitte der Wiltbergstraße und der Zufahrtsstraße zum P+R Parkplatz im Bezirk Pankow, Ortsteil Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.42: Erreichung der Zielzahlen des Eigenbetriebes in Pankow - weitere Übertragung von Plätzen der Kindertagesbetreuung an freie Träger - mit Abschlussbericht zur Kenntnis genommen
