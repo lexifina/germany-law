@@ -1,0 +1,8 @@
+# TOP 9: Anfrage Grüne: Drogenkonsumraum
+
+- Sitzung: Rat (2005-09-01)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/133621
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/29505
