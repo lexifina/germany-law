@@ -1,0 +1,6 @@
+# TOP 1: Kosten der Hilfe zur Erziehung
+
+- Sitzung: Jugendhilfeausschuss (2005-09-05)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/19502
