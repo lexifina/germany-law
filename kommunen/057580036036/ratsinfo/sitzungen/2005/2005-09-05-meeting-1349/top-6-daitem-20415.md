@@ -1,0 +1,6 @@
+# TOP 6.: Generalmodernisierung hier: a) Schulzentrum Rudolf Kaiser Schule b) Hans-Schwarze-Grundschule Valdorf
+
+- Sitzung: AGM (2005-09-05)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/20415
