@@ -1,0 +1,65 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2005-09-05T17:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/713596
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/713596
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 3: Gaststättenangelegenheiten
+- TOP 3.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 4: Verkehrsangelegenheiten
+- TOP 4.1.: Baustellenzufahrt ehemaliges Messegelände; Wohnbebauung Messetiefgarage
+- TOP 4.2.: Danklstraße 11; Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 4.3.: Parksituation Dietramszeller Straße 10, 12 und 14
+- TOP 4.4.: Baumgartnerstraße und Pfeuferstraße in Höhe des Herzog-Ernst-Platzes; Arbeiten im Straßenraum
+- TOP 4.5.: Informationsveranstaltung des Kreisverwaltungsreferates am 08.11.2005
+- TOP 5: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 5.1.: Budgetantrag der Grundschule an der Plinganserstraße; Gewaltpräventionsprojekt Schuljahr 2005 / 2006, ¿ 2000,-
+- TOP 5.2.: Budgetantrag Chocolate Butterflies e. V., naturwissenschaftlicher Kurs von Sept. - Dez. 2005, ¿ 1.456,-
+- TOP 5.3.: Fahrtkostenübernahme für behinderte BA-Mitglieder
+- TOP 5.4.: Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten
+- TOP 5.5.: Änderung der BA-Geschäftsordnung; Ausschluss wegen persönlicher Beteiligung
+- TOP 6: Referat für Stadtplanung und Bauordnung
+- TOP 6.1.: Meldeliste Bauvorhaben
+- TOP 6.2.: Bauvorhaben Kochelseestraße / Thalkirchner Straße; Vorbescheid, Verkauf einer städtischen Immobilie, Anfrage zu "Wertminderung von Immobilien durch Bau von Moscheen"
+- TOP 6.4.: Bauvorhaben Königsdorferstraße; Neubau eines Parkhauses
+- TOP 6.5.: Bauvorhaben Ganghoferstraße; 9 Ateliers unter Fußgängerbrücke
+- TOP 6.6.: Bauvorhaben Implerstraße 51a
+- TOP 6.7.: Bauvorhaben Lipowskystraße 15
+- TOP 6.8.: Bauvorhaben Urbanstraße 20
+- TOP 6.9.: Werbeanlage Albert-Roßhaupter-Straße 3a
+- TOP 6.10.: Werbeanlagen Thalkirchner Straße 112
+- TOP 6.11.: Werbeanlagen Plinganserstraße 112
+- TOP 7: Baureferat
+- TOP 7.1.: Anbringung von Schildern an den vom BA gestiftenen Ruhebänken
+- TOP 7.2.: Brudermühlstraße 52; Erinnerungsverfahren Straßenbauarbeiten
+- TOP 7.3.: Ganghofer- / Baumgartnerstraße; Querungshilfe für Fußgänger im Einmündungsbereich
+- TOP 7.4.: Kostengünstige Wiederherstellung der Fahrbahn der Kraelerstraße von der Pfeuferstraße bis zur Ganghoferstraße
+- TOP 7.5.: Sanierung der Straßenbrücke Brudermühlstraße, Auffahrt zu Plinganserstraße
+- TOP 7.6.: Bänke und Tische am HL-Markt Alramstraße Spielplatzsituation Plinganserstraße südlich St. Achaz Gestaltungsvorschlag für die Grünanlage südlich der Plinganserstraße 70
+- TOP 7.7.: Dezimierung der Wasservögel an den Seen im Münchener Norden
+- TOP 8: Baum- und Umweltschutz
+- TOP 8.1.: Baumfällung Schanzenbachstraße 15 und 17
+- TOP 8.2.: Baumfällung Würzstraße 10
+- TOP 8.3.: Baumfällungen Bauvorhaben Königsdorferstraße; Neubau eines Parkhauses
+- TOP 8.4.: Bauvorhaben Wackersberger Straße 59; Mensagebäude
+- TOP 8.5.: Baumfällung Schäftlarnstraße 81; mehrere Bäume
+- TOP 9: Soziales- und Sozialreferat
+- TOP 10: Schulreferat
+- TOP 10.1.: Sportanlage an der Wackersberger Straße 49; Großinstandsetzung des Kunstrasenplatzes
+- TOP 10.2.: Das Schulreferat trifft die Bezirksausschüsse; Termin am 19.10.2006
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Neues Filial-Format der Deutschen Post
+- TOP 13.2.: Leistungsprogramm der MVG für die Fahrplanperiode 2006
+- TOP 13.3.: Friedhofsatzung
