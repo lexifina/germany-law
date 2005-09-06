@@ -1,0 +1,66 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2005-09-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/611164
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/611164
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.: Tempo 30 in der Menzinger Straße ab Kastellstraße bis zur Karl-von-Roth-Straße einschließlich Megerlestraße
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 3.1.: Oertelplatz -"Bürger gestalten ihre Stadt" Bürgerbeteiligung in den Stadtvierteln; hier: Monierung
+- TOP 3.2.: Oertelplatz: Bebauungsplan mit Grünordnung Nr. 1655; hier: Entwidmung der Flächen und weiteres Vorgehen
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 5.1.: Änderung der BA-Geschäftsordnung, Ausschluss wegen persönlicher Beteiligung
+- TOP 5.2.: Fahrtkostenübernahme für behinderte BA-Mitglieder
+- TOP 5.3.: Verkauf eines Grundstückes, Reinhard-von-Frank-Straße
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 7.1.: Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten; TOP 1 der Bezirksausschuss-Satzungskommission vom 19.07.05
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Rückzahlung Budgetmittel; Antragsteller: Jugendarbeit der Pfarrei Maria Himmelfahrt
+- TOP 8.2.: Budget-Antrag des TSV Allach 09 e. V. vom 22.07.05, Erweiterung der Flutlichtanlage
+- TOP 8.3.: Abrechnung des Zuschusses aus dem BA-Budget in Höhe von 2.800 ¿; Antragsteller SV München-Untermenzing e. V.
+- TOP 8.4.: Oktoberfest 2005; Reservierung für die Bezirksausschüsse
+- TOP 8.5.: Festschrift 60 Jahre Kriegsende in München
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Rad- und Fußweg entlang der Bahn (Antrag Nr. 425 vom 04.07.05)
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Verkehrssituation Jestelstraße
+- TOP 10.2.: Informationsveranstaltung für die Bezirksausschüsse am 08.11.05
+- TOP 10.3.: Vollzug des Waffengesetzes; Erlaubnisbescheid für das Oktoberfestlandesschießen am 09.09. und 10.09.05 in der Schießanlage Servetstr. 1
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO a) Drachenfelsstr. 16, 1 Baum b) Vogelloh 70, 1 Weide c) Klessingweg 3, 1 Thuje, 1 Fichte d) Manzostr. 14, s. Baumbestandplan Nr. 2005-18833 e) Manzostr . 56, 60 und 64, 1 Traubenkirsche, 1 Feldahorn, 1Graupappel f) Behringstr. 107, s. Baumbestandsplan Nr. 2005-21233 e) Haldenbergstr. 31, 1 Fichte f) Allacher Str. 195, s. Baumbestandsplan Nr. 2005-16951 g) Ganzenmüllerstr. 15, 1 Kiefer h) Kunstmannstr. 16, 1 Fichte i ) Drachenfelsstr. 16, 2 Birken j) Drachenfelsstr. 16, Gefahrenbaumbescheinigung für 1 Birke
+- TOP 11.2.: Bauanträge (v. 25.07.-31.07., 01.08.-07.08., 08.08.-14.08. und 15.08.-21.08.05)
+- TOP 11.3.: Bürgerbeteiligungsverfahren zum städtebaulichen Entwicklungsgebiet "Oertelplatz", "Bürgerinnen und Bürger gestalten ihre Stadt"-Bürgerbeteiligung in den Stadtvierteln
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: Das Schulreferat trifft die Bezirksausschüsse, Termin 2006 am 23.11.06
+- TOP 14: Schreiben des Sozialreferates
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Mobilfunk - Informationen
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 16.1.: Neues Filial-Format der Deutschen Post
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Stadtrats - und Ausschussbeschlüsse
+- TOP 20.1.: Sozialausschuss vom 07.07.05: - Bericht über REGSAM
+- TOP 20.2.: Bauausschuss vom 19.07.05: Masterplan MAN, hier: Karlsfelder Straße (neu) zwischen Dachauer Straße bis Schwabenbächl und Bauschingerstraße (nördlicher Abschnitt)
+- TOP 20.3.: Kulturausschuss vom 21.07.05: - Kultur im Stadtquartier - Umwandlung eines Erwachsenenbusses der Fahrbibliothek in einen Juniorbus - Samstagöffnung der Stadtbücherei Waldtrudering
+- TOP 20.4.: Ausschuss für Stadtplanung und Bauordnung vom 20.07.05: - Fortschreibung Konzept für das Busparken in München - Perspektive München - PM Analyse, Wissenschafts- und Hochschulstandort München Rahmenbedingungen und Perspektiven - Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung, Verleihung der Ehrenpreise 2005
+- TOP 20.5.: Vollversammlung vom 27.07.05: - Satzung zur Änderung der Satzung über die Bestattungseinrichtungen der LH München (Friedhofsatzung) - Konzept zur pflegerischen Versorgung älterer Menschen in München - Perspektive München - PM Analyse, Wissenschafts- und Hochschulstandort München Rahmenbedingungen und Perspektiven - Fortschreibung Konzept für das Busparken in München
+- TOP 21: Verschiedenes
+- TOP 22: Schreiben des BA 21 Pasing-Obermenzing
+- TOP 22.1.: Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage, Erdenbörse und Erdenwerk am Standort Goteboldstr. 100
