@@ -1,0 +1,51 @@
+# Planungs- und Bauausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2005-09-06T17:15:00+02:00
+- Ende: 2005-09-06T20:50:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/82
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/705
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/705
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Zur Kenntnis genommen
+- TOP 2: Bebauung des Grundstückes Bettrather Straße - Absolute Mehrheit
+- TOP 3: Innenraumschadstoffuntersuchungen - Abschlussberi - Kenntnisnahme
+- TOP 4: Dritter Nachtrag zur Parkgebührenordnung - Einstimmiger Beschluss
+- TOP 5: 170. Änderung des Flächennutzungsplanes - Kenntnisnahme
+- TOP 6: Bebauungsplan Nr. 612/I - Stadtbezirk Rheindahlen- - Kenntnisnahme
+- TOP 7: Bebauungsplan Nr. 659/II - Kenntnisnahme
+- TOP 8: Bebauungsplan Nr. 658/IV - Kenntnisnahme
+- TOP 9: 171. Änderung des Flächennutzungsplanes - Kenntnisnahme
+- TOP 10: Bebauungsplan Nr. 661/VII - Kenntnisnahme
+- TOP 11: 1. Änderung BP R Nr. 3005 - in Textform - - Kenntnisnahme
+- TOP 12: 1. Änderung des Bebauungsplanes R Nr. 3116 - Kenntnisnahme
+- TOP 13: Satzung gemäß § 34 Abs. 4 Satz 1 Nr. 3 BauGB - Kenntnisnahme
+- TOP 14: Aufstellung bzw. Änderung von Bebauungsplänen - Einstimmiger Beschluss
+- TOP 15: Ausbau der Straße Am Borussiapark u.a. - Absolute Mehrheit
+- TOP 16: 159. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 17: Bebauungsplan Nr. 647/III -Stadtbezirk Stadtmitte- - Einstimmiger Beschluss
+- TOP 18: Vorhabenbezogener Bebauungsplan Nr. 648/III - Einstimmiger Beschluss
+- TOP 19: 1. Änderung des Bebauungsplanes Nr. 288/IX - Einstimmiger Beschluss
+- TOP 20: 1. Änderungdes Bebauungsplanes R Nr. 3109 C - Einstimmiger Beschluss
+- TOP 21: Bebauungsplan Nr. 651/IX - Einstimmiger Beschluss
+- TOP 22: Vorhabenbezogener Bebauungsplan Nr. 526/I - Einstimmiger Beschluss
+- TOP 23: 35. Nachtrag zur Entwässerungssatzung - Einstimmiger Beschluss
+- TOP 24: 161. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 25: 163. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 26: Bebauungsplan Nr. 547/V - Stadtbezirk Neuwerk - - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 27: Verlängerung Veränderungssperre Hohenzollernstr. - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 28: Umbau der Odenkirchener Straße - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 29: Ausbau der Theodor-Storm-Straße - Einstimmiger Beschluss
+- TOP 30: Verbindungsweg Luise-Vollmar Str./Erzberger - Einstimmiger Beschluss
+- TOP 31: BP 622/IV - Ausbau der öffentlichen Verkehrsfläche - Einstimmiger Beschluss
+- TOP 32: Erschließung BP 350/I Am Kopsweg - West - Einstimmiger Beschluss
+- TOP 33: Abzurechnende Erschließungsanlagen nach dem BauGB - Kenntnisnahme
+- TOP 34: Namensänderungen im Rahmen des - Kenntnisnahme
+- TOP 35: Annahme einer Schenkung - Von Verwaltung zurückgezogen
+- TOP 36: Berichte - Zur Kenntnis genommen
+- TOP 37: Anfragen und Mitteilungen - Zur Kenntnis genommen
