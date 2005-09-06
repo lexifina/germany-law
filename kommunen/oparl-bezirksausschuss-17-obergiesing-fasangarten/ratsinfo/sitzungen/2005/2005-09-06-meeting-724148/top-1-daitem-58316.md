@@ -1,0 +1,7 @@
+# TOP 1.: aus der letzten BA-Sitzung verwiesene Tagesordnungspunkte
+
+- Sitzung: UA 17 - Kultur, Vereine, Initiativen (2005-09-06)
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/58316
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/58316
