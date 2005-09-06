@@ -1,0 +1,57 @@
+# 9. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-09-06T17:04:00+02:00
+- Ende: 2005-09-06T20:34:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5107
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5107
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00220914.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erford
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4: Entscheidungen
+- TOP 4.1: Wahl der Schiedsperson für den Bezirk I Münster - Altstadt - einstimmig beschlossen
+- TOP 4.2: 1. Zumsandestraße: - einstimmig beschlossen
+- TOP 4.3: Pflanzung eines Bürgerbaums
+- TOP 5: Anhörungen
+- TOP 5.1: Satzung über die Wochenmärkte in der Stadt Münster - einstimmig beschlossen
+- TOP 5.2: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen aus Anlass der Veranstaltung - mehrheitlich abgelehnt
+- TOP 5.3: Verbesserung der Radwegführung in den Knotenpunkten Friesenring/Wienburgstraße u. Cheruskerring/Lan - einstimmig beschlossen
+- TOP 5.4: Vorhabenbezogener Bebauungsplan Nr. 501- Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 5.5: 12. Änderung des Flächennutzungsplanes für den Bereich Aasee - Terrassen - mehrheitlich beschlossen
+- TOP 5.6: Vorhabenbezogener Bebauungsplan Nr. 493: Aasee - Terrasse (Satzungsbeschluss) - mehrheitlich beschlossen
+- TOP 5.7: 1. Verlängerung der Veränderungssperre Nr. 94 für den Bereich Metzer Straße - einstimmig beschlossen
+- TOP 5.8: Leitlinie zur Genehmigungspraxis bei der Freigabe von Verkaufssonntagen nach dem Ladenschlussgesetz - mehrheitlich beschlossen
+- TOP 5.9: Gewährung eines städtischen Zuschusses für die Anschaffung eines Wall-Rasenmähers für den SC Münster - einstimmig beschlossen
+- TOP 5.10: Kommunale Sportanlage Wienburgstraße - einstimmig beschlossen
+- TOP 5.11: Pflegeplanung: Verfahren, Umsetzung, Empfehlungen - einstimmig beschlossen
+- TOP 5.12: Hohenzollernring - einstimmig beschlossen
+- TOP 5.13: Zustimmung zum Bau einer mobilen Parkpalette am Parkplatz Georgskommende - bei Stimmengleichheit abgelehnt
+- TOP 5.14: Sanierung der Gräfte in der Engelenschanze - einstimmig beschlossen
+- TOP 5.15: Satzung zur Änderung der Satzung zur Erhebung von Kostenerstattungsbeträgen nach § 8 a (BNatSchG) - einstimmig beschlossen
+- TOP 6: Berichte
+- TOP 6.1: Konzept für ein Stadtteilmarketing in Münster - zur Kenntnis genommen
+- TOP 6.2: Sanierung Fassade/Außenhülle Stadthaus 1 - zur Kenntnis genommen
+- TOP 7: Anträge/Anfragen
+- TOP 7.1: Zebrastreifen auf der Piusallee in Höhe Stolbergstraße - eingebracht
+- TOP 7.2: Behindertenrampe zwischen Engelenschanze und Verspoel gestalterisch optimieren - eingebracht
+- TOP 7.3: Behindertenrampe am Rathaus - eingebracht
+- TOP 7.4: Vertrag zwischen der Stadt Münster und der Eurocityfest GmbH - Versicherung
+- TOP 7.5: Pavillons auf dem Gelände der Matthias-Claudius-Schule - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Verbesserung der Ampelschaltung für Radfahrer an der Kreuzung Warendorfer Straße/Piusallee - zur Kenntnis genommen
+- TOP 8.2: Fahrbahneinengung auf dem Hohen Heckenweg - zur Kenntnis genommen
+- TOP 8.3: Verbesserung der Hinweisbeschilderung auf die Durchfahrtshöhe der Eisenbahnbrücke an der Warendorfer - zur Kenntnis genommen
+- TOP 8.4: Rindenmulchbahn in der Unterführung am Mauritztor - zur Kenntnis genommen
+- TOP 8.5: Städtischer Teil des Gebäudes Hafenstraße 2-4 - zur Kenntnis genommen
+- TOP 8.6: Straßenreinigung in der Innenstadt - zur Kenntnis genommen
+- TOP 8.7: Abfuhr der gelben Säcke an Einfallstraßen - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
