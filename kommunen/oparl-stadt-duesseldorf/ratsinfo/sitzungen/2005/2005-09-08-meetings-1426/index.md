@@ -1,0 +1,70 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-09-08T16:00:00+02:00
+- Ende: 2005-09-08T19:25:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1426
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1426
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111771.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111771.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111771.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung der Niederschrift vom 23.06.2005
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Polizeistatistik 2004 für den Stadtbezirk 8
+- TOP 5: B-Plan Nr. 5974/36 - Kikweg - mehrheitlich beschlossen
+- TOP 6: FNP-Änderung Nr. 63 - Kikweg - einstimmig beschlossen
+- TOP 7: B-Plan Nr. 5775/35 - Südwwestl. Königsberger Str. - einstimmig beschlossen
+- TOP 8: Plan Nr. 5774/28 - Karl-Geusen-Straße - 1. Verläng - einstimmig beschlossen
+- TOP 9: B-Plan Nr. 5774/26 - Karl-Geusen-Straße - einstimmig beschlossen
+- TOP 10: Verkaufsoffene Sonntage 2005 - mehrheitlich beschlossen
+- TOP 11: Benennung Albert-Schöndorff-Platz - einstimmig beschlossen
+- TOP 12: Baumpflanzungen Annweilerstraße - einstimmig beschlossen
+- TOP 13: Bauunterhalt an städtischen Einrichtungen 2005 - einstimmig beschlossen
+- TOP 14: Bauunterhalt an städtischen Einrichtungen 2005 - einstimmig beschlossen
+- TOP 15: Hilfs- und Therapieangebote
+- TOP 16: Schulhöfe
+- TOP 17: Taubenturm
+- TOP 18: Häuser Erkrather Straße / Am Bermeshau
+- TOP 19: Sozialleistungen im Stadtbezirk 8
+- TOP 20: Freiheitplatz - Errichtung des Brunnens
+- TOP 21: Spielplätze Dillenburger Weg u. Schlesische Straße
+- TOP 22: Stadtorientierte Jugendhilfe
+- TOP 23: Carl-Sonnenschein-Schule
+- TOP 24: Unterirdische Sammelcontainer
+- TOP 25: Katholische Grundschule Leuthenstraße
+- TOP 26: S-Bahnhöfe im Stadtbezirk 8
+- TOP 27: Alkoholkonsum auf dem Gertrudisplatz
+- TOP 28: Alkoholverbot Gertrudisplatz und Schlesische Str. - mehrheitlich beschlossen
+- TOP 29: Rothenbergstraße / L 404 - Grünpfeil - einstimmig beschlossen
+- TOP 30: Parkplätze Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 31: Elbsee - Sportnutzung
+- TOP 32: Schloss Eller
+- TOP 33: Fußgängerbrücke Festenbergstraße - mehrheitlich beschlossen
+- TOP 34: Gertrudisplatz
+- TOP 35: Grundstück Festenbergstraße / Fußweg - einstimmig beschlossen
+- TOP 36: Rütgerstraße - Baumschnitt - einstimmig beschlossen
+- TOP 37: Straßenverkehrs-Lärmsanierung Bernburger Straße - mehrheitlich beschlossen
+- TOP 38: Heckenpflanzungen Kuthsweg u. Parkplatz Eller-M - einstimmig beschlossen
+- TOP 39: Container Breidenplatz - einstimmig beschlossen
+- TOP 40: Pestizidverunreinigung Vennhauser Allee
+- TOP 41: Grundwasserstand im Stadtbezirk 8
+- TOP 42: SEP
+- TOP 43: Schulgebäude Vennhauser Allee 167
+- TOP 44: Bushaltestelle Am Schönenkamp / Deutzer Straße
+- TOP 45: Straßenreinigung in Unterbach
+- TOP 46: Altpapierbündelsammlung in Eller
+- TOP 47: KGS Gerresheimer Landstraße 89
+- TOP 48: Breidenplatz - Kreisverkehr - Radwegbereich
+- TOP 49: Baumpflanzungen und Baumfällungen im Stadtbezirk 8
+- TOP 50: Straßengestaltung Am Stufstock
+- TOP 51: Grünanlage Chemnitzer Straße / Zwickauer Straße
+- TOP 52: Lore-Lorentz-Schule
+- TOP 53: Schulorganisatorische Maßnahmen
