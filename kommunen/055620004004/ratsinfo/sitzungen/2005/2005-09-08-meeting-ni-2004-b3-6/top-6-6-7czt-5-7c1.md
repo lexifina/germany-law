@@ -1,0 +1,7 @@
+# TOP 6: Initiative Stadt Bau Kultur des Landes Nordrhein-Westfalen Wettbewerb 2004/2005 'Stadt macht Platz - NRW macht Plätze' hier: Beschluss zur Abgabe des städtischen Wettbewerbsbeitrags
+
+- Sitzung: 26. Sitzung des Betriebsausschusses 3 (Ausschuss für Stadtentwicklung, Bau und Verkehr) (2005-09-08)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: ja
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2004-B3-6%7Czt_5%7C1
+- Beschluss (Datei): Beschluss - Top 6 https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2004-B3-6%7Czt_5%7C1
