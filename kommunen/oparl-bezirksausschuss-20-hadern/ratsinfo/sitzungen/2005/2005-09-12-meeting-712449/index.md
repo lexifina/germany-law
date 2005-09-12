@@ -1,0 +1,80 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2005-09-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/712449
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/712449
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Antrag auf Patenschaft für den davor liegenden Grünstreifen, Sauerbruchstr. 48
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Plazerstr. 3, 1 Douglasie
+- TOP 3.2.: Stiftsbogen 20, 1 Hängeweide, 2 Birken
+- TOP 3.3.: Plazerstr. 1, 1 Fichte
+- TOP 3.4.: Schröfelhofstr. 19, 1 Ahorn
+- TOP 3.5.: Gräfelfinger Str. 69, 1 Fichte
+- TOP 3.6.: Marchioninistr. 7, 1 Esche
+- TOP 3.7.: Hallgartenstr. 8, 2 Fichten
+- TOP 3.8.: Silberblasttstr. 7, 6 Fichten
+- TOP 3.9.: Neufriedenheimer Str. 16, 1 Thuje
+- TOP 3.10.: Wilhelm-Weitling-Str. 35, 1 Pappel
+- TOP 3.11.: Saalburgerstr. 18, 1 Fichte
+- TOP 3.12.: Blumenauer Str. , gem. Baumbestandsplan Nr. 05-21919
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Waldfriedhof, 3 Fichten (Baureferat, 26.07.2005)
+- TOP 3.2.: Waldfriedhof, 7 Fichten (Baureferat, 25.07.2005)
+- TOP 3.3.: Fürstenrieder Straße /Forst-Kasten-Allee, 3 Fichten; Zöllerstraße, 1 Fichte; Karl-Witthalm-Straße, 1 Kirsche (Baureferat, 15.07.2005)
+- TOP 3.4.: Batzerstr. , 1 Birke (Referat für Stadtplanung und Bauordnung, 25.07.2005)
+- TOP 3.5.: Waldfriehof, 3 Fichte, 3 Birken (Baureferat, 19.07.2005)
+- TOP 3.6.: Spielplatz Ida-Schumacher-Weg, 1 Ahorn (Baureferat, 05.08.2005)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4: Ausschussberichte
+- TOP 5: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Sofortige Herstellung der Planungssicherheit und Bereitstellung der erforderlichen Finanzierungsmittel für - Bau des Luise-Kieselbach-Tunnels - Vervollständigung der Lärmschutzwände entlang der Lindauer-Autobahn - Bau der Süd-Umgehung und damit der Verbindung der Lindauer-Autobahn mit der Garmischer-Autobahn und der Salzbuger-Autobahn (Hr. Winklmeier)
+- TOP 5.2.: Entfernung des Eisengitters am Bolzplatz südlich der Wohanlage von der Prälat-Wellenhofer-Str. (Hr. Rudrich)
+- TOP 6: Entscheidungsfälle
+- TOP 6.1.: Antrag des TSV Großhadern auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 6.600,- (Direktorium, 03.08.2005)
+- TOP 6.2.: Antrag der Spielkiste Blumenau auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 2.167,08 (Direktorium, 04.08.2005)
+- TOP 7: Unterrichtungsfälle
+- TOP 7.1.: Aufhebung des personenbezogenen Behindertenparkplatzes in der Gelbhofstr. 1 (KVR, 07.07.2005)
+- TOP 7.2.: Reservierung Wies¿n 2005 (Direktorium, 09.08.2005)
+- TOP 7.3.: Informationsveranstaltung für die Bezirksausschüsse im KVR (KVR, 09.08.2005)
+- TOP 7.4.: Budgetmittel des Bezirksausschusses, Elternbeirat Grundschule Blumenauer Str. (Direktorium, 08.08.2005)
+- TOP 7.5.: Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten (Direktorium, 04.08.2005)
+- TOP 7.6.: Neues Filial-Format der Deutschen Post (Referat für Arbeit und Wirtschaft, 03.08.2005)
+- TOP 7.7.: Unveränderte Fortführung des Gaststättenbetriebs, Tonys Sportbar, Ossingerstr. 4 (KVR, 16.08.2005)
+- TOP 7.8.: Bürgerversammlung des 20. Stadtbezirkes Hadern am 29.09.2005 (Oberbürgermeister, 17.08.2005)
+- TOP 8: Anhörungsfälle
+- TOP 8.1.: Neubau eines zweigruppigen Kindergartens in der Prälat-Wellenhofer-Str. (Referat für Stadtplanung und Bauordnung, 16.08.2005)
+- TOP 8.2.: Änderung der BA-Geschäftsordnung, Ausschluss wegen persönlicher Beteiligung (Direktorium, 08.08.2005)
+- TOP 8.3.: Antrag auf Errichtung eines provisorischen Wetterschutzzeiltes und einer Flugfeldbetankungsanlage für den Hubschraubersonderlandeplatz am Klinikum Großhadern (Referat für Stadtplanung und Bauordnung, 08.08.2005)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Ergon e.V. "Erzähl mir von dir - Austausch zwichen den Generationen und Kulturen", Antrag auf Förderung im Rahmen des Förderprogramms "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln" (Referat für Stadtplanung und Bauordnung, 10.08.2005)
+- TOP 9.2.: Fahrtkostenübernahme für behinderte BA-MItglieder (Direktorium, 09.08.2005)
+- TOP 9.3.: Stärkere Öffnung der Schule der Phantasie für Kinder des 20. Stadtbezirks; Antrag Nr. 1316 vom 07.07.2003 (Schul- und Kultusreferat, 19.07.2005)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Mitteilung der Termine 2006 "Das Schulreferat trifft die Bezirksausschüsse" (Schul- und Kultusreferat, 08.08.2005)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.1.: am 27.07.2005 - Konzept zur pflegerischen Versogung älterer Menschen in München - Fortschreibung Konzept für das Busparken in München - Perspektive München - PM Analysen - Satzung zur Änderung der Satzung über die Bestattungseinrichtungen der Landeshauptstadt München (Friedhofsatzung)
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.07.2005 Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung Verleihung der Ehrenpreise 2005
+- TOP 12.2.: Beschluss des Sozialausschusses vom 07.07.2005 Bericht über REGSAM, Bleibt REGSAM ein Erfolgsmodell?
+- TOP 12.3.: Beschluss des Kulturausschusses vom 21.07.2005 - Kultur im Stadtquartier, Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen, Evaluierung kultureller Zentren, Kulturelle Zentren und Stadtteilwochen - Umwandlung eines Erwachsenenbusses der Fahrbibliotheken in einen Juniorbus - Samstagsöffnung für Stadtbücherei Waldtrudering
+- TOP 12.4.: Beschluss des Bauausschusses vom 19.07.2005 Dezimierung der Wasservögel an den Seen im Münchner Norden
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kommunalausschusses vom 04.05.2005 Kurzübersicht, Mehrjahresinvestitionsprogramm 2005 bis 2009; Maßnahmen im Bereich des KOmmunalreferates, Programmentwurf
+- TOP 13: Nichtöffentliche Sitzung
