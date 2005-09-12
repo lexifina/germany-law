@@ -1,0 +1,6 @@
+# TOP A.9: Antrag der SPD-Fraktion "Abschaffung der Schuleinzugsbezirke im Grundschulbereich"
+
+- Sitzung: Schulausschuss (2005-09-12)
+- Körperschaft: Stadt Herford
+- Öffentlich: ja
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/16831
