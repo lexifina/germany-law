@@ -1,0 +1,7 @@
+# TOP 9.4.: Protokoll der Vorstandssitzung vom 09.08.05
+
+- Sitzung: BA 25 - Vollgremium (2005-09-13)
+- Körperschaft: Bezirksausschuss 25: Laim
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/58744
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/58744
