@@ -1,0 +1,158 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2005-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/576324
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/576324
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.1.1.: Nutzung des Schulsportplatzes der Schrobenhausener Schule
+- TOP 1.1.2.: Arbeiten an den Straßenbahngleisen Ecke Zschokke - / Siglstraße
+- TOP 1.1.3.: Laim braucht Krippenplätze für Kinder
+- TOP 1.2.1.3: Kultur im Stadtquartier; Teilnahme von Vertretern des Kulturreferates
+- TOP 2: Anträge
+- TOP 2.1.: CSU - Fraktion: Zuschuss aus Mitteln des BA zur Errichtung einer sog. Nest - Kinderschaukel auf dem Spielplatz " Joergstraße "
+- TOP 2.2.: CSU - Fraktion: Zebrastreifen - Fußgängerüberweg in Höhe des Interim über die Agnes - Bernauer - Straße, mit Gefahrenzeichen 134 / Fußgängerüberweg
+- TOP 2.3.: UA - Verkehr: Errichtung einer Verkehrsinsel zwischen den Fahrbahnen der Von - der - Pfordten - Straße in Höhe der Valpichlerstraße
+- TOP 2.4.: SPD - Fraktion: Umgehende Aufnahme detaillierter Planungen für die Umweltverbundröhre
+- TOP 2.5.: SPD - Fraktion: Gebäude Fürstenrieder Str. 21
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Zuschuss aus dem Budget in Höhe von 1.771,45 Euro für die 125-Jahr Feier vom 08. - 10.07.05; Antragsteller: Sportverein München v. 1880 e. V.
+- TOP 3.2.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 245.25 Euro für einen Ausflug des Streitschlichterteams der Hauptschule Fürstenrieder Straße am 20.07.05; Antragsteller: schule - beruf e. V.
+- TOP 3.3.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 410 Euro für ein Sommerfest am 17.07.05; Antragsteller: Kath. Pfarramt zu den hl. 12 Aposteln
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Planungsreferat vom 16.08.05: U 5 West nach Pasing; Bekanntgabe eines Fertigstellungsdatums, Darauffolgende Modernisierung des Pasinger Bahnhofs, Keine Bevorzugung der U - Bahn nach Freiham
+- TOP 4.2.: Schreiben KVR vom 08.08.05: Eingeschränktes Haltverbot in der Willibaldstraße zwischen Willibaldplatz und Gotthardstraße
+- TOP 4.3.: Änderung der BA-Geschäftsordnung, Ausschluss wegen persönlicher Beteiligung
+- TOP 4.4.: Schreiben Direktorium vom 09.08.05: Fahrtkostenübernahme für behinderte BA - Mitglieder
+- TOP 4.5.: Schreiben Baureferat vom 19.08.05: Flohmarkt auf dem Agricolaplatz
+- TOP 5: Baumfällungen
+- TOP 5.1.: Willibaldstr. 65 a: Fällung von 1 Stechfichte und 2 Kiefern
+- TOP 5.2.: Camerloherstr. 40: Fällung von 1 Fichte
+- TOP 5.3.: Guido - Schneble - Str. 40: Fällung von 1 Schwarzkiefer
+- TOP 5.4.: Eckermannstr. 3: Fällung von 1 Fichte
+- TOP 5.5.: Fröbelplatz 4: Fällung von 2 Birken
+- TOP 5.6.: Eckermannstr. 16: Fällung von 1 Lärche
+- TOP 6: Baumfällungen in Verbindung mit Bauvorhaben (Baumbestandsplan)
+- TOP 6.1.: Geisenfelder Str. 9: Neubau eines Doppelhauses mit 2 Stellplätzen
+- TOP 7: Bauvorhaben
+- TOP 7.1.: Landsberger Str. 162: Errichtung einer Werbeanlage
+- TOP 7.2.: Agricolastr. 36: Neubau einer Wohnanlage ( 9 WE ) mit Tiefgarage / Tektur
+- TOP 8: Sonstiges
+- TOP 9: Protokolle
+- TOP 9.1.: Protokoll der Sitzung des UA Kinder und Jugend vom 30.06.05
+- TOP 9.2.: Protokoll der BA - Sitzung vom 07.06.05
+- TOP 9.3.: Protokoll der BA - Sitzung vom 12.07.05
+- TOP 9.4.: Protokoll der Vorstandssitzung vom 09.08.05
+- TOP 10: Umlauf
+- TOP 10.1.: Schreiben Baureferat vom 28.06.05: Rauchverbot auf Spielplätzen ( Schreiben BA vom 19.04.05 )
+- TOP 10.2.: Schreiben Planungsreferat vom 27.06.05: Mehr Lkw - Verkehr nach der Maut - Einführung ? Information des BAs bzgl. der Situation in Laim ( Antrag Nr. 123 vom 01.02.05 )
+- TOP 10.3.: Schreiben Baureferat vom 29.06.05: Sanierung der Riegerhofstraße zwischen Gotthard - und Valpichlerstraße und der Joergstraße ( Antrag Nr. 189 vom 14.04.05 )
+- TOP 10.4.: Schreiben Schulreferat vom 05.07.05: Sicherung der Ganztagesbetreuung von Schülern an der Hauptschule Schrobenhausener Straße
+- TOP 10.5.: Schreiben Schulreferat vom 06.07.05: Sportanlage an der Riegerhofstraße ( Antrag Nr. 2414 vom 05.10.04 )
+- TOP 10.6.: Schreiben Referat für Gesundheit und Umwelt vom 13.07.05: Mobilfunk ( Schreiben BA vom 11.07.05 )
+- TOP 10.7.: Schreiben Planungsreferat vom 25.07.05: Bauvorhaben Haslangstr. 9 ( Schreiben BA vom 11.07.05 )
+- TOP 10.8.: Schreiben Planungsreferat vom 27.07.05: Veit - Stoß - Straße, Anfrage wegen Baumfällungen ( Schreiben BA vom 18.07.05 )
+- TOP 10.9.: Schreiben Stadtwerke München GmbH vom 27.07.05: Blade Night ( Schreiben BA vom 11.07.05 )
+- TOP 10.10.: Schreiben Sozialreferat vom 29.07.05: Mehr Betreuungsplätze für Laimer Kinder im Krippenalter fördern ( Antrag Nr. 124 vom 01.02.05 )
+- TOP 10.11.: Schreiben KVR vom 25.07.05: Errichtung einer Vollampel in der Gotthardtstraße / Laimer Platz ( Schreiben BA vom 19.04.05 )
+- TOP 10.12.: Schreiben KVR vom 02.08.05: Eingeschränktes Haltverbot in der Agnes - Bernauer - Straße Nordseite zwischen Fürstenrieder Staße und Lutzstraße ( Antrag Nr. 462 vom 12.07.05 )
+- TOP 10.13.: Schreiben Schulreferat vom 03.08.05: Voraussichtliche Entwicklung der Schülerzahlen in den Grundschulsprengeln des 25. Stadtbezirkes Laim ( Antrag Nr. 38 vom 11.01.05 bzw. Nachfrage vom 11.07.05 )
+- TOP 10.14.: Schreiben MVG vom 08.08.05: Buslinie 131; 10 - Minuten - Takt zwischen Laim Bahnhof und Am Knie, Haltestelle Schäufeleinstraße stadtauswärts Buswartehäuschen am Laimer Platz ( Schreiben BA vom 31.03. bzw. 19.05.05 )
+- TOP 10.15.: Schreiben Baureferat vom 16.08.05: Einstellung der für den Bau der Umweltverbundröhre am S - Bahnhof Laim nötigen Mittel in Liste 1 des MIP 2005 - 2009
+- TOP 10.16.: Schreiben Baureferat vom 19.08.05: Ergänzung der Gehwegpflasterung im Baumgraben Ecke Schäufelein - / Lautensackstraße ( Antrag Nr. 440 vom 07.06.05 )
+- TOP 10.17.: Schreiben Planungsreferat vom 19.08.05: Elsenheimer Str. 41, Errichtung von freistehenden Säulen zur Akzentuierung der Eingangssituation
+- TOP 10.18.: Schreiben Referat für Gesundheit und Umwelt vom 23.08.05: Einrichtung von Feinstaubmessstationen in der Fürstenrieder Straße und der Landsberger Straße ( Antrag Nr. 356 vom 03.05.05 )
+- TOP 10.19.: Schreiben KVR vom 28.06.05: Gaststätte " Tirolensis Garten ", Helmpertstr. 2; Freischankfläche
+- TOP 10.20.: Schreiben KVR vom 13.06.05: Meister - Mathis - Weg; teilweise Aufhebung der Einbahnregelung
+- TOP 10.21.: Schreiben KVR vom 27.07.05: Friedenheimer Straße; Buslinie 131 - Haltestelle Schäufeleinstraße, Haltverbot
+- TOP 10.22.: Schreiben Ströer Media Deutschland vom 12.07.05: Errichtung von Werbeanlagen in München; Fürstenrieder Str. 50 und Landsberger Straße Nähe Hausnr. 198 ( Schreiben BA vom 11.07.05 )
+- TOP 10.23.: Baureferat vom 29.08.05: Wiederherstellung des Gehweges im Bereich Elsenheimerstr. 37 - 41
+- TOP 10.24.: Bautenliste vom 20.06. - 26.06.05 1. Erstantragsverfahren a ) Landsberger Str. 240 b ) Senftenauerstr. 20 c ) Johannes - Scharrer - Str. 3 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a ) Byecherstr. 31 b ) Schäufeleinstr. 20
+- TOP 10.25.: Bautenliste vom 27.06. - 03.07.05 1. Eingereichte und erteilte Bauvorhaben a ) Mathunistr. 13 b ) Lanzstr. 24 c ) Friedenheimer Str. 102 d ) Gotthardstr. 116 e ) Landsberger Str. 170 f ) Junkerstr. 13 2. Änderungsverfahren a ) Lanzstr. 24 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a ) Johannes - Scharrer - Str. 10
+- TOP 10.26.: Bautenliste vom 04.07. - 10.07.05: 1. Erstantragsverfahren a ) Geisenfelder Str. 9 b ) Byecherstr. 31 c ) Hans - Thonauer - Str. 5 2. Änderungsverfahren a ) Joergstr. 29 b ) Zschokkestr. 59
+- TOP 10.27.: Bautenliste vom 11.07. - 17.07.05 1. Erstantragsverfahren a ) Johannes - Scharrer - Str. 10 b ) Geyerspergerstr. 23 2. Änderungsverfahren a ) Landsberger Str. 294
+- TOP 10.28.: Bautenliste vom 18.07. - 24.07.05: 1. Erstantragsverfahren a ) Elsenheimerstr. 41 b ) Haslangstr. 9 c ) Agnes - Bernauer - Str. 1 d ) Schrottstr. 18 2. Änderungsverfahren a ) Gotthardstr. 85
+- TOP 10.29.: Bautenliste vom 25.07. - 31.07.05 1. Erstantragsverfahren a ) Mitterhofstr. 12 b ) Agnes - Bernauer - Str. 2 c ) Schäufeleinstr. 29 d ) Mitterhofstr. 20 2. Änderungsverfahren a ) Landsberger Str. 338 b ) Landsberger Str. 294 c ) Berchemstr. 16 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a ) Agnes - Bernauer - Str. 104
+- TOP 10.30.: Bautenliste vom 01.08. - 07.08.05 1. Erstantragsverfahren a ) Rechpachstr. 48 b ) Rechpachstr. 47 c ) Willibaldstr. 157 d ) Rechpachstr. 5 2. Änderungsverfahren a ) Agricolastr. 36
+- TOP 10.31.: Bautenliste vom 08.08. - 14.08.05 1. Änderungsverfahren a ) Johannes - Scharrer - Str. 10
+- TOP 10.32.: Bautenliste vom 15.08. - 21.08.05 1. Erstantragsverfahren a ) Landsberger Str. 185
+- TOP 10.33.: Bautenliste vom 22.08. - 28.08.05 1. Erstantragsverfahren a ) Berchemstr. 95 2. Änderungsverfahren a ) Haslangstr. 44
+- TOP 10.34.: Schreiben Schulreferat vom 21.06.05: Erweiterung der städtsichen Kindertageseinrichtung am Riegerhofweg 5
+- TOP 10.35.: Schreiben Planungsreferat vom 22.06.05: Regionalgespräch zwischen der Lokalbaukommission und den BAs; Termin 28.09.05
+- TOP 10.36.: Schreiben KVR vom 09.08.05: Informationsveranstaltung für BAs am 08.11.05
+- TOP 10.37.: Schreiben Schulreferat vom 08.08.05: Das Schulreferat trifft die BAs am 23.11.06
+- TOP 10.38.: Schreiben Seniorenbeirat vom 11.07.05: Wahl des Vorstandes am 05.07.05
+- TOP 10.39.: Schreiben Sozialreferat vom 21.07.05. Genehmigung der Zweckentfremdung, Byecherstraße
+- TOP 10.40.: Schreiben Sozialreferat vom 22.08.05: Genehmigung der Zweckentfremdung, Johannes - Scharrer - Straße
+- TOP 10.41.: Schreiben Baureferat vom 25.07.05: Präsentation zum Straßenausbaubeitrag
+- TOP 10.42.: Schreiben Direktorium vom 21.07.05: Anhörung der BAs in stadtratspflichtigen Angelegenheiten
+- TOP 10.43.: Schreiben Direktorium vom 29.07.05: Oktoberfest 2005, Reservierung für BAs
+- TOP 10.44.: Schreiben Direktorium vom 16.08.05: E - mail Versand der Unterlagen in Budgetentscheidungsfällen
+- TOP 10.45.: Schreiben Baureferat vom 29.07.05: Aufstellen eines Maibaumes auf dem Laimer Anger; Ausnahmebewilligung
+- TOP 10.46.: Schreiben Referat für Gesundheit und Umwelt vom 24.08.05: Mobilfunk, Informationen
+- TOP 10.47.: Schreiben Referat für Gesundheit und Umwelt vom 01.08.05: Mobilfunk; Suchkreismeldung 510310179 - Kleinhadern
+- TOP 10.48.: Schreiben Referat für Arbeit und Wirtschaft vom 03.08.05: Neues Filial-Format der Deutschen Post
+- TOP 10.49.: Schreiben Kulturreferat vom 19.08.05: Kulturentwicklung im Bereich Hauptbahnhof - Laim - Pasing insbesondere im Bereich des 9. Stadtbezirkes Neuhausen - Nymphenburg
+- TOP 10.50.: Schreiben Direktorium vom 18.07.05: Zuschuss aus dem Budget - Verwendungsnachweis; Antragsteller: Laimer Schlümpfe e. V.
+- TOP 10.51.: Schreiben Direktorium vom 18.07.05: Bewilligung eines Zuschusses aus dem Budget in Höhe von 960 Euro für den Einsatz eines Spielbusses, Antragsteller: Pädagogische Aktion, Spielen in der Stadt e. V.
+- TOP 10.52.: Schreiben Direktorium vom 18.07.05: Bewilligung eines Zuschusses aus dem Budget in Höhe von 2.180 Euro für das Laimer Stadtteilfest , Antragsteller: Regionale Arbeitsgemeinschaft Soziales
+- TOP 10.53.: Schreiben Direktorium vom 21.07.05: Ablehnung eines Zuschusses aus dem Budget in Höhe von 5.000 Euro für das Projekt " Trümmerkunst "; Antragsteller: P:A:T
+- TOP 10.54.: Schreiben Direktorium vom 22.07.05: Bewilligung eines Zuschusses aus dem Budget in Höhe von 1.398 Euro für die Ausstattung des Pausenhofes; Antragsteller: Elternbeirat der Droste - Hülshoff - Grundschule
+- TOP 10.55.: Schreiben Direktorium vom 22.07.05: Bewilligung eines Zuschusses aus dem Budget in Höhe von 2.800 Euro für ein Fußballturnier; Antragsteller: ESV München - Laim von 1910 e. V.
+- TOP 10.56.: Schreiben Direktorium vom 22.07.05: Bewilligung eines Zuschusses in Höhe von 700 Euro für die 40-Jahr-Feier; Antragsteller: Kindertagesstätte Haslangstr. 9
+- TOP 10.57.: Schreiben Direktorium vom 10.08.05: Antrag des Eltenbeirates der Grundschule an der Camerloherstr. 100 auf Zuschuss aus dem Budget für ein Gewaltpräventionsprojekt
+- TOP 10.58.: Schreiben Baureferat vom 19.07.05: Fällung von Gefahrenbäumen; Spielplatz Hogenbergplatz
+- TOP 10.59.: Schreiben Baureferat vom 05.08.05: Fällung von Gefahrenbäumen, Schulen Camerloherstr. 110 und Droste - Hülshoff - Str. 9
+- TOP 10.60.: Schreiben Baureferat vom 10.08.05: Fällung von Gefahrenbäumen, Droste - Hülshoff - Straße
+- TOP 10.61.: Schreiben Planungsreferat vom 18.07.05: Agricolastr. 38, Fällungsgenehmigung
+- TOP 10.62.: Schreiben Planungsreferat vom 18.07.05: Burgkmairstr. 58, Fällungsgenehmigung
+- TOP 10.63.: Schreiben Planungsreferat vom 18.07.05: Eckermannstr. 1, Fällungsgenehmigung
+- TOP 10.64.: Schreiben Planungsreferat vom 18.07.05: Geyerspergerstr. 54, Fällungsgenehmigung
+- TOP 10.65.: Schreiben Planungsreferat vom 18.07.05: Ossietzkystr. 9, Fällungsgenehmigung
+- TOP 10.66.: Schreiben Planungsreferat vom 18.07.05: Viebigplatz 7, Fällungsgenehmigung
+- TOP 10.67.: Schreiben Planungsreferat vom 12.08.05: Inderstorferstr. 17 a, Fällungsgenehmigung
+- TOP 10.68.: Schreiben Planungsreferat vom 12.08.05: Willibaldstr. 131, Fällungsgenehmigung
+- TOP 10.69.: Schreiben Planungsreferat vom 17.08.05: Wilhelm - Riehl - Str. 50, Fällungsgenehmigung
+- TOP 10.70.: Schreiben Planungsreferat vom 17.08.05: Reithmannstr. 8 / 10, Fällungsgenehmigung
+- TOP 10.71.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.06.05: Verlängerung der U 5 West nach Pasing
+- TOP 10.72.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 29.06.05: Satzung der LH München über Einfriedungen und Vorgärten ( Vorgartensatzung )
+- TOP 10.73.: Beschluss des Sozialausschusses vom 07.07.05: Bericht über REGSAM, Bleibt REGSAM ein Erfolgsmodell ?
+- TOP 10.74.: Beschluss des Schulausschusses vom 13.07.05: Keine Raummiete für außerschulische Kooperationspartner
+- TOP 10.75.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.05: Perspektiver München - PM Bilanz; Leitprojekt: Stadtentwicklung Hadern, Münchner Habitat - Tag in Hadern
+- TOP 10.76.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.05: Perspektive München, Bericht zur Stadtentwicklung 2003; a ) Anhörung der BAs, b ) Befassung der Fachausschüsse des Stadtrates, c ) Entscheidungsvorschlag des Planungsreferates
+- TOP 10.77.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.05: Zentrale Bahnflächen München, Hauptbahnhof - Laim - Pasing; Bebauungsplan mit Grünordnung Nr. 1925 Nymphenburg Süd; Satzungsbeschluss
+- TOP 10.78.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 13.07.05: Beschlussvollzugskontrolle ( BVK ); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates für den Zeitrum vom 01.01. - 30.06.05
+- TOP 10.79.: Beschluss des Bauausschusses vom 19.07.05: Dezimierung der Wasservögel an den Seen im Münchner Norden
+- TOP 10.80.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.07.05: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung; Verleihung der Ehrenpreise 2005
+- TOP 10.81.: Beschluss Kulturausschuss vom 21.07.05: Samstagöffnung für Stadtbücherei Waldtrudering
+- TOP 10.82.: Beschluss Kulturausschuss vom 21.07.05: Umwandlung eines Erwachsenenbusses der Fahrbibliothek in einen Juniorbus
+- TOP 10.83.: Beschluss des Kulturausschusses vom 21.07.05: Kultur im Stadtquartier
+- TOP 10.84.: Beschluss der Vollversammlung vom 27.07.05: Satzung zur Änderung der Satzung über die Bestattungseinrichtungen der LH München ( Friedhofsatzung )
+- TOP 10.85.: Beschluss der Vollversammlung vom 27.07.05: Vollzug des Bayerischen Naturschutzgesetzes ( BayNatSchG ); Novellierung des Landschaftsschutzgebietes " Nymphenburger Park mit Umgriff einschließlich des Nymphenburger Kanals samt der Nördlichen und Südlichen Auffahrtsallee und des Grünwaldparks "
+- TOP 10.86.: Beschluss der Vollversammlung vom 27.07.05: Perspektive München - PM Analyse, Wissenschafts - und Hochschulstandort München, Rahmenbedingungen und Perspektiven
+- TOP 10.87.: Beschluss der Vollversammlung vom 27.07.05: Konzept zur pflegerischen Versorgung älterer Menschen in München
+- TOP 10.88.: Beschluss der Vollversammlung vom 27.07.05: Laimer Unterführung - " Umweltverbundröhre "
+- TOP 10.89.: Beschluss der Vollversammlung vom 27.07.05: Fortschreibung Konzept für Busparken in München
+- TOP 10.90.: Beschluss des Verwaltungs - und Personalausschusses als Feriensenat vom 24.08.05: 2. S - Bahn - Stammstrecke München, Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz ( AEG ), Planfeststellungsabschnitt 2 München Mitte - Bereich Westseite Karlsplatz bis westliches Isarufer mit Bahnhof Marienhof einschließlich Rettungswege und brandschutztechnischer Einrichtungen
+- TOP 10.91.: Schreiben Unfallkasse München vom 28.06.05: Geschäftsbericht 2004
+- TOP 10.92.: Schreiben Referat für Arbeit und Wirtschaft vom 05.07.05: Wirtschaftsinfo 04 - 2005
+- TOP 10.93.: Schreiben Referat für Arbeit und Wirtschaft vom 29.07.05: Wirtschaftsinfo 05 - 2005
+- TOP 10.94.: Schreiben Referat für Arbeit und Wirtschaft vom 24.08.05: Wirtschafts - Info 06/05
+- TOP 10.95.: Schreiben Münchner Forum vom 05.07.05: Stadtpunkte 4 - 2005
+- TOP 10.96.: Schreiben ESV München - Laim von 1910 e.V. : Vereinsinfobrief 2/2005
+- TOP 10.97.: Schreiben Kath. Jugendstelle Dekanat Laim: Einladung zum Einweihungsfest der neuen Räume in der Treffauerstr. 47 am 25.09.05
+- TOP 10.98.: Schreiben des BA 21 Pasing - Obermenzing vom 10.08.05: Verbesserung der verkehrlichen Situation in der Landsberger Straße / Willibaldstraße
+- TOP 10.99.: Protokoll des Kinderforums in Laim vom 22.07.05
+- TOP 10.100.: Bauvorhaben Agnes - Bernauer - Straße / Gesprächsnotiz vom Ortstermin am 23.08.05
+- TOP 10.101.: Schriftverkehr aus der BA - Sitzung vom 07.06.05
+- TOP 10.102.: Schriftverkehr aus der BA - Sitzung vom 12.07.05
+- TOP 10.103.: Schriftverkehr aus der Vorstandssitzung vom 09.08.05
+- TOP 1.2: Bürgerpost an den BA
