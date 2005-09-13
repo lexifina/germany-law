@@ -1,0 +1,70 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2005-09-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/676818
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/676818
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeiner Teil
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls der außerordentlichen Sitzung vom 19.07.05 und des Protokolls der Sitzung vom 02.08.05
+- TOP 2: Anträge
+- TOP 2.1.: Industrie-Bahngleis Geisenhausenerstraße
+- TOP 3: Unterauschuss Budget
+- TOP 3.1.: "Green-City"
+- TOP 3.2.: Kindertagesstätte Rasselbande
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Umwelt
+- TOP 5: Unterauschuss Verkehr
+- TOP 5.1.: Schmiedberg, Verbot für Fußgänger
+- TOP 5.2.: Haltverbot Festingstraße
+- TOP 5.3.: Erneuerung Hofmannstraße zwischen Boschetsrieder Str. und Zielstattstr.
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Friedastr. 13
+- TOP 6.2.: Fritz-Baer-Str. FlNr. 608/13
+- TOP 6.3.: Forstenrieder Allee 197
+- TOP 6.4.: Makartstr. 1 (T)
+- TOP 6.5.: Altlastsanierung Boschetsrieder Str./Drygalski-Allee/Kistlerhofstr.
+- TOP 6.6.: Allescherstr. 46
+- TOP 6.7.: Zielstattstr. 12
+- TOP 6.8.: Zielstattstr. 20
+- TOP 6.9.: Arnrieder Str. 9
+- TOP 6.10.: Forstenrieder Allee 137
+- TOP 6.11.: Weltistr. 4
+- TOP 6.12.: Faustnerweg 12
+- TOP 6.13.: Forstenrieder Allee 23
+- TOP 6.14.: Pullach BPl. Nr. 15
+- TOP 6.15.: Erhalt der A-Flächen im 19. Stadtbezirk
+- TOP 6.16.: Zennerstr. 20 (T)
+- TOP 6.17.: Unterbrunner Str. 2 (T)
+- TOP 6.18.: Melchiorstr. 6
+- TOP 6.19.: Heilmaierstr. 40
+- TOP 6.20.: Argelsrieder Str. 19
+- TOP 6.21.: Oberstdorfer Str. o.Nr.
+- TOP 6.22.: Ludwig-Werder-Weg 14 (T)
+- TOP 6.23.: Herterichstr. 60 (T)
+- TOP 6.24.: Meglingerstr. 21 (T)
+- TOP 6.25.: Wolfratshauser Str. 216 (T)
+- TOP 6.26.: Bichler Str. o.Nr.
+- TOP 6.27.: Irminsulstr. o.Nr.
+- TOP 7: Entscheidungsfälle
+- TOP 7.1.: Verkehrsgefährdung Kreuzung Wolfratshauser- / Sollner Straße
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Änderung der Geschäftsordnung bei Ausschluss wg. persönlicher Beteiligung
+- TOP 8.2.: Fahrtkostenübernahme für behinderte BA-Mitglieder
+- TOP 8.3.: Zweckentfremdung Maxhofstr. 64
+- TOP 8.4.: Werbeanlage Kistlerhofstr. 152
+- TOP 8.5.: Gaststättenfortführung "Regina"
+- TOP 8.6.: "Münchner BürgerInnen solidarisch mit Wunsiedel"
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
