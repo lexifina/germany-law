@@ -1,0 +1,145 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2005-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/586429
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/586429
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Vorgesehene Tagesordnung
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 0: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0: Wahl eines stellvertretenden Vorsitzenden
+- TOP 0: Neubesetzung des Unterausschusses Verkehr sowie Betreuung des Schaukastens am U-Bahnhof Stiglmaierplatz
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 1: Planungsangelegenheiten (Unterausschuss Planung)
+- TOP 1.1: Anträge (1)
+- TOP 1.2: Entscheidungen und Anhörungen (1)
+- TOP 1.2.1.: 1.2.1 Meldelisten für Bauvorhaben
+- TOP 1.2.2.: 1.2.2 Zweckentfremdung von Wohnraum - Erteilung eines Negativattests
+- TOP 1.2.3.: 1.2.3 Errichtung eines 4-gruppigen Kindergartens im Arnulfpark; Beschlussvorlage für die Sitzung des Schulausschusses am 21.09.2005
+- TOP 1.2.4.: 1.2.4 Ersatzstandorte für zwei Litfasssäulen am Alten Botanischen Garten/Kunstplattform; Vormerkung vom 22.07.2005
+- TOP 1.2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.7.: 1.2.7 Neureutherstraße 29; Zweckentfremdung wegen Nutzungsänderung
+- TOP 1.3: Unterrichtungen und Berichte (1)
+- TOP 1.3.1.: 1.3.1 Bauvorhaben Lenbach-Gärten, Baustelleneinrichtung auf der sog. Kunstplattform am Alten Botanischen Garten; Vormerkung vom 22.07.2005
+- TOP 1.3.2.: 1.3.2 Aufstellung über Spielhallen, Table-Dance-Bars etc. im 3. Stadtbezirk Maxvorstadt
+- TOP 1.3.3.: 1.3.3 Spielhalle in der Dachauer Straße 35 (Genehmigung); Schreiben vom 20.07.2005
+- TOP 1.3.4.: 1.3.4 Dachauer Straße 12, Nutzungsänderung Abstellräume zu Table-Dance-Gaststätte; Schreiben vom 26.08.2005
+- TOP 1.3.5.: 1.3.5 Ottostraße 11, 2. OG links; Zweckentfremdung von Wohnraum
+- TOP 1.4: Aktuelle Sachstandsberichte (1)
+- TOP 1.4.1.: 1.4.1 Baubeginn der Sammlung Brandhorst; Schreiben vom 08.08.2005
+- TOP 1.4.2.: 1.4.2 Spielplatz Akademiestraße
+- TOP 2: Gaststättenangelegenheiten und Gewerbe
+- TOP 2.0: Fragen an die Bezirksinspektion
+- TOP 2.1: Entscheidungen und Anhörungen (2)
+- TOP 2.1.1.: 2.1.1 Gaststätte "Deli Star", Amalienstraße 40; Ausdehnung einer bestehenden Freischankfläche
+- TOP 2.1.2.: 2.1.2 Backshop/Stehcafé, Sandstraße 49; Errichtung einer Freischankfläche (Neuantrag)
+- TOP 2.1.3.: 2.1.3 Stehcafé, Luisenstraße 43; Errichtung einer Freischankfläche (Neuantrag)
+- TOP 2.1.4.: 2.1.4 Leons Internetcafße, Augustenstraße 94; Errichtung einer Freischankfläche (Neuantrag)
+- TOP 2.1.5.: 2.1.5 Inter Coffee Shop, Schleißheimer Straße 13; Errichtung einer Freischankfläche (Neuantrag)
+- TOP 2.1.6.: 2.1.6 Inter Coffee Shop, Dachauer Straße 27; Errichtung einer Freischankfläche (Neuantrag)
+- TOP 2.1.7.: 2.1.7 Gaststätte "Luise", Luisenstraße 49; Errichtung einer Freischankfläche (Neuantrag)
+- TOP 2.1.8.: 2.1.7 Discothek "Rote Sonne", Maximiliansplatz 7; tägliche Dauersperrzeitverkürzung
+- TOP 2.1.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Unterrichtungen und Berichte (2)
+- TOP 2.2.1.: 2.2.1 Café "Zeitgeist", Türkenstraße 74; Errichtung einer Freischankfläche; Sachstand
+- TOP 2.2.2.: 2.2.2 Novellierung des Gaststättengesetzes; Mitteilung des KVR vom 29.06.2005
+- TOP 2.3: Aktuelle Sachstandsberichte (2)
+- TOP 3: Verkehrsangelegenheiten (UA Verkehr)
+- TOP 3.0: Fragen an die Polizeiinspektion
+- TOP 3.1: Anträge (2)
+- TOP 3.1.1.: 3.1.1 Bessere Verdeutlichung der Einbahnstraßenregelung an der Kreuzung Türken-/Akademiestraße
+- TOP 3.2: Entscheidungen und Anhörungen (3)
+- TOP 3.2.1.: 3.2.1 Barer Straße 82; Genehmigung einer Warenstellage ("Arsen und Spitzenhäubchen")
+- TOP 3.2.2.: 3.2.2 Augustenstraße 112; Genehmigung einer Warenstellage ("Blumen Thi Minh")
+- TOP 3.2.3.: 3.2.3 Kreittmayrstraße 12/Nordseite (Penny-Markt); Einrichtung eines eingeschränkten Haltverbots
+- TOP 3.2.4.: 3.2.4 Generalsanierung der Zentnerstraße
+- TOP 3.3: Unterrichtungen und Berichte (3)
+- TOP 3.3.1.: 3.3.1 Veranstaltung "Unter dem Pflaster der Strand" am Geschwister-Scholl-Platz; Sachstand
+- TOP 3.3.2.: 3.3.2 Straßenfest mit Anliegerflohmarkt in der Heßstraße zwischen Schwind- und Schleißheimer Straße am 04.09.2005; Eilentscheidung des Vorsitzenden vom 29.07.2005
+- TOP 3.3.3.: 3.3.3 Medien-Marathon München am 09.10.2005; Eilentscheidung des Vorsitzenden vom 25.07.2005
+- TOP 3.3.4.: 3.3.4 Augustenstraße 3 (Schlecker-Markt), Errichtung einer Warenstellage; Eilentscheidung des Vorsitzenden vom 29.07.2005
+- TOP 3.3.5.: 3.3.5 Verlängerung der Wanderbaumallee in der Gabelsbergerstraße; Eilentscheidung des Vorsitzenden vom 29.07.2005
+- TOP 3.3.6.: 3.3.6 Blade Night 2005 (Änderungsantrag); Eilentscheidung des Vorsitzenden nach entsprechendem Vorstandsbeschluss vom 16.08.2005 sowie Antwort des KVR vom 19.08.2005
+- TOP 3.3.7.: 3.3.7 Leistungsprogramm der MVG für die Fahrplanperiode 2006; Beschluss der Vollversammlung vom 27.07.2005
+- TOP 3.3.8.: 3.3.8 Zweite S-Bahn-Stammstrecke München; Beschlussvorlage für den Verwaltungs- und Personalausschuss (Feriensenat) am 24.08.2005
+- TOP 3.3.9.: 3.3.9 Verkehr im Bereich des Justizzentrums; Antwort des Oberlandesgerichts vom 26.07.2005 sowie Antwort des Kreisverwaltungsreferates vom 16.08.2005 auf diverse Fragen eines Bürgers
+- TOP 3.3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.11.: 3.3.11 Gleiserneuerung in der Barer Straße; Mitteilung der SWM GmbH vom 07.07.2005
+- TOP 3.3.12.: 3.3.12 Parkleitsystem für die Altstadt und das angrenzende Hauptbahnhofviertel - Parkleitsystem Zentrum; Beschluss des Bauausschusses vom 19.07.2005
+- TOP 3.3.13.: 3.3.13 Polizeipräsenz im Bereich östlich der Dachauer Straße (PI 42); Bürgerschreiben
+- TOP 3.3.14.: 3.3.14 Lärmbelästigung durch Lkw vor Wohnhäusern; Bürgerschreiben
+- TOP 3.3.15.: 3.3.15 Zustand des Straßenbelages am Beispiel Amalienstraße (südlicher Bereich); Bürgerschreiben
+- TOP 3.3.16.: 3.3.16 Begrünung der Zieblandstraße ; Bürgerschreiben
+- TOP 3.4: Aktuelle Sachstandsberichte (3)
+- TOP 4: Umwelt und Baumschutz
+- TOP 4.1: Anträge (3)
+- TOP 4.2: Entscheidungen und Anhörungen (4)
+- TOP 4.2.1.: 4.2.1 Brienner Straße 37; Fällung von 2 Eschen und 3 Ahorn
+- TOP 4.2.2.: 4.2.2 Deroystraße 22; Fällung eines Ahorn
+- TOP 4.2.3.: 4.2.3 Nymphenburger Straße 19; Fällung einer Buche
+- TOP 4.2.4.: 4.2.4 Maximiliansplatz 5; Fällung eines Götterbaums
+- TOP 4.2.5.: 4.2.5 Nymphenburger Straße 49; Fällung von 2 Ahorn und 1 Esche
+- TOP 4.2.6.: 4.2.6 Lothstraße 64; diverse Baumfällungen (Erweiterungsbau Fachhochschule)
+- TOP 4.2.7.: 4.2.7 Zieblandstraße 28; Fällung eines Ahorn
+- TOP 4.2.8.: 4.2.8 Türkenstraße 15; Fällung von 3 Akazien und 1 Ahorn (Eilentscheidung des Vorstands vom 30.08.2005)
+- TOP 4.2.9.: 4.2.9 Kaulbachstraße 14; Fällung einer Fichte
+- TOP 4.3: Unterrichtungen und Berichte (4)
+- TOP 4.3.1.: 4.3.1 Maillingerstraße 11; weitere Fällung eines Baumes wegen Errichtung einer Sicherheits-Zaunanlage; Schreiben des Planungsreferats vom 20.07.2005
+- TOP 4.3.2.: 4.3.2 Alter Nördlicher Friedhof; Fällung eines Ahorn (Gefahrenbaum)
+- TOP 4.3.3.: 4.3.3 Parkpflegewerk "Alter Botanischer Garten" - Termin für Ortsbesichtigung mit Beteiligten
+- TOP 4.3.4.: 4.3.4 Mobilfunk-Informationen; Schreiben des RGU vom 24.08.2005
+- TOP 4.3.5.: 4.3.5 Mobilfunksendeanlagen: Baubeginnsanzeigen (4)
+- TOP 4.3.6.: 4.3.6 Mobilfunksendeanlagen: Suchkreismeldungen (3)
+- TOP 4.3.7.: 4.3.7 Mobilfunksendeanlagen: Vertragliche Standortsicherung (1)
+- TOP 4.4: Aktuelle Sachstandsberichte (4)
+- TOP 5: Soziale Angelegenheiten (UA Soziales)
+- TOP 5.1: Anträge (4)
+- TOP 5.2: Entscheidungen und Anhörungen (5)
+- TOP 5.2.1.: 5.2.1 Antrag auf Gewährung eines Zuschusses aus dem BA-Budget für das Musische Zentrum (Kinderkulturfest vom 21.07. - 23.07.2005)
+- TOP 5.2.2.: 5.2.2 Fahrtkostenübernahme für behinderte BA-Mitglieder; Antrag des BA 9 Neuhausen-Nymphenburg vom 16.11.2004
+- TOP 5.3: Unterrichtungen und Berichte (5)
+- TOP 5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.2.: 5.3.2 Konzept zur pflegerischen Versorgung älterer Menschen in München; Beschluss der Vollversammlung vom 27.07.2005
+- TOP 5.4: Aktuelle Sachstandsberichte (5)
+- TOP 5.4.1.: 5.4.1 REGSAM; Beschluss des Sozialausschusses vom 07.07.2005 (sowie Schreiben vom 28.07.2005 zum Spielplatz im Alten Botanischen Garten)
+- TOP 5.4.2.: 5.4.2 Fachbasis
+- TOP 5.4.3.: 5.4.3 Bericht der Kinderbeauftragten
+- TOP 5.4.4.: 5.4.4 Bericht der Jugendbeauftragten
+- TOP 5.4.5.: 5.4.5 Bericht des Ausländerbeauftragten
+- TOP 5.4.6.: 5.4.6 Bericht der Frauenbeauftragten
+- TOP 6: Kultur (UA Kultur)
+- TOP 6.1: Anträge (5)
+- TOP 6.1.1.: 6.1.1 Erika-Mann-Ausstellung in der U-Bahn-Galerie
+- TOP 6.2: Entscheidungen und Anhörungen (6)
+- TOP 6.2.1.: 6.2.1 Antrag auf Gewährung eines Zuschusses aus dem BA-Budget für die Benediktiner-Abtei St. Bonifaz (Stellwände für Veranstaltungen)
+- TOP 6.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.3.: 6.2.3 Gewährung eines Zuschusses für den Verein "Freunde des Münchner Stadtmuseums" für die Publikation über Erna Morena; Verlängerung des Bewilligungszeitraumes
+- TOP 6.3: Unterrichtungen und Berichte (6)
+- TOP 6.3.1.: 6.3.1 Samstagsöffnung der Stadtbücherei Waldtrudering; Beschluss des Kulturausschusses vom 21.07.2005
+- TOP 6.3.2.: 6.3.2 Kultur im Stadtquartier - Kulturelle Zentren und Stadtteilwochen; Beschluss des Kulturausschusses vom 21.07.2005
+- TOP 6.3.3.: 6.3.3 Installation "Drei Linien" (Sachstand); Schreiben des OB vom 11.08.2005
+- TOP 6.4: Aktuelle Sachstandsberichte (6)
+- TOP 6.4.1.: 6.4.1 U-Bahn-Galerie
+- TOP 6.4.2.: 6.4.2 NS-Dokumentationszentrum - Personal- und Sachmittel, Sachstand: Beschluss der Vollversammlung vom 22.07.2005
+- TOP 7: BA-Angelegenheiten und Termine
+- TOP 7.1.: 7.1 Sitzungstermine 2006 und Termin für die Bürgerversammlung 2006
+- TOP 7.2.: 7.2 Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten; Schreiben des Direktoriums vom 21.07.2005
+- TOP 7.3.: 7.3 Änderung der BA-Geschäftsordnung - Ausschluss wegen persönlicher Beteiligung; Vorlage für die BA-Satzungskommission
+- TOP 7.4.: 7.4 Neues Filial-Format der Deutschen Post AG; Mitteilung des RAW vom 03.08.2005
+- TOP 7.5.: 7.5 Mittagsschließung in der Postfiliale Theresienstraße 22; Schreiben der Deutschen Post AG vom 08.07.2005
+- TOP 7.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8.: 7.8 Bürgerfest Maxvorstadt (Sachstand/Bericht)
+- TOP 7.9.: 7.9 Lagerraum für den BA
+- TOP 8: Sonstiges
+- TOP 8.1.: 8.1 Ruhestörung durch Hundegebell in der Augustenstraße 97 (Bürgerschreiben)
