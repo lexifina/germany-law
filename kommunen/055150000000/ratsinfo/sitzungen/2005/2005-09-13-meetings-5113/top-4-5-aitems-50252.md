@@ -1,0 +1,8 @@
+# TOP 4.5: Jahresabschluss 2004 der Westfälisches Pferdemuseum Münster gGmbH (WPM)
+
+- Sitzung: 6. Sitzung (2005-09-13)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/50252
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/31931
