@@ -1,0 +1,152 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2005-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/566709
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/566709
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Euro-Skate-Halle Leopoldstraße, Informationsmaterial; Zuleitung der Arbeitsgruppe Buhlstraße vom 29.07.2005 - <div>in den UA Familie, Soziales, Ausbildung verwiesen</div>
+- TOP 2.2.: Verkehrssicherheit an der Fußgängerampel Silberhornstraße; Bürgerschreiben vom 13.09.2005 - <div>in den UA Verkehr verwiesen</div>
+- TOP 2.3.: Verlagerung des Standorts der Straßenreinigung in der Aignerstraße; Bürgerschreiben vom 27.06.2005 - <div>bereits erledigt/ z. K.</div>
+- TOP 2.4.: Lärmbelästigungen in der Alpenstraße; Bürgerschreiben vom 22.08.2005 - <div>an die PI 23 weitergegeben</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3.: Anträge/Anfragen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Budget
+- TOP 4.1.: Versand von Vereinssatzungen mit den BA-Vorlagen; Zuleitung des Direktoriums mit der Bitte um Rückäußerung - <div>Forderung nach Beibehaltung des Versands</div>
+- TOP 4.2.1.: AntragstellerIn: Förderverein für Musik, Gesang und Kultur an Königin des Friedens e. V.; für die Maßnahme Adventskonzert am 04.12.2005; Antragssumme: 1.800.- ¿; Beschlussvorlage des Direktoriums vom 03.08.2005 - <div>nach Antrag</div>
+- TOP 4.2.2.: AntragstellerIn: Verein für Sozialarbeit e. V.; für die Maßnahme: Wandbildprojekt; Antragssumme: 1.500.- ¿; Beschlussvorlage des Direktoriums vom 17.08.2005 hierzu: Bürgerschreiben vom 10.08.2005 und des Kommunalreferats vom 26.08.2005 - <div>Gewährung des 1/2 Betrags</div>
+- TOP 4.3.1.: AntragstellerIn: 103er Freizeittreff Obergiesing; für die Maßnahme: 2 Theateraufführungen; Antragssumme: 510.- ¿; Antrag vom 28.08.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.3.5.: Unterausschüsse
+- TOP 4.3.1.: UA 17 - Bau und Planung - 07.09.2005
+- TOP 0.1.: Vollzug des Bayerischen Straßen- und Wegegesetztes im Stadtbezirk 17 Obergiesing; Einrichtung eines ambulanten Maronenverkaufsplatzes am Tegernseer Platz 1; Beschlussvorlage des Baureferats - <div>gemäß Vorschlag Referentenvorl.</div>
+- TOP 0.1.: Gemeinde Unterhaching; Flächennutzungsplan - Änderung Nr. 17; Zuleitung des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme bis zum 15.09.2005 - <div>Zustimmung</div>
+- TOP 0.2.: Gemeinde Unterhaching; Bebauungsplan 137/2005, Öffentliche Grünfläche an der Ostseite der Bahnlinie Münche Ost- Deisenhofen; Zuleitung des Referats für Stadtplanung und Bauordnung vom 28.07.2005 mit der Bitte um Stellungnahme bis zum 15.09.2005 - <div>Zustimmung</div>
+- TOP 0.3.: Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Baugesetzbuch (BauGB) im Stadtbezirk 17 Obergiesing; a) Satzungsbeschluss Erhaltungssatzung "Tegernseer Landstraße", b) Satzungsbeschluss Erhaltungssatzung "Trauchberg-/Forggenseestraße", c) Ergebnis der Untersuchungen für die bisherigen Erhaltungssatzungsgebiete "Am Giesinger Berg", "Trauchberg-/Forggenseestraße" und "Scharfreiterplatz"; Zuleitung eines Beschlussentwurfs durch das Referat für Stadplanung und Bauordnung mit der Bitte um Stellungnahme - <div>Einladung des Planungsreferats</div>
+- TOP 0.4.: Vollzug von § 13 der BA-Satzung; Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen) Zuleitung des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme (bereits durch den BA-Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung entschieden) 1. Soyerhofstraße; 1 hinterleuchtete Werbeanlage vom Typ Megalight auf Monofuß 1-seitig - Ablehnung 2. Chiemgaustraße, 3x 1 Plakatanschlagtafel - Ablehnung - <div>zur Kenntnis genommen</div>
+- TOP 0.5.: Vollzug von § 13 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung; St.-Martin-Straße; Neubau einer Wohnanlage (44 WE) mit Tiefgarage (49 Stpl.); Zuleitung des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme; (bereits durch den BA-Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung entschieden - Zustimmung) - <div>zur Kenntnis genommen</div>
+- TOP 0.1.: Unveränderte Fortführung von Gaststätten, Unterrichtung durch das Kreisverwaltungsreferat 1. SSW "Chez-Philippe"; Zehentbauernstraße; Mitteilung vom 26.07.2005 2. SSW "Cafe Bistro Lakis"; Weinbauernstraße; Mitteilung vom 22.07.2005 3. SSW "ehem. Club Ada"; Schlierseestraße; Mittteilung vom 21.07.2005 4. SSW "Living"; Walschenseeplatz; Mitteilung vom 05.07.2005 5. SSW "Bistro Ikeler"; Tegernseer Landstraße; Mitteilung vom 05.07.2005 6. Vereinswirtschaft "Vereinsgaststätte SC 1906 München e. V."; St.-Martin-Straße; Mitteilung vom 04.07.2005 7. SSW "Orkide"; Stadelheimer Straße; Mitteilung vom 04.08.2005 8. SSW "China Town"; Schwanseestraße; Mitteilung vom 09.08.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.2.: Baufälle im 17. Stadtbezirk - <div>zur Kenntnis genommen</div>
+- TOP 0.3.: Straßenausbaubeitragssatzung; Informationsmaterial des Baureferats; Zuleitung vom 25.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.4.: Giesinger Bahnhof; Realisierung Bebauungsplan Nr. 1586; Protokoll zur Besprechung am 08.06.2005 im Baureferat; Zuleitung des Baureferats vom 14.06.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.5.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung; Verleihung der Ehrenpreise 2005; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005 (FF) - <div>zur Kenntnis genommen</div>
+- TOP 0.6.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung un der Vollversammlung des Stadtrates im Zeitraum vom 01.01. bis 30.06.2005; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.7.: Perspektive München, Bericht zur Stadtentwicklung 2003; a) Anhörung der Bezirksausschüsse, b) Befassung der Fachausschüsse des Stadtrats, c) Entscheidungsvorschlag des Planungsreferats; Beschluss des Ausschusses für Stadtplanung und Bauordnung - <div>zur Kenntnis genommen</div>
+- TOP 0.8.: Satzung der Landeshauptstadt München über Einfriedungen und Vorgärten (Vorgartensatzung); Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.9.: Perspektive München - PM Analysen; Wissenschafts- und Hochschulstandort München, Rahmenbedingungen und Perspektiven; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.10.: Perspektive Mücnhen - PM-Bilanz, Leitprojekt: Stadtteilentwicklung Hadern; Münchner Habitat-Tag in Hadern; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.11.: "Stadt und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt" Chancen und Perspektiven für Berg am Laim, Ramersdorf und Giesing, Stadtsanierung in München am Mittleren Ring Südost; A) Ergebnisse der vorbereitenden Untersuchungen gem. § 141 Baugesetzbuch (BauGB) im Bereich mittlerer Ring Südost; B) Beteiligung der Betroffenen und der öffentlichen Aufgabenträger gem. §§ 137, 139 BauGB - "Öffentlichkeitsphase"; C) Förmliche Festlegung der Gebiete "Innsbrucker Ring - westlich" und "Tegernseer Landstraße/Chiemgaustraße" gem. §142 BauGB als Sanierungsgebiete; Aufstellungsbeschluss für das Agfa-Gelände, D) Sanierungsziele für die Sanierungsgebiete "Innsbrucker Ring - westlich" und "Tegernsee Landstraße/Chiemgaustraße", E) Organisatorische Erfordernisse zur Quartiersentwicklung, F) Beauftragung der Münchner Gesellschaft für Stadterneuerung mbH (MGS) mit der Durchführung von Maßnahmen in den künftigen Sanierungsgebieten, G) Anträge und Empfehlung; Beschluss der Vollversammlung des Stadtrates vom 06.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.12.: Umwidmung des Sperrgrundstücks AGFA-Gelände; Antrag des BA 17 vom 19.07.2005; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 01.08.2005 - <div>zur Kenntnis genommen </div>
+- TOP 0.13.: Chancen und Perspektiven für Berg am Laim, Ramersdorf und Giesing, Vorberetiung der Veranstaltungen in den Quartieren zum Beginn des Projekts "Soziale Stadt" im Herbst 2005; Protokoll eines Gesprächs mit Vertreterinnen/Vertretern der Bezirksausschüsse 14 Berg am Laim, 16 Ramersdorf-Perlach, 17 Obergiesing und 18 Untergiesing-Harlaching - <div>zur Kenntnis genommen</div>
+- TOP 0.14.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 1. Anwesen in der Schwandorfer Straße; Mitteilung des Sozialreferats vom 19.08.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.1.: UA 17 - Familie, Soziales, Ausbildung - 08.09.2005
+- TOP 0.1.: Namensgebung der Städtischen Fachoberschule für Sozialwesen und Gestaltung in "Städtische Rainer-Werner-Fassbinder-Fachoberschule für Sozialwesen und Gestaltung"; Beschlussentwurf für die Sitzung des Schulausschusses am 12.10.2005; Zuleitung des Schul- und Kultusreferats mit der Bitte um Stellungnahme - <div>Zustimmung zur Vorlage</div>
+- TOP 0.1.: Keine Raummiete für außerschulische Kooperationspartner; Antrag der FDP im Münchner Stadtrat; Beschluss des Schulausschusses des Stadtrats vom 13.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.2.: Konzept zur pflegerischen Versorgung älter Menschen in München; Ambulante Wohnformen für alte Menschen mit psychischen Erkrankungen und/oder Demenz; Betreutes Wohnen zu Hause; Anträge von Frau Stadträtin Schosser; "Betreutes Wohnen zu Hause" auch im 15. Stadtbezirk Trudering-Riem, Antrag von Herrn Stadtrat Podiuk; Perspektiven für Betreutes Wohnen, Antrag des BA 15 Truderin-Riem; Alternative Versorgungseinrichtungen im 20. Stadtbezirk Hadern, Antrag des BA 20 Hadern; Errichtung eines Alten- und Pflegeheims in Au-Haidhausen; Empfehlung der Bürgerversammlung am 03.03.2005; Betreutes Wohnen zu Hause auch in Trudering-Riem, Antrag des BA 15 Trudering-Riem; Beschluss des Sozialausschusses vom 07.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.3.: Bericht über Regsam, Antrag der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 25.04.05; Bleibt Regsam ein Erfolgsmodell?, Antrag von Frau Stadträtin Gebhardt und Frau Stadträtin Meier; Beschluss des Sozialausschusses vom 07.07.2005 hierzu: Schreiben des Sozialreferats vom 02.08.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.4.: Erweiterung des städtischen Tagesheimes an der Lincolnstraße; Mitteilung des Schul- und Kultusreferats vom 21.06.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.1.: UA 17 - Verkehr - 09.09.2005
+- TOP 0.2.: Verkehrs-, und Bestandssituation der Waldsassener- und Kiesmüllerstraße; (Bürgerantrag vom 10.05.2005) - Verweisung aus der Sitzung vom 12.07.2005 - <div>siehe Protokoll</div>
+- TOP 0.3.: Parkplatzsituation im Viertel St.-Bonifatius-Str. / Tegernseer Landstraße / Helig-Kreuz-Kirche; Bürgerschreiben vom 05.07.2005 - Verweisung / TOP 2.1.2.3 aus der Sitzung vom 12.07.2005 - <div>Antwortschreiben an Bürger</div>
+- TOP 0.1.: S-Bahnhof-Fasangarten, Sonnenundurchlässige Gestaltung der Wartehalle, Fahrtrichtung stadteinwärts; Empfehlung der Bürgerversammlung des 17. Stadtbezirks Obergiesing am 28.06.2005; Beschlussvorlage des Referats für Arbeit und Wirtschaft vom 29.08.2005 - <div>gemäß Vorschlag Referentenvorl. </div>
+- TOP 0.1.: Gefährliche Situation für Radfahrer an der Tegernseer Landstraße vor Haus Nr. 22; Widerspruch nach § 69 der VwGO; Zuleitung des Kreisverwaltungsreferat mit der Bitte um Stellungnahme - <div>Stellungnahme an KVR</div>
+- TOP 0.1.: Anzeigetafeln in der U-Bahn; Änderungsvorschläge; Antrag des BA 17 vom 10.05.2005; Antwortschreiben des Referats für Arbeit und Wirtschaft vom 11.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.2.: Fortschreibung Konzept für das Busparken in München; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.3.: Behindertengerechte Absenkung der Bürgersteige an der Ecke Traunsteiner Straße/Chiemgaustraße rund um den St.-Quirin-Platz; Antrag des BA 17 vom 21.04.2005; Antwortschreiben des Baureferats vom 29.06.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.4.: Instandsetzung der 4 Verbindungsbrücken zwischen Chiemgau- und Stadelheimer Straße im Zuge der Tegernseer Landstraße (McGraw-Graben) im 17. Stadtbezirk Obergiesing; Beschluss des Bauausschusses vom 28.06.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.5.: Kreuzung Tegernseer Landstraße/Wirtstraße Trennung von Rad- und Passantenverkehr; Antrag des BA 17 vom 18.01.2005; Antwortschreiben des Kreisverwaltungsreferats vom 11.08.2005 - <div>zur Kenntnis genommen </div>
+- TOP 0.6.: Linienweg Buslinie 220; Weiterführung der Linie bis zum Endhaltepunkt Giesing-Bahnhof; Antrag des BA 17 vom 12.07.2005; Antwortschreiben der Münchner Verkehrsgesellschaft vom 16.08.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.7.: Einrichtung eines Kreisverkehrs an der Kreuzung Fasangartenstraße / Minnewitstraße / Albert-Schweitzer-Straße; bei Ablehnung Übermittlung der zugrunde liegenden Kosten-Nutzen-Analyse; Antrag des BA 17 vom 12.07.2005; Antwortschreiben des Baureferats vom 25.08.2005 - <div>zur Kenntnis genommen </div>
+- TOP 0.8.: Radwegverbindungen im 17. Stadtbezirk; Öffnung der Wirtstraße über die Tegernseer Landstraße hinweg mit Radfurten; Bürgerversammlung beschließt Antrag an den Stadtrat zur Öffnung von Fahrradhauptrouten in Giesing; Bürgerschreiben vom 09.08.2005 und des Direktoriums vom 19.08.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.1.: UA 17 - Umwelt - 06.09.2005
+- TOP 0.1.: Mobilfunk; Suchkreismeldung M-Perlacher-Forst-Nord; Zuleitung des Referats für Gesundheit und Umwelt 02.08.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.2.: Mobilfunk; Suchkreismeldung Gietlstraße, Fasangarten; Zuleitung des Referats für Gesundheit und Umwelt vom 25.08.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.1.: Einrichtung einer neuen Wertstoffinsel mit der Aufstellung von Recyclingcontainern für Glas, Metall und Kunststoff in der Werinherstraße; Antrag des BA 17 vom 14.06.2005; Antwortschreiben des Abfallwirtschaftsbetriebs München vom 06.07.2005 - <div>in den UA Umwelt verwiesen</div>
+- TOP 0.2.: Hundekot in Grünanlagen; Aufstellung von mehr Mülleimern zur Entsorgung; Antrag der Bürgerversammlung des 14. Stadtbezirks Berg am Laim am 08.03.2005; Beschluss des Bauausschusses vom 28.06.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.3.: Dezimierung der Wasservögel an den Seen im Münchner Norden; Empfehlung der Bürgerversammlung des 10. Stadtbezirks Moosach am 14.10.2004; Beschluss des Bauausschusses vom 19.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.4.: Vollzug der Baumschutzverordnung; Unterrichtung durch das Referat für Stadtplanung und Bauordnung; 1. Anwesen in der Simseestraße; Bescheid vom 27.06.2005 2. Anwesen in der Perlacher Straße; Bescheid vom 28.07.2005 3. Anwesen in der Weißenseestraße; Bescheid vom 28.07.2005 4. Anwesen in der Perlacher Straße; Bescheid vom 28.07.2005 5. Anwesen in der Forggenseestraße; Bescheid vom 28.07.2005 6. Anwesen in der Perlacher Straße; Bescheid vom 28.07.2005 7. Anwesen in der Werinherstraße; Bescheinigung vom 17.08.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.5.: Unterrichtung des Baureferats über Baumfällungen auf öffentlichem Verkehrsgrund; Zuleitung des Baureferats vom 05.08.2005 - <div>Bericht in der nächsten Sitzung</div>
+- TOP 0.6.: Erhalt der Bäume in der Mitte des Busbahnhofs am Giesinger Bahnhof im/für den 17. Stadtbezirk; Antrag des BA 17 vom 14.06.2005; Antwortschreiben des Baureferats vom 10.08.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.7.: Informationsmaterial bzgl. Mobilfunk; Zuleitung des Referats für Gesundheit und Umwelt vom 24.08.2005 - <div>Bericht in der nächsten Sitzung</div>
+- TOP 0.1.: Flohmarkt auf dem Walchseeplatz; Zuleitung des Baureferats vom 18.08.2005 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 0.2.: Veranstaltung in der Herzogstandstraße, Kinderfest; Zuleitung des Baureferats mit der Bitte um Stellungnahme; (bereits durch den BA-Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung zugestimmt) - <div>zur Kenntnis genommen</div>
+- TOP 0.1.: Samstagsöffnung für Stadtbücherei Waldtrudering; Antrag des BA 15 Trudering-Riem vom 27.01.2005; Beschluss des Kulturausschusses vom 21.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.2.: Kultur im Stadtquartier, Antrag von Frau Stadträtin Renner und Herrn Stadtrat Liebich; Kultur Kataster zur räumlichen Verteilung der städtischen kultrueinrichtugnen; Evaluierung kulturellen Zentren; Kulturelle Zentren und Stadtteilwochen, Anträge der Stadtratsfraktion der SPD; Beschluss des Kulturausschusses vom 21.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.3.: Umwandlung eines Erwachsenenbusses der Fahrbibliotheken in einen Juniorbus; Beschluss des Kulturausschusses vom 21.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.4.: Samstagsöffnung für die Stadtbücherei Waldtrudering; Antrag des BA 15 Truderin-Riem vom 27.01.2005; Beschluss des Kulturausschusses vom 21.07.2005 - <div>zur Kenntnis genommen</div>
+- TOP 0.5.: Sachstand Mittelpunktsbibliotheken; Beschluss des Kulturausschusses am 29.09.2005; Zuleitung des Kulturreferats mit der Bitte um Kenntnisnahme - <div>in den UA Kultur bzw. in die Fraktionen vertagt</div>
+- TOP 0.6.: Betrieb des Little Oktoberfests; Schreiben des Jugendzentrums am Perlacher Forst "Red Dragon" vom 19.07.2005 - <div>Schreiben an KVR</div>
+- TOP 6.: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.1.: Änderung der BA-Geschäftsordnung, § 13 Abs. 1 Satz 1 BA-GeschO - Ausschluss wegen persönlicher Beteiligung; Zuleitung des Dirketoriums mit der Bitte um Stellungnahme - <div>Zustimmung gem. Direktorium</div>
+- TOP 6.2.: Fahrkostenübernahme für behinderte BA-Mitglieder; Antrag des BA 9 Neuhausen-Nymphenburg; Zuleitung des Direktoriums mit der Bitte um Stellungnahme - <div>gem. Stellungnahme des Direktoriums</div>
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.: Öffnungszeiten der Sommerbäder; Schreiben der Stadtwerke München, Geschäftsbereich Bäder vom 24.06.2005 - <div>Zur Kenntnis genommen</div>
+- TOP 6.2.: Satzung zur Änderung der Satzung über die Bestattungseinrichtungen der Landeshauptstadt München (Friedhofsatzung); Beschluss des Gesundheitsausschusses vom 21.07.2005 - <div>Zur Kenntnis genommen</div>
+- TOP 6.3.: Anhörung der Bezirksausschüsse in stadtratpflichtigen Angelegenheiten; TOP 1 der Satzungskommission am 19.07.2005; Zuleitung der 2. Bürgermeisterin Dr. Burkert vom 21.07.2005 und des Direktoriums vom 04.08.2005 - <div>Zur Kenntnis genommen</div>
+- TOP 6.4.: Neues Filial-Format der Deutschen Post AG; Zuleitung des Referats für Arbeit und Wirtschaft vom 03.08.2005 - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Postfiliale an der Fasangartenstraße 99; Zuleitung des Referats für Arbeit und Wirtschaft vom 26.08.2005 - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte der Beauftragten
+- TOP 7.7.1: Ausländer/Innen
+- TOP 7.7.2: Baumschutz
+- TOP 7.7.2.1: Einzelfälle
+- TOP 7.1.: Anwesen in der Waldmünchener Straße; Zuleitung vom 10.08.2005 (bereits gem. § 20 Abs. 1 Satz 2 BA-Satzung durch den BA-Vorsitzenden entschieden - Zustimmung) - <div>zur Kenntnis genommen</div>
+- TOP 7.2.: Anwesen in der Werinherstraße; Zuleitung vom 16.08.2005 (bereits gem. § 20 Abs. 1 Satz 2 BA-Satzung durch den BA-Vorsitzenden entschieden - Zustimmung) - <div>zur Kenntnis genommen</div>
+- TOP 7.3.: Anwesen in der Bantingstraße, Zuleitung vom 25.07.2005 (bereits gem. § 20 Abs. 1 Satz 2 BA-Satzung durch den BA-Vorsitzenden entschieden - Zustimmung) - <div>zur Kenntnis genommen</div>
+- TOP 7.4.: Anwesen in der Landlstraße; Zuleitung vom 04.07.2005 (bereits gem. § 20 Abs. 1 Satz 2 BA-Satzung durch den BA-Vorsitzenden entschieden - Zustimmung) - <div>zur Kenntnis genommen</div>
+- TOP 7.5.: Anwesen in der Scharfreiterstraße; Zuleitung vom 08.07.2005 (bereits gem. § 20 Abs. 1 Satz 2 BA-Satzung durch den BA-Vorsitzenden entschieden - Zustimmung) - <div>zur Kenntnis genommen</div>
+- TOP 7.6.: Anwesen in der Arzberger Straße; Zuleitung vom 05.07.2005 (bereits gem. § 20 Abs. 1 Satz 2 BA-Satzung durch den BA-Vorsitzenden entschieden - Zustimmung) - <div>zur Kenntnis genommen </div>
+- TOP 7.7.2.2: Baumbestandspläne
+- TOP 7.1.: Anwesen in der St.-Martin-Straße; Zuleitung vom 04.08.2005 (bereits gem. § 20 Abs. 1 Satz 2 BA-Satzung durch den BA-Vorsitzenden entschieden - Zustimmung) - <div>zur Kenntnis genommen </div>
+- TOP 7.2.: Anwesen in der Schwanseestraße; Zuleitung vom 12.08.2005 (bereits gem. § 20 Abs. 1 Satz 2 BA-Satzung durch den BA-Vorsitzenden entschieden - teilw. Zustimmung) - <div>zur Kenntnis genommen </div>
+- TOP 7.3.: Anwesen in der Werinherstraße; Zuleitung vom 07.07.2005 (bereits gem. § 20 Abs. 1 Satz 2 BA-Satzung durch den BA-Vorsitzenden entschieden - teilw. Ablehnung) - <div>zur Kenntnis genommen </div>
+- TOP 7.4.: Anwesen in der Münchberger Straße 12; Zuleitung vom 04.08.2005 - <div>Entscheidung gem. § 20 Abs. 1 Satz 2 BA-Satzung</div>
+- TOP 7.7.3: Behinderte
+- TOP 7.7.4: Frauen
+- TOP 7.7.5: Kinder
+- TOP 7.7.6: Senioren/Innen
+- TOP 7.7.7: Stadtteilpartnerschaft Colerain Township, Ohio, USA
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.5.5.6: Sonstiges
+- TOP 4.2: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
+- TOP 4.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
