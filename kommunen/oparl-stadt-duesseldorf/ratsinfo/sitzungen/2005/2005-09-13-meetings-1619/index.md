@@ -1,0 +1,58 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-09-13T15:10:00+02:00
+- Ende: 2005-09-13T17:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1619
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1619
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111545.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111545.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111545.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschriften - einstimmig beschlossen
+- TOP 3: Anfragen und Anträge
+- TOP 4: Anfrage CDU 'Sportangebote nach 22 Uhr* - zur Kenntnis genommen
+- TOP 5: Anfrage SPD ' Flexibilisierung Angebote Kita' - zur Kenntnis genommen
+- TOP 6: Umsetzung TAG - Beteuung Kinder u.3J. - zur Kenntnis genommen
+- TOP 7: Anfrage CDU 'Kindergipfel 2006' - zur Kenntnis genommen
+- TOP 8: Kindergipfel 2006 in Düsseldorf - mündlich - zur Kenntnis genommen
+- TOP 9: Anfrage CDU 'Hhansatz SiT-Mittel' - zur Kenntnis genommen
+- TOP 10: Antrag SPD 'Förderung Einzelintegration beh.KInder
+- TOP 11: Rechtsgutachten Beschluss Taschengeld - zur Kenntnis genommen
+- TOP 12: Einbringung des Haushalts 2006 - zur Kenntnis genommen
+- TOP 13: Geschäftsbericht 2004 des Jugendamtes - einstimmig beschlossen
+- TOP 14: Tageseinrichtungen für Kinder
+- TOP 15: Grundsatz- u.Planungsbeschluss Kita Viehfahrtsweg2 - einstimmig beschlossen
+- TOP 16: Infos zur Vorlage 51/84/2005 vom 14.06.2005 - zur Kenntnis genommen
+- TOP 17: Übernahme Eigenleistung Betriebsk.Kita WeselerStr. - einstimmig beschlossen
+- TOP 18: Zuschüsse finanzschwache Träger § 25 GTK - einstimmig beschlossen
+- TOP 19: Bau, Einricht-+Instands. Kitas-Zuschüsse fr. Träg. - einstimmig beschlossen
+- TOP 20: Sprachfördermaßnahmen Kigajahr 05/06 - zur Kenntnis genommen
+- TOP 21: Versorgungss. Stadtbez.7/Schließung Kita Dreherstr - zur Kenntnis genommen
+- TOP 22: Anerkennung § 75 SGB VIII - EDUCON gGmbH - einstimmig beschlossen
+- TOP 23: Jugendförderung
+- TOP 24: Prävention Jugendförderung - zur Kenntnis genommen
+- TOP 25: Investitionskostenzusch.of. Ki+JFE freier Träger - einstimmig beschlossen
+- TOP 26: Wechsel in der Trägerschaft oT Wittenberger Weg108 - zur Kenntnis genommen
+- TOP 27: Umwidmung AWO Einzelvertrag - zur Kenntnis genommen
+- TOP 28: Bewilligung Zuschuss DJH, LV Rheinland e.V. - einstimmig beschlossen
+- TOP 29: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 30: Projekt Jugend, Kultur und Schule - zur Kenntnis genommen
+- TOP 31: Soziale Dienste
+- TOP 32: Projektpräsentation 'Betweenies' - zur Kenntnis genommen
+- TOP 33: Präventionsmaßnahmen i.R.d. Jugendhilfe - einstimmig beschlossen
+- TOP 34: Schuldenprävention für Kinder und Jugendliche - zur Kenntnis genommen
+- TOP 35: Controllingberichte
+- TOP 36: Controllingbericht Kita - zur Kenntnis genommen
+- TOP 37: Controllingbericht HzE - einstimmig beschlossen
+- TOP 38: Kick - zur Kenntnis genommen
+- TOP 39: Prüfung der Jahresrechnung 2003 - einstimmig beschlossen
+- TOP 40: Geschäftsordnung ZAG - Neuf. 51/87/2005 - einstimmig beschlossen
+- TOP 41: Verschiedenes - zur Kenntnis genommen
