@@ -1,0 +1,61 @@
+# 7. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-09-14T17:00:00+02:00
+- Ende: 2005-09-14T22:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5067
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5067
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00221341.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder (bei Bedarf)
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der TOP's bei denen die Anwesenheit von Verwaltungsmitarbeitern erforderlich ist
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 3.1: Offenhalten der Verkaufsstellen am 27.11.2005 -Rücknahme des Antrages (V/0256/2005)
+- TOP 3.2: Einzelhandelskonzept Münster/Bebauungsplan Nr. 434 - Schreiben der IHK Nord Westfalen vom 25.08.2005
+- TOP 4: Bekanntgabe von Eingaben und Anträgen
+- TOP 4.1: Lambertikirchplatz- Durchgänge für Menschen mit Behinderung freihalten
+- TOP 4.2: Prüfauftrag der CDU-Fraktion in der BV Münster-HIltrup zur ERhaltung der Prinzbrücke
+- TOP 4.3: sonstige Eingaben und Anträge
+- TOP 5: Stadtentwicklung, Stadterneuerung, Wohnen
+- TOP 5.1: Handlungsprogramm Wohnen - Fortschreibung 2005 (Vortrag von der Verwaltung vorgesehen) - einstimmig beschlossen
+- TOP 5.2: Förderung von Stadterneuerungsprojekten - Festlegung der Prioritäten - ohne Beschlussfassung geschoben
+- TOP 6: Stadtplanung
+- TOP 6.1: Satzung zur Änderung der Satzung zur Erhebung von Kostenerstattungsbeträgen nach § 8 a (BNatSchG) - einstimmig beschlossen
+- TOP 6.2: "Wohnsiedlung Osthuesheide" Sanierungssatzung gemäß § 142 Baugesetzbuch (BauGB) - einstimmig beschlossen
+- TOP 6.3: Eintragung in die Denkmalliste und Erhaltung des Gasometers am Albersloher Weg - ohne Beschlussfassung geschoben
+- TOP 6.4: 12. Änderung des Flächennutzungsplanes für den Bereich Aasee - Terrassen - mehrheitlich beschlossen
+- TOP 6.5: Vorhabenbezogener Bebauungsplan Nr. 493: Aasee - Terrasse (Satzungsbeschluss) - mehrheitlich beschlossen
+- TOP 6.6: Bebauungsplan Nr. 463 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.7: Bebauungsplan Nr. 448: Handorf - Stapelskotten / Laerer Werseufer - mehrheitlich beschlossen
+- TOP 6.8: 13. Änderung des fortgeschriebenen Flächennutzungsplanes - einstimmig beschlossen
+- TOP 6.9: Bebauungsplan Nr. 495: Angelmodde - Werse / Uferstraße - einstimmig beschlossen
+- TOP 6.10: Bebauungsplan Nr. 495: Angelmodde - Werse / Uferstraße - zur Kenntnis genommen
+- TOP 6.11: Vorhabenbezogener Bebauungsplan Nr. 500 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 6.12: Vorhabenbezogener Bebauungsplan Nr. 501- Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.13: 1. Verlängerung der Veränderungssperre Nr. 94 für den Bereich Metzer Straße - mehrheitlich beschlossen
+- TOP 7: Verkehr
+- TOP 7.1: 2. Nahverkehrsplan Stadt Münster - einstimmig geändert beschlossen
+- TOP 7.1.1: 2. Nahverkehrsplan Stadt Münster - Bericht über abweichende Beschlüsse - einstimmig beschlossen
+- TOP 7.2: Fahrbahnteiler Hiltruper Straße im Bereich des Bahnüberganges der Westfälischen Landes-Eisenbahn - einstimmig beschlossen
+- TOP 7.3: Zustimmung zum Bau einer mobilen Parkpalette am Parkplatz Georgskommende - mehrheitlich beschlossen
+- TOP 7.4: Ausstattung von Haltestellen mit Wartehallen - Programm 2005 - zur Kenntnis genommen
+- TOP 7.5: Verlegung der Haltestelle "Loddenweg" in Fahrtrichtung Hiltrup an die Straße Osttor - mehrheitlich beschlossen
+- TOP 7.6: Schulwegsicherung an der Straße Oberort - vertagt
+- TOP 7.7: Verbesserung der Radwegführung in den Knotenpunkten Friesenring/Wienburgstraße u. Cheruskerring/Lan - einstimmig geändert beschlossen
+- TOP 8: Sonstiges
+- TOP 8.1: European Energy Award - Energiepolitisches Arbeitsprogramm - einstimmig beschlossen
+- TOP 8.2: Leitlinie zur Genehmigungspraxis bei der Freigabe von Verkaufssonntagen nach dem Ladenschlussgesetz - mehrheitlich beschlossen
+- TOP 8.3: Satzung über die Wochenmärkte in der Stadt Münster - einstimmig beschlossen
+- TOP 8.4: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen aus Anlass der Veranstaltung - einstimmig beschlossen
+- TOP 8.5: Pflegeplanung: Verfahren, Umsetzung, Empfehlungen - einstimmig beschlossen
+- TOP 9: Beratung von Anträgen und Anfragen
+- TOP 9.1: Lambertikirche-Durchgänge für Menschen mit Behinderung freihalten (Stellungnahme der Verwaltung)
+- TOP 9.2: Attraktiver Lebensraum im Zentrum von Hiltrup Antrag der SPD vom 17.03.2004
+- TOP 10: Verschiedenes
