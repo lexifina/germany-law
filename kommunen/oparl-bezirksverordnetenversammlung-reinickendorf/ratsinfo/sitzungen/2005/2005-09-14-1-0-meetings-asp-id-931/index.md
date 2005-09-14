@@ -1,0 +1,88 @@
+# 42. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2005-09-14T17:20:00+02:00
+- Ende: 2005-09-14T22:50:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=931
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=931
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=29454
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Konsensliste - im Ausschuss abgelehnt
+- TOP 3: Dringlichkeitsanträge - (offen)
+- TOP 3.1: Entwurf des Bezirkshaushaltsplanes Reinickendorf für die Haushaltsjahre 2006 und 2007 (Doppelhaushalt) - mit Änderungen in der BVV beschlossen
+- TOP 3.2: Gründung eines gemeinsamen Eigenbetriebes "Kindertagesstätten Nordwest" der Bezirke Reinickendorf, Charlottenburg-Wilmersdorf und Spandau von Berlin - vertagt
+- TOP 3.3: Betriebssatzung des zukünftigen Eigenbetriebes - vertagt
+- TOP 3.4: Mittel aus dem IZBB-Programm - vertagt
+- TOP 3.5: Schulbaumaßnahmen (IZBB) in Reinickendorf - vertagt
+- TOP 3.6: Präventive Jugendarbeit - wird man in Berlin den Jugendlichen und dem Sicherheitsempfinden der Bevölkerung ausreichend gerecht? - vertagt
+- TOP 3.7: Äußerungen des Bezirksstadtrates - vertagt
+- TOP 3.8: Reinickendorfer Umwelttag - vertagt
+- TOP 3.9: Erweiterung des Realschulstandortes Heiligensee - vertagt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Verbesserung der Computer-Ausstattung in Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Poloplatz jetzt öffnen ! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.3: Aufnahme des Rundweges und der Zuwegungen zum Rundweg des Poloplatzes in das öffentliche Wege- und Straßenregister - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.4: Poloplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.5: Öffnung der Kastanienallee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.6: Informationsveranstaltungen zum Übergang an Oberschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Freilandlabor am Flughafensee unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: "Sicherer Fußgängerüberweg zur Post am Zeltinger Platz in Frohnau"; hier: Tempo "30" am Zeltinger Platz - überwiesen
+- TOP 5.9: Quartiere und Trainingsmöglichkeiten für die Leichtathletik-WM 2009 in Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.10: Gültigkeit des Schultickets - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Umweltfreundliche Materialien auch an Reinickendorfer Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Erzieherinnen/Erzieher an Horten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Dezentralisierung der Heimaufsicht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Wiederherstellung des Trimm-dich-Pfades am Saatwinkler Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Urteil des Kammergerichts 26 U 160/04 vom 4. April 2005 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.16: Sexualstraftäter-Ambulanz - Keine Fakten schaffen bevor Akteneinsicht abgeschlossen ist - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.17: Finanzieller Ausgleich für die steigenden Vervielfältigungskosten der Schulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.18: Blindenwanderweg am Forstamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.19: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-18-1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.20: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-55-1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.21: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-B 30 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.22: Erlass der Verordnung über die Festsetzung des Bebauungsplanes 12-7 B - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.23: Bebauungsplan XX-232 vom 25. November 1997 für das Gründstück Quickborner Straße 121 (Kleingartenkolonie Neu-Lübars) im Bezirk Reinickendorf, Ortsteil Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.24: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-302 a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.25: Austellung des Bebauungsplanes 12-14 für die Grundstücke Kurt-Schumacher-Damm 12 - 16, Nordlichstraße 2 - 4, Abschnitte der Straße 462 und der Nordlichstraße sowie eine Teilfläche des Kurt-Schumacher-Damms im Bezirk Reinickendorf - überwiesen
+- TOP 5.26: Änderung des Geltungsbereiches für den Bebauungsplanentwurf XX-182 c - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.27: Änderung des Geltungsbereiches für den Bebauungsplanentwurf XX-182 b - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Zukünftige konzeptionelle Gestaltung der Reinickendorfer Bibliotheken - vertagt
+- TOP 6.2: Schulbaumaßnahmen in Reinickendorf - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Entwurf des Bebauungsplanes XX-196 vom 22. Februar 1999 für das Grundstück Beatestraße 29 / Theresenweg 9 B und C sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-196 - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Bebauungsplan XX-211 (Elchdamm 174 sowie Teilflächen Elchdamm 173/178) sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-211 - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Neuwahl der Mitglieder und stellvertretenden Mitglieder des Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.4: Entwurf des Bebauungsplanes XX-226 b vom 22. Oktober 1998 für das Gelände zwischen den Grundstücken Gollanczstraße 59/133, Fuchsring 33/53 und Gollanczstr. 135 sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX- 226 b - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Maßnahmen am Flächenhaften Naturdenkmal "Am Dachsbau" - erledigt
+- TOP 8.2: Keine Baumpflegemaßnahmen in der Vegetationszeit - erledigt
+- TOP 8.3: Beteiligung der BVV bei bezirklichen Baumaßnahmen innerhalb der Vegetationszeit - vertagt
+- TOP 8.4: Vorbereitende Maßnahmen für das Tegeler Fließ - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Projekt "handlungsorientiertes Lernen - LeoNa" - erledigt
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Senken des Wahlalters - vertagt
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Brandschutzaufklärung in Reinickendorfer Grundschulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: "Brot-Füttern" an Reinickendorfer Gewässern - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Fahrradständer vor dem Heimatmuseum - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Spätöffnungsangebot in Kindertagesstätten sicherstellen - überwiesen
+- TOP 10.5: Ordnungsgemäße Meldung beim Verdacht auf gesundheitsschädigende Umwelteinflüsse gewährleisten - überwiesen
+- TOP 10.6: Workshops der Musikschule - überwiesen
+- TOP 10.7: Fahrpläne für Personenfähren auf dem Tegeler See - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Auflistung der Liegenschaften des Bezirks - überwiesen
+- TOP 10.9: Unleserliche Straßenschilder - überwiesen
+- TOP 10.10: Mahnkreuz für Marinetta Jirkowsky - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Einrichtung einer Haltelinie - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Zusätzliche Haltestelle im Bereich Bernauer Straße / Neheimer Straße - überwiesen
+- TOP 12: Insel im Tegeler Hafen - in der BVV zurückgezogen
+- TOP 13: Missbilligung der Politik des Senats im Zusammenhang mit dem Standort der Ambulanz für Sexualstraftäter in Tegel - mit Änderungen in der BVV beschlossen
