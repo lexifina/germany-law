@@ -1,0 +1,189 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2005-09-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/570066
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/570066
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1.1.: Widmung der Gesamtstrecken des Willy-Brandt-Platzes und des Platzes der Menschenrechte
+- TOP 1.2.: Entwässerungssatzung der Landeshauptstadt München - Dichtheitsnachweise, Empfehlung Nr. 19 der Bürgerversammlung des Stadtbezirks 15 am 10.11.04
+- TOP 1.3.: Ablehnung eines Antrages auf Gewährung eines Zuschusses aus dem Budget des BA 15 durch die evangelische Jugend (Friedenskirche) i.H.v. 1.734,00 Euro
+- TOP 1.4.: Ergänzungsantrag auf Gewährung eines Zuschusses aus dem Budget des BA 15 durch die evangelische Jugend (Friedenskirche) i.H.v. 1.734,00 Euro
+- TOP 1.5.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 15 durch die Initiative "Wir in Riem" i.H.v. 732,65 Euro
+- TOP 1.6.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 15 durch das Bürgerzentrum Trudering i.H.v. 5.072,52 Euro
+- TOP 1.7.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 15 durch das Bürgerzentrum Trudering i.H.v. 2.160,99 Euro
+- TOP 1.8.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 15 durch das Bürgerzentrum Trudering i.H.v. 5.291,80 Euro
+- TOP 1.9.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 15 durch die Montessori-Kindergruppe e.V. "Sonnenquell" i.H.v. 2.500,00 Euro
+- TOP 2.1.: Zonenhalteverbot Messestadt Riem
+- TOP 2.2.: Nutzung des Willy-Brandt-Platzes / Eisbahn
+- TOP 2.3.: Erwartung der Bürger auf eine fabrikneue Restmülltonne?
+- TOP 2.4.: Kindertagesstätte Erdinger Straße 9
+- TOP 2.5.: Straßenbelag in der Elisabeth-Dane-Str
+- TOP 2.6.: MVG Fahrplan
+- TOP 2.7.: Streichung des Englischunterrichts im Kindergarten
+- TOP 2.8.: Standortanfrage IRV Interroh
+- TOP 2.9.: Wohnwägen und Wohnmobile in Trudering
+- TOP 2.10.: Erleichtertes Umsteigen in die S8 Flughafen
+- TOP 2.11.: Briefkasten-Notstand im Stadtteil Kirchtrudering
+- TOP 2.12.: Umgehungsverkehr in den Straßenzügen Karotsch-/Emplstraße und Truchthari-Anger/Straßl ins Holz
+- TOP 2.13.: Neubau Lagerhalle des Fördervereins Festring Trudering an der Feldbergstr. 95
+- TOP 3.1.: BUGA-Luftbild der Region München dauerhaft erhalten, Antrag 02-08 / B 00312 des BA 15 vom 18.05.05
+- TOP 3.2.: Erhalt der Seebühne im Messepark nach der BUGA, Antrag Nr. 02-08 / B 00395 des BA 15 vom 16.06.05
+- TOP 3.3.: Teilbürgerversammlung für die Messestadt Riem, Antrag Nr. 02-08 / B 00508 des BA 15 vom 28.07.05
+- TOP 3.4.: städtische Gutachten für die Bezirksausschüsse, Antrag Nr. 02-08 / B 00514 des BA 15 vom 28.07.05
+- TOP 3.5.: Fortführung der freiwilligen Personalkostenzuschüsse in Höhe von 4 % an den Harlekin e.V. Kindergarten, WV 9 V
+- TOP 3.6.: Behindertentoiletten in den Riem Arcaden, Antrag Nr. 02-08 / B 00521 plus Stellungnahme des mfi-Management für Immobilien AG
+- TOP 3.7.: Behindertengerechte U-Bahnstation auch bei Ausfall des Liftes, Antrag Nr. 02-08 / B 00226
+- TOP 3.8.: Behindertengerechter Ausbau von Schulen in Trudering-Riem, WV 9 II
+- TOP 3.9.: Einschreibzahlen und Prognosezahlen für die Forellenschule, Antrag Nr. 02-08 / B 00503
+- TOP 3.10.: Grundschule Forellenstr. 1 - Sanitäranlagen
+- TOP 3.11.: Für eine zukunftsgerichtete und nachhaltige Orientierungsstufe, WV 9 VIII
+- TOP 3.12.: Errichtung sanitärer Anlagen für Lehrer, Antrag Nr. 02-08 / B 00506
+- TOP 3.13.: Raumkosten für Musikunterricht in städtischen Schulen, Antrag Nr. 02-08 / B 00512
+- TOP 3.14.: 1. Fördern und fordern; Musikunterricht für arme begabte Kinder, Antrag Nr. 2401 vom 23.09.04 2. 175 Jahre städt. Sing- und Musikschule; Antrag Nr. 2777 vom 24.02.05
+- TOP 3.15.: Lagerung/Entsorgung von Müll in Riem und Bau einer Rampe am S-Bahnhof Riem, Antrag Nr. 02-08 / B 00285
+- TOP 3.16.: Bitte um Unterstützung bei der Realisierung einer Stadtteilwerkstatt in Riem, Antrag Nr. 02-08 / B 00407
+- TOP 3.17.: Entwicklung des Willy-Brandt-Platzes, Antrag Nr. 02-08 / B 00307
+- TOP 3.18.: Geplante Baugebiete in Vaterstetten-West; Erweiterungsprojekt Europäische Stadt; Antrag Nr.: 02-08 / B 00406
+- TOP 3.19.: Fahrraddiebstähle am Truderinger Bahnhof; Antrag Nr. 02-08 / B 00408
+- TOP 3.20.: Kauf von Geschwindigkeitsmessgeräten aus dem Budget der Bezirksausschüsse, Antrag Nr. 2689
+- TOP 3.21.: Beschilderung von U-Bahnhöfen, Antrag Nr. 2775
+- TOP 3.22.: Beitrag zur Förderung des Breitensports durch den FC Bayern München, WV 16 II
+- TOP 3.23.: Bebauungsplan mit Grünordnung Nr. 1728 l - 3. Bauabschnitt Wohnen; Beschluss des Riem-Ausschusses
+- TOP 3.24.: Winterdiensterfahrungen 2005
+- TOP 3.25.: Samstagsöffnung für Stadtbücherei Waldtrudering, Antrag Nr. 2753
+- TOP 3.26.: Busverbindung aus Waldtrudering/Grenzkolonie, Antrag Nr. 02-08 / B 00492
+- TOP 3.27.: Feinstaubbelastung in Trudering-Riem, Antrag Nr. 02-08 / B 00218
+- TOP 3.28.: Parkraumbewirtschaftung in der Messestadt - Fehlentwicklungen rasch erkennen, Antrag Nr. 2572
+- TOP 3.29.: Gehweg Straßl-ins-Holz Westseite; Antwort auf ein Bürgerschreiben
+- TOP 3.30.: Fußweg Emplstraße Nordseite - Ergänzung zum Schreiben des KVR vom 15.03.05
+- TOP 3.31.: Auswirkung der 2. S-Bahn-Strammstrecke auf Trudering-Riem
+- TOP 3.32.: Einhaltung von Umweltvorschriften in Riem zwischen Martin-Empl-Ring und Riemer Str., Antrag Nr. 02-08 / B 00405
+- TOP 3.33.: Nutzung des alten Feuerwehrgerätehauses Riem, WV 5 VII
+- TOP 3.34.: Buslinien 55 und 192 - Vertragsverlängerung Neubiberg
+- TOP 3.35.: Kultur im Stadtquartier - Beschluss des Kulturausschusses vom 21.07.2005
+- TOP 3.36.: Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten - Protokoll über den Meinungsaustausch mit den Vorsitzenden der Bezirksausschüsse
+- TOP 3.37.: Auskunft über Feinstaub durch Großbaustellen, Antrag Nr. 02-08 / B 00550
+- TOP 3.38.: Aufstellung eines Christbaumes auf dem Willy-Brandt-Platz, Antrag Nr. 2475
+- TOP 3.39.: Nach dem Kindermord - Welche Lehren zieht die Stadt?, Antrag Nr. 2795
+- TOP 3.40.: Hygienische Untersuchung des Gymnastikraumes Forellenschule, Antrag 02-08 / B 00413
+- TOP 4.1.: Baumpflanzung Riemer See
+- TOP 4.2.: Grundwasserschutzgebiet Trudering
+- TOP 4.3.: Carbamazepin sei Dank - flächendeckende Sanierung der Hausabwasserleitungen überflüssig
+- TOP 4.4.: S-Bahnausbau Daglfing - Stückwerk oder Befreiungsschlag
+- TOP 4.5.: Ausstattung der Treppe vor den Geschäften zwischen Felicitass-Füss-Str und Friedenspromenade mit einem Geländer und einer Rampe
+- TOP 4.6.: Pflegezustand S-Bahnhof Gronsdorf
+- TOP 5.1.: Änderung der BA-Geschäftsordnung - Ausschluss wegen persönlicher Beteiligung
+- TOP 5.2.: Vollzug des § 13 der BA-Satzung - Errichtung einer hinterleuchteten Mega-Light- Werbeanlaga am Stahlgruberring 53
+- TOP 5.3.: Vollzug des § 13 der BA-Satzung - Errichtung einer Mega-Light-Werbeanlage am Stahlgruberring 46
+- TOP 5.4.: Vollzug des § 13 der BA-Satzung - Errichtung einer Mega-Licht-Werbeanlage an der Bajuwarenstr. 106
+- TOP 5.5.: Eislauffläche auf dem Willy-Brandt-Platz
+- TOP 5.6.: Behindertengerechter Ausbau der Haltestelle Martin-Empl-Ring Fahrtrichtung Osten
+- TOP 5.7.: Fahrtkostenübernahme für behinderte BA-Mitglieder
+- TOP 5.8.: Erfahrungen zum BUGA-Triathlon
+- TOP 5.9.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO; Informationsveranstaltung des Mexican Tourism Board am 08.10.05 auf dem Willy-Brandt-Platz
+- TOP 5.10.: Antrag auf Nutzung der Sonderfreifläche an der Neuen Messe München am Sonntag, 16.10.2005 zur Durchführunge eines Fahrsicherheitstrainings
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.1.: Errichtung einer 4-gruppigen Kindertagesstätte an der Bajuwarenstr. - Genehmigung des Nutzerbedarfprogramms durch verwaltungsinterne Abstimmung
+- TOP 7.7.2: UA Planung:
+- TOP 7.1.: vorhabensbezogener Bebauungsplan der Gemeinde Haar
+- TOP 7.2.: Bebauungsplan der Gemeinde Aschheim westl. Uhlandstr./südl. Ludwig-Thoma-Str./östl. Nordsüdweg Fl.Nr. 248/4 und nördl. Ostwestweg Fl.Nr. 270/8
+- TOP 7.3.: Flächennutzungsplan - Änderung Nr. 15 der Gemeinde Putzbrunn
+- TOP 7.4.: Aufstellungsbeschluss (Entwurf) zum Bebauungsplan mit Grünordnung, Messestadt Riem - Paul-Henri-Spaak-Straße nördlich, BAB A 94 (Töginger Straße) südlich, Ottendichler Straße westlich; Teiländerung des Bebauungsplanes mit Grünordnung Nr. 1728 a und E-Mail vom 12.09.2005
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.1.: Erstmalige Herstellung der Neusönnerstraße
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 7.1.: Runder Tisch zum geplanten Aufstellungsbeschluss "Wasserburger Landstr./Schwablhofstr. (westlich)/" am 26.07.05
+- TOP 7.2.: Nach Mitteilung des BA-Vorsitzenden
+- TOP 8.1.: Bescheide und Mitteilungen über bereits durchgeführte Baumfällungen: Turnerstr. 46, Feldbergstr. 85, Waldschulstr. 20, Spertentalstr. 2, Birkhanweg 14, Sansibarstr. 13 a, Am Schloßacker 7
+- TOP 8.2.: Protokoll des UA Umwelt von August 2005
+- TOP 8.3.: Zehntfeldstr. 208
+- TOP 8.4.: Ankoglstr. 9
+- TOP 8.5.: Funtenseestr. 15
+- TOP 8.6.: Sansibarstr. 8 A
+- TOP 8.7.: Himalajastr. 31
+- TOP 8.8.: Teuchertstr. 26
+- TOP 8.9.: Markgrafenstr. 69
+- TOP 8.10.: Turnerstr. 58
+- TOP 8.11.: Helenenstr. 23 (Haus 2)
+- TOP 8.12.: Kreillerstr. 39
+- TOP 8.13.: Helenenstr. 23 (Haus 1)
+- TOP 8.14.: Sonnenspitzstr. 12
+- TOP 8.15.: Ruppanerstr. 20
+- TOP 8.16.: Säntisstraße 17
+- TOP 8.17.: Ernastr. 29
+- TOP 9.1.: Bekanntgabe der Termine: a) Einweihung der Erläuterungsschilder in der Säntisstraße am 12.10.2005; b) Einweihung der Büroräume in der Burgstr. am 28.09.05; c) Das Schulreferat trifft die Bezirksausschüsse - Mitteilung der Termine 2006; d) Information für die Bezirksausschüsse im KVR am 08.11.05; e) Eröffnung der Freilandgruppe "Fliegenpilz" am 29.09.05; f) Einladung zum Evaluierungsgespräch am 23.09.05 im Bürgerzentrum; g) auf Mitteilung des Vorsitzenden
+- TOP 9.2.: Protokoll zum Planungsdialog Messestadt Riem
+- TOP 9.3.: Hochwasser in Riem; Beteiligung an der Aschheimer Untersuchung (WV 3I)
+- TOP 9.4.: Samstagsöffnung für Stadtteilbüchereien; Antwort des BA 18
+- TOP 9.5.: Samstagsöffnung für die Stadtbücherei Waldtrudering; Antwort des BA 2
+- TOP 9.6.: Mobilfunk; Suchkreismeldung Straßtrudering-Süd, Steinhausen-Ost
+- TOP 9.7.: Bildende Kunst auf der BUGA - Beschluss der Vollversammlung des Stadtrates vom 06.07.05
+- TOP 9.8.: Neues Filial-Format der Deutschen Post
+- TOP 9.9.: Mobilfunkinformationen
+- TOP 9.10.: Grüne Oasen in der Stadt
+- TOP 9.11.: Sitzung der Bezirksausschuss-Satzungskommission; Protokoll zur Sitzung
+- TOP 9.12.: Munich-Volunteer, Anmeldung zum Freiwilligenprogramm während der FIFA WM 2006
+- TOP 9.13.: Bundesgartenschau 2005 - Protokoll des Fachbeirates Verkehr am 07.04.05
+- TOP 9.14.: INFOSYS-Messestadt Riem (Kurzeinstieg)
+- TOP 9.15.: Bedeutung der offenen Kinder- und Jugendarbeit in München
+- TOP 9.16.: Münchner Bürgerbefragung - Ausgabenplanung für verschiedene Bereiche
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderung zu genehmigten Bauvorhaben vom 06.06.05 bis 04.09.05
+- TOP 10.2.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Croatica, Wasserburger Landstr. 225
+- TOP 10.3.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Austi, St-Augustinus-str. 6
+- TOP 10.4.: Verwendungsnachweis für den Zuschuss aus dem Budget des BA 15 - Chorkonzert 2005
+- TOP 10.5.: Verwendungsnachweis für den Zuschuss aus dem Budget des BA 15 - Kulturzentrum Trudering (3 Stück)
+- TOP 10.6.: Zuwendungsbewilligung aus dem Budget des Bezirksausschusses - Förderverein der Sozialstation Berg am Laim und Trudering e.V.
+- TOP 10.7.: Zuwendungsbewilligung aus dem Budget des Bezirksausschusses - Freunde der freiwilligen Feuerwehr Riem e.V.
+- TOP 10.8.: Zuwendungsbewilligung aus dem Budget des Bezirksausschusses - Maibaumfreunde Riem e.V.
+- TOP 10.9.: Budgetmittel - Ablehnung einer beantragten Zuwendung für ein Orgelkonzert
+- TOP 10.10.: Zweckentfremdung von Wohnraum - Lachenmeyrstr. 4
+- TOP 10.11.: Zweckentfremdung von Wohnraum - Von-Erckert-Str. 62
+- TOP 10.12.: Zweckentfremdung von Wohnraum - Tangastr. 80
+- TOP 10.13.: Zweckentfremdung von Wohnraum - Salzmesserstr. 100
+- TOP 10.14.: Zweckentfremdung von Wohnraum - Zehntfeldstr. 147
+- TOP 10.15.: Zweckentfremdung von Wohnraum - Iltisstr. 49 und 49 a
+- TOP 10.16.: Zweckentfremdung von Wohnraum - Karotschstr. 7
+- TOP 10.17.: Zweckentfremdung von Wohnraum - Florastr. 27
+- TOP 10.18.: Zweckentfremdung von Wohnraum - Hochkönigstr. 20
+- TOP 10.19.: Zweckentfremdung von Wohnraum - Evereststr. 2
+- TOP 10.20.: Zweckentfremdung von Wohnraum - Dresselstr. 31 Vgb.
+- TOP 10.21.: Kooperation zwischen INFOFON und JIZ
+- TOP 10.22.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 1924
+- TOP 10.23.: Bebauungsplan mit Grünordnung Nr. 1728 f, Teil 2 - Messestadt Riem
+- TOP 10.24.: Bildende Kunst auf der BUGA - Beschluss der Vollversammlung des Stadtrates und Berichtigung des Beschlusses des Riemausschusses
+- TOP 10.25.: Festzug des Burschenvereins von 1895 e.V. zum 110. Jubiläum mit Fahnenweihe
+- TOP 10.26.: Keine Raummiete für außerschulische Kooperationspartner - Beschluss des Schulausschusses vom 13.07.05
+- TOP 10.27.: Satzung zur Änderung der Satzung über die Bestattungseinrichtungen der Landeshauptstadt München (Friedhofsatzung)
+- TOP 10.28.: Satzung zur Beitragserhebungspflicht (SABS)
+- TOP 10.29.: Vergabe einer Gewerbepazelle im Technologiepark Messestadt Riem
+- TOP 10.30.: 10 jähriges Bestehen der MÜNCHENSTIFT GmbH, Festzeitschrift
+- TOP 10.31.: Messestadt Riem: Anliegerstraßen im Gewerbegebiet Nordost Teil 2, Herstellung der Erschließungsstraßen im Stadtbezirk 15 Trudering-Riem
+- TOP 10.32.: Perspektive München - PM Bilanz: Leitprojekt Stadtteilentwicklung Hadern und Münchner Habitat-Tag; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.05
+- TOP 10.33.: Lärmschutz im Bereich Truchtari-Anger / Säntriegelstraße, Empfehlung Nr. 25 der BV des 15. Stadtbezirks; Beschluss des Bauausschusses
+- TOP 10.34.: Errichtung einer Bücherbushaltestelle am Lehrer-Götz-Weg 21
+- TOP 10.35.: Unterrichtung über eine Eilentscheidung des BA-Vorsitzenden gemäß § 20 Abs. 1 Satz 2 der BA-Satzung: Errichtung eines personenbezogenen Behindertenparkplatzes im Bereich am Moosfeld
+- TOP 10.36.: Unterrichtung über eine Eilentscheidung des BA-Vorsitzenden gemäß § 20 Abs. 1 Satz 2 der BA-Satzung: Errichtung eines personenbezogenen Behindertenparkplatzes in der Georg-Kerschensteiner Straße
+- TOP 10.37.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Wienerwald, Bajuwarenstr. 2
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
