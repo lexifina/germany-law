@@ -1,0 +1,52 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2005-09-16T16:05:00+02:00
+- Ende: 2005-09-16T19:39:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/218
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/218
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Stv. Breuer: Kom. d. Betr. v. Langzeitarbeitsl.
+- TOP 2: FDP: Einführung e. Familienberichterstattung
+- TOP 3: Stv. Breuer: Beschr. d. wirtsch. Betät. d. Gem.
+- TOP 4: Genehmigung der Tagesordnung
+- TOP 5: KEINE
+- TOP 6: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 7: Familien-Card f. d. Rhein-Kreis-Neuss
+- TOP 8: Ehrenamtscard (HA070905-03040)
+- TOP 9: Ausbau Hermann-Klammt-Str., B-Plan 427 (Straße)
+- TOP 10: Änderung d. Verwaltungsgebührensatzung
+- TOP 11: Ausbau Hermann-Klammt-Straße, BPL 427 - Kanalbau -
+- TOP 12: Erneuerung SW-/RW-Kanäle Königstraße
+- TOP 13: Verkehrskonzept Dreikönigenviertel
+- TOP 14: Umgestaltung Kapitelstraße
+- TOP 15: Einwohnerfragestunde
+- TOP 16: Umbau Otto-Wels-Straße / Ladenzentrum Weckhoven
+- TOP 17: FNP-Änd. 90, Auslegungsbeschluss
+- TOP 18: Stv. Breuer: Neueinst. v. Lehrkräften u.a.
+- TOP 19: B-Plan V441, Auslegungsbeschluss
+- TOP 20: OGS-Schulen z. Schuljahr 06/07
+- TOP 21: Inv.progr. u. Finanzp. 2005 - 2009
+- TOP 22: 1. Satz. z. Änd. der Betriebssatzung LVN
+- TOP 23: Plan. ehem. Case-Gelände, Antr. SPD
+- TOP 24: B. 90/D. G.: Wiedereins. AK Radverkehr
+- TOP 25: Ergänzende Informationen zum Entwurf des SEP
+- TOP 26: Einwohnerfragestunde
+- TOP 27: Standortuntersuchung Grundschule Allerheiligen
+- TOP 28: Rahmenplan Marienkirchviertel, BV Königstr.
+- TOP 29: Umfeldverbesserung südl. Furth, vorber. Unters.
+- TOP 30: Vert. Stadt Neuss b. der GWG
+- TOP 31: Umbau Nebenanlagen vor Grundstück Görlitzer Str. 1
+- TOP 32: FNP-Änd. 107, Feststellungsbeschluss
+- TOP 33: Schenkung Plastiken Nischen Fassade Zeughaus
+- TOP 34: B-Plan 57/22, Auslegungsbeschluss
+- TOP 35: B-Plan 429, Auslegungsbeschluss
+- TOP 36: Haushalt 2006 mit Anlagen
+- TOP 37: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 38: B-Plan 139/2, Auslegungsbeschluss
