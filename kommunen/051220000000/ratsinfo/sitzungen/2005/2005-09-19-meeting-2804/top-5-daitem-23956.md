@@ -1,0 +1,6 @@
+# TOP 5: Erstellung einer Risikoanalyse für den Stadtdienst Bußgeldstelle unter dem Gesichtspunkt der Korruptionsprävention (Bericht Nr. 15/2005)
+
+- Sitzung: Rechnungsprüfungsausschuss (2005-09-19)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/23956
