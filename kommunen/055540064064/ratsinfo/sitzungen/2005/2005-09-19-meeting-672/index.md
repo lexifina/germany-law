@@ -1,0 +1,55 @@
+# Gemeinderat
+
+- Körperschaft: Stadt Velen
+- Beginn: 2005-09-19T17:00:00+02:00
+- Ende: 2005-09-19T18:00:00+02:00
+- Ort: Burg Ramsdorf, Burgplatz 4, 46342 Velen, Burgsaal Ramsdorf
+- Status: 
+- Gremium: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://velen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaQiF-ee0rjg0gcA5poWElY
+- OParl: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/672
+- Quelle: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung und Einladung (Gemeinderat) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbZZCA3T1S2Jd3fsQ5-JoLIKvYl79PBogK1HXJKaX0P9/Bekanntmachung_und_Einladung_Gemeinderat_19.09.2005.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVzIt9xdYMEWT5L6q4_Q_mPArf5y57jxAKfwgUiEf8yL/Oeffentliche_Niederschrift_Gemeinderat_19.09.2005.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Prognosen zur Kommunalentwicklung 2020
+- TOP 3.: Nahverkehrsplanung des Kreises Borken Stellungnahme zum 2. Entwurf des Nahverkehrsplanes - Einstimmig
+- TOP 4.: 20. Änderung des Flächennutzungsplanes, Teil 2, Ortsteil Velen, zur Ausweisung eines Sondergebietes "Lebensmitteleinzelhandel" auf dem Gelände der Gärtnerei Hardeweg sowie weitere Überplanungen von Wohnbau- und Mischflächen und einer Grünfläche a) Ergebnis der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 2 BauGB und Behördenbeteiligung gemäß § 4 Abs. 2 BauGB b) Feststellungsbeschluss
+- TOP 5.: 15. Änderung des Flächennutzungsplanes, Teil 1 (gesamtes Gemeindegebiet), zur Ausweisung eines Sondergebietes für die Abfallentsorgung in Nordvelen a) Ergebnis der Offenlegung gemäß § 3 Abs. 2 BauGB b) Feststellungsbeschluss - Einstimmig
+- TOP 6.: Unterschutzstellung von Bodendenkmälern hier: Bereich Burg Ramsdorf - Einstimmig
+- TOP 7.: Erweiterung des Tagebaues Ramsdorf - Sandgrube Tecklenborg - (UVP-Vorprüfung) - Einstimmig
+- TOP 8.: BW 28 "Kuckelbeck", Teil 3 a) Bedenken und Anregungen aus dem Offenlegungsverfahren b) Begründungsbeschluss c) Satzungsbeschluss - Einstimmig
+- TOP 9.: 4. Vereinfachte Änderung des Bebauungsplanes BW 28 "Kuckelbeck", Teil 2, zugleich 2. Änderung des Bebauungsplanes BW 25 "Camping- und Wochenendanlage Vierhaus" a) Bedenken und Anregungen aus dem Beteiligungsverfahren gemäß § 13 Abs. 2 BauGB b) Begründungsbeschluss c) Satzungsbeschluss - Einstimmig
+- TOP 10.: 2. Erweiterung des Bebauungsplanes BO 27 "Beckhook", Teil 3 a) Bedenken und Anregungen aus dem Offenlegungsverfahren gemäß § 3 Abs. 2 BauGB b) Begründungsbeschluss c) Satzungsbeschluss - Einstimmig, 2 Enthaltung(en)
+- TOP 11.: Bebauungsplan BS 30 "Sondergebiet Endejan" a) Bedenken und Anregungen aus dem Offenlegungsverfahren gemäß § 3 Abs. 2 BauGB b) Begründungsbeschluss c) Satzungsbeschluss gemäß § 10 Abs. 1 BauGB - Einstimmig
+- TOP 12.: Aufstellung eines Bebauungsplanes "Tiergarten" - Einstimmig
+- TOP 13.: Aufstellung eines Bebauungsplanes "Sportplatz Velen" - Einstimmig
+- TOP 14.: 5. Vereinfachte Änderung des Bebauungsplanes BO 7 "Bahnhofsgebiet" a) Bedenken und Anregungen aus dem Beteiligungsverfahren gemäß § 13 Abs. 2 BauGB b) Begründungsbeschluss c) Satzungsbeschluss - Einstimmig
+- TOP 15.: 13. Vereinfachte Änderung des Bebauungsplanes BO 27 "Beckhook" a) Bedenken und Anregungen aus dem Beteiligungsverfahren gemäß § 13 Abs. 2 BauGB b) Begründungsbeschluss c) Satzungsbeschluss - Einstimmig, 2 Enthaltung(en)
+- TOP 16.: Aufstellungsbeschluss zur 12. Vereinfachten Änderung des Bebauungsplanes BO 1 "Velen-Ost" - Einstimmig
+- TOP 17.: Aufstellungsbeschluss zur 17. Vereinfachten Änderung des Bebauungsplanes BW 4 "Thebenkamp" - Einstimmig
+- TOP 18.: 3. Änderung des Bebauungsplanes BO 11a "Gewerbegebiet Velen-Ost" a) Ergebnis der Offenlegung gemäß § 3 Abs. 2 BauGB b) Begründungsbeschluss c) Satzungsbeschluss - Einstimmig
+- TOP 19.: Aufstellungsbeschluss zur 1. Änderung des Bebauungsplanes BW 23 "Bahnhof Velen" - Einstimmig
+- TOP 19.1.: 21. Änderung des Flächennutzungsplanes, Ortsteil Velen, zur Änderung der Versorgungsfläche mit der Zweckbestimmung Bauhof in Gewerbefläche a) Aufstellungsbeschluss gemäß § 2 BauGB b) Beteiligung der Öffentlichkeit gemäß § 3 BauGB - Einstimmig
+- TOP 20.: Bekanntgabe der über- und außerplanmäßigen Ausgaben - 2. Quartal 2005 -
+- TOP 21.: Mitteilungen und Anregungen
+- TOP 21.1.: Rechtsstreit Niehuers ./. Landrat Borken
+- TOP 21.2.: Antrag der SPD-Fraktion Velen-Ramsdorf
+- TOP 21.3.: Schulsozialarbeit
+- TOP 21.4.: Schülerbeförderung
+- TOP 21.5.: Immissionsschutzrechtliches Zulassungsverfahren für die egw
+- TOP 21.6.: Erhebung Ganztagsschule
+- TOP 21.7.: Verkehrsschau
+- TOP 21.8.: Pflasterung Lange Straße
+- TOP 21.9.: Straßennamensschild Tiergarten
+- TOP 21.10.: Antrag zur Tagesordnung der Ratssitzung
+- TOP 21.11.: ILEK für die Region Bocholter Aa
+- TOP 21.12.: Pölkes und Bügel an Fuß- und Fahrradwege
+- TOP 21.13.: Sichtbehinderungen für den Verkehr
+- TOP 21.14.: Ehemaliger Franziskuskindergarten
+- TOP 21.15.: Lückenschluss A 31
+- TOP 21.16.: Beteiligung des Denkmalschutzbeauftragten
