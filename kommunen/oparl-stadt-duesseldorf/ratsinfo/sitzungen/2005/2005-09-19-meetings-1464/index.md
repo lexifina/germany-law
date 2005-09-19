@@ -1,0 +1,65 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-09-19T15:00:00+02:00
+- Ende: 2005-09-19T15:33:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1464
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1464
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111772.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111772.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111772.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Kämmererliste - einstimmig beschlossen
+- TOP 4: Folgekosten - einstimmig beschlossen
+- TOP 5: Stiftung Riehl-Kolleg - einstimmig beschlossen
+- TOP 6: Bau, Einricht-+Instands. Kitas-Zuschüsse fr. Träg. - einstimmig beschlossen
+- TOP 7: Bewilligung Zuschuss DJH, LV Rheinland e.V. - einstimmig beschlossen
+- TOP 8: Lehrschwimmbecken Rethelstraße 13 - einstimmig beschlossen
+- TOP 9: Aufstellung von Basketballkörben im Stadtgebiet - einstimmig beschlossen
+- TOP 10: Bauliche Verbesserung der Betriebszustände - einstimmig beschlossen
+- TOP 11: Angermunder Straße - einstimmig beschlossen
+- TOP 12: TVG I Brandschutz 4.BA - einstimmig beschlossen
+- TOP 13: Kasernenstr. 6, Brandschutztechnische Verbesserung - einstimmig beschlossen
+- TOP 14: Heinrich-Heine-Haus Bolker Straße 53 - Bau- und Fi - einstimmig beschlossen
+- TOP 15: Masterplan KGS Graf-Recke-Str 153 - einstimmig beschlossen
+- TOP 16: Erneuerung veralteter Steuergeräte im Verkehrsrech - einstimmig beschlossen
+- TOP 17: Bertha-von-Suttner-Platz / GB - einstimmig beschlossen
+- TOP 18: Grundsatzbeschluss Neubau Feuerwache Nord - einstimmig beschlossen
+- TOP 19: Neubau einer Personalunterkunft auf dem Nordfried - mehrheitlich beschlossen
+- TOP 20: Sanierung kulturhistorischer Grünanlagen - einstimmig beschlossen
+- TOP 21: Mitglieder Neubestellung Gutachterausschuss - einstimmig beschlossen
+- TOP 22: Ersatzwahl in JHA - einstimmig beschlossen
+- TOP 23: AR Schauspiel GmbH - einstimmig beschlossen
+- TOP 24: AR Kliniken - Ersatzwahl - - einstimmig beschlossen
+- TOP 25: Neue Deichschau Heerdt - einstimmig beschlossen
+- TOP 26: Hundesteuersatzung - einstimmig beschlossen
+- TOP 27: Stadtbetrieb zentrale Dienste - passieren lassen
+- TOP 28: Marktentgeltordnung - passieren lassen
+- TOP 29: Amt 53: Gebühren Gesundheitsdienst - einstimmig beschlossen
+- TOP 30: Änderung der Taxentarifordnung - passieren lassen
+- TOP 31: Genehmigung einer Dienstreise - einstimmig beschlossen
+- TOP 32: Dienstreise ExpoReal - einstimmig beschlossen
+- TOP 33: Verkaufsoffene Sonntage 2005 - mehrheitlich beschlossen
+- TOP 34: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 35: Plan Nr. 5774/28 - Karl-Geusen-Straße - 1. Verläng - einstimmig beschlossen
+- TOP 36: FNP-Ä 70 Am Kehrbesen Anreg. Plan - einstimmig beschlossen
+- TOP 37: FNP-Änderung Nr. 63 - Kikweg - einstimmig beschlossen
+- TOP 38: B-Plan Nr. 5974/36 - Kikweg - einstimmig beschlossen
+- TOP 39: B-Plan Nr. 5775/35 - Südwwestl. Königsberger Str. - einstimmig beschlossen
+- TOP 40: B-Plan (Entwurf) Nr. 6267/10 - Hauptzentrum Garath - zur Kenntnis genommen
+- TOP 41: B-Plan Nr. 5582/033 - Theodorstraße/A 52 - einstimmig beschlossen
+- TOP 42: B-Plan-Entwurf Nr. 6080/17 - Mühlenbergweg - einstimmig beschlossen
+- TOP 43: BPl Text SB 9 Änderung gem. § 13; Satzung - einstimmig beschlossen
+- TOP 44: B-Plan Nr. 5576/18 - Innenstadt/Vergnügungsstätte - einstimmig beschlossen
+- TOP 45: Ersatzwahl Unterbacher See - einstimmig beschlossen
+- TOP 46: Wohnumfeldverbesserung - einstimmig beschlossen
+- TOP 47: Sanierung der Tonhalle - Mehrkosten - Bau- und - passieren lassen
+- TOP 48: Änderung der Benutzungsordnung für die Tonhalle - einstimmig beschlossen
