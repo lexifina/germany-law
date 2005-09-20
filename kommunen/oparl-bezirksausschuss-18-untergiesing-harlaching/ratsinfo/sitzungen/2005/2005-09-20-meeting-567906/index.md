@@ -1,0 +1,113 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2005-09-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/567906
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/567906
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Geschwindigkeit des Verkehrs in derSchönstrasse und Parkplatzprobleme am Wochenende; Erneutes Bürgerschreiben vom 11.08.2005
+- TOP .2.: Spielplatz Athener Platz; Bürgerschreiben vom 01.09.2005
+- TOP .2.2: Behördenvertreter
+- TOP .2.2.1: Vortrag städtischer Referate
+- TOP .2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP .2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Waldkindergarten Wurzelkinder e.V., für die Maßnahme: Förderung von Sachkosten (Bauwagen); Antragssumme: 2.000,- Euro; (Zusatz !)-Antrag vom 06.08.2005; Beschlussvorlage vom 17.08.2005
+- TOP 3.1.: Projekt "McGreen"; Antwortschreiben des Katholischen Männerfürsorgevereins München e.V. vom 05.08.2005 zum Vorschlag zur weiteren Projektgestaltung aus der Sitzung vom 19.07.2005
+- TOP 3.1.: Praktikumsbörse im Schuljahr 2004/2005; Schreiben und Sachbericht sowie Verwendungsnachweis des Vereins Kompetenz für Frauen e.V. vom 22.07.2005
+- TOP 3.2.: Zuschuss-Antrag für die Maßnahme: Führungen zum Tag d. offenen Denkmals - Stadionmiete; Rückzug des Antrags; Schreiben des Vereins Freunde des Sechz¿ger Stadions e.V. vom 26.08.05
+- TOP 3.1.: Versand von Vereinssatzungen mit den BA-Vorlagen; Nachfrage des Direktoriums vom 15.07.2005
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Haltverbot Autharistraße; Stellungnahme des BA 18 vom 21.07.05; Schreiben des KVR vom 26.07.05 (negative Erledigung)
+- TOP 3.2.: Anbindung des Städtischen Theodolinden-Gymnasiums an das Busliniennetz; Fahrplan der Buslinien 139 und 220 (Taktfrequenz); Antwortschreiben der MVG vom 01.09.05 zum Schreiben vom 15.08.05
+- TOP 3.1.: Straßenausbaubeitragssatzung; Informationsmaterial des Baureferats; Zuleitung vom 25.07.2005
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Vermüllung auf dem Grundstück in der Claude-Lorrain-Straße, neben Nr. 45 (vor Bahnunterführung) und der Grünfläche vor dem Bahnhang am Hans-Mielich-Platz; BA-Antrag - Nr. 02-08 / B 00235 vom 19.04.2005; Schreiben des Baureferats vom 22.08.05 (neutrale Erledigung)
+- TOP 3.1.: Dezimierung der Wasservögel an den Seen im Münchner Norden; Beschluss des Bauausschusses vom 19.07.2005
+- TOP 3.2.: Baubeginnsanzeige der Mobilfunksendeanlage(n) Claude-Lorrain-Str., Peter-Auzinger-Str., Soyerhofstr.; Mitteilung des RGU vom 02.08.2005 (ggf. Behandlung in nichtöffentlicher Sitzung)
+- TOP 3.3.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Buamschutzverordnung 3.3.6.3.1 Anwesen in der Rotbuchenstraße; Borkenkäfer-Bescheinigung vom 05.07.2005 3.3.6.3.2 Anwesen in der Herzog-Garibald-Straße; Gefahrenbaum-Bescheinigung vom 19.07.2005 3.3.6.3.3 Anwesen in der Laufzorner Straße; Gefahrenbaum-Bescheinigung vom 25.07.2005 3.3.6.3.2 Anwesen in der Laufzorner Straße; Gefahrenbaum-Bescheinigung vom 25.07.2005
+- TOP 3.4.: Baubeginnsanzeige der Mobilfunksendeanlage(n) Oefelestr., Candidplatz, Untere Weidenstraße; Mitteilung des RGU vom 23.08.2005 (ggf. Behandlung in nichtöffentlicher Sitzung)
+- TOP 3.5.: Mobilfunk, Informationen; Schreiben des Referats für Gesundheit und Umwelt vom 24.08.2005
+- TOP 3.6.: Mobilfunk; Suchkreismeldung 19707631 M - Tegernseer Landstraße; Mitteilung des Referats für Gesundheit und Umwelt vom 25.08.2005 (ggf. Behandlung in nichtöffentlicher Sitzung)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Skate-Anlage Harlaching (siehe Bürgeranliegen TOP 2.1.2.2 vom 19.07.05)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Erhalt der mobilen, aufsuchenden Kinder- und Jugendarbeit in der Sozialregion Giesing; Antrag Nr. 02-08 / B 00238 des BA 18 vom 19.04.05; Schreiben des Sozialreferats vom 05.07.2005 (negative Erledigung)
+- TOP 3.2.: Auskunft über eine Ersatzlösung für die bislang auf dem Gelände an der Säbener Straße untergebrachten Baseball-Vereine; Einstellung der Mittel für eine Verlagerung in Investitionsliste 1 des MIP; Antrag Nr. 02-08 / B 00329 vom 17.05.2005; Schreiben des Schul- und Kultusreferats vom 18.08.05 (negative Erledigung)
+- TOP 3.1.: Keine Raummiete für außerschulische Kooperationspartner; Antrag Nr. 02-08 / A 02250 der FDP vom 26.01.2005; Beschluss des Schulausschusses des Stadtrates vom 13.07.2005 (SB)
+- TOP 3.2.: Konzept zur pflegerischen Versorgung älterer Menschen in München; Beschluss der Vollversammlung des Stadtrates vom 27.07.2005
+- TOP 3.3.: Euro-Skate-Halle Leopoldstraße, Informationsmaterial; Zuleitung der Arbeitsgruppe Buhlstraße vom 29.07.2005
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Instandsetzung des Fußweges von der Lohstraße zur Lutherkirche; Antrag der SPD-Fraktion vom 09.09.2005
+- TOP 3.2.: Instandsetzung des Fußweges von der Lohstraße zur Lutherkirche
+- TOP 3.1.: Anhörung durch das Referat für Stadtplanung und Bauordnung vom 09.08.2005 zu einem Bauleitplan einer Nachbargemeinde; 7.Änderung des Bebauungsplans Nr.15 Gartenstadt / Pullach
+- TOP 3.2.: Wirtschaftsgarten Gaststätte "Roj", Grünwalder Str. 9; Anhörung des KVR vom 09.08.2005
+- TOP 3.3.: Zukunft des Stadions an der Grünwalder Str. u. der Rudi-Sedlmayer-Halle; Fristverlängerung für verschiedene Anträge von Bezirksausschüssen und Stadtratsfraktionen; Schreiben des Schul- u. Kultusreferats vom 25.08.05 mit der Bitte um Zustimmung
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen in der Mondstr.; Anhörung vom 20.07.2005 (vorab entschieden durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 3.2.: Anwesen in der Mondstr.; Anhörung vom 04.08.05 (vorab entschieden durch den Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 3.3.: Anwesen in der Quagliostr.; Anhörung vom 14.07.05 (vertagt aus der Sitzung vom 19.07.05, vorab entschieden durch den Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Anwesen in der Stresemannstr.; Anhörung vom 23.08.2005
+- TOP 3.2.: Anwesen in der Rabenkopfstraße; Anhörung vom 29.07.2005 (vorab entschieden durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 3.3.: Anwesen in der Haushamer Str.; Anhörung vom 20.07.2005 (vorab entschieden durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 3.4.: Anwesen in der Grünwalder Str.; Anhörung vom 14.07.2005 (vertagt aus der Sitzung vom 19.07.05, vorab entschieden durch den Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 3.5.: Anwesen in der Reinekestr.; Anhörung vom 02.08.05 (vorab entschieden durch den Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 3.6.: Anwesen in der Autharistr.; Anhörung vom 05.08.05 (vorab entschieden durch den Vorsitzenden gem. § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 3.1.: Kindergartenversorgung im 18. Stadtbezirk; Kindertagesstätten freigemeinnütziger Träger; Praxis der Zuschussgewährung an den Kindergarten "Biene Maja e.V."; Fragenkatalog (Ziffern 1 bis 8); Antwortschreiben vom 02.06.2005 zum Antrag vom 15.03.2005 (neutrale Erledigung) (vertagt aus der Sitzung vom 21.06.05 und 19.07.05)
+- TOP 3.2.: Hans-Mielich-Platz 3, Vorkaufsrecht nach dem BauGB; Antwortschreiben des Kommunalreferates vom 08.08.2005
+- TOP 3.1.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung; Verleihung der Ehrenpreise 2005; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005
+- TOP 3.2.: Baufälle im 18. Stadtbezirk
+- TOP 3.3.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2005; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005
+- TOP 3.4.: PERSPEKTIVE München; Bericht zur Stadtentwicklung 2003; a) Anhörung der Bezirksausschüsse b) Befassung der Fachausschüsse des Stadtrates c) Entscheidungsvorschlag des Planungsreferates Sitzungsvorlagen Nr. 02-08/V 06596; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005 (VB)
+- TOP 3.5.: PERSPEkTIVE MÜNCHEN - PM Analysen; Wissenschafts- und Hochschulstandort MÜnchen; Rahmenbedingungen und Perspektiven; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005 (VB)
+- TOP 3.6.: Aktualisierung des Flächennutzungsplanes und Aufstellung des Landschaftsplanes, Teilbereich VI - Südost; Schreiben des Planungsreferats vom 07.07.2005 zum Beschluss der Vollversammlung des Stadtrates vom 22.06.2005
+- TOP 3.7.: Chancen und Perspektiven für Berg am Laim, Ramersdorf und Giesing; Vorbereitung der Veranstaltungen in den Quartieren zum Beginn des Projekts "Soziale Stadt" im Herbst 2005; Vormerkung über das Gespräch im Planungsreferat vom 21.07.2005
+- TOP 3.8.: Gaststätten (unveränderte Fortführungen), Mitteilungen durch das Kreisverwaltungsreferat 3.5.6.8.1 SSW "Ludmilla-Stüberl", Mitteilung vom 11.08.2005 3.5.6.8.2 SSW "Fat Tsoi", Mitteilung vom 30.08.2005
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Samstagsöffnung für die Stadtteilbüchereien; Antwortschreiben der Münchner Stadtbibliothek vom 05.08.05 zur Unterstützung des Antrags des BA 15
+- TOP 3.1.: Veranstaltungen / Kooperationen August 2005; Mitteilung des Kulturreferats vom 01.08.2005
+- TOP 3.2.: Samstagsöffnung für Stadtbücherei Waldtrudering; Beschluss des Kulturausschusses vom 21. Juli 2005 (SB)
+- TOP 3.3.: Umwandlung eines Erwachsenenbusses der Fahrbibliotheken in einen Juniorbus; Beschluss des Kulturausschusses vom 21.07.2005
+- TOP 3.4.: Kultur im Stadtquartier, Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen, Evaluierung kultureller Zentren, Kulturelle Zentren und Stadtteilwochen; Beschluss des Kulturausschusses vom 21.07.2005
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Änderung der BA-Geschäftsordnung; Ausschluss wegen persönlicher Beteiligung; Anhörung durch das Direktorium vom 08.08.05
+- TOP 4.2.: Fahrtkostenübernahme für behinderte BA-Mitglieder; Antrag des BA 9 - Neuhausen-Nymphenburg; Anhörung durch das Direktorium vom 09.08.05
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Satzung zur Änderung der Satzung über die Bestattungseinrichtungen der Landeshauptstadt München (Friedhofsatzung); Beschluss des Gesundheitsausschusses vom 21.07.2005 (VB)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Neues Filial-Format der Deutschen Post; Schreiben des Referats für Arbeit und Wirtschaft vom 03.08.05
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
