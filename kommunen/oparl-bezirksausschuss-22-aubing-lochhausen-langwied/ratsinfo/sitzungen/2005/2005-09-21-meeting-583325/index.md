@@ -1,0 +1,93 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2005-09-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/583325
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/583325
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Müllbehälter an Bushaltestellen (vertagt aus Sitzung 07/05)
+- TOP 2.2.: Zustand der Pottensteinstraße von Nr. 1 bis 5a
+- TOP 2.3.: Verkehrs-Misere im Gesamt-Pasinger-Gebiet
+- TOP 2.4.: Gefährlicher Begegnungsverkehr an der Reichenaustraße
+- TOP 3: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4: Anträge
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Vollz. d. Bay. Straßen- und Wegegesetzes, Einrichtung eines ambulanten Blumenverkaufsplatzes an der Hellensteinstraße (vertagt aus Sitzung 07/05)
+- TOP 5.2.: Kindergarten Schussenrieder Str. 5a; Verlängerung der Mauer an der Lochhausener Str.; Beschluss zur Empfehlung Nr. 45 der Lochhausen-Langwieder Bürgerversammlung vom 08.12.04
+- TOP 5.3.: Rückbau der Altostraße in ihre ursprüngliche Streckenführung, Beschluss zur Empfehlung Nr. 128 der Aubinger Bürgerversammlung vom 23.06.05
+- TOP 5.4.: Sanierung der Henschelstraße (Ziffer 2 des Antrages), Beschluss zur Empfehlung Nr. 124 der Aubinger Bürgerversammlung vom 23.06.05
+- TOP 5.5.: Müllablagerungen am Wertstoffcontainerstandort Lochhausener Straße/S-Bahnstation Lochhausen, Beschluss zur Empfehlung Nr. 126 der Aubinger Bürgerversammlung vom 23.06.05
+- TOP 6: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörung zu Baumschutzfällen
+- TOP 6.2.: Bebauungsplan Nr. 1A Heitmannsiedlung, Gemeinde Gräfelfing
+- TOP 6.3.: Bebauungsplan Nr. 1B, Gemeinde Gräfelfing
+- TOP 6.4.: Veranstaltung auf Privatgrund, hier: Aubinger Herbstfest, Festplatz am Germeringer Weg vom 01.09.-06.09.05
+- TOP 6.5.: Plangenehmigung nach § 18 AEG, ESTW München Südwest; ESTW München-Pasing; Errichtung von drei Modulgebäuden, Modulstandort Varnhagenstraße, Gemarkung Pasing
+- TOP 6.6.: Veranstaltung auf öffentlichem Verkehrsgrund; hier: Standkonzert und Festzug anlässlich des Aubinger Herbstfestes am 01.09.05
+- TOP 6.7.: Fahrtkostenübernahme für behinderte BA-Mitglieder
+- TOP 6.8.: Änderung der BA-Geschäftsordnung; Ausschluss wegen persönlicher Beteiligung
+- TOP 6.9.: Antrag auf Erlaubnis der Nutzung des Flurstückes 1611/2 an der Kastelburgstr. 2 für Zirkus Baldoni vom 15.-18.09.05
+- TOP 6.10.: Behindertengerechter Ausbau der Haltestelle Mainaustraße für die Buslinie 161 Richtung Heitmeiersiedlung; Anhörung der MVG vom 18.08.05
+- TOP 6.11.: Veranstaltung an der Ziegeleistr. , 4. Lochhausener Weidefleischfest
+- TOP 6.12.: Gemeinde Karlsfeld, Bebauungsplan Nr. 90 a
+- TOP 6.13.: Planfeststellung nach § 18 Abs. 1 AEG, 2. S-Bahn-Stammstrecke München; Planfeststellungsabschnitt 3 München Ost - Bereich Isar bis Ostbahnhof/Leuchtenbergring
+- TOP 6.14.: Verkehrsplan im Münchner Westen
+- TOP 7: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Mobilfunk, Suchkreismeldung Aubing-Ost, Lochhausen
+- TOP 7.2.: Verkehrsrechtliche Anordnung, Schulbushaltestelle Ravensburger Ring; Verlegung von der Nord- auf die Ostseite der Schule; Schr. des KVR vom 20.07.05
+- TOP 7.3.: Baufälle im 22. Stadtbezirk (v. 18.-24.07.05, v. 25.-31.07.05, v. 08.-14.08.05, v. 15.-21.08.05, v. 22.-28.08.05)
+- TOP 7.4.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Ducale", Bodenseestr. 228; Schr. des KVR vom 20.07.05
+- TOP 7.5.: Plangenehmigung nach § 18 Abs. 2 AEG; Regenwasserversickerung der Dach- und Straßenflächen der Werkstatt Pasing; An der Bergsonstraße: Schr. des Planungsreferates vom 22.07.05
+- TOP 7.6.: Verkehrsrechtliche Anordnung, Beschilderung Bergsonstr./neu zwischen Bergsonstr./alt und Berglwiesenstr.
+- TOP 7.7.: Zusammenarbeit mit den Bezirksausschüssen, Informationsaustausch; Schr. des Sozialreferates vom 28.07.05
+- TOP 7.8.: Unterrichtung über das Fällen von Gefahrenbäumen; Schr. des Baureferates vom 21.07.05 und 22.08.05
+- TOP 7.9.: Budgetmittel des BA 22, Rückzahlung des Zuschusses für Renovierung des Kriegerdenkmals; Schr. des Direktoriums vom 01.08.05
+- TOP 7.10.: Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten, Protokoll des Meinungsaustausches; Schr. des Direktoriums vom 04.08.05
+- TOP 7.11.: Informationsveranstaltung für die Bezirksausschüsse; Schr. des KVR vom 09.08.05
+- TOP 7.12.: Mitteilung der Termine 2006 "Das Schulreferat trifft die Bezirksausschüsse"
+- TOP 7.13.: Neues Filial-Format der Deutschen Post; Schr. Ref. f. Arbeit und Wirtschaft vom 03.08.05
+- TOP 7.14.: Unterrichtung über das Fällen von Gefahrenbäumen; - Mariabrunnerstr. 47
+- TOP 7.15.: Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage, Erdenbörse und Erdenwerk am Standort Goteboldstr. 100
+- TOP 7.16.: Schließung und Rückbau des Notquartiers für Wohnungslose Bodenseestr. 317, Schr. Sozialreferat vom 22.08.05
+- TOP 7.17.: Mobilfunk, Suchkreismeldung Radolfzeller Straße, Schr. Referat für Gesundheit und Umwelt vom 25.08.05
+- TOP 7.18.: Planfeststellung nach § 18 Abs. 1 AEG, 2. S-Bahn-Stammstrecke München; Planfeststellungsabschnitt 2 München-Mitte - Bereich Westseite Karlsplatz bis westliches Isarufer mit Bahnhof Marienhof einschl. Rettungswege und brandschutztechnische Einrichtungen, Schr. des Planungsreferates vom 29.08.05
+- TOP 7.19.: Plangenehmigung nach § 18 Abs. 2 AEG; ESTW München Südwest; Strecke 5541 München Pasing - Herrsching, Kabeltrasse; Schr. des Planungsreferates vom 01.09.05
+- TOP 8: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Anordnung eines "verschärften" Haltverbotes an der Einmündung Bodensee-/Wiesentfelser Straße; Schr. des KVR vom 18.07.05 zum BA-Antrag Nr. 304 vom 18.05.05
+- TOP 8.2.: Absenkung der Bodenseestraße in Höhe der Wiesentfelser Straße; Schr. des Baureferates vom 19.07.05 zum BA-Antrag Nr. 245 vom 20.04.05
+- TOP 8.3.: Neuer Kinderspielplatz zwischen Mariabrunner- und Hohenesterstraße; Schr. des Baureferates vom 15.07.05
+- TOP 8.4.: Fußgängerüberweg in der Altostraße zwischen Aubing-Ost-Straße und Fabrikstraße, Auswirkungen auf den Verkehrsfluss in der Altostraße; Schr. des KVR vom 25.07.05 zum BA-Antrag Nr. 302 vom 18.05.05
+- TOP 8.5.: Tempo 30 km/h in der Henschelstraße zwischen Federsee- und Schrimpfstraße; Schr. OB vom 21.07.05 zur BV-Empfehlung Nr. 40 vom 08.12.04
+- TOP 8.6.: Antrag auf Budgetmittel des BA 22, hier: Verwendung für eigene Veranstaltungen, "Feierlichkeiten 40 Jahre Westkreuz"; Schr. Direktorium vom 09.08.05
+- TOP 8.7.: Bürgerbeteiligungsverfahren "Städtebauliches Entwicklungsgebiet am Aubinger Bahnhof", Antrag auf Förderung im Rahmen des Förderprogramms "Bürgerinnen und Bürger gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln; Schr. Planungsreferat vom 10.08.05
+- TOP 8.8.: 30 km/h in der Eichenauer Stra0e auf der Unterführung A 99 zwischen Imkerweg und Wildenrother Straße; Schr. des KVR vom 09.08.05 zum BA-Antrag Nr. 301 vom 18.05.05
+- TOP 8.9.: Feldwege im westlichen 22. Stadtbezirk; Schr. des Baureferates vom 19.08.05 zum BA-Antrag Nr. 378 vom 20.06.05
+- TOP 8.10.: Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage, Erdenbörse und Erdenwerk durch das Konsortium Bilfinger/Berger-Schernthaner GmbH am Standort Goteboldstr. 100, Schr. des Referates für Gesundheit und Umwelt vom 29.08.05
+- TOP 9: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Vollversammlung vom 27.07.05 - Perspektive München - PM Analysen - Fortschreibung, Konzept für das Busparken in München
+- TOP 9.2.: Gesundheitsausschuss vom 21.07.05 - Satzung zur Änderung der Satzung über die Bestattungseinrichtungen der LHM (Friedhofssatzung) - Fortschreibung des Konzepts zur Friedhofsplanung; geplante Erweiterung der Friedhöfe Aubing, Daglfing Feldmoching und Waldfriedhof Solln
+- TOP 9.3.: Kulturausschuss vom 21.07.05 - Kultur im Stadtquartier - Umwandlung eines Erwachsenenbusses der Fahrbibliotheken in einen Juniorbus
+- TOP 9.4.: Auschuss für Stadtplanung und Bauordnung vom 20.07.05 - Fortschreibung, Konzept für das Busparken in München
+- TOP 9.5.: Vollversammlung vom 27.07.05 - Fortschreibung des Konzepts zur Friedhofsplanung; geplante Erweiterung der Friedhöfe Aubing, Daglfing, Feldmoching und Waldfriedhof Solln - Konezept zur pflegerischen Versorgung älterer Menschen in München
+- TOP 9.6.: Verwaltungs- und Personalausschuss als Feriensenat vom 24.08.05 - 2. S-Bahn-Stammstrecke München
+- TOP 10: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 19.10.2005
