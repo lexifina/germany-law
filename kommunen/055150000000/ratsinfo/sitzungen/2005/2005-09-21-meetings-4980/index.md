@@ -1,0 +1,72 @@
+# 6. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-09-21T17:07:00+02:00
+- Ende: 2005-09-21T22:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/4980
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/4980
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00221698.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der SPD- Fraktion an den Rat Nr. A-R/0009/2005 vom 08.03.2005 - einstimmig beschlossen
+- TOP 2.2: Antrag der Fraktion Bündnis 90/Die Grünen/GAL Nr.: A-R/0031/2005 "Brückenkonzept für Münster" - mehrheitlich beschlossen
+- TOP 2.3: Antrag der SPD-Fraktion an den Rat Nr. 0002/2005 vom 31.01.2005 "Kompetenzzentrum Begabtenförderung - mehrheitlich beschlossen
+- TOP 2.4: Antrag der CDU-Fraktion an den Rat Nr. AR/0036/2004 vom 02.12.2004 "Offene Ganztagsschule - andere - einstimmig beschlossen
+- TOP 2.5: Antrag der CDU-Fraktion im Rat Nr. A-R/0035/2004 "Die beste Schulform wählen - Elterninformation übe - einstimmig beschlossen
+- TOP 2.6: Antrag der Fraktionsgemeinschaft UWG/oedp - mehrheitlich beschlossen
+- TOP 3: Förderung von Stadterneuerungsprojekten - Festlegung der Prioritäten - mehrheitlich beschlossen
+- TOP 4: Eintragung in die Denkmalliste und Erhaltung des Gasometers am Albersloher Weg - einstimmig geändert beschlossen
+- TOP 5: Kommunale Sportanlage Wienburgstraße - einstimmig beschlossen
+- TOP 6: Optimierung der Verpflegungsangebote in den weiterführenden Schulen der Stadt Münster - einstimmig beschlossen
+- TOP 7: Jugendparlament für Münster - einstimmig beschlossen
+- TOP 8: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen im Rahmen der Projektförderung 2005- - einstimmig beschlossen
+- TOP -: Berichtsvorlagen an den Hauptausschuss
+- TOP 9: Geschäftsbericht des Amtes für Kinder, Jugendliche und Familien für das Jahr 2004 - zur Kenntnis genommen
+- TOP 10: Handlungsempfehlungen - Menschen mit Hörbehinderun - zur Kenntnis genommen
+- TOP -: Berichtsvorlagen an den Rat
+- TOP 11: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 2. Vierteljahr - zur Kenntnis genommen
+- TOP 12: Sanierung Fassade/Außenhülle Stadthaus 1 - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 13: Sanierung Stadthaus 1 - einstimmig beschlossen
+- TOP 14: Satzung über die Wochenmärkte in der Stadt Münster - einstimmig beschlossen
+- TOP 15: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen aus Anlass der Veranstaltung - einstimmig beschlossen
+- TOP 16: Leitlinie zur Genehmigungspraxis bei der Freigabe von Verkaufssonntagen nach dem Ladenschlussgesetz - einstimmig beschlossen
+- TOP 17: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2004 - einstimmig beschlossen
+- TOP 18: Gründung der Stadtwerke Münster Netzgesellschaft mbH durch die Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 19: Handlungsprogramm Wohnen - Fortschreibung 2005 - ohne Beschlussfassung geschoben
+- TOP 20: 2. Nahverkehrsplan Stadt Münster - einstimmig beschlossen
+- TOP 21: Zustimmung zum Bau einer mobilen Parkpalette am Parkplatz Georgskommende - ohne Beschlussfassung geschoben
+- TOP 22: 1. Aufhebung des Sperrvermerkes bei der HHSt. 5640.960.1290.9 "Baukosten Sanierung Sportanlage - ohne Beschlussfassung geschoben
+- TOP 23: Übernahme des Eigenanteils für Lernmittel im Schuljahr 2005/2006 für ALG-II-Empfänger - einstimmig beschlossen
+- TOP 24: Trägerübergreifendes Forum zur Koordinierung und Bündelung der Angebote im Kinder-, Jugend-, Familie - ohne Beschlussfassung geschoben
+- TOP 25: Maßnahmen zur Qualifizierung und Flexibilisierung der Tagesbetreuung für Kinder - einstimmig beschlossen
+- TOP 26: Pflegeplanung: Verfahren, Umsetzung, Empfehlungen - einstimmig beschlossen
+- TOP 27: "Wohnsiedlung Osthuesheide" Sanierungssatzung gemäß § 142 Baugesetzbuch (BauGB) - einstimmig beschlossen
+- TOP 28: European Energy Award - Energiepolitisches Arbeitsprogramm - einstimmig beschlossen
+- TOP 29: Besetzung des Landschaftsbeirates bei der Stadt Münster als untere Landschaftsbehörde - einstimmig geändert beschlossen
+- TOP 30: Entsendung eines Vertreters der Jagdgenossenschaften in den Jagdbeirat bei der Stadt Münster - einstimmig beschlossen
+- TOP 31: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt Münster - einstimmig beschlossen
+- TOP 32: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 33: Bauleitplanung
+- TOP 33.1: Stadtbezirk Mitte
+- TOP 33.1.1: 1. Verlängerung der Veränderungssperre Nr. 94 für den Bereich Metzer Straße - mehrheitlich beschlossen
+- TOP 33.1.2: Vorhabenbezogener Bebauungsplan Nr. 501- Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 33.1.3: 12. Änderung des Flächennutzungsplanes für den Bereich Aasee - Terrassen - ohne Beschlussfassung geschoben
+- TOP 33.1.4: Vorhabenbezogener Bebauungsplan Nr. 493: Aasee - Terrasse (Satzungsbeschluss) - ohne Beschlussfassung geschoben
+- TOP 33.2: Stadtbezirk Südost
+- TOP 33.2.1: 13. Änderung des fortgeschriebenen Flächennutzungsplanes - einstimmig beschlossen
+- TOP 33.2.2: Bebauungsplan Nr. 495: Angelmodde - Werse / Uferstraße - einstimmig beschlossen
+- TOP 33.2.3: 6. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 33.2.4: Bebauungsplan Nr. 463 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 33.3: Stadtbezirk Ost
+- TOP 33.3.1: Vorhabenbezogener Bebauungsplan Nr. 500 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 33.3.2: Bebauungsplan Nr. 448: Handorf - Stapelskotten / Laerer Werseufer - mehrheitlich beschlossen
+- TOP 34: Verschiedenes
