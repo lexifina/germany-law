@@ -1,0 +1,7 @@
+# TOP 8.1: Jahresabschluss 2003 des Gebäudemanagements Wuppertal (GMW)
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Hauptausschusses (2005-09-21)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/22489
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/10992
