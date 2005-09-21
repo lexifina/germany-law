@@ -1,0 +1,77 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2005-09-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/593278
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/593278
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Berichte aus dem Stadtrat
+- TOP 3: Berichte der Polizei
+- TOP 4: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Zusammenarbeit mit den Bezirksausschüssen, Informationsaustausch; Veranstaltung des Sozialreferates im Herbst 2005
+- TOP 4.2.: Neues Filial-Format der Deutschen Post; Schreiben der Deutschen Post AG
+- TOP 4.3.: Einladung des Behindertenbeauftragten der Landeshauptstadt München
+- TOP 4.4.: Verkauf einer städtischen Immobilie (Erweiterung Einzelhandelzentrum Nordheide), Vorabzustimmung
+- TOP 4.1.: Vollzug der Baumschutzverordnung, Vorabzustimmungen: a) Wachterstr. 27 b) Morsering 2-6, Rockefellerstr. 70
+- TOP 4.2.: Errichtung eines Radfahrweges entlang der Neuherbergstraße Nordseite (Antrag Nr. 02-08 / B 00296 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 11.05.2005), Antwortschreiben des Baureferates
+- TOP 4.1.: Veranstaltung auf öffentlichem Verkehrsgrund, Vorabzustimmungen: a) Flohmarkt auf dem Milbertshofener Platz am 17.09.2005 b) Flohmarkt auf dem Milbertshofener Platz am 08.10.2005 c) Medien-Marathon 2005 am 09.10.2005
+- TOP 4.2.: Halteverbot an der Einfahrt zum Helenen-Mayer-Ring / Ecke U-Bahnhof Olympiazentrum auf etwa 30m Länge (Antrag Nr. 02-08 / B 00292 des Bezirksausschusses des Stadtbezirkes 11 Milbertshofen - Am Hart vom 17.05.2005); Antwortschreiben des Kreisverwaltungsreferates
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Verein Stadtteilarbeit e.V., Zirkusprojekt Milbertini vom 01.-06.08.2005
+- TOP 6.2.: Versand von Vereinssatzungen mit den BA-Vorlagen Budget; Anfrage des Direktoriums
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.1.: Änderung der Parksituation im Münchener Norden oder bessere Überwachung (Empfehlung Nr. 80 der Bürgerversammlung des 11. Stadtbezirkes, Bezirksteil Milbertshofen am 02.12.2004)
+- TOP 6.2.: Information der Anwohner über den Zeitplan für die Gestaltung der Diagonale mit den Westentaschenparks im Neubaugebiet an der Nordheide (Empfehlung Nr. 02-08 / E 00146 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen - Am Hart am 30.06.2005)
+- TOP 6.3.: Errichtung eines Spielplatzes, Bolzplatzes und Basketballplatzes auf der Nordseite des Neubaugebietes an der Nordheide (Empfehlung Nr. 02-08 / E 00135 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart am 30.06.2005)
+- TOP 7: Anträge
+- TOP 7.1.: Kostenbescheide der Stadt München für Straßen-Beschilderung zum "Siedler-Straßenfest" am 16.07.2005 (Siedlergemeinschaft Kaltherberge München)
+- TOP 7.1.: Lärmbelästigung bei Veranstaltungen im Olympiapark (SPD-Fraktion im BA 11)
+- TOP 7.2.: Schallimmission des Olympiadorfes durch Veranstaltungen im Olympiapark (Dipl. -Arch. Wilhelm Steinel)
+- TOP 7.3.: Neugestaltung der Panzerwiese (Mieterverein Bundeseigene Wohnanlage München Nord e.V.)
+- TOP 7.1.: Haltemöglichkeit zur Anlieferung bzw. dem Ein- und Aussteigen vor dem ASZ Milbertshofen (Alten- und Service Zentrum Milbertshofen)
+- TOP 8: Anhörungen
+- TOP 8.1.: Fahrtkostenübernahme für behinderte BA - Mitglieder (Antrag Nr. 2552 des Bezirksausschusses 9 Neuhausen-Nymphenburg vom 16.11.2005)
+- TOP 8.2.: Änderung der BA - Geschäftsordnung; Ausschluss wegen persönlicher Beteiligung
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Baumaßnahmen: a) Moosacher Str. 80, Neubau der Westpforte
+- TOP 8.2.: Anhörung im Einzelfall auf Anforderung: a) Moosacher Str. 9 b) Moosacher Str. 7 c) Riesenfeldstr. 77
+- TOP 8.3.: Anhörung gemäß §3 der Satzung für die Bezirksausschüsse, hier Moosacher Straße (Wiederherstellung zwischen Lerchenauer Straße und Landshuter Allee)
+- TOP 8.4.: Künftige Entwicklung der Fröttmaninger Heide, Entwurf der Beschlussvorlage des Planungsreferates
+- TOP 8.5.: Zukunftssicherung des Olympiageländes, Stadtentwicklungsplanerische Rahmenbedingungen und Ziele (Beschlussvorlage des Referates für Stadtplanung und Bauordnung)
+- TOP 8.1.: Anhörung gemäß §3 der Satzung für die Bezirksausschüsse, hier Hufelandstraße (Anpassung Zufahrt BMW-Parkhaus)
+- TOP 9: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendung aus dem Budget der Bezirksausschüsse: a) Abrechnung des Projekts "Unsere Stadt - Unsere Straßen" b) Diakonie Hasenbergl e.V., "Angerfest Neue Nordheide", Bewilligung 2.550,00¿ c) Kulturverein Olympiadorf e.V., "Sommerfest 08.-10.07.2005", Bewilligung 2.445,00¿ d) Stadtteilarbeit e.V., "Internationales Stadtteilfest am 25.06.2005", Bewilligung 2.470,00¿
+- TOP 9.2.: Mobilfunk Informationen
+- TOP 9.3.: Veranstaltungen/Veränderungen im Olympiapark; Beteiligung der benachbarten Bezirksausschüsse; Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 9.4.: Novellierung des Gaststättengesetzes, Pressemitteilung
+- TOP 9.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005, BPlan mit Grünordnung Nr. 1592b, Frankfurter Ring, Schleißheimer Straße (östlich), DB-Nordring und Knorrstraße)
+- TOP 9.2.: Baubeginnsanzeigen Mobilfunksendeanlagen a) Moosacher Straße b) Helene-Mayer-Ring
+- TOP 9.3.: Vorkaufsrecht nach dem BauBG, - nicht öffentlich -
+- TOP 9.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2005, Satzung zur Teiländerung und Ergänzung des BPlanes mit Grünordnung Nr. 1505a Bereich Maria-Probst-Straße (nördlich) und Ingolstädter Straße (östlich)
+- TOP 9.5.: Beschluss der Vollversammlung des Stadtrates vom 27.07.2005, Perspektive München - PM Analysen (Neufassung vom 20.07.2005)
+- TOP 9.6.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 9.7.: Mobilfunk; Suchkreismeldung Milbertshofen-Süd
+- TOP 9.8.: Meldelisten Bauvorhaben
+- TOP 9.1.: Sachstand Mittelpunktsbibliotheken
+- TOP 9.2.: Bedeutung der offenen Kinder- und Jugendarbeit in München, Schreiben des Kreisjugendring München Stadt
+- TOP 9.3.: Kulturelle Veranstaltungen und Programme, Info des Kulturreferates
+- TOP 9.4.: Unveränderte Fortführung von Gaststättenbetrieben: a) "Zum Kurtl", Oberhofer Platz 4 b) "Cafe International", Schleißheimer Straße 303 c) "Bistro U2", Knorrstr. 89 d) "Tan Nam Haus", Keferloherstr. 101c e) "Konstanzer Stüberl", Konstanzer Str. 36
+- TOP 9.1.: Verkehrsrechtliche Anordnung nach §45 StVO, Errichtung eines absoluten Haltverbotes a) Schleißheimer Straße (Nebenfahrbahn) zwischen Weyprecht- und Neuherbergstraße b) Preußenstraße, Erweiterung des Halteverbotes c) Milbertshofener Straße, Aufhebung eines Sonderparkplatzes
+- TOP 10: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
