@@ -1,0 +1,70 @@
+# 42. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2005-09-22T16:15:00+02:00
+- Ende: 2005-09-22T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=602
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=602
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Personelles/Wahlen - gegenstandslos
+- TOP 8: Vertagte Tagesordnungspunkte - gegenstandslos
+- TOP 8.1: Übernahme der Gesamtverantwortung für Hartz IV - beantwortet
+- TOP 8.2: Schuldner- und Insolvenzberatung (SIB) im Bezirk, Mittel für 2005 bis 2007 - beantwortet
+- TOP 9: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 10: Vorlagen zur Beschlussfassung - gegenstandslos
+- TOP 10.1: - Entwurf des Bebauungsplans XV-27a nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-27a im Bezirk Treptow-Köpenick, Ortsteil Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 10.2: Genehmigung der im Haushaltsjahr 2004 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, PVFinWi)</span> - überwiesen
+- TOP 10.3: - Errichtung des gemeinsamen Eigenbetriebes der Bezirke Treptow-Köpenick und Neukölln "Kindertagesstätten SüdOst" - Zustimmung zur Betriebssatzung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, JugSport)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: - Entwurf des Bebauungsplans XV-25 nebst Begründung - Entwurf der Rechtsverordnung über die Festsetzung zum Bebauungsplan XV-25 im Bezirk Treptow-Köpenick, Ortsteil Altglienicke <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 10.5: Bezirkshaushaltsrechnung 2004 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, PVFinWi)</span> - überwiesen
+- TOP 10.6: Sondermittel für Haven of Peace (SM 545) - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Sondermittel für Ausbildungsverbund Praxisnah e.V. (SM 551) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Sondermittel für Alte Möbelfabrik e.V. (SM 554) - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Sondermittel für Blau-Gelb Köpenick e.V. (SM 556) - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 11.1: Entwurf des Bezirkshaushaltsplanes Treptow-Köpenick für die Haushaltsjahre 2006 und 2007 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Veranstaltung zu den Vorwürfen gegen Salvador Allende - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Veränderungen des Jugendhilfebedarfs - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Konkretisierung und Fortschreibung der Sanierungsziele für das Sanierungsgebiet Oberschöneweide im Block 56, Grundstück Wilhelminenhofstraße 68/69; An der Slabystraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Bebauungsplan XV-31 hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Vorhabenbezogener Bebauungsplan 9-25 VE, Ortsteil Oberschöneweide hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: - Entwurf des Bebauungsplans XVI-58 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XVI-58 für das Gelände zwischen Fürstenwalder Allee, Fahlenbergstraße, Straße 522, Biberpelzstraße und Lagunenweg sowie für die Fahlenbergstraße zwischen Fürstenwalder Allee und Straße 522, die Straße 522, die Biberpelzstraße zwischen Straße 522 und Lagunenweg und für den Lagunenweg im Bezirk Treptow-Köpenick, Ortsteil Rahnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Bebauungsplanentwurf XVI-58 im Bezirk Treptow-Köpenick, Ortsteil Rahnsdorf hier: Planreife für das WA 5C - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Steueraufkommen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 12.1: Bebauungsplan XVI-15 hier: Auswertung der Beteiligung der Träger öffentlicher Belange <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 12.2: Bebauungsplan XVI-16 hier: Einstellung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 12.3: Benennung der Straße 549 in Rahnsdorf, zwischen Straße 538 und der Privatstraße 546 liegend, in" Blumeslake" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.4: Benennung von 3 Verbindungswegen in den Ortsteilen Köpenick und Friedrichshagen in "Kienappelweg", "Waldnesselweg", "Grillenweg" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.5: Bebauungsplanentwurf XVI-17, Ortsteil Köpenick hier: Inhaltliche Planänderungen / Ergänzungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 12.6: Bebauungsplanentwurf XV-23, Ortsteil Altglienicke hier: - Auswertung der erneuten Beteiligung der Träger öffentlicher Belange (TÖB) - Inhaltliche Planänderungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 12.7: Bebauungsplan XVI-24 hier: Inhaltliche Planänderungen / Ergänzungen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 12.8: Nutzung des Schlosshofs im Rahmen des mit der Stiftung Preußischer Kulturbesitz geschlossenen Vertrages vom 05.04.04 nach § 6 für das Jahr 2006 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, PVFinWi)</span> - überwiesen
+- TOP 12.9: Bebauungsplanes 9-5 hier: Einstellung des Planaufstellungsverfahrens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 12.10: Bebauungsplan XV-12-1 hier: - Reduzierung des Geltungsbereiches <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 13: Anträge - gegenstandslos
+- TOP 13.1: Hochschule für Schauspielkunst "Ernst Busch" - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Modellpark in der Wuhlheide - überwiesen
+- TOP 13.3: Kita Schmöckwitz - in der BVV zurückgezogen
+- TOP 13.4: Hundekotfreie Altstadt <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bärbel König Verfasser 2: Stefan Förster)</span> - überwiesen
+- TOP 13.5: Umsetzung einer gesundheitsfördernden Politik im Bezirk <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Monika Brännström)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Restaurierung des BVV-Saales im Rathaus Treptow <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Tom Schreiber)</span> - überwiesen
+- TOP 13.7: Umwandlung der Fußgängerzone in einen verkehrsberuhigten Bereich <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bärbel König Verfasser 2: Stefan Förster)</span> - in der BVV abgelehnt
+- TOP 13.8: Lehr- und Lernmittel 2006/2007 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Oliver Igel)</span> - vertagt
+- TOP 13.9: Standortkonferenz für SAMSUNG <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Petra Reichardt)</span> - mit Änderungen in der BVV beschlossen
+- TOP 14: Große Anfragen - gegenstandslos
+- TOP 14.1: Koordinierung von Straßenbaumaßnahmen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Udo Franzke Verfasser 2: Dr. Johanna Hambach Verfasser 3: Peter Leiß)</span> - beantwortet
+- TOP 14.2: AV Wohnen / Mietspiegel <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Constance S. Pewestorff)</span> - vertagt
