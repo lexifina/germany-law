@@ -1,0 +1,132 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2005-09-26T16:05:00+02:00
+- Ende: 2005-09-26T19:16:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3537
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3537
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00056541.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00056879.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00056609.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Kündigung der Mitgliedschaft im Kommunalen Arbeitgeberverband - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Anfrage der Fraktion der LINKSPARTEI.PDS vom 23.08.2005 - abschließend zur Kenntnis genommen
+- TOP 2.2: Beschaffung von Schulbüchern und damit zusammenhängende Ausschreibungen - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Beschaffung von Schulbüchern und damit zusammenhängende Ausschreibungen - abschließend zur Kenntnis genommen
+- TOP 2.3: Kurbad Barmen - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Anfrage der Fraktion DIE LINKSPARTEI.PDS vom 02.09.2005 zum Kurbad Barmen - abschließend zur Kenntnis genommen
+- TOP 2.4: Umgang mit asbesthaltigen Stoffen - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Umgang mit asbesthaltigen Stoffen - abschließend zur Kenntnis genommen
+- TOP 2.5: Stand der Arbeit am regionalen Einzelhandelskonzept - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Regionales Einzelhandelskonzept Hier Anfrage der FDP- Fraktion vom 06.09.05/ VO 1116/05 - abschließend zur Kenntnis genommen
+- TOP 2.6: Auswirkungen der gestiegenen Benzinkosten - abschließend zur Kenntnis genommen
+- TOP 2.6.1: Anfrage der CDU-Fraktion vom 09.09.2005 - Auswirkungen der gestiegenen Benzinkosten - abschließend zur Kenntnis genommen
+- TOP 2.7: Kinder von Arbeitslosengeld-II-Empfängern: Versorgung mit Schulbüchern - abschließend zur Kenntnis genommen
+- TOP 2.7.1: Beantwortung der Anfrage der SPD-Ratsfraktion - abschließend zur Kenntnis genommen
+- TOP 2.8: Härtefallregelungen Lernmittelfreiheit - abschließend zur Kenntnis genommen
+- TOP 2.8.1: Beantwortung der Anfrage der Ratsfraktion der LINKSPARTEI.PDS - abschließend zur Kenntnis genommen
+- TOP 2.9: Sonderbauwerke für den Entlastungssammler Wupper und Rückhaltebecken vor Gewässereinleitungen - zur Entscheidung verwiesen
+- TOP 2.10: Rekonstruktion der noch vorhandenen alten Schwebebahnstationen - abschließend zur Kenntnis genommen
+- TOP 2.10.1: Rekonstruktion der noch vorhandenen alten Schwebebahnstationen - abschließend zur Kenntnis genommen
+- TOP 2.11: Familienzentren in NRW - abschließend zur Kenntnis genommen
+- TOP 2.11.1: Familienzentren in NRW - VO/1166/05 - abschließend zur Kenntnis genommen
+- TOP 2.12: Helios-Klinikum Wuppertal - Bestimmungen des Konsortialvertrages - abschließend zur Kenntnis genommen
+- TOP 2.12.1: Anfrage der SPD-Fraktion vom 26.07.2005 - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bunker Platz der Republik
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Feinstaubwerte - in der Sache erledigt
+- TOP 4.1.1: Maßnahmen gegen Feinstaubbelastung/zur Luftreinhaltung - in der Sache erledigt
+- TOP 4.1.2: Feinstaub. Das Übel an der Wurzel packen! - in der Sache erledigt
+- TOP 4.1.3: Verkehrskonzept - in der Sache erledigt
+- TOP 4.2: Optimierung der Verwaltungsabläufe im Rahmen der Gewerbeanmeldung - in der Sache erledigt
+- TOP 4.2.1: Optimierung der Verwaltungsabläufe im Rahmen der Gewerbeanmeldung - in der Sache erledigt
+- TOP 4.3: Ausschilderung Zoo im Stadtgebiet Wuppertal - Zusatz "Universitätsstadt" Wuppertal - teilweise beschlossen
+- TOP 4.3.1: Ergänzungsantrag zu VO/0917/05 der CDU-Fraktion - zur Vorberatung verwiesen
+- TOP 4.4: Kündigungen in den Helios-Kliniken GmbH Wuppertal - vertagen
+- TOP 4.5: Wiedererrichtung einer Traglufthalle über dem Freibad Neuenhof - in der Sache erledigt
+- TOP 4.6: Solarstromanlage für die Schwimmoper - in der Sache erledigt
+- TOP 4.6.1: Solarstromanlage für die Schwimmoper - ungeändert beschlossen
+- TOP 4.7: Antrag der BV Barmen - Grundschule Haselrain Erweiterung und Schulwegsicherheit - ungeändert beschlossen
+- TOP 4.8: Faires Beschaffungswesen in der Stadt Wuppertal - in der Sache erledigt
+- TOP 4.8.1: Faires Beschaffungswesen - Entgegennahme ohne Beschluss
+- TOP 4.8.2: Beschaffungswesen ohne Produkte aus ausbeuterischer Kinderarbeit - in der Sache erledigt
+- TOP 4.9: Photovoltaikanlagen auf städtischen Gebäuden - Entgegennahme ohne Beschluss
+- TOP 4.9.1: Solarkollektoren auf städtischen Gebäuden - Entgegennahme ohne Beschluss
+- TOP 4.10: Straßen-Umbenennung/ Spinnstraße in Kurt Drees Straße - ungeändert beschlossen
+- TOP 4.11: Keine Abschaffung der Gewerbesteuer - geändert beschlossen
+- TOP 4.11.1: Gewerbesteuer abschaffen und Gemeindefinanzreform umsetzen - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.12: Resolution: "Grundschulbezirke beibehalten" - zur Vorberatung verwiesen
+- TOP 4.13: Straßensatzung - von der Tagesordnung gesetzt
+- TOP 4.14: Baumschutzsatzung - von der Tagesordnung gesetzt
+- TOP 4.15: Familienfreundlichkeitsprüfung - von der Tagesordnung gesetzt
+- TOP 4.16: Öffentlicher Haushalt - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.16.1: Änderungsantrag zu VO/1122/05 "öffentlicher Haushalt" - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.16.2: Öffentlicher Haushalt, Tagesordnungspunkte 4.16 und 4.16.1 - geändert beschlossen
+- TOP 4.17: Umbenennung der Gleichstellungsstelle für Frauenfragen - ungeändert beschlossen
+- TOP 4.18: Lernmittelfreiheit - zur Vorberatung verwiesen
+- TOP 4.19: Erhalt der Schulbezirksgrenzen - zur Vorberatung verwiesen
+- TOP 4.19.1: Grundschulbezirke abschaffen, Elternwahlrecht ermöglichen, Schulen stärken - zur Vorberatung verwiesen
+- TOP 4.19.2: Grundschulbezirke erhalten - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Bunker Platz der Republik - Entgegennahme ohne Beschluss
+- TOP 5.1.1: Bunker Platz der Republik - geändert beschlossen
+- TOP 5.1.2: Ergänzungsantrag zu VO/0674/05 "Bunker Platz der Republik" - abgelehnt
+- TOP 5.1.3: Bunker Platz der Republik - Antrag des Stv. Müller vom 31.08.05 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.1.4: Bunker Platz der Republik - zurückgestellt
+- TOP 5.2: Fuhlrott-Museum - ungeändert beschlossen
+- TOP 5.3: Soziale und ökologische Geldanlage bei Oikocredit - von der Tagesordnung gesetzt
+- TOP 5.4: Aufhebung der Verordnung über die Regelung der Öffnungszeiten von Außengastronomiebereichen in der S - von der Tagesordnung gesetzt
+- TOP 5.4.1: Änderungsantrag zu VO/0871/05 "Aufhebung der Verordnung über die Regelung der Öffnungszeiten von Auß - von der Tagesordnung gesetzt
+- TOP 5.5: Einführung eines Handyparksystems - zur Vorberatung verwiesen
+- TOP 5.5.1: Einführung eines Handyparksystems - zur Vorberatung verwiesen
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der Betriebssatzung für den Eigenbetrieb Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 6.2: Sanierungssatzung Freiraumprogramm Talachse - ungeändert beschlossen
+- TOP 6.3: Änderung der Stellplatz-Ablösungs-Satzung - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Fußgängerüberweg Höhne (Alter Markt) - ungeändert beschlossen
+- TOP 7.2: Restausbau Holunderweg - Genehmigung einer überplanmäßigen Ausgabe - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2003 des Gebäudemanagements Wuppertal (GMW) - von der Tagesordnung gesetzt
+- TOP 8.2: Änderung der Betriebssatzung der Kinder- und Jugenwohngruppen (KIJU) - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2004 für die Alten- und Altenpflegeheime der Stadt Wuppertal - Stationärer Bereich - ungeändert beschlossen
+- TOP 8.4: Veräußerung der Geschäftsanteile an der ekz GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 543 A - Clarenbachstraße - - ungeändert beschlossen
+- TOP 9.1.1: Bauleitplanverfahren Nr. 543 A - Clarenbachstraße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Erweiterung und Sanierung der Grundschule Mercklinghausstraße - ungeändert beschlossen
+- TOP 10.2: Gesamtsanierung des Opernhauses - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Fortschreibung des Wuppertaler Mietspiegels zum 01.01.2006 - Entgegennahme ohne Beschluss
+- TOP 11.2: Erweiterung des Zweckverbandes "Erholungsgebiet Ittertal" - ungeändert beschlossen
+- TOP 11.3: Annahme einer Schenkung - ungeändert beschlossen
+- TOP 11.4: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal; Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 11.4.1: Sachstandsbericht: Kooperationen im Bergischen Städtedreieck - in der Sache erledigt
+- TOP 11.5: Künftiges Bedienungskonzept auf der DB-Strecke 458 / Regionalbahn RB 47 in Verbindung mit der S 7 - ungeändert beschlossen
+- TOP 11.6: Regiobahnverlängerung von Mettmann-Stadtwald nach Wuppertal - ungeändert beschlossen
+- TOP 11.6.1: Antrag der Stadt Wuppertal auf Änderung des Regionalplanes der Bezirksregierung Düsseldorf im Bereic - ungeändert beschlossen
+- TOP 11.7: Neugestaltung Döppersberg - ungeändert beschlossen
+- TOP 11.7.1: Regionale 2006 Kulturachse Barmen- Sachstandsbericht - geändert beschlossen
+- TOP 11.7.2: Finanzierung der Projekte der Regionale 2006 - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Einrichtung und Besetzung einer Kommission Schule/Jugendhilfe - vertagen
+- TOP 12.1.1: Änderungsantrag zur Drs. VO/1068/05 - vertagen
+- TOP 12.2: Abberufung eines stellvertretenden sachkundigen Einwohners mit beratender Stimme und Bestellung eine - ungeändert beschlossen
+- TOP 12.3: Änderung der Bestellung der Mitglieder der Trägerversammlung der ARGE und ihrer Stellvertreter/innen - ungeändert beschlossen
+- TOP 12.4: Wahl eines neuen stellvertretenden Mitglieds für die Verbandsversammlung des Abfallwirtschaftsverban - geändert beschlossen
+- TOP 12.6: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.8: Gremienbesetzung / Benennung - von der Tagesordnung gesetzt
+- TOP 12.9: Umbesetzung im Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.10: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
