@@ -1,0 +1,78 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2005-09-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/592049
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/592049
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Geschwindigkeitsüberschreitungen in der Thorner Str.
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Quartierbezogene Bewohnerarbeit; Raumangebot / Trägerauswahl
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Parkplätze im Bereich Magdalena-Bräu-Weg TOP 2.3 des BA 10 am 25.07.05
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Neuer Vorstand des Seniorenbeirats
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Verkehrsregelung Pelkovenstraße (Anfrage)
+- TOP 4.2.: Bordsteinabsenkungen im Bereich Ohlauer Str., Rathgeberstr. etc.
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses; Münchner Aktionswerkstatt G'sundheit: Errichtung eines Balancierbalkens auf der Nanga-Parbat-Wiese
+- TOP 6: Anhörungen
+- TOP 6.1.: Zukunftssicherung des Olympiageländes; Stadtentwicklungsplanerische Rahmenbedingungen und Ziele
+- TOP 6.2.: Änderung der BA-Geschäftsordnung; Ausschluss wegen persönlicher Beteiligung
+- TOP 6.3.: S-Bahn-Stammstrecke München; Bereitstellungsflächen auf dem Rangierbahnhofgelände
+- TOP 6.4.: Abbruchantrag für das Baudenkmal Pelkovenstr. 80 in Moosach
+- TOP 6.5.: Errichtung von 6 Plakatanschlagtafeln; Riesstr. 50
+- TOP 6.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Mobilitätsmanagement für das Quartier Hanauer Str. / Riesstr. / Georg-Brauchle-Ring (abgelehnt)
+- TOP 7.2.: Freihaltung der Bürgersteige auf Höhe der Querungshilfe in der Riesstraße (abgelehnt)
+- TOP 7.3.: Hinweisschilder auf die öffentliche WC-Anlage am Bahnhof Moosach
+- TOP 7.4.: Pflege und Reinhaltung der Grünflächen Am Neubruch
+- TOP 7.5.: Konkrete Fragen zum Thema Feinstaubbelastung
+- TOP 7.6.: Feinstaubbelastung im 10. Stadtbezirk; Verbesserung der Informationen im Internet
+- TOP 7.7.: S-Bahn-Stammstrecke München; Bereitstellungsflächen auf dem Rangierbahnhofgelände (Anhörungsverfahren im Juli 2005; Stellungnahme der LH München; Stadtratsbeschluss)
+- TOP 7.8.: Absolutes Haltverbot in der Sickingerstraße vor Hausnummer 12
+- TOP 7.9.: Entschärfung der Parkraumnot in der Borstei
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Versand der Unterlagen für Budgetentscheidungsfälle per E-Mail (nicht möglich)
+- TOP 8.2.: Fahrtkostenübernahme für behinderte BA-Mitglieder
+- TOP 8.3.: Bebauungsplan mit Grünordnung Nr. 1941, Baubergerstraße (östlich), Netzerstr.(westlich) ; geänderter Beschluss
+- TOP 8.4.: Änderung des Flächennutzungsplanes, Memminger Platz, Untermenzinger Straße, Allacher Straße, Bahnlinie München-Regensburg (Meiller-Gelände);
+- TOP 8.5.: Freigabe des Radverkehrs entgegen der Einbahnrichtung in der Pirschstraße
+- TOP 8.6.: Änderung des bestehenden personenbezogenen Behindertenparkplatzes in der Treitschkestraße
+- TOP 8.7.: Anhörung der Bezirksausschüsse in stadtratspflichtigen Angelegenheiten (Protokoll des Meinungsaustausches mit den BA-Vorsitzenden)
+- TOP 8.8.: Neues Filial-Format der Deutschen Post
+- TOP 8.9.: Novellierung des Gaststättengesetzes (Pressemitteilung des KVR)
+- TOP 8.10.: Vollzug des Bayerischen Naturschutzgesetzes; Novellierung des Landschaftsschutzgebietes "Nymphenburger Park mit Umgriff einschließlich des Nymphenburger Kanals samt der Nördlichen und Südlichen Auffahrtsallee und des Grünwaldparks" (Ergänzung)
+- TOP 8.11.: Kultur im Stadtquartier
+- TOP 8.12.: Historischer Handwerkermarkt am 10. und 11.09.05 (Vorab-Zustimmung der Vorsitzenden aus Fristgründen)
+- TOP 8.13.: Unveränderte Fortführung eines Gaststättenbetriebes "Bistro-Bar Moosbichl", Rathgeberstr. 3
+- TOP 8.14.: Veranstaltungen / Veränderungen im Olympiapark; Beteiligung der benachbarten Bezirksausschüsse
+- TOP 8.15.: Vollzug der Baumschutzverordnung; Vorab-Stellungnahme der Vorsitzenden aus Fristgründen 1. Bauvorhaben Quedlinburger Str. 27 2. Andernacher Str. 48 3. Bauvorhaben Dachauer Str. 248 - 256
+- TOP 8.16.: Handlungsprogramm Mittlerer Ring; Wohnen am Ring
+- TOP 8.17.: Satzung zur Änderung der Satzung über die Bestattungseinrichtungen der Landeshauptstadt München (Friedhofsatzung)
+- TOP 8.18.: Fällung von Gefahrenbäumen
+- TOP 8.19.: Zweckentfremdung von Wohnraum; Ernst-Platz-Straße
+- TOP 8.20.: Mobilfunk; Suchkreismeldung
+- TOP 8.21.: Mobilfunk; Baubeginnsanzeige (nicht -öffentlich)
+- TOP 8.22.: Mobilfunk; Informationen (2 Broschüren)
+- TOP 8.23.: Meldeliste Bauvorhaben
+- TOP 8.24.: Umweltreport (Broschüre)
+- TOP 8.25.: Amtsblatt
+- TOP 8.26.: Münchner Jahreswirtschaftsbericht 2004 (Broschüre)
+- TOP 8.27.: Anderwerk (Broschüre)
+- TOP 4: Anträge
