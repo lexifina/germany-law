@@ -1,0 +1,54 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-09-27T17:00:00+02:00
+- Ende: 2005-09-27T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1623
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1623
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111888.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111888.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111888.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: B-Plan-Entwurf Nr. 6080/17 - Mühlenbergweg
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Morper
+- TOP 6: Heyestr.-Stichstraße
+- TOP 7: Verwendung von Haushaltsmitteln
+- TOP 8: Aktualisiertes Kreisverkehrsprogramm
+- TOP 9: Benennung von Straßen im Stadtbezirk 7
+- TOP 10: Haushalt 2006
+- TOP 11: Denkmalschutz Glashütte
+- TOP 12: Feinstaubbelastung Ludenberger Straße
+- TOP 13: Halteverbot Sulzbachstraße
+- TOP 14: Geschwindigkeitsübertretungen Bismarckweg
+- TOP 15: Ampelschaltung Kamper Weg / Glashüttenstraße
+- TOP 16: Industriedenkmäler Glashütte
+- TOP 17: Denkmalschutz Gerresheimer Bahnhof
+- TOP 18: Bericht des Oberbürgermeisters zur Glashütte
+- TOP 19: Jugend- und Kinderarbeit
+- TOP 20: Sportgelände Glashütte
+- TOP 21: Haus Plungscheuer in Hubbelrath
+- TOP 22: Wanderwege Plungscheuer
+- TOP 23: Tunnel zur Entlastung der Ludenberger Straße
+- TOP 24: Grundwasserpegel an der Glashütte
+- TOP 25: Kontamination der Glashütte
+- TOP 26: Fahrbahnsanierung der Kieselstraße
+- TOP 27: Bezirksbezogene Bauunterhaltungsmaßnahmen 2005
+- TOP 28: Hohlweg Schäpershof - Rotthäuser Bachtal
+- TOP 29: Verkauf von Hüttengelände an die Stadt Düsseldorf
+- TOP 30: Nutzung des brachen Hüttengeländes
+- TOP 31: Sauerhof in Hubbelrath
+- TOP 32: Scheune nahe Haus Plungscheuer
+- TOP 33: Radweg Knittkuhler Straße
+- TOP 34: Raumkonzept Gerresheimer Rathaus
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Sicherheit Marthastr. und Mühlenbergweg
+- TOP 37: Bergische Landstraße ARAL-Tankstelle
