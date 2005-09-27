@@ -1,0 +1,74 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2005-09-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/569680
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/569680
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.4: Ausläufe
+- TOP 1.5: Bürgerfragen
+- TOP 1.6: Berichte aus den Unterausschüssen
+- TOP 1.7: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Planfeststellung nach § 18 Abs. 1 Allg. Eisenbahngesetz (AEG) 2. S-Bahn-Stammstrecke München Planfeststellungsabschnitt 3 München-Ost Bereich Isar bis Ostbahnhof / Leuchtenbergring - Anhörungsverfahren -
+- TOP 3.2.: Taxistandplatz ggü. Friedenstraße 10; Verlegung der Wertstoffcontainer (Antrag Nr. 2709 des BA 14 vom 20.12.2004)
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Erweiterung der Grundschule an der Grafinger Str. 71 - Anfrage des BA 14 vom 04.07.05
+- TOP 3.2.: Situation des M-Zweiges an Hauptschulen im Münchner Osten - Antrag Nr. 2776 des BA 15 vom 24.02.2005
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Antrag auf Budgetmittel des BA 14
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Änderung der BA-Geschäftsordnung - Ausschluss wegen persönlicher Beteiligung; Bitte um Stellungnahme
+- TOP 3.2.: Fahrtkostenübernahme für behinderte BA-Mitglieder - Bitte um Stellungnahme
+- TOP 3.1.: Schlüsselbergstraße 40 - Antrag auf Baumfällung
+- TOP 3.2.: Höhenstädter Str. 32 - Antrag auf Baumfällung
+- TOP 3.3.: Grafinger Str. 28 - Antrag auf Baumfällung
+- TOP 3.4.: Kranzhornstraße 2 - Antrag auf Baumfällung
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Handlungsprogramm Mitllerer Ring 2001 - 2005; Wohnen am Ring Erfahrungsbericht
+- TOP 4.2.: Meldeliste der Bauvorhaben zwischen 15.08.2005 - 11.09.2005
+- TOP 4.3.: Abbruch eines Wohngebäudes in der Kranzhornstraße
+- TOP 4.1.: Mobilfunk Informationen
+- TOP 4.1.: Entscheidungs- oder Anhörungsrechte für Bezirksausschüsse bei der Schließung dezentraler Kultureinrichtungen - Änderung der BA-Satzung
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Raumsituation an der Ludwig-Thoma-Realschule, Richtigstellung des Schulleiters
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Kindertagesstätte freigemeinnütziger träger; Kindergarten St. Michael, Kath. Pfarrkirchenstiftung St. Michael, Baumkirchner Str. 26 1. Anmeldung zum staatlichen Bedarfsplan 2. Leistung eines Baukostenzuschusses
+- TOP 4.2.: Neubau Kindertagesstätte St.-Michael-Straße 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag 3. Änderung des Mehrjahresinvestitionsprogramms 2005 - 2009
+- TOP 4.3.: Frühe Förderung von benachteiligten Kindern intensivieren - Umsetzung im Rahmen des Projektes "Soziale Stadt"
+- TOP 4.1.: Bewilligungsbescheid für die Kath. Kindertagesstätte St.-Michael
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Neues Filial-Format der Deutschen Post
+- TOP 4.1.: Echardinger Str. - Flur-Nr. 223/5 - Abdruck des Fällungsbescheides zur Kenntnisnahme
+- TOP 4.2.: Echardinger Str. 61 - 71; Abdruck des Fällungsbescheides zur Kenntnisnahme
+- TOP 4.3.: Bad-Schachener-Str. 63 - Abdruck des Fällungsbescheides zur Kenntnisnahme
+- TOP 4.4.: Krumbadstr. 46 - 56; Abdruck des Fällungsbescheides zur Kenntnisnahme
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
