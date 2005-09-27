@@ -1,0 +1,6 @@
+# TOP 8: Finanzierungsvereinbarung zwischen dem Land Baden-Württemberg und der Stadt Ulm
+
+- Sitzung: Sitzung des Fachbereichsausschusses Stadtentwicklung, Bau und Umwelt (2005-09-27)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/2235
