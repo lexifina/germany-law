@@ -1,0 +1,80 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2005-09-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/715319
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/715319
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Geplante Kürzungen beim Kinderhaus KUBU
+- TOP .2.: Spielgeräte am Spielplatz Thalkirchner Straße / Alter Südfriedhof
+- TOP .2.1.: BA-Budget
+- TOP .1.: Gewährung eines Zuschusses aus dem BA-Budget für das Fußballturnier "Fair geht vor" - Glockenbach/Schlachthof-Cup 2005
+- TOP .2.: Zuschuss aus dem BA-Budget für den Griechisch-Bayerischen Kulturtag am 11.11.2005
+- TOP .2.2.: Kultur
+- TOP .1.: Pettenkoferstr. 6, Zweckentfremdung durch Nutzungsänderung
+- TOP .2.: Fahrtkostenübernahme für behinderte BA-Mitglieder
+- TOP .1.: Erinnerung an den Überfall der Rechtsextremisten in der Zenettistraße - Textvorschlag für Hinweistafel
+- TOP .2.: Umwidmung der Frauenlobstrr. 20 a - 28 zur Spielstraße und Errichtung eines Spiel- und Bolzplatzes auf dem ehemaligen Gelände der SWM und der AOK
+- TOP .5.1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .1.: Durchführung von Infraschallmessungen im Haus Isartalstr. 12; Behandlung der BVE Nr. 65 vom 03.05.2005
+- TOP .2.: Einziehung des RAdweges ohne eigenen Namen am Ostufer der Isar (im Hochwasserbett)
+- TOP .3.1.: Bauvorhaben
+- TOP .1.: Baaderstr. 57, Umbau und Erweiterung einer Wohnung im RGB (Vorbescheid)
+- TOP .2.: Baaderstr. 9, bauliche Änderungen und Nutzungsänderung vom KG bis 1.OG
+- TOP .3.: Lindwurmstr. 127, Einbau einer 4-Zi-Whg. im 2.DG, Einbau v. 2 Dachterrassen als Rettungsweg
+- TOP .4.: Baaderstr. 25, Dachausbau, Anbau v. Balkonen,Liftanbau
+- TOP .5.: Paul-Heyse-Str. 33, Sanierung Bürogebäude, Neubau Wohn- und Geschäftshaus
+- TOP .6.: Bavariaring 49, Neubau eines Wohn- und Geschäftshauses mit TG (Vorbescheid)
+- TOP .3.2.: Baumfällungen
+- TOP .1.: Bavariaring 49, Fällung mehrerer Bäume wegen Neubau (Vorbescheidsantrag s. TOP B 3.1.6)
+- TOP .1.: Goethestr. 69, Fällung einer Zierbirne
+- TOP .2.: Poccistr.11, Fällung einer Akazie
+- TOP .3.: Schwanthalerstr. 99, Fällung einer Blumenesche (Platzgründe)
+- TOP .4.: Änderung der Stadtbezirksgrenzen an der Isar zwischen Wittelsbacher- und Zenneckbrücke; Beschlussvorlage zur Behandlung der BVE aus dem 5.Stadtbezirk
+- TOP .5.: Bau von Radwegen in der Martin-Greif.-Straße /Theresienhöhe / Bavariaring (Bestandteil der Radweghauptroute)
+- TOP .5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP .1.: Fußgängerüberweg Ruppertstraße
+- TOP .2.: Beibehaltung der provisorischen Ampelquerung am Hauptbahnhof
+- TOP .3.: Verkehrszeichen für Radfahrer an der Ampel lindwurm-/Ruppertstraße
+- TOP .4.: Einrichtung eines Wochenmarktes am Roecklplatz
+- TOP .1.: Sicherung des Fußgängerüberwegs an der Kreuzung Kapuziner-/Pestalozzi-/Isartalstraße durch Blinkampel und Hinweisschilder
+- TOP .2.: Einbau einer Bodenwelle in der Pestalozzistraße vor dem Zebrastreifen
+- TOP .3.1.: Sperrzeit-Angelegenheiten
+- TOP .1.: Restaurant "Burger King" im Hauptbahnhof, Änderung der Sperrzeit (2.00 - 4.00 Uhr)
+- TOP .3.2.: Freischankflächen
+- TOP .1.: GAststätte "Sinan's", Mozartstr. 4, Betriebszeitverlängerung für den Wirtschaftsgarten
+- TOP .2.: Gaststätte "Mixto", Lindwurmstr. 13, Neuantrag mit Heizstrahlern und Pflanzgefäßen
+- TOP .3.: Stehimbiss Eroglu Feinkost, Lindwurmstr. 157 a, Neuantrag
+- TOP .4.: Bistro Cicco-Bar, Augsburgerstr. 1, Änderungsantrag mit Pflanzgefäßen
+- TOP .5.: Gaststätte "parkcafe next door", Fraunhoferstr. 19, Neuantrag
+- TOP .6.: Gaststätte "Peri's Saloon", Fraunhoferstr. 27, Neuantrag
+- TOP .3.3.: Warenstellagen
+- TOP .1.: Lindwurmstr. 56 (Obst,Gemüse;)
+- TOP .3.4.: Verkehr
+- TOP .1.: An-und Abfahrt der Skikursbusse des Sport Scheck von der Theresienwiese
+- TOP .2.: Verkehrsrechtliche Anordnung zur Errichtung einer Ladezone von 10 m Längein der Thalkirchner Straße
+- TOP .3.: Modernisierung des U-Bahnhofs Sendlinger Tor; beschlussvorlage zur Behandlung des BA-Antrags v. 01.03.2005
+- TOP .4.: Ausdehnung der zeitlichen Befristung des allgemeinen Behindertenparkplatzes in der Rumfordstr. 20
+- TOP .1.: Bürgerinitiative für die Einrichtung eines Wochenmarktes am Roecklplatz
+- TOP .5.1: Berichte der Beauftragten ( AK Theresienwiese)
+- TOP .1.: Termine
+- TOP .2.: Veranstaltungen
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP .3.2.: Berichte aus den anderen BA
+- TOP .3.3.: Bericht des Internetbeauftragten
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Infos)
