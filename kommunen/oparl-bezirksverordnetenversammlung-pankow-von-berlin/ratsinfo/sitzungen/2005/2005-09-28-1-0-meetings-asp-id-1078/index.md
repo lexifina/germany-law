@@ -1,0 +1,76 @@
+# 35. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2005-09-28T18:00:00+02:00
+- Ende: 2005-09-28T22:01:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1078
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1078
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=13101
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - im Ausschuss abgelehnt
+- TOP 1.2: Geschäftliche Mitteilungen - im Ausschuss abgelehnt
+- TOP 1.3: Abstimmung der Tagesordnung - im Ausschuss abgelehnt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Übertragung des Schlosses Schönhausen an die Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.6: Bericht des Bezirksamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.7: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.8: Nachwahl eines Stellvertreters/einer Stellvertreterin zum Beirat für Sozialhilfeangelegenheiten - gewählt
+- TOP 1.9: Wahl einer Bürgerdeputierten in den Ausschuss Schule und Sport - gewählt
+- TOP 1.10: Betriebssatzung für den geplanten Eigenbetrieb Kindergärten Pankow-Marzahn/Hellersdorf-Lichtenberg - mit Änderungen in der BVV beschlossen
+- TOP 1.11: Komplex Haushaltsplan 2006 / 2007 - (offen)
+- TOP 1.11.1: Rettet den Kultur- und Bildungsentwicklungsplan - vertagt
+- TOP 1.11.2: Zukunft der Schullandheime und Einrichtungen der Kinder- und Jugenderholung - ohne Änderungen in der BVV beschlossen
+- TOP 1.11.3: Interkulturelles Fest "Gemeinsam leben in Pankow" - ohne Änderungen in der BVV beschlossen
+- TOP 1.11.4: Doppelhaushalt 2006 / 2007 - in der BVV abgelehnt
+- TOP 1.11.5: Entwurf des Doppelhaushaltsplanes 2006/2007 für den Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.11.6: Kulturelle Substanz im Bezirk erhalten / Der Kultur- und Bildungsentwicklungsplan soll nicht Makulatur werden! - mit Änderungen in der BVV beschlossen
+- TOP 1.12: Bürgerbeteiligung nach Aufhebung der Sanierungsgebiete - zurückgezogen
+- TOP 1.13: Hartz IV - Verteilung der Eingliederungsmittel - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Sportstättenvergabe transparent gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: MAE-Jobs inkl. Hauptschulabschluss - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Mehr Einfluss der Kommune auf die Arbeitsmarktpolitik - überwiesen
+- TOP 1.17: Nutzung bezirklicher Immobilien für soziale Projekte endlich auf sichere Füße stellen oder: keine Miete an den Liegenschaftsfond zahlen! - in der BVV abgelehnt
+- TOP 1.18: Umzug Schauspielschule "Ernst Busch" - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Genehmigung des Kapitels 39 zur Bezirkshaushaltsrechnung 2002 - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Verantwortung für Jobcenter - überwiesen
+- TOP 1.21: Verteilung von Werbemitteln durch die NPD vor Schulen in Pankow - beantwortet
+- TOP 1.22: Verteilung von Werbemitteln durch die NPD vor Schulen in Pnakow - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Gedenktafel Zwangsarbeiterlager (Luna-Park) Schönholzer Heide - überwiesen
+- TOP 1.24: Gemeinnützige Beschäftigungsgelegenheiten gegen Entgelt für Leistungsberechtigte von Hilfe zum Lebensunterhalt - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex II - (offen)
+- TOP 2.1: Einsatz von Fördermitteln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Windenergie sinnvoll nutzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Radfernwanderweg durch den Schloßpark Niederschönhausen und den Schloßpark Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Sozialticket - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Sommerrodelbahn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Hartz IV - siehe auch Drs. Nr. V - 0862/04 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Straßenausbaubeitragsgesetz verhindern - vertagt
+- TOP 2.8: Regionalmodell des Sozialamtes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Weiter mit der Sonne - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Mehr Demokratie in der vorbereitenden und verbindlichen Bauleitplanung in Berlin - vertagt
+- TOP 2.11: Wie weiter mit den ehemaligen Kleingartengebieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Breitbandinternet nach Pankow! - vertagt
+- TOP 2.13: Radfahren im Mauerpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Den ganzen Mauerpark - ganz! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Umweltbüro in seiner Qualität erhalten - vertagt
+- TOP 2.16: Mehr Sicherheit und Platz für die Schüler/innen der Rosa-Luxemburg-Oberschule - vertagt
+- TOP 2.17: Kampf um neue Arbeitsplätze nicht aufgeben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Sanierungszieländerung Hirschhof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Änderung des BezVG II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Nachweis der im 1. Halbjahr 2005 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Benennung einer neu entstehenden Privatstraße im OT Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Benennung einer Privatstraße in "Einsiedelring" im OT Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Bebauungsplan XIX-58a für die Grundstücke Hauptstraße 116/156 im Bezirk Pankow, Ortsteil Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Änderung der Sanierungsziele für den Standort Schliemannstraße 7 und 8 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Änderung der Sanierungsziele für den Standort Schliemannstraße 10 und 11 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Einteilung der Wahlkreise im Wahlkreisverband Pankow für die Wahl zum Abgeordnetenhaus von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Änderung der Sanierungsziele für den Standort Marienburger Straße 41 - 46 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: 2. Nachschiebeliste für den Doppelhaushalt 2006 / 2007 - mit Abschlussbericht zur Kenntnis genommen
