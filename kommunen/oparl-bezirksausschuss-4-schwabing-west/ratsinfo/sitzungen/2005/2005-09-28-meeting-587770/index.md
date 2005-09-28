@@ -1,0 +1,65 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2005-09-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/587770
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/587770
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 1.1.2.: Protokoll der letzten Sitzung
+- TOP 1.1.3.: Bürgeranliegen
+- TOP 2.: BA: Mitgliederwechsel
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Anträge der Bürgerinnen, Bürger und Parteien
+- TOP 3.1.: Fragen an Polizei und Bezirksinspektion
+- TOP 3.2.: Straßenbenennung Bauerstraße
+- TOP 3.3.: Anneliese-Schinkinger-Stiftung: Einrichtung einer werktäglichen Anlieferzone für Minimal in der Karl-Theodor-Str. 62/64 von 6.00 - 10.00 Uhr
+- TOP 3.4.: Haltestelle des Busses 53 am Kurfürstenplatz
+- TOP 3.5.: Aufstellen von zwei stationären Tischtennisplatten im Deidesheimer Anger
+- TOP 3.6.: Nächtliche Lärmbelästigungen durch das Studentenwohnheim Agnesstraße
+- TOP 4.: Bericht des Vorsitzenden (siehe Liste der Schreiben der Verwaltung und Kenntnisnahmen) und der BA-Arbeitskreise
+- TOP 5.: Gaststättenangelegenheiten
+- TOP 5.1.: Herzogstr. 127, "Der Kleine Feinbäcker": Freischankfläche
+- TOP 5.2.: Schleißheimer Str. 155, "Fritz Mühlenbäckerei": Freischankfläche
+- TOP 6.: Grün/Baumfällungen
+- TOP 6.1.: Zittelstr. 4: Fällung eines Ahorns
+- TOP 6.2.: Friedrich-Loy-Str. 16: Fällung einer Sommerlinde
+- TOP 6.3.: Zukunftssicherung des Olympiageländes; stadtentwicklungsplanerische Rahmenbedingungen und Ziele
+- TOP 6.4.: Spartenanfrage: Hügel Nord, Ackermannbogen Bebauungsplan Nr. 1905 b
+- TOP 7.: Bauvorhaben
+- TOP 7.1.: Infanteriestr. 11a: Nutzungsänderung (Geb. E): Verwaltung und Logistik der Deutschen Telekom AG in eine Erwachsenen-Bildungseinrichtung der AMD (Akademie Mode und Design)
+- TOP 7.2.: Viktoriastr. 9: Dachgeschosserneuerung
+- TOP 7.3.: Stadtplatz am Ackermannbogen: Workshop zur Gestaltung (Anhörung zu Beschlussvorlage des Planungsausschusses auf Grund einer Empfehlung der Bürgerversammlung)
+- TOP 7.4.: Kaiserstr. 47: Nutzungsänderung einer Wohnung in einen Gastraum als Nutzungserweiterung einer Pizzeria
+- TOP 7.5.: Fallmerayerstr. 22: Umbau eines Boardinghauses
+- TOP 7.6.: Errichtung der Kindertagesstätte Ackermannbogen II (Elisabeth-Kohn-Straße) mit 4 Kindergarten- und 2 Hortgruppen
+- TOP 8.: Verkehr
+- TOP 8.1.: Hiltenspergerstraße gegenüber Einmündung Farinellistraße: Absolutes Halteverbot
+- TOP 8.2.: Ansbacher Straße: Absolutes, befristetes Halteverbot
+- TOP 8.3.: Tram 23 / Gestaltung der Münchner Freiheit
+- TOP 9.: Soziales (entfallen)
+- TOP 10.: BA-Angelegenheiten, BA-Budget
+- TOP 10.1.: Änderung der BA-GeschO: Ausschluss wegen persönlicher Beteiligung
+- TOP 10.2.: Fahrtkostenübernahme für behinderte BA-Mitglieder
+- TOP 10.3.: Änderung der BA-Satzung: Beteiligung der BAs durch Städtisches Klinikum München GmbH
+- TOP 10.4.: Änderung der BA-Satzung (Katalog): Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen
+- TOP 10.5.: Zuschuss aus dem Budget an die PI 13: Veranstaltung für die Schülerlotsen / Schulweghelfer
+- TOP 10.6.: Termine 2006 für BA-Sitzungen und Bürgerversammlung
+- TOP 10.7.: Einbindung der BAs bei der Umsetzung von Konsolidierungskonzepten des Stadtrates mit Auswirkungen auf die Stadtbezirke
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Mehrjahresinvestitionsprogramm 2006 - 2010
+- TOP 11.2.: Mobilfunk-Suchkreismeldungen: Bonner Platz, Habsburgerplatz, Hohenzollernplatz, Nordendstraße
+- TOP 11.3.: Nikolausmarkt am Hohenzollernplatz vom 25.11. - 23.12.2005
+- TOP 0: Bericht des Vorsitzenden und der Arbeitskreise
+- TOP 0.&nbsp;: siehe Anlage
+- TOP 0.&nbsp;: Am Dienstag, den 11.10.2005 findet die Bürgerversammlung des BA 4 im Pfarrsaal der Kreuzkirche, Hiltenspergerstr. 55 statt.
