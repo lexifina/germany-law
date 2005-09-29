@@ -1,0 +1,93 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2005-09-29T17:30:00+02:00
+- Ende: 2005-09-29T00:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1006
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1006
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=49476
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - erledigt
+- TOP 3: Thematische Stunde - erledigt
+- TOP 4: Mündliche Anfrage - (offen)
+- TOP 4.1: Frischer Wind für die Moabiter Markthalle? - beantwortet
+- TOP 4.2: Grundschulreform mit Hindernissen? - beantwortet
+- TOP 4.3: Leuchtreklame auf der Unternehmenszentrale der Wall AG (II) - beantwortet
+- TOP 5: Dringlichkeitsanfrage - (offen)
+- TOP 6: Große Anfrage - (offen)
+- TOP 6.1: Integrationskonzept für Berlin - beantwortet
+- TOP 6.2: Grundstücks-/ Wohnungsverkäufe der WBM Lehrter Straße 1-4, 70-75 - beantwortet
+- TOP 6.3: Verkauf des Wohnungsbestandes Lehrter Straße 1-4 und 70-75 - beantwortet
+- TOP 6.4: Lehrter Straße 1-4 und 70-75 - beantwortet
+- TOP 6.5: Alles in Ordnung bei der Wahl? - beantwortet
+- TOP 6.6: Verkehrsströme nach der Eröffnung des Straßentunnels der B 96 - beantwortet
+- TOP 6.7: Umgang mit Widerspruchsverfahren - beantwortet
+- TOP 6.8: Einrichtungen nach § 16 KJHG - Allgemeine Förderung der Erziehung in der Familie - beantwortet
+- TOP 6.9: Wann bricht die Französische Straße durch? - beantwortet
+- TOP 6.10: Drastisch steigender Betrug bei ALG II? - beantwortet
+- TOP 6.11: Quartiersräte in Steuerungsrunden QM ( 2) - schriftlich beantwortet
+- TOP 6.12: Öffentliche Straßenbeleuchtung - schriftlich beantwortet
+- TOP 6.13: Gibt es Streit mit dem Liegenschaftsfonds? - schriftlich beantwortet
+- TOP 7: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2004 - überwiesen
+- TOP 9: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 9.1: Fortschreibung von Mietobergrenzen bei Modernisierungsvorhaben von Altbauen in den Sanierungsgebieten Spandauer Vorstadt und Rosenthaler Vorstadt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Genehmigung der im Haushalt 2004 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Bürgerbeteiligung bei Änderung von Sanierungszielen in den Sanierungsgebieten von Mitte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Änderung der Sanierungsziele zur Errichtung einer jüdischen Bildungsstätte auf dem Grundstück Brunnenstraße 33 im Block 099030 des Sanierungsgebietes Mitte Rosenthaler Vorstadt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Änderung der Sanierungsziele zur Errichtung einer jüdischen Bildungsstätte auf dem Grundstück Brunnenstraße 33 im Block 099030 des Sanierungsgebietes Mitte Rosenthaler Vorstadt - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Bebauungsplan I-20 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-20 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Entwurf des Doppelbezirkshaushaltsplans Mitte für die Haushaltsjahre 2006 und 2007 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Nachschiebeliste Nr. 1 zum Entwurf des Doppelbezirkshaushaltsplans Mitte für die Haushaltsjahre 2006 und 2007 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Bebauungsplan I-18 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-18 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.10: Bebauungsplan I-63 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-63 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Bebauungsplanentwurf III-194 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungplanes III-194 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Freibad Seydlitzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Änderung der Geschäftsordnung hier: §§ 25 und 50 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: 50:50-Regelung für das Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 11: Antrag - (offen)
+- TOP 11.1: Sitzverteilung in den Ausschüssen den realen Fraktionsstärken anpassen! - in der BVV zurückgezogen
+- TOP 11.2: Freie Fahrt für die Straßenbahn - überwiesen
+- TOP 11.3: Umgang mit Schäden an Granitpollern in der Spandauer Vorstadt - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Vergabe von Frauennamen bei der Benennung neuer Straßen und Plätze - in der BVV abgelehnt
+- TOP 11.5: Wahl eines weiteren Mitgliedes in den Jugendhilfeausschuss - in der BVV zurückgezogen
+- TOP 11.6: Verpflegung im Neuen Stadthaus - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Kahlschlag bei Hilfen zur Erziehung und Jugendarbeit - überwiesen
+- TOP 11.8: Wahl von Bürgerdeputierten - zurückgezogen
+- TOP 11.9: QM 4 - Stephankiez - überwiesen
+- TOP 11.10: Ernährung und Gesundheitspolitik bei Kindern - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Ausbildungsplätze für Mädchen erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Straßenreinigungskosten für Grünanlagen senken - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Verkehrsleitung zur Stadtautobahnzufahrt Beusselstraße - überwiesen
+- TOP 11.14: Veranstaltung zur Umstellung der Straßenbeleuchtung - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag/Beschlussempfehlung - (offen)
+- TOP 12.1: Wohnungspool Angemessener Wohnraum - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Integration durch Zweisprachigkeit - Erhalt und Ausbau der zweisprachigen Schulen in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Bedarfsgerechte Gestaltung des LuV Gesundheit in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Adidas-Arena auf den Schlossplatz - in der BVV abgelehnt
+- TOP 13: Vorlage zur Kenntnisnahme - (offen)
+- TOP 13.1: Metropoltheater
+- TOP 13.2: Umweltbildungsangebote für Zuwanderer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.3: Hartz IV: Verunsicherung über angemessenen Wohnraum beenden! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.4: QM 2 - Information der Bezirksverordnetenversammlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.5: Dieselrußfilter für alle Dienstfahrzeuge des Bezirksamtes Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.6: Mieterberatung für Sozialhilfeempfänger/innen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.7: Mehrsprachiges Faltblatt gegen Zwangsheirat - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.8: Satzung des zukünftigen Eigenbetriebes "Kindergärten City" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.9: Fortbildungen und Qualifizierungen für die Mitarbeiter/innen der Arge - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.10: Fanmeile Fußballweltmeisterschaft 2006 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.11: Benennung von öffentlichem Straßenland in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.12: Einrichtung von Stadtteilmanagementverfahren Intervention im Bezirk Mitte, hier Gebiet Ackerstraße und Gebiet Brunnenviertel - mit Abschlussbericht zur Kenntnis genommen
