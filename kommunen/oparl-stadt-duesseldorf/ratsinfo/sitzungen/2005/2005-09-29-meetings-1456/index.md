@@ -1,0 +1,89 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-09-29T14:00:00+02:00
+- Ende: 2005-09-29T20:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1456
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1456
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111582.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111582.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111582.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpfl. RM - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Anfr.aktuell SPD: Reduzierung Hochwasserschutz - zur Kenntnis genommen
+- TOP 6: Anfragen - zur Kenntnis genommen
+- TOP 7: Anfr.:Ratsherr Hahn: Wohnbestand LEG im SB 10 - zur Kenntnis genommen
+- TOP 8: Anfr.SPD-Rf: Krankenhausversorgung - zur Kenntnis genommen
+- TOP 9: Anfr.:Bü90: Justizvollzugsanstalt - zur Kenntnis genommen
+- TOP 10: Anfr.Bü90/Grü: Verwendung von Haushaltsmitteln - zur Kenntnis genommen
+- TOP 11: Anfr. Karen Jungen:Verlegung Veranstaltungen - zur Kenntnis genommen
+- TOP 12: Anfr. CDU: Sportanlage Bergische Kaserne - zur Kenntnis genommen
+- TOP 13: Anträge - zur Kenntnis genommen
+- TOP 14: Antr.SPD Rf.: Oronto-Grundstück - zur Kenntnis genommen
+- TOP 15: Änd.-antr. Bü90: Oronto - zur Kenntnis genommen
+- TOP 16: Antr.Bü90/Grü: Gesamtkonzept gegen Verelendung - einstimmig beschlossen
+- TOP 17: Antr.SPD:Nutzungskonzept Elbsee - zur Kenntnis genommen
+- TOP 18: Änd.-antr. CDU: Elbsee - zur Kenntnis genommen
+- TOP 19: Antr.SPD/Bü90/Grü: Vertr.d.Stadt in Grem.LTUarena - zur Kenntnis genommen
+- TOP 20: Änd.-antr. CDU: Gremien Arena - zur Kenntnis genommen
+- TOP 21: Energieeffizientes D`dorf - mehrheitlich abgelehnt
+- TOP 22: Änd.-antr. CDU: Enegrieeffizienz - mehrheitlich beschlossen
+- TOP 23: Antr. SPD: WM - mehrheitlich beschlossen
+- TOP 24: Antr. CDU: Werbeflut - einstimmig beschlossen
+- TOP 25: Beschlusskontrolle für den Rat - einstimmig beschlossen
+- TOP 26: Kämmererliste - einstimmig beschlossen
+- TOP 27: Übernahme von Bürgschaften - einstimmig beschlossen
+- TOP 28: Stiftung Riehl-Kolleg - einstimmig beschlossen
+- TOP 29: Bau, Einricht-+Instands. Kitas-Zuschüsse fr. Träg. - einstimmig beschlossen
+- TOP 30: Bewilligung Zuschuss DJH, LV Rheinland e.V. - einstimmig beschlossen
+- TOP 31: Lehrschwimmbecken Rethelstraße 13 - einstimmig beschlossen
+- TOP 32: Bauliche Verbesserung der Betriebszustände - einstimmig beschlossen
+- TOP 33: Angermunder Straße - einstimmig beschlossen
+- TOP 34: TVG I Brandschutz 4.BA - einstimmig beschlossen
+- TOP 35: Kasernenstr. 6, Brandschutztechnische Verbesserung - einstimmig beschlossen
+- TOP 36: Heinrich-Heine-Haus Bolker Straße 53 - Bau- und Fi - mehrheitlich beschlossen
+- TOP 37: Masterplan KGS Graf-Recke-Str 153 - mehrheitlich beschlossen
+- TOP 38: Sanierung der Tonhalle - Mehrkosten - Bau- und - mehrheitlich beschlossen
+- TOP 39: Erneuerung veralteter Steuergeräte im Verkehrsrech - einstimmig beschlossen
+- TOP 40: Bertha-von-Suttner-Platz / GB - einstimmig beschlossen
+- TOP 41: Erg.Antr.Bü90/Grü: Fahrradstation B.-von.S.Platz - einstimmig beschlossen
+- TOP 42: Wohnumfeldverbesserung - einstimmig beschlossen
+- TOP 43: Grundsatzbeschluss Neubau Feuerwache Nord - einstimmig beschlossen
+- TOP 44: Neubau einer Personalunterkunft auf dem Nordfried - mehrheitlich beschlossen
+- TOP 45: Sanierung kulturhistorischer Grünanlagen - einstimmig beschlossen
+- TOP 46: Umbesetzungen - einstimmig beschlossen
+- TOP 47: Mitglieder Neubestellung Gutachterausschuss - einstimmig beschlossen
+- TOP 48: Ersatzwahl in JHA - einstimmig beschlossen
+- TOP 49: AR Schauspiel GmbH - mehrheitlich beschlossen
+- TOP 50: AR Kliniken - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 51: Ersatzwahl Unterbacher See - einstimmig beschlossen
+- TOP 52: Kuratorium Kunstsammlung - mehrheitlich beschlossen
+- TOP 53: Neue Deichschau Heerdt - einstimmig beschlossen
+- TOP 54: Hundesteuersatzung - einstimmig beschlossen
+- TOP 55: Stadtbetrieb zentrale Dienste - mehrheitlich beschlossen
+- TOP 56: Neufassung von Vorlage 19/56/2005 - zur Kenntnis genommen
+- TOP 57: Änderung der Benutzungsordnung für die Tonhalle - einstimmig beschlossen
+- TOP 58: Amt 53: Gebühren Gesundheitsdienst - einstimmig beschlossen
+- TOP 59: Änderung der Taxentarifordnung - mehrheitlich beschlossen
+- TOP 60: Änd.-antr. Bü90: Taxentarifordnung - mehrheitlich abgelehnt
+- TOP 61: Verkaufsoffene Sonntage 2005 - mehrheitlich beschlossen
+- TOP 62: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 63: Plan Nr. 5774/28 - Karl-Geusen-Straße - 1. Verläng - einstimmig beschlossen
+- TOP 64: FNP-Ä 70 Am Kehrbesen Anreg. Plan - mehrheitlich beschlossen
+- TOP 65: FNP-Änderung Nr. 63 - Kikweg - mehrheitlich beschlossen
+- TOP 66: B-Plan Nr. 5974/36 - Kikweg - mehrheitlich beschlossen
+- TOP 67: B-Plan Nr. 5775/35 - Südwwestl. Königsberger Str. - einstimmig beschlossen
+- TOP 68: B-Plan Nr. 5582/033 - Theodorstraße/A 52 - mehrheitlich beschlossen
+- TOP 69: B-Plan-Entwurf Nr. 6080/17 - Mühlenbergweg - einstimmig beschlossen
+- TOP 70: BPl Text SB 9 Änderung gem. § 13; Satzung - einstimmig beschlossen
+- TOP 71: B-Plan Nr. 5576/78 - Innenstadt/Vergnügungsstätte - einstimmig beschlossen
+- TOP 72: B-Plan (Entwurf) Nr. 6267/10 - Hauptzentrum Garath - mehrheitlich beschlossen
