@@ -5,8 +5,8 @@ Zentrale Zuständigkeit einzelner Finanzämter für den Bereich mehrerer Finanz�
 Laufende Nummer | Aufgabe | Zuständige(s) Finanzamt/Finanzämter | Die Zuständigkeit ist ausgedehnt auf das Gebiet/den Bezirk des Finanzamtes
 Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/ Finanzämter | Die Zuständigkeit ist ausgedehnt auf das Gebiet/den Bezirk des Finanzamtes
 1. | Feuerschutz- und Versicherungsteuer, Rennwett- und Lotteriesteuer | Chemnitz-Mitte | Freistaat Sachsen
-2.1 | Festsetzung und Erhebung der Spielbankabgabe | Leipzig II | Freistaat Sachsen
-2.2 | Steueraufsicht Spielbank Dresden Spielbank Görlitz Spielbank Leipzig Spielbank Plauen | Dresden II Görlitz Leipzig II Plauen | 
+2.1 | Festsetzung und Erhebung der Spielbankabgabe, Mitteilung und Auszahlung des Anteils der Gemeinden am Spielbankabgabeaufkommen | Leipzig II | Freistaat Sachsen
+2.2 | Steueraufsicht Spielbank Chemnitz Spielbank Dresden Spielbank Görlitz Spielbank Leipzig Spielbank Plauen | Chemnitz-Mitte Dresden II Görlitz Leipzig II Plauen | 
 3. | Abwicklung des Gesetzes über die Steuerberechtigung und die Zerlegung bei der Einkommensteuer und der Körperschaftsteuer, Zerlegungsgesetz ( ZerlG) vom 6. August 1998 (BGBl. I S. 1998) | Dresden I | Freistaat Sachsen
 4. | Erbschaft- und Schenkungsteuer | Chemnitz-Mitte Bautzen Leipzig III | Regierungsbezirk Chemnitz Regierungsbezirk Dresden Regierungsbezirk Leipzig
 5. | Gesonderte Feststellungen nach dem Außensteuergesetz und nach § 180 Abs. 5 Nr. 1 AO 1977 | Dresden III | Freistaat Sachsen
@@ -21,10 +21,10 @@ Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/ Finanzämter | Die Zuständigkei
  |  |  | Leipzig I | Leipzig I Leipzig III
  |  |  | Leipzig II | Borna Leipzig II
  |  |  | Meißen | Freital Meißen Riesa
- |  |  | Zwickau-Stadt | Auerbach Plauen Schwarzenberg Zwickau-Land Zwickau-Stadt
+ |  |  | Zwickau-Stadt | Plauen Schwarzenberg Zwickau-Land Zwickau-Stadt
  | b) | land- und forstwirtschaftliche Betriebe (einschließlich Garten- und Landschaftsbau betriebe mit gewerblichen Einkünften) | Bautzen | Bautzen Bischofswerda Görlitz Hoyerswerda Löbau
  |  |  | Grimma | Borna Döbeln Eilenburg Grimma Leipzig I Leipzig II Leipzig III Oschatz
- |  |  | Hohenstein-Ernstthal | Annaberg Auerbach Chemnitz-Mitte Chemnitz-Süd Freiberg Hohenstein-Ernstthal Mittweida Plauen Schwarzenberg Stollberg Zschopau Zwickau-Land Zwickau-Stadt
+ |  |  | Hohenstein-Ernstthal | Annaberg Chemnitz-Mitte Chemnitz-Süd Freiberg Hohenstein-Ernstthal Mittweida Plauen Schwarzenberg Stollberg Zschopau Zwickau-Land Zwickau-Stadt
  |  |  | Meißen | Dresden I Dresden II Dresden III Freital Meißen Pirna Riesa
  | c) | Kreditinstitute, Versicherungsunternehmen | Chemnitz-Süd Dresden II Leipzig II | Regierungsbezirk Chemnitz Regierungsbezirk Dresden Regierungsbezirk Leipzig
  | d) | Versorgungsbetriebe | Chemnitz-Süd Dresden II Leipzig I | Regierungsbezirk Chemnitz Regierungsbezirk Dresden Regierungsbezirk Leipzig
@@ -35,7 +35,7 @@ a) | für Betriebe mit 100 oder mehr Arbeitnehmern | Bautzen | Bautzen Bischofsw
  | Chemnitz-Mitte | Annaberg Chemnitz-Mitte Chemnitz-Süd Freiberg Hohenstein-Ernstthal Mittweida Stollberg Zschopau
  | Dresden I | Dresden I Dresden II Dresden III Freital Meißen Pirna Riesa
  | Leipzig II | Borna Döbeln Eilenburg Grimma Leipzig I Leipzig II Leipzig III Oschatz
- | Zwickau-Stadt | Auerbach Plauen Schwarzenberg Zwickau-Land Zwickau-Stadt
+ | Zwickau-Stadt | Plauen Schwarzenberg Zwickau-Land Zwickau-Stadt
 b) | bei Arbeitgebern im Sinne des § 20a AO | Chemnitz-Mitte | Freistaat Sachsen
 10. | Steuerfahndung sowie Bußgeld- und Strafsachenstelle |  | 
 a) | allgemein | Chemnitz-Süd | Regierungsbezirk Chemnitz
@@ -46,43 +46,18 @@ b) | bei zentralisierter Zuständigkeit für Fälle des § 20a AO oder Nummer 7 
  | Dresden III | Dresden I Dresden II Dresden III Meißen Riesa
  | Leipzig III | Eilenburg Leipzig I Leipzig II Leipzig III
  | Löbau | Bautzen Bischofswerda Freital Görlitz Hoyerswerda Löbau Pirna
- | Plauen | Auerbach Hohenstein-Ernstthal Plauen Zwickau-Land Zwickau-Stadt
+ | Plauen | Hohenstein-Ernstthal Plauen Zwickau-Land Zwickau-Stadt
  | Schwarzenberg | Annaberg Chemnitz-Stadt Freiberg Mittweida Schwarzenberg Stollberg Zschopau
 12. | Umsatzsteuersonderprüfungen in länderübergreifenden und grenzüberschreitenden Fällen in Zusammenarbeit mit der Zentralen Koordinierungsstelle beim Bundesamt für Finanzen | Chemnitz-Süd | Regierungsbezirk Chemnitz
  | Dresden II | Regierungsbezirk Dresden
  | Leipzig I | Regierungsbezirk Leipzig
+13. | Kontenabrufe auf Ersuchen anderer Behörden und Gerichte nach § 93 Abs. 8 AO 1977 | Dresden I | Freistaat Sachsen
 II. Bezeichnung, Sitz, Amtsbezirk und übertragene Zuständigkeit der Finanzämter in Sachsen (ohne zentrale Zuständigkeiten nach Abschnitt I und ohne Zuständigkeit für die Kraftfahrzeugsteuer nach Abschnitt III)
 Bezeichnung, Sitz, Amtsbezirk und übertragene Zuständigkeit der Finanzämter in Sachsen
 Bezeichnung und Sitz des Finanzamtes | Bezirk des Finanzamtes | Die Zuständigkeit ist ausgedehnt | Die Zuständigkeit ist übertragen
 Bezeichnung und Sitz des Finanzamtes | Bezirk des Finanzamtes | Die Zuständigkeit ist ausgedehnt | Die Zuständigkeit ist übertragen
 für | auf FA (FÄ) | für | auf FA (FÄ)
 Annaberg | Landkreis Annaberg |  |  |  | 
-Auerbach | Vom Vogtlandkreis die Gemeinden |  |  |  | 
- | Auerbach/Vogtl. |  |  |  | 
- | Bergen |  |  |  | 
- | Ellefeld |  |  |  | 
- | Erlbach |  |  |  | 
- | Falkenstein/Vogtl. |  |  |  | 
- | Grünbach |  |  |  | 
- | Hammerbrücke |  |  |  | 
- | Heinsdorfergrund |  |  |  | 
- | Klingenthal/Sa. |  |  |  | 
- | Lengenfeld |  |  |  | 
- | Limbach |  |  |  | 
- | Markneukirchen |  |  |  | 
- | Morgenröthe-Rautenkranz |  |  |  | 
- | Mylau |  |  |  | 
- | Netzschkau |  |  |  | 
- | Neumark |  |  |  | 
- | Neustadt/Vogtl. |  |  |  | 
- | Reichenbach im Vogtland |  |  |  | 
- | Rodewisch |  |  |  | 
- | Schöneck/Vogtl. |  |  |  | 
- | Steinberg |  |  |  | 
- | Tannenbergsthal/Vogtl. |  |  |  | 
- | Treuen |  |  |  | 
- | Werda |  |  |  | 
- | Zwota |  |  |  | 
 Bautzen | Vom Landkreis Bautzen die Gemeinden |  |  |  | 
  | Bautzen |  |  |  | 
  | Crostau |  |  |  | 
@@ -284,7 +259,6 @@ Hohenstein-Ernstthal | Landkreis Chemnitzer Land |  |  |  |
 Hoyerswerda | Kreisfreie Stadt Hoyerswerda und vom Landkreis Kamenz die Gemeinden |  |  |  | 
  | Bernsdorf |  |  |  | 
  | Elsterheide |  |  |  | 
- | Knappensee |  |  |  | 
  | Lauta |  |  |  | 
  | Leippe-Torno |  |  |  | 
  | Lohsa |  |  |  | 
@@ -333,28 +307,7 @@ Meißen | Vom Landkreis Meißen die Gemeinden |  |  |  |
 Mittweida | Landkreis Mittweida |  |  |  | 
 Oschatz | Landkreis Torgau-Oschatz |  |  |  | 
 Pirna | Landkreis Sächsische Schweiz |  |  |  | 
-Plauen | Kreisfreie Stadt Plauen und vom Vogtlandkreis die Gemeinden |  |  |  | 
- | Adorf |  |  |  | 
- | Bad Brambach |  |  |  | 
- | Bad Elster |  |  |  | 
- | Bösenbrunn |  |  |  | 
- | Burgstein |  |  |  | 
- | Eichigt |  |  |  | 
- | Elsterberg |  |  |  | 
- | Leubnitz |  |  |  | 
- | Mehltheuer |  |  |  | 
- | Mühlental |  |  |  | 
- | Mühltroff |  |  |  | 
- | Neuensalz |  |  |  | 
- | Oelsnitz |  |  |  | 
- | Pausa/Vogtl. |  |  |  | 
- | Pöhl |  |  |  | 
- | Reuth |  |  |  | 
- | Syrau |  |  |  | 
- | Theuma |  |  |  | 
- | Tirpersdorf |  |  |  | 
- | Triebel/Vogtl. |  |  |  | 
- | Weischlitz |  |  |  | 
+Plauen | Kreisfreie Stadt Plauen und Vogtlandkreis |  |  |  | 
 Riesa | Landkreis Riesa-Großenhain |  |  |  | 
 Schwarzenberg | Landkreis Aue-Schwarzenberg |  |  |  | 
 Stollberg | Landkreis Stollberg |  |  |  | 
