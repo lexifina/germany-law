@@ -15,12 +15,10 @@ B. | Kostentatbestände |
 3 | Arbeit | 
 30 | Nebengebühren im Eichwesen | 
 300 | Gebühren für die Bereitstellung eichamtlicher Prüfmittel für Amtshandlungen außerhalb der Amtsstelle oder deren Bereitstellung für andere Zwecke jeweils an Werktagen | 
-300.00 | Gebühr je angefangene 24 Stunden für Normalgewichte und je | 
- | angefangene 100 kg | 2,60 Euro
+300.00 | Gebühr je angefangene 24 Stunden für Normalgewichte und je angefangene 100 kg | 2,60 Euro
  | vom 21. Tag an, je angefangene 24 Stunden | 1,40 Euro
  | Bis 100 kg wird keine Gebühr erhoben, wenn die Normalgewichte vom Eichamt mitgeführt werden. | 
-300.01 | Gebühr je angefangene 24 Stunden für einen Gewichtskasten, | 
- | wenn dieser nicht vom Eichamt mitgeführt wird | 2,60 Euro
+300.01 | Gebühr je angefangene 24 Stunden für einen Gewichtskasten, wenn dieser nicht vom Eichamt mitgeführt wird | 2,60 Euro
  | vom 21. Tag an, je angefangene 24 Stunden | 1,40 Euro
 300.02 | Gebühr für die Instandsetzung und Reinigung unsachgemäß behandelter eichamtlicher Prüfmittel | nach Arbeitsaufwand
  | Es werden die Stundensätze für Prüf- und Reisezeiten entsprechend der jeweils geltenden Eichkostenverordnung (EichKostV) zugrunde gelegt. | 
@@ -32,8 +30,7 @@ B. | Kostentatbestände |
 301.00 | Blutdruckmessgeräte, Prüfung im Eichamt | 12,00 Euro
 301.01 | Blutdruckmessgeräte, Prüfung im Eichamt, ab dem 11. Stück | 7,00 Euro
 301.02 | Blutdruckmessgeräte, Prüfung im Rahmen der Rundfahrt | 14,00 Euro
-301.03 | Blutdruckmessgeräte, Prüfung außerhalb der Rundfahrt | 
- | einschließlich Reise- und Wartezeiten | nach Arbeitsaufwand
+301.03 | Blutdruckmessgeräte, Prüfung außerhalb der Rundfahrt einschließlich Reise- und Wartezeiten | nach Arbeitsaufwand
 301.04 | Anzeigegeräte für medizinische Elektrothermometer (MET) einschließlich Prüfbescheinigung, Prüfung im Eichamt | 20,00 Euro
 301.05 | Anzeigegeräte für medizinische Elektrothermometer (MET) einschließlich Prüfbescheinigung, Prüfung außerhalb des Eichamtes einschließlich Reise- und Wartezeiten | nach Arbeitsaufwand
  | Hinweis zu 301.03 und 301.05: | 
@@ -41,7 +38,7 @@ B. | Kostentatbestände |
 301.06 | Applanationstonometer - Prüfung im Eichamt einschließlich Prüfbescheinigung | 60,00 Euro
 301.07 | Impressionstonometer - Prüfung im Eichamt einschließlich Prüfbescheinigung | 50,00 Euro
 301.08 | Versand- und Verpackungskosten für zurückgesandte Messgeräte | Porto plus 5,00 Euro
-302 | Überwachung von medizinischen Laboratorien nach § 4a der Medizinprodukte-Betreiberverordnung | 
+302 | Überwachung von medizinischen Laboratorien nach § 4 a der Medizinprodukte-Betreiberverordnung | 
 302.01 | Laboratorien, die weniger als drei überwachungspflichtige Messgrößen bestimmen | 180,00 Euro
 302.02 | Laboratorien, die drei oder mehr überwachungspflichtige Messgrößen bestimmen | 270,00 Euro
 302.03 | Laboratorien niedergelassener Ärzte (mit Ausnahme von Laborärzten), die Messgrößen in ihrer Praxis bestimmen | 59,80 Euro
@@ -54,6 +51,13 @@ B. | Kostentatbestände |
 310.01 | Amtshandlungen auf Grund des Mutterschutzgesetzes und § 18 Abs. 1 des Bundeserziehungsgeldgesetzes | 108,00 Euro bis 1.200,00 Euro
 310.02 | Ausnahmen vom Jugendarbeitsschutzgesetz | 54,00 Euro bis 600,00 Euro
 310.03 | Ausnahmen vom Ladenschlussgesetz | 54,00 Euro bis 300,00 Euro
+310.04 | Ausgabe von Kontrollgeräten nach dem Fahrpersonalgesetz | 
+ | a) Fahrerkarte | 22,00 Euro
+ | b) Werkstattkarte | 30,00 Euro
+ | c) Unternehmenskarte | 22,00 Euro
+ | Anmerkung: | 
+ | Zuzüglich zu den genannten Kosten der Ausgabestellen werden Auslagen erhoben, die u.a. im Zusammenhang mit der Personalisierung der Kontrollgerätkarten und der Bereitstellung eines zentralen Kontrollgerätkartenregisters beim Kraftfahrtbundesamt entstehen. | 
+310.05 | Eidesstattliche Versicherung im Rahmen des Fahrpersonalgesetzes | 30,70 Euro
 311 | Betriebsärzte und Fachkräfte für Arbeitssicherheit (Arbeitssicherheitsgesetz usw.) | 
 311.00 | Ausnahmen vom Arbeitssicherheitsgesetz | 108,00 Euro bis 800,00 Euro
 311.01 | Anerkennung von Fachkundelehrgängen | 108,00 Euro bis 800,00 Euro
@@ -70,8 +74,8 @@ B. | Kostentatbestände |
 314.03 | Registrierung von Strahlenpässen; je Strahlenpass | 25,00 Euro
 314.04 | Ausstellung von Fachkundebescheinigungen | 35,00 Euro
 314.05 | Sonstige Amtshandlungen auf Grund der Strahlenschutzvorschriften | 54,00 Euro bis 400,00 Euro
-315 | Gerätesicherheitsgesetz und Medizinproduktegesetz | 
-315.00 | Genehmigungen zur Errichtung und zum Betrieb von Anlagen sowie Änderung dieser Genehmigungen | 5 v. T. der Errichtungskosten mind. 105,00 Euro
+315 | Geräte- und Produktsicherheitsgesetz sowie Medizinproduktegesetz | 
+315.00 | Genehmigungen zur Errichtung und zum Betrieb von Anlagen sowie Änderung dieser Genehmigungen | 5 v. T. der Errichtungskosten mind. 162,00 Euro
  | Die Gebühr erhöht sich ggf. um eine nach Nr. 315.01 fällige Gebühr. | 
  | Anmerkungen: | 
  | a) Als Errichtungskosten sind die Kosten der Teile der Anlage zugrunde zu legen, auf die sich die Genehmigung erstreckt; der Wert der Grundfläche sowie die Kosten von Hochbauten, die nicht Bestandteile der Anlagen im Sinne der jeweiligen Rechtsvorschrift sind, werden nicht einbezogen. | 
@@ -79,12 +83,11 @@ B. | Kostentatbestände |
  | c) Wird von der Genehmigung nicht Gebrauch gemacht, so werden 20 v. H. der Gebühr erstattet. Wird nur zum Teil Gebrauch gemacht, ist für den nicht ausgenutzten Teil entsprechend zu verfahren. | 
 315.01 | Ausnahmen von den Vorschriften | 108,00 Euro bis 800,00 Euro
 315.02 | Fristverlängerungen | 54,00 Euro bis 150,00 Euro
-315.03 | Erteilung von befristeten Genehmigungen | ein Drittel der sich nach 315.00 ergebenden Gebühr, aufgerundet auf volle 10,00 Euro
+315.03 | Erteilung von befristeten Genehmigungen | Ein Drittel der sich nach 315.00 ergebenden Gebühr, aufgerundet auf volle 10,00 Euro
 315.04 | Sonstige Amtshandlungen | 108,00 Euro bis 800,00 Euro
 316 | Sachverständige | 
 316.00 | Anerkennung von Sachverständigen und Sachkundigen | 108,00 Euro bis 800,00 Euro
 316.01 | Anerkennung von Sachverständigen der technischen Überwachungsvereine | gebührenfrei
-316.02 | Benennung von zugelassenen Überwachungsstellen | 380,00 Euro bis 7.500,00 Euro
 317 | Chemikaliengesetz und darauf erlassene Verordnungen | 
 317.00 | Erlaubnisse zur Begasung | 108,00 Euro
 317.01 | Erteilung von Befähigungsscheinen | 108,00 Euro
@@ -114,7 +117,7 @@ B. | Kostentatbestände |
 33 | Arbeits-, Schwerbehinderten- und soziales Entschädigungsrecht | 
 330 | Betriebsverfassungsrecht | 
 330.00 | Entscheidung über die Anerkennung von Schulungs- und Bildungsveranstaltungen nach § 37 Abs. 7 des Betriebsverfassungsgesetzes | gebührenfrei
-330.01 | Genehmigungen nach dem Gesetz über die Schaffung eines besonderen Arbeitgebers für Hafenarbeiter | gebührenfrei
+330.01 | Genehmigungen nach dem Gesetz über die Schaffung eines besonderen Arbeitgebers für Hafenarbeite | gebührenfrei
 331 | Schwerbehindertenrecht | 
 331.00 | Erstattungsverfahren für die unentgeltliche Beförderung schwerbehinderter Menschen | gebührenfrei
 4 | Jugend und Soziales | 
