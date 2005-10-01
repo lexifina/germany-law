@@ -1,0 +1,1 @@
+Auf Grund des Art. 83 Abs. 4 Satz 2 der Gemeindeordnung (GO) in der Fassung der Bekanntmachung vom 6. Januar 1993 (GVBl S. 65, BayRS 2020-1-1-I), zuletzt geändert durch Gesetz vom 24. Juli 1996 (GVBl S. 289), erläßt das Bayerische Staatsministerium des Innern folgende Verordnung:
