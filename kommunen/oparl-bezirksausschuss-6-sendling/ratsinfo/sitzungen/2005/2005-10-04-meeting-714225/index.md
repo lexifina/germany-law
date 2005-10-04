@@ -1,0 +1,62 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2005-10-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/714225
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/714225
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 3.: Gaststättenangelegenheiten
+- TOP 3.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 4.: Verkehrsangelegenheiten
+- TOP 4.1.: Bericht aus dem Unterausschuss Verkehr vom 09.08.2005
+- TOP 4.2.: Rücknahme der Vorfahrtsregelung in der Aberlestraße bzw. Zusatzbeschilderung "Achtung Radfahrer" an der Sortieranlage Gotzinger Platz
+- TOP 4.3.: Fehlende Stempen am Neuhauser Weg
+- TOP 5.: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 5.1.: Budgetantrag Initiative Kunst in Sendling; Druckkostenzuschuss für Öffentlichkeitsarbeit, ¿ 2.620,-
+- TOP 5.2.: Budgetantrag Sendlinger Kulturschmiede; Veranstaltungen zur Sendlinger Mordweihnacht, ¿ 1.150,-
+- TOP 5.3.: Änderung der BA-Satzung; Beteiligung der BA¿s durch die Städtische Klinikum München GmbH
+- TOP 5.4.: Änderung der BA-Satzung; Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen
+- TOP 5.5.: Änderung der BA-Satzung; Entscheidungs- und Anhörungsrechte bei der Schließung dezentraler Kultureinrichtungen
+- TOP 5.6.: Termine für BA-Sitzungen und Bürgerversammlung im Jahr 2006
+- TOP 6.: Referat für Stadtplanung und Bauordnung
+- TOP 6.1.: Meldelisten Bauvorhaben
+- TOP 6.2.: Bauvorhaben Dietramszeller Platz 2
+- TOP 6.3.: Handlungsprogramm Mittlerer Ring 2001 - 2005; Wohnen am Ring, Erfahrungsbericht
+- TOP 6.4.: Bauvorhaben Implerstraße 90
+- TOP 6.5.: Bauvorhaben Urbanstraße 11
+- TOP 6.6.: Bauvorhaben Maronstraße
+- TOP 6.7.: Bauvorhaben Roter-Turm-Platz 5
+- TOP 6.8.: Bauvorhaben Königsdorfer Straße 9
+- TOP 7.: Baureferat
+- TOP 7.1.: Antrag auf Pflanzung von zwei Bäumen in der Schöttlstraße Höhe Hausnummer 5
+- TOP 7.2.: Radweg an der Unterführung der Lindwurmstraße; Notwendige Sanierung der DB-Brücke über die Lindwurmstraße
+- TOP 7.3.: Expertenrunde Isarplan; Augusthochwasser 2005, Bericht aus dem Treffen vom 15.09.2005
+- TOP 7.4.: Realisierungsnetz Radfahrverbindungen in München, Fortschreibung 2005
+- TOP 7.5.: Bänke und Tische am Minimal-Markt Alramstraße; Spielplatzsituation Plinganserstraße südlich der Pfarrei St. Achaz; Gestaltungsvorschlag für die Grünanlage südlich der Plinganserstraße 70
+- TOP 8.: Baum- und Umweltschutz
+- TOP 8.1.: Baumfällung Kidlerstraße 38, zwei Eschen
+- TOP 8.2.: Baumfällung Aberlestraße 21, eine Schwarzpappel
+- TOP 9.: Soziales- und Sozialreferat
+- TOP 9.1.: Kommunales Wohnungsbauförderungsprogramm; Bauvorhaben Thalkirchner 190
+- TOP 9.2.: Bauvorhaben Greinerberg 17; Neubau einer Seniorenwohnanlage
+- TOP 9.3.: Einrichtung eines Bewohnertreffs auf der Theresienhöhe
+- TOP 10.: Schulreferat
+- TOP 10.1.: Informationsveranstaltung mit dem Schulreferat am 20.10.2005
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 12.1.: Baumpflanzung auf den begrünten Mittelinseln der Plinganserstraße zwischen Dudenstraße und Heckenstallerstraße; ggf. Finanzierung aus dem BA-Budget
+- TOP 12.2.: Verkehrsregelung in Untersendling; Alram- / Aberle- / Danklstraße
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Mehrjahresinvestitionsprogramm; Fortschreibung für die Jahre 2006 bis 2010
+- TOP 13.2.: Kulturelle und geschichtliche Veränderung der Münchner Stadtviertel durch Migrantinnen und Migranten
+- TOP 13.3.: Sachverständige für Migrationsfragen und interkulturell orientiertes Qualitätsmanagement; Termin für die Vorstellung des Themas im BA
+- TOP 13.4.: Ergebnis der Beteiligung der Landeshauptstadt München am EU-Projekt des Städtenetzwerkes INTERACT
