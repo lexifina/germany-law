@@ -1,0 +1,63 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2005-10-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/576371
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/576371
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Ruhestörung durch den neuen Spielplatz an der Burgkmairstraße
+- TOP 1.2.2.: Glasscherben Friedenheimer Brücke
+- TOP 2: Anträge
+- TOP 2.1.: CSU-Fraktion: Die Benutzung des städtischen Spielplatzes am Joergplatz sicherer zu machen; ferner ist ein geschlossener Abfallbehälter aufzustellen
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 1.177,60 Euro für eine Ausbildungsfahrt des Streitschlichterteams vom 10. - 14.10.05; Antragsteller: schule - beruf e. V.
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.09.05: Aufstockung eines Wohn- und Geschäftshauses mit 2 WE, Anbau eines Aufzugs sowie Nutzungsänderung im 1. u. 2. OG je einer Wohnung in eine Praxis, Fürstenrieder Str. 34
+- TOP 4.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.09.05: Allgemeines Eisenbahngesetz (AEG); Plangenehmigung nach § 18 Abs. 2 AEG; Gleiserneuerung mit Bettungserneuerung; Bahnstrecke 5521 München Pasing - Friedenheimer Brücke; Gemarkung Laim Gemarkung Pasing, Plangenehmigungsbescheid vom 13.09.2005
+- TOP 4.6.: Schreiben Stadtkämmerei vom 07.09.05: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2006 - 2010
+- TOP 5: Baumfällungen
+- TOP 5.1.: Eckermannstr. 21: 1 Tanne
+- TOP 5.2.: Fürstenrieder Str. 76
+- TOP 6: Baumfällungen in Verbindung mit Bauvorhaben (Baumbestandsplan)
+- TOP 6.1.: Renpacherstr. 48: Umbau / Erweiterung Wohnhaus mit Garage, Teilabbruch Garage
+- TOP 6.2.: Agnes-Bernauer-Str.: Neubau von zwei Wohn- und Bürogebäuden mit Läden im EG und zwei Tiefgaragen
+- TOP 7: Bauvorhaben
+- TOP 8: Sonstiges
+- TOP 9: Protokolle
+- TOP 10: Umlauf
+- TOP 10.1.: Schreiben BA-Geschäftsstelle vom 13.09.05: Behindertengerechter Zugang zu Bürgerversammlungen ( Antrag aus der BA-Sitzung vom 05.04.05 )
+- TOP 10.2.: Schreiben Kommunalreferat vom 07.09.05: Bauernmarkt Laim Agnes - Bernauer - Straße / Fürstenrieder Straße ( Antrag Nr. 554 vom 09.08.05 )
+- TOP 10.3.: Schreiben Planungsreferat vom 31.08.05: Allgemeines Eisenbahngesetz ( AEG ); Plangenehmigung nach § 18 Abs. 2 AEG, Gleiserneuerung mit Bettungserneuerung Bahnstrecke 5521 München Pasing - Friedenheimer Brücke
+- TOP 10.4.: Schreiben Planungsreferat vom 13.09.05: Baugenehmigung einer Werbeanlage, Friedenheimer Straße Nähe Hausnr. 2
+- TOP 10.5.: Bautenliste vom 29.08. - 04.09.05 1. Änderungsverfahren a ) Fürstenrieder Str. 34
+- TOP 10.6.: Bautenliste vom 05.09. - 11.09.05 1. Erstantragsverfahren a ) Hönlestr. 28
+- TOP 10.7.: Bautenliste vom 12.09. - 18.09.05 1. Änderungsverfahren a) Haslangstr. 9
+- TOP 10.8.: Schreiben Referat für Gesundheit und Umwelt vom 24.08.05: Mobilfunk; Baubeginnsanzeige
+- TOP 10.9.: Schreiben Referat für Gesundheit und Umwelt vom 01.09.05: Mobilfunk; Suchkreismeldung Laim Mitte
+- TOP 10.10.: Schreiben KVR vom 06.09.05: Aufhebung des personenbezogenen Behindertenparkplatzes in der Siglstraße
+- TOP 10.11.: Schreiben KVR vom 01.09.05: Gaststätte " Pizzeria Meraviglia ", Riegerhofstr. 20; unveränderte Fortführung
+- TOP 10.12.: Schreiben KVR vom 30.08.05: Gastsätte " Africa Savanne ", Elsenheimer Str. 2, unveränderte Fortführung
+- TOP 10.13.: Schreiben KVR vom 05.09.05: Vollzug des Gaststättengesetzes; Gaststätte "Cafe San", Elsenheimerstr. 12, 80687 München; Antrag des Bezirksausschusses 25 wg. Dimensionierung der Freischankfläche
+- TOP 10.14.: Schreiben Sozialreferat vom 07.09.05: Genehmigung der Zweckentfremdung durch Abbruch, Agricolastraße
+- TOP 10.15.: Schreiben Direktorium vom 01.09.05: Verwendungsnachweis über Budgetzuschuss für den Einsatz eines Spielbusses; Antragsteller: Pädagogische Aktion Spielen in der Stadt e. V.
+- TOP 10.16.: Schreiben Direktorium vom 08.09.05: Verwendungsnachweis über Budgetzuschuss für 40 - Jahr - Feier; Antragsteller: Innere Mission München / Evangelische Kindertagesstätte Laim
+- TOP 10.17.: Schreiben BA 21 vom 16.09.05: Rad- und Gehwegausbau in der Gotthardstraße
+- TOP 10.18.: Beschluss des Verwaltungs - und Personalausschusses als Feriensenat vom 24.08.05: 2. S - Bahn - Stammstrecke München; Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz ( AEG ), Planfeststellungsabschnitt 2 München - Mitte - Bereich Westseite Karlsplatz bis westliches Isarufer mit Bahnhof Marienhof einschließlich Rettungswege und brandschutztechnische Einrichtungen
+- TOP 10.19.: Beschluss des Verwaltungs- und Personalausschuss vom 28.09.2005: Bericht in der Bürgerversammlung über die Umsetzung der Empfehlungen des letzten Jahres bzw. der letzten 5 Jahre
+- TOP 10.20.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.09.05: Handlungsprogramm Mittlerer Ring 2001 - 2005, Wohnen am Ring, Erfahrungsbericht
+- TOP 10.21.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 28.09.05: Ergebnisse der Beteiligung der Landeshauptstadt München am EU Projekt des Stadtenetzwerkes INTERACT (2002-2004): Kooperative Stadtentwicklung in der Praxis
+- TOP 10.22.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.05: Pflege - und Betreuungseinrichtungen für die Bebauung entlang der Achse Hauptbahnhof - Laim - Pasing
+- TOP 10.23.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.05: Bebauungsplan mit Grünordnung Nr. 1897 Agnes-Bernauer-Straße (südlich), Kapruner Straße (westlich), Fischer-von-Erlach-Straße (östlich)
+- TOP 10.24.: Beschluss des Bauausschusses vom 27.09.05: Realisierungsnetz Radfahrverbindungen in München, Fortschreibung 2005
+- TOP 1.2: Bürgerpost an den BA
