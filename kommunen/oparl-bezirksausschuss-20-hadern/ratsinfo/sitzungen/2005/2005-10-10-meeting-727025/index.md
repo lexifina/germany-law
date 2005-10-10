@@ -1,0 +1,70 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2005-10-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/727025
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/727025
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Dankschreiben des Musischen Kindergartens Christa Gittner e.V.
+- TOP 1.2.: Wohnen "Am Fürstenrieder Wald"
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 2.1.: Niederschrift der Sitzung vom 12.09.2005
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Saalburgstr. 24a, 1 Fichte
+- TOP 3.2.: Ringstr. 19, 1 Serbische Fichte
+- TOP 3.3.: Georginenstr. 23, gem. Baumbestandsplan Nr. 05-23267
+- TOP 3.4.: Am Waldrand 19, 1 Rotfichte
+- TOP 3.5.: Haseneystr. 18, gem. Baumbestandsplan Nr. 05-24562
+- TOP 3.6.: Hochwaldstr. 27, 1 Birke
+- TOP 3.7.: Alpenveilchenstr. 9a
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.8.: Würmtalstr. 25, 1 Birke (Baureferat, 30.08.2005)
+- TOP 3.9.: Waldfriedhof, 42 Fichten (Baureferat, 30.08.2005)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 3.10.: Marchioninistr. 7, 1 Esche
+- TOP 4.: Ausschussberichte
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 6.: Entscheidungsfälle
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Unveränderte Fortführung des Gaststättenbetriebes "Cafe-Restaurant Nashorn", Stiftsbogen 74 (KVR, 09.09.2005)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2006 - 2010 (Stadtkämmerei, 07.09.2005)
+- TOP 8.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Straßenmarkierung im 20. Stadtbezirk Sauerbruchstraße / Prälat-Wellenhofer-Straße (KVR, 07.09.2005)
+- TOP 9.2.: Haltverbot in der Senftenauerstraße (KVR, 13.09.05)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Süddeutsche Zeitung vom 10.09.2005, Leserbrief zum Artikel "Null Acht neun: Weltstadt der Rechthaber" (BA 9, 13.09.2005)
+- TOP 11.2.: Leistungsbilanz des Sozialreferates zur Bürgerversammlung am 29.09.05
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss des Bauausschusses vom 27.09.2005: Realisierngsnetz Radfahrverbindung in München Fortschreibung 2005
+- TOP 12.2.: Beschluss des Bauausschusses vom 27.09.2005: Instandsetzung der Straßenbrücke im Zuge der Abfahrt von der B 2 neu über die Boschetsrieder Straße zur Fürstenrieder Straße im 7. Stadtbezirk Sendling - Westpark, 19. Stadtbezirk Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln und 20. Stadtbezirk Hadern
+- TOP 12.3.: Beschluss des Verwaltungs- und Personalausschusses vom 28.09.2005 Bericht in der Bürgerversammlung über die Umsetzung der Empfehlungen des letzten Jahres bzw. der letzten 5 Jahre
+- TOP 12.4.: Beschluss des Schulausschusses des Stadtrates vom 21.09.2005 Erweiterung der Sporthalle in der Grundschule Am Hedernfeld, Empfehlung Nr. 20 der Bürgerversammlung des 20. Stadtbezirkes Hadern am 07.10.2004
+- TOP 12.5.: Haushaltsplan 2006; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 12.6.: Haushaltsplan 2006; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 12.7.: Haushaltsplan 2006; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger des Amtes für Soziale Sicherung
+- TOP 12.8.: Haushaltskonsolidierung - Feinkonzept 2006
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.9.: Beschluss des Ausschusses für Stadtplanung und Baurodnung vom 28.09.2005 Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/17, Krähenweg (beiderseits)
+- TOP 12.10.: Bekanntgaben
+- TOP 12.11.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 28.09.2005 Ergebnisse der Beteiligung der Landeshauptstadt München am EU Projekt des Städtenetzwerkes INTERACT (2002 - 2004): Kooperative Stadtentwicklung in der Praxis
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 13.1.: Beschluss des Schulausschusses des Stadtrates vom 21.09.2005 Errichtung einer Kindertagesstätte mit 2 Kindergartengruppen am Max-Lebsche-Platz/Prälat-Wellenhofer-Straße; 20. Stadtbezirk Hadern
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
