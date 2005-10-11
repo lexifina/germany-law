@@ -1,0 +1,75 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2005-10-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/676867
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/676867
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Festellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 13.09.05
+- TOP 2: Anträge
+- TOP 2.1.: Leitsätze für Budget
+- TOP 2.2.: Andreasgemeinde
+- TOP 2.3.: Namensgebung Biotop " Siemens Wäldchen"
+- TOP 2.4.: Fortbestand Bürgersaal Fürstenried Ost
+- TOP 3: Unterauschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Hundeproblematik Hermann-Hahn-Platz und Spindlerplatz
+- TOP 5: Unterauschuss Verkehr
+- TOP 5.1.: Erneuerung Hofmannstraße zwischen Boschetsrieder Str. und Zielstattstraße
+- TOP 5.2.: Parkbuchten Diefenbachstraße
+- TOP 5.3.: Verkehrsgefährdung Prinz-Ludwigs-Höhe
+- TOP 5.4.: Verkehrsrechtliche Anordnung Benediktbeurer Straße - Nordseite
+- TOP 5.5.: Aufhebung Halteverbot Jägerhuberstraße
+- TOP 5.6.: Straßenbaumaßnahme Kistlerstraße / Drygalski Allee
+- TOP 5.7.: Straßenbaumaßnahme Waakirchner Straße
+- TOP 5.8.: Verkehrssituation Hofbrunnstr. zwischen Aidenbach- / Wolfratshauser Str.
+- TOP 5.9.: Herterichstr. / Begasweg
+- TOP 5.10.: Melchiorstraße
+- TOP 5.11.: Ecke Diefenbach-/Stridbeckstraße
+- TOP 5.12.: Parkplatz Filchnerstr. 42
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Makartstr. 1 (T)
+- TOP 6.2.: Heilmaierstr. 40
+- TOP 6.3.: Bichler Str. o.Nr.
+- TOP 6.4.: BPl. Rupert-Mayer-Str. (südlich), Koppstr. (westlich)
+- TOP 6.5.: Buchendorfer Straße
+- TOP 6.6.: Argelsrieder Straße 19
+- TOP 6.7.: Saargemünder Straße 4
+- TOP 6.8.: Boschetsrieder Straße 125
+- TOP 6.9.: Neurieder Straße 6
+- TOP 6.10.: Muxelstr. 5
+- TOP 6.11.: Seeshaupter Str.
+- TOP 6.12.: Drygalski Allee 15
+- TOP 6.13.: Riedener Str. 10
+- TOP 6.14.: Hofbrunnstr. 51
+- TOP 6.15.: Buchendorfer Str
+- TOP 6.16.: Boschetsrieder Str. 72
+- TOP 6.17.: Herterichstr. 10
+- TOP 6.18.: Rupert-Mayer-Str. 45
+- TOP 6.19.: Filchnerstr. 16
+- TOP 6.20.: Boschetsrieder Str. 118
+- TOP 6.21.: Drygalski-Allee 2
+- TOP 6.22.: BPl. Pullach
+- TOP 7: Entscheidungsfälle
+- TOP 7.1.: Widmung der Gesamtstrecke der Franz-von-Rinecker-Straße
+- TOP 7.2.: Zukünftige Katastrophenvorplanung zur Vermeidung mangelhafter Schneeräumung (Schneechaos Winter 2004/2005)
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Satzungsänderung; Beteiligung der Bezirksausschüsse durch Städt. Klinikum Mchn. GmbH
+- TOP 8.2.: Satzungsänderung; Entscheidungs- oder Anhörungsrechte für Bezirksausschüsse bei der Schließung dezentraler Kultureinrichtungen
+- TOP 8.3.: Überschwemmung Becker-Gundahl-Straße
+- TOP 8.4.: Änderung der Satzung; Entscheidung für den BA bei der Genehmigung von Freischankflächen
+- TOP 8.5.: MIP 2006 - 2010
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
