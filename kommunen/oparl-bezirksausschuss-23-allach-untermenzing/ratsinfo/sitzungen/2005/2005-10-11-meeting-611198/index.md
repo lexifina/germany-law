@@ -1,0 +1,59 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2005-10-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/611198
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/611198
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 2: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Tausch einer städtischen Immobilien; Grundstück an der Rudorffstraße
+- TOP 5.2.: Entscheidungs-oder Anhörungsrechte für Bezirksausschüsse bei der Schließung dezentraler Kultureinrichtungen
+- TOP 5.3.: Änderung der BA-Satzung; Beteiligung der BAs durch die städt. Klinikum München GmbH
+- TOP 5.4.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2006-2010; Anhörungsverfahren
+- TOP 5.5.: Änderung der BA-Satzung, Anlage 1 (Katalog): Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen
+- TOP 5.6.: Verkehrsrechtliche Anordnung; Absolutes Haltverbot in der Von-Kahr-Straße
+- TOP 6: Schreiben des Oberbürgermeisters
+- TOP 6.1.: Verkehrsplanung Münchner Nordwesten; Beschluss des Planungs- und Bauausschusses vom 21.07.05
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8: Schreiben des Direktoriums
+- TOP 8.1.: Bürgerversammlung Allach-Untermenzing am 18.10.05, Multimedia-Präsentation
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Fahrbahnsanierung Waldhornstraße zwischen der Allacher Straße und Schlehbuschstraße
+- TOP 9.2.: Umlaufsperre Karl-Gayer-Straße, Besprechungstermin am 25.10.05
+- TOP 9.3.: Verbindungsstraße Angerlohe - Ludwigsfelder Straße; Aufnahme von Verhandlungen mit der Fa. Krauss-Maffei zur Überlassung der Werkstraße auf Miet- oder Mietkaufbasis (BA-Antrag Nr. 120 vom 17.03.05)
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Genehmigung Schießbetrieb der Kgl. priv. Feuerschützengesellschaft am 09.09. und 10.09.05
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO a) Vorherstr. 9, 2 Eichen b) Karl-Geyer-Str. 6, 1 Laubbaum c) Mannertstr. 29, 1 Atlaszeder d) Franz-Nißl-Str. 65, Baumbestandsplan Nr. 05-20563 e) Lossenstr. 26, 1 Fichte e) Franz-Nißl-Str. 50, 1 Ahorn f) Auenbruggerstr. 85, 1 Kiefer g) Gruithuisenstr. 19, 1 Schwarzkiefer h) Anton-Fehr-Str. 9, 2 Fichten
+- TOP 11.2.: Bauanträge (v. 29.08.-04.09., 05.09.-11.09., 12.09.-18.09, 19.09.-25.09.05.)
+- TOP 11.3.: Nahverkehrsplan der LH München
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Zweckentfremdung von Wohnraum, Pringsheimstr. 12
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Stadtrats - und Ausschussbeschlüsse
+- TOP 20.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.05: - Bebauungsplan mit Grünordnung Nr. 1969 Untere Angerlohe
+- TOP 20.2.: Bauausschuss vom 27.09.05: - Realisierungsnetz Radfahrverbindungen in München, Fortschreibung 2005
+- TOP 20.3.: Verwaltungs- und Personalausschuss vom 28.09.05 - Bericht in der Bürgerversammlung über die Umsetzung der Empfehlungen des letzten Jahres bzw. der letzten 5 Jahre
+- TOP 20.4.: Ausschuss für Stadtplanung und Bauordnung vom 28.09.05 - Bebauungsplan mit Grünordnung Nr. 1857 Von-Kahr-Str, Allacher Str. und Peter-Dörfler-Str. (südlich), Bahnline München-Regensburg (nordwestlich), Menzinger Str. (nordöstlich) und Hormayrstr. (östlich) - Ergebnisse der Beteiligung der LH München am EU Projekt des Städtenetzwerkes INTERACT: Kooperative Stadtentwicklung in der Praxis - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/4, Ludwigsfelder Str. (südlich) - Hackersiedlung -
+- TOP 20.5.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 11.10.05 - Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes - Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Mirgration - Haushaltskonsolidierung - Feinkonzept 2006 - Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung - Einstellung des Vernetzungsprojektes REGSAM
+- TOP 20.6.: Vollversammlung vom 06.10.05 - Perspektive München, Bericht zur Stadtentwicklung 2003
+- TOP 21: Verschiedenes
