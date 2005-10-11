@@ -1,0 +1,100 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2005-10-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/566817
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/566817
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .2.: Einspuch gegen die Parkplatzmarkierungen in der Arzberger Straße; Bürgerschreiben vom 11.10.2005
+- TOP .2.2: Behördenvertreter
+- TOP .2.2.1: Vortrag städtischer Referate
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP .2.3: Bericht des Vorsitzenden
+- TOP .2.4: Bericht aus dem Stadtrat
+- TOP 4.5.5.6: Sonstiges
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Errichtung eines Wartehäuschens an der Haltestelle der Buslinien 144 und 220 an der Tegernseer Landstraße/St-Quirin-Platz; Verlauf der Buslinie 144; Antrag der SPD-Fraktion vom 13.09.2005; zu 3.1 Weiterführung der Buslinie 144 bis Harlachinger Krankenhaus; Zusatzantrag der SPD-Fraktion vom 27.09.05
+- TOP 3.2.: Erhöhung der Anzahl der Anlagenaufseher in den städtischen Grünanlagen; Antrag der SPD-Fraktion vom 12.09.2005
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: 103er-Freizeittreff Obergiesing, für die Maßnahme: Kindertheater-Festival am 10.11. u. 20.11. 05; Antragssumme: 510,-- Euro; Beschlussvorlage des Direktoriums vom 06.09.05
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 4.5.5.1: Bericht
+- TOP 4.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Vollzug von § 13 der BA-Satzung; Katalog-Angelgenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; 5.1.3.1.1 Anwesen Roßtalerweg; Anbau eines Vorbaus beim Eingang zur Werkstatt für Behinderte, Therapie- u. Gemeinschaftseinrichtungen; Anhörung vom 16.09.05 mit der Bitte um Stellungnahme binnen eines Monats 5.1.3.1.2 Anwesen Tegernseer Landstraße; Neubau eines Wohn- u. Geschäftshauses mit TG; VORBESCHEID; Anhörung vom 16.09.05 mit der Bitte um Stellungnahme binnen eines Monats 5.1.3.1.3 Anwesen Schwanseestr.; Neubau einer ALDI-Filiale mit Wohnbebauung u. TG; Anhörung vom 16.09.05 mit der Bitte um Stellungnahme binnen eines Monats
+- TOP 4.2.: Bebauungsplan mit Grünordnung Nr. 1818; Schwanseestraße, Chiemgaustraße, Bahnlinie München-Deisenhofen, Ständlerstraße; Aufhebungsbeschluss; Zuleitung des Referats für Stadtplanung und Bauordnung vom 23.09.05 mit der Bitte um Stellungnahme bis 07.11.05
+- TOP 4.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Baufälle im 17. Stadtbezirk
+- TOP 4.2.: Gaststätten (unveränderte Fortführung); Mitteilungen des KVR 5.1.4.2.1 SSW "Orkide", Stadelheimer Str. 19; Mitteilung vom 05.09.05
+- TOP 4.3.: Handlungsprogramm Mittlerer Ring 2001-2005; Wohnen am Ring; Erfahrungsbericht; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.09.05
+- TOP 4.4.: Realisierung des Bebauungsplans Nr. 1586 - Giesinger Bahnhof -; Antrag des BA 17 02-08 / B 00421 vom 14.06.05; Schreiben des Referats für Stadtplanung u. Bauordnung vom 29.08.05
+- TOP 4.5.: Gaststätten (unveränderte Fortführung); Mitteilung des KVR 5.1.4.5.1 Kleingaststätte "Son Durak"; Eintrachtstr.; Mitteilung vom 20.09.2005
+- TOP 4.6.: Ergebnisse der Beteiligung der LHM am EU Projekt des Städtenetzwerkes INTERACT (2002-2004): Kooperative Stadtentwicklung in der Praxis; Sitzungsvorlagen Nr. 02-08 / V 06865; Bekanntgabe im Ausschuss für Stadtplanung u. Bauordnung vom 28.09.2005
+- TOP 4.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung
+- TOP 4.1.: Euro-Skate-Halle Leopoldstraße, Informationsmaterial; Zuleitung der Arbeitsgruppe Buhlstraße vom 29.07.2005
+- TOP 4.1.: Frühe Förderung benachteiligter Kinder intensivieren; Beschluss des Kinder- u. Jugendhilfeausschusses vom 20.09.05
+- TOP 4.2.: Haushaltskonsolidierung - Feinkonzept 2006; Beschluss des Kinder- u. Jugendhilfe- u. Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005 (SB)
+- TOP 4.3.: Haushaltsplan 2006; Produkt- u. zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Beschluss des Kinder- u. Jugendhilfeausschusses u. des in der gemeinsamen Sitzung vom 11.10.2005 (SB)
+- TOP 4.4.: Haushaltsplan 2006; Produkt- u. zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses vom 11.10.2005
+- TOP 4.5.: Haushaltsplan 2006; Produkt- u. zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen u. Migration; Beschluss des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005 (SB)
+- TOP 8.8.1.3: UA Verkehr
+- TOP 4.1.: Verkehrssicherheit an der Fußgängerampel Silberhornstraße; Bürgerschreiben vom 13.09.2005
+- TOP 4.1.: Schlierseestr. 31 - 35; Kurzparkzone mit Parkscheibe in der Werinherstr; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Anhörung des KVR vom 12.09.2005
+- TOP 4.1.: Verkehrssituation / ruhender Verkehr in der Arzberger Str.; Antwortschreiben des KVR vom 08.09.05 zum Schreiben des BA 17 vom 18.08.05
+- TOP 4.2.: Realisierungsnetz Radfahrverbindungen in München; Fortschreibung 2005; Beschluss des Bauausschusses vom 27.09.2005
+- TOP 4.3.: Antrag Nr. 02-08/B 00035 "Trennung von Rad- u. Passantenverkehr"; Antwort vom Baureferat vom 25.08.05 auf die KVR-Anfrage; Mitteilung des KVR vom 12.09.05
+- TOP 8.8.1.4: UA Umwelt
+- TOP 4.1.: Einrichtung einer neuen Wertstoffinsel mit der Aufstellung von Recyclingcontainern für Glas, Metall und Kunststoff in der Werinherstraße; Antrag des BA 17 vom 14.06.2005; Antwortschreiben des Abfallwirtschaftsbetriebs München vom 06.07.2005 (vertagt aus der Sitzung am 13.09.2005)
+- TOP 4.1.: Wertstoffcontainerstandort Hohenwaldecktstr. / Werinherstr. ; Zuleitung des Abfallwirtschaftsbetriebes mit der Bitte um Stellungnahme bis Ende der 44. Kalenderwoche
+- TOP 4.2.: Wertstoffcontainerstandort Brecherspitzstr.; Zuleitung des Abfallwirtschaftsbetriebes mit der Bitte um Stellungnahme bis Ende der 44. Kalenderwoche
+- TOP 4.3.: Wertstoffcontainerstandort Untersbergstr.; Zuleitung des Abfallwirtschaftsbetriebes mit der Bitte um Stellungnahme bis Ende der 44. Kalenderwoche
+- TOP 4.4.: Wertstoffcontainerstandort Weißenseestraße; Zuleitung des Abfallwirtschaftsbetriebes mit der Bitte um Stellungnahme bis Ende der 44. Kalenderwoche
+- TOP 4.5.: Wertstoffcontainerstandort Weißenseestr. / Wieskirchstr.; Zuleitung des Abfallwirtschaftsbetriebes mit der Bitte um Stellungnahme bis Ende der 44. Kalenderwoche
+- TOP 4.6.: Wertstoffcontainerstandort Neuherbergstr.; Zuleitung des Abfallwirtschaftsbetriebes mit der Bitte um Stellungnahme bis Ende der 44. Kalenderwoche
+- TOP 4.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung des Baureferats über das Fällen von Gefahrenbäumen vom 12.09.2005
+- TOP 4.2.: Tegernseer Platz im 17. Stadtbezirk; Ruhebank für Bürgerinnen u. Bürger; Schreiben des Baureferats vom 15.09.05 zum Schreiben des BA 17 vom 25.07.05
+- TOP 4.1.: Sachstand Mittelpunktsbibliotheken (vertagt aus der Sitzung am 13.09.2005)
+- TOP 4.1.: Vollzug von § 29 Abs. 2 der StVO; Veranstaltung auf öffentlichem Verkehrsgrund; hier: Einweihungsfest anlässlich der Fertigstellung des ersten kommunalen Wandbildes am 22.09.05 in der Sägstraße; Anhörung des KVR vom 19 09.05 (vorab entschieden durch den BA-Vorsitzenden nach § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 4.1.: Vereinsauflösung des Trägervereins Giesinger Bahnhof e.V. am 28. Juli 2005; Protokoll der Mitgliederversammlung
+- TOP 6: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.1.: Entscheidungs- oder Anhörungsrechte für Bezirksausschüsse bei der Schließung dezentraler Kultureinrichtungen; Änderung der BA-Satzung, Katalog Kulturreferat Nr. 2; Schreiben der Bürgermeisterin vom 06.09.05 mit der Bitte um Stellungnahme bis Jahresende
+- TOP 6.2.: Änderung der BA-Satzung; Beteiligung der Bezirksausschüsse durch Städtisches Krankenhaus München GmbH; Schreiben der Bürgermeisterin vom 08.09.05 mit der Bitte um Stellungnahme
+- TOP 6.3.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2006 - 2010; Anhörungsverfahren; Zuleitung der Stadtkämmerei mit der Bitte um Stellungnahme bis 24.10.2005
+- TOP 6.4.: Änderung der BA-Satzung, Anlage 1 (Katalog): Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen (Ziff. 2 des Antrages); Schreiben der Bürgermeisterin Fr. Dr. Burkert vom 13.09.05 mit der Bitte um Stellungnahme
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.: Süddeutsche Zeitung von Samstag. 10.09.05; Leserbrief zum Artikel: "Null Acht Neun: Weltstadt der Rechthaber"; Schreiben des BA 9 vom 13.09.2005
+- TOP 6.2.: Bericht in der Bürgerversammlung über die Umsetzung der Empfehlungen des letzten Jahres bzw. der letzten 5 Jahre; Beschluss des Verwaltungs- u. Personalausschusses vom 28.09.2005 (SB)
+- TOP 7: Berichte der Beauftragten
+- TOP 7.7.1: Ausländer/Innen
+- TOP 7.7.2: Baumschutz
+- TOP 7.7.2.1: Einzelfälle
+- TOP 7.1.: Anwesen in der Gietlstr.; Anhörung vom 05.09.2005
+- TOP 7.2.: Anwesen in der Bantingstr.; Anhörung vom 22.09.05
+- TOP 7.7.2.2: Baumbestandspläne
+- TOP 7.1.: Anwesen in der Holtzendorffstr.; Anhörung vom 06.09.05
+- TOP 7.2.: Anwesen in der Schwandorfer Str.; Anhörung vom 08.09.05
+- TOP 7.7.3: Behinderte
+- TOP 7.7.4: Frauen
+- TOP 7.7.5: Kinder
+- TOP 7.7.6: Senioren/Innen
+- TOP 7.7.7: Stadtteilpartnerschaft Colerain Township, Ohio, USA
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
