@@ -1,0 +1,1 @@
+# Verordnung zur Gestaltung von Dokumenten für blinde und sehbehinderte Menschen im Verwaltungsverfahren nach dem Bremischen Behindertengleichstellungsgesetz (Bremische Verordnung über barrierefreie Dokumente - BremVBD) vom 27. September 2005
