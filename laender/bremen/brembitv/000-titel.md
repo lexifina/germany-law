@@ -1,0 +1,1 @@
+# Verordnung für die Gestaltung barrierefreier Informationstechnik nach dem Bremischen Behindertengleichstellungsgesetz (Bremische Barrierefreie Informationstechnik-Verordnung - BremBITV) vom 27. September 2005
