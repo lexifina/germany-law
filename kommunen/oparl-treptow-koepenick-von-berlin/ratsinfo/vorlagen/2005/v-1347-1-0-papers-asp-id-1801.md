@@ -1,0 +1,24 @@
+# Berichterstattung zum Arbeitsstand bei der Schaffung eines Informationssystems zur Bewertung der Sozialräume im Bezirk Treptow-Köpenick
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Drucksache/Vorlage: V/1347
+- Art: Beschlussempfehlung
+- Datum: 2005-10-17
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=1801
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/papers.asp?id=1801
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=601 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=543 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=795 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=22
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=787 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=15
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=803 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=15
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=777 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=802 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1226 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=790 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=14
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=789 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=10
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1217 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=10
+- Beratung: Stellungnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=791 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=16
+- Beratung: Empfehlung  https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=19
+- Beratung: Entscheidung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=603 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=at&id=4
