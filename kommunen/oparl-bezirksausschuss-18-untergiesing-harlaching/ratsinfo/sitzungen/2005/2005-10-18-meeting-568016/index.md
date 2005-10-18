@@ -1,0 +1,111 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2005-10-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/568016
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/568016
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Wildes Camping in der Sachsenstraße; Bürgerschreiben vom 13.09.2005 - <div>an PI 23 verwiesen</div>
+- TOP 2.2.: Bauvorhaben in der Ahornstraße, Bürgerbeschwerde; Schreiben vom 25.09.2005 - <div>Weiterleitung an LBK</div>
+- TOP 2.3.: Verzicht auf die Errichtung einer Bank in der Humboldtstraße; Bürgerschreiben vom 26.09.2005 - <div>Weiterleitung an BA 5</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: UA 18 - Budgetangelegenheiten - 10.10.2005
+- TOP 3.1.: AntragstellerIn: Hauptschule an der Fromundstraße, für die Maßnahme: Ausbildung von Schülerstreitschlichtern vm 14. - 18.11.2005, Antragssumme: 1.275.- ¿; Beschlussvorlage des Direktoriums vom 29.09.2005 - <div>nach Antrag</div>
+- TOP 3.2.: AntragstellerIn: idylle.atelier im glashaus/Ateliergemeinschaft, für die Maßnahme: "Die Kunst des Verweilens, Ausstellung & Aktion" 14. - 16. Oktober, Antragssumme: 600.- ¿; Beschlussvorlage des Direktoriums vom 29.09.2005 - <div>nach Antrag</div>
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Verwendungsnachweis: AntragstellerIn: Münchner Konzertchor e. V.; für die Maßnahme: Konzert, Bach - Johannespassion in Harlaching, für den gewährten Zuschuss in Höhe von 300,- ¿ - <div>Zur Kenntnis genommen</div>
+- TOP 3.2.: 40-jähriges Jubiläum des "FEZI" Kinder- und Jugendtreff am Wettersteinplatz; Sachbericht, Schreiben des Kinder- und Jugendtreffs vom 06.10.2005 - <div>Zur Kenntnis genommen</div>
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: UA 18 - Verkehr - 17.10.2005
+- TOP 3.1.: Verkürzung des Haltverbots Höhe Harthauser Straße 1; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer vekehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des Kreisverwaltungsreferats vom 08.09.2005 mit der Bitte um Stellungnahme - <div>Zustimmung </div>
+- TOP 3.1.: Instandsetzung der Straßen im 18. Stadtbezirk; Straßenzustandsbericht und Beteiligung des BA bei Erstellung einer Prioritätenliste; Antrag des BA 18 vom 21.06.2005; Antwortschreiben des Baureferats vom 06.09.2005 - <div>Erneute Anfrage an das Baureferat</div>
+- TOP 3.2.: Geschwindigkeitsmessung in der Schönstraße; Bürgeranfrage; Antwortschreiben der Polizeidirektion Ost vom 28.09.2005 - <div>Zur Kenntnis genommen</div>
+- TOP 3.1.: Nahverkehrsplan der Landeshauptstadt München; Broschüre des Referats für Stadtplanung und Bauordnung; Zuleitung vom 26.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Realisierungsnetz Radfahrverbindungen, Fortschreibung 2005; Beschluss des Bauausschusses vom 27.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: UA 18 - Umwelt - 13.10.2005
+- TOP 3.1.: Isar-Hochwasser August 2005; Sachstand, Auswirkungen und erforderliche Maßnahmen; Bekanntgabe in der Sitzung des Bauausschusses vom 27.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen in der Jollystraße; Bescheid vom 08.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen - Thalkirchner Brücke, Nähe Haupteingang Tierpark; Zuleitung des Baureferats vom 19.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: UA 18 - Soziales - 11.10.2005
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Neubau eines Kleinkinderspielplatzes am Griechenplatz; Zuleitung des Baureferats vom 05.10.2005 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 3.1.: Zukunft des Kindergartens St. Franziskus; Antrag von Herrn Stadtrat Pretzl; Beschluss des Schulausschusses des Stadtrates vom 21.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Haushaltsplan 2006, Produkt- und zieloriente Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeauschusses un des Sozialausschusses vom 11.10.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.5.: Einstellung des Vernetzungsprojektes REGSAM; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.6.: Haushaltskonsolidierung - Feinkonzept 2006; Beschluss des Kinder- und Jugendhilfe- und Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.7.: Mobiler stadtweiter psychiatrischer Krisendienst (MPKD); Zuleitung des Referats für Gesundheit und Umwelt vom 07.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.8.: Perspektive München - PM Aktuell; Geburtenentwicklung in München; Sitzungsvorlagen Nr. 02-08/V 06277; Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 12.10.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: UA 18 - Bau und Planung - 13.10.2005
+- TOP 3.1.: 3.5.4.1 Baumbestandspläne 3.5.4.1.1 Oberbiberger Straße 3.5.4.1.2 Pechdellerstraße 3.5.4.1.3 Meraner Straße 3.5.4.1.4 Lautererstraße - Nachtrag 3.5.4.1.5 Rabenkopfstraße - Nachtrag 3.5.4.1.6 Rabenkopfstraße - Nachtrag - <div>siehe Protokoll</div>
+- TOP 3.2.: 3.5.4.2 Anhörungen zu Bauvorhaben 3.5.4.2.1 Anwesen in der Birkenau - Nachtrag - <div>in den UA Bau und Planung verwiesen</div>
+- TOP 3.3.: Änderung der BA-Satzung, Anlage 1 (Katalog): Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen; Antrag des BA 2 Ludwigsvorstadt - Isarvorstadt vom 28.06.2005; Zuleitung der 2. Bürgermeisterin Dr. Burkert mit der Bitte um Stellungnahme - <div>Übernahme Antrag BA 2</div>
+- TOP 3.1.: Bauvorhaben in der Langobardenstraße; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 14.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Umbau Hans-Mielich-Platz; Schreiben des Baureferats vom 26.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Gaststätten (unveränderte Fortführungen), Mitteilungen durch das Kreisverwaltungsreferat 1. SSW "Bräuwastl", Hans-Mielich-Straße; Mitteilung vom 28.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Baufälle im 18. Stadtbezirk - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung u. Unterrichtung der Bezirksausschüsse; Unterrichtung des Sozialreferats; Mitteilungen des Sozialreferats 3.5.6.3.1 Anwesen in der Rabenkopfstraße; Mitteilung vom 15.09.2005 3.5.6.3.2 Anwesen in der Oberbiberger Straße; Mitteilung vom 15.09.2005 3.5.6.3.3 Anwesen in der Achleitnerstraße; Mitteilung vom 07.09.2005 3.5.6.3.4 Anwesen in der Autharistraße; Mitteilung vom 05.09.2005 3.5.6.3.5 Anwesen in der Langobardenstraße; Mitteilung vom 27.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Handlungsprogramm Mittlerer Ring 2001 - 2005; Wohnen am Ring, Erfahrungsbericht; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.5.: "Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt", Chancen und Perspektiven für Berg am Laim, Ramersdorf und Giesing, Stadtsanierung in München am Mittleren Ring Südost; Förmliche Festlegung der Gebiete "Innsbrucker Ring - westlich" und Tegernseer Landstraße/Chiemgaustraße" gemäß §142 Baugesetzbuch (BauGB), Neufassung der beiden Sanierungssatzungen-; Beschluss der Vollversammlung des Stadtrats vom 06.10.2005 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: UA 18 - Kultur, Veranstaltungen - 17.10.2005
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Änderung der BA-Satzung; Beteiligung der Bezirksausschüsse durch Städtisches Klinikum München GmbH - <div>Zustimmung</div>
+- TOP 4.3.: Mehrjahresinvestitionsprogramm 2006 - 2010; Anhörungsverfahren; Zuleitung der Stadtkämmerei mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 4.4.: Entscheidungs- oder Anhörungsrechte für die Bezirksausschüsse bei der Schließung dezentraler Kultureinrichtungen; Änderung der BA-Satzung Katalog Kulturreferat Nr. 2; Zuleitung der 2. Bürgermeisterin Dr. Burkert vom 06.09.2005 mit der Bitte um Stellungnahme - <div>in den UA Kultur und Veranstaltungen verwiesen</div>
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bericht in der Bürgerversammlung über die Umsetzung der Empfehlungen des letzten Jahres bzw. der letzten 5 Jahre; Empfehlung der Bürgerversammlung des 21. Stadtbezirks Pasing-Obermenzing vom 28.04.2005; Beschluss des Verwaltungs- und Personalausschusses vom 28.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.2.: Ergebnisse der Beteiligung der Landeshauptstadt München am EU-Projekt des Städtenetzwerkes INTERACT (2002 - 2004): Kooperative Stadtentwicklung in der Praxis; Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung am 28.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.3.: Leserbrief zum Artikel: "Null Acht Neun: Weltstadt der Rechthaber", Süddeutsche Zeitung vom Samstag 10.09.2005; Zuleitung des Bezirksausschusses 9 Neuhausen-Nymphenburg vom 13.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.4.: Änderung der BA-Satzung, Anhörung für den BA beim Kauf von Grundstücken; Antrag des BA 2 Ludwigsvorstadt-Isarvorstadt vom 27.07.2004; Beschluss des Verwaltungs- und Personalausschusses vom 28.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.5.: Änderung der Satzung für die Münchner Bezirksausschüsse; Anhörungsrecht bei der Standortfrage für die Unterbringung wohnungsloser Haushalte im Rahmen des Programms "Wohnen in München III" (KomPro/B); Antrag des BA 7 Sendling-Westpark vom 09.03.2004; Sitzungsvorlage Nr. 02-08/ 06808; Beschluss des Verwaltungs- und Personalausschusses vom 28.09.2005 - <div>zur Kenntnis genommen</div>
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
