@@ -1,0 +1,69 @@
+# 43. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2005-10-19T17:00:00+02:00
+- Ende: 2005-10-19T22:10:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=960
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=960
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=29742
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2006 - im Ausschuss abgelehnt
+- TOP 3: Konsensliste - im Ausschuss abgelehnt
+- TOP 4: Dringlichkeitsanträge - (offen)
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: MAE-Jobs mit Perspektiven auf einen Hauptschulabschluss verbinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Mieterhöhungen für die (GeSoBau-)Wirtschaftseinheit B - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Bebauungsplanentwurf XX-183 (Änderung des Geltungsbereiches) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Änderung des Geltungsbereiches für den Bebauungsplanentwurf XX-190 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: Erfahrungsbericht der Patientenfürsprecherin im Vitanas Krankenhaus für Geriatrie - überwiesen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Zukünftige konzeptionelle Gestaltung der Reinickendorfer Bibliotheken - beantwortet
+- TOP 7.1.1: Zukünftige konzeptionelle Gestaltung der Reinickendorfer Bibliotheken - überwiesen
+- TOP 7.1.2: Infrastrukturkosten des Gebäudes der Humboldt-Bibliothek - überwiesen
+- TOP 7.2: Schiffsanleger in Tegel - überwiesen
+- TOP 7.3: PPP im Bezirk - beantwortet
+- TOP 7.4: Gesamtkonzept für als besonders belastet ausgewiesene Kieze in Reinickendorf - beantwortet
+- TOP 7.4.1: Gesamtkonzept für als besonders belastet ausgewiesene Kieze in Reinickendorf - überwiesen
+- TOP 7.5: Flughafen Tegel - beantwortet
+- TOP 7.5.1: Flughafen Tegel - erledigt
+- TOP 7.5.2: Flughafen Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Entwurf des Bebauungsplanes 12-9 vom 14. März 2005 für die Fläche zwischen Wittenauer Straße, Creienfelder Weg und der Straße Am Klötzgraben sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-9 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Entwurf des Bebauungsplanes XX-259 für das Grundstück Wittestraße 51-53 und eine Teilfläche der Otisstraße sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-259 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Entwurf des Bebauungsplanes XX-278 für die Grundstücke Emmentaler Straße 132/150 sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-278 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Entwurf des Bebauungsplanes XX-244 für die Grundstücke Markendorfer Straße 15/21 sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-244 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Volkshochschule auch in der Ferienzeit - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Anordnung eines Zebrastreifens im Senftenberger Ring Ecke Calauer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Probleme mit der Ordnung an der Greenwichpromenade hier: Hafenmeister - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Beschäftigte des Bezirks Reinickendorf - erledigt
+- TOP 9.5: Platzzahlreduzierung - in der BVV abgelehnt
+- TOP 9.6: Weiterführung der Ringlinie 325 nach Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Kita-Eigenbetrieb - erledigt
+- TOP 9.8: Lärmbelästigung in der Bernstorffstraße in den Abendstunden und nachts - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Haltestelle Quickborner Straße auch sonntags anfahren - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Geplanter Verkauf Hannah-Höch-Haus - erledigt
+- TOP 9.11: Geplanter Verkauf Hannah-Höch-Haus - erledigt
+- TOP 9.12: Wiederherstellung der Rasenfläche am Wilhelmsruher Damm - erledigt
+- TOP 9.13: Feuerlöschboot zurück nach Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Personalfreiheit auf S-Bahnhöfen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Keine Militanten in Reinickendorf! - überwiesen
+- TOP 10.2: Steg und Beschilderung am Tegeler Fließ in Stand setzen - überwiesen
+- TOP 10.3: Programm "SCHULE UND ELTERN AKTIV FÜR TOLERANZ UND DEMOKRATISCHES HANDELN" - in der BVV zurückgezogen
+- TOP 10.4: Übergang über die "Sechserbrücke" erleichtern - überwiesen
+- TOP 10.5: "Fahr-Rat" in Reinickendorf - überwiesen
+- TOP 10.6: Uferbefestigung am Tegeler See in Stand setzen - überwiesen
+- TOP 10.7: Bezirksamt Reinickendorf - fit wie ein Turnschuh! - überwiesen
+- TOP 10.8: Kinderspielplatz an der Greenwichpromenade umzäunen - überwiesen
+- TOP 11: Beteiligung der BVV bei bezirklichen Baumaßnahmen innerhalb der Vegetationszeit - in der BVV abgelehnt
+- TOP 12: Senken des Wahlalters - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Senken des Wahlalters - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
