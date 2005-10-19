@@ -1,0 +1,8 @@
+# TOP 4: Sachstand EuRegionale 2008
+
+- Sitzung: öffentliche Sitzung des Hauptausschusses (2005-10-19)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=8439
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=2044&bi=2467
