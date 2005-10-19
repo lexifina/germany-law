@@ -1,0 +1,87 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2005-10-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/593352
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/593352
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Berichte aus dem Stadtrat
+- TOP 3: Berichte der Polizei
+- TOP 4: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 7: Anträge
+- TOP 8: Anhörungen
+- TOP 9: Kenntnisnahmen und Unterrichtungen
+- TOP 10: Sonstiges
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 9.9.1: Plenum
+- TOP 4.1.: Einrichtung von Wahlräumen in der Grundschule Hildegard-von-Bingen-Anger (Antrag Nr. 02-08 / B 00468 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 20.07.2005)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.9.2: Bau / Umwelt
+- TOP 4.1.: Verringerung des Fluglärms über der Wohnanlage an der Nordheide; (Empfehlung Nr. 02-08 / E 00147 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen - Am Hart am 30.06.2006); Beschluss des Umweltschutzausschusses vom 11.10.2005
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 4.1.: Halteverbot an der Einfahrt zum Helene-Mayer-Ring / Ecke U-Bahnhof Olympiazentrum auf etwa 30m Länge (Antrag Nr. 02-08 / B 00292 des Bezirksausschusses des Stadtbezirkes Milbertshofen - Am Hart vom 17.05.2005)
+- TOP 4.2.: Überplanung Kreuzungsbereich Lerchenauer Straße, Helene-Meyer-Ring und Preußenstraße mit BMW-Ausfahrt (Antrag Nr. 02-08 / B 00098 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 16.02.2005)
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Verein Stadtteilarbeit Milbertshofen; 10. Internationales Mädchenfest am 14.10.2005
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.1.: Bepflanzung Hildegard-von-Bingen-Anger (Empfehlung Nr. 02-08 / E 00132 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen - Am Hart am 30.06.2005)
+- TOP 6.2.: Sperrung der Durchfahrtsmöglichkeit Fingerkrautanger - Golddistelanger sowie Graslilienanger - Schneeheideanger über die Diagonale hinweg am Wochenende; (Empfehlung Nr. 02 - 08 / E 00134 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart am 30.06.2005)
+- TOP 6.3.: Aufnahme der Grundschule am Hildegard-von-Bingen-Anger in das Programm Schulhof- bzw. Sportplatzöffnung; (Empfehlung Nr. 02 - 08 / E 00136 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen - Am Hart am 30.06.2005)
+- TOP 6.4.: Konkrete Ordnungsmaßnahmen durch die Stadt und Polizei zur Herstellung von Ordnung und Sicherheit und dem Abbau sozialer Spannungen im Bereich des Neubaugebietes an der Nordheide. Konsequentes und effektives Vorgehen gegen die Falschparker im Bereich des Neubaugebietes auf der Nordheide sowie Errichtung von Parkhindernissen (z.B. Pfosten); (Empfehlung Nr. 02 - 08 / E 00137 und 00138 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen - Am Hart am 30.06.2005)
+- TOP 6.5.: Bessere Raumkoordinierung der Horteinrichtung Hanselmannstraße und Rückgabe zweier Räume an die Grundschule, damit nicht zwei Klassen an die GS Schleißheimer Straße ausgelagert werden müssen; (Empfehlung Nr. 02 - 08 / E 00141 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen - Am Hart am 30.06.2005)
+- TOP 6.6.: Mehr Ruhebänke im Schatten rund um die Nordheide; (Empfehlung Nr. 02 - 08 / E 00142 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart am 30.06.2005)
+- TOP 6.7.: Errichtung von Haltebuchten in der Weyprechtstraße für den Linienbus; (Empfehlung Nr. 02 - 08 / E 00145 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen - Am Hart am 30.06.2005)
+- TOP 6.8.: Einrichtung eines Fußgängerüberweges über die Neuherbergstraße auf Höhe Dolleschelstraße; (Empfehlung Nr. 02 -08 / E 00148 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen - Am Hart am 30.06.2005)
+- TOP 8.8.2: Bau/Umwelt
+- TOP 7.1.: Raumproblem Schuljahr 2005/2006 Grundschule an der Hanselmannstraße (Beatrice Nisster)
+- TOP 8.1.: Benennung des U-Bahnhofes Oberwiesenfeld statt Olympiapark Nord (Antrag Nr. 02-08 / B 00469 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 20.07.2005)
+- TOP 8.2.: Änderung der Stadtbezirksgrenzen (Empfehlung Nr. 29 der Bürgerversammlung des 4. Stadtbezirkes Schwabing - West am 05.10.2004)
+- TOP 8.3.: Änderung der BA - Satzung, Anlage 1 (Katalog): Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen (Antrag Nr. 02-08 / B 00433 des Bezirksausschusses des Stadtbezirkes 2 Ludwigvorstdt - Isarvorstadt vom 28.06.2005)
+- TOP 8.4.: Änderung der BA - Satzung, Beteiligung der Bezirksausschüsse durch Städtisches Klinikum München GmbH
+- TOP 8.5.: Änderung der BA - Satzung (Katalog Kulturreferat Nr. 2), Entscheidungs- oder Anhörungsrechte für Bezirksausschüsse bei der Schließung dezentraler Kultureinrichtungen (Antrag Nr. 1795 des Bezirksausschusses des 16. Stadtbezirkes Ramersdorf - Perlach vom 14.01.2004)
+- TOP 8.1.: Vollzug der Baumschutzverordnung a) Griegstr. 30, 34, 56, 1 Pappel, 1 Hainbuche, 1 Birke, 1 Linde b) Griegstr. 22, 1 Fichte c) Eduard-Schenk-Str. 27, 1 Esche, vierstämmig d) Moosacher Str. 80, 7 Bäume e) Alter St.-Georgs-Platz 5, 1 Linde
+- TOP 8.2.: Mobilfunk, Suchkreismeldung
+- TOP 8.1.: Moosacher Straße 11, Neubau einer Kindertagesstätte mit zwei Kindergartengruppen und einer sozialen Gemeinbedarfseinrichtung integriert in die Wohnbebauung (Beschluss des Schulausschusses des Stadtrates vom 09.11.2005) - nicht öffentlich -
+- TOP 9.1.: Zuwendung aus dem Budget der Bezirksausschüsse: a) Katholisches Pfarramt St. Lantpert, "Bechstein-Flügel", Bewilligung 1600,00¿ b) Verein Stadtteilarbeit e.V., "Milbertini", Bewilligung 2000,00¿ c) Direktorium, Schreiben an den Trägerverein Kulturhaus Milbertshofen
+- TOP 9.2.: Bericht in der Bürgerversammlung über die Umsetzung der Empfehlungen des letzten Jahres bzw. der letzten fünf Jahre (Empfehlung Nr. 02-08 / E 00074 der Bürgerversammlung des 21. Stadtbezirkes Pasing - Obermenzing am 28.04.2005)
+- TOP 9.3.: "Null Acht Neun: Weltstadt der Rechthaber" (SZ 10.09.2005); Leserbrief des Bezirksausschusses des 9. Stadtbezirkes Neuhausen - Nymphenburg
+- TOP 9.1.: Stadtratshearing am 19.10.2005, Diskurs "Stadtgestalt und neue Architektur", Terminänderung
+- TOP 9.2.: Perspektive München - PM Aktuell, Geburtenentwicklung in München (Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 12.10.2005)
+- TOP 9.3.: Perspektive München, Bericht zur Stadtentwicklung 2003 (Beschluss der ollversammlung des Stadtrates vom 06.10.2005)
+- TOP 9.4.: Ergebnisse der Beteiligung der Landeshauptstadt München am EU-Projekt des Städtenetzwerkes INTERACT (2002-2004): Kooperative Stadtentwicklung in der Praxis (Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 28.09.2005)
+- TOP 9.5.: Handlungsprogramm Mittlerer Ring 2001 - 2005, Wohnen am Ring, Erfahrungsbericht (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2005)
+- TOP 9.6.: Realisierungsnetz Radfahrverbindungen in München, Fortschreibung 2005 (Beschluss des Bauausschusses vom 27.09.2005)
+- TOP 9.7.: Nordheide Westteil, Teil III Bebauungsplan Nr. 1779 d, Bauträgerauswahl für das Bauquartier MI 2 an der Schleißheimer Straße (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2005)
+- TOP 9.8.: Ausweisung neuer Gewerbeflächen, Berichtsjahr 2004 (Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung, des Finanzausschusses und des Ausschusses für Arbeit und Wirtschaft vom 21.09.2005)
+- TOP 9.9.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.10.: Meldelisten Bauvorhaben
+- TOP 9.11.: Baumschutzverordnung, Gefahrenbäume
+- TOP 9.1.: Kulturelles Zentrum Milbertshofen im 11. Stadtbezirk Milbertshofen - Am Hart, Haushaltsjahr 2006 (Beschluss des Kulturausschusses vom 20.10.2005)
+- TOP 9.2.: Projekte quartierbezogener Bewohnerarbeit, Errichtung einer Stelle mit Schwerpunkt Interkulturelle Arbeit im Treff 111 / Ramersdorf (Beschluss des Sozialausschusses vom 22.09.2005)
+- TOP 9.3.: Projekte quartierbezogener Bewohnerarbeit, Einrichtung eines Bewohnertreffs auf der Theresienhöhe (Beschluss des Sozialausschusses vomm 22.09.2005)
+- TOP 9.4.: Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005)
+- TOP 9.5.: Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005)
+- TOP 9.6.: Haushaltskonsolidierung - Feinkonzept 2006 (Beschluss des Kinder- und Jugendhilfe- und Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005)
+- TOP 9.7.: Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.2005)
+- TOP 9.8.: Einstellung des Vernetzungsprojektes REGSAM (Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.2005)
+- TOP 9.9.: Unveränderte Fortführung von Gaststättenbetrieben: a) SSW "Mayflower", Milbertshofener Straße b) SSW "Nagile", Schleißheimer Straße
+- TOP 9.10.: Umwandlung einer städtischen Kindertageseinrichtung; hier Hildegard-von-Bingen-Anger 4b
+- TOP 9.11.: Kindertagesstätten freigemeinnütziger Träger, Neuerrichtung des 3-gruppigen Kindergartens "St. Gertrud" am Hildegard-von-Bingen-Anger (Beschluss des Schulausschusses des Stdtrates vom 12.10.2005)
+- TOP 9.1.: Busparken Dostlerstraße, Schreiben des Kreisverwaltungsreferates
+- TOP 9.2.: Nahverkehrsplan der Landeshauptstadt München
+- TOP 9.3.: Vollzug der Straßenverkehrsordnung, Filmaufnahmen auf öffentlichen Verkehrsgrund, Erlaubnisbescheid
+- TOP 9.4.: Veranstaltung auf öffentlichem Verkehrsgrund, Medienmarathon am 09.10.2005, Erlaubnisbescheid
+- TOP 9.5.: Anmeldung einer Versammlung und eines Aufzuges "3000km Laufen für Bildung", World Vision Deutschland e.V.
