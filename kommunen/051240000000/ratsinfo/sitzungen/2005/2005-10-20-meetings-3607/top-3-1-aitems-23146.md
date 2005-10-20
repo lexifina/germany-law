@@ -1,0 +1,7 @@
+# TOP 3.1: Stellungnahme der Gleichstellungsbeauftragten zur Gründung der Bergischen Weiterbildung
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für die Gleichstellung von Frau und Mann (2005-10-20)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/23146
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/11655
