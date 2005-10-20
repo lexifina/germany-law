@@ -1,0 +1,73 @@
+# 41. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2005-10-20T17:40:00+02:00
+- Ende: 2005-10-20T21:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1037
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1037
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=49890
+
+## Tagesordnung
+
+- TOP 1: Mitteilung - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - erledigt
+- TOP 3: Thematische Stunde - erledigt
+- TOP 4: Mündliche Anfrage - (offen)
+- TOP 4.1: Große Tonnen - weniger Abfall? - beantwortet
+- TOP 4.2: Wochenmarkt vor dem Roten Rathaus - beantwortet
+- TOP 4.3: Verpflichtende Sprachkurse vor der Einschulung - beantwortet
+- TOP 4.4: Softwarechaos im Bürgeramt - beantwortet
+- TOP 4.5: Integrationskonzept - schriftlich beantwortet
+- TOP 5: Dringlichkeitsanfrage - (offen)
+- TOP 5.1: Fallmanagement im Sozialamt - hart, aber herzlos? - beantwortet
+- TOP 5.2: Schulstation Gotzkowsky-Grundschule (1) - vertagt
+- TOP 6: Große Anfrage - (offen)
+- TOP 6.1: Und ewig grüßt das Murmeltier - geht das Bezirksamt auch in den Jahren 2005 und 2006 bei den Mitteln aus dem Umweltentlastungsprogramm ( UEP) leer aus? - beantwortet
+- TOP 6.2: Radfernweg Berlin-Kopenhagen - beantwortet
+- TOP 6.3: Chaos zur WM in Mitte? - beantwortet
+- TOP 6.4: Jobcenter Berlin-Mitte: Erste Bilanz - beantwortet
+- TOP 6.5: Das Jobcenter von Berlin-Mitte und der Erfolg der Arbeitsmarktreform - schriftlich beantwortet
+- TOP 6.6: Jobcenter - Schlangestehen bis zum Sankt Nimmerleinstag? - schriftlich beantwortet
+- TOP 6.7: Schule ohne Schüler? - schriftlich beantwortet
+- TOP 6.8: Haushaltsrisiko Pauschalvertrag für das Gebäude der ehemaligen Mosaikgrundschule - schriftlich beantwortet
+- TOP 7: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 7.1: Sitzungskalender 2006 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Bebauungsplanentwurf 1-13B sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-13B - überwiesen
+- TOP 8.2: Bebauungsplanentwurf III-69-1 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-69-1 - überwiesen
+- TOP 8.3: Bebauungsplanentwurf III-61-1 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-61-1 - überwiesen
+- TOP 8.4: Sitzverteilung in den Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10: Dringlichkeitsantrag - (offen)
+- TOP 10.1: Wochenmarkt vor dem Roten Rathaus - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bahnhof "Gesundbrunnen" - regionale Identität bewahren - überwiesen
+- TOP 10.3: Umgestaltung Weinbergspark - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Keine Kürzungen für QM-Verfahren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Planung Uferpromenade Monbijoupark korrigieren - überwiesen
+- TOP 11: Antrag - (offen)
+- TOP 11.1: Transparenz I: Ist-Listen zum Bezirkshaushalt der BVV regelmäßig zur Verfügung stellen - in der BVV abgelehnt
+- TOP 11.2: Musikbetonte Schulen erhalten, Kosten gerecht verteilen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Transparenz II: Alle Angaben zum Liegenschafts- und Gebäudemanagement der BVV regelmäßig zur Verfügung stellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Antrag/Beschlussempfehlung - (offen)
+- TOP 12.1: QM 1 - MitarbeiterInnen mit Migrationshintergrund - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: QM 4 - Stephankiez - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlage zur Kenntnisnahme - (offen)
+- TOP 13.1: Soziale Stadtentwicklung zu einem Kern bezirklichen Handelns machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.2: Tempo-30-Zone Lehrter Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.3: QM 3 - Verfügungstellung von Protokollen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.4: Aufzug für U-Bahnhof Voltastraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.5: Anschluss des Jobcenters an ÖPNV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.6: Änderung der Sanierungsziele zur Errichtung einer jüdischen Bildungsstätte auf dem Grundstück Brunnenstraße 33 im Block 099030 des Sanierungsgebietes Mitte Rosenthaler Vorstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: Benennung eines öffentlichen Platzes in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: Einteilung der Wahlkreise im Wahlkreisverband Mitte für die Wahl zum Abgeordnetenhaus von Berlin im Herbst 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.9: Programmmittel "Soziale Stadt" 2005 - 2008 der QM-Gebiete Reinickendorfer-/ Pankstraße, Moabit West, Magdeburger Platz, Soldiner Straße und Sparrplatz - mit Abschlussbericht zur Kenntnis genommen
