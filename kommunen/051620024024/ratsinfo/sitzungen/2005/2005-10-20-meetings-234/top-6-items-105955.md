@@ -1,0 +1,6 @@
+# TOP 6: HzE: Kennzahlen und Kostenentwicklung
+
+- Sitzung: Finanzausschuss (2005-10-20)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/105955
