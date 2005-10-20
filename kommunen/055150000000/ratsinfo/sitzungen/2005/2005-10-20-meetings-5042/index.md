@@ -1,0 +1,51 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-10-20T17:00:00+02:00
+- Ende: 2005-10-20T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/283
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5042
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5042
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00222774.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge
+- TOP 1.1: Schreiben des ISC Münster e. V. und Münster rollt e. V. vom 12.09.2005
+- TOP 1.2: Schreiben der Marine-Jugend Münster e. V. 1964 vom 07.10.2005
+- TOP 1.3: Schreiben der LG Ratio Münster e. V. vom 09.10.2005
+- TOP 1.4: Schreiben des TuS Saxonia Münster von 1883 e. V. vom 29.09.2005
+- TOP 2: Eingänge und Mitteilungen der Verwaltung
+- TOP 2.1: Eingänge/Tischvorlagen
+- TOP 2.1.1: Jugendparlament für Münster
+- TOP 2.1.2: Ratsantrag der Fraktion UWG/ödp vom 06.09.2005
+- TOP 2.2: Sportstätten
+- TOP 2.2.1: Multifunktionsraum Sporthalle Berg Fidel
+- TOP 2.2.2: Städt. Preußen-Stadion an der Hammer Straße - Kunstrasenspielfeld -
+- TOP 2.2.3: Errichtung zusätzliches Umkleidegebäude in der Sportanlage Nienberge, Feldstiege
+- TOP 2.2.4: Errichtung zusätzliches Umkleidegebäude in der Sportanlage Coppenrathsweg
+- TOP 2.2.5: Sanierung Schulsportanlage Karl-Wagenfeld-Schule
+- TOP 2.3: Projekte und Veranstaltungen
+- TOP 2.3.1: Volleyball-Länderspiel Damen Deutschland - Niederlande am 10.09.2005 (Rückblick)
+- TOP 2.3.2: Sport-Computer-Camp 2005/Kooperation mit SV Münster von 1891 e. V.
+- TOP 2.3.3: Sporteln am Wochenende
+- TOP 2.4: Bäder - Bericht Freibadsaison 2005
+- TOP 2.5: Sonstiges
+- TOP 2.5.1: Nebenspielfläche Sportanlage Amelsbüren
+- TOP 2.5.2: Reiner-Klimke-Preis
+- TOP 3: Vorlagen
+- TOP 3.1: Sportbetonte Schule
+- TOP 3.2: Ludgerusschule Albachten, Hohe Geist 8, 48163 Münster,
+- TOP 3.3: Sportstättenbau der Mitgliedsvereine des Stadtsportbund Münster e. V.
+- TOP 3.4: Baumaßnahmen der SSB-Mitgliedsvereine
+- TOP 3.5: Städtische Betriebs- und Mietkostenzuschüsse 2005 für 2004
+- TOP 4: Anfragen von Mitgliedern des Sportausschusses
+- TOP 4.1: Sportzentrum Ost
+- TOP 4.2: Interfraktioneller Arbeitskreis "Richtliniengebundene Betriebskostenzuschüsse"
+- TOP 5: Verschiedenes
+- TOP 5.1: Bäderkonzept
+- TOP 5.2: Volleyball-Länderspiel(e) in 2006
+- TOP 5.3: Mitteilungen
