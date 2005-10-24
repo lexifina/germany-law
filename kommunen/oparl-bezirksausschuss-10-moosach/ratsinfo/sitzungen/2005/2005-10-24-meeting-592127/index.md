@@ -1,0 +1,52 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2005-10-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/592127
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/592127
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4: Anträge
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 6: Anhörungen
+- TOP 6.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2006 - 2010
+- TOP 6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Bahnhof Moosach; Zukunftsbahnhof für U- und S-Bahn
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Perspektive München, Würdigung der Äußerungen der BA's
+- TOP 8.2.: Perspektive München, Geburtenentwicklung
+- TOP 8.3.: Bebauungsplan mit Grünordnung Nr. 1919 a, Manzostraße, Waldhornstraße (2. Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss)
+- TOP 8.4.: Bebauungsplan mit Grünordnung Nr. 1927 a, Landshuter Allee, verl. Emmy-Noether-Str., Georg-Brauchle-Ring (Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss)
+- TOP 8.5.: Änderung der BA-Satzung; Anhörung für den BA beim Kauf von Grundstücken (abgelehnt)
+- TOP 8.6.: Änderung der BA-Satzung; Anhörungsrecht beim der Standortfrage für die Unterbringung wohnungsloser Haushalte im Rahmen des Programms "Wohnen in München III"
+- TOP 8.7.: Nahverkehrsplan der Landeshauptstadt München
+- TOP 8.8.: Bebauungsplan mit Grünordnung Nr. 1857; Von-Kahr-Str., Allacher Str., Peter-Dörfler-Str., Bahnlinie München-Regensburg, Menzinger Str., Hormayrstr. (Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss)
+- TOP 8.9.: Einstellung des Vernetzungsprojektes REGSAM
+- TOP 8.10.: Sozialreferat; Haushaltskonsolidierung; Feinkonzept 2006
+- TOP 8.11.: Sozialreferat, Haushaltsplan 2006; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" - des Stadtjugendamtes - des Amtes für Soziale Sicherung - des Amtes für Wohnen und Migration
+- TOP 8.12.: Stadtentwässerung; Umgriff Trinklsiedlung
+- TOP 8.13.: Erhalt und Förderung des Baseballsports in München (Schreiben des BA 18 Untergiesing-Harlaching)
+- TOP 8.14.: Mobilfunk Suchkreismeldung
+- TOP 8.15.: Realisierungsnetz Radfahrverbindungen in München; Fortschreibung 2005
+- TOP 8.16.: Ergebnisse der Beteiligung der LHM am EU-Projekt des Städtenetzwerkes INTERACT
+- TOP 8.17.: Offener Brief des BA 9 Neuhausen-Nymphenburg zu einem Artikel der SZ vom 10.09.05
+- TOP 8.18.: Wiederherstellung der Bunzlauer Straße nach dem U-Bahn-Bau; Schreiben des Baureferates
+- TOP 8.19.: Meldeliste Bauvorhaben
+- TOP 8.20.: Schulsozialarbeit in der Hauptschule an der Leipziger Straße
