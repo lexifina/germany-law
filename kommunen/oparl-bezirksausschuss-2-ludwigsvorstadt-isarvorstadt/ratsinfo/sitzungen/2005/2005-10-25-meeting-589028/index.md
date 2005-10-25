@@ -1,0 +1,58 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2005-10-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/589028
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/589028
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .1.: Geplante Kürzungen beim Kinderhaus KUBU (Vertagung vom 27.09.2005)
+- TOP .2.: Entscheidungen
+- TOP .1.: Liegewiese am Glockenbachplatz; Verwarnung der Hundbesitzer (BVE Nr. 63 v. 06.03.2005)
+- TOP .2.1.: BA-Budget
+- TOP .2.2.: Kultur
+- TOP .3.: Anhörungen
+- TOP .1.: Schließung dezentraler kultureller Einrichtungen - Konzept zur Einbindung der Bezirksausschüsse
+- TOP .4.: Unterrichtungen (siehe Infos)
+- TOP .5.1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .1.: Umgestaltung des ehemeligen Parkplatzes der SWM und der AOK in der Waltherstraße zum Spiel- und Bolzplatz
+- TOP .1.: Einziehung des Radweges ohne Namen am Ostufer der ISar (im Hochwasserbett) (Vertagung vom 27.09.2005)
+- TOP .3.1.: Bauvorhaben
+- TOP .3.2.: Baumfällungen
+- TOP .1.: Kobellstr. 15, DG-Ausbau, Dachstuhlerneuerung, Zusammenlegung von 2 WE im 3. OG
+- TOP .2.: St.-Pauls-Pl. 7, Fällung einer Hainbuche
+- TOP .3.: Isartalstr. 6, Fällung von 2 kranken Fischten
+- TOP .4.: Änderung des Bebauungsplans und des FNP mit intehrierter Landschaftsplanung für den Bereich I/1 Ruppertstraße, Tumblinger Straße, Bahnlinie, Li8ndwurmstraße
+- TOP .5.: Änderung der BA-Satzung: Beteiligung der BA durch städtisches Klinikum München GmbH
+- TOP .6.: Plakatwechselwerbung in den Wartehallen Münchens
+- TOP .5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP .1.: Fußgängerüberweg Ruppertstraße (vertagung vom 27.09.2005)
+- TOP .2.: Einrichtung eines Wochenmarktes Am Roecklplatz (Vertagung vom 27.09.2005)
+- TOP .3.: Einrichtung einer verkehrsberuhigten Zone bzw. Spielstraße Frauenlobstr. 20a-28
+- TOP .1.: Sicherung des Fußgängerüberwegs an der Kreuzung Kapuziner-/Pestalozzi-/ ISartalsstraße durch Blinkampel und Hinweisschilder; BV-Empfehlung Nr. 60 vom 03.05.2005 (Vertagung vom 27.09.2005)
+- TOP .1.: Mehrjahresinvestitionsprogramm 2006-2010
+- TOP .3.1.: Sperrzeit-Angelegenheiten
+- TOP .3.2.: Freischankflächen
+- TOP .3.3.: Warenstellagen
+- TOP .1.: Schwanthalerstr. 67 (Schlösser, Beschläge, Haushaltwaren, Werkzeug)
+- TOP .3.4.: Verkehr
+- TOP .1.: Verkehrsrechtliche Anordnung zur Radwegführung Paul-Heyse-Straße (Plenumsbeschluss)
+- TOP .5.1: Berichte der Beauftragten ( AK Theresienwiese)
+- TOP .1.: Termine
+- TOP .2.: Veranstaltungen
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .1.: Elektronisches Ratsinformationssystem (RIS) Umsetzung Stufe II; Anschluss der Bezirksausschüsse an das System
+- TOP .3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP .3.2.: Berichte aus den anderen BA
+- TOP .3.3.: Bericht des Internetbeauftragten
