@@ -1,0 +1,92 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2005-10-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/569706
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/569706
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 3.1.: Optimolgelände / Gebäude C+E - Nutzungsänderung Lager/Büro zu Gastronomiebetrieb mit Theaternutzung - zeitl. befristet bis 31.12.2010 - Anhörung i.S.v. § 13 der BA-Satzung
+- TOP 3.2.: Optimolgelände / Gebäude F - Nutzungsänderung Einbau eines Gastronomiebetriebes - zeitl. befristet bis 31.12.2007 - Anhörung i.S.v. § 13 der BA-Satzung
+- TOP 3.3.: Innsbrucker Ring 52 - Neubau einer Tankstelle - Anhörung i.S.v. § 13 der BA-Satzung
+- TOP 3.4.: Förderprogramm "Bürger und Bürgerinnen gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln
+- TOP 3.5.: Kindergarten/Supermarkt in Berg am Laim Süd - Bürgerschreiben
+- TOP 3.6.: Ehem. Rangierbahnhof Ost, Rückbau von Eisenbahnanlagen und Herstellung eines Instandhaltungsweges, Anhörung i.S.v. § 13 der BA-Satzung
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 3.1.: Trambahnhaltestelle "Kreillerstraße" gefährlich für MVG-Fahrgäste - Antrag Nr. 553 des BA 14 vom 29.10.2002
+- TOP 3.2.: Widerrechtliches Parken in der Truderinger Straße - Ecke Schwanhildenweg Antrag Nr. B 00478 des BA 14 vom 28.07.2005
+- TOP 3.3.: Einseitiges Halteverbot in der Dingolfinger Straße 1 - 7; Antrag Nr. B 00557 des BA 14 vom 30.08.2005
+- TOP 3.4.: Taxistandplatz in der Kreillerstraße - Bürgerschreiben
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Auskunft über eine Ersatzlösung für die bislang auf dem Gelände an der Säbener Str. untergebrachten Baseball-Vereine; Einstellung der Mittel für eine Verlagerung in Investitionsliste 1 des Mehrjahresinvestitionsprogramms - Bitte des BA 18 um Unterstützung
+- TOP 3.3.4.: Bereich Soziales
+- TOP 4.4.5.: Bereich Budget
+- TOP 3.1.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget durch den Bürgerkreis Berg am Laim e.V.
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Elektronisches Ratsinformationssystem (RIS) Umsetzung Stufe II - Anschluss der Bezirksausschüsse an das System ; Auswirkungen auf die technische Anbindung der ehrenamtlichen Stadtratsmitglieder
+- TOP 3.2.: Änderung der BA-Satzung, Anlage 1 : Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen (Ziff. 2 des Antrags)
+- TOP 3.3.: Änderung der BA-Satzung - Beteiligung der Bezirksausschüsse durch Städtisches Klinikum München GmbH
+- TOP 3.4.: Antrag auf Erteilung einer Sperrzeitaufhebung erlaubnisfreier Gaststättenbetrieb "Imbiss Crazy", Optimolgelände
+- TOP 3.5.: Aufstellung eines Speisenautomaten an der Baumkirchner Str. 22 b
+- TOP 4.4.7.: Baumschutz
+- TOP 3.1.: Arnweg 19 - Antrag auf Baumfällung
+- TOP 3.2.: Schlüsselbergstraße 8 - Antrag auf Baumfällung
+- TOP 3.3.: Blombergstraße 56 - Antrag auf Baumfällung
+- TOP 3.4.: Zehntfeldstraße 79 - Antrag auf Baumfällung
+- TOP 3.5.: Rofanstraße 8 - Antrag auf Baumfällung
+- TOP 3.6.: Gratlspitzstraße 61 - Antrag auf Baumfällung
+- TOP 3.7.: Kinkstraße 2 - Antrag auf Baumfällung
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt - Chancen und Perspektiven für Berg-am-Laim, Ramersdorf und Giesing - Stadtsanierung in München am Mittleren Ring Südost - Förmliche Festlegung der Gebiete "Innsbrucker Ring - westlich" und "Tegernseer Landstraße / Chiemgaustraße" gemäß § 142 Baugesetzbuch (BauGB) - Neufassung der beiden Sanierungssatzungen
+- TOP 4.2.: Ergebnisse der Beteiligung der Landehauptstadt München am EU Projekt des Städtenetzwerkes INTERACT (2002-2004): Kooperative Stadtentwicklung in der Praxis
+- TOP 4.3.: Perspektive München - Geburtenentwicklung und Bericht zur Stadtentwicklung 2003
+- TOP 4.4.: Optimolgelände / Gebäude C+E - Nutzungsänderung Stellplätze zu Biergarten an der Gaststätte "Keller" in Wechselnutzung (zeitl. befristet bis 31.12.2007) - Genehmigungsbescheid
+- TOP 4.5.: Meldeliste der Bauvorhaben zwischen 12.09.05 und 09.10.05
+- TOP 4.6.: Parkraummanagement in München - Beschleunigung der Umsetzung
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Optimolgelände / Erweiterung des Spiegelzeltes um einen Biergarten in Wechselnutzung (zeitl. befristet bis 31.12.2007) - Genehmigungsbescheid
+- TOP 4.1.: Lkw-Sperre in der Grafinger Str. zwischen Ampfingstraße und Innsbrucker Ring - Verkehrsrechtliche Anordnung
+- TOP 4.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Schildensteinstraße 12 - Verkehrsrechtliche Anordnung
+- TOP 4.3.: Eingeschränktes Halteverbot in der Truderinger Straße - Verkehrsrechtliche Anordnung
+- TOP 4.4.: Realisierungsnetz Radfahrverbindungen in München - Fortschreibung 2005
+- TOP 4.5.: Nahverkehrsplan der Landeshauptstadt München
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Haushaltskonsolidierung - Feinkonzept 2006
+- TOP 4.2.: Haushaltsplan 2006 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.3.: Haushaltsplan 2006 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 4.4.: Haushaltsplan 2006 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 4.5.: Einstellung des Vernetzungsprojektes REGSAM
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Bericht in der Bürgerversammlung über die Umsetzung der Empfehlungen des letzten Jahres bzw. der letzten 5 Jahre
+- TOP 4.2.: Änderung der BA-Satzung; Anhörung für den BA beim Kauf von Grundstücken
+- TOP 4.3.: Änderung der Satzung für die Münchner Bezirksausschüsse - Anhörungsrecht bei der Standortfrage für die Unterbringung wohnungsloser Haushalte im Rahmen des Programmes "Wohnen in München III " (KomPro/B)
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
