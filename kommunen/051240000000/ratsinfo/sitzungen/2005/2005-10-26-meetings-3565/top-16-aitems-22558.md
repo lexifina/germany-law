@@ -1,0 +1,7 @@
+# TOP 16: Vostellung der Planungen des Landesbetriebes Straßen zum Kreisel Lichtscheid
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Verkehr (2005-10-26)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/22558
+- Ergebnis: Entgegennahme ohne Beschluss
