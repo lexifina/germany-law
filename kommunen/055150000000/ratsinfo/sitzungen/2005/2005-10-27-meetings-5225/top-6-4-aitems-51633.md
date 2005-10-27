@@ -1,0 +1,8 @@
+# TOP 6.4: Sportstättenbau der Mitgliedsvereine des Stadtsportbund Münster e. V.
+
+- Sitzung: 12. Sitzung (2005-10-27)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/51633
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/31541
