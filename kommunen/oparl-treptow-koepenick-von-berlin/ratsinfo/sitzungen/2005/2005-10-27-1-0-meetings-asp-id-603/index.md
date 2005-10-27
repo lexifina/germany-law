@@ -1,0 +1,85 @@
+# 43. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2005-10-27T16:00:00+02:00
+- Ende: 2005-10-27T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=603
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=603
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Personelles/Wahlen - gegenstandslos
+- TOP 7.1: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vertagte Tagesordnungspunkte - gegenstandslos
+- TOP 8.1: AV Wohnen / Mietspiegel <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Constance S. Pewestorff)</span> - beantwortet
+- TOP 9: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 9.1: Sicherheit von Radfahrern in der Dörpfeldstraße - schriftlich beantwortet
+- TOP 9.2: Ausbildungsplätze 2005 - schriftlich beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - gegenstandslos
+- TOP 10.1: Sondermittel für Freunde der Joseph Schmidt Musikschule e.V. (SM 558) - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Sondermittel für AG Interkulturelle Gärten Treptow-Köpenick und Brandenburg (SM 560) - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Sondermittel für Rudergemeinschaft Rotation Berlin e.V. (SM 562) - überwiesen
+- TOP 10.4: Sondermittel für ajb gmbh - Kontakt- und Beratungsstelle Müntzerstraße (SM 563) - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Sondermittel für Sylvester e.V. Berlin (SM 564) - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Sitzungsterminplan 2006 der BVV Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 11.1: Behindertengerechte Tram 60 - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Niederflurwagen für Straßenbahn 68 - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Berichterstattung zum Arbeitsstand bei der Schaffung eines Informationssystems zur Bewertung der Sozialräume im Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: - Entwurf des Bebauungsplans XV-65 und Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-65 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Bebauungsplan XVI-15 hier: Auswertung der Beteiligung der Träger öffentlicher Belange - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Geschichtsorte - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Vom Wuhle-Wanderweg zur Altstadt - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Bebauungsplan XVI-16 hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: - Entwurf des Bebauungsplans XV-27a nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-27a im Bezirk Treptow-Köpenick, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Bebauungsplanentwurf XVI-17, Ortsteil Köpenick hier: Inhaltliche Planänderungen / Ergänzungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Bebauungsplanentwurf XV-23, Ortsteil Altglienicke hier: - Auswertung der erneuten Beteiligung der Träger öffentlicher Belange (TÖB) - Inhaltliche Planänderungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Bebauungsplan XV-12-1 hier: - Reduzierung des Geltungsbereiches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Bebauungsplan XVI-24 hier: Inhaltliche Planänderungen / Ergänzungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Nutzung des Schlosshofs im Rahmen des mit der Stiftung Preußischer Kulturbesitz geschlossenen Vertrages vom 05.04.04 nach § 6 für das Jahr 2006 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: - Entwurf des Bebauungsplans XV-25 nebst Begründung - Entwurf der Rechtsverordnung über die Festsetzung zum Bebauungsplan XV-25 im Bezirk Treptow-Köpenick, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Bebauungsplanes 9-5 hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Modellpark in der Wuhlheide - ohne Änderungen in der BVV beschlossen
+- TOP 12: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 12.1: Errichtung eines Uferweges auf dem Grundstück Wilhelminenhofstraße 83-85 im Ortsteil Oberschöneweide und Abschluss eines Vertrages zwischen dem Eigentümer des Grundstücks und der Abteilung Bauen und Stadtentwicklung des Bezirksamtes Treptow-Köpenickals Voraussetzung zur Umsetzung des Vorhabens <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - überwiesen
+- TOP 12.2: Benennung der im Landschaftspark Johannisthal gelegenen und von der Walter-Huth-Straße abgehenden privaten Stichstraße in "Am Rundling" <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, BauStadt)</span> - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Neueinteilung (örtliche Abgrenzung) der Wahlkreise des Bezirkes Treptow-Köpenick (Wahlkreisverband) in Vorbereitung der Abgeordnetenhauswahl 2006 einschließlich der fortlaufenden Nummerierung der Wahlkreise <span style="color: #888a85" title="Zusatzinfo">(Verfasser : BA, PVFinWi)</span> - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Anträge - gegenstandslos
+- TOP 13.1: Straßenkataster - überwiesen
+- TOP 13.2: Lehr- und Lernmittel 2006/2007 <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Oliver Igel)</span> - überwiesen
+- TOP 13.3: Tag der kommunalen Partnerschaften <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Ulrich Stahr)</span> - überwiesen
+- TOP 13.4: Überarbeitung des Informationssystems zur Bewertung der Sozialräume im Bezirk Treptow-Köpenick - in der BVV abgelehnt
+- TOP 13.5: Arbeitsgruppe ÖPNV <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Udo Franzke)</span> - mit Änderungen in der BVV beschlossen
+- TOP 13.6: Graffiti-Kunst am S-Bahnhof Friedrichshagen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margret Radebold)</span> - im Ältestenrat zurückgezogen
+- TOP 13.7: Organisation von behindertengerechten und ortsnah gelegenen Wahllokalen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Fahrradbeauftragte/r <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach Verfasser 2: Peter Leiß)</span> - überwiesen
+- TOP 13.9: 60 Jahre freie BVV-Wahlen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Bernd Nock)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Fahrradverkehr Treptow - Öffnung von Einbahnstraßen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Klaus Chinea Correa)</span> - überwiesen
+- TOP 13.11: Politische Bildungsarbeit <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Philipp Wohlfeil)</span> - überwiesen
+- TOP 13.12: Schulhof-Nutzung <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Monika Höppner)</span> - überwiesen
+- TOP 13.13: Vandalismus im Spreetunnel eindämmen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - mit Änderungen in der BVV beschlossen
+- TOP 13.14: Festwiese <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Karin Kant)</span> - vertagt
+- TOP 13.15: Strandbad Müggelsee <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Margret Radebold)</span> - vertagt
+- TOP 13.16: Fahrradverkehr Treptow-Köpenick - Radwegenetz knüpfen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Klaus Chinea Correa)</span> - überwiesen
+- TOP 13.17: Gestank beseitigen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Marko Tesch)</span> - überwiesen
+- TOP 13.18: Darstellung der Erkenntnisse zur Person Salvador Allendes <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Stefan Förster Verfasser 2: Bärbel König)</span> - im Ältestenrat zurückgezogen
+- TOP 13.19: Fahrradverkehr Treptow-Köpenick - Gefährdungen abbauen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Klaus Chinea Correa)</span> - überwiesen
+- TOP 13.20: Fahrradverkehr Treptow-Köpenick - Gefährdungen um Baustellen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Klaus Chinea Correa)</span> - überwiesen
+- TOP 14: Große Anfragen - gegenstandslos
+- TOP 14.1: Durchführung und Kontrolle von Tiefbaumaßnahmen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dr. Johanna Hambach Verfasser 2: Peter Leiß Verfasser 3: Udo Franzke)</span> - vertagt
+- TOP 14.2: Weitere Entwicklung des Gewerbegebietes Wendenschloßstraße (ehemals Funkwerk Köpenick) <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Dirk D. Retzlaff)</span> - vertagt
+- TOP 14.3: Radfahren im Bezirk - Sicherheit und Standards - Erfahrungen und Konsequenzen <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Brigitte Gelbke Verfasser 2: Klaus Chinea Correa)</span> - gegenstandslos
+- TOP 14.4: Beschäftigte mit MAE im Bezirksamt Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(Verfasser : Anneliese Bräuer)</span> - vertagt
