@@ -1,0 +1,51 @@
+# 12. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-10-27T17:00:00+02:00
+- Ende: 2005-10-27T19:03:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5225
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5225
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00223494.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Anregungen gemäß § 24 GO NW
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - einstimmig beschlossen
+- TOP 4: Berichte
+- TOP 4.1: Bebauungsplan Nr. 498: Roxel - Gewerbegebiet nördlich Nottulner Landweg / Edelkampsfeld - zur Kenntnis genommen
+- TOP 4.2: Jahresbericht 2004 zur Kinder- und Jugendarbeit in Münster - zur Kenntnis genommen
+- TOP 4.3: Modellprojekt "Familienfreundliches Wohnen für und mit allein Erziehenden und ihren Kindern" - zur Kenntnis genommen
+- TOP 4.4: Aufgaben - zur Kenntnis genommen
+- TOP 4.5: Ergebnisbericht - zur Kenntnis genommen
+- TOP 5: Entscheidungen
+- TOP 5.1: Wiederwahl der Schiedsperson für den Bezirk V Münster-Roxel - einstimmig beschlossen
+- TOP 5.2: Straßenbenennung Metelener Weg - einstimmig beschlossen
+- TOP 5.3: Erweiterung und Sanierung des Umkleidegebäudes der Sportanlage Nienberge Feldstiege - einstimmig beschlossen
+- TOP 6: Anhörungen
+- TOP 6.1: Verbesserungen an Haltestellen im Stadtgebiet - Programm 2006 - einstimmig beschlossen
+- TOP 6.2: Satzung über die Festlegung der Höhe des Geldbetrages, der nach § 51 Abs. 5 der Landesbauordnung NRW - mehrheitlich beschlossen
+- TOP 6.3: Ludgerusschule Albachten, Hohe Geist 8, 48163 Münster, - einstimmig beschlossen
+- TOP 6.4: Sportstättenbau der Mitgliedsvereine des Stadtsportbund Münster e. V. - einstimmig beschlossen
+- TOP 6.5: Wohnen im Alter, Fortschreibung 2005 - mehrheitlich beschlossen
+- TOP 6.6: Neubau Freiherr-vom-Stein-Gymnasium - einstimmig beschlossen
+- TOP 7: Vorschläge und Anregungen
+- TOP 7.1: Zustand der Fahrbahndecke Hägerstraße zwischen Altenberger Straße u. Ortseingang Nienberge-Häger - zur Kenntnis genommen
+- TOP 7.2: Parkzeitbeschränkung im Ortszentrum Gievenbeck - zur Kenntnis genommen
+- TOP 7.3: PCB-Sanierungsprogramm 2000-2003 - zur Kenntnis genommen
+- TOP 7.4: Handlungsprogramm Wohnen - Fortschreibung 2005, Vorlagen-Nr. V/0351/2005 - zur Kenntnis genommen
+- TOP 7.5: Schaffung einer Skateranlage in Nienberge, Vorlagen-Nr. V/0184/2005 - eingebracht
+- TOP 7.6: Entzerrung der Gefahrenstelle an der Bushaltestelle "Wegegabel", Havixbecker Straße - eingebracht
+- TOP 7.7: Rohrrahmensperren für den Querungsbereich der Stichstraßen "Am Wäldchen" und "Pohlbrede" - zur Kenntnis genommen
+- TOP 7.8: Verbesserung und Aufwertung der Fläche zwischen Hülshoffstraße u. Waltruper Weg in Höhe des - zur Kenntnis genommen
+- TOP 7.9: Bau eines Radweges im Einmündungsbereich der Straße Am Rüschhaus in den Rüschhausweg - eingebracht
+- TOP 7.10: Ausbesserung des Fuß- und Radweges ab Nienberge Dorf in Richtung Häger - eingebracht
+- TOP 7.11: Instandsetzung Fuß-Radweg zwischen Kirmstraße/Gartenstiege - zur Kenntnis genommen
+- TOP 7.12: Instandsetzung Straße "Am Getterbach" - eingebracht
+- TOP 7.13: Bedarfermittlung für den Einsatz von Schulbussen von Albachen und Mecklenbeck zum Freiherr-vom-Stein - eingebracht
+- TOP 8: Verschiedenes
