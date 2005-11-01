@@ -1,5 +1,5 @@
 ### § 47 In-Kraft-Treten
-Anlage I
+# Anlage I
 Name, Adresse, Geburtsdatum, Beschäftigung, Arbeitgeber Persönliche Erklärung
 1. Waren Sie offizieller oder inoffizieller Mitarbeiter
 a)
