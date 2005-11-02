@@ -1,0 +1,51 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-11-02T16:00:00+01:00
+- Ende: 2005-11-02T00:00:00+01:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1518
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1518
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111566.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111566.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111566.pdf
+
+## Tagesordnung
+
+- TOP 1: Schriftführung - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - zur Kenntnis genommen
+- TOP 4: Grafenberger Allee - zur Kenntnis genommen
+- TOP 5: Flurstraße 59 - zur Kenntnis genommen
+- TOP 6: Sitzungstermine - zur Kenntnis genommen
+- TOP 7: Vergabe der Haushaltsmittel 2005 - zur Kenntnis genommen
+- TOP 8: Max-Planck-Str. Kleingartenverein "Alt Düsseltal" - einstimmig beschlossen
+- TOP 9: Fahrrad/-Garage/-Abstellanlagen - einstimmig beschlossen
+- TOP 10: Kühlwetterstr./-Durchgangsverkehr u.a. - mehrheitlich beschlossen
+- TOP 11: Ahnfeldstr. - einstimmig beschlossen
+- TOP 12: Abfallbeseitigung/Duales System II - einstimmig beschlossen
+- TOP 13: BV-Generalien III - einstimmig beschlossen
+- TOP 14: Krahestr./GPW - mehrheitlich beschlossen
+- TOP 15: GBA Verkehr - einstimmig beschlossen
+- TOP 16: Edisonplatz - einstimmig beschlossen
+- TOP 17: Hundeausläufe - einstimmig beschlossen
+- TOP 18: Höherweg 100/Stadtwerke Höherweg 100/Stadtwerke - einstimmig beschlossen
+- TOP 19: Karl-Wagner-Platz - einstimmig beschlossen
+- TOP 20: Flurstraße 59 - einstimmig beschlossen
+- TOP 21: Höherweg/Automeile - mehrheitlich beschlossen
+- TOP 22: Ackerstraße-West - mehrheitlich beschlossen
+- TOP 23: Mülheimer Straße - zur Kenntnis genommen
+- TOP 24: Flinger Broich 91 - zur Kenntnis genommen
+- TOP 25: Beethovenstr. - zur Kenntnis genommen
+- TOP 26: Zoopark IV - zur Kenntnis genommen
+- TOP 27: ZooparkIV - zur Kenntnis genommen
+- TOP 28: Degerstraße 59 - zur Kenntnis genommen
+- TOP 29: Lindenstraße/Bunker - zur Kenntnis genommen
+- TOP 30: Schulen Generalien IV - zur Kenntnis genommen
+- TOP 31: Arbeitsmarkt - zur Kenntnis genommen
+- TOP 32: Bezirksvertretung Generalien - zur Kenntnis genommen
+- TOP 33: Sachstand Sanierung Grundwasser Innenstadt - zur Kenntnis genommen
+- TOP 34: Mitteilung - zur Kenntnis genommen
