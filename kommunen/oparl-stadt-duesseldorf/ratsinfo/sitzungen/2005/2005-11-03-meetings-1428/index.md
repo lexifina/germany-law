@@ -1,0 +1,57 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-11-03T16:00:00+01:00
+- Ende: 2005-11-03T18:08:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1428
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1428
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111568.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111568.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111568.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften vom 08.09.2005 und - einstimmig beschlossen
+- TOP 3: KGS Leuthenstraße - zur Kenntnis genommen
+- TOP 4: Schulstandort Leuthenstraße - zur Kenntnis genommen
+- TOP 5: Neubau der Sportanlage Vennhauser Alle 256 (FC Tan - einstimmig beschlossen
+- TOP 6: B+F Rossbachstraße - einstimmig beschlossen
+- TOP 7: Bauunterhalt an städtischen Einrichtungen 2005 - einstimmig beschlossen
+- TOP 8: Weihnachtsmarkt in Unterbach am 03. und 04.12.2005 - einstimmig beschlossen
+- TOP 9: Stolpersteine im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 10: Zuschüsse zu kulturellen Veranstaltungen - mehrheitlich beschlossen
+- TOP 11: Gebäude Hasseler Richtweg 68 - 76
+- TOP 12: Vennhauser Allee (Anfrage Die Linke) - zur Kenntnis genommen
+- TOP 13: Hundeauslaufplätze - zur Kenntnis genommen
+- TOP 14: Verkehrszählung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 15: Sanierung der Abwasserkanäleim Stadtbezirk - zur Kenntnis genommen
+- TOP 16: Flüsterasphalt im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 17: Beflaggung öffentlicher Gebäude im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 18: Sanierung und Ausbau Ronsdorfer Straße - zur Kenntnis genommen
+- TOP 19: Wichern- Schule und Carl-Sonnenschein-Schule - zur Kenntnis genommen
+- TOP 20: L 404n (Antrag Die Linke) - mehrheitlich beschlossen
+- TOP 21: Vereinigung 'Mayors for Peace' (Antrag Die Linke) - mehrheitlich abgelehnt
+- TOP 22: Annweilerstraße 15 (Antrag Die Linke) - zur Kenntnis genommen
+- TOP 23: Zeppelinstraße (Antrag Die Linke) - mehrheitlich beschlossen
+- TOP 24: Ausstellung ' Deutschkunde' (Antrag Die Linke) - zur Kenntnis genommen
+- TOP 25: Sitzungssaal Rathaus Eller - zur Kenntnis genommen
+- TOP 26: S-Bahn- Bahnhöhe im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 27: Häuser Breslauer Straße 21-27 - einstimmig beschlossen
+- TOP 28: Verkehrssituation Vennhauser Allee - einstimmig beschlossen
+- TOP 29: Spielplatz Coburger Weg - einstimmig beschlossen
+- TOP 30: Bolzplatz Eller Kamp - einstimmig beschlossen
+- TOP 31: LZA Deutzer Straße / Büllenkothenweg - einstimmig beschlossen
+- TOP 32: Verkehrsmaßnahmen - mehrheitlich beschlossen
+- TOP 33: Rütgerstraße - Baumschnitt - zur Kenntnis genommen
+- TOP 34: Wartehäuschen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Alkoholverbot Gertrudisplatz und Schlesische Str. - zur Kenntnis genommen
+- TOP 36: Altpapierentsorgung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 37: Breidenplatz - zur Kenntnis genommen
+- TOP 38: Container Breidenplatz - zur Kenntnis genommen
+- TOP 39: Sitzungstermine der BV 8 im Jahre 2006 - zur Kenntnis genommen
+- TOP 40: Gehölzrodungen im Stadtbezirk 8 - zur Kenntnis genommen
