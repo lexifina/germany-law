@@ -1,0 +1,52 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-11-07T16:05:00+01:00
+- Ende: 2005-11-07T16:37:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1465
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1465
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111785.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111785.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111785.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Üpl-Ausgaben 2004 - einstimmig beschlossen
+- TOP 4: Üpl-Ausgaben 2005 - einstimmig beschlossen
+- TOP 5: Controllingbericht - einstimmig beschlossen
+- TOP 6: Ausbau der Theodorstraße-West, B+F - einstimmig beschlossen
+- TOP 7: Übernahme einer Bürgschaft - einstimmig beschlossen
+- TOP 8: Umschichtung von Mitteln 11/6 - einstimmig beschlossen
+- TOP 9: Bau, Einrichtung+Instandsetzung von Kitas - einstimmig beschlossen
+- TOP 10: üpl Im Bereich HzE - einstimmig beschlossen
+- TOP 11: üpl Kita - einstimmig beschlossen
+- TOP 12: JHP Kinder- und Jugendförderung - einstimmig beschlossen
+- TOP 13: B+F Koblenzer Straße - einstimmig beschlossen
+- TOP 14: Neubau der Sportanlage Vennhauser Alle 256 (FC Tan - einstimmig beschlossen
+- TOP 15: B+F Rossbachstraße - einstimmig beschlossen
+- TOP 16: SEBD - Jahresabschluss 2004 - einstimmig beschlossen
+- TOP 17: Rathaus Benrath, Benrodestr. 46, Dachsanierung und - einstimmig beschlossen
+- TOP 18: Modernisierung der Stadtteilbücherei Derendorf Bl - einstimmig beschlossen
+- TOP 19: Gesamtsanierung Hauptgebäude Heyestr. 91 - einstimmig beschlossen
+- TOP 20: Abbau alter verkehrsrechner - einstimmig beschlossen
+- TOP 21: DB-Brücke Plockstraße - einstimmig beschlossen
+- TOP 22: Ersatzwahl Abfallwirtschaft Rhein Wupper - einstimmig beschlossen
+- TOP 23: Ersatzbest. Berg.Rhein. Waserverband - einstimmig beschlossen
+- TOP 24: AR-Messe - Ersatzwahl - einstimmig beschlossen
+- TOP 25: AR DMT -Ersatzwahl- - einstimmig beschlossen
+- TOP 26: Bäderges.Beirat-Ersatzwahl - einstimmig beschlossen
+- TOP 27: 1. Satzung z. Änderung u. Satz Vergnügungssteuer - einstimmig beschlossen
+- TOP 28: Entgeltordnung des Großmarktes...2. Ausfertigung - mehrheitlich beschlossen
+- TOP 29: Beitritt der Landeshauptstadt Düsseldorf zum Verei - einstimmig beschlossen
+- TOP 30: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 31: BPlan4978/17Verl.Böhlerstr.Anreg.Satzung - einstimmig beschlossen
+- TOP 32: BPl 6466/06-Duderstädter Str.-Anreg.Satzung - einstimmig beschlossen
+- TOP 33: AR ZWD -Ersatzwahl- - einstimmig beschlossen
+- TOP 34: AR AWISTA-Ersatzwahl - einstimmig beschlossen
+- TOP 35: "Stiftung Gerhard-Hauptmann-Haus" - einstimmig beschlossen
