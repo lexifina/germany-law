@@ -1,0 +1,84 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2005-11-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/714263
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/714263
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 4.: Schulreferat
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 9.: Baureferat
+- TOP 10.: Baum- und Umweltschutz
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 3.1.: Einrichtung eines Bewohnertreffs auf der Theresienhöhe
+- TOP 3.2.: Einstellung des Vernetzungsprojektes REGSAM
+- TOP 3.3.: Ergebnisprotokoll der Arbeitsgruppe Wohnungslosigkeit
+- TOP 4.1.: Muttersprachlicher Ergänzungsunterricht an der Grundschule am Gotzinger Platz
+- TOP 4.2.: Entgelte für die Überlassung städtischer Sportanlagen für schulfremde Zwecke
+- TOP 4.3.: Erhalt des Baseballsportes in München
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.: Signalisierter Fußgängerübergang an der Kreuzung Am Harras / Plinganserstraße
+- TOP 6.3.: Warenstellage Aberlestraße 3
+- TOP 6.4.: Verkehrliche Erschließung des Gotzinger Platzes bzw. des Grundstücks an der Thalkirchner- / Kochelseestraße
+- TOP 6.5.: Blade Night 2006
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.: Budgetantrag der Sendlinger Kulturschmiede e. V.; Veranstaltungen zum 300jährigen Gedenken an die Sendlinger Mordweihnacht, ¿ 1.150,-
+- TOP 7.3.: Budetantrag der Himmelfahrtskirche; Adventskonzert am 03./04.12.2005; ¿ 2.427,-
+- TOP 7.4.: Elektronisches Ratsinformationssystem; Anschluss der BAs an das System
+- TOP 7.5.: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 7.6.: Änderung der BA-Satzung; Anhörung für den BA beim Kauf von Grundstücken
+- TOP 7.7.: Änderung der BA-Satzung; Anhörungsrecht bei der Standortfrage für die Unterbringung wohnungsloser Haushalte im Rahmen des Programms "Wohnen in München III"
+- TOP 7.8.: Stadtteilwoche 2006
+- TOP 7.9.: Fest für jung Erwachsene im Rathaus am 05.11.2005
+- TOP 7.10.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 7.11.: Pilotprojekt Jugendbeteiligung an der Stadtplanung
+- TOP 7.12.: Budgetantrag des ASZ Sendling; Renovierung der Küche, ¿ 665,39
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Greinerberg 17; Neubau einer Seniorenwohnanlage
+- TOP 8.3.: Bauvorhaben Maronstraße; Neubau eines Wohnhauses mit TG
+- TOP 8.4.: Bauvorhaben Roter-Turm-Platz 5; Teilabbruch und Umbau eines Geschäftsgebäudes in ein Wohnhaus
+- TOP 8.5.: Bauvorhaben Gotzinger Straße 52; Generalinstandsetzung und Nutzungsänderung
+- TOP 8.6.: Türkisch-Islamisches Kulturzentrum Thalkirchner- / Kochelseestraße; Gestaltungsworkshop
+- TOP 8.7.: Türkisch-Islamisches Kulturzentrum Thalkirchner- / Kochelseestraße; Errichtung einer Anwohnertiefgarage
+- TOP 8.8.: Bauvorhaben Urbanstraße 20; Nutzungsänderung Lager- zu Schlafräumen
+- TOP 8.9.: Werbeanlage Bavariastraße 4
+- TOP 8.10.: Bebauungsplan mit Grünordnung Nr. 1791; Ruppert-, Tumblingerstr., Bahnlinie, Lindwurmstr.
+- TOP 8.11.: Parkraummanagement in München
+- TOP 8.12.: Perspektive München
+- TOP 9.1.: Baumpflanzungen auf den Mittelinseln der Plinganserstraße zwischen Dudenstraße und Heckenstallerstraße (Antrag der CSU-Fraktion) - <div>nach Antrag</div>
+- TOP 9.2.: Spielplatz an der Lagerhausstraße; Anbringung von Türschließern an den Eingangstoren bzw. eines Geländers als Fallschutz am Kletterturm - <div>nach Antrag</div>
+- TOP 9.3.: Baumpflanzungen in der Schöttlstraße Höhe Hausnummer 5
+- TOP 9.4.: Zur Errichtung eines Bienenhauses wird eine abgezäunte Fläche an der Nordwestecke der Stemmerwiese zur Verfügung gestellt
+- TOP 9.5.: Parkschutz durch Poller auf dem Gehweg vor dem Anwesen Daiserstraße 9 (BA-Antrag vom 01.08.2005)
+- TOP 9.6.: Straßenbrücke Brudermühlstraße; Sanierung der Auffahrt zur Plinganserstraße
+- TOP 9.7.: Spartenanfrag Wackersberger Straße 8 - Fernwärme
+- TOP 9.8.: Isar-Hochwasser August 2005 Wasserkraftausbau im Einklang mit der Isar-Renaturierung
+- TOP 9.9.: Winterdienst 2005 / 2006
+- TOP 9.10.: Aufbau eines Hochgeschwindigkeitsnetzes durch die Deutsche Telekom AG
+- TOP 10.1.: Baumfällung Lipowskystraße 24; eine Fichte
+- TOP 10.2.: Baumfällung Dietramszeller Platz 2; eine Fichte
+- TOP 10.3.: Baumfällung Lenggrieser Straße 16; zwei Buchen, eine Birke
+- TOP 10.4.: Baumfällung Greinerberg 17; mehrere Bäume
+- TOP 10.5.: Baumfällung Plinganserstraße 65; eine Linde
+- TOP 10.6.: Fällung von Gefahrenbäumen im Bereich des Flauchers
+- TOP 10.7.: Fällung von Gefahrenbäumen in der Bleyerstraße 6
+- TOP 10.8.: Kidlerstraße 38; Ablehnung der beantragten Baumfällung
+- TOP 13.1.: Zukünftige Projekte der "Sendlinger Geschichtswerkstatt"
+- TOP 13.2.: Mehrjahresinvestitionsprogramm 2006 - 2010
+- TOP 13.3.: Lärmminderungsplan für München; EU-Umgebungslärmrichtlinien
+- TOP 13.4.: Vertragliche Standortsicherung der Mobilfunkanlagen Pfeuferstr. bzw. Engelhardstr.
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
