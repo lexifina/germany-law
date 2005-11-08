@@ -1,0 +1,76 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2005-11-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/676916
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/676916
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Anträge
+- TOP 3: Unterauschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterauschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Entscheidungsfälle
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Wahl Vorsitz UA-Bau und Planung
+- TOP 1.5.: Bestellung Mitglied UA-Bau und Planung
+- TOP 1.6.: Festlegung der endgültigen Tagesordnung
+- TOP 1.7.: Genehmigung des Protokolls vom 11.10.05
+- TOP 2.1.: Musikfestival
+- TOP 3.1.: Leitsätze für Budget
+- TOP 3.2.: "Green City e.V."
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Hundeproblematik und Spielplatz Spindlerplatz
+- TOP 5.1.: Parkbuchten Diefenbachstraße
+- TOP 5.2.: Schulwegsicherheit Ecke Diefenbach-/Stridbeckstraße
+- TOP 5.3.: Sanierung der Fuß- und Radwege bei Schloss Fürstenried
+- TOP 5.4.: Haltverbot Aidenbachstraße 120
+- TOP 5.5.: Verkehrsverhältnisse Prinz-Ludwigs-Höhe
+- TOP 5.6.: Haltverbot Leo-Graetz-Straße
+- TOP 5.7.: Herstellung Füssener Straße
+- TOP 5.8.: Verkehrsproblematik Liesl-Karlstadt-Straße
+- TOP 5.9.: Haltverbot Limmatstraße
+- TOP 6.1.: Saargemünder Str. 4
+- TOP 6.2.: Neurieder Str. 6
+- TOP 6.3.: Muxelstr. 5
+- TOP 6.4.: Seeshaupter Str. o.Nr.
+- TOP 6.5.: Boschetsrieder Str. 72
+- TOP 6.6.: Rupert-Mayer-Str. 45
+- TOP 6.7.: Kurzbauerstr. 2a
+- TOP 6.8.: Zielstattstr. 18
+- TOP 6.9.: Drygalski-Allee 15
+- TOP 6.10.: Königswieser Str. 118
+- TOP 6.11.: Boschetsrieder Str. 125
+- TOP 6.12.: Leuthener Str. 12
+- TOP 6.13.: Minorstr. 9
+- TOP 6.14.: St.-Wendel-Str. o.Nr. (T)
+- TOP 6.15.: Kaltschmiedstr. 7 (T)
+- TOP 6.16.: Hofmannstr. 10 (T)
+- TOP 6.17.: Stridbeckstr. 24 (T)
+- TOP 6.18.: Minorstr. 28 (T)
+- TOP 6.19.: Grünbauerstr. 11 (T)
+- TOP 6.20.: Weltistr. 29
+- TOP 6.21.: Rohrauerstr. 16
+- TOP 6.22.: Boschetsrieder Str. 162 (T)
+- TOP 6.23.: Hagenauer Str. 6
+- TOP 8.1.: Elektronisches Ratsinformationssystem (RIS) Umsetzung Stufe II
+- TOP 8.2.: Schulsprengeländerung Boschetsrieder Schule
+- TOP 8.3.: Münchner Blade Night 2006
+- TOP 8.4.: Christkindlmarkt Fellererplatz
+- TOP 8.5.: Gaststättenfortführung Kistlerhof Alm
+- TOP 8.6.: Gaststättenfortführung Vinzenz Murr im Walmart
+- TOP 8.7.: Bekanntgabe der Termine 2006
+- TOP 8.8.: Zweckentfremdung Forstenrieder Allee 23
+- TOP 8.9.: Zweckentfremdung Minorstr. 28
+- TOP 1: Allgemeiner Teil
