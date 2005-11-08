@@ -1,0 +1,72 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2005-11-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/625346
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/625346
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 4: Beschlüsse des BA 8
+- TOP 5: Anhörungen
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 7: Erledigungen
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 10: Verschiedenes
+- TOP 11: Protokoll und Umlauf
+- TOP 3.1.: Fortwährende Baumaßnahmen im Bereich Westend-/ Holzapfelstraße
+- TOP 3.2.: Durch Kinder gestaltete Kunstgalerie
+- TOP 4.1.: Aufstellung eines UA Budget
+- TOP 5.1.: Elektronisches Ratsinformationssystem (RIS) Umsetzung Stufe II - Anschluss der Bezirksausschüsse an das System; Auswirkungen auf die technische Anbindung der ehrenamtlichen Stadtratsmitglieder Schreiben Direktorium vom 06.10.05
+- TOP 5.2.: Freischankfläche auf öffentlichem Verkehrsgrund Kazmairstr. 30
+- TOP 6.1.1.: Unverzügliche Realisierung der Fußgänger- und Radfahrerbrücke von der Landsberger Straße zum S-Bahn-Steig Donnersbergerbrücke; Empfehlung Nr. 11 der BV vom 26.07.05 des 8., Stadtbezirkes Beschlussvorlage
+- TOP 6.1.2.: Beschluss des Bauausschusses vom 27.09.05 Neubau der Erschließungsstraßeen im Umgriff des BPlanes mit GrünO Nr. 1921 Landsberger Str. (nördl.) zwischen Donnersbergerbrücke und Grasserstraße im 8 Stadtbezirk
+- TOP 6.1.3.: Wechsel des Abteilungsleiters Straßenunterhalt und -betrieb im Baureferat - Tiefbau
+- TOP 6.1.4.: Beschluss des gemeinsamen Ausschusses für Stadtplanung Bauordnung, des Bauausschusses un des Kreisverwaltungsausschusses vom 12.10.2005 (VB) Parkraummanagement in München - Beschleunigung der Umsetzung Stellungnahme
+- TOP 6.1.5.: Schreiben BA 3 vom 20.10.05 Änderung der BA-Satzung Entscheidungsrecht für die BAs bei Errichtung von Freischankflächen Bitte um Unterstützung
+- TOP 6.2.1.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.2005 (SB) Stand der Umsetzung SGB II und SGB XII Ziff. 12: Kontrolle der ARGE im Sozialbürgerhaus Empfehlung Nr. 02-08/E00165 der BV vom 07.07.05 des 8. Stadbezirkes
+- TOP 6.2.2.: Erfahrungsbericht zu den Beschlüssen des Stadtrats vom 02.07.03 - Entgelte für die Benutzung städtischer Sportanlagen; Aktualisierung der Gebührensätze - Raum- und Flächennutzungsangebot in den öffentlichen Schulen der LH München; Überlassung für schulfremde Zwecke
+- TOP 6.2.3.: Bericht Arbeitsgruppe Wohnungslosigkeit vom 19.10.05
+- TOP 6.2.4.: Beschluss des Sozialausschusses vom 22.09.05 (SB) Projekte quartierbezogener Bewohnerarbeit Einrichtung eines Bewohnertreffs auf der Theresienhöhe
+- TOP 6.2.5.: Beschluss des Sozialausschuss vom 23.06.2005 (SB) Projekt "Reform der Alten- und Service-Zentren - Fachlich inhaltliche Überprüfung und Weiterentwicklung der Leistungsfähigkeit, des Angebotes und Netzes der ASZ WV aus 09/05
+- TOP 6.4.1.: Winterdienst 2005/2006 Allgemeine Übersicht der Einsatzgebiete
+- TOP 6.4.2.: Münchner BladeNight 2006 Anhörung
+- TOP 6.4.3.: Baumfällungen Max-Hirschberg-Weg (Alte Messe, Theresienhöhe)
+- TOP 6.4.4.: Baumfällung Ligsalzstr. 20
+- TOP 6.4.5.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung , des Bau- und Kreisverwaltungsausschusses sowie des Verwaltungs- und Personalausschusses vom 09.11.05 (VB) Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln Kenntnisnahme
+- TOP 7.1.: Beschluss des Verwaltungs- und Personalausschusses fom 28.09.05 Änderung der BA-Satzung; Anhörung für den BA beim Kauf von Grundstücken
+- TOP 9.1.: Meldeliste 10.10.05 - 16.10.05 Erstantragsverfahren a) Guldeinstr. 48
+- TOP 9.2.: Meldeliste 17.10.05 - 23.10.05 Erstantragsverfahren a) Grasserstr.
+- TOP 10.1.: Schreiben BA 9 vom 20.10.05 Mobilität von BA-Mitgliedern Bitte um Unterstützung
+- TOP 11.1.: Schriftverkehr 09/05
+- TOP 11.2.: Protokoll 09/05
+- TOP 11.3.: KVR - Unveränderte Fortführung einer Gaststätte Ganghoferstr. 31
+- TOP 11.4.: KVR - Unveränderte Fortführung einer Gaststätte Trappentreustr. 25
+- TOP 11.5.: KVR - Unveränderte Fortführung einer Gaststätte Ligsalzstr. 2
+- TOP 11.6.: KVR - Unveränderte Fortführung einer Gaststätte Gollierstr. 39
+- TOP 11.7.: KVR - Unveränderte Fortführung von Gaststätten Heimeranstr. 37
+- TOP 11.8.: KVR - Unveränderte Fortführung von Gaststätten Astallerstr. 2
+- TOP 11.9.: KVR - Genehmigung einer Veranstaltung auf öffentlichem Verkehrsgrund Bergmannstr. 50, 29.10.05
+- TOP 11.10.: Bekanntgabe in der Sitzung des Bauausschusses vom 18.10.05 Aufbau eines Hochgeschwindigkeitnetzes durch die Deutsche Telekom AG (T-COM) Innovationsprojekt T-HOME SPEED
+- TOP 11.11.: Beschluss des Umweltausschusses vom 11.10.2005 (VB) Lärmminderungsplan für München EU-Umgebungslärmrichtlinie
+- TOP 11.12.: Beschluss der Vollversammlung des Stadtrates vom 06.10.05 (SB) PERSPEKTIVE MÜNCHEN Bericht zur Stadtentwicklung 2003 a) Anhörung der BAs b) Befassung der Fachausschüsse des StR c) Entscheidungsvorschlag des PlanRef
+- TOP 11.13.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder - und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.05 (SB) Einstellung des Vernetzungsprojektes REGSAM
+- TOP 11.14.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.05 (SB) BPlan mit GrünO Nr. 1964 Rainer-Werner-Fassbinder-Platz (beiderseits), Erika-Mann-Str. (nördl.), Lilli-Palmer-Str. (südl.) (Teiländerung des BPlanes Nr. 1873 -Satzungsbeschluss-
+- TOP 11.15.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 12.10.05 PERSPEKTIVE MÜNCHEN - PM aktuell Geburtenentwicklung in München
+- TOP 11.16.: Nahverkehrsplan der LH München
+- TOP 11.17.: Standpunkte 08/2005 Münchner Forum
+- TOP 11.18.: Regionale Sachberichte 2004
+- TOP 11.19.: Region 1 - 25 Betrifft: Soziales
