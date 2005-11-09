@@ -1,0 +1,60 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2005-11-09T17:00:00+01:00
+- Ende: 2005-11-09T21:20:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=983
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=983
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=30007
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Konsensliste - vertagt
+- TOP 3: Dringlichkeitsanträge - (offen)
+- TOP 3.1: Kein weiterer Unterrichtsausfall an Reinickendorfer Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Feststellungen - (offen)
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 25 BezVerwG - erledigt
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Keine Reduzierung von Standorten der Polizeiabschnitte in Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.2: Anordnung eines Zebrastreifens im Senftenberger Ring Ecke Calauer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Weiterführung der Ringlinie 325 nach Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Mitmach-Parcours zur Tabakprävention - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: Lärmbelästigung in der Bernstorffstraße in den Abendstunden und nachts - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Vorbereitende Maßnahmen für das Tegeler Fließ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Finanzieller Ausgleich für die steigenden Vervielfältigungskosten der Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Entwurf des Bezirkshaushaltsplanes Reinickendorf für die Haushaltsjahre 2006 und 2007 (Doppelhaushalt) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.9: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-226 a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.10: Bebauungsplan XX-219 a vom 02. Mai 2000 für die Grundstücke Hennigsdorfer Str. 137/143 im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.11: Festsetzung der Rechtsverordnung des Bebauungsplanes XX-89-1 für die Grundstücke Blomberger Weg 6 B und 8 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.12: Information über das Ergebnis der öffentlichen Auslegung vom 11.10.2005 Bebauungsplanentwurf XX-172 a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.13: Information über das Ergebnis der öffentlichen Auslegung vom 11.10.2005 Bebauungsplanentwurf XX-235 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.14: Information über das Ergebnis der öffentlichen Auslegung vom 11.10.2005 Bebauungsplanentwurf XX-236 c - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.15: Information über das Ergebnis der öffentlichen Auslegung vom 11.10.2005 Bebauungsplanentwurf XX-237 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.16: Entwürfe der Landschaftspläne für das Dorf Heiligensee; XX-L-10 a bis 10 b; XX-L-11 a bis 11 c; XX-L-12 a bis 12 b - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Position des Bezirks zum "Straßenraubbeihilfegesetz" - beantwortet
+- TOP 7.2: Zukunft des Centre Bagatelle - beantwortet
+- TOP 7.3: Aktives Werben für die Teilnahme junger Menschen an BVV-Wahlen - beantwortet
+- TOP 7.3.1: Konzept für die Werbung zur Teilnahme an der BVV-Wahl 2006 für die Altersgruppe der 16- bis 18-Jährigen - überwiesen
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Bezirkshaushaltsrechnung für das Haushaltsjahr 2004 - überwiesen
+- TOP 8.2: Entwurf des Bebauungsplanes XX-232 für das Grundstück Quickborner Straße 121 sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-232 - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Übertragung einer weiteren Kindertagesstätte an einen Freien Träger Kindertagesstätte Gotthardstraße - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Bestimmung eines stimmberechtigten Mitglieds und eines stellvertretenden Mitglieds der BVV Reinickendorf für den Verwaltungsrat des zukünftigen Eigenbetriebes "Kindertagesstätten Nordwest - Eigenbetrieb von Berlin" - ohne Änderungen in der BVV beschlossen
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: "Denkzeit-Training" für deliquente Jugendliche - überwiesen
+- TOP 9.2: Absolutes Halteverbot im Amboßweg durchsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Gezielte Schwerpunktsetzung Schule - überwiesen
+- TOP 9.4: Bibliothek in der Hannah-Höch-Schule - überwiesen
+- TOP 9.5: Implementierung von Gender Mainstreaming - ohne Änderungen in der BVV beschlossen
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: Keinen Vorschub für die Flucht von Strafgefangenen leisten! - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Mittelstreifen auf dem Wilhelmsruher Damm sichern - überwiesen
+- TOP 10.3: Aussichtsplatz am Vogelschutzreservat Flughafensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Grünflächenpflege am S-Bahnhof Tegel - überwiesen
