@@ -1,0 +1,96 @@
+# 36. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2005-11-09T17:30:00+01:00
+- Ende: 2005-11-09T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1095
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1095
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=14379
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - im Ausschuss abgelehnt
+- TOP 1.2: Geschäftliche Mitteilung - im Ausschuss abgelehnt
+- TOP 1.3: Abstimmung über die Tagesordnung - im Ausschuss abgelehnt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Wie weiter mit dem Stadtbad Oderberger Straße? - beantwortet
+- TOP 1.4.2: Stadtbad Oderberger Straße - mit Änderungen in der BVV beschlossen
+- TOP 1.4.3: Änderungen in der Berechnung der Ausschuss - Sitze - ohne Änderungen in der BVV beschlossen
+- TOP 1.4.4: Erhalt des Kinostandortes Collosseum - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.6: Bericht des Bezirksamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.7: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.8: Vertagte Drucksachen der 35. Tagung / bereits ausgereicht - (offen)
+- TOP 1.8.1: Straßenausbaubeitragsgesetz verhindern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.8.2: Mehr Demokratie in der vorbereitenden und verbindlichen Bauleitplanung in Berlin - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.8.3: Breitbandinternet nach Pankow! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.8.4: Umweltbüro in seiner Qualität erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.8.5: Mehr Sicherheit und Platz für die Schüler/innen der Rosa-Luxemburg-Oberschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.9: Wahl eines Beisitzers in den Vorstand der BVV - gewählt
+- TOP 1.10: Wahl eines Bürgerdeputierten - gewählt
+- TOP 1.11: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.12: Wahl eines Vertreters der Bezirksverordnetenversammlung Pankow von Berlin in den Verwaltungsrat des Eigenbetriebes "Kindergärten NordOst" - gewählt
+- TOP 1.13: Wahl von 2 stellvertretenden Vertretern der BVV in den Beirat des JobCenter Pankow - vertagt
+- TOP 1.14: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2004 - überwiesen
+- TOP 1.15: Übertragung der kommunalen Kindertagesstätte, Gürtelstraße 25, 10405 Berlin an den Freien Träger "Jugendwerk Aufbau Ost e.V.", Torgauer Straße 27-29, 12627 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Übertragung der kommunalen Kindertagesstätte Mandelstraße 15, 10409 Berlin, Dietzgenstraße 33, 13156 Berlin an den Freien Träger "Bürgerhaus e.V.", Berliner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Übertragung der kommunalen Kindertagesstätte Hanns-Eisler-Straße 82/84, 10409 Berlin; Blankenfelder Straße 9, 13158 Berlin; Wiegandstaler Straße 15, 13088 Berlin; Lindenberger Straße 24, 13156 Berlin an den Freien Träger "Pfefferwerk Stadtkultur gGmbH", Fehrbelliner Straße 92, 10119 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Übertragung der kommunalen Kindertagesstätte, Meyerbeerstraße 96, 13088 Berlin an den Freien Träger "Jugendwerk Aufbau Ost e.V., Torgauer Straße 27-29, 12627 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Radfernwanderweg Berlin-Usedom im Schlosspark Niederschönhausen - in der BVV abgelehnt
+- TOP 1.20: Mehr Bürgerdemokratie - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Straßenausbaubeitragsgesetz - vertagt
+- TOP 1.22: Städtepartnerschaft mit Toroslar-Mersin, Türkei - vertagt
+- TOP 1.23: Erschließungsbeiträge Hubertusdamm / Röländer Straße - vertagt
+- TOP 1.24: Bushaltebuchten auf der Blankenburger Chaussee - vertagt
+- TOP 1.25: Einhaltung der Bauablaufpläne in der Berliner Allee - vertagt
+- TOP 1.26: Qualitätscontrolling im Sozialamt - vertagt
+- TOP 1.27: Stand der Vorbereitungen zur Gründung des KiTa - Eigenbetriebes "Kindergärten NordOst" - vertagt
+- TOP 1.28: Beteiligung der BVV und ihrer Ausschüsse bei der Änderung von Sanierungszielen - überwiesen
+- TOP 1.29: Gleisanlagen auf öffentlichem Straßenland - überwiesen
+- TOP 1.30: Namensgebung Platz zwischen Diesterwegstraße und Ella-Kay-Straße - vertagt
+- TOP 1.31: Jüdischer Friedhof als Weltkulturerbe - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Änderung von Sanierungszielen - überwiesen
+- TOP 1.33: Verkehrssituation in der Schillerstraße in Pankow - überwiesen
+- TOP 1.34: Entsperrung der Haushaltsmittel zur Finanzierung der Projekte freier Träger - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Gestaltung der Bahnbrücken am S-Bahnhof Pankow - überwiesen
+- TOP 1.36: Schulwegsicherung an der Grundschule an den Buchen - überwiesen
+- TOP 1.37: Strukturiertes Telefonverzeichnis des JobCenters - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Verkehrsberuhigung Wollankstraße - vertagt
+- TOP 1.39: Standards zur Planung von Kinderspielplätzen - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Botanische Anlagen in Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Bäderschließung in Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Bauliche Mängel in der Kita "La Cigale" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Erhalt der Seniorenbegegnungs- und Freizeitstätten im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Freie Träger im Bereich der Hilfe in besonderen Lebenslagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Graffiti im Mauerpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Baracke Fröbelstraße 17 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Gedenkzeichen Bezirksamtsgelände Fröbelstraße - vertagt
+- TOP 2.9: Entwicklung einer Konzeption zum Erhalt und der Weiterführung der Seniorenbegegnungsstätten im Bezirk Pankow - vertagt
+- TOP 2.10: Erhalt des Heimatmuseums am Standort Weißensee - vertagt
+- TOP 2.11: Pankow für Europa - Mitgliedeschaft in der Euregio Pomerania anstreben - vertagt
+- TOP 2.12: Evaluierung im Bereich "Entgeltfinanzierte Betreuungsleistungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Fußball-WM 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Versickerung von Niederschlagswasser auf bezirkseigenen Grundstücken - vertagt
+- TOP 2.15: Sportentwicklungsplan für den Bezirk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Pankow für Europa - Mitglied in der Kommunalgesellschaft Pomerania e.V. werden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: KITA-Eigenbetrieb - vertagt
+- TOP 2.18: Arbeitsgelegenheiten mit Mehraufwandsentschädigung (MAE) im Bezirksamt Pankow - vertagt
+- TOP 2.19: Betriebssatzung für den geplanten Eigenbetrieb Kindergärten Pankow-Marzahn/Hellersdorf-Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Bebauungsplanentwurf XVIII-65 für die Grundstücke Mahlerstraße 26/32, 25/27a und 31 sowie einen Abschnitt der Mahlerstraße zwischen Meyerbeerstraße und Gounodstraße im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Änderung der Sanierungsziele für die Grundstücke Breite Straße 17 und 20 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Erhalt der Kinder- und Jugendfreizeiteinrichtung mit Nachbarschaftsorientierung "Der Alte" in Berlin-Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Benennung der Nummernstraße 107 im OT Niederschönhausen in "Rudolf-Majut-Straße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Bebauungsplan XVIII-58-1 für die Grundstücke Lehderstraße 68, 69 im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Entwurf des Bebauungsplans IV-76 für das Gelände zwischen Storkower Straße, Landsberger Allee, S-Bahnhof Landsberger Allee und der Straße in Verlängerung des Syringenweges im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Erlass der Betriebssatzung für den Eigenbetrieb "Kindergärten NordOst, Eigenbetrieb von Berlin" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Bestellung von Mitgliedern im Verwaltungsrat des Eigenbetriebes "Kindergärten NordOst" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Bebauungsplan XVIII-24-2 für das Gelände zwischen der öffentlichen Parkanlage am Hofzeichendamm, Ingwäonenweg, Siverstorpstraße, Gatterweg und dem Grundstück Gatterweg 17 im Bezirk Pankow, Ortsteil Karow zur Änderung des Bebauungplanes XVIII-24, festgesetzt am 5. Januar 1995 (GVBl. S.11) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Förderprogramm Stadtumbau Ost - Aufwertung Vorschläge für die Programmplanung 2006/2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Änderung der Sanierungsziele für den Standort Esmarchstraße 3 - mit Abschlussbericht zur Kenntnis genommen
