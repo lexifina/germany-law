@@ -1,0 +1,58 @@
+# 10. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-11-09T17:56:00+01:00
+- Ende: 2005-11-09T21:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/4879
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/4879
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00225228.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 7.1: Erhalt des Bäderstandortes Handorf - eingebracht
+- TOP 8: Anregungen des Ausländerbeirates
+- TOP 9: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am 27.11.2005 - mehrheitlich beschlossen
+- TOP 10: I. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2005 - einstimmig geändert beschlossen
+- TOP 11: Übertragung der Straßenbeleuchtungsanlagen der Stadt Münster auf die Stadtwerke Münster GmbH einschl - mehrheitlich beschlossen
+- TOP 12: Bericht über die Beteiligungen der Stadt Münster im Jahr 2004 (Beteiligungsbericht 2004) - einstimmig beschlossen
+- TOP 13: Erhöhung des Kapitals der Flughafen Münster/Osnabrück GmbH - mehrheitlich beschlossen
+- TOP 14: Ludgerusschule Albachten, Hohe Geist 8, 48163 Münster, - einstimmig beschlossen
+- TOP 15: Befristete Einsetzung einer Kunstkommission - einstimmig beschlossen
+- TOP 16: Sportbetonte Schule - einstimmig beschlossen
+- TOP 17: Änderung der Gebührensatzung der Westfälischen Schule für Musik - vertagt
+- TOP 18: Erwerb eines Gesellschaftsanteils an der "Institut für vergleichende Städtegeschichte - IStG - gGmbH - einstimmig beschlossen
+- TOP 19: Satzung über die Festlegung der Höhe des Geldbetrages, der nach § 51 Abs. 5 der Landesbauordnung NRW - von der Tagesordnung abgesetzt
+- TOP 20: Satzung gemäß § 34 BauGB für den Bereich Amelsbüren- Zum Häpper - einstimmig beschlossen
+- TOP 21: Genehmigung einer Dringlichkeitsentscheidung zur überplanmäßigen Mittelbereitstellung - einstimmig beschlossen
+- TOP 22: Satzung zur Änderung der Satzung zur Erhebung von Kostenerstattungsbeträgen nach § 8 a (BNatSchG) - einstimmig beschlossen
+- TOP 23: Bauleitplanung
+- TOP 23.1: Stadtbezirk Münster-Mitte
+- TOP 23.1.1: Teilaufhebung der Sanierungssatzung Hafen / Halle Münsterland - einstimmig beschlossen
+- TOP 23.1.2: Teilaufhebung des Bebauungsplanes Nr. 401: Stadthafen I / Albersloher Weg - einstimmig beschlossen
+- TOP 23.1.3: 5. Änderung des Bebauungsplanes Nr. 401: Stadthafen I / Albersloher Weg - einstimmig beschlossen
+- TOP 23.2: Stadtbezirk Münster-Hiltrup
+- TOP 23.2.1: 7. Änderung des fortgeschriebenen Flächennutzungsplanes - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 23.2.2: Bebauungsplan Nr. 465: Hiltrup - Meesenstiege / südlich Sternkamp - mehrheitlich beschlossen
+- TOP 23.3: Stadtbezirk Münster-Nord
+- TOP 23.3.1: Bebauungsplan Nr. 459 - Beschluss über die Anregungen - Beschluss zur erneuten Offenlegung - einstimmig beschlossen
+- TOP 23.3.2: 1. Änderung des Bebauungsplanes Nr. 106 Teilabschnitt XV: Kinderhaus - Haubrockweg - einstimmig beschlossen
+- TOP 24: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 25.0.1: Kürzung von Bundeszuschüssen zu Unterkunftskosten nach SGB II - einstimmig beschlossen
+- TOP 25: Anträge von Ratsmitgliedern nach § 3 Abs.2 der Geschäftsordnung
+- TOP 25.1: Bürokratie abbauen - Service für Bürgerinnen und Bürger verbessern: Ein Bildungsbüro für Münster - verwiesen
+- TOP 25.2: Erweiterung des Schulzentrums Wolbeck - verwiesen
+- TOP 25.3: Mit Leistungsvereinbarungen zukunft gestalten - Soziale Strukturen sichern und weiterentwickeln - verwiesen
+- TOP 25.4: "Kinder und Jugendliche gestalten ihr Lebenswelt mit" Beteiligung und Beteiligungsformen für Kind - verwiesen
+- TOP 26: Verschiedenes
