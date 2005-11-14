@@ -1,0 +1,118 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2005-11-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/752721
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/752721
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 4: Ausschussberichte
+- TOP 5: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 6: Entscheidungsfälle
+- TOP 7: Unterrichtungsfälle
+- TOP 8: Anhörungsfälle
+- TOP 9: Antworten der Stadt
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Kindern Kreativität näherbringen; Projekt in Stadtvierteln
+- TOP 1.3.: Dankschreiben der Freien Turnerschaft München Blumenau von 1966 e.V.
+- TOP 1.4.: Dankschreiben des Waldorfkindergartens Großhadern
+- TOP 1.5.: Hundekot in den Grünanlagen
+- TOP 1.6.: Müllentsorgung in Hadern
+- TOP 2.1.: Niederschrift der Sitzung vom 10.10.2005
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Willibaldstrr. 201, 1 Birke
+- TOP 3.2.: Windeckstr. 69a, 1 Trauerweide
+- TOP 3.3.: Terofalstr. 27 - 53, 3 Robinien
+- TOP 3.4.: Würmtalstr. 147, 1 Fichte
+- TOP 3.5.: Kriegerheimstr. , 1 Walnuss
+- TOP 3.6.: Gräfelfinger Str. 146, 10 Birken
+- TOP 3.7.: Mohnweg 6, 1 Serbische Fichte
+- TOP 3.8.: Windeckstr. 34, gem Baumbestandsplan Nr. 26721 und 26716
+- TOP 3.9.: Rolf-Pinegger-Str. 5-7/23-29, 3 Hainbuchen, 2 Mehlbeeren
+- TOP 3.10.: Terofalstr. 4 - 8, 2 Eichen, 2 Bergahorn
+- TOP 3.11.: Waldspitz 23, 2 Lärchen
+- TOP 3.12.: Zavelsteinstr. 4, 1 Rotfichte
+- TOP 3.13.: Vingerstr. 1, 1 Rotfichte
+- TOP 3.14.: Gladiolenstr. 1a, 1 Nordmanntanne
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Kriegerheimstraße, 1 Walnußbaum
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.: Antrag des kath. Pfarramtes St. Canisius auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 500,00 Euro (Direktorium, 11.10.2005)
+- TOP 6.2.: Antrag des Elternbeirates der KK Violenstraße auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 382,44 Euro (Direktorium, 11.10.2005)
+- TOP 6.3.: Antrag des Gartenbauvereins München-Großhadern e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 350,00 Euro (Direktorium, 21.10.2005)
+- TOP 7.1.: Sauerbruchstr. 48, Antrag auf Patenschaft für den davor liegenden Grünstreifen (BAureferat, 11.10.2005)
+- TOP 7.2.: Umstrukturierung in der LBK (Referat für Stadtplanung und Bauordnung, 21.09.2005)
+- TOP 7.3.: Instandsetzung der Straßenbrücke im Zuge der B 2 neu über die Boschetsrieder und Fürstenrieder Straße Projekt-Nr. 4946 und 5167 (Baureferat, 22.09.2005)
+- TOP 7.4.: Verkehrsschild in der Waldgartenstraß (KVR, 28.09.2005)
+- TOP 7.5.: Winterdienst 2005/2006, Allgemeine Übersicht der Einsatzgebiete (Baureferat, 13.10.2005)
+- TOP 7.6.: Kein Geldinstitut mehr am Haderner Stern (Referat für Arbeit und Wirtschaft, 20.10.2005)
+- TOP 7.7.: Zweckentfremdung von Wohnrau, Pelargonienweg (Sozialreferat, 18.10.2005)
+- TOP 7.8.: Haltverbot in der Senftenauerstraße, aus der Bürgerversammlung vom 29.09.2005 (Direktorium, 11.10.2005)
+- TOP 7.9.: Wechsel des Abteilungsleiters Straßenunterhalt und -betrieb im Baureferat - Tiefbau (Baureferat, 04.10.2005)
+- TOP 7.10.: Förderprogramm "Bürger und Bürgerinnen gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln (Direktorium, 27.09.2005)
+- TOP 8.1.: Hotelerweiterung mit Tiefgarage, Heiglhofstr. 3 (Referat für Stadtplanung und Bauordnung, 10.10.2005)
+- TOP 8.2.: Anbau Wäschereigebäude, Kleinhaderner Str. 53 (Referat für Stadtplanung und Bauordnung, 12.10.2005)
+- TOP 8.3.: LKW - Nachtfahrverbot in der Fürstenrieder Straße (KVR, 10.10.2005)
+- TOP 8.4.: Elektronisches Ratsinformationssystem (RIS) Umsetzung Stife II - Anschluss der Bezirksausschüsse an das System; Auswirkungen auf die technische Anbindung der ehrenamtlichen Stadtratsmitglieder (Direktorium, 06.10.2005)
+- TOP 9.1.: Umgestaltung der Gehwege am Max-Lebsche-Platz, BA-Antrag Nr. 546 vom 17.08.2005 (Baureferat, 22.09.2005)
+- TOP 9.2.: Laubbläser am Lärmschutzwall entlang der BAB A96, Bereich Langbehnstraße, durch Laubsammler erstetzen (Baureferat, 19.10.2005)
+- TOP 9.3.: Nachtabschaltung von Lichtsignalanlagen im 20. Stadtbezirk (KVR, 28.09.2005)
+- TOP 9.4.: Abbiegesituation an der Kreuzung Haderun-/ Waldwiesenstraße Entfernen der zusätzlichen Pfeilmarkierungen (KVR; 29.09.2005)
+- TOP 10.1.: Flohmarkt am Haderner Stern (Bayerische Versorgungskammer, 04.10.2005)
+- TOP 11.1.: Das Schulreferat trifft die Bezirksausschüsse am 24.11.2005 um 16.00 Uhr (Schul- und Kultusreferat, 10.10.2005)
+- TOP 11.2.: Info-Broschüre "Kommunale Beschäftigungspolitik und Qualifizierung" (Referat für Arbeit und Wirtschaft, 22.09.2005)
+- TOP 11.3.: Jahresprogramm bis Herbst 2006 von Amyna (Amyna, 20.09.2005)
+- TOP 11.4.: Broschüre zum Nahverkehrsplan der LHM (Referat für Stadtplanung und Bauordnung, 226.09.2005)
+- TOP 11.5.: Fest für junge Erwachsene im Rathaus am 05.11.2005 (Direktorium, 07.10.2005)
+- TOP 11.6.: Sicherung Baustelle an der Toemlingerstraße
+- TOP 11.7.: Einladung zum Fachgespräch Selbsthilfe und Migration am 05.12.2005
+- TOP 11.8.: Schließung dezentraler Kultureinrichtungen (BA 1, 24.10.2005; BA 15, 24.10.2005)
+- TOP 11.9.: Änderung der BA-Satzung Entscheidungsrecht für die Bezirksausschüsse bei Errichtung von Freischankflächen (BA 3, 20.10.2005)
+- TOP 11.10.: Mobilität von BA-Mitgliedern (BA 9, 20.10.2005)
+- TOP 11.11.: Pilotprojekt Jugendbeteiligung an der Stadtplanung (BA 5, 30.09.2005)
+- TOP 11.12.: Ergebnisprotokoll aus der Sitzung der Arbeitsgruppe Wohnungslosigkeit am 14.06.2005 (Sozialreferat, 10.10.2005)
+- TOP 11.13.: Auskunft über eine Ersatzlösung für die bislang auf dem Gelände an der Säbener Str. untergebrachten Baseball-Verine; Einstellung der Mittel für eine Verlagerung in Investitionsliste 1 Mehrjahresinvestitionsprogramm (BA 18, 06.10.2005)
+- TOP 12.1.: Vollversammlung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.1.: am 06.10.2005 Änderung der Satzung für die Münchner Bezirksausschüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.1.: am 06.10.2005 Perspektive München Bericht zur Stadtentwicklung 2003; a) Anhörung der Bezirksausschüsse; b) Befassung der Fachausschüsse des Stadtrates; c) Entscheiungsvorschlag des Planungsreferates
+- TOP 12.3.2: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Schulausschusses vom 12.10.2005 Kindertagesstätten freigemeinnütziger Träger Waldorfkindergartenverein Pasing e.V., Errichtung des 4-gruppigen Kindergartens an der Blumenauer Straße im 20. Stadtbezirk
+- TOP 12.2.: Beschluss des Schulauschusses vom 21.09.2005 Erweiterung der Sporthalle in der Grundschule Am Hedernfeld; Empfehlung Nr. 20 der BV am 07.10.2004
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.02.2005 Bebauungsplan mit Grünordnung Nr. 1817 Stiftsbogen, Walter-Hopf-Weg, Bundesautobahn A 96, Schröfelhofstraße, Kurparkstraße
+- TOP 12.4.: Beschluss des Bauausschusses vom 27.09.2005 Realisierungsnetz Radfahrverbindungen in München Fortschreibung 2005
+- TOP 12.5.: Beschluss des Bauausschusses vom 27.09.2005 Instandsetzung der Straßenbrücke im Zuge der B 2 neu über die Boschetsrieder / Fürstenrieder Straße im 7. STadtbezirk Sendling- Westpark, 19. Stadtbezirk Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln und 20. Stadtbezirk Hadern
+- TOP 12.6.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005 Ergänzung vom 06.10.2005; Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 12.1.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.2005 Einstellung des Vernetzungsprojektes REGSAM
+- TOP 12.2.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.2005 Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005 Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005 Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 12.5.: Beschluss des Kinder- und Jugendhilfe- und Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005 Haushaltskonsolidierung, Feinkonzept 2006
+- TOP 12.6.: Beschluss des Schulausschusses vom 12.10.2005 Kindertagesstätten freigemeinnütziger Träger; Waldorfkindergartenverein Pasing e.V., Errichtung des 4-gruppigen Kindergartens an der Blumenauer Straße im 20. Stadtbezirk Hadern
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Umweltausschusses vom 11.10.2005 Lärmminderungsplan für München, EU-Umgebungslärmrichtlinie
+- TOP 12.2.: Beschluss des Verwaltungs- und Personalausschusses vom 28.09.2005 Änderung der BA-Satzung; Anhörung für den BA beim Kauf von Grundstücken
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.09.2005 Perspektive München Bericht zur Stadtentwicklung 2003 a) Anhörung der Bezirksausschüsse, b) Befassung der Fachausschüsse des Stadtrates c) Entscheidungsvorschlag des Planungsreferates
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.2005 Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich III/12 und Bebauungsplan mit Grünordnung Nr. 1918 Sauerbruchstraße (westlich),
+- TOP 12.2.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bau- und des Kreisverwaltungsausschusses sowie des Verwaltungs- und Personalausschusses vom 09.11.2005 Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 12.3.: Bekanntgabe
+- TOP 12.4.: Bekanntgabe in der Sitzung des Bauausschusses vom 18.10.2005 Aufbau eines Hochgeschwindigkeitsnetzes durch die Deutsche Telekom AG (T-COM), Innovationsprojekt T-HOME SPEED
+- TOP 12.5.: Bekanntgabe in der gemeinsamen Sitzung des Schulausschusses und des Sportausschusses vom 12.10.2005 Erfahrungsbericht zu den Beschlüssen des Stadtrats vom 02.07.2003 -Entgelte für die Benutzung städtischer Sportanlagen; Aktualisierung der Gebührensätze -Raum- und Flächenangebot in den öffentlichen Schulen der Landeshauptstadt München; Überlassung für schulfremde Zwecke
+- TOP 12.6.: Bekanntgabe im Ausschuss für Stadtpanung und Bauordnung vom 12.10.2005 Perspektive München - PM Aktuell, Geburtenentwicklung in München
