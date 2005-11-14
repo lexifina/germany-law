@@ -1,0 +1,111 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2005-11-14T16:10:00+01:00
+- Ende: 2005-11-14T19:11:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3540
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3540
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung des Rates - Stand: 11.11.05 - 10.11 Uhr - http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00058805.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00059365.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00059061.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Beschluss über die Verleihung eines Ehrenringes - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Skulpturenpark - abgesetzt
+- TOP 2.2: Anfrage zu Kosten der Unterkunft - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Beantwortung der Anfrage der Fraktion der LINKSPARTEI.PDS - abschließend zur Kenntnis genommen
+- TOP 2.3: Kommunale 1-Euro-Jobber - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Anfrage zur Zusätzlichkeit von Arbeitsgelegenheiten bei der Stadt als Ergänzung zur Anfrage 1290/05 - abschließend zur Kenntnis genommen
+- TOP 2.3.2: Beantwortung der Anfrage der Fraktion DIE LINKE.PDS - VO/1290/05 - abschließend zur Kenntnis genommen
+- TOP 2.4: Kostenüberschreitungen Döppersberg-Projekt - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Neugestaltung Döppersberg - abschließend zur Kenntnis genommen
+- TOP 2.5: Anfrage der Fraktion der Linkspartei.PDS zum Arbeits- und Gesundheitsschutz bei der Ausübung von Arb - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Anfragen der Fraktion Die Linkspartei.PDS - Drucks.Nrn. VO/1327/05 und 1328/05 - abschließend zur Kenntnis genommen
+- TOP 2.6: Anfrage zur Situation des Schul- und Vereinssports in Barmen - abschließend zur Kenntnis genommen
+- TOP 2.6.1: Beantwortung der Anfrage der Fraktion DIE LINKSPARTEI.PDS vom 31.10.2005 - abschließend zur Kenntnis genommen
+- TOP 2.7: Neubau- und Erweiterungsmaßnahmen von Regenrückhaltebecken der WSW AG - abschließend zur Kenntnis genommen
+- TOP 2.7.1: Beantwortung der Anfrage der FDP- Fraktion vom 07.11.2005, Neubau- und Erweiterungsmaßnahmen von Re - abschließend zur Kenntnis genommen
+- TOP 2.8: Geldleistungen an die Fraktionen im Rat der Stadt Wuppertal - abgesetzt
+- TOP 2.9: Strukturelle und verkehrspolitische Probleme in Sudberg - abschließend zur Kenntnis genommen
+- TOP 2.9.1: Strukturelle und verkehrspolitische Probleme in Sudberg - abschließend zur Kenntnis genommen
+- TOP 2.10: Altlasten Firma Hösterey - Kenntnis genommen
+- TOP 2.10.1: Anfrage Bündnis 90/DIE GRÜNEN zur ehemaligen Schleiferei Hösterey - Kenntnis genommen
+- TOP 2.11: Programm Städtebaulicher Denkmalschutz - abschließend zur Kenntnis genommen
+- TOP 2.11.1: Programm Städtebaulicher Denkmalschutz - abschließend zur Kenntnis genommen
+- TOP 2.12: Umbau des Stadions am Zoo - abschließend zur Kenntnis genommen
+- TOP 2.12.1: Antwort der Verwaltung auf die Anfrage Vo/1393/05 - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Resolution - abgesetzt
+- TOP 4.1.1: Resolution - Kommunen dürfen nicht die Verliererinnen bei der Zusammenlegung von Arbeitslosen- und S - ungeändert beschlossen
+- TOP 4.2: Ausbau von Kinderbetreuungsangeboten für Kinder unter 3 Jahren - zur Vorberatung verwiesen
+- TOP 4.2.1: Betreuung von Kindern unter drei Jahren - zur Vorberatung verwiesen
+- TOP 4.3: Kündigungen in den Helios-Kliniken GmbH Wuppertal - zur Vorberatung verwiesen
+- TOP 4.4: Verbesserung der EinwohnerInnenbeteiligung in Wuppertal - zurückgestellt
+- TOP 4.5: Haushalt 2006 / 2007 - abgesetzt
+- TOP 4.6: Dringlichkeitsantrag "Zweitwohnungssteuersatzung" - zur Vorberatung verwiesen
+- TOP 4.7: Winterdienstgebühren - zur Vorberatung verwiesen
+- TOP 4.8: Kurbad Barmen - Entgegennahme ohne Beschluss
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Einführung eines Handyparksystems - abgesetzt
+- TOP 5.1.1: Einführung eines Handyparksystems - abgesetzt
+- TOP 5.2: Kündigungen in den Helios-Kliniken GmbH Wuppertal - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.3: Aufstellungsbeschluss zum Denkmalbereich " Briller Viertel " - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.3.1: Aufstellungsbeschluss zum Denkmalbereich "Briller Viertel" (Drs. VO/0977/05)/Stellungnahme der Verw. - ungeändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der Entgeltordnung für den Zoologischen Garten - ungeändert beschlossen
+- TOP 6.2: Änderung des Taxentarifs - ungeändert beschlossen
+- TOP 6.3: Änderung der Entgeltordnung für die Bäder der Stadt Wuppertal - abgesetzt
+- TOP 6.4: Änderung der Hauptsatzung - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Schulwegsicherung Hatzfelder Straße - ungeändert beschlossen
+- TOP 7.2: Gewerbegebiet Im Hölken - ungeändert beschlossen
+- TOP 7.3: Bau der Erschließung Gewerbegebiet Bahnstraße Ost / Nösenberg - B-Plan Nr. 963 - ungeändert beschlossen
+- TOP 7.4: Restaurierung des Märchenbrunnens im Zooviertel - ungeändert beschlossen
+- TOP 7.5: Zuschuss zur Finanzierung von Brandschutzmaßnahmen an der Troxler-Schule Wuppertal - geändert beschlossen
+- TOP 7.6: Erneuerung der Brücke Emilienstraße - ungeändert beschlossen
+- TOP 7.7: Zustimmung zur Leistung einer außerplanmäßigen Ausgabe im Vermögenshaushalt 2005 - ungeändert beschlossen
+- TOP 7.8: Über- und außerplanmäßige Ausgaben 2005 - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2003 des Gebäudemanagements Wuppertal (GMW) - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 967 - westlich Unihalle - ungeändert beschlossen
+- TOP 9.2: 1. Verlängerung einer Veränderungssperre im Bebauungsplan 1065 - Steinbecker Meile - - ungeändert beschlossen
+- TOP 9.3: 1. Änderung des Bebauungsplanes Nr. 772 A- Östl. der Straße Zur Waldkampfbahn / Tierheim - - ungeändert beschlossen
+- TOP 9.4: Bauleitplanverfahren Nr. 963 -Bahnstraße Ost (Nösenberg)- Satzungsbeschluss - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Bau einer Aula für das Wilhelm-Dörpfeld-Gymnasium - ungeändert beschlossen
+- TOP 10.2: Ausbau Stadion am Zoo - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Durchführungsbeschluss Gründung eines Zweckverbandes Berg.Weiterbildung Remscheid-Solingen-Wuppertal - ungeändert beschlossen
+- TOP 11.1.1: Durchführungsbeschluss Gründung Zweckverband Bergische Weiterbildung Remscheid Solingen Wuppertal - Entgegennahme ohne Beschluss
+- TOP 11.1.2: Stellungnahme der Gleichstellungsbeauftragten zur Gründung der Bergischen Weiterbildung - Entgegennahme ohne Beschluss
+- TOP 11.1.3: Durchführungsbeschluss zur Gründung eines Zweckverbandes Bergische Weiterbildung - Entgegennahme ohne Beschluss
+- TOP 11.1.4: Durchführungsbeschluss Gründung Zweckverband Bergische Weiterbildung Remscheid Solingen Wuppertal - Entgegennahme ohne Beschluss
+- TOP 11.1.5: Durchführungsbeschluss Zweckverband Bergische Weiterbildung Remscheid - Solingen - Wuppertal - Entgegennahme ohne Beschluss
+- TOP 11.1.6: Durchführungsbeschluss Gründung Zweckverband Bergische Weiterbildung Solingen - Remscheid Wuppertal - Entgegennahme ohne Beschluss
+- TOP 11.2: Beitritt des Kreises Mettmann zum Abfallwirtschaftsverband EKOCity - ungeändert beschlossen
+- TOP 11.2.1: Beitritt des Kreises Mettmann zum Abfallwirtschaftsverband EKOCity-Anlage zur Drucksache VO/1145/05 - Entgegennahme ohne Beschluss
+- TOP 11.3: Gewährung von Zuschüssen an den privaten Sonderschulträger, Christian- Morgenstern-Schule Wuppertal - ungeändert beschlossen
+- TOP 11.4: Gewährung von Zuschüssen an den privaten Sonderschulträger Troxler Schule Wuppertal - ungeändert beschlossen
+- TOP 11.5: Fortführung der integrativen Lerngruppe - ungeändert beschlossen
+- TOP 11.6: Annahme einer Schenkung - ungeändert beschlossen
+- TOP 11.7: Entgelterhöhung für die Mittagsverpflegung in städt. Tageseinrichtungen für Kinder - ungeändert beschlossen
+- TOP 11.8: Ausschilderung Zoo im Stadtgebiet Wuppertal - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Erweiterung des Beirates bei der Unteren Landschaftsbehörde - ungeändert beschlossen
+- TOP 12.2: Abberufung/Bestellung von sachkundigen Einwohnern im Ausschuss f. Ordnung, Sicherheit und Sauberkeit - ungeändert beschlossen
+- TOP 12.3: Neubenennung sachkundiger Einwohner als Vertreter der IHK - ungeändert beschlossen
+- TOP 12.4: Einrichtung und Besetzung einer Kommission Schule/Jugendhilfe - erledigt durch Beschluss zu einem anderen TOP
+- TOP 12.4.1: Änderungsantrag zur Drs. VO/1068/05 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 12.4.2: Schule und Jugendhilfe - geändert beschlossen
+- TOP 12.5: Gremienbesetzung - Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
