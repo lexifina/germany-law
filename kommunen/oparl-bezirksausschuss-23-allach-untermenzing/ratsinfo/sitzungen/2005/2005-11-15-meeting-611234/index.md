@@ -1,0 +1,88 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2005-11-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/611234
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/611234
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Anfrage wegen einer Veranstaltung
+- TOP 1.2.: Projekt "Die größte von Kindern der verschiedenen Sozialschichten gestaltete Kunstgalerie, die sich durch ganz München zieht"
+- TOP 1.3.: LKW-Einfahrt der Firma Süd-Grima in der Theodor-Kitt-Straße
+- TOP 2: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Antrag auf Vorbescheid für die Errichtung und den Betrieb einer Transportbetonmischanlage; Ludwigsfelder Str. 162
+- TOP 5.2.: Blade Night 2006
+- TOP 6: Schreiben des Oberbürgermeisters
+- TOP 6.1.: Gewährung eines Zuschusses aus dem Budget des BA 23 für das Allacher Sommerbad (Antrag Nr. 479 vom 28.07.05)
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8: Schreiben des Direktoriums
+- TOP 8.1.: Förderprogramm "Bürgerinnen und Bürger" gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln
+- TOP 8.2.: Bürgerversammlungen mit Multimedia-Präsentation im Jahr 2006
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Wechsel des Abteilungsleiters Straßenunterhalt und -betrieb im Baureferat /Tiefbau
+- TOP 9.2.: Winterdienst 2005/2006; Allgemeine Übersicht der Einsatzgebiete
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Beschilderung von Feld- und Eigentümerwegen im Bereich Allach - Am Lochholz / Auf der Allmende
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO a) Theodor-Fischer-Str. 12, 1 Birke b) Pfarrer-Grimm-Str. 1, Baumbestandsplan Nr. 2005-24672 c) Simonsfeldstr. 34/36, 1 Fichte d) Manzostr. 48, Baumbestandsplan Nr. 2005-24871 e) Vorherstr. 6 a, Baumbestandsplan Nr. 2005-25810 f) Theodor-Fischer-Str. 14, 1 Birke g) Nätherstr. 3b, 1 Kastanie h) Ernst-Haeckel-Str. 21b, Baumbestandsplan Nr. 2005-28263 i) Dachauer Str. 665, 6 Pappeln j) Grünwedelstr. 15, 1 Kiefer k) Pasteuerstraße, Baumbestandsplan Nr. 2005-28158 l) Willi-Wien-Str. 6-8, 1 Linde und 2 Fichten m) Nätherstr. 4b, 1 Fichte n) Lechelstr. 80, Baumbestandsplan Nr. 2005-28915
+- TOP 11.2.: Umstrukturierung in der Lokalbaukommission
+- TOP 11.3.: Bauanträge (v. 03.10.-09.10., 10.10.-16.10.,17.10.-23.10.)
+- TOP 11.4.: Bebauungsplan mit Grünordnung Nr. 1904, Ludwigsfelder Straße (südlich), Bahnlinie München-Treuchtlingen (westlich), östliche Verlängerung Höcherstraße und Georg-Reismüller-Straße (östlich) - ehemaliges Diamalt-Gelände
+- TOP 11.5.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/4, Ludwigsfelder Straße (südlich) - Hackersiedlung -
+- TOP 11.6.: Ganzenmüllerstr. 15; Ablehnung der beantragten Baumfällung
+- TOP 11.7.: Manzostr. 56, 60 und 64; Genehmigung der Fällung eíner Traubenkirsche sowie Ablehnung der Fällung einer Pappel und eines Feldahorns
+- TOP 11.8.: Bebauungsplan Nr. 1871 / Hackersiedlung (Anfrage aus der Bürgerversammlung vom 18.10.05)
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: Erweiterung des Schulzentrums Pfarrer-Grimm-Str. 1; Genehmigung des Nutzerbedarfsprogrammes
+- TOP 13.2.: Einladung "Das Schulreferat trifft die Bezirksausschüsse" am 24.11.05
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Ernst-von-Romberg-Straße
+- TOP 14.2.: Konzept zur pflegerischen Versorgung älterer Menschen in München (Antrag Nr. 428 vom 05.07.05)
+- TOP 14.3.: Ergebnisprotokoll aus der Sitzung der Arbeitsgruppe Wohnungslosigkeit am 14.06.05
+- TOP 14.4.: Informationsveranstaltung für Bezirksausschüsse am 28.11.05
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Mobilfunk; Suchkreismeldungen
+- TOP 15.2.: Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage, Erdenbörse und Erdenwerk am Standort Goteboldstr. 100
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 25: Schreiben des BA 1 Altstadt-Lehel
+- TOP 22: Schreiben des BA 5 Au-Haidhausen
+- TOP 22.2.: Pilotprojekt Jugendbeteiligung an der Stadtplanung
+- TOP 27: Schreiben des BA 3 Maxvorstadt
+- TOP 27.1.: Änderung der BA-Satzung; Entscheidungsrecht für Bezirksausschüsse bei Errichtung von Freischankflächen
+- TOP 26: Schreiben des BA 9 Neuhausen-Nymphenburg
+- TOP 26.1.: Mobilität von BA-Mitgliedern
+- TOP 28: Schreiben des BA 15 Trudering-Riem
+- TOP 23: Schreiben des BA 18 Untergiesing-Harlaching
+- TOP 23.1.: Auskunft über eine Ersatzlösung für die bislang auf dem Gelände an der Säbener Straße untergebrachten Baseball-Vereine; Einstellung der Mittel für die Verlagerung in Investitionsliste 1 des MIP
+- TOP 24: Schreiben des BA 21 Pasing-Obermenzing
+- TOP 24.1.: Ablehnung des Antrags für die Errichtung und den Betrieb einer Bodenbehandlungsanlage, Erdenbörse und Erdenwerk am Standort Goteboldstr. 100
+- TOP 20: Stadtrats - und Ausschussbeschlüsse
+- TOP 20.1.: Ausschuss für Stadtplanung - und Bauordnung vom 21.09.05: - Perspektive München - Bericht zur Stadtentwicklung 2003
+- TOP 20.2.: Bauausschuss vom 27.09.05: - Realisierungsnetz Radfahrverbindungen in München - Fortschreibung 2005
+- TOP 20.3.: Ausschuss für Stadtplanung und Bauordnung vom 28.09.05: - Ergebnisse der Beteiligung der LH München am EU Projekt des Städtenetzwerkes INTERACT (2002-2004): Kooperative Stadtentwicklung in der Praxis
+- TOP 20.4.: Vollversammlung vom 06.10.05: - Änderung der Satzung für die Münchner Bezirksausschüsse; Anhörungsrecht bei der Standortfrage für die Unterbringung wohnungsloser Haushalte im Rahmen des Programms "Wohnen in München III" (Kom/Pro B) - Änderung der BA-Satzung; Anhörung für den BA beim Kauf von Grundstücken - Perspektive München, Bericht zur Stadtentwicklung 2003
+- TOP 20.5.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 11.10.05: - Haushaltsplan 2006, Produkt - und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjungendamtes
+- TOP 20.6.: Umweltausschuss vom 11.10.05 - Lärmminderungsplan für München, EU-Umgebungslärmrichtlinie
+- TOP 20.7.: Schulausschuss und Sportausschuss vom 12.10.05: - Erfahrungsbericht zu den Beschlüssen des Stadtrates vom 02.07.03: - Entgelt für die Benutzung städtischer Sportanlagen; Aktualisierung der Gebührensätze, - Raum-und Flächenangebot in den öffentlichen Schulen der LH München; Überlassung für schulfremde Zwecke
+- TOP 20.8.: Ausschuss für Stadtplanung und Bauordnung vom 12.10.05: - Bebauungsplan mit Grünordnung Nr. 1919a, Manzostraße (nördlich), Waldhornstraße (westlich) - Perspektive München - PM aktuell, Geburtenentwicklung in München
+- TOP 20.9.: Bauausschuss vom 18.10.05: - Aufbau eines Hochgeschwindigkeitsnetzes durch die Deutsche Telekom AG (T-Com), Innovationsprojet T-HOME SPEED
+- TOP 20.10.: Gemeinsamer Ausschuss für Stadtplanung und Bauordnung, Bau- und Kreisverwaltungsausschuss, sowie Verwaltungs- und Personalausschuss vom 09.11.05: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 20.11.: Ausschuss für Stadtplanung und Bauordnung vom 09.11.05: - Perspektive München, Münchner Bürgerinnen- und Bürgerbefragung 2005 - Die Münchner Baumschutzverordnung, Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der BAs und der einschlägigen Verbände
+- TOP 21: Verschiedenes
+- TOP 28.1.: Schließung dezentraler Kultureinrichtungen
