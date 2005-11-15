@@ -1,0 +1,64 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2005-11-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/566923
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/566923
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .3.: Defekter Aufzug Deisenhofener Straße/Untersbergstraße
+- TOP .4.: Verlängerung der Buslinie 220 zum Bahnhof Giesing; Rücknahme der Buslinie 144 zum Bahnhof Giesing; Schreiben der MVG vom 25.10.2005
+- TOP .5.: Arzbergerstraße - Parkplatzmarkierungen; Antwortschreiben des KVR vom 24.10.2005 zum Bürgeranliegen aus der Sitzung vom 11.10.2005
+- TOP .6.: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln; Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bau- und des Kreisverwaltungsausschusses sowie des Verwaltungs- und Personalausschusses vom 09.11.2005 (VB)
+- TOP .1.: Lärmminderungsplan für München; EU-Umgebungslärmrichtlinie; Beschluss des Umweltausschusses vom 11.10.2005 (VB)
+- TOP .2.: Baumschutz; BA-Antrag Nr. 02-08/ B 00419 des BA 17 vom 14.06.05; Schreiben des Referats für Stadtplanung und Bauordnung - Untere Naturschutzbehörde vom 05.10.2005
+- TOP .3.: Vollzug der Baumschutzverordnung; Mitteilungen der Unteren Naturschutzbehörde 5.4.4.3.1 Anwesen in der Gietlstraße; Genehmigungsbescheid vom 17.10.2005
+- TOP .4.: Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse und der einschlägigen Verbände; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2005 (VB)
+- TOP 6: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.: Änderung der BA-Satzung; Anhörung für den BA beim Kauf von Grundstücken; Beschluss des Verwaltungs- und Personalausschusses vom 28.09.2005
+- TOP 6.2.: Änderung der Satzung für die Münchner Bezirksausschüsse; Anhörungsrecht bei der Standortfrage für die Unterbringung wohnungsloser Haushalte im Rahmen des Programms "Wohnen in München III" (KomPro/B); Beschluss des Verwaltungs- und Personalausschusses vom 28.09.25005 (VB); zu TOP 6.3.2 Beschluss der Vollversammlung des Stadtrats vom 06.10.2005
+- TOP 6.3.: PERSPEKTIVE MÜNCHEN - PM Aktuell; Geburtenentwicklung in München; Bekanntgabe im Ausschuss für Stadtplanung u. Bauordnung vom 12.10.2005
+- TOP 6.4.: Wechsel des Abteilungsleiters Straßenunterhalt und -betrieb im Baureferat - Tiefbau; Schreiben des Baureferates vom 04.10.2005
+- TOP 6.5.: Aufbau eines Hochgeschwindigkeitsnetzes durch die Deutsche Telekom AG (T-COM); Innovationsprojekt T-HOME SPEED; Bekanntgabe in der Sitzung des Bauausschusses vom 18.10.2005
+- TOP 6.6.: Änderung der BA-Satzung; Entscheidungsrecht für die Bezirksausschüsse bei Errichtung von Freischankflächen; Beschluss des BA 3 - Maxvorstadt - vom 11.10.2005
+- TOP 6.7.: Einbindung der BAs bei der Umsetzung von Konsolidierungskonzepten des Stadtrates mit Auswirkungen auf die Stadtbezirke; Schließung dezentraler Kultureinrichtungen; Beschluss des BA 1 - Altstadt-Lehel - vom 18.10.2005; zu TOP 6.3.7 Stellungnahme des BA 15 vom 21.10.2005
+- TOP 6.8.: Förderprogramm "Bürger und Bürgerinnen gestalten ihre Stadt" - Bürgertebeiligung in den Stadtvierteln; Az. HA II/V 2 N; Schreiben des Direktoriums vom 27.09.2005
+- TOP 7: Berichte der Beauftragten
+- TOP 7.7.1: Ausländer/Innen
+- TOP 7.7.2: Baumschutz
+- TOP 7.7.2.1: Einzelfälle
+- TOP 7.1.: Anwesen in der Frasdorfer Str.; Anhörung vom 28.09.2005
+- TOP 7.2.: Anwesen in der Sintpertstraße; Anhörung vom 20.10.2005
+- TOP 7.7.2.2: Baumbestandspläne
+- TOP 7.1.: Anwesen in der Schlierseestr.; Anhörung vom 24.10.2005
+- TOP 7.7.3: Behinderte
+- TOP 7.7.4: Frauen
+- TOP 7.7.5: Kinder
+- TOP 7.7.6: Senioren/Innen
+- TOP 7.7.7: Stadtteilpartnerschaft Colerain Township, Ohio, USA
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Informationsveranstaltung für die Bezirksausschüsse; Mo., 28.11.2005, 17.00 bis 20.00 Uhr, Sozialreferat, Orleansplatz 11, Raum 1082; Schreiben des Sozialreferats vom 25.10.2005
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP .5.5.5: Anträge
+- TOP .5.5.6: Sonstiges
+- TOP 8.8.1.4: UA Umwelt
+- TOP .5.5.1: Bericht
+- TOP .5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP .5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP .5.5.4: Unterrichtungsfälle / Bekanntgaben
