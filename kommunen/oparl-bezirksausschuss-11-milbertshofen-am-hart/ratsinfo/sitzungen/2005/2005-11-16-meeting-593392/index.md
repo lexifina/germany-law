@@ -1,0 +1,69 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2005-11-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/593392
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/593392
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Berichte aus dem Stadtrat
+- TOP 3: Berichte der Polizei
+- TOP 4: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Förderprogramm "Bürger und Bürgerinnen gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln; Schreiben des Direktoriums
+- TOP 4.1.: Wechsel des Abteilungsleiters Straßenunterhalt und -betrieb im Baureferat - Tiefbau; Information des Baureerates
+- TOP 4.1.: Historisches Kanalsystem Residenz - Nymphenburg - Schleißheim - Dachau; Schreiben des Bezirksausschuss 4 Schwabing - West
+- TOP 4.2.: Mobilität von BA - Mitgliedern; Schreiben des Bezirksausschuss 9 Neuhausen - Nymphenburg
+- TOP 4.3.: Auskunft über eine Ersatzlösung für die bislang auf dem Gelände an der Säbener Str. untergebrachten Baseball-Vereine; Schreiben des Bezirksausschuss 18 Untergiesing - Harlaching
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: a) Städtische Sing- und Musikschule; Raummiete für ein Konzert am 15.11.2005
+- TOP 6.2.: Sachbericht zum Angerfest Neue Nordheide am 02.07.2005
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7: Anträge
+- TOP 7.1.: Grünanlage Hirschkäferweg - Nachbarschaftsgarten statt Hundewiese (CSU - Fraktion im BA 11)
+- TOP 7.1.: Einrichtung von Wohngemeinschaften für an Demenz erkrankte SeniorInnen im Saanierungsgebiet der GWG im Stadtteil Am Hart (UA Kultur und Soziales im BA 11)
+- TOP 8: Anhörungen
+- TOP 8.1.: Elektronisches Ratsinformationssystem (RIS) Umsetzung Stufe II - Anschluss der Bezirksausschüsse an das System; Auswirkungen auf die technische Anbindung der ehrenamtlichen Stadtratsmitglieder
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Hanselmannstr. 12 b) Max-Diamand-Straße, BMW FIZ
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a)Conollystr. 8 und 10, 7 Pappeln b) Conollystr. 16 und 22, 2 Pappeln, 1 Kiefer, 1 Kirsche, 2 Ahorn c) Nadistr. 10, 12, 14, 16, 8 Ahorn, 2 Pappeln d) Nadistr. 20, 22, 24 , 2 Rosskastanien, 6 Ahorn e) Nadistr. 32, 3 Ahorn f) Nadistr. 117, 3 Ahorn, 1 Hainbuche g) Nadistr. 67, 1 Ulme h) Reigersbachstr. 7, 1 Hainbuche i) Baureferat Gartenbau: Lerchenauerstraße, Landshuter Allee, Olympiapark
+- TOP 8.3.: Anwohnergaragen in München, Änderung der Prioritätenliste
+- TOP 8.4.: Lerchenauer Straße - Wiederherstellung nach U-Bahnbau
+- TOP 8.5.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG), BMW AG, Schleißheimer Straße/Max-Diamand-Straße
+- TOP 8.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO: a)Sylvesterlauf des MRRC am 31.12.2005 im Olympiapark mit Ackermannstraße b) "Münchner Blade Night 2006"
+- TOP 8.2.: Spartenanfrage, hier: Anton-Ditt- Bogen 8
+- TOP 9: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendung aus dem Budget der Bezirksausschüsse: a) Evang.-Luth. Pfarramt der Versöhnungskirche, Projekt "Harthofwelten", Bewilligung 10.000 ¿
+- TOP 9.2.: Änderung der BA - Satzung, Entscheidungsrecht für die Bezirksausschüsse bei Errichtung von Freischankflächen, Schreiben des Bezirksausschusses 3 Maxvorstadt
+- TOP 9.1.: Parkraummanagement in München - Beschleunigung der Umsetzung (Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bauausschusses und des Kreisverwaltungsausschusses vom 12.10.2005 sowie Beschluss der Vollversammlung des Stadtrates vom 26.10.2005)
+- TOP 9.2.: Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse und der einschlägigen Verbände (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2005)
+- TOP 9.3.: Perspektive München, Münchner Bürgerinnen- und Bürgerbefragung 2005 (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2005)
+- TOP 9.4.: Winterdienst 2005 / 2006, Allgemeine Übersicht der Einsatzgebiete
+- TOP 9.5.: Meldelisten Bauvorhaben
+- TOP 9.6.: Aufbau eines Hochgeschwindigkeitsnetzes durch die Deutsche Telekom AG (T-COM), Innovationsprojekt T-HOME SPEED (Bekanntgabe in der Sitzung des Bauausschusses vom 18.10.2005)
+- TOP 9.7.: Ausbau der öffentlichen Grünflächen Nordheide West, 2. Teilprojekt B-Plan Nr. 1779 b, c, d, hier: 3. Bauabschnitt: Pufferzone westlicher Teil im 11.Stadtbezirk Milbertshofen - Am Hart (Beschluss des Bauausschusses vom 18.10.2005)
+- TOP 9.1.: Schließung dezentraler Kultureinrichtungen, Schreiben des Bezirksausschusses 15 Trudering - Riem
+- TOP 9.2.: Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; (Stellungnahme der Stadtkämmerei vom 29.09.2005)
+- TOP 9.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 9.4.: Ergebnisprotokoll aus der Sitzung der Arbeitsgruppe Wohnungslosigkeit am 14.06.2005
+- TOP 9.5.: Projekt " 300 Jahre Türkengraben", hier: Verlängerung der Aufstellung der sog. "Kanal-Bautafeln", Schreiben des Bezirksausschusses 3 Maxvorstadt
+- TOP 9.1.: Verkehrsrechtliche Anordnung nach §45 StVO; Aufhebung eines personenbezogenen Behindertenparkplatzes
+- TOP 9.2.: Verschmelzung der Bayerischen Magnetbahnvorbereitungsgesellschaft mbH auf die DB Magnetbahn GmbH, Infoschreiben der DB Magnetbahn GmbH
+- TOP 9.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund, Erlaubnisbescheid
+- TOP 9.4.: Einrichtung einer Kurzzeit-Parkzone an der Schleißheimer Straße (Ostseite) zwischen Georgenschwaig- und Keferloherstraße (vor Haus-Nr. 324), Schreiben des Kreisverwaltungsreferates
+- TOP 10: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
