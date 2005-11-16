@@ -1,0 +1,55 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2005-11-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/586162
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/586162
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellugn der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .5.: Anträge
+- TOP .6.: Sachverhalte zur Entscheidung
+- TOP .1.: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: Beschleunigung der Buslinie 52
+- TOP .8.1: Erledigte BA-Anträge und -Anfragen
+- TOP .1.: 1. Versailler Straße: Verzicht auf Anwohnertiefgarage zugunsten der sofortigen Umgestaltung (Antrag Nr. 444 v. 15.06.2005)
+- TOP .8.2: Unterrichtungen und Informationen (vgl. schriftliche Infos)
+- TOP 8.3: Eilentscheidung der Vorsitzenden gem. § 20 Abs. 1 BA-Satzung:
+- TOP 8.3.1.: Internationales Fest auf der Postwiese am 05.11.2005 (Zustimmung)
+- TOP 8.4.1.: Sanierungsgebiete in Haidhausen: Aufhebung der Sanierungssatzungen für die Blöcke 15, 17, 36 und 37 sowie Einstellung der vorbereitenden Untersuchungen für einen Teilbereich des Untersuchungsgebietes
+- TOP 8.4.2.: Anträge auf Errichtung einer Freischankfläche: 1. Imbiss "Zümrüt", Wörthstr. 47 2. Supermarkt/Discounter Rosenheimer Str. 16
+- TOP 8.4.3.: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 5 Au-Haidhausen: a) Satzungsbeschluss Erhaltungssatzung "Haidhausen Mitte" b) Auslaufen der Erhaltungssatzung "0bere Au)
+- TOP 8.4.1.: Aufbau eines Hochgeschwindigkeitsnetzes durch die Deutsche Telekom AG (T-COM): Innovationsprojekt T-HOME-SPEED
+- TOP 8.4.2.: PERSPEKTIVIE MÜNCHEN - Münchner Bürgerinnen - u. Bürgerbefragung 2005
+- TOP 8.4.3.: Städtisches Anwesen Pariser Str. 30: Neuvermietung von Ladenräumen
+- TOP 8.4.1.: Vorschlag zur Änderung der BA-Satzung: Entscheidungs- oder Anhörungsrechte für die Bezirksausschüsse bei der Schließung dezentraler Kultureinnrichtungen
+- TOP 8.4.2.: Informationsbesuch Radio Lora
+- TOP 8.4.1.: Suchtproblematik in Au-Haidhausen: 1. Begrüßung durch die Unterausschuss-Vorsitzende 2. Die BA-Vorsitzende stellt die Position des Bezirksausschusses vor 3. Bürgerinnen und Bürger haben das Wort (Fragen und Lösungsvorschläge) 4. Geschäftsleute und Gewerbetreibende haben das Wort (Fragen und Lösungsvorschläge) 5. Stellungnahmen der Fachexperten von Verwaltung, Streetwork und Polizei 6. Resümee
+- TOP 8.4.1.: Kinder und Jugend
+- TOP 8.4.2.: Behinderte
+- TOP 8.4.3.: Ausländer und Flüchtlinge
+- TOP 8.4.4.: Frauen und Mädchen
+- TOP 8.4.5.: Baumschutz
+- TOP 8.4.1.: Baumfällungen auf öffentlichem Verkehrsgrund und in Grünanlagen
+- TOP 8.4.2.: Maria-Theresia-Str. 6: Fällung zweier Nadelbäume
+- TOP 8.4.3.: Franziskanerstr. 18: Fällung zweier Ahornbäume
+- TOP 8.4.4.: Lucile-Grahn-Str. 22: Fällung eines Spitzahorns
+- TOP 8.4.5.: Maria-Theresia-Str. 12: Fällung einer Schwarzpappel
+- TOP 8.4.1.: Parkraummanagement: Anpassungen der Maßnahmen in der Hiendlmayrstraße
+- TOP 8.4.1.: Parkraummanagement in München - Beschleunigung der Umsetzung
+- TOP 8.4.2.: Lärmminderungsplan für München - EU-Umgebungsrichtlinien
+- TOP 8.4.3.: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 8.4.4.: Münchner Baumschutzverordnung: Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der BAs und der einschlägigen Verbände
+- TOP 8.4.5.: Taxistandplatz Hochstr. 13-15
+- TOP 8.4.&nbsp;: Sachverhalte zur Anhörung
+- TOP 8.4.&nbsp;: Sachverhalte zur Unterrichtung
+- TOP 8.4: Zweite S-Bahn-Stammstrecke:
