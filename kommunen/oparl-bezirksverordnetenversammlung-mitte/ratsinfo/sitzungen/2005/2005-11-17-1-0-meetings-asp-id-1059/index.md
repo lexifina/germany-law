@@ -1,0 +1,86 @@
+# 42. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2005-11-17T17:30:00+01:00
+- Ende: 2005-11-17T22:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1059
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1059
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=50357
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - (offen)
+- TOP 1.1: Öffentliche Nutzung des Monbijouparks - Planung der Uferpromenade Bürgerinitiative Monbijoupark - erledigt
+- TOP 2: Mitteilung - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfrage - (offen)
+- TOP 5.1: Offene Schulen und Turnhallen am Wochenende? - beantwortet
+- TOP 5.2: Negativliste Bauchladenhandel - beantwortet
+- TOP 5.3: Diskussionsveranstaltung mit Bewohnern und ansässigen Gewerbebetrieben über eine mögliche Parkraumbewirtschaftung in Moabit am 26.10.2005 - beantwortet
+- TOP 5.4: Bezirkshaushaltsplan in der Nachschau - schriftlich beantwortet
+- TOP 5.5: Servicevereinbarungen - wenigstens ein Jahr Verzug? - schriftlich beantwortet
+- TOP 5.6: Flächenvergabe Wochenmarkt am Hackeschen Markt - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfrage - (offen)
+- TOP 6.1: Konzept Stephankiez - beantwortet
+- TOP 7: Große Anfrage - (offen)
+- TOP 7.1: Schulstation Gotzkowsky-Grundschule (1) - in der BVV zurückgezogen
+- TOP 7.2: Auf zu neuen Ufern am Monbijoupark? - beantwortet
+- TOP 7.3: TRANSPARENZ III - beantwortet
+- TOP 7.4: Folgen von möglichen Planungsänderungen bei der Uferpromenade im Monbijoupark - beantwortet
+- TOP 7.5: Störungen durch den Betrieb des Mudd-Clubs - schriftlich beantwortet
+- TOP 7.6: Zwischengenutzte Brachen - schriftlich beantwortet
+- TOP 7.7: Verwahrlosung unterbinden! - schriftlich beantwortet
+- TOP 7.8: Parkraumbewirtschaftung in Moabit - schriftlich beantwortet
+- TOP 7.9: Hohe Belastung für Eltern? - schriftlich beantwortet
+- TOP 7.10: Energieausweise für die bezirkseigenen öffentlichen Gebäude - schriftlich beantwortet
+- TOP 7.11: Psychiatrieentwicklungsplanung - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 9: Vorlage zur Beschlussfassung - (offen)
+- TOP 9.1: Übertragung des Aufnahmeheimes Osloer Straße 80 an die Treberhilfe e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Übertragung der nachstehenden Kindertagesstätten an die nachstehend benannten freien Träger zum 01.01.2006 durch jeweiligen Nutzungsvertrag - überwiesen
+- TOP 10: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplanentwurf 1-13B sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-13B - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Bebauungsplanentwurf III-69-1 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-69-1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Bebauungsplanentwurf III-61-1 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-61-1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Dringlichkeitsantrag - (offen)
+- TOP 11.1: Gedenktafel am Friedhof Wilsnacker Straße: Missverständnisse ausschließen - Tote der SS sind keine Opfer von Krieg und Gewaltherrschaft - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sanierungsbeirat zum BVV-Beschluss "100.000 Euro für soziale Projekte im Stephankiez" - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Prioritätensetzung des Allgemeinen Ordnungsdienstes (AOD) - sog. Kiezstreife - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Ampelschaltung am Großen Stern - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sitzverteilung in den Ausschüssen - in der BVV abgelehnt
+- TOP 12.4: 147 - Linienführung - überwiesen
+- TOP 12.5: SeniorInnen-Arbeit zur Querschnittsaufgabe machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Die Zentreninitiative "Mittendrin Berlin!" unterstützen - überwiesen
+- TOP 12.7: Arbeitsmarktpolitisches Programm - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Metropolitan-School gerecht behandeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Situation von Schwerstkranken in stationären Pflegeeinrichtungen verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Berufstätige nicht vom Arge-Beirat ausschließen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Antrag/Beschlussempfehlung - (offen)
+- TOP 13.1: Gedenktafel am Friedhof Wilsnacker Straße: Missverständnisse ausschließen - Tote der SS und Wehrmacht sind keine Opfer von Krieg und Gewaltherrschaft! - in der BVV abgelehnt
+- TOP 13.2: Prioritäten bei der Arbeit des Ordnungsamtes - in der BVV abgelehnt
+- TOP 13.3: Rauchfreies Amt - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Mindeststandard bei der Reinigung von Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Verkehrsleitung zur Stadtautobahnzufahrt Beusselstraße - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Bahnhof "Gesundbrunnen" - regionale Identität bewahren - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Planung Uferpromenade Monbijoupark korrigieren - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlage zur Kenntnisnahme - (offen)
+- TOP 14.1: Bebauungsplan II-141a, Sicherung der Wohnnutzung für die Grundstücke Lützowufer 20-23, Lützowplatz 2/ 18 und Wichmannstraße 1-3 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Vertrauen ist gut - Kontrolle ist besser: Jährliche Berichte zur Nutzung von Fördermitteln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Hartz IV: Odysseefahrten beenden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Berichtspflicht der Arbeitsagentur sicherstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.5: Information über das Drei Euro Ticket - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Transparenz bei Jobcenter-Statistiken gewährleisten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Aufzug für U-Bahnhof Voltastraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Hartz IV: Rahmenvereinbarung zur Weiterentwicklung der Arbeitsgemeinschaften umsetzen und bezirkliche Verantwortung stärken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.9: 50:50-Regelung für das Bezirksamt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.10: die Aufstellung des vorhabenbezogenen Bebauungsplanes 1-38 VE im Bezirk Mitte, Ortsteil Gesundbrunnen, die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch und die frühzeitige Beteiligung der Behörden gemäß § 4 Abs. 1 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
