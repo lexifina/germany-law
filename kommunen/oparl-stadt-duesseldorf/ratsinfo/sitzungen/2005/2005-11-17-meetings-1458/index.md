@@ -1,0 +1,72 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-11-17T12:12:00+01:00
+- Ende: 2005-11-17T18:48:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1458
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1458
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111580.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111580.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111580.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - zur Kenntnis genommen
+- TOP 2: Genehmigung NS - zur Kenntnis genommen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Akt. Anfr. Kahl: Schützenplatz Flingern - zur Kenntnis genommen
+- TOP 5: Akt. Anfr. Kahl: FDG - zur Kenntnis genommen
+- TOP 6: Akt. Anfr. Laubenburg: Arena - zur Kenntnis genommen
+- TOP 7: Anfragen - zur Kenntnis genommen
+- TOP 8: Anfr. FDP: Unterflurcontainer - zur Kenntnis genommen
+- TOP 9: Anfr. Rf Leibauer: Rahmenplan Gerresheim-Süd - zur Kenntnis genommen
+- TOP 10: Anfr. Laubenburg: Kinder Aufenthalsstatus - zur Kenntnis genommen
+- TOP 11: Anfrage der Ratsfrau Steller.: Pressespiegel III - zur Kenntnis genommen
+- TOP 12: Anfr. Laubenburg: Alkohol und Rat - zur Kenntnis genommen
+- TOP 13: Anfr. Kahl: Glashütte - zur Kenntnis genommen
+- TOP 14: Anfr. Kahl: Kiefernstraße - zur Kenntnis genommen
+- TOP 15: Anfr.Bü90/Grü:Skytrain - zur Kenntnis genommen
+- TOP 16: Anfr.Bü90/Grü: Verkehrsverb. Mobilitätsbehinderte - zur Kenntnis genommen
+- TOP 17: Anträge - zur Kenntnis genommen
+- TOP 18: Antr. Bü90: Landesbehindertenbeauftragter - mehrheitlich abgelehnt
+- TOP 19: Antr. SPD: Ausschuss für regionale und europäische - mehrheitlich abgelehnt
+- TOP 20: ÄA von Bü90/Grü:AreZi-Haushalt + Städtepartnersch. - mehrheitlich abgelehnt
+- TOP 21: Üpl-Ausgaben 2004 - mehrheitlich beschlossen
+- TOP 22: Üpl-Ausgaben 2005 - mehrheitlich beschlossen
+- TOP 23: Ausbau der Theodorstraße-West, B+F - einstimmig beschlossen
+- TOP 24: Übernahme einer Bürgschaft - einstimmig beschlossen
+- TOP 25: Umschichtung von Mitteln 11/6 - mehrheitlich beschlossen
+- TOP 26: Bau, Einrichtung+Instandsetzung von Kitas - einstimmig beschlossen
+- TOP 27: üpl Im Bereich HzE - einstimmig beschlossen
+- TOP 28: üpl Kita - einstimmig beschlossen
+- TOP 29: JHP Kinder- und Jugendförderung - einstimmig beschlossen
+- TOP 30: B+F Koblenzer Straße - einstimmig beschlossen
+- TOP 31: Neubau der Sportanlage Vennhauser Alle 256 (FC Tan - einstimmig beschlossen
+- TOP 32: B+F Rossbachstraße - einstimmig beschlossen
+- TOP 33: SEBD - Jahresabschluss 2004 - einstimmig beschlossen
+- TOP 34: Rathaus Benrath, Benrodestr. 46, Dachsanierung und - einstimmig beschlossen
+- TOP 35: Modernisierung der Stadtteilbücherei Derendorf Bl - einstimmig beschlossen
+- TOP 36: Gesamtsanierung Hauptgebäude Heyestr. 91 - einstimmig beschlossen
+- TOP 37: Abbau alter verkehrsrechner - einstimmig beschlossen
+- TOP 38: DB-Brücke Plockstraße - einstimmig beschlossen
+- TOP 39: Umbesetzungen - mehrheitlich beschlossen
+- TOP 40: Ersatzwahl Abfallwirtschaft Rhein Wupper - mehrheitlich beschlossen
+- TOP 41: Ersatzbest. Berg.Rhein. Waserverband - mehrheitlich beschlossen
+- TOP 42: AR-Messe - Ersatzwahl - mehrheitlich beschlossen
+- TOP 43: AR DMT -Ersatzwahl- - mehrheitlich beschlossen
+- TOP 44: AR ZWD -Ersatzwahl- - mehrheitlich beschlossen
+- TOP 45: Bäderges.Beirat-Ersatzwahl - mehrheitlich beschlossen
+- TOP 46: AR AWISTA-Ersatzwahl - mehrheitlich beschlossen
+- TOP 47: AR Arena - mehrheitlich beschlossen
+- TOP 48: Bestellung Prüferin RPA - mehrheitlich beschlossen
+- TOP 49: "Stiftung Gerhard-Hauptmann-Haus" - mehrheitlich beschlossen
+- TOP 50: 1. Satzung z. Änderung u. Satz Vergnügungssteuer - einstimmig beschlossen
+- TOP 51: Entgeltordnung des Großmarktes...2. Ausfertigung - mehrheitlich beschlossen
+- TOP 52: Beitritt der Landeshauptstadt Düsseldorf zum Verei - einstimmig beschlossen
+- TOP 53: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 54: BPlan4978/17Verl.Böhlerstr.Anreg.Satzung - einstimmig beschlossen
+- TOP 55: BPl 6466/06-Duderstädter Str.-Anreg.Satzung - einstimmig beschlossen
