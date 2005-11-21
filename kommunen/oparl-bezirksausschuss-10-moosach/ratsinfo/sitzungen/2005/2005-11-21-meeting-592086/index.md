@@ -1,0 +1,64 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2005-11-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/592086
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/592086
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Bestimmung eines/einer neuen Seniorenbeauftragten
+- TOP 1.3.: Nachbesetzung im Unterausschuss Jugend, Soziales, Schulen, Kultur
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Spielplatz Triebstraße; Befahren mit PKW
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Unterhalt der Grünzüge entlang des Rangierbahnhofs
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 6.: Anhörungen
+- TOP 6.1.: Freischankfläche "Cafe Tirreno", Bunzlauer Str. 15
+- TOP 6.2.: Münchner Blade Night 2006
+- TOP 6.3.: Magnetschwebebahn München Hauptbahnhof - Flughafen
+- TOP 6.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Blindensignale an der Ampelanlage Dachauer Straße / Baubergerstraße / Pelkovenstraße
+- TOP 7.2.: Uptown München: Vogelanflugschutz
+- TOP 7.3.: Verlegung der Haltestelle "Untermenzinger Straße" der Linie 164/165 (Ecke Pirschstraße) (abgelehnt)
+- TOP 7.4.: Bauvorhaben Dachauer Straße 248, Situierung der Tiefgaragenzufahrt
+- TOP 7.5.: Errichtung einer Sitzgelegenheit an der Haltestelle Bahnhof Moosach der Buslinie 51 Richtung Olympiazentrum
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 8.2.: Bürgerversammlungen mit Multimedia-Präsentation im Jahr 2006
+- TOP 8.3.: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 8.4.: Ergebnisprotokoll aus der Sitzung der Arbeitsgruppe Wohnungslosigkeit am 14.06.05
+- TOP 8.5.: Unveränderte Fortführung von Gaststättenbetrieben: 1) "Cafe Wintergarten", Hanauer Str. 7 2) "Seydlitzstüberl", Seydlitzstr. 58 3) "Cafe Live", Bunzlauer Str. 25
+- TOP 8.6.: Schließung dezentraler Kultureinrichtungen (Schreiben des BA 15 Trudering-Riem)
+- TOP 8.7.: Aufbau eines Hochgeschwindigkeitsnetzes durch die Deutsche Telekom AG (T-COM)
+- TOP 8.8.: G 8 und IZBB
+- TOP 8.9.: Fällungsgenehmigungen 1) Hirschstr. 19 2) Am Kapuzinerhölzl 3
+- TOP 8.10.: Kurzparkzone und Halteverbote in der Borstei
+- TOP 8.11.: S-Bahn-Stammstrecke München
+- TOP 8.12.: Die Münchner Baumschutzverordnung
+- TOP 8.13.: Zukunftssicherung des Olympiageländes
+- TOP 8.14.: Mobilität von BA-Mitgliedern (Schreiben des BA 9 Neuhausen-Nymphenburg)
+- TOP 8.15.: Lärmminderungsplan für München
+- TOP 8.16.: Parkraummanagement in München - Beschleunigung der Umsetzung
+- TOP 8.17.: Perspektive München; Münchner Bürgerinnen- und Bürgerbefragung 2005
+- TOP 8.18.: Änderung der Satzung für die Münchner Bezirksausschüsse; Anhörungsrecht bei der Standortfrage für die Unterbringung wohnungsloser Haushalte im Rahmen des Programms "Wohnen in München III" (KomPro/B)
+- TOP 8.19.: Zweckentfremdung von Wohnraum: Netzerstraße
+- TOP 8.20.: Meldelisten Bauvorhaben
+- TOP 8.21.: Realisierungsnetz Radfahrverbindungen (abgeänderter Beschluss)
+- TOP 4: Anträge
