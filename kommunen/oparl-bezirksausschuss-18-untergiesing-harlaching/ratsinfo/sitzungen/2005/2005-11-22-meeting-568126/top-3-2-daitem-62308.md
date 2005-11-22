@@ -1,0 +1,7 @@
+# TOP 3.2.: Anwohnergaragen in München Änderung der Prioritätenliste a) Abstufung des Anwohnergaragenstandortes Wettersteinplatz in die 2. Prioritätsstufe der Prioritätenliste in dem Konzept ¿Anwohnergaragen in München¿, gem. Beschluss der Vollversammlung des Stadtrates vom 23.07.2003 b) Aufnahme des Anwohnergaragenstandortes Deisenhofener Straße in die 2. Prioritätsstufe der Prioritätenliste in dem Konzept ¿Anwohnergaragen in München¿, gem. Beschluss der Vollversammlung des Stadtrates vom 23.07.2003 c) Finanzierung von 11 zusätzlichen Anwohnerstellplätzen in der Tiefgarage des städtischen Bauvorhabens ¿Kindertagesstätte mit Gemeinbedarfseinrichtung und Sozialwohnungen¿ in der Moosacher Straße 11 d) Anträge 1) Nutzung der früher geplanten Tiefgarage am Wettersteinplatz Antrag von Herrn Stadtrat Dr. R. Babor und Herrn Stadtrat M. Pretzl vom 09.11.2004 2) Umgehende Umwandlung des Hohlraums unter der Fromundstraße am Wettersteinplatz in eine Tiefgarage; P+R- oder Anwohnergarage, ggf. mit privatem Betreiber Antrag des BA 18 vom 19.04.2005; Anhörung durch das Referat für Stadtplanung und Bauordnung vom 24.10.05 zum Entwurf einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+
+- Sitzung: BA 18 - Vollgremium (2005-11-22)
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/62308
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/62308
