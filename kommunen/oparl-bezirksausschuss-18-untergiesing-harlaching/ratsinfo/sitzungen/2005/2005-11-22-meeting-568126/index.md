@@ -1,0 +1,88 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2005-11-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/568126
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/568126
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: "Blitzeranlage" in der Tegernseer Landstraße; Bürgerschreiben vom 06.10.2005
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Sachbericht des Arbeitsprojektes "McGreen"; Schreiben des Katholischen Männerfürsorgevereins München e.V., Haus an der Pistorinistraße, vom 20.10.05
+- TOP 3.2.: Verwendungsnachweis des "Fezi", Kinder- und Jugendtreffs am Wettersteinplatz, vom 14.09.05, für die bezuschusste Maßnahme "40-jähriges Jubiläum"
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Anwohnergaragen in München Änderung der Prioritätenliste a) Abstufung des Anwohnergaragenstandortes Wettersteinplatz in die 2. Prioritätsstufe der Prioritätenliste in dem Konzept ¿Anwohnergaragen in München¿, gem. Beschluss der Vollversammlung des Stadtrates vom 23.07.2003 b) Aufnahme des Anwohnergaragenstandortes Deisenhofener Straße in die 2. Prioritätsstufe der Prioritätenliste in dem Konzept ¿Anwohnergaragen in München¿, gem. Beschluss der Vollversammlung des Stadtrates vom 23.07.2003 c) Finanzierung von 11 zusätzlichen Anwohnerstellplätzen in der Tiefgarage des städtischen Bauvorhabens ¿Kindertagesstätte mit Gemeinbedarfseinrichtung und Sozialwohnungen¿ in der Moosacher Straße 11 d) Anträge 1) Nutzung der früher geplanten Tiefgarage am Wettersteinplatz Antrag von Herrn Stadtrat Dr. R. Babor und Herrn Stadtrat M. Pretzl vom 09.11.2004 2) Umgehende Umwandlung des Hohlraums unter der Fromundstraße am Wettersteinplatz in eine Tiefgarage; P+R- oder Anwohnergarage, ggf. mit privatem Betreiber Antrag des BA 18 vom 19.04.2005; Anhörung durch das Referat für Stadtplanung und Bauordnung vom 24.10.05 zum Entwurf einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 3.3.: Beschleunigung der Linie 52; Anhörung durch das Referat für Arbeit und Wirtschaft vom 03.11.05 zum Beschlussentwurf für den gemeinsamen Ausschuss für Arbeit und Wirtschaft, Kreisverwaltungsausschuss und Bauausschuss am 06.12.05
+- TOP 3.1.: Verlängerung der Buslinie 220 zum Bahnhof Giesing, Rücknahme der Buslinie 144 zum Bahnhof Giesing; Schreiben der Münchner Verkehrsgesellschaft mbH vom 25.10.05
+- TOP 3.2.: Parkraummanagement in München - Beschleunigung der Umsetzung; Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bauausschusses und des Kreisverwaltungsausschusses vom 12.10.05 sowie der Vollversammlung des Stadtrats vom 26.10.05
+- TOP 3.3.: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln; Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bau- und des Kreisverwaltungsausschusses sowie des Verwaltungs- und Personalausschusses vom 09.11.05
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse und der einschlägigen Verbände; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.05
+- TOP 3.2.: Lärmminderungsplan für München, EU-Umgebungslärmrichtlinie; Beschluss des Umweltschutzausschusses vom 11.10.05
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Pilotprojekt Jugendbeteiligung an der Stadtplanung; Antrag des BA 5 - Au-Haidhausen - vom 21.09.05 mit der Bitte um Unterstützung
+- TOP 3.1.: Erfahrungsbericht zu den Beschlüssen des Stadtrats vom 02.07.03; - Entgelte für die Benutzung städtischer Sportanlagen, Aktualisierung der Gebührensätze - Raum- und Flächenangebot in den öffentlichen Schulen der Landeshauptstadt München, Überlassung für schulfremde Zwecke; Bekanntgabe in der gemeinsamen Sitzung des Schulausschusses und des Sportausschusses des Stadtrats vom 12.10.05
+- TOP 3.1.: Ergebnisprotokoll aus der Sitzung der Arbeitsgruppe Wohnungslosigkeit am 14.06.05
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: 3.5.4.1 Anhörung zu Bauvorhaben 3.5.4.1.1 Anwesen in der Birkenau (vertagt aus der Sitzung am 18.10.2005) 3.5.4.1.2 Anwesen in der Kühbachstraße; Anhörung vom 26.10.05
+- TOP 3.2.: 3.5.4.2 Baumbestandspläne 3.5.4.2.1 Anwesen in der Lautererstraße (vertagt aus der Sitzung am 18.10.2005) 3.5.4.2.2 Anwesen in der Rabenkopfstraße (vertagt aus der Sitzung am 18.10.2005) 3.5.4.2.3 Anwesen in der Rabenkopfstraße (vertagt aus der Sitzung am 18.10.2005) 3.5.4.2.4 Anwesen in der Alois-Wohlmuth-Straße; Zuleitung vom 24.10.05 3.5.4.2.5 Anwesen in der Schönstraße; Zuleitung vom 04.11.05
+- TOP 3.3.: Anhörung durch das Referat für Stadtplanung und Bauordnung vom 04.10.05 zum Bauleitplan einer Nachbargemeinde: Bebauungsplan Nr.19 "Südliche Hochleite" der Gemeinde Pullach
+- TOP 3.1.: Aufnahme der Um-/Neugestaltung des Hans-Mielich-Platzes in Investitionsliste 1 des Mehrjahresinvestitionsprogrammes - auf Grundlage der neuen Pläne des Architekturbüros Wanie für die Neugestaltung; Umbau des hans-Mielich-Platzes und der anschließenden Straßen entsprechend der Planung des Baureferates vom 21.06.2001; Antwortschreiben des Baureferates vom 05.10.05 zu den Anträgen des BA 18 vom 21.06. und 19.07.05
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.1.: Änderung der BA-Satzung, Entscheidungsrecht für die Bezirksausschüsse bei Errichtung von Freischankflächen; Schreiben des BA 3 - Maxvorstadt - vom 20.10.05
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Jahresempfang des BA 18 2006; Vorplanungen
+- TOP 3.1.: Entscheidungs- oder Anhörungsrechte für die Bezirksausschüsse bei der Schließung dezentraler Kultureinrichtungen; Änderung der BA-Satzung Katalog Kulturreferat Nr. 2; Zuleitung der 2. Bürgermeisterin Dr. Burkert vom 06.09.2005 mit der Bitte um Stellungnahme (vertagt aus der Sitzung am 18.10.2005); hierzu Schreiben des BA 1 - Altstadt-Lehel - vom 19.10.05 und des BA 15 - Trudering-Riem - vom 21.10.05
+- TOP 3.2.: "Münchner Blade Night 2006"; Anhörung durch das Kreisverwaltungsreferat vom 20.10.05
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Mobilität von BA-Mitgliedern; Antrag des BA 9 - Neuhausen-Nymphenburg - vom 18.10.05 mit der Bitte um Unterstützung
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: PERSPEKTIVE MÜNCHEN; Münchner Bürgerinnen- und Bürgerbefragung 2005; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.11.05
+- TOP 4.2.: Aufbau eines Hochgeschwindigkeitsnetzes durch die Deutsche Telekom AG (T-COM), Innovationsprojekt T-HOME SPEED; Bekanntgabe in der Sitzung des Bauausschusses vom 18.10.05
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.1.: Informationsveranstaltung des Sozialreferates für die Münchner Bezirksausschüsse am Montag, den 28.11.2005, von 17.00 bis 20.00 Uhr, Sozialreferat, Orleansplatz 11, 81667 München, Raum 1.082 (1.Stock)
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
