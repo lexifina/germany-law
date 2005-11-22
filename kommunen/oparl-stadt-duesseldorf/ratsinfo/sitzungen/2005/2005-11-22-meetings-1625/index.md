@@ -1,0 +1,58 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-11-22T17:00:00+01:00
+- Ende: 2005-11-22T00:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1625
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1625
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111604.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111604.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111604.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Neubau Heyestr. 91 (OGATA)
+- TOP 6: Aktionsplan Ludenberger Straße
+- TOP 7: Morper
+- TOP 8: Verkaufsoffene Sonntage 2005
+- TOP 9: Zuschuss Sportfreunde Gerresheim
+- TOP 10: Zuschuss Freunde Gerresheimer Gymnasium
+- TOP 11: Weihnachtsmarkt
+- TOP 12: Nikolausmarkt Apostelplatz
+- TOP 13: Zuschüsse zu kulturellen Veranstaltungen
+- TOP 14: Sitzungstermine 2006
+- TOP 15: Landschaftsplanänderung
+- TOP 16: Zusatzinformation zum Straßenschild "Zamenhofweg"
+- TOP 17: "Stolperstein" für Pfarrer Franz Boehm
+- TOP 18: Mayors for Peace
+- TOP 19: Besichtigung der Glashütte
+- TOP 20: Beleuchtung Parkplatz Neunzigstraße
+- TOP 21: Vermarktung "Nach den Mauresköthen"
+- TOP 22: Haushaltsplanentwürfe auf CD
+- TOP 23: Jahresempfang der Bezirksvertretung 7
+- TOP 24: Kulturelle Zwischennutzung "Nach den Mauresköthen"
+- TOP 25: Waldflächen im Bezirk 7
+- TOP 26: Glashüttengelände Gerresheim-Süd
+- TOP 27: Integration der Schausteller-Familien
+- TOP 28: Gerresheimer Krankenhaus
+- TOP 29: Grüner Rechtsabbiegepfeil B 7 / Erkrather Landstr.
+- TOP 30: Geschwindigkeitsregelung Bergische Landstraße
+- TOP 31: JVA Gerresheim
+- TOP 32: Gerresheimer Glashütte im Düsseldorfer Stadtmuseum
+- TOP 33: Grundwasserverunreinigung Gerresheim-Süd
+- TOP 34: Lärmminderungsmaßnahmen
+- TOP 35: Lärmminderungskatalog/BAB 3 Hubbelrath
+- TOP 36: Kieselstraße
+- TOP 37: Ostpark - Vorstellung des Parkpflegewerkes -
+- TOP 38: Marie-Curie-Straße
+- TOP 39: Baudenkmal Schäpershof 3 (Plungscheuer)
+- TOP 40: Verwendung des HAR 2004
+- TOP 41: Zukunft des Geländes Gerresheimer Glashütte
