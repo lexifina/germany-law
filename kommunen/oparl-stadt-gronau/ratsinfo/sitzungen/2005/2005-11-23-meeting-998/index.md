@@ -1,0 +1,57 @@
+# Rat (12. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2005-11-23T17:00:00+01:00
+- Ende: 2005-11-23T20:15:00+01:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeijSfXxmtU-pz4SqzWVnR4
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/998
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdW0KQBR79MX8alvIRZleF4K3gAbDA-5Plw-8E7etLS8/Bekanntmachung_Rat_23.11.2005.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUYQFGfSE4sqmsHnS6poXpdxyxEgkikqzgsekGMH3b4_/Oeffentliche_Niederschrift_Rat_23.11.2005.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 19.10.2005
+- TOP 3.: Die Entwicklung in der Stadt Gronau bis 2020; Vorstellung der Prognosen zur demografischen Entwicklung - Ohne Abstimmung
+- TOP 4.: Bericht über die Budgetabwicklung der Stadt Gronau (Westf.) im III. Quartal 2005 Über-/außerplanmäßige Mittelbereitstellung im III. Quartal 2005 - Einstimmig, 0 Enthaltungen
+- TOP 4.1: Bericht über die Budgetabwicklung der Stadt Gronau (Westf.) im III. Quartal 2005 Über-/außerplanmäßige Mittelbereitstellung im III. Quartal 2005 - 23 Jastimmen, 13 Neinstimmen, 2 Enthaltungen
+- TOP 5.: Jahresabschluss der Gronauer Grundstücksentwicklungsgesellschaft für das Wirtschaftsjahr 2003 - Einstimmig, 1 Enthaltungen
+- TOP 6.: Gewährung von Sozialleistungen der Stadt - Einstimmig, 0 Enthaltungen
+- TOP 7.: Vertrag über die kommunale Finanzierung des Trägeranteils der sog. Überhanggruppen der Kath. Kindergartenträger - 34 Jastimmen, 4 Neinstimmen, 0 Enthaltungen
+- TOP 8.: Raumsituation Rathaus Gronau - Entwicklungsperspektiven und Beauftragung einer Wirtschaftlichkeitsstudie - Einstimmig, 3 Enthaltungen
+- TOP 9.: Entflechtungskonzept Gewässersysteme 9000, 9500, 2300 und 1160 - Einstimmig, 1 Enthaltungen
+- TOP 10.: 75. Änderung des Flächennutzungsplanes der Stadt Gronau Bereich: Kurfürstenstraße/ Glanemanns Weg, Stadtteil Gronau 1. Aufhebung des Ratsbeschlusses vom 07.09.2005 2. Behandlung der Stellungnahmen aus der vorzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 4. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 5. Planfeststellungsbeschluss - 30 Jastimmen, 8 Neinstimmen, 0 Enthaltungen
+- TOP 11.: Bebauungsplan Nr. 151 "Ferienhof Laurenz", Stadtteil Gronau 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden und sonstigen Träger öffentlicher Belange - Einstimmig, 0 Enthaltungen
+- TOP 12.: Bebauungsplan Nr. 201 "Hof Terbahl", 1. vereinfachte Änderung, Stadtteil Epe 1. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 2. Satzungsbeschluss - Einstimmig, 1 Enthaltungen
+- TOP 13.: Umbenennung der Straßenbezeichnung "An der Antoniuskirche" in "Kircheninsel" - Einstimmig, 0 Enthaltungen
+- TOP 14.: Vergabe von Straßennamen für Straßen durch die Bauerschaften "Am Berge, Storkerhook und Füchte" - 7 Jastimmen, 31 Neinstimmen, 0 Enthaltungen
+- TOP 15.: Erweiterung der Georgschule für den Betrieb der offenen Ganztagsschule und der Übermittagbetreuung (Schule von acht bis eins) - Einstimmig, 0 Enthaltungen
+- TOP 16.: Ganztagsangebot in Hauptschulen hier: Anne-Frank-Schule, Konrad-Adenauer-Straße 85 - Einstimmig, 0 Enthaltungen
+- TOP 17.: "Kunst- und Anschauungsprojekt" über die industrielle Vergangenheit auf dem Gelände des Inselparks am Mathieu-van-Delden-Platz - Einstimmig, 0 Enthaltungen
+- TOP 18.: Spielgemeinschaft Gronau 09/21 e.V. (SG Gronau) Antrag auf Erweiterung des Umkleidegebäudes und Errichtung eines dritten Großspielfeldes (109 x 72 m) auf der Freisportanlage "Spechtholtshook" - 36 Jastimmen, 0 Neinstimmen, 1 Enthaltungen
+- TOP 19.: Neuregelung der Fraktionszuwendungen - 34 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 20.: Änderung der Hauptsatzung der Stadt Gronau (Westf.) vom 01.12.1999 i.d.F. vom 22.02.2005 hier: Städt. Behindertenbeauftragte/r - Einstimmig, 0 Enthaltungen
+- TOP 21.: Besetzung von Ausschüssen gem. § 50 Abs. 3 GO NRW - Einstimmig, 0 Enthaltungen
+- TOP 22.: Sitzungstermine 2006; Rat sowie Haupt- und Finanzausschuss ganzjährig, im Übrigen 1. Quartal - Ohne Abstimmung
+- TOP 23.: Mitteilungen der Verwaltung
+- TOP 24.: Anfragen
+- TOP 24.1: Wiederholte Neuanpflanzung in der Nachtigallenstraße (RM Walkowiak)
+- TOP 24.2: Enger Fuß-/Radweg am Kreisverkehr Alter Postweg/Vereinsstraße (RM von Borczyskowski)
+- TOP 24.3: 1-Euro-Jobs in Gronau (RM von Borczyskowski)
+- TOP 24.4: Öffentliches Symposium "Zeitgemäße Energiequellen" (1. Stellv. d. BM Lenz)
+- TOP 24.5: Auswirkungen der Besteuerung von Aktienerlösen (RM Gabbe)
+- TOP 24.6: Nächste Ausschreibung der Dienstleistung "Müllabfuhr" (RM Gabbe)
+- TOP 24.7: Neues Gaslager im Eper Venn (RM Buchholz)
+- TOP 24.8: Stromabschaltungen im Terassenhaus (RM Buchholz)
+- TOP 24.9: Schmale Gehwege durch Ausbau der August-Hahn-Str.? (RM Blöding)
+- TOP 24.10: Eingeschränkte Sicht durch Palisadenzaun an der Ausfahrt Schlamannweg zur Ahauser Straße (RM Tillmann)
+- TOP 24.11: Fertigstellung der Vereinsstraße im Abschnitt Alter Postweg/Ochtruper Straße (RM Schemitzek)
+- TOP 24.12: Ausbesserung von Schlaglöchern im Kreuzungsbereich Viktoriastraße/Gildehauser Straße (RM Buchholz)
+- TOP 24.13: Sicherungsmaßnahmen am ehemaligen Saunabetrieb Losserstraße 63 ? (RM Hönerlage)
+- TOP 24.14: Vorschläge des Gronauer Kunstkreises zum Thema "Weihnachtskarte Stadt Gronau 2005" (RM Buchholz)
+- TOP 24.15: Eingeschränkte Sicht durch bepflanzten Zaun im Bereich der Kreuzung Laurenzstraße/Boomkamp (RM H. Schultewolter)
