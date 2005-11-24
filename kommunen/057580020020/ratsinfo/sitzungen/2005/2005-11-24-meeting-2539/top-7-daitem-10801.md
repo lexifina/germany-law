@@ -1,0 +1,9 @@
+# TOP 7.: Satzung Abfallbesetitigung
+
+- Sitzung: Rat (10. 10. Sitzung) (2005-11-24)
+- Körperschaft: Gemeinde Kirchlengern
+- Öffentlich: ja
+- OParl: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/10801
+- Ergebnis: einstimmig, 0 Enthaltung(en)
+- Beratung: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/4175
+- Beschluss (Datei): Beschlusstext (Satzung Abfallbesetitigung) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbtndSkpAufUYILtFyd4F_VW9hJA_SFCANJXWpT3okod/Beschlusstext_105-2005_-oeffentlich-_Rat_24.11.2005.pdf
