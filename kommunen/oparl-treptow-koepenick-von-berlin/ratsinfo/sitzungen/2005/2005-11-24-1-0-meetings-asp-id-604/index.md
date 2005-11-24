@@ -1,0 +1,76 @@
+# 44. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2005-11-24T16:00:00+01:00
+- Ende: 2005-11-24T22:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=604
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=604
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=40800
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_46 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Personelles/Wahlen - gegenstandslos
+- TOP 7.1: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Nominierung eines Bezirksverordneten als stimmberechtigtes Mitglied im Verwaltungsrat des Kita-Eigenbetriebes - gewählt
+- TOP 8: Vertagte Tagesordnungspunkte - gegenstandslos
+- TOP 8.1: Festwiese - überwiesen
+- TOP 8.2: Strandbad Müggelsee - überwiesen
+- TOP 8.3: Weitere Entwicklung des Gewerbegebietes Wendenschloßstraße (ehemals Funkwerk Köpenick) - beantwortet
+- TOP 8.4: Beschäftigte mit MAE im Bezirksamt Treptow-Köpenick - beantwortet
+- TOP 9: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 9.1: Durchführung und Kontrolle von Tiefbaumaßnahmen - schriftlich beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - gegenstandslos
+- TOP 10.1: - Entwurf des Bebauungsplans XV-12-1 zur teilweisen Änderung des Bebauungsplans XV-12 (Wildenbruchstraße, Bouchéstraße) im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - Entwurf der Rechtsverordnung zum Bebauungsplan XV-12-1 zur teilweisen Änderung des Bebauungsplans XV-12 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - überwiesen
+- TOP 10.2: - Entwurf des Bebauungsplans XVI-17 nebst Begründung - Entwurf der Rechtsverordnung über die Festsetzung zum Bebauungsplan XVI-17 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - überwiesen
+- TOP 10.3: Sondermittel für Dahme Yacht Club e.V. (SM 555) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Sondermittel für Alte Feuerwache e.V. (SM 559) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 11.1: Lärmminderungsplan Altstadt Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Graffitibeseitigung - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Bezirkshaushaltsrechnung 2003 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Haltebucht für Seniorenfreizeitstätte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Radfahrstreifen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Bauliche Unterhaltung Fahrradwege - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Fahrradstellplätze am S-Bahnhof Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Genehmigung der im Haushaltsjahr 2004 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Errichtung eines Uferweges auf dem Grundstück Wilhelminenhofstraße 83-85 im Ortsteil Oberschöneweide und Abschluss eines Vertrages zwischen dem Eigentümer des Grundstücks und der Abteilung Bauen und Stadtentwicklung des Bezirksamtes Treptow-Köpenickals Voraussetzung zur Umsetzung des Vorhabens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Sondermittel für Rudergemeinschaft Rotation Berlin e.V. (SM 562) - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Fahrradverkehr Treptow - Öffnung von Einbahnstraßen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Fahrradverkehr Treptow-Köpenick - Gefährdungen abbauen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Fahrradverkehr Treptow-Köpenick - Gefährdungen um Baustellen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 12.1: Bebauungsplan 9-26 im Ortsteil Müggelheim hier: Abwägung und Ergebnis der Beteiligung der Träger öffentlicher Belange gemäß § 4 BauGB - überwiesen
+- TOP 12.2: Europaradweg R1 im Bezirk Treptow-Köpenick und Radweg um den Müggelsee - überwiesen
+- TOP 12.3: Bebauungsplans XV-12-1 (Wildenbruchstraße) zur teilweisen Änderung des Bebauungsplans XV-12 (Wildenbruchstraße, Bouchéstraße) im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - Planreife für das Grundstück Wildenbruchstraße 55 - überwiesen
+- TOP 12.4: Erneuerung des Partnerschaftsabkommens des Bezirks Treptow-Köpenick von Berlin mit der Provinz Cajamarca - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.5: Verleihung des Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Anträge - gegenstandslos
+- TOP 13.1: Bezirkliche Positionen im Landesentwicklungsplan Flughafenstandortentwicklung (LEP FS) - in der BVV abgelehnt
+- TOP 13.2: Wagendorf Lohmühle - überwiesen
+- TOP 13.3: „Grünauer Schleife“ - überwiesen
+- TOP 13.4: Gedenkveranstaltung zum 45. Jahrestag des Mauerbaus - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Gartenkulturpfade - überwiesen
+- TOP 13.6: Haushaltsrisiko Hilfe zur Erziehung minimieren - überwiesen
+- TOP 13.7: Platz-, bzw. Straßenbenennung nach Cajamarca und East-Norriton-Township - überwiesen
+- TOP 13.8: Friedhofswegweiser für Treptow-Köpenick - überwiesen
+- TOP 13.9: Öffentliche Nutzung von Laufstrecken auf Sportanlagen - überwiesen
+- TOP 13.10: Bunt statt grau am S-Bahnhof Friedrichshagen - überwiesen
+- TOP 13.11: Brandschutzaufklärung - überwiesen
+- TOP 13.12: Park-and-Ride-Anlage am S-Bahnhof Hirschgarten - überwiesen
+- TOP 13.13: Kita in Bewegung - im Ältestenrat zurückgezogen
+- TOP 13.14: BLEG-Liegenschaften - in der BVV abgelehnt
+- TOP 13.15: Chance für Samsung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Große Anfragen - gegenstandslos
+- TOP 14.1: Fahrradfreie Grünanlagen in Treptow- Köpenick - beantwortet
+- TOP 14.2: Gerechtigkeit für Eltern bei Entrichtung der Kita-Beiträge einfordern - vertagt
+- TOP 14.3: Informationen zum Schutz vor Vogelgrippe - vertagt
