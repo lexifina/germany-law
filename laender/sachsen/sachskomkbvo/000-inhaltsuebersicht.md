@@ -53,6 +53,6 @@ Abschnitt 8 Begriffsbestimmungen, Übergangs- und Schlussvorschriften
 § 41 Schriftform
 § 42 Einheitliche Buchführung für die Gemeindekasse und Sonderkassen
 § 43 Begriffsbestimmungen
-§ 44 Experimentierklausel
+§ 44 (aufgehoben)
 § 45 Anwendung auf die Landkreise und andere juristische Personen des öffentlichen Rechts
 § 46 In-Kraft-Treten und Außer-Kraft-Treten
