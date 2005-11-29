@@ -1,0 +1,52 @@
+# 11. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-11-29T17:05:00+01:00
+- Ende: 2005-11-29T19:57:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5109
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5109
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00225238.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erford
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Berichte
+- TOP 4.1: Weseler Straße - Verbesserung der Radwegführung im Einmündungsbereich Bismarckallee und Schaffung ei - mehrheitlich geändert beschlossen
+- TOP 4.2: Jahresbericht 2004 zur Kinder- und Jugendarbeit in Münster - zur Kenntnis genommen
+- TOP 4.3: Maßnahmenprogramm des Tiefbauamtes 2006 - zur Kenntnis genommen
+- TOP 5: Entscheidungen
+- TOP 5.1: Zuschüsse an örtliche Vereine, Verbände, Initiativen und Vereinigungen - einstimmig beschlossen
+- TOP 5.2: Trägervertreter - einstimmig geändert beschlossen
+- TOP 5.3: Entzerrung des Fuß- und Radverkehrs auf der Windthorststraße - einstimmig beschlossen
+- TOP 5.4: Unterhaltung der Grundstücke und baulichen Anlagen 2006 im Stadtbezirk Mitte - einstimmig beschlossen
+- TOP 5.5: Sanierung von Spielplätzen im Stadtbezirk Münster-Mitte - einstimmig beschlossen
+- TOP 5.6: Maßnahmenprogramm 2006 des Tiefbauamtes für die bezirklichen Baumaßnahmen im Bezirk Mitte - von der Tagesordnung abgesetzt
+- TOP 6: Anhörungen
+- TOP 6.1: Maßnahmenprogramm 2006 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Mitte - einstimmig geändert beschlossen
+- TOP 6.2: Zukünftige Entwicklung der städtischen Bäderlandschaft - mehrheitlich geändert beschlossen
+- TOP 6.3: Schulbezirke Gottfried-von-Cappenberg-Schule, Grundschule Loevelingloh - einstimmig beschlossen
+- TOP 6.4: Geiststraße - Ausbau der Bushaltestelle "Geiststraße" in Fahrtrichtung "Hochstraße" - einstimmig beschlossen
+- TOP 6.5: Bebauungsplan Nr. 242: Eisenbahnstraße / Friedrichstraße - einstimmig beschlossen
+- TOP 6.6: Geistviertel: Kommunikationsprozess einleiten - Förmliches Verfahren aussetzen - mehrheitlich abgelehnt
+- TOP 6.7: Wohnen im Alter, Fortschreibung 2005 - einstimmig geändert beschlossen
+- TOP 6.8: Bau eines Regenklärbeckens in der Hüfferstraße - einstimmig beschlossen
+- TOP 6.9: Kanalsanierung Bahnhofstraße - einstimmig beschlossen
+- TOP 6.10: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 7: Anträge
+- TOP 7.1: "Geistmarkt - attraktives Zentrum des Viertels" - einstimmig geändert beschlossen
+- TOP 7.2: Prioritätenliste für einen behindertengerechten Ausbau der Schulen - zur Kenntnis genommen
+- TOP 7.3: Persönliche Vorstellung bei der Bewerbung für ein öffentliches Amt - eingebracht
+- TOP 7.4: Hinweisschilder zur Ev. Jakobuskirche in der Aaseestadt - eingebracht
+- TOP 7.5: Aegidiistraße - Promenade: Fahrradverkehr sicherer gestalten - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Bürgerinformationen zur Strahlenbelastung durch Mobilfunkanlagen - zur Kenntnis genommen
+- TOP 8.2: Innenstadtnaher Aufstellplatz für Wohnmobil-Touristen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
