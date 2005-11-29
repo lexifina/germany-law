@@ -1,0 +1,7 @@
+# TOP 3.4.: Beschädigtes Gedenkkreuz auf dem Grundstück Berg-am-Laim-Straße 131
+
+- Sitzung: BA 14 - Vollgremium (2005-11-29)
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/62472
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/62472
