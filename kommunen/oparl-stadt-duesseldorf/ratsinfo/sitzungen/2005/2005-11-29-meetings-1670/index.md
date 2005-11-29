@@ -1,0 +1,51 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-11-29T16:00:00+01:00
+- Ende: 2005-11-29T19:28:00+01:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1670
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1670
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111575.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111575.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111575.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines neuen Mitglieds - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift - zur Kenntnis genommen
+- TOP 4: Zulassung von Sachverständigen und Einwohnern - zur Kenntnis genommen
+- TOP 5: Jugendberufshilfe Düsseldorf gGmbH - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Klemensplatz-West - zur Kenntnis genommen
+- TOP 11: Niederrheinstraße - zur Kenntnis genommen
+- TOP 12: FGÜ Nagelsweg - zur Kenntnis genommen
+- TOP 13: Erweiterungsbau Beckbuschstr. 2 - zur Kenntnis genommen
+- TOP 14: Landschaftsplanänderung - zur Kenntnis genommen
+- TOP 15: Hundeauslaufplatz Mahnmalachse - zur Kenntnis genommen
+- TOP 16: B+F Grenzweg - zur Kenntnis genommen
+- TOP 17: Bezirksbezogene Bauunterhaltungsmaßnahmen - zur Kenntnis genommen
+- TOP 18: Lohauser Deich/Curt-Beckmann-Straße - Grünstreifen - zur Kenntnis genommen
+- TOP 19: Angermunder Baggersee - Nutzungskonzept - zur Kenntnis genommen
+- TOP 20: Am Kehrbesen, B-Plan 5187/16 - zur Kenntnis genommen
+- TOP 21: Schulgebäude Fliednerstraße 32 - zur Kenntnis genommen
+- TOP 22: Kaiserswerth - Begrünung der Bahntrassen - zur Kenntnis genommen
+- TOP 23: Grundschule Kaiserswerth - OGATA - zur Kenntnis genommen
+- TOP 24: Ehrenmal Kalkum - Restaurierung - zur Kenntnis genommen
+- TOP 25: LSA Kalkumer Schloßallee/Oberdorf-/Unterdorfstraße - zur Kenntnis genommen
+- TOP 26: Ruhebänke Wittlaer - zur Kenntnis genommen
+- TOP 27: Franz-Vaahsen-Grundschule Grenzweg - zur Kenntnis genommen
+- TOP 28: Stellungnahmen und Mitteilungen - zur Kenntnis genommen
+- TOP 29: Umsetzung der DeichschutzVO-Burgallee - zur Kenntnis genommen
+- TOP 30: Verschiedenes - zur Kenntnis genommen
+- TOP 31: Flughafen Düsseldorf International - zur Kenntnis genommen
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Klemensplatz-West - Gestaltungsplanung - zur Kenntnis genommen
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
