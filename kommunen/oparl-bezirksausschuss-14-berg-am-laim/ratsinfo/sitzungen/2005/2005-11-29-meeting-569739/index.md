@@ -1,0 +1,98 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2005-11-29T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/569739
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/569739
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Hundekot im Behrpark; verstärkte Kontrollen, mehr Kontrollpersonal, konsequente Durchsetzung von Bußgeldern; Empfehlung Nr. 13 der Bürgerversammlung am 08.03.05
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Pilotprojekt Jugendbeteiligung an der Stadtplanung
+- TOP 3.2.: Innsbrucker Ring - Lärmschutzbebauung
+- TOP 3.3.: Grafinger Strsße - Kultfabrik - Verlängerund der Nutzungsfrist vom 31.01.2007 auf den 31.12.2010 für den Gesamtbetrieb
+- TOP 3.1.: Christkindlmarkt auf dem Wochenmarktplatz in Baumkirchner Straße
+- TOP 3.2.: Grafinger Straße, Halteverbot zur Freihaltung der Bushaltestelle
+- TOP 3.3.: Straßenverkehr in Berg am Laim im Bereich Josephsburg-, Bad-Schachner- und Echardinger Straße, Antrag Nr. 556 des BA 14 vom 30.08.05
+- TOP 3.4.: Buswendeanlage für die griechische Schule - Stellungnahme der MVG zum Schreiben des BA 14 vom 27.10.2005
+- TOP 3.5.: Neue Bushaltestelle Altöttinger Straße
+- TOP 3.6.: Verkehrskonzept für den Münchner Osten a) Zusammenfassung der Ergebnisse der Untersuchungen zum Verkehrskonzept für den Münchner Osten b) Öffentlichkeitsphase zu den Untersuchungen zum Verkehrskonzept für den Münchner Osten c) Entscheidungsvorschlag d) Anträge und Empfehlungen
+- TOP 3.1.: Kennzeichnung barrierefreier Veranstaltungsorte; Antrag Nr. 225 des BA 14 vom 27.04.05
+- TOP 3.2.: Keine Errichtung eines Bürgerhauses in Berg am Laim
+- TOP 3.3.: Kultur im Stadtquartier, Ergänzung: Stellungnahmen der Bezirksausschüsse
+- TOP 3.4.: Beschädigtes Gedenkkreuz auf dem Grundstück Berg-am-Laim-Straße 131
+- TOP 3.5.: Stadtteilwochen und Kulturtage 2005 - Daten / Bewertung / Pressespiegel
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Erweiterung der Grundschule an der Grafinger Str. 71 - Anfrage des BA 14 vom 04.10.05
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Mutschellestraße 5, Antrag auf Baumfällungen
+- TOP 3.2.: Altöttinger Str. 7 - Antrag auf Baumfällungen
+- TOP 3.3.: Ulrichsbergstraße 9 - Antrag auf Baumfällung
+- TOP 3.4.: Kreillerstraße 39 - Antrag auf Baumfällung
+- TOP 3.5.: Burggrafenstraße 4 - Antrag auf Baumfällung
+- TOP 3.6.: Anhörung über Baumfällungen durch das Gartenbaureferat - Jahresmeldung 2005 - 2006
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: PERSPEKTIVE München, Münchner Bürgerbefragung 2005
+- TOP 4.2.: Planfeststellung nach § 18 Abs. 1 Allg. Eisenbahngesetz (AEG)2. S-Bahn-Stammstrecke München - Planfeststellungsabschnitt 3 München-Ost - Bereich Isar bis Ostbahnhof / Leuchtenbergring - Anhörungsverfahren -
+- TOP 4.3.: Protokoll über die 59. Sitzung der Lenkungsgruppe "Soziale Stadt" am 26.09.2005
+- TOP 4.4.: Aufbau eines Hochgeschwindigkeitsnetzes durch die Deutsche Telekom AG (T-COM) Innovationsprojekt T-HOME-SPEED
+- TOP 4.5.: Abbruch eines Wohngebäudes in der Transjochstraße
+- TOP 4.6.: Meldeliste der Bauvorhaben zwischen 10.10.2005 - 13.11.2005
+- TOP 4.7.: Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse und der einschlägigen Verbände
+- TOP 4.8.: Zweckentfremdung von Wohnraum - Mutschellestraße 5 - Abbruch 1 WE
+- TOP 4.1.: Parkraummanagement in München - Beschleunigung der Umsetzung
+- TOP 4.2.: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 4.3.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2006 - 2010 Anhörungsverfahren Bezirksausschüsse
+- TOP 4.4.: Realisierungsnetz Radfahrverbindungen in München - Fortschreibung 2005
+- TOP 4.5.: Friedenstraße; Halteverbotsbeschilderung im Haltestellenbereich der Linie 146; Endstation Ostbahnhof
+- TOP 4.1.: Lärmminderungsplan für München EU-Umgebungslärmrichtlinie
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Erfahrungsbericht zu den Beschlüssen des Stadtrats vom 02.07.2003 - Entgelte für die benutzung städtischer Sportanlagen; Aktualisierung der Gebührensätze - Raum- und Flächenangebot in den öffentlichen Schulen der Landeshauptstadt München, Überlassung für schulfremde Zwecke
+- TOP 4.2.: A) Allgemeines zum Thema G8 und IZBB B) Baumaßnahmen im Zusammenhang mit der Einführung des achtjährigen Gymnasiums (G8) Baukosten (Kostenobergrenze): 54.424.000 Euro (davon Ersteinrichtungskosten 1.208.000 Euro) 27 Projekte für 31 Gymnasien 1. Projektauftrag und Projektgenehmigung 2. Ausführungsgenehmigung Baukosten (Kostenobergrenze): 7.633.000 Euro (davon Ersteinrichtungskosten: 153.000 Euro) 5 Projekte für 5 Gymnasien 1. Projektauftrag und Projektgenehmigung 2. Ausführungsgenehmigung C) Errichtung von Horträumen im Zuge des Mensaneubaues im Schulzentrum Pfarrer-Grimm-Str. 1 im 23. Stadtbezirk Allach-Untermenzing Baukosten (Kostenobergrenze): 1.617.000 Euro (davon Ersteinrichtungskosten: 10.000 Euro) 1. Projektauftrag und Projektgenehmigung 2. Ausführungsgenehmigung D) Weitere IZBB-Baumaßnahmen E) Baumaßnahmen im Zusammenhang mit der Einführung des G8 Dringlichkeitsantrag Nr. 02-08 / A 02556 von CSU- Fraktion vom 14.07.2005
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Ergebnisprotokoll aus der Sitzung der Arbeitsgruppe Wohnungslosigkeit am 14.06.2005
+- TOP 4.1.: Verwendungsnachweis des Elternbeirats der Grundschule Berg am Laim
+- TOP 4.2.: Verwendungsnachweis der Städt. Kindertagesstätte Tabaluga
+- TOP 4.3.: Schreiben des Volk Verlages bez. Berg-am-Laim-Stadtteilbuch
+- TOP 4.4.: Budget der Bezirksausschüsse - 20% - Pauschale für eigene Veranstaltungen
+- TOP 4.5.: Verwendungsnachweis Förderverein Sozialstation
+- TOP 4.6.: Zuwendung an Bürgerkreis Berg am Laim e.V.
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Antrag auf unveränderte Fortführung der Schank- und Speisewirtschaft "Schmankerl" mit Wirtschaftsgarten, Kreillerstraße 71
+- TOP 4.2.: Änderung der BA-Satzung - Entscheidungsrecht für die Bezirksausschüsse bei Errichtung von Freischankflächen - Beschluss des BA Maxvorstadt
+- TOP 4.3.: Mobilität von BA-Mitgliedern - Initiative des BA Neuhausen-Nymphenburg
+- TOP 4.4.: Veranstaltungen auf dem Freiplatz vor der Stadtsparkasse Schlüsselbergstraße
+- TOP 4.1.: Zehntfeldstraße 79 - Fällungsantrag
+- TOP 4.2.: Unterrichtung über das Fällen von Gefahrenbäumen - Gögginger Straße, Baumkirchner Straße, Sankt-Michael-Straße,
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
