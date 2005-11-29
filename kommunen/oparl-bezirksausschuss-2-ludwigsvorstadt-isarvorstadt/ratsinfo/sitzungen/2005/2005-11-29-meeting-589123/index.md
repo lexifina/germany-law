@@ -1,0 +1,72 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2005-11-29T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/589123
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/589123
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Spielgeräte am Spielplatz Thalkirchner Straße
+- TOP .2.1.: BA-Budget
+- TOP .1.: Zuschuss aus dem BA-Budget für den KIKIUS-Sprachförderkurs für den Kindergarten St. Andreas
+- TOP .2.: Zuschuss aus dem BA-Budget (eigene Veranstaltungen): Alt und Jung grenzenlos
+- TOP .2.2.: Kultur
+- TOP .1.: Erhalt und Förderung des Baseballsports
+- TOP .2.: Ak Kulturpfade - Protokoll v. 16.11.2005 z. K.
+- TOP .3.: Kulturhaus im Stadtbezirk 2: Antwort des Kulturreferats
+- TOP .5.1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .1.: Sanierung der Grabdenkmäler auf dem Alten Südfriedhof; Keine baulichen Maßnahmen während der Vogelbrutzeit
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Adlzreiterstr. 23, Abbruch Ruine und Neubau von Wohnungen mit TG (Vorbescheid) - Vertagung v. 25.10.05
+- TOP .2.: Fraunhoferstr. 11, Nutzungsänderung RGB von Werkstatt/Wohnung/Atelier in Laden sowie Errichtung eines Wirtsgartens mit Freischank - Vertagung vom 25.10.2005
+- TOP .3.: Holzstr. 28, Revitalisierung e. Denkmalgeschützten "Münchner Fabrikhofes" (Vo5rbescheid) - Vertagung vom 25.10.2005
+- TOP .4.: Museumsinsel 1, Zentrum für neue Technologien / Dt. Museum: Umbau der Eisenbahnhalle - Vertagung vom 25.10.2005
+- TOP .5.: Geyerstr. 26, Umbau und Nutzungsänderung: Lagerflächen zu Büro- und Produktionsflächen / RGB
+- TOP .6.: Paul-Heyse-Str. 8, Einrichtung einer kerngebietstypischen Spielothek (Tektur)
+- TOP .7.: Müllerstr. 49, Neubau eines Wohn- und Geschäftshauses (Vorbescheid)
+- TOP .8.: Uhlandstr. 2, Umbau und Nutzungsänderung im 1. OG von 2 Wohnungen zu einem Büro - Plenumsbeschluss
+- TOP .9.: Thalkirchner Str. 29, Aufstockung VGB, DG-Ausbau RGB, Errichtung von Stahlbalkonen sowie Aufzugsanbau
+- TOP .10.: Dreimühlenstr. 11, Nutzungsdänaderung m- Konzessionserweiterung für den Betrieb einer Schank- und Speisewirtschaft
+- TOP .1.: Fällung von mehreren kranken Bäumen entspr. Liste des Baureferats
+- TOP .2.: Klenzestr. 6, Fällung v. 1 Esche (beschädigt Garagenwand)
+- TOP .3.: Tumblingerstr. 54, Fällung v. 1 Robinie (Vitalitätsverlust)
+- TOP .1.: Wasserkraftwerk Isar
+- TOP .2.: Theaterprojekt Goethstr. 21
+- TOP .3.: Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Entwurf Beschlussvorlage
+- TOP .4.: Beschleunigung der Buslinie 52
+- TOP .5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP .1.: Hinweis auf niedrige Unterführungen für Lkw-Fahrer
+- TOP .1.: Parkraummanagement im 2. Stadtbezirk - Planumsbeschluss
+- TOP .3.1.: Sperrzeit-Angelegenheiten
+- TOP .1.: Trink- und Imbisskiosk in der Frauenhoferstr. 46, Antrag auf tägliche Sperrzeitaufhebung
+- TOP .3.2.: Freischankflächen
+- TOP .1.: Gaststätte "Florentinermann" Fraunhoferstr. 11 (Neuantrag mit Pflanzgefäßen)
+- TOP .3.3.: Warenstellagen
+- TOP .1.: Schwanthalerstr. 67 (Schlösser, Beschläge, Haushaltwaren, Werkzeug)
+- TOP .3.4.: Verkehr
+- TOP .1.: Münchner Blade Night 2006
+- TOP .2.: "Deutschland - Land der Ideen" am 29.11./30.11.2005, Forum am Deutschen Museum
+- TOP .1.: Beseitigung von Schrotträdern in der Pestalozzistraße
+- TOP .2.: Schrägparken in der Nußbaumstraße
+- TOP .3.: Berichte der Beauftragten (AK Theresienwiese)
+- TOP .4.: Parken auf dem Gehweg an der Kreuzung Westermühl-/Klenzestraße
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP .3.2.: Berichte aus den anderen BA
+- TOP .3.3.: Bericht des Internetbeauftragten
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Infos)
+- TOP .2.: Veranstaltungen
