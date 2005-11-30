@@ -1,0 +1,8 @@
+# TOP 8: Arbeitsmarktpolitische Projekte
+
+- Sitzung: öffentliche Sitzung des Ausschusses für Wirtschaft, Wissenschaft und europäische Angelegenheiten (2005-11-30)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=9995
+- Ergebnis: geändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=2453&bi=6253
