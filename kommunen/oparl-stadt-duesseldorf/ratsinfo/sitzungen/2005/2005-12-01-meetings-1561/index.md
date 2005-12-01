@@ -1,0 +1,56 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-12-01T16:00:00+01:00
+- Ende: 2005-12-01T19:00:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1561
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1561
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111606.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111606.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111606.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift vom 03.11.2005 - zur Kenntnis genommen
+- TOP 3: Schulstandort Leuthenstraße
+- TOP 4: B-Plan Nr. 6075/35 - In den Kötten - Öff.Bet. - einstimmig beschlossen
+- TOP 5: Grünpflege im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 6: Hundeauslaufplätze im Stadtbezirk 8 - Bericht der - zur Kenntnis genommen
+- TOP 7: OU FlingernGB - mehrheitlich abgelehnt
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Fällarbeiten entlang des Gehweges Deutzer Straße - einstimmig beschlossen
+- TOP 10: Parkscheibenregelung Gumbertstraße - einstimmig beschlossen
+- TOP 11: Trödelmärkte 1. Halbjahr 2006 - einstimmig beschlossen
+- TOP 12: Zuschüsse der Bezirksvertretung 8 im Jahre 2005 - mehrheitlich beschlossen
+- TOP 13: Bauunterhalt an städtischen Einrichtungen 2006 - einstimmig beschlossen
+- TOP 14: Kreisverkehr Breidenplatz - einstimmig beschlossen
+- TOP 15: Aufstellung Wartehäuschen - Haltestelle Nordstrand - zur Kenntnis genommen
+- TOP 16: Fahrradstation Gertrudisplatz / Rütgerstraße - zur Kenntnis genommen
+- TOP 17: Rauchverbot an Schulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 18: 1-Euro - Kräfte im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 19: Mobilitätsbehindertengerechte Haltestellen - zur Kenntnis genommen
+- TOP 20: Wartehalle In den Maisbanden - zur Kenntnis genommen
+- TOP 21: Wartehallen Vennstraße und Dellestraße - einstimmig beschlossen
+- TOP 22: Geschwindigkeitskontrollen Gumbertstraße - einstimmig beschlossen
+- TOP 23: Lärmdämmung in Grundschulen des Stadtbezirks 8 - mehrheitlich beschlossen
+- TOP 24: Krankenversorgung Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 25: Konzept gegen Verelendung sozialer Gruppen - einstimmig beschlossen
+- TOP 26: Alkoholverbot - mehrheitlich abgelehnt
+- TOP 27: Ergebnis der Etatberatung in den Fachausschüssen - zur Kenntnis genommen
+- TOP 28: Straßenreinigungsgebühren Tannenhof - Siedlung - zur Kenntnis genommen
+- TOP 29: Parkplätze Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 30: Fußgängerbrücke Festenbergstraße - zur Kenntnis genommen
+- TOP 31: Straßenverkehrs-Lärmsanierung - zur Kenntnis genommen
+- TOP 32: Lärmprognose Oldtimerzentrum Harffstraße - zur Kenntnis genommen
+- TOP 33: Heckenpflanzungen Kuthsweg und Parkplatz Eller - zur Kenntnis genommen
+- TOP 34: Drogen- und Alkoholkonsum im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Kinderspielplatz Zeppelinstraße - zur Kenntnis genommen
+- TOP 36: Behindertengerechte Haltestellen & Fahrgastinf. - zur Kenntnis genommen
+- TOP 37: LZA Deutzer Straße / Büllenkothenweg - zur Kenntnis genommen
+- TOP 38: Bolzplatz Eller Kamp - zur Kenntnis genommen
+- TOP 39: Gebäude Breslauer Straße 21 - 27 - zur Kenntnis genommen
