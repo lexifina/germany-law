@@ -1,0 +1,56 @@
+# 13. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-12-01T17:00:00+01:00
+- Ende: 2005-12-01T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5226
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5226
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00225298.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder der Bezirksvertretung - zur Kenntnis genommen
+- TOP 2: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 3: Anregungen gemäß § 24 GO NW
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Beantwortung von Anfragen
+- TOP 4.1: Sole-Bad in Gievenbeck - zur Kenntnis genommen
+- TOP 5: Berichte
+- TOP 5.1: Situation der Grundschulen und der Wartburghauptschule in Gievenbeck - zur Kenntnis genommen
+- TOP 5.2: Maßnahmenprogramm des Tiefbauamtes 2006 - zur Kenntnis genommen
+- TOP 5.3: Am Baumberger Hof - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Trägervertreter - einstimmig beschlossen
+- TOP 6.2: Unterhaltung der Grundstücke und baulichen Anlagen 2006 im Stadtbezirk West - einstimmig beschlossen
+- TOP 6.3: Erweiterung Droste-Hauptschule Roxel, Tilbecker Straße 26 - einstimmig beschlossen
+- TOP 6.4: Maßnahmenprogramm 2006 des Tiefbauamtes für die bezirklichen Baumaßnahmen im Bezirk West - einstimmig beschlossen
+- TOP 6.5: Baubeschluss Baugebiet Mecklenbeck Boeselagerstraße / Osterstraße - einstimmig beschlossen
+- TOP 6.6: Öffentliches Grün und Spielplatz "Lindenbreie" in Münster Gievenbeck Süd-West südl. Teil - einstimmig beschlossen
+- TOP 6.7: Sanierung von Spielplätzen im Stadtbezirk Münster-West - einstimmig geändert beschlossen
+- TOP 6.8: Weiterführung des bestehenden Fuß-/Radwegenetzes vom Bebauungsplan Nr. 396 zur Altenroxeler Straße - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Zukünftige Entwicklung der städtischen Bäderlandschaft - mehrheitlich geändert beschlossen
+- TOP 7.2: Freiherr-vom-Stein-Gymnasium, hier: Aufhebung der Stützungsmaßnahme "Übernahme der Schülerfahrkosten - einstimmig beschlossen
+- TOP 7.3: Wohnanlage für demenzkranke Menschen mit angegliederten Wohnungen für Angehörige in Münster-Givenbec - einstimmig beschlossen
+- TOP 7.4: 21. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 7.5: Bebauungsplan Nr. 388, 2. Änderung - Beschluss über die Anregungen - Satzungsbeschluss - einstimmig geändert beschlossen
+- TOP 7.6: BG Mecklenbeck Boeselagerstraße / Osterstraße - einstimmig beschlossen
+- TOP 7.7: Maßnahmenprogramm 2006 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk West - einstimmig beschlossen
+- TOP 7.8: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 8: Vorschläge und Anregungen
+- TOP 8.1: Unterhaltung des Grill- u. Bolzplatzes in Nienberge-Häger, Plantstaken - zur Kenntnis genommen
+- TOP 8.2: Sicherung Fußgänger-/Radfahrerquerung Mecklenbecker Straße zwischen den Häusern Nr. 383 und 355 - zur Kenntnis genommen
+- TOP 8.3: Verkehrssituation Rüschhausweg/Ahausweg in Gievenbeck - zur Kenntnis genommen
+- TOP 8.4: Schülerbusverkehr zum Freiherr-vom-Stein-Gymnasium in Münster-Gievenbeck - zur Kenntnis genommen
+- TOP 8.5: Ausbesserung des Fuß- und Radweges ab Nienberge Dorf in Richtung Häger - zur Kenntnis genommen
+- TOP 8.6: Instandsetzung Straße "Am Getterbach" - zur Kenntnis genommen
+- TOP 8.7: Bedarfermittlung für den Einsatz von Schulbussen von Albachen und Mecklenbeck zum Freiherr-vom-Stein - einstimmig beschlossen
+- TOP 8.8: Sicherung Fahrradwegquerung Havixbecker Straße/Hohenholter Straße - zur Kenntnis genommen
+- TOP 8.9: Querungshilfe auf der Osthoffstraße in Albachten - eingebracht
+- TOP 8.9.1: Querung der Osthofstraße im Bereich der Haltestellen Sendener Stiege - vertagt
+- TOP 8.10: Verkehrssichernde Maßnahmen an der Lichtsignalanlage Dülmener Straße - Osthofstraße - eingebracht
+- TOP 9: Verschiedenes - zur Kenntnis genommen
