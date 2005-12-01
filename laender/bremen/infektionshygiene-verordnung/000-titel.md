@@ -1,1 +1,1 @@
-# Verordnung zur Verhütung übertragbarer Krankheiten (Infektionshygiene-Verordnung) vom 18. Oktober 1988
+# Verordnung zur Verhütung übertragbarer Krankheiten (Infektionshygiene-Verordnung) vom 10. November 2005
