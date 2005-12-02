@@ -1,8 +1,8 @@
-# 01.01.2002 – 01.12.2005
+# 02.12.2005 – 21.12.2011
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2002-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/4406.2
+- Datum: 2005-12-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/4406.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -82,7 +82,7 @@ Die nachgeordneten Dienststellen berichten den nach Ziffer I Nr. 2 zuständigen 
 
 2.
 
-Die nach Ziffer I Nr. 1 Buchst. b bis i zuständigen Behörden berichten dem Staatsministerium der Justiz, wenn durch Pflichtverletzungen von Bediensteten schuldhaft ein Schaden von mehr als 5 000 EUR verursacht wurde. Macht in diesem Fall ein Dritter einen Anspruch aus Amtshaftung geltend, ist dem Staatsministerium der Justiz vor Abschluss des Verfahrens unter Vorlage eines Entwurfs der abschließenden Verfügung zu berichten.
+Die nach Ziffer I Nr. 1 Buchst. b bis i zuständigen Behörden berichten dem Staatsministerium der Justiz, wenn durch Pflichtverletzungen von Bediensteten schuldhaft ein Schaden von mehr als 10 000 EUR verursacht wurde. Macht in diesem Fall ein Dritter einen Anspruch aus Amtshaftung geltend, ist dem Staatsministerium der Justiz vor Abschluss des Verfahrens unter Vorlage eines Entwurfs der abschließenden Verfügung zu berichten.
 
 3.
 
@@ -115,7 +115,7 @@ Für die vor dem 1. Mai 1998 anhängig gewordenen Staats- und Amtshaftungsverfah
 2.
 
 Für Ansprüche, auf die nach § 4 Satz 1 des Gesetzes des Freistaates Sachsen zur Bereinigung des alten Landesrechts sowie des als Landesrecht fortgeltenden Rechts der Deutschen Demokratischen Republik (Sächsisches Rechtsbereinigungsgesetz -
-SächsRBG ) vom 17. April 1998 (SächsGVBl S. 151) weiterhin das Gesetz zur Regelung der Staatshaftung in der Deutschen Demokratischen Republik - Staatshaftungsgesetz - vom 12. Mai 1969 (GBl. DDR I Nr. 5 S. 34), geändert durch Gesetz vom 14. Dezember 1988 (GBl. DDR I Nr. 28 S. 329) anzuwenden ist, gelten die Ziffern I und II Nr. 2 und 3 mit der Maßgabe entsprechend, daß auch im Falle schuldloser Verursachung des Schadens zu berichten ist.
+SächsRBG) vom 17. April 1998 (SächsGVBl S. 151) weiterhin das Gesetz zur Regelung der Staatshaftung in der Deutschen Demokratischen Republik - Staatshaftungsgesetz - vom 12. Mai 1969 (GBl. DDR I Nr. 5 S. 34), geändert durch Gesetz vom 14. Dezember 1988 (GBl. DDR I Nr. 28 S. 329) anzuwenden ist, gelten die Ziffern I und II Nr. 2 und 3 mit der Maßgabe entsprechend, daß auch im Falle schuldloser Verursachung des Schadens zu berichten ist.
 
 V.
 
