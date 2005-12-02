@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Stadt Herford
+- Beginn: 2005-12-02T16:05:00+01:00
+- Ende: 2005-12-02T20:10:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbGbj2MYDEzW5wDa1ylhhbQ
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/939
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUdKEmtawlclM9VSMOVVp419mMXgiP771IB9uRIykZNE/Einladung_Rat_02.12.2005.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZciBhMcXm4kPBbIHreyn_JtPZ-Wx4cX2juFt0dDT-Whq/Oeffentliche_Niederschrift_Rat_02.12.2005.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 23.09.2005
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.6: Bestellung der stellvertretenden Schriftführer/innen für die Sitzungen des Rates - Einstimmig ohne Enthaltungen
+- TOP A.7: 3. Situationsbericht zur Haushaltswirtschaft - Zur Kenntnis genommen
+- TOP A.8: Einrichtung des Frauenbeirates; hier: Satzung und Wahlordnung - Mit Mehrheit ohne Enthaltungen
+- TOP A.9: Neuwahl des Behindertenbeirates hier: Verabschiedung der neuen Satzung - Einstimmig ohne Enthaltungen
+- TOP A.10: Neuwahl des Seniorenbeirates hier: Verabschiedung der neuen Satzung und Wahlordnung - Einstimmig bei 2 Enthaltung(en)
+- TOP A.11: Gründung der Kultur Herford gGmbH - Einstimmig ohne Enthaltungen
+- TOP A.12: Netz Stadtwerke Herford GmbH; hier: Umstrukturierung - Einstimmig ohne Enthaltungen
+- TOP A.13: Neu- bzw. Umbesetzung von Ausschüssen - Einstimmig ohne Enthaltungen
+- TOP A.14: Umbesetzungen bei Drittorganisationen - Einstimmig ohne Enthaltungen
+- TOP A.15: Wahl einer Schiedsperson für den Schiedsamtsbezirk Herford III - Einstimmig ohne Enthaltungen
+- TOP A.16: Beschluss über die Jahresrechnung 2004 und die Entlastung des Bürgermeisters für die Führung der Haushaltswirtschaft im Haushaltsjahr 2004 - Einstimmig ohne Enthaltungen
+- TOP A.17: Gebührenhaushalt Abfallbeseitigung: a) Änderung der Satzung über die Abfallbeseitigung in der Stadt Herford b) Änderung der Satzung über die Kostendeckung der Abfallbeseitigung in der Stadt Herford - Einstimmig ohne Enthaltungen
+- TOP A.18: Gebührenhaushalt Straßenreinigung hier: 25. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig ohne Enthaltungen
+- TOP A.19: Gebührenhaushalt Krankentransport und Notfallrettung; hier: Änderung der Gebührenstruktur - Einstimmig bei 1 Enthaltung(en)
+- TOP A.20: Änderung der Anlage zur Verwaltungsgebührensatzung (Gebührentarif) der Stadt Herford; hier: Ergänzung um Tarifstelle Nr. 19 (neu): Erteilung von Förderzusagen für Eigentumsmaßnahmen nach dem Wohnraumförderungsprogramm des Landes NRW - Einstimmig ohne Enthaltungen
+- TOP A.21: Quartalsbericht über erteilte Zustimmungen zu (unerheblichen) über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen, hier: 3. Quartal 2005 - Zur Kenntnis genommen
+- TOP A.22: Abbruch der Brücke an der Friedhofstaße über die DB-Strecke Herford-Altenbeken bei km 1.807 und Errichtung einer Behelfsbrücke; hier: Genehmigung einer Dringlichkeitsentscheidung - Mit Mehrheit bei 0 Enthaltung(en)
+- TOP A.23: Bebauungsplan Nr. 9.38 "Eimterstraße/Ewiger Frieden" (Teil II) hier: Satzungsbeschluss - Einstimmig bei 4 Enthaltung(en)
+- TOP A.24: Bebauungsplan Nr. 10.43 "Papenkamp", Änderung Nr. 1.05 hier: Satzungsbeschluss - Einstimmig ohne Enthaltungen
+- TOP A.25: Bebauungsplan Nr. 4.52 "Bergertor" (Teil 2), Änderung Nr. 2.05 hier: Satzungsbeschluss - Einstimmig ohne Enthaltungen
+- TOP A.26: HVV GmbH: Wirtschaftspläne - Einstimmig ohne Enthaltungen
+- TOP A.27: WWS Wohn- und Wirtschafts-Service Herford GmbH: a) Jahresabschluss 2004 b) Wirtschaftsplan 2004-2008 und Stellenplan 2006 - Einstimmig ohne Enthaltungen
+- TOP A.28: Die Chance gGmbH: Jahresabschuss 2004 und Wirtschaftsplan 2006 - Einstimmig ohne Enthaltungen
+- TOP A.29: Eigenbetrieb der Stadt Herford
+- TOP A.29a): Eigenbetrieb der Stadt Herford: Änderung des Wirtschaftsplanes 2005 (Abwasser) - Einstimmig ohne Enthaltungen
+- TOP A.29b): Eigenbetrieb der Stadt Herford: Wirtschaftsplan 2006 a) Finanzplan b) Erfolgsplan c) Stellenplan - Einstimmig ohne Enthaltungen
+- TOP A.29c): Änderung der Betriebssatzung - Einstimmig ohne Enthaltungen
+- TOP A.29d): Abwasserwerk: Änderung der Technischen Entwässerungssatzung - Einstimmig ohne Enthaltungen
+- TOP A.30: Antrag der Ratsfraktion Bündnis 90/DIE GRÜNEN; hier: Gleichbehandlung von EmpfängerInnen von Arbeitslosengeld II bei der Übernahme der Kosten für Schulbücher und Schülerfahrkarten
