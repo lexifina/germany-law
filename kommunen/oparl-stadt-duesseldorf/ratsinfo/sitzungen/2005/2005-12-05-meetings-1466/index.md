@@ -1,0 +1,67 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-12-05T15:00:00+01:00
+- Ende: 2005-12-05T15:57:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1466
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1466
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111577.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111577.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111577.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Wirtschaftsplan 2006 - einstimmig beschlossen
+- TOP 4: Wirtschaftsplanung 2005 - 2009 - einstimmig beschlossen
+- TOP 5: Gebührenkalkulation 2006 - einstimmig beschlossen
+- TOP 6: Kalkulation Abscheider - einstimmig beschlossen
+- TOP 7: GebührensatzungRettungsdienstes - einstimmig beschlossen
+- TOP 8: Kostenentwicklung im Bereich Straßenreinigung - Au - einstimmig beschlossen
+- TOP 9: Änderung der Satzung - Reinigung öffentl. Straßen - einstimmig beschlossen
+- TOP 10: Änderung der Satzung Reinigung öffentl. Straßen - einstimmig beschlossen
+- TOP 11: Änderung der Satzung Reinigung öffetnl. Straßen - einstimmig beschlossen
+- TOP 12: Kostenentwicklung im Bereich Müllabfuhr - Auswirku - passieren lassen
+- TOP 13: Änderung der Gebührensatzung Abfallentsorgung - passieren lassen
+- TOP 14: Nachtrag Entgeltordnung - einstimmig beschlossen
+- TOP 15: Etatberatung 2006 - passieren lassen
+- TOP 16: Haushaltssatzung 2006 - passieren lassen
+- TOP 17: Haushaltssatzung i.R. NKF - passieren lassen
+- TOP 18: Vorschläge u. Anr. der BV`s - passieren lassen
+- TOP 19: Veränderungsverz. zum HPL-Entwurf 2006 - passieren lassen
+- TOP 20: Vvz. zum HPL 2006 u. MIP 05-09 Vermögenshaushalt - passieren lassen
+- TOP 21: 1. Nachtrag zum Vvz. u. Finanzpl. 06-09, Verw. Hhl - passieren lassen
+- TOP 22: 1. Nachtr. zum Vvz HPL 2006 u. MIP 05-09 Verm.Hhlt - passieren lassen
+- TOP 23: Stellenplan 2006 - passieren lassen
+- TOP 24: Kämmererliste 2005 - einstimmig beschlossen
+- TOP 25: Verkehrsmanagementzentrale - einstimmig beschlossen
+- TOP 26: Theodorstraße-Straßenbahnlinie 701 - einstimmig beschlossen
+- TOP 27: Sanierung Standesamt -Grundsatzbeschluss- - einstimmig beschlossen
+- TOP 28: Masterplan Reduzierung des Straßenverkehrslärms - passieren lassen
+- TOP 29: Annahme einer Schenkung Skulptur "nur oben" von Bo - einstimmig beschlossen
+- TOP 30: Neubau Heyestr. 91 (OGATA) - einstimmig beschlossen
+- TOP 31: Erweiterung und Umbau im Bestand Lindenstr. 102 - einstimmig beschlossen
+- TOP 32: Erweiterungsbau Beckbuschstr. 2 - einstimmig beschlossen
+- TOP 33: Oberhausener Straße - einstimmig beschlossen
+- TOP 34: Öffentlich-rechtliche Vereinbarung mit Vieresen/39 - zur Kenntnis genommen
+- TOP 35: 6. Änderung der Abfallentsorgungssatzung - einstimmig beschlossen
+- TOP 36: Riehl-Kolleg - einstimmig beschlossen
+- TOP 37: Schulstandort Flurstraße - einstimmig beschlossen
+- TOP 38: Umbennenung Karlstadt u.a. - einstimmig beschlossen
+- TOP 39: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 40: FNPÄ89-Wohngeb.Himmelg/Itter-Anr.Änd.Plan - einstimmig beschlossen
+- TOP 41: BPl5581/35-RatherKreuzweg/Marler-AnregÄndSatzung - einstimmig beschlossen
+- TOP 42: Anfr. SPD: Ersatzneubau des Krankenhauses Gerreshe - zur Kenntnis genommen
+- TOP 43: Zusammenarbeit der kommunalen IT-Dienstleister - einstimmig beschlossen
+- TOP 44: Kunstpreis der Stadt Düsseldorf - einstimmig beschlossen
+- TOP 45: Eintrittspreisfestsetzung für den Aquazoo - mehrheitlich beschlossen
+- TOP 46: 60/109/2005 - einstimmig beschlossen
+- TOP 47: B+F Sulzbachstraße - einstimmig beschlossen
+- TOP 48: B+F Niederheid - einstimmig beschlossen
+- TOP 49: Fuß- u.Radwegbrücke - Mehrkosten - einstimmig beschlossen
+- TOP 50: Mahnverfahren Müllgebühren - zur Kenntnis genommen
