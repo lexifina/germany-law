@@ -1,0 +1,68 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2005-12-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/714301
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/714301
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Bauvorhaben Greinerberg 17; Neubau einer Seniorenwohnanlage
+- TOP 2.3.: Kindergartenversorgungsgrad in Sendling; Gemeinbedarfsfläche Meindlstraße
+- TOP 2.4.: Signalisierter Fußgängerübergang an der Kreuzung Am Harras / Plinganserstraße
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Clearinghaus Leipartstrasse 2 sowie Thalkirchner Straße 190; Antwortschreiben des Sozialreferates
+- TOP 4.: Schulreferat
+- TOP 4.1.: Grundschule an der Pfeuferstraße; Schulwegsicherheit
+- TOP 4.2.: Flächendeckende Aufstellung von 4F-Circle-Bewegungsinseln
+- TOP 4.3.: Einführung des achtjährigen Gymnasiums (G8)
+- TOP 5.1.: Warenstellage Leipartstraße 17
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 6.2.: Aufhebung des Haltverbotes an der ehem. Haltestelle der Buslinie 31 in der Aberlestraße
+- TOP 6.3.: Verkehrsregelung in Untersendling; Alramstraße / Aberlestraße / Danklstraße Antwort des Kreisverwaltungsreferates
+- TOP 7.1.: Budgetantrag des ASZ Sendling, Küchenrenovierung; ¿ 665,39
+- TOP 7.2.: Budgetantrag der Freiwilligen Feuerwehr Sendling, Anschaffung von Rettungsrucksäcken; ¿ 1606,-
+- TOP 7.3.: Budgetantrag der Historischen Gruppe Schmied von Kochel, Fackelzug / Kranzniederlegung; ¿ 450,-
+- TOP 7.4.: Budgetantrag des HuVTV Schmied von Kochel, Gedenkveranstaltung am 18.12.2005; ¿ 1070,-
+- TOP 7.5.: Anbringung von Stifterschildern an den "BA-Ruhebänken"; Antwortschreiben der zweiten Bürgermeisterin
+- TOP 7.6.: Bürgerversammlungen mit Multimedia-Präsentation
+- TOP 7.7.: Budget der Bezirksausschüsse; Verwendung der 20%-Pauschale für BA-eigene Veranstaltungen
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Lenggrieser Straße 16
+- TOP 8.3.: Bauvorhaben Senserstraße 7
+- TOP 8.4.: Bauvorhaben Daiserstraße 3
+- TOP 8.5.: Bauvorhaben Dietramszeller Platz 2
+- TOP 8.6.: Zurückziehung des Vorbescheidsantrages Schanzenbachstraße 1
+- TOP 8.7.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 8.8.: Bauvorhaben Demleitnerstraße 1 - 5
+- TOP 8.9.: Bauvorhaben Demleitnerstraße 7 - 13
+- TOP 8.10.: Bauvorhaben Demleitnerstraße 17 - 23
+- TOP 8.11.: Bauvorhaben Schmied-Kochel-Straße 6
+- TOP 9.: Baureferat
+- TOP 9.1.: Instandsetzung Flauchersteg, Beseitigung der Hochwasserschäden
+- TOP 9.2.: Expertenrunde Isarplan
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Roter-Trum-Platz 5; mehrere Bäume
+- TOP 10.2.: Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren
+- TOP 10.3.: Baumfällungen Bauvorhaben Königsdorfer Straße 9
+- TOP 10.4.: Baumfällung Esswurmstraße 19; eine Säulenzypresse
+- TOP 10.5.: Baumfällungen Bauvorhaben Demleitnerstraße 1
+- TOP 10.6.: Baumfällungen Bauvorhaben Demleitnerstraße 7
+- TOP 10.7.: Baumfällungen Bauvorhaben Demleitnerstraße 17
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Kultur im Stadtquartier
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
