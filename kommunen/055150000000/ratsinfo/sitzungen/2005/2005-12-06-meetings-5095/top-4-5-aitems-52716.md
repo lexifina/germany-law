@@ -1,0 +1,8 @@
+# TOP 4.5: Maßnahmenprogramm 2006 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Mitte
+
+- Sitzung: Sitzung (2005-12-06)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/52716
+- Ergebnis: vertagt
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/32510
