@@ -1,0 +1,7 @@
+# TOP 13: Installierung des statischen Grünpfeils
+
+- Sitzung: Bezirksvertretung Gräfrath (2005-12-06)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/9705
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/6954
