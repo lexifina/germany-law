@@ -1,0 +1,7 @@
+# TOP 3: Radverkehrsnetz im Stadtbezirk 4
+
+- Sitzung: Bezirksvertretung 4 (2005-12-07)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/136116
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/31460
