@@ -1,0 +1,70 @@
+# 8. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-12-07T17:07:00+01:00
+- Ende: 2005-12-07T21:52:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5153
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5153
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00225697.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Fraktionsgemeinschaft UWG/MS/ÖDP Nr. A-R/0039/2005 - einstimmig beschlossen
+- TOP 2.2: Entwicklung der RB63 (Münster - Coesfeld) als erste Stadtbahnstrecke in Münster - mehrheitlich beschlossen
+- TOP 2.3: Antrag der SPD-Fraktion an den Rat A-R/0021/2005 vom 13.05.2005: Münster braucht wieder einen Münste - mehrheitlich beschlossen
+- TOP 2.4: Antrag der Fraktion Bündnis 90/Die Grünen /GAL "Alle Chancen für Kinder von Anfang an!" vom 02.05.05 - einstimmig beschlossen
+- TOP 2.5: Solar? Na klar! Eurosolarpreis nach Münster holen - einstimmig beschlossen
+- TOP 3: Bericht über die Beschäftigung schwerbehinderter Menschen und schwerbehinderten Menschen Gleichgeste - zur Kenntnis genommen
+- TOP 4: Jahresrechnung des Bühnenbewirtschaftungsplanes 2004/2005 - zur Kenntnis genommen
+- TOP 5: Richtlinien für die finanzielle Förderung von Initiativen im Feld Migration/Integration in Münster - einstimmig beschlossen
+- TOP 6: Modellprojekt "Familienfreundliches Wohnen für und mit allein Erziehenden und ihren Kindern" - zur Kenntnis genommen
+- TOP 7: Die Familienhebamme am Gesundheitsamt der Stadt Münster - einstimmig geändert beschlossen
+- TOP 8: Sonderfonds "Hilfen für Schwangere und junge Mütter zum Schutz des ungeborenen Lebens" - zur Kenntnis genommen
+- TOP 9: Ergebnisbericht - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 10: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 3. Vierteljahr - zur Kenntnis genommen
+- TOP 11: Zukünftige Entwicklung der städtischen Bäderlandschaft - ohne Beschlussfassung geschoben
+- TOP 12: Steuern, Gebühren, Tarife und Entgelte
+- TOP 12.1: Neufassung der Gebührensatzung für die Wochenmärkte in der Stadt Münster - einstimmig beschlossen
+- TOP 12.2: Neufassung der Gebührensatzung für das Überlassen von Standplätzen bei Volksfesten - einstimmig beschlossen
+- TOP 12.3: Vergnügungssteuersatzung der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 12.4: Genehmigung einer Dringlichkeitsentscheidung Gebührensatzung Westfälische Schule für Musik - einstimmig beschlossen
+- TOP 12.5: Abfallgebühren 2006 - einstimmig beschlossen
+- TOP 12.6: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2006 - einstimmig beschlossen
+- TOP 12.7: Straßenreinigungsgebühren 2006 - zur Kenntnis genommen
+- TOP 12.8: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 12.9: Änderung der Abwassergebührensatzung (AGS) - einstimmig beschlossen
+- TOP 12.10: Änderung der Gewässergebührensatzung (GGS) - einstimmig beschlossen
+- TOP 12.11: Änderung der Gebührensatzung für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 13: Erweiterung Zentrum Kinderhaus - von der Tagesordnung abgesetzt
+- TOP 14: Freiherr-vom-Stein-Gymnasium, hier: Aufhebung der Stützungsmaßnahme "Übernahme der Schülerfahrkosten - einstimmig beschlossen
+- TOP 15: Schulbezirke Gottfried-von-Cappenberg-Schule, Grundschule Loevelingloh - einstimmig beschlossen
+- TOP 16: Weiterentwicklung der Berufskollegs: Errichtungsvorhaben der Berufskollegs in städtischer Trägerscha - einstimmig beschlossen
+- TOP 17: Abschluss eines öffentlich-rechtlichen Vertrages - einstimmig beschlossen
+- TOP 18: Änderung der Geschäftsordnung der Pflegekonferenz Münster in "Grundsätze für die Arbeit der Pflegeko - einstimmig beschlossen
+- TOP 19: Wohnanlage für demenzkranke Menschen mit angegliederten Wohnungen für Angehörige in Münster-Givenbec - einstimmig beschlossen
+- TOP 20: Wohnen im Alter, Fortschreibung 2005 - einstimmig beschlossen
+- TOP 21: Wirtschaftpläne der Städtische Gesellschaften
+- TOP 21.1: Wirtschaftsplan 2006 der citeq - ohne Beschlussfassung geschoben
+- TOP 21.2: Wirtschaftsplan 2006 - Münster Marketing - einstimmig beschlossen
+- TOP 21.3: Wirtschaftspläne der Stiftungen für das Jahr 2006 - einstimmig beschlossen
+- TOP 21.4: Wirtschaftsplan 2006 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 21.5: Wirtschaftsplan 2006 der Klarastift Service GmbH - einstimmig beschlossen
+- TOP 21.6: Wirtschaftsplan 2006 der Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 22: Bauleitplanung
+- TOP 22.1: Stadtbezirk Mitte
+- TOP 22.1.1: Bebauungsplan Nr. 242: Eisenbahnstraße / Friedrichstraße - einstimmig beschlossen
+- TOP 22.2: Stadtbezirk West
+- TOP 22.2.1: 21. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 22.2.2: Bebauungsplan Nr. 388, 2. Änderung - Beschluss über die Anregungen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 22.3: Stadtbezirk Südost
+- TOP 22.3.1: Bebauungsplan Nr. 497 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 23: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 24: Verschiedenes
