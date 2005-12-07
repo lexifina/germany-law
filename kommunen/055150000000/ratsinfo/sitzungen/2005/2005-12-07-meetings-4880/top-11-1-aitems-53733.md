@@ -1,0 +1,8 @@
+# TOP 11.1: Neufassung der Gebührensatzung für die Wochenmärkte in der Stadt Münster
+
+- Sitzung: 11. Sitzung (Einbringung Etat 2006) (2005-12-07)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/53733
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/32351
