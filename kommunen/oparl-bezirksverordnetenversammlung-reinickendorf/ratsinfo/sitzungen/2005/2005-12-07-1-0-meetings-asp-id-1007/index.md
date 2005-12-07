@@ -1,0 +1,71 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2005-12-07T17:03:00+01:00
+- Ende: 2005-12-07T20:43:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1007
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1007
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=30293
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Konsensliste - überwiesen
+- TOP 3: Dringlichkeitsanträge - (offen)
+- TOP 3.1: Konzept für die Werbung zur Teilnahme an der BVV-Wahl 2006 für die Altersgruppe der 16- bis 18-Jährigen - mit Änderungen in der BVV beschlossen
+- TOP 3.2: Solidarität mit JVC-Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen
+- TOP 3.3: Entwurf des Bezirkshaushaltsplanes Reinickendorf für die Haushaltsjahre 2006 und 2007 (Doppelhaushalt) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Feststellungen - (offen)
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretende Bürgerdeputierte gem. § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Optimierung der Internet-Darstellung des Fontanehauses - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Herz-Defibrillatoren in Reinickendorf - überwiesen
+- TOP 6.3: 8. Mai als Gedenktag für die bedingungslose Kapitulation Hitlerdeutschlands im Land Berlin einführen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Anbindung der Schulsekretariate an das Intranet - überwiesen
+- TOP 6.5: Bessere Gestaltung neuer Hinweisschilder auf Wanderwegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Haltestelle Quickborner Straße auch sonntags anfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Personalfreiheit auf S-Bahnhöfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Fahrradständer vor dem Heimatmuseum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.9: Fahrpläne für Personenfähren auf dem Tegeler See - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.10: Bebauungsplan XX-211 für das Grundstück Elchdamm 174 (Kleingartenkolonie Am See), Ortsteil Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Fußball-WM in Berlin und kein Arzt am Flughafen Tegel? - beantwortet
+- TOP 7.2: Entwicklung der Schülerzahlen - beantwortet
+- TOP 7.3: Fürsorge für Kinder im Bezirk Reinickendorf - beantwortet
+- TOP 7.3.1: Fürsorge für Kinder im Bezirk Reinickendorf - überwiesen
+- TOP 7.3.2: Fürsorge für Kinder im Bezirk Reinickendorf - überwiesen
+- TOP 7.4: Gedenkstättengesamtkonzept - in der BVV zurückgezogen
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Entwurf des Bebauungsplanes XX-289 für die Kolonie Erholung (Auguste-Viktoria-Allee) sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-289 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Entwurf des Bebauungsplanes XX-290 für die Kolonie Schlehbuschweg sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-290 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Entwurf des Bebauungsplanes 12-4 für das Grundstück Waidmannsluster Damm 182 / 194, Oraniendamm 64 - 72 sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-4 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Konzept für Grünpatenschaften - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Bebauungspläne Dorf Heiligensee - überwiesen
+- TOP 9.3: Kontrolle des Parkverbotes am Tegeler See - erledigt
+- TOP 9.4: Ordnungsgemäße Meldung beim Verdacht auf gesundheitsschädigende Umwelteinflüsse gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Spätöffnungsangebot in Kindertagesstätten sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Mahnkreuz für Marinetta Jirkowsky - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Steg und Beschilderung am Tegeler Fließ in Stand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Übergang über die "Sechserbrücke" erleichtern - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Uferbefestigung am Tegeler See in Stand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Kinderspielplatz an der Greenwichpromenade umzäunen - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Zukünftige konzeptionelle Gestaltung der Reinickendorfer Bibliotheken - ohne Änderungen in der BVV beschlossen
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Schulstationen erhalten und auf Hauptschulen ausdehnen - überwiesen
+- TOP 10.2: Ausstattung der Grundschulen im Fach Naturwissenschaft - überwiesen
+- TOP 10.3: Umsetzung der Sparvorgaben bei HzE - überwiesen
+- TOP 10.4: Umbenennung Henricistraße - überwiesen
+- TOP 10.5: Reinickendorfer Schule für landesweite Raumluftstudien melden - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Sicherheitskonzept für das Krankenhaus des Maßregelvollzugs prüfen - überwiesen
+- TOP 11.2: Behindertengerechte S-Bahnzüge für Linie 8 - überwiesen
+- TOP 11.3: Neuregelung für externe Führungen in den Staatlichen Museen zu Berlin - überwiesen
+- TOP 11.4: Schülergerichte - überwiesen
+- TOP 11.5: Sprach-Förderunterricht am Samstag in den Schulen erteilen - überwiesen
