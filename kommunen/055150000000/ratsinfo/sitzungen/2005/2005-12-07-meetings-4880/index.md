@@ -1,0 +1,73 @@
+# 11. Sitzung (Einbringung Etat 2006)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2005-12-07T17:52:00+01:00
+- Ende: 2005-12-07T21:58:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/4880
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/4880
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00226442.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Resolution: Erhalt des Freibades Stapelskotten - eingebracht
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 8: Einbringung der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2006
+- TOP 8.1: Neue Maßnahmen zum Haushaltsplan 2006 und zum Investitionsprogramm 2005 - 2009 - einstimmig beschlossen
+- TOP 8.2: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2006 - einstimmig beschlossen
+- TOP 9: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 3. Vierteljahr - zur Kenntnis genommen
+- TOP 10: Zukünftige Entwicklung der städtischen Bäderlandschaft - mehrheitlich geändert beschlossen
+- TOP 11: Steuern, Gebühren, Tarife und Entgelte
+- TOP 11.1: Neufassung der Gebührensatzung für die Wochenmärkte in der Stadt Münster - einstimmig beschlossen
+- TOP 11.2: Neufassung der Gebührensatzung für das Überlassen von Standplätzen bei Volksfesten - einstimmig beschlossen
+- TOP 11.3: Vergnügungssteuersatzung der Stadt Münster - mehrheitlich beschlossen
+- TOP 11.4: Genehmigung einer Dringlichkeitsentscheidung Gebührensatzung Westfälische Schule für Musik - einstimmig beschlossen
+- TOP 11.5: Abfallgebühren 2006 - einstimmig beschlossen
+- TOP 11.6: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2006 - einstimmig beschlossen
+- TOP 11.7: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 11.8: Straßenreinigungsgebühren 2006 - zur Kenntnis genommen
+- TOP 11.9: Änderung der Gewässergebührensatzung (GGS) - einstimmig beschlossen
+- TOP 11.10: Änderung der Abwassergebührensatzung (AGS) - einstimmig beschlossen
+- TOP 11.11: Änderung der Gebührensatzung für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 12: Erweiterung Zentrum Kinderhaus - von der Tagesordnung abgesetzt
+- TOP 13: Freiherr-vom-Stein-Gymnasium, hier: Aufhebung der Stützungsmaßnahme "Übernahme der Schülerfahrkosten - einstimmig beschlossen
+- TOP 14: Schulbezirke Gottfried-von-Cappenberg-Schule, Grundschule Loevelingloh - einstimmig beschlossen
+- TOP 15: Weiterentwicklung der Berufskollegs: Errichtungsvorhaben der Berufskollegs in städtischer Trägerscha - einstimmig beschlossen
+- TOP 16: Abschluss eines öffentlich-rechtlichen Vertrages - einstimmig beschlossen
+- TOP 17: Satzung über die Festlegung der Höhe des Geldbetrages, der nach § 51 Abs. 5 der Landesbauordnung NRW - von der Tagesordnung abgesetzt
+- TOP 18: Änderung der Geschäftsordnung der Pflegekonferenz Münster in "Grundsätze für die Arbeit der Pflegeko - einstimmig beschlossen
+- TOP 19: Wohnanlage für demenzkranke Menschen mit angegliederten Wohnungen für Angehörige in Münster-Givenbec - einstimmig beschlossen
+- TOP 20: Wohnen im Alter, Fortschreibung 2005 - einstimmig beschlossen
+- TOP 21: Wirtschaftspläne städtischer Gesellschaften
+- TOP 21.1: Wirtschaftsplan 2006 der citeq - mehrheitlich beschlossen
+- TOP 21.2: Wirtschaftsplan 2006 - Münster Marketing - einstimmig beschlossen
+- TOP 21.3: Wirtschaftspläne der Stiftungen für das Jahr 2006 - einstimmig beschlossen
+- TOP 21.4: Wirtschaftsplan 2006 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 21.5: Wirtschaftsplan 2006 der Klarastift Service GmbH - einstimmig beschlossen
+- TOP 21.6: Wirtschaftsplan 2006 der Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 22: Bauleitplanung
+- TOP 22.1: Stadtbezirk Münster-Mitte
+- TOP 22.1.1: Bebauungsplan Nr. 242: Eisenbahnstraße / Friedrichstraße - einstimmig beschlossen
+- TOP 22.2: Stadtbezirk Münster-West
+- TOP 22.2.1: 21. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 22.2.2: Bebauungsplan Nr. 388, 2. Änderung - Beschluss über die Anregungen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 22.3: Stadtbezirk Münster-Südost
+- TOP 22.3.1: Bebauungsplan Nr. 497 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 23: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 24: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 25: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 25.1: Verlagerung von Schwerlastverkehr auf Bundesstraßen stoppen - verwiesen
+- TOP 25.2: Familienzentren für Münster - verwiesen
+- TOP 25.3: Bürger-Forum Kanalausbau in Münster - verwiesen
+- TOP 25.4: Lebenswert und bezahlbar - Münster zukunftsfähig erhalten Städtische Ausgaben an die Einnahmen anpas - verwiesen
+- TOP 26: Verschiedenes
