@@ -1,0 +1,14 @@
+# UA 12 - Raumordnung, Architektur und Verkehr
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2005-12-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/304
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/590344
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/590344
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
