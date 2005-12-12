@@ -1,0 +1,88 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2005-12-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/789800
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/789800
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Wohnen "Am Fürstenrieder Wald"
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: An der Rehwiese 25, 1 Blaufichte
+- TOP 3.2.: Waldgartenstr. 65a, 1 Birke
+- TOP 3.3.: Am Kornacker 18, 1 Tanne
+- TOP 3.4.: Haderunstr. 77, 1 Birke
+- TOP 3.5.: Ettenhoferstr. 11, 1 Birke
+- TOP 3.6.: Buschrosenweg 27, 1 Fichte
+- TOP 3.7.: Plazerstr. 7, 1 Blaufichte
+- TOP 3.8.: Eckermannstr. 15, 1 Schwarzkiefer
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag des FC Neuhadern e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 7.011,36 Euro (Direktorium, 08.11.2005)
+- TOP 6.2.: Antrag der IG "Weihnachtsbaum" auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 500,00 Euro (Direktorium, 08.11.2005)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Budget der Bezirksausschüsse 20% - Pauschale für eigene Veranstaltung (Direktorium, 07.11.2005)
+- TOP 7.2.: Landschaftspark Laim - Hadern - Pasing; Schautafeln, Gehölzlehrpfad, Hecken (BA 21, 11.11.2005)
+- TOP 7.3.: Broschüre "Das Direktorium stellt sich vor" (Direktorium, 16.11.2005)
+- TOP 7.4.: Zweckentfremdung von Wohnraum - Neufriedenheimer Str. (Sozialreferat, 10.11.2005) - Eichenstr. (Sozialreferat, 11.11.2005) - Haseneystr. (Sozialreferat, 02.11.2005)
+- TOP 7.5.: Weitere Bebauung an der Sauerbruchstraße, Sachstand (Referat für Stadtplanung und Bauordnung, 15.11.2005)
+- TOP 7.6.: Anbringung von "Stifterschildern" an vom Bezirksausschuss finanzierten Ruhebänken (Dr. Burkert, 09.11.2005)
+- TOP 7.7.: Christkindlmarkt am Canisiusplatz vom 03.12.2005 mit 04.12.2005, Anordnung für die Ausnahmegenehmigung; Bewilligungsbescheid (KVR, 11.11.2005 und 18.11.2005)
+- TOP 7.8.: Abrechnung Budgetmittel schule-beruf e.V. (Direktorium, 10.11.2005)
+- TOP 7.9.: Lichtzeichenanlage Gräfelfinger-/ Guardinistraße (KVR, 25.10.2005)
+- TOP 7.10.: Bermehrte Lärmbelästigung durch Flugverkehr in der Blumenau (Referat für Gesundheit und Umwelt, 02.11.2005)
+- TOP 7.11.: Bürgerversammlungen mit Multimedia-Präsentation im Jahr 2006 (Direktorium, 31.10.2005)
+- TOP 7.12.: Unveränderte Fortführung des Gaststättenbetriebs, Bodycult (KVR, 03.11.2005)
+- TOP 8.: Anhörungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Streetworker in Hadern (Sozialreferat, 10.11.2005)
+- TOP 9.2.: Verunreinigung der Grün- und Spielflächen durch Hundehalter entlang der Kornwegerstraße (Baureferat, 28.06.2005)
+- TOP 9.3.: Entfernung des Eisengitters am Bolzplatz südlich der Wohnanlage von der Prälat-Wellenhofer-Str. BA-Antrag Nr. 601 vom 29.09.2005 (Baureferat, 14.11.2005)
+- TOP 9.4.: Parken in der Prälat-Wellenhofer-STraße; Verkehrsverhältnisse in der Krokusstraße (KVR, 15.11.2005)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Flächendeckende Aufstellung von 4F-Circle-Bewegungsinseln (Schul- und Kultusreferat, 09.11.2005)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: am 26.10.2005 Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich III/12 und Bebauungsplan mit Grünordnung Nr. 1918 Sauerbruchstraße (westlich)
+- TOP 12.2.: am 06.10.2005 Perspektive München, Bericht zur Stadtentwicklung 2003 a) Anhörung der Bezirksausschüsse, b)Befassung der Fachausschüsse des Stadtrates, c) Entscheidungsvorschlag des Planungsreferates
+- TOP 12.1.: am 23.11.2005 Struktuerelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 08.11.2005 A) Allgemeines zum Thema G8 und IZBB, B) Baumaßnahmen im Zusammenhang mit der Einführung des achtjährigen Gymnasiums (G8) C) Errichtung von Horträumen im Zuge des Mensaneubaus im Schulzentrum Pfarrer-Grimm-Str. 1 im 23. Stadtbezirk - Allach - Untermenzing D) Weitere IZBB-Baumaßnahmen E) Baumaßnahmen im Zusammenhang mit der Einführung des G8
+- TOP 12.2.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.2005 Haushaltsplan 2006 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005 Haushaltsplan 2006, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 12.4.: Beschluss des Bauausschusses vom 18.10.2005 Realisierungsnetz Radfahrverbindungen in München Fortschreibung 2005
+- TOP 12.5.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.2005 Einstellung des Vernetzungsprojektes REGSAM
+- TOP 12.6.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005 Haushaltsplan 2006 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 12.7.: Beschluss des Kinder- und Jugendhilfe- und Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005 Haushaltskonsolidierung - Feinkonzept 2006
+- TOP 12.8.: Beschluss des Kinder- und Jugendhilfeausschusses vom 08.11.2005 Bauvorhaben Errichtung einer Kooperationseinrichtung mit 2 Kindergarten- und 2 Krippengruppen an der Großhaderner Str. 40 im 20. Stadtbezirk Hadern
+- TOP 12.1.: Beschluss des Sozialausschusses vom 01.12.2005 Umwandlung der Unterkünfte in Mietwohnungen Sachstandsbericht
+- TOP 12.2.: Beschluss des Sozialausschusses vom 01.12.2005 Umwandlung der Unterkünfte in Mietwohnungen Sachstansbericht
+- TOP 12.3.: Beschluss des Sportausschusses vom 13.12.2005 Erweiterung der Bezirkssportanlage am Wolkerweg um 1. Kunstrasenplatz und 2. Beachvollyballfelder
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.2005 Förderung von Familien bzw. Haushalten mit Kindern
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.2005 PERSPEKTIVE MÜNCHEN, Leitprojekt Verkehrsentwicklungsplan 2005
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2005 Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörungen der Bezirksausschüsse und der einschlägigen Verbände
+- TOP 12.4.: Beschluss des Ausschusses für Arbeit und Wirtschaft Aufstellen von zwei Litfaßsäulen zur Finanzierung der Jugendfreizeiteinrichtung Euro Skate
+- TOP 12.5.: Bekanntgaben
+- TOP 12.6.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2005 Perspektive München - Münchner Bürgerinnen und Bürgerbefragung 2005
+- TOP 12.7.: Bekanntgabe in der Sitzung des Kulturausschusses vom 08.12.2005 Kultur im Stadtquartier, Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtung, Evaluierung kultureller Zentren, Kulturelle Zentren und Stadtteilwochen
+- TOP 12.8.: Bekanntgabe in der Sitzung des Bauausschusses vom 18.10.2005 Aufbau eines Hochgeschwindigkeitsnetzes durch die Deutsche Telekom AG (T-COM)
+- TOP 12.9.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 28.09.2005 Ergebnisse der Beteiligung der Landeshauptstadt mÜnchen am EU Proijekt des Städtenetzwerkes INTERACT, Kooperative Stadtentwicklung in der Praxis
+- TOP 12.10.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 12.10.2005 Perspektive München - PM Aktuell, Geburtenentwicklung in München
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
