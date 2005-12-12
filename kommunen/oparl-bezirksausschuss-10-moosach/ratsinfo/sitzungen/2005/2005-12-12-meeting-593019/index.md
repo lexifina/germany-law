@@ -1,0 +1,61 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2005-12-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/593019
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/593019
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Nachbesetzung im Unterausschuss Verkehr
+- TOP 1.3.: Bestimmung eines neuen Internet-Beauftragten des BA 10
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Fest Junger Erwachsener "18.jetzt"
+- TOP 3.2.: Bebauungsplan Meiller-Gelände
+- TOP 3.4.: Zunahme des Flugverkehrs über Moosach
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Fitness-Parcour für Moosach
+- TOP 4.2.: Quartierbezogene Kinder- und Jugendarbeit für die Lauinger-/Dillinger-/Pfeilschifter-/Brieger Straße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Montage eines Grünen Abbiegepfeiles an der Kreuzung Pelkovenstr. / Ecke Dachauer Straße; Änderung der Spureinteilung an der Kreuzung Gröbenzeller- /Dachauer Straße (Empfehlungen Nrn. 222 und 224 der Bürgerversammlung am 20.10.2005)
+- TOP 6.: Anhörungen
+- TOP 6.1.: Vollzug der Baumschutzverordnung 1. Pelkovenstr. 103, Fr. Speckner 2. Haylerstr. 27, Fr. Groß 3. Wichertstr. 3 b, Fr. Abdin-Bey 4. Wichertstr. 27, Fr. Abdin-Bey 5. Allacher Str. 123, Hr. Wimmer 6. Simmerleinplatz 10, Fr. Wocher
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Warmlaufenlassen von KFZ in der kalten Jahreszeiot (Anfrage aus der Bürgerversammlung am 20.10.05)
+- TOP 7.2.: Kinderkrippe der Arbeiterwohlfahrt in Moosach
+- TOP 7.3.: Stadtgestalt und neue Architektur
+- TOP 7.4.: Zunahme des Flugverkehrs über Moosach (Anfrage aus der Bürgerversammlung am 20.10.05)
+- TOP 7.5.: Installierung einer Laterne in der Grünanlage Karlingerstr. / Karl-Lipp-Straße
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Budget der Bezirksausschüsse; 20 %-Pauschale für eigene Veranstaltungen
+- TOP 8.2.: Einsatz von Felsgestein zur Schonung der Baumbepflanzung
+- TOP 8.3.: Ausbau Ludwigsfelder Straße
+- TOP 8.4.: Ergebnisprotokoll der Informationsveranstaltung im KVR
+- TOP 8.5.: Kultur im Stadtquartier
+- TOP 8.6.: Anbringung von "Stifterschildern" an vom Bezirksausschuss finanzierten Ruhebänken
+- TOP 8.8.: Fällungsgenehmigungen 1. Abbachstr. 10 und 12 2. Pirschstr. 2 / 2 a
+- TOP 8.9.: Die Münchner Baumschutzverordnung ( vertagt, Änderungsantrag eingebracht)
+- TOP 8.10.: Förderung von Familien bzw. Haushalten mit Kindern
+- TOP 8.11.: Bebauungsplan mit Grünordnung Nr. 1903; Memminger Platz, Untermenzinger Str., Allacher Str., Bahnlinie München-Regensburg; - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss -
+- TOP 8.12.: Projektförderung "Betreutes Wohnen zu Hause", "Wohnen und Daheim"
+- TOP 8.13.: Pespektive München; Leitprojekt Verkehrstentwicklungsplan 2005
+- TOP 8.14.: Fällung von Gefahrenbäumen
+- TOP 8.15.: Meldeliste Bauvorhaben
+- TOP 8.16.: Kreisjugendring; Haushaltskonsolidierung 2007 bis 2011
+- TOP 8.17.: Zweckentfremdung von Wohnraum: Haldenbergerstraße
+- TOP 8.7.: Änderung der Aufgangslage am Westkopf des U-Bahnhofs am Moos. St.-Martins-Platz
+- TOP 4: Anträge
