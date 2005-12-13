@@ -1,0 +1,112 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2005-12-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/567029
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/567029
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Parkplatzsituation im Viertel St.-Bonifatius-Str. / Tegernseer Landstraße / Helig-Kreuz-Kirche; Bürgerschreiben vom 07.11.2005 - <div>vertagt in die Januar Sitzung</div>
+- TOP 2.2.: Schneeräumung im Bereich Werinher-, St.-Martin- und Severinstraße; Schreiben des Heimfürsprechers im Münchenstifthaus St. Martin vom 13.12.2005 - <div>Weiterleitung an das Baureferat</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3.: Anträge/Anfragen
+- TOP 3.1.: Baumfällungen im 17. Stadtbezirk; Teilnahme des Bezirksausschusses an Begutachtungsterminen des Baureferats/Gartenbau; Antrag des UA Umwelt vom 05.12.2005 - <div>vertagt in die Januar-Sitzung</div>
+- TOP 3.2.: Vorstellung und Fokussierung der ¿Bürgerbefragung 2005¿ auf den Münchner Südosten (Obergiesing); Antrag der SPD-Fraktion vom 12.12.2005 - <div>nach Antrag</div>
+- TOP 3.3.: Darlegung, inwiefern die Erhaltungssatzung durch Modelle der Objektförderung ersetzt werden kann; Antrag der SPD-Fraktion vom 12.12.2005 - <div>nach Antrag</div>
+- TOP 4.: Budget
+- TOP 4.1.: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse AntragstellerIn: Freunde Giesings e. V.; für die Maßnahme: Giesinger Hoagart¿n am 24.11.2005; Antragssumme: 438.- ¿; Beschlussvorlage des Direktoriums vom 25.11.2005 - <div>Zustimmung</div>
+- TOP 4.2.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.3.: Budget der Bezirksausschüsse; 20 % - Pauschale für eigene Veranstaltungen; Schreiben des Direktoriums vom 07.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.4.: Beschlussfassung über die Finanzierung des Neujahrsempfangs 2006 des BA 17 in Höhe von bis zu 2.000,-- Euro - <div>Zustimmung</div>
+- TOP 4.5.: Unterausschüsse
+- TOP 4.1.: UA 17 - Bau und Planung - 07.12.2005
+- TOP 4.2.: UA 17 - Bau und Planung - 28.11.2005
+- TOP 4.1.: Antrag auf Genehmigung von Warenstellagen nach Art. 18 Abs. 1 BaystrWG (§ 8 BFStrG) bzw. §§ 33 Abs. 1 i. V. m. 46 Abs. 1 StVO; Zuleitung des Kreisverwaltungsreferat/Bezirksinspektion Süd vom 08.11.2005 mit der Bitte um Stellungnahme 5.1.3.1.1 Warenstellage in der Tegernseer Landstraße 5.1.3.1.2 Warenstellage in der St.-Bonifatius-Straße - <div>Zustimmung</div>
+- TOP 4.2.: Erweiterung einer Freischankfläche auf öffentlichem Verkehrsgrund, Tegernseer Landstraße; Zuleitung des Kreisverwaltungsreferats/Bezirksinspektion Süd mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 4.3.: Fasangartenstraße zwischen Tegernseer Landstraße und Kreuzbichlweg im 17. Stadtbezirk Obergiesing, Verbesserung; Beschlussentwurf für die Sitzung des Bauausschusses am 06.12.2005; Zuleitung des Baureferats mit der Bitte um Stellungnahme(bereits durch den BA-Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung entschieden) - <div>Zustimmung bzw. Kenntnisnahme</div>
+- TOP 4.4.: Vollzug von § 13 der BA-Satzung; Katalog Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung, Chiemgaustraße/Giesinger Bahnhofstraße, Neubau eines Gebäudes mit Lagerflächen (Selfstorageanlage); Vorbescheid; (bereits durch den BA-Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung entschieden) - <div>Zustimmung bzw. Kenntnisnahme</div>
+- TOP 4.5.: Vollzug von § 13 der BA-Satzung; Katalog Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung; Schlierseestraße, Anbau einer Cafeteria an eine Schule als Maßnahme für IZBB G8; Zuleitung des Referats für Stadtplanung und Bauordnung vom 05.12.2005 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 4.6.: Vollzug von § 13 der BA-Satzung; Katalog Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen); Giesinger Bahnhofplatz; 1 Mega-Light Werbeanlage (Wandmontage); Zuleitung des Referats für Stadtplanung und Bauordnung vom 01.12.2005 mit der Bitte um Stellungnahme - <div>Ablehnung</div>
+- TOP 4.1.: Baufälle im 17. Stadtbezirk - <div>zur Kenntnis genommen</div>
+- TOP 4.2.: Perspektive München, Leitprojekt Verkehrsentwicklungsplan 2005; a) Ergebnis der Öffentlichkeitsbeteiligung, b) Ergebnisse und Entscheidungsvorschlag, c) Anträge; Sitzungsvorlage Nr. 02-08/V 07218; Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 30.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 5.1.4.3.1 Anwesen in der Schwanseestr.; Mitteilung vom 10.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.4.: Unveränderte Fortführung von Gaststätten, Unterrichtung durch das Kreisverwaltungsreferat 5.1.4.4.1 Speiseeiswirtschaft ¿Eiscafe Waltina¿;Schwanseestraße; Mitteilung vom 17.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.5.: Tegernseer Landstraße; Errichtung einer hinterleuchteten Wechselwerbeanlage auf Monofuß; Urteil des Verwaltungsgerichts München vom 24.10.2005; Zuleitung des Referats für Stadtplanung und Bauordnung vom 29.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.1.: UA 17 - Familie, Soziales, Ausbildung - 07.12.2005
+- TOP 4.1.: Flächendeckende Aufstellung von 4F-Circle-Bewegungsinseln; Schreiben des Schul- und Kultusreferats/Sportamt vom 09.11.2005 mit der Bitte um Rückäußerung - <div>Einladung eines Referatsvertreters</div>
+- TOP 4.1.: A) Allgemeines zum Thema G 8 und Investitionsprogramm "Zukunft Bildung und Betreuung" (IZBB), B) Baumaßnahmen im Zusammenhang mit der Einführung des achtjährigen Gymnasiums (G 8), C) Errichtung von Horträumen im Zuge des Mensaneubaus im Schulzentrum Pfarrer-Grimm-Str. 2 im 23. Stadtbezirk Allach - Untermenzing, D) Weitere IZBB-Baumaßnahmen, E) Baummaßnahmen im Zusammenhang mit der Einführung des G 8, Dringlichkeitsantrag Nr. 02-08/A 02556 der CSU-Fraktion des Stadtrats vom 13.07.2005; Sitzungsvorlage Nr.: 02-08/V 06964; Beschluss des Schulausschusses des Stadtrats vom 09.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.2.: Förderung von Familien bzw. Haushalten mit Kindern; a) Anträge, aa) Erbbaumodell für Familien mit Kindern, ab) Bezahlbarer Wohnraum für Familien; ac) Pilotprojekt für Erbbaumodelle für Familien mit Kindern, b) Verbesserung bei der Kinderkomponente im München Modell; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.3.: Fortführung von Streetwork und Einrichtung zweier weiterer Stellen zur (Mit-)Betreuung Obergiesings - insbesondere im Bereich des Giesinger Bahnhofs; Antrag des BA 17 vom 12.07.2005; Antwortschreiben des Sozialreferats vom 09.11.2005 - <div>Wiedervorlage im Jahr 2006</div>
+- TOP 4.4.: Haushaltsplan 2006, Produkt- und zieloreintierte Ansätze für den Bereich "förderung freier Träger" des Stadtjugendamtes; Sitzungsvorlage Nr. 02-08 / V 06733; Neufassung vom 10.10.2005; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.10.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.5.: Schulhof- / Sportplatzöffnung; Öffnung des Sportplatzes der Schule an der Perlacher Straße / Sintpertstraße; Antrag des BA 17 vom 14.06.2005; Antwortschreiben des Schul- und Kultusreferats vom 09.11.2005 - <div>Wiedervorlage im März 2006</div>
+- TOP 4.6.: Perspektive München; Familienfreundlichkeitsprüfung - ein Beitrag zur familien- und kinderfreundlichen Stadtentwicklung; Leitlinie Kinder- und Familienpolitik; Sitzungsvorlage Nr. 02-08 / V 07194; Beschluss des Kinder- und Jugendhilfeausschusses vom 29.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.1.: Abgestellte Motorräder auf dem Gehweg Deisenhofener Str.; Bürgerschreiben vom 27.09.2005 (vertagt aus der Sitzung am 15.11.2005) - <div>Schreiben an das Kreisverwaltungsreferat</div>
+- TOP 4.2.: UA 17 - Verkehr - 05.12.2005
+- TOP 4.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Minnewitstraße; Zuleitung des Kreisverwaltungsreferats vom 12.12.2005 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 4.2.: Vereinbarung zwischen dem Bund und der Landeshauptstadt München über die Übernahme der Straße in der Wohnanlage im Perlacher Forst; Anhörung gemäß § 3 der BA-Satzung; Zuleitung des Baureferats vom 25.11.2005 mit der Bitte um Stellungnahme 5.3.3.2.1 Lincolnstraße 5.3.3.2.2 Wikinger Straße 5.3.3.2.3 Leifstraße - <div>in den UA Verkehr vertagt</div>
+- TOP 4.1.: Verkehrssicherheit an der Fußgängerampel Silberhornstraße; Bürgeranliegen aus der Sitzung am 13.09. und 11.10.2005; Antwortschreiben des Kreisverwaltungsreferats vom 04.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.2.: Strukturelles Umsetzungskonzept für die Verwirklichung von vekehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln; Sitzungsvorlage Nr. 02-08 / V 07064; Beschluss der Vollversammlung des Stadtrates vom 23.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.3.: Realisierungsnetz Radfahrverbindungen in München Fortschreibung 2005; Offensive für den Radverkehr I - Konzept für eine konsequente Umsetzung des VEP-R entwickeln, II- Radverkehrslücken entlang von Hauptvekehrsstraßen schließen, VI - Radtourismus und Freizeitradeln durch spezielle Angebote und attraktive Routen unterstützen; Sitzungsvorlage Nr. 02-08 / V 06223; Beschluss des Bauausschusses vom 18.10.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.4.: Gehwegseinebnungen an der Trambahnhaltestelle Silberhornstraße; Antrag des BA 17 vom 13.09.2005; Antwortschreiben des Baureferats vom 09.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.1.: UA 17 - Umwelt - 05.12.2005
+- TOP 4.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Anhörung über Baumfällungen auf dem Gebiet des 17. Stadtbezirks; Zuleitung des Baureferats vom 23.11.2005 mit der Bitte um Stellungnahme - <div>siehe TOP 3.1</div>
+- TOP 4.1.: Erhöhung der Anzahl der Anlagenaufseher in den städtischen Grünanlagen; Antrag des BA 17 vom 11.10.2005; Antwortschreiben des Baureferats vom 21.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.2.: Deckelung des McGraw-Grabens durch Solaranlagen finanzieren; Antrag von Herrn Stadtrat Pretzl; Beschluss des Bauausschusses vom 15.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.3.: Einsatz von Felsgestein zur Schonung der Baumbepflanzung; Empfehlung Nr. 02 - 08/ E 00059 der Bürgerversammlung des 2. Stadtbezirks Ludwigsvorstadt-Isarvorstadt am 03.05.2005; Beschluss des Bauausschusses vom 06.12.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.4.: Vollzug der Baumschutzverordnung; Mitteilungen der Unteren Naturschutzbehörde 5.4.4.4.1 Anwesen in der Frasdorfer Straße; Genehmigungsbescheid vom 21.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 4.1.: Vorschlag des Unterausschusses im Jahr 2006 eine eigene Veranstaltung zu organisieren / durchzuführen (evtl. Tegernseer Landstraße etc.) - <div>vertagt in die Januar-Sitzung</div>
+- TOP 4.2.: UA 17 - Kultur, Vereine, Initiativen - 07.12.2005
+- TOP 4.1.: Kultur im Stadtquartier, Kultur Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen, Evaluierung kultureller Zentren, Kulturelle Zentren und Stadtteilwochen;- Bekanntgabe in der Sitzung des Kulturausschusses vom 08.12.2005 - <div>zur Kenntnis genommen</div>
+- TOP 6.: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.: Anbringen von "Stifterschildern" an vom Bezirkausschuss finanzierten Ruhebänken; Antrag des BA 6 Sendling; Schreiben der 2. Bürgermeisterin Dr. Gertraud Burkert vom 09.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Neue Partnerfiliale der Post in der Fasangartenstraße; Mitteilung des Referats für Stadtplanung und Bauordnung vom 07.11.2005 - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte der Beauftragten
+- TOP 7.7.1: Ausländer/Innen
+- TOP 7.7.2: Baumschutz
+- TOP 7.7.2.1: Einzelfälle
+- TOP 7.1.: 7.2.1.1 Anwesen in der Arzberger Straße; Anhörung vom 16.11.2005 - <div>Keine Stellungnahme</div>
+- TOP 7.7.2.2: Baumbestandspläne
+- TOP 7.1.: 7.2.2.1 Anwesen in der Schwandorfer Straße; Anhörung vom 21.11.2005 - <div>Zustimmung</div>
+- TOP 7.2.: 7.2.2.2 Anwesen in der Schwarzenbacher Straße; Anhörung vom 05.12.2005 - <div>Zustimmung</div>
+- TOP 7.7.3: Behinderte
+- TOP 7.7.4: Frauen
+- TOP 7.7.5: Kinder
+- TOP 7.7.6: Senioren/Innen
+- TOP 7.7.7: Stadtteilpartnerschaft Colerain Township, Ohio, USA
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 4.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 4.5.5.1: Bericht
+- TOP 4.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 4.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
