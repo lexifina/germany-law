@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Auschusses für Finanzen und Beteiligungssteuerung
+
+- Körperschaft: Instance 0001
+- Beginn: 2005-12-13T16:05:00+01:00
+- Ende: 2005-12-13T17:50:00+01:00
+- Ort: Rathaus Barmen, Altbau, Sitzungszimmer 260
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/81
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3644
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3644
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00060293.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00061257.pdf
+
+## Tagesordnung
+
+- TOP 1: Durchführungsbeschluss - Gründung eines Zweckverbandes Weiterbildung - ungeändert beschlossen
+- TOP 2: Neuausrichtung der Versorgungs- und der Verkehrssparte der Wuppertaler Stadtwerke AG - ungeändert beschlossen
+- TOP 2.1: Dringlichkeits-Antrag "Rechte der Stadt und des Rates sichern - keine weiteren Zugeständnisse an das - in der Sache erledigt
+- TOP 2.1.1: Finanzierung des Ausbaus der Schwebebahn - Antrag der FDP-Fraktion Drs. VO/1533/05 - Entgegennahme ohne Beschluss
+- TOP 3: Jahresabschluss 2004 des GMW - ungeändert beschlossen
+- TOP 4: Bericht zum Jahresabschluss 2004 der Delphin Vermögensverwaltung GmbH & Co. KG - Entgegennahme ohne Beschluss
+- TOP 5: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2004/2005 - ungeändert beschlossen
+- TOP 6: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2005/2006 - ungeändert beschlossen
+- TOP 7: Abschluss des ESW für das Geschäftsjahr 2004 - ungeändert beschlossen
+- TOP 8: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2006 - statio - Entgegennahme ohne Beschluss
+- TOP 9: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2006 - Nebenb - Entgegennahme ohne Beschluss
+- TOP 10: Wirtschaftsführung des Eigenbetriebes ESW für das Jahr 2006 - ungeändert beschlossen
+- TOP 11: Wirtschaftsplanung KIJU 2006 - Entgegennahme ohne Beschluss
+- TOP 12: Kündigungen in den Helios-Kliniken GmbH Wuppertal - Entgegennahme ohne Beschluss
+- TOP 13: Bestellung des Wirtschaftsprüfers für den Jahresabschluss 2005 der HKWG - ungeändert beschlossen
+- TOP 14: Berichte und Mitteilungen
+- TOP 23: Finco 10/2005 - Entgegennahme ohne Beschluss
+- TOP 24: Stand der Schulden und Kassenkredite zum 30.11.2005 - Entgegennahme ohne Beschluss
+- TOP 25: Kategorisierung und Priorisierung der Investitionen des Vermögenshaushalts 2006/2007 - ungeändert beschlossen
+- TOP 26: Haushaltssicherungskonzept 2006/2007 - zur Vorberatung verwiesen
+- TOP 27: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2006/2007 - zur Vorberatung verwiesen
+- TOP 28: Empfehlungen der Fachausschüsse zum Haushaltsplan-Entwurf 2006/2007 - zur Vorberatung verwiesen
+- TOP 29: Empfehlungen der Bezirksvertretungen zum Haushaltsplan-Entwurf 2006/2007 - zur Vorberatung verwiesen
+- TOP 30: Finanzierung OGGS und des kostenlosen Mittagessens - zur Vorberatung verwiesen
+- TOP 31: Satzung über die Straßenreinigung und den Winterdienst sowie der dafür zu erhebenden Gebühren 2006 - geändert beschlossen
+- TOP 32: Winterdienstgebühren - in der Sache erledigt
+- TOP 33: Gebührensatzung zur Abfallwirtschaftssatzung für das Jahr 2006 - ungeändert beschlossen
+- TOP 34: Satzungen der Stadtentwässerung - zur Vorberatung verwiesen
+- TOP 34.1: Satzungen der Stadtentwässerung - zur Vorberatung verwiesen
+- TOP 35: Zweite Satzung zur Änderung der Hundesteuersatzung vom 15.12.2000 - ungeändert beschlossen
+- TOP 36: Vergnügungssteuersatzung - ungeändert beschlossen
+- TOP 37: Erste Satzung zur Änderung der Satzung über die Erhebung einer Zweitwohnungssteuer - ungeändert beschlossen
+- TOP 38: Dringlichkeitsantrag "Zweitwohnungssteuersatzung" - abgelehnt
+- TOP 39: Neubau der Brücke Buchenhofen - ungeändert beschlossen
+- TOP 40: Berichte und Mitteilungen
