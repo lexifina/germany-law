@@ -1,0 +1,73 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2005-12-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/611271
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/611271
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: LKW-Einfahrt der Firma Süd-Grima in der Theodor-Kitt-Straße (Vertagung aus der BA-Sitzung vom 08.11.05)
+- TOP 1.2.: Kein Fahrbahndurchstich in Verlängerung der Angerlohstraße zur Ludwigsfelder Straße
+- TOP 1.3.: Ampelanlage Eversbuschstraße / Paul-Ehrlich-Weg; Nachtbetrieb
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Antrag auf Zuschuss aus dem Budget in Höhe von 2.799 Euro für Ausstattung; Antragsteller: Jugendclub Allach
+- TOP 4.2.: Antrag auf Zuschuss aus dem Budget in Höhe von 1.500 Euro für die Erneuerung des Fußbodens im Vereinsheim; Antragsteller: IG der Vereine Allach-Untermenzing e. V.
+- TOP 4.3.: Betrieb der Ampelanlagen an der Kreuzung Eversbuschstraße / Paul-Ehrlich-Weg (Aktivierung für Fußgänger nachts auf Knopfdruck) und Franz-Nißl-Straße / Vesaliusstraße ( Abschaltung in der Nacht )
+- TOP 5.: Anhörungen
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 6.1.: Verkehrsplanung Münchner Weste, Verbindungsstraße Angerlohe / Ludwigsfelder Straße; Aufnahme von Verhandlungen mit der Firma Krauss Maffei zur Überlassung der Werkstraße auf Miet - oder Mietkaufbasis
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 7.1.: Anbringung von "Stifterschildern" an vom BA finanzierten Ruhebänken
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Broschüre " Das Direktorium stellt sich vor "
+- TOP 8.2.: Budget der Bezirksausschüsse; 20 % - Pauschale für eigene Veranstaltungen
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Unterrichtung über das Fällen von Gefahrenbäumen, Lochholz
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Z 283 Krauss-Maffei-Straße
+- TOP 10.2.: Auenbruggerstraße; eingeschränktes Haltverbot
+- TOP 10.3.: Maßnahmen zur Verkehrssicherheit in der Jestelstraße
+- TOP 10.4.: Brückestraße; Aufhebung eines absoluten Haltverbots
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO a) Eversbuschstr. 37, 1 Fichte und 2 Eschen b) Finsterwalderstr. 8, s. Baumbestandsplan Nr. 2005-30139 c) Finsterwalderstr. 8, s. Baumbestandsplan Nr. 2005-30133 d) Friedhofgasse 7, 1 Esche, 1 Erle und eine Birke e) Ludwigsfelder Str. 140, s. Baumbestandsplan Nr. 2005-28155 f) Ludwigsfelder Str. 152, s. Baumbestandsplan Nr. 2005-28156 g) Menzinger Str. 122 a, s. Baumbestandsplan Nr. 2005-28970 h) Riezlerweg 64, 1 Zypresse i) Eversbuschstr. 138, 3 Robinien j) Allacher Str. 194/196, Francestr. 3+5, 1 Pappel, 1 Baumhasel, 1 Schwarzkiefer, 2 Ahorn k) Karl-Geyer-Str. 3, 2 Holundersträucher l) Lossenstr. 8a, s. Baumbestandsplan Nr. 2005-31635
+- TOP 11.2.: Verbindungsstraße Angerlohe / Ludwigsfelder Straße; Aufnahme von Verhandlungen mit der Firma Krauss Maffei zur Überlassung der Werkstraße auf Miet- oder Mietkaufbasis
+- TOP 11.3.: Bauanträge ( v. 07.11.-13.11.,14.11.-20.11., 21.11.-27.11.05 )
+- TOP 11.4.: Theodor-Kitt-Str. 30, Anfrage wegen Zufahrt
+- TOP 11.5.: Karl-Gayer-Str.6; Ablehnung der beantragten Fällung
+- TOP 11.6.: Grünspechtstr. 8; Bestätigung, dass zur Fällung beantragte Birke nicht der BaumschutzVO unterliegt
+- TOP 11.7.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/20, Untere Angerlohe
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: Flächendeckende Aufstellung von 4F-Circle-Bewegungsinseln
+- TOP 13.2.: Stadtteilbezogenes Verzeichnis der städtischen Kindertageseinrichtungen, Kooperationseinrichtungen und Tagesheime
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Genehmigung der Zweckentfremdung durch Abbruch; Vorherstraße
+- TOP 14.2.: Genehmigung der Zweckentfremdung durch Abbruch, Pfarrer-Grimm-Straße
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Stadtrats - und Ausschussbeschlüsse
+- TOP 20.1.: Kinder- und Jugendhilfeausschuss und Sozialausschuss in gemeinsamer Sitzung vom 11.10.05: Haushaltsplan 2006; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migartion
+- TOP 20.2.: Ausschuss für Stadtplanung und Bauordnung vom 09.11.05: - Perspektive München, Münchner Bürgerinnen - und Bürgerbefragung 2005 - Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der BAs und der einschlägigen Verbände - Bebauungsplan mit Grünordnung Nr. 1904 Georg-Reismüller-Straße (östlich), Ludwigsfelder Straße (südlich), Bahnlinie München - Treuchtlingen (westlich) und östliche Verlängerung der Höcherstraße
+- TOP 20.3.: Vollversammlung vom 23.11.05: -A) Allgemeines zum Thema G 8 und IZBB, B) Baumaßnahmen im Zusammenhang mit der Einführung des achtjährigen Gymnasiums (G8), C) Errichtung von Horträumen im Zuge des Mensaneubaus im Schulzentrum Pfarrer-Grimm-Str. 1, D) Weitere IZBB-Baumaßnahmen, E) Baumaßnahmen im Zusammenhang mit der Einführung des G8 -Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 20.4.: Kinder- und Jugendhilfeausschuss vom 29.11.05: - Perspektive München, Familienfreundlichkeitsprüfung - ein Beitrag zur familien- und kinderfreundlichen Stadtentwicklung; Leitlinie Kinder- und Familienpolitik
+- TOP 20.5.: Umweltausschuss vom 29.11.05: Lärmminderungsplan für München, EU-Umgebungslärmrichtlinie
+- TOP 20.6.: Ausschuss für Stadtplanung und Bauordnung vom 30.11.05: - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/20, Georg-Reismüller-Straße (östlich), Ludwigsfelder Straße (südlich), Bahnlinie München-Treuchtlingen (westlich), endgültiger Beschluss - Förderung von Familien bzw. Haushalten mit Kindern - Perspektive München, Leitprojekt Verkehrsentwicklungsplan 2005
+- TOP 20.7.: Bauausschuss vom 06.12.05: - Einsatz von Felsgestein zur Schonung der Baumbepflanzung - Ausbau Ludwigsfelder Straße
+- TOP 20.8.: Kulturausschuss vom 08.12.05: - Kultur im Stadtquartier, Kultur-Kataster zur räumlichen Verteilung der städt. Kultureinrichtungen, Evaluierung kultureller Zentren, Kulturelle Zentren und Stadtteilwochen
+- TOP 21: Verschiedenes
+- TOP 22.1.: Barrierefreie Zugänglichkeit bei BA - Sitzungen
+- TOP 22: Schreiben des Behindertenbeauftragten der LH München
