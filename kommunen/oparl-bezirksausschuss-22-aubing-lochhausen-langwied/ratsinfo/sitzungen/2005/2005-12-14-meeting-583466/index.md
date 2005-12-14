@@ -1,0 +1,54 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2005-12-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/583466
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/583466
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Straßenführung in Lochhausen
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: S-Bahnstation Westkreuz, 1. Sauberkeit, 2. Behindertengerechte Gestaltung durch Erhöhung des Bahnsteigs oder Einrichtung von Rampen; Empfehlung Nr. 130 der Bürgerversammlung vom 23.06.05
+- TOP 5.2.: Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Grundschule an der Wiesentfelser Str.
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz, Anhörungen zu Baumfällungen
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Wanderung der "Wanderfreunde München Neuaubing e.V." am 17.12.05 und 18.12.05
+- TOP 6.3.: Bebauungsplan mit Grünordnung Fabrikstraße/Industriestraße (südlich), Elisabeth-Jost-Straße (westlich) (Teiländerung des Beb.Pl.Nr. 806 a)
+- TOP 6.4.: Verkehrsgerechter Straßenausbau der Bahnunterführung Bergsonstraße; Empfehlung Nr. 122 der Bürgerversammlung vom 23.06.05
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Flächendeckende Aufstellung von 4F-Circle-Bewegungsinseln, Schr. des Schul- und Kultusreferates vom 09.11.05
+- TOP 7.2.: Abringung von "Stifterschildern" an vom Bezirksausschuss finanzierten Ruhebänken, Schr. Bürgermeisterin Dr. Burkert vom 09.11.05
+- TOP 7.3.: Zweckentfremdung von Wohnraum, Giechstr. 39, Schr. des Sozialreferates vom 15.11.05
+- TOP 7.4.: Baufälle im 22. Stadtbezirk (v. 14.-20.11.05, v. 21.-27.11.05)
+- TOP 7.5.: Antrag vom auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: GS an der Wiesentfelser Str.
+- TOP 7.6.: Verkehrsrechtliche Anordnung, B 2 neu; A 99; Bodenseestraße; Verkehrsbeschilderungen; Schr. des KVR vom 17.11.05
+- TOP 7.7.: Stadtteilbezogenes Verzeichnis der städtischen Kindertageseinrichtungen, Kooperationseinrichtungen und Tagesheime, Schr. des Schul- und Kultusreferates 11/05
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Straßenbeschilderung und Schutzgitter am Zugang Kindergarten Pretzfelder Straße, Schr. des Baureferates vom 09.11.05 und 21.11.05 zum BA-Antrag Nr. 597 vom 27.09.05
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Kulturausschuss vom 08.12.05 - Kultur im Stadtquartier
+- TOP 9.2.: Ausschuss für Stadtplanung und Bauordnung vom 30.11.05 - Bebauungsplan mit Grünordnung Nr. 1703 Schussenrieder Str., Schubinweg und Amelbrechtweg - Perspektive München, Leitprojekt Verkehrsentwicklungsplan 2005 - Bebauungsplan mit Grünordnung Nr. 1729 a - Böhmerweiher - - Förderung von Familien bzw. Haushalten mit Kindern - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 1977 Aubing-Ost-Str. (südlich), Hornberger Str. (südlich), Bahnlinie München-Pasing-Buchloe (nördlich), Berberichweg (östlich)
+- TOP 9.3.: Kinder- und Jugendhilfeausschuss vom 29.11.05 - Perspektive München, Familienfreundlichkeitsprüfung - ein Beitrag zur familien- und kinderfreundlichen Stadtentwicklung
+- TOP 9.4.: Bauausschuss vom 06.12.05 - Einsatz von Felsgestein zur Schonung der Baumbepflanzung
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 18.01.2006, Gaststätte "Wienerwald", Limesstr. 63
