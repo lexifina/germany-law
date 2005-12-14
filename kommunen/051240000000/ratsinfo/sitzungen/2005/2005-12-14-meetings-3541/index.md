@@ -1,0 +1,114 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2005-12-14T16:04:00+01:00
+- Ende: 2005-12-14T16:35:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3541
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/3541
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen-Stand:30.11.05 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00060197.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten - vertagen
+- TOP 1.1: Kategorisierung und Priorisierung der Investitionen des Vermögenshaushalts 2006/2007
+- TOP 1.2: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2006/2007
+- TOP 1.3: 2. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2006 / 2007
+- TOP 1.4: Empfehlungen der Bezirksvertretungen zum Haushaltsplan-Entwurf 2006/2007
+- TOP 1.4.1: Toilettenanlage Neumarkt
+- TOP 1.5: Empfehlungen der Fachausschüsse zum Haushaltsplan-Entwurf 2006/2007
+- TOP 1.6: Fraktionsanträge zum Haushaltsplan-Entwurf 2006 / 2007
+- TOP 1.6.1: Haushaltsplanberatungen
+- TOP 1.6.2: Haushaltsplanberatungen
+- TOP 1.6.3: Haushaltsänderungsantrag: Finanzierung der Arbeit von Tacheles e.V.
+- TOP 1.6.4: Änderungsantrag Finanzierung der Arbeit des FrauenNotruf e. V.
+- TOP 1.6.5: Haushaltsplanberatungen
+- TOP 1.6.6: Antrag zum Haushaltsplanentwurf 2006/2007: Aufgabenkritik, Benchmarking, Prozessoptimierung konseque
+- TOP 1.7: Einzeldrucksachen mit Auswirkungen auf den Haushaltsplan-Entwurf 2006 / 2007
+- TOP 1.7.1: Finanzierung OGGS und des kostenlosen Mittagessens
+- TOP 1.8: Einwendungen gegen den Haushaltsplan-Entwurf 2006 / 2007
+- TOP 1.9: 3. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2006 / 2007
+- TOP 1.10: Haushaltssatzung 2006 / 2007
+- TOP 1.11: Beschlüsse zum Investitionsprogramm 2006 - 2010 zur mittelfristigen Finanzplanung
+- TOP 1.12: Haushaltssicherungskonzept 2006/2007
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Kosten von Gutachten
+- TOP 2.2: Zukunft der Herbringhauser Talsperre
+- TOP 2.3: Kurbad in der Bilanz des Gebäudemanagements Wuppertal
+- TOP 2.4: Anfrage Schwebebahnausbau
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO
+- TOP 3.1: Bürgerantrag zur Änderung der Baumschutzsatzung - erledigt durch Beschluss zu einem anderen TOP
+- TOP 3.1.1: Änderung der Baumschutzsatzung - erledigt durch Beschluss zu einem anderen TOP
+- TOP 3.1.2: Deregulierung: Abschaffung der Baumschutzsatzung - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Fortschreibung des Umweltmanagementhandbuches - ungeändert beschlossen
+- TOP 4.2: Keine personelle Ausweitung des Vorstandes bei den WSW - vertagen
+- TOP 4.3: Ansiedlung von Discountern und anderen großflächigen Einzelhandel - Rückstellung von Entscheidungen - vertagen
+- TOP 4.4: Aufhebung von nicht mehr geeigneten Bebauungsplänen - vertagen
+- TOP 4.5: Anlegen von Radwegen - abgesetzt
+- TOP 4.6: Nachtfahrverbot für LKW in Wuppertaler Wohngebieten - abgesetzt
+- TOP 4.7: Resolution - Wirtschaftliche Betätigung der Kommunen sichern - ungeändert beschlossen
+- TOP 4.8: Dringlichkeits-Antrag "Rechte der Stadt und des Rates sichern - keine weiteren Zugeständnisse an das - in der Sache erledigt
+- TOP 4.8.1: Finanzierung des Ausbaus der Schwebebahn - Antrag der FDP-Fraktion Drs. VO/1533/05 - Entgegennahme ohne Beschluss
+- TOP 4.9: Resolution zum Schutz von Nichtrauchern in Wuppertal - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Ausschilderung Zoo im Stadtgebiet Wuppertal - Zusatz "Universitätsstadt" Wuppertal - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.1.1: Ergänzungsantrag zu VO/0917/05 der CDU-Fraktion - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.1.2: Kultureller Wegweiser durch Wuppertal - Entgegennahme ohne Beschluss
+- TOP 5.1.3: Zusatzschild "Universitätsstadt" - ungeändert beschlossen
+- TOP 5.2: Resolution: "Grundschulbezirke beibehalten" - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.2.1: Erhalt der Schulbezirksgrenzen - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.2.2: Grundschulbezirke abschaffen, Elternwahlrecht ermöglichen, Schulen stärken - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.2.3: Grundschulbezirke erhalten - abgesetzt
+- TOP 5.2.4: Schulbezirksgrenzen sind Aufgabe kommunaler Selbstverwaltung - ungeändert beschlossen
+- TOP 5.2.5: Einsetzung einer ExpertInnenkommission zu Schulbezirksgrenzen - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.3: Kündigungen in den Helios-Kliniken GmbH Wuppertal
+- TOP 5.4: Ausbau von Kinderbetreuungsangeboten für Kinder unter 3 Jahren - abgesetzt
+- TOP 5.4.1: Betreuung von Kindern unter drei Jahren - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der Entgeltordnung für die Bäder der Stadt Wuppertal - geändert beschlossen
+- TOP 6.2: 7. Satzung zur Änderung der Abfallwirtschaftssatzung vom 17. Dezember 1999 - ungeändert beschlossen
+- TOP 6.3: Gebührensatzung zur Abfallwirtschaftssatzung für das Jahr 2006 - ungeändert beschlossen
+- TOP 6.4: Satzungen der Stadtentwässerung - vertagen
+- TOP 6.4.1: Satzungen der Stadtentwässerung - vertagen
+- TOP 6.4.2: Änderungsantrag zu VO/1364/05 - Satzungen zur Stadtentwässerung - vertagen
+- TOP 6.5: Satzung über die Straßenreinigung und den Winterdienst sowie der dafür zu erhebenden Gebühren 2006 - geändert beschlossen
+- TOP 6.5.1: Winterdienstgebühren - abgesetzt
+- TOP 6.6: Erste Satzung zur Änderung der Satzung über die Erhebung einer Zweitwohnungssteuer - ungeändert beschlossen
+- TOP 6.6.1: Zweitwohnungssteuersatzung - erledigt durch Beschluss zu einem anderen TOP
+- TOP 6.7: Zweite Satzung zur Änderung der Hundesteuersatzung vom 15.12.2000 - ungeändert beschlossen
+- TOP 6.8: Vergnügungssteuersatzung - geändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Neubau der Brücke Buchenhofen - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2004 des GMW - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2006 - staion - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2006 - Nebenb - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplanung Kinder- und Jugendwohngruppen (KIJU) 2006 - ungeändert beschlossen
+- TOP 8.5: Abschluss des ESW für das Geschäftsjahr 2004 - ungeändert beschlossen
+- TOP 8.6: Wirtschaftsführung des Eigenbetriebes ESW für das Jahr 2006 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Innenbereichssatzungen gemäß § 34 Abs.4 BauGB - geändert beschlossen
+- TOP 9.2: 1. Verlängerung einer Veränderungssperre im Bebauungsplan 954B - Döppersberg / Bundesallee - - ungeändert beschlossen
+- TOP 9.3: Bauleitplanverfahren Nr. 998 - Korzert/ Rettungswache - - ungeändert beschlossen
+- TOP 9.4: 2. Verlängerung einer Veränderungssperre im Bebauungsplan 344 - Lüttringhauser Straße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Rückstufung Tannenbaumer Weg - ungeändert beschlossen
+- TOP 11.2: Annahme einer Schenkung - Gemälde "Schweigen" - ungeändert beschlossen
+- TOP 11.3: Umwandlung von Gruppen in städt. Tageseinrichtungen für Kinder - vertagen
+- TOP 11.4: Neuer Fördervertrag Begegnungsstätte Alte Synagoge - ungeändert beschlossen
+- TOP 11.5: Beschluss über die Jahresrechnung 2004 und Entscheidung über die Entlastung des Oberbürgermeisters
+- TOP 11.6: Durchführungsbeschluss - Gründung eines Zweckverbandes Weiterbildung - geändert beschlossen
+- TOP 11.6.1: Durchführungsbeschluss-Gründung eines Zweckverbandes Weiterbildung durch Solingen und Wuppertal - Entgegennahme ohne Beschluss
+- TOP 11.7: Neuausrichtung der Versorgungs- und der Verkehrssparte der Wuppertaler Stadtwerke AG - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Mitgliederversammlung des Städtetages Nordrhein-Westfalen am 26. April 2006 in Dortmund - geändert beschlossen
+- TOP 12.2: Neuwahl eines Mitglieds des Jugendhilfeausschusses - ungeändert beschlossen
+- TOP 12.3: Wahl eines stellvertretenden sachkundigen Einwohners im Ausschuss für Umwelt - ungeändert beschlossen
+- TOP 12.4: Wahl des Vertreters der Jagdgenossenschaft in den Jagdbeirat der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
