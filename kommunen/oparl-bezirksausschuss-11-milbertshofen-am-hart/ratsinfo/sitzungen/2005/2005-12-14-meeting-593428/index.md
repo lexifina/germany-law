@@ -1,0 +1,65 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2005-12-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/593428
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/593428
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Budget der Bezirksausschüsse, 20%-Pauschale für eigene Veranstaltungen
+- TOP 4.3.: Broschüre "Das Direktorium stellt sich vor"
+- TOP 4.4.: Hinweis auf die BA-Satzungsänderung vom 26.10.2005
+- TOP 4.5.: Beamer und Notebook für den Bezirksausschuss 11 (BA-Antrag Nr. 02-08/B 00500 des Bezirksausschusses des Stadtbezirkes 11 Milbertshofen - Am HArt vom 20.07.2005) Zwischennachricht des Direktoriums
+- TOP 4.6.: Überplanung Kreuzungsbereich Lerchenauer Straße, Helene-Mayer-Ring und Preußenstraße mit BMW-Ausfahrt (BA-Antrag Nr. 02-08/B 00098 des Bezirksausschusses des Stadtbezirkes 11 Milbertshofen - Am Hart vom 16.02.2005) Antwortschreiben des Baureferates
+- TOP 4.1.: Knorrstr. 101, Neubau eines Sozialbürgerhauses mit TG; Baugenehmigung gem. Art. 72 BayBO mit aufschiebender Bedingung
+- TOP 4.1.: Kulturhaus Milbertshofen, Veranstaltungshinweise
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: a) Sportfreunde Harteck München e.V., Judo-Turnier am 24.09.2005 b) Kinder & Jugendraum RIVA, Renovierung des Multifunktionsraumes, etc. c) BewohnerGemeinschaftNordheide e.V., Vortrag "Gute Nachbarchaft - (k)ein Problem am 07.11.2005 d) Soldaten- und Kriegerkameradschaft München Milbertshofen, Gedenkfeier am 13.11.2005 e) Förderverein Alte St. Georgskirche, Druckkostenzuschuss für ein Stadtteilbuch f) Kath. Pfarramt St. Georg, Konzert am 12.11.2005 g) Kath. Pfarramt St. Georg, Laternen basteln am 07.11.2005; St. Martinsfest am 11.11.2005
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.1.: Benennung eines Ansprechpartners/einer Ansprechpartenerin des KVR zur Verbesserung der Zusammenarbeit zwischen den Genehmigungsbehörden und dem örtlichen Gewerbeverein insbesondere hinsichtlich des jährlichen Aktionstages (Empfehlung Nr. 143 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart am 30.06.2005)
+- TOP 6.2.: Aufnahme der Grundschule Hildegard-von-Bingen-Anger in das Programm Schulhof- bzw. Sportplatzöffnung (Empfehlung Nr. 02-08/E 00136 der Bürgerversammlung des Stdtbezirkes 11 Milbertshofen - Am Hart am 30.06.2005) vertagt aus der Sitzung vom 19.10.2005
+- TOP 7.: Anträge
+- TOP 7.1.: Erweiterung und Präzisierung der "Richtlinien für die Gewährung von Zuwendungen aus dem Budget der Bezirksausschüsse der Landeshauptstadt München" (FDP im BA 11)
+- TOP 7.1.: Überprüfung der Ge- und Verbotsschilder für Fußgänger und Radfahrer im Olympiapark (SPD-Fraktion im BA 11)
+- TOP 7.2.: Zug-Genehmigung für Aktionstag am 24.06.2006 "Milbertshofen in Aktion" (Karl Wagner, "Milbertshofen in Aktion")
+- TOP 8.: Anhörungen
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Bachstelzenweg 8 b) Pfitznerstr. 12
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a) Straßbergerstr. 119, 1 Tanne b) Wiegandweg 25, 1 Rotbuche
+- TOP 8.1.: Flächendeckende Aufstellung von 4F-Circle-Bewegungsinseln
+- TOP 8.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 8.2.: Halteverbot in der Eduard-Schenk-Straße, verkehrsrechtliche Anordnung nach §45 StVO
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendung aus dem Budget der Bezirksausschüsse: a) Städt. Sing- und Musikschule, Raummiete, Bewilligung 125,00¿
+- TOP 9.2.: Infoveranstaltung des Kreisverwaltungsreferates am 08.11.2005, Ergebnisprotokoll
+- TOP 9.3.: Anbringung von "Stifterschildern" an vom Bezirksausschuss finanzierten Ruhebänken
+- TOP 9.4.: Entnennung des U-Bahnhofes Olympiapark Nord (Beschluss des Kommunalausschusses vom 20.10.2005)
+- TOP 9.1.: Einsatz von Felsgestein zur Schonung der Baumbepflanzung (Beschluss des Bauausschusses vom 06.12.2005)
+- TOP 9.2.: Die Münchner Baumschutzverordnung; Schritte zur Erleichterungund zrur Beschleunigung der Baumschutzverfahren (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2005)
+- TOP 9.3.: Aufwertung und Umgestaltung des Dülferangers und des Mittelteilers Schleißheimer Straße (Beschluss des gemeinsamen Bauausschusses und des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2005)
+- TOP 9.1.: Kultur im Stadtquartier (Bekanntgabe in der Sitzung des Kulturausschusses vom 08.12.2005)
+- TOP 9.2.: "Dass Sie uns nicht vergessen..." Menschen in der Illegalität in München, Veranstaltungshinweis des Sozialreferates
+- TOP 9.3.: Allgemeines ztum Thema G8 und IZBB (Beschluss des Schulausschusses des Stadtrates vom 09.11.2005)
+- TOP 9.4.: Moosacher Str. 11, Neubau einer Kindertagesstätte mit zwei Kindergartengruppen und einer sozialen Gemeinbedarfseinrichtung integriert in die Wohnbebauung (Beschluss der Vollversammlung des Stadtrates vom 23.11.2005)
+- TOP 9.1.: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln (Beschluss der Vollversammlung des Stadtrates vom 23.11.2005)
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
