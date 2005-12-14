@@ -1,0 +1,94 @@
+# 37. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2005-12-14T17:30:00+01:00
+- Ende: 2005-12-14T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1110
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1110
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - zurückgezogen
+- TOP 1.2: Geschäftliche Mitteilung - zurückgezogen
+- TOP 1.3: Abstimmung über die Tagesordnung - zurückgezogen
+- TOP 1.4: Dringlichkeitsanträge - zurückgezogen
+- TOP 1.5: Mündliche Anfrage - im Ausschuss abgelehnt
+- TOP 1.6: Bericht des Bezirksamtes - im Ausschuss abgelehnt
+- TOP 1.7: Konsensliste - im Ausschuss abgelehnt
+- TOP 1.8: Wahl eines Bürgerdeputierten - gewählt
+- TOP 1.9: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss Rechnungsprüfung - gewählt
+- TOP 1.10: Berufung eines beratenden Mitgliedes für den Kinder- und Jugendhilfeausschuss der BVV Pankow für die V. Wahlperiode - gewählt
+- TOP 1.11: Gedenkstein auf dem Friedhof Schönholzer Heide - ohne Änderungen in der BVV beschlossen
+- TOP 1.11.1: Gedenktafel Zwangsarbeiterlager (Luna-Park) Schönholzer Heide - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Leerstand beseitigen - den Ratskeller Pankow öffentlich nutzbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Verkehrskonzept Bremer Höhe für Tino Kotte ( AG Verkehrsberuhigung der Bremer Höhe) - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Betroffenenvertretungen stärker einbeziehen - zurückgezogen
+- TOP 1.15: Beteiligung der BVV und ihrer Ausschüsse bei der Änderung von Sanierungszielen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Schulwegsicherung an der Grundschule an den Buchen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Änderung von Sanierungszielen - zurückgezogen
+- TOP 1.18: Übertragung der kommunalen Kindertagesstätte Ötztaler Straße 6, 13187 Berlin an den freien Träger "Kinder im Kiez gGmbH", Kopernikusstraße 23, 10245 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Übertragung der kommunalen Kindertagesstätte Hauptstraße 16, 13159 Berlin an den freien Träger "Kaleidoskop e.V.", Maximilianstraße 3-4, 13187 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Übertragung der kommunalen Kindertagesstätte Tschaikowskistraße 12/Gülweg 6, 13156 Berlin an den freien Träger "Vielfarb-Kita gGmbH" Elberfelder Straße 18, 10555 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Übertragung der kommunalen Kindertagesstäte Preusstraße 5/6, 10409 Berlin an den freien Träger "INA.Kinder.Garten gGmbH", Karl-Marx-Straße 71, 12043 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Übertragung der kommunalen Kindertagesstätte Kreuzgraben 13, 13156 Berlin an den freien Träger "Kinder im Kiez gGmbH", Kopernikusstraße 23, 10245 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Übertragung der kommunalen Kindertagesstätte Dusekestraße 14-22, 13187 Berlin an den freien Träger "Jugendwerk Aufbau Ost e.V." Torgauer Straße 27-29, 12627 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Übertragung der kommunalen Kindertagesstätte Waldemarstraße 36, 13156 Berlin an den freien Träger "Vielfarb Kita Schillerwiese gGmbH" Elberfelder Str. 18, 10555 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Abwassergebühren in Blankenburg, Karow und Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Bürgerversammlung der Ortsteile Blankenburg, Karow und Buch zum Thema : Anschluss an das öffentliche Abwasserentsorgungsnetz - überwiesen
+- TOP 1.27: Kompletter Anschluss der Ortsteile Blankenburg, Karow und Buch an das öffentliche Abwasserentsorgungsnetz - überwiesen
+- TOP 1.28: Gartenamt durch Anwohner gestört? - beantwortet
+- TOP 1.29: Erlass einer Milieuschutzsatzung - überwiesen
+- TOP 1.30: Vorläufige Haushaltswirtschaft im Bezirk Pankow - beantwortet
+- TOP 1.31: Sanierungsplan für den Bezirkshaushalt 2006/2007 vorlegen - mit Änderungen in der BVV beschlossen
+- TOP 1.31.1: Nachschau Haushalt 2006/07 - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Dienstleistungen, Infrastruktur und Beratung im Bezirksamt Pankow seniorengerecht anbieten - überwiesen
+- TOP 1.33: Jobcenter in bezirklicher Verantwortung - beantwortet
+- TOP 1.34: Fußgängerschutzweg in der Pistoriusstraße - überwiesen
+- TOP 1.35: Aktueller Stand der Gründung des KITA - Eigenbetriebes "Kindergärten Berlin Nord - Ost" - erledigt
+- TOP 1.36: Bürgerschaftliches Engagement anerkennen und gut zusammenarbeiten - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Erweiterung Rathauscenter am Pankower Anger - zurückgezogen
+- TOP 1.38: Tourismusmarketingkonzept für den Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.1: Einsatz von Fördermitteln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Sozialplanung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Eliashof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Internetpräsenz des Bezirks - vertagt
+- TOP 2.5: Ordnungsämter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Hartz IV - Auswirkungen auf Arbeit des Jugendamtes mit benachteiligten Jugendlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Wortprotokolle von BVV-Tagungen - vertagt
+- TOP 2.8: Nachnutzung Schulgebäude Kastanienallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Nördlicher Ausgang am S-Bahnhof Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Drs. Nr. V-0544/03 - Life Science Center Berlin-Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Maßnahmen zur Wiederherstellung der Haushaltsverantwortung und zur Schadensbegrenzung aus unterlassener Fallrevision im Bereich Soziales - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Zukunft der kommunalen Märkte in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Internetpräsenz des Bezirkes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Ausbau der Infrastruktur in Sanierungsgebieten - vertagt
+- TOP 2.15: "Albert-Schweitzer-Stiftung" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Regionalmodell des Sozialamtes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Ehrengrabstätte für Peter Fechter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Quartiersmanagement - vertagt
+- TOP 2.19: Erhaltung der Seniorenbegegnungsstätten im Bezirk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Sichern erreichter Ziele der Stadterneuerung nach Aufhebung der Sanierungsgebiete - vertagt
+- TOP 2.21: Wie weiter mit den ehemaligen Kleingartengebieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Hartz IV - Verteilung der Eingliederungsmittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: MAE-Jobs inkl. Hauptschulabschluss - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Kampf um neue Arbeitsplätze nicht aufgeben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Sanierungszieländerung Verkehr - öffentlicher Raum - vertagt
+- TOP 2.26: Gemeinnützige Beschäftigungsgelegenheiten gegen Entgelt für Leistungsberechtigte von Hilfe zum Lebensunterhalt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Verteilung von Werbemitteln durch die NPD vor Schulen in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Strukturiertes Telefonverzeichnis des JobCenters - zurückgezogen
+- TOP 2.29: Bebauungsplanentwurf XVIII-65 für die Grundstücke Mahlerstraße 26/32, 25/27a und 31 sowie einen Abschnitt der Mahlerstraße zwischen Meyerbeerstraße und Gounodstraße im Bezirk Pankow, Ortsteil Weißensee; Durchführung der öffentlichen Auslegung. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Stellenplanmäßige Untersetzung der Sparvorgabe 2006 bei den Personalausgaben - vertagt
+- TOP 2.31: Bebauungsplan XIX-34a für das Grundstück Wiltbergstraße 23, der Grünfläche beiderseits der Panke und dem P+R Parkplatz sowie Abschnitte der Wiltbergstraße und der Zufahrtstraße zum P+R Parkplatz im Bezirk Pankow, Ortsteil Buch. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Einstellung der Verfahren zur Aufstellung der Bebauungspläne XVIII-B, XVIII-B1, XVIII-B2, XVIII-7, XVIII-18, XVIII-25b und XIX-26 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Zentrenkonzept des Bezirkes Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Integration des Leistungs- und Verantwortungszentrums 8 (Wohnungsamt) in das LuV 1 (Bürgerdienste) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Einstellung der Verfahren zur Aufstellung der Bebauungspläne XIX-56b, IV-11, 3-4 VE - mit Abschlussbericht zur Kenntnis genommen
