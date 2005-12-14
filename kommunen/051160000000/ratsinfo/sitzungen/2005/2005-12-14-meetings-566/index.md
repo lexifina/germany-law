@@ -1,0 +1,56 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2005-12-14T15:00:00+01:00
+- Ende: 2005-12-14T20:00:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/566
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/566
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Kenntnisnahme
+- TOP 2: Verwaltungsrat Sparkasse - Einstimmiger Beschluss
+- TOP 3: Städtetag NW - Einstimmiger Beschluss
+- TOP 4: Nachfolgewahl Sozial u. GesA - Einstimmiger Beschluss
+- TOP 5: Innenraumschadstoffuntersuchungen - Abschlussberi - Einstimmiger Beschluss
+- TOP 6: Neunter Nachtrag Abfallsatzung - Einstimmiger Beschluss
+- TOP 7: 10. NT Benutzungsordnung Abfallentsorgungsanlagen - Zur Kenntnis genommen
+- TOP 8: Entsorgung von Leichtverpackungen, Altglas und Alt - Einstimmiger Beschluss
+- TOP 9: 26. NT Straßenreinigungs- und Gebührensatzung - Zur Kenntnis genommen
+- TOP 10: 8. Nachtrag Abfallgebührensatzung - Zur Kenntnis genommen
+- TOP 11: 9. Nachtrag zur Kanalbenutzungsgebührenordnung - Zur Kenntnis genommen
+- TOP 12: Höchstbetrag der Kassenkredite für 2006 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 13: Die neue Finanzierung des ÖSPV im VRR ab 2005 - Zur Kenntnis genommen
+- TOP 14: Zusammenarbeit der kommunalen IT-Dienstleister - Einstimmiger Beschluss
+- TOP 15: Haus Westland - Zur Kenntnis genommen
+- TOP 16: Auflösung des Gymnasiums Neuwerk - Einstimmiger Beschluss
+- TOP 17: Namensgebung neues Schwimmbad - Zur Kenntnis genommen
+- TOP 18: Schiedsamtswahl Giesenkirchen - Einstimmiger Beschluss
+- TOP 19: Wiederwahl Schiedsamtsstellv. für Odenkirchen - Einstimmiger Beschluss
+- TOP 20: Wahl Schiedsamtsstellvertreter Giesenkirchen - Zur Kenntnis genommen
+- TOP 21: Wiederwahl Schiedsamtsstellv. Wickrath - Einstimmiger Beschluss
+- TOP 22: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 23: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 24: 11. Nachtrag Satzung Übergangsheime - Einstimmiger Beschluss
+- TOP 25: Verlängerung der Sockelverträge - Einstimmiger Beschluss
+- TOP 26: Anpassung von Ortsrecht an "Hartz IV" - Einstimmiger Beschluss
+- TOP 27: Vereinbarung zwischen der Agentur f.Arb.u.Stadt MG - Einstimmiger Beschluss
+- TOP 28: Vertrag Betreuungen - Einstimmiger Beschluss
+- TOP 29: 159. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 30: Bebauungsplan Nr. 595/II - Stadtbezirk Hardt - - Mit Stimmenmehrheit beschlossen
+- TOP 31: Entwässerungssatzung "Am Gartenkamp" - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 32: Bebauungsplan Nr. 647/III -Stadtbezirk Stadtmitte- - Einstimmiger Beschluss
+- TOP 33: 2. Änderung des Bebauungsplanes Nr. 228 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 34: Bebauungsplan Nr. 639/VIII - Einstimmiger Beschluss
+- TOP 35: 1. Änderung des Bebauungsplanes Nr. 288/IX - Einstimmiger Beschluss
+- TOP 36: 1. Änderung eines Teilbereiches des BP R Nr. 3109C - Einstimmiger Beschluss
+- TOP 37: Dreifachturnhalle Realschule - Einstimmiger Beschluss
+- TOP 38: ALG II - Einstimmiger Beschluss
+- TOP 39: ECE Projektmanagement - Einstimmiger Beschluss
+- TOP 40: Haus Westland - Mit Stimmenmehrheit abgelehnt
+- TOP 41: Lernmittelfreiheitfür ALG II - Zur Kenntnis genommen
+- TOP 42: Anfragen
