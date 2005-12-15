@@ -1,0 +1,56 @@
+# 45. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2005-12-15T16:00:00+01:00
+- Ende: 2005-12-15T20:15:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=605
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=605
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=41000
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Informationen des BzBm - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Mitteilungen des Vorstehers Nr. V_47 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Personelles/Wahlen - gegenstandslos
+- TOP 7.1: Abberufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Nominierung einer/s Bezirksverordneten als stellvertretendes stimmberechtigtes Mitglied im Verwaltungsrat des Kita-Eigenbetriebes - gewählt
+- TOP 8: Vertagte Tagesordnungspunkte - gegenstandslos
+- TOP 8.1: Gerechtigkeit für Eltern bei Entrichtung der Kita-Beiträge einfordern - beantwortet
+- TOP 9: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 9.1: Informationen zum Schutz vor Vogelgrippe - schriftlich beantwortet
+- TOP 10: Vorlagen zur Beschlussfassung - gegenstandslos
+- TOP 10.1: Änderung der Bezirksgrenze des Bezirks Treptow-Köpenick zum Bezirk Friedrichshain-Kreuzberg in einem Teilbereich der Spree - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 11.1: Bewegung in Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Männer in die Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Bürgerfragestunde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Lehr- und Lernmittel 2006/2007 - überwiesen
+- TOP 11.5: Gestank beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Bebauungsplan 9-26 im Ortsteil Müggelheim hier: Abwägung und Ergebnis der Beteiligung der Träger öffentlicher Belange gemäß § 4 BauGB - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: - Entwurf des Bebauungsplans XV-12-1 zur teilweisen Änderung des Bebauungsplans XV-12 (Wildenbruchstraße, Bouchéstraße) im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - Entwurf der Rechtsverordnung zum Bebauungsplan XV-12-1 zur teilweisen Änderung des Bebauungsplans XV-12 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: - Entwurf des Bebauungsplans XVI-17 nebst Begründung - Entwurf der Rechtsverordnung über die Festsetzung zum Bebauungsplan XVI-17 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Bebauungsplan XV-12-1 (Wildenbruchstraße) zur teilweisen Änderung des Bebauungsplans XV-12 (Wildenbruchstraße, Bouchéstraße) im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - Planreife für das Grundstück Wildenbruchstraße 55 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: "Grünauer Schleife" - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Gartenkulturpfade - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Friedhofswegweiser für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 13: Anträge - gegenstandslos
+- TOP 13.1: Novellierung Berliner Straßengesetz - überwiesen
+- TOP 13.2: Stierskulptur von Heinrich Drake - überwiesen
+- TOP 13.3: Informationsmaterial für Jung- und Erstwähler - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Straßenbenennung der Nummernstraßen 194 - 197 - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Unterstützung von Aktivitäten gegen Rechtsextremismus - vertagt
+- TOP 13.6: Nachtcafé für Senioren - überwiesen
+- TOP 13.7: Informationen des Bezirksamtes - überwiesen
+- TOP 13.8: Anerkennung für ehrenamtliche Blutspender - überwiesen
+- TOP 13.9: Sicherung von Arbeitsplätzen im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 14: Große Anfragen - gegenstandslos
+- TOP 14.1: Lärm- und Geruchsbelästigung durch unsachgemäße Tierhaltung - beantwortet
