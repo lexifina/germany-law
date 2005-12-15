@@ -1,0 +1,90 @@
+# 43. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2005-12-15T17:30:00+01:00
+- Ende: 2005-12-15T17:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1085
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1085
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=50819
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilung - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - erledigt
+- TOP 4: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 4.1: Integrationspreis 2005 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Verleihung des Integrationspreises 2005 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Mündliche Anfrage - (offen)
+- TOP 5.1: Miniermotte 2005 - beantwortet
+- TOP 5.2: Straßenbenennung nach James Simon - beantwortet
+- TOP 5.3: Ganztagsschulen ohne warmes Essen - eine Qualitätssteigerung für den Unterricht? - beantwortet
+- TOP 5.4: Scheinschlag - beantwortet
+- TOP 5.5: Nutzbarkeit der Musikschule - beantwortet
+- TOP 5.6: Boulevard der Bänke - beantwortet
+- TOP 5.7: Kein Modellversuch zur Reduzierung der Abfallkosten in Grünanlagen? - schriftlich beantwortet
+- TOP 6: Thematische Stunde - (offen)
+- TOP 6.1: Lassen die Probleme beim Energiesparcontracting die Bezirksamtsmitglieder kalt? - beantwortet
+- TOP 6.2: Chaos bei der Umsetzung des Energiesparcontractings sofort beenden - ohne Änderungen in der BVV beschlossen
+- TOP 7: Dringlichkeitsanfrage - (offen)
+- TOP 7.1: Schließung Musikschule - schriftlich beantwortet
+- TOP 8: Große Anfrage - (offen)
+- TOP 8.1: Interkulturelle Öffnung der Verwaltung - beantwortet
+- TOP 8.2: Gewalt an Schulen - beantwortet
+- TOP 8.3: Stand der Einbürgerungsverfahren im Bezirk Mitte - beantwortet
+- TOP 8.4: Widersprüchliche Aussagen zu UEP-Anträgen des Bezirksamtes Mitte - beantwortet
+- TOP 8.5: Brandschutzkampagne der Berliner Feuerwehr - beantwortet
+- TOP 8.6: Defizitärer Kita-Eigenbetrieb - beantwortet
+- TOP 8.7: Alt-Akten im Sozialamt - schriftlich beantwortet
+- TOP 8.8: Jobcenter Mitte - Geld sparen zu Lasten behinderter Menschen? - schriftlich beantwortet
+- TOP 9: Vorlage zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplanentwurf III-20-1 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-20-1 - überwiesen
+- TOP 10: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Übertragung der nachstehenden Kindertagesstätten an die nachstehend benannten freien Träger zum 01.01.2006 durch jeweiligen Nutzungsvertrag - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsantrag - (offen)
+- TOP 11.1: Erledigung der Drucksache 1849/II "Gutachten zur Kontamination des JobCenters" - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Gewaltprävention sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Unterstützung gemeinschaftlicher Wohnformen im/ um das ehemalige Sanierungsgebiet "Schulstraße" ( Ortsteil Wedding) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Beratungsräume für Schuldnerberatung im Jobcenter Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Den Psychiatrieentwicklungsplan nach bezirklichen Erfordernissen ausrichten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Landesgesundheitskonferenz - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Mittelfristige Personalbedarfs- und Entwicklungsplanung vorlegen - überwiesen
+- TOP 12.5: Berufsbilder - zurückgezogen
+- TOP 12.6: Jugendhilfe sichern - überwiesen
+- TOP 12.7: Grüne Linienstraße - überwiesen
+- TOP 12.8: Mehr Geld für die Sprachförderung - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: 60. Jahrestag der ersten freien BVV-Wahlen nach der Gewaltherrschaft der Nationalsozialisten angemessen würdigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Straßenbenennung nach James Simon - überwiesen
+- TOP 12.11: Mieterrechte bei der Sanierung der WBM wahren - überwiesen
+- TOP 12.12: Quartiersräte in Steuerungsrunde (2) Umsetzung BVV-Beschluss Drucksache 1769/II - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Videoüberwachung für die U-Bahnlinie 8 - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Verlässliche Ansprechpartner für die Schulen bei der bezirklichen Jugendhilfe - überwiesen
+- TOP 13: Antrag/Beschlussempfehlung - (offen)
+- TOP 13.1: Zeitliche Ausdehnung des kostenpflichtigen Parkens - in der BVV abgelehnt
+- TOP 13.2: Freie Fahrt für die Straßenbahn - in der BVV abgelehnt
+- TOP 14: Vorlage zur Kenntnisnahme - (offen)
+- TOP 14.1: Konzept für eine bürger/innenfreundliche Beschwerdestelle/ alt: Drucksache Nr. 99/I
+- TOP 14.2: Leitlinien zur Übertragung der bezirklichen Seniorenfreizeitstätten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.3: Weniger Müll tut gut - Modellversuch zur Reduzierung der Abfallkosten in Grünanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Servicevereinbarungen: Werkzeuge fundierter Leistungssteigerung schaffen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.5: Gesundheits- und Sozialzentrum Moabit - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.6: Fußgängerüberweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Gute Akutpflege auch für alte Menschen gewährleisten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.8: Anbindung der oberen Koloniestraße an den ÖPNV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Mehrsprachiges Faltblatt gegen Zwangsheirat - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Mehr Sicherheit für Grundschulkinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Eigenbetrieb "Kindergärten City" (I) - Wirtschaftsplan vorlegen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.12: Tempo-30-Zone Lehrter Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: QM 3 - Verfügungstellung von Protokollen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.14: Einrichtung von integrierten Stadtteilverfahren - Quartiersmanagement - im Bezirk Mitte, Gebiet Sparrplatz, Magdeburger Platz, Soldiner Straße, Reinickendorfer -/ Pankstraße und Moabit West hier: Vertragsverlängerungen für das Jahr 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.15: Beschluss über das Anhörungsergebnis der Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB und Behördenbeteiligung gem. § 4 Abs. 1 BauGB zum Entwurf des Bebauungsplanes 1-37, die Durchführung der Behördenbeteiligung gem. § 4 Abs. 2 BauGB für den Entwurf des Bebauungsplanes 1-37 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: Bestätigung der Entscheidung der LOS-Begleitausschüsse für die 3. Förderperiode zur Förderung von Mikroprojekten in der Zeit vom 01.01.2006 bis 30.06.2006 im Rahmen des Bundesmodellprogramms Lokales Kapitel für Soziale Zwecke (LOS) - mit Abschlussbericht zur Kenntnis genommen
