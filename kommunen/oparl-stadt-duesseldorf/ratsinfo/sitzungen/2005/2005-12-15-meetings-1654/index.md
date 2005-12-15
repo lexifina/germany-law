@@ -1,0 +1,101 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2005-12-15T09:00:00+01:00
+- Ende: 2005-12-15T20:37:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1654
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1654
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111622.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111622.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111622.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Sanierung Standesamt -Grundsatzbeschluss- - einstimmig beschlossen
+- TOP 4: Masterplan Reduzierung des Straßenverkehrslärms - einstimmig beschlossen
+- TOP 5: Änd.-antr.Bü90/Grü: - mehrheitlich abgelehnt
+- TOP 6: Änd.-antr. CDU: Masterplan Lärm - mehrheitlich abgelehnt
+- TOP 7: Eintrittspreisfestsetzung für den Aquazoo - mehrheitlich beschlossen
+- TOP 8: Wirtschaftsplan 2006 - einstimmig beschlossen
+- TOP 9: Wirtschaftsplanung 2005 - 2009 - einstimmig beschlossen
+- TOP 10: Gebührenkalkulation 2006 - einstimmig beschlossen
+- TOP 11: 60/ 109/2005 - einstimmig beschlossen
+- TOP 12: Kalkulation Abscheider - einstimmig beschlossen
+- TOP 13: GebührensatzungRettungsdienstes - mehrheitlich beschlossen
+- TOP 14: Kostenentwicklung im Bereich Straßenreinigung - Au - mehrheitlich beschlossen
+- TOP 15: Änderung der Satzung - Reinigung öffentl. Straßen - einstimmig beschlossen
+- TOP 16: Änderung der Satzung Reinigung öffentl. Straßen - einstimmig beschlossen
+- TOP 17: Änderung der Satzung Reinigung öffetnl. Straßen - einstimmig beschlossen
+- TOP 18: Kostenentwicklung im Bereich Müllabfuhr - Auswirku - mehrheitlich beschlossen
+- TOP 19: Änderung der Gebührensatzung Abfallentsorgung - mehrheitlich beschlossen
+- TOP 20: Nachtrag Entgeltordnung - mehrheitlich beschlossen
+- TOP 21: Etatberatung 2006 - mehrheitlich beschlossen
+- TOP 22: Haushaltssatzung 2006 - mehrheitlich beschlossen
+- TOP 23: ÄA Bü90/Grü: Streichung d. Mittel ECAD - mehrheitlich beschlossen
+- TOP 24: ÄA Bü90/Grü: Erhöhung Ansatz Integrationsmaßn. - mehrheitlich abgelehnt
+- TOP 25: Änd.-antr. Bü90: Etat 2006, Dieselruß und Rheinbah - mehrheitlich abgelehnt
+- TOP 26: Änd.-antr. Bü90: Etat 2006, Nahverkehrsplan ernsth - mehrheitlich abgelehnt
+- TOP 27: Änd.-antr. Bü90: Etat 2006, Weg vom Öl - mehrheitlich abgelehnt
+- TOP 28: Änd.-antr. Bü90: Etat 2006 Stadtwerkepark - mehrheitlich abgelehnt
+- TOP 29: Ändantr. Bü90 Etat 2006: Taschengeld - mehrheitlich abgelehnt
+- TOP 30: Ändantr. SPD Etat 2006: Gesunde Luft - mehrheitlich abgelehnt
+- TOP 31: Ändantr. SPD Etat 2006: Mittagsverpflegung - mehrheitlich abgelehnt
+- TOP 32: Ändantr. SPD Etat 2006: Jugendförderpreis - mehrheitlich abgelehnt
+- TOP 33: Ändantr. SPD Etat 2006: Schulsozialarbeit - mehrheitlich abgelehnt
+- TOP 34: Ändantr. SPD: Gruppenstärke - mehrheitlich abgelehnt
+- TOP 35: Ändantr. SPD Etat 2006: Betreuungsplätze - mehrheitlich abgelehnt
+- TOP 36: Ändantr. SPD Etat 2006: Ehrenamt - mehrheitlich abgelehnt
+- TOP 37: Ändantr. SPD: Integration - mehrheitlich abgelehnt
+- TOP 38: Ändantr. SPD Etat 2006: Radverkehr - mehrheitlich abgelehnt
+- TOP 39: Ändantr. SPD Etat 2006: Kreisverkehr - mehrheitlich abgelehnt
+- TOP 40: Ändantr. SPD Etat 2006: Soziale Stadt - mehrheitlich abgelehnt
+- TOP 41: Ändantr. SPD Etat 2006: Mahn- und Gedenkstätte - mehrheitlich abgelehnt
+- TOP 42: Ändantr. SPD Etat 2006: Mobilitätsbehinderte - mehrheitlich abgelehnt
+- TOP 43: Ändantr. SPD Etat 2006: Büroflächen - mehrheitlich abgelehnt
+- TOP 44: ÄA:SPD/Bü90/Grü: Zus. Haushaltsmittel Schulen - mehrheitlich abgelehnt
+- TOP 45: Ändantr kl: SN 1 - einstimmig abgelehnt
+- TOP 46: ändantr. kl: Daseinsvorsorge - einstimmig abgelehnt
+- TOP 47: ändantr. kl: Kiefernstraße - mehrheitlich abgelehnt
+- TOP 48: ändantr. kl: Neofaschismus - mehrheitlich abgelehnt
+- TOP 49: ändantr. kl: Armutsbericht - mehrheitlich abgelehnt
+- TOP 50: ändantr kl: Gewerbesteuer - mehrheitlich abgelehnt
+- TOP 51: ändantr. kl: Wohnungsbauprogramm - mehrheitlich abgelehnt
+- TOP 52: ändantr. kl: Kliniken - mehrheitlich abgelehnt
+- TOP 53: Haushaltssatzung i.R. NKF - mehrheitlich beschlossen
+- TOP 54: Vorschläge u. Anr. der BV`s - mehrheitlich beschlossen
+- TOP 55: Veränderungsverz. zum HPL-Entwurf 2006 - mehrheitlich beschlossen
+- TOP 56: Vvz. zum HPL 2006 u. MIP 05-09 Vermögenshaushalt - mehrheitlich beschlossen
+- TOP 57: 1. Nachtrag zum Vvz. u. Finanzpl. 06-09, Verw. Hhl - mehrheitlich beschlossen
+- TOP 58: 1. Nachtr. zum Vvz HPL 2006 u. MIP 05-09 Verm.Hhlt - mehrheitlich beschlossen
+- TOP 59: Stellenplan 2006 - mehrheitlich beschlossen
+- TOP 60: Kämmererliste 2005 - mehrheitlich beschlossen
+- TOP 61: Verkehrsmanagementzentrale - einstimmig beschlossen
+- TOP 62: VRR - einstimmig beschlossen
+- TOP 63: Theodorstraße-Straßenbahnlinie 701 - zur Kenntnis genommen
+- TOP 64: Stadtbetrieb zentrale Dienste, Wirtschaftsplan - mehrheitlich beschlossen
+- TOP 65: Annahme einer Schenkung Skulptur "nur oben" von Bo - einstimmig beschlossen
+- TOP 66: BuF Sulzbachstraße - mehrheitlich beschlossen
+- TOP 67: BuF Niederheid - einstimmig beschlossen
+- TOP 68: Neubau Heyestr. 91 (OGATA) - einstimmig beschlossen
+- TOP 69: Erweiterung und Umbau im Bestand Lindenstr. 102 - einstimmig beschlossen
+- TOP 70: Erweiterungsbau Beckbuschstr. 2 - einstimmig beschlossen
+- TOP 71: Fuß- u.Radwegbrücke - Mehrkosten - mehrheitlich beschlossen
+- TOP 72: Oberhausener Straße - einstimmig beschlossen
+- TOP 73: Mitgliederversammlung Städtetag - mehrheitlich beschlossen
+- TOP 74: Riehl-Kolleg - mehrheitlich beschlossen
+- TOP 75: Öffentlich-rechtliche Vereinbarung mit Vieresen/39 - einstimmig beschlossen
+- TOP 76: Kunstpreis der Stadt Düsseldorf - einstimmig beschlossen
+- TOP 77: 6. Änderung der Abfallentsorgungssatzung - mehrheitlich beschlossen
+- TOP 78: Zusammenarbeit der kommunalen IT-Dienstleister - mehrheitlich beschlossen
+- TOP 79: Schulstandort Flurstraße - einstimmig beschlossen
+- TOP 80: Umbennenung Karlstadt u.a. - mehrheitlich beschlossen
+- TOP 81: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 82: FNPÄ89-Wohngeb.Himmelg/Itter-Anr.Änd.Plan - einstimmig beschlossen
+- TOP 83: BPl5581/35-RatherKreuzweg/Marler-AnregÄndSatzung - einstimmig beschlossen
+- TOP 84: Anfrage Kahl: Rechte BV - zur Kenntnis genommen
