@@ -1,0 +1,71 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2005-12-16T16:00:00+01:00
+- Ende: 2005-12-16T21:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/221
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/221
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Verbesserung der kommunalen Finanzsituation
+- TOP 2: Wirtschaftsplan (LVN) 2006
+- TOP 3: Klage Flughafen Düsseldorf
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Überf.d.Abt.Friedhöfe i.e.eigenb.ähnl.Einricht.
+- TOP 6: Neuorganisation Gebäudewirtschaft
+- TOP 7: Neubauvorh. Internation. Schule am Rhein
+- TOP 8: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 9: VRR Zweckverbandsversammlung
+- TOP 10: Genehmigung der Tagesordnung
+- TOP 11: Das n. ÖSPV-Finanzierungssystem im VRR
+- TOP 12: Festst. Wirtschaftsp.d. Städt. Hafenb. Neuss
+- TOP 13: Zwischenbericht zum Frauenförderplan
+- TOP 14: Änderung d. Vergabeord. d. Stadt Neuss
+- TOP 15: Best. Betriebsl. Gebäudem.
+- TOP 16: Finanzplanung 2005 - 2009
+- TOP 17: Investitionsprogramm 2005 - 2009
+- TOP 18: Haushaltssatzung 2006
+- TOP 19: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 20: Rettungsdienstgebühren ab 06 (RW021105-03115.doc)
+- TOP 21: Jahresprüfbericht 2004 (RPA301105-03358.doc)
+- TOP 22: Friedhofsgebührenkalkulation 2006
+- TOP 23: Wirtschaftsplan Stadtentwässerung 2006
+- TOP 24: Entwässerungsgebühr 2006
+- TOP 25: Schlammabfuhrgebühr 2006
+- TOP 26: TaxiBus statt Linie 860
+- TOP 27: Beratung Haushaltsplan 2006
+- TOP 28: Bestellung e. stellvertretenden Wehrführers
+- TOP 29: B-Plan 219, Grundsatzbeschluss Teilaufhebung
+- TOP 30: Veränderungssperre 30, erste Verlängerung
+- TOP 31: B-Plan V127/3, Grundsatzbeschl. Verfahrenseinleit.
+- TOP 32: Änderung Vergnügungssteuersatzung
+- TOP 33: B-Plan 169/16, Aufstellungsbeschluss
+- TOP 34: FNP-Änd. 90, Feststellungsbeschluss
+- TOP 35: Novelle der Rechnungsprüfungsordnung
+- TOP 36: B-Plan 431, Ausgleichsfläche
+- TOP 37: Abfallgebühren 2006
+- TOP 38: Kreuzung Burgunderstraße/Plankstraße/Ubierstraße
+- TOP 39: B-Plan V441, Satzungsbeschluss
+- TOP 40: Werbeanlagensatzung Innenstadt
+- TOP 41: Umgestaltung Busbahnhof
+- TOP 42: Regenüberlaufbecken Sportplatz Holzheim
+- TOP 43: Namensänderung Grundschule Holzheim
+- TOP 44: Umfeldverbesserung Lessingplatz
+- TOP 45: B-Plan 139/2, Satzungsbeschluss
+- TOP 46: OGS Berichte 2004/5 2005/6 (SCH081205-03418.doc)
+- TOP 47: OGS-Schulen zum Schuljahr 2006/2007 und spätere
+- TOP 48: B-Plan 429, Satzungsbeschluss
+- TOP 49: Ben. Teiln. Städtetages NRW
+- TOP 50: FNP-Änd. 110, Aufstellungsbeschluss
+- TOP 51: B-Plan 436, Aufstellungsbeschluss
+- TOP 52: Regenüberlaufbecken „Im Rosengarten“, Holzheim
+- TOP 53: B-Plan 9/12, Auslegungsbeschluss
+- TOP 54: Einwohnerfragestunde
+- TOP 55: Kenntnisnahme III. Quartal 2005
+- TOP 56: B-Plan 366/1, Auslegungsbeschluss
+- TOP 57: Wahl einer/eines Beh.beauft. f. d.ie Stadt Neuss
