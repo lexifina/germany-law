@@ -1,14 +1,16 @@
 # Friedhofsgebührensatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2005-02-14 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/friedhofsgeb__hrensatzung_14_02_2005.pdf
+- Datum: 2005-12-16 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/friedhofsgeb__hrensatzung_16_12_2005.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Friedhofsgebührensatzung der Stadt Köln vom 14. Februar 2005
+in der Fassung der 1. Satzung zur Änderung der Friedhofsgebührensatzung der Stadt Köln
+vom 16. Dezember 2005
 Der Rat der Stadt Köln hat in seiner Sitzung am 01.02.2005 aufgrund des § 4 des Gesetzes über das Friedhofs- und Bestattungswesen (Bestattungsgesetz NRW) vom 17.06.2003 (SGV NRW 2127) sowie der §§ 2, 4, 5 und 6 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen vom 21. Oktober 1969 (SGV NW 610) in Verbindung mit §§ 7 und 76 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV NW 2023) – jeweils in der bei Erlass dieser Satzung geltenden Fassung – diese Satzung beschlossen.
 §1 Gebührenpflicht
 (1) Für die Inanspruchnahme der im Gebiet der Stadt Köln gelegenen, in ihrem Eigentum und auch unter ihrer Verwaltung stehenden Friedhöfe sowie für damit zusammenhängende besondere Leistungen der Friedhofsverwaltung werden Gebühren nach dieser Satzung in Verbindung mit dem anliegenden Gebührentarif erhoben. (2) Der Gebührentarif ist Bestandteil dieser Satzung.
@@ -172,18 +174,12 @@ Seite 5 von 7
 4 Gebühren für sonstige Leistungen
 
 4.1 Genehmigung zum Aufstellen eines Grabmals und/oder einer sonstigen baulichen Anlage. Überwachung der Standfestigkeit und Abräumen nach Ablauf des Nutzungsrechts.
-
 4.1.1 Stehender Grabstein , Einfassung, Abdeckplatte
-
-295,00 €
-
 Entfernt der Nutzungsberechtigte nach Ablauf der Nutzungszeit das Grabmal und/oder eine bauliche Anlage selbst, kann er eine angemessene Gebührenerstattung verlangen.
-
 4.1.2 Liegender Grabstein, Einfassung, Abdeckplatte
-
-104,00 €
-
 Entfernt der Nutzungsberechtigte nach Ablauf der Nutzungszeit das Grabmal und/oder eine bauliche Anlage selbst, kann er eine angemessene Gebührenerstattung verlangen.
+
+295,00 € 104,00 €
 
 4.2 Ausstellung einer Bescheinigung (Ersatzurkunde, Urnenanforderung, Vignette zum Befahren der Friedhöfe)
 
@@ -201,9 +197,9 @@ Entfernt der Nutzungsberechtigte nach Ablauf der Nutzungszeit das Grabmal und/od
 
 5.1 Einäscherung
 
-266,00 €
+231,31 € (netto) zzgl. der jeweils gültigen MwSt.
 
-Mit der Gebühr nach Ziffer 1.1 werden abgegolten: Aufbewahren in der Leichen/Kühlzelle bis zur Einäscherung, Einäscherung, Gestellung des Aschenbehälters, ggf. Aufbewahren der Urne bis zu einer Woche.
+Mit der Gebühr nach Ziffer 5.1 werden abgegolten: Aufbewahren in der Leichen/Kühlzelle bis zur Einäscherung, Einäscherung, Gestellung des Aschenbehälters, ggf. Aufbewahren der Urne bis zu einer Woche.
 
 5.2 Aufbewahren einer Aschenurne nach Ablauf einer Woche, je begonnene Woche
 
@@ -211,7 +207,7 @@ Mit der Gebühr nach Ziffer 1.1 werden abgegolten: Aufbewahren in der Leichen/K�
 
 5.3 Aushändigung/Postversand einer Urne
 
-20,00 €
+19,21 € (netto) zzgl. der jeweils gültigen MwSt.
 
 Seite 6 von 7
 
@@ -221,6 +217,6 @@ Köln, den 14.02.2005
 
 Der Oberbürgermeister gez. Schramma
 
-- ABl StK 2005, S. 82, -
+- ABl StK 2005, S. 82, S. 729 -
 
 Seite 7 von 7
