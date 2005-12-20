@@ -1,0 +1,82 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2005-12-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/569767
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/569767
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Widmung einer Teilstrecke der Dingolfinger Straße und der Stichstraße nach Norden
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Mehrjahresinvestitionsprogramm ¿ Fortschreibung für die Jahre 2006 ¿ 2010 ¿ Fuß- und Radwegprojekte Berg am Laim
+- TOP 3.1.: Optimolgelände ¿ Aufstellung eines Imbisswagens
+- TOP 3.1.: Aufstellen von Zelten im öffentlichen Raum ¿ Richtlinien für Veranstaltungen
+- TOP 3.2.: Halteverbot Baumkirchner Str., nördlich der Kreillerstraße
+- TOP 3.3.: Fahrkartenautomaten auf den Bahnsteigen am Ostbahnhof - Bürgerantrag
+- TOP 3.1.: Kultur im Stadtquartier, Ergänzung: Zwischenbericht
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Flächendeckende Aufstellung von 4F-Circle-Bewegungsinseln
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Barrierefreie Zugänglichkeit bei BA-Sitzungen und Bürgerversammlungen
+- TOP 3.2.: Frauengesundheitswoche ¿Lust auf Bewegung¿, 8. bis 19. Mai 2006
+- TOP 3.1.: St.-Veit-Str. 62, Antrag auf Baumfällung
+- TOP 3.2.: Hansjakobstraße 21 - Antrag auf Baumfällung
+- TOP 3.3.: Ulrichsbergstraße 9 - Antrag auf Baumfällung
+- TOP 3.4.: Schlüsselbergstr. 1 - Antrag auf Baumfällung
+- TOP 3.5.: Ellingerstraße 72 - Antrag auf Baumfällung
+- TOP 3.6.: Ellingerstraße 74 - Antrag auf Baumfällung
+- TOP 3.7.: Lödenseestraße 10 - Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Büroimmobilienmarkt München - Studie der BulwienGesa AG
+- TOP 4.2.: Hauptbahnhof - Anforderungen an die Überarbeitung der Wettbewerbsergebnisse
+- TOP 4.3.: Perspektive München - Familienfreundlichkeitsprüfung ¿ Bürgerbefragung ¿ Verkehrsentwicklungsplan
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Bebauungsplan Nr. 1931 Hultschiner Straße (östlich), zwischen Zamila- und Zamdorfer Straße
+- TOP 4.6.: Meldeliste der Bauvorhaben zwischen 14.11.2005 - 04.12.2005
+- TOP 4.7.: Rückbau von Eisenbahnanlagen und Herstellung eines Instandhaltungsweges am ehemaligen Rangierbahnhof München Ost
+- TOP 4.8.: A) Bebauungsplan mit Grünordnung Nr. 1882 Hachinger-Bach-Straße (nördlich), Langkofelstraße (Teiländerung des Beb.Pl. Nr. 1725) - Griechische Schule - B) Änderung des Bebauungsplanes mit Grünordnung Nr. 1725 Kreillerstraße (südlich), Heinrich-Wieland-Straße (nördlich) Langkofelstraße (westlich) Echardinger Straße (östlich)
+- TOP 4.1.: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 4.2.: München-Triathlon 2006
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Stadtteilbezogenes Verzeichnis der städtischen Kindertageseinrichtungen, Kooperationseinrichtungen und Tagesheime
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Umwandlung von Unterkünften in Mietwohnungen in Berg am Laim
+- TOP 4.1.: Verwendungsnachweis der Ludwig-Thoma-Realschule
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Anbringung von Stifterschildern an vom Bezirksausschuss finanzierten Ruhebänken
+- TOP 4.2.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanenturfs 2006
+- TOP 4.1.: Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse und der einschlägigen Verbände - Änderung
+- TOP 4.2.: Einsatz von Felsgestein zur Schonung der Baumbepflanzung
+- TOP 4.3.: Unterrichtung über das Fällen von Gefahrenbäumen an der Neumarkter Straße
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
