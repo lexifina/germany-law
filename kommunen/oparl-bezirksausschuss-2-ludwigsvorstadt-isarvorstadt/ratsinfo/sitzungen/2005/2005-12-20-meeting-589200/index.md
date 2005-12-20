@@ -1,0 +1,59 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2005-12-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/589200
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/589200
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Bericht Dr. Spaenle zur geplanten Klinikumverlagerung
+- TOP .2.1.: BA-Budget
+- TOP .1.: Zuschuss aus dem BA-Budget für die Buchpublikation "Die Straßen in denen wir wohnen - Kinder sehen ihre Stadt"; Antrag der Grundschule an der Klenzestraße
+- TOP .2.: Zuschuss aus dem BA-Budget für den Infonachmittag von Dahoam e.V. "Demenz eine Annäherung" am 11.05.2006
+- TOP .3.: Zuschuss aus dem BA-Budget für ein Konzert der ICI Munich in der Galerie Wittenbrink am 21.11.2005
+- TOP .2.2.: Kultur
+- TOP .1.: Kultur im Stadtquartier
+- TOP .2.: Ausschreibung Schülerwettbewerb
+- TOP .3.: Erhalt und Förderung des BAseballsports
+- TOP .5.1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .3.1.: Bauvorhaben
+- TOP .1.: Landwehrstr. 3, Nutzungsänderung: 2.OG Süd u. EG/1.OG Süd zu Boardinghouse; EG NOrd zu Empfang, Büro, Boardinghouse; KG zu Fitnessraum
+- TOP .2.: Reifenstuelstr. 4, Errichtung einer Balkonanalage und einer Treppe
+- TOP .3.: Uhlandstr. 2, Umbau und Nutzungsänderung im 1. OG von 2 Wohnungen zu einem Büro (Vertagung v. 29.11.2005)
+- TOP .4.: Thalkirchner Str. 29, Aufstockung VGB, DG-Ausbau RGB, Errichtung von Stahlbalkonen sowie Aufzugsanbau (Vertagung v. 29.11.2005)
+- TOP .5.: Dreimühlenstr. 11, Nutzungsänderung mit Konzessionserweiterung f.d. Betrieb einer Schank- und Speisewirtschaft (Vertagung v. 29.11.2005)
+- TOP .3.2: Bäume
+- TOP .1.: Thalkirchner Str. 48, Fällung einer Robinie wegen Bruchgefahr
+- TOP .1.: Isarplan, aktueller Planungsstand
+- TOP .5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP .3.2.: Freischankflächen
+- TOP .1.: Landwehrstr. 9, Metzgerei, Umwandlung einer Warenstellage in eine Freischankfläche
+- TOP .2.: Gaststätte "Freiraum", Pestalozzistr. 8 (Neuantrag)
+- TOP .3.: Auen-Backshop, Auenstr. 52 (Neuantrag) - Plenumsbeschluss
+- TOP .3.3.: Warenstellagen
+- TOP .1.: Landwehrstr. 25 (Obst und Gemüse)
+- TOP .3.4.: Verkehr
+- TOP .1.: Bayerstr. 75, Einrichtung einer Halteverbotszone
+- TOP .1.: Parkplatzsituation im Glockenbachviertel
+- TOP .2.: Linienführung Bus 152
+- TOP .5.1: Berichte der Beauftragten ( AK Theresienwiese)
+- TOP .1.: Termine
+- TOP .2.: Veranstaltungen
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP .3.2.: Berichte aus den anderen BA
+- TOP .3.3.: Bericht des Internetbeauftragten
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Infos)
