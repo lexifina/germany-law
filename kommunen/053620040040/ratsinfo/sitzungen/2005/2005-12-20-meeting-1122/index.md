@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2005-12-20T18:02:00+01:00
+- Ende: 2005-12-20T19:57:00+01:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdLh62_H2-2_SNyIQdwhOsI
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/1122
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYFkUnYhonaCGaqF4_HMFFeZBnPaXaqecNrEtkoOjFra/Einladung_Rat_20.12.2005.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXOKhy2t8VWfrFL1E9CnHAgjxmltZPozt8E7u9OcKWwG/Oeffentliche_Niederschrift_Rat_20.12.2005.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Einbringung des Entwurfs der Haushaltssatzung für das Haushaltsjahr 2006 mit ihren Anlagen
+- TOP 5.: Kindertageseinrichtung der Stadt Wesseling; Feststellung des Jahresabschlusses 2004, Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Kulturbetriebe der Stadt Wesseling; Feststellung des Jahresabschlusses 2004; Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Sportstätten der Stadt Wesseling; Feststellung des Jahresabschlusses 2004, Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Wald- und Parkanlagen der Stadt Wesseling; Feststellung des Jahresabschlusses 2004; Behandlung des Jahresverlustes - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Wirtschaftsplan der Entsorgungsbetriebe der Stadt Wesseling für das Wirtschaftsjahr 2006 - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Haushaltswirtschaft im Haushaltsjahr 2005; Zustimmung zur Leistung von über- und außerplanmäßigen Ausgaben - 21 Ja-Stimme(n), 15 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 11.: 5. Änderungssatzung zur Hundesteuersatzung der Stadt Wesseling vom 01.12.1997 - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: 1. Änderungssatzung zur Satzung der Stadt Wesseling über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen -Sondernutzungssatzung- vom 24. April 1991 - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Änderung der Satzung der Stadt Wesseling über die Allgemeinen Bedingungen für die Abwasserbeseitigung in der Stadt Wesseling (AB-Abwasser) - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Änderung der Satzung über die Entgelte für die Abfallbeseitigung in der Stadt Wesseling (Abfallsatzung - AbfES) für das Jahr 2005 - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Satzung über die Entgelte für die Abfallentsorgung in der Stadt Wesseling (Abfallsatzung ¿AbfES) ab dem 01.01.2006 - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: 16. Ergänzungssatzung zur Satzung über die Erhebung von Erschließungsbeiträgen in der Stadt Wesseling (Försterweg) - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: 17. Ergänzungssatzung zur Satzung über die Erhebung von Erschließungsbeiträgen in der Stadt Wesseling (Amselweg -Stichstraße -) - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Widmung der Straße "Försterweg" in Wesseling-Urfeld als städtische Straße für den öffentlichen Verkehr - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Widmung der Straße Amselweg - Stichstraße - (südwestlich vom Hauptzug Amselweg - zwischen Kronenweg und Starenweg - abzweigende Straße) in Wesseling als städtische Straße für den öffentlichen Verkehr - Einstimmig, 0 Enthaltung(en)
+- TOP 20.: Herstellung der Anbaustraße "Försterweg" in Wesseling; hier: bebauungsplan-unterschreitender Ausbau im Sinne des § 125 Abs. 3 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 21.: Herstellung der Anbaustraße Amselweg - Stichstraße - (südwestlich vom Hauptzug Amselweg - zwischen Kronenweg und Starenweg - abzweigende Straße) in Wesseling; hier: bebauungsplan-überschreitender Ausbau im Sinne des § 125 Abs. 3 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Zuwendungen zu den sächlichen und personellen Aufwendungen für die Geschäftsführung der Fraktionen für 2006 - Einstimmig, 0 Enthaltung(en)
+- TOP 23.: Regionale 2010 - Projektvorschlag :innenstadtperspektive wesseling/ :chemex hier: Billigung des Projektvorschlags als Schwerpunktprojekt des Rhein- Erft- Kreises - Einstimmig, 3 Enthaltung(en)
+- TOP 24.: Kindertagesbetreuung für Unter-3-jährige: Beschluss zur Inanspruchnahme der Übergangsregelung gemäß § 24a SGB VIII - 37 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 25.: Denkmalwürdiges Fachwerkhaus Nordstraße 55 in Wesseling - Vereinbarung mit der Eigentümerin - Einstimmig, 0 Enthaltung(en)
+- TOP 26.: Antrag der SPD-Fraktion: Öffentlicher Zugang zum Internet-Angebot der Stadt im Rathaus-Foyer - Einstimmig, 0 Enthaltung(en)
+- TOP 27.: Prüfung der Jahresrechnung der Stadt Wesseling für das Haushaltsjahr 2004 - 34 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 28.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Beratung über den Bericht der Gemeindeprüfungsanstalt Nordrhein-Westfalen (GPA NRW) über die überörtliche Prüfung der Stadt Wesseling im Ausgust /September 2004 - Einstimmig, 0 Enthaltung(en)
+- TOP 2.: Ernennung einer Stadthauptsekretärin zur Stadtamtsinspektorin (A 9 m.D.) - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Ernennung eines Brandmeisters zum Oberbrandmeister - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Ernennung eines Brandmeisters zum Oberbrandmeister - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Ernennung eines Brandmeisters zum Oberbrandmeister - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Ernennung eines Oberbrandmeisters zum Hauptbrandmeister - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Mitteilungen und Anfragen
+- TOP 8.: Presseveröffentlichungen
