@@ -1,0 +1,94 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2005-12-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/568236
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/568236
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Einrichtung einer Haltestelle für die Buslinie 54 in der Candidstraße, Höhe Gebhardstraße, beide Fahrtrichtungen; Bürgerantrag - <div>nach Antrag</div>
+- TOP 2.2.: Verbreiterung des Baumstreifens zwischen Birkenleiten und Candidplatz (Entsiegelung des ehem. Bolzplatzes); Bürgerantrag - <div>nach Antrag</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: Budget der Bezirksausschüsse, 20%-Pauschale für eigene Veranstaltungen; Schreiben des Direktoriums vom 07.11.05
+- TOP 3.2.: Anbringung von "Stifterschildern" an vom Bezirksausschuss finanzierten Ruhebänken; Abdruck eines Antwortschreibens der 2.Bürgermeisterin an den BA 6
+- TOP 3.1.: Verwendungsnachweis des Kath. Männerfürsorgevereins München e.V., Haus an der Pistorinistraße, vom 20.10.05 für die bezuschusste Maßnahme "Arbeitsprojekt McGreen"
+- TOP 3.2.: Verwendungsnachweis des Jugendtreffs Akku vom 10.11.05 für die bezuschusste Maßnahme "Graffitiprojekt" mit Bildermappe
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln; Beschluss der Vollversammlung des Stadtrats vom 23.11.05
+- TOP 3.2.: PERSPEKTIVE MÜNCHEN, Leitprojekt Verkehrsentwicklungsplan 2005; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.05
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Anhörung durch das Baureferat-Gartenbau im Vollzug der Baumschutz- bzw. Landschaftsschutzverordnung (teilw.) vom 04.11.05 zu verschiedenen Baumfällungen
+- TOP 3.1.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen in der Harhauser Straße; Bescheid vom 28.11.05 3.3.6.1.2 Anwesen in der Leonburgstraße; Borkenkäfer-Bescheinigung vom 02.12.05 3.3.6.1.3 Anwesen in der Geiselgasteigstraße; Gefahrenbaum-Bescheinigung vom 01.12.05
+- TOP 3.2.: Hochwasserschutz für Untergiesing und die Au; Beschluss des Umweltschutzausschusses vom 29.11.05
+- TOP 3.3.: Einsatz von Felsgestein zur Schonung der Baumbepflanzung; Beschluss des Bauausschusses vom 06.12.05
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Auskunft über eine Ersatzlösung für die bislang auf dem Gelände an der Säbener Str. untergebrachten Baseball-Vereine; Einstellung der Mittel für eine Verlagerung in Investitionsliste 1 Mehrjahresinvestitionsprogramms ; Antworten der BAs 9, 11, 12 und 17
+- TOP 3.2.: Zusätzliche Sprachförderung für nichtdeutsche Schülerinnen und Schüler an den Schulen im 18.Stadtbezirk; Schreiben des Schul- und Kultusreferates vom 22.11.05
+- TOP 3.1.: (Keine) Einstellung des Vernetzungsprojektes REGSAM; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.05
+- TOP 3.2.: Förderung von Familien bzw. Haushalten mit Kindern; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.05
+- TOP 3.3.: PERSPEKTIVE MÜNCHEN; Familienfreundlichkeitsprüfung - ein Beitrag zur familien- und kinderfreundlichen Stadtentwicklung, Leitlinie Kinder- und Familienpolitik; Beschluss des Kinder- und Jugendhilfeausschusses vom 29.11.05
+- TOP 3.4.: A) Allgemeines zum Thema G 8 und Investitionsprogramm "Zukunft Bildung und Betreuung" (IZBB), B) Baumaßnahmen im Zusammenhang mit der Einführung des achtjährigen Gymnasiums (G 8), C) Errichtung von Horträumen im Zuge des Mensaneubaus im Schulzentrum Pfarrer-Grimm-Str. 2 im 23. Stadtbezirk Allach - Untermenzing, D) Weitere IZBB-Baumaßnahmen, E) Baummaßnahmen im Zusammenhang mit der Einführung des G 8, Beschluss des Schulausschusses vom 09.11.05 und der Vollversammlung des Stadtrats vom 23.11.05
+- TOP 3.1.: Flächendeckende Aufstellung von 4F-Circle-Bewegungsinseln; Schreiben des Schul- und Kultusreferates vom 09.11.05 mit der Bitte um Standortvorschläge
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: zuletzt in den UA verwiesene Themen: Errichtung einer Skater-Anlage auf dem Flurgrundstück 12914/4 (Harlachinger Weg, direkt hinter dem Parkplatz des TSV 1860 Trainingsgeländes, in etwa auf der Höhe Grünwalderstr. 108/110 gelegen); Bürgerbeschwerden
+- TOP 3.1.: Anhörung durch das Planungsreferat-Lokalbaukommission vom 30.11.05 zur beantragten Errichtung einer Werbeanlage / Plakatanschlagtafel in der Fromundstraße 25
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: 3.5.4.1.1 Anwesen in der Defreggerstraße; Anhörung vom 06.12.05
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: 3.5.4.2.1 Anwesen in der Thelemannstraße 3.5.4.2.2 Anwesen in der Reisachstraße 3.5.4.2.3 Anwesen in der Defreggerstraße
+- TOP 3.1.: Kindergartenversorgung im 18.Stadtbezirk, Kindertagesstätten freigemeinnütziger Träger, Praxis der Zuschussgewährung an den Kindergarten "Biene Maja e.V.", Fragenkatalog; Antwortschreiben des Schul- und Kultusreferates vom 15.11.05
+- TOP 3.2.: Errichtung einer Skater-Anlage auf dem Flurgrundstück 12914/4 (Harlachinger Weg, direkt hinter dem Parkplatz des TSV 1860 Trainingsgeländes, in etwa auf der Höhe Grünwalderstr. 108/110 gelegen); Zwischennachricht des Baureferats-Gartenbau vom 08.11.05 und Kurzmitteilung / Telefax des Baureferats-Gartenbau vom 06.12.05
+- TOP 3.1.: Baufälle im 18.Stadtbezirk
+- TOP 3.2.: Unterrichtungen durch das Sozialreferat, Amt für Wohnen und Migration, im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum 3.5.6.2.1 Anwesen in der Hauberrißerstraße; Mitteilung vom 01.12.2005
+- TOP 3.3.: "Büroimmobilienmarkt München, Studie der BulwienGesa AG; Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 07.12.05
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: zuletzt in den UA verwiesene Themen: Jahresempfang des BA 18, Vorplanungen für 2006
+- TOP 3.1.: Kultur im Stadtquartier, Kultur-Kataster zur räumlichen Verteilung der städt. Kultureinrichtungen, Evaluierung kultureller Zentren, Kulturelle Zentren und Stadtteilwochen; Bekanntgabe im Kulturausschuss vom 08.12.05
+- TOP 3.2.: Kultur im Stadtquartier - Zwischenbericht; Schreiben des Kulturreferats vom 28.11.05
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Ergebnisprotokoll der Informationsveranstaltung für die Bezirksausschüsse am 08.11.05 im Kreisverwaltungsreferat
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.1.: zuletzt in den UA verwiesene Themen:
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
