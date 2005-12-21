@@ -1,0 +1,8 @@
+# TOP 5: Nachfolgewahl Sozial u. GesA
+
+- Sitzung: Rat (2005-12-21)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/105370
+- Ergebnis: Einstimmiger Beschluss
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/4389
