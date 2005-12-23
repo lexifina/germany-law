@@ -1,0 +1,2 @@
+# § 5a Betriebs- und Verhaltensvorschriften
+Sofern bei Schadensfällen und Betriebsstörungen eine Gefährdung oder Schädigung der Gewässer nicht auf andere Weise verhindert oder unterbunden werden kann, hat der Betreiber die Anlagen unverzüglich außer Betrieb zu nehmen und, soweit erforderlich, zu entleeren und zu reinigen. Im Übrigen gilt die Anzeigepflicht nach § 155 des Bremischen Wassergesetzes.
