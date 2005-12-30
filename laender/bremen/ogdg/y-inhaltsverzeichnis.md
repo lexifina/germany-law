@@ -41,6 +41,9 @@ Teil 7 Gesundheitsfachberufe
 § 29 | Gesundheitsfachberufe
 Teil 8 Ethikkommission
 § 30 | Ethikkommission
+§ 30 a | Zusammensetzung der Ethikkommission
+§ 30 b | Unabhängigkeit und Pflichten der Mitglieder
+§ 30 c | Verordnungsermächtigung
 Teil 9 Datenschutz
 § 31 | Geheimhaltungspflichten
 § 32 | Zweckbindung und Übermittlung
