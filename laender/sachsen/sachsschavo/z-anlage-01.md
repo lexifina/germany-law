@@ -12,9 +12,10 @@ Schutzbestimmungen in Wasserschutzgebieten für die Land- und Forstwirtschaft
 2.6 Das Umladen und Abfüllen von Jauche, Gülle, Silagesickersaft, Festmist, Sekundärrohstoffdünger, Pflanzenschutzmitteln und Mineraldünger von einem Transportfahrzeug auf ein Verteilungs- oder Ausbringegerät ist so durchzuführen, dass eine Gewässerverunreinigung nicht eintritt.
 3 Des Weiteren gelten in der engeren Schutzzone (Zone II) und der weiteren Schutzzone (Zone III) folgende Verbote und Beschränkungen:
 Beschränkungen und Verbote in der engeren und weiteren Schutzzone (Zone II und III)
-V – verboten b – beschränkt zugelassen unter folgenden Auflagen
+V – verboten
+b – beschränkt zugelassen unter folgenden Auflagen
 Beschränkungen und Verbote
-Lfd. Nr. | Schutzbestimmungen | Schutzzone
+Nr | Schutzbestimmungen | Schutzzone
 Lfd. Nr. | Schutzbestimmungen | Schutzzone
 II | III
 3.1 | Anlegen und Betreiben von Pflanzenkompostierungsanlagen | V | b: | sofern das Sickerwasser oder Sickersaft nicht schadlos aufgefangen werden, verboten
