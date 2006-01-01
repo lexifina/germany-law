@@ -75,7 +75,7 @@ Teil 7 Besondere Vertretungen
 § 67 Schulen und Lehrkräfte
 § 68 Polizei
 § 69 aufgehoben
-§ 70 Staatliche Forstverwaltung
+§ 70 Staatsbetrieb Sachsenforst
 Teil 8 Beteiligung der Personalvertretungen
 § 71 Zusammenarbeit
 § 72 Gleichmäßige Behandlung – Verbot parteipolitischerBetätigung
@@ -102,5 +102,5 @@ Teil 10 Verschlusssachen und Verfassungsschutz
 § 91 Abweichungen für das Landesamt für Verfassungsschutz
 Teil 11 Übergangs- und Schlussvorschriften
 § 92 Rechtsverordnung über Wahlvorschriften
-§ 93 Übergangsbestimmungen
+§ 93 Übergangsvorschrift
 § 94 In-Kraft-Treten – Außer-Kraft-Treten
