@@ -1,8 +1,8 @@
 # nach Maßgabe der §§ 23 und 44 der Sächsischen Haushaltsordnung ( SäHO) in der Fassung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2005-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/3068.3
+- Datum: 2006-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/3068.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -192,54 +192,47 @@ Tierseuchen-Bekämpfungsprogramme
 
 | Beteiligung des SMS an den von der TSK zu tragenden Kosten bis zu
 
-|
+|  Lfd. Nr.
+|  Rechtsvorschrift
+|  Beteiligung des SMS an den von der TSK zu tragenden Kosten bis zu
 
-Lfd. Nr.
-
-|
-
-Rechtsvorschrift
-
-|
-
-Beteiligung des SMS an den von der TSK zu tragenden Kosten bis zu
-
-|  1
+|   1
 | Programm Stutengesundheitsdienst der Sächsischen Tierseuchenkasse vom 26. März 1997
 | 70 %
 
-|  2
+|   2
 | Programm zur Abklärung von Aborten bei Pferden, Rindern, Schweinen und Schafen vom 13. Oktober 1998
 | 70 %
 
-|  3
-| Programm der Sächsischen Tierseuchenkasse zur Prophylaxe und Bekämpfung der Equinen Herpes-Virus-Infektion bei Pferden vom 9. Oktober 2003
+|   3
+| Programm der Sächsischen Tierseuchenkasse zur Prophylaxe und Bekämpfung der Equinen Herpes-Virus-Infektion bei Pferden vom 25. Oktober 2005
 | 50 %
 
-|  4
-| Neufassung des Landesprogramms des Sächsischen Staatsministeriums für Soziales, Gesundheit, Jugend und Familie und der Sächsischen Tierseuchenkasse zum Schutz der Rinder vor einer Infektion mit dem Bovinen Herpesvirus Typ 1 und zur Bekämpfung in BHV1-infizierten Rinderbeständen (
-BHV1-Landesprogramm) vom 18. April 2002 (SächsABl. S. 676)
-| 80 %
+|   4
+| Neufassung des Landesprogramms des Sächsischen Staatsministeriums für Soziales und der Sächsischen Tierseuchenkasse zum Schutz der Rinder vor einer Infektion mit dem Bovinen Herpesvirus Typ 1 und zur Bekämpfung in BHV1-infizierten Rinderbeständen (
+BHV1-Landesprogramm) vom 25. Oktober 2005 (SächsABl. 2006 S. 159)
+| 70 %
 
-|  5
+|   5
 | Gemeinsames Programm des Sächsischen Staatsministeriums für Soziales und der Sächsischen Tierseuchenkasse zur Bekämpfung der Salmonellose bei Rindern vom 9. Oktober 2003
 | 70 %
 
-|  6
+|   6
 | Programm der Sächsischen Tierseuchenkasse zum Schutz von Rinderbeständen vor einer Infektion mit dem Virus der Bovinen Virusdiarrhoe/Mucosal Disease (BVD/MD) und zur Bekämpfung in infizierten Beständen vom 17. April 1998, geändert am 27. September 2001
 | 70 %
 
-|  7
-| Programm des SMS und der Sächsischen Tierseuchenkasse zur Paratuberkulose-Diagnostik und -Bekämpfung vom 10. Januar 2002
+|   7
+| Programm des SMS und der Sächsischen Tierseuchenkasse zur Paratuberkulose-Diagnostik und -Bekämpfung vom 25. Oktober 2005
 | 70 %
 
-|  8
+|   8
 | Programm zur Förderung der Eutergesundheit in Sachsen gemäß „VwV des SMS zur Durchführung des amtlichen Eutergesundheitsdienstes im Freistaat Sachsen“ vom 17. April 1998
 | 70 %
 
-|  9
-| Programm des SMS und der Sächsischen Tierseuchenkasse zum Schutz der Schweinebestände vor der Infektion mit dem Virus des Porcinen Reproductiven und Respiratorischen Syndroms (
-PRRS-Programm) vom 17. April 1998 (SächsABl. S. 656), geändert durch VwV vom 24. Juni 1999 (SächsABl. S. 663)
+|   9
+2
+| Neufassung des Programms des Sächsischen Staatsministeriums für Soziales und der Sächsischen Tierseuchenkasse zum Schutz der Schweinebestände vor der Infektion mit dem Virus des Porcinen Reproduktiven und Respiratorischen Syndroms (PRRS) (
+PRRS-Programm) vom 23. März 2006 (SächsABl. S. 634)
 | 70 %
 
 | 10
@@ -286,9 +279,16 @@ Verwaltungsvorschrift des SMS zur Leukose- und Brucelloseüberwachung in Milchpr
 | 70 %
 
 | 19
+3
 | Programm der Sächsischen Tierseuchenkasse zur Diagnostik und Prophylaxe von Stoffwechselstörungen in Rinderbeständen vom 29. März 2004
 | 10 %
 
 | 20
 | Programm der Sächsischen Tierseuchenkasse zur Bekämpfung der Schnüffelkrankheit (Progressive Rhinitis atrophicans, PRa) in den Schweinezuchtbeständen Sachsens vom 18. Oktober 2004
 | 10 %
+
+| 21
+4
+| Gemeinsames Programm des Sächsischen Staatsministeriums für Soziales und der Sächsischen Tierseuchenkasse zur Prophylaxe und Bekämpfung der Koi-Herpesvirus-Infektion (
+KHV) in sächsischen Fischhaltungsbetrieben vom 23. März 2006 (SächsABl. S. 632)
+| 80 %
