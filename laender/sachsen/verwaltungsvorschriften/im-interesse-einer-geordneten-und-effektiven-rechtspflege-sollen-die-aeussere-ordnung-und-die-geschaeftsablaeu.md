@@ -1,8 +1,8 @@
-# Im Interesse einer geordneten und effektiven Rechtspflege sollen die äußere Ordnung und die Geschäftsabläufe bei den Gerichten, ausgenommen beim Sächsischen Finanzgericht, sowie bei den Staatsanwaltschaften in Abständen von höchstens fünf Jahren rege
+# Im Interesse einer geordneten und effektiven Rechtspflege sollen die äußere Ordnung und die Geschäftsabläufe bei den Gerichten sowie bei den Staatsanwaltschaften in Abständen von höchstens fünf Jahren regelmäßig geprüft werden. Diese Geschäftsprüfung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2002-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/4328.1
+- Datum: 2006-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/4328.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -14,20 +14,24 @@ Allgemeine Geschäftsprüfungen
 
 I.    Funktion und zeitliche Prüfungspflicht
 
-Im Interesse einer geordneten und effektiven Rechtspflege sollen die äußere Ordnung und die Geschäftsabläufe bei den Gerichten, ausgenommen beim Sächsischen Finanzgericht, sowie bei den Staatsanwaltschaften in Abständen von höchstens fünf Jahren regelmäßig geprüft werden. Diese Geschäftsprüfungen dienen nicht der Beurteilung einzelner Richter, Staatsanwälte und Rechtspfleger. Sie dürfen die richterliche Unabhängigkeit gemäß Artikel 97 Abs. 1 des
+Im Interesse einer geordneten und effektiven Rechtspflege sollen die äußere Ordnung und die Geschäftsabläufe bei den Gerichten sowie bei den Staatsanwaltschaften in Abständen von höchstens fünf Jahren regelmäßig geprüft werden. Diese Geschäftsprüfungen dienen nicht der Beurteilung einzelner Richter, Staatsanwälte und Rechtspfleger. Sie dürfen die richterliche Unabhängigkeit gemäß Artikel 97 Abs. 1 des
 Grundgesetzes
 , §§ 25, 26 des
 Deutschen Richtergesetzes, Artikel 77 Abs. 2 der
 
-Verfassung des Freistaates Sachsen , § 1 des Richtergesetzes des Freistaates Sachsen (SächsRiG
+Verfassung des Freistaates Sachsen, § 1 des Richtergesetzes des Freistaates Sachsen (
+SächsRiG
+
 ) und die sachliche Unabhängigkeit der Rechtspfleger gemäß § 9 des
-Rechtspflegergesetzes (RPflG) nicht beeinträchtigen.
+Rechtspflegergesetzes (
+
+RPflG) nicht beeinträchtigen.
 
 II.    Prüfungszuständigkeit
 
 1.
 
-Die Prüfungen bei den Landgerichten und Präsidialamtsgerichten werden von dem Präsidenten des Oberlandesgerichts, bei den übrigen Amtsgerichten von den Präsidenten der Landgerichte durchgeführt. Der Präsident des Oberverwaltungsgerichts prüft die Verwaltungsgerichte, der Präsident des Landessozialgerichts die Sozialgerichte und der Präsident des Landesarbeitsgerichts die Arbeitsgerichte. Die Prüfungen bei den Staatsanwaltschaften werden von dem Generalstaatsanwalt durchgeführt. Die Präsidenten der Obergerichte und der Generalstaatsanwalt prüfen auch ihre eigenen Behörden.
+Die Prüfungen bei den Landgerichten und Präsidialamtsgerichten werden von dem Präsidenten des Oberlandesgerichts, bei den übrigen Amtsgerichten von den Präsidenten der Landgerichte durchgeführt. Der Präsident des Oberverwaltungsgerichts prüft die Verwaltungsgerichte, der Präsident des Landessozialgerichts die Sozialgerichte und der Präsident des Landesarbeitsgerichts die Arbeitsgerichte. Die Prüfungen bei den Staatsanwaltschaften werden von dem Generalstaatsanwalt durchgeführt. Die Präsidenten der Obergerichte und der Generalstaatsanwalt prüfen ihre eigenen Behörden.
 
 2.
 
