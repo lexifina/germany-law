@@ -1,0 +1,85 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2006-01-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/812913
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/812913
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Vorstellung des Haderner Streetworkangebotes
+- TOP 1.2.: Vostellung der Pläne für den Kleinkinderspielplatz am Wiesenhang
+- TOP 1.3.: Räum- und Streupflicht, Durchfahrt in der Hohenklingenstraße
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Großhaderner Str. 12, gem Baumbestandsplan Nr. 37809
+- TOP 3.2.: Sonnenblumenstr. 11, 2 Ahorn
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Großhaderner Str. 14c, 1 Sommerlinde ( Referat für Stadtplanung und Bauordnung, 24.11.2005)
+- TOP 3.2.: Waldheim, 2 Weiden, 1 Ahorn, 1 Birke, 1 Esche; Schlagweg, 1 Prunus; Waldgartenstraße 67 a, 1 Kiefer, 1 Esche; Am Brombeerschlag, 1 Fichte, 1 Ahorn; Holzapfelkreutherstraße, 1 Ahorn; Stiftsbogen, 1 Fichte; Nothkaufplatz 73, 1 Crataegus; Stahleckplatz, 1 Ahorn; Saalburgstr. 30, 1 Birke (Baureferat, 15.11.2005)
+- TOP 3.3.: Waldfriedhof, 118 Baumfällungen (Baureferat, 17.11.2005)
+- TOP 3.4.: Würmtalstraße, 2 Esche, 3 Linde, 1 Kirsche, 3 Birken; Lupinweg, 1 Linde; Gräfelfingerstraße, 3 Esche; Zöllerstraße, 2 Birke, 1 Weide, 1 Esche; Walter-Hopf-Weg,3 Eschen, 1 Kirsche; Am Wiesenhang, 1 Fichte, 1 Ahorn; Großhadernerstraße, 1 Linde; Karl-Witthalm-Straße, 1 Esche; Kurparkstraße, 1 Linde; Waldwiesenstraße, 1 Esche, 1 Kirsche; Am Hedernfeld, 1 Ulme; Ludwig-Wörl-Weg 28, 1 Esche; Ludwig-Hunger-Straße, 1 Pappel; Waldgartenstraße, 7 Eschen; Am Waldrand, 1 Ahorn; Heiglhofstraße, 1 Linde, 1 Ahorn; Schlagweg, 1 Kirsche
+- TOP 3.5.: Senftenauerstraße, 1 Linde; Grünanlage Veilchenstraße, 1 Kirsche; Grünanlage Wastl-Witt-Straße, 1 Mehlbeere; BAB Lindau, 1 Buche
+- TOP 3.6.: Tischlerstraße, 13 Fichten, 2 Buchen, 1 Hainbuche, 2 Eichen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 3.1.: Fällungsantrag vom 05.10.2005, Steinbrechweg 6 (Referat für Stadtplanung und Bauordnung, 23.11.2005)
+- TOP 3.2.: Fällungsantrag vom 04.09.2005, Ringstr. 19 (Referat für Stadtplanung und Bauordnung, 29.11.2005)
+- TOP 4.: Ausschussberichte
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Einrichtung einer Beachvolleyballanlage in Großhadern, Empfehlung Nr. 196 vom 29.09.2005 (Baureferat)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Stadtteilbezogenes Verzeichnis der städtischen Kindertageseinrichtungen, Kooperationseinrichtungen und Tagesheime (Schul- und Kultusreferat, November 2005)
+- TOP 7.2.: Verkehrsrechtliche Anordnung, Haltverbot in der Prälat-Wellenhofer-Straße (KVR, 03.11.2005)
+- TOP 7.3.: Verkehrsrechtliche Anordnung, Verlängerung der Einzelmaßnahme Tempo 30 (KVR, 03.11.2005)
+- TOP 7.4.: Kultur im Stadtquartier, Zwischenbericht (Kulturreferat, 28.11.2005)
+- TOP 7.5.: Zweckentfremdung von Wohnraum - Kleinhaderner Str. (Sozialreferat, 02.12.2005)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Erschließung eines Kindergartens, Brunellenweg Fuß- und Radweg (Baureferat, 12.12.2005)
+- TOP 8.2.: Barrierefreie Zugänglichkeit bei BA Sitzungen (Behindertenbeauftragter 21.11.2005)
+- TOP 8.3.: Spielplatz Waldgartenstraße (Baureferat, 09.12.2005)
+- TOP 8.4.: Spielgeräteersatz für den Spielplatz am Wiesenhang (Baureferat, 05.12.2005)
+- TOP 8.5.: Veranstaltung auf dem Max-Lebsche-Platz, Circus Roberto (Baureferat, 15.12.2005)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Toilettenanlage am Lorettoplatz BA-Antrag Nr. 1985 vom 19.04.2004 (Kommunalreferat, 08.12.2005)
+- TOP 9.2.: Einzäunung einer geeigneten Fläche als Spielwiese, BA-Antrag Nr. 768 (Baureferat, 29.11.2005)
+- TOP 9.3.: Staatseigene Grundstücke "Am Stiftsbogen" in Kleinhadern; Altkleidercontainer (Kommunalreferat, 19.12.2005)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Fachtagung Leben und wohnen in München 2004, Broschüre (Sozialreferat)
+- TOP 11.2.: Münchner Statistik, 3 Quartalsheft 2005 (Direktorium)
+- TOP 11.3.: Weihnachtsgrüße (Seniorenbeirat, Spielkiste Blumenau e.V.)
+- TOP 11.4.: Planung der Einsätze der Münchner SommerSpielAktion 2006 (Spielen in der Stadt, 12.12.2005)
+- TOP 11.5.: Wohin mit dem Christbaum? (Abfallwirtschaftsbetrieb München)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: am 23.11.2005 Bauvorhaben, Errichtung einer Kooerationseinrichtung mit 2 Kindergarten- und 2 Krippengruppen an der Großhaderner Str. 40 im 20. Stadtbezirk Hadern
+- TOP 12.1.: am 23.11.2005: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 12.2.: am 14.12.2005: Haushaltsplan 2006 - Ansätze der zentralen Bereiche der Stadtkämmerei - Schlussabgleich
+- TOP 12.1.: Beschluss des Sozialausschusses vom 01.12.2005: Umwandlung der Unterkünfte in Mietwohnungen, Sachstandsbericht
+- TOP 12.2.: Beschluss des Bauausschusses vom 06.12.2005: Einsatz von Felsgestein zur Schonung der Baumbepflanzung
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 29.11.2005: Perspektive München, Familienfreundlichkeitsprüfung - ein Beitrag zur familien- und kinderfreundlichen Stadtentwicklung
+- TOP 12.2.: Beschluss des Sportausschusses des Stadtrates vom 13.12.2005: Erweiterung der Bezirkssportanlage am Wolkerweg um 1. Kunstrasenplatz und 2. Beachvolleyballfelder (Ziffer 1 des Antrages), Empfehlung Nr. 63 der Bürgerversammlung des 20. Stadtbezirkes Hadern am 16.10.2001
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.2005: Förderun von Familien bzw. Haushalten mit Kindern a) Anträgen aa) Erbbaumodell für Familien mit Kindern ab) Bezahlbarer Wohnraum für Familien ac) Pilotprojekt für Erbbaumodell für Familien mit Kindern b) Verbesserung bei der Kinderkomponente im Münchner Modell
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.2005: Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse und der einschlägigen Verbände
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.2005: Perspektive München, Leitprojekt Verkehrsentwicklungsplan 2005 a) Ergebnis der Öffentlichkeitsbeteiligung b) Ergebnisse und Entscheidungsvorschlag c) Anträge
+- TOP 12.4.: Beschluss in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.2005: Haushaltsplan 2006 - Einzelplan 4 des Sozialreferates
+- TOP 12.5.: Beschluss des Umweltschutzausschusses vom 29.11.2005: Lärmminderungsplan für München, EU-Umgebungslärmrichtlinie
+- TOP 12.1.: Bekanntgaben
+- TOP 12.2.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung am 07.12.2005: "Büroimmobilienmarkt München" Studie der BulwienGesa Ag
+- TOP 12.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung am 09.11.2005 und der Vollversammlung am 23.11.2005 PERSPEKTIVE MÜNCHEN, Münchner Bürgerinnen- und Bürgerbefragung 2005
+- TOP 12.4.: Kekanntgabe in der Sitzung des Kulturausschusses am 08.12.2005 Kultur im Stadtquartier, Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen, Evaluierung kultureller Zentren, Kulturelle Zentren und Stadtteilwochen
+- TOP 12.5.: Bekanntgabe im Sportausschuss des Stadtrates am 13.12.2005 Investitionsprogramm für städtische Freisportanlagen hier: Jährlicher Sachstandsbericht
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
