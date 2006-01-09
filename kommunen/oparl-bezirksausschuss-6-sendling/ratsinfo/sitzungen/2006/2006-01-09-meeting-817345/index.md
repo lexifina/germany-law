@@ -1,0 +1,66 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2006-01-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/817345
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/817345
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Seniorenwohnanlage Greinerberg 17
+- TOP 3.2.: Clearinghaus Leipartstraße 2
+- TOP 3.3.: Perspektive München
+- TOP 4.: Schulreferat
+- TOP 4.1.: Kindergartenversorgungsgrad in Sendling
+- TOP 4.2.: Umzug der Französischen Schule, Berlepschstraße 3
+- TOP 5.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Fußgängerübergänge an der Busplattform Am Harras
+- TOP 6.2.: Anordnung einer Pkw-Parkzone an der Plinganserstraße, südlich Am Harras
+- TOP 6.3.: Haltverbot im Bereich der Einfahrt Kidlerstraße 13 und 15; Antrag des BA 6 vom 07.11.05
+- TOP 6.4.: Parksituation Dietramszeller Straße
+- TOP 7.1.: Barrierefreie Zugänglichkeit der BA-Sitzungen
+- TOP 7.2.: Budgetantrag der Volkshochschule, Fotoausstellung
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Budermühlstraße 36 / Roter-Turm-Platz 5
+- TOP 8.3.: Bauvorhaben Schanzenbachstraße 1; Errichtung eines Wohnhauses mit Tiefgarage
+- TOP 8.4.: Bauvorhaben Implerstraße 17, EDEKA Einzelhandels- und Fachmarkt; Vorbescheid
+- TOP 8.5.: Werbeanlage an der Heckenstallerstraße / Plinganserstraße
+- TOP 8.6.: Kultursäulen an der Sortieranlage an der Gotzinger Straße
+- TOP 8.7.: "Büroimmobilienmarkt München" Studie der BulwienGesa AG
+- TOP 8.8.: Förderung von Familien bzw. Haushalten mit Kindern
+- TOP 8.9.: Bauvorhaben Schmied-Kochel-Straße 6; Antwort der LBK
+- TOP 8.10.: Bauvorhaben Daiserstraße 3; Antwort der LBK
+- TOP 9.: Baureferat
+- TOP 9.1.: Stadtteilwoche Sendling; Veranstaltung am Neuhofener Berg
+- TOP 9.2.: Isar-Plan; Planabschnitt zwischen der Braunauer Eisenbahnbrücke und dem Deutschen Museum
+- TOP 9.3.: Warenstellage Implerstraße 23 - 25a
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Bauvorhaben Lipowskystraße 32
+- TOP 10.2.: Baumfällung Bauvorhaben Bavariastraße 6a
+- TOP 10.3.: Baumfällung Bauvorhaben Bavariastraße 8a
+- TOP 10.4.: Fällgenehmigung für Gefahrenbäume im öffentlichen Raum
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 12.1.: Verlängerung der am 30. 07. 2006 außer Kraft tretenden Erhaltungssatzung für den 6. Stadtbezirk Sendling inhaltlich und im Umgriff um weitere fünf Jahre - <div>nach Antrag</div>
+- TOP 12.2.: Der Stadtrat der Landeshauptstadt München wird aufgefordert, die Bayerische Staatsregierung aufzufordern, im Verordnungsweg für Ballungsgebiete wie die Landeshauptstadt München die Umwandlung von Mietshäusern im Bestand in Eigentumswohnungen genehmigungspflichtig zu machen - <div>nach Antrag</div>
+- TOP 12.3.: Die Bayerische Staatsregierung wird aufgefordert, im Verordnungsweg für Ballungsgebiete wie die Landeshauptstadt München die Umwandlung von Mietshäusern im Bestand in Eigentumswohnungen genehmigungspflichtig zu machen. - <div>nach Antrag</div>
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Rattenbekämpfung in Sendling
+- TOP 13.2.: Zustand der Valleystraße nach Fernwärmeverlegung
+- TOP 13.3.: Errichtung von Fernwärmeleitungen in Sendling, Zusammenarbeit der Stadtwerke München mit dem BA; Antwortschreiben des Oberbürgermeisters
+- TOP 13.4.: Kultur im Stadtquartier, Zwischenbericht
+- TOP 13.5.: Lärmminderungsplan für München
+- TOP 13.6.: Haushaltsplanentwurf 2006 (Keine Kopie für die Fraktionen!)
+- TOP 13.7.: Pfarrkirche St. Margaret; der Kircheninnenraum wird nicht umgebaut
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
