@@ -1,0 +1,78 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2006-01-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/791891
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/791891
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Radwege zur Langwieder Seenplatte
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Anwesen Ippenberger Str. 9; Genehmigung eines Stellplatzes (Empfehlung Nr. 209 der Bürgerversammlung vom 18.10.05)
+- TOP 4.2.: Antrag auf Zuschuss aus dem Budget in Höhe von 1.850 Euro für eine Jugendweihnachtsfeier am 17.12.05; Antragsteller: Sportverein München-Untermenzing
+- TOP 5.: Anhörungen
+- TOP 5.1.: Faschingszug der Kath. Pfarrgemeinde Maria Himmelfahrt am 28.02.06
+- TOP 5.2.: Information über Eingriffe in den Gehölzbestand von öffentlichen und halböffentlichen Grün- und Freiflächen; geplante Baumfällungen in der Zaunerstraße
+- TOP 5.3.: Errichtung einer Kindertagesstätte mit 3 Kindergartengruppe am Pasinger Heuweg (Beschlussvorlage für den Schulausschuss am 22.02.06)
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 6.1.: Verkehrsplanung Münchner Nordwesten, Verbindungsstraße Angerlohe/Ludwigsfelder Straße; Aufnahme von Verhandlungen mit der Firma Krauss Maffei zur Überlassung der Werkstraße auf Miet- oder Mietkaufbasis
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Zuwendungsbewilligung aus dem Budget; Antragsteller: Interessengemeinschaft der Vereine Allach-Untermenzing e.V.
+- TOP 8.2.: Zuwendungsbewilligung aus dem Budget; Antragsteller: Jugendclub Allach
+- TOP 8.3.: Zuwendungsbewilligung aus dem Budget; Antragsteller: Bayer. Rotes Kreuz, Bereitschaft München-West 4
+- TOP 8.4.: Gespräch des Oberbürgermeisters und der 2. Bürgermeisterin mit den Vorsitzenden der BAs am 24.11.05
+- TOP 8.5.: "18.jetzt", Fest junger Erwachsener im Rathaus am 05.11.05; Nachbesprechung am Montag, 16.01.06
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Eröffnung der Lochhausener Straße
+- TOP 9.2.: Einladung zur 2. Informationsveranstaltung am 08.03.06 zumThema Straßenausbaubeitragsrecht
+- TOP 9.3.: Bahnübergang im Zusammenhang mit dem Neubau der Karl-Gayer-Unterführung (Antrag 416 des BA 23 vom 27.06.05)
+- TOP 9.4.: Maßnahmen zur Verkehrssicherheit in der Jestelstraße; Roteinfärbung des vorfahrtsberechtigten Radweges entlang der Von-Kahr-Straße
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Z 283 in der von-Kahr-Straße
+- TOP 10.2.: Gaststätte "Mannertstüberl", Mannertstr. 17; Antrag auf unveränderte Fortführung
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Bauanträge (v. 05.12.-11.12., 12.12.-18.12., 19.12.-25.12.05)
+- TOP 11.2.: Vollzug der BaumschutzVO a) Manzostr. 82, 1 Fichte b) Dachauer Str. 667, 7 Fichten
+- TOP 11.3.: Zusammenarbeit im Jahr 2005
+- TOP 11.4.: Münchner Bürgerinnen- und Bürgerbefragung 2005
+- TOP 11.5.: Verbindungsstraße Angerloh-/Ludwigsfelder Straße; Aufnahme von Verhandlungen mit der Firma Krauss-Maffei zur Überlassung der Werkstraße auf Miet- oder Mietkaufbasis
+- TOP 11.6.: Pilotprojekt Jugendbeteiligung an der Stadtplanung
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Kommunales Wohnungsbauförderungsprogramm
+- TOP 14.2.: Straßen- und Stadtteilfeste; Abstimmung auf die Belange von Kindern und Jugendlichen
+- TOP 14.3.: Genehmigung der Zweckentfremdung durch Abbruch; Brückestraße
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Mobilfunk; Suchkreismeldung Angerlohe
+- TOP 15.2.: Mobilfunk; Suchkreismeldung M-Autobahntunnel
+- TOP 15.3.: Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage, Erdenbörse und Erdenwerk am Standort Goteboldstr. 100
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18.: Schreiben anderer Bezirksausschüsse
+- TOP 18.1.: BA 9 Neuhausen-Nymphenburg: Fest 18.jetzt
+- TOP 18.2.: BA 13 Bogenhausen: Kürzung der Zuschüsse der Referate zu Lasten des BA-Budgets
+- TOP 18.3.: BA 21 Pasing-Obermenzing: Östlicher Zugang zum S-Bahnhof Untermenzing
+- TOP 19: Schreiben der Deutschen Bahn AG
+- TOP 19.4.: Ausbau der S-Bahnlinie 2 München-Dachau-Petershausen
+- TOP 20: Stadtrats - und Ausschussbeschlüsse
+- TOP 20.1.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 11.10.05: - Haushaltsplan 2006; Einzelplan 4 des Sozialreferates
+- TOP 20.2.: Ausschuss für Stadtplanung und Bauordnung vom 30.11.05: - Förderung von Familie bzw. Haushalten mit Kindern - Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der BAs und der einschlägigen Vereine - Perspektive München, Leitprojekt Verkehrsentwicklung 2005
+- TOP 20.3.: Bauausschuss vom 06.12.05: - Einsatz von Felsgestein zur Schonung der Baumbepflanzung - Ausbau der Ludwigsfelder Straße - Weinschenkstraße zwischen Professor-Eichmann-Straße und Bauseweinallee
+- TOP 20.4.: Ausschuss für Stadtplanung und Bauordnung vom 07.12.05: - "Büroimmobilienmarkt München" - Studie der BulwienGesa AG - Förderung von Familien bzw. Haushalten mit Kindern
+- TOP 20.5.: Kulturausschuss vom 08.12.05: - Kultur im Stadtquartier
+- TOP 20.6.: Sportausschuss vom 13.12.05: - Investitionsprogramm für städtische Freisportanlagen; hier: Jährlicher Sachstandsbericht
+- TOP 20.7.: Vollversammlung vom 14.12.05: - Lärmminderungsplan für München, EU-Umgebungslärmrichtlinie
+- TOP 21: Verschiedenes
