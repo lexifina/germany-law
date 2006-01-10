@@ -1,0 +1,66 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2006-01-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/809330
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/809330
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Bedarfsampel Landsberger Straße Höhe HsNr. 150; Verkürzung des Intervalls Empfehlung Nr. 152 der BV des BA 8 am 07.07.05
+- TOP 4.2.: Erweiterung des bestehenden UA Budget auf vier Mitglieder sowie Wahl des Vorsitzenden und Wahl der UA Mitglieder
+- TOP 5: Anhörungen
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Erhalt des Lindengartens auf der Schwanthalerhöh´
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: SHZ - Rundbrief Dezember 2005
+- TOP 6.2.2.: Beschluss des Sozialausschusses vom 23.06.2005 (SB) Projekt "Reform der Alten- und Service-Zentren - Fachlich inhaltliche Überprüfung und Weiterentwicklung der Leistungsfähigkeit, des Angebotes und Netzes der ASZ Erneute Behandlung aus 09/05 und 11/05
+- TOP 6.2.3.: Beschluss des Sozialausschusses vom 07.07.05 (VB) Konzept zur pflegerischen Versorgung älterer Menschen in München Erneute Behandlung aus 09/05 und 11/05
+- TOP 6.2.4.: Gesundheitstag der AOK München am 01.04.06
+- TOP 6.2.5.: Nachbesprechung zum Fest junger Erwachsener ("18.jetzt") vom 05.11.05
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.3.1.: Infobrief 3 - Dezember 2005 des Ausländerbeirates der LH München
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Schnellstmögliche Errichtung einer Fußgängerampel in der Heimeranstraße in der Höhe der Feuerwache Antwortschreiben KVR vom 29.11.2005 Erneute Behandlung aus 12/05
+- TOP 6.4.2.: Unterrichtung über das Fällen von Gefahrenbäumen Trappentreustraße
+- TOP 6.4.3.: Baumfällung Schrenkstr. 8
+- TOP 6.4.4.: Baumfällung Kazmairstr. 36
+- TOP 6.4.5.: 2. Informationsveranstaltung zum Thema Straßenausbaubeitragsrecht
+- TOP 6.4.6.: 2. S-Bahn-Stammstrecke München
+- TOP 7: Erledigungen
+- TOP 7.1.: Kündigung der integrierten Diakonie- und Sozialstation im ASZ Westend Antwortschreiben
+- TOP 7.2.: Bäume in der Ganghoferstraße; Gehwegnasen mit Baumbepflanzung 10/05-T3 Abgabenachricht
+- TOP 7.3.: Sanierung Sportanlage Kazmairstraße - Sanierung der Rasenfläche des Fußballplatzes - Reparatur des Fußballtores, - Sanierung des Tartanplatzes - Öffnung des zweiten Eingangstores - Erhöhung des vorhandenen Zauns über den Fußballtoren durch Ballfangnetze Antwortschreiben
+- TOP 7.4.: "Streetwork im Gemeinwesen"
+- TOP 7.5.: Straßen- und Stadtteilfeste mehr auf die Belange von Kindern und Jugendlichen abstimmen
+- TOP 7.6.: Bescheid zur Zuwendung aus dem Budget für das Jugendprogrammiercenter München e.V.
+- TOP 7.7.: Parksituation Kirchplatz St. Benedikt, Schrenkstraße
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Meldeliste 05.12.05 - 11.12.05 Erstantragsverfahren a) Kazmairstr. 47 b) Westendstr. 161
+- TOP 9.2.: Meldeliste 05.12.05 - 11.12.05 Änderungsverfahren a) Guldeinstr. 39
+- TOP 9.3.: Meldeliste 12.12.2005 - 18.12.2005 Erstsantragsverfahren a) Landsberger Str. 13
+- TOP 9.4.: Meldeliste 12.12.2005 - 18.12.2005 Änderungsverfahren a) Theresienhöhe 7
+- TOP 10: Verschiedenes
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Protokoll 12/05
+- TOP 11.2.: Schriftverkehr 12/05
+- TOP 11.3.: Beschluss in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.2005 (VB) Haushaltsplan 2006 - Einzelplan 4 des Sozialreferates
+- TOP 11.4.: Beschluss der Vollversammlung des Stadtrates vom 14.12.2005 Unterlagen für die Beratung und Verabschiedung des Haushaltsplanentwurfs 2006
+- TOP 11.5.: Bekanntgabe im Sportausschuss des Stadtrates am 13.12.2005 Investitionsprogramm für städt. Freisportanlagen hier: Jährlicher Sachstandsbericht
+- TOP 11.6.: Beschluss des Umweltausschusses vom 29.11.2005 (VB) Lärmminderungsplan für München EU-Umgebungslärmrichtlinie
+- TOP 11.7.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung am 07.12.2005 "Büroimmobilienmarkt München" Studie der BulwienGesa AG
+- TOP 11.8.: Beschluss der Vollversammlung des Stadtrates vom 14.12.05 Hauptbahnhof
+- TOP 11.9.: Bekanntgabe in der Sitzung des Kulturausschusses vom 08.12.05 Kultur im Stadtquartier
+- TOP 11.10.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.05 zur Förderung von Familien bzw. Haushalten mit Kindern
+- TOP 11.11.: Lärmminderungsplan für München
