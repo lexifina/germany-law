@@ -1,0 +1,108 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2006-01-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/767479
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/767479
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Parkplatzsituation im Viertel St.-Bonifatius-Str. / Tegernseer Landstraße / Helig-Kreuz-Kirche; Bürgerschreiben vom 05.07.2005 (vertagt aus der Sitzung am 13.12.2005)
+- TOP 2.2.: Artikel in der SZ "Auf Schuldächern geht die Sonne auf" vom 22.09.2005; Solaranlage für die Hauptschule an der Perlacher Straße; Schreiben vom 07.12.2005
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3.: Anträge/Anfragen
+- TOP 3.1.: Kürzung der Zuschüsse der Referate zu Lasten der BA-Budgets; Beschluss des BA 13 vom 13.12.2005 mit der Bitte um Unterstützung
+- TOP 3.2.: Baumfällungen im 17. Stadtbezirk; Teilnahme des Bezirksausschusses an Begutachtungsterminen des Baureferats/Gartenbau; Antrag des UA Umwelt vom 05.12.2005
+- TOP 3.3.: BA-Antrag: Die Veranstalter von Straßenfesten sollen dazu angehalten werden, ein größeres, insbesondere längeres Programm für Kinder und Jugendliche anzubieten; Schreiben des Sozialreferats vom 21.12.2005 mit der Bitte um Unterstützung
+- TOP 4.: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: Zuschuss an den Verein "Freunde Giesings e.V." in Höhe von 438,-- Euro für den Giesinger Hoargart´n 2005; Schreiben des Vereins vom 21.12.2005
+- TOP 4.5.: Unterausschüsse
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Fasangartenstraße zwischen Tegernseer Landstraße und Kreuzbichlweg im 17. Stadtbezirk Obergiesing; Verbesserung; Beschluss des Bauausschusses vom 06.12.2005
+- TOP 0.3.: "Büroimmobilienmarkt München"; Studie der BulwienGesa AG; Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung am 07.12.2005
+- TOP 0.4.: Gemeinde Neubiberg; Bebauungsplan Nr. 64, 1. Änderung; Satzungsbeschluss der Gemeinde Neubiberg vom 08.12.2005; Zuleitung des Referats für Stadtplanung und Bauordnung vom 13.12.2005
+- TOP 0.5.: Instandsetzung der Straßenbrücke Stadelheimer Straße im Zuge der Tegernseer Landstraße (McGraw Graben) im 17. Stadtbezirk; Verwaltungsinterne Projektgenehmigung; Zuleitung des Baureferats
+- TOP 0.6.: Gaststätten (unveränderte Forführung); Mitteilungen des KVR 5.1.4.6.1 SSW "Contact"; Herzogstandstraße; Mitteilung vom 19.12.2005 5.1.4.6.2 SSW "Scharfreiteralm"; Scharfreiterstraße; Mitteilung vom 27.12.2005
+- TOP 0.7.: Vollzug des Bayer. Straßen- und Wegegesetzes; Warenauslagen/Warenstellagen auf öffentlichem Grund; Aktenzeichen: V43-9173-1544; Schreiben des Baureferats vom 20.12.2005
+- TOP 0.1.: Frauengesundheitswoche "Lust auf Bewegung", 08. bis 19. Mai 2006; Zuleitung des Referats für Gesundheit und Umwelt vom 30.11.2005 mit der Bitte um Unterstützung und Mithilfe
+- TOP 0.2.: Planung der Einsätze der Münchner SommerSpielAktion 2006; Schreiben der Pädagogischen Aktion / Spielen in der Stadt e.V. vom 12.12.2005 mit der Bitte um Rückmeldung bis Anfang Februar
+- TOP 0.1.: Investitionsprogramm für städtische Freisportanlagen; hier: Jährlicher Sachstandsbericht; Bekanntgabe im Sportausschuss des Stadtrats am 13.12.2005
+- TOP 0.2.: Pilotprojekt Jugendbeteiligung an der Stadtplanung; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 20.12.2005 zum BA-Antrag Nr.02-08 / B 00 632 des BA 5 vom 21.09.2005
+- TOP 0.3.: Haushaltsplan 2006 - Einzelplan 4 des Sozialreferates -; Beschluss in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.2005 (VB)
+- TOP 0.1.: Vereinbarung zwischen dem Bund und der Landeshauptstadt München über die Übernahme der Straße in der Wohnanlage im Perlacher Forst; Anhörung gemäß § 3 der BA-Satzung; Zuleitung des Baureferats vom 25.11.2005 mit der Bitte um Stellungnahme (vertagt aus der Sitzung am 13.12.2005) TOP 5.3.3.2.1 Lincolnstraße TOP 5.3.3.2.2 Wikinger Straße TOP 5.3.3.2.3 Leifstraße
+- TOP 0.2.: Balan- / Stadelheimer- / Schwanseestraße; Z. 283 StVO; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des kVR vom 06.12.05 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 0.3.: Haltverbot St.-Martin-Straße / Schlierseestraße; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vopm 08.12.05 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 0.4.: Änderung der zeitlichen Befristung in der Kurzparkzone Severinstraße; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 20.12.05 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 0.5.: Eingeschränktes Haltverbot St.-Martin-Straße (Schule); Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 20.12.05 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 0.1.: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln; Beschluss der Vollversammlung des Stadtrates vom 23.11.2005
+- TOP 0.2.: Parkraummanagement; Anpassung der Maßnahmen - Hiendlmayerstraße; Stellungnahme des BA 5 an das KVR vom 15.12.2005
+- TOP 0.3.: Parkerleichterung für Schwerbehinderte; personenbezogener Sonderparkplatz im Bereich Minnewitstraße 4; Schreiben des KVR vom 19.12.2005
+- TOP 0.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats - Gartenbau vom 29.11.2005 zu 5.4.4.1 weitere Unterrichtung über das Fällen von Gefahrenbäumen vom 29.11.2005
+- TOP 0.2.: Lärmminderungsplan für München; EU-Umgebungsrichtlinie; Ergänzung; Beschluss des Umweltausschusses vom 29.11.2005 (VB)
+- TOP 0.3.: Mobilfunk; Zuleitungen des RGU (ggf. Behandlung in nichtöffentlicher Sitzung) 5.4.4.3.1 Suchkreismeldung M-Stadelheim; Zuleitung vom 12.12.2005 5.4.4.3.2 Suchkreismeldung M-Giesing Kapazität; Zuleitung vom 12.12.2005
+- TOP 0.4.: Vollzug der Baumschutzverordnung; Bescheinigungen über das Fällen von Gefahrenbäumen 5.4.4.4.1 Anwesen in der Tegernseer Landstraße; Zuleitung vom 16.12.2005
+- TOP 0.1.: Veranstaltung von 25.05. bis 28.05.2006 an der Weißenseestraße / Untersbergstraße (Puppenbühne Liebe); Zuleitung des Baureferats vom 16.12.05 mit der Bitte um Stellungnahme bis 28.01.2006
+- TOP 0.1.: Konzept für ein offenes Kulturforum im 17. Stadtbezirk (vertagt aus der Sitzung am 13.12.2005)
+- TOP 0.1.: Kultur im Stadtquartier; Zwischenbericht; Schreiben des Kulturreferats vom 28.11.2005
+- TOP 6.: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.1.: Fest "18 jetzt" im Rathaus: Manöverkritik und Anregungen des BA 9; Schreiben des BA 9 vom 20.12.2005 mit der Bitte um Rückäußerung
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.: Berichte der Beauftragten
+- TOP 7.7.1: Ausländer/Innen
+- TOP 7.7.2: Baumschutz
+- TOP 7.7.2.1: Einzelfälle
+- TOP 7.1.: Anwesen in der Tegernseer Landstraße; Anhörung vom 29.11.2005
+- TOP 7.2.: Anwesen in der Cincinnatistraße; Anhörung vom 13.12.2005
+- TOP 7.7.2.2: Baumbestandspläne
+- TOP 7.1.: Anwesen in der Kapellenfeldstr.; Anhörung vom 09.12.2005
+- TOP 7.7.3: Behinderte
+- TOP 7.7.4: Frauen
+- TOP 7.7.5: Kinder
+- TOP 7.7.6: Senioren/Innen
+- TOP 7.7.7: Stadtteilpartnerschaft Colerain Township, Ohio, USA
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.: 2. Informationsveranstaltung zum Thema Straßenausbaubeitragsrecht am 08.03.2005; Einladung des Baureferats vom 21.12.2005
+- TOP 8.3.: "18.jetzt", Fest junger Erwachsener im Rathaus am 05.11.2005; Nachbesprechung am Montag, 16.01.2006, 18.00 Uhr im Großen Sitzungssaal des Rathauses; Schreiben des Direktoriums vom 20.12.2005
+- TOP 8.8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
