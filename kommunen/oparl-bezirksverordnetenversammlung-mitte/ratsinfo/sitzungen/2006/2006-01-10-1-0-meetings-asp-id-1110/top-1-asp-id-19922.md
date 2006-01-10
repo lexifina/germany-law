@@ -1,0 +1,7 @@
+# TOP 1: Genehmigung des Protokolls der 41. Sitzung am 6.12.2005
+
+- Sitzung: 42. öffentliche Sitzung des Ausschusses für Bürgerdienste, Interkulturelle Angelegenheiten und Gleichstellung (2006-01-10)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=19922
+- Ergebnis: erledigt
