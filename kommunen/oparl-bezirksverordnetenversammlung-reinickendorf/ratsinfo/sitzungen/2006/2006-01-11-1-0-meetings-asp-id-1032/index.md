@@ -1,0 +1,59 @@
+# 46. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2006-01-11T17:00:00+01:00
+- Ende: 2006-01-11T19:32:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1032
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1032
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=30511
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Konsensliste - im Ausschuss abgelehnt
+- TOP 3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Absolutes Halteverbot im Amboßweg durchsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.2: Implementierung von Gender Mainstreaming - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Bebauungsplanentwurf 12-13 für das Grundstück Tornower Weg 14 / 22, Ortsteil Märkisches Viertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-196 für das Grundstück Beatestraße 29 / Theresenweg 9 B und C, Ortsteil Konradshöhe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Erfahrungsbericht des Patientenfürsprechers im Krankenhaus Reinickendorf - ö. B. KBoN - Krankenhaus des Maßregelvollzuges Berlin (KMV) für den Zeitraum Januar 2004 bis Dezember 2005 - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Reinickendorf ist aktiv - Ehrenamt im Bezirk - beantwortet
+- TOP 6.2: Medizinische Opfer des Nationalsozialismus - überwiesen
+- TOP 6.3: Gesamtkonzept für Gedenkzwecke - beantwortet
+- TOP 6.3.1: Gesamtkonzept für Gedenkzwecke - überwiesen
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Entwurf des Bebauungsplanes 12-1 für das Grundstück Großkopfstraße 9 - 13 sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-1 - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Entwurf des Bebauungsplanes XX-190 für die Grundstücke Gabrielenstraße 37 A, 37 B, 65 B sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-190 - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Verordnung über die Veränderungssperre XX-190 / 43 für die Grundstücke Gabrielenstraße 37 A, 37 B und 65 B, Ortsteil Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Antrag auf Änderung der Geschäftsordnung - erledigt
+- TOP 8.2: Einhaltung und Schutzbestimmungen im Fließtal und Unterbindung von Feuerwerken am Strandbad Lübars - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Mehr Demokratie - Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Auflistung der Liegenschaften des Bezirks - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Unleserliche Straßenschilder - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Keine Militanten in Reinickendorf! - überwiesen
+- TOP 8.7: Bezirkshaushaltsrechnung für das Haushaltsjahr 2004 - ohne Änderungen in der BVV beschlossen
+- TOP 8.8: "Denkzeit-Training" für deliquente Jugendliche - erledigt
+- TOP 8.9: Mittelstreifen auf dem Wilhelmsruher Damm sichern - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Grünflächenpflege am S-Bahnhof Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 8.11: Bibliothek in der Hannah-Höch-Schule - erledigt
+- TOP 8.12: Drs. Nr. 1319/XVII Verordnung über die Veränderungssperre XX-190 / 43 BESCHLUSSEMPFEHLUNG des Bau-A. v. 06.12.2005 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: Bibliotheksbus in Hersmdorf einsetzen! - überwiesen
+- TOP 9.2: Behindertengerechte Ausstattung im Ernst-Reuter-Saal - überwiesen
+- TOP 9.3: Schulreinigung im Bezirk Reinickendorf - überwiesen
+- TOP 9.4: Priorität für Reinickendorfer Kinder in Reinickendorfer Schulen - überwiesen
+- TOP 9.5: Schulschwänzer - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Ernährung und Gesundheitspädagogik bei Kindern - überwiesen
+- TOP 9.7: Straßenausbaubeitragsgesetz im Bezirk Reinickendorf - vertagt
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: Hochbegabung erkennen - überwiesen
+- TOP 10.2: Lichtsignalanlage im Senftenberger Ring Ecke Calauer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Verzicht auf so genannte Pflanzenschutzmittel bei der BSR - ohne Änderungen in der BVV beschlossen
