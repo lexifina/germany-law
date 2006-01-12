@@ -1,0 +1,7 @@
+# TOP 1: Niederschrift 01.12.2005
+
+- Sitzung: Bezirksvertretung Hardt (2006-01-12)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/105521
+- Ergebnis: Zur Kenntnis genommen
