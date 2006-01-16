@@ -1,0 +1,64 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2006-01-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/802509
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/802509
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Errichtung einer Lichtzeichenanlage an der Einmündung "In den Kirschen" / Wintrichring bzw. Frauenwörther Straße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses; Grundschule Amphionpark: Förderung der Lesekompetenz
+- TOP 6.: Anhörungen
+- TOP 6.1.: S-Bahn-Stammstrecke München; Bereitstellungsflächen auf dem Rangierbahnhofgelände
+- TOP 6.2.: Straßenwiederherstellung In den Kirschen
+- TOP 6.3.: Freischankfläche auf öffentlichem Verkehrsgrund: "Wintergarten", Hanauer Str. 7
+- TOP 6.4.: Öffentlicher Spielplatz für Jugendliche "In den Kirschen"
+- TOP 6.5.: Vollzug der Baumschutzverordnung: 1. Abensbergstr. 58
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Erhalt der Haltestellen der Buslinie 51 am Bunzlauer Platz
+- TOP 7.2.: Pflege der Grünzüge entlang des Rangierbahnhofs
+- TOP 7.3.: Neugestaltung der Fußgängerunterführung Wintrichring / Maria-Ward-Straße
+- TOP 7.4.: Errichtung eines Bouleplatzes in der Grünanlage zwischen Merseburger Straße und Leipziger Straße
+- TOP 7.5.: Straßenverkehrssicherungspflicht in der Hartmannshofer Straße
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Investitionsprogramm für städtische Freisportanlagen; hier: Jährlicher Sachstandsbericht
+- TOP 8.2.: Ausbau der Dachauer Straße zwischen Gröbenzeller Straße und Wildermuthstraße; Genehmigung der Bedarfsanmeldung und Untersuchungsauftrag
+- TOP 8.3.: Lärmminderungsplan für München
+- TOP 8.4.: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 8.5.: Siedlung Nederling; Beleuchtung des Bolzplatzes jenseits des Wintrichrings (Schreiben an den BA 9 Neuhausen-Nymphenburg)
+- TOP 8.6.: Die Münchner Baumschutzverordnung (Ergänzung vom 15.12.2005)
+- TOP 8.7.: Fest "18 jetzt" im Rathaus: Manöverkritik und Anregungen des BA 9
+- TOP 8.8.: Magnetschwebebahn München Hauptbahnhof - Flughafen
+- TOP 8.9.: Perspektive München - Familienfreundlichkeitsprüfung
+- TOP 8.10.: Fällung von Gefahrbäumen
+- TOP 8.11.: Zukunftssicherung des Olympiageländes (Ergänzung)
+- TOP 8.12.: Mobilfunk: Baubeginnsanzeigen - nicht-öffentlich -
+- TOP 8.13.: Antrag der städt. Kinderbeauftragten zu Straßen- und Stadtteilfesten
+- TOP 8.14.: Pilotprojekt Jugendbeteiligung an der Stadtplanung
+- TOP 8.15.: Kürzung der Zuschüsse der Referate zu Lasten des BA-Budgets (Schreiben des BA 13 Bogenhausen)
+- TOP 8.16.: Haushaltsplan 2006 - Einzelplan 4 des Sozialreferates (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 8.17.: Stadtteilbezogenes Verzeichnis der städtischen Kindertageseinrichtungen, Kooperationseinrichtungen und Tagesheime
+- TOP 8.18.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2006 (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 8.19.: "Büroimmobilienmarkt München", Studie der BulwienGesa AG
+- TOP 8.20.: Kultur im Stadtquartier, Zwischenbericht
+- TOP 8.21.: Unveränderte Fortführung von Schank- und Speisewirtschaften 1. "Dietrich von Bern", Dietrichstr. 2 2. "Blue Bavaria", Bingener Str. 13
+- TOP 8.22.: Meldeliste Bauvorhaben
+- TOP 8.23.: Perspektive München, Münchner Bürgerinnen- und Bürgerbefragung 2005
+- TOP 4: Anträge
