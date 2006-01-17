@@ -1,0 +1,7 @@
+# TOP 14.6.: Referat für Stadtplanung und Bauordnung - Plangenehmigung nach § 18 Abs. 2 Allgemeines Eisenbahngesetz (AEG), Antrag der DB ProjektBau GmbH, Barrierefreier Ausbau des S-Bahnsteige München-Pasing, Neubau der Dächer auf den S-Bahnsteigen, Errichtung von Fahrradabstellplätzen, Erhöhung der Bahnsteige u.v.m. (BA-Schreiben vom 11.11.05) - Am Gänsebühel 10, Neubau eines Mehrfamilienhauses - Antrag auf Baumfällung in der Marsopstraße 17; Bescheid vom 12.12.05 - Antrag auf Baumfällung in der Pagodenburgstraße 8; Bescheid vom 12,12,05 - "Das Wasserpumpenhaus in Pasing soll erhalten bleiben!" (BA-Antrag Nr. 574 vom 19.09.05) - Münchner Bürgerinnen- und Bürgerbefragung 2005 - Allgemeines Eisenbahngesetz; Planänderung gem. § 76 Abs. 2 Verwaltungsverfahrensgesetz analog für das Vorhaben Betonschalthaus an der Bärmannstraße - Döbereinerstraße 25, Neubau einer Mehrfamilienwohnanlage mit Tiefgarage - Pilotprojekt Jugendbeteiligung an der Stadtplanung - "Das Wasserpumpenhaus in München-Pasing soll erhalten bleiben!" (BA-Antrag Nr. 574 vom 13.09.05 - Antrag auf Verlängerung der Geltungsdauer der Genehmigung zur Aufstellung der Skulpturengruppe "Sich aufrichtende Halme" im Schlossweiher Blutenburg
+
+- Sitzung: BA 21 - Vollgremium (2006-01-17)
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/64468
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/64468
