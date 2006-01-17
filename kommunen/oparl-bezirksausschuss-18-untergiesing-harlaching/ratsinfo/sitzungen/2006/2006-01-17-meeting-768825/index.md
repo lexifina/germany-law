@@ -1,0 +1,102 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2006-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/768825
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/768825
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Aufstellen eines Briefkastens an der U-Bahnhaltestelle St.-Quirin-Platz; Bürgerschreiben vom 09.12.2005
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Kath. Männerfürsorgeverein München eV; für die Maßnahme: Erweiterung des Projekts McGreen auf den Hans-Mielich-Platz, Antragssumme: 572.- ?; Beschlussvorlage des Direktorium vom 20.12.2005
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Volksschule München Rotbuchenstraße, für die Maßnahme: Kauf von Büchern für den Lesespeicher; Antragssumme: 3.000.- ?; Antrag vom 21.12.2005
+- TOP 3.2.: AntragsstellerIn: Volksschule München Rotbuchenstraße; für die Maßnahme: Kauf einer Hochseilanlage und eines Seils für den Zirkusunterricht; Antragssumme: 2008.- ?; Antrag vom 21.12.2005
+- TOP 3.3.: AntragsstellerIn: Münchner Konzertchor eV; für die Maßnahme: Oratorium "Elias" von Felix Mendelssohn in der Emmauskirche am 07.10.2006; Antragssumme: 1000.- ?; Antrag vom 08.12.2005
+- TOP 3.1.: Kürzung der Zuschüsse der Referate zu Lasten des BA-Budgets; Schreiben des BA 13 - Bogenhausen - vom 21.12.05 mit der Bitte um Unterstützung
+- TOP 3.1.: Sachbericht der Ateliergemeinschaft "idylle.atelier im glashaus" über die Aktionsausstellung vom 14. - 16. Oktober 2005; Zuleitung vom 23.12.2005
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Verkehrs- / Parksituation vor dem Kindergarten Oberbiberger / Säbener Straße; Bürgerschreiben vom 09.12.05 (vertagt, TOP 2.1.2.3 vom 20.12.05)
+- TOP 3.1.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu verkehrsrechtlichen Anordnungen nach § 45 StVO; Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme 3.2.4.1.1 Schrägparken Waldeckstraße; Zuleitung vom 16.12.2005 3.2.4.1.2 Eingeschränktes Haltverbot in der Thusneldastraße; Aufhebung der zeitlichen Befristung; Zuleitung vom 16.12.2005 3.2.4.1.3 Haltverbot in der Kupferhammerstraße/Hebenstreitstraße; Zuleitung vom 15.12.2005
+- TOP 3.1.: Geschwindikeit des Verkehrs in der Schönstraße und Parkplatzprobleme am Wochenende; Bürgeranliegen aus der Sitzung am 19.07.2005; Antwortschreiben des Kreisverwaltungsreferats vom 09.12.2005
+- TOP 3.2.: Wildes Camping in der Sachsenstraße; Bürgeranliegen vom 13.09.2005; Antwortschreiben der Polizeiinspektion 23 vom 08.12.2005
+- TOP 3.1.: Beschleunigung der Buslinie 52; Sitzungsvorlage Nr. 02-08 / V 07316; Beschluss des gemeinsamen Ausschusses für Arbeit und Wirtschaft, des Kreisverwaltungsausschusses und des Bauausschusses vom 06.12.2005
+- TOP 3.2.: Parkplätze an der Schönstraße, Antrag von Herr Stadtrat Dr. Babor vom 22.06.2005; Sitzungsvorlage Nr. 02-08 /V 07402; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Mobilfunk; Suchkreismeldungen; Mitteilungen des Referats für Gesundheit und Umwelt (ggf. Behandlung in nichtöffentlicher Sitzung) 3.3.4.1 M-Harlaching; Zuleitung vom 12.12.2005 3.3.4.2 Untergiesing-Kapazität; Zuleitung vom 13.12.2005
+- TOP 3.1.: Katalog der Fälle der Ahörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutz- und der Landschaftsschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats vom 01.12.2005, 09.12.2005, 20.12.2005 und 23.12.2005
+- TOP 3.2.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen in der Grünwalder Straße; Bescheinigung vom 22.12.2005 3.3.6.2.2 Anwesen in der Harthauser Straße; Bescheid vom 05.12.2005 3.3.6.2.3 Anwesen in der Lindenstraße; Bescheid vom 27.12.2005
+- TOP 3.3.: Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse un der einschlägigen Verbände; Sitzungsvorlage Nr. 02-08 / V 07153; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Beibehaltung des Turnhallenneubaus am Theodolinden-Gymnasium in Liste 1 des Mehrjahresinvestitionsprogrammes (vertagt, TOP 3.4.3.2 vom 20.12.05)
+- TOP 3.1.: Straßen und Stadtteilfest mehr auf die Belange von Kindern abstimmen; Schreiben des Sozialreferats vom 21.12.2005
+- TOP 3.1.: Frauengesundheitswoche "Lust auf Bewegung", 08. bis 19. Mai 2006; Zuleitung des Referats für Gesundheit und Umwelt vom 30.11.2005 mit der Bitte um Rückmeldung
+- TOP 3.2.: Planung der Einsätze der Münchner Sommerspielaktion 2006; Schreiben von "Spielen in der Stadt" vom 12.12.2006 mit der Bitte um Rückäußerung
+- TOP 3.1.: Neuer Name für das Männer-Unterkunftsheim Pilgersheimer Straße; Antrag Nr. 02-08 / B 00608 des BA 18 vom 20.09.2005; Antwortschreiben des Sozialreferats vom 23.12.2005
+- TOP 3.2.: Pilotprojekt Jugendbeteiligung an der Stadtplanung; Antrag Nr. 02-08 / B 00632 des BA 5 Au-Haidhausen vom 21.09.2005; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 20.12.2005
+- TOP 3.3.: Erhalt der Palliativstation im Krankenhaus Harlaching; Antrag des BA 18 vom 18.10.2005; Zwischennachricht des Referats für Gesundheit und Umwelt vom 30.12.2005
+- TOP 3.1.: Invesitionsprogramm für städtische Freisportanlagen, hier: jährlicher Sachstandsbericht; Sitzungsvorlage Nr. 02-08 / V 07214; Bekanntgabe im Sportausschuss des Stadtrats am 13.12.2005
+- TOP 3.2.: Perspektive München; Familienfreundlichkeitsprüfung - ein Beitrag zur familien- und kinderfreundlichen Stadtentwicklung; Leitlinie Kinder- und Familienpolitik; Sitzungsvorlage Nr. 02-08 / V 07194; Beschluss der Vollversammlung des Stadtrats vom 14.12.2005
+- TOP 3.3.: Haushaltsplan 2006 - Einzelplan des Sozialreferats; Sitzungsvorlage Nr. 02-08 / V 06895; Beschluss in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.2005
+- TOP 3.4.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des zweiten Bildungswegs und den den Schulen besonderer Art im Schuljahr 2005/2006; Sitzungsvorlage Nr. 02-08 / V 07292; Bekanntgabe in der Sitzung des Schulausschuss des Stadtrats vom 11.01.2006
+- TOP 3.5.: Schüler- und klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2005/2006; Sitzungsvorlage Nr. 02-08 / V 07444; Bekanntgabe im Schulausschuss des Stadtrats vom 11.01.2006
+- TOP 3.6.: Schüler/innen und Klassenstand, Berufliche Schulen der Landeshauptstadt München im Schuljahr 2005/2006; Stand 20.10.2005; Sitzungsvorlage Nr. 02-08 / V 07330; Bekanntgabe im Schulausschuss des Stadtrates am 11.01.2006
+- TOP 3.7.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen für das Schuljahr 2005/2006; Sitzungsvorlage Nr. 02-08 / V 07452; Bekanntgabe im Schulausschuss des Stadtrats vom 11.01.2006
+- TOP 3.8.: Bereinigtes Einschreibeergebnis für das Kindergartenjahr/Schuljahr 2005/2006; Sitzungsvorlage Nr. 02-08 / V 07443; Bekanntgabe im Schulausschuss des Stadtrats vom 11.01.2006
+- TOP 3.9.: Umbau und Aufstockung des Kinder- und Jugendtreffs am Wettersteinplatz, Fromundstraße 1 im 18. Stadtbezirk Untergiesing-Harlaching; Verwaltungsinterne Projektgenehmigung; Zuleitung des Sozialreferats vom 07.12.2005
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Anhörungen zu Bauvorhaben
+- TOP 3.2.: Baumbestandspläne 3.5.4.2.1 Anwesen in der Schönstraße; Anhörung vom 22.12.2005 3.5.4.2.2 Anwesen Am Staudengarten; Anhörung vom 16.12.2005 3.5.4.2.3 Anwesen in der Methfesselstraße; Anhörung vom 30.12.2005
+- TOP 3.1.: Instandsetzung des Fußwegs von der Lohstraße zur Lutherkirche; Antrag Nr. 02-08 / B 00603 des BA 18 vom 20.09.2005; Antwortschreiben des Baureferats und des Bezirksausschuss 17, Obergiesing, vom 05.12.2005
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen), Mitteilungen durch das Kreisverwaltungsreferat 3.5.6.2.1 SSW "Goldene Kanne", Aggensteinstraße; Mitteilung vom 07.12.2005 3.5.6.2.2 SSW "Lucullus"; Birkenau; Mitteilung vom 08.12.2005 3.5.6.2.3 SSW "Maibaumstüberl"; Mitteilung vom 13.12.2005
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Fest "18 jetzt" im Rathaus, Manöverkritik und Anregungen des BA 9; Schreiben des BA 9 - Neuhausen-Nymphenburg - vom 20.12.05 mit der Bitte um Kenntnisnahme und Rückmeldung
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.1.: Einladung zur 2. Informationsveranstaltung am 08.03.2006 zum Thema Straßenausbaubeitragsrecht; Zuleitung des Baureferats vom 05.12.2005
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
