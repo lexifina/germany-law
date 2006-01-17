@@ -1,0 +1,99 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2006-01-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/809077
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/809077
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Öffnung der Lohensteinstraße zur Landsberger Straße
+- TOP 2.2.: Verkehrssituation Glasunowstraße
+- TOP 2.3.: Beleuchtung im S-Bahnhof Langwied
+- TOP 2.4.: Bauvorhaben Erweiterung Karlsgymnasium
+- TOP 2.5.: Schutzverkleidung für die Skulptur "Sich aufrichtende Halme" im Blutenburger Schlossweiher
+- TOP 2.6.: Mobilfunksendeanlagen in Obermenzing
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Alois-Wunder-Straße 7, 1 Tanne
+- TOP 3.2.: Hillernstraße 10, 2 Eschen
+- TOP 3.3.: Ortolfstraße 16, 1 Lärche, 1 Scheinzypresse, 1 Kiefer
+- TOP 3.4.: Falkweg 46, 1 Fichte
+- TOP 3.5.: Alte Allee 58, 1 Ahorn
+- TOP 3.6.: Egenhoferstraße 12, 1 Fichte
+- TOP 3.7.: Bergsonstraße, FlurNr. 2556/9, 1 spätblühende Traubenkirsche
+- TOP 3.8.: Bergsonstraße 66, 2 Fichten
+- TOP 3.9.: Gebhardweg 4, 1 Feldahorn
+- TOP 3.10.: Pläntschweg 59, Baumbestandsplan Nr. 05-33357
+- TOP 3.11.: Ortolfstraße 9, Baumbestandsplan Nr. 05-33326
+- TOP 3.3.2: Gefahrenbäume
+- TOP 3.12.: Listen des Baureferates vom 14.11.05, 28.11.05 und 01.12.05,
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Loichingerstraße 11 und 13
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget, Antragsteller: KünstlerSpectrum Pasing e.V. (vertagt aus der Sitzung am 07.12.05)
+- TOP 9.2.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget, Antragsteller: Kath. Pfarramt St. Willibald (vertagt aus der Sitzung am 07.12.05)
+- TOP 10.: Anhörungen
+- TOP 10.1.: Ortolfstr. 9, Neubau eines Wohngebäudes (3 WE)
+- TOP 10.2.: Bassermannstraße 25, Neubau eines Mehrfamilienhauses mit TG sowie Umbau des Bestandes (Alte Allee 48 / Bassermannstr. 25) - Tektur
+- TOP 10.3.: Verdistraße 127, Errichtung einer beleuchteten Plakatanschlagtafel
+- TOP 10.4.: Verkauf einer städtischen Immobilie, Böcksteiner Straße 13
+- TOP 10.5.: Gastspiel der Puppenbühne Liebe vom 18.05.-21.05.06 im Pasinger Stadtpark
+- TOP 10.6.: Neubau eines Mehrfamilienhauses (6 WE) mit Garagen, Am Stadtpark 47
+- TOP 10.7.: Verlängerung der Geltungsdauer der Baugenehmigung, Landsberger Straße 444
+- TOP 10.8.: Errichtung einer Werbeanlage (2 Plakatanschlagtafeln, freistehend, beleuchtet), Lochhausener Straße ggü. Haus-Nr. 52
+- TOP 10.9.: Rißheimerstraße 8, Neubau von zwei Doppelhäusern mit Garage
+- TOP 11.: Anträge und Anfragen
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Bezirksinspektion West; Unveränderte Fortführung von Gaststätten - Schank- und Speisewirtschaft "Villa Conte", Josef-Retzer-Str. 48 - Schank- und Speisewirtschaft "Ugur Imbiss", Gleichmannstr. 3
+- TOP 12.2.: Bauanträge (vom 05.12.-11.12., v. 12.12.-18.12., v. 19.12.-25.12.05)
+- TOP 12.3.: Amtsbaltt Nr. 34, Nr. 35
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Gemeinsame Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.05 - Haushaltsplan 2006, Einezlplan 4 des Sozialreferates
+- TOP 13.2.: Schulausschuss vom 30.11.05 - Hortplätze für die Grundschule am Schererplatz (Empfehlung Nr. 46 der Pasinger Bürgerversammlung vom 24.06.04 sowie Empfehlung Nr. 52 der Pasinger Bürgerversammlung vom 28.04.05)
+- TOP 13.3.: Bauausschuss vom 06.12.05 - Weinschenkstraße zwischen Professor-Eichmann-Straße und Bauseweinallee; Erstmalige Herstellung - Einsatz von Felsgestein zur Schonung der Baumbepflanzung
+- TOP 13.4.: Gemeinsamer Ausschuss für Arbeit und Wirtschaft und für Stadtplanung und Bauordnung vom 06.12.05 - Verlängerung der Straßenbahnlinie 19 zum Bahnhof Pasing
+- TOP 13.5.: Ausschuss für Stadtplanung und Bauordnung vom 07.12.05 - Siedlungsschwerpunkt Freiham; Dichtemodelle im Bereich Wohnen, Städtebauliche Eckdaten - "Büroimmobilienmarkt München", Studie der BulwienGesa AG (Bekanntgabe) - 6. Jahrestag des Stillstands auf dem Weyl-Gelände in München-Pasing seit Übernahme des Geländes durch die Landeshauptstadt München - Förderung von Famileien bzw. Haushalten mit Kindern; Anträge; Verbesserungen bei der Kinderkomponente im München Modell - Hauptbahnhof; Anforderungen an die Überarbeitung der Wettbewerbsergebnisse / Ergebnis des Abgleichs mit der DB; Weiteres Vorgehen
+- TOP 13.6.: Kulturausschuss vom 08.12.05 - Kultur im Stadtquartier, Kulturkataster zur räumlichen Verteilung der städtischen Kultureinrichtungen, Evaluierung kultureller Zentren, Kulturelle Zentren und Stadtteilwochen; verschiedene Stadtratsanträge (Bekanntgabe)
+- TOP 13.7.: Sportausschuss des Stadtrats vom 13.12.05 - Investitionsprogramm für städtische Freisportanlagen; Jährlicher Sachstandsbericht
+- TOP 13.8.: Vollversammlung des Stadtrates vom 14.12.05 - PERSPEKTIVE MÜNCHEN; Familienfreundlichkeitsprüfung - ein Beitrag zur familien- und kinderfreundlichen Stadtentwicklung
+- TOP 13.9.: Schulausschuss vom 11.01.06 - Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2005/2006 (Bekanntgabe) - Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule im Schuljahr 2005/2006 (Bekanntgabe) - Schüler/innen und Klassenstand an beruflichen Schulen der Landeshauptstadt München im Schuljahr 2005/2006, Stand 20.10.05 (Bekanntgabe) - Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen für das Schuljahr 2005/2006 (Bekanntgabe) - Bereinigtes Einschreibeergebnis für das Kindergartenjahr/Schuljahr 2005/2006 (Bekanntgabe)
+- TOP 13.10.: Ausschuss für Stadtplanung und Bauordnung vom 11.01.06 - Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse und der einschlägigen Verbände - U5-West nach Pasing; Bekanntgabe eines Fertigstellungsdatums; Darauffolgende Modernisierung des Pasinger Bahnhofs; Keine Bevorzugung der U-Bahn nach Freiham (Empfehlung Nr. 81 der Pasinger Bürgerversammlung vom 28.04.05)
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Oberbürgermeister - Sanierung Rembrandtstraße; Aussage eines Mitglieds des Münchner Stadtrats gegenüber einer Anwohnerin
+- TOP 14.2.: Direktorium - Zuwendung aus dem BA-Budget; Antrag vom 13.06.05 von Würmchen e.V. für die Ausstattung des Bewegungsraumes und der Außenanlage - Gespräch des Oberbürgermeisters und der 2. Bürgermeisterin mit den Vorsitzenden der Bezirksausschüsse am 24.11.05 - "18.jetzt", Fest junger Erwachsener im Rathaus am 05.11.05; Nachbesprechung am 16.01.06 um 18.00 Uhr im Großen Sitzungssaal des Rathauses am Marienplatz - Zuwendung aus Budgetmitteln des BA 21; Kreisjugendring München-Stadt, aquarium; Bewilligungsbescheid vom 28.12.05
+- TOP 14.3.: Baureferat - Rad- und Fußweg im Pasinger Stadtpark östlich des Fabrikkanals, südlich der Engelbertstraße (BA-Schreiben vom 10.10.05) - Lärmschutz im Bereich des Campingplatzes Obermenzing (BA-Schreiben vom 14.10.05) - Entfernen von Spielgeräten oder Freizeiteinrichtungen - Am Hackelanger; Erstmalige Herstellung (BA-Antrag Nr. 735 vom 08.11.05) - Eröffnung der Lochhausener Straße neu - Zweite Informationsveranstaltung zum Thema Straßenausbaubeitragsrecht am 08.03.06 um 18.00 Uhr im Baureferat, Friedenstraße 40, Raum 0.409
+- TOP 14.4.: Referat für Gesundheit und Umwelt - Vollzug des Bundes-Immissionsschutzgesetzes und des Gesetzes über die Umweltverträglichkeitsprüfung; Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage, Erdenbörse und Erdenwerk am Standort Goteboldstraße 100
+- TOP 14.5.: Kreisverwaltungsreferat - Geschwindigkeitsbegrenzung auf Tempo 30 km/h für die Menzinger Straße ab Kastellstraße bis zur Karl-von-Roth-Straße einschließlich Megerlestraße (BA-Schreiben vom 16.09.05) - Einrichtung einer Kurzparkzone in der Institutstraße; Verkehrsrechtliche Anordnung nach § 45 StVO - Nächtlicher Taxistandplatz am Pasinger Bahnhofsplatz - Wanderveranstaltung am 17. und 18.12.05; Genehmigungsbescheid - Verkehrssituation Paosostraße (BA-Schreiben vom 04.08.05) - Verlegung der Bushaltestelle Pasing Bahnhof (Höhe Irmonherstraße); Verkehrsrechtliche Anordnung - Verkehrssituation in der Bauseweinallee (BA-Schreiben vom 14.12.05) - Parkerleichterung für Schwerbehinderte; Personenbezogener Sonderparkplatz im Bereich Wilhelm-Hey-Straße 18 - Beschilderung der Hofbauernstraße als verkehrsberuhigter Bereich (BA-Schreiben vom 13.12.05)
+- TOP 14.6.: Referat für Stadtplanung und Bauordnung - Plangenehmigung nach § 18 Abs. 2 Allgemeines Eisenbahngesetz (AEG), Antrag der DB ProjektBau GmbH, Barrierefreier Ausbau des S-Bahnsteige München-Pasing, Neubau der Dächer auf den S-Bahnsteigen, Errichtung von Fahrradabstellplätzen, Erhöhung der Bahnsteige u.v.m. (BA-Schreiben vom 11.11.05) - Am Gänsebühel 10, Neubau eines Mehrfamilienhauses - Antrag auf Baumfällung in der Marsopstraße 17; Bescheid vom 12.12.05 - Antrag auf Baumfällung in der Pagodenburgstraße 8; Bescheid vom 12,12,05 - "Das Wasserpumpenhaus in Pasing soll erhalten bleiben!" (BA-Antrag Nr. 574 vom 19.09.05) - Münchner Bürgerinnen- und Bürgerbefragung 2005 - Allgemeines Eisenbahngesetz; Planänderung gem. § 76 Abs. 2 Verwaltungsverfahrensgesetz analog für das Vorhaben Betonschalthaus an der Bärmannstraße - Döbereinerstraße 25, Neubau einer Mehrfamilienwohnanlage mit Tiefgarage - Pilotprojekt Jugendbeteiligung an der Stadtplanung - "Das Wasserpumpenhaus in München-Pasing soll erhalten bleiben!" (BA-Antrag Nr. 574 vom 13.09.05 - Antrag auf Verlängerung der Geltungsdauer der Genehmigung zur Aufstellung der Skulpturengruppe "Sich aufrichtende Halme" im Schlossweiher Blutenburg
+- TOP 14.7.: Sozialreferat - Kommunales Wohnungsbauförderprogramm; Ausschreibung von Wohnbauflächen - Antrag des BA 8 Schwanthalerhöhe an die Arbeitsgemeinschaft der ehrenamtlichen Kinderbeauftragten, Straßen- und Stadtteilfeste mehr auf die Belange von Kindern und Jugendlichen abzustimmen
+- TOP 14.8.: Abfallwirtschaftsbetrieb München - Mehrjahresinvestitionsprogramm; Fortschreibung für die Jahre 2005 - 2009, hier: Erhalt und Ausbau des Wertstoffhofes an der Lochhausener Straße
+- TOP 14.9.: Referat für Arbeit und Wirtschaft - Wirtschafts-Info 12/2005
+- TOP 14.10.: Stadtwerke München GmbH / MVG - Haberlandstraße; Beschilderung mit Zeichen 239 StVO (Fußgänger) und Zusatzzeichen 1022-10 (Radfahrer frei) sowie Versetzung des Buswartehäuschens an der Haltestelle Varnhagenstraße
+- TOP 14.14.2: Sonstige
+- TOP 14.11.: Arbeiterwohlfahrt, Kreisverband München-Stadt e.V., Ortsverein Pasing - Bahnhof Pasing; Schreiben an das Bayer. Staatsministerium für Wirtschaft, Infrastruktur, Verkehr und Technologie
+- TOP 14.12.: Bauwagen Schäferwiese - Protokoll der Beiratssitzung vom 15.11.05
+- TOP 14.13.: Pädagogische Aktion / Spielen in der Stadt e.V. - Planung der Einsätze der Münchner SommerSpielAktion 2006
+- TOP 14.14.: BA 9 Neuhausen-Nymphenburg - Fest "18 jetzt" im Rathaus
+- TOP 14.15.: BA 13 Bogenhausen - Kürzung der Zuschüsse der Referate zu Lasten des BA-Budgets
+- TOP 14.16.: DB ProjektBau GmbH - Ausbau der S-Bahnlinie 2 München-Dachau-Petershausen; Broschüre über den Bauabschnitt Röhrmoos - Karlsfeld
+- TOP 14.17.: Gemeinsames Schreiben von Münchner Volkshochschule Stadtbereich München West, Pasinger Fabrik Kultur- und Bürgerzentrum, Münchner Stadtbibliothek Pasing (Initiative "Pasing kooperiert") - Projekt "Kultur im Stadtquartier" - Teilprojekt 2: Vernetzung, Kooperation, Arbeitsteilung, Information; Treffen der Vorbereitungsgruppe am 23.01.06 um 18.00 Uhr in der Volkshochschule, Bäckerstraße 14
+- TOP 15.: Verschiedenes
