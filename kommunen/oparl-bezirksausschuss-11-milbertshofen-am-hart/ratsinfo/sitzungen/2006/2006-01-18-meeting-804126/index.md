@@ -1,0 +1,78 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2006-01-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/804126
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/804126
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Münchner Bürgerinnen- und Bürgerbefragung 2005
+- TOP 4.2.: Initiative "BUGA 2005 - Türkengraben" ; Abrechnung der Zuwendungen aus den Budget-Mitteln
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Kürzung der Zuschüsse der Referate zu Lasten des BA-Budgets, Schreiben des BA 13 Bogenhausen
+- TOP 4.1.: Tanklager an der Detmoldstraße, Schreiben des Bürgerverein Lerchenau e.V.
+- TOP 4.2.: Einladung zur 2. Informationsveranstaltung am 08.03.2006 zum Thema Straßenausbaubeitragsrecht
+- TOP 4.1.: "18.jetzt", Fest junger Erwachsener im Rathaus am 05.1102005, Ergebnisse der Nachbesprechung
+- TOP 4.2.: Die Veranstalter von Straßenfesten sollen dazu angehalten werden, ein größeres, insbesondere längeres Programm für Kinder und Jugendliche anzubieten, Schreiben der Kinderbeauftragten der Landeshauptstadt München
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 7.1.: Verkehrssituation im Bereich der Vogelhartstraße (Ralph Schirner)
+- TOP 7.2.: Olympiapark Nord - Beschilderung der U-Bahnstation - Adolf Kolping Berufsschule (Kolping-Bildungswerk DV München und Freising e.V.)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a) Bernaysstr. 6, zwei Lärchen, eine Fichte b) Milbertshofener Platz 13, eine Birke
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Bauvorhaben:
+- TOP 8.3.: Spartenanfrage, hier: BMW-AVZ
+- TOP 8.4.: Mobilfunk Suchkreismeldung
+- TOP 8.1.: Planung der Einsätze der Münchener SommerSpielAktion 2006
+- TOP 8.1.: Veranstaltung auf öffentlichem Verkehrsgrund: a) 4. Stadt-Triathlon München im Olympiapark/Ackermannstraße am 30.04.2006
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendungen aus den Mitteln des BA-Budgets: a) Sportfreunde Harteck München e.V., "judo-Turnier am 24.09.2005", Bewilligung 500, 00? b) Förderverein Alte St. Georgskirche Milbertshofen e.V., "Druck eines Stadtteilbuches", Bewilligung 8000,00? c) Soldaten- und Kriegergemeinschaft München-Milbertshofen, "Gedenkfeier am 13.11.2005", Bewilligung 435,00? d) Bewohner Gemeinschaft Nordheide e.V., "Vortrag am 07.11.2005", Bewilligung 400,00? e)Kinder- und Jugendraum RIVA-Nord, "Renovierung des Multifunktionsraumes", Bewilligung 1150,00? f) Kath. Pfarramt St. Georg, "Laterne-Basteln am 07.11.2005", Bewilligung 147,00? g) Kath. Pfarramt St. Georg, "Konzert am 12.11.2005", Bewilligung 2790,00?
+- TOP 9.2.: Barrierefreie Zugänglichkeit bei BA Sitzungen, Schreiben des Behindertenbeauftragten der Landeshauptstadt München
+- TOP 9.3.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.4.: Verwendungsnachweis Budget-Mittel, Verein Stadtteilarbeit, "Mädchenfest 2005"
+- TOP 9.5.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2006
+- TOP 9.1.: Zukunftssicherung des Olympiageländes, Stadtentwicklungsplanerische Rahmenbedingungen und Ziele (Beschluss der Vollversammlung des Stadtrates vom 14.12.2005)
+- TOP 9.3.: "Büroimmobilienmarkt München", Studie der BulwienGesa AG (Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung am 07.12.2005)
+- TOP 9.4.: Moosacher Straße zwischen Lerchenauer Straße und Landshuter Allee, Lerchenauer Straße zwischen Moosacher Straße und Hs.Nr.75, U-Bhf. Olympiapark Nord (Beschluss des Bauausschusses vom 06.12.2005)
+- TOP 9.5.: Einsatz von Felsgestein zur Schonung der Baumbepflanzung (Beschluss des Bauausschusses vom 06.12.2005)
+- TOP 9.6.: Lärmminderungsplan für München (Beschluss des Umweltschutzausschusses vom 29.11.2005)
+- TOP 9.7.: Meldelisten Bauvorhaben
+- TOP 9.8.: Mobilfunksendeanlage, Baubeginnsanzeige
+- TOP 9.9.: Mobilunksendeanlage, Standortsicherung - nicht öffentlich -
+- TOP 9.2.: "Was bringt das? Kosten-/Nutzenanalyse der sozialen Arbeit", Einladung zu Vortrag und Fachgespräch, REGSAM
+- TOP 9.3.: Förderung von Familien bzw. Haushalten mit Kindern (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2005)
+- TOP 9.4.: Stadtteilbezogenes Verzeichnis der städtischen Kindertageseinrichtungen, Kooperationseinrichtungen und Tagesheime, geänderte Fassung für das Kindergarten- und Schuljahr 2005/2006
+- TOP 9.5.: Frauengesundheitswoche "Lust auf Bewegung" vom 08.-19.05.2006
+- TOP 9.6.: Ausländerbeirat München, Infobrief 1 / Dezember 2005
+- TOP 9.7.: REGSAM Vollversammlung im 11. Stadtbezirk Milbertshofen - Am Hart, Protokoll der Sitzung am 26.10.2005
+- TOP 9.8.: Kultur im Stadtquartier, Zwischenbericht des Kulturreferates
+- TOP 9.9.: Haushaltsplan 2006 - Einzelplan 4 des Sozialreferates (Beschluss in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.10.2005)
+- TOP 9.10.: Perspektive München, Familienfreundlichkeitsprüfung - ein Beitrag zur familien- und kinderfreundlichen Stadtentwicklung; Leitlinie Kinder- und Familienpolitik (Beschluss des Kinder- und Jugendhilfeausschusses vom 29.11.2005
+- TOP 9.11.: "18.jetzt", Manöverkritik und Anregungen des BA 9 Neuhausen-Nymphenburg
+- TOP 9.1.: Benennung eines Ansprechpartners / einer Ansprechpartnerin des KVR zur Verbesserung der Zusammenarbeit zwischen den Genehmigungsbehörden und dem örtlichen Gewerbeverein insbesondere hinsichtlich des jährlichen Aktionstages (Beschluss des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart am 14.12.2005)
+- TOP 9.2.: Strukturelles Umsetzungskonzept für die Verwirklichung von verkehrlichen Maßnahmen unter Verwendung von Stellplatzablösemitteln (Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Bau- und Kreisverwaltungsausschusses sowie des Verwaltungs- und Personalausschusses vom 09.11.2005)
+- TOP 9.3.: Personenbezogener Sonderparkplatz im Bereich Milbertshofener Straße
+- TOP 9.4.: Verkehrsrechtliche Anordnungen nach § 45 StVO
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
+- TOP 9.1.: Pilotprojekt Jugendbeteiligung an der Stadtplanung Antrag 02-08/B00632 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 21.09.2005, Antwortschreiben des Referates für Stadtplanung und Bauordnung)
