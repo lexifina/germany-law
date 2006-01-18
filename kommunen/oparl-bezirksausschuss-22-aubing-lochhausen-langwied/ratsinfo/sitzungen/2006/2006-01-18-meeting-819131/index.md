@@ -1,0 +1,77 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2006-01-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/819131
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/819131
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Fahrplanumstellung Buslinie 161 (bisher 74)
+- TOP 2.2.: Bitte um finanzielle Unterstützung für Streitschlichter- und Klassensprecherausbildung
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4.: Schneeräumung im Stocket 38
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Erweiterung des überdachten Fahrradabstellplatzes am S-Bahnhof Westkreuz, südlicher Ausgang (Friedrichshafener Str.) und Beseitigung eines "Fahrradschrotthaufens" im nicht überdachten Bereich des Fahrradabstellplatzes
+- TOP 4.2.: Klärung der Frage: Sollten rot-weiße bewegliche, absperrbare Masten am Beginn von Fußgänger- und Radwegen normalerweise abgesperrt sein? Wer hat dann ggf. den Schlüssel dazu und die Berechtigung aufzusperren?
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz, Anhörungen zu Baumfällungen
+- TOP 6.2.: Plangenehmigung nach § 18 Abs. 2 AEG, ESTW München-Südwest; Strecke 5540 München Hbf-Gauting, PA München Pasing-Gauting; Strecke 5540 München Hbf-Mittenwald, PA München-Pasing - Tutzing; Kabeltrasse
+- TOP 6.3.: Aufpflasterung an der Wiesentfelser Straße
+- TOP 6.4.: Verkehrsgerechter Straßenausbau der Bahnunterführung Bergsonstraße, Empfehlung Nr. 122 der Bürgerversammlung vom 23.06.05
+- TOP 6.5.: Planfeststellungsverfahren nach § 18 Abs. 1 AEG, 2. S-Bahn-Stammstrecke München; Planfeststellungsabschnitt 1 München West - Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Plangenehmigung nach § 18 Abs. 2 AEG, Regenwasserversickerung der Dach- und Straßenflächen der Werkstatt Pasing; An der Bergsonstraße, Gemarktung Pasing, Schr. des Planungsreferates vom 21.12.05
+- TOP 7.2.: Wirtschafts-Info 12/05, Mitteilung des Referates für Arbeit und Wirtschaft vom 23.12.05
+- TOP 7.3.: Verkehrsrechtliche Anordnung, Schwemmstraße südlich der Mundesgasse; Verkehrshelferübergang, Schr. des KVR vom 05.12.05
+- TOP 7.4.: Verkehrsrechtliche Anordnung, Altostr./Am Langwieder Bach südlich der Mundesgasse; Verkehrshelferübergang, Schr. des KVR vom 05.12.05
+- TOP 7.5.: Eirnichtung einer ortsfesten HF - Sendeanlage, Ubostr. 40, Schr. des Referates für Gesundheit und Umwelt vom 19.12.05
+- TOP 7.6.: Eröffnung der Lochhausener Straße, Mitteilung des Planungsreferates vom 21.12.05
+- TOP 7.7.: Fest "18 jetzt" im Rathaus, Schr. des BA 9 vom 20.12.05
+- TOP 7.8.: Kürzung der Zuschüsse der Referate zu Lasten des BA-Budgets, Schr. des BA 13 vom 21.12.05
+- TOP 7.9.: 2. S-Bahn-Strammstrecke München, Planfeststellungsabschnitt 1 München West - Bereich Laim - Karlsplatz mit Umweltverbundröhre Laim und Haltepunkt Hauptbahnhof , Schr. des Planungsreferates vom 19.12.05
+- TOP 7.10.: Bescheid zur Genehmigung einer Anlage zur Zwischenlagerung und Umschlag von Abfällen nach dem BImSchG der Fa. Michael Schmid Umwelt-Service GmbH auf dem Anwesen Lochhausener Str. 207, Schr. des Referates für Gesundheit und Umwelt vom 12.12.05
+- TOP 7.11.: Flächendeckende Aufstellung von 4F-Circle-Bewegungsinseln, Schr. des Schul- und Kultusreferates vom 09.11.05 (vertagt aus 11/05)
+- TOP 7.12.: Anbringung von "Stifterschildern" an vom Bezirksausschuss finanzierten Ruhebänken, Schr. der 2. Bürgermeisterin vom 09.11.05 (vertagt aus 11/05)
+- TOP 7.13.: Zweckentfremdung von Wohnraum, Ubostr. 33, Schr. des Sozialreferates vom 13.12.05
+- TOP 7.14.: Baufälle im 22. Stadtbezirk (v. 12.12.-18.12.05, v. 19.12.-25.12.05)
+- TOP 7.15.: Gewerbeentwicklung Freiham; Vergabe von städtischen Gewerbeflächen, Schr. des Referates für Arbeit und Wirtschaft vom 27.12.05
+- TOP 7.16.: Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage, Erdenbörse und Erdenwerk durch das Konsortium Bilfinger/Berger-Schernthaner GmbH am Standort Goteboldstr. 100, Schr. des Referates für Gesundheit und Umwelt vom 27.12.05
+- TOP 7.17.: Plangenehmigung nach § 18 Abs. 2 AEG, Regenwasserversickerung der Dach- und Straßenflächen der Werkstatt Pasing; An der Bergsonstr., Schr. des Planungsreferates vom 21.12.05
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Errichtung Haltverbot an der Nordseite des Germeringer Weges, Schr. des KVR vom 15.12.05 zum BA-Antrag Nr. 594 vom 27.09.05
+- TOP 8.2.: Fragen zur Genehmigung der Unterführung Brunhamstraße/S 5, Schr. des Baureferates vom 19.12.05
+- TOP 8.3.: Flyer "Lärm ist eine Plage", Schr. des Referates für Gesundheit und Umwelt vom 20.12.05 zum BA-Antrag Nr. 693 vom 14.10.05
+- TOP 8.4.: Parksituation in der Biburger Straße, Schr. des Baureferates vom 15.12.05
+- TOP 8.5.: Pflegearbeiten an der Grünanlage Giglweg, Schr. des Baureferates vom 12.12.05 zum BA-Antrag Nr. 758 vom 22.11.05
+- TOP 8.6.: Pilotprojekt Jugendbeteiligung an der Stadtplanung, Schr. des Planungsreferates vom 20.12.05
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Vollversammlung vom 14.12.05 - Lärmminderungsplan für München - Förderung von Familien bzw. Haushalten mit Kindern - Perspektive München, Familienfreundlichkeitsprüfung - ein Beitrag zur familien- und kinderfreundlichen Stadtentwicklung
+- TOP 9.2.: Sportausschuss vom 13.12.05 - Investitionsprogramm für städtische Freisportanlagen, hier: Jährlicher Sachstandsbericht
+- TOP 9.3.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 11.10.05 - Haushaltsplan 2006 - Einzelplan 4 des Sozialreferates (vertagt aus 11/05)
+- TOP 9.4.: Schulausschuss vom 11.01.06 - Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2005/2006 - Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2005/2006 - Schüler-/innen und Klassenstand Berufliche Schulen der LHM im Schuljahr 2005/2006 - Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen für das Schuljahr 2005/2006 - Bereinigtes Einschreibeergebnis für das Kindergartenjahr/Schuljahr 2005/2006
+- TOP 9.5.: Ausschuss für Stadtplanung und Bauordnung vom 11.01.06 - Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der BA´s und der einschlägigen Verbände (Hinweis/Ergänzung) - U5-West nach Pasing, Bekanntgabe eines Fertigstellungsdatums; Darauffolgende Modernisierung des Pasinger Bahnhofs; Keine Bevorzugung der U-Bahn nach Freiham
+- TOP 9.6.: Ausschuss für Stadtplanung und Bauordnung vom 07.12.05 - Bebauungsplan mit Grünordnung Nr. 1703 Schussenrieder Str., Schubinweg und Amelbrechtweg
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Einladung zur 2. Informationsveranstaltung am 08.03.2006 zum Thema Straßenausbaubeitragsrecht, Friedensstr. 40, Raum 0.409, um 18.00 Uhr
+- TOP 10.2.: Broschüre "Münchner Bürgerinnen- und Bürgerbefragung 2005"
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am MIttwoch, den 22.02.2006, Gaststätte "Wienerwald", Limesstr. 63
