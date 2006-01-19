@@ -1,0 +1,7 @@
+# TOP 4: Bauleitplanung Erbenhäuschen
+
+- Sitzung: Bezirksvertretung Mitte (2006-01-19)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/27914
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/4899
