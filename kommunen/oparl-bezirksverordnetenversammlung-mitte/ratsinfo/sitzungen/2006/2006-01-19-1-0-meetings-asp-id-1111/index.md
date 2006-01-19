@@ -1,0 +1,82 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2006-01-19T17:30:00+01:00
+- Ende: 2006-01-19T22:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1111
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1111
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=51289
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilung - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfrage - (offen)
+- TOP 5.1: Baumfreie Hannah-Ahrend-Straße? - beantwortet
+- TOP 5.2: Erstkontakte bei Neugeborenen in Mitte - beantwortet
+- TOP 5.3: Streit in der "Sprachstube Deutsch" im Soldiner Kiez - beantwortet
+- TOP 5.4: Kooperationsvereinbarung Wohnungsbaugesellschaften - Senat - beantwortet
+- TOP 5.5: Umzugswelle von ALG-II-Beziehern/innen in Berlin-Mitte? - beantwortet
+- TOP 5.6: Schulstation Gotzkowsky-Grundschule - beantwortet
+- TOP 5.7: Arbeitnehmerrechte für 1-Euro-Jobber - schriftlich beantwortet
+- TOP 5.8: Radikaler Besucherschwund der Berliner Bäder auch im Bezirk Mitte? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfrage - (offen)
+- TOP 6.1: Ausweichstandort für "Schwarzer Kanal" - beantwortet
+- TOP 6.2: Zukunft für den "Schwarzen Kanal"! - beantwortet
+- TOP 6.3: Wann bekommt das Bezirksamt das Chaos bei der Umsetzung des Energiesparvertrages endlich in den Griff? - beantwortet
+- TOP 6.4: Das große Bibbern in der Schule - beantwortet
+- TOP 6.5: Macht das JobCenter Mitte Jugendliche/ Kinder von ALG II-EmpfängerInnen zu Jugendlichen/ Kindern zweiter Klasse? - beantwortet
+- TOP 6.6: TBC-Fürsorgestelle ins Nirwana geschickt? - beantwortet
+- TOP 7: Große Anfrage - (offen)
+- TOP 7.1: Zusammenarbeit mit Jugendhilfe - schriftlich beantwortet
+- TOP 7.2: Baumaßnahmen im Monbijoupark - schriftlich beantwortet
+- TOP 7.3: Qualität der Betreuung an den Ganztagsschulen - schriftlich beantwortet
+- TOP 7.4: Kaufhaus Karstadt in der Turmstraße - schriftlich beantwortet
+- TOP 7.5: Car Sharing in Mitte - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Berufung eines beratenden Mitgliedes und dessen Stellvertreter in den Jugendhilfeausschuss gemäß § 35 Abs 7 Nr. 5 AG KJHG i.V. mit § 35 Abs. 8 AG KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlage zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplan I-204 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-204 - überwiesen
+- TOP 9.2: Bebauungsplan 1-3B sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-3B - überwiesen
+- TOP 9.3: über vorhabenbezogenen Bebauungsplanentwurf 1-5VE sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-5VE - überwiesen
+- TOP 10: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2002 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Bebauungsplanentwurf III-20-1 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-20-1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Dringlichkeitsantrag - (offen)
+- TOP 11.1: Sanierung der Musikschul-Gebäude Wallstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sanierung des Sommerbades Seydlitzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Nutzung der Sportflächen und der Spothalle auf dem Gelände des ehemaligen Stadion der Weltjugend - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Abfederung des finanziellen Defizits des Kita-Eigenbetriebs - überwiesen
+- TOP 12.2: Soziale Nutzung des Gesundheits- und Sozialstandortes Moabit durch die Berliner Tafel - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sicher über die Hofjägerallee - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Berufsbilder - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Schulstation Gotzkowsky Grundschule erhalten - in der BVV abgelehnt
+- TOP 12.6: Einrichtung eines Arbeitskreises "Gesunder Bezirk Mitte" - überwiesen
+- TOP 12.7: Weihnachtsstimmung am Rathaus Tiergarten - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Schulversuch Ethik/ Religion weiterführen - in der BVV abgelehnt
+- TOP 12.9: Reform des Öffentlichen Gesundheitsdienstes nicht ohne Beachtung des demografischen Wandels - überwiesen
+- TOP 12.10: Wahl eines Mitglieds des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 13: Antrag/Beschlussempfehlung - (offen)
+- TOP 13.1: 147 - Linienführung - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Jugendhilfe sichern - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Mieterrechte bei der Sanierung der WBM wahren - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Verlässliche Ansprechpartner für die Schulen bei der bezirklichen Jugendhilfe - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlage zur Kenntnisnahme - (offen)
+- TOP 14.1: Dienstanweisung für alle Abteilungen zum Thema Baumschutz
+- TOP 14.2: QM 1 - MitarbeiterInnen mit Migrationshintergrund - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Fußgängerbrücke über die Spree am Bahnhof Friedrichstraße auf einen angemessenen baulichen Stand bringen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.4: Eigenbetrieb "Kindergärten City" (I) - Wirtschaftsplan vorlegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Transparenz II: Alle Angaben zum Liegenschafts- und Gebäudemanagement der BVV regelmäßig zur Verfügung stellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.6: Gedenktafel am Friedhof Wilsnacker Straße: Missverständnisse ausschließen - Tote der SS sind keine Opfer von Krieg und Gewaltherrschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Programmmittel "Soziale Stadt" 2005 -2006 der Stadtteilmanagement-Gebiete Ackerstraße, Brunnenstraße und Erweiterungsgebiet QM Moabit West sowie die integrierten Handlungskonzepte für diese Gebiete - mit Abschlussbericht zur Kenntnis genommen
