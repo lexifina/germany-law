@@ -1,0 +1,8 @@
+# TOP 7: Theodor-Heuss-Schule, Lützenkircher Straße 2, Gesa
+
+- Sitzung: Haupt- und Finanzausschuss (2006-01-23)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/136306
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/31688
