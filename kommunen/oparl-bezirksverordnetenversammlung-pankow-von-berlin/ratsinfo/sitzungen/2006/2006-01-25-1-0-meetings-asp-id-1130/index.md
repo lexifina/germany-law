@@ -1,0 +1,69 @@
+# 38. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2006-01-25T17:30:00+01:00
+- Ende: 2006-01-25T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1130
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1130
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - beantwortet
+- TOP 1.2: Geschäftliche Mitteilung - beantwortet
+- TOP 1.3: Abstimmung über die Tagesordnung - mit Änderungen in der BVV beschlossen
+- TOP 1.4: Dringlichkeitsanträge - beantwortet
+- TOP 1.4.1: Haushalt 2006/2007 - in der BVV abgelehnt
+- TOP 1.4.2: Verantwortung für JobCenter - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - zur Kenntnis genommen
+- TOP 1.6: Bericht des Bezirksamtes - zur Kenntnis genommen
+- TOP 1.7: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.8: Drucksachen der 37. Tagung der BVV - bereits ausgereicht - (offen)
+- TOP 1.8.1: Internetpräsenz des Bezirks - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.8.2: Wortprotokolle von BVV-Tagungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.8.3: Ausbau der Infrastruktur in Sanierungsgebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.8.4: Quartiersmanagement - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.8.5: Sichern erreichter Ziele der Stadterneuerung nach Aufhebung der Sanierungsgebiete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.8.6: Sanierungszieländerung Verkehr - öffentlicher Raum - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.8.7: Stellenplanmäßige Untersetzung der Sparvorgabe 2006 bei den Personalausgaben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.9: Wahl eines Patientenfürsprechers gem. § 26 (1) Landeskrankenhausgesetz (LKG) - gewählt
+- TOP 1.10: Berufung eines beratenden Mitgliedes für den Kinder- und Jugendhilfeausschuss der Bezirksverordnetenversammlung für die V. Wahlperiode. - zurückgezogen
+- TOP 1.11: Freie Nutzung von Sportplätzen und Sporthallen - überwiesen
+- TOP 1.12: Jugendevent und Informationsveranstaltung in Pankow zur BVV Wahl 2006 - überwiesen
+- TOP 1.13: Informationsveranstaltung zum KITA - Eigenbetrieb? - beantwortet
+- TOP 1.14: Umgestaltung des Wasserturms/Bürgerbegehren - beantwortet
+- TOP 1.15: Sanierung des Wasserturmgeländes im OT Prenzlauer Berg - beantwortet
+- TOP 1.16: Zugang zum Hirschhof - beantwortet
+- TOP 1.17: Situation in den bezirklichen Ordnungsämtern - zurückgezogen
+- TOP 1.18: Mauerpark - beantwortet
+- TOP 1.19: Flugverkehr über Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Studienarbeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Rauchfreie und Gesunde Schule - auch in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Schulbezogene Sozialarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Straßenausbaubeitragsgesetz verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Zukunft der Schullandheime und Einrichtungen der Kinder- und Jugenderholung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Mehr Sicherheit und Platz für die Schüler/innen der Rosa-Luxemburg-Oberschule - vertagt
+- TOP 2.7: Betriebssatzung für den geplanten Eigenbetrieb Kindergärten Pankow-Marzahn/Hellersdorf-Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Standards zur Planung von Kinderspielplätzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Straßenausbaubeitragsgesetz - vertagt
+- TOP 2.10: Jüdischer Friedhof als Weltkulturerbe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Erschließungsbeiträge Hubertusdamm / Röländer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Bushaltebuchten auf der Blankenburger Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Erhalt des Kinostandortes Collosseum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Sanierungsplan für den Bezirkshaushalt 2006/2007 vorlegen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Verfahrensregelung zur Durchführung von Bürgerbegehren und Bürgerentscheiden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Nutzungsentgelterhöhung für zu Wohnzwecken genutzte Parzelle in den Anlagen "Nordend" und "Frohsinn" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Bericht über die Einführung des Fallmanagements in der Eingliederungshilfe zum 01.01.2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Vorhabenbezogener Bebauungsplan 3-7 VE für eine Teilfläche des Geländes nördlich des Blankenburger Pflasterweges zwischen Suderoder Graben, Außenring der Deutschen Bahn, Schälingsgraben sowie Teilflächen der Grundstücke westlich dieses Geländes im Bezirk Pankow, Ortsteile Stadtrandsiedlung Malchow und Blankenburg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Bebauungsplan XIX-11 für die Grundstücke an der Heinrich-Böll-Staße, mit Ausnahme der Grundstücke 1, 2, 4 und 61, sowie eine Teilfläche des Grundstücks Schillerstraße 6/6A, den Kreuzgraben und an diesen beiderseits anliegende Grundstücke zwischen Waldowstraße und dem Grundstück Dietzgenstraße 62/64, die Grundstücke Kreuzgraben 13, Dietzgenstraße 60 einschließlich dem Weg zwischen den Grundstücken Beuthstraße 47 und 48, und für eine Teilfläche des Grundstücks Dietzgenstraße 62/64 im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Konzept zum Abbau des Defizits des Bezirkes Pankow von Berlin für den Zeitraum 2006-2009 und Eckwerte für den Ergänzungsplan 2006/2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Einstellung der Verfahren zur Aufstellung der Bebauungspläne IV-26, XVIII-37, XIX-7b und XIX-57 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Bebauungsplanentwurf XVIII-29 für das Gelände zwischen dem Reichsbahnaußenring, dem Lindenberger Weg und der Klagenfurther Straße - vertagt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
