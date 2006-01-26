@@ -1,0 +1,53 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-01-26T16:00:00+01:00
+- Ende: 2006-01-26T17:10:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1672
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1672
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111588.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111588.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111588.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung von Mitgliedern der BV 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift vom 01.12.2005 - einstimmig beschlossen
+- TOP 4: BPl5974/29-Grünzug2-Anreg.Änd.Satzung - einstimmig beschlossen
+- TOP 5: Nachtverkehrskonzept ÖPNV - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: BuF Vennhauser Allee - einstimmig beschlossen
+- TOP 8: Umbau Kikweg - einstimmig beschlossen
+- TOP 9: Am Bermeshau - einstimmig beschlossen
+- TOP 10: Masterplan Schulen 2006 - einstimmig beschlossen
+- TOP 11: Zuschuss Arbeitskreis Kultur - einstimmig beschlossen
+- TOP 12: Etat Ausstellungen Kulturbahnhof - einstimmig beschlossen
+- TOP 13: Bauunterhalt an städtischen Einrichtungen 2006 - einstimmig beschlossen
+- TOP 14: Zuschüsse zu kulturellen Veranstaltungen - einstimmig beschlossen
+- TOP 15: Schulsponsoring im Stadtbezirk 8
+- TOP 16: Städtische Gebäude im Stadtbezirk 8
+- TOP 17: Stellplatznachweis im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 18: Alkoholverbot im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 19: Straßensanierungen und Radwege-Maßnahmen - zur Kenntnis genommen
+- TOP 20: Fehlbelegeabgabe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 21: Lichtmasterplan im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 22: Wichernschule, Brorsstraße - einstimmig beschlossen
+- TOP 23: Kreuzung Kamper Weg / Eller Kamp - einstimmig beschlossen
+- TOP 24: L 404n - mehrheitlich beschlossen
+- TOP 25: Parkplätze Kuthsweg - einstimmig beschlossen
+- TOP 26: Veenpark - einstimmig beschlossen
+- TOP 27: Lore-Lorentz-Schule - zur Kenntnis genommen
+- TOP 28: Verkehrsaufkommen Eller - zur Kenntnis genommen
+- TOP 29: Konzept gegen Verelendung sozialer Gruppen - zur Kenntnis genommen
+- TOP 30: Rothenbergstraße / L 404 - Grünpfeil - zur Kenntnis genommen
+- TOP 31: Geschwindigkeitskontrollen Gumbertstraße - zur Kenntnis genommen
+- TOP 32: KGS Leuthenstraße - zur Kenntnis genommen
+- TOP 33: Straßenverkehrs-Lärmsanierung - zur Kenntnis genommen
+- TOP 34: Bebauungsplan Nr. 5775/32 - zur Kenntnis genommen
+- TOP 35: Verkehrsmaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: Situation Gertrudisplatz - zur Kenntnis genommen
