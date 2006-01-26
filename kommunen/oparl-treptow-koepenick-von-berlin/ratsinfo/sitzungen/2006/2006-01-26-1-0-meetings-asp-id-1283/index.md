@@ -1,0 +1,74 @@
+# 46. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2006-01-26T16:30:00+01:00
+- Ende: 2006-01-26T22:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1283
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1283
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. V_48 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - gegenstandslos
+- TOP 8.1: Neuwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - gegenstandslos
+- TOP 9.1: Unterstützung von Aktivitäten gegen Rechtsextremismus - vertagt
+- TOP 10: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 11: Vorlagen zur Beschlussfassung - gegenstandslos
+- TOP 11.1: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 601) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 602) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Tourismusverein Treptow-Köpenick e.V. (SM 606) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Köpenicker Initiativgruppe EINE WELT (SM 609) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: - Entwurf des Bebauungsplans XV-23 und Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-23 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - überwiesen
+- TOP 11.6: - Entwurf des Bebauungsplans XV-37a (Gartenstadt "Falkenberg" - Am Gartenstadtweg) im Bezirk Treptow-Köpenick von Berlin, Ortsteil Bohnsdorf - Entwurf der Rechtsverordnung zum Bebauungsplan XV-37a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Bohnsdorf - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 12.1: Tempo 30 in der Bölschestraße in Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Hundekotfreie Altstadt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Lehr- und Lernmittel 2006/2007 - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Fahrradbeauftragte/r - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Schulhof-Nutzung - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Park-and-Ride-Anlage am S-Bahnhof Hirschgarten - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Europaradweg R1 im Bezirk Treptow-Köpenick und Radweg um den Müggelsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Haushaltsrisiko Hilfe zur Erziehung minimieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Öffentliche Nutzung von Laufstrecken auf Sportanlagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Brandschutzaufklärung - mit Änderungen in der BVV beschlossen
+- TOP 12.11: Novellierung Berliner Straßengesetz - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Stierskulptur von Heinrich Drake - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Informationen des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 13.1: Bebauungsplanentwurf XV-16 ("Am alten Sportplatz") hier: - Reduzierung des Geltungsbereiches - Inhaltliche Änderungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Im I. Halbjahr 2005 zugelassene über- und außerplanmäßige Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 13.3: Konkretisierung und Fortschreibung der städtebaulichen Sanierungsziele für das Sanierungsgebiet Niederschöneweide - überwiesen
+- TOP 14: Anträge - gegenstandslos
+- TOP 14.1: Vervollständigung der Radwegeführung - überwiesen
+- TOP 14.2: PKW-Stellplätze Wuhlheide - überwiesen
+- TOP 14.3: Europäisches Jugendcamp - überwiesen
+- TOP 14.4: Würdigung von Gerhart Hauptmann zum 60. Todestag - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Radwegbau in der Wendenschloßstraße - überwiesen
+- TOP 14.6: Fußgängersteg über die Müggelspree - überwiesen
+- TOP 14.7: Internetdomain Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Kitas und Senioreneinrichtungen - überwiesen
+- TOP 14.9: Schmetterlingshorst - überwiesen
+- TOP 14.10: Einheitliches Erscheinungsbild - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: 800 Jahre Köpenick - überwiesen
+- TOP 14.12: Selbstverwaltung der KGA Erpetal ermöglichen - überwiesen
+- TOP 14.13: Umbau Wendenschloßstraße I - Information der betroffenen Anwohner und Eigentümer - überwiesen
+- TOP 14.14: Zeitbegrenzung beim Parken - überwiesen
+- TOP 14.15: Umbau Wendenschloßstraße II - Finanzielle Auswirkungen für die Eigentümer und Mieter - überwiesen
+- TOP 14.16: Umbau Wendenschloßstraße III - Keine Verringerung der Anzahl der Parkplätze - überwiesen
+- TOP 14.17: Umbau Wendenschloßstraße IV - Sicherstellung einer guten Erreichbarkeit mit dem ÖPNV - überwiesen
+- TOP 14.18: Umbau Wendenschloßstraße V - Sicherstellung einer guten Erreichbarkeit mit dem ÖPNV - überwiesen
+- TOP 15: Große Anfragen - gegenstandslos
+- TOP 15.1: Radwege und -führungen im Bezirk - beantwortet
+- TOP 15.2: Steganlagenkonzeption - vertagt
+- TOP 15.3: Sozialhilfe/Arbeitslosengeld II - vertagt
