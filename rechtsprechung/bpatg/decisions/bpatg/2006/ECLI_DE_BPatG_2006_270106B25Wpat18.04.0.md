@@ -1,0 +1,285 @@
+---
+ecli: "ECLI:DE:BPatG:2006:270106B25Wpat18.04.0"
+court: "Bundespatentgericht"
+spruchkoerper: "25"
+aktenzeichen: "25 W (pat) 18/04"
+decided: "2006-01-27"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bpatg&Art=en&Datum=2006&Sort=1&Seite=6&nr=683&anz=1665&pos=94&Blank=1.pdf"
+corpus_doc_id: "BPatG_Marken_NA_2006-01-27_25_W-pat_18_04_NA_0.txt"
+cites_law: ["germany/bund/acts/markeng/0005.md", "germany/bund/acts/markeng/0008.md"]
+---
+
+# Bundespatentgericht, 25 W (pat) 18/04 vom 2006-01-27
+
+## Entscheidung
+
+BUNDESPATENTGERICHT
+
+
+
+ 25 W (pat) 18/04
+_______________________
+
+    (Aktenzeichen)
+
+
+
+
+                                 BESCHLUSS
+
+                               In der Beschwerdesache
+
+
+…
+
+
+
+
+                    betreffend die Markenanmeldung 300 93 925
+
+
+hat der 25. Senat (Marken-Beschwerdesenat) des Bundespatentgerichts am
+27. Januar 2006 unter Mitwirkung …
+
+
+
+
+beschlossen:
+
+
+                          Die Beschwerde wird zurückgewiesen.
+
+
+
+
+BPatG 152
+08.05
+
+                                     -2-
+
+
+
+                                  Gründe
+
+
+                                      I.
+
+
+Die Bezeichnung
+
+
+                            computer @nd more
+
+
+ist am 28. Dezember 2000 für die Waren und Dienstleistungen
+
+
+       auf maschinenlesbare Datenträgern aufgezeichnete Computerprogramme, elektronische und elektrotechnische Apparate und Instrumente (soweit in Klasse 9 enthalten), Geräte zur Aufzeichnung, Übertragung und Wiedergabe von Ton und Bild, Magnetaufzeichnungsträger,   Rechenmaschinen,    Datenverarbeitungsanlagen, Computer, Computer-Peripheriegeräte (soweit in Klasse 9
+       enthalten); Computer-Software in Form von Computerprogrammen, mit Computerprogrammen bespielte Datenträger aller Art,
+       Teile aller vorgenannten Waren, Computersoftware in Form von
+       Programmhandbüchern und Dokumentationen; Druckschriften,
+       Beratung zur Anwendung von Computerhard- und Software, Aktualisieren von Computersoftware; Vermieten von Computerhardund Computersoftware; Vermieten der Zugriffszeit zur Datenbanken; Erstellen von Programmen für die Datenverarbeitung; Vermietung von Datenverarbeitungsgeräten; Entwicklungs- und Recherchedienste bezüglich neuer Produkte; Forschungen auf dem
+       Gebiet der Informationstechnik; Fertigungsplanung für Computerhardware; Verwertung von Patenten; Projektplanungen zur Errichtung von Datenverarbeitungsanlagen und Netzwerken; Erstellung von technischen Gutachten über Computerhardware, beispielsweise EMV-Zulassung, EMV-Übersichtsmessungen, ESD-
+
+                                       -3-
+
+
+
+        Messungen, MPR2-Messungen am Arbeitsplatz, TCO-Messungen
+        am Arbeitsplatz, Gutachten zur BZT-Zulassung von Elektrogeräten, Messung der Geräuschentwicklung von Systemen und Anlagen und dergleichen
+
+
+zur Eintragung in das Markenregister angemeldet worden.
+
+
+Nach Beanstandung der Anmeldung wegen absoluter Schutzhindernisse nach § 8
+Abs. 2 Nr. 1 u. 2 MarkenG hat die Markenstelle für Klasse 42 des Deutschen Patent- und Markenamts die angemeldete Bezeichnung mit zwei Beschlüssen vom
+17. März 2003 und 9. Dezember 2003, von denen einer im Erinnerungsverfahren
+ergangen ist, zurückgewiesen.
+
+
+Bei der angemeldeten und dem Verkehr ohne weiteres als „Computer und mehr“
+verständlichen Wortfolge handele es sich in Bezug auf die beanspruchten Waren
+und Dienstleistungen um eine nicht unterscheidungskräftige Sachangabe, die verdeutliche, dass Kern des Angebots Computer sind, dass aber auch ein Angebot
+von ergänzenden Waren und Dienstleistungen bestehe, das dort ende, wo überhaupt kein Zusammenhang mehr mit Leistungen eines (modernen) IT-Unternehmens festzustellen sei. In dieser Bedeutung lasse sich eine entsprechende Verwendung dieser Wortfolge in der Werbung auch nachweisen (Anlage 2 des Beschlusses vom 9. Dezember 2003). Wegen dieses beschreibenden Begriffsinhalts
+fehle es ihr daher an jeglicher Unterscheidungskraft i. S. von § 8 Abs. 2 Nr. 1 MarkenG. Die Verwendung des „@“-Zeichens sei ebenfalls nicht schutzbegründend,
+da dieses Zeichen nicht nur zu einem umfassenden Symbol für Technik geworden
+sei, sondern auch als werbeübliches Blickfangelement zur Ausschmückung des
+Vokals „a“ diene.
+
+
+Hiergegen richtet sich die Beschwerde der Anmelderin mit dem Antrag,
+
+
+      den Beschluss der Markenstelle vom 9. Dezember 2003 aufzuheben.
+
+                                      -4-
+
+
+
+Sie macht geltend, dass dem Verkehr der Werbeslogan „Computer and more“
+nicht ohne weiteres verständlich sei. Dem Slogan könne keine in Bezug auf die
+beanspruchten Waren und Dienstleistungen im Vordergrund stehende Sachaussage entnommen werden. Allenfalls für die Ware „Computer“ wäre die angemeldete Wortfolge „computer @nd more“ beschreibend. Die Bezeichnung „more“
+lasse völlig offen, für welche weiteren Waren und Dienstleistungen die angemeldete Bezeichnung beansprucht werde. Es handele sich bei der angemeldeten
+Wortfolge und eine interpretationsbedürftige und mehreren Deutungsmöglichkeiten zugängliche Wortkombination. Einer Marke fehle es nur dann an der erforderlichen Unterscheidungskraft, wenn dieser eine wirklich konkrete Aussage über die
+gekennzeichneten Waren/Dienstleistungen entnommen werden könne. Der angemeldeten Bezeichnung könne aber keine konkrete Aussage über die beanspruchten Waren und Dienstleistungen entnommen werden, sondern allenfalls
+über die Fähigkeiten des Dienstleistungsanbieters. Zudem sei die Marke durch
+den Bestandteil „@“ orthografisch abgewandelt, was ebenfalls Unterscheidungskraft begründe. Ferner lasse sich den von der Markenstelle übersandten Internetstellen keine Verwendung der angemeldeten Bezeichnung entnehmen. Die Anmelderin verweist ferner auf die eingetragene Marke „Bytes and More“. Aus den
+vorgenannten Gründen bestehe auch kein Freihaltungsbedürfnis i. S. von § 8
+Abs. 2 Nr. 2 MarkenG.
+
+
+Wegen der weiteren Einzelheiten wird auf den angefochtenen Beschluss der Markenstelle sowie auf die Schriftsätze der Anmelderin und den weiteren Akteninhalt
+Bezug genommen.
+
+
+
+
+                                       II.
+
+
+Die zulässige Beschwerde hat in der Sache keinen Erfolg, weil die Bezeichnung
+„computer @nd more“ für die beanspruchten Waren und Dienstleistungen nicht
+
+                                      -5-
+
+
+
+über das erforderliche Mindestmaß an Unterscheidungskraft gemäß § 8 Abs. 2
+Nr. 1 MarkenG verfügt.
+
+
+Unterscheidungskraft im Sinne von § 8 Abs. 2 Nr. 1 MarkenG ist nach ständiger
+Rechtsprechung im Hinblick auf die Hauptfunktion der Marke, die Ursprungsidentität der gekennzeichneten Waren oder Dienstleistungen zu gewährleisten, die einer Marke innewohnende (konkrete) Eignung, vom Verkehr als Unterscheidungsmittel für die von der Marke erfassten Waren oder Dienstleistungen eines Unternehmens gegenüber solchen anderer Unternehmen aufgefasst zu werden (vgl. zur
+st. Rspr. BGH GRUR 2003, 1050 – Cityservice; EuGH GRUR 2003, 58 -
+COMPANYLINE zur GMV). Die Unterscheidungskraft ist zum einen im Hinblick auf
+die angemeldeten Waren oder Dienstleistungen und zum anderen im Hinblick auf
+die beteiligten Verkehrskreise zu beurteilen, wobei auf die Wahrnehmung eines
+durchschnittlich informierten, aufmerksamen und verständigen Durchschnittsverbrauchers der fraglichen Waren und Dienstleistungen abzustellen ist. Keine
+Unterscheidungskraft besitzen nach der Rechtsprechung vor allem solche Marken,
+denen die angesprochenen Verkehrskreise für die fraglichen Waren lediglich einen
+im Vordergrund stehenden beschreibenden Begriffsinhalt zuordnen (vgl. EuGH
+GRUR 2004, 674, 678 – Postkantoor). Jedoch hat der EuGH auch darauf hingewiesen, dass eine unmittelbar beschreibende Bedeutung nicht Voraussetzung für
+die Annahme fehlender Unterscheidungskraft ist. Vielmehr kann die Unterscheidungskraft auch aus anderen Gründen fehlen (vgl. EuGH GRUR 2004, 674 –
+Postkantoor; GRUR 2004, 680 – Biomild). Maßgebend ist allein, ob der Verkehr in
+der angemeldeten Marke einen Herkunftshinweis erblickt oder nicht. Ein Eintragungshindernis kann sich daher auch daraus ergeben, dass die angesprochenen
+Verkehrskreise im Hinblick auf den möglichen Inhalt oder Gegenstand der jeweiligen Waren oder Dienstleistungen in dem beanspruchten Zeichen eine Sachinformation sehen (BGH MarkenR 2002, 338, 340 - Bar jeder Vernunft; BGH MarkenR
+2003, 148, 149 – Winnetou; EuG GRUR Int. 2001, 864, 866 - CINE COMEDY;
+BPatG MarkenR 2002, 299, 301 – OEKOLAND).
+
+                                       -6-
+
+
+
+Ausgehend hiervon fehlt der angemeldeten Wortkombination „computer @nd
+more“, deren Bedeutung im Zusammenhang mit den angemeldeten Dienstleistungen zu beurteilen ist, die erforderliche Eignung, im Verkehr als Unterscheidungsmerkmal hinsichtlich ihrer Herkunft aus einem bestimmten Unternehmen angesehen zu werden.
+
+
+Das angemeldete Zeichen heißt wörtlich übersetzt „Computer und mehr“ und ist
+den inländischen Verkehrskreisen ohne weiteres verständlich. Was den Markenbestandteil „@nd more“ – gleichbedeutend mit „and more“, „& more“ oder „und
+mehr“ - betrifft, hat das Bundespatentgericht sowohl in den dem angefochtenen
+Erinnerungsbeschluss der Markenstelle auszugsweise beigefügten als auch in
+weiteren Entscheidungen (vgl. zuletzt PAVIS PROMA BPatG 32 W 128/03 v.
+15.06.2005 – Stones & more) aufgezeigt, dass es sich dabei um eine auch im Inland in der Werbesprache inzwischen sehr verbreitete Floskel handelt, mit der in
+verschiedensten Waren- und Dienstleistungsbereichen auf zusätzliche Eigenschaften bzw. ein erweitertes Leistungs- und Angebotsspektrum hingewiesen
+werden soll.
+
+
+Vor diesem Hintergrund wird der Verkehr die angemeldete Wortfolge hinsichtlich
+der beanspruchten Waren und Dienstleistungen dann aber nicht als individualisierenden, betrieblichen Herkunftshinweis, sondern als Werbeslogan auffassen, der
+lediglich eine anpreisende Werbeaussage mit rein beschreibendem Inhalt darstellt
+und kaum mehrdeutig erscheinen kann. So bringt die Wortfolge „computer @nd
+more“ in Bezug auf die beanspruchten Dienstleistungen in verständlicher und zeitgemäßer Form zum Ausdruck, dass diese sich auf „Computer“ und damit in Zusammenhang stehende Fragen und Probleme beziehen bzw. diese zum Gegenstand haben. Insoweit ist zu beachten, dass bei einem Waren- und Dienstleistungsverzeichnis, welches wie vorliegend durch die Verwendung von Oberbegriffen
+unterschiedliche Waren und Dienstleistungen umfasst, die Eintragung des angemeldeten Zeichens für einen beanspruchten Oberbegriff bereits dann ausgeschlossen ist, wenn sich auch nur für eine spezielle, hierunter fallende Ware oder
+
+                                       -7-
+
+
+
+Dienstleistung ein Eintragungshindernis ergibt (vgl. BGH WRP 2002, 91, 93-94 –
+AC; Ströbele/Hacker, Markengesetz, 7. Aufl. § 8 Rdn. 284), so dass es insbesondere hinsichtlich der vorgenannten Dienstleistung nur auf den entsprechenden
+Oberbegriff, nicht hingegen auf die „beispielsweise“ aufgeführten speziellen Tätigkeiten ankommt.
+
+
+Hinsichtlich der Waren „elektronische und elektrotechnische Apparate und Instrumente (soweit in Klasse 9 enthalten), Geräte zur Aufzeichnung, Übertragung und
+Wiedergabe von Ton und Bild, Magnetaufzeichnungsträger, Rechenmaschinen,
+Datenverarbeitungsanlagen, Computer, Computer-Peripheriegeräte (soweit in
+Klasse 9 enthalten)“ wird der Verkehr in der angemeldeten Wortfolge entweder einen schlagwortartig verkürzten Hinweis auf ein um den „Computer“ zentriertes
+Leistungs- und Angebotsspektrum oder aber in Bezug auf die konkret damit gekennzeichnete Ware eine beschreibende Qualitätsangabe sehen, dass diese
+weitere vorteilhafte, über die Verwendung als „Computer“ hinausgehende Eigenschaften und Nutzungsmöglichkeiten besitzt. Dies führt nicht zu einer schutzbegründenden Mehrdeutigkeit der Bezeichnung für diese Waren, da die Wortfolge
+insoweit in beiden Bedeutungsmöglichkeiten einen eindeutigen sachbezogenen
+Aussagegehalt aufweist.
+
+
+In Bezug auf die Waren „auf maschinenlesbare Datenträgern aufgezeichnete
+Computerprogramme, Computer-Software in Form von Computerprogrammen, mit
+Computerprogrammen bespielte Datenträger aller Art, Teile aller vorgenannten
+Waren, Computersoftware in Form von Programmhandbüchern und Dokumentationen“ wird der Verkehr in der angemeldeten Wortfolge einen Hinweis auf den Inhalt dieser Waren erkennen. Letzteres gilt auch in Bezug auf die beanspruchten
+Waren „Druckschriften“. Solche inhaltsbeschreibenden Werktitel können zwar Titelschutz i. S. von § 5 Abs. 3 MarkenG erlangen; ihnen fehlt jedoch, soweit es um
+ihre Eintragung als Marke geht, das erforderliche Maß an Unterscheidungskraft
+(vgl. BGH, GRUR 1998, 145, 146 – Klassentreffen; GRUR 2003, 342 , 343 – Winnetou).
+
+                                       -8-
+
+
+
+Soweit nicht erkennbar ist, welche zusätzlichen, ergänzenden oder umfassenden
+Angebote die Anmelderin mit dem Zusatz „@nd more“ meint oder der angesprochene Verkehr sich darunter vorstellt, steht dies einem rein sachbezogenen Verständnis der Wortfolge nicht entgegen. Denn es liegt in der Natur der angemeldeten Wortfolge als Sammelbezeichnung, dass das Thema breit angelegt und die
+Angabe insgesamt allgemein ist. Die mit einer solchen verallgemeinernden Aussage einhergehende Unkenntnis der durch den Begriff im Einzelfall repräsentierten tatsächlichen Inhalte steht einem Verständnis als bloße Sachangabe aber
+nicht entgegen (vgl. BGH MarkenR 2000, 330, 332 – Bücher für eine bessere
+Welt). Eine solche begriffliche Unbestimmtheit kann insbesondere erforderlich und
+gewollt sein, um einen möglichst weiten Bereich waren- oder dienstleistungsbezogener Eigenschaften, Vorteile oder Leistungsinhalte zu erfassen, ohne diese
+im Einzelnen zu benennen. Im Gegensatz zu der von der Anmelderin zitierten und
+u. a. für vergleichbare Waren und Dienstleistungen aus dem EDV-Bereich
+eingetragenen Wortfolge „Bytes and more“ (vgl. dazu die entsprechende
+Entscheidung PAVIS PROMA, 25 W (pat) 133/01 v. 10.10.2002) enthält die
+Wortfolge   „computer     @nd    more“     einen   eindeutigen       sachbezogenen
+Aussagegehalt in Bezug auf die beanspruchten Waren und Dienstleistungen, der
+ihrer Auffassung als betrieblicher Herkunftshinweis entgegensteht.
+
+
+Die dem angefochtenen Erinnerungsbeschluss der Markenstelle beigefügte Recherche der Internet-Suchmachinne „Google“ zu der gleichbedeutenden Bezeichnung „computer und mehr“ belegt denn auch eine beschreibende Verwendung der
+angemeldeten Wortfolge zur schlagwortartigen Beschreibung eines Angebots
+„rund um den Computer“ (vgl. dazu die in der Recherche ausgewiesenen Fundstellen www.hismad.de: „HISMAD by Marklein – Computer und mehr !“; www.hogielektronik.de: HoGi-Elektronik-Computer und mehr).
+
+
+Selbst wenn entgegen dieser nachweisbaren Verwendung des Begriffs „computer
+@nd more“ angenommen würde, es handele sich hierbei um eine sprachliche
+Neuschöpfung, ließe sich allein daraus entgegen der Auffassung des Anmelders
+
+                                          -9-
+
+
+
+nicht deren Schutzfähigkeit ableiten. Der EuGH hat in seiner Rechtsprechung wiederholt betont, dass die bloße Kombination von schutzunfähigen Bestandteilen
+selbst bei einer Wortneuschöpfung nicht zwangsläufig zur Eintragungsfähigkeit
+führt. Entscheidend sei vielmehr, ob der von der Wortkombination erweckte Eindruck in seiner Gesamtheit hinreichend weit von dem abweicht, der durch die
+bloße Zusammenstellung der Bestandteil entsteht und somit über die Summe dieser   Bestandteile   hinausgeht   (vgl.   EuGH   MarkenR   2004,   111,   115   –
+BIOMILD/Campina-Melkunie). Das ist aber bei „computer @nd more“ nicht der
+Fall. Vielmehr ist der sachbezogene Aussagegehalt der Bezeichnung für die beanspruchten Dienstleistungen so deutlich und unmissverständlich, dass seine
+Funktion als sachbezogener Begriff nahe gelegt ist. Die Wortkombination „computer @nd more“ benennt Inhalt und/oder Gegenstand der beanspruchten
+Dienstleistungen, ohne dass durch die Zusammenfügung der Wörter der sachbezogene Charakter der Wortkombination verloren geht.
+
+
+Mit zutreffender Begründung hat die Markenstelle auch festgestellt, dass die Verwendung des „@“ ebenfalls nicht schutzbegründend wirkt, weil es als werbeübliches Blickfangelement zur Ausschmückung des Vokals „a“ dient (vgl. dazu BPatG
+PAVIS PROMA 30 W (pat) 198/01 vom 30.08.2002 - @ctive IO).
+
+
+Ob das angemeldete Zeichen in Bezug auf die hier maßgeblichen beanspruchten
+Waren und Dienstleistungen darüber hinaus eine beschreibende Angabe im Sinne
+des § 8 Abs. 2 Nr. 2 MarkenG darstellt, an der die Mitbewerber ein berechtigtes
+Freihaltungsbedürfnis haben, bedarf im Hinblick darauf, dass das Zeichen bereits
+keine ursprüngliche Unterscheidungskraft i. S. von § 8 Abs. 2 Nr. 1 MarkenG aufweist, keiner Entscheidung.
+
+                                    - 10 -
+
+
+
+Die Beschwerde hat daher keinen Erfolg.
+
+
+
+
+gez.
+Unterschriften
