@@ -1,0 +1,102 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2006-01-31T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/829355
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/829355
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Grafinger Straße 29 - Bauvorhaben Diskothek
+- TOP 3.2.: Friedenstraße 10 - Nutzungsänderung eines überdachten Spielplatzes in eine Bar in Kombination mit der bestehenden Gaststätte "Neue Marktwirtschaft"
+- TOP 3.3.: Truderinger Straße 150 + 152 - Neubau zweier Mehrfamilienhäuser mit ausgebautem DG
+- TOP 3.4.: Truderinger Straße 158 - Neubau zweier Wohngebäude (VGB + RGB / 2 x 6 WE) mit TG
+- TOP 3.5.: Hansjakobstraße (nördlich), Roßsteinstraße (östlich), Hohenburgstraße (südlich) - Bebauungsplan mit Grünordnung
+- TOP 3.1.: Thomas-Hauser-Straße - Verringerung der Durchfahrtshöhe in der Bahnunterführung
+- TOP 3.2.: Berg-am-Laim-Straße / Riedgaustraße - Verbesserung der Verkehrssituation
+- TOP 3.3.: Gotteszeller Straße - Veranstaltungen Winterspielbus
+- TOP 3.4.: St.-Veit-Straße - Veranstaltung Puppenbühne
+- TOP 3.5.: Planfeststellung Zweite S-Bahn-Stammstrecke - Abschnitt 1 München West - (Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof) - Anhörungsverfahren
+- TOP 3.6.: Herstellung einer Anliegerstraße ?Vinzenz-von-Paul-Straße?
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Rücksicht auf Belange von Kindern und Jugendlichen bei Straßen- und Stadtteilfesten
+- TOP 3.2.: Fest "18 jetzt" im Rathaus, Schreiben des BA 9
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Neues Kinderbildungs- und Betreuungsgesetz (BayKiBiG) - Antrag auf eine Erhöhung des Geichtungsfaktor für die Integrationskinder im Kindergarten und die Sicherung des Integrationshorts St. Michael
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Anbindung der Bezirksausschüsse an das Ratsinformationssystem (RIS); Linux-Laptop für BA-Vorsitzende
+- TOP 3.1.: St.-Michael-Straße 16 - Antrag auf Baumfällung
+- TOP 3.2.: Hachinger-Bach-Straße 25 - Antrag auf Baumfällung
+- TOP 3.3.: St.-Veit-Straße 47 - Antrag auf Baumfällung
+- TOP 3.4.: Wildenwarter Str. 12 - Antrag auf Baumfällung
+- TOP 3.5.: Berg-am-Laim-Str. 80 - Antrag auf Baumfällung
+- TOP 3.6.: Berg-am-Laim-Str. 86 - Antrag auf Baumfällung
+- TOP 3.7.: Achentalstraße 1 - Antrag auf Baumfällung
+- TOP 3.8.: Kranzhornstraße 9 - Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Erlass einer Satzung zur Aufstellung von Plakattafeln - Zwischennachricht zum Antrag Nr. 6348 des BA 14
+- TOP 4.2.: Pilotprojekt Jugendbeteiligung an der Stadtplanung - Unterstützungsantrag Nr. 803 des BA 14 zum Antrag des BA 5
+- TOP 4.3.: Aktualisierung des Flächennutzungsplanes und Aufstellung des Landschaftsplanes Teilbereich VI - Südost
+- TOP 4.4.: Kommunales Wohnungsbauprogramm - Ausschreibung von Grundstücken
+- TOP 4.5.: Bericht über die Beschlussvollzugskontrolle des Planungsausschusses des Stadtrates
+- TOP 4.6.: Auswirkungen der Verfahrensbeschleunigung für Bundesvorrangprojekte
+- TOP 4.8.: Münchner Bürgerinnen- und Bürgerbefragung 2005
+- TOP 4.1.: Grafinger Straße - Schaffung einer Ausweichstelle für Linienbusse
+- TOP 4.2.: Friedenstraße - Einrichtung eines Halteverbots an der Bushaltestelle "Ostbahnhof (Friedenstraße)"
+- TOP 4.3.: Heinrich-Wieland-Straße - Neue Haltestelle der Buslinie 195
+- TOP 4.4.: Heinrich-Wieland-Straße - Einrichtung Halteverbot
+- TOP 4.5.: Lichtzeichenanlagen-Bauprogramm 2006
+- TOP 4.6.: 27. Bayern-Rundfahrt vom 24.-28. Mai 2006
+- TOP 4.7.: Sichtbehinderung durch Wartehäuschen
+- TOP 4.8.: U-Bahn-Linie 2 Ost ? Nachrüstung eines Gleichrichterwerkes im U-Bhf. Kreillerstr.
+- TOP 4.9.: Information über Betriebskonzept während der Bauarbeiten am U-Bahnhof Kreillerstr.
+- TOP 4.1.: Geruchsbelästigung an der Thomas-Hauser-Straße - Stellungnahme der betroffenen Firma
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des zweiten Bildungsweges und den Schulen besonderer Art, der Realschulen, beruflichen Schulen, sowie der Grund-, Haupt- und Förderschulen im Schuljahr 2005/2006
+- TOP 4.2.: Bereinigtes Einschreibeergebnis für das Kindergartenjahr / Schuljahr 2005/2006
+- TOP 4.3.: Investitionsprogramm für städtische Freisportanlagen - Jährlicher Sachstandsbericht
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Frühkindliche Gesundheitsförderung - Schließung der Mütter-/Väterberatungsstellen zugunsten vermehrter Hausbesuche
+- TOP 4.2.: Ausschreibung von Trägerschaften für bezuschusste soziale Einrichtungen
+- TOP 4.1.: Verwendungsnachweis Kindertagesstätte St. Michael
+- TOP 4.2.: Änderungsbescheid Initiative Berg-am-Laim-Buch
+- TOP 4.3.: Budget-Bewilligungsbescheid an den ESV
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Bürgerversammlung des 14. Stadtbezirkes Berg am Laim am 09.03.2005
+- TOP 4.2.: Bürgerversammlung des 14. Stadtbezirkes Berg am Laim am 09.03.2005 - Info-Stände des Ausländerbeirates, des Mieterbeirates und des Seniorenbeirates
+- TOP 4.3.: Gespräch des Oberbürgermeisters und der 2. Bürgermeisterin mit den Vorsitzenden der Bezirksausschüsse am 24.11.2005 - Protokoll
+- TOP 4.1.: Unterrichtung über das Fällen von Gefahrenbäumen an der Bad-Kreuther-Anlage
+- TOP 4.2.: Unterrichtung über das Fällen von Gefahrenbäumen an der Neumarkter Straße
+- TOP 4.3.: Die Münchner Baumschutzverordnung - Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse und der einschlägigen Verbände
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
+- TOP 4.7.: Meldeliste der Bauvorhaben zwischen 12.12.2005 - 15.01.2005
