@@ -1,0 +1,51 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-01-31T17:00:00+01:00
+- Ende: 2006-01-31T00:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1688
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1688
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111812.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111812.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111812.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Mittelstreifen Hardtstraße
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Sportanlage Staufenplatz
+- TOP 7: B-Plan Nr. 6080/21 - Gallberger Höhe
+- TOP 8: Masterplan Schulen 2006
+- TOP 9: B+F Sulzbachstraße
+- TOP 10: Zukunft des Geländes Glashütte
+- TOP 11: Verwendung von Haushaltsmitteln2006
+- TOP 12: Ausstellung "Deutschkunde" gegen Neonazis
+- TOP 13: Grundwasserspiegel Fröbelstraße
+- TOP 14: Sachstandsbericht L 404 n
+- TOP 15: Parksituation Hardtstraße
+- TOP 16: Fahrspuren Kreuzung Dreherstr./Torfbruchstr.
+- TOP 17: Taubendreck am ehemaligen Pfarrhaus Gerresheim
+- TOP 18: Gestaltung Ostpark
+- TOP 19: Kreuzung Benderstraße/Dreherstraße
+- TOP 20: Grundwasserverunreinigung Gerresheim-Süd
+- TOP 21: Nennung der DKP
+- TOP 22: Grundschule Knittkuhl/Offene Ganztagsschule
+- TOP 23: Quellenbusch
+- TOP 24: Komplex Heinrich-Könn-Straße 60
+- TOP 25: Verunstaltung durch T-Com Aufbauten
+- TOP 26: Veranstaltungen im Stadtbezirk während der WM
+- TOP 27: Radwege auf der Morper Straße
+- TOP 28: Lärmminderungsmaßnahmen
+- TOP 29: Haltverbot Sulzbachstraße
+- TOP 30: Planungsstand L 404 n
+- TOP 31: Anregungen der Bezirksvertretung 7 zum Haushalt
+- TOP 32: Industriedenkmäler auf dem Gelände der Glashütte
+- TOP 33: Vermarktung "Nach den Mauresköthen"
+- TOP 34: Geschwindigkeitsübertretung Bismarckweg
