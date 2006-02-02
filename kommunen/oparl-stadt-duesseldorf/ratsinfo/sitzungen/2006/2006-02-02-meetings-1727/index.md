@@ -1,0 +1,65 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-02-02T14:00:00+01:00
+- Ende: 2006-02-02T20:01:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1727
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1727
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111835.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111835.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111835.pdf
+
+## Tagesordnung
+
+- TOP 1: Ehrenring - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - mehrheitlich beschlossen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Anfr.aktuell d. Rh. Lbg.: Bekämpf. d. Arbeitslos. - zur Kenntnis genommen
+- TOP 6: Anfr. aktuell d. Rh Lbg.:Rechtsextr. Straftaten - zur Kenntnis genommen
+- TOP 7: Anfragen - zur Kenntnis genommen
+- TOP 8: Anfr.CDU Rf.: Schließung des Flughafens Weeze - zur Kenntnis genommen
+- TOP 9: Anfr. CDU: Schüler ohne Schulabschluss - zur Kenntnis genommen
+- TOP 10: Anfr.SPD: Verkaufserlös Stadtwerke - zur Kenntnis genommen
+- TOP 11: Anfr. Rf Pantel: Ganztagshauptschule - zur Kenntnis genommen
+- TOP 12: Anfrage FDP: Stadtinfoanlagen - zur Kenntnis genommen
+- TOP 13: Anfr.Bü90/Grü:Baugen.. Heltorfer Mark u. Angeraue - zur Kenntnis genommen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Anfr. Rf Kahl: Streik b. Gate Gourmet - zur Kenntnis genommen
+- TOP 16: Anfrage RH Lbg: Belästigungen d. kommerz. Werbung - zur Kenntnis genommen
+- TOP 17: Anfr.Rf Kahl: Unterbringung von Flüchtlingen - zur Kenntnis genommen
+- TOP 18: Anfr. Rh Lbg.: Arbeitszeitverk. i. ö.D. - zur Kenntnis genommen
+- TOP 19: Anträge - zur Kenntnis genommen
+- TOP 20: Antr. Bü 90: Kinderarbeit - zur Kenntnis genommen
+- TOP 21: Interfrakti.: Kinderarbeit NEU - zur Kenntnis genommen
+- TOP 22: Antr. Bü90: Kioske Altstadt - zur Kenntnis genommen
+- TOP 23: Antr. Bü90: Eine-Welt - zur Kenntnis genommen
+- TOP 24: Antrag CDU/FDP: Kultureller Rucksack Kitas u. Sch. - zur Kenntnis genommen
+- TOP 25: Ergantr. Bü90: kultureller Rucksack - zur Kenntnis genommen
+- TOP 26: Antr.SPD: Familien fördern-Kinder stärken - zur Kenntnis genommen
+- TOP 27: Antr.SPD: Kinder- u. Jugenförderunggesetz - zur Kenntnis genommen
+- TOP 28: Gen. üpl.u. apl. Ausgaben 2005 - mehrheitlich beschlossen
+- TOP 29: BuF Vennhauser Allee - einstimmig beschlossen
+- TOP 30: Umbau Kikweg - einstimmig beschlossen
+- TOP 31: Umbau der Pausenhalle Emil-Barth-Str. 45 - einstimmig beschlossen
+- TOP 32: Theodor-Heuss-Schule, Lützenkircher Straße 2, Gesa - einstimmig beschlossen
+- TOP 33: Beckenanlage Bergische Landstraße - einstimmig beschlossen
+- TOP 34: Beckenanlage Gerricusstraße - einstimmig beschlossen
+- TOP 35: B+F Erneuerung Steuergeräte - einstimmig beschlossen
+- TOP 36: Umbesetzungen - einstimmig beschlossen
+- TOP 37: Verbandsvers.Zweckverb.Wildgehege Neandertal - einstimmig beschlossen
+- TOP 38: Änderung Hundesteuer - mehrheitlich beschlossen
+- TOP 39: ÄA SPD: Hundesteuersatzung - mehrheitlich abgelehnt
+- TOP 40: Abwassersatzung - einstimmig beschlossen
+- TOP 41: Beschlusskontrolle - einstimmig beschlossen
+- TOP 42: Bildungsoffensive II - einstimmig beschlossen
+- TOP 43: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 44: FNPÄ72-Viersener/Neuwerker-Anreg.Plan - mehrheitlich beschlossen
+- TOP 45: Genehmigung 60er: Umwandlung GHS Rather Kreuzweg - einstimmig beschlossen
+- TOP 46: Neufassung der Honorarordnung - mehrheitlich beschlossen
+- TOP 47: Gen. 60er Umwandl. Karl-Röttger Schule - einstimmig beschlossen
+- TOP 48: 40/24/2006 - einstimmig beschlossen
