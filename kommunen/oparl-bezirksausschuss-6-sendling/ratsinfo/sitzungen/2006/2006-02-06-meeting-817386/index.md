@@ -1,0 +1,57 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2006-02-06T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/817386
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/817386
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Baumfällung Implerstraße 64
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.1.: Türkisch-Islamisches-Kulturzentrum Thalkirchner Straße / Kochelseestraße; Gestaltungsworkshop
+- TOP 2.2.: Bauvorhaben Clearinghaus Leipartstraße
+- TOP 2.3.: Kindergartenversorgung in Sendling
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Kommunales Wohnungsbauförderungsprogramm - KomProB; Ausschreibung von Grundstücken
+- TOP 4.: Schulreferat
+- TOP 4.1.: Bezirkssportanlage Dietramszellerstr. 6; Neubau eines Sport- / Betriebsgebäudes
+- TOP 5.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 5.2.: Einrichtung einer Freischankfläche, Implerstraße 90
+- TOP 6.1.: Lichtzeichenanlagen-Bauprogramm 2006
+- TOP 6.2.: Radrennen "Bayern-Rundfahrt" vom 24. - 28.05.2006
+- TOP 6.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes; Ludwig-Krafft-Straße 10
+- TOP 6.4.: Vorfahrtsregelung an der Kreuzung Aberle- / Alramstraße; Antwortschreiben KVR
+- TOP 7.1.: Budgetantrag der Volkshochschule Süd, Fotoausstellung "Straßenspieler"
+- TOP 7.2.: Budgetantrag Tagespflege Babydaisy, Einbau einer Blitzschutzanlage; ? 5000,-
+- TOP 7.3.: Budgetantrag SBZ-Sendling, Durchführung eines Tischtennisturniers; ? 1100,-
+- TOP 7.4.: Kürzung der Zuschüsse der Referate zu Lasten des BA-Budgets
+- TOP 7.5.: Einsetzung eines Behindertenbeauftragten im BA 6
+- TOP 7.6.: Budgetanträge von Alten- und Servicezentren
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Auswirkungen der Verfahrensbeschleunigung für Bundesvorrangprojekte
+- TOP 8.3.: Pilotprojekt Judendbeteiligung an der Stadtplanung
+- TOP 8.4.: Beschlussvollzugskontrolle
+- TOP 8.5.: Wohnen in München III - München Modell
+- TOP 8.6.: Bauvorhaben Maronstraße; Errichtung zweier Wohnhäuser mit Tiefgarage (zum Verweis in den Unterausschuss Bau)
+- TOP 9.: Baureferat
+- TOP 9.1.: Antrag auf neue Pläne zur Isarrenaturierung am Deutschen Museum
+- TOP 9.2.: Gemeinsamer Fuß- und Radweg Schäftlarnstraße
+- TOP 9.3.: Informationsveranstaltung am 08.03.06 zum Thema Straßenausbaubeitragsrecht
+- TOP 9.4.: Unterrichtung über das Entfernen von Spielgeräten; zwei Wippen in der Kita Aberlestr. 22f
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumpflanzungen in der Schöttlstraße
+- TOP 10.2.: Unterrichtung über die Fällung von Gefahrenbäumen
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
