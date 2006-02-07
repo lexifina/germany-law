@@ -1,0 +1,6 @@
+# TOP I.: A. Öffentliche Sitzung
+
+- Sitzung: BA VWB (2006-02-07)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/21838
