@@ -1,0 +1,81 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2006-02-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/823715
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/823715
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Kunsteisbahn West; Erhaltung der bestehenden Bande
+- TOP 2.2.: Familienunfreundliche Preise im Westbad
+- TOP 2.3.: Pasinger Stadtkern
+- TOP 2.4.: Verwahrlosung der Bus-Endhaltestelle "Schloss Blutenburg" (Buslinie 56)
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Rubensstr. 12, Baumbestandsplan Nr. 05-36271
+- TOP 3.2.: Manzingerweg 12, 1 Birke
+- TOP 3.3.: Am Stadtpark 47, Baumbestandsplan Nr. 05-34111
+- TOP 3.4.: Tschaikowskystr. 4, 1 Kiefer
+- TOP 3.5.: Eugen-Papst-Str., Baumbestandsplan Nr. 05-36184
+- TOP 3.6.: Feichthofstr. 170, Baumbestandsplan Nr. 05-36768
+- TOP 3.7.: Clemens-Krauß-Str. 8, 1 Serb. Fichte
+- TOP 3.8.: Landsberger Str. 388, Baumbestandsplan Nr. 05-36220
+- TOP 3.3.2: Gefahrenbäume
+- TOP 3.1.: Liste des Baureferates vom 16.12.2005
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Am Stadtpark 47
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget, Antragsteller: Kath. Stadtpfarramt St. Willibald (vertagt aus der Sitzung vom 17.01.06)
+- TOP 9.2.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget, Antragsteller: Arbeitsgemeinschaft der Pasinger Vereine e.V.
+- TOP 10.: Anhörungen
+- TOP 10.1.: Pippinger Straße, Neubau von 2 Einfamilienhäusern mit Doppelgarage
+- TOP 10.2.: Busanschluss von der Haltestelle Amalienburgstraße an die Tram-Nachtlinie N 17 nach 24 Uhr (vertagt aus der Sitzung am 17.01.06)
+- TOP 10.3.: Absolutes Haltverbot in der Beer-Walbrunn-Straße (vertagt aus Sitzung am 17.01.06)
+- TOP 10.4.: Pfeivestlstr. 28, Neubau einer Doppelhaushälfte mit Garage - DHH 1 und DHH 2
+- TOP 10.5.: Eugen-Papst-Str., Neubau von 7 Doppelhäusern und einer Doppelgarage, VORBESCHEID
+- TOP 10.6.: Verkauf einer städt. Immobilie, Bergsonstr. 40
+- TOP 10.7.: Menzinger Straße 110, Neubau eines Einfamilienhauses mit zwei Stellplätzen
+- TOP 10.8.: Pfeivestlstr. 26, Neubau eines Wohnhauses (Vorbescheid)
+- TOP 10.9.: Feichthofstraße 170, Neubau eines Einfamilienhauses mit Doppelgarage
+- TOP 10.10.: Landsberger Str. 388, Erweiterung der ALDI-Filiale
+- TOP 10.11.: Landsberger Str. 499, Teilung mit Nutzungsänderung eines Gastraumes in ein Internet-/Spielcafe (Vorbescheid)
+- TOP 11.: Anträge und Anfragen
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Bezirksinspektion West - Unveränderte Fortführung, Kleingaststätte Thai-China-Imbiss, Landsberger Str. 493 - Unveränderte Fortführung, Schank- und Speisegaststätte Delphin, Pasinger Bahnhofsplatz 4 - Unveränderte Fortführung, Schank- und Speisegaststätte "Da Peppo", Landsberger Str. 503
+- TOP 12.2.: Bauanträge (vom 16.01. - 22.01., v.
+- TOP 12.3.: Amtsblatt Nr. 2/06
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Ausschuss für Stadtplanung und Bauordnung vom 11.01.06 - U 5-West nach Pasing; Bekanntgabe eines Fertigstellungsdatums; Darauffolgende Modernisierung des Pasinger Bahnhofs; Keine Bevorzugung der U-Bahn nach Freiham (Empfehlung Nr. 81 der Pasinger Bürgerversammlung vom 28.04.05) - Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse und der einschlägigen Verbände
+- TOP 13.2.: Ausschuss für Stadtplanung und Bauordnung vom 01.02.2006 - "Wohnen in München, III" - München Modell; Grundsatzbehandlung der Modalitäten für das München Modell; a) Überblick über die bisherige Entwicklung der Modalitäten, b) Vermietungszahlen im München Modell-Miete seit Mai 2005, c) Fortführung des München Modells auf der BAsis der geltenden Modalitäten, d) Bilanz "10 Jahre München Modell"
+- TOP 13.3.: Bauausschuss vom 07.02.06 - Keine Umgestaltung / Sanierung der Lützow- und Rembrandtstraße (BA-Antrag Nr. 643 vom 04.10.05) - Wiederherstellung von Leitungsschächten in Straßen (Empfehlung Nr. 238 der Obermenzinger Bürgerversammlung vom 27.10.05) - Verkehrsgerechter Straßenausbau der Bahnunterführung Bergsonstraße
+- TOP 13.4.: Kulturausschuss vom 09.02.2006 - Evaluation des Modells Pasinger Fabrik Kultur- und Bürgerzentrum GmbH (Bekanntgabe)
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Direktorium - Gespräch des Oberbürgermeisters und der 2. Bürgermeisterin mit den Vorsitzenden der Bezirksausschüsse am 24.11.05 - Zuwendung aus Budgetmitteln des BA 21, Änderungsbescheid vom 23.01.06 an den Verein Würmchen e.V. - Zuwendung aus Budgetmitteln des BA 21, Bewilligungsbescheid vom 24.01.06 an das KünstlerSpectrum Pasing e.V.
+- TOP 14.2.: Baureferat - Östlicher Zugang zum S-Bahnhof Untermenzing (BA-Schreiben vom 20.12.05) - Straßenzustand und -führung im Bereich Scheurlinstr., Hartlebenstr., Haidelweg (BA-Schreiben vom 16.11.05) - Weinschenkstraße; Erstmalige Herstellung zwischen Professor-Eichmann-Straße und Bauseweinallee
+- TOP 14.3.: Kreisverwaltungsreferat - Versammlung unter freiem Himmel am 21.01.06 von 10-18 Uhr, Bahnhofsplatz 3 / Ecke Gleichmannstraße - Verlängerung des absoluten Haltverbots an der Bushaltestelle Peter-Anders-Straße (in der Paul-Gerhardt-Allee); Verkehrsrechtliche Anordnung
+- TOP 14.4.: Referat für Stadtplanung und Bauordnung - Paul-Gerhardt-Allee 34; Neubau eines Lebensmitteleinzelhandelsmarktes, hier: Beteiligung des Kreisverwaltungsreferates-Straßenverkehr
+- TOP 14.5.: Sozialreferat - Weltkindertag am 20.09.2006 im 21. Stadtbezirk Pasing-Obermenzing
+- TOP 14.6.: Stadtkämmerei - Finanzplan 2005 - 2009
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: Stadtsparkasse München - Gedenkmedaillen "100 Jahre Stadterhebung Pasing"
+- TOP 14.2.: Verein der Bürgerinitiative S-Bahn-Tunnel Haidhausen - 2. S-Bahnstammstrecke
+- TOP 15.: Verschiedenes
+- TOP 15.1.: Nächste BA-Sitzungen am 07.03.06 um 19.00 Uhr im Alten- und Service-Zentrum Obermenzing, Packenreiterstr. 48 und am 04.04.06 im Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Str. 486
