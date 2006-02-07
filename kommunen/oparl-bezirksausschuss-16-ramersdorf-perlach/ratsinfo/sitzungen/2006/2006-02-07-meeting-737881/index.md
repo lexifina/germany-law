@@ -1,0 +1,109 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2006-02-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/737881
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/737881
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2: Protokoll/e
+- TOP 1.1.3: Sonstiges / anwesende Behördenvertreter
+- TOP 2.: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+- TOP 2.1.: 2.6.1 Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse 2.6.1.1 AntragstellerIn: Kath. Pfarramt St. Philipp Neri; für die Maßnahme: Skiwochenende vom 10. - 12.03.2006; Antragssumme: 400.- ?; Beschlussvorlage des Direktoriums vom 20.12.2005 (vertagt aus der Sitzung am 11.01.2006) 2.6.1.2 Antragstellerin: Caritas-Stadtteilzentrum Neuperlach-Süd; für die Maßnahme: Spielaktion in den Sommerferien vom 31.07. - 18.08.2006; Antragssumme: 3.348.- ?; Beschlussvorlage des Direktoriums vom 30.12.2005 - <div>Zustimmung zu beiden Anträgen</div>
+- TOP 3.: Anträge
+- TOP 3.1.: Entfernen des Grünen Pfeils an der Kreuzung Putzbrunner-/Heinrich-Lübke-Strasse; Bürgerschreiben vom 30.11.2005 (vertagt aus der Sitzung am 11.01.2006) - <div>gem. der Empfehlung des UA Verkehr</div>
+- TOP 3.2.: Fahrplanänderung beim MVV; Änderungen bei der Linie 145; Bürgerschreiben vom 02.12.2005 (vertagt aus der Sitzung am 11.01.2006) - <div>WL an MVG</div>
+- TOP 3.3.: Zukünftige Linienführung der Buslinie 192; Schreiben der Wilhelm-Röntgen-Realschule vom 07.12.2005 und des Elternbeirats vom 19.11.2005 (vertagt aus der Sitzung am 11.01.2006) - <div>WL an MVG und BA 15</div>
+- TOP 3.4.: Ersatzlose Einstellung der MVV-Buslinie Nr. 192, insbesondere Strecke Haltestelle Krankenhaus Neuperlach bis Neuperlach-Süd (vertagt aus der Sitzung am 11.01.2006) - <div>WL an MVG und BA 15</div>
+- TOP 3.5.: Geänderter Fahrweg der Linie 192 - Abhängen der Bereiche um den östlichen Karl-Marx-Ring und Tirbulaunstraße von Neuperlach Süd; Bürgerschreiben vom 10.01.2006 - <div>WL an MVG und BA 15</div>
+- TOP 3.6.: Neue Bushaltestelle von Bus 145 "Görzer Straße" in der Balanstraße; Bürgerschreiben vom 20.01.2006 - <div>in den UA Verkehr verwiesen</div>
+- TOP 3.7.: 2. S-Bahnstammstrecke in München; Schreiben des Vereins der Bürgerinitiative S-Bahn-Tunnel Haidhausen vom 20.01.2006 - <div>ohne Entscheidung</div>
+- TOP 3.8.: Angemessene Schnee- und Eisbekämpfung im 16. Stadtbezirk; Antrag der CSU-Fraktion vom 02.02.2006 - <div>abgelehnt</div>
+- TOP 3.1.: Durchgang für Fußgänger während der Zeiten des Wochenmarkts am Hanns-Seidel-Platz; Bürgerschreiben vom 21.01.2006 - <div>WL an Kommunalreferat</div>
+- TOP 3.1.: Verwendung der ?Sechseck-Mittel? im Stadtbezirk 16; Antrag der SPD-Fraktion vom 06.02.2006 - <div>nach Antrag</div>
+- TOP 3.1.: Tätigkeit des BA im Rahmen der Baumschutzverordnung; Bürgerschreiben vom 10.01.2006 - <div>Zur Kenntnis in den UA Bau und Stadtteilentwicklung verwiesen</div>
+- TOP 3.3.6: Sonstige Anträge
+- TOP 4.: Berichte
+- TOP 4.4.1: Unterausschuss Verkehr
+- TOP 4.1.: UA 16 - Verkehr - 24.01.2006
+- TOP 4.4.2: Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 4.1.: UA 16 - Kultur, Vereine, Veranstaltungen - 17.01.2006
+- TOP 4.4.3: Unterausschuss Schule, Jugend Soziales und Sport
+- TOP 4.1.: UA 16 - Schule, Jugend, Soziales und Sport - 16.01.2006
+- TOP 4.4.4: Unterausschuss Bau und Stadtteilentwicklung
+- TOP 4.1.: UA 16 - Bau und Stadtteilentwicklung - 25.01.2006
+- TOP 4.4.5: Unterausschuss Gesundheit, Umwelt und Grünplanung
+- TOP 4.1.: UA 16 - Gesundheit, Umwelt und Grünplanung - 17.01.2006
+- TOP 4.1.: Bebauungsplan mit Grünordnung Nr. 1609 ? Hanns-Seidel-Platz; Protokoll des Planungsgesprächs am 24.11.2005 im Bürgerhaus am Hanns-Seidel-Platz - <div>in den UA Bau/Stadtteilentwicklung und den AK Hanns-Seidel-Platz verwiesen</div>
+- TOP 4.4.7: Berichte der Beauftragten
+- TOP 4.4.7.1: Baumschutz
+- TOP 4.4.7.2: Kinder
+- TOP 4.4.7.3: Jugend
+- TOP 4.4.7.4: Senioren/-innen
+- TOP 4.4.7.5: Frauen
+- TOP 4.4.7.6: Unterkunftsanlagen und Wohnen
+- TOP 4.4.7.7: Integration
+- TOP 4.4.7.8: Behinderte
+- TOP 5.: Anhörungsfälle / Stellungnahmen
+- TOP 5.1.: Anhörung gem. § 3 der BA-Satzung; Verlängerung des Radwegs an der Hochäckerstraße; Zuleitung des Baureferats vom 12.01.2006 mit der Bitte um Stellungnahme - <div>in den UA Verkehr verwiesen</div>
+- TOP 5.2.: Ausbau des Agnes-Fink-Weges in Waldperlach; Grünstreifen anstelle von Stellplätzen; Zuleitung des Baureferats mit der Bitte um Stellungnahme - <div>gem. dem Vorschlag des UA Verkehr</div>
+- TOP 5.3.: Ausbau der Vulpiusstraße zwischen Sterntalerstraße und Im Gelfilde; Zuleitung des Baureferats vom 19.01.2006 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.4.: Verlängerung der Wilhelm-Hoegner-Straße; Antrag Nr. 02-08 / A 02516 von Herrn Stadtrat Altmann vom 29.06.2005; Beschlussentwurf für den Auschuss für Stadtplanung und Bauordnung; Zuleitung des Referats für Stadtplanung und Bauordnung vom 24.01.2006 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.1.: 20. Münchner Herbstlauf am 19.11.2006 im Ostpark; Zuleitung des Baureferats mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO; Bürgerverein Ramersdorf e. V. ? Flohmarkt in der Aribonenstraße; Zuleitung des Kreisverwaltungsreferats mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.3.: Gastspielantrag des Circus Roberto auf dem Flurstück 456/16/Carl-Wery-Straße; Zuleitung des Kommunalreferats mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.1.: Anhörung durch das Referat für Stadtplanung und Bauordnung ? Lokalbaukommission zu Bauvorhaben im Einzelfall auf Anforderung TOP 5.4.1.1 Anwesen in der Iblherstraße; Zuleitung vom 02.02.06 TOP 5.4.1.2 Anwesen am Dietzfelbingerplatz, Zuleitung vom 02.02.06 TOP 5.4.1.3 Anwesen in der Aschauerstraße; Zuleitung vom 02.02.06 TOP 5.1.4.4 Anwesen in der Bischof-Ketteler-Straße; Zuleitung vom 02.02.2006 - <div>in den UA Bau und Stadtteilentwicklung verwiesen</div>
+- TOP 5.1.: Mobilfunk; Suchkreismeldung München-Waldperlach; Zuleitung des Referats für Gesundheit und Umwelt vom 12.12.2005 (vertagt aus der Sitzung am 11.01.2006) - <div>zur Kenntnis genommen</div>
+- TOP 6.: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1.: Errichtung eines Fußgängerüberweges in der Schmidbauerstraße in Höhe des Kinderspielplatzes; Antrag Nr. 02-08 / B 00817 des BA 16 vom 06.12.2005; Antwortschreiben des Kreisverwaltungsreferats vom 12.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 6.2.: Verkehrssicherheit für Schulkinder an der Ottobrunner Straße zwischen Diakon-Kerolt-Weg und Innsbrucker Ring; Vormerkung vom 10.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 6.3.: Ampelschaltung Im Gefilde/Putzbrunner Straße; Schreiben des BA 16 vom 15.12.2005; Antwortschreiben des Kreisverwaltungsreferats vom 28.12.2005 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 6.4.: Sicherheit der Schulkinder an der Kreuzung Putzbrunner Straße/Carl-Wery-Straße; Bürgeranliegen aus der Sitzung des BA 16 am 06.12.2005; Antwortschreiben des Kreisverwaltungsreferats vom 13.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Lichtzeichenanlagenbauprogramm 2006; Sitzungsvorlage Nr. 02-08 / V 07544; Beschluss des Kreisverwaltungsausschusses vom 24.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.2.: Anordnung einer Haltestelle in der Balanstraße, der Görzer Straße und der Hochäckerstraße; Zuleitung des Kreisverwaltungsreferats vom 11.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.3.: Verkehrskonzept für den Münchner Osten; a) Zusammenfassung der Ergebnisse der Untersuchungen zum Verkehrskonzept für den Münchner Osten, b) Öffentlichkeitsphase zu den Untersuchungen zum Verkehrskonzept für den Münchner Osten; c) Entscheidungsvorschlag, d) Anträge und Empfehlungen; Sitzungsvorlagen Nr. 02-08 / V 07213; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.1.: 27. Bayernrundfahrt vom 24. bis 28. Mai 2006; Zuleitung des Kreisverwaltungsreferats vom 16.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.1.: Kommunales Wohnungsbauförderungsprogramm - KomPro B; Ausschreibung von Grundstücken; Zuleitung des Sozialreferats vom 05.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.2.: Perspektive München, Familienfreundlichkeitsprüfung - ein Beitrag zur familien- und kinderfreundlichen Stadtentwicklung, Leilinie Kinder- und Familienpolitik; Sitzungsvorlage Nr. 02-08 / V 07194; Beschluss der Vollversammlung des Stadtrats vom 14.12.2005 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.3.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien, sowie an den Schulen des zweiten Bildungsweges un den Shculen besonderer Art im Schuljahr 2005/2006; Sitzungsvorlage Nr. 02-08 / V 07292; Bekanntgabe im Schulausschuss des Stadtrats vom 11.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.4.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städt. Franz-Auweck-Abendschule; Schuljahr 2005/2006; Sitzungsvorlage Nr. 02-08 / V 07444; Bekanntgabe im Schulausschuss des Stadtrats vom 11.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.5.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen für das Schuljahr 2005/06; Sitzungsvorlage Nr. 02-08 / V 07452; Bekanntgabe im Schulausschuss des Stadtrats vom 11.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.6.: Schüler/innen und Klassenstand, Berufliche Schulen der Landeshauptstadt München im Schuljahr 2005/2006 (Stand 20.10.2005); Sitzungsvorlage Nr. 02-08 / V 07330; Bekanntgabe im Schulausschuss des Stadtrats am 11.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.7.: Bereinigtes Einschreibeergebnis für das Kindergartenjahr/Schuljahr 2005/2006; Sitzungsvorlage Nr. 02-08 / V 07443; Bekanntgabe im Schulausschuss des Stadtrats vom 11.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.1.: Baufälle im 16. Stadtbezirk - <div>Zur Kenntnis genommen</div>
+- TOP 7.2.: Aktualisierung des Flächennutzungsplanes und Aufstellung des Landschaftsplanes Teilbereich VI - Südost; a) Grünwalder Straße (nördlich), Kurzstraße (westlich), b) Tegernseer Landstraße (östlich), Naupliastraße (nördlich), c) Rosenheimer Straße (westlich), St.-Martin-Straße (nördlich), d) Stadelheimer Straße (südlich), Amerstorffer Straße (östlich); Billigungsbeschluss (2. Billigung) und vorbehaltlich endgültiger Beschluss; Sitzungsvorlagen Nr. 02-08 / V07433; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.3.: Auswirkungen der Verfahrensbeschleunigung für Bundesvorrangprojekte; Sitzungsvorlage Nr. 02-08 / V 07511; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.4.: Beschlussvollzugskontrolle (BVK); 2. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 31.12.2005; Sitzungsvorlage Nr. 02-08 / V 07472; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen</div>
+- TOP 7.5.: Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse und der einschlägigen Verbände; Sitzungsvorlage Nr. 02-08 / V 07153; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen </div>
+- TOP 7.6.: "Wohnen in München III" - München Modell; Grundsatzbehandlung der Modalitäten für das München Modell; a) Überblick über die bisherige Entwicklung der Modalitäten, b) Vermietungszahlen im München Modell - Miete seit Mai 2005, c) Fortführung des München Modells auf der Basis der geltenden Modalitäten, d) Bilanz " 10 Jahre München Modell"; Sitzungsvorlage Nr. 02-08 / V 07510; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.12.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen </div>
+- TOP 7.7.: Unveränderte Fortführung von Gaststätten, Unterrichtungen durch das Kreisverwaltungsreferat 7.4.7.1 SSW "Feuer und Flamme"; Werinherstraße; Mitteilung vom 24.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen </div>
+- TOP 7.1.: Finanzplan 2005-2009; Zuleitung der Stadtkämmerei vom 16.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen </div>
+- TOP 7.2.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse 7.6.2.1 AntragstellerIn: Festausschuss Neuperlach, für die Maßnahme: Kindernachmittag, Bewirtung von Senioren- und Behinderten während des Nachmittags auf dem Perlacher Frühlingsfest; Antragssumme: 5.000.- ?; Antrag vom 04.01.2006 - <div>Zur Kenntnis genommen bzw. in den UA verwiesen </div>
+- TOP 7.3.: Information des Bezirksausschusses über eingegangene Verwendungsnach-weise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen - <div>Zur Kenntnis genommen bzw. in den UA verwiesen </div>
+- TOP 8: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 8.8.1: Termine der UA - Sitzungen
+- TOP 8.8.1.1: Verkehr
+- TOP 8.8.1.2: Kultur, Vereine und Veranstaltungen
+- TOP 8.8.1.3: Schule, Jugend, Soziales und Sport
+- TOP 8.8.1.4: Bau- und Stadtteilentwicklung
+- TOP 8.8.1.5: Gesundheit, Umwelt und Grünplanung
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Sonstiges / Verschiedenes
+- TOP 8.1.: Bericht des Vorsitzenden über die Verwendung / Abrechnung der Verwaltungskostenpauschale nach § 17 BA-Satzung - <div>Zur Kenntnis genommen</div>
+- TOP 9: Nichtöffentlicher Teil
+- TOP 7.7.1: Bereich Unterausschuss Verkehr
+- TOP 7.7.2: Bereich Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 7.7.3: Bereich Unterausschuss Schule, Jugend, Soziales und Sport
+- TOP 7.7.4: Bereich Unterausschuss Bau und Stadtteilentwicklung
+- TOP 7.7.5: Bereich Unterausschuss Gesundheit, Umwelt und Grünplanung
+- TOP 7.7.6: Sonstige
+- TOP 8.8.1.6: Arbeitskreis Hanns-Seidel-Platz
