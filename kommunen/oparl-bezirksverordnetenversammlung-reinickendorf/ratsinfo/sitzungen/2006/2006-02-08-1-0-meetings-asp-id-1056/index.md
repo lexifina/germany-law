@@ -1,0 +1,69 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2006-02-08T17:10:00+01:00
+- Ende: 2006-02-08T20:42:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1056
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1056
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=30728
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 3: Dringlichkeitsanträge - (offen)
+- TOP 3.1: Berufung eines beratenden Mitgliedes und einer Stellvertreterin in den Jugendhilfeausschuss - gewählt
+- TOP 3.2: Berufung eines beratenden Mitgliedes und einer Stellvertreterin in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Keine Zentralisierung der Bibliotheken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Verbesserung der Öffentlichkeitsarbeit der Bibliotheken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Einrichtung einer Haltelinie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Reinickendorfer Umwelttag - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Schulbaumaßnahmen (IZBB) in Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.6: Kinderspielplatz an der Greenwichpromenade umzäunen - überwiesen
+- TOP 5.7: Keinen Vorschub für die Flucht von Strafgefangenen leisten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Aussichtsplatz am Vogelschutzreservat Flughafensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Weiterführung des Bebauungsplanes XX-183b für die Grundstücke Provinzstraße 118 - 124, Gesellschaftstraße 23 - 25 sowie eine Teilfläche der Provinzstraße im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-263 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-264 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-278 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Gesetzliche Ruhefristen auf Friedhöfen / Verwesung auf der Fläche des Friedhofes Am Fließtal, Waidmannsluster Damm 13 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-259 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Erfahrungsbericht der Patientenfürsprecherin des Dominikus-Krankenhauses für das Jahr 2005 - überwiesen
+- TOP 5.16: Erlass der Verordnung über die Veränderungssperre XX-190/43 für die Grundstücke Gabrielenstraße 37 A, 37 B und 65 B - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Präventiver Kinderschutz - beantwortet
+- TOP 6.2: Ganztagsbetrieb auch an Gymnasien - überwiesen
+- TOP 6.3: Schulsprache Deutsch - beantwortet
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Entwurf des Bebauungsplanes XX-183a sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-183a - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Bebauungsplanentwurf XX-100 sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-100 - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Entwurf des Bebauungsplanes XX-197 sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-197 - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Gezielte Schwerpunktsetzung Schule - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Umsetzung der Sparvorgaben bei HzE - mit Änderungen in der BVV beschlossen
+- TOP 8.3: Sprach-Förderunterricht am Samstag in den Schulen erteilen - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Fürsorge für Kinder im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Fürsorge für Kinder im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: "Grün-Stiftung" für Reinickendorf schaffen - überwiesen
+- TOP 9.2: Hallenbelegung Sportstätten im Bezirk - überwiesen
+- TOP 9.3: Regenerative Energie für Reinickendorf - überwiesen
+- TOP 9.4: Kostenlose Schulspeisung für bedürftige Kinder - überwiesen
+- TOP 9.5: Fechtanlage Stötzner-Schule - überwiesen
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: Hauswarte im Märkischen Viertel - überwiesen
+- TOP 10.2: Optimierung der Schnellbuslinie X 33 - überwiesen
+- TOP 10.3: Job Center - Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Wohnungsvermietung wieder in die Hände der GESOBAU! - überwiesen
+- TOP 10.5: Haltestelle Humboldt-Krankenhaus - überwiesen
+- TOP 10.6: Radfahrwege im Winter - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Schulbegleitung für Schulschwänzer - überwiesen
+- TOP 10.8: Takt der Buslinie A 124 verkürzen - überwiesen
+- TOP 10.9: Videoüberwachung für die U-Bahnlinie 8 - überwiesen
+- TOP 10.10: Zwei Klassen bei der Berufsberatung - ohne Änderungen in der BVV beschlossen
