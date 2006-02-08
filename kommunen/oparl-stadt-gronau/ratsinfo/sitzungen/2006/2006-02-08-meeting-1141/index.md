@@ -1,0 +1,54 @@
+# Rat (15. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2006-02-08T17:00:00+01:00
+- Ende: 2006-02-08T21:00:00+01:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZa7fJyMB9adYDGfEMmQjnrA
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1141
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeZc-Kbp-vN8VnvarHy2c6f6E2dfbtaV5mJplJHRkN2k/Bekanntmachung_Rat_08.02.2006.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWkTn1If1JVUhDgYgtd3tpj2FomQhTooc-uoJ0EHGWwU/Oeffentliche_Niederschrift_Rat_08.02.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 14.12.2005
+- TOP 3.: Einführung des Neuen kommunalen Finanzmanagements (NKF) - Bildung einer Arbeitsgruppe und Sachstandsbericht - Einstimmig, 0 Enthaltungen
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Abschaffung der Baumschutzsatzung im Stadtgebiet Gronau (Antrag der CDU-Fraktion vom 19.12.2005) - 25 Jastimmen, 14 Neinstimmen, 0 Enthaltungen
+- TOP 4.2: Anträge der Fraktionen; Schreiben der SPD-Fraktion vom 02.01.06 zur Erhöhung des Gaspreises durch die Stadtwerke Gronau GmbH - 30 Jastimmen, 5 Neinstimmen, 4 Enthaltungen
+- TOP 5.: Geschäftsführer rocknpopmuseum GmbH und Kultur-Büro Gronau GmbH - Einstimmig, 0 Enthaltungen
+- TOP 5.1: Geschäftsführer rocknpopmuseum GmbH und Kultur-Büro Gronau GmbH - Einstimmig, 0 Enthaltungen
+- TOP 6.: Jahresabschluss der Gronauer Grundstücksentwicklungsgesellschaft für das Jahr 2004 - Einstimmig, 1 Enthaltungen
+- TOP 7.: Wirtschaftsplan 2006 der Kulturbüro Gronau GmbH - 28 Jastimmen, 7 Neinstimmen, 4 Enthaltungen
+- TOP 8.: 84. Änderung des Flächennutzungsplanes der Stadt Gronau Bereich: „Dreispitz“, Stadtteil Gronau Bebauungsplan Nr. 149 „Dreispitz“, Stadtteil Gronau 1. Aufhebung des Aufstellungsbeschlusses vom 08.06.2005, TOP 17 2. Neufassung des Aufstellungsbeschlusses gem. § 2 BauGB 3. Verzicht auf eine erneute Beteiligung der Öffentlichkeit gem. § 3 BauGB 4. Anordnung der Umlegung gem. § 46 BauGB - Einstimmig, 1 Enthaltungen
+- TOP 9.: 85. Änderung des Flächennutzungsplanes der Stadt Gronau Bebauungsplan Nr. 125 "Freiheitssiedlung-Fortsetzung", Stadtteil Gronau 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden 4. Anordnung der Umlegung - Der Punkt wurde von der Tagesordnung abgesetzt.
+- TOP 10.: Bebauungsplan Nr. 146 "Nördlich der Elisabethstraße", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der 1. öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der 2. öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 5. Satzungsbeschluss - Der Punkt wurde von der Tagesordnung abgesetzt.
+- TOP 11.: Bebauungsplan Nr. 241 "Eulenborgweg", Stadtteil Epe 1. Aufhebung des Aufstellungsbeschlusses für einen Teilbereich 2. Billigung der Plankonzeption für den reduzierten Geltungsbereich 2. Auslegungsbeschluss für den reduzierten Geltungsbereich 3. Benachrichtigung der Träger öffentlicher Belange - Einstimmig, 0 Enthaltungen
+- TOP 12.: Neuorganisation der Kommunalen ADV-Anwendergemeinschaft West GbR (KAAW) - Einstimmig, 0 Enthaltungen
+- TOP 13.: Vorstellung des Planungsstandes und des Vermarktungskonzeptes zum neuen StadtBusverkehr Gronau durch die RVM - 37 Jastimmen, 0 Neinstimmen, 2 Enthaltungen
+- TOP 14.: 4. Änderungssatzung vom ..... zur Satzung über die Erhebung von Gebühren für den Unterhaltungsaufwand an den fließenden Gewässern zweiter Ordnung vom 13.11.1990 - Einstimmig, 1 Enthaltungen
+- TOP 15.: Einrichtung einer Stelle für einen/eine Diplom-Betriebswirt/-in - Der Punkt wurde von der Tagesordnung abgesetzt.
+- TOP 16.: Mitteilungen der Verwaltung
+- TOP 16.1: Besetzung des Karnvalwagens am 26.02.2006
+- TOP 16.2: Verlegung der Sitzung des Rates vom 22.03. auf den 15.03.2006
+- TOP 17.: Anfragen
+- TOP 17.1: Funktion des Ältestenrates (RM Walkowiak)
+- TOP 17.2: Anforderungsprofil des Geschäftsführers der rocknpopmuseum GmbH (RM Terhaar)
+- TOP 17.3: Kostenentwicklung bei der Erweiterung des Werner-von-Siemens-Gymnasiums (RM Terhaar)
+- TOP 17.4: Suche nach alternativem Standort für die Pflegeschule der St. Antonius Hospital GmbH (RM Terhaar)
+- TOP 17.5: Einwohnerfragestunde in der Sitzung des Rates im Mai (RM Große Dütting Grosche)
+- TOP 17.6: Beleuchtung an der Radstation (RM Buchholz)
+- TOP 17.7: Sachstand Kommunales Notfall-Telefon (RM Buchholz)
+- TOP 17.8: Parkende Lkw an der Laubstiege und Enscheder Straße (RM von Borczyskowski)
+- TOP 17.9: Urantransporte (RM Buchholz)
+- TOP 17.10: Radweg Gronauer Straße (RM Pieper)
+- TOP 17.11: Reparatur der Wartehäuschen an den Bus-Haltestellen (RM Pieper)
+- TOP 17.12: Reparatur der Beleuchtung am Stadtplan an der Enscheder Straße (RM Krause)
+- TOP 17.13: Verständnis der Umsatz- und Verbrauchsübersicht der Stadt Gronau (RM Bartels)
+- TOP 17.14: Städtische Bescheinigungen über die Aufwandsentschädigung (RM Nordholt)
+- TOP 17.15: Ampelschaltung Kreuzungsbereich Gildehauser Str./ Vereinsstr. (RM Buchholz)
