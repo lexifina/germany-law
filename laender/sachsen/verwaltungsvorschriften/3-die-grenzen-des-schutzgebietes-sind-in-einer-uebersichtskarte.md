@@ -1,8 +1,8 @@
 # (3) Die Grenzen des Schutzgebietes sind in einer Übersichtskarte
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2002-12-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/15231.1
+- Datum: 2006-02-10 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/5021.1
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -12,71 +12,65 @@
 
 Festsetzung als Schutzgebiet
 
-Die in § 2 näher bezeichneten Flächen auf dem Gebiet der Stadt Meißen und der Gemeinde Diera-Zehren im Landkreis Meißen werden als Naturschutzgebiet festgesetzt. Das Naturschutzgebiet führt die Bezeichnung „Elbtalhänge zwischen Rottewitz und Zadel“.
+Die in § 2 näher bezeichneten Flächen auf dem Gebiet der Gemeinde Priestewitz im Landkreis Riesa-Großenhain und den Gemeinden Diera-Zehren und Niederau im Landkreis Meißen werden als Naturschutzgebiet festgesetzt. Das Naturschutzgebiet führt die Bezeichnung „Winzerwiese und Gosebruch“.
 
 § 2
 
 Schutzgegenstand
 
-(1) Das Naturschutzgebiet hat eine Größe von etwa 31,1 ha.
+(1) Das Naturschutzgebiet hat eine Größe von etwa 11,6 ha.
 
-(2) Das sich am Elbtalhang zwischen Rottewitz und Zadel erstreckende Naturschutzgebiet besteht aus zwei Teilbereichen westlich und östlich der Gemeindestraße vom Ortsteil Karpfenschänke nach Diera. Bestandteile des Naturschutzgebietes sind aufgelassene Steinbrüche, bewaldete Steilhänge, Streuobstwiesen sowie Trockenrasen im Außenbereich zwischen der Straße im Elbtal im Süden und den Rebflächen auf dem Plateau im Norden. Bewirtschaftete Weinberge befinden sich nicht im Naturschutzgebiet.
+(2) Das Gebiet liegt im Hügelland der südlichen Großenhainer Pflege am Südostrand des Höhenzuges Golk. Es befindet sich etwa 1 km nördlich von Naundörfel zwischen Naundörfel und Kmehlen. Es umfasst einen Talausschnitt des Gosebaches mit der historischen Winzerwiese und umgebenden Pfeifengraswiesen, Wald- sowie Grünlandbereichen.
 
-(3) Die Grenzen des Schutzgebietes sind in einer Übersichtskarte vom 25. Oktober 2002 im Maßstab 1 : 10 000 und in fünf Flurkarten vom 25. Oktober 2002 im Maßstab  1 : 2 000 eingetragen. Maßgebend für den Grenzverlauf ist die Linienaußenkante der Grenzeintragungen in den Flurkarten. Die Karten sind Bestandteil der Verordnung. Die Verordnung wird zusammen mit der Übersichtskarte im Sächsischen Amtsblatt verkündet. Die Verordnung mit Karten ist beim Regierungspräsidium Dresden, in 01099 Dresden, Stauffenbergallee 2, im Raum 3089, auf die Dauer von zwei Wochen nach der Verkündung im Sächsischen Amtsblatt zur kostenlosen Einsicht durch jedermann während der Sprechzeiten öffentlich ausgelegt.
+(3) Die Grenzen des Schutzgebietes sind in einer Übersichtskarte vom 6. Januar 2006 im Maßstab 1 : 10 000 und in vier Flurkarten vom 6. Januar 2006 im Maßstab 1 : 2 000 eingetragen. Maßgebend für den Grenzverlauf ist die Linienaußenkante der Grenzeintragungen in den Flurkarten. Die Karten sind Bestandteil der Verordnung. Die Verordnung wird ohne Karten im Sächsischen Amtsblatt verkündet. Die Verordnung mit Karten wird beim Regierungspräsidium Dresden, in 01099 Dresden, Stauffenbergallee 2, im Raum 3089 auf die Dauer von zwei Wochen nach der Verkündung im Sächsischen Amtsblatt zur kostenlosen Einsicht durch jedermann während der Sprechzeiten öffentlich ausgelegt.
 
-(4) Die Verordnung mit Karten wird nach Ablauf der Auslegungsfrist beim Regierungspräsidium Dresden zur kostenlosen Einsicht durch jedermann während der Sprechzeiten niedergelegt.
+(4) Die Verordnung mit Karten ist nach Ablauf der Auslegungsfrist beim Regierungspräsidium Dresden zur kostenlosen Einsicht durch jedermann während der Sprechzeiten niedergelegt.
 
 § 3
 
 Schutzzweck
 
-(1) Schutzzweck ist die nachhaltige Bewahrung, pflegliche Nutzung und naturschutzgerechte Entwicklung zweier Steilhänge des Meißener Durchbruchtales der Elbe zwischen Rottewitz und Zadel. Sie prägen das Bild einer historisch gewachsenen, naturnahen Kulturlandschaft und dienen mit ihrem besonderen Lokalklima als Lebensstätte für zahlreiche seltene und gefährdete Pflanzengesellschaften und Tierarten. Das Gebiet ist Bestandteil eines zusammenhängenden europäischen ökologischen Netzes besonderer Schutzgebiete im Sinne der Richtlinie 92/43/EWG des Rates zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (Flora-Fauna-Habitat-Richtlinie) vom 21. Mai 1992 (ABl. EG Nr. L 206, S. 7), zuletzt geändert durch die Richtlinie 97/62/EG vom 27. Oktober 1997 (ABl. EG Nr. L 305, S. 42), in der jeweils geltenden Fassung.
+(1) Schutzzweck ist die Bewahrung, pflegliche Nutzung und naturschutzgerechte Entwicklung eines Abschnittes des Gosebachtales zwischen Kmehlen und Naundörfel. Das kleinteilig strukturierte Gebiet liegt im Hügelland der südlichen Großenhainer Pflege am Südostrand des Höhenzuges Golk. Es umfasst Nass- und Feuchtwiesen sowie Bruch-, Auen- und Trockenwaldbereiche entlang des naturnahen Bachlaufes und soll eine typische und seltene Flora, Vegetation und Fauna nasser, wechselfeuchter, trockener und nährstoffarmer Standorte der Agrarlandschaft nachhaltig sichern.
 
-(2) Schutzzweck ist insbesondere
+(2) Das Gebiet ist Bestandteil eines zusammenhängenden europäischen ökologischen Netzes besonderer Schutzgebiete im Sinne der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 (ABl. EG Nr. L 206 vom 22. Juli 1992), zuletzt geändert durch die Verordnung (EG) Nr. 1882/2003 des Europäischen Parlaments und des Rates vom 29. September 2003 (ABl. EU Nr. L 284 S. 1), in der jeweils geltenden Fassung.
+
+(3) Schutzzweck ist insbesondere
 
 1.
 
-die Erhaltung und Entwicklung des Gesamtgebietes und seiner Teile in ihrem räumlichen und funktionellen Zusammenhang unter Vermeidung direkter Stoffeinträge sowie innerer und äußerer Störungseinflüsse;
+die Erhaltung und Entwicklung des Gesamtgebietes und seiner Teile in ihrem räumlichen und funktionellen Zusammenhang unter Vermeidung hydrologischer Eingriffe, direkter Stoffeinträge sowie innerer und äußerer Störeinflüsse;
 
 2.
 
-die Sicherung und Verbesserung der Kohärenzbedingungen zu angrenzenden und benachbarten Lebensräumen und Lebensstätten, die nach der Flora-Fauna-Habitat-Richtlinie von gemeinschaftlicher Bedeutung sind;
+die Verbesserung der Kohärenzbedingungen zu angrenzenden und benachbarten Lebensräumen, die nach Fauna-Flora-Habitatrichtlinie von gemeinschaftlicher Bedeutung sind;
 
 3.
 
-die Ruhigstellung der aufgelassenen Steinbrüche einschließlich der Oberhänge und Bruchsohlen als Lebensstätten für störungsempfindliche, Fels bewohnende Tierarten mit teilweise hohen Schutzansprüchen;
+die Sicherung des Wasserdargebotes und die Erhaltung des Gosebaches und seiner Zuflüsse in ihrer natürlichen Gewässerdynamik und natürlichen Gewässergüte als gebietsprägendes hydrologisches Potential;
 
 4.
 
-die Erhaltung der Gesteinshalden, Felsköpfe, Lößwände und Trockenmauern als Lebensstätten für seltene wärmebedürftige Tierarten;
+die Revitalisierung der naturfern veränderten Gewässerabschnitte;
 
 5.
 
-die Gewährleistung der weiteren Vegetationsentwicklung von besonders trockenwarmen seltenen Sonderstandorten auf Gestein und Löß in aufgelassenen Steinbrüchen und an natürlichen Felshängen;
+die Erhaltung des kleinteiligen und artenreichen Vegetationsmosaiks der Winzerwiese auf nassen, wechselfeuchten und vermoorten Grünlandstandorten durch gesellschafts- und artenangepasste Pflege;
 
 6.
 
-die Erhaltung der blütenreichen Pflanzengesellschaften des mageren Grünlandes und der Trockenrasen auf der Lößterrasse oberhalb der Steilhänge in ihrer kleinräumigen standörtlichen Verschiedenheit durch spezifische Pflege;
+die Erhaltung der Winzerwiese als seltene Lebensstätte für pflanzengeografisch und florengeschichtlich bedeutsame Elemente, wie Weißes Fingerkraut, Nordisches Labkraut, Sibirische Schwertlilie, Große Sterndolde und Akeleiblättrige Wiesenraute;
 
 7.
 
-die Erhaltung und Entwicklung der trockenwarmen Gebüsche und Wälder als Lebensstätten, vernetzende und Einfluss dämpfende Strukturen durch Pflege, pflegliche Nutzung und Sukzession;
+die angepasste pflegliche Nutzung der einbezogenen Naundörfeler Bruchwiesen mit Entwicklung und Pflege eines Gewässerrandstreifens am Gosebach;
 
 8.
 
-die Bewahrung und Entwicklung eines dauerhaft günstigen Erhaltungszustandes der gebietseigenen Lebensraum-Typen gemäß Anhang I der Flora-Fauna-Habitat-Richtlinie, insbesondere der Trespen-Schwingel-Kalk-Trockenrasen, mageren Flachland-Mähwiesen, Silikatfelsen mit Felsspalten- und Pioniervegetation und Labkraut-Eichen-Hainbuchenwäldern sowie ihrer Arten;
+die Bewahrung und zielgerichtete Entwicklung eines günstigen Erhaltungszustandes der gebietseigenen Lebensraumtypen gemäß Anhang I der Fauna-Flora-Habitatrichtlinie, insbesondere der Fließgewässer mit Unterwasservegetation, Pfeifengraswiesen, Übergangs- und Schwingrasenmoore sowie Erlen-Eschen- und Weichholzauenwälder;
 
 9.
 
-die Bewahrung und Entwicklung eines dauerhaft günstigen Erhaltungszustandes der gebietseigenen Populationen aller Tier- und Pflanzenarten gemäß der Anhänge II und IV der Flora-Fauna-Habitat-Richtlinie, insbesondere von Fledermäusen, Schlingnatter, Zauneidechse und der Schmetterlingsart Spanische Flagge;
-
-10.
-
-die Erhaltung, Förderung und Pflege der gebietstypischen seltenen Wildbirne sowie des baumhöhlenreichen Streuobstes;
-
-11.
-
-die Erhaltung des charakteristischen Bildes einer landesbedeutsamen Kulturlandschaft von hervorragender Schönheit, Eigenart und Vielfalt.
+die Bewahrung und zielgerichtete Entwicklung eines günstigen Erhaltungszustandes der gebietseigenen Populationen aller Tier- und Pflanzenarten gemäß der Anhänge II und IV der Fauna-Flora-Habitat-Richtlinie, insbesondere von Fischotter, den Fledermausarten, Springfrosch und Zauneidechse.
 
 § 4
 
@@ -88,11 +82,11 @@ Verbote
 
 1.
 
-bauliche Anlagen im Sinne der Sächsischen Bauordnung (SächsBO) vom 18.  März 1999 (SächsGVBl. S. 85, 86), zuletzt geändert durch Artikel 3 des Gesetzes vom 14. Dezember 2001 (SächsGVBl. S. 716, 724), zu errichten, zu ändern, abzubrechen oder der Errichtung gleichgestellte Maßnahmen durchzuführen;
+bauliche Anlagen im Sinne der Sächsischen Bauordnung (SächsBO) in der Fassung vom 28. Mai 2004 (SächsGVBl. S. 200), in der jeweils geltenden Fassung, zu errichten, zu ändern, abzubrechen oder der Errichtung gleichgestellte Maßnahmen durchzuführen;
 
 2.
 
-Straßen, Wege, Plätze oder sonstige Verkehrsanlagen anzulegen, Leitungen ober- oder unterirdisch zu verlegen oder Anlagen dieser Art zu verändern;
+Straßen, Wege, Plätze oder sonstige Verkehrsanlagen anzulegen oder auszubauen, Leitungen ober- oder unterirdisch zu verlegen oder Anlagen dieser Art zu verändern;
 
 3.
 
@@ -128,31 +122,31 @@ die bisherige Grundstücksnutzung in einer Art zu ändern, welche dem Schutzzwec
 
 11.
 
-Felsen zu beklettern oder Sportveranstaltungen durchzuführen;
+zu zelten, zu lagern, Wohnwagen, sonstige Fahrzeuge oder Verkaufsstände aufzustellen oder motorgetriebene Schlitten zu benutzen;
 
 12.
 
-zu zelten, zu lagern, Wohnwagen, sonstige Fahrzeuge oder Verkaufsstände aufzustellen oder motorgetriebene Schlitten zu benutzen;
+Flächen außerhalb der Straßen und Wege zu betreten, auf diesen zu reiten oder diese mit motorgetriebenen oder bespannten Fahrzeugen zu befahren;
 
 13.
 
-Flächen außerhalb der Straßen und Wege zu betreten, auf diesen zu reiten oder mit motorgetriebenen oder bespannten Fahrzeugen zu befahren;
+Feuer anzumachen oder zu unterhalten;
 
 14.
 
-Feuer anzumachen oder zu unterhalten;
+Lärm zu verursachen, der geeignet ist, Tiere zu beunruhigen und den Naturgenuss zu beeinträchtigen;
 
 15.
 
-Lärm zu verursachen, der geeignet ist, Tiere zu beunruhigen und den Naturgenuss zu beeinträchtigen;
+Hunde unangeleint laufen zu lassen;
 
 16.
 
-Hunde unangeleint laufen zu lassen oder
+mit Luftfahrzeugen zu starten oder zu landen oder
 
 17.
 
-mit Luftfahrzeugen zu starten oder zu landen.
+von der Naturschutzbehörde errichtete Schutz- oder Hinweiseinrichtungen oder Markierungen zu verrücken, zu entfernen oder zu beschädigen.
 
 § 5
 
@@ -162,41 +156,38 @@ Zulässige Handlungen
 
 1.
 
-für die dem Schutzzweck untergeordnete Ausübung der Jagd mit den Maßgaben, dass
-
-a)
-
-die Jagd auf Schalen- und Raubwild als Einzeljagd erfolgt;
-
-b)
-
-die Bejagung des Schalen- und Raubwildes durch Drückjagd vom 1. Oktober bis zum 31. Dezember eines jeden Jahres zulässig ist, außerhalb dieses Zeitraumes der Genehmigung durch die Naturschutzbehörde bedarf;
-
-c)
-
-die Jagd auf Federwild verboten ist;
-
-d)
-
-gemäß § 37 Abs. 3
-SächsLJagdG die Anlage von Jagdeinrichtungen der Genehmigung durch die Naturschutzbehörde bedarf;
-
-e)
-
-gemäß § 30 Abs. 2 Nr. 7
-SächsLJagdG die Jagd mit Schlageisen verboten ist;
+für die dem Schutzzweck untergeordnete Ausübung der Jagd als Ansitzjagd mit der Maßgabe, dass die Anlage von Jagdeinrichtungen der Naturschutzbehörde mindestens vier Wochen vorher anzuzeigen ist;
 
 2.
 
-für die dem Schutzzweck entsprechende umweltgerechte landwirtschaftliche Nutzung und Waldbewirtschaftung in der bisherigen Art und im bisherigen Umfang mit den Maßgaben, dass
+für die dem Schutzzweck entsprechende umweltgerechte landwirtschaftliche Nutzung und Waldbewirtschaftung in der bisherigen Art und im bisherigen Umfang mit den Maßgaben, dass verboten ist,
 
 a)
 
-das Einbringen von Dung, Gülle, Jauche oder Mineraldünger oder
+die Winzerwiese sowie die südlichen Ufersäume des Gosebaches zu beweiden;
 
 b)
 
-die Lagerung oder Anwendung von Bioziden, Auftaumitteln oder anderer Chemikalien verboten ist; § 4 Abs. 2 Nr. 2 bleibt unberührt; auf § 30 Abs. 2 des Waldgesetzes für den Freistaat Sachsen (SächsWaldG) vom 10. April 1992 (SächsGVBl. S. 137), das zuletzt durch Artikel 19 des Gesetzes vom 6. Juni 2002 (SächsGVBl. S. 168, 172) geändert worden ist, wird verwiesen;
+Jauche, Gülle oder Mineraldünger einzubringen;
+
+c)
+
+Biozide zu verwenden;
+
+d)
+
+Kahlhiebe im Sinne von § 19 Waldgesetz für den Freistaat Sachsen (SächsWaldG) vom 10. April 1992 (SächsGVBl. S. 137), das zuletzt durch Artikel 2 des Gesetzes vom 22. April 2005 (SächsGVBl. S. 121, 122) geändert worden ist, in der jeweils geltenden Fassung, vorzunehmen;
+
+e)
+
+Weihnachtsbaum- oder Schmuckreisigkulturen anzulegen sowie
+
+f)
+
+Erstaufforstungen ohne Genehmigung der Naturschutzbehörde vorzunehmen;
+
+§ 4 Abs. 2 Nr. 2 bleibt unberührt; auf § 30 Abs. 2
+SächsWaldG wird verwiesen;
 
 3.
 
@@ -216,7 +207,11 @@ für die von der Naturschutzbehörde angeordneten oder genehmigten Wegemarkierun
 
 7.
 
-für Tätigkeiten im Rahmen von wissenschaftlichen Arbeiten einschließlich Dokumentationen und Sicherungsarbeiten sowie Maßnahmen zur Generhaltung, die von der Naturschutzbehörde veranlasst oder genehmigt werden.
+für von der Naturschutzbehörde genehmigte Veranstaltungen und
+
+8.
+
+für Tätigkeiten im Rahmen von Forschungsarbeiten einschließlich Dokumentationen und Sicherungsarbeiten, die von der Naturschutzbehörde veranlasst oder genehmigt werden.
 
 (2) Die in Absatz 1 festgelegten Verbote, Gebote und Maßgaben für die land- und forstwirtschaftliche Bodennutzung gelten nicht, solange und soweit sich der Nutzungsberechtigte durch schriftliche Vereinbarung mit der Naturschutzbehörde oder im Einvernehmen mit der Naturschutzbehörde zur Einhaltung der dort ausgesprochenen Vorgaben verpflichtet hat.
 
@@ -224,59 +219,7 @@ für Tätigkeiten im Rahmen von wissenschaftlichen Arbeiten einschließlich Doku
 
 Pflege- und Entwicklungsgrundsätze
 
-(1) Die Grundsätze der Pflege und Entwicklung des Naturschutzgebietes folgen den Leitbildern,
-
-1.
-
-die Standorte nach den Prioritäten der Einzelschutzzwecke nachhaltig zu sichern und
-
-2.
-
-die Vegetationsstruktur der Wiesen, Halbtrockenrasen, Säume, Gebüsche und Wälder in einem räumlichen und zeitlichen Wechsel von pfleglicher Nutzung, Pflege und zeitweiliger oder vollständiger Auflassung in ihrer gebietstypischen Vielfalt und kleinteiligen Vernetzung zu erhalten.
-
-(2) Wesentliche Grundsätze der Pflege und Entwicklung sind
-
-1.
-
-die Verbesserung der Kohärenzbedingungen zu angrenzenden und benachbarten Lebensräumen und Lebensstätten, die nach der Flora-Fauna-Habitat-Richtlinie von gemeinschaftlicher Bedeutung sind, insbesondere durch Grünland- und Waldpflege;
-
-2.
-
-die Offenhaltung des weitgehend gehölzfrei zu haltenden blütenreichen Grünlandes auf dem Lößplateau durch regelmäßige extensive Beweidung mit Schafen und Ziegen sowie ergänzende Mahd mit Beräumung des Mähgutes;
-
-3.
-
-die regelmäßige auflockernde Entbuschung der Plateau-, Hang- und Sohlenbereiche mit Entnahmeschwerpunkten in dicht schließenden Schlehen- und Hartriegelgebüschen;
-
-4.
-
-der Umbau der größeren Robinienbestände in naturnahen Eichenmischwald durch schrittweise Entnahme, Nachpflanzung und kontinuierliche Förderung der Naturverjüngung;
-
-5.
-
-die dauerhafte Erhaltungspflege der gebietstypischen Wälder, die dem natürlichen Vegetationspotential entsprechen, bei Belassen des Totholzes;
-
-6.
-
-die Erhaltungspflege des baumhöhlenreichen Streuobstes in einer ausgewogenen Altersverteilung;
-
-7.
-
-die Förderung der Wildbirne durch periodisches Freistellen ihrer Standorte;
-
-8.
-
-die bedarfsweise Steuerung der Vegetationsstruktur an Lebensstätten spezieller Pflanzen- und Tierarten durch kleinflächiges Auflichten und Entnehmen;
-
-9.
-
-das regelmäßige Offenhalten der sonnenexponierten Gesteinsschuttstandorte in den Alt-Steinbrüchen;
-
-10.
-
-die Instandhaltung der gebietstypischen Trockenmauern.
-
-(3) Die erforderlichen Pflege- und Entwicklungsmaßnahmen können in einem Pflege- und Entwicklungsplan festgelegt werden. Auf den § 15 Abs. 5, die §§ 38 und 39
+Die erforderlichen Pflege- und Entwicklungsmaßnahmen können in einem Pflege- und Entwicklungsplan festgelegt werden. Auf die § 15 Abs. 5, §§ 38 und 39
 SächsNatSchG wird verwiesen.
 
 § 7
@@ -305,7 +248,7 @@ SächsBO errichtet, ändert, abbricht oder der Errichtung gleichgestellte Maßna
 
 2.
 
-entgegen § 4 Abs. 2 Nr. 2 Straßen, Wege, Plätze oder sonstige Verkehrsanlagen anlegt, Leitungen ober- oder unterirdisch verlegt oder Anlagen dieser Art verändert;
+entgegen § 4 Abs. 2 Nr. 2 Straßen, Wege, Plätze oder sonstige Verkehrsanlagen anlegt oder ausbaut, Leitungen ober- oder unterirdisch verlegt oder Anlagen dieser Art verändert;
 
 3.
 
@@ -333,7 +276,7 @@ entgegen § 4 Abs. 2 Nr. 8 Pflanzen oder Pflanzenteile einbringt, entnimmt, besc
 
 9.
 
-entgegen § 4 Abs. 2 Nr. 9 Tiere einbringt, wild lebenden Tieren nachstellt, sie beunruhigt, sie fängt, verletzt oder tötet oder Puppen, Larven, Eier oder Nester oder Brut-, Wohn- oder Zufluchtsstätten dieser Tiere entfernt, beschädigt oder zerstört;
+entgegen § 4 Abs. 2 Nr. 9 Tiere einbringt, wild lebenden Tieren nachstellt, sie beunruhigt, sie fängt, verletzt oder tötet oder Puppen, Larven, Eier oder Nester oder sonstige Brut-, Wohn- oder Zufluchtsstätten dieser Tiere entfernt, beschädigt oder zerstört;
 
 10.
 
@@ -341,31 +284,31 @@ entgegen § 4 Abs. 2 Nr. 10 die bisherige Grundstücksnutzung in einer Art ände
 
 11.
 
-entgegen § 4 Abs. 2 Nr. 11 Felsen beklettert oder Sportveranstaltungen durchführt;
+entgegen § 4 Abs. 2 Nr. 11 zeltet, lagert, Wohnwagen, sonstige Fahrzeuge oder Verkaufsstände aufstellt oder motorgetriebene Schlitten benutzt;
 
 12.
 
-entgegen § 4 Abs. 2 Nr. 12 zeltet, lagert, Wohnwagen, sonstige Fahrzeuge oder Verkaufsstände aufstellt oder motorgetriebene Schlitten benutzt;
+entgegen § 4 Abs. 2 Nr. 12 Flächen außerhalb der Straßen und Wege betritt, auf diesen reitet oder diese mit motorgetriebenen oder bespannten Fahrzeugen befährt;
 
 13.
 
-entgegen § 4 Abs. 2 Nr. 13 Flächen außerhalb der Straßen und Wege betritt, auf diesen reitet oder mit motorgetriebenen oder bespannten Fahrzeugen befährt;
+entgegen § 4 Abs. 2 Nr. 13 Feuer anmacht oder unterhält;
 
 14.
 
-entgegen § 4 Abs. 2 Nr. 14 Feuer anmacht oder unterhält;
+entgegen § 4 Abs. 2 Nr. 14 Lärm verursacht, der geeignet ist, Tiere zu beunruhigen und den Naturgenuss zu beeinträchtigen;
 
 15.
 
-entgegen § 4 Abs. 2 Nr. 15 Lärm verursacht, der geeignet ist, Tiere zu beunruhigen und den Naturgenuss zu beeinträchtigen;
+entgegen § 4 Abs. 2 Nr. 15 Hunde unangeleint laufen lässt;
 
 16.
 
-entgegen § 4 Abs. 2 Nr. 16 Hunde unangeleint laufen lässt oder
+entgegen § 4 Abs. 2 Nr. 16 mit Luftfahrzeugen startet oder landet oder
 
 17.
 
-entgegen § 4 Abs. 2 Nr. 17 mit Luftfahrzeugen startet oder landet,
+entgegen § 4 Abs. 2 Nr. 17 von der Naturschutzbehörde errichtete Schutz- oder Hinweiseinrichtungen oder Markierungen verrückt, entfernt oder beschädigt,
 
 sofern diese Handlungen nicht gemäß § 5 zulässig sind.
 
@@ -374,51 +317,58 @@ SächsNatSchG handelt des Weiteren, wer vorsätzlich oder fahrlässig
 
 1.
 
-entgegen § 5 Abs. 1 Nr. 1 Buchst. d ohne Genehmigung der Naturschutzbehörde Jagdeinrichtungen anlegt;
+entgegen § 5 Abs. 1 Nr. 1 Jagdeinrichtungen anlegt, ohne dies mindestens vier Wochen vorher bei der Naturschutzbehörde anzuzeigen;
 
 2.
 
-entgegen § 5 Nr. 2 Buchst. a Dung, Gülle, Jauche oder Mineraldünger einbringt;
+entgegen § 5 Abs. 1 Nr. 2 Buchst. a die Winzerwiese sowie die südlichen Ufersäume des Gosebaches beweidet;
 
 3.
 
-entgegen § 5 Nr. 2 Buchst. b Biozide, Auftaumittel oder andere Chemikalien lagert oder anwendet oder
+entgegen § 5 Abs. 1 Nr. 2 Buchst. b Jauche, Gülle oder Mineraldünger einbringt;
 
 4.
 
-entgegen § 5 Abs. 1 Nr. 7 ohne Veranlassung oder Genehmigung der Naturschutzbehörde Tätigkeiten im Rahmen von wissenschaftlichen Arbeiten einschließlich Dokumentationen und Sicherungsarbeiten sowie Maßnahmen zur Generhaltung durchführt.
+entgegen § 5 Abs. 1 Nr. 2 Buchst. c Biozide verwendet;
+
+5.
+
+entgegen § 5 Abs. 1 Nr. 2 Buchst. d Kahlhiebe im Sinne von § 19
+SächsWaldG oder Erstaufforstungen vornimmt;
+
+6.
+
+entgegen § 5 Abs. 1 Nr. 2 Buchst. e Weihnachtsbaum- oder Schmuckreisigkulturen anlegt;
+
+7.
+
+entgegen § 5 Abs. 1 Nr. 2 Buchst. f Erstaufforstungen ohne Genehmigung der Naturschutzbehörde vornimmt;
+
+8.
+
+entgegen § 5 Abs. 1 Nr. 7 Veranstaltungen ohne Genehmigung der Naturschutzbehörde durchführt oder
+
+9.
+
+entgegen § 5 Abs. 1 Nr. 8 Tätigkeiten im Rahmen von Forschungsarbeiten einschließlich Dokumentationen und Sicherungsarbeiten ohne Genehmigung der Naturschutzbehörde durchführt.
 
 (4) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 1
-SächsNatSchG handelt auch, wer vorsätzlich oder fahrlässig einer vollziehbaren Auflage zuwiderhandelt, mit der eine nach § 53
-SächsNatSchG erteilte Befreiung oder eine nach § 7 Abs. 2 dieser Verordnung erteilte Genehmigung versehen worden ist.
+SächsNatSchG handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Auflage zuwiderhandelt, mit der eine nach § 53
+SächsNatSchG erteilte Befreiung oder nach § 7 Abs. 2 dieser Verordnung erteilte Genehmigung versehen worden ist.
 
-(5) Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 5 Buchst. a
-SächsLJagdG handelt, wer vorsätzlich
-
-1.
-
-entgegen § 5 Abs. 1 Nr. 1 Buchst. a die Jagd auf Schalen- und Raubwild anders als durch Einzeljagd ausübt;
-
-2.
-
-entgegen § 5 Abs. 1 Nr. 1 Buchst. b ohne Genehmigung durch die Naturschutzbehörde die Drückjagd auf Schalen- und Raubwild außerhalb des Zeitraumes vom 1. Oktober bis zum 31. Dezember durchführt oder
-
-3.
-
-entgegen § 5 Abs. 1 Nr. 1 Buchst. c Federwild jagt.
+(5) Ordnungswidrig im Sinne von § 58 Abs. 1 Nr. 5 Buchst. a
+SächsLJagdG handelt auch, wer vorsätzlich die Jagd anders als durch Ansitzjagd ausübt.
 
 § 9
 
-In-Kraft-Treten
+In-Kraft-Treten und Außer-Kraft-Treten
 
-Diese Verordnung tritt am Tage nach Ablauf der Auslegungsfrist gemäß § 2 Abs. 3 Satz 5 in Kraft.
+Diese Verordnung tritt am Tage nach Ablauf der Auslegungsfrist gemäß § 2 Abs. 3 Satz 5 in Kraft. Gleichzeitig tritt die Anordnung Nummer 3 über Naturschutzgebiete vom 11. September 1967 des Vorsitzenden des Landwirtschaftsrates der DDR (GBl. DDR II, S. 697) außer Kraft, soweit sie das Naturschutzgebiet „Winzerwiese“ betrifft.
 
-Dresden, den 25. Oktober 2002
+Dresden, den 6. Januar 2006
 
 Regierungspräsidium Dresden
 
 Dr. Hasenpflug
 
 Regierungspräsident
-
-Übersichtskarte
