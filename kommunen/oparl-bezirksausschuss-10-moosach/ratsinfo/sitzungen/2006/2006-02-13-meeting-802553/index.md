@@ -1,0 +1,58 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2006-02-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/802553
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/802553
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Fußgängerüberweg an der Einmündung der Riesstraße in den Georg-Brauchle-Ring
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Benennung des U-Bahnhofes unter der Pelkoven-/Leipziger Straße in "U-Bahnhof Moosacher St.-Martins-Platz"
+- TOP 5.2.: Erhalt der denkmalgeschützten Häuser in Moosach (Empfehlung Nr. 216 der Bürgerversammlung am 20.10.2005)
+- TOP 5.3.: Müllanlage und Müllentsorgung der Lokale "Bella Italia" und "Mc Donald's" in der Pelkovenstraße / Jakob-Hagenbucher-Straße (Empfehlung Nr. 226 der Bürgerversammlung am 20.10.2005)
+- TOP 5.4.: Gewährung eines Zuschusses aus dem Budget des BA 10: ASZ Moosach; Fotoausstellung zum Internationalen Frauentag am 08.03.06
+- TOP 5.5.: Gewährung eines Zuschusses aus dem Budget des BA 10: Guitar-Company; Konzerte am 04.08.06 und 29.09.06
+- TOP 6.: Anhörungen
+- TOP 6.1.: Spartenumfrage Pelkovenstraße 44
+- TOP 6.2.: Wallfahrt von Feldmoching nach Maria Eich am 21.05.06
+- TOP 6.3.: Antrag auf Genehmigung einer Warenstellage: Dachauer Str. 419
+- TOP 6.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Erarbeitung eines Schulwegkonzeptes für die Zeit der Sperrung der Fußgängerunterführung am Moosacher Bahnhof (Zwischennachricht)
+- TOP 7.2.: Elektronische Fahrplananzeigen für die Straßenbahnhaltestellen in Moosach
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Beteiligung im Netz; Die Stadt verbessert in ihrem Internet-Auftritt die Angebote zur Beteiligung im Netz
+- TOP 8.2.: Informationsveranstaltung für die BA's zum Thema Straßenausbaubeitragsrecht
+- TOP 8.3.: Unveränderte Fortführung einer Schank- und Speisewirtschaft: "Cafe Live", Bunzlauer Str. 25
+- TOP 8.4.: Wiederherstellung von Leitungsschächten in Straßen
+- TOP 8.5.: Die Münchner Baumschutzverordnung (geänderter Beschluss)
+- TOP 8.6.: 2. S-Bahn-Stammstrecke; Verein der Bürgerinitiative S-Bahn-Tunnel Haidhausen
+- TOP 8.7.: Frauengesundheitswoche "Lust auf Bewegung", 8. bis 19. Mai 2006
+- TOP 8.8.: Fokus-Hauptschulen für München
+- TOP 8.9.: Lärmbelästigung durch Veranstaltungen im Olympiapark
+- TOP 8.10.: Mobilfunk-Suchkreismeldung
+- TOP 8.11.: Demonstration für ein besseres Gesundheitswesen am 08.07.06
+- TOP 8.12.: Wohnen in München III - München Modell
+- TOP 8.13.: 2. Bericht über die der Beschlussvollzugskontrolle unterliegenden Beschlüsse
+- TOP 8.14.: Auswirkungen der Verfahrensbeschleunigung für Bundesvorrangprojekte
+- TOP 8.15.: Frühkindliche Gesundheitsförderung; Schließung der Mütter-/Väterberatungsstellen zugunsten vermehrter Hausbesuche
+- TOP 8.16.: Finanzplan 2005 - 2009
+- TOP 8.17.: Meldeliste Bauvorhaben
+- TOP 4: Anträge
