@@ -1,0 +1,80 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2006-02-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/826859
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/826859
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: 2. S-Bahnstammstrecke
+- TOP 1.2.: Altkleider Container am Stiftsbogen
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Eichenstr. 40 / 40a, 3 Birken
+- TOP 3.2.: Stahleckstr. 2a, 1 Fichte
+- TOP 3.3.: Marchioninistr., 1 Kirschbaum
+- TOP 3.4.: Fürstenrieder Str., gem Baumbestandsplan Nr. 31530
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Standortsuche für eine Pflanzenöltankstelle im Münchner Südwesten, BV-Empfehlung Nr. 197 vom 29.09.2005 (Kommunalreferat, 16.01.2006)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Finanzplan 2005 - 2009 (Stadtkämmerei, 16.01.2006)
+- TOP 7.2.: Kultur im Stadtquartier, Zwischenbericht (Kulturreferat, 28.11.2005)
+- TOP 7.3.: Straßen- und Stadtteilfeste (Sozialreferat, 21.12.2005)
+- TOP 7.4.: Errichtung eines Zebrastreifens oder eines anderen Straßenübergang am Kindergarten/Grundschule an der Guardinistraße, BV-Anfrage (KVR, 22.12.2005)
+- TOP 7.5.: Verkehrssituation an der Kreuzung Senftenauer-/ Silberdistelstraße; Baustelle entlang der Schröfelhofstraße, BV-Anfrage (KVR, 22.12.2005)
+- TOP 7.6.: Verkehrssicherheit vor der Grundschule an der Großhaderner Straße, BV-Anfrage (KVR, 22.12.2005)
+- TOP 7.7.: Antrag von na-klar zu einem Fachforum (Direktorium, 03.01.2006)
+- TOP 7.8.: Kommunales Wohnungsbauförderungsprogramm - KomPro B Ausschreibung von Grundstücken (Sozialreferat, 05.01.2006)
+- TOP 7.9.: Herstellung von weiteren Längsparkbuchten als Kurzparkzone in der Sauerbruchstraße (KVR, 04.01.2006)
+- TOP 7.10.: Aufhebung des personenbezogenen Behindertenparkplatzes in der Gelbhofstr. 8 (KVR, 12.01.2006)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Haderner Dorffest auf dem Max-Lebsche-Platz (Baureferat, 02.01.2006)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Auflösung des Containerstandortes am Spielplatz Waldgartenstraße (Baureferat, 16.01.2006)
+- TOP 9.2.: Mütter- und Väterberatung der Haderner Eltern, Antrag Nr. 770 vom 14.11.2005 (Referat für Gesundheit und Umwelt, 2.01.2006)
+- TOP 9.3.: Stadtgestalterische Aufwertung des Max-Lebsche-Platzes, Antrag Nr. 684 vom 25.10.2005 (Referat für Stadtplanung und Bauordnung, 12.01.2006)
+- TOP 9.4.: Antrag auf Renovierung der Fenster im Schulgebäude Blumenauer Str. 11 (Schul- und Kultusreferat, 20.12.2005)
+- TOP 9.5.: Bushaltestelle Würmtalstraße 126 (SMW, 13.01.2006)
+- TOP 9.6.: Bebauungsplan Nr. 1817 (Baureferat, 13.01.2006)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Kürzung der Zuschüsse der Referate zu Lasten des BA-Budget (BA 13, 21.12.2005)
+- TOP 11.2.: Pilotprojekt Jugendbeteiligung an der Stadtplanung (BA 5, 20.12.2005)
+- TOP 11.3.: Jahresrückblick spielkultur (spielkultur Aktion/Spielkultur e.V., 29.12.2005)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: am 14.12.2005 PERSPEKTIVE MÜNCHEN, Familienfreundlichkeitsprüfung - ein Beitrag zur amilien- und kinderfreundlichen Stadtentwicklung, Leitlinie KInder- und Familienpolitik
+- TOP 12.2.: am 07.12.2005: Förderung von Familien bzw. Haushalten mit Kindern a) Anträge aa) Erbbaumodell für Familien mit Kinder ab) Bezahlbarer Wohnraum für Familien ac) Pilotprojekt für Erbbaumodell für Familien mit Kindern b) Verbesserungen bei der Kinderkomponente im München Modell
+- TOP 12.3.: am 14.12.2005: Lärmminderungsplan für München
+- TOP 12.1.: Beschluss des Gesundheitsausschusses vom 27.04.2005 Frühkindliche Gesundheitsförderung Schließung der Mütter-/Väterberatungsstellen zugunsten vermehrter Hausbesuche
+- TOP 12.1.: Beschluss des Kreisverwaltungsreferates vom 24.01.2006 Lichtzeichenanlgen-Bauprogramm 2006
+- TOP 12.2.: Beschluss des Kreisverwaltungsausschusses vom 24.01.2006 LKW-Nachtfahrverbot in der Fürstenrieder Straße vom Bahnhof Laim bis zum Waldfriedhof LKW-Nachtfahrverbot in der Fürstenrieder Straße von der Landsberger Straße bis zur Ammerseestraße
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006: Auswirkungen der Verfahrensbeschleunigung für Bundesvorrangprojekte
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006 Hinweis/Ergänzung; Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse und der einschlägigen Verbände
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2006: "Wohnen in München, III" - München Modell Grundsatzbehandlung der Modalitäten für das München Modell a) Überblick über die bisherige Entwicklung der Modalitäten b) Vermietungszahlen im München Modell-Miete seit Mai 2005 c) Fortführung des München Modell auf der Basis der geltenden Modalitäten d) Bilanz "10Jahre München Modell"
+- TOP 12.2.: Bekanntgaben
+- TOP 12.3.: Bekanntgabe im Schulausschuss des Stadtrates am 11.01.2006 Bereinigtes Einschreibeergebnis für das Kindergartenjahr/Schulhahr 2005/2006
+- TOP 12.4.: Bekanntgabe im Schulausschuss des Stadtrates am 11.01.2006 Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt und Förderschulen für das Schuljahr 2005/06
+- TOP 12.5.: Bekanntgabe im Schulausschuss des Stadtrates am 11.01.2006 Schüler/innen und Klassenstand, Berufliche Schulen der Landeshauptstadt München im Schuljahr 2005/2006, Stand 20.10.2005
+- TOP 12.6.: Bekanntgabe im Schulausschuss des Stadtrates am 11.01.2006 Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschhulen und der städt. Franz-Auweck-Abendschule; Schulahr 2005/2006
+- TOP 12.7.: Bekanntgabe im Schulausschuss des Stadtrates am 11.01.2006 Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2005/2006
+- TOP 12.8.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006 Beschlussvollzugskontrolle (BVK); 2. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 31.12.2005
+- TOP 12.9.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung: "Büroimmobilienmarkt München" Studie der BulwienGesaAG
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
