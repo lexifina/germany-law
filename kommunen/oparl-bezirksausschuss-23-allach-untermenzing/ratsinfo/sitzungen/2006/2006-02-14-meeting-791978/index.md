@@ -1,0 +1,66 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2006-02-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/791978
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/791978
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: 2. S-Bahnstammstrecke München
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Antrag auf Zuschuss aus dem Bugdet in Höhe von 900 Euro für den Kauf von Kleingeräten; Antragsteller: TSV München-Allach 1909 Turnen und Handball e.V.
+- TOP 4.2.: Basketballlanlage in Allach, Empfehlung Nr. 212 der Bürversammlung vom 18.10.05
+- TOP 5.: Anhörungen
+- TOP 5.1.: Eversbuschstr. 168: Errichtung einer Werbeanlage
+- TOP 5.2.: Einziehung einer Teilstrecke des Weges "Am Lochholz"
+- TOP 5.3.: Sponsoring bei der Landeshauptstadt München
+- TOP 5.4.: Fragebogen zu REGSAM, Einschätzung der Bezirksausschüsse
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Budgetmittel der Bezirksausschüsse, Ablehnung einer beantragten Zuwendung; Antragsteller: SV München-Untermenzing
+- TOP 8.2.: Anbindung der Bezirksausschüsse an das RIS
+- TOP 8.3.: Info zu Budget-Anträgen von Alten- und Service-Zentren
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Brücke über die Würm in Verlängerung der Allacher Straße
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Anmeldebestätigung: Faschingszug der Kath. Pfarrgemeinde Maria Himmelfahrt am 28.02.06
+- TOP 10.2.: Vereinswirtschaft des TSV Allach 09, Enterstr. 55; unveränderte Fortführung
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Bauanträge (v. 26.12.05-01.01., 02.01.-08.01., 09.01.-15.01., 16.01.-22.01., 23.01.-29.01.)
+- TOP 11.2.: Vollzug der BaumschutzVO a) Manzostr., s. Baumbestandsplan Nr. 2005-36370 b) Grünwedelstr. 2, s. Baumbestandsplan Nr. 2005-36749 c) Ernst-Haeckel-Str. 21 b, s. Baumbestandsplan Nr. 2005-36535 d) Hitlstr., s. Baumbestandsplan Nr. 2005-36582 e) Dachauer Str. 667, s. Baumbestandsplan Nr. 2006-2282 f) Manzostr. 70 a, 1 Fichte
+- TOP 11.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Kommunales Wohnungsbauförderungsprogramm-KomProB; Ausschreibung von Grundstücken
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 16.1.: Buslinienführung östlich der Bahn (Antrag Nr. 792 vom 15.11.05)
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 21 Pasing-Obermenzing: Jährliches Treffen von Jugendlichen im Umfeld von Schloss Blutenburg; Vorbereitungsgespräch
+- TOP 20.2.: BA 21 Pasing-Obermenzing: Geschwindigkeitsbeschränkung auf Tempo 30 für die Menzinger Straße ab Kastellstraße bis zur Karl-von-Roth-Straße einschließlich Megerlestraße
+- TOP 21: Stadtrats - und Ausschussbeschlüsse
+- TOP 21.1.: Ausschuss für Stadtplanung und Bauordnung vom 11.01.06: - Auswirkungen der Verfahrensbeschleunigung für Bundesvorrangprojekte - Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der BAs und der einschlägigen Verbände - Beschlussvollzugskontrolle (BVK); 2. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01. - 31.12.05
+- TOP 21.2.: Ausschuss für Stadtplanung und Bauordnung vom 18.01.06: - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/4, Ludwigsfelder Straße (südlich) - Hackersiedlung -
+- TOP 21.3.: Kreisverwaltungsausschuss vom 24.01.06: - Lichtzeichenanlagen-Bauprogramm 2006
+- TOP 21.4.: Ausschuss für Stadtplanung und Bauordnung vom 01.02.06 - "Wohnen in München, III" - München Modell
+- TOP 21.5.: Bauausschuss vom 07.02.06 - Wiederherstellung von Leitungsschächten in Straßen
+- TOP 21.6.: Ausschuss für Stadtplanung und Bauordnung und Verwaltungs- und Personalausschuss vom 08.02.06 - Beteiligung im Netz
+- TOP 22: Verschiedenes
+- TOP 23.1.: Behindertenbeauftragter im BA
+- TOP 23: Schreiben des Behindertenbeauftragten der LH München
