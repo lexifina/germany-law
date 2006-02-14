@@ -1,0 +1,76 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2006-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/810297
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/810297
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Wahl des Vorsitzenden des Unterausschuss Budget
+- TOP 4.2.: Benennung der Mitglieder des Unterausschuss Budget durch die Fraktionen
+- TOP 4.3.: Budgetantrag vom 15.12.05 der Katholischen Jugendseelsorge im Pfarrverband Westend für das Westend-Zeltlager 20.-22.01.06
+- TOP 4.4.: Budgetantrag vom 23.12.05 der IG Feuerwache - Elternarbeit für Pädagogisch betreute Gruppennachhilfe 15.11.05 - 31.12.05
+- TOP 5: Anhörungen
+- TOP 5.1.: KVR - Einrichtung eines personenbezogenen Behindertenparkplatzes Tulbeckstr. 5
+- TOP 5.2.: Flohmärkte am Gollierplatz 2006
+- TOP 5.3.: Faschingsveranstaltung am Heimeranplatz am 28.02.06
+- TOP 5.4.: Verkehrsrechtliche Anordnung Landsberger Straße
+- TOP 5.5.: Straßenfest Kazmairstr./ Trappentreustraße am 29.07.06 (Ersatz 05.08.06)
+- TOP 5.6.: Weitergehende Nutzung des Servicezentrums Theresienwiese
+- TOP 5.7.: Freischankfläche auf öffentlichem Verkehrsgrund Astallerstr. 11
+- TOP 5.8.: Zirkusgastspiele 2006 Übertragungswagen während der WM
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Begrünung am Sinti-Roma-Platz
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: SHZ - Rundbrief Dezember 2005 Erneute Behandlung aus 01/06
+- TOP 6.2.2.: Bericht Nachbesprechung zum Fest junger Erwachsener ("18.jetzt") Erneute Behandlung aus 01/06
+- TOP 6.2.3.: Fragebogen REGSAM Einschätzung der BAs
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Beschluss des Kreisverwaltungsausschuss vom 24.01.06 (SB) Lichtzeichenanlagen-Bauprogramm 2006
+- TOP 6.4.2.: Baumfällung Ligsalzstr. 14
+- TOP 6.4.3.: Bericht Ortstermin Übergang Schießstätt-/ Heimeran-/ Kazmairstraße
+- TOP 6.4.4.: Baumfällung Schwanthalerstr. 146
+- TOP 7: Erledigungen
+- TOP 7.1.: P+R - Parkraummanagement in München Anwerbung der Anwohner Parkplätze Schreiben 12/05 - T 7.8
+- TOP 7.2.: Unverzügliche Realisierung der Fußgänger- und Radfahrerbrücke von der Landsberger Straße zum S-Bahnsteig Donnersberger Brücke Empfehlung Nr. 11. der BV des BA 8 vom 27.06.02 Antwortschreiben auf Schreiben vom 14.11.05
+- TOP 7.3.: Auswirkungen Hartz IV auf die MüncherInnen Anzahl der Hartz IV -EmpfängerInnen im 8. Stadtbezirk Antwortschreiben
+- TOP 7.4.: Landsberger Str. 55 Abbruch bestehender Gebäude
+- TOP 7.5.: Freundorfer Spielplatz Verschmutzung durch Obdachlose BA-Antrag-Nr. 02-08 / B 00712 vom 04.11.05 des BA 8
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Meldeliste ovm 09.01.06 - 15.01.06 Erstantragsverfahren a) Heimeranstr. 31
+- TOP 9.2.: Meldeliste vom 09.01.06 - 15.01.06 Änderungsvorhaben a) Schnaderböckstr. 6
+- TOP 9.3.: Meldeliste vom 23.01.06 - 29.01.06 Änderungsverfahren a) Schießstättstr. 2
+- TOP 10: Verschiedenes
+- TOP 10.1.: Finanzplan 2005 - 2009
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Schriftverkehr 01/06
+- TOP 11.2.: Protokoll 01/06
+- TOP 11.3.: KVR - Unveränderte Fortführung von Gaststätten Landsberger Str. 117a
+- TOP 11.4.: KVR - Antrag auf Neuerrichtung einer Gaststätte Landsberger Str. 110 Unterrichtung
+- TOP 11.5.: KVR - Unveränderte Fortführung von Gaststätten Westendstr. 136
+- TOP 11.6.: KVR - Unveränderte Fortführung von Gaststätten Gollierstr. 83
+- TOP 11.7.: KVR - Unveränderte Fortführung von Gaststätten Westendstr. 66
+- TOP 11.8.: KVR - Veranstaltung auf öffentlichem Grund Eröffnung XXXLutz Vorabstellungnahme durch den Vorsitzenden
+- TOP 11.9.: KVR - Anmeldung einer Kundgebung Demo für ein besseres Gesundheitswesen am 08.07.06
+- TOP 11.10.: KVR - Anmeldung einer Kundgebung "Aus dem Westend gegen den Krieg" am 04.02.06
+- TOP 11.11.: Beschluss des Bauausschusses vom 07.02.05 (SB) Wiederherstellung von Leitungsschächten in Straßen (Ziff. 2 des Antrages)
+- TOP 11.12.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 11.01.06 Beschlussvollzugskontrolle (BVK); 2. Bericht über die der BVK unterliegenden Ausschüsse
+- TOP 11.13.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.06 (VB) Die Münchner BaumschutzVO; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der BAs und der einschlägigen Verbände
+- TOP 11.14.: Beschluss des Ausschusses für Stadtplanung und Bauordnung und des Verwaltungs- und Personalausschusses in gemeinsamer Sitzung am 08.02.06 (VB) Beteiligung im Netz
+- TOP 11.15.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.06 (SB) Auswirkungen der Verfahrensbeschleunigung für Bundesvorrangprojekte
+- TOP 11.16.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.06 (VB) Wohnen in München III - München Modell Grundsatzbehandlungen der Modalitäten für das München Modell
+- TOP 11.17.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.06 (SB) Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB)
+- TOP 11.18.: Wirtschaftsinfo 01/2006
