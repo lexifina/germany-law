@@ -1,0 +1,6 @@
+# TOP 13.: Grundstücksangelegenheit
+
+- Sitzung: Rat (12. Sitzung) (2006-02-15)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/954
