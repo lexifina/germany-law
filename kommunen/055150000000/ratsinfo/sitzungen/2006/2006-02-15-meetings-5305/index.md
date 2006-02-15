@@ -1,0 +1,53 @@
+# 9. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-02-15T17:04:00+01:00
+- Ende: 2006-02-15T22:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5305
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5305
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00228552.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Förderung der Beschäftigung schwerbehinderter Menschen und Förderung der Ausbildung behinderter und - verwiesen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 3: Weitere Behandlung verwiesener Ratsanträge
+- TOP 3.1: Antrag der Fraktion Bündnis 90/GAL an den Rat Nr. 34/2004 "Verkehrskonzept für das Hansaviertel" - von der Tagesordnung abgesetzt
+- TOP 3.2: Antrag der SPD-Fraktion an den Rat A-R/0043/2005: Mit Leistungsvereinbarungen Zukunft gestalten - So - von der Tagesordnung abgesetzt
+- TOP 3.3: Antrag der Fraktionen der CDU und der FDP an den Rat Nr. A-R/0047/2005 vom 21.11.2005 "Familienzentr - einstimmig beschlossen
+- TOP 3.4: Antrag der Fraktion UWG/ödp an den Rat Nr. A-R/0038/2005 vom 13.09.2005: "miteinander, respektvoll, - einstimmig beschlossen
+- TOP 4: "Bürokratie abbauen" - Service für Bürgerinnen und Bürger verbessern: "Ein Bildungsbüro für Münster" - einstimmig beschlossen
+- TOP 5: Leistungsvereinbarungen in der Kinder- und Jugendhilfe - von der Tagesordnung abgesetzt
+- TOP 6: Straßenbenennungen und Straßenumbenennungen am Gievenbecker Weg - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 7: Seniorenvertretung in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 8: Satzung der Stadt Münster über das Verfahren zur Durchführung von Bürgerbegehren und Bürgerentscheid - ohne Beschlussfassung geschoben
+- TOP 9: Haushaltskonsolidierungsprogramm 2006 - ohne Beschlussfassung geschoben
+- TOP 10: Mittelbereitstellung für die Auftragserteilung an eine externe Beratung und Begleitung im Rahmen de - ohne Beschlussfassung geschoben
+- TOP 11: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 4. Vierteljahr - zur Kenntnis genommen
+- TOP 12: Freie Szene Am Hawerkamp - Selbstverwaltungsmodell - - einstimmig beschlossen
+- TOP 13: Dringlichkeitsentscheidung gem. § 60 GO NW - einstimmig beschlossen
+- TOP 14: Erweiterung Zentrum Kinderhaus
+- TOP 14.1: Erweiterung Zentrum Kinderhaus - ohne Beschlussfassung geschoben
+- TOP 15: Stellungnahme der Stadt Münster im Rahmen des Planfeststellungsverfahrens zum Ausbau des DEK - ohne Beschlussfassung geschoben
+- TOP 16: Ausschreibung der Stelle des Generalmusikdirektors/der Generalmusikdirektorin der Stadt Münster - einstimmig beschlossen
+- TOP 17: Umwandlung der Uppenbergschule (städtische Förderschule) in eine Verbundschule mit den Förderschwerp - einstimmig beschlossen
+- TOP 18: Bauliche Erweiterung und Umgestaltung des Heim- und Pflegebereichs der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 19: Bauvorhaben der Stiftung Friedrich und Irmgard Buschmann - einstimmig beschlossen
+- TOP 20: Bauleitplanung
+- TOP 20.1: Stadtbezirk Mitte
+- TOP 20.1.1: Bebauungsplanverfahren 478 - Optionsvereinbarung BWN - ohne Beschlussfassung geschoben
+- TOP 20.1.2: 1. Verlängerung der Veränderungssperre Nr. 95 für den Bereich Kreuzviertel - ohne Beschlussfassung geschoben
+- TOP 20.1.3: Bebauungsplan Nr. 503 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 20.2: Stadtbezirk West
+- TOP 20.2.1: 19. Änderung des Flächennutzungsplanes - einstimmig beschlossen
+- TOP 20.3: Stadtbezirk Ost
+- TOP 20.3.1: 10. Änderung des fortgeschriebenen Flächennutzungsplanes für den Bereich Drei Eichen - ohne Beschlussfassung geschoben
+- TOP 20.3.2: Vorhabenbezogener Bebauungsplan Nr. 492: Handorf - Drei Eichen - ohne Beschlussfassung geschoben
+- TOP 21: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 22: Verschiedenes
