@@ -1,0 +1,68 @@
+# 12. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-02-15T17:32:00+01:00
+- Ende: 2006-02-15T23:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5304
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5304
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00229215.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Aufhebungsverfahren zum Bebauungsplan Nr. 452 - Tiefgarage Ludgeriplatz
+- TOP 1.2: Haushaltssanierung/Erzieherinnenstellen
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - einstimmig beschlossen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Eine neue Toilettenanlage für den Geistmarkt
+- TOP 6.2: Mittelbereitstellung für Radwegausbau Wolbecker Straße
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 7.1: Bleiberecht für länger in Deutschland geduldete Ausländerinnen und Ausländer - einstimmig geändert beschlossen
+- TOP 8: Seniorenvertretung in der Stadt Münster - einstimmig geändert beschlossen
+- TOP 9: Satzung der Stadt Münster über das Verfahren zur Durchführung von Bürgerbegehren und Bürgerentscheid - vertagt
+- TOP 10: Haushaltskonsolidierungsprogramm 2006 - mehrheitlich beschlossen
+- TOP 11: Mittelbereitstellung für die Auftragserteilung an eine externe Beratung und Begleitung im Rahmen de - mehrheitlich beschlossen
+- TOP 12: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 4. Vierteljahr - zur Kenntnis genommen
+- TOP 13: Freie Szene Am Hawerkamp - Selbstverwaltungsmodell - - einstimmig beschlossen
+- TOP 14: Dringlichkeitsentscheidung gem. § 60 GO NW - einstimmig beschlossen
+- TOP 15: Erweiterung Zentrum Kinderhaus - mehrheitlich beschlossen
+- TOP 15.1: Erweiterung Zentrum Kinderhaus
+- TOP 16: Stellungnahme der Stadt Münster im Rahmen des Planfeststellungsverfahrens zum Ausbau des DEK - einstimmig geändert beschlossen
+- TOP 17: Satzung über die Festlegung der Höhe des Geldbetrages, der nach § 51 Abs. 5 der Landesbauordnung NRW - mehrheitlich geändert beschlossen
+- TOP 18: Ausschreibung der Stelle des Generalmusikdirektors/der Generalmusikdirektorin der Stadt Münster - einstimmig beschlossen
+- TOP 19: Umwandlung der Uppenbergschule (städtische Förderschule) in eine Verbundschule mit den Förderschwerp - einstimmig beschlossen
+- TOP 20: Bauliche Erweiterung und Umgestaltung des Heim- und Pflegebereichs der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 21: Bauvorhaben der Stiftung Friedrich und Irmgard Buschmann - einstimmig beschlossen
+- TOP 22: Bauleitplanung
+- TOP 22.1: Stadtbezirk Münster-Mitte
+- TOP 22.1.1: Bebauungsplanverfahren 478 - Optionsvereinbarung BWN - mehrheitlich beschlossen
+- TOP 22.1.2: Bebauungsplan Nr. 503 - Beschluss zur Aufstellung - mehrheitlich geändert beschlossen
+- TOP 22.1.3: 1. Verlängerung der Veränderungssperre Nr. 95 für den Bereich Kreuzviertel - einstimmig beschlossen
+- TOP 22.2: Stadtbezirk Münster-West
+- TOP 22.2.1: 19. Änderung des Flächennutzungsplanes - einstimmig beschlossen
+- TOP 22.3: Stadtbezirk Münster-Ost
+- TOP 22.3.1: 10. Änderung des fortgeschriebenen Flächennutzungsplanes für den Bereich Drei Eichen - mehrheitlich beschlossen
+- TOP 22.3.2: Vorhabenbezogener Bebauungsplan Nr. 492: Handorf - Drei Eichen - mehrheitlich beschlossen
+- TOP 23: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 24: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 24.1: Auswirkungen der Kürzungen im Entwurf des Landeshaushaltes 2006 auf Münster
+- TOP 25: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 25.1: Weiterbau Austermannstraße planen - verwiesen
+- TOP 25.2: Keine Gentechnik auf kommunalen Flächen - verwiesen
+- TOP 25.3: Raumprobleme von Schulen lösen - verwiesen
+- TOP 25.4: Stein-Gebäude verwerten - Bildungslandschaft stärken! - verwiesen
+- TOP 25.5: Theaterqualität bewahren - Kosten sparen - verwiesen
+- TOP 25.6: Grundschulen mit sozialen Problemlagen - verwiesen
+- TOP 25.7: Musikschulversorgung in Münster auf hohem Niveau sichern - Keine planlosen Kürzungen vornehmen - verwiesen
+- TOP 25.8: PTA-Lehranstalt erhalten - Kosten gerecht verteilen - verwiesen
+- TOP 25.9: Interkommunale Kooperation im IT-Bereich stärken - Wirtschaftlichkeit erhöhen - verwiesen
+- TOP 25.10: Befristete Arbeitsverträge: Stadt muss ihrer Verantwortung gerecht werden - verwiesen
+- TOP 26: Verschiedenes
