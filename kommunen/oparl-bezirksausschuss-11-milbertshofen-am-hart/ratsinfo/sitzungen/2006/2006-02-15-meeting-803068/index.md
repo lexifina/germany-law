@@ -1,0 +1,83 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2006-02-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/803068
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/803068
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Präsentation zur Langen Nacht des Sports (Vertreter der Münchner Kultur GmbH tragen vor)
+- TOP 4.2.: Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2005-2009 (Antwortschreiben der Stadtkämmerei)
+- TOP 4.3.: Budgetmittel des Bezirksausschusses 11, Verwendungsnachweise (Schreiben des Direktoriums) a) Kath. Pfarramt St. Georg, Laternen basteln am 07.11.05 und St. Martinsfest am 11.11.05 b) Sportfreunde Harteck München e.V., Judo-Turnier am 24.09.2005
+- TOP 4.1.: Kultur im Stadtquartier (Bekanntgabe in der Sitzung des Kulturausschusses vom 08.12.2005)
+- TOP 4.2.: Einrichtung von Wohngemeinschaften für an Demenz erkrankte Seniorinnen und Senioren im Sanierungsgebiet der GWG im Stadtteil Am Hart (Antrag Nr. 02 - 08 / B 00756 des Bezirksausschusses deys 11. Stadtbezirkes Milbertshofen - Am Hart am 16.11.2005) Antwortschreiben des Sozialreferates
+- TOP 4.1.: Lichtzeichenanlagen-Bauprogramm 2006 (Beschluss des Kreisverwaltungsausschusses vom 24.01.2006)
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Eltern, Kind und Schule gemeinn. e.V.; Erweiterung der Ausstattung der neuerrichteten Beratungsstelle
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.1.: Bessere Raumkoordinierung der Horteinrichtung Hanselmannstraße und Rückgabe zweier Räume an die Grundschule, damit nicht zwei Klassen an die GS Schleißheimer Straße ausgelagert werden müssen (Empfehlung Nr. 02 - 08 / E 00141 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen - Am Hart am 30.06.2005)
+- TOP 6.2.: Widmung der Gesamtstrecke des Weges - ohne eigenen Namen - südlich der Max-Diamand-Straße bei Hs. Nr. 5 und 7
+- TOP 6.3.: Pflasterung des Weges zur U-Bahn zwischen Frauenmantelanger und Graslilienanger (Empfehlung Nr.84 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart, Bezirksteil Milbertshofen 02.12.2004)
+- TOP 7.: Anträge
+- TOP 7.1.: Sozial gerechte und solidarische Kostenbeteiligung der Antragsteller bei Gewährung von Zuwendungen aus dem Budget der Bezirksausschüsse der Landeshauptstadt München mit dem Ziel der Entlastung der Steuerzahler sowie der Förderung des Gemeinwohls (FDP im BA 11)
+- TOP 7.1.: Zufahrt zum ZHS Gelände (CSU-Fraktion im BA 11)
+- TOP 7.2.: Änderung des Fahrplans der U-Bahn-Linie U8 (Silvia Schleicher)
+- TOP 7.3.: Änderung des Fahrplans der U-Bahn-Linie U8 (Michael Hauer)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Veranstaltungen auf öffentlichem Grund: a) Veranstaltung vom 28.-30.07.2006; 24-Stunden-Mountainbike-Rennen auf dem Olympiaberg mit Basislager und Streckenverlauf auf dem Theaterfestivalgelände b) Veranstaltung am 23.09.2006 auf dem Olympiaberg (Fahrrad-Straßenrennen)
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Baumaßnahmen: a) Schleißheimer Straße b) Petuelring 118 c) Brentanostr. 24 d) Spiridon-Louis-Ring 21 e) Wachterstr. 47
+- TOP 8.3.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a) Dientzenhoferstr. 78, eine Fichte b) Moosacher Str. 80, eine Rosskastanie
+- TOP 8.1.: Verkehrslärmschutz am Petuelring zwischen den Kreuzungen Schleißheimer und Lerchenauer Straße (Empfehlung Nr. 02-08 / E 00200 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 11.10.2005)
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Beteiligung im Netz, Die Stadt verbessert in ihrem Internetauftritt die Angebote zur Beteiligung im Netz (Beschluss des Ausschusses für Stadtplanung und Bauordnung und des Verwaltungs- und Personalausschusses in gemeinsamer Sitzung am 08.02.2006)
+- TOP 9.2.: Antrag des Pfarramtes St. Georg auf eine Zuwendung aus dem Budget der Bezirksausschüsse; Bewirtungskosten (Antwortschreiben des Direktoriums)
+- TOP 9.3.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.4.: Anmeldung eines Aufzuges am 08.07.2006, Demo für ein besseres Gesundheitswesen
+- TOP 9.5.: Benennung des U-Bahnhofes Oberwiesenfeld statt Olympiapark-Nord (Beschluss des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 14.12.2005)
+- TOP 9.1.: Auswirkungen der Verfahrensbeschleunigung für Bundesvorrangprojekte (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006)
+- TOP 9.2.: Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB) (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006)
+- TOP 9.3.: 2. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 31.12.2005 (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006)
+- TOP 9.4.: Errichtung eines Spielplatzes, Bolzplatzes und Basketballplatzes auf der Nprdseite des Neubaugebietes an der Nordheide (Beschluss des Bezirksausschusses des Stadtbezirkes 11 Milbertshofen - Am Hart vom 21.09.2005)
+- TOP 9.5.: Wohnen in München III - München Modell (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2006)
+- TOP 9.6.: Lärmbelästigung durch Veranstaltungen im Olympiapark (Beschluss des Umweltausschusses vom 21.02.2006)
+- TOP 9.7.: Bebauungsplan Nr. 1855 Preussenstraße, Projektgenehmigung
+- TOP 9.8.: Die Münchener Baumschutzverordnung (Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006)
+- TOP 9.9.: Wiederherstellung von Leitungsschächten in Straßen (Beschlluss des Bauausschusses vom 07.02.2006)
+- TOP 9.10.: Gefahrenbäüme
+- TOP 9.11.: Neue Abteilungsleitung für den Baubezirk West, Informationsschreiben
+- TOP 9.12.: Baubeginnsanzeige Mobilfunksendeanlage - nicht öffentlich -
+- TOP 9.13.: Vertragliche Standortsicherung Mobilfunksendeanlage - nicht öffentlich -
+- TOP 9.14.: Meldelisten Bauvorhaben
+- TOP 9.1.: Bereinigtes Einschreibeergebnis für das Kindergartenjahr/Schuljahr 2005/2006 (Bekanntgabe im Schulausschuss des Stadtrates vom 11.01.2006)
+- TOP 9.2.: SchülerInnen und Klassenstand, Berufliche Schulen der Landeshauptstadt München im Schuljahr 2005/2006 (Bekanntgabe im Schulausschuss des Stadtrates am 11.01.2006
+- TOP 9.3.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2005/2006 (Bekanntgabe im Schulausschuss des Stadtrates vom 11.01.2006)
+- TOP 9.4.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den schulen des zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2005/2006 (Bekanntgabe im Schulausschuss des Stadtrates vom 11.01.2006)
+- TOP 9.5.: Kommunales Wohnungsbauförderungsprogramm - KomPro B, Ausschreibung von Grundstücken (Informationsschreiben des Sozialreferates)
+- TOP 9.6.: Frühkindliche Gesundheitsförderung; Schließung der Mütter-/Väterberatungsstellen zugunsten vermehrter Hausbesuche (Beschluss des Gesundheitsausschusses vom 27.04.2005)
+- TOP 9.7.: Unveränderte Fortführung von Gaststättenbetrieben: a) SSW "Canadian Lounge", Riesenfeldstr. 81 b) SSW "Paulaner-Bräu-Stuben", Milbertshofener Str. 94 c) SSW "Wahnsinn", Ingolstädter Str. 3 d) SSW "Vereinsgaststätte des TC Grün-Weiß-Nord", Neuherbergstr. 81
+- TOP 9.1.: Anmeldung einer MotorradfahrerInnen - Demonstration am 13.05.2006
+- TOP 9.2.: 2. S-Bahnstammstrecke, Verein der Bürgerinitiative S-Bahn-Tunnel Haidhausen
+- TOP 9.3.: Parkerleichterung für Schwerbehinderte; hier: personenbezogener Sonderparkplatz
+- TOP 9.4.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 3 StVO
+- TOP 9.5.: Filmaufnahmen auf öffentlichem Verkehrsgrund; Erlaubnisbescheid
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
