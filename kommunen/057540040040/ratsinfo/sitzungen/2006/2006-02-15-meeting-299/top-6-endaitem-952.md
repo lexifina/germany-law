@@ -1,0 +1,8 @@
+# TOP 6.: Zweite Änderungssatzung zur Abfallentsorgungssatzung vom 19.12.2003
+
+- Sitzung: Rat (12. Sitzung) (2006-02-15)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/952
+- Beratung: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/consultation/370
+- Beschluss (Datei): Beschlusstext (Zweite Änderungssatzung zur Abfallentsorgungssatzung vom 19.12.2003) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTujl4ftGZen3JIIv1_bex5vlhkJYdI4P0lb2Tkb4j4b/Beschlusstext_VL-171-2004-2009_1._Ergaenzung_-oeffentlich-_Rat_15.02.2006.pdf
