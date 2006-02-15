@@ -1,0 +1,90 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2006-02-15T16:07:00+01:00
+- Ende: 2006-02-15T16:45:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/4507
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/4507
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen-Stand: 01.02.06 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00062713.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00063766.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00063378.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Benennung des Platzes vor dem Rathaus Barmen nach Johannes Rau - vertagt auf Rat
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Kosten von Gutachten
+- TOP 2.2: Ausschlusskriterien für die Aufnahme in Tageseinrichtungen für Kinder
+- TOP 2.3: Nachtfahrverbot von LKW auf der B 7
+- TOP 2.4: Tariftreue
+- TOP 2.5: Stromsperrungen durch die WSW AG
+- TOP 2.6: Kommunaler Ordnungsdienst (KOD)
+- TOP 2.7: Auswirkungen der Landesmittelkürzungen auf die Jugendarbeit
+- TOP 2.8: Arbeitssituation des Wuppertaler Frauenhauses
+- TOP 2.9: Kündigung von Cross-Border-Leasing-Verträgen
+- TOP 2.10: Kassenkredite
+- TOP 2.11: Freiwillige Leistungen der Stadt Wuppertal
+- TOP 2.12: Schützenswerte Bäume in Wuppertal
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag der Landesgemeinschaft Naturschutz und Umwelt (LNU) - Erhalt der Baumschutzsatzung - ungeändert beschlossen
+- TOP 3.1.1: Bürgerantrag des BUND Erhalt der Baumschutzsatzung - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Erstellung einer Heiz- und Nebenkostenübersicht für Wuppertal - Nichtbefassung beschlossen
+- TOP 4.2: LKW-Nachtfahr- und Abstellverbot in Wohngebieten - zur Vorberatung verwiesen
+- TOP 4.3: Radfahrstreifen auf Fahrbahnen - zur Vorberatung verwiesen
+- TOP 4.4: Behandlung erfolgt unter TOP 11.10.1
+- TOP 4.5: Frauenhäuser NRW auf jetzigem Niveau absichern - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.5.1: Keine Kürzungen der Landeszuschüsse für Frauenhäuser - geändert beschlossen
+- TOP 4.6: Resolution zu den geplanten Mittelkürzungen der Landesregierung im Gesetz über Tageseinrichtungen fü - ungeändert beschlossen
+- TOP 4.7: Baumschutzsatzung - Nichtbefassung beschlossen
+- TOP 4.8: Resolution gegen Arbeitszeitverlängerung im öffentlichen Dienst - Nichtbefassung beschlossen
+- TOP 4.9: Weitere Ausgabe von Holzsammelscheinen - zur Vorberatung verwiesen
+- TOP 4.10: Nicht auf Kosten von Kindern und Jugendlichen sparen - vertagen
+- TOP 4.11: Umbenennung Kulturpreis Wuppertal - zur Vorberatung verwiesen
+- TOP 4.12: NETZWERK NEUES WUPPERTAL - zur Vorberatung verwiesen
+- TOP 4.13: Für ein familienfreundliches Wuppertal - zur Vorberatung verwiesen
+- TOP 4.14: Haushalt der ARGE 2006 - Eingliederungsprogramm - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 6: Ortsrecht
+- TOP 6.1: Aufhebung der Baumschutzsatzung - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Zuschuss an den SV Jägerhaus-Linde 1910 e.V. - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Erhöhung des Anteils der Stadt Wuppertal an der Historische Stadthalle Wuppertal GmbH - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan des GMW 2006 - vertagen
+- TOP 8.3: Bestellung eines Abschlussprüfers für den Jahresabschluss 2005 der Regionale 2006 Agentur GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 1024 V Uellendahler Straße / südlich Saarstraße - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 968 -Industriestraße- - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1018 -Steinhauser Bergstraße- - ungeändert beschlossen
+- TOP 9.4: Bauleitplanverfahren Nr.9 und 496 2.Änderung -Kuchhauser Str.- - ungeändert beschlossen
+- TOP 9.5: Bauleitplanverfahren Nr. 622 B - Friedrich-Engels-Allee/Ost - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Bau einer Aula für das Wilhelm-Dörpfeld-Gymnasium - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Sanierung des Opernhauses - ungeändert beschlossen
+- TOP 11.2: Sanierung des Schauspielhauses - ungeändert beschlossen
+- TOP 11.3: Konzeptionelle und strukturelle Entwicklungsperspektiven des Theaterangebotes-Neufassung - ungeändert beschlossen
+- TOP 11.4: Ausbau von Betreuungsplätzen für unter dreijährige Kinder - ungeändert beschlossen
+- TOP 11.5: Vorzeitige endgültige Schließung der Gemeinschaftsgrundschule Kohlstr. 122, 42109 Wuppertal - ungeändert beschlossen
+- TOP 11.6: Entwicklung der Offenen Ganztagsschule im Primarbereich ab Schuljahr 2006/2007 - ungeändert beschlossen
+- TOP 11.7: Döppersberg - PPP Markterkundungsverfahren - ungeändert beschlossen
+- TOP 11.8: Neuer Fördervertrag für die Landesarbeitsgemeinschaft Arbeit und Leben DGB/VHS Nordrhein-Westfahlen - ungeändert beschlossen
+- TOP 11.9: Vereinbarung zwischen den Städten Wuppertal und Remscheid über Einzelhandelsprojekte - vertagen
+- TOP 11.10: Grundfinanzierung des Wuppertal Institut - erledigt durch Beschluss zu einem anderen TOP
+- TOP 11.10.1: Änderungsantrag zu TOP 11.10/ VO/ 0180/06 - ungeändert beschlossen
+- TOP 11.10.2: Resolution: Finanzielle Weiterförderung des Wuppertal Instituts durch die Landesregierung - erledigt durch Beschluss zu einem anderen TOP
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Weiterführung der Ratskommission zur Neuausrichtung der Versorgungs- und der Verkehrssparte der WSW - geändert beschlossen
+- TOP 12.2: Benennung von Mitgliedern mit beratender Stimme für den Schulausschuss; - ungeändert beschlossen
+- TOP 12.3: Neuwahl eines stellvertretenden Mitglieds des Jugendhilfeausschusses - ungeändert beschlossen
+- TOP 12.4: Verwaltungsausschuss der Bundesagentur für Arbeit - ungeändert beschlossen
+- TOP 12.5: Benennung Vertretern der Stadt Wuppertal in der Zweckverbandsversammlung Bergische Volkshochschule - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.7: Ausschussumbesetzung - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
