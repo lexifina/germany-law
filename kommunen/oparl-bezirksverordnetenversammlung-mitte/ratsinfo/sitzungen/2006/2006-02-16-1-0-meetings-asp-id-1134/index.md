@@ -1,0 +1,95 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2006-02-16T17:30:00+01:00
+- Ende: 2006-02-16T22:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1134
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1134
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=51731
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - Anfrage "Schwarzer Kanal" - erledigt
+- TOP 2: Mitteilung - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfrage - (offen)
+- TOP 5.1: Bearbeitung der Altakten - beantwortet
+- TOP 5.2: Nachfrage zur Drs. 2067/II "SeniorInnen-Arbeit zur Querschnittsaufgabe machen!" - beantwortet
+- TOP 5.3: Kneipenkrieg am Rathaus Wedding - beantwortet
+- TOP 5.4: Brache Chausseestraße/ Ecke Liesenstraße - beantwortet
+- TOP 5.5: Prüfung der Gemeinnützigkeit von eingetragenen Vereinen - schriftlich beantwortet
+- TOP 5.6: Arbeitsmarktpolitisches Programm 2006 mit Fristverlängerung - schriftlich beantwortet
+- TOP 5.7: Personalkostenerstattungen für Job-Center-MitarbeiterInnen: Zinsen? Was ist das? - schriftlich beantwortet
+- TOP 5.8: Grundstück Chausseestraße/ Ecke Liesenstraße - schriftlich beantwortet
+- TOP 5.9: Kein Platz für Kinder bisher in der Auguststraße 5 - schriftlich beantwortet
+- TOP 5.10: Bauarbeiten an der Monbijoubrücke - schriftlich beantwortet
+- TOP 5.11: Umsetzung Drs. 1844/II ( Werbung um/ für Integration/ Migration) - schriftlich beantwortet
+- TOP 5.12: Umsetzung Drs. 1091/II ( Entwicklung von Gewerbe und Handwerk) - schriftlich beantwortet
+- TOP 5.13: Sondergenehmigungen Lärmschutzverordnung für den Gastronomiebereich während der WM? - schriftlich beantwortet
+- TOP 5.14: Straßenbeleuchtung Jülicher Straße - schriftlich beantwortet
+- TOP 5.15: Geschichtspark Zellengefängnis Moabit - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfrage - (offen)
+- TOP 6.1: Ende der unseligen unsozialen Odyssee der Berliner Tafel! - beantwortet
+- TOP 6.2: Seifenkistenrennen Badstraße - beantwortet
+- TOP 6.3: Schiffbauerdamm - beantwortet
+- TOP 7: Große Anfrage - (offen)
+- TOP 7.1: Sprachtest " Deutsch Plus" - in der BVV zurückgezogen
+- TOP 7.2: Chancen des erhöhten Verantwortungsbereiches der Geschäftsführung des Jobcenters - beantwortet
+- TOP 7.3: Partnerschaft zwischen Fethiye und dem Bezirk Mitte von Berlin - beantwortet
+- TOP 7.4: Finanzieller Schaden durch Außenstände im Sozialamt - schriftlich beantwortet
+- TOP 7.5: Integrationskonzept - Mündliche Anfrage Drs. 2045/II - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 8.1: Bebauungsplanentwurf VII-280 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes VII-280 - überwiesen
+- TOP 9: Vorlage zur Beschlussfassung - (offen)
+- TOP 10: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplan I-204 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-204 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Bebauungsplan 1-3B sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-3B - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: über vorhabenbezogenen Bebauungsplanentwurf 1-5VE sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-5VE - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Bebauungsplanentwurf III-233 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-233 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Bebauungsplan I-45 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-45 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Bebauungsplan III-201 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-201 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Bebauungsplanentwurf III-213b sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-213b - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Bebauungsplanentwurf 1-11B sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-11B - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Bebauungsplanentwurf III-242 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-242 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.10: Bebauungsplanentwurf I-52a sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-52a - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Dringlichkeitsantrag - (offen)
+- TOP 11.1: Ein Freibad für Moabit! - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Seifenkistenrennen in der Badstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Arge-Beirat endlich regelmäßig einberufen! - in der BVV zurückgezogen
+- TOP 11.4: Schiffbauerdamm - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Gleichberechtigte Verkehre durch die Invalidenstraße - überwiesen
+- TOP 12.2: Allein grün bringt mehr Sicherheit - überwiesen
+- TOP 12.3: Gewerbe im Randbereich des BND-Komplexes - in der BVV zurückgezogen
+- TOP 12.4: Finanziellen Schaden durch Außenstände im Sozialamt abwenden - überwiesen
+- TOP 12.5: Mehr Transparenz bei den Angeboten des Jobcenters - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Wirtschaftliche Entwicklung in Moabit Nord - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Sprachlerntagebuch unverzüglich einführen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Keine Diskriminierung von Jugendlichen und jungen Erwachsenen aus Bedarfsgemeinschaften bei der Berufsberatung - überwiesen
+- TOP 12.9: Zusammenarbeit von Jugendämtern und Schulen - überwiesen
+- TOP 12.10: Sprache als Schlüssel für eine erfolgreiche Integration - in der BVV abgelehnt
+- TOP 13: Antrag/Beschlussempfehlung - (offen)
+- TOP 13.1: Initiative des Kurt-Schumacher-Kreises für eine Gedenktafel in der Jägerstraße 60 unterstützen - in der BVV abgelehnt
+- TOP 13.2: Initiative des Kurt-Schumacher-Kreises für eine Gedenktafel am Potsdamer Platz unterstützen - in der BVV abgelehnt
+- TOP 13.3: Die Zentreninitiative "Mittendrin Berlin!" unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Grüne Linienstraße - in der BVV abgelehnt
+- TOP 13.5: Straßenbenennung nach James Simon - in der BVV abgelehnt
+- TOP 13.6: Abfederung des finanziellen Defizits des Kita-Eigenbetriebs - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlage zur Kenntnisnahme - (offen)
+- TOP 14.1: Erhalt der Beratungsstelle für Sehbehinderte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.2: Bedarfsgerechte Gestaltung des LuV Gesundheit in Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.3: Verkehrsleitung zur Stadtautobahnzufahrt Beusselstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Bahnhof "Gesundbrunnen" - regionale Identität bewahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Ampelschaltung am Großen Stern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.6: Berufstätige nicht vom Arge-Beirat ausschließen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.7: Entwicklung und Verwendung von Stiftungsmitteln der Erika-Heß-Stiftung im Haushaltsjahr 2005 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Einstellung des Bebauungsplans II-141a im Bezirk Mitte, Ortsteil Tiergarten, die Aufstellung des vorhabenbezogenen Bebauungsplans 1-41 VE im Bezirk Mitte, Ortsteil Tiergarten, Durchführung der Beteiligung der Behörden gemäß § 4 Abs. 1 Baugesetzbuch (BauGB) und der Öffentlichkeit gemäß § 3 Abs. 1 BauGB - mit Abschlussbericht zur Kenntnis genommen
