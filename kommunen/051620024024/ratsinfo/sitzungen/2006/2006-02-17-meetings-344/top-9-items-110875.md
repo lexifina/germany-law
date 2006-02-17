@@ -1,0 +1,6 @@
+# TOP 9: Erschl. Maastrichter Str., B-Plan 201/2 (Kanalbau)
+
+- Sitzung: Rat der Stadt Neuss (2006-02-17)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/110875
