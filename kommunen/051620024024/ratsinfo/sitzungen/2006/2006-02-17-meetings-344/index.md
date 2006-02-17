@@ -1,0 +1,54 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2006-02-17T16:03:00+01:00
+- Ende: 2006-02-17T20:51:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/344
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/344
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gen. DE Nr. 47 betr.: Übertr. v. Entsorgungsaufg.
+- TOP 2: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 3: Bürgermeisterkonferenz vom 09.02.2006
+- TOP 4: Genehmigung der Tagesordnung
+- TOP 5: Einwohnerfragestunde
+- TOP 6: Verzicht a. Prod. a. ausbeut. Kinderarbeit
+- TOP 7: SW-/RW-Kanal Wolbero-/Eintrachtstraße
+- TOP 8: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 9: Erschl. Maastrichter Str., B-Plan 201/2 (Kanalbau)
+- TOP 10: Bebauungskonzept Grimlinghausen-Südost
+- TOP 11: B-Plan 43/10, Auslegungsbeschluss
+- TOP 12: B-Plan 57/22, erneuter Auslegungsbeschluss
+- TOP 13: FNP-Änderung 108, Aufstellungsbeschluss
+- TOP 14: B-Plan 446, Aufstellungsbeschluss
+- TOP 15: Radverkehrsanlagen Friedrichstraße/Zollstraße
+- TOP 16: Radverkehrsanlagen Jülicher Straße
+- TOP 17: Umbau Bushaltestelle Schulzentrum
+- TOP 18: Umbau Bushaltestelle Stifterstraße
+- TOP 19: Umbau Einmündung Furtherhofstraße/Römerstraße
+- TOP 20: vorbereitende Untersuchungen südliche Furth
+- TOP 21: Ausbau Potsdamer Str., BPL 391(Straßenbau)
+- TOP 22: Ausbau Potsdamer Straße, BPL 391(Kanalbau)
+- TOP 23: Pumpstation u. MW-Kanal Grupellostraße
+- TOP 24: FNP-Änderung 104, Feststellungsbeschluss
+- TOP 25: Errichtung einer Golfanlage in NE-Uedesheim
+- TOP 26: Annahme Schenkung NE-Scheiben-Schützen
+- TOP 27: VHS und Musikschule Quirinusstraße 6
+- TOP 28: Entwurf SEP-Grundschulen
+- TOP 29: OGS-Schulen 06/07 und spätere
+- TOP 30: Antrag der CDU-Fraktion betr.: Sportschule
+- TOP 31: SPD: Sitzungen der Organe städt. Beteiligungen
+- TOP 32: B90/D.G.: Zurückst. b. z. Stadtentwicklungskonzept
+- TOP 33: UA/L.P.: Sicherheit der Bürger
+- TOP 34: Köp:Ne Gr. kreisang. Stadt (RAT170206-03605.DOC)
+- TOP 35: Einwohnerfragestunde
+- TOP 36: Erschl. Maastrichter Str.,BPL 201/2 (Straßenbau)
+- TOP 37: Bauleitplanung f. Grabeland Am Konebusch
+- TOP 38: Sanierung RW-Kanal Buschhausen
+- TOP 39: SW-/RW-Kanal Zufuhr-/ Salz-/ Düsseldorfer Str.
+- TOP 40: Umbesetzung von Ausschüssen und sonstigen Gremien
