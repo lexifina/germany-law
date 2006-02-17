@@ -1,0 +1,176 @@
+---
+ecli: "ECLI:DE:BVerfG:2006:rk20060217.2bvr020406"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 204/06"
+decided: "2006-02-17"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 3. Kammer des Zweiten Senats vom 17. Februar 2006\n- 2 BvR 204/06 -, Rn. 1-15,\n                    https://www.bverfg.de/e/rk20060217_2bvr020406"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2006/02/rk20060217_2bvr020406.html"
+corpus_doc_id: "BVerfG_2006-02-17_K_2_BvR_0204_06_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/stgb/0056c.md", "germany/bund/acts/stgb/0057.md", "germany/bund/acts/stpo/0454.md", "germany/bund/acts/stpo/0459f.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 204/06 vom 2006-02-17
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 2 BVR 204/06 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+des Herrn S...,
+
+gegen a) den Beschluss des Hanseatischen Oberlandesgerichts Hamburg vom 29.
+         Dezember 2005 - 1 Ws 227-228/05 -,
+
+       b) den Beschluss des Landgerichts Hamburg vom 22. November 2005 -
+          609 StVK 721 und 722/05 -
+
+hat die 3. Kammer des Zweiten Senats des Bundesverfassungsgerichts durch
+                                 den Richter Broß,
+                                 die Richterin Osterloh
+                                 und den Richter Mellinghoff
+
+gemäß § 93b in Verbindung mit § 93a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 17. Februar 2006 einstimmig beschlossen:
+
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+
+                                     Gründe:
+ Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil ein            1
+Annahmegrund nicht gegeben ist (§ 93a Abs. 2 BVerfGG). Grundsätzliche verfassungsrechtliche Bedeutung kommt der Verfassungsbeschwerde nicht zu, und sie
+dient auch nicht der Durchsetzung von Grundrechten oder grundrechtsgleichen
+Rechten des Beschwerdeführers; denn sie hat keine Aussicht auf Erfolg.
+
+  1. Es ist weder objektiv sachfremd noch willkürlich und daher von Verfassungs wegen nicht zu beanstanden (vgl. BVerfGE 18, 85 <92 f.>), dass die Fachgerichte mit
+Blick auf die Vielzahl der einschlägigen Vorstrafen, die große Anzahl der Geschädigten und die verübten Bewährungsbrüche von einem eingeschliffenen Handlungsmuster des Beschwerdeführers ausgingen und nicht zu der Auffassung gelangten, der
+Beschwerdeführer werde sich bei einer bevorstehenden Entlassung straffrei verhalten. Dabei durften die Fachgerichte auch berücksichtigen, dass der Beschwerdeführer bereits zweimal aus dem offenen Vollzug entwichen ist und im zweiten Fall anschließend zahlreiche weitere Straftaten beging. Allein das positive
+Vollzugsverhalten und der schlechte Gesundheitszustand des Beschwerdeführers
+mussten die Fachgerichte nicht von Verfassungs wegen zu einer gegenteiligen Entscheidung veranlassen.
+
+
+
+
+                                         1/5
+
+ 2. Die fachgerichtliche Würdigung der Entscheidungen der Justizvollzugsanstalt        3
+über die Versagung von Vollzugslockerungen lässt jedenfalls im Ergebnis keinen
+Verfassungsverstoß erkennen.
+
+ a) Der Beschwerdeführer zeigt nicht auf, weshalb die Fachgerichte von Verfassungs wegen von einem positiven Verlauf der mit der Psychologin geführten Gespräche und von einer erfolgreichen Schuldenregulierung hätten ausgehen müssen, sondern setzt den gegenteiligen Annahmen der Fachgerichte lediglich seine eigene
+Sichtweise ohne substantiierte Begründung entgegen.
+
+  b) Die Fachgerichte waren auch nicht von Verfassungs wegen gehalten, sich allein     5
+in Ansehung der bereits zehn Jahre zurückliegenden Eindrücke des Beschwerdeführers vom offenen Vollzug der Justizvollzugsanstalt Neuengamme dessen Auffassung
+anzuschließen, eine Verlegung dorthin sei dem Beschwerdeführer nicht zumutbar.
+Eine in diesem Zusammenhang in Bezug genommene Gerichtsentscheidung aus
+dem Jahre 2000 liegt hier nicht vor. Abgesehen davon hat der Beschwerdeführer
+nicht vorgetragen, dass die Lockerung notwendigerweise im offenen Vollzug der Justizvollzugsanstalt Neuengamme vollzogen würde, auf die sich seine Schilderungen
+beziehen.
+
+ c) Zwar ist es nicht gänzlich bedenkenfrei, dass sich das Oberlandesgericht aus der   6
+Überprüfung der Modalitäten der für die Vollzugslockerungen (auch) maßgeblichen
+Urinkontrolle von vornherein zurückgezogen hat; denn unbeschadet der Möglichkeit
+des Verurteilten, gerichtlichen Rechtsschutz gegen rechtlich belastende Einzelmaßnahmen zu erlangen, darf sich die Strafvollstreckungskammer bei ihrer Aussetzungsentscheidung gemäß § 57 StGB, § 454 StPO gegebenenfalls nicht damit abfinden,
+dass die Vollzugsbehörde ohne hinreichenden Grund - etwa auf der Grundlage bloßer pauschaler Wertungen oder mit dem Hinweis auf eine abstrakte Flucht- oder
+Missbrauchsgefahr - sich der Gewährung jener Vollzugslockerungen verweigert hat,
+die regelmäßig einer Entscheidung über die Aussetzung der Vollstreckung einer Freiheitsstrafe vorausgeht (vgl. Beschlüsse der 2. Kammer des Zweiten Senats des Bundesverfassungsgerichts vom 22. März 1998 - 2 BvR 77/97 -, NJW 1998, S. 2202
+<2203 f.> und vom 24. Oktober 1999 - 2 BvR 1538/99 -, NJW 2000, S. 502 <504>;
+Beschlüsse der 3. Kammer des Zweiten Senats des Bundesverfassungsgerichts vom
+11. Juni 2002 - 2 BvR 461/02 -, StV 2003, S. 677 f. und vom 11. Oktober 2004 - 2
+BvR 906/04 - <juris>). Auf der Grundlage des vom Beschwerdeführer geschilderten
+Sachverhalts ist es jedoch weder objektiv sachfremd noch willkürlich (vgl. BVerfGE
+18, 85 <92 f.>), dass die Fachgerichte die Verweigerung der Abgabe weiterer Urinproben durch den Beschwerdeführer nicht für berechtigt hielten.
+
+  aa) Es bedarf keiner Entscheidung, ob und inwieweit die Anordnung von unfreiwilligen Urinproben und die disziplinarrechtliche Sanktionierung im Weigerungsfalle verfassungsgemäß sind (vgl. OLG Koblenz, Beschluss vom 16. August 1989 - 2 Vollz
+(Ws) 28/89 - , NStZ 1989, S. 550 <551 f.>; OLG Zweibrücken, Beschluss vom
+30. März 1994 - 1 Ws 44/94 (Vollz) - <juris>; Lückemann, in: Arloth/Lückemann,
+
+
+
+                                         2/5
+
+StVollzG <2004>, § 56 Rn. 9; Calliess/Müller-Dietz, StVollzG, 10. Aufl. <2005>, § 56
+Rn. 5; kritisch dazu Boetticher/Stöver, in: Feest <Hrsg.>, StVollzG, 4. Aufl. <2000>,
+§ 56 Rn. 2; Ritter, ZfStrVo 1997, S. 109 f.; differenzierend Gericke, StV 2003, S. 305
+<307>; zum Ganzen vgl. auch Bühring, ZfStrVo 1994, S. 271 ff.). Zulässig ist jedenfalls die freiwillige Durchführung von Urinproben, insbesondere im Vorfeld von Vollzugslockerungen; denn die Sicherheit des Strafvollzugs und die mit der Gewährung
+der Vollzugslockerung angestrebte Resozialisierung wären bei einem Gefangenen
+gefährdet, der sich sogar unter den verschärften Bedingungen des geschlossenen
+Vollzuges Zugang zu Drogen verschafft hat (vgl. Bühring, a.a.O., S. 271 ff.; Grünebaum/Volckart, Maßregelvollzug, 6. Aufl. <2003>, S. 214 f.; LG Freiburg, NStZ 1988,
+S. 151; LG Kleve, NStZ 1989, S. 48: jedenfalls bei Bestehen gewisser Verdachtsmomente für einen Missbrauch; eher kritisch: Lesting, in: Feest <Hrsg.>, StVollzG,
+4. Aufl. <2000>, § 11 Rn. 47). Das Bundesverfassungsgericht hat im Übrigen die anlässlich der Strafaussetzung zur Bewährung gemäß § 56 c Abs. 1 StGB erteilte Weisung, während der Bewährungszeit Urinproben nach richterlicher Weisung abzugeben, verfassungsrechtlich nicht beanstandet (vgl. Beschlüsse der 2. Kammer des
+Zweiten Senats des Bundesverfassungsgerichts vom 21. April 1993 - 2 BvR 930/92 -
+, NJW 1993, S. 3315 <3315 f.> und vom 9. Juni 1993 - 2 BvR 368/92 - <juris>; vgl.
+auch OLG Zweibrücken, NStZ 1989, S. 578).
+
+ Im vorliegenden Fall handelt es sich um freiwillige Urinproben, zu denen sich der        8
+Beschwerdeführer im Rahmen der Vollzugsplanvereinbarungen zur Vorbereitung
+von Vollzugslockerungen bereit erklärt hat. Dass ihm mit Blick auf die verweigerte
+Urinprobe konkrete disziplinarische Sanktionen widerfahren oder angedroht worden
+wären, hat der Beschwerdeführer lediglich als abstrakte Möglichkeit erwähnt, für den
+konkreten Fall jedoch selbst nicht behauptet. Die Lockerungsvoraussetzung hatte
+auch einen konkreten Anknüpfungspunkt in der Person des Beschwerdeführers;
+denn nach den Feststellungen im Urteil des Landgerichts Dortmund vom 29. März
+2001 hatte er wiederholt Drogen konsumiert (zur Missbrauchsbefürchtung aufgrund
+der Lebensgeschichte als Lockerungshindernis vgl. Beschlüsse der 2. Kammer des
+Zweiten Senats des Bundesverfassungsgerichts vom 13. Dezember 1997 - 2 BvR
+1404/96 -, NJW 1998, S. 1133 <1134> und vom 26. Februar 2003 - 2 BvR 24/03 -
+<juris>).
+
+ bb) Aus dem Vortrag des Beschwerdeführers wird nicht hinreichend deutlich, weshalb die Fachgerichte seiner Auffassung, die Abgabe der Urinprobe sei nur auf Anordnung und in Anwesenheit eines Arztes zulässig gewesen, unter den Umständen
+des konkreten Falles hätten von Verfassungs wegen folgen müssen.
+
+ Nach der Rechtsprechung des Bundesverfassungsgerichts zur Abgabe von Urinproben im Rahmen der Bewährungsüberwachung ist die Tatsache, dass bei der Abgabe von Urin ein Mindestmaß an ärztlicher Aufsicht unerlässlich ist, um Manipulationen auszuschließen, kein Umstand, durch den in den vom Gebot der
+Unverletzlichkeit der Menschenwürde verbürgten Schutz vor solchen Verletzungen
+der Persönlichkeitssphäre eingegriffen wird. Zwar mag der Vorgang als solcher das
+
+
+                                          3/5
+
+Schamgefühl berühren und kann mit Unannehmlichkeiten verbunden sein. Für die
+mit der erteilten Weisung eingeforderte Abgabe von Urin wird der Betroffene aber
+nicht zu einem bloßen "Schauobjekt" erniedrigt. Die Maßnahme dient weder der
+Herabwürdigung noch sonstigen rechtlich zu missbilligenden Zwecken, sondern unmittelbar der Resozialisierung des Straftäters, an der die Allgemeinheit ein überragendes Interesse hat (vgl. Beschluss der 2. Kammer des Zweiten Senats des Bundesverfassungsgerichts vom 21. April 1993 - 2 BvR 930/92 -, NJW 1993, S. 3315
+<3315 f.> und vom 9. Juni 1993 - 2 BvR 368/92 - <juris>).
+
+  d) Der Beschwerdeführer kann - etwa unter dem Gesichtspunkt des Vertrauensschutzes - auch nicht daraus etwas für sich herleiten, dass die Strafvollstreckungskammer im März 2005 angekündigt hat, im Herbst 2005 müsse eine ernsthafte Prüfung der vorzeitigen Entlassung des Antragstellers erfolgen, falls u.a. die positive
+Entwicklung fortdauere und gegebenenfalls zu gewährende Lockerungen positiv verlaufen sollten. Vorgaben oder gar Zusagen betreffend die Gewährung solcher Lockerungen waren damit nicht verbunden.
+
+ 3. Soweit der Beschwerdeführer vorträgt, Anträge auf gerichtliche Entscheidung            12
+über die Versagung von Ausgängen zur Entlassungsvorbereitung seien zu Unrecht
+abgelehnt oder absichtlich verspätet bearbeitet worden, ist nicht ersichtlich, dass diese Behauptungen bereits Gegenstand des fachgerichtlichen Verfahrens gewesen
+wären.
+
+  4. Es bedarf keiner Entscheidung durch das Bundesverfassungsgericht, ob auch die         13
+Aussetzung der weiteren zu vollstreckenden Ersatzfreiheitsstrafen mit der hier in Rede stehenden Freiheitsstrafe gemäß § 57 Abs. 1 StGB zu erfolgen hat oder ob die
+§§ 459 ff. StPO, insbesondere § 459 f StPO, eine abschließende Regelung bilden
+(zur Streitfrage m.w.N. vgl. Tröndle/Fischer, StGB, 53. Aufl. <2006>, § 57 Rn. 3 unter
+Hinweis auf die geringe praktische Bedeutung der Streitfrage).
+
+ 5. Unter Berücksichtigung der genannten Umstände ist auch die Verhängung einer            14
+Sperrfrist von sechs Monaten nicht unverhältnismäßig.
+
+ Diese Entscheidung ist unanfechtbar.                                                      15
+
+                 Broß                  Osterloh              Mellinghoff
+
+
+
+
+                                           4/5
+
+Bundesverfassungsgericht, Beschluss der 3. Kammer des Zweiten Senats vom
+17. Februar 2006 - 2 BvR 204/06
+
+Zitiervorschlag BVerfG, Beschluss der 3. Kammer des Zweiten Senats vom 17. Februar 2006 - 2 BvR 204/06 - Rn. (1 - 15), http://www.bverfg.de/e/
+                rk20060217_2bvr020406.html
+
+ECLI            ECLI:DE:BVerfG:2006:rk20060217.2bvr020406
+
+
+
+
+                                      5/5
