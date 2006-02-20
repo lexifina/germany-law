@@ -1,0 +1,15 @@
+# 20. Änderung des Flächennutzungsplanes, Teil 2, Ortsteil Velen, zur Ausweisung eines Sondergebietes "Lebensmitteleinzelhandel" auf dem Gelände der Gärtnerei Hardeweg sowie weitere Überplanungen von Wohnbau- und Mischflächen und einer Grünfläche a) Ergebnis der erneuten Offenlegung gemäß § 4a Abs. 3 BauGB b) Feststellungsbeschluss
+
+- Körperschaft: Stadt Velen
+- Drucksache/Vorlage: 6/2006 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2006-02-20
+- Ratsinformationssystem: https://velen.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZegL1FMfewEBOLy8v0GJ73M
+- OParl: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/907
+- Quelle: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (20. Änderung des Flächennutzungsplanes, Teil 2, Ortsteil Velen, zur Ausweisung eines Sondergebietes "Lebensmitteleinzelhandel" auf dem Gelände der Gärtnerei Hardeweg sowie weitere Überplanungen von Wohnbau- und Mischflächen und einer Grünfläche
+a)  Ergebnis der erneuten Offenlegung gemäß § 4a Abs. 3 BauGB
+b)  Feststellungsbeschluss) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTLY5gsH5IHIMeTp2PMJt7Xs96YqzyZv5dQ6YxniCUE1/Beschlussvorlage_6-2006_1._Ergaenzung.pdf
+- Beratung:  https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/752 https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-4
+- Beratung:  https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/759 https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-188
