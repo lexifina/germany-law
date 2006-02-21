@@ -1,0 +1,6 @@
+# TOP A.4: Information über die Baustelle B 239 durch den Landesbetrieb Straßenbau
+
+- Sitzung: Verkehrsausschuss (2006-02-21)
+- Körperschaft: Stadt Herford
+- Öffentlich: ja
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/17357
