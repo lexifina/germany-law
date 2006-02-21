@@ -1,0 +1,61 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2006-02-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/827304
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/827304
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: 2. S-Bahnstammstrecke München
+- TOP 2.2.: LEP 2006 - Flughäfen Umland München West
+- TOP 2.3.: Ausbau der Rothenfelserstraße
+- TOP 2.4.: BAB A 99 Autobahnring München Westabschnitt, Streckenabschnitt Unterpfaffenhofen-Aubing-Lochhausen
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz, Anhörungen zu Baumfällungen
+- TOP 6.2.: Sponsoring bei der Landeshauptstadt München
+- TOP 6.3.: Fragebogen zu REGSAM, Einschätzung der Bezirksausschüsse
+- TOP 6.4.: Erstmalige Herstellung der Harburger Straße und der Wildlenburgerstraße
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Zweckentfremdung von Wohnraum, Schwemmstr. 14, Schr. des Sozialreferates vom 18.01.06
+- TOP 7.2.: Baufälle im 22. Stadtbezirk (v. 16.-22.01.06, v. 23.-29.01.06, 30.01.-05.02.06)
+- TOP 7.3.: Finanzplan 2005-2009, Schr. der Stadtkämmerei vom 16.01.06
+- TOP 7.4.: Unveränderte Fortführung "Mehecske Csarda Bienenheim Cafe Restaurant", Bienenheimstr. 1, Schr. des KVR vom 16.01.06
+- TOP 7.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6.: Wirtschafts-Info 1/06, Mitteilung des Referates für Arbeit und Wirtschaft vom 31.01.06
+- TOP 7.7.: Info zu Budget-Anträgen von Alten- und Service-Zentren, Schr. des Direktoriums vom 31.01.06
+- TOP 7.8.: Verkehrsrechtliche Anordnung, Bergsonstraße, 30 km/h-Geschwindigkeitsbeschränkung, Schr. des KVR vom 04.01.06
+- TOP 7.9.: Unveränderte Fortführung "Mekan", Limesstr. 39, Schr. des KVR vom 31.01.06
+- TOP 7.10.: Zusammenarbeit der Stadtwerke München GmbH mit den Bezirksausschüssen, Schr. der SWM vom 30.01.06
+- TOP 7.11.: Live-Musik in Aussegnungshallen, Antrag des BA 12 vom 01.02.06
+- TOP 7.12.: Plangenehmigung nach § 18 Abs. 2 AEG; ESTW München Südwest; Strecke 5540 München Hbf - Gauting, PA München Pasing - Gauting; Strecke 5504 München Hbf - Mittenwald, PA München Pasing - Tutzing, Kabeltrasse, Schr. des Planungsreferates vom 02.02.06
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Wegeverbindung von der Alto-, über die Lidel- in die Industriestraße, Schr. des Planungsreferates vom 16.01.06 zum BA-Antrag Nr. 694 vom 19.10.05
+- TOP 8.2.: Rückschnitt des Buschwerkes an der Westseite der Wiesentfelser Straße auf Höhe der Lichtmasten 38 und 45, Schr. des Baureferates vom 17.01.06 zum BA-Antrag Nr. 831 vom 20.12.05
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Ausschuss für Stadtplanung und Bauordnung vom 01.02.06 - "Wohnen in München, III" - München Modell
+- TOP 9.2.: Bauausschuss vom 07.02.06 - Verkehrsgerechter Straßenausbau der Bahnunterführung Bergsonstraße, Empf. Nr. 122 der Bürgerversammlung vom 23.06.05 - Wiederherstellung von Leitungsschächten in Straßen
+- TOP 9.3.: Ausschuss für Stadtplanung und Bauordnung und des Verwaltungs- und Personalausschusses vom 08.02.06 - Beteiligung im Netz
+- TOP 9.4.: Vollversammlung vom 26.01.05 - Gesamtfortschreibung des Landesentwicklungsprogramms Bayern (LEP)
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 22.03.2006, Gaststätte "Wienerwald", Limesstr. 63
