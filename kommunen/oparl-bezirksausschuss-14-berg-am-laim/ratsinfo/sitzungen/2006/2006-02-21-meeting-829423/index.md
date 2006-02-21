@@ -1,0 +1,85 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2006-02-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/829423
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/829423
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1: Vollzug von § 13 der BA-Satzung ? Katalog-Angelegenheit Nr. 7.2 Anhörung im Einzelfall auf Anforderung Rosenheimer Str. 143 Nutzungsänderung: Produktionshalle zu Veranstaltungshalle (Verlängerung bis 31.12.2007) - TEKTUR
+- TOP 3.1.1: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 Abs. 2 AEG; Rückbau von Gleis- und Oberleitungsanlagen am ehemaligen Bahnbetriebswerk 4 Gemarkung Berg am Laim
+- TOP 3.1.2: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG); Neubau einer Eisenbahnüberführung (Geh- und Radwegunterführung) und barrierefreier Ausbau des S-Bahn-Haltepunkt Berg am Laim; in der Landeshauptstadt München; Bahn-km 2,427 der Eisenbahnstrecke 5660 München Ost (Pbf) ? Simbach am Inn; Tektur; -Anhörungsverfahren- Az. 610-II-11-PLF 04/06 - EÜ Berg am Laim
+- TOP 3.1.1: Auflassung des schnellen Rechtsabbiegers an der Kreuzung Innsbrucker Ring ? Ecke Schlüsselbergstraße ? Antrag 859 des BA 14 vom 25.10.2005
+- TOP 3.1.2: Innsbrucker Ring; Errichtung eines Gefahrenzeichens § 136 StVO ? Antrag 858 des BA 14 vom 25.10.2005
+- TOP 3.1.3: Veranstaltung auf öffentlichem Verkehrsgrund 2. München-Triathlon am 30.07.2006 Antwort des KVR auf die Stellungnahme des BA 14 vom 06.12.2005
+- TOP 3.1.4: Ampelanlage Berg-am-Laim-Straße / Leuchtenberg-Unterführung Bürgerschreiben
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.1: Erweiterung und Ausbau der BA-Rechte Bitte der Bürgermeisterin um Stellungnahme zum Antrag Nr. 648 des BA 13 Bogenhausen
+- TOP 3.1.2: Fehwiesenstraße 104 - Antrag auf Baumfällung
+- TOP 3.1.1: Streitfeldstraße 37 - Antrag auf Baumfällung
+- TOP 3.1.2: Piusplatz 7 / 8 - Antrag auf Baumfällung
+- TOP 3.1.3: Bikkarspitzstraße Fl. Nr. 219/6 - Antrag auf Baumfällung
+- TOP 3.1.4: Berg-am-Laim-Str. 47 - Antrag auf Baumfällung
+- TOP 3.1.5: Ulrichsbergstraße 9 - Antrag auf Baumfällung
+- TOP 3.1.6: Bad-Schachener-Str.- Antrag auf Baumfällung
+- TOP 3.1.7: Anzinger Str. 5 - Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1: Aktualisierung des Flächennutzungsplanes und Aufstellung des Landschaftsplanes ? Teilbereich VI ? Südost a) Grünwalder Straße (nördlich), Kurzstraße (westlich) b) Tegernseer Landstraße (östlich), Naupliastraße (nördlich) c) Rosenheimer Straße (westlich), St.-Martin-Straße (nördlich) d) Stadelheimer Straße (südlich), Amerstorffer Straße (östlich)
+- TOP 4.1.1: A) Bebauungsplan mit Grünordnung Nr. 1882 Hachinger-Bach-Straße (nördlich), Langkofelstraße (Teiländerung des Beb.Pl. Nr. 1725) ? Griechische Schule ? B) Änderung des Bebauungsplanes mit Grünordnung Nr. 1725 Kreillerstraße (südlich), Heinrich-Wieland-Straße (nördlich), Langkofelstraße (westlich), Echardinger Straße (östlich)
+- TOP 4.1.2: ?Wohnen in München III? ? München Modell Grundsatzbehandlung der Modalitäten für das München Modell a) Überblick über die bisherige Entwicklung der Modalitäten b) Vermietungszahlen im München Modell ? Miete seit Mai 2005 c) Fortführung des München Modells auf der Basis der geltenden Modalitäten d) Bilanz ?10 Jahre München Modell?
+- TOP 4.1.3: Meldeliste der Bauvorhaben zwischen 16.01.2005 ? 12.02.2006
+- TOP 4.1.4: Fassadenwettbewerb der Landeshauptstadt München, hier: Erweiterung der ehrenamtlichen Gutachterkommission um eine Vertreterin / einen Vertreter der DachdeckerInnung München-Oberbayern
+- TOP 4.1.1: Verkehrskonzept für den Münchner Osten a) Zusammenfassung der Ergebnisse der Untersuchungen zum Verkehrskonzept b) Öffentlichkeitsphase zu den Untersuchungen zum Verkehrskonzept f.d. Münchner Osten c) Entscheidungsvorschlag d) Anträge und Empfehlungen
+- TOP 4.1.2: Zusammenarbeit SWM / Bezirksausschüsse
+- TOP 4.1.3: Wiederherstellung von Leitungsschächten in Straßen
+- TOP 4.1.4: Antrag auf Genehmigung einer Warenstellage in der Baumkirchner Straße
+- TOP 4.1.5: Buslinie 187 - Optimierung der Anschlussbeziehungen an der S-Bahn-Station Berg am Laim - Bürgerschreiben
+- TOP 4.1.6: Informationen über derzeit anstehende und laufende Bauvorhaben der Stadtwerke München ? Aufstellung Stichtag 10.02.2006
+- TOP 4.1.1: Keine Errichtung eines Bürgerhauses im Stadtbezirk 14 ? Berg am Laim
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.1: Auswertung der Ergebnisse des Kinder-Aktions-Koffer-Einsatzes in Berg am Laim
+- TOP 4.1.2: Sprengelbildung - HS Messestadt-Riem (neu zu errichten) - HS Feldbergstraße - HS Inzeller Weg
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.1: Live-Musik in Aussegnungshallen
+- TOP 4.1.2: Beteiligung im Netz ? Die Stadt verbessert in Ihrem Internetauftritt die Angebote zur Beteiligung im Netz
+- TOP 4.1.3: Sponsoring bei der Landeshauptstadt München
+- TOP 4.1.4: Vollzug der Grünanlagensatzung für diverse Veranstaltungen in Berg am Laim
+- TOP 4.1.5: Friedenstraße 10, ?Optimolwerke? ? Spiegelzelt ? Antrag auf unveränderte Fortführung
+- TOP 4.1.1: Schlüsselbergstraße 1 - Bescheid über Baumfällung
+- TOP 4.1.2: Berg-am-Laim-Str. 80 - Bescheid über Baumfällung
+- TOP 4.1.3: Wildenwarter Str. 12 - Bescheid über Baumfällung
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
