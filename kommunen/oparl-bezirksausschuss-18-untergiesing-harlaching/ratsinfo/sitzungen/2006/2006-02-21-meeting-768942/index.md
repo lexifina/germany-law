@@ -1,0 +1,115 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2006-02-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/768942
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/768942
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Bürgeranliegen - Wörnbrunner Platz (Beleuchtung und Verbesserung der Freizeitanlage, Unterstand); Schreiben des Sozialreferats und Bürgerantrag vom 19.01.2006
+- TOP 2.2.: Weitere Planung rund um den Candidplatz; Bürgerschreiben vom 30.01.2006
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Grundschule Rotbuchenstraße, für die Maßnahme: Erweiterung der Schülerbücherei; Antragssumme: 3.000 Euro; Beschlussvorlage des Direktoriums vom 24.01.2006
+- TOP 3.2.: AntragstellerIn: ASZ Untergiesing, für die Maßnahme: Fest der Nationen am 26.01.2006; Antragssumme: 350 Euro; Beschlussvorlage des Direktoriums vom 24.01.2006
+- TOP 3.3.: AntragstellerIn: Grundschule Rotbuchenstraße, für die Maßnahme: Kauf von zwei Gerätschaften für den Zirkus-Unterricht; Antragssumme: 2008 Euro; Beschlussvorlage des Direktoriums vom 24.01.2006
+- TOP 3.4.: AntragstellerIn: Münchner Konzertchor e.V., für die Maßnahme: Oratorium in der Emmauskirche am 07.10.2006; Antragssumme: 1.000 Euro; Beschlussvorlage des Direktoriums vom 24.01.2006
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: ASZ Untergiesing, für die Maßnahme: offene Altenhilfe in Untergiesing; Antragssumme: 11.360 Euro; Antrag vom 16.01.2006
+- TOP 3.2.: AntragstellerIn: Elternbeirat d. Grundschule a. d. Fromundstraße, für die Maßnahme: je ein Selbstbehauptungskurs für Mädchen und Jungen; Antragssumme: 1701 Euro; Antrag vom 25.01.2006
+- TOP 3.3.: AntragstellerIn: H. Sauter, für die Maßnahme: Bildungsveranstaltung: vorstellung der Entwicklung der Kinder im Vorschulbereich in Kirov; Antragssumme: 1.800 Euro; Antrag vom 27.01.2006
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Verlängerung des Haltverbotes in der Geiselgasteigstraße; Anhörung gem. § 3 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 31.01.2006 mit der Bitte um Stellungnahme binnen 6 Wochen
+- TOP 3.2.: Antrag Bürgersprechstunde "LZA-Nachtabschaltung Nauplia- / St.-Magnus-Straße"; Schreiben des KVR vom 02.02.2006 mit der Bitte um Stellungnahme
+- TOP 3.1.: 27. Bayern-Rundfahrt vom 24. - 28. Mai 2006; Vollzug der StVO; Mitteilung des KVR vom 16.01.2006 mit der Bitte um Kenntnisnahme
+- TOP 3.2.: Lichtzeichenanlagen-Bauprogramm 2006; Beschluss des Kreisverwaltungsausschusses vom 24.01.2006 (SB)
+- TOP 3.3.: Plattnerstraße südwestl. von Haus Nr. 2; Feuerwehrzufahrt für Pilgersheimer Str. 9 -11; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR vom 09.12.2005
+- TOP 3.4.: Parkplätze an der Schönstraße; Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2006 (SB)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Neue Pläne zur Isarrenaturierung am Deutschen Museum! Neue Pläne zum Isar-Plan; Beschluss des Bauausschusses vom 17.01.2006 (SB)
+- TOP 3.2.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen in der Theodolindenstr.; Bescheid vom 30.12.2005 3.3.6.1.2 Anwesen in der Seybothstr.; Bescheid vom 30.12.2005 3.3.6.1.3 Anwesen am Wörnbrunner Platz; Bescheinigung vom 24.01.2006
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Erhalt der Palliativstation im Krankenhaus Harlaching; Schreiben des Referats für Gesundheit u. Umwelt vom 23.01.2006 zum Antrag des BA 18 vom 18.10.2005 (positive Erledigung)
+- TOP 3.2.: Städt. Theodolinden-Gymnasium; Am Staudengarten 2; Errichtung einer neuen Sporthalle; Antwort des Schul- u. Kultusreferats (Abt. Bau u. Planung) vom 27.01.2006 zum Schreiben des BA 18 vom 23.12.2005
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen in der Hans-Mielich-Str.; Anhörung vom 24.01.2006
+- TOP 3.2.: Anwesen in der Cannabichstr. 3; Anhörung vom 18.01.2006
+- TOP 3.3.: Anwesen in der Cannabichstr. 5; Anhörung vom 18.01.2006
+- TOP 3.4.: Anwesen in der Cannabichstr. 7; Anhörung vom 19.01.2006
+- TOP 3.5.: Anwesen in der Cannabichstr. 9; Anhörung vom 19.01.2006
+- TOP 3.6.: Anwesen in der Cannabichstr. 11; Anhörung vom 19.01.2006
+- TOP 3.7.: Anwesen in der Lohstraße; Anhörung vom 19.01.2006
+- TOP 3.8.: Anwesen in der Wunderhornstr.; Anhörung vom 24.01.2006
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Anwesen in der Langobardenstr.; Anhörung vom 24.01.2006
+- TOP 3.2.: Anwesen in der Cannabichstr.; Anhörung vom 31.01.2006
+- TOP 3.3.: Anwesen in der Formundstr. 1; Anhörung vom 31.01.2006
+- TOP 3.4.: Anwesen in der Fromundstr. 5; Anhörung vom 31.01.2006
+- TOP 3.5.: Anwesen im Fliederweg (Haus 1 bis Haus 4; 4 Planunterlagen); Anhörung vom 31.1.2006
+- TOP 3.1.: Aktualisierung des Flächennutzungsplanes und Aufstellung des Landschaftsplanes Teilbereich VI - Südost; Endgültiger Beschluss; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.02.2006
+- TOP 3.2.: Wiederherstellung von Leitungsschächten in Straßen (Ziffer 2 des Antrags); Beschluss des Bauausschusses vom 07.02.2006 (SB)
+- TOP 3.3.: Baufälle im 18. Stadtbezirk
+- TOP 3.4.: "Wohnen in Münhen, III" - München Modell; Grundsatzbehandlung der Modalitäten für das München Modell; a) Überblick über die bisherige Entwicklung der Modalitäten b) Vermietungszahlen im München Modell-Miete seit Mai 2005 c) Forführung des München Modells auf der Basis der geltenden Modalitäten d) Bilanz "10 Jahre München Modell" Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2006 (VB)
+- TOP 3.5.: Beschlussvollzugskontrolle (BVK); 2. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 31.12.2005; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006
+- TOP 3.6.: Gaststätten (unveränderte Forführungen); Mitteilungen des KVR 3.5.6.6.1 SSW "al Dente", Schönstraße; Mitteilung vom 04.01.2006
+- TOP 3.7.: Auswirkungen der Verfahrensbeschleunigung für Bundesvorrangprojekte; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2006 (SB)
+- TOP 3.8.: Kommunales Wohnungsbauförderungsprogramm - KomPro B; Ausschreibung von Grundstücken; Schreiben des Sozialreferats vom 05.01.2006
+- TOP 3.9.: Aktuelle Baumaßnahmen in München zum Stichtag 06.02.2006; Mitteilung der Stadtwerke München GmbH vom 06.02.2006
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Live-Musik in Aussegnungshallen; Anträge desBA 12 vom 29.06.04 und 26.07.2005 mit der Bitte um Unterstützung
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Beteiligung im Netz; Die Stadt verbessert in ihrem Internetauftritt die Angebote zur Beteiligung im Netz; Antrag Nr. 02-08 / A 01941 von Herrn Stadtrat A. Reissl vom 07.09.2004; Beschluss des Ausschusses für Stadtplanung und Bauordnung und des Verwaltungs- und Personalausschusses in gemeinsamer Sitzung am 08.02.2006 (SB)
+- TOP 4.2.: Finanzplan 2005 - 2009; Zuleitung der Stadtkämmerei vom 16.01.2006
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
