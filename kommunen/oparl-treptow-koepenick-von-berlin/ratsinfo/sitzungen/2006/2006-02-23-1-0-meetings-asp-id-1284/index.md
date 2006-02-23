@@ -1,0 +1,70 @@
+# 47. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2006-02-23T16:30:00+01:00
+- Ende: 2006-02-23T21:45:00+01:00
+- Ort: Alt-Köpenick 21, 12555 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1284
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1284
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. V_49 - beantwortet
+- TOP 8: Personelles/Wahlen - gegenstandslos
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - gegenstandslos
+- TOP 10: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 10.1: Steganlagenkonzeption - beantwortet
+- TOP 10.2: Sozialhilfe/Arbeitslosengeld II - beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - gegenstandslos
+- TOP 11.1: - Entwurf des Bebauungsplans XVI-15 ("Stellingdamm-Dreieck") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - Entwurf der Rechtsverordnung zum Bebauungsplan XVI-15 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: - Entwurf des Bebauungsplans XVI-24 ("Nördlicher Bullenacker") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - Entwurf der Rechtsverordnung zum Bebauungsplan XVI-24 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: - Entwurf des Bebauungsplans XV-37b (Gartenstadt "Falkenberg" - Johannes-Tobei-Straße) im Bezirk Treptow-Köpenick von Berlin, Ortsteil Bohnsdorf - Entwurf der Rechtsverordnung zum Bebauungsplan XV-37b im Bezirk Treptow-Köpenick von Berlin, Ortsteil Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 12.1: Luftmessstation Köpenick-Nord - überwiesen
+- TOP 12.2: Erinnerungstafeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Strandbad Müggelsee - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Wagendorf Lohmühle - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Konkretisierung und Fortschreibung der städtebaulichen Sanierungsziele für das Sanierungsgebiet Niederschöneweide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Zeitbegrenzung beim Parken - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: PKW-Stellplätze Wuhlheide - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Fußgängersteg über die Müggelspree - überwiesen
+- TOP 12.9: - Entwurf des Bebauungsplans XV-23 und Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan XV-23 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: - Entwurf des Bebauungsplans XV-37a (Gartenstadt "Falkenberg" - Am Gartenstadtweg) im Bezirk Treptow-Köpenick von Berlin, Ortsteil Bohnsdorf - Entwurf der Rechtsverordnung zum Bebauungsplan XV-37a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Tag der kommunalen Partnerschaften - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Schmetterlingshorst - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 13.1: Bebauungsplan XVI-90 ("Sondergebiet Wassersportallee") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Benennung der 1. Oberschule (Realschule) Am Plänterwald 17, 12435 Berlin in Sophie-Brahe-Schule (Realschule) Herstellen des Einvernehmens mit der zuständigen Schulbehörde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Bebauungsplanverfahren 9-21 ("Sterndamm") im Bezirk Treptow-Köpenick, Ortsteil Johannisthal - Auswertung der frühzeitigen Beteiligung der Öffentlichkeit - Auswertung der frühzeitigen Beteiligung der Behörden - Auswertung der Beteiligung der Behörden- Änderung des Geltungsbereiches - überwiesen
+- TOP 13.4: Realisierung der Straßenbauinvestition 4212/73815 "Umbau der Wendenschloßstraße zwischen Müggelheimer Straße und Salvador-Allende-Straße" und Bewertung der Erschließungsbeitragspflicht gemäß BerlStrG § 7 (7) - überwiesen
+- TOP 14: Anträge - gegenstandslos
+- TOP 14.1: Verkehrsorganisation Schöneweide - überwiesen
+- TOP 14.2: Befristetes Halteverbot / Parkverbot in der Regattastrasse, Wassersportallee, Rabindranath-Tagore-Strasse - überwiesen
+- TOP 14.3: Mittel für Programm "Schule und Verein" - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Markierung von Radwegen in Grünanlagen - überwiesen
+- TOP 14.5: Optimierung der Wartezeiten in den Bürgerämtern - überwiesen
+- TOP 14.6: Veränderung der Ampelschaltung am Köllnischen Platz - überwiesen
+- TOP 14.7: Zivilschutzgelände Bohnsdorf - überwiesen
+- TOP 14.8: Rathenauplatz in Oberschöneweide - in der BVV abgelehnt
+- TOP 14.9: Paul-Rahn-Straße - überwiesen
+- TOP 14.10: Vorfahrt für Busse in der Wegedornstraße - im Ältestenrat zurückgezogen
+- TOP 14.11: Maßnahmen der Verkehrsführung und der Schulwegsicherung in der Radenzer Straße (Berlin-Baumschulenweg) - überwiesen
+- TOP 14.12: Straße "Zur Fähre" - überwiesen
+- TOP 14.13: Schleppkurve Altglienicke - überwiesen
+- TOP 14.14: Hundekotbeseitigung in Baumschulenweg unterstützen - überwiesen
+- TOP 14.15: Ehemalige Tagesbar im Treptower Park - überwiesen
+- TOP 14.16: Kopierhilfe für den Kulturbereich - in der BVV zurückgezogen
+- TOP 15: Große Anfragen - gegenstandslos
+- TOP 15.1: Grundstückswertverluste - beantwortet
+- TOP 15.2: Kürzungen bei Kultureinrichtungen - beantwortet
+- TOP 15.3: Einrichtung einer Einbahnstraße bzw. der Sperrung für den Durchgangsverkehr im Bereich Drosselsteg, Am Kanal, Tauchersteig - vertagt
