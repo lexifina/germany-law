@@ -1,0 +1,60 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-02-28T17:00:00+01:00
+- Ende: 2006-02-28T00:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1752
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1752
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111620.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111620.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111620.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Zielkonzept VEP
+- TOP 6: Nachtverkehrskonzept ÖPNV
+- TOP 7: Sonntagsfreigaben
+- TOP 8: Seniorentag 2006
+- TOP 9: Kunstrasen verschiedene Sportanlagen
+- TOP 10: Geschwindigkeitsregelung Bergische Landstraße
+- TOP 11: Wanderwege in Düsseldorf
+- TOP 12: Sicherheit für Kinder im Straßenverkehr
+- TOP 13: Denkmalschutz Gerresheimer Bahnhof
+- TOP 14: Stolpersteine
+- TOP 15: Bürgerhaus
+- TOP 16: Umlaufschranke zw. Wambachweg u. Wiebachweg
+- TOP 17: Rad- u. Fußweg Zweibrückenstraße
+- TOP 18: Spielgeräte Nachbarschaftspark Diepenstraße
+- TOP 19: Situation der Grundschulen im Stadtbezirk 7
+- TOP 20: Trauzimmer im Gerresheimer Rathaus
+- TOP 21: Rathaus Gerresheim
+- TOP 22: Aufstellung Haushaltsplan 2007
+- TOP 23: Ursula-Trabalski-Straße Ursula-Trabalski-Straße
+- TOP 24: Rathaus Gerresheim
+- TOP 25: Müllcontainer
+- TOP 26: Buslinie 730
+- TOP 27: Haltestelle Neuenhaus Richtung ME
+- TOP 28: Haltestelle "Vor der Hardt"
+- TOP 29: Grundschule Knittkuhl/Offene Ganztagsschule
+- TOP 30: Quellenbusch
+- TOP 31: Veranstaltungen im Stadtbezirk während der WM
+- TOP 32: Werkstattverfahren
+- TOP 33: Bürgersaal Gerresheim
+- TOP 34: Gehölzbestand Gerresheimer Gymnasium
+- TOP 35: Situation des Sports in Knittkuhl
+- TOP 36: Gebäudeschäden Ostparksiedlung
+- TOP 37: Schulbezirke
+- TOP 38: Bürgerbeteiligung-Verwaltungstransparenz
+- TOP 39: Einmündungsbereich Stratenweg
+- TOP 40: Abwasserbeseitigung Gehöft Plungscheuer
+- TOP 41: Altenbergstraße
+- TOP 42: Verlegung der Bushaltestelle Neuenhaus
+- TOP 43: Ursula-Trabalski-Straße
