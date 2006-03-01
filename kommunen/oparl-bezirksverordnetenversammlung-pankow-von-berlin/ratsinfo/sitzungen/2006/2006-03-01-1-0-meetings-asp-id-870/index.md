@@ -1,0 +1,84 @@
+# 39. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2006-03-01T17:30:00+01:00
+- Ende: 2006-03-01T17:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=870
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=870
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=17426
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - erledigt
+- TOP 1.2: Geschäftliche Mitteilung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.3: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.4.1: Gewerbehof Greifswalder Str. 212 als Gewerbehof erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Drucksachen der 38. Tagung der BVV - bereits ausgereicht - (offen)
+- TOP 1.8.1: Mehr Sicherheit und Platz für die Schüler/innen der Rosa-Luxemburg-Oberschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.8.2: Straßenausbaubeitragsgesetz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.8.3: Bebauungsplanentwurf XVIII-29 für das Gelände zwischen dem Reichsbahnaußenring, dem Lindenberger Weg und der Klagenfurther Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.9: Ergänzungsplan des Bezirks Pankow zum Doppelhaushaltsplan 2006/2007 hier: Haushaltsjahr 2006 - überwiesen
+- TOP 1.10: Wahl eines Bürgerdeputierten in den Ausschuss für Gesundheit und Soziales - gewählt
+- TOP 1.11: Änderung der Verordnung über die Festsetzung des Bebauungsplans XIX-34a im Bezirk Pankow, Ortsteil Buch vom 22. November 2005 (GVBl. S. 732). - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Bebauungsplan IV-76 für das Gelände zwischen Storkower Straße, Landsberger Allee, S-Bahnhof Landsberger Allee und der Straße in Verlängerung des Syringenweges im Bezirk Pankow, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Bebauungsplanentwurf XVIII-65 für die Grundstücke Mahlerstraße 26/32, 25/27A und 31 sowie einen Abschnitt der Mahler-straße zwischen Meyerbeerstraße und Gounodstraße im Bezirk Pankow, Ortsteil Weißensee - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Bebauungsplan XVIII-58-1 für die Grundstücke Lehderstraße 68, 69 im Bezirk Pankow, Ortsteil Weißensee - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2003 - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Interkulturelles Fest "Gemeinsam leben in Pankow" - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Nachweis der im Haushaltsjahr 2004 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - vertagt
+- TOP 1.18: Ausbau der Kreuzung Hauptstraße - Mühlenstraße - Gravensteinstraße in Französisch-Buchholz - vertagt
+- TOP 1.19: Verkehrsberuhigung der Stargarder Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.19.1: Lichtsignalanlage an der Kreuzung Stargarder Straße/Dunckerstraße - zurückgezogen
+- TOP 1.20: Gestaltung der Bahnbrücken am S-Bahnhof Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Verkehrsberuhigung Wollankstraße - in der BVV abgelehnt
+- TOP 1.22: Gleisanlagen auf öffentlichem Straßenland - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Fußgängerschutzweg in der Pistoriusstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Jugendevent und Informationsveranstaltung in Pankow zur BVV Wahl 2006 - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Nutzung des Garbatyplatzes am S-und U-Bahnhof Pankow - überwiesen
+- TOP 1.26: Umsetzung der Drs. Nr. V-1029/06 - zurückgezogen
+- TOP 1.27: Seniorenmitwirkungsgesetz im Land Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Freundschaftliche Beziehungen mit Toroslar-Mersin, Türkei - überwiesen
+- TOP 1.29: Bericht zu sozialen Sanierungszielen - überwiesen
+- TOP 1.30: Städtische Wohnungsbaugesellschaften in Pankow - beantwortet
+- TOP 1.31: Zentrenkonzept des Bezirkes Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Ergebnisse der Behindertenkonzeption - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Bezirksamtsbeschlüsse und Auswirkungen für MigranntInnen - überwiesen
+- TOP 1.34: Umfahrungsverkehr Baustelle Wisbyer Straße - überwiesen
+- TOP 1.35: Haushalt 2006/2007 - zurückgezogen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Fifty-fifty (I.): Bürokratie überwinden - Reibungslose Zusammenarbeit zwischen den Abteilungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Weitere Umsetzung des Lokalen Aktionplanes Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Erhalt der Kinder- und Jugendreitarbeit des Lindenhof e. V. Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Sportentwicklungsplan für den Bezirk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Hartz IV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Kreuzstraße im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Aufklärungsarbeit zu Risiken einer HIV-Infektion verstärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Kosten für zusätzliche Transporte von Schülern/Schülerinnen zum Europasportpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Wie weiter mit den ehemaligen Kleingartengebieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Breitbandinternet nach Pankow! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Arbeitsgelegenheiten mit Mehraufwandsentschädigung (MAE) im Bezirksamt Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Kampf um neue Arbeitsplätze nicht aufgeben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Verkehrskonzept Bremer Höhe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Beteiligung der BVV und ihrer Ausschüsse bei der Änderung von Sanierungszielen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Schulwegsicherung an der Grundschule an den Buchen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Bürgerschaftliches Engagement anerkennen und gut zusammenarbeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Abwassergebühren in Blankenburg, Karow und Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Pankow im Gesunde Städte-Netzwerk der Bundesrepublik Deutschland / Bildung einer abteilungsübergreifenden Arbeitsgruppe und Erarbeitung eines Jahresprogramms für 2006 unter dem Motto "Pankow in Bewegung" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Änderung der Sanierungsziele für den Standort Winsstraße 18 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Bebauungsplan IV-76 für das Gelände zwischen Storkower Straße, Landsberger Allee, S-Bahnhof Landsberger Allee und der Straße in Verlängerung des Syringenweges im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Bebauungsplanentwurf XVIII-65 für die Grundstücke Mahlerstraße 26/32, 25/27A und 31 sowie einen Abschnitt der Mah-lerstraße zwischen Meyerbeerstraße und Gounodstraße im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Bebauungsplan XVIII-58-1 für die Grundstücke Lehderstraße 68, 69 im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Nutzungsentgelterhöhung für zu Erholungszwecken und für zu Wohnzwecken genutzte Parzellen in der Anlage "Rennbahn" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Weitere Umsetzung des Lokalen Aktionsplanes - Abschluss der Zielvereinbarung 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Benennung der Straße 125 im Ortsteil Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: Städtepartnerschaft mit Toroslar-Mersin, Türkei <span style="color: #888a85" title="Zusatzinfo">(Der Vorsitzende der Fraktion Bündnis 90/Die Grünen zieht im Verlauf der 39. Tagung die Drucksache zurück. (diese steht nicht auf der Tagesordnung))</span> - zurückgezogen
