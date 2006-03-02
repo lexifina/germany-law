@@ -1,16 +1,16 @@
 # Gebührensatzung für die Rheinische Musikschule der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2004-05-07 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/1._Änderung_gebührensatzung_für_die_rheinische_musikschule_der_stadt_köln_vom_07.05.2004.pdf
+- Datum: 2006-03-02 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/2._Änderung_gebührensatzung_für_die_rheinische_musikschule_der_stadt_köln_vom_02.03.2006.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Gebührensatzung für die Rheinische Musikschule der Stadt Köln vom 29. August 2003
-in der Fassung der 1. Satzung zur Änderung der Gebührensatzung für die Rheinische Musikschule der Stadt Köln vom 7. Mai 2004
-- ABl. StK 2003 S. 507 ff., 2004 S. 252 Der Rat der Stadt Köln hat in seiner Sitzung vom 29.07.2003 aufgrund der §§ 7 und 76 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV. NW 2023) und der §§ 4, 5 und 6 des Kommunalabgabengesetzes für das Land Nord- rhein-Westfalen (KAG) vom 21. Oktober 1969 (SGV. NW 610) in Verbindung mit der Satzung für die Rheinische Musikschule der Stadt Köln vom 22. März 1983 (Amtsblatt der Stadt Köln 1983 S. 85) – jeweils in der bei Erlaß dieser Satzung gelten- den Fassung – folgende Gebührensatzung beschlossen:
+in der Fassung der 2. Satzung zur Änderung der Gebührensatzung für die Rheinische Musikschule der Stadt Köln vom 2. März 2006
+- ABl. StK 2003 S. 507 ff., 2004 S. 252, 2006 S 1 Der Rat der Stadt Köln hat in seiner Sitzung vom 29.07.2003 aufgrund der §§ 7 und 76 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV. NW 2023) und der §§ 4, 5 und 6 des Kommunalabgabengesetzes für das Land Nord- rhein-Westfalen (KAG) vom 21. Oktober 1969 (SGV. NW 610) in Verbindung mit der Satzung für die Rheinische Musikschule der Stadt Köln vom 22. März 1983 (Amtsblatt der Stadt Köln 1983 S. 85) – jeweils in der bei Erlaß dieser Satzung gelten- den Fassung – folgende Gebührensatzung beschlossen:
 § 1 Gebühren (1) Die Rheinische Musikschule erhebt Gebühren für die Teilnahme am
 Unterricht und für die zeitlich begrenzte Überlassung und Benutzung von Musikinstrumenten in Verbindung mit dem Unterricht.
 (2) Die Höhe der monatlichen Gebühren ergibt sich aus dem anliegenden Gebührentarif, der Bestandteil dieser Satzung ist.
@@ -46,12 +46,12 @@ der Gesamtgebühr für Einzel-, Gruppen-, Kombi-, Grundstufenunterricht und Ball
 Seite 3 von 7
 
 Zusammenarbeit mit dem Humboldt-Gymnasium sowie die Überlassungs- und Nutzungsgebühren.
-(2) Erwachsene, die vor Beginn des Unterrichtsabschnittes nachweisen, dass sie mindestens 50% schwerbehindert, Arbeitslosenhilfeempfänger/in, Auszubildende, Zivil- oder Wehrdienstleistende, Schüler oder Studenten sind, haben nur die für Jugendliche maßgebliche Gebühr zu entrichten, sofern ihnen nicht bereits eine Ermässigung gemäß Ziff. (3) gewährt wird. Jugendlichen, die vor Beginn des Unterrichtsabschnittes nachweisen, dass sie mindestens 50% schwer- behindert sind, wird die für Jugendliche maßgebliche Gebühr um 50% ermäßigt. Verspätet übersandte Nachweise für eine Ermäßigung werden ab dem Monat des Posteinganges bei der Gebührenberechnung berücksichtigt.
-(3) Für Inhaberinnen und Inhaber des Familienpasses mit KVB-Berechtigung, die ihre Berechtigung nachweisen sowie deren im Haushalt lebenden minderjährigen Kinder wird die Unterrichts- und Instrumentengebühr um 50% ermäßigt. Der Familienpass muss bei der Anmeldung bzw. eine Woche vor Beginn eines neuen Unterrichtsabschnittes der Rheinischen Musikschule vorliegen. Verspätet übersandte Familienpässe werden ab dem Monat des Posteinganges bei der Gebührenberechnung berücksichtigt.
-(4) Bei einem von der Rheinischen Musikschule zu verantwortenden ununterbrochenen Unterrichtsausfall von mehr als vier Wochen wird die Gebühr auf Antrag anteilig zurück- erstattet.
+(2) Erwachsene, die vor Beginn des Unterrichtsabschnittes nachweisen, dass sie schwerbehindert, Auszubildende, Zivil- oder Wehrdienstleistende, Schüler oder Studenten sind, haben nur die für Jugendliche maßgebliche Gebühr zu entrichten, sofern ihnen nicht bereits eine Ermäßigung gemäß Ziff. (3) gewährt wird. Jugendlichen, die vor Beginn des Unterrichtsabschnittes nachweisen, dass sie schwer- behindert sind, wird die für Jugendliche maßgebliche Gebühr um 50% ermäßigt. Verspätet übersandte Nach- weise für eine Ermäßigung werden ab dem Monat des Posteinganges bei der Gebührenberechnung berücksichtigt.
+(3) Eine Ermäßigung der Unterrichts- und Instrumentengebühr in Höhe von 50% wird Personen sowie deren im Haushalt lebenden minderjährigen Kinder gewährt, die Hilfe zum Lebensunterhalt nach SGB XII oder Leistungen nach SGB II (Arbeitslosengeld II) erhalten. Der Nachweis muss bei der Anmeldung bzw. eine Woche vor Beginn eines neuen Unterrichtsabschnittes der Rheinischen Musikschule vorliegen. Verspätet übersandte Nachweise werden ab dem Monat des Posteinganges bei der Gebührenberechnung berücksichtigt.
+(4) Bei einem von der Rheinischen Musikschule zu verantwortenden ununterbrochenen Unterrichtsausfall von mehr als vier Wochen wird die Gebühr auf Antrag anteilig zurückerstattet.
 § 6 Gebührenbefreiung Schülerinnen und Schüler in der Studienvorbereitenden Ausbildung sind von den Gebühren des instrumentalen Nebenfaches (30 Minuten wöchentlicher Unterricht) befreit.
-§ 7 Stundung und Erlass der Gebühren Die Stundung (insbesondere die Bewilligung von Ratenzahlung) und der Erlass von Gebühren richten sich nach den gesetzlichen Bestimmungen. FamilienpassInhaberinnen und -Inhabern ist auf Antrag Ratenzahlung einzuräumen.
-§ 8 Inkrafttreten Diese Satzung tritt rückwirkend zum 1. Januar 2004 in Kraft.
+§ 7 Stundung und Erlass der Gebühren Die Stundung und der Erlass von Gebühren richten sich nach der Geschäftsanweisung für das Finanzwesen der Stadt Köln 2005 und den gesetzlichen Bestimmungen.
+§ 8 Inkrafttreten Diese Satzung tritt rückwirkend zum 01.01.2006 in Kraft.
 Seite 4 von 7
 
 Gebührentarif zur Gebührensatzung für die Rheinische Musikschule vom 29. August 2003
