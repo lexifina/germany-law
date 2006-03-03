@@ -1,0 +1,57 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-03-03T16:00:00+01:00
+- Ende: 2006-03-03T19:00:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1673
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1673
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111618.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111618.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111618.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift vom 26.01.2006 - zur Kenntnis genommen
+- TOP 3: Gestaltung des Freiheitplatzes - zur Kenntnis genommen
+- TOP 4: UmsetzungDüsseldorfer Kinder- u. Jugendförderplan - zur Kenntnis genommen
+- TOP 5: Lärmdämmung in Grundschulen des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Sonntagsfreigaben - mehrheitlich beschlossen
+- TOP 9: Trödelmärkte auf dem Gertrudisplatz - einstimmig beschlossen
+- TOP 10: Trödelmarkt auf dem Gertrudisplatz - einstimmig beschlossen
+- TOP 11: Jahrmärkte auf dem Gertrudisplatz 2006 - einstimmig beschlossen
+- TOP 12: BSA Wilh Heinr Weg Umbau Laufbahn - einstimmig beschlossen
+- TOP 13: Sonntagfreigaben - mehrheitlich beschlossen
+- TOP 14: Zuschüsse zu kulturellen Veranstaltungen - einstimmig beschlossen
+- TOP 15: Grünwegeverbindung Ellerkirchstraße - einstimmig beschlossen
+- TOP 16: Suchtprävention an Schulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 17: Verkehrsunfälle mit Kindern im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 18: Grundstück Sturmstraße / Sodener Weg - zur Kenntnis genommen
+- TOP 19: Ganztagsbetreuung an Grundschulen - zur Kenntnis genommen
+- TOP 20: Grundwassersanierung Waagenstraße - zur Kenntnis genommen
+- TOP 21: Containerstandorte der AWISTA im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 22: Quartiersgaragen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 23: Friedhofssatzung - einstimmig beschlossen
+- TOP 24: Jahr der Kunst 2006 im Stadtbezirk 8 - mehrheitlich abgelehnt
+- TOP 25: Bezirkssportanlage Vennhauser Allee - zur Kenntnis genommen
+- TOP 26: Kontrollen ZAMEK - See - einstimmig beschlossen
+- TOP 27: Sauberkeit Bereich ZAMEK - See - einstimmig beschlossen
+- TOP 28: Ausländerintegration im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 29: Striegauer Weg, Straßenmarkierung - einstimmig beschlossen
+- TOP 30: Spielplatz Coburger Weg - zur Kenntnis genommen
+- TOP 31: Wartehallen Vennstraße und Dellestraße - zur Kenntnis genommen
+- TOP 32: Begrünung Gleiskörper Kuthsweg - zur Kenntnis genommen
+- TOP 33: Lärmschutz entlang der A 46 - zur Kenntnis genommen
+- TOP 34: Verkehrssituation Vennhauser Allee / Eller Kamp - zur Kenntnis genommen
+- TOP 35: Schulsponsoring im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: L 404n - zur Kenntnis genommen
+- TOP 37: Regenklärbecken Kikweg - zur Kenntnis genommen
+- TOP 38: Boden- und Grundwassersanierung Waagenstraße - zur Kenntnis genommen
+- TOP 39: S-Bahn-Bahnhöfe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: Städtische Gebäude im Stadtbezirk 8 - zur Kenntnis genommen
