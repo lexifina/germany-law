@@ -1,0 +1,62 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2006-03-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/805015
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/805015
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget; Kindertagesstätte Petrarcastr.; Sommerfest am 23.06.06
+- TOP 3.1.: Keine weiteren Erhöhungen des MVV-Ausbildungstarifs und der Kinderstreifenkarte
+- TOP 3.2.: Verlegung der Halteverbotszone in der Ittlingerstr.
+- TOP 3.3.: Neue Linienführung der Buslinie 173
+- TOP 3.4.: Einrichtung einer Busverbindung von der Fasanerie nach Moosach und Sicherung des Bahnübergangs Bahnhof Fasanerie
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Ausbau der Detmoldstraße (U-1555) Beb-Plan Nr. 1398a
+- TOP 5.2.: Gartenfest des Kleingartenvereins NW 65 in der Zeit vom 14.07. - 16.07.2006
+- TOP 5.3.: Flohmarkt des Bewohnerstammtisches Hasenbergl/Nord auf dem Goldschmiedplatz (01.04., 13.05., 03.06., 08.07., 02.09., und am 14.10.2006)
+- TOP 5.4.: Flohmarkt der Diakonie Hasenbergl auf dem Walter-Sedlmayr-Platz (06.05., 01.07., 09.09 und 07.10.2006)
+- TOP 5.5.: Erweiterung und Ausbau der BA Rechte (BA-Antrag des BA 13 - Bogenhausen)
+- TOP 5.6.: Bebauungsplan mit Grünordnung Nr. 1944; Hummelblumenstraße (beidseitig), Schneeglöckchenstraße (nördlich), Kohlröschenstraße (östlich) Flurstücke: 462, 462/7, 462/8, 462/2, 463/3, 462/10, 462/11 und 462/9 (Teiländerung des Bebauungsplanes Nr. 1309)
+- TOP 5.7.: Vollzug der Baumschutzverordnung: a) 2 Fichte in der Glyzinenstr. 8 b) 1 Birke in der Glockenblumenstr. 3 c) 3 Fichten in der Leonhard-Bugl-Str. 4 a d) mehrere Bäume in der Karlsfelder Str. 262 e) mehrere Bäume in der Lerchenauer Str. 203
+- TOP 5.8.: A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/32 Schleißheimer Straße (östlich), Sandbienenweg (beiderseits) B) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1972 Schleißheimer Straße (östlich), Sandbienenweg (beiderseits) (Teiländerung des Bebauungsplanes mit Grünordnung Nr. 1779d)
+- TOP 5.9.: Ausbau der Wickenstraße
+- TOP 5.10.: Münchner Blade Night - 2006
+- TOP 5.11.: Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Haushaltskonsolidierung 2007 bis 2011 Auswirkungen auf die offene Kinder- und Jugendarbeit
+- TOP 6.2.: Detmoldstraße - Neubau Wall mit Lärmschutzwand
+- TOP 6.3.: Meldelisten Bauvorhaben (Anfrage aus der letzten Sitzung)
+- TOP 6.4.: Baumaßnahmen der Stadtwerke
+- TOP 6.5.: Zweckentfremdung von Wohnraum
+- TOP 6.6.: Baumfällungen; Abweichender Bescheid zur BA-Entscheidung a) Dülferstr. 115 b) Witzlebenstr.9
+- TOP 6.7.: Verkehrsrechtliche Anordnung: a) Z283 StVO und Pkw-Parken in der Luitfriedstraße
+- TOP 6.8.: Unveränderte Fortführung eines Gaststättenbetriebes: a) Feldmochinger Str. 214, "Bierstüberl Hopfenland"
+- TOP 6.9.: Meldelisten Bauvorhaben
+- TOP 6.10.: Bebauungsplan mit Grünordnung Nr. 1763 e Dülferstraße (nördlich), beiderseits Blodigstraße und beiderseits Wellenkampstraße (Teiländerung der Bebauungspläne Nr. 536 und Nr. 1440) im Sanierungsgebiet Hasenbergl
+- TOP 6.11.: Beteiligung im Netz
+- TOP 6.12.: Wiederherstellung von Leitungsschächten in Straßen
+- TOP 6.13.: Bebauungsplan mit Grünordnung Nr. 1978 Regattaanlage (westlich), Stadtgrenze (südlich), Regattaweg (nördlich und südlich) - Siedlung am Regattaweg -
+- TOP 6.14.: Fassadenwettbewerb der Landeshauptstadt München, hier: Erweiterung der ehrenamtlichen Gutachterkommission um eine Vertreterin / einen Vertreter der Dachdecker-Innung München-Oberbayern
+- TOP 6.15.: Abgeschlossenheitsbescheinigungen und Abbruchanzeigen im Jahr 2005
+- TOP 6.16.: Live-Musik in Aussegnungshallen (Schreiben des BA 12)
+- TOP 6.17.: Gesamtaufstellung der BA-Sitzungstermine und BV-Termine 2006
+- TOP 6.18.: Münchner Statistik - 4 Quartalsheft Jahrgang 2005 (1 Exemplar im Sitzungsordner)
+- TOP 6.19.: Perspektive München Leitprojekt Verkehrsentwicklungsplan 2005
+- TOP 6.20.: Vorab-Stellungnahme Baumfällung Leonhard-Bugl-Straße 1
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Jugend, Soziales, Schule und Kultur
+- TOP 7.2.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.3.: Nutzbarmachung des Zugangs zum Freizeitheim Lassallestraße für Gehwagen und Rollstühle - Ortstermin
+- TOP 7.4.: Infoveranstaltung zur Straßenausbaubeitragssatzung
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
