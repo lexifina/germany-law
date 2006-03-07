@@ -1,0 +1,103 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2006-03-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/792024
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/792024
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Willibaldstraße und Landsberger Straße
+- TOP 1.2.2.: Ampelschaltung Kreuzung Landsberger Straße / Fürstenrieder Straße
+- TOP 1.2.3.: S - Bahn
+- TOP 1.2.4.: Einführung eines Sozialtickets in München
+- TOP 1.3: Vorstellung von 4F - Circle - Bewegungsinseln
+- TOP 2: Anträge
+- TOP 2.1.: SPD - Fraktion: Einsatz von Streetworkern in Laim
+- TOP 2.2.: CSU - Fraktion: Überprüfung der Bausicherheit des Gebäudes Nachtwerk / Musiktheater an der Landsberger Straße
+- TOP 2.3.: Bündnis 90 / Die Grünen: Keine Feinstaub - Umleitung für Transit - Lkws durch Laim
+- TOP 2.4.: Bündnis 90 / Die Grünen: Schutz für Bus - Fahrgäste am Laimer Kreisel
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Referat für Arbeit und Wirtschaft: Wartehäuschen an der Bushaltestelle Laimer Platz; 1) Ersatz der fehlenden Glasscheibe 2) Andere Anbringung des Abfahrtsanzeigers sowie eines weiteren Anzeigers im U-Bahn-Zwischengeschoss 3) Errichtung eines Daches zwischen den beiden Häuschen ( Empfehlung Nr. 02-08 / E 00227 der Bürgerversammlung vom 25.10.05 )
+- TOP 3.2.: Beschlussvorlage Baureferat: Vollzug des Bayerischen Straßen - und Wegegesetzes; Aufstufung der Gesamtstrecke der unbenannten Straße " U - 5118 " ( südlich der Landsberger Straße zwischen Hausnr. 185 und 187 )
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Schreiben Sozialreferat vom 24.01.06: Fragebogen zu REGSAM; Einschätzung der BAs
+- TOP 5: Baumfällungen
+- TOP 5.1.: Stürzerstr. 38: 2 Roßkastanien
+- TOP 5.2.: Stürzerstr. 50: 1 Pappel
+- TOP 5.3.: Inderstorferstr. 28: 2 Robinien
+- TOP 5.4.: Senftenauerstr. 4: 1 Weide
+- TOP 5.5.: Weßlinger Str. 8: 1 Ahorn
+- TOP 5.6.: Gunzenlehstr. 23: 1 Birke, 1 Kirsche, 1 Ahorn, 1 Weide
+- TOP 5.7.: Wilhelm - Riehl - Str. 30: 1 Eberesche
+- TOP 5.8.: Wilhelm - Riehl - Str. 50: 1 Esche
+- TOP 5.9.: Westendstr. 230: Fällung von 11 Bäumen
+- TOP 5.10.: Saherrstr. 39: Fällung von 1 Fichte
+- TOP 6: Bauvorhaben
+- TOP 6.1.: Fürstenrieder Str. 34: Aufstockung eines Wohn - und Geschäftshauses mit 2 WE, Anbau eines Aufzuges sowie Nutzungsänderung im 1. und 2. OG je einer Wohnung in eine Praxis; hier: Baumfällungen
+- TOP 7: Sonstiges
+- TOP 7.1.: KulturGeschichtsPfad Laim
+- TOP 8: Protokolle
+- TOP 8.1.: Protokoll der BA - Sitzung vom 07.02.06
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben KVR vom 26.01.06: Hinweisschilder zur Erkennung des Rubinsteinsaals im Steinway - Haus an der Landsberger Str. 336 ( Antrag Nr. 02-08 / B 00734 vom 08.11.05 )
+- TOP 9.2.: Schreiben KVR vom 30.01.06: Zwei-Richtungsradweg in der Gotthardstraße zwischen Willibaldstraße und Fischer-von-Erlach-Straße ( Antrag Nr. 02-08 / B 00465 vom 12.07.05 )
+- TOP 9.3.: Schreiben Baureferat vom 02.02.06: Schneeräumen im Bereich Brosamerstraße ( Schreiben BA vom 27.01.06 )
+- TOP 9.4.: Schreiben Stadtwerke München GmbH vom 27.01.06: Schulwegübergang Sigl- / Ludwig-Richter-Straße ( Antrag Nr. 02-08 / B 00819 vom 06.12.05 )
+- TOP 9.5.: Schreiben MVG vom 01.02.06: Verlegung der Bushaltestellen am S - Bahnhof Laim bedingt durch die Baustelle " Laimer Würfel " ( Antrag Nr. 02-08 / B 00818 vom 06.12.05 )
+- TOP 9.6.: Schreiben Kommunalreferat vom 31.01.06: BA - Schaukasten an der Ecke Agnes - Bernauer - Straße / Lautensackstraße; Zwischennachricht
+- TOP 9.7.: Schreiben Sozialreferat vom 08.02.06: Zahlen zum Thema " Armut " / Bericht in der BA - Sitzung vom 07.02.06
+- TOP 9.8.: Schreiben Sozialreferat vom 13.02.06: Artikel in der SZ vom 09.02.06 " Junge Familien in der Armutsfalle "
+- TOP 9.9.: Schreiben Planungsreferat vom 24.01.06: Anwesen Fürstenrieder Str. 21; Verpflichtung des Eigentümers zur Überprüfung der Fassade bzw. Bausubstanz ( Antrag Nr. 02-08 / B 00649 vom 13.09.05 )
+- TOP 9.10.: Schreiben Planungsreferat vom 08.02.06: Keine Bau- und Nutzungsgenehmigungen für Spielhallen oder ein Drive-In-Lokal in der Fürstenrieder Straße ( Antrag Nr. 02-08 / B 00729 vom 08.11.05 )
+- TOP 9.11.: Schreiben Planungsreferat vom 31.01.06: Saherrstr. 6; Wohngebäude mit sozialer Einrichtung und Tiefgarage / Vorbescheid ( Schreiben BA vom 27.01.06 )
+- TOP 9.12.: Schreiben Planungsreferat vom 19.01.06: Geßlerstr. 35; Neubau eines Einfamilienhauses mit Garage
+- TOP 9.13.: Schreiben Planungsreferat vom 13.02.06: Straubinger Str. 25, Variante 2 Neubau einer Wohnanlage ( 4 Häuser ) mit TG / Vorbescheid
+- TOP 9.14.: Schreiben Planungsreferat vom 30.01.06: Neubeuerner Str. 8; Fällungsgenehmigung
+- TOP 9.15.: Schreiben Planungsreferat vom 15.02.06: Stöberlstr. 17; Fällungsgenehmigung
+- TOP 9.16.: Schreiben Planungsreferat vom 25.01.06: Informationsaustausch über aktuelle Planungen im Stadtbezirk
+- TOP 9.17.: Schreiben Direktorium vom 15.12.05: Gespräch des Oberbürgermeisters und der 2. Bürgermeisterin mit den Vorsitzenden der Bezirksausschüsse am 24.11.05
+- TOP 9.18.: Schreiben Direktorium vom 31.01.06: Info zu Budget - Anträgen von Alten - und Servicezentren
+- TOP 9.19.: Schreiben Direktorium vom 01.02.06: BA - Sitzungstermine und BV - Termine 2006
+- TOP 9.20.: Schreiben Baureferat vom 09.02.06: Fällen von Gefahrenbäumen; Grünanlage Hans - Thonauer - Straße / Burgkmairstraße und Fröbelplatz 17
+- TOP 9.21.: Bautenliste vom 23.01. - 29.01.06 1. Erstantragsverfahren a ) Agnes - Bernauer - Str. 97 b ) Hönlestr. 27 c ) Willibaldstr. 7
+- TOP 9.22.: Bautenliste vom 30.01. - 05.02.06: 1. Erstantragsverfahren a ) Genovevaweg 19 b ) Neuburgerstr. 1 c ) Willibaldstr. 31 2. Änderungsverfahren a ) Elsenheimerstr. 7 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a ) Flotowstr. 53
+- TOP 9.23.: Bautenliste vom 06.2. - 12.02.06 1. Erstantragsverfahren a ) Diesterwegstr. 6
+- TOP 9.24.: Bautenliste vom 13.02. - 19.02.06 1. Erstantragsverfahren a ) Lautensackstr. 11 b ) Fürstenrieder Str. 30 c ) Hartelstr. 23 d ) Neubeuerner Str. 10
+- TOP 9.25.: Schreiben KVR vom 09.02.06: Gaststätte " Hoa Quynh ", Elsenheimerstr. 26; unveränderte Fortführung
+- TOP 9.26.: Schreiben KVR vom 26.01.06: Anmeldung einer Versammlung unter freiem Himmel am 30.01., 06.02. und 13.02.06 an der Wotan - / Ecke Landsberger Straße, S - Bahnstation Laim
+- TOP 9.27.: Schreiben KVR vom 06.02.06: Anmeldung einer Versammlung unter freiem Himmel am 07.02., 14.02. und 21.02.06 an der Wotan - / Ecke Landsberger Straße, S - Bahnstation Laim
+- TOP 9.28.: Schreiben KVR vom 16.02.06: Anmeldung einer Versammlung unter freiem Himmel am 20.02., 06.03. und 16.03.06 an der Wotan - / Ecke Landsberger Straße, S - Bahnstation Laim
+- TOP 9.29.: Schreiben Referat für Gesundheit und Umwelt vom 25.01.06: Baubeginnsanzeige einer Mobilfunksendeanlage
+- TOP 9.30.: Schreiben Referat für Gesundheit und Umwelt vom 02.02.06: Baubeginnsanzeige einer Mobilfunksendeanlage
+- TOP 9.31.: Schreiben Referat für Gesundheit und Umwelt vom 06.02.06: Baubeginnsanzeige einer Mobilfunksendeanlage
+- TOP 9.32.: Schreiben Stadtwerke München GmbH vom 06.02.06: Information über die derzeit anstehenden und laufenden Bauvorhaben der Stadtwerke
+- TOP 9.33.: Schreiben Stadtwerke München GmbH vom 13.02.06: Baumaßnahmen der Stadtwerke
+- TOP 9.34.: Schreiben Stadtwerke München GmbH vom 20.02.06: Baumaßnahmen der Stadtwerke
+- TOP 9.35.: Schreiben BA 12 Schwabing - Freimann vom 01.02.06: Live - Musik in Aussegungshallen
+- TOP 9.36.: Schreiben Stadträtin Wolf vom 07.02.06: Aufnahme in den Verteiler der kommunalpolitischen Zeitschrift MitLinks
+- TOP 9.37.: Schreiben der Gemeinde Gräfelfing vom 10.02.06: Chefinfo des Bayer. Städtetages vom 10.02.06 - Feinstaubbelastung: Ministerrat legt neues Maßnahmenpaket vor
+- TOP 9.38.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.06: Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der BAs und der einschlägigen Verbände
+- TOP 9.39.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.06: Magnetschwebebahn München Hauptbahnhof - Flughafen ( MSB )
+- TOP 9.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.06: Auswirkungen der Verfahrensbeschleunigung für Bundesvorrangprojekte
+- TOP 9.41.: Beschluss des Bauausschusses vom 07.02.06: Wiederherstellung von Leitungsschächten in Straßen
+- TOP 9.42.: Beschluss der Vollversammlung vom 16.02.06: Beteiligung im Netz; Die Stadt verbessert in ihrem Internetauftritt die Angebote zur Beteiligung im Netz
+- TOP 9.43.: Beschluss der Vollversammlung vom 16.02.06: 2. S - Bahn - Stammstrecke; Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz ( AEG ) a ) Planfeststellungsabschnitt 1 München - West - Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof; Anhörungsverfahren, Stellungnahme der LH München b ) Weitere Information zu den Verfahren für die 2. S - Bahn - Stammstrecke c ) Anträge
+- TOP 9.44.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.06: Fassadenwettbewerb der Landeshauptstadt München; hier: Erweiterung der ehrenamtlichen Gutacherkommission um eine Vertreterin / Vertreter der Dachdecker - Innung München - Oberbayern
+- TOP 9.45.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 22.02.06: Abgeschlossenheitsbescheinigungen und Abbruchanzeigen im Jahr 2005
+- TOP 9.46.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.06: Perspektive München, Leitprojekt Verkehrsentwicklungsplan 2005
+- TOP 9.47.: Münchner Statistik; 4. Quartalsheft Jahrgang 2005
+- TOP 9.48.: Einladung zur Veranstaltung " Strategien einer integrativen Stadtteilentwicklung - was ist die Münchner Perspektive " am 13.03.06
+- TOP 9.49.: Einladung zur Veranstaltung " Integrationskurse - Bilanz nach einem Jahr " am 16.03.06
+- TOP 9.50.: Schriftverkehr aus der BA - Sitzung vom 10.01.06
+- TOP 9.51.: Schriftverkehr aus der BA - Sitzung vom 07.02.06
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Bürgerpost an den BA
