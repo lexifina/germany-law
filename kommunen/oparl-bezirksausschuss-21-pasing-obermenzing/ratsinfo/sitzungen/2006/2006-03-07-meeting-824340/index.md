@@ -1,0 +1,115 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2006-03-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/824340
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/824340
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Neuwahl einer/eines stellvertretenden Kinderbeauftragten des BA 21
+- TOP 1.3: Benennung einer Vertreterin/eines Vertreters des BA 21 in den Bürgerbeirat für das Wohnstift in der Verdistraße 45
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Situation hinsichtlich des öffentlichen Personennahverkehrs in Pasing
+- TOP 2.2.: Kein Abhängen des Wohngebiets Villenkolonie I vom Durchgangsverkehr
+- TOP 2.3.: Verunreinigungen eines Grundstücks in der Heimburgstraße
+- TOP 2.4.: Verkehrsberuhigung Villenkolonie I
+- TOP 2.5.: Geschwindigkeitsbeschränkung auf Tempo 30 km/h für die Menzinger Straße ab Kastellstraße bis zur Karl-von-Roth-Straße einschließlich Megerlestraße
+- TOP 2.6.: Einrichtung einer Kurzparkzone vor dem Anwesen Bodenstedtstraße 58
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Marsopstraße 13, Baumbestandsplan 05-36562 (vertagt aus der Sitzung vom 07.02.06)
+- TOP 3.2.: Apolloweg 18, 2 Fichten (vertagt aus der Sitzung vom 07.02.06)
+- TOP 3.3.: Hermann-Köhl-Straße 24, Baumbestandsplan Nr. 05-35831
+- TOP 3.4.: Feichthofstraße 155, Baumbestandsplan Nr. 05-36869
+- TOP 3.5.: Wilhelm-Hey-Straße 17, 1 Douglasie
+- TOP 3.6.: Glasenbartlstr. 2, Baumbestandsplan Nr. 05-36885
+- TOP 3.7.: Heinrich-Schütz-Weg 16, 1 Birke
+- TOP 3.8.: Menzinger Straße 110, Baumbestandsplan Nr. 06-4267
+- TOP 3.9.: Menzinger Straße 123, 1 Linde, 1 Kastanie
+- TOP 3.10.: Gustav-Meyrink-Straße 17 a, 1 Birke, 1 Fichte
+- TOP 3.11.: Institutstraße 14, 7 Bäume
+- TOP 3.12.: Pippinger Straße 49, 2 Eschen, 1 Kastanie
+- TOP 3.13.: Benedikt-Hagn-Straße 4, 1 Bergahorn
+- TOP 3.14.: Pfeivestlstraße 57, Baumbestandsplan Nr. 06-1753
+- TOP 3.15.: Rembrandtstraße 19, Baumbestandsplan nr. 05-36814
+- TOP 3.16.: Piltzweg 3, 2 Bäume zur Fällung, 9 Baumveränderungen
+- TOP 3.17.: Andreas-Sengl-Weg, Baumbestandsplan Nr. 06-3942
+- TOP 3.18.: Hermann-Köhl-Straße 24, Baumbestandsplan Nr. 06-3913
+- TOP 3.19.: Haidelweg 29, Baumbestandsplan Nr. 05-36732
+- TOP 3.3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Varnhagenstraße 3
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Nutzung des Grundstücks Menzinger Straße 85 (Empfehlung Nr. 02-08 / E 00237 der Obermenzinger Bürgerversammlung vom 27.10.05)
+- TOP 9.2.: Vollzug des Bayerischen Straßen- und Wegegesetzes; Widmung einer Teilstrecke der Straße "Am Krautgarten"
+- TOP 9.3.: Verkehrsaufkommen in der Meyerbeer-/Offenbachstraße; Maßnahmen zur Reduzierung der Gefahren beim Überqueren; Lichtzeichenanlage an der Kreuzung Würmkanal/Marsopstraße, bzw. - alternativ dazu - Bau einer Verkehrsinsel (Empfehlung Nr. 230 der Bürgerversammlung des 21. Stadtbezirkes, Bezirksteil Obermenzing, am 27.10.05)
+- TOP 9.4.: Schaffung von Parkplätzen für die Schulungsteilnehmer der Feuerwache 6 in der Bassermannstraße (Empfehlung Nr. 235 der Bürgerversammlung des 21. Stadtbezirkes, Bezirksteil Obermenzing, am 27.10.05)
+- TOP 10.: Anhörungen
+- TOP 10.1.: Freseniusstraße 37, Neubau eines Einfamilienhauses (Anbau) (vertagt aus der Sitzung vom 07.02.06)
+- TOP 10.2.: Paul-Gerhardt-Allee 72, Erweiterung und Umbau eines Mehrfamilienhauses, Teilabbruch des Rückgebüudes und Abbruch des Verbindungsgebäudes (vertagt aus der Sitzung vom 07.02.06)
+- TOP 10.3.: Korfiz-Holm-Straße 3, Neubau eines Mehrfamilienhauses mit Garagen (vertagt aus der Sitzung vom 07.02.06)
+- TOP 10.4.: Josef-Schlicht-Straße 10, Neubau eines Einfamilienhauses mit Doppelgarage (vertagt aus der Sitzung vom 07.02.06)
+- TOP 10.5.: Heimburgstraße 9, Neubau eines Lebensmitteleinzelhandelsmarktes mit oberirdischen Stellplätzen (vertagt aus der Sitzung vom 07.02.06)
+- TOP 10.6.: Klarweinstraße 13, Neubau eines Mehrfamilienhauses mit Tiefgarage (vertagt aus der Sitzung vom 07.02.06)
+- TOP 10.7.: Am Stadtpark 21, Neubau einer Mensa mit Betreuungsräumen (vertagt aus der Sitzung am 07.02.06)
+- TOP 10.8.: Marsopstraße 13, Neubau einer Doppelhaushälfte mit Garage, Haus 1 - 4 (vertagt aus der Sitzung vom 07.02.06)
+- TOP 10.9.: Haidelweg 29, Neubau von 5 Wohnhäusern
+- TOP 10.10.: Feichthofstraße 155, Neubau einer Doppelhaushälfte mit Garage
+- TOP 10.11.: Spartenanfrage Landsberger Straße 380;
+- TOP 10.12.: Endgültige Anordnung von Tempo 30 km/h in der Nusselstraße
+- TOP 10.13.: Erweiterung und Ausbau der BA-Rechte
+- TOP 10.14.: Flohmarkt am 28.04.06 auf der Grünfläche an der Senftenauer Straße / Willibaldstraße
+- TOP 10.15.: Faistenlohestraße 12, Neubau einer Doppelhaushälfte mit Garage
+- TOP 10.16.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Bauseweinallee 70 a
+- TOP 10.17.: Paosostraße 65, Neubau von zwei Doppelhäusern mit 4 Carport-Stellplätzen
+- TOP 10.18.: Weinbergerstr. 56, Neubau eines Doppelhauses mit Einzelgaragen
+- TOP 10.19.: Sicherung der BA-Entscheidungsrechte bei der Standortfestsetzung städtischer Einrichtungen (Antrag des BA 15 Trudering-Riem vom 10.04.03 "Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo")
+- TOP 10.20.: Menzinger Straße 85, Neubau eines Lebensmittelmarktes mit Stellplätzen
+- TOP 11.: Anträge und Anfragen
+- TOP 11.1.: CSU: Haltverbot Maierhofstraße 17 - 19 (vertagt aus der Sitzung vom 07.02.06)
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Bauanträge (vom 06.02.-12.02., v. 13.02.-19.02.06)
+- TOP 12.2.: Amtsblatt Nr. 4 und Nr. 5
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Ausschuss für Stadtplanung und Bauordnung sowie Verwaltungs- und Personalausschuss in gemeinsamer Sitzung am 08.02.06 - Beteiligung im Netz; Die Stadt verbessert in ihrem Internetauftritt die Angebote zur Beteiligung im Netz
+- TOP 13.2.: Kinder- und Jugendhilfeausschuss vom 31.01.06 - Kindergarten-Platzmangel in Pasing-Obermenzing sowie Kindergartenversorgung im 21. Stadtbezirk wird umgehend verbessert (Anträge von Herrn Stadtrat Straßer und Herrn Stadtrat Schmatz); Bau des geplanten Kindergartens an der Planegger Straße (BA-Antrag vom 05.10.04); Neuschaffung von Kindergärten in Pasing, vordringlich im Bereich der Neubauten an der Planegger Straße und in Pasing Nord (Empfehlung Nr. 47 der Pasinger Bürgerversammlung vom 24.06.04)
+- TOP 13.3.: Ausschuss für Stadtplanung und Bauordnung vom 22.02.06 - Mietervertreibung durch die Nordumgehung Pasing (Empfehlung Nr. 54 der Pasinger Bürgerversammlung vom 28.04.05) - Verkehrsplanung im Münchner Westen; Machbarkeitsstudie zum Halbanschluss der Lochhausener Straße (neu) an die Bundesautobahn A 8; Ausbau / Verlegung der Pippinger Straße; Maßnahmen im nachgeordneten Netz; Machbarkeitsuntersuchung vom März 2002´ - Fassadenwettbewerb der Landeshauptstadt MÜnchen, hier: Erweiterung der ehrenamtlichen Gutachterkommission um eine Vertreterin / einen Vertreter der Dachdecker-Innung München - Oberbayern - PERSPEKTIVE MÜNCHEN Leitprojekt Verkehrsentwicklungsplan 2005; a) Ergebnis der Öffentlichkeitsbeteiligung, b) Ergebnisse und Entscheidungsvorschlag, c) Anträge
+- TOP 13.4.: Vollversammlung des Stadtrates vom 16.02.06 - Beteiligung im Netz; Die Stadt verbessert ih ihrem Internetauftritt die Angebote zur Beteiligung im Netz
+- TOP 13.5.: Bauausschuss vom 07.02.06 - Verkehrsgerechter Straßenausbau der Bahnunterführung Bergsonstraße - Umgestaltung / Sanierung von Lützow- und Rembrandtstraße (Antrag von Herrn Stadtrat Thomas Schmatz vom 05.10.05); Keine Umgestaltung / Sanierung der Lützow- und Rembrandtstraße (BA-Antrag Nr. 643 vom 04.10.05)
+- TOP 13.6.: Ausschuss für Stadtplanung und Bauordnung vom 01.02.06 - "Wohnen in München III" - München Modell; Grundsatzbehandlung der Modalitäten für das München Modell
+- TOP 13.7.: Vollversammlung des Stadtrates vom 25.01.06 - Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse und der einschlägigen Verbände
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Stadtwerke München GmbH - Zusammenarbeit SWM GmbH / Bezirksausschüsse; regelmäßige Informationen über Baumaßnahmen der SWM GmbH - Baumaßnahmen der Stadtwerke München GmbH, Liste zum Stichtag 20.02.06
+- TOP 14.2.: Münchner Verkehrsgesellschaft mbH - Verlegte Bushaltestelle Pasing Bahnhof der Buslinien 143 und 160; Anbringen eines Wartehäuschens bzw. eines Schutzdaches (BA-Schreiben vom 24.01.06)
+- TOP 14.3.: Kreisverwaltungsreferat - Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO, hier: Genehmigung des Pasinger Faschingstreibens mit Programm am 28.02.06 - Parkverbot vor dem Kinderhaus Floßmannstraße 3 - Straßenzustand und -führung im Bereich Scheurlinstraße, Hartlebenstraße, Haidelweg - Versammlung unter freiem Himmel am 25.02.06 von 10.00 - 18.00 Uhr, Bahnhofsplatz 3 / Ecke Gleichmannstraße
+- TOP 14.4.: Direktorium - Budget-Anträge von Alten- und Service-Zentren
+- TOP 14.5.: Baureferat - G 8 Erweiterungsbau Karlsgymnasium, Am Stadtpark 21
+- TOP 14.6.: Sozialreferat - Integrationskurse - Bilanz nach einem Jahr; Tagung am 16.03.06 von 10.00 bis 17.30 Uhr im großen Sitzungssaal des Rathauses am Marienplatz - Protokolle der Sitzung der Arbeitsgruppe Wohnungslosigkeit vom 19.10.05 und 29.11.05
+- TOP 14.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.8.: Referat für Stadtplanung und Bauordnung - Allgemeines Eisenbahngesetz (AEG); Planänderung gem. § 76 Abs. 2 VwVfG analog für das Vorhaben Betonschalthaus an der Bärmannstraße
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: Gemeinde Gräfelfing - Bau der Staatsstraße 2063 neu als Ortsumfahrung Gräfelfing/Planegg - Gesamtfortschreibung des Landesentwicklungsprogramms 2005; Sonderflughafen Oberpfaffenhofen - Information des Bayerischen Städtetages zum Thema "Feinstaubbelasung"; Ministerrat legt neues Maßnahmenpaket vor
+- TOP 14.2.: Kreisjugendring München-Stadt - "Wir sind die Zukunft", Aktionstag offene Kinder- und Jugendarbeit am 25.03.06
+- TOP 14.3.: Redaktion "Hallo München" - Vorstellung
+- TOP 14.4.: DB Station & Service AG - Bahnhof Pasing, Verbesserungsvorschläge
+- TOP 14.5.: Sozialpolitisches Forum München e.V. - Strategien einer integrativen Stadtteilentwicklung - was ist die Münchner Perspektive?; Veranstaltung am 13.03.06 um 18.30 Uhr in der Katholischen Jugendfürsorge, Adlzreiterstr. 22 (Nähe Goetheplatz)
+- TOP 15.: Verschiedenes
+- TOP 16.: Nichtöffentliche Sitzung
+- TOP 1.4: Zusammensetzung der Unterausschüsse; Nachbenennung der CSU-Fraktion für den Unterausschuss Jugend / Soziales
