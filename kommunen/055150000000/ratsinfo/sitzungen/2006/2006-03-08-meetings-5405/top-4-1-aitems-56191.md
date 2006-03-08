@@ -1,0 +1,6 @@
+# TOP 4.1: Entwurf des Haushaltsplanes 2006 und des Finanz- und Investitionsprogramms 2005 - 2009
+
+- Sitzung: Sitzung (Etat) (2006-03-08)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/56191
