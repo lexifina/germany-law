@@ -1,0 +1,84 @@
+# 48. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2006-03-08T17:00:00+01:00
+- Ende: 2006-03-08T22:08:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1074
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1074
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=31015
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Wahl eines/einer stellvertretenden Schriftführers/Schriftführerin für den Vorstand der Bezirksverordnetenversammlung - im Ausschuss abgelehnt
+- TOP 3: Konsensliste - im Ausschuss abgelehnt
+- TOP 4: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 25 BezVerwG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Einhaltung und Schutzbestimmungen im Fließtal und Unterbindung von Feuerwerken am Strandbad Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Übergang über die "Sechserbrücke" erleichtern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Zukünftige konzeptionelle Gestaltung der Reinickendorfer Bibliotheken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Mittelstreifen auf dem Wilhelmsruher Damm sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Grünflächenpflege am S-Bahnhof Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Kein weiterer Unterrichtsausfall an Reinickendorfer Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Lichtsignalanlage im Senftenberger Ring Ecke Calauer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Verzicht auf so genannte Pflanzenschutzmittel bei der BSR - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Bebauungsplan XX-207 für die Grundstücke Schloßstraße 18/19, 20, 21, 22, 23, 24 und 26, Karolinenstraße 1B, 1C, 1D, 1E und 1F, für das Flurstück 928 sowie für einen Abschnitt der ehemaligen Straße 2 (Flurstück 929), der Schloßstraße und der Karolinenstraße im Bezirk Reinickendorf, Ortsteil Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Erfahrungsbericht des Patientenfürsprechers des Krankenhauses Reinickendorf in der Vivantes GmbH - ö. B. Humboldt-Krankenhaus - für das Jahr 2005 - überwiesen
+- TOP 7.11: Erlass der Verordnungen über die Festsetzungen der Bebauungspläne XX-25 a-w für die Gartenstadt Frohnau im Bezirk Reinickendorf von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Umstrukturierungen im Bereich des Jugendamtes im Rahmen des gesamtstädtischen Projektes "Optimierung der Entscheidungsprozesse, der Organisation und der Finanzierung der Berliner Jugendhilfe - Einführung der Sozialraumorientierung" (Projekt SRO) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Reinickendorfer Umweltpreis - beantwortet
+- TOP 8.1.1: Reinickendorfer Umweltpreis - überwiesen
+- TOP 8.2: Schulschwänzen in Reinickendorf - beantwortet
+- TOP 8.3: Beschwerdemanagement - überwiesen
+- TOP 8.4: Wahrheitsgehalt von Aussagen eines Bezirksamtsmitgliedes - beantwortet
+- TOP 8.5: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.5.1: Bebauungsplan XX-286 für Teilflächen der Grundstücke Berliner Straße 19, 26, 27 und 35 sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-286 - ohne Änderungen in der BVV beschlossen
+- TOP 8.5.2: Entwurf des Bebauungsplanes XX-237 für die Grundstücke Alt-Heiligensee 63/111 und 100/114, für den südlichen Teil des Dorfangers, für einen Abschnitt der Straße Alt-Heiligensee sowie für Teilflächen des Heiligensees und der Havel sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-237 - ohne Änderungen in der BVV beschlossen
+- TOP 8.5.3: Entwurf des Bebauungsplanes XX-236c für die Grundstücke Fährstraße 33 - 36, Alt-Heiligensee 70/72, 82/88, 94, Straße 366 Nr. 2 - 3 ... sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-236c - ohne Änderungen in der BVV beschlossen
+- TOP 8.5.4: Entwurf des Bebauungsplanes XX-235 für die Grundstücke Alt-Heiligensee 11/61 A, für den nördlichen Teil des Dorfangers sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-235 - ohne Änderungen in der BVV beschlossen
+- TOP 8.5.5: Entwurf des Bebauungsplanes XX-172a für das Gelände zwischen der südwestlichen Grenze des Grundstücks Alt-Heiligensee 10 ... sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-172a - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Sprachkurs-Konzept für Neuzuwanderer - erledigt
+- TOP 9.2: Mehr Demokratie - Über neue Bürgerrechte informieren - erledigt
+- TOP 9.3: Zusätzliche Haltestelle im Bereich Bernauer Straße / Neheimer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Keine Militanten in Reinickendorf! - vertagt
+- TOP 9.5: Bezirksamt Reinickendorf - fit wie ein Turnschuh! - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Gesamtkonzept für als besonders belastet ausgewiesene Kieze in Reinickendorf - vertagt
+- TOP 9.7: Behindertengerechte S-Bahnzüge für Linie 8 - erledigt
+- TOP 9.8: Ausstattung der Grundschulen im Fach Naturwissenschaft - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Neuregelung für externe Führungen in den Staatlichen Museen zu Berlin - in der BVV abgelehnt
+- TOP 9.10: Schulreinigung im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Optimierung der Schnellbuslinie X 33 - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Haltestelle Humboldt-Krankenhaus - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Takt der Buslinie A 124 verkürzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Videoüberwachung für die U-Bahnlinie 8 - erledigt
+- TOP 9.15: Konzept für die Absicherung der therapeutischen Versorgung in Schulen und Kindertagesstätten - ohne Änderungen in der BVV beschlossen
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Kleingartenkolonien erhalten - vertagt
+- TOP 10.2: Keine Teilverkäufe der GeSoBau im Märkischen Viertel - vertagt
+- TOP 10.3: Keine Ausgrenzung von Mitbürgern in Reinickendorf - vertagt
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Jugendliche vor Alkoholmissbrauch schützen - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Generationsübergreifende Freiwilligendienste - KEK - - überwiesen
+- TOP 11.3: Kooperation Graphothek - Wirtschaft - überwiesen
+- TOP 11.4: "Freiwilligen Ordnungsdienst" einführen - überwiesen
+- TOP 11.5: Freihalten von Schwerbehindertenparkplätzen besser überwachen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Spielplatzwächter einsetzen - überwiesen
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Personalmittel für Schuldnerberatung verstärken - überwiesen
+- TOP 12.2: Keine Verkäufe der GeSoBau im Märkischen Viertel - vertagt
+- TOP 12.3: Modellversuch Job Center - überwiesen
+- TOP 12.4: Künstlerhof Frohnau erhalten - vertagt
+- TOP 12.5: Unterstützung des Reinickendorfer Buchhandels - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Anzeigentafel Sporthalle Cyclopstraße in Stand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Tagsüber Aufsicht auf S-Bahnhof Wittenau bzw. Schalterpersonal auf den Bahnsteigen in Frohnau und Wittenau - überwiesen
+- TOP 12.8: Angebotserweiterung des Berliner Familien- und Freizeitpasses - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Haltestelle an der Wendeschleife Neheimer Straße Ecke Namslaustraße - überwiesen
