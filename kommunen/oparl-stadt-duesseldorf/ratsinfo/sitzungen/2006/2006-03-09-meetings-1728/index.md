@@ -1,0 +1,65 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-03-09T14:00:00+01:00
+- Ende: 2006-03-09T19:02:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1728
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1728
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111905.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111905.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111905.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - mehrheitlich beschlossen
+- TOP 3: Beig. Kultur - mehrheitlich beschlossen
+- TOP 4: Wahl eines/einer Beigeordneten für Planen und Baue - mehrheitlich beschlossen
+- TOP 5: Bestellung StD - mehrheitlich beschlossen
+- TOP 6: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 7: akt. Anfr. Kahl: Wem gehört die Welt - zur Kenntnis genommen
+- TOP 8: Akt. Anfr. Kahl: Unterzeichung Anfragen - mehrheitlich abgelehnt
+- TOP 9: Anfr. Akt. SPD: Leben im Hafen - zur Kenntnis genommen
+- TOP 10: Akt. Anfr. Laubenburg: Handschellen - zur Kenntnis genommen
+- TOP 11: Akt. Anfr. Laubenburg: Straftaten - zur Kenntnis genommen
+- TOP 12: Anfragen - zur Kenntnis genommen
+- TOP 13: Finanzbedarf betr. Hartz-Reform - zur Kenntnis genommen
+- TOP 14: Anfrage Bü90/Grü: Aufhebung d. Schulbezirke - zur Kenntnis genommen
+- TOP 15: Anfr. SPD: AG Fahrrad - zur Kenntnis genommen
+- TOP 16: Anfr.SPD:Beabs. Kürzungen Landeshaushalt 2006 - zur Kenntnis genommen
+- TOP 17: Anfr. Rf Mann: Gleichstellung Behinderter - zur Kenntnis genommen
+- TOP 18: Anfr. CDU: Wehrhahnlinie - zur Kenntnis genommen
+- TOP 19: Anfr. FDP: Wachstum - zur Kenntnis genommen
+- TOP 20: Anträge - zur Kenntnis genommen
+- TOP 21: Antr.SPD: Grundschulbezirke nicht auflösen - zur Kenntnis genommen
+- TOP 22: Antr. CDU: Flaggen - zur Kenntnis genommen
+- TOP 23: Antr. Bü90:Landeshaushalt - zur Kenntnis genommen
+- TOP 24: Antr. CDU-FDP: Gemeindefinanzierung - zur Kenntnis genommen
+- TOP 25: Rechenschaftsbericht 2004 - einstimmig beschlossen
+- TOP 26: Entlastung des OB - mehrheitlich beschlossen
+- TOP 27: Schlussbericht des RPAu - mehrheitlich beschlossen
+- TOP 28: Kämmererliste - mehrheitlich beschlossen
+- TOP 29: Sanierung Inselstr., Bau- und Finanzierungsbeschl. - einstimmig beschlossen
+- TOP 30: Erschließung des Baugebietes "Am Quellenbusch" - einstimmig beschlossen
+- TOP 31: Umwandlung von Hauptschulen - einstimmig beschlossen
+- TOP 32: Betriebsträgerwechsel Kitas - einstimmig beschlossen
+- TOP 33: Bau, Einricht. und Instands. üpl Bereitstellung - einstimmig beschlossen
+- TOP 34: 3-fach Sporthalle Brinckmannstraße - einstimmig beschlossen
+- TOP 35: Umbau Kranbahn Hafenbecken A zur Promenade - einstimmig beschlossen
+- TOP 36: Masterplan Schulen Elly-Heuss-Knapp-Schule, Siegb - einstimmig beschlossen
+- TOP 37: OU Flingern 2. BA - mehrheitlich beschlossen
+- TOP 38: Stresemannplatz - einstimmig beschlossen
+- TOP 39: Verleihung des Kunstpreises der Landeshaupstadt Dü - einstimmig beschlossen
+- TOP 40: Sonntagsfreigaben - mehrheitlich beschlossen
+- TOP 41: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 42: Plan Nr. 5777/53 - Bruchstr./Hellweg - einstimmig beschlossen
+- TOP 43: FNP106-DuisburgerLandGartenc-Anr.Änd.Plan - einstimmig beschlossen
+- TOP 44: FNp 101-Kaldenberger Hof - Anr.Änd. Plan - einstimmig beschlossen
+- TOP 45: FNP-Ä 85 - Hohenzollernallee - Anregungen; Plan - mehrheitlich beschlossen
+- TOP 46: FNP-Änderung Nr. 77 - Tannenstraße - Plan - einstimmig beschlossen
+- TOP 47: BPl5974/29-Grünzug2-Anreg.Änd.Satzung - einstimmig beschlossen
+- TOP 48: B-Plan Nr. 5578/038 - Annastraße - einstimmig beschlossen
