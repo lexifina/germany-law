@@ -1,0 +1,8 @@
+# TOP 6: Konzept Abfallsammelstellen
+
+- Sitzung: Umwelt- und Feuerwehrausschuss (2006-03-09)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/105744
+- Ergebnis: Einstimmiger Beschluss
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/4639
