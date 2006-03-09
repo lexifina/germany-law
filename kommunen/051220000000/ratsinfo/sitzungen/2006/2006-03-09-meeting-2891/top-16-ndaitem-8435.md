@@ -1,0 +1,7 @@
+# TOP 16: Gehölzschnittarbeiten in der Grünanlage Kannenhof
+
+- Sitzung: Bezirksvertretung Mitte (2006-03-09)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/8435
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/6338
