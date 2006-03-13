@@ -1,0 +1,69 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2006-03-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/817427
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/817427
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.1.: Messenachnutzung Sendlinger Dreieck
+- TOP 2.2.: Flächendeckende Aufstellung von 4F-Circle-Bewegungsinseln
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Zwangs-Umzüge von Seniorinnen und Senioren - <div>nach Antrag</div>
+- TOP 3.2.: Bauvorhaben Greinerberg 17 - <div>nach Antrag</div>
+- TOP 3.3.: Bauvorhaben Königsdorfer- / Thalkirchner Straße; Neubau eines Parkhauses auf dem Gelände der Großmarkthalle Realisierung einer Einrichtung zur stationären und ambulanten Altenpflege bzw. für "Betreutes Wohnen" parallel zur Nutzung als Parkhaus / Anwohnerparkgarage - <div>Zustimmung</div>
+- TOP 4.: Schulreferat
+- TOP 4.1.: Nutzungskonzept für die Bezirkssportanlage Dietramszeller Straße 9 - <div>Zur Kenntnis genommen</div>
+- TOP 5.1.: Brudermühlstraße 25; Errichtung einer Warenstellage
+- TOP 5.2.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Einführung einer Kreisverkehrregelung Am Harras; Antrag aus der Bürgerversammlung des siebten Stadtbezirkes
+- TOP 6.2.: Gehwegparken in der Aberlestraße am Minimalmarkt - <div>qualifizierte Vertagung</div>
+- TOP 6.3.: Demonstration für ein besseres Gesundheitswesen am 08.07.06
+- TOP 6.4.: Meldeliste Projekte der Stadtwerke München - <div>Zur Kenntnis genommen</div>
+- TOP 6.5.: Handlungsstand Mittlerer Ring 2001 - 2006 - <div>bekannt geben</div>
+- TOP 7.1.: Budgetantrag "Sendlinger Fußballwelten"; ? 1800,-
+- TOP 7.2.: Budgetantrag auf Finanzierung eine Blitzschutzanlage für die Tagespflege Babydaisy, Daiserstraße 3; ? 5000,-
+- TOP 7.3.: Budgetantrag auf Erstellung eines interaktiven Stadtteilführers; ? 1.200,-
+- TOP 7.4.: Budgetantrag des Chors der Himmelfahrtskirche; ? 4.482,-
+- TOP 7.5.: Budgetanträge von Alten-Service-Zentren
+- TOP 7.6.: Erweiterung und Ausbau der BA-Rechte
+- TOP 7.7.: Budgetantrag Projekt "Solartektur" im Rahmen der Stadtteilwoche Sendling; ? 1500,-
+- TOP 7.8.: Budgetantrag Festumzug Stadtteilwoche
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Maronstraße
+- TOP 8.3.: Bauvorhaben Nutzungsänderung Thalkirchner Straße 126; Feinkostgeschäft zu türkischen Schnellimbiss - <div>gemäß Ausschussbeschluss</div>
+- TOP 8.4.: Bauvorhaben Schanzenbachstraße 1; Vorbescheid
+- TOP 8.5.: Bauvorhaben Gotzinger Straße 56; Neubau von vier Stadthäusern mit Tiefgarage
+- TOP 8.6.: Bauvorhaben Isarauen 8; Neuordnung des Biergartens - Vorbescheid
+- TOP 8.7.: Beteiligung im Netz
+- TOP 8.8.: Perspektive München
+- TOP 8.9.: Fassadenwettbewerb der Landeshauptstadt München
+- TOP 8.10.: Bauvorhaben Werbeanlage Radlkoferstraße
+- TOP 9.: Baureferat
+- TOP 9.1.: Brücken über die Lipowskystraße und Ganghoferstraße; Realisierung einer baulichen Trennlinie zwischen Geh- und Radweg
+- TOP 9.2.: Umgestaltung der Albert-Roßhaupter-Straße - <div>Zustimmend zur Kenntnis genommen</div>
+- TOP 9.3.: Wiederaufnahme der Straßenarbeiten in der Ganghofer- / Pfeufer- und Radlkoferstraße
+- TOP 9.4.: Entfernung und Wiederaufbau eines Spielgerätes in der Kita Wackersberger Str. 15
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Ersatzpflanzungen Bauvorhaben Lipwoskystraße 32; Antwort des Planungsreferates
+- TOP 10.2.: Baumpflegearbeiten Grünanlage Neuhofen Süd
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 11.1.: Punkt B. Schulweghelfer für die Schule am Gotzinger Platz - <div>Zur Kenntnis genommen</div>
+- TOP 11.2.: Punkt C: Verkehrsführung während Bautätigkeiten Punkt D: Verkehrslenkende Maßnahmen nach Schadstoffmeßung - <div>Zur Kenntnis genommen</div>
+- TOP 11.3.: Einrichtung eines paritätisch besetzten Begegnungsbüros im Türkisch-Islamischen Kulturzentrum (Punkt E 1) Deutschkursangebot für Mütter (Punkt E 3) - <div>Zur Kenntnis genommen</div>
+- TOP 11.4.: Punkt E 2: muttersprachlicher Ergänzungsunterricht - <div>Zur Kenntnis genommen</div>
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Live-Musik in Aussegnungshallen
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
