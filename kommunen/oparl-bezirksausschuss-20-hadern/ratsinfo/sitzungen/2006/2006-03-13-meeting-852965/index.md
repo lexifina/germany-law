@@ -1,0 +1,72 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2006-03-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/852965
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/852965
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Antrag auf Veröffentlichung der Protokolle der öffentlichen Sitzungen
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Windeckstr. 56, gem. Baumbestandsplan Nr. 2836
+- TOP 3.2.: Hertlstr. 24, gem. Baumbestandsplan 2002
+- TOP 3.3.: Waldgartenstr. 9, 1 Tanne
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Liste des Baureferates vom 06.02.2006
+- TOP 3.2.: Senftenauer Str. 4, 1 Weide (Referat für Stadtplanung und Bauordnung, 03.02.2006)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Informationen über den Planungsstand bezüglich der Umsiedlung einiger Innenstadt-Universitätskliniken nach Hadern
+- TOP 6.: Entscheidungsfälle
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Baumfällungen für den Mensaneubau Erasmus-Grasser- und Ludwigsgymnasium, Fürstenrieder Str. 159 (Baureferat, 13.02.2006)
+- TOP 7.2.: Budget-Anträge von Alten- und Service-Zentren (Direktorium, 14.02.2006)
+- TOP 7.3.: Baumaßnahmen der Stadtwerke München, Liste vom 10.02.2006, 20.02.2006 (SWM, 13.02.2006, 20.02.2006)
+- TOP 7.4.: Puppentheatervorführung am Max-Lebsche-Platz vom 27.04.-01.05.2006, Bescheid zur Ausnahmebewilligung (Baureferat, 02.02.2006)
+- TOP 7.5.: Zweckentfremdung von Wohnraum - Platanenstr. 17b (Sozialreferat, 01.02.2006)
+- TOP 7.6.: Erteilung einer öffentlich-rechtlichen Sondernutzungserlaubnis für eine Sammelhinweisanlage an der Silberdistel-/Senftenauer Straße (Baureferat, 06.02.2006)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.: Veranstaltung auf dem Max-Lebsche-Platz, Flohmarkt (Baureferat, 21.02.2006)
+- TOP 8.3.: Würmtalstr. 97, Neubau einer Tankstelle (Referat für Stadtplanung und Bauordnung, 21.02.2006)
+- TOP 8.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Stadtgestalterische Aufwertung des Max-Lebsche-Platzes, Antrag Nr. 684 vom 25.10.2005 (Referat für Stadtplanung und Bauordnung)
+- TOP 9.2.: Aufstellung von weiteren Müllbehältern am Bolzplatz am Fürstenrieder Wald; Neugestaltung des Kleinkinderspielplatzes Am Wiesenhang (Baureferat, 10.02.2006)
+- TOP 9.3.: Straßenabmarkierung im 20. Stadtbezirk, Antr. Nr. 547 vom 17.08.2006 (Kreisverwaltungsreferat, 27.01.2006)
+- TOP 9.4.: Installation von neuen Verkehrsleitsystemen an der BAB A 96 zwischen Stadtgrenze München und Fürstenrieder Straße, Antr. Nr. 839 vom 20.12.2005 (Kreisverwaltungsreferat, 25.01.2006)
+- TOP 9.5.: Tempo-30-Schilder bei der Bushaltestelle Zöllerstraße (Kreisverwaltungsreferat, 02.02.2006)
+- TOP 9.6.: Baustelle Schröfelhofstraße; Gefährdung für Schulweg, Anfrage aus der Bürgerversammlung vom 29.09.2005 (Referat für Stadtplanung und Bauordnung, 12.01.2006)
+- TOP 9.7.: Fällungen in der Tischlerstraße, Unterrichtung über das Fällen von Gefahrenbäumen, Liste des Baureferates vom 22.11.2005 (Baureferat, 14.02.2006)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Chefinfo des Bayer. Städttags vom 10.02.2006 - Feinstaubbelastung: Ministerrat legt neues Maßnahmenpaket vor (Gem. Gräfelfing, 1. Bürgermeister Göbel, 10.02.2006)
+- TOP 11.2.: Live-Musik in Aussegnungshallen (BA 12, 01.02.2006)
+- TOP 11.3.: Veranstaltung eines Flohmarktes in der Grünanlage/Spielplatz südlich der städtischen Baumschule (Ecke Senftenauer Straße / Willibaldstraße) am 28.04.2006 (Elternbeirat der "Spielkiste Blumenau e.V.", 06.02.2006)
+- TOP 11.4.: Veranstaltung: Strategien einer integrativen Stadtteilentwicklung - was is die Münchner Perspektive? am Montag, den 13.03.2006 um 18.30 Uhr im Veranstaltungsraum der Kath. Jugendfürsorge, Adlzreiterstr. 22 (Sozialpolitisches Forum München e.V., 16.02.2006)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: am 25.01.2006 Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der BA´s und der einschlägigen Verbände
+- TOP 12.1.: am 16.02.2006 Beteiligung im Netz, Die Stadt verbessert in ihrem Internetauftritt die Angebote zur Beteiligung im Netz
+- TOP 12.1.: Bauausschuss vom 07.02.2006; Wiederherstellung von Leitungsschächten in Straßen
+- TOP 12.2.: Kreisverwaltungsausschuss vom 24.01.2006 Lkw-Nachtfahrverbot in der Fürstenrieder Straße vom Bahnhof Laim bis zum Waldfriedhof; Lkw-Nachtfahrverbot in der Fürstenrieder Straße von der Landsberger Straße bis zur Ammerseestraße
+- TOP 12.3.: Ausschuss für Stadtplanung und Bauordnung vom 11.01.2006 Auswirkungen der Verfahrensbeschleunigung für Bundesvorrangprojekte
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Ausschuss für Stadtplanung und Bauordnung vom 01.02.2006 "Wohnen in München, III" - München Modell, Grundsatzbehandlung der Modalitäten für das München Modell
+- TOP 12.1.: Ausschuss für Stadtplanung und Bauordnung vom 22.02.2006 Fassadenwettbewerb der LH München, hier: Erweiterung der ehrenamtlichen Gutachterkommission um eine Vertreterin / einen Vertreter der Dachdecker-Innung München - Oberbayern
+- TOP 12.2.: Gemeinsame Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Verwaltungs- und Personalausschusses vom 08.02.2006 Beteiligung im Netz, Die Stadt verbessert in ihrem Internetauftritt die Angebote zur Beteiligung im Netz
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
