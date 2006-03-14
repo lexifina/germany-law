@@ -1,0 +1,63 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2006-03-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/810333
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/810333
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Gehbahnparker im Westend
+- TOP 4: Beschlüsse des BA 8
+- TOP 5: Anhörungen
+- TOP 5.1.: Erweiterung und Ausbau der BA-Rechte
+- TOP 5.2.: Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo AntragNr. 1062 des BA 15 vom 10.04.03
+- TOP 5.3.: Kulturdult am Georg-Freundorfer-Platz am 13.05.2006
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Handlungsprogramm Mittlerer Ring 2001 - 2005 a) 4. Sachstandsbericht b) Ergebnisse der Beratungen des Konsiliums und Ausblick c) Anträge und Empfehlungen
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Leitlinie "Kinder und Familienpolitik" Bericht vom Treffen der Kinderbeauftragten der BAs
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Münchner BladeNight 2006 Überarbeitetes Konzept Zur Kenntnis und ggf. Stellungnahme
+- TOP 6.4.2.: Martin-Greif-Straße/Bavariaring/Theresienhöhe Lückenschluss "Innerer Radroutenring" (INRR) im 2. und 8. Stadtbezirk
+- TOP 6.4.3.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 6.4.4.: Baumfällungen bei Straßenarbeiten in der Theresienhöhe zwischen Messeplatz und Lipowskybrücke Beschluss der Vollversammlung des Stadtrates vom 22.06.05
+- TOP 7: Erledigungen
+- TOP 7.1.: Antwortschreiben MVG - Informationen zum Silvesterverkehr der MVG
+- TOP 7.1.1: Rathaus-Umschau, 23.02.06 Antwort auf Stadtratsanfragen Silvesternacht - mangelnde Verkehrsversorgung in München
+- TOP 7.2.: Öffentliche Wasserstelle im Messepark Empf.Nr 02-08/ E 00151 Antwort auf Schreiben vom 07.02.06
+- TOP 7.3.: Baumfällung Kazmairstr. 36
+- TOP 8: Anträge
+- TOP 8.1.: Überwachung der Baustelleneinrichtung
+- TOP 8.2.: Baustelleneinrichtungen
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Information über anstehende und laufende Bauvorhaben der SWM
+- TOP 9.2.: Meldeliste vom 06.02.06 - 12.02.06 Erstantragsverfahren a) Theresienhöhe 10 b) Ganghoferstr. 68
+- TOP 9.3.: Meldeliste vom 06.02.06 - 12.02.2006 Änderungsverfahren a) Ganghoferstr. 31
+- TOP 9.4.: Meldeliste vom 13.02.06 - 19.02.06 Änderungen a) Ligsalzstr. 22
+- TOP 9.5.: Meldeliste vom 20.02.06 - 26.02.06 Vorbescheide a) Guldeinstr. 46
+- TOP 10: Verschiedenes
+- TOP 10.1.: Fragebogen zu REGSAM; Einschätzung der BAs Stellungnahme des BA 9
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: DIR - Zuwendgungsbescheid vom 22.02.06 Antrag vom 15.12.2005 der Kath. Jugendseelsorge
+- TOP 11.2.: DIR- Zuwendungsbescheid vom 22.02.06 Budgetantrag vom 23.12.05 der Initiativgruppe e.V.
+- TOP 11.3.: KVR - Veranstaltung auf öffentlichem Verkehrsgrund Faschingsveranstaltung am Heimeranplatz am 28.02.06 Erlaubnisbescheid
+- TOP 11.4.: Unveränderte Fortführung von Gaststätten Kazmairstr. 37
+- TOP 11.5.: BauReferat - Veranstaltungen auf Grünanlagen Flohmärkte am Gollierplatz 2006
+- TOP 11.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.06 (VB) Fassadenwettbewerb der LH München
+- TOP 11.7.: Beschluss der Vollversammlung des Stadtrates vom 16.02.06 2. S-Bahn-Stammstrecke München; Planfestellungsverfahren nach § 18 abs. 1 Allg. Eisenbahngesetz a)Planfeststellungsabschnitt 1 München West Stellungnahme der LH München b) Weitere Informationen zu den Verfahren c) Anträge
+- TOP 11.8.: Beschluss der Vollversamlmung des Stadtrates vom 25.01.06 Die Münchner BaumschutzVO; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der BAs und der einschlägigen Verbände
+- TOP 11.9.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.2006 (VB) PERSPEKTIVE MÜNCHEN Leitprojekt Verkehrsentwicklungsplan 2005
+- TOP 11.10.: Beschluss des Gesundheitsausschusses vom 09.02.06 (SB) Frühkindliche Gesundheitsförderung Weiterentwicklung nach SChließung der Mütter-/Väterberatungsstellen zugunsten vermehrter Hausbesuche
+- TOP 11.11.: Standpunkte 03/2006 Münchner Forum Verkehrsentwicklung in München
+- TOP 11.12.: Münchner Statistik 04/05
