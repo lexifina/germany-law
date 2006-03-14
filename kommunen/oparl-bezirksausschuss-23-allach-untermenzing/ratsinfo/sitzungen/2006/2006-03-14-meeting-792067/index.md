@@ -1,0 +1,76 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2006-03-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/792067
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/792067
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: S-Bahnhof Untermenzing
+- TOP 1.2.: Allacher Friedhof
+- TOP 1.3.: Änderung des Fahrplanes der Buslinie 164
+- TOP 1.4.: Spiel- und Bolzplatz Behringstraße
+- TOP 1.5.: Spielplatz an der Megerlestraße; Begehung zusammen mit Eltern sowie Aufstellung von 2 Wippen
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Antrag auf Zuschuss aus dem Budget in Höhe von 1.000 Euro für den Kauf von GPS-Geräten für die Einsatzfahrzeuge; Antragsteller BRK Wasserwacht, Ortsgruppe München-West
+- TOP 5.: Anhörungen
+- TOP 5.1.: Münchner Blade Night - überarbeitetes Konzept 2006
+- TOP 5.2.: Sicherung der BA - Entscheidungsrechte in der Messestadt und anderswo
+- TOP 5.3.: Gemeinde Karlsfeld; Bebauungsplan Nr. 73 Rothschwaige, südlich Auwaldstraße
+- TOP 5.4.: Erweiterung der Parkscheibenzone ggü. Zum Schabenbächl 47 auch auf Samstag
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Budget-Anträgen von Alten-und Service-Zentren
+- TOP 8.2.: Verkehrsberuhigung Jestelstraße
+- TOP 8.3.: Verwendungsnachweis über Zuschuss aus dem Budget; Antragsteller: Verein zur Förderung der Jugendarbeit
+- TOP 8.4.: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: TSV Allach 09 Turnen und Handball e. V.
+- TOP 8.5.: Programm " Bürgerinnen und Bürger gestalten ihre Stadt " - Bürgerbeteiligung in den Stadtvierteln
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Hochtief- und Junkersgelände östlich der Schöllstraße
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Z 283 "Lieferverkehr frei" in der Bauschinger Straße auf der Rechtsabbiegespur zu MAN
+- TOP 10.2.: Zusatzschild "Schrittgeschwindigkeit" zum Verkehrszeichen "verkehrsberuhigter Bereich"
+- TOP 10.3.: Gaststätte "Bistro Anadolu", Eversbuschstr. 74; unveränderte Fortführung
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Bauanträge (v. 06.02.-12.02., 13.02.-19.02., 20.02.-26.02.)
+- TOP 11.2.: Vollzug der BaumschutzVo a) Dachauer Str. 667, s. Baumbestandsplan b) Obere Mühlstr. 50, 1 Birke c) Nätherstr. 3b, s. Baumbestandsplan Nr. 2005-2592 d) Zum Schwabenbächl, 4 Erlen e) Eversbuschstraße, s. Baumbestandsplan Nr. 2006-2370 f) Korbinian-Beer-Str. 20, s. Baumbestandsplan Nr. 2006-3213 g) Nigglstr. 3, 1 Blauzeder h) Hormayrstr. 4, s. Baumbestandsplan Nr. 2005-36781 i) Theodor-Fischer-Straße, s. Baumbestandsplan Nr. 2005-36875
+- TOP 11.3.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Berich V/4 Ludwigsfelder Straße (südlich) - Hackersiedlung -
+- TOP 11.4.: Perspektive München - Bericht zur Stadtentwicklung 2005
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: Vorstellung der 4F-Circle-Bewegungsinseln
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Ergebnisprotokoll aus der Sitzung der Arbeitsgruppe Wohnungslosigkeit am 29.11.05
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Fa. Bayerische Asphaltmischwerke GmbH & Co.KG, Paul-Ehrlich-Weg 130
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 9 Neuhausen-Nymphenburg: Fragebogen zu REGSAM; Einschätzung der BAs
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen der Stadtwerke
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Vollversammlung vom 25.01.06: - Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der Bezirksausschüsse und der einschlägigen Verbände
+- TOP 22.2.: Ausschuss für Stadtplanung und Bauordnung vom 01.02.06: - "Wohnen in München III" - München Modell, Grundsatzbehandlung der Modalitäten für das München Modell
+- TOP 22.3.: Ausschuss für Stadtplanung und Bauordnung vom 08.02.06: - Beteiligung im Netz; die Stadt verbessert in ihrem Internetauftrag die Angebote zur Beteiligung im Netz - Perspektive München - Leitprojekt Verkehrsentwicklungsplan 2005
+- TOP 22.4.: Gesundheitsausschuss vom 09.02.06: Frühkindliche Gesundheitsförderung; Weiterentwicklung nach Schließung der Mütter-/ Väterberatungsstellen zugunsten vermehrter Hausbesuche
+- TOP 22.5.: Vollversammlung vom 16.02.06: - Beteiligung im Netz; die Stadt verbessert in ihrem Internetauftrag die Angebote zur Beteiligung im Netz
+- TOP 22.6.: Schulausschuss vom 22.02.06: - Errichtung einer Kindertagesstätte mit 3 Kindergartengruppen am Pasinger Heuweg
+- TOP 22.7.: Ausschuss für Stadtplanung und Bauordnung vom 22.02.06: - Abgeschlossenheitsbescheinigungen und Abbruchanzeigen im Jahr 2005 - Fassadenwettbewerb der LH München; hier: Erweiterung der ehrenamtlichen Gutachter um eine Vertreterin / einen Vertreter der Dachdecker-Innung München-Oberbayern - Perspektive München, Leitprojekt Verkehrsentwicklungsplan 2005
+- TOP 22.8.: Ausschuss für Stadtplanung und Bauordnung vom 08.03.06: - Bebauungsplan mit Grünordnung Nr. 1871, Ludwigsfelder Straße (südlich) - Hackersiedlung - (Satzungsbeschluss) - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/20, Untere Angerlohe; endgültiger Beschluss - Bebauungsplan mit Grünordnung Nr. 1969, Untere Angerlohe (Satzungsbeschluss) - Bebauungsplan mit Grünordnung Nr. 1857, Von-Kahr-Straße, Allacher Straße und Peter-Dörfler-Straße (südlich), Bahnlinie München-Regensburg (nordwestlich), Menzinger Straße (nordöstlich) und Hormayrstraße (östlich) (Teiländerung der Beb.Pl.Nr. 258, 484 c und 1393) - Satzungsbeschluss -
+- TOP 23: Verschiedenes
