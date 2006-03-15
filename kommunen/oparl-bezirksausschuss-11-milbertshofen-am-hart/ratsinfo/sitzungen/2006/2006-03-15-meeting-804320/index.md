@@ -1,0 +1,78 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2006-03-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/804320
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/804320
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: "Siedlergemeinschaft Kaltherberge München e.V.", Abhaltung eines Siedler-Straßenfestes mit Aufstellung eines Maibaumes am 01.05.2006
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Live-Musik in Aussegnungshallen, Schreiben des Bezirksausschuss 12 Schwabing-Freimann
+- TOP 4.1.: Antrag Zug-Genehmigung für Aktionstag am 24.06.2006 "Milbertshofen in Aktion" (Antrag Nr. 02-08/B00842 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 14.12.2006) Antwortschreiben des Kreisverwaltungsreferates
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: a) Elternbeirat der GS Bad-Soden-Straße; Ausstellung und Vernissage im Mai 2006 b) Schule zur Lernförderung; Streitschlichterschulung vom 10.-12.03.2006 c) Diakonie Hasenbergl; Veranstaltung am 22.02.2006 d) Kinder- und Jugendraum RIVA Nord; Musik zur Feier des 5-jährigen Bestehens am 17.02.2006
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.: Einrichtung eines barrierefreien Zugangs zum Wohnheim Karl-Rudolf-Schulte-Haus (SPD-Fraktion im BA 11)
+- TOP 7.1.: Fußgängerampel über die Buszufahrt Knorrstraße (Frauke Buchholz)
+- TOP 7.2.: Wegeverbindung Olympiapark-Rangierbahnhof-Lerchenauer See (Michael Koch)
+- TOP 7.3.: Aufstellung eines Abbiegepfeils im Bereich der Neuherbergstraße (Ralf Giermeier)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Erweiterung und Ausbau der BA Rechte; Schreiben der zweiten Bürgermeisterin Christine Strobl
+- TOP 8.2.: Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo; Schreiben der zweiten Bürgermeisterin Christine Strobl)
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a) Hufelandstr. 19, eine Weide, eine Robinie
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Baumaßnahmen: a) Schleißheimer Straße, Neubau Einkaufszentrum mit geschlossener Großgarage b) Freiligrathstr.71, Erweiterung des Lion-Feuchtwanger-Gymnasiums c)Spiridon-Louis-Ring 21, Umbau und Erweiterung der Olympiahalle München
+- TOP 8.3.: Mobilfunk; Suchkreismeldung Milbertshofen-Süd-Ost
+- TOP 8.4.: Anhörung im Einzelfall auf Anforderung: a) Spiridon-Louis-Ring 21, Umbau des Eingangsbereiches der Olympia-Schwimmhalle b) Spiridon-Louis-Ring 21, Umbau und Erweiterung Olympiahalle München c) Schleißheimer Straße, Neubau Einkaufszentrum mit geschlossener Großgarage Stadtteilzentrum Nordheide (Schleißheimer Str. / Sandbienenweg)
+- TOP 8.1.: Handlungsprogramm Mittlerer Ring 2001-2005 (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom ...Termin noch nicht bekannt)
+- TOP 8.2.: Veranstaltung auf öffentlichem Verkehrsgrund: a) Maifeier des CSU Ortsverbandes auf dem Milbertshofener Platz am 01.05.2006
+- TOP 8.3.: Einziehung einer Teilstrecke der "Torquato-Tasso-Straße
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendungen aus dem BA -Budget; Bewilligungsbescheide a) Eltern, Kind und Schule gemeinn. e.V., "Erstausstattung der Beratungsstelle"; Bewilligung 2.200,00?
+- TOP 9.2.: Budgetmittel des Bezirksausschusses 11; Konzert am 12.11.2005; Schreiben des Direktoriums
+- TOP 9.3.: Beteiligung im Netz (Beschluss des Ausschusses für Stadtplanung und Bauordnung und des Verwaltungs- und Personalausschusses in gemeinsamer Sitzung am 08.02.2006)
+- TOP 9.1.: Vollzug der Baumschutzverordnung, Genehmigung zur Fällung: a) Dientzenhoferstr. 78
+- TOP 9.2.: Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren (Beschluss der Vollversammlung des Stadtrates vom 25.01.2006)
+- TOP 9.3.: Wiederherstellung von Leitungsschächten in Straßen (Beschluss des Bauausschusses vom 07.02.2006)
+- TOP 9.4.: Vollzug der Grünanlagensatzung; Veranstaltung an der Panzerwiese, Ausnahmebewilligung
+- TOP 9.5.: Neuherbergstraße 28 (Tengelmann); Schreiben der Lokalbaukommission
+- TOP 9.6.: Lärmbelästigung durch Veranstaltungen im Olympiapark (Beschluss des Umweltausschusses vom 21.02.2006)
+- TOP 9.7.: Anwohnergaragen in München, Änderung der Prioritätenliste
+- TOP 9.8.: Abgeschlossenheitsbescheinigungen und Abbruchanzeigen im Jahr 2005 - nicht öffentlich -
+- TOP 9.9.: Baumaßnahmen der Stadtwerke München
+- TOP 9.10.: Nordheide-Westteil, Teil III, B-Plan Nr. 1779d; Bauträgerauswahl für das Bauquartier MI 1an der Schleißheimer Straße (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.2006) - nicht öffentlich -
+- TOP 9.11.: Fassadenwettbewerb der Landeshauptstadt München, hier: Erweiterung der ehrenamtlichen Gutachterkommission um eine Vertreterin / einen Vertreter der Dachdecker-Innung München Oberbayern (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.2006)
+- TOP 9.12.: Meldelisten Bauvorhaben
+- TOP 9.1.: Errichtung einer viergruppigen Kinderkrippe und einer Kinder- und Jugendfreizeitstätte Neuherbergstraße, Neubau (Beschluss des Kinder- und Jugendhilfeausschusses vom 21.02.2006)
+- TOP 9.2.: "Wohnen in München III" - München Modell (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2006)
+- TOP 9.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 9.4.: Frühkindliche Gesundheitsförderung, Weiterentwicklung nach Schließung der Mütter-/Väterberatungsstellen zugusten vermehrter Hausbesuche (Beschluss des Gesundheitsausschusses vom 09.02.2006)
+- TOP 9.5.: Fragebogen zu REGSAM, Schreiben des BA 9 Neuhausen-Nymphenburg
+- TOP 9.6.: Unveränderte Fortführung von Gaststättenbetrieben: a) SSW "Bistro Willis Playhouse", Riesenfeldstr.18
+- TOP 9.1.: Perspektive München, Leitprojekt Verkehrsentwicklungsplan 2005 (Beschluss des Ausschusses für Stadtplanung und Bauordnung am 08.02.2006)
+- TOP 9.2.: Verkehrsrechtliche Anordnungen nach §45 Abs.3 StVO: a) Milbertshofener Straße 332, Halteverbote zur Freihaltung von Feuerwehrzufahrten
+- TOP 9.3.: Veranstaltung auf öffentlichen Verkehrsgrund, Genehmigungsbescheid: a) Wanderfreunde Edelweiß München e.V.; Wandertage am 11. und 12. März 2006
+- TOP 9.4.: Filmaufnahmen auf öffentlichem Verkehrsgrund; Genehmigungsbescheid
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
