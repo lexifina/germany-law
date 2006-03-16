@@ -1,4 +1,0 @@
-# Gesetz zur Errichtung einer „Stiftung Sächsische Behindertenselbsthilfe – Otto Perl“
-Vom 24. November 1993
-Rechtsbereinigt mit Stand vom 3. Mai 2003
-Der Sächsische Landtag hat am 15. Oktober 1993 das folgende Gesetz beschlossen:
