@@ -1,0 +1,7 @@
+# TOP 14: Jahresstatistik der Unteren Denkmalbehörde für 2005; hier: Liste aller Fördermaßnahmen an Baudenkmälern im Jahr 2005
+
+- Sitzung: Bau-, Planungs-, Umwelt- und Verkehrsausschuss (15. Sitzung) (2006-03-16)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/1925
+- Ergebnis: Einstimmig
