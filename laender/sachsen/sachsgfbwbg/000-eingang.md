@@ -1,3 +1,4 @@
-# Gesetz über die Weiterbildung in den Gesundheitsfachberufen und Altenpflegeberufen im Freistaat Sachsen (SächsGfbWBG)
+# Gesetz über die Weiterbildung in den Gesundheitsfachberufen im Freistaat Sachsen (Weiterbildungsgesetz Gesundheitsfachberufe – SächsGfbWBG)
 Vom 4. November 2002
+Rechtsbereinigt mit Stand vom 16. März 2006
 Der Sächsische Landtag hat am 10. Oktober 2002 das folgende Gesetz beschlossen:
