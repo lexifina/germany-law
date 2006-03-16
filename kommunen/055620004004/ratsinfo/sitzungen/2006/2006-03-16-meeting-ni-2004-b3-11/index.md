@@ -1,0 +1,62 @@
+# 31. Sitzung des Betriebsausschusses 3 (Ausschuss für Stadtentwicklung, Bau und Verkehr)
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2006-03-16T17:05:00+01:00
+- Ende: 2006-03-16T19:40:00+01:00
+- Ort: Sitzungsraum 6, Europaplatz 1,44575 Castrop-Rauxel, ,
+- Status: terminiert
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/B3
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2004-B3-11
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2004-B3-11
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2004-B3-11
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2004-B3-11
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2004-B3-11
+
+## Tagesordnung
+
+- TOP -: Wohnungswesen
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Genehmigung des Protokolls
+- TOP -: 
+- TOP 4: Planfeststellungsverfahren nch dem Bundeswasserstraßengesetz für den Ausbau des Rhein-Herne-Kanals von km 42,4 bis km 43,4 (Querschnittserweiterung - Los 7 -) hier: Stellungnahme der Stadt Castrop-Rauxel zum Planfeststellungsverfahren
+- TOP -: 
+- TOP 5: Sanierung des Stadions am Europaplatz
+- TOP -: 
+- TOP 6: BAULEITPLANUNG Vorhabenbezogener Bebauungsplan Nr. 30 Planbereich: Grutholzallee/Habinghorster Straße hier: a) Entscheidung über die Anregungen b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss (§ 10 Abs. 1 BauGB)
+- TOP 7: BAULEITPALNUNG Bebauungsplan Nr. 173 Planbereich: Evangelisches Krankenhaus an der Grutholzallee Hier: a) Entscheidung über die Stellungnahmen b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss (§ 10 Abs. 1 BauGB)
+- TOP 8: BAULEITPLANUNG Bebauungsplan Nr. 175 Planbereich: Dauerkleingarten Deininghausen Hier: a) Entscheidung über die Anregungen b) Berücksichtigung der redaktionellen Veränderungen c) Satzungsbeschluss nach § 10 Baugesetzbuch
+- TOP 9: BAULEITPLANUNG Bebauungsplan Nr. 176 Planbereich: Dauerkleingarten Castroper Holz Hier: a) Entscheidung über die Anregungen b) Berücksichtigung der redaktionellen Veränderungen c) Satzungsbeschluss nach § 10 Baugesetzbuch
+- TOP 10: BAULEITPLANUNG Bebauungsplan Nr. 177 Planbereich: Dauerkleingarten Castrop-Nord Hier: a) Entscheidung über die Anregungen b) Berücksichtigung der redaktionellen Veränderungen c) Satzungsbeschluss nach § 10 Baugesetzbuch
+- TOP 11: BAULEITPLANUNG Bebauungsplan Nr. 178 Planbereich: Dauerkleingarten Ossenbruch Hier: a) Entscheidung über die Anregungen b) Berücksichtigung der redaktionellen Veränderungen c) Satzungsbeschluss nach § 10 Baugesetzbuch
+- TOP 12: BAULEITPLANUNG 1. Änderung des Bebauungsplanes Nr. 73a-T.1 Planbereich: 'Südlich des Ickerner Knotens' hier: a) Entscheidung über die Stellungnahmen (§ 3 Abs. 2 BauGB) b) Satzungsbeschluss (§ 10 Abs. 1 BauGB)
+- TOP 13: BAULEITPLANUNG 68. Änderung des Flächennutzungsplanes Planbereich: Hellweg / Stahlbaustraße hier: a) Entscheidung über die Anregungen b) Berücksichtigung der redaktionellen Veränderungen c) Feststellungsbeschluss
+- TOP 14: BAULEITPLANUNG Bebauungsplan Nr. 183 Planbereich: 'An der Freiheit / Am Stadtgarten' hier: Beschluss zur Aufstellung des Bebauungsplanes
+- TOP 15: BAULEITPLANUNG Bebauungsplan Nr. 180 Planbereich: Schillerstraße Hier: Beschluss zur Aufstellung des Bebauungsplanes (§ 2 Abs. 1 BauGB)
+- TOP 16: BAULEITPLANUNG Bebauungsplan Nr. 105 Planbereich: 'Freiheitstraße, 4. Änderung' hier: Beschluss zur Aufstellung des Bebauungsplanes (§ 2 Abs. 1 BauGB)
+- TOP 17: BAULEITPLANUNG Bebauungsplan Nr. 72 Planbereich: 'Kirchstraße' hier: Beschluss zur Aufstellung des Bebauungsplanes (§ 2 Abs. 1 BauGB)
+- TOP 18: BAULEITPLANUNG Vorhabenbezogener Bebauungsplan Nr. 31 Planbereich: Nahversorgungsstandort Ickerner Markt hier: Beschluss zur Einleitung des formalen Verfahrens
+- TOP 19: BODENORDNUNG Umlegungsverfahren U 24 Bereich: 'Kirchstraße' hier: Anordnungsbeschluss (§ 46 Abs. 1 BauGB)
+- TOP 20: Bestellung von Mitgliedern des Umlegungsausschusses
+- TOP 21: Flächen der Stadt Castrop-Rauxel im Bahnflächenpool hier: Konsensvereinbarung mit der BahnflächenEntwicklungsGesellschaft Nordrhein-Westfalen (BEG)
+- TOP -: 
+- TOP 22: Widmung der Straße 'Messenkamp' als Gemeindestraße
+- TOP 23: Einziehung der Straße 'Bogenweg' gemäß § 7 Straßen- und Wegegesetz NRW
+- TOP -: 
+- TOP 24: Förderung von strukturwirksamen Maßnahmen und Projekten aus den Erlösen des Kreises aus dem Verkauf der VEW-Aktien hier: Verwendung der Mittel (Stand: 31.12.2005)
+- TOP 25: Beschlusscontrolling (öffentlicher Teil)
+- TOP 26: Niederschrift über die Beschlüsse des Betriebsausschusses 3 hier: Änderung in der Bestellung eines Vertreters der Schriftführerin
+- TOP -: Betriebsausschuss 1
+- TOP 27: Antrag der CDU-Ratsfraktion vom 07.02.2006; hier: Maßnahmen zur Verbesserung der zukünftigen Verkehrssituation in Henrichen- burg-Mitte
+- TOP -: Anfragen und Mitteilungen
+- TOP 28: Anfragen der Ausschussmitglieder
+- TOP 29: Mitteilungen der Verwaltung
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP -: Bauordnung
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
