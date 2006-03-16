@@ -1,0 +1,6 @@
+# TOP -: Bauordnung
+
+- Sitzung: 31. Sitzung des Betriebsausschusses 3 (Ausschuss für Stadtentwicklung, Bau und Verkehr) (2006-03-16)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: ja
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2004-B3-11%7Czt_2%7C1
