@@ -1,0 +1,8 @@
+# TOP 6.: Neufassung der Leitlinien über das Berichtswesen der Gemeindeverwaltung Steinhagen
+
+- Sitzung: Haupt- und Finanzausschuss (11. Sitzung) (2006-03-16)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/987
+- Beratung: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/consultation/385
+- Beschluss (Datei): Beschlusstext (Neufassung der Leitlinien über das Berichtswesen der Gemeindeverwaltung Steinhagen) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaDyQ5lkCVqVdFJiwdoKXDqnEdPRggJj6gQuk1sI-_ri/Beschlusstext_VL-185-2004-2009_-oeffentlich-_Haupt-_und_Finanzausschuss_16.03.2006.pdf
