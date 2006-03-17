@@ -15,7 +15,8 @@ Erster Teil: Das Recht der Polizei
 1. Unterabschnitt: Allgemeine und besondere Befugnisse der Polizei
 § 10 | Allgemeine Befugnisse
 § 11 | Identitätsfeststellung, Prüfung von Berechtigungsscheinen
-§ 11a | Erkennungsdienstliche Maßnahmen
+§ 11a | Kontrollstellen
+§ 11b | Erkennungsdienstliche Maßnahmen
 § 12 | Vorladung
 § 13 | Befragung und Auskunftspflicht
 § 14 | Platzverweisung
@@ -35,7 +36,7 @@ Erster Teil: Das Recht der Polizei
 2. Unterabschnitt: Befugnisse zur Informationsverarbeitung
 § 27 | Grundsätze der Datenerhebung
 § 28 | Datenerhebung
-§ 29 | Datenerhebung bei öffentlichen Veranstaltungen und Ansammlungen, an besonders gefährdeten Objekten und auf öffentlichen Plätzen
+§ 29 | Datenerhebung bei öffentlichen Veranstaltungen und Ansammlungen, an besonders gefährdeten Objekten, auf öffentlichen Flächen, zur Eigensicherung und durch automatische Kennzeichenerkennung
 § 30 | Datenerhebung mit besonderen Mitteln und Methoden
 § 31 | Polizeiliche Beobachtung
 § 32 | Datenerhebung durch Observation
