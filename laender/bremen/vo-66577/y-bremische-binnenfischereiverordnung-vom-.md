@@ -1,3 +1,3 @@
-# Bremische Binnenfischereiverordnung vom 10. März 1992
-V aufgeh. durch § 13 der Verordnung vom 2. Mai 2006 (Brem.GBl. S. 251)
+# Bremische Binnenfischereiverordnung vom 2. Mai 2006
+V aufgeh. durch § 17 Satz 2 der Verordnung vom 30. September 2011 (Brem.GBl. S. 410)
 Einzelansicht Seitenanfang
