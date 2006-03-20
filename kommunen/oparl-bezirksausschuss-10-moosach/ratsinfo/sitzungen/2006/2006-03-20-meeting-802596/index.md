@@ -1,0 +1,71 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2006-03-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/802596
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/802596
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Wegeverbindung Olympiapark - Rangierbahnhof - Lerchenauer See
+- TOP 2.2.: Gehsteigparken in der Jakob-Hagenbucher-Straße
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Moosacher Stadtteilkulturtage - Moosacher Kulturfest 2006
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Parkraummanagement für den Olympiapark und Umgebung
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 6.: Anhörungen
+- TOP 6.1.: Münchner Blade Night - überarbeitetes Konzept 2006
+- TOP 6.2.: Handlungsprogramm Mittlerer Ring 2001-2005
+- TOP 6.3.: Parkraummanagement in München - Festlegung der 1. Priorität
+- TOP 6.4.: Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo
+- TOP 6.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6.: Errichtung einer Werbeanlage Würmstr. 5
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: U-Bahn-Linie 3 Nord, Los 3 Fußängerunterführung am Moosacher Bahnhof Schulbusverkehr
+- TOP 7.2.: 2. S-Bahn-Stammstrecke
+- TOP 7.3.: Bebauungsplan Nr. 1903 - Meillergelände; Spielmöglichkeiten für Jugendliche
+- TOP 7.4.: Hanauer Straße / Pelkovenstraße; Schutz des Biotops
+- TOP 7.5.: Fitness-Parcours für Moosach
+- TOP 7.6.: Errichtung eines Sperrpfostens am Verbindungsweg zwischen Magdalena-Bräu-Weg (Höhe Haylerstr.) und Donaustaufer Straße (abgelehnt)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke
+- TOP 8.2.: Planfestellung 2. S-Bahn-Stammstrecke
+- TOP 8.3.: Freischankfläche "Café Wintergarten", Hanauer Straße 7
+- TOP 8.4.: Fragebogen zu REGSAM; Einschätzung der Bezirksausschüsse (Schreiben des BA 9 Neuhausen-Nymphenburg)
+- TOP 8.5.: Überprüfung der Verkehrssituation an der Einmündung In den Kirschen - Wintrichring bzw. Frauenwörther Straße
+- TOP 8.6.: Bebauungsplan mit Grünordnung Nr. 1857; Von-Kahr-Str., Allacher Str., Peter-Dörfler-Str., Bahnlinie München-Regensburg, Menzinger Str. und Hormayrstr.
+- TOP 8.7.: Zuschussnehmerdatei 2006; Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" - des Stadtjugendamtes - des Amtes für Soziale Sicherung - des Amtes für Wohnen und Migration - des Sozialreferates / Zentrale
+- TOP 8.8.: Zweckentfremdung von Wohnraum: Simmerleinplatz 6
+- TOP 8.9.: Ergebnisprotokoll aus der Sitzung der Arbeitsgruppe Wohnungslosigkeit am 19.10.2005
+- TOP 8.10.: Fällungsgenehmigung Ernst-Platz-Str. 15
+- TOP 8.11.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln
+- TOP 8.12.: Fassadenwettbewerb der Landeshauptstadt München; Erweiterung der ehrenamtlichen Gutachterkommission um eine Vertreterin / einen Vertreter der Dachdecker-Innung München - Oberbayern
+- TOP 8.13.: Live-Musik in Aussegnungshallen (Schreiben des BA 12 Schwabing-Freimann)
+- TOP 8.14.: Beteiligung im Netz; Die Stadt verbessert in ihrem Internetauftritt die Angebote zur Beteiligung im Netz (Ergänzung)
+- TOP 8.15.: Mobilfunk Suchkreismeldung
+- TOP 8.16.: Frühkindliche Gesundheitsförderung Weiterentwicklung nach Schließung der Mütter-/Väterberatungsstellen zugunsten vermehrter Hausbesuche
+- TOP 8.17.: Meldeliste Bauvorhaben
+- TOP 8.18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.19.: Unveränderte Fortführung einer Schank- und Speisewirtschaft: "Sportheim", Lechelstr. 35
+- TOP 8.20.: Einrichtung eines Postpoints in Moosach
+- TOP 8.21.: Perspektive München; Leitprojekt Verkehrsentwicklungsplan 2005
+- TOP 8.22.: Abgeschlossenheitsbescheinigungen und Abbruchanzeigen im Jahr 2005
+- TOP 8.23.: Münchner Statistik
+- TOP 8.24.: Beschilderung der Görlitzer Straße zwischen Naumburger Straße und Untere Krautstraße als gemeinsamer gegenläufiger Fuß- und Radweg
+- TOP 8.25.: Münchens Zukunft gestalten; Perspektive München - Strategien, Leitlinien, Projekte
+- TOP 8.26.: Gleisbauarbeiten im Bereich Karlsplatz (Stachus) / Sonnenstraße
+- TOP 4: Anträge
