@@ -1,0 +1,99 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2006-03-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/769060
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/769060
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Elternbeirat der Grundschule Fromundstraße; für die Maßnahme: Zwei Selbstbehauptungskurse für Mädchen und Jungen im März 2006, Antragssumme 1.701.- ?; Beschlussvorlage des Direktoriums vom 08.02.2006 - <div>vertagt</div>
+- TOP 3.2.: AntragstellerIn: Association Montessori Internationale; für die Maßnahme: Infoveranstaltung am 08.05.2006, Antragssumme: 1.350.- ?, Beschlussvorlage des Direktoriums vom 23.02.2006
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Jugendtreff Akku, für die Maßnahme: Graffitiprojekt Lohstraße, Antragssumme: 950.- ?, Antrag vom 14.02.2006
+- TOP 3.1.: Verwendungsnachweis des idylle.atelier im Glashaus vom 27.12.2005 für die bezuschusste Aktionsausstellung vom 14. - 16.10.05
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Parkraummangement in München - Festlegung der 1. Priorität; a) Festlegung des ersten, umzusetzenden Sektors, b) Personal- und Sachmittelforderungen der betroffenen Referate, c) Antrag und Bürgerversammlungsempfehlungen; Anhörung der Bezirksausschüsse zu einem Beschlussentwurf des Referats für Stadtplanung und Bauordnung; Zuleitung des Referats für Stadtplanung und Bauordnung vom 02.03.2006 mit der Bitte um Stellungnahme
+- TOP 3.1.: Einrichtung einer Haltestelle für die Buslinie 54 in der Candidstraße, Höhe Gebhardstraße, beide Fahrtrichtungen; Antrag Nr. 02-08 / B 00844 des BA 18 vom 20.12.2005; Antwortschreiben der Münchner Verkehrsgesellschaft vom 14.02.2006
+- TOP 3.1.: Perspektive München; Leitprojekt Verkehrsentwicklungsplan 2005; a) Ergebnis der Öffentlichkeitsbeteiligung, b) Ergebnisse und Entscheidungsvorschlag, c) Anträge; Sitzungsvorlage Nr. 02-08 / V 07218; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.2006
+- TOP 3.2.: Tramhäusel an den Haltestellen Menterschwaige, Großhesseloher Brücke und Schilcherweg; Sitzungsvorlage Nr. 02-08 / V 07574; Bekanntgabe in der Sitzung des Ausschusses für Arbeit und Wirtschaft am 07.02.2006
+- TOP 3.3.: Anwohnergaragen in München, Änderung der Prioritätenliste; Sitzungsvorlage Nr. 02-08 / V 07581; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.2006
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Unterbindung der vom Gelände des FC Bayern München ausgehenden Beeinträchtigungen des Wohnumfeldes (Ziffer 2 des Antrages); Empfehlung Nr. 02-08 / E 00314 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching - am 08.12.2005; Beschlussvorlage des Referats für Gesundheit und Umwelt vom 02.03.2006
+- TOP 3.1.: Mobilfunk Suchkreismeldung Humboldtstraße; Zuleitung des Referats für Gesundheit und Umwelt (ggf. Behandlung in nicht-öffentlicher Sitzung)
+- TOP 3.2.: Unterrichtung des Baureferats über Fällung eines Gefahrenbaums im 18. Stadtbezirk Untergiesing-Harlaching; hier: Krankenhaus Harlaching; Zuleitung des Baureferats vom 23.02.2006
+- TOP 3.3.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 3.3.6.3.1 Anwesen in der Naupliastraße; Bescheid vom 02.03.2006 3.3.6.3.2 Anwesen am Perlacher Forst; Bescheid vom 02.03.2006
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Durchführung eines Kinder- und Jugendforums in Untergiesing-Harlaching; Antrag der SPD-Fraktion im BA 18 vom 06.03.2006
+- TOP 3.1.: Beauftragter im Stadtjugendamt für das Umgangsrecht von Scheidungskindern; Einrichtung einer Väterberatungsstelle (Ziffer 2 und 3 des Antrags); Empfehlung Nr. 02-08 / E 00316 der Bürgerversammlung des 18. Stadtbezirks am 08.12.2005; Sitzungsvorlage Nr. 02-08 / V 07635; Beschluss des Kinder- und Jugendhilfeausschusses vom 25.04.2006
+- TOP 3.1.: Protokoll der Sitzung der Arbeitsgruppe Wohnungslosigkeit vom 19.10.2005; Zuleitung des Sozialreferats vom 14.02.2006
+- TOP 3.2.: Kindertagesstätten freigemeinnütziger Träger, Kindergarten Hänsel und Gretel e. V., 18. Stadtbezirk Untergiesing-Harlaching; Leistung eines Baukostenzuschusses für die Erfüllung von Brandschutzauflagen; Sitzungsvorlage Nr. 02-08 / V 07514; Beschluss des Schulausschusses des Stadtrats vom 22.02.2006
+- TOP 3.3.: Fragebogen zu REGSAM; Einschätzung der Bezirksausschüsse; Schreiben des BA 9 Neuhausen-Nymphenburg vom 21.02.2006
+- TOP 3.4.: Zuschussnehmerdatei 2006, Vollzug des Haushaltsplans 2006; Beschlüsse des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses vom 21.03.2006 3.4.6.4.1 Amt für Soziale Sicherung; für den Bereich "Förderung freier Träger"; Sitzungvorlage Nr. 02-08 / V 07644 3.4.6.4.2 Amt für Wohnen und Migration; für den Bereich "Förderung freier Träger"; Sitzungsvorlage Nr. 02-08 / V 07671 3.4.6.4.3 Stadtjugendamt; für den Bereich "Förderung freier Träger"; Sitzungsvorlage Nr. 02-08 / V 07612 3.4.6.4.4 Sozialreferat/Zentrale; für den Bereich "Kooperation mit freien Trägern"; Sitzungsvorlage Nr. 02-08 / V 07641
+- TOP 3.5.: REGSAM-Fragebogenaktion; Schreiben des Sozialreferats vom 02.03.2006
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Anhörungen zu Bauvorhaben
+- TOP 3.2.: Baumbestandspläne 3.5.4.2.1 Anwesen in der Schellenbergstraße; Zuleitung vom 07.02.2006 3.5.4.2.2 Anwesen in der Reinekestraße; Zuleitung vom 22.02.2006 3.5.4.2.3 Anwesen am Athener Platz; Zuleitung vom 24.02.2006
+- TOP 3.3.: Handlungsprogramm Mittlerer Ring 2001 - 2005, a) 4. Sachstandsbericht, b) Ergebnisse der Beratungen des Konsiliums und Ausblick, c) Anträge und Empfehlungen; Anhörung der Bezirksausschüsse zu einer Beschlussvorlage des Referates für Stadtplanung und Bauordnung; Zuleitung des Referats für Stadtplanung und Bauordnung vom 22.02.2006 mit der Bitte um Stellungnahme bis zum 12.04.2006
+- TOP 3.4.: Erlass einer Erhaltungssatzung nach § 172 Abs.1 Satz 1 Nr.2 BauGB in den Stadtbezirken 5 (Au-Haidhausen) und 18 (Untergiesing-Harlaching); Erhaltungssatzung "Untere Au / Untergiesing"; Anhörung durch das Referat für Stadtplanung und Bauordnung vom 06.03.06 zum Satzungsbeschluss (u.a. zum Antrag des BA 18 vom 20.12.05)
+- TOP 3.5.: Antrag auf Freischankfläche, SSW "Lucullus" Birkenau 31; Anörung durch das Kreisverwaltungsreferat vom 08.02.06
+- TOP 3.1.: Verbreiterung des Baumstreifens zwischen Birkenleiten und Candidplatz (Entsiegelung des ehem. Bolzplatzes); Antrag Nr. 02-08 / V 00845 des BA 18 vom 20.12.2005; Antwortschreiben des Baureferats vom 17.02.2006
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Fassadenwettbewerb der Landeshauptstadt München, hier: Erweiterung der ehrenamtlichen Gutachterkommission um eine Vertreterin/einen Vertreter der Dachdeckerinnung München - Oberbayern; Sitzungsvorlage Nr. 02-08 / V 07663; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.2006
+- TOP 3.3.: Unterrichtungen durch das Sozialreferat, Amt für Wohnen und Migration, im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum 3.5.6.3.1 Anwesen in der Reisachstraße; Mitteilung vom 07.02.2006 3.5.6.3.2 Anwesen in der Thelemannstraße; Mitteilung vom 13.02.2006
+- TOP 3.4.: Broschüre "Münchens Zukunft gestalten, Perspektive München, Strategien, Leitlinien, Projekte - Bericht zur Stadtentwicklung 2005; Zuleitung des Referats für Stadtplanung und Bauordnung vom 27.02.2006
+- TOP 3.5.: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats 3.5.6.5.1 KG "Nuri´s Pub", Sommerstr.; Mitteilung vom 03.03.2006 3.5.6.5.2 Stehimbiss "Bei Sakys"; Mitteilung vom 06.03.2006
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Flohmarkt auf dem Klausener Platz am 13.05.2006; Zuleitung des Baureferats mit der Bitte um Stellungnahme
+- TOP 3.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; Maibaumfest auf dem Hans-Mielich-Platz am 01.05.2006; Zuleitung des Kreisverwaltungsreferats vom 16.02.2006 mit der Bitte um Stellungnahme
+- TOP 3.3.: Veranstaltung auf öffentlichem Verkehrsgrund, Münchner Blade-Night - überarbeitetes Konzept 2006; Zuleitung des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Beteiligung im Netz, Die Stadt verbessert in ihrem Internetauftritt die Angebote zur Beteiligung im Netz; Antrag Nr. 02-08 / A 01941 von Herrn Stadtrat Reissl; Sitzungsvorlage Nr. 02-08 / V 07521; Beschluss des Ausschusses für Stadtplanung und Bauordnung und des Verwaltungs- und Personalausschusses in gemeinsamer Sitzung am 08.02.2006
+- TOP 4.3.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln; Übersicht über die im Jahr 2006 vorliegenden Anträge; Zuleitung des Direktoriums vom 24.02.2006
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
