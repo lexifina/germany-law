@@ -1,0 +1,67 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2006-03-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/819225
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/819225
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Abbiegen am Langwieder Bach
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Anbringen der eindeutigeren Hinweisschilder zur Bodenseestraße am Westkreuz (Ziffer 3 des Antrages), Empfehlung Nr. 120 der Bürgerversammlung vom 23.06.05; Entfernung der Umleitungsschilder für Hellensteinstraße und Germeringer Weg nach Inbetriebnahme der A 99 und rechtzeitige Hinweisschilder auf die A 99 (Ziffer 2 des Antrages), Empfehlung Nr. 119 der Bürgerversammlung vom 23.06.05
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz, Anhörungen zu Baumfällungen
+- TOP 6.2.: Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo
+- TOP 6.3.: Maßnahmen zur Entwicklung im Gebiet Bergsonstraße (südlich und z.T. westlich), U-981 (westlich), Kastelburgstraße (nördlich), Industriestraße (östlich) zur Umsetzung kommunaler Ziele
+- TOP 6.4.: Bebauungsplan Nr. 73 Rothschwaige, südlich Auwaldstraße, Gemeinde Karlsfeld
+- TOP 6.5.: Spartenanfrage, Gebewerbegebiet Freiham (2x)
+- TOP 6.6.: Antrag auf Genehmigung einer Veranstaltung am 01.05.06 am Waidachanger, Dorffest
+- TOP 6.7.: Bebauungsplan Nr. 82 Bayernwerkgelände, Gemeinde Karlsfeld
+- TOP 6.8.: Errichtung einer Werbeanlage (2 Plakattafeln, freistehend), Lochhausener Str. 184
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Chefinfo des Bayer. Städtetags vom 10.02.06 - Feinstaubbelastung: Ministerrat legt neues Maßnahmenpaket vor, Schr. 1. Bürgermeister Gemeinde Gräfelfing vom 10.02.06
+- TOP 7.2.: Verkehrsrechtliche Anordnung, Absolutes Haltverbot in der Marzellgasse, Schr. des KVR vom 06.02.06
+- TOP 7.3.: Verkehrsrechtliche Anordnung, Lochhausener Straße: Abbiegegebote, Prismenwender mit Z 209-30 StVO zur Notfallregelung, Schr. des KVR vom 11.10.05
+- TOP 7.4.: Verkehrsrechtliche Anordnung, Freihamer Weg zwischen Bodenseestraße bis zum Beginn der Tempo 30 Beschilderung, Begrenzung der Höchstgeschwindigkeit mit Zeichen 274 StVO auf 20 km/h, Schr. des KVR vom 17.02.06
+- TOP 7.5.: Planfeststellung nach § 18 Abs. 1 AEG, 2. S-Bahn-Stammstrecke München; Planfeststellungsabschnitt 1 München West - Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof, Schr. des Planungsreferates vom 21.02.06
+- TOP 7.6.: Fragebogen zu REGSAM; Einschätzung der Bezirksausschüsse, Schr. des BA 9 vom 21.02.06
+- TOP 7.7.: Perspektive München - Bericht zur Stadtentwicklung 2005, Schr. des Planungsreferates vom 27.02.06
+- TOP 7.8.: Baufälle im 22. Stadtbezirk (v. 20.02.-26.02.06, v. 27.02.-05.03.06)
+- TOP 7.9.: Baumaßnahmen der Stadtwerke München, Stichtag 27.02.06, 06.03.06, Schr. der SWM vom 27.02.06, 06.03.06
+- TOP 7.10.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln, Schr. Direktorium vom 24.02.06
+- TOP 7.11.: Wirtschafts-Info 02/06, Info des Referates für Arbeit und Wirtschaft vom 02.03.06
+- TOP 7.12.: REGSAM-Fragebogenaktion, Schr. des Sozialreferates vom 02.03.06
+- TOP 7.13.: Gleisbauarbeiten im Bereich Karlsplatz (Stachus) / Sonnenstraße, Schr. der MVG vom 02.03.06
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Bebauungsplan Krähenweg, Schr. des Planungsreferates vom 27.02.06
+- TOP 8.2.: Anbringen eines Mittelpfostens jeweils am Anfang und Ende des Geh- und Radweges Giglweg, Schr. des Baureferates vom 06.03.05 zum BA-Antrag Nr. 832 vom 20.12.05
+- TOP 8.3.: Ubostr. 40, Einrichtung einer Mobilfunksendeanlage, Firma O2 Germany, Schr. des Referates für Gesundheit und Umwelt vom 07.03.06
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Vollversammlung vom 25.01.06 - Die Münchner Baumschutzverordnung; Schritte zur Erleichterung und zur Beschleunigung der Baumschutzverfahren; Ergebnisse der Anhörung der BA´s und der einschlägigen Verbände
+- TOP 9.2.: Ausschuss für Stadtplanung und Bauordnung vom 08.03.06 - Bebauungsplan mit Grünordnung Nr. 1703 Schussenrieder Straße, Schubinweg und Amelbrechtweg - Bebauungsplan mit Grünordnung Nr. 1729 a - Böhmerweiher -
+- TOP 9.3.: Gesundheitsausschuss vom 09.02.06 - Frühkindliche Gesundheitsförderung, Weiterentwicklung nach Schließung der Mütter-/Väterberatungsstellen zugunsten vermehrter Hausbesuche
+- TOP 9.4.: Vollversammlung vom 16.02.06 - "Wohnen in München, III" - München Modell
+- TOP 9.5.: Gemeinsame Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 21.03.06 - Zuschussnehmerdatei 2006, Vollz. d. Haushaltsplanes 2006 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates/Zentrale - Zuschussnehmerdatei 2006, Vollz. d. Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung - Zuschussnehmerdatei 2006, Vollz. d. Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Stadtjugendamtes - Zuschussnehmerdatei 2006, Vollz. d. Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und MIgration
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Podiumsdiskussion zum Thema Radfahren in München am 23.03.06 um 18.30Uhr im Verkehrszentrumd des Deutschen Museums, Theresienhöhe 14 a
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 19.04.2006, Gaststätte "Wienerwald", Limesstr. 63
