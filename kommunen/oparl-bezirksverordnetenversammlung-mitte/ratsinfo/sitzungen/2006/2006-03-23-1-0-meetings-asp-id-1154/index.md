@@ -1,0 +1,113 @@
+# 46. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2006-03-23T17:30:00+01:00
+- Ende: 2006-03-23T21:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1154
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1154
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=52375
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilung - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - (offen)
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfrage - (offen)
+- TOP 5.1: Verteilung der Sanierungszeitungen - beantwortet
+- TOP 5.2: Polizeiliches Führungszeugnis - beantwortet
+- TOP 6: Dringlichkeitsanfrage - (offen)
+- TOP 6.1: Beschwerden über Maßnahmeträger für "Ein-Euro-Jobs" - das Bezirksamt Mite schaut weg?! - beantwortet
+- TOP 6.2: Metropolitan-School: Öffentlicher Spielplatz als Sperrgebiet für externe Kinder? - beantwortet
+- TOP 7: Große Anfrage - (offen)
+- TOP 7.1: Finanzieller Schaden durch mangelnde Abordnung von MitarbeiterInnen des Bezirksamtes ins JobCenter? - beantwortet
+- TOP 7.2: Muss "King-Kong" sterben? - beantwortet
+- TOP 7.3: WM-Karten 2006 - in der BVV zurückgezogen
+- TOP 7.4: Stand der Drucksachen-Nr.: 2136/II Soziale Nutzung des Gesundheits- und Sozialstandortes Moabit durch die Berliner Tafel - beantwortet
+- TOP 7.5: AV Wohnen - beantwortet
+- TOP 7.6: Ausbildungspolitik des Bezirksamtes - beantwortet
+- TOP 7.7: Ordnung muss sein! - beantwortet
+- TOP 7.8: Zentraler Festplatz - schriftlich beantwortet
+- TOP 7.9: Elternbefragung anlässlich der Schuleingangsuntersuchung - schriftlich beantwortet
+- TOP 7.10: Eiszeit für die Grünanlagen in der Boysenstraße? - schriftlich beantwortet
+- TOP 7.11: Städtepartnerschaft - Türkei - beantwortet
+- TOP 7.12: Sprachtest "Deutsch Plus" - schriftlich beantwortet
+- TOP 7.13: Konzept zur Gebäudesicherheit im Rathaus-Neubau Müllerstraße - schriftlich beantwortet
+- TOP 7.14: SeniorInnen-Arbeit zur Querschnittsaufgabe machen - schriftlich beantwortet
+- TOP 7.15: Sperrbereiche zur Fußballweltmeisterschaft - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlage zur Beschlussfassung - (offen)
+- TOP 9: Vorlage zur Beschlussfassung - (offen)
+- TOP 9.1: Konzept für Projekte im Stephankiez - mit Änderungen in der BVV beschlossen
+- TOP 10: Vorlage zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplanentwurf VII-280 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes VII-280 - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Änderung der Sanierungsziele für das Grundstück Invalidenstraße 1 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsantrag - (offen)
+- TOP 11.1: Erläuterungsschilder zu Straßennamen - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Haushaltsmittel für das Zentrum Demokratische Kultur freigeben - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Fernradweg R 3 - Berlin-Kopenhagen - überwiesen
+- TOP 11.4: Externe Projektsteuerung definieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Benachteiligung der gebundenen Ganztagsschule beenden - ohne Änderungen in der BVV beschlossen
+- TOP 12: Antrag - (offen)
+- TOP 12.1: Eindeutige Abrechnungsmodalitäten mit dem Jobcenter schaffen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Spielplatz Linienstraße 122 - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Nachbesserungen zum Entwurf des Gesundheitsdienstgesetzes - mit Änderungen in der BVV beschlossen
+- TOP 12.4: Erweiterung des Aufgabenbereiches der Stelle des Ausländer- und Migrantenbeauftragten - überwiesen
+- TOP 12.5: Gewerbe im Randbereich des BND-Komplexes - überwiesen
+- TOP 12.6: Rauchfreie Jugendeinrichtungen - überwiesen
+- TOP 12.7: Erstellung einer Statistik zur Wohnkostenübernahme bei Alg II-Empfängern - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Aktuell und sachgerecht über Risiken der Vogelgrippe und Prävention informieren - in der BVV zurückgezogen
+- TOP 12.9: Handlungsleitfaden für Veranstalter von Straßenfesten und Kulturveranstaltungen - überwiesen
+- TOP 12.10: Teilnahme am Modellprojekt "Die 2. Chance" - überwiesen
+- TOP 12.11: Drum prüfe wer sich ewig bindet, ob er nicht noch was Billigeres findet - Prüfungen im Rahmen des Dienstgebäudemanagementes des Bezirksamtes ausweiten - überwiesen
+- TOP 12.12: Übersicht über den Stand der im Verfahren befindlichen Bebauungspläne - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: JobCenter - Kein Maßnahmestopp in 2006 - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Auswirkungen des neuen Rechts auf die Aufstellung von Bebauungsplänen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Bürgerbeteiligung bei Freiflächengestaltung zwischen Reinhardt- und Schumannstraße - in der BVV zurückgezogen
+- TOP 12.16: Sprachförderungszentrum Mitte - überwiesen
+- TOP 12.17: Spielplatzpflege - in der BVV zurückgezogen
+- TOP 12.18: "Gesamtkonzept Parkraumbewirtschaftung in Mitte" umsetzen - überwiesen
+- TOP 13: Antrag/Beschlussempfehlung - (offen)
+- TOP 13.1: Preis "Familienfreundlicher Betrieb Mitte" (UnternehmerInnen-Preis Mitte) - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Einrichtung eines Arbeitskreises "Gesunder Bezirk Mitte" - mit Änderungen in der BVV beschlossen
+- TOP 13.3: Reform des Öffentlichen Gesundheitsdienstes nicht ohne Beachtung des demografischen Wandels - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Gleichberechtigte Verkehre durch die Invalidenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlage zur Kenntnisnahme - (offen)
+- TOP 14.1: Rauchfreie Schulen alt: Drucksache Nr. 392/I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Bibliotheksentwicklungsplan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Zwischennutzung der Sportfläche am Nordbahnhof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.4: "Sportanlage Nordbahnhof" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.5: Initiativen zu Hartz IV im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Hartz IV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Internationales Jahr des Sports 2005 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Hartz IV: Verunsicherung über angemessenen Wohnraum beenden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Projektbezogene Partnerschaften - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.10: Beirat für dezentrale Kulturarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Beibehaltung der Betreuungsqualität in den SeniorInnen-Freizeitstätten heißt auch: Wettbewerbsvorteile für den Träger! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Bezirke nicht für menschliches Handeln bestrafen - Basiskorrektur für Altanträge nach BSHG! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.13: Mieterberatung für Sozialhilfeempfänger/innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.14: Konzept zur SeniorInnen-Arbeit und Kooperation mit Freien Trägern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.15: Einzelfallbetreuung aller ALG-II-Antragsteller/innen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.16: Ausbildungsplätze für Mädchen erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.17: Transparenz II: Alle Angaben zum Liegenschafts- und Gebäudemanagement der BVV regelmäßig zur Verfügung stellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.18: Prioritätensetzung des Allgemeinen Ordnungsdienstes (AOD) - sog. Kiezstreife - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.19: SeniorInnen-Arbeit zur Querschnittsaufgabe machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.20: Arbeitsmarktpolitisches Programm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.21: Beratungsräume für Schuldnerberatung im Jobcenter Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.22: Den Psychiatrieentwicklungsplan nach bezirklichen Erfordernissen ausrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.23: Landesgesundheitskonferenz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.24: Mehr Geld für die Sprachförderung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.25: Erledigung der Drucksache 1849/II "Gutachten zur Kontamination des JobCenters" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.26: Gewaltprävention sicherstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.27: Nutzung der Sportflächen und der Sporthalle auf dem Gelände des ehemaligen Stadion der Weltjugend - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.28: Widmung und Benennung von öffentlichem Straßenland in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.29: Aufhebung des Bebauungsplanentwurfes II-124 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.30: Integrierte Handlungskonzepte der Quartiersmanagement-Gebiete Beusselstraße, - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.31: Aufstellung des Bebauungsplanes 1-39 im Bezirk Mitte, Ortsteil Mitte, die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch und die frühzeitige Beteiligung der Behörden gemäß § 4 Abs. 1 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
