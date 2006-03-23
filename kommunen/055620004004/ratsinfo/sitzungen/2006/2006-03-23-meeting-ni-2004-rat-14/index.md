@@ -1,0 +1,57 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2006-03-23T17:15:00+01:00
+- Ende: 2006-03-23T21:55:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2004-RAT-14
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2004-RAT-14
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2004-RAT-14
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2004-RAT-14
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2004-RAT-14
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Entwurf des Stellenplans 2006/2007
+- TOP 3: Beschluss der Haushaltsreste 2005 und Neuveranschlagungen für 2006
+- TOP 5: Beschluss von Dringlichkeitslisten für Investitionen und Investitionsförderungsmaßnahmen für die Haushaltsjahre 2006 und 2007
+- TOP 6: Haushalts-Eckdaten 2006/2007; Beratung und Beschlussfassung
+- TOP 7: Änderung der Zweitwohnungsteuersatzung
+- TOP 8: Beteiligungsbericht 2005
+- TOP 9: Sanierung des Stadions am Europaplatz
+- TOP 10: Erlass einer Ordnungsbehördlichen Verordnung der Stadt Castrop-Rauxel zum Schutz vor Immissionsbelastungen durch das Abbrennen von Brauchtumsfeuern
+- TOP 11: 
+- TOP 12: Umwandlung der Schillerschule und der Franz-Hillebrand-Hauptschule zu erweiterten, gebundenen Ganztagshauptschulen ab Schuljahr 2006/07
+- TOP 13: Einbeziehung eines weiteren Mitgliedes in den Jugendhilfeausschuss; Antrag des Kinder- und Jugendparlamentes
+- TOP 14: Finanzierung von Trägeranteilen der evangelischen und katholischen Träger von Tageseinrichtungen für Kinder in Castrop-Rauxel
+- TOP 15: Ausbauprogramm U 3 nach dem TAG; 2006 - 2010
+- TOP 16: Planfeststellungsverfahren nch dem Bundeswasserstraßengesetz für den Ausbau des Rhein-Herne-Kanals von km 42,4 bis km 43,4 (Querschnittserweiterung - Los 7 -) hier: Stellungnahme der Stadt Castrop-Rauxel zum Planfeststellungsverfahren
+- TOP 17: Masterplan emscher:zukunft
+- TOP 18: BAULEITPLANUNG Vorhabenbezogener Bebauungsplan Nr. 30 Planbereich: Grutholzallee/Habinghorster Straße hier: a) Entscheidung über die Anregungen b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss (§ 10 Abs. 1 BauGB)
+- TOP 19: BAULEITPALNUNG Bebauungsplan Nr. 173 Planbereich: Evangelisches Krankenhaus an der Grutholzallee Hier: a) Entscheidung über die Stellungnahmen b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss (§ 10 Abs. 1 BauGB)
+- TOP 20: BAULEITPLANUNG Bebauungsplan Nr. 175 Planbereich: Dauerkleingarten Deininghausen Hier: a) Entscheidung über die Anregungen b) Berücksichtigung der redaktionellen Veränderungen c) Satzungsbeschluss nach § 10 Baugesetzbuch
+- TOP 21: BAULEITPLANUNG Bebauungsplan Nr. 176 Planbereich: Dauerkleingarten Castroper Holz Hier: a) Entscheidung über die Anregungen b) Berücksichtigung der redaktionellen Veränderungen c) Satzungsbeschluss nach § 10 Baugesetzbuch
+- TOP 22: BAULEITPLANUNG Bebauungsplan Nr. 177 Planbereich: Dauerkleingarten Castrop-Nord Hier: a) Entscheidung über die Anregungen b) Berücksichtigung der redaktionellen Veränderungen c) Satzungsbeschluss nach § 10 Baugesetzbuch
+- TOP 23: BAULEITPLANUNG Bebauungsplan Nr. 178 Planbereich: Dauerkleingarten Ossenbruch Hier: a) Entscheidung über die Anregungen b) Berücksichtigung der redaktionellen Veränderungen c) Satzungsbeschluss nach § 10 Baugesetzbuch
+- TOP 24: BAULEITPLANUNG 1. Änderung des Bebauungsplanes Nr. 73a-T.1 Planbereich: 'Südlich des Ickerner Knotens' hier: a) Entscheidung über die Stellungnahmen (§ 3 Abs. 2 BauGB) b) Satzungsbeschluss (§ 10 Abs. 1 BauGB)
+- TOP 25: BAULEITPLANUNG 68. Änderung des Flächennutzungsplanes Planbereich: Hellweg / Stahlbaustraße hier: a) Entscheidung über die Anregungen b) Berücksichtigung der redaktionellen Veränderungen c) Feststellungsbeschluss
+- TOP 26: BODENORDNUNG Umlegungsverfahren U 24 Bereich: 'Kirchstraße' hier: Anordnungsbeschluss (§ 46 Abs. 1 BauGB)
+- TOP 27: Bestellung von Mitgliedern des Umlegungsausschusses
+- TOP 28: Flächen der Stadt Castrop-Rauxel im Bahnflächenpool hier: Konsensvereinbarung mit der BahnflächenEntwicklungsGesellschaft Nordrhein-Westfalen (BEG)
+- TOP 29: 
+- TOP 30: Schlussbericht über die Prüfung der Jahresrechnung 2004; Beratung und Beschlussfassung sowie Erteilung der Entlastung
+- TOP 31: Gemeinsamer Antrag der SPD-Fraktion und Grüne-Ratsfraktion vom 5. März 2006; L 654n
+- TOP 31: Antrag der FDP-Fraktion vom 2. Februar 2006; L 654n
+- TOP 32: Gemeinsamer Antrag der SPD- und Grüne-Ratsfraktionen vom 25. Januar 2006; Resolution zu den geplanten finanziellen Kürzungen der Landesregierung NRW
+- TOP 33: Gemeinsamer Antrag der CDU-, FWI- und FDP-Fraktion vom 27. Februar 2006; Verfassungsmäßigkeit der Grundsteuer B - Verfahrensmäßige Gleichbehandlung aller betroffenen Bürgerinnen und Bürger
+- TOP 34: Antrag der FDP-Fraktion vom 24. Februar 2006; Zusammenführung des Bereiches Tiefbau und des Bereiches Stadtgrün und Friedhofswesen mit dem EUV
+- TOP 36: Anfragen der Ratsmitglieder
+- TOP 37: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
