@@ -1,0 +1,65 @@
+# 48. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2006-03-23T16:30:00+01:00
+- Ende: 2006-03-23T21:10:00+01:00
+- Ort: Alt-Köpenick 21, 12555 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1285
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1285
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - beantwortet
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - gegenstandslos
+- TOP 8.1: Abberufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Berufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - gegenstandslos
+- TOP 9.1: Unterstützung von Aktivitäten gegen Rechtsextremismus - in der BVV zurückgezogen
+- TOP 10: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 10.1: Einrichtung einer Einbahnstraße bzw. der Sperrung für den Durchgangsverkehr im Bereich Drosselsteg, Am Kanal, Tauchersteig - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - gegenstandslos
+- TOP 11.1: Bebauungsplan XV-26 ("Rapunzelstraße") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - Entwurf des Bebauungsplans XV-26 - Entwurf der Rechtsverordnung zum Bebauungsplan XV-26 - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Bebauungsplan XV-29a ("Peenestraße") im Bezirk Treptow-Köpenick, Ortsteil Altglienicke - Entwurf des Bebauungsplans XV-29a - Entwurf der Rechtsverordnung zum Bebauungsplan XV-29a - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Bebauungsplanverfahren 9-13 ("Genossenschaftsstraße") im Bezirk Treptow-Köpenick, Ortsteil Adlershof - Entwurf des Bebauungsplans 9-13 - Entwurf der Rechtsverordnung zum Bebauungsplan 9-13 - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Bebauungsplan 9-26 ("Kleingärten Müggelheim II") im Bezirk Treptow-Köpenick, Ortsteil Müggelheim - Entwurf des Bebauungsplans 9-26 - Entwurf der Rechtsverordnung zum Bebauungsplan 9-26 - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Bebauungsplan XV-16 "Am alten Sportplatz" im Bezirk Treptow-Köpenick, Ortsteil Altglienicke - Entwurf des Bebauungsplans XV-16 - Entwurf der Rechtsverordnung zum Bebauungsplan XV-16 - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Bebauungsplan XV-28 ("Kasperstraße") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - Entwurf des Bebauungsplans XV-28 - Entwurf der Rechtsverordnung zum Bebauungsplan XV-28 - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Bebauungsplan XV-62 ("Lohmühlenufer") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - Entwurf des Bebauungsplans XV-62 - Entwurf der Rechtsverordnung zum Bebauungsplan XV-62 - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für Seniorenchor "Fröhliche Sänger aus Jo’thal" (SM 612) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondermittel für Seniorenzeitung Herbst-Blatt, Treptow & Köpenick (SM 613) - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sondermittel für Dahme Jacht Club e.V. (SM 617) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 12.1: Festwiese - überwiesen
+- TOP 12.2: Im I. Halbjahr 2005 zugelassene über- und außerplanmäßige Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: 800 Jahre Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Veränderung der Ampelschaltung am Köllnischen Platz - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Realisierung der Straßenbauinvestition 4212/73815 "Umbau der Wendenschloßstraße zwischen Müggelheimer Straße und Salvador-Allende-Straße" und Bewertung der Erschließungsbeitragspflicht gemäß BerlStrG § 7 (7) - im Ältestenrat zurückgezogen
+- TOP 12.6: Befristetes Halteverbot / Parkverbot in der Regattastraße, Wassersportallee, Rabindranath-Tagore-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Markierung von Radwegen in Grünanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Schleppkurve Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Bebauungsplanverfahren 9-21 ("Sterndamm") im Bezirk Treptow-Köpenick, Ortsteil Johannisthal hier: - Auswertung der frühzeitigen Beteiligung der Öffentlichkeit - Auswertung der frühzeitigen Beteiligung der Behörden - Auswertung der Beteiligung der Behörden - Änderung des Geltungsbereiches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Maßnahmen der Verkehrsführung und der Schulwegsicherung in der Radenzer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 14: Anträge - gegenstandslos
+- TOP 14.1: Arbeitskonferenz Kindertagesbetreuung - überwiesen
+- TOP 14.2: Fußball-Event im Treptower Park - in der BVV zurückgezogen
+- TOP 14.3: Aufstellung von Internetterminals - überwiesen
+- TOP 14.4: Sicherung der Ausstellung "Technik im Turm" - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Radverkehr Straße am Treptower Park - überwiesen
+- TOP 14.6: Erinnerung an die Bürgermeister und Bezirksverordnetenvorsteher - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Terminvereinbarung bei Bürgerämtern - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Sichere Straßenüberquerung für den Adlershofer Campus - überwiesen
+- TOP 14.9: Sicherheit für Fußgänger an der Bushaltestelle Biesdorf-Süd/Köpenicker Str. - überwiesen
+- TOP 14.10: Einschulungsbereiche der Grundschulen - überwiesen
+- TOP 14.11: Gedenkstätten-Besuch - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Zweisprachige Literatur in Bezirksbibliotheken - überwiesen
+- TOP 15: Große Anfragen - überwiesen
