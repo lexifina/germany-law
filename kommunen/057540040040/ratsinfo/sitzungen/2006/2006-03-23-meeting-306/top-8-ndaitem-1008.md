@@ -1,0 +1,7 @@
+# TOP 8.: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Ausschuss für Schulen, Jugend, Sport und Kultur (10. Sitzung) (2006-03-23)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/1008
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
