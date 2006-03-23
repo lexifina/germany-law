@@ -1,0 +1,8 @@
+# TOP 6.1: Beschwerden über Maßnahmeträger für "Ein-Euro-Jobs" - das Bezirksamt Mite schaut weg?!
+
+- Sitzung: 46. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (2006-03-23)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=20656
+- Ergebnis: beantwortet
+- Beratung: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/consultations.asp?typ=i&id=20656
