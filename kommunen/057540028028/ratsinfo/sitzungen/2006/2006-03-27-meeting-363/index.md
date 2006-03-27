@@ -1,0 +1,51 @@
+# Rat der Stadt Rheda-Wiedenbrück (10. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2006-03-27T17:00:00+02:00
+- Ende: 2006-03-27T20:30:00+02:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUR3bmXyyKBgFtaEznD00fA
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/363
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX5pLs3V3YM-ACScIOv8aW0LQL9A_g2ZpPGj6Q3wHJZW/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_27.03.2006.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZIGOE9WS35am-kGIkIIp-DgzqtdMvnB-xidHITbciDr/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_27.03.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Mitgliedschaft in der „Wirtschaftsförderungsgesellschaft Kreis Gütersloh mbH“ - Einstimmig
+- TOP 5: NKF-Produktplan - Einstimmig
+- TOP 6: 2. Satzung zur Änderung der Vergnügungssteuersatzung vom 18.12.2002 - Einstimmig
+- TOP 7: 7. Satzung zur Änderung der Satzung über die Abfallentsorgung und Abfallentsorgungsgebühren vom 12.12.1996 - Einstimmig
+- TOP 8: Einbringung der Jahresrechnung 2005 - Einstimmig
+- TOP 9: Bekanntgabe der im Zeitraum September bis Dezember 2005 gem. § 82 I Satz 3 GO NRW (alte Fassung) geleisteten über- und außerplanmäßigen Ausgaben - Einstimmig
+- TOP 10: Dringlichkeitsentscheidung gem. § 60 GO NW: Umwandlung der Matthias-Claudius-Schule in eine Ganztagsschule - Einstimmig
+- TOP 11: Änderung der Straßenbezeichnung der Straße „Am Frankenbrink“ Bezug: Beratungen in den Sitzungen des Bau-, Planungs-, Umwelt- und Verkehrsausschusses am a) 25.03.2004 – TOP 7 b) 15.07.2004 – TOP 1.2 c) 29.09.2005 – TOP 10.2 - Einstimmig
+- TOP 12: Benennung der Planstraße im Gebiet des Bebauungsplanes 363 "Am Sandberg/Heiligenhäuschenweg" - Einstimmig
+- TOP 13: 1. Änderung des Bebauungsplanes Nr. 350 „Am Nonenplatz“ im vereinfachten Verfahren nach § 13 BauGB hier: Ergebnisse der Beteiligung nach § 13 Abs. 2 Nr. 3 BauGB - Einstimmig
+- TOP 14: Bericht der Flora Westfalica -FGS- Fördergesellschaft Wirtschaft und Kultur mbH Rheda-Wiedenbrück über die Arbeit der Stadtbibliothek im Jahr 2005 - Kenntnisnahme
+- TOP 14.1: Entwicklungsplanung der Wenneberschule
+- TOP 15: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 16: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 17: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 18: Erklärung von Ausschließungsgründen
+- TOP 19: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 20: Ernennung des stellv. Leiters der Freiwilligen Feuerwehr Rheda-Wiedenbrück - Einstimmig
+- TOP 21: Wiederbesetzung einer vakanten Stelle - Einstimmig
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Organisationsangelegenheit - Einstimmig
+- TOP 25: Ersatzbeschaffung Löschfahrzeug - Einstimmig
+- TOP 26: Einführung eines Immobilienmanagements bei der Stadt Rheda-Wiedenbrück – Implementierung - Einstimmig
+- TOP 27: Bericht über den aktuellen Planungsstand hinsichtlich der Entwicklung des Interregionalen Gewerbeparks Marburg - Kenntnisnahme
+- TOP 28: Änderung des Gesellschaftsvertrages der Interregionaler Gewerbepark Marburg GmbH - 21 Ja-Stimme(n), 3 Nein-Stimme(n), 9 Enthaltung(en)
+- TOP 29: Wirtschaftsplan der Interregionaler Gewerbepark Marburg GmbH für das Wirtschaftsjahr 2006 - 27 Ja-Stimme(n), 2 Nein-Stimme(n), 4 Enthaltung(en)
+- TOP 29.1: Bewerbung der Stadt Rheda-Wiedenbrück um die Ausrichtung des NRW-Tages 2007 oder 2008 - 32 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 30: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 31: Dringende Anfragen und Anregungen
