@@ -1,0 +1,79 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2006-03-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/828538
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/828538
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Kulturpfade
+- TOP .2.1.: BA-Budget
+- TOP .1.: Zuschuss für Eigenveranstaltungen: Stadtteilfest des BA
+- TOP .2.: Zuschuss aus dem BA-Budget für den Kauf und die Reparatur von Rollstühlen für die Bahnhofsmission
+- TOP .3.: Zuschuss aus dem BA-Budget : Caritas 2000,- ?
+- TOP .2.2.: Kultur
+- TOP .1.: Erlass einer Erhaltungssatzung Gärtnerplatzviertel; Beschlussvorlage für die Vollversammlung
+- TOP .2.: Beantwortung des REGSAM Fragebogens
+- TOP .5.1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .1.: Beschilderung der Zufahrtswege zum Schlachthof
+- TOP .2.: Anfrage zur Wasser-Schnecke am Stadtbach zwischen Isartal- und Wittelsbacherstraße
+- TOP .3.: Ruhebank an der Ecke Westermühl-/Klenzestraße
+- TOP .4.: Gestaltung und Einweihung der Fußgängerunterführung unter der Kapuzinerstraße
+- TOP .1.: Parkraummanagement in München - Festlegung der 1. Priorität; Beschlussvorlage zur Behandlung von BV-Empfehlungen und Ba-Anträgen
+- TOP .3.1.: Bauvorhaben
+- TOP .1.: Bayerstr. 7; Bauliche Änderungen an der Fassade
+- TOP .2.: Holzstr. 5; DG-Ausbau, Anbau eines Personenaufzugs, Anbau von Balkonen, Nutzungsänderung: Wohnung in Büro
+- TOP .3.: Poccistr. 1; Nutzungsänderung eines Gewerbegebäudes
+- TOP .4.: Wantherstr. 33, Anbringung einer Mega-Light Werbeanlage
+- TOP .5.: Hauptbahnhof: EInbau eines Cafes/Imbiss im südlichen Randbau im EG
+- TOP .6.: Schwanthalerstr. 74, Neubau einer Wohnanlage mit Tiefgarage
+- TOP .7.: Kobellstr. 5, Nutzungsänderung zweier Wohneinheiten im EG in eine Büroeinheit
+- TOP .8.: Bayerstr. 9, bauliche Änderungen u.Nutzungsänderung v. KG bis 1.OG
+- TOP .9.: Hans-Sachs-Str. 12, Umbau einer Gaststätte mit Änderung der EG-Fassade
+- TOP .10.: Maistr. 41, Neubau von zwei Wohngebäuden mit TG - Vorbescheidsantrag
+- TOP .11.: Müllerstr. 7, Aufstellung von 2 Plakatanschlatafeln
+- TOP .5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP .1.: Schneechaos 2006
+- TOP .1.: Verkehrskontrollen während des Oktoberfestes; Beschlussvorlage zur Behandlung der BV-Empfehlung Nr. 252 v. 10.11.05
+- TOP .3.1.: Sperrzeit-Angelegenheiten
+- TOP .1.: Cafe Saray, Schwanthalerstr. 24, Verkürzung der Spreezeit für die Freischankfläche auf 01.00 Uhr
+- TOP .3.2.: Freischankflächen
+- TOP .1.: Gaststätte "Club do vinho", Westermühlstr. 39 (Neuantrag)
+- TOP .2.: Cafe "Creme", Reichenbachstr. 24, (Neuantrag)
+- TOP .3.: Gaststätte "Baaders", Fraunhoferstr. 39 (Neuantrag)
+- TOP .3.3.: Warenstellagen
+- TOP .3.4.: Verkehr
+- TOP .1.: Bushaltestelle Zenettistraße der Buslinie 152
+- TOP .2.: Verkehrsberuhigung Ehrengutstraße im Bereich Roecklplatz; Beschlussvorlage zur Behandlung der BV-Empfehlung Nr. 253 v. 10.11.2005
+- TOP .3.: Behindertenparkplätze Thalkirchner Str. 76
+- TOP .1.: Straßenfest Pestalozzistraße am 02.09.2006
+- TOP .2.: Straßenfest in der Klenzestraße am 25.05.2006
+- TOP .3.: Festzug zum Münchner Frühlingsfest am 21.04.2006
+- TOP .3.6.: Bäume
+- TOP .1.: Gärtnerplatz, Fällung von 2 Kastanien
+- TOP .2.: Morassistr. 14, Fällung v. 1 Hängeweide (instabil)
+- TOP .3.: Maistr. 41, Fällung mehrerer Bäume wegen Neubau
+- TOP .4.: Kapuzinerstr. 33, Fällung mehrerer Bäume wegen Fußgängerunterführung
+- TOP .1.: Anbringung einer Schraffur vor Tiefgarageneinfahrt in der Hans-Sachs-Str. 22
+- TOP .2.: Circus Krone , African und Frühlingsfest
+- TOP .5.1: Berichte der Beauftragten ( AK Theresienwiese)
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP .3.2.: Berichte aus den anderen BA
+- TOP .3.3.: Bericht des Internetbeauftragten
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Infos)
+- TOP .2.: Veranstaltungen
