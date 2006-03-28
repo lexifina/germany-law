@@ -1,0 +1,84 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2006-03-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/829491
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/829491
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Radweg/Schutzstreifen an der Ostseite der St.-Veit-Straße zwischen Josephsburg- und Kreillerstraße (Ziffer 2 des Antrages zur Bürgerversammlungsempfehlung Nr. 10 vom 08.03.2005)
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1: Erschließung des S-Bahnhofs Leuchtenbergring aus Richtung Neumarkter Straße Antrag Nr. 549 des BA 14 vom 26.07.2005
+- TOP 3.1.2: Bebauungsplan mit Grünordnung Nr. 1980 ? (Teiländerung des Beb. Plan Nr. 26) Hansjakobstraße (nördlich), Roßsteinstraße (östlich), Hohenburgstraße (südlich) - Aufstellungsbeschluss ehem. Baumschule ? Bürgerschreiben - siehe auch 4.1.1.1./03/06 und 4.1.1.3./03/06
+- TOP 3.1.3: Thomas-Hauser-Straße ? Errichtung einer Lagerhalle
+- TOP 3.1.1: Ödkarspitz- / Birkkarspitzstraße ? Antrag auf Aufstellung von Halteverbotsschildern
+- TOP 3.1.2: St.-Veit-Straße ? Antrag auf Entfernung des absoluten Halteverbotes vor der Apotheke
+- TOP 3.1.3: Baumkirchner Straße - Maifeier des Maibaumvereins Berg am Laim e.V. am 01.05.06
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.1: REGSAM - Fragebogenaktion
+- TOP 3.1.1: ARGE Ökologie - Antrag auf Zuschussgewährung aus dem BA-Budget
+- TOP 3.1.2: WhiteBOX - Antrag auf Zuschussgewährung aus dem BA-Budget
+- TOP 3.1.3: FreiRÄUME - Antrag auf Zuschussgewährung aus dem BA-Budget
+- TOP 3.1.4: MAG´S Stadtteiltreff - Antrag auf Zuschussgewährung aus dem BA-Budget
+- TOP 3.3.6.: Sonstiges
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1: Grafinger Straße 6 ? Kultfabrik ? Verlängerung der Nutzungsfrist vom 31.01.2007 auf den 31.12.2010 für den Gesamtbetrieb - Vorbescheid
+- TOP 4.1.1: Neumarkter Str. 64 - Errichtung eines Einzelhandelsbetriebes ? Antrag auf Baumfällungen
+- TOP 4.1.2: Griechische Schule, ehem. Baumschule ? Informationsgespräch mit dem Planungsreferat siehe auch 3.1.1.2./03/06 und 4.1.1.1./03/06
+- TOP 4.1.3: Perspektive München ? a) Ergänzungen Verkehrsentwicklungsplan 2005 b) Strategien, Leitlinien, Projekte
+- TOP 4.1.4: Handlungsprogramm Mittlerer Ring 2001 ? 2005 a) 4. Sachstandsbericht b) Ergebnisse der Beratungen des Konsiliums und Ausblick c) Anträge und Empfehlungen
+- TOP 4.1.5: Parkraummanagement in München ? Festlegung der ersten Priorität a) Festlegung des ersten, umzusetzenden Sektors b) Personal- und Sachmittelforderungen der betroffenen Referate c) Anträge und Bürgerversammlungsempfehlungen
+- TOP 4.1.6: Stadtratshearing am 29. März 2006 ? Diskurs ?Stadtgestalt und neue Architektur? ? Hochhäuser im Spannungsfeld von Identität und Wandel der Stadt
+- TOP 4.1.7: Programm ?Bürgerinnen und Bürger gestalten ihre Stadt? ? Bürgerbeteilung in den Stadtvierteln
+- TOP 4.1.8: Meldeliste der Bauvorhaben zwischen 20.02.06 und 12.03.05
+- TOP 4.1.1: Leistungsbilanzen des Baureferats-Hauptabteilungen bzgl. Stadtbezirk 14
+- TOP 4.1.1: Berg-am-Laim-Str. 126 - Überlassene Räumlichkeiten für kulturelle Nutzung im Zuge der Erweiterung/Instandsetzung der Kindertagesstätte
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.1: 1. Münchner Kinder- und Familienforum vom 07.-08. Oktober 2006
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.1: Haushaltskonsolidierung; Sonderprogramm / Sonderkonsolidierung 2006
+- TOP 4.1.2: Zuschussnehmerdatei 2006 ? Vollzug des Haushaltsplanes 2006 für den Bereich ?Kooperation mit freien Trägern? des Sozialreferates a) Zentrale b) Amt für Soziale Sicherung c) Stadtjugendamt d) Amt für Wohnen und Migration
+- TOP 4.1.3: Ausschreibung von Trägerschaften für bezuschusste soziale Einrichtungen ? Trägerschaft für die Kinder- und Jugendfreizeitstätte in Berg am Laim, Haager Straße Ergänzung vom 09.03.2006
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.1: Kreillerstraße 63 ? Antrag auf unveränderte Fortführung der Gaststätte ?Fuh Wah?
+- TOP 4.1.2: Grafinger Str. 6 ? Antrag auf unveränderte Fortführung der Gaststätte ?Metropolis?
+- TOP 4.1.3: Friedenstraße 10 ? Antrag auf Sperrzeitaufhebung der Gaststätte ?Milchundbar?
+- TOP 4.1.4: Friedenstraße 10 ? Antrag auf Sperrzeitaufhebung der Gaststätte ?Do Brasil?
+- TOP 4.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.6: Sicherung der BA-Entscheidungsrechte
+- TOP 4.1.7: Kleintierfriedhof in München
+- TOP 4.1.1: Echardinger Anger ? Fällung von Gefahrenbäumen
+- TOP 4.1.2: Dornbergstr. 10 ? Altöttinger Str. 7 - Fällung von Gefahrenbäumen
+- TOP 4.1.3: Anzinger Str. 5 und 15 ? Bescheid über beantragte Baumfällungen
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
