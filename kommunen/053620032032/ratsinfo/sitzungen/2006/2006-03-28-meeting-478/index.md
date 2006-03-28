@@ -1,0 +1,53 @@
+# Ausschuss für Stadtplanung und Verkehr (9. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2006-03-28T17:00:00+02:00
+- Ende: 2006-03-28T19:43:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZegSNmJKM_ZXQ0f3_odRZPU
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/478
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZcrg0Obc2Ej5yBxbyu8McgDCn3RK_Lo8dxnw0Ew5t-6R/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_28.03.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bestellung eines/r Schriftführers/in und eines/s stellvertretenden Schriftführers/in für die Erstellung der Niederschriften über die Ausschussbeschlüsse
+- TOP 2.: Verpflichtung eines Ausschussmitgliedes
+- TOP 3.: Bericht der Verwaltung über die Ausführung von Beschlüssen/Aufträgen/Empfehlungen aus der Sitzung am 14.02.2006
+- TOP 4.: Umsiedlung Manheim
+- TOP 5.: Stadtentwicklung
+- TOP 5.1: Niederschrift der 2.Sitzung des Arbeitskreises "Ortsentwicklung Kerpen" vom 30.01.2006
+- TOP 5.1.1: Umgestaltung der Stiftsstraße: Vorstellung neuer Pläne
+- TOP 5.2: Niederschrift über die 14. Sitzung des Arbeitskreises Ortsentwicklung Sindorf vom 22.02.06
+- TOP 5.3: Bildung einer Arbeitsgruppe zur Einleitung einer Vorgartensatzung
+- TOP 5.4: Kiesgrube "Am Drieschweg/Kerpen-Süd" hier: Antrag auf Restverfüllung und Rekultivierung
+- TOP 5.5: Korrektur der Niederschrift des Ausschusses für Stadtplanung und Verkehr vom 14.02.2006, Öffentlicher Teil: TOP 4.5
+- TOP 6.: Bauleitplanung
+- TOP 6.1: 48. Änderung des Flächennutzungsplanes, " Sonderbaufläche Freizeitzentrum ", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 6.2: Vorhabenbezogener Bebauungsplan SI 310 ¿Freizeitzentrum Kerpen-Sindorf¿, Stadtteil Sindorf hier:Einleitungsbeschluss des Bebauungsplanverfahrens gem. § 12 (2) BauGB
+- TOP 6.3: Bebauungsplan HO 183/1.Änderung ¿ Am Wahlenpfad ¿ , Stadtteil Horrem hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 6.4: Bebauungsplan HO 183/2.Änderung "Am Wahlenpfad", Stadtteil Horrem hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 6.5: 52. Änderung des Flächennutzungsplanes "Grünfläche Apollinarisstraße", Stadtteil Horrem hier: Wirksamkeitsbeschluss
+- TOP 6.6: BebauungsplanTÜ Nr. 283 A ¿Wohnbebauung Schildgenstraße¿, Stadtteil Brüggen hier : Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 6.7: Sachstandsbericht zum vorhabenbezogenen Bebauungsplan BU 317, Buir
+- TOP 6.8: Sachstandsbericht zum vorhabenbezogenen Bebauungsplan BU 315 Sondergebeit "Steinweg", Stadtteil Buir
+- TOP 6.9: Bebauungspläne SI 251B/C: hier: Versiegelung der Vorgärten im Bereich der Städtebaulichen Entwicklungsmaßnahme Vogelrutherfeld
+- TOP 6.9.1: Vorgartenzone im Vogelruther Feld; hier:Änderung des Gestaltungshandbuchs
+- TOP 6.9.2: Straßenausbau im Vogelrutherfeld, Sindorf
+- TOP 7.: Verkehrsplanung
+- TOP 7.1: Schutzstreifen für den Radverkehr in den Ortsdurchfahrten Konzepte für Landesstraßen
+- TOP 8.: Mitteilungen
+- TOP 9.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 9.1: Umgestaltung Hahnenstraße
+- TOP 10.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 11.: Städtebauliche Verträge
+- TOP 11.1: Bebauungsplan HO Nr. 183 2. Änderung ¿Am Wahlenpfad¿ im Stadtteil Horrem hier:Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB
+- TOP 11.1.1: Vorhabenbezogener Bebauungsplan SI Nr. 310 ¿Freizeitzentrum Kerpen - Sindorf¿, Stadtteil Sindorf hier:Abschluss eines Verpflichtungsvertrages
+- TOP 11.1.2: Bauvorhaben "Erweiterung OBI - Kings" im Stadtteil Sindorf hier: Abschluss eines Städtebaulichen Vertrages
+- TOP 11.1.3: Projekt "Enterteinment - Center Europarc" im Stadttteil Sindorf hier: Abschluss eines Städtebaulichen Vertrages
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
