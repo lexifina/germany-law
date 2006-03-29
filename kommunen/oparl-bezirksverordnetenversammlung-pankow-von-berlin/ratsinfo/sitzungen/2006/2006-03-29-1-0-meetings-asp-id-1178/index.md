@@ -1,0 +1,65 @@
+# 40. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2006-03-29T17:30:00+02:00
+- Ende: 2006-03-29T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1178
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1178
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=18289
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - erledigt
+- TOP 1.2: Geschäftliche Mitteilung - erledigt
+- TOP 1.3: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5: Mündliche Anfrage - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachweis der im Haushaltsjahr 2004 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - in der BVV abgelehnt
+- TOP 1.9: Ausbau der Kreuzung Hauptstraße - Mühlenstraße - Gravensteinstraße in Französisch-Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Kompletter Anschluss der Ortsteile Blankenburg, Karow und Buch an das öffentliche Abwasserentsorgungsnetz - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Dienstleistungen, Infrastruktur und Beratung im Bezirksamt Pankow seniorengerecht anbieten - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Freie Nutzung von Sportplätzen und Sporthallen - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Ergänzungsplan des Bezirks Pankow zum Doppelhaushaltsplan 2006/2007 hier: Haushaltsjahr 2006 - mit Änderungen in der BVV beschlossen
+- TOP 1.14: Nutzung des Garbatyplatzes am S-und U-Bahnhof Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Bericht zu sozialen Sanierungszielen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Drs. Nr. V-1033 - Mehr Sicherheit und Platz für die Schüler/innen der Rosa-Luxemburg-Oberschule - überwiesen
+- TOP 1.17: Abfallcontainer in Grünanlagen - mit Änderungen in der BVV beschlossen
+- TOP 1.18: Hartz IV - Verteilung der Eingliederungsmittel - Mehr Geschlechtergerechtigkeit - überwiesen
+- TOP 1.19: Gesundheitsdienstreformgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Gesundheitsdienstreformgesetz - zurückgezogen
+- TOP 1.21: Hartz IV - Verteilung der Eingliederungsmittel - Mehr Transparenz - überwiesen
+- TOP 1.22: Beitragsgesetze - beantwortet
+- TOP 1.23: Grüne Stadt und Erhaltungssatzung - beantwortet
+- TOP 1.24: Keine Einstellung von Straßenbahnlinien im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Umsetzung der Drs. Nr. V-0923 "Regionalmodell des Bezirksamtes" - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Erschließung Rangierbahnhof Pankow - überwiesen
+- TOP 1.27: Änderung des Beschlusses V - 789, Sitzungsplan der BVV Pankow von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Spielplatzplanung für den Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: EU-Bericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Energiesparpartnerschaft zwischen dem Bezirk Pankow und Johnson Control - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Girokonten für Sozialhilfeempfangende - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Lokale Energieagentur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5.1: Entsperrung des Ansatzes im Kapitel 4211 / 54102 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: "Albert-Schweitzer-Stiftung" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Regionalmodell des Sozialamtes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Weiter mit der Sonne - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: KITA-Eigenbetrieb - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Hartz IV - Verteilung der Eingliederungsmittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Langfristige Sicherung der Präsenz des Rates für MigrantInnen im Interkulturellen Haus in der Schönfließer Str.7 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Flugverkehr über Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Erlass einer Umstrukturierungssatzung für das Quartier der "Grünen Stadt" und Einleitung eines Sozialplanverfahrens - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Förderprogramm Städtebaulicher Denkmalschutz - Projektabwicklung und Programmplanung - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Entscheidung über die Zulässigkeit des Bürgerbegehrens Wasserturmplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Mittelfreigabe für die Kofinanzierung aus Verstärkungsmitteln für die Kulturwirtschaftsstudie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Bebauungsplan XVIII-39 im Bezirk Weißensee, Ortsteil Heinersdorf; Auswertung der frühzeitigen Bürgerbeteiligung Änderung des räumlichen Geltungsbereichs. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Verlängerung der Vereinbarung zu Einbürgerungsangelegenheiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
