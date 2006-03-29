@@ -1,0 +1,63 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2006-03-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/807642
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/807642
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 1.1.2.: Protokoll der letzten Sitzung
+- TOP 1.1.3.: Bürgeranliegen
+- TOP 2.: Anträge der Bürgerinnen, Bürger und Parteien
+- TOP 2.1.: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.: Einführung eines Sozialtickets in München
+- TOP 2.3.: Verunreinigung der Agnesstraße; Begrünung des Mittelstreifens
+- TOP 2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Bericht des Vorsitzenden (siehe Liste der Schreiben der Verwaltung und Kenntnisnahmen) und der BA-Arbeitskreise
+- TOP 4.: Gaststättenangelegenheiten
+- TOP 4.1.: Franz-Joseph-Str. 30, Galerie "Luileri casa d'arte": Freischankfläche
+- TOP 4.2.: Hohenzollernstr. 67, "Bistro Felice": Freischankfläche
+- TOP 5.: Grün / Baumfällungen
+- TOP 5.1.: Ainmillerstr. 29: Fällung einer Acer pseudeplatanus und einer Pflaume
+- TOP 5.2.: Fallmerayerstr. 22: Fällung einer Hainbuche
+- TOP 5.3.: Römerstr. 6: Fällung einer Robinie
+- TOP 5.4.: Römerstr. 15: Fällung eines Bergahorn
+- TOP 5.5.: Düsseldorfer Str. 16: Fällung von 7 Akazien
+- TOP 5.6.: Rheinstr. 14, 16, 18: Fällung einer Kiefer und eines Ahorn
+- TOP 5.7.: Lothstr. 21: Fällung verschiedener Bäume laut Baumbestandsplan
+- TOP 5.8.: Winzererstr. 168: Fällung einer Lärche
+- TOP 5.9.: Winzererstr. 182: Fällung von 2 Weiden
+- TOP 6.: Bauvorhaben
+- TOP 6.1.: Clemensstr. 43: Dachgeschossausbau sowie Anbau von Balkonen und eines Fassadenlifts
+- TOP 6.2.: Städtebauliche Entwicklungsmaßnahme Ackermannbogen, Teilgebiet Bebauungsplan mit Grünordnung Nr. 1905 d - Ausbau der öffentlichen Grünflächen - Bauteil 2: Große Wiese; Bedarfs- und Konzeptgenehmigung, Projektauftrag (Anhörung zur Beschlussvorlage des Bauausschusses vom 17.04.2006)
+- TOP 6.3.: Schleißheimer Str. 158 - 162: Umbau des BASIC-Bioladens
+- TOP 6.4.: Schleißheimer Str. 162 a: Umbau des Ladens
+- TOP 6.5.: Herzogstr. 129: Erweiterung und Umbau des Ladens im Gebäude Herzogstr. 129 / Schleißheimer Str. 162 a sowie der Gaststätte in Herzogstr. 129
+- TOP 6.6.: Fallmerayerstr. 22: Umbau eines Boardinghauses
+- TOP 6.7.: Belgradstr. 38: Anbau von Balkonen und Außentreppen, Einbau von Dachterrassen, Zusammenlegung von Wohnungen
+- TOP 7.: Verkehr
+- TOP 7.1.: Handlungsprogramm Mittlerer Ring 2001 - 2005; 4. Sachstandsbericht (Anhörung zur Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung)
+- TOP 7.2.: Parkraummanagement in München - Festlegung der 1. Priorität (Anhörung zur Beschlussvorlage des Stadtrates)
+- TOP 7.3.: Einziehung einer Teilstrecke der Klopstockstraße
+- TOP 7.4.: Clemensstr. 48 / Seite Ansprengerstr. 2: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 8.: BA-Angelegenheiten, BA-Budget
+- TOP 8.1.: Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo
+- TOP 9.: Mobilfunk
+- TOP 9.1.: Suchkreismeldung Habsburgerplatz
+- TOP 9.2.: Suchkreismeldung Josephsplatz
+- TOP 10.: Verschiedenes
+- TOP 10.1.: Mitgliedertreffen von "Pro Animale" im Luitpoldpark
+- TOP 10.2.: Anwohnerfest auf dem Pündterplatz
+- TOP 10.3.: Verkauf einer städtischen Immobilie westlich Belgradstr. 97
+- TOP 11.: Nicht öffentliche Sitzung
+- TOP 11.1.: Zweckentfremdung: Erteilung eines Negativattestes in der Isabellastraße
+- TOP 0: Bericht des Vorsitzenden und der Arbeitskreise
+- TOP 0.&nbsp;: siehe Anlage
