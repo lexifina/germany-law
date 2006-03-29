@@ -1,0 +1,64 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2006-03-29T16:05:00+02:00
+- Ende: 2006-03-29T16:30:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/4508
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/4508
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen-Stand: 16.03.2006 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00064815.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00065487.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten (nur Rat)
+- TOP 1.1: Beschluss über die Verleihung einer Ehrenbezeichnung
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Kommunaler Ordnungsdienst (KOD)
+- TOP 2.2: Freiwillige Leistungen der Stadt Wuppertal
+- TOP 2.3: US - Leasing und die Folgen
+- TOP 2.4: Rechtmäßigkeit der Aufnahme von Kassenkrediten
+- TOP 2.5: Externe Drogenberatung im Justizvollzug
+- TOP 2.6: Anfragen, Bedarf und Standorte für eine Neuansiedlung von Lebensmitteldiscountmärkten
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Resolution zu Hartz IV-Kürzungen - Nichtbefassung beschlossen
+- TOP 4.2: Resolution zur wirtschaftlichen Betätigung der Kommunen
+- TOP 4.3: Barrierefreie Querungsmöglichkeit der Bahnlinie während der Erneuerung der Brücke Emilienstraße - abgelehnt
+- TOP 4.4: Unterstützung der Volksinitiativen NRW - in der Sache erledigt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: LKW-Nachtfahr- und Abstellverbot in Wohngebieten
+- TOP 5.2: Nicht auf Kosten von Kindern und Jugendlichen sparen
+- TOP 5.3: Kinder und Jugendliche als Schwerpunkt in der Landespolitik wahrnehmen
+- TOP 5.4: Haushalt der ARGE 2006 - Eingliederungsprogramm
+- TOP 6: Ortsrecht
+- TOP 6.1: zusätzliche Ladenöffnungszeiten - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Gründung der Historische Stadthalle Wuppertal Service GmbH - geändert beschlossen
+- TOP 8.2: Das neue ÖSPV - Finanzierungssystem im Verkehrsverbund Rhein-Ruhr ab dem Jahr 2005 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 105 - Jung - Stilling - Weg / Cronenberger Straße - - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 1030 - Am Cleefkothen / Carl - Schurz - Straße - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Flieth/Homanndamm - punktueller Ausbau und Einrichtung einer dauerhaften Engstellensignalisierung - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Bürgerbegehren Baumschutzsatzung
+- TOP 11.1.1: Konsequenzen aus der Abschaffung der Baumschutzsatzung - Entgegennahme ohne Beschluss
+- TOP 11.1.2: Förderung des Baumschutzes - geändert beschlossen
+- TOP 11.2: Schließung der städtischen Tageseinrichtung für Kinder Schöllerweg 11a - ungeändert beschlossen
+- TOP 11.3: Schenkung einer Münzsammlung - ungeändert beschlossen
+- TOP 11.4: Bewerbung Wuppertals für die Austragung des NRW-Tages 2008 - ungeändert beschlossen
+- TOP 11.5: Zusammenfassung von Bauplanung und Bauordnung im Geschäftsbereich des Oberbürgermeisters - vertagen
+- TOP 11.5.1: Schnittstellen- und Prozessanalyse - vertagt auf Rat
+- TOP 11.6: Eduard von der Heydt-Kulturpreis - ungeändert beschlossen
+- TOP 11.6.1: Umbenennung Kulturpreis Wuppertal - abgelehnt
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Bestellung von Ersatzmitgliedern für den Betriebsausschuss des GMW - ungeändert beschlossen
+- TOP 12.2: Ersatzwahl eines stellvertretenden Mitglieds für die Verbandsversammlung des Abfallwirts - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzung - geändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
