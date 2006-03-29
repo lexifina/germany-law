@@ -1,0 +1,59 @@
+# 10. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-03-29T17:05:00+02:00
+- Ende: 2006-03-29T20:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5307
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5307
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00231208.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Interkommunale Kooperation im IT-Bereich stärken , Antrag der SPD-Fraktion A-R/0009/2006 v. 06.02.06 - einstimmig beschlossen
+- TOP 2.2: Antrag der SPD-Fraktion Nr. A-R/0007/2006 "Musikschularbeit in Münster" - einstimmig beschlossen
+- TOP 2.3: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. 34/2004 - vertagt
+- TOP 3: Erweiterung der Augustin-Wibbelt-Schule Roxel, städt. Förderschule, Förderschwerpunkt Lernen - einstimmig beschlossen
+- TOP -: Etat 2006
+- TOP -: Vorlagen zur Umsetzung der Spar- und Konsolidierungsprogrammes 2006
+- TOP 4: Änderung der Entgeltordnung "Förder- und Betreuungsangebote ..." - mehrheitlich beschlossen
+- TOP 5: Vergabe- und Entgeltordnung für die Nutzung von Räumen in Schulgebäuden der Stadt Münster - einstimmig beschlossen
+- TOP 6: Rückführung bestimmter Leistungen im Bereich der Schülerfahrkosten auf den gesetzlichen - mehrheitlich geändert beschlossen
+- TOP 7: Benutzungs- und Gebührensatzung der Lehranstalt für pharmazeutisch-technische Assistenten/innen - mehrheitlich geändert beschlossen
+- TOP 8: Haushaltskonsolidierungsprogramm 2006 - einstimmig beschlossen
+- TOP 9: Haushaltskonsolidierungsprogramm 2006 - mehrheitlich geändert beschlossen
+- TOP 10: Haushaltskonsolidierung 2006 - mehrheitlich geändert beschlossen
+- TOP 11: 5. Satzung zur Änderung der Benutzungs- und Gebührenordnung für die Stadtbücherei Münster - einstimmig beschlossen
+- TOP 12: Schließung der Zweigstelle der Stadtbücherei im Aaseemarkt - mehrheitlich geändert beschlossen
+- TOP 13: Entgelte für die Nutzung städtischer Sportstätten nach den "Allgemeinen Nutzungsbedingungen - einstimmig beschlossen
+- TOP 14: Spar- und Konsolidierungsprogramm 2006 - 2009 - mehrheitlich beschlossen
+- TOP 15: Neustrukturierung der kinderpädagogischen Angebote im Stadtteil Kinderhaus - mehrheitlich beschlossen
+- TOP 16: Umstrukturierung und Weiterentwicklung des Inobhutnahme-Systems für Kinder und Jugendliche in Münste - einstimmig beschlossen
+- TOP 17: Haushaltskonsolidierungsprogramm 2006 - mehrheitlich beschlossen
+- TOP 18: Geänderter Wirtschaftsplan 2006 - Münster Marketing - vertagt
+- TOP -: Sonstige Vorlagen zum Etat 2006
+- TOP 19: Umwandlung weiterer Schulen in Offene Ganztagsschulen zum Schuljahr 2006/2007 - mehrheitlich geändert beschlossen
+- TOP 20: Umwandlung von Haupt- und Förderschulen in erweiterte Ganztagsschulen - einstimmig beschlossen
+- TOP 21: Städtische Bühnen Münster
+- TOP 21.1: Bühnenbewirtschaftungsplan der Städtischen Bühnen Münster für die Spielzeit 2006/2007 - einstimmig beschlossen
+- TOP 21.2: St. Bühnen Münster - Einbau eines behindertengerechten Aufzuges im Foyer des Großen Hauses - einstimmig beschlossen
+- TOP 22: Umstrukturierung der Kath. Kindertageseinrichtung St. Clemens, Zur Alten Feuerwache 5, 48165 Münster - einstimmig beschlossen
+- TOP 23: Errichtung eines vereinseigenen Gebäudes für den TuS Hiltrup 1930 e. V. - mehrheitlich abgelehnt
+- TOP 24: Jugendarbeitslosigkeit in Münster - Kommunale Handlungsschwerpunkte Teil II - mehrheitlich beschlossen
+- TOP 25: Stadtteilwerkstatt West - Zweigstelle der Stadtteilwerkstatt Nord - mehrheitlich beschlossen
+- TOP 26: Die Familienhebamme am Gesundheitsamt der Stadt Münster - einstimmig beschlossen
+- TOP 27: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2006 - mehrheitlich geändert beschlossen
+- TOP -: Vorberatung sonstiger Ratsentscheidungen
+- TOP 28: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen aus Anlass der Veranstaltung - einstimmig beschlossen
+- TOP 29: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am 18.06.2006 aus Anlass der - einstimmig beschlossen
+- TOP 30: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01. August 2006 - vertagt
+- TOP 31: Zukünftige Verwertung des Grundstücks ehemaliger "Lindenhof" - Promenade/Himmelreichallee - vertagt
+- TOP 32: Maßnahmen der Stiftung Siverdes und Stiftung Generalarmendfonds für Flüchtlingskinder und junge erwa - einstimmig beschlossen
+- TOP 33: Rolle der Stiftungen in der Bürgergesellschaft - mehrheitlich beschlossen
+- TOP 34: Verschiedenes
