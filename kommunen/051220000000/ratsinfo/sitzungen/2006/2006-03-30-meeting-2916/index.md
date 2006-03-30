@@ -1,0 +1,60 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2006-03-30T16:00:00+02:00
+- Ende: 2006-03-30T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZVeT_lAov5cohylKjJhRXPQ
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/2916
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXSlX5B8EC0WgoKDw1RzLtK42MBEGiuPKqtUAoLDm7NN/Oeffentliche_Niederschrift_Rat_30.03.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Umbesetzung von Ausschüssen
+- TOP 2: Umstrukturierung der Solinger Bäderlandschaft
+- TOP 3: Umstrukturierung der Solinger Bäderlandschaft
+- TOP 4: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung der städtischen Bäder
+- TOP 5: Das neue Finanzierungssystem des Öffentlichen Straßen-Personennahverkehrs (ÖSPV, vormals ÖPNV)
+- TOP 6: Schoko-Ticket
+- TOP 7: Neufassung der Baumschutzsatzung der Stadt Solingen
+- TOP 8: V. Satzung zur Änderung der Hauptsatzung der Stadt Solingen
+- TOP 9: Entsorgung Solingen GmbH (ESG)
+- TOP 10: Verkaufsoffene Sonntage im Jahre 2006
+- TOP 11: Servicstelle Kinderbetreuung
+- TOP 12: Kürzungen durch den Haushaltsentwurf 2006 der Landesregierung NRW
+- TOP 13: Kürzungen durch den Haushaltsentwurf 2006 der Landesregierung NRW
+- TOP 14: Resolution an die Landesregierung
+- TOP 15: Sachstand und Perspektive der Kindertagesstätte Eckstraße
+- TOP 16: Schulentwicklungsplan 2005 - 2015 (SEP 2015)
+- TOP 17: Schulentwicklungsplan 2005 - 2015 (SEP 2015)
+- TOP 18: Anträge der Hauptschulen Höhscheid und Central auf Einrichtung des erweiterten Ganztagbetriebes zum Schuljahr 2006/2007
+- TOP 19: Schulbezirksgrenzen
+- TOP 20: Änderungen der Schulsituation durch das neue Schulgesetz
+- TOP 21: Bauleitplanung Rosenkamper Straße
+- TOP 22: Bauleitplanung Bonner Straße/ Erikaweg
+- TOP 23: Bauleitplanung Bonner Straße, Erikaweg
+- TOP 24: Bauleitplanung Richterweg
+- TOP 25: Bauleitplanung Katternberger Straße/ Kotter Feldweg
+- TOP 26: Bauleitplanung Kohlsberger Straße
+- TOP 27: Bauleitplanung Schützenstraße/Zietenstraße
+- TOP 28: Bauleitplanung Elisenstraße
+- TOP 29: Bauleitplanung Gewerbegebiet Höhscheider Weg
+- TOP 30: Bauleitplanung Nibelungenstraße
+- TOP 31: Bauleitplanung Sauerbreystraße/Hochstraße
+- TOP 32: Bauleitplanung Cronenberger Straße/Konrad-Adenauer-Straße
+- TOP 33: Prüfauftrag "Weltkulturerbe Müngstener Brücke"
+- TOP 34: Ergänzung des Beirats bei der Unteren Landschaftsbehörde nach dem neuen Landschaftsgesetz
+- TOP 35: S7/Regionalbahn 47
+- TOP 36: Konzernumlage Städtisches Klinikum Anfrage von Bündnis 90/Die Grünen-offene Liste vom 14.03.2006
+- TOP 37: Drohende Abschiebung von volljährigen Kindern aus dem Familienverband
+- TOP 38: Rederecht im Rat
+- TOP 39: Freigabe von Mitteln für die Betreuung von Kindern unter 3 Jahren
+- TOP 40: Gebühren für Angebote der Familienbildungsstätte
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 2: Abschluss von Abstimmungs- und Verpflichtungserklärungen zwischen der Stadt Solingen und Betreibern von dualen Systemen
+- TOP 3: Abschiebung von volljährigen Kindern aus dem Familienverband
