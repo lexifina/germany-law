@@ -1,0 +1,51 @@
+# Gemeinderat
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2006-03-30T18:00:00+02:00
+- Ende: 2006-03-30T22:10:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZa_ejIVIJ2Y3BC622SMYBWs
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/549
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXENBdQEcz7Rue0JnEmRyGTBnvkdRwUyaV78z52S3eUb/Oeffentliche_Niederschrift_Gemeinderat_30.03.2006.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 15.12.2005 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1.: Bauleitplanung 1. 33. Änderung des Flächennutzungsplanes - Dürboslar - 2. Bebauungsplan Nr. 47 D - Dürboslar - hier: a) Zu 1. und 2.: Beschluss zu den eingegangenen Anregungen während der Offenlage gemäß § 3 Abs. 2 BauGB b) Zu 1.: Feststellungsbeschluss Zu 2.: Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+- TOP 4.1.: Erstellung eines Leitbildes der "offenen Jugendeinrichtung" in Aldenhoven-Siersdorf - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Genehmigung eines Dringlichkeitsentscheids des Hauptausschusses
+- TOP 5.1.: Umwandlung der Hauptschule Aldenhoven in eine "erweiterte Ganztagsschule" - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Neubesetzung von Gremien
+- TOP 6.1.: Bildung der Einigungsstelle - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Finanzen, Haushalt
+- TOP 7.1.: Verabschiedung des Haushalts und des Haushaltssicherungskonzeptes
+- TOP 7.2.: Stellenplan für das Jahr 2006 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.3.: Haushaltsreste 2005 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.4.: Bekanntgabe der Jahresrechnung 2005 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: 1. Änderung der öffentlich-rechtlichen Vereinbarung zur Durchführung der Brandschau nach § 6 FSHG vom 13. August 1999 - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.: Anregung gem. § 24 Abs. 1 GO NW hier: Antrag der SPD-Fraktion zur Vergabe von Aufträgen durch die Gemeindeverwaltung
+- TOP 11.: Mitteilungen und Anfragen.
+- TOP 12.: Verschiedenes.
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 15.12.2005 -nichtöffentlicher Teil-.
+- TOP 2.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 2.1.: Beförderungen von Beamtinnen/Beamten - Einstimmig, 0 Enthaltung(en)
+- TOP 2.2.: Entfernung der in der Gemarkung Niedermerz angelegten "Benjes-Hecke" - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Genehmigung eines Dringlichkeitsentscheids des Hauptausschusses
+- TOP 3.1.: Besetzung der Stelle eines Rektors/einer Rektorin an der Johannesschule Aldenhoven-Siersdorf - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Auftragsvergaben
+- TOP 4.1.: Neuanschaffung von Servern für die Verwaltung - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Grundstücksangelegenheiten
+- TOP 5.1.: Übertragung eines Gewerbe-/Industriegrundstückes in Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2.: Übertragung eines Baugrundstückes in Siersdorf - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Aufnahme von Kassenkrediten in fremder Währung - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Mitteilungen und Anfragen.
+- TOP 8.: Verschiedenes.
