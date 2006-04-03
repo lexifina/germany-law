@@ -1,0 +1,57 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2006-04-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/817468
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/817468
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.1.: Präsentation der GIMA
+- TOP 2.2.: Missbrauch der öffentlichen Grünanlage des Margaretenplatzes als Baustelleneinrichungsfläche
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: REGSAM-Fragebogenaktion
+- TOP 3.2.: Bauvorhaben Seniorenwohnanlage Greinerberg 17; Angebot für ambulante Tagespflege / Tagesbetreuung - <div>Zustimmend zur Kenntnis genommen</div>
+- TOP 4.: Schulreferat
+- TOP 4.1.: Nachmittagsöffnung des Schulhofes und des Sportplatzes der Pfeuferschule
+- TOP 5.1.: Freischankfläche Gaststätte "Certosa", Oberländerstr. 14
+- TOP 5.2.: Freischankfläche Gaststätte in der Lindenschmitstraße 33
+- TOP 5.3.: Freischankfläche Gaststätte Alramstraße 27
+- TOP 5.4.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Verlängerung des bestehenden Haltverbotes an der Haltestelle Buslinie 53, Pfeuferstraße
+- TOP 6.2.: Straßenfest in der Valleystraße am 24.06.2006 - <div>Zustimmung</div>
+- TOP 6.3.: Antrag auf Aufhebung des absoluten Haltverbots vor dem Anwesen Plinganserstraße 25 zwischen 6.30 Uhr und 7.00 Uhr
+- TOP 7.1.: Budgetantrag Projekt "Solartektur" im Rahmen der Stadtteilwoche Sendling; ? 1500,-
+- TOP 7.2.: Budgetantrag Festumzug Stadtteilwoche
+- TOP 7.3.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Türkisch-Islamisches Kulturzentrum; Gutachterverfahren Fassadengestaltung
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Bauvorhaben Gotzinger Straße 56
+- TOP 8.4.: Werbeanlage Schäftlarnstraße
+- TOP 8.5.: Parkraummanagement in München
+- TOP 8.6.: Kleintierfriedhof in München
+- TOP 8.7.: Sonder-Werbeanlagen und Gerüst-Werbung im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006
+- TOP 8.8.: Bauvorhaben Implerstraße 10
+- TOP 8.9.: Verlängerung der am 30.07.2006 außer Kraft tretenden Erhaltungssatzung für den 6. Stadtbezirk Sendling inhaltlich und im Umgriff um weitere fünf Jahre - <div>Zustimmung, einstimmig</div>
+- TOP 9.: Baureferat
+- TOP 9.1.: Widmung von drei Teilstrecken der Karwendelstraße
+- TOP 9.2.: Gehwegnasen im Bereich der Ganghoferstraße
+- TOP 9.3.: Fahrradgerechter Einbau von Gullydeckeln
+- TOP 9.4.: Parkplatzbewirtschaftung und Unterhalt von Erholungsgebieten mit Bademöglichkeiten
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumpflanzungen in der Schöttlstraße; Bericht vom Ortstermin vom 21.03.2006
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Frühkindliche Gesundheitsförderung; Weiterentwicklung nach Schließung der Mütter-/Väterberatungsstellen zugunsten vermehrter Hausbesuche
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
