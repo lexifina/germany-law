@@ -1,0 +1,71 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2006-04-03T16:02:00+02:00
+- Ende: 2006-04-03T18:20:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/4514
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/4514
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00065434.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00065599.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00065512.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Beschluss über die Verleihung einer Ehrenbezeichnung - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Kommunaler Ordnungsdienst (KOD) - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Ordnungsdienst - Anfrage der Fraktion Bündnis 90/Die Grünen - abschließend zur Kenntnis genommen
+- TOP 2.2: Freiwillige Leistungen der Stadt Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Beantwortung der Anfrage der Ratsgruppe DIE REPUBLIKANER (VO/0176/06) - abschließend zur Kenntnis genommen
+- TOP 2.3: US - Leasing und die Folgen - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Anfrage der Ratsgruppe DIE REPUBLIKANER vom 17.03.2006 - US-Leasing und die Folgen - abschließend zur Kenntnis genommen
+- TOP 2.4: Rechtmäßigkeit der Aufnahme von Kassenkrediten - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Anfrage der Ratsgruppe DIE REPUBLIKANER vom 20.03.06 - Rechtmäßigkeit der Aufnahme von Kassenkredite - abschließend zur Kenntnis genommen
+- TOP 2.5: Externe Drogenberatung im Justizvollzug - abgesetzt
+- TOP 2.6: Anfragen, Bedarf und Standorte für eine Neuansiedlung von Lebensmitteldiscountmärkten - vertagen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Resolution zu Hartz IV-Kürzungen - Nichtbefassung beschlossen
+- TOP 4.2: Resolution zur wirtschaftlichen Betätigung der Kommunen - abgesetzt
+- TOP 4.3: Barrierefreie Querungsmöglichkeit der Bahnlinie während der Erneuerung der Brücke Emilienstraße - abgelehnt
+- TOP 4.4: Unterstützung der Volksinitiativen NRW - in der Sache erledigt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: LKW-Nachtfahr- und Abstellverbot in Wohngebieten - abgesetzt
+- TOP 5.2: Nicht auf Kosten von Kindern und Jugendlichen sparen - abgesetzt
+- TOP 5.3: Kinder und Jugendliche als Schwerpunkt in der Landespolitik wahrnehmen - abgesetzt
+- TOP 5.4: Haushalt der ARGE 2006 - Eingliederungsprogramm - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: zusätzliche Ladenöffnungszeiten - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Gründung der Historische Stadthalle Wuppertal Service GmbH - ungeändert beschlossen
+- TOP 8.2: Das neue ÖSPV - Finanzierungssystem im Verkehrsverbund Rhein-Ruhr ab dem Jahr 2005 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 105 - Jung - Stilling - Weg / Cronenberger Straße - - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 1030 - Am Cleefkothen / Carl - Schurz - Straße - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Flieth/Homanndamm - punktueller Ausbau und Einrichtung einer dauerhaften Engstellensignalisierung - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Bürgerbegehren Baumschutzsatzung - in der Sache erledigt
+- TOP 11.1.1: Konsequenzen aus der Abschaffung der Baumschutzsatzung - Entgegennahme ohne Beschluss
+- TOP 11.1.2: Förderung des Baumschutzes - geändert beschlossen
+- TOP 11.2: Schließung der städtischen Tageseinrichtung für Kinder Schöllerweg 11a - ungeändert beschlossen
+- TOP 11.3: Schenkung einer Münzsammlung - ungeändert beschlossen
+- TOP 11.4: Bewerbung Wuppertals für die Austragung des NRW-Tages 2008 - ungeändert beschlossen
+- TOP 11.5: Zusammenfassung von Bauplanung und Bauordnung im Geschäftsbereich des Oberbürgermeisters - ungeändert beschlossen
+- TOP 11.5: Zusammenfassung von Bauplanung/Bauordnung Stellungnahme Personalrat - Stellungnahme der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 11.5.1: Schnittstellen- und Prozessanalyse - vertagt auf Rat
+- TOP 11.6: Eduard von der Heydt-Kulturpreis der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.6.1: Umbenennung Kulturpreis Wuppertal - erledigt durch Beschluss zu einem anderen TOP
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bestellung von Ersatzmitgliedern für den Betriebsausschuss des GMW - ungeändert beschlossen
+- TOP 12.2: Ersatzwahl eines stellvertretenden Mitglieds für die Verbandsversammlung des Abfallwirts - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzung - geändert beschlossen
+- TOP 12.5: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
