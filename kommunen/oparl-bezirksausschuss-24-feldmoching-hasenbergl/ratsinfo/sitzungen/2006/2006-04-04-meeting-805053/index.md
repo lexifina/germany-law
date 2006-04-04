@@ -1,0 +1,58 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2006-04-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/805053
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/805053
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anträge
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Ausbau Kletterrosenweg
+- TOP 5.2.: Baumfällungen a) 1 Ahorn Joseph-Seifried-Str. 21 Hr. Kexel b) 1 Birke Kuckucksblumenstr. 3 Fr. Meissner c) 1 Kiefer Steinbergerstr. 12 Fr. Butt d) 1Lerche Heimperthstr. 2 Fr. Fellner e) 1 Ahorn Weitlstr. 18 Fr. Fellner
+- TOP 5.3.: Werbeanlage a) Feldmochinger Str. 206
+- TOP 5.4.: Einrichten eines absoluten Halteverbots Am Blütenanger auf der Nordseite zwischen der Zufahrt zum Anwesen 68 b-e und einschließlich der Garagenzufahrt vor 68 b
+- TOP 6: Unterichtungsfälle
+- TOP 6.1.: Verlängerung der U-Bahnlinie U8 nach Feldmoching
+- TOP 6.2.: Vorübergehender Einsatz eines Streetworkers für Jugendliche im Bereich des Pavillons hinter den Kirchen Hasenbergl Mitte (Antrag Nr. 577 des BA 24 vom 13.09.2005)
+- TOP 6.3.: Verkauf Grundstück Dahlienstraße 13 (Schreiben an Antragsteller)
+- TOP 6.4.: Meldelisten Bauvorhaben
+- TOP 6.5.: Baumaßnahmen der Stadtwerke
+- TOP 6.6.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/14, Regattaanlage (westlich), Stadtgrenze (südlich), Regattaweg (nördlich und südlich) -Siedlung am Regattaweg -
+- TOP 6.7.: Bebauungsplan mit Grünordnung Nr. 1863 Kaiserhölzlstraße, Röhrichstraße und Ferchenbachstraße
+- TOP 6.8.: Satzung zur Ergänzung der Bebauungsplansatzung für den Bebauungsplan mit Grünordnung Nr. 1503 b Bereich: Am Schnepfenweg (südlich), Am Blütenanger (nördlich), Reigersbachstraße (östlich) (Flst. Nr. 441/2 und 441/9)
+- TOP 6.9.: Zuschussnehmerdatei 2006 Vollzug des Huashaltsplanes 2006 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 6.10.: Zuschussnehmerdatei 2006 Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.11.: Zuschussnehmerdatei 2006 Vollzug des Haushaltsplanes 2006 für den Bereich Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.12.: Zuschussnehmerdatei 2006 Vollzug des Haushaltsplanes 2006 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates/Zentrale
+- TOP 6.13.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/30 Paul-Preuß-Straße (nördlich), Bahnlinie München - Regensburg (westlich)
+- TOP 6.14.: Unveränderte Fortführung eines Gaststättenbetriebes: a) Dülferstr. 16, "Mathäser & Waldfrieden" b) Feldmochinger Str. 214, "Bierstüberl Hopfenland"
+- TOP 6.15.: Haushaltskonsolidierung; Sonderprogramm / Sonderkonsolidierung 2006
+- TOP 6.16.: Errichtung einer Kindertagesstätte mit 2 Kindergartengruppen und 1 Hortgruppe an der Waldmeisterstraße
+- TOP 6.17.: Kleintierfriedhof in München
+- TOP 6.18.: Perspektive München Leitprojekt Verkehrsentwicklungsplan 2005
+- TOP 6.19.: Parkplatzbewirtschaftung und Unterhalt von Erholungsgebieten mit Bademöglichkeiten
+- TOP 6.20.: Fahrradgerechter Einabu von Gullydeckeln
+- TOP 6.21.: Nymphenburger Kanal, Abwassergebühren
+- TOP 6.22.: Baumfällungen; Abweichender Bescheid zur BA-Entscheidung a) Glockenblumenstr. 3
+- TOP 6.23.: Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo (Antrag Nr. 1062 des BA 15)
+- TOP 6.24.: Fragebogen zu REGSAM; Einschätzung der Bezirksausschüsse (Schreiben des BA 9)
+- TOP 6.25.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt" Bürgerbeteiligung in den Stadtvierteln
+- TOP 6.26.: Perspektive München - Bericht zur Stadtentwicklung 2005
+- TOP 6.27.: aktuelle Ausgabe "Der Maxvorstädter"
+- TOP 6.28.: Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft
+- TOP 6.29.: Vorab-Stellungnahme des Vorsitzenden aus Fristgründen Werbeanlage Feldmochinger Str. 424
+- TOP 7: Berichte
+- TOP 7.1.: Unterausschuss Jugend, Soziales, Schule und Kultur
+- TOP 7.2.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.3.: Infoveranstaltung zur Straßenausbaubeitragssatzung
+- TOP 8: Verschiedenes
