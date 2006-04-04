@@ -1,0 +1,74 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2006-04-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/810369
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/810369
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Regelung der Abbiegesituation Hans-Fischer-Str. / Theresienhöhe
+- TOP 3.2.: Anbringung eines Straßenschildes: Hans-Fischer-Straße
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Bauernmarkt Ganghoferstraße /Sandtnerstraße
+- TOP 4.2.: Errichtung einer Fußgängerampel in der Heimeranstraße; Höhe Feuerwache EmpfehlungNr. 153 der BV des BA 8 vom 07.07.05
+- TOP 5: Anhörungen
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Stadtratshearing am 29.03.06 Diskurs "Stadtgestaltung und neue Architektur" Bericht
+- TOP 6.1.2.: Neubau Büro- und Verwaltungsgebäude mit TG Tektur Landsberger Str. 110 vormals Pkt T9.3
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Zuschussnehmerdatei 2006 Vollzug des Haushaltsplanes 2006 für den Bereich - "Förderung freier Träger" des Amtes für Wohnen und Migration - "Förderung freier Träger" des Stadtjugendamtes - "Förderung freier Träger" des Amtes für Soziale Sicherung - "Kooperation mit freien Trägern" des Sozialreferates/Zentrale
+- TOP 6.2.2.: Anträge des Facharbeitskreises Kinder-Jugend-Familie Westend Erneute Behandlung aus 03/06
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Spartenanfrage Hans-Fischer-Straße/ WUgg-Retzer-Str. 5
+- TOP 6.4.2.: Unterrichtung über die Fällung von Gefahrenbäumen Kazmairstraße, Schulsportanlage
+- TOP 6.4.3.: Parkraummanagement in München - Festlegung der 1. Priorität Anhörung der BAs
+- TOP 6.4.4.: Spartenanfrage Bayerstr. 115
+- TOP 6.4.5.: Baumfällung Ridlerstr. 2
+- TOP 6.4.6.: Baumfällung i.V.m. einer Baumaßnahme Ganghoferstr. 68
+- TOP 7: Erledigungen
+- TOP 7.1.: KVR - Parkerleichterung für Schwerbehinderte; personenbezogener Sonderparkplatz im Bereich Tulbeckstr. 5
+- TOP 7.2.: Antrag Nr. 02-08/B00714 des BA 8 vom 04.11.05 Carl-von-Linde-RS - Feste Montage von ußballtoren - Zustand der Schultoiletten Antrag Nr. 02-08/B00715 des BA 8 vom 04.11.05 Errichtung von Sitzbänken am Schulhof der HS an der Ridlerstraße
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Meldesliste 06.03.06 - 12.03.06 Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Landsberger Str. 50
+- TOP 9.2.: Meldeliste 13.03.06 - 19.03.06 Erstantragsverfahren a) Heimeranstr. 61
+- TOP 9.3.: Bauvorhaben der SWM Stichtag 20.03.06
+- TOP 9.4.: Bauvorhaben der SWM Stichtag 27.03.06
+- TOP 9.5.: Meldeliste 20.03.06 - 26.03.06 Erstantragsverfahren a) Schwanthalerstr. 135
+- TOP 9.6.: Meldeliste 20.03.06 - 26.03.06 Änderungsverfahren a) Astallerstr. 9
+- TOP 10: Verschiedenes
+- TOP 10.1.: Erweiterung und Ausbau der BA-Rechte; AntragNr. 648 des BA 13 Schreiben BA 1 Zur Kenntnis
+- TOP 10.2.: Fragebogen REGSAM Schreiben BA 3 Zur Kenntnis
+- TOP 10.3.: Baumaßnahmen der SWM - Übersicht Schreiben BA 21 Zur Kenntnis
+- TOP 10.4.: Tag gegen Lärm am 25.04.06 Termine von April bis Juli für München und Umgebung
+- TOP 10.5.: Baumaßnahmen Westendstraße zw. Fäustlestraße und Schrenkstraße Bürgerinformation des BauReferates
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Schriftverkehr der Sitzung 02/06
+- TOP 11.2.: Protokoll der Sitzung 02/06
+- TOP 11.3.: Schriftverkehr der Sitzung 03/06
+- TOP 11.4.: Protokoll der Sitzung 03/06 Versand mit Nachtrag
+- TOP 11.5.: DIR - Zuwendungsbescheid Budget Initiative OpenWestend, Antrag vom 14.02.06
+- TOP 11.6.: KVR - Filmaufnahmen Parkstr. 8
+- TOP 11.7.: Beschluss des Stadtentwässerungsausschusses vom 28.03.06 (SB) Nymphenburger Kanal, Abwassergebühren EmpfehlungNr. 271 des BA 9 der BV vom 17.11.05
+- TOP 11.8.: Beschluss des Bauausschusses vom 28.03.06 (SB) Fahrradgerechter Einbau von Gullydeckeln (Ziff. 7 des Antrages) EmpfehlungNr. 247 des BA 2 der BV vom 10.11.05
+- TOP 11.9.: Bekanntgabe in der Sitzung des Bauausschusses vom 28.03.06 Parkplatzbewirtschaftung und Unterhalt von Erholungsgebieten mit Bademöglichkeiten
+- TOP 11.10.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 21.03.06 (SB) Haushaltskonsilidierung; Sonderprogramm / Sonderkonsilidierung 2006
+- TOP 11.11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.06 (VB) Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der WM 2006
+- TOP 11.12.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.06 (SB) 36. Städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2005
+- TOP 11.13.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.06 (SB) Kleintierfriedhof in München
+- TOP 11.14.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.06 (VB) + 15.03.06 PERSPEKTIVE MÜNCHEN Leitprojekt Verkehrsentwicklungsplan 2005
+- TOP 11.15.: Beschluss der Vollversammlung des Stadtrates vom 05.04.06 Schieneninfrastruktur und städtebauliche Entwicklung im Münchner Nordosten
+- TOP 11.16.: KVR - Unveränderte Fortführung von Gaststätten Ligsalzstr. 33
+- TOP 11.17.: KVR - Unveränderte Fortführung von Gaststätten Parkstr. 20
+- TOP 11.18.: KVR - Filmaufnahmen auf öffentlichem Grund Theresienhöhe 7
