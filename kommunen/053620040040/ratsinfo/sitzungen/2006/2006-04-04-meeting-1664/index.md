@@ -1,0 +1,56 @@
+# Rat
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2006-04-04T18:04:00+02:00
+- Ende: 2006-04-04T22:37:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWzF8CXTfjOMT0DFQ1IwuVc
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/1664
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZesuR9_dK8y5pBhniS9ShUei6yh_3ObcvznUFfhdiSEe/Einladung_Rat_04.04.2006.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUt74jNsUTSnhzHcrpun8tmHbCubKZWG30HFrBeh7qyc/Oeffentliche_Niederschrift_Rat_04.04.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Beratung und Beschlussfassung über den Entwurf der Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2006 und seiner Anlagen
+- TOP 4.1.: Haushaltsreden
+- TOP 4.2.: Leitentscheidungen und Feststellung der Budgets für das Haushaltsjahr 2006
+- TOP 4.3.: Beschlussfassung zur Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2006
+- TOP 4.4.: Finanzplan für den Planungszeitraum 2005 bis 2009
+- TOP 4.5.: Investitionsprogramm für den Planungszeitraum 2005 bis 2009
+- TOP 4.6.: Haushalt 2006; Stellenplan - 36 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 4.7.: Haushalt 2006; Wirtschaftsplan für die Kindertageseinrichtungen - 38 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 4.8.: Wirtschaftsplan der Kulturbetriebe der Stadt Wesseling für das Wirtschaftsjahr 2006 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.9.: Wirtschaftsplan der Sportstätten der Stadt Wesseling für das Wirtschaftsjahr 2006 - 36 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 4.10.: Wirtschaftsplan der Wald- und Parkanlagen der Stadt Wesseling für das Wirtschaftsjahr 2006 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Antrag der SPD-Fraktion: Entwurf der Haushaltssatzung des Rhein-Erft-Kreises für das Haushaltsjahr 2006 hier: Beteiligung gemäß § 55 Kreisordnung NRW (KrO NRW) - 20 Ja-Stimme(n), 19 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 6.: Wiederwahl eines Beigeordneten - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Ehrenordnung - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Änderung der Geschäftsordnung für den Rat der Stadt Wesseling und seine Ausschüsse - 36 Ja-Stimme(n), 1 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 9.: Änderung der Satzung über die Erhebung von Elternbeiträgen in der Offenen Ganztagsschule - Einstimmig, 3 Enthaltung(en)
+- TOP 10.: Antrag der Fröbelschule auf Umwandlung in eine gebundene Ganztagsschule - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Richtlinien für die Kindertagespflege in Wesseling - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Genehmigung einer Dienstreise hier: Dienstreise von Ratsmitgliedern in die Partnerstadt Pontivy anlässlich der "Biennale du Livre d'histoire". - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: NRW Tag 2008 - 36 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 14.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Beratung über die Ergebnisse der Sonderprüfungen a) Rheinforum Wesseling b) Mehrzweckhalle Urfeld - 36 Ja-Stimme(n), 3 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 2.: Ernennung eines Stadtoberamtsrates zum Stadtverwaltungsrat - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Ernennung eines Stadtamtmanns zum Stadtamtsrat - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Ernennung eines Stadtoberinspektors zum Stadtamtmann - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Ernennung einer Stadtoberinspektorin zur Stadtamtfrau - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Ernennung einer Stadtoberinspektorin zur Stadtamtfrau - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Ernennung einer Stadtinspektorin zur Stadtoberinspektorin - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Ernennung einer Stadtinspektorin zur Stadtoberinspektorin unter Verleihung der Eigenschaft einer Beamtin auf Lebenszeit - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Ernennung einer Stadtobersekretärin zur Stadthauptsekretärin - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Ernennung eines Stadtobersekretärs zum Stadthauptsekretär - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Entlassung eines Ehrenbeamten auf sein Verlangen - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Ernennung von zwei stellvertretenden Leitern der Freiwilligen Feuerwehr der Stadt Wesseling - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Mitteilungen und Anfragen
+- TOP 14.: Presseveröffentlichungen
