@@ -1,0 +1,88 @@
+# 13. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-04-05T17:29:00+02:00
+- Ende: 2006-04-05T23:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5309
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5309
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00231424.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - einstimmig beschlossen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP -: Etat 2006
+- TOP 8: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2006 - mehrheitlich beschlossen
+- TOP -: Etatreden der Fraktionen
+- TOP -: Vorlagen zur Umsetzung des Spar- und Konsolidierungsprogrammes 2006
+- TOP 9: Änderung der Entgeltordnung "Förder- und Betreuungsangebote ..." - mehrheitlich beschlossen
+- TOP 10: Vergabe- und Entgeltordnung für die Nutzung von Räumen in Schulgebäuden der Stadt Münster - einstimmig beschlossen
+- TOP 11: Rückführung bestimmter Leistungen im Bereich der Schülerfahrkosten auf den gesetzlichen - mehrheitlich beschlossen
+- TOP 12: Benutzungs- und Gebührensatzung der Lehranstalt für pharmazeutisch-technische Assistenten/innen - mehrheitlich beschlossen
+- TOP 13: Haushaltskonsolidierungsprogramm 2006 - einstimmig beschlossen
+- TOP 14: Haushaltskonsolidierungsprogramm 2006 - mehrheitlich beschlossen
+- TOP 15: Haushaltskonsolidierung 2006 - mehrheitlich beschlossen
+- TOP 16: 5. Satzung zur Änderung der Benutzungs- und Gebührenordnung für die Stadtbücherei Münster - einstimmig beschlossen
+- TOP 17: Schließung der Zweigstelle der Stadtbücherei im Aaseemarkt - mehrheitlich beschlossen
+- TOP 18: Entgelte für die Nutzung städtischer Sportstätten nach den "Allgemeinen Nutzungsbedingungen - einstimmig beschlossen
+- TOP 19: Spar- und Konsolidierungsprogramm 2006 - 2009 - mehrheitlich beschlossen
+- TOP 20: Neustrukturierung der kinderpädagogischen Angebote im Stadtteil Kinderhaus - mehrheitlich beschlossen
+- TOP 21: Umstrukturierung und Weiterentwicklung des Inobhutnahme-Systems für Kinder und Jugendliche in Münste - einstimmig beschlossen
+- TOP 22: Haushaltskonsolidierungsprogramm 2006 - mehrheitlich beschlossen
+- TOP 23: Geänderter Wirtschaftsplan 2006 - Münster Marketing - mehrheitlich beschlossen
+- TOP -: Sonstige Vorlagen zur Umsetzung des Etats 2006
+- TOP 24: Umwandlung weiterer Schulen in Offene Ganztagsschulen zum Schuljahr 2006/2007 - mehrheitlich beschlossen
+- TOP 25: Umwandlung von Haupt- und Förderschulen in erweiterte Ganztagsschulen - einstimmig beschlossen
+- TOP 26: Städtische Bühnen
+- TOP 26.1: Bühnenbewirtschaftungsplan der Städtischen Bühnen Münster für die Spielzeit 2006/2007 - einstimmig beschlossen
+- TOP 26.2: St. Bühnen Münster - Einbau eines behindertengerechten Aufzuges im Foyer des Großen Hauses - einstimmig beschlossen
+- TOP 27: Modellprojekt zur stärkeren Internationalisierung der städtischen Bildungslandschaft - mehrheitlich beschlossen
+- TOP 28: Errichtung eines vereinseigenen Gebäudes für den TuS Hiltrup 1930 e. V. - mehrheitlich abgelehnt
+- TOP 29: Umstrukturierung der Kath. Kindertageseinrichtung St. Clemens, Zur Alten Feuerwache 5, 48165 Münster - einstimmig beschlossen
+- TOP 30: Jugendarbeitslosigkeit in Münster - Kommunale Handlungsschwerpunkte Teil II - mehrheitlich beschlossen
+- TOP 31: Stadtteilwerkstatt West - Zweigstelle der Stadtteilwerkstatt Nord - mehrheitlich beschlossen
+- TOP 32: Die Familienhebamme am Gesundheitsamt der Stadt Münster - einstimmig beschlossen
+- TOP -: Sonstige Vorlagen zur Beratung und Beschlussfassung
+- TOP 33: Bürgerbegehren "Ja zum Südbad - Ja zum Hallenbad Handorf" - mehrheitlich beschlossen
+- TOP 34: NRW-Tag 2007 - mehrheitlich beschlossen
+- TOP 35: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen aus Anlass der Veranstaltung - einstimmig beschlossen
+- TOP 36: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am 18.06.2006 aus Anlass der - einstimmig beschlossen
+- TOP 37: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01. August 2006 - mehrheitlich beschlossen
+- TOP 38: Zukünftige Verwertung des Grundstücks ehemaliger "Lindenhof" - Promenade/Himmelreichallee - mehrheitlich beschlossen
+- TOP 39: Maßnahmen der Stiftung Siverdes und Stiftung Generalarmendfonds für Flüchtlingskinder und junge erwa - einstimmig beschlossen
+- TOP 40: Rolle der Stiftungen in der Bürgergesellschaft - mehrheitlich beschlossen
+- TOP 41: Änderung der Abfallsatzung - einstimmig beschlossen
+- TOP 42: Bauleitplanung
+- TOP 42.1: Stadtbezirk Münster-West
+- TOP 42.1.1: Teilaufhebung des Bebauungsplanes ROX 8: Roxel - Schulzentrum - einstimmig beschlossen
+- TOP 42.2: Stadtbezirk Münster-Hiltrup
+- TOP 42.2.1: Bebauungsplan Nr. 477 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 42.3: Stadtbezirk Münster-Südost
+- TOP 42.3.1: 13. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 42.3.2: Bebauungsplan Nr. 495 - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 42.4: Stadtbezirk Münster-Ost
+- TOP 42.4.1: Veränderungssperre Nr. 96 für den Bereich Gewerbegebiet Höltenweg - einstimmig beschlossen
+- TOP 42.4.2: Vorhabenbezogener Bebauungsplan Nr. 498: Roxel - Gewerbegebiet - einstimmig beschlossen
+- TOP 42.4.3: 17. Änderung FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 43: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 44: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 44.1: Resolution: Gegen Kürzungen der Landesförderung bei Kindern, Jugendlichen und Familien - mehrheitlich abgelehnt
+- TOP 45: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 45.1: Bezahlbaren Wohnraum in der Innenstadt stärken - Stadtreparatur vorantreiben - verwiesen
+- TOP 45.2: Anmeldezeiten vorziehen - verwiesen
+- TOP 45.3: 'City of learning' aus dem Wortschatz streichen - verwiesen
+- TOP 45.4: Elternwillen respektieren - Anmeldeverfahren verbessern - Vierzügigkeit aufheben - verwiesen
+- TOP 45.5: Chancengerechtigkeit schaffen - Einstieg in den kostenlosen Kindergarten prüfen - verwiesen
+- TOP 45.6: Optimierung von Strukturen und Prozessen in der Stadtverwaltung Münster - verwiesen
+- TOP 45.7: Aufgabenkritische Überprüfung regionalpolitischer Mitgliedschaften der Stadt Münster - verwiesen
+- TOP 46: Verschiedenes
