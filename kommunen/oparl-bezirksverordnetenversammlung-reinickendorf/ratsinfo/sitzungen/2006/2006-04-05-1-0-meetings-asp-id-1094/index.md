@@ -1,0 +1,83 @@
+# 49. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2006-04-05T17:00:00+02:00
+- Ende: 2006-04-05T21:50:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1094
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1094
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=31390
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen - (offen)
+- TOP 2: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Dringlichkeitsanträge - im Ausschuss abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Konzept für Grünpatenschaften - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.2: Zusätzliche Haltestelle im Bereich Bernauer Straße / Neheimer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Absolutes Halteverbot im Amboßweg durchsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Schulschwänzer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Ergebnis der öffentlichen Auslegung der Landschaftsplanentwürfe für das Dorf Heiligensee XX-L-10a, XX-L-10b, XX-L-11c, XX-L-12a sowie der eingeschränkten öffentlichen Auslegung der Landschaftsplanentwürfe XX-L-10b und XX-L-11c - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Erlass der Verordnung über die Festsetzung des Bebauungsplanes 12-4 für das Grundstück Waidmannsluster Damm 182/194, Oraniendamm 64 - 72 sowie einen Abschnitt des Waidmannsluster Damms und des Oraniendamms im Bezirk Reinickendorf, Ortsteil Waidmannslust - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Personelle Nachbesetzung der Trägervertretung in der Arbeitsgemeinschaft gemäß § 44 b Sozialgesetzbuch Teil II (SGB II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Konzept für die Werbung zur Teilnahme an der BVV-Wahl 2006 für die Altersgruppe der 16- bis 18-Jährigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Senat missachtet Sicherheitsbedürfnis der Reinickendorfer Bevölkerung - in der BVV zurückgezogen
+- TOP 6.2: Erweiterung der Sammlung der Graphothek - überwiesen
+- TOP 6.2.1: Erweiterung der Sammlung der Graphothek - überwiesen
+- TOP 6.3: Hauptschulen als Verlierer - vertagt
+- TOP 6.4: Umsetzung des Rundschreibens der Senatsverwaltung II Nr. 14/2006 zur Erteilung der Bescheide zur ergänzenden Betreuung an Schulen - vertagt
+- TOP 6.5: Umweltpreis retten! - vertagt
+- TOP 6.6: Klassenstärke an Reinickendorfer Hauptschulen - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Entwurf des Bebauungsplanes 12-6 für das Grundstück Quickborner Straße 111/119 sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-6 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Bebauungsplan XX-285 für die Grundstücke Berliner Straße 17 - 18 und 25, für Teilflächen der Grundstücke Berliner Straße 19, 26 und für einen Abschnitt der Berliner Straße und der Straße Am Borsigturm sowie Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-285 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Neuwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.4: Wahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.5: Berufung eines beratenden Mitgliedes und eines Stellvertreters in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Bebauungspläne Dorf Heiligensee - erledigt
+- TOP 8.2: Workshops der Musikschule - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Schulstationen erhalten und auf Hauptschulen ausdehnen - erledigt
+- TOP 8.4: Schülergerichte - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Umbenennung Henricistraße - erledigt
+- TOP 8.6: Reinickendorfer Schule für landesweite Raumluftstudien melden - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Bibliotheksbus in Hermsdorf einsetzen! - erledigt
+- TOP 8.8: Priorität für Reinickendorfer Kinder in Reinickendorfer Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Hochbegabung erkennen - vertagt
+- TOP 8.10: Schulspeisung an gebundenen Ganztagsschulen - ohne Änderungen in der BVV beschlossen
+- TOP 8.11: "Grün-Stiftung" für Reinickendorf schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 8.12: Schulbegleitung für Schulschwänzer - vertagt
+- TOP 8.13: Reinickendorfer Umweltpreis - vertagt
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Abfederung aller zu erwartenden Defizite des Kita-Eigenbetriebes Nordwest - überwiesen
+- TOP 9.2: Kleine Klassenfrequenzen in den Hauptschulen - vertagt
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Mahnmal Wiltinger Straße - Gedenken an alle Opfer - überwiesen
+- TOP 10.2: Nutzungskonzept für den Flughafen Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Gender-Produkte - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Entwicklungskonzept Borsighafen - überwiesen
+- TOP 10.5: Pflanzungen und Fällungen durch das Bezirksamt - überwiesen
+- TOP 10.6: Vermeidung geschichtlicher Verzerrung - Gedenkstätte Hohenschönhausen besuchen! - vertagt
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Finanzausgleich für Druck- und Kopieraufwand in Schulen - vertagt
+- TOP 11.2: Bushaltestelle Kopenhagener Straße - überwiesen
+- TOP 11.3: Modellprojekt "Schulverweigerung - Die 2. Chance" - überwiesen
+- TOP 11.4: Personalzuschläge bei Sprachförderbedarf - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Bezirkliche Sozialdienste - ohne Änderungen in der BVV beschlossen
+- TOP 12: Keine Militanten in Reinickendorf! - ohne Änderungen in der BVV beschlossen
+- TOP 13: Gesamtkonzept für als besonders belastet ausgewiesene Kieze in Reinickendorf - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.1: Gesamtkonzept für als besonders belastet ausgewiesene Kieze in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 14: Kleingartenkolonien erhalten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.1: Kleingartenkolonien erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 15: Keine Teilverkäufe der GeSoBau im Märkischen Viertel - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15.1: Keine Teilverkäufe der Gesobau im Märkischen Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 16: Keine Ausgrenzung von Mitbürgern in Reinickendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 17: Keine Verkäufe der GeSoBau im Märkischen Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 18: Künstlerhof Frohnau erhalten - überwiesen
+- TOP 18.1: Künstlerhof Frohnau erhalten - überwiesen
