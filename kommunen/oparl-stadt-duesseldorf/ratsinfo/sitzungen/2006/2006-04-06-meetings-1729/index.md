@@ -1,0 +1,71 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-04-06T14:00:00+02:00
+- Ende: 2006-04-06T20:30:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1729
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1729
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111843.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111843.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111843.pdf
+
+## Tagesordnung
+
+- TOP 1: Vereidigung von Beigeordneten - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Akt. Anfr. Kahl: Wohnungen - zur Kenntnis genommen
+- TOP 5: Akt. Anfr. Lbbg: Abschiebung - zur Kenntnis genommen
+- TOP 6: Akt. Anfr. Lbbg: Moskau - zur Kenntnis genommen
+- TOP 7: Anfragen - zur Kenntnis genommen
+- TOP 8: Anfrage CDU: SkyTrain - zur Kenntnis genommen
+- TOP 9: Anfr. CDU/FDP: Nottelefone - zur Kenntnis genommen
+- TOP 10: Anfr.Bü90/Grü: Unbesetzte Schulleiterstellen - zur Kenntnis genommen
+- TOP 11: Anfr. SPD: Zensur - Ö-Arbeit IV - zur Kenntnis genommen
+- TOP 12: Anfrage von Bü90/Grü: Perspektiven f.d. Hafen - zur Kenntnis genommen
+- TOP 13: Anfrage RH Karen-Jungen: Veranstaltungskonzept WM - zur Kenntnis genommen
+- TOP 14: Anfr, d. Ratsfrau Frey: Wohnungsverkäufe - zur Kenntnis genommen
+- TOP 15: Anträge - zur Kenntnis genommen
+- TOP 16: AntragBü90/Grü: Monkeys Island - mehrheitlich abgelehnt
+- TOP 17: Antr.Bü90/Grü: Kürzungen Nahverkehr verhindern - mehrheitlich abgelehnt
+- TOP 18: Antr. SPD: Kita-Plätze für Düsseldorf - mehrheitlich abgelehnt
+- TOP 19: Antr. SPD: Freiheit Kultur - mehrheitlich abgelehnt
+- TOP 20: Antr. SPD: Fußball-WM 2006 - mehrheitlich abgelehnt
+- TOP 21: Antr. SPD: Ausschreibung Stromlieferungen
+- TOP 22: Änd.-antr. CDU/FDP: Stromverträge
+- TOP 23: Reihenfolge Allgemeine Vertretung - mehrheitlich beschlossen
+- TOP 24: Änderung d. Zuständigkeitsordnung
+- TOP 25: Kämmererliste 2005 - mehrheitlich beschlossen
+- TOP 26: Kämmererliste 2006 - mehrheitlich beschlossen
+- TOP 27: Landesjubiläum60 Jahre NRW
+- TOP 28: Kasernenstr. - Bau- und Finanzierungsbeschluss - einstimmig beschlossen
+- TOP 29: Rathaus Benrath, Bau- und Finanzierungsbeschluss - einstimmig beschlossen
+- TOP 30: Tiefgarage TVG I - III - einstimmig beschlossen
+- TOP 31: Benutzungsordnung - einstimmig beschlossen
+- TOP 32: Betriebsträgerwechsel VolmerswetherStr+SterntalerW - einstimmig beschlossen
+- TOP 33: Kunstrasen verschiedene Sportanlagen - einstimmig beschlossen
+- TOP 34: BSA Wilh Heinr Weg Umbau Laufbahn - einstimmig beschlossen
+- TOP 35: Modernisierung Fleher Straße - einstimmig beschlossen
+- TOP 36: Erweiterungsbau Richardstr. 14 für die Offene Ganz - einstimmig beschlossen
+- TOP 37: Hauptsammler Süd - einstimmig beschlossen
+- TOP 38: Umbau für die Einrichtung der Offenen Ganztagsschu - einstimmig beschlossen
+- TOP 39: Umbau von Parkplätzen an der Kunsthalle, Grabbepla - einstimmig beschlossen
+- TOP 40: Umbesetzung von Ausschüssen - mehrheitlich beschlossen
+- TOP 41: AR Stadtwerke - mehrheitlich beschlossen
+- TOP 42: Aufsichtsrat DOR-Theatergem. D-DU Ersatzwahl - mehrheitlich beschlossen
+- TOP 43: AR D´dorfer Künstleratelier - mehrheitlich beschlossen
+- TOP 44: AR Kunsthalle -Ersatzwahl - mehrheitlich beschlossen
+- TOP 45: Entsendung des Kulturdezernenten - mehrheitlich beschlossen
+- TOP 46: Besetzung der Einigungsstelle - einstimmig beschlossen
+- TOP 47: Sonntagfreigaben
+- TOP 48: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 49: FNPÄ 41-Nördl.Willstätter- Anregungen, Plan - mehrheitlich beschlossen
+- TOP 50: FNPÄ 86-Bilk Arcaden-Anreg. Plan - mehrheitlich beschlossen
+- TOP 51: FNP-Ä Nr. 38 - Golfpark Kalkum - mehrheitlich beschlossen
+- TOP 52: Änderungsantrag der SPD-Ratsfraktion - mehrheitlich abgelehnt
+- TOP 53: BPl 5275/24-Plock/Völklinger-Anr.Änd.Satzung - einstimmig beschlossen
+- TOP 54: Maßnahmen WM 2006 - mehrheitlich beschlossen
