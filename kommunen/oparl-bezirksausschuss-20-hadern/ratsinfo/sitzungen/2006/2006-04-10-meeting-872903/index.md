@@ -1,0 +1,76 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2006-04-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/872903
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/872903
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Bortenhofstr. 9, 1 Birke
+- TOP 3.2.: Würmtalstr. 25, 1 Fichte
+- TOP 3.3.: Holzapfelkreuther Str. 12, 1 Tanne
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Waldfriedhof, 1 Eiche (Baureferat, 22.02.2006)
+- TOP 3.2.: Waldheim, 1 Ahorn (Baureferat, 06.03.2006)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4: Ausschussberichte
+- TOP 4.1.: UA Verkehr
+- TOP 5: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 6: Entscheidungsfälle
+- TOP 7: Unterrichtungsfälle
+- TOP 7.1.: Container für Kleidersammlung am Stiftsbogen / Kurparkstraße (Baureferat, 10.03.2006)
+- TOP 7.2.: Zweckentfremdung von Wohnraum - Krokusstr.
+- TOP 7.3.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt", Übersicht des Jahres 2006 (Direktorium, 24.02.2006)
+- TOP 8: Anhörungsfälle
+- TOP 8.1.: Bebauungsplan Nr. 66, Gemeinbedarfsfläche Feodor-Lynen-Gymnasium der Gemeinde Planegg (Referat für Stadtplanung und Bauordnung, 10.03.2006)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Haltverbot in der Senftenauerstraße (KVR, 14.03.2006)
+- TOP 9.2.: Antrag auf Verlegung eines geplanten Weges (Baureferat, 13.03.2006)
+- TOP 9.3.: REGSAM-Fragebogenaktion (Sozialreferat, 02.03.2006)
+- TOP 9.4.: Verkehr in der Willibaldstraße zwischen Senftenauer- und Krokusstraße (KVR, 06.03.2006)
+- TOP 9.5.: Herstellung von weiteren Längsparkbuchten im Bereich der ehemaligen Bushaltestelle Würmtalstr. 126 (KVR, 03.03.2006)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Erweiterung / Sicherung und Ausbau der BA-Rechte (BA 1, 16.03.2006; BA 15, 11.03.2006)
+- TOP 11.2.: Perspektive München - Bericht zur Stadtentwicklung 2005 (Referat für Stadtplanung und Bauordnung, 27.02.2006)
+- TOP 11.3.: Broschüre "Kampagne für eine kultursensible Altenhilfe
+- TOP 11.4.: Gleisbauarbeiten im Bereich Karlsplatz/Sonnenstraße (MVG, 09.03.2006)
+- TOP 11.5.: Vorstellung Grünzugnetzwerk Würmtal (GNW e.V., 21.03.2006)
+- TOP 11.6.: Information über die Baumaßnahmen der Stadtwerke München GmbH (BA 21, 16.03.2006)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.1.: vom 16.02.2006 "Wohnen in München, III" - München Modell, Grundsatzbehandlung der Modalitäten für das München Modell a) Überblick über die bisherige Entwicklung der Modalitäten b) Vermietungszahlen im München Modell-Miete seit Mai 2005 c) Fortführung des München Modells auf der Basis der geltenden Modalitäten d) Bilanz "10 Jahre München Modell"
+- TOP 12.2.: vom 16.02.2006 Beteiligung im Netz, Die Stadt verbessert in ihrem Internetauftritt die Angebote zur Beteiligung im Netz
+- TOP 12.2.2: Referentenanträge
+- TOP 12.1.: Beschluss des Stadtentwässerungsausschusses vom 28.03.2006: Nymphenburger Kanal, Abwassergebühren
+- TOP 12.2.: am 15.03.2006: PERSPEKTIVE MÜNCHEN Leitprojekt Verkehrsentwicklungsplan 2005; a) Ergebnis der Öffentlichkeitsbeteiligung b) Ergebnisse und Entscheidungsvorschlag c) Anträge
+- TOP 12.3.2: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Gesundheitsausschusses vom 09.02.2006: Frühkindliche Gesundheitsförderung, Weiterentwicklung nach Schließung der Mütter-/ Väterberatungsstellen zugunsten vermehrter Hausbesuche
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 21.03.2006: Haushaltskonsolidierung; Sonderprogramm /Sonderkonsolidierung 2006
+- TOP 12.2.: Beschluss des Bauausschusses vom 28.03.2006: Fahrradgerechter Einbau von Gullydeckeln
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 21.03.2006: Zuschussnehmerdatei 2006, Vollzug des Haushaltsplanes 2006 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates/Zentrale
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses vom 21.03.2006: Zuschussnehmerdatei 2006 Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 12.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 21.03.2006: Zuschussnehmerdatei 2006, Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 12.6.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und Sozialausschusses vom 21.03.2006: Zuschussnehmerdatei 2006 -Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 12.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2006: Kleintierfriedhof in München
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.02.2006: Fassadenwettbewerb der Landeshauptstadt München, hier: Erweiterung der ehrenamtlichen Gutachterkommision um eine Vertreterin / einen Vertreter der DAchdecker-Innung münchen - Oberbayern
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.02.2006: PERSPEKTIVE MÜNCHEN Leitprojekt Verkehrsentwicklungsplan 2005 a) Ergebnis der Öffentlichkeitsbeteiligung b) Ergebnisse und Entscheidungsvorschlag c) Anträge
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2006: Sonder- Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.03.2006: Änderung des Flächennutzungsplanes mit integrierter Ladschaftsplanung für den Bereich III/12 und Bebauungsplan mit Grünordnung Nr. 1918 auerbruchstraße (westlich), Grundstücke Fl.Nrn. 167/ (Teilfl.), 167/9 (Teilfl.), 167/11, 167/13, 167/25, 167/26,167/27 und 167/29 Gem. Großhadern
+- TOP 12.3.: Bekanntgaben
+- TOP 12.4.: Bekanntgabe in der Sitzung des Bauausschusses vom 28.03.2006: Parkplatzbewirtschaftung und Unterhalt von Erholungsgebieten mit Bademöglichkeiten
+- TOP 13: Nichtöffentliche Sitzung
