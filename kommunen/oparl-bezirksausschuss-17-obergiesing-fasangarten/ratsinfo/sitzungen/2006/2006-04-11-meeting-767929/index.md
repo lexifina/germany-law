@@ -1,0 +1,112 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2006-04-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/767929
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/767929
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Offener Brief an den Bezirksausschuss 17 - Obergiesing zum Thema Buslinie 145; Bürgerschreiben vom 14.03.2006
+- TOP 2.2.: Einzelhandel im Giesinger Bahnhof; Schreiben des Instituts für Sozialpädagogische Arbeit vom 15.03.2006
+- TOP 2.3.: Parklizenzsierung; Bürgerschreiben vom 21.03.2006
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 0.5.5.6: Sonstiges
+- TOP 3: Anträge/Anfragen
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Jugendgruppe Team "Zeltlager 2006", Pfarrei "Königin des Friedens", für die Maßnahme: Jugendzeltlager 2006 vom 28.08.06 bis 01.09.06; Antragssumme: 670,50 Euro; Antrag vom 15.02.2006
+- TOP 4.5.: Unterausschüsse
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.1.: Gemeinde Unterhaching; Bebauungsplan Nr. 138/2005 Stumpfwiese-Süd; Zuleitung des Referates für Stadtplanung u. Bauordnung vom 07.03.2006 mit der Bitte um Stellungnahme
+- TOP 0.2.: Vollzug von § 13 der BA-Satzung; Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen); hier: Tegernseer Landstr. 64; 1 hinterleuchtete Wechselwerbeanlage; Zuleitung des Planungsreferates mit der Bitte um Stellungnahme
+- TOP 0.3.: Allgemeines Eisenbahngesetz (AEG); Plangenehmigung nach § 18 Abs. 2 AEG für die Verlängerung des vorhandenen Privatgleisanschlusses an der Bahnstrecke Giesing - Deisenhofen bei km 3,4 in München Giesing, Gemarkung Perlach; Zuleitung des Planungsreferates vom 07.03.2006 mit der Bitte um Stellungnahme bis 18.04.2006
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: 36. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2005; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2006
+- TOP 0.3.: Perspektive München - Bericht zur Stadtentwicklung 2005; Zuleitung des Referates für Stadtplanung u. Bauordnung vom 27.02.2006
+- TOP 0.4.: Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2006 (VB)
+- TOP 0.5.: Kleintierfriedhof in München; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2006 (SB)
+- TOP 0.6.: Instandsetzung der Straßenbrücke Stadelheimer Straße im Zuge der Tegernseer Landstraße (McGraw Graben) im 17. Stadtbezirk Obergiesing; Beschluss des Bauausschusses vom 28.03.2006 (SB)
+- TOP 0.7.: Instandsetzung der 4 Verbindungsbrücken zwischen Chiemgau- und Stadelheimer Straße im Zuge der Tegernseer Landstraße (McGraw Graben) im 17. Stadtbezirk Obergiesing; Beschluss des Bauausschusses vom 28.03.2006
+- TOP 0.8.: Aktualisierung des Flächennutzungsplanes und Aufstellung des Landschaftsplanes Teilbereich VI - Südost; Schreiben des Referats für Stadtplanung u. Bauordnung vom 06.03.2006
+- TOP 0.9.: Antrag auf Darlegung, inwiefern die Erhaltungssatzung durch Modell der Objektförderung ersetzt werden kann; Antrag des BA 17 vom 13.12.05; Anwortschreiben des Referats für Stadtplanung u. Bauordnung vom 17.03.2006
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Haushaltskonsolidierung; Sonderprogramm / Sonderkonsolidierung 2006; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 21.03.2006 (SB)
+- TOP 0.2.: Ergebnisprotokoll aus der Sitzung der Arbeitsgruppe Wohnungslosigkeit am 29.11.2005; Unterrichtung des Sozialreferats vom 14.02.2006
+- TOP 0.3.: Namensgebung der Städt. Fachoberschule für Sozialwesen und Gestaltung in "Städt. Rainer-Werner-Fassbinder-Fachoberschule für Sozialwesen und Gestaltung"; Beschluss des Schulausschusses des Stadtrates am 22.03.2006 (SB)
+- TOP 0.4.: REGSAM-Fragebogenaktion; Schreiben des Sozialreferats vom 02.03.2006; zu TOP 5.2.4.4 Fragebogen zu REGSAM; Einschätzung der Bezirksausschüsse; Schreiben des BA 9 vom 21.02.2006 mit der Bitte um Fristverlängerung und Schreiben des BA 3 vom 23.03.2006
+- TOP 0.5.: Zuschussnehmerdatei 2006; Vollzug des Haushaltsplanes 2006 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates / Zentrale; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 21.03.2006
+- TOP 0.6.: Zuschussnehmerdatei 2006; Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und Sozialausschusses vom 21.03.2006
+- TOP 0.7.: Zuschussnehmerdatei 2006; Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Beschluss des Kinder- u. Jugendhilfeausschusses u. d. Sozialausschusses in der gemeinsamen Sitzung vom 21.03.2006
+- TOP 0.8.: Zuschussnehmerdatei 2006; Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Beschluss des Kinder- u. Jugendhilfeausschusses u. d. Sozialausschusses in der gemeinsamen Sitzung des Kinder- u. Jugendhilfe- u. d. Sozialausschusses vom 21.03.2006 (SB)
+- TOP 8.8.1.3: UA Verkehr
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Neue Endhaltestelle von Bus 145 "Görzer Str." in der Balanstraße - ein Schildbürgerstreich; Bürgerschreiben vom 20.01.2006 (vertagt aus der Sitzung vom 14.02.2006 und 14.03.2006)
+- TOP 0.2.: Haltverbot in der Stadelheimer Str.; Bürgerschreiben vom 14.01.2006 (vertagt aus der Sitzung vom 14.02.2006 und 14.03.2006)
+- TOP 0.1.: Parkraummanagement in München - Festlegung der 1. Priorität; Beschlussentwurf des Referates für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme bis 07.04.2006 (vertagt aus der Sitzung vom 14.03.2006
+- TOP 0.1.: Fahrradgerechter Einbau von Gullydeckeln (Ziffer 7 des Antrags); Beschluss des Bauausschusses vom 28.03.2006 (SB)
+- TOP 0.2.: PERSPEKTIVE MÜNCHEN; Leitprojekt Verkehrsentwicklungsplan 2005; a) Ergebnis der Öffentlichkeitsbeteiligung b) Ergebnisse und Entscheidungsvorschlag c) Anträge Beschluss der Vollversammlung des Stadtrates vom 15.03.2006
+- TOP 0.3.: Granitpoller am Fußgängerüberweg St.-Martin-Straße (Schule); Antrag Nr. 02-08 / B 00864 des BA 17 vom 10.01.2006; Antwortschreiben des Baureferats vom 06.03.2006
+- TOP 8.8.1.4: UA Umwelt
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Installation eines Abfallbehälters an der Bushaltestelle Silberhorn-/Ichostraße der Linie 58 vor Warenhaus Karstadt; BA-Antrag Nr. 02-08 / B 00772 des BA 17 vom 15.11.05; Mitteilung des Baureferates-Tiefbau vom 23.02.2006
+- TOP 0.2.: Mobilfunk; Suchkreismeldung Obergiesing; Mitteilung des Referats für Gesundheit u. Umwelt vom 14.03.2006 (ggf. Behandlung in nichtöffentlicher Sitzung)
+- TOP 0.3.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 5.4.4.3.1 Anwesen in der Obernzeller Str.; Bescheinigung vom 17.03.2006 5.4.4.3.2 Anwesen in der Eslarner Str.; Bescheinigung vom 17.03.2006 5.4.4.3.3 Anwesen in der Waldmüncher Str.; Genehmigung vom 3.03.2006
+- TOP 0.4.: Anliegen der Hauptschule an der Perlacher Straße aus der Sitzung des BA 17 vom 10.01.2006; Artikel in der SZ "Auf Schuldächern geht die Sonne auf" vom 22.09.2006; Antwortschreiben des Schul- u. Kultusreferates vom 22.03.2006
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Veranstaltung am Bergsteig; Pfarrfest am 15.07.2006; Zuleitung des Baureferates vom 03.03.2006 mit der Bitte um Stellungnahme bis 15.04.2006
+- TOP 0.1.: Veranstaltungen / Kooperationen des Kulturreferates im März 2006; Unterrichtung des Kulturreferates vom 06.03.2006
+- TOP 6: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln; Übersicht des Direktoriums über die im Jahr 2006 vorliegenden Anträge; Mitteilung vom 24.02.2006
+- TOP 6.2.: Schneeräumung im Bereich Werinher-, St.-Martin- und Severinstraße; Schreiben des Heimfürsprechers im Münchenstifthaus St.-Martin vom 13.12.2005; BA-Antrag-Nr. 02-08 / B 00846 des BA 17 vom 13.12.2006; Erledigungsmitteilung des Baureferates vom 23.03.2006
+- TOP 7: Berichte der Beauftragten
+- TOP 7.7.1: Ausländer/Innen
+- TOP 7.7.2: Baumschutz
+- TOP 7.7.2.1: Einzelfälle
+- TOP 7.1.: Anwesen in der Obernzeller Str.; Anhörung vom 14.03.2006
+- TOP 7.2.: Anwesen in der Eslarner Str; Anhörung vom 16.03.2006
+- TOP 7.3.: Anwesen in der Fasangartenstr.; Anhörung vom 20.03.06
+- TOP 7.4.: Anwesen in der Arzberger Str.; Anhörung vom 21.03.06
+- TOP 7.5.: Anwesen in der Lincolnstr.; Anhörung vom 22.03.2006
+- TOP 7.6.: Anwesen in der Balanstr. (Nr. I); Anhörung vom 23.03.2006
+- TOP 7.7.: Anwesen in der Balanstraße (Nr. II); Anhörung vom 23.03.2006
+- TOP 7.7.2.2: Baumbestandspläne
+- TOP 7.7.3: Behinderte
+- TOP 7.7.4: Frauen
+- TOP 7.7.5: Kinder
+- TOP 7.7.6: Senioren/Innen
+- TOP 7.7.7: Stadtteilpartnerschaft Colerain Township, Ohio, USA
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
