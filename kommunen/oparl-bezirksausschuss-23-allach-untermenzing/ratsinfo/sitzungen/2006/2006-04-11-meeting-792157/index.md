@@ -1,0 +1,75 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2006-04-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/792157
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/792157
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgeranliegen
+- TOP 0: Künftige Nutzung des Grundstücks der ehem. Firma Zach, Vesaliusstraße / Teilnahme von Vertretern von DITIM
+- TOP 0.1.1: Bürgersprechstunde
+- TOP 0.1.2: Bürgerpost an den BA
+- TOP 0.1.: Spiel-und Bolzplatz Behringstraße (Vertagung aus der Sitzung vom 14.03.06)
+- TOP 0.2.: Anfrage Firma Kölle bzgl. Weihnachtsmarkt (Vertagung aus der Sitzung vom 14.03.06)
+- TOP 0.3.: Werbeanlagen der Firma Bittl
+- TOP 0.4.: Pavillonverpflanzung respektive Neukauf eines Pavillons am Spielplatz Stieglstraße/Franz-Albert-Straße
+- TOP 0.5.: Skinheadszene in Allach
+- TOP 2: Genehmigung der Protokolle der Sitzungen vom 14.03.06 und 22.03.06
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: Antrag auf Zuschuss aus dem Budget in Höhe von 1.000 Euro für den Kauf von GPS-Geräten für die Einsatzfahrzeuge; Antragsteller BRK Wasserwacht, Ortsgruppe München-West (Vertagung aus der Sitzung vom 14.03.06)
+- TOP 4.2.: Anschaffung von Pavillons für die Spielplätze an der Franz-Albert-Straße und Hitlstraße aus Budgetmitteln
+- TOP 5: Anhörungen
+- TOP 5.1.: Bauvorhaben Eversbuschstraße; Vorbescheid bzgl. Neubau von a) 4 Reihenhäusern und 1 Doppelhaus oder b) 3 Einfamilienhäusern und 1 Doppelhaus oder c) 3 Reihen- und 2 Doppelhäusern - jeweils mit Garagen
+- TOP 5.2.: Bauvorhaben Paul-Ehrlich-Weg 130: Neubau eines Verwaltungs- und Laborgebäudes
+- TOP 5.3.: Gemeinde Karlsfeld; Bebauungsplan Nr. 96 südlich Leinorstraße
+- TOP 5.4.: Errichtung eines Haltverbots in der Eversbuschstraße zwischen Kleselstraße und Pasteurstraße bzw. Friedhofsgasse (Vertagung aus der Sitzung vom 14.03.06)
+- TOP 5.5.: Buslinie 162, Neuanordnung von Haltestelle
+- TOP 5.6.: Kinderfest und Entenrennen auf der Würm am 21.05.06 am Parkplatz an der Servetstr. 1
+- TOP 5.7.: Straßenfest in der St.-Johann-Straße am 02.07.06
+- TOP 6: Schreiben des Oberbürgermeisters
+- TOP 6.1.: Alternative zum Transrapid
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8: Schreiben des Direktoriums
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Allacher Unterführung; Anpassung nach Wiederherstellung (ICE-Ausbau)
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Gaststätte "Herrenbräustüberl", Allacher Str. 150; unveränderte Fortführung
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Bauanträge (v. 06.03.-12.03., 13.03.-19.03., 20.03.-26.03.06)
+- TOP 11.2.: Vollzug der BaumschutzVO a) Penzoltstr. 8, 1 Tanne b) Friedrich-Zahn-Str. 15, 1 Birke und 1 Fichte c) Manzostr. 9, 2 Schwarzkiefern d) Pfarrer-Grimm-Str. 1, s. Baumbestandsplan Nr. 2005-8188 e) Zittauer Str. 40/42, 1 Kiefer, 1 Fichte und 1 Blautanne f) Mangstr. 21 b, 1 Kiefer g) Waldhornstr. 17 a, 2 Birken h) Eversbuschstraße, s. Baumbestandsplan Nr. 2006-2370 i) Lewaldstr. 4, 1 Kiefer j) Angerlohstr. 27, 1 Blautanne k) Josef-Führer-Str. 7, Gefahrenbaumbescheinigung l) Langerhansstr. 19, Gefahrenbaumbescheinigung
+- TOP 11.3.: Verlängerung der U 3 von Moosach zum S-Bahnhof Allach oder S-Bahnhaltepunkt Untermenzing
+- TOP 11.4.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/20 Untere Angerlohe
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch, Gleichweg
+- TOP 14.2.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch, Auenbruggerstraße
+- TOP 14.3.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch, Finsterwalderstraße
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 1 Altstadt-Lehel: Erweiterung und Ausbau der BA-Rechte
+- TOP 20.2.: BA 3 Maxvorstadt: Fragebogen zu REGSAM; "Einschätzung der Bezirksausschüsse"
+- TOP 20.3.: BA 3 Maxvorstadt: Offenlegung städtebaulicher Verträge
+- TOP 20.4.: BA 21 Pasing-Obermenzing: Baumaßnahmen der Stadtwerke München GmbH
+- TOP 20.5.: BA 21 Pasing-Obermenzing: Geschwindigkeitsbeschränkung auf Tempo 30km/h für die Menzinger Straße ab Kastellstraße bis zur Karl-von-Roth-Straße einschließlich Megerlestraße
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen der Stadtwerke
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Beschluss der Vollversammlung vom 15.03.06: - Perspektive München, Leitprojekt Verkehrsentwicklungsplan 2005 - Errichtung einer Kindertagesstätte mit 3 Kindergartengruppen am Pasinger Heuweg - Fassadenwettbewerb der LH München, hier: Erweiterung der ehrenamtlichen Gutachterkommission um eine Vertreterin / einen Vertreter der Dachdecker-Innung München-Oberbayern
+- TOP 22.2.: Kinder- und Jungendhilfeausschuss und Sozialausschuss in gemeinsamer Sitzung vom 21.03.06: Haushaltskonsolidierung; Sonderprogramm/Sonderkonsolidierung 2006
+- TOP 22.3.: Ausschuss für Stadtplanung und Bauordnung vom 22.03.06: - Sonder-Werbeanlagen und Gerüst-Werbung im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006 - Bebauungsplan mit Grünordnung Nr. 1919 a, Manzostraße (nördlich), Waldhornstraße (westlich) - Beschluss zur Fortführung des Bebauungsplanverfahrens - Bebauungsplan mit Grünordnung Nr. 1919 a Manzostraße (nördlich), Waldhornstraße (westlich) - Satzungsbeschluss - Bebauungsplan mit Grünordnung Nr. 1904 Georg-Reismüller-Straße (östlich), Ludwigsfelder Straße (südlich), Bahnlinie München-Treuchtlingen (westlich) und östliche Verlängerung der Höcherstraße - Satzungsbeschluss - Kleintierfriedhof in München
+- TOP 22.4.: Bauausschuss vom 28.03.06: - Parkplatzbewirtschaftung und Unterhalt von Erholungsgebieten mit Bademöglichkeiten - Fahrradgerechter Einbau von Gullydeckeln
+- TOP 22.5.: Beschluss des Stadtentwässerungsausschusses vom 28.03.06: - Nymphenburger Kanal, Abwassergebühren
+- TOP 23: Verschiedenes
