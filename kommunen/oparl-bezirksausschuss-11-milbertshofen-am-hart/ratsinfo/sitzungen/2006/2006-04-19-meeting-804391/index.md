@@ -1,0 +1,98 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2006-04-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/804391
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/804391
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Berichte aus dem Stadtrat
+- TOP 3: Berichte der Polizei
+- TOP 4: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Vertreter der BMW-Welt stellt den Kooperationsvertrag mit dem Olympiapark und das geplante Verkehrskonzept vor
+- TOP 9.9.1: Plenum
+- TOP 4.1.: Überprüfung der Ge- und Verbotsschilder für Fußgänger und Radfahrer im Olympiapark (Antrag Nr. 02-08/B00841 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 14.12.2005) Antwortschreiben der Olympiapark München GmbH
+- TOP 4.2.: Miete öffentlicher Gebäude; Schreiben des "Wanderfreunde Edelweiß München e.V."
+- TOP 4.3.: Streitschlichterschulung; Schreiben der "Schule zur Lernförderung"
+- TOP 4.4.: Außerordentliche Bürgerversammlung der Stadtbezirke 2 Ludwigvorstadt - Isarvorstadt, 3 Maxvorstadt, 8 Schwanthalerhöhe, 9 Neuhausen - Nymphenburg, 10 Moosach, 11 Milbertshofen - Am Hart und 24 Feldmoching - Hasenbergl zum Thema "Transrapid"
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Sachberichte Budget
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 4.1.: Sprengeländerung - Runder Tisch; GS Hanselmannstraße, GS Bad-Soden-Straße
+- TOP 9.9.4: Verkehr
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Fraueninitiative Milbertshofen e.V., Internationales Frühlingsfest am 01.04.2006
+- TOP 6.2.: Kultur & Spielraum e.V., Mini-München vom 01.-19.08.2006
+- TOP 6.3.: Trägerverein Kulturhaus Milbertshofen, Kauf eines Beamers
+- TOP 6.4.: Verein Stadtteilarbeit im Auftrag des RAK Milbertshofen, 28. Internationales Stadtteilfest Milbertshofen am 24.06.2006
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.1.: Parkverbot für die Zufahrt zum Hildegard-von-Bingen-Anger, (Empfehlung Nr. 02-08/E00131 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart am 30.06.2005) Parkverbot für Kleintransporter im Hildegard-von-Bingen-Anger (Empfehlung Nr. 02-08/E00144 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart)
+- TOP 6.2.: Maßnahmen zur Erhöhung der Sicherheit für Fußgänger und Radfahrer im Bereich Ingolstädter / Karlstein- /Hufelandstraße sowie im Bereich Weyprecht- /Max-Liebermann-Straße (Empfehlung Nr. 02-08/E00139 der Bürgerversammlung des 11. Stadtbezirks Milbertshofen - Am Hart am 30.06.2005)
+- TOP 7: Anträge
+- TOP 8.8.2: Bau/Umwelt
+- TOP 7.1.: Milbertshofen muß sauber werden (Petra Schauberger)
+- TOP 7.1.: St. Georg-Brunnen am Milbertshofener Platz (Martin Schellerer)
+- TOP 7.1.: Halteverbote im Bereich der Troppauer Straße (Dreistern GmbH)
+- TOP 8: Anhörungen
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a) Silcherstr. 8, 2 Fichten, 1 Scheinzypresse b) Milbertshofener Str. 46, 1 Eberesche c) Mettenleiterplatz 4, 3 Birken d) Feserstr. 14, 1 Kiefer
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Baumaßnahmen: a) Torquato-Tasso-Str. 38, Brandschutzmaßnahmen an einer Grund- und Hauptschule b) Schleißheimer Str. 309, Großmodernisierung einer öffentlich geförderten Wohnanlage mit neuen 2-gruppigem Kindergarten
+- TOP 8.3.: Anhörung im Einzelfall auf Anforderung: a) Graf-Konrad-Str. 17, Neubau einer Wohnanlage mit Tiefgarage
+- TOP 8.4.: Mobilfunk Suchkreismeldungen: a) Suchkreismeldung München 13440, München 13344 b) Suchkreismeldung Milbertshofen Süd-Ost (vertagt vom 15.03.2006)
+- TOP 8.5.: Vollzug von §13 der BA -Satzung Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen), hier: Moosacher Str. 32 c), 1 beleuchtete Plakatanschlagtafel
+- TOP 8.6.: Anhörung gemäß §3 der Satzung für die Bezirksausschüsse; hier: Dachauer Starße, Instandsetzung der Straßenbrücke über den Nymphenburg-Biedersteiner-Kanal und das Willi-Gebhard-Ufer
+- TOP 8.7.: Sondernutzung Grünanlagen; hier: Veranstaltung amm 22.07.2006 auf dem Spengelplatz
+- TOP 8.8.: Wertstoffcontainerstandorte: a) Connollystraße b) Nadistraße c) Strassbergerstraße
+- TOP 8.3.: Planfeststellung nach §18 Abs.1 Allgemeines Eisenbahngesetz (AEG), MSB München - Hauptbahnhof - Flughafen, Planfeststellungsabschnitt 11 Bereich München
+- TOP 8.1.: Spartenanfrage; hier: Schleißheimer Str. 476 - 484
+- TOP 8.2.: Veranstaltung auf öffentlichem Verkehrsgrund: a) Fronleichnamsprozession Fest Christi des kath. Pfarramtes St. Thomas Morus mit anschließendem Fest auf dem Milbertshofener Platz am 25.06.2006 b) Flohmarkt des kath. Pfarramtes St. Georg auf dem Milbertshofener Platz am 13.05.2006 c) Vorstellung Konzept 21. München Marathon der Marathon München GmbH am 08.10.2006
+- TOP 9: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Offenlegung von städtebaulichen Verträgen, Schreiben des BA 3 Maxvorstadt
+- TOP 9.2.: Sicherung der BA -Entscheidungsrechte in der Messestaedt und anderswo, Schreiben des BA 15 Trudering - Riem
+- TOP 9.3.: Änderung im Filialnetz der Deutschen Post, Milbertshofen, Schreiben der Deutschen Post AG
+- TOP 9.4.: Neue Bezirksinspektion Nord, Liste der Ansprechpartner
+- TOP 9.5.: Großveranstaltungen 2006 im Olympiapark, Schreiben des BA 4 Schwabing - West
+- TOP 9.6.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt"-Bürgerbeteiligung in den Stadtvierteln, Projektübersicht 2006
+- TOP 9.7.: Erweiterung und Ausbau der BA-Rechte, Schreiben des BA 1 Altstadt-Lehel
+- TOP 9.8.: Veranstaltungen / Veränderungen im Olympiapark; Beteiligung der benachbarten Bezirksausschüsse, Schreiben des Bezirksausschuss 9 Neuhausen - Nymphenburg
+- TOP 9.9.: Beteiligung im Netz (Beschluss der Vollversammlung des Stadtrates vom 16.02.2006)
+- TOP 9.1.: Schieneninfrastruktur und städtebauliche Entwicklung im Münchener Nordosten (Beschluss der Vollversammlung des Stadtrates vom 05.04.2006)
+- TOP 9.2.: Kleintierfriedhof in München (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2006)
+- TOP 9.3.: Vorhabenbezogener Bebauungsplanung mit Grünordnung Nr. 1981 Toni-Merkens-Weg, Ernst-Curtius-Weg (westlich) und Nymphenburg-Biedersteiner-Kanal (nördlich) (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2006)
+- TOP 9.4.: Baubeginnsanzeige Mobilfunksendeanlagen - nicht öffentlich -
+- TOP 9.5.: Vollzug der Grünanlagensatzung vom 12.08.1991 a) Container am Brundageplatz b) Veranstaltung auf dem Olympiaberg
+- TOP 9.6.: Parkplatzbewirtschaftung und Unterhalt von Erholungsgebieten mit Bademöglichkeiten (Bekanntgabe in der Sitzung des Bauausschusses vom 28.03.2006)
+- TOP 9.7.: Fahrradgerechter Einbau von Gullydeckeln (Beschluss des Bauausschusses vom 28.03.2006)
+- TOP 9.8.: Nymphenburger Kanal, Abwassergebühren (Beschluss des Stadtentwässerungsausschusses vom 28.03.2006)
+- TOP 9.9.: Verkehrslärmschutz am Petuelring zwischen den Kreuzungen Schleißheimer und Lerchenauer Straße (Beschluss des BAuausschusses vom 28.03.2006)
+- TOP 9.10.: Bebauungsplan Nr. 1855 Preussenstraße, Stichstraße an der Preussenstraße (Projektgenehmigung)
+- TOP 9.11.: Sonder-Werbeanlagen und Gerüst-Werbungen im Münchener Stadtgebiet während der Fußballweltmeisterschaft 2006 (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2006)
+- TOP 9.12.: Baumaßnahmen der Stadtwerke München GmbH
+- TOP 9.13.: Meldelisten Bauvorhaben
+- TOP 9.1.: Fragebogen zu REGSAM, Schreiben des BA 3 Maxvorstadt
+- TOP 9.2.: Zuschussnehmerdatei 2006, Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung öffentlicher Träger" des Amtes für Soziale Sicherung (Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und Sozialausschusses vom 21.03.2006)
+- TOP 9.3.: Zuschussnehmerdatei 2006, Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung öffentlicher Träger" des Amtes für Wohnen und Migration (Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und Sozialausschusses vom 21.03.2006)
+- TOP 9.4.: Zuschussnehmerdatei 2006, Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung öffentlicher Träger" des Stadtjugendamtes (Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 21.03.2006)
+- TOP 9.5.: Zuschussnehmerdatei 2006, Vollzug des Haushaltsplanes 2006 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates/Zentrale (Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 21.03.2006)
+- TOP 9.6.: Haushaltskonsolidierung; Sonderprogramm / Sonderkonsolidierung 2006 (Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 21.03.2006)
+- TOP 9.7.: Ausschreibung von Trägerschaften für bezuschusste soziale einrichtungen (Beschluss des Kinder- und Jugendhilfeausschusses vom 21.03.2006)
+- TOP 9.8.: Unveränderte Fortführung von Gaststättenbetrieben: a) SSW "Vereinsheim Harteck", Trenkleweg 5 b) SSW "Paulaner Treff", Kantstr. 23d c) SSW "Scorpio`s", Riesenfeldstr. 72
+- TOP 9.9.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 9.1.: Perspektive München, Leitprojekt Verkehrsentwicklungsplan 2005 (Beschluss der Vollversammlung des Stadtrates vom 15.03.2006)
+- TOP 9.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3.: Veranstaltung auf öffentlichem Verkehrsgrund; hier: Info-Veranstaltungen der Verkehrspolizeiinspektion München im Satdtgebiet München
+- TOP 9.4.: Vollzug der Straßenverkehrsordnung, Filmaufnahmen
+- TOP 9.5.: Anmeldung eines Aufzuges mit Auftakt-, Zwischen- und/oder Schlusskundgebung; hier: Radl-Sternfahrt gegen den Transrapid
+- TOP 10: Sonstiges
