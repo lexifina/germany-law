@@ -1,0 +1,68 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2006-04-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/819272
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/819272
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Aufstellung eines Bebauungsplanes im Bereich von Flur Nr. 93/5 und Flur Nr. 129/1
+- TOP 3: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4: Anträge
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Anbringen der eindeutigeren Hinweisschilder zur Bodenseestr. am Westkreuz (Ziffer 3 des Antrages); Entfernung der Umleitungsschilder für Hellensteinstr. und Germeringer Weg nach Inbetriebnahme der A 99 und rechtzeitige Hinweisschilder auf die A 99 (ZIffer 2 des Antrages); Empfehlung Nr. 129 und 119 der Bürgerversammlung vom 23.06.05
+- TOP 5.2.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Gemeinsam in Obermenzing und Aubing (GOA)
+- TOP 6: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz, Anhörungen zu Baumfällungen
+- TOP 6.2.: Gemeinde Germering, Flächennutzungsplan Neuaufstellung
+- TOP 6.3.: Bebauungsplan Nr. 95 südlich Leinorstraße, Gemeinde Karlsfeld
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Standkonzert und Festzug anlässlich des Aubinger Herbstfestes am 31.08.2006
+- TOP 6.5.: "Labyrinth in Maisfeld mit Beerencafe" vom 01.07.-30.09.2006 in einem Maisfeld in der Lochhausener Straße
+- TOP 6.6.: Antrag auf Genehmigung einer Veranstaltung am Freihamer Weg (Bolzplatz), Fußballturnier am 01.05.06
+- TOP 7: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Frageborgen zu REGSAM " Einschätzung der Bezirksausschüsse", Schr. BA 3 vom 23.03.06
+- TOP 7.2.: Erweiterung und Ausbau der BA-Rechte, Schr. BA 1 vom 16.03.06
+- TOP 7.3.: Zweckentfremdung von Wohnraum, Sumpfmeisenweg 1, Schr. Sozialreferat vom 14.03.06
+- TOP 7.4.: Zweckentfremdung von Wohnraum, Kravogelstr. 17, Schr. Sozialreferat vom 15.03.06
+- TOP 7.5.: Baumaßnahmen der Stadtwerke München GmbH, Schr. BA 21 vom 16.03.06
+- TOP 7.6.: Baufälle im 22. Stadtbezirk (v. 13.-19.03.06, v. 20.-26.03.06, v. 27.03.-02.04.06), Schr. Planungsreferat vom 21.03.06, vom 27.03.06, vom 03.04.06
+- TOP 7.7.: Unveränderte Fortführung "Die Lüfte", Pretzfelder Str. 22, Schr. KVR vom 14.03.06
+- TOP 7.8.: Baumaßnahmen der Stadtwerke München GmbH, Stichtag 20.03.06, Stichtag 27.03.06, Stichtag 03.04.06, Schr. SWM vom 20.03.06, vom 27.03.06, vom 03.04.06
+- TOP 7.9.: Alternative zum Transrapid, Schr. OB vom 21.03.06
+- TOP 7.10.: Ausnahmebewilligung für Veranstaltung in der Grünanlage an der Friedrichshafener Str. vom 26.08.-03.09.06 für Zeltevangelisation mit musikalischen Beiträgen, Schr. Baureferat vom 22.03.06
+- TOP 7.11.: Verkehrsrechtliche Anordnung, Bergsonstraße, 30 km/h-Geschwindigkeitsbeschränkung, Schr. KVR vom 16.03.06
+- TOP 7.12.: Offenlegung eines städtebaulichen Vertrages, Schr. BA 3 vom 30.03.06
+- TOP 7.13.: Zweckentfremdung von Wohnraum Altostr. 110/ Grabenfleckstr. 11, Schr. Sozialreferat vom 23.03.06
+- TOP 7.14.: Erweiterung des überdachten Fahrradabstellplatzes am S-Bahnhof Westkreuz, südlicher Ausgang (Friedrichshafener Straße) und Beseitigung eines "Fahrradschrotthaufens" im nicht überdachten Bereich des Fahrradabstellplatzes, Schr. Baureferat vom 30.03.06 zum BA-Antrag Nr. 881 vom 18.01.06
+- TOP 7.15.: Ausnahmebewilligung für Dorffest am Waidachanger am 28.05.06, Schr. Baureferat vom 30.03.06
+- TOP 7.16.: Ausnahmebewilligung für Schluckbrunnen in der Altostraße vom 10.04.-07.07.06, Schr. Baureferat vom 31.03.06
+- TOP 7.17.: Wirtschafts-Info 3/06, Schr. Referat für Arbeit und Wirtschaft vom 31.03.06
+- TOP 8: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Ausbau der Rothenfelser Straße, Schr. des Baureferates vom 20.03.06 zum BA-Antrag Nr. 953 vom 27.02.06
+- TOP 8.2.: Grünanlage an der Wiesentfelser Straße, Schr. Baureferat vom 16.03.06
+- TOP 8.3.: Lichtzeichenanlage Bergson- (alt)/ Bergsonstr. (neu), Grüner Pfeil für Rechtsabbieger in Richtung Obermenzing, Schr. KVR vom 14.03.06
+- TOP 8.4.: Verwilderte Wiese neben dem S-Bahnhof Westkreuz, Schr. Baureferat vom 14.03.06 zu BV-Anfrage vom 12.07.01
+- TOP 8.5.: Limesstraße in Höhe der Aubinger Straße; Markierung für den linksabbiegenden Verkehr, Schr. KVR vom 24.03.06
+- TOP 8.6.: Landesentwicklungsprogramm Bayern/ Beschluss des Münchner Stadtrates vom 26.10.05; Schr. Planungsreferat vom 31.03.06
+- TOP 9: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Ausschuss für Stadtplanung und Bauordnung vom 22.03.06 - Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006
+- TOP 10: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 17.05.2006, Gaststätte "Wienerwald", Limesstr. 63
