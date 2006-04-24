@@ -1,0 +1,16 @@
+# UA 16 - Schule, Jugend, Soziales und Sport
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2006-04-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/328
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/781398
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/781398
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: aus der letzten BA-Sitzung verwiesene Tagesordnungspunkte
+- TOP 2: vorab behandelte Tagesordnungspunkte der aktuellen BA-Sitzung
