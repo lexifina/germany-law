@@ -1,0 +1,92 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2006-04-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/769177
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/769177
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Elternbeirat der Grundschule Fromundstraße; für die Maßnahme: Zwei Selbstbehauptungskurse für Mädchen und Jungen im März 2006, Antragssumme 1.701.- ?; Beschlussvorlage des Direktoriums vom 08.02.06 (vertagt aus der Sitzung vom 21.03.06)
+- TOP 3.2.: AntragstellerIn: ASZ Untergiesing; für die Maßnahme: Besuchs- und Begleitdienst; Antragssumme: 5.914.- ?; Beschlussvorlage des Direktoriums vom 14.03.2006
+- TOP 3.3.: AntragstellerIn: Jugendtreff AKKU; für die Maßnahme: Graffitiprojekt Lohstraße; Antragssumme: 950.- ?; Beschlussvorlage des Direktoriums vom 14.03.2006
+- TOP 3.4.: AntragstellerIn: Bürgervereinigung Untergiesing e. V.; für die Maßnahme: Maibaumfest am 01.05.2006; Antragssumme: 1.900.- ?; Beschlussvorlage des Direktoriums vom 23.03.2006
+- TOP 3.5.: Beschlussfassung über die Finanzierung des BA-Kinderfests aus dem Budget-Anteil für BA-eigene Veranstaltungen mit einem Betrag in Höhe von 1.770,- ?
+- TOP 3.1.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Mehr Sicherheit durch Errichtung einer Verkehrsinsel am Ende der Säbener Straße / Einfahrt Oberbiberger Straße; Mehr Sicherheit für Fußgänger/innen durch Errichtung von je einem Zebrastreifen an der Säbener Straße und der Oberbiberger Straße; Antrag der SPD-Fraktion vom 08.03.06 (vertagt aus der Sitzung vom 21.03.06)
+- TOP 3.1.: Anhörungen gem. § 13 der Satzung für die Bezirksausschüsse zu verkehrsrechtlichen Anordnungen nach § 45 StVO; Zuleitungen des Kreisverwaltungsreferats 3.2.4.1.1 Errichtung einer Haltestelle in der Candidstraße; Zuleitung vom 16.03.2006 3.2.4.1.2 Errichtung eines absoluten Haltverbots in der Parkbucht der Harlachinger Straße ggü. Anwesen Nr. 3-5; Zuleitung vom 03.03.2006
+- TOP 3.1.: Anwohnergaragen in München, Änderung der Prioritätenliste; Beschluss der Vollversammlung des Stadtrats vom 15.03.2006
+- TOP 3.2.: Fahrradgerechter Einbau von Gullydeckeln; Empfehlung Nr. 02-08 / E 00247 der Bürgerversammlung des 2. Stadtbezirks Ludwigsvorstadt-Isarvorstadt am 10.11.2005; Sitzungsvorlage Nr. 02-08 / V 07610; Beschluss des Bauausschusses vom 28.03.2006
+- TOP 3.3.: Perspektive München; Leitprojekt Verkehrsentwicklungsplan 2005; a) Ergebnis der Öffentlichkeitsbeteiligung, b) Ergebnisse und Entscheidungsvorschlag, c) Anträge; Beschluss der Vollversammlung des Stadtrats vom 15.03.2006
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Sauberkeit des Parkplatzes an der Klausener Straße zwischen Hallenbad und Sporthalle; Empfehlung Nr. 02-08 / E 00313 der Bürgerversammlung des Stadtbezirks 18 vom 08.12.2005; Beschluss des Bezirksausschusses vom 25.04.2006; Beschlussvorlage des Schul- und Kultusreferats
+- TOP 3.1.: Verbesserung des Hochwasserschutzes und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung zwischen südlicher Stadtgrenze und Corneliusbrücke in München; Planungsabschnitt III, Teilabschnitt Süd zwischen südl. Braunauer Eisenbahnbrücke bis nördl. Wittelsbacher Brücke; Zuleitung des Wasserwirtschaftsamtes München mit der Bitte um Stellungnahme bis zum 08.05.2006
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung und der Landschaftsschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats vom 27.03. und 31.03.2006
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Fragebogen zu Regsam, "Einschätzung der Bezirksausschüsse"; Zuleitung des Bezirksausschuss 3 Maxvorstadt vom 23.03.2006
+- TOP 3.2.: Kindertageseinrichtung Birkenleiten 4 umbenannt in Schönstraße 9; Zuleitung des Schul- und Kultusreferats vom 09.03.2006
+- TOP 3.3.: Haushaltskonsolidierung; Sonderprogramm/Sonderkonsolidierung 2006; Sitzungsvorlage Nr. 02-08 / V 07662; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 21.03.2006
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Antrag auf Freischankfläche, SSW "Lucullus", Birkenau 31; Anhörung durch das Kreisverwaltungsreferat vom 08.02.06 (vertagt aus der Sitzung vom 21.03.06)
+- TOP 3.1.1: Erhalt des Künstlergeländes an den Isarauen (Hellabrunner Straße); Empfehlung Nr. 02-08 / E 00312 der Bürgerversammlung des 18. Stadtbezirks am 08.12.2005; Beschluss des Bezirksausschuss 18; Beschlussvorlage des Referats für Stadtplanung und Bauordnung
+- TOP 3.1.: Bebauungsplan mit Grünordnung Nr. 1798, Säbener Straße, Klausener Straße, Am Hohen Weg ? Gelände des FC Bayern München - ; Anhörung durch das Referat für Stadtplanung und Bauordnung vom 14.03.06 zur Behandlung der Empfehlungen der Bürgerversammlung vom 08.12.05 im Rahmen des Satzungsbeschlusses (vertagt aus der Sitzung vom 21.03.06) hierzu: Schreiben des Referat für Stadtplanung und Bauordnung vom 04.04.2006 und Beschlussvorlage für die Sitzung des Ausschusses für Stadtplanung und Bauordnung am 26.04.2006
+- TOP 3.2.: 3.5.4.2 Anhörungen zu Bauvorhaben 3.5.4.2.1 Anwesen in der Grünwalder Straße; Zuleitung vom 27.03.2006 3.5.4.2.2 Anwesen in der Methfesselstraße; Zuleitung vom 31.03.2006 3.5.4.2.3 Anwesen in der Naupliastraße; Zuleitung vom 31.03.2006
+- TOP 3.3.: 3.5.4.3 Baumbestandspläne 3.5.4.3.1 Anwesen in der Benediktenwandstr.; Zuleitung vom 29.03.2006 3.5.4.3.2 Anwesen im Fliederweg; Zuleitung vom 05.04.2006 3.5.4.3.3 Anwesen in der Klobensteiner Straße; Zuleitung vom 05.04.2006
+- TOP 3.4.: Antrag auf Erteilung einer Ausnahmegenehmigung zum Aufstellen von Tischen und Stühlen auf öffentlichem Verkehrsgrund gem. Art. 18 BayStrWG; Zuleitungen des Kreisverwaltungsreferats/Bezirksinspektion Ost mit der Bitte um Stellungnahme 3.5.4.4.1 Bäckerei Höflinger, Grünwalder Straße 3.5.4.4.2 SSW "Bräuwastl", Hans-Mielich-Straße
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen), Mitteilungen durch das Kreisverwaltungsreferat 3.5.6.2.1 Kleingartenwirtschaft "Zum Gartl", Nithartstraße; Mitteilung vom 16.03.2006 3.5.6.2.2 Abgabe von Speisen und Getränken in einer Sauna; "Sauna Relax", Athener Straße; Mitteilung vom 07.04.2006
+- TOP 3.3.: Aktualisierung des Flächennutzungsplans und Aufstellung des Landschaftsplans Teilbereich VI - Südost; Zuleitung des Referats für Stadtplanung und Bauordnung vom 06.03.2006
+- TOP 3.4.: Sonderwerbeanlagen und Gerüstwerbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft; Sitzungsvorlage Nr. 02-08 / V 07855; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2006
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung an der Oberbiberger Straße, Sommerfest; Zuleitung des Baureferats mit der Bitte um Stellungnahme
+- TOP 3.2.: 36. Wandertag des Vereins "German-American-Wander-Club e.V." am 01./02.07.06 (von der Grundschule an der Rotbuchenstraße in den Perlacher Forst); Anhörung durch das Kreisverwaltungsreferat vom 11.04.06
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Offenlegung städtebaulicher Verträge; Zuleitung des Bezirksausschuss 3 Maxvorstadt vom 29.03.2006
+- TOP 4.2.: Parkplatzbewirtschaftung und Unterhalt von Erholungsgebieten mit Bademöglichkeiten; Sitzungsvorlage Nr. 02-08 / V 07689; Bekanntgabe in der Sitzung des Bauausschusses vom 28.03.2006
+- TOP 4.3.: Nymphenburger Kanal, Abwassergebühren; Empfehlung Nr. 02-08 / E 00271 der Bürgerversammlung des 9. Stadtbezirks Neuhausen-Nymphenburg vom 17.11.2005; Sitzungsvorlage Nr. 02-08 / V 07441; Beschluss des Stadtentwässerungsausschusses vom 28.03.2006
+- TOP 4.4.: Kleintierfriedhof in München; Antrag Nr. 02-08 / A 02251 der FDP im Münchner Stadtrat; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2006
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
