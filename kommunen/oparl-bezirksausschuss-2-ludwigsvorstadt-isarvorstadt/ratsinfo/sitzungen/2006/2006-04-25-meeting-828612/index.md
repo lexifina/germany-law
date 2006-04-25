@@ -1,0 +1,80 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2006-04-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/828612
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/828612
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1.: BA-Budget
+- TOP .1.1: Zuschuss aus dem BA-Budget an die Akademie der NAtionen für Deutschkurse
+- TOP .1.2: Zuschuss BA-Budget: Integrationszentrum Osteuropa
+- TOP .2.2.: Kultur
+- TOP .1.1: Erhaltungssatzung Gärtnerplatzviertel - zusätzliche Anregungen
+- TOP .5.1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .1.1: Magnetschwebebahn Hauptbahnhof - Flughafen, Planfeststellung
+- TOP .1.2: Hauptbahnhof - Beschlussentwurf zum Ergebnis des Workshop-Verfahrens
+- TOP .3.1.: Bauvorhaben
+- TOP .1.: Bayerstr. 9, Bauliche Änderungen u. Nutzungsänderung v. KG bis 1.OG
+- TOP .2.: Hans-Sachs-Str. 12, Umbau einer GAststätte mit Änderung der EG-Fassade
+- TOP .3.: Maistr. 41, Neubau von 2 Wohngebäuden mit TG (Vorbescheidsantrag)
+- TOP .3.1: Müllerstr. 7, Aufstellung von 2 Plakattafeln
+- TOP .3.2: Rothmundstr. 6, Wiederaufbeu des Dachgeschosses mit 2 WE
+- TOP .3.3: Adlzreiterstr. 29, Umbau und Aufstockung des Vordergebäudes, Neubau einer Tiefgarage, Abbruch und Neubau des Rückgebäudes
+- TOP .3.4: Bayerstr. 89, Nutzungsänderung mit Umbau, Büroräume zu Wohnungen sowie Errichtung eines Rückgebäudes
+- TOP .3.5: Thalkirchner Str. 54, Nutzungsänderung: Ehemaliges Arbeitsamt zu Wohngebäude (Vorbescheid)
+- TOP .3.6: Auenstr. 72, Nutzungsänderung: Einzelhandelsgeschäft zu Cafe
+- TOP .3.7: Schwanthalerstr. 64, Umbau, Anbau und Sanierung des Gewerkschaftshauses
+- TOP .3.8: Westermühlstr. 23, Neubau einer Wohnanlage (8 WE) mit Tiefgarage
+- TOP .5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP .1.1: Verkehrsberuhigung Ehrengutstraße im Bereich Roecklplatz; Beschlussvorlage zur Behandlung der BV-Empfehlung Nr. 253 v. 10.11.2005
+- TOP .3.1.: Sperrzeit-Angelegenheiten
+- TOP .1.1: Cafe Saray, Schwanthalerstr. 24; Verkürzung der Sprerrzeit für die Freischankfläche auf 1.00 Uhr
+- TOP .1.2: Gaststätte "Zappeforster", Corneliusstr. 16, Betriebszeitverlängerung für die Freischankfläche von 23.00 auf 24.00 Uhr
+- TOP .3.2.: Freischankflächen
+- TOP .1.1: Cafe "Creme", Reichenbachstr. 24 (Neuantrag)
+- TOP .1.2: Gaststätte "Baader's" (Neuantrag)
+- TOP .1.3: SSW "Oasis", Dreimühlenstr. 11 (Neuantrag)
+- TOP .1.4: Gaststätte "Pasta e Basta", Fraunhoferstr. 19 (Neuantrag)
+- TOP .1.5: Cafe "Götterspeise", Jahnstr. 30
+- TOP .1.6: "Aktas" Döner Kebap, Waltherstr. 34 (Neuantrag)
+- TOP .1.7: Kleingaststätte "Fischteich", Thalkirchner Str. 27 (Neuantrag)
+- TOP .1.8: Gaststätte "La Tierra", Klenzestr. 5 (Neuantrag)
+- TOP .1.9: "Backspielhaus", Klenzestr. 36 (Neuantrag)
+- TOP .3.3.: Warenstellagen
+- TOP .1.: Bayerstr. 27 (Sonnenbrillen)
+- TOP .1.1: Landwehrstr. 46 (Obst und Gemüse)
+- TOP .3.4.: Verkehr
+- TOP .1.: Wittelsbacherstr. 12, Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP .1.1: Hotelanfahrtszone Schwanthaler str. 45
+- TOP .1.1: Live-Übertrtagung der WM-Spiele auf 6 Großleinwänden mit anschl. WM-Party im Schlachthof vom 09.06. - 09.07.2006
+- TOP .1.2: Kirschblütenfest am Forum des Deutschen Museumsw am 03.06.2006
+- TOP .1.3: Gärtnerplatzfest am 02.07.2006
+- TOP .3.6.: Bäume
+- TOP .1.1: Ickstattstr. 18, Fällung einer Birke (Gefahrenbaum)
+- TOP .1.2: Frauenlobstr. 26, Fällung einer Birke
+- TOP .1.3: Fraunhoferstr. 11, Fällung eines Bergahorn (beschädigt Mauerwerk)
+- TOP .5.1: Berichte der Beauftragten ( AK Theresienwiese)
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .1.1: Außerordentliche Bürgerversammlung am 05.05.2006 zum Thema Transrapid
+- TOP .1.2: Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo (Anhörung)
+- TOP .3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP .3.2.: Berichte aus den anderen BA
+- TOP .3.3.: Bericht des Internetbeauftragten
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Infos)
+- TOP .2.: Veranstaltungen
