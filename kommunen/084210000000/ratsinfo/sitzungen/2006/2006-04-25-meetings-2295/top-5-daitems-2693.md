@@ -1,0 +1,6 @@
+# TOP 5: Sanierung von Bauwerken im Zuge der Ortsdurchfahrt der B 10, zweiter Bauabschnitt
+
+- Sitzung: Sitzung des Fachbereichsausschusses Stadtentwicklung, Bau und Umwelt (2006-04-25)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/2693
