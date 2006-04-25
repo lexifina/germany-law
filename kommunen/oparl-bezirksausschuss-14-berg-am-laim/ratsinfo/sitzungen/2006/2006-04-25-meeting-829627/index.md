@@ -1,0 +1,94 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2006-04-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/829627
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/829627
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1: a) Schieneninfrastruktur und städtebauliche Entwicklung im Münchner Nordosten ? MünchenAirportExpress (MAEX); Beschluss der Vollversammlung des Stadtrates vom 05.04.2006 ? siehe TOP 4.1.1.1. b) Planfeststellung für die Magnetschwebebahn München Hauptbahnhof ? Flughafen, Planfeststellungabschnitt 11 ? Landeshauptstadt München; Anhörungsverfahren
+- TOP 3.1.2: Pilotprojekt Jugendbeteiligung an der Stadtplanung
+- TOP 3.1.3: Friedenstraße 10 ? Optimolgelände ? Aufstellung eines mobilen Verkaufscontainers mit Zusatzraum (befristet bis 31.12.2007)
+- TOP 3.1.4: Neumarkter Straße 64 ? Errichtung eines Einzelhandelsbetriebes ? Antr. auf Vorbescheid
+- TOP 3.1.5: Bildung eines Beratungsgremiums für einen Planungsworkshop
+- TOP 3.1.6: Ortstermin Gewerbegebiet Thomas-Hauser-Straße
+- TOP 3.1.7: Erstellung von 85 Pkw-Parkplätzen in der Friedenstraße 10
+- TOP 3.1.1: Lärmsanierung an der Bahnlinie München ? Rosenheim im Stadtbereich München
+- TOP 3.1.2: Rufampel an der Kreillerstraße zur Sonnwendjochstraße / Permoserplatz
+- TOP 3.1.3: Halteverbot an der Dingolfinger Straße
+- TOP 3.1.4: Bayern-Rundfahrt am 25.05.2006
+- TOP 3.1.5: Baumkirchner Straße ? Antrag der SPD-Fraktion
+- TOP 3.1.6: Linie 187 ? Wendung Berg am Laim
+- TOP 3.1.1: Mobilfunk-Suchkreismeldung Josephsburg
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.1: FreiRÄUME - Antrag auf Zuschussgewährung aus dem BA-Budget (vertagt v. Märzsitzung)
+- TOP 3.1.2: WhiteBOX - Antrag auf Zuschussgewährung aus dem BA-Budget
+- TOP 3.1.3: Kulti-Kids e.V. - Antrag auf Zuschussgewährung aus dem BA-Budget
+- TOP 3.1.4: MAG´S Stadtteiltreff - Antrag auf Zuschussgewährung a.d. BA-Budget, neues Formular
+- TOP 3.1.5: Ludwig-Thoma-Realschule - Antrag auf Zuschussgewährung aus dem BA-Budget
+- TOP 3.1.6: Maibaumverein - Antrag auf Zuschussgewährung aus dem BA-Budget
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.1: Blombergstraße 67 ? Antrag auf Baumfällung
+- TOP 3.1.2: Weißpfennigweg 11 - Antrag auf Baumfällung
+- TOP 3.1.3: Hochgernstraße 8 - Antrag auf Baumfällung
+- TOP 3.1.4: Hohenbrunner Straße 18 - Antrag auf Baumfällung
+- TOP 3.1.5: Gustav-Schwab-Str. 15 - Antrag auf Baumfällung
+- TOP 3.1.6: Ursberger Str. 13 ? 23 - Antrag auf Baumfällung
+- TOP 3.1.7: Plankensteinstraße 5 - Antrag auf Baumfällung
+- TOP 3.1.8: Kreillerstr. 40 - Antrag auf Baumfällung
+- TOP 3.1.9: St.-Veit-Str. 62 ? Antrag auf Baumfällung
+- TOP 3.1.10: Hohenbrunner Str. 4 a ? Antrag auf Baumfällung
+- TOP 3.1.11: Josef-Ritz-Weg ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1: Alternative zum Transrapid ? siehe TOP 3.1.1.1.
+- TOP 4.1.2: Rückbau von Gleis- und Oberleitungsanlagen am ehem. Bahnbetriebswerk 4 der Strecke München-Rosenheim ? Gemarkung Berg am Laim
+- TOP 4.1.3: Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006
+- TOP 4.1.4: Offenlegung städtebaulicher Verträge ? Schreiben des Bezirksausschuss Maxvorstadt
+- TOP 4.1.5: Meldeliste der Bauvorhaben zwischen 13.03.06 und 09.04.06
+- TOP 4.1.1: Ausbau bzw. Schaffung einer kombinierten Fußweg- und Radverkehrsachse Ost/Nordost ?Ostbahnhof ? Altes Ortszentrum Berg am Laim ? Riemer Park ? Messe? Zwischennachricht des Referates für Stadtplanung und Bauordnung
+- TOP 4.1.2: Echardinger Straße, Krumbadstraße, Bad-Kreuther-Straße Vollzug des Bebauungsplanes mit Grünordnung Nr. 1889 a Bad-Schachener-Straße (nördlich), Echardinger Straße (östlich), Gögginger Straße und Vinzenz-von-Paul-Straße (südlich) - Maikäfersiedlung (Randbereiche) - im 14. Stadtbezirk Berg am Laim Projektkosten (Kostenobergrenze): 1.700.000,- ? (Anteil Baureferat: 1.560.000,- ?; Anteil SWM (40 %): 140.000,- ?) Bedarfs- und Konzeptgenehmigung
+- TOP 4.1.3: Parkplatzbewirtschaftung und Unterhalt von Erholungsgebieten mit Bademöglichkeit
+- TOP 4.1.4: Fahrradgerechter Einbau von Gullydeckeln
+- TOP 4.1.1: Mitarbeit am Berg-am-Laim-Buch
+- TOP 4.1.2: Kultur im Stadtquartier ? Einladung zum Workshop Berg am Laim
+- TOP 4.1.3: Maifeier des Vereins ?Maibaumfreunde Berg am Laim e.V.? am 01.05.2006
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.1: Haager Straße ? Unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.2: Rosenheimer Straße - Unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.3: Aschheimer Straße - Unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.1: Hohenbrunner Str. 15 b ? Bescheid über Baumfällung
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
