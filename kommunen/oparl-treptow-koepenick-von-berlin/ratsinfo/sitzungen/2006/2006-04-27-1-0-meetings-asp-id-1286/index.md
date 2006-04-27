@@ -1,0 +1,73 @@
+# 49. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2006-04-27T16:30:00+02:00
+- Ende: 2006-04-27T20:40:00+02:00
+- Ort: Alt-Köpenick 21, 12555 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1286
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1286
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=44779
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. V_51 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - erledigt
+- TOP 8.1: Wahl einer/eines stellvertretenden Bürgerdeputierten für den Jugendhilfeausschuss - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - gegenstandslos
+- TOP 10: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 11: Vorlagen zur Beschlussfassung - gegenstandslos
+- TOP 11.1: Sondermittel für KSV Johannisthal 1980 e.V. (SM 608) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Förderverein der UNESCO-Gesamtschule "Salvador Allende" e.V. (SM 618) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.4: Sondermittel für Diakoniekreis Kietzer Feld (SM 620) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für UBI KLIZ e.V. (SM 622) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Köpenicker Kanusport Club e.V. (SM 624) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für Bürgerverein Wilhelmshagen-Rahnsdorf e.V. (SM 626) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 12.1: Festwiese - in der BVV abgelehnt
+- TOP 12.2: Fahrradverkehr Treptow-Köpenick - Radwegenetz knüpfen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Vervollständigung der Radwegeführung - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Umbau Wendenschloßstraße I - Information der betroffenen Anwohner und Eigentümer - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Umbau Wendenschloßstraße II - Finanzielle Auswirkungen für die Eigentümer und Mieter - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Umbau Wendenschloßstraße IV - Sicherstellung einer guten Erreichbarkeit mit dem ÖPNV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Umbau Wendenschloßstraße V - Sicherstellung einer guten Erreichbarkeit mit dem ÖPNV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Ehemalige Tagesbar im Treptower Park - überwiesen
+- TOP 12.9: Hundekotbeseitigung in Baumschulenweg unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Sichere Straßenüberquerung für den Adlershofer Campus - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Radverkehr Straße am Treptower Park - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Einschulungsbereiche der Grundschulen - mit Änderungen in der BVV beschlossen
+- TOP 12.13: Sicherheit für Fußgänger an der Bushaltestelle Biesdorf-Süd/Köpenicker Str. - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Zweisprachige Literatur in Bezirksbibliotheken - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Änderung der Geschäftsordnung der BVV Treptow-Köpenick - überwiesen
+- TOP 13: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 13.1: Bebauungsplanentwurf XVI-58, Ortsteil Rahnsdorf hier: Planänderungen/Ergänzungen im Ergebnis der Rechtsprüfung und Auswertung der erneuten öffentlichen Auslegung - überwiesen
+- TOP 13.2: Bebauungsplanentwurf XV-25 /"Normannenstraße", Ortsteil Altglienicke hier: Planänderungen/Ergänzungen im Ergebnis der Rechtsprüfung und Auswertung der erneuten öffentlichen Auslegung - überwiesen
+- TOP 14: Anträge - erledigt
+- TOP 14.1: Kürzungen im Jobcenter - überwiesen
+- TOP 14.2: Rundfunkstandort Nalepastraße - überwiesen
+- TOP 14.3: Regional zuständig – regional arbeiten - überwiesen
+- TOP 14.4: Informationen zu Straßenreinigung und Winterdienst im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Informationsveranstaltung zur Süd-Ost-Verbindung - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Handyverbot an Schulen im Bezirk Treptow-Köpenick - in der BVV abgelehnt
+- TOP 14.7: Bürgerinformation zur neuen Verordnung zur Entsorgung von Elektroaltgeräten - in der BVV abgelehnt
+- TOP 14.8: Flächenanalyse für Flughafenumfeldgewerbe - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Ehrengrabstätte für Clara Bohm-Schuch - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Anwohnerinformation zu "popkick 06" - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Verkehr vor Kita Landjägerstraße - überwiesen
+- TOP 14.12: Straßenbenennung nach Siegfried Berger - überwiesen
+- TOP 14.13: Bürgersteig für Bürger sichern - überwiesen
+- TOP 14.14: Fußball-WM - in der BVV zurückgezogen
+- TOP 14.15: Leitlinien Kinderschutz - überwiesen
+- TOP 14.16: Suchtbeauftragte/r - überwiesen
+- TOP 14.17: Entschließung der BVV Treptow-Köpenick zur popKick.06 - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - gegenstandslos
+- TOP 15.1: Bezirkliche Feste - vertagt
