@@ -1,0 +1,26 @@
+# Genehmigung der im Haushaltsjahr 2005 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Drucksache/Vorlage: 2258/II
+- Art: Beschluss
+- Datum: 2006-04-27
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=2258
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/papers.asp?id=2258
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=130&id=97106
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1195 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1225 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=20
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1265 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=20
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1227 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1344 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1229 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=19
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1224 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=17
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1235 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1243 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1236 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=14
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1220 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=15
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1244 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=16
+- Beratung: Entscheidung  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=9
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1392 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=8
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1398 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=at&id=23
