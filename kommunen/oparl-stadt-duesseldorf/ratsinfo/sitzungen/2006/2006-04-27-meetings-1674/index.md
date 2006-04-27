@@ -1,0 +1,56 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-04-27T16:00:00+02:00
+- Ende: 2006-04-27T18:03:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1674
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1674
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111832.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111832.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111832.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 03.03.2006 - einstimmig beschlossen
+- TOP 3: Änd.BPl. 5974/30-Ellerkirchstr-Anre.Änd.Satzung - einstimmig beschlossen
+- TOP 4: Plan Nr. 6075/36 - In den Kötten - Veränderungsspe - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Erweiterungsbau GGS Richardstraße 14 - einstimmig beschlossen
+- TOP 9: Offene Ganztagsschule - Maßnahmen 2006 / 2007 - einstimmig beschlossen
+- TOP 10: Projekt - Zuschuss der Bezirksvertretung 8 - mehrheitlich beschlossen
+- TOP 11: Trödelmärkte - einstimmig beschlossen
+- TOP 12: Containerstation Kamper Weg / Lassallestraße - einstimmig beschlossen
+- TOP 13: Schulungsangebote für Erzieher undLehrer - zur Kenntnis genommen
+- TOP 14: Schulabgänger ohne Abschluss - zur Kenntnis genommen
+- TOP 15: Elektroschrottsammlung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 16: Grundstücke entlang der L 404n - zur Kenntnis genommen
+- TOP 17: Verkehrserziehung für künftige Grundschulkinder - zur Kenntnis genommen
+- TOP 18: Jahr der Kunst im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 19: Lernstandserhebungen in den Grundschulen - zur Kenntnis genommen
+- TOP 20: Papierkosten in Grundschulen - zur Kenntnis genommen
+- TOP 21: Projekt Jugend, Kultur und Schule - zur Kenntnis genommen
+- TOP 22: Grundschultest "Cito" - mehrheitlich beschlossen
+- TOP 23: Am Langenfeldsbusch - Markierung Parkplätze - mehrheitlich beschlossen
+- TOP 24: Verkehrssituation Vennhauser Allee - einstimmig beschlossen
+- TOP 25: Begrünung Gleiskörper Kuthsweg - mehrheitlich beschlossen
+- TOP 26: Straßenbeleuchtung Ludwigstraße - einstimmig beschlossen
+- TOP 27: Zuschüsse für Schulen - Projekt - einstimmig beschlossen
+- TOP 28: Zuschüsse für Schulen - Projekt "Lesen" - einstimmig beschlossen
+- TOP 29: Änderung der Parksituation in Höhe Leuthenstr. 48 - einstimmig beschlossen
+- TOP 30: Posener Straße - Errichtung von Parkmöglichkeiten - einstimmig beschlossen
+- TOP 31: Proberaum für Schülerbands im Stadtezirk 8 - einstimmig beschlossen
+- TOP 32: Wasserspielplatz Schloss Eller - einstimmig beschlossen
+- TOP 33: Resolution Grundschulen - einstimmig beschlossen
+- TOP 34: Parkplätze Kuthsweg - zur Kenntnis genommen
+- TOP 35: Sauberkeit Freizeitgelände, Parks und Plätze - zur Kenntnis genommen
+- TOP 36: Querungshilfe Ronsdorfer Straße 145 - zur Kenntnis genommen
+- TOP 37: Abenteuerspielplatz Eller, Heidelberger Straße - zur Kenntnis genommen
+- TOP 38: Kontrollen Zamek - See - zur Kenntnis genommen
+- TOP 39: Striegauer Weg, Straßenmarkierung - zur Kenntnis genommen
