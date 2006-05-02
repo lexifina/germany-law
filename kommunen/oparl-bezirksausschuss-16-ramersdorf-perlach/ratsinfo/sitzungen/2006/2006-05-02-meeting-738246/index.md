@@ -1,0 +1,96 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2006-05-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/738246
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/738246
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2: Protokoll/e
+- TOP 1.1.3: Sonstiges / anwesende Behördenvertreter
+- TOP 1.1.: Vertretung des Kulturreferats, Herr Stadtdirektor Lippstreu, zu aktuellen Themen der Stadtteilkultur und kulturellen Projekten hierzu Antwortschreiben des Kulturreferats vom 21.04.06 zu aktuellen Themen
+- TOP 2.: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+- TOP 2.1.: Abschirmung der Tankstelle auf dem Grundstück Quiddestraße zum angrenzenden Wohnblock durch eine Wand / Mauer o.ä.; Empfehlung Nr. 02-08 / E 00305 der Bürgerversammlung des Stadtbezirks 16 am 01.12.2005; Beschluss des Bezirksausschuss 16 am 02.05.2006
+- TOP 2.1.1: 2.6.1 Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse 2.6.1.1 AntragstellerIn: ZAK ? Zusammen aktiv in Neuperlach; für die Maßnahme: Jubiläumswoche vom 15. ? 19.05.2006; Antragssumme: 2.400.- ?; Beschlussvorlage des Direktoriums vom 14.03.2006 2.6.1.2 AntragstellerIn: AWO-Kreisverband, Ortsverein Ramersdorf; für die Maßnahme: 2 Seniorenfahrten; Antragssumme: 612.- ?&lt;, Beschlussvorlage des Direktoriums vom 29.03.2006 - <div>Zustimmung zu beiden Anträgen</div>
+- TOP 3.: Anträge
+- TOP 3.1.: Einrichten eines Haltverbots in der Trostberger Straße, der Möschenfelderstraße einseitig, der Butlerstraße einseitig und der Rupertigaustraße beim Alten-Service-Zentrum um die Kurve beidseitig; Antrag der GEWOFAG vom 02.02.2006; (vertagt aus der Sitzung am 04.04.2006)
+- TOP 3.1.: Jugendtreff in der Isegrimstraße am heutigen Standort der Feuerwehr?; Bürgerschreiben vom 10.04.2006
+- TOP 3.2.: Einführung eines Sozialtickets im Münchner Verkehrsverbund (MVV); Bürgerschreiben vom 12.04.2006
+- TOP 3.1.: Ablehnung des Bauvorhabens ?Tankstelle?, Ulrich-von Hutten-Straße; Bürgerschreiben (e-mail) vom 21.04.05 (siehe TOP 5.4.1.2)
+- TOP 3.3.6: Sonstige Anträge
+- TOP 3.1.: Zurückschneiden der Hecken bis hin zur Grundstücksgrenze; Bürgerschreiben vom 11.04.2006
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Berichte
+- TOP 4.4.1: Unterausschuss Verkehr
+- TOP 4.1.: UA 16 - Verkehr - 25.04.2006
+- TOP 4.4.2: Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 4.1.: UA 16 - Kultur, Vereine, Veranstaltungen - 06.04.2006
+- TOP 4.4.3: Unterausschuss Schule, Jugend Soziales und Sport
+- TOP 4.1.: UA 16 - Schule, Jugend, Soziales und Sport - 24.04.2006
+- TOP 4.4.4: Unterausschuss Bau und Stadtteilentwicklung
+- TOP 4.1.: UA 16 - Bau und Stadtteilentwicklung - 19.04.2006
+- TOP 4.4.5: Unterausschuss Gesundheit, Umwelt und Grünplanung
+- TOP 4.4.7: Berichte der Beauftragten
+- TOP 4.4.7.1: Baumschutz
+- TOP 4.4.7.2: Kinder
+- TOP 4.4.7.3: Jugend
+- TOP 4.4.7.4: Senioren/-innen
+- TOP 4.4.7.5: Frauen
+- TOP 4.4.7.6: Unterkunftsanlagen und Wohnen
+- TOP 4.4.7.7: Integration
+- TOP 4.4.7.8: Behinderte
+- TOP 5.: Anhörungsfälle / Stellungnahmen
+- TOP 5.1.1: Flächendeckende Aufstellung von 4F-Circle-Bewegungsinseln (vertagt aus der Sitzung am 04.04.2006) - <div>gem. der Empfehlung des UA SJSS</div>
+- TOP 5.1.1: Anhörung durch das Referat für Stadtplanung und Bauordnung ? Lokalbaukommission zu Bauvorhaben im Einzelfall auf Anforderung 5.4.1.1 Anwesen in der Peralohstraße; Zuleitung vom 20.03.2006 (vertagt aus der Sitzung am 04.04.2006) 5.4.1.2 Anwesen in der Ulrich-von-Hutten-Str.; Zuleitung vom 28.03.2006 (vertagt aus der Sitzung am 04.04.2006) TOP 5.4.1.3 Anwesen in der Balanstraße; Zuleitung vom 19.04.06 - <div>siehe Protokoll</div>
+- TOP 5.1.2: Antrag auf Erlaubnis zum Aufstellen von Tischen und Stühlen auf öffentlichem Straßengrund (Freischankfläche); Gaststätte "Poseidon", Karl-Preis-Platz; Zuleitung des Kreisverwaltungsreferats vom 05.04.2006 mit der Bitte um Stellungnahme - <div>gem. der Empfehlung des UA Bau</div>
+- TOP 5.1.1: Mobilfunk, Suchkreismeldung; Zuleitung des Referats für Gesundheit und Umwelt 5.5.1.1 Adenauerring; Zuleitung vom 28.02.2006 (vertagt aus der Sitzung am 04.04.2006) 5.5.1.2 Kafkastraße; Zuleitung vom 28.02.2006 (vertagt aus der Sitzung am 04.04.2006) 5.5.1.3 Obergiesing; Zuleitung vom 14.03.2006 (vertagt aus der Sitzung am 04.04.2006) - <div>jeweils Kenntnisnahme</div>
+- TOP 6.: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1.: Angemessene Schnee- und Eisbekämpfung im 16. Stadtbezirk; Schreiben des BA 16 vom 13.02.2006; Antwortschreiben des Baureferats vom 20.03.2006 - <div>zur Kenntnis genommen bzw. in den UA verwiesen.</div>
+- TOP 6.1.: Perlach-Mobile?; Antwortschreiben des Kulturreferats vom 25.04.06 - <div>siehe Protokoll</div>
+- TOP 6.1.1: Fragebogen zu Regsam, "Einschätzung der Bezirksausschüsse"; Schreiben des BA 3 - Maxvorstadt vom 23.03.2006 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 6.1.2: Erweiterungsbau an der Grund- und Hauptschule Führichstraße 53; Antrag Nr. 02-08 / B 00174 des BA 16 vom 12.04.2005; Antwortschreiben des Schul- und Kultusreferats vom 04.04.2006 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 6.2.: Verwendung der ?Sechseck-Mittel? im 16. Stadtbezirk; Antrag des BA 16 vom 07.02.2006; Antwortschreiben des Sozialreferats vom 12.04.2006 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 6.1.1: Waldschadensbericht 2005; Schreiben des BA 16 vom 21.02.2006; Antwortschreiben des Kommunalreferats vom 22.03.2006 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 6.1.: Festwoche Neuperlach ? Nachfragen aufgrund des Antrags der Stadträte Altmann/Podiuk/Schmatz vom 8.2.2006; Doppelförderung des Senioren-/Behindertennachmittags in den vergangenen Jahren?; Antrag des BA 16 vom 07.03.2006; Antwortschreiben des Direktoriums vom 04.04.2006 - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Sudermannzentrum, Behinderung im Durchgangsbereich und bei den Geschäften; Schreiben des BA 16 vom 15.03.2006; Antwortschreiben des Baureferats vom 27.03.2006 und des Kreisverwaltungsreferats/Bezirksinspektion Ost vom 20.03.2006 - <div>Nachfrage bei KVR und Baureferat</div>
+- TOP 6.3.: Schneeräumung und Streuung am Fußweg Putzbrunner Straße zum Altenheim St.-Michael; Bürgeranliegen aus der Sitzung am 07.03.2006; Antwortschreiben des Baureferats vom 11.04.2006 - <div>zur Kenntnis genommen bzw. in den UA Bau und Stadtteilentwicklung verwiesen.</div>
+- TOP 6.3.1: Sitzung des Bezirksausschuss 16 am 07.03.2006; Budget der Bezirksausschüsse, Behandlung der Budgetanträge durch das Direktorium; Schreiben des Direktoriums vom 12.04.2006 - <div> zur Kenntnis genommen bzw. an den BA-Vorstand verwiesen.</div>
+- TOP 6.3.2: Kürzung der Zuschüsse der Referate zu Lasten des BA-Budgets; Antrag Nr. 02-08 / B 00840 des BA 13 Bogenhausen vom 13.12.2005, Schreiben des BA 16 vom 16.01.2006; Schreiben des Direktoriums vom 06.04.2006 - <div>zur Kenntnis genommen bzw. an den BA-Vorstand verwiesen.</div>
+- TOP 7.: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.1: Errichtung einer 4-gruppigen Kindertagesstätte mit Qualitätsberatung und Bezirksleitung an der Paul-Löbe-Straße (Verlagerung des Kindergartens Lüdersstraße im 16. Stadtbezirk); 1. Ausführungsgenehmigung, 2. Änderung des Mehrjahresinvestitionsprogramms 20058-2009; Sitzungsvorlage Nr. 02-08 / V 07919; Beschluss des Schulausschusses des Stadtrats vom 26.04.2006 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.1.2: Realisierungswettbewerb Neubau von 5 Kindertageseinrichtungen in Systembauweise, Auslobungstext; Sitzungsvorlage Nr. 02-08 / V 07974; Beschluss des Schulausschusses des Stadtrates vom 26.04.2006 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.1.1: Baufälle im 16. Stadtbezirk - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.1.2: Unveränderte Fortführung von Gaststätten, Unterrichtungen durch das Kreisverwaltungsreferat 7.4.2.1 KG "Hofangerstüberl"; Hofangerstraße; Mitteilung vom 05.04.2006 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.1.3: Unterrichtung durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 7.4.3.1 Anwesen Staudingerstraße; Gefahrenbaumbescheinigung vom 28.03.2006 7.4.3.2 Anwesen in der Staudingerstraße; Bescheid vom 24.03.2006 7.4.3.3 Anwesen in der Rosenheimer Straße; Bescheid vom 22.03.2006 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.1.4: Wohnen in München III, a) Erfahrungsbericht für das Jahr 2005, b) Ergänzungen des Erfahrungsberichts, c) Modifizierungen zum Wohnungspolitischen Handlungsprogramm "Wohnen in München III"; Sitzungsvorlage Nr. 02-08 / 07988; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.04.2006 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.1.5: Aktualisierung des Flächennutzungsplans und Aufstellung des Landschaftsplans Teilbereich VI - Südost; Endgültiger Beschluss; Sitzungsvorlage Nr. 02-08 / V 07910; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.04.2006 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.1.6: Wettbewerb "Denkmalschutz und Neues Bauen" 2005; Prämierung von Wettbewerbsbeiträgen; Sitzungsvorlage Nr. 02-08 / V 07984; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.04.2006 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.1.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse 7.6.1.1 Antragstellerin: Ömerhacili in Bayern; für die Maßnahme:Internationaler Kindertag am 23.04.2006; Antragssumme: 1.500.- ? ; Antrag vom: 23.03.2006 7.6.1.2 Antragstellerin: Programmwerkstatt Kulturhaus Ramersdorf-Perlach; für die Maßnahme: Broschüre "Verstecktes Kulturgut in Ramersdorf" ; Antragssumme: 600.- ? ; Antrag vom: 11.04.2006 - <div>7.6.1.1 in den UA SJSS 7.6.1.2 in den UA Kultur vewiesen</div>
+- TOP 7.1.2: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen 7.6.2.1 AntragstellerIn: Pfarrei St.-Philipp-Neri, für die Maßnahme: Skiwochenende; Kurzbericht 7.6.2.2 AntragstellerIn: Bewohnerzentrum Neuperlach; für die Maßnahme: Kleines Skilager am 01.03. bis 04.03.2006; Kurzbericht 7.6.2.3 AntragstellerIn: Bewohnerzentrum Neuperlach; für die Maßnahme: Kinderfasching am 25.02.2006; Kurzbericht - <div>in den UA SJSS verwiesen</div>
+- TOP 7.1.3: Offenlegung städtebaulicher Verträge; Schreiben des BA 3 Maxvorstadt vom 29.03.2006 - <div>in den UA Bau und Stadtteilentwicklung verwiesen.</div>
+- TOP 8: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 8.8.1: Termine der UA - Sitzungen
+- TOP 8.8.1.1: Verkehr
+- TOP 8.8.1.2: Kultur, Vereine und Veranstaltungen
+- TOP 8.8.1.3: Schule, Jugend, Soziales und Sport
+- TOP 8.8.1.4: Bau- und Stadtteilentwicklung
+- TOP 8.8.1.5: Gesundheit, Umwelt und Grünplanung
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Sonstiges / Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 7.7.1: Bereich Unterausschuss Verkehr
+- TOP 7.7.2: Bereich Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 7.7.3: Bereich Unterausschuss Schule, Jugend, Soziales und Sport
+- TOP 7.7.4: Bereich Unterausschuss Bau und Stadtteilentwicklung
+- TOP 7.7.5: Bereich Unterausschuss Gesundheit, Umwelt und Grünplanung
+- TOP 7.7.6: Sonstige
+- TOP 8.8.1.6: Arbeitskreis Hanns-Seidel-Platz
