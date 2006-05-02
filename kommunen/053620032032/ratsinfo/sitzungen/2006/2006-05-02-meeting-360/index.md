@@ -1,0 +1,65 @@
+# Stadtrat (13. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2006-05-02T17:04:00+02:00
+- Ende: 2006-05-02T20:50:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTZxeACIjFztFmVWB_sjJFc
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/360
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZSX7A45kwn45H7vtBizzzEWzJqCTQAW9p1lkPXR_CxvS/Oeffentliche_Niederschrift_Stadtrat_02.05.2006.pdf
+
+## Tagesordnung
+
+- TOP 1.: Einführung und Verpflichtung eines neuen Stadtverordneten
+- TOP 2.: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 2.1: Personelle Änderung im Jugendhilfeausschuss
+- TOP 2.2: Personelle Änderung im Jugendhilfeausschuss
+- TOP 2.3: Besetzung der Räte der 13 Kindertageseinrichtungen hier: Trägervertreter
+- TOP 2.4: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.: Abberufung und Neubestellung der Mitglieder sowie deren Vertreter des Gesellschafterversammlung der Grundstücksentwicklungs- und verwertungsgesellschaft mbH sowie der WFK Wirtschaftsförderung Kerpen GmbH
+- TOP 4.: Satzungsangelegenheiten
+- TOP 4.1: Änderung der Hauptsatzung der Stadt Kerpen hier: Festlegung der Zahl der Beigeordneten Antrag der CDU-Fraktion vom 23.03.2006
+- TOP 4.1.1: Änderung der Hauptsatzung der Stadt Kerpen
+- TOP 4.2: Änderung der Satzung über die Erhebung von Gebühren für die Benutzung von Einrichtungen der Stadt Kerpen für kulturelle Zwecke hier: Empfehlung des Ausschusses für Sport, Freizeit und Kultur auf Gebührenbefreiung für soziale und caritative Veranstaltungen
+- TOP 4.2.1: Vereinsförderung und Hallennutzungsgebühr
+- TOP 4.3: Offene Ganztagsschulen im Primarbereich hier: Benutzungs- und Entgeltsatzung für die Offene Ganztagsschule im Stadtgebiet Kerpen
+- TOP 5.: Neubau eines Schul- und Vereinsbades
+- TOP 5.1: Schul- und Vereins-Schwimmbad
+- TOP 5.2: Antrag zur Beratung des Doppelhaushaltes 2006 / 2007 hier: Haushaltsansätze für die Bäder in Kerpen
+- TOP 6.: Bildung von Haushaltsausgaberesten 2005
+- TOP 7.: Einwendungen gegen den Entwurf der Haushaltssatzung 2006/2007
+- TOP 8.: Haushaltssatzung für die Haushaltsjahre 2006 und 2007 einschließlich des Investitionsprogrammes für die Jahre 2005 - 2009 sowie des Haushaltssicherungskonzeptes
+- TOP 8.1: Organisations- und Personalvorlage 2006/2007
+- TOP 8.2: Instandsetzung des Weges durch den Parrig zwischen Götzenkirchen und Kerpen Anträge der Fraktionen Bündnis 90/Die Grünen und SPD (A 454.05 / A 455.05)
+- TOP 8.3: Erhöhung des Betriebskostenzuschüsse in Form von Freiwilligen Leistungen der Stadt Kerpen an die Träger der evangelischen Kindertagesstätten im Stadtgebiet Kerpen
+- TOP 9.: Stadtentwicklung und Bauleitplanung
+- TOP 9.1: Bebauungsplan HO 183/1.Änderung ¿ Am Wahlenpfad ¿ , Stadtteil Horrem hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 9.2: Bebauungsplan HO 183/2.Änderung "Am Wahlenpfad", Stadtteil Horrem hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 9.3: 52. Änderung des Flächennutzungsplanes "Grünfläche Apollinarisstraße", Stadtteil Horrem hier: Wirksamkeitsbeschluss
+- TOP 9.4: 48. Änderung des Flächennutzungsplanes, " Sonderbaufläche Freizeitzentrum ", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 9.5: Einspruch gegen Beschlüsse entscheidungsbefugter Ausschüsse hier: Beschluss des Ausschusses für Stadtplanung und Verkehr TOP 6.9 - Bebauungspläne SI 251 B/C Versiegelung der Vorgärten im Bereich der städtebaulichen Entwicklungsmaßnahme Vogelruther Feld
+- TOP 9.6: BebauungsplanTÜ Nr. 283 A ¿Wohnbebauung Schildgenstraße¿, Stadtteil Brüggen hier : Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 9.7: Vorhabenbezogener Bebauungsplan Bu 315 "Sondergebiet Steinweg", Stadtteil Buir hier: Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB
+- TOP 9.8: 53.Änderung des Flächennutzungsplanes "Nahversorgungszentrum Sindorf-Nord", Stadtteil Kerpen-Sindorf hier: Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB
+- TOP 9.9: Vorhabenbezogener Bebauungsplan SI 255 ¿Nahversorgungszentrum Sindorf-Nord¿ Stadtteil: Kerpen-Sindorf hier : Offenlegungsbeschluss gem. § 3(2) BauGB
+- TOP 9.10: 55. Änderung des Flächennutzungsplanes, " Visteonstraße ", Stadtteil Sindorf -Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 9.11: Bebauungsplan SI 231 A/ 4. Änderung "Hahner Äcker West", Stadtteil Sindorf hier: Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB
+- TOP 9.12: Bebauungspläne SI 251B/C: hier: Versiegelung der Vorgärten im Bereich der Städtebaulichen Entwicklungsmaßnahme Vogelrutherfeld
+- TOP 9.12.1: Vorhabenbezogener Bebauungsplan SI 310 ¿Freizeitzentrum Kerpen-Sindorf¿, Stadtteil Sindorf hier:Einleitungsbeschluss des Bebauungsplanverfahrens gem. § 12 (2) BauGB
+- TOP 9.12.2: Vorgartenzone im Vogelruther Feld; hier:Änderung des Gestaltungshandbuchs
+- TOP 10.: Kindertagesstättenbedarfsplan für Kinder im Alter von 3 bis 6 Jahren Zeitraum 2006 bis 2011 Kindertagesstättenbedarfsplan für Kinder unter 3 Jahren Zeitraum 2006 bis 2007 A 029.06, A 056.06, A 011.06
+- TOP 11.: Änderung des Stadtseniorenplanes Gewährung von Zuschüssen
+- TOP 12.: Beschluss des Stadtrates über die vom Rechnungsprüfungsausschuss geprüfte Jahresrechnung für das Haushaltsjahr 2003 und Entlastung der Bürgermeisterin gem. § 94 Abs. 1 GO NW
+- TOP 13.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 14.: Mitteilungen
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 16.: Einwohner/innen - Fragestunde
+- TOP 17.: Abschluss städtebaulicher Verträge
+- TOP 17.1: Bebauungsplan HO Nr. 183 2. Änderung ¿Am Wahlenpfad¿ im Stadtteil Horrem hier:Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB
+- TOP 17.2: Projekt "Enterteinment - Center Europarc" im Stadttteil Sindorf hier: Abschluss eines Städtebaulichen Vertrages
+- TOP 18.: Vorhabenbezogener Bebauungsplan SI Nr. 255 "Nahversorgungszentrum Sindorf - Nord" im Stadtteil Sindorf hier: Abschluss eines Durchfürhungsvertrages gem. BauGB mit der Firma ImmoInvest GmbH
+- TOP 19.: Vorhabenbezogener Bebauungsplan BU Nr. 315 ¿Sondergebiet Steinweg¿ im Stadtteil Buir hier: Abschluss eines Durchführungsvertrages gem. BauGB mit der Fa. Ten Brinke Projektentwicklung GmbH & Co. KG
+- TOP 20.: Wechsel des Vorhabenträgers für den Bereich des vorhabenbezogenen Bebauungsplan 51 Nr. 255 Nahversorgungszentrum Sindorf - Nord` im Stadtteil Sindorf
