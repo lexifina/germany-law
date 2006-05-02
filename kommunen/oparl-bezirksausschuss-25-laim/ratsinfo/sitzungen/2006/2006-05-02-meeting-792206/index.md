@@ -1,0 +1,93 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2006-05-02T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/792206
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/792206
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Sportplatz an der Schrobenhausener Schule
+- TOP 1.2.2.: Zebrastreifen über die Von - der - Pfordten - Straße Höhe Valpichlerstraße
+- TOP 1.2.3.: Schreiben Interim vom 13.04.06: Open - Air - Veranstaltungen auf dem Laimer Anger am 01.06., 24.06, 01.07., 08.07., 15.07. und 22.07.06
+- TOP 0.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anträge
+- TOP 2.1.: SPD - Fraktion: Neugestaltung der Grünanlage am Käthe - Bauer - Weg
+- TOP 2.2.: SPD - Fraktion: Lagepläne der öffentlichen Einwurfsbriefkästen
+- TOP 2.3.: SPD - Fraktion: Halteverbot auf einem Teil der Wimpfener Straße hinter den Hausern Nr. 22 - 26
+- TOP 2.4.: SPD - Fraktion: Aufstellung einer 4 - F - Circle - Bewegungsinsel am Laimer Platz oder Hogenbergplatz
+- TOP 2.5.: CSU - Fraktion: Aufstellen von 4 F - Circle - Bewegungsinseln am Viebigplatz
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Baureferat: Vollzug des Bayerischen Straßen - und Wegegesetzes; Errichtung eines ambulanten Obst - und Gemüseverkaufsplatzes in der Elsenheimerstr. 12 / Ecke Lautensackstraße
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Laimer Fischtage vom 31.05. - 05.06 auf dem Laimer Anger
+- TOP 4.2.: Schreiben Planungsreferat vom 03.04.06: Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz ( AEG ) MSB München - Hauptbahnhof - Flughafen, Planfeststellungsabschnitt 11 Bereich München; Anhörungsverfahren
+- TOP 4.3.: Schreiben Stadtwerke München GmbH vom 29.03.06: Spartenanfrage UW Laim - Tuttlinger Str. 5
+- TOP 5: Baumfällungen
+- TOP 5.1.: Willibaldstr. 23: 1 Birke
+- TOP 5.2.: Gotthardstraße: 1 Fichte
+- TOP 5.3.: Fischartstr. 13: 1 Schwarzkiefer
+- TOP 5.4.: St.- Ulrich - Str. 12: 1 Esche
+- TOP 5.5.: Junkerstr. 73: 2 Kiefern
+- TOP 5.6.: Fachnerstr. 25: 1 Kiefer
+- TOP 5.7.: Valpichlerstr. 18: 1 Birke
+- TOP 5.8.: Camerloherstr. 114: 1 Kiefer
+- TOP 6: Bauvorhaben
+- TOP 6.1.: Ludwig - Richter - Str. 34 - 42: Errichtung einer Tiefgarage ( 30 Stpl.); hier: Baumfällungen
+- TOP 6.2.: Schrobenhausener Str. 38: Aufstockung mit 10 WE ( Zschokkestr. 74 - 82 ) sowie Neubau einer Wohnanlage mit 28 WE + 1 EG + TG ( Schrobenhausener Str. 38 ); hier: Baupläne und Baumfällungen
+- TOP 7: Sonstiges
+- TOP 7.1.: KulturGeschichtsPfad Laim ( Wiedervorlage aus der BA - Sitzung vom 04.04.06 )
+- TOP 7.2.: Schreiben Schulreferat vom 12.04.06: Schulhoföffnung 2006 - Eröffnungsveranstaltung am 16.05.06 auf dem Schulsportplatz Schrobenhausener Str. 15
+- TOP 8: Protokolle
+- TOP 8.1.: Protokoll der Ortsbegehung des UA Verkehr am 21.03.06 an der Schrobenhausener Straße
+- TOP 8.2.: Protokoll der BA - Sitzung vom 04.04.06
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben KVR vom 21.03.06: Sicheres Queren der Burgkmairstraße bei der Heinrich - Heine - Straße ( Schreiben BA vom 27.01.06 )
+- TOP 9.2.: Schreiben KVR vom 28.03.06: Errichtung eines gesicherten Überganges in Höhe der Laimer Kultureinrichtung Interim über die Agnes - Bernauer - Straße ( Antrag Nr. 02-08 / B 00654 vom 05.10.05 )
+- TOP 9.3.: Schreiben MVG vom 31.03.06: Straßenbahnverkehr im Stadtbezirk 25 ( Schreiben BA vom 22.03.06 )
+- TOP 9.4.: Schreiben Schulreferat vom 10.04.06: Erneuerung des Pausenhofes der Grundschule an der Droste - Hülshoff - Str. 9 ( Antrag Nr. 02 - 08 / B 00733 vom 08.11.06 )
+- TOP 9.5.: Schreiben Baureferat vom 11.04.06: Willibaldstraße und Landsberger Straße; Baumpflanzungen ( Schreiben BA vom 22.03.06 )
+- TOP 9.6.: Schreiben Planungsreferat vom 06.04.06: Landsberger Str. 185, Genehmigung des Nachtwerk - Musiktheaters ( Antrag Nr. 02 - 08 / B 01021 vom 07.03.06 )
+- TOP 9.7.: Schreiben OB vom 21.03.06: Alternative zum Transrapid
+- TOP 9.8.: Schreiben Direktorium vom 21.03.06: Jahresbericht 2005 mit Jahresvorschau 2006
+- TOP 9.9.: Schreiben KVR vom 23.03.06: Gaststätte " Bistro Pub Cin Cin ", Lautensackstr. 2 b; unveränderte Fortführung
+- TOP 9.10.: Schreiben KVR vom 04.04.06: Gaststätte " Bistro der OMV - Tankstelle ", Agnes - Bernauer - Str. 137; unveränderte Fortführung
+- TOP 9.11.: Schreiben KVR vom 07.04.06: Anmeldung einer Versammlung unter freiem Himmel am 10.04.06; S - Bahn Laim, Landsberger Straße / Ecke Wotanstraße
+- TOP 9.12.: Schreiben KVR vom 18.04.06: Anmeldung einer Versammlung unter freiem Himmel am 22.04.06, Fürstenrieder Str. 59
+- TOP 9.13.: Schreiben KVR vom 11.04.06: Anmeldung einer Versammlung unter freiem Himmel am 26.04.06 in der Wotan - / Ecke Landsberger Straße ( Westseite ), S - Bahnhof Laim
+- TOP 9.14.: Schreiben KVR vom 21.03.06: Schrottstraße; Feuerwehranfahrtszone
+- TOP 9.15.: Schreiben Baureferat vom 29.03.06: Unterrichtung über das Fällen von Gefahrenbäumen, Veit - Stoß - Straße 100
+- TOP 9.16.: Schreiben Planungsreferat vom 10.04.06: Aindorferstr. 128 b; Fällungsgenehmigung
+- TOP 9.17.: Schreiben Planungsreferat vom 10.04.06: Reutterstr. 36; Fällungsgenehmigung
+- TOP 9.18.: Schreiben Sozialreferat vom 30.03.06: Leerstand von Wohnungen in der Landsberger Straße
+- TOP 9.19.: Schreiben Sozialreferat vom 12.04.06: Erteilung eines Negativattestes; Gotthardstraße
+- TOP 9.20.: Schreiben Sozialreferat vom 06.04.06: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Geßlerstraße
+- TOP 9.21.: Schreiben MVG vom 07.04.06: Gleisbauarbeiten im Bereich Karlsplatz ( Stachus Nordseite ) / Prielmayerstraße
+- TOP 9.22.: Schreiben BA 3 Maxvorstadt vom 23.03.06: Fragebogen zu REGSAM; " Einschätzung der Bezirksausschüsse "
+- TOP 9.23.: Schreiben BA 3 Maxvorstadt vom 29.03.06: Offenlegung städtebaulicher Verträge
+- TOP 9.24.: Bautenliste vom 20.03. - 26.03.06 1. Erstantragsverfahren a ) Gotthardstr. 99 b ) Altmannstr. 14 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a ) Berchemstr. 79
+- TOP 9.25.: Bautenliste vom 27.03. - 02.04.06 1. Erstantragsverfahren a ) Schrottstr. 30
+- TOP 9.26.: Bautenliste vom 03.04. - 09.04.06: 1. Änderungsverfahren a ) Landsberger Str. 209 b ) Berchemstr. 79 c ) Straubinger Str. 9
+- TOP 9.27.: Bautenliste vom 10.04. - 16.04.06: 1. Erstantragsverfahren a ) Aindorferstr. 179
+- TOP 9.28.: Schreiben Stadtwerke München GmbH vom 27.03.06: Liste der Baumaßnahmen; Stichtag 27.03.06
+- TOP 9.29.: Schreiben Stadtwerke München GmbH vom 03.04.06: Liste der Baumaßnahmen; Stichtag 03.04.06
+- TOP 9.30.: Schreiben Stadtwerke München GmbH vom 10.04.06: Liste der Baumaßnahmen; Stichtag 10.04.06
+- TOP 9.31.: Schreiben Stadtwerke München GmbH vom 13.04.06: Liste der Baumaßnahmen; Stichtag 13.04.06
+- TOP 9.32.: Beschluss des Kreisverwaltungsausschusses vom 04.04.06: Eingeschränktes Haltverbot in der Willibaldstraße zwischen Willibaldplatz und Gotthardstraße ( Empfehlung Nr. 24 der Bürgerversammlung vom 28.10.04 )
+- TOP 9.33.: Beschluss der Vollversammlung vom 05.04.06: Zentrale Bahnflächen München Hauptbahnhof - Laim - Pasing, Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung, Teilgebiet Birketweg - endgültiger Beschluss
+- TOP 9.34.: Beschluss der Vollversammlung vom 05.04.06: Bebauungsplan mit Grünordnung Nr. 1771 Zschokkestraße ( südlich ) zwischen Westend - und Hans - Thonauer - Straße ( Straßenbahnbetriebshof ) - Eckdatenbeschluss
+- TOP 9.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.04.06: Bebauungsplan mit Grünordnung Nr. 1922 a, Bahnhof Pasing ( südlich ), Offenbachstraße ( östlich ), Landsberger Straße ( nördlich ), Rathausgasse, Am Schützeneck, Bäckerstraße, Pasinger Bahnhofsplatz, Kaflerstraße, Ernsbergerstraße, Bodenseestraße und Lortzingstraße ( beiderseits ), ( Änderung des Bebauungsplans Nr. 30 b Teil 3 ), ( Satzungsbeschluss )
+- TOP 9.36.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.04.06: Wohnen in München III, a ) Erfahrungsbericht für das Jahr 2005, b ) Ergänzungen des Erfahrungsberichtes, c ) Modifizierungen zum Wohnungspolitischen Handlungsprogramm " Wohnen in München III "
+- TOP 9.37.: Schreiben STÜPS vom 21.03.06: Jahresbericht 2005
+- TOP 9.38.: Schreiben Kindergarten und Hort Namen Jesu vom 15.03.06: 60 - jähriges Bestehen der Kindertagesstätte am 15.07.06
+- TOP 9.39.: Schreiben Münchner Forum vom 30.03.06: Veranstaltungen während der Architekturwoche
+- TOP 9.40.: Schreiben Bayerisches Landesamt für Denkmalpflege vom 10.04.06: Tag des offenen Denkmals am 09.09.06
+- TOP 9.41.: Schreiben Verein Urbanes Wohnen vom 13.04.06: Fachtag " Neue Wege in der Wohnraumversorgung älterer Bürgerinnen und Bürger " am 03.05.06
+- TOP 9.42.: Schriftverkehr aus der BA - Sitzung vom 04.04.06
+- TOP 1.2: Bürgerpost an den BA
