@@ -1,0 +1,96 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2006-05-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/824458
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/824458
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Vertreter des Kommunalreferates zum Sachstand in Bezug auf städtische Grundstücke im 21. Stadtbezirk
+- TOP 1.3: Wahl einer/eines stellvertretenden Vorsitzenden je für den Unterausschuss Budget sowie Jugend und Soziales
+- TOP 2.: Bürgeranliegen
+- TOP 2.1.: Verkehrsberuhigung Villenkolonie I
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Verkehrsaufkommen in der Beer-Walbrunn-Straße
+- TOP 2.2.: Verkehrssituation Paosostraße
+- TOP 2.3.: Verunreinigungen in Grünflächen bei Schulen
+- TOP 2.4.: Beleuchteter Fuß- und Radweg Professor-Eichmann-Straße / Wöhlerstraße
+- TOP 2.5.: Verkehrsberuhigung in der Villenkolonie I
+- TOP 2.6.: Beleuchteter Rad- und Fußweg Professor-Eichmann-Straße / Wöhlerstraße
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1: Neufeldstraße 7, Baumbestandsplan Nr. 06-10342
+- TOP 3.1.2: Paosostraße 36, 1 Schwarzkiefer, 1 Fichte, 1 Weißtanne
+- TOP 3.1.3: Frauendorferstraße 40, 1 Kiefer
+- TOP 3.1.4: Ortolfstraße 37, 1 Kiefer
+- TOP 3.1.5: Kaspar-Kerll-Straße 7, 1 Föhre
+- TOP 3.1.6: Waldhornstraße 7, 2 Fichten
+- TOP 3.2.: Fritz-Reuter-Straße 10 a, Baumbestandsplan Nr. 06-5206 (vertagt aus der Sitzung vom 04.04.06)
+- TOP 3.3.: Böcksteiner Straße 82, Baumbestandsplan Nr. 06-6683
+- TOP 3.4.: Dachstraße 15 a, Baumbestandsplan Nr. 06-7814
+- TOP 3.5.: Zündterstraße 12, 2 Ulmen
+- TOP 3.5.1: Bergsonstraße 72 b, 2 Birken
+- TOP 3.5.2: Faistenlohestraße 44, 1 Kiefer
+- TOP 3.3.2: Gefahrenbäume
+- TOP 3.1.1: Liste des Baureferates vom31.03.06
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.1: Klarweinstraße 13
+- TOP 5.1.2: Paosostraße 65
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Regelmäßige Geschwindigkeitskontrollen in der Amalienburg- und Verdistraße (Empfehlung nr. 236 der Obermenzinger Bürgerversammlung vom 27.10.05)
+- TOP 10.: Anhörungen
+- TOP 10.1.: Planegger Straße 38, Neubau einer Wohnanlage mit ca. 300 Wohneinheiten und Tiefgarage (Bauteil WA 3, WA 4, MI 2); Vorbescheid
+- TOP 10.2.: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2006 - 2010 und Stellungnahmen zu den Anregungen der Bezirksausschüsse
+- TOP 10.3.: Kasperlezelttheater vom 09. - 15.05.06 an der Frauendorferstraße
+- TOP 10.4.: Aufstellung von 3 BA-Schaukästen im 21. Stadtbezirk: Rüttenauerplatz, An der Schäferwiese, Ecke Verdi-/Frauendorferstraße
+- TOP 10.5.: Eglofstraße 14, Neubau eines Einfamilienhauses mit Doppelgarage
+- TOP 10.6.: Lochhausener Straße; Anordnung zusätzlicher Haltestellen für die Buslinie 164
+- TOP 10.7.: Planegger Straße 121, Erweiterung einer Druckerei
+- TOP 10.8.: Fugelstraße 3, Neubau von 2 Einfamilienhäusern mit 2 Garagen
+- TOP 10.9.: Stadlfest des Burschenvereins Obermenzing am 13.05.06 auf dem Bauernhof in der Dorfstraße 37
+- TOP 10.10.: Charitiy-Lauf am 21.07.06 im Schlosspark Blutenburg
+- TOP 10.11.: Verlegung des Beginns der Kurzparkzone in der Gottfried-Keller-Straße (Nordseite, in Höhe des Anwesens August-Exter-Straße 2) sowie Anordnung eines Haltverbotbereichs im Kurvenbereich von August-Exter-Straße (Ostseite) und Gottfried-Keller-Straße (Nordseite)
+- TOP 11.: Anträge und Anfragen
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Bezirksinspektion West; Unveränderte Fortführung von Gaststätten - "Cafe an der Würm", Lortzingstraße 26
+- TOP 12.2.: Amtsblatt Nr. 9/06, Nr. 10/06
+- TOP 12.3.: Bauanträge (vom 10.04.-16.04.06
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Ausschuss für Stadtplanung und Bauordnung vom 22.03.06 - Kleintierfriedhof in München - Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006 - 36. städtischer Fassadenwettbewerb; Fassadenpreise und lobende Erwähnungen 2005
+- TOP 13.2.: Bauausschuss vom 28.03.06 - Parkplatzbewirtschaftung und Unterhalt von Erholungsgebieten mit Bedamöglichkeiten - Fahrradgerechter Einbau von Gullydeckeln
+- TOP 13.3.: Stadtentwässerungsausschuss vom 28.03.06 - Nymphenburger Kanal, Abwassergebühren
+- TOP 13.4.: Schulausschuss vom 26.04.2006 - Kindertagesstätten freigemeinnütziger Träger; Neuerrichtung der Kooperationseinrichtung mit zwei Kindergarten- und drei Krippengruppen "Villa Kunterbunt" in der Fritz-Berne-Straße 49; Leistung eines Baukostenzuschusses nach dem BayKiBiG
+- TOP 13.5.: Ausschuss für Stadtplanung und Bauordnung vom 26.04.06 - Wettbewerb "Denkmalschutz und Neues Bauen" 2005; Prämierung von Wettbewerbsbeiträgen - Wohnen in München, III; Erfahrungsbericht für das Jahr 2005 mit Ergänzungen und Modifizierungen zum Wohnungspolitischen Handlungsprogramm "Wohnen in München, III" - Bebauungsplan mit Grünordnung Nr. 1922 a Bahnhof Pasing (südlich), Offenbachstraße (östlich), Landsberger Straße (nördlich), Rathausgasse, Am Schützeneck, Bäckerstraße, Pasinger Bahnhofsplatz, Kaflerstraße, Ernsbergerstraße, Bodenseestraße und Lortzingstraße (beiderseits); Satzungsbeschluss
+- TOP 13.6.: Bauausscshuss vom 27.04.06 - Offensive für den Radverkehr V; mehr Fahrradabstellflächen im Straßenraum schaffen (Antrag der Stadtratsfraktion Bündnis 90/Die Grünen vom 30.07.03); Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen (Antrag von Mitgliedern der CSU-Stadtratsfraktion vom 12.03.04)
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.1: Baureferat - Pasinger Bürgerversammlung am 16.05.06; Leistungsbilanzen der Hauptabteilungen Tiefbau und Gartenbau - Endgültige Herstellung / Ausbau von Oneginstr., Pläntschweg und Wöhlerstraße (BA-Schreiben vom 21.02.06) - Entfernen von Spielgeräten oder Freizeiteinrichtungen - Sanierung der Berduxstraße und der Peter-Anders-Straße vom 18.04.06 bis voraussichtlich Ende Juni 06
+- TOP 14.1.2: Kreisverwaltungsreferat - Versammlung unter freiem Himmel am 11.04.06 von 19.00 Uhr - ca. 21.00 Uhr, Pasinger Fabrik; Bundesverband der Bürgerbewegungen e.V. - Versammlung unter freiem Himmel am 11.04. und 25.04.06 jeweils von 15.00 Uhr - 18.00 Uhr, Bahnhofsplatz 3 / Ecke Gleichmannstraße - Versammlung unter freiem Himmel am 18.04.06 von 13.00 Uhr - 18.00 Uhr, Bahnhofsplatz 3 / Ecke Gleichmannstraße - Versammlung unter freiem Himmel am 29.04.06 von 10.00 Uhr - 18.00 Uhr, Bahnhofsplatz 3 / Ecke Gleichmannstraße
+- TOP 14.2.: Referat für Stadtplanung und Bauordnung - Skulpturengruppe "Sich aufrichtende Halme" im Weiher vor Schloss Blutenburg - Paganinistraße 100; Neubau von 8 Sozialwohnungen mit 6 Garagenplätzen; Freistellungsverfahren
+- TOP 14.3.: Schul- und Kultusreferat - Kunsteisbahn West; Sanierung der Eispiste
+- TOP 14.4.: Referat für Arbeit und Wirtschaft - Wirtschafts-Info 03/06 - Kampagne zur Fußball-WM: "München zeigt Flagge"
+- TOP 14.5.: Stadtwerke München GmbH - Baumaßnahmen der Stadtwerke München GmbH
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: Kinderhaus Floßmannstraße e.V. - Verparken der Gehwege beim Bringen und Abholen von Kindern (BA-Schreiben vom 14.02.06)
+- TOP 14.1.1: Sozialdienst Katholischer Frauen e.V. - Spende des BA 21 für das Mutter-Kind-Haus "Haus Monika"
+- TOP 14.1.2: Münchner Verkehrsgesellschaft mbH - Gleisbauarbeiten im Bereich Karlsplatz/Stachus
+- TOP 14.1.3: Firma Scherer Hausverwaltung - Bauvorhaben Bauseweinallee 8 / Verdistraße
+- TOP 14.1.4: Bayerisches Landesamt für Denkmalpflege - Tag des offenen Denkmals in Bayern am 09.09.2006 mit dem Schwerpunktthema "Rasen, Rosen und Rabatten - Historische Gärten und Parks"
+- TOP 14.1.5: PRO BAHN Regionalverband Oberbayern e.V. - Eröffnung der neuen Geschäftsstelle am Agnes-Bernauer-Platz 8 sowie 25-jähriges Bestehen von PRO BAHN
+- TOP 14.1.6: BA 20 Hadern - Baumaßnahmen der Stadtwerke München (Schreiben des BA 21 vom 16.03.06)
+- TOP 15.: Verschiedenes
