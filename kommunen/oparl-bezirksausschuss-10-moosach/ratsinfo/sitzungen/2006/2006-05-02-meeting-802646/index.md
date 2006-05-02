@@ -1,0 +1,72 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2006-05-02T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/802646
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/802646
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.1: Gehsteigparken in der Jakob-Hagenbucher-Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.1: Wegeführung im Kapuzinerhölzl
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 6.: Anhörungen
+- TOP 6.1.: S-Bahnhof Moosach (Empfehlung Nr. 215 der Bürgerversammlung am 20.10.2005; Antrag Nr. 615 des BA 10 vom 26.09.2005)
+- TOP 6.2.: Strukturkonzept Bahnhof Moosach mit Randbereichen
+- TOP 6.3.: Planfeststellungsunterlagen Transrapid
+- TOP 6.4.: Zeitliche Beschränkung des allgemeinen Behindertenparkplatzes in der Baubergerstraße 16
+- TOP 6.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6.: Erweiterung und Ausbau der BA-Rechte
+- TOP 6.7.: Straßenfest der Mietergemeinschaft Borstei am 22.07.2006
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Parksituation im Bereich Westfriedhof, Dachauer Straße, Hanauer Straße, Borstei und Umgebung (Schreiben der Olympiapark GmbH)
+- TOP 7.2.: Filialnetz der Deutschen Post AG
+- TOP 7.3.: Wiedereinrichtung der Christbaumsammelstelle auf dem Schulhof des Schulzentrums Gerastr. 6
+- TOP 7.4.: Überprüfung der Verkehrssituation an der Einmündung In-den-Kirschen / Wintrichring bzw. Frauenwörther Straße
+- TOP 7.5.: Zulässigkeit der Errichtung eines Carports in der Hartmannshofer Straße
+- TOP 7.6.: Feldmochinger Straße 36; Sicherheit des Baustellenkranes
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußball-WM 2006
+- TOP 8.2.: Vorab-Stellungnahmen der BA-Vorsitzenden aus Fristgründen
+- TOP 8.3.: Parkplatzbewirtschaftung und Unterhalt von Erholungsgebieten mit Bademöglichkeiten
+- TOP 8.4.: Nymphenburger Kanal, Abwassergebühren
+- TOP 8.5.: Fahrradgerechter Einbau von Gullydeckeln
+- TOP 8.6.: Kleintierfriedhof in München
+- TOP 8.7.: Bebauungsplan mit Grünordnung Nr. 1919 a; Manzostraße , Waldhornstraße 1. Satzungsbeschluss - öffentlich 2. Beschluss zur Fortführung des Bebauungsplanverfahrens - nicht öffentlich
+- TOP 8.8.: Bebauungsplan mit Grünordnung Nr. 1927 a; Landshuter Allee, Emmy-Noether-Str., Georg-Brauchle-Ring - Satzungsbeschluss -
+- TOP 8.9.: Erweiterung und Ausbau der BA-Rechte (Schreiben des BA 1 Altstadt-Lehel)
+- TOP 8.10.: Bebauungsplan mit Grünordnung Nr. 1903; Memminger Platz, Untermenzinger Straße, Allacher Straße, Bahnlinie - München-Regensburg - Satzungsbeschluss -
+- TOP 8.11.: Schieneninfrastruktur und städtebauliche Entwicklung im Münchner Nordosten
+- TOP 8.12.: RegSAM -Fragebögen (Schreiben des BA 3 Maxvorstadt)
+- TOP 8.13.: Radl-Sternfahrt gegen den Transrapid am 21.05.06
+- TOP 8.14.: Offenlegung von städtebaulichen Verträgen (Schreiben des BA 3 Maxvorstadt)
+- TOP 8.15.: Sozialreferat: Haushaltskonsolidierung; Sonderprogramm / Sonderkonsolidierung 2006
+- TOP 8.16.: Bebauungsplan mit Grünordnung Nr. 1941; Baubergerstr., Netzerstr. - Satzungsbeschluss -
+- TOP 8.17.: Freischankfläche "Cafe Tirreno", Bunzlauer Str. 15
+- TOP 8.18.: Wohnen in München, III
+- TOP 8.19.: Perspektive München; Leitprojekt Verkehrsentwicklungsplan 2005
+- TOP 8.20.: Fällungsgenehmigungen 1. Donauwörther Str. 31 2. Simrockstr. 46
+- TOP 8.21.: Mobilfunk: Baubeginnsanzeige und vertragliche Standortsicherung - nicht öffentlich
+- TOP 8.22.: Fällung eines Gefahrenbaumes Ernst-Platz-Str. 21
+- TOP 8.23.: Baumaßnahmen der Stadtwerke München
+- TOP 8.24.: Meldeliste Bauvorhaben
+- TOP 8.25.: Münchens Zukunft gestalten (Broschüre)
+- TOP 8.26.: Jahresbericht 2005 mit Jahresvorschau 2006 (Broschüre)
+- TOP 8.27.: Gleisbauarbeiten im Bereich Karlsplatz (Stachus Nord) / Prielmayerstraße vom 18.04.06 bis 31.05.06
+- TOP 4: Anträge
