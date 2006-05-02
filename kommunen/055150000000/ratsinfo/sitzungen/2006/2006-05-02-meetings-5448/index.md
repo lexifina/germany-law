@@ -1,0 +1,54 @@
+# 15. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-05-02T17:04:00+02:00
+- Ende: 2006-05-02T19:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5448
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5448
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00231432.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erford
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Bennohaus - Bericht des Leiters Dr. Musholt -
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Entscheidungen
+- TOP 5.1: Gewährung von Zuschüssen im Stadtbezirk Mitte 2006 - einstimmig geändert beschlossen
+- TOP 5.2: Wahl der stellvertretenden Schiedsperson für den Bezirk I Münster - Altstadt - einstimmig beschlossen
+- TOP 5.3: Prinz-Eugen-Straße - Wiederherstellung nach Kanalbau - vertagt
+- TOP 5.4: Vergabe von Zuschüssen zu privaten denkmalpflegerischen Maßnahmen - einstimmig geändert beschlossen
+- TOP 5.5: Mauritzschule, Gottfried-von-Cappenberg-Schule, Aegidii-Ludgeri-Schule, Overbergschule - einstimmig beschlossen
+- TOP 5.6: Bau der öffentlichen Einrichtung "Kreativkai", -Baubeschluss- - vertagt
+- TOP 6: Anhörungen
+- TOP 6.1: Errichtung/Widmung der öffentl. Einrichtung "Kreativkai" (Kom. Einrichtung i.S.v. § 8 bzw. § 41 GO) - einstimmig beschlossen
+- TOP 6.2: Landschaftsplan Roxeler Riedel - eingebracht
+- TOP 6.3: Optimierung der Radverkehrsführung am Ludgeriplatz - Abschlußbericht der Verwaltung - einstimmig beschlossen
+- TOP 6.4: Fortführung des Projektes "Von Mensch zu Mensch" der Stiftung Magdalenenhospital - einstimmig beschlossen
+- TOP 6.5: Städt. Bühnen Münster - Fenstererneuerung Zuschauertreppenhaus Großes Haus - einstimmig beschlossen
+- TOP 6.6: Wilhelmstraße - einstimmig beschlossen
+- TOP 6.7: Kanalsanierung Am Alten Schützenhof / Hammer Str. 145 a - d - einstimmig beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Aufhebung des Bebauungsplanes Nr. 452: Tiefgarage Ludgeriplatz 2. Änderung Naturdenkmalverordnung - zur Kenntnis genommen
+- TOP 7.2: Aufhebung des Bebauungsplanes Nr. 242: Eisenbahnstraße / Friedrichstraße - zur Kenntnis genommen
+- TOP 7.3: Bebauungsplan Nr. 479: Grevener Straße / Friesenring / Martin-Luther-Straße / Melchersstraße - zur Kenntnis genommen
+- TOP 7.4: Bebauungsplan Nr. 480: Steinfurter Straße / Melchersstraße / Nordstraße / Promenade - zur Kenntnis genommen
+- TOP 7.5: Bebauungsplanes Nr. 481: Cheruskerring / Kanalstraße / Promenade / Nordstraße / Wichernstraße - zur Kenntnis genommen
+- TOP 7.6: Vorhabenbezogener Bebauungsplan Nr. 501 - Kenntnisnahme des Entwurfes - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Lärmschutz im Zuge des Ausbaus der Umgehungsstraße - zur Kenntnis genommen
+- TOP 8.2: Fahrradweg an der Rosenstraße wieder herstellen - eingebracht
+- TOP 8.3: Kinderbriefkasten vor dem Stadthaus 1 - eingebracht
+- TOP 8.4: Nächtliche Sperrung der Ostmarkstraße für den LKW-Verkehr - eingebracht
+- TOP 8.5: Behindertenrampe auf dem Platz des Westfälischen Friedens zur Chilida-Plastik - eingebracht
+- TOP 8.6: Maßnahmen gegen Riesenbärenklau - eingebracht
+- TOP 8.7: Zukünftige Nutzung des ehemaligen Betriebsgeländes der Fa. Caspar Hessel an der Straße Am Hawerkamp - zur Kenntnis genommen
+- TOP 9: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 9.1: Ausschilderung des Zentralfriedhofes - zur Kenntnis genommen
+- TOP 10: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 11: Verschiedenes
