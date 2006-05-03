@@ -1,0 +1,6 @@
+# TOP 6.: Gewässerentwicklungsprojekt Weser-Werre-Else: Umsetzung von Maßnahmen aus Konzepten (mündlicher Bericht)
+
+- Sitzung: AUP (2006-05-03)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/22604
