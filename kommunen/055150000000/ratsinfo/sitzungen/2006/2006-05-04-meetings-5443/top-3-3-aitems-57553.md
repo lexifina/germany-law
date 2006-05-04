@@ -1,0 +1,8 @@
+# TOP 3.3: Fortführung des Projektes "Von Mensch zu Mensch" der Stiftung Magdalenenhospital
+
+- Sitzung: 15. Sitzung (2006-05-04)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/57553
+- Ergebnis: einstimmig geändert beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/33286
