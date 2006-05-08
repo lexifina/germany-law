@@ -1,0 +1,70 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2006-05-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/883110
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/883110
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.1: Geroldseckstr. 24, 1 Fichte, 1 Hainbuche
+- TOP 3.1.2: Neufriedenheimer Str. 4, 1 Fichte
+- TOP 3.1.3: Stiftsbogen 15, 6 Kiefern
+- TOP 3.1.4: Heiglhofstr. 63, 1 Birke, 1 Lärche
+- TOP 3.1.5: Heiglhofstr. 21, 1 Douglasie, 1 Lärche
+- TOP 3.1.6: Drozzaweg 7, 1 Kiefer
+- TOP 3.1.7: Am Kornacker 20, 1 Fichte
+- TOP 3.1.8: Am Heidebruch 5 + 7, 4 Fichten
+- TOP 3.1.9: Ehrenpreisstr. 13, 3 Tannen
+- TOP 3.1.10: Platanenstr. 9, 1 Eberesche, 2 Birken, 1 Nelkenkirsche
+- TOP 3.1.11: Am Waldrand 34, 1 Kiefer
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4: Ausschussberichte
+- TOP 5: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 6: Entscheidungsfälle
+- TOP 7: Unterrichtungsfälle
+- TOP 7.1.: Einrichtung eines eingeschränkten Haltverbotes in der Prälat-Wellenhofer-Straße (KVR, 23.02.2006)
+- TOP 7.2.: Aufhebung des Linksabbiegeverbotes und Einrichtung einer Linksabbiegespur in der Würmtalstraße in Höhe Butenandtstraße (KVR, 28.03.2006)
+- TOP 7.3.: Instandsetzung der Straßenbrücke im Zuge der Abfahrt von der B 2 neu über die Boschetsrieder Straße zur Boschetsrieder und Fürstenrieder Straße im 7., 19. und 20. Stadtbezirk; Beschluß (Baureferat, 19.04.2006)
+- TOP 8: Anhörungsfälle
+- TOP 8.1.: Neubau eines Autofahrer-Fachmarktes, Würmtalstr. 2b (Referat für Stadtplanung und Bauordnung, 04.04.2006)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Städtebauliches Erscheinungsbild am Haderner Stern, BV-Empfehlung Nr. 193; Nutzungsänderung der Stadtsparkasse (Referat für Stadtplanung und Bauordnung, 20.03.2006)
+- TOP 9.2.: Wettbüro an der Ecke Kleinhaderner Str. / Senftenauer Str. (KVR, 04.04.2006)
+- TOP 9.3.: Einhaltung der Tempo 30 in der Kornwegerstraße (KVR, 04.04.2006)
+- TOP 9.4.: Wege in der neuen Wohanlage am Max-Lebsche-Platz (Baureferat, 04.04.2006)
+- TOP 9.5.: Bezirkssportanlage am Hedernfeld (Schul- und Kultusreferat, 06.04.2006)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Aufstellung eines Geldautomatens der CASH-Group im Einkaufszentrum Haderner Stern in München (Dresdner Bank, 28.03.2006; HypoVereinsbank, 03.04.2006)
+- TOP 10.2.: Kostenaufstellung Streitschlichterhäuschen für die Grundschule am Canisiusplatz (Elternbeirat der Grundschule am Canisiusplatz, 03.04.2006)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Tag des offenen Denkmals in Bayern am 09.09.2006 "Rasen, Rosen und Rabatten - historische Gärten und Parks" (Bayerisches Landesamt für Denkmalpflege, 10.04.2006)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.1.1: am 15.03.2006 Perspektive München, Leitprojekt Verkehrsentwicklungsplan 2005; a) Ergebnis der Öffentlichkeitsbeteiligung, b) Ergebnisse und Entscheidungsvorschlag, c) Anträge
+- TOP 12.1.2: am 15.03.2006 Fassadenwettbewerb der Landeshauptstadt München, hier; Erweiterung der ehrenamtlichen Gutachterkommission um eine Vertreterin / einen Vertreter der Dachdecker -Innung München-Oberbayern
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
+- TOP 12.1.1: Beschluss des Stadtentwässerungsausschusses vom 28.03.2006 Nymphenburger Kanal, Abwassergebühren
+- TOP 12.1.2: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2006 Kleintierfriedhof in München
+- TOP 12.1.3: Beschluss des Bauausschusses vom 28.03.2006 Fahrradgerechter Einbau von Gullydeckeln
+- TOP 12.1.1: Beschluss des Bauausschusses vom 27.04.2006 Offensive für den Radverkehr V -mehr Fahrradabstellflächen im Straßenraum schaffen- -Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen-
+- TOP 12.1.2: Beschluss des Schulausschusses vom 26.04.2006 Realisierungswettbewerb Neubau von 5 Kindertageseinrichtungen in Systembauweise Auslobungstext
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.1: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.03.2006 Sonder- Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006
+- TOP 12.1.1: Bekanntgabe
+- TOP 12.1.2: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.04.2006 Wohnen in München, III a) Erfahrungsbericht für das Jahr 2005 b) Ergänzungen des Erfahrungserichts c) Modifizierungen zum Wohnungspolitischen Handlungsprogramm "Wohnen in München, III"
+- TOP 12.1.3: Bekanntgabe in der Sitzung des Bauausschusses vom 28.03.2006 Parkplatzbewirtschaftung und Unterhalt von Erholungsgebieten mit Bademöglichkeiten
+- TOP 13: Nichtöffentliche Sitzung
