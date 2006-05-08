@@ -1,0 +1,73 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2006-05-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/817510
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/817510
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Zwangs-Umzüge von Seniorinnen und Senioren - <div>Zur Kenntnis genommen</div>
+- TOP 3.2.: Einführung eines "MVV-Sozialtickets" für Sozialhilfeempfänger - <div>Zustimmung, einstimmig</div>
+- TOP 3.3.: REGSAM-Jahresbericht 2005 - <div>bekannt geben</div>
+- TOP 4.: Schulreferat
+- TOP 4.1.: Aktueller Sachstand Erweiterung Grundschule Plinganserstraße 28, Kindertageseinrichtung Meindstraße 8; Nachnutzung des Oktoberfestbauhofes - <div>Zur Kenntnis genommen</div>
+- TOP 4.2.: Sportanlage Wackersberger Str. 49; Großinstandsetzung des Kunstrasenplatzes
+- TOP 5.1.: Freischankfläche Gaststätte "Trattoria Bussone", Thalkirchner Straße 126
+- TOP 5.2.: Freischankfläche am "Lotto Toto", Fallstraße 9
+- TOP 5.3.: Freischankfläche Gaststätte "Asya", Oberländerstraße 3b
+- TOP 5.4.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Gehwegparken in der Aberlestraße am Minimalmarkt - <div>Zur Kenntnis genommen</div>
+- TOP 6.2.: Fußgängerüberweg Lindenschmitstraße in Höhe der Danklstraße
+- TOP 6.3.: Stadtteilwoche Sendling; Festumzug am 01.07.2006
+- TOP 6.4.: Stadtmeisterschaften im Sportklettern; DAV-Kletterzentrum
+- TOP 6.5.: Alternative zum Transrapid; Bürgerversammlung im Löwenbräukeller am 05.05.2006
+- TOP 6.6.: Tag der offenen Tür des Münchner Pflege Teams, Wackersbergerstraße 8
+- TOP 6.7.: Verkehrssituation Plinganserstraße / Dudenstraße
+- TOP 7.1.: Budgetantrag Tanztheatergruppe "Hausgemacht"; ? 4.143,96
+- TOP 7.2.: Kürzung des BA-Budgets im Rahmen der Haushaltskonsolidierung
+- TOP 7.3.: Budgetantrag Sendlinger Kulturschmiede; Straßenfest am 29.07.06, ? 1900,-
+- TOP 7.4.: Budgetantrag Historische Gruppe Schmied von Kochel; Fackelzug am 24.12.06, ? 400,-
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Thalkirchner Straße 146
+- TOP 8.3.: Bauvorhaben Karwendelstraße 11
+- TOP 8.4.: Bauvorhaben Gotzinger Straße 56
+- TOP 8.5.: Moschee in Sendling - Vorstellung des Ergebnisses im Stadtrat
+- TOP 8.6.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 8.7.: Wohnen in München III
+- TOP 8.8.: Regionalgespräch zwischen der Lokalbaukommission und den BAs 2006
+- TOP 9.: Baureferat
+- TOP 9.1.: Baustelleneinrichtung auf dem Margaretenplatz; Erteilung einer Ausnahmebewilligung
+- TOP 9.2.: Umgestaltung der Albert-Roßhaupter-Straße
+- TOP 9.3.: Einführung einer Kreisverkehrsregelung am Harras
+- TOP 9.4.: Instandsetzung der Auffahrt der Straßenbrücke über die Brudermühlstraße zur Plinganserstraße
+- TOP 9.5.: Schaffung von mehr Fahrradabstellflächen im Straßenraum
+- TOP 9.6.: Frostschäden auf Münchner Straßen
+- TOP 9.7.: Isar-Plan
+- TOP 9.8.: Veranstaltung auf dem Valleyplatz; Sommercafe
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen Bauvorhaben Maronstraße
+- TOP 10.2.: Baumfällung Flößergasse 11a
+- TOP 10.3.: Fällung von Gefahrenbäumen
+- TOP 10.4.: Baumfällungen Greinerberg 17
+- TOP 10.5.: Baumpflanzungen auf dem Mittelstreifen der Plinganserstraße
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 12.1.: Harras-Neugestaltung - <div>Zustimmung, einstimmig</div>
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Barrierefreie Zugänglichkeit bei BA-Sitzungen bzw. Abstellmöglichkeiten für Fahrräder; Sitzungsraum des BA 6 im Gebäude Implerstraße 9
+- TOP 13.2.: Friedhof Sendling; Neufassung der Friedhofssatzung
+- TOP 13.3.: München zeigt Flagge
+- TOP 13.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
