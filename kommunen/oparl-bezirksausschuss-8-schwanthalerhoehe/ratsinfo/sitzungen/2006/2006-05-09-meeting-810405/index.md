@@ -1,0 +1,97 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2006-05-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/810405
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/810405
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Antrag für Sozialticket
+- TOP 3.2.: Nachtrag Veranstaltungen auf der Theresienwiese
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Errichtung einer Fußgängerampel in der Heimeranstraße; Höhe Feuerwache Empfehlung Nr. 153 der BV des BA 8 vom 07.07.05 Erneute Behandlung aus 04/06
+- TOP 5: Anhörungen
+- TOP 5.1.: Bestuhlungsantrag Heimeranstr. 39
+- TOP 5.2.: Bestuhlungsantrag Westendstr. 134
+- TOP 5.3.: Bestuhlungsantrag Heimeranstr. 49
+- TOP 5.4.: Bestuhlungsantrag Ganghoferstr. 29
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1.: Bericht UA Budget und Finanzen Kürzung von freiwilligen Leistungen der LH München im Rahmen der Haushaltskonsilidierung Budget der BAs
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Regionalgespräche zwischen LBK und den BAs
+- TOP 6.1.2.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Das Schulreferat trifft die BAs
+- TOP 6.2.2.: Nachtrag Ansprechpartner/in für den Behindertenbeauftragten im BA
+- TOP 6.2.3.: Verbot der Zweckentfremdung von Wohnraum Tulbeckstraße
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.3.1.: Nachtrag Infobrief Ausländerbeirat April 2006
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Neubau einer Lichtzeichenanlage am Alten Messeplatz/Kazmairstraße
+- TOP 6.4.2.: Poller Schreiben vom 20.03.06
+- TOP 7: Erledigungen
+- TOP 7.1.: Westendstr. 160 Notstrom-Dieselanlage
+- TOP 7.2.: KVR - Holzapfel-/Westendstraße Fernwärme
+- TOP 7.3.: Verkehrsrechtliche Anordnung Trappentreustr. 43/45 Feuerwehranfahrtszone
+- TOP 7.4.: Bedarfsampel Landsberger Str. Höhe HausNr. 150;Verkürzung des Intervalls Empfehlung Nr. 02-08 /E00152 der BV des BA 8 vom 07.07.05
+- TOP 7.5.: Straßenfest der WASG Westend Vorabstellungnahme des Vorsitzenden
+- TOP 7.6.: Verkehrsrechtliche Anordnung Landsberger Straße; Verlegung der RVO-Haltestelle
+- TOP 7.7.: Verkehrsrechtliche Anordnung nach §45 StVO Einrichtung eines personenbezogenen Behindertenparkplatzes in der Tulbeckstr. 5
+- TOP 7.8.: Verkehrsrechtliche Anordnung nach §45 StVO Schrenkstraße; Haltverbotsverlängerung
+- TOP 7.9.: Radwege-Martin-Greif-Straße
+- TOP 7.10.: Vorschläge für den Kreuzungsbereich Gollierstraße/Ligsalzstraße 02/06 - T 3.1
+- TOP 7.10.1: Nachtrag Vorschläge Kreuzungsbereich Gollierstr./Ligsalzstr. 02/06 - T 3.1 Freischankfläche Ligsalzstr. 23
+- TOP 7.11.: Münchner BladeNight 2006 Erlaubnisbescheid
+- TOP 7.12.: Nachtrag Zusätzliche Sozialarbeiter und Streetworker für das Westend Empfehlung Nr. 02(08 - E 00163 der BV des BA 8 vom 07.07.05
+- TOP 7.13.: Hunde im Bavariapark, Bauablauf Schulweg 04/06 T 3
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Baumaßnahmen der SWM Stichtag 03.04.06
+- TOP 9.2.: Meldeliste vom 27.03.06 - 02.04.06 Erstantragsverfahren a) Theresienhöhe 15
+- TOP 9.3.: Meldeliste 27.03.06 - 02.04.06 Änderungsverfahren a) Theresienhöhe 5c
+- TOP 9.4.: Meldeliste03.04.06 - 09.04.06 Abbruchanzeigen a) Landsberger Str. 79
+- TOP 9.5.: Bauvorhaben SWM Stichtag: 10.04.06
+- TOP 9.6.: Baumaßnahmen der SWM Stichtag 17.04.06
+- TOP 9.7.: Meldeliste 10.04.06 - 16.04.06 Erstantragsverfahren a) Westendstr. 78
+- TOP 9.8.: Meldeliste 10.04.06 - 16.04.06 Änderungsverfahren a) Gollierstr. 30
+- TOP 9.9.: Meldeliste vom 17.04.06 - 23.04.06 Erstantragsverfahren a) Schießstättstr. 28
+- TOP 9.10.: Meldeliste vom 17.04.06 - 23.04.06 Änderungsverfahren a) Theresienhöhe 13
+- TOP 9.11.: Baumaßnahmen der SWM Stichtag 24.04.06
+- TOP 9.12.: Nachtrag Meldeliste 24.04.06 - 30.04.06 Erstantragsverfahren a) Parkstr. 21
+- TOP 9.13.: Baumaßnahmen der SWM Stichtag 28.04.06
+- TOP 10: Verschiedenes
+- TOP 10.1.: Offenlegung städtebaulicher Verträge Schreiben BA 3
+- TOP 10.2.: Erweiterung und Ausbau der BA-Rechte Schreiben BA 3
+- TOP 10.3.: Bürgerversammlung des 8. Stadtbezirkes am 01.06.06 mit Multimediapräsentation
+- TOP 10.4.: Münchner Sommerspielaktion Seifenkistl am Alten Messegelände Freitag, 19.05. - Sonntag, 21.05.2006 14.00 - 18.00 uhr
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Schriftverkehr 04/06
+- TOP 11.2.: Protokoll 04/06
+- TOP 11.3.: KVR - Festzug zum Münchner Frühlingsfest am 21.04.06
+- TOP 11.4.: Streikmaßnahme der Gewerkschaft der Polizei - Landesbezirk Bayern
+- TOP 11.5.: BauR - Flohmärkte am Georg-Freundorfer-Platz der Hausgemeinschaft Sandtnerhof Genehmigungsbescheid
+- TOP 11.6.: BauRef - Kulturdult Schwanthalerhöh´ 2006 Erlaubnisbescheid
+- TOP 11.7.: Gewaltvideos auf Handys - eine Herausforderung für Pädagogik und Jugendmedienschutz
+- TOP 11.8.: Beschluss der Vollversammlung des Stadtrates vom 15.03.06 PERSPEKTIVE MÜNCHEN Leitprojekt Verkehrsentwicklungsplan 2005
+- TOP 11.9.: Hinweis/ Ergänzung zum Beschluss der Vollversammlung des Stadtrates vom 05.04.06 Schieneinfrastruktur und städtebauliche Entwicklung im Münchner Nordosten
+- TOP 11.10.: Beschluss des Bauausschusses vom 28.03.06 (SB) Fahrradgerechter Einbau von Gullydeckeln Empfehlung Nr. 02-08/E00247 des BA 2
+- TOP 11.11.: Beschluss des Bauausschusses vom 27.04.06 (SB) Offensive für den Radverkehr V - Mehr FAhrradhabstellflächen im Straßenraum schaffen - Fahrradabstellung auf und um den Marienplatz
+- TOP 11.12.: Beschluss des Bauausschusses vom 27.04.06 (SB) und (VB) Frostschäden auf Münchner Straßen
+- TOP 11.13.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.04.06 Wohnen in München III a) Erfahrungsbericht 2005 b) Ergänzungen Erfahrungsbericht c) Modifizierungen zum Wohnungspolitischen Handlungsprogramm "Wohnen in München, III"
+- TOP 11.14.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsausschusses vom 26.04.06 (VB) Parkraummanagement in München - Festlegung der 1. Priorität
+- TOP 11.15.: Standpunkte 5/2006 Münchner Forum Bei Interesse kann die Information in der GS angefordert werden.
+- TOP 11.16.: Jahresbericht REGSAM 2005 Auszug Schwanthalerhöhe Bei Interesse kann der gesamte Bericht in der GS angefordert werden.
+- TOP 11.17.: Nachtrag WirtschaftsInfo 04/2006 Bei Interesse kann die Information in der GS angefordert werden.
+- TOP 11.18.: Münchner Statistik I / 2006
+- TOP 11.19.: Hinweis/Ergänzung zum Beschluss der Vollversammlung des Stadtrates am 05.04.06 Schieneninfrastruktur und städtebauliche Entwicklung in Münchner Nordosten
+- TOP 11.20.: Zuschussnehmerdatei 2006 ?Förderung freier Träger? des Amtes für Wohnen und Migration Beschluss vom 21.03.06 (SB)
+- TOP 11.21.: Zuschussnehmerdatei 2006; ?Kooperation mit freien Trägern? des Sozialreferates/ Zentrale Beschluss vom 21.03.06 (SB)
