@@ -1,0 +1,60 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2006-05-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/792248
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/792248
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 2: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: Rad- und Fußgängerunterführung Karl-Gayer-Straße (Empfehlung Nr. 02-08 / E 00210 der Bürgerversammlung vom 18.10.05), Bahnübergang im Zusammenhang mit dem Neubau der Karl-Gayer-Unterführung (Antrag Nr. 02-08 / B 00416 vom 27.06.05)
+- TOP 4.2.: Zuschuss aus dem Budget in Höhe von 4.000 Euro für Kunsttherapieprojekt für traumatisierte Flüchtlinge; Antragsteller: Refugio München
+- TOP 5: Anhörungen
+- TOP 5.1.: Motorradplätze im Bereich Bauschingerstraße
+- TOP 5.2.: Boden- und Bauschutt Recycling-Anlagen und Bodenbörsen in München
+- TOP 5.3.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 6: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8: Schreiben des Direktoriums
+- TOP 8.1.: Kürzungen von freiwilligen Leistungen der LH München im Rahmen der Haushaltskonsolidierung - Budget für Bezirksausschüsse
+- TOP 8.2.: Zuwendungsbewilligung aus dem Budget; Antragsteller BRK Wasserwacht, Ortsgruppe München - West
+- TOP 9: Schreiben des Baureferates
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO a) Theodor-Fischer-Str. 78, s. Baumbestandsplan Nr. 2006-5445 b) Pasteurstr. 41, s. Baumbestandsplan Nr. 2006-3376 c) Hortigstr. 12, s. Baumbestandsplan Nr. 2006-3946 d) Ganzenmüllerstr. 33, s. Baumbestandsplan Nr. 2006-11851 e) Waldhornstr. 17a, 7 Briken und 1 Lärche f) Weinschenkstr. 4, 1 Föhre g) Pringsheimstr. 2d, 1 Fichte h) Bergetstr. 17a, 1 Spitzahorn i) Haldenbergerstr. 47, 3 Birken j) Behringstr. 89, 1 Tanne
+- TOP 11.2.: Bauanträge (v. 03.04.-09.0.4, 10.04.-16.04., 17.04.-23.04.06)
+- TOP 11.3.: Regionalgespräche zwischen Lokalbaukommission und den Bezirksausschüssen
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: 4 FC-Bewegungsinseln, Bewertung nach 18. BImSchV
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Kommunales Wohnungsbauförderungsprogramm - KomPro B, Ausschreibung von Grundstücken, hier: Pasteur-/Schöllstraße
+- TOP 14.2.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Ganzenmüllerstraße
+- TOP 14.3.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Riederstraße
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Asphaltmischanlage Paul-Ehrlich-Weg 130; Kontigentierung des nächtlichen Auslieferverkehrs auf 20 Nächte (Verlängerung der Befristung um 2 Jahre)
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 3 Maxvorstadt: Erweiterung und Ausbau der BA-Rechte
+- TOP 20.2.: BA 21 Pasing-Obermenzing: Errichtung eines überdachten Wartehäuschens an der Bushaltestelle Kunstmannstraße (stadteinwärts)
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Liste der Baumaßnahmen
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 21.03.06: - Zuschussnehmerdatei 2006, Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration - Zuschussnehmerdatei 2006, Vollzug des Haushaltsplanes 2006 für Bereicht " Kooperation mit freien Trägern" des Sozialreferates/Zentrale
+- TOP 22.2.: Ausschuss für Stadtplanung und Bauordnung vom 26.04.06: - Wohnen in München III, a) Erfahrungsbericht für das Jahr 2005, c) Ergänzungen des Erfahrungsberichts, c) Modifizierungen zum Wohnungspolitischen Handlungsprogramm "Wohnen in München, III"
+- TOP 22.3.: Bauausschuss vom 27.04.06: - Frostschäden auf Münchner Straßen - Offensive für den Radverkehr V - mehr Fahrradabstellflächen im Straßenraum schaffen -, Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen
+- TOP 23: Verschiedenes
