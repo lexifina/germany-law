@@ -1,0 +1,69 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2006-05-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/805092
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/805092
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem Verfügungsfond Soziale Stadt: Förderung der Messe für Bürgerinnen und Bürger - "(Über-)Leben mit Hartz IV"
+- TOP 2.2.: Gewährung eines Zuschusses aus dem Verfügungsfond Soziale Stadt: Förderung der zweiten Nacht des Lesens am Hasenbergl
+- TOP 2.3.: Gewährung eines Zuschusses aus dem Verfügungsfond Soziale Stadt: Förderung der zweiten Ausgabe des Veranstaltungskalender Hasenbergl
+- TOP 2.4.: Gewährung eines Zuschusses aus dem Verfügungsfond Soziale Stadt: Förderung der Veranstaltung "Wahl der Miss Hasenbergl" beim Bürgerfest am Hasenbergl
+- TOP 2.5.: Gewährung eines Zuschusses aus dem Verfügungsfond Soziale Stadt: Förderung der Veranstaltung "Internationalen Folkloreabend" beim Bürgerfest am Hasenbergl
+- TOP 2.6.: Gewährung eines Zuschusses aus dem Verfügungsfond Soziale Stadt: Förderung des Junioren-Fußballturniers am 15. und 16. Juli 2006 auf der Bezirkssportanlage Grohmannstr. 63
+- TOP 3: Anträge
+- TOP 3.1.: Halteverbot für Lkw´s Auf den Schrederwiesen im Bereich der Hausnummern 12 / 14 / 20 / 22
+- TOP 3.2.: Einrichtung einer Ausweichbucht für Großfahrzeuge in der Weitlstraße
+- TOP 3.3.: Ableitung des Lkw-Verkehrs über 7,5 t in Feldmoching über die Georg-Zech-Allee auf die Feldmochinger Straße
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Sommerfest am Goldschmiedplatz am 01. und 02.07.2006
+- TOP 5.2.: Tag des offenen Denkmals in Bayern am 09.09.2006 mit dem Schwerpunkt: "Rasen, Rosen und Rabatten - Historische Gärten und Parks"
+- TOP 5.3.: Vollzug der Baumschutzverordnung: a) 5 Kiefern Feldmochinger Str. 217 + 217a Fr. Meissner b) 1 Blautanne Gutmannstr. 2 Fr. Meissner c) 2 Kiefern Himmerlschlüsselstr. 40 Hr. Kexel d) 2 Ahorn Josef-Frankl-Str. 35 Hr. Pabst e) 3 Bäume Köhlröschenstr. 49 + 51 Fr. Meissner f) mehrere Bäume Lassallestr. 51 Hr. Kexel g) 1 Kiefer Leberblümchenstr. 12 Hr. Kexel h) 4 Bäume Lerchenstr. 93 Hr. Pabst i) 1 Fichte Schneeglöckchenstr. 93 Fr. Meissner j) 3 Birken Skabiosenstr. 2 Fr. Meissner k) mehrere Bäume Waldmeisterstr. 84 Fr. Rieke
+- TOP 5.4.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Regionalgespräche zwischen Lokalbaukommission und den Bezirksausschüssen
+- TOP 6.2.: Kürzungen von freiwilligen Leistungen der Landeshauptstadt München im Rahmen der Haushaltskonsolidierung - Budget für Bezirksausschüsse
+- TOP 6.3.: Errichtungserlaubnis für ein Wegekreuz an der Pfarrer-Himmler-Straße (BA-Antrag-Nr. 869 des BA 24 vom 10.01.2006)
+- TOP 6.4.: Herstellung der Pfarrer-Himmler-Straße (BA-Antrag-Nr. 868 vom 10.01.2006)
+- TOP 6.5.: Busverbindung Fasanerie Nord (BA-Antrag-Nr. 996 vom 07.03.2006)
+- TOP 6.6.: Buswartehäuschen in der Lerchenau (BA-Antrag-Nr. 867 vom 10.01.2006)
+- TOP 6.7.: Vergabe eines unbebauten Grundstücks an der Waldmeisterstraße (Flst. 1070/100, 1064/266, 1070/99, Gemarkung Feldmoching)
+- TOP 6.8.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Kienestraße vor dem Anwesen Haus Nr. 29
+- TOP 6.9.: Baumaßnahmen der Stadtwerke
+- TOP 6.10.: Meldelisten Bauvorhaben
+- TOP 6.11.: Radl-Sternfahrt gegen den Transrapid am 21.05.2006
+- TOP 6.12.: Beseitung von Gefahrenbäumen
+- TOP 6.13.: Baumfällungen: Abweichender Bescheid zur BA-Entscheidung a) Feldmochinger Str. 353
+- TOP 6.14.: Zweckentfremdung von Wohnraum
+- TOP 6.15.: Baustellenzufahrt in der Stösserstraße in der Zeit vom 03.04. bis 31.05.2006
+- TOP 6.16.: Bauträgerauswahl für die Baugrundstücke des kommunalen Wohnungsbauprogramms - NICHT ÖFFENTLICH ZU BEHANDELN -
+- TOP 6.17.: Errichtung einer 2-gruppigen Kindertagesstätte an der Paul-Preuß-Straße
+- TOP 6.18.: Parkplatzbewirtschaftung und Unterhalt von Erholungsgebieten mit Bademöglichkeiten
+- TOP 6.19.: Änderung des Flächennutzungsplanes mit integrierter Landschaftplanung Bereich V/30 Paul-Preuß-Straße (nördlich) Bahnlinie München-Regensburg (westlich)
+- TOP 6.20.: Schieneninfrastruktur und städtebauliche Entwicklung im Münchner Nordosten
+- TOP 6.21.: Frostschäden auf Münchner Straßen
+- TOP 6.22.: Offensive für den Radverkehr V - mehr Fahrradabstellflächen im Straßenraum schaffen -
+- TOP 6.23.: Wettbewerb "Denkmalschutz und Neues Bauen" 2005; Prämierung von Wettbewerbsbeiträgen
+- TOP 6.24.: Wohnen in München, III a) Erfahrungsbericht für das Jahr 2005 b) Ergänzungen des Erfahrungsberichts c) Modifizierungen zum Wohnungspolitischen Handlungsprogramm
+- TOP 6.25.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1972 Schleißheimer Straße (östlich), Sandbienenweg (beiderseits) (Teiländerung der Bebbaungsplanes mit Grünordnung Nr. 1779 d)
+- TOP 6.26.: Änderung des Flächennutzungsplanes mit integrieter Landschaftsplanung für den Bereich V/32 Schleißheimer Straße (östlich), Sandbienenweg (beiderseits)
+- TOP 6.27.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1890 Paul-Preuß-Straße (nördlich), Hochmuttinger Straße (südlich), Bahnlinie München - Regensburg (westlich)
+- TOP 6.28.: Erweiterung und Ausbau der BA-Rechte (Schreiben des BA 1)
+- TOP 6.29.: Erweiterung und Ausbau der BA-Rechte (Schreiben des BA 3)
+- TOP 6.30.: Fragebögen zu REGSAM (Schreiben des BA 3)
+- TOP 6.31.: Offenlegung städtebaulicher Verträge (Schreiben des BA 3)
+- TOP 7: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2.: Unterausschuss Jugend, Soziales, Schule und Kultur
+- TOP 7.3.: 1. Stadtteilversammlung am Hasenbergl
+- TOP 8: Verschiedenes
