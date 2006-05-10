@@ -1,0 +1,74 @@
+# 50. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2006-05-10T17:05:00+02:00
+- Ende: 2006-05-10T22:05:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1122
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1122
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=31551
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - beantwortet
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Beratung der nicht behandelten Tagesordnungspunkte aus der 49. Sitzung vom 05.04.2006 - (offen)
+- TOP 4: Konsensliste - beantwortet
+- TOP 5: Beratung der zurückgestellten Drucksache Nr. 1328/XVII aus der 46. Sitzung der BVV am 11.01.2006 Ersuchen der Fraktion Bündnis 90/Die Grünen betr. Straßenausbaubeitragsgesetz im Bezirk Reinickendorf (Drucksache wurde bereits versandt) - überwiesen
+- TOP 6: Mündliche Anfragen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Unleserliche Straßenschilder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Schulbaumaßnahmen (IZBB) in Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2.1: Schulbaumaßnahmen (IZBB) in Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Keine Militanten in Reinickendorf! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Schulreinigung im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Optimierung der Schnellbuslinie X 33 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Haltestelle Humboldt-Krankenhaus - überwiesen
+- TOP 7.7: Takt der Buslinie A 124 verkürzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Job Center - Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Radfahrwege im Winter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Zwei Klassen bei der Berufsberatung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Freihalten von Schwerbehindertenparkplätzen besser überwachen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Angebotserweiterung des Berliner Familien- und Freizeitpasses - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12.1: Angebotserweiterung des Berliner Familien- und Freizeitpasses - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Personalzuschläge bei Sprachförderbedarf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Erlass der Verordnung über die Festsetzung des Bebauungsplanes 12-1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-197 für die Grundstücke Straße 494 Nr. 7 - 61 und Alter Bernauer Heerweg 46/56 (Siedlung Bürgersruh), die Straße 494 und für einen Abschnitt des Alten Bernauer Heerweges im Bezirk Reinickendorf, Ortsteil Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-232 für das Grundstück Quickborner Straße 121 (Kleingartenkolonie Neu-Lübars) im Bezirk Reinickendorf, Ortsteil Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-244 für die Grundstücke Markendorfer Straße 15/21 sowie einen Abschnitt des Markendorfer Straße im Bezirk Reinickendorf, Ortsteil Märkisches Viertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Tätigkeitsbericht der Frauenbeauftragten vom 01. Dezember 2004 bis 31. Januar 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Senat missachtet Sicherheitsbedürfnis der Reinickendorfer Bevölkerung - beantwortet
+- TOP 8.2: Möglichkeiten des Private Public Partnership in Reinickendorf - vertagt
+- TOP 8.3: Kooperationen zwischen Schule und Wirtschaft - vertagt
+- TOP 8.4: Graffiti - Reinickendorf muss sauber bleiben - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Hauswarte im Märkischen Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Wohnungsvermietung wieder in die Hände der GESOBAU! - erledigt
+- TOP 10.3: Tagsüber Aufsicht auf S-Bahnhof Wittenau bzw. Schalterpersonal auf den Bahnsteigen in Frohnau und Wittenau - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Haltestelle an der Wendeschleife Neheimer Straße Ecke Namslaustraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Personalmittel für Schuldnerberatung verstärken - erledigt
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Bau einer Moschee im Bezirk Pankow der Ahmadiyya-Gemeinde - vertagt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Parkplatzsituation in Tegel prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: MAE-Kriterien im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Radwegekonzept für den Bezirk Reinickendorf - vertagt
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Umweltfreundliche Wasserstoffbusse nach Reinickendorf - überwiesen
+- TOP 13.2: Feinstaubmessungen - überwiesen
+- TOP 13.3: Benachteiligung der gebundenen Ganztagsschulen beenden - überwiesen
+- TOP 14: Hauptschulen als Verlierer - beantwortet
+- TOP 14.1: Klassenfrequenzen an den Hauptschulen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Kleine Klassenfrequenzen in den Hauptschulen - gegenstandslos
+- TOP 16: Umsetzung des Rundschreibens der Senatsverwaltung II Nr. 14/2006 zur Erteilung der Bescheide zur ergänzenden Betreuung an Schulen - vertagt
+- TOP 17: Umweltpreis retten! - beantwortet
+- TOP 18: Reinickendorfer Umweltpreis - mit Änderungen in der BVV beschlossen
+- TOP 19: Hochbegabung erkennen - ohne Änderungen in der BVV beschlossen
+- TOP 20: Schulbegleitung für Schulschwänzer - ohne Änderungen in der BVV beschlossen
+- TOP 21: Vermeidung geschichtlicher Verzerrung - Gedenkstätte Hohenschönhausen besuchen! - ohne Änderungen in der BVV beschlossen
+- TOP 22: Finanzausgleich für Druck- und Kopieraufwand in Schulen - ohne Änderungen in der BVV beschlossen
