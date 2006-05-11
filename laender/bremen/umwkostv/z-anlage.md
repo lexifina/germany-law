@@ -78,7 +78,7 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro |  |
 10.1.13 | Aussprechung von Verpflichtungen zur Rekultivierung nach § 36 Abs. 2 KrW-/AbfG |  | 30 bis 2.875 | 
 10.1.14 | Feststellung des Abschlusses der Stilllegung nach § 36 Abs. 3 KrW-/AbfG |  | 250 bis 1.150 | 
 10.1.15 | Feststellung des Abschlusses der Nachsorgephase nach § 36 Abs. 5 KrW-/AbfG |  | 115 bis 5.750 | 
-10.2 | Sonstige Maßnahmen nach dem KrW-/AbfG |  |  | 
+10.2 | Sonstige Maßnahmen nach demKrW-/AbfG |  |  | 
 10.2.1 | Übertragung von Aufgaben auf Dritte nach § 16 Abs. 2 KrW-/AbfG |  | 7 v. T. des Jahresumsatzes, mindestens 575 höchstens 5.750 | 
 10.2.2 | Übertragung von Erzeuger- und Besitzerpflichten nach § 17 Abs. 3 KrW-/AbfG |  | 7 v. T. des Jahresumsatzes, mindestens 575 höchstens 5.750 | 
 10.2.3 | Übertragung von Erzeuger- und Besitzerpflichten nach § 17 Abs. 4 KrW-/AbfG |  | 7 v. T. des Jahresumsatzes, mindestens 170 höchstens 1.150 | 
@@ -245,11 +245,11 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro |  |
 21.4 | Fristverlängerung zu 21.3 |  | 140 | 
 21.5 | Entnahme und Untersuchung einer Probe nach § 5 der 3. BImSchV |  | 57 | 
 21.6 | Entscheidung über die Anerkennung von Lehrgängen zur Vermittlung von Fachkunde für Immissionsschutzbeauftragte und Störfallbeauftragte (§ 7 Nr. 2 der 5. BImSchV) |  | je Lehrveranstaltung | 170 bis 345
-21.7 | Entscheidung über die Anerkennung einer Ausbildung als den Anforderungen in § 7Nr. 1 und § 8 Abs. 1 Nr. 1 der 5. BImSchV gleichwertig |  | 115 | 
+21.7 | Entscheidung über die Anerkennung einer Ausbildung als den Anforderungen in § 7 Nr. 1 und § 8 Abs. 1 Nr. 1 der 5. BImSchV gleichwertig |  | 115 | 
 21.8 | Bearbeitung von Anzeigen nach § 7 der Störfallverordnung - 12. BImSchV |  | 57 bis 1.725 | 
 21.9 | Prüfung eines Sicherheitsberichts nach § 13 der Störfallverordnung - 12. BImSchV |  | 57 bis 1.725 | 
 21.10 | Durchführung von Inspektionen nach § 16 der Störfallverordnung - 12. BImSchV |  | 230 bis 8.650 | 
-21.11 | Befreiung von der Pflicht zur Durchführung der erweiterten Pflichten nach § 18 Abs. 2der Störfallverordnung - 12. BImSchV |  | 90 bis 4.800 | 
+21.11 | Befreiung von der Pflicht zur Durchführung der erweiterten Pflichten nach § 18 Abs. 2 der Störfallverordnung - 12. BImSchV |  | 90 bis 4.800 | 
 21.12 | Bearbeitung von Störfallmeldungen nach § 19 der Störfallverordnung - 12. BImSchV |  | 57 bis 1.725 | 
 21.13 | Entscheidung über die Bekanntgabe einer Stelle nach § 26 Abs. 5 oder § 28 Abs. 1 der 13. BImSchV |  | 290 bis 1.150 | 
 21.14 | Fristverlängerung zu 21.13 |  | 290 | 
@@ -465,7 +465,7 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro |  |
 60.5 | Anordnung von Überwachungs- und Eigenkontrollmaßnahmen nach § 15 Abs. 2 BBodSchG |  | 58 bis 1.150 | 
 60.6 | Anordnung nach § 16 Abs. 1 BBodSchG |  | 58 bis 1.150 | 
 7 | Umweltinformationsrecht |  |  | 
-70 | Maßnahmen auf Grund des Umweltinformationsgesetzes für das Land Bremen (BremUIG) oder des Umwelthaftungsgesetzes (UmweltHG) |  |  | 
+70 | Maßnahmen auf Grund des Umweltinformationsgesetzes für das Land Bremen (BremUIG) oder des Umwelthaftungsgesetzes |  |  | 
 70.1 | Gewährung des Zugangs zu Umweltinformationen nach § 1 Abs. 2 BremUIG in Verbindung mit § 3 Abs. 1 und Abs. 2 Satz 1 des Umweltinformationsgesetzes des Bundes durch |  |  | 
 70.1.1 | mündliche oder einfache schriftliche oder elektronische Auskünfte oder auf sonstigem Wege (z.B. Akteneinsicht) bei geringfügigem Aufwand (bis 30 Minuten) | gebührenfrei |  | 
 70.1.2 | Erteilung einer schriftlichen oder elektronischen Auskunft | 10 bis 500 |  | 
@@ -488,22 +488,29 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro |  |
 8 | Energieaufsicht, Strompreise |  |  | 
 80 | Maßnahmen auf Grund des Gesetzes über die Elektrizitäts- und Gasversorgung (Energiewirtschaftsgesetz - EnWG) |  |  | 
 80.1 | Genehmigung nach § 3 Abs. 1 |  | 110 bis 8.250 | 
-80.2 | Bewilligung der Netzzugangsalternative nach § 7 Abs. 1 |  | 132 bis 4.400 | 
-80.3 | Genehmigung von Tarifen nach § 7 Abs. 3 |  | 550 bis 16.500 | 
-80.4 | Planfeststellungsverfahren für Energieanlagen nach § 11 a Abs. 1 Satz 1 einschließlich Umweltverträglichkeitsprüfung |  |  | 
+80.2 | Genehmigung der Entgelte für den Netzzugang nach § 23 a |  | 1.000 bis 50.000 | 
+80.3 | Anordnung der Abschöpfung des wirtschaftlichen Vorteils und Auferlegung der Zahlung des entsprechenden Geldbetrages gegenüber dem Unternehmen nach § 33 Abs. 1 |  | 2.500 bis 75.000 | 
+80.4 | Entscheidung über Einwände gegen Feststellungen nach § 36 Abs. 2 Satz 2 nach § 36 Abs. 2 Satz 3 |  | 110 bis 4.000 | 
+80.5 | Verpflichtung eine Zuwiderhandlung gegen § 30 Abs. 1 abzustellen nach § 30 Abs. 2 |  | 2.500 bis 180.000 | 
+80.6 | Ablehnung eines Antrages nach § 31 Abs. 2 |  | 50 bis 5.000 | 
+80.7 | Entscheidungen nach § 31 Abs. 3 |  | 500 bis 180.000 | 
+80.8 | Aufsichtsmaßnahmen nach § 65 |  | 500 bis 180.000 | 
+80.9 | Entscheidungen nach § 110 Abs. 4 |  | 500 bis 30.000 | 
+80.10 | Erteilung von beglaubigten Abschriften nach § 91 Abs. 1 Satz 1 Nr. 4 |  | 15 | 
+80.11 | Planfeststellungsverfahren für Energieanlagen nach § 11 a Abs. 1 Satz 1 einschließlich Umweltverträglichkeitsprüfung |  |  | 
  | bei Herstellungskosten von bis zu 500.000 Euro |  | 8.800 | 
  | mehr als 500.000 Euro bis zu 2,5 Mio. Euro |  | 8.800 zuzüglich 0,8 v. H. der 500.000 Euro übersteigenden Herstellungskosten | 
  | mehr als 2,5 Mio. Euro bis zu 7,5 Mio. Euro |  | 26.400 zuzüglich 0,4 v. H. der 2,5 Mio. Euro übersteigenden Herstellungskosten | 
  | mehr als 7,5 Mio. Euro bis zu 20 Mio. Euro |  | 48.400 zuzüglich 0,2 v. H. der 7,5 Mio. Euro übersteigenden Herstellungskosten | 
  | mehr als 20 Mio. Euro |  | 75.900 zuzüglich 0,1 v. H. der 20 Mio. Euro übersteigenden Herstellungskosten | 
-80.5 | Plangenehmigung von Energieanlagen nach § 11 a Abs. 1 Satz 2 |  | 50 v.H. der Gebühr nach 80.4 | 
- | Anmerkung zu 80.4 und 80.5: |  |  | 
- | Schließt das Planverfahren andere die Anlage betreffende behördliche Entscheidungen ein, so erhöht sich die Gebühr um die dafür vorgeschriebenen Gebühren. |  |  | 
-80.6 | Feststellung der Behörde nach § 11 a Abs. 1 Satz 3 |  | 220 bis 2.200 | 
-80.7 | Festsetzung der Entschädigung für unmittelbare Vermögensnachteile nach § 11 b Abs. 3 |  | 44 bis 440 | 
-80.8 | Feststellung nach § 12 Abs. 2 Satz 2 |  | 275 bis 8.470 | 
-80.9 | Verlangen und Prüfung des Nachweises nach § 16 Abs. 3 |  | 143 bis 2.860 | 
-80.10 | Anordnung von Maßnahmen nach § 18 Abs. 1 Satz 2 |  | 143 bis 4.290 | 
+80.12 | Plangenehmigung von Energieanlagen nach § 43 Abs. 1 Satz 2 |  | 50 v.H. der Gebühr nach 80.4 | 
+ | Anmerkung zu 80.11 und 80.12: |  |  | 
+ | Schließt das Planverfahren andere die Anlage betreffende behördliche Entscheidungen ein, so erhöht sich die Gebühr um die dafür vorgeschriebenen Gebühren.. |  |  | 
+80.13 | Feststellung der Behörde nach § 43 Abs. 1 Satz 3 |  | 220 bis 2.200 | 
+80.14 | Festsetzung der Entschädigung für unmittelbare Vermögensnachteile nach § 44 Abs. 3 Satz 2 |  | 44 bis 440 | 
+80.15 | Feststellung nach § 45 Abs. 2 Satz 2 |  | 275 bis 8.470 | 
+80.16 | Verlangen und Prüfung des Nachweises nach § 49 Abs. 3 |  | 143 bis 2.860 | 
+80.17 | Anordnung von Maßnahmen nach § 49 Abs. 5 |  | 143 bis 4.290 | 
 81 | Maßnahmen auf Grund des Bremischen Energiegesetzes |  |  | 
 81.1 | Genehmigung nach § 19 BremEG |  | 110 bis 550 | 
 82 | Maßnahmen auf Grund der Verordnung über Allgemeine Bedingungen für die Elektrizitätsversorgung von Tarifkunden |  |  | 
@@ -526,6 +533,6 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro |  |
  | mehr als 2,5 Mio. Euro bis zu 7,5 Mio. Euro |  | 24.000 zuzüglich 0,4 v. H. der 2,5 Mio. Euro übersteigenden Herstellungskosten | 
  | mehr als 7,5 Mio. Euro bis zu 20 Mio. Euro |  | 44.000 zuzüglich 0,2 v. H. der 7,5 Mio. Euro übersteigenden Herstellungskosten | 
  | mehr als 20 Mio. Euro |  | 69.000 zuzüglich 0,1 v. H. der 20 Mio. Euro übersteigenden Herstellungskosten | 
-90.2 | Plangenehmigung nach § 20 Satz 2 UVPG für Vorhaben, die in der Anlage 1 zum UVPG unter den Nummern 19.3 bis 19.9 aufgeführt sind |  | 50 v. H. der Gebühr nach 90.1 | 
+90.2 | Plangenehmigung nach § 20 Satz 2 UVPG für Vorhaben, die in der Anlage 1 zum UVPGunter den Nummern 19.3 bis 19.9 aufgeführt sind |  | 50 v. H. der Gebühr nach 90.1 | 
  | Anmerkung zu 90.1 und 90.2: |  |  | 
  | Schließt das Planfeststellungs- und das Plangenehmigungsverfahren andere, die Anlage betreffende behördliche Entscheidungen ein, so erhöht sich die Gebühr um die dafür vorgeschriebenen Gebühren. |  |  | 
