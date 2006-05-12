@@ -1,0 +1,51 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-05-12T14:00:00+02:00
+- Ende: 2006-05-12T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1830
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1830
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111649.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111649.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111649.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 3: Zulassung Sachverständige - zur Kenntnis genommen
+- TOP 4: Hartoch - zur Kenntnis genommen
+- TOP 5: B-Plan Nr. 5479/67 - Tannenstraße - einstimmig beschlossen
+- TOP 6: 61/12-1854-Nördl.Derendorf-Änd. Aufst. - einstimmig beschlossen
+- TOP 7: B-Plan Nr. 5578/041 - Neue Stadtquartiere Dere
+- TOP 8: 5579/59 Schlachthof/Schlösser-Koop.städteb.Guta - einstimmig beschlossen
+- TOP 9: Rheinmetallgelände - einstimmig beschlossen
+- TOP 10: Graf-Adolf-Straße / Planung - einstimmig beschlossen
+- TOP 11: Taxenplatz Harkortstraße - einstimmig beschlossen
+- TOP 12: Münsterplatz - mehrheitlich beschlossen
+- TOP 13: Bücherbummel - einstimmig beschlossen
+- TOP 14: Bauliche Maßnahmen zur Einrichtung der Offenen Gan - zur Kenntnis genommen
+- TOP 15: Schulcontainer Humboldtgymnasium - zur Kenntnis genommen
+- TOP 16: Münster-/Rather-/Ulmenstraße - einstimmig beschlossen
+- TOP 17: Baustellensituation Tersteegenstraße - einstimmig beschlossen
+- TOP 18: Blücher-/Parkstraße - einstimmig beschlossen
+- TOP 19: Berger Allee
+- TOP 20: Gehweg Berger Allee
+- TOP 21: Orangeriestraße
+- TOP 22: Bilker Straße/Poststraße - einstimmig beschlossen
+- TOP 23: Hofgarten "Trampelpfad" - einstimmig beschlossen
+- TOP 24: Breidenbacher Hof - zur Kenntnis genommen
+- TOP 25: Tonhallenufer - zur Kenntnis genommen
+- TOP 26: Betonsteinpflaster Altstadt - einstimmig beschlossen
+- TOP 27: Planänderung Kasernengelände - zur Kenntnis genommen
+- TOP 28: Denkmal-oderEnsembleschutz - mehrheitlich abgelehnt
+- TOP 29: Immermannhof - mehrheitlich abgelehnt
+- TOP 30: Die Welt zu Gast bei Freunden - mehrheitlich beschlossen
+- TOP 31: Kö-Bogen - einstimmig beschlossen
+- TOP 32: Fischmarkt - zur Kenntnis genommen
+- TOP 33: Baumkappungen Moltkestraße - zur Kenntnis genommen
+- TOP 34: Mitteilungen - zur Kenntnis genommen
