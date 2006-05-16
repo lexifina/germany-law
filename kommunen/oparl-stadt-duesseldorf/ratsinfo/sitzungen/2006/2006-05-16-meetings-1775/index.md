@@ -1,0 +1,59 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-05-16T16:00:00+02:00
+- Ende: 2006-05-16T00:00:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1775
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1775
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111913.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111913.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111913.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Jugendamt - zur Kenntnis genommen
+- TOP 4: BPl 5877/031-Nördl.Sterntalerweg-Aufst.ÖB - einstimmig beschlossen
+- TOP 5: Edisonplatz - zur Kenntnis genommen
+- TOP 6: GBA - verschiedene H.Nr. - zur Kenntnis genommen
+- TOP 7: Sport - Generalien - zur Kenntnis genommen
+- TOP 8: Arbeitsmarkt und Beschäftigungsförderung - zur Kenntnis genommen
+- TOP 9: Abfallbeseitigung - Duales System II - zur Kenntnis genommen
+- TOP 10: Jugendamt / Jugendarbeit - zur Kenntnis genommen
+- TOP 11: Dorotheenplatz- Neugestaltung - zur Kenntnis genommen
+- TOP 12: Geschichtswerkstatt - einstimmig beschlossen
+- TOP 13: Schulen Generalien IV - einstimmig beschlossen
+- TOP 14: Schulen Generalien IV - zur Kenntnis genommen
+- TOP 15: Schulwegsicherungsprogramm - zur Kenntnis genommen
+- TOP 16: Lindenstraße zw. Ackerstr. u. Dorotheenstraße - zur Kenntnis genommen
+- TOP 17: Veranstaltungen Generalien - zur Kenntnis genommen
+- TOP 18: Gedenkstätten - zur Kenntnis genommen
+- TOP 19: Schillerplatz - zur Kenntnis genommen
+- TOP 20: Grünanlagen und Grünflächen - zur Kenntnis genommen
+- TOP 21: Kiefernstraße III - zur Kenntnis genommen
+- TOP 22: Kindergarten Tageseinrichtungen - zur Kenntnis genommen
+- TOP 23: Albertstraße - zur Kenntnis genommen
+- TOP 24: Brehmplatz- LZA u. a. - zur Kenntnis genommen
+- TOP 25: Mulvanystraße - Buschermühle - zur Kenntnis genommen
+- TOP 26: Parksituation in Düsseltal/Flingern - Gehwegparken - einstimmig beschlossen
+- TOP 27: Hanielpark - einstimmig beschlossen
+- TOP 28: Abfallbeseitigung - Duales System - zur Kenntnis genommen
+- TOP 29: Hundeausläufe - zur Kenntnis genommen
+- TOP 30: Grünanlagen- und Flächen - zur Kenntnis genommen
+- TOP 31: ÖPNV - Linienführung II - zur Kenntnis genommen
+- TOP 32: 5579/058 Mulvanystraße / Buscherstraße - zur Kenntnis genommen
+- TOP 33: Umweltschutz V - zur Kenntnis genommen
+- TOP 34: Märchenland - zur Kenntnis genommen
+- TOP 35: Hellweg / Froschkönigweg - zur Kenntnis genommen
+- TOP 36: Rahmenplangebiet nördl. Derendorf - zur Kenntnis genommen
+- TOP 37: Schulen Generalien IV - zur Kenntnis genommen
+- TOP 38: Kulturelle Veranstaltungen - zur Kenntnis genommen
+- TOP 39: Lindemannstr. 57 / Goethegymnasium - zur Kenntnis genommen
+- TOP 40: B-Plan 5776/13
+- TOP 41: Straßenbaumaßnahmen - zur Kenntnis genommen
+- TOP 42: Bauliche Maßnahmen zur Einrichtung der Offenen Gan - zur Kenntnis genommen
