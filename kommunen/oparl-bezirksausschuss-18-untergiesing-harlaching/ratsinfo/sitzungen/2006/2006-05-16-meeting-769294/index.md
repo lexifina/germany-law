@@ -1,0 +1,99 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2006-05-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/769294
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/769294
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Pilgersheimer Straße; Ausweitung eines Verkaufsladens; Bürgerschreiben vom 25.04.2006 - <div>WL an die Lokalbaukommission</div>
+- TOP 2.2.: Erschwerung von Zerstörungen bei den Fußgängerabsperrungen am Durchgang Hoher Weg/Klausener Straße; Bürgerschreiben vom 27.04.2006 - <div>WL an KVR und Baureferat</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.6.1: Bericht
+- TOP 3.1.: UA 18 - Budgetangelegenheiten - 08.05.2006
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.1: AntragstellerIn: Kindergarten Hänsel & Gretel e.V., für die Maßnahme: Brandschutzmaßnahmen, Antragssumme: 9.873,- ?, Antrag vom 24.04.06 - <div>ohne Entscheidung</div>
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.1: Kürzung von freiwilligen Leistungen der Landeshauptstadt München im Rahmen der Haushaltskonsolidierung ? Budget für die Bezirksausschüsse; Schreiben des Direktoriums vom 13.04.06 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.1: Mehr Sicherheit durch Errichtung einer Verkehrsinsel am Ende der Säbener Straße / Einfahrt Oberbiberger Straße; Mehr Sicherheit für Fußgänger/innen durch Errichtung von je einem Zebrastreifen an der Säbener Straße und der Oberbiberger Straße; Antrag der SPD-Fraktion vom 08.03.06 (vertagt aus den Sitzungen vom 21.03. und 25.04.2006 / Ortstermin) - <div>vertagt</div>
+- TOP 3.2.: UA 18 - Verkehr - 15.05.2006
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.1: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München; Anhörung durch das Referat für Stadtplanung und Bauordnung vom 21.04.06 zum Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung - <div>Zustimmung</div>
+- TOP 3.1.2: Leistungsprogramm 2007 der Münchner Verkehrsgesellschaft (MVG) (Fahrplanwechsel Dezember 2006); Zuleitung der MVG mit der Bitte um Stellungnahme bis zum 20.06.2006 - <div>gem. der Empfehlung des UA Verkehr</div>
+- TOP 3.1.1: Offensive für den Radverkehr V ? mehr Fahrradabstellflächen im Straßenraum schaffen ? ; Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen; Beschluss des Bauausschusses vom 27.04.06 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.2: Parkraummanagement in München ? Festlegung der 1. Priorität; Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsreferates vom 26.04.06 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: UA 18 - Umwelt - 11.05.2006
+- TOP 3.1.1: Straßenbegleitgrün Arminiusstraße 29, Untergiesing; Neupflanzung als Ersatz für einen umgefahrenen Baum; Antwortschreiben des Baureferats-Gartenbau vom 13.04.06
+- TOP 3.1.1: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung / Landschaftsschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats vom 12.04.06 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.2: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen in der Laufzorner Straße; Gefahrenbaumbescheinigung vom 11.04.06 3.3.6.2.2 Anwesen in der Reisachstraße; Genehmigung vom 13.04.06 3.3.6.2.3 Anwesen in der Tierparkstraße; Erlaubnis vom 12.04.06 3.3.6.2.4 Anwesen in der Tierparkstraße; Erlaubnis vom 19.04.06 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: UA 18 - Soziales - 09.05.2006
+- TOP 3.1.1: Ausbau des Netzes der Alten- und Servicezentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich offene Altenhilfe; Anhörung des Bezirksausschusses zu einer Beschlussvorlage für die Sitzung des Sozialausschusses am 22.06.2006; Zuleitung des Sozialreferats mit der Bitte um Stellungnahme bis zum 06.06.2006 - <div>gem. der Empfehlung des UA Soziales</div>
+- TOP 3.1.1: Wörnbrunner Platz, Freizeitanlage; Beleuchtung und weitere Verbesserungen (Belag, Basketball-Netz, Ballfangzäune), Errichtung eines Unterstandes; Antwortschreiben des Baureferats-Gartenbau vom 20.04.06 zum Antrag vom 21.02.06 - <div>Anfrage an das Baureferat</div>
+- TOP 3.1.1: Wohnen in München, III; a) Erfahrungsbericht für das Jahr 2005 b) Ergänzungen des Erfahrungsberichts c) Modifizierungen zum Wohnungspolitischen Handlungsprogramm ?Wohnen in München, III? Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.04.06 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.1: Bauvorhaben Geiselgasteigstraße 153, Umbau und Erweiterung einer Gaststätte (vertagt aus der Sitzung vom 25.04.06) - <div>Zustimmung</div>
+- TOP 3.2.: UA 18 - Bau und Planung - 11.05.2006
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.1: Anhörung zu Bauvorhaben
+- TOP 3.1.2: Baumbestandspläne 3.5.4.2.1 Anwesen in der Säbener Straße; Zuleitung vom 25.04.06 3.5.4.2.2 Anwesen in der Hochederstraße; Zuleitung vom 27.04.06 3.5.4.2.3 Anwesen in der Tegelbergstraße; Zuleitung vom 04.05.2006 3.5.4.2.4 Anwesen in der Lautererstraße; Zuleitung vom 03.05.2006 - <div>siehe Protokoll</div>
+- TOP 3.1.3: Vollzug des Gaststättengesetzes; Gaststätte / Betriebsstätte ?Sauna Relax?, Athener Straße 42; Antrag auf Betrieb mit Sperrzeit; Zuleitung des Kreisverwal-tungsreferats / Bezirksinspektion Süd mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 3.1.4: Anträge auf Erteilung von Ausnahmegenehmigung zum Aufstellen von Tischen und Stühlen auf öffentlichem Verkehrsgrund gem. Art. 18 BayStrWG; Zuleitungen des Kreisverwaltungsreferats / Bezirksinspektion Süd mit der Bitte um Stellungnahme 3.5.4.4.1 Café ?BitterSweet?, Kühbachstraße 22; Zuleitung vom 12.04.06 - <div>Zustimmung</div>
+- TOP 3.1.1: Baufälle im 18. Stadtbezirk - <div>zur Kenntnis genommen</div>
+- TOP 3.1.2: Unterrichtungen durch das Sozialreferat, Amt für Wohnen und Migration, im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum 3.5.6.2.1 Anwesen in der Reinekestraße; Mitteilung vom 19.04.06 3.5.6.2.2 Anwesen in der Klobensteiner Straße; Mitteilung vom 10.04.06 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.3: Frostschäden auf Münchner Straßen; Beschluss des Bauausschusses vom 27.04.06 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.4: Erlass von Erhaltungssatzungen nach § 172 Abs.1 Satz 1 Nr.2 BauGB in den Stadtbezirken 5 (Au-Haidhausen) und 18 (Untergiesing-Harlaching); Satzungsbeschluss Erhaltungssatzung "Untere Au / Untergiesing"; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.04.06 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.5: Gaststätten (unveränderte Fortführungen), Mitteilungen durch das Kreisverwaltungsreferat 3.5.6.5.1 SSW "Burg Pilgersheim", Pilgersheimer Straße; Mitteilung vom 28.04.06 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.1: Regionalgespräche zwischen Lokalbaukommission und den Bezirksausschüssen; Schreiben des Referats für Stadtplanung und Bauordnung, Lokalbaukommission, vom 20.04.06 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: UA 18 - Kultur, Veranstaltungen - 15.05.2006
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Kündigung des Kioskbetriebes an der Straßenbahnhaltestelle Großhesselohe Konkrete Auskunft über Planungen und Weiterführung des Kioskbetriebes; Antrag der SPD-Fraktion vom 15.05.2006 - <div>nach Antrag</div>
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.1: Erweiterung und Ausbau der BA-Rechte; Schreiben des BA 3 ? Maxvorstadt ? vom 20.04.06 zum Antrag des BA 13 ? Bogenhausen ? vom 13.10.05 (vgl. TOP 4.3.2 vom 21.03.06) - <div>Zur Kenntnis genommen</div>
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
