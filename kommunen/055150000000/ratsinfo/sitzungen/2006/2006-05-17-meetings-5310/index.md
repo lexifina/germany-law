@@ -1,0 +1,54 @@
+# 12. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-05-17T17:05:00+02:00
+- Ende: 2006-05-17T19:43:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5310
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5310
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00232637.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag A-R/0001/2006 der CDU-Fraktion vom 23.01.2006 an den Rat - mehrheitlich beschlossen
+- TOP 2.2: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. 34/2004 - von der Tagesordnung abgesetzt
+- TOP 2.3: Antrag der SPD-Fraktion Nr. A-R/0018/2006 an den Rat "Aufgabenkritische Überprüfung regionalpolitisc - einstimmig beschlossen
+- TOP 2.4: Antrag der CDU-Fraktion und FDP-Fraktion an den Rat Nr. A-R/0012/2006 vom 28.03.2006 - einstimmig beschlossen
+- TOP 2.5: Antrag der SPD-Fraktion Nr. A-R/0008/2006 an den Rat "PTA-Lehranstalt erhalten - Kosten gerecht - einstimmig beschlossen
+- TOP 2.6: Antrag der SPD-Fraktion an den Rat A-R/0043/2005: Mit Leistungsvereinbarungen Zukunft gestalten - So - von der Tagesordnung abgesetzt
+- TOP 2.7: Leistungsvereinbarungen in der Kinder- und Jugendhilfe - von der Tagesordnung abgesetzt
+- TOP 2.8: Antrag der Fraktion Bündnis90/Die Grünen/GAL NR.: A-R/0014/2006 "City of learning" - zur Kenntnis genommen
+- TOP 3: Verein Münster Modell e.V. - Gründungsmitgliedschaft der Stadt Münster - einstimmig beschlossen
+- TOP 4: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2006) - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Bürgerbegehren "Zum Südbad - Ja zum Hallenbad Handorf" - ohne Beschlussfassung geschoben
+- TOP 6: Beitritt des Landkreises Emsland als Gesellschafter der FMO Flughafen Münster/Osnabrück GmbH - einstimmig beschlossen
+- TOP 7: Jahresrechnung 2005 der Stadt Münster - einstimmig beschlossen
+- TOP 8: Änderung und Neufassung der Vergnügungssteuersatzung der Stadt Münster - mehrheitlich beschlossen
+- TOP 9: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 1. Vierteljahr - zur Kenntnis genommen
+- TOP 10: Satzungen zur Änderung der Festsetzungen der Rezesse der Interessentengesamtheit der Hornheide, des - einstimmig beschlossen
+- TOP 11: Errichtung/Widmung der öffentl. Einrichtung "Kreativkai" (Kom. Einrichtung i.S.v. § 8 bzw. § 41 GO) - einstimmig beschlossen
+- TOP 12: Entwurf der Stellungnahme der Stadt Münster zum geplanten Ausbau der B 51/ Neubau der B 481n im Plan - mehrheitlich beschlossen
+- TOP 13: Bühnenbewirtschaftungspläne der Städtischen Bühnen Münster für die Spielzeiten 2007/2008 bis 2009/10 - ohne Beschlussfassung geschoben
+- TOP 14: Hilfen beim Umzug für Seniorinnen und Senioren sowie Menschen mit Behinderungen - - einstimmig beschlossen
+- TOP 15: Fahrdienst für Menschen mit Behinderungen in Münster - einstimmig beschlossen
+- TOP 16: Fortführung des Projektes "Von Mensch zu Mensch" der Stiftung Magdalenenhospital - einstimmig beschlossen
+- TOP 17: Bauleitplanung
+- TOP 17.1: Stadtbezirk West
+- TOP 17.1.1: Bebauungsplan Nr. 505: Roxeler Straße / Schmeddingstraße - einstimmig beschlossen
+- TOP 17.1.2: Bebauungsplan Nr. 453 - Beschluss über die Anregungen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 17.2: Stadtbezirk Hiltrup
+- TOP 17.2.1: 1. Änderung des Bebauungsplanes Nr. 233: Hiltrup - Tageserholungsanlage Hiltruper See - einstimmig beschlossen
+- TOP 17.3: Stadtbezirk Nord
+- TOP 17.3.1: Bebauungsplan Nr. 460 - Beschluss über die Anregungen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 17.3.2: Bebauungsplan Nr. 459 - Beschluss über die Anregungen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 17.4: Stadtbezirk Ost
+- TOP 17.4.1: Bebauungsplan Nr. 448 - Beschluss über die Anregungen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 18: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 19: Verschiedenes
