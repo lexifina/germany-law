@@ -1,11 +1,9 @@
-# Anlage 4 - Zuordnung der Kreise und kreisfreien Städte zu den Studienorten
+# Anlage 4 - Zuordnung der Kreise und kreisfreien Städte zu den Studienorten (zu § 21 Abs. 1 Satz 3)
 Anlage 4
-(zu § 21 Abs. 1 Satz 3)
-Zuordnung der Kreise und kreisfreien Städte zu den Studienorten
+Zuordnung der Kreise und kreisfreien Städte zu den Studienorten (zu § 21 Abs. 1 Satz 3)
 (1) Ein Studienort kann eine Hochschule, ein Teil einer Hochschule oder ein gemeinsames Studienangebot mehrer Hochschulen sein.
 (2) Einem Studienort eines Landes zugeordnet sind der Kreis oder die kreisfreie Stadt des Studienorts sowie die hieran angrenzenden Kreise oder kreisfreien Städte des Landes. Sofern sich in einem Kreis oder in einer kreisfreien Stadt oder in den hieran angrenzenden Kreisen oder kreisfreien Städten kein Studienort des Landes befindet, ist dieser Kreis oder diese kreisfreie Stadt dem nächsten Studienort des Landes zugeordnet. Dies gilt entsprechend, wenn Studiengänge nur an bestimmten Studienorten des Landes angeboten werden. Kreise und kreisfreie Städte eines Landes sind auch dem Studienort eines anderen Landes zugeordnet, wenn sie an den Kreis oder die kreisfreie Stadt des Studienorts des anderen Landes angrenzen; dabei gelten Bremen und Bremerhaven als eine kreisfreie Stadt.
 (3) Örtliche und regionale Verwaltungseinheiten eines anderen Mitgliedstaates der Europäischen Union, die an ein Land der Bundesrepublik Deutschland angrenzen, können einem Studienort dieses Landes zugeordnet werden, wenn sie an den Kreis oder die kreisfreie Stadt dieses Studienorts angrenzen.
-(4) In der nachfolgenden Übersicht ist für jeden Kreis und jede kreisfreie Stadt die Entfernung zu den Studienorten des Landes als Länge der Luftlinie zwischen Kreisstadt und Studienort in Kilometern (km), jeweils auf 10 km gerundet – für Bayern in einer Stufenfolge von 1 bis 9 entsprechend der Entfernung -, angegeben.
+(4) In der nachfolgenden Übersicht ist für jeden Kreis und jede kreisfreie Stadt die Entfernung zu den Studienorten des Landes als Länge der Luftlinie zwischen Kreisstadt und Studienort in Kilometern (km), jeweils auf 10 km gerundet - für Bayern in einer Stufenfolge von 1 bis 9 entsprechend der Entfernung -, angegeben.
 (5) Ist ein Studienort im Kreis oder in der kreisfreien Stadt oder in einem hieran angrenzenden Kreis oder einer hieran angrenzenden kreisfreien Stadt gelegen, ist als Entfernung 0 angegeben; dies gilt auch für außerhalb des Landes gelegene Studienorte.
 (6) Für Bayern ist der der Hauptwohnung nächstgelegene Studienort jeweils mit der Stufe 1 angegeben; die weitere Zuordnung ergibt sich aus der Stufenfolge.
-Einzelansicht Seitenanfang

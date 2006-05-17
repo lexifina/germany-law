@@ -31,6 +31,7 @@ VII. Vergabe von Teilstudienplätzen
 § 22 | Teilstudienplätze
 VIII. Schlussbestimmungen
 § 23 | In-Kraft-Treten
-Anlage 1 In das Verfahren der Zentralstelle einbezogene Studiengänge (zu § 1 Satz 2) Anlage 2 Ermittlung der Durchschnittsnote (zu § 11 Abs. 3 Satz 1)
-Anlage 3 Ermittlung der Messzahl bei der Auswahl für ein Zweitstudium (zu § 17 Abs. 2 Satz 2) Anlage 4 Zuordnung der Kreise und kreisfreien Städte zu den Studienorten (zu § 21 Abs. 1 Satz 3)
-Einzelansicht Seitenanfang
+Anlage 1 | In das Verfahren der Zentralstelle einbezogene Studiengänge (zu § 1 Satz 2)
+Anlage 2 | Ermittlung der Durchschnittsnote (zu § 11 Abs. 3 Satz 1)
+Anlage 3 | Ermittlung der Messzahl bei der Auswahl für ein Zweitstudium (zu § 17 Abs. 2 Satz 2)
+Anlage 4 | Zuordnung der Kreise und kreisfreien Städte zu den Studienorten (zu § 21 Abs. 1 Satz 3)
