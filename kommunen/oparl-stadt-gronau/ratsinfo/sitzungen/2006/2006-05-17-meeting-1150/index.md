@@ -1,0 +1,56 @@
+# Rat (17. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2006-05-17T17:00:00+02:00
+- Ende: 2006-05-17T21:35:00+02:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVPm9rhumNx2hn2m4WNnzKY
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1150
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZToImN7qKG2B38bCNR5NUNVLXTXV3VPuoA9-P7foLS4D/Bekanntmachung_Rat_17.05.2006.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQzoAUr5wAByLDw9B1B6ZUy85qpn_6lHUhrLsEuwax78/Oeffentliche_Niederschrift_Rat_17.05.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Amtseinführung neuer Ratsmitglieder
+- TOP 3.: Niederschrift vom 15.03.2006
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: 1. Unterstützung der Musical-Aufführung "Das Leben des Brian" durch die Sparkasse Gronau sowie 2. Änderung der Grundsätze des Sponsorings durch städtische Gesellschaften; Schreiben der FDP-Fraktion vom 22.03.2006 - 2 Jastimmen, 37 Neinstimmen, 0 Enthaltungen
+- TOP 4.2: Erhöhung des Gaspreises durch die Stadtwerke Gronau GmbH; Antrag der FDP-Fraktion vom 07.04.2006 sowie Antrag der SPD-Fraktion vom 13.04.2006 - 15 Jastimmen, 22 Neinstimmen, 2 Enthaltungen
+- TOP 4.3: Abbruch der Fußgängerbrücke BW-Nr. 25-0100 Konrad-Adenauer-Straße (siehe auch Antrag der CDU-Fraktion vom 13.03.06) - 34 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 4.4: Resolution zum 2. Schulrechtsänderungsgesetz - 6 Jastimmen, 22 Neinstimmen, 9 Enthaltungen
+- TOP 4.5: Rechtliche und wirtschaftliche Vorgaben zum Umgang der Stadtwerke GmbH mit zahlungssäumigen Energieabnehmern; Antrag der FDP-Fraktion vom 27.04.2006 - 36 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 5.: Bekanntgabe des Jahresabschlussergebnisses 2005 sowie Vorlage des Rechenschafts- und Verwaltungsberichtes 2005 der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 6.: Jahresabschluss 2005 der Chance Gemeinnützige Beschäftigungsgesellschaft der Stadt Gronau mbH 1. Kenntnisnahme des Jahresabschlussergebnisses 2. Beschluss über die Verwendung des Jahresüberschusses 3. Entlastung des Aufsichtsrates und des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 7.: Jahresabschluss 2005 der GFA Gesellschaft für Arbeitsförderung mbH 1. Jahresabschlussergebnis 2. Vortrag des Jahresüberschusses auf neue Rechnung 3. Entlastung des Geschäftsführers - Ohne Abstimmung
+- TOP 8.: I.Wirtschaftsplan des Abwasserwerkes der Stadt Gronau (Westf.) für das Wirtschaftsjahr 2006 II.Abwassergebührenkalkulation für das Jahr 2006 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Wirtschaftsplan 2006 Zentrale Bau- und Umweltdienste der Stadt Gronau - Einstimmig, 2 Enthaltungen
+- TOP 10.: Unmittelbare Beteiligung der Stadtwerke Gronau GmbH an der Trianel Gasspeichergesellschaft Epe mbH & Co.KG und mittelbare Beteiligung an der Trianel Gasspeicher Vermögensverwaltugns GmbH - 32 Jastimmen, 5 Neinstimmen, 0 Enthaltungen
+- TOP 11.: Schulentwicklungsplanung im Primar- und Sekundarbereich (nur Grund- und Hauptschulen) - Ergebnis der Begutachtung - Einstimmig, 0 Enthaltungen
+- TOP 12.: gebundenes Ganztagskonzept an der Anne-Frank-Schule -Vorstellung des baulichen Konzeptes zur Errichtung einer Mensa/Übermittagbetreuung - Einstimmig, 0 Enthaltungen
+- TOP 13.: Offenes Ganztagskonzept an der Viktoriaschule -städtische Grundschule - Einstimmig, 0 Enthaltungen
+- TOP 14.: 85. Änderung des Flächennutzungsplanes der Stadt Gronau Bebauungsplan Nr. 125 "Freiheitssiedlung-Fortsetzung", Stadtteil Gronau 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden 4. Anordnung der Umlegung - Einstimmig, 0 Enthaltungen
+- TOP 15.: 86. Änderung des Flächennutzungsplanes für den Bereich: Eper Bülten/Bebauungsplan Nr. 242 "Eper Bülten" 1. Aufhebung des Aufstellungsbeschlusses vom 19.12.2001 2. Aufstellungsbeschluss 3. Beteiligung der Öffentlichkeit 4. Beteiligung der Behörden und sonstigen Träger öffentlicher Belange - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 94 "Morgensternsiedlung", 1. Änderung, Stadtteil Gronau Behandlung der Anregungen und Bedenken aus der Bürgerbeteiligung gem. § 3 Abs. 1 BauGB Behandlung der Anregungen und Bedenken aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB Behandlung der Anregungen und Bedenken aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 17.: Bebauungsplan Nr. 146 "Nördlich der Elisabethstraße", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der 1. öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der 2. öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 5. Satzungsbeschluss - Einstimmig, 2 Enthaltungen
+- TOP 18.: Bebauungsplan Nr. 149 "Dreispitz" , Stadtteil Gronau Lärmschutzproblematik - Einstimmig, 0 Enthaltungen
+- TOP 19.: Bebauungsplan Nr. 241 "Eulenborgweg", Stadtteil Epe 1. Behandlung der Anregungen und Bedenken aus der Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 2. Behandlung der Anregungen und Bedenken aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Anregungen und Bedenken aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Satzungsbeschluss - Einstimmig, 1 Enthaltungen
+- TOP 20.: Überlassung von weiteren Parkplätzen auf dem Christian-Eberle-Platz für Kunden der Stadtsparkasse - 30 Jastimmen, 6 Neinstimmen, 1 Enthaltungen
+- TOP 21.: Änderung der Beurteilungsrichtlinien für die Beamten/-innen der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 22.: Änderung des Stellenplanes 2006; Einrichtung einer Stelle für das HOT "STOP" - Einstimmig, 0 Enthaltungen
+- TOP 23.: Besetzung von Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 24.: Terminplanung für das 3. Quartal 2006
+- TOP 25.: Beschluss einer Resolution zum Thema „saubere Kleidung – für menschenwürdige Arbeitsbedingungen in der weltweiten Bekleidungsindustrie“; Antrag des Caritasverbandes gem. § 24 Gemeindeordnung NRW vom 04.05.06 - Einstimmig, 0 Enthaltungen
+- TOP 25.1: Mitteilungen der Verwaltung
+- TOP 26.: Anfragen
+- TOP 26.1: Kritik an der Atmosphäre im Rat zu fortgeschrittener Zeit (RM Raad)
+- TOP 26.2: Wiederherstellung der Wirtschaftswege nach Pipelinebau (RM Tillmann)
+- TOP 26.3: Zu grober Schotter auf dem Kleinen Venndiek (RM Tillmann)
+- TOP 26.4: Sanierung der Wirtschaftswege im Jahr 2006 (RM Tillmann)
+- TOP 26.5: Kosten für den Ausbau des Harreweges (RM Tillmann)
+- TOP 26.6: Bereitstellung eines Wortprotokolls für Beweiszwecke (RM Pieper)
+- TOP 26.7: Resolution zur Installation von Brandmeldeanlagen in Privathaushalten (RM Arends)
