@@ -1,0 +1,70 @@
+# 41. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2006-05-17T17:30:00+02:00
+- Ende: 2006-05-17T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1184
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1184
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=21891
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - erledigt
+- TOP 1.2: Geschäftliche Mitteilung - erledigt
+- TOP 1.3: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Partnerschaft mit dem Führungsunterstützungsregiment 38 beenden und Partnerschaft mit der 1. Kompanie des Wachbataillon im BmfV beginnen - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Berufung eines beratenden Mitgliedes für den Kinder- und Jugendhilfeausschuss der Bezirksverordnetenversammlung für die V. Wahlperiode - gewählt
+- TOP 1.10: Wahl eines Patientenfürsprechers gem. § 26 (1) Landeskrankenhausgesetz - gewählt
+- TOP 1.11: Trägerschaft Life Science Center Buch - überwiesen
+- TOP 1.12: Bebauungsplan XIX-11 für die Grundstücke an der Heinrich-Böll-Straße, mit Ausnahme der Grundstücke 1, 2, 4 und 61, den Kreuzgraben und an diesen beiderseits anliegende Grundstücke zwischen Waldowstraße und dem Grundstück Dietzgenstra0e 62/64, die Grundstücke Kreuzgraben 13 und Dietzgenstraße 60, einschließlich dem Weg zwischen den Grundstücken Beuthstraße 47 und 48, für eine Teilfläche des Grundstücks Dietzgenstraße 62/64 sowie einen Abschnitt der Heinrich-Böll-Straße im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Erwerb des Grundstückes und aufstehende Gebäude Bizetstraße 27, 13089 Berlin, durch das Land Berlin und Ausbau zu einem abteilungsübergreifenden Bildungsstandort unter Einsatz von Fördermitteln der Senatsverwaltung für Stadtentwicklung - überwiesen
+- TOP 1.14: Umfahrungsverkehr Baustelle Wisbyer Straße - zurückgezogen
+- TOP 1.15: Freundschaftliche Beziehungen mit Toroslar-Mersin, Türkei - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Hartz IV - Verteilung der Eingliederungsmittel - Mehr Transparenz - in der BVV abgelehnt
+- TOP 1.17: Interessen der Pankower Bürgerinnen und Bürger ernst nehmen - in der BVV abgelehnt
+- TOP 1.18: Grüne Stadt / BVV-Beschluss 1209 vom 15.02.2006 - beantwortet
+- TOP 1.19: Schmöckpfuhlgraben - zurückgezogen
+- TOP 1.20: Schulstandort Pasteur/Camille Claudel Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Wartehäuschen an der BVG-Haltestelle Pankow-Kirche - überwiesen
+- TOP 1.22: Regelung zur Beteiligung und Mitwirkung der Betroffenen in den Sanierungsgebieten - überwiesen
+- TOP 1.23: Stellplätze für Car-Sharing-Unternehmen in Sanierungsgebieten - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Fortschreibung der Behindertenkonzeption - vertagt
+- TOP 1.25: Verkehrsberuhigung mittels Schwellen in den Sanierungsgebieten - mit Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Botanische Anlagen in Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2.1: Expertise von Nichtregierungsorganisationen im Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Zentrale Inkassostelle des Bezirks - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Eliashof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Gläserner Haushalt/Transparenz im Internet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2003 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Mehr Demokratie in der vorbereitenden und verbindlichen Bauleitplanung in Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Erhaltung der Seniorenbegegnungsstätten im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Wie weiter mit den ehemaligen Kleingartengebieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Sportstättenvergabe transparent gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Verkehrsberuhigung der Stargarder Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Strukturiertes Telefonverzeichnis des JobCenters - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Gleisanlagen auf öffentlichem Straßenland - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Kompletter Anschluss der Ortsteile Blankenburg, Karow und Buch an das öffentliche Abwasserentsorgungsnetz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Sanierungsplan für den Bezirkshaushalt 2006/2007 vorlegen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Abwassergebühren in Blankenburg, Karow und Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Verantwortung für JobCenter - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Abfallcontainer in Grünanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Gesundheitsdienstreformgesetz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Benennung der öffentlichen Grünanlage hinter dem Rathaus Center Pankow (Block 74) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Entscheidung über die Zulässigkeit des Bürgerbegehrens Wasserturmplatz, in der Fas-sung der Fragestellung gemäß Schreiben vom 08.03. 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Umsetzung von Stellen aus dem Sozialamt und dem Wohnungsamt in das Kapitel 3960 (Leistungen nach SGB II - Grundsicherung für Arbeitssuchende -) in Auswirkung der Hartz IV-Reform - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Änderung der Sanierungsziele für den Standort Greifenhagener Str. 19 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Namensgebung einer Filiale der Stadtbibliothek Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Bebauungsplan XIX-11 für die Grundstücke an der Heinrich-Böll-Straße, mit Ausnahme der Grundstücke 1, 2, 4 und 61, den Kreuzgraben und an diesen beiderseits anliegende Grundstücke zwischen Waldowstraße und dem Grundstück Dietzgenstra0e 62/64, die Grundstücke Kreuzgraben 13 und Dietzgenstraße 60, einschließlich dem Weg zwischen den Grundstücken Beuthstraße 47 und 48, für eine Teilfläche des Grundstücks Dietzgenstraße 62/64 sowie einen Abschnitt der Heinrich-Böll-Straße im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Aufstellung des B-Planes 3 - 8 für die Grundstücke Dietrich-Bonhoeffer-Straße 6 - 9 im Bezirk Pankow, Ortsteil Prenzlauer Berg, zur Sicherung eines Standortes für eine Sporthalle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Wirtschaftsplan des Eigenbetriebes Kindergärten NordOst für das Jahr 2006 - mit Abschlussbericht zur Kenntnis genommen
