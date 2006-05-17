@@ -1,0 +1,51 @@
+# 14. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-05-17T17:35:00+02:00
+- Ende: 2006-05-17T19:44:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5313
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5313
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00232845.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 8: Bürgerbegehren "Zum Südbad - Ja zum Hallenbad Handorf" - mehrheitlich beschlossen
+- TOP 9: Beitritt des Landkreises Emsland als Gesellschafter der FMO Flughafen Münster/Osnabrück GmbH - mehrheitlich beschlossen
+- TOP 10: Jahresrechnung 2005 der Stadt Münster - einstimmig beschlossen
+- TOP 11: Änderung und Neufassung der Vergnügungssteuersatzung der Stadt Münster - mehrheitlich beschlossen
+- TOP 12: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 1. Vierteljahr - zur Kenntnis genommen
+- TOP 13: Satzungen zur Änderung der Festsetzungen der Rezesse der Interessentengesamtheit der Hornheide, des - einstimmig beschlossen
+- TOP 14: Errichtung/Widmung der öffentl. Einrichtung "Kreativkai" (Kom. Einrichtung i.S.v. § 8 bzw. § 41 GO) - einstimmig beschlossen
+- TOP 15: Entwurf der Stellungnahme der Stadt Münster zum geplanten Ausbau der B 51/ Neubau der B 481n im Plan - mehrheitlich beschlossen
+- TOP 16: Bühnenbewirtschaftungspläne der Städtischen Bühnen Münster für die Spielzeiten 2007/2008 bis 2009/10 - mehrheitlich beschlossen
+- TOP 17: Hilfen beim Umzug für Seniorinnen und Senioren sowie Menschen mit Behinderungen - - einstimmig beschlossen
+- TOP 18: Fahrdienst für Menschen mit Behinderungen in Münster - einstimmig beschlossen
+- TOP 19: Fortführung des Projektes "Von Mensch zu Mensch" der Stiftung Magdalenenhospital - einstimmig beschlossen
+- TOP 20: Bauleitplanung
+- TOP 20.1: Stadtbezirk Münster-West
+- TOP 20.1.1: Bebauungsplan Nr. 453 - Beschluss über die Anregungen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 20.1.2: Bebauungsplan Nr. 505: Roxeler Straße / Schmeddingstraße - einstimmig beschlossen
+- TOP 20.2: Stadtbezirk Münster-Hiltrup
+- TOP 20.2.1: 1. Änderung des Bebauungsplanes Nr. 233: Hiltrup - Tageserholungsanlage Hiltruper See - einstimmig beschlossen
+- TOP 20.3: Stadtbezirk Münster-Nord
+- TOP 20.3.1: Bebauungsplan Nr. 460 - Beschluss über die Anregungen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 20.3.2: Bebauungsplan Nr. 459 - Beschluss über die Anregungen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 20.4: Stadtbezirk Münster-Ost
+- TOP 20.4.1: Bebauungsplan Nr. 448 - Beschluss über die Anregungen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 21: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 22: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 23: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 23.1: Modellversuch ermöglichen: Pädagogische Qualität erhöhen - Verwaltungsassistenzen einrichten - verwiesen
+- TOP 24: Verschiedenes
