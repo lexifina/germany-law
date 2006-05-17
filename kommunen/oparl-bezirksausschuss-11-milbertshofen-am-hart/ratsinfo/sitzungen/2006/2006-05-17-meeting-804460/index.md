@@ -1,0 +1,87 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2006-05-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/804460
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/804460
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Berichte aus dem Stadtrat
+- TOP 3: Berichte der Polizei
+- TOP 4: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 9.9.1: Plenum
+- TOP 4.1.1: München zeigt Flagge, Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 4.1.2: Kürzung von freiwilligen Leistungen der Landeshauptstadt München im Rahmen der Haushaltskonsolidierung - Budget für Bezirksausschüsse, Schreiben des Direktoriums
+- TOP 4.1.3: Evangelischer Kindergarten Dankeskirche, Tag der offenen Tür
+- TOP 4.1.4: Spielmeile Nord, Eröffnungsveranstaltungen
+- TOP 4.1.5: Olympiapark Nord - Beschilderung der U-Bahnstation "Adolf-Kolping Berufsschule" (Antrag Nr. 02-08/00902 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 18.01.2006) Zwischenbescheid
+- TOP 4.1.6: Verlängerung der U-Bahnlinie U8 nach Feldmoching ( Antrag Nr. 02-08/00955 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 15.02.2006) Zwischenbescheid
+- TOP 4.1.7: Sachberichte Budget
+- TOP 9.9.2: Bau / Umwelt
+- TOP 4.1.1: Regionalgespräche zwischen Lokalbaukommission und den Bezirksausschüssen, Schreiben des Referates für Stadtplanung und Bauordnung
+- TOP 9.9.3: Kultur / Soziales
+- TOP 4.1.1: Münchener Sommer Spiel Aktion 2006, Schreiben von "Spielen in der Stadt"
+- TOP 4.1.2: Schließung und Rückbau des Notquartiers für Wohnungslose Knorrstr. 29, Schreiben des Sozialreferates
+- TOP 4.1.3: Tag des offenen Denkmals in Bayern am 09.09.2006, Schreiben des Bayerischen Landesamtes für Denkmalpflege
+- TOP 9.9.4: Verkehr
+- TOP 4.1.1: Aktionstag Milbertshofen "FUN-Express", Schreiben des Kreisverwaltungsreferates
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.1: a) Trägerverein Kulturhaus Milbertshofen, Kauf eines Beamers (vertagt aus der Sitzung am 19.04.2006)
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.1.1: Zulässigkeit des Befahrens des nördlichen Radweges am Petuelring in beide Richtungen, da der südliche Radweg abends zu dunkel ist (Empfehlung Nr. 140 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart am 30.06.2006)
+- TOP 7: Anträge
+- TOP 8.8.2: Bau/Umwelt
+- TOP 7.1.1: Errichtung von Automaten für Hunde-"Reste" an den Zugängen zur Panzerwiese (Bewohnergemeinschaft Nordheide e.V.)
+- TOP 7.1.2: Dampfrohr an der Knorrstraße (Ciara Mathe, 6 Jahre)
+- TOP 7.1.1: Einführung eines MVG-Sozialtickets "Innenraum" ab Juni 2006 für SGB II / SGB XII - Betroffene ( Willi Berger, Eva Bäumel)
+- TOP 7.1.1: Anbringung von Straßenschildern entlang der Diagonale (Neubaugebiet Nordheide) (Bewohnergemeinschaft Nordheide e.V.)
+- TOP 8: Anhörungen
+- TOP 8.1.1: Verkauf einer städtischen Immobilie, hier: Am Schätzweg
+- TOP 8.1.1: Vollzug der Baumschutzverordnung, Baumaßnahmen: a)Schleißheimer Str. 422, Motorenprüfstandsgebäude, Werkstattgebäude, Magistrale, Brücke BMW - FIZ b) Bremer Straße, Neubau eines IT-Zentrums mit 2-geschossiger Tiefgarage c) Wundtstr. 1, Neubau einer Tiefgarage mit 38 Kfz-Stellplätzen
+- TOP 8.1.2: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a) Zietenstr. 2-20, 7 Bäume gem. Bestandsplan b) Karlsbader Str. 2, 1 Weistanne c) Spitzerstr. 32, 1 Kiefer d) Taunusstr. 13-17, 2 Kiefern, 1 Birke e) Abtstr. 1, 1 Birke f) Hufelandstr. 19, 1 Robinie g) Strelitzer Str. 1, 1 Lärche
+- TOP 8.1.3: Vollzug des Bundes-Immissionsschutzgesetzes und der Störfallverordnung; hier: Schleißheimer Str. 420, Antrag auf Erweiterung und Zulassung des vorzeitigen Beginns des Antriebszentrums im BMW - FIZ
+- TOP 8.1.4: Gesamtkonzept für P+R- Anlagen sowie B+R-Anlagen in München (Beschluss des Ausschusses für Stadtplanung und Bauordnung, Datum noch nicht bekannt)
+- TOP 8.1.5: Nordheide West, Spielplatz zwischen Golddistel- und Felsennelkenanger; Werkpläne
+- TOP 8.1.6: Veranstaltung auf dem Olympiaberg am 29.07.2006, Feuerwerk
+- TOP 8.1.1: Veranstaltung auf öffentlichem Verkehrsgrund: a) 28. Internationales Stadtteilfest im Rahmen des Aktionstages Milbertshofen am 24.06.2006
+- TOP 8.1.2: Antrag auf eine Freischankfläche, "Brilliant Cafe", Knorrstraße
+- TOP 9: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.1: Zuwendungen aus dem BA-Budget; Bewilligungsbescheide a)Männerchor Milbertshofen Riesenfeld e.V., "Hoagascht am 28.04.2006"; Bewilligung 900,00? b) Fraueninitiative Milbertshofen e.V., "Frühlingsfest am 01.04.2006"; Bewilligung 400,00? c) Kreisjugendring München Stadt Jugendtreffpunkt Harthof, "Selbstbehauptungskurs im März 2006"; Bewilligung 420,00? d) Kultur und Spielraum e.V., "Mini-München 2006"; Bewilligung 6000,00? e) Verein Stadtteilarbeit, "Internationales Stadtteilfest am 24.06.2006"; Bewilligung 1900,00? f) Schule zur Lernförderung, "Streitschlichterausbildung 10.-12-03.2006"; Bewilligung 556,00? g) EB der GS Bad-Soden-Str., "Vernissage"; Bewilligung 983,00? h) Kinder- und Jugendraum RIVA Nord, Rahmenprogramm zum Jubiläum am 17.02.2006; Bewilligung 525,00? i) Diakonie Hasenbergl e.V., Auftaktveranstaltung internationale Tage am 22.02.2006; Bewilligung 825,00?
+- TOP 9.1.2: Erweiterung und Ausbau der BA-Rechte; Schreiben des BA 3 Maxvorstadt
+- TOP 9.1.1: Parkplatzbewirtschaftung und Unterhalt von Erholungsgebieten mit Bademöglichkeiten (Bekanntgabe in der Sitzung des Bauausschusses vom 28.03.2006)
+- TOP 9.1.2: Bremer Straße, Hamburger Straße, Motorstraße Neubau der Erschließungsstraßen; B-Plan Nr.1592b (Beschluss des Bauauschusses vom 27.04.2006)
+- TOP 9.1.3: Moosacher Straße zwischen Lerchenauer Straße und Landshuter Allee, Lerchenauer Straße zwischen Moosacher Straße und HausNr. 75, Straßenwiederherstellung nach U-Bahnbau (Beschluss des Bauauschusses vom 27.04.2006)
+- TOP 9.1.4: Offensive für den Radverkehr (Beschluss des Bauausschusses vom 27.04.2006)
+- TOP 9.1.5: Errichtung und Betrieb eines Aerodynamischen Versuchszentrums Max-Diamand-Straße; Genehmigungsbescheid
+- TOP 9.1.6: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich Schleißheimer Straße (östlich), Sandbienenweg (westlich) (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.04.2006)
+- TOP 9.1.7: Wohnen in München III Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.04.2006)
+- TOP 9.1.8: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr.1972 Schleißheimer Straße (östlich), Sandbienenweg (beiderseits), Billigungsbeschluss (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.04.2006)
+- TOP 9.1.9: Parkraummanagement in München-Festlegung der 1. Priorität (Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsausschusses vom 26.04.2006)
+- TOP 9.1.10: Frostschäden auf Münchener Straßen (Beschluss des Bauausschusses vom 27.04.2006)
+- TOP 9.1.11: Schieneninfrastruktur und städtebauliche entwicklung im Münchener Nordosten (Hinweis/Ergänzung zum Beschluss der Vollversammlung des Stadtrates vom 05.04.2006)
+- TOP 9.1.12: Baumaßnahmen der Stadtwerke München
+- TOP 9.1.13: Vollzug der Günanlagensatzung vom 12.08.1991: a) Veranstaltung auf dem Spengelplatz, AusnahmebewilligungKanalbau im Umgriff des B-Planes Nr. 1592b Bremer Straße, Projektgenehmigung
+- TOP 9.1.14: Meldelisten Bauvorhaben
+- TOP 9.1.15: Baumaßnahmen Baureferat
+- TOP 9.1.1: Abriss und Neubau der Kinder- und Jugendfreizeitstätte "Spiel- und Begenungszentrum Am Hart" Arnauer Straße 5 (Beschluss des Kinder- und Jugendhilfeausschusses vom 11.05.2006)
+- TOP 9.1.2: Errichtung einer viergruppigen Kinderkrippe und einer Kinder- und Jugendfreizeitstätte Neuherbergstraße, Neubau (Beschluss der Vollversammlung des Stadtrates vom 15.03.2006)
+- TOP 9.1.5: Ausschreibung von Trägerschaften für bezuschusste soziale Einrichtungen (Beschluss des Kinder- und Jugendhilfeausschusses vom 25.04.2006)
+- TOP 9.1.4: Bauträgerauswahl für die Baugrundstücke des kommunalen Wohnungsbauprogramms Teilprogramm für Benachteiligte am Wohnungsmarkt - Teilprogramm Clearinghäuser (Beschluss des Sozialausschusses vom 16.05.2006) - nicht öffentlich -
+- TOP 9.1.6: Unveränderte Fortführung von Gaststättenbetrieben: a) Trink- und Imbisskiosk "Olympiagelände Stände 2 und 4", Coubertinplatz b) Ausschank von Getränken und /oder Abgabe von zubereiteten Speisen in einer Veranstaltungsstätte "Olympiahalle Stände 9 und 21, Spiridon-Louis-Ring
+- TOP 9.1.1: Gleisbauarbeiten im Bereich Karlsplatz / Prielmayerstraße, Information der MVG mbH
+- TOP 9.1.2: Verkehrslärmschutz am Petuelring zwischen den Kreuzungen Schleißheimer und Lerchenauer Straße (Beschluss des Bauausschusses vom 28.03.2006)
+- TOP 9.1.3: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungsbescheide: a) Straßenfest Mettenleiterplatz am 01.05.2006 b) Info-Tour Fußballsommer - München mag Dich c) 4. City-Triathlon im Olympiapark am 30.04.2006
+- TOP 9.1.4: Verkehrsrechtliche Anordnungen nach §45 Abs.1 Nr.6 StVO
+- TOP 10: Sonstiges
