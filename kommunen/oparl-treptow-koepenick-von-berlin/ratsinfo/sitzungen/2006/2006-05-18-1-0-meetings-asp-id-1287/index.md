@@ -1,0 +1,64 @@
+# 50. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2006-05-18T16:30:00+02:00
+- Ende: 2006-05-18T22:30:00+02:00
+- Ort: Alt-Köpenick 21, 12555 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1287
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1287
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers V_52 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.1: Neuwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8.2: Wahl der Mitglieder des ehrenamtlichen Dienstes (Sozialkommissionen) - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - gewählt
+- TOP 10: Nachfragen zu Großen Anfragen - gewählt
+- TOP 10.1: Bezirkliche Feste - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - beantwortet
+- TOP 11.1: Bebauungsplan 9-21 ("Sterndamm") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Johannisthal - Entwurf des Bebauungsplans 9-21 - Entwurf der Rechtsverordnung zum Bebauungsplan 9-21 - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für SG Grün-Weiß Baumschulenweg (SM 623) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.4: Sondermittel für Kunstfabrik Köpenick e.V. (SM 631) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Evangelische Kirchengemeinde Berlin Treptow (SM 633) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Seesportclub Berlin-Grünau e.V. (SM 607) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für Bezirkssportbund Treptow-Köpenick e.V. (SM 610) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für Sportverein Treptow 46 e.V. (SM 614) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Sondermittel für Bürgerverein Wilhelmshagen-Rahnsdorf e.V. (SM 625) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.1: Fußgängersteg über die Müggelspree - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Arbeitskonferenz Kindertagesbetreuung - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Änderung der Geschäftsordnung der BVV Treptow-Köpenick - vertagt
+- TOP 12.4: Selbstverwaltung der KGA Erpetal ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.1: Bebauungsplan 9-14 im Bezirk Treptow-Köpenick, Ortsteile Oberschöneweide und Niederschöneweide hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.2: Bebauungsplan 9-21 ("Sterndamm") hier: Planreife für das Grundstück Sterndamm 29-33 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Johannisthal - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Leitlinien für die Seniorenpolitik des Bezirksamtes Treptow-Köpenick - überwiesen
+- TOP 13.4: Planfeststellungsverfahren des Bezirksamtes Treptow-Köpenick von Berlin zum Umbau Fürstenwalder Damm von Bellevuestraße bis Hirschgartendreieck - überwiesen
+- TOP 13.5: Benennung der bis jetzt unbenannten Stichstraße in den KGA Wilhelmstrand und Am Freibad in Oberschöneweide in "Spreeschlossstraße" - überwiesen
+- TOP 13.6: Bebauungsplan XV-73 ("Dörpfeldstraße") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.7: Stasiüberprüfung der Bezirksverordneten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Bürgerbeteiligung qualifizieren - überwiesen
+- TOP 14.2: Radwege zwischen Lindenstr. und Alt-Köpenick - überwiesen
+- TOP 14.3: Seebad Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Sommerbad Wuhlheide - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Beschallung Fußgängertunnel am S-Bahnhof Schöneweide - überwiesen
+- TOP 14.6: Betriebsbahnhof Schöneweide besser anbinden - überwiesen
+- TOP 14.7: Kinderspielplatz in Müggelheim - überwiesen
+- TOP 14.8: Lärm- und Geruchsbelästigung Güterbahnhof Grünau - überwiesen
+- TOP 14.9: Verbesserung ÖPNV am Jobcenter Groß-Berliner Damm - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Leitlinien für Familienunterstützende Hilfen - überwiesen
+- TOP 14.11: Existenzsicherung für Gewerbetreibende im Strandbad Rahnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Keine Reisewarnung für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
