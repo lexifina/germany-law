@@ -1,0 +1,108 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2006-05-18T17:30:00+02:00
+- Ende: 2006-05-18T22:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1195
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1195
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=53215
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde * Anfrage des Stadtteilplenums Moabit West - beantwortet
+- TOP 2: Mitteilung - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - erledigt
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Familientag auf Kosten des Doms? - beantwortet
+- TOP 5.2: Theaterhaus Mitte - beantwortet
+- TOP 5.3: Urlaubssperren zur Fußball-WM? - beantwortet
+- TOP 5.4: Wohnobjekte Lützowplatz 2-18, Lützowufer 20-23, Wichmannstraße 1-3 oder "Was schert mich mein Geschwätz von gestern" - beantwortet
+- TOP 5.5: Wie beliebt ist der Kita-Eigenbetrieb? - beantwortet
+- TOP 5.6: Monbijoupark - beantwortet
+- TOP 5.7: Fördermöglichkeiten für sogenannte nichtleistungsempfangende Arbeitslose - beantwortet
+- TOP 5.8: "Transmission" dauerhaft erhalten! - schriftlich beantwortet
+- TOP 5.9: Wie stellt das Bezirksamt eine erfolgreiche Fortführung des Energieeinsparprojektes Fifty-Fifty sicher? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Gemeinsam für Moabit? - beantwortet
+- TOP 7.2: Städtepartnerschaft - Türkei - beantwortet
+- TOP 7.3: Einheitliches Verfahren bei Schulschwänzern - beantwortet
+- TOP 7.4: Parkraumbewirtschaftung - beantwortet
+- TOP 7.5: "Gesundheitsgutachten" - ein weiteres Schadstoffgutachten für das JobCenter? - schriftlich beantwortet
+- TOP 7.6: Kündigung der Grundstücks-Leihverträge vom 11./ 13. 06. 1975 Betr:. Grundstück Bachstraße 4-5, Hansaufer 5, Spenerstraße 36-38 - schriftlich beantwortet
+- TOP 7.7: Schandfleck am Checkpoint Charlie - schriftlich beantwortet
+- TOP 7.8: Beantwortung von Kleinen Anfragen - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Genehmigung der im Haushaltsjahr 2005 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 9.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 2 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 4 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 7 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 10 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Fortschreibung und Konkretisierung der Sanierungsziele für das Grundstück Strelitzer Straße 54 im Sanierungsgebiet Rosenthaler Vorstadt im Bezirk Mitte von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Räume für die Berliner Tafel - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sozialplanverfahren in der Fehrbelliner Straße 44-48 einleiten - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Barrierefrei in den Fehrbelliner Höfen - überwiesen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Einstellung der Buslinie 343 - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Benennung nach James Simon - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Gedenktafel an der Krolloper - überwiesen
+- TOP 12.4: Oberschulen im Ganztagsbetrieb - überwiesen
+- TOP 12.5: Qualifizierung für die Lokale Agenda 21 - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Verbesserung der Datenlage bei häuslicher Gewalt - überwiesen
+- TOP 12.7: Saubere Schulen - überwiesen
+- TOP 12.8: Frische Luft in das JobCenter! - überwiesen
+- TOP 12.9: Straßenfeste: Tod für Anpflanzungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Neubebauung ehem. Paechbrot-Gelände im Sanierungskiez hier: Voten des Betroffenenrates Stephankiez berücksichtigen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Krankenstand im Bezirksamt darf nicht länger unbekanntes Wesen bleiben - überwiesen
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Allein grün bringt mehr Sicherheit - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Finanziellen Schaden durch Außenstände im Sozialamt abwenden - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Keine Diskriminierung von Jugendlichen und jungen Erwachsenen aus Bedarfsgemeinschaften bei der Berufsberatung - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Zusammenarbeit von Jugendämtern und Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Gewerbe im Randbereich des BND-Komplexes - in der BVV abgelehnt
+- TOP 13.6: Drum prüfe wer sich ewig bindet, ob er nicht noch was Billigeres findet - Prüfungen im Rahmen des Dienstgebäudemanagementes des Bezirksamtes ausweiten - in der BVV abgelehnt
+- TOP 13.7: Sprachförderzentrum Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Fernradweg R 3 - Berlin-Kopenhagen - in der BVV abgelehnt
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Alexanderplatz - ein Platz für junge Leute - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Sicherung von Wohnnutzungen im Bezirk Mitte
+- TOP 14.3: Rosenholz-Überprüfung in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Vergabe von Gutachten, Studien u.ä. öffentlich machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Überprüfung der Arbeitszeiten der Pflegekräfte in Heimen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Landesweite Regelung für Gewährung eines Mehrbedarfzuschlages bei kostenaufwendiger Ernährung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.7: Transparenz bei Grundstücksgeschäften aus Fachvermögen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Berichtspflicht der Arbeitsagentur sicherstellen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: QM für Stephankiez nach Aufhebung als Sanierungsgebiet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Fortbildungen und Qualifizierungen für die Mitarbeiter/innen der Arge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Umgang mit Schäden an Granitpollern in der Spandauer Vorstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: QM 4 - Stephankiez - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: Die Zentreninitiative "Mittendrin Berlin!" unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.14: Chaos bei der Umsetzung des Energiesparcontractings sofort beenden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.15: Quartiersräte in Steuerungsrunde (2) Umsetzung BVV-Beschluss Drucksache 1769/II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: Verlässliche Ansprechpartner für die Schulen bei der bezirklichen Jugendhilfe - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.17: Abfederung des finanziellen Defizits des Kita-Eigenbetriebs - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.18: Soziale Nutzung des Gesundheits- und Sozialstandortes Moabit durch die Berliner Tafel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.19: Berufsbilder - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.20: Weihnachtsstimmung am Rathaus Tiergarten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.21: Reform des Öffentlichen Gesundheitsdienstes nicht ohne Beachtung des demografischen Wandels - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.22: Sprachlerntagebuch unverzüglich einführen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.23: Übersicht über den Stand der im Verfahren befindlichen Bebauungspläne - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.24: Auswirkungen des neuen Rechts auf die Aufstellung von Bebauungsplänen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.25: Bestellung des Bezirkswahlleiters und seines Stellvertreters für die Wahlen zum Abgeordnetenhaus von Berlin und zu der Bezirksverordnetenversammlung Mitte, die voraussichtlich im September 2006 stattfinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.26: Betriebliche Abfallwirtschaft 2005 im Bezirksamt Mitte von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.27: Beschluss über das Ergebnis der Beteiligung der Behörden gem. § 4 Abs. 2 Baugesetzbuch zum Bebauungsplanentwurf 1-37 und der Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch ( BauGB). - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.28: Liegenschaftsfonds alt: Drucksache I/32 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.29: Beschluss über die Ergebnisse der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 Baugesetzbuch ( BauGB) sowie der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 und 2 BauGB zum Bebauungsplanentwurf 1-16 VE, die Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB sowie die Einbringung einer Vorlage in die Bezirksverordnetenversammlung - zur Kenntnisnahme- - mit Abschlussbericht zur Kenntnis genommen
