@@ -1,0 +1,55 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2006-05-18T15:00:00+02:00
+- Ende: 2006-05-18T16:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZXzouC4uPLcajFFx8oAxjC8
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/687
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTmTWDWKsJzUhZVvms4SUD4xY1Pr5zdU_9sAdQBvFV1B/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_18.05.2006.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: Vergabe von Zuschüssen an Selbsthilfegruppen und Initiativen - Sozialamt -
+- TOP 3: Städtischer Zuschuss zur Grundsanierung des Gebäudes Kortumstraße 143 für die Nutzung als Begegnungs-, Kultur- und Beratungszentrum in Trägerschaft des gemeinnützigen Vereins Rosa Strippe e. V.
+- TOP 4: Antrag der PDS-Fraktion zur Sitzung des Sozial- und Gesundheitsausschusses am 18.05.2005, hier: Karenzzeit zur Senkung der Kosten der Unterkunft
+- TOP 5: Arbeitsgelegenheiten
+- TOP 6: Anfrage der PDS-Fraktion zur Sitzung des Sozial- und Gesundheitsausschusses am 18.05.2006, hier: Stand der Umsetzung der Richtlinie Kosten der Unterkunft (Anlage 1 zu T29)
+- TOP 7: keine Tagesordnungspunkte
+- TOP 8: Antrag der PDS-Fraktion zur Sitzung des Sozial- und Gesundheitsausschusses am 18.05.2006, hier: Situation auf dem Bochumer Wohnungsmarkt
+- TOP 9: Zuständigkeitsregelung für die Übernahme von Schulden zur Sicherung der Unterkunft oder zur Behebung einer vergleichbaren Notlage gem. § 22 Abs. 5 und 6 Sozialgesetzbuch - Zweites Buch - SGB II
+- TOP 10: Antrag der PDS-Fraktion zur Sitzung des Sozial- u. Gesundheitsausschusses am 18.05.2006, hier: Angemessenheit der Wohnungsgröße bei Übernahme der Kosten der Unterkunft
+- TOP 11: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 12: Verteilung von Zuschüssen an Selbsthilfegruppen im Gesundheitsbereich - HSt. 1.545.718.700/6 -
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Beschlussvorschläge für den Rat
+- TOP 15: Beratungsgutscheine für Mieterverein
+- TOP 16: Angemessenheit der Unterkunftskosten - vergleiche Drucksache Nr. 20060202/00 -
+- TOP 17: Anfrage der PDS-Fraktion zur Sitzung des Sozial- und Gesundheitsausschusses am 18.05.2006, hier: Veröffentlichung der Richtlinie Kosten der Unterkunft (Anlage 1 zu T 29)
+- TOP 18: Qualifizierungsmaßnahmen
+- TOP 19: Anträge
+- TOP 20: "Suppenküchen" in Bochum (Ergänzung)
+- TOP 21: Bericht des Rechnungsprüfungsamtes vom 16.02.2006 über die Abwicklung von eingestellten Fällen der Hilfe zum Lebensunterhalt nach dem Bundessozialhilfegesetz (BSHG) durch das Sozialamt und die Bezirksverwaltungsstellen - vergleiche Drucksache Nr. 20060341/00 -
+- TOP 22: Mitteilungen
+- TOP 23: Kommunikationsschwierigkeiten in der ARGE
+- TOP 24: Antwort auf die Anfrage der PDS-Fraktion zu "VHS-Kurse für ALG II Bezieher/innen"
+- TOP 25: Anfragen
+- TOP 26: Medizinische Versorgung Wohnungsloser
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: keine Tagesordnungspunkte
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Einräumung eines Erbbaurechts an dem Grundstück "Kortumstraße 143" für einen gemeinnützigen Verein
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 8: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 9: Beschlussvorschläge für den Rat
+- TOP 10: Anträge
+- TOP 11: Mitteilungen
+- TOP 12: Anfragen
