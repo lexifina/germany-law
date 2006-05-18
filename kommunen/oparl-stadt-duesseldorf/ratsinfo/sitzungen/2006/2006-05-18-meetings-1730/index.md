@@ -1,0 +1,76 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-05-18T14:00:00+02:00
+- Ende: 2006-05-18T19:59:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1730
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1730
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111679.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111679.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111679.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - zur Kenntnis genommen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Anfragen - zur Kenntnis genommen
+- TOP 5: Anfr. CDU: Müllsünder - zur Kenntnis genommen
+- TOP 6: Anfr. CDU: Park und Ride Plätze - zur Kenntnis genommen
+- TOP 7: Anfr. Bü90:Ratinger Weststrecke - zur Kenntnis genommen
+- TOP 8: Anfr. Bü90: Rechtsextremismus und Fremdenfeindlich - zur Kenntnis genommen
+- TOP 9: Anfrage d. Rf. Hebeler: Betreuungsplätze Ki. u. 3 - zur Kenntnis genommen
+- TOP 10: Anfr. RF Kahl: Wohnungssituation - zur Kenntnis genommen
+- TOP 11: Anfr. Kahl: Verkauf Wohnungen LEG - zur Kenntnis genommen
+- TOP 12: Anfr. Lbbg: Vorteilsgewährung - zur Kenntnis genommen
+- TOP 13: Anfr. Lbbg: Dezernatsverteilungsplan - zur Kenntnis genommen
+- TOP 14: Änderung d. Zuständigkeitsordnung
+- TOP 15: Ändantr. Bü90: ZustO
+- TOP 16: Sonntagfreigaben - mehrheitlich beschlossen
+- TOP 17: Anträge - zur Kenntnis genommen
+- TOP 18: Antr. SPD: Ausschreibung Stromlieferungen - mehrheitlich beschlossen
+- TOP 19: Ändantr. CDU: Strom - mehrheitlich beschlossen
+- TOP 20: Änd.-antr. CDU/FDP: Stromverträge - zur Kenntnis genommen
+- TOP 21: Antr. CDU/FDP: Wassertaxi - einstimmig beschlossen
+- TOP 22: Änd.-antr. Bü90: Wassertaxi - mehrheitlich abgelehnt
+- TOP 23: Antr. Bü90:Bezahlbar wohnen - mehrheitlich abgelehnt
+- TOP 24: 01/149 Ändantr. Kahl-Lbbg - mehrheitlich abgelehnt
+- TOP 25: Antrag Bü90/Grü: Beflaggung CSD - mehrheitlich abgelehnt
+- TOP 26: Antrag Bü90: Gleichstellung Behinderter - mehrheitlich abgelehnt
+- TOP 27: Änd.-antr. SPD: Gleichstellung von Menschen mit Be - mehrheitlich abgelehnt
+- TOP 28: antr. CDU/FDP: Gelbe Tonne - mehrheitlich beschlossen
+- TOP 29: Änd.-antr. Bü90: Gelbe Tonne - zur Kenntnis genommen
+- TOP 30: Antr SPD: Mittagsverpflegung - mehrheitlich abgelehnt
+- TOP 31: Änd.-antr bü90: Mittagessen Ganztagseinrichtung - mehrheitlich abgelehnt
+- TOP 32: Antr. SPD: Städtepartnerschaften - mehrheitlich abgelehnt
+- TOP 33: Antr. SPD: DSL - mehrheitlich abgelehnt
+- TOP 34: Interantr.: Gegenrechts - einstimmig beschlossen
+- TOP 35: Erg.-antr. Interfrakti. Gegenrechts - einstimmig beschlossen
+- TOP 36: Üpl.-Luegallee - Umbau von 7 Fußgängerquerungen - einstimmig beschlossen
+- TOP 37: Kämmererliste - mehrheitlich beschlossen
+- TOP 38: 4-Fach-Sporthalle Gerresheim - mehrheitlich beschlossen
+- TOP 39: Änd.-antrag Bü90: Vierfachhalle Gerresheim - mehrheitlich abgelehnt
+- TOP 40: Masterplan Schulen Hulda-Pankok-Gesamtschule - einstimmig beschlossen
+- TOP 41: Bücherei Blücherstraße - einstimmig beschlossen
+- TOP 42: Wehrhahnlinie - Bau- und Finanzierungsbeschluss - - mehrheitlich beschlossen
+- TOP 43: Annahme einer Sachspende für den Bevölkerungsschut - mehrheitlich beschlossen
+- TOP 44: Umbesetzung Ausschüsse - einstimmig beschlossen
+- TOP 45: Wiederbestellung d. Vors. Umlegungsausschuss - einstimmig beschlossen
+- TOP 46: Verbandsvers. VRR-Ersatzbest. - einstimmig beschlossen
+- TOP 47: A.f.Arbeit-- Benennung neuer stellvertretender Mit - mehrheitlich beschlossen
+- TOP 48: AR Kunsthalle D`dorf-Neuwahl - mehrheitlich beschlossen
+- TOP 49: AR Städt. Wohnungsges., Neuwahl - mehrheitlich beschlossen
+- TOP 50: Abberufung - einstimmig beschlossen
+- TOP 51: Gen.60er: Üpl. 60-jähriges Landesjubiläum - mehrheitlich beschlossen
+- TOP 52: 60er: 60-jähriges Landesjubiläum NRW-Üpl-Mittel - mehrheitlich beschlossen
+- TOP 53: Bericht des Instituts für Denkmalschutz und Denkma - einstimmig beschlossen
+- TOP 54: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 55: Pl5972/19-westl.Oerschbachstr-Ä/1.Verl.VÄ - einstimmig beschlossen
+- TOP 56: Plan Nr. 6075/36 - In den Kötten - Veränderungsspe - einstimmig beschlossen
+- TOP 57: Änd.BPl. 5974/30-Ellerkirchstr-Anre.Änd.Satzung - einstimmig beschlossen
+- TOP 58: B-Plan Nr. 5187/017 - Duisburger Landstr. - einstimmig beschlossen
+- TOP 59: B-Plan Nr. 5676/60 - Höherweg - Satzung - einstimmig beschlossen
