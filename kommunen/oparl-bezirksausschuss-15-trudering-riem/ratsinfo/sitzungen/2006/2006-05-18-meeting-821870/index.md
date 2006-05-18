@@ -1,0 +1,142 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2006-05-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/821870
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/821870
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses i.H.v. 2.000,00 Euro durch Refugio München
+- TOP 1.2.: Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses i.H.v. 2.500,00 Euro durch den Förderverein Festring Trudering e.V.
+- TOP 1.3.: Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses i.H.v. 1.125,00 Euro durch die Hauptschule Feldbergstraße (bewilligt: 981,97 Euro)
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Fluglärm über Waldtrudering
+- TOP 2.2.: Parkplatzproblematik Riem Arcaden / Platz der Menschenrechte; Versorgung mit Supermärkten in der Messestadt
+- TOP 2.3.: städtischer Privatweg Heltauerstraße zwischen Karlsburger Straße und Dollwiesenweg; Instandsetzung des unbefestigten Weges
+- TOP 2.4.: Straßenzustand Trudering-Riem (2 Bürgerschreiben)
+- TOP 2.5.: Einführung eines sogenannten Sozialtickets
+- TOP 2.6.: Aufstellung eines dreiteiligen Funktionsgehäuses der Telekom
+- TOP 2.7.: Markierung des Radweges in der Gartenstadtstraße
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Sicherung des haushaltsnahen Wertstofferfassungskonzepts in der Messestadt Riem, Antrag Nr. 02-08 / B 00982 (Schreiben des OB Ude und des Abfallwirtschaftsbetriebs München)
+- TOP 3.2.: Zweckentfremdung beim städtischen Anwesen Truderinger Straße 288, Antrag Nr. 02-08 / B 01040
+- TOP 3.3.: Lageplan und Grundbuchauszug zum Anwesen Truderinger Straße 288, Antrag Nr. 02-08 / B 00680
+- TOP 3.4.: Stadteigenes Anwesen Martin-Empl-Ring 6
+- TOP 3.5.: Schluss mit dem Versteckspiel: Fragen zum Bauzustand der Lehrer-Wirth-Schule, Antrag Nr. 02-08 / B 00981
+- TOP 3.6.: Lärmbelästigung durch pädagogische Farm, WV 9 IV/10/05
+- TOP 3.7.: Gewerbegebiet Messestadt Nordwest realistisch vermarkten, Antrag Nr. 02-08 / B 00830 (Top 3.12/04/06)
+- TOP 3.8.: Messestadt Informationssystem INFOSYS, WV 4 I/01/06
+- TOP 3.9.: Briefkästen für große Neubaugebiete, Antrag Nr. 02-08 / B 00892
+- TOP 3.10.: Umbenennung der von-Trotha-Straße
+- TOP 3.11.: Überprüfung der U-Bahnauslastung am Innsbrucker Ring, Antrag Nr. 02-08 / B 00980 ZWISCHENBESCHEID
+- TOP 3.12.: Gefahren und Nachteile der neuen Buslinienführung (Bus 192), Antrag Nr. 02-08 / B 01033
+- TOP 3.13.: Wo sind die MVV-Vorverkaufsstellen in Trudering-Riem, Antrag Nr. 02-08 / B 01042
+- TOP 3.14.: Änderungen im Filialnetz der Deutschen Post AG
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Mehrgenerationenhaus
+- TOP 4.2.: Instandsetzung der Straßen in Trudering-Riem
+- TOP 4.3.: Müllbehälter mit Deckel für den Riemer Park
+- TOP 4.4.: Erstellung eines Zebrastreifens in der Zehntfeldstraße Höhe Mädelegabelstraße
+- TOP 4.5.: Armutsbericht 2004 - Konsequenzen für die Messestadt
+- TOP 4.6.: Was hat der 10 Minuten-Takt der S-Bahn gebracht
+- TOP 4.7.: Mischbetriebs-Alternative zum 2ten S-Bahntunnel untersuchen
+- TOP 4.8.: Ampel-Fehler schneller beheben
+- TOP 4.9.: Geheimniskrämerei um haushaltsnahe Wertstoffsammlung beenden
+- TOP 4.10.: Sicherstellung der telefonischen Erreichbarkeit der Bezirksinspektion Ost
+- TOP 5: Anhörungen
+- TOP 5.1.: Anhörung gemäß § 3 der Bezirksausschusssatzung Verkauf einer städtischen Immobilie Heinrich-Wieland-Straße / Zehntfeldstraße
+- TOP 5.2.: Abfallwirtschaftsbetrieb München (AWM); Aufwertung des Wertstoffhofes in der Mauerseglerstraße; modellhafte private Führung durch eine gemeinnützige Einrichtung (Vorbild Haar) oder Verpachtung eines Teiles des Wertstoffhofes an eine private oder gemeinnützige Einrichtung (Vorbild Freising), Empfehlung Nr. 02-08 / E 00263 der BV vom 09.11.2005
+- TOP 5.3.: Veranstaltung auf Privatgrund Truderinger Festwoche vom 19.05.2006 bis 28.05.2006
+- TOP 5.4.: Veranstaltung auf Privatgrund (Termin bis 18.05.06; Eilentscheidung); Public Viewing ggü. Willy-Brandt-Platz ? Übertragung der Fußball WM 2006
+- TOP 5.5.: Anhörung durch die zweite Bürgermeisterin Christine Strobl; Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 5.6.: Anhörung zum Vorab-Entwurf der Beschlussvorlage für den Sozialausschuss vom 22.06.06, Ausbau des Netzes der Alten- und Servicezentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe zuzüglich eines Antrages der CSU-Fraktion
+- TOP 5.7.: Anhörung zum Leistungsprogramm 2007 der MVG (Fahrplanwechsel Dezember 2006)
+- TOP 5.8.: Antrag der Gaststätte ?Calabrone Restaurante Pizzeria?, Willy-Brandt-Platz 5 auf Erweiterung des Wirtschaftsgartens
+- TOP 5.9.: Vollzug des § 29 Straßenverkehrsordnung (StVO); ISPO-Inline Marathon am 16.07.2006 (Frist: 09.06.06)
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 6.1.: Erwerb eines Grabes zu Lebzeiten auf dem Friedhof Riem, Anfrage Nr. 02-08 / Q 00070 aus der BV vom 09.11.2005
+- TOP 6.2.: Kommunales Wohnungsbauförderungsprogramm Clearinghaus am Drosselweg; Akteneinsicht zur Vermeidung von Korruption, Empfehlung Nr. 02-08 / E 00252 der BV vom 09.11.2005
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.7.2: UA Planung:
+- TOP 7.1.1: Gemeinde Haar Flächennutzungsplan - Änderung Nr. 29
+- TOP 7.1.2: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung, plus Ergänzung über den Zufahrtsverkehr zu den o.g. P+R Anlagen (s. auch Antrag Nr. 2400)
+- TOP 7.1.3: Boden- und Bauschutt Recycling-Anlagen und Bodenbörsen in München Vorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 7.1.4: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 Abs. 2 AEG für den Neubau eines Verkaufspavillon - Plangenehmigungsbescheid
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.1.1: Verwendungsnachweis des Kreativ Musikforums über die Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses i.H.v. 645,00 Euro
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 7.1.1: Belebung der Messestadt Riem; Ansprechpartner bei der Landeshauptstadt München (Antrag Nr. 02-08 / B 00814)
+- TOP 8: Baumfällungen
+- TOP 8.1.: Bescheide und Mitteilungen über bereits durchgeführte Baumfällungen: Zauberwaldstraße 5, Waldschulstraße 19, Tangastraße 53
+- TOP 8.2.: Waldschulstraße 45
+- TOP 8.3.: Mönchbergstraße 15 d
+- TOP 8.4.: Eigerstraße 25
+- TOP 8.5.: Rotkehlchenweg 2
+- TOP 8.6.: Irmelastraße 9
+- TOP 8.7.: Feldbergstraße 9
+- TOP 8.8.: Geitnerweg 26
+- TOP 8.9.: Oberseestraße 23
+- TOP 8.10.: Kreuzerweg 6
+- TOP 8.11.: Kranichweg 18
+- TOP 8.12.: Solalindenstraße 69 a
+- TOP 8.13.: Wachtelweg 10
+- TOP 8.14.: Elfriedenstraße 22
+- TOP 8.15.: Bistritzer Weg 5
+- TOP 8.16.: Großfriedrichsburger Straße 26
+- TOP 8.17.: Toni-Schmid-Straße 25
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine und Mitteilungen a) Ortsbegehung Truderinger Spielplätze: Treffpunkt 10.05.06 um 14.30 Uhr Spielplatz Florastraße b) Jahresgespräch mit dem Sozialreferat am 11.05.06 um 17.00 Uhr c) Gespräch Buslinie 192 am 18.05.06 um 17.00 Uhr d) Nacht der Umwelt 19.05.06 (s. Anlage) e) Münchner Sommer-Spiel-Aktion von Mai bis September (s. Anlage) f) Verlegung der September-Sitzung auf den 21.09.2006 g) nach Mitteilung des Vorsitzenden
+- TOP 9.2.: Regionalgespräche zwischen den Lokalbaukommissionen und den Bezirksausschüssen
+- TOP 9.3.: Kürzung von freiwilligen Leistungen der Landeshauptstadt München im Rahmen der Haushaltskonsolidierung - Budget für Bezirksausschüsse
+- TOP 9.4.: München zeigt Flagge - Unterlagen zur Kampagne
+- TOP 9.5.: Brunnen an der Lehrer-Wirth-Straße, WV 2 IV
+- TOP 9.6.: Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 1945 Schwablhofstraße östlich (Protokoll zur öffentlichen Erörterung)
+- TOP 9.7.: Mobilfunk Suchkreismeldungen Daglfing-Ost, Kirchtrudering
+- TOP 9.8.: Messestadt Riem Einnahmen-Ausgaben-Blockabschätzung, Maßnahmen zur Verbesserung des Endsaldos Beschluss des Riem-Ausschusses vom 26.04.2006 (SB)
+- TOP 9.9.: Bajuwarenstraße (Bebauungsplan Nr. 1758) Herstellung der U-1547 und U-1548
+- TOP 9.10.: Erweiterung und Ausbau der BA-Rechte Stellungnahme des Bezirksausschusses 3 Maxvorstadt zum Antrag Nr. 02-08 / B 00648 des Bezirksausschusses 13 Bogenhausen
+- TOP 9.11.: Flugverbot über München einhalten Antrag des BA 19 Thalkirchen ? Obersendling ? Forstenried ? Fürstenried - Solln
+- TOP 9.12.: Kindergartensituation Waldtrudering / Clearinghaus Drosselweg; Rederecht im Sozialausschuss am 16.05.2006
+- TOP 9.13.: Inkrafttreten des Bayerischen Kinderbildungs- und ?betreuungsgesetzes (BayKiBiG) Information über die Gebühren für den Besuch städt. Kindertageseinrichtungen
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Bachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 10.04.2006 bis 30.04.2006
+- TOP 10.2.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Zehntfeldstüberl, Zehntfeldstraße 139
+- TOP 10.3.: Zweckentfremdung von Wohnraum - Kibostraße 3
+- TOP 10.4.: Zweckentfremdung von Wohnraum - Zauberwaldstraße 11
+- TOP 10.5.: Kommunales Wohnungsbauförderungsprogramm - Clearinghaus Drosselweg Beschluss des Sozialausschusses vom 23.02.2006 (VB)
+- TOP 10.6.: Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006 Beschluss der Vollversammlung des Stadtrates vom 05.04.2006
+- TOP 10.7.: Schieneninfrastruktur und städtebauliche Entwicklung im Münchner Nordosten Hinweis/Ergänzung der Vollversammlung des Stadtrats vom 05.04.2006
+- TOP 10.8.: Ortsbegehung Riem Schreiben der 2ten Bürgermeisterin Christine Strobl
+- TOP 10.9.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 1973 Messestadt Riem - Sondergebiet Messe
+- TOP 10.10.: Aktualisierung des Flächennutzungsplanes und Aufstellung des Landschaftsplanes Teilbereich VI - Südost Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.04.2006 (VB)
+- TOP 10.11.: Wohnen in München III Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.04.2006
+- TOP 10.12.: Frostschäden auf Münchner Straßen Beschluss des Bauausschusses vom 27.04.2006 (SB) und (VB)
+- TOP 10.13.: Straßenbenennung im 15. Stadtbezirk Trudering-Riem, Messestadt Riem - 3. Bauabschnitt Wohnen Heinrich-Böll-Straße Kurzübersicht zum Beschluss des Riemausschusses vom 22.03.2006
+- TOP 10.14.: Vollzug der Grünanlagensatzung vom 12.08.1991 Veranstaltung im Riemer Park
+- TOP 10.15.: Offensive für den Radverkehr V - mehr Fahrradabstellflächen im Straßenraum schaffen Beschluss des Bauausschusses vom 27.04.2006 (SB)
+- TOP 10.16.: Infotour Fußballsommer Zustimmung zur Veranstaltung durch den Bezirksausschuss 15 Trudering-Riem
+- TOP 10.17.: Maifeier des Vereins Truderinger Buam Festring e.V. Zustimmung zur Veranstaltung durch den Bezirksausschuss 15 Trudering-Riem
+- TOP 10.18.: Vollzug der Straßenverkehrsordnung (StVO) Drehgenehmigung für die NDF am 05.06.2006 von 8.00 Uhr bis 20.00 Uhr am Rotfuchsweg 8
+- TOP 10.19.: Altholzbehandlungs- und Abfallumschlaganlage der IRV Interroh Rohstoffverwertungs GmbH Genehmigung der Weiterbetreibung der Anlage durch das Kreisverwaltungsreferat
+- TOP 10.20.: Realisierungswettbewerb - Neubau von 5 Kindertageseinrichtungen in Systembauweise Beschluss des Kinder- und Jugendhilfeausschusses vom 25.04.2006 (SB)
+- TOP 10.21.: Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010
+- TOP 10.22.: Magazin des Seniorenbeirates - Wir über 60
+- TOP 10.23.: Zweckentfremdung von Wohnraum - Salzmesserstraße 106
+- TOP 10.24.: Zweckentfremdung von Wohnraum - Leonhardiweg 29
+- TOP 10.25.: Zweckentfremdung von Wohnraum - Am Birkicht 5
+- TOP 10.26.: Zuwendungsbewilligung aus dem Budget des BA 15 für den Männergesangsverein Liederkranz Trudering i.H.v. 360,00 Euro
+- TOP 10.27.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Ohlmüllerstraße 42, Firma Paulaner Brauerei GmbH & Co.KG, Neubau Sudhaus und Gär- und Lagerkeller
+- TOP 10.28.: Rad- und Rollsportevent ? Absage der ?Radtour für Jedermann? am 25.05.2006
