@@ -1,0 +1,7 @@
+# TOP 3.3: Arbeitslosengeld II - Sparpaket - Auswirkungen auf den Bezirk Reinickendorf
+
+- Sitzung: 30. öffentliche Sitzung des Sozialausschusses (2006-05-23)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=9815
+- Ergebnis: beantwortet
