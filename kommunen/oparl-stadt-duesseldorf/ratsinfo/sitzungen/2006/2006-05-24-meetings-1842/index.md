@@ -1,0 +1,58 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-05-24T16:00:00+02:00
+- Ende: 2006-05-24T00:00:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1842
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1842
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111839.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111839.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111839.pdf
+
+## Tagesordnung
+
+- TOP 1: Vorstellung Polizeipräsident - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: BPl 5483/13-ehem.Kaufring-Anreg.Änd.Satzung - einstimmig beschlossen
+- TOP 6: BPl5682/14-Van der Valk-Hülserhof Bericht+ÖB - mehrheitlich beschlossen
+- TOP 7: FNPÄ 134 Am Hülsehof ÖB - mehrheitlich beschlossen
+- TOP 8: Zentrale Grünfläche Kaufring - zur Kenntnis genommen
+- TOP 9: Waldspielplatz Müllers Wiese - zur Kenntnis genommen
+- TOP 10: Grünverbindung Selbecker Straße - einstimmig beschlossen
+- TOP 11: KSP Roseggerstraße - einstimmig beschlossen
+- TOP 12: Anfrage Bü90/Grüne: Verbindungsweg Heinrichstraße - zur Kenntnis genommen
+- TOP 13: Anfrage SPD: Parkplatz Df-Rath - zur Kenntnis genommen
+- TOP 14: Anfrage SPD: Ampelschaltung Bochumer-/Dortmunder S - zur Kenntnis genommen
+- TOP 15: Anfrage SPD: Büdchen Scheffelstraße - zur Kenntnis genommen
+- TOP 16: Antrag SPD: Parkplätze für das Rather Waldstadion - mehrheitlich beschlossen
+- TOP 17: Antrag CDU/SPD/Gr. Parkplatz Rotdornstraße - einstimmig beschlossen
+- TOP 18: Antrag CDU: Gewerbe- und Wohnbauflächen - einstimmig beschlossen
+- TOP 19: Antrag Claes: Verlängerung Linie 701 - zur Kenntnis genommen
+- TOP 20: Antrag SPD/CDU: Osterfelder Straße - zur Kenntnis genommen
+- TOP 21: Antrag CDU: LZA Liliencronstraße - einstimmig beschlossen
+- TOP 22: Antrag CDU: Linienweg 776 - mehrheitlich beschlossen
+- TOP 23: Antrag SPD: Lüneburger Weg 25 - einstimmig beschlossen
+- TOP 24: Antrag CDU: Parkbuchten Am Königshof - mehrheitlich beschlossen
+- TOP 25: Antrag SPD: Parkscheibenregelung Am Königshof - einstimmig beschlossen
+- TOP 26: Antrag CDU: Überprüfung Haltverbot Selbecker Straß - einstimmig beschlossen
+- TOP 27: Antrag SPD: Beschilderung mit Haltverbotsschildern - einstimmig beschlossen
+- TOP 28: Antrag SPD: Parkstreifen Lichtenbroicher Weg - einstimmig beschlossen
+- TOP 29: Antrag CDU: Verkehrsschild "Grünpfeil" - mehrheitlich abgelehnt
+- TOP 30: Antrag SPD: Sanierung Kieshecker Weg - einstimmig beschlossen
+- TOP 31: Antrag FDP: Verkehrsentwicklungsplan - mehrheitlich beschlossen
+- TOP 32: Antrag CDU: Verkehrsentwicklungsplan - mehrheitlich beschlossen
+- TOP 33: Zielkonzept VEP - mehrheitlich beschlossen
+- TOP 34: Theodorstraße/Lichtenbroicher Weg - FGÜ - einstimmig beschlossen
+- TOP 35: Bauliche Maßnahmen zur Einrichtung der Offenen Gan - zur Kenntnis genommen
+- TOP 36: Trödelmärkte Rather Broich - 2. Halbjahr 2006 - einstimmig beschlossen
+- TOP 37: Zuschuss zu einer kulturellen Veranstaltung - einstimmig beschlossen
+- TOP 38: Vergabe von Zuschüssen im Jahre 2006 - mehrheitlich beschlossen
+- TOP 39: Sonntagfreigaben 01.07.2006 - mehrheitlich beschlossen
+- TOP 40: Mitteilungen der Verwaltung - einstimmig beschlossen
+- TOP 41: Aufstellung von Blumenkübeln - mehrheitlich beschlossen
