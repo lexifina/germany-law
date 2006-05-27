@@ -7,8 +7,7 @@ a) Temperatur | 35° C
 b) pH-Wert | 6,5 - 10
 c) Absetzbare Stoffe | 10 ml/l (nach 0,5 Std. Absetzzeit)
 Der Grenzwert ist nur festzusetzen, soweit eine Schlammabscheidung aus Gründen der ordnungsgemäßen Funktionsweise der öffentlichen Abwasseranlage erforderlich ist. | 
-d) Hydroxide der unter Nummer 2 Buchstabe a) bis p) | 0,3 ml/l (nach 0,5 Std. Absetzzeit)
-e) Bei Umgang mit asbesthaltigem Material: Abfiltrierbare Stoffe | 30 mg/l
+d) Bei Umgang mit asbesthaltigem Material: Abfiltrierbare Stoffe | 30 mg/l
 2. Anorganische Stoffe (gesamt) | mg/l | 
 a) Antimon | (Sb): | 1
 b) Arsen | (As): | 0,1
@@ -26,19 +25,18 @@ m) Silber | (Ag): | 2
 n) Vanadium | (V): | 2
 o) Zink | (Zn): | 2
 p) Zinn | (Sn): | 2
-q) Ammonium (NH4+) bzw. |  | 
-Ammoniak (NH3) (berechnet als N) |  | 150
-r) Chlor, freisetzbar | (Cl2): | 0,5
-s) Cyanid, leicht freisetzbar | (CN): | 1
-t) Cyanid, gesamt | (CN(): | 5
-u) Fluorid | (F-): | 50
-v) Nitrit | (NO2-): | 20
-Dieser Grenzwert ist nur festzusetzen, wenn die anfallende Fracht 4 kg (N02) pro Tag übersteigt. |  | 
-w) Sulfat | (SO42-): | 600
-x) Sulfid | (S2-): | 2
+q) Chlor, freisetzbar | (Cl2): | 0,5
+r) Cyanid, leicht freisetzbar | (CN): | 1
+s) Cyanid, gesamt | (CN(): | 5
+t) Fluorid | (F-): | 50
+u) Sulfat | (SO42-): | 6001)
+v) Sulfid | (S2-): | 2
 3. Organische Stoffe | mg/l | 
 a) Kohlenwasserstoffe gesamt: (Mineralöl-Verbindungen) |  | 20
-b) Schwerflüchtige lipophile Stoffe (insbesondere emulgierte oder suspendierte, biologisch abbaufähige Öle, Fette und dergl.): |  | 150
-c) Adsorbierbare organische Halogenverbindungen (AOX), (berechnet als Chlorid): |  | 1
+b) Schwerflüchtige lipophile Stoffe (insbesondere emulgierte oder suspendierte, biologisch abbaufähige Öle, Fette und dergl.): |  | 1501)
+c) Adsorbierbare organisch gebundene Halogene (AOX), (berechnet als Chlorid): |  | 1
 Einzelstoffe hiervon, z.B. Tetrachlorethen (berechnet als Cl): |  | 0,5
 d) Phenol-Verbindungen (berechnet als C6H5OH) |  | 100
+Fußnoten
+1) Im Einzelfall können höhere Werte zugelassen werden.
+1) Im Einzelfall können höhere Werte zugelassen werden.
