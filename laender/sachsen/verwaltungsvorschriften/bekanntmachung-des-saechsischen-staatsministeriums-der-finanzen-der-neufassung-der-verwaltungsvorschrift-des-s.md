@@ -1,8 +1,8 @@
 # Bekanntmachung des Sächsischen Staatsministeriums der Finanzen der Neufassung der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2004-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1197.4
+- Datum: 2006-05-27 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1197.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -47,6 +47,9 @@ des Sächsischen Staatsministeriums der Finanzen
 über die Benutzung von Dienstkraftfahrzeugen in der Sächsischen Landesverwaltung
 
 (VwV-DKfz)
+
+[Geändert durch
+VwV vom 4. Mai 2006 (SächsABl. S. 498) mit Wirkung vom 27. Mai 2006]
 
 Abschnitt I
 
@@ -277,7 +280,7 @@ Aufsicht
 
 11.1
 
-Die Aufsicht über die Führer von Dienstkraftfahrzeugen und über die Kraftfahrzeughaltung üben die Dienststellenleiter oder die damit beauftragten Bediensteten au Sie sind insbesondere verantwortlich für die sachgemäße Unterbringung der Fahrzeuge, die pflegliche Behandlung, den verkehrs- und betriebssicheren Zustand, die Vollständigkeit und Brauchbarkeit des Zubehörs und der Geräte, die Verwaltung und ordnungsgemäße Verwendung der Betriebsstoffe und die rechtzeitige Beseitigung von Schäden. Sie entscheiden über Instandsetzungen sowie über die Beschaffung von Ersatzteilen.
+Die Aufsicht über die Führer von Dienstkraftfahrzeugen und über die Kraftfahrzeughaltung üben die Dienststellenleiter oder die damit beauftragten Bediensteten aus. Sie sind insbesondere verantwortlich für die sachgemäße Unterbringung der Fahrzeuge, die pflegliche Behandlung, den verkehrs- und betriebssicheren Zustand, die Vollständigkeit und Brauchbarkeit des Zubehörs und der Geräte, die Verwaltung und ordnungsgemäße Verwendung der Betriebsstoffe und die rechtzeitige Beseitigung von Schäden. Sie entscheiden über Instandsetzungen sowie über die Beschaffung von Ersatzteilen.
 
 11.2
 
@@ -450,6 +453,10 @@ Das Staatsministerium des Innern kann für den Kraftfahrbetrieb der Polizei im E
 20.2
 
 Für Sonderfahrzeuge können die obersten Landesbehörden im Einvernehmen mit dem Staatsministerium der Finanzen Sonderregelungen erlassen.
+
+20.3
+
+Das Staatsministerium der Justiz kann für den Arbeitseinsatz von Gefangenen in den Betrieben der Justizvollzugsanstalten im Einvernehmen mit dem Staatsministerium der Finanzen Sonderregelungen erlassen.
 
 Abschnitt II
 
