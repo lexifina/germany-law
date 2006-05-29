@@ -1,0 +1,67 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2006-05-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/802689
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/802689
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Neubesetzung des Unterausschusses Bau, Umwelt und Wirtschaft:
+- TOP 1.3.: Bestimmung des/ der Beauftragten für Frauen und Familie
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Ehemaliger Ladehof beim Bahnhof München-Moosach; Entstehung eines Müllplatzes
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: S-Bahnhof Moosach - Verbesserungen beim Ein- und Aussteigen
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 10: FC Olympia Moosach; Kauf von zwei Fußballtoren und Netzen
+- TOP 5.2.: Gewährung eines Zuschusses aus dem Budget des BA 10: Reservistenkameradschaft München-Moosach: Kauf von 3 Fahnen für das Kriegerdenkmal
+- TOP 5.3.: Aufhebung des Linksabbiegeverbotes in der Dachauer Straße zum HIT-Markt (Empfehlung Nr. 223 der Bürgerversammlung am 20.10.2005)
+- TOP 6.: Anhörungen
+- TOP 6.1.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 6.2.: Leistungsprogramm 2007 der MVG (Fahrplanwechsel Dezember 2006)
+- TOP 6.3.: Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe
+- TOP 6.4.: Straßenfest in der Meggendorfer Straße am 01.07.2006
+- TOP 6.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6.: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 6.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8.: Bericht über REGSAM, Anhörung der Bezirksausschüsse
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke
+- TOP 8.2.: Veranstaltungen 2006 im Olympiapark (Schreiben des BA 11 Milbertshofen-Am Hart)
+- TOP 8.3.: Neubenennung der Stichstraße westl. Fa. Knorr-Bremse zum Adolf-Kolping-Berufsschulzentrum, bislang Moosacher Straße 82 (Schreiben des BA 11 Milbertshofen-Am Hart)
+- TOP 8.4.: Unveränderte Fortführung von Schank- und Speisewirtschaften 1) "Moosacher Zentrale", Bunzlauer Str. 22 2) "Café Mirabellle", Hanauer Str. 68 3) "Steffi's Kiosk", Bunzlauer Str. 1
+- TOP 8.5.: Vollzug des Gaststättengesetzes, "Cafe Tireno", Bunzlauer Str. 15 - nicht öffentlich -
+- TOP 8.6.: "München macht Raum für Familien. Familiengerechte Planung und Gestaltung öffentlicher Räume"; Beitrag der Stadt München zum 7. Familienbericht der Bundesregierung
+- TOP 8.7.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2006-2010
+- TOP 8.8.: Mehrjahresinvestitionsprogram des Referates für Stadtplanung und Bauordnung, Stellungnhame zum Schreiben des BA 10 vom 26.10.05
+- TOP 8.9.: Parkraummanagemant in München - Festlegung der 1. Priorität
+- TOP 8.10.: Zweckentfremdung von Wohnraum, Ernst-Platz-Str. 46
+- TOP 8.11.: Vollzug der Baumschutzverordnung, Bauvorhaben Ernst-Platz-Str. 46
+- TOP 8.12.: Winterdienst: Einrichtung eines Notdienstes, der sicherstellt, dass an Lichtsignalanlagen auch nachts gebremst werden kann
+- TOP 8.13.: Mehrjahresinvestitionsprogramm des Schulreferates; Investitionsmaßnahmen für Schulen und Kindertagesstätten
+- TOP 8.14.: Mehrjahresinvestitionsprogramm des Sozialreferates - Jugendamtsbereich - Sozialbereich
+- TOP 8.15.: Flugverbot über München einhalten (Antrag des BA 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln)
+- TOP 8.16.: Radl-Sternfahrt gegen den Transrapid am 21.05.06 (neue Route)
+- TOP 8.17.: KITA-Gebühren (Schreiben des BA 13 Bogenhausen)
+- TOP 8.18.: Museumspfad für München für städtische Museen
+- TOP 8.19.: Zirkus Baldoni auf der städt. Grünfläche an der Brieger Straße (Vorab-Zustimmung der Vorsitzenden aus Termingründen)
+- TOP 8.20.: Meldeliste Bauvorhaben
+- TOP 8.21.: Münchner Statistik
+- TOP 8.22.: Mehrjahresinformationsprogramm der Kämmerei
+- TOP 4: Anträge
