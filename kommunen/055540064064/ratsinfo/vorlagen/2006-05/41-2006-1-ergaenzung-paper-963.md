@@ -1,0 +1,16 @@
+# 22. Änderung des Flächennutzungsplanes für die Ortsteile Velen und Ramsdorf und für den Außenbereich zur Ausweisung der Bundes-, Landes-, Kreis- und verkehrswichtigen Gemeindestraßen a) Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 BauGB b) Stellungnahmen der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 BauGB c) Offenlegungsbeschluss
+
+- Körperschaft: Stadt Velen
+- Drucksache/Vorlage: 41/2006 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2006-05-29
+- Ratsinformationssystem: https://velen.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZeHGGFd-v0XlBmFnlMC2Tnk
+- OParl: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/963
+- Quelle: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (22. Änderung des Flächennutzungsplanes für die Ortsteile Velen und Ramsdorf und für den Außenbereich zur Ausweisung der Bundes-, Landes-, Kreis- und verkehrswichtigen Gemeindestraßen
+a) Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 BauGB
+b) Stellungnahmen der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 BauGB
+c) Offenlegungsbeschluss) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb4sBiEdCK3QAaR_zU7_LXJ-0NIq1yaxDW0SUNtF7gIs/Beschlussvorlage_41-2006_1._Ergaenzung.pdf
+- Beratung:  https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/754 https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-4
+- Beratung:  https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/761 https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-188
