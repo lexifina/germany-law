@@ -1,0 +1,55 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2006-05-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/817551
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/817551
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Ausbau des Netzes der Alten- und Service-Zentren in München
+- TOP 3.2.: REGSAM
+- TOP 3.3.: Einführung einer Genehmigungspflicht für die Umwandlung von Mietshäusern im Bestand in Eigentumswohnungen - <div>Zur Kenntnis genommen</div>
+- TOP 4.: Schulreferat
+- TOP 4.1.: Rahmenplanung Sozialbürgerhaus Meindlstraße / Erweiterung Grundschule Plinganserstraße 28, Kindertageseinrichtung Meindlstraße 8
+- TOP 4.2.: 4FC-Bewegungsinseln; überschlägige Ermittlung der Lärmemissionen
+- TOP 5.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Aufhebung der Haltverbotszone im Bereich Pfeuferstraße 34 / 36
+- TOP 6.2.: MVG Leistungsprogramm 2007
+- TOP 7.1.: Budgetantrag Hist. Gruppe Schmied von Kochel, Fackelzug am 24.12.2006, ? 400,-
+- TOP 7.2.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 7.3.: Förderung des Ehrenamtes
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Gotzinger Straße 56
+- TOP 8.3.: Werbeanlage Schäftlarnstraße
+- TOP 8.4.: Werbeanlage Pfeuferstraße 12
+- TOP 8.5.: Familiengerechte Planung und Gestaltung öffentlicher Räume
+- TOP 8.6.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen
+- TOP 9.: Baureferat
+- TOP 9.1.: Spielaktionen am Flaucher
+- TOP 9.2.: Mehr Fahrradabstellplätze im Straßenraum
+- TOP 9.3.: Winterdienst; Einrichtung eines Notdienstes
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen Bauvorhaben Gotzinger Straße 56
+- TOP 10.2.: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 11.2.: Nutzung des Grundstücks Thalkirchner-/Kochelseestraße - <div>nach Antrag</div>
+- TOP 11.3.: Stellplatzschlüssel für religiöse Einrichtungen mit überregionaler und gewerblicher Nutzung im Wohngebiet - <div>nach Antrag</div>
+- TOP 11.4.: Vollwertiger Ausgleich der Parkmöglichkeiten zzgl. 100 weiterer Stellplatzmöglichkeiten im Falle eines Baus des Türkisch-Islamischen-Kulturzentrums - <div>nach Antrag</div>
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Museumspfad für die städtischen Museen
+- TOP 13.2.: Tag des offenen Denkmals 2006
+- TOP 13.3.: Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
