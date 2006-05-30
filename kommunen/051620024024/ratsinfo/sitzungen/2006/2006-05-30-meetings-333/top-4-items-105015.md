@@ -1,0 +1,6 @@
+# TOP 4: B-Plan 443, Satzungsbeschluss
+
+- Sitzung: Bezirksausschuss Rosellen (2006-05-30)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/105015
