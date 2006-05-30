@@ -1,0 +1,132 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2006-05-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/824517
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/824517
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Fußgängersignal an der Ampelanlage Verdistraße / Meyerbeerstraße
+- TOP 2.2.: Nachpflanzungen in der Willibald- und Murtalstraße
+- TOP 2.3.: Verkehrs- und Lärmsituation in Pasing-Obermenzing
+- TOP 2.4.: Verkehrssituation an der Kreuzung Lortzing- / Bodenseestraße
+- TOP 2.4.1: Boden- und Bauschutt-Recycling-Anlagen und Bodenbörsen in München, hier: Bergsonstraße 115 (ehemaliges Strassergelände)
+- TOP 2.5.: Lkw-Parken in der Silberdistelstraße
+- TOP 2.5.1: Übungsräume für Musikgruppen und Bands aus dem Münchner Westen
+- TOP 2.5.2: Kurzparkzone im Bereich der Bodenstedtstraße 58
+- TOP 2.5.3: Fuß- und Radweg von der Professor-Eichmann-Straße zur Wöhlerstraße
+- TOP 2.5.4: Radfahrverkehr im Pasinger Stadtpark (Aufstellen von Verkehrsschildern - Fußgänger, Radfahrer - sowie Anbringen von Absperrungen bzw. Schlagbäumen)
+- TOP 2.5.5: Verkehrsaufkommen Offenbach-/Meyerbeerstraße; Lichtzeichenanlage an der Kreuzung Marsopstraße
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1: Grandlstraße 54, Baumbestandsplan Nr. 06-8574
+- TOP 3.1.2: Hofmillerstraße 3, 1 Ahorn
+- TOP 3.1.3: Willibaldstraße 36, 1 Serbische Fichte
+- TOP 3.1.4: Feichthofstraße 101, 2 Birken
+- TOP 3.1.5: Eglofstraße 4, 1 Fichte
+- TOP 3.1.6: Longinusstraße 12, 2 Buchen, 2 Eichen, 1 Linde
+- TOP 3.1.7: Am Krautgarten 13, 2 Birken
+- TOP 3.1.8: Blumenauer Straße 144, 1 Lärche
+- TOP 3.1.9: Pfeivestlstraße 68, 1 Kiefer
+- TOP 3.1.10: Institutstraße 3, 1 Hainbuche, 2 Grauerlen, 1 Lärche, 1 Rotbuche
+- TOP 3.1.11: Ortolfstraße 33, 4 Fichten
+- TOP 3.1.12: Böhlaustraße 17, 2 Föhren
+- TOP 3.1.13: Torriweg 30, 2 Fichten, 1 Birke, 1 Blautanne
+- TOP 3.1.14: Schrämelstraße 184, Baumbestandsplan Nr. 06-11587
+- TOP 3.1.15: Otto-Engl-Platz 23, 1 Birke
+- TOP 3.1.16: Paganinistraße 100, Baumbestandsplan Nr. 06-9471
+- TOP 3.1.17: Hans-Goltz-Weg 11, 1 Fichte
+- TOP 3.1.18: Fritz-Berne-Straße 29, 1 Kiefer
+- TOP 3.1.19: Frihindorfstraße 1, 1 Fichte
+- TOP 3.1.20: Lützowstraße 24, 1 Birke
+- TOP 3.1.21: Eisenhartstraße 9, 2 Tannen
+- TOP 3.1.22: Steffanistraße 13, 1 Fichte
+- TOP 3.1.23: Beer-Walbrunn-Straße 7, 1 Fichte
+- TOP 3.1.24: Suessenguthstraße 16, 3 Kiefern, 1 Buche
+- TOP 3.3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.1: Pfeivestlstraße 57
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Antrag auf Gewährung eines Zuschusses aus Budgetmitteln des BA 21; Antragsteller Kath. Kirchenstiftung Maria Schutz
+- TOP 9.2.: Antrag auf Gewährung eines Zuschusses aus Budgetmitteln des BA 21; Antragsteller Hauptschule an der Peslmüllerstraße (vertagt aus der BA-Sitzung vom 02.05.06)
+- TOP 10.: Anhörungen
+- TOP 10.1.: Am Hackelanger, Neubau zweier Doppelhäuser und eines Dreispänners mit gemeinsamer Tiefgarage
+- TOP 10.2.: Privates Feuerwerk am 13.05.06 am Schloss Blutenburg
+- TOP 10.3.: Antrag für eine Freischankfläche in der Bodenseestraße 7
+- TOP 10.4.: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 10.5.: Ausbau des Netzte der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe; Entwurf des Beschlusses für die Sitzung des Sozialausschusses am 22.06.06
+- TOP 10.6.: Melßheimerstraße 9, Neubau eines Reiheneckhauses mit Garage
+- TOP 10.7.: Bodenseestraße ggü. Hausnr. 67/Aubinger Str./ Bezirkssportanlage; Errichtung einer Werbeanlage
+- TOP 10.8.: Planegger Str. zwischen Hausnrn. 111 und 121; Errichtung einer Werbeanlage
+- TOP 10.9.: Leistungsprogramm 2007 der Münchner Verkehrsgesellschaft mbH (Fahrplanwechsel Dezember 2006)
+- TOP 10.10.: Verdistraße 124; Antrag auf Errichtung einer hinterleuchteten Werbeanlage (vertagt aus der Sitzung vom 02.05.06)
+- TOP 10.11.: Grandlstraße 54, Neubau von zwei Doppelhaushälften mit 2 Garagen (Haus 1 und 2) (vertagt aus der Sitzung vom 02.05.06)
+- TOP 10.12.: Döbereinerstraße 25, Neubau einer Mehrfamilienwohnanlage (11 Wohneinheiten) mit Tiefgarage (13 Stellplätze) (vertagt aus der Sitzung vom 02.05.06)
+- TOP 10.13.: Errichtung eines flexibel als Kindergarten und Hort nutzbaren Pavillons an der Paganinistraße 96
+- TOP 10.14.: Landsberger Straße 438, Errichtung einer Werbeanlage
+- TOP 10.15.: Bauseweinallee 65, Neubau einer Doppelhaushälfte mit Garage (Haus 4)
+- TOP 10.16.: Bauseweinallee 65, Neubau einer Doppelhaushälfte mit Garage (Haus 5)
+- TOP 10.17.: Zirkusaufführung vom 14.-18.09.06, Am Stadtpark / Paul-Eipper-Weg
+- TOP 10.18.: Straßenfest der Pasinger FabrikGmbH am Wensauerplatz (mit Grünanlage) am 15.07.06 von 14.00 - 23.00 Uhr
+- TOP 10.19.: Bericht über REGSAM; Anhörung der Bezirksausschüsse zur Beschlussvorlage für die Sitzung des Sozialausschusses am 06.07.06
+- TOP 10.20.: Paganinistraße 100, Neubau von 8 Sozialwohnungen mit Garagenplätzen
+- TOP 10.21.: Umbau des Spielplatzes Senftenauer- / Willibaldstraße im Rahmen von Dreharbeiten
+- TOP 10.22.: Errichtung eines Hortpavillons an der Georg-Habel-Straße; Beschlussvorlage für die Sitzung des Schulausschusses am 18.07.06
+- TOP 11.: Anträge und Anfragen
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Bauaunträge (vom 24.04.-30.04., v. 01.05.-07.05, v. 08.05.-14.05.06)
+- TOP 12.2.: Sozialausschuss vom 16.05.06 - Bauträgerauswahl für die Baugrundstücke des kommunalen Wohnungsbauprogramms - Teilprogramm für Benachteiligte am Wohnungsmarkt, Teilprogramm für Clearinghäuser (KomPro/B und C), u.a. Pippinger Straße 26
+- TOP 12.3.: Amtsblatt Nr. 13
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Kreisverwaltungsausschuss vom 04.04.06 - Eingeschränktes Haltverbot in der Willibaldstraße zwischen Willibaldplatz und Gotthardstraße
+- TOP 13.2.: Schulausschuss des Stadtrates vom 26.04.06 - Kindertagesstätten freigemeinnütziger Träger; Neuerrichtung der Kooperationseinrichtung mit zwei Kindergarten- und drei Krippengruppen "Villa Kunterbunt", Fritz-Berne-Straße 49, Leistung eines Baukostenzuschusses
+- TOP 13.3.: Vollversammlung des Stadtrates vom 10.05.06 - Bebauungsplan mit Grünordnung Nr. 1922 a - Bahnhof Pasing (südlich), Offenbachstraße (östlich), Landsberger Straße (nördlich), Rathausgasse, Am Schützeneck, Bäckerstraße, Pasinger Bahnhofsplatz, Kaflerstraße, Ernsbergerstraße, Bodenseestraße und Lortzingstraße (beiderseits); Satzungsbeschluss - Verkehrskonzept Pasing-Zentrum: a) Entscheidungsvorschlag - Vorinformation des Stadtrates, b) Weiteres Vorgehen - Bezirksausschuss-Anhörung, c) Anträge und Empfehlungen
+- TOP 13.4.: Ausschuss für Stadtplanung und Bauordnung vom 17.05.06 - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2006 - 2010 - "München macht Raum für Familien. Familiengerechte Planung und Gestaltung öffentlicher Räume"; Beitrag der Stadt München zum 7. Familienbericht der Bundesregierung (Bekanntgabe) - Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010; Gliederungsziffern 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6150 Städtebauförderung, 6200 Wohnungsbauförderung, Wohnungsfürsorge; Stellungnahme zum Antrag der Bezirksausschüsse 4, 10, 21 und 23 - Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006
+- TOP 13.5.: Kinder- und Jugendhilfeausschuss vom 11.05.06 - Entwurf des Mehrjahresinvestitionsprogramms 2006 - 2010, Einezlplan 4 / Jugendamtsbereich
+- TOP 13.6.: Bauausschuss vom 27.04.06 - Offensive für den Radverkehr V; mehr Fahrradabstellflächen im Straßenraum schaffen - Frostschäden auf Münchner Straßen
+- TOP 13.7.: Kulturausschuss vom 18.05.06 - Museumspfad München für städtische Museen
+- TOP 13.8.: Schulausschuss des Stadtrates vom 17.05.06 - Mehrjahresinvestitionsprogramm (MIP) 2006 - 2010; 1. Investitionsmaßnahmen für Schulen und Kindertagesstätten, 2. Dissens, 3. Verfahrenstechnische Neuerungen, 4. Stellungnahmen der Bezirksausschüsse
+- TOP 13.9.: Bauausschuss vom 23.05.06 - Erstmalige Herstellung der Wöhlerstraße zwischen Dorfstraße und Benderstraße - Winterdienst: Einrichtung eines Notdienstes, der sicherstellt, dass an Lichtsignalanlagen auch nachts gebremst werden kann
+- TOP 13.10.: Kinder- und Jugendhilfeausschuss und Sozialausschuss in gemeinsamer Sitzung vom 27.04.06 - Haushaltskonsolidierung; Sonderprogramm / Sonderkonsolidierung 2006
+- TOP 13.11.: Kommunalausschuss vom 18.05.06 - Straßenbenennung im 21. Stadtbezirk; Josef-Osterhuber-Platz
+- TOP 13.12.: Kinder- und Jugendhilfeausschuss vom 11.05.06 - Mehrjahresinvestitionsprogramm 2006 - 2010: 1. Investitionsmaßnahmen für Schulen und Kindertagesstätten, 2. Dissens, 3. Verfahrenstechnische Neuerungen, 4. Stellungnahmen der Bezirksausschüsse
+- TOP 13.13.: Sozialausschuss vom 16.05.2006 - Bauträgerauswahl für die Baugrundstücke des kommunalen Wohnungsbauprogramms - Teilprogramm für Benachteiligte am Wohnungsmarkt; Teilprogramm für Clearinghäuser (KomPro/B und C), u.a. Pippinger Straße 26
+- TOP 13.14.: Kinder- und Jugendhilfeausschuss und Sozialausschuss in gemeinsamer Sitzung vom 21.03.06 - Zuschussnehmerdatei 2006, Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.1: Referat für Arbeit und Wirtschaft - Wirtschafts-Info 04/2006
+- TOP 14.1.2: Stadtwerke München GmbH - Baumaßnahmen der Stadtwerke München GmbH (Stichtage 28.04.06, 08.05.06, 15.05.06)
+- TOP 14.1.3: Sozialreferat - Weltkindertag am 20.09.06 im 21. Stadtbezirk; Ergebnisprotokoll des ersten Vorbereitungstreffens am 29.03.06 - Leistungsbilanz des Sozialreferates zur Pasinger Bürgerversammlung am 16.05.06 - Räume für die Städt. Bestattung im Bürgerzentrum Rathaus Pasing - Bauträgerauswahl für Grundstücke im Rahmen von KomPro B+C; Teilprojekt Clearinghäuser, hier: Pippinger Straße 26
+- TOP 14.1.4: Kreisverwaltungsreferat - Einrichtung eines personenbezogenen Behindertenparkplatzes in der Bauseweinallee 70 a - Verkehrssituation Kaspar-Kerll-Straße / Sibeliusstraße (BA-Schreiben vom 21.03.06) - Bayerische Polizeireform; Berücksichtigung der besonderen Situation im Münchner Westen (BA-Antrag Nr. 918 vom 15.02.06) - Versammlung unter freiem Himmel am 06.05.06 von 10 - 18 Uhr, Bahnhofsplatz 3 / Ecke Gleichmannstraße - Versammlung unter freiem Himmel am 15., 22. und 29.05.06 jeweils von 15 - 18 Uhr, Bahnhofsplatz 3 / Ecke Gleichmannstraße - Verkehrsrechtliche Anordnung in der Institutstraße (Zusatz "Werktags, 7h-19h" im Bereich des bestehenden Haltverbots westlich der Planegger Straße) - Einrichtung eines allgemeinen Behindertenparkplatzes in der Heimburgstraße 2 a - Geschwindigkeitsbegrenzung auf Tempo 30 km/h für die Menzinger Straße ab Kastellstraße bis zur Karl-von-Roth-Straße einschließlich Megerlestraße (BA-Schreiben vom 20.01.06)
+- TOP 14.1.5: Referat für Stadtplanung und Bauordnung - Bescheid zum Antrag auf Baumfällung in der Paul-Gerhardt-Allee 21 a - Planegger Straße 19, Aufstellung eines Imbisswagens (BA-Antrag Nr. 168 vom 11.04.2005) - Faistenlohestraße 12, Neubau einer Doppelhaushälfte mit Garage - Dr.-Blaich-Straße 5, Neubau eines Doppelhauses mit Garage - Bescheid zum Antrag auf Baumfällung in der Grünspechtstraße 3 - Bauvorhaben Döbereinerstraße 21 - Bescheid zum Antrag auf Baumfällung in der Faistenlohestraße 44 - Bescheid zum Antrag auf Baumfällung in der Josef-Retzer-Straße 24
+- TOP 14.1.6: Schul- und Kultusreferat - Informationsblatt des Schulreferats anlässlich der Pasinger Bürgerversammlung am 16.05.06
+- TOP 14.1.7: Stadtkämmerei - Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010
+- TOP 14.1.8: Zweite Bürgermeisterin - Kindergarten bei der Kreisklinik München-Pasing; Suche nach anderweitigen Unterbringungsmöglichkeiten (BA-Schreiben vom 20.02.06)
+- TOP 14.1.9: Kulturreferat - Veranstaltungen im Mai 2006
+- TOP 14.1.10: Baureferat - Planung der Grünfläche an der Kaflerstraße mit Spielplatz
+- TOP 14.1.11: Münchner Verkehrsgesellschaft mbH - Badebus 2006 von Pasing zum Langwieder See
+- TOP 14.14.2: Sonstige
+- TOP 14.1.1: SPD-Fraktion im Bezirksausschuss 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln - Antrag "Flugverbot über München einhalten"
+- TOP 14.1.2: T -Mobile Deutschland GmbH - Erweiterung des T-Mobile-Funktnetzes in München, hier: Suckreis München 14022 (BA-Schreiben vom 03.05.06)
+- TOP 14.1.3: Bürgervereinigung Obermenzing e.V. - Radweg zum Langwieder See
+- TOP 14.1.4: Alten- und Service-Zentrum Obermenzing - Projekt "Spielfeld"; Fällung einer Linde am Eingang Packenreiterstraße 48 - 52
+- TOP 14.1.5: DB ProjektBau GmbH - ABS Ingolstadt - München, Abschnitt Süd, PA 82 M; Passiver Schallschutz für den Wohnbereich entlang der Bahnstrecke (s. auch TOP 1.2)
+- TOP 15.: Verschiedenes
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
