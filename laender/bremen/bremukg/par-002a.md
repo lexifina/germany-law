@@ -1,0 +1,2 @@
+# § 2a Umzugskostenvergütung beim Ausscheiden aus dem Dienst
+Berechtigten mit Dienstort im Ausland, die mit Zusage der Umzugskostenvergütung dorthin versetzt oder abgeordnet worden sind, ist aus Anlass ihres Eintritts in den Ruhestand auf Antrag eine Umzugskostenvergütung für einen Umzug nach einem Ort ihrer Wahl im Inland zuzusagen. Die Umzugskostenvergütung wird nur gewährt, wenn der Umzug spätestens zwei Jahre nach dem Eintritt in den Ruhestand durchgeführt wird. Entsprechendes gilt für die Hinterbliebenen im Sinne des § 1 Abs. 2 beim Tod eines Berechtigten nach Satz 1.
