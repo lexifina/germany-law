@@ -1,0 +1,6 @@
+# TOP 4: Von "Unheimlich und co" zu "Sicher unterwegs" - Bericht über das Projekt
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für die Gleichstellung von Frau und Mann (2006-05-31)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/27485
