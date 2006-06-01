@@ -1,1 +1,1 @@
-# Verordnung über Parkgebühren vom 23. Februar 1993
+# Verordnung über Parkgebühren vom 18. April 2006

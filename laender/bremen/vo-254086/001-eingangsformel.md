@@ -1,2 +1,2 @@
 # Eingangsformel
-Aufgrund des § 6a Abs. 6 Satz 8 und 10 und Abs. 7 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 2 des Gesetzes vom 15. Dezember 1990 (BGBl. I S. 2804) geändert worden ist, verordnet der Senat:
+Auf Grund des § 6a Abs. 6 Satz 2 und 4 und Abs. 7 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310), das zuletzt durch Artikel 1 Nr. 1 des Gesetzes vom 14. August 2005 (BGBl. I S. 2412) geändert worden ist, verordnet der Senat:
