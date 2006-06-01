@@ -1,0 +1,4 @@
+# § 13a Laufbahnausbildung III
+(1) Die Laufbahnausbildung dauert 24 Monate. Das Bewerbungsverfahren, die Ausbildung und die Prüfung richten sich nach der Verordnung über die Ausbildung und Prüfung für die Laufbahn des höheren feuerwehrtechnischen Dienstes im Lande Nordrhein-Westfalen vom 25. März 2004 (GV. NRW. S. 158). Ausbildung und Prüfung enden mit der Laufbahnprüfung für den höheren feuerwehrtechnischen Dienst.
+(2) Das Beamtenverhältnis auf Widerruf endet mit Ablauf des Tages, an dem dem Auszubildenden mitgeteilt wird, dass er die Laufbahnprüfung bestanden oder endgültig nicht bestanden hat.
+(3) Bei Einstellung in den höheren feuerwehrtechnischen Dienst nach Abschluss der Ausbildung wird der Bewerber unter Berufung in das Beamtenverhältnis auf Probe zum Brandrat zur Anstellung ernannt.
