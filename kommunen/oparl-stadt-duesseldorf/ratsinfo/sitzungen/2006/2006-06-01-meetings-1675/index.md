@@ -1,0 +1,56 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-06-01T16:00:00+02:00
+- Ende: 2006-06-01T19:35:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1675
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1675
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111657.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111657.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111657.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 27.04.2006 - einstimmig beschlossen
+- TOP 3: Polizeistatistik 2005 - Bericht - zur Kenntnis genommen
+- TOP 4: Zielkonzept VEP - einstimmig beschlossen
+- TOP 5: B-Plan Nr. 5774/26 - einstimmig beschlossen
+- TOP 6: Umbau Kinderspielplatz Am Karlshof - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Bezirksbezogene Bauunterhaltungsmaßnahmen 2006 - einstimmig beschlossen
+- TOP 9: Zuschüsse der Bezirksvertretung 8 im Jahre 2006 - einstimmig beschlossen
+- TOP 10: Sonntagfreigaben 01.07.2006 - einstimmig beschlossen
+- TOP 11: Trödelmärkte auf dem OBI-Parkplatz - einstimmig beschlossen
+- TOP 12: Bauunterhalt an städtischen Einrichtungen 2006 - einstimmig beschlossen
+- TOP 13: Gumbertstraße 178 und 178a-f
+- TOP 14: Grundstücke entlang der L 404n - zur Kenntnis genommen
+- TOP 15: KGS Leuthenstraße und Carl-Sonnenschein-Schule - zur Kenntnis genommen
+- TOP 16: Dieter-Forte-Gesamtschule und Bernburger Straße - zur Kenntnis genommen
+- TOP 17: Friedhöfe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 18: Sportanlage Heidelberger Straße - zur Kenntnis genommen
+- TOP 19: Taubenturm - Betreuung - zur Kenntnis genommen
+- TOP 20: Altlasten im Bereich Am Kleinforst - zur Kenntnis genommen
+- TOP 21: Graffiti im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 22: Parkplatz Eller Mitte - zur Kenntnis genommen
+- TOP 23: Elektroschrott - Annahmestellen in Unterbach - mehrheitlich beschlossen
+- TOP 24: Fußweg entlang der Düssel - einstimmig beschlossen
+- TOP 25: Gumbertstraße - Verschmutzung - einstimmig beschlossen
+- TOP 26: Gumbertstraße - Taubenabwehranlage - einstimmig beschlossen
+- TOP 27: Schloss Eller - Instandsetzung des Zugangs - einstimmig beschlossen
+- TOP 28: CKW-Grundwasserverunreinigung Unterbach... - zur Kenntnis genommen
+- TOP 29: Bauliche Maßnahmen zur Einrichtung der Offenen Gan - zur Kenntnis genommen
+- TOP 30: Schulungsangebote - zur Kenntnis genommen
+- TOP 31: Partner - Filiale der Post in Unterbach - zur Kenntnis genommen
+- TOP 32: Fahrradstation Gertrudisplatz / Rütgerstraße - zur Kenntnis genommen
+- TOP 33: Aufbau eines Systems Düsseldorfer Familienzentren - zur Kenntnis genommen
+- TOP 34: Planung Öffentlichkeitsarbeit "Wohnberatung" - zur Kenntnis genommen
+- TOP 35: Planung Öffentlichkeitsarbeit " Förderung" - zur Kenntnis genommen
+- TOP 36: Parksituation Leuthenstraße - zur Kenntnis genommen
+- TOP 37: Parkmöglichkeiten Posener Straße - zur Kenntnis genommen
+- TOP 38: Zentrale Lernstandserhebungen in Grundschulen - zur Kenntnis genommen
+- TOP 39: Behindertengerechte Haltestellen im Stadtbezirk 8 - zur Kenntnis genommen
