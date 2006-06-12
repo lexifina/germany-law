@@ -1,0 +1,60 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-06-12T15:00:00+02:00
+- Ende: 2006-06-12T15:48:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1740
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1740
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111668.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111668.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111668.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Anfr. SPD HFA: Satzung Stadtwerke - zur Kenntnis genommen
+- TOP 4: Kämmererliste 2006 - einstimmig beschlossen
+- TOP 5: Controllingbericht - einstimmig beschlossen
+- TOP 6: Düsseldorfer Transfer GmbH - einstimmig beschlossen
+- TOP 7: Stadtwerke: Gesellschaftsvertrag - einstimmig beschlossen
+- TOP 8: Wirtschaftsplan 2006 für den Stadtbetrieb Zentrale - einstimmig beschlossen
+- TOP 9: Einrichtung eines Bildungsganges - einstimmig beschlossen
+- TOP 10: Art:card junior Düsseldorf - einstimmig beschlossen
+- TOP 11: Gründung einer Orchesterakademie - einstimmig beschlossen
+- TOP 12: Erweiterung JFE Altenbrückstr. 14 - einstimmig beschlossen
+- TOP 13: Neubau JFE Heerdter Landstr. 162 - einstimmig beschlossen
+- TOP 14: Bau, Einrichtung und Instandsetzung Kindergärten - einstimmig beschlossen
+- TOP 15: Beckenanlage Glashüttenstraße - einstimmig beschlossen
+- TOP 16: Beckenanlage Krippstraße - einstimmig beschlossen
+- TOP 17: Beckenanlage Heidelberger Straße - einstimmig beschlossen
+- TOP 18: BUF Klemensplatz-West - einstimmig beschlossen
+- TOP 19: Grünzug Harffstr./Nixenstr - einstimmig beschlossen
+- TOP 20: Neuwahl Wilhelm-Heinrich-Riehl-Kolleg - einstimmig beschlossen
+- TOP 21: Änderung Vergnügungssteuersatzung - einstimmig beschlossen
+- TOP 22: Änderung der Entgeltordnung - einstimmig beschlossen
+- TOP 23: Satzung Elternbeiträge - passieren lassen
+- TOP 24: Verleihung der Förderpreise für bildende Kunst, da - einstimmig beschlossen
+- TOP 25: Sonntagfreigaben 01.07.2006 - mehrheitlich beschlossen
+- TOP 26: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 27: Pl 6076/035-Östl.Heyestr.-1.Verlängerung VÄ - einstimmig beschlossen
+- TOP 28: FNP-Ä 108 Bhf Oberkasse/Schanzenstr Anreg.Plan - einstimmig beschlossen
+- TOP 29: B-Plan Nr. 5877/10 - Ostpark - einstimmig beschlossen
+- TOP 30: B-Plan Nr. 5877/14- Ostparksiedlung - einstimmig beschlossen
+- TOP 31: FNP-Änderung Nr. 25 - Ortsumgehung Reisholz - einstimmig beschlossen
+- TOP 32: BPl5971/27-Ortsumgeh. Reisholz-Stellungn.Änd.Satz. - einstimmig beschlossen
+- TOP 33: B-Plan Nr. 5475/54 - Bilk Arcaden - passieren lassen
+- TOP 34: Stadtteilzentrum Bilk - passieren lassen
+- TOP 35: B-Plan Nr. 5178/54 - Gatzweiler-Gelände - mehrheitlich beschlossen
+- TOP 36: B-Plan Nr. 4978/15 - Am Mühlenberg - einstimmig beschlossen
+- TOP 37: B-Plan Nr. 5078/025 - nördlich Willstätter Straße - einstimmig beschlossen
+- TOP 38: B-Plan Nr. 5187/016 - Am Kehrbesen - einstimmig beschlossen
+- TOP 39: B-Plan Nr.5286/03 - Kaldenberger Hof - einstimmig beschlossen
+- TOP 40: B-Plan Nr. 5181/018 - Messeerweiterung II - einstimmig beschlossen
+- TOP 41: Ä BPl4977/39-'G+IGeb.südl.Heerdter Landstr-St;Satz - einstimmig beschlossen
+- TOP 42: BPl 5483/13-ehem.Kaufring-Anreg.Änd.Satzung - einstimmig beschlossen
+- TOP 43: Änd gem 13 BPl 5775/32-SW Erkrather-Satzung - einstimmig beschlossen
