@@ -1,0 +1,99 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2006-06-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/908141
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/908141
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Schleichwegfahrer, Freigabe der 2. Fahrspur der Silberdistelstraße
+- TOP 1.2.: Verkehrskonzept für das Blumenviertel
+- TOP 1.3.: Parkverbot in der Josef-Sterr -Straße und der Rudolf-Zenker-Straße
+- TOP 1.4.: Verkehr in der Krokusstraße - Willibaldstraße
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.1: Hochwaldstr. 7, 1 Birke, 1 Thuja
+- TOP 3.1.2: Heiglhofstr. 37 - 51, 2 Zuckerahorn
+- TOP 3.1.3: Dr.-Ruder-Weg 4, 1 Kiefer
+- TOP 3.1.4: Stahleckplatz 7, Baumgestandspläne Nr. 10575 und 10574
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.1: Am Heidebruch 5, 1 Rotfichte (Referat für Stadtplanung und Bauordnung, 09.05.2006)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Budget
+- TOP 4.2.: UA Jugend/Soziales
+- TOP 4.3.: UA Kinder/Schule/Sport
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Blinkampel an der Kreuzung Ammerseestraße - Fürstenrieder Str. die auf querende Fußgänger und Radfahrer hinweist (Hr. Rudrich)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag des kath. Kindergarten St. Ignatius auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 2.000,- Euro (Direktorium, 09.05.2006)
+- TOP 6.2.: Antrag der GS mit Tagesheim an der Großhaderner Straße 50 auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.800,- Euro (Direktorium, 09.05.2006)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Aufhebung von Haltverboten in der Senftenauerstraße, westlich der Silberdistelstraße (KVR, 17.03.2006)
+- TOP 7.2.: Umwandlung eigenbetriebener Filialen in Partner-Filialen der Deutschen Post (Direktorium, 26.04.2006)
+- TOP 7.3.: Zweckentfremdung von Wohnraum - Langbehnstr. 14
+- TOP 7.4.: Kürzung von freiwilligen Leistungen der Landeshauptstadt München im Rahmen der Haushaltskonsolisierung -Budget für Bezirksausschüsse (Direktorium, 13.04.2006)
+- TOP 7.5.: Regionalgespräche zwischen Lokalbaukommission und den Bezirksausschüssen (Referat für Stadtplanung und Bauordnung, 20.04.2006)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Leistungsprogramm 2007 der MVG - Fahrplanwechsel Dezbember 2006 (MVG, 04.05.2006)
+- TOP 8.2.: Bericht über REGSAM (Sozialreferat, 09.05.2006)
+- TOP 8.3.: Keine Neuerrichtung von bürgerschaftlichen und kulturellen Stadtteilzentren; Ehemalige Sparkassenräume Guardinistr. 90 für Nutzung als kleines "kulturelles Stadtteilzentrum" für Hadern sichern; BA-Antrag Nr. 2675 vom 13.12.2004; Bürgerhaus in Großhadern; BA-Antrag Nr. 1955 vom 10.03.1986 Versammlungsmöglichkeiten in Hadern; BA-Antrag Nr. 1730 vom 09.12.1985
+- TOP 8.4.: Beschluss des Kulturausschusses am 20.07.2006: Kultur im Stadtquartier, Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen, Evaluierung kultureller Zentren, Kulturelle Zentren und Stadtteilwochen, Kulturzentren entlasten (I): Haftpflicht- und Versicherungsfragen zentral klären, Kulturzentren (II): Das Rad nicht 30mal neu erfinden - zentrale Unterstützung für Raum-, Buchungs- und Verwaltungsaufgaben, Gesamtkonzept für die stadtteilkulturellen Einrichtungen
+- TOP 8.5.: Mobilfunk, Suchkreismeldung Waldfriedhofstraße (Referat für Gesundheit und Umwelt, 18.05.2006)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Wochenmarkt in Hadern/Guardinistraße (Kommunalreferat, 10.05.2006)
+- TOP 9.2.: Installation einer Sammelhinweisanlage (Fa. Interwerbung) Silberdistel-/ Senftenauerstraße (Baureferat, 04.05.2006)
+- TOP 9.3.: Verkehrskonzept für das Kleinhaderner Wohngebiet (KVR, 08.05.2006)
+- TOP 9.4.: Bau eines Autobahntunnels für die A 96 Streckenabschnitt zwischen Stadtgrenze und Fürstenrieder Straße, BA-Antrag Nr. 835 vom 20.12.2005 (Referat für Stadtplanung und Bauordnung, 05.05.2006)
+- TOP 9.5.: Umsiedlung einiger Innenstadt Universitätskliniken, BA-Antrag Nr. 1015 vom 22.03.2006 (Referat für Stadtplanung und Bauordnung, 12.05.2006)
+- TOP 9.6.: Offenlegung eines städtebaulichen Vertrages Porjekt "Lenbach-Gärten" bzw. "alte Chemie" (Referat für Stadtplanung und Bauordnung, 12.05.2006)
+- TOP 9.7.: Entfernung der Fahrbahnerhöhung in der Heiglhofstraße und der Großhaderner Straße an der Einmündung zur Würmtalstraße, BA-Antrag Nr. 929 vom 13.02.2006 (Baureferat, 28.04.2006)
+- TOP 9.8.: Finanzplanung für die drei Haderner Jugend- und Kindereinrichtungen (Treff 21, Pfiffteen und Kinderhaus Wolkerweg), BA-Antrag Nr. 1016 vom 13.03.2006 (Sozialreferat, 02.05.2006)
+- TOP 9.9.: Sanierung und Erweiterung des Schulgebäudes am Canisiusplatz 2 aktueller Sachstand (Schul- und Kultusreferat, 11.04.2006)
+- TOP 9.10.: Mehrjahresinvestitionsprogramm 2005 - 2009, Errichtung einer Polizeiinspektion auf dem Gelände des Bebauungsplanes 1817, Stiftsbogen (KVR, 17.05.2006)
+- TOP 9.11.: Beleuchtung in der Waldgartenstraße, BA-Antrag Nr. 1014 vom 22.03.2006 (Baureferat, 18.05.2006)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Baustellenfahrzeuge der Großbaustelle Schröfelhofstraße/Stiftsbogen und Absicherung der Baustelle (PI 33, 12.05.2006)
+- TOP 10.2.: Umwandlung eigenbetriebener Filialen in Partner-Filialen der Deutschen Post (Deutsche Post, 24.04.2006)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Flugverbot über München einhalten (BA 19, 09.05.2006)
+- TOP 11.2.: Münchner Statistik, 1 Quartalsheft, Jahrgang 2006
+- TOP 11.3.: Offenlegung des städtischen Vertrages zum Projekt "Lenbach-Gärten" bzw. "Alte Chemie" (BA 3, 18.05.2006)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.1: am 05.04.2006: Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006
+- TOP 12.1.1: Beschluss des Bauausschusses vom 27.04.2006: Offensive für den Radverkehr V - mehr Fahrradabstellflächen im Straßenraum schaffen - Kreuz und quer abgestellte Fahrräder auf dem marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen
+- TOP 12.1.2: Beschluss des Bauausschusses vom 27.04.2006: Frostschäden auf Münchner Straßen
+- TOP 12.1.3: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 27.04.2006: Haushaltskonsolidierung; Sonderprogramm / Sonderkonsolidierung 2006
+- TOP 12.1.5: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 21.03.2006: Zuschussnehmerdatei 2006, Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 12.1.7: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und Sozialausschusses vom 21.03.2006: Zuschussnehmerdatei 2006, Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 12.1.8: Beschluss des Kinder- und Jugendhilfeausschusses vom 25.04.2006: Realisierungswettbewerb, Neubau von 5 Kindertageseinrichtungen in Systembauweise Auslobungstext
+- TOP 12.1.9: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 21.03.2006: Zuschussnehmerdatei 2006; Vollzug des Haushaltsplanes 2006 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates / Zentrale
+- TOP 12.1.1: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006: Klinikum Innenstadt - wie lange noch am alten Standort?
+- TOP 12.1.2: Beschluss des Kulturausschusses vom 18.05.2006: Museumspfad für München für städtische Museen
+- TOP 12.1.3: Beschluss des Bauausschusses vom 23.05.2006: Winterdienst: Einrichtung eines Notdienst, der sicherstellt, dass an Lichtsignalanlagen auch nachts gebremst werden kann (Ziffer 2 des Antrags)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.1: Beschluss des Schulausschusses des Stadtrates vom 17.05.2006: Mehrjahresinvestitionsprogramm (MIP) 2006 - 2010 1. Investitionsmaßnahmen für Schulen und Kindertagesstätten 2. Dissens 3. verfahrenstechnische Neuerungen 4. Stellungnahmen der Bezirksausschüsse
+- TOP 12.1.1: Beschluss des Sozialausschusses vom 16.05.2006: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2006 - 2010, Einzelplan 4 / Sozialbereich
+- TOP 12.1.2: Beschluss des Kinder- und Jugendhilfeausschusses vom 11.05.2006: Mehrjahresinvestitionsprogramm (MIP) 2006 - 2010; 1. Investitionsmaßnahmen für Schulen und Kindertagesstätten; 2. Dissens; 3. verfahrenstechnische Neuerungen; 4. Stellungnahmen der Bezirksausschüsse
+- TOP 12.1.3: Beschluss des Sozialausschusses vom 16.05.2006: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2006 - 2010; Einzelplan 4 / Sozialbereich
+- TOP 12.1.4: Beschluss des Auschusses für Stadtplanung und Bauordnung vom 17.05.2006: Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010 Gliederungsziffern 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge
+- TOP 12.1.5: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2006 - 2010
+- TOP 12.1.6: Bekanntgaben
+- TOP 12.1.7: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 17.05.2006: Sonder- Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006
+- TOP 12.1.8: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.04.2006: Wohnen in München III a) Erfahrungsbericht für das Jahr 2005 b) Ergänzungen des Erfahrungsberichts c) Modifizierung zum Wohnungspolitischen Handlungsprogramm "Wohnen in München, III"
+- TOP 12.1.9: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung von 17.05.2006: "München macht Raum für Familie. Familiengerechte Planung und Gestaltung öffentlicher Räume" Beitrag der Stadt München zum 7. Familienbericht der Bundesregierung
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
+- TOP 12.1.6: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses vom 21.03.2006: Zuschussnehmerdatei 2006, Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
