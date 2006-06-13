@@ -1,0 +1,75 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2006-06-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/792340
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/792340
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Absperrung des Grünstreifens zwischen der Lärmschutzwand entlang der Von-Kahr-Straße und den Grundstücken an der Ganzenmüllerstraße
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 3.1.: Ausbau Zwiedineckstraße nördlicher Teil
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Zuschuss aus dem Budget in Höhe von 4.000 Euro für ein Kunsttherapieprojekt für traumatisierte Flüchtlinge; Antragsteller: Refugio München
+- TOP 4.2.: Zeitliche Begrenzung der Geschwindigkeitsbegrenzung in der Allacher Straße entsprechend den Schulzeiten (Empfehlung Nr. 02-08 / E 00214 der Bürgerversammlung vom 18.10.05)
+- TOP 4.3.: Bestellung städtischer Leistungen für die Aufstellung einer Bewegungsinsel aus dem Budget in Höhe von 15.031,28 Euro
+- TOP 5.: Anhörungen
+- TOP 5.1.: Allacher Str. 132: Errichtung einer Werbeanlage
+- TOP 5.2.: Ludwigsfelder Straße / Trafostation / Nähe Docenstr. 3: Errichtung einer Werbeanlage
+- TOP 5.3.: Von-Kahr-Str. ggü Hausnr. 85 / Inselmühlweg: Errichtung einer Werbeanlage
+- TOP 5.4.: Bericht über REGSAM
+- TOP 5.5.: Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich offener Altenhilfe
+- TOP 5.6.: Leistungsprogramm 2007 der MVG (Fahrplanwechsel Dezember 2006)
+- TOP 5.7.: Kultur im Stadtquartier
+- TOP 5.8.: Straßenfest am 29.07.06 in der Listerstraße
+- TOP 5.9.: Weinschenkstraße zwischen Professor-Eichmann-Straße und Bauseweinallee; Erstmalige Herstellung
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Kleselstraße
+- TOP 9.2.: Unerlaubte Sondernutzung auf öffentlichen Straßengrund
+- TOP 9.3.: Baustellenzufahrt am Trixlweg
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Gaststätte " Untermenzingers" (vorm. Da Franco), Professor-Eichmann-Str. 11; unveränderte Fortführung
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO a) Zwiedineckstr. 35, s. Baumbestandsplan Nr. 2006-9303 b) Löherweg 10a, 2 Fichten c) Zeißstr. 8, 1 Fichte d) Finsterwalderstr. 33, s. Baumbestandsplan Nr. 2006-10592 e) Eversbuschstraße, s. Baumbestandsplan Nr. 2006-11300 f) Franz-Töpsl-Weg 11, 1 Palmkätzchenbaum g) Angerlohstr. 21, 1 Ahorn, 1 Kiefer und 1 Thuje h) St.-Johann-Str. 10, 1 Fichte i) Ernst-Haeckel-Str. 90, s. Baumbestandsplan Nr. 2006-10153 j) Ganzenmüllerstr. 18, 1 Fichte k) Waldhornstr. 83, 1 Fichte l) Dachauer Str. 667, Borkenkäferbescheinigung
+- TOP 11.2.: Bauanträge (v. 01.05.-07.05., 08.05.-14.05., 15.05.-21.05., 22.05.-28.05.)
+- TOP 11.3.: Mobilfunkmasten Am Lochholz und Pasinger Heuweg
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 12.1.: Obere Mühlstraße; hier: Abgas- und Schallschutz
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 17.1.: Einladung zum 5. Jour Fixe am 03.07.06 zum Thema "Stadtteilkultur"
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 3 Maxvorstadt: Offenlegung des städtebaulichen Vertrages zum Projekt "Lenbach-Gärten" bzw. "Alte Chemie"
+- TOP 20.2.: BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln: Flugverbot über München einhalten
+- TOP 20.3.: BA 21 Pasing-Obermenzing: Radwegverbindung zum Langwieder See; Protokoll des Runden Tisches vom 10.04.06
+- TOP 20.4.: BA 15 Trudering-Riem: Zweckentfremdung eines städt. Anwesens
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen der Stadtwerke München
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in gemeinsamer Sitzung vom 21.03.06: - Zuschussnehmerdatei 2006, Vollzug des Haushaltsplanes 2006 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 22.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 27.04.06: - Haushaltskonsolidierung; Sonderprogramm/Sonderkonsolidierung 2006
+- TOP 22.3.: Ausschuss für Stadtplanung und Bauordnung vom 17.05.06: - Sonder-Werbeanlagen und Gerüst-Werbung im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006 - Mehrjahresinvestitonsprogramm für die Jahre 2006-2010; Gliederungsziffern 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6150 Städtebauförderung, 6200 Wohnungsbauförderung, Wohnungsfürsorge - "München macht Raum für Familien. Familiengerechte Planung und Gestaltung öffentlicher Räume", Beitrag der Stadt München zum 7. Familienbericht der Bundesregierung - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2006-2010
+- TOP 22.4.: Kulturausschuss vom 18.05.06: - Museumspfad für München für städtische Museen
+- TOP 22.5.: Bauausschuss vom 23.05.06: - Winterdienst; Einrichtung eines Notdienstes, der sicherstellt, dass an Lichtsignalanlagen auch nachts gebremst werden kann - Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010 mit verbindlicher Planung für 2011; Unterabschnitte 6300 Gemeindestraßen, 6600 Bundes-und Staatsstraßen, Ortsdurchfahrten, 6700 Straßenbeleuchtung, 6750 Straßenreinigung, 6800 Parkscheinautomaten, -uhren, Parkplätze, 6900 Wasserläufe/Wasserbau
+- TOP 22.6.: Sportausschuss am 30.05.06: - Mehrjahresinvestitionsprogramm (MIP) 2006-2010, 1. Investitionsmaßnahmen für Sportanlagen, 2. Dissens, 3. Stellungnahme der BAs
+- TOP 22.7.: Vollversammlung vom 10.05.06: - Forstschäden auf Münchner Straßen
+- TOP 22.8.: Vollversammlung vom 31.05.06: - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V / 4, Ludwigsfelder Straße (südlich) - Hackersiedlung -
+- TOP 23: Verschiedenes
