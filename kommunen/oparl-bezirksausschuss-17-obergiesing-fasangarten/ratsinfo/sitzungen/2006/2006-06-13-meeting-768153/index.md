@@ -1,0 +1,120 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2006-06-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/768153
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/768153
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Info zu Neuplanung des Agfa-Geländes; Bürgerschreiben vom 24.05.2006
+- TOP 2.2.: Gehwegverbreiterung vor dem Lokal in der Brecherspitzstraße; Bürgeranliegen vom Mai 2006
+- TOP 2.3.: Haltverbot in der Stadelheimer Str.; Bürgerschreiben vom 26.05.2006
+- TOP 2.4.: Städtebaulicher Ideenwettbewerb "AGFA-Gelände"; Zusammenstellung wesentlicher Verfahrensdaten; Schreiben des Architektur- u. Stadtplanungsbüros vom 29.05.2006
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3.: Anträge/Anfragen
+- TOP 3.1.: Flugverbot über München einhalten; Antrag des BA 19 vom 09.05.06 mit der Bitte um Unterstützung
+- TOP 4.: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Freunde Giesings e.V., für die Maßnahme: Giesinger Frühlingssingen am 19.05.2006; Antragssumme: 340,-- Euro; Beschlussvorlage des Direktoriums vom 17.05.2006
+- TOP 4.2.: AntragstellerIn: Asamesischer Zirkus (Schulzirkus Asam-Gymnasium Giesing), für die Maßnahme: Jonglierwochenende vom 14. - 16.07.2006 für Schüler aus ganz Bayern; Antragssumme: 1.325,-- Euro; Beschlussvorlage des Direktoriums vom 03.05.2006 zu TOP 4.1.2 Schreiben des Asam-Gymnasiums vom 09.05.2006 zum Budget-Antrag
+- TOP 4.3.: AntragstellerIn: Initiative "55 Cent", für die Maßnahme: Kommunikation auf der Straße im Stadtteil Giesing von Mai - Juli 2006; Antragssumme: 1.600,-- Euro; Beschlussvorlage des Direktoriums vom 09.05.2006
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Sozialwerk Hl. Kreuz Giesing e.V., für die Maßnahme: 1 Roller und 2 Gokarts; Antragssumme: 466,-- Euro; Antrag vom 08.05.2006
+- TOP 4.2.: AntragstellerIn: Verein zur Erhaltung u. Pflege des Perlacher-Grünwalder Forstes e.V., für die Maßnahme: Waldfest am 8. Juli 06; Antragssumme: 1.000,-- Euro; Antrag vom 16.05.06
+- TOP 4.5.: Unterausschüsse
+- TOP 0.1.: Verlegung des Wochenmarktes in Giesing/Perlacher Straße an den Giesinger Bahnhof 17. Stadtbezirk - Obergiesing; Beschluss des BA 17 vom 13.06.2006
+- TOP 0.1.: Antrag auf Genehmigung einer Warenstellage nach Art. 18 Abs. 1 BayStrWG (§ 8 BFStrG) bzw. §§ 33 Abs. 1 i.V.m. 46 Abs. 1 StVO 5.1.3.1.1 Giesinger Schnäppchenmarkt, Tegernseer Landstr. 40; Anhörung des KVR vom 15.05.06 5.1.3.1.2 K.K Textilien und Non-Food GmbH, Schwanseestr. 12; Anhörung des KVR vom 16.05.06
+- TOP 0.2.: Vollzug von § 13 der BA-Satzung (Anlage 1 der BA-Satzung, Katalog-Angelegenheiten Nr. 8.2 bzw. 8.3); Bauvorhaben: Giesinger Bahnhofplatz 5; Anhörung des Planungsreferats vom 04.05.2006 mit der Bitte um Stellungnahme binnen eines Monats
+- TOP 0.3.: Instandsetzung der Straßenbrücke Chiemgaustraße im Zuge der Tegernseer Landstraße (McGraw Graben) im 17. Stadtbezirk Obergiesing; Anhörung zur Beschlussvorlage für den Bauausschuss am 27.06.2006 mit der Bitte um Zustimmung
+- TOP 0.1.1: Baufälle im 17. Stadtbezirk
+- TOP 0.1.2: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2006 - 2010; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006 (VB)
+- TOP 0.1.3: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung u. Bebauungsplan mit Grünordnung Nr. 1983 Giesinger Bahnhofplatz (südlich), Bahnlinie München Ost - Deisenhofen (westlich), Chiemgaustraße (nördlich), Schwanseestraße (östlich) ( Teiländerung des Bebauungsplanes Nr. 1586) - Aufstellungsbeschluss - Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 17.05.2006 (VB)
+- TOP 0.2.: Erhebung von Ausgleichsbeträgen nach §§ 154 ff des Baugesetzbuches (BauGB) bei städtebaulichen Sanierungen - Sachstandsbericht und weiteres Vorgehen - Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 17.05.2006 (VB)
+- TOP 0.3.: Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010; Gliederungsziffern 6101 Stadtentwicklunsplanung 6110 Lokalbaukommission 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Stellungnahme zum Antrag der Bezirksausschüsse 4, 10, 21 und 23; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 17.05.2006 (VB)
+- TOP 0.4.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 Abs. 2 AEG zur Änderung der Gleisanlage; Anschlussbahn der Fa. Thyssen-Vogt an die Bahnstrecke München-Giesing - Deisenhofen bei km 3,4; Az. 610-II-11 PG 09/06; Mitteilung des Referats für Stadtplanung u. Bauordnung vom 24.04.2006
+- TOP 0.5.: Aktualisierung des Flächennutzungsplanes und Aufstellung des Landschaftsplanes Teilbereich VI - Südost; Bereiche: a. Grünwalder Str. (nördlich), Kurzstraße (westlich) b. Tegernseer Landstr. (östlich), Naupliastr. (nördlich) c. Rosenheimer Str. (westlich), St.-Martin-Str. (nördlich) d. Stadelheimer Str. (südlich), Amerstorffer Str. (östlich); Schreiben des Referats für Stadtplanung u. Bauordnung vom 17.05.2006 zum Beschluss vom 10.05.2006
+- TOP 0.6.: Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006; Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 17.05.2006
+- TOP 0.7.: Parkraummanagement in München - Festlegung der 1. Priorität; Beschluss der Vollversammlung des Stadtrates vom 10.05.2006
+- TOP 0.1.1: Anhörung des Beschlusses des Sozialausschusses vom 22.06.2006 (SB), "Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe"; Entwurf der Beschussvorlage mit der Bitte um Stellungnahme bis 06.06.2006 (vertagt aus der Sitzung vom 10.05.2006)
+- TOP 0.1.2: Bauvorhaben Deisenhofener-/Herzogstandstraße - Mittelpunktsbibliothek - Kinderkrippe - sonstige Nutzung Beschluss des Kulturausschusses vom 29.06.2006; Zuleitung des Kulturreferates vom 16.05.2006 mit der Bitte um Stellungnahme bis 29.05.2006
+- TOP 0.2.: Bericht über REGSAM; Bleibt REGSAM ein Erfolgsmodell? Beschluss des Sozialausschusses vom 06.07.2006; Anhörung der Bezirksausschüsse durch das Sozialreferat mit der Bitte um Stellungnahme bis 22.06.2006
+- TOP 0.1.1: 4FC-Bewegungsinseln; Bewertung nach 18. BimSchV; Anlage: Stellungnahme des RGU; Mitteilung des Schul- und Kultusreferats vom 21.04.2006
+- TOP 0.1.2: Münchner "SommerSpielAktion" 2006; Wasserspielbus auf der Grünfläche zwischen der Cincinnati-, Minnewit-, Pennstr. von Mittwoch, 16.08.06 bis Freitag, 18.08.06; Mitteilung der Pädagogischen Aktion Spielen in der Stadt vom 19.04.2006
+- TOP 0.2.: "München macht Raum für Familien. Familiengerechte Planung u. Gestaltung öffentlicher Räume"; Beitrag der Stadt München zum 7. Familienbericht der Bundesregierung; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung u. Bauordnung vom 17.05.2006 zu TOP 5.2.4.3 Hinweis / Ergänzung zur Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung u. Bauordnung vom 17.05.2006
+- TOP 0.3.: Kinder- und Jugendgewalt in München; Erste Ergebnisse der 3. Schülerbefragung des Kriminologischen Forschungsinstituts Niedersachsen e.V.; Bekanntgabe in der gemeinsamen Sitzung des Schulausschusses und des Kinder- und Jugendhilfeausschusses des Stadtrats vom 25.04.2006
+- TOP 0.4.: Öffnung von Schulsportplätzen im 17. Stadtbezirk; Antwortschreiben des Schul- und Kultusreferats vom 04.05.06 zum BA-Antrag Nr. 02-08 / B 01002 vom 14.03.06
+- TOP 0.5.: Mehrjahresinvestitionsprogramm (MIP) 2006 - 2010 1. Investitionsmaßnahmen für Sportanlagen 2. Dissens 3. Stellungnahmen der Bezirksausschüsse Beschluss des Sportausschusses des Stadtrates vom 30.05.2006
+- TOP 0.1.: Öffnung der Kiesstraße zwischen Untere Gras- und Obere Grasstraße sowie der Unteren Grasstraße zwischen Gietl- und Kiesstraße für den gegenläufigen Radverkehr; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 09.05.06 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 0.2.: Leistungsprogramm 2007 der MVG (Fahrplanwechsel Dezember 2006); Zuleitung der MVG vom 04.05.06 mit der Bitte um Stellungnahme bis 20. Juni 2006
+- TOP 0.1.: Winterdienst: Einrichtung eines Notdienstes, der sicherstellt, dass an Lichtsignalanlagen auch nachts gebremst werden kann (Ziffer 2 des Antrags); Beschluss des Bauausschusses vom 23.05.2006
+- TOP 0.2.: Prüfung, in welchen Teilgebieten des 17. Stadtbezirkes ein besonderer Handlungsbedarf für die Einführung von Parklizenzzonen besteht; BA-Antrag-Nr. 02-08 / B 00923 des BA 17 vom 14.02.06; Antwortschreiben des Planungsreferats
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 5.4.4.1.1 Anwesen in der Fischbachauer Str.; Bescheinigung vom 15.05.2006
+- TOP 0.2.: Tegernseer Landstr. 104, Fl.Nr. 13472/0, Gemarkung München Sektion VII; BA-Antrag Nr. 02-08/B 01075 vom 11.04.2006; Az.: 602-5.1-2006-12223-05; Antwortschreiben der Unteren Naturschutzbehörde vom 02.05.06
+- TOP 0.3.: Systematische Aufstellung von Bank-Inseln in Grün- und Parkanlagen; BA-Antrags-Nr. 02-08 / B 01158 des BA 17 vom 10.05.06; Antwortschreiben des Baureferats vom 22.05.06
+- TOP 0.1.: Flohmärkte auf dem Walchenseeplatz; Anhörung zu weiteren Terminen (vertagt aus der Sitzung vom 11.04.2006 und 10.05.2006); Zuleitung des Baureferats mit der Bitte um Stellungnahme
+- TOP 0.1.1: Veranstaltung auf der Weißenseestraße, Gottesdienst am 23. Juli 2006 (Grünfläche zwischen Chiemgaustr., Tegernseer Landstr. u. Franz-Eigl-Weg); Anhörung des Baureferates mit der Bitte um Stellungnahme bis 28.06.2006
+- TOP 0.2.: Kultur im Stadtquartier; Kultur-Kataster zu räumlichen Verteilung der städt. Kultureinrichtungen; Evaluierung kultureller Zentren; Kulturelle Zentren u. Stadtteilwochen; Kulturzentren entlasten (I): Haftpflicht- u. Versicherungsfragen zentral klären; Kulturzentren (II): Das Rad nicht 30mal neu erfinden - zentrale Unterstützung für Raum-, Buchungs- u. Verwaltungsaufgaben; Gesamtkonzept für die stadtteilkulturellen Einrichtungen; Anhörung zum Entwurf der Beschlussvorlage des Kulturausschusses am 20.07.2006 mit der Bitte um Stellungnahme bis 19.06.2006
+- TOP 0.3.: Veranstaltung vom 21.09.2006 bis 25.09.2006 an der Weißensee- / Untersbergstraße (Zirkusaufführung); Zuleitung des Baureferats vom 05.05.06 mit der Bitte um Stellungnahme bis 17.06.06
+- TOP 0.4.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Straßenfest 103er Freizeittreff Obergiesing am 22.07.06 in der Perlacher Straße; Zuleitung des KVR vom 22.05.06 mit der Bitte um Stellungnahme bis 30.06.05
+- TOP 0.1.: Museumspfad für München für städtische Museen; Beschluss des Kulturausschusses vom 18. Mai 2006 (SB)
+- TOP 0.2.: Terminbekanntgabe Mit- und Eigenveranstaltungen; Antwortschreiben des Kulturreferats vom 05.05.2006 auf das Schreiben des BA 17 vom 26.04.2006
+- TOP 6.: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.: Offenlegung des städtebaulichen Vertrages zum Projekt "Lenbach-Gärten" bzw. "Alte Chemie"; BA-Antrag Nr. 02-08/B 01051 des BA 3 vom 29.03.2006; Schreiben des BA 3 zum Schreiben vom 29.03.06 (siehe TOP 6.2.1 vom 10.05.06)
+- TOP 7.: Berichte der Beauftragten
+- TOP 7.7.1: Ausländer/Innen
+- TOP 7.7.2: Baumschutz
+- TOP 7.7.2.1: Einzelfälle
+- TOP 7.1.1: Anwesen in der Kiefernstr.; Anhörung vom 26.04.06
+- TOP 7.1.2: Anwesen in der Feuerbachstr.; Anhörung vom 08.05.06
+- TOP 7.2.: Anwesen in der Stadelheimer Str.; Anhörung vom 19.05.06
+- TOP 7.3.: Anwesen in der Alzstraße; Anhörung vom 23.05.06
+- TOP 7.4.: Anwesen im Hermelinweg; Anhörung vom 19.05.06
+- TOP 7.7.2.2: Baumbestandspläne
+- TOP 7.7.3: Behinderte
+- TOP 7.7.4: Frauen
+- TOP 7.7.5: Kinder
+- TOP 7.7.6: Senioren/Innen
+- TOP 7.7.7: Stadtteilpartnerschaft Colerain Township, Ohio, USA
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
