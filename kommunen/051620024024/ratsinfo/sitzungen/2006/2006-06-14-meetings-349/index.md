@@ -1,0 +1,54 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2006-06-14T17:02:00+02:00
+- Ende: 2006-06-14T20:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/349
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/349
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Zuschüsse an d. polit. Jugendorganisationen
+- TOP 5: geforderte Unterlagen für Kreditübernahme NRRV
+- TOP 6: Genehmigung der Tagesordnung
+- TOP 7: Erschließung Nordparkweg -Änderungsbeschluss-
+- TOP 8: B-Plan 43/10, Satzungsbeschluss
+- TOP 9: B-Plan 57/22, Satzungsbeschluss
+- TOP 10: B-Plan V110/8, Grundsatzbeschluss
+- TOP 11: Fahrbahneinengung Volmerswerther Str.
+- TOP 12: Bauvorhaben Drususallee
+- TOP 13: Immobilien Standortgemeinschaft Norf
+- TOP 14: B-Plan 366/1, Satzungsbeschluss
+- TOP 15: Übernahme Kreditverpflichtungen NRRV
+- TOP 16: Sanierungssatzung südliche Furth
+- TOP 17: B-Plan 443, Satzungsbeschluss
+- TOP 18: B-Plan 443, Gestaltungssatzung
+- TOP 19: Satzung Elternbeitr. f. Tageseinr. f. Kinder
+- TOP 20: Umgestaltung Horremer Straße, Baustufe I
+- TOP 21: Neubau Musikschule / Volkshochschule
+- TOP 22: B-Plan 449, Aufstellungsbeschluss
+- TOP 23: Wirtschaftsplan 2006 Herz-Jesu
+- TOP 24: B-Plan 321, Einstellung Verfahren
+- TOP 25: Grünplanung Bebauungsplan Nr. 418
+- TOP 26: Änderung der Vergabeordnung
+- TOP 27: OGS-Planungen, Kostenschätzungen
+- TOP 28: Umgestaltung Hafenstraße
+- TOP 29: CDU: Feuerwehruniformen
+- TOP 30: SPD: Ratskleidung (RAT140606-04077)
+- TOP 31: B-Plan 445, Entwurfsvorlage
+- TOP 32: Kenntnisnahme üpl./apl. Ausgaben I. Quartal 2006
+- TOP 33: Straßenbegleitgrün zum Bebauungsplan Nr. 354
+- TOP 34: OGS-Plus
+- TOP 35: Wohnproblemen/ Einrichtung Zentralen Fachstelle
+- TOP 36: KiTas.hier: Beitr.freih. f. d. l. Kindergartenj.
+- TOP 37: Gründung Gesellschaft f. erneuerbare Energien
+- TOP 38: Einwohnerfragestunde
+- TOP 39: Änd. RV. Bildung v. Schulbez. Grundschulen
+- TOP 40: SPD: Änderung der Geschäftsordnung des Rates
