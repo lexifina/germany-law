@@ -1,0 +1,62 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2006-06-14T13:00:00+02:00
+- Ende: 2006-06-14T18:40:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/732
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/732
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022187.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022187.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022187.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Einstimmiger Beschluss
+- TOP 2: Öffentlicher Rettungsdient - Notfallrettung - Zur Kenntnis genommen
+- TOP 3: Niersverband - Einstimmiger Beschluss
+- TOP 4: Bestellung SSK - Einstimmiger Beschluss
+- TOP 5: Jahresrechnung 2005 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 6: Höchstbetrag der Kassenkredite - Mit Stimmenmehrheit beschlossen
+- TOP 7: Inangriffnahme von Maßnahmen - Mit Stimmenmehrheit beschlossen
+- TOP 8: Abbruchmaßnahmen auf städtischen Grundstücken - Mit Stimmenmehrheit beschlossen
+- TOP 9: üpl./apl. Ausgaben des Haushaltsjahres 2005 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 10: Bekanntgabe Abschlussergebnis SSK MG 2005 - Einstimmiger Beschluss
+- TOP 11: Entlastung der Sparkassenorgane - Einstimmiger Beschluss
+- TOP 12: Haus Westland - Mit Stimmenmehrheit beschlossen
+- TOP 13: VO Offenhalten Verkaufsstellen 150 J. Odenkirchen - Mit Stimmenmehrheit beschlossen
+- TOP 14: Ordnungsbehördliche Verordnung Offenhalten - Mit Stimmenmehrheit beschlossen
+- TOP 15: Ladenöffnungszeiten Hockey-Weltmeisterschaft - Zur Kenntnis genommen
+- TOP 16: 3. ÄnderungsVO Offenhalten von Verkaufsstellen - Zur Kenntnis genommen
+- TOP 17: VO Offenhalten Verkaufsstellen "Hockey WM 2006" - Einstimmiger Beschluss
+- TOP 18: Bereitstellung eines Grundstückes auf der Bezirkss - Einstimmiger Beschluss
+- TOP 19: Betreuung an Grundschulen - Einstimmiger Beschluss
+- TOP 20: Umgestaltung Förderschulen Ganztag - Einstimmiger Beschluss
+- TOP 21: Zuschuss zur Mittagsverpflegung - Einstimmiger Beschluss
+- TOP 22: Radio 90.1 - Zur Kenntnis genommen
+- TOP 23: Berufung von ständigen Mitgliedern - Einstimmiger Beschluss
+- TOP 24: Verlängerung der Sockelverträge - Einstimmiger Beschluss
+- TOP 25: Elternbeiträge - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 26: Beteiligung der Städt. Kliniken MG GmbH - Zur Kenntnis genommen
+- TOP 27: Integration in Beschäftigung - Zur Kenntnis genommen
+- TOP 28: Anregung an den Rat - Zur Kenntnis genommen
+- TOP 29: Anregung an den Rat - Zur Kenntnis genommen
+- TOP 30: 1. Änderung des Bebauungsplanes Nr. 441/VII - Zur Kenntnis genommen
+- TOP 31: 1. Änderung BP R Nr. 3005 - in Textform - - Zur Kenntnis genommen
+- TOP 32: 1. Änderung BP R Nr. 3116 - in Textform - - Zur Kenntnis genommen
+- TOP 33: Bebauungsplan Nr. 650/III - Stadtbezirk Stadtmitte - Zur Kenntnis genommen
+- TOP 34: Veränderungssperre Vorster Straße - Zur Kenntnis genommen
+- TOP 35: Jahresabschluss 2005 der GSM - Zur Kenntnis genommen
+- TOP 36: Konzeption für den Kommunalen Ordnungsdienst - Zur Kenntnis genommen
+- TOP 37: Kulturleitprofile für Mönchengladbach - Zur Kenntnis genommen
+- TOP 38: Reduzierung der Anzahl/Neueinteilung Stadtbezirke - Zur Kenntnis genommen
+- TOP 39: Neueinteilung der Stadtbezirke/Kommunalwahlbezirke - Zur Kenntnis genommen
+- TOP 40: Einteilung des Stadtgebietes in Bezirke - Zur Kenntnis genommen
+- TOP 41: Reduzierung der Anzahl der Stadtbezirke - Zur Kenntnis genommen
+- TOP 42: Besetzungsverfahren Beigeordnetenstelle Dez. IV - Zur Kenntnis genommen
+- TOP 43: Ausschreibung einer Beigeordnetenstelle - Zur Kenntnis genommen
+- TOP 44: Lernmittelfreiheit - Zur Kenntnis genommen
+- TOP 45: Anfragen - Zur Kenntnis genommen
