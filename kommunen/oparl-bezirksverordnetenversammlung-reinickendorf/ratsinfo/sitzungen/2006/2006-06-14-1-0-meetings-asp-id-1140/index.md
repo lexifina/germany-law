@@ -1,0 +1,79 @@
+# 51. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2006-06-14T17:05:00+02:00
+- Ende: 2006-06-14T20:25:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1140
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1140
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=31910
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Beratung der nicht behandelten Tagesordnungspunkte aus der 50. Sitzung vom 10.05.2006 - (offen)
+- TOP 4: Konsensliste - im Ausschuss abgelehnt
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Mündliche Anfragen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Stadtteilbibliothek Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Verantwortung des Senats zur Förderung der Wirtschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Zukunft der Graphothek Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: 60. Jahrestag der Befreiung vom Nationalsozialismus und der Beendigung des zweiten Weltkrieges in Europa im Bezirk Reinickendorf würdig begehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Probleme mit der Ordnung an der Greenwichpromenade hier: Hafenmeister - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Ausstellung "Tatmotiv Ehre" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Ergebnisse des Abfallwirtschaftsberichtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Brandschutzaufklärung in Reinickendorfer Grundschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Steg und Beschilderung am Tegeler Fließ in Stand setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Umsetzung der Sparvorgaben bei HzE - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Sprach-Förderunterricht am Samstag in den Schulen erteilen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Schulspeisung an gebundenen Ganztagsschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Haltestelle an der Wendeschleife Neheimer Straße Ecke Namslaustraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Jugendliche vor Alkoholmissbrauch schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Anzeigentafel Sporthalle Cyclopstraße in Stand setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-289 für die Kolonie Erholung, die Grundstücke Auguste-Viktoria-Allee 17 und 17 A, das Grundstück der evangelischen Segenskirchengemeinde, das angrenzende Grundstück zwischen Auguste-Viktoria-Allee 16 und 17 einschließlich 16 C sowie einen Abschnitt der Auguste-Viktoria-Allee im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-290 für die Kolonie Schlehbuschweg, die begrenzt wird durch das Gelände der Niederbarnimer Eisenbahn, der Grundstücke Lange Enden 29 und Lange Enden 1, der Hermsdorfer Straße, des Grundstücks Rosentreterpromenade 2 / 62 sowie der Rosentreterpromenade im Bezirk Reinickendorf, Ortsteil Wittenau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Bericht des Behindertenbeauftragten von Berlin-Reinickendorf für den Zeitraum Frühjahr 2003 bis Frühjahr 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-226b vom 22. Oktober 1998 mit Deckblatt vom 07.08.2000 und 23.08.2005 für das Gelände zwischen den Grundstücken Gollanczstraße 59,133 ... - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Straßenbaumaßnahmen 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Bebauungsplanentwurf 12-14 für die Grundstücke Kurt-Schumacher-Damm 12 - 16, Nordlichtstraße 2 - 4 und Abschnitte der Straße 462, der Nordlichtstraße und des Kurt-Schumacher-Damms im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Fenstersturz - Priorität für Gefahrenabwehr - beantwortet
+- TOP 8.2: Kultur und Sozialraum - beantwortet
+- TOP 8.3: Ältere Mitbürger in Reinickendorf - in der BVV zurückgezogen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Übertragung der Einrichtung "Centre Talma" an einen Freien Träger - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Gesamtkonzept für Gedenkzwecke - mit Änderungen in der BVV beschlossen
+- TOP 10.1.1: Gedenken in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Kooperation Graphothek - Wirtschaft - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Modellprojekt "Schulverweigerung - Die 2. Chance" - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Entwicklungskonzept Borsighafen - in der BVV abgelehnt
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Lange Nacht der Politik - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Protokolle der Ausschusssitzungen der BVV Reinickendorf zeitnah ins Internet stellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Verteilen von Wahlkampfwerbung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3.1: Verteilen von Wahlkampfwerbung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Schulwegsicherheit erhöhen, Geschwindigkeitsanzeiger aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Neuer Radweg Richtung Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Baugenehmigungen zu Neubauvorhaben - überwiesen
+- TOP 12.4: Protokolle des JHA im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Vorsicht beim Auffinden verendeter Vögel - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Radonkonzentration in Aufenthaltsräumen - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Optimierung der Anbindung der drei Buslinien 133, 124 und 324 - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Sicherer Schulweg in der Schildower Straße - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Feinstaubmessungen - ohne Änderungen in der BVV beschlossen
+- TOP 14: Möglichkeiten des Private Public Partnership in Reinickendorf - beantwortet
+- TOP 14.1: Möglichkeiten des Private Public Partnership - überwiesen
+- TOP 14.2: Überführung der Reinickendorfer Schulen in ein Public Private Partnership - überwiesen
+- TOP 15: Kooperationen zwischen Schule und Wirtschaft - beantwortet
+- TOP 16: Graffiti - Reinickendorf muss sauber bleiben - beantwortet
+- TOP 17: Bau einer Moschee im Bezirk Pankow der Ahmadiyya-Gemeinde - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 17.1: Bau einer Moschee im Bezirk Pankow der Ahmadiyya-Gemeinde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 18: Radwegekonzept für den Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
