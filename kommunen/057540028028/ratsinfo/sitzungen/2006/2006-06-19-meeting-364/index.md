@@ -1,0 +1,52 @@
+# Rat der Stadt Rheda-Wiedenbrück (12. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2006-06-19T17:00:00+02:00
+- Ende: 2006-06-19T19:29:00+02:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZIR9fb-BhTOIRbnfNqqGF0
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/364
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYj8DZXIQL7Z5piM-Zig7SEa3J-AXNO4TcTRp1y5eAXK/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_19.06.2006.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTVm2J8aGAgt8KvZfqtYmC7qHvJtOdQu8zvg3rgLlqHb/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_19.06.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Einführung und Verpflichtung des für den verstorbenen Ratsherrn Frank Liedtke nachrückenden Ratsherrn Peter Rentrup
+- TOP 3: Erklärung von Ausschließungsgründen
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Mitgliedschaft in der „Wirtschaftsförderungsgesellschaft Kreis Gütersloh mbH“ - 31 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 6: Gründung einer Bürgerstiftung - Einstimmig
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: 5. Änderung der Hauptsatzung der Stadt Rheda-Wiedenbrück vom 09.11.1999 - Einstimmig
+- TOP 9: Änderung der Zuständigkeitsordnung des Rates der Stadt Rheda-Wiedenbrück für seine Fachausschüsse vom 16.11.2004 - Einstimmig
+- TOP 10: Bildung eines Ausschusses für Integration - Einstimmig
+- TOP 11: Bildung eines Wahlausschusses für die Wahl der durch Urwahl zu wählenden stimmberechtigten Mitglieder des Ausschusses für Integration - Einstimmig
+- TOP 12: Erlass einer Wahlordnung für die Wahl der durch Urwahl zu wählenden stimmberechtigten Mitglieder des Ausschusses für Integration der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 13: Bekanntgabe der im Zeitraum Januar bis April 2006 gem. § 82 I Satz 3 GO NRW (alte Fassung) geleisteten über- und außerplanmäßigen Ausgaben - Kenntnisnahme
+- TOP 14: Endgültige Beratung und Beschlussfassung der 1. Nachtragshaushaltssatzung mit ihren Anlagen für das Haushaltsjahr 2006 - Der Antrag wurde mehrheitlich abgelehnt.
+- TOP 15: NKF - Festlegung einer Wertgrenze für den Einzelausweis von Investitionen - 28 Ja-Stimme(n), 4 Nein-Stimme(n)
+- TOP 16: NKF - Dienstanweisung für die Finanzbuchhaltung - Kenntnisnahme
+- TOP 17: Antrag der SPD-Fraktion auf Befreiung von ALG-II-Empfängern vom Eigenanteil im Rahmen der Lernmittelfreiheit - Einstimmig
+- TOP 18: 45. Änderung des Flächennutzungsplans (Netzschluss Südring); hier: a) Beratung und Entscheidung über eingegangene Anregungen, b) abschließende Beschlussfassung - 27 Ja-Stimme(n), 5 Nein-Stimme(n)
+- TOP 19: Bebauungsplan Nr. 346 "Südring", hier: a) Abwägung der zur Offenlegung eingegangenen Anregungen b) Abwägung der zur erneuten beschränkten Offenlegung eingegangene Anre- gungen, c) Satzungsbeschluss - 27 Ja-Stimme(n), 5 Nein-Stimme(n)
+- TOP 20: Friedhofsbedarfsflächenberechnung; hier: Sachstand - Kenntnisnahme
+- TOP 21: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 22: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 22.1: Antrag der CDU-Fraktion zur Förderung von Ausbildungsplätzen
+- TOP 22.2: Antrag der CDU-Fraktion zur Zulassung von standesamtlichen Trauungen in der Orangerie im Schloss Rheda
+- TOP 23: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 24: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 25: Erklärung von Ausschließungsgründen
+- TOP 26: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 27: Gewährung eines Darlehens - Kenntnisnahme
+- TOP 27.1: Ersatzbeschaffung LF - Einstimmig
+- TOP 27.2: Anfrage der SPD-Fraktion betreffend Ansiedlung der Firma Abbruch-Landwehr auf dem Gelände Pfleiderer
+- TOP 28: Aktueller Stand der städtischen Geldanlagen - Einstimmig
+- TOP 29: Bericht zur Beschlusskontrolle - Einstimmig
+- TOP 30: Dringende Anfragen und Anregungen
