@@ -1,0 +1,68 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2006-06-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/805239
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/805239
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Freizeittreff Lerchenauer; Spielefest am Wochenmarkt am 08.07.2006
+- TOP 3.1.: Antrag für Fahrscheine für ALG II-Bezieher und andere arme Leute im Stadtteil
+- TOP 3.2.: Die Firma MAN soll den werkseigenen Parkplatz als Zufahrt zur Teststrecke benützen, statt wie bisher die vielbefahrene Karlsfelder Straße
+- TOP 3.3.: Die Stadtverwaltung wird gebeten die Ablagerung von Altautos und anderem Unrat auf dem Grundstück Karlsfelder Str. 282 zu überprüfen und gegebenenfalls beseitigen zu lassen.
+- TOP 3.4.: Die Stadt München wird gebeten, dafür Sorge zu tragen, dass auch am nordöstlichen Eingang zum im Bau befindlichen U-Bahnhof Olympiapark Nord (Ecke Moosacher Str./ Lerchenauer Str. ) Abstellmöglichkeiten für Fahrräder errichtet werden.
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Auslagerung Kindergarten auf den Goldschmiedplatz in der Zeit vom 21.08. bis 31.10.2006
+- TOP 5.2.: Herstellung Sandbienenweg (Nordheide West, Teil III - Nordteil)
+- TOP 5.3.: Vollzug der Baumschutzverordnung: a) 1Buche Brücklmeierstr. 3 a Fr. Fellner b) 1 Fichte Grashofstr. 11 Hr. Pabst c) versch.Bäume Herbergstr. 10 Hr. Pabst d) 1 Kiefer Sighartstr. 11 Fr. Fellner e) 2 Fichten Schneeglöckchenstr. 67 Fr. Meissner f) 2 Fichten Schneeglöckchenstr. 90 Fr. Meissner g) versch. Bäume Ferchenbachstr. 1 Hr. Hauke h) 1 Fichte Adlerfarnstr. 25 Fr. Rieke
+- TOP 5.4.: Kultur im Stadtquartier Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen Evaluierung kultureller Zentren Lulturelle Zentren und Stadtteilwochen Kulturzentren entlasten (I): haftpflicht- und Versicherungsfragen zentral klären Kulturzentren (II): Das Rad nicht 30mal neu erfinden - zentrale Unterstützung für Raum-, Buchungs- und Verwaltungsaufgaben Gesamtkonzept für die stadtteilkulturellen Einrichtungen
+- TOP 5.5.: Bericht über REGSAM
+- TOP 5.6.: Veranstaltung auf dem Goldschmiedplatz, Sommerfest am 16.09.2006
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Vorab-Stellungnahmen aus Fristgründen: a) Veranstaltung am Goldschmiedplatz am 08. + 09.06.2006 b) Straßenfest am Walter-Sedlmayr-Platz am 24.06.2006 c) Veranstaltung am Golschmiedplatz vom 23. bis 25.06.2006 d) Straßenfest Freizeittreff Lerchenauer, Lassallestr. am 08.07.2006 e) Tag der offenen Tür FFW Harthof Heimperthstr. am 23.07.2006 f) Veranstaltung Dülferstr. / Schotterparkplatz, Zirkusaufführungen vom 19.10. bis 23.10.2006 g) Ausbau des Netzes der Alten- Service-Zentren in Mücnchen unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich offenen Altenhilfe h) Aufwertung und Umgestaltung des Goldschmiedplatzes und des Dülferangers i) Baumschutzverordnung: Herbergstr. 10 j) Aufweitung der Lerchenauer Str. im Bereich der Hausnummer 240 k) Beteiligung der Bezirksausschüsse bei Baumfällungen l) Verkauf einer städtischen Immobilie - Am Schätzweg
+- TOP 6.2.: Personalwechsel in der WSB-Hausverwaltung Hasenbergl
+- TOP 6.3.: Schutz von KIndern und Jugendlichen in Einrichtungen
+- TOP 6.4.: Ehemaliges Postgebäude am Frühlingsanger
+- TOP 6.5.: Anträge und Anfragen aus der Bürgerversammlung vom 30.05.2006
+- TOP 6.6.: Verkehrsrechtliche Anordnung: Schulbushaltestelle Lerchenauer Straße 322; Änderung der Zeitzusätze
+- TOP 6.7.: Meldelisten Bauvorhaben
+- TOP 6.8.: Baumaßnahmen der Stadtwerke
+- TOP 6.9.: Baumschutz - Borkenkäferbescheinigung Schneeglöckchenstr. 90 (siehe TOP 5.3 f)
+- TOP 6.10.: Baumschutzverordnung; Abweichender Bescheid zur BA-Entscheidung: a) Gutmannstr. 2 b) Himmelschlüsselstr. 40 c) Josef-Frankl-Str. 35 d) Leberblümchenstr. 12 e) Linus-Funke- Weg 5 f) Linus-Funke-Weg 14 g) Schneeglöckchenstr. 93 h) Skabiosenstr. 2
+- TOP 6.11.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/32 Schleißheimer Str. (östlich), Sandbienenweg (beidseits) (Unterrichtung über die Auslegung)
+- TOP 6.12.: Zweckentfremdung
+- TOP 6.13.: Winterdienst: Einrichtung eines Notdienstes, der sicherstellt, dass an Lichtsignalanlagen auch nachts gebremst werden kann
+- TOP 6.14.: Museumspfad für München für städtische Museen;
+- TOP 6.15.: Offensive für den Radverkehr V - mehr Fahrradabstellflächen im Straßenraum schaffen -
+- TOP 6.16.: Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006
+- TOP 6.17.: a) Bebauungsplan mit Grünordnung Nr. 1978 Regattaanlage (westlich), Stadtgrenze (südlich), Regattaweg (nördlich und südlich) -Siedung am Regattaweg - -Satzungsbeschluss- b) Stadtratsantrag Nr. 807 vom 04.03.1998
+- TOP 6.18.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2006 - 2010
+- TOP 6.19.: "München macht Raum für Familien. Familiengerechte Planung und Gestaltung öffentlicher Räume" Beitrag der Stadt München zum 7. Familienbericht der Bundesregierung
+- TOP 6.20.: Planfeststellung für die Magnetschwebebahn (MSB) München Hauptbahnhof - Flughafen a) Beschlusslage, Verfahrens- und Planungsstand b) Planfeststellung - Anhörungsverfahren- Stellungnahme der Lanfdeshauptstadt München zum Planfeststellungsabschnitt 11 München und zu den weiteren Abschnitten 21, 22, 31 und 32 c) Weiteres Vorgehen
+- TOP 6.21.: Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010
+- TOP 6.22.: Mehrjahresinvestitionsprogramm (MIP) 2006 - 2010 1. Investitionsmaßnahmen für Sportanlagen 2. Dissens 3. Stellungnahmen der Bezirksausschüsse
+- TOP 6.23.: Mehrjahresinvestitionsprogramm (MIP) 2006-2010 1. Investitionsmaßnahmen für Schulen und Kindertagesstätten 2. Dissens 3. verfahrenstechnische Neuerungen 4. Stellungsnahmen der Bezirksausschüsse
+- TOP 6.24.: Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010 Gliederungsziffern 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Stellungnahme zum Antrag der Bezirksauschüsse 4, 10, 21 und 23
+- TOP 6.25.: Mehrjahresinvestitionsprogramm für die Jahre 2006-2010 mit verbindlicher Planung für 2011; Unterabschnitte: 6300 "Gemeindestraßen" 6600 "Bundes- und Staatsstraßen; Ortsdurchfahrten" 6700 "Straßenbeleuchtung" 6750 "Straßenreinigung" 6800 "Parkscheinautomaten, -uhren, Parkplätze" 6900 "Wasserläufe/Wasserbau"
+- TOP 6.26.: Bauträgerauswahl für die Baugrundstücke des kommunalen Wohnungsbauprogramms- Teilprogramm für Benachteiligte am Wohnungsmarkt Teilprogramm für Clearinghäuser (KomPro/B und C) - NICHT ÖFFENTLICH -
+- TOP 6.27.: Mobilfunk - NICHT ÖFFENTLICH
+- TOP 6.28.: Antrag des BA 19 - Flugverbot über München einhalten
+- TOP 6.29.: Allgemeine Information zu Kita-Gebühren (Anfrage von Fr. Hacker BA 13)
+- TOP 6.30.: Offenlegung städtbaulicher Verträge (Antrag BA 3 Maxvorstadt)
+- TOP 6.31.: Pressemitteiung der Autobahndirektion Südbayern - Autobahndirektion pflegt Münchner Schäfertradition -
+- TOP 6.32.: Münchner Statistik - 1. Quartalsheft, Jahrgang 2006
+- TOP 6.33.: Zweckentfremdung eines städtischen Anwesens im 15. Stadtbezirk Trudering-Riem (Schreiben des BA 15)
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2.: Unterausschuss Jugend, Soziales, Schule und Kultur
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
