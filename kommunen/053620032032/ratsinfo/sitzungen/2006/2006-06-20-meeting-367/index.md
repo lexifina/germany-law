@@ -1,0 +1,57 @@
+# Stadtrat (14. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2006-06-20T17:00:00+02:00
+- Ende: 2006-06-20T19:53:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcWOfWHf9OhWskd1ZG0XUMc
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/367
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZWFfggwtWiAAKYrF9--h-oggdeL2USgZFW6g0Y4aV7sm/Oeffentliche_Niederschrift_Stadtrat_20.06.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2.: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 2.1: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 2.2: Umbesetzung von Ausschüssen
+- TOP 2.3: Umbesetzung von Ausschüssen
+- TOP 2.4: Umbesetzung von Ausschüssen
+- TOP 2.5: Umbesetzung von Ausschüssen
+- TOP 2.6: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 2.7: Umbesetzung des Jugendhilfeausschusses
+- TOP 3.: Auflösung von Arbeitskreisen
+- TOP 3.1: Einspruch gegen Beschlüsse entscheidungsbefugter Ausschüsse hier: Beschluss des Ausschusses für Stadtplanung und Verkehr TOP 3.1 - Auflösung von Arbeitskreisen
+- TOP 3.2: Auflösung von Arbeitskreisen
+- TOP 3.3: Einspruch gegen Beschlüsse entscheidungsbefugter Ausschüsse hier: Beschluss des Haupt- und Finanzausschusses TOP 2 - Auflösung des Arbeitskreises Verwaltungsreform
+- TOP 4.: Bäderkonzept der Stadt Kerpen hier:Änderung der Zuständigkeitsordnung für die Ausschüsse sowie Wiedereinrichtung des Arbeitskreises Bäder
+- TOP 5.: Stadtentwicklung und Bauleitplanung
+- TOP 5.1: Umsiedlung Manheim - Anregung und Beschwerde des Bürgerausschusses Manheim
+- TOP 5.1.1: Bürgerantrag Realisierung des Forderungskataloges der Bürgervollversammlung in Manheim vom 30.03.2006
+- TOP 5.2: 55. Änderung des Flächennutzungsplanes, " Visteonstraße ", Stadtteil Sindorf -Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.3: Bebauungsplan SI 231 A/4. Änderung " Hahner Äcker Ost ", Stadtteil Sindorf hier: Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB
+- TOP 5.3.1: Ungereimtheiten bei der geplanten Ansiedlung einer Diskothek neben "Hof Hahn" in Sindorf hier: Klärung der Definition von Vergnügungsstätten
+- TOP 5.4: 49. Änderung des Flächennutzungsplanes "Sonderbaufläche Abfallbehandlungsanlage Haus Forst", Stadtteil Manheim hier: Offenlegungsbeschluss gem. § 3 (2) BauGB
+- TOP 5.5: Bebauungsplan MA 313 "Abfallbehandlungsanlage Haus Forst", Stadtteil Manheim hier: Offenlegungsbeschluss gem. § 3 Abs. 2 BauGB
+- TOP 5.6: 51. Änderung des Flächennutzungsplanes "Sonderbaufläche Gesundheits- und Therapieeinrichtung für Pferde", Stadtteil Buir hier: Offenlegungsbeschluss gem. § 3 (2) BauGB
+- TOP 5.7: Vorhabenbezogener Bebauungsplan BU 317 ¿Gesundheits- und Therapieeinrichtung für Pferde¿, Kerpen-Buir hier: Offenlegungsbeschluss gem. § 3 (2) BauGB
+- TOP 5.8: 50. Änderung des Flächennutzungsplanes "Sondergebiet Steinweg", Stadtteil Kerpen-Buir hier: Wirksamkeitsbeschluss der 50.Änderung
+- TOP 5.9: Bebauungsplan TÜ 246/ 2. Änderung ¿Gewerbe-/Industriegebiet Ville¿, Stadtteil Kerpen- Türnich hier: Offenlegungsbeschluss gem. § 3 Abs. 2 BauGB
+- TOP 5.9.1: Bebauungsplan TÜ 246, 2. Änderung, "Gewerbe/-Industriegebiet Ville", Stadtteil Türnich; hier: Altlastenuntersuchung
+- TOP 5.9.2: Offenlegungsbeschluss Bebauungsplan TÜ 246/2.Änderung
+- TOP 5.9.3: Regenrückhaltebecken an der Röntgenstraße
+- TOP 6.: Offene Ganztagsschule im Primarbereich hier: Benutzungs- und Entgeltsatzung für die Offene Ganztagsschule im Stadtgebiet Kerpen
+- TOP 7.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 8.: Mitteilungen
+- TOP 9.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 10.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 11.: Übernahme einer Ausfallbürgschaft für die Aufnahme eines Darlehens durch die Erftland für Modernisierungsmaßnahmen in der Mietwohnung Albertus-Magnus-Straße 3 in Kerpen-Mödrath
+- TOP 12.: Vorhabenbezogener Bebauungsplan BU Nr.317 "Gesundheits- und Therapieeinrichtung für Pferde" im Stadtteil Buir hier: Abschluss eines Durchführungsvertrages gem. BauGB
+- TOP 13.: Projekt ¿Entertainment-Center Europarc¿ im Stadtteil Sindorf hier: Abschluss eines städtebaulichen Vertrages mit der Firma Spielkisten GmbH & Co.KG
+- TOP 14.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 15.: Mitteilungen
+- TOP 16.: Anfragen gem. § 18 Geschäftsordnung
