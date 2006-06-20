@@ -1,0 +1,106 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2006-06-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/769411
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/769411
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Denkmalschutz am Anwesen Harthauser Straße 11; Bürgerschreiben vom 29.05.2006 und 03.06.2006 - <div>Anfrage an das Referat für Stadtplanung und Bauordnung</div>
+- TOP 2.2.: Müll und Bauschuttablagerungen in der Sachsenstraße, Parken von LKW, Wohnmobilen und Wohnwagen in der Straße; Bürgerschreiben vom 06.06.2006 - <div>WL an PI 23 und Kreisverwaltungsreferat</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: UA 18 - Budgetangelegenheiten - 12.06.2006
+- TOP 3.1.: AntragstellerIn: Kindergarten Hänsel & Gretel e. V., für die Maßnahme: Brandschutzmaßnahmen, Antragssumme: 9.873.- ?, Beschlussvorlage des Direktoriums vom 17.05.2006 - <div>Zustimmung</div>
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Waldkindergarten Wurzelkinder e. V.; für die Maßnahme: Bauwagen für den Waldkindergarten; Antragssumme: 4.500.- ?; Antrag vom 29.05.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Verwendungsnachweis des ASZ Untergiesing vom 08.05.2006 für die bezuschusste Maßnahme: "Fest der Nationen" am 26.01.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Mehr Sicherheit durch Errichtung einer Verkehrsinsel am Ende der Säbener Straße / Einfahrt Oberbiberger Straße; Mehr Sicherheit für Fußgänger/innen durch Errichtung von je einem Zebrastreifen an der Säbener Straße und der Oberbiberger Straße; Antrag der SPD-Fraktion vom 08.03.06 - <div>abgelehnt, gem. der Empfehlung des UA Verkehr</div>
+- TOP 3.2.: UA 18 - Verkehr - 19.06.2006
+- TOP 3.1.: Instandsetzung der Straßenbrücke Chiemgaustraße im Zuge der Tegernseer Landstraße (Mc-Graw Graben) im 18. Stadtbezirk; Beschlussvorlage für die Sitzung des Bauausschusses am 27.06.2006 Sitzungsvorlage Nr. 02-08 / V 08111; Zuleitung des Baureferats mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 3.2.: Fahrleitungsmodernisierung der Linie L 25 - Grünwald, ab Großhesseloher - Wendeschleife bis Derbolfinger Platz; Zuleitung der Münchner Verkehrsgesellschaft (MVG) vom 24.05.2006 - <div>Zustimmung</div>
+- TOP 3.1.: Anordnung einer Haltestelle in der Candidstraße; Verkehrsrechtliche Anordnung nach § 45 StVO; Zuleitung des Kreisverwaltungsreferats vom 03.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.2.: Winterdienst, Einrichtung eines Notdienstes der sicherstellt, dass an Lichtsignalanlagen auch nachts gebremst werden kann; Empfehlung Nr. 02-08 / E 00267 der Bürgerversammlung des Stadtbezirks 9 Neuhausen-Nymphenburg am 17.11.2005; Sitzungsvorlage Nr. 02-08 / V 07613; Beschluss des Bauausschusses vom 23.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.3.: Parkraummangament in München - Festlegung der 1. Priorität; Sitzungsvolage Nr. 02-08 / V 07980; Beschluss der Vollversammlung des Stadtrats vom 10.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: UA 18 - Umwelt - 14.06.2006
+- TOP 3.1.: Flugverbot über München einhalten; Antrag des BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln vom 15.05.2006; Zuleitung des BA 19 mit der Bitte um Unterstützung - <div>keine Unterstützung des Antrags seitens des BA 18</div>
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats vom 15.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.2.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen in der Isenschmidtstraße; Genehmigungsbescheid vom 16.05.2006 3.3.6.2.2 Anwesen in der Saleggstraße; Genehmigungsbescheid vom 30.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: UA 18 - Soziales - 20.06.2006
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Bauvorhaben Deisenhofener-/Herzogstandstraße; Mittelpunktsbibliothek, Kinderkrippe, sonstige Nutzung; Beschlussvorlage für die Sitzung des Kulturausschusses am 29.06.2006; Zuleitung des Kulturreferats vom 16.05.2006 mit der Bitte um Stellungnahme - <div>Zustimmung zur Realisierung Variante 2</div>
+- TOP 3.2.: Bericht über Regsam; Anhörung der Bezirksausschüsse; Zuleitung des Sozialreferats vom 09.05.2006 mit der Bitte um Stellungnahme - <div>weitere Unterstützung von Regsam</div>
+- TOP 3.1.: Kinder- und Jugendgewalt in München; Erste Ergebnisse der 3. Schülerbefragung des Kriminologischen Forschungsinstituts Niedersachsen e. V.; Sitzungsvorlage Nr. 02-08 / V 07957; Bekanntgabe in der gemeinsamen Sitzung des Schulausschusses und des Kinder- und Jugendhilfeausschusses des Stadtrats vom 25.04.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.2.: "München macht Raum für Familien, Familiengerechte Planung und Gestaltung öffentlicher Räume"; Beitrag der Stadt München zum 7. Familienbericht der Bundesregierung; Sitzungsvorlage Nr. 02-08 / V 08060; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: UA 18 - Bau und Planung - 14.06.2006
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Anhörungen zu Bauvorhaben 3.5.4.1.1 Anwesen in der Hochederstraße; Zuleitung vom 16.05.2006 3.5.4.1.2 Anwesen in der Agilolfingerstraße; Zuleitung vom 15.05.2006 3.5.4.1.3 Anwesen Am Staudengarten; Zuleitung vom 23.05.2006 - <div>siehe Protokoll</div>
+- TOP 3.2.: Baumbestandspläne 3.5.4.2.1 Anwesen in der Lorenzonistraße; Zuleitung vom 23.05.2006 - <div>Ablehung</div>
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Vollzug von § 13 der BA-Satzung; Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen); 1 TopLux Werbeanlage auf Monofuß in der Tegernseer Landstraße; Zuleitung des Referats für Stadtplanung und Bauordnung vom 12.05.2006 - <div>Ablehnung</div>
+- TOP 3.1.: Candidplatz als Festplatz, Treffpunkt und Spielplatz für Groß und Klein erhalten; Antrag des BA 18 vom 16.05.2006; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 06.06.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Baufälle im 18. Stadtbezirk - <div>Zur Kenntnis genommen</div>
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen), Mitteilungen durch das Kreisverwaltungsreferat 3.5.6.2.1 SSW "Tennis Stüberl", Oberbiberger Straße; Mitteilung vom 29.05.2006 3.5.6.2.2 SSW "Sonnenstüberl", Konradinstraße; Mitteilung vom 19.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.3.: Bebauungsplan mit Grünordnung Nr. 1798; Säbener Straße/Gelände des FC Bayern München; a) Offenlegung der geplanten Nutzungen, Einschränkung der Abmessungen des Neubaus auf die sportbegleitenden Nutzungen - Empfehlung Nr. 02-08 / E 00310 der Bürgerversammlung des Stadtbezirks 18 am 08.12.2005; b) Reduzierung des Bauraums für die Tribüne, Beschränkung der Gesamtzuschauerkapazität und des Nutzerkreises, Beschluss über den Bebauungsplan erst nach Vereinbarung der Nutzungsbeschränkungen - Empfehlung Nr. 02-08 / E 00311 der Bürgerversammlung des Stadtbezirks 18 am 08.12.2005; Sitzungsvorlage Nr. 02-08 / V 08142; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.4.: Aktualisierung des Flächennutzungsplanes und Aufstellung des Lanschaftsplanes Teilbereich VI-Südost; Bereiche: a) Grünwalder Straße (nördlich), Kurstraße (westlich), b) Tegernseer Landstraße (östlich), Naupliastraße (nördlich), c) Rosenheimer Straße (westlich), St.-Martin-Straße (nördlich), d) Stadelheimer Straße (südlich), Amerstorffer Straße (östlich); Zuleitung des Referats für Stadtplanung und Bauordnung vom 17.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.5.: Sonderwerbeanlagen und Gerüstwerbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006; Sitzungsvorlage Nr. 02-08 / V 08137; Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung am 17.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.6.: Unterrichtung durch das Sozialreferat, Amt für Wohnen und Migration im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum 3.5.6.6.1 Anwesen in der Athener Straße; Zuleitung vom 08.05.2006 3.5.6.6.2 Anwesen in der Grünwalder Straße; Zuleitung vom 04.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.7.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2006 - 2010; Sitzungsvorlage Nr. 02-08 / V 08061; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: UA 18 - Kultur, Veranstaltungen - 19.06.2006
+- TOP 3.1.: Veranstaltung am 08.07.2006 an der Oberbiberger Straße, Waldfest beim Münchner-Kindl-Heim); Zuleitung des Baureferats mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 3.2.: Kultur im Stadtquartier; Beschlussvorlage für die Sitzung des Kulturausschusses am 20.07.2006; Zuleitung des Kulturreferats mit der Bitte um Stellungnahme bis 10.07.2006 - <div>Zustimmung</div>
+- TOP 3.3.: Veranstaltung am 29.07.2006 an der Hellbrunner Straße, Kinderfest am Osramspielpaltz; Zuleitung des Baureferats mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 3.1.: Museumspfad für München und für städtische Museen; Sitzungsvorlage Nr. 02-08 /V 08088; Beschluss des Kulturausschusses vom 18.05.2006 - <div>Zustimmung</div>
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Offenlegung des städtebaulichen Vertrags zum Projekt "Lenbachgärten" bzw. "Alte Chemie"; Zuleitung des BA 3 Maxvorstadt vom 17.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 4.2.: Mehrjahresinvestitionsprogramm 2006 - 2010; Gliederungsziffern 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6150 Städtebauförderung, 6200 Wohnungsbauförderung, Wohnungsfürsorge; Sitzungsvorlage Nr. 02-08 / V 08062; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
