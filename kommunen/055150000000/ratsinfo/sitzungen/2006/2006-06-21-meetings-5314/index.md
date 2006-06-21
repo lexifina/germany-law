@@ -1,0 +1,61 @@
+# 15. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-06-21T17:55:00+02:00
+- Ende: 2006-06-21T19:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5314
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5314
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00234717.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 8: Entlastung für die Jahresrechnung 2005 - einstimmig beschlossen
+- TOP 9: Perspektiven für den Haushaltsplan 2007 und die Finanzplanung bis 2010 - zur Kenntnis genommen
+- TOP 10: Vorläufige Geschäftsanweisung gem. § 31 Gemeindehaushaltsverordnung (GemHVO) NRW zur Regelung der - zur Kenntnis genommen
+- TOP 11: Jahresabschlüsse
+- TOP 11.1: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2005 - einstimmig beschlossen
+- TOP 11.2: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2005 - einstimmig beschlossen
+- TOP 11.3: Jahresabschluss des Wirtschaftsjahres 2005 der Klarastift Service GmbH - einstimmig beschlossen
+- TOP 11.4: Jahresabschluss des Wirtschaftsjahres 2005 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 11.5: Jahresabschlüsse der Stiftungen für das Wirtschaftsjahr 2005 - einstimmig beschlossen
+- TOP 11.6: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2005 - einstimmig beschlossen
+- TOP 12: Gestellung von vier Ausfallbürgschaften für die Stiftung Siverdes - einstimmig beschlossen
+- TOP 13: Adolph-Kolping-Schule (Gebäude 1), Lotharingerstr. 30 - Behindertengerechte Erschließung - einstimmig beschlossen
+- TOP 14: Übernahme des Eigenanteils für Lernmittel im Schuljahr 2006/2007 für SGB-II-Empfänger und Empfänger - von der Tagesordnung abgesetzt
+- TOP 15: Errichtungsbeschluss - Kinderpädagogische Betreuung und offene Angebote am FeldstiegenkampKinderhaus - einstimmig beschlossen
+- TOP 16: Entwicklung der Kindertagesbetreuung in Münster - Coerde Edelbach - mehrheitlich beschlossen
+- TOP 17: Satzung zur Erhebung von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen - einstimmig beschlossen
+- TOP 18: Förderung des Vereins Zartbitter e. V. aus Mitteln der Stiftung Siverdes - einstimmig beschlossen
+- TOP 19: Konzept zur Integration und Unterbringung von Flüchtlingen / Westlich Prins-Claus-Kazerne - einstimmig beschlossen
+- TOP 20: Maßnahmen zur Verbesserung der Lebenssituation junger Spätaussiedlerinnen und Spätaussiedler (Privje - einstimmig beschlossen
+- TOP 21: 3. Entwicklungspolitischer Nord-Süd-Preis der Stadt Münster 2006 - zur Kenntnis genommen
+- TOP 22: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 23: Bauleitplanung
+- TOP 23.1: Stadtbezirk Münster-Mitte
+- TOP 23.1.1: Bebauungsplan Nr. 491: Stubengasse / Loerstraße - von der Tagesordnung abgesetzt
+- TOP 23.2: Stadtbezirk Münster-Hiltrup
+- TOP 23.2.1: Bebauungsplan Nr. 470: Hiltrup - verlängerte Hansestraße / Amelsbürener Straße - mehrheitlich beschlossen
+- TOP 23.2.2: Vorhabenbezogener Bebauungsplan Nr. 496 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 23.3: Stadtbezirk Münster-Südost
+- TOP 23.3.1: Vorhabenbezogener Bebauungsplan Nr. 494 - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 23.4: Stadtbezirk Münster-Ost
+- TOP 24: Bebauungsplan Nr. 474 - Beschluss über die Anregungen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 25: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 26: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 26.1: Schulentwicklungsplanung auf breitere Basis stellen - verwiesen
+- TOP 26.2: City-Fahrradparkhaus - Chance an der Stubengasse nutzen - verwiesen
+- TOP 26.3: Transparente Prioritäten im Schulbau - verwiesen
+- TOP 26.4: Parkhaus Alter Steinweg - verwiesen
+- TOP 27: Verschiedenes
