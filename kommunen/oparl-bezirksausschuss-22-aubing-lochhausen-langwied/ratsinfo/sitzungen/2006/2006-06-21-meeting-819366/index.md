@@ -1,0 +1,68 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2006-06-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/819366
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/819366
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Verkürzung der Bus-Wendeschleife der Linie 267 an der Zwernitzerstraße
+- TOP 2.2.: Renovierung des Bolzplatzes am Freihamer Weg (vertagt aus 5/06)
+- TOP 2.3.: BAB Autobahntunnel Westumgehung A 99
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: BRK Wasserwacht OG München-West
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz, Anhörungen zu Baumfällungen
+- TOP 6.2.: Antrag auf Genehmigung einer Veranstaltung am Westkreuz (Sipplinger Str. 8) am 23.06.06, Johannisfeuer
+- TOP 6.3.: Kultur im Stadtquartier, Beschluss Kulturausschuss
+- TOP 6.4.: Bebauungsplan mit Grünordnung Fabrikstraße / Industriestraße (südlich), Elisabeth-Jost-Str. (westlich) (Teiländerung des Beb.Pl. Nr. 806a) (vertagt aus 5/06)
+- TOP 6.5.: Antrag auf Veranstaltung auf Privatgrund, hier: Aubinger Traubenfest, Gotzmannstr. am 21./22.07.06
+- TOP 6.6.: Zuwendung aus dem Budget des BA 22, Antrag der Hauptschule Wiesentfelser Str. 53, Streitschlichterausbildung Februar 2006
+- TOP 6.7.: Antrag auf Genehmigung einer Veranstaltung; Kirchen- und Festzug des Burschenvereins Aubing von 1906 anl. Aubinger Herbstfest am 03.09.06
+- TOP 6.8.: Teilumbenennung des Mooswiesenweges, Anhörung des Kommunalreferates
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Offenlegung des städtebaulichen Vertrages zum Projekt "Lenbach-Gärten" bzw. "Alte Chemie", Antrag BA 3 vom 29.03.06
+- TOP 7.2.: Bürgerversammlung des 22. Stadtbezirkes am 27.06.06, Leistungsbilanzen, Schr. Baureferat vom 22.05.06
+- TOP 7.3.: Baumaßnahmen der Stadtwerke München, Stichtag: 22.05.06, 29.05.06, 02.06.06, Schr. Stadtwerke München vom 22.05.06, vom 29.05.06, vom 06.06.06
+- TOP 7.4.: S-Bahnbahnhof am "Westkreuz", Schr. Bay. Landtag, Dr. Otmar Bernhard vom 09.05.06
+- TOP 7.5.: Baufälle im 22. Stadtbezirk (v. 15.-21.05.06, v. 22.-28.05.06)
+- TOP 7.6.: Bürgerversammlung des 22. Stadtbezirkes am 27.06.06, Schr. OB vom 17.05.06
+- TOP 7.7.: Genehmigung der Arbeitsvergabe für die Baumaßnahme Schwojerstraße, Schr. Baureferat vom 23.05.06
+- TOP 7.8.: Zweckentfremdung von Wohnraum, Altostr. 12, Schr. Sozialreferat vom 29.05.06
+- TOP 7.9.: Wirtschafts-Info 5/06, Info des Referates für Arbeit und Wirtschaft vom 31.05.06
+- TOP 7.10.: Zweckentfremdung eines städtischen Anwesens im Stadtbezirk 15, Schr. BA 15 vom 01.06.06
+- TOP 7.11.: Boden- und Bauschutt Recycling-Anlagen und Bodenbörsen in München, Schr. BA 21 vom 02.06.06
+- TOP 7.12.: Verkehrsrechtliche Anordnung, Schwemmstraße südlich der Mundesgasse; Verkehrshelferübergang, Schr. KVR vom 01.06.06
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Staatsstraße 2063 Pasing - Starnberg; Verlegung bei Gräfelfing und Planegg, Schr. Planungsreferat vom 10.05.06 zum BA-Antrag Nr. 991 vom 09.03.06
+- TOP 8.2.: Überprüfung der Straßenentwässerung in Höhe der Altostr. 76, Schr. Baureferat vom 17.05.06 zum BA-Antrag Nr. 1102 vom 24.04.06
+- TOP 8.3.: Umleitungskonzept für Lkw, Schr. KVR vom 12.05.06 zum BA-Antrag Nr. 1031 vom 27.03.06
+- TOP 8.4.: Notquartier Mainaustr. 2-4, Schr. Sozialreferat vom 24.05.06
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Bauausschuss vom 23.05.06 - Siedlungsschwerpunkt Freiham, Verkehrliche Erschließung im 22. Stadtbezirk, 3. Bauabschnitt
+- TOP 9.2.: Vollversammlung vom 10.05.06 - Frostschäden auf Münchner Straßen - Straßenbenennung im 22. Stadtbezirk, Gesamtkonzept für die Benennung der Straßen im Neubaugebiet Freiham-Süd
+- TOP 9.3.: Ausschuss für Stadtplanung und Bauordnung vom 17.05.06 - Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußballweltmeisterschaft 2006
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Einladung zur Jubiläumsfeier SOS Kinderdorf e.V., 25 Jahre SOS-Mütterzentrum Neuaubing am 07.07.06 ab 13.00 Uhr, Wiesentfelser Str. 68
+- TOP 10.2.: Planungsworkshop Freiham, Benennung eines stimmberechtigten und eines stellvertretenden Mitgliedes der Jury aus dem Bezirksausschuss
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.1: Nächste BA-Sitzung am Mittwoch, den 19.07.2006, Gaststätte "Wienerwald", Limesstr. 63
