@@ -1,0 +1,53 @@
+# Rat (18. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2006-06-21T17:00:00+02:00
+- Ende: 2006-06-21T21:10:00+02:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaDCOrYO4WzLb9P_jUpvLAo
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1151
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZsmqu8mi97gyx94NkKSmHvRrpsS6WWPnQBaTpjiYuY7/Bekanntmachung_Rat_21.06.2006.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa1DM6KiGHTnA2BiCj9K8YnbMaJLPG8yqK4uRNc7YHGO/Oeffentliche_Niederschrift_Rat_21.06.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Vorstellung der Ergebnisse der Wirtschaftlichkeitsstudien zum Rathaus - 36 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 4.: Niederschrift vom 17.05.2006
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Vertretung von Menschen ausländischer Herkunft; Antrag der SPD-Fraktion vom 21.04.2006
+- TOP 5.2: Resolution zum verpflichtenden Einsatz von Rauchwarnmeldern in Privatwohnungen - 33 Jastimmen, 0 Neinstimmen, 4 Enthaltungen
+- TOP 6.: Bericht über die Budgetabwicklung der Stadt Gronau (Westf.) im I. Quartal 2006 Über-/außerplanmäßige Mittelbereitstellung im I. Quartal 2006 - 28 Jastimmen, 0 Neinstimmen, 9 Enthaltungen
+- TOP 7.: Bericht 2006 über die Beteiligungen der Stadt Gronau (Westf.) an Unternehmen und Einrichtungen in der Rechtsform des privaten Rechts
+- TOP 8.: Jahresabschluss 2005 der rock`n`popmuseum GmbH 1. Kenntnisnahme des Jahresabschlussergebnisses 2. Beschluss über den Vortrag des Jahresüberschusses 3. Entlastung des Aufsichtsrates und des Geschäftsführers - Einstimmig, 10 Enthaltungen
+- TOP 9.: Jahresabschluss 2005 der Kulturbüro Gronau GmbH 1. Kenntnisnahme des Jahresabschlussergebnisses 2. Beschluss über den Vortrag des Jahresfehlbetrages 3. Entlastung des Aufsichtsrates und des Geschäftsführers - Einstimmig, 7 Enthaltungen
+- TOP 10.: Zukünftige Organisation in den Bereichen Tourismus, Kultur und Stadtmarketing - Einstimmig, 0 Enthaltungen
+- TOP 11.: Einführung eines Zentralen Gebäude- und Liegenschaftsmanagement (GMG) bei der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 12.: StadtBus-Konzept Gronau; Umstellung der Linie T4 Bahnhof-Friedensweg-Alter Postweg - Einstimmig, 0 Enthaltungen
+- TOP 13.: 87. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich: "Südlich der Ochtruper Straße" 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden und sonstigen Träger öffentlicher Belange - 34 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 14.: Bebauungsplan Nr. 24 "Mühlenmathe", 1. vereinfachte Änderung, Stadtteil Gronau 1. Aufstellungsbeschluss 2. Billigung der Plankonzeption 3. Auslegungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 15.: Bebauungsplan Nr. 221 "Gewerbegebiet Laurenz", 1. vereinfachte Änderung, Stadtteil Epe 1. Aufstellungsbeschluss 2. Billigung der Plankonzeption 3. Auslegungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 145 „Kurfürstenstraße/ Glanemanns Weg, Stadtteil Gronau Behandlung der Stellungnahmen aus der vorzeitigen Bürgerbeteiligung gem. § 3 Abs. 1 BauGB Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB Behandlung der Stellungnahmen aus der Behördenbeteiligung gem. § 4 Abs. 2 BauGB Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB Satzungsbeschluss gem. § 10 BauGB i. V. m. § 86 (4) Bau ONW - Einstimmig, 0 Enthaltungen
+- TOP 17.: Vorhabenbezogener Bebauungsplan "Bauzentrum Geveler", Stadtteil Gronau 1. Genehmigung des Durchführungsvertrages, § 12 BauGB 2.1 Behandlung der Stellungnahmen aus der Bürgerbeteiligung gem. § 3 Abs. 1 BauGB 2.2 Behandlung der Stellungnahmen aus der Beteiligung der Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 2.3 Behandlung der Stellungnahmen aus der 1. öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 2.4 Behandlung der Stellungnahmen aus der 2. öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 2.5 Satzungsbeschluss - 32 Jastimmen, 4 Neinstimmen, 1 Enthaltungen
+- TOP 17.1: Vorhabenbezogener Bebauungsplan "Bauzentrum Geveler", Stadtteil Gronau Genehmigung des Durchführungsvertrages, § 12 BauGB - 32 Jastimmen, 4 Neinstimmen, 1 Enthaltungen
+- TOP 18.: Bebauungsplan Nr. 144 "Spinnerei Deutschland", 1. vereinfachte Änderung, Stadtteil Gronau 1. Aufstellungsbeschluss 2. Billigung der Plankonzeption 3. Auslegungsbeschluss 4. Benachrichtigung der Behörden und sonstigen Träger öffentlicher Belange - 20 Jastimmen, 14 Neinstimmen, 3 Enthaltungen
+- TOP 19.: Förderung der Frauenschutzwohnung in Gronau - 20 Jastimmen, 4 Neinstimmen, 13 Enthaltungen
+- TOP 20.: Satzung über die Erhebung von Elternbeiträgen in Kindertageseinrichtungen - Einstimmig, 4 Enthaltungen
+- TOP 21.: Satzung über die Erhebung von Elternbeiträgen für Tagespflege - Einstimmig, 4 Enthaltungen
+- TOP 22.: Mitteilungen der Verwaltung
+- TOP 22.1: Einhaltung der Auskunftspflichten gemäß Ehrenordnung
+- TOP 23.: Anfragen
+- TOP 23.1: Verkehrssicherheit auf der Bogenbrücke (RM Buchholz)
+- TOP 23.2: Besetzung der Zentrale im Rathaus (RM von Borczyskowski)
+- TOP 23.3: Mittelbare Beteiligung der SWG GmbH an der Trianel Gasspeicher Komplementär GmbH (RM Schwartze)
+- TOP 23.4: Anzahl und Wert der vom Konzern Stadt Gronau in Auftrag gegebenen Gutachten (RM Walkowiak)
+- TOP 23.5: Uran aus Gronau in Russland (RM Buchholz)
+- TOP 23.6: Störung des Internetauftritts der Stadt Gronau (RM Arends)
