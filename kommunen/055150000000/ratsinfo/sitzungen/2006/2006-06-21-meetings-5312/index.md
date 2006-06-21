@@ -1,0 +1,64 @@
+# 13. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-06-21T17:09:00+02:00
+- Ende: 2006-06-21T17:49:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5312
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5312
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00234598.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Gemeinsamem Unterricht in der Sekundarstufe I - verwiesen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 3: Weitere Behandlung verwiesener Ratsanträge
+- TOP 3.1: Antrag der SPD-Fraktion an den Rat Nr. 4/2004 - einstimmig beschlossen
+- TOP 3.2: Antrag A-R/0017/2006 der SPD-Fraktion vom 27.03.2006"Optimierung von Strukturen und Prozessen in der - einstimmig beschlossen
+- TOP 3.3: Antrag der SPD-Fraktion im Rat der Stadt Münster Nr. A-R/0020/2006 - einstimmig beschlossen
+- TOP 3.4: Antrag der SPD Fraktion an den Rat Nr. AR/006/2006 vom 15.2.2006 "Grundschulen mit sozialen Probleml - einstimmig beschlossen
+- TOP 3.5: Antrag der SPD-Fraktion Nr. A-R/0016/2004: Münster - Kulturstadt von internationalem Renommé - einstimmig beschlossen
+- TOP 3.6: Antrag der SPD-Fraktion im Rat der Stadt Münster Nr. A-R/0010/2005 vom 08.03.2005 - von der Tagesordnung abgesetzt
+- TOP 3.7: Antrag der SPD-Fraktion an den Rat Nr. A-R/0016/2006 "Chancengleichheit schaffen - Einstieg in den k - einstimmig beschlossen
+- TOP 4: Bericht über die Beschäftigung schwerbehinderter Menschen und schwerbehinderten Menschen Gleichgeste - zur Kenntnis genommen
+- TOP 5: Förderung der Beschäftigung schwer behinderter Menschen und Förderung der Ausbildung behinderter und - einstimmig beschlossen
+- TOP 6: Förderung von Stadterneuerungsprojekten - Sachstand und Anträge 2006 - einstimmig beschlossen
+- TOP 7: Geschäftsbericht 2005 des Sozialamtes - zur Kenntnis genommen
+- TOP 8: Geschäftsbericht des Amtes für Kinder, Jugendliche und Familien für das Jahr 2005 - zur Kenntnis genommen
+- TOP 9: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen ( Projektförderung und sog. Institu - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 10: Entlastung für die Jahresrechnung 2005 - ohne Beschlussfassung geschoben
+- TOP 11: Perspektiven für den Haushaltsplan 2007 und die Finanzplanung bis 2010 - ohne Beschlussfassung geschoben
+- TOP 12: Vorläufige Geschäftsanweisung gem. § 31 Gemeindehaushaltsverordnung (GemHVO) NRW zur Regelung der - ohne Beschlussfassung geschoben
+- TOP 13: Jahresabschlüsse von Gesellschaften
+- TOP 13.1: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2005 - ohne Beschlussfassung geschoben
+- TOP 13.2: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2005 - einstimmig beschlossen
+- TOP 13.3: Jahresabschluss des Wirtschaftsjahres 2005 der Klarastift Service GmbH - einstimmig beschlossen
+- TOP 13.4: Jahresabschluss des Wirtschaftsjahres 2005 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 13.5: Jahresabschlüsse der Stiftungen für das Wirtschaftsjahr 2005 - einstimmig beschlossen
+- TOP 13.6: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2005 - einstimmig beschlossen
+- TOP 14: Gestellung von vier Ausfallbürgschaften für die Stiftung Siverdes - einstimmig beschlossen
+- TOP 15: Adolph-Kolping-Schule (Gebäude 1), Lotharingerstr. 30 - Behindertengerechte Erschließung - einstimmig beschlossen
+- TOP 16: Übernahme des Eigenanteils für Lernmittel im Schuljahr 2006/2007 für SGB-II-Empfänger und Empfänger - von der Tagesordnung abgesetzt
+- TOP 17: Errichtungsbeschluss - Kinderpädagogische Betreuung und offene Angebote am FeldstiegenkampKinderhaus - ohne Beschlussfassung geschoben
+- TOP 18: Entwicklung der Kindertagesbetreuung in Münster - Coerde Edelbach - einstimmig beschlossen
+- TOP 19: Satzung zur Erhebung von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen - einstimmig beschlossen
+- TOP 20: Förderung des Vereins Zartbitter e. V. aus Mitteln der Stiftung Siverdes - ohne Beschlussfassung geschoben
+- TOP 21: Konzept zur Integration und Unterbringung von Flüchtlingen / Westlich Prins-Claus-Kazerne - einstimmig beschlossen
+- TOP 22: Maßnahmen zur Verbesserung der Lebenssituation junger Spätaussiedlerinnen und Spätaussiedler (Privje - ohne Beschlussfassung geschoben
+- TOP 23: 3. Entwicklungspolitischer Nord-Süd-Preis der Stadt Münster 2006 - zur Kenntnis genommen
+- TOP 24: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 25: Bauleitplanung
+- TOP 25.1: Stadtbezirk Mitte
+- TOP 25.1.1: Bebauungsplan Nr. 491: Stubengasse / Loerstraße - ohne Beschlussfassung geschoben
+- TOP 25.2: Stadtbezirk Hiltrup
+- TOP 25.2.1: Bebauungsplan Nr. 470: Hiltrup - verlängerte Hansestraße / Amelsbürener Straße - mehrheitlich beschlossen
+- TOP 25.2.2: Vorhabenbezogener Bebauungsplan Nr. 496 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 25.3: Stadtbezirk Südost
+- TOP 25.3.1: Vorhabenbezogener Bebauungsplan Nr. 494 - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 25.3.2: Bebauungsplan Nr. 474 - Beschluss über die Anregungen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 26: Verschiedenes
