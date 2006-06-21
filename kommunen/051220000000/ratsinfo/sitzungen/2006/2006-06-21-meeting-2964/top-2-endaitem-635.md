@@ -1,0 +1,7 @@
+# TOP 2: Euroschulen
+
+- Sitzung: Ausschuss für Schule und Weiterbildung (2006-06-21)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/635
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/11868
