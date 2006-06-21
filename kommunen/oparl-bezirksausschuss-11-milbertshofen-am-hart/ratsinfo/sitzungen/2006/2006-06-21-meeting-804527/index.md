@@ -1,0 +1,84 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2006-06-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/804527
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/804527
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Immobiliensuche "ANDERWERK"
+- TOP 4.2.: Flugverbot über München einhalten, Antrag des BA 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln
+- TOP 4.3.: Offenlegung städtebaulicher Verträge, Antrag des BA 3 Maxvorstadt
+- TOP 4.4.: Zweckentfremdung beim städtischen Anwesen Truderinger Straße 288, Schreiben des BA 15 Trudering - Riem
+- TOP 4.5.: Diakonie Hasenbergl, Verwendungsnachweis/Sachbericht zur Veranstaltung am 22.02.2006
+- TOP 4.6.: Sachberichte Budget
+- TOP 4.1.: Veranstaltung am 02.07.2006 auf der Nordheide, Vorabzustimmung
+- TOP 4.1.: Münchner Sommer Spiel Aktion 2006, Schreiben von "Spielen in der Stadt"
+- TOP 4.1.: Veranstaltung am 16.06.2006 Sportgemeinschaft des Dt. Bundestages "Fahren im Verband ", Vorabzustimmung
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 7.1.: Abstellmöglichkeiten für Fahrräder im Bereich U-Bahnhof Olympiapark Nord (Dr. Reinhard Bauer)
+- TOP 7.1.: Armutsbericht 2004 - Konsequenzen für den Stadtbezirk Milbertshofen - Am Hart (CSU-Fraktion im BA 11)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Einzelmaßnahme: a) Torquato-Tasso-Str. 35-37, 2 Fichten b) Moosacher Str. 80, Bäume gemäß Bestandsplan c) Riesenfeldstr. 43, eine Pappel d) Schliemannweg 21, eine Fichte e) Hänflingweg 19/19a, eine Zypresse, eine Fichte f) Bernaysstr. 42, eine Fichte g) Knorrstr. 160, 3 Fichten, eine Kiefer
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Baumaßnahmen:
+- TOP 8.3.: Anhörung im Einzelfall auf Anforderung: a)Graf-Konrad-Str. 17, Neubau einer Wohnanlage mit Tiefgarage b) Moosacher Str. 82, Neubau eines Hotels mit Ausbildungsbetrieb und Tiefgarage für das Kolping Bildungswerk München c) Wundtstr. 1, Neubau einer Tiefgarage mit 38 Kfz-Stellplätzen
+- TOP 8.4.: Anhörung der Bezirksausschüsse; Sandbienenweg (Nordheide West, Teil III-Nordteil)
+- TOP 8.5.: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 8.1.: Bericht über REGSAM; Anhörung der Bezirksausschüsse
+- TOP 8.2.: Kultur im Stadtquartier; Anhörung der Bezirksausschüsse
+- TOP 8.3.: Verbot über das Verbot der Zweckentfremdung von Wohnraum a) Schleißheimer Str. 400 - 410 b) Hamburger Str. 45 - 53
+- TOP 8.1.: Vollzug des §29 StVO; "Tour de Franz" am 30.07.2006
+- TOP 8.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendungen aus dem BA-Budget; Bewilligungsbescheide a) TV Kulturhaus Milbertshofen; Beamer, Bewilligung 2500,00?
+- TOP 9.2.: Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart, Themen
+- TOP 9.1.: Planfeststellung für die Magnetschwebebahn (MSB) München Hauptbahnhof - Flughafen (Beschluss der Vollversammlung des Stadtrates vom 31.05.2006) (Hinweis/Ergänzung zum Beschluss der Vollversammlung des Stadtrates vom 31.05.2006)
+- TOP 9.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.4.: Baubeginnsanzeigen Mobilfunksendeanlagen -nicht öffentlich -
+- TOP 9.5.: Winterdienst: Einrichtung eines Notdienstes (Empfehlung Nr. 02-08/E00267 der Bürgerversammlung des 9. Stadtbezirkes Neuhausen-Nymphenburg vom 17.11.2005)
+- TOP 9.6.: Offensive für den Radverkehr (Beschluss des Bauausschusses vom 27.04.2006)
+- TOP 9.7.: Frostschäden auf Münchner Straßen (Beschluss des Bauausschusses vom 27.04.2006)
+- TOP 9.8.: U-Bahnhof Olympiapark Nord, Straßenwiederherstellung nach U-Bahn-Bau (Beschluss des Bauausschusses vom 27.04.2006)
+- TOP 9.9.: Kommission für Stadtgestaltung
+- TOP 9.10.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2006 - 2010 (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006)
+- TOP 9.11.: "München macht Raum für Familien. Familiengerechte Planung und Gestaltung öffentlicher Räume" (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006)
+- TOP 9.12.: Mehrjahresinvestitionsprogramm für die Jahre 2006-2010 (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006)
+- TOP 9.13.: Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet (Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 17.05.2006)
+- TOP 9.14.: Meldelisten Bauvorhaben
+- TOP 9.15.: Baumaßnahmen der Stadtwerke München
+- TOP 9.16.: Gefahrenbäume
+- TOP 9.17.: Vollzug der Baumschutzverordnung, hier: Taunusstr. 13, Genehmigung zur Fällung
+- TOP 9.18.: "Temporäre Kunst im öffentlichem Raum", hier:Olympiapark, Sondernutzungserlaubnis
+- TOP 9.19.: Vollzug der Grünanlagensatzung vom 12.08.1991, Ausnahmebewilligungen
+- TOP 9.1.: Bauträgerauswahl für die Baugrundstücke des kommunalen Wohnungsbauprogramms (Beschluss des Sozialausschusses vom 16.05.2006) - nicht öffentlich -
+- TOP 9.2.: Allgemeine Informationen zu Kita-Gebühren
+- TOP 9.3.: "Angebote für Kinder und Jugendliche im KJR München-Stadt", Broschüre
+- TOP 9.4.: Freundinnen und Freunde Milbertshofens e. V.; Protokoll der Mitgliederversammlung am 06.04.2006
+- TOP 9.5.: Unveränderte Fortführung von Gaststättenbetrieben: a) Gasthof "Flugfeld", Schopenhauerstr. 101
+- TOP 9.6.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 9.7.: Museumspfad für München für städtische Museen (Beschluss des Kulturausschusses vom 18.05.2006)
+- TOP 9.1.: Ergänzung zum Leistungsprogramm 2007 der MVG
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
