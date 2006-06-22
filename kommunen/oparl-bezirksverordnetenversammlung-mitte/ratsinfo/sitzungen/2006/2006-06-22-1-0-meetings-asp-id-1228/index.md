@@ -1,0 +1,112 @@
+# 48. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2006-06-22T17:30:00+02:00
+- Ende: 2006-06-22T23:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1228
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1228
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=53812
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilung - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - erledigt
+- TOP 4: Thematische Stunde - (offen)
+- TOP 4.1: Wie helfen 3,5 Millionen Euro für die vertiefte Berufsorientierung von Jugendlichen gegen schlechte Schulabschlüsse und fehlende Ausbildungs- und Arbeitsplätze? - beantwortet
+- TOP 4.2: Vertiefte Berufsorientierung von Jugendlichen an den realen und vordringlichen Problem von Jugendlichen ausrichten - in der BVV abgelehnt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Arbeitsgruppe des Bezirksamtes zum Schultheiß-Areal - beantwortet
+- TOP 5.2: Spricht das Bezirksamt mit einer Stimme? - Finanzierung pauschaler Minderausgabe - beantwortet
+- TOP 5.3: Ungenehmigte Schankvorgärten - beantwortet
+- TOP 5.4: Kredithai Jobcenter? - beantwortet
+- TOP 5.5: Spielplatz Tieckstraße - beantwortet
+- TOP 5.6: Plansche Invalidenstraße - beantwortet
+- TOP 5.7: Anwesenheit des Bezirksamtes unerlässlich - schriftlich beantwortet
+- TOP 5.8: Spielplatz Auguststraße - schriftlich beantwortet
+- TOP 5.9: GSG-Privatisierung - schriftlich beantwortet
+- TOP 5.10: Museumsbau Oranienburger Straße 27 - schriftlich beantwortet
+- TOP 5.11: Betriebskosten Geschichtspark ( Zellengefängnis Lehrter Straße) - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Wirtschaftliche Entwicklung in Moabit Nord - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Kolonialismus im öffentlichen Straßenbild - beantwortet
+- TOP 7.2: Private Wettbüros - beantwortet
+- TOP 7.3: Temporäre Schließung des Sozialamtes - beantwortet
+- TOP 7.4: Ordnungsämter evaluiert - schriftlich beantwortet
+- TOP 7.5: Wochenmarkt am Roten Rathaus - schriftlich beantwortet
+- TOP 7.6: Straßenfeste während der WM - schriftlich beantwortet
+- TOP 7.7: Ausbau Bornholmer Straße - schriftlich beantwortet
+- TOP 7.8: Gesundheits- und Sozialzentrum Moabit: Einnahmeausfälle durch Leerstand - schriftlich beantwortet
+- TOP 7.9: Soziale Sanierungsziele und Maßnahmen gegen Mieterverdrängung sichern - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 5 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk 6 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Gründung einer Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Änderung der Sanierungsziele für die Grundstücke Fehrbelliner Straße 45-48 und Brunnenstraße 25 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Wirtschaftliche Entwicklung in Moabit Nord II - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Verkehrschaos am Hauptbahnhof beseitigen! - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Öffentliche Nutzung der Sport- und Freiflächen auf dem Gelände der ehemaligen Hemingway-Schule sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Partnerschaftsgespräche - in der BVV abgelehnt
+- TOP 12.2: Provisorische S 21 auch nach der WM aufrecht erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Öffentlichen Spielplatz erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Hinweisschilder für öffentliche Nutzung des Krausnickparks - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Keine Inflation von Straßenfesten auf der Turmstraße und der Müllerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Gegen Diskriminierung von Lesben und Schwulen in Moskau - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: S-Bahnhof Wollankstraße - mit Änderungen in der BVV beschlossen
+- TOP 12.8: Hinweis auf die Dauerausstellung "Nicht Mißhandeln!" im 3.OG des Rathauses Tiergarten - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Jugendschuldnerberatung durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Spielplatz-Öffnung in der Tieckstraße - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Teilnahme am Modellprojekt "Die 2. Chance" - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Oberschulen im Ganztagsbetrieb - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Barrierefrei in den Fehrbelliner Höfen - in der BVV abgelehnt
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Beibehaltung der Nutzung des Geländes des ehemaligen Krankenhauses Moabit als Naherholungsbereich für die Bevölkerung
+- TOP 14.2: Einsparungen bei Heiz- und Betriebskosten bei SozialhilfeempfängerInnen
+- TOP 14.3: Hochschulmedizin/ Klinikstandorte in Mitte
+- TOP 14.4: Abweisung wohnungsloser kranker Menschen durch Krankenhäuser - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Soziale Stadtentwicklung zu einem Kern bezirklichen Handelns machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Optimale Betreuung der Hortkinder sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Medizinische Versorgung wohnungsloser kranker Menschen in Krankenhäusern - Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.8: Kranksein in der Fremde - Sprachlos im Sprechzimmer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Zur kritischen Auseinandersetzung mit dem deutschen Kolonialismus im öffentlichen Straßenbild - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.10: Konzept zur SeniorInnen-Arbeit und Kooperation mit Freien Trägern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.11: Bäume für die Wöhlertstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Eigenbetrieb "Kindergärten City (II) - Quartalsabschlüsse regelmäßig vorlegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: Hartz IV: Rahmenvereinbarung zur Weiterentwicklung der Arbeitsgemeinschaften umsetzen und bezirkliche Verantwortung stärken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.14: Fanmeile Fußballweltmeisterschaft 2006 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.15: Ernährung und Gesundheitspolitik bei Kindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: Freibad Seydlitzstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.17: Wochenmarkt vor dem Roten Rathaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.18: Berufstätige nicht vom Arge-Beirat ausschließen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.19: Den Psychiatrieentwicklungsplan nach bezirklichen Erfordernissen ausrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.20: Landesgesundheitskonferenz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.21: Mieterrechte bei der Sanierung der WBM wahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.22: Sanierung des Sommerbades Seydlitzstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.23: Finanziellen Schaden durch Außenstände im Sozialamt abwenden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.24: Keine Diskriminierung von Jugendlichen und jungen Erwachsenen aus Bedarfsgemeinschaften bei der Berufsberatung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.25: Ein Freibad für Moabit! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.26: Seifenkistenrennen in der Badstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.27: Schiffbauerdamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.28: Eindeutige Abrechnungsmodalitäten mit dem Jobcenter schaffen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.29: Nachbesserungen zum Entwurf des Gesundheitsdienstgesetzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.30: Konzept für Projekte im Stephankiez - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.31: Externe Projektsteuerung definieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.32: Sachmittel zur Unterstützung der ehrenamtlichen Arbeit der Bürgerinnen und Bürger zur Verbesserung der öffentlichen Infrastruktur im Jahre 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.33: Die Änderung der gemeinsamen Planungsebenen für alle planenden Fachabteilungen - Zuordnung des Planungsgebietes Brunnenstraße Süd zur Region Zentrum - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.34: Stand Testate LHO-Betrieb Weddinger Senioreneinrichtungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.35: Änderung der Einschulungsbereiche für die Grundschulen im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.36: Geschäftsberichte 2004 und 2005 - mit Abschlussbericht zur Kenntnis genommen
