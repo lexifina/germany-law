@@ -1,0 +1,87 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-06-22T14:00:00+02:00
+- Ende: 2006-06-22T20:21:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1731
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1731
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111852.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111852.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111852.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Akt. Anfr. CDU: Schule - zur Kenntnis genommen
+- TOP 5: Akt. Anfr. SPD: Gallberg - zur Kenntnis genommen
+- TOP 6: Akt. Anfr. Kahl: Gallberg - zur Kenntnis genommen
+- TOP 7: Akt. Anfr. Laubenburg: Dienstwagen KFZ - zur Kenntnis genommen
+- TOP 8: Anfragen - zur Kenntnis genommen
+- TOP 9: Anfr. CDU: GfG - zur Kenntnis genommen
+- TOP 10: Anfr. CDU: Positive Effekte Wirtschaftsförderung - zur Kenntnis genommen
+- TOP 11: Anfr. Rh Hassbach: Straßenschäden - zur Kenntnis genommen
+- TOP 12: Anfr. Rh Hartnigk: Fahrradwege - zur Kenntnis genommen
+- TOP 13: Anfrage Rf Bü90/Grü: Kultureller Rucksack - zur Kenntnis genommen
+- TOP 14: Anfr. SPD: Behinderung des Handwerks - zur Kenntnis genommen
+- TOP 15: Anfr. FDP: Spitze Speditionstraße - zur Kenntnis genommen
+- TOP 16: Anträge
+- TOP 17: Antr. FDP: Preisgeld Heine
+- TOP 18: 01-186 Ändantr. Kahl+Lbbg
+- TOP 19: Antr. Bü90: Flüchtlinge
+- TOP 20: Antr. Bü90: Brief an MB von Moskau
+- TOP 21: 01/187/2006: Änderungsantrag der Ratsmitglieder Ka
+- TOP 22: Resolution Heine-Preis
+- TOP 23: 01/188/2006: Änderungsantrag der Ratsmitglieder
+- TOP 24: Kämmererliste 2006 - mehrheitlich beschlossen
+- TOP 25: Düsseldorfer Transfer GmbH - einstimmig beschlossen
+- TOP 26: Stadtwerke: Gesellschaftsvertrag - mehrheitlich beschlossen
+- TOP 27: Jahresabschluss Stadtsparkasse - mehrheitlich beschlossen
+- TOP 28: Satzung Elternbeiträge - mehrheitlich beschlossen
+- TOP 29: Änd.-antr. CDU/FDP: Kitasatzung - mehrheitlich beschlossen
+- TOP 30: Ändantr. Bü90: Kitasatzung - mehrheitlich abgelehnt
+- TOP 31: Wirtschaftsplan 2006 für den Stadtbetrieb Zentrale - einstimmig beschlossen
+- TOP 32: Einrichtung eines Bildungsganges - einstimmig beschlossen
+- TOP 33: Art:card junior Düsseldorf - einstimmig beschlossen
+- TOP 34: Gründung einer Orchesterakademie - einstimmig beschlossen
+- TOP 35: Erweiterung JFE Altenbrückstr. 14 - einstimmig beschlossen
+- TOP 36: Neubau JFE Heerdter Landstr. 162 - einstimmig beschlossen
+- TOP 37: Bau, Einrichtung und Instandsetzung Kindergärten - einstimmig beschlossen
+- TOP 38: Beckenanlage Glashüttenstraße - einstimmig beschlossen
+- TOP 39: Beckenanlage Krippstraße - einstimmig beschlossen
+- TOP 40: Beckenanlage Heidelberger Straße
+- TOP 41: BUF Klemensplatz-West - einstimmig beschlossen
+- TOP 42: Grünzug Harffstr./Nixenstr - einstimmig beschlossen
+- TOP 43: Verleihung der Förderpreise für bildende Kunst, da - einstimmig beschlossen
+- TOP 44: Neuwahl Wilhelm-Heinrich-Riehl-Kolleg - einstimmig beschlossen
+- TOP 45: Änderung Vergnügungssteuersatzung - mehrheitlich beschlossen
+- TOP 46: Änderung ZustO
+- TOP 47: Änderung der Entgeltordnung - einstimmig beschlossen
+- TOP 48: Sonntagfreigaben 01.07.2006 - zur Kenntnis genommen
+- TOP 49: Bilk-Arcaden - zur Kenntnis genommen
+- TOP 50: Einwohnerantrag Bilk-Arcaden - einstimmig beschlossen
+- TOP 51: B-Plan Nr. 5475/54 - Bilk Arcaden - mehrheitlich beschlossen
+- TOP 52: Änd.-antr. Bü90: Bilk-Arcaden - mehrheitlich abgelehnt
+- TOP 53: Stadtteilzentrum Bilk - mehrheitlich beschlossen
+- TOP 54: Ändantr. Kahl + Lbbg: Stadtteilzentrum Bilk - mehrheitlich abgelehnt
+- TOP 55: Änd.-antr. SPD: Stadtteilzentrum
+- TOP 56: Pl 6076/035-Östl.Heyestr.-1.Verlängerung VÄ - einstimmig beschlossen
+- TOP 57: FNP-Ä 108 Bhf Oberkasse/Schanzenstr Anreg.Plan - mehrheitlich beschlossen
+- TOP 58: B-Plan Nr. 5877/10 - Ostpark - einstimmig beschlossen
+- TOP 59: B-Plan Nr. 5877/14- Ostparksiedlung - einstimmig beschlossen
+- TOP 60: FNP-Änderung Nr. 25 - Ortsumgehung Reisholz - einstimmig beschlossen
+- TOP 61: BPl5971/27-Ortsumgeh. Reisholz-Stellungn.Änd.Satz. - einstimmig beschlossen
+- TOP 62: B-Plan Nr. 5178/54 - Gatzweiler-Gelände - mehrheitlich beschlossen
+- TOP 63: B-Plan Nr. 4978/15 - Am Mühlenberg - einstimmig beschlossen
+- TOP 64: B-Plan Nr. 5078/025 - nördlich Willstätter Straße - einstimmig beschlossen
+- TOP 65: B-Plan Nr. 5187/016 - Am Kehrbesen - einstimmig beschlossen
+- TOP 66: B-Plan Nr.5286/03 - Kaldenberger Hof - zur Kenntnis genommen
+- TOP 67: B-Plan Nr. 5181/018 - Messeerweiterung II - zur Kenntnis genommen
+- TOP 68: Ä BPl4977/39-'G+IGeb.südl.Heerdter Landstr-St;Satz - zur Kenntnis genommen
+- TOP 69: BPl 5483/13-ehem.Kaufring-Anreg.Änd.Satzung - zur Kenntnis genommen
+- TOP 70: Änd gem 13 BPl 5775/32-SW Erkrather-Satzung - zur Kenntnis genommen
