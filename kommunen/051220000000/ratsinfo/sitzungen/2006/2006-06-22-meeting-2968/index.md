@@ -1,0 +1,67 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2006-06-22T16:00:00+02:00
+- Ende: 2006-06-22T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZV_T1GYBxfaYlvnu3HVCXLE
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/2968
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXsKLkqBlGybFoiUB-NUpcjKMdlf6qZM9lRA1_l5sFzI/Oeffentliche_Niederschrift_Rat_22.06.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Umbesetzung von Ausschüssen
+- TOP 2: Jahresabschluss zum 31. Dezember 2005
+- TOP 3: Jahresabschluss zum 31. Dezember 2005
+- TOP 4: Genehmigung der Wiederbestellung eines Mitglieds
+- TOP 5: Jahresrechnung und Entlastung
+- TOP 6: Jahresrechnung und Entlastung
+- TOP 7: Jahresrechnung und Entlastung für den Haushalt der Stadt Solingen
+- TOP 8: Jahresrechnung und Entlastung
+- TOP 9: Rathaus-Neubau
+- TOP 10: II. Änderungssatzung
+- TOP 11: Wirtschaftsplan für das Rumpfgeschäftsjahr vom 01.07.2006
+- TOP 12: Ordnung zur Aufhebung der Ordnung über die Erhebung von
+- TOP 13: Ordnung zur Aufhebung der Benutzungsordnung für die Eissporthalle der Stadt Solingen vom 11.07.1988
+- TOP 14: Jahresabschluss 2004 des Vermögensbetriebes der Stadt Solingen
+- TOP 15: Jahresabschluss 2005
+- TOP 16: Wirtschaftsplan 2006 1. Nachtrag
+- TOP 17: Kommunale Festsetzung von Elternbeiträgen
+- TOP 18: Städtische Tageseinrichtung für Kinder Quintino, Rechenweg 7
+- TOP 19: Bedarfsermittlung für die Betreuung der unter Dreijährigen (U3)
+- TOP 20: Fortführung der Kindertagesstraße Eckstraße
+- TOP 21: Planung für ein Jugendblockhaus in Aufderhöhe
+- TOP 22: Neufassung der Entgeltordnung für Wahlleistungen
+- TOP 23: Einführung des erweiterten Ganztagsbetriebs
+- TOP 24: Schulentwicklungsplan 2005 - 2015 (SEP 2015)
+- TOP 25: Ergänzung des Beirats bei der Unteren Landschaftsbehörde
+- TOP 26: Denkmalliste der Stadt Solingen
+- TOP 27: Denkmalliste der Stadt Solingen
+- TOP 28: Bauleitplanung Kuller Straße
+- TOP 29: Bauleitplanung Landwehr
+- TOP 30: Bauleitplanung Oberburg
+- TOP 31: Bauleitplanung Beethovenstraße/ Grimmstraße
+- TOP 32: Bauleitplanung Börkhauser Feld
+- TOP 33: Bauleitplanung Richterweg
+- TOP 34: Bauleitplanung Virchowstraße
+- TOP 35: Bauleitplanung Siebels
+- TOP 36: Bauleitplanung Wernerstraße
+- TOP 37: Bauleitplanung Ehrenstraße/ Bausmühlenstraße
+- TOP 38: Bauleitplanung Burger Landstraße/Dorperhof
+- TOP 39: Bauleitplanung Wüstenhofer Weg/Odentaler Weg/Breidbach
+- TOP 40: Einrichtung einer mobilen Feinstaub-Messtation an der Konrad-Adenauer-Straße
+- TOP 41: ICE-Halt in Solingen-Ohligs/Hauptbahnhof
+- TOP 42: Rederecht im Rat
+- TOP 43: Festhalle Ohligs
+- TOP 44: Anfrage des RM Müller
+- TOP 45: Zuordnung der Grundschule Schützenstraße zum Stadtbezirk Mitte
+- TOP 46: Tätigkeitsbericht der Behindertenkoordinatorin der Stadt Solingen
+- TOP 47: HSK-Maßnahme 159: Umgliederung Bäder in BSG/SWS
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Optimierung der Wirtschaftlichkeit des IT-Betriebes
+- TOP 2: Verkauf einer weiteren Grundstücksteilfläche aus dem Sondervermögen der
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
