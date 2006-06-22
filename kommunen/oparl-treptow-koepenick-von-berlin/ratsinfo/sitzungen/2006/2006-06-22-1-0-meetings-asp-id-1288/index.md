@@ -1,0 +1,92 @@
+# 51. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2006-06-22T16:30:00+02:00
+- Ende: 2006-06-22T22:00:00+02:00
+- Ort: Alt-Köpenick 21, 12555 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1288
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1288
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. V_53 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes einer Bürgerdeputierten im Ausschuss für Bildung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl eines Bürgerdeputierten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - gewählt
+- TOP 10: Nachfragen zu Großen Anfragen - gewählt
+- TOP 11: Vorlagen zur Beschlussfassung - gewählt
+- TOP 11.1: Sondermittel für I.Q. 1185 e.V. (SM 628) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Seniorenverein Wuhlheide e.V. (SM 629) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Alte Möbelfabrik e.V. (SM 630) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für NBZ Hessenwinkel e.V. (SM 632) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Ortsverein Schmöckwitz e.V. (SM 635) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Katholische Kirchengemeinde St. Josef (SM 636) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für "Lichtblick" Selbsthilfegruppe Krebs (SM 637) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für Tourismusverein Berlin Treptow-Köpenick e.V. (SM 639) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondermittel für Indische Solidaritätsaktion e.V. (SM 640) - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sondermittel für FiPP e.V. (SM 641) - mit Änderungen in der BVV beschlossen
+- TOP 11.11: Sondermittel für Rudergemeinschaft Rotation Berlin (SM 642) - mit Änderungen in der BVV beschlossen
+- TOP 11.12: Sondermittel für Förderverein Freunde des 10. Gymnasiums Treptow-Köpenick e.V. (SM 643) - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Sondermittel für Jugendfeuerwehr Müggelheim (SM 644) - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Sondermittel für VSG Altglienicke e.V. (SM 646) - mit Änderungen in der BVV beschlossen
+- TOP 11.15: Sondermittel für Jugendfeuerwehr Oberschöneweide (SM 647) - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Sondermittel für Jugendfeuerwehr Altglienicke (SM 648) - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Erlass der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB für die Wohnanlage Dammweg 5-117 im Bezirk Treptow-Köpenick, Ortsteil Plänterwald - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Änderung bei den Ausschüssen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.1: Neuregelung der europäischen Badegewässerverordnung - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Platz-, bzw. Straßenbenennung nach Cajamarca und East-Norriton-Township - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Paul-Rahn-Straße - überwiesen
+- TOP 12.4: Straße "Zur Fähre" - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Verkehrsorganisation Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Ehemalige Tagesbar im Treptower Park - in der BVV zurückgezogen
+- TOP 12.7: Bürgersteig für Bürger sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Rundfunkstandort Nalepastraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Bebauungsplanentwurf XVI-58, Ortsteil Rahnsdorf hier: Planänderungen/Ergänzungen im Ergebnis der Rechtsprüfung und Auswertung der erneuten öffentlichen Auslegung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Bebauungsplanentwurf XV-25 /"Normannenstraße", Ortsteil Altglienicke hier: Planänderungen/Ergänzungen im Ergebnis der Rechtsprüfung und Auswertung der erneuten öffentlichen Auslegung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Änderung der Geschäftsordnung der BVV Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Leitlinien Kinderschutz - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Verkehr vor Kita Landjägerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Bebauungsplan 9-14 im Bezirk Treptow-Köpenick, Ortsteile Oberschöneweide und Niederschöneweide hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Bürgerbeteiligung qualifizieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Radwege zwischen Lindenstr. und Alt-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Beschallung Fußgängertunnel am S-Bahnhof Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Betriebsbahnhof Schöneweide besser anbinden - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Lärm- und Geruchsbelästigung Güterbahnhof Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Planfeststellungsverfahren des Bezirksamtes Treptow-Köpenick von Berlin zum Umbau Fürstenwalder Damm von Bellevuestraße bis Hirschgartendreieck - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.21: Bebauungsplan XV-73 ("Dörpfeldstraße") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.1: Bebauungsplan XVI-3 ("Ausschluss großflächiger Einzelhandel Oberschöneweide") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.2: Bebauungsplan 9-3 hier: Änderung des Geltungsbereiches - überwiesen
+- TOP 13.3: Bebauungsplan XV-32 ("Garagenkomplex Südostallee") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 14: Anträge - überwiesen
+- TOP 14.1: Marketingkonzept für Uferbahn (TRAM 68) - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Wissenschaft erfahrbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Benennung Straße 174 (Altglienicke) - überwiesen
+- TOP 14.4: Reinigungsleistungen an Schulen erhöhen - überwiesen
+- TOP 14.5: Aussetzung der Öffnung Hackenbergstraße - in der BVV abgelehnt
+- TOP 14.6: Fahrradstellplätze am Rathaus Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Finanzielle Mittel für kommunale Partnerschaften - überwiesen
+- TOP 14.8: Straßenbahn in Treptow-Köpenick erhalten! - überwiesen
+- TOP 14.9: Missbilligung des Verhaltens eines Bezirksstadtrates gegenüber der BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.10: Zwangsarbeiterlager Berlin-Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Kiezzentrum für Spindlersfeld und Köllnische Vorstadt - überwiesen
+- TOP 14.12: Erweiterung der "Vereinten Spiele der Nationen" - in der BVV zurückgezogen
+- TOP 14.13: Radfahren durch Alt-Köpenick - überwiesen
+- TOP 14.14: Schleichverkehr im Ortsteil Friedrichshagen - überwiesen
+- TOP 14.15: Radverkehr in der Baumschulenstraße - überwiesen
+- TOP 14.16: Abenteuer- und Bauspielplatz "Kuhfuß" - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Kitabetreuung bis zur Einschulung - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15.1: Flächen für Garagennutzung im Bezirk - vertagt
+- TOP 15.2: Aktuelle Situation Rundfunkgelände Nalepastraße - beantwortet
