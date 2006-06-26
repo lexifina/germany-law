@@ -1,0 +1,58 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2006-06-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/817592
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/817592
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.1.: SWM - Fernwärmeprojekte; 1. Fernwärmeleitung Herzog-Ernst-Platz 2. Fernwärmeleitung Oberländerstraße / Danklstraße / Valleystraße
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: BA-Sitzung für Kinder und Jugendliche
+- TOP 3.2.: Einführung einer Genehmigungspflicht für die Umwandlung von Mietshäusern im Bestand in Eigentumswohnungen
+- TOP 3.3.: Antrag auf Sozialtickets
+- TOP 3.4.: Abwendungserklärung
+- TOP 4: Schulreferat
+- TOP 4.1.: Informationsveranstaltung Mensa / Versammlungsstätte Klenze- / Dante-Gymnasium am 31.05.06
+- TOP 4.2.: Bericht zum Runden Tisch Bezirkssportanlage Dietramszeller Platz
+- TOP 5: Gaststättenangelegenheiten
+- TOP 5.1.: Freischankfläche Daiserstraße 43; 6.00 bis 22.00 Uhr
+- TOP 5.2.: Freischankfläche Ganghoferstraße 74, 6.00 bis 23.00 Uhr
+- TOP 5.3.: Freischankfläche Ganghoferstr. 76
+- TOP 5.4.: Freischanfkläche Aberlestraße 9, 6.30 bis 20.00 Uhr
+- TOP 5.5.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6: Verkehrsangelegenheiten
+- TOP 6.1.: Lichtzeichenanlagen - Bauprogramm 2007
+- TOP 6.2.: Notwendige verkehrliche Maßnahmen in der Plinganserstraße, südlich Am Harras
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 7.1.: Budgetantrag Ayse-Osman-Projekt; Bespielung des Klohäuschens am Eingang der Großmarkthalle; ? 1.270,-
+- TOP 7.2.: Budgetantrag Hist. Gruppe Schmied von Kochel; Fackelzug am 24.12.06; ? 400,-
+- TOP 7.3.: Budgetantrag Veranstaltung LILALU 2006; ? 5000,-
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Werbeanlage Thalkirchner Straße 202 / Brudermühlstraße
+- TOP 8.3.: Handlungsprogramm Mittlerer Ring 2001 - 2005
+- TOP 8.4.: Erhaltungssatzung Sendling
+- TOP 8.5.: Bauvorhaben Engelhardstraße 26; Umnutzung und Umbau des denkmalgeschützten Anwesens zu einer Sporthalle mit Vereinsheim und Neubau eines Mehrzwecksaals
+- TOP 8.6.: Bauvorhaben Implerstraße 17; EDEKA Einzelhandelsmarkt
+- TOP 8.7.: Transrapid / Expressbahn München
+- TOP 9: Baureferat
+- TOP 9.1.: Veranstaltungen am Flaucher; Kinder- und Jugendmuseum / Haberl Gastronomie
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 10.2.: Pflanzung von 30 hochstämmigen Bäumen auf dem Mittelstreifen der Plinganserstraße
+- TOP 10.3.: Genehmigung einer Baumfällung in der Flößergasse 11a
+- TOP 10.5.: Meldeliste Gefahrenbäume
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.2.: Kultur im Stadtquartier
