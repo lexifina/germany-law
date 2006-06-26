@@ -1,0 +1,54 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2006-06-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/803203
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/803203
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Spielplatz Bingener Str. 4; Missbrauch als Wendeplatz für PKW
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4: Anträge
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Spartenrückverlegung im Bereich Moosacher Bahnhof
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 10: ASZ Moosach; Reparatur von Rollstühlen
+- TOP 5.2.: Freigabe des Radfahrens auf dem Bürgersteig in der Andernacher Straße (Empfehlung Nr. 218 der Bürgerversammlung am 20.10.2005)
+- TOP 6: Anhörungen
+- TOP 6.1.: Leistungsprogramm 2007 der MVG (Fahrplanwechsel Dezember 2006)
+- TOP 6.2.: Taxistand in der Gärtnerstraße
+- TOP 6.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.: Anhörungsverfahren zur Änderung der Volksschulorganisation in der Landeshauptstadt München;Sprengeländerung der Hauptschulen - Hauptschule an der Haldenbergerstraße 27 - Hauptschule an der Leipziger Straße 7 - Hauptschule an der Franz-Nißl-Straße 55
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Erarbeitung eines Kulturgeschichtspfades in Moosach
+- TOP 7.2.: Einplanung einer Fuß- und Radwegverbindung von der Siedlung Hartmannshofen zum Bahnhof Moosach
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Baubeginnsanzeige von Mobilfunkanlagen
+- TOP 8.3.: Fällungsgenehmigungen 1. Lechelstr. 4 2. Scharnhoststr. 44 3. Pfeilschifterstr. 28
+- TOP 8.4.: Haltestellen des Shuttlebusses zum Tollwood-Sommerfestival 2006
+- TOP 8.5.: Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010 des Baureferates / Tiefbau
+- TOP 8.6.: Mehrjahresinvestitionsprogramm des Schulreferates / Sportamt
+- TOP 8.7.: Kanalbaumaßnahme Emmy-Noether-Straße
+- TOP 8.8.: Mehrjahresinvestitionsprogramm des Kommunalreferates
+- TOP 8.9.: Meldelisten Bauvorhaben
+- TOP 8.10.: Anliegerinformation Verlängerung der U 3 - Nord
+- TOP 8.11.: U-Bahn-Linie 3 Nord , Baulos 3; Maßnahmegenehmigung für Bauüberwachungs-, Sicherungs- und Koordinierungsleitungen
+- TOP 8.12.: Grundstückskauf Quedlinburger Str. 27
+- TOP 8.13.: Schließung einer Kindergartengruppe an der Pickelstr. 13 (hier: Franz-Marc-Str. 9)
+- TOP 8.14.: Handlungsprogramm Mittlerer Ring 2001-2005
+- TOP 8.15.: Stellungnahme der LH München zum Planfeststellungsverfahren für die Magnetschwebebahn (Transrapid)
