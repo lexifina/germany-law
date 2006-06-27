@@ -1,0 +1,93 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2006-06-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/828760
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/828760
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges (1)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen (1)
+- TOP 2.1: BA-Budget
+- TOP 2.1.1.: Zuschuss aus dem BA-Budget für eine 2. Schaukel auf dem Spielplatz am Alten Südlichen Friedhof
+- TOP 2.1.2.: Zuschuss aus dem BA-Budget für die Veranstaltung "Inside Out" des KJR München Stadt
+- TOP 2.1.3.: Zuschuss aus dem BA-Budget für das Seniorenbegegnungsfest des KAB St. Andreas
+- TOP 2.1.4.: Zuschuss aus dem BA-Budget für den Umbau und die Einrichtung einer Großtagespflege der Musikalischen Kindergruppe "Muki"
+- TOP 2.2: Kultur
+- TOP 3: Anhörungen (1)
+- TOP 3.1.: Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der Gesamtstädtischen Angebotsstruktur im Bereich der Altenhilfe
+- TOP 3.2.: Kultur im Stadtquartier; Beschlussvorlage für den Kulturausschuss am 20.07.2006
+- TOP 4: Unterrichtungen (siehe Infos) (1)
+- TOP 5: Sonstiges (2)
+- TOP 5.1: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Regionalzughalt Poccistraße
+- TOP 2: Entscheidungen (2)
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Reichenbachstr. 22, Neubau eiens verwaltungsgebäudes mit TG (Vorbescheid)
+- TOP 3.1.2.: Lindwurmstraße gg. Rothmundstraße, Anbringung von 3 Plakattafeln
+- TOP 3.1.3.: Schwanthalerstr. 74, Neubau einer Wohnanlage mit TG (Vorbescheid)
+- TOP 3.1.4.: Baumstr. 8, Neubau einer Kinderkrippe, mit 3 Gruppenräumen und Neubau eines Mehrfamilienhauses mit TG
+- TOP 3.1.5.: Lindwurmstr. 51, DG-Ausbau, Aufzugsanbau, Nutzungsänderung
+- TOP 3.1.6.: Thalkirchner Str. 78, DG-Ausbauzur Schaffung zweier Maisonette-Dachwohnungen
+- TOP 3.1.7.: Kapuzinerstr. 38, Sanierung und Nutzungsänderung
+- TOP 3.1.8.: Tumblingerstr. 34, Abbruch und Neubau RGB Süd; Nutzungsänderung VGB; Zwischenbau (Hs.34 + 36): Erweiterung Gaststätte
+- TOP 3.1.9.: Herzog-Wilhelm-Str. 28, Neubau eines Hotels Garni mit 244 Gästezimmern und TG
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Mobilfunkstandort Beethovenstr. 5
+- TOP 3.2.2.: Lichtzeichenanlagen-Bauprogramm für 2007
+- TOP 4: Unterrichtungen (siehe Infos) (2)
+- TOP 5: Sonstiges (3)
+- TOP 5.1.: Offenlegung von städtebaulichen Verträgen
+- TOP 5.2.: Erneuerung der Jahnstraße zwischen Westermühl- ind Ickstattstraße (Bürgerschreiben)
+- TOP 5.1: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Interfraktioneller Antrag: Regelungen zur Genehmigung von Freischankflächen
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 3.2: Freischankflächen
+- TOP 3.2.1.: FSF-Anträge von erlaubnisfreien Gaststätten; Protokoll der UA-Sitzung im BA 5
+- TOP 3.2.2.: Café Schubert's, Rumfordstr. 6 (Neuantrag)
+- TOP 3.2.3.: Metzgerei-Imbiss-Schäfert, Klenzestr. 43
+- TOP 3.2.4.: SSW "Osteria Dell Ulivo", Häberlstr. 9
+- TOP 3.2.5.: SSW "Fischer Stüberl", Lindwurmstr. 111
+- TOP 3.2.6.: Gaststätte "Don Luca Centro", Morassistr. 2 (Ausdehnungsantrag)
+- TOP 3.2.7.: Cihan Döner-Kebaphaus, Poccistr. 2
+- TOP 3.3: Warenstellagen
+- TOP 3.4: Veranstaltungen (1)
+- TOP 3.4.1.: Straßenfest der Anwohnergemeinschaft Hans-Sachs-Straße am 22.07.2006
+- TOP 3.4.2.: Stsaßenfest mit Fahrzeugsegnung, Pfarramt St. Maximilian am 23.07.2006
+- TOP 3.4.3.: Straßenfest (Patrozinium) Pfarrei St. Paul am 02.07.2006
+- TOP 3.4.4.: 2. Glockenbach Sommerfest auf dem Stephansplatz am 22.07.2006
+- TOP 3.4.5.: Straßenfest in der Zenettistraße am 05.08.2006
+- TOP 3.5: Verkehr
+- TOP 3.5.1.: Errichtung einer Hotelanfahrtszopne (ca 16 m) in der BAyerstraße Höhe Haus Nr. 47
+- TOP 3.6: Theresienwiese
+- TOP 3.6.1.: Reinigung der Theresienwiese, Beschlussvorlage für den Ausschuss für Arbeit und Wirtschaft am 26.09.2006 zur Behandlung einer BV-Empfehlung
+- TOP 3.6: Bäume (Empfehlungen des Baumschutzbeauftragten)
+- TOP 3.6.1.: Nußbaum-/Ziemsenstraße, Fällung von 4 Ahornbäumen auf öffentl. Grund
+- TOP 3.6.2.: Schubertstr. 7, Fällung einer kranken Birke
+- TOP 3.6.3.: Zenettistr. 2 /Thalkirchner Str. 112, Fällung von 3 kranken Bäumen (Fichte, Kastanie,Robinie)
+- TOP 3.6.4.: Nußbaumstr. 20, Fällung von 3 bäumen wegen Umbau der chirurgischen Klinik
+- TOP 4: Unterrichtungen (siehe Infos) (3)
+- TOP 5: Sonstiges (4)
+- TOP 5.1.: Erneurerung der Jahnstraße zwischen Klenze- und Westermühlstraße
+- TOP 5.2.: Gehwegbenutzung durch Radfahrer im Glockenbachviertel
+- TOP 5.1: Berichte der Beauftragten ( AK Theresienwiese)
+- TOP 1: Termine
+- TOP 2: Veranstaltungen (2)
+- TOP 3: Sonstiges / Verschiedenes
+- TOP 3.1: Informationen aus der BA-Geschäftsstelle
+- TOP 3.2: Berichte aus den anderen BA
+- TOP 3.3: Bericht des Internetbeauftragten
