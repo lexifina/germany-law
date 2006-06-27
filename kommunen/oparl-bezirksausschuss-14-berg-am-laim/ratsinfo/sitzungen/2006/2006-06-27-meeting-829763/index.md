@@ -1,0 +1,108 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2006-06-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/829763
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/829763
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 1: (E) Kostenlose Nutzung.... - <div></div>
+- TOP 1.2.: Instandsetzung und Inbetriebnahme des Windkraftwerkes am Turm des Technischen Rathauses - <div></div>
+- TOP 3: Instandsetzung und Inbetriebnahme des Windkraftwerkes am Turm des Technischen Rathauses Empfehlung Nr. 02 - 08 / E 00333 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 09.03.2006 - <div></div>
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.1.1.: Pilotprojekt Jugendbeteiligung an der Stadtplanung ? Einbeziehung Berg am Laimer Projekte
+- TOP 3.1.1.2.: Erweiterung der S-Bahn-Abstellanlage München-Steinhausen
+- TOP 3.1.1.3.: Antrag zur Aufstellung von Plakattafeln an der Bad-Schachner-Straße
+- TOP 3.1.1.4.: Antrag zur Aufstellung von Plakattafeln an der Grafinger Straße
+- TOP 3.1.1.5.: Kultfabrik, Grafinger Str. 6, Umbau Werk 2, Tektur
+- TOP 3.1.1.6.: Aufbau-West Innovationspark, Grafinger Str. 24, Erweiterung der Betriebskantine in eine Gaststätte mit Freischankfläche
+- TOP 3.1.1.7.: Optimolwerke, Nutzungsänderungen in Gastronomiebetriebe, Tektur
+- TOP 3.1.1.8.: Neubau einer Wohnanlage mit Tiefgarage in der Gratlspitzstraße
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.2.1.: Bus 187 ? Prüfen einer Wendemöglichkeit in der Baumkirchner Straße / Grüner Markt
+- TOP 3.1.2.2.: Lichtzeichenanlagen ? Bauprogramm für 2007
+- TOP 3.1.2.3.: Verkehrsregelung Grafinger Straße / Innsbrucker Ring
+- TOP 3.1.2.4.: Ausweichverkehr an der Hansjakobstraße - Bürgerschreiben
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.2.1.: ?Unsere Stadt ? unsere Straßen? ? Anfrage Filmproduktion
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Neues Kinderbildungs- und Betreuungsgesetz (BayKiBiG) ? Antrag auf eine Erhöhung des Gewichtungsfaktor für die Integrationskinder im Kindergarten und die Sicherung des Integrationshorts St. Michael
+- TOP 3.4: Bereich Soziales
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.5.1.: E.S.V. München Ost e.V. ? Antrag auf Gewährung eines Zuschusses
+- TOP 3.6: Sonstiges
+- TOP 3.6.1.: Verschmutzung am U-Bahnhof Josephsburg
+- TOP 3.6.2.: Wochenmarkt am aufgelassenen Busbahnhof Michaelibad
+- TOP 3.6.3.: Straßenbenennung Deggendorfer Straße
+- TOP 3.6.4.: Antrag auf Freischankfläche an der Berg-am-Laim-Straße
+- TOP 3.6.5.: Veranstaltungen im Behrpark
+- TOP 3.6.6.: ISPO-Inline Marathon am 16.07.2006
+- TOP 3.7: Baumschutz (1)
+- TOP 3.7.1.: Arnweg 11 ? Antrag auf Baumfällung
+- TOP 3.7.2.: Ulrichsbergstraße 9 - Antrag auf Baumfällung
+- TOP 3.7.3.: Heilbrunner Straße 72 - Antrag auf Baumfällung
+- TOP 3.7.4.: Ellingerweg 94 - Antrag auf Baumfällung
+- TOP 3.7.5.: St.-Veit-Straße 62 - Antrag auf Baumfällung
+- TOP 3.7.6.: Kranzhornstraße 9 - Antrag auf Baumfällung
+- TOP 3.7.7.: Sonnwendjochstr. 56 - Antrag auf Baumfällung
+- TOP 3.7.8.: Mutschellestraße 6 a - Antrag auf Baumfällung
+- TOP 3.7.9.: Truderinger Str. 154-156 - Antrag auf Baumfällung
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben zwischen 15.05.2006 und 11.06.2006
+- TOP 4.1.1.2.: Aufbau West Innovationspark ? Öffentliche Gaststättenkonzessionen
+- TOP 4.1.1.3.: 2. S-Bahn-Stammstrecke München ? Planfeststellungsbeschluss für den Abschnitt Ostbahnhof / Leuchtenbergring
+- TOP 4.1.1.4.: Planfeststellung für die Magnetschwebebahn (MSB) Hauptbahnhof - Flughafen
+- TOP 4.1.1.5.: Neubau des Hauptbahnhofes ? Überarbeitung des Wettbewerbsergebnisses
+- TOP 4.1.1.6.: ?Stadt- und Ortsteile mit besonderem Entwicklungsbedarf ? die soziale Stadt? Chancen und Perspektiven für Berg am Laim, Ramersdorf und Giesing Programm ?wohngrün.de? zur Verbesserung der privaten Freiflächen in den Sanierungsgebieten ?Tegernseer Landstraße ? Chiemgaustraße? und ?Innsbrucker Ring ? westlich? im Rahmen der Stadtsanierung in München am Mittleren Ring Südost
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.2.1.: Aktuelle Bauvorhaben der Stadtwerke
+- TOP 4.1.2.2.: Mehrjahresinvestitionsprogramm für die Jahre 2006 ? 2010 mit verbindlicher Planung für 2011; Unterabschnitte 6300 ?Gemeindestraßen? 6600 ?Bundes- und Staatsstraßen; Ortsdurchfahrten? 6700 ?Straßenbeleuchtung? 6750 ?Straßenreinigung? 6800 ?Parkscheinautomaten, -uhren, Parkplätze? 6900 ?Wasserläufe/Wasserbau?
+- TOP 4.1.2.3.: Hultschiner Straße (Bebauungsplan Nr. 1931 ? Süddeutscher Verlag) ? Straßenumbau Projektkosten Bedarfs- und Konzeptgenehmigung
+- TOP 4.1.2.4.: Handlungsprogramm Mittlerer Ring 2001-2005 a) 4. Sachstandsbericht für die Jahre 2004 und 2005 b) Ergebnisse der Beratungen des Konsiliums und Ausblick c) Anträge und Empfehlungen ca) Mittlerer Ring im Bereich der Tegernseer Landstraße und Chiemgaustraße cb) Tunnelweiterführung in der Landshuter Allee in nördlicher Richtung cc) Unverzögerte Fortführung der Planungen für einen Tunnel in der Tegernseer Landstraße/Mittlerer Ring, auch angesichts der Finanzlage cd) Kreuzungsfreier Ausbau des Mittleren Rings im Abschnitt Tegernseer Landstraße/Chiemgaustraße ce) Einstellung von Projektmitteln in MIP 1 zur Finanzierung einer Projektstudie für eine Tunnellösung an der Tegernseer Landstraße cf) Auch die Giesinger und Harlachinger von Lärm und Feinstaub entlasten ? Tegernseer Landstraße untertunneln
+- TOP 4.1.2.5.: Aufstellen von Halteverbotsschildern in der Oedkarspitzstraße
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.2.1.: Museumspfad für München für städtische Museen; Antrag Nr. 02-08 / A 02741 der FDP vom 14.11.2005
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Neubau Kindertagesstätte St.-Michael-Straße - Projektgenehmigung
+- TOP 4.3.2.: Anhörungsverfahren zur Änderung der Volksschulorganisation in der Landeshauptstadt München; - Hauptschule Feldbergstraße 85 - Hauptschule Inzeller Weg 4 - Hauptschule Lehrer-Wirth-Straße 31 (neu zu errichten)
+- TOP 4.3.3.: Stellenreduzierung der Schulsozialarbeit an den Hauptschulen Führichstraße und Echardinger Grünstreifen
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.5.1.: Verwendung Budgetmittel für eigene Veranstaltungen
+- TOP 4.5.2.: Bescheid Kulti-Kids e.V.
+- TOP 4.5.3.: Bescheid Kita St. Michael
+- TOP 4.5.4.: Bescheid Maibaumverein
+- TOP 4.6: Sonstige
+- TOP 4.6.1.: Fortführung eines Gaststättenbetriebes in der Kultfabrik, Grafinger Straße 6
+- TOP 4.6.2.: Zweckentfremdung beim städtischen Anwesen Truderinger Straße 288
+- TOP 4.7: Baumschutz (2)
+- TOP 4.7.1.: Unterrichtungen über das Fällen von Gefahrenbäumen
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
