@@ -1,0 +1,58 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2006-06-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/808168
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/808168
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 1.1.2.: Protokoll der letzten Sitzung
+- TOP 1.1.3.: Bürgeranliegen
+- TOP 2: Anträge der Bürgerinnen, Bürger und Parteien
+- TOP 2.1.: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.: Große Wiese am Ackermannbogen als Erholungs- und Spielwiese für alle Interessengruppen und zusätzliche Spielflächen
+- TOP 2.3.: Straßenrechtliche Sondernutzungsgebühr für Abstellen eines Werbezwecken dienenden Kraftfahrzeugs
+- TOP 2.4.: Beleuchtung beim Umspannwerk Arcisstraße
+- TOP 2.5.: Postamt Ackermannbogen am neuen Stadtplatz
+- TOP 3: Bericht des Vorsitzenden (siehe Liste der Schreiben der Verwaltung und Kenntnisnahmen) und der BA-Arbeitskreise
+- TOP 4: Gaststättenangelegenheiten
+- TOP 4.1.: Nordendstr. 54, Bäckerei "Solnhofer Klosterbrot": Freischankfläche
+- TOP 4.2.: Nordendstr. 58, "moccar-las-americas": Freischankfläche
+- TOP 4.3.: Hiltenspergerstr. 43, "Tre Colonne": Freischankfläche
+- TOP 5: Grün / Baumfällungen
+- TOP 5.1.: Degenfeldstr. 5a: Fällung einer Robinia pseudoacacia
+- TOP 5.2.: Karl-Theodor-Str. 104: Fällung einer Birke
+- TOP 6: Bauvorhaben
+- TOP 6.1.: Belgradstr. 97 + 99: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 6.2.: Infanteriestr. 11a: Gesamtkonzept: Neubau von Büro- und Gewerbeflächen und einer Tiefgarage, Neugestaltung der Außenanlagen (Vorbescheid)
+- TOP 7: Verkehr
+- TOP 7.1.: Schleißheimer Straße: Radweg
+- TOP 7.2.: Lichtzeichenanlagenbauprogramm 2007
+- TOP 7.3.: vor Hohenzollernstr. 82: Auflösen der Lieferzone; dafür Kurzparken
+- TOP 8: Warenstellagen
+- TOP 8.1.: Agnesstr. 58: Textilien (Schwabinger Mode-Eck)
+- TOP 8.2.: Elisabethplatz 2: Fahrräder (Joe's Garage)
+- TOP 8.3.: Schleißheimer Str. 124 - 128: Blumen, Obst und Gemüse, Non Food, Getränke (Minimal)
+- TOP 8.4.: Hohenzollernstr. 44: Obst
+- TOP 8.5.: Einrichtung eines ambulanten Obst- und Gemüseverkaufsplatzes am Helmut-Fischer-Platz
+- TOP 9: BA-Angelegenheiten, BA-Budget
+- TOP 9.1.: Zuschuss aus dem BA-Budget an 84 GHz: Kunst im Karée, 14. - 16.07.2006
+- TOP 9.2.: Zuschuss aus dem BA-Budget an den Elternbeirat des Kindergartens Fallmerayerstr. 2: Spielzeug
+- TOP 9.3.: Zuschuss aus dem BA-Budget an Kinderschutz und Mutterschutz e.V.: Hausaufgabenhilfe am Ackermannbogen, Schuljahr 2006/2007 - Fortführung der Maßnahme -
+- TOP 9.4.: Zuschuss aus dem BA-Budget an Kinderschutz und Mutterschutz e.V.: Broschüre über soziale Einrichtungen in den Stadtbezirken 4 und 12
+- TOP 9.5.: Zuschuss aus dem BA-Budget an Städtische Kindertagesstätte Birkenfeldstr. 1; Interkulturelles Nachbarschaftsfest am 21.07.2006
+- TOP 10: Zweckentfremdung
+- TOP 10.6.: Viktoriastraße: Erteilung eines Negativattestes
+- TOP 10.7.: Franz-Joseph-Straße: Zweckentfremdung durch Nutzungsänderung
+- TOP 11: Veranstaltungen
+- TOP 11.1.: Herzog- mit Apianstraße: Straßenfest am 22.07.2006 (29.07.2006)
+- TOP 11.2.: Isabellastraße: Eröffnung Kunst im Karée am 14.07.2006
+- TOP 12: Verschiedenes
