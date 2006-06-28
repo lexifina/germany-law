@@ -1,0 +1,92 @@
+# 42. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2006-06-28T17:30:00+02:00
+- Ende: 2006-06-28T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1186
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1186
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - erledigt
+- TOP 1.2: Geschäftliche Mitteilung - erledigt
+- TOP 1.3: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Fortschreibung des Freizeitstättenentwicklungsplanes Pankow von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.8.1: Fortschreibung des Freizeitstättenentwicklungsplanes (FEP) Pankow von Berlin - erledigt
+- TOP 1.9: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2004 - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Bezirksamtsbeschlüsse und Auswirkungen für MigrantInnen - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Drs. Nr. V-1033 - Mehr Sicherheit und Platz für die Schüler/innen der Rosa-Luxemburg-Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Verhalten von Radfahrern - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Trägerschaft Life Science Center Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Erwerb des Grundstückes und aufstehende Gebäude Bizetstraße 27, 13089 Berlin, durch das Land Berlin und Ausbau zu einem abteilungsübergreifenden Bildungsstandort unter Einsatz von Fördermitteln der Senatsverwaltung für Stadtentwicklung - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Wartehäuschen an der BVG-Haltestelle Pankow-Kirche - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Regelung zur Beteiligung und Mitwirkung der Betroffenen in den Sanierungsgebieten - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Aufzüge für U-Bahnhöfe - mit Änderungen in der BVV beschlossen
+- TOP 1.18: Bauarbeiten Florastraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Verlagerung der Kita während der Baumaßnahmen - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Regenbogenflaggen über dem Bezirk - mit Änderungen in der BVV beschlossen
+- TOP 1.21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.22: Geschwisterkinder nicht in Grundschulen eingeschult - beantwortet
+- TOP 1.23: Verträglicher Ausbau der Pasewalker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: "Operation gelungen - Patient tot" - wie durch das Handeln des Bezirksamtes Arbeitsplätze und gewachsene Ortsteilstrukturen gefährdet werden - beantwortet
+- TOP 1.25: Gedenktafel für Synagoge in der Schönholzer Straße - überwiesen
+- TOP 1.26: Fortschreibung der Behindertenkonzeption - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Bibliothek Bizetstr. - behindertengerecht - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Abwendungsvereinbarung in der "Grünen Stadt" - erledigt
+- TOP 1.29: Gesundheit der Pankower Kinder fördern - S.T.E.P.K.E. unterstützen - überwiesen
+- TOP 1.30: Sportplatz Erich-Weinert-Straße - überwiesen
+- TOP 1.31: Sportplatzlärm in der Erich-Weinert-Straße - überwiesen
+- TOP 1.32: Gehwegoberfläche wieder herstellen - überwiesen
+- TOP 1.33: Beleuchtete Wege für Grundstückseigner in KGA - überwiesen
+- TOP 1.34: Verkehrsberuhigung Tiniusstraße - überwiesen
+- TOP 1.35: Aldi-Straße, hier Parkordnung - überwiesen
+- TOP 1.36: Planungsraumkonferenzen im Bezirk flächendeckend einführen und absichern - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bauliche Mängel in der Kita "La Cigale" - vertagt
+- TOP 2.2: Bericht zu GA-Mitteln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Kindertagesstätten-Entwicklungsplanung (KEP) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Internetpräsenz des Bezirkes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: "Albert-Schweitzer-Stiftung" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Gedenkstein auf dem Friedhof Schönholzer Heide - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6.1: Gedenktafel Zwangsarbeiterlager (Luna-Park) Schönholzer Heide - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Regionalmodell des Sozialamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Breitbandinternet nach Pankow! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Hartz IV - Verteilung der Eingliederungsmittel - vertagt
+- TOP 2.10: Kampf um neue Arbeitsplätze nicht aufgeben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Leerstand beseitigen - den Ratskeller Pankow öffentlich nutzbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Ausbau der Kreuzung Hauptstraße - Mühlenstraße - Gravensteinstraße in Französisch-Buchholz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Sanierungszieländerung Verkehr - öffentlicher Raum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Gestaltung der Bahnbrücken am S-Bahnhof Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Kompletter Anschluss der Ortsteile Blankenburg, Karow und Buch an das öffentliche Abwasserentsorgungsnetz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15.1: Abwassergebühren in Blankenburg, Karow und Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Tourismusmarketingkonzept für den Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Fußgängerschutzweg in der Pistoriusstraße - vertagt
+- TOP 2.18: Dienstleistungen, Infrastruktur und Beratung im Bezirksamt Pankow seniorengerecht anbieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Seniorenmitwirkungsgesetz im Land Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Bericht zu sozialen Sanierungszielen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Gewerbehof Greifswalder Str. 212 als Gewerbehof erhalten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Gesundheitsdienstreformgesetz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Stellplätze für Car-Sharing-Unternehmen in Sanierungsgebieten - vertagt
+- TOP 2.24: Änderung der Sanierungsziele im Sanierungsgebiet Teutoburger Platz Oderberger Straße 19 und Eberswalder Str- 14, 15 einschließlich des im Blockinnenbereichs liegenden Flurstücks 4010 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Schiedsamtsangelegenheiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Bebauungsplanentwurf XVIII-65 für die Grundstücke Mahlerstraße 26/32, 25/27A und 31 sowie einen Abschnitt der Mahlerstraße zwischen Meyerbeerstraße und Gounodstraße im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Benennung der Planstraße W im OT Weißensee in Neumagener Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Benennung einer Privatstraße im OT Karow in Nordische Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Einstellung der Verfahren zur Aufstellung der Bebauungspläne XIX-40c2, XIX-12 und XIX-28 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Umsetzung des RdB-Beschlusses 963/06 Neuordnungsagenda 2006; Implementierung eines bezirklichen Facility Management - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Bebauungsplan XVIII-65 für die Grundstücke Mahlerstraße 26/32, 25/27A und 31 sowie einen Abschnitt der Mahlerstraße zwischen Meyerbeerstraße und Gounodstraße im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Bebauungsplan XVIII-58-1 für die Grundstücke Lehderstraße 68, 69 im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Ergänzungsbericht Quartiersmanagement - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Bebauungsplanentwurf IV-76 für das Gelände zwischen Storkower Straße, Landsberger Allee, S-Bahnhof Landsberger Allee und der Straße in Verlängerung des Syringenweges im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Neubesetzung des Stiftungsrates der Stiftung Pfefferwerk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
