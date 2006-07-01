@@ -1,0 +1,1 @@
+Auf Grund des Art. 12 Abs. 1 Satz 3 Halbsatz 2 des Bayerischen Hochschullehrergesetzes vom 24. August 1978 (GVBl S. 571, ber. S. 790) erläßt das Bayerische Staatsministerium für Unterricht und Kultus im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
