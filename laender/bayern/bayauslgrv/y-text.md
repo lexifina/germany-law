@@ -1,0 +1,1 @@
+Auf Grund von Art. 88 Abs. 3 Satz 3, Abs. 4 und Art. 133 Abs. 6 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) in der Fassung der Bekanntmachung vom 8. Dezember 1988 (GVBl S. 399, BayRS 2210-1-1-WK) erläßt das Bayerische Staatsministerium für Wissenschaft und Kunst folgende Verordnung:
