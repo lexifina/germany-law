@@ -41,7 +41,7 @@ Sechster Teil Förderung der Forstwirtschaft
 § 34 Förderung der Forstwirtschaft
 Siebenter Teil Forstorganisation
 § 35 Forstbehörden
-§ 36 Sächsische Landesanstalt für Forsten
+§ 36 (aufgehoben)
 § 37 Aufgaben und Zuständigkeit der Forstbehörden
 § 38 Beratung und Unterstützung Dritter bei landschaftsbezogenen Maßnahmen
 § 39 Landesforstwirtschaftsrat
@@ -65,11 +65,11 @@ Zehnter Teil Ordnungswidrigkeiten
 § 54 Zuständigkeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
 § 55 Verwarnung
 § 56 Einziehung
-Elfter Teil Übergangs- und Schlußvorschriften
+Elfter Teil Übergangs- und Schlussvorschriften
 § 57 Forstnutzungsrechte
 § 58 Forstberichte
-§ 59 Überleitungs- und Verwaltungsvorschriften
+§ 59 Übergangsvorschrift
 § 60 Änderung von Gesetzen
 § 61 Aufhebung von Rechtsvorschriften
-§ 62 Inkrafttreten
+§ 62 In-Kraft-Treten
 Der Sächsische Landtag hat am 13. März 1992 das folgende Gesetz beschlossen:
