@@ -1,0 +1,57 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2006-07-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/909249
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/909249
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeiner Teil
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 30.05.06
+- TOP 2: Anträge
+- TOP 2.1.: Sozialticket für SGB II und XII -Betroffene
+- TOP 3: Unterauschuss Budget
+- TOP 3.1.: Spectaculum Mundi
+- TOP 3.2.: Münchner Kanuslalom
+- TOP 3.3.: D´Hohenwaldecker-Stamm e.V.
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Umwelt
+- TOP 3: (E) Aufwertung Schweizer Platz Empfehlung Nr. 02-08 / E 00343 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 06.04.06 - <div></div>
+- TOP 5: Unterauschuss Verkehr
+- TOP 5.1.: Ampelschaltung Herterichstr./Wolfratshauser Straße
+- TOP 5.2.: Parkscheibenzone Engadiner Straße
+- TOP 5.3.: Parkscheibenzone Neurieder Straße
+- TOP 5.4.: Lichtzeichenanlagen-Bauprogramm 2007
+- TOP 5.5.: Lärmschutz Graubündener Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 7: Entscheidungsfälle
+- TOP 7.1.: Widmung einer Teilstrecke der Hofmannstraße
+- TOP 7.2.: BV- Empfehlung v. 06.04.06 Aufwertung Schweizer Platz
+- TOP 7.3.: BV- Empfehlung v. 06.04.06 Wiedereröffnung der Toilettenanlage am Lorettoplatz
+- TOP 7.4.: BV- Empfehlung v. 06.04.06 Ziff. 1:Planung und Aufbau von Versorgungs-, Pflege- und Essenseinrichtungen in Fürstenried West Ziff.2: Baldiger Aufbau des geplanten Altenpflegeheimes in der Appenzeller Str. mit ambulanter Essensmöglichkeit
+- TOP 7.5.: Ziff. 1: Planung und Aufbau von Versorgungs-, Pflege- und Essenseinrichtungen in Fürstenried West Ziff. 2: Baldiger Aufbau des geplanten Altenpflegeheimes in der Appenzeller Str. mit ambulanter Essensmöglichkeit Empfehlung Nr. 02-08 / E 00340 .......................... - <div></div>
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Wertstoffinsel Züricher Straße / Hans-Fitz-Weg
+- TOP 8.2.: Werbeanlage Boschetsrieder Str. 119
+- TOP 8.3.: Veranstaltung Cowboy Club: "Tag der offenen Tür"
+- TOP 8.4.: Antrag auf Zweckentfremdung Faustnerweg 10 + 12
+- TOP 8.5.: Beschluss "Kultur"
+- TOP 8.6.: Gaststättenfortführung "Loibl"
+- TOP 8.7.: Gaststättenfortführung "Vollmond"
+- TOP 8.8.: Freischankfläche Backshop Hofmannstr. 22
+- TOP 8.9.: Gaststättenfortführung "Zum Kistlerhof"
+- TOP 8.10.: Gaststätten-Betriebszeitänderung "Eis 118"
+- TOP 8.11.: Gaststättenfortführung "Maljoa Alm"
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
