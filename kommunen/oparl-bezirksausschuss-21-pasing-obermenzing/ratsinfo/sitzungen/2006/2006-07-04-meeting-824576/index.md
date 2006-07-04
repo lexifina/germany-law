@@ -1,0 +1,103 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2006-07-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/824576
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/824576
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Verkehrskonzept Pasing
+- TOP 2.2.: Verkehrsentlastung des Gebietes Alte Allee / Bergsonstraße durch den Lkw-Durchgangsverkehr zu den Aubinger Gewerbegebieten
+- TOP 2.3.: Baumfällung auf dem Anwesen Otto-Engl-Platz 23
+- TOP 2.4.: Belästigung / Bedrohung älterer Bürger
+- TOP 2.5.: Buchenhecke und Gehwege entlang eines Anwesens in der Heerstraße
+- TOP 2.6.: Problemthema Kindergärten
+- TOP 3: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Suessenguthstraße 4 a, 1 Lärche (vertagt aus der BA-Sitzung vom 30.05.06)
+- TOP 3.2.: Blumenauer Straße 175, 3 Birken (vertagt aus der BA-Sitzung vom 30.05.06)
+- TOP 3.3.: Lützowstraße 26, 1 Buche (vertagt aus der BA-Sitzung vom 30.05.06)
+- TOP 3.4.: Prangerlstraße 11, 1 Kiefer
+- TOP 3.5.: Fritz-Berne-Straße 4, 1 Scheinzypresse
+- TOP 3.6.: Jaspersallee 33, 4 Nelkenkirschbäume
+- TOP 3.7.: Gustav-Meyrink-Straße 16, 3 Tannen, 1 Buche, 1 Birke
+- TOP 3.8.: Linzer Straße 17, 1 Birke
+- TOP 3.9.: Marschnerstraße 81, 1 Ahorn
+- TOP 3.10.: Radeckestraße 6, 1 Föhre
+- TOP 3.11.: Mark-Twain-Straße 1, 1 Walnuss
+- TOP 3.12.: Packenreiterstraße 48 - 52, 1 Linde
+- TOP 3.13.: Marsopstraße 30, 1 Lärche, 1 Birke
+- TOP 3.14.: Willibaldstraße 42, 1 Blautanne, 1 Kiefer
+- TOP 3.15.: Freseniusstraße, Baumbestandsplan Nr. 06-17969
+- TOP 3.3.2: Gefahrenbäume
+- TOP 4: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Pfeivestlstraße 26
+- TOP 5.2.: Korfiz-Holm-Straße 3
+- TOP 5.3.: Melßheimerstraße 9
+- TOP 5.4.: Josef-Schlicht-Straße 10
+- TOP 6: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9: Entscheidungen
+- TOP 9.1.: Antrag auf Gewährung eines Zuschusses aus Budgetmitteln des BA 21; Antragsteller: IG Einkaufsstadt Pasing
+- TOP 9.2.: Antrag auf Gewährung eines Zuschusses aus Budgetmitteln des BA 21; Antragsteller: Wohnhilfe e.V.
+- TOP 9.3.: Antrag auf Gewährung eines Zuschusses aus Budgetmitteln des BA 21; Antragsteller: Schützengesellschaft Grabenfleck e.V.
+- TOP 10: Anhörungen
+- TOP 10.1.: Sommerprogramm (Mini-München-Werkstatt) der Kinder- und Jugendkulturwerkstatt Pasinger Fabrik auf der Wiese am Hellihofweg im Zeitraum vom 29.06. - 15.07.06
+- TOP 10.2.: Gastspiel des Zirkus Baldoni vom 15.06. mit 19.06.06 an der Frauendorferstraße
+- TOP 10.3.: Einzug der Pasinger Bürger und Vereine zur "Pasinger Vorwies`n" am 27.07.06
+- TOP 10.4.: Bodenseestraße 34, Neubau eines Hotels mit 94 Zimmern; Vorbescheid
+- TOP 10.5.: Verkauf einer städtischen Immobilie; Josef-Retzer-Straße 31 / Ecke Gräfstraße
+- TOP 10.6.: Am Klostergarten 1, Errichtung einer Werbeanlage
+- TOP 10.7.: Lichtzeichenanlagen-Bauprogramm für 2007
+- TOP 10.8.: Verkehrskonzept Pasing-Zentrum
+- TOP 10.9.: Barrierefreier Ausbau des Pasinger Bahnhofs; Einhalten des zugesagten Baubeginns 2006 (BA-Antrag Nr. 994 vom 07.03.06); Behindertengerechter Ausbau des Pasinger-Bahnhofs (Empfehlung Nr. 377 der Pasinger Bürgerversammlung vom 16.05.06); Entwurf der Beschlussvorlage für den Ausschuss für Arbeit und Wirtschaft am 26.09.06
+- TOP 10.10.: Antrag auf Errichtung einer Werbeanlage am Standort Verdistraße 104
+- TOP 10.11.: Pasinger Inselweinfest vom 13.-16.07.06, Manzingerweg 7
+- TOP 10.12.: Antrag auf Errichtung einer Werbeanlage am Standort Verdistraße 102
+- TOP 11: Anträge und Anfragen
+- TOP 11.1.: Vertagte Anträge aus der Einwohnerversammlung des BA 21 vom 18.05.06 zum Thema "Mobilfunk / Sendeanlage am Standort Verdistraße 109" - Einführung einer ?Sendemaststeuer; Minimierungsgutachten zur Standortoptimierung im 21. Stadtbezirk Pasing-Obermenzing; Baurechtliche Auflagen zur Findung optimaler Standorte für Mobilfunksendeanlagen; Einwohnerversammlungen zu Suchkreisanfragen - Studie einer Melatoninuntersuchung, vor und nach Installation von Mobilfunksendeanlagen - Epidemiologische Untersuchungen rund um Sendeanlagen
+- TOP 12: Unterrichtungen
+- TOP 12.1.: Amtsblatt Nr. 15/06, 16/06
+- TOP 12.2.: Bauanträge (vom 05.06.-11.06., v. 12.06.-18.06.06)
+- TOP 12.3.: Unveränderte Fortführung von Gaststätten - Schank- und Speisewirtschaft "Orient Lounge", Landsberger Str. 449
+- TOP 13: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Bauausschuss vom 23.05.06 - Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010 mit verbindlicher Planung für 2011; Unterabschnitte 6300 Gemeindestraßen, 6600 Bundes- und Staatsstraßen sowie Ortsdurchfahrten, 6700 Straßenbeleuchtung, 6750 Straßenreinigung, 6800 Parkscheinautomaten, -uhren, Parkplätze, 6900 Wasserläufe / Wasserbau - Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010 mit verbindlicher Planung für 2011; Unterabschnitte 5800 Alleen und Anlagen, 5900 Einrichtungen für Erholung und Freizeitgestaltung, 5910 Kleingärten - Erstmalige Herstellung der Wöhlerstraße zwischen Dorfstraße und Benderstraße - Winterdienst: Einrichtung eines Notdienstes, der sicherstellt, dass an Lichtsignalanlagen auch nachts gebremst werden kann. - Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010 mit verbindlicher Planung für 2011; Unterabschnitte 6050 U-Bahn-Bau, 8200 Förderung unterirdischer Massenverkehrsanlagen - Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010 mit verbindlicher Planung für 2011; Unterabschnitte 3600 Stadtbildpflege, 6010 Hochbauverwaltung, 8963 Kulturbaufonds
+- TOP 13.2.: Vollversammlung des Stadtrates vom 10.05.06 - Bebauungsplan Nr. 1922 a Bahnhof Pasing (südlich), Offenbachstraße (östlich), Landsberger Straße (nördlich), Rathausgasse, Am Schützeneck, Bäckerstraße, Pasinger Bahnhofsplatz, Kaflerstraße, Ernsbergerstraße, Bodenseestraße und Lortzingstraße (beiderseits); Satzungsbeschluss
+- TOP 13.3.: Ausschuss für Stadtplanung und Bauordnung vom 17.05.06 - Sonder-Werbeanlagen und Gerüst-Werbungen im Münchner Stadtgebiet während der Fußball-WM 2006 (Bekanntgabe) - Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010; Gliederungsziffern 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6150 Städtebauförderung, 6200 Wohnungsbauförderung, Wohnungsfürsorge - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2006 - 2010 - "München macht Raum für Familien. Familiengerechte Planung und Gestaltung öffentlicher Räume"; Beitrag der Stadt München zum 7. Familienbericht der Bundesregierung (Bekanntgabe)
+- TOP 13.4.: Kommunalausschuss vom 18.05.06 - Straßenbenennung im 21. Stadtbezirk Pasing-Obermenzing: Josef-Osterhuber-Platz
+- TOP 13.5.: Ausschuss für Stadtplanung und Bauordnung vom 21.06.06 - Handlungsprogramm Mittlerer Ring 2001 - 2005 a) 4. Sachstandsbericht für die Jahre 2004 und 2005 b) Ergebnisse der Beratungen des Konsiliums und Ausblick c) Anträge und Empfehlungen - Hauptbahnhof München; Ergebnis des Workshopverfahrens zur Überarbeitung der Wettbewerbsergebnisse; Anträge von Stadtratsmitgliedern
+- TOP 13.6.: Sozialausschuss vom 22.06.06 - Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenpflege
+- TOP 14: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Baureferat - Vollzug der Grünanlagensatzung; Baustelleneinrichtung Sibeliusstraße vom 15.05. bis 23.06.06 - Endgültige Herstellung von Oneginstraße und Pläntschweg; Ausbau der Wöhlerstraße (BA-Schreiben vom 09.05.06) - Situation in der Freseniusstraße (BA-Schreiben vom 09.05.06) - Neue Holzbrücke über die Würm im Stadtpark Pasing (BA-Schreiben vom 16.05.06)
+- TOP 14.2.: Kreisverwaltungsreferat - Wahllokalstandort Altenpflegezentrum in der Mitterfeldstraße (BA-Antrag Nr. 642 vom 04.10.05) - Antrag auf Erteilung einer Ausnahmegenehmigung zum Aufstellen von Tischen und Stühlen auf öffentlichem Verkehrsgrund, hier: Freischankfläche Bodenseestraße 7 - Haltverbot an der Ostseite der Heimburgstraße im Bereich des Anwesens Nr. 4 - Pkw-Positivbeschilderung in der Landsberger Straße 418 und 422 - Straßenzustand und -führung im Bereich Scheuerlinstraße, Hartlebenstraße, Haidelweg; hier: Verkehrsordnende Maßnahmen in der Scheuerlinstraße (BA-Schreiben vom 16.03.06) - Straßenfest in der Bachbauernstraße anlässlich des verkaufsoffenen Sonntags am 18.06.2006
+- TOP 14.3.: Stadtwerke München GmbH - Baumaßnahmen der Stadtwerke München (Stichtage 29.05.06, 02.06.06, 12.06.06, 19.06.06) - Energiespeicher in der Tram-Wendeschleife der Straßenbahnlinie 17 an der Amalienburgstraße
+- TOP 14.4.: Referat für Stadtplanung und Bauordnung - Errichtung einer Werbeanlage am Standort Landsberger Str. 444; Genehmigungsbescheid vom 31.05.06 - Vernetzung des Landschaftsparks Pasing-Laim-Blumenau mit dem Würmgrünzug (BA-Antrag Nr. 993 vom 07.03.06) - Paganinistraße 100, Neubau von 8 Sozialwohnungen mit 6 Garagenplätzen
+- TOP 14.5.: Referat für Arbeit und Wirtschaft - Wirtschafts-Info 05/2006
+- TOP 14.6.: Münchner Verkehrsgesellschaft mbH - Ergänzung zum Leistungsprogramm 2007 der MVG (Fahrplanwechsel Dezember 2006)
+- TOP 14.7.: Kommunalreferat - Radwegverbindung zum Langwieder See; Protokoll des Runden Tisches vom 10.04.06 - Verkauf der städtischen Immobilie Lochhausener Straße 21
+- TOP 14.8.: Kulturreferat - Mehrjahresinvestitionsprogramm 2006 - 2010; Ergänzende Stellungnahme bezüglich Erhalt des ehemaligen Obermenzinger Gemeindehauses
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: BA 15 Trudering-Riem - Zweckentfremdung eines städtischen Anwesens im Stadtbezirk 15 Trudering-Riem
+- TOP 14.2.: Kreisjugendring München-Stadt - Internationales Sommerfest zur offiziellen Eröffnung des Kindergartens an der Fritz-Endres-Straße 11 am 07.07.06 von 15.00 bis 18.00 Uhr
+- TOP 14.3.: Erzbischöfl. Ordinariat München und Freising sowie Kirchenrat der Evang.-luth. Kirche in Bayern - Geplanter Abriss der Kapelle im Klinikum Pasing
+- TOP 14.4.: Bezirksausschuss 3 Maxvorstadt - Offenlegung städtebaulicher Verträge
+- TOP 15: Verschiedenes
+- TOP 15.1.: Nächste BA-Sitzungen am 25.07.06 um 19.00 Uhr im Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Straße 486 sowie am 12.09.06 um 19.00 Uhr im Alten- und Service-Zentrum Obermenzing , Packenreiterstraße 48
+- TOP 15.2.: Gemeinsame Einwohnerversammlung der Bezirksausschüsse 21 Pasing-Obermenzing, 22 Aubing-Lochhausen-Langwied und 23 Allach-Untermenzing zum Thema ?Boden- und Bauschutt Recycling-Anlagen und Bodenbörsen in München; Ausweisung von Ver- und Entsorgungsflächen westlich der A 99? am 13.07.2006 um 18.30 Uhr in der Aula des Louise-Schroeder-Gymnasiums, Pfarrer-Grimm-Straße 1, 80999 München
+- TOP 15.3.: Pasinger Vorwies`n 2006 vom 27.07.bis 01 08.06
