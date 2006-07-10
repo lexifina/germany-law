@@ -1,0 +1,67 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2006-07-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/918088
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/918088
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Zustand der Prälat -Wellenhofer-Straße
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Würmtalstr. 37, gem. Baumbestandsplan Nr. 2006 - 13104
+- TOP 3.2.: Würmtalstr. 65, gem. Baumbestandsplan Nr. 2006 - 13238
+- TOP 3.3.: Bortenhofstr. 3, 1 Fichte
+- TOP 3.4.: Würmtalstr. 99, gem. Baumbestandsplan Nr. 2006 - 17893
+- TOP 3.5.: Terofalstr. 27 - 53, 4 Robinien
+- TOP 3.6.: Silberblattstr. 30, gem. Baumbestandsplan Nr. 2006 - 12638
+- TOP 3.7.: Am Waldrand 13, 1 Hainbuche (Kronenschnitt), 2 Sandbirken
+- TOP 3.8.: Haderunstr. 28, 1 Robinie
+- TOP 3.9.: Asternstr. 14, 1 Lärche
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4: Ausschussberichte
+- TOP 4.1.: UA Bau
+- TOP 5: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Baubeginn der geplanten Kindertagesstätte an der Ecke Guardinistr./Großhaderner Str. und des Kindergartens Max-Lebsche-Platz II / Prälat-Wellenhofer-Straße (Fr. Dr. Unterberg)
+- TOP 5.2.: Änderung der vorgelegten Entwürfe der Satzung über den Besuch der Kooperationseinrichtungen und Kindertagesstätten der LH München (Fr. Dr. Unterberg)
+- TOP 6: Entscheidungsfälle
+- TOP 7: Unterrichtungsfälle
+- TOP 7.1.: Zweckentfremdung von Wohnraum: - Veilchenstr. - Stahleckplatz
+- TOP 8: Anhörungsfälle
+- TOP 8.1.: Lichtzeichenanlagen - Bauprogramm für 2007(KVR, 29.05.2006)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Bezirkssportanlage am Hedernfeld, BA-Antrag Nr. 1013 vom 22.03.2006 (Schul- und Kultusreferat, 31.05.2006)
+- TOP 9.2.: Wohnanlage Guardinistraße (Referat für Stadtplanung und Bauordnung, 19.06.2006)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.1.: am 10.05.2006: Frostschäden auf Münchner Straßen
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006: Klinikum Innenstadt - wie lange noch am alten Standort?
+- TOP 12.2.: Beschluss des Bauausschusses vom 23.05.2006: Winterdienst: Einrichtung eines Notdienstes, der sicherstellt, dass an Lichtsignalanlagen auch nachts gebremst werden kann (Ziffer 2 des Antrags)
+- TOP 12.1.: Beschluss des Sozialausschusses vom 22.06.2006; Ausbau des Netzes der Alten- und Servicezentren in München unter Berücksichtigung der gesamtstädtischen Abgebotsstruktur im Bereich der offenen Altenhilfe
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 23.05.2006: Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010 mit verbindlicher Planung für 2011; a) Unterabschnitte 5800 "Alleen und Anlagen", 5900 "Einrichtungen für Erholung und Freizeitgestaltung", 5910 "Kleingärten"
+- TOP 12.2.: b) Unterabschnitte: 6300 "Gemeindestraßen", 6600 "Bundes- und Staatsstraßen; Ortsdurchfahrten", 6700 "Straßenbeleuchtung", 6750 "Straßenreinigung", 6800 "Parkscheinautomaten, -uhren, Parkplätze", 6900 "Wasserläufe/Wasserbau" c) Unterabschnitte: 6050 "U-Bahn-Bau", 8200 "Förderung unterirdischer Massenverkehrsanlagen"
+- TOP 12.3.: Beschluss des Kommunalausschusses vom 18.05.2006: Mehrjahresinvestitionsprogramm 2006 bis 2010; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf
+- TOP 12.4.: Beschluss des Sozialausschusses vom 16.05.2006: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2006 - 2010, Einzelplan 4 / Sozialbereich
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006: Mehrjahresinvestitionsprogramm für die Jahre 2006 - 2010; Gliederungsziffern 6101 Stadtentwicklungsplan, 6110 Lokalbaukommission, 6150 Städtebauförderung, 6200 Wohnungsbauförderung, Wohnungsfürsorge
+- TOP 12.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2006 - 2010
+- TOP 12.7.: Beschluss des Sportausschusses vom 30.05.2006: Mehrjahresinvestitionsprogramm (MIP) 2006 - 2010, 1. Investitionsmaßnahmen für Sportanlagen, 2. Dissens, 3. Stellungnahme der Bezirksausschüsse
+- TOP 12.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.06.2006: Handlungsprogromm Mittlerer Ring 2001 - 2005 a) 4. Sachstandsbericht für die Jahre 2004 und 2005 b) Ergebnisse der Beratungen des Konsiliums und Ausblick c) Anträge und Empfehlungen
+- TOP 12.1.: Bekanntgaben:
+- TOP 12.2.: Bekanntgaben in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 17.05.2006: "München macht Raum für Familien. Familiengerechte Planung und Gestaltung öffentlicher Räume", Beitrag der Stadt München zum 7. Familienbericht der Bundesregierung
+- TOP 13: Nichtöffentliche Sitzung
