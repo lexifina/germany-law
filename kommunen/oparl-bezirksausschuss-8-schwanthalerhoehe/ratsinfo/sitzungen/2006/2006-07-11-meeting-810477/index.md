@@ -1,0 +1,64 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2006-07-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/810477
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/810477
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Nachtrag Chance für Traditionsgeschäfte - "Fit für die Übergabe"
+- TOP 4: Beschlüsse des BA 8
+- TOP 5: Anhörungen
+- TOP 5.1.: Antrag auf Freischankfläche Astaller Str. 2 Erneute Behandlung aus 06/06
+- TOP 5.2.: Nutzung der Theresienwiese; Anfrage für die VEranstaltung "Afrika Tage 2007" vom 17.05. - 20.05.2007
+- TOP 5.3.: Nachtrag Antrag auf Freischankfläche Schnaderböckstr. 6 Ausdehungsantrag
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Landsberger Str. (nördl.) zwischen Donnersberger Brücke und Grasserstraße Neubau der Erschließungsstraßen im Umgriff des BPlanes mit GrünO Nr. 1921
+- TOP 6.1.2.: MIP 2007 - 2010 Erneute Behandlung aus 06/06
+- TOP 6.1.3.: Erhebung von Ausgleichsbeträgen nach dem BauGB bei städtebaulichen Sanierungen Erneute Behandlung aus 06/06
+- TOP 6.1.4.: Spartenanfrage Bayerstr. 47
+- TOP 6.1.5.: BPlan mit GrünO Nr. 1819a - ehem. Messegelände Nordteil im 8. Stadtbezirk 2. Bauabschnitt Am Bavariapark östlich des Hans-Dürrmeier-Weges sowie Buswendeanlage westlich der Straße Theresienhöhe
+- TOP 6.1.6.: Allg. Eisenbahngesetz (AEG); Plangenehmigung nach § 18 Abs. 2 AEG ESTW UZ Mü-Pasing (Süd und Nord), München Laim Rbf für die Bereiche Btf Mü-Pasing, -Westkreuz, -Laim Rbf, -Friedenheimer Brücke Abw., Abzw. Mü Kanal, Mü Landsberger Str,Bf Mü-Lochhausen Gemarkung Pasing, Laim, Langwied, Obermenzing, Neuhausen
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Ausbau des Netzes der ASZ in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe
+- TOP 6.2.2.: Nachtrag SozRef - Bericht über REGSAM Bleibt REGSAM ein Erfolgsmodell?
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Baumbepflanzung in der Geroltstraße Erneute Behandlung aus 06/06
+- TOP 6.4.2.: Nachtrag: Anmerkungen des AAN zum Leistungsprogramm 2007 der MVG
+- TOP 6.4.3.: Wertstoffinseln Westendstraße
+- TOP 6.4.4.: Baumfällung i.V.m. Baumaßnahmen Theresienöhe 15
+- TOP 6.4.6.5: UA Budget und Finanzen
+- TOP 6.4.1.: Budgetantrag Generationengerechtes Wohnen mit der Wohnungsgenossenschaft München West e.V. vom 12.05.06
+- TOP 7: Erledigungen
+- TOP 7.1.: Einrichtung eines Bauernmarktes an der Ecke Ganghofer-/Sandtnerstraße
+- TOP 7.2.: KVR - Poller im Westend Schreiben vom 21.06.06
+- TOP 7.3.: Nachtrag KVR - Freischankflächen
+- TOP 7.4.: Baureferat - Hundekot auf Gehwegen und Anlagen des Stadtbezirkes BV-Anfrage Nr. 02-08/ Q00086
+- TOP 7.5.: KVR - Holzapfel-/Westendstraße Fernwärme Verekehrsrechtl Anordnung
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Baumaßnahmen der SWM Stichtag 19.06.06
+- TOP 9.2.: Baumaßnahmen SWM Stichtag 26.06.06
+- TOP 9.3.: Nachtrag Meldeliste vom 26.06.06 - 02.07.06 Erstantragsverfahren a) Bergmannstr. 20
+- TOP 9.4.: Baumaßnahmen der SWM Stichtag 03.07.06
+- TOP 10: Verschiedenes
+- TOP 10.1.: Richtfest der Rocco-Forte-6*-Hotels in den sog. Lenbach-Gärten Schreiben BA 3 vom 27.06.06
+- TOP 10.2.: Nachtrag Reservierung in der Ratsboxe für die Münchner BAs - Oktoberfest 2006
+- TOP 10.3.: Baureferat - Baumaßnahme Martin-Greif-Straße
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: KVR - Unveränderte Fortführung von Gaststätten Guldeinstr. 30
+- TOP 11.2.: PlanungsR - Hauptbahnhof München
+- TOP 11.3.: Schriftverkehr Wird mit Nachtrag verschickt
+- TOP 11.4.: Protokoll 06/06 Wird mit Nachtrag verschickt
+- TOP 11.5.: Nachtrag Wirtschafts-Info 06/2006
