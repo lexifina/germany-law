@@ -1,0 +1,58 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2006-07-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/792727
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/792727
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 2: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes; Einziehung einer Teilstrecke der Straße "Am Lochholz"
+- TOP 5: Anhörungen
+- TOP 5.1.: Lichtzeichenanlagen-Bauprogramm für 2007
+- TOP 6: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8: Schreiben des Direktoriums
+- TOP 8.1.: Bestellung der Bewegungsinsel aus Budgetmitteln
+- TOP 8.2.: 18.jetzt - Fest junger Erwachsener im Rathaus am 14.10.06; Präsentation der BAs
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Fahrradabstellanlagen 1. S-Bahnhaltepunkt Untermenzing, 2. Bahnhof Allach
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Straßenfest am 02.07.06 in der St.-Johann-Straße; Erlaubnisbescheid
+- TOP 10.2.: Freigabe der Oberen Mühlstraße (neu) zwischen Lochhausener Straße und Eversbuschstraße
+- TOP 10.3.: Albert-Pfretzschner-Weg; Z. 260 "Anlieger frei"
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Bauanträge (v. 05.06.-11.06., 12.06.-18.06. und 19.06.-25.06.)
+- TOP 11.2.: Vollzug der BaumschutzVO a) Siberstr. 48, 1 Konifere und 2 Fichten b) Schweidnitzer Str. 26, 1 Kiefer c) Manzostr. 9, 2 Schwarzkiefern d) Siberstr. 21a, 1 Birke e) Fastlingerstr. 5, 1 Rotfichte und 1 Scheinzypresse
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Am Lochholz
+- TOP 14.2.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Finsterwalderstraße
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 21 Pasing-Obermenzing: Verbesserung der Verkehrssicherheit für Radfahrer von Pasing in Richtung Langwieder-/Lußsee
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen der Stadtwerke München GmbH
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Vollversammlung vom 31.05.06 - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/4, Ludwigsfelder Straße (südlich) - Hackersiedlung-
+- TOP 22.2.: Ausschuss für Stadtplanung und Bauordnung vom 21.06.06: - Handlungsprogramm Mittlerer Ring 2001-2005, a) 4. Sachstandsbericht für die Jahre 2004-2005, b) Ergebnisse der Beratungen des Konsiliums und Ausblick, c) Anträge und Empfehlungen
+- TOP 22.3.: Sozialausschuss vom 22.06.06 - Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe
+- TOP 22.4.: Bauausschuss vom 27.06.06: - Weinschenkstraße zwischen Professor-Eichmann-Straße und Bauseweinallee; erstmalige Herstellung
+- TOP 22.5.: Ausschuss für Stadtplanung und Bauordnung vom 28.06.06 - Landschaftspark Münchner Norden, Sachstand und Vorstellung des Landschaftlichen Leitbildes
+- TOP 23: Verschiedenes
