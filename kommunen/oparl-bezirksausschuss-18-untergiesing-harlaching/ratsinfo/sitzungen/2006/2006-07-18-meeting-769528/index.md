@@ -1,0 +1,95 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2006-07-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/769528
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/769528
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: Beschlussfassung über die Finanzierung des BA-Jahresempfangs 2006, im Tierpark Hellabrunn aus dem Budgetanteil für BA-eigene Veranstaltungen; 6.500,- ?
+- TOP 3.2.: AntragstellerIn: Waldkindergarten Wurzelkinder e.V., für die Maßnahme:Neuanschaffung eines Bauwagens; Antragssumme: 4.500.- ?; Beschlussvorlage durch das Direktorium vom 20.06.2006
+- TOP 3.3.: AntragstellerIn: Jugendtreff AKKU, für die Maßnahme:Jubiläumsfest "10 Jahre Jugendtreff AKKU"; Antragssumme: 1.800.- ?; Beschlussvorlage durch das Direktorium vom 28.06.2006
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Ferienprogramm "Kinderzirkus", Antragssumme: 7.500,- ?, Antrag vom 20.06.06
+- TOP 3.1.: Verwendungsnachweis mit Sachbericht zur "Montessori-Info-Veranstaltung" am 22.05.2006 der Association Montessori Internationale, Zuleitung des Direktoriums vom 21.06.2006
+- TOP 3.2.: Selbstbehauptungskurse vom 18. und 19. März 2006 (Grundschule an der Fromundstraße); Sachbericht und Verwendungsnachweis des Elternbeirats; Zuleitung des Direktoriums
+- TOP 3.3.: Verwendungsnachweise und Sachberichte der Grundschule Rotbuchenstraße für die Maßnahmen "Bücherkauf für Schulbücherei" und "Akrobatische Künste"; Zuleitung des Direktoriums
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Lichtzeichenanlagen - Bauprogramm für 2007, Anhörung durch das Kreisverwaltungsreferat vom 29.05.2006 mit der Bitte um Stellungnahme bis 28.07.2006
+- TOP 3.1.: Neuordnung der Parkplatzmarkierungen an der Hans-Mielich-Straße, dem Hans-Mielich-Platz und der Gerhardstraße; Antwortschreiben des Kreisverwaltungsreferats vom 07.06.2006 zum BA-Antrag-Nr. 02-08 / B 01169 des BA 18 vom 16.05.2006
+- TOP 3.2.: Winterdienst in Nebenstraßen, Verstärktes Räumen und Streuen; Antwortschreiben des Baureferats vom 08.06.2006 zum BA-Antrag-Nr. 02-08 / B 00998 des BA 18 vom 21.02.2006
+- TOP 3.3.: Leistungsprogramm 2007 der MVG (Fahrplanwechsel Dezember 2006); Antwortschreiben der MVG mbH vom 19.06.2006
+- TOP 3.1.: Wittelsbacherbrücke über die Isar (Bw.-Nr. 33/6); Genehmigung der Bedarfsmeldung
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats vom 12.06.2006
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Umbau und Aufstockung Kinder- und Jugendtreff am Wettersteinplatz, Fromundstraße 1 im 18. Stadtbezirk Untergiesing-Harlaching; Sitzungsvorlage Nr 02-08 / V 08284; Beschluss des Kinder- und Jugendhilfeausschusses vom 11.07.2006 (SB und VB)
+- TOP 3.2.: Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe; Sitzungsvorlage Nr. 02-08 / V 08115; Beschluss des Sozialausschusses vom 22.06.2006 (SB)
+- TOP 3.3.: Erweiterung der Kindergrippe am Authriplatz 9 des eingetragenen Vereins Kindergarten Biene Maja e.V. Mitglied des Paritätischen Wohlfahrtsverbandes 18. Stadtbezirk, Untergiesing-Harlaching; Sitzungsvorlage Nr. 02-08 / V 08110; Beschluss des Kinder- und Jugendhilfeausschusses vom 22.06.2006 (VB)
+- TOP 3.4.: Bauvorhaben Deisenhofener-/ Herzogstandstraße - Mittelpunktsbibliothek - Kindergrippe - sonstige Nutzung; Sitzungsvorlage Nr. 02-08 / V 08283; Beschluss des Kulturausschusses vom 29.06.2006 (VB)
+- TOP 3.5.: Errichtung einer Kooperationseinrichtung mit 4 Kindergarten- und 4 Kindergartengruppen an der Säbener Straße im 18. Stadtbezirk Untergiesing-Harlaching; 1. Vorläufige Genehmigung des Nutzerbedarfsprogrammes 2. Vorplanungsentwurf; Zuleitung des Schul- und Kultusreferats vom 21.03.2006
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Anhörungen zu Bauvorhaben 3.5.4.1.1 Anwesen in der Hauensteinstraße, Zuleitung vom 13.06.2006
+- TOP 3.2.: Baumbestandspläne 3.5.4.2.1 Anwesen in der Meraner Straße, Zuleitung vom 26.06.06 3.5.4.2.2 Anwesen am Karneidplatz, Zuleitung vom 19.06.06 3.5.4.2.3 Anwesen in der Benediktenwandstraße, Zuleitung vom 28.06.06
+- TOP 3.3.: Bebauungsplan Nr._B 42 der Nachbargemeinde Grünwald; Anhörung durch das Referat für Stadtplanung und Bauordnung vom 08.06.2006
+- TOP 3.1.: Erhaltungssatzung Untere Au/Untergiesing Az. 610-II-11 ErhS; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 22.06.2006
+- TOP 3.2.: Unverzügliche Umgestaltung des Kinder- und Jugendspielplatzes am Candidplatz auf der Grundlage der 2002 beschlossenen Pläne; ggf. Aufhebung bzw. Änderung des angeblich entgegenstehenden Bebauungsplans; Antwortschreiben des Baureferats vom 09.06.2006 zu den BA-Anträgen-Nr. 02-08 / B 01080 und 02-08 / B 01081 des BA 18 vom 21.03.2006
+- TOP 3.3.: Beschädigter Belag auf dem Candidplatz, Antwortschreiben der Caritas vom 19.06.2006 zum Schreiben vom 25.05.2006
+- TOP 3.4.: Erschwerung von Zerstörungen bei Fußgängerabsperrungen; Bürgerschreiben an den BA 18 vom 27.04.2006; Antwortschreiben des Baureferats vom28.06.2006
+- TOP 3.5.: Aufstellung zweier zusätzlicher Park-/ Ruhebänke am Hans-Mielich-Platz, neben dem Maibaum; Antortschreiben des Baureferats vom 30.0.6.2006 zum BA-Antrag-Nr. 02-08 / B 01077 des BA 18 vom 21.03.2006
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Unterrichtung durch das Sozialreferat, Amt für Wohnen und Migration im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum 3.5.6.2.1 Anwesen Karneidplatz, Zuleitung vom 19.06.2006 3.5.6.2.2 Anwesen in der Tegelbergstraße, Zuleitung vom 12.06.2006 3.5.6.2.3 Anwesen in der Kastenseestraße, Zuleitung vom 07.06.2006
+- TOP 3.3.: "Stadt- und Ortsteile mit besonderem Entwicklungsbedart - die soziale Stadt" Chancen und Perspektiven für Berg am Laim, Ramersdorf und Giesing; Programm "wohngrün.de" zur Verbesserung der privaten Freiflächen in den Sanierungsgebieten "Tegernseer Landstraße - Chiemgaustraße" und " Insbrucker Ring - westlich" im Rahmen der Stadtsanierung in München am Mittleren Ring Südost; Sitzungsvorlage Nr. 02-08 / V 08166; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.06.2006
+- TOP 3.4.: Handlungsprogramm Mittlerer Ring 2001-2005 a) 4. Sachstandsbericht für die Jahre 2004 und 2005 b) Ergebnisse der Beratungen des Konsiliums und Ausblick c) Anträge und Empfehlungen Sitzungsvorlage Nr. 02-08 / V 08161; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.06.2006 (VB)
+- TOP 3.5.: Gaststätten (unveränderte Fortführungen), Mitteilungen durch das Kreisverwaltungsreferat SSW "Amigos Locos", Candiplatz; Mitteilung vom 03.07.2006
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung am 22.07.2006 in den Isarauen (Sport- undSpielfest); Zuleitung des Baureferats vom23.06.2006 mit der Bitte um Stellungnahme bis 14.07.2006
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Erhalt des 60er-Stadions und Nutzung als "Nostalgiestadion"; Antrag Nr. 1924 von Frau Stadträtin von Walter vom 13.04.2000 Berichterstattung zu den Planungen zum städtischen Stadion an der Grünwalder Straße; Antrag Nr. 4767 des Bezirkausschusses des 18. Stadtbezirkes Untergiesing-Harlaching vom 18.04.2000 Sitzungsvorlage Nr. 02-08 / V 08131; Beschluss des Sportausschusses des Stadtrats vom 04.07.2006 (SB)
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
