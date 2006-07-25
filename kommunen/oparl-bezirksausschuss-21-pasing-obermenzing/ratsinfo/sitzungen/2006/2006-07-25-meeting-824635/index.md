@@ -1,0 +1,95 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2006-07-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/824635
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/824635
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Eröffnung und Beschilderung der neuen Straßen Lochhausener- / Bergsons- und Obere Mühlstraße neu
+- TOP 2.2.: Anleinpflicht für Hunde auf der nördlichen Seite des Nymphenburger Kanals, "Hundepoller"
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Adelsbergstraße 1, 3 Kiefern (vertagt aus der Sitzung vom 04.07.06)
+- TOP 3.2.: Im Eichgehölz 7, 1 Ahorn, 3 Fichten, 5 Douglasien, 1 Kirsche, 2 Birken (vertagt aus der Sitzung vom 04.07.06)
+- TOP 3.3.: Thuillestraße 28, 2 Fichten (vertagt aus der Sitzung vom 04.07.06)
+- TOP 3.4.: Georg-Jais-Straße 8, 1 Eiche (vertagt aus der Sitzung vom 04.07.06)
+- TOP 3.5.: Freseniusstraße 101, 1 Thuje (vertagt aus der Sitzung vom 04.07.06)
+- TOP 3.6.: Bauseweinallee 65, Baumbestandsplan Nr. 06-19144 (vertagt aus der Sitzung vom 04.07.06)
+- TOP 3.7.: Bauseweinallee 65, Baumbestandsplan Nr. 06-19146 (vertagt aus der Sitzung vom 04.07.06)
+- TOP 3.8.: Landsberger Straße 444, 1 Fichte
+- TOP 3.9.: Marsopstraße 8 u. 8 a, 2 Laubbäume
+- TOP 3.10.: Anton-Pichler-Straße 23, 1 Fichte
+- TOP 3.11.: Peslmüllerstraße 5, 1 Kiefer
+- TOP 3.12.: Haidelweg 29, Baumbestandsplan Nr. 06-16739
+- TOP 3.13.: Gustav-Meyrink-Straße 27, 1 Fichte
+- TOP 3.14.: Numbergerstraße 11, 1 Kiefer
+- TOP 3.15.: Wiesengrund 27 a, 1 Birke
+- TOP 3.16.: Marsopstraße 36, Baumbestandsplan Nr. 06-17293
+- TOP 3.3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Fugelstraße 3
+- TOP 5.2.: Feichthofstraße 155
+- TOP 5.3.: Bauseweinallee 65
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Antrag auf Gewährung eines Zuschusses aus Budgetmitteln des BA 21; Antragsteller: Irene Seiler Illustration & Design
+- TOP 2: (E) Einrichtung einer Skateranlage im Durchblickpark Empfehlung Nr. 02-08 / E 00240 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing Bezirksteil Obermenzing am 27.10.2005 - <div>nach Antrag</div>
+- TOP 10.: Anhörungen
+- TOP 10.1.: Verkehrsentlastung für das Gebiet Alte Allee / Bergsonstraße; Widmung der Straßen Alte Allee und Bergsonstraße als Wohn-Sammelstraße nach Fertigstellung des neuen Hauptstraßennetzes "Bergson- / Lochhausener STraße und Obere Mühlstraße neu" (Empfehlung Nr. 232 der Bürgerversammlung des 21. Stadtbezirkes, Bezirksteil Obermenzing, am 27.10.2005)
+- TOP 10.2.: Pasinger Postsaal; Zuschussbewilligung für die Sanierung des Pasinger Postsaals (Antrag der FDP-Stadtratsfraktion vom 11.06.02), Sanierung des Pasinger Postsaals (Antrag von Herrn Stadtrat Schmatz vom 12.06.02), Soziale und kulturelle Nutzung des Postsaals Pasing (Antrag von Herrn Stadtrat Müller vom 25.06.02), Sanierung des Pasinger Postsaals - Antrag zur kostenfreien bürgerschaftlichen Nutzung des Pasinger Postsaals (Antrag des BA 21 Nr. 288 vom 30.07.02)
+- TOP 10.3.: Allgemeines Eisenbahngesetz (AEG); Plangenehmigung nach § 18 Abs. 2 AEG; ESTW ZU München-Pasing (Süd und Nord), München Laim Rbf. für die Bereiche Btf. München-Pasing, -Westkreuz, -Laim Rbf, - Friedenheimerbrücke Abzw., Abzw. Mü. Kanal, Mü. Landsber-ger Straße, Bf.Mü.-Lochhausen; Gemarkung Pasing, Laim, Langwied, Obermenzing, Neuhausen (vertagt aus der Sitzung vom 04.07.06)
+- TOP 10.4.: Agnes-Bernauer-Straße 239, Umbau eines Umkleidegebäudes der Bezirkssportanlage (vertagt aus der Sitzung vom 04.07.06)
+- TOP 10.5.: Gräfstraße 9, Errichtung einer Werbeanlage
+- TOP 10.6.: Pippinger Straße, FlurNr. 625/5, Errichtung einer Werbeanlage
+- TOP 10.7.: Landsberger Straße 374 - 400; Projekt des Baureferates-Straßenunterhaltsbezirk West
+- TOP 10.8.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Adelsbergstraße 7 b
+- TOP 10.9.: Änderung des Flächennutzungsplanes und Bebauungsplan mit Grünordnung für das Gebiet Stahlstraße (südlich), Hans-Goltz-Weg (westlich) und Pasinger Heuweg (östlich) - Aufstellungsbeschluss; Entwurf einer Beschlussvorlage für die Vollversammlung des Stadtrates
+- TOP 11.: Anträge und Anfragen
+- TOP 11.1.: Einführung einer ?Sendemaststeuer; Minimierungsgutachten zur Standortoptimierung im 21. Stadtbezirk Pasing-Obermen-zing; Baurechtliche Auflagen zur Findung optimaler Standorte für Mobilfunksendeanlagen; Einwohnerversammlungen zu Suchkreisanfragen (vertagt aus der Sitzung vom 04.07.06)
+- TOP 11.2.: CSU: Sanierung der Waldhornstraße zwischen Menzinger Straße und Schlehbuschstraße mit neuer Teerdecke
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Amtsblatt Nr. 18/06, 19/06
+- TOP 12.2.: Bauanträge (vom 03.07.-09.07.
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Ausschuss für Arbeit und Wirtschaft am 18.07.06 - Leistungsprogramm der MVG für die Fahrplanperiode 2007
+- TOP 13.2.: Schulausschuss vom 18.07.2006 - Errichtung eines Pavillons an der Paganinistraße 96; Bedarfs- und Konzeptgenehmigung, Projektauftrag und Projektgenehmigung, Änderung des Entwurfs des Mehrjahresinvestitionsprogramms 2006 - 2010 - Errichtung eines Pavillons an der Georg-Habel-Straße; Bedarfs- und Konzeptgenehmigung, Projektauftrag und Projektgenehmigung, Änderung des Entwurfs des Mehrjahresinvestitionsprogramms 2006 - 2010
+- TOP 13.3.: Vollversammlung des Stadtrates vom 31.05.2006 - Bauträgerauswahl für die Baugrundstücke des kommunalen Wohnungsbauprogramms - Teilprogramm für Benachteiligte am Wohnungsmarkt, Teilporgramm für Clearinghäuser (KomPro/B und C); u.a. Pippinger Straße 26
+- TOP 13.4.: Sportausschuss vom 04.07.06 - Investitionsprogramm für städtische Freisportanlagen, Modifizierung der Prioritätenliste
+- TOP 13.5.: Bauausschuss vom 27.06.06 - Erstmalige Herstellung der Weinschenkstraße zwischen Professor-Eichmann-Straße und Bauseweinallee
+- TOP 13.6.: Ausschuss für Stadtplanung und Bauordnung vom 19.07.06 - Boden- und Bauschutt Recycling-Anlagen und Bodenbörsen in München a) Standortprüfungen b) Anträge
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Stadtwerke München GmbH - Baumaßnahmen der Stadtwerke München; Stichtage: 03.07.06, 10.07.06
+- TOP 14.2.: Direktorium - Zuwendungen aus Budgetmitteln des BA 21, hier: Antragsteller Kath. Kirchenstiftung Maria Schutz; Bewilligungsbescheid
+- TOP 14.3.: Referat für Stadtplanung und Bauordnung - Vollzug der Baumschutzverordnung; Apfelallee 19, Bescheid der Unteren Naturschutzbehörde vom 03.07.06 - ICE-Anbindung München-Pasing - Augsburg (BA-Antrag Nr. 916 vom 07.02.06) - Verkehrszahlen nach Ringschluss A 99 West (BA-Schreiben vom 03.05.06)
+- TOP 14.4.: Kulturreferat - Veranstaltungen / Kooperationen im Juli 2006
+- TOP 14.5.: Kreisverwaltungsreferat - Haltverbot in der Maierhofstraße 17 - 19 (BA-Antrag Nr. 992 vom 07.03.06) - Straßenfest der Pasinger Fabrik GmbH am 15.07.06 auf dem Wensauerplatz; Erlaubnisbescheid - Baumaßnahmen auf dem Grundstück Dr.-Blaich-Straße 5 - 7 - Benefizlauf am 21.07.06 mit Münchner Schülerinnen und Schüler im Blutenburgpark; Erlaubnisbescheid
+- TOP 14.6.: Referat für Gesundheit und Umwelt - Überprüfung der von der Mobilfunksendeanlage auf dem Gebäude Landsberger Straße 495 ausgehenden Strahlenbelastung; Antrag aus der Einwohnerversammlung zum Thema "Mobilfunk / Sendeanlage am Standort Verdistraße 109 (BA-Antrag Nr. 1245 vom 30.05.06) - Boden- und Bauschutt Recycling-Anlagen und Bodenbörsen in München, hier: Bergsonstraße 115, ehemaliges Strassergelände (BA-Schreiben vom 16.06.06)
+- TOP 14.7.: Baureferat - Josephine-Lang-Weg, Restherstellung - Sommerfest der Kleingartenanlage SW 15 am 29./30.07.2006; Ausnahmebewilligung nach der Grünanlagensatzung
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: Gemeinsames Schreiben von Münchner Stadtbibliothek Pasing, Münchner Volkshochschule-Stadtbereich West, Pasinger Fabrik, Kulturforum München-West e.V., BA 21 Unterausschuss Kultur / Heimatpflege - Projekt "Kultur im Stadtquartier", Pasinger Stadtteiltage 2007; Runder Tisch-Gespräch am 26.07.06 vom 18 bis 21 Uhr in der Münchner Volkshochschule, Bäckerstraße 14
+- TOP 14.2.: Bayerisches Rotes Kreuz, Kreisverband München - Parkplatz am Bahnhof München-Pasing
+- TOP 14.3.: Autobahndirektion Südbayern - Bundesautobahn A 8 / West München - Stuttgart; Kreuzu München - West; Abzweigziele "Garmisch-Partenkrichen" und "München-Süd"
+- TOP 14.4.: Münchner Lehrer- und Lehrerinnenverband e.V. - Schulsozialarbeit in München
+- TOP 14.5.: BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln - Schülerprojekt "Bevölkerungsentwicklung im Stadtbezirk 19"
+- TOP 14.6.: Scherer Hausverwaltung - Bauseweinallee 8 / Verdistraße; Rücknahme des Antrags auf Vorbescheid
+- TOP 15.: Verschiedenes
+- TOP 15.1.: Nächste BA-Sitzungen am 12.09.06 um 19.00 Uhr im Alten- und Service-Zentrum Obermenzing , Packenreiterstraße 48 sowie am 10.10.06 um 19.00 Uhr im Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Straße 486
