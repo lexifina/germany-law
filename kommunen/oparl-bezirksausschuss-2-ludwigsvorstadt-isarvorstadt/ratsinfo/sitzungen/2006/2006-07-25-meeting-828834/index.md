@@ -1,0 +1,75 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2006-07-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/828834
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/828834
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Präsentation Parkraummanagement durch das Planungsreferat
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Fahrbare Toiletten auf Kinderspeilplätzen
+- TOP .2.1.: BA-Budget
+- TOP .1.: Zuschuss aus dem BA-Budget an die GS Klenzestraße für die Maßnahme "Dreimonatiges Tanzprojekt"
+- TOP .2.: Zuschuss aus dem BA-Budget an Refugio München für die Kunstwerkstattgruppe für Flüchtlingskinder
+- TOP .3.: Zuschuss aus dem BA-Budget an das Bürgerhaus Glockenbachwerkstatt für den Schlachthof-/Glockenbachcup
+- TOP .4.: Zuschuss aus dem BA-Budget an die kath. Bahnhofsmission für die Anschaffung von Kühlschränken
+- TOP .2.2.: Kultur
+- TOP .1.: Förderung freier Träger durch das Stadtjugendamt: Projekt Nachbarschaft Westermühlbach
+- TOP .5.1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .1.: Geruchsbelästigung Schlacht- und Viehhof
+- TOP .3.1.: Bauvorhaben
+- TOP .1.: Schützenstr. 8, Nutzungsänderung: Räume der Tanzschule zu Versammlungsstätten
+- TOP .2.: Reifenstuelstr. 13, Umbau und Sanierung
+- TOP .3.: Schillerstr. 28, Nutzungsänderung Druckerei / Gewerbeflächen in Boardinghouse - Vorbescheid
+- TOP .4.: Bayerstr. 21, Umbau eines Büro- und Geschäftsgebäudes
+- TOP .5.: Rumfordstr. 6, Nutzungsänderung eines Friseurladens in ein Tagescafé, Erweiterung eines Tagescafés
+- TOP .6.: Bavariaring 49, Aufstellung von 10 beleuchteten und beklebten Großflächentafeln als Bauzaun
+- TOP .7.: Maistr. 43, Umbau und Generalsanierung eines Bürogebäudes zu einem Wohngebäude (Maistr. 43-47)
+- TOP .8.: Arndtstr. 5, Umbau eines Wohnhauses mit Errichtung eines Holzdecks
+- TOP .9.: Schmellerstr. 22, DG-Umbau und Einbau eines außenliegenden Personenaufzuges
+- TOP .3.3: Sonstige
+- TOP .1.: Lichtzeichenanlagen-Bauprogramm für 2007
+- TOP .1.: Erneuerung der Jahnstraße zwischen Westermühl- und Ickstattstraße
+- TOP .5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP .1.: Verkürzung der Hotelanfahrt für "Le Meridien", Bayerstraße
+- TOP .3.1.: Sperrzeit-Angelegenheiten
+- TOP .3.2.: Freischankflächen
+- TOP .1.: Erlaubnisfreie Gaststätte "Hit-Imbiss", Lindwurmstr. 7 (Neuantrag mit Pflanzgefäßen)
+- TOP .2.: Ristorante "Ca' Doro", Bayerstr. 31 (Betriebszeitverlängerung 06.00 - 03.00 Uhr)
+- TOP .3.: Internet-Café "M1", Sendlinger-Tor-Pl. 5
+- TOP .3.3.: Warenstellagen
+- TOP .3.4.: Verkehr
+- TOP .1.: Radwegbenutzungspflicht Thalkirchner Straße
+- TOP .2.: Einrichtung einer Hotelanfahrtszone (ca. 16 m) in der BAyerstraße, Höhe Haus Nr. 47
+- TOP .1.: Konzert anlässlich der Einweihung des neugestalteten Gärtnerplatzes am 17.09.2006
+- TOP .1.: Kombitickets für alle Veranstaltungen auf der Theresienwiese; Beschlussvorlage zur Behandlung einer BV-Empfehlung
+- TOP .2.: Nutzung der Theresienwiese; Anfrage für die Veranstaltung "Afrika-Tage 2007" vom 17. - 20.05.2006
+- TOP .3.7: Baumfällungen
+- TOP .1.: Hans-Sachs-Straßenfest am 19.08.2006
+- TOP .2.: Fahrradtour "M-Radelt" am 05.08.2006
+- TOP .3.: Kaiser-Ludwig-Platz 2, Fällung von 3 Bäumen
+- TOP .1.: Gehwegbenutzung durch Radfahrer im Glockenbachviertel
+- TOP .2.: BA-Ausflug ins Mangfalltal
+- TOP .3.: Termin für Wiesn-Besuch
+- TOP .5.1: Berichte der Beauftragten ( AK Theresienwiese)
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP .3.2.: Berichte aus den anderen BA
+- TOP .3.3.: Bericht des Internetbeauftragten
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Infos)
+- TOP .2.: Veranstaltungen
