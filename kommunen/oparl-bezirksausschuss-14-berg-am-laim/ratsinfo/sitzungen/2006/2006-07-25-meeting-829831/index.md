@@ -1,0 +1,85 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2006-07-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/829831
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/829831
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Beschlussentwurf zur Bürgerversammlungsempfehlung Nr. 336 vom 09.03.2006 - Erhaltung der Bepflanzung an der ehemaligen Baumschule - Berücksichtigung alters- und behindertengerechter Wohnformen
+- TOP 3.2.: Kultfabrik, Grafinger Str. 6, Umbau Werk 2, Tektur ? Verlängerung bis 31.12.2010
+- TOP 3.3.: Verlängerung der Einrichtungen im Umgriff von ROst ? Stellungnahme BA 14
+- TOP 3.4.: Friedenstraße 22b ? Nutzungsänderung einer Werkstatt mit Büro in einen Spiel- und Lernpark für Kinder (befristet bis zum 31.12.2016)
+- TOP 3.1.: Beschilderung ?Kindergarten? im Berlingerweg
+- TOP 3.2.: Verkehrsgefährdendes Parken an der Truderinger Straße, Ecke Schwanhildenweg
+- TOP 3.3.: Lichtzeichenanlagen ? Bauprogramm für 2007
+- TOP 3.1.: Verwendung der Einnahmen durch die Verpachtung der ?Krautgärten?
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Schulsozialarbeit in Berg am Laim
+- TOP 3.2.: Erweiterung der Grundschule an der Grafinger Straße 71
+- TOP 3.3.: Unterstützung eines zentralen Spiel- und Lernparks in der Friedenstraße
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget ? Bürgerkreis Berg am Laim
+- TOP 3.2.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget ? ESV München Ost e.V.
+- TOP 3.3.: Antrag auf Gewährung e. Zuschusses a.d. BA-Budget ? Elternbeirat Berg-am-Laim-Schule
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Pilotprojekt ?Fit für die Übergabe? ? Eine Chance für Traditionsgeschäfte
+- TOP 3.1.: Kranzhornstraße 5 - 7 ? Antrag auf Baumfällung
+- TOP 3.2.: Kraiburger Straße 20 ? Antrag auf Baumfällung
+- TOP 3.3.: Hohenbrunner Str. 33 - Antrag auf Baumfällung
+- TOP 3.4.: Risserkogelstr. 9 - Antrag auf Baumfällung
+- TOP 3.5.: Sonnwendjochstr. 61 - Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtungen über Bauvorhaben
+- TOP 4.1.: Anmerkungen des AAN zum Leistungsprogramm 2007 der MVG
+- TOP 4.2.: Verkehrliche Maßnahmen für die Veranstaltungen ?2. Münchner Triathlon?
+- TOP 4.3.: Leistungsprogramm der MVG für die Fahrplanperiode 2007
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Errichtung einer Kindertagesstätte mit 2 Kindergartengruppen an der Thomas-Hauser-Str.- Schreiben des BA 15 ? Trudering-Riem
+- TOP 4.2.: Investitionsprogramm für städtische Freisportanlagen Modifizierung der Prioritätenliste zur Sanierung städtischer Freisportanlagen Antrag Nr. 2806 von StRin Diana Stachowitz und StRin Brigitte Meier v. 19.12.2005
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe
+- TOP 4.2.: Stellungnahmen der Bezirksausschüsse zu den Beschlussvorschlägen zu den Anträgen Bericht über REGSAM Antrag Nr. 02-08 / A 02420 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 25.04.05 Bleibt REGSAM ein Erfolgsmodell? Antrag Nr. 02-08 / A 02434 v. StRin Angelika Gebhardt u. StRin Brigitte Meier v. 03.05.05
+- TOP 4.1.: Kindertagesstätte St. Michael - Bescheid über Zuwendung aus dem BA-Budget
+- TOP 4.2.: Kindertreff Zeugnerhof - Bescheid über Zuwendung aus dem BA-Budget
+- TOP 4.3.: Maibaumverein - Bescheid über Zuwendung aus dem BA-Budget
+- TOP 4.4.: ESV München Ost - Zwischennachricht über Zuwendung aus dem BA-Budget
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Antrag auf unveränderte Fortführung einer Gaststätte in der St.-Veit-Straße
+- TOP 4.2.: Antrag auf unveränderte Fortführung einer Gaststätte in der Grafinger Straße
+- TOP 4.3.: Rohrkanalsanierung Streitfeldstraße
+- TOP 4.4.: ISPO-Inline Marathon am 16.07.2006 ? Antwortschreiben KVR, Genehmigungsbescheid
+- TOP 4.1.: Baumfällgenehmigung in der Neumarkter Straße
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
