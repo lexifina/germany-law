@@ -1,0 +1,58 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2006-07-31T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/817633
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/817633
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.1.: Gesamtkonzept der zukünftigen Fernwärmeprojekte in und durch Sendling; Marketingstrategie der Stadtwerke - Versorgungs GmbH
+- TOP 2.2.: Fernwärmebauvorhaben Demleitnerstraße 9, Karwendelstraße 10
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Konzept für eine Kinder- und Jugendbezirksausschusssitzung
+- TOP 4.: Schulreferat
+- TOP 4.1.: Nutzungskonzept Bezirkssportanlage Dietramszeller Straße 9; Protokoll des zweiten Runden Tisches
+- TOP 5.1.: Freischankfläche Lindwurmstraße 179
+- TOP 5.2.: Freischankfläche Oberländerstraße 31
+- TOP 6.1.: Verkehrssituation Bleyerstraße; Anordnung eines Parkverbots für Wohnwägen sowie Errichtung einer Kurzparkzone
+- TOP 6.2.: Vorbotswidriges Gehwegparken vor dem Minimal-Markt in der Aberlestraße
+- TOP 6.3.: Leistungsprogramm der MVG für die Fahrplanperiode 2007
+- TOP 7.1.: 850. Stadtgeburtstag der Landeshauptstadt München im Jahr 2008
+- TOP 7.2.: Oktoberfest 2006; Reservierung der Ratsboxe
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Lenggrieser Str. 16; Wohnhaus mit Tiefgarage
+- TOP 8.3.: Bauvorhaben Plinganserstraße 32; Nutzungsänderung Bank zu Wettannahmebüro
+- TOP 8.4.: Bauvorhaben Thalkirchner Straße 190
+- TOP 8.5.: Bauvorhaben Dietramszeller Straße 15; Errichtung einer Traglufthalle
+- TOP 8.6.: Bauvorhaben Kidlerstraße 18
+- TOP 8.7.: Werbeanlage Heckenstallerstraße
+- TOP 8.8.: Werbeanlage Baumgartnerstraße
+- TOP 8.9.: Bauvorhaben Gotzinger Straße 56; Antwortschreiben der LBK
+- TOP 8.10.: Bauvorhaben Königsdorfer Straße; Neubau eines Parkhauses und einer Wohnanlage mit Kooperationseinrichtung, zwei Altenwohngemeinschaften und Tiefgarage
+- TOP 8.11.: Sozialgerechte Bodennutzung
+- TOP 9.: Baureferat
+- TOP 9.1.: Isar-Plan
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen Bauvorhaben Lenggrieser Straße 16
+- TOP 10.2.: Baumfällungen Bauvorhaben Thalkirchner Straße 190
+- TOP 10.3.: Baumfällungen Bauvorhaben Königsdorfer Straße
+- TOP 10.4.: Baumfällung Ramungstraße 17
+- TOP 10.5.: Baumfällung Flößergasse 9a; eine Tanne
+- TOP 10.6.: Baumfällungen Bauvorhaben Schaftlachstraße 8
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Barrierefreie Zugänglichkeit bei BA-Sitzungen; Sitzungsraum des BA im Gebäude Implerstraße 9
+- TOP 13.2.: Philip Morris GmbH; Produktionsstandort München
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
