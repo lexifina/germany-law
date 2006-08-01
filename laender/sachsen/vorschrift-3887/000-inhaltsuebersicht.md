@@ -26,19 +26,19 @@ Abschnitt 3 Unterrichtsorganisation
 Abschnitt 4 Unterrichtsinhalte
 § 22 Pflicht- und Wahlpflichtbereich
 § 23 Förderpädagogische Maßnahmen
-Abschnitt 5 Ermittlung und Bewertung von Leistungen,Betragen, Fleiß, Mitarbeit und Ordnung
+Abschnitt 5 Ermittlung und Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
 § 24 Grundlagen der Leistungsbewertung
 § 25 Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
-§ 26 Klassenarbeiten und Kurzkontrollen
+§ 26 Klassenarbeiten, Kurzkontrollen und Komplexe Leistungen
 § 27 Hausaufgaben
 § 28 Halbjahresinformationen und Halbjahreszeugnisse
 § 29 Zeugnisse
-Abschnitt 6 Versetzung, Wiederholung,Verlängerung der Schulbesuchsdauer
+Abschnitt 6 Versetzung, Wiederholung, Verlängerung der Schulbesuchsdauer
 § 30 Versetzungsbestimmungen und freiwillige Wiederholung
 § 31 Mehrmalige Nichtversetzung
 § 32 Freiwillige Verlängerung des Schulbesuchs und Höchstverweildauer
-Abschnitt 7 Abschlussprüfungen und Erwerb des Hauptschulabschlusses an der Schule zur Lernförderung
-§ 33 Abschlussprüfungen
+Abschnitt 7 Erwerb des Realschulabschlusses, des Hauptschulabschlusses und des qualifizierenden Hauptschulabschlusses
+§ 33 Abschlussprüfungen und besondere Leistungsfeststellungen
 § 34 Erwerb des Hauptschulabschlusses an der Schule zur Lernförderung
 Abschnitt 8 Schlussvorschrift
 § 35 In-Kraft-Treten und Außer-Kraft-Treten
