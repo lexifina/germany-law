@@ -5,7 +5,7 @@ Abschnitt 1 Allgemeines
 Abschnitt 2 Schuleingangsphase und Schulwechsel
 § 3 Anmeldung
 § 4 Aufnahme und Zurückstellung
-§ 5 Gestaltung der Schuleingangsphase
+§ 5 Schuleingangsphase
 § 6 Schulwechsel und Bildungsberatung
 Abschnitt 3 Unterrichtsorganisation
 § 7 Klassen- und Gruppenbildung
@@ -16,10 +16,11 @@ Abschnitt 4 Unterricht
 § 11 Pflichtunterricht
 § 12 Zusätzliche schulische Veranstaltungen
 § 13 Förderunterricht
-Abschnitt 5 Ermittlung und Bewertung von Leistungen,Betragen, Fleiß, Mitarbeit und Ordnung
+§ 13a LRS-Klassen
+Abschnitt 5 Ermittlung und Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
 § 14 Grundlagen der Leistungsbewertung
 § 15 Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
-§ 16 Klassenarbeiten und Kurzkontrollen
+§ 16 Klassenarbeiten, Kurzkontrollen und Komplexe Leistungen
 § 17 Hausaufgaben
 § 18 Täuschungen
 § 19 Halbjahresinformationen
