@@ -1,10 +1,12 @@
-# § 71 b
-(1) Der Senat wird ermächtigt, durch Rechtsverordnung zu bestimmen, dass Beamten mit Dienstbezügen Altersteilzeit nach Maßgabe des Absatzes 2 gewährt werden kann. Dabei kann die Gewährung von Altersteilzeit nach Absatz 2 für einzelne Verwaltungsbereiche ausgeschlossen oder auf einzelne Verwaltungsbereiche beschränkt werden, wenn dies zur Wahrung der Funktionsfähigkeit einzelner Verwaltungsbereiche oder zur Einhaltung der im Haushalt einer Produktgruppe festgelegten Finanz-, Personal- oder Leistungsziele oder bei Betrieben nach § 26 der Landeshaushaltsordnung für das Erreichen der Betriebsziele und die Einhaltung des Wirtschaftsplans erforderlich ist. Dabei kann auch bestimmt werden, dass in einzelnen Verwaltungsbereichen Altersteilzeit nach Absatz 2 nur gewährt werden kann, wenn dadurch im Einzelfall die Funktionsfähigkeit des Verwaltungsbereichs oder die Einhaltung der im Haushalt einer Produktgruppe festgelegten Finanz-, Personal- oder Leistungsziele oder bei Betrieben nach § 26 der Landeshaushaltsordnung das Erreichen der Betriebsziele und die Einhaltung des Wirtschaftsplans nicht gefährdet wird. Für den Bereich der Stadtgemeinde Bremerhaven trifft der Magistrat die Bestimmungen nach Satz 2 und 3.
-(2) Im Rahmen des Absatzes 1 kann Beamten mit Dienstbezügen auf Antrag, der sich auf die Zeit bis zum Beginn des Ruhestandes erstrecken muss, Teilzeitbeschäftigung als Altersteilzeit mit der Hälfte der bisherigen Arbeitszeit, höchstens der Hälfte der in den letzten zwei Jahren vor Beginn der Altersteilzeit durchschnittlich zu leistenden Arbeitszeit, bewilligt werden, wenn
-1. sie das 55. Lebensjahr vollendet haben,
-2. sie in den letzten fünf Jahren vor Beginn der Altersteilzeit drei Jahre mindestens teilzeitbeschäftigt waren,
-3. die Altersteilzeit vor dem 1. Januar 2010 beginnt und
-4. dringende dienstliche Belange nicht entgegenstehen.
-Altersteilzeit mit weniger als der Hälfte der regelmäßigen Arbeitszeit soll nur bewilligt werden, wenn die Zeiten der Freistellung von der Arbeit in der Weise zusammengefasst werden, dass der Beamte zuvor mit mindestens der Hälfte der regelmäßigen Arbeitszeit, im Fall des § 71 a Abs. 5 mindestens im Umfang der bisherigen Teilzeitbeschäftigung, Dienst leistet; dabei bleiben geringfügige Unterschreitungen des notwendigen Umfangs der Arbeitszeit außer Betracht.
-(3) § 71 a Abs. 2 gilt entsprechend.
-(4) Die Regelung des Absatzes 2 findet auf Professoren keine Anwendung.
+# § 71b
+(1) Beamten mit Dienstbezügen kann auf Antrag, der sich auf die Zeit bis zum Beginn des Ruhestands erstrecken muss, Teilzeitbeschäftigung als Altersteilzeit mit 60 vom Hundert der bisherigen Arbeitszeit, höchstens 60 vom Hundert der in den letzten zwei Jahren vor Beginn der Altersteilzeit durchschnittlich zu leistenden Arbeitszeit, bewilligt werden, wenn
+1. sie das 60. Lebensjahr vollendet haben,
+2. der Beamte in den letzten fünf Jahren vor Beginn der Altersteilzeit drei Jahre mindestens teilzeitbeschäftigt war,
+3. die Altersteilzeit vor dem 1. Januar 2010 beginnt,
+4. der Beamte einem Verwaltungsbereich, in dem der Senat, für den Bereich der Stadtgemeinde Bremerhaven der Magistrat, durch Beschluss Personalüberhänge festgestellt hat, angehört und
+5. dringende dienstliche Belange nicht entgegenstehen.
+Schwerbehinderten Beamten im Sinne von § 2 Abs. 2 des Neunten Buches Sozialgesetzbuch kann abweichend von Nr. 1 Altersteilzeit schon ab Vollendung des 58. Lebensjahres bewilligt werden.
+(2) Die Gewährung von Altersteilzeit dient allein öffentlichen Interessen.
+(3) Altersteilzeit kann auch in der Weise bewilligt werden, dass der Beamte die bis zum Beginn des Ruhestandes zu erbringende Dienstleistung vollständig vorab leistet und anschließend voll vom Dienst freigestellt wird (Blockmodell). Die oberste Dienstbehörde kann allgemein oder für bestimmte Verwaltungsbereiche oder Beamtengruppen vorschreiben, dass Altersteilzeit nur im Blockmodell bewilligt werden darf. Altersteilzeit mit weniger als der Hälfte der regelmäßigen Arbeitszeit soll nur im Blockmodell bewilligt werden; dabei muss der Beamte in der Phase der vorab zu erbringenden Dienstleistung mit mindestens der Hälfte der regelmäßigen Arbeitszeit, im Fall des § 71a Abs. 5 im Umfang der bisherigen Teilzeitbeschäftigung, Dienst leisten; dabei bleiben geringfügige Unterschreitungen des notwendigen Umfangs der Arbeitszeit außer Betracht.
+(4) § 71a Abs. 2 gilt entsprechend.
+(5) Die Regelung des Absatzes 1 findet auf Professoren keine Anwendung.
