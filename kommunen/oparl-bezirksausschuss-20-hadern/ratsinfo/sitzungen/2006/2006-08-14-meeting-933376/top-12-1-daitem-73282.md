@@ -1,0 +1,7 @@
+# TOP 12.1.: Beschluss des Schulausschusses vom 18.07.2006: Satzung über den Besuch der Kooperationseinrichtungen und Kindertagesstätten der Landeshauptstadt München (Kooperationseinrichtungs- und Kindertagesstättensatzung); Satzung über den Besuch der Tagesheime der Landeshauptstadt München (Tagesheimsatzung); Satzung der Landeshauptstadt München über die Gebühren für den Besuch der städtischen Kinderkrippen, Kindertageszentren, Kooperationseinrichtungen, Kindertagesstätten und Tagesheime (Kindertageseinrichtungsgebührensatzung); Satzung über die Gebühren für die Schulmensa im Schulzentrum Perlach-Nord der Landeshauptstadt München (Schulmensagebührensatzung); Satzung über die Gebühren für den Besuch der städtischen Will-Brand-Gesamtschule München; Keine Gebührenerhöhung bei Kindertageseinrichtungen, Kindergartenfreibeträge bei Gebühren für städtische Kindertagesstätten erhöhen; Kostenloses und verpflichtendes Kindergartenjahr - Kostenloser Kindergartenbesuch; Keine weiteren Gebührenerhöhungen für die städtischen Kindertgesstätten im neuen "5-Jahres-Sparplan" für die Jahre 2007 - 2011; Altersbeschränkung bei Kindergartenanmeldungen.
+
+- Sitzung: BA 20 - Vollgremium (2006-08-14)
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/73282
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/73282
