@@ -1,0 +1,80 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2006-08-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/933376
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/933376
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehrssituation auf der Waldwiesenstraße
+- TOP 1.2.: Zaun zwischen Kindergarten "Erscheinung des Herrn" und Treff 21
+- TOP 1.3.: Verkehrskonzept für das "Blumenviertel"
+- TOP 1.4.: Haderner Krautgarten
+- TOP 1.5.: Wochenendflüge Propellermaschinen über Großhadern
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Waldklausenweg 29a, 1 Fichte
+- TOP 3.2.: Windeckstr. 51, 1 Robinie
+- TOP 3.3.: Auf der Vogelwiese Fl.Nr. 351/50, 3 Wildkirschen, 1 Walnuss, 1 Haselnuss
+- TOP 3.4.: Ludlstr. 45, 1 Scheinakazien
+- TOP 3.5.: Ringstr. 30, 1 Birke
+- TOP 3.6.: Hohenklingenstr. 9, 1 Zypresse
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Waldgartenstr. 84A, 1 Ahorn (Baureferat, 21.06.2006)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: UA Jugend/Soziales (Ortstermin Bolzplatz Stiftsbogen/Wolkerweg am 06.06.2006)
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag der Pfadfinderschaft Grenzland auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 4.741,22 Euro (Direktorium, 28.06.2006)
+- TOP 6.2.: Antrag der Spielkiste Blumenau e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 257,90 Euro (Direktorium, 19.07.2006)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Zweckentfremdung von Wohnraum - Am Wiesenbach (Sozialreferat, 05.07.2006) - Würmtalstr. (Sozialreferat, 13.07.2006) - Eichenstr. (Sozialreferat, 18.07.2006)
+- TOP 7.2.: Personenbezogener Sonderparkplatz im Bereich Karl-Witthalm-Straße (KVR, 10.07.2006)
+- TOP 7.3.: Unveränderte Fortführung der Gaststätte "Trinkstüberl", Hönigschmidplatz 7 (KVR, 18.07.2006)
+- TOP 7.4.: Änderung im Fililnet der Deutschen Post (Deutsche Post, 14.07.2006)
+- TOP 7.5.: Neueinrichtung eines Gaststättenbetriebes "Baustellenkantine" an der Baustelle Studentenwerk München (KVR, 19.07.2006)
+- TOP 7.6.: Fest junger Erwachsener, Ergebnis der Besprechung vom 17.07.2006 (Direktorium, 24.07.2006)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Erinnerungsverfahren, Fürstenrieder Str. 266 - 270 (Baureferat, 30.06.2006
+- TOP 8.2.: Errichtung eines personenbezogenen Behindertenparkplatzes im Hans-Grässel-Weg 7 a (KVR, 14.07.2006)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Stromablesung in großen Wohnanlagen (SWM, 04.07.2006)
+- TOP 9.2.: Straßenbegleitgrün an der Heiglhofstraße (Baureferat, 10.07.2006)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Eine Chance für Traditionsgeschäfte - Pilotprojekt "Fit für die Übergabe" (GAB München, 26.06.2006)
+- TOP 11.2.: Schülerprojekt "Bevölkerungsentwicklung Stadtbezirk 19 (BA 19, 10.07.2006)
+- TOP 11.3.: Lebensmittelstandort im 20. Stadtbezirk (REWE, 21.07.2006)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: am 26.07.2006: A. Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 10.12.1997 (Sozialgerechte Bodennutzung) und 21.03.2001 (Soziales Wohnungsbauprogramm) Anpassung der Verfahrensgrundsätze "Sozialgerechte Bodennutzung" vom 10.12.1997 B. Aktualisierung der Beiträge zuir Sozialgerechten Bodennutzung
+- TOP 12.1.: Beschluss des Sportausschusses des Stadtrates vom 04.07.2006: Investitionspgrogramm für städtische Freisportanlagen Modifiezierung der Prioritätenliste Prioritätenliste zur Sanierung städtischer Freisportanlagen weiterentwickeln, Antrag Nr. 2806 von Frau STRin Stachowitz und Frau STRin Meier vom 19.12.2005
+- TOP 12.2.: Beschluss des Sozialausschusses vom 22.06.2006: Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe
+- TOP 12.3.: Beschluss des Sozialausschusses vom 06.07.2006: Bericht über REGSAM; Bleibt REGSAM ein Erfolgsmodell?
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 22.06.2006: Mehrjahresinvestitionsprogramm (MIP) 2006 - 2010 1. Investitionsmaßnahmen für Schulen und Kindertagesstätten 2. Dissens 3. Verfahrenstechnische Neuerungen 4. Stellungnahmen der Bezirksausschüsse
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.06.2006: Handlungsprogramm Mittlerer Ring 2001 - 2005 a) 4. Sachstandsbericht für die Jahre 2004 und 2005 b) Ergebnisse der Beratungen des Konsiliums und Ausblick c) Anträge und Empfehlungen
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses vom 22.06.2006: Entwurf des Mehrjahresinvestitionsprogramm (MIP) 2006 - 2010 Einzelplan 4 / Jugendamtsbereich
+- TOP 12.4.: Beschluss des Schulausschusses mit dem Kinder und Jugendhifeausschusses am 18.07.2006: Satzung über den Besuch der Kooperationseinsrichtungen und Kindertagesstätten der LHM (Kooperationseinrichtungs- und Kindertagesstättensatzung) Satzung über den Besuch der Tagesheime der LHM (Tagesheimsatzung) Satzung der Landeshauptstadt MÜnchen über die Gebühren für den Besuch der städtischen Kinderkrippen, Kindertageszentren, Kooperationseinrichtungen, Kindertagesstätten und Tagesheime (Kindertageseinrichtungsgebührensatzung) Satzung über die Gebühren für die Schulmensa im Schulzentrum Perlach-Nord der LHM (Schulmensagebührensatzung) Satzung über die Gebühren für den Besuch der Städtischen Willy-Brandt-Gesamtschule München (Keine weiteren Gebührenerhöhungen für die städtischen Kindertagesstätten im neuen "5-Jahres-Sparplan" für die Jahre 2007 - 2011
+- TOP 12.5.: Keine weiteren Gebührenerhöhungen für die städtischen Kindertagesstätten im neuen "5-Jahres-Sparplan" für die Jahre 2007 - 2011
+- TOP 12.1.: Beschluss des Schulausschusses vom 18.07.2006: Satzung über den Besuch der Kooperationseinrichtungen und Kindertagesstätten der Landeshauptstadt München (Kooperationseinrichtungs- und Kindertagesstättensatzung); Satzung über den Besuch der Tagesheime der Landeshauptstadt München (Tagesheimsatzung); Satzung der Landeshauptstadt München über die Gebühren für den Besuch der städtischen Kinderkrippen, Kindertageszentren, Kooperationseinrichtungen, Kindertagesstätten und Tagesheime (Kindertageseinrichtungsgebührensatzung); Satzung über die Gebühren für die Schulmensa im Schulzentrum Perlach-Nord der Landeshauptstadt München (Schulmensagebührensatzung); Satzung über die Gebühren für den Besuch der städtischen Will-Brand-Gesamtschule München; Keine Gebührenerhöhung bei Kindertageseinrichtungen, Kindergartenfreibeträge bei Gebühren für städtische Kindertagesstätten erhöhen; Kostenloses und verpflichtendes Kindergartenjahr - Kostenloser Kindergartenbesuch; Keine weiteren Gebührenerhöhungen für die städtischen Kindertgesstätten im neuen "5-Jahres-Sparplan" für die Jahre 2007 - 2011; Altersbeschränkung bei Kindergartenanmeldungen.
+- TOP 12.2.: Beschluss des Ausschusses für Arbeit und Wirtschaft am 18.07.2006: Leistungsprogramm der MVG für die Fahrplanperiode 2007
+- TOP 12.3.: Keine weiteren Erhöhungen des MVV-Ausbildungstarifs und der Kinderstreifenkarte
+- TOP 12.4.: Bekanntgaben
+- TOP 12.5.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.06.2006: "München macht Raum für Familien. Familiengerechte Planung und Gestaltung öffentlicher Räume" Beitrag der Stadt München zum 7. Familienbericht der Bundesregierung
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
