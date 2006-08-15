@@ -1,0 +1,53 @@
+# 18. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-08-15T17:07:00+02:00
+- Ende: 2006-08-15T19:18:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5504
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5504
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00235853.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erford
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Gewährung von Zuschüssen an örtliche Vereine, Verbände und sonstige Vereinigungen - einstimmig beschlossen
+- TOP 4.2: Informationstafel "Berliner Bär" - einstimmig geändert beschlossen
+- TOP 4.3: Straßenbenennung An der Germania Brauerei - vertagt
+- TOP 4.4: Von-Velen-Weg - einstimmig beschlossen
+- TOP 4.5: Westlich Prins-Claus-Kazerne - einstimmig beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: Sendsatzung der Stadt Münster - einstimmig beschlossen
+- TOP 5.2: Erweiterung der Hansaschule, Berufskolleg der Stadt Münster, Hansaring 80, 48155 Münster - einstimmig beschlossen
+- TOP 5.3: Kindertagesbetreuungsbericht 2006 - einstimmig beschlossen
+- TOP 5.4: Sportstättenbau der Mitgliedsvereine des Stadtsportbund Münster e. V. - einstimmig beschlossen
+- TOP 5.5: Fahrplanmaßnahmen 2007 - einstimmig beschlossen
+- TOP 5.6: Schulstraße - Auslobung zum Landeswettbewerb 2006 - einstimmig beschlossen
+- TOP 5.7: Bebauungsplan Nr. 242 - Aufhebung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 5.8: 5. Änderung des Bebauungsplanes Nr. 401: Stadthafen I / Albersloher Weg - einstimmig beschlossen
+- TOP 5.9: Aufhebung des Bebauungsplanes Nr. 452: Tiefgarage Ludgeriplatz - einstimmig beschlossen
+- TOP 5.10: Vorhabenbezogener Bebauungsplan Nr. 501 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 5.11: 20. Änderung des fortgeschriebenen Flächennutzungsplanes für den Bereich westlich Salzmannstraße - einstimmig beschlossen
+- TOP 5.12: Vorhabenbezogener Bebauungsplan Nr. 502: westlich Salzmannstraße / nördlich Meßkamp - einstimmig beschlossen
+- TOP 5.13: Landschaftsplan Roxeler Riedel - von der Tagesordnung abgesetzt
+- TOP 6: Berichte
+- TOP 6.1: Einführung des gebührenfreien Kurzzeitparkens - "Brötchentaste" - zur Kenntnis genommen
+- TOP 6.2: Sachstand City-Projekt "Stubengasse + Umfeld" - zur Kenntnis genommen
+- TOP 6.3: Entwicklungen im stationären Dienstleistungsangebot der Post/DHL - zur Kenntnis genommen
+- TOP 6.4: Vorhabenbezogener Bebauungsplan Nr. 502: westlich Salzmannstraße / nördlich Meßkamp - zur Kenntnis genommen
+- TOP 7: Anträge
+- TOP 7.1: Sanierung Pardo-Pier im Aasee - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Innenstadtnaher Aufstellplatz für Wohnmobil-Touristen - vertagt
+- TOP 8.2: Behindertenrampe am Durchgang zwischen Klemensstraße und Platz des Westfälischen Friedens optimieren - zur Kenntnis genommen
+- TOP 8.3: Kinderbriefkasten vor dem Stadthaus 1 - zur Kenntnis genommen
+- TOP 8.4: Behindertenrampe auf dem Platz des Westfälischen Friedens zur Chilida-Plastik - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
