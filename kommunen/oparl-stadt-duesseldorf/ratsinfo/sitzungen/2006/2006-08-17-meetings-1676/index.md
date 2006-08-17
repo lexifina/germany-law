@@ -1,0 +1,63 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-08-17T16:00:00+02:00
+- Ende: 2006-08-17T19:05:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1676
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1676
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111670.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111670.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111670.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift vom 01.06.2006 - zur Kenntnis genommen
+- TOP 3: FNP 126-In den Kötten-Auf.AbsÖB.BerBBöA
+- TOP 4: Bundeswettbewerb Entente Florale - Eine Stadt blüh - zur Kenntnis genommen
+- TOP 5: Gumbertstraße 178 und 178a-f - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Rathaus Eller - Gedenktafel - einstimmig beschlossen
+- TOP 9: Spielplätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 10: Grundwassersanierung Vennhauser Allee 242 - zur Kenntnis genommen
+- TOP 11: Verkehrssicherheit im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 12: Sanierungs-Maßnahme Ronsdorfer Straße - zur Kenntnis genommen
+- TOP 13: Kanalbaumaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 14: Wasserspielplatz Tannenhofweg - zur Kenntnis genommen
+- TOP 15: Einsatz des OSD am 11.07.2006 - zur Kenntnis genommen
+- TOP 16: Gertrudisplatz - Polleranlage - zur Kenntnis genommen
+- TOP 17: Am Bermeshau - zur Kenntnis genommen
+- TOP 18: Vennhauser Allee - Geschwindigkeitskontrollen - zur Kenntnis genommen
+- TOP 19: Kuthsweg - Begrünung Gleiskörper - zur Kenntnis genommen
+- TOP 20: Grünfläche am Hasseler Richtweg - einstimmig beschlossen
+- TOP 21: Geschwindigkeitskontrolle Am Stammesberg - einstimmig beschlossen
+- TOP 22: Schadstoffmobil in Unterbach - einstimmig beschlossen
+- TOP 23: Gestaltung Grünanlage Schlesische Straße - einstimmig beschlossen
+- TOP 24: Lesbarer Bürgerhaushalt - einstimmig beschlossen
+- TOP 25: Bücher gegen Rechts - zur Kenntnis genommen
+- TOP 26: Friedenszeichen - zur Kenntnis genommen
+- TOP 27: OSD-Einsatz Sturmstraße - mehrheitlich beschlossen
+- TOP 28: Volkstrauertag 2006 - mehrheitlich beschlossen
+- TOP 29: Straßenbeleuchtung Ludwigstraße - zur Kenntnis genommen
+- TOP 30: Elektroschrott - Annahmestellen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 31: Begrünung Gleiskörper Kuthsweg - zur Kenntnis genommen
+- TOP 32: Wartehallen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 33: Reparaturen Carl-Sonnenschein-Schule Unterbach - zur Kenntnis genommen
+- TOP 34: Proberaum für Schülerbands im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Wasserspielplatz Tannenhofweg - zur Kenntnis genommen
+- TOP 36: Schulhöfe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 37: Vennhauser Allee - Zufahrt Aldi - zur Kenntnis genommen
+- TOP 38: Am Bermeshau - zur Kenntnis genommen
+- TOP 39: Baumpflanzungen und Baumfällungen - zur Kenntnis genommen
+- TOP 40: Am Langenfeldsbusch - Markierung Parkplätze - zur Kenntnis genommen
+- TOP 41: Wasserspielplatz Schloss Eller - Bodenbelag - zur Kenntnis genommen
+- TOP 42: Katholische Grundschule St. Michael - zur Kenntnis genommen
+- TOP 43: Grundwassersanierung Vennhauser Allee 242 - zur Kenntnis genommen
+- TOP 44: Schloss Eller - Instandsetzung des Zuganges - zur Kenntnis genommen
+- TOP 45: Verkehrssituation An der Schützenwiese - zur Kenntnis genommen
+- TOP 46: Zuschüsse für Schulen - Projekt "Lesen" - zur Kenntnis genommen
