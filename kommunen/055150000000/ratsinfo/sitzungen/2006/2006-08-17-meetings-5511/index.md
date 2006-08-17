@@ -1,0 +1,59 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-08-17T17:10:00+02:00
+- Ende: 2006-08-17T20:42:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5511
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5511
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00235792.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit von Verwaltungsmitarbeitern erforderli
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 3.1: Mitteilungen
+- TOP 4: Bekanntgabe von Eingaben und Anträgen
+- TOP 4.1: Anhörungsverfahren zur 2. Änderung des Bebauungsplans Nr. 437: Albachten - südlich Dülmener Straße
+- TOP 5: Stadtentwicklung, Stadterneuerung, Wohnen
+- TOP 5.1: Zentrumserweiterung südlich der St. Anna Kirche in Mecklenbeck - einstimmig geändert beschlossen
+- TOP 6: Stadtplanung
+- TOP 6.1: 16. Änderung FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.2: 10. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 6.3: Vorhabenbezogener Bebauungsplan Nr. 492 - Beschluss über die Stellungnahmen - Satzungsbeschluss - in der Fassung der Ergänzungsvorlage beschlossen
+- TOP 6.4: 20. Änderung des fortgeschriebenen Flächennutzungsplanes für den Bereich westlich Salzmannstraße - einstimmig beschlossen
+- TOP 6.5: Vorhabenbezogener Bebauungsplan Nr. 502: westlich Salzmannstraße / nördlich Meßkamp - einstimmig beschlossen
+- TOP 6.6: Vorhabenbezogener Bebauungsplan Nr. 502: westlich Salzmannstraße / nördlich Meßkamp - zur Kenntnis genommen
+- TOP 6.7: Bebauungsplan Nr. 477 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.8: 15. Änderung FNP - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 6.9: Vorhabenbezogener Bebauungsplan Nr. 499 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 6.10: Vorhabenbezogener Bebauungsplan Nr. 499 - Kenntnisnahme des Entwurfes - zur Kenntnis genommen
+- TOP 6.11: Vorhabenbezogener Bebauungsplan Nr. 501 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.12: 1. Änderung des Bebauungsplanes Nr. 388 - einstimmig beschlossen
+- TOP 6.13: 2. Änderung des Bebauungsplanes Nr, 437: Albachten - südlich Dülmerner Straße - einstimmig geändert beschlossen
+- TOP 6.14: 4. Änderung des Bebauungsplanes Nr. 137 Teilabschnitt II: Siemensstraße - einstimmig beschlossen
+- TOP 6.15: Aufhebung des Bebauungsplanes Nr. 452: Tiefgarage Ludgeriplatz - einstimmig beschlossen
+- TOP 6.16: 5. Änderung des Bebauungsplanes Nr. 401: Stadthafen I / Albersloher Weg - einstimmig beschlossen
+- TOP 6.17: Schulstraße - Auslobung zum Landeswettbewerb 2006 - einstimmig beschlossen
+- TOP 6.18: Sachstand City-Projekt "Stubengasse + Umfeld" - zur Kenntnis genommen
+- TOP 7: Verkehr
+- TOP 7.1: Kostenloses Busfahren am verkaufsoffenen Send-Sonntag 22.10.2006 - mehrheitlich beschlossen
+- TOP 7.2: Einführung des gebührenfreien Kurzzeitparkens - "Brötchentaste" - von der Tagesordnung abgesetzt
+- TOP 7.3: "Für flüssigen Verkehr in Münster: Grüner Pfeil statt roter Ampel" - einstimmig geändert beschlossen
+- TOP 7.4: Zweigeteilte Vorfahrt im Einmündungsbereich Osttor (L 885)/ Pfarrer-Ensink-Weg - einstimmig beschlossen
+- TOP 7.5: Dyckburgstraße - Einbau einer Querungshilfe in Höhe Wersebeckmannweg - einstimmig beschlossen
+- TOP 7.6: Ergebnis Verkehrsuntersuchung zum Thema Mautflucht - einstimmig beschlossen
+- TOP 8: Sonstiges
+- TOP 8.1: Gräftenanlage Haus Rüschhaus - von der Tagesordnung abgesetzt
+- TOP 8.2: Landschaftsplan Roxeler Riedel - von der Tagesordnung abgesetzt
+- TOP 8.3: Sendsatzung der Stadt Münster - einstimmig beschlossen
+- TOP 8.4: Entwicklungen im stationären Dienstleistungsangebot der Post/DHL - zur Kenntnis genommen
+- TOP 9: Beratung von Anträgen und Anfragen
+- TOP 9.1: Verkehrssicherheit auf der Hohen Geest erhöhen - zur Kenntnis genommen
+- TOP 10: Verschiedenes
