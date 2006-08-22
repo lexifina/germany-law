@@ -1,0 +1,56 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-08-22T17:00:00+02:00
+- Ende: 2006-08-22T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1839
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1839
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111672.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111672.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111672.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Radweg Graf-Recke-Str.
+- TOP 7: Bundeswettbewerb Entente Florale - Eine Stadt blüh
+- TOP 8: Satzung über die Änderung der Merkmale
+- TOP 9: Zuschuss an den Düsseldorfer Sportclub 1899 e.V.
+- TOP 10: 6079/004 B-Plan Nr. 6079/04 - Am Großen Dern
+- TOP 11: Verwendung von Haushaltsmitteln
+- TOP 12: Sachstandsbericht Betreuungsangebot Kinder U3
+- TOP 13: Lesbarer Bürgerhaushalt
+- TOP 14: Friedenszeichen
+- TOP 15: Bücher gegen Rechts
+- TOP 16: Seniorenheim Gallberg
+- TOP 17: Militärische Schwerkraftfahrzeuge
+- TOP 18: Kompetenz-Zentrum Gerresheim
+- TOP 19: Wanderweg Rotthäuser Bachtal
+- TOP 20: Wanderwegverbindung Dernbuschweg - Gallberg
+- TOP 21: Rauchverbot an öffentlichen Gebäuden
+- TOP 22: Flaggen im Sitzungssaal Bezirksvertretung 7
+- TOP 23: Kompetenzzentrum Gerresheim
+- TOP 24: Radwegenetz zwischen Bauhaus und Zamenhofweg
+- TOP 25: Begleitschutz für Friedhofbesuch
+- TOP 26: Fraktionsräume für die Bezirksvertretung 7
+- TOP 27: Grundstückserwerb Gelände Glashütte
+- TOP 28: Wege Grafenberger Golfplatz
+- TOP 29: KSP Heinrich-Könn-Straße
+- TOP 30: Bolzplatz Ratinger Weg / Am Wildpark
+- TOP 31: Buslinie 730
+- TOP 32: Baumfällungen
+- TOP 33: Fußweg im Waldstück östlich der Torfbruchstraße
+- TOP 34: Beleuchtung Parkplatz Neunzigstraße
+- TOP 35: Fußgängertunnel Bahnhof Gerresheim
+- TOP 36: Kreuzungsbereich Dreherstraße/Torfbruchstraße
+- TOP 37: Radweg entlang der B 7
+- TOP 38: Ostpark
+- TOP 39: Torfbruchstraße
