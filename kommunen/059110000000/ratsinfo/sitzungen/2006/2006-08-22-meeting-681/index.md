@@ -1,0 +1,55 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2006-08-22T15:00:00+02:00
+- Ende: 2006-08-22T16:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZY4Ok1YbzqI_kSQc6ssibXE
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/681
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZey-isPXVrwnFGQKXa_qx71A8a3tRUTKipl7DSY55UTO/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_22.08.2006.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: Konzepte der ARGE Bochum zum Kombi-Lohn NRW und Arbeitsgelegenheiten (AGH)
+- TOP 5: "Kommunales Kooperationsprojekt - Landessozialberichterstattung / kommunale Sozialberichterstattung" - Ergebnisse des Modellprojektes
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Situation in der Klinik Kinder- und Jugendpsychiatrie in Bochum-Linden
+- TOP 8: Adipöse Patienten in Bochum
+- TOP 9: Konzepte der ARGE Bochum zum Kombilohn NRW und Arbeitsgelegenheiten (AGH) gem. § 16 Abs. 3 Satz 1 SGB II in der Entgeltvariante
+- TOP 10: Konzepte der ARGE Bochum zu Arbeitsgelegenheiten
+- TOP 11: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 12: Beschlussvorschläge für den Rat
+- TOP 13: Rückgabe von EGT-Mitteln und Ausweitung öffentlich geförderter Beschäftigung
+- TOP 14: Umverteilung von Ausgabemitteln bei den Leistungen zur Eingliederung in Arbeit
+- TOP 15: Situation auf dem Bochumer Wohnungsmarkt
+- TOP 16: Anträge
+- TOP 17: Veröffentlichung der Richtlinie Kosten der Unterkunft (Anlage 1 zu T 29)
+- TOP 18: Mitteilungen
+- TOP 19: Stand der Umsetzung der Richtlinie Kosten der Unterkunft (Anlage 1 zu T 29)
+- TOP 20: Anfragen
+- TOP 21: Amtssprache
+- TOP 22: Finanzielle Auswirkungen Hartz IV
+- TOP 23: Prüfung des Bundesrechnungshofes
+- TOP 24: Umfrage zur Ausbildungssituation
+- TOP 25: Selbsthilfe-Büro Bochum
+- TOP 26: Situation in der Klinik für Kinder- und Jugendpsychiatrie in Bochum-Linden
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: keine Tagesordnungspunkte
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 8: Beschlussvorschläge für den Haupt- und Finanzausschuss bzw. die Bezirksvertretungen
+- TOP 9: Beschlussvorschläge für den Rat
+- TOP 10: Anträge
+- TOP 11: Mitteilungen
+- TOP 12: Anfragen
