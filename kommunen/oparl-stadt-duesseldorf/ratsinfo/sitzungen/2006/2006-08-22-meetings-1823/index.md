@@ -1,0 +1,53 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-08-22T16:00:00+02:00
+- Ende: 2006-08-22T00:00:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1823
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1823
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111911.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111911.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111911.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Anerkennung der Niederschrift - zur Kenntnis genommen
+- TOP 3: B-Plan Nr. 57777/050 - Bruchstraße - zur Kenntnis genommen
+- TOP 4: B-Plan Nr. 5578/038 - Grafenberger Allee - zur Kenntnis genommen
+- TOP 5: Bundeswettbewerb Entente Florale - Eine Stadt blüh - zur Kenntnis genommen
+- TOP 6: bezirksbezogeneHaushaltsmittel 2006 - zur Kenntnis genommen
+- TOP 7: Masterplan Kinderspielplätze - Maßnahmen 2007 - - zur Kenntnis genommen
+- TOP 8: Umweltschutz V - zur Kenntnis genommen
+- TOP 9: 5877/24 III - zur Kenntnis genommen
+- TOP 10: Arbeitsmarkt und Beschäftigungsförderung - zur Kenntnis genommen
+- TOP 11: Rethelstraße - zur Kenntnis genommen
+- TOP 12: Veranstaltungen Generalien III - zur Kenntnis genommen
+- TOP 13: Flinger Broich 3 - Schützenplatz - - zur Kenntnis genommen
+- TOP 14: Lindemannstr. 57 - zur Kenntnis genommen
+- TOP 15: Kiefernstraße III - zur Kenntnis genommen
+- TOP 16: Rethelstraße - zur Kenntnis genommen
+- TOP 17: Lindenplätzchen III - zur Kenntnis genommen
+- TOP 18: ÖPNV-Linienführung - zur Kenntnis genommen
+- TOP 19: Grünanlagen u. Grünflächen - zur Kenntnis genommen
+- TOP 20: Gerresheimer Straße / Langerstraße - zur Kenntnis genommen
+- TOP 21: Hermannplatz - Kinderspielplatz - zur Kenntnis genommen
+- TOP 22: Dorotheenplatz - Neugestaltung - zur Kenntnis genommen
+- TOP 23: Rethelstraße III - zur Kenntnis genommen
+- TOP 24: Toilettenanlagen
+- TOP 25: B-Plan 5579/058 - zur Kenntnis genommen
+- TOP 26: Lindenstraße zw. Ackerstr. u. Dorotheenstraße - zur Kenntnis genommen
+- TOP 27: Schulen Generalien IV - zur Kenntnis genommen
+- TOP 28: Lindemannstr. 57 - zur Kenntnis genommen
+- TOP 29: Rethelstraße III - zur Kenntnis genommen
+- TOP 30: Schillerplatz - zur Kenntnis genommen
+- TOP 31: Flurstraße - Umbau - zur Kenntnis genommen
+- TOP 32: ??? - zur Kenntnis genommen
+- TOP 33: Ahnfeldstraße - zur Kenntnis genommen
+- TOP 34: Zoopark IV - zur Kenntnis genommen
+- TOP 35: Brehmplatz LZA u.a. - zur Kenntnis genommen
+- TOP 36: Lindemannstraße 57 - zur Kenntnis genommen
