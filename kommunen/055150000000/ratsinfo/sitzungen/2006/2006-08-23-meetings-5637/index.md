@@ -1,0 +1,83 @@
+# 16. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-08-23T17:48:00+02:00
+- Ende: 2006-08-23T23:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5637
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5637
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00237895.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Einführung von Studiengebühren - Auswirkungen für Münster
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Ausländerbeirates
+- TOP 9: Haushaltskonsolidierung
+- TOP 9.1: Haushaltskonsolidierungsprogramm 2007 bis 2010, Abschlussbericht Rödl + Partner - mehrheitlich geändert beschlossen
+- TOP 9.2: Überführung des städtischen Tiefbauamtes in eine Anstalt des öffentlichen Rechts (AöR) - einstimmig geändert beschlossen
+- TOP 9.3: Gesetzes- und Kostenentwicklung im Bereich der Tagesbetreuung für Kinder - Begleitende Informationen - zur Kenntnis genommen
+- TOP 10: Sendsatzung der Stadt Münster - einstimmig beschlossen
+- TOP 11: Sachstand City-Projekt "Stubengasse + Umfeld" - zur Kenntnis genommen
+- TOP 12: Über - und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 2. Vierteljahr - zur Kenntnis genommen
+- TOP 13: Vertragsverlängerung zur Überlassung des Städtischen Preußen-Stadion an den SC Preußen 06 - einstimmig geändert beschlossen
+- TOP 14: Sportanlage Pleistermühlenweg - Errichtungs- und Raumprogrammbeschluss für die Errichtung - einstimmig beschlossen
+- TOP 15: Verbandsstützpunkt Hockey, Sanierung des Hockeyplatzes und Ausbau der vereinseigenen Hockeyanlage - einstimmig beschlossen
+- TOP 16: Soziales Engagement - Eine Ehrensache für Münsters Schülerinnen und Schüler, Antrag A-R/0016/2005 de - einstimmig beschlossen
+- TOP 17: Übernahme des Eigenanteils für Lernmittel im Schuljahr 2006/2007 für SGB-II-Empfänger und Empfänger - mehrheitlich abgelehnt
+- TOP 18: Genehmigung einer Dringlichkeitsentscheidung zur überplanmäßigen Mittelbereitstellung - einstimmig beschlossen
+- TOP 19: Rolle der Stiftungen in der Bürgergesellschaft, Bericht zu den Änderungsanträgen der CDU-Fraktion un - von der Tagesordnung abgesetzt
+- TOP 20: Errichtungsbeschluss - Umbau und Erweiterung Kita Wielerort - einstimmig beschlossen
+- TOP 21: Kindertagesbetreuungsbericht 2006 - einstimmig beschlossen
+- TOP 22: Zuschuss zur Erweiterung der kath. Kindertageseinrichtung St. Sebastian in Amelsbüren - einstimmig beschlossen
+- TOP 23: Errichtungsbeschluss: Neubau Kombieinrichtung (Kita und Jugendeinrichtung) in Handorf-Dorbaum - einstimmig beschlossen
+- TOP 24: Angepasster Wirtschaftsplan der Altenzentrum Klarastift gGmbH für das Jahr 2006 - einstimmig beschlossen
+- TOP 25: Anregung gem. § 24 GO NW Nr. 62/2006: Wiedereinführung des Münster-Passes - mehrheitlich beschlossen
+- TOP 26: Erweiterung Bauspielplatz Feldstiegenkamp - einstimmig beschlossen
+- TOP 27: Bauleitplanung
+- TOP 27.1: Stadtbezirk Münster-Mitte
+- TOP 27.1.1: 20. Änderung des fortgeschriebenen Flächennutzungsplanes für den Bereich westlich Salzmannstraße - einstimmig beschlossen
+- TOP 27.1.2: Vorhabenbezogener Bebauungsplan Nr. 502: westlich Salzmannstraße / nördlich Meßkamp - einstimmig beschlossen
+- TOP 27.1.3: Aufhebung des Bebauungsplanes Nr. 452: Tiefgarage Ludgeriplatz - einstimmig beschlossen
+- TOP 27.1.4: Vorhabenbezogener Bebauungsplan Nr. 501 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.1.5: Bebauungsplan Nr. 242 - Aufhebung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.1.6: 5. Änderung des Bebauungsplanes Nr. 401: Stadthafen I / Albersloher Weg - einstimmig beschlossen
+- TOP 27.2: Stadtbezirk Münster-West
+- TOP 27.2.1: Bebauungsplan ROX 8 - Teilaufhebung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.2.2: 2. Änderung des Bebauungsplanes Nr, 437: Albachten - südlich Dülmerner Straße - einstimmig beschlossen
+- TOP 27.2.3: 1. Änderung des Bebauungsplanes Nr. 388 - einstimmig beschlossen
+- TOP 27.3: Stadtbezirk Münster-Hiltrup
+- TOP 27.3.1: Bebauungsplan Nr. 477 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.3.2: 4. Änderung des Bebauungsplanes Nr. 137 Teilabschnitt II: Siemensstraße - einstimmig beschlossen
+- TOP 27.4: Stadtbezirk Münster-Südost
+- TOP 27.4.1: 17. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 27.4.2: Bebauungsplan Nr. 497 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.5: Stadtbezirk Münster-Ost
+- TOP 27.5.1: 15. Änderung FNP - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 27.5.2: 16. Änderung FNP - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 27.5.3: Vorhabenbezogener Bebauungsplan Nr. 499 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 27.5.4: 10. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 27.5.5: Vorhabenbezogener Bebauungsplan Nr. 492 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 28: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 29.1: Beibehaltung Baudezernat - mehrheitlich abgelehnt
+- TOP 29.2: Resolution: Keine willkürliche Verlagerung von Münster nach Coesfeld! - mehrheitlich abgelehnt
+- TOP 30: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 30.1: Den "Entwicklungspolitischen Nord-Süd-Preis der Stadt Münster" erhalten - verwiesen
+- TOP 30.2: 11-Punkte-Programm 'Münsteraner Brennpunktschulen' - verwiesen
+- TOP 30.3: Förderbedarf statt Schülerzahl - verwiesen
+- TOP 30.4: Gesundheitserziehung bündeln - verwiesen
+- TOP 30.5: Zielgenaue Förderung sozial benachteiligter Kinder - Maßnahmepaket für den Grundschulbereich - verwiesen
+- TOP 30.6: Abzug der britischen Streitkräfte aus Münster: Folgen mildern - Konversionschancen nutzen - Perspekt - verwiesen
+- TOP 30.7: Landesgartenschau Münster 2014 - verwiesen
+- TOP 31: Verschiedenes
