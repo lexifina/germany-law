@@ -1,0 +1,56 @@
+# Gemeinderat
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2006-08-23T18:00:00+02:00
+- Ende: 2006-08-23T20:30:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcYWY9nQAcUMKOldAnj9dWk
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/654
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTG8EvwJ6rzJAh0wCkxavhv6qKOjsiyIvtJhA30orfrK/Oeffentliche_Niederschrift_Gemeinderat_23.08.2006.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 21.06.2006 -öffentlicher Teil-
+- TOP 3.: Bericht zu Beteiligungen der Gemeinde Aldenhoven a) Verbandswasserwerk Aldenhoven b) ACI
+- TOP 4.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 4.1.: Bauleitplanung Bebauungsplan 15 A - 17. Änderung - Matthäusstraße hier: a) Beschluss über die eingegangenen Stellungnahmen während der Offenlage b) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2.: Bauleitplanung a) Abschluss eines städtebaulichen Vertrages gemäß § 11 BauGB für die 34. Änderung des Flächennutzungsplanes und Aufstellung des Bebauungsplanes 45 N b) 34. Änderung des Flächennutzungsplanes - Multithemenanlage - und Bebauungsplan 45 N - Multithemenanlage - Aufstellungsbeschluss gemäß § 2 BauGB c) Satzungsbeschluss gemäß § 16 BauGB zur Veränderungssperre gemäß § 14 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 5.1.: Entlastung des Bürgermeisters - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 6.1.: Bauleitplanung; 34. Änderung des Flächennutzungsplanes sowie Aufstellung des Bebauungsplanes 45 N a) Abschluss eines städtebaulichen Vertrages gemäß § 11 BauGB b) Satzungsbeschluss gemäß § 16 BauGB zur Veränderungssperre gemäß § 14 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Neubesetzung von Gremien
+- TOP 7.1.: Bestellung von gemeindlichen VertreterInnen für den Aufsichtsrat und die Geselllschafterversammlung der Entwicklungsgesellschaft Indeland mbH - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Finanzen, Haushalt
+- TOP 8.1.: Dienstanweisung für die Finanzbuchhaltung - Einstimmig, 0 Enthaltung(en)
+- TOP 8.2.: Inventurrichtlinie der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 8.3.: Festsetzung der Gesamtnutzungsdauer für kommunale Vermögensgegnstände - Einstimmig, 0 Enthaltung(en)
+- TOP 8.4.: Darstellung der Produkte der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Gebühren, Beiträge
+- TOP 9.1.: Erhebung von Anliegerbeiträgen für das Abrechnungsgebiet "Römerstraße" in Aldenhoven-Freialdenhoven, Gemarkung Freialdenhoven, Flur 5 a) Festlegung der Grenzen des Abrechnungsgebietes b) Beitragserhebung im Wege der Kostenspaltung - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Bauleitplanung
+- TOP 10.1.: Bauleitplanung; Bebauungsplan 35 A - 4. Änderung - Am Schwanenkamp - gemäß § 13 BauGB hier: Satzungsbeschluss gemäß § 10 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Sanierung der Eingangshalle im Kindergarten Schleiden - Einstimmig, 0 Enthaltung(en)
+- TOP 11.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.: Mitteilungen und Anfragen.
+- TOP 13.: Verschiedenes.
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 21.06.2006 -nichtöffentlicher Teil-.
+- TOP 2.: Bericht zu Beteiligungen der Gemeinde Aldenhoven a) Blausteinsee GmbH
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1.: Flurbereinigung Kirchberg - Änderung der Gemeindegrenze - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2.: Antrag auf Erwerb einer Kundenparkplatzfläche - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 4.1.: Neubeschaffung eines LKW Fahrgestells - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2.: Niederschlagung von Forderungen - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1.: Höhergruppierung eines tarifvertraglich Beschäftigten - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Zuwendungen für die Durchführung denkmalpflegerischer Maßnahmen an geschützten Denkmälern - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Entsorgungsleistungen - Einsammlung und Transport von Abfällen und Wertstoffen - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Mitteilungen und Anfragen.
+- TOP 9.: Verschiedenes.
