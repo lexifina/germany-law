@@ -1,0 +1,74 @@
+# 14. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-08-23T17:03:00+02:00
+- Ende: 2006-08-23T23:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5315
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5315
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00237893.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Fraktion Bündnis 90/Die Grünen/GAL "Keine Gentechnik auf kommunalen Flächen", Antrag Nr. - mehrheitlich beschlossen
+- TOP 2.2: Antrag der CDU-Fraktion und der FDP-Fraktion an den Rat Nr. A-R/0024/2006 "Parkhaus Alter Steinweg" - mehrheitlich beschlossen
+- TOP 2.3: Antrag der Fraktion Bündnis 90/Die Grünen/GAL im Rat der Stadt Münster Nr. A-R-0013/2006 - einstimmig beschlossen
+- TOP 2.4: Antrag der SPD-Fraktion im Rat der Stadt Münster Nr. A-R/0010/2005 vom 08.03.2005 - einstimmig beschlossen
+- TOP 2.5: Antrag der SPD-Fraktion Nr. A - R/0023/2006 "Transparente Prioritäten im Schulbau" - einstimmig beschlossen
+- TOP 3: Zentrumserweiterung südlich der St. Anna Kirche in Mecklenbeck - einstimmig beschlossen
+- TOP 4: Ergebnis Verkehrsuntersuchung zum Thema Mautflucht - einstimmig beschlossen
+- TOP 5: Erweiterung der Hansaschule, Berufskolleg der Stadt Münster, Hansaring 80, 48155 Münster - von der Tagesordnung abgesetzt
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Haushaltskonsolidierung
+- TOP 6.1: Haushaltskonsolidierungsprogramm 2007 bis 2010, Abschlussbericht Rödl + Partner - ohne Beschlussfassung geschoben
+- TOP 6.2: Überführung des städtischen Tiefbauamtes in eine Anstalt des öffentlichen Rechts (AöR) - ohne Beschlussfassung geschoben
+- TOP 6.3: Gesetzes- und Kostenentwicklung im Bereich der Tagesbetreuung für Kinder - Begleitende Informationen - zur Kenntnis genommen
+- TOP 7: Sendsatzung der Stadt Münster - einstimmig beschlossen
+- TOP 8: Sachstand City-Projekt "Stubengasse + Umfeld" - ohne Beschlussfassung geschoben
+- TOP 9: Über - und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 2. Vierteljahr - zur Kenntnis genommen
+- TOP 10: Vertragsverlängerung zur Überlassung des Städtischen Preußen-Stadion an den SC Preußen 06 - ohne Beschlussfassung geschoben
+- TOP 11: Sportanlage Pleistermühlenweg - Errichtungs- und Raumprogrammbeschluss für die Errichtung - einstimmig beschlossen
+- TOP 12: Verbandsstützpunkt Hockey, Sanierung des Hockeyplatzes und Ausbau der vereinseigenen Hockeyanlage - einstimmig beschlossen
+- TOP 13: Soziales Engagement - Eine Ehrensache für Münsters Schülerinnen und Schüler, Antrag A-R/0016/2005 de - einstimmig beschlossen
+- TOP 14: Übernahme des Eigenanteils für Lernmittel im Schuljahr 2006/2007 für SGB-II-Empfänger und Empfänger - ohne Beschlussfassung geschoben
+- TOP 15: Genehmigung einer Dringlichkeitsentscheidung zur überplanmäßigen Mittelbereitstellung - einstimmig beschlossen
+- TOP 16: Rolle der Stiftungen in der Bürgergesellschaft, Bericht zu den Änderungsanträgen der CDU-Fraktion un - von der Tagesordnung abgesetzt
+- TOP 17: Errichtungsbeschluss - Umbau und Erweiterung Kita Wielerort - einstimmig beschlossen
+- TOP 18: Kindertagesbetreuungsbericht 2006 - einstimmig beschlossen
+- TOP 19: Zuschuss zur Erweiterung der kath. Kindertageseinrichtung St. Sebastian in Amelsbüren - einstimmig beschlossen
+- TOP 20: Errichtungsbeschluss: Neubau Kombieinrichtung (Kita und Jugendeinrichtung) in Handorf-Dorbaum - einstimmig beschlossen
+- TOP 21: Angepasster Wirtschaftsplan der Altenzentrum Klarastift gGmbH für das Jahr 2006 - einstimmig beschlossen
+- TOP 22: Anregung gem. § 24 GO NW Nr. 62/2006: Wiedereinführung des Münster-Passes - mehrheitlich beschlossen
+- TOP 23: Erweiterung Bauspielplatz Feldstiegenkamp - einstimmig beschlossen
+- TOP 24: Bauleitplanung
+- TOP 24.1: Stadtbezirk Mitte
+- TOP 24.1.1: 20. Änderung des fortgeschriebenen Flächennutzungsplanes für den Bereich westlich Salzmannstraße - einstimmig beschlossen
+- TOP 24.1.2: Vorhabenbezogener Bebauungsplan Nr. 502: westlich Salzmannstraße / nördlich Meßkamp - einstimmig beschlossen
+- TOP 24.1.3: Aufhebung des Bebauungsplanes Nr. 452: Tiefgarage Ludgeriplatz - einstimmig beschlossen
+- TOP 24.1.4: Vorhabenbezogener Bebauungsplan Nr. 501 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.1.5: Bebauungsplan Nr. 242 - Aufhebung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.1.6: 5. Änderung des Bebauungsplanes Nr. 401: Stadthafen I / Albersloher Weg - einstimmig beschlossen
+- TOP 24.2: Stadtbezirk West
+- TOP 24.2.1: Bebauungsplan ROX 8 - Teilaufhebung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.2.2: 2. Änderung des Bebauungsplanes Nr, 437: Albachten - südlich Dülmerner Straße - ohne Beschlussfassung geschoben
+- TOP 24.2.3: 1. Änderung des Bebauungsplanes Nr. 388 - einstimmig beschlossen
+- TOP 24.3: Stadtbezirk Hiltrup
+- TOP 24.3.1: Bebauungsplan Nr. 477 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.3.2: 4. Änderung des Bebauungsplanes Nr. 137 Teilabschnitt II: Siemensstraße - einstimmig beschlossen
+- TOP 24.4: Stadtbezirk Südost
+- TOP 24.4.1: 17. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 24.4.2: Bebauungsplan Nr. 497 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.5: Stadtbezirk Ost
+- TOP 24.5.1: 15. Änderung FNP - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 24.5.2: 16. Änderung FNP - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 24.5.3: Vorhabenbezogener Bebauungsplan Nr. 499 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 24.5.4: 10. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 24.5.5: Vorhabenbezogener Bebauungsplan Nr. 492 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 25: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 26: Verschiedenes
