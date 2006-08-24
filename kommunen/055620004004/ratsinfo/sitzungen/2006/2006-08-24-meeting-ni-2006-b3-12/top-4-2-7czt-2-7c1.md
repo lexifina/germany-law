@@ -1,0 +1,7 @@
+# TOP 4: Antrag der Ratsfraktionen von SPD und Bündnis 90/Die Grünen vom 17.08.2006 hier: Nachtragsvergaben
+
+- Sitzung: 32. Sitzung des Betriebsausschusses 3 (Ausschuss für Stadtentwicklung, Bau und Verkehr) (2006-08-24)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: ja
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B3-12%7Czt_2%7C1
+- Beschluss (Datei): Beschluss - Top 4 https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2006-B3-12%7Czt_2%7C1
