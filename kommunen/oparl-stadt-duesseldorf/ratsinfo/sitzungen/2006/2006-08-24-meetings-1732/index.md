@@ -1,0 +1,62 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-08-24T14:08:00+02:00
+- Ende: 2006-08-24T21:35:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1732
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1732
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111860.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111860.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111860.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Akt. Anfr. CDU: Videoüberwachung - zur Kenntnis genommen
+- TOP 5: Akt.Anfrage: LKW-Flut - zur Kenntnis genommen
+- TOP 6: Anfragen - zur Kenntnis genommen
+- TOP 7: Anfr. Bü90: Gesamtkonzept zur Reduzierung der Luft - zur Kenntnis genommen
+- TOP 8: Anfr. CDU: Kabelkisten - zur Kenntnis genommen
+- TOP 9: Anfr. CDU: Hauptschulen - zur Kenntnis genommen
+- TOP 10: Anfr. Tussing: Naturverständnis - zur Kenntnis genommen
+- TOP 11: Anfr. Bü90: Informationsfreiheitsgesetz - zur Kenntnis genommen
+- TOP 12: Anfr.Rh Czerwinski:Auswirk.ürz. Regionalisierungsm - zur Kenntnis genommen
+- TOP 13: Anfr. SPD: Veranst. Arena - zur Kenntnis genommen
+- TOP 14: Anfr. FDP: Mahnungen Ganztagsschulen - zur Kenntnis genommen
+- TOP 15: Anfr. FDP: Bilker Arcaden - zur Kenntnis genommen
+- TOP 16: Anfr. Lbbg: LEG - zur Kenntnis genommen
+- TOP 17: Anfr. Lbbg: Kinder und Jugend - zur Kenntnis genommen
+- TOP 18: Anfr. Kahl: Pipeline - zur Kenntnis genommen
+- TOP 19: Anfr. Kahl: Robert-Lehr-Ufer - zur Kenntnis genommen
+- TOP 20: Etateinbringung - zur Kenntnis genommen
+- TOP 21: Beckenanlage Heidelberger Straße - einstimmig beschlossen
+- TOP 22: Sonntagsfreigaben - mehrheitlich beschlossen
+- TOP 23: Anträge - zur Kenntnis genommen
+- TOP 24: Antr. Bü90: Brief an MB von Moskau - mehrheitlich abgelehnt
+- TOP 25: Erg-antzr. Kahl+Lbbg: Moskau - mehrheitlich abgelehnt
+- TOP 26: Antrag Bü90/Grü: Strandbad im Rhein - mehrheitlich abgelehnt
+- TOP 27: Ändantr. CDU/FDP: Strandbad - mehrheitlich beschlossen
+- TOP 28: Antrag von Bü90/GRü: U 80 - Stopp Nordparktunnel - mehrheitlich abgelehnt
+- TOP 29: Antrag SPD/Grü:Erhalt Regionalstelle Frau u. Beru - mehrheitlich abgelehnt
+- TOP 30: Antrag SPD+ Bü90/Grü: Bleiberechtsregelung - mehrheitlich abgelehnt
+- TOP 31: Best. eines Mitglieds Umlegungsausschuss - einstimmig beschlossen
+- TOP 32: 14/13 - einstimmig beschlossen
+- TOP 33: Freigabe verkaufsoffener Sonntage 2006 - mehrheitlich beschlossen
+- TOP 34: Gen. 60er: Nachteilsausgleich RZVK - einstimmig beschlossen
+- TOP 35: Gen. 60er: Nachteilsausgleich JBH - einstimmig beschlossen
+- TOP 36: 52. Änd. der Hauptsatzung - einstimmig beschlossen
+- TOP 37: Aufhebung der Schulbezirke - mehrheitlich beschlossen
+- TOP 38: Ändantr. Bü90: Schulbezirksgrenzen - mehrheitlich abgelehnt
+- TOP 39: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 40: Gen. 60er: Messeerweiterung II - mehrheitlich beschlossen
+- TOP 41: Gen.60er:B-Plan Nr. 5775/32-Sw.Erkrather Str. - einstimmig beschlossen
+- TOP 42: Gen. 60er: B-Plan 4977/39 - südl. Heerdter Landstr - einstimmig beschlossen
+- TOP 43: Gen. 60er: B-Plan 5483/13-Ehem. Kaufring - einstimmig beschlossen
+- TOP 44: Gen. 60er: Kaldenberger Hof - mehrheitlich beschlossen
+- TOP 45: Aufsichtsrat Bäderges. mbH - mehrheitlich beschlossen
