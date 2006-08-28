@@ -1,0 +1,51 @@
+# Bezirksvertretung Ohligs/Aufderhöhe/Merscheid
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2006-08-28T17:00:00+02:00
+- Ende: 2006-08-28T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-92
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZZwV1KCPBIGBEufqv5rXUp8
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/2979
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Ohligs/Aufderhöhe/Merscheid) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS4eyO-PJXpKztOHoY_mSLDaLfYsXoGjeoM6IdVZy2MP/Oeffentliche_Niederschrift_Bezirksvertretung_Ohligs-Aufderhoehe-Merscheid_28.08.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NW
+- TOP 2: Protokoll
+- TOP 3: Straßen-/Wegebenennung
+- TOP 4: Protokoll über die gemeinsame Sitzung aller Bezirksvertretungen am 12.06.2006
+- TOP 5: Wahl der stellvertretenden Schiedsperson für den Schiedsamtsbezirk Solingen VI
+- TOP 6: Bedarfsplanung Tageseinrichtungen für Kinder
+- TOP 7: Neuausrichtung der Tageseinrichtungen
+- TOP 8: Stadtweite Müllsammelaktion am 16.09.2006 unter dem Motto
+- TOP 9: Haus der Jugend in Aufderhöhe
+- TOP 10: Blockhaus in Aufderhöhe
+- TOP 11: Fortführung der Sozialarbeit im Bereich Ohligs
+- TOP 12: Umstrukturierung der Solinger Bäderlandschaft
+- TOP 13: Umwandlung des Heidebades in ein Naturbad
+- TOP 14: Bauleitplanung An den Eichen
+- TOP 15: Stadtquartier am Bahnhof SG-Ohligs
+- TOP 16: Herstellung von Grünanlage und Spielplatz Typ B in Wiefeldick
+- TOP 17: Baumpflanzungen auf der Talstraße
+- TOP 18: Einrichtung von Tempo 30 Zonen im Bereich Börkhauser Feld
+- TOP 19: Fahrradstreifen auf der Uhlandstraße
+- TOP 20: Verkehrssituation im Bereich der Kreuzung Talstraße/Forststraße
+- TOP 21: Radverkehrsnetz NRW: Alternativstrecke zur Neuenkamper Straße
+- TOP 22: Freie Budgetmittel 2006
+- TOP 23: Rathaus-Neubau und damit in Zusammenhang stehende Punkte
+- TOP 24: Verkehrssituation Schwanenstraße;
+- TOP 25: Situation an der Autobahnauffahrt Hardt / A 3
+- TOP 26: Bewuchs Gehweg/Radweg "An der Gemarke"
+- TOP 27: Anfragen von BV Krause, Bündnis 90 / Die Grünen
+- TOP 28: Frage der Fraktion von Bündnis 90/Die Grünen: Welche Arbeitsschwerpunkte werden bei der diesjährigen Arbeit des Präventionskonzeptes gegen Gewalt in Aufderhöhe durchgeführt?
+- TOP 29: Beschlusskontrolle
+- TOP 30: Einführung des Ganztagsbetriebs an der Geschwister-Scholl-Schule
+- TOP 31: Verschiedenes
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NW
+- TOP 2: Protokoll
+- TOP 3: Verschiedenes
