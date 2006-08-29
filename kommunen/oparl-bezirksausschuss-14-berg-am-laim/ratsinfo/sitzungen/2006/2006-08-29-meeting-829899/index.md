@@ -1,0 +1,95 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2006-08-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/829899
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/829899
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 1.7: Besetzung der Unterausschüsse
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 3.1.: Berg-am-Laim-Straße 73 ? Antrag zur Errichtung einer Wechselwerbeanlage
+- TOP 3.2.: Rosenheimer Straße 139 - Antrag zur Errichtung einer Wechselwerbeanlage
+- TOP 3.3.: Ampfingstraße 48 ? Antrag zur Errichtung einer Wechselwerbeanlage
+- TOP 3.4.: Friedenstraße 10 ? Antikhaus ? Umgestaltung des Biergartens
+- TOP 3.5.: Friedenstraße 16 ? Umbau und Aufstockung von Bestandsgebäuden
+- TOP 3.6.: Innsbrucker Ring 52 ? Neubau einer Tankstelle
+- TOP 3.7.: Berg-am-Laim-Straße 126 ? Erweiterung / Instandsetzung der Kindertagesstätte
+- TOP 3.8.: Pilotprojekt Jugendbeteiligung an der Stadtplanung ? Einbeziehung Berg am Laimer Projekte
+- TOP 3.9.: Else-Rosenfeld-Straße ? Neubau eines Wohnhauses mit Tiefgarage
+- TOP 3.10.: Baumkirchner Straße 19 ? 21 ? Neubau / Anbau eines Wohn- und Geschäftshauses
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 3.1.: Ausbau bzw. Schaffung einer kombinierten Fußweg- und Radverkehrsachse Ost/Nordost ?Ostbahnhof ? Altes Ortszentrum Berg am Laim ? Riemer Park ? Messe? Empfehlung der Bürgerversammlung vom 09.03.2006
+- TOP 3.2.: Abmarkierung an der Kreuzung Altöttinger Straße / Fehwiesenstraße
+- TOP 3.3.: Haltestelle ?Schwanhildenweg? an der Truderinger Straße
+- TOP 3.4.: Fahrplanänderungen U8 und Bus 195 ? Bürgerschreiben
+- TOP 3.5.: Mehrjahresinvestitionsprogramm Straßenbau mit verbindlicher Planung bis 2011
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.3.4.: Bereich Soziales
+- TOP 4.4.5.: Bereich Budget
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Einladung zum Fachtag ?Wohnen und Leben im Quartier?
+- TOP 3.2.: Bürgerschreiben zum ?München-Triathlon 2006?
+- TOP 3.3.: KVR-Schreiben zum ?Inline-Marathon (World-Inline-Cup) am 16.07.2006
+- TOP 3.4.: Anhörung zum Straßenfest des Bürgerkreises in der Baumkirchner Straße
+- TOP 3.5.: Bürgerschreiben zum Thema Sicherheitsgefährdung von Kindern durch freilaufende Hunde
+- TOP 3.6.: Beweislastumkehr bei den Stadtwerken ? Schreiben des BA 7 Sendling-Westpark
+- TOP 3.7.: Runder Tisch zum Thema Kultfabrik, Optimolgelände und Volksgarten / Elserhallen
+- TOP 3.8.: Veranstaltung am Michaelianger, ?NaturSpielRaum?
+- TOP 4.4.7.: Baumschutz
+- TOP 3.1.: Ursberger Straße ? Antrag auf Baumfällung
+- TOP 3.2.: Wildenwarter Str. ? Antrag auf Baumfällung
+- TOP 3.4.: Freilassinger Str. ? Antrag auf Baumfällung
+- TOP 3.6.: Staudacher Straße ? Antr. auf Baumfällung
+- TOP 3.7.: Heubergstraße ? Antrag auf Baumfällung
+- TOP 3.8.: Hohenbrunner Str. ? Antrag a. Baumfällung
+- TOP 3.9.: Kraiburger Straße - Antrag auf Baumfällung
+- TOP 3.10.: Kreillerstraße 48 ? Antrag auf Baumfällung
+- TOP 3.11.: Josef-Ritz-Weg 5 ? Antrag auf Baumfällung
+- TOP 3.12.: Fehwiesenstraße ? Antrag auf Baumfällung
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben zwischen 10.07.06 und 13.08.06
+- TOP 4.2.: Haidenauplatz zwischen Orleansplatz und Leuchtenbergring ? Ergebnis des gutachterlichen Planungsverfahrens
+- TOP 4.3.: A) Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 10.12.1997 (Sozialgerechte Bodennutzung) und 21.03.2001 (Soziales Wohnungsbauprogramm/EOF) Anpassung der Verfahrensgrundsätze zur ?Sozialgerechten Bodennutzung? vom 10.12.1997 B) B) Aktualisierung der Beiträge zur "Sozialgerechten Bodennutzung" (SOBON) Antrag Nr. 02-08/A 02572 der Stadträte Robert Brannekämper und Josef Schmidt vom 22.07.2005
+- TOP 4.1.: Leistungsprogramm der MVG für die Fahrplanperiode 2007
+- TOP 4.2.: Erweiterung der S-Bahn-Abstellanlage Steinhausen
+- TOP 4.3.: 2. S-Bahn-Stammstrecke - Baustellenlogistik
+- TOP 4.4.: Verkürzung des absoluten Halteverbotes in der Hansjakobstraße
+- TOP 4.1.: Protokoll zum 5. Jour-Fixe der Bezirksausschüsse mit dem Kulturreferat
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe
+- TOP 4.2.: Beschlussvorlage zur Weiterfinanzierung von REGSAM
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Zirkusveranstaltung in der St.-Veit-Straße
+- TOP 4.2.: Freischankfläche in der Berg-am-Laim-Straße
+- TOP 4.3.: Abbruchantrag Freilassinger Straße
+- TOP 4.4.: Kanalbau in der St.-Michael-Straße
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
