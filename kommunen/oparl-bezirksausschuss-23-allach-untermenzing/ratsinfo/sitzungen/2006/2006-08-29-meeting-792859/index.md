@@ -1,0 +1,90 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2006-08-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/792859
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/792859
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Zerstörung der Leitpfosten
+- TOP 1.2.: Fa. MTU Aero Engines GmbH: Aktualisierung der Prüfstandsgenehmigungen
+- TOP 1.3.: Fa. MTU Aero Engines GmbH: Einladung zu einer Besprechung am 28.09.06 zu den Themen "Lärmminderungsmaßnahmen" und "Aktualisierung der Prüfstandsgenehmigungen"
+- TOP 2: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Anträge
+- TOP 3.1.: Anträge aus der Einwohnerversammlung vom 13.07.06
+- TOP 4: Entscheidungen
+- TOP 4.1.: Antrag auf Zuschuss aus dem Budget in Höhe von 750 Euro für Informationstafeln; Antragsteller: Landesbund für Vogelschutz in Bayern
+- TOP 4.2.: Antrag auf Zuschuss aus dem Budget in Höhe von 400 Euor für die Erstellung eines interaktiven Stadtteilführers; Antragsteller: REGSAM
+- TOP 5: Anhörungen
+- TOP 5.1.: Änderung des Flächennutzungsplanes und Bebauungsplan mit Grünordnung Nr., Stahlstraße (südlich), Hans-Goltz-Weg (westlich) und Pasinger Heuweg (östlich)
+- TOP 5.2.: Geplante Einziehung einer Teilstrecke der " Angerlohstraße "
+- TOP 5.3.: Errichtung einer Werbeanlage; Eversbuschstraße Nähe Hs.Nr. 210/DB-Brücke
+- TOP 5.4.: Errichtung zweier Gebäude für den Einzelhandel mit 96 Stellplätzen; Eversbuschstraße
+- TOP 5.5.: Dachauer Str. 665; Erweiterung des Heizwerkes im Gebäude 006 durch Errichtung und den Betrieb eines Blockheizkraftwerkes (BHKW), Fa. MTU Aero-Engines GmbH
+- TOP 5.6.: Dachauer Str. 665; Prüfstandsanlagen für Strahl- und Wellenleistungstriebwerke (Anlagen 2, 3 und 5), Antrag auf Genehmigung gem. § 16 BImSchG; Fa. MTU Aero Engines GmbH
+- TOP 5.7.: Verkauf einer städtischen Immobilie; Schöll - / Pasteurstraße
+- TOP 5.8.: Kinderfest und Entenrennen auf der Würm am 01.10.06
+- TOP 6: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8: Schreiben des Direktoriums
+- TOP 8.1.: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Refugio München e. V.
+- TOP 8.2.: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Kath. Pfarrgemeinde St. Martin Untermenzing
+- TOP 8.3.: 18.jetzt, Fest junger Erwachsener am 14.10.06 im Rathaus; Präsentation der BAs; Ergebnis der Besprechung vom 17.07.06
+- TOP 8.4.: Verwendungsnachweise über Zuschüsse aus dem Budget; Antragsteller: BRK Wasserwacht OG München-West und BRK Bereitschaft München West IV
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Straßenunterhalt in Allachu-Untermenzing
+- TOP 9.2.: Herbert-Schober-Straße zwischen Simonsfeld- und Hitlstraße
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Jestelstraße
+- TOP 10.2.: 30-km/h Allacher Straße Höhe Zwiedineckstraße; Beschränkung auf Schultage
+- TOP 10.3.: Verbesserung der Verkehrssicherheit für Radfahrer von Pasing, Aubing, Lochhausen, Langwied, Allach und Untermenzing in Richtung Langwieder-/ Lußsee und zurück
+- TOP 10.4.: Gaststättte "Herrnbräustüberl", Allacher Str. 150; unveränderte Fortführung
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO a) Theodor-Fischer-Str. 18, s. Baumbestandsplan Nr. 2006-17968 b) Eversbuschstr. 165, s. Baumbestandsplan Nr. 2006-16488 c) Willstätterstr. 13, s. Baumbestandsplan Nr. 2006-17484 d) Ernst-von-Romberg-Str. 8, 1 Schwarzkiefer e) Nußhäherstr. 25, 1 Fichte f) Eversbuschstr. 257a, 1 Schwarzkiefer g) Achwaldstr. 17, s. Baumbestandsplan Nr. 2006-19171 h) Frühaufstr. 26, 5 Fichten i) Krautheimstr. 33a, 1 Schwarzkiefer j) Dachauer Str. 667, s. Baumbestandsplan Nr. 2006-17827 k) Krautheimstr. 48 (DHH 1), s. Baumbestandsplan Nr. 2006-21116 l) Krautheimstr. 48 (DHH 2), s. Baumbestandsplan Nr. 2006-21117 m) Dyroffstr. 7, 1 Birke n) Haldenbergerstr. 38, 1 Fichte o) Allacher Str. 114a, 1 Lärche und 2 Fichten p) Haldenbergerstr. 49, 2 Fichten und 1 Kiefer r) Ossanastr. 8a, 2 Tannen s) Finsterwaldstr. 34, s. Baumbestandsplan Nr. 2006-21264 t) Korbinian-Beer-Str. 20, s. Baumbestandsplan Nr. 2006-21655 u) Auenbruggerstraße, s. Baumbestandsplan Nr. 2006-20002 v) Allacher Str. 305 b, s. Baumbestandsplan Nr. 2006-11225
+- TOP 11.2.: Bauanträge (v. 03.07.-09.07., 10.07-16.07., 17.07.-.23.07., 24.07.-30.07., 31.07.-06.08., 07.08.-13.08.06)
+- TOP 11.3.: Bürgerbeteiligungsverfahren zum städtischen Entwicklungsgebiet "Oertelplatz"; "Bürgerinnen und Bürger gestalten ihre Stadt", Bürgerbeteiliung in den Stadtvierteln
+- TOP 11.4.: Stadtratshearing "Die zukünftige Entwicklung des Wissenschafts- und Hochschulstandorts Münchens am 18.10.06"
+- TOP 11.5.: Gefahrenbaumfällung einer Weide im Bereich des Anwesens Friedhofgasse 7, LSG Würmniederung
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: Kommunales Wohnungsbauförderungsprogramm - KommPro B, hier: Pasteur-/ Schöllstraße, Erweiterungsbedarf für die Grundschule an der Eversbuschstr. 182, Ermittlung der Bedarfszahlen für Allach sowie langfristige Planungen
+- TOP 13.2.: Das Schulreferat trifft die BAs, Mitteilung der Termine 2007
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Allacher Straße
+- TOP 14.2.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Gruithuisenstraße
+- TOP 14.3.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Krautheimstraße
+- TOP 14.4.: Ausfertigung der Beschlussvorlage "Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung er gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe"
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 17.1.: 5. Jour Fixe Bezirksausschüsse, Protokoll der Sitzung vom 03.07.06
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 21 Pasing-Obermenzing: Radwegverbindung zum Langwieder See und Lußsee / Protokoll des Runden Tisches vom 10.04.06
+- TOP 20.2.: BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln: Schülerprojekt "Bevölkerungsentwicklung Stadtbezirk 19"
+- TOP 20.3.: BA 1 Altstadt-Lehel: Beschlussvorlage zur Weiterfinanzierung von REGSAM
+- TOP 20.4.: BA 21 Pasing-Obermenzing: Fahrradsperre an der nördlichen Ableitung Brücke über den Inselmühlweg
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen der Stadtwerke
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Sozialausschuss vom 22.06.06: - Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe (Sitzungsvorlage Nr. 02-08 / V 07901)
+- TOP 22.2.: Kinder- und Jugendhilfeausschuss vom 22.06.06: - Entwurf des Mehrjahresinvestitionsprogramm (MIP) 2006-2010, Einzelplan 4 / Jugendamtsbereich (Sitzungsvorlage Nr. 02-08 / V 08115)
+- TOP 22.3.: Bauausschuss vom 27.06.06: - Weinschenkstraße zwischen Professor-Eichmann-Straße und Bauseweinallee, Erstmalige Herstellung (Sitzungsvorlage Nr. 02-08 / V 08028)
+- TOP 22.4.: Sozialausschuss vom 06.07.06 - Bericht über REGSAM (Sitzungsvorlage Nr. 02-08 / V 08154)
+- TOP 22.5.: Ausschuss für Arbeit und Wirtschaft vom 18.07.06: - Leistungsprogramm der MVG für die Fahrplanperiode 2007
+- TOP 22.6.: Bauausschuss vom 18.07.06: - Fertigstellung der Radwegeverbindung zur Langwieder Seenplatte (Sitzungsvorlage Nr. 02-08 / V 08496)
+- TOP 22.7.: Schulausschuss vom 18.07.06: - Anhörungsverfahren zur Änderung der Volksschulsorganisation in der LH München; Sprengeländerung der Hauptschulen an der Haldenbergstr. 27, an der Leipziger Str. 7 und an der Franz-Nißl-Str. 55
+- TOP 22.8.: Ausschuss für Stadtplanung und Bauordnung vom 19.07.06: - Boden- und Bauschutt Recycling-Anlagen und Bodenbörsen in München (Sitzungsvorlagen Nr. 02-08 / V 08440 ) - Handlungsprogramm Mittlerer Ring 2001-2005 (Sitzungsvorlagen Nr. 02-08 / V 08161)
+- TOP 22.9.: Kulturausschuss vom 20.07.06 - Kultur im Stadtquartier (Ergänzung 14.07.06)
+- TOP 22.10.: Vollversammlung vom 26.07.06: - A) Sozialgerechte Bodennutzung - Der Münchner Weg, Fortschreibung der Stadtratsbeschlüsse vom 10.12.97 (Sozialgerechte Bodennutzung) und 21.03.01 (Soziales Wohnungsbauprogramm), Anpassung der Verfahrensgrundsätze vom 10.12.97, B) Aktualisierung der Beiträge zur Sozialgerechten Bodennutzung (Sitzungsvorlage Nr. 02-08 / V 08351) - Boden- und Bauschutt Recycling-Anlagen und Bodenbörsen in München (Sitzungsvorlage Nr. 02-08 / V 08440) - Handlungsprogramm Mittlerer Ring 2001-2005 (Sitzungsvorlage Nr. 02-08 / V 08161)
+- TOP 23: Verschiedenes
