@@ -1,0 +1,7 @@
+# TOP 4: Bauleitplanung Südliches Ringelshäuschen/ Sieglindenweg
+
+- Sitzung: Bezirksvertretung Gräfrath (2006-08-29)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/22764
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/5835
