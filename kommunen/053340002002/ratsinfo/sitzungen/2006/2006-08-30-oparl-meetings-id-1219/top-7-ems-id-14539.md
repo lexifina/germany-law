@@ -1,0 +1,8 @@
+# TOP 7: Antrag auf Bezuschussung von Ferienaktionstagen;Schreiben des Vereins zur Förderung der Jugendarbeit e.V. "Jugend in Aachen Nord West"
+
+- Sitzung: Sitzung der Bezirksvertretung Aachen-Richterich (2006-08-30)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=14539
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=3477&bi=6831
