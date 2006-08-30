@@ -1,0 +1,59 @@
+# 52. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2006-08-30T17:03:00+02:00
+- Ende: 2006-08-30T20:30:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1162
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1162
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=32165
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - ohne Änderungen in der BVV beschlossen
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Workshops der Musikschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Ordnungsgemäße Meldung beim Verdacht auf gesundheitsschädigende Umwelteinflüsse gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Mahnkreuz für Marinetta Jirkowsky - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Gender-Produkte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Bezirkliche Sozialdienste - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Gesamtkonzept für als besonders belastet ausgewiesene Kieze in Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.7: Parkplatzsituation in Tegel prüfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.8: Aufstellung des Bebauungsplanes XX-183b für die Grundstücke Provinzstraße 113 - 127, Letteallee 88/94, Gesellschaftstraße 16 - 25, Ritterlandweg 53/63 sowie Abschnitte der Provinzstraße, der Gesellschaftstraße und des Ritterlandweges im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Festsetzung des Bebauungsplanes XX-100 für die Grundstücke Spießweg 38 - 38 B (teilweise) und 42 / 182, eine Teilfläche an der Hermsdorfer Straße - Grundbuch von Wittenau, Blatt 4453 (teilweise) - sowie für einen Abschnitt des Spießweggrabens im Bezirk Reinickendorf, Ortsteil Wittenau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Erlass der Verordnung über die Festsetzung des Bebauungsplanes 12-9 für die Fläche zwischen Wittenauer Straße, Creienfelder Weg und der Straße Am Klötzgraben im Bezirk Reinickendorf, Ortsteil Lübars - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.11: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-172a - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.12: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-235 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.13: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-236c - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.14: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-237 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.15: Erhalt des Standortes Wiesengrund für die Kinder- und Jugendpsychiatrie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.16: Standort Wiesengrund - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Serenade am See 2006 - beantwortet
+- TOP 6.2: Tragischer Unglücksfall am Tegeler Hafen - beantwortet
+- TOP 6.3: Anfrage der NPD nach Veranstaltungsräumlichkeiten - beantwortet
+- TOP 6.3.1: Gemeinsam gegen rechts - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Miss- oder Veranstaltungsmanagement? - beantwortet
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Radverkehrskonzept für den Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Spielplatzwächter einsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Pflanzungen und Fällungen durch das Bezirksamt - erledigt
+- TOP 8.4: Umweltfreundliche Wasserstoffbusse nach Reinickendorf - erledigt
+- TOP 8.5: Überführung der Reinickendorfer Schulen in ein Public Private Partnership - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Mobiles Bürgerbüro - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Sicherheitskonzept für das Krankenhaus des Maßregelvollzugs prüfen - in der BVV abgelehnt
+- TOP 8.8: Behindertengerechte Ausstattung im Ernst-Reuter-Saal - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Ernährung und Gesundheitspädagogik bei Kindern - erledigt
+- TOP 8.10: Fechtanlage Stötzner-Schule - erledigt
+- TOP 8.11: Abfederung aller zu erwartenden Defizite des Kita-Eigenbetriebes Nordwest - ohne Änderungen in der BVV beschlossen
+- TOP 8.12: Erweiterung der Sammlung der Graphothek - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 10: Ersuchen - (offen)
+- TOP 11: Empfehlungen - (offen)
