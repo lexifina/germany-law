@@ -1,0 +1,74 @@
+# 52. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2006-08-31T16:30:00+02:00
+- Ende: 2006-08-31T22:10:00+02:00
+- Ort: Alt-Köpenick 21, 12555 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1289
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1289
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. V_54 und V_55 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - erledigt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Gesamtfinanzierung Alte Möbelfabrik und Flussbad Gartenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Flächen für Garagennutzung im Bezirk - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Selbsthilfegruppe "Multiple Sklerose" (SM 645) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Schlossplatztheater (SM 650) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Ev. Kirchengemeinde Rahnsdorf (SM 654) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Freunde der Joseph Schmidt Musikschule e.V. (SM 651) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Erledigung von Beschlüssen der Bezirksverordnetenversammlungen bis zum 27.11.2001 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Erlass der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB für das Gebiet "Dorfkern Alt-Müggelheim" im Bezirk Treptow-Köpenick von Berlin, Ortsteil Müggelheim - überwiesen
+- TOP 11.7: Bebauungsplan 9-3 ("Reinbeckhallen") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Oberschöneweide - Entwurf des Bebauungsplans 9-3 - Entwurf der Rechtsverordnung zum Bebauungsplan 9-3 - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Genehmigung der im Haushaltsjahr 2005 in Anspruch genommenen über- und außerplanmäßigen Ausgaben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Bezirkshaushaltsrechnung 2005 - überwiesen
+- TOP 11.10: Sondermittel für offensiv '91 e.V. (SM 657) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.1: Optimierung der Wartezeiten in den Bürgerämtern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Aufstellung von Internetterminals - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Straßenbenennung nach Siegfried Berger - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Regional zuständig – regional arbeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Kinderspielplatz in Müggelheim - überwiesen
+- TOP 12.6: Benennung der bis jetzt unbenannten Stichstraße in den KGA Wilhelmstrand und Am Freibad in Oberschöneweide in "Spreeschlossstraße" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Bebauungsplan XVI-3 ("Ausschluss großflächiger Einzelhandel Oberschöneweide") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Bebauungsplan 9-3 hier: Änderung des Geltungsbereiches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Bebauungsplan XV-32 ("Garagenkomplex Südostallee") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Reinigungsleistungen an Schulen erhöhen - mit Änderungen in der BVV beschlossen
+- TOP 12.11: Benennung Straße 174 (Altglienicke) - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Finanzielle Mittel für kommunale Partnerschaften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Straßenbahn in Treptow-Köpenick erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Schleichverkehr im Ortsteil Friedrichshagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Radfahren durch Alt-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Radverkehr in der Baumschulenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Leitlinien für die Seniorenpolitik des Bezirksamtes Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Bezirkshaushaltsrechnung 2004 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.19: Bericht über die Tätigkeit des Ausschusses für Eingaben und Beschwerden im Zeitraum 14.02.2002 – 22.08.2006 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.20: Bericht zu Zielvereinbarungen des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.1: Vereinheitlichung der Planungsräume im Bezirk Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Bebauungsplan XVI-45 ("Segewaldweg") hier: Einstellung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Bebauungsplan XVI-23 ("Innenbereich Müggelheim") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.4: Bebauungsplan XV-2 ("Sportanlagen Treptow") hier: Reduzierung des Geltungsbereiches - überwiesen
+- TOP 13.5: Vorhabenbezogener Bebauungsplan 9-29 VE ("Einkaufszentrum Siriusstraße") hier: Einleitung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.1: Ordnungsamtspräsenz am Schmollerplatz - überwiesen
+- TOP 14.2: Personelle Verstärkung der Wirtschaftsförderung - überwiesen
+- TOP 14.3: Dokumentation zum "Hauptmannjahr 2006" - überwiesen
+- TOP 14.4: Würdigung von Ernst Ruska zum 100. Geburtstag - mit Änderungen in der BVV beschlossen
+- TOP 14.5: Festliche Veranstaltung Rathaus Treptow - im Ältestenrat zurückgezogen
+- TOP 14.6: Mail-Erreichbarkeit des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Würdigung von Stefan Heym - Ablauf der Wahlperiode
+- TOP 15: Große Anfragen - Ablauf der Wahlperiode
+- TOP 15.1: Tops und Flops der letzten Wahlperiode - Ablauf der Wahlperiode
