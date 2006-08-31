@@ -1,0 +1,6 @@
+# TOP 1: Vortrag: Vor- und Nachteile einer Anstalt öffentlichen Rechts (Fr. Jänicke, H. Gaßner, GGSC, Berlin)
+
+- Sitzung: 12. Sitzung (2006-08-31)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/60741
