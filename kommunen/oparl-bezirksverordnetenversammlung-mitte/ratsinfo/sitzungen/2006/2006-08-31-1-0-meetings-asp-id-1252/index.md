@@ -1,0 +1,117 @@
+# 49. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2006-08-31T17:30:00+02:00
+- Ende: 2006-08-31T22:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1252
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1252
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=54431
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde -Anfrage des Hausprojektes Brunnenstraße 183 - "Umsonstladen" - erledigt
+- TOP 2: Mitteilung - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - erledigt
+- TOP 4: Thematische Stunde - (offen)
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Biergarten und Kiosk auf dem Alex - beantwortet
+- TOP 5.2: Sicherheitslücken im Bürgeramt? - beantwortet
+- TOP 5.3: Schadstoffbelastung im Wohngeldamt - beantwortet
+- TOP 5.4: Bebauung Paech Brot-Areal - beantwortet
+- TOP 5.5: .....wo sind sie geblieben, was ist geschehen? - beantwortet
+- TOP 5.6: Volkspark Weinbergsweg - beantwortet
+- TOP 5.7: Stolpersteine - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Registrierung und Lagerung der so genannten Klebeetiketten für Aufenthaltsgenehmigungen - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Hilfe zur Pflege - beantwortet
+- TOP 7.2: Ist der Eigenbetrieb "Kindergärten City" wirklich ein Millionengrab? - beantwortet
+- TOP 7.3: Jobstopp im Jobcenter? - beantwortet
+- TOP 7.4: Konzept eines Einkaufszentrums Stromstraße/ Ecke Turmstraße - beantwortet
+- TOP 7.5: Bildung in Mitte - schriftlich beantwortet
+- TOP 7.6: Brunnenstraße 183 - Umsonstladen - schriftlich beantwortet
+- TOP 7.7: Umsetzung des "Gesetzes zur Stärkung der Mitwirkung der Seniorinnen und Senioren am gesellschaftlichen Leben im Land Berlin" - schriftlich beantwortet
+- TOP 7.8: Personalausstattung an den Schulen - schriftlich beantwortet
+- TOP 7.9: Berufliche Orientierung von Jugendlichen - mit oder ohne EU-Geld? - schriftlich beantwortet
+- TOP 7.10: Förderalismusreform und kommunale Jugendarbeit - schriftlich beantwortet
+- TOP 7.11: Immobilie für die Berliner Tafel - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Ergänzungsplan Mitte für das Haushaltsjahr 2007 - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2003 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2004 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Festsetzung der Erhaltungsverordnung gemäß § 172 Abs. 1 Nr. 1 Baugesetzbuch (BauGB) für das Gebiet Luisenstädtischer Kanal mit Umfeld - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Festsetzung der Erhaltungsverordnung gemäß § 172 Abs. 1 Nr. 1 Baugesetzbuch ( BauGB) für das Gebiet Köllnischer Park mit Umgebung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Fortschreibung und Konkretisierung der Sanierungsziele für das Areal der Hemingway-Oberschule ( Elisabethkirchstraße 19-20, Ackerstaße 28, Invalidenstraße 5) im Sanierungsgebiet Rosenthaler Vorstadt im Bezirk Mitte von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Reisebusparkplätze in der Rathausstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Breite Beteiligung an der Wahl der Seniorenvertretung - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Verkauf von Grundstücken nur gegen Bares - überwiesen
+- TOP 11.4: Keine Vernichtung des historischen Moabit! - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Bebauungsplan am Bhf. Gesundbrunnen einleiten - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Busverkehr zwischen Perleberger Brücke und S-Bahnhof Jungfernheide - mit Änderungen in der BVV beschlossen
+- TOP 12.3: Kampagne "Verantwortlicher Freier" - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Dank an die Beschäftigten für ihre Leistungen während der Fußball-WM - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Neuordnung des Öffentlichen Gesundheitsdienstes - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Erhalt Wohn- und Sozialprojekt Brunnenstraße 183/ "Umsonstladen" - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Galerie Nord in das touristische Leitsystem aufnehmen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Warenhaus Jandorf erhalten! - überwiesen
+- TOP 12.9: Bezirkspartnerschaft mit der Türkei - mit Änderungen in der BVV beschlossen
+- TOP 12.10: Keine Straßenumbenennung im Afrikanischen Viertel - in der BVV abgelehnt
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Verbesserung der Datenlage bei häuslicher Gewalt - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Frische Luft in das JobCenter! - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Sanierungsbedarf für Gebäude der 11. Grundschule Mitte
+- TOP 14.2: Fahrradständer an U-Bahnhöfen (alt: Drucksachen Nr. I/310)
+- TOP 14.3: Fahrradstellplätze Lehrter Bahnhof
+- TOP 14.4: Energiesparen als Kapitalanlage: Bürgercontracting - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.5: Ausschreibung der Vermessung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Hoftheater Hexenkessel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Änderung des "BVG Verkehrskonzept 2005 plus" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Strandbar Mitte erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Lärmminderung an Hauptverkehrsstraßen in der Nacht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Zielvereinbarungen ins Internet - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.11: Baumaßnahme in der City-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Ombudsfrau, Ombudsmann - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: Gesundheits- und Sozialzentrum Moabit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.14: Gute Akutpflege auch für alte Menschen gewährleisten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.15: Für eine bürgerfreundliche Planung in der Invalidenstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.16: Kleine Auguststraße ohne Poller - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.17: Einzelfallbetreuung aller ALG-II-Antragsteller/innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.18: B-Plan I-52a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.19: Umgestaltung Weinbergspark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.20: Planung Uferpromenade Monbijoupark korrigieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.21: Prioritätensetzung des Allgemeinen Ordnungsdienstes (AOD) - sog. Kiezstreife - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.22: Ampelschaltung am Großen Stern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.23: 147 - Linienführung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.24: SeniorInnen-Arbeit zur Querschnittsaufgabe machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.25: Situation von Schwerstkranken in stationären Pflegeeinrichtungen verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.26: Videoüberwachung für die U-Bahnlinie 8 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.27: Soziale Nutzung des Gesundheits- und Sozialstandortes Moabit durch die Berliner Tafel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.28: Einrichtung eines Arbeitskreises "Gesunder Bezirk Mitte" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.29: Gleichberechtigte Verkehre durch die Invalidenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.30: Allein grün bringt mehr Sicherheit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.31: Mehr Transparenz bei den Angeboten des Jobcenters - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.32: Wirtschaftliche Entwicklung in Moabit Nord - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.33: Erstellung einer Statistik zur Wohnkostenübernahme bei Alg II-Empfängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.34: Neubebauung ehem. Paechbrot-Gelände im Sanierungskiez hier: Voten des Betroffenenrates Stephankiez berücksichtigen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.35: Räume für die Berliner Tafel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.36: Hinweisschilder für öffentliche Nutzung des Krausnickparks - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.37: Spielplatz-Öffnung in der Tieckstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.38: über die im ersten Halbjahr des Haushaltsjahres 2006 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.39: Benennung von öffentlichen Straßen in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.40: Programmmittel "Soziale Stadt" 2006 - 2008 der Quartiersmanagementgebiete Reinickendorfer-/ Pankstraße, Moabit West, Magdeburger Platz, Soldiner Straße und Sparrplatz und der Stadtteilmanagementgebiete Ackerstraße und Brunnenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.41: Aufstellung des Bebauungsplans 1-42B im Bezirk Mitte, Ortsteil Tiergarten und die Durchführung der Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch ( BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.42: Zulässigkeit des BürgerInnen-Begehrens zur Wiedereröffnung des Sommerbades Poststadion in Moabit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.43: Beschlüsse zur Einstellung der Bebauungsplanverfahren I-35, I-37, I-59a, I-59b, I-59d, I-59f, II-119, II-140, II-141b, II-B6, II-26-1, 1-7B, III-45-1, III-139, III-157, III-182, III-183, III-225, III-228, III-230, III-236, III-B1-1 - mit Abschlussbericht zur Kenntnis genommen
