@@ -1,0 +1,51 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2006-09-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/817674
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/817674
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Sachstand Nachnutzung Oktoberfestbauhof Meindlstraße
+- TOP 4: Schulreferat
+- TOP 4.1.: Informationsgespräch Bezirksausschüsse / Schulreferat 2007
+- TOP 5: Gaststättenangelegenheiten
+- TOP 5.1.: Warenstellage Daiserstraße 5
+- TOP 5.2.: Freischankfläche Gaststätte "Piccola Italia", Aberlestraße 14
+- TOP 5.3.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6: Verkehrsangelegenheiten
+- TOP 6.1.: Haltestelle der Buslinie 53 am Herzog-Ernst-Platz
+- TOP 6.2.: Bauvorhaben der Stadtwerke München
+- TOP 6.3.: Personenbezogener Behindertenparkplatz Aberlestraße vor dem Haus Nr. 6
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 7.1.: Budgetantrag "Offene Ateliers Sendling 2006", Initiative Kunst in Sendling; ? 5210,-
+- TOP 7.2.: Budgetantrag Tagespflege Baby Daisy, Einbau einer Blitzschutzanlage; ? 5000,-
+- TOP 7.3.: Offizielle Einweihungsfeier der Fuß- und Radwegbrücke über die Ganghoferstraße, sowie der Künstlerateliers; Finanzierung des Kinderprogramms aus dem BA-Budget; ? 500,-
+- TOP 7.4.: Fest junger Erwachsener; Protokoll der Veranstaltung vom 17.07.2006
+- TOP 7.5.: Durchführung einer BA-Sitzung für Kinder und Jugendliche
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Kochelseestraße; Neubau eines türkisch-islamischen Kulturzentrums mit Tiefgarage
+- TOP 8.3.: Errichtung einer Werbeanlage in der Albert-Roßhaupter-Straße
+- TOP 9: Baureferat
+- TOP 9.1.: Weihnachtsmarkt Am Harras
+- TOP 9.2.: Schaffung von mehr Fahrradabstellflächen im Straßenraum; Realisierung eines Radständers am Mittelstreifen der Albert-Roßhaupter-Straße auf Höhe der VHS Süd
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Schäftlarnstraße, drei Kiefern
+- TOP 10.2.: Fällungsgenehmigung für einen Baum in der Königsdorfer Straße 11
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 11.1.: Schaffung einer Haltmöglichkeit für die S-Bahnlinie 20 am Bahnhof Harras
+- TOP 11.2.: Offenlegung der bisherigen Grundstücks- und Finanzierungsvorgänge der Landeshauptstadt München bezüglich des Moscheebaus - <div>vertagt</div>
+- TOP 11.3.: Umgestaltung des Platzes Am Harras
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Kultur im Stadtquartier
