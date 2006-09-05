@@ -1,0 +1,68 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-09-05T15:00:00+02:00
+- Ende: 2006-09-05T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1875
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1875
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111678.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111678.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111678.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Beschlussfassung gem. § 21 GO des Rates - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschriften - einstimmig beschlossen
+- TOP 4: Anfragen und Anträge
+- TOP 5: Erhöhung der Elternbeiträge - zur Kenntnis genommen
+- TOP 6: Anfrage CDU - Umsetzung Familienzentren - zur Kenntnis genommen
+- TOP 7: Anfrage CDU - Übergang Schule - Beruf - zur Kenntnis genommen
+- TOP 8: Anfrage CDU - Zusammenarbeit Jugendberufshilfe - zur Kenntnis genommen
+- TOP 9: Anfrage CDU - Betreuung für Kinder unter 3 Jahren - zur Kenntnis genommen
+- TOP 10: Anfrage Bündnis 90 / Die Grünen: Bildungsoffensive - zur Kenntnis genommen
+- TOP 11: Antrag Bündnis 90 / Die Grünen: Jugend-Internet - einstimmig beschlossen
+- TOP 12: Dringlichkeitsbeschluss gemäß § 60 GO NW
+- TOP 13: Dringlichkeitsbeschluss Jugendberufshilfe gGmbH - zur Kenntnis genommen
+- TOP 14: Öffentliche Anerkennung gemäß § 75 SGB VIII
+- TOP 15: Öffentl. Anerkennung 'St. Ursula D'dorf-Grafenberg - einstimmig beschlossen
+- TOP 16: Flexible Hilfen GbR - öffentliche Anerkennung - einstimmig beschlossen
+- TOP 17: KIN-TOP Förderungszentrum - öffentl. Anerkennung - einstimmig beschlossen
+- TOP 18: Lernen und Leben e.V. - öffentliche Anerkennung - einstimmig beschlossen
+- TOP 19: Einbringung des Haushalts 2007
+- TOP 20: Jugendsozialarbeit (§ 13 SGB VIII)
+- TOP 21: Maßnahme Step by Step
+- TOP 22: Tageseinrichtungen für Kinder
+- TOP 23: Neubau Kindertageseinrichtung Selbecker Straße - einstimmig beschlossen
+- TOP 24: Bau, Einrichtung und Instandsetzung
+- TOP 25: Bau, Einrichtung und Instandsetzung von Kitas - einstimmig beschlossen
+- TOP 26: Bau, Einrichtung, Instandsetzung v.Kitas Nachtrag - einstimmig beschlossen
+- TOP 27: Auswirkungen Novellierungen Kindertagespflege
+- TOP 28: Jugendförderung
+- TOP 29: Schulkindbetreuung vom 01.08.06 - 31.07.07 - zur Kenntnis genommen
+- TOP 30: Verwendung zusätzl. Landesmittel offene Türen - einstimmig beschlossen
+- TOP 31: Geförderte Maßnahmen aufsuchender Sozialarbeit - einstimmig beschlossen
+- TOP 32: Aufhebung eines Sperrvermerks - einstimmig beschlossen
+- TOP 33: Investitionskostenzuschuss Falkenheime e.V. - einstimmig beschlossen
+- TOP 34: Investitionskostenzuschuss ASP Eller e.V. - einstimmig beschlossen
+- TOP 35: Projekt Jugend, Kultur und Schule - einstimmig beschlossen
+- TOP 36: Bericht zum Qualitätsmanagement für künstlerische - einstimmig beschlossen
+- TOP 37: Masterplan Kinderspielplätze - Maßnahmen 2007 - - zur Kenntnis genommen
+- TOP 38: Sachstandsbericht räuml. Erweiterung JFE Kiefernst - zur Kenntnis genommen
+- TOP 39: Öffnungszeiten JFE An der Icklack / Höherweg - zur Kenntnis genommen
+- TOP 40: Soziale Dienste
+- TOP 41: Versicherungen für Pflegepersonen
+- TOP 42: Umstellung von vertraglichen Zuwendungen - zur Kenntnis genommen
+- TOP 43: Verwendung der Mittel Bezirksfonds - einstimmig beschlossen
+- TOP 44: Investitionskostenzuschüsse
+- TOP 45: Investitionskostenzuschüsse an freie Träger - einstimmig beschlossen
+- TOP 46: Investitionskostenzuschuss - Umwidmung ASG-Bildung - einstimmig beschlossen
+- TOP 47: Investitionskostenzuschuss - Umwidmungsantrag AWO - einstimmig beschlossen
+- TOP 48: Controllingberichte
+- TOP 49: Controllingbericht Tageseinrichtung f. Kinder - zur Kenntnis genommen
+- TOP 50: Controllingbericht Kinder- und Jugendförderung - zur Kenntnis genommen
+- TOP 51: Controllingbericht HZE - einstimmig beschlossen
