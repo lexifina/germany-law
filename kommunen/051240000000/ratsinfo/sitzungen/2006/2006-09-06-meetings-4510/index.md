@@ -1,0 +1,79 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2006-09-06T16:07:00+02:00
+- Ende: 2006-09-06T16:27:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/4510
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/4510
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 24.08.06 - 07.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00070589.pdf
+
+## Tagesordnung
+
+- TOP 0: Vor Eintritt in die Tagesordnung findet die Verleihung der Ehrenbezeichnung "Altbürgermeisterin" an
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Beschluss über die Verleihung eines Ehrenringes
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Standardbefreiungsgesetz NRW
+- TOP 2.2: Bauleitplanverfahren Kleine Höhe
+- TOP 2.3: Neonazistische Übergriffe
+- TOP 2.4: Zukunft der Weiterbildung in der Bergischen Volkshochschule
+- TOP 2.5: Bebauungsplan 1018 - Steinhauser Bergstraße
+- TOP 2.6: Abriß und Neubau von Schwebebahnhöfen und Wagenhallen unter Denkmalschutz
+- TOP 2.7: Zukunft der beruflichen Frauenförderung in Wuppertal
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag auf Benennung einer Straße oder eines Platzes nach Arno Breker - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Senkung der Sondernutzungsgebühren für die Außengastronomie - abgelehnt
+- TOP 4.2: Unterstützung der Volksinitiative "Sichere Wohnungen und Arbeitsplätze" - abgelehnt
+- TOP 4.3: Resolution Weiterfinanzierung der Regionalstellen "Frau und Beruf" - vertagt auf Rat
+- TOP 4.3.1: Erhalt der Regionalstellen Frau und Beruf - vertagt auf Rat
+- TOP 4.4: Gleichbehandlung von Geschwisterkindern in Betreuungsangeboten - Nichtbefassung beschlossen
+- TOP 4.5: Mitgliedschaft in der Fluglärmkommission - vertagt auf Rat
+- TOP 4.6: Einsetzung eines Schulbusses zur Grundschule Haselrain - in der Sache erledigt
+- TOP 4.7: Änderung der Ehrenordnung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 4.8: Resolution zur Änderung des Straftatbestandes der Bestechung und Vorteilsannahme von Mitgliedern von
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Ausbau von Betreuungsplätzen von unter dreijährige Kinder wird umgesetzt - in der Sache erledigt
+- TOP 6: Ortsrecht
+- TOP 6.1: Rückwirkende Gebührensatzänderung in der Abfallwirtschaft 2006 - ungeändert beschlossen
+- TOP 6.2: 8. Satzung zur Änderung der Abfallwirtschaftssatzung der Stadt Wuppertal vom 17. Dezember 1999 - ungeändert beschlossen
+- TOP 6.3: Aufhebung der Satzung und der Entgeltordnung für die Volkshochschule und die Familienbildungsstätte - ungeändert beschlossen
+- TOP 6.4: Vergnügungssteuersatzung - ungeändert beschlossen
+- TOP 6.5: Änderung der Geschäftsordnung des Rates
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Finanzierung der Turnhallen-Sanierung am Hedtberg - ungeändert beschlossen
+- TOP 7.2: Sofortmaßnahmen an gefährdeten Ingenieurbauwerken - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2005 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich u - ungeändert beschlossen
+- TOP 8.2: Entlastung Betriebsausschuss Alten- und Altenpflegeheime der Stadt Wuppertal (APH) 2005 - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss der Stadtsparkasse Wuppertal für das Geschäftsjahr 2005 - ungeändert beschlossen
+- TOP 8.4: Neuausrichtung der Versorgungs- und der Verkehrssparte der Wuppertaler Stadtwerke AG
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 543 A - Clarenbachstraße- - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 1085 V -Am Kraftwerk- - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubau einer Turnhalle an der Gesamtschule Ronsdorf, An der Blutfinke - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Stadtentwässerung - Maßnahmenkatalog 2007/Katalogentwurf 2008 - ungeändert beschlossen
+- TOP 11.1.1: Stadtentwässerung - Maßnahmenkatalog 2007/Katalogentwurf 2008 - ungeändert beschlossen
+- TOP 11.2: Kinder- und Jugendförderplan 2006 - 2009 der Stadt Wuppertal - geändert beschlossen
+- TOP 11.2.1: Ergänzung zum Kinder- und Jugendförderplan - zur Vorberatung verwiesen
+- TOP 11.2.2: Konzept zur Öffnung und Sicherung von Schulhöfen - zur Vorberatung verwiesen
+- TOP 11.2.3: Verbesserung der Lage von Kindern und Jugendlichen mit Migrationshintergrund - zur Vorberatung verwiesen
+- TOP 11.2.4: Überprüfung von Nutzungseinschränkungen auf Spielplätzen - Ergänzungsantrag zu TOP 11.2, Kinder- und - zur Vorberatung verwiesen
+- TOP 11.2.5: Überprüfung von Straßen auf ihre Eignung als Spielstraße oder verkehrsberuhigter Bereich - zur Vorberatung verwiesen
+- TOP 11.2.6: Stadtteilservice Wuppertal - zur Vorberatung verwiesen
+- TOP 11.3: Grundsatzbeschluss Soziale Stadt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 11.4: Schenkung einer Büste von Armin T. Wegner - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - vertagt auf Rat
+- TOP 12.2: Umbesetzung im Migrationsausschuss - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.4: Sachkundige Einwohner im Kulturausschuss - ungeändert beschlossen
+- TOP 12.5: Umbesetzung von Ausschüssen - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 13.1: Ordnungsbehördliche Verordnung zur einstweiligen Sicherstellung von Naturdenkmalen gem. § 42e LG NRW - Dringlichkeitsentscheidung genehmigt
