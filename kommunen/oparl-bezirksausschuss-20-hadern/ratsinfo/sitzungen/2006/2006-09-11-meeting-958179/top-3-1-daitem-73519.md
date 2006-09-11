@@ -1,0 +1,7 @@
+# TOP 3.1.: Maenherstr. 18, 1 Birke
+
+- Sitzung: BA 20 - Vollgremium (2006-09-11)
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/73519
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/73519
