@@ -1,0 +1,62 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2006-09-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/958179
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/958179
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkauf von MVG-Marken
+- TOP 1.2.: Hinweisschild am Bolzplatz Stiftsbogen
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Maenherstr. 18, 1 Birke
+- TOP 3.2.: Plazerstr. 10, 1 Lärche
+- TOP 3.3.: Schietweg 8, 1 Tanne
+- TOP 3.4.: Wildanger 17, 1 Tanne
+- TOP 3.5.: Waldesruhe, gem. Baumbestandsplan Nr. 2006 - 23707
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Gefahrenbäume im Waldfriedhof (Baureferat, 31.07.2006)
+- TOP 3.2.: Gefahrenbäume im Waldfriedhof (Baureferat, 26.07.2006)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag von REGSAM auf Gewährung eines Zuschusses auf dem BA-Budget in Höhr von 1.240,00 ? (Direktorium, 14.08.2006)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Karl-Witthalm-Straße nördlich Anwesen Haus Nr. 3 (KVR, 10.07.2006)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Errichtung einer Kooperationseinrichtung für 2 Kindergarten- und 2 Kinderkrippengruppen (Referat für Stadtplanung und Bauordnung, 14.08.2006)
+- TOP 8.2.: Voranfrage zur Straßenbenennung (Kommunalreferat, 18.08.2006)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Einzäunung des Spielplatzes Sonnenblumenstraße ( Am Waldrand und Aufbau eines Spielgerätes für größere Kinder; BA-Antrag Nr. 1356 vom 10.07.2006 (Baureferat, 21.08.2006)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Leistungsprogramm 2007, Linie 167 bleibt zum Fahrplanwechsel am 10.12.2006 unverändert
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Dokumentation der Fachtagung Kommunale Integrationspolitik 2005 (Sozialreferat)
+- TOP 11.2.: Verbesserung für Familien im Westbad (BA 21, 08.08.2006)
+- TOP 11.3.: Josef-Sterr-Straße (Bürgerinformation)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: am 26.07.2006: Leistungsprogramm der MVG für Fahrplanperiode 2007
+- TOP 12.2.: am 26.07.2006: Satzung über den Besuch der Kooperationseinrichtung und Kindertagesstätten der LHM
+- TOP 12.3.: am 26.07.2006: A. Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 10.12.1997 und 21.03.2001; Anpassung der Verfahrensgrundsätze "Sozialgerechte Bodennutzung" vom 10.12.1997 B. Aktualisierung der Beiträge zur Sozialgerechten Bodennutzung
+- TOP 12.1.: Beschluss des Kulturausschusses vom 20.07.2006 (Ergänzung): Kultur im Stadtquartier; Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen; Evaluierung kultureller Zentren; Kulturelle Zentren und Stadtteilwochen; Kulturzentren entlasten: Hftpflicht- und Versicherungsfragen zentral klären; Kulturzenten: Das Rad nicht 30mal neu erfinden - zentrale Unterstützung für Raum-, Buchungs- und Verwaltungsaufgaben; Gesamtkonzept für die stadtteilkulturellen Einrichtungen
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.07.2006: Handlungsprogramm Mittlerer Ring 2001 - 2005 a) 4. Sachstandsbericht für die Jahre 2004 und 2005 b) Ergebnisse der Beratungen des Konsiliums und Ausblick c) Anträge und Empfehlungen
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
