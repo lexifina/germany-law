@@ -1,0 +1,7 @@
+# TOP 14.6.: Planungsreferat - Egenhofstr. 11, Ausbau des Dachgeschosses und Errichtung einer zusätzlichen Wohneinheit - Adelsbergstr. 1, Fällungsgenehmigung - Stadtratshearing "Die zukünftige Entwicklung des Wissenschafts- und Hochschulstandorts München" am 18.10.06 - Verkehrskonzept Zentrum Pasing (Anfrage aus der Bürgerversammlung vom 16.05.06) - Umgestaltung von Pasing (Antrage aus der Bürgerversammlung vom 16.05.06) - Baumfällungen auf dem Grundstück der Pfarrei Leiden Christ, Pfarrkirche St. Georg - Verkehrsuntersuchung Nördliches Würmtal; Verlängerung der St 2063 neu nach München-Pasing - Sachstand bzgl. der Überplanung von Grundstücken an der Institutstraße -Allgemeines Eisenbahngesetz (AEG); Plangenehmigung nach § 18 Abs. 2 AEG; ESTW ZU München-Pasing (Süd und Nord), München Laim Rbf. für die Bereiche Btf. München-Pasing, -Westkreuz, -Laim Rbf, - Friedenheimerbrücke Abzw., Abzw. Mü. Kanal, Mü. Landsber-ger Straße, Bf.Mü.-Lochhausen - Planfeststellung nach § 18 Abs. 1 AEG; S 1 Flughafenanbindung West, 2. Baustufe, Neulustheim zwischen Laim und Moosach auf der Strecke 5500 München-Regensburg - Hildachstr. 39, Müllcontainerlagerung
+
+- Sitzung: BA 21 - Vollgremium (2006-09-12)
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/73739
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/73739
