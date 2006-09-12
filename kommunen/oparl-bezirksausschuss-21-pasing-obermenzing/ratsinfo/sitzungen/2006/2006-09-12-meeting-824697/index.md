@@ -1,0 +1,181 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2006-09-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/824697
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/824697
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Verkehrsgefährung wegen Dauerparker entlang Dorfstraße - Kriegerdenkmal und gegenüber
+- TOP 2.2.: Parken von LKWs in der Sarasatestraße
+- TOP 2.3.: Tarife im Westbad
+- TOP 2.4.: Verkehrssituation in der Paul-Gerhard-Allee, Antrag auf Geschwindigkeitsbeschränkung
+- TOP 2.5.: Errichtung einer Wasserstelle im Westbad-Park
+- TOP 2.6.: Asylantenwohnheim Scheurlinstraße
+- TOP 2.7.: Badequalität in der Würm
+- TOP 2.8.: Radfahren auf dem Gehweg entlang des Würmkanals zwischen Westerholzstraße und Theodor-Storm-Straße
+- TOP 2.9.: Verlängerung der U 5 West zum Bahnhof Pasing
+- TOP 2.10.: Graffiti-Unwesen in der Gräfstraße
+- TOP 2.11.: Bauvorhaben Amalienburgstr. 2, Neubau eines Getränkemarktes
+- TOP 2.12.: Ausbau des Sonderflughafens Oberpfaffenhofen, Lärmbelastung durch Anflug über Obermenzing
+- TOP 2.13.: Unterführung am Pasinger Bahnhof / Zustände auf der Südseite
+- TOP 2.14.: Durchgangsverkehr in der Georg-Angermair-Straße
+- TOP 2.15.: Boden- und Bauschutt Recyclinganlagen - Bergsonstr. 115
+- TOP 2.16.: Bebauungsplan Menzinger Straße / Ecke Amalienburgstraße
+- TOP 2.17.: LKW-Verkehr in der Bäckerstraße
+- TOP 2.18.: Eröffnung der neuen Straßen "Lochhausener- / Bergson- und Obere Mühlstraße neu", Situationsbericht und Forderung weiterer Maßnahmen
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Loichingerstr. 3, Baumbestandsplan Nr. 06-17737 (vertagt aus der Sitzung am 25.07.06)
+- TOP 3.2.: Böcksteiner Str. 37 c, 1 Ahorn, 1 Esche (vertagt aus der Sitzung am 25.07.06)
+- TOP 3.3.: Bäckerstr. 34 f, 14 Fichten
+- TOP 3.4.: Paosostr. 45, Baumbestandsplan Nr. 06-20303 (vertagt aus der Sitzung am 25.07.06)
+- TOP 3.5.: Suessenguthstr. 8, 1 Eiche (vertagt aus der Sitzung am 25.07.06)
+- TOP 3.6.: Bauseweinallee 67, 1 Baum
+- TOP 3.7.: Musäusstr. 5, 1 Walnussbaum
+- TOP 3.8.: Strindbergstr. 17, 1 Fichte
+- TOP 3.9.: Marschnerstr. 55, 1 Bergahorn
+- TOP 3.10.: Planegger Straße, Baumbestandplan Nr. 2006-21673
+- TOP 3.11.: Schlehbuschstr. 24, 1 Eiche
+- TOP 3.12.: Amalienburgstr. 2, Baumbestandsplan Nr. 2006-21109
+- TOP 3.13.: Aicherstr. 17, 1 Birke
+- TOP 3.14.: Am Krautgarten 2a, Baumbestandsplan Nr. 2006-23284
+- TOP 3.15.: Anton-Meindl-Str. 5a, 1 Fichte
+- TOP 3.16.: Nimmerfallstr. 60, Baumbestandsplan Nr. 2006-17575
+- TOP 3.17.: Heerstr. 21, 3 Birken
+- TOP 3.18.: Bad-Ischler-Str. 1a, 1 Wildkirsche
+- TOP 3.19.: Dr.-Böttcher-Str. 9, Baumbestandsplan Nr. 2006-22885
+- TOP 3.20.: Schikanederstr. 12, 1 Schwarzkiefer
+- TOP 3.21.: Waldhornstr. 6, Baumbestandsplan Nr. 2006-19922
+- TOP 3.22.: Mergenthalerstr. 28, Baumbestandsplan Nr. 2006-22254
+- TOP 3.23.: Hieronymusstraße, Baumbestandsplan Nr. 2006-12803
+- TOP 3.24.: Hermann-Köhl-Str. 18, 3 Birken
+- TOP 3.25.: Marsopstr. 32, 1 Esche
+- TOP 3.26.: Rebhuhnweg 4, Baumbestandsplan Nr. 2006-20904
+- TOP 3.27.: Pippinger Str. 114, 1 Kiefer
+- TOP 3.28.: Seeholzenweg 11, 1 Fichte
+- TOP 3.29.: Zacharias-Werner-Str. 18, s. Baumbestandsplan Nr. 2006-23607
+- TOP 3.30.: Eugen-Pabst-Str. 2, Baumbestandsplan Nr. 2006-23404
+- TOP 3.31.: Lackerbauerstr. 5 a+b, 1 Douglasie
+- TOP 3.32.: Longinusstr. 12, 2 Waldkiefern
+- TOP 3.33.: Steffanistr. 10, 3 Fichten
+- TOP 3.34.: Hieronymusstr. 24, 1 Traubenkirsche, 1 Eschenahorn
+- TOP 3.35.: Hieronymusstr. 12, 1 Eschenahorn
+- TOP 3.36.: Ulrich-Kortler-Weg 8, 2 Eschenahorn
+- TOP 3.37.: Verdistr. 119, 1 Robinie
+- TOP 3.38.: Sanderplatz 15, 1 Birke
+- TOP 3.39.: Murtalstr. 31, 1 Birke
+- TOP 3.40.: Floßmannstr. 13, 1 Kastanie
+- TOP 3.41.: Franz-Wüllner-Str. 5, 1 Buche
+- TOP 3.42.: Paganinistraße, Baumbestandsplan Nr. 2006-23377
+- TOP 3.43.: Hofheimerstr. 15, 1 Kiefer, 1 Eibe
+- TOP 3.44.: Marschnerstr. 1, 1 Tilia
+- TOP 3.45.: Verdistr. 119, 1 Zierkirsche
+- TOP 3.46.: Menzinger Str. 100, Baumbestandsplan
+- TOP 3.47.: Stöcklestr. 13, Baumbestandsplan Nr. 2006-20838
+- TOP 3.3.2: Gefahrenbäume
+- TOP 3.1.: Liste des Baureferates vom 08.08.06
+- TOP 3.2.: Liste des Baureferates vom 04.08.06
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Maierhofstr. 37
+- TOP 5.2.: Bodenseestr. 11
+- TOP 5.3.: Narzissenstr. 6
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Antrag auf Gewährung eines Zuschusses aus Budgetmitteln des BA 21; Antragsteller: REGSAM
+- TOP 2: (E) Durchgängiger Radweg in der Maria-Eich-Straße (Ziffer 1 des Antrages) Empfehlung Nr. 02-08 / E 00379 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing am 16.05.2006 - <div>nach Antrag</div>
+- TOP 10.: Anhörungen
+- TOP 10.1.: Andreas-Sengl-Weg, Neubau von 11 Stadthäusern mit Tiefgarage
+- TOP 10.2.: Landsberger Str. 493, Nutzungserweiterung durch Errichtung einer Freischankfläche (Wirtsgarten)
+- TOP 10.3.: Nimmerfallstr. 60, Neubau einer Wohnanlage mit Tiefgarage
+- TOP 10.4.: Planegger Straße, Neubau einer Wohnanlage (51 WE) mit Tiefgarage (55 Stpl.),Bauteil WA 3, WA 4, MI 2
+- TOP 10.5.: Menzinger Str. 85, Neubau eines Lebensmittelmarktes mit Stellplätzen
+- TOP 10.6.: Amalienburgstr. 2, Neubau eines Getränkemarktes mit 24 Kfz-Stellplätzen
+- TOP 10.7.: ICE-Halt am Bahnhof Pasing (Empfehlung Nr. 02-08 / E 00380 der Bürgerversammlung vom 16.05.06)
+- TOP 10.8.: Nutzung von Grundstücken an der Frauendorferstraße sowie Bodenseestraße als Verkaufsplatz für Kürbisse bzw. Christbäume
+- TOP 10.9.: Nutzung des Grundstücks Ecke Bodensee- / Maria-Eich-Straße für ein Kasperle Zelttheater vom 04.09. - 10.09.06
+- TOP 10.10.: Landsberger Str. 414, Neubau eines Einzelhandelsbetriebes mit Betriebswohnungen und Büro
+- TOP 10.11.: Waldhornstr. 6, Neubau eines Einfamilienhauses
+- TOP 10.12.: Dr.-Böttcher-Str. 9, Umbau und Erweiterung eines Einfamilienhauses, Neubau einer Garage
+- TOP 10.13.: Landsberger Str. 430, eingeschränktes Haltverbot
+- TOP 10.14.: Rißheimerstr. 8 + 8a, Neubau von zwei Doppelhaushälften mit Duplexgarage
+- TOP 10.15.: Rißheimerstr. 8 b, Neubau eines Einfamilienhauses mit Einzelgarage
+- TOP 10.16.: Oselstr. 24, Anbau an ein Einfamilienhaus mit Unterkellerung sowie Abbruch des Wintergartens
+- TOP 10.17.: Andreas-Sengl-Weg, Neubau von 4 Stadthäusern mit Tiefgarage
+- TOP 10.18.: Zacharias-Werner-Str. 18, Neubau eines Einfamilien- und eines Doppelhauses mit Garage
+- TOP 10.19.: Voranfrage zur Straßenbenennung; Straße U -801 zw. Blumenauer Straße und Silberdistelstraße
+- TOP 10.20.: Paganinistraße, Neubau eines Hortpavillons
+- TOP 10.21.: Bodenseestr. 9, Errichtung einer Werbeanlage
+- TOP 10.22.: Straßenbenennungen im 21. Stadtbezirk, Bergsonstraße neu / Lcohhausener Straße neu
+- TOP 10.23.: Haidelweg 29, Neubau von 5 Wohnhäusern (DH + 3-Spänner) mit TG
+- TOP 11.: Anträge und Anfragen
+- TOP 11.11.1: Anträge der SPD-Fraktion zum Verkehrskonzept Pasing-Zentrum
+- TOP 11.1.: Gestaltung des Pasinger Marienplatzes mit hoher Aufenthaltsqualität
+- TOP 11.2.: Überprüfung der vorausgesagten verkehrlichen Entwicklungen (Kurzak-Gutachten) für die Planegger Straße, Bodenseestraße und Pippinger Straße noch vor der Umgestaltung des Pasinger Zentrums
+- TOP 11.3.: Verminderung des überörtlichen/regionalen Verkehrs in der Planegger Straße, der Alten Allee, der Bodenseestraße sowie der Pippinger Straße durch verkehrslenkende Maßnahmen
+- TOP 11.4.: Weiterführung der Grünachse der von der Kreuzung "Am Knie" zum Bahnhof Pasing führenden Promenade bis zur Würm
+- TOP 11.5.: Städtebaulich hochwertige Gestaltung des Vorplatzes des Pasinger Bahnhofs
+- TOP 11.6.: Ablehnung der Situierung von Bushaltestellen an der Südseite der Kaflerstraße
+- TOP 11.7.: Überplanung folgender Straßenbereiche im Rahmen des für das Pasinger Zentrum vorgesehenen Plangutachtens: Kreuzung Bodensee-/Lortzingstraße, Bodenseestraße ab Kreuzung Lortzingstraße bis zur Würmbrücke, Bodenseestraße ab Würmbrücke bis zum Marienplatz als Einkaufsstraße, Pasinger Marienplatz, Gleichmannstraße, Bahnhofsvorplatz, Zentrale Bushaltestellen auf dem Postgelände, Kaflerstraße, Bäckerstraße ab Bahnhof bis zur Landsberger Straße, Landsberger Straße ab Pasinger Marienplatz bis zur Bäckerstraße als Einkaufsstraße, Landsberger Straße ab Pasinger Marienplatz bis zur Straße "Am Knie", Platz zwischen Promenade und Ecke Rathausgasse / Am Schützeneck
+- TOP 11.8.: Integration der Planungen zur Gestaltung des Pasinger Zentrums in die Projektplanung der Nordumgehung Pasing
+- TOP 11.9.: Neuplanung und Neugestaltung des Postgeländes unter Einbeziehung der Überleitung des Grünzuges von der Würm bis zum Pasinger Bahnhof
+- TOP 11.10.: Realisierung der Fußgängerbrücke über die Offenbachstraße zur Verbindung der Promenade mit einer Breite von ca. 15 Metern
+- TOP 11.11.: Sicherung und fußgängerfreundliche Gestaltung der fußläufigen Querungsmöglichkeiten im Pasinger Zentrum
+- TOP 11.12.: Erstellung und Durchführung eines Verkehrskonzepts für die Gebiete nördlich der Bahn
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Unveränderte Fortführung von Gaststätten - Schank- und Speisegaststätte "Cafe am Westbad", Agnes-Bernauer-Str. 268 - Konditorei-Cafe "Cafe Glas", Planegger Str. 15
+- TOP 12.2.: Amtsblatt Nr. 20, 21, 22, 23
+- TOP 12.3.: Bauanträge (vom 24.07.-30.07., 31.07.-06.08., 07.08.-13.08., 14.08.-20.08., 21.08.-28.08.)
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Vollversammlung vom 05.07.06 - Hauptbahnhof München, Ergebnis des Workshopsverfahrens zur Überarbeitung der Wettbewerbsergebnisse
+- TOP 13.2.: Bauausschuss vom 18.07.06 - Fertigstellung der Radwegeverbindung zur Langwieder Seenplatte, Durchgehender Rad- und Fußweg entlang der Goteboldstraße
+- TOP 13.3.: Schulausschuss vom 18.07.06: - Errichtung eines Pavillons an der Paganinistr. 96 - Errichtung eines Hortpavillons an der Georg-Haberl-Straße
+- TOP 13.4.: Ausschuss für Stadtplanung und Bauordnung vom 19.07.06 - Boden- und Bauschutt Recycling-Anlagen und Bodenbörsen in München - Handlungsprogramm Mittlerer Ring 2001-2005
+- TOP 13.5.: Kulturausschuss vom 20.07.06 - Kultur im Stadtquartier (Ergänzung, 14.07.06)
+- TOP 13.6.: Vollversammlung vom 26.07.06 - Boden- und Bauschutt Recycling-Anlagen und Bodenbörsen in München - Errichtung eines Hortpavillons an der Georg-Habel-Straße - Sozialgerechte Bodennutzung - Der Münchner Werg - Handlungsprogramm Mittlerer Ring 2001-2005
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Direktorium - Fest junger Erwachsener am 14.10.2006 im Rathaus; Präsentation der Bezirksausschüsse; Ergebnis der Besprechung vom 17.07.06 - Budgetmittel des BA 21, Erstausstattung der Kindertagesstätte, Antragsteller: Würmchen e. V. - Budgetmittel des BA 21, Verwendung für eigene Veranstaltungen (hier: Kinderfeste) - Budgetmittel des BA 21, Bewilligungsbescheid, Antragsteller: Kath. Pfarramt Maria Schutz - Budgetmittel des BA 21, Bewilligungsbescheid, Antragsteller: SG Grabenfleck e. V. - Budgetmittel des BA 21, Bewilligungsbescheid, Antragsteller: IG Einkaufsstadt Pasing - Reservierung der Ratsboxe für Bezirksausschüsse (Termin BA 21: 20.09.06)
+- TOP 14.2.: Baureferat - Randsteinabsenkung an der östlichen, stadteinwärts gerichteten Kreuzung Frauendorferstraße / Beer-Walbrunn-Straße - Werbung an der Würmbrücke am Betzenweg - Straßenbauarbeiten Oneginstraße - Ausbau Diltheyweg - Starke Verschmutzung des Gehweges, der Böschung und der Stiege nördlich der Unterführung Offenbachstraße bis Nusselstraße
+- TOP 14.3.: Kommunalreferat - Verkauf einer städtischen Immobilie, Lochhausener Str. 21
+- TOP 14.4.: Kreisverwaltungsreferat - Gaststätte "Bei Keko", Bodenseestraße 19 - Verbesserung der Verkehrssicherheit für Radfahrer von Pasing, Aubing, Lochhausen, Langwied, Allach und Obermenzing in Richtung Langwieder-/ Lußsee und zurück - Aufhebung eines personenbezogenen Behindertenparkplatzes in der Freseniusstr. 19 - Gottfried-Keller-Straße; Zeichen 283 StVO - Bodenstedtstr. 58, Kurzparkzone - Parkerleichterung für Schwerbehinderte, personenbezogener Sonderparkplatz im Bereich Adelsbergerstr. 7 b - Teilnahme eines Vertreters der BI West an den Sitzungen des BA 21 - Graffiti-Unwesen in der Gräfstraße
+- TOP 14.5.: Kulturreferat - 5. Jour Fixe Bezirksausschüsse; Protokoll der Sitzung vom 03.07.06
+- TOP 14.6.: Planungsreferat - Egenhofstr. 11, Ausbau des Dachgeschosses und Errichtung einer zusätzlichen Wohneinheit - Adelsbergstr. 1, Fällungsgenehmigung - Stadtratshearing "Die zukünftige Entwicklung des Wissenschafts- und Hochschulstandorts München" am 18.10.06 - Verkehrskonzept Zentrum Pasing (Anfrage aus der Bürgerversammlung vom 16.05.06) - Umgestaltung von Pasing (Antrage aus der Bürgerversammlung vom 16.05.06) - Baumfällungen auf dem Grundstück der Pfarrei Leiden Christ, Pfarrkirche St. Georg - Verkehrsuntersuchung Nördliches Würmtal; Verlängerung der St 2063 neu nach München-Pasing - Sachstand bzgl. der Überplanung von Grundstücken an der Institutstraße -Allgemeines Eisenbahngesetz (AEG); Plangenehmigung nach § 18 Abs. 2 AEG; ESTW ZU München-Pasing (Süd und Nord), München Laim Rbf. für die Bereiche Btf. München-Pasing, -Westkreuz, -Laim Rbf, - Friedenheimerbrücke Abzw., Abzw. Mü. Kanal, Mü. Landsber-ger Straße, Bf.Mü.-Lochhausen - Planfeststellung nach § 18 Abs. 1 AEG; S 1 Flughafenanbindung West, 2. Baustufe, Neulustheim zwischen Laim und Moosach auf der Strecke 5500 München-Regensburg - Hildachstr. 39, Müllcontainerlagerung
+- TOP 14.7.: Sozialreferat - Fachstelle häusliche Versorgung in den Sozialbürgerhäusern - Ausfertigung Beschlussvorlage "Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe"
+- TOP 14.8.: Schulreferat - Einladung zu "Das Schulreferat trifft die BAs" am 22.11.07 - Anfrage Mittagsbetreuung an der Grundschule am Schererplatz
+- TOP 14.9.: Stadtwerke München GmbH - Baumaßnahmen der Stadtwerke München (Stichtage: 24.07., 28.07., 07.08., 14.08., 21.08., 28.08.)
+- TOP 14.10.: Referat für Arbeit und Wirtschaft - Wirtschaftsinfo 07/2006
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: Gemeinsames Schreiben von Münchner Volkshochschule, Pasinger Fabrik und Stadtbibliothek Pasing - Finanzierung der Projektleitungsmittel für die Durchführung der Pasinger Kulturtage 2007
+- TOP 14.2.: Seniorenbeirätin für den 21. Stadtbezirk - Übergangslösungen für einen verbesserten Zugang zum Bahnhof Pasing
+- TOP 14.3.: REWE Deutscher Supermarkt KGaA, Zweigniederlassung Eching - Lebensmittelstandort im 21. Stadtbezirk
+- TOP 14.4.: Ausländerbeirat der Landeshauptstadt München Infobrief 6 / Juli 2006
+- TOP 14.5.: Eisenbahn-Bundesamt, - Boden-und Bauschutt Recycling-Anlagen und Bodenbörsen in München, hier: Bergsonstr. 115
+- TOP 14.6.: ARGE Pasinger Vereine - Pasinger Vorwiesn 2006
+- TOP 14.7.: BA 1 Altstadt-Lehel - Beschlussvorlage zur Weiterfinanzierung von REGSAM
+- TOP 14.8.: SPD-Stadtratsfraktion - Erfolgsmodell REGSAM
+- TOP 14.9.: BRK - Kreisverband München - Parkplatz Bahnhof Pasing - Parkplatz und Fahrradständer am Pasinger Bahnhof; Sanierung des Oberflächenentwässerungssystems
+- TOP 14.10.: Rettungszweckverband München - Notarztwache am Klinikum Pasing
+- TOP 14.11.: Bayer. Staatsministerium für Wirtschaft, Infrastruktur, Verkehr und Technologie - Ausbau des Bahnhofs Pasing
+- TOP 14.12.: MVG - Busverkehr an Allerheiligen, Weiterfahrt der Buslinie 162 zum Obermenzinger Friedhof
+- TOP 14.13.: PI 45 - Verkehrssituation in der Bauseweinallee - Verkehrslage Kreuzung Verdi - / Freseniusstraße
+- TOP 14.14.: Deutsche Post AG - Postamt Obermenzing
+- TOP 14.15.: Caritas Zentrum Innenstadt - "Hurra, die Schule rennt" - ein Danke für die Unterstützung
+- TOP 14.16.: Elternbeirat der "Spielkiste Blumenau e.V." - Veranstaltung eines Flohmarktes am 06.10.06
+- TOP 15.: Verschiedenes
