@@ -1,0 +1,80 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2006-09-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/805383
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/805383
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Benennung neues Mitglied im Unterausschuss Jugend, Soziales, Schule und Kultur
+- TOP 1.3.: Benennung Heimbeirat Lassallestraße
+- TOP 2.: Entscheidungsfälle
+- TOP 1: (E) Verbesserung der Postfiliale / Postshop am Frühlingsanger
+- TOP 1.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching-Hasenbergl Widmung nachfolgender Straßenstrecken - Azaleenstraße (Teilstrecke) - Rhododendronweg (Gesamtstrecke)
+- TOP 1.3.: Gewährung eines Zuschusses aus dem BA-Budget: Ausstellung "Kreatives Schaffen in der Lerchenau"
+- TOP 1.4.: Gewährung eines Zuschusses aus dem BA-Budget: Folkloreabend am 23.07.2006
+- TOP 1.5.: Gewährung eines Zuschusses aus dem BA-Budget: Praxisforschungsprojekt "Leben lernen" - Schuljahr 2006 / 2007
+- TOP 1.6.: Gewährung eines Zuschusses aus dem BA-Budget: Malerarbeiten für das Montessori Kinderhaus
+- TOP 1.7.: Gewährung eines Zuschusses aus dem Verfügungsfond Soziale Stadt Finazielle Unterstützung für eine Informationsveranstaltung "Schulsystem in Bayern"
+- TOP 1.8.: Gewährung eines Zuschusses aus dem Verfügungsfond Soziale Stadt: Unterstützung zum Projekt: Stadtteilerkundung mit neuen Medien
+- TOP 3.1.: Errichtung eines Fußgänger- und Radfahrerübergangs über die Feldmochinger Straße in Höhe "Am Schnepfenweges"
+- TOP 3.2.: Geschwindigkeitsbegrenzung / Überwachung in der Karlsfelder Straße
+- TOP 3.3.: Einrichtung eines Halteverbots in der Feldmochinger Straße in Höhe der Einmündung Hammerschmiedstraße
+- TOP 3.4.: Einsatz eines Schulweghelfers über die Reschreiterstraße
+- TOP 3.5.: Rosstag in Feldmoching -BA 24 Mitveranstalter Mittel aus dem BA-Budget zur Durchführung des Feldmochinger Rosstages
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Zweckentfremdung von Wohnraum: Nutzungsänderung Wintersteinstraße
+- TOP 5.2.: Baumfällungen:
+- TOP 5.3.: Verlängerung der Buslinie 178 bzw. 179 in nördlicher Richtung bis Haltestelle "Weyprechtstraße"
+- TOP 5.4.: Werbeanlagen: a) Schleißheimer Str. , Fl. Nr. 1203/4, Gemarkung Feldmoching b) Lerchenstr. 13, Fl.Nr. 1070/1074, Gemarkung Feldmoching c) Dülferstr. 72, Fl.Nr. 1767/19, Gemarkung Feldmoching
+- TOP 5.5.: Verlängerung der Lärmschutzwand nördlich der A 99 bis zur Ausfahrt Ludwigsfeld (Empfehlung Nr. 02.08 / E 00413 des BA 24 vom 30.05.2006
+- TOP 5.6.: Prüfstandsanlagen für Stahl- und Wellenleistungenstriebwerke (Antrag auf Genehmigung der Fa. MTU Aero Engines GmbH)
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.: Verkauf der Siedlung Ludwigsfeld: a) Antwortschreiben des Oberbürgermeisters b) Antwortschreiben der Bundesanstalt für Immoblilienaufgaben
+- TOP 6.3.: Schnellstmögliche Beseitigung der Giftpflanze Riesenbärenklau im 24. Stadtbezirk (Antrag 02-08/ B 01364 vom 18.07.2006)
+- TOP 6.4.: Verlegung der Karlsfelder Straße ( Antrag 02-08/ B 01278 vom 20.06.2006)
+- TOP 6.5.: Abstellmöglichkeiten für Fahrräder am U-Bahnhof Olympiapark Nord (Antrag 02-08/ B 01279 vom 20.06.2006)
+- TOP 6.6.: Ausbau der Pappelallee (Antrag 02-08/ B 01281 vom 20.06.2006)
+- TOP 6.7.: Finanzielle Entschädigung für notwendige Fahrscheine für alle Bewohner des 24. Stadtbezirkes, die das Sozialbürgerhaus in Milbertshofen aussuchen müssen (Antrag 02-08/ B 01365 vom 18.07.2006)
+- TOP 6.8.: Erhalt der Post Joseph-Seifried-Str. 8 (Antrag 02-08 / B 01282 vom 20.06.2006)
+- TOP 6.9.: Ablagerungen von Altautos und anderem Unrat zwischen Dachauer Straße und dem Testgelände der MAN (Antrag 02-08/ B 01288 vom 20.06.2006)
+- TOP 6.10.: Halteverbot in der Hasenberglstraße (Anfrage vom 05.04.2006)
+- TOP 6.11.: Halteverbot Ittlingerstraße (Anfrage vom 10.03.2006)
+- TOP 6.12.: Meldelisten Bauvorhaben
+- TOP 6.13.: Baumaßnahmen der Stadtwerke
+- TOP 6.14.: Zweckentfremdung von Wohnraum a) Herbergstr. 10 b) Hochlandstr. 22 c) Langenpreisinger Str. 43
+- TOP 6.15.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1972 Schleißheimer Straße (östlich), Sandbienenweg (beiderseits) (Teiländerung des Bebauungsplanes mit Grünordnung Nr. 1779 d)
+- TOP 6.16.: Bebauungsplan mit Grünordnung Nr. 1944 Hummelblumenstraße (beidseitig), Schneeglöckchenstraße (nördlich), Kohlröschenstraße (östlich) (Teiländerung des Beb.Pl. Nr. 1309)
+- TOP 6.17.: Veränderungssperre Nr. 642 Auf den Schrederwiesen Flurstücke Nrn. 81/0 und 86/0 Gemaarkung Ludwigsfeld Stadtbezirk 24 - Feldmoching-Hasenbergl Weitere Verlängerung nach § 17 Abs. 2 Bau GB (Bebauungsplan Nr. 1784)
+- TOP 6.18.: Errichtung einer Kindertagesstätte mit 4 Kindergarten- und 4 Krippengruppen an der Riemerschmid-/Rainfarnstraße
+- TOP 6.19.: A. Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratbeschlüsse vom 10.12.1997 (Sozialgerechte Bodennutzung) und 21.03.2001 (Soziales Wohnungsbauprogramm) Anpassung der Verfahrensgrundsätze "Sozialgerechte Bodennutzung" vom B. Aktualisierung der Beiträge zur Sozialgerechten Bodennutzung (SoBoN), Antrag der Stadträte Nr. 02-08/A 02572 vom 22.07.2005
+- TOP 6.20.: Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe
+- TOP 6.21.: Kultur im Stadtquartier Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureintichtungen Evaluierung kultureller Zentren Kulturelle Zentren und Stadtteilwochen Kulturzentren entlasten (I): Haftpflicht- und Versicherungsfragen zentral klären Kulturzentren(II): Das Rad nicht 30mal neu erfinden - zentrale Unterstützung Gesamtkonzept für die stadtteilkulturellen Einrichtungen
+- TOP 6.22.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 Abs. 2 AEG; Weichenauswechslung Bf. Milbertshofen W2 mit PSS/Entwässerung sowie W 19, W 24, W 30 Gemarkung Feldmoching
+- TOP 6.23.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 Abs. 2 AEG; Weichenauswechslung Bf. Milbertshofen W2 mit PSS/Entwässerung sowie W 19, W 24, W 30 Gemarkung Feldmoching Plangenehmigungsbescheid vom 11.08.2006
+- TOP 6.24.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 Abs. 2 AEG; Weichenerneuerung Bf. Milbertshofen W3, W4, W5, W6, W7, W8 mit PSS/Entwässerung Gemarkung Feldmoching
+- TOP 6.25.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 Abs. 2 AEG; Weichenerneuerung Bf. Milbertshofen W3, W4, W5, W6, W7, W8 mit PSS/Entwässerung Gemarkung Feldmoching Plangenehmigungsbescheid vom 11.08.2006
+- TOP 6.26.: Aufwertung und Umgestaltung des Dülferanger und des Mittelteilers der Schleißheimer Straße
+- TOP 6.27.: Leistungsprogramm der MVG für die Fahrplanperiode 2007
+- TOP 6.28.: versch. Straßenbaumaßnahmen a) Herbert-Kadner-Straße, und Penckstraße b) Pappelallee, Bebauungsplan 1503f , westlicher Teil des Blausternwegs und Schwertlinlienweg c) Detmoldstraße und U-1555, Bebauungsplan 1398 a d) Lerchenauer Straße 240
+- TOP 6.29.: Beschlussvorlage zur Weiterfinanzierung von REGSAM (Schreiben des BA 1 Altstadt-Lehel)
+- TOP 6.30.: Erfolgsmodell REGSAM (Schreiben der SPD-Stadtratsfraktion)
+- TOP 6.31.: Beweislastumkehr bei den Stadtwerken (Antrag des BA 7 Sendling-Westpark)
+- TOP 6.32.: Sprachförderung im AWO-Kindertageszentrum KITZ Hasenbergl (Bericht zum Verwendungsnachweis Budget)
+- TOP 6.33.: Mit-Mach-Zirkusfestival 2006 in Ludwigsfeld (Bericht zum Verwendungsnachweis Budget)
+- TOP 6.34.: Geschäftsbericht der Unfallkasse München Geschäftsjahr 2005 (Exemplar im Sitzungsordner)
+- TOP 6.35.: Broschüre "wir über 60" (Exemplar im Sitzungsordner)
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Jugend, Soziales, Schule und Kultur
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
