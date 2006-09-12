@@ -1,0 +1,158 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2006-09-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/792817
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/792817
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.0: Wahl eines / einer Vorsitzenden des UA Kinder und Jugend
+- TOP 2: Anträge
+- TOP 2.1.: SPD - Fraktion: Eröffnung einer Tagesdemenzgruppe im 25. Stadtbezirk
+- TOP 2.2.: CSU - Fraktion: Beibehaltung der einspurigen Verkehrsführung in der Agnes - Bernauer - Straße stadteinwärts
+- TOP 2.3.: CSU - Fraktion: Änderung der Radweg - Markierung in Höhe der Trambahnhaltestelle Agnes - Bernauer - Straße / Friedenheimer Straße
+- TOP 2.4.: Bündnis 90 / Die Grünen: Trafo - Graffiti als Jugendprojekt
+- TOP 2.5.: Bündnis 90 / Die Grünen: Mathuni - Krippe - was kommt endlich wann ?
+- TOP 2.6.: Bündnis 90 / Die Grünen: Informations - Treff mit Sozialreferat
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 1.265 Euro für ein Bildhauerprojekt im Juli 2006; Antragsteller: Stüps Hauptschule Fürstenrieder Straße
+- TOP 3.2.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 775 Euro für Spielaktion vom 13.09. - 22.09.06; Antragsteller: Familienzentrum Laim
+- TOP 3.3.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 1.232,50 Euro für die Ausbildung von Streitschlichter/innen; Antragsteller: Stüps Hauptschule Fürstenrieder Straße
+- TOP 3.4.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 1.250 Euro für die Erstellung eines interaktiven Stadtteilführers; Antragsteller: REGSAM 25
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Direktorium vom 21.08.06: Bestellung städtischer Leistungen - Hogenbergplatz
+- TOP 5: Baumfällungen
+- TOP 5.1.: Agricolastr. 57: 1 Weide, 1 Birke und 2 Fichten
+- TOP 5.2.: Flotowstr. 73: 2 Fichten
+- TOP 5.3.: Joergstr. 76: 1 Tanne
+- TOP 5.4.: Flatinstr. 7: 1 Baum
+- TOP 5.5.: Gotthardstr. 114: 1 Birke
+- TOP 5.6.: Brosamerstr. 9: 1 Trauerweide
+- TOP 6: Bauvorhaben
+- TOP 6.1.: Landsberger Straße: Neubau eines Büro - und Geschäftshauses mit Tiefgarage; hier: Baumfällungen
+- TOP 6.2.: Zschokkestr. 32: Errichtung einer Werbeanlage
+- TOP 6.3.: Landsberger Straße Nähe Hausnr. 162: Errichtung einer Werbeanlage
+- TOP 6.4.: Geigerstr. 16: Errichtung eines Doppelhauses; hier: Baupläne und Baumfällungen
+- TOP 6.5.: Flatinstr. 12: Neubau eines Mehrfamilienhauses mit TG ( 12 WE ); hier: Baumfällungen
+- TOP 6.6.: Heigenmooserstr. 5: Neubau eines Mehrfamilienhauses mit Garage; hier: Baumfällungen
+- TOP 7: Sonstiges
+- TOP 7.1.: Schreiben Baureferat vom 26.07.06: Umgestaltung der Grünanlage am Käthe - Bauer - Weg; Einladung zum Ortstermin am 13.09.06 ( Antrag Nr. 02 - 08 / B 01211 )
+- TOP 8: Protokolle
+- TOP 8.1.: Protokoll der Sitzung vom 25.07.06
+- TOP 8.2.: Protokoll der Sitzung vom 04.07.06
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Sozialreferat vom 06.07.06: Streetwork in Laim ( Antrag Nr. 02 - 08 7 B 01022 vom 07.03.06 )
+- TOP 9.2.: Schreiben KVR vom 05.07.06: Parkerleichterung für Schwerbehinderte; personenbezogener Sonderparkplatz im Bereich Friedenheimer Str. 45
+- TOP 9.3.: Schreiben KVR vom 07.08.06: Kreuzung Fürstenrieder Straße / Ammerseestraße; Anpassung der Ampelschaltung und Fahr- bzw. Abbiegespuren an die veränderten Verkehrsflüsse seit Eröffnung der A 99 West ( Antrag Nr. 02-08 / B 01302 vom 30.05.06 )
+- TOP 9.4.: Schreiben KVR vom 11.08.06: LKW - Feinstaub raus aus Laim ( Antrag Nr. 02 - 08 / B 01379 vom 04.07.06 )
+- TOP 9.5.: Schreiben Referat für Gesundheit und Umwelt vom 27.07.06: Mobilfunksendeanlagen Egetterstr. 21 und 23, Willibaldstr. 27 a ( Antrag Nr. 02-08 / B 01298 vom 30.05.06 )
+- TOP 9.6.: Schreiben Baureferat vom 03.08.06: 4 F Circle Bewegungsinseln
+- TOP 9.7.: Schreiben Referat für Arbeit und Wirtschaft vom 16.08.06: Lagepläne öffentlicher Einwurfbriefkästen ( Antrag Nr. 02 - 08 / B 0121 vom 29.05.06 )
+- TOP 9.8.: Schreiben Planungsreferat vom 18.07.06: Fürstenrieder Str. 21; Absperrung des Grundstücks ( Antrag Nr. 02 - 08 / B 01300 vom 30.05.06 )
+- TOP 9.9.: Schreiben Planungsreferat vom 19.06.06: Flotowstr. 35; Neubau einer Wohnanlage mit TG ( Schreiben BA vom 20.04.06 )
+- TOP 9.10.: Schreiben Planungsreferat vom 09.08.06: Stöberlstr. 79; DG - Ausbau und Errichtung einer Balkonanlage
+- TOP 9.11.: Schreiben Planungsreferat vom 18.08.06: Allgemeines Eisenbahngesetz (AEG); Plangenehmigung nach § 18 Abs. 2 AEG; ESTW ZU München-Pasing (Süd und Nord), München Laim Rbf. für die Bereiche Btf. München-Pasing, -Westkreuz, -Laim Rbf, - Friedenheimerbrücke Abzw., Abzw. Mü. Kanal, Mü. Landsber-ger Straße, Bf.Mü.-Lochhausen
+- TOP 9.12.: Schreiben Planungsreferat vom 11.08.06: Allgemeines Eisenbahngesetz ( AEG ); Plangenehmigung für ESTW UZ München - Pasing ( Süd und Nord ), München Laim Rbf. für die Bereiche Btf. München - Pasing, - Westkreuz, - Laim Rbf.- Friedenheimerbrücke Abzw., Abzw. Mü. Kanal, Mü. Landsberger Straße, Bf. Mü. - Lochhausen
+- TOP 9.13.: Schreiben Planungsreferat vom 06.07.06: Camerloherstr. 146; Fällungsgenehmigung
+- TOP 9.14.: Schreiben Planungsreferat vom 06.07.06: Rushaimerstr. 57; Fällungsgenehmigung
+- TOP 9.15.: Schreiben Planungsreferat vom 06.07.06: Vohburger Str. 8; Fällungsgenehmigung
+- TOP 9.16.: Schreiben Planungsreferat vom 11.07.06: Vohburger Str. 5 und 3; Fällungsgenehmigung
+- TOP 9.17.: Schreiben Planungsreferat vom 11.07.06: Hörkerstr. 24; Fällungsgenehmigung
+- TOP 9.18.: Schreiben Planungsreferat vom 11.07.06: Sulzbeckstr. 2; Fällungsgenehmigung
+- TOP 9.19.: Schreiben Planungsreferat vom 11.07.06: Rilkestr. 1; Fällungsgenehmigung
+- TOP 9.20.: Schreiben Planungsreferat vom 11.07.06: Fischartstr. 21; Fällungsgenehmigung
+- TOP 9.21.: Schreiben Planungsreferat vom 11.07.06: Guido-Schneble-Str. 72; Fällungsgenehmigung
+- TOP 9.22.: Schreiben Planungsreferat vom 11.07.06: Inderstorferstr. 60; Fällungsgenehmigung
+- TOP 9.23.: Schreiben Planungsreferat vom 11.07.06: Hauzenberger Str. 26; Fällungsgenehmigung
+- TOP 9.24.: Schreiben Planungsreferat vom 18.07.06: Hufnagelstr. 1; Fällungsgenehmigung
+- TOP 9.25.: Schreiben Planungsreferat vom 27.07.06: Elsenheimerstr. 56; Fällungsgenehmigung
+- TOP 9.26.: Schreiben Planungsreferat vom 01.08.06: Rechpachstr. 1; Fällungsgenehmigung
+- TOP 9.27.: Schreiben Planungsreferat vom 01.08.06: Genovevweg 11; Fällungsgenehmigung
+- TOP 9.28.: Schreiben Planungsreferat vom 02.08.06: Ilmmünsterstr. 53; Fällungsgenehmigung
+- TOP 9.29.: Schreiben Planungsreferat vom 16.08.06: Landsberger Str. 349; Fällungsgenehmigung
+- TOP 9.30.: Schreiben Planungsreferat vom 16.08.06: Landsberger Str. 357; Fällungsgenehmigung
+- TOP 9.31.: Schreiben Planungsreferat vom 26.07.06: Berchemstr. 27; Bestätigung, dass Rotbuche nicht der BaumschutzVO unterliegt
+- TOP 9.32.: Schreiben Direktorium vom 06.07.06: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Daycare gGmbH
+- TOP 9.33.: Schreiben Direktorium vom 06.07.06: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Kindergarten und Hort Namen Jesu
+- TOP 9.34.: Schreiben Direktorium vom 06.07.06: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Das Laimer Jugendzentrum
+- TOP 9.35.: Schreiben Direktorium vom 06.07.06: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Pädagogische Aktion Spielen in der Stadt e. V.
+- TOP 9.36.: Schreiben Direktorium vom 08.08.06: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Elternbeirat der GS an der Camerloherstraße
+- TOP 9.37.: Schreiben Direktorium vom 08.08.06: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: RAGS
+- TOP 9.38.: Schreiben Direktorium vom 03.08.06: Verwendungsnachweise über Zuschüusse aus dem Budget; Antragsteller: Kindertagesstätte Namen Jesu und Kinderkrippe Kiddiecorner / Daycare GmbH
+- TOP 9.39.: Schreiben Direktorium vom 24.07.06: 18. jetzt, Fest junger Erwachsener am 14.10.06 im Rathaus; Präsentation der BAs; Ergebnis der Besprechung vom 17.07.06
+- TOP 9.40.: Schreiben Sozialreferat vom 05.07.06: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Landsberger Straße
+- TOP 9.41.: Schreiben Sozialreferat vom 21.06.06: Genehmigung der Zweckentfremdung von Wohnraum zur Nutzung als Vertriebsbüro; Agnes - Bernauer - Straße
+- TOP 9.42.: Schreiben Sozialreferat vom 27.07.06: Ausfertigung der Beschlussvorlage " Ausbau des Netzes der Alten - und Service - Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe "
+- TOP 9.43.: Schreiben Sozialreferat vom 30.06.06: Fachstelle häusliche Versorgung in den Sozialbürgerhäusern
+- TOP 9.44.: Besprechung vom 13.07.06 " Das Schulreferat trifft die Bezirksausschüsse "; Infomaterial
+- TOP 9.45.: Schreiben Referat für Gesundheit und Umwelt vom 04.07.06: Baubeginnsanzeige einer Mobilfunksendeanlage
+- TOP 9.46.: Schreiben Kulturreferat vom 25.07.06: 5. Jour Fixe BAs; Protokoll der Sitzung vom 03.07.06
+- TOP 9.47.: Schreiben Referat für Arbeit und Wirtschaft vom 24.07.06: Gewerbehof Laim; Durchführung eines Wettbewerbverfahrens zur architektonischen Gestaltung; Mitwirkung des BA 25 im Preisgericht
+- TOP 9.48.: Schreiben KVR vom 04.08.06: Drehgenehmigung für den 10.08.06 in der Gunzenlehstr. 14 - 16 und 11 a - 15
+- TOP 9.49.: Schreiben Kommunalreferat vom 16.08.06: Mitteilung über Grundstücksgeschäft
+- TOP 9.50.: Bautenliste vom 19.06. - 25.06.06 1. Erstantragsverfahren a ) Perhamerstr. 83 b ) Perhamerstr. 85 2. Änderungsverfahren a ) Flotowstr. 53
+- TOP 9.51.: Bautenliste vom 03.07. - 09.07.06 1. Erstantragsverfahren a ) Heigenmooserstr. 5 b ) Lautensackstr. 2 a c ) Stöberlstr. 79 d ) Stögerstr. 1 e ) Rappstr. 1 f ) Agricolastr. 18 g ) Agnes - Bernauer - Str. 148 h ) Rushaimerstr. 41 i ) Gotthardstr. 23 2. Änderungsverfahren a ) Straubinger Str. 2 b ) Landsberger Str. 191
+- TOP 9.52.: Bautenliste vom 10.07. - 16.07.06 1. Erstantragsverfahren a ) Rilkestr. 8 b ) Agnes - Bernauer - Str. 16 c ) Agnes - Bernauer - Str. 9 d ) Agnes - Bernauer - Str. 7 e ) Agnes - Bernauer - Str. 1 f ) Ludwig - Richter - Str. 24 g ) Flatinstr. 12 h ) Genovevaweg 27 i ) Landsberger Str. j ) Vosslerstr. 10 k ) Kirchwaldstr. 1 2. Änderungsverfahren a ) Flotowstr. 53 b ) Reutterstr. 98
+- TOP 9.53.: Bautenliste vom 17.07. - 23.07.06 1. Erstantragsverfahren a ) Geigerstr. 16 b ) Siglstr. 17 c ) Landsberger Str. 287 b d ) Kirchwaldstr. 1 e ) Brantstr. 2
+- TOP 9.54.: Bautenliste vom 24.07. - 30.07.06 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a ) Agnes - Bernauer - Str. 78
+- TOP 9.55.: Bautenliste vom 31.07. - 06.08.06 1. Erstantragsverfahren a ) Camerloherstr. 110 b) Mathunistr. 13 2. Änderungsverfahren a ) Landsberger Str. 217 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a ) Landsberger Str. 162
+- TOP 9.56.: Bautenliste vom 14.08. - 28.08.06: 1. Erstantragsverfahren a ) Diesterweg 5 2. Änderungsverfahren a ) Landsberger Str. 294 b ) Aindorferstr. 179
+- TOP 9.57.: Bautenliste vom 21.08. - 27.08.06 1. Erstantragsverfahren a ) Heigenmoserstr. 5 b ) Flotowstr. 35 2. Änderungsverfahren a ) Flatinstr. 12 b ) Byecherstr. 31 c ) Stöberlstr. 68
+- TOP 9.58.: Schreiben Stadtwerke München GmbH vom 26.06.06: Baumaßnahmen der Stadtwerke; Stichtag: 26.06.06
+- TOP 9.59.: Schreiben Stadtwerke München GmbH vom 03.07.06: Baumaßnahmen der Stadtwerke; Stichtag 03.07.06
+- TOP 9.60.: Schreiben Stadtwerke München GmbH vom 11.07.06: Baumaßnahmen der Stadtwerke; Stichtag: 10.07.06
+- TOP 9.61.: Schreiben Stadtwerke München GmbH vom 17.07.06: Baumaßnahmen der Stadtwerke; Stichtag: 17.07.06
+- TOP 9.62.: Schreiben Stadtwerke München GmbH vom 24.07.06: Baumaßnahmen der Stadtwerke; Stichtag: 24.07.06
+- TOP 9.63.: Schreiben Stadtwerke München GmbH vom 28.07.06: Baumaßnahmen der Stadtwerke; Stichtag: 28.07.06
+- TOP 9.64.: Schreiben Stadtwerke München GmbH vom 07.08.06: Baumaßnahmen der Stadtwerke; Stichtag: 07.08.06
+- TOP 9.65.: Schreiben Stadtwerke München GmbH vom 16.08.06: Baumaßnahmen der Stadtwerke; Stichtag: 14.08.06
+- TOP 9.66.: Schreiben Stadtwerke München GmbH vom 21.08.06: Baumaßnahmen der Stadtwerke; Stichtag: 21.08.06
+- TOP 9.67.: Schreiben Stadtwerke München GmbH vom 28.08.06: Baumaßnahmen der Stadtwerke; Stichtag: 28.08.06
+- TOP 9.68.: Schreiben KVR vom 26.06.06: Anmeldung einer Versammlung unter freiem Himmel am 28.06.06; Ecke Wotan - / Landsberger Straße
+- TOP 9.69.: Schreiben KVR vom 29.06.06: Anmeldung einer Versammlung unter freiem Himmel am 01.07.06; Ecke Wotan - / Landsberger Straße
+- TOP 9.70.: Schreiben KVR vom 03.07.06: Anmeldung einer Versammlung unter freiem Himmel am 05.07.06; Ecke Wotan - / Landsberger Straße
+- TOP 9.71.: Schreiben KVR vom 26.07.06: Anmeldung einer Versammlung unter freiem Himmel am 31.07.06; Ecke Wotan - / Landsberger Straße
+- TOP 9.72.: Schreiben KVR vom 01.08.06: Anmeldung einer Versammlung unter freiem Himmel am 05.08.06; Ecke Wotan - / Landsberger Straße
+- TOP 9.73.: Schreiben KVR vom 01.08.06: Anmeldung einer Versammlung unter freiem Himmel am 07.08.06; Ecke Wotan - / Landsberger Straße
+- TOP 9.74.: Schreiben KVR vom 01.08.06: Anmeldung einer Versammlung unter freiem Himmel am 14.08.06; Ecke Wotan - / Landsberger Straße
+- TOP 9.75.: Schreiben KVR vom 11.08.06: Anmeldung einer Versammlung unter freiem Himmel am 28.08.06; Ecke Wotan - / Landsberger Straße
+- TOP 9.76.: Schreiben KVR vom 30.08.06: Anmeldung einer Versammlung unter freiem Himmel am 04.09., 11.09. und 18.09.06; Ecke Wotan - / Landsberger Straße
+- TOP 9.77.: Schreiben Baureferat vom 17.07.06: Unterrichtung über das Fällen von Gefahrenbäume; Alten - und Servicezentrum Kiem - Pauli - Weg 22
+- TOP 9.78.: Schreiben Baureferat vom 17.07.06: Unterrichtung über das Fällen von Gefahrenbäumen; Wohnanlage Kiem - Pauli - Weg zwischen Zschokkestr. 47 und 45
+- TOP 9.79.: Schreiben Baureferat vom 17.07.06: Unterrichtung über das Fällen von Gefahrenbäumen; Kinderkrippe Mathunistr. 6
+- TOP 9.80.: Beschluss des Sozialausschusses vom 22.06.06: Ausbau des Netzes der Alten - und Service - Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe ( Sitzungsvorlage Nr. 02-08 / V 08115 )
+- TOP 9.81.: Beschluss des Sportausschusses vom 04.07.06: Investitionsprogramm für städtische Freisportanlagen; Modifizierung der Prioritätenliste
+- TOP 9.82.: Beschluss des Kreisverwaltungsausschusses vom 04.07.06: Bürgerzentrum Rathaus Pasing als Verwaltungsmittelpunkt nicht geeignet; Einrichtung zumindest einer Anlaufstelle in Laim ( Empfehlung Nr. 02 - 08 / E 00228 der Bürgerversammlung vom 25.10.05 ) ( Sitzungsvorlage Nr. 02-08 / V 08328 )
+- TOP 9.83.: Beschluss der Vollversammlung vom 05.07.06: Hauptbahnhof München; Ergebnis des Workshopsverfahrens zur Überarbeitung des Wettbewerbsergebnisses
+- TOP 9.84.: Beschluss des Sozialausschusses vom 06.07.06: Bericht über REGSAM
+- TOP 9.85.: Kulturausschuss vom 20.07.06: Kultur im Stadtquartier ( Ergänzung, 14.07.06 )
+- TOP 9.86.: Beschluss der Vollversammlung vom 26.07.06: A ) Sozialgerechte Bodennutzung - Der Münchner Weg, Fortschreibung der Stadtratsbeschlüsse vom 10.12.97 ( Sozialgerechte Bodennutzung ) und 21.03.01 ( Sozialer Wohnungsbau ), B ) Aktualisierung der Beiträge zur Sozialgerechten Bodennutzung
+- TOP 9.87.: Beschluss der Vollversammlung vom 26.07.06: 2. S - Bahn - Stammstrecke; Baustellenlogistik
+- TOP 9.88.: Beschluss der Vollversammlung vom 26.07.06: Bebauungsplan mit Grünordnung Nr. 1771, Zschokkestraße ( südlich ) zwischen Westend - und Hans - Thonauer - Straße ( Straßenbahnbetriebshof ) - Eckdatenbeschluss
+- TOP 9.89.: Beschluss der Vollversammlung vom 26.07.06: Leistungsprogramm der MVG für die Fahrplanperiode 2007
+- TOP 9.90.: Beschluss der Vollversammlung vom 26.07.06: Handlungsprogramm Mittlere Ring 2001 - 2005; a ) 4. Sachstandsbericht 2004 und 2005, b ) Ergebnisse der Beratung des Konsiliums und Ausblick
+- TOP 9.91.: Schreiben BA 1 Altstadt - Lehel vom 21.07.06: Beschlussvorlage zur Weiterfinanzierung von REGSAM
+- TOP 9.92.: Schreiben BA 9 Neuhausen - Nymphenburg vom 25.07.06: Radlwerkstatt in der Laimer Verbundröhre
+- TOP 9.93.: Schreiben BA 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln vom 10.07.06: Schülerprojekt " Bevölkerungsentwicklung Stadtbezirk 19 "
+- TOP 9.94.: Schreiben BA 21 Pasing - Obermenzing vom 10.07.06: Probeweise Abschaffung des am Krankenhaus Pasing stationierten nächtlichen Notarztdienstes
+- TOP 9.95.: Schreiben BA 21 Pasing - Obermenzing vom 08.08.06: Verbesserungen für Familien im Westbad
+- TOP 9.96.: Schreiben MVG vom 27.07.06: Straßenbauarbeiten in der Bayerstraße
+- TOP 9.97.: Schreiben WEKA info verlag gmbH vom 23.06.06: Stadtteilbroschüre / Zusagebestätigung
+- TOP 9.98.: Schreiben AAN / Münchner Forum vom 02.07.06: Anmerkungen zum Leistungsprogramm 2007 der MVG
+- TOP 9.99.: Schreiben Urbanes Wohnen München e. V. vom 07.07.06: Einladung zum Fachtag " Wohnen und Leben im Alter im Quartier " am 19.09.06
+- TOP 9.100.: Schreiben Planungsreferat vom 27.07.06: Stadtratshearing " Die zukünftige Entwicklung des Wissenschafts - und Hochschulstandorts München " am 18.10.06
+- TOP 9.101.: Schreiben Schulreferat vom 07.08.06: Mitteilung der Termine 2007 " Das Schulreferat trifft die BAs "
+- TOP 9.102.: Daycare-Kinderbetreuung: Zuwendung im Haushaltsjahr 2006 sowie Einladung zur Eröffnung am 30.09.06
+- TOP 9.103.: Schreiben Kindergarten und Hort Namen Jesu vom 28.08.06: Zuschuss aus Anlass des Kita - Jubiläums
+- TOP 9.104.: Broschüre " Fachtagung Kommunale Integrationspolitik 2005 "
+- TOP 9.105.: Schriftverkehr aus der BA - Sitzung vom 30.05.06
+- TOP 9.106.: Schriftverkehr aus der BA - Sitzung vom 04.07.06
+- TOP 9.107.: Schriftverkehr aus der Sitzung vom 25.07.06
+- TOP 1.2: Bürgerpost an den BA
