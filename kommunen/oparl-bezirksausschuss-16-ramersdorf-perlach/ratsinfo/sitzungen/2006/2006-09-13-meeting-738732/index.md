@@ -1,0 +1,116 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2006-09-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/738732
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/738732
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2: Protokoll/e
+- TOP 1.1.3: Sonstiges / anwesende Behördenvertreter
+- TOP 2.: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+- TOP 1: (E) Parkverbot für Lkw in der Melusinenstraße Empfehlung Nr. 02-08 / E 00391 der Bürgerversammlung des 16. Stadtbezirkes Ramersdorf-Perlach am 04.05.2006; Beschlussvorlage des Kreisverwaltungsreferats - <div>Abweichung von Referentenvorl.</div>
+- TOP 1: (E) Nutzung des Feuerwehr-Gerätehauses an der Isegrimstraße 31 als Jugendzentrum / Jugendtreff / Bürgertreff (Ziffer 2 des Antrages) Empfehlung Nr. 02-08 / E 00388 ......................... - <div>Abweichung von Referentenvorl.</div>
+- TOP 1.1.: Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse 2.6.1.1 AntragstellerIn: Grundschule Führichstraße, für die Maßnahme: Personalkosten für ein Freiwilliges Soziales Jahr, Antragssumme: 400.- ?, Beschlussvorlage des Direktoriums vom 31.07.2006 2.6.1.2 AntragstellerIn: Freunde der Wilhelm-Busch-Realschule, für die Maßnahme: "Soziales Lernen contra Gewalt", Antragssumme: 3.200.- ?; Beschlussvorlage des Direktoriums vom 03.08.2006 2.6.1.3 AntragstellerIn: Grundschule Führichstraße, für die Maßnahme: Gewaltpräventionsprojekt im Herbst 2006, Antragssumme: 900.- ?, Beschlussvorlage des Direktoriums vom 03.08.2006 2.6.1.4 AntragstellerIn: Evang.-Luth. Pfarramt St. Paulus; für die Maßnahme: "Mozartnacht"; Antragssumme: 500.- ?, Beschlussvorlage des Direktoriums vom 21.08.2006 - <div>Zustimmung (1-3); Ablehnung (4)</div>
+- TOP 3.: Anträge
+- TOP 3.1.: Schmidbauerstraße; Nichteinhaltung der Tempo 30 Zone; Bürgerschreiben vom 25.07.2006 - <div>Weitergabe an Baureferat</div>
+- TOP 3.2.: Verlegung des allgemeinen Behindertenparkplatzes am Peschelanger; Bürgerschreiben vom 13.07.2006 - <div>Verweisung an Fachausschuss</div>
+- TOP 3.3.: Fahrplanänderung Dezember 2006; U 8 und Bus 195; Bürgerschreiben vom 20.07.2006 - <div>Weitergabe an MVG</div>
+- TOP 3.4.: Parken von Reisebussen in der Feuerwehranfahrtszone, Blockieren von Rettungswegen in der Rosenheimer Straße; Bürgerschreiben vom 18.08.2006 und des Kreisverwaltungsreferats/Bezirksinspektion Ost vom 18.08.2006 - <div>als erledigt angesehen, da BI bereits tätig</div>
+- TOP 3.5.: Antrag auf ein beschränktes Haltverbot in der Sudermannallee; Bürgerschreiben vom 21.08.2006 - <div>Verweisung an Fachausschuss</div>
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Aufnahme der Grundschule Gänselieselstraße in den Schulsprengel der Städtischen Schulartunabhängigen Orientierungsstufe; Schreiben des Elterbeirats der Grundschule Gänselieselstraße vom 11.07.2006 - <div>nach Antrag mit Erweiterung</div>
+- TOP 3.2.: Sozialer Brennpunkt Neuperlach, Umfeld der Europäischen Schule; Bürgerschreiben vom 24.07.2006 - <div>abgesetzt</div>
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Wohnring Neuperlach: Verschmutzungen der Kinderspielplätze und der Sitzuplätze und weitere Probleme; Bürgerschreiben vom 24.07.2006 - <div>Verweisung an Fachausschuss</div>
+- TOP 3.2.: Umzug der Drogenhilfeeinrichtung ?Off? in den 16. Stadtbezirk (Rosenheimerstr. 124 hinterhalb Shell-Tankstelle); Antrag der Fraktion Bündnis 90/Die Grünen vom 06.09.2006 - <div>nach Antrag</div>
+- TOP 3.3.6: Sonstige Anträge
+- TOP 3.1.: Beweislastumkehr bei den Stadtwerken; Antrag des BA 7 mit der Bitte um Unterstützung - <div>Nichtbefassung, da mit vorliegender Antwort an den BA 7 erledigt</div>
+- TOP 4.: Berichte
+- TOP 4.4.1: Unterausschuss Verkehr
+- TOP 4.1.: UA 16 - Verkehr - 05.09.2006
+- TOP 4.4.2: Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 4.1.: UA 16 - Kultur, Vereine, Veranstaltungen - 27.07.2006
+- TOP 4.4.3: Unterausschuss Schule, Jugend Soziales und Sport
+- TOP 4.1.: UA 16 - Schule, Jugend, Soziales und Sport - 27.07.2006
+- TOP 4.4.4: Unterausschuss Bau und Stadtteilentwicklung
+- TOP 4.1.: UA 16 - Bau und Stadtteilentwicklung - 06.09.2006
+- TOP 4.4.5: Unterausschuss Gesundheit, Umwelt und Grünplanung
+- TOP 4.1.: UA 16 - Gesundheit, Umwelt und Grünplanung - 07.09.2006
+- TOP 4.4.7: Berichte der Beauftragten
+- TOP 4.4.7.1: Baumschutz
+- TOP 4.4.7.2: Kinder
+- TOP 4.4.7.3: Jugend
+- TOP 4.4.7.4: Senioren/-innen
+- TOP 4.4.7.5: Frauen
+- TOP 4.4.7.6: Unterkunftsanlagen und Wohnen
+- TOP 4.4.7.7: Integration
+- TOP 4.4.7.8: Behinderte
+- TOP 5.: Anhörungsfälle / Stellungnahmen
+- TOP 5.1.: Buslinie 145; Taktverdichtung in Richtung Fasangarten vor Schulbeginn und nach Schulschluss, Antrag Nr. 1085 des Bezirksausschuss 17 Obergiesing vom 11.04.2006; Schnellstmögliche Wiedereinführung des 10-Minutentaktes für den Bereich Fasangarten; Empfehlung Nr. 02-08 / E 00507 der Bürgerversammlung des Stadtbezirks 17 Obergiesing am 19.07.2006; Wiedereinführung des 10-Minuten-Taktes für den Bereich Fasangarten, Empfehlung Nr. 02-08 / E 00387 der Bürgerversammlung des 16. Stadtbezirks am 04.05.2006; Beschluss des Ausschusses für Arbeit und Wirtschaft am 26.09.2006; Zuleitung des Referats für Arbeit und Wirtschaft mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.2.: Anhörung gem. § 13 der BA-Satzung zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Buslinie 55 und 192 Anordnung neuer Haltestellen am Waldheimplatz und im Bereich Gänselieselstraße/Am Hain; Zuleitung des Kreisverwaltungsreferats vom 16.08.2006 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.1.: Beschlussvorlage im Kinder- und Jugendhilfeausschuss am 19.09.2006 zur Verwendung der Haushaltsmittel des Jugendtreffs "Sechseck"; Zuleitung des Sozialreferats mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.2.: Entscheidung über ein beschleunigtes Verfahren bei der Abwicklung der Brandschutzmaßnahme/Sanierung des Schulzentrums Perlach Nord an der Quiddestraße 4; Beschlussentwurf für die Sitzung des Schulausschusses des Stadtrats am 20.09.2006; Zuleitung des Schul- und Kultusreferats mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.1.: Flohmarktgenehmigung; Städtisches Grundstück Carl-Wery-Straße (nach P+R Parkplatz); Bürgerschreiben vom 21.06.2006; Schreiben der P+R-GmbH vom 14.07.2006, des Kommunalreferats vom 17.07.2006 und des Referats für Gesundheit und Umwelt vom 17.07.2006 (vertagt aus der Sitzung am 25.07.2006) - <div>zurückgezogen</div>
+- TOP 5.2.: Gemeinde Neubiberg, Bebauungsplan Nr. 6, südlich der Hauptstraße, östlich Cramer-Klett-Straße; Zuleitung des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme (vertagt aus der Sitzung am 25.07.2006) - <div>Zustimmung</div>
+- TOP 5.3.: Bebauungsplan Nr. 1481; Ottobrunner Straße (westlich), Woferlstraße (nördlich), Bundesautobahn München-Salzburg A 8 (östlich) und Innsbrucker Ring (südlich); Aufhebung des Aufstellungsbeschlusses (Beschluss der Vollversammlung des Stadtrates vom 06.06.1984); Beschlussentwurf für die Sitzung des Ausschusses für Stadtplanung und Bauordnung; Zuleitung des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme (vertagt aus der Sitzung am 25.07.2006) - <div>Zustimmung</div>
+- TOP 5.4.: Gemeinde Putzbrunn, Flächennutzungsplan, Änderung Nr. 16; Zuleitung des Referat für Stadtplanung und Bauordnung vom 01.08.2006 mit der Bitte um Stellungnahme bis zum 15.09.2006 - <div>Zustimmung</div>
+- TOP 5.5.: Vollzug von § 13 der BA-Satzung, Katalog Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen); Zuleitungen des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme; 5.4.5.1 Kirchseeoner Straße; 1 Werbetafel beleuchtet; Anhörung vom 11.08.2006 5.4.5.2 Chiemgaustraße; 1 Werbewechselanlage (Mega-Light, auf Monofuß 1-seitig, hinterleuchtet); Anhörung vom 14.08.2006 - <div>Zustimmung mit Auflage (1); Ablehnung (2)</div>
+- TOP 6.: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1.: Beantragung eines Zebrastreifens auf der Hofangerstraße vor der Unterführung Ständlerstraße (in Fahrtrichtung Berger-Kreuz-Straße, Höhe Hofangerstraße 158) Schreiben des Elternbeirats des Kindergartens an der Hofangerstraße vom 12.07.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.2.: Gesicherte Wegverbindung von Neuperlach Süd (Coudehove-Kalgeri-Weg) mit Neubiberg (Lilienthalstraße); Antrag des BA 16 vom 07.12.2004; Zwischennachricht des Baureferats vom 03.08.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.3.: Postkartenaktion des Stadtjugendamtes; MVV-Zeitkarten für Kinder ab 6 Jahren; Anfrage des BA 16 aus der Sitzung vom 04.07.2006; Antwortschreiben des Referats für Arbeit und Wirtschaft vom 10.08.2006 und des Kreisverwaltungsreferats vom 14.08.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.4.: Lichtzeichenanlage Langbürgener Straße/Chiemgaustraße; Anfrage des BA 16 aus der Sitzung am 25.07.2006; Antwortschreiben der Münchner Verkehrsgesellschaft mbH vom 02.08.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.5.: Ampelschaltung Im Gefilde/Putzbrunner Straße; Schreiben des BA 16 vom 10.03.2006; Antwortschreiben des Kreisverwaltungsreferats vom 14.08.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.6.: Gehwegeeinebnungen, Kirchseeoner / Ecke Aribonenstraße; Antrag Nr. 02-08 / B 01381 des BA 16 vom 25.07.2006; Antwortschreiben des Baureferats vom 21.08.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.7.: Unterstützung der Einrichtung einer Verkaufsstelle für MVV-Fahrkarten; Antrag Nr. 1382 des BA 16 vom 25.07.2006; Zwischennachricht der Münchner Verkehrsgesellschaft vom 09.08.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.1.: Protoll zum 5. Jour-Fixe Kulturreferat - Bezirksausschüsse am 03.Juli 2006; Zuleitung des Kulturreferats vom 25.07.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.2.: Aufnahme des "Perlacher Heimatarchivs" in den Museumspfad für Münchner städtische Museen; Antrag des BA 16 vom 04.07.2006; Antwortschreiben des Tourismusamtes vom 10.08.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.1.: Keine Stellenreduzierung der Schulsozialarbeit an den Hauptschulen Führichstraße und Echardinger Grünstreifen; Antrag Nr. 02-08/B 01237 des BA 16 vom 30.05.2006; Antwortschreiben des Sozialreferats vom 26.07.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.2.: Beschlussvorlage zur Weiterfinanzierung von REGSAM; Schreiben des BA 1 Altstadt Lehel vom 21.07.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.3.: Mädchen- bzw. Frauenfußballmannschaften im SV Waldperlach e.V.; Bitte der Frauenbeauftragten aus der Sitzung vom 25. Juli 2006; Antwortschreiben des SV Waldperlach e. V. vom 28.06.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.4.: Unterstützung des Konzepts der Waldperlacher Bürger IG für die Familieninsel Waldperlach; Antwortschreiben des Sozialreferats vom 27.07.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.5.: "Ausbau des Netzes der Alten- und Servicezentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe"; Ausfertigung der Beschlussvorlage der Sitzung des Sozialausschusses am 22.06.2006; Schreiben des Sozialreferats vom 27.07.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.1.: Antrag auf einen Sammelplatz für Sperrmüll und Elektrogeräte innerhalb des Gebietes Neuperlach mit Müllpresse, unabhängig von der Münchner Haus- und Lärmschutzverordnung, mit Betreiber WSB München; Schreiben des BA 16 vom 11.07.2006; Antwortschreiben des Abfallwirtschaftsbetriebs vom 24.07.2006, der WSB-Bayern GmbH vom 25.07.2006 und des Referats für Gesundheit und Umwelt vom 24.08.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.2.: Verlegung der Müll- und Kiesentsorgung Putzbrunnerstr. 100-120; Schreiben des BA 16 vom 19.06.2006; Antwortschreiben des Referats für Arbeit und Wirtschaft vom 24.07.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.3.: Reinigung des Kinderspielplatz Kirchseeoner Straße und Umzäunung des Spielplatzes, Einbeziehung des Gebietes rund um den Spielsplatz in die Straßensozialarbeit; Antrag Nr. 02-08 / B 01260 des BA 16 vom 30.05.2006; Antwortschreiben des Baureferats vom 25.07.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.4.: Verschmutzung Parkplatz Ecke Schmidbauer / Ottobrunnerstraße, Bürgeranliegen aus der Sitzung des BA 16 vom 04.07.2006; Antwortschreiben des Abfallwirtschaftsbetriebs und Bürgerschreiben vom 24.07.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.5.: Sauberkeit am Hanns-Seidel-Platz (Parkplatz); Anliegen aus der Sitzung des BA 16 vom 04.07.2006; Antwortschreiben des Kulturreferats vom 02.08.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 6.1.: ]18.jetzt[, Fest junger Erwachsener am 14.10.2006 im Rathaus, Präsentation der Bezirksausschüsse, Ergebnis der Besprechung vom 17.07.2006 - <div>z.K.</div>
+- TOP 7.: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Leistungsprogramm der MVG für die Fahrplanperiode 2007; Sitzungsvorlage Nr. 08339; Beschluss des Ausschusses für Arbeit und Wirtschaft am 18.07.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 7.1.: Kultur im Stadtquartier; Beschluss des Kulturausschusses vom 20.07.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 7.1.: Baufälle im 16. Stadtbezirk - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 7.2.: Bischof-Ketteler-Straße; Mitteilung über ein Grundstücksgeschäft; Zuleitung des Kommunalreferats vom 01.08.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 7.3.: Unterrichtung durch das Sozialreferat, Amt für Wohnen und Migration, im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum 7.4.3.1 Anwesen in der Peralohstraße; Mitteilung vom 17.07.2006 7.4.3.2 Anwesen in der Dr.-Walther-von-Miller-Straße; Mitteilung vom 07.08.2006 7.4.3.3 Anwesen in der Ballaufstraße; Mitteilung vom 22.08.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 7.4.: Unterrichtung durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 7.4.4.1 Anwesen Putzbrunner Straße; Bescheid vom 26.07.2006 7.4.4.2 Anwesen Adam-Riese-Straße; Bescheinigung vom 10.07.2006 7.4.4.3 Anwesen Gustav-Heinemann-Ring; Bescheinigung vom 17.08.2006 7.4.4.4 Anwesen Schneewittchenstraße; 2 Bescheinigungen vom 15.08.2006 7.4.4.5 Anwesen Hamannstraße; Bescheinigung vom 24.08.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 7.5.: A.Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse vom 10.12.1997 (Sozialgerechte Bodennutzung) und 21.03.2001 (Soziales Wohnungsbauprogramm/EOF) Anpassung der Verfahrensgrundsätze zur ?Sozialgerechten Bodennutzung? vom 10.12.1997 B.Aktualisierung der Beiträge zur "Sozialgerechten Bodennutzung" (SOBON) Antrag Nr. 02-08/A 02572 der Stadträte Robert Brannekämper und Josef Schmidt vom 22.07.2005; Sitzungsvorlage Nr. 02-08 / V 08351; Beschluss der Vollversammlung des Stadtrats vom 26.07.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 7.6.: Unveränderte Fortführung von Gaststätten, Unterrichtungen durch das Kreisverwaltungsreferat 7.4.6.1 KG "Melusinenstüberl"; Karl-Preis-Platz; Mitteilung vom 28.08.2006 - <div>z.K. bzw. in UA verwiesen</div>
+- TOP 7.1.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse 7.6.1.1 AntragstellerIn: FestSpielHaus, für die Maßnahme: Seniorentheater im Stadtteil Neuperlach, Antragssumme: 3.500.- ?; Antrag vom 03.08.2006; - <div>in den UA Kultur, Vereine, Veranstaltungen verwiesen</div>
+- TOP 7.2.: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen 7.6.2.1 AntragstellerIn: Wohnforums München, für die Maßnahme: Sommerfest der Fachbasis Hochäckerstraße, Sachbericht vom 25.07.2006 7.6.2.2 AntragstellerIn: Festausschuss Neuperlach, für die Maßnahme: Kinder-, Senioren- und Behindertennachmittag Verwendungsnachweis vom 19.06.2006, 7.6.2.3 AntragstellerIn: Gustav-Adolf-Kirche,für die Maßname: Festkonzert zum Mozartjahr; Verwendungsnachweis vom 11.07.2006, 7.6.2.4 AntragstellerIn: "Streetworker", für die Maßnahme: Theater- und Musikfestival der Schulen; Verwendungsnachweis vom 20.07.2006 7.6.2.5 AntragstellerIn: AWO Kreisverband München Stadt, für die Maßnahme: 2 Senioren-Bustagesfahrten; Sachbericht vom 08.08.2006 - <div>in die UAs Kultur ... (2-4) bzw. Schule ... (1, 5) verwiesen</div>
+- TOP 7.3.: Piusplatz im 14. Stadtbezirk; Erhalt des Charakters und des Baumbestands im Rahmen des Projekts "Soziale Stadt"; Empfehlung Nr. 02-08 / E 00389 der Bürgerversammlung des 16. Stadtbezirks am 04.05.2006; Sitzungsvorlage Nr. 02-08 / V 08581; Beschluss des Bezirksausschusses des 14. Stadtbezirks Berg am Laim vom 26.09.2006 - <div>in den UA Gesundheit, Umwelt und Grünplanung verwiesen</div>
+- TOP 8: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 8.8.1: Termine der UA - Sitzungen
+- TOP 8.8.1.1: Verkehr
+- TOP 8.8.1.2: Kultur, Vereine und Veranstaltungen
+- TOP 8.8.1.3: Schule, Jugend, Soziales und Sport
+- TOP 8.8.1.4: Bau- und Stadtteilentwicklung
+- TOP 8.8.1.5: Gesundheit, Umwelt und Grünplanung
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Sonstiges / Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 7.7.1: Bereich Unterausschuss Verkehr
+- TOP 7.7.2: Bereich Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 7.7.3: Bereich Unterausschuss Schule, Jugend, Soziales und Sport
+- TOP 7.7.4: Bereich Unterausschuss Bau und Stadtteilentwicklung
+- TOP 7.7.5: Bereich Unterausschuss Gesundheit, Umwelt und Grünplanung
+- TOP 7.7.6: Sonstige
+- TOP 8.8.1.6: Arbeitskreis Hanns-Seidel-Platz
