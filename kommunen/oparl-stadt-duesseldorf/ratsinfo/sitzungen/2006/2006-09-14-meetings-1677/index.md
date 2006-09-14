@@ -1,0 +1,52 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-09-14T16:00:00+02:00
+- Ende: 2006-09-14T20:15:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1677
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1677
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111685.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111685.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111685.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: FNP 126-In den Kötten-Auf.AbsÖB.BerBBöA - einstimmig beschlossen
+- TOP 4: Ordnungs- und Servicedienst - zur Kenntnis genommen
+- TOP 5: Plan Nr. 5774/28 - Karl-Geusen-Straße - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Rathelbeckstraße - Fuß- und Radweg - einstimmig beschlossen
+- TOP 8: Zuschuss an den Unterbacher Tennisclub e.V. - mehrheitlich beschlossen
+- TOP 9: Zuschüsse für Schulen - Projekt Lesen - einstimmig beschlossen
+- TOP 10: Weihnachtsmarkt Unterbach am 09. und 10. - einstimmig beschlossen
+- TOP 11: Umbau Kinderspielplatz Alter Eller Friedhof - einstimmig beschlossen
+- TOP 12: Bauunterhalt an städtischen Einrichtungen - einstimmig beschlossen
+- TOP 13: Entwurf des Bezirkshaushaltsplanes 2007 - einstimmig beschlossen
+- TOP 14: Mehrjahres - Investitions - Programm - einstimmig beschlossen
+- TOP 15: Sportanlage Heidelberger Straße - zur Kenntnis genommen
+- TOP 16: Gertrudisplatz - Toilettensituation - zur Kenntnis genommen
+- TOP 17: Gebäude Breslauer Straße 21 - 27 - zur Kenntnis genommen
+- TOP 18: Islamistische Organisationen im Stadtbezirk 8
+- TOP 19: Schloss Eller - zur Kenntnis genommen
+- TOP 20: Am Hirschgraben - Blumenkübel - zur Kenntnis genommen
+- TOP 21: Seniorenhilfe - Begegnungs- und Kompetenzzentrum - einstimmig beschlossen
+- TOP 22: Jugendraum Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 23: Einzelhandelsqualität in Eller - einstimmig beschlossen
+- TOP 24: Carl-Sonnenschein-Schule, Dachsanierung - zur Kenntnis genommen
+- TOP 25: Anlaufstelle des OSD in Eller - mehrheitlich abgelehnt
+- TOP 26: Personelle Verstärkung der Polizeiinspektion Süd - mehrheitlich abgelehnt
+- TOP 27: Doppelstreife in Eller - mehrheitlich abgelehnt
+- TOP 28: Gumbertstraße - Verschmutzung - zur Kenntnis genommen
+- TOP 29: Bahnunterführung Gumbertstraße - zur Kenntnis genommen
+- TOP 30: Fußweg entlang der Düssel - zur Kenntnis genommen
+- TOP 31: Ausländerintegration im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 32: Zuschüse für Schulen - zur Kenntnis genommen
+- TOP 33: Lesbarer Bürgerhaushalt für den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 34: Geschwindigkeitskontrolle Am Stammesberg - zur Kenntnis genommen
+- TOP 35: Internationaler Jugendtreff Jägerstraße - zur Kenntnis genommen
