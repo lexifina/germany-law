@@ -1,0 +1,55 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2006-09-14T00:00:00+02:00
+- Ende: 2006-09-14T01:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYBVNhc2gvPmzIRaSQ3C55I
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/2994
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NW
+- TOP 2: Protokoll
+- TOP 3: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen
+- TOP 4: Änderungen des Solinger Ortsrechts
+- TOP 5: Verlängerung des Pachtvertrages für das Freibad Schellbergtal
+- TOP 6: Öffentlich-rechtliche Vereinbarung der Trägerschaft
+- TOP 7: Abberufung des Technischen Betriebsleiters des Vermögensbetriebes der Stadt Solingen (VBS)
+- TOP 8: Bestellung eines kommissarischen Technischen Betriebsleiters
+- TOP 9: Aussetzung der Abschiebung von Flüchtlingen
+- TOP 10: Jahresabschluss des Städtischen Klinikums Solingen per 31.12.2005
+- TOP 11: Jahresabschluss 2005 und Lagebericht der Altenzentren der Stadt Solingen
+- TOP 12: Kosten der Unterkunft für Arbeitslosengeld II-Empfänger/innen
+- TOP 13: Einführung des Ganztagsbetriebs an der Geschwister-Scholl-Schule
+- TOP 14: Bauleitplanung Erbenhäuschen
+- TOP 15: Bauleitplanung An den Eichen
+- TOP 16: Ergänzung des Beirats bei der Unteren Landschaftsbehörde
+- TOP 17: Prüfung einer Ausweitung des "Nachtexpresses"
+- TOP 18: Verschiedenes
+- TOP 19: Schuleingangsuntersuchungen
+- TOP 20: Armutsbericht
+- TOP 21: Zuordnung der Grundschule Schützenstraße zum Stadtbezirk Mitte
+- TOP 22: Sofortprogramm der Gesundheitskonferenz
+- TOP 23: Vergleich RWE - Solingen
+- TOP 24: Vergleich der Erdgaspreise
+- TOP 25: PFT im Trinkwasser
+- TOP 26: Auswirkungen der Kürzungen der Landesmittel für die Weiterbildung
+- TOP 27: Rückerstattung nicht eingesetzter ARGE-Gelder an die Bundesagentur
+- TOP 28: Zukunft der beruflichen Frauenförderung in Solingen
+- TOP 29: Ausbildungssituation bei der Stadtverwaltung Solingen
+- TOP 30: Über- und außerplanmäßige Ausgaben im 2. Quartal 2006
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NW
+- TOP 2: Protokoll
+- TOP 3: Artothek
+- TOP 4: Jahresabschluss 2005 der Regionale 2006 Agentur GmbH
+- TOP 5: Kunst-Museum Solingen Grundstücksgesellschaft mbH & Co. KG
+- TOP 6: Bürgschaften Übergangsheime
+- TOP 7: Beteiligung der Stadtwerke Solingen GmbH an der itec GmbH, Solingen
+- TOP 8: Beteiligung der Stadtwerke Solingen GmbH an der 24sieben Trading GmbH
+- TOP 9: Verschiedenes
