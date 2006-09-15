@@ -1,0 +1,59 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2006-09-15T16:07:00+02:00
+- Ende: 2006-09-15T20:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/347
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/347
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Gen. DE Nr. 61: Verf.besch. g.GFG, Ert. Prozessv.
+- TOP 3: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 4: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 5: Einwohnerfragestunde
+- TOP 6: Neubürgeragentur Neuss (HA060906-04216.doc)
+- TOP 7: Genehmigung der Tagesordnung
+- TOP 8: Konferenz Ratsmitglieder Städtetag NRW
+- TOP 9: Neuf. Gesellschaftsvertrag NTTG
+- TOP 10: Antrag Öffnungszeiten
+- TOP 11: Genehmigung üpl. Ausgabe Tennenplatz BZA Holzheim
+- TOP 12: Ausbau Quaxpfad am Stadtwald, B-Plan 390
+- TOP 13: Erweiterung der Kreisleitstelle
+- TOP 14: Bebauungskonzept Grimlinghausen-Südost
+- TOP 15: B-Plan 113/1, Aufstellungsbeschluss
+- TOP 16: B-Plan 169/16, Auslegungsbeschluss
+- TOP 17: Änd. der Parkgebührenord. der Stadt Neuss
+- TOP 18: Radverkehrsanlagen Friedrichstraße/Zollstraße
+- TOP 19: Rahmenplan Hafenmole 1
+- TOP 20: Umgestaltung Hochstadenstraße/Kreuzstraße
+- TOP 21: Gen. DE Nr. 60: Offene Ganztagssch. Die Brücke
+- TOP 22: Hochwasserschutz-Sperrbauwerk Hafen
+- TOP 23: Umlegungsverfahrens 174 Vossenacker Straße II
+- TOP 24: Satzung Beauftragten Menschen Behinderungen
+- TOP 25: B-Plan 446, Auslegungsvorbereitung
+- TOP 26: B-Plan 448, Aufstellungsbeschluss
+- TOP 27: Dienstreise zur Exporeal in München 2006
+- TOP 28: Radverkehrsanlage Bergheimer Straße
+- TOP 29: Umbau des Hubertusweges, B-Plan 429
+- TOP 30: CDU: Erstberatungsbüros für Migranten u.a.
+- TOP 31: FDP: Neue Parkgebührenordnung
+- TOP 32: Umgestaltung Kapitelstraße
+- TOP 33: Dr. Hüsch: Ents. v. Elektronik-Altgeräten
+- TOP 34: Verkehrsberuhigung Reuschenberg-West
+- TOP 35: Verkehrskonzept Dreikönigenviertel
+- TOP 36: Prüfbericht „NRRV“ (RAT150906-04218.doc)
+- TOP 37: Einwohnerfragestunde
+- TOP 38: B-Plan 436, Auslegungsvorbereitung
+- TOP 39: Betriebssatzung Herz-Jesu
+- TOP 40: CDU: Entwicklung eines Präventionsk.
+- TOP 41: Dr. Hüsch: Erstellung von Lärmkarten
+- TOP 42: Kenntnisnahme üpl./apl. Ausgaben II. Quartal 2006
+- TOP 43: Neuss-Präsent. im Landtag NRW am 23.05.2007
+- TOP 44: Wahl Beauftragten Menschen mit Behinderungen
+- TOP 45: CDU: Aufh. Ratsb. Anne-Frank -Schule
