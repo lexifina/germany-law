@@ -1,0 +1,108 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2006-09-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/769645
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/769645
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Gehwegseinebnungen in der Kupferhammerstraße/Lohstraße; Bürgerschreiben vom 24.07.2006 - <div>nach Antrag</div>
+- TOP 2.2.: Mangfallplatz Süd Bus 139; Bürgerschreiben vom 25.07.2006
+- TOP 2.3.: Lärmbelästigung durch öffentliche Konzerte im ganzem Stadtgebiet, Verwahrlosung am Badegebiet "Flaucherinseln"; Bürgerschreiben vom 08.08.2006
+- TOP 2.4.: Qualität des Parkplatzes Tierparks Hellabrunn; Bürgerschreiben vom 29.08.2006
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: UA 18 - Budgetangelegenheiten - 11.09.2006
+- TOP 3.1.: 3.1.2.1 AntragstellerIn: Bund Naturschutz, Kreisgruppe München, für die Maßnahme: 1. Münchner Naturfilmfestival, Antragssumme: 3.000.- ?; Beschlussvorlage des Direktoriums vom 29.08.2006 - <div>Zustimmung in voller beantragter Höhe</div>
+- TOP 3.1.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse 3.1.3.1.1 AntragstellerIn: Kindergarten Raabennest e. V., für die Maßnahme: Anschaffung von kindergerechten Möbeln für den Kindergarten; Antragssumme: 8.531,49 ?; Antrag vom 17.07.2006 3.1.3.1.2 AntragstellerIn: Elternbeirat der Grundschule an der Fromundstraße; für die Maßnahme: Fortführung des Deutschkurses: "Mütter lernen Deutsch"; Antragssumme: 644.- ?; Antrag vom 10.08.2006 3.1.3.1.3 AntragstellerIn: Verein zur Förderung der Waldorfpädagogik Harlaching e. V., für die Maßnahme: Grundausstattung für Musikinstrumente, Antragssumme: 4.020.- ?; Antrag vom 21.08.2006 - <div>Zur Kenntnis genommen</div>
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Arbeitsprojekte "McGreen"; Sachbericht des Katholischen Männerfürsorgevereins München e. V./Haus an der Pistorinistraße vom 16.08.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Anfrage auf Co-Finanzierung durch den BA 18 und dem BA 17 mit dem Verfügungsfond Soziale Stadt für das Projekt "Häusliche Versorgung im Raum Giesing-Harlaching für ältere Menschen mit Hilfebedarf unterhalb der Schwelle zur Pflegeversicherung"; Schreiben von Regsam vom 28.08.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Zeitlich beschränktes eingeschränktes Haltverbot vor der Kinderkrippe in der Soyerhofstraße 6 - 8; Antrag der CSU-Fraktion - <div>nach Antrag</div>
+- TOP 3.2.: UA 18 - Verkehr - 18.09.2006
+- TOP 3.1.: Bauschaden in der Pilgersheimer Straße; Erinnerungsverfahren; Zuleitung des Baureferats vom 14.08.2006 - <div>Zustimmung</div>
+- TOP 3.1.: Müll und Bauschuttablagerungen in der Sachsenstraße, Parken von LKW, Wohnmobilen und Wohnwagen in der Straße; Bürgeranliegen in der Sitzung am 20.06.2006; Antwortschreiben der Polizeiinspektion 23 vom 12.07.2006 und des Kreisverwaltungsreferats vom 16.08.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Aufnahme der A 995 in die Liste der mautpflichtigen Bundesstraßen; Antrag Nr. 02-08 / B 01385 des BA 18 vom 18.07.2006; Zwischennachricht des Referats für Stadtplanung und Bauordnung vom 22.08.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Leistungsprogramm der MVG für die Fahrplanperiode 2007; Beschluss der Vollversammlung des Stadtrats vom 26.07.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: UA 18 - Umwelt - 14.09.2006
+- TOP 3.1.: Rekultivierung der Flächen an der Sachsenstraße; Spartentunnel unter der Isar; Zuleitung der Münchner Stadtentwässerung vom 24.08.2006 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 3.1.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen in der Geiselgasteigstraße; Bescheinigung vom 31.07.2006 3.3.6.1.2 Anwesen in der Burggspergerstraße; Bescheid vom 19.07.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Isar-Plan, Verbesserung der Hochwassersicherheit und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung zwischen südlicher Stadtgrenze und Corneliusbrücke in München; Planungsabschnitt III, Bauabschnitt 7: "Realisierung des Isar-Planes zwischen der Braunauer Eisenbahnbrücke und der Corneliusbrücke"; Bauabschnitt 7 Süd, Braunauer Eisenbahnbrücke bis 200 m südlich der Wittelsbacherbrücke; Ausführungsgenehmigung für den Bauabschnitt 7 Süd; Sitzungsvorlage Nr. 02-08 / V 08489; Beschluss des Bauausschusses vom 18.07.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Baumfällungen in der Säbener Straße; Zuleitung des Baureferats vom 30.08.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: UA 18 - Soziales - 12.09.2006
+- TOP 3.1.: Durchführung eines Kinder- und Jugendforums in Untergiesing-Harlaching; Antrag Nr. 02-08 / B 01079 des BA 18 vom 21.03.2006; Antwortschreiben des Sozialreferats vom 20.07.2006 - <div>siehe Protokoll</div>
+- TOP 3.1.: "Das Schulreferat trifft die Bezirksausschüsse"; Mitteilung der Termine 2007; Zuleitung des Schul- und Kultusreferats vom 07.08.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Beschlussvorlage zur Weiterfinanzierung von REGSAM; Schreiben des BA 1 Altstadt-Lehel vom 21.07.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Ausfertigung der Beschlussvorlage "Ausbau des Netzes der Alten- und Servicezentren in München unter der Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe"; Zuleitung des Sozialreferats vom 27.07.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Änderung im Filialnetz der Deutschen Post AG im 18. Stadtbezirk; Mitteilung der Deutschen Post AG vom 16.08.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: UA 18 - Bau und Planung - 14.09.2006
+- TOP 3.1.: Erhalt des Städtischen Stadions an der Grünwalder Straße; Prüfung der Durchführung von Open-Air Veranstaltungen; Anfrage aus der Bürgerversammlung im 17. Stadtbezirk am 19.07.2006; Zuleitung des BA 17 Obergiesing vom 10.08.2006 - <div>Entscheidung im Einzelfall</div>
+- TOP 3.1.: Anhörungen zu Bauvorhaben 3.5.4.1.1 Anwesen in der Klobensteiner Straße; Zuleitung vom 27.07.2006 3.5.4.1.2 Anwesen in der Waltramstraße; Zuleitung vom 07.08.2006 (vorab entschieden durch den Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung) - <div>gem. den Empfehlungen des UA Bau und Planung</div>
+- TOP 3.2.: Baumbestandspläne 3.5.4.2.1 Anwesen in der Rabenkopfstraße; Zuleitung vom 11.08.2006 3.5.4.2.2 Anwesen in der Geiselgasteigstraße; Zuleitung vom 11.08.2006 3.5.4.2.3 Anwesen in der Gabriel-Max-Straße; Zuleitung vom 04.08.2006 3.5.4.2.4 Anwesen in der Schönstraße; Zuleitung vom 07.08.2006 (vorab entschieden durch den Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung) 3.5.4.2.5 Anwesen in der Gabriel-Max-Straße; Zuleitung vom 07.08.2006 (vorab entschieden durch den Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung) 3.5.4.2.6 Anwesen in der Haselburgstraße; Zuleitung vom 07.08.2006 (vorab entschieden durch den Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung) 3.5.4.2.7 Anwesen in der Claude-Lorrain-Straße; Zuleitung vom 01.08.2006 3.5.4.2.8 Anwesen in der Gabriel-Max-Straße; Zuleitung vom 27.07.2006 (vorab entschieden durch den Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung) - <div>gem. den Empfehlungen des UA Bau und Planung</div>
+- TOP 3.3.: Vollzug von § 13 der BA-Satzung, Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen); Zuleitungen des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme 3.5.4.3.1 Geiselsgasteigstraße stadteinwärts, 1 Werbewechselanlage (Mega-Light, auf Monofuß, 1-seitig, hinterleuchtet); Zuleitung vom 26.07.2006 3.5.4.3.2 Geiselsgasteigstraße stadtauswärts, 1 Werbewechselanlage (Mega-Light, auf Monofuß, 1-seitig, hinterleuchtet); Zuleitung vom 26.07.2006 - <div>gem. den Empfehlungen des UA Bau und Planung</div>
+- TOP 3.1.: Denkmalschutz am Anwesen Harthauser Straße 11; Bürgeranliegen aus der Sitzung am 20.06.2006; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 26.07.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Pilgersheimer Straße; Ausweitung eines Verkaufsladens; Bürgeranliegen aus der Sitzung am 16.05.2006; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 11.07.2006 (ggf. Behandlung in nicht-öffentlicher Sitzung)
+- TOP 3.3.: Einbeziehung gemeinnütziger Wohnraumgesellschaften in das Vorverkaufsrechtsprüfungsverfahren; Antrag Nr. 02-08 / B 01272 des BA 18 vom 20.06.2006; Antwortschreiben des Kommunalreferats vom 08.08.2006
+- TOP 3.1.: Baufälle im 18. Stadtbezirk - <div>Anforderung gem. Empfehlung des UA Bau</div>
+- TOP 3.2.: Unterrichtungen durch das Sozialreferat, Amt für Wohnen und Migration, im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum 3.5.6.2.1 Anwesen am Athener Platz; Mitteilung vom 31.07.2006 3.5.6.2.2 Anwesen in der Reinekestraße; Mitteilung vom 17.07.2006 3.5.6.2.3 Anwesen in der Rabenkopfstraße; Mitteilung vom 17.07.2006 3.5.6.2.4 Anwesen in der Haushamer Straße; Mitteilung vom 10.08.2006 3.5.6.2.5 Anwesen im Schöneggerweg; Mitteilung vom 30.08.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Bebauungsplan mit Grünordnung Nr. 1979; Tegernseer Landstraße (nordöstlich), Spixstraße (südöstlich), Perlacher Straße (südlich), Untersbergstraße (westlich) und Weißenseestraße (nordöstlich), sog. AGFA-Gelände im Sanierungsgebiet "Tegernseer Landstraße/Chiemgaustraße", Umstrukturierung des Agfa-Geländes; Auslobung des städtebaulichen und landschaftsplanerischen Ideenwettbewerbs durch die Landeshauptstadt München mit der Park Immoblien GmbH & Co. KG, Eckdatenbeschluss; Sitzungsvorlagen Nr. 02-08 / V 08297; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.07.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Gaststätten (unveränderte Fortführungen), Mitteilungen durch das Kreisverwaltungsreferat 3.5.6.4.1 Kleingaststätte "Maibaumstüberl",Obere Weidenstraße; Mitteilung vom 08.08.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: UA 18 - Kultur, Veranstaltungen - 18.09.2006
+- TOP 3.1.: Veranstaltung auf Privatgrund; Open-Air-Kino auf der Wiese gegenüber dem Säbener Platz vom 18.08. bis 20.08.2006; Zuleitung des Kreisverwaltungsreferats mit der Bitte um Stellungnahme (vorab entschieden durch den Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA-Satzung) - <div>Zustimmung</div>
+- TOP 3.1.: ]18.jetzt[, Fest junger Erwachsener am 14.10.2006 im Rathaus; Präsentation der Bezirksausschüsse; Ergebnis der Besprechung vom 17.07.2006; Zuleitung des Direktoriums vom 24.07.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Protokoll zum 5. Jour-fixe Kulturreferat und Bezirksausschüsse am 03.07.2006; Zuleitung des Kulturreferats vom 25.07.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Kultur im Stadtquartier; Beschluss des Kulturausschusses vom 20.07.2006 - <div>zur Kenntnis genommen</div>
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Beweislastumkehr bei den Stadtwerken; Antrag des BA 7 Sendling-Westpark mit der Bitte um Unterstützung - <div>Abgelehnt</div>
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Kündigung des Kioskbetriebes an der Straßenbahnhaltestelle Großhesselohe Konkrete Auskunft über Planungen und Weiterführung des Kioskbetriebes; Antrag Nr. 02-08 / B 01182 des BA 18 vom 16.05.2006; Antwortschreiben des Referats für Arbeit und Wirtschaft vom 19.07.2006 - <div>Antrag UA Soziales</div>
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
