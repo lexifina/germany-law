@@ -1,0 +1,60 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-09-20T16:00:00+02:00
+- Ende: 2006-09-20T00:00:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1893
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1893
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111919.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111919.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111919.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: BA gepl. Straße Nr. 14 - mehrheitlich beschlossen
+- TOP 5: BA Zum Gut Heiligendonk 16,18, 20 - einstimmig beschlossen
+- TOP 6: BA Zum Gut Heiligendonk 50 - mehrheitlich beschlossen
+- TOP 7: Einrichtung eines Wartungsweges - zur Kenntnis genommen
+- TOP 8: Wegeverbindung Kittelbach/A 44 - zur Kenntnis genommen
+- TOP 9: Anfrage Bü90/Grüne: Ausgleichsflächen-Kataster - zur Kenntnis genommen
+- TOP 10: Anfrage SPD: Haltestelle Am Röttchen - zur Kenntnis genommen
+- TOP 11: Anfrage SPD: Schraffierung Heideweg - zur Kenntnis genommen
+- TOP 12: Anfrage CDU: Querung der Arcadiastraße - zur Kenntnis genommen
+- TOP 13: Antrag SPD: Schulhof GGS Krahnenburgstraße - einstimmig beschlossen
+- TOP 14: Haushaltsplan-Entwurf 2007 - einstimmig beschlossen
+- TOP 15: CDU: Haushalt 2007-Bücherei Unterrath - zur Kenntnis genommen
+- TOP 16: HH-Antrag-CDU:Klinke - zur Kenntnis genommen
+- TOP 17: HH-Antrag-SPD: Umgestaltung Platz vor der Klinke - zur Kenntnis genommen
+- TOP 18: HH-Antrag-SPD: Jugendfreizeiteinrichtung Ammerweg - zur Kenntnis genommen
+- TOP 19: HH-Antrag CDU: Jugenfreizeitstätte Ammerweg - zur Kenntnis genommen
+- TOP 20: HH-Antrag-SPD: LZA Unterrather Straße - zur Kenntnis genommen
+- TOP 21: HH-Antrag-CDU: Unterrather Straße Überplanung - zur Kenntnis genommen
+- TOP 22: HH-Antrag-SPD: JfE Lichtenbroicher Weg - zur Kenntnis genommen
+- TOP 23: HH-Antrag-SPD: Fuß- und Radweg von Rath - zur Kenntnis genommen
+- TOP 24: HH-Antrag-CDU: Fortführung des Radweges DB-Strecke - zur Kenntnis genommen
+- TOP 25: HH-Antrag-SPD:Werterhaltung von Straßen - zur Kenntnis genommen
+- TOP 26: HH-Antrag-CDU: Bolzplatz St.-Franziskus-Straße - zur Kenntnis genommen
+- TOP 27: HH-Antrag-CDU: Ortsumgehung Rath - zur Kenntnis genommen
+- TOP 28: SPD: HH-Antrag-Bau der Ortsumgehung Rath - zur Kenntnis genommen
+- TOP 29: HH-Antrag-CDU: Grünzug Selbecker Straße - zur Kenntnis genommen
+- TOP 30: HH-Antrag-CDU: Kreisverkehr Hülsmeyerplatz - zur Kenntnis genommen
+- TOP 31: HH-Antrag-CDU: Fuß- und Radweg Schwarzbachgraben - zur Kenntnis genommen
+- TOP 32: CDU Haushalt 2007 Einfachturnhalle - zur Kenntnis genommen
+- TOP 33: SPD: HH-Antrag -Senkung des Benutzungsentgeltes
+- TOP 34: SPD: HH-Antrag - HHst: neu - Bau von Bike & Ride - zur Kenntnis genommen
+- TOP 35: SPD: HH-Antrag - Haushaltsstelle 0000 66210 - zur Kenntnis genommen
+- TOP 36: HH-Antrag CDU: Brücke Liliencronstraße - zur Kenntnis genommen
+- TOP 37: Neubau Kindertageseinrichtung Selbecker Straße - einstimmig beschlossen
+- TOP 38: Lärmschutzwall Franz-Rennefeld-Weg - einstimmig beschlossen
+- TOP 39: Benennung von Straßen: Toni-Turek-Platz - einstimmig beschlossen
+- TOP 40: Am Roten Haus - einstimmig beschlossen
+- TOP 41: Terminplanung 2007 - einstimmig beschlossen
+- TOP 42: Zuschussvergabe - einstimmig beschlossen
+- TOP 43: Mitteilungen der Verwaltung - einstimmig beschlossen
