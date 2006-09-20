@@ -1,0 +1,6 @@
+# TOP 3.: Antrag auf Anbringung eines Zebrastreifens auf dem "Starenweg" und der "Berliner Straße"
+
+- Sitzung: Ausschuss für Straßen, Plätze und Verkehr (14. Sitzung) (2006-09-20)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/2221
