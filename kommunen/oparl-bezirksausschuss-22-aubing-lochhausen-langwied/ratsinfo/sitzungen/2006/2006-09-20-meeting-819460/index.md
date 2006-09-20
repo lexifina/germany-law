@@ -1,0 +1,100 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2006-09-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/819460
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/819460
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Neuer Straßenverlauf Bergson- / Lochhausener- / Obere Mühlstraße
+- TOP 2.2.: Straßennetz München-West
+- TOP 2.3.: Mobilfunk im 22. Stadtbezirk
+- TOP 2.4.: Buswahnsinn in Neuaubing
+- TOP 2.5.: Boden- und Bauschutt Recyclinganlagen - Bergsonstr. 115 ehem. Strassergelände
+- TOP 2.6.: Kontrolle von Tempo 30 in der Friedrichshafener Straße
+- TOP 2.7.: Eröffnung der neuen Straßen "Lochhausener-/Bergson- u. Obere Mühlstraße neu", Situationsbericht und Forderung weiterer Maßnahmen
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Autobahnschild an der Bodenseestraße / stadtauswärts
+- TOP 4.2.: Anfrage zur Kinderkrippe Thuisbrunner Straße
+- TOP 4.3.: Horträume an der Wiesentfelser Str. 68
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Regsam
+- TOP 2: (E) Sanierung der Sommerstockanlage auf dem Freizeitgelände Wiesentfelser Straße Empfehlung Nr. 02-08 / E 00443 der Bürgerversammlung des Stadtbezirkes 22 Aubing-Lochhausen-Langwied am 27.06.2006
+- TOP 3: (E) S-Bahnstation Lochhausen Bauschutt beiderseits des neu errichteten Zauns (Ziffer 1 des Antrags)
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Bürgerzentren für den 22. Stadtbezirk, Bezirksteil Aubing
+- TOP 6.2.: Baumschutz, Anhörungen zu Baumfällungen
+- TOP 6.3.: Veranstaltung auf Privatgrund, hier: Aubinger Traubenfest vom 20.-21.07.07
+- TOP 6.4.: Errichtung einer Werbeanlage, Bergsonstr. 151
+- TOP 6.5.: Veranstaltung auf Privatgrund, hier: Aubinger Herbstfest, Festplatz am Germeringer Weg vom 31.08.-05.09.06
+- TOP 6.6.: Planfeststellung nach § 18 Abs. 1 AEG, Lärmsanierung in der LH München, München-Lochhausen und München-Langwied; Strecke 5503 München - Augsburg und Strecke 5543 München-Pasing - Nannhofen
+- TOP 6.7.: Errichtung einer Werbeanlage, Limesstraße
+- TOP 6.8.: Limesstr. 1, Neubau von Wohngebäuden mit Garage, Vorbescheid
+- TOP 6.9.: Antrag auf Genehmigung einer Veranstaltung in der Aubinger Lohe, Gehörlosen-Lauf am 11.11.06
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Verkehrsrechtliche Anordnung, Aufstellung Gefahrenzeichen Z 138 (Radfahrer kreuzen) in der Ubostraße, Schr. KVR vom 16.06.06
+- TOP 7.2.: Zweckentfremdung von Wohnraum, Liebensteinstr. 23, Schr. Sozialreferat vom 17.07.06
+- TOP 7.3.: Verkehrsrechtliche Anordnung, Eingeschränktes Haltverbot Seldeneckstraße, Schr. KVR vom 18.07.06
+- TOP 7.4.: Unveränderte Fortführung, Trink- und Imbiskiosk mit Bewirtungsfläche im Freien, "Öz Imbiss", Bodenseestr. 170, Schr. KVR vom 02.08.06
+- TOP 7.5.: Verkehrsrechtliche Anordnung, Haltverbotserweiterungen Pretzfelder Straße, Schr. KVR vom 30.06.06
+- TOP 7.6.: Budgetmittel des BA 21, Erstausstattung einer Mittagsbetreuung, Schr. Direktorium vom 03.08.06
+- TOP 7.7.: Zweckentfremdung von Wohnraum; Aubinger Str. 49, Schr. Sozialreferat vom 31.07.06
+- TOP 7.8.: Beschlussvorlage zur Weiterfinanzierung von REGSAM, Schr. BA 1 vom 21.07.06
+- TOP 7.9.: Wirtschafts-Info 07/2006, Schr. Ref. f. Arbeit und Wirtschaft vom 31.07.06
+- TOP 7.10.: Baumaßnahmen der Stadtwerke München, Stichtag: 24.07.06, 28.07.06, 07.08.06, 14.08.06, 21.08.06, 28.08.06, Schr. Stadtwerke vom 24.07.06, 28.07.06, 07.08.06, 16.08.06, 21.08.06, 28.08.06
+- TOP 7.11.: Verbesserung der Verkehrssicherheit für Radfahrer von Pasing, Aubing, Lochhausen, Langwied, Allach und Obermenzing in Richtung Langwieder-/Lußsee und zurück, Schr. KVR vom 24.07.06
+- TOP 7.12.: Baufälle im 22. Stadtbezirk (v. 17.-23.07.06, v. 31.07.-06.08.06, v. 07.-13.08.06, v. 14.-20.0806, v. 21.-27.08.06, v.28.08.-03.09.06)
+- TOP 7.13.: Lebensmittelstandort der REWE-Group im 22. Stadtbezirk, Schr. REWE vom 21.07.06
+- TOP 7.14.: Verkehrsuntersuchung Nördliches Würmtal; Verlängerung der St 2063 neu nach München-Pasing, Schr. Ref. für Stadtplanung und Bauordnung vom 02.08.06
+- TOP 7.15.: Zweckentfremdung von Wohnraum, Ubostr. 22, Schr. Sozialreferat vom 02.08.06
+- TOP 7.16.: Mobilfunkantenne Pirolstr. 9, Schr. Dr. Bernhard vom 25.07.06
+- TOP 7.17.: Plangenehmigung nach § 18 Abs. 2 AEG, ESTW UZ München-Pasing (Süd und Nord), München Laim Rbf. für die Bereiche Bft. München-Pasing, -Westkreuz, -Laim Rbf. - Friedenheimerbrücke Abzw., Abzw. Mü. Kanal, Mü. Landsberger STraße, Bf. Mü.-Lochhausen
+- TOP 7.18.: Verbesserungen für Familien im Westbad, Schr. BA 21 vom 08.08.06
+- TOP 7.19.: Unveränderte Fortführung Sportgaststätte ESV Neuaubing, Papinstr. 22, Schr. KVR vom 18.08.06
+- TOP 7.20.: Unveränderte Fortführung "Sportalm", Kastelburgstr. 77, Schr. KVR vom 21.08.06
+- TOP 7.21.: Genehmigung der Baumaßnahme Rohrdommelweg, Beginn der Bauarbeiten am 30.08.06, Schr. Baureferat vom 18.08.06
+- TOP 7.22.: Zweckentfremdung von Wohnraum, Schr. Sozialreferat vom 24.08.06
+- TOP 7.23.: Gewerbeentwicklung Freiham; Vergabe von städtischen Gewerbeflächen, Schr. Ref. f. Arbeit u. Wirtschaft vom 30.08.06
+- TOP 7.24.: Verkehrsrechtliche Anordnung, Freigabe der Lochhausener Straße (neu) und Bergsonstraße (neu), Schr. KVR vom 12.07.06
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Fehlende Kindergarten- und Hortplätze im Bereich des BA 22, Schr. Schul- und Kultusreferat vom 26.07.06 zum BA-Antrag 1029 vom 27.03.06
+- TOP 8.2.: Ausfertigung der Beschlussvorlage "Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe", Schr. Sozialreferat vom 27.07.06
+- TOP 8.3.: Verkehrssituation für Radfahrer am Radweg an der Ubostraße, Schr. KVR vom 18.07.06 zum BA-Antrag Nr. 1186 vom 23.05.06
+- TOP 8.4.: Sanierung der Straße "Am Sandberg", Schr. Baureferat vom 01.08.06 zum BA-Antrag Nr. 1362 vom 19.07.06
+- TOP 8.5.: Unterführungsbauwerk Bergsonstraße (neu), Kreisverkehre, Schr. Baureferat vom 03.08.06 zur Anfrage aus der Bürgerversammlung vom 27.06.06
+- TOP 8.6.: Lindacher Str. 5, Fl.Nr. 378/2, Gemarkung Aubing, Bauvorhaben, Vorbescheid, Schr. Planungsreferat vom 19.07.06
+- TOP 8.7.: Pädagogisch betreutes Cafe für junge Erwachsene im 22. Stadtbezirk, Schr. Sozialreferat vom 18.08.06 zum BA-Antrag Nr. 1190 vom 17.05.06
+- TOP 8.8.: Dank für Bezuschussung des GPS-Gerätes, Schr. BRK
+- TOP 8.9.: Bedeutung "Hauptsammelstraße", Schr. Planungsreferat vom 24.08.06
+- TOP 8.10.: Beseitigung des Gewerbebetriebes Aubinger Str. 92, Schr. Planungsreferat vom 30.08.06 zum BA-Antrag Nr. 48 vom 19.01.05
+- TOP 8.11.: Verlängerung der Buslinie 162, Schr. Direktorium vom 30.08.06
+- TOP 8.12.: Verkehrliche Überprüfung der Pretzfelder Straße, Schr. Planungsreferat vom 30.08.06 zum BA-Antrag Nr. 1189 vom 17.05.06
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Bauausschuss vom 18.07.06 - Durchgehender Rad- und Fußweg entlang der Goteboldstraße
+- TOP 9.2.: Vollversammlung vom 26.07.06 - Sozialgerechte Bodennutzung - Der Münchner Weg, Fortschreibung der Stadtratsbeschlüsse - 2. S-Bahn-Stammstrecke, Baustellenlogistik - Boden- und Bauschutt Recycling-Anlagen und Bodenbörsen in München - Handlungsprogramm Mittlerer Ring 2001-2005
+- TOP 9.3.: Kulturausschuss vom 20.07.06 - Kultur im Stadtquartier
+- TOP 9.4.: Ausschuss für Stadtplanung und Bauordnung vom 19.07.06 - Handlungsprogramm Mittlerer Ring 2001-2005
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Stadtratshearing "Die zukünftige Entwicklung des Wissenschafts- und Hochschulstandorts München" am 18.10.06 von 9.-16.30 Uhr im Großen Sitzungssaal des Rathauses
+- TOP 10.2.: Mitteilung der Termine 2007 "Das Schulreferat trifft die Bezirksausschüsse"
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 18.10.2006, Gaststätte "Wienerwald", Limesstr. 63
