@@ -1,0 +1,93 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2006-09-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/778424
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/778424
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellugn der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .5.: Anträge
+- TOP .6.: Sachverhalte zur Entscheidung
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.1.1.: Nachbarschaftshilfe Au e.V.: Erstellung und Druck eines neuen Prospektes
+- TOP 6.1.2.: REFUGIO München: Kunsttherapie für Flüchtlingskinder
+- TOP 6.1.3.: Kath. Pfarramt St. Wolfgang: Zeltlager vom 29.07. bis 05.08.2006
+- TOP 6.1.4.: Förderverein der Grundschule Bazeillesstraße: Einrichtung eines Lesezimmers
+- TOP 6.1.8.1: Erledigte BA-Anträge und -Anfragen
+- TOP 6.1.1.: Kronepark (BA-Antrag Nr. 1131 v. 26.04.2006)
+- TOP 6.1.2.: Wiederherstellung der Gehwegbeläge nach Bauarbeiten (BA-Antrag Nr. 1133 v. 26.04.2006)
+- TOP 6.1.3.: Durchgehender Fußweg am Auer Mühlbach (Zwischennachricht zum BA-Antrag Nr. 1134 v. 26.04.2006)
+- TOP 6.1.4.: Kinderstadtteilplan für Au-Haidhausen (BA-Antrag Nr. 1135 v. 26.04.2006)
+- TOP 6.1.5.: Satzung für erlaubnisfreie Gastronomie (BA-Antrag Nr. 1139 v. 26.04.2006)
+- TOP 6.1.6.: Öffnung der Schulsportanlage an der Flurstraße während des Baus der 2. S-Bahn-Stammstrecke (BA-Antrag Nr. 1196 v. 17.05.2006)
+- TOP 6.1.7.: Sanierung und Beleuchtung eines öffentlichen Fußweges am Paulanerplatz (BA-Antrag 1198 v. 17.05.2006)
+- TOP 6.1.8.: Ausreichende Restgehwegbreite bei Aufstellung von Schaltkästen (BA-Antrag Nr. 1199 v. 17.05.2006)
+- TOP 6.1.9.: Grünfläche am St.-Wolfgangs-Platz einzäunen (BA-Antrag Nr. 1200 v. 17.05.2006)
+- TOP 6.1.10.: Kontrollpersonal der Bezirksinspektionen verstärken (BA-Antrag Nr. 1201 v. 17.05.2006)
+- TOP 6.1.11.: Denkmalschutz für die Isar-Kaskade an der Maximiliansbrücke (BA-Antrag Nr. 1203 v. 17.05.2006)
+- TOP 6.1.12.: Aufstellung eines Brunnens am Johannisplatz (BA-Antrag Nr. 1335 v. 27.06.2006) sowie Forderungen des BA nach Aufstellung eines Brunnens am Gasteigkircherl und Wiederinbetriebnahme der Trinkbrunnen an der Nockherstraße und am Orleansplatz
+- TOP 6.1.13.: Geschwindigkeitskontrollen in der Prinzregentenstraße zw. Leuchtenbergring und Vogelweideplatz (BA-Antrag Nr. 1344 v. 27.06.2006)
+- TOP 6.1.14.: Radfahrverbot auf den Wehrstegen an der Maximiliansbrücke durchsetzen (BA-Antrag Nr. 1369 v. 19.07.2006)
+- TOP 6.1.15.: Kostenloses und verpflichtendes Kindergartenjahr (BA-Antrag Nr. 1372 v. 19.07.2006)
+- TOP 6.1.16.: Zwischennachricht zu BA-Anträgen und BV-Empfehlungen zur 2. S-Bahn-Stammstrecke
+- TOP 6.1.17.: Leerer Baumgraben an der Breisacher /Ecke Elsässer Straße
+- TOP 6.1.18.: Alter Haidhauser Friedhof: Anstrich der Mauer
+- TOP 6.1.19.: Gehwegabsenkungen in Au-Haidhausen
+- TOP 6.1.20.: Schlechter Zustand des Straßenbelags in der Nockherstraße
+- TOP 6.1.8.2: Unterrichtungen und Informationen (vgl. schriftliche Infos)
+- TOP 6.1.8.3: Eilentscheidungen der Vorsitzenden gem. § 20 Abs. 1 der BA-Satzung
+- TOP 6.1.1.: Ausdehnung einer Freischankfläche am Max-Weber-Platz 11
+- TOP 6.1.2.: Mariahilfplatz als Ausweichquartier für die Löwenparade während des Papstbesuches
+- TOP 6.1.3.: BBZ Simon-Knoll-Platz: Parkerlaubnis für Baufahrzeuge
+- TOP 8.5: Umstrukturierung der Schulsozialarbeit
+- TOP 8.6: Maßnahmen am Pariser Platz und in der Spicherenstraße
+- TOP 8.7: Änderungen im Filialnetz der Deutschen Post im 5. Stadtbezirk
+- TOP 8.8: Nachnutzung des bisherigen JVA-Geländes Am Neudeck
+- TOP 8.8.1.: Arbeitgeber-Service der ARGE im Sozialbürgerhaus Orleansplatz
+- TOP 8.8.2.: Steinstraße 57: Nutzungsänderung einer Vinothek in ein Bistro
+- TOP 8.8.3.: Anträge auf Errichtung von Werbeanlagen und Warenstellagen: 3.1 Tegernseer Landstraße südl. Hiendlmayrstr. 5: Wechselwerbeanlage 3.2 Leuchtenbergring: Wechselwerbeanlage 3.3 Kolumbusplatz: 2 Wechselwerbeanlagen 3.4 Warenstellagen in der Weißenburger Str. 5, 7 und 13
+- TOP 8.8.4.: Veranstaltungen auf öffentlichem Verkehrsgrund bzw. in Grünanlagen: 4.1 Flohmarkt auf der Postwiese am 16.09.2006
+- TOP 8.8.5.: Rauchfreies Zelt bei öffentlichen Veranstaltungen (Beschlussentwurf für den Kinder- u. Jugenhilfeausschuss am 19.09.2006)
+- TOP 8.8.6.: Anträge auf Errichtung von Freischankflächen: 6.1 Schank- u. Speisewirtschaft "Serrano's", Rosenheimer Str. 66 6.2 Schank- u. Speisewirtschaft "Kashmir", Pariser Str. 38 6.3 Kleingaststätte "Halay", Weißenburger Str. 39 6.4 Eisdiele "Buongiorno", Weißenburger Platz 5 6.5 Haarstudio "Point", Weißenburger Platz 5 6.6 Erlaubnisfreier Gaststättenbetrieb "Benedetti", Ismaninger Str. 50
+- TOP 8.8.1.: "Kommerzielle Nutzung von Grünanlagen, Straßen und Plätzen" (Antwort auf BA-Antrag Nr. 1197 v. 17.05.2006)
+- TOP 8.8.2.: Sozialgerechte Bodennutzung - Anpassung der Verfahrensgrundsätze (Beschluss der Vollversammlung vom 26.07.2006)
+- TOP 8.8.3.: Umwandlung von Mietwohnungen in Wohneigentum - Konsequente Ausübung des Vorkaufsrechts in Au-Haidhausen (Beschluss des Kommunalausschusses vom 20.07.2006)
+- TOP 8.8.4.: Erhalt der traditionellen Struktur des Viktualienmarktes (u.a. Imbiss-Angebot)
+- TOP 8.8.5.: Antrag auf Freischankfläche: "Lehner's", Schornstr. 2 Schreiben des Kreisverwaltungsreferates an den Pächter
+- TOP 8.8.6.: Kulturmarkt auf dem Orleansplatz (30.09.-03.10.2006) Veranstaltungserlaubnis des Baureferats
+- TOP 8.8.7.: Obst- und Gemüsestand auf dem Pariser Platz
+- TOP 8.8.1.: Programmplanung für die 1200-Jahrfeier Haidhausens im Jahr 2008
+- TOP 8.8.2.: Kulturelle Zwischennutzung leer stehender Räume (Antwort auf Nachfrage des BA)
+- TOP 8.8.1.: Kinder und Jugend
+- TOP 8.8.2.: Behinderte
+- TOP 8.8.3.: Ausländer und Flüchtlinge
+- TOP 8.8.4.: Frauen und Mädchen
+- TOP 8.8.5.: Baumschutz
+- TOP 8.8.1.: Sommerstr. 7: Fällung einer Linde
+- TOP 8.8.2.: Rosenheimer Str. 5: Fällung einer Kastanie
+- TOP 8.8.1.: Bauvorhaben Innere Wiener Str. 28: Umbau des Rückgebäudes, Einbau einer Wohnung
+- TOP 8.8.2.: Bauvorhaben Lilienstr. 17: DG-Ausbau bzw. Aufstockung mit Fassaden-/Balkonneugestaltung u. baulichen Änderungen, Lückenbebauung u. Tiefgarage (Lilienstr. 17-49)
+- TOP 8.8.3.: Bauvorhaben Lothringer Str. 8 - Tektur Neubau einer Wohnanlage mit Büro-/Ladennutzung (Lothringer Str. 8), Teilabbruch, Umbau u. Sanierung eines denkmalgeschützten Gebäudes (Rosenheimer Str. 87)
+- TOP 8.8.4.: Bauvorhaben Lothringer Str. 4 - Vorbescheid Sanierung und Neubau (Lothringer Str. 4-6 / Rosenheimer Str. 83)
+- TOP 8.8.5.: Bauvorhaben Rosenheimer Str. 103 Umbau eines Wohn- u. Geschäftsgebäudes mit DG-Ausbau u. Fassadensanierung; Anbau (Rosenheimer Str. 101+103)
+- TOP 8.8.6.: Bauvorhaben Franziskanerstr. 17 - Tektur Umbau u. Instandsetzung eines Wohnheims, Rekonstruktion des historischen Erkerturms, Anbau einer Fluchttreppe
+- TOP 8.8.7.: Bauvorhaben Hochstr. 5 Umbau einer Tankstelle mit Nutzungsänderung in einen Laden und Autovermietung einschließlich Anbau eines Technikraumes
+- TOP 8.8.1.: Spartenanfrage Kirchenstraße: Antwort auf die Stellungnahme des BA
+- TOP 8.8.1.: Straßenbahnlinie 27 Richtung Schwanseeplatz: Zusätzliche Haltestelle an der Eduard-Schmid-Straße (Antwort auf BA-Antrag Nr. 638 v. 21.09.2005)
+- TOP 8.8.2.: Bürgeranliegen zu Verkehrsproblemen: 2.1 Wegfall von Parkplätzen durch Sanierungsarbeiten in der Zeppelin- u. Mariahilfstraße 2.2 Befahren des Gehsteigs vor den Anwesen Steinstr. 44-48
+- TOP 8.8.1.: Beschwerden über die Firma RENO Brand in der Oefelestraße (Erneute Anwohnerschreiben und Stellungnahmen des KVR)
+- TOP 8.8.2.: Neues Wasserkraftwerk an der Praterinsel Gemeinsames Projekt der Stadtwerke München mit Green City
+- TOP 8.8.3.: Anstehende u. laufende Bauvorhaben der Stadtwerke: Wöchentliche Übersichten
+- TOP 8.8.&nbsp;: Sachverhalte zur Anhörung
+- TOP 8.8.&nbsp;: Sachverhalte zur Unterrichtung
+- TOP 8.8.3.: EINSTEIN Kulturzentrum (Antwort auf Nachfrage des BA)
