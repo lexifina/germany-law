@@ -1,0 +1,99 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2006-09-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/804663
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/804663
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Termine für BA 11-Sitzungen und Bürgerversammlung 2007
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Wegeverbindung Olympiapark - Rangierbahnhof - Lerchenauer See (Antrag Nr. 02-08/ B 01057 des BA 11 Milbertshofen - Am Hart vom 15.03.2006) Antwortschreiben des Referates für Stadtplanung und Bauordnung
+- TOP 4.3.: Zufahrt zum ZHS-Gelände (Antrag Nr. 02-08/ B00950 des BA 11 Milbertshofen - Am Hart vom 15.02.2006) Antwortschreiben des Referates für Stadtplanung und Bauordnung)
+- TOP 4.4.: Wiederinbetriebnahme des St. Georg-Brunnen am Milbertshofener Platz (Antrag Nr. 02-08/ B01142 des BA 11 Milbertshofen - Am Hart vom 09.05.2006) Antwortschreiben des Baureferates
+- TOP 4.5.: Abstellmöglichkeiten für Fahrräder am U-Bahnhof Oberwiesenfeld (Antrag Nr. 02-08/ B 01289 des BA 11 Milbertshofen - Am Hart vom 21.06.2006) Antwortschreiben des Baureferates mit Antwortschreiben an BA 24 Feldmoching - Hasenbergl
+- TOP 4.6.: Anbringung von Straßenschildern entlang der Diagonale (Neubaugebiet Nordheide) (Antrag Nr. 02-08/ B 01208 des BA 11 Milbertshofen - Am Hart vom 17.05.2006) Antwortschreiben des Baureferates
+- TOP 4.7.: Errichtung von Automaten für Hunde-"Reste" an den Zugängen zur Panzerwiese (Antrag Nr. 02-08/ B 01255 des BA 11 Milbertshofen - Am Hart vom 17.05.2006) Antwortschreiben des Baureferates
+- TOP 4.8.: Anbringung eines "Flüsterbelages" auf dem Geh- und Radweg zwischen Graslilienanger und Fingerkrautanger (Empfehlung Nr. 02-08/ B 00454 der Bürgerversammlung des BA 11 Milbertshofen - Am Hart vom 29.06.2006) Zwischennachricht des Baureferates
+- TOP 4.9.: Vollzug der Baumschutzverordnung, Bremer Str. 7; Vorabzustimmung
+- TOP 4.10.: Veranstaltung auf dem Olympiaberg, 24-Std. MTB-Rennen; Vorabzustimmung
+- TOP 4.11.: Einrichtung eines barrierefreien Zuganges zum Wohnheim Karl-Rudolf-Schulte-Haus (Antrag Nr. 02-08/B 01056 des BA 11 Milbertshofen - Am Hart vom15.03.2006) Antwortschreiben des Sozialreferates
+- TOP 4.1.: Veranstaltung auf öffentlichem Verkehrsgrund, "Tour de Franz" am 30.07.2006; Vorabzustimmung
+- TOP 4.2.: Verkehrsrechtliche Anordnung nach §45 Abs. 3 StVO, hier: Busbahnhof BMW in der Dostlerstraße
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 4.1.: Wies`n-Reservierung 2006
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Katholisches Pfarramt St. Georg, Laternenbasteln für das St. Martinsfest mit Umzug am 10.11.2006
+- TOP 6.2.: Eigentümerbeirat - WEG Am Hart - Nordheide Ost, Sommerfest am 01.07.2006
+- TOP 6.3.: Katholisches Pfarramt Frieden Christi, Laternen basteln und Umzug
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 1: (E) Hinweis auf das Kulturhaus Milbertshofen im U-Bahnhof Milbertshofen auf Bahnsteigtafeln, Umgebungsplänen und im Sperrengeschoss
+- TOP 2: (E) Mehr Hundekotautomaten im Petuelpark (Ziffer 2) Empfehlung Nr. 02-08 / E 00451 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen - Am Hart am 29.06.2006
+- TOP 3: (E) Verhinderung des wilden Parkens auf dem Gehweg zwischen Hildegard-von-Bingen-Anger und Frauenmantelanger Empfehlung Nr. 02-08 / E 00455 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 29.06.2006
+- TOP 7.: Anträge
+- TOP 7.1.: Antrag der SPD-Fraktion im BA 11
+- TOP 7.1.: Lehrstellensituation in Milbertshofen - Am Hart (CSU-Fraktion im BA 11)
+- TOP 7.1.: Mehr Sicherheit für Radlfahrer (CSU-Fraktion im BA 11)
+- TOP 7.2.: Freigabe der Dostlerstarße in beide Richtungen für Radfahrer (Martin Kissel)
+- TOP 7.3.: Hinweisbeschilderung am U-Bahnausgang "Am Oberwiesenfeld" (Knorr-Bremse AG)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a) Knorrstr. 41, ein Silberahorn b) Hänflingweg 30, drei Fichten, eine Kiefer c) Arnauer Str. 10 / 12, ein Kirschbaum d) Feserstr. 25, zwei Birken
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Baumaßnahmen: a) Schleißheimer Straße 450 b) Hänflingweg 16 c) Ruchsteigerstr. 11 d) Moosacher Str. 11
+- TOP 8.3.: Anhörungen im Einzelfall auf Anforderung: a) Lerchenauer Str. 57 b) Lerchenauer Str. 76, Geb. 40.0/55.0/35.0 c) Lerchenauer Str. 76, Geb. 154.0 d) Schleißheimer Str. 450 e) Knorrstraße, Abgrabung (Sanierung des Grundstücks)
+- TOP 8.4.: Anbringung von Fanggittern am Nymphenburg-Biedersteiner-Kanal im Petuelpark (Empfehlung Nr. 02-08/ E 00461 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart vom 29.06.2006)
+- TOP 8.5.: Werbeanlagen: a) Neuherbergstr. 2, 6 Plakatanschlagtafeln b) Knorrstraße, 1 hinterleuchtete Wechselwerbeanlage
+- TOP 8.1.: Veranstaltung auf öffentlichem Verkehrsgrund, Flohmarkt auf dem Milbertshofener Platz am 07.10.2006
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendungen aus dem BA-Budget, Bewilligungsbescheide: a) ASZ Milbertshofen, Musik zur 30-Jahr-Feier, Bewilligung 400,00? b) "Milbertshofen in Aktion", Aktionstag, Bewilligung 1000,00? c) ASZ Milbertshofen, gebrauchter Beamer, Bewilligung 600,00? d) EB der HS an der Schleißheimer Straße, Berufsfindungskurs Malern, Bewilligung 500,00?
+- TOP 9.2.: Antrag der CSU-Fraktion des BA 7 Sendling-Westpark auf Beweislastumkehr bei den Stadtwerken
+- TOP 9.3.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.1.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigungsbescheide
+- TOP 9.2.: Aufwertung und Umgestaltung des Dülferanger und des Mittelteilers der Schleißheimer Straße; Verwaltungsinterne Projektgenehmigung
+- TOP 9.3.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1972 Schleißheimer Straße (östlich), Sandbienenweg (beiderseits), (Teiländerung des Bebauungsplanes mit Grünordnung Nr. 1779 d) (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.07.2006)
+- TOP 9.4.: Künftige Entwicklung der Fröttmaninger Heide (Beschluss der Vollversammlung des Stadtrates vom 26.07.2006)
+- TOP 9.5.: Bauleitplanung Münchner IT-Zentrum der BMW AG (Beschluss der Vollversammlung des Stadtrates vom 05.07.2006)
+- TOP 9.6.: Sozialgerechte Bodennutzung - Der Münchner Weg (Beschluss der Vollversammlung des Stadtrates vom 26.07.2006)
+- TOP 9.7.: Meldelisten Bauvorhaben
+- TOP 9.8.: Baumaßnahmen der Stadtwerke München
+- TOP 9.9.: Veranstaltung auf dem Olympiaberg, 24-Std.-MTB-Rennen; Ausnahmebewilligung
+- TOP 9.1.: 5. Jour Fixe der Bezirksausschüsse, Protokoll der Sitzung vom 03.07.2006
+- TOP 9.2.: Fest junger Erwachsener am 14.10.2006 im Rathaus; Präsentation der Bezirksausschüsse; Ergebnis der Besprechung vom 17.07.2006
+- TOP 9.3.: Dekanat Freimann - Jahresbericht 2005
+- TOP 9.4.: Bericht über REGSAM (Beschluss des Sozialausschusses vom 06.07.2006)
+- TOP 9.5.: Beschlussvorlage zur Weiterfinanzierung von REGSAM; Schreiben des BA 1 Altstadt - Lehel
+- TOP 9.6.: Kulturhaus Milbertshofen, Planungen für den Keferloher Platz; Schreiben des Kulturreferates
+- TOP 9.7.: Ausbau des Netzes der Alten- und Service-Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe (Beschluss des Sozialausschusses vom 22.06.2006)
+- TOP 9.8.: Erweiterung der städtischen Kindertagesstätte Hildegard-von-Bingen-Anger 4b
+- TOP 9.9.: Erweiterung der städtischen Kindertageseinrichtung an der Hugo-Wolf-Str. 68
+- TOP 9.10.: Fortführung von Gaststättenbetrieben: a) SSW "Konstanzer Stüberl", Konstanzer Str. 36 b) SSW "Gallo Rosso", Schmalkaldener Str. 53
+- TOP 9.11.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 9.12.: Errichtung eines Schulgebäudes an der Nordheide für städtische BOS/FOS Wirtschaft (Beschluss der Vollversammlung des Stadtrates vom 26.07.2006)
+- TOP 9.13.: Geschäftsbericht der Unfallkasse München
+- TOP 9.1.: Leistungsprogramm der MVG für die Fahrplanperiode 2007 (Beschluss der Vollversammlung des Stadtrates vom 26.07.2006)
+- TOP 9.2.: Anmerkungen des AAN zum Leistungsprogramm 2007 der MVG
+- TOP 9.3.: Parkerleichterung für Schwerbehinderte; Genehmigung eines personenbezogenen Sonderparkplatzes
+- TOP 9.4.: Verkehrsrechtliche Anordnung nach §45 StVO; Aufhebung eines personenbezogenen Behindertenparkplatzes
+- TOP 9.5.: Verkehrsrechtliche Anordnung nach §45 StVO; Halteverbotsflächen in der Troppauer Straße (Antrag Nr. 02-08/B 01254 des Bezirksausschusses 11 Milbertshofen - Am Hart vom 17.05.2006)
+- TOP 9.6.: Veranstaltungen auf öffentlichem Verkehrsgrund; Erlaubnisbescheide: a) Radtour "Tour de Franz" am 30.07.2006 b) Tag der offenen Tür FFW München Harthof am 23.07.2006 c) Münchner Blade Night vom 24.04.-04.09.2006, Nachtrag
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
