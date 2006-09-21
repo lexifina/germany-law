@@ -32,7 +32,7 @@ Tarifziffer | Rechtsgebiet
 52 | Baumschutzverordnung
 53 | Artenschutz
 54 | Jagdwesen, Fischerei, Wildschutz
-55 | Bundeswildschutzverordnung
+55 | Bundesartenschutzverordnung
 6 | Bodenschutzrecht/Altlasten
 60 | Bundes-Bodenschutzgesetz
 7 | Umweltinformationsrecht
@@ -78,7 +78,7 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro |  |
 10.1.13 | Aussprechung von Verpflichtungen zur Rekultivierung nach § 36 Abs. 2 KrW-/AbfG |  | 30 bis 2.875 | 
 10.1.14 | Feststellung des Abschlusses der Stilllegung nach § 36 Abs. 3 KrW-/AbfG |  | 250 bis 1.150 | 
 10.1.15 | Feststellung des Abschlusses der Nachsorgephase nach § 36 Abs. 5 KrW-/AbfG |  | 115 bis 5.750 | 
-10.2 | Sonstige Maßnahmen nach demKrW-/AbfG |  |  | 
+10.2 | Sonstige Maßnahmen nach dem KrW-/AbfG |  |  | 
 10.2.1 | Übertragung von Aufgaben auf Dritte nach § 16 Abs. 2 KrW-/AbfG |  | 7 v. T. des Jahresumsatzes, mindestens 575 höchstens 5.750 | 
 10.2.2 | Übertragung von Erzeuger- und Besitzerpflichten nach § 17 Abs. 3 KrW-/AbfG |  | 7 v. T. des Jahresumsatzes, mindestens 575 höchstens 5.750 | 
 10.2.3 | Übertragung von Erzeuger- und Besitzerpflichten nach § 17 Abs. 4 KrW-/AbfG |  | 7 v. T. des Jahresumsatzes, mindestens 170 höchstens 1.150 | 
@@ -404,7 +404,7 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro |  |
 50.4 | Amtshandlungen nach § 49 Abs. 4 BNatSchG (Einziehung) |  | 50 bis 1.500 | 
 51 | Gesetzes über Naturschutz und Landschaftspflege (Bremisches Naturschutzgesetz - BremNatSchG) |  |  | 
 51.1 | Gutachtliche Stellungnahme für einen Eingriff i. S. des § 11 |  | nach Zeit- und Sachaufwand | 
-51.2 | Genehmigung eines UVP-pflichtigen Eingriffs nach § 12 Abs. 2 a |  | nach Zeit- und Sachaufwand | 
+51.2 | Genehmigung eines UVP - pflichtigen Eingriffs nach § 12 Abs. 2 a |  | nach Zeit- und Sachaufwand | 
 51.3 | Stellungnahme für die Anordnung der Wiederherstellung des bisherigen Zustandes oder sonstiger Maßnahmen (§ 12 Abs. 5) |  | 100 | 
 51.4 | Ausnahmen, Zustimmungen, Einvernehmensherstellungen, Erlaubnisse oder andere zum unmittelbaren Nutzen der Beteiligten vorgenommene Amtshandlungen auf Grund dieses Gesetzes, einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung oder einer Anordnung einer einstweiligen Sicherstellung nach § 25 |  | 30 bis 1.250 | 
 51.5 | Verträglichkeitsprüfung durch die oberste Naturschutzbehörde nach § 26 c Abs. 1 Satz 3 |  |  | 
@@ -486,9 +486,9 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro |  |
  | - Aufwand für besondere Verpackung und besondere Beförderung |  | in Höhe der entstandenen Kosten | 
  | Auslagen werden nicht erhoben in den Fällen der Amtshandlungen, für die nach § 6 Abs. 1 Satz 2 Nr. 3 BremUIG Kostenfreiheit besteht. |  |  | 
 8 | Energieaufsicht, Strompreise |  |  | 
-80 | Maßnahmen auf Grund des Gesetzes über die Elektrizitäts- und Gasversorgung (Energiewirtschaftsgesetz - EnWG) |  |  | 
-80.1 | Genehmigung nach § 3 Abs. 1 |  | 110 bis 8.250 | 
-80.2 | Genehmigung der Entgelte für den Netzzugang nach § 23 a |  | 1.000 bis 50.000 | 
+80 | Maßnahmen auf Grund des Gesetzes über die Elektrizitäts- und Gasversorgung (Energiewirtschaftsgesetz - EnWG -) |  |  | 
+80.1 | Genehmigung nach § 4 Abs. 1 |  | 110 bis 8.250 | 
+80.2 | Genehmigung der Entgelte für den Netzzugang nach § 23a |  | 1.000 bis 50.000 | 
 80.3 | Anordnung der Abschöpfung des wirtschaftlichen Vorteils und Auferlegung der Zahlung des entsprechenden Geldbetrages gegenüber dem Unternehmen nach § 33 Abs. 1 |  | 2.500 bis 75.000 | 
 80.4 | Entscheidung über Einwände gegen Feststellungen nach § 36 Abs. 2 Satz 2 nach § 36 Abs. 2 Satz 3 |  | 110 bis 4.000 | 
 80.5 | Verpflichtung eine Zuwiderhandlung gegen § 30 Abs. 1 abzustellen nach § 30 Abs. 2 |  | 2.500 bis 180.000 | 
@@ -503,9 +503,9 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro |  |
  | mehr als 2,5 Mio. Euro bis zu 7,5 Mio. Euro |  | 26.400 zuzüglich 0,4 v. H. der 2,5 Mio. Euro übersteigenden Herstellungskosten | 
  | mehr als 7,5 Mio. Euro bis zu 20 Mio. Euro |  | 48.400 zuzüglich 0,2 v. H. der 7,5 Mio. Euro übersteigenden Herstellungskosten | 
  | mehr als 20 Mio. Euro |  | 75.900 zuzüglich 0,1 v. H. der 20 Mio. Euro übersteigenden Herstellungskosten | 
-80.12 | Plangenehmigung von Energieanlagen nach § 43 Abs. 1 Satz 2 |  | 50 v.H. der Gebühr nach 80.4 | 
+80.12 | Plangenehmigung von Energieanlagen nach § 43 Abs. 1 Satz 2 |  | 50 v.H. der Gebühr nach 80.11 | 
  | Anmerkung zu 80.11 und 80.12: |  |  | 
- | Schließt das Planverfahren andere die Anlage betreffende behördliche Entscheidungen ein, so erhöht sich die Gebühr um die dafür vorgeschriebenen Gebühren.. |  |  | 
+ | Schließt das Planverfahren andere die Anlage betreffende behördliche Entscheidungen ein, so erhöht sich die Gebühr um die dafür vorgeschriebenen Gebühren. |  |  | 
 80.13 | Feststellung der Behörde nach § 43 Abs. 1 Satz 3 |  | 220 bis 2.200 | 
 80.14 | Festsetzung der Entschädigung für unmittelbare Vermögensnachteile nach § 44 Abs. 3 Satz 2 |  | 44 bis 440 | 
 80.15 | Feststellung nach § 45 Abs. 2 Satz 2 |  | 275 bis 8.470 | 
@@ -533,6 +533,6 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro |  |
  | mehr als 2,5 Mio. Euro bis zu 7,5 Mio. Euro |  | 24.000 zuzüglich 0,4 v. H. der 2,5 Mio. Euro übersteigenden Herstellungskosten | 
  | mehr als 7,5 Mio. Euro bis zu 20 Mio. Euro |  | 44.000 zuzüglich 0,2 v. H. der 7,5 Mio. Euro übersteigenden Herstellungskosten | 
  | mehr als 20 Mio. Euro |  | 69.000 zuzüglich 0,1 v. H. der 20 Mio. Euro übersteigenden Herstellungskosten | 
-90.2 | Plangenehmigung nach § 20 Satz 2 UVPG für Vorhaben, die in der Anlage 1 zum UVPGunter den Nummern 19.3 bis 19.9 aufgeführt sind |  | 50 v. H. der Gebühr nach 90.1 | 
+90.2 | Plangenehmigung nach § 20 Satz 2 UVPG für Vorhaben, die in der Anlage 1 zum UVPG unter den Nummern 19.3 bis 19.9 aufgeführt sind |  | 50 v. H. der Gebühr nach 90.1 | 
  | Anmerkung zu 90.1 und 90.2: |  |  | 
  | Schließt das Planfeststellungs- und das Plangenehmigungsverfahren andere, die Anlage betreffende behördliche Entscheidungen ein, so erhöht sich die Gebühr um die dafür vorgeschriebenen Gebühren. |  |  | 
