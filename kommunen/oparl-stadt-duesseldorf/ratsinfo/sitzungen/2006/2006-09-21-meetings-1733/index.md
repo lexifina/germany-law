@@ -1,0 +1,60 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-09-21T14:00:00+02:00
+- Ende: 2006-09-21T19:52:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1733
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1733
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111706.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111706.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111706.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass - zur Kenntnis genommen
+- TOP 4: Anfragen - zur Kenntnis genommen
+- TOP 5: Anfrage CDU:EU-Hafensicherheitsrichtlinie - zur Kenntnis genommen
+- TOP 6: Anfrage Bü90/Grü: Flugbewegungen Am D´dorfer Flugh - zur Kenntnis genommen
+- TOP 7: Anfr. CDU/FDP: EU-Feinstaubvorschriften - zur Kenntnis genommen
+- TOP 8: Anfr. Rh Raub: Flaggen Ratssaal - zur Kenntnis genommen
+- TOP 9: Anfr. Kahl: Abwasserbeseitigung - zur Kenntnis genommen
+- TOP 10: Anfr. Kahl: Schloß Eller - zur Kenntnis genommen
+- TOP 11: Anf. Lbbg: Originalstoffvergabe - zur Kenntnis genommen
+- TOP 12: Anfr. Lbbg: Neonazi - zur Kenntnis genommen
+- TOP 13: Anträge - zur Kenntnis genommen
+- TOP 14: Antr. Bü90: TO BV´en - mehrheitlich abgelehnt
+- TOP 15: Antr. CDU/FDP: Demograhiebericht - einstimmig beschlossen
+- TOP 16: Erg.-antr. Bü90: Demografie - mehrheitlich abgelehnt
+- TOP 17: Durchfahrplatz für Sinti und Roma - mehrheitlich abgelehnt
+- TOP 18: Antrag Bü90/Grü: Energieeffizientes D`dorf - mehrheitlich abgelehnt
+- TOP 19: Antra Bü/90: Monkey´s Island - mehrheitlich abgelehnt
+- TOP 20: Antr.SPD: Städt. Grundstücke f. d. Wohnungsmarkt - mehrheitlich abgelehnt
+- TOP 21: Ändantr. Bü90: Direktvermarktung - mehrheitlich abgelehnt
+- TOP 22: Antr. SPD: Lebenswerte Innenstadt - mehrheitlich abgelehnt
+- TOP 23: Antr.SPD: Verkehrsstudie für den Düsseldorfer Nord - mehrheitlich abgelehnt
+- TOP 24: Antr.SPD: Zukunft der Regionalstelle - zur Kenntnis genommen
+- TOP 25: Düsseldorfer Straßenordnung - DStO) - mehrheitlich beschlossen
+- TOP 26: Erg.antr. SPD: Straßenordnung - mehrheitlich abgelehnt
+- TOP 27: Kämmererliste 2005 - mehrheitlich beschlossen
+- TOP 28: Kämmererliste 2006 - mehrheitlich beschlossen
+- TOP 29: Neubaugebiet "Auf'm Wettsche" in Düsseldorf-Itter - einstimmig beschlossen
+- TOP 30: Bau, Einrichtung und Instandsetzung von Kitas - einstimmig beschlossen
+- TOP 31: Bau, Einrichtung, Instandsetzung v.Kitas Nachtrag - einstimmig beschlossen
+- TOP 32: Neubau Kindertageseinrichtung Selbecker Straße - einstimmig beschlossen
+- TOP 33: P+R - Platz Bahnhof Benrath - einstimmig beschlossen
+- TOP 34: Ersatzwahl eines MitgliedesJha - einstimmig beschlossen
+- TOP 35: Satzung über die Änderung der Merkmale - einstimmig beschlossen
+- TOP 36: 10 Jahre Lokale Agenda in Düsseldorf - einstimmig beschlossen
+- TOP 37: Beschlusskontrolle Rat - einstimmig beschlossen
+- TOP 38: Umbenennung Flughafenstr. - einstimmig beschlossen
+- TOP 39: Zuerkennung einer Ehrengrabstätte auf dem Nordfrie - einstimmig beschlossen
+- TOP 40: Plan Nr. 6071/045 - Veränderungssperre - einstimmig beschlossen
+- TOP 41: Pl 5773/54-Gewerbegeb.südw.Harffstr.-1.Verl.VÄ - einstimmig beschlossen
+- TOP 42: B-Plan Nr. 5178/057 - östlich Amboßstraße - einstimmig beschlossen
+- TOP 43: B-Plan Nr. 5177/42 - Südlich Schanzenstraße - einstimmig beschlossen
