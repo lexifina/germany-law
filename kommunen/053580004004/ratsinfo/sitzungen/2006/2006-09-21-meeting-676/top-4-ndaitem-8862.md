@@ -1,0 +1,8 @@
+# TOP 4.: Planungen und Umsetzung der "GEBUNDENEN GANZTAGSHAUPTSCHULE" Aldenhoven
+
+- Sitzung: Schul- und Sozialausschuss (2006-09-21)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/8862
+- Ergebnis:  
+- Beratung: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/consultation/3215
