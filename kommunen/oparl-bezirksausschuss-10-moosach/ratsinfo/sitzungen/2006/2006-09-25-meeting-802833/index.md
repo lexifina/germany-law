@@ -1,0 +1,77 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2006-09-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/802833
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/802833
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Lärm- und Staubbelästigung Darmstädter Str. 11
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Erneuerung von Straßenmarkierungen
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10: Bewohnertreff Moosach; Projekt "Schulstart"
+- TOP 5.2.: Zuschuss aus dem Budget des BA 10: Spielhaus "Boomarang", Experimente-Koffer für Bildungsarbeit
+- TOP 6.: Anhörungen
+- TOP 6.1.: Buslinie 175; Festlegung der Haltestellen
+- TOP 6.2.: Buslinie 162; Verkehrsrechtliche Anordnungen
+- TOP 6.3.: Errichtung von Werbeanlagen: 1. Max-Born-Straße / Fedmochinger Str. ggü. Hausnummer 75 2. Triebstraße gegenüber Hausnummer 54, DB-Brücke 3. Max-Born-Str. / Triebstraße ggü. Hausnummer 11 e
+- TOP 6.4.: Vollzug der Baumschutzverordnung: 1. Plauener Str. 8; Hr. Jobst 2. Gröbenzeller Str. 36; Hr. Karaseferian 3. Simmerleinplatz 1; Fr. Wocher 4. Karlingerstr. 55; Hr. Kalms 5. Pfeilschifterstr. 25; Hr. Steffens 6. Gögglstr. 19; Hr. Steffens 7. Lauinger Str. 25-35; Hr. Steffens 8. Dresdner Str. 53; Hr. Simonsen 9. Hardenbergstr. 42 Fr. Schrimpf 10. Seydlitzstr. 5; Fr. Schrimpf 11. Weidmannstr. 8; Hr. Wimmer 12. Zittauer Str.; Hr. Kramer 13. Waldhornstr. 70; Hr. Kramer 14. Meggendorfer Str. 22, 24; Fr. Schrimpf
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Gesamtprüfung der Verkehrssituation im Bereich der Kreuzungen Allacher - / Nederlinger Str. / Wintrichring und Allacher- / Netzer- / Franz-Mader-Str.
+- TOP 7.2.: Reinigung des Weges vom Memminger Platz zum Bahnsteig
+- TOP 7.3.: Uptown München; Ausbau der Gärtnerstraße, Hans-Bunte-Straße und Dürrstraße
+- TOP 7.4.: Verkehrsbehinderungen in der Dachauer Straße durch Auto-Anlieferungen
+- TOP 7.5.: Fußgängerüberweg an der Einmündung der Riesstraße in den Georg-Brauchle-RIng (Zwischennachricht)
+- TOP 7.6.: Verbesserungen beim Ein- und Aussteigen am S-Bahnhof Moosach
+- TOP 7.7.: Bedienung der Haltestelle Gröbenzeller Straße durch die Buslinien 162 und 163 in Richtung Bahnhof Moosach
+- TOP 7.8.: Fortführung des Bewohnertreffs Karlingerstraße
+- TOP 7.9.: Zusätzlicher Absperrpoller oder ähnliches am Wendehammer Saarlouiser Str. / Teplitzer Weg
+- TOP 7.10.: Erhalt der denkmalgeschützten Häuser in Moosach; hier: Baudenkmal Feldmochinger Str. 38 (Gaststätte Spiegl)
+- TOP 7.11.: Reinigung des Gehweges vor der Heilig-Geist-Kirche
+- TOP 7.12.: Wegweiser im Westfriedhof
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke
+- TOP 8.2.: Budget der Bezirksausschüsse - Hinweis
+- TOP 8.3.: Wegeverbindung Olympiapark - Rangierbahnhof - Lerchenauer See
+- TOP 8.4.: " 18.jetzt"; Fest Junger Erwachsener am 14-10-06 im Rathaus
+- TOP 8.5.: Zweckentfremdung von Wohnraunm 1. Lauterbachstr. 28 2. Treitschkestr. 4
+- TOP 8.6.: Unveränderte Fortführung einer Schank- und Speisewirtschaft: 1. "Taverna Romana", Bingener Str. 43 2. "Bauberger Hof", Baubergerstr. 19
+- TOP 8.7.: 2. S-Bahn-Stammstrecke; Baustellenlogistik
+- TOP 8.8.: Leistungsprogramm der MVG für die Fahrplanperiode 2007
+- TOP 8.9.: Sozialgerechte Bodennutzung - Der Münchner Weg
+- TOP 8.10.: Veränderungen an den Denkmalensembles der Landeshauptstadt München
+- TOP 8.11.: Fällungsgenehmigungen: 1. Abbachstr. 13 2. Nanga-Parbat-Str. 2 3. Wintrichring 58 4. Simrockstr. 45 a
+- TOP 8.12.: Deregulierung der städtischen Gestaltungs- und Begrünungssatzung 924
+- TOP 8.13.: Diskurs "Stadtgestalt und neue Architektur"
+- TOP 8.14.: Beschlussvollzugskontrolle
+- TOP 8.15.: Das Parkraummanagement erfordert auch den Bau von Tiefgaragen (Stadtratsantrag)
+- TOP 8.16.: Kultur im Stadtquartier
+- TOP 8.17.: Lärmbelästigung durch Gaststätte
+- TOP 8.18.: Global denken, lokal handeln
+- TOP 8.19.: Beweislastumkehr bei den Stadtwerken ( Antrag des BA 7 Sendling - Westpark)
+- TOP 8.20.: Beschlussvorlage zur Weiterführung von REGSAM (Schreiben des BA 1 Altstadt - Lehel)
+- TOP 8.21.: Meldeliste Bauvorhaben
+- TOP 8.22.: Freigabe des Radfahrens auf dem Bürgersteig in der Andernacher Straße (Empfehlung der Bürgerversammlung am 20.10.2005; Vorlage an OB nach abweichender Beschlussfassung des BA )
+- TOP 8.23.: Straßenbaumaßnahme Wintrichring
+- TOP 8.24.: Mitarbeiterfest auf dem Gelände der Stadtwerke München am 15.09.06
+- TOP 8.25.: Strukturkonzept Bahnhof Moosach mit Randbereichen (Ausfertigung mit Würdigung der Einlassungen des BA 10)
+- TOP 8.26.: Geschäftsbericht der Unfallkasse München
+- TOP 8.27.: Vollzug der Baumschutzverordnung (Vorab-Stellungnahme der BA-Vorsitzenden aus Fristgründen): 1. Abbachstr. 13 - 15 / Hardenbergstr. 4 - 6 2. Lauinger Str. 50 3. Saarlouiser Str. 78 4. Liegnitzer Str. 7 5. Kapellenäckerstr. 7 6. Lauterbachstr. 28 7. Pirschstr. 5
+- TOP 8.28.: Errichtung von Werbeanlagen (Vorab-Stellungnahme der BA-Vorsitzenden aus Fristgründen): 1. Dachauer Str. ggü. Hausnummer 447 2. Dachauer Str. / Ludwigsfelder Str. / Am Neubruch 3. Dachauer Str. 543 4. Dachauer Str. / Ludwigsfelder Str. / Am Neubruch 5. Dachauer Str. ggü. Hausnummer 543
+- TOP 4: Anträge
