@@ -1,0 +1,84 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2006-09-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/806729
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/806729
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Infos und Termine
+- TOP .3: Protokoll der letzten Sitzung
+- TOP .4: Behandlung der Nachträge
+- TOP .5: Kurzbericht der Polizei
+- TOP .6: Aktuelle Viertelstunde. Bürgerinnen und Bürger haben das Wort
+- TOP 0.1.: Sitzungstermine des BA 12 in 2007
+- TOP 0.2.: (E) Kein "Kino am Pool" im Ungererbad
+- TOP 0.1.: Zustimmung zur Errichtung einer Cafeteria in der Mohr- Villa (mehrere BV- Empfehlungen)
+- TOP 0.2.: Bauvorhaben und Baumfällungen in der Alten Heide
+- TOP 0.3.: Puppenbühne vom 18.09.2006- 24.09.2006 in der Heidemannstraße
+- TOP 0.4.: Feuerwerk am 09.09.2006, Fa. Metro, Helene- Wessels- Bogen
+- TOP 0.5.: Neubau einer Firmenzentrale mit Lager und Verwaltung, Lindberghstraße
+- TOP 0.6.: Ablehnung der Errichtung einer Werbeanlage, Heidemannstraße
+- TOP 0.1.: Baumpflanzungen in der Heidemannstraße
+- TOP 0.2.: Fluglärm über Freimann
+- TOP 0.3.: Reduzierung des Lärmpegels in der Parkstadt Schwabing
+- TOP 0.1.: Anbringen von Fanggittern am Nymphenburg- Biederstein- Kanal im Petuelpark
+- TOP 0.2.: Alte Heide 4- Hof N (mehrere Bäume wegen Ausbau eines DG)
+- TOP 0.3.: Am Blütenring 74 (Fällung einer Akazie wegen Abbruch eines Astes)
+- TOP 0.4.: Am Tucherpark 4 ((Fällung eines Trompetenbaumes wegen Bruchgefährdung)
+- TOP 0.5.: Domagkstraße (mehrere Bäume wegen Neubau eines Lebensmittelmarktes mit Werbeanlage und 80 Stellplätze)
+- TOP 0.6.: Frankfurter Ring 166 (mehrere Bäume wegen Umbau einer Lagerhalle mit neuem Anbau für Toyota)
+- TOP 0.7.: Fröttmaninger Straße 26- Hof M (mehrere Bäume wegen Ausbau eines DG)
+- TOP 0.8.: Giselastraße 11 (Fällung einer Kastanie wegen Ausbruch eines Stämmlings)
+- TOP 0.9.: Karl- Weinmair- Straße 7 (mehrere Baumfällungen wegen Errichtung eines Großhandelszentrums für Modeagenturen mit TG)
+- TOP 0.10.: Langackerweg 6 (Fällung eines Nussbaumes wegen Kollision mit dem Garagendach)
+- TOP 0.11.: Leinthalerstraße Fl.Nr. 553/4 (Fällung einer Esche wegen Gefährdung)
+- TOP 0.12.: Wohlfartstraße 32 (1 Fichte wegen Gefährdung bei Sturm)
+- TOP 0.13.: Schlößlanger 38 ( 1 Fichte wegen Gefährdung)
+- TOP 0.1.: Schreiben des KVR zu den Lärmbeschwerden wegen einer Entlüftungsanlage der Gaststätte "Reitschule/ Kytaro" vom 08.08.2006
+- TOP 0.2.: Standortsicherung für Mobilfunksendeanlagen (2)
+- TOP 0.3.: Fällung von Gefahrenbäumen 3.1. Antwerpener Straße 11 3.2. Amsterdamer Straße an der Schwarzen Lacke 3.3. Haumhauserstraße 11 3.4. Leopoldstraße 26 3.5. Osterwaldstraße 149 3.6. Zedernweg 1
+- TOP 0.4.: Erledigte BA- Anträge und BV- Empefhlungen 4.1. Künftige Enztwicklung der Fröttmaninger Heide; Empfehlungen Nr. 02-08/ E 00162 und 00164 der BV vom 05.07.2005 4.2. Grüngürtel östlich der BAB 9 zwischen Anschlussstellen Freimann und Fröttmaning; Empfehlung Nr. 117 der BV vom 06.07.2004 4.3. WM Feiern an der Leopoldstraße; Antrag Nr. 02-08/ B 01391 des BA 12 vom 25.07.2006 4.4. Eindämmung des Hundekots auf Grünanlagen; BA- Antrag Nr. 02-08/ B 01179 des BA 12 vom 02.05.2006
+- TOP 0.1.: Lärmschutzmaßnahmen entlang des Grünstreifens auf der Westseite der Freisinger Landstraße zwischen Floriansmühl- und Heidemannstraße
+- TOP 0.2.: Öffnung der Mandlstraße für Radfahrer in beide Richtungen
+- TOP 0.3.: Verkehrsampel am Eingang zum Englischen Garten, Hischauer Straße und Tivolistraße
+- TOP 0.1.: Rückbau von Gleisanlagen und ersatzweise Neuerrichtung von 10kv- Anlagen im Bereich des ehemaligen AW München- Freimann bzw. des FTZ an der Völckerstraße
+- TOP 0.2.: Änderung der Denkmalliste nach Art. 2Bay.DSchG; Gyßlingstraße 72
+- TOP 0.3.: Am Wiesrain 4; Neubau eines Doppelhauses
+- TOP 0.4.: Siegesstraße 12; Nutzungsänderung eines Ladens in eine Gaststätte
+- TOP 0.5.: Heidemannstraße Fl.Nr. 223/8; Errichtung einer hinterleuchteten Wechselwerbeanlage auf Monofuß
+- TOP 0.6.: Heidemannstraße 220; Errichtung einer hinterleuchteten Wechselwerbeanlage vom Typ Mega Light auf Monofuß
+- TOP 0.7.: Ungererstraße Fl.Nr. 114/2; Errichtung von zwei hinterleuchteten Wechselwerbeanlegen
+- TOP 0.8.: Frankfurter Ring; Errichtung von 14 Werbetafeln
+- TOP 0.1.: Herstellung der Heidemannstraße zwischen Schlösslanger und westlich der Lützelsteiner Straße
+- TOP 0.2.: Alte Heide 1a u.a. Konsequente Verfolgung des Wohnungsnotstandes
+- TOP 0.3.: Leistungsprogramm der MVG für die Fahrplanperiode 2007; Beschluss der Vollversammlung des Stadtrates am 26.07.2006
+- TOP 0.4.: Verkehrliche Anordnungen 4.1. Feuerwehrzufahrt Lyonel- Feininger- Straße 4.2. Errichtung eines personenbezogenen Behindertenparkplatzes in der Muffatstraße nördlich Haus Nr. 11 4.3. Personenbezogener Sonderparkplatz im Bereich südöstlich Karl- Theodor- Straße 31 4.4. Parkraummanagement Schwabing- Mitte; Aktualisierung der Lieferzonen in der Hohenzollernstraße 4.5. Haltverbote an der LZA Domagkstraße/ Walter- Gropius- Straße 4.6. Verkehrliche Maßnahmen in der Werner- Heisenberg- Allee, der Maria- Goeppert- Mayer- Straße, dem Lottlisa- Behling- Weg, dem Kurt- Landauer- Weg und der Haveriastraße am Klärwerk Großlappen im Zusammenhang mit dem neuen Fußballstadion 4.7. Baustelleneinrichtung in der Heinrich- Kley- Straße
+- TOP 0.5.: Meldelisten eingereichte Bauanträge
+- TOP 0.6.: Erledigte BA- Anträge und BV- Empfehlungen 6.1. Sperrung der Ungererstraße für den Durchgangsverkehr von der Leopoldstraße bis zur Dietlindenstraße; Empfehlung Nr. 126 der BV vom 20.07.2004 und Verkehrsbruhigung der Ungererstraße im Fahrbahnbereich zwischen der Dietlindenstraße und der Leopoldstraße; Empfehlung Nr. 129 der BV vom 20.07.2004- Zwischennachricht- 6.2. Siegfriedstraße 21; Schutz vor Entmietung; BA- Antrag nr. 02-08/ B 01262 des BA 12 vom 22.11.2005 6.3. Lärmschutzmaßnahmen an der BAB 9 zwischen Frankfurter Ring und Fröttmaning; BA- Antrag Nr. 02-08/ B 01177 des BA 12 vom 02.05.2006 6.4. Überbelegte Fahrradständer in Schwabing; BA- Antrag Nr. 02-08/ 00778 des BA 12 vom 22.11.2005 6.5. Aufstellugn eines Hinweisschildes für eine Gaststätte in der Domagkstraße; Antrag Nr. 02-08/ B 01178 des BA 12 vom 19.05.2006
+- TOP 0.1.: Vorschlag zur Erschließung der Sammlung "Archiv Karl Reitmeir"
+- TOP 0.1.: Anträge auf Gewährung eines Zuschusses aus dem Budget des BA 12 1.1. Corso Leopold am 15./16.07. und 02./03.09.2006 1.2. Projekt "Tanz und Schule" im Schuljahr 2006/2007
+- TOP 0.2.: Kein Kino am Pool imUngererbad; Empfehlung Nr. 02-08/ E 00487 der BV vom 18.07.2006
+- TOP 0.1.: Schwabinger Weihnachtsmarkt
+- TOP 0.1.: Standort für das SBH der Sozialregionen 4 und 12
+- TOP 0.2.: Ausfertigung der Beschlussvorlage "Ausbau des Netzes der Alten- und Sevice- Zentren in München unter Berücksichtigung der gesamtstädtischen Angebotsstruktur im Bereich der offenen Altenhilfe"; Beschluss des Sozialausschusses vom 22.06.2006
+- TOP 0.3.: Schulanlage Simmernstraße 2; Schreiben des Schulreferates vom 03.08.2006
+- TOP 0.4.: Schreiben des KVR zu den Lärmbeschwerden wegen einer Entlüftungsanlage der Gaststätte "Reitschule/ Kytaro"" vom 08.08.2006
+- TOP 0.5.: Erteilung einer Ausnahmegenehmigung für das Aufstellen von Tischen und Stühlen auf öffentlichem Verkehrsgrund, Gaststätte "Time Out"; Feilitzschstraße 9
+- TOP 0.6.: Genehmigte Veranstaltungen 6.1. Veranstaltung am Schwabinger See am 05.08.2006 6.2. Versammlung am 15.09.2006 in der Giselastraße/ Ecke Leopoldstraße
+- TOP 0.7.: Verwendungsnachweise 7.1. Theater Heppel&Ettlich 7.2. Städtische Berufsfachschule für Sozialpflege 7.3. Nachbarschaft Schwabing 7.4. Gerhard Fürmetz 7.5. Kukuk e.V. 7.6. Münchner Freiheit Mau Yee e.V.
+- TOP 0.8.: Unveränderte Gaststättenfortführungen 8.1. SSW "Central"; Wilhelm- Hertz- Straße 8 8.2. SSW "Kalongos Bar"; Occamstraße 2 8.3. Cafe "La Tazza D'oro"; Hohenzollernstraße 13 8.4. SSW "Ben,s"; Clemensstraße 7 8.5. SSW "Allianz Casino"; Osterwaldstraße 144 8.6..SSW "Schlösslschenke"; Schlösslanger 17 8.7. SSW "Marrakech"; Clemensstraße 14 8.8. SSW "Shanai"; Ungererstraße 56
+- TOP 0.9.: Erledigte BA- Anträge und BV-Empfehlungen 9.1. Ausgestaltung der Freischankflächen an der Leopoldstraße und in den angrenzenden Bereichen; BA- Antrag Nr. 02-08/ B 01264 des BA 12 vom 30.05.2006 9.2. Aufstellen von Sitzgelegenheiten am Spiel- und Bolzplatz in der Burmesterstraße; Antrag Nr. 02-08/ B 01419 des BA 12 vom 25.07.2006 9.3. Fortsetzung der Lärmdämmung in den Klassenzimmern der GS an der Simmernstraße; Antrag Nr. 02-08/ B 01392 des BA 12 vom 28.06.2006
+- TOP 0.10.: Erledigte Budget- Anträge 10.1. Mohr- Villa Freimann e.V. 10.2. Münchner Volkshochschule 10.3. Theater des hölzernen Gelächters
+- TOP 0: Vorgesehene Tagesordnung:
+- TOP 0.&nbsp;: Anträge
+- TOP 0.&nbsp;: Entscheidungen
+- TOP 0.&nbsp;: Anhörungen
+- TOP 0.&nbsp;: Unterrichtungen
