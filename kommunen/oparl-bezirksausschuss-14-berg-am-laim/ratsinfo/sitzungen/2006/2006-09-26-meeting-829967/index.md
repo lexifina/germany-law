@@ -1,0 +1,80 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2006-09-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/829967
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/829967
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Piusplatz, 14. Stadtbezirk; Erhalt des Charakters und des Baumbestandes im Rahmen des Projektes "Soziale Stadt" Empfehlung Nr. 02-08 / E 00389 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 04.05.2006
+- TOP 2: (E) Piusplatz, 14. Stadtbezirk; Erhalt des Charakters und des Baumbestandes im Rahmen des Projektes "Soziale Stadt" Empfehlung Nr. 02-08 / E 00389 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 04.05.2006
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Antrag auf Errichtung einer hinterleuchteten Wechselwerbeanlage in der Rosenheimer Str.
+- TOP 3.2.: Klarheit für die ?Soziale Stadt?
+- TOP 3.1.: Parkplatzsituation in der Neumarkter Straße, Bürgerschreiben
+- TOP 3.2.: U-Bahn-Haltepunkt Josephsburg ? Instandsetzung der Aufgänge Antrag Nr. 1325 des Bezirksausschuss 14 ? Berg am Laim ? vom 27.06.2006
+- TOP 3.1.: Krautgärten in Berg am Laim
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Kulti-Kids e.V. im Erlebniskraftwerk ? Antrag auf Gewährung eines Zuschusses aus dem BA-Budget
+- TOP 3.2.: Städtische Ludwig-Thoma-Realschule ? Antrag auf Gewährung eines Zuschusses aus dem BA-Budget
+- TOP 3.3.: Elternbeirat der Hauptschule am Echardinger Grünstreifen ? Antrag auf Gewährung eines Zuschusses aus dem BA-Budget
+- TOP 3.4.: Theater3kb e.V. ? Antrag auf Gewährung eines Zuschusses aus dem BA-Budget
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Veranstaltung in der Kultfabrik vor der Tonhalle am 13. Und 14.10.2006 - Anhörung
+- TOP 3.1.: Berlingerweg 1 ? Antrag auf Baumfällung
+- TOP 3.2.: Fehwiesenstraße 17 - Antrag auf Baumfällung
+- TOP 3.3.: Fehwiesenstraße 106 - Antrag auf Baumfällung
+- TOP 3.4.: Truderinger Straße 148 a-t - Antrag auf Baumfällung
+- TOP 3.5.: Permoserplatz 1 - Antrag auf Baumfällung
+- TOP 3.6.: Risserkogelstraße 8 - Antrag auf Baumfällung
+- TOP 3.7.: Josephsburgstraße 80 / Halserspitzstraße 29 - Antrag auf Baumfällung
+- TOP 3.8.: Kranzhornstraße 10 - Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Zeitraum 14.08.06 bis 10.09.06
+- TOP 4.2.: Diskurs ?Stadtgestalt und neue Architektur? ? Hochhäuser im Spannungsfeld zwischen Identität und Wandel der Stadt ? Ergebnis und weiteres Vorgehen - Bekanntgabe -
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Deregulierung der städtischen Gestaltungs- und Begrünungssatzung 924 ? Antrag Nr. 02.08 / A 02529 der ÖDP vom 01.07.2005
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Heinrich-Wieland-Straße ? Verlängerung bestehendes Halteverbot
+- TOP 4.1.: Global denken ? lokal handeln Maßnahmen des Stadtrates zur Eindämmung des Autoverkehrs und Förderung des Umweltverbundes ? Empfehlung Nr. 6 der Bürgerversammlung des 17. Stadtbezirkes Obergiesing am 17.06.04
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Erteilung einer neuen Hausnummer für die Kindertagesstätte Grafinger Straße
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Verwendungsnachweis ?Freiräume?
+- TOP 4.2.: Verwendungsnachweis ?Kindertagesstätte St. Michael?
+- TOP 4.3.: Verwendungsnachweis ?Kultikids?
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Beschlussvollzugskontrolle (BVK) ? 3. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2006 - Bekanntgabe -
+- TOP 4.1.: Beseitigung von Gefahrenbäumen am Permoserplatz
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
