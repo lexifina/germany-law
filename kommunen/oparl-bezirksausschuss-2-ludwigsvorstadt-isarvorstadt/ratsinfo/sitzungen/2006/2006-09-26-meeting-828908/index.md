@@ -1,0 +1,71 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2006-09-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/828908
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/828908
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Zuschuss aus dem BA-Budget für das Spiel - und Erlebnisfest bei Kubu am Weltkindertag am 20.09.2006
+- TOP .2.: Vermietung der Räume in der Auenstr. 19 an VIDK
+- TOP .1.: Zuschuss aus dem BA-Budget für das Projekt "Werkschauen im Glockenbach" vom 14.-15.10.2006
+- TOP .2.: Zuschuss aus dem BA-&gt;Budget an die GS Schwanthalerstr. 87 für das Experimentier-Mobil am 13./14.07.06
+- TOP .2.1.: BA-Budget
+- TOP .2.2.: Kultur
+- TOP .1.: neues MIP liegt vor
+- TOP .2.: Münchner 850-Jahresfeier ? organisiert vom RAW
+- TOP .3.: Maistr. 41: Investor ist bereit, Kinderkrippenplätze einzurichten
+- TOP .4.: REGSAM: Vertragsverlängerung Periode 2007 bis 2009 mit Trägerverein Regionale soziale Arbeit eV ; ? 485.000 Zuschuss pro Jahr
+- TOP .5.: Antrag des BA 7: Umkehr der Beweislast bei Rechnungen der SWM
+- TOP .5.1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .1.: Keine Fällung der Bäume in der erhardstraße für die Baumaßnahmen der Stadtwerke
+- TOP 1: (E) Entfernen der Asphaltwelle an der südlichen Stoßstelle der Hackerbrücke (Sturzgefahr für Radler) Ziffer 2 des Antrages Empfehlung Nr. 02-08 / E 00422 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 01.06.2006
+- TOP 3: (E) Überprüfung von Mobilfunkantennen Empfehlung Nr. 02-08 / E 00357 der Bürgerversammlung des Stadtbezirkes 2 - Ludwigsvorstadt-Isarvorstadt am 11.05.2006
+- TOP 3.3.1.: Bauvorhaben
+- TOP 3.5.: Museumsinsel, Umgestaltung der "provisorischen Füßgängerzone"
+- TOP 3.1.: Holzstr. 5; DG-Ausbau, Anbau von Personenaufzügen und Balkonen, Nutzungsänderung: Wohnung zu Büro (VGB/EG)
+- TOP 3.2.: Klenzestr. 85, DG-Aufstockung und DG-Aufstockung im Vorderhaus und Neubau eines Rückgebäudes (Vorbescheid)
+- TOP 3.3.: Tumblingerstr. 12, Aufstockung und DG-Ausbau (Tektur)
+- TOP 3.4.: Ringseisstr. 11, Umbau des Eingangsbereichs und der TG-Zufahrt (Tektur)
+- TOP 3.6.: Baaderstr. 49, Sanierung eines Mehrfamilienhauses einschl. Balkon- und Liftanbau
+- TOP 3.7.: Parkraummanagement
+- TOP 3.1.: Bauvorhaben Maistr. 41 (Vorbescheid)
+- TOP 3.5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP 3.1.: Querung Jahn-/Baumstraße
+- TOP 1: (E) Maßnahmen zur Einhaltung der Höchstgeschwindigkeit in der Augsburgerstraße Empfehlung Nr. 02-08 / E 00365 der Bürgerversammlung des 2. Stadtbezirkes Ludwigsvorstadt-Isarvorstadt am 11.05.2006
+- TOP 1.3.1: Warenstellagen
+- TOP 1.1.: Schwanthalerstr. 25 (Obst,Gemüse, Südfrüchte)
+- TOP 1.2.: Bayerstr. 27, XIU XIU Asia Supermarkt
+- TOP 1.1.: "Afrika Tage 2007" auf der Theresienwiese vom 15.05. - 20.05.2007
+- TOP 1.2.: Nutzung der Theresienwiese ? Anfrage für das Abstellen von ca. 300 Bussen am 21.10.2006 (DGB Kundgebung am Marienplatz)
+- TOP 1.3.3: Verkehr
+- TOP 1.1.: Verkehrssituation Auenstraße (Bürgerschreiben)
+- TOP 1.2.: Schwanthalerstr. 33-35, Einrichtung eines absoluten Halteverbots
+- TOP 1.1.: Sondernutzungserlaubnisse zum Werbeverkauf auf öffentlichen Straßen - Neusituierung der Verkaufsplätze
+- TOP 1.1.: Kanaldeckel in der Kapuzinerstraße (Bürgeranfrage in d. Sitzung am 25.07.)
+- TOP 1.2.: Lärmbeschwerden Paulaner Bräuhaus, Kapuzinerstr. 5
+- TOP 1.3.: Hans-Sachs-Straßenfest, Bereitstellung von mehr Toiletten , Schäden durch Sand, Lärmbelästigung beim Abbau
+- TOP 1.4.: Lärmbelästigung Tumblingerstraße
+- TOP 1.5.: Verkehrsberuhigung Roecklplatz (siehe Unterrichtungen KVR Punkt 17)
+- TOP 1.5.1: Berichte der Beauftragten ( AK Theresienwiese)
+- TOP 1.1.: Termine
+- TOP 1.3.: Sonstiges / Verschiedenes
+- TOP 1.3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP 1.3.2.: Berichte aus den anderen BA
+- TOP 1.3.3.: Bericht des Internetbeauftragten
+- TOP 1.5.: Sonstiges
+- TOP 3.1.: Anträge
+- TOP 3.2.: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4.: Unterrichtungen (siehe Infos)
+- TOP 1.3.4: Sonstige
+- TOP 1.2.: Veranstaltungen
