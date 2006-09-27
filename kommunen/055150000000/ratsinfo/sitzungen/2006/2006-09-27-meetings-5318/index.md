@@ -1,0 +1,53 @@
+# 17. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-09-27T18:38:00+02:00
+- Ende: 2006-09-27T21:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5318
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5318
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00238832.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Ausländerbeirates
+- TOP 9: Aufhebung der Stiftung "Armenfonds zu Amelsbüren" - einstimmig beschlossen
+- TOP 10: Stationäre Verkehrsüberwachung auf der Verbindungsrampe im Autobahnkreuz Münster-Süd - einstimmig geändert beschlossen
+- TOP 11: Änderung des Gesellschaftsvertrages der Wirtschaftsförderung Münster GmbH - einstimmig beschlossen
+- TOP 12: Umsetzung des Spar- und Konsolidierungsprogramms 2006 - 2009 (Vorlage V/1065/2005), - einstimmig beschlossen
+- TOP 13: Überplanmäßige Mittelbereitstellung gemäß § 82 Abs. 1 Gemeindeordnung NW - einstimmig beschlossen
+- TOP 14: Bildung eines Jugendrates in der Stadt Münster - einstimmig geändert beschlossen
+- TOP 15: Bauliche Erweiterung und Umgestaltung des Heim- und Pflegebereiches des Altenzentrums Klarastift gGm - einstimmig beschlossen
+- TOP 16: Gievenbeck-Südwest - Dritte Kita Nord (LEG) - mehrheitlich beschlossen
+- TOP 17: Bau- und Errichtungskostenzuschuss zur Erweiterung des Ev. Markuskindergarten in Kinderhaus - einstimmig beschlossen
+- TOP 18: Umstrukturierung und Weiterentwicklung des Inobhutnahme - Systems - mehrheitlich beschlossen
+- TOP 19: Jahresbericht 2005 der Feuerwehr Münster - zur Kenntnis genommen
+- TOP 20: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 21: Anhörung zur Bestellung eines Mitgliedes des Gutachterausschusses - einstimmig beschlossen
+- TOP 22: Bauleitplanung
+- TOP 22.1: Stadtbezirk Münster-West
+- TOP 22.1.1: 19. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 22.1.2: Vorhabenbezogener Bebauungsplan Nr. 507: Nienberge - Waltruper Weg / Beerwiede - einstimmig beschlossen
+- TOP 22.2: Stadtbezirk Münster-Ost
+- TOP 22.2.1: 23. Änderung FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 22.2.2: Bebauungsplan Nr. 262, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 23: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 24: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 24.1: Konversion in Münster - nicht nur Verluste und Risiken, sondern auch Chancen für junge Familien mit - verwiesen
+- TOP 24.2: Gesamtkonzept zur Ferienbetreuung in Münster - Vielfältige Angebote für Grundschulkinder transparent - verwiesen
+- TOP 24.3: Preiswerten Wohnraum in Münster schaffen - Einkommensschwache Haushalte und den Haushalt der Stadt - verwiesen
+- TOP 24.4: Flächendeckende Versorgung mit Freibädern - verwiesen
+- TOP 24.5: Haushaltsnahe Dienstleistungen zur Sicherung des Selbstständigen Wohnens ausbauen - verwiesen
+- TOP 24.6: Münsteraner Integrationsoffensive - Internationalität durch Integration stärken - verwiesen
+- TOP 24.7: Resolution .- LEG-Verkaufspläne: Preiswerten Wohnraum für Münster sichern! - verwiesen
+- TOP 25: Verschiedenes
