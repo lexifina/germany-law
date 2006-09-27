@@ -1,0 +1,7 @@
+# TOP 2.2: Radfahrer in der Fußgängerzone in Wattenscheid
+
+- Sitzung: Seniorenbeirat (2006-09-27)
+- Körperschaft: Stadt Bochum
+- Öffentlich: ja
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/50488
+- Ergebnis: Abstimmungsergebnis: Mehrheitlich nach Beschlussvorschlag                                           
