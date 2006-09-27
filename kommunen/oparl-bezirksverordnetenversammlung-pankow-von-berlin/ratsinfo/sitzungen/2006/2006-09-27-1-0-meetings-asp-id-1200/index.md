@@ -1,0 +1,113 @@
+# 43. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2006-09-27T17:30:00+02:00
+- Ende: 2006-09-27T17:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1200
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1200
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - erledigt
+- TOP 1.2: Geschäftliche Mitteilung - erledigt
+- TOP 1.3: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Änderung der Sanierungsziele im Sanierungsgebiet Teutoburger Platz Schwedter Straße 37-40 - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Drucksachen aus der 42. Tagung/Komplex 2 - bereits ausgereicht - erledigt
+- TOP 1.8.1: Bauliche Mängel in der Kita "La Cigale" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.8.2: Hartz IV - Verteilung der Eingliederungsmittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.8.3: Fußgängerschutzweg in der Pistoriusstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.8.4: Stellplätze für Car-Sharing-Unternehmen in Sanierungsgebieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 1.9: Nachweis der im Haushaltsjahr 2005 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 1.10: Schloss Schönhausen retten - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.11: Nachwahl eines Kandidaten zum Beirat für Sozialhilfeangelegenheiten - in der BVV abgelehnt
+- TOP 1.12: Bezirksgrenzänderung geringer Bedeutung im Bereich der "Schule im Grünen" (am südlichen Eingang zum Dorf Malchow über die B 2) mit dem Übergang der entspre-chenden Fläche von 1259 m² an den Bezirk Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2005 - überwiesen
+- TOP 1.14: Ergänzungsplan des Bezirks Pankow zum Doppelhaushaltsplan 2006/2007 hier: Haushaltsjahr 2007 - mit Änderungen in der BVV beschlossen
+- TOP 1.15: Erschließung Rangierbahnhof Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Gehwegoberfläche wieder herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Sportplatz Erich-Weinert-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Verkehrsberuhigung Tiniusstraße - in der BVV abgelehnt
+- TOP 1.19: Beleuchtete Wege für Grundstückseigner in KGA - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Rauchfreier Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Einrichtung einer Tempo-30-Zone im Gebiet Germanenstraße/ Schönholzer Weg/ Straße vor Schönholz/ Schiller- und Edelweißstraße - in der BVV abgelehnt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: III-0494/97 Vorlage zur Kenntnisnahme § 13 BezVG / ZB Bezirksamt Gedenktafel für Stasi-Opfer - (offen)
+- TOP 2.2: Weiter mit der Sonne - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Botanische Anlagen in Blankenfelde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Geschlechtergerechter Haushalt - ein erster Schritt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Freizeitstätten-Entwicklungsplan Pankow 2002 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Nichtbewilligte ABM "Interkulturelles Netzwerk" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Energiesparpartnerschaft zwischen dem Bezirk Pankow und Johnson Control - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Girokonten für Sozialhilfeempfangende - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Erhalt des Programms für besonders soziale Projekte in den östlichen Bezirken - Sonderprogramm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Planung der Personaleinsparung 2003 - 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Nachhaltiges Energiesparen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Eliashof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2002 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Planspiel Kommunalpolitik - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Erhalt der Kinder- und Jugendreitarbeit des Lindenhof e. V. Blankenfelde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Standortkonzept Bibliotheken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17.1: Standortkonzept Bibliotheken II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Sportentwicklungsplan für den Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Erhalt des ehemaligen Wasch- und Heizhauses in der Carl-Legien-Siedlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2003 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Auflagenbeschluss zum Doppelhaushalt 2004/2005 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Gedenkstein auf dem Friedhof Schönholzer Heide - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22.1: Gedenktafel Zwangsarbeiterlager (Luna-Park) Schönholzer Heide - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Lokale Agenda 21 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Wohnumfeld in den Sanierungsgebieten verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Kosten für den Betrieb des Moduls "Allris-Net" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Wie weiter mit den ehemaligen Kleingartengebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Zukunft der Schullandheime und Einrichtungen der Kinder- und Jugenderholung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.28: Ausbau der Kreuzung Hauptstraße - Mühlenstraße - Gravensteinstraße in Französisch-Buchholz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.29: Änderung des BezVG I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Sanierungszieländerung Hirschhof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Mehr Bürgerdemokratie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.32: Gemeinnützige Beschäftigungsgelegenheiten gegen Entgelt für Leistungsberechtigte von Hilfe zum Lebensunterhalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Kulturelle Substanz im Bezirk erhalten / Der Kultur- und Bildungsentwicklungsplan soll nicht Makulatur werden! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.34: Stadtbad Oderberger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Dienstleistungen, Infrastruktur und Beratung im Bezirksamt Pankow seniorengerecht anbieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Freie Nutzung von Sportplätzen und Sporthallen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Jugendevent und Informationsveranstaltung in Pankow zur BVV Wahl 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.38: Flugverkehr über Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.39: Verantwortung für JobCenter - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.40: Nutzung des Garbatyplatzes am S-und U-Bahnhof Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.41: Bericht zu sozialen Sanierungszielen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.42: Gewerbehof Greifswalder Str. 212 als Gewerbehof erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.43: Keine Einstellung von Straßenbahnlinien im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.44: Drs. Nr. V-1033 - Mehr Sicherheit und Platz für die Schüler/innen der Rosa-Luxemburg-Oberschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.45: Zertifikate (Auszeichnungen) "Seniorenfreundlich" für Handels- und Dienstleistungseinrichtungen im Bezirk Pankow. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.46: Bereitstellung von Räumlichkeiten für soziale Zwecke in Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.47: Personelle Ausstattung Begegnungsstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.48: Verhalten von Radfahrern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.49: Wartehäuschen an der BVG-Haltestelle Pankow-Kirche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.50: Schulstandort Pasteur/Camille Claudel Oberschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.51: Verkehrsberuhigung mittels Schwellen in den Sanierungsgebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.52: Regelung zur Beteiligung und Mitwirkung der Betroffenen in den Sanierungsgebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.53: Planungsraumkonferenzen im Bezirk flächendeckend einführen und absichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.54: Regenbogenflaggen über dem Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.55: Bauarbeiten Florastraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.56: Aufzüge für U-Bahnhöfe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.57: Bibliothek Bizetstr. - behindertengerecht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.58: Verlagerung der Kita während der Baumaßnahmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.59: Bebauungsplan XIX-11 für die Grundstücke an der Heinrich-Böll-Straße, mit Ausnahme der Grundstücke 1, 2, 4 und 61, den Kreuzgraben und an diesen beiderseits anliegende Grundstücke zwischen Waldowstraße und dem Grundstück Dietzgenstraße 62/64, die Grundstücke Kreuzgraben 13 und Dietzgenstraße 60, einschließlich dem Weg zwischen den Grundstücken Beuthstraße 47 und 48, für eine Teilfläche des Grundstücks Dietzgenstraße 62/64 sowie einen Abschnitt der Heinrich-Böll-Straße im Bezirk Pankow, - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.60: Stellenplanmäßige Untersetzung der pauschalen Minderausgabe im Haushaltsplan 2007 bei den Personalausgaben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.61: Einstellung der Verfahren zur Aufstellung der Bebauungspläne IV-3, IV-7, IV-37, IV-40, IV-60, XVIII-44, XVIII-54 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.62: Nutzungsentgelterhöhung für zu Erholungszwecken genutzte Parzellen in der Anlage "Blanken-burg" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.63: Bebauungsplanentwurf XVIII-24-3 zur Änderung des Bebauungsplans XVIII-24 für das Gebiet zwischen Stadtrandsiedlung Buch I, Landesgrenze, Straße 75, Straße 56, der südlichen Grenze des Grundstücks Alt-Karow 30, den Straßen Alt-Karow und Bucher Chaussee sowie für die Straße 75 und einen Abschnitt der Straße 56 im Bezirk Weißensee, Ortsteil Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.64: Nachweis der im 1. Halbjahr 2006 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.65: Entscheidung über die Zulässigkeit des Bürgerbegehren zum Neubau einer Moschee und eines islamischen Gemeindezentrums in Pankow, Ortsteil Heinersdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.66: Beendigung der zwischen dem Bezirksamt und dem Bezirksverband der Gartenfreunde Pankow e.V. bestehenden Verträge die Anlage "Gravenstein" betreffend und zukünftige Verwaltung der Anlage "Gravenstein" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.67: Änderung der Sanierungsziele im Sanierungsgebiet Helmholtzplatz für den Standort Pappelallee 25 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
