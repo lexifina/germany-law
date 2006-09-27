@@ -1,0 +1,55 @@
+# Rat (20. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2006-09-27T16:30:00+02:00
+- Ende: 2006-09-27T20:50:00+02:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWV1lLoY4zCImOe2F59798c
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1153
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQexnm7VKfvavP1BNhkSaV1caia2Q8ukobxoEiV2S3LK/Bekanntmachung_Rat_27.09.2006.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcLOrki8RE6I_xb8MKN0CHQGPdhLkX375icUfGnQKejh/Oeffentliche_Niederschrift_Rat_27.09.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 16.08.2006
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Anträge der Fraktionen; Umschichtung von Haushaltsmitteln mit der Zweckbestimmung „Zuschuss Frau und Wirtschaft“ zu Gunsten der Frauenschutzwohnung - 23 Jastimmen, 0 Neinstimmen, 16 Enthaltungen
+- TOP 4.: Bürgerbegehren gem. § 26 Gemeindeordnung NW; Finanzierung der Frauenschutzwohnung in Gronau - Einstimmig, 0 Enthaltungen
+- TOP 6.: Mitteilungen der Verwaltung
+- TOP 5.: Bericht über die Budgetabwicklung der Stadt Gronau (Westf.) im II. Quartal 2006 Über-/außerplanmäßige Mittelbereitstellungen im II. Quartal 2006 - 27 Jastimmen, 0 Neinstimmen, 12 Enthaltungen
+- TOP 7.: Jahresabschluss der Sparkasse Gronau für das Geschäftsjahr 2005 sowie Verwendung des Bilanzgewinns (Verwaltungsrat der Sparkasse Gronau vom 20.06.2006) - Einstimmig, 1 Enthaltungen
+- TOP 8.: Jahresabschluss für das Abwasserwerk der Stadt Gronau (Westf.) Wirtschaftsjahr 2005 - Schlussbesprechung und Beschlussfassung - Einstimmig, 1 Enthaltungen
+- TOP 9.: Jahresabschluss der Gronauer Grundstücksentwicklungsgesellschaft für das Jahr 2005 - Einstimmig, 1 Enthaltungen
+- TOP 10.: Beteiligung der Stadtwerke Gronau GmbH an der Trianel European Trading Energy GmbH, Aachen (TEET) - 33 Jastimmen, 4 Neinstimmen, 2 Enthaltungen
+- TOP 11.: Förderung kommunaler Projekte der Entwicklungszusammenarbeit - 37 Jastimmen, 1 Neinstimmen, 1 Enthaltungen
+- TOP 12.: Neufassung der Betriebssatzung für das Abwasserwerk der Stadt Gronau (Westf.) - Einstimmig, 1 Enthaltungen
+- TOP 13.: Neufassung der Betriebssatzung für die Zentralen Bau- und Umweltdienste der Stadt Gronau (Westf.) - Einstimmig, 1 Enthaltungen
+- TOP 14.: Neufassung der Betriebssatzung für die Grundstücksentwicklungsgesellschaft der Stadt Gronau (Westf.)
+- TOP 14.1: Neufassung der Betriebssatzung für die Grundstücksentwicklungsgesellschaft der Stadt Gronau (Westf.) - Einstimmig, 1 Enthaltungen
+- TOP 15.: Änderung des Gesellschaftsvertrages der Wirtschaftsförderungsgesellschaft für den Kreis Borken mbH - Einstimmig, 1 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 24 "Mühlenmathe", 1. vereinfachte Änderung, Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der öffentlichen Auslegung 2. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 17.: 82. Änderung des Flächennutzungsplanes der Stadt Gronau Bereich: Wolberts Kamp/Hauskamp, Stadtteil Epe Behandlung der Stellungnahmen aus dem Scoping- Termin vom 08.09.2005 gem. § 4(1) BauGB Behandlung der Stellungnahmen aus der Öffentlichkeit gem. § 3 Abs. 1 BauGB Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB Planfeststellungsbeschluss - 37 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 18.: Bebauungsplan Nr.245 „Wolberts Kamp/Hauskamp“ der Stadt Gronau, Stadtteil Epe Behandlung der Stellungnahmen aus dem Scoping- Termin vom 08.09.2005 gem. § 4(1) BauGB Behandlung der Stellungnahmen aus der Öffentlichkeit gem. § 3 Abs. 1 BauGB Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB Satzungsbeschluss gem. § 10 BauGB i. V. m. § 86 (4) BauO NW - 37 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 19.: 79. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich: Hof Terbahl, Stadtteil Epe 1. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 5. Beschluss über die Änderung des Flächennutzungsplans - 26 Jastimmen, 8 Neinstimmen, 4 Enthaltungen
+- TOP 20.: Bebauungsplan Nr. 201 "Hof Terbahl", 3. Änderung, Stadtteil Epe 1. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 5. Satzungsbeschluss - 26 Jastimmen, 8 Neinstimmen, 4 Enthaltungen
+- TOP 21.: Reitrouten – und Reitwegeplanung rund um Gronau - Einstimmig, 1 Enthaltungen
+- TOP 22.: Fachgespräch zu Möglichkeiten der Biomassenutzung sowie von Pflanzenöl in (Mini-) BHKW sowie Bioethanol
+- TOP 23.: Besetzung von Ausschüssen und Gremien - Einstimmig, 0 Enthaltungen
+- TOP 24.: Terminplanung für das 4. Quartal 2006
+- TOP 25.: Mitteilungen der Verwaltung
+- TOP 26.: Anfragen
+- TOP 26.1: Wasserpest im Drilandsee (1. Stellv. d. BM Lenz)
+- TOP 26.2: Beschädigung von Wirtschaftswegen durch schwere Lastfahrzeuge (RM von Borczyskowski)
+- TOP 26.3: Infoschalter im Bahnhof spärlich besetzt (RM Kubel)
+- TOP 26.4: VHS von Kürzungen der Landesregierung betroffen? (3. Stellv. d. BM Gerwens)
+- TOP 26.5: Stellungnahme der Stadt zur Ausweitung der Atomtransporte nach Ahaus (RM Buchholz)
+- TOP 26.6: Begegnung des Problems frei laufender Hunde (RM Buchholz)
+- TOP 26.7: Anbindung der Straße "An der Schieferkuhle" an den Rundweg um das Gewässer (RM Doetkotte)
+- TOP 26.8: Abstellen von Bau- und Veranstaltungscontainern im Einmündungsbereich Brookstraße/Losserstraße (RM Doetkotte)
+- TOP 26.9: Aufhebung der Sperrung des Fuß-/Radweges zwischen "Geschwister-Scholl-Straße" und "Alter Postweg" (RM Bartels)
+- TOP 26.10: Gefährdung der öffentlichen Sicherheit durch Verhältnisse am Postbrückenweg? (RM H. Schultewolter)
