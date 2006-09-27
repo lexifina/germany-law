@@ -1,0 +1,52 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2006-09-27T15:00:00+02:00
+- Ende: 2006-09-27T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbBHBldDTvewlQdsE_PwS98
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/622
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcSpOcHPP2Wx1yQNtw9kWNC0tXqa7KebbaJBQb3pV56-/Oeffentliche_Niederschrift_Seniorenbeirat_27.09.2006.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 1.1: Wahl des/der 1. stellvertretenden Vorsitzenden des Seniorenbeirats - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 2: Anregungen/Empfehlungen
+- TOP 2.1: Windschutzmaßnahme am zentralen Busbahnhof am Hauptbahnhof - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 2.2: Radfahrer in der Fußgängerzone in Wattenscheid - Abstimmungsergebnis: Mehrheitlich nach Beschlussvorschlag                                           
+- TOP 3: Stellungnahmen
+- TOP 4: Mitteilungen
+- TOP 4.2: Tarifsituation im VRR - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 4.3: Heimaufsicht - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 4.4: Boulevard, Fertigstellung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 4.5: Alte Bahnstrecke zwischen Oskar-Hoffmann-Straße und Hermannshöhe - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 4.6: Neue Haltestelle Hiltroper Straße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 4.8: Bericht aus dem Beirat Bochum-Agenda 21 vom 16.08.2006
+- TOP 5: Anfragen
+- TOP 5.1: Friedhof Hamme (Lohstraße/Wanner Straße) - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 5.2: Fehlende Sitzbänke in Wattenscheid - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 5.3: Verbindungsweg Karolinenstr./Overdykerstr. - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 5.4: Neue Fahrstuhlanlage an der Wittener Straße - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 5.5: Senioren als Verkehrshelfer - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 5.6: Parkplatzsituation für Behinderte am Gerther Friedhof - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 5.7: Sitze in der U 35 - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 5.8: "Gelbe Säcke" der Firma Remondis - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: keine Tagesordnungspunkte
+- TOP 1.1: Bericht des Vorsitzenden
+- TOP 1.7: Bericht aus dem Projektbeirat des DRK vom 23.08.2006
+- TOP 2: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: Anregungen/Empfehlungen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Stellungnahmen
+- TOP 7: keine Tagesordnungspunkte
+- TOP 8: Mitteilungen
+- TOP 8.1: Bericht aus der Örtlichen Pflegekonferenz vom 07.06.2006
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
