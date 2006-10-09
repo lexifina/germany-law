@@ -1,0 +1,69 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2006-10-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/817715
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/817715
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Regionaler Sozialbericht 2005
+- TOP 3.2.: Informationsverstaltung des Sozialreferates für die Bezirksausschüsse am 30.11.2006 von 18.00 - 20.30 Uhr
+- TOP 4.: Schulreferat
+- TOP 4.1.: Informationsveranstaltung des Schulreferates für die Bezirksausschüsse am 19.10.2006 von 16.00 - 18.00 Uhr
+- TOP 5.1.: Warenstellage Albert-Roßhaupter-Straße 14
+- TOP 6.1.: Meldeliste Bauvorhaben der SWM
+- TOP 6.2.: Aufhebung des Haltverbotes vor dem Anwesen Plinganserstraße 25 zwischen 06.30 und 7.00 Uhr
+- TOP 6.3.: Realisierung einer Tempo-30-Zone im Bereich der Hans-Klein-Straße, Johannes-Timm-Straße und Fritz-Endres-Straße - <div>bekannt geben</div>
+- TOP 6.4.: Herzog-Ernst-Platz, Radlkoferstraße, Berlepschstraße; Anpassung der Beschilderung nach Abschluss der Baumaßnahmen - <div>nach Antrag</div>
+- TOP 6.5.: Notwendige verkehrliche Maßnahmen in der Plinganserstraße, südlich Am Harras
+- TOP 6.6.: Haltverbot Ganghoferstraße 80
+- TOP 6.7.: Parkplatzsituation in der Steinerstraße
+- TOP 6.8.: Tempo 30 - Zone in der Bleyerstraße (B 01420)
+- TOP 7.1.: Informationskarten zu den Künstlerateliers unter der Fuß- und Radwegbrücke über die Ganghoferstr., Kostenbeteiligung des BA aus dem BA-Budget, ? 1.111,56
+- TOP 7.2.: Budgetantrag Tagespflege Baby Daisy, Einbau einer Blitzschutzanlage; ? 5000,-
+- TOP 7.3.: BA-Sitzungstermine 2007
+- TOP 7.4.: 18.jetzt; Fest junger Erwachsener am 14.10.2006 im Rathaus
+- TOP 7.5.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Erstellung eines Berichtes zu dem Parkhausbauvorhaben am Gotzinger Platz - <div>abgelehnt</div>
+- TOP 8.3.: Erstellung eines Berichtes zu dem Moscheebauvorhaben am Gotzinger Platz - <div>abgelehnt</div>
+- TOP 8.4.: Bauvorhaben Bruderhofstraße 4
+- TOP 8.5.: Veränderungen an den Denkmalensembles der Landeshauptstadt München
+- TOP 8.6.: Deregulierung der städtischen Gestaltungs- und Begrünungssatzung 924
+- TOP 8.7.: Beschlussvollzugskontrolle
+- TOP 8.8.: Das Parkraummanagement erfordert auch den Bau von Tiefgaragen
+- TOP 8.9.: Diskurs "Stadtgestaltung und neue Architektur"
+- TOP 8.10.: Global denken - lokal handeln
+- TOP 8.11.: Raumordnungsverfahren für eine 3. Start- und Landebahn am Fughafen München
+- TOP 8.12.: Wohnen in München
+- TOP 8.13.: Auswirkungen von Brandschutzbestimmungen und Auflagen der Feuerwehr auf den Städtebau, die Grün- und Objektplanung
+- TOP 8.14.: Bebauungsplan mit Grünordnung Neuhofener Platz und Zechstraße (südl.), Fallstraße und Flößergasse (westl.), Bahnlinie München-Lenggries
+- TOP 9.: Baureferat
+- TOP 9.1.: Schaffung von mehr Fahrradabstellflächen im Straßenraum; Realisierung eines Radständers am Mittelstreifen der Albert-Roßhaupter-Straße auf Höhe der VHS Süd
+- TOP 9.2.: Anbringung von zwei Baumscheiben Am Harras 2
+- TOP 9.3.: Straßenbeleuchtung Implerplatz
+- TOP 9.4.: Keine Privatisierung der Abwasserentsorgung
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Leipartstraße 2
+- TOP 10.2.: Baumfällung Bruderhofstraße 4
+- TOP 10.3.: Baumfällung Implerstraße 40a, 42a und Danklstraße 17
+- TOP 10.4.: Baumfällung Karwendelstraße 15b
+- TOP 10.5.: Baumfällung Schanzenbachstraße 15 / 17
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 11.1.: Offenlegung der bisherigen Grundstücks- und Finanzierungsvorgänge der Landeshauptstadt München bezüglich des Moscheebaus - <div>mehrheitlich, nach Antrag</div>
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2007 - 2011
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
