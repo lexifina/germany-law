@@ -1,0 +1,76 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2006-10-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/972904
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/972904
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Einfriedung der Grundstücke am Max-Lebsche-Platz 34 - 41
+- TOP 1.2.: Straßenschäden in der Willibaldstraße
+- TOP 1.3.: Zustand des Einkaufszentrums am Haderner Stern
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Gräfelfinger Str. 155, 2 Serbische Fichten
+- TOP 3.2.: Flemischweg 10, 2 Fichten
+- TOP 3.3.: Rudi-Seibold-Str. 19, 1 Scheinakazie
+- TOP 3.4.: Flemischweg 8, 1 Blaufichte
+- TOP 3.5.: Flemischweg 12, 4 Fichten
+- TOP 3.6.: Konrad-Dreher-Str. 32, 1 Ahorn
+- TOP 3.7.: Ludlstr. 49 und 51, 2 Scheinakazien
+- TOP 3.8.: Zypressenweg 12, 1 Tanne
+- TOP 3.9.: Nothkaufstr. 6, 1 Rotfichte
+- TOP 3.10.: Immastr. 9, 1 Birke
+- TOP 3.11.: Hohenklingenstr. 3 b, 1 Birke, 2 Fichten
+- TOP 3.12.: Guardinistr. 94 - 98, 1 Ahorn, 1 Eberesche
+- TOP 3.13.: Hosigaustr. 10, 2 Fichten
+- TOP 3.14.: Waldklausenweg, gem Baumbestandsplan Nr.: 06-26661
+- TOP 3.15.: Marchioninistr. 13, 1 Lärche
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 3.1.: Ringstr. 30, Fällung einer Birke (Referat für Stadtplanung und Bauordnung, 30.08.2006)
+- TOP 4.: Ausschussberichte
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 6.: Entscheidungsfälle
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Leistungsbilanz des Sozialreferates für die Bürgerversammlung des 20. Stadtbezirkes (Sozialreferat, 13.09.2006)
+- TOP 7.2.: Öffentlich geförderte Wohnungen im 20. Stadtbezirk (Referat für Stadtplanung und Bauordnung, 13.09.2006)
+- TOP 7.3.: Einrichtung einer Feuerwehranfahrtszone, Großhaderner Str. 2 (KVR, 12.08.2006)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Anbau und Erweiterung des Wohnstiftes um 2 Gebäude, Stiftsbogen 74 (Referat für Stadtplanung und Bauordnung, 18.09.2006)
+- TOP 8.2.: Sonderflughafen Oberpfaffenhofen (Referat für Stadtplanung und Bauordnung, 19.09.2006)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Bezirkssportanlage am Hedernfeld (Schul- und Kultusreferat, 21.08.2006)
+- TOP 9.2.: Errichtung einer Kooperationseinrichtung für 2 Kindergarten- und 2 Kinderkrippengruppen; BA-Antrag Nr. 1355 (Referat für Stadtplanung und Bauordnung, 07.09.2006)
+- TOP 9.3.: Spielplatz an der Kurparksiedlung (Baureferat, 11.09.2006)
+- TOP 9.4.: Abbiegepfeil an der Großhaderner Straße (KVR, 12.09.2006)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Straßenbenennung der neuen Straße U 801 (BA 21, 14.09.2006)
+- TOP 11.2.: Generelles Parkverbot in der Josef-Sterr-Str. und in der Rudolf-Zenker-Straße; Rückantwort der PI; Übermittelt durch Antragsteller
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006: Global denken - lokal handeln
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006: Das Parkraummanagement erfordert auch den Bau von Tiefgaragen
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006: Deregulierung der städtischen Gestaltungs- und Begrünungssatzung 924
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006: Veränderungen an den Denkmalensembles der Landeshauptstadt München
+- TOP 12.4.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 10.10.2006: Haushaltsplan 2007 a) Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen b) Produkt- und zielorientierte Ansätze für den Bereich "Förderung feier Träger" des Stadtjugendamtes Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006: Raumordnungsverfahren für eine 3. Start- und Landebahn des Verkehrsflughafens München; Einleitung des Verfahrens und Anhörungsverfahren - Stellungnahme der Landeshauptstadt München
+- TOP 12.2.: Beschluss in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 10.10.2006: Haushaltsplan 2007 - Einzelplan 4 des Sozialreferates
+- TOP 12.3.: Bekanntgaben
+- TOP 12.4.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006: Beschlussvollzugskontrolle (BVK)
+- TOP 12.5.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006: Diskurs "Stadtgestaltung und neue Architektur"
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
