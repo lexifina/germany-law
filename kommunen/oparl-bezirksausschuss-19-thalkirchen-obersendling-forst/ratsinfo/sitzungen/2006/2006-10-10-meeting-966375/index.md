@@ -1,0 +1,52 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2006-10-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/966375
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/966375
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeiner Teil
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Festlegung der endgültigen Tagesordnung
+- TOP 1.6.: Genehmigung des Protokolls vom 12.09.06
+- TOP 2: Anträge
+- TOP 2.1.: EV: Einzelhandelsgroßprojekt
+- TOP 2.2.: Bereitstellung eines Containers oder Bungalows für Ganztagesbetreuung an der HS Zielstattstraße
+- TOP 2.3.: Erhalt der Baumschutzverordnung
+- TOP 3: Unterausschuss Budget
+- TOP 3.4.: Forstenrieder SC; 25 Jahr-Feier
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.3.: Ampelschaltung Herterichstr./Wolfratshauser Straße
+- TOP 5.4.: Nachts kleinere Busse auf der Linie 132
+- TOP 5.5.: Anpassung der Beschilderung nach Fahrbahnsanierung an der Boschetsrieder- / Hofmannstraße
+- TOP 5.6.: Entfernung von Pollern in der Filchnerstr. 44-50 / Goldhoferstr. 2 + 4
+- TOP 5.7.: Verkehrssituation Ludwigshöher Straße
+- TOP 5.8.: Winterdienst Melchiorstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 7: Entscheidungsfälle
+- TOP 7.1.: BV-Empfehlung vom 06.04.06 Ziff.1: Planung und Aufbau von Versorgungs-, Pflege- und Essenseinrichtungen in Fürstenried West Zif..2: Baldiger Aufbau des geplanten Altenpflegeheimes in der Appenzeller Str. mit ambulanter Essensmöglichkeit
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: MIP - Fortschreibung für die Jahre 2007 - 2011
+- TOP 8.2.: Werbeanlagen Drygalski-Allee/Boschetsrieder Straße
+- TOP 8.3.: Flugverbot über München einhalten
+- TOP 8.4.: Betriebliche Änderungen für den Sonderflughafen Oberpfaffenhofen
+- TOP 8.5.: Anmietung für einen temporären Verkaufsstand
+- TOP 8.6.: Gaststättenfortführung " Restaurant Kupferkessel"
+- TOP 8.7.: Antrag auf Zweckentfremdung Oberbrunner Str. 11
+- TOP 8.8.: Antrag auf Zweckentfremdung Weichselgartenstr. 20
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 0.1.: Gaststättenfortführung "Papagei Bistro-Lounge-Bar"
