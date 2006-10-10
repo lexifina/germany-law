@@ -1,0 +1,70 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2006-10-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/792988
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/792988
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Zwiedinekstraße
+- TOP 2: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Anträge
+- TOP 3.1.: Die LH München soll alle rechtlichen Möglichkeiten ausschöpfen, um die Möglichkeit des Ausbaus und die damit stark erweiterten Flugbewegungen des Flughafens Oberpfaffenhofen zu verhindern
+- TOP 4: Entscheidungen
+- TOP 4.1.: Antrag auf Zuschuss aus dem Budget in Höhe von 500 Euro für das 1. Münchner Entenrennen am 01.10.06; Antragsteller: Erster Münchner Entenrennen e. V.
+- TOP 2: (E) Unterführung in der Allacher Straße; Aufstellen von Haltverbotsschildern auf der nördlichen Seite Empfehlung Nr. 02-08 / E 00211 der Bürgerversammlung des 23. Stadtbezirkes Allach-Untermenzing am 18.10.2005
+- TOP 3: (E) Bahnweg Waldkolonie zur S-Bahn; Asphaltierung und Beleuchtung Empfehlung Nr. 02-08 / E 00208 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 18.10.2005 Rad- und Fußweg entlang der Bahn Antrag Nr. 02-08 / B 00425 des Bezirksausschusses des Stadtbezirkes 23 Allach-Untermenzing vom 14.06.2005 Rad- und Fußweg östlich der Bahn zwischen Krauss-Maffei- und Ludwigsfelder Straße Antrag Nr. 02-08 / B 01107 des Bezirksausschusses des Stadtbezirkes 23 Allach-Untermenzing vom 11.04.2006
+- TOP 5: Anhörungen
+- TOP 5.1.: Straßenbenennung im 23. Stadtbezirk; Benennung der "Lochhausener Straße neu" in "Mühlangerstraße"
+- TOP 6: Schreiben des Oberbürgermeisters
+- TOP 6.1.: Bürgerversammlung des 23. Stadtbezirks Allach-Untermenzing am 24.10.06
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8: Schreiben des Direktoriums
+- TOP 8.1.: Ablehnung einer beantragten Zuwendung aus dem Budget; Antragsteller: REGSAM
+- TOP 8.2.: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Landesbund für Vogelschutz in Bayern e.V.
+- TOP 8.3.: Antrag auf Zuwendung aus dem Budget für die Erweiterung einer Flutlichtanlage; Antragsteller: TSV Allach 09
+- TOP 8.4.: 18.jetzt, Fest junger Erwachsener am 14.10.06 im Rathaus; Namenskärtchen; Präsentation der Bezirksausschüsse
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Unterrichtung über das Fällen von Gefahrenbäumen; Schulzentrum Pfarrer-Grimm-Str. 1
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Freigabe der Lochhausener Straße (neu) und Bergsonstraße (neu)
+- TOP 10.2.: Fuß- und Radwegunterführung Untermenzing S-Bahn
+- TOP 10.3.: Erlaubnis zur befristeten Nutzungsänderung einer Schießanlage; Oktoberfest-Landesschießen am 08.09. und 09.09.06
+- TOP 10.4.: Gaststätte "Bar Bistro Rosso e Nero", Eversbuschstr. 7; unveränderte Fortführung
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO a) LSG Würmniederung, S-Bahnhof Karlsfeld: 9 Weiden b) Ertelstr. 2: 2 Fichten c) Stieglstr. 49: 1 Fichte d) Lechelstr. 63: 2 Tannen e) Wilhelm-Zwölfer-Str. 31: 7 Fichten, 1 Birke, 2 Kastanien f) Georg-Reismüller-Str. 17: 1 Birke, 1 Lärche g) Korbinian-Beer-Str. 21: s. Baumbestandsplan Nr. 2006-23750 h) Von-Haller-Str. 21, 1 Birke i) Prießnitzstr. 20, 1 Robinie und 1 Blaufichte j) Auenbruggerstr. 85, 1 Tanne k) Eversbuschstr. 227, 1 Eiche l) Ernst-von-Romberg-Str. 3, s. Baumbestandsplan Nr. 2006-17286 m) Peter-Winter-Str. 2, 1 Pappel n) Klessingweg 29, 2 Eschen o) Klessingweg 33, 3 Eschen p) Allacher Str. 146, 2 Kiefern q) Löfflerstr. 1, 1 Baum r) Ganzenmüllerstr. 38, 6 Fichten s) Rueßstr. 38, 1 Robinia t) Grovestr. 4 u) Korbinian-Beer-Str. 33, s. Baumbestandsplan Nr. 2006-24407 v) Schönleutnerstr. 8, 1 Tanne w) Finsterwaldstr. 19, 4 Fichten x) Hertwigstr. 2, 1 Linde und 1 Blutbuche y) Manzostr. 37 a, s. Baumbestandsplan Nr. 2006-25203 z) Ernst-Haeckel-Str. 63; Borkenkäfer-Bescheinigung
+- TOP 11.2.: Bauanträge (v. 14.08.-20.08., 21.08.-27.08., 28.08.-03.09., 04.09.-10.09., 11.09.-17.09., 18.09.-24.09.)
+- TOP 11.3.: Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG); NBS/ABS Nürnberg-Ingolstadt-München, Ausbaumaßnahmen im Bereich der LH München Planungsabschnitt 82 M der ABS Ingolstadt-München, Bahn-km 12,900 bis 4,900; Planergänzung zum landschaftspflegerischen Begleitplan (Auflage aus dem Planfeststellungsbeschluss vom 20.07.01)
+- TOP 11.4.: Betriebliche Änderung für den Sonderflughafen Oberpfaffenhofen
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 12.1.: Radwegverbindung zur Langwieder Seenplatte; Grunderwerb entlang der Goteboldstraße
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Informationsveranstaltung des Sozialreferates für die Mitglieder aller BAs am 30.11.06
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 21 Pasing -Obermenzing: Straßenbenennung im 21. Stadtbezirk; Bergsonstraße neu / Lochhausener Straße neu
+- TOP 20.2.: BA 21 Pasing-Obermenzing: Erstellung eines interaktiven Stadtteilführers; Antrag von REGSAm auf Gewährung eines Zuschusses aus dem Budget des BA 21
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen der Stadtwerke GmbH
+- TOP 22: Schreiben der Münchner Stadtentwässerung
+- TOP 22.1.: Ettengrubersiedlung/Angerlohe, Moosanger östlich und westlich der Waldhornstraße sowie Untere Angerlohe; Kanalbau - Projektgenehmigung
+- TOP 23: Stadtrats- und Ausschussbeschlüsse
+- TOP 23.1.: Ausschuss für Stadtplanung und Bauordnung vom 20.09.06: - Global denken - lokal handeln - Das Parkraummanagement erfordert auch den Bau von Tiefgaragen - Beschlussvollzugskontrolle (BVK); 3. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung im Zeitraum vom 01.01.05 - 30.06.06 - Diskurs "Stadtgestalt und neue Architektur" - Veränderungen an den Denkmalensembles der LH München - Deregulierung der städtischen Gestaltungs- und Begrünungssatzung 924 - Raumordnungsverfahren für eine 3. Start- und Landebahn des Verkehrsflughafens München; Einleitung des Verfahrens und Anhörungsverfahren / Stellungnahme der LH München
+- TOP 23.2.: Bauausschuss vom 26.09.06: - Weinschenkstraße zwischen Professor-Eichmann-Straße und Bauseweinallee; erstmalige Herstellung
+- TOP 23.3.: Ausschuss für Stadtplanung und Bauordnung vom 27.09.06: - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 1992 Stahlstraße (südlich), Hans-Goltz-Weg (westlich) und Pasinger Heuweg (östlich)
+- TOP 23.4.: Gemeinsame Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 10.10.06: - Haushaltsplan 2007, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen - Haushaltsplan 2007, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen - Haushaltsplan 2007, Einzelplan 4 des Sozialreferates - Haushaltskonsolidierung, Feinkonzept 2006, Sonderkonsolidierung 2006, Grob - und Feinkonzept 2007 - 2011 - Haushaltsplan 2007, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006, Erfahrungsbericht und weiteres Vorgehen
+- TOP 24: Verschiedenes
