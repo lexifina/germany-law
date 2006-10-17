@@ -1,0 +1,91 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2006-10-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/769762
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/769762
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Erneuerung der Gerhard- und Teutoburger Straße - <div>Schreiben an das Baureferat-Tiefbau (mit Ergänzung UA Verkehr) und Zwischennachricht an den Bürger</div>
+- TOP 2.2.: Verkehrsaufkommen und -lärm in der Tegernseer Landstraße - <div>zur Kenntnis genommen</div>
+- TOP 2.3.: Erweiterung der Einbahnregelung in der Lautererstraße - <div>Weiterleitung Bürgerschreiben KVR (mit Ergänzung) und Zwischennachricht Bürger</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.: AntragstellerIn: Kindergarten Menterschwaige e.V., für die Maßnahme: Renovierung der WC-Anlage; Antragssumme: 1.832,74 ?; Beschlussvorlage des Direktoriums vom 27.09.2006 - <div>Zustimmung in voller, beantragter Höhe</div>
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.: "Graffitiprojekt" des Jugendtreffs AKKU, Verwendungsnachweis - <div>zur Kenntnis genommen</div>
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Tempo-30-Zone Pistorini-, Ludmilla-, Hellabrunner Straße; Anhörung durch das Kreisverwaltungsreferat vom 12.09.2006 zur beabsichtigten verkehrsrechtlichen Anordnung - <div>nach Antrag</div>
+- TOP 3.2.: Haltverbot in der Lindenstraße; Anhörung durch das Kreisverwaltungsreferat vom 18.09.2006 zur beabsichtigten verkehrsrechtlichen Anordnung - <div>nach Antrag</div>
+- TOP 3.1.: Das Parkraummanagement erfordert auch den Bau von Tiefgaragen; Antrag Nr. 02-08 / A 03049 von Herrn Stadtrat Dr. Babor vom 05.05.2006; Sitzungsvorlage Nr. 02-08 / V 08653; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Spektrumsanalysen für Mobilfunksendeanlagen im 18.Stadtbezirk; Antwortschreiben des Referats für Gesundheit und Umwelt vom 21.09.2006 - weitgehend negative Erledigung - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Global denken - lokal handeln; Maßnahmen des Stadtrates zur Eindämmung des Autoverkehrs und Förderung des Umweltverbundes; Empfehlung Nr. 6 der Bürgerversammlung des 17. Stadtbezirks Obergiesing am 17.06.2004; Sitzungsvorlagen Nr. 02-08 / V 08638; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Unterrichtung durch das Baureferat-Gartenbau vom 13.09.2006 nach der Landschaftsschutzverordnung über das Fällen von Gefahrenbäumen im Isarhochwasserbett r.d. Isar - <div>zur Kenntnis genommen</div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Haushaltsplan 2007 - Einzelplan 4 des Sozialreferats; Sitzungsvorlage Nr. 02-08 / V 08773; Beschluss in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 10.10.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Haushaltskonsolidierung, Feinkonzept 2006, Sonderkonsolidierung 2006, Grob- und Feinkonzept 2007 - 2011; Sitzungsvorlage Nr. 02-08 / V 08755; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeeinsamen Sitzung vom 10.10.06 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Haushaltsplan 2007; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger"; Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 - 2006 - Erfahrungsbericht und weiteres Vorgehen; Beschlüsse des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 10.10.2006 3.4.6.3.1 Amt für Soziale Sicherung; Sitzungsvorlage Nr. 02-08 / V 08642 3.4.6.3.2 Stadtjugendamt; Sitzungsvorlage Nr. 02-08 / V 08587 3.4.6.3.3 Amt für Wohnen und Migration; Sitzungsvorlage Nr. 02-08 / V 08667 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Informationsveranstaltung des Sozialreferats für die Mitglieder aller Bezirksausschüsse am 30.11.2006/Hinweis zur Terminvormerkung; Zuleitung des Sozialreferats vom 15.09.2006 - <div>Die BA-G Ost meldet 10 Teilnehmer aus dem BA 18</div>
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: 3.5.4.1.1 Anwesen in der Haselburgstraße; Zuleitung vom 08.09.2006 (vertagt aus der Sitzung / TOP 3.5.4.1.3 vom 19.09.2006) - <div>qualifizierte Vertagung</div>
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: 3.5.4.2.1 Anwesen in der Hauensteinstraße; Zuleitung vom 07.09.2006 (vertagt aus der Sitzung / TOP 3.5.4.2.9 vom 19.09.2006) - <div>Rückverweisung an Fachausschuss</div>
+- TOP 3.2.: 3.5.4.3 Antrag auf Errichtung einer hinterleuchteten Wechselwerbeanlage, Kolumbusplatz, Südwestseite (Standort 1, Fahrtrichtung stadtauswärts); Anhörung durch das Referat für Stadtplanung und Bauordnung vom 14.08.2006; Schreiben des Direktoriums, BA-Geschäftsstelle Mitte, vom 15.09.2006 - <div>abgelehnt</div>
+- TOP 3.1.: Baufälle im 18. Stadtbezirk - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen), Mitteilungen durch das Kreisverwaltungsreferat 3.5.6.2.1 Kleingaststätte "DOWN TOWN",Humboldtstraße 28; Mitteilung vom 28.09.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Diskurs "Stadtgestaltung und Architektur", Hochhäuser im Spannungsfeld zwischen Identitiät und Wandel der Stadt, Ergebnis und weiteres Vorgehen; Sitzungvorlage Nr. 02-08 /V 08480; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Beschlussvollzugskontrolle (BVK); 3. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2006; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.5.: Veränderungen an den Denkmalensembles der Landeshauptstadt München; Antrag Nr. 02-08 / A 03079 von Frau Stadträtin Schosser; Sitzungvorlage Nr. 02-08 / V 08712; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.08.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.6.: Deregulierung der städtischen Gestaltungs- und Begrünungssatzung 924; Antrag Nr. 02-08 / A 02529 der ÖDP vom 01.07.2005; Sitzungsvorlage Nr. 02-08 / V 08627; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.7.: Raumordnungsverfahren für eine 3. Start- und Landebahn des Verkehrsflughafens München; Einleitung des Verfahrens und Anhörungsverfahren - Stellungnahme der Landeshauptstadt München; Sitzungsvorlage Nr. 02-08 / V 08797; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.8.: Auswirkungen von Brandschutzbestimmungen und Auflagen der Feuerwehr auf den Städtebau, die Grün- und Objektplanung; Sitzungsvorlage Nr. 02-08 / V 08257; Bekanntgabe in den Sitzungen des Ausschusses für Stadtplanung und Bauordnung und des Riemausschusses vom 11.10..2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Förderprogramm "Bürger und Bürgerinnen gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln; Schreiben des Direktoriums vom 22.09.2006 mit der Bitte um Einreichung von Vorschlägen bis zum 31.12.2006 - <div>ohne Entscheidung</div>
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
