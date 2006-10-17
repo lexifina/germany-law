@@ -1,0 +1,59 @@
+# Ausschuss für Stadtplanung und Verkehr (14. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2006-10-17T17:00:00+02:00
+- Ende: 2006-10-17T20:55:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdjU0xBGfQo0YJQzbNLyHw8
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/378
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZTOOe9yZRYy4x-37ExrR-Uzi8lkNM07LCdsMDomxP90m/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_17.10.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht der Verwaltung über die Ausführung von Beschlüssen/Aufträgen/Empfehlungen aus der Sitzung vom 22.08.2006
+- TOP 2.: Bestellung eines Schriftführers für die Erstellung der Niederschriften der Sitzungen des Ausschusses für Stadtplanung und Verkehr vom 22.08.2006 und 24.08.2006
+- TOP 3.: Umsiedlung Manheim
+- TOP 3.1: Bericht der Verwaltung
+- TOP 3.2: Niederschrift 3. Sitzung AK Manheim
+- TOP 4.: Stadtentwicklung
+- TOP 4.1: Provisorischer Fußweg zum Nahversorgungszentrum Sindorf-Nord
+- TOP 4.2: Verwertung von Flächen im Europarc Sindorf, am Waldweg in Horrem und im Bereich Falder/ Bürrig in Kerpen
+- TOP 4.2.1: Städtebauliches Konzept Kerpen Falder/Bürrig
+- TOP 5.: Bauleitplanung
+- TOP 5.1: Bebauungsplan SI 228 C "Goethestraße ", Stadtteil Sindorf - Offenlegungsbeschluss
+- TOP 5.2: Vorhabenbezogener Bebauungsplan BL 314 "Vogelruther Weg", Stadtteil Blatzheim hier: Mitteilung über Beendigung des Planverfahrens
+- TOP 5.3: Bebauungsplan KE 10, 3. Änderung "Neustraße", Stadtteil Kerpen hier: Satzungsbeschluss
+- TOP 5.4: Aufhebungsverfahren zum Durchführungsplan MÖ Nr.1, Stadtteil Mödrath, hier: Satzungsbeschluss
+- TOP 5.5: Bebauungsplan Tü 246/ 2. Änd. -Gewerbe-/ Industriegebiet III- im Stadtteil Kerpen-Türnich hier: Satzungsbeschluss
+- TOP 5.6: Bebauungsplan KE 267 B "Stiftsstraße/Filzengraben", Stadtteil Kerpen hier: aktueller Sachstand
+- TOP 5.7: Bebauungsplan HO 183/2. Änderung " Am Wahlenpfad ", Stadtteil Horrem - Offenlegungsbeschluss
+- TOP 5.8: Erweiterung des gem. § 142 (4) BauGB förmlich festgesetzten Sanierungsgebietes (vereinfachtes Verfahren) Horrem-Mitte
+- TOP 5.9: Bebauungsplan HO 294/1.Änderung " Bahnhofsvorplatz ", Stadtteil Horrem, hier: Aufstellungsbeschluss
+- TOP 6.: Bauvorhaben
+- TOP 6.1: Geplante bzw. im Bau befindliche Biomethangasanlage in Sindorf
+- TOP 7.: Verkehrsplanung
+- TOP 7.1: Erschließungskonzept der Baugebiete Kerpen-Süd/-West
+- TOP 7.2: Niederschrift der 6. Sitzung des Arbeitskreises Verkehr vom 05.10.2006
+- TOP 7.3: Umbau Kreuzungsbereich B 264 / Heisenbergstraße / Maximilianstraße
+- TOP 7.4: Benennung einer Straße im Stadtteil Buir
+- TOP 7.5: Benennung einer Straße im Stadtteil Sindorf
+- TOP 7.6: Fortschreibung des Verkehrsentwicklungsplanes des Rhein-Erft-Kreises
+- TOP 7.6.1: ÖPNV
+- TOP 7.6.2: Radverkehr
+- TOP 7.7: Parkplätze im Bereich der Kommandeursburg in Kerpen-Blatzheim
+- TOP 7.8: Widmung von Straßen
+- TOP 7.9: Teileinziehung der öffentlichen Straße zwischen der Ortslage Blatzheim und dem Katharinenhof
+- TOP 7.10: Lärmschutzwand an der A4 in Horrem-Götzenkirchen (Begrünung)
+- TOP 8.: Mitteilungen
+- TOP 9.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 9.1: Finanzierung der Umsetzung des Nutzungskonzeptes Marienfeld
+- TOP 9.2: Grünfläche am Schlosspark
+- TOP 10.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 11.: Grundstückspreis im Vogelrutherfeld, 1. Bauabschnitt; Drs.-Nr. 46.06
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
