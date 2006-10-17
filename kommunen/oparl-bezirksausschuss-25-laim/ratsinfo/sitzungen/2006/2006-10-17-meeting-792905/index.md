@@ -1,0 +1,96 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2006-10-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/792905
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/792905
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Nutzung des Anwesens Hogenbergstr. 35 als Jugendtreff
+- TOP 1.3: Neuwahl eines / einer Vorsitzenden des UA Kinder und Jugend
+- TOP 2: Anträge
+- TOP 2.1.: Info - Tisch - Sperre am DAWO - Gebäude Ecke Fürstenrieder Straße / Gotthardstraße
+- TOP 2.2.: Planung und Bau von UVR, F + R - Steg und S - Bahnhof Laim uneingeschränkt fortführen
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 265 Euro für 20 Jahre Familienzentrum Laim - Kinderfest am 02.11.06; Antragssteller: Familienzentrum Laim
+- TOP 3.2.: Finanzierung einer 4 F circle Bewegungsinsel ( Kosten ca. 13.000 ? ) aus Budgetmitteln
+- TOP 3.3.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 908,50 Euro für die Ausbildungsfahrt für Streitschlichter; Antragsteller: Stüps Hauptschule Fürstenrieder Straße
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Baureferat vom 30.08.06: Weihnachtsmarkt auf dem Laimer Anger vom 01.12. - 26.12.06
+- TOP 4.2.: Schreiben Baureferat vom 11.09.06: Projekt Landsberger Straße / Wotanstraße
+- TOP 4.3.: Schreiben KVR vom 22.09.06: Einrichtung eines weiteren allgemeinen Behindertenparkplatzes in der Landsberger Str. 203
+- TOP 5: Baumfällungen
+- TOP 5.1.: Geigerstr. 11: 2 Fichten
+- TOP 5.2.: Ofener Str. 17: 1 Waldföhre und 2 Birken
+- TOP 5.3.: Isbertstr. 9: 1 Kiefer
+- TOP 5.4.: Agnes - Bernauer - Str. 86: 1 Birke
+- TOP 5.5.: Camerloherstr. 114: 1 Weide
+- TOP 5.6.: Ostendorferweg 6: 1 Ahorn und 2 Pappeln
+- TOP 5.7.: Agnes - Bernauer - Platz 4: 1 Linde
+- TOP 5.8.: Berchemstr. 37: 1 Birke
+- TOP 5.9.: Genovevaweg 18: 2 Ahorn, 2 Fichten und 1 Birke
+- TOP 5.10.: Landsberger Str. 257 a: 1 Akazie
+- TOP 5.11.: Friedenheimer Str. 2 - 6: 1 Wildkirsche und 1 Feldahorn
+- TOP 5.12.: Friedenheimer Str. 8 - 10: 3 Pappeln
+- TOP 5.13.: Camerloherstr. 63: 2 Fichten
+- TOP 6: Bauvorhaben
+- TOP 7: Sonstiges
+- TOP 7.1.: Änderungen in der BA ? Arbeit ( u. a. Einbindung der Unterausschüsse, monatliche Vorstandssitzung zur Vorbereitung der Tagesordnung )
+- TOP 7.2.: Termine 2007
+- TOP 8: Protokolle
+- TOP 8.1.: Protokoll der Sitzung vom 12.09.06
+- TOP 9: Umlauf
+- TOP 9.1.: Haltverbot am südlichen Ende der Wimpfenerstraße
+- TOP 9.2.: Schreiben Baureferat vom 08.09.06: Unzumutbare Zustände am Joergplatz / Saherrstraße in Laim - Einsatz eines kommunalen Ordnungsdienstes
+- TOP 9.3.: Schreiben Sozialreferat vom 30.08.06: Genehmigung der Zweckentfremdung durch Abbruch; Flantinstraße
+- TOP 9.4.: Schreiben Direktorium vom 22.09.06: Verwendungsnachweis über Zuschuss aus dem Budget; Antragsteller: PA / Spielen in der Stadt e. V.
+- TOP 9.5.: Schreiben Direktorium vom 20.09.06: Verwendungsnachweise über Zuschüsse aus dem Budget; Antragsteller: Kath. Kirchenstiftung St. Willibald und Jugendzentrum " Das Laimer "
+- TOP 9.6.: Schreiben Direktorium vom 20.09.06: 18. jetzt, Fest junger Erwachsener am 14.10.06 im Rathaus; Namenskärtchen; Präsentation der Bezirksausschüsse
+- TOP 9.7.: Schreiben Direktorium und Planungsreferat vom 22.09.06: Förderprogramm " Bürger und Bürgerinnen gestalten ihre Stadt " - Bürgerbeteiligung in den Stadtvierteln
+- TOP 9.8.: Schreiben Planungsreferat vom 20.09.06: Flotowstr. 73; Fällungsgenehmigung
+- TOP 9.9.: Schreiben Planungsreferat vom 20.09.06: Joergstr. 76; Fällungsgenehmigung
+- TOP 9.10.: Schreiben Planungsreferat vom 20.09.06: Flantinstr. 7; Fällungsgenehmigung
+- TOP 9.11.: Schreiben Planungsreferat vom 20.09.06: Gotthardstr. 114; Fällungsgenehmigung
+- TOP 9.12.: Schreiben Planungsreferat vom 20.09.06: Brosamerstr. 9; Fällungsgenehmigung
+- TOP 9.13.: Schreiben Planungsreferat vom 20.09.06: Agricolastr. 57; Fällungsgenehmigung
+- TOP 9.14.: Bautenliste vom 04.09. - 10.09.06: 1. Erstantragsverfahren a ) Berchemstr. 57 2. Änderungsverfahren a ) Landsberger Str. 209 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a ) Heigenmooserstr. 5
+- TOP 9.15.: Bautenliste vom 11.09. - 17.09.06 1. Erstantragsverfahren a ) Fürstenrieder Str. 50
+- TOP 9.16.: Bautenliste vom 18.09. - 24.09.06 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a ) Von - der - Pfordten - Str. 59
+- TOP 9.17.: Schreiben KVR vom 07.09.06: Anmeldung einer Versammlung unter freiem Himmel am 08.09.06 an der Wotanstraße / Ecke Landsberger Straße
+- TOP 9.18.: Schreiben KVR vom 08.09.06: Anmeldung einer Versammlung unter freiem Himmel am 09.09., 16.09. und 23.09.06 an der Wotanstraße / Ecke Landsberger Straße
+- TOP 9.19.: Schreiben KVR vom 20.09.06: Anmeldung einer Versammlung unter freiem Himmel am 25.09., 02.10. und 09.10.06 an der Wotanstraße / Ecke Landsberger Straße
+- TOP 9.20.: Schreiben KVR vom 02.10.06: Anmeldung einer Versammlung unter freiem Himmel am 07.10.06 an der Wotanstraße / Ecke Landsberger Straße
+- TOP 9.21.: Schreiben Stadtwerke München GmbH vom 05.09.06: Baumaßnahmen der Stadtwerke; Stichtag: 05.09.06
+- TOP 9.22.: Schreiben der Stadtwerke München GmbH vom 12.09.06: Baumaßnahmen der Stadtwerke; Stichtag: 12.09.06
+- TOP 9.23.: Schreiben der Stadtwerke München GmbH vom 18.09.06: Baumaßnahmen der Stadtwerke; Stichtag: 18.09.06
+- TOP 9.24.: Schreiben Stadtwerke München GmbH vom 25.09.06: Baumaßnahmen der Stadtwerke; Stichtag: 25.09.06
+- TOP 9.25.: Schreiben Stadtwerke München GmbH vom 02.10.06: Baumaßnahmen der Stadtwerke; Stichtag: 02.10.06
+- TOP 9.26.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 20.09.06: Beschlussvollzugskontrolle ( BVK ); 3. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung im Zeitraum vom 01.01.05 bis 30.06.06 ( Sitzungsvorlagen Nr. 02 - 08 / V 08699 )
+- TOP 9.27.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 20.09.06: Diskurs " Stadtgestalt und neue Architektur " (Sitzungsvorlagen Nr. 02 - 08 / V 08480 )
+- TOP 9.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.06: Global denken - lokal handeln ( Sitzungsvorlagen Nr. 02 - 08 / V 08638
+- TOP 9.29.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.06: Das Parkraummanagement erfordert auch den Bau von Tiefgaragen ( Sitzungsvorlagen Nr. 02 - 08 / V 08653 )
+- TOP 9.30.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.06: Veränderungen an den Denkmalensembles der LH München ( Sitzungsvorlagen Nr. 02 - 08 / V 08712 )
+- TOP 9.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.06: Deregulierung der städtischen Gestaltungs- und Begrünungssatzung 924 ( Sitzungsvorlagen Nr. 02 - 08 / V 08627 )
+- TOP 9.32.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.06: Raumordnungsverfahren für eine 3. Start- und Landebahn des Verkehrsflughafens München; Einleitung des Verfahrens und Anhörungsverfahren / Stellungnahme der LH München ( Sitzungsvorlagen Nr. 02 - 08 / V 08797 )
+- TOP 9.33.: Beschluss des Kinder - und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.10.06: Haushaltskonsolidierung, Feinkonzept 2006, Sonderkonsolidierung 2006, Grob - und Feinkonzept 2007 - 2011 ( Sitzungsvorlagen Nr. 02 - 08 - / V 08755 )
+- TOP 9.34.: Beschluss in der gemeinsamen Sitzung des Kinder - und Jugendhilfeausschusses und des Sozialausschusses vom 10.10.06: Haushaltsplan 2007 - Einzelplan 4 des Sozialreferates ( Sitzungsvorlagen Nr. 02 - 08 / V 08773 )
+- TOP 9.35.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder - und Jugendhilfeausschusses und des Sozialausschusses vom 10.10.06: Haushaltsplan 2007, Produkt - und zielorientierte Ansätze für den Bereich " Förderung freier Träger " des Amtes für Soziale Sicherung, Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen ( Sitzungsvorlagen Nr. 02 - 08 / V 08642 )
+- TOP 9.36.: Beschluss des Kinder - und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.10.06: Haushaltsplan 2007, Produkt - und zielorientierte Ansätze für den Bereich " Förderung freier Träger " des Stadtjugendamtes; Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen
+- TOP 9.37.: Beschluss des Kinder - und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.10.06: Haushaltsplan 2007, Produkt - und zielorientierte Ansätze für den Bereich " Förderung freier Träger " des Amtes für Wohnen und Migration, Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen ( Sitzungsvorlagen Nr. 02 - 08 / V 08667 )
+- TOP 9.38.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 11.10.06: Ausweisung neuer Gewerbeflächen, Berichtsjahr 2005 ( Sitzungsvorlagen Nr. 02 - 08 / V 08855 )
+- TOP 9.39.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 11.10.06 / Bekanntgabe im Riemausschuss vom 11.10.06: Auswirkungen von Brandschutzbestimmungen und Auflagen der Feuerwehr auf den Städtebau, die Grün - und Objektplanung ( Sitzungsvorlagen Nr. 02 - 08 / V 08257 )
+- TOP 9.40.: Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 11.10.06: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011 ( Sitzungsvorlagen Nr. 02 - 08 / V 08804 )
+- TOP 9.41.: Schreiben BA 21 Pasing - Obermenzing vom 18.09.06: Erstellung eines interaktiven Stadtteilführers; Antrag von REGSAM auf Gewährung eines Zuschusses aus dem Budget des BA 21
+- TOP 9.42.: Schreiben Elternbeirat der Grundschule an der Camerloherstraße vom 22.09.06: Dank für Zuschuss aus dem Budget für Selbstbehauptungskurse im Mai 2006
+- TOP 9.43.: Schreiben ESV München - Laim: Einladung zum Tag der offenen Tür am 14.10.06
+- TOP 9.44.: Schreiben des Sozialreferates vom 15.09.06: Informationsveranstaltung des Sozialreferates für die Mitglieder aller BAs am 30.11.06
+- TOP 9.45.: Münchner Statistik; 2. Quartalsheft, Jahrgang 2006
+- TOP 9.46.: Schriftverkehr aus der Sitzung vom 12.09.06
