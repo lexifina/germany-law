@@ -1,0 +1,71 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2006-10-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/804730
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/804730
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Sachbericht Budget
+- TOP 4.3.: Termine für BA 11-Sitzungen und Bürgerversammlung 2007 vertagt aus der Sitzung am 20.09.2006
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Evangelischer Diakonieverein Dankeskirche, Infoveranstaltung am 28.10.2006
+- TOP 6.2.: Soldaten und Kameradschaftsverein München-Milbertshofen e.V., Restaurierung des Kriegerdenkmals
+- TOP 6.3.: Geschichtswerkstatt Kulturhaus Milbertshofen, Lesung im Rahmen einer Namensgebung
+- TOP 6.4.: Forum 2 Kulturverein Olympiadorf e.V., Reparatur des Klaviers
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 1: (E) Asphaltierung der Wege im Bereich der Siedlung an der Nordheide Ost (Ziffer 2) Empfehlung Nr. 02-08 / E 00457 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen ? Am Hart am 29.06.06
+- TOP 2: (E) Haltverbot in der Sudetendeutschestraße ab Knorrstraße bis zur Schafhäutlstraße (Ziffer 3) Empfehlung Nr. 02-08 / E 00453 der Bürger- versammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart vom 29.06.2006
+- TOP 7.: Anträge
+- TOP 7.1.: Lehrstellensituation in Milbertshofen - Am Hart (CSU-Fraktion im BA 11) vertagt aus der Sitzung am 20.09.2006
+- TOP 7.1.: Situation in der Bad Kreuznacher Straße (Helmut und Ursula Reitberger)
+- TOP 7.2.: Neue Verkehrsregelung Freiligrathstraße und Umgebung (Ernst Potzler)
+- TOP 7.3.: Mehr Sicherheit für Radlfahrer (CSU-Fraktion im BA 11) vertagt aus der Sitzung am 20.09.2006
+- TOP 8.: Anhörungen
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a)Frohschammerstr. 21, eine Pappel b) Schopenhauerstr. 64-70, eine Pappel c) Olympisches Dorf vertagt aus der Sitzung am 20.09.2006 - Nadistr.16, zwei Pappeln - Nadistr. 18, 20, 22, 24, acht Pappeln, eine Erle - Nadistr. 26, 28, 32, zwei Pappeln, zwei Erlen - Straßbergerstr.2, 6, zwei erlen, ein Ahorn - Starßbergerstr,. 18, 20, 22, 24, drei Holunderpflanzen, zwei Kirschbäume, zwei Erlen - Südlich Straßbergerstr. 71-81, vier Pappeln - Südlich Straßbergerstr. 83-89, sechs Pappeln - Connollystr. 14, drei Pappeln - Connollystr. 20, 22, 28, fünf Pappeln, eine Weide - Connollystr. 29, zwei Ahorn
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Baumaßnahmen:
+- TOP 8.3.: Anhörung gem. § 3 der Satzung für die Bezirksausschüsse, hier: Milbertshofener Straße
+- TOP 8.1.: Schaffung von Internet-Rechercheplätzen zur Arbeitsplatzsuche in den Sozialbürgerhäusern (Beschluss des Sozialausschusses vom 09.11.2006) vertagt aus der Sitzung am 20.09.2006
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendungen aus dem BA - Budget, Bewilligungsbescheide a) Kath. Pfarramt St. Georg, Laternen basteln mit St.Martinszug, Bewilligung 152,00? b) Kath. Pfarramt Frieden Christi, Laternen basteln mit St.Martinszug, Bewilligung 150,00?
+- TOP 9.2.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.1.: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011 (Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 11.10.2006)
+- TOP 9.2.: Ausweisung neuer Gewerbeflächen Berichtsjahr 2005 (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 11.10.2006)
+- TOP 9.3.: Auswirkungen von Brandschutzbestimmungen und Auflagen der Feuerwehr auf den Städtebau, die Grün- und Objektplanung (Bekanntgabe in der Sitzung des Asschusses für Stadtplanung und Bauordnung vom 11.10.2006)
+- TOP 9.4.: Diskurs "Stadtgestalt und neue Architektur" (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006)
+- TOP 9.5.: Beschlussvollzugskontrolle (BVK) (Bekanntgabe in der Sitzung des Uasschusses für Stadtplanung und Bauordnung vom 20.09.2006
+- TOP 9.6.: Das Parkraummanagement erfordert auch den Bau von Tiefgaragen (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006)
+- TOP 9.7.: Global denken - lokal handeln (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006)
+- TOP 9.8.: Veränderungen an den Denkmalensembles der Landeshauptstadt München (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006)
+- TOP 9.9.: Deregulierung der städtischen Gestaltungs- und Begrünungssatzung 924 (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006)
+- TOP 9.10.: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr.2 BauGB (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006)
+- TOP 9.11.: Raumordnungsverfahren für eine 3. Start- und Landebahn des Verkehrsflughafens München, Einleitung des Verfahrens und Anhörungsverfahren - Stellungnahme der Landeshauptstadt München (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006
+- TOP 9.12.: Städtebauliche Entwicklungsmaßnahmen, Konversion der Kasernenareale, Sachstandsbericht (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 27.09.2006)
+- TOP 9.13.: Baumaßnahmen der Stadtwerke München
+- TOP 9.14.: Meldelisten Bauvorhaben
+- TOP 9.1.: Haushaltsplan 2007 - Einzelplan 4 des Sozialreferates (Beschluss in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 10.10.2006)
+- TOP 9.2.: Haushaltsplan 2007, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003-2006 - Erfahrungsbericht und weitere Vorgehen
+- TOP 9.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 9.1.: Bauarbeiten am U-Bahnhof Olympiazentrum (Informationsschreiben der MVG)
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
