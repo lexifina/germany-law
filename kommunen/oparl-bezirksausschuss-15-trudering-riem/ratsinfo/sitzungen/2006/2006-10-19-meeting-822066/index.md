@@ -1,0 +1,111 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2006-10-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/822066
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/822066
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1.1.: (E) Sofortiger Baustopp für Großprojekte (im Münchner Südosten), solange keine gesicherten Maßnahmen für eine spürbare Verkehrsentlastung bestehender Siedlungsgebiete und keine optimale ÖPNV-Anbindung der Neubaugebiete bestehen Empfehlung Nr. 21 der Bürgerversammlung des 15. Stadtbezirkes Trudering-Riem am 10.11.2004
+- TOP 1.2.: Antrag auf Gewährung eines Zuschusses aus dem Budget durch das Bürgerzentrum Trudering für den Einbau einer Akustikdecke i.H.v. 3.718,46 Euro
+- TOP 1.3.: Antrag auf Gewährung eines Zuschusses aus dem Budget durch die Allegro-Private Vorschule Waldtrudering für die Erstausstattung i.H.v. 2.690,00 Euro
+- TOP 2.1.: Ausbau der Neusönnerstraße zuzügl. Informationsschreiben des Baureferats
+- TOP 2.2.: Geräuschvolle Fahrschulen
+- TOP 2.3.: Sondernutzung Landshamer Straße / Frobenstraße in München Riem
+- TOP 2.4.: Bebauungsplan Nr. 1945; Schwablhofstraße östlich
+- TOP 3.1.: Badesee im Riemer Park, Antrag Nr. 02-08 / B 01294
+- TOP 3.2.: WC-Situation im Riemer Park verbessern, Antrag Nr. 02-08 / B 01315
+- TOP 3.3.: Verbesserung der Einsicht vom Horst-Salzmann-Weg in die St.-Augustinus-Straße, Antrag Nr. 02-08 / B 01310; Wiederherstellung des Horst-Salzmann-Weges, Antrag Nr. 02-08 / B 01311
+- TOP 3.4.: Mehr Verlass auf die AWM-Tonnenleerungstermine, Antrag Nr. 02-08 / B 01313
+- TOP 3.5.: Unfallstatistik der Truderinger Straßen, Antrag Nr. 02-08 / B 01410
+- TOP 3.6.: Mittelinseln Friedenspromenade (vgl. Antrag Nr. 02-08 / B 00681)
+- TOP 3.7.: Kinder- und elternfreundlicher Weg zu Kinderreisepässen, Antrag Nr. 02-08 / B 01415
+- TOP 3.8.: Auswirkungen des Brennerbasistunnels auf Trudering Riem, Antrag Nr. 02-08 / B 01319
+- TOP 3.9.: Bläserklassen an Schulen in der Messestadt Riem (vgl. Antrag Nr. 02-08 / B 00679)
+- TOP 3.10.: Armutsbericht 2004 - Konsequenzen für die Messestadt, Antrag Nr. 02-08 / B 01223
+- TOP 3.11.: Einrichtungen für die Betreuung von Familien, Antrag Nr. 02-08 / B 01114
+- TOP 3.12.: Förderung eines Gleisanschlusses für den Altholzbetrieb Messestadt Ost, Antrag Nr. 02-08 / B 01119
+- TOP 4.1.: Baugebiet Haffstraße: Wall zwischen angelegter Grünfläche und Restfläche erhalten
+- TOP 4.2.: Fahrgastinfo im U/S-Bahn-Zwischengeschoss Trudering - eine unendliche Geschichte?
+- TOP 4.3.: Geruchssanierung der Fahrgast-WCs im U/S-Bahnhof Trudering
+- TOP 4.4.: Eigentumsverhältnisse im Truderinger Wald
+- TOP 4.5.: MVV-Familienausflüge mit Rad - ein Luxus?
+- TOP 4.6.: Planungen für den Kindergarten Fährtwegl zügig vorantreiben
+- TOP 5.1.: Beschlussvorlage für den Schulausschuss vom 08.11.2006; (Errichtung eines 2-gruppigen Kindergartenpavillions am Fährtwegl)
+- TOP 5.2.: Buslinie 139 - Haltestelle Bajuwarenstraße verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 5.3.: Jagdhornstraße 25 / 25 a; Verlängerung eingeschränktes Halteverbot (Top 5.3/09/06 zuzüglich angeforderte Planunterlagen)
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.1.: Verkehrschaos an der Feldbergschule durch die Kita-Ballung, Antrag Nr. 02-08 / B 00753 (Top 3.18/07/06, 3.28/09/06, 7.1.1/09/06)
+- TOP 7.7.2: UA Planung:
+- TOP 7.1.: Gemeinde Haar Flächennutzungsplanänderung Nr. 31 Sondergebiet-Anlage zur Nutzung von Sonnenenergie
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.1.: Verwendungsnachweis des Männergesangsvereins Liederkranz Trudering für das Sängertreffen mit Chorkonzert i.H.v. 360,00 Euro
+- TOP 7.2.: Verwendungsnachweis des Fördervereins Festring Trudering für die Aufstellung des Maibaums 2006 i.H.v. 2.500,00 Euro
+- TOP 7.3.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2007 - 2011 (Anhörungsverfahren; Termin bis 02.11.06)
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 7.1.: S-Bahn-Strecke S 2 Antrag auf Einführung des 10-Minuten-Takts in den HVZ (früh und abends) zwischen Ostbahnhof und Markt Schwaben ab Nov./Dez. 2006 (Schreiben der Gemeinde Aschheim)
+- TOP 8.1.: Bescheide und Mitteilungen über bereits durchgeführte Baumfällungen: Unnützstraße 2, Lafatscherjochstraße 6
+- TOP 8.2.: Von-Trotha-Straße 2
+- TOP 8.3.: Stieglitzweg 7
+- TOP 8.4.: In der Rosenau 3
+- TOP 8.5.: Hochnißlstraße 10
+- TOP 8.6.: Barbenweg 10
+- TOP 8.7.: Waldtruderinger Straße 28
+- TOP 8.8.: Häherweg 18
+- TOP 8.9.: Waldtruderinger Straße 49
+- TOP 8.10.: Waterbergstraße 5
+- TOP 8.11.: Sperberstraße 18
+- TOP 8.12.: Kathreinweg 30
+- TOP 8.13.: Hinterrißstraße 8
+- TOP 8.14.: Wiesbachhornstraße
+- TOP 9.1.: Widmung von Teil- bzw. Gesamtstrecken der Haniklstraße einschließlich drei Seitenästen Santrigelstraße Ilmstraße Beschluss des Bezirksausschusses 15 Trudering-Riem vom 21.09.2006
+- TOP 9.2.: Vollzug des Sprengstoffgesetzes - SprengG Feuerwerk am Messesee, Olof-Palme-Straße am 19.10.2006 (Dringlichkeitsentscheidung gem. § 20 Abs. 1 Satz 2 der BA-Satzung)
+- TOP 9.3.: Barrierefreier Zugang zum S-Bahnhof Riem
+- TOP 9.4.: AltenServiceZentrum (ASZ) - aktueller Stand
+- TOP 9.5.: Förderprogramm Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln
+- TOP 9.6.: Schreiben der Glockenbach Werkstatt e.V. zuzüglich Informationsbroschüre
+- TOP 9.7.: Schreiben des MünchenVerlag zuzüglich Informationsbroschüre
+- TOP 9.8.: Einladung zur Ausstellung "Abschied vom Exil" am 27.11.2006 von 18.00 Uhr - 20.00 Uhr im Amt für Wohnen und Migration, 5.Stock Raum 501
+- TOP 9.9.: Einladung zur Bio-Brotbox Aktion München 2006 am 21.09.06 und 22.09.06
+- TOP 9.10.: Beteiligung der Bezirksausschüsse (BA´s) bei der Auswahl der zu sanierenden Straßen
+- TOP 9.11.: Vollzug des Sprengstoffgesetzes (SprengG) anlässlich einer Geburtstagsfeier im Garten des Grundstücks Josef-Brückl-Straße 56 (Termin bis 20.10.06)
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 11.09.2006 bis 24.09.2006
+- TOP 10.2.: Abfallwirtschaftsbetrieb München (AWM); Haushaltsnahes Entsorgungskonzept von Wertstoffen in der Wohnanlage Widmannstraße 6 - 44 / Riemer Straße 367 - 383, Antrag Nr. 02-08 / A 02842 von Herrn Stadtrat Hans Podiuk, Herrn Stadtrat Robert Brannekämper vom 19.01.2006 Größere Nutzerfreundlichkeit bei der Erfassung von Wertstoffmüll, Antrag Nr. 02-08 / A 02993 der ÖDP vom 31.03.2006 Kurzübersicht zum Beschluss des Kommunalausschusses als Werkausschuss für den Abfallwirtschaftsbetrieb München vom 20.07.2006
+- TOP 10.3.: Abfallwirtschaftsbetrieb München (AWM); Wertstoffsammlung in der Messestadt Riem, Antrag Nr. 02-08 / A 02973 der Herren Stadträte Ingo Mittermaier und Boris Schwartz vom 23.03.2006 Neue Wertstoffcontainer für die Messestadt Riem, Antrag Nr. 02-08 / A 02803 von Herrn Stadtrat Robert Brannekämper vom 16.12.2005 Beschluss der Vollversammlung des Stadtrates vom 26.07.2006
+- TOP 10.4.: Vollzug der Straßenverkehrsordnung (StVO) verkehrsrechtliche Erlaubnis nach §§ 29 und 32 StVO am 11.09.06, Rotfuchsweg 8
+- TOP 10.5.: Verkehrsrechtliche Anordnung für die Produktion eines historischen Kinofilms - Sommer 69 am 04.10.2006 und 13.10.2006
+- TOP 10.6.: Erlaubnisbescheid Platzfest auf dem Platz der Menschenrechte am 24.09.2006
+- TOP 10.7.: Ausbau bzw. Schaffung einer kombinierten Fußweg- und Radverkehrsachse Ost/Nordost "Ostbahnhof - Altes Ortszentrum Berg am Laim - Riemer Park - Messe" Beschluss des Bauausschusses vom 26.09.2006
+- TOP 10.8.: Veranstaltungshinweise des Kulturreferats für die Monate September und Oktober 2006
+- TOP 10.9.: Ausweisung neuer Gewerbeflächen - Berichtsjahr 2005 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 11.10.2006
+- TOP 10.10.: Raumordnungsverfahren für eine 3. Start- und Landebahn des Verkehrsflughafens München; Einleitung des Verfahrens und Anhörungsverfahren - Stellungnahme der Landeshauptstadt München Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006
+- TOP 10.11.: Auswirkungen von Brandschutzbestimmungen und Auflagen der Feuerwehr auf den Städtebau, die Grün- und Objektplanung Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 11.10.2006 sowie in der Sitzung des Riemausschusses vom 11.10.2006
+- TOP 10.12.: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011 Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 11.10.2006
+- TOP 10.13.: Verbot der Zweckentfremdung von Wohnraum - Antrag auf Genehmigung einer Nutzungsänderung im Anwesen Lehrer-Götz-Weg 2 für die Erweiterung einer bestehenden allgemeinen Arztpraxis Beschluss des Sozialausschusses vom 21.09.2006
+- TOP 10.14.: Haushaltsplan 2007 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.10.2006
+- TOP 10.15.: Haushaltsplan 2007 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.10.2006
+- TOP 10.16.: Haushaltsplan 2007 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.10.2006
+- TOP 10.17.: Haushaltsplan 2007 - Einzelplan 4 des Sozialreferates Beschluss in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 10.10.2006
+- TOP 10.18.: Haushaltskonsolidierung - Feinkonzept 2006 Sonderkonsolidierung 2006, Grob- und Feinkonzept 2007 - 2011 Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.10.2006
+- TOP 10.19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
