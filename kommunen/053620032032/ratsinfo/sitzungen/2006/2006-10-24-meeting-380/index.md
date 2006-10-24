@@ -1,0 +1,55 @@
+# Haupt- und Finanzausschuss (14. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2006-10-24T17:00:00+02:00
+- Ende: 2006-10-24T19:35:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSrr6fY4YOyG83nbEbcDE_0
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/380
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZa_1fuZwz-SVqAG2HPlBC7t901m2g5wqjQVpS8QS35nL/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_24.10.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der Sitzung vom 29.08.2006
+- TOP 2.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 2.1: Anregung und Beschwerde gem. § 24 GO NW hier: Einrichtung einer Mais-Silage bei der Bio-Erdgasanlage der STAWAG in Sindorf
+- TOP 2.2: Anregung gem. § 24 GO NW hier: Überquerungshilfe an der Grundschule St. Elisabeth, Kunibertusstraße im Stadtteil Kerpen-Blatzheim
+- TOP 2.3: Anregung gem. § 24 GO NW hier: Überquerungshilfe an der Bushaltestelle "Kapelle", Dürener Straße im Stadtteil Blatzheim
+- TOP 3.: Auflösung des Arbeitskreises Bäder
+- TOP 4.: Bürgerhaushalt-Rechenschaft Antrag Fraktion Bündnis 90/Die Grünen vom 12.09.2006
+- TOP 5.: Überplanmäßige Bereitstellung von Haushaltsmitteln auf der Haushaltsstelle "Vergütung an Reinigungsunternehmen" 1.210.5405 für das Haushaltsjahr 2007
+- TOP 6.: Organisationsuntersuchung der hauseigenen IT und Budgetierung der Personalkosten
+- TOP 6.1: Provisorischer Fußweg zum Nahversorgungszentrum Sindorf-Nord
+- TOP 7.: Mitteilungen
+- TOP 8.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 9.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1: Einstellung einer technischen Beschäftigten für die Abteilung Stadtentwässerung
+- TOP 10.2: hier:Einstellung einer Architektin, Abt. 24.3
+- TOP 10.3: Beförderungen / Höhergruppierungen
+- TOP 10.3.1: Ernennung einer Stadtoberinspektorin zur Stadtamtfrau
+- TOP 10.3.2: Ernennung einer Stadtoberinspektorin zur Stadtamtfrau
+- TOP 10.3.3: Ernennung eines Stadtoberinspektors zum Stadtamtmann
+- TOP 10.3.4: Ernennung eines Brandoberinspektors zum Brandamtmann
+- TOP 10.3.5: Ernennung eines Brandoberinspektors zum Brandtamtmann
+- TOP 10.3.6: Ernennung einer Stadtamtfrau zur Stadtamtsrätin
+- TOP 10.3.7: Ernennung einer Stadtamtsrätin zur Stadtoberamtsrätin
+- TOP 10.3.8: Ernennung eines Stadtamtsrates zumr Stadtoberamtsrat
+- TOP 10.3.9: Ernennung einer Stadtarchivamtsrätin zur Stadtarchivoberamtsrätin
+- TOP 10.3.10: Ernennung eines Brandamtsrates zum Brandoberamtsrat
+- TOP 10.3.11: Ernennung eines Stadtverwaltungsdirektors zum Leitenden Direktor
+- TOP 10.3.12: Höhergruppierung einer Beschäftigten
+- TOP 10.3.13: Höhergruppierung einer Beschäftigten
+- TOP 10.3.14: Höhergruppierung eines Beschäftigten
+- TOP 11.: Organisationsuntersuchung der hauseigenen IT und Budgetierung der Personalkosten
+- TOP 12.: Abschluss einer Treuebonusvereinbarung "Erdgas kommunal"
+- TOP 13.: Neuordnung der Verkaufspreise im Bebauungsplangebiet " Am Wahlenpfad"
+- TOP 14.: Gewerbe- und Industriegebiet Ville, Türnich 3, Verlängerung der Kooperation mit der RWE Power AG, hier: Abschluss einer 2. Zusatzvereinbarung zum Nachtrag vom 16.12.1998 zur Rahmen-vereinbarung vom 06.10.1994
+- TOP 15.: Anfrage der CDU Fraktion zu verschiedenen Punkten bezüglich des Pachtvertrages Öko - Hof, im Niederfeld
+- TOP 16.: Mitteilungen
+- TOP 17.: Anfragen gem. § 18 Geschäftsordnung
