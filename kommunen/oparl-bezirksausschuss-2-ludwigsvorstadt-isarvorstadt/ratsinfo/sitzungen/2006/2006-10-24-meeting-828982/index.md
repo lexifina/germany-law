@@ -1,0 +1,66 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2006-10-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/828982
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/828982
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Kultur im Stadtquartier
+- TOP .2.1.: BA-Budget
+- TOP .1.: Zuschuss aus dem BA-Budget an Kubu für das Spiel- und Erlebnisfest am Weltkindertag
+- TOP .2.: Zuschuss aus dem BA-Budget für das Projekt Lesekompetenz an der GS an der Klenzestraße
+- TOP .2.2.: Kultur
+- TOP .1.: MIP 2007-2011
+- TOP .2.: Münchner 850-Jahresfeier ? Vorschläge der Fraktionen
+- TOP .5.1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .1.: Querung Jahn-/ Baumstraße
+- TOP 1: (E) Überprüfung von Mobilfunkantennen Empfehlung Nr. 02-08 / E 00357 der Bürgerversammlung des Stadtbezirkes 2 - Ludwigsvorstadt-Isarvorstadt am 11.05.2006
+- TOP 1.3.1.: Bauvorhaben
+- TOP 1.1.: Fraunhoferstr. 11
+- TOP 1.2.: Arndtstr. 6, Renovierung VGB, Dg-Ausbau, Aufzugseinbau, Balkonanbau, Renovie-rung RGB, Nutzungsänderung (Gewerbe zu Wohnen)
+- TOP 1.3.: Westermühlstr. 24, VGB: DG-Ausbau, Nutzungsänderung EG (WE zu Büro), RG: Abbruch und Neubau Balkone, Umbau v. Wohnungen (Tektur)
+- TOP 1.1.: Widerrechtlich haltende Busse in der Herzog-Heinrich-Straße während des Oktoberfestes (Bürgerbeschwerden aus der Sitzung vom 26.09.2006)
+- TOP 1.5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP 1.1.: Einstellung der Musikdarbietungen während des Happy Family Festes
+- TOP 1.3.1.: Sperrzeit-Angelegenheiten
+- TOP 1.3.2.: Freischankflächen
+- TOP 1.3.3.: Warenstellagen
+- TOP 1.1.: Goethestr. 7 a (Textilien und Geschenkartikel)
+- TOP 1.2.: Schwanthalerstr. 47 (Geschenkartikel, Spielzeug, Tischdecken, Polster)
+- TOP 1.1.: Weihnachtsmarkt ?Pink Christmas? am Stephansplatz vom 08.12. ? 17.12.2006
+- TOP 1.3.5: Baumfällungen
+- TOP 1.1.: Erhalt der BaumschutzVO (Schr. des BA 19)
+- TOP 1.2.: Lessingstr. 9 (2 Schwarzpappeln)
+- TOP 1.3.: Güllstr. 8 (1 Kiefer, 1 Birke wg. Schneebruch, Verschattung u. Schnittschäden)
+- TOP 1.4.: Museumsinsel 1 (Fällung v. 3 kranken Robinien, Ausschneiden von Totholz bei 8 weiteren Robinien)
+- TOP 1.3.6: Verkehr
+- TOP 1.1.: Hotelanfahrtszone Goethestr. 15 (Hotel Munich Inn)
+- TOP 1.1.: Ampelschaltung Hans-Fischer-Straße/Theresienhöhe (Bürger-Anfrage aus der BA-Sitzung vom 26.09.2006; Antwort der PI)
+- TOP 1.2.: Beschwerde Klenze-Apotheke
+- TOP 1.3.: Vorschlag Wiesnbericht zur Bearbeitung für die BA-Sitzung
+- TOP 1.4.: Schreiben an das Tourismusamt wg. Busparkplatz Theresienwiese
+- TOP 1.5.: Bürgerschreiben wegen Reinigung der Grünflächen im Glockenbachviertel
+- TOP 1.5.1: Berichte der Beauftragten ( AK Theresienwiese)
+- TOP 1.1.: Termine
+- TOP 1.3.: Sonstiges / Verschiedenes
+- TOP 1.3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP 1.3.2.: Berichte aus den anderen BA
+- TOP 1.3.3.: Bericht des Internetbeauftragten
+- TOP 1.3.4: Benennung einer/eines neuen Migrationsbeauftragten
+- TOP 1.5.: Sonstiges
+- TOP 1.1.: Anträge
+- TOP 1.2.: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4.: Unterrichtungen (siehe Infos)
+- TOP 1.2.: Veranstaltungen
