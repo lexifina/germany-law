@@ -1,0 +1,8 @@
+# TOP 9: Ergänzung zum Veränderungsverzeichnis Teil B
+
+- Sitzung: Jugendhilfeausschuss (2006-10-24)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/141015
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/36115
