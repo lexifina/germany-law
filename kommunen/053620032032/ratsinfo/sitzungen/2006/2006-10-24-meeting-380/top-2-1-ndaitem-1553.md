@@ -1,0 +1,8 @@
+# TOP 2.1: Anregung und Beschwerde gem. § 24 GO NW hier: Einrichtung einer Mais-Silage bei der Bio-Erdgasanlage der STAWAG in Sindorf
+
+- Sitzung: Haupt- und Finanzausschuss (14. Sitzung) (2006-10-24)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/1553
+- Beratung: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/consultation/11323
+- Beschluss (Datei): Beschlusstext (Anregung und Beschwerde gem. § 24 GO NW                                                                            hier: Einrichtung einer Mais-Silage bei der Bio-Erdgasanlage der STAWAG in Sindorf) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZaOCeVAKio8O_ezf4G1YLsd8le65s1n9jAUbyNBGcphs/Beschlusstext_76.06_-oeffentlich-_Haupt-_und_Finanzausschuss_24.10.2006.pdf
