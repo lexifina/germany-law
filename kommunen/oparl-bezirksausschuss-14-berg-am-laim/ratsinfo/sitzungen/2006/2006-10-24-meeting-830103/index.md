@@ -1,0 +1,92 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2006-10-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/830103
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/830103
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Umbenennung eines Teilstücks der Dingolfinger Straße im 14. Stadtbezirk Berg am Laim in Deggendorfer Straße Benennung einer Straße im 14. Stadtbezirk nach der Stadt Deggendorf Antrag Nr. 41 vom 28.05.2002 sowie Antrag Nr. 1384 vom 28.06.2006 des Bezirksausschusses des 14. Stadtbezirkes Berg am Laim
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.1.1.: Friedenstraße 10 - Optimolwerke ? Nutzungsänderungen Lager zu Gastronomiebetrieb
+- TOP 3.1.1.2.: Förderprogramm ?Bürger und Bürgerinnen gestalten ihre Stadt? ? Bürgerbeteiligung in den Stadtvierteln
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.2.1.: Abmarkierung an der Kreuzung Altöttinger-/ Fehwiesenstraße
+- TOP 3.1.2.2.: U-Bahn-Haltepunkt Josephsburg
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Ausbau der Grundschule an der Grafinger Straße, Antrag des UA Jugend, Schule, Sport
+- TOP 3.4: Bereich Soziales
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.5.1.: Antrag auf Zuschuss zum Erwerb eines Feuerwehr-Mehrfachfahrzeuges
+- TOP 3.6: Sonstiges
+- TOP 3.6.1.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2007 ? 2011, Anhörung
+- TOP 3.7: Baumschutz (1)
+- TOP 3.7.1.: Blombergstraße 25 ? Antrag auf Baumfällung
+- TOP 3.7.2.: St.-Veit-Straße 72 a - Antrag auf Baumfällung
+- TOP 3.7.3.: Wildenwarter Str. 17a - Antrag auf Baumfällung
+- TOP 3.7.4.: Neumarkter Str. 86a-d- Antrag auf Baumfällung
+- TOP 3.7.5.: Kreillerstraße 77 - Antrag auf Baumfällung
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.1.1.: Bebauungsplan mit Grünordnung Nr. 1980 - Hansjakobstraße (nördlich), Rosssteinstraße (östlich), Hohenburgstraße (südlich) - (Teiländerung des Beb. Plan Nr. 26) A) Bericht über das Ergebnis des Planungsworkshops B) Weiteres Vorgehen
+- TOP 4.1.1.2.: Bebauungsplan mit Grünordnung Nr. 1980 - Hansjakobstraße (nördlich), Rosssteinstraße (östlich), Hohenburgstraße (südlich) - (Teiländerung des Beb. Plan Nr. 26) - Bürgerversammlungsempfehlung vom 09.03.2006
+- TOP 4.1.1.3.: Raumordnungsverfahren für eine 3. Start- und Landebahn des Verkehrsflughafens München; Einleitung des Verfahrens und Anhörungsverfahren ? Stellungnahme der Landeshauptstadt München
+- TOP 4.1.1.4.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 ? - Ziel B II 1.2.1.2 (Einzelhandelsgroßprojekte) - Ziel B V 1.6.2 (Trassenkorridor für Schnellbahnverbindung) - Ziel B V 1.6.5 (Nutzung Sonderflughafen Oberpfaffenhfn. d. Geschäftsreiseflugverkehr)
+- TOP 4.1.1.5.: Wohnen in München IV Wohnungspolitisches Handlungsprogramm 2007-2011 a) Aktualisierung der Beiträge zur Sozialgerechten Bodennutzung SOBON (Ziffer2) - Antrag Nr. 02-08 / A 02572 von Herren StRäten Schmid, Brannekämper vom 22.07.05 b) Auswirkungen des Koalitionsvertrages auf den Münchner Wohnungsmarkt - Antrag Nr. 02-08 / A 02788 von StRinnen Lindner-Schädlich, Tausend, Walter vom 13.12.2005 c) Wohnen in München IV - Wohnungsbau in München weiter sichern - Antrag Nr. 02-08 / A 03212 von Herren StRäten Schmid, Brannekämper, Zöller vom 25.08.2006
+- TOP 4.1.1.6.: Auswirkungen von Brandschutzbestimmungen und Auflagen der Feuerwehr auf den Städtebau, die Grün- und Objektplanung
+- TOP 4.1.1.7.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.2.1.: Musternutzungsvertrag für kulturelle Einrichtungen
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Sportentwicklungsplan
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Haushaltsplan 2007 - Einzelplan 4 des Sozialreferates
+- TOP 4.4.2.: Haushaltskonsolidierung Feinkonzept 2006 Sonderkonsolidierung 2006 Grob- und Feinkonzept 2007 - 2011
+- TOP 4.4.3.: Haushaltsplan 2007 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen
+- TOP 4.4.4.: Haushaltsplan 2007 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen
+- TOP 4.4.5.: Haushaltsplan 2007 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.5.1.: Bescheid Kulti-Kids e.V.
+- TOP 4.5.2.: Bescheid Ludwig-Thoma-Realschule
+- TOP 4.5.3.: Bescheid Grundschule Berg am Laim
+- TOP 4.5.4.: Bezuschussung aus dem Budget des BA 14
+- TOP 4.5.5.: Arge Ökologie Berg am Laim ? Schreiben des Direktoriums
+- TOP 4.5.6.: Kinder- und Jugendtreff Zeugnerhof - Verwendungsnachweis
+- TOP 4.6: Sonstige
+- TOP 4.6.1.: Abbruchsanzeige Baumkirchner Straße
+- TOP 4.6.2.: Abbruchsanzeige Truderinger Straße
+- TOP 4.6.3.: Abbruchsanzeige St.-Veit-Straße
+- TOP 4.7: Baumschutz (2)
+- TOP 4.7.1.: Beseitigung von Gefahrenbäumen in der Sonnwendjochstraße
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.2.1.: Gesprächsrunde Bezirksausschüsse, Ausstellung ?Abschied vom Exil?, Vortrag ?Pro Bahn?, Informationsgespräch über die Bautätigkeit der GWG im Bereich Berg am Laim.
+- TOP 5.3: Sonstiges/Verschiedenes
