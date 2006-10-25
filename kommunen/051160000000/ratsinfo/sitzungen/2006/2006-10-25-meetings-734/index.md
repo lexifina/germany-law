@@ -1,0 +1,56 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2006-10-25T13:00:00+02:00
+- Ende: 2006-10-25T21:20:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/734
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/734
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022188.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Zur Kenntnis genommen
+- TOP 2: Ausschüüse Soz.A, JHA - Zur Kenntnis genommen
+- TOP 3: Umbesetzung von Ausschüssen - Einstimmiger Beschluss
+- TOP 4: Konferenz der Ratsmitglieder - Einstimmiger Beschluss
+- TOP 5: Machbarkeit Handels- u. Dienstleistungszentrum - Zur Kenntnis genommen
+- TOP 6: üpl./apl. Ausgaben 2006 - Kenntnisnahme
+- TOP 7: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 8: Hebesatz-Satzung - Zur Kenntnis genommen
+- TOP 9: Haushaltsplanentwurf 2006/2007; HH-Satzung, HSK - Zur Kenntnis genommen
+- TOP 10: Stellenplan 2006/2007 - Zur Kenntnis genommen
+- TOP 11: Laubenbaudarlehen 2006 - Einstimmiger Beschluss
+- TOP 12: Konzept Abfallsammelstellen - Zur Kenntnis genommen
+- TOP 13: Abstimmungsvereinbarung mit der DSD AG - Einstimmiger Beschluss
+- TOP 14: Abwasserbeseitigungskonzept 2007 - Einstimmiger Beschluss
+- TOP 15: Benennung einer Vertreterin der Stadt Mönchengladb - Einstimmiger Beschluss
+- TOP 16: Benennung einer Vertreterin der Stadt Mönchenglad - Einstimmiger Beschluss
+- TOP 17: Sanierung des Stadtbades Rheydt und des Schul- un - Einstimmiger Beschluss
+- TOP 18: Wahl Mitglied und Stellvertreter - Einstimmiger Beschluss
+- TOP 19: Rettungsdienstbedarfsplan - Zur Kenntnis genommen
+- TOP 20: Berufung von ständigen Mitgliedern - Einstimmiger Beschluss
+- TOP 21: Beckrath - Einstimmiger Beschluss
+- TOP 22: Förderschulen, Raumerweiterung - Einstimmiger Beschluss
+- TOP 23: Ordnungsbehördliche Verordnung Hockey WM usw. - Zur Kenntnis genommen
+- TOP 24: Schiedsamtsstellvertreterwahl - Einstimmiger Beschluss
+- TOP 25: Vertragsliche Regelung kath.Kindertageseinr. - Einstimmiger Beschluss
+- TOP 26: 1. Änderung von Teilbereichen des BP Nr. VII - Zur Kenntnis genommen
+- TOP 27: Bebauungsplan Nr. 656/III -Stadtbezirk Stadtmitte- - Einstimmiger Beschluss
+- TOP 28: Ausleitung des Bebauungsplanes Nr. 46/III - Zur Kenntnis genommen
+- TOP 29: Aufst. eines BP im Bereich des ehem. Stadttheaters - Zur Kenntnis genommen
+- TOP 30: Baumschutzsatzung - Zur Kenntnis genommen
+- TOP 31: Konzeption für den Kommunalen Ordnungsdienst - Zur Kenntnis genommen
+- TOP 32: Kommunaler Ordnungs- und Servicedienst - Zur Kenntnis genommen
+- TOP 33: Finanzbehörden in Mönchengladbach - Zur Kenntnis genommen
+- TOP 34: Lernmittelfreiheit in NRW - Zur Kenntnis genommen
+- TOP 35: Krankenhausplanung - Zur Kenntnis genommen
+- TOP 36: Stadtentwicklungsschwerpunkt Rheydt-Zentrum - Einstimmiger Beschluss
+- TOP 37: Nordpark - Zur Kenntnis genommen
+- TOP 38: Veranstaltungen im Sportpark (Nordpark) - Zur Kenntnis genommen
+- TOP 39: Änderung der Geschäftsordnung - Zur Kenntnis genommen
+- TOP 40: Keine Privatisierung der städtischen Kliniken GmbH - Zur Kenntnis genommen
+- TOP 41: Anfragen
