@@ -1,0 +1,53 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-10-26T15:00:00+02:00
+- Ende: 2006-10-26T18:00:00+02:00
+- Ort: extern
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1910
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1910
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111871.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111871.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111871.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift
+- TOP 4: Anfrage der FDP-Fraktion zur Kunst auf der Heinric - einstimmig beschlossen
+- TOP 5: Anfrage der Fraktionen von CDU und FDP zum Thema " - einstimmig beschlossen
+- TOP 6: Antrag der SPD-Fraktion zur Zukunft der Black Box
+- TOP 7: Zukünftige Programmgestaltung und Bespielung der B
+- TOP 8: Lange Nach der Quadriennale - einstimmig beschlossen
+- TOP 9: Beteiligung des Filmmuseums an der Gründung und Or - einstimmig beschlossen
+- TOP 10: Annahme der Schenkung der Skulptur "Reina Mariana" - einstimmig beschlossen
+- TOP 11: Düsseldorfer Kulturrucksack - einstimmig beschlossen
+- TOP 12: Ausstellung Spectacular Cities im NRW-Forum Kultur - einstimmig beschlossen
+- TOP 13: Förderung der denkmalgerechten Sanierung des Jacob - einstimmig beschlossen
+- TOP 14: Entwurf des Haushaltsplanes 2007, der Finanzplanun - einstimmig beschlossen
+- TOP 15: Antrag der Fraktionen von CDU und FDP zu den Haus - einstimmig beschlossen
+- TOP 16: Antrag der Fraktionen von CDU und FDP zu den Haus - mehrheitlich beschlossen
+- TOP 17: Antrag der Fraktionen von CDU und FDP zu den Haus - einstimmig beschlossen
+- TOP 18: Antrag der Fraktionen von CDU und FDP zu den Haus - einstimmig beschlossen
+- TOP 19: Antrag der Fraktionen von CDU und FDP zu den Haus - mehrheitlich beschlossen
+- TOP 20: Antrag der Fraktionen von CDU und FDP zu den Haus - mehrheitlich beschlossen
+- TOP 21: Antrag der SPD-Fraktion zum Haushalt 2007 - einstimmig beschlossen
+- TOP 22: Antrag der Fraktion Bündnis 90/Die Grünen zu den - mehrheitlich abgelehnt
+- TOP 23: Antrag der Fraktion Bündnis 90/Die Grünen zu den - mehrheitlich abgelehnt
+- TOP 24: Antrag der Fraktion Bündnis 90/Die Grünen zu den - mehrheitlich abgelehnt
+- TOP 25: Antrag der Fraktion Bündnis 90/Die Grünen zu den - mehrheitlich abgelehnt
+- TOP 26: Antrag der Fraktion Bündnis 90/Die Grünen zu den - mehrheitlich abgelehnt
+- TOP 27: Antrag der Fraktion Bündnis 90/Die Grünen zu den - mehrheitlich abgelehnt
+- TOP 28: Antrag der Fraktion Bündnis 90/Die Grünen zu den - einstimmig beschlossen
+- TOP 29: Freier Eintritt für Kinder und Jugendliche in die - einstimmig beschlossen
+- TOP 30: Verleihung des "Helmut-Käutner-Preises" 2007 - einstimmig beschlossen
+- TOP 31: Bericht der Stadtbüchereien zur kinder- und jugend - einstimmig beschlossen
+- TOP 32: NRW Landesprogramm "Kultur und Schule" - einstimmig beschlossen
+- TOP 33: Sonderzuschüsse für Projekte 2006 - einstimmig beschlossen
+- TOP 34: Beirat für bildende Kunst (Sitzung 18.10.2006) - einstimmig beschlossen
+- TOP 35: Beirat für Tanz und Theater (Sitzung 19.10.2006) - einstimmig beschlossen
+- TOP 36: Eurocities: Forum for Young Citizens & EYE-Festiva - einstimmig beschlossen
