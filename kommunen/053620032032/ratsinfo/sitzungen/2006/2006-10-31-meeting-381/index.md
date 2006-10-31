@@ -1,0 +1,55 @@
+# Stadtrat (16. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2006-10-31T17:02:00+01:00
+- Ende: 2006-10-31T20:34:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSM4by6XxtJ0KkYahXXoNO0
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/381
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVL90d44MYB6IU0AFyXogz6fCP2i2jVwLjTsiblHta_r/Bekanntmachung_Stadtrat_31.10.2006.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZf5Z0JNB2-iaGvP1ByNAvgA0UPHU0Ve7uCanNHP_CFdz/Oeffentliche_Niederschrift_Stadtrat_31.10.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Arbeit der Volkshochschule Bergheim hier: Vortrag der VHS-Leiterin Dr. Ute Bermann-Klein
+- TOP 2.: Bereitstellung von Wohnungen für sozial schwache Bevölkerungsschichten Verkauf von Wohnungen der Erftland Wohnungsbaugesellschaft
+- TOP 3.: Neue Straßenreinigungssatzung ab 01.01.2007
+- TOP 4.: Stadtentwicklung und Bauleitplanung
+- TOP 4.1: Bebauungsplan KE 10, 3. Änderung "Neustraße", Stadtteil Kerpen hier: Satzungsbeschluss
+- TOP 4.2: Aufhebungsverfahren zum Durchführungsplan MÖ Nr.1, Stadtteil Mödrath, hier: Satzungsbeschluss
+- TOP 4.3: Bebauungsplan HO 183/2. Änderung " Am Wahlenpfad ", Stadtteil Horrem - Offenlegungsbeschluss
+- TOP 4.4: Bebauungsplan HO 294/1.Änderung " Bahnhofsvorplatz ", Stadtteil Horrem, hier: Aufstellungsbeschluss
+- TOP 4.5: Erweiterung des gem. § 142 (4) BauGB förmlich festgesetzten Sanierungsgebietes (vereinfachtes Verfahren) Horrem-Mitte
+- TOP 4.6: Bebauungsplan Tü 246/ 2. Änd. -Gewerbe-/ Industriegebiet III- im Stadtteil Kerpen-Türnich hier: Satzungsbeschluss
+- TOP 4.7: Bebauungsplan SI 228 C "Goethestraße ", Stadtteil Sindorf - Offenlegungsbeschluss
+- TOP 4.8: Verwertung von Flächen im Europarc Sindorf, am Waldweg in Horrem und im Bereich Falder/ Bürrig in Kerpen
+- TOP 4.8.1: Städtebauliches Konzept Kerpen Falder/Bürrig
+- TOP 5.: Abschluss einer Verwaltungsvereinbarung mit dem Landesbetrieb Straßenbau NRW über die Übernahme von abgestuften Teilen der B 477 zwischen Kreisverkehrsplatz B 477neu/B 477alt und der Ortslage Blatzheim im Zuge der Neubaumaßnahme B 264n und B 477n OU Blatzheim
+- TOP 6.: Konzept zur Entschuldung der Stadt Kerpen hier: Antrag der UWG-Fraktion
+- TOP 7.: Jahresrechnung 2005
+- TOP 8.: Überplanmäßige Bereitstellung von Haushaltsmitteln auf der Haushaltsstelle "Vergütung an Reinigungsunternehmen" 1.210.5405 für das Haushaltsjahr 2007
+- TOP 9.: Bekanntgabe der unerheblichen über- und außerplanmäßigen Ausgaben gem. § 82 Abs. 1 GO NW in der Zeit vom 01.01. bis 30.09.2006
+- TOP 10.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 11.: Mitteilungen
+- TOP 11.1: Umgestaltung des "Papsthügels" auf dem Marienfeld
+- TOP 11.2: Solaranlagen auf Dächern städtischer Gebäude
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 12.1: 1. Kerpener Unternehmerinnen-Tag
+- TOP 12.2: Mögliche Befangenheit der Stadtverordneten Horsthemke
+- TOP 12.3: Zuschuss an den Hospizverein Kerpen
+- TOP 13.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 14.: Gewerbe- und Industriegebiet Ville, Türnich 3, Verlängerung der Kooperation mit der RWE Power AG, hier: Abschluss einer 2. Zusatzvereinbarung zum Nachtrag vom 16.12.1998 zur Rahmen-vereinbarung vom 06.10.1994
+- TOP 14.1: Grundstückspreis im Vogelrutherfeld, 1. Bauabschnitt hier: Einspruch gegen den Beschluss des Ausschusses für Stadtplanung und Verkehr vom 17.10.2006
+- TOP 14.1.1: Grundstückspreis im Vogelrutherfeld, 1. Bauabschnitt; Drs.-Nr. 46.06
+- TOP 15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.1: Ernennung eines Stadtverwaltungsdirektors zum Leitenden Direktor
+- TOP 16.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 17.: Mitteilungen
+- TOP 18.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.1: "Papsthügel" auf dem Kerpener Marienfeld
+- TOP 18.2: Dachrenovierung Schloss Türnich
