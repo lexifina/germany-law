@@ -10,8 +10,12 @@ Allgemeines Kostenverzeichnis:
 101 | Verwaltungsverfahren | 
 101.00 | Gewährung von Akteneinsicht bei der aktenführenden Behörde | gebührenfrei
  | Anmerkung zu 101.00: | 
- | Wird die Akteneinsicht in Form der Herstellung von Abschriften, Ablichtungen, Vervielfältigungen und Negativen gewährt, werden Gebühren nach 101.01 oder 101.02 erhoben. | 
-101.01 | Anfertigung von Ablichtungen, Vervielfältigungen und Negativen | je angefangene Seite 0,75 Euro
+ | Wird Akteneinsicht in Form der Herstellung von Abschriften, Vervielfältigungen und Negativen gewährt, werden Gebühren nach 101.01 und 101.02 erhoben. | 
+ | Wird Akteneinsichtnahme nach dem Bremer Informationsfreiheitsgesetz (BremIFG) beantragt, werden Gebühren nach der Gebührenordnung zum BremIFG erhoben. | 
+101.01 | Anfertigung von Ablichtungen, Vervielfältigungen und Negativen (schwarz/weiss) | 0,75 Euro
+ | je Farbkopie im Format DIN A4 | Zuschlag 0,25 Euro
+ | je Farbkopie im Format DIN A3 | Zuschlag 0,40 Euro
+ | Bei Kopien anderer Formate oder Drucken in aufwändigeren Druckverfahren (z.B. Plotterverfahren) | nach tatsächlichem Aufwand
 101.02 | Anfertigung von Abschriften | je angefangene Seite 4,00 Euro
 101.03 | Amtliche Beglaubigung von Abschriften, Ablichtungen, Vervielfältigungen und Negativen | je angefangene Seite 1,90 Euro ab Seite 6 0,38 Euro
  | Anmerkungen zu 101.03: | 
@@ -34,7 +38,7 @@ Allgemeines Kostenverzeichnis:
 101.14 | Erfolgloser Antrag auf Wiederaufgreifen des Verfahrens | 39,50 Euro
 101.15 | Schriftliche Auskünfte schwieriger Art | 11,50 Euro bis 115,00 Euro
 102 | Verwaltungszwang | 
-102.00 | Erteilung eines Ge- oder Verbotes sowie Androhung von Zwangsmitteln nach den §§ 11 und 17 BremVwVG oder entsprechenden anderen Rechtsvorschriften | gebührenfrei
+102.00 | Erteilung eines Ge- oder Verbotes sowie Androhung von Zwangsmitteln nach den §§ 11 und 17BremVwVG oder entsprechenden anderen Rechtsvorschriften | gebührenfrei
 102.01 | Tatbestand nach 102.00 nach erfolgter vergeblicher Anmahnung des Tuns, Lassens oder der Duldung | 28,70 Euro bis 575,00 Euro
 102.02 | Festsetzung von Zwangsgeld und der Kosten für vorher schriftlich angedrohte Ersatzvornahme nach dem BremVwVG | 5 v.H. des festgesetzten Zwangsgeldes bzw. der Aufwendungen für die Ersatzvornahme mindestens 19,50 Euro
 102.03 | Anordnen einer vorher nicht schriftlich angedrohten Ersatzvornahme nach §§ 15 und 19 BremVwVG oder entsprechenden anderen Rechtsvorschriften im Zusammenhang mit verbotswidrig abgestellten Fahrzeugen (z.B. Abschleppen bei Halteverboten) | 55,00 Euro
@@ -51,9 +55,11 @@ Allgemeines Kostenverzeichnis:
  | für einen Beamten des einfachen Dienstes oder Angestellten bzw. Arbeiter in vergleichbarer Vergütungs- bzw. Lohngruppe | 21,00 Euro
 103.01 | Gemeinkostenzuschlag für Weiterberechnung von verauslagten Rechnungen | 10 % des geprüften Nettorechnungsbetrages
 103.02 | Gemeinkostenzuschlag für Lagermaterial | 20 % des Nettorechnungsbetrages
-103.03 | Einsatzstunde Kleintransporter | 20,50 Euro
-103.04 | Einsatzstunde Spezialfahrzeuge und Geräte | Einzelfallberechnung
+103.03 | - aufgehoben - | 
+103.04 | - aufgehoben - | 
 104 | Aktenversendung bzw. -aushändigung | 
-104.00 | Aktenversendung oder -aushändigung zur Akteneinsicht im Verwaltungsverfahren, im Bußgeldverfahren und aus sonstigen Gründen, ohne Portoauslagen | je Sendung 10,60 Euro
-104.01 | Aktenversendung oder -aushändigung zur Akteneinsicht im Verwaltungsverfahren, im Bußgeldverfahren und aus sonstigen Gründen, einschl. pauschalierter Portoauslagen | je Sendung 15,30 Euro
-104.02 | Aktenversendung oder -aushändigung zur Akteneinsicht im Bußgeldverfahren an den Verteidiger des Betroffenen | gebührenfrei
+104.00 | Aktenversendung oder -aushändigung zur Akteneinsicht im Verwaltungsverfahren und aus sonstigen Gründen ohne Portoauslagen | je Sendung 10,60 Euro
+104.01 | Aktenversendung oder -aushändigung zur Akteneinsicht im Verwaltungsverfahren und aus sonstigen Gründen einschl. pauschalierter Portoauslagen | 
+ | Anmerkung zu 104.00 und 104.01: | 
+ | Im Bußgeldverfahren gelten die Regelungen des Gesetzes über Ordnungswidrigkeiten. | je Sendung 15,30 Euro
+104.02 | - aufgehoben - | 
