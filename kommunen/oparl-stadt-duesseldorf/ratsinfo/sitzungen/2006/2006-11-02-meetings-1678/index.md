@@ -1,0 +1,51 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-11-02T16:00:00+01:00
+- Ende: 2006-11-02T19:15:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1678
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1678
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111925.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111925.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111925.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 14.09.2006 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: B-Plan Nr. 6274/023 - Breidenplatz - einstimmig beschlossen
+- TOP 5: BPl6274/24-Am Pfaffenbusch-Auf.AbsÖB,öff.Ausl. - einstimmig beschlossen
+- TOP 6: Baumfällungen Gewässerdurchlass Krippstraße - mehrheitlich beschlossen
+- TOP 7: Kamper Weg - Haltverbot - einstimmig beschlossen
+- TOP 8: Vorstellung CITO - Sprachtest - zur Kenntnis genommen
+- TOP 9: Trödelmärkte Königsberger Straße 1. Halbjahr 2007 - einstimmig beschlossen
+- TOP 10: Bauunterhalt an städtischen Einrichtungen - einstimmig beschlossen
+- TOP 11: Zuschüsse der Bezirksvertretung 8 im Jahre 2006 - mehrheitlich beschlossen
+- TOP 12: Islamistische Organisationen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 13: Verkehrs- und Parksituation Bereich Harffstraße - zur Kenntnis genommen
+- TOP 14: Postverteilstelle GGS Vennhauser Allee - zur Kenntnis genommen
+- TOP 15: Endhaltestelle Am Pflanzkamp - zur Kenntnis genommen
+- TOP 16: Abenteuerspielplatz Eller, Spielhaus - zur Kenntnis genommen
+- TOP 17: Beflaggung öffentlicher Gebäude im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 18: Öffnungszeiten und Auflagen bei Jahrmärkten - zur Kenntnis genommen
+- TOP 19: OSD - Einsatz im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 20: Busspur Schlossallee - einstimmig beschlossen
+- TOP 21: Grundstück Büllenkothenweg / Am Pflanzkamp - einstimmig beschlossen
+- TOP 22: Verkehrsspiegel Hohenfriedbergstraße - einstimmig beschlossen
+- TOP 23: Fuß- und Radweg enlang der Düssel - mehrheitlich beschlossen
+- TOP 24: Projekt 'Lesen an Grundschulen'
+- TOP 25: Geschwindigkeitsbegrenzung - einstimmig beschlossen
+- TOP 26: Fußwege Grünanlage Chemnitzer Str. / Zwickauer Str - mehrheitlich beschlossen
+- TOP 27: Einbahnstraßenregelung Am Krahnap - mehrheitlich beschlossen
+- TOP 28: Zaunanlage Wasserspielplatz Schlosspark Eller - einstimmig beschlossen
+- TOP 29: Anlaufstelle des OSD - mehrheitlich beschlossen
+- TOP 30: OSD - Einsatz im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 31: Ausstellungsraum im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 32: Grünfläche am Hasseler Richtweg - zur Kenntnis genommen
+- TOP 33: Sitzungstermine der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 34: Schadstoffmobil in Unterbach - zur Kenntnis genommen
