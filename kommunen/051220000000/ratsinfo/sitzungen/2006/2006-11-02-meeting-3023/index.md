@@ -1,0 +1,52 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2006-11-02T00:00:00+01:00
+- Ende: 2006-11-02T01:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZREPeOOcIdnkK6L67X-Unp8
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3023
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZToCeV-RMKEAXiTwDH_trBTrJHUepc2wbqQN5aGd11Ks/Oeffentliche_Niederschrift_Rat_02.11.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NW
+- TOP 2: Protokoll
+- TOP 3: Umbesetzung von Ausschüssen und Gremien
+- TOP 4: Anpassung der Sitzungsfrequenz von Ausschüssen
+- TOP 5: Zustimmung zu Mehrausgaben gemäß § 82 GO NW
+- TOP 6: Zustimmung zu Mehrausgaben gemäß § 82 GO NW
+- TOP 7: Einbringung NKF-Pilothaushalt 2007
+- TOP 8: Übertragung einzelner Grundstücke vom VBS auf die Kernverwaltung
+- TOP 9: Übertragung einzelner Grundstücke vom VBS auf die Kernverwaltung
+- TOP 10: Anlage- bzw. Nutzungsmöglichkeiten der Rückstellungen aus dem RWE-Vergleich
+- TOP 11: Informierung des Rates über Solingen betreffende Entscheidungen
+- TOP 12: Nachtragswirtschaftsplan des Vermögensbetriebes Solingen für das Jahr 2006
+- TOP 13: Jahresabschluss 2005 der EntsorgungsBetriebe Solingen
+- TOP 14: Kommunales Wahlrecht für Ausländer
+- TOP 15: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 16: Konzeption zur Bekämpfung der Langzeitarbeitslosigkeit
+- TOP 17: Prüfauftrag an die Verwaltung
+- TOP 18: Aktionsprogramm “Nachhaltige Entwicklung in Solingen”
+- TOP 19: Aktionsprogramm “Nachhaltige Entwicklung in Solingen”
+- TOP 20: Öffentlich-rechtlicher Vertrag zwischen der Stadt Solingen
+- TOP 21: Ergänzung des Beirats bei der Unteren Landschaftsbehörde
+- TOP 22: Verschiedenes
+- TOP 23: Verpflichtung der Stadt zur Betreuung von Kindern unter 3 Jahren
+- TOP 24: EDV-Vertrag mit dem Zweckverband Kommunales Rechenzentrum Niederrhein (KRZN)
+- TOP 25: Auswirkungen der Kürzungen der Landesmittel für die Weiterbildung
+- TOP 26: Zuordnung der Grundschule Schützenstraße zum Stadtbezirk Mitte
+- TOP 27: Ausbildungssituation in der Stadtverwaltung Solingen bzw. in den Betrieben
+- TOP 28: Ausbildungssituation in der Stadtverwaltung Solingen bzw. in den Betrieben
+- TOP 29: Anfrage des Ratsmitgliedes Knoche in der Ratssitzung am 14.09.2006
+- TOP 30: Ausstellung von Vorkaufsrechtszeugnissen bei der Stadt Solingen
+- TOP 31: Baumpflanzungen zu besonderen Anlässen
+- TOP 32: Über- und außerplanmäßige Ausgaben im 3. Quartal 2006
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NW
+- TOP 2: Protokoll
+- TOP 3: Verschiedenes
