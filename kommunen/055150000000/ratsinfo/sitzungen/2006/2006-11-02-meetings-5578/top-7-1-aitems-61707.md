@@ -1,0 +1,8 @@
+# TOP 7.1: Verbesserungen an Haltestellen im Stadtgebiet - Programm 2007
+
+- Sitzung: Sitzung (2006-11-02)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/61707
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/34777
