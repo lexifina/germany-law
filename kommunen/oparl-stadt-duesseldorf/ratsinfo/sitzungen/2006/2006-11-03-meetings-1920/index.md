@@ -1,0 +1,61 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-11-03T16:00:00+01:00
+- Ende: 2006-11-03T00:00:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1920
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1920
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111699.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111699.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111699.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Informationsvorlage: Harffstraße - zur Kenntnis genommen
+- TOP 6: Bericht über die zukünftige Verkehrsführung - zur Kenntnis genommen
+- TOP 7: Benrather Marktplatz - zur Kenntnis genommen
+- TOP 8: Antrag: Umgestaltung Benrather Marktplatz - zur Kenntnis genommen
+- TOP 9: Haltverbot Benrather Schlossallee - zur Kenntnis genommen
+- TOP 10: Trödelmärkte Bayreuther Straße - zur Kenntnis genommen
+- TOP 11: Trödelmäarkte Spangerstraße - zur Kenntnis genommen
+- TOP 12: Festlegung von Sitzungsterminen für das Jahr 2007 - zur Kenntnis genommen
+- TOP 13: Anfrage: Gewerbliche und industrielle Situation - zur Kenntnis genommen
+- TOP 14: Anfrage: Sachstandsbericht Park & Ride - zur Kenntnis genommen
+- TOP 15: Anfrage: Speditionsgelände Benrodestraße - zur Kenntnis genommen
+- TOP 16: Anfrage: Umsetzung Änderung Lichtzeichenanlage - zur Kenntnis genommen
+- TOP 17: Anfrage: Flächennutzung Recyclinghof - zur Kenntnis genommen
+- TOP 18: Antrag:Recyclinghof an der Hildener Straße - zur Kenntnis genommen
+- TOP 19: Antrag: Sicherung Fahrradständer - zur Kenntnis genommen
+- TOP 20: Antrag: Kita Lummerland - zur Kenntnis genommen
+- TOP 21: Antrag: Gefahrenstelle am nördlichen Ende - zur Kenntnis genommen
+- TOP 22: Antrag: Linksabbiegespur Hildener Straße vor Einsi - zur Kenntnis genommen
+- TOP 23: Antrag: Fußgängerüberweg Friedhofstraße - zur Kenntnis genommen
+- TOP 24: Anrag: Erhalt der LEG-Wohnungen - zur Kenntnis genommen
+- TOP 25: Antrag: Erweiterung Anwohnerparken - zur Kenntnis genommen
+- TOP 26: Antrag: Betriebsschließung Stora Enso Reisholz - zur Kenntnis genommen
+- TOP 27: Verfügungsmittel: Allgemeiner Bürgervwerein Urden - zur Kenntnis genommen
+- TOP 28: Verfügungsmittel: Freundeskreis Museum für Naturku - zur Kenntnis genommen
+- TOP 29: Verfügungsmittel: Spielgeräte auf KSP - zur Kenntnis genommen
+- TOP 30: Verfügungsmittel: Pfarrgemeinderat Itter/Holthause - zur Kenntnis genommen
+- TOP 31: Verfügungsmittel: Offene Tür Wersten - zur Kenntnis genommen
+- TOP 32: Verfügungsmittel: Freundeskreis der EHK - zur Kenntnis genommen
+- TOP 33: Verfügungsmittel: AWO - zur Kenntnis genommen
+- TOP 34: Verfügungsmittel: Freundeskreis EHK - zur Kenntnis genommen
+- TOP 35: Verfügungsmittel: Reisholzer Quatschköpp e. V. - zur Kenntnis genommen
+- TOP 36: Verfügungsmittel: Biologische Station - zur Kenntnis genommen
+- TOP 37: Verfügungsmittel: Chor Gaudete - zur Kenntnis genommen
+- TOP 38: Verfügungsmittel für die Initiative zur Beleuchtun - zur Kenntnis genommen
+- TOP 39: Verfügungsmittel: Chor Himmelgeist - zur Kenntnis genommen
+- TOP 40: Verfügungsmittel: St. Sebastianus Schützenverein R - zur Kenntnis genommen
+- TOP 41: Zuschuss für eine kulturelle Veranstaltung - zur Kenntnis genommen
+- TOP 42: Zuschuss für eine kulturelle Veranstaltung - zur Kenntnis genommen
+- TOP 43: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44: Verfügungsmittel: Grundschule Schloss Benrath - zur Kenntnis genommen
