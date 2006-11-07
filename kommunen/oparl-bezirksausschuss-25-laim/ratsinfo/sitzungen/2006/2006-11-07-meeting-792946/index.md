@@ -1,0 +1,73 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2006-11-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/792946
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/792946
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Baustelle Landsberger Straße / Ecke Mitterhofstraße; Verschmutzung im Bereich Friedenheimer Brücke und Lautensackstraße
+- TOP 1.2.2.: Verbesserung des Verkehrsflusses von der Autobahnausfahrt Laim ( A 96 ) in östlicher Richtung zur Fürstenrieder Straße
+- TOP 2: Anträge
+- TOP 2.1.: Beibehaltung der einspurigen Verkehrsführung in der Agnes-Bernauer-Straße stadteiwärts ( Vertagung aus der BA - Sitzung vom 12.09.06 )
+- TOP 2.2.: Änderung der Radwegmarkierung in Höhe der Trambahnhaltestelle Agnes - Bernauer - Straße / Fürstenrieder Straße ( Vertagung aus der BA - Sitzung vom 12.09.06 )
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Bestellung städtischer Leistungen für die Aufstellung einer Bewegungsinsel aus dem Budget des BA 25
+- TOP 3.2.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 2.500 Euro für 4. Laimer Faschingstreiben am 17.02.06; Antragsteller: Faschingsclub Laim e. V.
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Planungsreferat vom 10.10.06: Bebauungsplan Nr. 1963, Fürstenrieder Str. 21 ( Teiländerung des Beb.Plan Nr. 425 a )
+- TOP 4.2.: Schreiben Baureferat vom 20.10.06: Flohmarkt am 24.03. 07 und 29.09.07 auf dem Hogenbergplatz
+- TOP 4.3.: Schreiben Baureferat vom 19.10.06: Flohmarkt auf dem Hogenbergplatz am 21.04.07 und 13.10.07
+- TOP 5: Baumfällungen
+- TOP 5.1.: Rappstr. 1: 1 Weide
+- TOP 5.2.: Kirchmairstr. 26: 1 Robinie
+- TOP 5.3.: Landsberger Str. 215: 1 Rotbuche
+- TOP 5.4.: Berchemstr. 95: 2 Fichten und 1 Duglasie
+- TOP 5.5.: Vohburger Str. 5: 1 Tanne
+- TOP 5.6.: Lutzstr. 9 11: 2 Buchen und 2 Kiefern
+- TOP 6: Baumfällungen in Verbindung mit Bauvorhaben (Baumbestandsplan)
+- TOP 7: Bauvorhaben
+- TOP 7.1.: Gotthardstr. 53: Neubau eines Geschäftshauses mit Büro- und Ladennutzung ( Gotthardstr. 53 / Fürstenrieder Str. 70 ) / Tektur
+- TOP 8: Sonstiges
+- TOP 9: Protokolle
+- TOP 9.1.: Ergebnisprotokoll der Begehung Spiel - und Parkflächen Käthe - Bauer - Weg vom 21.09.06
+- TOP 9.2.: Protokoll der BA - Sitzung vom 17.10.06
+- TOP 10: Umlauf
+- TOP 10.1.: Schreiben Rettungszweckverband München vom 15.10.06: Notarztwache am Klinikum Pasing ( Schreiben BA vom 04.10.06 )
+- TOP 10.2.: Schreiben Direktorium vom 06.10.06: Ablehnung einer beantragten Zuwendung aus dem Budget; Antragsteller: Regsam 25
+- TOP 10.3.: Schreiben Direktorium vom 06.10.06: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Familienzentrum Laim
+- TOP 10.4.: Schreiben Direktorium vom 06.10.06: Bewilligung einer Zuwendung aus dem Budget; Antragsteller: Stützpunkt und Beratung für Jugendliche ( Stüps )
+- TOP 10.5.: Schreiben Münchner Stadtentwässerung vom 11.09.06: Rohrkanalsanierung 2007, Teil 1; Projektgenehmigung
+- TOP 10.6.: Schreiben Planungsreferat vom 20.10.06: Geigerstr. 11; Fällungsgenehmigung
+- TOP 10.7.: Schreien Planungsreferat vom 20.10.06: Ofener Str. 17; Fällungsgenehmigung
+- TOP 10.8.: Schreiben Planungsreferat vom 20.10.06: Agnes-Bernauer-Str. 86; Fällungsgenehmigung
+- TOP 10.9.: Schreiben Planungsreferat vom 20.10.06: Ostendorferweg 6; Fällungsgenehmigung
+- TOP 10.10.: Schreiben Planungsreferat vom 20.10.06: Berchemstr. 37; Fällungsgenehmigung
+- TOP 10.11.: Schreiben Planungsreferat vom 20.10.06: Agnes - Bernauer - Platz 4; Fällungsgenehmigung
+- TOP 10.12.: Schreiben Planungsreferat vom 16.10.06: Bauvorhaben Flantinstr. 12; Neubau eines Mehrfamilienhauses mit TG ( 12 WE )
+- TOP 10.13.: Bautenliste vom 25.09. - 08.10.06 1. Erstantragsverfahren a ) Fürstenrieder Str. 53 2. Änderungsverfahren a ) Gotthardstr. 53 b ) Landsberger Straße c ) Berchenstr. 79
+- TOP 10.14.: Bautenliste vom 09.10. - 15.10.06 1. Erstantragsverfahren a ) Landsberger Str. 180 2. Änderungsverfahren a ) Haslangstr. 44 b ) Byecherstr. 31 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a ) Camerloherstr. 54 b ) Geigerstr. 16
+- TOP 10.15.: Schreiben Stadtwerke München GmbH vom 09.10.06: Baumaßnahmen der Stadtwerke; Stichtag: 09.10.06
+- TOP 10.16.: Schreiben KVR vom 12.10.06: Anmeldung einer Versammlung unter freiem Himmel am 16.10., 23.10. und 30.10.06 Wotan - / Ecke Landsberger Straße
+- TOP 10.17.: Schreiben BA 7 Sendling - Westpark vom 20.10.06: Gestaltung der Schwimmbadeintrittspreise für Kinder, Jugendliche und Familien
+- TOP 10.18.: Schreiben BA 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln vom 12.10.06: Erhalt der BaumschutzVO
+- TOP 10.19.: Schreiben BA 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln vom 16.10.06: Betriebliche Änderungen für den Sonderflughafen Oberpfaffenhofen
+- TOP 10.20.: Schreiben BA 21 Pasing - Obermenzing vom 16.10.06: Projekt München Sozial, Erstellung eines interaktiven Stadtteilführers; Antrag auf Zuschuss aus dem Budget des BA 21
+- TOP 10.21.: Schreiben BA 21 Pasing - Obermenzing vom 16.10.06: Betriebliche Änderungen für den Sonderflughafen Oberpfaffenhofen; Antrag des Flughafenbetreibers vom 10.08.06
+- TOP 10.22.: Bekanntgabe in der Sitzung des Kulturausschusses vom 28.09.06: Musternutzungsvertrag für kulturelle Einrichtungen ( Sitzungsvorlagen Nr. 02 - 08 / V 08619 )
+- TOP 10.23.: Beschluss des Sportausschusses vom 04.10.06: Sportentwicklungsplan ( Sitzungsvorlagen Nr. 02 - 08 / V 08744 )
+- TOP 10.24.: Beschluss der Vollversammlung vom 05.10.06: Magnetschwebebahn ( MSB ) München Hauptbahnhof - Flughafen; Sicherheitsproblematik ( Sitzungsvorlagen Nr. 02 - 08 / V 08928 )
+- TOP 10.25.: Beschluss des Verwaltungs - und Personalausschusses vom 18.10.06: Einrichtung einer Schiedsstelle bei kommunalverfassungsrechtlichen Streitigkeiten zwischen BAs und Stadt ( Sitzungsvorlagen Nr. 02-08 / V 08890 )
+- TOP 10.26.: Beschluss der Vollversammlung vom 25.10.06: Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 ( Sitzungsvorlagen Nr. 02 - 08 / V 08932 )
+- TOP 10.27.: Stadtjugendamt Jahresbericht 2005
+- TOP 10.28.: Schreiben Planungsreferat vom 12.10.06: Dokumentation des Stadtratshearings " Demographischer Wandel und familienfreundliche Großstadt "
+- TOP 10.29.: Schreiben OB Ude vom 29.09.06: Da sein für München - 7.10.06
+- TOP 10.30.: Schriftverkehr aus der BA - Sitzung vom 17.10.06
