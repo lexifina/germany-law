@@ -1,0 +1,8 @@
+# TOP 9: Annahme einer Schenkung - Mahn- und Kunstprojekt "Stolpersteine"
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Oberbarmen (2006-11-07)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/30349
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/14448
