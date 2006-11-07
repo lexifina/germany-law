@@ -1,0 +1,55 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2006-11-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/966425
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/966425
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeiner Teil
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 10.10.06
+- TOP 2: Anträge
+- TOP 2.1.: Gemüseverkaufsstand Machtlfingerstraße
+- TOP 2.2.: Erhalt der Baumschutzverordnung
+- TOP 2.3.: Flugverbot über München und Änderungen für den Sonderflughafen Oberpfaffenhofen
+- TOP 2.4.: Gestaltung der Schwimmbadeintrittspreise für Kinder, Jugendliche und Familien
+- TOP 2.5.: Zukunft des Bürgersaals
+- TOP 3: Unterauschuss Budget
+- TOP 3.1.: ASZ Emil-Geis-Straße
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Besichtigung des Forstenrieder Parks
+- TOP 5: Unterauschuss Verkehr
+- TOP 5.1.: Ampelschaltung Herterichstr./Wolfratshauser Straße
+- TOP 5.2.: Entfernung von Pollern in der Filchnerstr. 44-50 / Goldhoferstr. 2 und 4
+- TOP 5.3.: Sanierung Hofmannstraße
+- TOP 5.4.: "Anträge Fertigstraße"
+- TOP 5.5.: Haltverbot Zielstattstraße
+- TOP 5.6.: Kurzparkzone Filchnerstraße
+- TOP 5.7.: Straßenzustand Filchnerstraße
+- TOP 5.8.: Kreuzungsbereich Siemensallee/Wolfratshauser Straße
+- TOP 5.9.: Erinnerungsverfahren
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Reflexion der Einwohnerversammlung vom 06.11.06
+- TOP 7: Entscheidungsfälle
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Fußweg am Alkorwerk
+- TOP 8.2.: Veranstaltung und geplante Errichtung einer Gastronomie mit Theaterbetrieb in der Kistlerhofstr. 70
+- TOP 8.3.: Gaststättenfortführung "Clubheim des Cowboyclubs München 1913 e.V."
+- TOP 8.4.: Christkindlmarkt am Fellererplatz
+- TOP 8.5.: Antrag auf Zweckentfremdung Melchiorstraße 7
+- TOP 8.6.: Antrag auf Zweckentfremdung Traubinger Str. 10
+- TOP 8.7.: Gaststättenfortführung "Pylion"
+- TOP 8.8.: Gastsättenfortführung "Goldstäbchen"
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
