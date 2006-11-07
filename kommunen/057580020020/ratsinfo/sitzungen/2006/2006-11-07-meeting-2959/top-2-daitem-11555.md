@@ -1,0 +1,8 @@
+# TOP 2.: 12. Änderungssatzung zur Gebührensatzung für die Musikschule der Gemeinde Kirchlengern vom 13.08.1992
+
+- Sitzung: Schul- und Kulturausschuss (8. Sitzung) (2006-11-07)
+- Körperschaft: Gemeinde Kirchlengern
+- Öffentlich: ja
+- OParl: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/11555
+- Ergebnis: einstimmig, 0 Enthaltung(en)
+- Beratung: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/4486
