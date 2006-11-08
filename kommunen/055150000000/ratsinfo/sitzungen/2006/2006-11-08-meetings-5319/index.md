@@ -1,0 +1,51 @@
+# 16. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-11-08T17:07:00+01:00
+- Ende: 2006-11-08T20:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5319
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5319
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00240852.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag A-R/0039/2006 der SPD-Fraktion vom 18.09.2006 "Münsteraner Integrationsoffensive - Internatio - einstimmig beschlossen
+- TOP 2.2: Antrag A R/0032/2006 der SPD-Fraktion und gemeinsamer Antrag A R/0034/2006 der CDU- u. FDP-Fraktion - einstimmig beschlossen
+- TOP 2.3: Antrag der Fraktion Bündnis 90/Die Grünen/GAL Nr. A-R/0028/2006 an den Rat "Förderbedarf statt Schül - einstimmig beschlossen
+- TOP 2.4: Antrag der Fraktion Bündnis 90/die Grünen/GAL Nr. A-R/0027/2006 an den Rat -11 Punkte- Programm für - einstimmig beschlossen
+- TOP 2.5: Antrag der CDU-Fraktion und der FDP-Fraktion an den Rat Nr. A-R/0035/2006 vom 01.09.2006 - einstimmig beschlossen
+- TOP 2.6: Antrag der Fraktion Bündnis 90/Die Gründen/GAL an den Rat der Stadt Münster Nr. A - R/0040/2006 - mehrheitlich beschlossen
+- TOP 2.7: Antrag der CDU-Fraktion und FDP-Fraktion an den Rat Nr. A-R/0029/2006 vom 14.08.2006 - einstimmig beschlossen
+- TOP 2.8: Antrag der SPD-Fraktion an den Rat Nr. A-R/0033/2006 vom 15.08.2006, - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 3: Neugliederung der Dezernate, Ausschreibung einer Beigeordnetenstelle - ohne Beschlussfassung geschoben
+- TOP 4: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2006 - mehrheitlich beschlossen
+- TOP 5: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 3. Vierteljahr - zur Kenntnis genommen
+- TOP 6: Mosaik-Schule, städt. Gemeinschaftsgrundschule, - ohne Beschlussfassung geschoben
+- TOP 7: Vorbereitung eines Organisations- und Betriebskonzeptes für die Bäderlandschaft in Münster - ohne Beschlussfassung geschoben
+- TOP 8: Vertragsverlängerung zur Teilübertragung von Sportfördermitteln mit dem Stadtsportbund Münster e. V. - von der Tagesordnung abgesetzt
+- TOP 9: Crossroads - Theaterpädagogisches Projekt zur beruflichen Orientierung junger Menschen - einstimmig beschlossen
+- TOP 10: Rolle der Stiftungen in der Bürgergesellschaft, Beschluss zu den Änderungsanträgen der CDU-Fraktion - einstimmig beschlossen
+- TOP 11: Service Learning - Ehrenamtliches Engagement in Schulen - ohne Beschlussfassung geschoben
+- TOP 12: Ausbau der Kindertagesbetreuungsangebote für Kinder unter drei Jahren (u3-Programm) - einstimmig beschlossen
+- TOP 13: Errichtungsbeschluss- Bauliche Erweiterung der städtischen Kindertageseinrichtung Hiltrup - West - einstimmig beschlossen
+- TOP 14: Teilnahme am Europäischen Wettbewerb "Entente Florale" - einstimmig beschlossen
+- TOP 15: Bauleitplanung
+- TOP 15.1: Stadtbezirk Mitte
+- TOP 15.1.1: Bebauungsplan Nr. 481 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 15.1.2: Bebauungsplan Nr. 480 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 15.1.3: Bebauungsplan Nr. 479 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 15.2: Stadtbezirk West
+- TOP 15.2.1: Bebauungsplan Nr. 508: Albachten - Osthofstraße / Sendener Stiege / Eckernstiege / Bahnlinie - einstimmig beschlossen
+- TOP 15.2.2: Bebauungsplan Nr. 409, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 15.3: Stadtbezirk Südost
+- TOP 15.3.1: 13. Änderung des Flächennutzungsplanes für den Bereich Angelmodde - einstimmig beschlossen
+- TOP 16: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 17: Verschiedenes
