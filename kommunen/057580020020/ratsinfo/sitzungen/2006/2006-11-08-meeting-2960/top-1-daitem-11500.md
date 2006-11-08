@@ -1,0 +1,6 @@
+# TOP 1.: Einführung und Verpflichtung eines Ausschussmitgliedes (ohne Vorlage)
+
+- Sitzung: Feuerwehrausschuss (3. Sitzung) (2006-11-08)
+- Körperschaft: Gemeinde Kirchlengern
+- Öffentlich: ja
+- OParl: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/11500
