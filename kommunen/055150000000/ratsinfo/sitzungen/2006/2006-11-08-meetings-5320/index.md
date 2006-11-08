@@ -1,0 +1,56 @@
+# 18. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-11-08T17:32:00+01:00
+- Ende: 2006-11-08T20:34:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5320
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5320
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00240980.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anfragen von Ratsmitgliedern
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 8: Neugliederung der Dezernate, Ausschreibung einer Beigeordnetenstelle - mehrheitlich beschlossen
+- TOP 9: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2006 - mehrheitlich beschlossen
+- TOP 10: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 3. Vierteljahr - zur Kenntnis genommen
+- TOP 11: Mosaik-Schule, städt. Gemeinschaftsgrundschule, - einstimmig beschlossen
+- TOP 12: Vorbereitung eines Organisations- und Betriebskonzeptes für die Bäderlandschaft in Münster - mehrheitlich beschlossen
+- TOP 13: Vertragsverlängerung zur Teilübertragung von Sportfördermitteln mit dem Stadtsportbund Münster e. V. - von der Tagesordnung abgesetzt
+- TOP 14: Crossroads - Theaterpädagogisches Projekt zur beruflichen Orientierung junger Menschen - einstimmig beschlossen
+- TOP 15: Rolle der Stiftungen in der Bürgergesellschaft, Beschluss zu den Änderungsanträgen der CDU-Fraktion - einstimmig beschlossen
+- TOP 16: Service Learning - Ehrenamtliches Engagement in Schulen - mehrheitlich beschlossen
+- TOP 17: Ausbau der Kindertagesbetreuungsangebote für Kinder unter drei Jahren (u3-Programm) - einstimmig beschlossen
+- TOP 18: Errichtungsbeschluss- Bauliche Erweiterung der städtischen Kindertageseinrichtung Hiltrup - West - einstimmig beschlossen
+- TOP 19: Teilnahme am Europäischen Wettbewerb "Entente Florale" - einstimmig beschlossen
+- TOP 20: Bauleitplanung
+- TOP 20.1: Stadtbezirk Münster-Mitte
+- TOP 20.1.1: Bebauungsplan Nr. 481 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 20.1.2: Bebauungsplan Nr. 480 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 20.1.3: Bebauungsplan Nr. 479 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 20.2: Stadtbezirk Münster-West
+- TOP 20.2.1: Bebauungsplan Nr. 508: Albachten - Osthofstraße / Sendener Stiege / Eckernstiege / Bahnlinie - einstimmig beschlossen
+- TOP 20.2.2: Bebauungsplan Nr. 409, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 20.3: Stadtbezirk Münster-Südost
+- TOP 20.3.1: 13. Änderung des Flächennutzungsplanes für den Bereich Angelmodde - einstimmig beschlossen
+- TOP 21: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 22: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 22.1: Planungssicherheit für die Eltern - Primat der Politik wahren - mehrheitlich abgelehnt
+- TOP 22.2: Resolution: Für eine verträgliche und finanzierbare Fortsetzung des Semestertickets - einstimmig geändert beschlossen
+- TOP 22.3: Resolution: Hier geboren - hier zuhause: Münster für ein Bleiberecht für langjährig hier lebende - einstimmig beschlossen
+- TOP 23: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 23.1: Münsters Schulen sanieren und bedarfsgerecht ausbauen - verwiesen
+- TOP 23.2: Beteiligungssteuerung verbessern - Sparpotenziale nutzen - verwiesen
+- TOP 23.3: Ein Haushalt für alle - Chancengleichheit bei der städtischen Ressourcenverteilung - verwiesen
+- TOP 23.4: Münster für alle: Preisgünstigen Wohnraum für Alt und Jung schaffen! - verwiesen
+- TOP 23.5: Parkverkehr am Hauptbahnhof ordnen - verwiesen
+- TOP 24: Verschiedenes
