@@ -1,0 +1,70 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2006-11-08T17:00:00+01:00
+- Ende: 2006-11-08T17:20:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=151
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=151
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=105&id=13661
+
+## Tagesordnung
+
+- TOP 1: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 1.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 1.2: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Vorlagen zur Wahl - erledigt
+- TOP 5.1: Wahl eines Mitgliedes für den Verwaltungsrat des Eigenbetriebes "Kindertagesstätten SüdOst" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl eines stellvertretenden Mitgliedes für den Verwaltungsrat des Eigenbetriebes "Kindertagesstätten SüdOst" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Wahl von Bürgerdeputierten gem. § 21 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2005 - überwiesen
+- TOP 6.2: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2005 - überwiesen
+- TOP 6.3: Genehmigung von über- und außerplanmäßigen Ausgaben im 1. Halbjahr 2006 - überwiesen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Straßenbenennung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Vorlagen zur Kenntnisnahme - Zwischenberichte - (offen)
+- TOP 8.1: Kennzeichnung von geeigneten Rundwegen für Laufbewegung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.2: Arabische Bibliothek - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.3: Keine Zentralisierung der Bibliotheken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9: Vorlagen zur Kenntnisnahme - Schlussberichte - (offen)
+- TOP 9.1: Keine Müllverbrennung in der Gradestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.2: Sanierung ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.3: Beleuchtungseinrichtungen am Venusplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.4: Nachtfahrverbot für LKW in der Waßmannsdorfer Chaussee - überwiesen
+- TOP 9.5: Mülleimer in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.6: Rauchmelder retten Leben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.7: Drängelgitter für Kindertagesstätte "Siebenstein" Wildmeisterdamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.8: Genehmigungsverfahren für Werbeanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.9: Sichere Überquerung des Neudecker Weges - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.10: Barrierefrei ins Nachbarschaftsheim - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.11: Gender Budgeting - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.12: Förderdauer ausschöpfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.13: Bebauungsplan XIV-289 vom 16.08.2004 ("Hobrechtstraße") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.14: Existenz der Markthändler erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.15: Management für vitale Geschäftsstraßen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.16: Straßen nach Frauen benennen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.17: Photovoltaikanlagen auf dem Dach der Otto-Hahn-Oberschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.18: "Beschleunigung" für den Bus M 41 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.19: Vergabe von Aufträgen durch die Bezirksämter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.20: Wir lichten den Schilderwald und beseitigen Gefahren - Wutzkyallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.21: Vereinsheime - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.22: Bebauungsplan XIV-207a vom 24.02.1998 mit den Deckblättern vom 28.05.2001 und 04.03.2004 "Andreas-Hermes-Siedlung" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.23: Wege für Radfahrer durch Grünanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.24: Parkmöglichkeiten für die Beförderung von Behinderten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.25: Geschwindigkeitsmessung vor der Christoph-Ruden-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.26: LZA-Phase Johannisthaler Chaussee/Rudower Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.27: Netzwerk Altenhilfe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.28: Zufahrt vereinfachen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.29: Bebauungsplan 8-4 vom 3. Januar 2003 mit dem Deckblatt vom 20. Januar 2004 und Deckblatt 2 vom 26. Juli 2005 (Neuköllnische Allee/Grenzallee) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.30: Bebauungsplan XIV-239b vom 12.1.2001 mit Deckblatt vom 30.8.2005 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.31: Bebauungsplan XIV-217 vom 24.5.1996 mit den Deckblättern vom 17.2.2003 und vom 14.7.2005 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.32: Wir lichten den Schilderwald und beseitigen Gefahrenstellen - Haltverbot Zadekstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.33: Aktuell und sachgerecht über Risiken der Vogelgrippe und Prävention informieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.34: Maueropfer im Internet angemessen würdigen - mit Abschlussbericht zur Kenntnis genommen
