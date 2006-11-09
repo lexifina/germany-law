@@ -1,0 +1,68 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-11-09T14:04:00+01:00
+- Ende: 2006-11-09T17:42:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1734
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1734
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111945.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111945.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111945.pdf
+
+## Tagesordnung
+
+- TOP 1: Verleihung eines Ehrenringes des Rates - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Anfragen - zur Kenntnis genommen
+- TOP 6: Anfrage der CDU: Mehrgenerationenha - zur Kenntnis genommen
+- TOP 7: Anfrage CDU: Einsatz von sog. Gigali - zur Kenntnis genommen
+- TOP 8: Anfrage Ratsfraktion Bü90/Grü: Veranstaltung - zur Kenntnis genommen
+- TOP 9: Anfrage zur Ratssitzung Bü/90 Grü: Vertei - zur Kenntnis genommen
+- TOP 10: Anfr. Rf Frey: Gleichstellung Behinderter - zur Kenntnis genommen
+- TOP 11: Anfr. FDP: Gebühren/Entgelte - zur Kenntnis genommen
+- TOP 12: Anfr. Kahl: Stadtverordnete / Nazi - zur Kenntnis genommen
+- TOP 13: Anfr. Ratsherr Yimbou: Wegfall von Arbeitsplätzen - zur Kenntnis genommen
+- TOP 14: Anfr. FDP: Personalausweis - zur Kenntnis genommen
+- TOP 15: Anfr. Rf Str-Zi: Burgplatz - zur Kenntnis genommen
+- TOP 16: Anfr. d. Rf. Deilmann: Sprachstandsfeststellung - zur Kenntnis genommen
+- TOP 17: Anträge - zur Kenntnis genommen
+- TOP 18: Interfr. Antrag: Wiederaufbau d. Skateranlage - einstimmig beschlossen
+- TOP 19: Antr. FDP/CDU: Einzug von Kiga-Beiträgen - Stand - - mehrheitlich beschlossen
+- TOP 20: ÄA d. SPD: Einzug v. Kindergartenbeiträge - mehrheitlich abgelehnt
+- TOP 21: Antrag d. SPD: ÖPNV-Konzept - mehrheitlich abgelehnt
+- TOP 22: Kämmererliste 2006 - mehrheitlich beschlossen
+- TOP 23: Eigenanteil zu den Lernmittelkosten - einstimmig beschlossen
+- TOP 24: Eigenanteil zum SchokoTicket - einstimmig beschlossen
+- TOP 25: Freier Eintritt für Kinder und Jugendliche in die - einstimmig beschlossen
+- TOP 26: Zuschüsse für Investitionen an freie Träger - einstimmig beschlossen
+- TOP 27: Überplanmäßige Bereitstellung von Mitteln - einstimmig beschlossen
+- TOP 28: Stoffeler Kapellenweg - B+F - einstimmig beschlossen
+- TOP 29: Kunstrasen Heyestraße B+F - einstimmig beschlossen
+- TOP 30: Jahresabschluss und Lagebericht 2005 - zur Kenntnis genommen
+- TOP 31: Jahresabschluss und Lagebericht 2005 - einstimmig beschlossen
+- TOP 32: Ergantr. K und L - mehrheitlich abgelehnt
+- TOP 33: Laborkalkulation - zur Kenntnis genommen
+- TOP 34: Laborkalkulation für Rat - einstimmig beschlossen
+- TOP 35: Technisches Verwaltungsgebäude Auf´m Hennekamp 45, - einstimmig beschlossen
+- TOP 36: Gebührentarif zur Gebührensatzung Friedhöfe - mehrheitlich beschlossen
+- TOP 37: ÄA d. SPD zur Neufestsetzung Gebührentarife Friedh - mehrheitlich abgelehnt
+- TOP 38: Ändantr. K und L - mehrheitlich abgelehnt
+- TOP 39: Verkehrsentwicklungsplan 2020 - zur Kenntnis genommen
+- TOP 40: Verkehrsentwicklungsplan 2020 - mehrheitlich beschlossen
+- TOP 41: Digitale Stadt - einstimmig beschlossen
+- TOP 42: Satzung der Landeshauptstadt Düsseldorf zu - zur Kenntnis genommen
+- TOP 43: Ändantr. Bü90: Satzung Gleichstellung Behinderter - zur Kenntnis genommen
+- TOP 44: Neufassung der Betriebssatzung - einstimmig beschlossen
+- TOP 45: Schulorganisatorische Maßnahme - mehrheitlich beschlossen
+- TOP 46: Karl-Röttger-Tagesschule - einstimmig beschlossen
+- TOP 47: Verleihung des "Helmut-Käutner-Preises" 2007 - mehrheitlich beschlossen
+- TOP 48: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 49: Plan Nr. 5774/28 - Karl-Geusen-Straße - einstimmig beschlossen
+- TOP 50: FNP-Änderung Nr. 78 - Neue Stadtquartiere - mehrheitlich beschlossen
+- TOP 51: B-Plan Nr. 5480/027-Nördl. Hugo-Viehoff-Str. - mehrheitlich beschlossen
