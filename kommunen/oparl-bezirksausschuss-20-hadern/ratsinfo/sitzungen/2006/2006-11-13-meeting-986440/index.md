@@ -1,0 +1,83 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2006-11-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/986440
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/986440
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Bodenreinigung des Einkaufszentrums Haderner Stern
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Toemlingerstr. 25, 1 Blaufichte, 6 Schwarzkiefer
+- TOP 3.2.: Gräfelfinger Str. 53, 1 Fichte
+- TOP 3.3.: Mäuselweg 18, 1 Kiefer
+- TOP 3.4.: Haseneystr. 9, 1 Kiefer
+- TOP 3.5.: Pfingstrosenstr. 23b, 2 Fichten
+- TOP 3.6.: Geroldseckstr. 22, 1 Ahorn
+- TOP 3.7.: Pfingstrosenstr. 12, 1 Fichte
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag der Grundschule am Canisiusplatz auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 2.198,00 Euro (Direktorium, 16.10.2006)
+- TOP 6.2.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget für den Haderner Christkindlmarkt 2006
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Hans-Grässel-Weg 7a ( KVR, 06.09.2006)
+- TOP 7.2.: Budgetmittel des Bezirksausschusses für die Mädchenaktionswoche des Treff 21 (Direktorium, 12.10.2006)
+- TOP 7.3.: Straßenbenennung im 20. Stadtbezirk Hadern und im 21. Stadtbezirk Pasing-Obermenzing, Lobelienweg (Kommunalreferat, 09.10.2006)
+- TOP 7.4.: Antrage aus der Bürgerversammlung, MVV-Tarifzone U-Bahnstation Klinikum Großhadern (Referat für Arbeit und Wirtschaft, 05.10.2006)
+- TOP 7.5.: Förderprogramm "Bürger und Bürgerinnen gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln (Direktorium, 22.09.2006)
+- TOP 7.6.: Baumaßnahmen der Stadtwerke München, Großhadernerstr. 4, Schröfelhofstr. (swm, 09.10.2006)
+- TOP 7.7.: Änderung im Filialnet, Filiale Sauerbruchstraße (Direktorium, 20.10.2006)
+- TOP 8.: Anhörungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Widmungserweiterung vom Haderner Steg als "gemeinsamer Fuß- und Radweg" und "Umlaufssperre am haderner Steg" (Baureferat, 18.10.2006)
+- TOP 9.2.: Schließvorrichtung für die Toranlage am Spielplatz Gelbhofstraße (Baureferat, 19.10.2006)
+- TOP 9.3.: Bauwerkssicherheit der Schulturn- und Schulschwimmhallen in Hadern; BA-Antrag Nr. 871 vom 09.01.2006 (Baureferat, 20.10.2006)
+- TOP 9.4.: Fürstenrieder Str.; Neubau eines LIDL-Marktes (Referat für Stadtplanung und Bauordnung, 18.10.2006)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Erhalt der BaumschutzVO (BA 19, 12.10.2006)
+- TOP 11.2.: Informationshef der Freien Turnerschaft München Blumenau von 1966 e.V.
+- TOP 11.3.: Dokumentation des Stadtratshearings "Demographischer Wandel und familienfreundliche Großstadt" (Referat für Stadtplanung und Bauordnung, 12.10.2006)
+- TOP 11.4.: Betriebliche Änderung für den Sonderflughafen Oberpfaffenhofen (BA 19, 16.10.2006)
+- TOP 11.5.: Flächen für Supermärkte in Ihrem Stadtbezirk (REWE, 04.10.2006)
+- TOP 11.6.: Gestaltung der Schwimmbadeintrittspreise für Kinder, Jugendliche und Familien (BA 7, 20.10.2006)
+- TOP 11.7.: Stadtjugendamt Jahresbericht 2005
+- TOP 11.8.: Betriebliche Änderungen für den Sonderflughafen Oberpfaffenhofen (BA 21, 16.10.2006)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Vollversammlung des Stadtrates vom 25.10.2006: Rechtschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.0.92006: Global denken - lokal handeln
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006: Deregulierung der städtischen Gestaltungs- und Begrünungssatzung 924
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.0.92006: Das Parkraummanagement erfordert auch den Bau von Tiefgaragen
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006: Veränderungen an den Denkmalsembles der Landeshauptstadt München
+- TOP 12.5.: Beschluss des Sportausschusses des Stadtrates vom 04.10.2006: Sportentwicklungsplan
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.10.2006: Haushaltskonsolidierung Feinkonzept 2006; Sonderkonsolidierung 2006 Grob- und Feinkonzept 2007 - 2011
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.10.2006: A) Haushaltsplan 2007; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen B) Haushaltsplan 2007; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes Vereinbarung mit freien Trägern im Konsolisierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen C) Haushaltsplan 2007; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen D) Haushaltsplan 2007; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen E) Haushaltsplan 2007; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 bis 2006 - Erfahrungsbericht und weiteres Vorgehen F) Haushaltskonsolidierung Feinkonzept 2006 Sonderkonsolidierung 2006 Grob- und Feinkonzept 2007 - 2011
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006: Raumordnungsverfahren für eine 3. Start- und Landebahn des Verkehrsflughafens München; Einleitung des Verfahrens und Anhörungsverfahren - Stellungnahme der Landeshauptstadt München
+- TOP 12.1.: Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 11.10.2006: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011
+- TOP 12.2.: Beschluss des Verwaltungs- und Personalausschusses vom 18.10.2006: Einrichtung einer Schiedstelle bei kommunalverfassungsrechtlichen Streitigkeiten zwischen Bezirksausschüssen und Stadt
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.10.2006: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006
+- TOP 12.4.: Beschluss in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 10.10.2006: Haushaltsplan 2007 - Einzelplan 4 des Sozialreferates
+- TOP 12.5.: Bekanntgaben
+- TOP 12.6.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 11.10.2006: Auswirkungen von Brandschutzbestimmungen und Auflagen der Feuerwehr auf den Städtebau, die Grün- und Objektplanung
+- TOP 12.7.: Bekanntgabe in der Sitzung des Kulturausschusses vom 28.09.2006: Musternutzungsvertrag für kulturelle Einrichtungen
+- TOP 12.8.: Bekanntage in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006: Beschlussvollzugskontrolle (BVK); 3. Bericht über die der BVK unterliegen Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2006
+- TOP 12.9.: Bekanntgae in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006: Diskurs "Stadtgestalt und neue Architektur"
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
