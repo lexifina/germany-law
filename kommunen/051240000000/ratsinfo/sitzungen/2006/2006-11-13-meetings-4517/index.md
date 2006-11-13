@@ -1,0 +1,88 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2006-11-13T15:30:00+01:00
+- Ende: 2006-11-13T19:15:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/4517
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/4517
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00073752.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00074080.pdf
+
+## Tagesordnung
+
+- TOP 0: Vor Eintritt in die Tagesordnung des Rates findet die Verleihung des Ehrenringes der Stadt Wuppertal
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Einführung eines neuen Stadtverordneten
+- TOP 1.2: 60 Jahre Rat - Würdigung durch den Oberbürgermeister
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Bebauungsplan 1018 - Steinhauser Bergstraße - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Bebauungsplan Nr. 1018 Steinhauser Bergstraße - abschließend zur Kenntnis genommen
+- TOP 2.2: Datenverluste bei der ARGE - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Beantwortung der Anfrage der Fraktion Die Linke.PDS vom 18.10.2006 - abschließend zur Kenntnis genommen
+- TOP 2.3: Arno Breker - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Arno Breker - abschließend zur Kenntnis genommen
+- TOP 2.4: Subventionen in das alte Schwebebahngerüst - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Anfrage der Ratsgruppe DIE REPUBLIKANER im Rat der Stadt Wuppertal vom 25.10.2006 - Subventionen in - abschließend zur Kenntnis genommen
+- TOP 2.5: Solidarpakt - unsolidarisch für Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Anfrage der Ratsgruppe DIE REPUBLIKANER vom 25.10.06 - Solidarpakt- unsolidarisch für Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.6: Umwandlung von HartzIV-Mitteln in versicherungspflichtige Arbeitsplätze - abschließend zur Kenntnis genommen
+- TOP 2.6.1: Beantwortung der Anfrage der Fraktion DIE LINKSPARTEI.PDS vom 26.10.2006 - abschließend zur Kenntnis genommen
+- TOP 2.7: Zweckverband Bergische Weiterbildung - vertagen
+- TOP 2.8: Integrationsentwicklung in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.8.1: Beantwortung der Anfrage der Ratsgruppe DIE REPUBLIKANER vom 06.11.2006 - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Citymanagement - abgelehnt
+- TOP 4.2: Hier geboren - hier zuhause: Wuppertal für ein Bleiberecht für langjährig hier lebende geduldete Men - in der Sache erledigt
+- TOP 4.3: Bezahlter Urlaub bei Arbeitsgelegenheiten - Nichtbefassung beschlossen
+- TOP 4.4: Resolution zur Änderung des Straftatbestandes der Bestechung und Vorteilsannahme von Mitgliedern vo - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Ergänzung zum Kinder- und Jugendförderplan - abgesetzt
+- TOP 5.2: Konzept zur Öffnung und Sicherung von Schulhöfen - abgesetzt
+- TOP 5.3: Verbesserung der Lage von Kindern und Jugendlichen mit Migrationshintergrund - abgesetzt
+- TOP 5.4: Überprüfung von Nutzungseinschränkungen auf Spielplätzen - Ergänzungsantrag zu TOP 11.2, Kinder- und - abgesetzt
+- TOP 5.5: Überprüfung von Straßen auf ihre Eignung als Spielstraße oder verkehrsberuhigter Bereich - Nichtbefassung beschlossen
+- TOP 5.6: Stadtteilservice Wuppertal - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: Neufassung der Stellplatzablösungssatzung - ungeändert beschlossen
+- TOP 6.2: Änderung der Geschäftsordnung des Rates - geändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: NKF-Haushalt 2007 für pilotierte Bereiche und kameraler Nachtragshaushaltsplan 2007 - ungeändert beschlossen
+- TOP 7.2: Nachtragshaushaltssatzung der Stadt Wuppertal für das Haushaltsjahr 2007 - ungeändert beschlossen
+- TOP 7.3: Kreuzungsausbau Am Diek/Vor der Beule/Königsberger Straße - ungeändert beschlossen
+- TOP 7.4: Bewilligung einer überplanmäßigen Ausgabe im Unterabschnitt 6750 - ungeändert beschlossen
+- TOP 7.5: Endausbau an der Einmündung Hahnerberger Str./ Theishahner Str. nach Verkehrsversuch - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Umwandlung der Wibefö GmbH in eine Anstalt öffentlichen Rechts (AöR) - ungeändert beschlossen
+- TOP 8.2: Änderung des Gesellschaftsvertrages der Wuppertal Marketing GmbH - ungeändert beschlossen
+- TOP 8.3: Erhöhung des Stammkapitals der Technologiezentrum Wuppertal W-tec GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan Nr. 300 - Berghauser Straße - - ungeändert beschlossen
+- TOP 9.2: 2. Verlängerung einer Veränderungssperre im BP 1065 - Steinbecker Meile - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr 1065 - Steinbecker Meile - und Flächennutzungsplanänderung Nr . 0005 - ungeändert beschlossen
+- TOP 9.4: Bauleitplanverfahren Nr. 108 - Cronenberger Straße / Am Friedenshain - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan Nr. 956 - Gewerbegebiet Korzert - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Behandlung erfolgt unter TOP 7.5
+- TOP 10.2: Einbau von Kunststofffensterrahmen bei Bauvorhaben der Stadt Wuppertal - geändert beschlossen
+- TOP 10.3: Sanierung des Stadtbades Elberfeld - Schwimmoper - ungeändert beschlossen
+- TOP 10.3.1: Änderungsantrag VO/0966/06, Sanierung des Stadtbades Elberfeld - Schwimmoper - abgelehnt
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Annahme von Geschenken des Zoo-Vereins Wuppertal e. V. - ungeändert beschlossen
+- TOP 11.2: REGIONALES EINZELHANDELKONZEPT FÜR DAS BERGISCHE STÄDTEDREIECK - ungeändert beschlossen
+- TOP 11.2.1: Gemeinsamer Rahmenantrag der Fraktionen von CDU und SPD zum regionalen Einzelhandelskonzept - ungeändert beschlossen
+- TOP 11.2.2: Ergänzungsantrag zu VO/0915/06, Regionales Einzelhandelskonzept für das Bergische Städtedreieck - erledigt durch Beschluss zu einem anderen TOP
+- TOP 11.3: Integrationsbericht und Aufbau eines Monitoringsystems zur Integrationsentwicklung in Wuppertal - ungeändert beschlossen
+- TOP 11.4: Errichtung bzw. Änderung eines Bildungsganges am Berufskolleg am Haspel - ungeändert beschlossen
+- TOP 11.5: Antrag auf Genehmigung - ungeändert beschlossen
+- TOP 11.6: Antrtag auf Genehmigung zur Errichtung bzw. Änderung eines Bildungsganges am Berufskolleg Am Kothen - ungeändert beschlossen
+- TOP 11.7: Erhöhung der Vergabewertgrenzen - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Neuausrichtung der Versorgungs- und der Verkehrssparte der Wuppertaler Stadtwerke AG - ungeändert beschlossen
+- TOP 12.2: Gremienbestzungen - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzung/ Benennung - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
