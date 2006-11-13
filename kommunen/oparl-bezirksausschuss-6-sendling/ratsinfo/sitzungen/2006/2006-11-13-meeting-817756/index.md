@@ -1,0 +1,56 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2006-11-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/817756
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/817756
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.1.: Informations- / Abstimmungsgespräch Freischankflächensituation Sendling
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Eröffnung des Sozialbürgerhauses an der Kürnbergstraße 29
+- TOP 4.: Schulreferat
+- TOP 4.1.: Bericht über das Treffen mit dem Schulreferat vom 19.10.2006
+- TOP 4.2.: Sportentwicklungsplan
+- TOP 5.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Meldeliste Bauvorhaben der SWM
+- TOP 6.2.: Verkehrsproblem Fußgänger / Radfahrer
+- TOP 6.3.: Parkplatzsituation in der Steinerstraße
+- TOP 6.4.: Errichtung einer Fahrradstraße in den Straßen ?An der Stemmerwiese? und ?Margaretenstraße?
+- TOP 7.1.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 7.2.: Bericht vom Fest junger Erwachsener vom 14.10.2006
+- TOP 7.3.: Einrichung einer Schiedsstelle bei kommunalverfassungsrechtlichen Streitigkeiten zwischen Bezirksausschüssen und Stadt
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Implerstraße 17; EDEKA
+- TOP 8.3.: Bauvorhaben Lipowskystraße 21
+- TOP 8.4.: Bebauungsplan mit Grünordnung Neufhofener Platz und Zechstraße (südlich), Fallstraße und Flößergasse (westlich), Bahnlinie München-Lenggries
+- TOP 8.5.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006
+- TOP 9.: Baureferat
+- TOP 9.1.: Eisenbahnüberführung Lindwurmstraße zwischen Poccistraße und Implerstraße
+- TOP 9.2.: Aufnahme der Fritz-Endres-Str., Hans-Klein-Str., Johannes-Timm-Str. und Max-Hirschberg-Weg in die Straßenreinigungssatzung
+- TOP 9.3.: Umgestaltung des Platzes Am Harras
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Lipowskystraße 17
+- TOP 10.2.: Baumfällung Plinganserstraße 16 / An der Stemmerwiese 4 + 6
+- TOP 10.3.: Baumfällung Dreimühlenstraße 40
+- TOP 10.4.: Baumfällung Kidlerstraße 39
+- TOP 10.5.: Ausstehende Baumpflanzungen im Stadtbezirk Sendling
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Schaffung der zur Ausführung von Straßenbau- arbeiten notwendigen Freiräume durch geeignete verkehrsregelnde Maßnahmen Empfehlung Nr. 02-08 / E 00467 der Bürgerver- sammlung des Stadtbezirkes 06-Sendling am 13.07.2006 - <div>nach Antrag</div>
+- TOP 12.: Anträge
+- TOP 12.1.: Regionalzughalt an der Lindwurmstraße - <div>nach Antrag</div>
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Keine Privatisierung der Trinkwasserversorgung
+- TOP 13.2.: Musternutzungsvertrag für kulturelle Einrichtungen
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
