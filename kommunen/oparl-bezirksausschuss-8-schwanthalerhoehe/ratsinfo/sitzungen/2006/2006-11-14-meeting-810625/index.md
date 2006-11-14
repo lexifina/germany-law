@@ -1,0 +1,98 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2006-11-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/810625
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/810625
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Flächen für Supermärkte im Stadtgebiet
+- TOP 3.2.: Müllkontainer Westendstraße / Bergmannstraße
+- TOP 4: Beschlüsse des BA 8
+- TOP 5: Anhörungen
+- TOP 5.1.: Antrag auf Warenstellage Schwanthalerstr. 141
+- TOP 5.2.: Antrag auf Warenstellag Guldeinstr. 35
+- TOP 5.3.: Beteiligungs- und Entscheidungsrechte der BAs bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Regionaler Sachbericht der LH München Sozialreferat 2005
+- TOP 6.1.2.: Stadtsanierung in München - Sanierungsgebiete im Westend
+- TOP 6.1.3.: PlanRef - Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Beschäftigungsprogramm für arbeitslose Jugendliche Ziffer 5 des Antrages - <div>nach Antrag</div>
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.3.1.: Infobrief 7 / Oktober 2006 Ausländerbeirat München
+- TOP 6.3.2.: Nachtrag Monate des religiösen Trialogs in München - ausgewählte Veranstaltungeniim November 2006
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Erhalt der BaumschutzVO
+- TOP 6.4.2.: Änderung der Satzung über die Straßenreinigung der LH München
+- TOP 6.4.6.5: Bericht UA Budget und Finanzen2
+- TOP 6.4.1.: Budgetantrag Auferstehungskirche vom 29.08.06
+- TOP 6.4.2.: Budgetantrag Hellas Taekwondo e.V. vom 12.09.06
+- TOP 6.4.3.: Budgetantrag "Villa Flora" Kleingartenverein SW 82 e.V. vom 09.06.2006 für die 90-Jahr-Feier
+- TOP 7: Erledigungen
+- TOP 7.1.: Verschmutzung öffentlichen Verkehrsgrundes Initiative I 813
+- TOP 7.2.: Straßenbenennung im 8. Stadtbezirk Schwanthalerhöhe Max-Friedlaender-Bogen Philipp-Loewenfeld-Str.
+- TOP 7.3.: Unratlagerung Landsberger Str. 79
+- TOP 7.4.: Entfernen der Asphaltwelle an der südlichen Stoßstelle der Hackerbrücke Empfehlung Nr. 02-08 / E 422 des BA 8 Schreiben 15.03.06
+- TOP 7.5.: Zusätzliche Sozialarbeiter und Streetworker für das Westend Empfehlung Nr. 163 des bA 8 der BV vom 07.07.05
+- TOP 7.6.: Verbesserung für Familien im Westbad Schreiben des BA vom 15.09.06
+- TOP 7.7.: Einrichtung eines behindertengerechten Parkplatzes in der Westendstr. vor HausNr. 66a
+- TOP 7.8.: Erhalt des Gesundheitsparks im Olympiapark BA-Antrag Nr. 02-08 / B 010503 des BA 8
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Meldelisten 09.10. - 15.10.06 Erstantragsverfahren a) Landsberger Str. 143
+- TOP 9.2.: Meldeliste 09.10. - 15.10.06 Änderungsverfahren a) Gollierstr. 25 b) Hans-Fischer-Str. c) Hans-Fischer-Str.
+- TOP 9.3.: Baumaßnahmen der SWM Stichtag 16.10.06
+- TOP 9.4.: Baumaßnahmen der SWM Stichtag 23.10.06
+- TOP 9.5.: Meldeliste 25.09 - 08.10.06 Erstantragsverfahren a) Anglerstr. 4 b) Heimeranplatz 2
+- TOP 9.6.: Baumaßnahmen der SWM Stichtag 30.10.06
+- TOP 9.7.: Meldeliste vom 16.10.06 - 29.10.06 Erstantragsverfahren a) Ganghoferstr. 6 b) Ganghoferstr. 9 c) Fäustlestr. 8 d) Alter Messeplatz 4 e) Westendstr. 144
+- TOP 9.8.: Meldeliste vom 16.10. - 29.10.06 Änderungsverfahren a) Bergmannstr. 47 b) Westendstr. 68 c) Heimeranstr. 61
+- TOP 9.9.: Meldeliste vom 30.10. - 05.11.06 Erstantragsverfahren a) Tulbeckstr. 21 b) Sandtnerstr. 1
+- TOP 9.10.: Baumaßnahmen der SWM Stichtag 06.11.06
+- TOP 10: Verschiedenes
+- TOP 10.1.: Betriebliche Änderungen für den Sonderflughafen Oberpfaffenhofen Antrag BA 19 Mit der Bitte um Unterstützung und Übernahme
+- TOP 10.2.: Rückmeldung über Verteilung der Einladungen zur Einwohnerversammlung zum Verkehrsprojekt
+- TOP 10.3.: Gestaltung Schwimmbadpreise für Kinder, Jugendliche und Familien Antrag BA 7 Bitte um Unterstützung und Übernahme
+- TOP 10.4.: Förderprogramm "Bürgerinnen und Bürger gestalten Ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln 2007
+- TOP 10.5.: Sitzungstermine 2007
+- TOP 10.6.: Informationsveranstaltung des Sozialreferates für die BAs
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Protokoll 10/06
+- TOP 11.2.: Schriftverkehr 10/06
+- TOP 11.3.: KVR - Unveränderte Fortführung von Gaststätten Trappentreustr. 33
+- TOP 11.4.: KVR - Unveränderte Fortführung von Gaststätten Ligsalzstr. 13
+- TOP 11.5.: KVR - Unveränderte Fortführung von Gaststätten Trappentreustr. 2
+- TOP 11.6.: KVR - Versammlung Heimeranstraße Alperen Interkulturelle Jugendarbeit e.V.
+- TOP 11.7.: KVR - Arbeiten im Straßenraum Westendstraße zw. Bergmannstr. u Trappentreustraße Fahrbahn - und Gehbahnsanierung
+- TOP 11.8.: DIR - Zuwendungsbescheid Budget Kulturkeller Schwanthalerhöh´e.v. Antrag vom 12.04.06
+- TOP 11.9.: DIR - Zuwendungsbescheid REGSAM 8/ ASZ Laim Antrag vom 28.07.06
+- TOP 11.10.: DIR - Einrichtung einer Schiedsstelle bei kommunalverfassungsrechtichen Streitigkeiten zwischen Bezirksausschüssen und Stadt
+- TOP 11.11.: Kundgebung DGB - Bezirk Bayern
+- TOP 11.12.: verschoben in nichtöffentliche Sitzung
+- TOP 11.13.: SchulRef - Sportentwicklungsplan
+- TOP 11.14.: BauRef - Westendstraße; zwischen Bergmann- und Trappentreustraße
+- TOP 11.15.: KultRef - Musternutzungsvertrag für kulturelle Einrichtungen Sitzungsvorlage Nr. 02-08 / V08619
+- TOP 11.16.: SozRef - Haushaltsplan 2007 - Einzelplan 4 des Sozialreferates Sitzungsvorlage Nr. 02-08 / V 08773
+- TOP 11.17.: SozRef - Haushaltsplan 2007 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003 - 2006 - Erfahrungsbericht und weiteres Vorgehen Sitzungsvorlage Nr. 02-08 / V 08642
+- TOP 11.18.: PlanRef - MSB, München Hauptbahnhof - Flughafen; Sicherheitsproblematik
+- TOP 11.19.: PlanRef - Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006
+- TOP 11.20.: PlanRef - Auswirkungen von Brandschutzbestimmungen und Auflagen der Feuewehr auf den Städtebau, die Grün- und Objektplanung
+- TOP 11.21.: PlanRef - Raumordnungsverfahren für eine 3. Start - und Landebahn des Verkehrsflughafens München; Einleitung des Vefahrens und Anhörungsverfahren - Stellungnahme der LH München
+- TOP 11.22.: Dokumentation des Stadtratshearings "Demographischer Wandel und familienfreundliche Großstadt" ovm 18.01.06 im Rathaus
+- TOP 11.23.: Umweltreport 2006/2007
+- TOP 11.24.: Stadtjugendamt Jahresbericht 2005 Teil 1 und 2
+- TOP 11.25.: WirtschaftsInfo 10/2006
+- TOP 11.26.: Münchner Statistik - 2. Quartal 2006
+- TOP 11.27.: Statistisches Jahrbuch 2006
+- TOP 11.28.: DIR - Zuwendungsbescheid Westenddrachen Elterninitiative e.V. Antrag vom 09.05.06
