@@ -1,0 +1,21 @@
+# Gebietsverträgliche BND-Baustellenlogistik gewährleisten - Entschädigungsfonds für AnwohnerInnen und Gewerbetreibende einrichten
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Drucksache/Vorlage: 0029/III
+- Art: Antrag
+- Datum: 2006-11-14
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=2422
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/papers.asp?id=2422
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=130&id=98366
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1295 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1332 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=32
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1352 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=32
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1377 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=32
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1404 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=32
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1363 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=34
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1389 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=34
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1417 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=34
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1425 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=34
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1448 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=34
+- underDirectionOf: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=at&id=24
