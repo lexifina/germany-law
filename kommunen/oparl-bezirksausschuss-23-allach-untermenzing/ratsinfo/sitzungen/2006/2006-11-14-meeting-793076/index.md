@@ -1,0 +1,79 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2006-11-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/793076
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/793076
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Verkehrssituation Franz-Nißl-Straße
+- TOP 1.2.: Parksituation in der Drachenfelsstraße
+- TOP 1.3.: Errichtung eines Altenheims
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Antrag auf Zuschuss aus dem Budget in Höhe von 600 Euro für Projekt "Tanz und Schule" von November 2006 - Januar 2007; Antragsteller: Städt. Louise-Schroeder-Gymnasium
+- TOP 4.2.: Einziehung einer Teilstrecke der Angerlohstraße
+- TOP 5.: Anhörungen
+- TOP 5.1.: Errichtung von Sammelhinweisanlagen; Otto-Warburg-Straße in Höhe Einmündung Zum Schwabenbächl
+- TOP 5.2.: Umgestaltung der Würm im Bereich der Mergenthalerstraße zwischen Fkm 13.750 und 14.000
+- TOP 5.3.: Einziehung einer Teilstrecke der Krauss-Maffei-Straß
+- TOP 5.4.: Theodor-Fischer-Straße / Brückestraße; Einrichtung Haltverbote
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Baumaßnahme Weinschenkstraße
+- TOP 9.2.: Straßenschäden Von-Kahr-Straße; Beseitigung der provisorischen Asphaltierungen
+- TOP 9.3.: Unterführung Allacher Straßé
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Gaststätte "Zur Allacher Mühle", Eversbuschstr. 173; unveränderte Fortführung
+- TOP 10.2.: Buslinie 162; Neuanordnung von Haltestellen
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO a) Eversbuschstr. 34 und 40: 3 Eschen b) Löherweg 3a: 1 Wacholder c) Jennerstr. 15: 1 Tanne d) Kleselstr. 22: 1 Hainbuche e) Ganzenmüllerstr. 34: 1 Trauerweide f) Frühaufstr. 31 a: 2 Latschen g) Manzostr. 41: 1 Pappel h) Korbinian-Beer-Str. 12: 1 Birke und 2 Linden i) Peter-Winter-Str. 21: 1 Ahorn j) Eversbuschstr. 199: 1 Kastanie k) Rueßstr. 38-44: Gefahrenbaumbescheinigung l) Wilhelm-Zwölfer-Str. 31: Bestätigung, dass Kastanie nicht der BaumschutzVO unterliegt m) Manzostr. 25: 1 Eberesche n) Dachauer Str. 667, Baumbestandsplan Nr. 2006-30710
+- TOP 11.2.: Bauanträge (v. 25.09.-08.10., 09.10.-15.10., 16.10.-29.10.)
+- TOP 11.3.: Vollzug des Eisenbahngesetzes (AEG); NBS / ABS Nürnberg-Ingolstadt-München; Ausbaumaßnahmen im Bereich der LH München, Planungsabschnitt 82 M der ABS Ingolstadt-München, Bahn-km 12.900 - 4.900; Änderungsplanfeststellung für die Zugänglichkeit der Bahnanlagen (Flucht- und Rettungswege); Planänderungsbeschluss des Eisenbahn-Bundesamtes, Außenstelle München vom 20.09.06
+- TOP 11.4.: Von-Haller-Str. 21; Ablehnung der beantragten Fällung
+- TOP 11.5.: Eversbuschstr. 227; Ablehnung der beantragten Fällung
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 12.1.: Radwegverbindung zur Langwieder Seenplatte; Grunderwerb entlang der Goteboldstraße (Vertagung aus der BA-Sitzung vom 10.10.06)
+- TOP 12.2.: Straßenbenennung in den Stadtbezirken 21 Pasing-Obermenzing, 22 Aubing-Lochhausen-Langwied und 23 Allach-Untermenzing; Mühlangerstraße
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: Einladung zu "Das Schulreferat trifft die Bezirksausschüsse" am 23.11.06
+- TOP 14: Schreiben des Sozialreferates
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Änderungsgenehmigungsverfahren zur Aktualisierung der Prüfstandsgenehmigungen der Strahl- udn Wellenleistungstriebwerke bei der Fa. MTU Aero Engines GmbH; Termine der Öffentlichkeitsbeteiligung
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 7 Sendling-Westpark: Gestaltung der Schwimmbadeintrittspreise für Kinder, Jugendliche und Familien
+- TOP 20.2.: BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln: Erhalt der BaumschutzVO
+- TOP 20.3.: BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln: Erhalt der BaumschutzVO
+- TOP 20.4.: BA 21 Pasing-Obermenzing: Umgestaltung der Würm im Bereich der Mergenthalerstraße zwischen Fkm 13.750 und Fkm 14.000
+- TOP 20.5.: BA 21 Pasing-Obermenzing: Projekt München Sozial, Erstellung eines interaktiven Stadtteilführers; Antrag auf Zuschuss aus dem Budget des BA 21
+- TOP 20.6.: BA 21 Pasing-Obermenzing: Radwegverbindung zur Langwieder Seenplatte; hier: Grunderwerb entlang der Goteboldstraße
+- TOP 20.7.: BA 21 Pasing-Obermenzing: Betriebliche Änderungen für den Sonderflughafen Oberpfaffenhofen; Antrag des Flughafenbeteibers vom 10.08.06
+- TOP 20.8.: BA 21 Pasing-Obermenzing: Erweiterung des Mobilfunknetzes in München
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen der Stadtwerke
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Sportausschuss vom 04.10.06: - Sportentwicklungsplan
+- TOP 22.2.: Vollversammlung vom 05.10.06: - Raumordnungsverfahren für eine 3. Start- und Landebahn des Verkehrsflughafen München; Einleitung des Verfahrens und Anhörungsverfahren / Stellungnahme der LH München - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 1992 Stahlstraße (südlich), Hans-Goltz-Weg (westlich) und Pasinger Heuweg (östlich)
+- TOP 22.3.: Gemeinsame Sitzung des Kinder - und Jugendhilfeausschusses und des Sozialausschusses vom 10.10.06: - Haushaltsplan 2007, Einzelplan 4 des Sozialreferates - Haushaltsplan 2007, Produkt - und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003-2006 - Erfahrungsbericht und weiteres Vorgehen - Haushaltsplan 2007, Produkt - und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003-2006 - Erfahrungsbericht und weiteres Vorgehen - Haushaltsplan 2007, Produkt - und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Vereinbarung mit freien Trägern im Konsolidierungszeitraum 2003-2006 - Erfahrungsbericht und weiteres Vorgehen
+- TOP 22.4.: Ausschuss für Stadtplanung und Bauordnung vom 11.10.06: - Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 - Auswirkung von Brandschutzbestimmungen und Auflagen der Feuerwehr auf den Städtebau, die Grün- und Objektplanung
+- TOP 22.5.: Gemeinsamer Ausschuss für Stadtplanung und Bauordnung, Kommunalausschuss, Sozialausschuss und Finanzausschuss vom 11.10.06: - Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007-2011
+- TOP 22.6.: Verwaltungs- und Personalausschuss vom 18.10.06: - Einrichtung einer Schiedsstelle bei kommunalverfassungsrechtlichen Streitigkeiten zwischen BAs und Stadt
+- TOP 22.7.: Vollversammlung vom 25.10.06: - Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 - Einrichtung einer Schiedsstelle bei kommunalverfassungsrechtlichen Streitigkeiten zwischen BAs und Stadt
+- TOP 22.8.: Ausschuss für Stadtplanung und Bauordnung vom 08.11.06 - Sonderflughafen Oberpfaffenhofen, Luftrechtliche Genehmigung, Antrag auf Ergänzung und Änderung
+- TOP 23: Verschiedenes
