@@ -1,0 +1,58 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2006-11-15T17:07:00+01:00
+- Ende: 2006-11-15T21:15:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1202
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1202
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=32403
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 3.1: Beschlussfassung über Veränderungen bei der Einrichtung von Fachausschüssen in der XVIII. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Bezeichnung der Ausschüsse - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Volkshochschule auch in der Ferienzeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Erhalt der Sprachberatungsstelle im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: "Brot-Füttern" an Reinickendorfer Gewässern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Erweiterung des Realschulstandortes Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Schulbaumaßnahmen (IZBB) in Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.6: Uferbefestigung am Tegeler See in Stand setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Ausstattung der Grundschulen im Fach Naturwissenschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Reinickendorfer Schule für landesweite Raumluftstudien melden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Priorität für Reinickendorfer Kinder in Reinickendorfer Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Tagsüber Aufsicht auf S-Bahnhof Wittenau bzw. Schalterpersonal auf den Bahnsteigen in Frohnau und Wittenau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Feinstaubmessungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Sicherer Schulweg in der Schildower Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Neuer Radweg Richtung Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Vorsicht beim Auffinden verendeter Vögel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Festsetzung des Bebauungsplans XX-285 vom 13. Mai 1996 mit den Deckblättern vom 3. Dezember 1996, vom 14. Juli 1998 und vom 9. März 2005 für die Grundstücke Berliner Straße 17-18, und 25, für Teilflächen der Grundstücke Berliner Straße 19 und 26 sowie für einen Abschnitt der Berliner Straße und der Straße Am Borsigturm im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 5.16: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-183a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.17: Festsetzung des Bebauungsplans XX-286 vom 13. Mai 1996 mit den Deckblättern Nr. 1 vom 17. Februar 1997, Nr. 2 vom 18. August 1998, Nr. 3 vom 13. September 2004 und Nr. 4 vom 9. März 2005 für Teilflächen der Grundstücke Berliner Straße 19, 26, 27 und35 sowie für einen Abschnitt der Berliner Straße und der Straße Am Borsigturm im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 5.18: Bebauungsplanentwurf 12-14 für die Grundstücke Kurt-Schumacher-Damm 12-16, Nordlichtstraße 2-4 und Abschnitte der Straße 462, der Nordlichtstraße und des Kurt-Schumacher-Damms im Bezirk Reinickendorf - überwiesen
+- TOP 5.19: Bebauungsplanentwurf 12-13 für das Grundstück Tornower Weg 14/22 im Bezirk Reinickendorf, Ortsteil Märkisches Viertel - überwiesen
+- TOP 5.20: Einstellung von 34 Bebauungsplanentwürfen - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Bebauung der Insel im Tegeler Hafen - beantwortet
+- TOP 6.2: Wie weiter mit PPP? - vertagt
+- TOP 6.3: Kinderschutz in Reinickendorf stärken - vertagt
+- TOP 6.4: Mieterhöhung der Gesobau im Märkischen Viertel - beantwortet
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Verordnung über die Veränderungssperre XX-190 / 43 für die Grundstücke Gabrielenstraße 37A, 37B und 65B im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 7.2: Bestellung eines stimmberechtigten Mitglieds und eines stellvertretenden Mitglieds der BVV Reinickendorf für den Verwaltungsrat des Eigentbetriebes "Kindertagesstätten Nordwest-Eigenbetrieb von Berlin" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Bezirkshaushaltsrechnung für das Haushaltsjahr 2005 - überwiesen
+- TOP 7.4: Wahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Anträge - (offen)
+- TOP 8.1: Gegen NPD Flagge zeigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: Gutachten zum PPP-Projekt "Schulen" - überwiesen
+- TOP 9.2: Centre Bagatelle - überwiesen
+- TOP 10: Empfehlungen - (offen)
