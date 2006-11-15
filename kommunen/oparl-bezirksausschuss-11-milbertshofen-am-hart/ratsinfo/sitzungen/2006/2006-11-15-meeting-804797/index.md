@@ -1,0 +1,73 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2006-11-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/804797
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/804797
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Lebensraum Dankeskirche, Dank der Geschäftsführung
+- TOP 4.2.: Flächen für Supermärkte im 11. Stadtbezirk Milbertshofen - Am Hart, Schreiben der REWE Group
+- TOP 4.3.: Sperrzeitverkürzung U-Bahn-Kiosk, Lerchenauer Str. 65; Vorabzustimmung
+- TOP 4.1.: Erhalt der Baumschutz -Verordnung, Schreiben des Bezirksausschuss 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln
+- TOP 4.2.: Straßenbauarbeiten, Informationen des Baureferates
+- TOP 4.1.: Gestaltung der Schwimmbadeintrittspreise für Kinder, Jugendliche und Familien; Schreiben des Bezirksausschusses 7 Sendling - Westpark
+- TOP 4.2.: "Net(t)working", Einladung zur REGSAM-Projekt-Börse
+- TOP 4.1.: Betriebliche Änderungen für den Sonderflughafen Oberpfaffenhofen; Schreiben des Bezirksausschusses 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 7.1.: Umgehende Wiederherstellung des Baum-, Strauch- und Grünbestandes nach Arbeiten an der Fernwärmeleitung zum Olympia-Einkaufszentrum (OEZ) aus dem Jahre 2005 (SPD-Fraktion im BA 11)
+- TOP 7.1.: Ampelanlage Lerchenauerstraße Höhe Birnauerstraße (Christine Schneider)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a) Kämpferstr. 13-21, eine Fichte b) Permanederstr. 33, eine Birke c) Rothpletzstr. 18, eine Zeder
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Baumaßnahmen: a) Milbertshofener Str. 9
+- TOP 8.3.: Anhörung im Einzelfall auf Anforderung, hier: Milbertshofener Str. 9
+- TOP 8.4.: Anhörung im Einzelfall auf Anforderung, hier: Schleißheimer Str. 323
+- TOP 8.5.: Verbindungsstraße zwischen Maria-Probst-Straße und Lilienthalallee a) Sachstand und weiteres Vorgehen b) Empfehlungen und Antrag
+- TOP 8.6.: Veranstaltung am 14./15.07.2007 auf dem Olympiaberg (24-Stunden MTB-Rennen)
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Einrichtung einer Schiedsstelle bei kommunalverfassungsrechtlichen Streitigkeiten zwischen Bezirksausschüssen und Stadt (Beschluss des Verwaltungs- und Personalausschusses vom 18.10.2006)
+- TOP 9.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3.: Grippeschutzimpfung, Information des Personal- und Organisationsreferates
+- TOP 9.4.: Ausweisung des 17-jährigen türkischen Vergewaltigers aus Milbertshofen (Beschluss des Kreisverwaltungsausschusses vom 24.10.2006) - nicht öffentlich -
+- TOP 9.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6.: Vorkaufsrecht nach dem BauGB - nicht öffentllich -
+- TOP 9.1.: Magnetschwebebahn (MSB) München - Hauptbahnhof - Flughafen; Sicherheitsproblematik (Beschluss der Vollversammlung des Stadtrates vom 05.10.2006)
+- TOP 9.2.: Ausbau Mittlerer Ring (B2R) Nord Straßentunnel Petuelring /Schenkendorfstraße; Ergebnisse der Luftschadstoffmessungen nach Tunnelinbetriebnahme (Beschluss des Bauausschusses vom 26.09.2006)
+- TOP 9.3.: Rohrkanalsanierung 2007, Projektgenehmigung (Schreiben der Münchner Stadtentwässerung)
+- TOP 9.4.: Nordheide Ostteil, B-Plan Nr. 1779a, Bauträgerauswahl für die städtischen Grundstücke Flst. 322/95 und 322/98 der Gemarkung Freimann an der Ingolstädter Straße (Beschluss der Vollversammlung des Stadtrates vom 25.10.2006) - nicht öffentlich -
+- TOP 9.5.: Rechtschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 (Beschluss der Vollversammlung des Stadtrates vom 25.10.2006)
+- TOP 9.7.: Meldelisten Bauvorhaben
+- TOP 9.8.: Baumaßnahmen der Stadtwerke München
+- TOP 9.9.: Anbringung von Fanggittern am Nymphenburg-Biedersteiner-Kanal im Petuelpark (Beschluss des Bauausschusses vom 14.11.2006)
+- TOP 9.11.: Vollzug der Grünanlagensatzung; Baustelleneinrichtung an der Milbertshofener Straße, Ausnahmebewilligung
+- TOP 9.1.: Musternutzungsvertrag für kulturelle Einrichtungen (Bekanntgabe in der Sitzung des Kulturausschusses vom 28.09.2006)
+- TOP 9.2.: Sportentwicklungsplan (Beschluss des Sportausschusses des Stadtrats vom 04.10.2006)
+- TOP 9.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 9.4.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 9.5.: Kultur im Stadtquartier, Leistungsübersicht des Kulturreferates zur Stadtteilkultur
+- TOP 9.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
+- TOP 9.10.: Vollzug der Baumschutzverordnung, Gefahrenbäume
