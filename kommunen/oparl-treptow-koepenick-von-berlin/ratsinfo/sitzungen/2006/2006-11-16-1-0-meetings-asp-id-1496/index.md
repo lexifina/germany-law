@@ -1,0 +1,61 @@
+# 2. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2006-11-16T16:30:00+01:00
+- Ende: 2006-11-16T18:52:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1496
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1496
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=46800
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Bürgerfragestunde - gegenstandslos
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Stärke der Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Suchtbeauftragte/r - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Kinderspielplatz in Müggelheim - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Ordnungsamtspräsenz am Schmollerplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Radverkehrskonzeption - 1. Stufe - überwiesen
+- TOP 13.2: Umsetzung der prämiierten und zur Realisierung empfohlenen Entwürfe aus dem Projekt "KAiAK-Kunst + Architektur in Alt-Köpenick" für eine attraktive Zwischennutzung und Gestaltung unbebauter Grundstücke in der Altstadt Köpenick - überwiesen
+- TOP 13.3: Bebauungsplan 9-32 ("Krampenburg") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.4: Bebauungsplan 9-33 ("Teikyo") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.5: Benennung der Straße 35 im Ortsteil Müggelheim, die zwischen der Straße Zu den Müggelheimer Wiesen und der Müggelspree liegt, in "Zur Fähre" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Benennung der Straße 522 in Rahnsdorf, zwischen Biberpelzstraße und Fahlenbergstraße liegend, in "Wolfgang-Steinitz-Straße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Benennung der 05. Schule (Gesamtschule), Hoernlestr. 80, 12555 Berlin in Merian-Schule (Gesamtschule) Herstellen des Einvernehmens mit der zuständigen Schulbehörde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.8: Im I. Halbjahr 2006 zugelassene über- und außerplanmäßige Ausgaben - überwiesen
+- TOP 13.9: Bebauungsplan XV-3 ("Grundschule an der alten Feuerwache") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.10: Steganlagenkonzeption des Bezirkes Treptow-Köpenick - überwiesen
+- TOP 13.11: Benennung der im Ortsteil Köpenick zwischen Wendenschloßstraße und Dahmeufer liegenden Straße 244 in "Siegfried-Berger-Straße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.12: Benennung der 10. Schule (Gymnasium), Ellernweg 20, 12487 Berlin in Gebrüder-Montgolfier-Schule (Gymnasium) Herstellen des Einvernehmens mit der zuständigen Schulbehörde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Verkehrsorganisation Adlershof - überwiesen
+- TOP 14.2: Ausschussbildung - im Ältestenrat zurückgezogen
+- TOP 14.3: Verlegung der 3 Taxistellplätze von der Paradiesstraße / Ecke Buntzelstraße in die Zufahrt zum P+R-Parkplatz am S-Bahnhof Altglienicke in Fahrtrichtung Paradiesstraße - überwiesen
+- TOP 14.4: Baustopp für Steganlage Frauentog - in der BVV zurückgezogen
+- TOP 14.5: Mauerradweg Heidekampgrünzug – Querungsmöglichkeit auf der Sonnenallee und dem Dammweg - überwiesen
+- TOP 14.6: Darstellung der Bezirksverordneten - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Tempo 30 auf der Dörpfeldstraße - überwiesen
+- TOP 14.8: Kampf der Verwahrlosung - überwiesen
+- TOP 14.9: Stellflächen für Werbetafeln - überwiesen
+- TOP 14.10: Vorbereitung Städtepartnerschaft Kiew - überwiesen
+- TOP 14.11: Neuer Straßenbelag statt Buckelpiste - überwiesen
+- TOP 14.12: Aktuelles Organigramm des Jobcenters - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Benennung der nördlichen Begrenzung des Rosengartens in Bernhard-Langwaldt-Weg - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Einrichtung eines Ombudsrates im Bezirk - überwiesen
+- TOP 14.15: Für Demokratie und Toleranz - Kein Fußbreit Boden den Neonazis! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15: Große Anfragen - (offen)
