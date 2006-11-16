@@ -1,0 +1,144 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2006-11-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/822115
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/822115
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses durch den Christopherus-Schulverein München e.V. i.H.v. 1.125,00 Euro
+- TOP 2.1.: Brunnen am südlichen Ende des Galeria-Hauses (Lehrer-Wirth-Straße)
+- TOP 2.2.: Verkehrsrechtliche Anordnung in der Feldbergstraße (zuzügl. zwei Antwortschreiben des Kreisverwaltungsreferates)
+- TOP 2.3.: Beantragung einer Kurzparkzone im Schatzbogen
+- TOP 2.4.: Blaue Zone der Messestadt Riem; Einfahrt Willy-Brandt-Allee / Lehrer-Wirth-Straße
+- TOP 2.5.: Buslinie 192 in der Zehntfeldstraße
+- TOP 2.6.: Tempolimit und / oder Schallschutzwand auf der Ausfallstraße A94 entlang der Strecke Altriem
+- TOP 2.7.: Nutzung des Riemer Sees auch im Winter
+- TOP 2.8.: Baustellen-Wasseranschluss in Garagenzufahrt
+- TOP 3.1.: Einrichtung einer Schiedsstelle bei kommunalverfassungsrechtlichen Streitigkeiten zwischen Bezirksausschüssen und Stadt; Antrag Nr. 02-08 / B 01118 (Beschluss des Verwaltungs- und Personalausschusses vom 18.10.2006)
+- TOP 3.2.: Verbesserung der Einsicht vom Horst-Salzmann-Weg in die St.-Augustinus-Straße, Antrag Nr. 02-08 / B 01310; Wiederherstellung des Horst-Salzmann-Weges, Antrag Nr. 02-08 / B 01311 (in Oktobersitzung vertagt)
+- TOP 3.3.: Stadt Quartier Riem Arcaden in der Messestadt - Verkehrsleitsystem, Antrag Nr. 02-08 / B 00965
+- TOP 3.4.: Messestadt Riem Kopfbau und Tribünenanlage, Anträge Nr. 1937 und Nr. 2284
+- TOP 3.5.: Schutzstreifen für Radfahrer in der Truderinger Straße zwischen Bajuwarenstraße und Lehrer-Götz-Weg, WV 5 III
+- TOP 3.6.: Einrichtung einer Fahrradstraße im Schrammingerweg, Antrag Nr. 02-08 / B 01484 Zwischenbericht
+- TOP 3.7.: Kartierte Biotope und ökologische Vorrangflächen, Antrag Nr. 02-08 / B 01115
+- TOP 3.8.: Kultur im Stadtquartier Leistungsübersicht des Kulturreferates zur Stadtteilkultur
+- TOP 3.9.: Frage der Neugründung eines Gymnasiums in München Trudering-Riem, Antrag Nr. 02-08 / B 01320; Zwischenbericht des bay. Staatsministeriums für Unterricht und Kultus
+- TOP 3.10.: Kindertagesstätte in der Feldbergstraße 83 - Streichung des Englischunterrichts, WV 9II/01/06 und WV 10 II/10/05
+- TOP 3.11.: Erweiterung und Umbau Grundschule und Kindertagesstätte Forellenstraße 1 (Vormerkung zum Gespräch am 19.10.06)
+- TOP 3.12.: Lehrstellensituation in Trudering-Riem, Antrag Nr. 02-08 / B 01417 zuzüglich Ergänzungsantrag der Grünen
+- TOP 3.13.: Dauer-Verdruss am S-Bahnhof Gronsdorf, Antrag Nr. 02-08 / B 01411
+- TOP 3.14.: Heldackerweg - ehemaliger Containerstandort, Antrag Nr. 02-08 / B 01312
+- TOP 3.15.: Änderungen in den Müllabfuhr-Gebieten ab der 45. Kalenderwoche
+- TOP 4.1.: Lärmkartierung für Trudering-Riem
+- TOP 4.2.: Baumschutz ja - aber ohne Schikanen
+- TOP 4.3.: Städtebauliche Entwicklung an der Wasserburger Landstraße südlich zwischen Drosselweg und Bahnstraße
+- TOP 4.4.: Strategien zur Lösung von Bewohnerkonflikten in großen Wohnanlagen
+- TOP 4.5.: Verbesserung der Bringsituation vor der Grundschule an der Forellenstraße
+- TOP 4.6.: Mehr öffentliche Stadtplaninformationen für Trudering-Riem
+- TOP 4.7.: Schienenlärm an der Basis verringern
+- TOP 4.8.: Bello Automaten von Clean und Clever für sämtliche Grünflächen im Stadtgebiet
+- TOP 4.9.: Widmung des Horst-Salzmann-Weges
+- TOP 5.1.: Flohmarktveranstaltungen 2007 auf der Sonderfreifläche Riem
+- TOP 5.2.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 5.3.: Grenzkolonie München-Trudering; Vodafone-Standort
+- TOP 5.4.: Halteverbot in der Truderinger Straße (erneute Anhörung)
+- TOP 6.1.: Information der Referate Bürgerversammlung des 15. Stadtbezirkes Trudering-Riem am 07.12.2006
+- TOP 6.2.: Einladung durch den Oberbürgermeister Bürgerversammlung des 15. Stadtbezirkes Trudering-Riem am 07.12.2006
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.7.2: UA Planung:
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.1.: Kreillerstraße - Vollanschluss U-1546 / U-1547 Anhörung gemäß § 3 der Satzung für die Bezirksausschüsse
+- TOP 7.2.: Gespräch mit dem Baureferat - Tiefbau bezüglich der zu sanierenden Straßen im Stadtbezirk
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.1.: Budget der Bezirksausschüsse (hier: Inanspruchnahme städtischer Leistungen), Schreiben des Direktoriums
+- TOP 7.2.: Bestellung städtischer Leistungen; Schreiben des Direktoriums
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 7.1.: Bürgerbeteiligung in der Messestadt - Informationsschreiben des Baureferats
+- TOP 7.2.: S-Bahn-Strecke S2 Ost Antrag auf Einführung des 10-Minuten-Takts in den HVZ (früh und abends) zwischen Ostbahnhof und Markt Schwaben; Informationen zur Sitzung des Regionalen Planungsverband zuzüglich eines aktuellen Schreibens der Gde. Aschheim
+- TOP 8.1.: Bescheide und Mitteilungen über bereits durchgeführte Baumfällungen: Waldtruderinger Straße 49, Kathreinweg 30, Florastraße 7
+- TOP 8.2.: Kreillerstraße 185
+- TOP 8.3.: Heldackerweg 9
+- TOP 8.4.: Ottilienstraße 64
+- TOP 8.5.: Bartholomäer Straße 6
+- TOP 8.6.: Turnerstraße 42
+- TOP 8.7.: Elritzenstraße 13
+- TOP 8.8.: Von-Trotha-Straße 2
+- TOP 8.9.: Neusatzer Straße 14
+- TOP 8.10.: Solalindenstraße 41
+- TOP 8.11.: Edeltraudstraße 19
+- TOP 8.12.: Salzmesserstraße 83
+- TOP 8.13.: Helgastraße 8
+- TOP 8.14.: Drosselweg 30
+- TOP 8.15.: Salzmesserstraße 71
+- TOP 8.16.: Günderodestraße 16
+- TOP 8.17.: Hoferichterweg 28
+- TOP 8.18.: Dar-es-Salaam-Straße 5
+- TOP 8.19.: Von-Erckert-Straße 62
+- TOP 8.20.: Drosselweg 24
+- TOP 8.21.: Dorotheenstraße 13
+- TOP 8.22.: Hans-Pfann-Straße 7
+- TOP 8.23.: Schneebergstraße 24
+- TOP 8.24.: Am Moosfeld 48 b
+- TOP 8.25.: Eisgruberstraße 25
+- TOP 8.26.: Sulzer-Belchen-Weg 20
+- TOP 8.27.: Kathreinweg 17
+- TOP 9.1.: Termine und Mitteilungen: a) Sitzungstermine für das Jahr 2007 b) Einladung zum konstituierenden Treffen sozial engagierter Münchnerinnen und Münchner c) Monate des religiösen Trialogs in München - ausgewählte Veranstaltungen im November 2006 d) Einladung zur Informationsveranstaltung des Sozialreferats für die Bezirksauschüsse am 30.11.2006
+- TOP 9.2.: Änderungen im Filialnetz - Schreiben der Deutschen Post AG
+- TOP 9.3.: Ergebnisse der BA-Satzungskommission am 24.10.2006
+- TOP 9.4.: Serviceoffensive im MVV
+- TOP 9.5.: Mitteilung eines BA-Mitgliedes (Wechsel vom Bürgerforum/Take Off zur evang. Gemeinde)
+- TOP 9.6.: Gestaltung der Schwimmbadeintrittspreise für Kinder, Jugendliche und Familien; Informationsschreiben des BA 7 Sendling-Westpark
+- TOP 9.7.: Flughafen Oberpfaffenhofen; Informationsschreiben des BA 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln
+- TOP 9.8.: Erhalt der Baumschutzverordnung; Informationsschreiben des BA 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln
+- TOP 9.9.: Musternutzungsvertrag für kulturelle Einrichtungen - Bekanntgabe
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 09.10.2006 bis 05.11.2006
+- TOP 10.2.: Zweckentfremdung von Wohnraum - Ankoglstraße 3
+- TOP 10.3.: Zweckentfremdung von Wohnraum - Lehrer-Götz-Weg 2, 1.OG rechts
+- TOP 10.4.: Zweckentfremdung von Wohnraum - Waldschulstraße 66
+- TOP 10.5.: Zweckentfremdung von Wohnraum - Florastraße 53
+- TOP 10.6.: Zweckentfremdung von Wohnraum - Von-Heydebreck-Straße 18
+- TOP 10.7.: Zweckentfremdung von Wohnraum - Himalajastraße 35
+- TOP 10.8.: Zweckentfremdung von Wohnraum - Wiesbachhornstraße 4
+- TOP 10.9.: Zweckentfremdung von Wohnraum - Anechostraße 43
+- TOP 10.10.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Coco Loco, Kreillerstraße 216
+- TOP 10.11.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Cobra, Truderinger Straße 212
+- TOP 10.12.: Zuwendungsbewilligung aus dem Budget des BA 15 für das Bürgerzentrum Trudering i.H.v. 3.500,00 Euro
+- TOP 10.13.: Zuwendungsbewilligung aus dem Budget des BA 15 für die Allegro-Private Vorschule Waldtrudering i.H.v. 2.500,00 Euro
+- TOP 10.14.: Zuwendungsbewilligung aus dem Budget des BA 15 für die Evang.-Lutherische Friedenskirche i.H.v. 240,00 Euro
+- TOP 10.15.: Ablehnung einer Bezuschussung aus dem Budget der Bezirksausschüsse für die Freunde der Freiwilligen Feuerwehr Michaeliburg e.V. i.H.v. 2.500,00 Euro
+- TOP 10.16.: Änderung der Parkzeit - Verkehrsrechtliche Anordnung nach § 45 StVO; Wasserburger Landstraße zwischen Von-Erckert-Straße und Jagdhornstraße
+- TOP 10.17.: Verkehrshelferübergang am Förderzentrum München Ost - Verkehrsrechtliche Anordnung nach § 45 StVO; Astrid-Lindgren-Straße/Magdalena-Schwarz-Straße
+- TOP 10.18.: Vollzug des Bundesimmissionsschutzgesetzes (BImSchG); Bescheid an die IRV Interroh Rohstoffverwertungs GmbH
+- TOP 10.19.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogrammes Bayern 2006, Beschluss der Vollversammlung des Stadtrates vom 25.10.2006
+- TOP 10.20.: Messestadt Riem, 3. Bauabschnitt - Einrichtung eines Kindergartens mit 3 Kindergartengruppen (Kita 1) 15. Stadtbezirk Trudering-Riem; Änderung des Mehrjahresinvestitionsprogramms 2006 - 2010; Beschluss der Vollversammlung des Stadtrates vom 05.10.2006
+- TOP 10.21.: Mitteilung des Kulturreferats; Veranstaltungen / Kooperationen Oktober 2006
+- TOP 10.22.: Beschlussvollzugskontrolle (BVK); 3. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2006; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 20.09.2006
+- TOP 10.23.: Informationen zum Festival Tollwood zuzügl. Prospekt (s. Extraordner)
+- TOP 10.24.: Da sein für München - 07. Oktober 2006 zuzügl. Prospekt (s. Extraordner)
+- TOP 10.25.: Dokumentation des Stadtratshearings "Demographischer Wandel und familienfreundliche Großstadt" zuzügl. Prospekt (s. Extraordner)
+- TOP 10.26.: Stadtjugendamt Jahresbericht 2005 Teil 1 und Teil 2 (s. Extraordner)
+- TOP 10.27.: Umweltreport (s. Extraordner)
+- TOP 10.28.: Deutsche Großstädte im Vergleich - Studie der IW Consult GmbH im Auftrag der Initiative Neue Soziale Marktwirtschaft (s. Extraordner)
+- TOP 10.29.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Icarus Stadtteilcafe Riem, Maria-Montessori-Straße 20
+- TOP 10.30.: Verkehrsrechtliche Erlaubnis nach §§ 29 und 32 StVO für Film- und Fotoaufnahmen auf öffentlichem Verkehrsgrund im Lohnrösslerweg
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
