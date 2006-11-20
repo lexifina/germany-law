@@ -1,0 +1,61 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2006-11-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/802920
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/802920
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: REGSAM-Veranstaltung
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Besprechung im Planungsreferat bezügl. Querung Georg-Brauchle-Ring und Öffnung des Mittelteilers auf Höhe Riesstraße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Unterführung S-Bahn
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Neuordnung der südseitigen Baubergerstraße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 6.: Anhörungen
+- TOP 6.1.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 6.2.: Errichtung einer Fahrradstraße in der Jakob-Hagenbucher-Straße zwischen Pelkoven- und Riesengebirgstraße
+- TOP 6.3.: Verkehrsrechtliche Anordnung zweier Haltestellen in der Pelkovenstraße
+- TOP 6.4.: Errichtung von 4 Plakatanschlagtafeln in der Pelkovenstraße 80
+- TOP 6.5.: Vollzug der Baumschutzverordnung: 1. Hardenbergstr. 27 Fr. Schrimpf 2. Haylerstr. 39 d Hr. Ettl 3. Plauener Str. 13 Hr. Jobst 4. Quedlinburger Str. 37 Hr. Jobst
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Lärmbelästigung durch eine Gaststätte (Schreiben der 2. Bürgermeisterin)
+- TOP 7.2.: Verlegung einer Gasleitung in der Hardenbergstraße
+- TOP 7.3.: Bahnhofsgebäude München-Moosach
+- TOP 7.4.: Fußweg Ehrenbreitsteiner Straße 28 - Hanauer Straße 91 (Sachstand)
+- TOP 7.5.: Weiterführung der Planungen für ein Bürgerbüro in Moosach (Sachstand)
+- TOP 7.6.: Verwertung des städt. Grundstücks Bauberger-/Bunzlauer-/Gubestraße
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Anträge und Empfehlungen aus der Bürgerversammlung am 19.10.06
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München
+- TOP 8.3.: Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006
+- TOP 8.4.: Magnetschwebebahn München Hauptbahnhof - Flughafen; Sicherheitsproblematik
+- TOP 8.5.: Raumordnungsverfahren für eine 3. Start- und Landebahn des Verkehrsflughafens München - Stellungnahme der Landeshauptstadt München (Änderungsbeschluss)
+- TOP 8.6.: Verkehrsrechtliche Anordnung Riesstraße 96 (Feuerwehrzufahrt)
+- TOP 8.7.: Fällungsgenehmigungen: 1. Meggendorferstraße 22 2. Nanga-Parbat-Str. 2-12 und Hugo-Troendle-Str. 26-42 3. Dresdner Str. 53 4. Josef-Knogler-Str. 1-11
+- TOP 8.8.: Sanierung der Ludwigsfelder Straße zwischen Spiegelbergstraße und Am Neubruch
+- TOP 8.9.: Einrichtung einer Schiedsstelle bei kommunalverfassungsrechtlichen Streitigkeiten zwischen Bezirksausschüssen und Stadt
+- TOP 8.10.: Musternutzungsvertrag für kulturelle Einrichtungen
+- TOP 8.11.: Lärmbelästigung durch "The Tent" während der Oktoberfestzeit (Schreiben der Stadibau)
+- TOP 8.12.: Kultur im Stadtquartier
+- TOP 8.13.: Gestaltung der Schwimmbadeintrittspreise für Kinder, Jugendliche und Familien (Schreiben des BA 7 Sendling-Westpark)
+- TOP 8.14.: Betriebliche Änderungen für den Sonderflughafen Oberpfaffenhofen (Schreiben des BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln)
+- TOP 8.15.: Erhalt der Baumschutzverordnung (Schreiben des BA 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln)
+- TOP 8.16.: Meldeliste Bauvorhaben
+- TOP 8.17.: Dokumentation des Stadtratshearings "Demographischer Wandel und familiengerechte Großstadt" (Broschüre)
+- TOP 4: Anträge
