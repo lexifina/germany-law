@@ -1,0 +1,96 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2006-11-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/769879
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/769879
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Raabennest Kindergarten e.V., für die Maßnahme: Anschaffung von kindgerechten Möbeln; Antragssumme: 4.531,49 Euro; Beschlussvorlage des Direktoriums vom 16.10.2006 - <div>Zustimmung in voller beantragter Höhe</div>
+- TOP 3.2.: AntragstellerIn: Verein zur Förderung der Waldorfpädagogik Harlaching e.V., für die Maßnahme: Kauf von Musikinstrumenten; Antragssumme: 1.307,32 Euro; Beschlussvorlage des Direktoriums vom 30.10.2006 - <div>Zustimmung in voller beantragter Höhe</div>
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Ökumenische Sozialstation Giesing-Harlaching gGmbH, für die Maßnahme: 30-Jahrfeier der Ökumenischen Sozialstation; Antragssumme: 1.505,-- Euro; Antrag vom 17.10.2006 zu TOP 3.1.3.1.1 Schreiben der Ökumenischen Sozialstation vom 30.10.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Sachbericht über die Neuanschaffung eines Bauwagens; Schreiben des Waldkindergartens des Vereins Wurzelkinder e.V. vom 11.10.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Schreiben des Direktoriums vom 18.10.2006 an den Elternbeirat der Grundschule Fromundschule bezüglich der Zuwendung aus dem Budget für den Deutschkurs für Mütter im Schuljahr 2006 / 2007 zu 3.1.7.1 Schreiben des Elternbeirats der Grundschule Fromundschule vom 29.10.2006 (der Antrag wurde zurückgezogen.) - <div>zur Kenntnis genommen</div>
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen in der Autharistraße; Bescheinigung vom 04.10.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: 5. Expertenrunde Isar-Plan; Planungsabschnitt zwischen der Braunauer Eisenbahnbrücke und dem Deutschen Museum; Zuleitung des Baureferats vom 10.08.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Erhalt der Baumschutz-VO; Schreiben des BA 19 vom 12.10.2006 mit der Bitte, sich dem Thema anzunehmen und aktiv zu werden. - <div>Unterstützung </div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Wann kommt endlich der Kindergarten an der Säbener Straße? Beschluss des Schulausschusses des Stadtrates vom 08.11.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen in der Harlachinger Str.; Zuleitung vom 11.10.2006 (vertagt aus der Sitzung vom 17.10.2006) - <div>Zustimmung</div>
+- TOP 3.2.: Anwesen in der Wunderhornstr.; Zuleitung vom 10.10.2006 (vertagt aus der Sitzung vom 17.10.2006) - <div>Zustimmung</div>
+- TOP 3.3.: Anwesen in der Pilgersheimer Str.; Zuleitung vom 11.10.2006 (vertagt aus der Sitzung vom 17.10.2006) - <div>Zustimmung</div>
+- TOP 3.4.: Anwesen in der Krumpterstr.; Zuleitung vom 11.10.2006 (vertagt aus der Sitzung vom 11.10.2006) - <div>Zustimmung</div>
+- TOP 3.5.: Anwesen in der Grünwalder Str.; Zuleitung vom Oktober 2006 (vertagt aus der Sitzung vom 17.10.2006) - <div>Ablehnung</div>
+- TOP 3.6.: Anwesen in der Konradinstr.; Zuleitung vom 10.10.2006 (vertagt aus der Sitzung vom 17.10.2006) - <div>Zustimmung</div>
+- TOP 3.7.: Anwesen am Sanatoriumsplatz; Zuleitung vom 09.10.2006 (vertagt aus der Sitzung vom 17.10.2006) - <div>Zustimmung</div>
+- TOP 3.8.: Anwesen in der Methfesselstr.; Zuleitung vom 12.10.2006 (vertagt aus der Sitzung vom 17.10.2006) - <div>Zustimmung</div>
+- TOP 3.9.: Anwesen in der Haselburgstraße; Zuleitung vom 08.09.2006 (vertagt aus der Sitzung vom 19.09. und 17.10.2006) - <div>Zustimmung zum geplanten Neubau des Wohngebäudes; Ablehnung des Grundstücksverkaufs</div>
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Anwesen in der Defreggerstr.; Zuleitung vom 06.10.2006 (vertagt aus der Sitzung vom 17.10.2006) - <div>Ablehnung</div>
+- TOP 3.2.: Anwesen in der Lautererstr.; Zuleitung vom 11.10.2006 (vertagt aus der Sitzung vom 17.10.2006) - <div>Ablehnung</div>
+- TOP 3.1.: Baufälle im 18. Stadtbezirk - <div>einzelne Baufälle werden zur Anhörung angefordert.</div>
+- TOP 3.2.: Gaststätten (unveränderte Forführungen); Mitteilungen des KVR 3.5.6.2.1 Kleingaststätte "Kaiserstüberl"; Schönstraße; Mitteilung vom 04.10.2006 3.5.6.2.2 Kleingaststätte "Selin Imbiss"; Humboldtstr.; Mitteilung vom 31.10.2006 3.5.6.2.3 Trink- und Imbisskiosk "Tierparkkiosk"; Tierparkstr.; Mitteilung vom 02.11.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011; Sitzungsvorlagen Nr. 02-08/V 08804; Beschluss der gemeinsamen Ausschüsse für Stadtplanung u. Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 11.10.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Rechtschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 11.10.2006 zu 3.5.6.4 Beschluss der Vollversammlung des Stadtrates vom 25.10.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Musternutzungsvertrag für kulturelle Einrichtungen - Bekanntgabe; Bekanntgabe in der Sitzung des Kulturausschusses vom 28.09.2006 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Kultur im Stadtquartier; Leistungsübersicht des Kulturreferates zur Stadtteilkultur; Zuleitung vom Oktober 2006 - <div>zur Kenntnis genommen</div>
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Gestaltung der Schwimmbadeintrittspreise für Kinder, Jugendliche und Familien; Antrag Nr. 02-08 / B 01499 des BA 7 Sendling - Westpark vom 10.10.2006 mit der Bitte um Unterstützung - <div>nach Antrag</div>
+- TOP 4.2.: Betriebliche Änderungen für den Sonderflughafen Oberpfaffenhofen; Schreiben des BA 19 vom 16.10.2006 mit der Bitte um Unterstützung - <div>Nichtbefassung </div>
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: 4F-circle-Bewegungsinseln; E-Mail des Baureferates-Gartenbau vom 09.11.2006 mit der Bitte um Rückmeldung - <div>BA fordert eine detailierte Kalkulation und bekundet mehrheitliches Interesse</div>
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Briefkasten für den 18. Stadtbezirk Untergiesing-Harlaching; Schreiben der Deutschen Post AG vom 02.11.2006 zur Sitzung des BA 18 vom 17.10.2006 - <div>zur Kenntnis genommen</div>
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Einrichtung einer Schiedsstelle bei kommunalverfassungsrechtlichen Streitigkeiten zwischen Bezirksausschüssen und Stadt; BA-Antrag-Nr. 02-08 / B 01118 des Bezirksausschusses des Stadtbezirkes 15 - Trudering-Riem vom 27.04.06 (ED 03.05.2006); Beschluss des Verwaltungs- und Personalausschusses vom 18.10.2006 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
