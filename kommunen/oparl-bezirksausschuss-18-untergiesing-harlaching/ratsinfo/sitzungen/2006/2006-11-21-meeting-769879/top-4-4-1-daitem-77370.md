@@ -1,0 +1,7 @@
+# TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+
+- Sitzung: BA 18 - Vollgremium (2006-11-21)
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/77370
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/77370
