@@ -1,0 +1,60 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2006-11-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/829056
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/829056
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Ausübung des Vorkaufsrechtes nach BauGB durch die LH München
+- TOP .2.: Erhalt des Stadtteilprojektes ?Zenetti-Treff 3? im Schlachthofviertel
+- TOP .2.1.: BA-Budget
+- TOP .2.2.: Kultur
+- TOP .1.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP .1.: Gestaltung der Schwimmbadeintrittspreise für Kinder, Jugendliche und Familien (An-trag des BA 7)
+- TOP .5.1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .1.: Konkrete Planungen Regionalzughalt Poccistraße
+- TOP .2.: Fuß- und Radverkehr in der Kapuzinerstraße
+- TOP .3.: Straßenreinigung im Umgriff Gärtnerplatz/Fraunhoferstraße/Müllerstraße
+- TOP .3.1.: Bauvorhaben
+- TOP .1.: Arndtstr. 6, Renovierung VGB, Dg-Ausbau, Aufzugseinbau, Balkonanbau, Renovie-rung RGB, Nutzungsänderung (Gewerbe zu Wohnen)
+- TOP .2.: Westermühlstr. 24, VGB: DG-Ausbau, Nutzungsänderung EG (WE zu Büro), RG: Abbruch und Neubau Balkone, Umbau v. Wohnungen (Tektur)
+- TOP .3.: Baumstr. 8, Neubau einer Kinderkrippe mit 3 Gruppenräumen und Neubau eines Mehrfamilienhauses mit TG
+- TOP .4.: Westermühlstr. 23, Neubau eines Mehrfamilienhauses mit TG
+- TOP .5.: Müllerstr. 3, Anbringung einer hinterleuchteten Werbewechselanlage als Wandanlage
+- TOP .6.: Auenstr. 20 / Baaderstr. 79, Nutzungsänderung (Umbau eines Schwesternwohn-heims in ein Wohn- und Geschäftshaus), DG-Aufbauten, Balkonanbauten
+- TOP .7.: Arnulfstraße/Hauptbahnhof Nord, Aufbau einer hinterleuchteten Werbewechselanlage
+- TOP .8.: Arnulfstraße/Starnberger Flügelbahnhof, Aufbau einer hinterleuchteten Werbewechsel-anlage
+- TOP .9.: Stadtentwässerung Erhardtstraße
+- TOP .1.: Untersuchung der Verkehrssituation im Tal; Beschlussentwurf zur Behandlung einer BV-Empfehlung des 1. Stadtbezirks
+- TOP .1.: Betriebliche Änderungen für den Sonderflughafen Oberpfaffenhofen (Schr des BA 19)
+- TOP .5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP .1.: Kreuzung Bayer-/Goethestraße; Abbiegemöglichkeit für Taxis
+- TOP .3.1.: Sperrzeit-Angelegenheiten
+- TOP .3.2.: Freischankflächen
+- TOP .3.3.: Warenstellagen
+- TOP .3.4.: Verkehr
+- TOP .1.: Straßefest in der Pestalozzistraße am 01.09.2007
+- TOP .1.: Kreuzung Bayer-/Goethestraße; Abbiegemöglichkeit für Taxis (Bürgerschreiben)
+- TOP .2.: Beschwerde über Türsteher des Hotels ?Le Meridien? (Bürgerschreiben)
+- TOP .5.1: Berichte der Beauftragten ( AK Theresienwiese)
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP .3.2.: Berichte aus den anderen BA
+- TOP .3.3.: Bericht des Internetbeauftragten
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Infos)
+- TOP .2.: Veranstaltungen
