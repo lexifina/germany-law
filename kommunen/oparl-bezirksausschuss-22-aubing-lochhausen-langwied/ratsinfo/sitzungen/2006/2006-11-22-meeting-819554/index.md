@@ -1,0 +1,64 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2006-11-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/819554
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/819554
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Einfahrtskennzeichnung vor dem Haupteingang des BRK-Seniorenheimes
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Wegeführung des Radlweges Altostraße
+- TOP 4.2.: Beleuchtung hinter dem Kindergarten St. Markus und schlechter Zustand des Weges
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Grundschule Gotzmannstraße
+- TOP 2: (E) Straßenbenennung im 22. Stadtbezirk Aubing-Lochhausen-Langwied An der Langwieder Haide Vergabe des Straßennamens "An der Langwieder Haide" für die Bergsonstraße (neu) Empfehlung Nr. 84 der Bürgerversammlung des 21. Stadtbezirkes/Bezirksteil Obermenzing vom 15.10.1998 Straßenbenennung Bergsonstraße alt/neu, Lochhausener Straße alt/neu, Obere Mühlstraße alt/neu BA-Antrags-Nr. 02-08 / B 00920 des Bezirksausschusses des Stadtbezirkes 21 Pasing-Obermenzing vom 15.02.2006
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: Bezirkssportanlage an der Kronwinkler Str. 25, Empfehlungen Nr. 439, 441 und 442 der Bürgerversammlung vom 27.06.06 (vertagt aus Sitzung 09/06)
+- TOP 6.3.: Antrag auf Genehmigung einer Veranstaltung in der Aubinger Lohe, 32. Teufelsberg-Lauf am 12.11.06
+- TOP 6.4.: Antrag auf Genehmigung einer Veranstaltung auf öffentlichem Verkehrsgrund, hier: Aubinger Christkindlmarkt auf dem Gößweinsteinplatz am 09.12.06
+- TOP 6.5.: Verkehrsrechtliche Anordnung, Neusituierung der Ortstafel im Zuge der Bodenseestraße
+- TOP 6.6.: Kronwinkler Str. 32, Neubau eines Bürogebäudes, Erweiterung einer Lagerhalle, Freilagerflächen, Vorbescheid
+- TOP 6.7.: Anton-Böck-Straße; Neubau eines Möbelhauses mit Parkgalerie
+- TOP 6.8.: Rupert-Bodner-Str. 3, Umbau und Sanierung einer ehemaligen Heizkraftwerksanlage
+- TOP 6.9.: Beteiligungs- und Entscheidungsrechte der BA´s bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 6.10.: Veranstaltungen / Kooperationen November 2006, Mitteilung Kulturreferat vom 31.10.06
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Gestaltung der Schwimmbadeintrittspreise für Kinder, Jugendliche und Familien, Schr. BA 7 vom 20.10.06
+- TOP 7.2.: Planfeststellung nach § 18 AEG für das Bauvorhaben "Erneuerung/ Ersatzneubau der 110-kV-Bahnstromleitung Karlsfeld-Augsburg, Planfeststellungsabschnitt A Bezirk Oberbayern", Schr. Planungsreferat vom 17.10.06
+- TOP 7.3.: Betriebliche Änderungen für den Sonderflughafen Oberpfaffenhofen, Schr. BA 21 vom 16.10.06
+- TOP 7.4.: Gewerbeentwicklung Freiham; Vergabe von städtischen Gewerbeflächen, Schr. Referat f. Arbeit u. Wirtschaft vom 23.10.06
+- TOP 7.5.: Wirtschafts-Info 10/2006, Schr. Referat f. Arbeit u. Wirtschaft vom 31.10.06
+- TOP 7.6.: Ausnahmebewilligung für Baustellenzufahrt an der Dietrichsteinstraße vom 30.10.-31.12.2006, Schr. Baureferat vom 25.10.06
+- TOP 7.7.: Baumaßnahmen der Stadtwerke München, Stichtag: 30.10.06, 06.11.06
+- TOP 7.8.: Baufälle im 22. Stadtbezirk (vom 16.-29.10.06), Schr. Planungsreferat vom 30.10.06
+- TOP 7.9.: Zweckentfremdung von Wohnraum, Kravogelstr. 34, Schr. Sozialreferat vom 06.11.06
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Entfernung von Altkleidercontainern an der Ecke Köferinger-/ Kravogelstraße, Schr. Baureferat vom 13.10.06
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Vollversammlung vom 25.10.06 - Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogrammes Bayern 2006 - Einrichtung einer Schiedsstelle bei kommunalverfassungsrechtlichen Streitigkeiten zwischen BA´s und Stadt
+- TOP 9.2.: Vollversammlung vom 05.10.06 - Raumordnungsverfahren für eine 3. Start- und Landebahn des Verkehrsflughafens München; Einleitung des Verfahrens und Anhörungsverfahren - Stellungnahme der LH München
+- TOP 9.3.: Ausschuss für Stadtplanung und Bauordnung vom 08.11.06 - Bauleitplanung Gleisdreieck Pasing - Sonderflughafen Oberpfaffenhofen, Luftrechtliche Genehmigung, Antrag auf Ergänzung und Änderung
+- TOP 9.4.: Bauausschuss vom 14.11.06 - Bebauungsplan mit Grünordnung Nr. 1703 Schussenrieder Straße, Schubinweg und Amelbrechtweg
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 20.12.2006, Gaststätte "Wienerwald", Limesstr. 63
