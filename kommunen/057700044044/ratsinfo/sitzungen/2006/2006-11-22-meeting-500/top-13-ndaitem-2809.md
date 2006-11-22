@@ -1,0 +1,9 @@
+# TOP 13.: Info Gemeindesportverband
+
+- Sitzung: Jugend-, Sozial- und Sportausschuss (4. Sitzung) (2006-11-22)
+- Körperschaft: Gemeinde Stemwede
+- Öffentlich: ja
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/2809
+- Ergebnis: Zur Kenntnis genommen
+- Beratung: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/1168
+- Beschluss (Datei): Beschluss (Info Gemeindesportverband) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUWkDE4xKvjH7KvJWt03LJJ9WH4cHJdzK3U7tZq-cvsm/Beschluss_2006_-_177_-oeffentlich-_Jugend--_Sozial-_und_Sportausschuss_22.11.2006.pdf
