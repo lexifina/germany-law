@@ -1,0 +1,88 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2006-11-23T17:30:00+01:00
+- Ende: 2006-11-23T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1295
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1295
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=55350
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilung - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Schließung Nordufer - beantwortet
+- TOP 5.2: "Stadtumbau West" - beantwortet
+- TOP 5.3: MieterInnen-Vertreibung Lützowplatz - DIBAG lässt Maske fallen ( Lützowufer 20-23, Lützowplatz 2-18 sowie Wichmannstraße 1 & 2) - beantwortet
+- TOP 5.4: Gib Aids keine Chance? - beantwortet
+- TOP 5.5: Bewirtschaftung des Haushaltes - beantwortet
+- TOP 5.6: Frieren Mittes Schulkinder diesen Winter nicht mehr? - beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Was geschah am Monbijouplatz 4 - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Soziale Stadterneuerung sichern - beantwortet
+- TOP 7.2: Probleme in der Schulanfangsphase - beantwortet
+- TOP 7.3: Strategien, Konzepte und Ziele des neuen Bezirksamtes für eine zukunftsfähige Entwicklung des Bezirks Mitte ( 1): Geschäftsbereiche Gesundheit, Personal, Rechtsamt und Steuerungsdienst - beantwortet
+- TOP 7.4: Verliert ein Kiez sein Gesicht? - beantwortet
+- TOP 7.5: Veto gegen Teilabriss des Tränenpalastes - schriftlich beantwortet
+- TOP 7.6: Erkenntnisse Kundenmonitoring in den Bürgerämtern - schriftlich beantwortet
+- TOP 7.7: Strategien, Konzepte und Ziele des neuen Bezirksamtes für eine zukunftsfähige Entwicklung des Bezirks Mitte ( 2): Geschäftsbereiche Ordnung und Gewerbe, Gebäude- und Dienstleistungsmanagement - beantwortet
+- TOP 7.8: Aufstellungsbeschluss zum B-Plan 1-43 VE - schriftlich beantwortet
+- TOP 7.9: Strategien, Konzepte und Ziele des neuen Bezirksamtes für eine zukunftsfähige Entwicklung des Bezirks Mitte ( 3): Geschäftsbereiche Soziales und Bürgerdienste - beantwortet
+- TOP 7.10: Strategien, Konzepte und Ziele des neuen Bezirksamtes für eine zukunftsfähige Entwicklung des Bezirks Mitte ( 4): Geschäftsbereiche Bibliotheken und Kultur, Schule und Sport sowie Weiterbildung - beantwortet
+- TOP 7.11: Strategien, Konzepte und Ziele des neuen Bezirksamtes für eine zukunftsfähige Entwicklung des Bezirks Mitte ( 5): Geschäftsbereiche Jugend und Finanzen - beantwortet
+- TOP 7.12: Strategien, Konzepte und Ziele des neuen Bezirksamtes für eine zukunftsfähige Entwicklung des Bezirks Mitte ( 6): Geschäftsbereiche Planen und Genehmigen, Bauen, Vermessen, Umwelt und Natur - beantwortet
+- TOP 7.13: Frische Luft im Jobcenter - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Genehmigung der Bezirksrechnung für das Haushaltsjahr 2005 - überwiesen
+- TOP 9.2: Bebauungsplanentwurf 1-37 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-37 - überwiesen
+- TOP 9.3: Wahl und Berufung der stimmberechtigten Mitglieder des Jugendhilfeausschusses gemäß § 35 AG KJHG - in der BVV zurückgezogen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Bildung der Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Mitgliederzahl der Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Rotaprint muss Kulturstandort bleiben - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Frauenbeirat Stadtplanung einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Militariahandel mit NS-Symbolen auf Trödelmärkten unterbinden! - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Umsetzung Beleuchtungskonzept Weinbergspark sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Verbleib des Sozialmedizinischen Dienstes und der Beratungsstelle für sexuell übertragbare Krankheiten sowie AIDS im Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Sicherung der Kleingartenkolonie Wiesengrund - überwiesen
+- TOP 12.2: Ampelschaltung für freie Fahrt - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Erhalt Wohn- und Sozialprojekt Brunnenstraße 183/ Umsonstladen (II) - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Hortkinder gratis ins Hallenbad - überwiesen
+- TOP 12.6: Wartezeiten in den Bürgerämtern - überwiesen
+- TOP 12.7: Public-Private-Partnership bei der Sanierung von Schulen und Sporthallen - überwiesen
+- TOP 12.8: Einnahmen aus Grundstücksverkauf Chausseestraße für Sanierung des Sommerbades Seydlitzstraße vorhalten - überwiesen
+- TOP 12.9: Beiratsbesetzung - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Personelle Besetzung der BVV-Ausschüsse mit Bürgerdeputierten in der III. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Gebietsverträgliche BND-Baustellenlogistik gewährleisten - Entschädigungsfonds für AnwohnerInnen und Gewerbetreibende einrichten - überwiesen
+- TOP 12.12: Intranetzugang - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Wiedereinführung der Buslinie 187 durch Tiergarten-Süd - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Verkehrsschild am Lützowufer - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Verpflegung im Neuen Stadthaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Erläuterungsschilder zu Straßennamen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.3: Gegen Diskriminierung von Lesben und Schwulen in Moskau - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.4: Bebauungsplan am Bahnhof Gesundbrunnen III-221 fortführen ( II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Aufstellung des vorhabenbezogenen Bebauugsplanes 1-44VE im Bezirk Mitte, Ortsteil Tiergarten, die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugestzbuch und die frühzeitige Beteiligung der Behörden gemäß § 4 Abs. 1 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Aufstellung des vorhabenbezogenen Bebauungsplans 1-43VE im Bezirk Mitte, Ortsteil Moabit und die Durchführung der Bürgerbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch ( BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Geschäftsverteilung und Vertretungsregelungen des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: die Weiterführung des vorhabenbezogenen Bebauungsplanverfahren 1-44VE zur Errichtung eines Aussichtsrades am Zoologischen Garten im Bezirk Mitte, Ortsteil Tiergarten und die Einbringung einer Vorlage -zur Kenntnisnahme- bei der Bezirksverordnetenversammlung - mit Abschlussbericht zur Kenntnis genommen
