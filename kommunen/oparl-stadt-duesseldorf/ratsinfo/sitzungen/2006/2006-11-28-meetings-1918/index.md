@@ -1,0 +1,53 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-11-28T17:00:00+01:00
+- Ende: 2006-11-28T00:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1918
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1918
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111867.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111867.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111867.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: FNPÄ 31-Nach den Mauresköthen-Aufst -öff.Ausl.
+- TOP 4: BPl 5976/024-Nach den Mauresköthen- öff. Ausl.
+- TOP 5: Plan Nr. 5976/22-BsNach d.Mauresk.-Änd.Aufst.
+- TOP 6: B-Plan Nr. 6076/034 -Östl.Heyestr.-Öff.Bet.
+- TOP 7: Nach den Mauresköthen
+- TOP 8: Hatzfeldstraße
+- TOP 9: Festlegung der Zügigkeit
+- TOP 10: KSP Am Geisterberg
+- TOP 11: Einrichtung eines Wochenmarktes in Grafenberg
+- TOP 12: Sitzungstermine 2007
+- TOP 13: Zuschüsse zu kulturellen Veranstaltungen
+- TOP 14: Besichtigung der Glashütte
+- TOP 15: Gerresheim ist mehr als Obergerresheim
+- TOP 16: Lärmbekämpfung an der L 404 n
+- TOP 17: Gestaltung Friedhofsvorplatz Quadenhofstraße
+- TOP 18: Gestaltung Hochbeet Eingangsbereich St. Margareta
+- TOP 19: Friedhofstor Hubbelrath / Ortseingangsschild
+- TOP 20: Kleinspielfeld GGS Knittkuhl
+- TOP 21: Einbahnstraßenregelung Zweibrückenstraße
+- TOP 22: Heyestraße - Haltverbotsschild -
+- TOP 23: Spielplätze in der Stratenhofsiedlung
+- TOP 24: GGS Am Mergelsberg
+- TOP 25: Einfahrt Stratenweg
+- TOP 26: GGS Knittkuhl
+- TOP 27: Erklärung zum Leg-Verkauf
+- TOP 28: Lärmentwicklung Heyestraße durch Straßenbahnen
+- TOP 29: Öffentlich zugängliche Tiefgaragen Benderstraße
+- TOP 30: Ernst-Poensgen-Allee 5, 5 a
+- TOP 31: Bäume auf dem Platz an der Heinrich-Könn-Straße
+- TOP 32: Trassenverlauf L 404 n
+- TOP 33: Anbau Stift Gerresheim, Gerricusstraße
+- TOP 34: Schulsportanlage Peckhausweg
+- TOP 35: Böschung Bergische Landstraße
+- TOP 36: Begleitdienst für Senioren
