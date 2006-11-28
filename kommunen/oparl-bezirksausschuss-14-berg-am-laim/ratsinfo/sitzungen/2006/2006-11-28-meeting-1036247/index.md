@@ -1,0 +1,89 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2006-11-28T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1036247
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1036247
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 1.7: Besetzung der Unterausschüsse
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Grafinger Str. 6 - Kultfabrik ? Umbau/Änderung zur 7. Tektur Werk 2 ? Bereich Q-Club
+- TOP 3.1.1.2.: Erschließung des S-Bahnhofs Leuchtenbergring aus Richtung Neumarkter Str. ? Antrag Nr. 549 vom 26.07.06
+- TOP 3.1.2.1.: Nächtliche Lärmbelästigung und Fußgängergefährdung durch Taxen in der Trausnitzstraße
+- TOP 3.1.2.2.: Verkehrssituation Trausnitzstraße / Berg-am-Laim-Straße
+- TOP 3.1.2.3.: Bus 187 ? Prüfen einer Wendemöglichkeit in der Baumkirchner Straße / Grüner Markt
+- TOP 3.1.2.4.: Straßentunnels in München; Nachrüstung der Sicherheitseinrichtungen ? Leuchtenbergring-Tunnel ? Innsbrucker-Ring-Tunnel
+- TOP 3.2.1.: Erweiterung der Krautgärten
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Schulsozialarbeit in der HS Echardinger Grünstreifen und der GS Grafinger Straße
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Zuwendung aus dem Budget der Bezirksausschüsse ? Antrag der ARGE Ökologie
+- TOP 3.5.2.: Zuwendung aus dem Budget der Bezirksausschüsse ? Antrag der Kid´s Academy
+- TOP 3.6: Sonstiges
+- TOP 3.6.1.: Antrag auf Durchführung eines ?Winterzauber?-Marktes auf dem Gelände der Kultfabrik Zwischen Weihnachten und Hl. Dreikönig
+- TOP 3.6.2.: Antrag auf Durchführung eines ?Christkindlmarktes? auf dem Gelände Grünen Marktes
+- TOP 3.6.3.: Verkauf einer städtischen Immobilie an der Krumbad-/ Großgmainer Straße
+- TOP 3.6.4.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 3.6.5.: Änderung der Satzung über die Straßenreinigung der Landeshauptstadt München
+- TOP 3.7.1.: Krumbadstraße 25 + 27 ? Antrag auf Baumfällung
+- TOP 3.7.2.: Krumbadstraße 16 ? Antrag auf Baumfällung
+- TOP 3.7.3.: Bad-Kissingen-Straße 70 ? Antrag auf Baumfällung
+- TOP 3.7.4.: Hohenbrunner Str. 36 ? Antrag auf Baumfällung
+- TOP 3.7.5.: Gammelsdorfer Str. 8 ? Antrag auf Baumfällung
+- TOP 3.7.6.: Fehwiesenstraße 65 ? Antrag auf Baumfällung
+- TOP 3.7.7.: Gerlosstraße 10 ? Antrag auf Baumfällung
+- TOP 3.7.8.: Blombergstraße 14 ? Antrag auf Baumfällung
+- TOP 3.7.9.: Eibenstockstraße 16 ? Antrag auf Baumfällung
+- TOP 3.7.10.: Gerlosstraße 8 ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Bauvorhaben Kreillerstraße 77 - Anwohnerschreiben
+- TOP 4.1.1.3.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 - Ziel B II 1.2.1.2 (Einzelhandelsgroßprojekte) - Ziel B V 1.6.2 (Trassenkorridor für Schnellbahnverbindung) - Ziel B V 1.6.5 (Nutzung des Sonderflughafens Oberpfaffenhofen durch den Geschäftsreiseflugverkehr)
+- TOP 4.1.1.4.: Dokumentation des Stadtratshearing ?Demokratischer Wandel und familienfreundliche Großstadt?
+- TOP 4.1.2.1.: Buslinie 146 ? Anordnung der Haltestellen
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Arge Ökologie Berg am Laim ? Schreiben des Direktoriums
+- TOP 4.5.2.: Ludwig-Thoma-Realschule ? Schreiben des Direktoriums
+- TOP 4.5.3.: Hauptschule Innsbrucker Ring - Bescheid
+- TOP 4.6: Sonstige
+- TOP 4.6.1.: Einrichtung einer Schiedsstelle bei kommunalverfassungsrechtlichen Streitigkeiten zwischen Bezirksausschüssen und Stadt Antrag Nr. 02-08 / B 01118 des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 27.04.2006
+- TOP 4.7.1.: Beseitigung von Bäumen in der Fehwiesenstraße
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
