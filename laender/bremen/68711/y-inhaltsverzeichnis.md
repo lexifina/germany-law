@@ -8,23 +8,23 @@ Erster Abschnitt Allgemeine Bestimmungen
 § 5 | Zweckbindung der Daten
 § 6 | Meldegeheimnis
 Zweiter Abschnitt Schutzrechte
-§ 7 | Schutzwürdige Interessen der Betroffenen
-§ 8 | Rechte des Betroffenen
-§ 9 | Auskunft an den Betroffenen
+§ 7 | Schutzwürdige Interessen der betroffenen Personen
+§ 8 | Rechte der betroffenen Personen
+§ 9 | Auskunft an die betroffenen Personen
 § 10 | Berichtigung von Daten
 § 11 | Löschung und Aufbewahrung von Daten
 § 12 | Übernahme von Daten durch Archive
 Dritter Abschnitt Meldepflichten
 § 13 | Allgemeine Meldepflicht
-§ 14 | Mitwirkungspflicht des Wohnungsgebers
+§ 14 | (weggefallen)
 § 15 | Begriff der Wohnung
 § 16 | Mehrere Wohnungen
 § 17 | Erfüllung der allgemeinen Meldepflicht
 § 18 | Datenerhebung/Meldeschein
-§ 19 | Auskunftspflicht des Meldepflichtigen
-§ 20 | Auskunftspflicht des Wohnungsgebers
+§ 19 | Auskunftspflicht der meldepflichtigen Person
+§ 20 | Auskunftspflicht und -recht der wohnungsgebenden Person
 § 21 | Richtigkeit und Vollständigkeit des Melderegisters
-§ 22 | Binnenschiffer und Seeleute
+§ 22 | Binnenschifferinnen, Binnenschiffer und Seeleute
 § 23 | Befreiung von der Meldepflicht
 § 24 | Beziehen einer Gemeinschaftsunterkunft
 § 25 | Vorübergehender Aufenthalt
