@@ -1,0 +1,59 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2006-12-04T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/817797
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/817797
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Sendlinger Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Projekte der Wohnungslosenhilfe in der Sozialregion Sendling / Sendling Westpark
+- TOP 3.2.: Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse vom 30.11.2006
+- TOP 4.: Schulreferat
+- TOP 4.1.: Kindergartensituation in Sendling; Standort Königsdorferstraße
+- TOP 5.1.: Unveränderte Fortführung der Gaststätte "schnurzi`s bar", Lindwurmstraße 175
+- TOP 6.1.: Regionalzughalt an der Lindwurmstraße; Fragenkatalog - <div>qualifizierte Vertagung</div>
+- TOP 6.2.: Errichtung einer Fahrradstraße in den Straßen ?An der Stemmerwiese? und ?Margaretenstraße?
+- TOP 6.3.: Verzahnungsmarkierung in der Aberle- / Oberländerstraße
+- TOP 6.4.: Notwendige verkehrliche Maßnahmen in der Plinganserstraße, südlich Am Harras
+- TOP 6.5.: Filmaufnahmen im Sendlinger Unterfeld; hier "Anna`s Alptraum" Kidlerstraße
+- TOP 6.6.: Errichtung eines Fahrradständers vor dem städtischen Gebäude Implerstraße 9, vor dem Eingang Implerstraße 7
+- TOP 7.1.: Budgetantrag des Kinder- und Jugendtreff 2Club Pullacher Platz; ? 471,-
+- TOP 7.2.: Beteiligungs- und Entscheidungsrechte der BAs bei Standortfragen und Baumaßnahmen für Kindergärten
+- TOP 7.3.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 7.4.: Information des Bezirksausschusses über überholte Vorlagen
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Flößergasse 11
+- TOP 8.3.: Bauvorhaben Implerstraße 69
+- TOP 8.4.: Bauvorhaben Kidlerstraße 18
+- TOP 8.5.: Tiefgaragenstellplätze Sana-Klinik, Steinerstraße
+- TOP 8.6.: Bebauung Meindlstraße 8; Nachnutzung des Grundstücks des ehem. Oktoberfestbauhofes
+- TOP 8.7.: Bebauungsplan mit Grünordnung Neuhofener Platz und Zechstraße (südlich), Fallstraße und Flößergasse (westlich), Bahnlinie München-Lenggries
+- TOP 8.8.: Schutz der Münchner Vorgärten
+- TOP 8.9.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 8.10.: Wohnen in München IV
+- TOP 8.11.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 8.12.: Entwicklung des öffentlichen Nahverkehrs in München
+- TOP 9.: Baureferat
+- TOP 9.1.: Neues Wegweisungssystem für den Radverkehr
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Am Harras 4, eine Robinie
+- TOP 10.2.: Baumfällung Lipowskystraße 21, eine Silberweide
+- TOP 10.3.: Genehmigung einer Baumfällung in der Karwendelstraße 15b
+- TOP 10.4.: Baumpflanzungen am Mittelstreifen der Plinganserstraße
+- TOP 10.5.: Baumfällung Ramungstraße 9, eine Tanne
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
