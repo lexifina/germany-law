@@ -1,0 +1,59 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-12-04T15:04:00+01:00
+- Ende: 2006-12-04T15:45:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1743
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1743
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111704.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111704.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111704.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Rechenschaftsbericht 2005 - einstimmig beschlossen
+- TOP 4: Wirtschaftsplan 2007 für den Stadtbetrieb Zentrale - einstimmig beschlossen
+- TOP 5: Gebührenkalkulation 2007 - einstimmig beschlossen
+- TOP 6: Erhöhung Haushaltsmittel - einstimmig beschlossen
+- TOP 7: Kostenentwicklung Straßen - einstimmig beschlossen
+- TOP 8: 16. Satzung Straßen - einstimmig beschlossen
+- TOP 9: Neufassung der Abfallgebührenkalkulationen - einstimmig beschlossen
+- TOP 10: 10. Satzung zur Abfall 2001 - einstimmig beschlossen
+- TOP 11: 11. Satzung Abfall 2002 - einstimmig beschlossen
+- TOP 12: 12. Satzung Abfall 2003 - einstimmig beschlossen
+- TOP 13: 13. Satzung Abfall 2004 - einstimmig beschlossen
+- TOP 14: 14. Satzung Abfall 2005 - einstimmig beschlossen
+- TOP 15: 15. Satzung Abfall 2006 - einstimmig beschlossen
+- TOP 16: Kostenentwicklung im Bereich der Müllabfuhr - Ausw - mehrheitlich beschlossen
+- TOP 17: 7. Satzung(Neufassung zu Vorlage 70/78/2006) - mehrheitlich beschlossen
+- TOP 18: 16. Satzung Abfall 2007 - mehrheitlich beschlossen
+- TOP 19: Etatberatung 2007 - passieren lassen
+- TOP 20: Haushaltssatzung 2007 - passieren lassen
+- TOP 21: Haushaltssatzung NKF 2007 - passieren lassen
+- TOP 22: Anregungen Bezirksvertretungen Haushalt 2007 - passieren lassen
+- TOP 23: VVZ VwHh - passieren lassen
+- TOP 24: VVZ VmHh - passieren lassen
+- TOP 25: Stellenplan 2007 - passieren lassen
+- TOP 26: Kämmererliste - einstimmig beschlossen
+- TOP 27: Stadtwerke Düsseldorf AG; Gründung einer Netzgesel - einstimmig beschlossen
+- TOP 28: IDR- Ausgliederung des Bahnbetriebes - passieren lassen
+- TOP 29: Üpl. Mittelbereit.Zuschüsse Betriebskosten Kita - einstimmig beschlossen
+- TOP 30: Kunstrasen Ammerweg B+F - einstimmig beschlossen
+- TOP 31: Sanierung der naturwissenschaftlichen Räume des Ge - einstimmig beschlossen
+- TOP 32: Neubau einer 1fach-Sporthalle sowie der Räumlichke - einstimmig beschlossen
+- TOP 33: Benrather Marktplatz-Erneuerung der Platzfläche - einstimmig beschlossen
+- TOP 34: Annahme einer Schenkung - einstimmig beschlossen
+- TOP 35: Satzung zur Nutzung des Ehrenhofes (Neufassung zu - einstimmig beschlossen
+- TOP 36: Nutzung einer Teilfläche des Nordparks - mehrheitlich beschlossen
+- TOP 37: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 38: B-Plan Nr. 5776/013 - Gebiete in Flingern Süd - einstimmig beschlossen
+- TOP 39: B-Plan Nr. 5479/067 - NDD Landesgrundstück - einstimmig beschlossen
+- TOP 40: Therapiebad St. Josef - einstimmig beschlossen
+- TOP 41: Sanierung des Rückstaudeiches Brückerbach - einstimmig beschlossen
+- TOP 42: Interfr. Antr. Satzung Gleichstellung Behinderter - mehrheitlich beschlossen
