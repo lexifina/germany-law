@@ -1,0 +1,51 @@
+# 22. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-12-05T17:06:00+01:00
+- Ende: 2006-12-05T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5610
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5610
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00241629.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erford
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Gewährung von Zuschüssen an örtliche Vereine, Verbände und sonstige Vereinigungen - einstimmig geändert beschlossen
+- TOP 4.2: Unterhaltung der Grundstücke und baulichen Anlagen 2007 im Stadtbezirk Mitte, geplante Instand - einstimmig beschlossen
+- TOP 4.3: Ausbau des Hafenweges im Bereich zwischen Bernhard - Ernst-Straße und Dortmunder Straße - einstimmig beschlossen
+- TOP 4.4: Dorpatweg - mehrheitlich beschlossen
+- TOP 4.5: Baugebiet westlich Salzmannstraße / nördlich Meßkamp - einstimmig beschlossen
+- TOP 4.6: Maßnahmenprogramm 2007 des Tiefbauamtes - einstimmig beschlossen
+- TOP 4.7: Neubau Spielplatz Stolbergstraße / Johanne-Walhorn-Weg - einstimmig beschlossen
+- TOP 4.8: Sanierung von Spielplätzen im Stadtbezirk Münster-Mitte - einstimmig geändert beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: Paul-Gerhardt-Schule, Errichtung eines zweiten Treppenhauses - mehrheitlich geändert beschlossen
+- TOP 5.2: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 5.3: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. 34/2004 - einstimmig geändert beschlossen
+- TOP 5.4: Handlungskonzept Grevener Straße - mehrheitlich geändert beschlossen
+- TOP 5.5: 20. Änderung des fortgeschriebenen Flächennutzungsplanes für den Bereich westlich Salzmannstraße - einstimmig beschlossen
+- TOP 5.6: Vorhabenbezogener Bebauungsplan Nr. 502: westlich Salzmannstraße / nördlich Meßkamp - einstimmig beschlossen
+- TOP 5.7: Maßnahmenprogramm 2007 des Tiefbauamtes - einstimmig beschlossen
+- TOP 6: Berichte
+- TOP 6.1: Öffnungszeitenkonzept der Recyclinghöfe der AWM - zur Kenntnis genommen
+- TOP 6.2: Ergebnisse des Erörterungstermins im Planfeststellungsverfahren zum DEK-Ausbau DEK / Stadtstrecke MS - zur Kenntnis genommen
+- TOP 6.3: Geplante Veranlagungen in 2007 zu Beiträgen - zur Kenntnis genommen
+- TOP 7: Anträge
+- TOP 7.1: Fahrradabstellflächen auf dem Gelände zwischen Mauritzstraße und Alter Steinweg (Waltermann) - eingebracht
+- TOP 7.2: Edelstahlplastik auf dem Schulhof des Paulinums - eingebracht
+- TOP 7.3: Masterplan Hafen - Fragen zur Zielkonzeption und zu Entwicklungsschwerpunkten - eingebracht
+- TOP 7.4: Beleuchtung Stadthausturm, Umsetzung Lichtkonzept - einstimmig beschlossen
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Parksituation in der Albertstraße - zur Kenntnis genommen
+- TOP 8.2: Bautätigkeit in der Annette-Allee - zur Kenntnis genommen
+- TOP 8.3: Parkraumbewirtschaftung am Kanonengraben - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
