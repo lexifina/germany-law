@@ -1,0 +1,125 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2006-12-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/824877
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/824877
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Bauvorhaben Menzinger Straße 85 und Amalienburgstraße 2 und 4
+- TOP 2.2.: Anfrage zur Bergsonstraße
+- TOP 2.3.: Abbau der Überdachung der Bushaltestelle Weinbergerstraße / Ecke Planegger Straße
+- TOP 2.4.: Bauvorhaben Lebensmittelgeschäft "An der Schäferwiese"; Schließung des Lebensmittelgeschäfts am Rüttenauer Platz
+- TOP 2.5.: Lebensmittelgeschäft im Bereich der Siedlung An der Schäferwiese
+- TOP 2.6.: Lebensmittelgeschäft im Bereich Alte Allee / An der Schäferwiese
+- TOP 2.7.: Niederlassung eines Lebensmittelmarktes im Bereich der Schäferwiese
+- TOP 2.8.: Haltverbot Dorfstraße / Ecke Pippinger Straße
+- TOP 2.9.: Durchfahrt durch die Heimburgstraße zwischen Bodenseestraße und Am Krautgarten in beide Fahrtrichtungen ausschließlich für Anlieger der Heimburgstraße
+- TOP 2.10.: Presseartikel "Würmufer soll zurück zur Natur"
+- TOP 2.11.: Sperrung der Josef-Retzer-Straße zwischen Weinberger- und Gräfstraße für Lkw`s über 7,5 t
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Klarweinstraße 27, 1 Fichte, 1 Lärche
+- TOP 3.2.: Eisenhartstraße 14, 1 Fichte
+- TOP 3.3.: Paul-Hösch-Straße 16, 1 Schwarzkiefer
+- TOP 3.4.: Franckensteinstraße 4, 1 Kiefer
+- TOP 3.5.: Anton-Meindl-Straße 19, Baumbestandsplan Nr. 06-30680
+- TOP 3.6.: Menzinger Straße 110, Baumbestandsplan Nr. 06-31209 (vertagt aus der Sitzung vom 07.11.06)
+- TOP 3.7.: Kalmanstraße 6 und 8, Baumbestandsplan Nr. 06-30831 (vertagt aus der Sitzung vom 07.11.06)
+- TOP 3.8.: Chopinstraße 13 a, 1 Esche
+- TOP 3.9.: Heinrich-Schütz-Weg 24, 1 Zypresse
+- TOP 3.10.: Nußhäherstraße 21, 1 Kiefer, 1 Linde, 1 Fichte
+- TOP 3.11.: Marschnerstraße 89 a, 1 Fichte
+- TOP 3.12.: Böcksteinerstraße 80, 1 Birke
+- TOP 3.13.: Betzenweg 21, 5 Fichten, 1 Douglasie, 3 Ahornbäume
+- TOP 3.14.: Paosostraße 20, 2 Birken, 2 Fichten
+- TOP 3.15.: Amalienburgstraße 2, Baumbestandsplan Nr. 06-33530
+- TOP 3.16.: Wöhlerstraße 34, 1 Krummholzkiefer
+- TOP 3.17.: Ortolfstraße 32 a, 1 Zeder, 1 Fichte
+- TOP 3.18.: Bäckerbauerstraße 1, 1 Nordmanntanne
+- TOP 3.19.: Oselstraße 33, 1 Tanne
+- TOP 3.20.: Wiesengrund 6, 1 Blaufichte
+- TOP 3.21.: Am Klostergarten 5, 2 Fichten
+- TOP 3.22.: Veledener Straße 9, 1 Fichte
+- TOP 3.23.: Frauendorferstraße 22, 1 Linde
+- TOP 3.24.: Josef-Retzer-Straße 36, 4 Kastanien
+- TOP 3.25.: Julius-Kreis-Straße 33, 1 Birke
+- TOP 3.26.: Dachstraße 8, Baumbestandsplan Nr. 06-34133
+- TOP 3.3.2: Gefahrenbäume
+- TOP 3.1.: Kaspar-Kerll-Straße 17, 1 Bergahorn
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget; Antragsteller: Arbeitsgemeinschaft der Pasinger Vereine e.V. für die Maßnahme: Pasiinger Faschingstreiben am 20.02.2007
+- TOP 9.2.: Antrag des Vereins Wohnhilfe e.V. auf Bezuschussung der Bepflanzung an der Grundstücksgrenze des "Hauses an der Verdistraße" aus Mitteln des BA-Budgets
+- TOP 10.: Anhörungen
+- TOP 10.1.: Kalmanstraße 6 und 8; Neubau einer Wohnanlage (18 WE) mit Tiefgarage (18 Stpl.); Tektur (vertagt aus der Sitzung vom 07.11.06)
+- TOP 10.2.: Bebauungsplan mit Grünordnung für den Bereich Landsberger Straße (nördlich), Bahnlinie Hauptbahnhof ? Pasing (südlich), zwischen Am Knie und Willibaldstraße (vertagt aus der Sitzung vom 07.11.06)
+- TOP 10.3.: Strindbergstraße, Neubau eines Doppelhauses mit Stellplätzen
+- TOP 10.4.: Einrichtung einer Fahrradstraße in der Straße An der Würm zwischen Dorf- und Verdistraße; beabsichtigte verkehrsrechtliche Anordnung
+- TOP 10.5.: Strindbergstraße 1, Neubau einer Wohnanlage mit Tiefgarage
+- TOP 10.6.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 10.7.: Einrichtung einer Fahrradstraße in der Straße Am Nymphenbad; beabsichtigte verkehrsrechtliche Anordnung
+- TOP 10.8.: Wanderung der Wanderfreunde Neuaubing e.V. am 16. / 17.12.06 mit Start und Ziel in der Weinbergerstraße 19
+- TOP 10.9.: Bergsonstraße; Errichtung eines Kleintierfriedhofes mit Wirtschaftsgebäude und Pkw-Stellplätzen
+- TOP 10.10.: Anton-Meindl-Straße 19, Neubau eines Einfamilienhauses mit Doppelgarage
+- TOP 10.11.: Einrichtung einer Fahrradstraße im Straßenzug Berglwiesenstraße - Mooswiesenstraße zwischen Bergsonstraße (neu) und Breiter Weg
+- TOP 10.12.: Haltverbot wegen Behinderung des Linienverkehrs in der Haberlandstraße
+- TOP 10.13.: Aufhebung der Einbahnregelung im Hans-Goltz-Weg
+- TOP 10.14.: Josef-Schlicht-Straße; Antrag auf Einrichtung einer Einbahnregelung
+- TOP 10.15.: Abfallentsorgungsanlage am Standort Baumbachstraße 5, Block T; Antrag auf Weiterbetrieb der befristet genehmigten Abfallentsorgungsanlage bis 31.12.2011
+- TOP 10.16.: Amalienburgstraße 2 - 6, Neubau einer Autowaschstraße (Vorbescheid)
+- TOP 10.17.: Heimburgstraße 14, Neubau zweier Einzelhandelsbetriebe mit je bis zu 800 m² Verkaufsfläche
+- TOP 11.: Anträge und Anfragen
+- TOP 11.1.: Umgestaltung des zukünftigen Kreuzungsbereichs Planegger Straße / Karl-Hromadnik-Straße (vertagt aus der Sitzung vom 07.11.06)
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Baumaßnahmen der Stadtwerke München GmbH
+- TOP 12.2.: Bauanträge im 21. Stadtbezirk (vom 30.10.-05.11.06, v. 06.11.-12.11.06, v. 13.11.-19.11.06)
+- TOP 12.3.: Amtsblatt Nr. 31
+- TOP 12.4.: Unveränderte Fortführung von Gaststätten - Schankwirtschaft "Zum Pasinger", Landsberger Straße 503
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Kommunalausschuss vom 19.10.2006 - Straßenbenennung im 20. Stadtbezirk Hadern und im 21. Stadtbezirk Pasing-Obermenzing, hier: Lobelienweg - Straßenbenennung in den Stadtbezirken 21 Pasing-Obermenzing und 23 Allach-Untermenzing, hier: Mühlangerstraße
+- TOP 13.2.: Ausschuss für Stadtplanung und Bauordnung vom 08.11.2006 - Sonderflughafen Oberpfaffenhofen; Luftrechtliche Genehmigung, Antrag auf Ergänzung und Änderung
+- TOP 13.3.: Verwaltungs- und Personalausschuss vom 15.11.2006 - Beanspruchung von Stadtteildomains durch die Landeshauptstadt München (Bekanntgabe)
+- TOP 13.4.: Vollversammlung des Stadtrates vom 23.11.2006 - Sonderflughafen Oberpfaffenhofen, luftrechtliche Genehmigung; Antrag auf Ergänzung und Änderung
+- TOP 13.5.: Ausschuss für Stadtplanung und Bauordnung vom 29.11.2006 - Schutz der Münchner Vorgärten; Förmliche Aufhebung des § 3 der Vorgartensatzung; planungsrechtliche Situation der Münchner Vorgärten; weiteres Vorgehen zum Schutz der Münchner Vorgärten - IC-Halt am Bahnhof Pasing (Empfehlung Nr. 380 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing, Bezirksteil Pasing, am 16.05.06) - Verkehrskonzept Villenkolonie I (Empfehlung Nr. 385 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing, Bezirksteil Pasing, am 16.05.06) - Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz - Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 13.6.: Gemeinsame Ausschüsse für Stadtplanung und Bauordnung, Kommaunalausschuss, Sozialausschuss und Finanzausschuss vom 29.11.2006 - Wohnen in München IV - wohnungspolitisches Handlungsprogramm 2007 - 2011
+- TOP 7: (E) Mobilfunk a) Freisch. d. Mobilf.sendeanl. a. Standort Verdistr. 109 erst n. Klärung v. Altern.; b) Öff. Bekanntg. v. Mobilf.suchkr.; Jährl. Sachst.ber. Messmonit. (Ziff. 1-3 des Antr.) c) Herbeif. eines StRbeschl., mit dem s. d. LHM über den Dt. Städtet. für eine Senk. d. Grenzw. f. Mobilf.sendeanl. einsetzt; d) Maßn. zur Minim. d. von den Mobilf.sendeanl. auf d. Gebäuden Verdistr. 83 u. 109 ausgeh. Strahlenbel.; e) Anw. d. Münchner Mobilf.-Vorsorgem. auch auf Privath.; f) Sachst.ber. z. Mobilf.-Suchkr. Paul-Gerhardt-Allee; Veröff. aller Suchkr. im Internet/in d. Presse; Herbeif. eines StRbeschl. in Bez. auf d. Gewähr. v. Zusch. f. Abschirmmaßn. an Gebäuden (Ziff. 1-3 d. Antr.); g) Herabs. d. Leist.- u. Feldstärke v. Mobilf.sendeanl. h) Standortopt. d. Mobilf.sendeanl. am Standort Verdistr. 83 (Ziff. 1 des Antr.) a) ? h) Antr. a. d. EW-Vers. d. BA 21 Pas.-Oberm. v. 18.05.06 z. Thema "Mobilf./Sendeanl. am Standort Verdistr. 109" BA-Anträge Nr. 02-08 / B 01241, Nr. 02-08 / B 01242, Nr. 02-08 / B 01243, Nr. 02-08 / B 01244, Nr. 02-08 / B 01246, Nr. 02-08 / B 01247, Nr. 02-08 / B 01248 und Nr. 02-08 / B 01249 des BA 21 ? Pas.-Oberm. v. 30.05.06 i) Erst. eines Minim.gutachtens für den 21. Stadtbez.; k) Einf. einer "Sendemastst."; i) ? k) Antr. a. d. EW-Vers. d. BA 21 Pas.-Oberm. v. 18.05.06 z. Thema "Mobilf./Sendeanl. am Standort Verdistr. 109" BA-Anträge Nr. 02-08 / B 01427 und Nr. 02-08 / B 01428 des BA 21 ? Pas.-Oberm. v. 25.07.06
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Direktorium - Budgetmittel des BA 21 Pasing-Obermenzing, hier: Veranstaltung am verkaufsoffenen Sonntag am 18.06.2006
+- TOP 14.2.: Baureferat - Trambahnwendeschleife Menzinger Straße / Amalienburgstraße (BA-Schreiben vom 12.10.06) - Information über 4 F-circle Bewegungsinseln - Radverkehr im Pasinger Stadtpark (BA-Antrag Nr. 1429 vom 25.07.06) - Rollkies im Bereich Bertha-von-Suttner-Weg, Weg von Am Nymphenbad in Richtung Nymphenburg entlang der Bahn (BA-Schreiben vom 19.10.06) - Bezirkssportanlage Agnes-Bernauer-Straße 239, Neubau eines Kunstrasenplatzes; Projektgenehmigung
+- TOP 14.3.: Referat für Gesundheit und Umwelt - Umgestaltung der Würm im Bereich der Mergenthalerstraße zwischen Fkm 13.750 und Fkm 14.000 (BA-Schreiben vom 16.10.2006) - Inbetriebnahme der Mobilfunksendeanlage Verdistraße 109-109 a
+- TOP 14.4.: Kommunalreferat - Radwegverbindung zur Langwieder Seenplatte; Grunderwerb entlang der Goteboldstraße
+- TOP 14.5.: Abfallwirtschaftsbetrieb München - Containerinsel Karwinskistraße / Sanderplatz (Anfrage aus der Obermenzinger Bürgerversammlung vom 26.10.2006)
+- TOP 14.6.: Kreisverwaltungsreferat - Neues Hauptstraßennetz; Beschilderung - Neue Verkehrsführung Kreuzung Kaspar-Kerll-Straße / Sibeliusstraße - Filmaufnahmen in der Bauseweinallee und in der Weinschenkstraße am 17.11.06; verkehrsrechtliche Erlaubnis nach §§ 29 und 32 StVO
+- TOP 14.7.: Kulturreferat - Veranstaltungen / Kooperationen im November 2006 - Ergebnisse des Workshops "Kultur im Stadtquartier"
+- TOP 14.8.: Referat für Stadtplanung und Bauordnung - Menzinger Straße 85 / Amalienburgstraße 2; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.09.2006, hier: Schreiben des Planungsreferates an einen Bürger, Kopie an BA 21 - Vollzug der Baumschutzverordnung; Freseniusstraße 85, Fällungsantrag vom 20.09.06, Genehmigungsbescheid der Unteren Naturschutzbehörde vom 07.11.06 - Saumweberstraße 17; Fällung eines nicht den Bestimmungen der Baumschutzverordnung unterliegenden Baumes; Bestätigung der Unteren Naturschutzbehörde vom 02.11.06 - Freseniusstraße 37, Neubau eines Einfamilienhauses (Anbau) - Bauseweinallee 8, Sachstand zum Vorbescheid bezüglich Neubau eines Einzelhandelsbetriebs oder dreier Einfamilienhäuser (BA-Schreiben vom 18.10.06) - Vollzug der Baumschutzverordnung, hier: Menterstraße 78, Bescheid vom 13.11.06 - Bauleitplanung Gleisdreieck Pasing (BA-Schreiben vom 08.11.06) - Döbereinerstraße 21, Klarweinstraße 13, Freseniusstraße 37, Badenburgstraße 10; Information zum Sachstand der Bauvorhaben (BA-Schreiben vom 20.10.2006)
+- TOP 14.9.: Referat für Arbeit und Wirtschaft - 850. Stadtgeburtstag der Landeshauptstadt München im Jahr 2008, hier: Informationsveranstaltung vom 29.11.06
+- TOP 14.10.: Schul- und Kultusreferat - Stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen
+- TOP 14.11.: Münchner Verkehrsgesellschaft mbH - Fußgängerampel und Bushaltestelle Nusselstraße / Franz-Stenzer-Straße (BA-Schreiben vom 25.09.06) - Bushaltestelle Bertha-von-Suttner-Weg (BA-Schreiben vom 25.09.06)
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: BA 3 Maxvorstadt - Presseberichterstattung über die Bürgerversammlung des 3. Stadtbezirkes Maxvorstadt vom 08.11.06 unter dem Titel "Professionelle Zeitdiebe"
+- TOP 14.2.: Schutzgemeinschaft Pasinger Stadtpark - Baumfällungen im Landschaftsschutzgebiet Würmniederungen / Pasinger Stadtpark
+- TOP 14.3.: Seniorenbeirat der Landeshauptstadt München Ausstellung "Kreativität im Alter"; Ausstellungseröffnung am Mittwoch, den 06.12.2006 um 10.00 Uhr in der Rathaus-Galerie, Ausstellungsdauer vom 07.12. bis 21.12.2006 jeweils von 10.00 bis 18.00 Uhr
+- TOP 14.4.: Walter Schuhmair, Bäckerei - Konditorei - Feinkost - Bewerbung für einen Backshop im geplanten Supermarkt an der Alten Allee
+- TOP 14.5.: BA 17 Obergiesing - Einsatz eines Simulatorwagens bei Geschwindigkeitsüberschreitungen in Tempo 30 km/h-Zonen
+- TOP 14.6.: Deutsche Post AG - Änderung im Filialnetz, hier: Umwandlung der Postfiliale in der Verdistraße 45 zu einer sogenannten Partner-Filiale
+- TOP 14.7.: Bürgervereinigung Obermenzing e.V. - Radweg zum Langwieder See
+- TOP 15.: Verschiedenes
