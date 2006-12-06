@@ -1,0 +1,66 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2006-12-06T17:00:00+01:00
+- Ende: 2006-12-06T20:45:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=238
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=238
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=105&id=13801
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Vorlagen zur Wahl - (offen)
+- TOP 4.1: Wahl von Bürgerdeputierten in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Beschlussfassung - (offen)
+- TOP 5.1: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2006/2007 und im Jahr 2007 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Einrichtung von Einwohnerfragestunden in der XVIII. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Benennung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Nutzung des Gemeinschaftshauses Gropiusstadt nach Umbau - beantwortet
+- TOP 7.2: Höchststrafe: Zehn Jahre Neukölln? - beantwortet
+- TOP 7.3: Veranstaltung von Stadt und Land am 27.11.2006 - beantwortet
+- TOP 7.4: Kurz vor zwölf in Neukölln? - beantwortet
+- TOP 7.5: Aktionstag "Gegen Gewalt in der Familie" - beantwortet
+- TOP 7.6: Streetworker in den Gropius-Passagen - beantwortet
+- TOP 7.7: Hochspannungstrasse in der Gemeinde Schönefeld - beantwortet
+- TOP 8: Beschlussempfehlungen - 2. Lesung - (offen)
+- TOP 8.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2005 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Genehmigung von über- und außerplanmäßigen Ausgaben im 1. Halbjahr 2006 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Bedrohung von Mitschülern durch jugendliche Straftäter - beantwortet
+- TOP 9.2: Kinder- und Jugendschutz nicht vernachlässigen - beantwortet
+- TOP 9.3: Personalabbau in Neuköllner Kindertagesstätten - beantwortet
+- TOP 9.4: Jugendbanden in Neukölln - beantwortet
+- TOP 9.5: Stellenabbau im Eigenbetrieb Süd-Ost - beantwortet
+- TOP 9.6: Wahl zur Seniorenvertretung - beantwortet
+- TOP 9.7: Fachtagung des Kinderschutzzentrums - beantwortet
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Fußgängerüberweg Mohriner Allee - überwiesen
+- TOP 10.2: Kinder- und Jugendschutz nicht vernachlässigen - Hilfe anbieten - überwiesen
+- TOP 10.3: Durchfahrverbot für LKW in der Hannemannstraße - überwiesen
+- TOP 10.4: "Seniorenspielplatz" für Neuköllner Senioren - überwiesen
+- TOP 10.5: Durchfahrverbot für LKW in der Franz-Körner-Straße - überwiesen
+- TOP 10.6: Wiederherstellung des "Schwarzen Weges" - überwiesen
+- TOP 10.7: Frühwarnsystem für Säuglinge und Kleinkinder - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Verkehrsführung Michael-Bohnen-Ring - überwiesen
+- TOP 10.9: Korrekturen der Namensgebungen im Frauenviertel - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Seniorenvertretung in Neukölln stärken - überwiesen
+- TOP 10.11: Skulptur des Bildhauers Paolo Marazzi aus Marino - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Umgang mit Mietrückständen von ALG II-Empfängern im Jobcenter - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Mehr Jugendsozialarbeiter - überwiesen
+- TOP 10.14: Hinweisschilder Frauenviertel - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Ampelanlage Stubenrauchstraße - überwiesen
+- TOP 10.16: Parkscheibenkonzpet im Neudecker Weg - überwiesen
+- TOP 10.17: Videoüberwachung im Bereich "Rudower Spinne" - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Verkehrslenkende Maßnahmen in der Köpenicker Straße - überwiesen
+- TOP 10.19: "Neukölln blüh auf" - 2. Auflage - überwiesen
+- TOP 10.20: Ausstellung "11.000 Kinder - Mit der Reichsbahn in den Tod" - ohne Änderungen in der BVV beschlossen
