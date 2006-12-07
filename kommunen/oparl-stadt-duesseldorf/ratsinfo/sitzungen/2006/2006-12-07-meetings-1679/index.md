@@ -1,0 +1,61 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-12-07T16:00:00+01:00
+- Ende: 2006-12-07T18:30:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1679
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1679
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111870.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111870.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111870.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift vom 02.11.2006 - zur Kenntnis genommen
+- TOP 3: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 4: Geschäfts- und Kundenbefragung in Eller - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: B-Plan Nr. 6075/35 - In den Kötten - einstimmig beschlossen
+- TOP 7: FNPÄ 126-In den Kötten-Sellungnahmen; Plan - einstimmig beschlossen
+- TOP 8: B-Plan Nr. 5874/80 - Flottenstraße - einstimmig beschlossen
+- TOP 9: FNP-Änderung Nr. 133 - Flottenstraße - einstimmig beschlossen
+- TOP 10: Festlegung der Zügigkeit - einstimmig beschlossen
+- TOP 11: Zuschüsse der Bezirksvertretung 8 im Jahre 2006 - mehrheitlich beschlossen
+- TOP 12: Trödelmarkt auf dem OBI-Parkplatz - zur Kenntnis genommen
+- TOP 13: Bauunterhalt an städtischen Einrichtungen - einstimmig beschlossen
+- TOP 14: Baumfällung Leuthenstraße 50 - einstimmig beschlossen
+- TOP 15: Fußgängerbrücke Kikweg - zur Kenntnis genommen
+- TOP 16: Anruf - Sammel - Taxi in Unterbach - zur Kenntnis genommen
+- TOP 17: Postagentur Kamper Weg - zur Kenntnis genommen
+- TOP 18: Gebäude Breslauer Straße - zur Kenntnis genommen
+- TOP 19: Verlauf der L404n - zur Kenntnis genommen
+- TOP 20: Öffnung der Schulhöfe - zur Kenntnis genommen
+- TOP 21: Maßnahmen Deutsche Bahn AG - zur Kenntnis genommen
+- TOP 22: Straßensanierungen und Radwegebaumaßnahmen 2007 - zur Kenntnis genommen
+- TOP 23: Stau-Vermeidung durch Ampelschaltungen - zur Kenntnis genommen
+- TOP 24: Bauvorhaben Breslauer Straße - zur Kenntnis genommen
+- TOP 25: Projekt 'Lesen an Grundschulen' - einstimmig beschlossen
+- TOP 26: Behindertengerechte Haltestellen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 27: Eller Kamp - Zone 30 - mehrheitlich beschlossen
+- TOP 28: Projekt Klasse 2000 - zur Kenntnis genommen
+- TOP 29: Radquerung Gumbertstraße / Anhalter Straße - einstimmig beschlossen
+- TOP 30: Haltverbot Coburger Weg - mehrheitlich abgelehnt
+- TOP 31: Postdienstleistungen in Düsseldorf - Vennhausen - einstimmig beschlossen
+- TOP 32: Lärmbelastung L 404n - mehrheitlich abgelehnt
+- TOP 33: Parkplatz Eller-Mitte - einstimmig beschlossen
+- TOP 34: Grünstreifen zwischen Reitpatk Eller u. Oelser Str - einstimmig beschlossen
+- TOP 35: Grünpflege Wichernschule - einstimmig beschlossen
+- TOP 36: Farb-Code-System an Rheinbahnhaltestellen - zur Kenntnis genommen
+- TOP 37: Sportanlage Heidelberger Straße - einstimmig beschlossen
+- TOP 38: Ergebnis der Etatberatung in den Fachausschüssen - zur Kenntnis genommen
+- TOP 39: Postagentur Kamper Weg - zur Kenntnis genommen
+- TOP 40: Ausstellungsraum im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Fußwege Grünanlage Chemnitzer Straße - zur Kenntnis genommen
+- TOP 42: Verkehrsspiegel Hohenfriedbergstraße - zur Kenntnis genommen
+- TOP 43: Rad- und Fußweg entlang der Düssel - zur Kenntnis genommen
+- TOP 44: Grundstück Büllenkothenweg / Am Pflanzkamp - zur Kenntnis genommen
