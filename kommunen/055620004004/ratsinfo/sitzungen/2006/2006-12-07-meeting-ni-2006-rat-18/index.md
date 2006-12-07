@@ -1,0 +1,53 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2006-12-07T17:05:00+01:00
+- Ende: 2006-12-07T19:05:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2006-RAT-18
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2006-RAT-18
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2006-RAT-18
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2006-RAT-18
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2006-RAT-18
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Beschluss von Dringlichkeitslisten für Investitionen und Investitionsförderungsmaßnahmen für das Haushaltsjahr 2007
+- TOP 3: Bereitstellung von zusätzlichen Haushaltsmitteln bei der Haushaltsstelle 90100.832000 Allgemeine Umlagen an Gemeinden und Gemeindeverbände ( Kreis- und ÖPNV Umlage)
+- TOP 4: Neufassung der Satzung über die Erhebung von Vergnügungssteuer in der Stadt Castrop-Rauxel (Vergnügungssteuersatzung)
+- TOP 5: Finanzcontrolling: Unternehmensbericht November 2006
+- TOP 6: Verlängerung Konzessionsvertrag zur Wasserversorgung mit der Gelsenwasser AG
+- TOP 7: Unterabschnitt 730 'Märkte'; Gebührenbedarf für das Haushaltsjahr 2007
+- TOP 8: Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen und Plätzen in der Stadt Castrop-Rauxel
+- TOP 9: Anhebung der Elternbeiträge
+- TOP 10: Umwandlung der Marktschule Ickern, der Grundschule Alter Garten und der Waldschule in 'Offene Ganztagsschulen' zum Schuljahr 2007/08
+- TOP 11: Neufassung der Satzung zur Beitragserhebung für die Nutzung außerunterrichtlicher Angebote der Offenen Ganztagsschule im Primarbereich
+- TOP 12: Bereitstellung von Haushaltsmitteln im Jahre 2006 für die Haushaltsstelle 02200.674000 - Erstattung an den sonstigen öffentlichen Bereich (ARGE) - Bereich Hauptverwaltung
+- TOP 13: 'Ökologische Umgestaltung der Emscher von Dortmund nach Dinslaken' - Hochwasserrückhaltebecken (HRB) in Dortmund-Ellinghausen und Castrop-Rauxel Ickern /Dortmund-Mengede - hier: Stellungnahme der Stadt Castrop-Rauxel a) Zusammenfassung der Stellungnahmen der einzelnen Fachbereiche der Stadt Castrop-Rauxel im Rahmen der Anhörung der Träger öffentlicher Belange sowie b) Einsprüche/Stellungnahmen der BürgerInnen der Stadt Castrop-Rauxel im Rahmen der öffentlichen Auslegung des o.g. Verfahrens in der Zeit vom 21. August bis 20. September 2006
+- TOP 14: Planfeststellungsverfahren nach § 31 WHG zum Deininghauser Bach - ökologische Verbesserungen von km 0,00 bis km 3,275 (neu) bzw. 3.30 (alt) hier: Stellungnahme der Stadt Castrop-Rauxel a) Zusammenfassung der Stellungnahmen der einzelnen Fachbereiche der Stadt Castrop-Rauxel im Rahmen der Anhörung der Träger öffentlicher Belange sowie b) Einsprüche/Stellungnahmen der BürgerInnen der Stadt Castrop-Rauxel im Rahmen der öffentlichen Auslegung des o.g. Verfahrens in der Zeit vom 01.08.2006 bis 31.08.2006
+- TOP 15: Grunderwerb einer Fläche am Rossbach / südlich Herner Straße sowie Bau / Ergänzung eines Fuß- und Radweges im Grünzug E
+- TOP 16: Entwurf des Nahverkehrsplans für den Kreis Recklinghausen hier: Stellungnahme der Stadt Castrop-Rauxel
+- TOP 17: Ertüchtigung des Hammerkopfturmes hier: Ergänzungsantrag auf zusätzliche Förderung für weitere notwendige Sanierungsmaßnahmen
+- TOP 18: 4. Fortschreibung des Abwasserkonzeptes 2007 - 2019
+- TOP 19: 3. Änderung der Satzung für das Kommunalunternehnmen der Stadt Castrop-Rauxel 'EUV Stadtbetrieb Castrop-Rauxel, AöR'
+- TOP 20: Gebührenbedarfsberechnung 2007 und Erlass einer Gebührensatzung zur Kreislaufwirtschafts- und Abfallsatzung
+- TOP 21: Gebührenbedarfsberechnung 2007 'Straßenreinigung' und Erlass einer Straßenreinigungs- und Gebührensatzung
+- TOP 22: Gebührenbedarfsberechnung 2007 ' Stadtentwässerung' und Erlass einer Gebührensatzung zur Entwässerungssatzung
+- TOP 23: Erlass einer 3. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel
+- TOP 24: Wirtschaftsplan 2007 des EUV, Stadtbetriebes Castrop-Rauxel, AöR
+- TOP 25: Jahresabschluss 2005 des EUV Stadtbetriebes Castrop-Rauxel, AöR
+- TOP 26: Antrag der CDU-Ratsfranktion vom 14.11.2006; hier: Personalbemessung im Sekretariat der Schillerschule
+- TOP 27: Antrag der CDU-Ratsfranktion vom 14.11.2006 hier: Schaffung von zusätzlichen Räumlichkeiten für die Grundschule Am Hügel
+- TOP 28: Benennung eines Mitgliedes im Seniorenbeirat
+- TOP 29: Antrag von Ratsmitglied Thomas Schmidt; Rauchverbot im Rathaus
+- TOP 30: Antrag von Ratsmitglied Thomas Schmidt; Sicherheitsgespräch
+- TOP 31: Antrag von Ratsmitglied Thomas Schmidt; Beleuchtung im Stadtgebiet
+- TOP 32: Anfragen der Ratsmitglieder
+- TOP 33: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
