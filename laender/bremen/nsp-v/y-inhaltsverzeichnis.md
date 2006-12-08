@@ -27,6 +27,8 @@ Abschnitt 4 Ergebnis der Abiturprüfung
 § 21 | Wiederholung der Abiturprüfung
 § 22 | Zeugnis
 § 23 | Latinum, Graecum
-Abschnitt 5 Schlussbestimmungen
-§ 24 | Übergangsregelungen
-§ 25 | In-Kraft-Treten, Außer-Kraft-Treten
+Abschnitt 5 Erwerb der Fachhochschulreife durch Schülerinnen und Schüler der Freien Waldorfschulen
+§ 24 | Erwerb der Fachhochschulreife durch Schülerinnen und Schüler der Freien Waldorfschulen
+Abschnitt 6 Schlussbestimmungen
+§ 25 | Übergangsregelungen
+§ 26 | In-Kraft-Treten, Außer-Kraft-Treten
