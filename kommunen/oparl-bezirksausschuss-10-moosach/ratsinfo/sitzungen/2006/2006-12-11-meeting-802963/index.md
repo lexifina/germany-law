@@ -1,0 +1,57 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2006-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/802963
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/802963
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Freigabe der Einbahnstraße in der Puchheimer Straße zwischen Tengelmann und Zur Grünen Eiche für Radfahrer entgegen der Fahrtrichtung
+- TOP 2.2.: Erstellung von Sammelinformationsanlagen (Schreiben der Fa. Interwerbung)
+- TOP 2.3.: Fahrradständer im Bereich des U-Bahnhofs Olympia-Einkaufszentrum
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: 850-Jahr-Feier Münchens
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Mehrsprachiges BA-Informationsmaterial
+- TOP 4.2.: Präsentsationsmaterial für Informationsveranstaltungen der Bezirksausschüsse
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10: Caritas Moosach: Isarcards und Streifenkarten
+- TOP 6.: Anhörungen
+- TOP 6.1.: Anordnung einer 30 km/h-Beschränkung in der Waldhornstraße nördlich Manzostraße
+- TOP 6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Buslinie 175, Festlegung der Haltestelle Claudiusplatz
+- TOP 7.2.: Hundepoller für die Spielwiese an der Darmstädter Straße
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Öffnung des Zeltlagers "The Tent" während des Oktoberfestes (Schreiben des BA 9 Neuhausen-Nymphenburg)
+- TOP 8.4.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlage in München
+- TOP 8.5.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 8.6.: Schutz der Münchner Vorgärten
+- TOP 8.7.: Entwicklung des öffentlichen Nahverkehrs in München
+- TOP 8.8.: Neues Wegweisungssystem für den Radverkehr
+- TOP 8.9.: Einrichtung einer Bereitstellungsfläche auf dem Bahnbetriebsgelände des Rangierbahnhofs München-Nord
+- TOP 8.10.: Beanspruchung von Stadtteildomains durch die Landeshauptstadt München
+- TOP 8.11.: Film- und Fotoaufnahmen auf öffentlichem Verkehrsgrund: Schragenhofstr., Am Kapuzinerhölzl, Reinoltstraße
+- TOP 8.12.: Einsatz eines Simulatorwagens bei Geschwindigkeitsüberschreitungen in Tempo 30 Zonen (Schreiben des BA 17 Obergiesing)
+- TOP 8.13.: Stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen
+- TOP 8.14.: Fällung von Gefahrbäumen
+- TOP 8.15.: Pächterwechsel Bäckerei-Konditorei Café Zerlin
+- TOP 8.16.: Genehmigung zur Zweckentfremdung von Wohnraum durch Nutzungsänderung im Anwesen Lauinger Str. 23 als Bewohnertreff
+- TOP 8.17.: Wohnen in München IV; Wohnungspolitisches Handlungsprogramm 2007 - 2011 (Hinweis / Ergänzung vom 10.11.2006)
+- TOP 4: Anträge
