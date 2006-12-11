@@ -1,0 +1,87 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2006-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1008846
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1008846
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Wohnungen in Hadern, Guardinistr. Gräfelfinger Str. und Stiftsbogen
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Waldklausenweg 15, 2 Birken
+- TOP 3.2.: Flemischweg 9, 1 Kiefer, 1 Lärche, 1 Fichte
+- TOP 3.3.: Toemlingerstr. 18, 1 Birke
+- TOP 3.4.: Heckenrosenstr. 9, 1 Schwarzkiefer
+- TOP 3.5.: Pelargonienweg 44, 1 Fichte
+- TOP 3.6.: Hohenklingenstr. 15 und 15a, 5 Fichten
+- TOP 3.7.: Vingerstr. 5, gem. Baumbestandsplan Nr. 31633
+- TOP 3.8.: Schachblumenweg 15, 1 Fichte
+- TOP 3.9.: Wastl-Witt-Str. 11 - 15, 2 Rotbuchen
+- TOP 3.10.: Haderunstr. 1a, 2 Birken
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag des Treff 21, Schule-Beruf e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 799,35 Euro (Direktorium, 09.11.2006)
+- TOP 6.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 20 Hadern Widmungserweiterung (+ Rad) des Weges "Haderner Steg" (Gesamtstrecke)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Baumaßnahmen der Stadtwerke München, Schröfelhofstr. 11, Schröfelhofstr. g. Maenherstraße (swm, 13.11.2006)
+- TOP 7.2.: Genehmigungsbescheid zum Haderner Christkindlmarkt 2006 (KVR, 13.11.2006, 06.11.2006)
+- TOP 7.3.: Bewegungsinseln 4F-circle (Baureferat, 09.11.2006)
+- TOP 7.4.: Gewährung des Zuschusses für den Haderner Christkindlmarkt 2006 (Direktorium, 14.11.2006)
+- TOP 7.5.: Protokoll über das Gespräch des Oberbürgermeisters mit den Vorsitzenden der Bezirksauschüsse am 10.11.2006 (Direktorium, 14.11.2006)
+- TOP 7.6.: Unveränderte Fortführung der Gaststätte Sailos´s Inn (KVR, 20.11.2006)
+- TOP 7.7.: Ergebnisse der Workshops "Kultur im Stadtquartier" (Kulturreferat, 21.11.2006)
+- TOP 7.8.: Änderung im Filialnetz der Deutschen Post (Referat für Arbeit und Wirtschaft, 20.11.2006)
+- TOP 7.9.: Stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen (Schul- und Kultusreferat, November 2006)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertgesstätten (Direktorium, 30.10.2006)
+- TOP 8.2.: Neubau eines Mehrfamilienhauses Krokusstr. 73 (Referat für Stadtplanung und Bauordnung, 17.11.2006)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Schließvorrichtung am Spielplatz in der Willibaldstraße (Baureferat, 09.11.2006)
+- TOP 9.2.: Verbotsschild am Spielplatz Willibaldstraße Ecke Kleinhaderner Straße (Baureferat, 09.11.2006)
+- TOP 9.3.: Verbesserungen für Familien im Westbad (Referat für Arbeit und Wirtschaft, 24.10.2006)
+- TOP 9.4.: Lärmbelästigung von Spielplätzen ausgehend (Baureferat, 26.10.2006)
+- TOP 9.5.: Verkehrsstau in der Waldwiesenstraße (KVR, 10.11.2006)
+- TOP 9.6.: Straßenschäden in der Willibaldstraße (Baureferat, 06.11.2006)
+- TOP 9.7.: Beleuchtung Gehwege (Baureferat, 20.11.2006)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Bericht über die Bürgerversammlung im Stadtbezirk 3 (BA 3, 13.11.2006)
+- TOP 11.2.: Einsatz eines Simulatorwagens bei Geschwindigkeitsüberschreitung in Tempo 30 (BA 17, 21.11.2006)
+- TOP 11.3.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse; Standortfrage Kindertagesstätten (BA 15, 21.11.2006)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 25.10.2006: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006
+- TOP 12.2.: vom 25.10.2006: Einrichtung einer Schiedstelle bei kommunalverfassungsrechtlichen Streitigkeiten zwischen Bezirksausschüsse und Stadt.
+- TOP 12.3.: vom 05.10.2006: Raumordnungsverfahren für eine 3. Start- und Landebahn des Verkehrsflughafens München; Einleitung des Verfahrens und Anhörungsverfahren - Stellungnahme der Landeshauptstadt München
+- TOP 12.1.: vom 23.11.2006: Sonderflughafen Oberpfaffenhofen, Luftrechtlichen Genehmigung, Antrag auf Ergänzung und Änderung
+- TOP 12.1.: Beschluss des Kommunalausschusses vom 19.10.2006: Straßenbenennung im 20. Stadtbezirk Hadern und im 21. Stadtbezirk Pasing-Obermenzing, Lobelienweg
+- TOP 12.1.: Beschluss des Schulausschusses des Stadtrates vom 29.11.2006: Abriss und Neubau einer Kindertageseinrichtung mit 6 Gruppen Senftenauerstr. 25 im 20. Stadtbezirk Hadern
+- TOP 2: (E) Lärmpegelmessung in der Langbehnstraße (Ziffer 1 des Antrags) Empfehlung Nr. 02-08 / E 00522 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 28.09.2006
+- TOP 2.3.: Vorberatende Ausschüsse
+- TOP 2.1.: Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 11.10.2006: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011
+- TOP 2.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.2006: Schutz der Münchner Vorgärten
+- TOP 2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.2006: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 2.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.2006: Münchner Wohnungsbaugesellschaften verpflichen sich dem Klimaschutz
+- TOP 2.3.: Bekanntgaben
+- TOP 2.4.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom11.10.2006: Auswirkungen von Brandschutzbestimmungen und Auflagen der Feuerwehr auf den Städtebau, die Grün- und Objektplanung
+- TOP 2.5.: Bekanntgabe in der Sitzung des Verwaltungs- und Personalausschusses am 15.12.2006: Beanspruchung von Stadtteildomains durch die Landeshauptstadt München
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 2.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 2.3.2: Senatsbeschlüsse
