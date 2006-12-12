@@ -1,0 +1,80 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2006-12-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/810661
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/810661
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Sozialticket
+- TOP 4: Beschlüsse des BA 8
+- TOP 5: Anhörungen
+- TOP 5.1.: Antrag auf Warenstellage Schwanthalerstr. 155
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Vorstellung der geplanten Baumaßnahmen der SWM
+- TOP 6.1.2.: Planungsreferat - Wohnen in München IV, Wohnungspolitisches Handlungsprogramm 2007 - 2011 Hinweis / Ergänzung
+- TOP 6.1.3.: Planungsreferat - Gesamtkonzept für P+R Anlagen sowie B+R Anlagen in München
+- TOP 6.1.4.: Bergmannstraße zwischen Kazmair- und Westendstraße im 8. Stadtbezirk Schwanthalerhöhe Erneuerungsmaßnahmen mit Verbesserungen Bitte um Stellungnahme
+- TOP 6.1.5.: MIP 2007 - 2011 Stellungnahme BA 8
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Verteilerplan stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen
+- TOP 6.2.2.: Konzept zur berufsbezogenen Schulsozialarbeit - JADE
+- TOP 6.2.3.: Aktiv gestaltende Schulauwandsträgerschaft MÜKOS - Münchner Konzept zur Schulprogrammentwicklung
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Baumfällung Kazmairstr. 73
+- TOP 6.4.2.: Unterrichtung über Baumfällungen
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Budgetantrag Freundeskreis der Kirche Maria Heimsuchung vom 13.09.06
+- TOP 6.5.2.: Budgetantrag Initiativive Open Westend vom 22.10.2006 für Open Westend im März 2007
+- TOP 6.5.3.: Budgetantrag Kulturkeller Schwanthalerhöh vom 23.11.06
+- TOP 6.5.4.: Budgetantrag Evangelischer Vereine München-Westend e.V. Diakoniestation vom 27.11.2006
+- TOP 7: Erledigungen
+- TOP 7.1.: Grundversorgung der Kinder und Jugendlichen, speziell im 8. Stadtbezirk
+- TOP 7.2.: Geschwindigkeitsbegrenzung und Überwachung, vorallem in der Ridlerstraße
+- TOP 7.3.: Öffnung der Fäustlestraße zwischen Landsberger Straße und Westendstraße für den gegenläufigen Radverkehr
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Meldeliste 06.11.06 - 12.11.06 Erstantragsverfahren a) Guldeinstr. 26
+- TOP 9.2.: Bauvorhaben SWM Stichtag 13.11.06
+- TOP 9.3.: Baumaßnahmen der SWM Stichtag 20.11.2006
+- TOP 9.4.: Meldeliste vom 20.11.06 - 26.11.2006 Erstantragsverfahren a) Schwanthalerstr. 182
+- TOP 9.5.: Meldeliste vom 20.11.06 - 26.11.06 Vorbescheide a) Ligsalzstr. 8
+- TOP 9.6.: Baumaßnahmen SWM Stichtag 24.11.2006
+- TOP 9.7.: Baumaßnahmen der SWM Stichtag 04.12.06
+- TOP 9.8.: Meldeliste 27.11.06 - 03.12.06 Erstantragsverfahren a) Kazmairstr. 58 b) Schwanthalerstr. 150 c) Ridlerstr. 26
+- TOP 10: Verschiedenes
+- TOP 10.1.: Berichterstattung der SZ über die Bürgerversammlungen Schreiben BA 3 Schreiben BA 13
+- TOP 10.2.: Sitzungstermine 2007 zur Kenntnis
+- TOP 10.3.: BA-SItzungstermine und BV-Termine 2007
+- TOP 10.4.: Beteiligungs- und Entscheidungsrechte der BAs Standortfragen Kindertagesstätten Schreiben BA 15
+- TOP 10.5.: Einsatz eines Simulatorwagens bei Geschwindigkeitsüberschreitung in Tempo30-Zonen Antrag es BA 17 Bitte um Unterstützung
+- TOP 10.6.: Ablauf von Bürgerversammlungen
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Protokoll 11/06 vsl mit Nachtrag
+- TOP 11.2.: Schriftverkehr 11/06 vsl mit Nachtrag
+- TOP 11.3.: DIR - Zuwendungbescheid Multkulturelles Jugendzentrum vom 07.11.06, Antrag vom 30.08.06
+- TOP 11.4.: DIR - Zuwendungsbescheid Kleingartenverein SW 82 e.V. "Villa Flora" vom 23.11.2006
+- TOP 11.5.: DIR - Verwendungsnachweis Budget Generationengerechtes Wohnen der Wohnungsgenossenschaft München West e.V.
+- TOP 11.6.: DIR - Verwendungsnachweis Budget Kulturkeller Schwanthalerhöh
+- TOP 11.7.: DIR - Beanspruchung von Stadtteildomains durch die LH München
+- TOP 11.8.: KVR - Versamlmlung Ver.di 04.12.06 Westendstr. 100
+- TOP 11.9.: Baureferat - Neues Wegweisungssystem für den Radverkehr Systemdarstellung und weiteres Vorgehen
+- TOP 11.10.: Planungsreferat - Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 11.11.: Planungsreferat - Entwicklung des öffentlichen Nahverkehrs in München
+- TOP 11.12.: Planungsreferat - Schutz der Münchner Vorgärten
+- TOP 11.13.: KVR -Unveränderte Fortführung von Gaststätten Westendstr. 18
+- TOP 11.14.: Vollautomatische Toiletten - Notiz
+- TOP 11.15.: Kämmerei - Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2007
+- TOP 11.16.: Natur und Umwelt
+- TOP 11.17.: DIR - Verwendungsnachweis Budget Internationales Stadtteilfest Westend 2006
