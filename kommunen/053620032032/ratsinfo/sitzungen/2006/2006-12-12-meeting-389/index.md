@@ -1,0 +1,63 @@
+# Stadtrat (17. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2006-12-12T17:02:00+01:00
+- Ende: 2006-12-12T21:52:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZGfeHnxHRKDIttyHbbZnsk
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/389
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZamqi6WHIA64PXMApWWhucAJb7eUIoFxY13nQEMLwfuZ/Bekanntmachung_Stadtrat_12.12.2006.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZT62V-JyJZLk17n0Q-L_37y-2QC1ALO8LQaGNU93XRj5/Oeffentliche_Niederschrift_Stadtrat_12.12.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Vortrag der Leiterin der ARGE Rhein-Erft, Dr. Thiele
+- TOP 2.: Umbesetzung von Vertretern der Stadt Kerpen in Gremien
+- TOP 3.: Bestimmung von Mitgliedern der Schulkonferenzen der städt. Schulen im Rahmen der Bestellung von Schulleiterinnen oder Schulleitern gem. § 61 SchulG
+- TOP 4.: Einrichtung des Integrationsbeirates
+- TOP 5.: Integrations- und Migrationskonzept der Stadt Kerpen
+- TOP 6.: Fahrt nach Oswiecim vom 25.01. - 28.01.2007 anlässlich des 62. Jahrestages der Befreiung der Stadt Auschwitz und des ehemaligen Konzentrationslagers Auschwitz-Birkenau sowie offizieller Beginn des 10- jährigen Jubiläums der Städtepartnerschaft zwischen Oswiecim und Kerpen. Hier: Erteilung einer Dienstreisegenehmigung für Stadtratsmitglieder
+- TOP 7.: Erlass von Ortsrecht
+- TOP 7.1: Elternbeiträge in Kindertageseinrichtungen und Tagespflege hier: Satzung über die Erhebung von Elternbeiträgen in Kindertageseinrichtungen und Tagespflege
+- TOP 7.2: 16. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Stadt Kerpen
+- TOP 7.3: 10. Satzung zur Änderung der Benutzungsgebührensatzung zur Entwässerungssatzung der Stadt Kerpen
+- TOP 7.4: 6. Satzung zur Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Stadt Kerpen
+- TOP 7.5: 1. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Stadt Kerpen
+- TOP 7.6: Erlass einer Ehrensatzung
+- TOP 8.: Stadtentwicklung und Bauleitplanung
+- TOP 8.1: 51. Änderung des Flächennutzungsplanes " " Sonderbaufläche Gesundheits- und Therapieeinrichtung für Pferde", Stadtteil Buir - hier: Wirksamkeitsbeschluss
+- TOP 8.2: Vorhabenbezogener Bebauungsplan BU 317 "Gesundheits- und Therapieeinrichtung für Pferde", Stadtteil Buir - hier: Satzungsbeschluss
+- TOP 8.3: Bebauungsplan HO 290 C/1. Änderung "Am Ichendorfer Weg", Stadtteil Horrem hier : Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 9.: Ausbaubeschluss Heidefließ / Humboldstraße (K 17)
+- TOP 10.: Kindertagesstättenbedarfsplanung hier: Auswirkungen und Maßnahmen durch Schließungen von Einrichtungen und Gruppen in Trägerschaft der katholischen Kirche zum 31.07.2008 im Rahmen Projekt ¿Zukunft heute¿
+- TOP 11.: Umsetzung des Tagesausbaubetreuungsgesetzes (TAG): Tagespflege
+- TOP 12.: Erhöhung des Betriebskostenzuschusses in Form freiwilliger Leitungen der Stadt Kerpen an die Träger der evangelischen Kindertagesstätten im Stadtgebiet Kerpen
+- TOP 13.: Jugendmusikschule hier: Gutachten
+- TOP 14.: Resolution des Rates der Stadt Kerpen zur Forstreform
+- TOP 15.: Bericht des Arbeitskreises Bäder zur Bäderkonzeption und Empfehlungen zur Betriebsführung der Bäder
+- TOP 16.: Stellenplan 2007 hier: Erhöhung Stellenanteil der Stelle 90000149
+- TOP 17.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 18.: Mitteilungen
+- TOP 19.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 19.1: Antragsrecht von Stadtverordneten
+- TOP 19.2: Festzelt für die Horremer Karnevalsvereine
+- TOP 20.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 21.: Übernahme von Gruppen in Tageseinrichtungen für Kinder der katholischen Kirchenge-meinden im Rahmen ¿Konzept Zukunft heute¿ in Trägerschaft der Stadt Kerpen zum 01.08.2008: - Heilig Geist in Neubottenbroich - Maria Goretti in Manheim - St. Kunibert in Blatzheim - St. Josef in Brüggen
+- TOP 22.: Bebauungsplan TÜ 246 "Gewerbe- und Industriegebiet Ville III"; hier: Abschluss des 1. Änderungsvertrages zum Erschließungsvertrag vom 16.12.1998
+- TOP 23.: Vorhabenbezogener Bebauungsplan BA Nr. 286 "Am Kapellchen" im Stadtteil Balkhausen; hier: Wechsel des Vorhabenträgers
+- TOP 24.: Umbaumaßnahmen im Bereich der Tennishalle Kerpen; hier: Abschluss eines städtebaulichen Vertrages zur Kostenbeteiligung mit dem Betreiber
+- TOP 25.: Grundstückspreis im Vogelrutherfeld, 1. Bauabschnitt hier: Einspruch gegen den Beschluss des Ausschusses für Stadtplanung und Verkehr vom 17.10.2006
+- TOP 25.1: Grundstückspreis im Vogelrutherfeld, 1. Bauabschnitt; Drs.-Nr. 46.06
+- TOP 26.: Bürgschaftsprovisionen für übernommene Bürgschaftsdarlehen der Erftland-Holding
+- TOP 27.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 28.: Mitteilungen
+- TOP 28.1: Verkauf des ehemaligen Jugendzentrums Sindorf
+- TOP 28.2: Beanstandung eines Ratsbeschlusses
+- TOP 29.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 30.: Grundstücksangelegenheiten der GEV Kerpen mbH
+- TOP 31.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
