@@ -1,0 +1,69 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2006-12-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/829130
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/829130
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .2.1.: BA-Budget
+- TOP .1.: Zuschuss aus dem BA-Budget für BA-eigene Veranstaltungen: ?Alt und Jung - grenzenlos?
+- TOP .2.: Zuschuss aus dem BA-Budget für BA-eigene Veranstaltungen: Kinderfasching
+- TOP .2.2.: Kultur
+- TOP .5.1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .3.1.: Bauvorhaben
+- TOP .1.: Pettenkoferstr. 2, Aufstockung
+- TOP .2.: Arnulfstraße/Ecke Paul-Heyse-Unterführung, Aufstellung einer hinterleuchteten Wer-bewechselanlage
+- TOP .3.: Schillerstr. 7, Neuaufteilung zweier Spielsalons und Erweiterung zu drei Einheiten (Vorbescheid)
+- TOP .4.: Müllerstr. 49, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP .5.: Sonnenstr. 12, Umgestaltung des Event-, Musik- und Tanzclubs im 1.OG
+- TOP .6.: Thalkirchner Str. 54, Verkauf einer städtischen Immobilie (ungenutzter Vorplatz)
+- TOP .7.: Adlzreiterstr. 8, nachträgliche Genehmigung eines Bestandsgebäudes unter Wegfall
+- TOP .8.: Schillerstr. 28, Nutzungsänderung in ein Hotel mit Umbau, Aufstockung und Anbau (Vorbescheid)
+- TOP .9.: Landwehrstr. 46, Nutzungsänderung des RGB in Laden und Pension, Ladenanbau im Innenhof, Überdachung des Hinterhofs, Neubau einer Tiefgarage (Tektur)
+- TOP .10.: Schwanthalerstr. 61, Neubau eines Wohn- und Geschäftshauses mit TG (Vorbescheid)
+- TOP .11.: Schwanthalerstr. 61, Neubau eines Hotels mit TG (Vorbescheid)
+- TOP .12.: Schwanthalerstr. 43, Nutzungsänderung Gaststätte in Spielsalon
+- TOP .13.: Fraunhoferstr. 11 / Klenzestr. 40+42, Neubau von Wohnhäusern mit Läden, Büros und Tiefgarage (2. Tektur)
+- TOP .14.: Kapuzinerstr. 36-38, Verkauf einer städtischen Immobilie
+- TOP .15.: Bayerstr. 77+77 a, Nutzungsänderung: Wohnen in Gewerbe durch Flächenaustausch und bauliche Änderungen
+- TOP .16.: Schwanthalerstr. 74, Neubau einer Wohnanaage mit TG (Tektur)
+- TOP .3.2: Sonstige
+- TOP .1.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP .2.: Untersuchung der Verkehrssituation im Tal; Beschlussentwurf zur Behandlung einer BV-Empfehlung des 1. Stadtbezirks
+- TOP .1.: Parkplatz am Kapuzinerplatz ? Umbau des Gehwegs
+- TOP .2.: ?Ramadama? im Glockenbachviertel im Frühjahr (Bürgerschreiben)
+- TOP .3.: Begrünung und Verbesserung der Verkehrssituation in der Herzog-Heinrich-Straße (Bürgerschreiben)
+- TOP .5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP .3.1.: Sperrzeit-Angelegenheiten
+- TOP .3.2.: Freischankflächen
+- TOP .3.3.: Warenstellagen
+- TOP .3.4.: Verkehr
+- TOP .1.: Faschingsstraßenfest in der Reichenbachstraße am 20.02.2007
+- TOP .3.5: Bäume (Empfehlungen des BAumschutzbeauftragten)
+- TOP .1.: Kapuzinerpl. 5, Fällung v. 1 Kastanie wegen Stammspaltung
+- TOP .2.: Museumsinsel 1, Fällung v. 1 Pflaumenbaum (abgestorben)
+- TOP .1.: Anschaffung eines Simulatorwagens für Tempo-30-Sünder
+- TOP .2.: Bordsteinabsenkungen am Holzplatz
+- TOP .3.: Bericht des Beauftragten (AK Theresienwiese)
+- TOP .4.: Gefährdung von Kindern Ecke Zweibrücken-/Morassistraße
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP .3.2.: Berichte aus den anderen BA
+- TOP .3.3.: Bericht des Internetbeauftragten
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Infos)
+- TOP .2.: Veranstaltungen
