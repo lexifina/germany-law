@@ -1,0 +1,65 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2006-12-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/793123
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/793123
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Grünanlage seitlich der Von-Kahr-Straße, zwischen Megele- und Nätherstraße
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 3.1.: Schaffung von Verkehrssicherheit in der Fuß- und Radwegunterführung am S-Bahnhof Untermenzing
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Antrag auf Zuschuss aus dem Budget in Höhe von 1.500 Euro für den Kauf von Fußballtoren; Antragsteller: TSV Allach 09
+- TOP 4.2.: Antrag auf Zuschuss aus dem Budget in Höhe von 2.250 Euro für die Ausstattung des Schülercafes; Antragsteller: Verein zur Förderung der Jugendarbeit in Allach
+- TOP 5.: Anhörungen
+- TOP 5.1.: Verkehrsmaßnahmen Waldhornstraße; 30 km/h und andere Maßnahmen in der Waldhornstraße nördlich Moosanger
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Bewilligung eines Zuschusses aus dem Budget: Antragsteller: Städt. Louise-Schröder-Gymnasioum
+- TOP 9: Schreiben des Baureferates
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Gaststätte "Athos" (vorm. Achilles), Manzostr. 37, unveränderte Fortführung
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Bauanträge (v. 06.11.-12.11.06, 13.-19.11.06, 20.11.-26.11.06)
+- TOP 11.2.: Vollzug der BaumschutzVO a) Auenbruggerstr. 71: 1 Nadelbaum b) Pasteurstr. 41: Baumbestandsplan Nr. 2006-29445, -29446, -29447, -29443, -29444 c) Karl-Hänel-Str. 34: 1 Kiefer d) Waldhornstr. 36: 1 Birke e) Schmid-Ballauf-Weg 4: 1 Serbische Fichte f) Nigglstr.24: 1 Tanne g) Ernst-Haeckel-Str. 61: 1 Birke h) Waldhornstr. 95: Baumbestandsplan Nr. 2006-28504
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 12.1.: Mitteilung über ein Grundstücksgeschäft; Obere Mühlstraße / Lochhausener Straße
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Traditionsschießen mit dem Feuerstutzen auf der 100-m-Anlage der Kgl.-priv. Feuerschützengesellschaft "Der Bund"
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 3 Maxvorstadt Berichterstattung der SZ über Bürgerversammlungen
+- TOP 20.2.: BA 15 Trudering - Riem Beteiligungs- und Entscheidungsrechte der BA`s ; Standortfragen Kindertagesstätten
+- TOP 20.3.: BA 17 Obergiesing Einsatz eines Simulatorwagens bei Geschwindigkeitsüberschreitungen in Tempo 30 Zonen
+- TOP 20.4.: BA 21 Pasing-Obermenzing - Vervollständigung des Radfahrweges von Pasing zu den Langwieder Seen - Aufstellung eines Bebauungsplanes für den Radweg entlang der Goteboldstraße
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen der Stadtwerke
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Kinder- und Jugendhilfeausschuss, Sozialausschuss vom 10.10.06 - Haushaltskonsolidierung Feinkonzept 2006 Sonderkonsolidierung 2006 Grob- und Feinkonzept 2007-2011
+- TOP 22.2.: Vollversammlung vom 25.10.06 -Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006
+- TOP 22.3.: Sitzung des Riemausschusses vom 8.11.06 -Auswirkung vom Brandschutzbestimmungen und Auflagen der Feuerwehr auf den Städtebau, die Grün- und Objektplanung
+- TOP 22.4.: Vollversammlung vom 23.11.06 - Sonderflughafen Oberpfaffenhofen Luftrechtliche Genehmigung Antrag auf Ergänzung und Änderung
+- TOP 22.5.: Ausschuss für Stadtplanung und Bauordnung vom 29.11.06 - Schutz der Münchner Vorgärten - Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz - Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 22.6.: Gemeinsame Ausschüsse für Stadtplanung und Bauordnung, Kommunalausschuss, Sozialausschuss und Finanzausschuss vom 29.11.06 - Wohnen in MünchenIV - Wohnungspolitisches Handlungsprogramm 2007 2011
+- TOP 22.7.: Ausschuss für Stadtplanung und Bauordnung vom 29.11.2006 - Entwicklung des öffentlichen Nahverkehrs in München
+- TOP 22.8.: Bauausschuss vom 05.12.2006 - Neues Wegweisungssystem für den Radverkehr Systemdarstellung und weiteres Vorgehen
+- TOP 23: Schreiben der Deutschen Post
+- TOP 23.1.: Umwandlung Postfiliale in Partnerfilialen, hier: Oertelplatz 3
+- TOP 23: Verschiedenes
