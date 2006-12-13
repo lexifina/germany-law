@@ -1,0 +1,74 @@
+# 17. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-12-13T17:04:00+01:00
+- Ende: 2006-12-13T22:07:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5321
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5321
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00242081.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 1.1: Schulentwicklungsplanung - Lernbehinderungen für Kinder an Förderschulen aufzeigen - verwiesen
+- TOP 1.2: Schulentwicklungsplanung - Albert-Schweitzer-Schule - verwiesen
+- TOP 1.3: Schulentwicklungsplanung - Gemeinsamer Unterricht - - verwiesen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der SPD-Fraktion an den Rat Nr. A-R/0044/2006 vom 30.10.2006 "Beteiligungssteuerung verbesser - mehrheitlich beschlossen
+- TOP 2.2: Parkverkehr am Hauptbahnhof ordnen - einstimmig beschlossen
+- TOP 2.3: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. 34/2004 - einstimmig beschlossen
+- TOP 2.4: Wohnungspolitische Anträge: R/0036/2006 und R/0046/2006 - einstimmig beschlossen
+- TOP 2.5: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. A-R/0038/2006 - einstimmig geändert beschlossen
+- TOP 3: Beschwerde gemäß § 24 Gemeindeordnung Nordrhein-Westfalen wegen Gebäudeeinmessungspflicht - einstimmig beschlossen
+- TOP 4: Zentrum Nienberge - einstimmig beschlossen
+- TOP 5: Jahresrechnung des Bühnenbewirtschaftungsplanes 2005/2006 - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Errichtungsbeschluss zur Erweiterung des Feuerwehrgerätehauses für den Löschzug Angelmodde der Freiw - mehrheitlich beschlossen
+- TOP 7: Beteiligungsbericht 2005 - zur Kenntnis genommen
+- TOP 8: Gewerbepark Münster-Loddenheide GmbH (GML) - Kapitalzuführung - einstimmig beschlossen
+- TOP 9: Managementkontrakt mit der Wirtschaftsförderung Münster GmbH - einstimmig beschlossen
+- TOP 10: Vergabeverfahren für ein PPP-Modell zur Sanierung und Weiterentwicklung - ohne Beschlussfassung geschoben
+- TOP 11: Regionalmarketing für das Münsterland - einstimmig beschlossen
+- TOP 12: Änderung der Satzung über die Beseitigung des Schlammes - einstimmig beschlossen
+- TOP 13: Bündelung von Angeboten zur stärkeren Internationalisierung der städtischen Bildungslandschaft - einstimmig beschlossen
+- TOP 14: Weiterentwicklung der Berufskollegs: Errichtungsvorhaben der Berufskollegs in städtischer Trägerscha - einstimmig beschlossen
+- TOP 15: Weiterführung der Schülerspezialverkehre über das Schuljahr 2006/2007 hinaus - ohne Beschlussfassung geschoben
+- TOP 16: Preis der Stadt Münster für Europäische Poesie 2007 - einstimmig beschlossen
+- TOP 17: Fortschreibung des Handlungsprogramms zur Weiterentwicklung der kommunalen psychosozialen Versorgung - von der Tagesordnung abgesetzt
+- TOP 18: Modellprojekt "Wohnen für Hilfe - Wohnpartnerschften zwischen älteren und jungen Menschen" - zur Kenntnis genommen
+- TOP 19: Integriertes Handlungskonzept / Städtebaulicher Maßnahmeplan gemäß § 171 e Baugesetzbuch - einstimmig beschlossen
+- TOP 20: Vorlagen zu Wirtschaftsplänen
+- TOP 20.1: Wirtschaftsplan 2007 der citeq - einstimmig beschlossen
+- TOP 20.2: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 20.3: Wirtschaftsplan 2007 für Münster Marketing - einstimmig beschlossen
+- TOP 20.4: Wirtschaftspläne der Stiftungen für das Jahr 2007 - einstimmig beschlossen
+- TOP 20.5: Geänderte Wirtschaftspläne der Stiftungen Magdalenenhospital und Siverdes für das Jahr 2006 - einstimmig beschlossen
+- TOP 21: Änderung von Gebühren, Tarifen, Beiträgen und Entgelten
+- TOP 21.1: Neufassung der Feuerwehrsatzung und des Tarifs für Dienst- und Arbeitsleistungen - einstimmig beschlossen
+- TOP 21.2: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2007 - einstimmig beschlossen
+- TOP 21.3: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 21.4: Straßenreinigungsgebühren 2007 - zur Kenntnis genommen
+- TOP 21.5: Abfallgebühren 2007 - einstimmig beschlossen
+- TOP 21.6: Änderung der Gewässergebührensatzung - einstimmig beschlossen
+- TOP 21.7: Änderung der Abwassergebührensatzung - einstimmig beschlossen
+- TOP 21.8: Satzung zur Erhebung und zur Höhe von Kostenbeiträgen für die Förderung von Kindern in Kindertagespf - einstimmig beschlossen
+- TOP 22: Bauleitplanung
+- TOP 22.1: Stadtbezirk Mitte
+- TOP 22.1.1: 20. Änderung des fortgeschriebenen Flächennutzungsplanes für den Bereich westlich Salzmannstraße - einstimmig beschlossen
+- TOP 22.1.2: Vorhabenbezogener Bebauungsplan Nr. 502: westlich Salzmannstraße / nördlich Meßkamp - einstimmig beschlossen
+- TOP 22.2: Stadtbezirk West
+- TOP 22.2.1: 14. Änderung des fortgeschriebenen Flächennutzungsplanes für den Bereich Roxel Nord II - mehrheitlich beschlossen
+- TOP 22.2.2: Bebauungsplan Nr. 484 - Erweiterter Aufstellungsbeschluss - mehrheitlich beschlossen
+- TOP 22.2.3: Bebauungsplan Nr. 409, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 22.3: Stadtbezirk Südost
+- TOP 22.3.1: 1. Änderung des vorhabenbezogenen Bebauungsplanes Nr. 494 - einstimmig beschlossen
+- TOP 22.4: Stadtbezirk Ost
+- TOP 22.4.1: 15. Änderung des fortgeschriebenen Flächennutzungsplanes der Stadt Münster - mehrheitlich beschlossen
+- TOP 22.4.2: Vorhabenbezogener Bebauungsplan Nr. 499: Gelmer - westlich Schifffahrter Damm - mehrheitlich beschlossen
+- TOP 22.4.3: 3. Änderung des Bebauungsplanes Nr. 287: Gelmer - Industriegebiet Hessenweg - einstimmig beschlossen
+- TOP 23: Verschiedenes
