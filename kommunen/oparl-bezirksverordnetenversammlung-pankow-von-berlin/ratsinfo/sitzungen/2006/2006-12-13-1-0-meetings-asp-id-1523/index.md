@@ -1,0 +1,65 @@
+# 3. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2006-12-13T17:30:00+01:00
+- Ende: 2006-12-13T22:15:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1523
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1523
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: Komplex 1 - erledigt
+- TOP 1.1: Bürgerfragestunde - erledigt
+- TOP 1.2: Geschäftliche Mitteilung - erledigt
+- TOP 1.3: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.4: Dringlichkeitsanträge - gegenstandslos
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl der stellvertretenden Bezirksbürgermeisterin und zugleich Bezirksstadträtin - gewählt
+- TOP 1.9: Wahl eines Bezirksstadtrates - gewählt
+- TOP 1.10: Wahl der Patientenfürsprecher/Patientenfürsprecherin - gewählt
+- TOP 1.11: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.12: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.13: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.14: Nominierung von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.15: Wahl der Bürgerdeputierten für den Jugendhilfeausschuss der BVV für die VI. Wahlperiode - gewählt
+- TOP 1.16: Aktuelle Stunde zum Thema "Prenzlauer, Ecke Fröbelstraße - Hospital der Reichshauptstadt, Haftort der Geheimdienste, Bezirksamt Prenzlauer Berg" Ideologiefreie Würdigung einer dem Stand der geschichtlichen Forschung entsprechenden Darstellung der Nutzung der Liegenschaft in der Fröbelstr. 17 durch die Staatssicherheit der DDR - erledigt
+- TOP 1.17: Anmeldung für die Investitionsplanung 2007 bis 20011 Bezirk Pankow - überwiesen
+- TOP 1.18: Lokaler Aktionsplan Pankow - mit Änderungen in der BVV beschlossen
+- TOP 1.19: Bezirksname - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Historische Aufklärung - mit Änderungen in der BVV beschlossen
+- TOP 1.21: Überprüfung der Bezirksverordneten zur Feststellung einer hauptamtlichen und/oder inoffiziellen Tätigkeit für das ehemalige MfS/AfNS der DDR - mit Änderungen in der BVV beschlossen
+- TOP 1.22: Überprüfung der Bezirksverordneten zur Feststellung einer hauptamtlichen/ inoffiziellen Tätigkeit für das MfS/AfNS - zurückgezogen
+- TOP 1.23: Der Beteiligungshaushalt - BürgerInnenorientiertes Haushaltsplan-Aufstellungsverfahren - vertagt
+- TOP 1.24: Bürgerhaushalt - überwiesen
+- TOP 1.25: Wortprotokolle der BVV-Tagungen - vertagt
+- TOP 1.26: BürgerInnenfreundlicher Bezirk - Verbesserung der Öffentlichkeitsarbeit und des Informationsangebotes - überwiesen
+- TOP 1.27: Umleitung des Verkehrs in Heinersdorf - überwiesen
+- TOP 1.28: Aufarbeitung der Altakten in den Fachbereichen SozS, SozG, SozE im Jahr 2007 - vertagt
+- TOP 1.29: Mehr Sicherheit für Kinder Am Friedrichshain - überwiesen
+- TOP 1.30: Mehr Sicherheit für Kinder am Teutoburger Platz - überwiesen
+- TOP 1.31: Schulwegsicherung für den Schulstandort 2 der Rudolf-Dörrier-Grundschule - vertagt
+- TOP 1.32: Verkehrskonzept des Bezirkes - vertagt
+- TOP 1.33: Schallschutz Damerowstraße - vertagt
+- TOP 1.34: Schließung Postamt Conrad-Blenkle-Straße 1-3 - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Ampelanlage Pistoriusstraße Ecke Am Steinberg - überwiesen
+- TOP 1.36: Auszahlung einer Weihnachtsbeihilfe für BezieherInnen von ALG II und Grundsicherung nach SGB XII - vertagt
+- TOP 1.37: Beschluss über die Zuwendungsvergabe - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - erledigt
+- TOP 2.1: Entwicklung von Stadtteilzentren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.2: Trägerschaft Life Science Center Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Bestellung bezirklicher Trägervertreter/innen für die ArGe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Bestellung von Mitgliedern des Bezirksamts Pankow von Berlin für das Heimkuratorium der Seniorenheime Alt-Buch 48, Alt-Buch 49 und Theodor-Brugsch-Str. 18 der Paritätischen Seniorenwohnen gGmbH - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Bestellung eines Mitgliedes des Bezirksamtes in das Kuratorium der "Seniorenstiftung Prenzlauer Berg" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Bestellung von Mitgliedern im Verwaltungsrat des Eigenbetriebes "Kindergärten NordOst" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Nichtzustandekommen des Bürgerbegehrens Wasserturmplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Aufstellung des Bebauungsplans 3-12 für das Gelände zwischen den nördlichen Grenzen der Grundstücke Roelckestraße 93, Berliner Allee 317 und 321, Berliner Allee, Nüßlerstraße und Roelckestraße sowie einen Abschnitt der Feldtmannstraße im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Widerspruch vom 15.09.2006 gegen die Entscheidung über die Unzuläs-sigkeit des Bürgerbegehrens zum Neubau einer Moschee und eines isla-mischen Gemeindezentrums in Pankow, Ortsteil Heinersdorf - vertagt
+- TOP 2.10: Fortschreibung zum Doppelhaushaltsplan 2006/2007 des Bezirks Pankow von Berlin hier: Haushaltsjahr 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Einstellung der Verfahren zur Aufstellung der Bebauungspläne XIX-31 und XIX-15 - mit Abschlussbericht zur Kenntnis genommen
