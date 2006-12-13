@@ -1,0 +1,69 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2006-12-13T16:30:00+01:00
+- Ende: 2006-12-13T18:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=815
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=815
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Mündliche Fragestunde - erledigt
+- TOP 3.1: Umzugsplanung Steglitz-Zehlendorf - beantwortet
+- TOP 3.2: "Weg der Mitte" - beantwortet
+- TOP 3.3: Wahl zur Seniorenvertretung - beantwortet
+- TOP 3.4: Apellas verkauft seinen Wohnungsbestand - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeitswahlvorschläge - erledigt
+- TOP 4.1.1: Wahl von Bürgerdeputierten - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Wahl einer Stellvertreterin des Vertreters der BVV in den Verwaltungsrat des Eigenbetriebs "Kindertagesstätten Berlin Süd-West" - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.1.3: Wahl von Bürgerdeputierten nach § 9 Abs. 2 BezVG - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.4: Wahl für den Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Dringliche Ausschussanträge - erledigt
+- TOP 4.2.1: Sondermittel der BVV für den Behinderten Sportverein Steglitz e. V. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Vorlagen zur Beschlussfassung und Dringliche Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2005 - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Vorlagen zur Kenntnisnahme und Dringliche Empfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Übersicht über die im ersten Halbjahr 2006 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 4.5: Dringlichkeitsanträge - erledigt
+- TOP 4.5.1: Gedenktag für die Opfer des Holocaust - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Wahlvorschläge - erledigt
+- TOP 4.6.1: Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Wahl für den Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.3: Widerspruchsbeirat - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.4: Wahl von Bürgerdeputierten nach § 9 Abs. 2 BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Anträge - erledigt
+- TOP 4.7.1: Fußgängerschutzgitter am südlichen Teltower Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - - erledigt
+- TOP 5.1: Dringl. Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Wahl der Patientenfürsprecher für die Krankenhäuser des Bezirks nach § 26 des Landeskrankenhausgesetzes durch die Bezirksverordnetenversammlung - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Nichtüberwachung der Gewährleistungszeit Schwartzsche Villa Drs. 824/II - überwiesen
+- TOP 5.2.2: Endlich ein Haus der Weiterbildung für Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.3: Keine Fällaktionen zum Bau einer Schleusenkammer - überwiesen
+- TOP 5.2.4: Auch "Nicht-Plätze" bedürfen der Pflege - überwiesen
+- TOP 5.2.5: Lukrativer Verkauf von Namensrechten für Sportplätze auch in Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.6: Einrichtung Runder Tisch in Steglitz-Zentrum - überwiesen
+- TOP 5.2.7: Aktivierung von zusätzlichen Einnahmen für den Sport durch die Realisation von Werbung im Straßenland an Sportanlagen - überwiesen
+- TOP 5.2.8: Räume für Bildungsforum - überwiesen
+- TOP 5.2.9: Qualitative Räumlichkeiten für ein "Bildungsforum" in Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.10: Erste Schritte zu einem Bürgerhaushalt in Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.11: Bessere Förderung und Unterstützung von lernbehinderten und verhaltensauffälligen Kindern in der Schulanfangsphase - überwiesen
+- TOP 5.2.12: Gedenkveranstaltung zum 70. Jahrestag der Bombardierung der Stadt Guernica - überwiesen
+- TOP 5.2.13: Interessenbekundungsverfahren für das Grundstück Goethestraße/Königsberger Straße - überwiesen
+- TOP 5.2.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.15: Notwendige Schwerpunktsetzung: "sozialraum-orientierte" BVV-Sondermittel - überwiesen
+- TOP 5.2.16: Tempo 30 am südlichen Teltower Damm - überwiesen
+- TOP 5.2.17: Ausbau der Toilettenanlage am S-/RB-Bhf. Lichterfelde-Ost - überwiesen
+- TOP 6: Anfragen - erledigt
+- TOP 6.1: Erfolgreiche Reformen in der Abteilung Soziales? - erledigt
+- TOP 6.2: Stand der Maßnahmen des IZBB-Programms - schriftlich beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Sicherung von Kleingärten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Schlusswort des Bezirksverordnetenvortstehers - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
