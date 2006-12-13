@@ -1,0 +1,58 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2006-12-13T17:00:00+01:00
+- Ende: 2006-12-13T22:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1203
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1203
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=32590
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Personelle Neubesetzung der Trägervertretung in der Arbeitsgemeinschaft gemäß § 44 b Sozialgesetzbuch Teil II (SGB II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Änderung des Bebauungsplanentwurfs XX-288 für die Grundstücke Karolinenstraße 18, 19 und 21, die Tegeler Insel sowie für das Flachwasserbecken und Teilflächen des Tegeler Hafens im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 5.3: Änderung des Geltungsbereichs des Bebauungsplanentwurfs XX-297 - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Schließung von Polizeidienststellen - Wählertäuschung durch den Senat? - vertagt
+- TOP 6.2: Erhöhtes Verkehrsaufkommen in der Auguste-Viktoria-Allee - vertagt
+- TOP 6.3: Umgestaltung rund um den Franz-Neumann-Platz - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8: Anträge - (offen)
+- TOP 8.1: Überprüfung von Mitgliedern der BVV durch die Birthler-Behörde - im Ältestenrat zurückgezogen
+- TOP 8.2: Wahl von Bürgerdeputierten (SPD) - gewählt
+- TOP 8.3: Wahl von Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 8.4: Wahl von Bürgerdeputierten (CDU) - gewählt
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: NPD-Gebührenzahlung zielgerichtet für Namibia-Schul-Aktionen einsetzen - vertagt
+- TOP 9.2: Keine gewaltverherrlichenden Spiele auf bezirkseigenen Computern - überwiesen
+- TOP 9.3: Kindergeldanträge in Bürgerbüros auslegen - überwiesen
+- TOP 9.4: Materialien für PPP - vertagt
+- TOP 9.5: Einschulungsbereiche in Reinickendorf - überwiesen
+- TOP 9.6: Kostenlose Codierungen zu Beginn der Fahrradsaison 2007 - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Schwellen in der Auguste-Viktoria-Allee nicht entfernen - vertagt
+- TOP 9.8: Schulwegsicherung in Reinickendorfer Radwegekonzept einbeziehen - überwiesen
+- TOP 9.9: Kooperationsverträge von Schulen und Sportvereinen mit der Polizei - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Fußgängerampel vor dem Seniorenclub Hermsdorf - überwiesen
+- TOP 9.11: Kleine Hermsdorfer Synagoge - Falkentaler Steig 16 - in der BVV zurückgezogen
+- TOP 9.12: Instandsetzung der Halfpipe - überwiesen
+- TOP 9.13: Hundekot ordnungsgemäß entsorgen - überwiesen
+- TOP 9.14: Bauvorhaben im Bezirk - überwiesen
+- TOP 9.15: Namensschilder für Ordnungsamtsmitarbeiter - überwiesen
+- TOP 9.16: Zusätzliche Haushaltsmittel für 2007 an die Abteilung Jugend und Familie - vertagt
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: In Berlin kostenlosen Aids-Test wieder anbieten - überwiesen
+- TOP 10.2: Anpassung der Ampelschaltungen durch Tunnelsperrung in den Hauptverkehrszeiten - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Schrägparkzonen in der General-Woyna-Straße - in der BVV zurückgezogen
+- TOP 10.4: Straßenbeleuchtung auf dem Zabel-Krüger-Damm - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Abfallbehälter im Einkaufszentrum Gotthardstraße aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Wie weiter mit PPP? - beantwortet
+- TOP 12: Kinderschutz in Reinickendorf stärken - beantwortet
