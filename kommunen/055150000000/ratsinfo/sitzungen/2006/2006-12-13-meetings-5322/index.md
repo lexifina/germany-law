@@ -1,0 +1,86 @@
+# 19. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2006-12-13T17:30:00+01:00
+- Ende: 2006-12-13T22:17:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5322
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5322
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00242401.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Ausbau des Weges "Böckenhorst"
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 8: Einbringung der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2007
+- TOP 8.1: Neue Maßnahmen zum Haushaltsplan 2007 und zum Investitionsprogramm 2006 - 2010 - einstimmig beschlossen
+- TOP 8.2: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2007 - einstimmig beschlossen
+- TOP 9: Errichtungsbeschluss zur Erweiterung des Feuerwehrgerätehauses für den Löschzug Angelmodde der Freiw - mehrheitlich beschlossen
+- TOP 10: Beteiligungsbericht 2005 - zur Kenntnis genommen
+- TOP 11: Gewerbepark Münster-Loddenheide GmbH (GML) - Kapitalzuführung - einstimmig beschlossen
+- TOP 12: Managementkontrakt mit der Wirtschaftsförderung Münster GmbH - einstimmig beschlossen
+- TOP 13: Vergabeverfahren für ein PPP-Modell zur Sanierung und Weiterentwicklung - mehrheitlich beschlossen
+- TOP 14: Regionalmarketing für das Münsterland - einstimmig beschlossen
+- TOP 15: Änderung der Satzung über die Beseitigung des Schlammes - einstimmig beschlossen
+- TOP 16: Einbringung der Schulentwicklungsplanung - mehrheitlich geändert beschlossen
+- TOP 17: Bündelung von Angeboten zur stärkeren Internationalisierung der städtischen Bildungslandschaft - einstimmig beschlossen
+- TOP 18: Weiterentwicklung der Berufskollegs: Errichtungsvorhaben der Berufskollegs in städtischer Trägerscha - einstimmig beschlossen
+- TOP 19: Weiterführung der Schülerspezialverkehre über das Schuljahr 2006/2007 hinaus - einstimmig beschlossen
+- TOP 20: Preis der Stadt Münster für Europäische Poesie 2007 - einstimmig beschlossen
+- TOP 21: Fortschreibung des Handlungsprogramms zur Weiterentwicklung der kommunalen psychosozialen Versorgung - von der Tagesordnung abgesetzt
+- TOP 22: Modellprojekt "Wohnen für Hilfe - Wohnpartnerschften zwischen älteren und jungen Menschen" - zur Kenntnis genommen
+- TOP 23: Integriertes Handlungskonzept / Städtebaulicher Maßnahmeplan gemäß § 171 e Baugesetzbuch - einstimmig beschlossen
+- TOP 24: Vorlagen zu Wirtschaftsplänen
+- TOP 24.1: Wirtschaftsplan 2007 der citeq - einstimmig beschlossen
+- TOP 24.2: Abfallwirtschaftsbetriebe Münster - mehrheitlich beschlossen
+- TOP 24.3: Wirtschaftsplan 2007 für Münster Marketing - einstimmig beschlossen
+- TOP 24.4: Wirtschaftspläne der Stiftungen für das Jahr 2007 - einstimmig beschlossen
+- TOP 24.5: Geänderte Wirtschaftspläne der Stiftungen Magdalenenhospital und Siverdes für das Jahr 2006 - einstimmig beschlossen
+- TOP 25: Änderung von Gebühren, Tarifen, Beiträgen und Entgelten
+- TOP 25.1: Neufassung der Feuerwehrsatzung und des Tarifs für Dienst- und Arbeitsleistungen - einstimmig beschlossen
+- TOP 25.2: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2007 - mehrheitlich beschlossen
+- TOP 25.3: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 25.4: Straßenreinigungsgebühren 2007 - zur Kenntnis genommen
+- TOP 25.5: Abfallgebühren 2007 - mehrheitlich beschlossen
+- TOP 25.6: Änderung der Gewässergebührensatzung - mehrheitlich beschlossen
+- TOP 25.7: Änderung der Abwassergebührensatzung - mehrheitlich beschlossen
+- TOP 25.8: Satzung zur Erhebung und zur Höhe von Kostenbeiträgen für die Förderung von Kindern in Kindertagespf - einstimmig beschlossen
+- TOP 26: Bauleitplanung
+- TOP 26.1: Stadtbezirk Münster-Mitte
+- TOP 26.1.1: 20. Änderung des fortgeschriebenen Flächennutzungsplanes für den Bereich westlich Salzmannstraße - einstimmig beschlossen
+- TOP 26.1.2: Vorhabenbezogener Bebauungsplan Nr. 502: westlich Salzmannstraße / nördlich Meßkamp - einstimmig beschlossen
+- TOP 26.2: Stadtbezirk Münster-West
+- TOP 26.2.1: 14. Änderung des fortgeschriebenen Flächennutzungsplanes für den Bereich Roxel Nord II - mehrheitlich beschlossen
+- TOP 26.2.2: Bebauungsplan Nr. 484 - Erweiterter Aufstellungsbeschluss - mehrheitlich beschlossen
+- TOP 26.2.3: Bebauungsplan Nr. 409, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 26.2.4: Vorhabenbezogener Bebauungsplan Nr. 498: - mehrheitlich beschlossen
+- TOP 26.3: Stadtbezirk Münster-Südost
+- TOP 26.3.1: 1. Änderung des vorhabenbezogenen Bebauungsplanes Nr. 494 - einstimmig beschlossen
+- TOP 26.4: Stadtbezirk Münster-Ost
+- TOP 26.4.1: 15. Änderung des fortgeschriebenen Flächennutzungsplanes der Stadt Münster - mehrheitlich beschlossen
+- TOP 26.4.2: Vorhabenbezogener Bebauungsplan Nr. 499: Gelmer - westlich Schifffahrter Damm - mehrheitlich beschlossen
+- TOP 26.4.3: 3. Änderung des Bebauungsplanes Nr. 287: Gelmer - Industriegebiet Hessenweg - einstimmig beschlossen
+- TOP 27: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 27.1: "Resolution: MieterInnen brauchen Schutz: Kündigungssperrfristverordnung erhalten!" - mehrheitlich abgelehnt
+- TOP 27.2: Schulentwicklungsplanung neu anfangen - Schulen weiter entwickeln statt schließen - mehrheitlich abgelehnt
+- TOP 27.3: "Resolution: Kommunalwirtschaft stärken - Zukunft der Städte sichern" - mehrheitlich abgelehnt
+- TOP 28: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 28.1: Verkehrssicherheit in Münster erhöhen: Masterplan statt Einzelmaßnahmen - verwiesen
+- TOP 28.2: Öffentlichkeitsarbeit/Tourismus/Repräsentation der Stadt "Schwan ins Stadtwappen" - zurückgezogen
+- TOP 28.3: Kulturforum Westfalen/Tourismus "Planungsgrundlage weggefallen" - verwiesen
+- TOP 28.4: Preiswertes Wohnen in der City - Neubebauung an Hörsterstraße / Korduanenstraße / Steingasse - verwiesen
+- TOP 28.5: Hiltrup hat Zukunft - Brachliegende Flächen im Zentrum zu einem attraktiven Standort für Freizeit, S - verwiesen
+- TOP 28.6: Annette von Droste-Hülshoff statt Rödl - Münster bekennt sich zum Haus Rüschhaus! - verwiesen
+- TOP 28.7: Albert-Schweitzer-Schule ausbauen - Der Raumnot abhelfen - verwiesen
+- TOP 28.8: Wirtschafts- und Technologieförderung der Stadt Münster qualitativ weiterentwickeln - verwiesen
+- TOP 29: Verschiedenes
