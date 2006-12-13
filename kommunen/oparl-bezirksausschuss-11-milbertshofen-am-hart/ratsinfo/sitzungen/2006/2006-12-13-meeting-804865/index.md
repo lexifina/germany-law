@@ -1,0 +1,81 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2006-12-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/804865
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/804865
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Einrichtung eines Bauernmarktes auf dem Platz vor dem Kulturhaus Milbertshofen (Schleißheimer -, Keferloher Str.) (Empfehlung Nr. 02-08/E00450 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart vom 29.06.2006) Zwischennachricht
+- TOP 4.2.: Berichterstattung der Süddeutschen Zeitung über Bürgerversammlungen (Schreiben des BA 3 Maxvorstadt)
+- TOP 4.3.: 4F-Circle Bewegungsinseln (Schreiben des Baureferates)
+- TOP 4.1.: Gesamtkonzept P+R-Anlagen sowie B+R-Anlagen (Schreiben des Referates für Stadtplanung und Bauordnung)
+- TOP 4.2.: Vollzug der Baumschutzverordnung, hier Moosacher Str. 80, Vorabzustimmung
+- TOP 4.3.: Erstellung von Sammelinformationsanlagen (Schreiben der Firma Interwerbung)
+- TOP 4.1.: "Runder Tisch" JugendWerkHalle, Ergebnisse
+- TOP 4.1.: Einsatz eines Simulatorwagens bei Geschwindigkeitsüberschreitungen in Tempo 30 Zonen (Schreiben des BA 17 Obergiesing)
+- TOP 4.2.: Verkehrsrchtliche Anordnung nach § 45 Abs. 3 StVO, hier: Kurzparkplätze in der Neuherbergstraße Höhe Schneeheideanger / Frauenmantelanger
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Gewährung von Zuschüssen aus dem BA-Budget: a) Kath. Pfarrei St. Lantpert, Benefizkonzerte im Oktober/November 2006 b) Seniorenbeirat 11, Ausstattung c) Evang.-Luth. Kindergarten Heilig-Geist/Olympiakirche, Renovierung des Jugendraumes d) Elternbeirat der Grundschule Nadistraße, Selbstbehauptungskurse 2007
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 1: (E) Anbringung eines "Flüsterbelages" auf dem Geh- und Radweg zwischen Graslilienanger und Fingerkrautanger (Ziffer 2); Empfehlung Nr. 02-08 / E 00454 der Bürgerver- sammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 29.06.06
+- TOP 2: (E) Anbringung einer Bank am Bahnsteig der U-Bahnhaltestelle Milbertshofen
+- TOP 7.: Anträge
+- TOP 7.1.: Regionaler Sozialbericht 2005 - Dringender Handlungsbedarf für Milbertshofen - Am Hart!
+- TOP 7.1.: Riesenfeldstraße: Drastischer Verlust von Lebensqualität durch BMW (Ernst Sangl)
+- TOP 7.2.: Ampelanlage Lerchenauerstraße Höhe Birnauerstraße (Christine Schneider) vertagt aus der Sitzung vom 15.11.2006
+- TOP 8.: Anhörungen
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a) Eduard-Schenk-Str. 30, eine Eberesche b) Hamburger Str. 45-53, Schleißheimer Str. 400-410, zehn Bäume c) Kämpferstr. 48, eine Fichte d) Neustifter Str. 41, ein Ahorn
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Baumaßnahmen: a) Connollystr. 3, BA 1 b) Connollystr. 3, BA 2-5 (vertagt aus der itzung am 15.11.2006 c) Preußenstr. 41 d) Knorrstr. 148
+- TOP 8.3.: Anhörung im Einzelfall auf Anforderung, hier Preußenstr. 41, Neubau eines Bürogebäudes mit Versuchshalle und Tiefgarage
+- TOP 8.4.: Werbeanlagen, hier: Lerchenauerstr. 75, eine hinterleuchtete Wechselwerbeanlage
+- TOP 8.1.: Faschingsveranstaltung "Olympia-Lust" am 16., 17. und 19.02.2006, Helene-Mayer-Ring 9
+- TOP 8.1.: Kurzparkzone Helene-Mayer-Ring 14
+- TOP 8.2.: 23. Silvesterlauf des MRRC am 31.12.2006 im Olympiapark
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendungen aus dem Budget der Bezirksausschüsse, Bewilligungsbescheide, Änderungsbescheid a) Elternbeirat der GS am Hildegard-von-Bingen-Anger, Tischtennisplatten, Bewilligung 1252,00? b) Kulturhaus Milbertshofen, Lesung im Oktober 2006, Bewilligung 1150,00? c) Soldaten- und Kameradschaftsverein München - Milbertshofen e.V., Sanierung Kriegerdenkmal, Bewilligung 6976,50? d) Evangelischer Diakonieverein Dankeskirche München - Milbertshofen e.V., Informationsveranstaltung am 28.10.2006, Bewilligung 2398,80? e) Forum 2 Kulturverein Olympiadorf, Reparatur Klavier, Bewilligung 345,00? f) Katholisches Stadtpfarramt St. Gertrud, Konzert am 19.11.2006, Bewilligung 1050,00? g) Künstlernetzwerk, Wandbehang, Änderungsbescheid
+- TOP 9.2.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 9.3.: Beanspruchung von Stadtteildomains durch die Landeshauptstadt München (Bekanntgabe in der Sitzung des Verwaltungs- und Personalausschusses am 15.11.2006)
+- TOP 9.4.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/36 Schleißheimer Straße (östölich), DB-Nordring (südlich), Knorrstraße (westlich), Hamburger- und Bremer Straße (nördlich) - Münchener IT-Zentrum der BMW AG - (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.2006)
+- TOP 9.2.: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011 (Hinweis/ergänzung zum Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 29.11.2006)
+- TOP 9.3.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1984 Schleißheimer Straße (östlich), DB-Nordring (südlich), Knorrstraße (westlich), Haburger und Bremer Straße (nördlich), (Teiländerung des B-Plan Nr. 1592 b) - Münchener IT-Zentrum der BMW AG (Beschluss des Ausschusses für Stadtplanung und BAuordnung vom 29.11.2006)
+- TOP 9.4.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.2006)
+- TOP 9.5.: Münchener Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz (Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.2006)
+- TOP 9.6.: Schutz der Münchner Vorgärten (Beschluss des uasschusses für Stadtplanung und Bauordnung vom 29.11.2006)
+- TOP 9.7.: Entwicklung des öffentlichen Nahverkehrs in München (Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 29.11.2006)
+- TOP 9.8.: "Keferloherplatz" im 11. Stadtbezirk Milbertshofen - Am Hart (Beschluss des Bauausschusses vom 14.11.2006)
+- TOP 9.9.: Nordheide-Ostteil Bebauungsplan Nr. 1779a Bauträgerauswahl für die städtischen Grundstücke Flst. 322/95 und 322/98 der Gemarkung Freimann an der Ingolstädter Straße (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.11.2006)
+- TOP 9.10.: Auswirkungen von Brandschutzbestimmungen und Auflagen der Feuerwehr auf den Städtebau, die Grün- und Objektplanung (Bekanntgabe in der Sitzung des Riemausschusses vom 08.11.2006)
+- TOP 9.11.: Vollzug der BayBO, hier: Frankfurter Ring 30, Sanierung und Umbau des EG, Umwandlung zweier Läden in einen(Frankfurter Ring 30+32), Baugenehmigung
+- TOP 9.12.: Vollzug der Baumschutzverordnung, Gefahrenbäume
+- TOP 9.13.: Meldelisten Bauvorhaben
+- TOP 9.14.: Bauvorhaben der Stadtwerke München
+- TOP 9.1.: Ergebnisse des Workshops "Kultur im Stadtquartier"
+- TOP 9.2.: Stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen
+- TOP 9.3.: TC Grün-Weiß Nord e.V.; Verlängerung des Mietvertrages für die Teilfläche des städtischen Grundstücks an der Neuherbergstr. 81, FlNr. 1264, Gemarkung Feldmoching (Beschluss des Sportausschusses des Stadtrates vom 21.11.2006)
+- TOP 9.4.: Vollzug des Gaststättengesetzes, hier.: "Greg`s Treff", Motorstr32b), Neuerrichtung, Erlaubnisbescheid
+- TOP 9.5.: Unveränderte Fortführung von Gaststättenbetrieben: a) VW "Mil`s Sport-Restaurant", Hans-Denzinger-Str. 2, 80807 München b Discothek "Level 228", Frankfurter Ring 228, 80807 München
+- TOP 9.1.: Neues Wegweisungssystem für den Radverkehr, Systemdarstellung und weiteres Vorgehen (Beschluss des Bauausschusses vom 05.12.2006)
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
