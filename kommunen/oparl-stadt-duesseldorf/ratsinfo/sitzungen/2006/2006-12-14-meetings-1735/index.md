@@ -1,0 +1,75 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2006-12-14T09:04:00+01:00
+- Ende: 2006-12-14T16:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1735
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1735
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111887.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111887.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111887.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Rechenschaftsbericht 2005 - einstimmig beschlossen
+- TOP 4: Prüfung der Jahresrechnung 2005 - einstimmig beschlossen
+- TOP 5: Wirtschaftsplan 2007 für den Stadtbetrieb Zentrale - einstimmig beschlossen
+- TOP 6: Änderung Satzung Kita-Beiträge - mehrheitlich beschlossen
+- TOP 7: Änd.antr. Bü90: Elternbeitragssatzung - mehrheitlich abgelehnt
+- TOP 8: ÄA SPD Rfr.: Elternbeiträge zu KiTa`s - mehrheitlich abgelehnt
+- TOP 9: Therapiebad St. Josef - einstimmig beschlossen
+- TOP 10: Gebührenkalkulation 2007 - mehrheitlich beschlossen
+- TOP 11: Kostenentwicklung Straßen - mehrheitlich beschlossen
+- TOP 12: 16. Satzung Straßen - mehrheitlich beschlossen
+- TOP 13: Neufassung der Abfallgebührenkalkulationen - einstimmig beschlossen
+- TOP 14: 10. Satzung zur Abfall 2001 - mehrheitlich beschlossen
+- TOP 15: 11. Satzung Abfall 2002 - mehrheitlich beschlossen
+- TOP 16: 12. Satzung Abfall 2003 - mehrheitlich beschlossen
+- TOP 17: 13. Satzung Abfall 2004 - mehrheitlich beschlossen
+- TOP 18: 14. Satzung Abfall 2005 - mehrheitlich beschlossen
+- TOP 19: 15. Satzung Abfall 2006 - mehrheitlich beschlossen
+- TOP 20: Kostenentwicklung im Bereich der Müllabfuhr - Ausw - mehrheitlich beschlossen
+- TOP 21: 7. Satzung(Neufassung zu Vorlage 70/78/2006) - mehrheitlich beschlossen
+- TOP 22: 16. Satzung Abfall 2007 - mehrheitlich beschlossen
+- TOP 23: Etatberatung 2007 - zur Kenntnis genommen
+- TOP 24: Haushaltssatzung 2007 - mehrheitlich beschlossen
+- TOP 25: Ändantr. Etat Bü90: GreenBuilding - mehrheitlich abgelehnt
+- TOP 26: Ändantr. Etat Bü90: Bildung - mehrheitlich abgelehnt
+- TOP 27: Ändantr. Etat Bü90: Integrationsarbeit - mehrheitlich abgelehnt
+- TOP 28: Ändantr. Etat Bü90: Bekämpfung Tendenzen - mehrheitlich abgelehnt
+- TOP 29: Ändantr. Etat Bü90: Kinderbetreuung - mehrheitlich abgelehnt
+- TOP 30: Ändantr. Etat Bü90: Stadtentwicklung - mehrheitlich abgelehnt
+- TOP 31: Ä-Antrag SPD-Rfr: Stadtteile nachhaltig stärken - mehrheitlich abgelehnt
+- TOP 32: Ä-Antrag d. SPD-Rfr.: Wohnungsbauprojekte - mehrheitlich abgelehnt
+- TOP 33: ÄA SPD: Umsetzung Integrationskonzept - mehrheitlich abgelehnt
+- TOP 34: Haushaltssatzung NKF 2007 - mehrheitlich beschlossen
+- TOP 35: Anregungen Bezirksvertretungen Haushalt 2007 - mehrheitlich beschlossen
+- TOP 36: VVZ VwHh - mehrheitlich beschlossen
+- TOP 37: VVZ VmHh - mehrheitlich beschlossen
+- TOP 38: Stellenplan 2007 - mehrheitlich beschlossen
+- TOP 39: Kämmererliste - mehrheitlich beschlossen
+- TOP 40: Stadtwerke Düsseldorf AG; Gründung einer Netzgesel - einstimmig beschlossen
+- TOP 41: IDR- Ausgliederung des Bahnbetriebes - einstimmig beschlossen
+- TOP 42: Üpl. Mittelbereit.Zuschüsse Betriebskosten Kita - einstimmig beschlossen
+- TOP 43: Kunstrasen Ammerweg B+F - einstimmig beschlossen
+- TOP 44: Sportschulen in NRW - einstimmig beschlossen
+- TOP 45: Sanierung der naturwissenschaftlichen Räume des Ge - einstimmig beschlossen
+- TOP 46: Sanierung des Rückstaudeiches Brückerbach - mehrheitlich beschlossen
+- TOP 47: Neubau einer 1fach-Sporthalle sowie der Räumlichke - einstimmig beschlossen
+- TOP 48: Benrather Marktplatz-Erneuerung der Platzfläche - einstimmig beschlossen
+- TOP 49: Beirat der Stadtwerke Düsseldorf AG - mehrheitlich beschlossen
+- TOP 50: AR Neuss-D´dorfer Häfen AG - einstimmig beschlossen
+- TOP 51: Verwaltungsrat SSK - einstimmig beschlossen
+- TOP 52: Annahme einer Schenkung - einstimmig beschlossen
+- TOP 53: Satzung zur Nutzung des Ehrenhofes (Neufassung zu - mehrheitlich beschlossen
+- TOP 54: Nutzung einer Teilfläche des Nordparks - mehrheitlich beschlossen
+- TOP 55: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 56: B-Plan Nr. 5776/013 - Gebiete in Flingern Süd - einstimmig beschlossen
+- TOP 57: B-Plan Nr. 5479/067 - NDD Landesgrundstück - mehrheitlich beschlossen
+- TOP 58: Bestellung stimmber. Abgeordneter f. Städtetag - mehrheitlich beschlossen
