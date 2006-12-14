@@ -1,0 +1,135 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2006-12-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/822164
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/822164
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses durch das Familien-Zentrum Trudering e.V. in Höhe von 1.600,00 Euro
+- TOP 1.2.: Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses durch den TSV Trudering, Abt. Turnen, in Höhe von 2.300,00 Euro
+- TOP 1.3.: Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses durch das Kreativ Musikforum in Höhe von 375,00 Euro
+- TOP 1.4.: Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses durch den Truderinger Musikverein e.V. in Höhe von 2.400,00 Euro
+- TOP 1.5.: Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses durch den Förderverein Festring Trudering e.V. in Höhe von 1.600,00 Euro
+- TOP 2.1.: Vermehrte Anzahl von Strafzetteln in der Unnützstraße
+- TOP 2.2.: Kürzung des Rabattes um 5 % für die Sozialtickets - Bitte um Unterstützung
+- TOP 2.3.: Fußgängerüberweg Friedenspromenade Höhe Ottilienstraße (s. auch Top 3.2/12/06; Empfehlung Nr. 02-08 / E 00261)
+- TOP 3.1.: Umbenennung der Von-Trotha-Straße in Hererostraße; WV 16II/05/06
+- TOP 3.2.: LZA-Forderung Friedenspromenade; WV 5VII/12/05
+- TOP 3.3.: Grünstreifen zwischen Jagdhorn- und Von-Erckert-Straße; Hundeverbot im sog. Von-Erckert-Wäldchen; Antrag Nr. 02-08 / B 01480
+- TOP 3.4.: Geruchssanierung der Fahrgast-WCs im U/S-Bahnhof Trudering; Antrag Nr. 02-08 / B 01525 (Zwischennachricht)
+- TOP 3.5.: Verweis auf das GEO-Info-System in den Geschäftsstellen der Bezirksausschüsse; WV 4I/05/06
+- TOP 3.6.: Beglaubigungsmöglichkeiten in Trudering-Riem schaffen; Antrag Nr. 02-08 / B 01418
+- TOP 3.7.: Mehr Bürgernähe bei der Münchner Volkshochschule (MVHS); Antrag Nr. 02-08 / B 01412
+- TOP 3.8.: Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 1945 Schwablhofstraße (östlich), Wasserburger Landstraße (nördlich) - Praktiker Baumarkt; Antrag Nr. 02-08 / B 01522 (Zwischennachricht)
+- TOP 3.9.: Feldbergstraße 95, Fl.Nr. 321/1, Gemarkung Trudering Lagerhalle des Fördervereins Festring Trudering e.V. an der Feldbergstraße 95 zuzüglich Ausnahmegenehmigung; Antrag Nr. 02-08 / B 01409
+- TOP 3.10.: Briefkästen für große Neubaugebiete; Antrag Nr. 02-08 / B 00892
+- TOP 3.11.: Verkehrschaos an der Feldbergschule durch die Kita-Ballung; Antrag Nr. 02-08 / B 00753 (Zwischennachricht)
+- TOP 3.12.: Verbesserungsvorschläge für die Messestadt Riem; Antrag Nr. 02-08 / B 01483
+- TOP 3.13.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.2006 (VB); Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München zuzüglich Schreiben des Referats für Stadtplanung und Bauordnung
+- TOP 3.14.: Beschluss des Ausschusses für Arbeit und Wirtschaft am 14.11.2006 (SB); Fahrplanwechsel Dezember 2006, Überplanung Busnetz im Raum Neuperlach / Waldperlach / Waldtrudering / Neubiberg
+- TOP 3.15.: Schlendrian im Tonnenhäuschen oder im Müllgebührensystem; Antrag Nr. 02-08 / B 01486
+- TOP 3.16.: Änderung im Filialnetz - Schreiben der Deutschen Post AG
+- TOP 3.17.: Geheimniskrämerei um haushaltsnahe Wertstoffsammlung beenden; Antrag Nr. 02-08 / B 01227
+- TOP 3.18.: Heldackerweg - ehemaliger Containerstandort; Antrag Nr. 02-08 / B 01481
+- TOP 3.19.: Papier ist geduldig - wie richtig waren die Verkehrsprognosen für den Münchner Osten?; Antrag Nr. 02-08 / B 01488 (Zwischennachricht)
+- TOP 3.20.: S-Bahn-Strecke S 2 Ost Einführung des 10-Minuten-Taktes in den HVZ (früh und abends) zwischen Ostbahnhof und Markt Schwaben; Machbarkeitsstudie Vieregg-Rössler
+- TOP 3.21.: Neusönner Straße - Anliegerinformation (Top 2.1/10/06)
+- TOP 3.22.: Einziehung der Gesamtstrecke des Brachsenweges - Ankündigung des Baureferats
+- TOP 3.23.: Besucherparkplatzproblematik in der Messestadt Riem; Antrag Nr. 02-08 / B 01290
+- TOP 3.24.: 75 Jahre Trudering bei München; Antrag Nr. 02-08 / B 01490
+- TOP 4.1.: Bildungsoffensive für die Messestadt - Bau einer Realschule
+- TOP 4.2.: Transparente Standortentscheidung bei der Gymnasiumfrage
+- TOP 4.3.: Lasst die Fakten sprechen - mehr Transparenz beim 2ten Stammstreckentunnel
+- TOP 5.1.: Einstellung des Betreuungsangebots in der "Schüler-Coop e.V." in Perlach Verwendung der Mittel für Schulsozialarbeit an der Hauptschule in Riem (Anhörung; Termin: 20.12.06)
+- TOP 5.2.: Halteverbot im Wendehammer Stockholmstraße; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 5.3.: Verkauf einer städtischen Immobilie an der Willy-Brandt-Allee (Messestadt Riem); Anhörung des Bezirksausschusses gemäß § 3 der Bezirksausschusssatzung
+- TOP 5.4.: Damaschkestraße / Böcklerweg - Einrichtung eines Halteverbots; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 6.1.: Beschluss des Bezirksausschusses 15 Trudering-Riem; Empfehlung Nr. 21 der Bürgerversammlung vom 10.11.2004 Sofortiger Baustopp für Großprojekte (im Münchner Südosten), solange keine gesicherten Maßnahmen für eine spürbare Verkehrsentlastung bestehender Siedlungsgebiete und keine optimale ÖPNV-Anbindung der Neubaugebiete bestehen
+- TOP 6.2.: Leistungsbilanz des Sozialreferats mit den Einrichtungen zur sozialen Versorgung im Stadtbezirk für die Bürgerversammlung am 07.12.2006
+- TOP 6.3.: Mitteilung des aktuellen Stands des sozialen Wohnungsbaus im Stadtbezirk durch das Planungsreferat
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.7.2: UA Planung:
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.1.: Beantragung einer Kurzparkzone im Schatzbogen zuzüglich Protokoll zum Ortstermin
+- TOP 7.2.: Blaue Zone der Messestadt Riem; Einfahrt Willy-Brandt-Allee / Lehrer-Wirth-Straße zuzüglich Protokoll zum Ortstermin
+- TOP 7.3.: Anhörung gemäß § 3 der Satzung für die Bezirksausschüsse Bajuwarenstraße U 1549 - Evereststraße
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.1.: Verwendungsnachweis über den gewährten Zuschuss aus dem BA-Budget für die Aktion Wir in Riem - Sommerfest Widmannstraße i.H.v. 339,00 Euro
+- TOP 7.2.: Verwendungsnachweis über den gewährten Zuschuss aus dem BA-Budget für die Aktion des Bürgerzentrums Trudering e.V. zum Kauf einer Leinwand i.H.v. 3.812,92 Euro
+- TOP 7.3.: Verwendungsnachweis über den gewährten Zuschuss aus dem BA-Budget für die Aktion des Bürgerzentrums Trudering e.V. zum Einbau einer Akkustikdecke i.H.v. 3.500,00 Euro
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 8.1.: Mitteilungen und Bescheide über bereits durchgeführte Baumfällungen: Toni-Schmid-Straße 7, Schneebergstraße 24, Elritzenstraße 13, In der Rosenau 3
+- TOP 8.2.: Anhörung oder Unterrichtung im Vollzug der Baumschutzverordnung bzw. Information über Eingriffe in den Gehölzbestand von öffentlichen und halböffentlichen Grün- und Freiflächen
+- TOP 8.3.: Ruppanerstraße 26
+- TOP 8.4.: Möwestraße 22
+- TOP 8.5.: Von-Erckert-Straße 14
+- TOP 8.6.: Tsingtauer Straße 80
+- TOP 8.7.: Iltisstraße 56 a
+- TOP 8.8.: Taku-Fort-Straße 13 c
+- TOP 8.9.: Möwestraße 26 a
+- TOP 8.10.: Kameruner Straße 8
+- TOP 8.11.: Weißpfennigweg 24
+- TOP 8.12.: Ickelsamerstraße 22
+- TOP 8.13.: Von-Erckert-Straße 40
+- TOP 8.14.: Großfriedrichsburger Straße 36
+- TOP 8.15.: Sperberstraße 22
+- TOP 8.16.: Gerstäckerstraße 62
+- TOP 8.17.: Schwarzenkopfstraße 10
+- TOP 8.18.: Iltisstraße 57
+- TOP 8.19.: Wasserburger Landstraße 292
+- TOP 8.20.: Otto-Lederer-Weg 36
+- TOP 8.21.: Fauststraße 44
+- TOP 8.22.: Unterrichtung im Vollzug der Baumschutzverordnung bzw. Information über Eingriffe in den Gehölzbestand von öffentlichen und halböffentlichen Grün- und Freiflächen
+- TOP 8.23.: Martin-Kollar-Straße 4
+- TOP 8.24.: Dorotheenstraße 12
+- TOP 8.25.: Groschenweg 17
+- TOP 9.1.: Termine und Mitteilungen
+- TOP 9.2.: Messestadt Riem Vergabe von Gewerbeparzellen im Bereich des Gewerbegebiets Nordost
+- TOP 9.3.: Feinstaubbelastung im Bezirk 15 Trudering-Riem; Lärmschutz an der Truderinger Bahnhoftrasse; Antwort des Staatsministeriums für Umwelt, Gesundheit und Verbraucherschutz; WV 3I/09/05 und Antrag Nr. 02-08 / B 01482
+- TOP 9.4.: Schreiben der Vorsitzenden des BA 13 zur Aktion "Neues Gymnasium für Bogenhausen"
+- TOP 9.5.: Mitteilung des Bezirksausschusses 3 Maxvorstadt Berichterstattung der Süddeutschen Zeitung über Bürgerversammlungen
+- TOP 9.6.: Mitteilung des Bezirksausschusses 17 Obergiesing Einsatz eines Fahrsimulators
+- TOP 9.7.: Beanspruchung von Stadtteildomains durch die Landeshauptstadt München Bekanntgabe in der Sitzung des Verwaltungs- und Personalausschusses am 15.11.2006
+- TOP 9.8.: Schutz der Münchner Vorgärten Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.2006
+- TOP 9.9.: Keine Verlegung des vorgesehenen Kindergartenstandorts vom Drosselweg zum Fährtwegl wegen des Clearinghauses am Drosselweg; Beibehaltung der Grünfläche am Fährtwegl unter Berücksichtigung der "Widmung" des Grundstücks durch den Erblasser; Abschluss der Empfehlung Nr. 02-08 / E 00260 der Bürgerversammlung vom 09.11.2005
+- TOP 9.10.: Statusbericht zur Vorbereitung des Jubiläums der Eingemeindungsfeier des Stadtbezirks 15 Trudering-Riem; 75 Jahre Trudering bei München zuzüglich Ergänzungen
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 06.11.2006 bis 26.11.2006
+- TOP 10.2.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Trattoria Pizzeria Italiana, Stahlgruberring 13
+- TOP 10.3.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Pieria, Friedenspromenade 14
+- TOP 10.4.: Zuwendungsbewilligung aus dem Budget des BA 15 für den Christopherus-Schulverein München e.V. in Höhe von 1.125,00 Euro
+- TOP 10.5.: Zuwendungsbewilligung aus dem Budget des BA 15 für allegro - Private Vorschule Waldtrudering in Höhe von 2.500,00 Euro
+- TOP 10.6.: Zuwendungsbewilligung aus dem Budget des BA 15 für das Bürgerzentrum Trudering in Höhe von 3.500,00 Euro
+- TOP 10.7.: Kanalbau im Umgriff Bebauungsplan Nr. 1958 a U - 1585 (Haffstraße); Projektgenehmigung
+- TOP 10.8.: Verkehrsrechtliche Anordnung nach § 45 StVO Errichtung eines Verkehrshelferübergang im Rotkehlchenweg nördlich der Wasserburger Landstraße
+- TOP 10.9.: Vollzug der Straßenverkehrsordnung (StVO); Erlaubnis nach §§ 29 und 32 StVO für Film- und Fotoaufnahmen auf öffentlichem Verkehrsgrund am Willy-Brandt-Platz
+- TOP 10.10.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz Beschluss zuzüglich Ergänzung/Hinweise des Ausschusses für Stadtplanung und Bauordnung vom 29.11.2006
+- TOP 10.11.: Messestadt Riem - EM 212 Beschluss des Riemausschusses vom 29.11.2006
+- TOP 10.12.: Neues Wegweisungssystem für den Radverkehr, Systemdarstellung und weiteres Vorgehen Beschluss des Bauausschusses vom 05.12.2006
+- TOP 10.13.: Errichtung eines 2-gruppigen Kindergartenpavillions am Fährtwegl im 15. Stadtbezirk Trudering-Riem, Empfehlung Nr. 02-08 / E 00260 der BV vom 09.11.2005 Beschluss des Schulausschusses des Stadtrates vom 08.11.2006
+- TOP 10.14.: Dokumentation BUGA 05 plus Anlage
+- TOP 10.15.: Entwicklung des öffentlichen Nahverkehrs in München Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 29.11.2006
+- TOP 10.16.: Haushaltsplan 2007 - Ansätze der zentralen Bereiche der Stadtkämmerei - Schlussabgleich Beschluss der Vollversammlung des Stadtrates vom 13.12.2006
+- TOP 10.17.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Rofanstüberl, Unnützstraße 2, 81825 München
+- TOP 10.18.: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011
+- TOP 10.19.: Messestadt Riem - EM 212 Umbau Willy-Brandt-Allee - Knoten Messestadt Ost im 15. Stadtbezirk Trudering-Riem, Beschluss des Riemausschusses vom 29.11.2006
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
