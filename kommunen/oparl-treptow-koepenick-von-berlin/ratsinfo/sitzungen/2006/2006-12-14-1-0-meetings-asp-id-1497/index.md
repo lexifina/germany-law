@@ -1,0 +1,76 @@
+# 3. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2006-12-14T16:30:00+01:00
+- Ende: 2006-12-14T20:45:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1497
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1497
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=48747
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Wegweiser Richtung Dresden und Flughafen Schönefeld - in der BVV zurückgezogen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers VI_1 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl von 2 Mitgliedern des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8.2: Nominierung einer/s Bezirksverordneten als stimmberechtigtes Mitglied im Verwaltungsrat des Kita-Eigenbetriebes - gewählt
+- TOP 8.3: Nominierung einer/s Bezirksverordneten als stellvertretendes stimmberechtigtes Mitglied im Verwaltungsrat des Kita-Eigenbetriebes - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Anmeldung zur Investitionsplanung 2007 bis 2011 - überwiesen
+- TOP 11.2: Sitzungsterminplan 2007 der BVV Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Leitlinien für Familienunterstützende Hilfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Benennung der zwischen Eisenhutweg und Autobahn in Johannisthal liegenden Straßen 194,195, 196 und 197, die zu einem Ring zusammengefasst werden, in Johannes-Sasse-Ring - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Bebauungsplan XV-41 ("Plänterwald") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.3: Aufhebung der Mietobergrenzen für das Sanierungsgebiet Oberschöneweide - überwiesen
+- TOP 13.4: Bebauungsplan XVI-10b ("TVO, 2. Abschnitt, OT Köpenick") hier: Einstellung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Bebauungspläne XVI-12a, XVI-12b, XVI-12c ("Entlastungsstraße Grünau") hier: Einstellung der Planaufstellungsverfahren - überwiesen
+- TOP 13.6: Verleihung des Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Änderung der Zusammensetzung der Arbeitsgruppe (AG) Europa im Bezirksamt Treptow-Köpenick - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Radverkehrskonzeption – Aufnahme weiterer Radwege - überwiesen
+- TOP 14.2: Mehrsprachiges Internetangebot - überwiesen
+- TOP 14.3: Fluglärm-Messstelle in Müggelheim - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Betreuungszeiten ohne Ladenschluss - überwiesen
+- TOP 14.5: Benennung der Straße D7 in "Am Maria-Jankowski-Park" - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Neuer Radweg – Britzer Zweigkanal - überwiesen
+- TOP 14.7: Verkehr in der Altstadt Köpenick - überwiesen
+- TOP 14.8: Touristisches Leitsystem an Verkehrsknotenpunkten - überwiesen
+- TOP 14.9: Grabungsergebnisse - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Benennung der Straße 34 (in der Siedlung Schönhorst) in "Am Walloch" - überwiesen
+- TOP 14.11: Anlegestelle für Kreuzfahrtschiffe - überwiesen
+- TOP 14.12: Keine Einschränkung bei Warenanlieferung in der Altstadt Köpenick - überwiesen
+- TOP 14.13: Winterräumung von Geh- und Radwegen - mit Änderungen in der BVV beschlossen
+- TOP 14.14: Benennung der Straße 37 in "Am Zasing" - überwiesen
+- TOP 14.15: Ruine von der Stern- und Kreisschifffahrt in Grünanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Busverbindung Ortolfstraße - überwiesen
+- TOP 14.17: Frauentog - überwiesen
+- TOP 14.18: Benennung der Straße 38 in "An den Schwarzerlen" - überwiesen
+- TOP 14.19: Anbringung einer Gedenktafel in der Hasselwerderstr. 38-40 - überwiesen
+- TOP 14.20: Verbesserung für Linksabbieger Wegedornstraße - überwiesen
+- TOP 14.21: Benennung der Straße 36 in "Eichkaterweg" - überwiesen
+- TOP 14.22: Fußgängerübergang Fürstenwalder Damm / Mühlweg - überwiesen
+- TOP 14.23: Benennung der Straße 41 in "Lurchweg" - überwiesen
+- TOP 14.24: Gefahr durch Ruine in der Buntzelstraße - überwiesen
+- TOP 14.25: Sinnvolle Verkehrsführung für die Köpenicker Altstadt - überwiesen
+- TOP 14.26: Entschärfung der Kurve Richterstraße Ecke Buntzelstraße - überwiesen
+- TOP 14.27: Fahrradstellplätze am S-Bahnhof Grünau - überwiesen
+- TOP 14.28: Kampf der Verwahrlosung (2) - überwiesen
+- TOP 14.29: Kinderbetreuungszeiten flexibilisieren! - überwiesen
+- TOP 14.30: Informationsveranstaltung zu Hartz IV - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Tonanlage im BVV-Saal Rathaus Treptow - beantwortet
+- TOP 15.2: Abriss Fernmeldekabelfabrik - beantwortet
