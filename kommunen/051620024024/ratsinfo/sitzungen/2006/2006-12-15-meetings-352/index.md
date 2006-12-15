@@ -1,0 +1,61 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2006-12-15T16:03:00+01:00
+- Ende: 2006-12-15T19:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/352
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/352
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Übernahme von Kreditverpflichtungen des Neusser reiter- und Rennvereins e.V. (NRRV)
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: B.plan Nr. 110/9 - Pomona, Konrad-Adenauer-Ring
+- TOP 4: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 5: Ankauf eines Kunstwerkes von August Macke
+- TOP 6: NRW-Sportschule (RAT151206-04689)
+- TOP 7: Festsetzung von Gebühren für die Stadtentwässerung
+- TOP 8: Festsetzung von Gebühren für die Schlammabfuhr
+- TOP 9: Abfallentsorgungsgebühren 2007
+- TOP 10: 7. Satzung z. Änd. d. Verwaltungsgebührens.
+- TOP 11: Stv. Pietsch: Geb. f. d. Ber. Abfallentsorgung
+- TOP 12: Ergänzung der Ehrenordnung der Stadt Neuss u. a.
+- TOP 13: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 14: FNP-Änderung 112, Aufstellungsbeschluss
+- TOP 15: B-Plan 169/16, Satzungsbeschluss
+- TOP 16: Einwohnerfragestunde
+- TOP 17: B-Plan 207/4, Aufstellungsbeschluss
+- TOP 18: Jahresprüfbericht 2005
+- TOP 19: Umbau Further Straße
+- TOP 20: Einmünd. Franz-Heinz-Hohenschutz-/Lanzerather Str.
+- TOP 21: Erneuerung der Gleise Krefelder Straße
+- TOP 22: B-Plan V110/8, Aufstellungsbeschluss
+- TOP 23: Festsetzung von Gebühren 2007 Bestattungswesen
+- TOP 24: 2. Satzung Abfallentsorgung
+- TOP 25: Verlustvortr. 1999 u. Jahresabschl. 2005, St.entw.
+- TOP 26: Str.begleitgrün z. BPL-Nr.375, Volmerswerther Str.
+- TOP 27: Umbau Bushaltestellen Schulzentrum Weberstr.
+- TOP 28: Kanalbau Niederstr. zw. Hafenstr. u. Hamtorwall
+- TOP 29: FNP-Änderung 111, Aufstellungsbeschluss
+- TOP 30: Ersatzbaumaßnahme Kita Rundweg, Holzheim
+- TOP 31: Wirtschaftsplan 2007 SFN
+- TOP 32: Jahresabschluss Herz - Jesu
+- TOP 33: Wirtschaftsplan Herz - Jesu 2007
+- TOP 34: Eröffnungsbilanz Jahresabschlusses 2005
+- TOP 35: Einbringung des Haushaltes 2007
+- TOP 36: Sanierung MW-Kanal Bahnstraße
+- TOP 37: Sanierung MW-Kanal Bahnstraße -Erg.Planvorlage-
+- TOP 38: Sachstand Rennbahn (RAT151206-04686.doc)
+- TOP 39: Partnerschaft mit einer türkischen Stadt
+- TOP 40: Ergebnisverwendungsbeschluss Herz - Jesu
+- TOP 41: Leerstand Büroflächen (RAT151206-04685)
+- TOP 42: Einwohnerfragestunde
+- TOP 43: Stv. Gurmann: Auswi. Kürzungen im ÖPNV
+- TOP 44: Kenntnisnahme üpl/apl Augaben III. Quartal 2006
+- TOP 45: Partnerschaft türk. Stadt
+- TOP 46: Stadtentwicklungsk. Perspektive Neuss 2020+
+- TOP 47: Benennung Teilnehmer Städtetag
