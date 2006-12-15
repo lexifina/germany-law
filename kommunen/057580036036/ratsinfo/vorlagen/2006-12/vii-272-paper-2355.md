@@ -1,0 +1,23 @@
+# Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe - Betriebssparte Service - für das Wirt-schaftsjahr 2007
+
+- Körperschaft: Stadt Vlotho
+- Drucksache/Vorlage: VII/272
+- Art: Vorlage
+- Datum: 2006-12-15
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZbaVpjplevmoMOSQd8pt7-M
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/2355
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage (Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe - Betriebssparte Service - für das Wirt-schaftsjahr 2007) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZAzFq1Y6KOMlslf8zBkD8zHIwg-kz2mQ19E3szuJLAb/Vorlage_VII-272.pdf
+- Anlage: Vorlage (Anlage zur Vorlage VII/272) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUFmHsMraV1Rp_RkJDcv19VGJI6yZYeK8HDOUiWXRudZ/Anlage_zur_Vorlage_VII-272.pdf
+- Anlage: Vorlage (Anlage zur Vorlage VII/272) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZarFUi9yfveMLXIkkfElYKvy706t-Fx5QuNbFGhT4twF/Anlage_zur_Vorlage_VII-272.pdf
+- Anlage: Vorlage (Anlage zur Vorlage VII/272) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVuNu96aYr8UEvMYZeu_MiQ-r7TagYf65mBJUH-nxOUh/Anlage_zur_Vorlage_VII-272.pdf
+- Anlage: Vorlage (Anlage zur Vorlage VII/272) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUl_Wo1kFemaVQPGhMvtMwktnibvzv6zQIQ_xjj4AoUD/Anlage_zur_Vorlage_VII-272.pdf
+- Anlage: Vorlage (Anlage zur Vorlage VII/272) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbsnLIfemibNCRruUTzMqRc72g-6KSE13RNTwOR-deXg/Anlage_zur_Vorlage_VII-272.pdf
+- Anlage: Vorlage (Anlage zur Vorlage VII/272) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZtgpDIBdeNwK_oSSSYCSmaMW5cihljZ1-kfl00lM53x/Anlage_zur_Vorlage_VII-272.pdf
+- Anlage: Vorlage (Anlage zur Vorlage VII/272) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXrKD1ajGjs0SpnfVeW7gM46gfezdt_y3GNC-OnWAecr/Anlage_zur_Vorlage_VII-272.pdf
+- Anlage: Vorlage (Anlage zur Vorlage VII/272) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc6-6ga_cCMXEZqWXHarf7crDFAmmztWGyYDswCIvzFe/Anlage_zur_Vorlage_VII-272.pdf
+- Anlage: Vorlage (Anlage zur Vorlage VII/272) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRkZzL3qfHLKlAS8BPj5LgNVPxQTl45Pg-h17Q2NpL09/Anlage_zur_Vorlage_VII-272.pdf
+- Anlage: Vorlage (Anlage zur Vorlage VII/272) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVwZBlh7sQJ8dBABDRF1XFUpaIa3hcRuyDu4eVClb5Cv/Anlage_zur_Vorlage_VII-272.pdf
+- Beratung:  https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1553 https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-6
+- Beratung:  https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1544 https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-194
