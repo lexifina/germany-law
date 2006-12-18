@@ -1,0 +1,90 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2006-12-18T16:05:00+01:00
+- Ende: 2006-12-18T19:41:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/4518
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/4518
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung - Stand: 15.12.06 - 09.09 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00075628.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00075943.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00075747.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Zweckverband Bergische Weiterbildung - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Zweckverband Bergische Weiterbildung - abschließend zur Kenntnis genommen
+- TOP 2.2: Öffentlichkeitsarbeit der ARGE Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Beantwortung der Anfrage der Fraktion Die Linke/PDS vom 23.11.2006 - abschließend zur Kenntnis genommen
+- TOP 2.3: ARGE/BA: Datenverlust und Datenerhebung - abschließend zur Kenntnis genommen
+- TOP 2.4: Mittagessen für Kinder und andere Defizite, zu TOP 6.5, VO 1135/06 - abschließend zur Kenntnis genommen
+- TOP 2.5: Anfrage zur Sitzung des Rates am 18.12.2006 - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Arbeitsgelegenheiten in der Entgeltvariante verbessern und vermehrt einrichten - abgelehnt
+- TOP 4.2: Versendung von Elternbriefen - zur Vorberatung verwiesen
+- TOP 4.3: Sicherung der Biologischen Station Mittlere Wupper - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der Hauptsatzung - ungeändert beschlossen
+- TOP 6.2: Satzung über die Straßenreinigung und den Winterdienst sowie die dafür zu erhebenden Gebühren - geändert beschlossen
+- TOP 6.3: Gebührensatzung zur Abfallwirtschaftssatzung für das Jahr 2007 - ungeändert beschlossen
+- TOP 6.4: Zweite Satzung zur Änderung der Satzung über die Erhebung einer Zweitwohnungssteuer - ungeändert beschlossen
+- TOP 6.4.1: Zeitwohnungsteuer; Eilanfrage - abschließend zur Kenntnis genommen
+- TOP 6.4.2: Zweitwohnungssteuer; Antwort auf Eilanfrage der WfW-Fraktion vom 15.12.06 (VO1245/06) - abschließend zur Kenntnis genommen
+- TOP 6.5: Sicherung der Finanzierung der Offenen Ganztagsschule und der Tageseinrichtung für Kinder - ungeändert beschlossen
+- TOP 6.5.1: Ergänzungssantrag zu VO/1135/06 Finanzierung OGGS - erledigt durch Beschluss zu einem anderen TOP
+- TOP 6.5.2: Resolution zum kostenlosen Schulmittagessen - abgelehnt
+- TOP 6.5.3: Änderungsantrag, TOP 6.5, VO/1135/06 - abgelehnt
+- TOP 6.5.4: Änderungsantrag zu VO/1135/06 - abgelehnt
+- TOP 6.5.5: Änderungsantrag zu TOP 6.5, VO/1135/06 - abgelehnt
+- TOP 6.5.6: Mittagsverpflegung an Ganztagsschulen - abgelehnt
+- TOP 6.6: Stadtentwässerung - Änderung der Beitrags- und Gebührensatzung - ungeändert beschlossen
+- TOP 6.7: Satzung der "Wirtschaftsförderung Wuppertal Anstalt öffentlichen Rechts" - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Ausgaben 2006, Teil 2 - ungeändert beschlossen
+- TOP 7.2: Durchführung der Projekte "Amos" und "Cleanstreets" Genehmigung einer außerplanmäßigen Ausgabe 2007 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2007 - - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2007 - offene - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplanung KIJU 2007 - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplan 2007 des Eigenbetriebes ESW - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss 2005 des ESW - ungeändert beschlossen
+- TOP 8.6: Entlastung des Betriebsausschusses ESW für das Geschäftsjahr 2005 - ungeändert beschlossen
+- TOP 8.7: Jahresabschluss 2005 des GMW - ungeändert beschlossen
+- TOP 8.8: Entlastung des Betriebsausschusses des GMW - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 913 - Albertstraße - - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 344 -Lüttringhauser Straße- - ungeändert beschlossen
+- TOP 9.3: Bauleitplanverfahren Nr. 996 -Wiedener Straße- - ungeändert beschlossen
+- TOP 9.4: 2. Verlängerung einer Veränderungssperre im BP 954B - Döppersberg / Bundesallee - - ungeändert beschlossen
+- TOP 9.5: Anordnung einer Veränderungssperre im BP 1087 - Waldschloßbrauerei - - ungeändert beschlossen
+- TOP 9.6: Änderung des Landschaftsplanes Wuppertal-Ost im Bereich der Steinhauser Bergstrasse - Entgegennahme ohne Beschluss
+- TOP 9.6.1: Änderung des Landschaftsplans Wuppertal-Ost - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Realisierung von Optionen bei der Sanierung des Opernhauses - vertagen
+- TOP 10.2: Neubau des Stationsgebäudes durch den "Förderverein Station Natur und Umwelt e. V." - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Zustimmung zum Übernahmevertrag zur Errichtung und zum Betrieb einer Feuerbestattungsanlage - ungeändert beschlossen
+- TOP 11.2: Annahme einer Schenkung - Mahn- und Kunstprojekt "Stolpersteine" - ungeändert beschlossen
+- TOP 11.3: Neuorganisation der Untersuchungsämter in Nordrhein-Westfalen; Gründung einer Arbeitsgemeinschaft - ungeändert beschlossen
+- TOP 11.4: Stadtteilservice Wuppertal - ungeändert beschlossen
+- TOP 11.5: Neustrukturierung in der städt. Tageseinrichtung für Kinder Wilh.-Hedtmann-Str. 15 - ungeändert beschlossen
+- TOP 11.6: Umwandlung einer Gruppe in der städt. Tageseinrichtung für Kinder Ferd.-Lassalle-Str. 36 - ungeändert beschlossen
+- TOP 11.7: Betrieb einer zweigr. Tageseinr. unter städt. Trägerschaft im Gebäude Peter-Beier-Str. 2 - ungeändert beschlossen
+- TOP 11.8: Endausbau der Offenen Ganztagsschule im Primarbereich zum Schuljahr 2007 2008 - ungeändert beschlossen
+- TOP 11.9: Beschluss über die Jahresrechnung 2005 und Entscheidung über die Entlastung des Oberbürgermeisters - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Neubenennung sachkundiger Einwohner als Vertreter des Wuppertal Instituts - ungeändert beschlossen
+- TOP 12.2: Benennung der Mitglieder des Verwaltungsrates der Wirtschaftsförderung Wuppertal AöR - geändert beschlossen
+- TOP 12.3: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.4: Benennung von Ausschussmitgliedern - ungeändert beschlossen
+- TOP 12.5: Umbesetzung Kulturausschuss - ungeändert beschlossen
+- TOP 12.6: 34. ordentliche Hauptversammlung des Deutschen Städtetages vom 22.-24. Mai 2007 in München - geändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 14: Übergeordnete Angelegenheiten
