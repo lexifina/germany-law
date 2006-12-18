@@ -1,0 +1,54 @@
+# Rat der Stadt Rheda-Wiedenbrück (15. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2006-12-18T17:00:00+01:00
+- Ende: 2006-12-18T18:44:00+01:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZC3BOkFSLiKtuqzaAEvddw
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/366
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZwY2907eA6riYVkWVRqJA59tZ2lZ6oeEJwVoO6ZKlTR/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_18.12.2006.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfWGvQsnfWnLSep8NFZT9SXYNizxK4ueeKDjO4Woakpl/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_18.12.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Satzung über die Erhebung von Gebühren für die Benutzung des Rettungsdienstes; hier: Änderung der Gebühren zum 01. Januar 2007 - Einstimmig
+- TOP 5: Bestellung der Schulleiterin/des Schulleiters gem. § 61 SchulG - Absetzung
+- TOP 6: Neukalkulation der Abfallentsorgungsgebühren und Änderung der Satzung über die Abfallbeseitigung und Abfallbeseitigungsgebühren - Einstimmig
+- TOP 7: Jahresabschluss 2005 für die Stiftung "Gemeinnützige Wohnungshilfe Rheda-Wiedenbrück" - Einstimmig
+- TOP 8: Änderung des Gesellschaftsvertrages der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH im Hinblick auf § 5 Abs. 1 Nr. 18 des Körperschaftssteuergesetzes (KStG) - 31 Ja-Stimme(n), 3 Enthaltung(en)
+- TOP 9: Satzungsänderung des Wapel-Wasser-Verbandes - Einstimmig
+- TOP 10: Beschlussfassung über die geprüfte Jahresrechnung 2005 sowie über die Entlastung des Bürgermeisters - Einstimmig
+- TOP 11: Neufassung der Rechnungsprüfungsordnung der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 12: Prüfung des Jahresabschlusses und des Lageberichtes des Eigenbetriebes Abwasser zum 31.12.2005; hier: Bericht der Mittelrheinischen Treuhand GmbH - Einstimmig
+- TOP 13: Wirtschaftsplan 2007; Vorlage des Entwurfs des Wirtschaftsplanes - Einstimmig
+- TOP 14: Wirtschaftsplan für den Betrieb Bauhof für das Wirtschaftsjahr 2007 - Einstimmig
+- TOP 15: Genehmigung von Dringlichkeitsentscheiden zu überplanmäßigen Mittelbereitstellungen für Bewirtschaftungskosten städtischer Gebäude - Einstimmig
+- TOP 16: Stellungnahme zum Entwurf des Kreishaushaltes 2007 - Einstimmig
+- TOP 17: Personelle Besetzung von Stiftungsrat und Kuratorium der Bürgerstiftung Rheda-Wiedenbrück - mehrheitlich
+- TOP 18: Straßenbenennung im Stadtteil Wiedenbrück Bebauungsplan Nr. 24 "An der Tiefe" II Änderung - 31 Ja-Stimme(n), 4 Nein-Stimme(n)
+- TOP 19: Straßenbenennung im Stadtteil Lintel Bebauungsplan Nr. 338 "Lintel Dorfkern" - Einstimmig
+- TOP 20: Bebauungsplan Nr. 251 „Hüfferstraße“ – zweite vereinfachte Änderung hier: a) Beratung und Abwägung über während der Öffentlichkeits- und Trägerbetei- ligung eingegangene Anregungen b) Satzungsbeschluss - Einstimmig
+- TOP 21: Bebauungsplan Nr. 11 "Haardstraße/Am Nonenplatz - zweite vereinfachte Änderung; hier: a) Beratung und Abwägung über während der Öffentlichkeits- und Trägerbeteiligung eingegangenen Anregungen b) Satzungsbeschluss - Einstimmig
+- TOP 22: 62. Änderung des Flächennutzungsplanes der Stadt Rheda Wiedenbrück im Bereich des geplanten „Interregionalen Gewerbe- und Industriegebietes Marburg“; hier: Ergebnisse aus der Entwurfsoffenlage sowie der frühzeitigen Öffentlichkeits- und Behördenbeteiligung gem. §§ 2 (2), 3 (1,2), 4 (1,2) BauGB Änderungsbeschluss zur 62. Änderung des Flächennutzungsplanes der Stadt Rheda-Wiedenbrück - mehrheitlich
+- TOP 23: Aufstellung des Bebauungsplanes Nr. 369 der Stadt Rheda-Wiedenbrück „Interregionales Gewerbe- und Industriegebiet Marburg“ Bauabschnitt 1; hier: Beratung und Abwägung zu den Anregungen und Hinweisen aus der frühzeitigen Entwurfsoffenlage gem. §§ 3 (2) und 4 (2) Beratung und Abwägung zu den Anregungen und Hinweisen aus der 2. Entwurfsoffenlage gem. § 4 a (3) BauGB Satzungsbeschluss - mehrheitlich
+- TOP 23.1: Erstellung eines Brachflächenkatasters und Entwicklung einer Wirtschaftsförderungskonzeption zur Nutzung von Brachflächen
+- TOP 23.2: Zustimmung zur Leistung über- bzw. außerplanmäßiger Ausgaben gem. § 83 GO NRW - 29 Ja-Stimme(n), 6 Enthaltung(en)
+- TOP 24: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 25: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 26: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 27: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 28: Erklärung von Ausschließungsgründen
+- TOP 29: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 33: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 34: Dringende Anfragen und Anregungen
