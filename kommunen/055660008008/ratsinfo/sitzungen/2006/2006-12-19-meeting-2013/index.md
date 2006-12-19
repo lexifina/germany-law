@@ -1,0 +1,55 @@
+# Rat (15. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2006-12-19T18:00:00+01:00
+- Ende: 2006-12-19T20:40:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUP1kcNz-dgDIffbErK1hBw
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2013
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSi-i_CPaqh2KBTAmCVcJXlNWUxa5pcXo8I2GGTOKMyQ/Bekanntmachung_Rat_19.12.2006.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUK7HUoWflk8ZhwuWWcHoPBManlzGNZUwqpHLPH-dqsd/Oeffentliche_Niederschrift_Rat_19.12.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Wahlen zu Gremien
+- TOP 4.1: Umbesetzung von Gremien - Abgesetzt
+- TOP 4.1.1: Umbesetzung von Gremien - Einstimmig
+- TOP 4.2: Umbesetzung von Gremien - Einstimmig
+- TOP 4.3: Umbesetzung von Gremien - Einstimmig
+- TOP 5.: Gebührenhaushalte / Betriebsabrechnungen
+- TOP 5.1: Gebührenkalkulation Straßenreinigung; Gebührenkalkulation für das Jahr 2007 - 26 Ja-Stimme(n), 12 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 5.2: Gebührenhaushalt Straßenreinigung; Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - 26 Ja-Stimme(n), 12 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 5.3: Abfallwirtschaft; Gebührenkalkulation und Gebührenfestsetzung für das Jahr 2007 - 26 Ja-Stimme(n), 12 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 5.4: Gebührenhaushalt Abfallentsorgung Satzung der Stadt Emsdetten über die Abfallentsorgung einschl. Gebührensatzung - 26 Ja-Stimme(n), 12 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 5.5: Abwasserbeseitigung; Gebührenkalkulation für das Jahr 2007 - 22 Ja-Stimme(n), 16 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 5.6: Abwasserwerk der Stadt Emsdetten; Entwurf des Wirtschaftsplanes für das Jahr 2007 mit - dem Ergebnisplan - dem Finanzplan und - der Stellenübersicht - 22 Ja-Stimme(n), 16 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 6.: Satzungsrecht
+- TOP 6.1: Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Emsdetten - 22 Ja-Stimme(n), 16 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 7.: Richtlinien
+- TOP 7.1: Aktiv gegen Kinderarbeit - Ohne Abstimmung
+- TOP 8.: Stellenplan
+- TOP 8.1: Stellenplan 2007 - Einstimmig
+- TOP 9.: Flächennutzungsplan
+- TOP 9.1: 1. Änderung des Flächennutzungsplanes Bereich "Eisenbahnstraße" (ehemals 32. Änderung) - Kenntnisnahme von der Umbenennung der Flächennutzungsplanänderung - Beschluss über die Abwägung der im Rahmen der öffentlichen Auslegung vorgebrachten Anregungen und Bedenken - Feststellungsbeschluss - Herbeiführung der Rechtswirksamkeit - 35 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 10.: Bebauungspläne
+- TOP 10.1: Bebauungsplan Nr. 19 B "Eisenbahnstraße", 1. Änderung - Beschluss über die Anregungen und Bedenken - Satzungsbeschluss - Herbeiführung der Rechtskraft - 35 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 10.2: Bebauungsplan Nr. 39 "Engelnkamp", 9. vereinfachte Änderung - Beschluss über die Anregungen und Bedenken - Satzungsbeschluss - Herbeiführung der Rechtskraft - Einstimmig
+- TOP 10.3: Bebauungsplan Nr. 109 "Kolpingstraße / Eschstraße", 1. Änderung - Beschluss über die Anregungen und Bedenken - Satzungsbeschluss - Herbeiführung der Rechtskraft - Einstimmig
+- TOP 11.: Wahl der Schulleitungen der Emsdettener Schulen nach dem neuen Schulgesetz hier: Entsendung von Mitgliedern der Schulträgerin in die Schulkonferenzen - Einstimmig
+- TOP 12.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 12.1: Änderung der Satzung über die Erhebung von Elternbeiträgen für Kinder in Tageseinrichtungen für Kinder (Elternbeitragssatzung) vom 20.06.2006; Erhöhung der Elternbeiträge - 22 Ja-Stimme(n), 16 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 12.2: Antrag der Fraktion "DIE GRÜNEN" vom 19.09.2006 auf den Verzicht von gentechnisch veränderten Lebensmitteln in Kindertagesstätten und Schulen - Zur Kenntnis genommen
+- TOP 13.: Allgemeine Sozialangelegenheiten
+- TOP 13.1: Änderung der Satzung der Stadt Emsdetten über die Errichtung und Unterhaltung von Übergangsheimen - Einstimmig
+- TOP 13.2: Einführung einer Kostenbeteiligung an den kommunalen Kosten im Rahmen der Leistungsgewährung nach dem SGB II - Einstimmig
+- TOP 14.: Anpassung der Aufwandsentschädigung für die Wehrführung der Freiwilligen Feuerwehr Emsdetten - Einstimmig
+- TOP 15.: Haushaltssatzung und Produkte 2007 - 20 Ja-Stimme(n), 18 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 16.: Verschiedenes
+- TOP 16.1: Sachstandsbericht über Anregungen und Bedenken
