@@ -1,0 +1,91 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2006-12-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/769996
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/769996
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Sanierung der Nebenstraßen in Untergiesing; Neubepflanzung des Gebiets zwischen Loh- und Waldeckstraße; Bürgerschreiben vom 19.11.2006
+- TOP 2.2.: Mindestwasserabfluss in der Ausleitungsstrecke der Isar vom Ickinger Wehr bis unterhalb der Braunauer Eisenbahnbrücke in München; Schreiben des Isartalvereines vom20.11.2006
+- TOP 2.3.: Müll und Bauschuttablagerungen in der Sachsenstraße, Parken von LKW, Wohnmobilen und Wohnwagen in der Straße; Bürgerschreiben vom 06.06.2006
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Kinder- und Jugendtreff am Wettersteinplatz; für die Maßnahme : Erweiterung des provesorischen Kinder- und Jugendtreffs um ein großes Zimmer, Antragssumme: 2913.- ?; Antrag vom 24.11.2006
+- TOP 3.1.: Verwendungsnachweis und Sachbericht des Bund Naturschutz , für die Maßnahme 1. Münchner Natur-Film-Festival 18.08.-20.08.2006; Schreiben des Direktoriums vom 28.11.2006
+- TOP 3.2.: Verwendungsnachweise des katholischen Männerfürsorgevereines München e.V. für die Aktion Arbeitsprojekt McGreen, Zuleitung vom 21.11.2006
+- TOP 3.3.: Verwendungsnachweis des Waldkindergartens Wurzelkinder e.V. für die Maßnahme: Neuanschaffung eines Bauwagens; Zuleitung vom 05.12.2006
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Einsatz eines Simulatorwagens bei Geschwindigkeitsüberschreitungen in Tempo 30 Zonen; Antrag Nr. 02-08 / B 01593 des BA 17 Obergiesing vom 14.11.2006 mit der Bitte um Unterstützung
+- TOP 3.1.: Gehwegseinebnungen / behindertengerechte Absenkungen an verschiedenen Stellen im 18. Stadtbezirk: Kupferhammer- / Lohstraße, Ecken von Mondstraße 7 und 14, Hans-Mielich-Straße zwischen Kirche und Hans-Mielich-Straße 16, Wettersteinplatz stadteinwärts Rad- und Gehwege, Ecke Otker- / Schlehdorfer Straße; Antrag Nr. 02-08 / B 01509 des BA 18 vom 19.09.2006; Antwortschreiben des Baureferates vom 02.11.2006
+- TOP 3.2.: Buslinie 52; Taktverdichtung, Anschlussanpassung am Candidplatz; Bürgeranliegen aus der Sitzung des BA 18 am 17.10.2006; Antwortschreiben der Münchner Verkehrsgesellschaft mbH vom 08.11.2006
+- TOP 3.3.: Ausweisung des Teilabschnitts A 995 im Verkehrswegeplan als Autobahn, Antrag Nr. 2747 des Bezirksausschusses des 18. Stadtbezirkes vom 19.01.2005; Aufnahme der A 995 in die Liste der mautpflichtigen Bundesstraßen, Antrag Nr. 02-08 / B 01385 des Bezirksausschusses des 18. Stadtbezirkes vom 18.07.2006; Schreiben des Referates für Stadtplanung und Bauordnung vom 28.11.2006
+- TOP 3.1.: Neues Wegweisungssystem für den Radverkehr, Systemdarstellung und weiteres Vorgehen; Sitzungsvorlage Nr. 02-08 / V 09057; Beschluss des Bauausschusses vom 05.12.2006 (SB)
+- TOP 3.2.: Entwicklung des öffentlichen Nahverkehrs in München; Sitzungsvorlagen Nr. 02-08 / V 09146; Bekanntgabe im Aussschuss für Stadtplanung und Bauordnung vom 29.11.2006
+- TOP 3.3.: Anordnung einer Tempo-30-Zone für den Bereich des Gebietes der Pistorini-, Ludmilla-, und Hellabrunner Straße, Zuleitung des Kreisverwaltungsreferates vom 27.10.2006
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen im 18. Stadtbezirk; Schreiben des Baureferates vom 16.11. und vom 22.11.2006
+- TOP 3.2.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz, Sitzungsvorlagen Nr. 02-08 / V 09148; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.2006 (VB); Beschluss des Stadtrates vom 13.12.2006
+- TOP 3.3.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 3.3.6.3.1 Anwesen in der Lauterer Straße, Zuleitung vom 04.12.2006
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Einrichten eines öffentlichen Schachplatzes an der Ecke Rotbuchenstraße / Guntersweg, (voraussichtliche Kosten 3.350,00 ?) ; Antrag der CSU- Fraktion vom 04.12.2006
+- TOP 3.1.: Haushaltskonsolidierung, Feinkonzept 2006; Sonderkonsolidierung 2006, Grob- und Feinkonzept 2007 - 2011; Sitzungsvorlage Nr.02-08 / V 08755; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.10.2006 (SB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Anhörung zu Bauvorhaben 1. Anwesen in der Hochleite, Zuleitung vom 28.11.2006 2. Anwesen in der Weyarner Straße, Zuleitung vom 29.11.2006 3. Anwesen in der Reinekestraße, Zuleitung vom 29.11.2006 4. Anwesen in der Meraner Straße, Zuleitung vom 29.11.2006 5. Anwesen im Schilcherweg, Zuleitung vom 29.11.2006 6. Anwesen in der Pilgersheimer Straße, Zuleitung vom 29.11.2006 7. Anwesen in der Säbener Straße, Zuleitung vom 29.11.2006
+- TOP 3.2.: Baumbestandspläne 3.5.4.2.1 Anwesen in der Hochleite, Anhörung vom 08.11.2006; 3.5.4.2.2 Anwesen in der Klobensteiner Straße, Anhörung vom 17.11.2006
+- TOP 3.3.: Prüfung einer Nachverdichtung im öffentlich geförderten Wohnungsbau zur Verbesserung der Wohnsituation für Haushalte mit Kindern in Obergiesing; Empfehlung Nr. 02-08 / E 00518 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing- am 19.07.2006, Ziffer 2 des Antrages; Zuleitung des Referates für Stadtplanung und Bauordnung vom 14.11.2006 mit der Bitte um Stellungnahme
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen), Mitteilungen durch das Kreisverwaltungsreferat 3.5.6.2.1 SSW "Da Giuseppe", Waltramstraße, Mitteilung vom 30.11.2006
+- TOP 3.3.: Kindergartenbau an der Säbener Straße; Antrag Nr. 02-08 / A 02780 von Herrn Stadtrat Manuel Pretzl, Herrn Stadtrat Dr. Reinhold Babor vom 07.12.2005; Sitzungsvorlage Nr. 02-08 / V 08793; Beschluss des Kinder und Jugendhilfeausschusses vom 07.11.2006 (SB) und des Schulausschusses vom 08.11.2006 (SB)
+- TOP 3.4.: Gesamtkonzept für P+R - Anlagen sowie B+R - Anlagen in München, Stadtratsantrag Nr. 02-08 / A 00749 der Stadträte Dr. Baretti und Podiuk vom 21.03.2003, Fortschreibung des Stadtratsbeschlusses vom 24.10.2000, Behandlung der Stellungnahmen der Bezirksausschüsse zum Beschlussentwurf; Sitzungsvorlagen Nr. 02-08 / V 09121; Beschluss des Ausschusses für Stadtplanung vom 29.11.2006
+- TOP 3.5.: Schutz der Münchner Vorgärten; Förmliche Aufhebung des § 3 der Satzung der Landeshauptstadt München über Einfriedungen und Vorgärten (Vorgartensatzung), Planungsrechtliche Situation der Münchner Vorgärten, weiteres Vorgehen zum Schutz der Münchner Vorgärten; Sitzungsvorlagen Nr. 02-08 / V 09138; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.2006 (VB)
+- TOP 3.6.: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007-2011; Aktualisierung der Beiträge zur sozial gerechten Bodennutzung SOBON (Ziffer 2), Antrag Nr. 02-08 / A 02572 von Herrn Stadtrat Robert Brannekämpfer und Herrn Stadtrat Josef Schmid vom 22.07.2005; Auswirkungen des Koalitionsvertrages auf den Münchner Wohnungsmarkt, Antrag Nr. 02-08 / A 02788 von Frau Stadträtin Gertrud Walter vom 13.12.2005; Wohnen in München IV - Wohnungsbau in München weiter sichern, Antrag Nr. 02-08 / A 03212 von Herrn Stadtrat Josef Schmid, Herrn Stadtrat Robert Brannekämpfer und Herrn Stadtrat Walter Zöller vom 25.08.2006; Sitzungsvorlagen Nr. 02-08 / V 08804; Hinweis / Ergänzung zum Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 29.11.2006 (VB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Mehrjahresinvestitionsprogramm; Fortschreibung für die Jahre 2007-2011; Zuleitung der Stadtkämmerei vom 09.11.2006
+- TOP 4.2.: Beanspruchung von Stadtteildomains durch die Landeshauptstadt München, Sitzungsvorlage Nr. 02-08 / V 09033; Bekanntgabe in der Sitzung des Verwaltungs- und Personalausschusses am 15.11.2006
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
