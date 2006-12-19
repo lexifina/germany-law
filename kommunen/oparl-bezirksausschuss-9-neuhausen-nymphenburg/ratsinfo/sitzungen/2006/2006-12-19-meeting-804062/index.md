@@ -1,0 +1,151 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2006-12-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/804062
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/804062
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Initiative Fotoaktion (Az.: 12/06 - 3.5.1): Zuschuss in Höhe von 220 ? für ein Projekt zur Integration von Migranten/innen
+- TOP 2.4: Beschlussvorlagen
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürgeranliegen: Schulwegsicherheit , Beschilderung Hirschbergschule Ecke Arnulf-/Renatastraße
+- TOP 3.2.: Bürgeranliegen: Radwege
+- TOP 3.3.: BA 17 Obergiesing: Einsatz eines Simulatorwagens bei Geschwindigkeitsüberschreitungen in Tempo 30 - Zonen
+- TOP 3.4.: KVR: Fernwärmearbeiten Pfänderstraße
+- TOP 3.5.: Baumaßnahmen der Stadtwerke München im November
+- TOP 3.6.: Schulreferat: Interimscontainer Dom-Pedro-Str. 60, Einzug der Hausnummerierung
+- TOP 3.7.: Beschluss des Bauausschusses vom 05.12.06: Neues Wegweisungssystem für den Radverkehr; Systemdarstellung und weiteres Vorgehen
+- TOP 3.8.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 29.11.06: Entwicklung des öffentlichen Nahverkehrs in München
+- TOP 3.9.: Bürgeranliegen: Antrag auf Begrünung bzw. Bepflanzung der Klarastraße zwischen Rupprecht- und Weiglstraße (Wiedervorlage aus der Sitzung vom 21.11.06)
+- TOP 3.10.: KVR: Bürgeranliegen: Gefahrenzone auf dem Schulweg Hirschgartenallee / Südl. Schlossrondell; Ersatz der vorhandenen Pfosten durch eine Umlaufsperre (Abgabenachricht)
+- TOP 3.11.: KVR: Bürgeranliegen Lichtzeichenanlage Dom-Pedro-Platz / Frundsbergstraße (Schreiben BA 9 vom 21.11.06)
+- TOP 3.12.: Beschlussvorlage: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 9: Aufstufung einer Teilstrecke der Kriemhildenstraße
+- TOP 3.13.: Baureferat: Vermeidung unzumutbarer Belästigungen bei Straßenbauarbeiten (Antrag BA 9 Nr. 1471 vom 19.09.06)
+- TOP 3.14.: KVR: Feuerwehrzufahrt Therese-Danner-Platz
+- TOP 3.15.: Stadtwerke: Bürgeranliegen: Schaffung von zusätzlichem Parkraum in der Dachauer Straße in Fahrtrichtung stadteinwärts südöstlich Leonrodplatz ( Buchstabe b des Antrags) (Schreiben BA 9 vom 17.10.06)
+- TOP 3.16.: Baureferat: Bürgeranliegen: Gehsteig für die Einfahrt zu Anlage Schachenmeierstr. 35 b - 35 f
+- TOP 3.17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.18.: Bürgeranliegen: Kurzzeitparkplätze Winthirstr. 2-8 beidseitig
+- TOP 3.19.: =&gt; dazu: Schreiben KVR
+- TOP 3.20.: Anfrage CSU: Park & Radweg-Markierung Ecke Winthir-/Nibelungenstraße (vor Bücherei)
+- TOP 3.21.: KVR: Verkehrsrechtliche Anordnung: Arnulfstr. 83-85, Erweiterung der Kurzparkzone
+- TOP 3.22.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.06: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 3.23.: Schallschutzwand Donnersbergerbrücke (Wiedervorlage aus der Sitzung vom 21.11.06)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Planungsreferat: Bautennachweise vom 06.11. - 12.11., 13.11. - 19.11., 20.11. - 26.11. und 27.11. - 03.12.06
+- TOP 3.2.: Planungsreferat: Errichtung einer Werbeanlage (1 Plakatsäule, hinterleuchtet, drehbar) in der Romanstr. 74
+- TOP 3.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.06: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 3.4.: =&gt; dazu: Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.06
+- TOP 3.5.: Interwerbung: Erstellung von Sammelinformationsanlagen
+- TOP 3.6.: Planungsreferat: Anforderung von Bauvorlagen (Schreiben BA 9 vom 21.11.06)
+- TOP 3.7.: Bauvorhaben Richildenstr. 21: Errichtung eines erdgeschossigen Anbaus
+- TOP 3.8.: Bauvorhaben Sophie-Stehle-Str. 6: Neubau einer Tiefgarage mit 12 Stellplätzen
+- TOP 3.9.: Bauvorhaben Wendl-Dietrich-Str. 21: Nutzungsänderung: ehemalige Geschäftsräume der Stadtsparkasse München (Teilbereich) zu Subway-Restaurant
+- TOP 3.10.: Bauvorhaben Birketweg: Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 3.11.: Bauvorhaben Bernabeistr. 6: Neubau eines Mehrfamilienhauses mit Tiefgarage, Vorbescheid
+- TOP 3.12.: Planungsreferat: Anforderung von Bauvorlagen (Schreiben BA 9 vom 17.10.06)
+- TOP 3.13.: Bauvorhaben Kemnatenstr. 59: Neubau eines Einfamilienhauses mit Doppelgarage
+- TOP 3.14.: =&gt; dazu: Baumfällungen
+- TOP 3.15.: Planungsreferat: Bauvorhaben Volpinistr. 67, Neubau eines Wohngebäudes ( Schreiben BA 9 vom 21.11.06)
+- TOP 3.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.17.: Hinweis / Ergänzung zum Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 29.11.06: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007-2011
+- TOP 3.18.: Bürgeranliegen: Neubauanlage Richildenstr. 70
+- TOP 3.19.: Bauvorhaben Zuccalistr. 16: Umbau, Modernisierung und Erweiterung des ehemaligen Jesuitenklosters in ein Wohngebäude sowie Neubau einer Tiefgarage, Tektur
+- TOP 3.20.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.06: Schutz der Münchner Vorgärten
+- TOP 3.21.: Hauptbahnhof - Laim - Pasing
+- TOP 3.22.: Bürgeranliegen: Neues Güterverteilzentrum
+- TOP 3.23.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.06: Zentrale Bahnflächen München; Bebauungsplan mit Grünordnung Nr. 1926 a Bereich Birketweg zwischen Hirschgarten, Arnulf-, Schäringer-, Richelstraße, Donnersbergerbrücke und südlich bis Gleisbereich; Satzungsbeschluss
+- TOP 3.24.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.25.: Bürgeranliegen: Barrierenfreiheit im Neubaugebiet an der Friedenheimer Brücke
+- TOP 3.26.: Planungsreferat: Plangenehmigung nach § 18 Abs. 2 AEG; ESTW München-Pasing, München Laim für die Bereiche Pasing, Westkreuz, Laim, Friedenheimer Brücke usw.
+- TOP 3.27.: Bauvorhaben Dom-Pedro-Platz 6: Generalsanierung eines Alten- und Pflegeheimes (Heilig Geist)
+- TOP 3.28.: Bürgeranliegen: Errichtung eines 2,50 m hohen Eisengitterzaunes um das Generalkonsulat der VR China in der Romanstr. 107
+- TOP 3.29.: Bauvorhaben Hubertusstr. 23: Ausbau eines Dachgeschosses, Tektur
+- TOP 3.30.: Zweckentfremdung:
+- TOP 3.31.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Donnersbergerstraße
+- TOP 3.32.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Schwere-Reiter-Straße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Lazarettstr. 62: Fällung von 1 Tanne
+- TOP 3.2.: Dantestr. 14: Fällung von 8 Hainbuchen
+- TOP 3.3.: Romanstr. 12: Fällung von 1 Kastanie
+- TOP 3.4.: Südliche Auffahrtsallee 18: Fällung von 1 Birke
+- TOP 3.5.: Böcklinstr. 14: Fällung von 1 Tanne, 1 Birke und 1 Ahorn
+- TOP 3.6.: Gerner Str. 36: Fällung von 1 Birke
+- TOP 3.7.: Nederlinger Str. 105: Fällung von 1 Tanne
+- TOP 3.8.: Richildenstr. 49: Fällung von 4 Rotbuchen, 1 Winterlinde und 1 Bergahorn und genehmigungspflichtige Baumveränderung an 9 Bäumen
+- TOP 3.9.: Richildenstr. 53: Fällung von 1 Buche
+- TOP 3.10.: Walhallastr. 5: Fällung von 1 Linde
+- TOP 3.11.: Bürgeranliegen: Verschmutzung der Kanalböschungen und Grünflächen am Nymphenburg-Biedersteiner-Kanal
+- TOP 3.12.: Bürgeranliegen: Verschmutzung der Wendl-Dietrich-Straße durch überfüllte Abfallkörbe
+- TOP 3.13.: Bürgeranliegen: Hundekotbehälter im Künstlerhof
+- TOP 3.14.: Planungsreferat: Fällungsgenehmigung Wilhelm-Düll-Str. 5
+- TOP 3.15.: Direktorium / Planungsreferat: Förderprogramm "Bürger und Bürgerinnen gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln (Wiedervorlage aus der Sitzung vom 21.11.06)
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Bürgeranliegen: Anfrage auf Zuschuss für die Renovierung der Jugendräume in der Pfarrei Christkönig
+- TOP 3.2.: Kleine Racker: "Die erfolgreiche Eltern-Kind-Initiative stellt sich vor"
+- TOP 3.3.: Lernpartnerschaften der Kaufhof Warenhaus AG
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Einladung zum Beiratstreffen vom Jugendtreff Neuhausen und Abenteuerspielplatz am 28.11.06
+- TOP 3.6.: Vorlage für die Bezirksausschuss-Satzungskommission: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 3.7.: =&gt; dazu: Schreiben BA 15 Trudering-Riem
+- TOP 3.8.: Schulreferat: Stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen
+- TOP 3.9.: Beschluss des Kinder- und Jugendhilfeausschusses vom 28.11.06: Investitionskostenförderung für die Kinderkrippe Leonrodstr. 46 ("Le Jardin") mit 24 Krippenplätzen, Umbau bestehender Räume
+- TOP 3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.13.: Sozialreferat / Planungsreferat: Dokumentation zum Fachtag ?Wohnen und Leben im Alter im Quartier, Projektbeispiele, Lösungsansätze? am 19.09.06 in München (Wiedervorlage aus der Sitzung vom 21.11.06)
+- TOP 3.14.: KJR: "The Tent" während der Wiesn (Schreiben BA 9 vom 21.11.06)
+- TOP 3.15.: Einladung zur REGSAM Vollversammlung am 07.12.06
+- TOP 3.16.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.10.06: Haushaltskonsolidierung; Feinkonzept 2006, Sonderkonsolidierung 2006, Grob- und Feinkonzept 2007-2011
+- TOP 3.17.: Sozialreferat: Informationsveranstaltung für die Bezirksausschüsse am 30.11.06 / Bericht
+- TOP 3.18.: Sozialreferat: Änderung der Krippensatzung und der Kindertagesein- richtungsgebührensatzung (Antrag BA 9 Nr. 1276 vom 20.06.06) (Wiedervorlage aus der Sitzung vom 21.11.06)
+- TOP 3.19.: Planungsreferat: Planungsgebiet H-L-P / Schulwettbewerb Schulzentrum Nymphenburg Süd (Schreiben BA 9 vom 18.07.06) Wiedervorlage aus der Sitzung vom 21.11.06
+- TOP 3.20.: Bürgeranliegen: Hortproblematik Dom-Pedro-Schule / St. Theresia im Schuljahr 2007
+- TOP 3.21.: Direktorium: Zuschuss aus dem Budget des BA 9; hier: Verein zur Beseitigung des Hortplatznotstands
+- TOP 3.22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.23.: Baureferat: evtl. Aufstellung von 4F-Circle-Bewegungsinseln / Finanzierung durch den BA
+- TOP 3.24.: Referat für Arbeit und Wirtschaft: Haushaltsplanentwurf 2007 (Schreiben BA 9 vom 20.12.05)
+- TOP 3.25.: Oberbürgermeister Ude: Keine Versetzung der für Neuhausen zuständigen Streetworker und keine Verlegung des Streetworkbusses (Empfehlung Nr. 25 der Bürgerversammlung vom 09.11.2004)
+- TOP 3.26.: Sozialreferat: Verlängerung des Mietvertrages des Streetworkbüros in der Schulstraße
+- TOP 3.27.: Planungsreferat: Radlwerkstatt in der Laimer Umweltverbundröhre ( Antrag BA 9 Nr. 1360 vom 18.07.06) Verweisung aus dem UA Verkehr zur evtl. Entwicklung weiterer Initiativen
+- TOP 3.28.: =&gt; dazu: Schreiben BA 25 Laim
+- TOP 3.29.: Altenheim Heilig Geist - Bebauung durch die GEWOFAG / Gespräch mit der GEWOFAG
+- TOP 3.30.: Schulzentrum Nymphenburg Süd / Neuerrichtung eines ASZ
+- TOP 3.31.: Schulreferat: Errichtung einer 3-zügigen Grundschule mit 6-gruppigem Tagesheim, Einfachsporthalle und Freisportanlage am Arnulfpark im 9. Stadtbezirk; Genehmigung des Nutzerbedarfsprogrammes
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.1.: Beschlussvorlage Direktorium: Antrag Initiative Fotoaktion: Zuschuss in Höhe von 220 ? für ein Projekt zur Integration von Migranten/innen
+- TOP 3.2.: Beschluss der Vollversammlung am 23.11.06: Grundsätze und Strukturen der Integrationspolitik der LHSt München
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.1.: Stadtteilsommer 2007 (Wiedervorlage aus der Sitzung vom 21.11.06)
+- TOP 3.2.: Direktorium: Zuschuss aus dem Budget des BA 9; ?kul_türen?
+- TOP 3.3.: Diskussionsvorlage "Projekt Bürger gestalten ihre Stadt" (Vertrag unterschreiben)
+- TOP 3.4.: =&gt; dazu: Schreiben BA 9 vom 10.11.06
+- TOP 3.5.: =&gt; dazu: Informationen an interessierte Bürger
+- TOP 3.6.: Direktorium / Planungsreferat: Förderprogramm ?Bürger und Bürgerinnen gestalten ihre Stadt? ? Bürgerbeteiligung in den Stadtvierteln (Anträge für Maßnahmen im Jahr 2007) Wiedervorlage aus der Sitzung vom 21.11.06
+- TOP 3.7.: Ersatzräume für Trafo / Ergebnis Besprechnung mit Kulturreferat am 22.11.06 und Entscheidung bzgl. Anmietung Saal im alten Heizkraftwerk 1. OG
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: KVR: Kundgebung der Ostturkistanischen Union in Europa e.V. am 27.11.06 in der Hirschgartenallee gegenüber dem Chinesischen Konsulat
+- TOP 4.2.: KVR: 23. Silvesterlauf des MRRC am 31.12.06 im Olympiapark mit Ackermannstraße
+- TOP 4.3.: KVR: Bücherflohmarkt des Vereins Kindernothilfe e.V. am 28.04., 26.05., 16.06., 30.06., 21.07., 10.08., 01.09., 22.09. und 06.10.2007 auf dem Rotkreuzplatz
+- TOP 4.4.: KVR: Gaststätte "Bar Don Camillo - Caffe Divino", Schulstr. 2; Pächterwechsel
+- TOP 4.5.: Wiedereröffnung von öffentlichen Toilettenanlagen ? / Vorstellung eines Firmenkonzepts
+- TOP 4.6.: BA 3 Maxvorstadt: Berichterstattung der Süddeutschen Zeitung über Bürgerversammlungen: "Professionelle Zeitdiebe" vom 10.11.06
+- TOP 4.7.: =&gt; dazu: Schreiben BA 13 Bogenhausen
+- TOP 4.8.: Oberbürgermeister Ude: Ablauf von Bürgerversammlungen
+- TOP 4.9.: KVR: Gaststätte "Cafe Neuhausen", Blutenburgstr. 106; Pächterwechsel
+- TOP 4.10.: Belegung Rotkreuzplatz (Wiedervorlage aus der Sitzung vom 21.11.06)
+- TOP 5.: Verschiedenes
+- TOP 5.1.: =&gt; Antrag Innere Mission: Zuschuss i.H.v. 2973, 68 ? für die Ausstattung der Gruppen- und Nebenräume in der Therapeutischen WG Barellistraße
+- TOP 5.2.: =&gt; Antrag Faschingsclub Neuhausen: Zuschuss i.H.v. 500 ? für das Faschingstreiben 2007 am Rotkreuzplatz
