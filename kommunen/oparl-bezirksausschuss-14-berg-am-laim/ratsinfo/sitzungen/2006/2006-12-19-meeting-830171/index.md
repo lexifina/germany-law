@@ -1,0 +1,76 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2006-12-19T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/830171
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/830171
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Kreillerstraße 77 ? Neubau eines Gewerbegebäudes mit Einzelhandelsflächen im EG und eines Wohngebäudes mit Tiefgarage (Kreillerstraße 77 / St.-Veit-Straße)
+- TOP 3.1.2.1.: Radwegabmarkierung Weihenstephaner Str. mit Querungshilfe in der Neumarkter Str. Fahrbahninstandsetzung Weihenstephaner Str. und Riedgaustraße Teilweise Radweginstandsetzung Neumarkter Straße
+- TOP 3.1.2.2.: Zeitlich begrenztes Parken auf dem Taxistandplatz an der Kreillerstraße
+- TOP 3.1.2.3.: Trausnitzstraße / Ampfingstraße ? Schreiben der Taxivereinigung
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Zuwendung aus dem Budget der Bezirksausschüsse ? Antrag Evangelisches Hilfswerk
+- TOP 3.5.2.: Zuwendung aus dem Budget der Bezirksausschüsse ? Antrag ESV München-Ost
+- TOP 3.6: Sonstiges
+- TOP 3.6.1.: Ablauf von Bürgerversammlungen
+- TOP 3.7.1.: Michaeliburgstr. 27 ? Antrag auf Baumfällung
+- TOP 3.7.2.: Trainsjochstr. 6 ? Antrag auf Baumfällung
+- TOP 3.7.3.: Kreillerstr. 48 ? Antrag auf Baumfällung
+- TOP 3.7.4.: Baumfällungen im öffentlichen Raum
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007-2011 a)Aktualisierung der Beiträge zur Sozialgerechten Bodennutzung SOBON b)Auswirkungen des Koalitionsvertrages auf den Münchner Wohnungsmarkt c)Wohnen in München IV - Wohnungsbau in München weiter sichern
+- TOP 4.1.1.2.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 4.1.1.3.: Schutz der Münchner Vorgärten - Förmliche Aufhebung des § 3 der Satzung der Landeshauptstadt München über Einfriedungen und Vorgärten (Vorgartensatzung) - Planungsrechtliche Situation der Münchner Vorgärten - Weiteres Vorgehen zum Schutz der Münchner Vorgärten
+- TOP 4.1.1.4.: Rückbau von Gleis- und Oberleitungsanlagen am ehem. Bahnbetriebswerk 4
+- TOP 4.1.1.5.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.2.1.: Entwicklung des öffentlichen Nahverkehrs in München
+- TOP 4.1.2.2.: Neues Wegweisungssystem für den Radverkehr Systemdarstellung und weiteres Vorgehen
+- TOP 4.1.2.3.: Beschlussentwurf Gesamtkonzept P+R-Anlagen sowie B+R-Anlagen
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Kindertagesstätte freigemeinnütziger Träger; Kindergarten "St. Michael" Katholische Pfarrkirchenstiftung St. Michael - Baukostenzuschuss nach dem BayKiBiG
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Verwendungsnachweise und Schriftverkehr
+- TOP 4.6: Sonstige
+- TOP 4.6.1.: Beanspruchung von Stadtteildomains durch die Landeshauptstadt München
+- TOP 4.7.1.: Bescheid über Baumveränderungen in der Kraiburger Str.
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
