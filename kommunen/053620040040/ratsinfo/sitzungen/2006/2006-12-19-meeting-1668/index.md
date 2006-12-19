@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2006-12-19T18:05:00+01:00
+- Ende: 2006-12-19T21:05:00+01:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQHHxzD65U5K2Qx8jYbn3MY
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/1668
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeEyacnMKJiLfADRbtLmZ7pfcpG0Cl1uJaZsY1OGOyXy/Einladung_Rat_19.12.2006.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS7Wt2zL_Wc8Ney0gKUUzjz3G6AWG0gOrWRwyXI-EGGR/Oeffentliche_Niederschrift_Rat_19.12.2006.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Einbringung des Entwurfs der Haushaltssatzung für das Haushaltsjahr 2007 mit ihren Anlagen
+- TOP 6.: Prüfung der Jahresrechnung der Stadt Wesseling für das Haushaltsjahr 2005 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Kindertageseinrichtungen der Stadt Wesseling; Feststellung des Jahresabschlusses 2005, Behandlung des Jahresverlusts - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Kulturbetriebe der Stadt Wesseling; Feststellung des Jahresabschlusses 2005, Behandlung des Jahresverlusts - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Sportstätten der Stadt Wesseling; Feststellung des Jahresabschlusses 2005, Behandlung des Jahresverlusts - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Wald- und Parkanlagen der Stadt Wesseling; Feststellung des Jahresabschlusses 2005, Behandlung des Jahresverlusts - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Wirtschaftsplan der Entsorgungsbetriebe der Stadt Wesseling für das Wirtschaftsjahr 2007 - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: 2. Änderung des Wirtschaftsplans der Sportstätten der Stadt Wesseling für das Wirtschaftsjahr 2006 - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Haushaltswirtschaft im Haushaltsjahr 2006; Übersicht über die Maßnahmen des Vermögenshaushalts mit einem Haushaltsvolumen von mehr als 150.000 Euro - Ohne Abstimmung
+- TOP 14.: Einlage der Mehrzweckhalle Urfeld in das Sondervermögen "Sportstätten der Stadt Wesseling" - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: 2. Änderungssatzung der Satzung über die Entgelte für die Abfallentsorgung in der Stadt Wesseling (Abfallsatzung - AbfES) - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: 2. Änderungssatzung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsentgelten in der Stadt Wesseling (Straßenreinigungs- und Entgeltsatzung) - 37 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 17.: 3. Änderungssatzung der Satzung der Stadt Wesseling über die Allgemeinen Bedingungen für die Abwasserbeseitigung in der Stadt Wesseling (AB-Abwasser) - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Genehmigung einer Dringlichkeitsentscheidung hier: Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass - 37 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 19.: Zuwendungen zu den sächlichen und personellen Aufwendungen für die Geschäftsführung der Fraktionen für 2007 - Einstimmig, 0 Enthaltung(en)
+- TOP 20.: Aufhebung des Bebauungsplanes Nr. 1/ 43 C - 1. Änderung für den Teilbereich "Westring/ Friedensweg" hier: Satzungsbeschluss (§ 10 BauGB) - Einstimmig, 0 Enthaltung(en)
+- TOP 21.: Vorhabenbezogener Bebauungsplan Nr. 1/ 105 "Westring/ Friedensweg" hier: Abwägung und Satzungsbeschluss (§ 10 BauGB) - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Übernahme der Trägerschaft von 4 kath. Kindergärten durch die Stadt Wesseling. - Der Tagesordnungspunkt wurde vertagt.
+- TOP 23.: Öffnung der Bahnhofstraße im Bereich zwischen altem Rathaus und Bonner Straße für den Kraftfahrzeugverkehr - 7 Ja-Stimme(n), 29 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 23.1.: Antrag der FDP-Fraktion: Öffnung des Rathausplatzes/Bahnhofstraße am Donnerstag-Abend - 7 Ja-Stimme(n), 29 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 24.: Benennung von Mitgliedern des Schulträgers für die Schulkonferenz für die Bestellung der Schulleitung - Der Tagesordnungspunkt wurde vertagt.
+- TOP 25.: Antrag der FDP-Fraktion: Ausschussumbesetzungen - Einstimmig, 0 Enthaltung(en)
+- TOP 25.1.: Antrag der Fraktion Bündnis90/Die Grünen: Umbesetzung im Ausschuss für Familie, Gesundheit und Soziales - Einstimmig, 0 Enthaltung(en)
+- TOP 26.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Grundstücksveräußerung an der Siegstraße und Erftstraße - Einstimmig, 0 Enthaltung(en)
+- TOP 2.: Grundstücksveräußerung "An der Landstraße", Nähe Brühler Straße - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Grundstücksveräußerungen im Gewerbegebiet Eichholz - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Veräußerung eines Gewerbegrundstückes im Gewerbegebiet "Rheinbogen" - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Grunderwerb im Bereich "Eichholzer Acker" - Entwicklung der im Flächennutzungsplan ausgewiesenen Wohnbaufläche - Der Tagesordnungspunkt wurde vertagt.
+- TOP 6.: Grunderwerb am Husemer Weg und Hessenweg - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Mitteilungen und Anfragen
+- TOP 8.: Presseveröffentlichungen
