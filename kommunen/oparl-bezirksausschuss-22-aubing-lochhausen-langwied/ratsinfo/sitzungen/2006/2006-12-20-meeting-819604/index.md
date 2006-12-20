@@ -1,0 +1,82 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2006-12-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/819604
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/819604
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Umzug Metro- und Praktiker-Markt in das Gewerbegebiet Gleisdreieck
+- TOP 2.2.: Einrichtung einer Tempo-30-Zone in der Lochhausener Straße
+- TOP 2.3.: Linienführung der Buslinie 161
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Ausbau der Bahnüberführungen der S5 und S6 auf Durchfahrtshöhe von 4,5 m
+- TOP 4.2.: Entfernung von Verkehrszeichen 301 StVO (Vorfahrt nur an dieser Kreuzung) in Tempo-30-Zonen
+- TOP 4.3.: Entschärfung der für Radfahrer gefährlichen Situation in der Limes- Alto-Unterführung in nördlicher Richtung
+- TOP 4.4.: Behebung der Schäden an der Stützmauer und dem Absperrgitter entlang der Bahnstrecke München-Augsburg in Höhe der Henschel- / Federseestraße
+- TOP 4.5.: Errichtung einer weiteren Zufahrt für das Feuerwehrgerätehaus an der Ubostraße für die freiwillige Feuerwehr, Abt. Aubing
+- TOP 4.6.: Errichtung der Radwege-Verbindung zur Langwieder Seenplatte
+- TOP 4.7.: Anforderung eines schriftlichen Berichtes von Regsam-West über Probleme im Stadtbezirk
+- TOP 4.8.: Sanierung der Anliegerstraße Überlinger Weg
+- TOP 4.9.: Errichtung einer Skate-Anlage auf dem Gelände des ESV-Neuaubing
+- TOP 4.10.: Verbesserung der Terminübermittlung von Ortsterminen
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Vollz. d. Bayerischen Straßen- und Wegegesetzes, Einziehung und Widmung von Teilstrecken der Alprichstraße
+- TOP 5.2.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: ESV Sportfreunde München-Neuaubing e.V.
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: Plangenehmigung nach § 18 Abs. 2 AEG; ESTW UZ München-Pasing (Süd und Nord), München Laim Rbf. für die Bereiche Bft. München-Pasing, -Westkreuz, -Laim Rbf, -Friedenheimerbrücke Abzw., Abzw. Mü. Kanal, Mü. Landsberger Straße, Bf Mü.-Lochhausen Gemarkung Pasing, Laim, Langwied, Obermenzing, Neuhausen
+- TOP 6.3.: Bebauungsplan Nr .26, 2. Änderung, Gemeinde Puchheim
+- TOP 6.4.: Planfeststellung nach § 18 Abs. 1 AEG; Bahnübergang 11,3 Aubing, Neubau einer Lichtzeichenanlage mit Halbschranken und Gehwegschranken, Erneuerung BÜSA in derLHM, Bahnstrecke München - Buchlohe
+- TOP 6.5.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr., Bahnlinie München-Herrsching (südlich), Kravogelstr. (westlich), Stadtgrenze (nördlich), ehemaliges Gleislager (östlich) (Teiländerung des Bebauungsplanes Nr. 1127)
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Baufälle im 22. Stadtbezirk (v. 13.-19.11.06, v. 20.-26.11.06, v. 27.11.-03.12.06, v. 04.-10.12.06), Schr. Planungsreferat vom 21.11.06, 28.11.06, 05.12.06, 11.12.06
+- TOP 7.2.: Einsatz eines Simulatorwagens bei Geschwindigkeitsüberschreitungen in Tempo-30-Zonen, Antrag des BA 17 vom 10.11.06
+- TOP 7.3.: Baumaßnahmen der Stadtwerke München, Stichtag: 20.11.06, 24.11.06
+- TOP 7.4.: Vervollständigung des Radfahrweges von Pasing zu den Langwieder Seen, Schr. BA 21 vom 14.11.06
+- TOP 7.5.: Aufstellung eines Bebauungsplanes für den Radweg entlang der Goteboldstraße, Schr. BA 21 vom 14.11.06
+- TOP 7.6.: Planfeststellungsverfahren nach § 18 AEG, ESTW München-Südwest - Planungsabschnitt München-Pasing - Geltendorf, Planfeststellungsbeschluss vom 08.11.06, Schr. Planungsreferat vom 22.11.06
+- TOP 7.7.: Verkehrsrechtliche Anordnung, Gemeinsamer Geh- und Radweg in der Gotzmannstraße und Olchinger Straße, Schr. KVR vom 06.11.06
+- TOP 7.8.: Wirtschafts-Info 11/06, Schr. Referat für Arbeit und Wirtschaft vom 30.11.06
+- TOP 7.9.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfes 2007, Stadtkämmerei
+- TOP 7.10.: Verkehrsrechtliche Anordnung, Schwemmstraße südlich der Mundesgasse; Verkehrshelferübergang, Schr. KVR vom 01.06.06
+- TOP 7.11.: Sozialticket der MVG, Schr. RA Bethcke und King vom 05.12.06
+- TOP 7.12.: Verkehrsrechtliche Anordnung, Verkehrsberuhigter Bereich Schwojerstraße, Schr. KVR vom 22.09.06
+- TOP 7.13.: Unveränderte Fortführung Schank- und Speisewirtschaft "Do Schau Her", Friedrichshafener Str. 17, Schr. KVR vom 05.12.06
+- TOP 7.14.: Beteiligungs- und Entscheidungsrechte der BA´s bei Standortfragen und Baumaßnahmen für Kindertagesstätten, Schr. BA 1 vom 08.12.06
+- TOP 7.15.: Unveränderte Fortführung der Kleingaststätte "Isolde´s und Charly´s Imbiss-Stüberl", Bodenseestr. 235, Schr. KVR vom 14.12.06
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2007-2011, hier: Wertstoffhof Lochhausener Straße, Schr. Abfallwirtschaftsbetrieb München vom 22.11.06
+- TOP 8.2.: Nutzung der Magnusstraße, Schr. Baureferat vom 08.12.06
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Vollversammlung vom 23.11.06 - Sonderflughafen Oberpfaffenhofen, Luftrechtliche Genehmigung, Antrag auf Ergänzung und Änderung
+- TOP 9.2.: Ausschuss für Stadtplanung und Bauordnung vom 29.11.06 - Schutz der Münchner Vorgärten - Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz - Gesamtkonzept für P+R-Anlagen und B+R-Anlagen in München - Entwicklung des öffentlichen Nahverkehrs in München
+- TOP 9.3.: Gemeinsamer Ausschuss für Stadtplanung und Bauordnung, Kommunalausschuss, Sozialausschuss und Finanzausschuss am 29.11.06 - Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007-2011
+- TOP 9.4.: Riemausschuss vom 08.11.06 - Auswirkungen von Brandschutzbestimmungen und Auflagen der Feuerwehr auf den Städtebau, die Grün- und Objektplanung
+- TOP 9.5.: Bauausschuss vom 05.12.06 - Neues Wegweisungssystem für den Radverkehr
+- TOP 9.6.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 10.10.06 - Haushaltskonsolidierung Feinkonzept 2006
+- TOP 9.7.: Vollversammlung vom 13.12.06 - Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz - Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007-2011 - Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 9.8.: Verwaltungs- und Personalausschuss vom 06.12.06 - Änderung der BA-Satzung; Fahrtkostenübernahme für behinderte BA-Mitglieder
+- TOP 9.9.: Sportausschuss vom 12.12.06 - Investitionsprogramm für städtische Freisportanlagen, Sachstandsbericht 2006
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Regionalgespräche mit der Lokalbaukommission, Terminvorschläge, Schr. Planungsreferat vom 13.12.06
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 17.01.2007, Gaststätte "Wienerwald", Limesstr. 63
