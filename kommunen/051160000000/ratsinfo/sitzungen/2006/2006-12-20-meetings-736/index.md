@@ -1,0 +1,57 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2006-12-20T15:00:00+01:00
+- Ende: 2006-12-20T19:45:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/736
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/736
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022189.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022189.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022189.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Kenntnisnahme
+- TOP 2: Wahl einer/eines Beigeordneten - Geheime Abstimmung
+- TOP 3: Wahl eines Beigeordneten - Zur Kenntnis genommen
+- TOP 4: Hauptversammlung Städtetag - Einstimmiger Beschluss
+- TOP 5: Nachtrag zum Haushaltsplan 2006/2007; NKF-Piloten - Absolute Mehrheit
+- TOP 6: Üpl. Bereitstellung von HH-mitteln im SN 2006 - Zur Kenntnis genommen
+- TOP 7: Entwässerung Mönchengladbach GmbH (EMG) - Zur Kenntnis genommen
+- TOP 8: 10. NT Abfallsatzung - Einstimmiger Beschluss
+- TOP 9: 11. NT Benutzungsordnung Abfallentsorgungsanlagen - Absolute Mehrheit
+- TOP 10: 9. NT Abfallgebührensatzung - Absolute Mehrheit
+- TOP 11: 10. NT Kanalbenutzungsgebührenordnung - Absolute Mehrheit
+- TOP 12: 27. NT Straßenreinigungs- und Gebührensatzung - Zur Kenntnis genommen
+- TOP 13: Wahl eines neuen Mitglieds in den Beirat - Einstimmiger Beschluss
+- TOP 14: Umbesetzung der Kommission für IuK-Technik - Einstimmiger Beschluss
+- TOP 15: AufhebungsVO Warenverkauf an Sonn- und Feiertagen - Absolute Mehrheit
+- TOP 16: Ordnungsbehördliche VO Adventssonntage - Absolute Mehrheit
+- TOP 17: Kommunaler Ordnungs- und Servicedienst - Kenntnisnahme
+- TOP 18: Müllgebührenreduzierung an Schulen - Einstimmiger Beschluss
+- TOP 19: Umgestaltung weiterer Schulen in OGata-Schulen - Einstimmiger Beschluss
+- TOP 20: Anmeldeergebnisse der Grundschulen - Absolute Mehrheit
+- TOP 21: Achter Nachtrag zur Musikschulordnung - Absolute Mehrheit
+- TOP 22: Anpassung von Ermäßigungstatbeständen an §32 EStG - Absolute Mehrheit
+- TOP 23: Übertragung der Sportanlage Stapper Weg - Einstimmiger Beschluss
+- TOP 24: Änderung des Kommunalverfassungsrechts - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 25: Wahl eines Mitgliedes für den Beirat - Einstimmiger Beschluss
+- TOP 26: Berufung eines stellv.Mitgliedes - Absolute Mehrheit
+- TOP 27: SSB alsMitglied in Gesundheitskonferenz - Einstimmiger Beschluss
+- TOP 28: Integrationskonzept für die Stadt Mönchengladbach - Absolute Mehrheit
+- TOP 29: Benennung eines Stellvertreters - Einstimmiger Beschluss
+- TOP 30: Abrundungssatzung Wolfsittard - Absolute Mehrheit
+- TOP 31: Bebauungsplan nr. 504/I,II - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 32: Bebauungsplan Nr. 399/I - Stadtbezirk Rheindahlen - Zur Kenntnis genommen
+- TOP 33: Bebauungsplan Nr. 631/X - Zur Kenntnis genommen
+- TOP 34: Betriebshof Schwalmstraße 206 - Einstimmiger Beschluss
+- TOP 35: Kompensationsmaßnahmen im Nordpark - An den Fachausschuss verwiesen
+- TOP 36: Resolution -Keine Zerschlagung bürgernaher Just - Mit Stimmenmehrheit beschlossen
+- TOP 37: Umbesetzung im Jugendhilfeausschuss - Einstimmiger Beschluss
+- TOP 38: Resolution des Rates zur Änderung der GO, SPD - Zur Kenntnis genommen
+- TOP 39: Rhein-Ruhr Express - Zur Kenntnis genommen
+- TOP 40: Anfragen - Zur Kenntnis genommen
