@@ -1,0 +1,91 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2006-12-21T17:30:00+01:00
+- Ende: 2006-12-21T22:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1329
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1329
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=55782
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilung - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Thematische Stunde - (offen)
+- TOP 4.1: Zehntausende Menschen in Mitte arbeitslos, doch das Jobcenter Mitte verzichtet auf 3 Millionen Euro für die Beschäftigungsförderung? - beantwortet
+- TOP 4.2: Jobcenter: Realisierung der Maßnahmeplanung 2006 und Vorbereitung der Maßnahmeplanung 2007 - beantwortet
+- TOP 4.3: Schaffung und Sicherung von Qualitätsstandards im Jobcenter Mitte - überwiesen
+- TOP 4.4: Zielvereinbarung 2007 zwischen Bezirksamt und Jobcenter - ohne Änderungen in der BVV beschlossen
+- TOP 4.5: Jobcenter Mitte: Qualifizierte Angebote für junge Menschen schaffen! - überwiesen
+- TOP 4.6: Übernahme der kommunalen Stimmenmehrheit in der Trägervertretung des Jobcenters Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Kleingartenanlage Wiesengrund - beantwortet
+- TOP 5.2: Kältehilfe - beantwortet
+- TOP 5.3: Zweckentfremdung von Wohnungen im Hansaviertel? - beantwortet
+- TOP 5.4: Wahl des Kulturbeirates - beantwortet
+- TOP 5.5: Antragsteller im Regen? - beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Versinkt aktiver Kinderschutz im gestiegenen Verwaltungsaufwand? - beantwortet
+- TOP 7.2: Unterrichtsausfall - Abschlüsse gefährdet? - beantwortet
+- TOP 7.3: Wochenmarkt am Roten Rathaus - beantwortet
+- TOP 7.4: Jugendbanden in Moabit, Wedding und Mitte - beantwortet
+- TOP 7.5: Gammelige Kommunikation und Information - beantwortet
+- TOP 7.6: Veranstaltungen auf dem Bebel-Platz - schriftlich beantwortet
+- TOP 7.7: Mobile Bürgerämter - schriftlich beantwortet
+- TOP 7.8: Mindeststandard Lernmittel - schriftlich beantwortet
+- TOP 7.9: Leerstand und Nutzungen im Gesundheits- und Sozialzentrum Moabit - schriftlich beantwortet
+- TOP 7.10: Gammelfleisch, Salmonellen und Co. - beantwortet
+- TOP 7.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Anmeldungen für die Investitionsplanung 2007 - 2011 - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Benennung eines Mitgliedes der BVV und dessen Stellvertreters für den Verwaltungsrat des Kindergärten City Eigenbetriebes von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Sitzungskalender 2007 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Die Wahl und Berufung der stimmberechtigten Mitglieder des Jugendhilfeausschusses gemäß § 35 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Mitgliedschaft im Stiftungsbeirat der Erika-Heß-Stiftung - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplanentwurf 1-37 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-37 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Alle Fraktionen im Beirat der Arbeitsgemeinschaft im Jobcenter Mitte berücksichtigen - überwiesen
+- TOP 11.2: Offene Beschlüsse der II. Wahlperiode - in der BVV zurückgezogen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Kompetenz der Sondernutzungsgenehmigungen für den Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Rahmenkonzept zur Weiterführung der Weihnachtsmärkte - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Kinder- und Jugendschutz nicht vernachlässigen - Hilfe anbieten! - überwiesen
+- TOP 12.4: Starker Geist; schwache Augen! - überwiesen
+- TOP 12.5: Weihnachtsgeld - überwiesen
+- TOP 12.6: Ein Visum für's Leben - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Evangelische Gesamtschule nach Mitte - überwiesen
+- TOP 12.8: Änderung § 5 GO - überwiesen
+- TOP 12.9: BVV-Sondermittel - überwiesen
+- TOP 12.10: Obligatorische Ganztagsbetreuung für Kinder mit Sprachförderbedarf - überwiesen
+- TOP 12.11: Stärkung des Quartiers Sprengelkiez - Schließung der Tegeler Straße an der Fennstraße - überwiesen
+- TOP 12.12: Schlossplatz - überwiesen
+- TOP 12.13: Mitwirkung der BVV im Psychiatriebeirat - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: W-LAN in den für Publikumsverkehr geöffneten bezirklichen Gebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Beteiligung des Bezirks Mitte am Bundesprogramm "Jugend für Vielfalt, Toleranz und Demokratie" - erledigt
+- TOP 12.16: Informationen über verdorbene Lebensmittel - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Bürgerhaushalt Mitte Bestandteil der "neuen Kageler Konvention 2007" - überwiesen
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Sicherung der Kleingartenkolonie Wiesengrund - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Wartezeiten in den Bürgerämtern - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Public-Private-Partnership bei der Sanierung von Schulen und Sporthallen - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Sportstättenentwicklungsplan
+- TOP 14.2: Bericht über die Umsetzung des Chancengleichheitsplans - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Sicher über die Hofjägerallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Qualifizierung für die Lokale Agenda 21 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Straßenfeste: Tod für Anpflanzungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Beschluss zur Reduzierung des Geltungsbereiches des Bebauungsplanes II-189 im Bezirk Mitte, Ortsteil Moabit, die Durchführung der Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch (BauGB), die Durchführung der Beteiligung der Behörden undTräger öffentlicher Belange gem. § 4 BauGB, sowie die einbringung einer Vorlage zur Kenntnisnahme bei der Bezirksverordnetenversammlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Bestätigung der Entscheidung der LOS-Begleitausschüsse für die 4. Förderperiode zur Förderung von Mikroprojekten in der Zeit vom 01.01.2007 bis 30.06.2007 (ein Projekt bereits ab 01.12.2006) im Rahmen des Bundesmodellprogramms Lokales Kapital für Soziale Zwecke (LOS) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Geschäftsstelle Stadtteilmanagement - mit Abschlussbericht zur Kenntnis genommen
