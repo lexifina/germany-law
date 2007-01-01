@@ -6,7 +6,9 @@ Direktor der Volkshochschule
 Direktor des Landesamtes für Schulpraxis und Lehrerprüfungen
 Direktor des Schlacht- und Viehhofs
 Direktor des Landesinstituts für Schule
-Direktor einer Gesamtschule - mit mehr als 1000 Schülern -
+Direktor einer Gesamtschule
+- mit mehr als 1000 Schülern -
+- mit Oberstufe -
 Direktor eines Schulzentrums
 - der Sekundarstufe I mit mehr als 1000 Schülern -
 - der Sekundarstufe II -

@@ -13,12 +13,15 @@ Direktorstellvertreter des Landesinstituts für Schule3)
 Direktorstellvertreter
 - als der ständige Vertreter des Leiters einer Gesamtschule mit bis zu 1000 Schülern -
 - als der ständige Vertreter des Leiters einer Gesamtschule mit mehr als 1000 Schülern2) -
+- als der ständige Vertreter des Leiters einer Gesamtschule mit Oberstufe -2) -
 - als der ständige Vertreter des Leiters eines Schulzentrums der Sekundarstufe I mit bis zu 1000 Schülern -
 - als der ständige Vertreter des Leiters eines Schulzentrums der Sekundarstufe I mit mehr als 1000 Schülern2) -
 - als der ständige Vertreter des Leiters eines Schulzentrums der Sekundarstufe II2) -
 Fachdirektor beim Landesinstitut für Schule
 Leiter der Pädagogischen Arbeitsstelle - Lehrerfortbildungsinstitut Bremerhaven -
 Oberschulrat4), soweit nicht in Besoldungsgruppe A 16
+Oberstufenleiter
+- an einer Gesamtschule -
 Ortsamtsleiter5), soweit nicht in Besoldungsgruppe A 14
 Schlachthofdirektor - Bremerhaven -
 Sonderschulrektor
@@ -29,6 +32,7 @@ Fußnoten
 1) Erhält eine Amtszulage von 190,39 DM.
 2) Erhält eine Amtszulage von 285,57 DM.
 2) Erhalt eine Amtszulage von 273,42 DM.
+2) Erhält eine Amtszulage von 285,57 DM.
 2) Erhält eine Amtszulage von 285,57 DM.
 2) Erhält eine Amtszulage von 285,57 DM.
 2) Erhält eine Amtszulage von 285,57 DM.
