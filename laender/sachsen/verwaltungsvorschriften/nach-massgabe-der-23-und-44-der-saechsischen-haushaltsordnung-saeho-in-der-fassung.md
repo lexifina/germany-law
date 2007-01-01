@@ -1,8 +1,8 @@
 # nach Maßgabe der §§ 23 und 44 der Sächsischen Haushaltsordnung ( SäHO) in der Fassung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2006-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/3068.4
+- Datum: 2007-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/3068.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -290,5 +290,9 @@ Verwaltungsvorschrift des SMS zur Leukose- und Brucelloseüberwachung in Milchpr
 | 21
 4
 | Gemeinsames Programm des Sächsischen Staatsministeriums für Soziales und der Sächsischen Tierseuchenkasse zur Prophylaxe und Bekämpfung der Koi-Herpesvirus-Infektion (
-KHV) in sächsischen Fischhaltungsbetrieben vom 23. März 2006 (SächsABl. S. 632)
+KHV) in sächsischen Fischhaltungsbetrieben vom 23. März 2006 (SächsABl. S. 632), zuletzt geändert durch Richtlinie vom 30. März 2007 (SächsABl. S. 776)
 | 80 %
+
+| 22
+| Programm des Sächsischen Staatsministeriums für Soziales und der Sächsischen Tierseuchenkasse zum Salmonellenmonitoring in Schweinezucht-, Ferkelproduktions- und spezialisierten Ferkelaufzuchtbetrieben sowie zur Reduzierung der Salmonellenbelastung in Schweine haltenden Betrieben vom 17. November 2006 (SächsABl. 2007 S. 733)
+| 70 %
