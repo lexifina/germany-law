@@ -1,0 +1,3 @@
+# § 29a Digitalfunk
+(1) Die Kommunen beteiligen sich an den Betriebskosten des landesweiten Digitalfunks für Behörden und Organisationen mit Sicherheitsaufgaben mit 60 Prozent der jährlich entstehenden Kosten. Der Finanzierungsbeitrag an den Betriebskosten beträgt im Jahr 2007 1 299 100 EUR und im Jahr 2008 2 060 000 EUR.
+(2) Das Staatsministerium der Finanzen wird ermächtigt, nach Anhörung des Beirates für den kommunalen Finanzausgleich gemäß § 34 die sich ab dem Jahr 2009 ergebenden Beträge durch Rechtsverordnung festzulegen. Dabei sind Überzahlungen und Nachzahlungen aus Vorjahren zu berücksichtigen.
