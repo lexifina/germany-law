@@ -1,2 +1,2 @@
 # Schulgesetz für den Freistaat Sachsen (SchulG)
-Rechtsbereinigt mit Stand vom 1. Januar 2005
+Rechtsbereinigt mit Stand vom 1. Januar 2007

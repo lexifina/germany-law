@@ -1,6 +1,6 @@
 # Bekanntmachung der Neufassung des Schulgesetzes für den Freistaat Sachsen
 Vom 16. Juli 2004
-Aufgrund des Artikels 2 des Zweiten Gesetzes zur Umsetzung des besseren Schulkonzepts vom 19. Februar 2004 (SächsGVBl. S. 52) wird nachstehend der Wortlaut des Schulgesetzes für den Freistaat Sachsen (SchulG ) in der seit 1. August 2004 geltenden Fassung bekannt gemacht. Die Neufassung berücksichtigt:
+Aufgrund des Artikels 2 des Zweiten Gesetzes zur Umsetzung des besseren Schulkonzepts vom 19. Februar 2004 (SächsGVBl. S. 52) wird nachstehend der Wortlaut des Schulgesetzes für den Freistaat Sachsen (SchulG) in der seit 1. August 2004 geltenden Fassung bekannt gemacht. Die Neufassung berücksichtigt:
 1. das am 1. August 1991 in Kraft getretene Gesetz vom 3. Juli 1991 (SächsGVBl. S. 213),
 2. den am 1. September 1993 in Kraft getretenen Artikel 2 des Gesetzes vom 19. August 1993 (SächsGVBl. S. 686, 688),
 3. den am 10. August 1994 in Kraft getretenen Artikel 1 des Gesetzes vom 15. Juli 1994 (SächsGVBl. S. 1434),
