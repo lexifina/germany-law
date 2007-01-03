@@ -1,0 +1,52 @@
+# 1. (konstituierende) Sitzung des Ausschusses für Stadtplanung und Verkehr
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2007-01-03T18:00:00+01:00
+- Ende: 2007-01-03T21:00:00+01:00
+- Ort: Kleiner BVV-Saal, Raum 217
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=45
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1555
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1555
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konstituierung - erledigt
+- TOP 2: Wahl der/des Ausschussvorsitzenden - gewählt
+- TOP 3: Wahl der/des stellv. Ausschussvorsitzenden - gewählt
+- TOP 4: Wahl der Schriftführerin, des Schriftführers - erledigt
+- TOP 4.1: Bericht des Bezirksamtes - erledigt
+- TOP 5: Friedrichshagener Straße 08 <span style="color: #888a85" title="Zusatzinfo">(Es wurde der Schlussbericht an den Ausschuss StaV der V. WP überwiesen. Dort erfolgte keine Behandlung, des halb Übergabe an den StaV der VI. WP)</span> - vertagt
+- TOP 6: Einrichtung von zwei gesicherten Fußgängerüberwegen in Oberschöneweide - vertagt
+- TOP 7: Straßenplanung der Süd-Ost-Verbindung - überwiesen
+- TOP 8: Fahrradverkehr Treptow-Köpenick - Öffnung von Einbahnstraßen - vertagt
+- TOP 9: Radwegbau in der Wendenschloßstraße - vertagt
+- TOP 10: Umbau Wendenschloßstraße III - Keine Verringerung der Anzahl der Parkplätze - vertagt
+- TOP 11: Bebauungsplan XVI-23 ("Innenbereich Müggelheim") hier: Einstellung des Planaufstellungsverfahrens - vertagt
+- TOP 12: Erlass der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB für das Gebiet "Dorfkern Alt-Müggelheim" im Bezirk Treptow-Köpenick von Berlin, Ortsteil Müggelheim - vertagt
+- TOP 13: Bebauungsplan XV-2 ("Sportanlagen Treptow") hier: Reduzierung des Geltungsbereiches <span style="color: #888a85" title="Zusatzinfo">(Übernahme aus V. WP)</span> - vertagt
+- TOP 14: Bebauungsplan 9-33 ("Teikyo") hier: Einleitung des Planaufstellungsverfahrens - vertagt
+- TOP 15: Bebauungsplan XV-3 ("Grundschule an der alten Feuerwache") hier: Einstellung des Planaufstellungsverfahrens - vertagt
+- TOP 16: Verkehrsorganisation Adlershof - ohne Änderungen im Ausschuss beschlossen
+- TOP 17: Verlegung der 3 Taxistellplätze von der Paradiesstraße / Ecke Buntzelstraße in die Zufahrt zum P+R-Parkplatz am S-Bahnhof Altglienicke in Fahrtrichtung Paradiesstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 18: Mauerradweg Heidekampgrünzug – Querungsmöglichkeit auf der Sonnenallee und dem Dammweg - ohne Änderungen im Ausschuss beschlossen
+- TOP 19: Tempo 30 auf der Dörpfeldstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 20: Neuer Straßenbelag statt Buckelpiste - vertagt
+- TOP 21: Sinnvolle Verkehrsführung für die Köpenicker Altstadt - vertagt
+- TOP 22: Bebauungsplan XV-41 ("Plänterwald") hier: Einstellung des Planaufstellungsverfahrens - vertagt
+- TOP 23: Aufhebung der Mietobergrenzen für das Sanierungsgebiet Oberschöneweide - vertagt
+- TOP 24: Radverkehrskonzeption – Aufnahme weiterer Radwege - vertagt
+- TOP 25: Neuer Radweg – Britzer Zweigkanal - vertagt
+- TOP 26: Verkehr in der Altstadt Köpenick - vertagt
+- TOP 27: Anlegestelle für Kreuzfahrtschiffe - vertagt
+- TOP 28: Busverbindung Ortolfstraße - vertagt
+- TOP 29: Verbesserung für Linksabbieger Wegedornstraße - vertagt
+- TOP 30: Fußgängerübergang Fürstenwalder Damm / Mühlweg - im Ausschuss abgelehnt
+- TOP 31: Gefahr durch Ruine in der Buntzelstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 32: Entschärfung der Kurve Richterstraße Ecke Buntzelstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 33: Fahrradstellplätze am S-Bahnhof Grünau - mit Änderungen im Ausschuss beschlossen
+- TOP 34: Kampf der Verwahrlosung (2) - mit Änderungen im Ausschuss beschlossen
+- TOP 35: Bebauungspläne XVI-12a, XVI-12b, XVI-12c ("Entlastungsstraße Grünau") hier: Einstellung der Planaufstellungsverfahren - vertagt
+- TOP 36: Anmeldung zur Investitionsplanung 2007 bis 2011 - vertagt
+- TOP 37: Verschiedenes - erledigt
