@@ -1,0 +1,59 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2007-01-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1049789
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1049789
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Situierung der Bushaltestelle der Linie 53 am Herzog-Ernst-Platz
+- TOP 2.2.: Sanierung des Südbades von 2007 bis 2008
+- TOP 3.: Soziales und Sozialreferat
+- TOP 4.: Schulreferat
+- TOP 4.1.: Schüler - und Klassenzahlen für das Schuljahr 2006 / 2007
+- TOP 5.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Meldeliste Bauvorhaben der Stadtwerke
+- TOP 6.2.: "Verkleisterte" Handläufe im U-Bahnhof Am Harras
+- TOP 6.3.: Beseitigung von Schrottfahrrädern
+- TOP 6.4.: Straßenausbesserungsarbeiten in der Kyreinstraße, Thalkirchner Straße / Gaißacher Straße und Arzbacher Straße
+- TOP 6.5.: Personenbezogener Behindertenparkplatz Gotzinger Straße 54
+- TOP 6.6.: Tempo 30 - Zone Fritz-Endres-Straße, Hans-Klein-Straße
+- TOP 7.1.: Budgetantrag Initiative Straßenzeitung; ? 1000,-
+- TOP 7.2.: Budgetantrag der Nachbarschaftsbrücke Sendling, Festschrift anl. 5jährigen Bestehens; ? 660,-
+- TOP 7.3.: Bericht über die Vorbereitungen zum "Bürgerfest 1225 Jahre Sendling / 130 Jahre Eingemeindung"
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Flößergasse 11
+- TOP 8.3.: Bauvorhaben Meindlstraße 8
+- TOP 8.4.: Regionalgespräch bei der Lokalbaukommission
+- TOP 8.5.: Lindwurmstr. 126 Laden- / Büroräume EG links
+- TOP 8.6.: Ökologische Hochhäuser
+- TOP 8.7.: Bevölkerungsprognosen 2006 der LH München
+- TOP 8.8.: Satzungen über die Genehmigungspflicht von Grundstücksteilungen (Teilungssatzungen)
+- TOP 9.: Baureferat
+- TOP 9.1.: Ansprechpartner im Baureferat für Schrott- / Fundfahrräder
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Aberlestraße 3 - 13a, zwei Akazien
+- TOP 10.2.: Baumfällungen Meindlstraße 8
+- TOP 10.3.: Fällungsfreigabe für mehrere Bäume
+- TOP 10.4.: Mitteilung des Baureferates über die Fällung diverser Gefahrenbäume
+- TOP 10.5.: Baumfällung Lipowksystr. 21
+- TOP 10.6.: Baumfällung Valleystr. 37
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 11.1.: Aufstellung über die Verschmutzung in Sendling - <div>Zustimmung, einstimmig</div>
+- TOP 11.2.: Anfrage zur Erledigung / zum Sachstand der Bürgerversammlungsempfehlung "Vollstationäre Pflegeeinrichtung im Areal an der Meindlstraße" vom 13.07.2006
+- TOP 12.: Anträge
+- TOP 12.1.: Das Schulreferat wird aufgefordert, die Planungs- und Baukosten für die Bauprojekte auf dem Grundstück Meindlstraße 8 - 16 zum MIP anzumelden und dem BA in der Sitzung am 05.03.2007 über den Stand des Verfahrens zu berichten - <div>nach Antrag</div>
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Kultur im Stadtbezirk Zwischenbericht
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
