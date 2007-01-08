@@ -1,0 +1,81 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2007-01-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1048119
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1048119
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Brandmelder in der Wohnanlage am Haderner Stern
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Hohenklingenstr. 24, 1 Birke
+- TOP 3.2.: Großhaderner Str. 21 - 23, 10 Ahorne
+- TOP 3.3.: Sonnenblumenstr. 55, 6 Buchen
+- TOP 3.4.: Auf der Vogelwiese 1, 2 Fichten, 1 Blautanne
+- TOP 3.5.: Ludlstr. 15, 1 Birke
+- TOP 3.6.: Ludlstr. 2, 1 Birke
+- TOP 3.7.: Senftenauer Str. 9, 1 Ahorn
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Gefahrenbaum in der Wohnanlage Ludlstr. 39, 1 Robinie (Baureferat, 27.11.2006)
+- TOP 3.2.: Gefahrenbäume im 20. Stadtbezirk (Baureferat, 27.11.2006)
+- TOP 3.3.: Gefahrenbäume an den Schulen Senftenauerstr. 21 und Blumenauer Str. 11 (Baureferat, 27.11.2006)
+- TOP 3.4.: Gefahrenbaum im Spielplatz am Waldrand, 1 Fichte (Baureferat, 30.11.2006)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 1: (E) Straßenbenennung im 20. Stadtbezirk Hadern Blumenauer Steg Benennung der Brücke über die Autobahn, die die Blumenau Süd mit Nord verbindet Antrag Nr. 02-08 / B 01454 des 20. Stadtbezirkes Hadern vom 11.09.2006
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Ablauf von Bürgerversammlungen (OB, 28.11.2006)
+- TOP 7.2.: Eingeschränktes Haltverbot in der Heiglhofstr. 68 (KVR, 05.12.2006)
+- TOP 7.3.: Veranstatlung am Max-Lebsche-Platz, Haderner Dorffest, vom 30.0.4 - 20.05.2007 (Baureferat, 18.12.2006)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Errichtung einer Lärmschutzwand entlang der BAB München-Lindau im Bereich Hadern, BV-Empfehlung Nr. 521 (Baureferat, 15.12.2006)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Krähenbelestigung am Haderner Stern, Anfrage aus der Bürgerversammlung vom 28.09.2006 (Referat für Gesundheit und Umwelt, 28.11.2006)
+- TOP 9.2.: Erneuerung von Fahrbahn- und Radwegmarkierungen in der Guardinistr. BA-Antrag Nr. 1517 vom 09.10.2006 (Baureferat, 08.12.2006)
+- TOP 9.3.: Beteiligung der LH München bei der Planung des Flughafens Oberpfaffenhofen, BA-Antrag Nr. 1600 vom 13.11.2006 (Referat für Stadtplanung und Bauordnung, 07.12.2006)
+- TOP 9.4.: Abfallkorb an der Brücke Blumenau Süd (Baureferat, 11.12.2006)
+- TOP 9.5.: Einrichtung einer öffentlichen Toilette am Gondrellplatz, Empfehlung Nr. 523 (Referat für Arbeit und Wirtschaft, 19.12.2006)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Lärmschutz A 96 München - Lindau (Autobahndirektion Südbayern, 14.12.2006)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Stadtteilwoche Hadern 2007 vom 22. - 29.07.2007 (Kulturreferat, Dezember 2006)
+- TOP 11.2.: Beteiligungs- und Entscheidungsrechte der BA´s bei Standortfragen und Baumaßnehmen für Kindertagesstätten (BA 1, 08.12.2006; BA 3, 21.12.2006))
+- TOP 11.3.: Regionalgespräche mit der Lokalbaukommission, Terminvorschläge (LBK, 13.12.2006)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: am 23.11.2006: Sonderflughafen Oberpfaffenhofen Luftrechtliche Genehmigung, Antrag auf Ergänzung und Änderung
+- TOP 12.1.: am 13.12.2006: Haushaltsplan 2007, Ansätze der zentralen Bereiche der Stadtkämmerei, Schlussabgleich
+- TOP 12.2.: am 13.12.2006: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 12.3.: am 13.12.2006: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 12.4.: am 13.12.2006: Wohnen in München IV - Wohungspolitisches Handlungsprogramm 2007 - 2011
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.10.2006: Haushaltskonsolidierung, Feinkonzept 2006, Sonderkonsolidierung 2006, Grob- und Feinkonzept 2007 - 2011
+- TOP 12.2.: Beschluss des Bauausschusses vom 05.12.2006: Straßenbrücke im Zuge der B 2 (verlängerte A 95) über die Boschetsrieder und Fürstenrieder Straße und Straßenbrücke im Zuge der Abfahrt von der B 2 neu über die Boschetsrieder Straße zur Fürstenrieder Straße im 7. Stadtbezirk Sendling - Westpark, 19. Stadtbezirk Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln und 20. Stadtbezirk Hadern
+- TOP 12.3.: Beschluss des Bauausschusses vom 05.12.2006: Neues Wegweisungssystem für den Radverkehr, Systemdarstellung und weiteres Vorgehen
+- TOP 12.4.: Beschluss des Sozialausschusses vom 30.11.2006: Multiplikatorenschulung in den städtischen Bewohnertreffs Wohnforum München GmbH - Projekt "MITunS", Einmaliger Zuschuss / Haushaltsjahr 2007
+- TOP 12.1.: Beschluss des Schulausschusses vom 29.11.2006: Abriss und Neubau einer Kindertageseinrichtung mit 6 Gruppen Senftenauerstr. 25 im 20. Stadtbezirk Hadern
+- TOP 12.2.: Beschluss des Bauausschusses vom 06.02.2007: Errichtung einer Lärmschutzwand entlang der BAB München-Lindau im Bereich Hadern
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.11.2006: Schutz der Münchner Vorgärten
+- TOP 12.1.: Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006: - Änderung der Bezirksausschuss-Satzung Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo - Änderung der Bezirksauasschuss-Satzung, Fahrtkostenübernahme für behinderte BA-Mitglieder - Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München, Zusammenfassende Änderungssatzung - Änderung der Bezirksausschuss-Geschäftsordnung, Ausschluss wegen persönlicher Beteiligung - Änderung der Bezirksausschuss-Satzung Beteiligung der Bezirksausschüsse bei Baumfällungen - Beteiligung der Bezirksausschüsse durch städtisches Klinikum München GmbH, Beschluss der Gesellschafterin gemäß § 7 Abs. 3 Gesellschafterverträge der Fa. Städtisches Klinikum München GmbH, Änderung der Bezirksausschuss-Satzung - Änderung der Bezirksausschuss-Satzung, Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen - Änderung der Bezirksausschuss-Satzung, Übertragung des Entscheidungsrechtes bei der Schließung dezentraler Kultureinrichtungen auf die Bezirksausschüsse
+- TOP 12.2.: Bekanntgaben
+- TOP 12.5.: Bekanntgabe im Sportausschuss des Stadtrates vom 12.12.2006: Investitionsprogramm für städtische Freisportanlagen, Sachstandsbericht 2006
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
+- TOP 12.4.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 29.11.2006: Entwicklung des öffentlichen Nahverkehrs in München
