@@ -1,0 +1,7 @@
+# TOP 3.: Genehmigung der Niederschrift über die Sitzung am 05.12.2006
+
+- Sitzung: Bau- und Umweltausschuss (3. Sitzung) (2007-01-09)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/5843
+- Beschluss (Datei): Beschlusstext (Genehmigung der Niederschrift über die Sitzung am 05.12.2006) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ-y-QGnMayzd-NQlyZ9mqzSB3leqESbsEcH407DD90m/Beschlusstext_TOP_3._-oeffentlich-_Bau-_und_Umweltausschuss_09.01.2007.pdf
