@@ -1,0 +1,59 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2007-01-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1058142
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1058142
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Kennzeichnung von zwei Parkflächen Allacherstr. 179
+- TOP 1.2.: Ortstermin am Spielplatz an der Megerlestraße/Ecke Freseniusstraße
+- TOP 1.3.: Antrag auf Unterstützung einer Lärmuntersuchung beim RGU
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 1: (E) Aufstellung von vier Parkbänken auf dem ehemaligen Autobahndamm Empfehlung Nr. 02-08 / E 00564 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 24.10.2006
+- TOP 5.: Anhörungen
+- TOP 5.1.: Veranstaltung auf öff. Verkersgrund: Faschinszug Kath. Pfarrgemeinde Maria Himmelfahrt am 20.02.07
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Bewilligung eines Zuschusses aus dem Budget: Antragsteller: TSV Allach 09 e.V.
+- TOP 8.2.: Bewilligung eines Zuschusses aus dem Budget: Antragsteller: Verein zur Förderung der Jugendarbeit der Pfarrei Maria Himmelfahrt e.V.
+- TOP 9: Schreiben des Baureferates
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO a) Schweidnitzer Str. 28 1 Coloradotanne b) Gustav-Otto-Bogen 11 1 Baum d) Bechtolsheimstr. 11 1 Ahorn e) Ernst-von-Romberg-Str. 3 2 Birken, 1 Walnuss f) Max-Jansen-Str. 7 1 Ahorn, 1 Birke g) Theodor-Fischer-Str. 48 1 Tanne, 2 Fichten h) Theodor-Fischer-Str. 78 s. Baumbestandsplan Nr. 2006-28555 i) Herbigstr. 22 s. Baumbestandsplan Nr. 2006-37012 j) Ganzenmüllerstr. 12 a 1 Kiefer
+- TOP 11.2.: Bauanträge (v. 04.-10.12., 11.12.-17.12.06)
+- TOP 11.3.: Korbinian-Beer-Str. 12-16: Ablehnung der Baumfällung
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Giftige Dämpfe durch die Baustelle Peter-Winter-Str. 7-11 (BVAnfrage vom 24.10.06 Nr. Q 00110)
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 17.1.: Kultur im Stadtquartier; Zwischenbericht
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 1 Altstadt-Lehel Beteiligungs- und Entscheidungsrechte der BA`s bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 20.2.: BA 3 Maxvorstadt: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 20.3.: BA 21 Pasing-Obermenzing Kostenbeteiligung des BA 21 an den geforderten Verbesserungsmaßnahmen für den Spielplatz an der Megerlestraße / Freseniusstraße
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Vollversammlung vom 23.11.06: - Grundsätze und Strukturen der Integrationspolitik der LH München
+- TOP 22.2.: Verwaltungs- und Personalausschuss vom 06.12.06: - Änderung der BA-Satzung; Fahrtkosten für behinderte BA-Mitglieder - Änderung der BA-Satzung; Beteiligung der BAs bei Baumfällungen - Änderung der BA-Satzung; Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen - Änderung der BA-Satzung; Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo - Änderung der BA-Satzung; Übertragung des Entscheidungsrechtes bei der Schließung dezentraler Kultureinrichtungen auf die BAs - Änderung der BA-Geschäftsordnung; Ausschluss wegen persönlicher Beteiligung - Beteiligung der BAs durch Städtische Klinikum München GmbH; Beschluss der Gesellschafterin gemäß § 7 Abs. 3 Gesellschaftervertrag der Fa. Städtisches Klinikum München GmbH; Änderung der BA-Satzung - Änderung der Satzung für die BAs; Zusammenfassende Änderungssatzung
+- TOP 22.3.: Sportausschuss vom 12.12.06 - Investitionsprogramm für städt. Freisportanlagen
+- TOP 22.4.: Vollversammlung vom 13.12.06: - Änderung der Bezirksausschuss-Satzung; Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen
+- TOP 23: Verschiedenes
+- TOP 23.1.: Münchner Einrichtungen für ein Sozialticket
