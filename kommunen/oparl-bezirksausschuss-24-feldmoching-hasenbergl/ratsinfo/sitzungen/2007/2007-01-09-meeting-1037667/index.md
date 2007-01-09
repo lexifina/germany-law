@@ -1,0 +1,52 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2007-01-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1037667
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1037667
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Kulturhistorischer Verein Feldmoching; Ausstattung des neuen Kulturraumes - <div>nach Antrag</div>
+- TOP 3.1.: Einführung eines Abo-Angebotes für die MVV-Ausbildungstarife I und II sowie Anhebung der Altersgrenze beim Ausbildungstarif I - <div>nach Antrag</div>
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Straßenbenennung auf dem Gelände der ehemaligen Futtermittelfabrik nördlich der Paul-Preuß-Straße (vertagt aus der Sitzung vom 05.12.2006) - nicht öffentlich - - <div>siehe Protokoll</div>
+- TOP 5.2.: Dorffasching Feldmochinger Straße am 18.02.2007 - <div>nach Antrag</div>
+- TOP 5.3.: Vollzug der Baumschutzverordnung: a) Am Blütenanger 81 a + b b) Edith-Stein-Weg 50 c) Luitfriedstr. 1 d) Rainfarnstr. 58 e) Maßliebchenstr. 15 - <div>Beschluss wie UA Baum vorgetragen</div>
+- TOP 5.4.: Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB) A. Beschlusslage und Folgeaktivitäten B. Kosten- und Finanzierungsproblematik MSB C. Weiteres Vorgehen D. Bürgerversammlungsempfehlungen - <div>nach Antrag</div>
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Walter-Sedlmayr-Platz, Nutzungsänderung eines Büros in eine Schüler-Wohngruppe - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Inlineskate-Touren nach Friedberg/Nürnberb 2007 (Ablehnungsbescheid) - <div>zur Kennnis genommen</div>
+- TOP 6.3.: Kurzparkzone in der Josef-Frankl-Straße, Höhe Walter-Sedlmayr-Platz (BA-Antrag Nr. 02-08 / B 01572 vom 07.11.2006) - <div>zur Kenntnis genommen</div>
+- TOP 6.4.: Verkauf eines Grundstückes Dahlienstraße 13 - nicht öffentlich - - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Verkehrsrechtliche Anordnungen: a) Verkehrsberuhigter Bereich Herbert-Kadner-Str. und Penckstr. b) absolutes Halteverbot Auf den Schrederwiesen c) Verkehrsberuhigter Bereich in der Hederichstr. d) Buslinie 175, Halteverbot und Anordnung der Haltestellen - <div>zur Kenntnis genommen</div>
+- TOP 6.6.: Fällung von Gefahrenbäumen - <div>zur Kenntnis genommen</div>
+- TOP 6.7.: Meldelisten Bauvorhaben - <div>zur  Kenntnis genommen</div>
+- TOP 6.8.: Neubau eines Mehrfamilienhauses mit Tiefgarage, Caracciola- / Eberwurzstr. - <div>zur Kenntnis genommen</div>
+- TOP 6.9.: Baumaßnahmen Stadtwerke - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz (Hinweis/Ergänzung vom 21.11.2006) - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Paul-Preuß-Straße Neubau der Erschließungsstraße im Umgriff des Bebauungsplanes mit Grünordnung Nr. 1890 - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011 - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Unveränderte Fortführung eines Gaststättenbetriebes a) Discount Gaststätte, Aschenbrennerstr. 8 - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Neues Wegweisungssystem für den Radverkehr Systemdarstellung und weiteres Vorgehen - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Zweckentfremdung von Wohnraum - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Entwicklung des öffentlichen Nahverkehrs in München - <div>zur Kenntnis genommen</div>
+- TOP 6.20.: Eröffnung eines Postpoints im Stadtteil Lerchenau - <div>zur Kenntnis genommen</div>
+- TOP 6.21.: Einsatz eines Simulatorwagens bei Geschwindigkeitsüberschreitungen in Tempo 30 Zonen (Antrag des BA 17) - <div>zur Kenntnis genommen</div>
+- TOP 6.22.: Standortfragen für Kindertagesstätten (Schreiben BA 1 und BA 3) - <div>zur Kenntnis genommen</div>
+- TOP 6.23.: Einrichtung eines Sozialtickets im öffentlichen Nahverkehr (Schreiben der Rechtsanwälte Bethcke & King) - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr und Umwelt - <div>siehe UA-Protokoll</div>
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
