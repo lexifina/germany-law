@@ -1,0 +1,7 @@
+# TOP 11.9.: DIR - Zuwendungsbescheid Budgetantrag Taekwondo Zentrum Hellas e.V. vom 12.09.2006
+
+- Sitzung: BA 08 - Vollgremium (2007-01-09)
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/79155
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/79155
