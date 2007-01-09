@@ -1,0 +1,76 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2007-01-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1048477
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1048477
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Schulsportplatz an der Schrobenhausener Straße
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 5.325 Euro für Neugestaltung des Spielplatzes; Antragsteller: Kath. Pfarrei zu den hlg. zwölf Aposteln
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Baureferat vom 17.11.06: Projekt Aindorferstraße
+- TOP 4.2.: Schreiben Planungsreferat vom 19.12.06: Magnetschwebebahn München Hauptbahnhof-Flughafen (MSB)
+- TOP 5: Baumfällungen
+- TOP 5.1.: Seehoferstr. 11: 1 Thuja
+- TOP 5.2.: Helmpertstr. 19: 6 Pappeln und 2 Fichten
+- TOP 5.3.: Burgkmairstr. 55: 1 Birke
+- TOP 5.4.: Käthe-Bauer-Weg 6: 1 Spitz-Ahorn
+- TOP 5.5.: Reindlstr. 27: 1 Robinie und 1 Birke
+- TOP 5.6.: Aindorferstr. 91: 1 Robinie, 1 Eberesche und 1 Kirsche
+- TOP 6: Bauvorhaben
+- TOP 7: Sonstiges
+- TOP 8: Protokolle
+- TOP 8.1.: BA-Sitzung vom 05.12.06
+- TOP 8.2.: Sitzung des UA Bau und des UA Verkehr am 14.12.06
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Sozialreferat vom 21.11.06: Eröffnung einer Tagesdemenzgruppe im 25. Stadtbezirk (Antrag Nr. 02-08 / B 01496 vom 12.09.06)
+- TOP 9.2.: Schreiben Kommunalreferat vom 23.11.06: Sachstand bzgl. Bauernmarkt Ecke Agnes-Bernauer-Straße/Fürstenrieder Straße (Antrag Nr. 02-08 / B 01536 vom 17.10.06)
+- TOP 9.3.: Schreiben Baureferat vom 04.12.06: Reinigung entlang der Gotthardstraße (Anfrage aus der Bürgerversammlung vom 09.11.069
+- TOP 9.4.: Schreiben Baureferat vom 12.12.06: Agnes-Bernauer-Straße zwischen Fürstenrieder Straße und Interim; Planung der Verbreiterung der Verkehrsflächen (Anfrage BA vom 24.11.06)
+- TOP 9.5.: Schreiben Baureferat vom 18.12.06: Straßenreinigung Friedenheimer Brücke und Lautensackstraße (Schreiben BA vom 09.11.06)
+- TOP 9.6.: Schreiben KVR vom 11.12.06: Keine Zulassung von Info-Tischen jeglicher Art und Umfang am DAWO-Gebäude Ecke Fürstenrieder Straße und Gotthardstraße (Antrag Nr. 02-08 / B 01537 vom 17.10.06)
+- TOP 9.7.: Schreiben KVR vom 08.12.06: Änderung der Radweg-Markierung in Höhe der Trambahnhaltestelle Agnes-Bernauer- / Friedenheimer Straße (Antrag Nr. 02-08 / B 01569 vom 07.11.06)
+- TOP 9.8.: Schreiben KVR vom 24.08.06: Feuerwehrzufahrten Elsenheimerstraße
+- TOP 9.9.: Schreiben KVR vom 14.12.06: Landsberger Straße / Stichstraße zwischen Hausnr. 185 und 187; Feuerwehranfahrtszone
+- TOP 9.10.: Schreiben KVR vom 15.12.06: Gaststätte "Pub 9", Veit-Stoß-Str. 9; unveränderte Fortführung
+- TOP 9.11.: Schreiben Direktorium vom 23.11.06: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Faschingsclub Laim e.V.
+- TOP 9.12.: Schreiben Direktorium vom 04.12.06: Verwendungsnachweis über Zuschuss aus dem Budget; Antragsteller: Stüps / Schule-Beruf e. V.
+- TOP 9.13.: Schreiben Direktorium vom 28.11.06: Ablauf von Bürgerversammlungen
+- TOP 9.14.: Schreiben Planungsreferat vom 27.11.06: Isbertstr. 9: Fällungsgenehmigung
+- TOP 9.15.: Schreiben Planungsreferat vom 05.12.06: Friedenheimer Str. 8; Fällungsgenehmigung
+- TOP 9.16.: Schreiben Planungsreferat vom 05.12.06: Camerloherstr. 63: Fällungsgenehmigung
+- TOP 9.17.: Schreiben Planungsreferat vom 06.12.06: Berchemstr. 95; Fällungsgenehmigung
+- TOP 9.18.: Schreiben Planungsreferat vom 06.12.06: Rappstr. 1; Fällungsgenehmigung
+- TOP 9.19.: Schreiben Planungsreferat vom 13.12.06: Fürstenrieder Str. 7; Fällungsgenehmigun
+- TOP 9.20.: Schreiben Baureferat vom 27.11.06: Unterrichtung über das Fällen von Gefahrenbäumen; Schule Droste-Hülshoff-Straße und Schrobenhausener Straße
+- TOP 9.21.: Bautenliste vom 27.11.-03.12.06 1. Erstantragsverfahren a) Gotthardstr. 127 b) Elsenheimerstr. 34
+- TOP 9.22.: Bautenliste vom 04.12.-10.12.06 1. Erstantragsverfahren a) Senftenauerstr. 124
+- TOP 9.23.: Bautenliste vom 11.12.-17.12.06 1. Änderungsverfahren a) Landsberger Str. 170 b) Schäufeleinstr. 20 c) Agricolastr. 36 d) Landsberger Straße 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agnes-Bernauer-Str. 53 b
+- TOP 9.24.: Schreiben Stadtwerke München GmbH vom 24.11.06: Baumaßnahmen der Stadtwerke; Stichtag: 24.11.06
+- TOP 9.25.: Schreiben KVR vom 27.11.06: Anmeldung einer Versammlung unter freiem Himmel am 29.11.06 an der Wotan- / Ecke Landsberger Straße
+- TOP 9.26.: Schreiben Stadtkämmerei vom 01.12.06: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfes 2007
+- TOP 9.27.: Bekanntgabe im Ausschuss für Bauordnung und Stadtplanung vom 29.11.06: Entwicklung des öffentlichen Nahverkehrs in München (Sitzungsvorlagen Nr. 02-08 / V 09146)
+- TOP 9.28.: Beschluss des Bauausschusses vom 05.12.06: Neues Wegweisungssystem für den Radverkehr; Systemdarstellung und weiteres Vorgehen (Sitzungsvorlagen Nr. 02-08 / V 09057)
+- TOP 9.29.: Beschluss des Verwaltungs- und Personalausschusses vom 06.12.06: Änderung der BA-Satzung; Übertragung des Entscheidungsrechtes bei der Schließung dezentraler Kultureinrichtungen auf die BAs (Sitzungsvorlagen Nr. 02-08 / V 09157)
+- TOP 9.30.: Beschluss des Verwaltungs- und Personalausschusses vom 06.12.06: Änderung der BA-Satzung; Fahrtkostenübernahme für behinderte BA-Mitglieder (Sitzungsvorlagen Nr. 02-08 / V 09161)
+- TOP 9.31.: Beschluss des Verwaltungs- und Personalausschusses vom 06.12.06: Änderung der Satzung für die Bezirksausschüsse der LH München; Zusammenfassende Änderungssatzung (Sitzungsvorlagen Nr. 02-08 / V 09162)
+- TOP 9.32.: Beschluss des Verwaltungs- und Personalausschusses vom 06.12.06: Änderung der Bezirksausschuss-Geschäftsordnung; Ausschluss wegen persönlicher Beteiligung (Sitzungsvorlagen Nr. 02-08 / V 09163)
+- TOP 9.33.: Beschluss des Verwaltungs- und Personalausschusses vom 06.12.06: Änderung der Bezirksausschuss-Satzung; Beteiligung der Bezirksausschüsse bei Baumfällungen (Sitzungsvorlagen Nr. 02-08 / V 09155)
+- TOP 9.34.: Beschluss des Verwaltungs- und Personalausschusses vom 06.12.06: Beteiligung der Bezirksausschüsse durch die Städtisches Klinikum München GmbH; Beschluss der Gesellschafterin gemäß § 7 Abs. 3 Gesellschaftervertrag der Fa. Städtisches Klinikum München GmbH; Änderung der Bezirksausschuss-Satzung (Sitzungsvorlagen Nr. 02-08 / V 09156)
+- TOP 9.35.: Beschluss des Verwaltungs- und Personalausschusses vom 06.12.06: Änderung der Bezirksausschuss-Satzung; Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen (Sitzungsvorlagen Nr. 02-08 / V 09158)
+- TOP 9.36.: Beschluss des Verwaltungs- und Personalausschusses vom 06.12.06: Änderung der Bezirksausschuss-Satzung; Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo (Sitzungsvorlagen Nr. 02-08 / V 09160)
+- TOP 9.37.: Bekanntgabe im Sportausschuss vom 12.12.06: Investitionsprogramm für städtische Freisportanlagen; Sachstandsbericht 2006
+- TOP 9.38.: Beschluss der Vollversammlung vom 13.12.06: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007-2011
+- TOP 9.39.: Schreiben BA 1 Altstadt-Lehel vom 08.12.06: Beteiligungs- und Entscheidungsrechte der BAs bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 9.40.: Schriftverkehr aus der BA-Sitzung vom 05.12.06
+- TOP 1.2: Bürgerpost an den BA
