@@ -1,898 +1,278 @@
-# Ordnungsbehördliche Verordnung zur Festsetzung des Wasserschutzgebietes für das Einzugsgebiet der Wassergewinnungsanlagen Hornheide / Haskenau der Stadtwerke Münster GmbH (Wasserwerksbetreiber) - Wasserschutzgebietsverordnung "Hornheide / Haskenau"
+# Ordnungsbehördliche Verordnung zur Festsetzung des Wasserschutzgebietes für das Einzugsgebiet der Wassergewinnungsanlage Gittrup der Stadtwerke Münster GmbH (Wasserschutzgebietsverordnung Gittrup) 32.19
 
 - Gemeinde: Stadt Münster (ARS 055150000000)
-- Datum: 1998-09-11 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-muenster.de/recht/ortsrecht/satzungen/detailansicht/satzungsnummer/32.20
+- Datum: 2007-01-10 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-muenster.de/recht/ortsrecht/satzungen/detailansicht/satzungsnummer/32.19
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Ordnungsbehördliche Verordnung zur Festsetzung des Wasserschutzgebietes für das Einzugsgebiet der Wassergewinnungsanlagen Hornheide / Haskenau der Stadtwerke Münster GmbH (Wasserwerksbetreiber) - Wasserschutzgebietsverordnung "Hornheide / Haskenau"
+Ordnungsbehördliche Verordnung zur Festsetzung des Wasserschutzgebietes für das Einzugsgebiet der Wassergewinnungsanlage Gittrup der Stadtwerke Münster GmbH (Wasserschutzgebietsverordnung Gittrup)
 
-32.20
+32.19
 
-vom 11. September 1998 (Amtsblatt der Stadt Münster 1999 S. 45)
+vom 2.11.1982 (Amtsblatt der Stadt Münster 1983 S. 1)
+In der Fassung der 1. Änderungsverordnung vom 10.1.2007 (Amtsblatt der Stadt Münster 2007 S. 33)
 
-Inhalt
-
-§ 1 Räumlicher Geltungsbereich
-
-§ 2 Begriffsbestimmungen
-
-§ 3 Schutz in den Zonen III - I
-
-§ 4 Militärische Übungen und Liegenschaften
-
-§ 5 Duldungspflichten
-
-§ 6 Düngung in Wasserschutzgebieten,
-
-§ 7 Anwendung von Pflanzenbehandlungs- und Schädlingsbekämpfungsmitteln (PBSM)
-
-§ 8 Genehmigungen
-
-§ 9 Befreiungen
-
-§ 10 Vorrang der Kooperation
-
-§ 11 Ordnungswidrigkeiten
-
-§ 12 Überwachung
-
-§ 13 Andere Rechtsvorschriften
-
-§ 14 Inkrafttreten
-
-Aufgrund der §§ 19 und 41 des Gesetzes zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz - WHG -) in der Fassung der Bekanntmachung vom 12. 11. 1996 (BGBl. I S. 1695), der §§ 14, 15, 116, 117, 136, 138, 141, 150, 161 und 167 Abs. 2 des Wassergesetzes für das Land Nordrhein-Westfalen (Landeswassergesetz - LWG -) vom 4. 7. 1979 (GV. NW S. 488 / SGV. NW 77), in der Neufassung der Bekanntmachung vom 25.6.1995 (GV. NW S. 926 / SGV. NW 77) und der §§ 12, 25, 27 bis 30, 33 und 34 des Gesetzes über Aufbau und Befugnisse der Ordnungsbehörden (Ordnungsbehördengesetz - OBG -) vom 13. Mai 1980 (GV. NW S. 528 / SGV. NW 2060), zuletzt geändert durch Gesetz vom 20. 12. 1994 (GV. NW S. 1115), wird verordnet:
+Aufgrund des § 19 des Gesetzes zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz - WHG -) in der Fassung der Bekanntmachung vom 16. Oktober 1976 (BGBl. I S. 3017) in der derzeit geltenden Fassung, der §§ 14 und 15 des Wassergesetzes für das Land Nordrhein-Westfalen (Landeswassergesetz - LWG -) vom 4. Juli 1979 (GV. NW S. 488) und der §§ 27, 29 - 31 und 33 - 35 des Gesetzes über Aufbau und Befugnisse der Ordnungsbehörden (Ordnungsbehördengesetz - OBG -) in der Fassung der Bekanntmachung vom 13. Mai 1980 (GV. NW S. 528) wird im Einvernehmen mit dem Landesoberbergamt Nordrhein-Westfalen verordnet:
 
 § 1 Räumlicher Geltungsbereich
 
-(1) Im Interesse der öffentlichen Wasserversorgung wird zum Schutz des Grundwassers im Einzugsgebiet der Wassergewinnungsanlagen Hornheide / Haskenau der Stadtwerke Münster GmbH (begünstigter Unternehmer im Sinne von § 15 Abs. 1 LWG) ein Wasserschutzgebiet festgesetzt.
+(1) Im Interesse der öffentlichen Wasserversorgung wird zum Schutze des Grundwassers im Einzugsgebiet der geplanten Wassergewinnungsanlage Gittrup der Stadtwerke Münster GmbH ein Wasserschutzgebiet festgesetzt.
 
-(2) Das Wasserschutzgebiet gliedert sich in die weitere Schutzzone (Zone III), die engere Schutzzone (Zone II) und den Fassungsbereich (Zone I).
+(2) Das Wasserschutzgebiet gliedert sich in die weitere Schutzzone (Zone III), in die engere Schutzzone (Zone II) und in den Fassungsbereich (Zone I).
 
-(3) Das Wasserschutzgebiet erstreckt sich auf die Gemarkungen:
+(3) Das Wasserschutzgebiet erstreckt sich auf die Gemarkung St. Mauritz, Flur 20, 22, 23 und 25 - 29.
 
-St. Mauritz, Fluren 20 und 28
+(4) Die Grenzen des Wasserschutzgebietes und der einzelnen Zonen sind in eine Schutzgebietskarte - Maßstab 1 : 5000 - eingetragen. Die Schutzgebietskarte ist Bestandteil dieser Verordnung. In der Schutzgebietskarte ist die Zone III gelb, die Zone II grün, die Zone I rot angelegt. Die Verordnung, die Schutzgebietskarte sowie weitere zeichnerische und beschreibende Unterlagen liegen vom Tage des Inkrafttretens an (§ 12) zu jedermanns Einsicht während der Dienststunden aus:
 
-Handorf, Fluren 8, 10, 11, 12, 13, 14, 15, 16, 17 und 18
+bei dem Regierungspräsidenten in Münster (obere Wasserbehörde),
 
-Greven, Flur 49
-
-jeweils ganz oder teilweise.
-
-(4) Über das Wasserschutzgebiet mit seinen Schutzzonen gibt die dieser Verordnung angefügte Übersichtskarte im Maßstab 1 : 25000 einen Überblick (Anlage 1). Im einzelnen ergibt sich die Abgrenzung des Wasserschutzgebietes und seiner Schutzzonen aus der Schutzgebietskarte im Maßstab 1 : 1 0000 (Anlage 2). In den Karten sind die Zone III gelb und die Zone II grün umrandet. Die Zone I ist rot angelegt. Aus der dieser Verordnung beigefügten Anlage 3 ergeben sich die Genehmigungs-, Anzeigepflichten und Verbote für die einzelnen Schutzzonen. Die Übersichtskarte, die Schutzgebietskarte und die Anlage 3 sind Bestandteile dieser Verordnung. Die Verordnung mit Übersichtskarte, Schutzgebietskarte und Anlage 3 liegt vom Tage des Inkrafttretens an (§ 14) zu jedermanns Einsicht während der Dienststunden bei folgenden Behörden aus:
-
-Bezirksregierung Münster - Obere Wasserbehörde -
-
-Oberbürgermeisterin der Stadt Münster - Untere Wasserbehörde -
-
-Landrätin des Kreises Steinfurt - Untere Wasserbehörde -
-
-Bürgermeister der Stadt Greven
+bei dem Oberbürgermeister der Stadt Münster.
 
 § 2 Begriffsbestimmungen
 
-(1) Abwasser im Sinne dieser Verordnung sind das durch häuslichen, gewerblichen, landwirtschaftlichen oder sonstigen Gebrauch in seinen Eigenschaften veränderte und das bei Trockenwetter damit zusammen abfließende Wasser (Schmutzwasser) sowie das von Niederschlägen aus dem Bereich von bebauten oder befestigten Flächen abfließende und gesammelte Wasser (Niederschlagswasser). Als Schmutzwasser gelten auch die aus Anlagen zum Behandeln, Lagern und Ablagern von Abfällen austretenden und gesammelten Flüssigkeiten (§ 51 Abs. 1 LWG).
-
-(2) Abwasseranlagen im Sinne dieser Verordnung sind alle Kanäle, Pumpwerke und sonstigen Bauwerke, die Abwasser heben, transportieren und zurückhalten.
-
-(3) Abwasserbehandlungsanlagen im Sinne dieser Verordnung sind Einrichtungen, die dazu dienen, die Schadwirkung des Abwassers zu vermindern oder zu beseitigen und den anfallenden Klärschlamm für eine ordnungsgemäße Beseitigung aufzubereiten. Sie sind öffentliche Abwasserbehandlungsanlagen, wenn sie dem allgemeinen Gebrauch dienen.
-
-(4) Dauergrünland im Sinne dieser Verordnung sind nicht in die Fruchtfolge einbezogene Flächen, auf denen ständig Gras erzeugt wird. Es kann sich um eingesätes oder natürliches Grasland handeln. Zum Zwecke einer Grünlandnutzung angepachtete Ackerflächen, Brachflächen und im Rahmen des Vertragsnaturschutzes oder Vertragsgewässerschutzes eingebrachte Ackerflächen fallen nicht unter diese Regelung.
-
-(5) Gülle im Sinne dieser Verordnung sind die Gemische aus Kot- und Harnausscheidungen von Rindern, Schweinen oder Geflügel, auch vermischt mit Wasser sowie deren natürliche Umwandlungsprodukte. Zur Gülle im Sinne dieser Verordnung gehören auch die Ausscheidungen von Geflügel ohne Zusatz von Wasser sowie deren natürliche Umwandlungsprodukte (Geflügelkot)
-
-(6) Jauche im Sinne dieser Verordnung sind die Harnausscheidungen von Rindern, Pferden, Schweinen, Schafen oder Ziegen, auch vermischt mit Wasser, geringfügige Anteile von Einstreu und Futterresten gelten als unerheblich.
-
-(7) Intensivkulturen im Sinne dieser Verordnung sind Kulturen mit hohem Düngeeinsatz und / oder hohem PBSM-Einsatz und dauernder Bearbeitung, die an stets gleicher Stelle angebaut werden; ausgenommen sind Hausgärten.
-
-(8) Kahlschlag im Sinne dieser Verordnung ist die gleichzeitige Entnahme aller Bestandsglieder auf einer Fläche von über 1 ha.
-
-(9) Lagerbehälter im Sinne dieser Verordnung sind ortsfeste oder zum Lagern aufgestellte ortsbewegliche Behälter. Kornmunizierende Behälter gelten als ein Behälter. Unterirdische Lagerbehälter sind Behälter, die vollständig im Erdreich eingebettet sind. Behälter, die nur teilweise im Erdreich eingefettet sind sowie Behälter, die so aufgestellt sind, dass Undichtigkeiten nicht zuverlässig und schnell erkennbar sind, werden unterirdischen Behältern gleichgestellt. Alle übrigen Lagerbehälter gelten als oberirdische Lagerbehälter.
-
-(10) Nährstoffträger im Sinne dieser Verordnung sind alle Stoffe, die freie Nährstoffe enthalten oder solche nach einer Mobilisierung freisetzen, wie z. B. Gülle, Jauche, Festmist, Kompost, Silagesickersaft, mineralische Düngemittel.
-
-(11) Recycling-Materialien im Sinne dieser Verordnung sind die in den gemeinsamen Runderlassen des Ministeriums für Umwelt, Raumordnung und Landwirtschaft und des Ministeriums für Stadtentwicklung und Verkehr - IV A 3-953-26308 - 111 B 6-32-40/459 vom 25.4.1991 - 111 B 6-32-15/102 - und 30.4.1991 genannten industriellen Nebenprodukte und Recycling-Baustoffe sowie Gießereistoffe nach dem Runderlass des Ministeriums für Stadtentwicklung und Verkehr - 111 B 6.30.05/226 - vom 16.4.1993 und vergleichbare mineralische Reststoffe, die mindestens den Anforderungen der vorgenannten Erlasse entsprechen.
-
-(12) Wärmepumpen im Sinne dieser Verordnung sind Heizungs- und Kühlanlagen, die die Boden- und Grundwassertemperatur ausnutzen.
-
-(13) Wassergefährliche Anlagen im Sinne dieser Verordnung sind Betriebe, die Wasser gefährdende Stoffe oder Kühlwasser abstoßen oder in denen regelmäßig mit Wasser gefährdenden Stoffen umgegangen wird, z. B.
-
-Abfallentsorgungsanlagen,
-
-Akkumulatorenfabriken,
-
-Beizereien,
-
-Lackier-, Abbeiz- und Entlackungsbetriebe,
-
-Chemische Fabriken,
-
-Erdölraffinerien, Großtanklager, Hydrierwerke, Galvanikbetriebe, Weißblechwerke, Gaswerke, Kokereien, Kohlekraftwerke, Gerbereien und Lederverarbeitungsbetriebe,
-
-Chemikalienhandlungen,
-
-Kaliwerke, Salinen,
-
-Kernkraftwerke,
-
-Metallhütten,
-
-Sprengstoffabriken,
-
-Textilveredelungsbetriebe,
-
-Tierkörperverwertungsstellen,
-
-Zellulosefabriken,
-
-Zuckerfabriken,
-
-Schrottplätze,
-
-Kfz-Reparaturwerkstätten, Tankstellen (auch für den Eigenbedarf),
-
-Anlagen zum Lagern oder Behandeln von Autowracks.
-
-(14) Wasser gefährdende Stoffe im Sinne dieser Verordnung sind feste, flüssige oder gasförmige Stoffe, die sich im Wasser lösen, sich mit diesem vermischen, an seinen Inhaltsstoffen haften oder seine Oberfläche bedecken und dadurch die physikalischen, chemischen oder biologischen Eigenschaften des Wassers nachteilig verändern können, insbesondere
+(1) Wasser gefährdende Stoffe im Sinne dieser Verordnung sind Stoffe, die sich im Wasser lösen, sich mit diesem vermischen, an seinen Inhaltsstoffen haften oder seine Oberfläche bedecken und dadurch die physikalischen, chemischen oder biologischen Eigenschaften des Wassers nachteilig verändern. Zu den Wasser gefährdenden Stoffen gehören vor allem die in den §§ 19 a Abs. 2, 19 g Abs. 5 WHG in Verbindung mit der Verordnung über Wasser gefährdende Stoffe bei der Beförderung in Rohrleitungsanlagen vom 19.12.1973 (BGBl. I S. 1946) in der derzeit geltenden Fassung aufgeführten Stoffe, insbesondere:
 
 Säuren, Laugen,
 
-Alkalimetalle, Siliciumlegierungen mit über 30 v. H. Silicium, metallorganische Verbindungen, Halogene, Säurehalogenide, Metallcarbonyle und Beizsalze,
+Alkalimetalle, Siliciumlegierungen mit über 30 vom Hundert Silicium, metallorganische Verbindungen, Halogene, Säurehalogenide, Metallcarbonyle und Beisalze,
 
-Mineral- und Teeröle sowie deren Produkte,
+Mineral- und Teeröl sowie deren Produkte,
 
 flüssige sowie wasserlösliche Kohlenwasserstoffe, Alkohole, Aldehyde, Ketone, Ester, halogen-, stickstoff- und schwefelhaltige organische Verbindungen,
 
-chemische Mittel für Pflanzenschutz, zur Schädlings- oder Aufwuchsbekämpfung sowie zur Wachstumsregelung (Pflanzenschutzmittel),
-
 Gifte,
 
-organische Lösungsmittel,
+natürliche organische Flüssigkeiten wie Jauche, Gülle, Silage oder Molke.
 
-radioaktive Stoffe,
+(2) Unterirdische Lagerbehälter sind Behälter, die ganz im Erdreich eingebettet sind. Lagerbehälter, die nur teilweise im Erdreich eingebettet sind, sowie Lagerbehälter, die von Bauteilen ganz oder teilweise so umgeben sind, dass eingetretene Undichtheiten nicht zuverlässig und schnell sichtbar sind, werden unterirdischen Lagerbehältern gleichgestellt. Alle übrigen Behälter gelten als oberirdische Lagerbehälter.
 
-Jauche, Festmist, Gülle und mineralische Düngemittel,
+(3) Abwassergefährliche Betriebe im Sinne dieser Verordnung sind: Akkumulatorenfabriken, Beizereien u. a. Betriebe, die Ätzflüssigkeiten verwenden, chemische Fabriken, Erdölraffinerien, Großtanklager, Hydrierwerke, Galvanikbetriebe, Weißblechwerke, Gaswerke, Kokereien, Kohlekraftwerke, Gerbereien, Lederverarbeitungsbetriebe, Kaliwerke, Salinen, Sprengstoffabriken, Textilveredlungsbetriebe, Tierkörperverwertungsstellen, Zellulosefabriken, Zuckerfabriken, Metallhütten.
 
-Silagesickersaft und Molke,
+(4) Andere gewerbliche Betriebe sind abwassergefährlich, sofern diese Wasser gefährdende Stoffe mit dem Abwasser, dem Kühlwasser oder dem Abfall abstoßen.
 
-Klärschlamm, Kompost und Abwasser.
+§ 3 Schutz in der Zone III
 
-Zu den Wasser gefährdenden Stoffen im Sinne dieser Verordnung gehören auch die im Katalog Wasser gefährdender Stoffe - Allgemeine Verwaltungsvorschrift (VwVwS) des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit über die nähere Bestimmung Wasser gefährdender Stoffe und ihre Einstufung entsprechend ihrer Gefährlichkeit vom 18.4.1996 (GMBI. S. 327) in der jeweils geltenden Fassung - aufgeführten Stoffe.
+(1) In der Zone III sind verboten:
 
-§ 3 Schutz in den Zonen III - I
+Versenken von Abwasser (= punktförmige Einleitung in den Untergrund) z.B. aus Sammelentwässerungen und von Straßen und Verkehrsflächen, Versenken oder Versickern radioaktiver Stoffe,
 
-(1) Die Zone III soll den Schutz vor weitreichenden Beeinträchtigungen, insbesondere vor nicht oder schwer abbaubaren chemischen und radioaktiven Verunreinigungen, gewährleisten.
+Abwasserverregnung und Abwasserlandbehandlung bzw. das Versickern aus Sammelentwässerungen. Gleiches gilt für die Ablagerung von Schlamm aus Kläranlagen in Schlammtrockenbeeten von Schlammteichen ohne Dichtung.
 
-(2) Die Zone II soll den Schutz vor Verunreinigungen durch pathogene Mikroorganismen (z. B. Bakterien, Viren, Parasiten und Wurmeier) und sonstigen Beeinträchtigungen gewährleisten, die von verschiedenen menschlichen Tätigkeiten und Einrichtungen ausgehen und wegen ihrer Nähe zur Fassungsanlage besonders gefährdend sind.
+Versenken oder Versickern von Kühlwasser,
 
-(3) In der Zone I sind alle Handlungen verboten, die nicht dem ordnungsgemäßen Betreiben, Warten oder Unterhalten des Wasserwerks und seiner Wassergewinnungsanlage, der behördlichen Überwachung der Wasserversorgung oder dem Ausüben der Gewässeraufsicht dienen. Das Betreten der Zone I ist nur solchen Personen gestattet, die im Interesse der Wasserversorgung handeln oder mit behördlichen Überwachungsaufgaben betraut sind. Land- und forstwirtschaftliche Maßnahmen sind verboten, soweit sie nicht dem Erhalten und Pflegen der zum Schutz des Grundwassers notwendigen Grasnarbe und des Baumbestandes dienen. Der Einsatz chemischer Mittel für Pflanzenschutz, Schädlings- oder Aufwuchsbekämpfung sowie zur Wachstumsregelung und jegliche Düngung sind verboten.
+Ablagern, Aufhalden oder Beseitigen durch Einbringen in den Untergrund von Wasser gefährdenden Stoffen im Sinne von § 2 dieser Verordnung, von Pflanzenbehandlungs- und Schädlingsbekämpfungsmitteln, von radioaktiven Stoffen jeweils in offenen und nicht dichten Behältern, in Gruben. Auch die Errichtung oder Erweiterung von Abfalldeponien im Sinne der gültigen Abfallbeseitigungsgesetze (mit Ausnahme des Ablagerns von Bodenaushub), von Lagerplätzen für Autowracks und Kraftfahrzeugschrott fallen unter dieser Ziffer. Gleiches gilt für das Aufschütten von Bergehalden und die Lagerung sowie das Verkippen von Waschbergen.
 
-(4) Die in der Anlage 3 dieser Verordnung aufgeführten Handlungen oder Maßnahmen sind nach Maßgabe der Anlage 3 dieser Verordnung verboten oder unterliegen einer Genehmigungs- bzw. Anzeigepflicht.
+Einleiten von biologisch abbaubaren, aber nicht gereinigten Abwässern in oberirdische Gewässer, sofern diese die Zone II oder I durchfließen oder zur Anreicherung für die öffentliche Wasserversorgung herangezogen werden. Verboten ist auch das Einleiten und Versickernlassen von Oberflächenwasser der Straßen, die dem öffentlichen Verkehr gewidmet sind, in oberirdische Gewässer oder das Grundwasser, ohne ausreichende Schutzmaßnahmen im Sinne der Richtlinien für bautechnische Maßnahmen an Straßen in Wassergewinnungsgebieten oder eine entsprechende Sicherung des Grundwassers, zu der die zuständige Wasserbehörde ihr Einvernehmen erteilt hat. Dieses Verbot gilt nicht für vorhandene Straßen, soweit der Träger der Straßenbaulast im Zeitpunkt des Inkrafttretens dieser Verordnung zur Ableitung des Straßenoberflächenwassers durch Planfeststellungsbeschluss oder aufgrund der §§ 2 oder 15 Abs. 2 WHG wasserrechtlich befugt ist. Das Verbot gilt auch für das Einleiten von radioaktiven Stoffen, von biologisch nicht abbaubaren Abwässern, die Wasser gefährdende Stoffe im Sinne von § 2 dieser Verordnung enthalten, in oberirdische Gewässer oder das Grundwasser, wenn nicht die Abwässer bzw. Stoffe entgiftet oder in anderer Form gewässerunschädlich gemacht sind.
 
-§ 4 Militärische Übungen und Liegenschaften
+Umgang mit radioaktiven Stoffen,
 
-Alle militärischen Nutzungen im räumlichen Geltungsbereich des Standortübungsplatzes Dorbaum (Dorbaum Training Area) werden von dieser Verordnung nicht erfasst. Hierfür gilt folgende Sondervereinbarung:
+Entleerung von Fahrzeugen der gewerblichen und öffentlichen Fäkalienabfuhr. Dieses gilt nicht bei Entleerung zum Zwecke einer ordnungsgemäßen Düngung in normalem Umfange (vgl. § 4, Abs. 1 b Ziffer 5), sofern die Fäkalien unverzüglich und gleichmäßig zur Düngung verteilt werden und wenn die Gefahr der oberirdischen Abschwemmung in die Zone II und I oder des Eindringens in das Grundwasser nicht besteht.
 
-Bei militärischen Übungen ist der Ständige Befehl für den Standortübungsplatz Dorbaum mit den darin festgelegten Erlaubnissen und Verboten in der jeweils gültigen Fassung zu beachten.
+Verwendung von Pflanzenbehandlungsmitteln im Sinne des Pflanzenschutzgesetzes, soweit diese von der Biologischen Bundesanstalt für eine Verwendung in den einzelnen Zonen des Wasserschutzgebietes gemäß Gebrauchsanweisung auf der Verpackung nicht zugelassen sind. Gleiches gilt auch für die Verwendung von Schädlingsbekämpfungsmitteln im Freien, soweit diese Mittel für eine Verwendung in Wasserschutzgebieten gemäß Gebrauchsanweisung vom Bundesgesundheitsamt nicht zugelassen sind. Das Verbot gilt auch für die unsachgemäße Verwendung von zugelassenen Mitteln dieser Art oder bei Gefahr der oberirdischen Abschwemmung in die engeren Zonen (II und I) sowie für das Ein- und Ausbringen von Pflanzenschutz- und Schädlingsbekämpfungsmitteln in und an oberirdischen Gewässern, sofern diese Gewässer die Zone II oder I durchfließen oder zur Anreicherung für die öffentliche Wasserversorgung herangezogen werden.
 
-§ 5 Duldungspflichten
+Bau und Erweiterung geschlossener Wohnsiedlungen ohne wasserdichte zentrale Kanalisation,
 
-(1) Die Eigentümer und Nutzungsberechtigten von Grundstücken im Wasserschutzgebiet haben die wasserbehördliche Überwachung des Wasserschutzgebietes, insbesondere hinsichtlich der Befolgung der Vorschriften dieser Verordnung und der nach ihr getroffenen Anordnungen sowie das Beobachten der Gewässer und des Bodens gemäß §§ 19 Abs. 2 Nr. 2, 21 WHG und §§ 116,117 und 167 Abs. 2 LWG zu dulden.
+Errichtung und Betrieb sowie wesentliche bauliche oder betriebliche Änderungen von Fernleitungen zum Befördern Wasser gefährdender Stoffe im Sinne von §§ 19 a ff WHG,
 
-(2) Die Eigentümer und Nutzungsberechtigten von Anlagen und sonstigen Einrichtungen im Wasserschutzgebiet, die im Zeitpunkt des Inkrafttretens der Verordnung bestehen und die nach Maßgabe des sonstigen öffentlichen Rechtes in Bestand und Betrieb geschätzt sind (Bestandsschutz), haben zu dulden, dass solche Anlagen und Einrichtungen an die Vorschriften der Verordnung angepasst, beseitigt oder erforderliche Sicherungsmaßnahmen getroffen werden (§ 19 Abs. 2 Nr. 2 WHG).
+Errichtung oder wesentliche Veränderung von bzw. Umwandlung zu abwassergefährlichen Betrieben im Sinne von § 2 Abs. 3 dieser Verordnung,
 
-(3) Die Eigentümer und Nutzungsberechtigten von Grundstücken im Wasserschutzgebiet sind darüber hinaus verpflichtet:
+Errichtung oder wesentliche Veränderung von Kernkraftwerken und Anlagen, die nach dem Atomgesetz planfeststellungs- oder genehmigungspflichtig sind,
 
-das Errichten, Betreiben und Unterhalten von Einrichtungen zur Sicherung der Zone I gegen unbefugtes Betreten,
+Errichtung oder wesentliche Änderung von gewerblichen Tanklagern einschließlich Errichtung oder wesentliche Änderung von Anlagen zum Abfüllen und von Umschlags- und Vertriebsstellen für Wasser gefährdende Stoffe im Sinne von § 2 dieser Verordnung, Neubau von Tankstellen, Errichtung von Eigenverbrauchsanlagen für brennbare Flüssigkeiten der Gefahrenklasse A im Sinne der Verordnung über brennbare Flüssigkeiten (VbF) in der jeweils geltenden Fassung. Dieses Verbot gilt nicht für das Lagern von Heizöl für den Hausgebrauch und von Dieselöl für den landwirtschaftlichen Betrieb. In diesen Fällen gelten § 3 Abs. 1 Ziffer 17 und Abs. 2 Ziffer 5 dieser Verordnung. Bei Altanlagen können von der zuständigen Behörde - soweit nicht schon in anderen Gesetzen und Verordnungen geregelt - die Duldung einer sofortigen Überprüfung durch Sachverständige und je nach dem Ergebnis dieser Überprüfungen nach dem allgemeinen Ordnungsrecht eine Beseitigung der Gefahrentatbestände, ggf. auch weitergehende Anforderungen baulicher oder sicherungstechnischer Art verlangt werden. Letzteres gilt auch für den Abfüll- und Umschlagsvorgang bei Anlagen dieser Art.
 
-das Aufstellen, das Unterhalten oder das Beseitigen von Hinweis-, Warn-, Gebots- und Verbotszeichen,
+Errichtung oder wesentliche Veränderung von Start-, Lande- und Sicherheitsflächen sowie von Anflugsektoren und Notabwurfplätzen des Luftverkehrs oder von militärischen Anlagen und Übungsplätzen. Das Verbot gilt auch für Manöver und Übungen von Streitkräften und anderen Organisationen, nicht jedoch für Durchmarsch und Durchfahrt mit Kraftfahrzeugen auf befestigten Straßen oder Wegen.
 
-das Auffüllen von Mulden und Erdaufschlüssen bzw. das Beseitigen von Erdaufschlüssen oder Ablagerungen,
+Neuanlagen und wesentliche Veränderung von Friedhöfen,
 
-das Betreten der Grundstücke durch Bedienstete der zuständigen Behörden zum Beobachten, Messen und Untersuchen des Grundwassers und zur Entnahme von Bodenproben (nach Maßgabe des §167 LWG),
+Errichtung oder wesentliche Veränderungen von baulichen Anlagen zum dauernden Aufenthalt für Tiere, ohne dass die anfallende Gülle und Jauche - insbesondere bei Massentierhaltungen - in dichten Beseitigungsanlagen aufgefangen, gelagert und schadlos beseitigt wird, es sei denn, dass wegen der geringen Menge der Gülle oder Jauche eine schädliche Grundwasserverunreinigung nicht zu besorgen ist.
 
-das Errichten und Betreiben von Grundwasserbeobachtungsbrunnen,
+die unterirdische Lagerung Wasser gefährdender Stoffe im Sinne von § 2 dieser Verordnung in einwandigen Behältern ohne Auffangraum. Das gilt auch für doppelwandige Behälter oder einwandige Behälter mit Auffangraum mit je über 40.000 l Rauminhalt und für den Einbau gebrauchter Behälter. Bei Altanlagen können von der zuständigen Behörde im Rahmen der Vorschriften über die Lagerung Wasser gefährdender Stoffe sofortige Überprüfungen durch Sachverständige und je nach dem Ergebnis dieser Prüfung zeitlich festgelegte Überprüfungen oder die Beseitigung der Gefährdungstatbestände, ggf. auch weitergehende Anforderungen zum Schutze des Grundwassers verlangt werden. Dieses Verbot gilt nicht für natürliche organische Flüssigkeiten wie Jauche, Gülle, Silage oder Molke im Bereich der Landwirtschaft. Hierfür gelten die allgemeinen bau- und wasserrechtlichen Beschränkungen, allerdings besteht eine Genehmigungspflicht - unabhängig vom Rauminhalt des Behälters - für jede Lagerung natürlicher organischer Flüssigkeiten (§ 3 Abs. 2 Nr. 5, 2. Absatz).
 
-das Errichten und Unterhalten von Anlagen zum Sichern gegen Überschwemmungen zu dulden. Den Betroffenen, auf deren Grundstücke Untersuchungen im Vollzug der Schutzgebietsverordnung durchgeführt werden, ist das Ergebnis der Untersuchung mitzuteilen.
+Einbau Wasser gefährdender Stoffe, wie z.B. Teer, Phenole, Hochofenschlacke beim Straßenbau und bei Ausbau befestigter Wege, ausgenommen Bitumenstoffe. Das Verbot gilt auch für den Einbau von Waschbergen. Das Verbot gilt nicht für den Einbau von Hochofenschlacke und Waschbergen bei Hofbefestigungen und privaten Zufahrten, sofern der Nachweis der Wasserunschädlichkeit durch eine Bescheinigung der Lieferfirma beigebracht wird.
 
-(4) Die zuständige Untere Wasserbehörde ordnet gegenüber den betroffenen Eigentümern oder Nutzungsberechtigten die gemäß den Absätzen 2 und 3 zu duldenden Maßnahmen durch schriftlichen Bescheid an. Der Wasserwerksbetreiber und das Staatliche Umweltamt Herten sind vorher zu hören. Soweit bergrechtliche Belange berührt sind, ergeht die Entscheidung im Benehmen mit dem zuständigen Bergamt. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen und dem Duldungspflichtigen zuzustellen sowie dem Wasserwerkbetreiber, dem Staatlichen Umweltamt und, soweit beteiligt, dem zuständigen Bergamt nachrichtlich zur Kenntnis zu geben.
+Umschlag bzw. Zwischenlagerung von Wasser gefährdenden Abfallstoffen auf unabgedichteten Flächen,
 
-§ 6 Düngung in Wasserschutzgebieten
+Motorbootsportveranstaltungen auf oberirdischen Gewässern und Motorsportveranstaltungen im Gelände,
 
-(1) Ziel der gewässerschonenden Düngung im Sinne dieser Verordnung ist es, die Gewässer im Interesse der bestehenden oder künftigen öffentlichen Wasserversorgung im Wasserschutzgebiet vor nachteiligen Einwirkungen durch eine nicht im Rahmen ordnungsgemäßer Landwirtschaft erfolgende Ausbringung von Düngemitteln zu schützen.
+Tiefentsandungen (= Entsandungen, bei denen das anstehende Grundwasser freigelegt wird),
 
-(2) Düngemittel dürfen nur nach den Grundsätzen der guten fachlichen Praxis beim Düngen aufgebracht werden.
+Errichtung oder wesentliche Veränderung von Anlagen und Vorrichtungen zur Klärung von Abwasser, mit Ausnahme von Kläranlagen nach DIN 4261 zur Klärung häuslicher Abwässer (siehe hierzu § 3 (2) Ziffer 13).
 
-(3) Die Düngebedarfsermittlung und die -anwendung hat nach einem ständig zu aktualisierenden schriftlichen Düngeplan zu erfolgen oder ist durch schlagbezogene Aufzeichnungen zu dokumentieren. Die Düngeplanung kann auch in Form einer betriebsbezogenen Nährstoffbilanz erfolgen. Düngepläne bzw. Aufzeichnungen sind 6 Jahre aufzubewahren und auf Verlangen der Oberbürgermeisterin der Stadt Münster - Untere Wasserbehörde -, der Landrätin des Kreises Steinfurt - Untere Wasserbehörde - vorzulegen.
+das Zelten und Lagern außerhalb genehmigter Zeltplätze sowie das Baden in natürlichen und künstlichen Gewässern,
 
-(4) Mindestens alle 5 Jahre sind für die Betriebe über 3 ha bewirtschafteter Flächen auf Aufforderung der Oberbürgermeisterin der Stadt Münster - Untere Wasserbehörde - / der Landrätin des Kreises Steinfurt - Untere Wasserbehörde - von dem bewirtschaftenden Landwirt / in Untersuchungen am Ende der Vegetationsperiode (20.10. - 10.11. des Jahres) durchzuführen. Das gleiche gilt für Betriebe unter 3 ha bewirtschafteter Gesamtfläche bei einem Missverhältnis von Tierbestand zu bewirtschafteter Fläche. Die Bodenproben sind einschließlich der Probeentnahme von einer fachlich geeigneten, neutralen Stelle (z. B. LUFA) durchzufahren.
+Vergraben von Tierleichen.
 
-(5) Eine Durchschrift der Untersuchungsergebnisse zum Ende der Vegetationsperiode ist bis zum 31. 1. des Folgejahres der Oberbürgermeisterin der Stadt Münster - Untere Wasserbehörde - / der Landrätin des Kreises Steinfurt - Untere Wasserbehörde - über die Kreisstelle der Landwirtschaftskammer Münster / Steinfurt zuzuleiten. Die zuständige Untere Wasserbehörde ist berechtigt, weitere Bodenproben zu entnehmen oder von einer neutralen Stelle entnehmen zu lassen.
+(2) In der Zone III sind genehmigungspflichtig:
 
-§ 7 Anwendung von Pflanzenbehandlungs- und Schädlingsbekämpfungsmitteln (PBSM)
+Einrichtungen, die den Zustrom von Menschen fördern, insbesondere die Anlage oder Veränderung von Erholungseinrichtungen, wie z.B. Sportanlagen, Zelt- und Campingplätze, Hotels, Gaststätten, Ausflugslokale. Gleiches gilt für Bildungs- und Gesundheitseinrichtungen sowie die Umwandlung von Gebäuden in gewerbliche Beherbergungsbetriebe. In den erforderlichen Verfahren können ggf. zum Schutze des Grundwassers über das normale Maß hinaus zusätzliche bauliche oder sonstige sicherungstechnische Maßnahmen gefordert werden.
 
-(1) Die Anwendung von PBSM darf nur nach den Grundsätzen der guten fachlichen Praxis unter Beachtung des Gesetzes zum Schutz der Kulturpflanzen (PfISchG) vom 15. Sept. 1986 (BGBl. I S. 1505) und der aufgrund dieses Gesetzes erlassenen Verordnungen u.a. der Verordnung über Anwendungsverbote für Pflanzenschutzmittel (Pflanzenschutz-Anwendungsverordnung) vom 27. Juli 1988 (BGBl. I S. 1196), in der jeweils gültigen Fassung, erfolgen. Pflanzenschutzmittel dürfen nach diesen Vorschriften nicht angewandt werden, soweit der Anwender damit rechnen muss, dass ihre Anwendung schädliche Auswirkungen auf das Grundwasser hat. Sie dürfen ferner nicht in oder unmittelbar an oberirdischen Gewässern angewandt werden.
+Neubau und wesentliche Änderung von öffentlichen Straßen, soweit letzteres über den Rahmen der üblichen Straßenunterhaltung und örtlich begrenzter Verkehrssicherungsmaßnahmen hinausgeht. Unberücksichtigt bleiben die Maßnahmen, für die eine straßenrechtliche Planfeststellung durchgeführt wird oder wenn die Trasse der neuen bzw. wesentlich geänderten Straßen in einem Bebauungsplan enthalten ist und in letzterem Fall ein Einvernehmen mit der unteren Wasserbehörde sowie dem zuständigen STAWA unter Berücksichtigung des Sinngehaltes dieser Verordnung und der Richtlinien für bautechnische Maßnahmen erzielt worden ist.
 
-(2) Bei Anwendung von PBSM in Wasserschutzgebieten sind die Beratungsempfehlungen der Landwirtschaftskammern zu berücksichtigen. Über die Anwendung von PBSM sind Aufzeichnungen zu führen aus denen sich ergeben müssen:
+Bau sowie Erweiterung von öffentlichen Parkplätzen, Parkstreifen und privaten Sammeleinstellplätzen (ab 4 Fahrzeugen). Bei der Genehmigung können besondere Anforderungen an die Befestigung der Anlagen sowie an die Beseitigung der Abwässer gestellt werden.
 
-Datum der Anwendung
+bauliche Änderung von bestehenden Tankstellen,
 
-Art und Name des Mittels bzw. Wirkstoffs
+die oberirdische Lagerung Wasser gefährdender Stoffe und die unterirdische Lagerung sowohl in doppelwandigen als auch in einwandigen Behältern mit Auffangraum bis zu je 40.000 l Rauminhalt. Dabei können an das Lagern, die Auffangräume, die Lagerbehälter und das Zubehör erhöhte Anforderungen im Einzelfall gem. § 15 Abs. 3 der Verordnung über Anlagen zum Lagern, Abfüllen und Umschlagen Wasser gefährdender Stoffe (VAWS) vom 31. Juli 1981 (GV. NW S. 490) z.B. hinsichtlich der Werkstoffe, der Ausführung und Verarbeitung, der Dichtigkeit und Beständigkeit sowie der betrieblichen Ausstattung und der Handhabung gestellt werden, damit eine schädliche Verunreinigung des Wassers oder eine sonstige nachteilige Veränderung seiner Eigenschaften ausgeschlossen ist. Die Genehmigungspflicht gilt - unabhängig vom Rauminhalt des Behälters - auch für jede Lagerung natürlicher organischer Flüssigkeiten aus dem Bereich der Landwirtschaft wie Jauche, Gülle, Silage oder Molke. Laufen Wasser gefährdende Stoffe im Sinne von § 2 dieser Verordnung aus einer Anlage zum Lagern, Abfüllen, Umschlagen, Befördern oder Transportieren aus und ist zu befürchten, dass diese in den Untergrund eindringen, so ist dies unverzüglich der örtlichen Ordnungsbehörde anzuzeigen. Die untere Wasserbehörde und der Wasserwerksträger sollten ebenfalls unterrichtet werden. Anzeigepflichtig sind die Betreiber oder die von ihnen für den Betrieb, die Unterhaltung oder für den ordnungsgemäßen Zustand der Leitungen und Behälter beauftragten Personen.
 
-Menge des Mittels bzw. Wirkstoffs
+Anlage oder Veränderung von Kies- und Sandgruben (= Flachentsandung), sowie von Lehm-, Torf- und Tongruben, Hohlwegen, Steinbrüchen und Einschnitten, Durchführung von Ausgrabungen und Ausschachtungen, von Bohrungen und Sprengungen, einschließlich Bergbaumaßnahmen sowie sonstige Maßnahmen, die die belebte Bodenzone verletzen und die Deckschichten beseitigen oder vermindern oder eine schlecht reinigende Schicht freilegen. Die normale landwirtschaftliche Beackerung, das Tiefpflügen, Meliorationen, das Anlegen von Dränungen, sowie Arbeiten am Leitungsnetz der Deutschen Bundespost bleiben unberührt.
 
-Kulturart
+Lagerung von Handelsdünger in flüssiger Form (z. B. Ammonnitrat-Harnstoff-Lösung),
 
-Anlass der Anwendung
+Errichtung oder Veränderung von Rangierbahnhöfen,
 
-Die Aufzeichnungen sind 3 Jahre aufzubewahren und der Oberbürgermeisterin der Stadt Münster - Untere Wasserbehörde - / Landrätin des Kreises Steinfurt - Untere Wasserbehörde - auf Verlangen vorzulegen.
+Errichtung oder wesentliche Veränderung von baulichen Anlagen zum dauernden Aufenthalt
+von Menschen innerhalb geschlossener Wohnsiedlungen ohne Anschluss an eine zentrale Kanalisation,
 
-§ 8 Genehmigungen
+von Menschen außerhalb geschlossener Wohnsiedlungen,
 
-(1) Über die Genehmigungen nach § 3 dieser Verordnung entscheidet die örtlich zuständige Untere Wasserbehörde. Dem Genehmigungsantrag sind in vierfacher Ausfertigung Unterlagen wie Beschreibung, Pläne, Zeichnungen und Nachweisungen beizufügen, soweit sie zur Beurteilung des Antrages erforderlich sind. Anträge, die mangelhaft sind oder ohne ausreichende Unterlagen vorgelegt werden, können ohne weiteres zurückgewiesen werden, wenn der Antragsteller die ihm mitgeteilten Mängel innerhalb der ihm gesetzten Frist nicht behebt. Der Antragsteller ist auf diese Folgen hinzuweisen.
+für Tiere (soweit nicht nach § 3 Abs. 1 Ziff. 16 verboten), es sei denn, dass wegen der geringen Menge der Gülle oder Jauche eine schädliche Grundwasserverunreinigung nicht zu besorgen ist,
 
-(2) Die Genehmigung ist zu erteilen, wenn keine Gefährdung der öffentlichen Wasserversorgung zu besorgen ist. Die Genehmigung kann mit Bedingungen und Auflagen versehen und befristet werden. Sie kann zurückgenommen oder nachträglich mit zusätzlichen Anforderungen versehen oder weiteren Einschränkungen unterworfen werden, soweit es das Interesse der öffentlichen Wasserversorgung gebietet, das Grundwasser im Rahmen dieser Verordnung vor nachteiligen Einwirkungen zu schützen, die bei der Erteilung der Genehmigung nicht voraussehbar waren. Eine Genehmigung kann auch einmalig für bestimmte in der Zukunft liegende Handlungen gleicher Art erteilt werden. Die Vorschriften des allgemeinen Ordnungsrechts bleiben unberührt.
+Errichtung oder wesentliche Änderung von bzw. Umwandlung zu abwassergefährlichen Betrieben im Sinne von § 2 Abs. 4 dieser Verordnung,
 
-(3) Die zuständige Untere Wasserbehörde kann den Wasserwerksbetreiber beteiligen und holt ggf. vor ihrer Entscheidung die Stellungnahme des Staatlichen Umweltamtes, in hygienischen und gesundheitlichen Fragen des zuständigen Gesundheitsamtes, in landwirtschaftlichen Fragen auch der Landwirtschaftskammer ein. Sind Betriebe betroffen, die der Bergaufsicht unterliegen, so ist das zuständige Bergamt zu hören.
+Errichtung und wesentliche Änderung von Krankenhäusern, Heilstätten, Erholungsanlagen, Gaststätten, Gewerbe- und Industriebetrieben,
 
-(4) Der mit Rechtsbehelfsbelehrung versehene Bescheid über den Genehmigungsantrag ist dem Antragsteller zuzustellen und allen am Verwaltungsverfahren Beteiligten zu übersenden.
+Wärmepumpen mit Wärmeentzug aus dem Erdreich oder dem Grundwasser, 13. Kleinkläranlagen nach DIN 4261 zur Klärung häuslicher Abwässer.
 
-(5) Die Genehmigung erlischt, wenn innerhalb von zwei Jahren nach Bestandskraft der Genehmigung mit der Ausführung des Vorhabens nicht begonnen oder die Ausführung ein Jahr unterbrochen worden ist.
+§ 4 Schutz in der Zone II
 
-(6) Einer besonderen Genehmigung nach den Vorschriften dieser Verordnung bedarf es nicht für Handlungen, die nach anderen Bestimmungen einer Erlaubnis, Bewilligung, Genehmigung, bergrechtlichen Betriebsplanzulassung oder sonstigen behördlichen Zulassung bedürfen, wenn diese von der jeweils zuständigen Unteren Wasserbehörde oder mit deren Einvernehmen erteilt werden. Soweit die Bezirksregierung Münster für die o.a. behördlichen Zulassungen zuständig ist, ist das Einvernehmen der Oberen Wasserbehörde einzuholen. Bei bergbaurechtlichen Zulassungsverfahren, die die Schutzgebietszonen III B und C betreffen, ist abweichend von Satz 1 das Benehmen der zuständigen Unteren Wasserbehörde einzuholen. Absatz 3 gilt entsprechend. Vorstehende Regelungen gelten nicht für Entscheidungen, die in einem Planfeststellungsverfahren ergehen (§ 14 Abs. 4 Satz 2 LWG).
+In der Zone II sind verboten:
+
+die in der Zone III verbotenen und genehmigungspflichtigen Tatbestände,
+
+darüber hinaus:
+bauliche Anlagen, z.B. Neubau von Wohnungen, Stallungen, Gärfuttersilos, Jauche- und Güllegruben, Errichtung von Baustellen und Baustofflagern,
+
+Neubau von Wegen, Straßen, Bahnlinien und sonstigen Verkehrsanlagen oder Güterumschlagsanlagen,
+
+vorübergehende Lagerung von Stoffen im Sinne von § 3 Abs. 1 Ziffer 4 dieser Verordnung,
+
+Wagenwaschen und Ölwechsel,
+
+Düngungen mit animalischen Stoffen (Ausbringen von Jauche, Gülle, Stalldung), sofern diese nach Anfuhr nicht sofort verteilt werden oder wenn die Gefahr ihrer oberirdischen Abschwemmung in das Gebiet der Schutzzone I oder des Eindringens in das Grundwasser besteht. Verboten ist auch die Düngung zur Unzeit und Überdüngung - beides auch bei Handelsdünger. Als Überdüngung gilt bei Gülle die Überschreitung folgender Mengen:
+Rindergülle = 40 cbm / ha / Jahr
+
+Schweinegülle = 30 cbm / ha / Jahr
+
+Hühnergülle = 20 cbm / ha / Jahr.
+
+unsachgemäße Verwendung von Handelsdünger in fester oder in flüssiger Form,
+
+das Bewässern (z. B. Verrieseln oder Verregnen) landwirtschaftlich oder gärtnerisch genutzter Flächen mit hygienisch nicht einwandfreiem Wasser sowie mit Ammoniakwasser (= Abwasser von Kokereien und Gaswerken),
+
+Anlage oder Änderung von Gärfuttermieten und Dungstellen,
+
+das Durchleiten von Abwasser sowie das Durchleiten von Gewässern und Gräben, die Wasser von außerhalb dieser Zonen heranfahren, ohne ausreichende Sicherung,
+
+Neuanlage und wesentliche Veränderung von Fischteichen, deren Düngung und Kalkung sowie das Zufüttern,
+
+Neuanlage von Kleingärten und von Gartenbaubetrieben,
+
+alle Maßnahmen, die die belebte Bodenzone verletzen, mit Ausnahme von normaler landwirtschaftlicher Beackerung und forstlicher Bewirtschaftung, sowie der notwendigen Arbeiten am Leitungsnetz der Deutschen Bundespost,
+
+jegliche Manöver- und Übungstätigkeit von Streitkräften und anderen Organisationen.
+
+§ 5 Schutz in der Zone I
+
+(1) In der Zone I sind verboten:
+
+die in den Zonen III und II verbotenen und genehmigungspflichtigen Tatbestände,
+
+darüber hinaus:
+jegliches Hantieren oder Fahren mit Fahrzeugen oder Geräten, die mit Wasser gefährdenden Stoffen im Sinne von § 2 dieser Verordnung angetrieben werden,
+
+jegliche Verletzung der belebten Bodenschicht und der Deckschichten,
+
+das Betreten des Fassungsbereiches,
+
+jegliche Düngung,
+
+Beweidung, Pferche.
+
+(2) In der Zone I sind nur gestattet:
+
+alle zum Betrieb des Wasserwerkes erforderlichen Handlungen, bauliche und technische Maßnahmen, soweit hierdurch keine Beeinträchtigung des Grundwassers zu besorgen ist,
+
+Maßnahmen zum Messen des Wassers sowie zur Beobachtung und Untersuchung des Bodens.
+
+§ 6 Andere Rechtsvorschriften
+
+(1) Die in anderen Gesetzen und Rechtsvorschriften vorgesehenen Anzeige-, Genehmigungs-, Duldungs- oder Zulassungspflichten, Beschränkungen und Verbote bleiben unberührt.
+
+(2) Bei der baurechtlich verbindlichen Planung geschlossener Wohnsiedlungen, von Industrie-, Gewerbe- und Sondergebieten in der Zone III sind die Interessen des Grundwasserschutzes nach Menge und Güte als besonders wichtiger öffentlicher Belang zu berücksichtigen.
+
+§ 7 Ordnungspflicht bei bestehenden Anlagen
+
+(1) Bestehende Anlagen oder Einrichtungen im Wasserschutzgebiet sind von Amts wegen auf ihre Rechtmäßigkeit und Vereinbarkeit mit dem Sinngehalt dieser Verordnung durch den Oberkreisdirektor - untere Wasserbehörde - unter Beteiligung des Staatlichen Amtes für Wasser- und Abfallwirtschaft zu überprüfen bzw. zu überwachen.
+
+(2) Die Eigentümer und Nutzungsberechtigten von Grundstücken im Wasserschutzgebiet haben die vorgenannten wasserbehördlichen Überprüfungen bzw. Überwachung, insbesondere die Beobachtung der Gewässer und des Bodens sowie das Aufstellen, Unterhalten oder Beseitigen von Hinweis-, Warn-, Gebot- oder Verbotszeichen gemäß §§ 19 Abs. 2 Nr. 2, 21 WHG und §§ 116, 117 und 167 Abs. 2 LWG zu dulden.
+
+(3) Die Eigentümer und Nutzungsberechtigten haben zu dulden, dass rechtmäßig erstellte Anlagen und sonstige Einrichtungen, die im Zeitpunkt des Inkrafttretens dieser Verordnung bestehen und deren Bestand oder Betrieb unter die Verbotsbestimmungen dieser Verordnung fällt, an die Vorschriften der Verordnung angepasst oder beseitigt werden. Diese Duldungspflicht gilt nur, wenn die Anpassung bzw. Beseitigung der Anlagen oder sonstigen Einrichtungen nicht schon nach anderen Vorschriften verlangt werden kann.
+
+(4) Die Eigentümer und Nutzungsberechtigten von Grundstücken in den Schutzzonen I bis III sind darüber hinaus verpflichtet, zu dulden
+
+das Auffüllen von Mulden oder Erdaufschlüssen,
+
+das Einzäunen des Fassungsbereiches und das Aufstellen von Hinweis-, Warn-, Gebots- und Verbotszeichen,
+
+das Betreten der Grundstücke durch Bedienstete der zuständigen Behörden zur Beobachtung, Messung und Untersuchung des Grundwassers und zur Entnahme von Bodenproben,
+
+die Anlage und den Betrieb von Grundwasserbeobachtungsbrunnen,
+
+das Verrohren von Gewässern oder Gräben,
+
+die Errichtung und Unterhaltung von Anlagen zur Sicherung gegen Überschwemmungen,
+
+das Beseitigen von Erdaufschlüssen oder Ablagerungen.
+
+(5) Die zuständige Behörde ordnet gegenüber den betroffenen Eigentümern oder Nutzungsberechtigten die gem. Abs. 2 bis 4 zu duldenden Maßnahmen durch schriftlichen Bescheid an. Der Bescheid ist mit einer Rechtsmittelbelehrung zu versehen und dem Duldungspflichtigen sowie dem Wasserwerksträger zuzustellen.
+
+§ 8 Genehmigungsverfahren
+
+(1) Über die Genehmigungen nach § 3 Abs. 2 entscheidet der Oberstadt- bzw. Oberkreisdirektor - untere Wasserbehörde -. Handlungen, die nach anderen Bestimmungen ausdrücklich einer Erlaubnis, Bewilligung, einer Genehmigung oder sonstigen behördlichen Zulassung bedürfen - Anzeigeverfahren genügen nicht -, bedürfen der Genehmigung nach dieser Verordnung nicht, wenn schon die anderen Bestimmungen einen hinreichenden Schutz ermöglichen. Entscheiden in den genannten Fällen andere Behörden als Wasserbehörden, so bedürfen diese des Einvernehmens der unteren Wasserbehörde (Oberstadtdirektor Münster, Oberkreisdirektor Steinfurt), es sei denn, die Entscheidung ergeht im Planfeststellungsverfahren. Des Einvernehmens bedarf es nicht, wenn der Regierungspräsident für die o. g. behördlichen Zulassungen zuständig ist.
+
+(2) Dem Genehmigungsantrag sind in vierfacher Ausfertigung Unterlagen (Beschreibung, Pläne, Zeichnungen und Nachweisungen) beizufügen, soweit diese zur Beurteilung des Antrages erforderlich sind. Anträge, die mangelhaft sind oder ohne ausreichende Unterlagen vorgelegt werden, können ohne weiteres zurückgewiesen werden, wenn der Antragsteller die ihm mitgeteilten Mängel innerhalb der ihm gesetzten Frist nicht behebt. Der Antragsteller ist auf diese Folgen hinzuweisen.
+
+(3) Die untere Wasserbehörde beteiligt die Stadtwerke Münster GmbH und holt vor ihrer Entscheidung bzw. vor der Erklärung des Einvernehmens die Stellungnahme des Staatlichen Amtes für Wasser- und Abfallwirtschaft ein. Will die untere Wasserbehörde den Bedenken des Staatlichen Amtes für Wasser- und Abfallwirtschaft nicht Rechnung tragen, so hat sie die Akten der oberen Wasserbehörde vorzulegen.
+
+(4) Die Genehmigung kann mit Bedingungen und Auflagen versehen und befristet werden. Sie kann zurückgenommen oder nachträglich mit zusätzlichen Anforderungen versehen oder weiteren Einschränkungen unterworfen werden, soweit es das Interesse der öffentlichen Wasserversorgung gebietet, das Grundwasser im Rahmen dieser Verordnung vor nachteiligen Einwirkungen zu schützen, die bei der Erteilung der Genehmigung nicht voraussehbar waren. Die Vorschriften des allgemeinen Ordnungsrechts bleiben unberührt.
+
+(5) Die Genehmigung darf nur erteilt werden, soweit eine Gefährdung der öffentlichen Wasserversorgung nicht zu besorgen ist oder durch Auflagen bzw. Bedingungen verhütet werden kann. Die Genehmigung kann für eine unbestimmte Anzahl in der Zukunft liegender einzelner Handlungen gleicher Art erteilt werden.
+
+(6) Der mit Rechtsmittelbelehrung versehene Bescheid über den Genehmigungsantrag ist dem Antragsteller und den beteiligten Behörden zuzustellen.
+
+(7) In den Fällen, in denen ein Genehmigungsverfahren durch ein wasserrechtliches Ver-fahren der unteren Wasserbehörde ersetzt wird (Abs. 1 Satz 2) oder in denen das Einvernehmen der unteren Wasserbehörde notwendig ist (Abs. 1 Satz 3), sind Abs. 3 - 5 entsprechend anzuwenden.
 
 § 9 Befreiungen
 
-(1) Die Oberbürgermeisterin der Stadt Münster - Untere Wasserbehörde - / die Landrätin des Kreises Steinfurt - Untere Wasserbehörde - kann auf Antrag von den Verboten des § 3 dieser Verordnung Befreiung erteilen, wenn andere Rechtsvorschriften dem nicht entgegenstellen und
+(1) Die untere Wasserbehörde kann im Einzelfall auf Antrag von den Verboten der §§ 3 - 5 dieser Verordnung Befreiung erteilen, wenn andere Rechtsvorschriften nicht entgegenstehen und
 
-Gründe des Wohls der Allgemeinheit die Abweichung erfordern oder
+Gründe des Wohls der Allgemeinheit die Abweichung ggf. nach entsprechenden Sicherungen erfordern oder
 
-das Verbot zu einer offenbar nicht beabsichtigten Härte führt und die Abweichung mit den Belangen des Wohls der Allgemeinheit, insbesondere des Gewässerschutzes im Sinne dieser Verordnung, vereinbar ist.
+das Verbot zu einer offenbar nicht beabsichtigten Härte führt und die Ausnahme mit den Belangen des Wohls der Allgemeinheit, insbesondere des Grundwasserschutzes nach entsprechenden Sicherungen vereinbar ist.
 
-(2) Dem Wasserwerksbetreiber kann auf Antrag von der Unteren Wasserbehörde Befreiung von den Genehmigungsvorbehalten und Verboten dieser Verordnung erteilt werden, soweit dies zum Betreiben der Wassergewinnungs- und versorgungsanlage erforderlich und mit den Belangen des Wohls der Allgemeinheit vereinbar ist.
+(2) Die untere Wasserbehörde kann der Stadtwerke Münster GmbH für das Wasserwerk Gittrup auf Antrag Befreiung von den Genehmigungsvorbehalten und Verboten dieser Verordnung erteilen, soweit dies zum Betrieb des Wasserwerks unumgänglich und mit den Belangen des Wohls der Allgemeinheit vereinbar ist.
 
-(3) Im übrigen gilt § 8 dieser Verordnung mit der Maßgabe entsprechend, dass vor Erteilung einer Befreiung zwingend die Stellungnahme des Staatlichen Umweltamtes und des Wasserwerksbetreibers einzuholen sind. Will die Untere Wasserbehörde Bedenken des Staatlichen Umweltamtes nicht Rechnung tragen, so hat sie die Weisung der Oberen Wasserbehörde einzuholen.
+(3) Bei Gefahr im Verzuge trifft die nach dem Ordnungsbehördengesetz zuständige Behörde die notwendigen Anordnungen (Sofortmaßnahmen), auch wenn diese Maßnahmen im Normalfall nach §§ 3 - 5 dieser Verordnung verboten sind. Die untere Wasserbehörde und das Staatliche Amt für Wasser- und Abfallwirtschaft sind sofort zu unterrichten.
 
-§ 10 Vorrang der Kooperation
+(4) Für die Befreiung gelten die Vorschriften des § 8 Abs. 2, 3, 4, 5 Satz 2, 6 entsprechend.
 
-(1) Auf Antrag einer Kooperation im Sinne des Abs. 2 gelten die §§ 6 und 7 dieser Verordnung nicht für Mitglieder einer Kooperation, soweit diese für ihre Mitglieder bzw. Vertragspartner verbindliche Regelungen für die vorgenannten Tatbestände getroffen hat. Der Antrag ist bei der Bezirksregierung Münster zu stellen. Die Regelungen der Kooperation müssen sich an den Grundsätzen des vorbeugenden Gewässerschutzes orientieren.
+§ 10 Entschädigung
 
-(2) Eine Kooperation im Sinne dieser Verordnung ist unabhängig von der Rechtsform - der vertragliche oder mitgliederschaftliche Zusammenschluss von Landwirtschafts- oder Gartenbaubetrieben einerseits und einem Wasserversorgungsunternehmen der öffentlichen Trinkwasserversorgung andererseits. Die Kooperation muss im Rahmen der Zielsetzung der 12-Punkte-Vereinbarung zwischen der Wasserversorgung, der Landwirtschaft, dem Gartenbau - vertreten durch ihre Verbände / Kammern - und dem Ministerium für Umwelt, Raumordnung und Landwirtschaft des Landes Nordrhein-Westfalen von 1989 arbeiten.
-
-(3) Die zuständige Untere Wasserbehörde muss berechtigt sein, von den Vertretungsgremien der Kooperation Auskunft über deren allgemeine Tätigkeit zu verlangen. Die Untere Wasserbehörde muss insbesondere die in der Kooperation geltenden Anforderungen an die Düngekonzeption, die Düngekontrollverfahren und die Anwendung von zugelassenen PBSM prüfen können. Dies soll in mindestens jährlichen Beratungsgesprächen geschehen. Sie ist nicht berechtigt, Auskünfte über einzelne Untersuchungsergebnisse oder einzelne Kooperationsmitglieder zu verlangen.
-
-(4) Von der Genehmigungspflicht in Zone III für Kahlschlag bis 1,5 ha/a und Bodenschutzkalkung können Mitglieder einer Kooperation befreit werden, die für diese Tatbestände für ihre Mitglieder verbindliche Konzepte entwickelt hat, um Schadstoffeinträge in das Grundwasser oder Bodenerosionen, die das Grundwasser gefährden könnten, zu vermeiden.
-
-(5) Soweit die Kooperation für ihre Mitglieder verbindliche Konzepte für den gewässerschonenden Umbruch von Dauergrünland erstellt hat, können deren Mitglieder von der Genehmigungspflicht in den Zone III auf Antrag der Kooperation befreit werden. Die Untere Wasserbehörde entscheidet nach Anhörung der Stadtwerke Münster GmbH über die Befreiung auf der Grundlage der vorgelegten Konzepte.
+Stellt eine Verordnung nach dieser Verordnung eine Enteignung dar, so befindet die obere Wasserbehörde auf Antrag des Betroffenen über die Entschädigung gem. §§ 19 Abs. 3, 20 WHG und §§ 15 Abs. 2, 134, 135, 154 - 156 LWG.
 
 § 11 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne von § 41 Abs. 1 Nr. 2 WHG, § 161 Abs. 1 Nr. 2 LWG handelt, wer vorsätzlich oder fahrlässig eine nach § 3 dieser Verordnung genehmigungspflichtige Handlung ohne die Genehmigung nach § 8 vornimmt.
+(1) Ordnungswidrig im Sinne von § 41 Abs. 1 Nr. 2 WHG und § 161 Abs. 1 Nr. 2 LWG handelt, wer vorsätzlich oder fahrlässig eine nach § 3 Abs. 1, § 4 Abs. 1 oder § 5 Abs. 1 dieser Verordnung verbotene Handlung ohne die Befreiung nach § 9 vornimmt.
 
-(2) Ordnungswidrig im Sinne von § 41 Abs. 1 Nr. 2 WHG, § 161 Abs. 1 Nr. 2 LWG handelt, wer vorsätzlich oder fahrlässig eine nach § 3 dieser Verordnung verbotene Handlung ohne die Befreiung nach § 9 vornimmt.
+(2) Ordnungswidrig im Sinne von § 41 Abs. 1 Nr. 2 WHG und § 161 Abs. 1 Nr. 3 LWG handelt, wer vorsätzlich oder fahrlässig eine nach § 3 Abs. 2 dieser Verordnung genehmigungspflichtige Handlung ohne die Genehmigung nach § 8 vornimmt.
 
-(3) Ordnungswidrig im Sinne von § 41 Abs. 1 Nr. 2 WHG, § 161 Abs. 1 Nr. 2 LWG handelt, wer vorsätzlich oder fahrlässig gegen die Vorschriften in §§ 6 oder 7 dieser Verordnung verstößt.
+(3) Ordnungswidrigkeiten von Absätzen 1 und 2 können mit einer Geldbuße bis zu 100.000,00 DM belegt werden.
 
-(4) Die Ordnungswidrigkeit kann mit einer Geldbuße von 50,00 DM bis zu 100.000,00 DM geahndet werden.
+§ 12 Inkrafttreten
 
-§ 12 Überwachung
-
-Bestehende Anlagen oder Einrichtungen im Wasserschutzgebiet sind von Amts wegen durch die Untere Wasserbehörde zu prüfen und zu überwachen.
-
-§ 13 Andere Rechtsvorschriften
-
-(1) Ansprüche auf Entschädigungsleistung, Ausgleichszahlung für wirtschaftliche Nachteile oder pauschale Ausgleichszahlung in Härtefällen richten sich insbesondere nach § 19 WHG, §§ 15,134 und 135 LWG
-
-(2) Die ansonsten in Gesetzen oder aufgrund eines Gesetzes vorgesehenen Verbote, Genehmigungs-, Zulassungs-, Duldungs- und Anzeigepflichten oder Beschränkungen bleiben unberührt. Dies gilt insbesondere für die §§ 6,19 g, 19 h, 26 und 34 Wasserhaushaltsgesetz.
-
-§ 14 Inkrafttreten
-
-Diese Verordnung tritt eine Woche nach ihrer Verkündung im Amtsblatt für den Regierungsbezirk Münster in Kraft.
-
-Anlage 3
-
-zur Wasserschutzgebietsverordnung Hornheide / Haskenau der Stadtwerke Münster GmbH
-
-Zeichenerklärung
-
-V = Handlung oder Maßnahme ist verboten
-
-G = Handlung oder Maßnahme unterliegt der Genehmigungspflicht durch die zuständige Wasserbehörde
-
-Gehört zur Wasserschutzgebietsverordnung für das Einzugsgebiet der Wassergewinnungsanlagen Hornheide Haskenau vom 11. September 1998
-
-|  			 | Zone 			 | III 			 | II 			 | I
-
-| 1. 			 | Abfallentsorgungsanlagen
-
-| 1.1 			 | Errichten und Erweitern 			 | V
-G: Anlagen zum Lagern oder Behandeln von nicht nachteilig veränderten, natürlichen Locker- und Festgesteinen, die nicht Wasser gefährdend sind 			 | V 			 | V
-
-| 1.2 			 | wesentliches Ändern 			 | G 			 | V 			 | V
-
-| 2. 			 | Abgrabungen, Grabungen
-
-| 2.1 			 | über eine Tiefe von 2 m hinaus und über eine Fläche von 50 qm hinaus 			 | V
-Ausnahme:
-Maßnahmen für das Verlegen von Post- und Stromkabeln, für das Aufstellen von Masten, das Verlegen von Ver- und Entsorgungsleitungen
-
-Baugruben für genehmigungsfreie Bauvorhaben
-G: Baugruben für sonstige Bauvorhaben 			 |  			 | V
-
-| 2.2 			 | Abgrabungen, durch die
-das Grundwasser dauernd oder zeitweise freigelegt wird. 			 | V
-Ausnahme:
-Maßnahmen für das Verlegen von Post- und Stromkabeln, für das Aufstellen von Masten, das Verlegen von Ver- und Entsorgungsleitungen
-
-Baugruben für genehmigungsfreie Bauvorhaben (s. a. Ziffer 3 und 8)
-G:
-Baugruben für sonstige Bauvorhaben
-
-Anlegen von Blänken im Rahmen von Naturschutz-maßnahmen
-
-Anlegen von Feuerlöschteichen
-| V 			 | V
-
-| 3. 			 | Abwasseranlagen (s. § 2) (Errichten, Erweitern, Wiederherstellen, wesentliches Ändern) 			 | G 			 | V
-G: Sanierungsmaß-
-nahmen, die den
-Gewässerschutz verbessern 			 | V
-
-| 4. 			 | Abwasser, unbehandeltes
-
-| 4.1 			 | Schmutzwasser
-Einleiten in oberirdische Gewässer (Einleiten,
-Versickern Verrieseln in
-den Untergrund,
-Aufbringen) 			 | V 			 | V 			 | V
-
-| 4.2 			 | Niederschlagswasser von Dachflächen (Einleiten, Versickern, Verrieseln in den Untergrund) 			 | G: über technische
-Vorkehrungen zur beschleunigten Versickerung (z. B. Kiesbett, Rigole etc.)
-Ausnahme:
-unverschmutztes Niederschlagswasser von Wohnbebauung oder hinsichtlich der Belastung vergleichbarer Bebauung, welches über die belebte Bodenzone versickert wird (s.a. LUA Merkblatt Nr. 3,Seite 6) 			 | G 			 | V
-
-| 4.3 			 | Niederschlagswasser von bebauten, befestigten Flächen (wie z. B.: von Straßen, Wegen,Hofflächen, Parkplätzen) 			 |  			 |  			 |
-
-| 4.3.1 			 | aus Wohngebieten,
-hinsichtlich der Belastung vergleichbare Bebauung / Gebiete (auch Außenbereich) (Einleiten, Versickern, Verrieseln in den Untergrund) 			 | G: über technische Vorkehrungen zur beschleunigten Versickerung (z. B. Kiesbett, Rigole,
-etc.) 			 | V 			 | V
-
-| 4.3.2 			 | aus Industrie- und Gewerbegebieten 			 |  			 |  			 |
-
-| punktueller Eintrag in den Untergrund 			 | V 			 | V 			 | V
-
-| großflächiges Versickern (flächenhafter Eintrag) über die belebte Bodenzone in den Untergrund
-Hinweis: der RdErl. des
-MURL vom 4.1.1988 ist
-zu beachten 			 | G 			 | V 			 | V
-
-| 5. 			 | Abwasser, behandeltes
-
-| 5.1 			 | Schmutzwasser 			 |  			 |  			 |
-
-| 5.1.1 			 | Einleiten in oberirdische Gewässer, die
-anschließend die
-Zone II durchfließen 			 | V 			 | V 			 | V
-
-| 5.1.2 			 | Einleiten in oberirdische Gewässer, die
-anschließend nicht die
-Zone II durchfließen 			 | G 			 |  			 |
-
-| 5.1.3 			 | Aufbringen 			 | G 			 | V 			 | V
-
-| 5.1.4 			 | Einleiten (z.B. Verrieseln) in den
-Untergrund 			 | V
-G: Einleiten / Verrieseln
-aus Kleinkläranlagen 			 | V 			 | V
-
-| 5.2 			 | Niederschlagswasser
-(Einleiten in oberirdische Gewässer) 			 | G 			 | G 			 | V
-
-| 6. 			 | Abwasserbehandlungsanlagen (s. § 2)
-
-| 6.1 			 | Errichten 			 | V
-G: Regenklärbecken, Regenüberlaufbecken,
-Kleinanagen wie z. B.
-Amalganabscheider bei Zahnärzten; Leicht-
-flüssigkeitsabscheider; Kleinkläranlagen
-vorhandener Einzelan-
-wesen und Bauvorhaben
-nach § 35 Abs. 1
-Ziff. 1 und 2 und § 35
-Abs. 4 BauGB; Sanierungsmaßnahmen,
-die dem Gewässerschutz dienen 			 | V 			 | V
-
-| 6.2 			 | Erweitern, wesentl.
-Ändern 			 | G 			 | V 			 | V
-
-| 6.3 			 | Wiederherstellen 			 | G 			 | V
-G: Sanierungsmaß-
-nahmen,die den
-Gewässerschutz verbessern 			 | V
-
-| 7. 			 | Anflugsektoren
-Notabwurfplätze des Luftverkehrs ausweisen 			 | V 			 | V 			 | V
-
-| 8. 			 | Anlagen, bauliche
-
-| 8.1 			 | Errichten, Erweitern, Wiederherstellen,
-wesentliches Ändern, Nutzungsänderung 			 | G
-Ausnahme: genehmigungsfreie Bauvorhaben
-V: wenn Stoffe verwendet werden, bei denen die Gefahr der
-Auswaschung oder
-Auslaugung Wasser gefährdener Stoffe
-besteht 			 | V 			 | V
-
-| 8.2 			 | geringfügiges Ändern 			 |  			 | G 			 | V
-
-| 9. 			 | Anlagen zum Lagern
-natürlicher Locker- und Festgesteine, die nicht
-Wasser gefährdend sind
-(Errichten, Erweitern, wesentliches Ändern) 			 | G 			 | V 			 | V
-
-| 10. 			 | Anlagen zum Erzeugen, Bearbeiten, Verarbeiten
-oder Spalten von Kernbrennstoffen, zum Aufarbeiten bestrahlter Kernbrennstoffe und zum Erzeugen ionisierender Strahlen sowie das Lagern radioaktiver Stoffe 			 |  			 |  			 |
-
-| 10.1 			 | Errichten, Erweitern 			 | V
-Ausnahme: Lagern und
-Verwenden radioaktiver
-Stoffe sowie der Betrieb von Elektronenlinear-
-beschleunigern im medizinischen Bereich sowie im Bereich der Prüf-, Mess- und Regeltechnik 			 | V
-G: das Verwenden
-offener und
-umschlossener radioaktiver Stoffe
-zum Zwecke der Untersuchung des Fließverhaltens
-von Grundwasser
-strömen 			 | V
-
-| 10.2 			 | wesentliches Ändern
-(im Einzelfall nur, wenn
-solche Anlagen
-vorhanden sind) 			 | V
-Ausnahme: Lagern und
-Verwenden radioaktiver
-Stoffe sowie der Betrieb von Elektronenlinear-
-beschleunigern im medizinischen Bereich sowie im Bereich der Prüf-, Mess- und Regeltechnik 			 | V
-G: das Verwenden
-offener und
-umschlossener radioaktiver Stoffe
-zum Zwecke der Untersuchung des Fließverhaltens
-von Grundwasser strömen 			 | V
-
-| 11. 			 | Anlagen zum Güterum-
-schlag (Errichten,
-Erweitern, wesentliches Ändern) 			 | G 			 | V 			 | V
-
-| 12. 			 | Anlagen zum Lagern,
-Ablagern und Behandeln
-von Autowracks, Kraftfahrzeugschrott
-und Altreifen und
-sonstigen mineralöl-
-behafteten Teilen 			 |  			 |  			 |
-
-| 12.1 			 | Errichten, Erweitern 			 | V 			 | V 			 | V
-
-| 12.2 			 | wesentliches Ändern 			 | G 			 | V 			 | V
-
-| 13. 			 | Anlagen zum Lagern,
-Sammeln, Umschlagen, Abfüllen, Herstellen, Verwenden, Vertreiben
-oder Behandeln Wasser gefährdender Stoffe 			 |  			 |  			 |
-
-| 13.1 			 | Errichten, Erweitern 			 | V
-G: Anlagen zum Lagern von Heizöl für den Hausgebrauch sowie Dieselkraftstoff für landwirtschaftliche Betriebe, wenn die erforderlichen Sicherheitsmaßnahmen für Bau, Transport, Füllung, Leerung,
-Lagerung und Betrieb getroffen und einge
-halten werden;
-abgedichtete,eingefasste und überdachte Flächen zum Lagern von chemischen Mitteln für Pflanzenschutz, zur Schädlings- oder Aufwuchsbekämpfung sowie zur Wachstums-
-regelung mit einem maximalen Gesamtinhalt
-von 1 m³ und
-mineralischem Dünger mit einem maximalen Rauminhalt von 100 m³ sowie Branntkalk; Eigenverbrauchsanlagen für gewerbliche Betriebe bis zu 40.000 l Heizöl,
-dichte Behälter zum Sammeln oder Lagern von Silagesickersäften und Jauche sowie zum
-Sammeln von Gülle,
-ferner oberirdische dichte Behälter zum Lagern von Gülle
-Ausnahme: dichte Behälter zum Lagern geringer Mengen sonstiger Wasser gefährdender Stoffe 			 | V 			 | V
-
-| 13.2 			 | wesentliches Ändern 			 | G 			 | V 			 | V
-
-| 14. 			 | Anlagen, wassergefährliche (s. § 2)
-
-| 14.1 			 | Errichten, Erweitern von Großanlagen 			 | V
-G: Anlagen der Landwirtschaft 			 | V 			 | V
-
-| 14.2 			 | wesentliches Ändern von Großanlagen 			 | G 			 | V 			 | V
-
-| 14.3 			 | Errichten, Erweitern von sonstigen Anlagen 			 | V 			 | V 			 | V
-
-| 14.4 			 | wesentliches Ändern von sonstigen Anlagen 			 | G 			 | V 			 | V
-
-| 15. 			 | Badebetrieb an ober-
-irdischen Gewässern 			 | G 			 | V 			 | V
-
-| 16. 			 | Bahnanlagen (s. Verkehrsanlagen)
-
-| 17. 			 | Bahnhöfe (Errichten, wesentliches Ändern) 			 | V 			 | V 			 | V
-
-| 18. 			 | Baumschulen (s. Gartenbaubetriebe)
-
-| 19. 			 | Bauschuttaufbereitungs
-anlagen 			 |  			 |  			 |
-
-| 19.1 			 | Errichten, Erweitern 			 | V 			 | V 			 | V
-
-| 19.2 			 | wesentliches Ändern 			 | G 			 | V 			 | V
-
-| 20. 			 | Baustellen (Errichten und Erweitern, insbesondere
-in Form von Wohn- und Lagerbaracken bzw.
--wagen) 			 |  			 | V 			 | V
-
-| 21. 			 | Baustofflager (Errichten, Erweitern) 			 | G 			 | V 			 | V
-
-| 22. 			 | Befahren von Gewässern 			 |  			 |  			 |
-
-| 22.1 			 | mit Fahrzeugen ohne Verbrennungsmotor 			 |  			 | V 			 | V
-
-| 22.2 			 | mit Fahrzeugen mit Verbrennungsmotor 			 | V 			 | V 			 | V
-
-| 23. 			 | Bohrungen und
-Sprengungen 			 | G
-Ausnahme: Bohrungen für
-die geologische Landesaufnahme
-
-den Grundwasser-
-beobachtungsdienst
-
-Weidebrunnen
-
-Weidezäune
-
-zum Ziehen von Nährstoff-untersuchungen
-
-Brunnen für den Gemeingebrauch n.
-§ 33 WHG
-| V
-Ausnahme: Bohrungen für
-die geologische Landesaufnahme
-
-den Grundwasser-
-beobachtungsdienst
-
-Weidebrunnen
-
-Weidezäune
-
-zum Ziehen von Nährstoff-untersuchungen
-| V
-
-| 24. 			 | Dauergrünland
-(Umwandlung in eine
-andere landwirtschaft-
-liche oder garten-
-bauliche Nutzung) 			 | G 			 | V 			 | V
-
-| 25. 			 | Erdaufschlüsse (s. Abgrabungen)
-
-| 26. 			 | Festmistlager über einen Zeitraum von 1 Monat im Jahr hinaus an der selben Stelle 			 | V
-Anzeigepflicht: Lager
-mit wasserundurch-
-lässiger Bodenab-
-dichtung und geordneter Sickenwasserableitung
-Ausnahme: Trockener Putenmist, der gegen das Eindringen von Regenwasser gesichert wird 			 | V 			 | V
-
-| 27. 			 | Fischhaltung mit
-Zufütterung 			 | V
-G: wenn Aussickern von Teichwasser ins Grund-
-wasser ausgeschlossen
-ist. 			 | V 			 | V
-
-| 28. 			 | Fischteiche (Anlegen, Erweitern, wesentliches Ändern) 			 | V
-G: Fischteiche, die nicht
-das Grundwasser
-berühren
-ausgenommen: Zierteiche 			 | V 			 | V
-
-| 29. 			 | Friedhöfe
-
-| 29.1 			 | Neuanlagen 			 | V 			 | V 			 | V
-
-| 29.2 			 | Erweitern 			 | G 			 | V 			 | V
-
-| 30. 			 | Gartenbaubetriebe mit Gewächshäusern
-(Neuanlegen, Erweitern) 			 | G
-Ausnahme: geschlossene Gartenbausysteme mit Untergrundabdichtung 			 | V 			 | V
-
-| 31. 			 | Golfsportanlagen
-(Errichten, Erweitern, wesentliches Ändern) 			 | G 			 | V 			 | V
-
-| 32. 			 | Grabungen, Gräben (s. Abgrabungen)
-
-| 33. 			 | Güllebehalter (s. Anlagen zum Lagern Wasser gefährdender Stoffe) (s. Ziffer 13)
-
-| 34. 			 | Intensivkulturen (s. § 2) (Neuanlagen, Enweitern) 			 | G 			 | V 			 | V
-
-| 35. 			 | Klärschlamm, Müllkom-
-post auftragen aus
-genommen: reiner Grünkompost und
-Kompost aus der eigenen häuslichen Kompostierungsanlage 			 | V
-Ausnahme: landwirt-
-schaftliche Verwertung
-von Klärschlamm aus der eigenen Kleinkläranlage 			 | V 			 | V
-
-| 36. 			 | Kleingartenanlagen i. S.
-d. Bundeskleingarten-
-gesetzes (Neuanlagen, Erweitern) 			 | V 			 | V 			 | V
-
-| 37. 			 | Kompostierungsanlagen,
-mit Ausnahme von Kompostierungsanlagen
-für reine Grünabfälle und häusliche Kompostierungsanlagen 			 |  			 |  			 |
-
-| 37.1 			 | Errichten, Erweitern 			 | V 			 | V 			 | V
-
-| 37.2 			 | Wesentliches Ändern 			 | G 			 | V 			 | V
-
-| 38. 			 | Kompostierungsanlagen
-für reine Grünabfälle
-über 2 Tonnen zu kompostierender
-Stoffe / Jahr 			 | G 			 | V 			 | V
-
-| 39. 			 | Kühlwasser, unbelastetes (Versickern über die belebte Bodenzone und Einleiten
-in den Untergrund) 			 | G 			 | V 			 | V
-
-| 40. 			 | Leitungen mit Wasser gefährdenden Stoffen,
-wie z. B. ölgekühlte unterirdische Strom-
-leitungen (s. Rohr
-leitungen) 			 |  			 |  			 |
-
-| 41. 			 | Löschübungen und Erprobungen mit / von Schaummitteln 			 | V 			 | V 			 | V
-
-| 42. 			 | Märkte, Volksfeste, Ausstellungen oder
-ähnliche Veranstaltungen
-außerhalb dafür
-zugelassener Anlagen 			 | G 			 | V 			 | V
-
-| 43. 			 | Motorsport
-
-| 44. 			 | Nährstoffträger (s. § 2) ausgenommen
-Klärschlamm, Müllkompost 			 |  			 |  			 |
-
-| 44.1 			 | Aufbringen auf
-erwerbsmäßig genutzten Flächen 			 | V
-Ausnahme: Düngung
-nach § 6 			 | V
-Ausnahme:
-Düngung nach § 6 jedoch kein Wirtschaftsdünger
-wie Gülle, Jauche, Festmist 			 | V
-
-| 44.2 			 | Aufbringen auf öffentl.
-Flächen 			 | V
-Ausnahme: Düngung
-nach § 6 			 | V
-Ausnahme: Düngung nach § 6, jedoch kein Wirtschaftsdünger wie Gülle, Jauche, Festmist 			 | V
-
-| 44.3 			 | Aufbringen auf sonstige Flächen, z.B.: Haus und Kleingärten 			 | V
-Ausnahme: grundwasserschonende Düngung 			 | V
-Ausnahme:
-grundwasserschonende Düngung 			 | V
-
-| 44.4 			 | Aufbringen bei Besorgnis der Abschwemmung, insbesondere auf
-gefrorenem Boden oder
-auf hängigen Flächen 			 | V 			 | V 			 | V
-
-| 45. 			 | Netztierhaltung von
-Fischen 			 | V 			 | V 			 | V
-
-| 46. 			 | Notabwurfplätze des Luftverkehrs
-(s. Anflugsektoren) 			 |  			 |  			 |
-
-| 47. 			 | Parkplätze
-(s. Rastanlagen) 			 |  			 |  			 |
-
-| 48. 			 | Pferche (feste Pferche
-zum dauerhaften
-Aufenthalt) 			 | G 			 | V 			 | V
-
-| 49. 			 | Pflanzenbehandlungs- u. Schädlingsbekämpfungs
-mittel (PBSM) 			 |  			 |  			 |
-
-| 49.1 			 | Anwendung von in Wasserschutzgebieten
-nicht zugelassenen PBSM nach Pflanzen-
-schutzanwendungs-
-verordnung 			 | V 			 | V 			 | V
-
-| 49.2 			 | Anwendung von zuge-
-lassenen Mitteln auf erwerbsmäßig genutzten Flächen 			 | s. § 7 			 | s. § 7 			 | V
-
-| 49.3 			 | Anwendung von zuge-
-lassenen Mitteln auf öffentlichen Flächen 			 | s. § 7 			 | G 			 | V
-
-| 49.4 			 | Anwendung auf
-sonstigen Flächen,
-z.B. Gärten 			 | V
-Ausnahme: grundwasserschonende Anwendung 			 | V 			 | V
-
-| 50. 			 | Post- und Stromkabel
-(s. Versorgungsleitungen) 			 |  			 |  			 |
-
-| 51. 			 | Rastanlagen, Parkplätze. Stellplätze für mehr als
-10 Kfz 			 |  			 |  			 |
-
-| 51.1 			 | Errichten, Erweitern 			 | G 			 | V 			 | V
-
-| 51.2 			 | Unterhaltungsarbeiten 			 |  			 | G 			 | V
-
-| 52. 			 | Materialien mit auslaug-
-baren und auswasch-
-baren Anteilen
-(Recyclingmaterial) 			 | G 			 | V 			 | V
-
-| 53. 			 | Regenklärbecken (s. Abwasserbehandlungs-
-anlagen) (s. Ziffer 6) 			 |  			 |  			 |
-
-| 54. 			 | Rohrleitungen für Wasser gefährdende Stoffe sowie von Leitungen mit Wasser gefährdenden Stoffen Abwasserleitungen
-(s. unter Ziffer 3) 			 |  			 |  			 |
-
-| 54.1 			 | Errichten 			 | V
-G: Rohrleitungen inner-
-halb von Wohn- oder Betriebsgrundstücken mit ausreichenden Sicherheitsvorkehrungen
-gegen den Austritt Wasser gefährdender Stoffe in den Untergrund 			 | V 			 | V
-
-| 54.2 			 | Erweitern, wesentliches Ändern 			 | G 			 | V 			 | V
-
-| 55. 			 | Sammelstelle für Problemabfälle aus
-Haushalten und
-Kleingewerbe
-(Zwischenlager),
-stationär 			 |  			 |  			 |
-
-| 55.1 			 | Errichten, Erweitern 			 | V 			 | V 			 | V
-
-| 55.2 			 | wesentliches Ändern 			 | G 			 | V 			 | V
-
-| 56. 			 | Schießstätten im Freien 			 |  			 |  			 |
-
-| 56.1 			 | Errichten, Erweitern 			 | V 			 | V 			 | V
-
-| 56.2 			 | wesentliches Ändern 			 | G 			 | V 			 | V
-
-| 57. 			 | Silagen, Silagemieten
-(Anlegen) 			 | V
-Anzeigepflichtig: mit wasserundurchlässiger Bodenabdichtung und geordneter Sickerwasserableitung
-Ausnahme: Frischgut mit einem Trockensubstanz
-anteil von mindestens
-28 % 			 | V 			 | V
-
-| 58. 			 | Silagesilos (Errichten) 			 | G 			 | V 			 | V
-
-| 59. 			 | Sprengungen
-(s. Bohrungen) 			 |  			 |  			 |
-
-| 60. 			 | Startbahnen, Lande
-bahnen, Sicherheits
-lächen des Luftverkehrs 			 |  			 |  			 |
-
-| 60.1 			 | Ausweisen, Erweitern 			 | V 			 | V 			 | V
-
-| 60.2 			 | wesentliches Ändern 			 | G 			 | V 			 | V
-
-| 61. 			 | Stellplätze
-(s. Rastanlagen) 			 |  			 |  			 |
-
-| 62. 			 | Stoffe, Wasser
-gefährdende (s. § 2)
-(soweit diese Verordnung keine Sonderregelung
-trifft) 			 |  			 |  			 |
-
-| 62.1 			 | Einleiten in den
-Untergrund (z. B.
-Versickern oder
-Versenken) 			 | V 			 | V 			 | V
-
-| 62.2 			 | offenes Lagern außerhalb
-dafür vorgesehener
-Anlagen 			 | V 			 | V 			 | V
-
-| 62.3 			 | Lagern, Abfüllen,
-Sammeln, Umfüllen, Verarbeiten, Verwenden
-(s. Ziffer 13) 			 |  			 | V 			 | V
-
-| 62.4 			 | Transportieren 			 |  			 | V
-Ausnahme: im Anliegerverkehr 			 | V
-
-| 63. 			 | Straßen und Wege
-(Bauen neuer Straßen
-und Wege sowie wesentliches Ändern, soweit dies über Rahmen der üblichen Unterhaltung und örtlich begrenzten Verkehrs-
-sicherungsmaßnahmen hinausgeht.) 			 | G 			 | V
-G: Wirtschafts-
-wege 			 | V
-
-| 64. 			 | Stromkabel
-(s. Versorgungs-
-leitungen) 			 |  			 |  			 |
-
-| 65. 			 | Tierleichen,
-Vergraben von 			 | V 			 | V 			 | V
-
-| 66. 			 | Umladestationen für
-reine Grünabfälle über
-2 Tonnen angelieferter Stoffe / Jahr (Errichten, Erweitern,
-wesentliches Ändern) 			 | G 			 | V 			 | V
-
-| 67. 			 | Versorgungsleitungen
-
-| 67.1 			 | Stromleitungen mit flüssigen, Wasser gefährdenden Kühl-
-und Isoliermitteln 			 |  			 |  			 |
-
-| 67.1.1 			 | Errichten, Erweitern 			 | V
-G: oberirdische Leitungen 			 | V
-G: oberirdische Leitungen 			 | V
-
-| 67.1.2 			 | wesentliches Ändern 			 | G 			 | G 			 | V
-
-| 67.2 			 | sonstige Versorgungsleitungen 			 |  			 |  			 |
-
-| 67.2.1 			 | Verlegen 			 |  			 | V
-G: Post- und
-Stromkabel;
-notwendige Versorgungsleitungen
-für das Wasserwerk 			 | V
-
-| 67.2.2 			 | Unterhaltungsmaß-
-nahmen 			 |  			 |  			 | V
-
-| 68. 			 | Verkehrsanlagen der Bahn, soweit nicht anderweitig geregelt
-
-| 68.1 			 | Ausweisen, Bauen, Erweitern,
-wesentliches Ändern 			 | G 			 | V 			 | V
-
-| 68.2 			 | Unterhaltungsmaß-
-nahmen 			 | G
-Ausnahme: Unter-
-haltungsmaßnahmen, die
-aus Gründen der Verkehrssicherheit oder
-zur Abwendung einer gegenwärtigen Gefahr notwendig sind 			 | G
-Ausnahme: Unterhaltungs-
-maßnahmen, die aus Gründen der Verkehrssicherheit oder zur Abwendung einer gegenwärtigen Gefahr notwendig sind 			 | V
-
-| 69. 			 | Wärmepumpen
-(s. § 2)
-(Errichten, Erweitern, wesentliches Ändern) 			 | G 			 | V 			 | V
-
-| 70. 			 | Wald
-
-| 70.1 			 | Kahlschlag (s. § 2) 			 | G
-Ausnahme: Wenn wald-
-bauliche Maßnahmen ein sofortiges Handeln
-zwingend erforderlich
-machen. Diese sind der Unteren Wasserbehörde
-über das zuständige
-Forstamt unverzüglich anzuzeigen. 			 | V
-Ausnahme: Wenn waldbauliche Maßnahmen ein sofortiges Handeln zwingend erforderlich machen. Diese sind der Unteren Wasserbehörde über das zuständige Forstamt unverzüglich anzuzeigen. 			 | V
-
-| 70.2 			 | Umwandeln von Wald
-und forstwirtschaftlich genutzten Flächen in andere Nutzungsarten 			 | G 			 | V 			 | V
-
-| 70.3 			 | Bodenschutzkalkung 			 | G
-Ausnahme: Wenn wald
-bauliche Maßnahmen ein sofortiges Handeln
-zwingend erforderlich
-machen. Diese sind der Unteren Wasserbehörde
-über das zuständige
-Forstamt unverzüglich anzuzeigen. 			 | G
-Ausnahme: Wenn waldbauliche Maßnahmen ein sofortiges Handeln zwingend erforderlich machen. Diese sind der Unteren Wasserbehörde über das zuständige Forstamt unverzüglich anzuzeigen. 			 | V
-
-| 70.4 			 | Einsatz von Kettenschmiermitteln
-für Motorsägen ohne Umweltzeichen (Blauer Engel) des Deutschen Instituts für Gütesicherung und Kennzeichnung (RAL) 			 | V 			 | V 			 | V
-
-| 71. 			 | Wasser gefährdende Stoffe
-(s. Ziffer 62) 			 |  			 |  			 |
-
-| 72. 			 | Zelten und Lagern 			 | V
-Ausnahme: innerhalb dafür vorgesehener Einrichtungen 			 | V 			 | V
-
-Anlage
-:
-
-32.20.pdf
+Diese Verordnung tritt einen Tag nach ihrer Verkündung im Amtsblatt für den Regierungsbezirk in Kraft.
 
 Zurück
