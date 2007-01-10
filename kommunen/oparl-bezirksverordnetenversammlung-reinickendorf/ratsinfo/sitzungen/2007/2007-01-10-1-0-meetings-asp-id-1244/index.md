@@ -1,0 +1,55 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2007-01-10T17:00:00+01:00
+- Ende: 2007-01-10T21:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1244
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1244
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=32758
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Girl's Day in Reinickendorf - beantwortet
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Nachwahl eines ordentlichen Mitgliedes für den Beirat in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Anträge - (offen)
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: Kostenlose Angebote der Berliner AIDS-Hilfe e.V. - überwiesen
+- TOP 9.2: Bessere Sicht für Schulkinder am Laurinsteig - überwiesen
+- TOP 9.3: Rechtsextreme Straftaten - überwiesen
+- TOP 9.4: Kleine Hermsdorfer Synagoge - Falkentaler Steig 16 - überwiesen
+- TOP 9.5: Jugendrechtshaus - überwiesen
+- TOP 9.6: Äußerungen von Mitarbeiterinnen und Mitarbeitern des Bezirksamtes in parteilichen Publikationen - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: PPP-Beratungen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Parkraumbewirtschaftung im Bereich Tegel City realisieren - überwiesen
+- TOP 9.9: Unterrichtscontainer für die Bettina-von-Arnim-Oberschule - überwiesen
+- TOP 9.10: Fußgängerübergang am U- und S-Bahnhof Wittenau wieder öffnen - überwiesen
+- TOP 9.11: Verkehrsfluss an der Kreuzung Oranienburger Str. / Eichborndamm verbessern - überwiesen
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: Spurenkennzeichnung an der BAB-Abfahrt Ruppiner Chaussee - in der BVV zurückgezogen
+- TOP 10.2: Fahrradständer am S-Bahnhof Hermsdorf einrichten - überwiesen
+- TOP 10.3: Feuerwehr in Hermsdorf und Lübars - überwiesen
+- TOP 10.4: Informationen für den Übergang an Oberschulen deutlich verbessern - überwiesen
+- TOP 10.5: Ausstellung der Botschaft des Staates Israel "Ein Visum fürs Leben" - überwiesen
+- TOP 10.6: Keine Reduzierung von Personal auf den Reinickendorfer S-Bahnhöfen - überwiesen
+- TOP 10.7: Mehr Sicherheit auf dem Schulweg zur Berta-von-Suttner-Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 11: Schließung von Polizeidienststellen - Wählertäuschung durch den Senat? - beantwortet
+- TOP 11.1: Schließung von Polizeidienststellen - (offen)
+- TOP 12: Erhöhtes Verkehrsaufkommen in der Auguste-Viktoria-Allee - beantwortet
+- TOP 12.1: Aufstellung von Feuerwehr-Absperrpfählen in der Auguste-Viktoria-Allee - überwiesen
+- TOP 13: Umgestaltung rund um den Franz-Neumann-Platz - überwiesen
+- TOP 14: NPD-Gebührenzahlung zielgerichtet für Namibia-Schul-Aktionen einsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Materialien für PPP - überwiesen
+- TOP 16: Schwellen in der Auguste-Viktoria-Allee nicht entfernen - ohne Änderungen in der BVV beschlossen
+- TOP 17: Zusätzliche Haushaltsmittel für 2007 an die Abteilung Jugend und Familie - überwiesen
