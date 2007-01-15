@@ -1,0 +1,71 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2007-01-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1047063
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1047063
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Fahrradständer am U-Bahnhof OEZ - <div>Kenntnisnahme</div>
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: 1200-Jahr-Feier Moosachs - <div>nach Antrag</div>
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Zuschuss für 1200-Jahr-Feier Moosachs - <div>nach Antrag</div>
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10: ASZ Moosach: Deutschkurs für Migrant/innen - <div>vertagt</div>
+- TOP 6.: Anhörungen
+- TOP 6.1.: Anordnung einer Bushaltestelle für die Linie 175 in der Oskar-Barnack-Str.
+- TOP 6.2.: Anhörungsverfahren zur Änderung der Volksschulorganisation in der Landeshauptstadt München; Sprengeländerung der Grundschulen Amphionpark, Maria-Ward-Str., Südl. Auffahrtsallee, Winthirplatz
+- TOP 6.3.: Änderungsgenehmigung für die Abfallentsorgungsanlage (Schrott- und Mettalllagerplatz) der Firma eiber & kunz - <div>Aufgegriffen; ggf. Verweisung in UA Bau</div>
+- TOP 6.4.: Magnetschwebebahn München (Transrapid): Beschlusslage und Folgeaktivitäten, Kosten- und Finanzierungsproblem, Weiteres Vorgehen, Bürgerversammlungsempfehlungen
+- TOP 6.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Anbringung einer Radweg- und Fußgängerfurtmarkierung an der Einmündung Gubestr. / Baubergerstr. ( U-Bahn Behelfsausfahrt) - entsprochen, rote Signalfarbe abgelehnt -
+- TOP 7.2.: Schragenhofstraße, Allacher Straße, Wintrichring: 1. Instandsetzung oder Erneuerung von Fahrbahnmarkierungen - abgelehnt - 2. Pflege der Straßenrandbepflanzungen - durchgeführt -
+- TOP 7.3.: Jugendlager Kapuzinerhölzl zum Oktoberfest (Zwischenmitteilung des Kreisjugendrings)
+- TOP 7.4.: Erhalt der Baumschutzverordnung (Zwischennachricht des Direktoriums)
+- TOP 7.5.: Sanierung des Bereiches der südseitigen Baubergerstraße zwischen Gubestraße und Dachauer Straße zeitgleich mit den Wiederherstellungsmaßnahmen Bunzlauer Straße, Moosacher Stachus - entsprochen -
+- TOP 7.6.: Müllablagerungen am ehemaligen Ladehof beim Moosacher Bahnhof - entsprechende Schritte wurden inzwischen eingeleitet -
+- TOP 7.7.: Verlegung der Wertstoffinsel in der Karlingerstraße - abgelehnt -
+- TOP 7.8.: Reinigung des U-Bahnhofs OEZ sowie der Bushaltestellen am OEZ (Mitteilung des Reinigungsturnus)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Münchner Wohnungsbaugesellschaften verpflichen sich dem Klimaschutz (vertagt)
+- TOP 8.4.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München (vertagt)
+- TOP 8.5.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Beschlüsse des Verwaltungs- und Personalauschusses): 8.5.1 Fahrtkostenübernahme für behinderte BA-Mitglieder 8.5.2 Beteiligung der Bezirksausschüsse bei Baumfällungen 8.5.3 Beteiligung der Bezirksausschüsse durch Städtisches Klinikum München GmbH 8.5.4 Übertragung des Entscheidungsrechtes bei der Schließung dezentraler Kultureinrichtungen auf die Bezirksausschüsse 8.5.5 Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen 8.5.6 Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo 8.5.7 Änderung der BA-Satzung: Ausschluss wegen persönlicher Beteiligung
+- TOP 8.6.: 850. Stadtgeburtstag
+- TOP 8.7.: Sozialticket (Schreiben der Rechtsanwälte Bethke und King)
+- TOP 8.8.: Verkehrliche Anordnung Pelkovenstraße
+- TOP 8.9.: Zusatz Rettungsweg zum absoluten Halteverbot In den Kirschen in Höhe Hubschrauberlandeplatz
+- TOP 8.10.: Vergabe eines unbebauten Grundstücks an der Hanauer- / Dessauer Straße
+- TOP 8.11.: Umzug der BA-Geschäftsstelle Nord
+- TOP 8.12.: Multiplikatorenschulungen in den städtischen Bewohnertreffs; Wohnforum München gGmbH - Projekt "MiTunsS"; Einmaliger Zuschuss / Haushaltjahr 2007
+- TOP 8.13.: Zweckentfremdung von Wohnraum: Abensbergstraße 49
+- TOP 8.14.: Fällungsgenehmigung Bauvorhaben Seydlitzstr. 5
+- TOP 8.15.: Fällungsgenehmigung Plauener Str. 13
+- TOP 8.16.: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011
+- TOP 8.17.: Veranstaltungen des Kulturreferates
+- TOP 8.18.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten (Schreiben der Bezirksausschüsse 1 Altstadt-Lehel und 3 Maxvorstadt)
+- TOP 8.19.: 1200 Jahre Moosach - Informationsveranstaltung am 19.01.07
+- TOP 8.20.: Protokoll der Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse am 30.11.06
+- TOP 8.21.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2007
+- TOP 8.22.: Bevölkerungsprognosen 2006 der Landeshauptstadt München
+- TOP 8.23.: Satzungen über die Genehmigungspflicht von Grundstückteilungen (Teilungssatzungen)
+- TOP 8.24.: Ökologische Hochhäuser (Antrag der Stadtratsfraktion Bündnis 90 / DIE GRÜNEN / RL)
+- TOP 8.25.: Investitionsprogramm für städtische Freisportanlagen, Sachstandsbericht 2006
+- TOP 4: Anträge
