@@ -1,8 +1,8 @@
 # die Überprüfung der Einhaltung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit, soweit erforderlich in Zusammenarbeit mit dem Beauftragten für den Haushalt; 2.4 vorbeugende Aufklärungsarbeit (Prävention) und Beratung, insbesondere auch zur Bekä
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2005-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1425.1
+- Datum: 2007-01-15 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1425.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -11,7 +11,7 @@
 1.
 Einrichtung, Zuständigkeit
 
-Im Sächsischen Staatsministerium für Kultus ist eine Innenrevision eingerichtet. Die Innenrevision ist dem Referatsleiter 16 – Gesetzgebungsvorhaben und Innenrevision – unterstellt.
+Im Sächsischen Staatsministerium für Kultus ist eine Innenrevision eingerichtet. Die Innenrevision ist dem Referatsleiter 15 – Allgemeine Rechtsangelegenheiten und Innenrevision – unterstellt.
 Die Innenrevision ist für den gesamten Geschäftsbereich des Sächsischen Staatsministeriums für Kultus zuständig.
 
 2.
@@ -42,7 +42,7 @@ Alle Behörden und Einrichtungen des Geschäftsbereichs und ihre Mitarbeiter sin
 3.5
 Unterlagen der Innenrevision sind getrennt von anderen Vorgängen sicher aufzubewahren.
 3.6
-Die Vorschriften der Verwaltungsvorschrift der Sächsischen Staatsregierung über die Behandlung von Verschlußsachen (Verschlußsachenanweisung – VSA ) vom 19. Mai 1992 (SächsABl. SDr. S. S373), geändert und zuletzt verlängert durch Verwaltungsvorschrift vom 21. Dezember 2004 (SächsABl. 2005 S. 3), und andere besondere Geheimhaltungsvorschriften sind zu beachten.
+Die Vorschriften der Verwaltungsvorschrift der Sächsischen Staatsregierung über die Behandlung von Verschlußsachen (Verschlußsachenanweisung – VSA) vom 19. Mai 1992 (SächsABl. SDr. S. S373), geändert und zuletzt verlängert durch Verwaltungsvorschrift vom 21. Dezember 2004 (SächsABl. 2005 S. 3), und andere besondere Geheimhaltungsvorschriften sind zu beachten.
 3.7
 Über den Prüfungsverlauf sind schriftliche Aufzeichnungen zu führen. Insbesondere sind die Übernahme von Akten und Unterlagen sowie wesentliche Feststellungen zum Sachverhalt festzuhalten.
 
