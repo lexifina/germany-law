@@ -1,0 +1,7 @@
+# TOP 3.5.: KVR: Haltverbot vor der Kita Elvirastr. 2 (Schreiben BA 9 vom 19.09.06)
+
+- Sitzung: BA 09 - Vollgremium (2007-01-16)
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/79756
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/79756
