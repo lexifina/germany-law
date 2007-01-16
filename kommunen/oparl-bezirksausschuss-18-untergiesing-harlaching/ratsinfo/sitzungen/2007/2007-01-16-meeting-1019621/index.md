@@ -1,0 +1,122 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2007-01-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1019621
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1019621
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: neue Ampelanlage an der Bus-Haltestelle Lebscheestraße; Bürgerschreiben vom 30.12.2006
+- TOP 2.2.: Raumsuche des Sozialpsychiatrischen Dienstes Giesing; Genehmigung nach Nr. 7.1 der Zweckentfremdungsverordnung; Schreiben des Sozialpsychiatrischen Dienstes vom 29.12.2006
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Ökumen. Sozialstation Giesing-Harlaching, für die Maßnahme: 30-Jahr-Feier am 23.11.2006; Antragssumme: 287,83 Euro; Beschlussvorlage des Direktoriums vom 12.12.2006 zu 3.1.2.1 Ergänzungsvorlage des Direktoriums vom 29.12.2006 - <div>einstimmig zugestimmt</div>
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Antrag auf Erweiterung der Einbahnstraßenregelung der Lautererstraße; Antwortschreiben des KVR vom 15.12.2006 zum Antrag des BA 18 vom 24.10.2006 - <div>Ortstermin und Verkehrszählung</div>
+- TOP 3.1.: Soyerhofstraße 6 - 8; eingeschränktes Haltverbot; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR vom 20.12.2006
+- TOP 3.2.: Neues Wegweisungssystem für den Radverkehr; Systemdarstellung und weiteres Vorgehen; Beschluss des Bauausschusses vom 05.12.2006 (SB)
+- TOP 3.3.: Obere Weidenstraße; Haltverbote für Feuerwehranfahrt; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR vom 04.12.2006
+- TOP 3.4.: Scharfzantweg / Brücke über den Auer Mühlbach; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR vom 22.11.2006
+- TOP 3.5.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München; Beschluss der Vollversammlung des Stadtrates vom 13.12.2006
+- TOP 3.3.3: UA Umwelt
+- TOP 1: (E) Aufstellung von mehr und größeren Papierkörben am Hochvogelplatz als Maßnahme gegen die dortige Verschmutzung Empfehlung Nr. 02-08 / E 00595 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 05.10.2006
+- TOP 1.1.: Bürgerinformationsveranstaltung bezüglich der Umbauphase im Perlacher Forst - <div>mehrheitlich zugestimmt</div>
+- TOP 1.2.: Führungen durch den Perlacher Forst - <div>einstimmig zugestimmt</div>
+- TOP 1.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung / -bestandteil; Unterrichtung über das Fällen von Gefahrenbäumen; Mitteilung des Baureferats vom 04.12.2006 - <div>zur Kenntnis genommen</div>
+- TOP 1.2.: Ökologische Hochhäuser; Antrag Nr. 02-08 / A 01913 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 24.08.2004; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.2007 - <div>zur Kenntnis genommen</div>
+- TOP 1.3.4: UA Soziales
+- TOP 1.1.: Zukunft des Kindergartens St. Franziskus in Untergiesing / Standortsuche (Ziffer 1 des Antrages); Empfehlung Nr. 02-08 / E 00615 der Bürgerversammlung des Stadtbezirkes 18 am 05.10.2006; Beschluss des Schulausschusses des Stadtrates vom 28.02.2007 (SB); Zuleitung des Schul- und Kultusreferats vom 18.12.2006 mit der Bitte um Stellungnahme - <div>siehe TOP 3.4.4.2</div>
+- TOP 1.2.: Realisierung eines Neubaus für den Kindergarten St.-Franziskus / Birkenleiten 4 auf dem Candidplatz
+- TOP 1.1.: Räumlichkeiten Kindergarten St. Franziskus; Antwortschreiben der 2. Bürgermeisterin vom 21.12.2006 zu 3.4.5.1 Bürgerschreiben zur Thematik - <div>zur Kenntnis genommen; siehe TOP 3.4.4.2</div>
+- TOP 1.2.: 4F-circle-Bewegungsinseln - Informationsmaterial; Antwortschreiben des Baureferats-Gartenbau vom 07.12.2006 zur Anfrage des BA 18 vom 27.11.2006
+- TOP 1.3.: 4-F-circle-Bewegungsinseln; Befürwortung seitens des Bezirksausschusses
+- TOP 1.1.: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 20.11.2006; Zuleitung des Sozialreferats vom 21.12.2006
+- TOP 1.2.: Investitionsprogramm für städtische Freisportanlagen; Sachstandsbericht 2006; Bekanntgabe im Sportausschuss des Stadtrates vom 12.12.2006
+- TOP 1.3.: Schüler/innen und Klassenstand; Berufliche Schulen der Landeshauptstadt München im Schuljahr 2006/2007; Stand 20.10.2006; Bekanntgabe im Schulausschuss des Stadtrates am 10.01.2007
+- TOP 1.4.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2006/2007
+- TOP 1.5.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2006/2007
+- TOP 1.6.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städt. Franz-Auweck-Abendschule; Schuljahr 2006/2007; Bekanntgabe im Schulausschuss des Stadtrates vom 10.01.2007
+- TOP 1.7.: Kindertagesstätten freigemeinnütziger Träger; Waldorfkindergarten Harlaching an der Grünwalder Straße 196, 18. Stadtbezirk Untergiesing-Harlaching; Leistung eines Baukostenzuschusses für Umbauarbeiten zur Schaffung eines Kindergartens; Beschluss des Schulausschusses des Stadtrates vom 10.01.2007 (SB)
+- TOP 1.8.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2006/2007; Bekanntgabe im Schulausschuss des Stadtrats vom 10.01.2007
+- TOP 1.9.: Beteiligungs- und Entscheidungsrechte der BA´s bei Standortfragen und Baumaßnahmen für Kindertagesstätten; Stellungnahmen des BA 1 vom 08.12.2006 und BA 3 vom 21.12.2006
+- TOP 1.3.5: UA Bau und Planung
+- TOP 1.1.: Vollzug von § 13 der BA-Satzung, Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen); hier: Schönstraße, 10 Großflächentafeln, beleuchtet, befristet auf die Dauer der Bauarbeiten; Zuleitung der Lokalbaukommission mit der Bitte um Stellungnahme binnen eines Monats
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Anwesen im Fliederweg; Anhörung vom 20.12.2006
+- TOP 1.1.: Baufälle im 18. Stadtbezirk
+- TOP 1.2.: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011; Beschluss der Vollversammlung des Stadtrates vom 13.12.2006
+- TOP 1.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.3.1 Kleingaststätte "APO-Imbiss", Humboldstraße; Mitteilung vom 29.12.2006 3.5.6.3.2 SSW "Papa Pizza", Tegernseer Landstraße; Mitteilung vom 29.12.2006
+- TOP 1.4.: Satzungen über die Genehmigungspflicht von Grundstücksteilungen (Teilungssatzungen); Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.2007 (SB)
+- TOP 1.1.: Fußgängerunterführung Tegernseer Landstraße auf Höhe des Agfa-Geländes - Umgestaltung; Schreiben des BA 17 vom 19.12.2006 mit der Bitte um Rückäußerung
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: Kultur im Stadtquartier; Zwischenbericht; Zuleitung des Kulturreferats vom 22.12.2006
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Icho-Fußgängerunterführung - Sachstandsbericht bezüglich der Umgestaltung
+- TOP 4.2.: Einkaufswägen an der Grünfläche Hans-Mielich-Platz - <div>zurückgezogen</div>
+- TOP 4.3.: Verbleib des von der Bürgerinitiative "mehr Platz zum Leben" gespendeten "Wetterhäuschens" - <div>zurückgezogen</div>
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München; Zusammenfassende Änderungssatzung; Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 4.2.: Änderung der Bezirksausschuss-Satzung; Beteiligung der Bezirksausschüsse bei Baumfällungen; Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006 (VB)
+- TOP 4.3.: Beteiligung der Bezirksausschüsse durch Städtisches Klinikum München GmbH; Beschluss der Gesellschafterin gemäß § 7 Abs. 3 Gesellschaftervertrag der Fa. Städtisches Klinikum München GmbH; Änderung der Bezirksausschuss-Satzung; Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006 (VB)
+- TOP 4.4.: Änderung der Bezirksausschuss-Satzung; Übertragung des Entscheidungsrechtes bei der Schließung dezentraler Kultureinrichtungen auf die Bezirksausschüsse; Beschluss des Verwaltungs- u. Personalausschusses vom 06.12.2006 (VB); Beschluss der Vollversammlung des Stadtrats vom 13.12.2006
+- TOP 4.5.: Änderung der Bezirksausschuss-Satzung; Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen (Ziff. 2 des Antrages); Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006 (VB) - <div>zur Kenntnis genommen </div>
+- TOP 4.6.: Änderung der Bezirksausschuss-Satzung; Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo; Beschluss des Verwaltungs- u. Personalausschusses vom 06.12.2006 (VB) - <div>zur Kenntnis genommen </div>
+- TOP 4.7.: Änderung der Bezirksausschuss-Satzung; Fahrtkostenübernahme für behinderte BA-Mitglieder; Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006 (VB) - <div>zur Kenntnis genommen </div>
+- TOP 4.8.: Änderung der Bezirksausschuss-Geschäftsordnung; Ausschluss wegen persönlicher Beteiligung; Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006 - <div>zur Kenntnis genommen </div>
+- TOP 4.9.: Bevölkerungsprognosen 2006 der Landeshauptstadt München; Sitzungsvorlagen Nr. 02-08 / V 09193; Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 10.01.2007 - <div>zur Kenntnis genommen</div>
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
