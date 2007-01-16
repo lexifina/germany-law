@@ -1,0 +1,7 @@
+# TOP 4.1.: Icho-Fußgängerunterführung - Sachstandsbericht bezüglich der Umgestaltung
+
+- Sitzung: BA 18 - Vollgremium (2007-01-16)
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/79925
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/79925
