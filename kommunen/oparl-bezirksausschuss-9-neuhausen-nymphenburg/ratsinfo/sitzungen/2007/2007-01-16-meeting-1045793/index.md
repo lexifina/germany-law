@@ -1,0 +1,125 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2007-01-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1045793
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1045793
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.4: Beschlussvorlagen
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Baumaßnahmen der Stadtwerke München im Dezember 2006
+- TOP 3.2.: KVR: Fernwärmearbeiten Pfänderstraße
+- TOP 3.3.: Polizeiinspektion 44: Bürgeranliegen Verkehrsberuhigung Barellistraße (Schreiben BA 9 vom 21.11.06)
+- TOP 3.4.: Bürgeranliegen: Werbeanhänger auf öffentlichem Verkehrsgrund
+- TOP 3.5.: KVR: Haltverbot vor der Kita Elvirastr. 2 (Schreiben BA 9 vom 19.09.06)
+- TOP 3.6.: Bürgeranliegen: Ampelanlage Nymphenburger-/Alfonsstraße
+- TOP 3.7.: Rathaus-Umschau: Überprüfung der Ampelschaltung im Bereich der Kreuzung Roman-/Hubertusstraße (Antrag aus dem Stadtrat)
+- TOP 3.8.: Bürgeranliegen: Radfahren in Nymphenburg
+- TOP 3.9.: Bürgeranliegen: 1. Radfahrsituation in der Winthir-/Nibelungenstraße 2. parkende Lieferautos am Christkindlmarkt Rotkreuzplatz
+- TOP 3.11.: Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 28.02.07: Magnetschwebebahn München Hauptbahnhof - Flughafen; Beschlusslage und Folgeaktivitäten; Kosten- und Finanzierungsproblematik; weiteres Vorgehen; Bürgerversammlungsempfehlungen
+- TOP 3.12.: Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung: Projekt Hauptbahnhof-Laim-Pasing, Fuß- und Radwegekonzept ( Antrag BA 9 Nr. 1359 vom 18.07.06 und Empfehlung Nr. 636 der Bürgerversammlung vom 23.11.06)
+- TOP 3.13.: Planungsreferat: Wie ist die nördliche Verkehrsführung von dem jetzigen ESV Sportplatz nach der Bebauung geplant ? (Anfrage aus der Bürgerversammlung vom 23.11.06)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Planungsreferat: Bautennachweise vom 04.12. - 10.12. und 11.12. - 17.12.06
+- TOP 3.2.: Bürgeranliegen: Nymphenburger Str. 90 e, Nutzungsänderung der Ladenfläche im Erdgeschoss
+- TOP 3.3.: Kommunalreferat: Mitteilung über ein Grundstücksgeschäft; hier: Menzinger-/Kuglmüllerstraße
+- TOP 3.4.: Planungsreferat: Regionalgespräche mit der Lokalbaukommission am 23.01., 06.02. oder 07.02.2007
+- TOP 3.5.: Beschluss der Vollversammlung des Stadtrats vom 13.12.06: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 3.6.: Interwerbung: Erstellen von Sammelinformationsanlagen im Bereich 9. Stadtbezirk
+- TOP 3.8.: Beschluss der Vollversammlung des Stadtrats vom 13.12.06: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011
+- TOP 3.10.: Beschluss der Vollversammlung des Stadtrats vom 13.12.06: Zentrale Bahnflächen München; Bebauungsplan mit Grünordnung Nr. 1926 a Bereich Birketweg zwischen Hirschgarten, Arnulf-, Schäringer-, Richelstraße, Donnersbergerbrücke und südlich bis Gleisbereich; Satzungsbeschluss
+- TOP 3.11.: Planungsreferat: Plangenehmigung nach § 18 Allgemeines Eisenbahngesetz für den Neubau einer Außenreinigungsanlage Nähe Birketweg, Planänderungsbescheid
+- TOP 3.12.: Zweckentfremdung:
+- TOP 3.13.: Bürgeranliegen: Vollzug der Zweckentfremdungsverordnung; hier: Jagdstraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Schachenmeierstr. 12 - 18: Fällung von 1 Linde
+- TOP 3.2.: Schachenmeierstr. 20 - 28: Fällung von 3 Birken
+- TOP 3.3.: Schachenmeierstr. 42 - 46: Fällung von 2 Birken
+- TOP 3.4.: Schachenmeierstr. 48 - 56: Fällung von 1 Eberesche und 1 Ahorn
+- TOP 3.5.: Schachenmeierstr. 58 - 66: Fällung von 1 Birke und 1 Robinie
+- TOP 3.6.: Hilblestr. 25 - 49: Fällung von 2 Birken, 1 Linde und 2 Ahorn
+- TOP 3.7.: Pfänderstr. 2: Fällung von 1 Robinie und 1 Euonymus europaeus
+- TOP 3.8.: Steubenplatz 5: Fällung von 1 Pflaume und 1 Linde
+- TOP 3.9.: Stupfstr. 15 a: Fällung von 3 Kirschen und 1 Ahorn
+- TOP 3.10.: Bolivarstr. 8: Fällung von 3 Ahorn und 1 Esche
+- TOP 3.11.: Waskestr. 7: Fällung von 1 Birke und Kronensicherungsschnitt an 1 Birke
+- TOP 3.12.: Nodungstr. 1: Fällung von 1 Kirsche und 1 Birke
+- TOP 3.13.: Gelfratstr. 7: Fällung von 1 Ahorn und 1 Eiche
+- TOP 3.14.: Dantestr. 1: Fällung von 1 Weide und 1 Ahorn
+- TOP 3.15.: Dom-Pedro-Str. 39: Fällung von 1 Nussbaum
+- TOP 3.16.: Taschnerstr. 14: Fällung von 2 Eschen
+- TOP 3.17.: Ludwig-Ferdinand-Pl. 9: Fällung von 1 Pappel
+- TOP 3.18.: Prinzenstr. 62: Fällung von 1 Birke
+- TOP 3.19.: Planungsreferat: Fällungsgenehmigung Merianstr. 30 a
+- TOP 3.20.: Planungsreferat: Fällungsgenehmigung Bandelstr. 24
+- TOP 3.21.: Planungsreferat: Fällungsgenehmigung Dall´Armistr. 3 a
+- TOP 3.22.: Planungsreferat: Fällungsgenehmigung Ludwig-Ferdinand-Pl. 9
+- TOP 3.23.: Planungsreferat: Fällungsgenehmigung Menzinger Str. 8
+- TOP 3.24.: Planungsreferat: Fällungsgenehmigung Romanstr. 24
+- TOP 3.25.: Planungsreferat: Fällungsgenehmigung Romanstr. 15
+- TOP 3.26.: Planungsreferat: Fällungsgenehmigung Bandelstr. 18
+- TOP 3.27.: Planungsreferat: Fällungsgenehmigung Kelheimer Str. 1
+- TOP 3.28.: Planungsreferat: Fällungsgenehmigung Dall´Armistr. 43
+- TOP 3.29.: Abfallwirtschaftsbetrieb München: Glascontainer Marsstr. 70 (Anfrage aus der Bürgerversammlung vom 23.11.06)
+- TOP 3.30.: Beschluss der Vollversammlung des Stadtrats vom 13.12.06: Änderung der Bezirksausschuss-Satzung; Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 3.31.: Bayerisches Staatsministerium für Umwelt, Gesundheit und Verbraucherschutz: Erhalt der Baumschutzverordnung (Schreiben BA 9 vom 21.11.06)
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Beschlussvorlage Direktorium: Antrag Innere Mission München: Zuschuss in Höhe von 2973,68 ? für die Ausstattung der Gruppen- und Nebenräume der TWG Barellistraße
+- TOP 3.2.: Bürgeranliegen: Zuschuss aus dem Budget des BA 9 für ein Konflikttrainingsprogramm der Montessori-Grundschule
+- TOP 3.3.: Bekanntgabe im Sportausschuss vom 12.12.06: Investitionsprogramm für städtische Freisportanlagen, Sachstandsbericht 2006
+- TOP 3.4.: PSAG-West: Antrag für ein Boardinghaus Blutenburg
+- TOP 3.5.: Beschluss des Schulausschusses am 31.01.07: Anhörungsverfahren zur Änderung der Volksschulorganisation in der Landeshauptstadt München; Sprengeländerung der Grundschulen Amphionpark, Maria-Ward-Str., Südl. Auffahrtsallee, Winthirplatz =&gt; dazu: Vormerkung Schulreferat über die Besprechung vom 24.11.06
+- TOP 3.6.: Schreiben der BAs 1 Altstadt-Lehel und 3 Maxvostadt: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 3.7.: Kreisjugendring: Jugendlager Kapuzinerhölzl (The Tent) zum Oktoberfest (Schreiben BA 9 vom 21.11.06)
+- TOP 3.8.: Sozialreferat: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 30.11.06
+- TOP 3.9.: Bürgeranliegen: Kinder-Projekt-Neuhausen
+- TOP 3.10.: Verwendungsnachweis über einen Zuschuss aus dem Budget des BA 9; hier: Behinderten Sport Verein München e.V. für die 22. Internationale Torballmeisterschaft
+- TOP 3.11.: Erklärung der Münchner Einrichtungen für ein Sozialticket
+- TOP 3.12.: Freizeitstätte Hirschgarten: Voranfrage für einen Zuschuss aus dem Budget des BA 9 für den Kauf eines Ausschankanhängers i.H.v. 10 000 ?
+- TOP 3.13.: Verwendungsnachweis über einen Zuschuss aus dem Budget des BA 9; hier: Freizeitstätte Hirschgarten, Zuschuss für die Busmiete Mettenstraße
+- TOP 3.14.: Sozialreferat: Wilhelmine-Lübke-Haus; Angebote im Rahmen der Beendigung des Heimbetriebs
+- TOP 3.16.: Sanierung des Altenheims Heilig Geist (Wiedervorlage aus der Sitzung vom 19.12.06)
+- TOP 3.17.: Schulzentrum Nymphenburg Süd / Neuerrichtung eines ASZ (Wiedervorlage aus der Sitzung vom 19.12.06)
+- TOP 3.18.: =&gt; dazu: Schreiben Planungsreferat (Schreiben BA 9 vom 30.10.06)
+- TOP 3.19.: Schulreferat: Errichtung einer 3-zügigen Grundschule mit 6-gruppigem Tagesheim, Einfachsporthalle und Freisportanlage am Arnulfpark im 9. Stadtbezirk; Genehmigung des Nutzerbedarfsprogrammes (Wiedervorlage aus der Sitzung vom 19.12.06)
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.1.: Beschluss der Vollversammlung am 23.11.06: Grundsätze und Strukturen der Integrationspolitik der LHSt München (Wiedervorlage aus der Sitzung vom 19.12.06)
+- TOP 3.2.: Direktorium: Budget der Bezirksausschüsse; Abrechnung und Verwendungsnachweis der DJO - Deutsche Jugend in Europa für Freizeitaktivitäten im Übergangswohnheim Winfriedstraße
+- TOP 3.3.: Sozialreferat: Lilalu: Zuschuss für Workshops für Kinder aus einkommensschwachen Familien (Schreiben BA 9 vom 17.10.06)
+- TOP 3.4.: Caritas: Lilalu: Zuschuss für Workshops für die Kinder der Gemeinschaftsunterkunft Emma-Ihrer-Straße (Schreiben BA 9 vom 17.10.06)
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.1.: Kulturreferat: Veranstaltungen im Dezember 2006
+- TOP 3.2.: Kulturreferat: Theaterförderung 2007 (Antrag BA 9 Nr. 1626 vom 21.11.06)
+- TOP 3.3.: Stadtteilsommer 2007 - Vorschläge der Fraktionen (Wiedervorlage aus der Sitzung vom 19.12.06)
+- TOP 3.4.: Beschluss der Vollversammlung des Stadtrats vom 13.12.06: Änderung der Bezirksausschuss-Satzung; Übertragung des Entscheidungsrechts bei der Schließung dezentraler Kultureinrichtungen auf die Bezirksausschüsse
+- TOP 3.5.: Kulturreferat: Kultur im Stadtquartier, Zwischenbericht
+- TOP 3.6.: Projekt "Bürger gestalten ihre Stadt" - Informationen an interessierte Bürger (Wiedervorlage aus der Sitzung vom 19.12.06)
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Beschlussvorlage Direktorium: Antrag Faschingsclub Neuhausen: Zuschuss in Höhe von 500 ? für das Faschingstreiben 2007 am Rotkreuzplatz
+- TOP 4.2.: Beschluss der Vollversammlung des Stadtrats vom 13.12.06: Änderung der Satzung für die Bezirksausschüsse; Zusammenfassende Änderungssatzung zu den Beschlüssen des Verwaltungs- und Personalausschusses vom 06.12.06
+- TOP 4.3.: Direktorium: Umzug der Bezirksausschuss-Geschäftsstelle Nord
+- TOP 4.4.: KVR: Infoveranstaltungen der Verkehrspolizeiinspektion München am 04.06., 08.08. und 31.08.07 am Rotkreuzplatz und am 30.07. und 22.08.07 am Romanplatz
+- TOP 4.5.: KVR: Gaststätte "Kafe Ysenburg", Ysenburgstr. 13; Pächterwechsel
+- TOP 4.6.: KVR: Bücherflohmarkt des Vereins Kindernothilfe e.V. am 28.04., 26.05., 16.06., 30.06., 21.07., 10.08., 01.09., 22.09. und 06.10.2007 auf dem Rotkreuzplatz (Wiedervorlage aus der Sitzung vom 19.12.06)
+- TOP 4.7.: Belegung Rotkreuzplatz (Wiedervorlage aus der Sitzung vom 19.12.06)
+- TOP 4.8.: Referat für Arbeit und Wirtschaft: 850. Stadtgeburtstag im Jahr 2008 / Gebührenerhebung
+- TOP 4.9.: Beschluss der Vollversammlung des Stadtrats vom 13.12.06: Änderung der Bezirksausschuss-Satzung; Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo
+- TOP 4.10.: Beschluss der Vollversammlung des Stadtrats vom 13.12.06: Änderung der Bezirksausschuss-Satzung; Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen
+- TOP 4.11.: Beschluss der Vollversammlung des Stadtrats vom 13.12.06: Änderung der Bezirksausschuss-Satzung; Beteiligung der Bezirksausschüsse durch Städtisches Klinikum München GmbH
+- TOP 4.12.: Beschluss der Vollversammlung des Stadtrats vom 13.12.06: Änderung der Bezirksausschuss-Geschäftsordnung; Ausschluss wegen persönlicher Beteiligung
+- TOP 4.13.: Beschluss der Vollversammlung des Stadtrats vom 13.12.06: Änderung der Bezirksausschuss-Satzung; Fahrtkostenübernahme für behinderte BA-Mitglieder (Anträge BA 9 Nr. 2552 vom 16.11.04 und Nr. 664 vom 18.10.05)
+- TOP 5.: Verschiedenes
+- TOP 3.7.: Beschluss der Vollversammlung des Stadtrats vom 13.12.06: Vertrag zwischen der aurelis Real Estate GmbH & Co. KG und der Landeshauptstadt München zum geplanten S-Bahn-Haltepunkt Friedenheimer Brücke anläßlich der bauleitplanerischen Entwicklung des Bereiches Birketweg
+- TOP 3.15.: Bekanntgabe in der Sitzung des Kinder- und Jugendhilfeausschusses vom 09.01.07: Erhalt des Abenteuerspielplatzes an der Hanebergstraße
