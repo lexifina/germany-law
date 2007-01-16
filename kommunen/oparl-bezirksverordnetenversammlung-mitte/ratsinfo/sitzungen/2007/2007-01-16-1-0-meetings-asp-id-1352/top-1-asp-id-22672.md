@@ -1,0 +1,7 @@
+# TOP 1: Genehmigung des Protokolls der 2. Sitzung am 19.12.2006
+
+- Sitzung: 3. öffentliche Sitzung des Ausschusses für Umwelt, Natur, Verkehr und Lokale Agenda (2007-01-16)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=22672
+- Ergebnis: erledigt
