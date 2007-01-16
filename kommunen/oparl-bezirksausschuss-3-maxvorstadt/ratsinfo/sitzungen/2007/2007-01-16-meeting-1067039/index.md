@@ -1,0 +1,106 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2007-01-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1067039
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1067039
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 1.: Planungsangelegenheiten (Unterausschuss Planung)
+- TOP 1.2.1.: Meldelisten für Bauvorhaben
+- TOP 1.2.2.: Arnulfstraße 2; Nutzungsänderung: FH-Schule zu 3-fach-Spielothek mit kleinem Bistro im 1. OG
+- TOP 1.2.3.: Gabelsbergerstraße 68; Neubau einer Wohnanlage mit Tiefgarage (Vorbescheid)
+- TOP 1.2.4.: Luisenstraße 33; Städtische Galerie im Lenbachhaus - Befristete Errichtung 2er Fluchttreppen und Sicherung der Rettungswege
+- TOP 1.2.5.: Schleißheimer Straße 13; VGB: Spitzbodenausbau, Balkonanbau, Umbau Schaufensteranlage Seitengebäude: Umbau in eine Stadtvilla RGB: Umbau in ein Büro im EG, Appartement im 1. OG, Maisonette im 2. OG und DG, Balkonanbau und Hofneugestaltung
+- TOP 1.3.1.: Barer Straße 9 / Karlstraße 10; Umbau und Sanierung (Schreiben vom 05.12.2006)
+- TOP 1.3.2.: Schleißheimer Straße 23; Vermietung des stadteigenen Objehkts (Schreiben vom 06.12.2006)
+- TOP 1.3.3.: Stadtreparatur MuseumsViertel / Markusforum (Schreiben vom 19.12.2006)
+- TOP 2.: Gaststättenangelegenheiten und Gewerbe
+- TOP 2.2.1.: Speise- und Schankwirtschaft, Barer Straße 61; Genehmigung einer Freischankfläche
+- TOP 2.3.1.: Café Zeitgeist, Türkenstraße 74; Stellungnahme des KVR vom 29.11.2006 zur beantragten Betriebszeiterweiterung
+- TOP 3.: Verkehrsangelegenheiten (UA Verkehr)
+- TOP 3.0: Fragen an die Polizeiinspektion
+- TOP 3.1.1.: Verkehrliche Maßnahmen in der Kurfürstenstraße zwischen Georgen- und Adalbertstraße; - Keine Kennzeichnung des Fahrradweges auf der Westseite durch Wegnahme der Beschilderung an beiden Enden - Gestatten des Parkens auf dem Radweg mit 2 Rädern durch Abmarkierung - Gestatten des Fahrradfahrens gegen die Einbahnrichtung in nördlicher Richtung
+- TOP 3.2.1.: Haltverbot vor dem Kindergarten in der Richard-Wagner-Straße zum Ein- und Aussteigen der Kinder (BV-Empfehlung Nr. 02-08 / E 00604 vom 08.11.2006)
+- TOP 3.2.2.: Wiederaufstellung des Haltverbotsschuldes an der Ecke Schwind-/Theresienstraße (Ziffer 2) (BV-Empfehlung Nr. 02-08 / E 00610 vom 08.11.2006)
+- TOP 3.2.3.: Magnetschwebebahn München Hauptbahnhof - Flughafen (Beschlusslage und Folgeaktivitäten; Kosten. und Finanzierungsproblematik; weiteres Vorgehen; Behandlung von BV-Empfehlungen) ; Beschlussvorlage für den Planungsausschuss
+- TOP 3.2.4.: Projekt Hauptbahnhof - Laim - Pasing; Fuß- und Radwegekonzept; Beschlussvorlage für den Planungsausschuss
+- TOP 3.2.5.: Errichtung von absoluten Haltverboten in der Schwind- und Schellingstraße
+- TOP 3.2.6.: Festzug und Veranstaltung St.-Patricks-Day am 11.03.2007
+- TOP 7: (E) Wiederaufstellung des Haltverbotsschildes an der Ecke Schwind-/Theresienstraße (Ziffer 2) Empfehlung Nr. 02-08 / E 00610 der Bürgerver- sammlung des 3. Stadtbezirkes - Maxvorstadt am 08.11.2006
+- TOP 7.8.: (E) Haltverbot vor dem Kindergarten in der Richard-Wagner-Straße zum Ein- und Aussteigen der Kinder Empfehlung Nr. 02-08 / E 00604 der Bürgerver- sammlung des 3. Stadtbezirkes Maxvorstadt am 08.11.2006
+- TOP 3.3.1.: Buslinie 100 - Fortführung Odeonsplatz - MuseumsViertel - Hauptbahnhof
+- TOP 3.3.2.: Aufhebung der Einbahnregelung für Radfahrer in der Türkenstraße
+- TOP 3.3.3.: Einrichtung von vier Kurzzeitparkplätzen vor der Grundschule in der Türkenstraße 68
+- TOP 3.3.4.: Verparken der verbreiterten Gehwege an den Kreuzungen Schindstraße/Heßstraße, Schwindstraße/Schellingstraße und Schwindstraße/Zieblandstraße
+- TOP 3.3.5.: Richard-Wagner-Straße; Verlegung des absoluten Haltverbots im Bereich des E.ON-Haupteingangs von der Straßenseite Lenbachhaus auf die Straßenseite E.ON
+- TOP 3.3.6.: Barrierenfreiheit im Neubaugebiet "Arnulfpark"
+- TOP 3.3.7.: Marsstraße zwischen Dachauer Straße und Seidlstraße; Verschmälerung der geplanten Radwege
+- TOP 3.4.1.: Anwohnertiefgarage am Josephsplatz
+- TOP 4.: Umwelt und Baumschutz
+- TOP 4.2.1.: Schleißheimer Straße 29; Fällungen nach Baumbestandsplan aufgrund Neubau eines Wohnhauses
+- TOP 4.2.2.: Akademiestraße 2; Fällung eines Spitzahorns
+- TOP 4.2.3.: Ludwigstraße 22; Fällung einer Sumpfzypresse, einer Traubenkirsche und einer Vogelkirsche
+- TOP 4.2.4.: Prinz-Ludwig-Straße 8-16; Fällung diverser Bäume
+- TOP 4.2.5.: Seidlstraße 24; Fällung diverser Säulenpappeln
+- TOP 4.3.1.: Barer Straße 29; genehmigte Fällung eines Bergahorns
+- TOP 4.3.2.: Errichtung von Bewegungsinseln
+- TOP 4.3.3.: Historisches Grün in München - Grünanlage im Universitätsforum: "Straßenbegleitgrün oder historische Grünanlage?" (BA-Antrag Nr. 02-08 / B 01447 vom 12.09.2006)
+- TOP 5.: Soziale Angelegenheiten (UA Soziales)
+- TOP 5.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.1.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget für den Elternbeirat des Kindergartens und Horts St. Joseph (Kunstprojekt von Januar - Juli 2007)
+- TOP 5.3.1.: Errichtung einer 3-zügigen Grundschule mit 6-gruppigem Tagesheim, Einfachsporthalle und Freisportanlage am Arnulfpark; Genehmigung des Nutzerbedarfsprogrammes durch verwaltungsinterne Abstimmung
+- TOP 5.3.2.: Einführung eines "Sozialtickets" in München
+- TOP 5.4.1.: Berichte der Beauftragten
+- TOP 5.4.2.: REGSAM
+- TOP 6.: Kultur (UA Kultur)
+- TOP 6.3.1.: 850. Stadtgeburtstag 2008; Bericht und Sachstand
+- TOP 6.3.2.: Kultur im Stadtquartier - Zwischenbericht, Ergebnisbericht zum Thema Vernetzung, Übersicht über die Leistungen des Kulturreferats
+- TOP 6.4.1.: U-Bahn-Galerie
+- TOP 6.4.2.: NS-Dokumentationszentrum; Flyer "Das Münchner NS-Dokumentationszentrum"
+- TOP 6.4.3.: Broschüre über Erika Mann
+- TOP 7.: BA-Angelegenheiten und Termine
+- TOP 7.1.: Aufnahme der Begriffe "Benno-Viertel" bzw. "St.-Benno-Viertel" u. a. bei einer Neuauflage der Publikation "Von Allach bis Zamilapark" (BA-Antrag Nr. 02-08 / B 01350 vom 11.07.2006)
+- TOP 7.2.: Gedenktag für die Opfer des Nationalsozialismus am 27.01.2007
+- TOP 7.3.: Änderung der BA-Satzung: Übertragung des Entscheidungsrechts bei der Schließung dezentraler Kultureinrichtungen auf die Bezirksausschüsse; Beschluss vom 13.12.2006
+- TOP 7.4.: Änderung der BA-Satzung: Beteiligung der Bezirksausschüsse durch Städtisches Klinikum München GmbH; Beschluss vom 13.12.2006
+- TOP 7.5.: Änderung der BA-Satzung: Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen; Beschluss vom 13.12.2006
+- TOP 7.6.: Änderung der BA-Satzung: Fahrtkostenübernahme für behinderte BA-Mitglieder; Beschluss vom 13.12.2006
+- TOP 7.7.: Änderung der BA-Satzung: Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo; Beschluss vom 13.12.2006
+- TOP 7.8.: Änderung der BA-Satzung: Beteiligung der Bezirksausschüsse bei Baumfällungen; Beschluss vom 13.12.2006
+- TOP 7.9.: Änderung der BA-Geschäftsordnung: Ausschluss wegen persönlicher Beteiligung; Beschluss vom 13.12.2006
+- TOP 8.: Sonstiges
+- TOP 0: Vorgesehene Tagesordnung
+- TOP 1.1: Anträge (1)
+- TOP 1.2: Entscheidungen und Anhörungen (1)
+- TOP 1.3: Unterrichtungen und Berichte (1)
+- TOP 1.4: Aktuelle Sachstandsberichte (1)
+- TOP 2.1: Anträge (2)
+- TOP 2.2: Entscheidungen und Anhörungen (2)
+- TOP 2.3: Unterrichtungen und Berichte (2)
+- TOP 2.4: Aktuelle Sachstandsberichte (2)
+- TOP 3.1: Anträge (3)
+- TOP 3.2: Entscheidungen und Anhörungen (3)
+- TOP 3.3: Unterrichtungen und Berichte (3)
+- TOP 3.4: Aktuelle Sachstandsberichte (3)
+- TOP 4.1: Anträge (4)
+- TOP 4.2: Entscheidungen und Anhörungen (4)
+- TOP 4.3: Unterrichtungen und Berichte (4)
+- TOP 4.4: Aktuelle Sachstandsberichte (4)
+- TOP 5.1: Anträge (5)
+- TOP 5.2: Entscheidungen und Anhörungen (5)
+- TOP 5.3: Unterrichtungen und Berichte (5)
+- TOP 5.4: Aktuelle Sachstandsberichte (5)
+- TOP 6.1: Anträge (6)
+- TOP 6.2: Entscheidungen und Anhörungen (6)
+- TOP 6.3: Unterrichtungen und Berichte (6)
+- TOP 6.4: Aktuelle Sachstandsberichte (6)
