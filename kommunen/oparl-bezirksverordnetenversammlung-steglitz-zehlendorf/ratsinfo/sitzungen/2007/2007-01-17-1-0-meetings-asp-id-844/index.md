@@ -1,0 +1,79 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2007-01-17T16:30:00+01:00
+- Ende: 2007-01-17T20:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=844
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=844
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Mündliche Fragestunde - erledigt
+- TOP 3.1: Überwachung des ruhenden Verkehrs anlässlich des Weihnachtsmarktes im Jagdschloss Grunewald am 9. und 10. Dezember 2006 - beantwortet
+- TOP 3.2: Veräußert Appellas seine Immobilien? - beantwortet
+- TOP 3.3: Einschränkung der Kunstfreiheit - beantwortet
+- TOP 3.4: Fahrradweg am Kranoldplatz - beantwortet
+- TOP 3.5: Waldorf-Schule in Not? - beantwortet
+- TOP 3.6: Wohnen im Alter in Steglitz-Zehlendorf - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeitswahlvorschläge - erledigt
+- TOP 4.1.1: Wahl von stimmberechtigten ordentlichen und stellvertretenden Mitgliedern des Jugendhilfeausschusses - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.1.2: Wahl von stellvertretenden Bürgerdeputierten - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Dringl. Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.2.1: Berufung von beratenden Mitgliedern und deren Stellvertreter/innen zu Mitgliedern des Jugendhilfeausschusses für die III. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.3: Dringlichkeitsanträge - erledigt
+- TOP 4.3.1: Konfliktlösung in der Rudolf Steiner Schule - erledigt
+- TOP 4.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Hildburghauser Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.4.2: Tempo 30 am südlichen Teltower Damm - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Ausbau der Toilettenanlage am S-/RB-Bhf. Lichterfelde-Ost - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5: Wahlvorschläge - erledigt
+- TOP 5.1: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Wahl der Bürgerdeputierten und deren Stellvertreter/innen sowie die Berufung von beratenden Mitgliedern und deren Stellvertreter/innen zu Mitgliedern des Jugendhilfe-Ausschusses für die III. Wahlperiode der BVV Steglitz-Zehlendorf - erledigt
+- TOP 6: Konsensliste B - Überweisungen in Ausschüsse - - erledigt
+- TOP 6.1: Dringliche Vorlagen zur Beschlussfassung - erledigt
+- TOP 6.1.1: Anmeldungen für die Investitionsplanung 2007 bis 2011 - überwiesen
+- TOP 6.1.2: Teil-Nutzung der Leistikow-OH als Bürodienstgebäude - überwiesen
+- TOP 6.2: Anträge - erledigt
+- TOP 6.2.1: Ausstattung der BEA-Schule mit einem Geschäftskosten-Etat von EUR 500,-- - überwiesen
+- TOP 6.2.2: Tempo 30 an der Berliner Straße - überwiesen
+- TOP 6.2.3: Raumbedarf für Bildungsforum bei Umzugsplanung berücksichtigen - überwiesen
+- TOP 6.2.4: Stärkere Beteiligung von Jugendlichen an der Haushaltsplanaufstellung 2008/2009 durch die Initiierung von Umfragen und Informationskampagnen - überwiesen
+- TOP 6.2.5: Behindertengerechte Gestaltung der Toilette der Zentralbibliothek Steglitz-Zehlendorf - überwiesen
+- TOP 6.2.6: Besetzung von Schulleiterstellen - überwiesen
+- TOP 6.2.7: Sperrung Schloßstraße und Teltower Damm für den Individualverkehr - überwiesen
+- TOP 6.2.8: Erstellung von Konzeptionen für "Seniorenspielplätze" in Steglitz-Zehlendorfer Grünanlagen - überwiesen
+- TOP 6.2.9: Gedenktafel Glienicker Brücke - überwiesen
+- TOP 6.2.10: Anbringung der Gedenktafel am Rathaus Zehlendorf - überwiesen
+- TOP 6.2.11: Kompensationsversuch für den schrumpfenden Baumbestand - überwiesen
+- TOP 6.2.12: Notwendige Entlastung der Schulsekretariate - überwiesen
+- TOP 6.2.13: Ausweisungen von Laufstrecken im Bezirk - überwiesen
+- TOP 6.2.14: Neue Parkordnung in der Curtiusstraße - überwiesen
+- TOP 6.2.15: Lichtzeichenanlage Kreuzung Argentinische Allee - Waltrautstraße - Am Waldfriedhof - überwiesen
+- TOP 6.2.16: Einführung Mobiler Bürgerämter auch in Steglitz-Zehlendorf - überwiesen
+- TOP 6.2.17: Sozialatlas Steglitz-Zehlendorf 2005 - überwiesen
+- TOP 6.2.18: Schließung der Ausbildungswerkstatt ADC Krone - überwiesen
+- TOP 6.2.19: Zukünftig würdige Übergabe von Einbürgerungsurkunden im Rahmen einer Feierstunde - überwiesen
+- TOP 6.2.20: Taxistand Ladiusstraße - überwiesen
+- TOP 6.2.21: Halteverbot in der Grunewaldstraße 6 vor dem Geburtshaus - überwiesen
+- TOP 6.2.22: Durchführung einer Umfrage über die Qualität der Schulreinigung an allen Steglitz-Zehlendorfer Schulen - überwiesen
+- TOP 6.2.23: Beschmierung von Verteilungskästen - überwiesen
+- TOP 6.2.24: Errichtung eines Fußgängerüberweges - überwiesen
+- TOP 6.2.25: Erarbeitung eines Antikorruptionsprogramms / Antikorruptionsbeauftragten - überwiesen
+- TOP 6.2.26: BVG-Wartehäuschen an der Kirchmauer Zehlendorfer Eiche - überwiesen
+- TOP 6.2.27: Maßnahmen zur Energieeinsparung - überwiesen
+- TOP 6.2.28: Fahrradständer am S-Bahnhof Rathaus Steglitz - überwiesen
+- TOP 7: Anfragen - erledigt
+- TOP 7.1: Was hat das Jugendamt für den gemeinnützigen Freien Träger "Weg der Mitte" und dem von ihm getragenen Modellkindergarten in der Schmarjestraße 14 getan? - beantwortet
+- TOP 7.2: Mittelrückgabe bei dem Schul- und Sportanlagensanierungsprogramm 2006 - beantwortet
+- TOP 7.3: Mittelverfall Schul- und Sportstättenprogramm? - beantwortet
+- TOP 7.4: Wohnprojekt für Straftäter in Lankwitz - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Bessere Bürgerinformation der Anwohnerschaft in Lankwitz über das geplante Wohnprojekt - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9: Schlusswort des BVVorstehers - erledigt
