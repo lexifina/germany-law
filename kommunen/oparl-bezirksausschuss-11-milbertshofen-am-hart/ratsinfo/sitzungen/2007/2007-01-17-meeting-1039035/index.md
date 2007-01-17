@@ -1,0 +1,71 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2007-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1039035
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1039035
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Ausbau des U-Bahnhofes Olympiapark-Nord (Oberwiesenfeld) (Beschlussvorlage des BAuausschusses vom 16.01.2007), Vorabzustimmung
+- TOP 4.1.: Fernwärmearbeiten Helene-Mayer-Ring, Schreiben der Stadtwerke München
+- TOP 4.1.: Einrichtung von Wohngemeinschaften für an Demenz erkrankte Seniorinnen und Senioren im Sanierungsgebiet der GWG im Stadtteil Am Hart (Antrag Nr. 02-08/B00756 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 16.11.2005) Aktueller Sachstand
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Pfarrei St. Georg-Milbertshofen, Kindermalwettbewerb 2007
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 7.1.: Sanierung Milbertshofener Straße (CSU-Fraktion im BA 11)
+- TOP 7.1.: Armut in Milbertshofen - Am Hart - Die rote Laterne muß weg CSU-Fraktion im BA 11)
+- TOP 7.1.: Verkehrssituation Gundelkoferstraße / Ecke Wachterstraße (Klaudia Blake)
+- TOP 7.2.: Lehrerparkplatz Torquato-Tasso-Straße / Ecke Freiligrathstraße (Mathilde Hönig)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a) Rothpletzstr. 17, eine Kiefer, eine Tanne, eine Fichte b) Mettenleiterplatz 3, zwei Fichten c) Knorrstr. 69, fünf Pappeln d) Schleißheimer Str. 299, eine Kiefer e) Knorrstr. 36, drei Silberahorn
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Knorrstr. 147 b) Zietenstr. 1-19
+- TOP 8.3.: Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB)
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendungen aus dem Budget der Bezirksausschüsse, Genehmigungsbescheide: a) Elternbeirat der Grundschule Nadistraße, Selbstbehauptungskurse 2007, Bewilligung 288,00? b) Ev.-Luth. Kindergarten München Heilig-Geist/Olympiakirche, Renovierung der Jugendräume, Bewilligung 3000,00? c) Kath. Kirchenstiftung St.Georg Senti Voces Chor, Konzert am 17.12.2006, Bewilligung 650,00? d) Siedlervereinigung Neuherberge, Siedlerfest 2006, Bewilligung 900,00? e) Kath. Pfarramt St. Lantpert, Konzerte im Oktober/November 2006, Bewilligung 1705,00? f) Seniorenbeirat 11, Raumausstattung, Bewilligung 115,00?
+- TOP 9.2.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.3.: Standortfragen für Kindertagesstätten; Schreiben der Bezirksausschüsse 1 Altstadt - Lehel und 3 Maxvorstadt
+- TOP 9.1.: Aufwertung und Umgestaltung des Dülferangers und des Mittelteilers Schleißheimer Straße (Goldschmiedplatz) (Beschluss des Bauausschusses vom 16.01.2007)
+- TOP 9.2.: Nordheide-Ostteil B-Plan Nr. 1779a, Bauträgerauswahl für die städtischen Grundstücke Flst. 322/95 und 322/98 der Gemarkung Freimann an der Ingolstädter Straße (Beschluss des Ausschusses für Stadtplanung und Bauordnnung vom 29.11.2006, Ausfertigung) - nicht öffentlich -
+- TOP 9.3.: Neues Wegweisungssystem für den Radverkehr, Systemdarstellung und weiteres Vorgehen (Beschluss des Bauausschusses vom 05.12.2006)
+- TOP 9.4.: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011 (Beschluss der Vollversammlung des Stadtrates vom 13.12.2006)
+- TOP 9.5.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München (Beschluss der Vollversammlung des Stadtrates vom 13.12.2006)
+- TOP 9.6.: Vollzug der Grünanlagensatzung; Veranstaltung auf dem Olympiaberg, Ausnahmebewilligung
+- TOP 9.7.: Meldelisten Bauvorhaben
+- TOP 9.8.: Baumaßnahmen der Stadtwerke München
+- TOP 9.1.: Neubau einer Kooperationseinrichtung mit 2 Kindergarten-, 2 Kinderkrippen- und 2 Hortgruppen an der Dientzenhoferstraße (= 1. Bauabschnitt) im 11. Stadtbezirk Milbertshofen - Am Hart (vorläufige Genehmigung des Nutzerbedarfsprogrammes)
+- TOP 9.2.: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 30.11.2006
+- TOP 9.3.: Protokoll der REGSAM - Vollversammlung am 08.11.2006
+- TOP 9.4.: Unveränderte Fortführung von Gaststättenbetrieben a) SSW "Efendi", Riesenfeldstr. 72 b) SSW "Paulaner-Brau-Stuben", Milbertshofener Str. 94
+- TOP 9.5.: Multiplikatorenschulungen in den städtischen Bewohnertreffs Wohnforum München GmbH - Projekt "MiTunS" (Beschluss des Sozialausschusses vom 30.11.2006)
+- TOP 9.6.: Kindertagesstätten freigemeinnütziger Träger; Ev. Kindergarten der Dankeskirche Keferloherstr. 70, Leistung eines Baukostenzuschusses (Beschluss des Sozialausschusses des Stadtrates vom 10.01.2007)
+- TOP 9.7.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2006/2007 (Bekanntgabe im Schulausschuss des Stadtrates vom 10.01.2007)
+- TOP 9.8.: Schüler/innen und Klassenstand, Berufliche Schulen der Landeshauptstadt München im Schuljahr 2006/2007 (Stand 20.10.2006) (Bekanntgabe im Schulausschuss des Stadtrates am 10.01.2007)
+- TOP 9.9.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städtischen Franz-Auweck-Abendschule; Schuljahr 2006/2007 (Bekanntgabe im Schulausschuss des Stadtrates vom 10.01.2007)
+- TOP 9.10.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen besonderer Art im Schuljahr 2006/2007 (Bekanntgabe im Schulausschuss des Stadtrates vom 10.01.2007)
+- TOP 9.11.: Schüler- Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städtischen Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2006/2007 (Bekanntgabe im Schulausschuss des Stadtrates vom 10.01.2007)
+- TOP 9.12.: Investitionsprogramm für städtische Freisportanlagen, Sachstandsbericht 2006 (Bekanntgabe im Sportausschuss des Stadtrates vom 12.12.2006)
+- TOP 9.13.: Sozialticket, Schreiben von Tim King
+- TOP 9.14.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 9.1.: Filmaufnahmen auf öffentlichem Verkehrsgrund; Ausnahmegenehmigung nach § 46 StVO
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
