@@ -1,0 +1,69 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2007-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1037306
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1037306
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Planungen Freiham Nord, öffentliche Grünflächen
+- TOP 2.2.: Verbesserung der Grünflächen- und Naherholungssituation im Viertel Neuaubing - Westkreuz
+- TOP 2.3.: Erstellung eines Gesamtverkehrsplanes Pasing - Aubing in Verbindung mit der Bebauung des Gleisdreiecks Pasing
+- TOP 2.4.: Zustände von öffentlichen behindertengerechten S-Bahn-Zugängen
+- TOP 2.5.: Ungenügende Verteilung der so genannten Stadtteilzeitungen, Stadtanzeiger und andere Werbemedien vor Ort
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: S-Bahnhof Westkreuz; Errichtung eines barrierefreien Zugangs sowie Sanierung, Empfehlung Nr. 444 der Bürgerversammlung vom 27.06.06
+- TOP 6.3.: Planfeststellung nach § 18 AEG, Auflassung des Bahnübergangs in Bahn-km 12,6 der Bahnstrecke München-Pasing-Buchlohe (5520) im Rahmen des Vorhabens "ESTW München Südwest"
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Baufälle im 22. Stadtbezirk (v. 11.-17.12.06, v. 18.-22.12.06), Schr. Planungsreferat vom 20.12.06, 08.01.07
+- TOP 7.2.: Beteiligungs- und Entscheidungsrechte der BA´s bei Standortfragen und Baumaßnahmen für Kindertagesstätten, Schr. BA 3 vom 21.12.06
+- TOP 7.3.: Informationsveranstaltung für die Bezirksausschüsse am 30.11.2006, Protokoll und Teilnehmerliste, Schr. Sozialreferat vom 22.12.2006
+- TOP 7.4.: Wirtschafts-Info 12/06, Schr. Referat für Arbeit und Wirtschaft vom 22.12.2006
+- TOP 7.5.: Bewegungsinseln, Budget der Bezirksausschüsse, Schr. Direktorium vom 22.12.2006
+- TOP 7.6.: Kultur im Stadtquartier Zwischenbericht, Schr. Kulturreferat vom 22.12.2006
+- TOP 7.7.: Gewerbeentwicklung Freiham, Vergabe von städtischen Gewerbeflächen, Schr. Referat für Arbeit und Wirtschaft vom 22.12.2006
+- TOP 7.8.: Baumaßnahmen der Stadtwerke, Stand: 08.01.07
+- TOP 7.9.: Berichterstattung der SZ, Schr. BA 3 vom 10.01.07
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Freigabe des Fußweges auf der Altostraße, östliche Seite, zwischen Grabenfleckstraße und der Kreuzung der A 99 für Radfahrer in beiden Richtungen, Schr. KVR vom 08.12.06 zum BA-Antrag Nr. 1529 vom 18.10.06
+- TOP 8.2.: Errichtung eines Geh- und Radweges im Bereich von der Aubing-Ost-Straße bis zur Kastelburgstraße; Antrag Nr. 4135 vom 29.09.1999; Schr. Baureferat vom 21.12.2006
+- TOP 8.3.: Errichtung eines Geh- und Radweges im Bereich der Aubing-Ost-Straße bis zur Kastelburgstraße, Schr. Baureferat vom 21.12.06 zum BA-Antrag Nr. 4135 vom 29.09.99
+- TOP 8.4.: Sanierung der Müllerstadelstraße, Schr. Baureferat vom 03.01.07
+- TOP 8.5.: Aufnahme von verschiedenen Punkten in die Planungsrunde zur besseren Koordination in der Jugendarbeit in Neuaubing, Schr. Sozialreferat vom 05.01.07 zum BA-Antrag Nr. 1530 vom 18.10.06
+- TOP 8.6.: Ausbau der Georg-Böhmer-Straße, Schr. Baureferat vom 03.10.07 zum BA-Antrag Nr. 1468 vom 20.09.06
+- TOP 8.7.: Verkehrssichere Gestaltung der Zugangswege zur Bushaltestelle "Münchner Badebus" (Kreuzkapellen-/Ecke Eschenrieder Str.) bzw. Verlegung der Haltestelle, Schr. Ref. für Arbeit und Wirtschaft vom 09.01.07 zum BA-Antrag Nr. 1467 vom 20.09.06
+- TOP 8.8.: Anbindung des Ortsteils Langwied an den öffentlichen Personennahverkehr, Schr. Ref. für Arbeit und Wirtschaft vom 10.01.07 zum BA-Antrag Nr. 1531 vom 18.10.06
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Ausschuss für Stadtplanung und Bauordnung vom 06.12.06 - Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München - Entwicklung des öffentlichen Nahverkehrs in München
+- TOP 9.2.: Vollversammlung vom 23.11.06 - Bauleitplanung Gleisdreieck Pasing - Grundsätze und Strukturen der Integrationspolitik der Landeshauptstadt München
+- TOP 9.3.: Vollversammlung vom 13.12.2006 - Änderung der Bezirksausschuss-Satzung Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo - Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007-2011
+- TOP 9.4.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 10.01.07 - Bevölkerungsprognosen 2006 der Landeshaupstadt München
+- TOP 9.5.: Ausschuss für Stadtplanung und Bauordnung vom 10.01.07 - Ökologische Hochhäuser - Satzungen über die Genehmigungspflicht von Grundstücksteilungen (Teilungssatzungen)
+- TOP 9.6.: Schulausschuss vom 10.01.07 -Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2006/2007 - Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2006/2007 - Schüler- und Klassenzahlen an öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2006/2007 Bekanntgabe im Schulausschuss vom 10.01.07 - Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städt. Franz-Auweck-Abendschule; Schuljahr 2006/2007 - Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2006/2007
+- TOP 9.7.: Sportausschuss vom 23.01.07 - Bezirkssportanlage an der Kronwinkler Str. 25, Empfehlungen Nr. 439, 441 und 442 der Bürgerversammlung vom 27.06.06
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Kultur im Stadtquartier, Teilprojekt 2; Informationstreffen zur Stadtteilkultur für die Akteure in den Stadtbezirken am 07.03.07 vom 18.-21.00 Uhr, Kulturzentrum Messestadt Riem, Erika-Cremer-Str. 8, III. OG
+- TOP 10.2.: Informationsveranstaltung für den BA 22 am 30.01.07 um 16.00 Uhr im Planungsreferat, Blumenstr. 28 b, Raum 475, 4. Stock
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 22.02.2007, Gaststätte "Wienerwald", Limesstr. 63
