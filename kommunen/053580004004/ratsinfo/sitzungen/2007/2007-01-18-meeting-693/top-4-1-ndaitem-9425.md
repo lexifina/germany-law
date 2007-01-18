@@ -1,0 +1,8 @@
+# TOP 4.1.: Neubesetzung von Ausschüssen und Gremien nach dem Ausscheiden von Ratsfrau Wiederholt
+
+- Sitzung: Gemeinderat (2007-01-18)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/9425
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
+- Beratung: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/consultation/3270
