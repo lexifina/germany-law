@@ -1,0 +1,6 @@
+# TOP 2.: Fragestunde für Einwohnerinnen und Einwohner
+
+- Sitzung: ASJS (2007-01-23)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/24571
