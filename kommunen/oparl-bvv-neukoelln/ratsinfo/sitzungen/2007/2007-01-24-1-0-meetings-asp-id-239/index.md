@@ -1,0 +1,132 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2007-01-24T17:00:00+01:00
+- Ende: 2007-01-24T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=239
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=239
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=105&id=14285
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Vorlagen zur Wahl - (offen)
+- TOP 4.1: Nachwahl von Mitgliedern des Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl der Mitglieder in den Beirat für Menschen mit Behinderung - in der BVV zurückgezogen
+- TOP 4.3: Wahl der Mitglieder in den Beirat für Migrationsangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Beschlussfassung - (offen)
+- TOP 5.1: Berufung eines Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Überprüfung nach dem Stasi-Unterlagen-Gesetz (StUG) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Ausschuss für Naturschutz und Grünflächen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.2: Wahl der Neuköllner Seniorenvertretung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.3: Einzelbericht des Bezirksamtes Neukölln zum achten Bericht über die Umsetzung des Berliner Landesgleichstellungsgesetzes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Bürgeramt - ist der Name auch Programm? - beantwortet
+- TOP 7.2: Amtseid die Zweite - beantwortet
+- TOP 7.3: Verkehrssicherungspflicht für Gebäude des ehemaligen Krankenhauses Britz - beantwortet
+- TOP 7.4: Grünstreifen und Gehsteig am Bahngelände in der Saalestraße - beantwortet
+- TOP 7.5: Kooperation Jugendamt mit Jobcenter - beantwortet
+- TOP 7.6: Entwicklung des Flughafenumfeldes BBI - beantwortet
+- TOP 7.7: Muttersprachliche Erzieher an Europaschulen in Neukölln - beantwortet
+- TOP 7.8: Unterlagen für Träger von Seniorenfreizeitstätten - schriftlich beantwortet
+- TOP 7.9: Finanzierung von Sozialarbeitern - schriftlich beantwortet
+- TOP 7.10: Sachstand High-Deck-Siedlung - schriftlich beantwortet
+- TOP 7.11: Gefahr für den Nahverkehr in Neukölln - schriftlich beantwortet
+- TOP 7.12: Tischtennisplatten der Wetzlar-Grundschule - schriftlich beantwortet
+- TOP 8: Beschlussempfehlungen - 1. Lesung - (offen)
+- TOP 8.1: Geschäftsordnung des Beirates für Menschen mit Behinderung im Bezirk Neukölln von Berlin - überwiesen
+- TOP 8.2: Geschäftsordnung des Beirates für Migrationsangelegenheiten im Bezirk Neukölln von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Beschlussempfehlungen - 2. Lesung - (offen)
+- TOP 9.1: "Seniorenspielplatz" für Neuköllner Senioren - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Seniorenvertretung in Neukölln stärken - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Fußgängerüberweg Mohriner Allee - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Durchfahrverbot für LKW in der Hannemannstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Durchfahrverbot für LKW in der Franz-Körner-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Parkscheibenkonzpet im Neudecker Weg - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Zunahme von Hepatitis und TBC - beantwortet
+- TOP 10.2: Maßnahmen gegen Jugendgewalt - beantwortet
+- TOP 11: Vorlage zur Beschlussfassung - (offen)
+- TOP 11.1: Anmeldung des Bezirks Neukölln zur Investitionsplanung 2007 - 2011 - mit Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Wes Brot ich ess ... Quartiersmanagement Rollbergsiedlung in Not - beantwortet
+- TOP 12.2: Ende für das Quartiersmanagement-Team im Rollberg - beantwortet
+- TOP 12.3: Flexible Schulanfangsphase - beantwortet
+- TOP 12.4: Pilotprojekt Gemeinschaftsschule - beantwortet
+- TOP 12.5: Verwendung finanzieller Mittel des Bezirkes im Zusammenhang mit dem "Fasching gegen Rechts" und zu sonstigen Aktionen für Demokratie und Toleranz - Teil 1 - beantwortet
+- TOP 12.6: Verwendung finanzieller Mittel des Bezirkes im Zusammenhang mit dem "Fasching gegen Rechts" und zu sonstigen Aktionen für Demokratie und Toleranz - Teil 2 - beantwortet
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Verantwortung für die Gesellschaft - Mehr Ausbildungsplätze - überwiesen
+- TOP 13.2: Schulpflicht konsequent durchsetzen - überwiesen
+- TOP 13.3: Eingeschränktes Haltverbot Hermannstraße 7-12 - überwiesen
+- TOP 13.4: Ultima ratio: Geschlossenes Heim - überwiesen
+- TOP 13.5: Absolutes Haltverbot auf der Neuköllner Straße - überwiesen
+- TOP 13.6: Gutachten zu Hermann von Wissmann - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Kiez-Staatsanwälte - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Wes Brot ich ess ... Quartiersmanagement Rollbergsiedlung unterstützen - in der BVV abgelehnt
+- TOP 13.9: Bordsteinabsenkung vor dem Amtsgericht - überwiesen
+- TOP 13.10: Investitionsplanung 2007 - 2011 - in der BVV abgelehnt
+- TOP 13.11: Ombudsstelle für Hartz IV-Betroffene - überwiesen
+- TOP 13.12: Fahrradabstellanlage vor der Jugendberatungshaus - überwiesen
+- TOP 13.13: Erhalt des Büchereibusses - in der BVV abgelehnt
+- TOP 13.14: Schwarzarbeit effektiv bekämpfen - überwiesen
+- TOP 13.15: Schutz unserer deutschen Muttersprache - in der BVV abgelehnt
+- TOP 13.16: Erweiterung des Estrel Hotels ermöglichen und nicht behindern - ohne Änderungen in der BVV beschlossen
+- TOP 13.17: Radroute am Teltowkanal - überwiesen
+- TOP 13.18: Parkzone vor der AOK - überwiesen
+- TOP 13.19: Gedenktafel für Opfer der Haft- und Folterkeller der sowjetischen Geheimdienste in Neukölln - überwiesen
+- TOP 13.20: Mehrgenerationenhaus für Neukölln - überwiesen
+- TOP 13.21: 1. Tag der StadtNatur 2007 - in der BVV zurückgezogen
+- TOP 13.22: Bushaltestelle "Platz der Stadt Hof" - überwiesen
+- TOP 13.23: Fortsetzung des "Autobahnradweges" zwischen Hafen Britz-Ost und Britzer Allee - überwiesen
+- TOP 13.24: U-Bahnhof den Fahrgästen - ohne Änderungen in der BVV beschlossen
+- TOP 13.25: Zusammenlegung von Schülern deutscher Herkunft auf wenige gemeinsame Schule - in der BVV abgelehnt
+- TOP 14: Vorlagen zur Kenntnisnahme - Zwischenberichte - (offen)
+- TOP 14.1: Keine Zentralisierung der Bibliotheken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15: Vorlagen zur Kenntnisnahme - Schlussberichte - (offen)
+- TOP 15.1: Aufhebung des Milieuschutzes im Erhaltungsgebiet Schillerpromenade - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: "Hilfe zur Arbeit" sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Bordsteinabsenkungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Erhalt der Bio-Tonne - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Vermeidung illegalen Sperrmülls - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Nachtfahrverbot für LKW in der Waßmannsdorfer Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Verkehrssicherheit in der Waßmannsdorfer Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Wilde Mülldeponien in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Öffentliche Verkehrsanbindung in dem Wohngebiet Aronsstraße/Dieselstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Schallpegelmessgeräte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Verwendung von DASS-Mitteln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Lärmbelästigung durch Internationale Luftfahrt-Ausstellung (ILA) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Wohnraum für Asylbewerber - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Übersetzung der Informationsbroschüre "Seniorentipp" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Ausstattung mit Dobli-Spiegeln an Lastkraftwagen des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.16: Mieterstruktur verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: BVG 2005 plus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Britzer Brücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.19: Venusplatz soll wieder Venusplatz heißen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.20: Gesundheit der Anwohner vor Emissionen schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.21: Lkw-Durchfahrtverbot für die Silbersteinstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.22: Bezirkliche Baukompetenz erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.23: Mittelstreifen der Sonnenallee vor dem S-Bahnhof Köllnische Heide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.24: Heruntergekommene Parkscheinautomaten in der Sonnenallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.25: Fahrradabstellbügel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.26: Einrichtung Stadtinformationsnetz Bluespot - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.27: Einbahnstraße am Richardplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.28: Fußgänger-Querungshilfe in der Innstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.29: Anwohner vor Geruchsbelästigung schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.30: Historische Bilder im U-Bahnhof Hermannplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.31: Gehwegparken im Rohrdommelweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.32: Mehr Luftgüte-Messstationen im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.33: Fahrradverkehr in Neukölln verbessern II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.34: Verlängerung der U-Bahnlinie 7 nach Schönefeld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.35: Gefährliche Flugvorführungen verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.36: Verkehrssituation an der Landesgrenze Groß-Ziethener Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.37: Pädagogen über Gewaltdelikte informieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.38: Zeitnahe Graffiti-Beseitigung, Teil 2 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.39: Verkehrsberuhigung vor der Kita in der Hannemannstraße - mit Abschlussbericht zur Kenntnis genommen
