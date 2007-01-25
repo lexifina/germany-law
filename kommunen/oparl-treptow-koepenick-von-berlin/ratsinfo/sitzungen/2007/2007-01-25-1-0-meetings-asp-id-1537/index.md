@@ -1,0 +1,94 @@
+# 4. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2007-01-25T16:30:00+01:00
+- Ende: 2007-01-25T21:33:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1537
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1537
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=51606
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers VI_2 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 8.2: Wahl von Bürgerdeputierten - gewählt
+- TOP 8.3: Wahl der Bürgerdeputierten für den Jugendhilfeausschuss - gewählt
+- TOP 8.4: Berufung von beratenden und stellvertretenden beratenden Mitgliedern des Jugendhilfeausschusses - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Friedrichshagener Straße 08 - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Fahrradverkehr Treptow-Köpenick - Öffnung von Einbahnstraßen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Bebauungsplan XV-2 ("Sportanlagen Treptow") hier: Reduzierung des Geltungsbereiches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Dokumentation zum "Hauptmannjahr 2006" - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Umsetzung der prämierten und zur Realisierung empfohlenen Entwürfe aus dem Projekt "KAiAK-Kunst + Architektur in Alt-Köpenick" für eine attraktive Zwischennutzung und Gestaltung unbebauter Grundstücke in der Altstadt Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Bebauungsplan 9-33 ("Teikyo") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Im I. Halbjahr 2006 zugelassene über- und außerplanmäßige Ausgaben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Bebauungsplan XV-3 ("Grundschule an der alten Feuerwache") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Verkehrsorganisation Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Verlegung der 3 Taxistellplätze von der Paradiesstraße / Ecke Buntzelstraße in die Zufahrt zum P+R-Parkplatz am S-Bahnhof Altglienicke in Fahrtrichtung Paradiesstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Mauerradweg Heidekampgrünzug – Querungsmöglichkeit auf der Sonnenallee und dem Dammweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Tempo 30 auf der Dörpfeldstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Benennung der Straße 34 (in der Siedlung Schönhorst) in "Am Walloch" - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Benennung der Straße 38 in "An den Schwarzerlen" - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Benennung der Straße 36 in "Eichkaterweg" - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Benennung der Straße 41 in "Lurchweg" - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Bebauungsplan XV-41 ("Plänterwald") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Aufhebung der Mietobergrenzen für das Sanierungsgebiet Oberschöneweide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.19: Mehrsprachiges Internetangebot - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Anbringung einer Gedenktafel in der Hasselwerderstr. 38-40 - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Verbesserung für Linksabbieger Wegedornstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Fußgängerübergang Fürstenwalder Damm / Mühlweg - überwiesen
+- TOP 12.23: Gefahr durch Ruine in der Buntzelstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Entschärfung der Kurve Richterstraße Ecke Buntzelstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Fahrradstellplätze am S-Bahnhof Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Änderung der Zusammensetzung der Arbeitsgruppe (AG) Europa im Bezirksamt Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.27: Anmeldung zur Investitionsplanung 2007 bis 2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Einrichtung einer bezirklichen ZAK - Zentrale Anlauf- und Koordinierungsstelle für Investoren und Unternehmen - innerhalb der Organisationseinheit (OE) Wirtschaftsförderung des Bezirksamtes Treptow-Köpenick - überwiesen
+- TOP 13.2: Bebauungsplan XVI-11 ("Amtswäldchen") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.3: Bebauungsplan 9-30, ("Parkplatz Amtswäldchen") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Stasiüberprüfung der Bezirksverordneten und Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Erhöhung der Fahrradabstellplätze am Rathaus Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Gefährdung der Radfahrer auf der Waltersdorfer Straße in Bohnsdorf - überwiesen
+- TOP 14.4: Erhalt des Bahnhofpersonals an S-Bahnhöfen im Bezirk - überwiesen
+- TOP 14.5: Kenntnisgabe aller Bezirksamts-Beschlüsse - überwiesen
+- TOP 14.6: Behindertengerechter Zugang zum Ratskeller - überwiesen
+- TOP 14.7: Radfahrstreifen in der Seelenbinderstraße - überwiesen
+- TOP 14.8: Überschwemmung in der Kleinen Lindenstraße vermeiden - überwiesen
+- TOP 14.9: Sperrung der Straße zum Müggelturm - überwiesen
+- TOP 14.10: Weihnachtsbeihilfe - überwiesen
+- TOP 14.11: Informationsveranstaltung zur Investitionsplanung - überwiesen
+- TOP 14.12: Zeitliche Anpassung - überwiesen
+- TOP 14.13: Lärmbelästigung an Schulen - überwiesen
+- TOP 14.14: Zuordnung der bezirklichen Straßenverkehrsbehörde zum Ordnungsamt - überwiesen
+- TOP 14.15: Information für Sehbehinderte - überwiesen
+- TOP 14.16: Sichere Überquerung des Adlergestells in Höhe Kablower Weg - überwiesen
+- TOP 14.17: Benennung der Straße D 18 (Köpenick) - überwiesen
+- TOP 14.18: Wasserseitige Materialanlieferung beim Bau der Mittelpunktsbibliothek - überwiesen
+- TOP 14.19: Soziale Stadt Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Kurzzeitparkplätze in der Buntzelstraße - überwiesen
+- TOP 14.21: Stellplatz für Krankentransporte - überwiesen
+- TOP 14.22: Kampagne gegen die Abgabe von Alkoholika und Tabakwaren an Jugendliche - überwiesen
+- TOP 14.23: Straßenbenennungen - in der BVV zurückgezogen
+- TOP 14.24: Benennung der Straße 34 (in den Spreewiesen) in „Am Bauersee“ - ohne Änderungen in der BVV beschlossen
+- TOP 14.25: Entfernung der überflüssigen Halteverbotsschilder Schnellerstraße - überwiesen
+- TOP 14.26: Gehwege in der Bernulfstraße - überwiesen
+- TOP 14.27: Benennung der Straßen 234 bis 241 - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Baumaßnahme Marktplatz Friedrichshagen - beantwortet
+- TOP 15.2: Verwendung finanzieller Mittel des Bezirkes im Zusammenhang mit dem "Fasching gegen Rechts" und zu sonstigen Aktionen für Demokratie und Toleranz - beantwortet
+- TOP 15.3: Bescheide über die Kostenbeteiligung - vertagt
