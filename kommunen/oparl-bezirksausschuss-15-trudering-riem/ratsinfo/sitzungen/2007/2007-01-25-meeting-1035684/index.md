@@ -1,0 +1,145 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2007-01-25T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1035684
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1035684
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses 15 durch das Caritaszentrum München Ost-Land, Promenadentreff, i.H.v. 1.745,20 Euro
+- TOP 2.1.: Ausbau des Gehsteiges von der Felicitas-Füss-Straße bis zu den Bushaltestellen Ottilien-/Markgrafenstraße
+- TOP 2.2.: Wertstoffhof Mauerseglerstraße (Antrag zuzüglich Fragenkatalog)
+- TOP 2.3.: Linie 192 - Einsatz der Busse in Trudering-Riem (zwei Bürgerschreiben)
+- TOP 2.4.: U-Bahn-Anschlüsse ungerecht verteilt?
+- TOP 2.5.: Ampelschaltung Am Mitterfeld / Josef-Wild-Straße
+- TOP 2.6.: Lärmsanierung an den Schienenwegen in Trudering (drei Bürgerschreiben)
+- TOP 2.7.: Ampel an der Bushaltestelle Halligenplatz
+- TOP 2.8.: Bepflanzung des Rodelhügels im Riemer Park
+- TOP 2.9.: Pädagogische Farm - offene Feuer zuzüglich Stellungnahmen des Betreibers und der Naturindianer München
+- TOP 2.10.: Reduzierung der Dienstzeiten in der Wache der PI 24
+- TOP 2.11.: Müllcontainer-Standort Emil-Nolde-Straße
+- TOP 3.1.: Änderung der Bezirksausschuss-Satzung - Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo; Antrag Nr. 1062 und WV 1III/03/06 Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006
+- TOP 3.2.: Servicetelefongebühren der LH München und der stadteigenen GmbHs; Antrag Nr. 02-08 / B 01047
+- TOP 3.3.: Sondernutzung Landshamer Straße / Frobenstraße in München Riem; Antrag Nr. 02-08 / B 01521
+- TOP 3.4.: Lärmschutzwand im Bereich der Truderinger Bahntrasse; Antrag Nr. 02-08 / B 01482 und WV 3I/09/05
+- TOP 3.5.: Sofortiger Baustopp für Großprojekte (im Münchner Südosten), solange keine gesicherten Maßnahmen für eine spürbare Verkehrsentlastung bestehender Siedlungsgebiete und keine optimale ÖPNV-Anbindung der Neubaugebiete entsteht; Empfehlung Nr. 21 der BV vom 10.11.2004 (Schreiben der MVG)
+- TOP 3.6.: 15 Jahre Duales System Deutschland (DSD) - Zukunft der Wertstoffsammlung in Trudering-Riem; Antrag Nr. 02-08 / B 01491 Beschluss des Kommunalausschusses als Werkausschuss für den Abfallwirtschaftsbetrieb München vom 07.12.2006
+- TOP 3.7.: Verbesserung der Bringsituation vor der Grundschule an der Forellenschule; Antrag Nr. 02-08 / B 01602
+- TOP 3.8.: Verkehrsgutachten zum Bauvorhaben Praktikermarkt; Antrag Nr. 02-08 / B 01116
+- TOP 3.9.: Kartierte Biotope und ökologische Vorrangflächen; Antrag Nr. 02-08 / B 01115 (zuzüglich Karte)
+- TOP 3.10.: MVV-Familienausflüge mit dem Rad - ein Luxus?; Antrag Nr. 02-08 / B 01527
+- TOP 3.11.: Mehr Sitzgelegenheiten an den S-Bahnsteigen; Antrag Nr. 02-08 / B 01487
+- TOP 3.12.: Wagenburg / Wohnwagenproblematik in der Heltauerstraße; Antrag Nr. 02-08 / B 01293
+- TOP 3.13.: Entlastung des Mitterfeldes (drei Bürgerschreiben); Antrag Nr. 02-08 / B 01291
+- TOP 4.1.: Buslinienführung durch den Ortskern Truderings
+- TOP 4.2.: Unterkunft Wasserburger Landstraße - künftige Nutzung
+- TOP 4.3.: Zuverlässigkeit der MVG-Busse in Trudering-Riem
+- TOP 4.4.: Kostengünstige Bereitstellung von Plakatständern bzw. Plakatflächen für kulturelle Stadtteil-Veranstaltungen
+- TOP 4.5.: Mehr Kundennähe beim Umbau der Postdienstleistungen - die Stadtspitze ist gefordert
+- TOP 4.6.: Schienenlärmsanierung - aber bitte mit Hand und Fuß
+- TOP 4.7.: Standardisiertes Störkonzept der Münchner S-Bahn
+- TOP 4.8.: Waldschadenbericht
+- TOP 4.9.: Wie unvermeidlich war das S-Bahn-Chaos auf der S2-Ost und S4-Ost
+- TOP 5.1.: Kunst in der Messestadt Riem; Fortsetzung der Maßnahmen im zweiten und dritten Bauabschnitt; Beschluss des Riemausschusses vom 31.01.2007
+- TOP 5.2.: Halteverbot Mittbacher Straße; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 5.3.: Pkw-Parkzone Heinrich-Wieland-Straße; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 5.4.: Wasserburger Landstraße; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 5.5.: Info-Veranstaltungen der Verkehrspolizeiinspektion München (Anhörung)
+- TOP 5.6.: Erstellung von Richtlinien für Veranstaltungen in Grünanlagen (Anhörung); Frist bis zum 12.02.2007
+- TOP 6.1.: Leistungsbilanz des Baureferats für die BV des BA 15 am 07.12.2006
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.1.: Lehrstellensituation in Trudering-Riem und Ergebnisse zum Projekt KOOSA (vertagt aus der Novembersitzung 2006) zuzüglich Antwortschreiben der HSB; Antrag Nr. 02-08 / B 01417
+- TOP 7.2.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2006/2007 (Auszug SB 15, s. auch Top 10.26/01/07) Bekanntgabe im Schulausschuss des Stadtrates vom 10.01.2007
+- TOP 7.3.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule für das Schuljahr 2006/2007 (Auszug SB 15; s. auch Top 10.27/01/07) Bekanntgabe im Schulausschuss des Stadtrates vom 10.01.2007
+- TOP 7.4.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2006/2007 (Auszug SB 15; s. auch unter Top 10.28/01/07) Bekanntgabe im Schulausschuss des Stadtrates vom 10.01.2007
+- TOP 7.5.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2006/2007 (Auszug SB 15; s. auch Top 10.30/01/07) Bekanntgabe im Schulausschuss des Stadtrats vom 10.01.2007
+- TOP 7.7.2: UA Planung:
+- TOP 7.1.: Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB) A. Beschlusslage und Folgeaktivitäen B. Kosten- und Finanzierungsproblematik MSB C. Weiteres Vorgehen D. Bürgerversammlungsempfehlungen Anhörung der Bezirksausschüsse zu einer Beschlussvorlage des Planungsreferates für den Ausschuss für Stadtplanung und Bauordnung / die Vollversammlung des Stadtrates
+- TOP 7.2.: Gemeinde Haar Vorhabensbezogener Bebauungsplan Nr. 16 b, Grundstücke Fl.Nr. 359/5, 359/6 und 359/11 zwischen Münchener Straße (B 304) und Hans-Stiesberger-Straße
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.1.: Allegro - Private Vorschule Waldtrudering (Dankschreiben)
+- TOP 7.2.: Kreativ Musikforum (Kurzbericht und Dankschreiben)
+- TOP 7.3.: Katholische Pfarrgemeinde Christi Himmelfahrt (Kurzbericht)
+- TOP 7.4.: Verwendung des BA-Budgets 2006
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 8.1.: Bescheide und Mitteilungen über bereits durchgeführte Baumfällungen: Ottilienstraße 64, Dorotheenstraße 12, Dorotheenstraße 13, Sulzer-Belchen-Weg 20
+- TOP 8.2.: Von-Gravenreuth-Straße 20
+- TOP 8.3.: Deikestraße 31
+- TOP 8.4.: Tsingtauer Straße 29
+- TOP 8.5.: Friedenspromenade 32
+- TOP 8.6.: Kirtaweg 40
+- TOP 8.7.: Von-Erckert-Straße 22
+- TOP 8.8.: Groß-Nabas-Straße 1
+- TOP 8.9.: Heilwigstraße 40
+- TOP 8.10.: Friedenspromenade 59
+- TOP 8.11.: Schanderlweg 4
+- TOP 8.12.: Vogesenstraße 48
+- TOP 8.13.: Von-Erckert-Straße 62
+- TOP 8.14.: Wasserburger Landstraße 133
+- TOP 9.1.: Termine und Mitteilungen: a) Kultur im Stadtquartier - Teilprojekt 2: Vernetzung, Arbeitsteilung, Kooperation, Information, Informationstreffen zur Stadtteilkultur für die Akteure in den Stadtbezirken zuzüglich Anmeldeformular b) Kulturtage Trudering-Messestadt-Riem 2007 (14.06.07 - 17.06.07); Vorbereitungssitzung c) Regionalgespräch mit der Lokalbaukommission vorauss. am Mittwoch, den 14.02.07 d) 850ter Stadtgeburtstag - Einladung zur Informationsveranstaltung durch das RAW e) Terminabfrage Projektvorstellung Bajuwarenpark f) Jahresgespräch mit dem Kommunalreferat g) nach Mitteilung des Vorsitzenden
+- TOP 9.2.: Umbenennung der Von-Trotha-Straß - Klageerwiderung der Rechtsabteilung des Direktoriums; WV 16II/05/06
+- TOP 9.3.: Kultur im Stadtquartier - Zwischenbericht
+- TOP 9.4.: Errichtung einer Kooperationseinrichtung mit 3 Kindergarten- und 4 Krippengruppen, eines 4-gruppigen Hortes sowie einer Amtsmeisterwohnung an der Feldbergstraße 85 im 15. Stadtbezirk Trudering-Riem; Baukosten (Kostenüberschlag)
+- TOP 9.5.: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 30.11.2006
+- TOP 9.6.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten a) Schreiben des BA 1 Altstadt-Lehel b) Schreiben des BA 3 Maxvorstadt c) Schreiben des BA 9 Neuhausen-Nymphenburg d) Schreiben des BA 16 Ramersdorf-Perlach
+- TOP 9.7.: Berichterstattung der Süddeutschen Zeitung über die Bürgerversammlung Maxvorstadt - Schreiben des BA-Vorsitzenden vom 08.01.2007 (aktueller Sachstand)
+- TOP 9.8.: Information über das Betriebskonzept der MVG während der Schienenschleifarbeiten auf der Linie U2 Ost vom 12.02.07 - 13.02.07
+- TOP 9.9.: Die Messestadt liest ? Christian Ude auch; Veranstaltung am 21.03.2007 in der Astrid-Lindgren-Schule
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 04.12.2006 bis 07.01.2007
+- TOP 10.2.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Illy-Bar, Willy-Brandt-Platz 5, Riem-Arcaden
+- TOP 10.3.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Imbisswägen auf der Messefreifläche (bei Flohmarktbetrieb), De-Gasperi-Bogen (Messe-Freifläche)
+- TOP 10.4.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Eiscafe Fantasia del Gelato, Willy-Brandt-Platz 5, Riem-Arcaden
+- TOP 10.5.: Zuwendungsbewilligung aus dem Budget des BA 15 für den Festring Trudering e.V. in Höhe von 1.600,00 Euro
+- TOP 10.6.: Zuwendungsbewilligung aus dem Budget des BA 15 für den Truderinger Musikverein e.V. in Höhe von 2.400,00 Euro
+- TOP 10.7.: Zuwendungsbewilligung aus dem Budget des BA 15 für das Kreativ Musikforum in Höhe von 375,00 Euro
+- TOP 10.8.: Zuwendungsbewilligung aus dem Budget des BA 15 für den TSV Trudering e.V. in Höhe von 2.300,00 Euro
+- TOP 10.9.: Zuwendungsbewilligung aus dem Budget des BA 15 für das Familien-Zentrum Trudering e.V. in Höhe von 1.600,00 Euro
+- TOP 10.10.: Zweckentfremdung von Wohnraum - Edeltraudstraße 19
+- TOP 10.11.: Zweckentfremdung von Wohnraum - Salzmesserstraße 83
+- TOP 10.12.: Verkehrsrechtliche Anordnung nach § 45 StVO Errichtung eines absoluten Halteverbots (Zeichen 283 StVO) in der Magdalena-Schwarz-Straße an der Nordseite zwischen Astrid-Lindgren-Straße und der Promenade sowie an der Südseite zwischen Hauseingang 12 und der Astrid-Lindgren-Straße
+- TOP 10.13.: Verkehrsrechtliche Anordnung nach § 45 StVO Errichtung eines Verkehrshelferübergangs mittels Zeichen 356 StVO (Verkehrshelfer) in der Turnerstraße westlich der Waldschulstraße
+- TOP 10.14.: Verkehrsrechtliche Anordnung nach § 45 StVO Errichtung eines Verkehrshelferübergangs mittels Zeichen 356 StVO (Verkehrshelfer) in der Waldtruderinger Straße südwestlich Am Hochstand
+- TOP 10.15.: Mitteilung der gesamtstädtischen BA-Sitzungstermine und BV-Termine für das Jahr 2007
+- TOP 10.16.: Vergabe eines unbebauten Grundstücks an der Wasserburger Landstraße / Schwablhofstraße (Flst 191/1, Teilfläche aus Flst. 191, Teilfläche aus 193/2 Gemarkung Trudering
+- TOP 10.17.: Mitteilung der MVG Stadtwerke München GmbH - Verlegung der Schulfahrt zum Ernst-Mach-Gymnasium
+- TOP 10.18.: Einführung eines Sozialtickets für bedürftige Münchner Bürger und Bürgerinnen (vgl. auch Top 2.2/12/06)
+- TOP 10.19.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München, Zusammenfassende Änderungssatzung zu den Beschlüssen über a) Beteiligung der Bezirksausschüsse bei Baumfällungen b) Beteiligung der Bezirksausschüsse durch Städt. Klinikum München GmbH c) Übertragung des Entscheidungsrechtes bei der Schließung dezentraler Kultureinrichtungen auf die Bezirksausschüsse d) Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen e) Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo f) Fahrtkostenübernahme für behinderte BA-Mitglieder Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006
+- TOP 10.20.: Änderung der Bezirksausschuss-Satzung Beteiligung der Bezirksausschüsse bei Baumfällungen, Antrag Nr. 1080 des BA 7 Sendling-Westpark Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006
+- TOP 10.21.: Änderung der Bezirksausschuss-Satzung Übertragung des Entscheidungsrechtes bei der Schließung dezentraler Kultureinrichtungen auf die Bezirksausschüsse, Antrag Nr. 1795 des BA 16 Ramersdorf-Perlach Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006
+- TOP 10.22.: Beteiligung der Bezirksausschüsse durch die Städtisches Klinikum München GmbH Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006
+- TOP 10.23.: Änderung der Bezirksausschuss-Geschäftsordnung - Ausschluss wegen persönlicher Beteiligung, Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006
+- TOP 10.24.: Änderung der Bezirksausschuss-Satzung Fahrtkostenübernahme für behinderte BA-Mitglieder, Antrag Nr. 2552 und Antrag Nr. 02-08 / B 00644 des BA 9 Neuhausen-Nymphenburg Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006
+- TOP 10.25.: Änderung der Bezirksausschuss-Satzung Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen, Antrag Nr. 02-08 / B 00433 des BA 2 Ludwigsvorstadt - Isarvorstadt Beschluss des Verwaltungs- und Personalausschusses vom 06.12.2006
+- TOP 10.26.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städtischen Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2006/2007 (Auszug für den Stadtbezirk 15 s. Top 7.1.2/01/07) Bekanntgabe im Schulausschuss des Stadtrats vom 10.01.2007
+- TOP 10.27.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2006/2007 (Auszug für den Stadtbezirk 15 s. Top 7.1.3/01/07) Bekanntgabe im Schulausschuss des Stadtrats vom 10.01.2007
+- TOP 10.28.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2006/2007 (Auszug für den Stadtbezirk 15 s. Top 7.1.4/01/07) Bekanntgabe im Schulausschuss des Stadtrats vom 10.01.2007
+- TOP 10.29.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2006/2007, Stand 20.10.2006 Bekanntgabe im Schulausschuss des Stadtrats am 10.01.2007
+- TOP 10.30.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2006/2007 (Auszug für den Stadtbezirk 15 s. Top 7.1.5/01/07) Bekanntgabe im Schulausschuss des Stadtrats vom 10.01.2007
+- TOP 10.31.: Investitionsprogramm für städtische Freisportanlagen - Sachstandsbericht 2006 Bekanntgabe im Sportausschuss des Stadtrats vom 12.12.2006
+- TOP 10.32.: Bevölkerungsprognosen 2006 der Landeshauptstadt München Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 10.01.2007
+- TOP 10.33.: Satzungen über die Genehmigungspflicht von Grundstücksteilungen (Teilungssatzungen) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.2007
+- TOP 10.34.: Ökologische Hochhäuser Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.2007
+- TOP 10.35.: Multiplikatorenschulungen in den städtischen Bewohnertreffs, Wohnforum München gGmbH - Projekt "MiTunS", Einmaliger Zuschuss / Haushaltsjahr 2007 Beschluss des Sozialausschusses vom 30.11.2006
+- TOP 10.36.: Kultur notiert - Mitteilung an alle Leser
+- TOP 10.37.: Menschen im Blickpunkt - Zeitschrift des Bayerischen Roten Kreuzes
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
