@@ -1,0 +1,71 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2007-01-29T17:30:00+01:00
+- Ende: 2007-01-29T20:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1348
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1348
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=56193
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Pädagogische Kontinuität in Kitas durch personelle Kontinuität - beantwortet
+- TOP 5.2: Schulprogramme - beantwortet
+- TOP 5.3: Scientology im Bezirk Mitte unerwünscht - beantwortet
+- TOP 5.4: Verkehrsaufkommen in der Müllerstraße - beantwortet
+- TOP 5.5: Wasserspiele am Fernsehturm - beantwortet
+- TOP 5.6: Baumaßnahmen auf dem Petriplatz - beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Kranke Mitte - beantwortet
+- TOP 6.2: Beleuchtungskonzept Weinbergspark - beantwortet
+- TOP 6.3: Köpi 137: Ordnungspolitisches Paradigma des Bezirksamtes in Gefahr? - beantwortet
+- TOP 6.4: Sanierung des Sommerbades Poststadion - zurückgezogen
+- TOP 7: Große Anfragen - schriftlich beantwortet
+- TOP 7.1: Regelungen zum Anbieten von Tabakwaren in Automaten und Jugendschutz ab dem 01.01.2007 - schriftlich beantwortet
+- TOP 7.2: Stand der Umsetzung des Gesamtkonzeptes Bürodienstgebäude - schriftlich beantwortet
+- TOP 7.3: "Schleichender Tod" einer Einkaufsstraße? - schriftlich beantwortet
+- TOP 7.4: Arbeitsbeschaffung / Arbeitsgelegenheit - schriftlich beantwortet
+- TOP 7.5: Offene Forderungen im Sozialamt - schriftlich beantwortet
+- TOP 7.6: Vergabe und Vermittlungspraxis des Jobcenters gegenüber allein erziehenden Frauen - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl des Beirates in Sozialhilfeangelegenheiten (Nachwahl) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Berufung der beratenden Mitglieder des Jugendhilfeausschusses gemäß § 35 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Beirat für dezentrale Kulturarbeit (bezugnehmend auf die Drucksache-Nr. 1709/II) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Schluss mit gesundheitspolitischer Benachteiligung von Berlin-Mitte! - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Wahl von stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Studie zu demokratiegefährdenden Phänomenen im Bezirk Mitte bei Mittes Teilnahme am Bundesprogramm "Jugend für Vielfalt, Toleranz und Demokratie" berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: ExRotaprint am Standort erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Zurück in die Schule - eine neue Alternative für das Freiwillige Soziale Jahr - überwiesen
+- TOP 12.4: Mittagessen in der Werkstatt für Behinderte Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Mehr Transparenz bei der Kulturförderung - Kulturbeirat offen wählen - in der BVV abgelehnt
+- TOP 12.6: Einsparung von Energie, Abfall und Wasser für Schulen wieder attraktiv machen - überwiesen
+- TOP 12.7: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Schluss mit dem Hindernislauf für ÖPNV-Fahrgäste am Hauptbahnhof - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Offene Drucksachen der II. Wahlperiode - zurückgezogen
+- TOP 12.10: Gesamtkonzept Parkraumbewirtschaftung in Mitte umsetzen - überwiesen
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Kinder- und Jugendschutz nicht vernachlässigen - Hilfe anbieten! - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Starker Geist; schwache Augen! - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Weihnachtsgeld - in der BVV abgelehnt
+- TOP 13.4: Schlossplatz - in der BVV abgelehnt
+- TOP 13.5: Alle Fraktionen im Beirat der Arbeitsgemeinschaft im Jobcenter Mitte berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Erhalt Wohn- und Sozialprojekt Brunnenstraße 183/ Umsonstladen (II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Bürgerbegehren zur Wiedereröffnung des Sommerbades Poststadion in Moabit - mit Abschlussbericht zur Kenntnis genommen
