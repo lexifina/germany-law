@@ -1,0 +1,155 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2007-01-30T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1078361
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1078361
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Projekt ?Rund um den Ostbahnhof? ? Strukturplan und Eckdaten
+- TOP 3.1.1.2.: ?Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt? Chancen und Perspektiven für Berg am Laim, Ramersdorf und Giesing Stadtsanierung in München am Mittleren Ring Südost A) Ergebnisse der vorbereitenden Untersuchungen gemäß § 141 Baugesetzbuch (BauGB) im Untersuchungsgebiet ?Melusinenstraße?; Überprüfung der Handlungsbedarfe im Untersuchungsgebiet ?Ortskern Berg am Laim? B) Erweiterung des Sanierungsgebietes ?Innsbrucker Ring ? westlich?; neue Bezeichnung als Sanierungsgebiet ?Innsbrucker Ring/ Baumkirchner Straße? C) Sanierungsziele für die Teilbereiche ?Melusinenstraße? und ?Ortskern Berg am Laim? D) Organisatorische Erfordernisse zur Quartiersentwicklung E) Beauftragung der Münchner Gesellschaft für Stadterneuerung mbH (MGS) mit der Durchführung von Maßnahmen im Sanierungsgebiet ?Innsbrucker Ring/ Baumkirchner Straße?
+- TOP 3.1.1.3.: Kreillerstraße 77 ? Neubau eines Gewerbegebäudes mit Einzelhandelsflächen im EG und eines Wohngebäudes mit Tiefgarage (Kreillerstraße 77 / St.-Veit-Straße) ? vertagt v. 12/06
+- TOP 3.1.1.4.: Errichtung und Betrieb eines Lagerplatzes für Bauschutt und andere Abfälle in der Truderinger Str. 23
+- TOP 3.1.2.1.: Befahren eines Gehweges am Innsbrucker Ring durch PKW ? BA-Antrag
+- TOP 3.1.2.2.: Bus 187 ? Prüfen einer Wendemöglichkeit in der Baumkirchner Straße
+- TOP 3.1.2.3.: Radverkehr Weihenstephaner Straße
+- TOP 3.1.2.4.: Parkplatzsituation in der Neumarkter Straße
+- TOP 3.1.2.5.: Magnetschwebebahn München - Hauptbahnhof ? Flughafen (MSB) A. Beschlusslage und Folgeaktivitäten B. Kosten- und Finanzierungsproblematik MSB C. Weiteres Vorgehen D. Bürgerversammlungsempfehlungen
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Ausbau der Grundschule an der Grafinger Straße zur Ganztagsschule ? Antrag Nr. 1550
+- TOP 3.3.2.: Errichtung einer Kindertagestätte mit vier Kindergartengruppen an der Grafinger Straße
+- TOP 3.3.3.: Gymnasium für den Münchner Osten
+- TOP 3.3.4.: Ausschreibung Fest zum Weltkindertag
+- TOP 3.3.5.: Planung der Einsätze der Münchner SommerSpielAktion 2007
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Sozialticket für bedürftige Münchner Bürgerinnen und Bürger
+- TOP 3.4.2.: Konzeption der regionalen Sozialberichte
+- TOP 3.6: Sonstiges
+- TOP 3.6.1.: Erstellung von Richtlinien für Veranstaltungen in Grünanlagen
+- TOP 3.7.1.: Achentalstraße 8 ? Antrag auf Baumfällung
+- TOP 3.7.2.: Achentalstraße 13 ? Antrag auf Baumfällung
+- TOP 3.7.3.: Achentalstraße 17 ? Antrag auf Baumfällung
+- TOP 3.7.4.: Achentalstraße 18 ? Antrag auf Baumfällung
+- TOP 3.7.5.: Achentalstraße 28 ? Antrag auf Baumfällung
+- TOP 3.7.6.: Achentalstraße 35 ? Antrag auf Baumfällung
+- TOP 3.7.7.: Westerhamer Str. 60 ? Antrag auf Baumfällung
+- TOP 3.7.8.: Achentalstraße 39 ? Antrag auf Baumfällung
+- TOP 3.7.9.: Achentalstraße 43 ? Antrag auf Baumfällung
+- TOP 3.7.10.: Aschheimer Str. ? Antrag auf Baumfällung
+- TOP 3.7.11.: Aßlinger Str. ? Antrag auf Baumfällung
+- TOP 3.7.12.: Bad-Schachener-Straße 1 ? Antrag auf Baumfällung
+- TOP 3.7.13.: Bad-Schachener-Straße 37 ? Antrag auf Baumfällung
+- TOP 3.7.14.: Berg-am-Laim-Straße 90 - 96 ? Antrag auf Baumfällung
+- TOP 3.7.15.: Birkkarspitzstraße 5 ? Antrag auf Baumfällung
+- TOP 3.7.16.: Birkkarspitzstraße 6 ? Antrag auf Baumfällung
+- TOP 3.7.17.: Birkkarspitzstraße 16 ? Antrag auf Baumfällung
+- TOP 3.7.18.: Dornbergstraße 2 - 4 ? Antrag auf Baumfällung
+- TOP 3.7.19.: Dornbergstraße 6 ? 26a ? Antrag auf Baumfällung
+- TOP 3.7.20.: Grafinger Straße 68 ? Antrag auf Baumfällung
+- TOP 3.7.21.: Grafinger Straße 80 ? Antrag auf Baumfällung
+- TOP 3.7.22.: Grafinger Straße 86 ? Antrag auf Baumfällung
+- TOP 3.7.23.: Grafinger Straße 92 ? Antrag auf Baumfällung
+- TOP 3.7.24.: Heufelder Str. 1 ? Antrag auf Baumfällung
+- TOP 3.7.25.: Heufelder Str. 4 ? Antrag auf Baumfällung
+- TOP 3.7.26.: Lalidererstraße 18 ? Antrag auf Baumfällung
+- TOP 3.7.27.: Oedkarspitzstraße ? Antrag auf Baumfällung
+- TOP 3.7.28.: Oedkarspitzstraße 7 ? Antrag auf Baumfällung
+- TOP 3.7.29.: Oedkarspitzstraße 29 ? Antrag auf Baumfällung
+- TOP 3.7.30.: Oedkarspitzstraße 31 ? Antrag auf Baumfällung
+- TOP 3.7.31.: Pertisaustraße 1 - 7 ? Antrag auf Baumfällung
+- TOP 3.7.32.: Pertisaustraße 11 - 39 ? Antrag auf Baumfällung
+- TOP 3.7.33.: Piusplatz ? Antrag auf Baumfällung
+- TOP 3.7.34.: Piusplatz 2 - 3 ? Antrag auf Baumfällung
+- TOP 3.7.35.: Piusplatz 4 - 5 ? Antrag auf Baumfällung
+- TOP 3.7.36.: Piusplatz 7 - 8 ? Antrag auf Baumfällung
+- TOP 3.7.37.: Piusplatz 9 ? Antrag auf Baumfällung
+- TOP 3.7.38.: Rottalstraße 4 - 8 ? Antrag auf Baumfällung
+- TOP 3.7.39.: Westerhamer Str. 10 ? Antrag auf Baumfällung
+- TOP 3.7.40.: Westerhamer Str. 18 ? Antrag auf Baumfällung
+- TOP 3.7.41.: Westerhamer Str. 21 ? Antrag auf Baumfällung
+- TOP 3.7.42.: Westerhamer Str. 23 ? Antrag auf Baumfällung
+- TOP 3.7.43.: Westerhamer Str. 28 ? Antrag auf Baumfällung
+- TOP 3.7.44.: Westerhamer Str. 40 ? Antrag auf Baumfällung
+- TOP 3.7.45.: Westerhamer Str. 51 ? Antrag auf Baumfällung
+- TOP 3.7.46.: Westerhamer Str. 52 ? Antrag auf Baumfällung
+- TOP 3.7.47.: Oedkarspitzstraße 29 ? Antrag auf Baumfällung
+- TOP 3.7.48.: Fehwiesenstraße 58 ? Antrag auf Baumfällung
+- TOP 3.7.49.: Blombergstraße 16 ? Antrag auf Baumfällung
+- TOP 3.7.50.: Sonnwendjochstraße 23 ? Antrag auf Baumfällung
+- TOP 3.7.51.: Neumarkter Str, 82 - 84 a ? Antrag auf Baumfällung
+- TOP 3.7.52.: Neumarkter Str, 88 e ? Antrag auf Baumfällung
+- TOP 3.7.53.: Baumkirchner Str. 19 / 21 ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Bevölkerungsprognose 2006 der Landeshauptstadt München
+- TOP 4.1.1.3.: Ökologische Hochhäuser - Antrag Nr. 01913 der Stadtratsfraktion Grüne/RL vom 24.08.04
+- TOP 4.1.1.4.: Satzungen über die Genehmigungspflicht von Grundstückteilungen (Teilungssatzungen) Satzung zur Aufhebung der Teilungssatzungen der Landeshauptstadt München
+- TOP 4.1.2.1.: Straßentunnels in München; Nachrüstung der Sicherheitseinrichtungen ? Leuchtenbergring - Tunnel / Innsbrucker Ring - Tunnel Projektgenehmigung
+- TOP 4.2.1.: Denkmalgeschütztes Wegkreuz Berg-am-Laim-Str. - Voruntersuchung f.d. Instandsetzung
+- TOP 4.2.2.: Kultur im Stadtquartier ? Zwischenbericht
+- TOP 4.2.3.: Kultur im Stadtquartier ? Zwischenbericht Teilprojekt 2: Vernetzung, Arbeitsteilung, Kooperation, Information, Informationstreffen zur Stadtteilkultur für die Akteure in den Stadtbezirken
+- TOP 4.2.4.: Mehr Bürgernähe bei der Münchner Volkshochschule
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Neubau Kindertagesstätte St.-Michael-Straße im 14. Stadtbezirk Berg am Laim Projektkosten - Ausführungsgenehmigung
+- TOP 4.3.2.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 06/07
+- TOP 4.3.3.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2006/2007 - Stand 20.10.2006
+- TOP 4.3.4.: Schüler- und Klassenzahlen an den städt. Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2006/2007
+- TOP 4.3.5.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2006/2007
+- TOP 4.3.6.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2006/2007
+- TOP 4.3.7.: Investitionsprogramm für städtische Freisportanlagen Sachstandsbericht 2006
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Grundsätze und Strukturen der Integrationspolitik der Landeshauptstadt München
+- TOP 4.4.2.: Multiplikatorenschulungen in den städtischen Bewohnertreffs Wohnforum München gGmbH - Projekt "MiTunS" Einmaliger Zuschuss / Haushaltsjahr 2007
+- TOP 4.4.3.: Protokoll der Informationsveranstaltung des Sozialreferats für Bezirksausschüsse
+- TOP 4.5.1.: 4.5.1.-5. Bescheide, Verwendungsnachweise und Schriftverkehr
+- TOP 4.6: Sonstige
+- TOP 4.6.1.: Änderung der Bezirksausschuss-Satzung Übertragung des Entscheidungsrechtes bei der Schließung dezentraler Kultureinrichtungen auf die Bezirksausschüsse
+- TOP 4.6.2.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München Zusammenfassende Änderungssatzung zu den Beschlüssen über a, Beteiligung der Bezirksausschüsse bei Baumfällungen b, Beteiligung der Bezirksausschüsse durch Städt. Klinikum München GmbH c, Übertragung des Entscheidungsrechtes bei der Schließung dezentraler Kultureinrichtungen d, Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen e, Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo f, Fahrtkostenübernahme für behinderte BA-Mitglieder
+- TOP 4.6.3.: Informationsveranstaltung für die Vorsitzenden der Bezirksausschüsse
+- TOP 4.6.4.: Protokoll zum BA-Vorsitzendentreffen
+- TOP 4.6.5.: Bauvorhaben der Stadtwerke in Berg am Laim
+- TOP 4.6.6.: Abbruchanzeige Eibenstockstraße
+- TOP 4.6.7.: Gaststätte Fuh Wah ? Antrag auf unveränderte Fortführung
+- TOP 4.6.8.: Café-Bar Kapkara ? Antrag auf unveränderte Fortführung
+- TOP 4.6.9.: Finanzplan 2006 - 2010
+- TOP 4.7.1.: Bescheid Hohenbrunner Str.
+- TOP 4.7.2.: Bescheid Blombergstr.
+- TOP 4.7.3.: Bescheid Gerlosstr.
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
