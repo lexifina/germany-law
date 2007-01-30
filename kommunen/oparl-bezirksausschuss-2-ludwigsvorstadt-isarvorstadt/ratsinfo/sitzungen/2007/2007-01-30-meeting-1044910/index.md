@@ -1,0 +1,93 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2007-01-30T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1044910
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1044910
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Einrichtung einer öffentlichen Uhr auf dem Baldeplatz
+- TOP .2.: Erhöhung der Zahl der Christbaumsammelstellen im 2.Stadtbezirk
+- TOP .2.1.: BA-Budget
+- TOP .1.: Zuschuss aus dem BA-Budget an den VIDK e.V. für die Instandsetzung der Probenräume
+- TOP .2.2.: Kultur
+- TOP .1.: Planung der Einsätze der Münchner SommerSpielAktion 2007
+- TOP .1.: Stadtteilbroschüre
+- TOP .2.: BA-eigene Veranstaltungen (siehe UA-Protokoll)
+- TOP .5.1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .3.1.: Bauvorhaben
+- TOP .1.: Augsburgerstr. 23, DG-Ausbau
+- TOP .2.: Schwanthalerstr. 74, Neubau einer Wohnanlage mit TG (Tektur)
+- TOP .3.: Bayerstr. 77+77 a, Nutzungsänderung: Wohnen in Gewerbe durch Flächenaustausch und bauliche Änderungen
+- TOP .4.: Lindwurmstr. 99, Neubau von Wohnungen und Umbau von Gewerbeflächen zu Wohnungen und Tiefgarage (Tektur)
+- TOP .5.: Reichenbachstr. 20, Neubau eines Wohngebäudes mit TG - Vorbescheid (2 Varianten)
+- TOP .6.: Isartalstr. 26, Verkauf einer städtischen Immobilie
+- TOP .7.: Zenettistr. 47, DG-Ausbau und Aufstockung Rückgebäude
+- TOP .8.: Zenettistr. 47, DG-Ausbau Vordergebäude
+- TOP .9.: Reichenbachstr. 13, Änderung eines ausgebauten Dachgeschosses, Anbringen v. Balkonen und einer Nottreppe u.a.m.
+- TOP .10.: Änderung des Flächennutzungsplans und Bebauungsplans mit Grünordnung Müller-straße (ehem. Fernheizkraftwerk) zwischen Cornelius- und Fraunhoferstraße. -Auf-stellungsbeschluss-
+- TOP .11.: Baaderstr. 49, Dachgeschosssausbau und Einbau von Dachterrassen (VGB) ? Tek-tur
+- TOP .12.: Klenzestr. 85, Modernisierung; Beschlussvorlage des Kommunalreferats
+- TOP .13.: Waltherstr. 27, Umbau eines Wohnhauses (RGB) mit Gewerbeflächen
+- TOP .14.: Landwehrstr. 16, Aufstockung, DG-Ausbau, Anbau, Errichtung einer Mehrfachpark-anlage, Anbau Aufzug u. Balkone, Nutzungsänderung Büro zu Wohnung
+- TOP .15.: Zenettistr. 37, Nutzungsänderung: Einbau von Wohnungen im Gaststätten- und Werkstättenbereich sowie bauliche Änderungen
+- TOP .3.2: Parkraummanagement
+- TOP .3.3: Magnetschwebebahn München Hauptbahnhof- Flughafen
+- TOP .3.4: Hauptbahnhof - Laim - Pasing, Fuß- und Radwegegkonzept
+- TOP .1.: ?Ramadama? im Glockenbachviertel im Frühjahr (Bürgerschreiben) ? Vertagung v. 12.12.2006
+- TOP .2.: Parkplatz am Kapuzinerplatz ? Umbau des Gehwegs (Bürgerschreiben)
+- TOP .3.: Platz an der Maximilianskirche
+- TOP .5.1.: Berichte der Beauftragten (Baumschutz, AK Attraktive Innenstadt)
+- TOP 1: (E) Öffnung von Einbahnstraßen für Radfahrer im 2. Stadtbezirk Empfehlung Nr. 02-08 / E 0067 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 03.05.2005 Aufhebung der Einbahnregelung für Radfahrer Empfehlung Nr. 02-08 / E 0058 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 03.05.2005 Zulassung des Radverkehrs in der Gegenrichtung in der Holzstraße Empfehlung Nr. 02-08 / E 00258 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 10.11.2005 Freigabe von Einbahnstraßen für Radfahrer in beide Fahrtrichtungen Empfehlung Nr. 02-08 / E 00634 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 16.11.2006
+- TOP 2: (E) Lärmbelästigung durch die Diskothek "The Garden" Empfehlung Nr. 02-08 / E 00626 der Bürgerversammlung des Stadtbezirkes 2 - Ludwigsvorstadt-Isarvorstadt - am 16.11.2006
+- TOP 3: (E) Verlagerung des abgesagten Weihnachtsmarktes vom Harras auf den Karl-Heinrich-Ulrich-Platz (lezter Satz der Antragsbegründung) Empfehlung Nr. 02-08 / E 00631 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 16.11.2006
+- TOP 3.3.1.: Sperrzeit-Angelegenheiten
+- TOP 3.3.2.: Freischankflächen
+- TOP 3.1.: SSW ?Klenze 17?, Zusatzantrag zur Aufstellung von Heizstrahlern
+- TOP 3.2.: Sport-Café Schiller, Schillerstr. 3+3a, Ausdehnung der Schankzeit auf der FSF von 24.00 auf 01.00 Uhr
+- TOP 3.3.: Café Klenzestr. 30, Vergrößerung der FSF
+- TOP 3.3.3.: Warenstellagen
+- TOP 3.1.: Straßenfest Pestalozzistraße am 01.09.2007
+- TOP 3.2.: Festzug und Veranstaltung zum St. Patricks Day am 11.03.2007
+- TOP 3.3.: Frühlingsfest 2007 - Zusatzveranstaltung Truckertreffen
+- TOP 3.4.: Lärmbelästigungen durch das REWE Family Fest auf der Theresienwiese; Beschlussentwurf zu einer Bürgerversammlungsempfehlung vom 16.11.2006
+- TOP 3.5.: Grobkonzept ?Unter dem Pflaster der Strand? 2007, Standort Corneliusbrücke
+- TOP 3.6.: Erstellung der Richtlinien für Veranstaltungen in Grünanlagen
+- TOP 3.3.5: Verkehr
+- TOP 3.1.: Linksabbiegemöglichkeit von der Corneliusstraße Fahrtrichtung stadtauswärts, in die Baaderstraße
+- TOP 3.2.: Einrichtung eines Fahrradweges in der Elisenstraße in beiden Fahrtrichtungen; Anhörung zur Bürgerversammlungsempfehlung vom 16.11.2006
+- TOP 3.3.: Haltestelle Hauptbahnhof der Buslinie 58; Beschlussentwurf zu einer Bürgerver-sammlungsempfehlung vom 10.11.2005
+- TOP 3.4.: Dialog Display
+- TOP 3.3.6: Bäume - Empfehlungen des BAumschutzbeauftragten
+- TOP 3.1.: Maistr. 40, Fällung 1 kranken Robinie
+- TOP 3.2.: Informationen über die Eingriffe des Baureferats in den Gehölzbestand - Verfahrensweise
+- TOP 3.1.: Tempolimit in der Müllerstraße (Bürgerschreiben)
+- TOP 3.2.: Anschaffung eines Simulatorwagens für Tempo-30-Sünder (Antrag des BA 17)
+- TOP 3.3.: Bordsteinabsenkungen am Holzplatz (Antrag des Behindertenbeauftragten des BA 17)
+- TOP 3.4.: Gefährdung von Kindern Ecke Zweibrücken-/Morassistraße
+- TOP 3.5.: Besichtigung des neuen Verkehrsmuseums am 10.03.2007 (Nachmittags)
+- TOP 3.6.: Reinigung des Parks an der Matthäuskirche am 24.03.2007 ab 10.00 Uhr
+- TOP 3.5.1: Berichte der Beauftragten ( AK Theresienwiese)
+- TOP 3.1.: Termine
+- TOP 3.3.: Sonstiges / Verschiedenes
+- TOP 3.3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP 3.3.2.: Berichte aus den anderen BA
+- TOP 3.3.3.: Bericht des Internetbeauftragten
+- TOP 3.3.4: Benennung einer/eines REGSAM-beauftragten
+- TOP 3.3.5: Teilnehmeranmeldung Kultur im Stadtquartier am 07.03.07
+- TOP 3.3.6: Budgetantrag Fortführung Südliches Bahnhofsumfeld
+- TOP 3.5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP 3.3.: Anhörungen
+- TOP 3.4.: Unterrichtungen (siehe Infos)
+- TOP 3.2.: Veranstaltungen
