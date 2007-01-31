@@ -1,0 +1,63 @@
+# 4. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2007-01-31T17:30:00+01:00
+- Ende: 2007-01-31T21:45:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1524
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1524
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=24558
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - erledigt
+- TOP 1.2: Geschäftliche Mitteilung - erledigt
+- TOP 1.3: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4: Telefonanschlüsse - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl von Mitgliedern des Kuratoriums der Seniorenstiftung Prenzlauer Berg - gewählt
+- TOP 1.9: Wahl von ( 5) Bezirksverordneten als Mitglieder des Beirates der Vivantes-Netzwerk für Gesundheit GmbH - gewählt
+- TOP 1.10: Wahl von (2) Bezirksverordneten als Mitglieder des Heimkuratoriums der Senioreneinrichtungen der Paritätischen Gesellschaft für Gesundheit- und Sozialdienste - gewählt
+- TOP 1.11: Wahl eines Bezirksverordneten in den Verein der Städtepartnerschaft mit Kolobrzeg - gewählt
+- TOP 1.12: Wahl von 2 Mitgliedern der Arbeitsgemeinschaft (JobCenter Pankow) - gewählt
+- TOP 1.13: Wahl eines/einer Bezirksverordneten als Mitglied in den Verwaltungsrat des Eigenbetriebes "Kindergärten NordOst" - gewählt
+- TOP 1.14: Wahl von Bürderdeputierten - gewählt
+- TOP 1.15: Ausbau der Malchower Straße (Ortsteil Heinersdorf) von Industriebahn bis Blankenburger Straße (2. Bauabschnitt) - überwiesen
+- TOP 1.16: Anmeldung für die Investitionsplanung 2007 bis 2011 Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Nachschiebeliste zur Anmeldung für die Investitionsplanung 2007 bis 2011 Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Nachweis der im Haushaltsjahr 2005 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Mehr Sicherheit für Kinder Am Friedrichshain - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Ampelanlage Pistoriusstraße Ecke Am Steinberg - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Der Beteiligungshaushalt - BürgerInnenorientiertes Haushaltsplan-Aufstellungsverfahren - zurückgezogen
+- TOP 1.21: Bürgerhaushalt - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Städtebauliches Konzept für den ehemaligen Güterbahnhof Heinersdorf - überwiesen
+- TOP 1.23: Schließung Polizeiabschnitt 18, Idastraße, verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Fortführung der Stadterneuerung im Bezirk Pankow - überwiesen
+- TOP 1.25: Ombudsstelle für Hartz IV- Betroffene im BA Pankow - überwiesen
+- TOP 1.26: Bau der Sporthalle in der Neuen Schönholzer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Parkverbot in der Pankgrafenstraße - überwiesen
+- TOP 1.28: Zusammenleben im Bezirk Pankow - überwiesen
+- TOP 1.29: Erarbeitung eines Pankower Integrationskonzeptes - überwiesen
+- TOP 1.30: Gestaltung der Besprechungsräume Nr. 227 im Haus 6 und Nr. 411 im Haus 9 - überwiesen
+- TOP 1.31: Gedenktafel für Synagoge in der Schönholzer Heide - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Neue Impulse für den Agendaprozess in Pankow - überwiesen
+- TOP 1.33: Schallschutzmaßnahmen Naherholungsgebiet Weißensee - überwiesen
+- TOP 1.34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.35: Danziger Straße umgestalten - überwiesen
+- TOP 1.36: Verbesserung des öffentlichen Raumes in den Sanierungsgebieten - überwiesen
+- TOP 1.37: Parkraumbewirtschaftung prüfen - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Illegale Plakate aus dem Pankower Straßenbild entfernen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Übertragung der Leitung eines Geschäftsbereichs - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Vertretungsregelung der Bezirksamtsmitglieder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Festlegung der Beauftragten für den Haushalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Bebauungsplanentwurf XVIII-23 für das Gebiet zwischen den Straßen Am Da-newend, Hubertusdamm, Bahnhofstraße und dem Bahngelände sowie Abschnitte der Straßen Am Danewend, Hubertusdamm und Bahnhofstraße im Bezirk Weißensee, Ortsteil Karow. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Bestellung von Mitgliedern im Verwaltungsrat des Eigenbetriebes "Kindergärten NordOst" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Neubesetzung des Stiftungsrates der Stiftung Pfefferwerk - mit Abschlussbericht zur Kenntnis genommen
