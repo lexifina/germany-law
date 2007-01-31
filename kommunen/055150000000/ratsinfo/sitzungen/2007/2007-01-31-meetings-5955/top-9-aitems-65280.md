@@ -1,0 +1,8 @@
+# TOP 9: Schulung von Mitarbeiterinnen/Mitarbeitern von Kindertageseinrichtungen in Triple P-Kurzberatung
+
+- Sitzung: 17. Sitzung des Ausschusses für Kinder, Jugendliche und Familien (2007-01-31)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/65280
+- Ergebnis: vertagt
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/35881
