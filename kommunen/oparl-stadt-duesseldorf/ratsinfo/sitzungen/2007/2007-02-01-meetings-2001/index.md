@@ -1,0 +1,69 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-02-01T14:06:00+01:00
+- Ende: 2007-02-01T19:33:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2001
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2001
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111963.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111963.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111963.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Anfr. aktuell d. SPD-Rfr. Bürgerhaus Gerresheim - zur Kenntnis genommen
+- TOP 5: Akt. Anfr. Lbbg: Gesundheitsförderung - zur Kenntnis genommen
+- TOP 6: Anfragen - zur Kenntnis genommen
+- TOP 7: Anfr. Bü90: Klimaerwärmung - zur Kenntnis genommen
+- TOP 8: Anfr. CDU: Unternehmenssteuerreform - zur Kenntnis genommen
+- TOP 9: Anfr. CDU: Klau-Kids - zur Kenntnis genommen
+- TOP 10: Anfrage des Ratsherrn Dr. Fils: Kohlekraftwerk - zur Kenntnis genommen
+- TOP 11: Anfr. Bü90: Versorgungsämter - zur Kenntnis genommen
+- TOP 12: Anfr. Rh Lbbg: Gebührenentwicklung - zur Kenntnis genommen
+- TOP 13: Anfr. Rh Lbbg: Gerro Plast - zur Kenntnis genommen
+- TOP 14: Anträge - zur Kenntnis genommen
+- TOP 15: Antr. CDU/FDP: Quadriennale 2006 - einstimmig beschlossen
+- TOP 16: Ändantr. SPD: Quadriennale 2006 - mehrheitlich abgelehnt
+- TOP 17: Ergantr Bü90: Quadriennale 2006 - mehrheitlich abgelehnt
+- TOP 18: Antr. CDU/FDP: Kulturwirtschaftsbericht - einstimmig beschlossen
+- TOP 19: Ergantr. Bü90: Kulturwirtschaft - mehrheitlich abgelehnt
+- TOP 20: Antr. CDU: Graffiti - mehrheitlich beschlossen
+- TOP 21: Ändantr. SPD: Task Force Graffiti - mehrheitlich abgelehnt
+- TOP 22: Antr. SPD: Kö Bogen - mehrheitlich abgelehnt
+- TOP 23: Erganntr. Bü90: Kö-Bogen - mehrheitlich abgelehnt
+- TOP 24: Antr. Bü90: Außengastronomie Hafen - mehrheitlich abgelehnt
+- TOP 25: Antr. SPD : Projektmanagement im Baubereich - zur Kenntnis genommen
+- TOP 26: ÄA SPD Rfr.: Projektmanagement im Baubereich - einstimmig beschlossen
+- TOP 27: Antrag d. SPD Rfr: Zukunft der Sparkassen - mehrheitlich abgelehnt
+- TOP 28: Kämmererliste - mehrheitlich beschlossen
+- TOP 29: Erschließung Am Quellenbusch Am Quellenbusch/Tor - einstimmig beschlossen
+- TOP 30: Umbau Wilhelm-Heinr. Weg - einstimmig beschlossen
+- TOP 31: Wirtschaftsplan 2007 - einstimmig beschlossen
+- TOP 32: Wirtschaftsplanung 2006 - 2010 - einstimmig beschlossen
+- TOP 33: Bereitstellung von außerplanmäßigen Mitteln Rücker - einstimmig beschlossen
+- TOP 34: Bericht zur Umsetzung des Frauenförderplanes - zur Kenntnis genommen
+- TOP 35: Plan zur beruflichen Chancengleichheit von Frauen - einstimmig beschlossen
+- TOP 36: Festlegung der Zügigkeit - einstimmig beschlossen
+- TOP 37: Bildungsoffensive II - OGATA - einstimmig beschlossen
+- TOP 38: 14. Ordnung zur Änderung der Benutzungsordnung - mehrheitlich beschlossen
+- TOP 39: ÄA SPD Rfr.: Benutzungsordnung der Stadtbüchereien - mehrheitlich abgelehnt
+- TOP 40: Beschluss zur Aufstellung und öffentlichen - einstimmig beschlossen
+- TOP 41: Umbesetzung von Ausschüssen - einstimmig beschlossen
+- TOP 42: Zweckverband Wildgehege Neandertal - mehrheitlich beschlossen
+- TOP 43: Verbandsvers. Zweckverband Unterbacher See - mehrheitlich beschlossen
+- TOP 44: Abberufung eines Prüfers des RPA - einstimmig beschlossen
+- TOP 45: Wiederwahl von Schiedspersonen - einstimmig beschlossen
+- TOP 46: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 47: FNPÄ 126-In den Kötten-Sellungnahmen; Plan - einstimmig beschlossen
+- TOP 48: B-Plan Nr. 5972/18 - Industriegebiet - einstimmig beschlossen
+- TOP 49: BPl5379/057-Beiders.Josef-Gockeln-Stell.Ä.Satzung - einstimmig beschlossen
+- TOP 50: BPl5273/004-Nördl.Aderdamm-Stell.Satzung - einstimmig beschlossen
+- TOP 51: B-Plan Nr. 5670/020 - Auf´m Wettsche - mehrheitlich beschlossen
+- TOP 52: B-Plan Nr. 5774/26 - Karl-Geusen-Straße - einstimmig beschlossen
