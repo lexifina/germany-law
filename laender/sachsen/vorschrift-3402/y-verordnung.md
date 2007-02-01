@@ -1,2 +1,2 @@
-# Verordnung des Sächsischen Staatsministeriums der Finanzen über Zuständigkeiten im Bereich der Finanzverwaltung (Finanzverwaltungszuständigkeitsverordnung – FVwZuVO)
-Rechtsbereinigt mit Stand vom 28. November 2019
+# Verordnung des Sächsischen Staatsministeriums der Finanzen über Bezeichnung, Sitz, Bezirk und Zuständigkeit der Finanzämter (Finanzamts-Zuständigkeitsverordnung – FAZustVO)
+Rechtsbereinigt mit Stand vom 1. Februar 2007
