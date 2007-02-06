@@ -1,0 +1,71 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2007-02-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1037722
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1037722
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Kassenbericht Haushaltsjahr 2006 des Bezirksausschusses - <div>zur Kenntnis genommen</div>
+- TOP 2.: Entscheidungsfälle
+- TOP 1: (E) Anordnung einer Kurzparkzone im Bereich des Feldmochinger Bahnhofs West, insbesondere an der Paul-Preuß-Straße, Josef-Frankl-Straße und am Walter-Sedlmayr-Platz ( Ziff.2 des Antrages) Empfehlung Nr. 02-08 / E 00416 der Bürgerversammlung des 24. Stadtbezirkes Feldmoching-Hasenbergl am 30.05.2006
+- TOP 1.2.: Gewährung eines Zuschusses aus dem BA-Budget: Dorffasching in Feldmoching am 18.02.2007
+- TOP 3.2.: Instandsetzung der Schleißheimer Straße einschließlich des Mittelteilers zwischen Weitlstraße und Augustin-Rösch-Straße - <div>mit Änderungen beschlossen; siehe BA-Antrag Nr. 02-08 / B 01821</div>
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Vollzug der Baumschutzverordnung: a) Dülferstr. 118 b) Wintersteinstr. Flur-Nr. 1348/140 c) Adlerfarnstr. 10 a d) Frauenschuhstr. 7 b e) Niederalteicher Str. 7 - <div>Beschluss wie UA Baum vorgeschlagen, einstimmig zugestimmmt</div>
+- TOP 5.2.: Erstellung von Richtlinien für Veranstaltungen in Grünanlagen - <div>Zustimmung, einstimmig</div>
+- TOP 5.3.: Planung der Münchner Sommer Spiel Aktion
+- TOP 5.4.: Konzept der regionalen Sozialberichte
+- TOP 5.5.: Ausschreibung Weltkindertag
+- TOP 5.6.: Informationen über Eingriffe in den Gehölzbestand
+- TOP 5.7.: Einrichtung eines personenbezogenen Behindertenparkplatzes a) in der Linkstr. 7 b) in der Aschenbrennerstr. 26 - nicht öffentlich - - <div>Zustimmung, einstimmig</div>
+- TOP 5.8.: Straßenausbaumaßnahmen Hummelblumenstraße - <div>Zustimmung, einstimmig</div>
+- TOP 5.9.: Straßenausbaumaßnahmen Thelottstraße - <div>Zustimmung, mehrheitlich</div>
+- TOP 5.10.: Mustervorlagen für Plakate und Faltblätter der Bezirksausschüsse - <div>Zustimmung, einstimmig</div>
+- TOP 5.11.: Feuerwerk am 10.02.2007 - <div>Zustimmung, mehrheitlich</div>
+- TOP 5.12.: Gemeinde Karlsfeld: Bebauungsplan Nr. 96, Hans-Carossa-Straße - <div>zur Kenntnis genommen, keine Einwände</div>
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Unterbindung der Querung der Feldmochinger Straße auf Höhe Am Schnepfenweg - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Aufwertung und Umgestaltung des Goldschmiedplatzes und des Dülferangers - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Verkehrsrechtliche Anordnungen: a) Kurzparkzone in der Josef-Frankl-Str. Höhe Walter-Sedlmayr-Platz b) Verkehrsberuhigter Bereich Reigersbachstraße c) Verkehrsberuhigter Bereich Schwertlilienweg und Blausternanger d) Buslinie 175 Anordnung der Haltestellen - <div>zur Kenntnis genommen</div>
+- TOP 6.4.: Unveränderte Fortführung eines Gaststättenbetriebes: a) Feldmochinger Eck, Feldmochinger Str. 224 - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Vollzug der Baumschutzverordnung, Beseitigung von Borkenkäferbäumen: Luitfriedstraße 1 - <div>zur Kenntis genommen</div>
+- TOP 6.6.: Fällung von Gefahrenbäumen - <div>zur Kenntnis genommen</div>
+- TOP 6.7.: Zweckentfremdung von Wohnraum: Karlsfelder Straße 25
+- TOP 6.8.: Meldelisten Bauvorhaben - <div>zur Kenntnis genommen</div>
+- TOP 6.9.: Baumaßnahmen der Stadtwerke München - <div>zur Kenntis genommen</div>
+- TOP 6.10.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Projektfortschrittsbericht 2006 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung" - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2006/2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Schüler- und Klassenzahlen an den städt. Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2006/2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Schüler- und Klassenzahlen an den städt. und staatl. Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2006/2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2006/2007 Stand 20.10.2006 - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2006/2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Bevölkerungsprognose 2006 der Landeshauptstadt München - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Satzungen über die Genehmigungspflicht von Grundstücksteilungen (Teilungssatzung) - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Ökologische Hochhäuser Antrag Nr 02-08/A01913 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 24.08.2004 - <div>zur Kenntnis genommen</div>
+- TOP 6.20.: Finanzplan 2006 - 2010 - <div>zur Kenntnis genommen</div>
+- TOP 6.21.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz - <div>zur Kenntnis genommen</div>
+- TOP 6.22.: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 -2011 - <div>zur Kenntnis genommen</div>
+- TOP 6.23.: Rückversetzung eines Halteverbotschildes in der Petrarcastraße - <div>zur Kenntnis genommen</div>
+- TOP 6.24.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.25.: Einrichtung von 2 Behindertenparkplätzen vor dem AWO-Dorf in der Stösserstr. 14-15 (Antrag Nr. 1673 vom 05.12.2006) - <div>zur Kenntnis genommen</div>
+- TOP 6.26.: Beschilderung des Neubaugebietes Detmoldstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.27.: Verkauf eines Grundstückes Dahlienstraße 13 - nicht öffentlich - - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Jugend, Soziales, Schule, Kultur
+- TOP 7.2.: Schulreferat trifft die Bezirksausschüsse
+- TOP 7.3.: Planungsreferat trifft die Bezirksausschüsse
+- TOP 7.4.: Koordinierungsgruppe und Arbeitskreise Soziale Stadt
+- TOP 7.5.: Ortstermin Reschreiterstraße
+- TOP 8.: Verschiedenes
+- TOP 8.1.: Außerordentliche Bürgerversammlung der Stadtbezirke 2 Ludwigsvorstadt-Isarvorstadt, 3 Maxvorstadt, 8 Schwanthalerhöhe, 9 Neuhausen-Nymphenburg, 10 Moosach, 11 Milbertshofen-Am Hart, und 24 Hasenbergl-Feldmoching am 16.02.2007 um 19.00 Uhr im Casino der Stadtwerke München, Emmy-Noether-Straße 2, 80992 München
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
