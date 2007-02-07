@@ -1,0 +1,57 @@
+# 25. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-02-07T17:00:00+01:00
+- Ende: 2007-02-07T20:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5946
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5946
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00243949.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NW - entfällt
+- TOP 3: Beantwortung von Anfragen
+- TOP 3.1: Ausgleichsmaßnahmen für den Aasee infolge des Bauprojekts "Aaseeterrassen" - zur Kenntnis genommen
+- TOP 3.2: Dorffeldstraße - Umbau zwischen Roxeler Straße und Paul-Gerhard-Straße - Vorlage V/0543/2006/1 - zur Kenntnis genommen
+- TOP 4: Berichte
+- TOP 4.1: Leitlinie zur Genehmigungspraxis bei der Freigabe von Verkaufssonntagen nach dem Ladenschlussgesetz - zur Kenntnis genommen
+- TOP 4.2: Bebauungsplan Nr. 487: Roxel - Pienersallee, neuer DB-Haltepunkt - zur Kenntnis genommen
+- TOP 4.3: Ergebnisbericht - zur Kenntnis genommen
+- TOP 4.4: Maßnahmenprogramm 2007 des Amtes für Grünflächen und Umweltschutz im Bezirk Münster-West - zur Kenntnis genommen
+- TOP 5: Entscheidungen
+- TOP 5.1: Dorffeldstraße - mehrheitlich geändert beschlossen
+- TOP 5.1.1: Dorffeldstraße - mehrheitlich geändert beschlossen
+- TOP 5.2: Öffentliche Grünanlagen Baugebiete Albachten, B-Plan 438 - einstimmig beschlossen
+- TOP 5.3: Baugebiet Roxel-Nord, Öffentliches Grün mit Spielplatz "Im Seihof" - - einstimmig beschlossen
+- TOP 6: Anhörungen
+- TOP 6.1: Entwurf des Haushaltsplanes 2007 des Finanzplanes und Investitionsprogramms 2006 - 2010 - mehrheitlich geändert beschlossen
+- TOP 6.2: 3. Kindertageseinrichtung im Neubaugebiet Gievenbeck-Südwest - nördlicher Teil - einstimmig geändert beschlossen
+- TOP 6.3: Erweiterung der Augustin-Wibbelt-Schule Roxel, städt. Förderschule, Förderschwerpunkt Lernen - einstimmig beschlossen
+- TOP 6.4: Bebauungsplan Nr. 268, 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.5: Bebauungsplan Nr. 273 I, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.6: Bebauungsplan Nr. 273 II, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.7: Bebauungsplan Nr. 306, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.8: Bebauungsplan Nr. 312, 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.9: Vorhabenbezogene 2. Änderung des Bebauungsplanes Nr. 342: Mecklenbeck - einstimmig geändert beschlossen
+- TOP 6.10: 3. Änderung des Bebauungsplanes Nr. 412: Mecklenbeck - Ossenkampstiege / Schürbusch - mehrheitlich beschlossen
+- TOP 6.11: 3. Änderung FNP - Beschluss über die Stellungnahmen - Beschluss zur erneuten Offenlegung - einstimmig beschlossen
+- TOP 6.12: Kanalsanierung Domagkstraße - einstimmig beschlossen
+- TOP 6.13: Gräftenanlage Haus Rüschhaus - einstimmig beschlossen
+- TOP 6.14: Fortführung der Naturdenkmal-Verordnung für den baulichen Außenbereich - einstimmig beschlossen
+- TOP 6.15: Bau- und Errichtungszuschuss für die neue Kindertageseinrichtung des Studentenwerkes Münster - mehrheitlich geändert beschlossen
+- TOP 6.16: Jugendarbeitslosigkeit in Münster - Flankierende Maßnahmen der Jugendberufshilfe - vertagt
+- TOP 6.17: Schulentwicklungsplanung 2007 bis 2010 für die städtischen weiterführenden Schulen - in der Fassung der Ergänzungsvorlage beschlossen
+- TOP 6.17.1: Schulentwicklungsplanung 2007 bis 2010 für die städtischen weiterführenden Schulen - mehrheitlich beschlossen
+- TOP 7: Vorschläge und Anregungen
+- TOP 7.1: Liegenschaften im Besitz der Stadt Münster - vertagt
+- TOP 7.2: Gewässer an der Appelbreistiege (Fahrradweg zwischen Kreisverkehr Von-Esmarch-Straße und - eingebracht
+- TOP 7.3: Verlängerung der 30 km/h - Geschwindigkeitsbegrenzung auf der Diekmannstraße bis zum Freiherr-vom-St - eingebracht
+- TOP 7.4: Verbesserung des Umfeldes des Serra Kunstwerkes - Nutzung Rüschhaus als Standesamt - eingebracht
+- TOP 7.5: Bäderkalender der Stadt Münster (gültig ab 12. August 2007) - zur Kenntnis genommen
+- TOP 7.6: Lärmschutz für Roxel - Senkung der zulässigen Höchstgeschwindigkeit entlang der BAB 1 prüfen - eingebracht
+- TOP 8: Verschiedenes - entfällt
