@@ -1,0 +1,64 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2007-02-07T16:05:00+01:00
+- Ende: 2007-02-07T16:14:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5497
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5497
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 24.01.07 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00076732.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00077417.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten (nur Rat)
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Übertragung von Vermögensgegenständen der RWE Plus AG auf die WSW AG gemäß Konsortialvertrag
+- TOP 2.1.1: Anfrage der Fraktion DIE LINKSPARTEI.PDS im Rat der Stadt Wuppertal vom 25.01.2007 - Übertragung von
+- TOP 2.2: Subventionen in das alte Schwebebahngerüst
+- TOP 2.3: Ausbildungssituation in Wuppertal
+- TOP 2.4: Überprüfung von sozialen Arbeitsgelegenheiten
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: ARGE geförderte Sprachkurse im Anschluss an Integrationskurse - vertagen
+- TOP 4.2: Klimaschutz-Kampagne - vertagt auf Rat
+- TOP 4.3: Resolution: Arbeitsfähigkeit der ARGE Wuppertal muss sichergestellt werden - ungeändert beschlossen
+- TOP 4.4: Bergische Zusammenarbeit - zur Vorberatung verwiesen
+- TOP 4.5: Änderung des § 24 Abs. 5 Abfallwirtschaftssatzung - zur Vorberatung verwiesen
+- TOP 4.6: Maßnahmen zur Beseitigung der Orkan-Schäden - ungeändert beschlossen
+- TOP 4.7: Resolution Landespersonalvertretungsgesetz - vertagt auf Rat
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Versendung von Elternbriefen
+- TOP 6: Ortsrecht
+- TOP 6.1: Abweichungssatzung In der Fleute - ungeändert beschlossen
+- TOP 6.2: Änderung des Taxentarifs - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2007 - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan des GMW 2007 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 884/2 - Nöllenhammerweg/ Harzstraße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplanverfahren Nr. 1073 V -Baumarkt Widukindstraße- - ungeändert beschlossen
+- TOP 9.3: Sammelverfahren zur Änderung der Bebauungspläne (Sicherung von Waldflächen) - ungeändert beschlossen
+- TOP 9.4: Bauleitplanverfahren Nr. 963 -Bahnstraße Ost Nösenberg- 1. Änderung - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Realisierung von Optionen bei der Sanierung des Opernhauses - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Fortschreibung des Umweltmanagementhandbuchs
+- TOP 11.2: Aufbau und Einrichtung eines Service-Centers, hier: Finanzierungsplan u. außerplanm. Bereitstellung - vertagt auf Rat
+- TOP 11.3: Neustrukturierung der städtischen Tageseinrichtung für Kinder Marienstr. 7+10 - vorbehaltlich beschlossen
+- TOP 11.4: Gewährung von Zuwendungen für Spielgruppen und andere Gruppen - ungeändert beschlossen
+- TOP 11.5: Weiterführung der integrativen Lerngruppe "zieldifferent" - ungeändert beschlossen
+- TOP 11.6: Kunst im öffentlichen Raum
+- TOP 11.7: Gremientätigkeiten von Herrn Oberbürgermeister Peter Jung
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Wahl des Vertreters der Jagdgenossenschaft in den Jagdbeirat der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12.2: Entsendung von Delegierten als Vertreter der Stadt Wuppertal in die Wupperverbandsversammlung - vertagt auf Rat
+- TOP 12.3: Umbesetzung im Verbandsrat des Abfallwirtschaftsverbandes EKOCity - ungeändert beschlossen
+- TOP 12.4: Umbesetzung im Schulausschuss - ungeändert beschlossen
+- TOP 12.5: Abberufung und Bestellung eines sachkundigen Einwohners mit beratender Stimme als Mitglied des Aussc - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
