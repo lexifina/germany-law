@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2007-02-08T16:00:00+01:00
+- Ende: 2007-02-08T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZSVBA6o8yREGLZ7toLD5PQ8
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3083
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXQyDLg2qIuVhjdcMPQrfB03PgIhkXFF8QyEFORs2mw6/Oeffentliche_Niederschrift_Rat_08.02.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NW
+- TOP 2: Protokoll
+- TOP 3: Protokoll
+- TOP 4: Umbesetzung von Ausschüssen
+- TOP 5: Umbesetzung von Ausschüssen
+- TOP 6: 34. ordentliche Hauptversammlung des Deutschen Städtetages
+- TOP 7: 34. ordentliche Hauptversammlung des Deutschen Städtetages
+- TOP 8: Musikschule der Stadt Solingen
+- TOP 9: Erklärung des Rates zu Äußerungen und Handlungen von Günter Kissel
+- TOP 10: Wirtschaftsplan der Bergischen Volkshochschule
+- TOP 11: NKF-Pilothaushat 2007 und Nachtragshaushaltsplan zum Doppelhaushalt 2006/2007
+- TOP 12: NKF-Pilothaushat 2007 und Nachtragshaushaltsplan zum Doppelhaushalt 2006/2007
+- TOP 13: NKF-Pilothaushat 2007 und Nachtragshaushaltsplan zum Doppelhaushalt 2006/2007
+- TOP 14: Verkaufsoffener Sonntag
+- TOP 15: Verkaufsoffene Sonntage
+- TOP 16: Rechnungslegung nach Handelsgesetzbuch
+- TOP 17: Jahresabschluss 2005 des Vermögensbetriebes der Stadt Solingen
+- TOP 18: Bestellung von Mitgliedern der Betriebsleitung
+- TOP 19: Überführung eines Grundstücks aus dem Sondervermögen
+- TOP 20: Elternbeitragsdefizitausgleich
+- TOP 21: Schulentwicklungsplan (SEP) 2015
+- TOP 22: Errichtung eines Bildungsgangs der Sekundarstufe II
+- TOP 23: Wiederbestellung und Neuwahl von Mitgliedern
+- TOP 24: Sicherung der Biologischen Station
+- TOP 25: Verschiedenes
+- TOP 26: Probleme der Bedienungsqualität auf der S-Bahn S7
+- TOP 27: Auswirkung der Mehrwertsteuererhöhung
+- TOP 28: Verpflichtung der Stadt zur Betreuung von Kindern unter 3 Jahren
+- TOP 29: PPP-Projekt Schulsanierung
+- TOP 30: Über- und außerplanmäßige Ausgaben im 4. Quartal 2006
+- TOP 31: Projekt Strategische Neuausrichtung des VBS
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NW
+- TOP 2: Protokoll
+- TOP 3: Verschiedenes
