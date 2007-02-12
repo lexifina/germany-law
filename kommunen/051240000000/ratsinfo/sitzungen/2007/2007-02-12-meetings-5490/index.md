@@ -1,0 +1,67 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2007-02-12T16:05:00+01:00
+- Ende: 2007-02-12T17:06:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5490
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5490
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Rat - Stand: 09.02.07 - 08.02 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00077361.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00077588.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00077443.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Übertragung von Vermögensgegenständen der RWE Plus AG auf die WSW AG gemäß Konsortialvertrag - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Anfrage der Fraktion DIE LINKSPARTEI.PDS im Rat der Stadt Wuppertal vom 25.01.2007 - Übertragung von - abschließend zur Kenntnis genommen
+- TOP 2.2: Subventionen in das alte Schwebebahngerüst - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Große Anfrage der Ratsgruppe DIE REPUBLIKANER im Rat der Stadt Wuppertal vom 31.01.2007 - Subvention - abschließend zur Kenntnis genommen
+- TOP 2.3: Ausbildungssituation in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Ausbildungssituation in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.4: Überprüfung von sozialen Arbeitsgelegenheiten - abgesetzt
+- TOP 2.4.1: Beantwortung der Anfrage der FDP-Fraktion vom 1.2.2007 / VO/0113/07
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: ARGE geförderte Sprachkurse im Anschluss an Integrationskurse - vertagen
+- TOP 4.2: Klimaschutz-Kampagne - ungeändert beschlossen
+- TOP 4.3: Resolution: Arbeitsfähigkeit der ARGE Wuppertal muss sichergestellt werden - ungeändert beschlossen
+- TOP 4.4: Bergische Zusammenarbeit - zur Vorberatung verwiesen
+- TOP 4.5: Änderung des § 24 Abs. 5 Abfallwirtschaftssatzung - zur Vorberatung verwiesen
+- TOP 4.6: Maßnahmen zur Beseitigung der Orkan-Schäden - ungeändert beschlossen
+- TOP 4.7: Resolution Landespersonalvertretungsgesetz - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.7.1: Resolution Landespersonalvertretungsgesetz - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Versendung von Elternbriefen - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: Abweichungssatzung In der Fleute - ungeändert beschlossen
+- TOP 6.2: Änderung des Taxentarifs - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2007 - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan des GMW 2007 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 884/2 - Nöllenhammerweg/ Harzstraße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplanverfahren Nr. 1073 V -Baumarkt Widukindstraße- - ungeändert beschlossen
+- TOP 9.4: Bauleitplanverfahren Nr. 963 -Bahnstraße Ost Nösenberg- 1. Änderung - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Realisierung von Optionen bei der Sanierung des Opernhauses - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Fortschreibung des Umweltmanagementhandbuchs - abgesetzt
+- TOP 11.2: Aufbau und Einrichtung eines Service-Centers, hier: Finanzierungsplan u. außerplanm. Bereitstellung - ungeändert beschlossen
+- TOP 11.3: Neustrukturierung der städtischen Tageseinrichtung für Kinder Marienstr. 7+10 - ungeändert beschlossen
+- TOP 11.4: Gewährung von Zuwendungen für Spielgruppen und andere Gruppen - ungeändert beschlossen
+- TOP 11.5: Weiterführung der integrativen Lerngruppe "zieldifferent" - ungeändert beschlossen
+- TOP 11.6: Kunst im öffentlichen Raum - abgesetzt
+- TOP 11.7: Gremientätigkeiten von Herrn Oberbürgermeister Peter Jung - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Wahl des Vertreters der Jagdgenossenschaft in den Jagdbeirat der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12.2: Entsendung von Delegierten als Vertreter der Stadt Wuppertal in die Wupperverbandsversammlung - ungeändert beschlossen
+- TOP 12.3: Umbesetzung im Verbandsrat des Abfallwirtschaftsverbandes EKOCity - ungeändert beschlossen
+- TOP 12.4: Umbesetzung im Schulausschuss - ungeändert beschlossen
+- TOP 12.5: Abberufung und Bestellung eines sachkundigen Einwohners mit beratender Stimme als Mitglied des Aussc - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
