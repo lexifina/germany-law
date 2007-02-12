@@ -1,0 +1,105 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2007-02-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1048175
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1048175
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Fußgängerübergang in der Würmtalstraße / Rebholzstraße
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 2.1.: Niederschrift der Sitzung am 08.01.2007
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Tannenwaldstr. 7a, 1 Fichte, 1 Tanne, 1 Hängebuche
+- TOP 3.2.: Senftenauerstr. 163, 3 Birken
+- TOP 3.3.: Heiglhofstr. 70, 1 Kiefer, 1 Thuje
+- TOP 3.4.: Nothkaufplatz 9, 1 Birke
+- TOP 3.5.: Kornwegerstr. 40, 1 Lärche
+- TOP 3.6.: Großhaderner Str. 4, gem. Baumbestandsplan Nr. 36679
+- TOP 3.7.: Enzianstr. 11, 1 Birke
+- TOP 3.8.: Platanenstr. 50, 1 Birke
+- TOP 3.9.: Kornwegerstr. 55, 3 Fichten
+- TOP 3.10.: Vingerstr. 32, 1 Tanne
+- TOP 3.11.: Ginsterweg, gem. Baumbestandsplan Nr. 35476
+- TOP 3.12.: Lichtensteinstr. 8, 1 Coloradotanne
+- TOP 3.13.: Waldklausenweg, gem. Baumbestandsplan Nr. 2450
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Jugend/Soziales
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 20 in Höhe von 400,- Euro, Antragsteller: Pfarrei St. Canisius (Direktorium, 24.01.07)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Einrichtung eines personenbezogenen Behindertenparkplatz in der Wadlerstraße 31, Verkehrsrechtliche Anordnung (KVR, 29.11.2006)
+- TOP 7.2.: Zweckentfremdung von Wohnraum, Luzernenweg (Sozialreferat, 04.01.2007)
+- TOP 7.3.: Finanzplan 2006 - 2010 (Stadtkämmerei, 12.01.2007)
+- TOP 7.4.: Sprengeländerung, Grundschule an der Guardinistraße und Grundschule an der Senftenauerstraße (Schul- und Kultusreferat, 14.12.2006)
+- TOP 7.5.: Einweihungsfeier für den Blumenauer Steg (Kommunalreferat, 24.01.2007)
+- TOP 7.6.: Parkerleichterung für Schwerbehinderte; personenbezogener Sonderparkplatz im Bereich Karl-Witthalm-Str. 12 (KVR, 24.01.07)
+- TOP 7.7.: Verkehrsentwicklungsplan der LH München (Referat für Stadtplanung und Bauordnung, 29.01.07)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Sprengeländerungsverfahren Grundschule Guardinistraße/ Grundschule Senftenauerstraße (Schul- und Kultusreferat, 09.01.2007)
+- TOP 8.2.: Rückbau Aufpflasterungen, Würmtalstraße 126 (Baureferat, 12.01.2007)
+- TOP 8.3.: Konzept der regionalen Sozialberichte (Sozialreferat, 18.01.2007)
+- TOP 8.4.: Widerspruch der Evang-Luth. Simeonsgemeinde, Budget des Bezirksausschusses (Direktorium, 17.01.2007)
+- TOP 8.5.: Erstellung von Richtlinien für Veranstaltungen in Grünanlagen (KVR, 17.01.2007)
+- TOP 8.6.: Planung der Einsätze der Münchner SommerSpielAktion 2007 (Spielen in der Stadt, 22.01.2007)
+- TOP 8.7.: Plakate und Faltblätter für die Bezirksausschüsse (Direktorium, 19.01.2007)
+- TOP 8.8.: Unterhaltsarbeiten - Fahrbahnsanierung, Waldwiesenstr. 6-50 (Baureferat, 23.01.07)
+- TOP 8.9.: Instandsetzung des Gehweges, Fürstenrieder Str. 274-282 (Baureferat, 23.01.07)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Zusätzlicher Briefkasten in Großhadern, Anfrage aus der Bürgerversammlung (Referat für Arbeit und Wirtschaft, 10.01.2007)
+- TOP 9.2.: Haderner Modell Sporthalle, BA-Antrag Nr. 3538 (Referat für Stadtplanung und Bauordnung, 12.01.2007)
+- TOP 9.3.: Pfosten am nördlichen Ende Silberdistelstraße und Schild am Gondrellplatz und Bolzplatz Wolkerweg (KVR, 17.01.2007)
+- TOP 9.4.: Schild am Bolzplatz Wolkerweg (Baureferat, 18.01.2007)
+- TOP 9.5.: Taxischild am Gondrellplatz (Baureferat, 18.01.2007)
+- TOP 9.6.: Parkbucht Prälat-Wellenhofer-Straße nördlich, BA-Antrag Nr. 1598 vom 13.11.2006 (Baureferat, 22.01.2007)
+- TOP 9.7.: Nutzung des Anwesens Neufriedenheimer Str. 57 (Referat für Stadtplanung und Bauordnung, 22.01.2007)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Bundesautobahn A 96 Lindau-München, Lärmschutz an der Betriebsstrecke im Bereich Hadern (Autobahndirektion Südbayern, 16.01.2007)
+- TOP 10.2.: Falschparker und Geschwindigkeitsüberschreitungen im Bereich der Gräfelfinger Straße / Am Stoppelfeld (PI 33, 25.01.07)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Regionalgespräch zwischen Lokalbaukommission und den Bezirksausschüssen am 20.03.2007 (Referat für Stadtplanung und Bauordnung, 12.01.2007, 19.01.2007)
+- TOP 11.2.: Berichterstattung in der SZ; Bürgerversammlung Maxvorstadt (BA 3, 10.01.2007)
+- TOP 11.3.: Ausschreibung Fest Weltkindertag (Sozialreferat, 16.01.2007)
+- TOP 11.4.: Rauchverbot an und auf Spielplätzen (BA 8, 22.01.2007)
+- TOP 11.5.: Bericht über die Mediationsfahrt der Streitschlichter und Streitschlichterinnen (Stüps, 12.12.2006)
+- TOP 11.6.: Dankschreiben zum Zuwendungsbewilligungsbescheid des Deutschen Pfadfinderverbandes e.V. (Schwarze Löwen München, 03.01.2007)
+- TOP 11.7.: Protokoll zum 850. Stadtgeburtstag (Referat für Arbeit und Wirtschaft, 20.12.2006)
+- TOP 11.8.: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 30.11.2006 (Sozialreferat, 22.12.2006)
+- TOP 11.9.: Studie zu Wohnungsflüchtern (Südd. Institut für empirische Sozialforschung, 30.01.07)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: am 13.12.2006 Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz (vertagt)
+- TOP 12.2.: am 13.12.2006 Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011
+- TOP 12.3.: am 13.12.2006: Änderung der Bezirksausschuss-Satzung a) Beteiligung der BA´s bei Baumfällungen b) Beteiligung der BA´s durch "Städt. Klinikum München GmbH", Beschluss der Gesellschafterin (LH München) gem. § 7 III des Gesellschaftsvertrages c) Übertragung des Entscheidungsrechtes bei der Schließung dezentraler Kultureinrichtungen auf die BA´s d) Entscheidungsrecht für die BA´s bei der Genehmigung von Freischankflächen e) Sicherung der BA-Entscheidungsrechte in der Messestadt und anderswo f) Fahrtkostenübernahme für behinderte BA-Mitglieder
+- TOP 12.4.: am 13.12.2006 Änderung der BA-Geschäftsordnung, Ausschluss wegen persönlicher Beteiligung
+- TOP 12.5.: am 13.12.2006 Abriss und Neubau einer Kindertageseinrichtung mit 6 Gruppen in der Senftenauerstr. 25 (Kostenobergrenze 3.356.000 ?, davon Ersteinrichtungskosten 197.500 ?)
+- TOP 12.1.: am 24.01.2007: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.2007: Satzungen über die Genehmigungspflicht von Grundstücksteilungen (Teilungssatzungen), Aufhebung der Teilsatzungen vom 24.01.2001 und 08.07.2003
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.2007: Ökologische Hochhäuser
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.2007: Schutz der Münchner Vorgärten (vertagt)
+- TOP 12.1.: Bekanntgaben
+- TOP 12.2.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 10.01.2007: Bevölkerungsprogrognosen 2006 der Landeshauptstadt München
+- TOP 12.3.: Bekanntgabe im Schulausschuss des Stadtrats vom 10.01.2007: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2006/2007, insbesondere zum Kindergarten der "Spielkiste Blumenau e.V." in der Senftenauerstraße 185 (5 Plätze mehr, Seite 17) und zur Koop-Einrichtung des "Waldorf-Kinderhauses Pasing in der Blumenau e.V." in der Blumenauer Straße 50 (Zuzug mit 12 Krippenplätzen und 75 Kindergartenplätzen vom Otto-Engl-Platz 5, Seite 21). In Hadern gibt es 17 Kindergärten mit einer Gesamtbelegung von 1.051 Kindern. 265 Kinder sind vorgemerkt (Seite 19 der Anlage). In Hadern gibt es 2 Koop-Einrichtungen mit 188 Kindern (keine Vormerkungen, Seite 5).
+- TOP 12.4.: Bekanntgabe im Schulausschuss des Stadtrats vom 10.01.2007 Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2006/2007, insbesondere zum Erasmus-Grasser-Gymnasium (1.223 Schüler) und Ludwigs-Gymnasium (757 Schüler)
+- TOP 12.5.: Bekanntgabe im Schulausschuss des Stadtrates vom 10.0.2007 Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städt. Franz-Auweck-Abendschule; Schuljahr 2006/2007
+- TOP 12.6.: Bekanntage im Schulausschuss des Stadtrats vom 10.01.2007 Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2006/2007, insbesondere zur - Grundschule (GS) Am Hedernfeld (252 Schüler in 12 Klassen) - GS An der Blumenauer Str. 11 (170 Schüler in 8 Klassen) - GS am Canisiusplatz 2 (354 Schüler in 15 Klassen) - GS an der Großhaderner Str. 50 (311 Schüler in 12 Klassen) - GS an der Guardinistr. 60 (174 Schüler in 8 Klassen) - GS an der Senftenauerstr. 21 (281 Schüler in 12 Klassen) - Hauptschule (HS) an der Blumenauer Str. 11 (213 Schüler in 9 Klassen) - HS an der Guardinistr. 60 (274 Schüler in 13 Klassen) sowie zum - Tagesheim Am Hedernfeld 42-44 (von 175 Plätzen sind nur 13 belegt) und - Tagesheim an der Großhaderner Str. 50 (von 200 Plätzen sind nur 181 belegt)
+- TOP 12.7.: Bekanntgabe im Schulausschuss des Stadtrates am 10.01.2007: Schüler/innen und Klassenstand; Berufliche Schulen der Landeshauptstadt München im Schuljahr 2006/2007; Stand 20.10.2006
+- TOP 12.8.: Bekanntgabe in der Sitzung des gemeinsamen Ausschusse3s für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsausschusses vom 31.01.2007: Projektfortschrittsbericht 2006 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung"
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.2: Senatsbeschlüsse
