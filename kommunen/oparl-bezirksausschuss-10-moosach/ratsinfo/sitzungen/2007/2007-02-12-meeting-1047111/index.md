@@ -1,0 +1,68 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2007-02-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1047111
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1047111
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Geschwindigkeitskontrollen sowie Verhinderung des rücksichtslosen Parkens in der Ehrenbreitsteiner Straße - <div>nach Antrag</div>
+- TOP 2.2.: Aufnahme des Teplitzer Wegs in eine Tempo-30-Zone - <div>nach Antrag</div>
+- TOP 2.3.: Lärmbelästigung für die Nachbarn der Grünanlage zwischen Hugo-Troendle-Straße, Karlingerstraße, Karl-Lipp-Straße - <div>Anschreiben an ASD und Grünanlagenaufsicht</div>
+- TOP 2.4.: Ampelschaltung Dachauer Straße in Höhe Borstei - <div>Überprüfung der Ampelschaltung durch das KVR</div>
+- TOP 2.5.: Lärmschutz Allacher Straße
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: "Das Schulreferat trifft die Bezirksausschüsse": Bericht
+- TOP 3.2.: 1200-Jahr-Feier Moosach
+- TOP 3.3.: Änderungsgenehmigung für die Abfallentsorgungsanlage (Schrott- und Mettalllagerplatz) der Firma eiber & kunz - <div>nach Antrag</div>
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Kunstkommission: Gestaltung U-Bahnhof Moosacher St.-Martins-Platz
+- TOP 3.2.: Informationen zum U-Bahnbau
+- TOP 3.3.: Durchführung einer außerordentlichen Bürgerversammlung zum Thema "Transrapid"
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Erhalt des Serviceangebots der Moosacher Post in der Breslauer Straße in vollem Umfang - <div>nach Antrag</div>
+- TOP 4.2.: Streetwork für Moosach - <div>nach Antrag</div>
+- TOP 4.3.: Ganztagsangebot an Moosacher Schulen - <div>nach Antrag</div>
+- TOP 4.4.: Großflächige Werbung am "Uptown München" - <div>nach Antrag</div>
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: (E) Baumfällungsantrag Weidmannstraße 8 Empfehlung Nr. 02-08 / E 00553 der Bürgerversammlung des Stadtbe- zirkes 10 - Moosach am 19.10.2006
+- TOP 5.2.: Zuschuss aus dem Budget des BA 10: ASZ Moosach: Deutschkurs für Migrant/innen (vertagt aus der Sitzung am 15.01.07) - <div>nach Antrag</div>
+- TOP 3: (E) Zurückverlegung der Trambahnlinie 20 zum Moosacher Bahnhof zum ursprünglich vorgesehenen Termin Herbst 2006 Empfehlung Nr. 02-08 / E 00552 der Bürgerversammlung des Stadtbezirkes 10 Moosach am 19.10.2006
+- TOP 6.: Anhörungen
+- TOP 6.1.: Erstellung von Richtlinien für Veranstaltungen in Grünanlagen - <div>Abweichung von Referentenvorl.</div>
+- TOP 6.2.: Ausschreibung Fest Weltkindertag - <div>Keine Bewerbung </div>
+- TOP 6.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.: Novellierung der Naturdenkmalverordnung - <div>vertagt</div>
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Präsentationsmaterial für Informationsveranstaltungen der Bezirksausschüsse (Abfrage bei allen Bezirksausschüssen)
+- TOP 7.2.: Fahrradständer am U-Bahnaufgang Hanauer Str. vor Saturn (18 Stellmöglichkeiten werden errichtet)
+- TOP 7.3.: Bebauungsplan Nr. 1740 (Feldmochinger Straße zwischen Bingener Straße, Triebstraße, Torgauer Str., Bahnlinie und Max-Born-Str.) (Beteiligung des BA wird gewährleistet)
+- TOP 7.4.: Zuschuss für 1200-Jahr-Feier Moosachs aus dem BA-Budget (Voraussetzungen liegen vor)
+- TOP 7.5.: Bauvorhaben Franz-Fihl-Str. (Zwischennachricht)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Oberflächenwiederherstellung Bunzlauer Straße / Bunzlauer Platz (Bedarfs- und Konzeptgenehmigung)
+- TOP 8.4.: Hortzuschuss St. Raphael
+- TOP 8.5.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München (vertagt)
+- TOP 8.6.: Projektfortschrittsbericht 2006 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung"
+- TOP 8.7.: Verkehrsrechtliche Anordnung Haltestelle der Buslinie 162
+- TOP 8.8.: Berichterstattung der SZ über Bürgerversammlungen (Schreiben des BA 3 Maxvorstadt)
+- TOP 8.9.: Rauchverbot an und auf Spielplätzen (Schreiben des BA 8 Schwanthalerhöhe)
+- TOP 8.10.: Finanzplan 2006 - 2010
+- TOP 8.11.: Zweckentfremdung von Wohnraum: Plauener Straße
+- TOP 8.12.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 4: Anträge
