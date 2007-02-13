@@ -1,0 +1,84 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2007-02-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1071645
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1071645
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Geplante Schließung des Postamts Allach, Oertelplatz
+- TOP 1.2.: Dankschreiben für das Engagement des Bezirksausschusses
+- TOP 1.3.: Baustelle am Ende der Eversbuschstr.
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 1: (E) Schaffung eines gesicherten Fußgängerüberweges auf der Allacher Straße in Höhe Zaunerstraße/Hitlstraße Empfehlung Nr. 02-08 / E 00567 der Bürgerver- sammlung des Stadtbezirkes 23 - Allach-Untermenzing am 24.10.2006
+- TOP 2: (E) Errichtung eines Zebrastreifens an der Kreuzung Allacher Straße/ Karl-von-Roth-Straße/ Von-Reuter-Straße Empfehlung Nr. 02-08 / E 00563 der Bürgerver- sammlung des Stadtbezirkes 23 - Allach-Untermenzing am 24.10.2006
+- TOP 2.3.: Antrag auf Zuschuss aus dem Budget in Höhe von 583 ? für die Kosten der MVG während des Faschingumzuges am 20.02.04; Antragsteller: Interessengemeinschaft der Vereine Allach/Untermenzing
+- TOP 5.: Anhörungen
+- TOP 5.1.: Änderung des Flächennutzungsplanes mit entegrierter Lanschaftsplanung für den Bereich IV/22 und Bebauungsplan mit Grünordnung Nr. 1992 Stahlstraße (südlich), Hans-Goltz-Weg (westlich) und Pasinger Heuweg (östlich)
+- TOP 5.2.: Antrag auf Nutzung des städt. Grundstückes Flurstücks Nr. 420/4, Gemarkung Untermenzing durch Waldleben e.V., Waldkindergarten
+- TOP 5.3.: Erstellung von Richtlinien für Veranstaltungen in Grünanlagen
+- TOP 5.4.: Konzept der regionalen Sozialberichte
+- TOP 5.5.: Voranfrage zur Straßenbenennung im Bereich Manzostraße/Waldhornstraße BebPl Nr. 1919a
+- TOP 5.6.: Präsentationsmaterial für Informationsmaterial der Bezirksausschüssse
+- TOP 5.7.: Gemeinde Karlsfeld; Bebauungsplan Nr. 96 "Hans-Carossa-Straße"
+- TOP 5.8.: Novellierung der Naturdenkmalverordnung der LH München
+- TOP 5.9.: Projekt Zwiedineckstraße
+- TOP 5.10.: Karl-von-Roth-Straße; Halteverbotszonen
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Informationen über Eingriffe in den Gehölzbestand
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Unveränderte Fortführung des Gaststättenbetriebes: Bistro Anadolu, Eversbuschstr. 74
+- TOP 10.2.: Verkehrsrechtliche Anordnung: Buslinie 162 Zeichen StVO und Anordnung Haltestellen
+- TOP 10.3.: Wendefahrt Buslinie 164; Einrichtung Haltverbote Theodor-Fischer-Str., Brückestr.;
+- TOP 10.4.: Aufhebung der Tonnagebeschränkung in der Weinschenkstraße
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der Baumschutzverordnung a) Krayweg 5a 1 Baum b) Krautheimstr. 19 1 Fichte c) Spiegelbergstr. 28 1 Fichte d) Hormayrstr. 4 1 Weide, 2 Buchen, 1 Fichte, 2 Apfelbäume e) Rueßstr. 34 b 1 Birke f) Vogelloh 16-42 2 Spitzahorn, 1 Feldahorn, 2 Erlen g) August-Föppl-Str. 11 3 Birken h) Vogelloh 72 4 Weiden i) Lechelstr. 86 1 Walnuss, 4 Fichten j) Schweidnitzer Str. 41 2 Lärchen k) Franz-Nißl-Str. 5 s. Baumbestandsplan Nr. 2006-036922
+- TOP 11.2.: Bauanträge (18.-22.12.06; 08.01.-14.01.07; 15.01.-21.01.07, 22.-28.01.07)
+- TOP 11.3.: Straßenverbindung Angerlohe/Ludwigsfelder Str., Empfehlungen Nr. 30 und 33 der BV am 16.11.04)
+- TOP 11.4.: Regionalgespräch zwischen Lokalbaukommission und den Bezirksausschüssen
+- TOP 11.5.: Gesamtkonzept für P+R Anlagen sowie B + R Anlagen in München
+- TOP 11.6.: Verkehrsentwicklungsplan der Landeshauptstadt München
+- TOP 11.7.: Öffentlicher Personennahverkehr in München
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Zweckentfremdung von Wohnraum, Herbigstr. 22
+- TOP 14.2.: Zweckentfremdung von Wohnraum, Nätherstr. 10
+- TOP 14.3.: Ausschreibung zur Ausrichtung des Weltkindertages 2007 "Familien bewegen"
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Errichtung und Betrieb temporärer Mobilfunksendeanlagen im Bereich Allach-Untermenzing durch die Firma O2, hier: neue Suchkreismeldungen
+- TOP 15.2.: Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den betrieb einer Bodenbehandlungsanlage mit Erdenbörse und Erdenwerk durch das Konsortium Bilfinger/Berger-Scherthaner GmbH am Standort Goteboldstraße 100 in München-Allach-Untermenzing
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 19.1.: Finanzplan 2006 - 2010
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: Ba 3 Maxvorstadt Berichterstattung in der SZ
+- TOP 20.2.: BA 8 Schwanthalerhöh Rauchverbot an und auf Spielplätzen
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Vollversammlung vom 13.12.2006 - Wohnen in München IV Wohnungspolitisches Handlungsprogramm 2007-2011
+- TOP 22.2.: Ausschuss für Stadtplanung und Bauordnung vom 10.01.07 - Satzungen über die Genehmigungspflicht von Grundstücksteilungen (Teilungssatzungen) - Bevölkerungsprognosen 2006 der Landeshauptstadt München - Schutz der Münchner Vorgärten - Ökologische Hochhäuser - Gesamtkonzept für P+R Anlagen sowie B+R Anlagen in München
+- TOP 22.3.: Kinder- und Jugendhilfeausschuss vom 30.01.07: Kindertagesstätten freigemeinnütziger Träger; Ankauf und Umbau eines dreigruppigen Kindergartens und eines eingruppigen Hortes an der Prießnitzstr. 4 durch einen sonstigen Träger
+- TOP 22.4.: Schulausschuss vom 31.01.07 - Kindertagesstätten freigemeinnütziger Träger; Ankauf und Umbau eines dreigruppigen Kindergartens und eines eingruppigen Hortes an der Prießnitzstr. 4 durch einen sonstigen Träger im 23. Stadtbezirk Allach-Untermenzing
+- TOP 22.5.: Ausschuss für Stadtplanung und Bauordnung, Bauausschuss und Kreisverwaltungsausschuss vom 31.01.07 - Projektfortschrittsbericht 2006 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung"
+- TOP 22.6.: Ausschuss für Stadtplanung und Bauordnung vom 31.01.07 Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 22.7.: Kreisverwaltungsausschuss vom 13.02.07 - Entgelterhebung an P+R-Anlagen im Stadtgebiet; hier: Anpassung der P+R Parkpreise
+- TOP 23: Verschiedenes
+- TOP 23.1.: Schreiben von O2 Temporäre Anlagen Pasinger Heuweg und Am Lochholz 2
