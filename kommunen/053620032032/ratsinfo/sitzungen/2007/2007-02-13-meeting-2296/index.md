@@ -1,0 +1,80 @@
+# Stadtrat (18. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2007-02-13T17:03:00+01:00
+- Ende: 2007-02-13T19:37:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTCgU4jyr5vA32QWxJS79n8
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/2296
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZaUJzsYQb3M-2RJI53rG43vKwHM1lxN8cMVj_PzwHi5Y/Bekanntmachung_Stadtrat_13.02.2007.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZe7LsFFfgLx5P-BmpSqMhgNajwvAskpoNdBbANHr4ZoC/Oeffentliche_Niederschrift_Stadtrat_13.02.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung und Verpflichtung des neuen Stadtverordneten Dieter Becker
+- TOP 2.: Bericht über den Besuch einer Delegation des Stadtrates in Oswiecim
+- TOP 3.: Wahl einer/eines Ortsvorstehers/in für den Stadtteil Buir
+- TOP 4.: Besetzung bzw. Umbesetzung von Ausschüssen und Gremien
+- TOP 4.1: Bestimmung von Mitgliedern der Schulkonferenzen der städt. Schulen im Rahmen der Bestellung von Schulleiterinnen oder Schulleitern gem. § 61 SchulG
+- TOP 4.2: Personelle Änderung im Jugendhilfeausschuss; hier: beratende Mitgliedschaft des Amtsgerichtes Kerpen
+- TOP 4.3: Umbesetzung des Jugendhilfeausschusses hier: beratende Vertretung der evangelischen Kirchengemeinden in Kerpen
+- TOP 4.4: Umbesetzung von Ausschüssen, Arbeitskreisen und sonstigen Gremien hier: Antrag der SPD-Fraktion
+- TOP 4.5: Umbesetzung von Ausschüssen, Arbeitskreisen und Gremien; hier. Antrag der FDP-Fraktion
+- TOP 4.6: Umbesetzung des Haupt- und Finanzausschusses; hier: Anträge der UWG-Fraktion und der Fraktion Bündnis 90/Die Grünen
+- TOP 4.7: Umbesetzung von Ausschüssen und Arbeitskreisen hier: Antrag der CDU-Fraktion
+- TOP 4.8: Bestellung beratender Ausschuss-Mitglieder der BBK-Fraktion
+- TOP 5.: Erlass von Ortsrecht
+- TOP 5.1: Änderung der Geschäftsordnung für den Rat der Stadt Kerpen und seine Ausschüsse hier: Antrag der UWG-Fraktion zur Fertigung von Wortprotokollen
+- TOP 5.2: Umsiedlung Manheim hier:Übertragung der ausschließlichen Zuständigkeit auf den Ausschuss für Stadtplanung und Verkehr
+- TOP 6.: Stadtentwicklung und Bauleitplanung
+- TOP 6.1: Bebauungsplan TÜ 283 A "Wohnbebauung Schildgenstraße", Stadtteil Brüggen hier : Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 6.2: Bebauungsplan SI 228 C ¿Goethestraße¿, Stadtteil Sindof - Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 6.3: Bebauungsplan SI 231 A/4.Änderung " Hahner Äcker Ost " - erneute öffentliche Auslegung
+- TOP 6.4: Vorhabenbezogener Bebauungsplan KE 267 B Stiftsstraße/ Filzengraben Stadtteil Kerpen hier: erneute öffentliche Auslegung gem. § 4a (3) BauGB
+- TOP 6.5: Bebauungsplan KE 320 "Westliche Regengasse" Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 7.: Jahresabschluss der Stadtbetriebe Kerpen auf den 31.12.2005
+- TOP 7.1: Jahresabschluss der Stadtbetriebe Kerpen AÖR auf den 31.12.2005 hier: Vorlage des Abschluss-, Lage- und Prüfungsberichtes 2005; Feststellung des Jahresabschlusses
+- TOP 7.2: Jahresabschluss der Stadtbetriebe Kerpen auf den 31.12.2005 hier: Über- bzw. außerplanmäßige Ausgaben im Vermögensplan 2005
+- TOP 7.3: Jahresabschluss der Stadtbetriebe Kerpen auf den 31.12.2005 hier: Entlastung des Vorstandes
+- TOP 8.: Standort Kindergarten Blatzheim: - Ergänzende Kostenschätzung am Standort Kerpener Weg und Giffelsberger Weg - Prüfung Standort alte Grundschule - Prüfung alternativer Standorte innerhalb des Ortes
+- TOP 9.: Offene Kinder- und Jugendeinrichtungen in der Stadt Kerpen - Vertragliche Festschreibung der budgetierten Betriebskosten für den Zeitraum vom 01.07.2005 bis 31.12.2008 hier: Teilbudget "Personalkosten"
+- TOP 10.: Installierung des Präventionsteams "Frühe Hilfen"
+- TOP 11.: Übernahme des Eigenanteils an Schulbüchern für Hartz-IV-Empfänger/Innen
+- TOP 12.: Dachsanierung Erftlagune; hier: Bereitstellung überplanmäßiger Haushaltsmittel
+- TOP 13.: Stellenplan 2007
+- TOP 13.1: Stellenplan 2007 hier: Einrichtung einer zusätzlichen Ingenieurstelle innerhalb der Abteilung 16.1
+- TOP 13.2: Stellenplan 2007 hier: Erhöhung Stellenanteil der Stelle 90000089
+- TOP 13.3: Stellenplan 2007 hier: Umwandlung der Planstelle 90000517
+- TOP 13.4: Stellenplan 2007 hier: Einrichtung von 2 zusätzlichen, befristeten Stellen im Rettungsdienst
+- TOP 14.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 14.1: Stellenplan 2007 hier: Einrichtung von 2 befristeten Stellen in der Abteilung 23.1, Erzieherische Hilfen
+- TOP 14.2: Umwandlung der Adolf-Kolping-Schule in eine gebundene Ganztagsschule
+- TOP 15.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 16.: Mitteilungen
+- TOP 17.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 17.1: Kahlschlag im Fichtenwäldchen Blatzheim
+- TOP 17.2: Sachstand zum REWE-Mark in Türnich
+- TOP 17.3: Rauchverbot im Rathaus
+- TOP 17.4: Workshop "Entschuldung"
+- TOP 17.5: Streuobstwiese bei Haus Breitmaar
+- TOP 17.6: Mängel in der Mehrzweckhalle Sindorf
+- TOP 17.7: Aufnahme von Arbeitskreissitzungen in den Sitzungskalender
+- TOP 17.8: Baumpflanzungen am Ende des Friedhofsweges in Brüggen
+- TOP 17.9: Arbeitskreis "Gestaltungshandbuch Vogelrutherfeld"
+- TOP 17.10: Bahnhofsgebäude Sindorf
+- TOP 17.11: Verlegung einer Bushaltestelle auf der Heerstraße
+- TOP 18.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 19.: Abschluss städtebaulicher Verträge
+- TOP 19.1: Bebauungsplan HO Nr. 183 "Am Wahlenpfad"; hier: Abschluss des 1. Änderungsvertrages zum Erschließungsvertrag vom 30.06.2004
+- TOP 19.2: Bebauungsplan SI Nr. 231 A 4. Änderung "Hahner Äcker Ost"; hier: Abschluss eines städtebaulichen Vertrages
+- TOP 19.3: Vorhabenbezogener Bebauungsplan KE Nr. 267 B "Stiftsstraße/Filzengraben": hier: Abschluss des 1. Änderungsvertrages zum Durchführungsvertrag vom 06.05.2005
+- TOP 19.4: Bebauungsplan KE Nr. 320 "Westliche Regengasse", hier: Abschluss eines städtebaulichen Vertrages zur Übernahme von Planungskosten
+- TOP 20.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 21.: Mitteilungen
+- TOP 22.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 23.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
