@@ -1,0 +1,134 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2007-02-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1045853
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1045853
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Innere Mission München (Az.: 01/07 ? 3.4.1): Zuschuss in Höhe von 2973,68 ? für die Ausstattung der Gruppen- und Nebenräume der TWG Barellistraße (Wiedervorlage aus der Sitzung vom 16.01.07)
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: (E) TSV Neuhausen-Nymphenburg e.V.; Großinstandsetzung des Sanitärbereichs sowie der Lüftungsanlage im Sportgebäude an der Stievestraße 15 - <div>nach Antrag</div>
+- TOP 2.4.2.: Beschlussvorlage Baureferat (Az.: 10/96 ? 3.2.13): Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 9; Widmung nachfolgender Straßengesamtstrecken: Margarethe-Danzi-Straße, Rosa-Bavarese-Straße, Christoph-Rapparini-Bogen - <div>nach Antrag</div>
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: KVR: Eingeschränktes Haltverbot vor Anlieferzone bei Haupteingang Menzinger Str. 54
+- TOP 3.2.: KVR: Verkehrsrechtliche Anordnung: Aufhebung des bestehenden absoluten Haltverbots in der Nibelungenstr. 66-70
+- TOP 3.3.: Baureferat: Sanierung der Geh- und Fahrbahn Maria-Ward-Str. 2-24
+- TOP 3.4.: Baumaßnahmen der Stadtwerke München im Januar
+- TOP 3.5.: KVR: Bürgeranliegen: Schulwegsicherheit, Beschilderung Hirschbergschule Ecke Arnulf-/Renatastraße (Schreiben BA 9 vom 19.12.06)
+- TOP 3.6.: KVR: Verkehrsrechtliche Anordnung in der Pfänderstraße wegen Fernwärmearbeiten vom 22.01. - 21.04.07
+- TOP 3.7.: Bürgeranliegen: Änderung des Straßenverlaufs der Zamboninistraße
+- TOP 3.8.: Bürgeranliegen: Ampelanlage Nymphenburger-/Alfonsstraße (Wiedervorlage aus der Sitzung vom 16.01.07)
+- TOP 3.9.: Evangelische Kindertagesstätte Neuhausen: Antrag auf ein Hinweisschild "Achtung Kinder" in der Gabrielenstraße
+- TOP 3.10.: Bekanntgabe in der Sitzung des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsausschusses vom 31.01.07: Projektfortschrittsbericht 2006 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung"
+- TOP 3.11.: KVR: Verkehrsrechtliche Anordnung: Tempo-30-Zone Arnulfpark / 2. Bauabschnitt
+- TOP 3.12.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.07 und Beschluss der Vollversammlung des Stadtrats vom 24.01.07: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 3.13.: Planungsreferat: Verkehrsentwicklungsplan der Landeshauptstadt München
+- TOP 3.14.: Beschlussvorlage Baureferat: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 9; Widmung nachfolgender Straßengesamtstrecken: Margarethe-Danzi-Straße, Rosa-Bavarese-Straße, Christoph-Rapparini-Bogen
+- TOP 3.15.: Baureferat: Einziehung des Birketweges (=Eigentümerweg)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Planungsreferat: Bautennachweise vom 18.12. 06 - 07.01.07, 08.01. - 14.01.07, 15.01. - 21.01.07 und 22.01. - 28.01.07
+- TOP 3.2.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 10.01.07: Bevölkerungs- prognosen 2006 der Landeshauptstadt München
+- TOP 3.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.07: Satzungen über die Genehmigungspflicht von Grundstücksteilungen (Teilungssatzungen)
+- TOP 3.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.07: Ökologische Hochhäuser
+- TOP 3.5.: Bauvorhaben Walhallastr. 52: Neubau eines Einfamilienhauses mit Garage
+- TOP 3.6.: Bauvorhaben Johann-von-Werth-Str. 4: Umbau der Wohneinheiten 10,11 und 12 mit Ausbau der 2. DG-Ebene
+- TOP 3.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 31.01.07: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 3.8.: Planungsreferat: Groß-Spielhallen in der Fürstenrieder Str. 21 (ehem. Beck-Haus), Bebauungs- plan Nr. 1963 (Schreiben BA 9 vom 21.11.06)
+- TOP 3.9.: Bauvorhaben Sophie-Stehle-Str. 6: Neubau einer Tiefgarage mit 12 Stellplätzen, Tektur
+- TOP 3.10.: Planungsreferat: Werbeanlage Dachauer Str. 124 a (Schreiben BA 9 vom 21.11.06)
+- TOP 3.11.: Ehemaliges Gebäude der Post in der Volksgartenstr. 2 (Rathaus-Umschau, Anfrage Frau Stadträtin Schosser )
+- TOP 3.12.: Beschlussvorlage Schulreferat: TSV Neuhausen-Nymphenburg e.V.; Großinstandsetzung des Sanitärbereichs sowie der Lüftungsanlage im Sportgebäude an der Stievestraße 15
+- TOP 3.13.: Beschluss der Vollversammlung des Stadtrats vom 13.12.06: Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007-2011
+- TOP 3.14.: Hauptbahnhof-Laim-Pasing
+- TOP 3.15.: Planungsreferat: Baumfällungen der Stadtwerke München wegen der Verlegung von Fernwärmeleitungen im Erschließungsgebiet Birketweg
+- TOP 3.16.: Planungsreferat: Allgemeines Eisenbahngesetz (AEG), Planänderung zur Plangenehmigung nach § 18 Abs. 2 AEG, ESTW München-Pasing, Laim
+- TOP 3.17.: Neue EU-Richtlinie Feinstaub / City-Logistik-Zentrum
+- TOP 3.18.: Zweckentfremdung:
+- TOP 3.19.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Romanstraße
+- TOP 3.20.: Beschluss des Sozialausschusses vom 01.02.07: Verbot der Zweckentfremdung von Wohnraum; Nutzungsänderung Nederlinger Str. 9, Steuerberaterkammer München
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Nymphenburger Str. 90 c und d: Fällung von 1 Esche
+- TOP 3.2.: Schachenmeierstr. 12: Fällung von 1 Schwarzpappel
+- TOP 3.3.: Sedlmayrstr. 10: Fällung von 1 Baum
+- TOP 3.4.: Städtische Grünanlage Hirschgarten: Fällung von 3 Buchen und 1 Kirsche
+- TOP 3.5.: Herthastr. 26: Fällung von 1 Zuckerahorn
+- TOP 3.6.: Klugstr. 59: Fällung von 1 Zeder
+- TOP 3.7.: Tizianstr. 61: Fällung von 1 Fichte
+- TOP 3.8.: Tizianstr. 63: Fällung von 1 Kiefer
+- TOP 3.9.: Kratzerstr. 32: Fällung von 1 Birke
+- TOP 3.10.: Kratzerstr. 34: Fällung von 1 Douglasie
+- TOP 3.11.: Gerner Str. 27: Fällung von 1 Fichte
+- TOP 3.12.: Hofenfelsstr. 47: Fällung von 1 Kiefer und 2 Fichten
+- TOP 3.13.: Baureferat: Fällung von 23 Gefahrenbäumen im 9. Stadtbezirk
+- TOP 3.14.: Baureferat: Informationen über Eingriffe in den Gehölzbestand
+- TOP 3.15.: Bürgeranliegen: Anfrage zu verschiedenen umweltrelevanten Vorkommnissen in Gern
+- TOP 3.16.: Bürgeranliegen: Erdwall am Wintrichring
+- TOP 3.17.: Planungsreferat: Fällungsgenehmigung Schachenmeierstr. 20
+- TOP 3.18.: Planungsreferat: Fällungsgenehmigung Nodungstr. 1
+- TOP 3.19.: Bürgeranliegen: Gefahrenbaumfällung Ludwig-Ferdinand-Platz 9
+- TOP 3.20.: Planungsreferat: Fällungsgenehmigung Prinzenstr. 62
+- TOP 3.21.: Planungsreferat: Fällungsgenehmigung Lazarettstr. 62
+- TOP 3.22.: Planungsreferat: Fällungsgenehmigung Böcklinstr. 14
+- TOP 3.23.: Planungsreferat: Fällungsgenehmigung Walhallastr. 5
+- TOP 3.24.: Bürgeranliegen: Müllproblematik am Biedersteiner Kanal
+- TOP 3.25.: Baureferat: Bürgeranliegen: Verschmutzung der Wendl-Dietrich-Straße durch überfüllte Abfallkörbe (Schreiben BA 9 vom 19.12.06)
+- TOP 3.26.: Planungsreferat: Tizianstr. 104, Widerspruch gegen Fällgenehmigung vom 02.11.05
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Bekanntgabe im Schulausschuss vom 10.01.07: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2006/2007
+- TOP 3.2.: Bekanntgabe im Schulausschuss vom 10.01.07: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2006/2007
+- TOP 3.3.: Bekanntgabe im Schulausschuss vom 10.01.07: Schüler- und Klassenzahlen an den städtischen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2006/2007
+- TOP 3.4.: Bekanntgabe im Schulausschuss vom 10.01.07: Schüler/innen und Klassenstand, Berufliche Schulen der Landeshauptstadt München im Schuljahr 2006/2007
+- TOP 3.5.: Bekanntgabe im Schulausschuss vom 10.01.07: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2006/2007
+- TOP 3.6.: Schulreferat: Zusätzliche Hortgruppe zum Schuljahr 2007/2008 in der Blutenburgschule (Anfrage aus der Bürgerversammlung vom 23.11.06)
+- TOP 3.7.: Bezirksausschuss 8 Schwanthalerhöh: Stadtweites Rauchverbot auf und an Spielplätzen
+- TOP 3.8.: Pädagogische Aktion / Spielen in der Stadt e.V.: Planung der Einsätze der Münchner SommerSpielAktion 2007
+- TOP 3.9.: Cooperative Beschützende Arbeitsstätten e.V.: Antrag auf Gewährung eines Zuschusses für die Erhaltung von 108 Arbeitsplätzen für behinderte Menschen
+- TOP 3.10.: =&gt; dazu: Schreiben BA 13 Bogenhausen
+- TOP 3.11.: Festlegung Zeitpunkt BA-Kinderfest
+- TOP 3.12.: Antrag Innere Mission München: Zuschuss in Höhe von 2973,68 ? für die Ausstattung der Gruppen- und Nebenräume der TWG Barellistraße (Wiedervorlage aus der Sitzung vom 16.01.07)
+- TOP 3.13.: GEWOFAG: Eltern-Kind-Initiative "Kleine Racker" (Schreiben BA 9 vom 19.12.06)
+- TOP 3.14.: Sozialreferat: Clean Projekt Neuhausen; Deutschkurse für Mütter mit Kleinkindern (Schreiben BA 9 vom 19.12.06)
+- TOP 3.15.: Schulreferat: Sportanlage der Grundschule Gertrud-Bäumer-Str. 19 an der Schwere-Reiter-Str. 13
+- TOP 3.16.: Sozialreferat: Konzept der regionalen Sozialberichte
+- TOP 3.17.: Beschluss des Kinder- und Jugendhilfeausschusses vom 30.01.07: Neuhauser Trafo 2. Bauabschnitt Aldringenstraße; Errichtung einer viergruppigen Kinderkrippe; Projektauftrag
+- TOP 3.18.: Generationenübergreifendes Wohnprojekt in Neuhausen-Nymphenburg (Rathaus-Umschau, Antrag SPD-Fraktion)
+- TOP 3.19.: Münchner Stadtbibliothek: Neuerrichtung eines ASZ / Stadtbibliothek Nymphenburg, Arnulfstr. 294 (Schreiben BA 9 vom 20.12.06)
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.1.: Zukunftsplanungen
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.1.: KVR: Vergabe des Theaterfestivalgeländes für das "1. Freie Ritterturney zu München" vom 27.04. - 01.05.07
+- TOP 3.2.: Neuland: Kunstprojekte; Zusammenarbeit mit dem BA 9
+- TOP 3.3.: Kulturreferat: Objekt Nymphenburger Straße ( Ersatz Trafosaal)
+- TOP 3.4.: Münchner Stadtbibliothek: Neuerrichtung eines ASZ / Stadtbibliothek Nymphenburg, Arnulfstr. 294 (Schreiben BA 9 vom 20.12.06)
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Antrag CSU: Neuer Standort für Freiwillige Feuerwehr / Abt. Stadtmitte
+- TOP 4.2.: KVR: Gaststätte "Absolut", Schulstr. 15; Pächterwechsel
+- TOP 4.3.: KVR: Gaststätte "Cafegarten Neuhausen", Nymphenburger Str. 92; Pächterwechsel
+- TOP 4.4.: KVR: Gaststätte "Lucatoni", Birkerstr. 10; Pächterwechsel
+- TOP 4.5.: KVR: Gaststätte "ESV München", Winfriedstraße; Neuerrichtung
+- TOP 4.6.: KVR: Gaststätte "Diskothek Galaxy", Wilhelm-Hale-Str. 44, EG; Pächterwechsel
+- TOP 4.7.: KVR: Gaststätte "Fasaneriehof", Fasaneriestr. 3c; Pächterwechsel
+- TOP 4.8.: KVR: Erstellung von Richtlinien für Veranstaltungen in Grünanlagen
+- TOP 4.9.: Kommunalreferat: Zirkus Roberto vom 11. - 24.06.07 auf dem Leonrodplatz
+- TOP 4.10.: Veranstaltungen des Mütter-Väter-Zentrums Neuhausen am Lazarettspielplatz: Außenaktionen vom 01.05. - 31.10.07 jeweils an den Nachmittagen; Flohmärkte am 12.05., 16.06., 21.07. und 22.09.07; Familiensommerfest am 30.06.07
+- TOP 4.11.: KVR: Kundgebung "Rente mit 67" am 01.02.07, Arnulfstr. 195
+- TOP 4.12.: Gedenktag für die Opfer des Nationalsozialismus am 27.01.07
+- TOP 4.13.: Stadtkämmerei: Finanzplan 2006-2010
+- TOP 4.14.: KVR: Bücherflohmarkt des Vereins Kindernothilfe e.V. am 28.04., 26.05., 16.06., 30.06., 21.07., 10.08., 01.09., 22.09. und 06.10.2007 auf dem Rotkreuzplatz (Wiedervorlage aus der Sitzung vom 16.01.07)
+- TOP 4.15.: Kommunalreferat: Wiedereröffnung von öffentlichen Toilettenanlagen (Schreiben BA 9 vom 20.12.06)
+- TOP 4.16.: Belegung Rotkreuzplatz (Wiedervorlage aus der Sitzung vom 16.01.07)
+- TOP 4.17.: Oberbürgermeister Ude: Durchführung einer außerordentlichen Bürgerversammlung zum Thema Magnetschwebebahn zwischen München Hauptbahnhof und Flughafen für die Stadtbezirke 2, 3, 8, 9, 10, 11 und 24 am 16.02.07
+- TOP 5.: Verschiedenes
