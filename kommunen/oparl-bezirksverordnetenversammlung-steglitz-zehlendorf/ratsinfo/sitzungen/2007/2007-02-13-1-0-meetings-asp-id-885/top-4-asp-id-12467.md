@@ -1,0 +1,7 @@
+# TOP 4: Berichterstattung des Bezirksamts zur Teil-Nutzung der Leistikow-OH als Bürogebäude
+
+- Sitzung: 3. öffentliche Sitzung des Schulausschusses (2007-02-13)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=12467
+- Ergebnis: (offen)
