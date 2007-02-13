@@ -1,0 +1,103 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2007-02-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1055662
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1055662
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Suche nach Musikübungsräumen
+- TOP 3.2.: V erkehrsführung Schwanthalerstraße Parkgarage Saturn
+- TOP 3.3.: Verkehrssituation in der Einbahnstraßenzone Guldeinstraße
+- TOP 3.4.: Naturverträglichkeit der Pflege im Bavariapark
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 8 Schwanthalerhöhe Widmung folgender Wegeteilstrecken - Petra-Moll-Weg (Teilstrecke) - Hans-Dürrmeier-Weg (Teilstrecke) - Am Bavariapark (Teilstrecke)
+- TOP 4.2.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 8 Schwanthalerhöhe Widmung folgender Straßenstrecken - Hans-Fischer-Straße (Teilstrecken) - Carlamaria-Heim-Straße (Gesamtstrecke) - Oda-Schaefer-Weg (Gesamtstrecke) - August-Kühn-Straße (Gesamtstrecke) - Wugg-Retzer-Straße (Gesamtstrecke) - Karl-Spengler-Straße (Gesamtstrecke) - Sinti-Roma-Platz (Gesamtstrecke) Sitzungsvorlage Nr. 02-08 / V 09423
+- TOP 5: Anhörungen
+- TOP 5.1.: Erstellen von Richtlinien für Veranstaltungen in Grünanlagen
+- TOP 5.2.: Antrag auf 4 Warenstellagen Ligsalz- / Schwanthalerstraße
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Änderung der BA-Satzung Entscheidungsrecht für den BA bei der Genehmigung von Freischankflächen
+- TOP 6.1.2.: Vollzug des Allg. Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 Abs. 2 AEG für die Verlagerung von 15kv-Anlagen im Bereich Arnulfpark, München Strecke 5503 Mü Hbf - Augsburg Hbf km 0,921 - 1,786 Gemarkung Neuhausen und München, Sektion IV
+- TOP 6.1.3.: Freischankflächen auf öffentlichem Verkehrsgrund; Gestaltung und Betriebszeiten Längere Öffnungszeiten für Freischankflächen
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Konzept der regionalen Sachberichte
+- TOP 6.2.2.: Schüler- und Klassenzahlen an städtischen und staatlichen Gymnasien sowie an Schulen des zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2006/2007
+- TOP 6.2.3.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2006/2007
+- TOP 6.2.4.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2006/2007
+- TOP 6.2.5.: Schüler/innen und Klassenstand berufliche Schulen der LH München im Schuljahr 2006/2007 Stand 20.10.2006
+- TOP 6.2.6.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2006/2007
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.3.1.: Weltkindertag 2007
+- TOP 6.3.2.: Afrikatage 2007
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Information über Eingriffe in den Gehölzbestand - <div>Abweichung von Referentenvorl.</div>
+- TOP 6.4.2.: Änderung der BA-Satzung Beteiligung der BAs bei Baumfällungen
+- TOP 6.4.3.: Abschaltung der LZA Astaller- / Gollierstraße - <div>Rückverweisung an Fachausschuss</div>
+- TOP 6.4.4.: Bessere Wiesnabsperrung gegen Wohnmobile Empfehlung Nr. 26 der BV vom 01.07.04 des BA 8 Beschlussvorlage des KVR vom 12.10.2004
+- TOP 6.4.5.: Verkehrsentwicklungsplan der LH München
+- TOP 6.4.6.: Baumfällungen Tulbeckstr. 28 - 28a
+- TOP 6.4.7.: Vollzug des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung der LH München
+- TOP 6.4.8.: Entgelterhebung an P+R-Anlagen im Stadtgebiet hier: Anpassung der P+R Parkpreise
+- TOP 6.4.9.: Bekanntgabe zur Entwicklung des ÖPNV in München Download unter: http://www.muenchen.de/Rathaus/plan/stadtentwicklung/verkehrsplanung/mobilitaet/184401/02_bek_oev.html - <div>bekannt geben</div>
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Finanzplan 2006 - 2010 - <div>vertagt</div>
+- TOP 6.5.2.: Zuwendung aus dem BA-Budget 90-Jahr-Feier Villa Flora e.V.
+- TOP 6.5.3.: Budgetantrag des CBA e.V. Schreiben BA 13
+- TOP 7: Erledigungen
+- TOP 7.1.: Umkehr der Beweislast im Energiesektor AntragNr. 1504 voom 10.10.06
+- TOP 7.2.: Bergmannstraße zwischen Kazmair- und Westendstraße im 8. Stadtbezirk Schwanthalerhöhe Erneuerungsmaßnahmen mit Verbesserungen
+- TOP 7.3.: Einführung eines Rauchverbotes vor den Schulen im Westend Empfehlung Nr. 02-08/E00426 der BV des BA 8 vom 01.06.06
+- TOP 7.4.: Fällantrag auf dem Grundstück Kazmairstr. 37 Fällgenehmigung
+- TOP 7.5.: Baustellen der SWM Baumaterialien auf öffentlichen Straßen
+- TOP 7.6.: Reparaturen in der HS Ridlerstraße Antrag Nr. 213 des BA 8 vom 15.07.2002
+- TOP 7.7.: Geschwindigkeitsbegrenzung und Überwachung, vorallem in der Ridlerstraße
+- TOP 7.8.: Öffnung der Gollierstraße zwischen Bergmann- und Parkstraße für den gegenläufigen Radverkehr
+- TOP 8: Anträge
+- TOP 8.1.: Beidseitiges Haltverbot in der Trappentreustraße zwischen Gollier- und Kazmairstraße - <div>nach Antrag</div>
+- TOP 8.2.: Kennzeichnung der Parkplätze neben der TG-Ausfahrt Ridlerstr. 54 als PKW-Parkplätze - <div>nach Antrag</div>
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Meldeliste 22.01.2007 - 28.01.2007 Erstantragsverfahren a) Schwanthalerstr. 152 b) Westendstr. 144
+- TOP 9.2.: Meldeliste vom 22.01.2007 - 28.01.2007 Abbruchanzeigen a) Landsberger Str. 143
+- TOP 9.3.: Baumaßnahmen der SWM Stichtag 29.01.2007
+- TOP 9.4.: Meldelisten 08.01.2007 - 14.01.2007 Abbruchanzeigen a) Guldeinstr. 50 b) Ganghoferstr. 20
+- TOP 9.5.: Baumaßnahmen der SWM Stichtag 15.01.2007
+- TOP 9.6.: Baumaßnahmen SWM Stichtag 08.01.2007
+- TOP 9.7.: Meldeliste 18.12.06 - 07.01.07 Tektur a) Guldeinstr. 26
+- TOP 9.8.: Meldeliste 18.12.06 - 07.01.07 Erstantragsverfahren a) Westendstr. 117
+- TOP 9.9.: Meldeliste vom 29.01.07 - 04.02.07 Erstanträge a) Ganghoferstr. 20
+- TOP 9.10.: Baumaßnahmen der SWM Stichtag 22.01.07
+- TOP 9.11.: Baumaßnahmen der SWM Stichtag 05.02.2007
+- TOP 10: Verschiedenes
+- TOP 10.1.: Berichterstattung der SZ der BV vom BA 3 Schreiben BA 3 vom 08.01.2007
+- TOP 10.2.: Beteiligungs- und Entscheidungsrechte der BAs bei Standortfragen und Baumaßnahmen für KiTas
+- TOP 10.3.: Änderung der BA-Satzung Fahrtkostenübrernahme für behinderte BA-Mitglieder
+- TOP 10.4.: Außerordentliche Bürgerversammlung der BAs 2, 3, 8, 9, 10, 11 und 24 am 16.02.07 Transrapid (Magnetschwebebahn)
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Schriftverkehr 01/07
+- TOP 11.2.: Protokoll 01/07
+- TOP 11.3.: Taekwondo Hellas Zentrum e.V. Kurzbericht Budgetverwendung
+- TOP 11.4.: DIR - Zuwendungsbescheid Taekwondo Zentraum Hellas e.V.; Antrag vom 12.09.06
+- TOP 11.5.: DIR - Zuwendungsbescheid Initiative "Open Westend"; Antrag vom 22.10.2006
+- TOP 11.6.: DIR - Zuwendungsbescheid Kulturkeller Schwanthalerhöh´; Antrag vom 23.11.2006
+- TOP 11.7.: DIR - Zuwendungsbescheid Freundeskreis Maria Heimsuchung, Antrag vom 13.09.06
+- TOP 11.8.: DIR - Zuwendungsbescheid Evangelischer Verein München-Westend e.V. vom 19.01.2007
+- TOP 11.9.: KVR - Unveränderte Fortführung von Gaststätten Westendstr. 136
+- TOP 11.10.: KVR - Anmeldung eines Aufzuges Heimeranplatz, 20.01.07
+- TOP 11.11.: KVR - Demo Fäustlestr. am 28.12.06
+- TOP 11.12.: PlanRef - Schutz der Münchner Vorgärten
+- TOP 11.13.: PlanR - Ökologische Hochhäuser
+- TOP 11.14.: PlanRef - Projektfortschrittsbericht 2006 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung"
+- TOP 11.15.: PlanR - Bevölkerungsprognosen 2006 der LH München
+- TOP 11.16.: PlanRef - Satzungen über die Genehmigungspflicht von Grundstücksteilungen (Teilungssatzungen)
+- TOP 11.17.: KVR - Unveränderte Fortführung von Gaststätten Ligsalzstr. 33
