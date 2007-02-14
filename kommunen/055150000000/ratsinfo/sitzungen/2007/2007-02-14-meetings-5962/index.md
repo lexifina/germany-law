@@ -1,0 +1,60 @@
+# 19. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-02-14T17:03:00+01:00
+- Ende: 2007-02-14T19:36:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5962
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5962
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00244288.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit von Verwaltungsmitarbeitern erforderli
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Bekanntgabe von Eingaben und Anträgen
+- TOP 4.1: Eingaben von Anliegern im Hafenviertel zur Straßenführung im Hafengebiet, in der Dortmunder Straße
+- TOP 5: Stadtentwicklung, Stadterneuerung, Wohnen
+- TOP 5.1: Kleinräumige Bevölkerungsprognose 2005 bis 2015 der Stadt Münster - zur Kenntnis genommen
+- TOP 5.2: Pflegebericht 2005 des Sozialamtes - zur Kenntnis genommen
+- TOP 5.3: Konzept eines Entwicklers für den Bereich Stadthafen I und Stadthafen II "Sportiv-Kai" - zur Kenntnis genommen
+- TOP 6: Stadtplanung
+- TOP 6.1: Bebauungsplan Nr. 511 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.2: 1. Änderung des Bebauungsplanes Nr. 114 Teilabschnitt IV: Zentrum Nord - mittlerer - zur Kenntnis genommen
+- TOP 6.3: Vorhabenbezogene 3. Änderung des Bebauungsplanes Nr. 114 Teilabschnitt III: Zentrum Nord - einstimmig beschlossen
+- TOP 6.4: 3. Änderung FNP - Beschluss über die Stellungnahmen - Beschluss zur erneuten Offenlegung - einstimmig beschlossen
+- TOP 6.5: Bebauungsplan Nr. 273 I, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.6: Bebauungsplan Nr. 273 II, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.7: Bebauungsplan Nr. 306, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.8: Bebauungsplan Nr. 268, 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.9: Bebauungsplan Nr. 312, 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.10: Vorhabenbezogene 2. Änderung des Bebauungsplanes Nr. 342: Mecklenbeck - einstimmig beschlossen
+- TOP 6.11: 3. Änderung des Bebauungsplanes Nr. 412: Mecklenbeck - Ossenkampstiege / Schürbusch - einstimmig beschlossen
+- TOP 6.12: Bebauungsplan Nr. 487: Roxel - Pienersallee, neuer DB-Haltepunkt - zur Kenntnis genommen
+- TOP 6.13: Vorhabenbezogene 1. Änderung des Bebauungsplanes Nr. 277:Kinderhaus - einstimmig beschlossen
+- TOP 6.14: Bebauungsplan Nr. 210, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.15: 16. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 6.16: Veränderungssperre Nr. 97 für den Bereich des Bebauungsplanes Nr. 137 Teilabschnitt II: - einstimmig beschlossen
+- TOP 6.17: Bebauungsplan Nr. 483: Amelsbüren - Industrie- und Gewerbepark - mehrheitlich beschlossen
+- TOP 6.18: Arbeitsschwerpunkte Vorbereitende und Verbindliche Bauleitplanung 2007 - eingebracht
+- TOP 7: Verkehr
+- TOP 7.1: Ergebnisbericht - zur Kenntnis genommen
+- TOP 7.2: Ausstattung von Haltestellen mit Wartehallen - Programm 2007 - zur Kenntnis genommen
+- TOP 7.3: Ausbau - einstimmig beschlossen
+- TOP 7.4: Querungshilfe Gremmendorfer Weg in Höhe der Gaststätte Heuckmann/ (Schulwegsicherung) - einstimmig beschlossen
+- TOP 7.5: Stellungnahme zu der Möglichkeit des Baus einer Linksabbiegespur Heumannsweg in Fahrtrichtung Gewerb - zur Kenntnis genommen
+- TOP 7.6: Errichtung einer Fußgänger-LSA im Bereich der Zuwegung "Am Haselhof" - zur Kenntnis genommen
+- TOP 8: Sonstiges
+- TOP 8.1: Gräftenanlage Haus Rüschhaus - einstimmig beschlossen
+- TOP 8.2: Skulptur 07 - Temporäre Errichtung von 2 City-Toiletten in der Innenstadt - mehrheitlich beschlossen
+- TOP 8.3: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am 03.06.2007 zu der Veranst - einstimmig beschlossen
+- TOP 8.4: Leitlinie zur Genehmigungspraxis bei der Freigabe von Verkaufssonntagen nach dem Ladenschlussgesetz - zur Kenntnis genommen
+- TOP 8.5: Sachstand Erweiterung Zentrum Kinderhaus
+- TOP 9: Beratung von Anträgen und Anfragen
+- TOP 9.1: Bericht zur "Lärmsituation an der BAB 1", Antrag der SPD-Fraktion vom 01.11.2006 - von der Tagesordnung abgesetzt
+- TOP 10: Verschiedenes
