@@ -1,0 +1,58 @@
+# 5. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2007-02-14T17:00:00+01:00
+- Ende: 2007-02-14T22:05:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1271
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1271
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=33118
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - (offen)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Erfahrungsbericht der Patientenfürsprecherin des Dominikus-Krankenhauses für das Jahr 2006 - überwiesen
+- TOP 5.2: Erlass der Verordnung zur Außerkraftsetzung der Veränderungssperre XX-190 / 43 für die Grundstücke Gabrielenstraße 37A, 37B, und 65B im Bezirk Reinickendorf, Ortsteil Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Erfahrungsbericht des Patientenfürsprechers des Krankenhauses Reinickendorf in der Vivantes GmbH - ö. B. Humboldt-Krankenhaus - für das Jahr 2006 - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Vernachlässigung von Kindern im Märkischen Viertel - beantwortet
+- TOP 6.2: Wie weiter mit dem Centre Bagatelle? - vertagt
+- TOP 6.3: Illegaler Zigarettenhandel in Reinickendorf - vertagt
+- TOP 6.4: Wie weiter mit der Cité Foch? - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Investitionsplanung 2007 bis 2011 - überwiesen
+- TOP 7.2: Wahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Nachwahl eines stellvertretenden Mitgliedes für den Beirat in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.4: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Anträge - (offen)
+- TOP 8.1: Verurteilung jeglicher politisch oder religiös extremistischer und ausländerfeindlicher Aktivitäten - ohne Änderungen in der BVV beschlossen
+- TOP 9: Ersuchen - (offen)
+- TOP 9.1: Volkshochschulkurs einrichten zum Thema - Elternvertreter - - überwiesen
+- TOP 9.2: Ehrenamtliche Patenschaften für Familien und Mütter - überwiesen
+- TOP 9.3: Gedenktafel für so genannte Reichsausschusskinder verlegen - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Schulbaumaßnahmen (IZBB) in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Kinderfest rund um das Rathaus Reinickendorf - überwiesen
+- TOP 9.6: Verkehrszählung Auguste-Viktoria-Allee - überwiesen
+- TOP 9.7: Tagesmütter für Migrantenfamilien schulen - überwiesen
+- TOP 9.8: Auflistung der Liegenschaften des Bezirks - überwiesen
+- TOP 9.9: Baumaßnahmen Pankower Allee - überwiesen
+- TOP 9.10: Radwegekonzept für den Bezirk Reinickendorf - überwiesen
+- TOP 9.11: Gesamtkonzept für als besonders belastet ausgewiesene Kietze in Reinickendorf - überwiesen
+- TOP 9.12: Sicherheit in der Cité Foch - vertagt
+- TOP 10: Empfehlungen - (offen)
+- TOP 10.1: Gleichstellung der Kinder bei Tagesmüttern und Tagesvätern mit Kita-Kindern bei Schwimmbadbenutzung - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Behindertenparkplätze und Fahrradständer am S-Bahnhof Waidmannslust - überwiesen
+- TOP 10.3: Durchgängiges Halteverbot im Robinienweg Reinickendorf, Ortsteil Hermsdorf - überwiesen
+- TOP 10.4: "Bolzplatz" im Tegeler Forst - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Scientology in den Schulen verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Modell des Bauprojekts Tegeler Insel ausstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Gewährleistung der verlässlichen Halbtagsgrundschule in Reinickendorf - überwiesen
+- TOP 10.8: Verbesserte Verkehrsführung in der Scharnweberstraße während der Schließung des Flughafentunnels - überwiesen
+- TOP 10.9: Reparaturarbeiten und Sanierungen an der U6 zwischen Kurt-Schumacher-Platz und Alt-Tegel - vertagt
