@@ -1,0 +1,83 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2007-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1039104
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1039104
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: "70 Jahre Siedlung Kaltherberge", Antrag auf Genehmigung
+- TOP 4.2.: Umzug der Bezirksausschuss-Geschäftsstelle Nord
+- TOP 4.3.: "Geschichtswerkstatt", Dankschreiben Kulturhaus Milbertshofen
+- TOP 4.1.: Fernwärmearbeiten Helene-Mayer-Ring, Schreiben der SWM
+- TOP 4.2.: Informationen über Eingriffe in den Gehölzbestand, Schreiben des Baureferates
+- TOP 4.1.: Erhaltung von 108 Arbeitsplätzen für behinderte Menschen, CBA e.V.
+- TOP 4.2.: Winterspielbus 2007, Vorabzustimmung
+- TOP 4.3.: Kindertagesstätten freigemeinnütziger Träger; Evang. Kindergarten der Dankeskirche Keferloherstr. 70 11. Stadtbezirk Milbertshofen - Am Hart (Beschluss des Schulausschusses des Stadtrates vom 10.01.2007)
+- TOP 4.1.: Situation in der Bad-Kreuznacher-Straße, Antrag Pfosten (BA-Antrag Nr. 02-08/B01552 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 18.10.2006) Antwortschreiben
+- TOP 4.2.: Außerordentliche Bürgerversammlung "Transrapid" am 16.02.2007
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 1: (E) Einrichtung eines Parkverbotes in der Einmündung Rose-Pichler-Weg West ( Ziffer 3 des Antrages) Empfehlung Nr. 02-08 / E 00458 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart am 29.06.2006
+- TOP 7.: Anträge
+- TOP 7.1.: Instandsetzung der Schleißheimer Straße einschließlich des Mittelteilers zwischen Rathenau- und Neuherbergstraße (SPD-Fraktion im BA 11)
+- TOP 7.2.: Gestaltung des "Heideplatzes" auf der Panzerwiese am Westende der Diagonale (SPD-Fraktion im BA 11)
+- TOP 7.3.: Gestaltung des Nord-West-Endplatzes der Diagonale im Neubaugebiet Nordheide West (Bewohnergemeinschaft Nordheide e.V.)
+- TOP 7.4.: "70 Jahre Siedlung Kaltherberge" (Siedlergemeinschaft Kaltherberge München)
+- TOP 7.1.: Antrag für die Aufstellung eines Kunstobjektes (Gabriele Demmel)
+- TOP 7.1.: Verbesserung der Verkehrssituation an der Einmündung Sandbienenweg (provisorisch) in die Schleißheimer Straße (Bewohnergemeinschaft Nordheide e.V.)
+- TOP 7.2.: "Parkplatzschwierigkeiten" (Elisabeth Jacob)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Vollzug der BAumschutzverordnung, Einzelmaßnahmen: a) Naagerstr. 3, eine Tanne b) Starenweg 5, eine Zeder c) Humperdinckstr. 2-16, eine Birke, ein Ahorn d) Knorrstr. 147, mehere Bäume e) Dientzenhoferstr. 18-20, vier Fichten
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Baumaßnahmen: a) Knorrstr. 37 b) Josef-Ressel-Str. 7
+- TOP 8.3.: Erstellung von Richtlinien für Veranstaltungen in Grünanlagen
+- TOP 8.1.: Planung der Münchner Sommer Spiel Aktion 2007
+- TOP 8.2.: Konzeption der regionalen Sozialberichte
+- TOP 8.3.: Ausschreibung zur Ausrichtung des Weltkindertages 2007 "Familien bewegen"
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach §45 StVO, hier: Knorrstr. 55-57
+- TOP 8.2.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Milbertshofener Platz
+- TOP 8.3.: U-Bahn-Linie 3 Nord - Bahnhof Oberwiesenfeld Beschilderungsentwurf (inhaltliche Abstimmung)
+- TOP 8.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes - nicht öffentlich -
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendungen aus dem Budget der Bezirksausschüsse, Genehmigungsbescheide: a) Kath. Pfarramt St. Georg-Milbetshofen, Kindermalwettbewerb, Bewilligung 1000,00?
+- TOP 9.2.: Zuwendungen aus dem Budget der Bezirksausschüsse, Schreiben des Direktoriums
+- TOP 9.1.: Aufwertung und Umgestaltung des Dülferangers und des Mittelteilers Schleißheimer Straße (Goldschmiedplatz) (Beschluss des Bauausschusses vom 16.01.2007)
+- TOP 9.2.: Verbindungsstraße zwischen Maria-Probst-Straße und Lilienthalallee (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.2007)
+- TOP 9.3.: Ökologische Hochhäuser (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.2007)
+- TOP 9.4.: Satzungen über die Genehmigungspflicht von Grundstücksteilungen (Teilungssatzungen) (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.2007)
+- TOP 9.5.: Bevölkerungsprognosen 2006 der Landeshauptstadt München (Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 10.01.2007)
+- TOP 9.6.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 31.01.2007)
+- TOP 9.7.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München (Beschluss der Vollversammlung des Stadtrates vom 24.01.2007)
+- TOP 9.8.: Projektfortschrittsbericht 2006 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung" (Bekanntgabe in der Sitzung des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsausscusses vom 31.01.2007)
+- TOP 9.9.: Auswirkungen von Brandschutzbestimmungen und Auflagen der Feuerwehr auf den Städtebau, die Grün- und Objektplanung (Bekanntgabe in der Sitzung des Bauausschusses vom 16.01.2007).
+- TOP 9.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.11.: Baumaßnahmen der Stadtwerke München
+- TOP 9.12.: Meldelisten Bauvorhaben
+- TOP 9.1.: Abriss und Neubau der Kinder- und Jugendfreizeitstätte "Spiel- und Begegnungszentrum am Hart" (Verwaltungsinterne Projektgenehmigung)
+- TOP 9.2.: Kultur im Stadtquartier; Teilprojekt 2: Vernetzung, Arbeitsteilung, Kooperation, Information
+- TOP 9.3.: Unveränderte Fortführung von Gaststättenbetrieben: a) SSW "Baba`s Finest", Schleißheimer Str. 303 b) SSW "Pizzeria Riccardo", Silcherstr. 2
+- TOP 9.4.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.: Verkehrsrechtliche Anordnungen nach §45 Abs.3 StVO: a) Moosacher Straße / Südseite, Beschilderung nach Umbau
+- TOP 9.3.: Veranstaltung auf öffentlichem Verkehrsgrund, Tag der Motorradfahrer am 28.04.2007
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
