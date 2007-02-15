@@ -1,0 +1,85 @@
+# 5. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2007-02-15T17:30:00+01:00
+- Ende: 2007-02-15T22:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1372
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1372
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=56574
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Neue Saison für Hexenkessel Hoftheater und Strandbar Mitte - beantwortet
+- TOP 5.2: Heinrich-von Kleist ohne Lehrer? - zurückgezogen
+- TOP 5.3: ARGE-Beirat - beantwortet
+- TOP 5.4: Verwendung von Ordnungsmitteln - beantwortet
+- TOP 5.5: Wohnungsbaugesellschaft Mitte / BEWOGE Alle reden von Wohnungsverkäufen - Wir reden vom Mieter/innenschutz - beantwortet
+- TOP 5.6: Sprachtest Deutsch plus - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Zuweisung für die Grünflächenunterhaltung - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Aufhebung von Sanierungsgebieten - beantwortet
+- TOP 7.2: Parkplatz an der Seniorenwohnanlage Barfusstraße - beantwortet
+- TOP 7.3: Zusammenarbeit der DEGEWO mit dem QM - beantwortet
+- TOP 7.4: Hochglanz-Bürgerbeteiligung in Mitte - beantwortet
+- TOP 7.5: Mieterberatung für SozialhilfeempfängerInnen und Hartz IV-EmpfängerInnen - beantwortet
+- TOP 7.6: Verdrängung des Religionsunterrichts an den Schulen in Mitte - beantwortet
+- TOP 7.7: Tempo 30 auf Hauptstraßen in der Nacht - beantwortet
+- TOP 7.8: Wenn du arm bist, musst du früher sterben! - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Anmeldungen für die Investitionsplanung 2007 - 2011 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses gemäß § 35 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Erlass einer Veränderungssperre mit der Bezeichnung 1-42B/12 für die im Geltungsbereich des im Verfahren befindlichen Bebauungsplanentwurfes 1-42B für das Gelände zwischen Lützowstraße 107-112 und Pohlstraße 8-16 im Bezirk Mitte von Berlin, OrtsteilTiergarten sowie Entscheidung über den beigefügten Entwurf der Rechtsverordnung - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Das Sommerbad in der Seydlitzstraße nicht aufgeben! - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Drucksachen der II. Wahlperiode, die in die III. Wahlperiode übernommen werden - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Bürgerinformationssystem - in der BVV zurückgezogen
+- TOP 12.2: Schulen in freier Trägerschaft im Aufwind! - in der BVV abgelehnt
+- TOP 12.3: Weiterentwicklung des B-Plans 1-43 VE (Schultheiß-Gelände) - überwiesen
+- TOP 12.4: Schulen bei der Gewaltprävention helfen - in der BVV abgelehnt
+- TOP 12.5: Naturlehrpfad Moabit in touristisches Leitsystem aufnehmen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Ombudsstelle für Hartz IV-Betroffene einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Lehrer für Heinrich-von-Kleist-Oberschule - in der BVV abgelehnt
+- TOP 12.8: Protrait des Bundespräsidenten - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Mehrgenerationenhaus für Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Vorgezogener Bau eines behindertengerechten Aufzuges am U-Bhf. Turmstraße - in der BVV zurückgezogen
+- TOP 12.11: Bürokratieabbau - überwiesen
+- TOP 12.12: Vorgezogenes Bauen des behindertengerechten Aufzugs des U-Bahnhofs Turmstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Verbraucherschutz im Bezirk Mitte hat hohe Priorität - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Zwangsprostitution und Frauenhandel - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Gesellschaftliche Teilhabe von hörbehinderten Menschen in Mitte - überwiesen
+- TOP 12.16: Quartiersratswahlen mit verstärkter Bürgerbeteiligung - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Umsetzung der Maßnahmeplanung 2006 der Leitlinien zur SeniorInnen-Politik in Mitte 2007 - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Männer setzen Zeichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Hochglanz-Bürgerbeteiligung in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Informationen zur Investitionsplanung 2007 - 2011 ins Internet - überwiesen
+- TOP 12.21: Informationsveranstaltung zur Investitionsplanung 2007 - 2011 - überwiesen
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Evangelische Gesamtschule nach Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Obligatorische Ganztagsbetreuung für Kinder mit Sprachförderbedarf - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Paech-Brot-Gelände - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Für eine bürgerfreundliche Planung in der Invalidenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Fanmeile Fußballweltmeisterschaft 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Erläuterungsschilder zu Straßennamen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Beschluss über die Ergebnisse der fühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB, der Beteiligung der Behörden gem. § 4 Abs. 1 und 2 BauGB zum vorhabenbezogenen Bebauungsplanentwurf 1-38VE, die Erweiterung des Geltungsbereiches sowie die Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Weiterführung des Bebauungsplanverfahrens mit geänderten Planinhalten des Bebauungsplanentwurfs I-26 im Bezirk Mitte, Ortsteil Mitte, die Durchführung der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB, der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB und der Öffentlichkeit gem. § 3 Abs. 1 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Beirat von und für Menschen mit Behinderung (Behindertenbeirat) gem. Drittes Gesetz zur Änderung des Landesgleichberechtigungsgesetzes (LGBG) vom 19. Juli 2006, § 7 (5), (6) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Bildung einer Spielplatzkommission im Bezirk Mitte und deren Geschäftsordnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Gründung eines Frauenbeirates - mit Abschlussbericht zur Kenntnis genommen
