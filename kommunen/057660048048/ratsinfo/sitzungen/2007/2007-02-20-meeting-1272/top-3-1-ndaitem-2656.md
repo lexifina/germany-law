@@ -1,0 +1,6 @@
+# TOP 3.1: Besetzung der Konrektorenstelle an der Grundschule Leopoldshöhe-Süd hier: Vorstellung der neuen Konrektorin
+
+- Sitzung: Ausschuss für Schule, Kultur und Sport (16. Sitzung) (2007-02-20)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/2656
