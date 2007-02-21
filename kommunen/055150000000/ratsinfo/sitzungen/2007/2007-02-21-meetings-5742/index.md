@@ -1,0 +1,66 @@
+# 18. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-02-21T17:04:00+01:00
+- Ende: 2007-02-21T20:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5742
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5742
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00245160.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Haushaltskonsolidierungsprogramm 2007 - 2010, Antrag Nr. 0056/2006 der SPD-Fraktion - einstimmig beschlossen
+- TOP 2.2: Antrag der CDU und FDP-Fraktion im Rat der Stadt Münster (Nr. A-R/0050/2006) - einstimmig beschlossen
+- TOP 2.3: SPD-Antrag_Weiterentwicklung der Wirtschafts- und Technologieförderung - einstimmig beschlossen
+- TOP 2.4: Antrag der SPD-Fraktion an den Rat Nr. A-R/0054/2006 - Preiswertes Wohnen in der City - - einstimmig beschlossen
+- TOP 2.5: Antrag der SPD-Fraktion Nr. A-R/0055/2006 an den Rat - einstimmig beschlossen
+- TOP 2.6: Antrag der SPD-Fraktion Nr. A-R/0031/2006 an den Rat - Zielgenaue Förderung sozial benachteiligter K - einstimmig beschlossen
+- TOP 3: Ergebnisbericht - zur Kenntnis genommen
+- TOP 4: Kleinräumige Bevölkerungsprognose 2005 bis 2015 der Stadt Münster - zur Kenntnis genommen
+- TOP 5: Namensgebung für die Berufskollegs in Trägerschaft der Stadt Münster - einstimmig beschlossen
+- TOP 6: Gesamtkonzept zur Ferienbetreuung von Grundschulkindern in Münster - Koordination aller Maßnahmen - einstimmig beschlossen
+- TOP 7: Fortführung der Naturdenkmal-Verordnung für den baulichen Außenbereich - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 8: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am 03.06.2007 zu der Veranst - einstimmig beschlossen
+- TOP 9: Rekultivierung der Zentraldeponie Münster II - einstimmig beschlossen
+- TOP 10: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 4. Vierteljahr - zur Kenntnis genommen
+- TOP 11: Gestellung von zwei Ausfallbürgschaften für die Stiftung Siverdes - einstimmig beschlossen
+- TOP 12: Schulentwicklungsplanung 2007 bis 2010 für die städtischen weiterführenden Schulen - ohne Beschlussfassung geschoben
+- TOP 13: Kindertageseinrichtungen
+- TOP 13.1: Kindertageseinrichtung des Sozialdienstes katholischer Frauen (SkF), Katharinenstraße 10/12 - einstimmig beschlossen
+- TOP 13.2: Ausbau des u3-Angebotes im ev. Andreas-Kindergarten in Coerde - einstimmig beschlossen
+- TOP 13.3: Bau- und Errichtungszuschuss für die neue Kindertageseinrichtung des Studentenwerkes Münster - einstimmig beschlossen
+- TOP 14: Hilfen zur Erziehung - Entwicklung und Ausbau frühzeitiger Präventionsangebote - einstimmig geändert beschlossen
+- TOP 15: Neuausrichtung der Stiftung Bürgerwaisenhaus - einstimmig beschlossen
+- TOP 16: Bauleitplanung
+- TOP 16.1: Stadtbezirk Mitte
+- TOP 16.1.1: Bebauungsplan Nr. 511 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 16.1.2: Vorhabenbezogene 3. Änderung des Bebauungsplanes Nr. 114 Teilabschnitt III: Zentrum Nord - einstimmig beschlossen
+- TOP 16.2: Stadtbezirk West
+- TOP 16.2.1: 3. Änderung FNP - Beschluss über die Stellungnahmen - Beschluss zur erneuten Offenlegung - einstimmig beschlossen
+- TOP 16.2.2: 3. Änderung des Bebauungsplanes Nr. 412: Mecklenbeck - Ossenkampstiege / Schürbusch - einstimmig beschlossen
+- TOP 16.2.3: Bebauungsplan Nr. 268, 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.2.4: Bebauungsplan Nr. 273 I, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.2.5: Bebauungsplan Nr. 273 II, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.2.6: Bebauungsplan Nr. 312, 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.2.7: Vorhabenbezogene 2. Änderung des Bebauungsplanes Nr. 342: Mecklenbeck - einstimmig beschlossen
+- TOP 16.2.8: Bebauungsplan Nr. 306, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.3: Stadtbezirk Hiltrup
+- TOP 16.3.1: Veränderungssperre Nr. 97 für den Bereich des Bebauungsplanes Nr. 137 Teilabschnitt II: - einstimmig beschlossen
+- TOP 16.3.2: Bebauungsplan Nr. 483: Amelsbüren - Industrie- und Gewerbegebietes - ohne Beschlussfassung geschoben
+- TOP 16.4: Stadtbezirk Nord
+- TOP 16.4.1: Bebauungsplan Nr. 210, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.4.2: Vorhabenbezogene 1. Änderung des Bebauungsplanes Nr. 277:Kinderhaus - von der Tagesordnung abgesetzt
+- TOP 16.5: Stadtbezirk Ost
+- TOP 16.5.1: 16. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 16.5.2: 23. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 16.5.3: Bebauungsplan Nr. 262, 3. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 17: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 18: Verschiedenes
