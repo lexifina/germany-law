@@ -1,0 +1,103 @@
+# 5. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2007-02-21T16:30:00+01:00
+- Ende: 2007-02-21T21:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=878
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=878
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Mündliche Fragestunde - erledigt
+- TOP 3.1: Ausstattung und Erreichbarkeit von Schulsekretariaten - beantwortet
+- TOP 3.2: Einsetzung des Präventionsbeirats - beantwortet
+- TOP 3.3: Aktueller Fall von "Happy Slapping" an Steglitz-Zehlendorfer Schule. Welches Engagement entfalten nun das Bezirksamt und die zuständigen Stellen? - beantwortet
+- TOP 3.4: Mehr Kinderschutz in Steglitz-Zehlendorf - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringliche Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.1: Wahl der Patientenfürsprecher für die Krankenhäuser des Bezirks nach § 26 des Landeskrankenhausgesetzes durch die Bezirksverordnetenversammlung - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Anträge - erledigt
+- TOP 4.2: Behindertenparkplatz vor dem Finanzamt Zehlendorf - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2: S-Bahnzugang Celsiusstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2.3: U-Bahn-Verkehr bis Krumme Lanke dauerhaft - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Ausstellung der Botschaft des Staates Israel "Ein Visum fürs Leben" - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Nichtüberwachung der Gewährleistungszeit Schwartzsche Villa Drs. 824/II - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.4: Bessere Förderung und Unterstützung von Kindern mit lern- oder emotionalsozialen Behinderungen in der Schulanfangsphase - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.5: Besetzung von Schulleiterstellen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.6: Behindertengerechte Gestaltung der Toilette der Zentralbibliothek Steglitz-Zehlendorf - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.7: Gedenktafel Glienicker Brücke - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.8: Sozialatlas Steglitz-Zehlendorf 2005 fortschreiben! - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.9: Taxistand Ladiusstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.10: Lichtzeichenanlage Kreuzung Argentinische Allee - Waltraudstraße - Am Waldfriedhof - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.11: Halteverbot in der Grunewaldstraße 6 vor dem Geburtshaus - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.12: Errichtung eines Fußgängerüberweges - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.13: Notwendige Entlastung der Schulsekretariate - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.14: Durchführung einer Umfrage über die Qualität der Schulreinigung an allen Steglitz-Zehlendorfer Schulen - im Ausschuss abgelehnt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - - erledigt
+- TOP 5.1: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Bezirksrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2005 - überwiesen
+- TOP 5.2: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 5.2.1: Bebauungsplan X-149-1 (Insel Schwanenwerder) - überwiesen
+- TOP 5.3: Anträge - erledigt
+- TOP 5.3.1: Wohnbaufläche "Truman Plaza" - überwiesen
+- TOP 5.3.2: Bilanz des IZBB-Programms in Steglitz-Zehlendorf - überwiesen
+- TOP 5.3.3: Kreisverkehre - überwiesen
+- TOP 5.3.4: Direkte Demokratie stärken statt Volksbegehren behindern! - überwiesen
+- TOP 5.3.5: Neuer Standort für die Markthändler am Ladiusmarkt - überwiesen
+- TOP 5.3.6: Schulwegampel Berliner Straße - überwiesen
+- TOP 5.3.7: Verkehrssituation in der Schützallee im Bereich Unter den Eichen und Hüninger Straße - überwiesen
+- TOP 5.3.8: Linie 218 - überwiesen
+- TOP 5.3.9: Behindertenparkplatz auf dem Parkplatz an der Martin-Buber-Straße - überwiesen
+- TOP 5.3.10: Tempo 30 in der Leonorenstraße und im Munsterdamm - überwiesen
+- TOP 5.3.11: Kernforderungen des Verwaltungsreform-Grundsätze-Gesetzes ernsthaft in Steglitz-Zehlendorf umsetzen! - überwiesen
+- TOP 5.3.12: Räumlichkeiten an der Pestalozzi-Schule für die Integrationsklasse Jahrgangsstufe 3 - überwiesen
+- TOP 5.3.13: Internet-Anschluss für das Bürgerbüro - überwiesen
+- TOP 5.3.14: Verkehrsberuhigung Flanaganstraße - überwiesen
+- TOP 5.3.15: Tennishallen-Projekt von Z-88 sichern und ermöglichen! - überwiesen
+- TOP 5.3.16: Energieeffiziente Sanierung von Nichtwohngebäuden - überwiesen
+- TOP 5.3.17: Umbau von Spielplätzen in Steglitz-Zehlendorf durch die I-Planung ermöglichen - überwiesen
+- TOP 5.3.18: Sanierung Schwimmbad Finckensteinallee - überwiesen
+- TOP 5.3.19: Namensschilder für Ordnungsamtsmitarbeiter - überwiesen
+- TOP 5.3.20: Wiedereinführung der Schulreifeuntersuchung für Schülerinnen und Schüler - überwiesen
+- TOP 5.3.21: Endlich eine Sachmittelzuwendung für das Kinder- und Jugendbüro - überwiesen
+- TOP 5.3.22: Projekt "Stolpersteine" - überwiesen
+- TOP 5.3.23: Einsetzung eines/einer Beauftragten für Integration und Migration für Steglitz-Zehlendorf - überwiesen
+- TOP 5.3.24: Endlich jugendgerechte Öffnungszeiten der Jugendfreizeiteinrichtungen abends und am Wochenende! - überwiesen
+- TOP 5.3.25: Prioritätensetzung bei der Beseitigung von Straßenschäden - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringlichkeitswahlvorschläge - erledigt
+- TOP 6.1: Hildegard Gräfin von Koenigsmarck-Stiftung - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Dringlichkeitsanträge - erledigt
+- TOP 6.2.1: Treitschkestraße endlich umbenennen! - vertagt
+- TOP 7: Wahlen - erledigt
+- TOP 7.1: Wahlvorschläge - erledigt
+- TOP 7.1: Hildegard Gräfin von Koenigsmarck-Stiftung - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Ausschussanträge - erledigt
+- TOP 7.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk 6 - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 8: Haushaltsangelegenheiten - erledigt
+- TOP 8.1: Dringl. Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Anmeldungen für die Investitionsplanung 2007 bis 2011 - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9: Bebauungspläne - erledigt
+- TOP 9.1: Vorlagen zur Beschlussfassung - erledigt
+- TOP 9.1.1: Verlängerung der Veränderungssperre XII-6-2 B/35 - überwiesen
+- TOP 10: Anfragen - erledigt
+- TOP 10.1: Geplanter Maßregelvollzug in der Leonorenstraße - beantwortet
+- TOP 10.2: Konzept der Schulaufsicht für die Weiterbildung der Lehrerinnen und Lehrer - beantwortet
+- TOP 10.3: Wie geht es weiter mit dem Grundstück in der Schmarjestr. 14? - beantwortet
+- TOP 10.4: Warum kein ehrliches Engagement für Freie Träger und kein Aufarbeitungsinteresse des Jugendamtes? - vertagt
+- TOP 10.5: Geschwindigkeitsbegrenzung auf Hauptstraßen in den Nachtstunden - vertagt
+- TOP 11: Dringliche Vorlagen zur Beschlussfassung und Beschlussempfehlung von Ausschüssen - erledigt
+- TOP 11.1: Teil-Nutzung der Leistikow-OH als Bürodienstgebäude - überwiesen
+- TOP 12: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 12.1: Verkehrskonzept - vertagt
+- TOP 12.2: Don-Bosco-Gelände - vertagt
+- TOP 12.3: Sperrung Schloßstraße und Teltower Damm für den Individualverkehr - vertagt
+- TOP 13: Schlusswort des BVVorstehers - vertagt
