@@ -1,0 +1,76 @@
+# 20. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-02-21T17:31:00+01:00
+- Ende: 2007-02-21T20:29:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5743
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5743
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00245347.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Aegidii-Ludgeri-Schule
+- TOP 1.2: Aegidii-Ludgeri-Schule
+- TOP 1.3: Aegidii-Ludgeri-Schule
+- TOP 1.4: Schulpolitsche Konsequenzen aus der kleinräumigen Bevölkerungsprognose
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Anliegerbeiträge nach dem Kommunalabgabengesetz (KAG) für Hauptverkehrsstraßen senken
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 7.1: Landesmediengesetz - verwiesen
+- TOP 8: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am 03.06.2007 zu der Veranst - einstimmig beschlossen
+- TOP 9: Rekultivierung der Zentraldeponie Münster II - einstimmig beschlossen
+- TOP 10: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 4. Vierteljahr - zur Kenntnis genommen
+- TOP 11: Gestellung von zwei Ausfallbürgschaften für die Stiftung Siverdes - einstimmig beschlossen
+- TOP 12: Schulentwicklungsplanung 2007 bis 2010 für die städtischen weiterführenden Schulen - mehrheitlich beschlossen
+- TOP 13: Kindertageseinrichtungen
+- TOP 13.1: Kindertageseinrichtung des Sozialdienstes katholischer Frauen (SkF), Katharinenstraße 10/12 - einstimmig beschlossen
+- TOP 13.2: Ausbau des u3-Angebotes im ev. Andreas-Kindergarten in Coerde - mehrheitlich beschlossen
+- TOP 13.3: Bau- und Errichtungszuschuss für die neue Kindertageseinrichtung des Studentenwerkes Münster - einstimmig beschlossen
+- TOP 14: Hilfen zur Erziehung - Entwicklung und Ausbau frühzeitiger Präventionsangebote - einstimmig geändert beschlossen
+- TOP 15: Neuausrichtung der Stiftung Bürgerwaisenhaus - einstimmig beschlossen
+- TOP 16: Bauleitplanung
+- TOP 16.1: Stadtbezirk Münster-Mitte
+- TOP 16.1.1: Bebauungsplan Nr. 511 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 16.1.2: Vorhabenbezogene 3. Änderung des Bebauungsplanes Nr. 114 Teilabschnitt III: Zentrum Nord - einstimmig beschlossen
+- TOP 16.2: Stadtbezirk Münster-West
+- TOP 16.2.1: 3. Änderung FNP - Beschluss über die Stellungnahmen - Beschluss zur erneuten Offenlegung - einstimmig beschlossen
+- TOP 16.2.2: 3. Änderung des Bebauungsplanes Nr. 412: Mecklenbeck - Ossenkampstiege / Schürbusch - einstimmig beschlossen
+- TOP 16.2.3: Bebauungsplan Nr. 268, 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.2.4: Bebauungsplan Nr. 273 I, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.2.5: Bebauungsplan Nr. 273 II, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.2.6: Bebauungsplan Nr. 312, 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.2.7: Vorhabenbezogene 2. Änderung des Bebauungsplanes Nr. 342: Mecklenbeck - einstimmig beschlossen
+- TOP 16.2.8: Bebauungsplan Nr. 306, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.3: Stadtbezirk Münster-Hiltrup
+- TOP 16.3.1: Veränderungssperre Nr. 97 für den Bereich des Bebauungsplanes Nr. 137 Teilabschnitt II: - einstimmig beschlossen
+- TOP 16.3.2: Bebauungsplan Nr. 483: Amelsbüren - Industrie- und Gewerbegebietes - mehrheitlich beschlossen
+- TOP 16.4: Stadtbezirk Münster-Nord
+- TOP 16.4.1: Bebauungsplan Nr. 210, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.4.2: Vorhabenbezogene 1. Änderung des Bebauungsplanes Nr. 277:Kinderhaus - von der Tagesordnung abgesetzt
+- TOP 16.5: Stadtbezirk Münster-Ost
+- TOP 16.5.1: 16. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 16.5.2: 23. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 16.5.3: Bebauungsplan Nr. 262, 3. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 17: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 18: Entsendung eines sachkundigen Einwohners/ einer sachkundigen Einwohnerin in den Ausschuss für Sozial - von der Tagesordnung abgesetzt
+- TOP 19: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 20: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 20.1: Parkraumkonzept für Fahrräder in Münster-Innenstadt - verwiesen
+- TOP 20.2: Vorabinformationen zu Planungsvorhaben - verwiesen
+- TOP 20.3: Eine Million für ein grünes Münster - verwiesen
+- TOP 20.4: Hiltruper Bahnhofsgebäude als Infopunkt, Kultur- und Begegnungszentrum nutzen - verwiesen
+- TOP 20.5: Aktualisierung des Einzelhandelskonzeptes - verwiesen
+- TOP 20.6: Straßennamen in Münster "Städtepartnerschaft auch belegen" - verwiesen
+- TOP 20.7: Schnelle Wiederaufforstung nach "Kyrill" sichern - verwiesen
+- TOP 20.8: Bessere Leistungen für Kinder und Eltern durch Synergien - Für eine Optimierung der städtischen Verw - verwiesen
+- TOP 21: Verschiedenes
