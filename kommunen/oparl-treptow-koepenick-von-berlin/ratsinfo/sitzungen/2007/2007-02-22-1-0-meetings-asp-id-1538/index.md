@@ -1,0 +1,64 @@
+# 5. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2007-02-22T16:30:00+01:00
+- Ende: 2007-02-22T19:30:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1538
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1538
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=51737
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Ausschuss für Bildung und Bürgerdienste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl eines Bürgerdeputierten - gewählt
+- TOP 8.3: Wahl von stellvertretenden Bürgerdeputierten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Bescheide über die Kostenbeteiligung - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 702) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Radverkehrskonzeption - 1. Stufe - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Bebauungsplan 9-32 ("Krampenburg") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Vorbereitung Städtepartnerschaft Kiew - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Benennung der Straße 37 in "Am Zasing" - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Neuer Radweg – Britzer Zweigkanal - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Kampf der Verwahrlosung (2) - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Bebauungspläne XVI-12a, XVI-12b, XVI-12c ("Entlastungsstraße Grünau") hier: Einstellung der Planaufstellungsverfahren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Benennung der Straße D 18 (Köpenick) - mit Änderungen in der BVV beschlossen
+- TOP 12.9: Benennung der Straßen 234 bis 241 - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Wasserwanderrastplätze im Bezirk Treptow-Köpenick - überwiesen
+- TOP 14.2: Kiezzentrum Oberschöneweide - überwiesen
+- TOP 14.3: Querungshilfe Schönefelder Chaussee - überwiesen
+- TOP 14.4: Sichere Überquerung der Bahnhofstraße in Höhe Parrisiusstraße in Köpenick - überwiesen
+- TOP 14.5: Benennung der Straße 299 in "Azaleenstraße" - überwiesen
+- TOP 14.6: Rathaus Friedrichshagen - überwiesen
+- TOP 14.7: Merkblatt für Pflegeeltern - überwiesen
+- TOP 14.8: Erinnerung an Maueropfer Lutz Schmidt - überwiesen
+- TOP 14.9: Anwohner- und gewerbefreundliche Verkehrsführung in der Köpenicker Altstadt - in der BVV abgelehnt
+- TOP 14.10: Waldbeerenweg - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Kennzeichnung von Spuren der Berliner Mauer - überwiesen
+- TOP 14.12: Kleingartenbeirat - überwiesen
+- TOP 14.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14: Instandsetzung Grünanlage am S-Bahnhof Schöneweide - überwiesen
+- TOP 14.15: Baumaßnahmen S-Bhf. Adlershof beschleunigen - überwiesen
+- TOP 14.16: Bürgertreffpunkt Spindlersfeld / Köllnische Vorstadt - überwiesen
+- TOP 14.17: Radwegebau - überwiesen
+- TOP 14.18: Zugang zum Müggelsee für Vereinssport - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Flughafen Schönefeld - vertagt
+- TOP 15.2: Sportanlage "Mittelpunkt der Erde" - vertagt
