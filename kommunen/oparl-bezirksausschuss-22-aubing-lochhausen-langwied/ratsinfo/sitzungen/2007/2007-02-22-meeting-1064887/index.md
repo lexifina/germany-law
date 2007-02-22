@@ -1,0 +1,108 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2007-02-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1064887
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1064887
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Dauerhafte Einsetzung eines Angestellten auf dem Friedhof Neuaubing
+- TOP 2.2.: Haltverbot Kunreuthstraße/ Ecke Riesenfeldstraße, Endstation der Buslinie 143
+- TOP 2.3.: Planungen Freiham Nord, öffentliche Grünflächen (vertagt aus 01/07)
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Aufstellung von 2-Stunden-Parkschildern rund um die S-Bahnstation Westkreuz (Mercedes Obermair)
+- TOP 4.2.: Errichtung eines Pkw-Parkplatzes an der Bezirkssportanlage Kastelburgstraße (Sebastian Kriesel)
+- TOP 4.3.: Unterführung zum Pasinger Gleisdreieck - Metro (Sebastian Kriesel)
+- TOP 4.4.: Neugestaltung des Gößweinsteinplatzes in Neuaubing (Sebastian Kriesel)
+- TOP 4.5.: Prüfung der aktuellen Leerstandssituation der Werkswohnungen der Stadtwerke München am Aubinger Wasserturm (Jürgen Schrader)
+- TOP 4.6.: Farhbahnmarkierung für Fußgänger an der Kreuzkapellen Straße ab der Haltestelle "Badebus" (Jürgen Schrader)
+- TOP 4.7.: Bücherbushaltestelle an der Schussenrieder Straße (Jürgen Umseher)
+- TOP 4.8.: Gehweg am Schubinweg (Jürgen Umseher)
+- TOP 4.9.: Prüfung der Verkehrssituation ab der Kreuzung Bodenseestraße bis Hans-Steinkohl-Straße und Entschärfung des Gefahrenpunktes (Marianne Langer)
+- TOP 4.10.: Absolutes Haltverbot an der Ecke Riesenburg- / Kunreuthstraße (Marianne Langer)
+- TOP 4.11.: Wiederherstelllung des Treppengeländers (Christa Schlierenkämper)
+- TOP 4.12.: Herstellung der Fußgänger- und Radl-Verbindung zwischen Überlinger Weg und der Thuisbrunner Straße (Siegfried Liedl)
+- TOP 4.13.: Bürgerversammlung zum Thema "Ausbau der Bodenseestraße-Unterführung auf 4,8 m unter der S 5 und S 6 im Zusammenhang mit dem Metro-Markt-Verlegung ins Gleisdreieck" (Siegfried Liedl)
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: GS Wiesentfelser Straße 53
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: Informationen über Eingriffe in den Gehölzbestand
+- TOP 6.3.: Konzept der regionalen Sozialberichte
+- TOP 6.4.: Erstellung von Richtlinien für Veranstaltungen in Grünanlagen
+- TOP 6.5.: Veranstaltung in städtischen Grünanlagen, hier: Spielaktionen mit dem Winterspielbus 2007 im Januar/Februar
+- TOP 6.6.: Mustervorlagen für Plakate und Formblätter
+- TOP 6.7.: Bebauungsplan mit Grünordnung Nr. 1955 Colmdorfstraße (östlich), Bahnlinie München - Buchlohe (südlich), Pretzfelder Straße (nördlich)
+- TOP 6.8.: Bebauungsplan Nr. 96, Hans-Carossa-Straße, Gemeinde Karlsfeld
+- TOP 6.9.: Studie zu Wohnungsflüchtern
+- TOP 6.10.: Verkehrsrechtliche Anordnung, Buslinie 143; Haltestelle S-Bahn Langwied
+- TOP 6.11.: Vollz. des Bay. Naturschutzgesetzes; Novellierung der Naturdenkmalverordnung der LH München
+- TOP 6.12.: Errichtung der Radwege-Verbindungen zur Langwieder Seenplatte, BA-Antrag Nr. 1730 vom 20.12.06
+- TOP 6.13.: Plangenehmigung nach § 18, 18 b AEG i.V.m. § 74 Abs. 6 VwVfG für den Neubau einer Eisenbahnunterführung im Bereich des Gleisdreiecks München-Pasing, in der Nähe der Bodenseestraße, Gemarkung Pasing
+- TOP 6.14.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/21 und Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1907 Bodenseestr. (südlich), Bahnlinie München - Herrsching (südlich), Bahnlinie München - Mittenwald (westlich), Paosostr. (nördlich) - Gleisdreieck Pasing -
+- TOP 6.15.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Maibaumaufstellen in Aubing (Alto-/ Bergsonstraße) am 01.05.07
+- TOP 6.16.: Plangenehmigung nach § 18, 18b AEG i.v.m. § 76 Abs. 3 VwVfG; ESTW München Südwest, ESTW München Pasing; Errichtung von drei Modulgebäuden; Modulstandort Varnhagenstraße
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Finanzplan 2006-2010, Broschüre Stadtkämmerei
+- TOP 7.2.: Unveränderte Fortführung Schank- und Speisewirtschaft "Burger King", Bodenseestr. 319, Schr. KVR vom 16.01.07
+- TOP 7.3.: Baumaßnahmen der Stadtwerke, Stichtag: 15.01.07, 22.01.07, 29.01.07, 05.02.07, 13.02.07, 19.02.07
+- TOP 7.4.: Stadtweites Rauchverbot auf und an Spielplätzen, Schr. BA 8 vom 22.01.07
+- TOP 7.5.: Planung der Einsätze der Münchner SommerSpielAktion 2007, Schr. Spielen in der Stadt e.V. vom 22.01.07
+- TOP 7.6.: Baufälle im 22. Stadtbezirk (v. 15.-21.01.07, v. 22.-28.01.07, v. 29.01.-04.02.07, v. 05.-11.02.07, v. 12.-18.02.07), Schr. Planungsreferat vom 22.01.07, 29.01.07, 05.02.07, 12.02.07, 19.02.07
+- TOP 7.7.: Verkehrsentwicklungsplan der LH München, Schr. Planungsreferat vom 29.01.07
+- TOP 7.8.: Verkehrsrechtliche Anordnung, Buslinie 143 Zeichen 283 und 286 StVO und Anordnung Haltestellen, Schr. KVR vom 15.12.06
+- TOP 7.9.: Planfeststellung nach § 18 Abs. 1 AEG, Bahnübergang 11,3 Aubing Neubau einer Lichtzeichenanlage mit Halbschranken und Gehwegschranken, Erneuerung BÜSA in der LH München, Bahnstrecke München - Buchlohe, Schr. Planungsreferat vom 25.01.07
+- TOP 7.10.: Wirtschafts-Info 01/07, Schr. Ref. f. Arbeit u. Wirtschaft vom 31.01.07
+- TOP 7.11.: Unveränderte Fortführung Schank- und Speisewirtschaft "A Moda Mia", Limesstr. 105, Schr. KVR vom 01.02.07
+- TOP 7.12.: Öffentlicher Personennahverkehr in München, Schr. Planungsreferat vom 31.01.07
+- TOP 7.13.: Öffentlichkeitsbeteiligung, Planungsgebiet: Bebauungsplan mit Grünordnung Nr. 1955 Colmdorfstr. (östlich), Bahnlinie München - Buchlohe (südlich), Pretzfelder Str. (nördlich), Schr. Planungsreferat vom 01.02.07
+- TOP 7.14.: Budget der Bezirksausschüsse, Erfahrungsbericht 2006, Schr. Direktorium vom 26.01.07
+- TOP 7.15.: Umstellung bei der Beteiligung der BA´s bei Baumfällungen, Schr. Direktorium vom 08.02.07
+- TOP 7.16.: Aktuelle Daten zu Kinderkrippenplätzen in der LH München, Schr. Sozialreferat vom 12.02.07
+- TOP 7.17.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Zur Aubinger Einkehr", Gößweinsteinplatz 7, Schr. KVR vom 08.02.07
+- TOP 7.18.: Antrag auf Gewährung eines Zuschusses der cba für die Erhaltung von 108 Arbeitsplätzen für behinderte Menschen, Schr. BA 9 vom 13.02.07
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Erstmaliger Ausbau der Industriestraße zwischen Kastelburg- und Bergsonstraße, Schr. Baureferat vom 11.01.07 zum BA-Antrag Nr. 1635 vom 22.11.06
+- TOP 8.2.: Überprüfung der Ampelschaltphasen sowie die Betriebszeiten der Ampeln auf der Bodenseestraße , Schr. KVR vom 18.01.07
+- TOP 8.3.: Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage mit Erdenbörse und Erdenwerk durch das Konsortium Bilfinger/Berger-Schernthaner GmbH am Standort Goteboldstr. 100, Schr. Ref. f. Gesundheit und Umwelt am 17.01.07
+- TOP 8.4.: Freigabe des Fußweges auf der Altostraße, östliche Seite, zwischen Grabenfleckstraße und der Kreuzung der A 99 für Radfahrer in beiden Richtungen, Schr. KVR vom 08.12.06 zum BA-Antrag Nr. 1529 vom 18.10.06 (vertagt aus 01/07)
+- TOP 8.5.: Linienführung Buslinie 161, Schr. MVG vom 23.01.07
+- TOP 8.6.: Straßenbeleuchtung Industriestraße, Höhe Ostermoosstraße und Flunkgasse, Schr. Baureferat vom 23.01.07 zum BA-Antrag Nr. 1639 vom 22.11.06
+- TOP 8.7.: Straßenbeleuchtung Osterangerstraße, nördlich ab Langwieder Hauptstraße, Schr. Baureferat vom 23.01.07 zum BA-Antrag Nr. 1645 vom 22.11.06
+- TOP 8.8.: Haltverbot vor dem Seniorenheim Aubinger Str. 51, Schr. KVR vom 25.01.07
+- TOP 8.9.: Satzung des Bebauungsplanes Nr. 1974 Scharinenbach-/ Wichnantstr., Schr. Planungsreferat vom 29.01.07 zum BA-Antrag Nr. 1637 vom 22.11.06
+- TOP 8.10.: Gestaltung der Schwimmbadeintrittspreise für Kinder, Jugendliche und Erwachsene, Schr. Ref. f. Arbeit und Wirtschaft vom 29.01.07
+- TOP 8.11.: Einrichtung einer weiteren Zufahrt für das Feuerwehrgerätehaus an der Ubostraße für die Freiwillige Feuerwehr, Abt. Aubing, Schr. KVR vom 02.02.07 zum BA-Antrag Nr. 1729 vom 20.12.07
+- TOP 8.12.: Geschwindigkeitsbeschränkung in der Aubing-Ost-Straße, Schr. KVR vom 06.02.07 zum BA-Antrag Nr. 1643 vom 22.11.06
+- TOP 8.13.: Erstmaliger Ausbau der Kastelburgstraße zwischen Kronwinkler- und Mariabrunnerstr., Schr. Baureferat vom 08.02.07 zum BA-Antrag Nr. 1634 vom 22.11.06
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Vollversammlung vom 24.01.07 - Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 9.2.: Ausschuss für Stadtplanung und Bauordnung vom 10.01.07 - Schutz der Münchner Vorgärten - Satzungen über die Genehmigungspflicht von Grundstücksteilungen (Teilungssatzungen) - Ökologische Hochhäuser - Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 9.3.: Ausschuss für Stadtplanung und Bauordnung vom 31.01.07 - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 1998 Bahnlinie München-Herrsching (südlich), Kravogelstr. (westlich), Stadtgrenze (nördlich), ehemaliges Gleislager (östlich) - Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 9.4.: Gemeinsame Sitzung Ausschuss für Stadtplanung und Bauordnung und Kreisverwaltungsausschuss vom 31.01.07 - Projektfortschrittsbericht 2006 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung"
+- TOP 9.5.: Kreisverwaltungsausschuss vom 13.02.07 - Entgeltabrechnung an P+R-Anlagen im Stadtgebiet, hier: Anpassung der P+R Parkpreise
+- TOP 9.6.: Vollversammlung vom 15.02.07 - Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 9.7.: Sportausschuss vom 13.02.07 - Bezirkssportanlage an der Kronwinklerstr. 25, Empfehlungen Nr. 439, 441, 442 der Bürgerversammlung vom 27.06.06
+- TOP 9.8.: S-Bahnhof Westkreuz; Errichtung eines barrierefreier Zugang sowie Sanierung
+- TOP 9.9.: Ausschuss für Stadtplanung und Bauordnung - 4. Bericht über die der Beschlussvollzugskontrolle unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.06-31.12.06
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 21.03.07, Gaststätte "Wienerwald", Limesstr. 63
