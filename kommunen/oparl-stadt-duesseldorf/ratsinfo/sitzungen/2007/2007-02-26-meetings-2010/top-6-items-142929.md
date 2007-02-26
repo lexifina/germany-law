@@ -1,0 +1,8 @@
+# TOP 6: Antrag der Fraktionen von CDU und FDP zu Grünschni
+
+- Sitzung: Ausschuss für öffentliche Einrichtungen (2007-02-26)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/142929
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/37627
