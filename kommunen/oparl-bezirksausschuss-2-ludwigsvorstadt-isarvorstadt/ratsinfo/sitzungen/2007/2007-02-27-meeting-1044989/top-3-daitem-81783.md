@@ -1,0 +1,7 @@
+# TOP .3.: Pink Christmas auf dem Stephansplatz vom 07.12. ? 16.12.2007
+
+- Sitzung: BA 02 - Vollgremium (2007-02-27)
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/81783
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/81783
