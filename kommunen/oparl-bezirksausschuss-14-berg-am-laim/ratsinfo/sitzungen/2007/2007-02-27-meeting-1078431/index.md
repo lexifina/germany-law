@@ -1,0 +1,111 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2007-02-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1078431
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1078431
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 - Berg am Laim; Widmung der Gesamtstrecke der Vinzenz-von-Paul-Straße; Sitzungsvorlage Nr. 02-08 / V 09407; Beschluss des Bezirksausschusses des Stadtbezirkes 14 - Berg am Laim vom 27.02.2007
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Berg-am-Laim-Straße, Fl.Nr. 166/28, Gemarkung Berg am Laim; Erhalt des Gebäudes der ehemaligen Landwirtschaftsschule; AZ: 5.1-2007-3257-32
+- TOP 3.1.1.2.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Gräfinger Straße; Änderung der Notausgangssituation
+- TOP 3.1.1.3.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Gräfinger Straße - Nutzungsänderung, befristet bis 31.12.2010 für Werk 1 (H43), Kultfabrik München / "Club Kalinka" TEKTUR
+- TOP 3.1.1.4.: Bürgerschreiben zur Gestaltung des Michaeliangers
+- TOP 3.1.2.1.: Litfass-Säule an der Einmündung Josephsburgerstraße / Echardingerstraße (unmittelbar gegenüber der Marie-Ward-Schule; Bürgeranliegen vom 07.02.2007
+- TOP 3.1.2.2.: Lkw-Durchfahrtsverbot für die Straßenabschnitte: - Baumkirchner Straße (zw. Kreillerstraße und Josephsburgstraße), - Josephsburgstraße (zw. Baumkirchner Straße und Echardinger Straße), - Echardinger Straße (zw. Josephsburgstraße und Bad-Schachner-Straße); Bürgeranliegen vom 13.02.2007
+- TOP 3.1.2.3.: Zeitlich begrenztes Parken auf dem Taxistandplatz an der Kreillerstraße; TOP 3.1.2.2. / 12/06
+- TOP 3.1.2.4.: Simbacher Straße; Legalisierung des halbseitigen Gehsteigsparkens; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 3.1.2.5.: Verkehrsregelung Schlüsselbergstraße / Innsbrucker RIng; TOP 3.1.2.3. /06/06; Schreiben des Kreisverwaltungsreferates vom 01.02.2007
+- TOP 3.1.2.6.: Eingeschränktes Halteverbot mit Parkscheibe (1 Std.) an der Bad-Schachner-Straße (Nordseite) vor der Kreuzung Aschheimer Str.
+- TOP 3.1.2.7.: Verlegung des Taxistandplatzes in der Friedenstraße; Anhörung gemäß § 3 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 3.2.1.: Tag des offenen Denkmals am 09.09.2007; Schwerpunktthema 2007: "Orte der Einkehr und des Gebets - Historische Sakralbauten"
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Errichtung einer Kindertagesstätte mit 4 Kindergartengruppen an der Grafinger Straße im 14. Stadtbezurk Berg am Laim; Baukosten
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Einführung eines Sozialtickets für bedürftige Münchner Bürgerinnen und Bürger
+- TOP 3.5.1.: MAG's More e.V. - Antrag auf Zuschussgewährung aus dem BA-Budget
+- TOP 3.5.2.: cba - Cooperative Beschützende Arbeitsstätten e.V. - Antrag auf Zuschussgewährung aus dem BA-Budget
+- TOP 3.6: Sonstiges
+- TOP 3.6.1.: Anhörung zum Sponsoring bei der Landeshauptstadt München
+- TOP 3.6.2.: Anhörung zur einheitlichen Gestaltung der Mustervorlagen für Plakate und Faltblätter
+- TOP 3.6.3.: Anhörungsverfahren des Maibaumvereins Berg am Laim in der Baumkirchner Straße am 01.05.2007 - Termin 28.03.2007
+- TOP 3.6.4.: Absage des für den 12.10.2006 einberufenen "Runden Tischs"
+- TOP 3.6.5.: Anhörung zum Sperrzeitverkürzungsantrag des Imbissbetriebes "Happy Falafel", Friedenstraße (Optimolgelände)
+- TOP 3.6.6.: Rauchverbot an und auf Spielplätzen
+- TOP 3.7.1.: Hohenbrunner Straße - Antrag auf Baumfällung
+- TOP 3.7.2.: Plusstraße - Antrag auf Baumfällung
+- TOP 3.7.3.: Baumkirchner Straße - Antrag auf Baumfällung
+- TOP 3.7.4.: Josef-Ritz-Weg - Antrag auf Baumfällung
+- TOP 3.7.5.: Josephsburgerstraße - Antrag auf Baumfällung
+- TOP 3.7.6.: Kreillerstraße - Antrag auf Baumfällung
+- TOP 3.7.7.: Ringbergstraße - Antrag auf Baumfällung
+- TOP 3.7.8.: Pachemstraße 3 - Antrag auf Baumfällung
+- TOP 3.7.9.: Pachemstraße 8 - Antrag auf Baumfällung
+- TOP 3.7.10.: Schüleinplatz - Antrag auf Baumfällung
+- TOP 3.7.11.: Vollzug von § 13 der BA-Satzung; Katalog-Angelegenheit Nr. 9.1; Vollzug der Baumschutzverordnung; Neubau eines Mehrfamilien- und eines Doppelhauses mit Garagen in der St.-Veit-Straße
+- TOP 3.7.12.: Waldstraße - Antrag auf Baumfällung
+- TOP 3.7.13.: Freilassinger Straße - Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Baufälle im 14. Stadtbezirk
+- TOP 4.1.1.2.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz; Antrag Nr. 02-08 / A 02994 der Stadtratsfraktion von Bündnis 90 / Die Grünen / Rosa Liste vom 03.04.2006; Sitzungsvorlagen- Nr. 02-08 / V 09148; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 31.01.2007
+- TOP 4.1.2.1.: Öffentlicher Personennahverkehr in München; Schreiben des Referates für Stadtplanung und Bauordnung vom 31.01.2007
+- TOP 4.1.2.2.: Entgelterhebung an P+R Anlagen im Stadtgebiet, hier: Anpassung der P+R Parkpreise; Sitzungsvorlage Nr. 02-08 / V 09475; Beschluss des Kreisverwaltungsausschusses vom 13.02.2007
+- TOP 4.1.2.3.: Projektfortschrittsbericht 2006 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung; Sitzungsvorlagen Nr. 02-08 / V 09390; Bekanntgabe in der Sitzung des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsausschusses vom 31.01.2007
+- TOP 4.2.1.: Kultur im Stadtquartier; Zwischenbericht
+- TOP 4.2.2.: Kultur im Stadtquartier; Teilprojekt 2: Vernetzung, Arbeitsteilung, Kooperation, Information; Informationstreffen zur Stadtteilkultur für die Akteure in den Stadtbezirken
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Containeraufstellung Hauptschule Echardinger Grünstreifen
+- TOP 4.3.2.: Datenblätter Kinderkrippen im Zuständigkeitsbereich des Sozialreferates
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: "Wohnnugsflüchter" in der Landeshauptstadt München
+- TOP 4.5.1.: Maibaumverein Berg am Laim e.V.; Ablehnung des Zuwendungsantrages 2006
+- TOP 4.5.2.: Dank der Fußballjugend des ESV München Ost
+- TOP 4.5.3.: Verwendungsnachweis "Volk Verlag"
+- TOP 4.6: Sonstige
+- TOP 4.6.1.: Bürgerversammlung des 14. Stadtbezirkes - Berg am Laim am 22.03.2007, Multimedia Präsentation
+- TOP 4.6.2.: Informationen über derzeit anstehende und laufende Bauvorhaben der Stadtwerke München
+- TOP 4.6.3.: Kreillerstraße, Fl.Nr. 27/4, Gemarkung Berg am Laim; Werbeanlage an der Berg-Apotheke; Aktenzeichen: 5.1-2006-17862-6W
+- TOP 4.7.1.: Oedkarspitzstraße; Fällungsantrag vom 23.11.2006 auf dem Grunstück
+- TOP 4.7.2.: Vollzug des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 4.7.3.: Antrag auf Fällung vom 05.01.2007 auf dem Grundstück Neumarkter Straße
+- TOP 4.7.4.: Antrag auf Gefahren-Baumfällung vom 05.02.2007 auf dem Grundstück Josephburgstraße
+- TOP 4.7.5.: Fällungsantrag vom 05.02.2007 auf dem Grundstück Bad-Kissingen-Straße
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 2.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung der Gesamtstrecke der Vinzenz-von-Paul-Straße - <div></div>
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
