@@ -1,0 +1,104 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2007-02-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1019739
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1019739
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Beschlussfassung über die Protokolle der Sitzung vom 19.12.2006 und 16.01.2007
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.3.: Isarhöhenweg; Ausholzung zur Verbesserung der Sicht auf die Isarauen; Bürgerschreiben vom 10.02.2007 - <div>siehe Protokollnotiz</div>
+- TOP 2.4.: Antrag für die Erhaltung von 108 Arbeitsplätzen für behinderte Menschen; Schreiben des Cooperative Beschützende Arbeitsstätten e. V. (CBA e.V.) vom 17.01.2007
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.1.: 4F-circle-Bewegungsinseln; Vorstellung der Geräte; Vertreter des Schulreferats / Sportamts und des Baureferats
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Ökumenische Sozialstation Giesing-Harlaching gGmbH, für die Maßnahme: 30-Jahr-Feier am 23.11.2006, Antragssumme 477,91 ?; Beschlussvorlage des Direktoriums vom 29.12.2006
+- TOP 3.1.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse 3.1.3.1.1 AntragstellerIn: Raabennest Kindergarten e.V., für die Maßnahme: Spielgeräte für den Kindergarten, Antragsumme: 6.928,30 ?, Antrag vom 15.01.2007
+- TOP 3.1.: Finanzplan 2006-2010; Zuleitung der Stadtkämmerei vom 12.01.2007
+- TOP 3.2.: Kurzbericht des Kindergartens Menterschwaige e.V. bezüglich des gewährten Zuschusses in Höhe von 1117,73 ? für die Maßnahme: Renovierung der Toilettenanlage
+- TOP 3.3.2: UA Verkehr
+- TOP 1: Keine Vernachlässigung der Streupflicht (insbesondere in der Säbener Straße); Empfehlung Nr. 02-08 / E 00596 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 05.10.2006; Sitzungsvorlage Nr. 02-08 / V 09450; Beschluss des Bezirksausschusses 18 am 27.02.2007; Beschlussvorlage des Baureferats
+- TOP 1.1.: Anhörung des Kreisverwaltungsreferats gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO 3.2.4.1.1 Oberbiberger Str.; Kurzparkzone; Zuleitung vom 04.01.2007 3.2.4.1.2 Isenschmidstraße (Ärztehaus); Einrichtung / Änderung der 2-Stunden-Parkscheibenzone, Verbesserung der Taxianfahrt; Zuleitung vom 31.01.2007
+- TOP 1.2.: Neubau einer LZA an der Ludmilla-/ Schönstraße; Querungshilfe Hans-Mielich-Straße; Schreiben des Kreisverwaltungsreferates vom 24.01.2007 mit der Bitte um Stellungnahme
+- TOP 1.1.: Verkehrszählung in der Lautererstraße, Antwortschreiben des Kreisverwaltungsreferates vom 19.01.2007 (neutrale Erledigung)
+- TOP 1.2.: Soyerhofstraße; eingeschränktes Haltverbot; Antrag Nr. 02-08 / B 01510 des BA 18 vom 19.09.2006; Antwortschreiben des Kreisverwaltungsreferates vom 20.12.2006 (positive Erledigung)
+- TOP 1.3.: Neue Ampelanlage an der Bus-Haltestelle Lebscheestraße; Antrag auf Verlängerung der Grünphase; Bürgeranliegen aus der Sitzung vom 16.01.2007; Antwortschreiben des Kreisverwaltungsreferates vom 31.01.2007 (positive Erledigung)
+- TOP 1.1.: Verkehrsentwicklungsplan der Landeshauptstadt München; Infobroschüre; Zuleitung des Planungsreferates vom 29.01.2007
+- TOP 1.2.: Entgelterhebung an P+R Anlagen im Stadtgebiet, hier: Anpassung der P+R Parkpreise; Sitzungsvorlage Nr. 02-08 / V 09475; Beschluss des Kreisverwaltungsausschuses vom 13.02.3007
+- TOP 1.3.: Öffentlicher Personennahverkehr in München; Informationsmaterial, Schreiben des Referats für Stadtplanung und Bauordnung vom 31.01.2007
+- TOP 1.3.3: UA Umwelt
+- TOP 1: (E) Lautstärkenreduzierung der Lautsprecher im Hallenbad Giesing-Harlaching; Empfehlung Nr. 620 der Bürgerversammlung des 18. Stadtbezirks Untergiesing-Harlaching am 05.10.2006; Sitzungsvorlage Nr. 02-08 / V 09410; Beschluss des Bezirksausschuss 18 am 27.02.2007; Beschlussvorlage des Referats für Arbeit und Wirtschaft - <div>nach Antrag</div>
+- TOP 1.1.: Vollzug des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung der Landeshauptstadt München; Zuleitung des Referates für Stadtplanung und Bauordnung vom 31.01.2007 mit der Bitte um Rückäußerung
+- TOP 1.1.: Lärmschutzmaßnahmen entlang der Bahntrasse in Untergiesing; Empfehlung Nr. 02-08 / E 00622 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 05.10.2006; Sitzungsvorlage Nr. 02-08 / V 09366; Beschluss des Umweltausschusses vom 30.01.2007 (positive Erledigung)
+- TOP 1.1.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen in der Rabenkopfstraße, Genehmigungsbescheid vom 24.01.2007 3.3.6.1.2 Anwesen in der Gabriel-Max-Str. / Geiselgasteigerstr., Genehmigungsbescheid vom 24.01.2007
+- TOP 1.2.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz; Antrag Nr. 02-08 / A 02994 der Stadtratsfraktion von Bündnis 90 / Die Grünen / Rosa Liste vom 03.04.2006; Sitzungsvorlagen- Nr. 02-08 / V 09148; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 31.01.2007 und der Vollversammlung des Stadtrates vom 15.02.2007
+- TOP 1.3.: Vollzug der Wassergesetze, Isar-Plan, Verbesserung des Hochwasserschutzes und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung zwischen dem Großhesseloher Wehr und der Corneliusbrücke in München, Planungsabschnitt III, Teilabschnitt 1 (Bauabschnitt 5), zwischen südlich der Braunauer Eisenbahnbrücke und südlich der Wittelsbacher Brücke (Fkm 150,2 bis 149,5 Fkm); Bescheid vom 21.12.2006
+- TOP 1.4.: Unterrichtungen durch das Baureferat im Vollzug der Landschaftsschutzverordnung; Fällung von Gefahrenbäumen 3.3.6.4.1 Anwesen in der Lohstraße; Zuleitung vom 31.01.2007 3.3.6.4.2 Anwesen in der Harlachingerstraße / Karolinger Allee; Zuleitung vom30.01.2007
+- TOP 1.3.4: UA Soziales
+- TOP 1.1.: Errichtung von Ganztagsschulen (in Untergiesing-Harlaching); Empfehlung Nr. 02-08 / E 00618 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching vom 05.10.2006; Beschluss des Schulausschusses des Stadtrates vom 21.03.2007; Zuleitungen des Schul- und Kultusreferates vom 09.01.2007 und vom 12.01.2007 mit der Bitte um Stellungnahme
+- TOP 1.2.: Konzeption der regionalen Sozialberichte; Nutzung und Inhalt der Berichte; Zuleitung des Sozialreferates vom 09.01.2007 mit der Bitte um Rückäußerung
+- TOP 1.3.: Planung der Einsätze der Münchner Sommer Spiel Aktion 2007; Schreiben der Pädagogischen Aktion / Spielen in der Stadt e.V. vom 22.01.2007 mit der Bitte um Rückmeldung bis zum 10.02.2007
+- TOP 1.1.: Gestaltung der Schwimmbadeintrittspreise für Kinder, Jugendliche und Familien; Antag Nr. 1499 des Bezirksausschusses 7, Sendling - Westpark vom 10.10.2006; Antwortschreiben an den BA 7; Zuleitung des Referats für Arbeit und Wirtschaft vom 29.01.2007(neutrale Erledigung)
+- TOP 1.1.: Kindertagesstätten freigemeinnütziger Träger; Waldorfkindergarten Harlaching an der Grünwalder Straße, 18. Stadtbezirk Untergiesing-Harlaching; Leistung eines Baukostenzuschusses für Umbauarbeiten zur Schaffung eines Kindergartens; Sitzungsvorlage Nr. 02-08 / V 09247; Beschluss des Schulausschusses des Stadtrates vom 10.01.2007
+- TOP 1.2.: Untersuchung "Wohnungsflüchter"; Projekt des Süddeutschen Institutes für empirische Sozialforschung e.V., Kurzbeschreibung; Zuleitung vom 30.01.2007
+- TOP 1.3.5: UA Bau und Planung
+- TOP 1.1.: Erstellung von Richtlinien für Veranstaltungen in Grünanlagen; Schreiben des Kreisverwaltungsreferates vom 17.01.2007 mit der Bitte um Stellungnahme
+- TOP 1.2.: Sanierungsgebiet "Tegernseer Landstraße / Chiemgaustraße" , Wegenetz im Sanierungsgebiet; "Soziale Stadt, Pilotprojekt zur kinder- und jugendfreundlichen Stadt: Schaffung eines engen Netzes kurzer, sicherer und für alle Verkehrsteilnehmer klar erkennbarer Wege zu und zwischen Einrichtungen für Familien, KInder und ältere Menschen"; Empfehlung Nr. 02-08 / E 00520 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 19.07.2006; Zuleitung des Referates für Stadtplanung und Bauordnung vom 09.01.2007 mit der Bitte um Stellungnahme
+- TOP 1.3.: Anhörungen zu Bauvorhaben 3.5.4.3.1 Anwesen in der Lohstraße; Anhörung vom 26.01.2007 3.5.4.3.2 Anwesen in der Humboldtstraße; Anhörung vom 30.01.2007
+- TOP 1.4.: Baumbestandspläne 3.5.4.4.1 Anwesen in der Herzog-Garibald-Straße; Anhörung vom 29.01.2007 3.5.4.4.2 Anwesen in der Säbener Straße; Anhörung vom 05.02.2007
+- TOP 1.5.: Instandsetzung der Stützmauer / Hangabsicherung am Harlachinger Berg ( Tierpark Hellabrunn); Anhörung gemäß § 13 der Satzung für Bezirksausschüsse; Zuleitung des Baureferates vom 30.01.2007 mit der Bitte um Stellungnahme - <div>vertagt</div>
+- TOP 1.1.: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München a) Fortschreibung des Stadtratsbeschlusses vom 24.10.2001 b) Behandlung der Stellungnahmen der Bezirksausschüsse zum Beschlussentwurf c) Stadtratsantrag 02-08 / A 00749 der Stadträte Dr. Baretti und Podiuk vom 21.03.2003; Sitzungsvorlagen Nr. 02-08 / V 09121; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.01.2007, Beschluss des Stadtrates vom 24.01.2007
+- TOP 1.2.: Projektfortschrittsbericht 2006 zum Projekt "Parkraummanagement" in München - Beschleunigung der Umsetzung"; Sitzungsvorlagen Nr. 02-08 / V 09390, Bekanntgabe in der Sitzung des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsausschusses vom 31.01.2007
+- TOP 1.3.: Baufälle im 18. Stadtbezirk
+- TOP 1.4.: Mitteilung über ein Grundstücksgeschäft im 18. Stadtbezirk 3.5.6.4.1 Anwesen in der Lohstraße 3.5.6.4.2 Anwesen am Sanatoriumsplatz
+- TOP 1.5.: Instandsetzung der Straßenbrücke Chiemgaustraße im Zuge der Tegernseer Landstraße ( McGraw Graben); im 17. Stadtbezirk Obergiesing und im 18.Stadtbezirk Untergiesing-Harlaching; Verwaltungsinterne Projektgenehmigung
+- TOP 1.6.: Prüfung einer Nachverdichtung im öffentlich geförderten Wohnungsbau zur Verbesserung der Wohnsituation für Haushalte mit KIndern in Obergiesing - Ziffer 2 des Antrags; Empfehlung Nr. 02-08 / E 00518 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing - am 19.07.2006; Sitzungsvorlage Nr. 02-08 / V 09406; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 31.01.2007
+- TOP 1.7.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; 3.5.6.7.1 Anwesen in der Gabriel-Max-Straße
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Tag des offenen Denkmals am 09.09.2007, Schwerpunktthema 2007: "Orte der Einkehr und des Gebets - Historische Sakralbauten"; Schreiben der Deutschen Stiftung Denkmalschutz von Januar 2007
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Rauchverbot an und auf Spielplätzen; Antrag Nr. 02-08 / B 01764 des BA 8 Schwanthalerhöhe vom 09.01.2007 mit der Bitte um Unterstützung
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Mustervorlagen für Plakate und Faltblätter der Bezirksausschüsse; Schreiben des Direktoriums/Presseamt vom 19.01.2007 mit der Bitte um Rückäußerung
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
