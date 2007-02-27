@@ -1,0 +1,66 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2007-02-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1044989
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1044989
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Gleisbauarbeiten im Bereich Müllerstraße, Rumfordstraße im Mai, Juni, Juli 2007; Information der SWM
+- TOP .1.: Auswirkungen des geplanten Konzertsaales am Marstall auf den Betrieb des Staats-theaters am Gärtnerplatz
+- TOP .2.1.: BA-Budget
+- TOP .1.: Zuschuss aus dem BA-Budget für das Konzert des ICI munich e.V. in der Galerie Wittenbrink am 28.02.2007
+- TOP .2.: Zuschuss aus dem BA-Budget für die Veranstaltung Orgel, Gesang, Tanz am 09.03.2007 des ensemble sakraler tanz
+- TOP .2.2.: Kultur
+- TOP .1.: Lessingstr. 9, Zweckentfremdung (Erteilung eines Negativattestes)
+- TOP .2.: Hermann-Lingg-Str. 5, Zweckentfremdung (Erteilung eines Negativattestes)
+- TOP .3.: Fortschreibung der Erhaltungssatzung ?Ludwigsvorstadt-Schwanthalerhöhe?
+- TOP .1.: Tag des offenen Denkmals
+- TOP .2.: Berichte der Beautragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/ Gleichgeschlechtliche Lebensformen/Kultur)
+- TOP .1.: Parkraummanagement: Vorschläge zur Benennung des Lizenzgebiets ?Altstadtklinikum?
+- TOP .3.1.: Bauvorhaben
+- TOP .1.: Arnulfstr. 16, Neubau eines zentralen Busbahnhofs
+- TOP .2.: Zenettistr. 37, Nutzungsänderung: Einbau von Wohnungen im Gaststätten- und Werkstättenbereich sowie bauliche Änderungen (Vertagung vom 30.01.2007)
+- TOP .3.: Lessingstr. 9, Nutzungsänderung und Errichtung von Spielplätzen
+- TOP .4.: Tumblingerstr. 34, Nutzungsänderung einer Wohnung in ein Anwaltsbüro
+- TOP .5.: Tumblingerstr. 34, Abbruch und Neubau RG Süd 34, Änderung KG 34, Zwischenbau 34-36 -
+- TOP .6.: Sonnenstr. 26, Umbau eines Geschäftshauses mit Nutzungsänderung in eine Privat-klinik - Plenumsbeschluss
+- TOP .1.: Bericht des Beauftragten (AK Attraktive Innenstadt)
+- TOP .1.: Öffnung von Einbahnstraßen für Radfahrer im 2. Stadtbezirk; Beschlussvorlage zur Behandlung mehrerer Bürgerversammlungsempfehlungen
+- TOP .1.: Straßenfest Pestalozzistraße am 01.09.2007
+- TOP .2.: Glockenbach Sommermarkt am 14.07.2007
+- TOP .3.: Pink Christmas auf dem Stephansplatz vom 07.12. ? 16.12.2007
+- TOP .3.2.: Freischankflächen
+- TOP .1.: Melchers GmbH, Buttermelcherstr. 21 (Ausdehnungsantrag)
+- TOP .3.3.: Warenstellagen
+- TOP .3.4.: Verkehr
+- TOP .1.: Dialog-Display-Verkehrsschild auf dem Roecklplatz (Vertagung v. 30.01.2007)
+- TOP .3.5: Bäume - Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Novellierung der Naturdenkmalverordnung, Vorschläge zur Neuaufnahme in die Naturdenkmalliste
+- TOP .2.: Isartalstr. 6, Fällung einer Rotfichte (mangelnde Standsicherheit)
+- TOP .3.: Arnulfstr. 17, Fällung mehrerer Bäume wegen Neubau eines zentralen Busbahnhofs
+- TOP .1.: Erste-Hilfe-Kästen am Esperanto-Platz
+- TOP .2.: Bordsteinabsenkungen am Holzplatz
+- TOP .3.: Bericht des Beauftragten (AK Theresienwiese)
+- TOP .1.: Termine
+- TOP .1.: Bürgerbündnis gegen die Spielhalle im Beckahus Laim am 10.03.2007, 11.oo Uhr, Treffpunkt: Agnes-Bernauer-Str. 97
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .3.1.: Informationen aus der BA-Geschäftsstelle
+- TOP .3.2.: Berichte aus den anderen BA
+- TOP .3.3.: Bericht des Internetbeauftragten
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Infos)
+- TOP .2.: Veranstaltungen
