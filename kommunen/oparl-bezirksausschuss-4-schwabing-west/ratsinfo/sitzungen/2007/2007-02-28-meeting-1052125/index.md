@@ -1,0 +1,57 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2007-02-28T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1052125
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1052125
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 1.1.2.: Protokoll der letzten Sitzung
+- TOP 1.1.3.: Bürgeranliegen
+- TOP 2.: Anträge der Bürgerinnen, Bürger und Parteien
+- TOP 2.1.: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.: Parkprobleme von Besuchern und Mitarbeitern
+- TOP 2.3.: Parksituation in der Schleißheimer Straße
+- TOP 2.4.: Kurzparkzone in der Ranke- und Emanuelstraße
+- TOP 2.5.: Radfahren auf Gehwegen
+- TOP 2.6.: Schrägparken in der Fallmerayerstraße
+- TOP 2.7.: Protest gegen die Wendezone am Gustav-Landauer-Bogen 27
+- TOP 2.8.: Straßenzustand Bonner Straße ? Kölner Platz
+- TOP 2.9.: Nutzung des freiwerdenden Areals im Schwabinger Krankenhaus als Sozialbürgerhaus
+- TOP 2.10.: Dienstbarkeit Karstadt-Hochgarage für die Stadt
+- TOP 3.: Bericht des Vorsitzenden (siehe Liste der Schreiben der Verwaltung und Kenntnisnahmen) und der BA-Arbeitskreise
+- TOP 4.: Gaststättenangelegenheiten
+- TOP 4.1.: Agnesstr. 2, Cafe ?Cinecitta?: Erweiterung der Freischankfläche
+- TOP 5.: Grün / Baumfällungen
+- TOP 5.1.: Adelheidstr. 13: Fällung einer Weißbirke
+- TOP 5.2.: Elisabethstr. 48 ? 52: Fällung von 4 Bäumen
+- TOP 5.3.: Heßstr. 128 a: Fällung von 1 Spitzahorn
+- TOP 5.4.: Hildeboldstr. 10 - 22: Fällung von 1 Ahorn und 3 Birken
+- TOP 5.5.: Infanteriestr. 5: Fällung von 4 Ahorn und einer Esche
+- TOP 5.6.: Konradstr. 10: Fällung von 3 Erlen
+- TOP 5.7.: Novellierung der Naturdenkmalverordnung ? Vorschläge zur Neuaufnahme von Naturdenkmälern
+- TOP 5.8.: Belgradstr. 11a: Fällung eines Ahorn
+- TOP 6.: Bauvorhaben
+- TOP 6.1.: Speyerer Str. 14: Neubau eines Wohnhauses für betreutes Seniorenwohnen (selbständiges Wohnen) mit gewerblicher Nutzung in Teilen des EGs einschließlich Tiefgarage (Vorbescheid)
+- TOP 7.: Verkehr
+- TOP 7.1.: Degenfeldstraße: Änderung der Einbahnregelung
+- TOP 7.2.: südlich Schleißheimer Str. 201: Einrichtung eines allgemeinen Behindertenparkplatzes vor der Apotheke
+- TOP 7.4.: Parkraummanagement Habsburger-, Hohenstaufen- und Konradstraße
+- TOP 8.: Zweckentfremdung
+- TOP 8.1.: Ainmillerstraße: Erteilung eines Negativattestes
+- TOP 9.: BA-Angelegenheiten, BA-Budget
+- TOP 9.1.: Zuschuss aus dem BA-Budget an die Kleine Kindergruppe Schwabing e.V.: Science-Lab-Kurs für 4-Jährige
+- TOP 9.2.: Änderung der BA-Satzung, Katalog Kommunalreferat wegen Überführung verschiedener Regiebetriebe in die Rechtsform des Eigenbetriebs
+- TOP 9.3.: Plakate und Faltblätter für den BA?
+- TOP 9.4.: Beteiligung des BA am Projekt ?Nachbarn? zum 850. Stadtgründungsfest
+- TOP 10.: Verschiedenes
+- TOP 0: Bericht des Vorsitzenden und der Arbeitskreise
+- TOP 0: siehe Anlage
