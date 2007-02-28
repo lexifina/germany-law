@@ -1,0 +1,122 @@
+# 5. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2007-02-28T17:14:00+01:00
+- Ende: 2007-02-28T22:50:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=282
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=282
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl eines stellvertretenden Bürgerdeputierten gem. § 21 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Vorlage zur Wahl von ehrenamtlichen Sozialpfleger(n)/innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Wahl der Mitglieder in den Beirat für Menschen mit Behinderung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Wahl von Mitgliedern in den Beirat für das Krankenhaus Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Wahl von Personen für den Beirat der Arbeitsgemeinschaft nach § 44b SGB II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Sozialausschuss - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Mittel für Schutzimpfungen für Kinder und Jugendliche - beantwortet
+- TOP 7.2: Ein besseres Leben in der Gartenstadt - beantwortet
+- TOP 7.3: Schlüsselanlage im Rathaus Neukölln - beantwortet
+- TOP 7.4: Bleiberecht - beantwortet
+- TOP 7.5: Lebensmittelkontrolle in Neukölln - beantwortet
+- TOP 7.6: Auswirkung der fehlenden Schulreifeuntersuchungen - beantwortet
+- TOP 7.7: Störende Geräusche aus dem Kraftwerk Kanalstraße - beantwortet
+- TOP 7.8: Sportangebote in Schwimmhallen vor dem Aus? - beantwortet
+- TOP 7.9: Postfiliale Britzer Damm Ecke Tempelhofer Weg - beantwortet
+- TOP 7.10: Platz der Stadt Hof - beantwortet
+- TOP 7.11: Mehr Verkehrssicherheit im Quartier High-Deck-Siedlung - beantwortet
+- TOP 7.12: Mehr Kinder in den Kitas - schriftlich beantwortet
+- TOP 7.13: Arbeitnehmerfreundliche Angebote - schriftlich beantwortet
+- TOP 7.14: Diagonalsperre im Ehrenpreisweg - schriftlich beantwortet
+- TOP 7.15: EU-Projekttage an Neuköllner Schulen - in der BVV zurückgezogen
+- TOP 7.16: Jugendsozialarbeit auch an Neuköllner Sonderschulen? - schriftlich beantwortet
+- TOP 7.17: Verkauf der High-Deck-Siedlung - schriftlich beantwortet
+- TOP 7.18: Grundwasser im Blumenviertel - schriftlich beantwortet
+- TOP 7.19: Mäusebefall - schriftlich beantwortet
+- TOP 7.20: Auftragsdurchführung - schriftlich beantwortet
+- TOP 8: Beschlussempfehlung - 1. Lesung - (offen)
+- TOP 8.1: Investitionsplanung 2007-2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Beschlussempfehlungen - 2. Lesung - (offen)
+- TOP 9.1: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2005 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Kinder- und Jugendschutz nicht vernachlässigen - Hilfe anbieten - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Wiederherstellung des "Schwarzen Weges" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Schulpflicht konsequent durchsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Gedenktafel für Opfer der Haft- und Folterkeller der sowjetischen Geheimdienste in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Parkzone vor der AOK - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Ombudsstelle für Hartz IV-Betroffene - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Verantwortung für die Gesellschaft - Mehr Ausbildungsplätze - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Geschäftsordnung des Beirates für Menschen mit Behinderung im Bezirk Neukölln von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Neue Informationen zum Straßenneubau Alt-Rudow - beantwortet
+- TOP 10.2: Angebote Neuköllns zum Girls Day 2007 - beantwortet
+- TOP 10.3: Kitakombinat: Defizitäres Gebilde? - beantwortet
+- TOP 10.4: Kein Geld und keine Zeit für Neuköllner Kinder - beantwortet
+- TOP 10.5: Missbrauch von Patienten in Pflegeheimen zur Erlangung finanzieller Vorteile - beantwortet
+- TOP 10.6: Kahlschlag beim Neuköllner Grün - beantwortet
+- TOP 10.7: Sport- und investitionsfeindliches Neukölln!? - vertagt
+- TOP 10.8: Psychosoziale Betreuung und Beratung - schriftlich beantwortet
+- TOP 10.9: Schulpartnerschaften - schriftlich beantwortet
+- TOP 10.10: Sprachförderbedarf in Neukölln - schriftlich beantwortet
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Beteiligung des Bezirks Neukölln am Girls Day - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Fahrzeiten von Bus 181 verbessern - überwiesen
+- TOP 11.3: Nachnutzung des Flughafens Tempelhof - vertagt
+- TOP 11.4: 100 Bäume für Neukölln - überwiesen
+- TOP 11.5: Verkehrsüberwachung im südwestlichen Rudow - überwiesen
+- TOP 11.6: Erziehungsauftrag annehmen oder Leistungen streichen - vertagt
+- TOP 11.7: Verkehrskonzept südwestliches Rudow - überwiesen
+- TOP 11.8: Wiedereinführung der Schulreifeuntersuchung für Schulanfängerinnen und Schulanfänger - überwiesen
+- TOP 11.9: Investitionsvorhaben der SimonGolfAcademy - vertagt
+- TOP 11.10: Gleiche Regeln für alle! - vertagt
+- TOP 11.11: Trägerkarte zum Berlin-Ticket S auch für Schüler - überwiesen
+- TOP 11.12: Bürgerbeteiligungsverfahren diesmal mit Bürgern - überwiesen
+- TOP 11.13: Grünpflegequalität bewahren - NGA erhalten - in der BVV abgelehnt
+- TOP 11.14: Amtssprache - in der BVV abgelehnt
+- TOP 11.15: Schulen managen - in Personal investieren - überwiesen
+- TOP 11.16: Nächtliches Durchfahrverbot für Lastkraftwagen in der Johannisthaler Chaussee - überwiesen
+- TOP 11.17: Schulhygiene verbessern - Standards einführen - überwiesen
+- TOP 11.18: Flexible Schulanfangsphase nur bei Freiwilligkeit - vertagt
+- TOP 11.19: Gemeinschaftsschule - überwiesen
+- TOP 11.20: 1. und 2. Klassen an Schulen mit sonderpädagogischem Förderschwerpunkt erhalten - überwiesen
+- TOP 11.21: Für Religionsunterricht an Neuköllner Schulen - vertagt
+- TOP 11.22: "Respect Gaymes" auch in Neukölln unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 11.23: Schaltung der Fußgängerampel Johannisthaler Chaussee Höhe Petunienweg - überwiesen
+- TOP 11.24: Verwaltungsaufwand - überwiesen
+- TOP 12: Mitteilungen - 2. Lesung - (offen)
+- TOP 12.1: Ampelanlage Stubenrauchstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: "Neukölln blüh auf" - 2. Auflage - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Mehr Jugendsozialarbeiter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.4: Bushaltestelle "Platz der Stadt Hof" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.5: Bordsteinabsenkung vor dem Amtsgericht - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - Zwischenberichte - (offen)
+- TOP 13.1: Arabische Bibliothek - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14: Vorlagen zur Kenntnisnahme - Schlussberichte - (offen)
+- TOP 14.1: "Park & Ride"- und "Bike & Ride"-Möglichkeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Bebauungsplan XIV-248 - Straße 100 bzw. In den Gärten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Bebauungsplan XIV-207a vom 24.02.1998 - Andreas-Hermes-Siedlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Bebauungsplan XIV-239b vom 12.01.2001 - Neubausiedlung Asterngrund - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Bebauungsplan XIV-294 vom 30. August 1999 mit Deckblatt vom 02. Februar 2001 - TiB Columbiadamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Veränderungssperre Neuköllnische Allee 6 im Geltungsbereich des Bebauungsplanentwurfes 8-4 ("Neuköllnische Allee / Grenzallee") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Unverzüglicher Baubeginn "Frau-Mutter-Kind-Zentrum" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Verunreinigungen der Rudower Straße nahe einer "Fastfoodkette" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Bebauungsplan XIV-217 vom 24.5.1996 (Ehemalige Radarstation) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Verlängerung der Veränderungssperre 8-4/15 (Neuköllnische Allee 6) im Geltungsbereich des Bebauungsplanentwurfs 8-4 (Neuköllnische Allee/Grenzallee) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Bebauungsplan 8-4 vom 3. Januar 2003 mit dem Deckblatt vom 20. Januar 2004 (Neuköllnische Allee/Grenzallee) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Förderung von BSI-Maßnahmen durch das Job-Center - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: Bebauungsplan 8-17 vom 15. August 2005 (Dauerkleingartenanlage "Stolz von Rixdorf") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.14: Bebauungsplan XIV-272-1 vom 14.02.1997 mit den Deckblatt vom 29.04.1999 und 28.05.2001 (Frauenviertel Rudow) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.15: Bebauungsplan XIV-229a vom 11.07.1996 mit Deckblatt vom 14.11.2005 (Siedlung am Bahnhof Rudow) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: Schulbegleitung für sicherere Schulwege - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.17: Skulptur des Bildhauers Paolo Marazzi aus Marino - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.18: Hinweisschilder Frauenviertel - mit Abschlussbericht zur Kenntnis genommen
