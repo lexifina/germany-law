@@ -1,0 +1,67 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-03-01T16:00:00+01:00
+- Ende: 2007-03-01T18:00:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1984
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1984
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111950.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111950.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111950.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 18.01.2007 - einstimmig beschlossen
+- TOP 3: Ladezone Am Straußenkreuz 21 - einstimmig beschlossen
+- TOP 4: Trödelmärkte auf dem Gertrudisplatz im Jahre 2007 - einstimmig beschlossen
+- TOP 5: Jahrmärkte auf dem Gertrudisplatz im Jahr 2007 - einstimmig beschlossen
+- TOP 6: Trödelmarkt auf dem Gertrudisplatz im Jahre 2007 - einstimmig beschlossen
+- TOP 7: Bauunterhalt an städtischen Einrichtungen 2007 - einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Taubenpopulation - zur Kenntnis genommen
+- TOP 10: Platzgestaltung Am Turnisch - zur Kenntnis genommen
+- TOP 11: Schloss Eller - zur Kenntnis genommen
+- TOP 12: Schloss Eller - zur Kenntnis genommen
+- TOP 13: Offene Ganztagsschulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 14: Elbsee - zur Kenntnis genommen
+- TOP 15: Vennhauser Allee / Eller - Änderung der Fahrspuren - zur Kenntnis genommen
+- TOP 16: Telefonschaltkästen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 17: Platz Posener Straße / Richardstraße - zur Kenntnis genommen
+- TOP 18: Grünschnittentsorgung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 19: Verkehrsführung Kamper Weg / Eller Kamp - zur Kenntnis genommen
+- TOP 20: Grundschulanmeldungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 21: Verkehrsberuhigung Bunzlauer Weg - zur Kenntnis genommen
+- TOP 22: Grünschnittabholung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 23: Verkehrsprojekte im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 24: Unfallschwerpunkte im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 25: S-Bahnhöfe im Stadtbezirk 8
+- TOP 26: Sicherung Bahnunterführung A 46 - einstimmig beschlossen
+- TOP 27: Bahnunterführung Vennhauser Allee - einstimmig beschlossen
+- TOP 28: Unterführung der Deutschen Bahn Höhe Schlosspark - einstimmig beschlossen
+- TOP 29: Fußgängerunterführungen S-Bahnhöfe - einstimmig beschlossen
+- TOP 30: Schloss Eller - mehrheitlich beschlossen
+- TOP 31: Sitzung Bezirksvertretung 8 - mehrheitlich beschlossen
+- TOP 32: Pavillon Schlesische Straße - einstimmig beschlossen
+- TOP 33: Kettenabsperrung Gumbertstraße - einstimmig beschlossen
+- TOP 34: Parksituation Kamper Weg - einstimmig beschlossen
+- TOP 35: Glascontainer der AWISTA GmbH - einstimmig beschlossen
+- TOP 36: Volkstrauertag 2007
+- TOP 37: Lichtmasterplan im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 38: Schadstoffbelastung Bernburger Straße - einstimmig beschlossen
+- TOP 39: Änderung der Kita-Förderung - zur Kenntnis genommen
+- TOP 40: Wohnungen der LEG - mehrheitlich beschlossen
+- TOP 41: Schloss Eller - Dringlichkeitsantrag - mehrheitlich beschlossen
+- TOP 42: Grünstreifen zwischen Reitpark Eller und Oelser St - zur Kenntnis genommen
+- TOP 43: Von-Krüger-Straße 18 - zur Kenntnis genommen
+- TOP 44: Eller Kamp - Zone 30 - zur Kenntnis genommen
+- TOP 45: Wasserspielplatz Tannenhofweg - zur Kenntnis genommen
+- TOP 46: Radquerung Gumbertstraße / Anhalter Straße - zur Kenntnis genommen
+- TOP 47: Skater - Anlage im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 48: Parkplatz Flottenstraße - zur Kenntnis genommen
+- TOP 49: Ehrengrabfeld Friedhof Eller - zur Kenntnis genommen
+- TOP 50: Busspur Schlossallee - zur Kenntnis genommen
