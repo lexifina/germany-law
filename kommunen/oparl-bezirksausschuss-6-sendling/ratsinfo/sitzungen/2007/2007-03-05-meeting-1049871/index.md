@@ -1,0 +1,70 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2007-03-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1049871
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1049871
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Aufstellungsbeschluss Bebauungsplan Gotzinger Platz
+- TOP 2.2.: Verkehrsplanung Sendling
+- TOP 3.: Soziales und Sozialreferat
+- TOP 4.: Schulreferat
+- TOP 4.1.: Rahmenplanung für die Bezirkssportanlage an der Dietramszeller- / Thalkirchner Straße
+- TOP 5.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Meldeliste Bauvorhaben der SWM
+- TOP 6.2.: Entgelterhebung an P+R Anlagen im Stadtgebiet
+- TOP 6.3.: Rückverlagerung der Bushaltestelle der Linie 53 am Herzog-Ernst-Platz - <div>qualifizierte Vertagung</div>
+- TOP 6.4.: Fernwärmebauvorhaben Pfeuferstraße / Kraelerstraße
+- TOP 6.5.: Filmaufnahmen Tumblingerstraße; 21.02.2007
+- TOP 7.1.: Kinder-Bezirksausschusssitzung am 08.03.2007
+- TOP 7.2.: Antrag auf Gewährung eines Zuschusses für den Erhalt von 110 Arbeitsplätzen für behinderte Menschen bei dem Cooperative Beschützende Arbeitsstätten e. V.
+- TOP 7.3.: Budgetantrag Initiative Straßenzeitung; ? 1.000,-
+- TOP 7.4.: Budgetantrag Chor der Himmelfahrtskirche; ? 2.950,-
+- TOP 7.5.: Jahresbericht über die Budgetvorgänge im Jahr 2006 in Sendling
+- TOP 7.6.: Bürgerfest 1225 Jahre Sendling, 130 Jahre Eingemeindung - Beschlussfassung über die Budgetmittel
+- TOP 7.7.: Broschüre über die Bezirksausschüsse - Beitrag der BAs zum jeweiligen Stadtbezirk
+- TOP 7.8.: Änderung der BA-Satzung im Bereich des Kommunalreferates
+- TOP 7.9.: Bildung der Bezirksausschüsse für die Amtsperiode 2008 -2014
+- TOP 7.10.: Budget der Bezirksausschüsse; Änderung und Ergänzung der Richtlinien
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Flößergasse 11
+- TOP 8.3.: Diverse Nutzungsänderungen Plinganserstraße 6
+- TOP 8.4.: Bauvorhaben Urbanstraße 11; Neubau einer Wohnanlage
+- TOP 8.5.: Bauvorhaben Implerstraße 69
+- TOP 8.6.: Bauvorhaben Thalkirchner Straße 180
+- TOP 8.7.: Bauvorhaben Thalkirchner Straße 190
+- TOP 8.8.: Bauvorhaben Leipartstraße 2; Inhalt der Tektur
+- TOP 8.9.: Bauvorhaben Implerstraße 17, EDEKA
+- TOP 8.10.: Errichtung einer Anwohnergarage im zu errichtenden Parkhaus im Areal der Großmarkthalle; zeitlicher Ablauf
+- TOP 8.11.: Bericht über die Beschlussvollzugskontrolle
+- TOP 8.12.: Magnetschwebebahn München
+- TOP 9.: Baureferat
+- TOP 9.1.: Anfrage an das Baureferat: Wie und wann geht es weiter mit der Neugestaltung des Harras?
+- TOP 9.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 6 Sendling Widmung folgender Straßenstrecken - Johannes-Timm-Straße (Gesamtstrecke) - Hans-Klein-Straße (Gesamtstrecke) - Fritz-Endres-Straße (Teilstrecke) - <div>Zustimmung, einstimmig</div>
+- TOP 9.3.: Fahrbahnsanierung Bruderhofstraße 31 - 43
+- TOP 9.4.: Bauschadenwiederherstellung Brudermühlstraße 36 bis Roter-Turm-Platz 5; Gehbahn, Radweg, Baumgraben, Parkstreifen
+- TOP 9.5.: Bauschadenbehebung Steinerstraße 6; Gehbahn, Einfahrten, Fahrbahn
+- TOP 9.6.: Kreuz und quer abgestellte Fahrräder auf dem Maienplatz und seiner unmittelbaren Umgebung
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Demleitnerstraße 1 - 5
+- TOP 10.2.: Baumfällung Demleitnerstraße 7 - 13
+- TOP 10.3.: Baumfällung Demleitnerstraße 17 - 23
+- TOP 10.4.: Fällung von Gefahrenbäumen
+- TOP 10.5.: Vorschläge zur Aufnahme in die Naturdenkmalliste
+- TOP 10.6.: Baumfällung Ludwig-Krafft-Straße 12, eine Weide
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
