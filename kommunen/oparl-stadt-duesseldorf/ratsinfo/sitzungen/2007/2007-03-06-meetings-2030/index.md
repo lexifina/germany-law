@@ -1,0 +1,58 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-03-06T15:00:00+01:00
+- Ende: 2007-03-06T00:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2030
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2030
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111951.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111951.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111951.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - zur Kenntnis genommen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Anfragen und Anträge
+- TOP 5: Anfrage SPD-Ratsfr.gepl.Änderung Kita-Förderung - zur Kenntnis genommen
+- TOP 6: Anfrage CDU/FDP - Ausbau des Frühwarnsystems - zur Kenntnis genommen
+- TOP 7: Anfrage CDU-Ratsfraktion - Kinderschwimmen - zur Kenntnis genommen
+- TOP 8: Antrag der SPD-Ratsfraktion zum Bushido-Konzert - einstimmig beschlossen
+- TOP 9: Konzept Schulsozialarbeit an Grundschulen - einstimmig beschlossen
+- TOP 10: Bericht zur Qualität päd. Betreuung OGATA - einstimmig beschlossen
+- TOP 11: Antrag CDU/FDP - Aktionsplan Kinderschutz - einstimmig beschlossen
+- TOP 12: Antrag CDU/FDP - Ausschussübergr.Planungsvernetz. - einstimmig beschlossen
+- TOP 13: Antrag Ratsherr Tussing - Betreuungsplätze Campus - einstimmig beschlossen
+- TOP 14: Vortrag
+- TOP 15: HELL-GA e.V. Mehrgenerationenhaus
+- TOP 16: Öffentliche Anerkennung gem. § 75 SGB VIII
+- TOP 17: Anerkennung Katholische Jugendwerke in Düsseldorf - einstimmig beschlossen
+- TOP 18: Trägerwechsel der kath. JFE in Hellerhof - einstimmig beschlossen
+- TOP 19: Jugendförderung
+- TOP 20: Projekt Click-It - Jugendring Düsseldorf
+- TOP 21: Planungsbericht erzieherischer Kinderschutz - einstimmig beschlossen
+- TOP 22: Mittelvergabe 2007 Mittelvergabe 2007 - einstimmig beschlossen
+- TOP 23: Mietkostenzuschuss KABAWIL e.V. - einstimmig beschlossen
+- TOP 24: Ausweitung Öffnungszeiten Jugendzentrum Eller - einstimmig beschlossen
+- TOP 25: Kommunale Schulkindbetreuung - einstimmig beschlossen
+- TOP 26: Ersatzneubau ASP Eller - einstimmig beschlossen
+- TOP 27: Masterplan KSP 2008 - einstimmig beschlossen
+- TOP 28: Tageseinrichtungen für Kinder
+- TOP 29: Initiative "Düsseldorf liest vor" - einstimmig beschlossen
+- TOP 30: Einrichtung einer Vollzeitstelle beim SKFM - einstimmig beschlossen
+- TOP 31: Bau, Einrichtung und Instandsetzung von Kita - einstimmig beschlossen
+- TOP 32: Stand des Einzugs von Kita-Beiträgen - zur Kenntnis genommen
+- TOP 33: Organisation
+- TOP 34: Zuschüsse und Zuwendungen 2006 - einstimmig beschlossen
+- TOP 35: Zuwendungen an das Jugendamt im Jahr 2006 - einstimmig beschlossen
+- TOP 36: Controllingberichte
+- TOP 37: Controllingbericht Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 38: Controllingbericht Kinderhilfezentrum - einstimmig beschlossen
+- TOP 39: Controllingbericht Hilfen zur Erziehung - einstimmig beschlossen
+- TOP 40: Controllingbericht Kinder- und Jugendförderung - zur Kenntnis genommen
+- TOP 41: Beschlusskontrolle I/2007 - einstimmig beschlossen
