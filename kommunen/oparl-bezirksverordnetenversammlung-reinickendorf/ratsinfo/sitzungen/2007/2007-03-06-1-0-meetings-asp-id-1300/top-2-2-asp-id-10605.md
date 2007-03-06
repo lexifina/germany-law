@@ -1,0 +1,8 @@
+# TOP 2.2: Festsetzung des Bebauungsplans XX-286 vom 13. Mai 1996 mit den Deckblättern Nr. 1 vom 17. Februar 1997, Nr. 2 vom 18. August 1998, Nr. 3 vom 13. September 2004 und Nr. 4 vom 9. März 2005 für Teilflächen der Grundstücke Berliner Straße 19, 26, 27 und35 sowie für einen Abschnitt der Berliner Straße und der Straße Am Borsigturm im Bezirk Reinickendorf, Ortsteil Tegel
+
+- Sitzung: 2. öffentliche Sitzung des Ausschusses für Bauwesen und Stadtplanung (2007-03-06)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=10605
+- Ergebnis: mit Abschlussbericht zur Kenntnis genommen
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=10605
