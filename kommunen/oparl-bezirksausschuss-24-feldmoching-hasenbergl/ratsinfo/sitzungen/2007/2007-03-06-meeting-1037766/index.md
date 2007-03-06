@@ -1,0 +1,67 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2007-03-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1037766
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1037766
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Konzertjahr 2007; Pfarrei St. Nikolaus - <div>Zustimmung, einstimmig</div>
+- TOP 3.1.: Aufstellung von Automaten für Hundetüten oder sonstige geeignete Maßnahmen zur Reinhaltung der Grünfläche Krempelhuberplatz - <div>Zustimmung, einstimmig</div>
+- TOP 3.2.: Bildung eines Arbeitskreises zur Errichtung einer Arbeitsplatzbörse für beschäftigungslose Jugendliche im 24. Stadtbezirk - <div>Vertagung in den Unterausschuss - Zustimmung, einstimmig</div>
+- TOP 3.3.: Anbringung eines Hinweisschildes auf Sackgasse Am Schnepfenweg westlich Pappelallee - <div>Zustimmung, einstimmig</div>
+- TOP 3.5.: Schaffung einer entsprechenden Anzahl von Pkw-Stellplätzen im Bereich der Schleißheimer Straße, für die auf dem Dülferanger weggefallenen Parkplätze Dringlichkeitsantrag - <div>Zustimmung, einstimmig</div>
+- TOP 3.6.: Ramadama-Aktion in Ludwigsfeld Dringlichkeitsantrag
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Änderung der BA-Satzung Kataklog der Fälle der Entscheidung, Anhörung und Unterrichtung des Kommunalreferates Nrn. 1, 7, 11 - 13 - <div>Zustimmung, einstimmig</div>
+- TOP 5.2.: Antrag auf Änderung des Flächennutzungsplanes im Bereich Feldmoching
+- TOP 5.3.: Vollzug der Baumschutzverordnung: a) Am Schnepfenweg 47 a b) Linkstr. 31 c) Schneeglöckchenstr. 130 d) Wildröschenstr. 6 e) Kohlröschenstr. 46 f) Eberhartstr. 3 a g) Himmelschlüsselstr. 23 h) Trollblumenstr. 22 i) Caracciolastr. 14 j) Caracciolastr. 47 k) Grashofstr. 67 l) Schwabenspiegelstr. 8 m) Waldmeisterstr. 4 n) Azaleenstr. - Errichtung einer Grünanlage mir Lärmschutzwall o) Blodigstr. 4 p) Blodigstr. 12 q) Dülferstr. 14 r) Feldmochinger Str. 403 s) Udalrichstr. 7 t) Schafgarbenweg 19 u) Thelottstr. 1 - <div>wie jeweils vom Unterausschuss empfohlen; Zustimmung, einstimmig</div>
+- TOP 5.4.: Neueinrichtung eines Taxistandplatzes Nähe S-Bhf. Fasanerie Ecke Feldmochinger Str. / Himmelschlüsselstraße - <div>Zustimmung, mehrheitlich</div>
+- TOP 5.5.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 5.6.: Errichtung von Haltverboten in der Thelottstr. Höhe Hausnr. 20 - <div>Zustimmung, einstimmig</div>
+- TOP 5.7.: Anmeldung zum Tag des offenen Denkmals - <div>Abfrage an alle Kirchengemeinden; Zustimmung, einstimmig</div>
+- TOP 5.8.: Voranfrage zur Straßenbenennung im Bereich Detmoldstraße
+- TOP 5.9.: Vollzug der Baumschutzverordnung - neues Verfahren - <div>Festlegung des künftigen Verfahren; Zustimmung, einstimmig</div>
+- TOP 5.10.: Thelottstraße - baulich gesicherte Querung im Bereich der Grundschule
+- TOP 5.11.: Verkehrsrechtliche Anordnung: Änderung der Vorfahrtregelung in der Karlsfelder Straße in Höhe Hausnr.: 215, 217 - <div>Zustimmung, mehrheitlich</div>
+- TOP 5.12.: Straßenbauprojekt: "Paul-Preuß-Straße" - <div>Zustimmung, mehrheitlich</div>
+- TOP 5.13.: Durchführung von Flöhmärkten an Goldschmiedplatz - <div>Zustimmung, einstimmig</div>
+- TOP 5.14.: Zirkusveranstaltung, Grünfläche Weitlstraße vom 04.08.-11.08.2007 - <div>Zustimmung, einstimmig</div>
+- TOP 5.15.: Schwarzhölzlsiedlung - Projektgenehmigung
+- TOP 5.16.: Werbeanlage; Lerchenauer Str. 230 - <div>Ablehnung, einstimmig</div>
+- TOP 5.17.: Vorhabenbezogener Bebauungsplan mit GRünordnung Nr. 1933; Trollblumenstr. (südlich), Blaukissenweg (beidseitig) und Bahnlinie München-Regensburg (westlich)
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Sachstand zur Straßenbenennung im Bereich der ehemaligen Futtermittelfabrik - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Walter-Sedlmayr-Platz 7 + 8 Nutzungsänderung Büro in Schüler-Wohngruppe - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Einführung eines Abo-Angebotes für die Mvv-Ausbildungstarife I und II sowie Anhebung der Altersgrenze beim Ausbildungstarif (BA-Antrag Nr. 1743 vom 09.01.2007)
+- TOP 6.4.: Erweiterung der Bezirkssportanlage in der Georg-Zech-Allee; Änderung des Bebauungsplanes Nr. 1006 a - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Vollzug der Baumschutzverordnung, Genehmigungsbescheide - <div>zur Kenntnis genommen</div>
+- TOP 6.6.: Meldelisten Bauvorhaben - <div>zur Kenntnis genommen; Unterlagen für ein Vorhaben angefordert</div>
+- TOP 6.7.: Baumaßnahmen Stadtwerke - <div>zur Kenntnis genommen</div>
+- TOP 6.8.: Verkehrsrechtliche Anordnung: a) Verkehrsberuhigter Bereich Hornkleeweg b) Stösserstraße - Errichtung von 2 allgem. Behindertenparkplätze vor dem AWO-Dorf - <div>zur Kenntnis genommen</div>
+- TOP 6.9.: Unveränderte Fortführung eines Gaststättenbetriebes: a) Bierstüberl Hopfenland, Feldmochinger Str. 214 - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Entgelterhebung an P+R Anlagen im Stadtgebiet - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Siedlung Ludwigsfeld - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Budget der Bezirksausschüsse Erfahrungsbericht 2006 - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Beschlussvollzugskontrolle (BKV) 4. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 31.12.2006 - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB) A. Beschlusslage und Folgeaktivitäten B. Kosten- und Finanzierungsproblematik MSB C. Weiteres Vorgehen D. Bürgerversammlungsempfehlungen - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Verkehrsentwicklungsplan der Landeshauptstadt München - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Öffentlicher Personennahverkehr in München - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Datenblätter Kinderkrippen - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Teilnahme am Projekt "Nachbarn" zum 850. Stadtgründungsfest Archiv Der Münchner Arbeitsbewegung e. V. - <div>zur Kenntnis genommen</div>
+- TOP 6.20.: Untersuchung Wohnungsflüchter - <div>zur Kenntnis genommen</div>
+- TOP 6.21.: Projekt Thelottstraße (Antwort des Referates auf Stellungnahme des BA 24) - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Jugend, Soziales, Schule, Kultur
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
