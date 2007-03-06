@@ -1,0 +1,163 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2007-03-06T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1057542
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1057542
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA 21
+- TOP 2.2.1.: Bau eines Einfamilienhauses in der Döbereinerstraße
+- TOP 2.2.2.: Ampelanlage Pippinger Straße / Lochhausener Straße
+- TOP 2.2.3.: Gewerbe- bzw. Verkaufsflächen in den geplanten Pasing Arcaden
+- TOP 2.2.4.: Riemerschmid-Villa; Pressebericht "Jugendstil-Juwel für Kultur"
+- TOP 2.2.5.: Pressebericht "Kahlschlag am Betzenweg"
+- TOP 2.2.6.: Ladenzentrum Schrämel-/Menterstraße; Unterschriftenaktion
+- TOP 2.2.7.: Genehmigung zum Betrieb eines Kinder- und Jugendhauses mit Hausaufgaben- und Freizeitbetreuung sowie Unterstützung durch die Landeshauptstadt München
+- TOP 2.2.8.: Genehmigung zur Errichtung eines Kinder- und Jugendhauses mit Hausaufgabenbetreuung und Unterstützung durch die Landshauptstadt München auf dem Grundstück Freseniusstraße 2 b
+- TOP 2.2.9.: Schmierereien auf dem Spielplatzhäuschen Megerle- / Freseniusstraße
+- TOP 2.2.10.: Baumfällungen in Obermenzing
+- TOP 2.2.11.: Baumfällung auf einem Anwesen im Reußweg
+- TOP 2.2.12.: Lärmschutzwall in der Freseniusstraße
+- TOP 2.2.13.: Bauleitplanung Gleisdreieck Pasing
+- TOP 2.2.14.: Erweiterung, Teilabbruch und Umbau des Klinikums München-Pasing mit Kindergarten und Parkhaus-Vorbescheid
+- TOP 2.2.15.: Nutzung des Gehweges in der Josef-Retzer-Straße 45 / Bäckerstraße durch das Fahrradgeschäft "Cycle"
+- TOP 2.2.16.: Sperrung der Spiegelstraße am Faschingsdienstag
+- TOP 2.2.17.: Baumfällungen im Stadtpark Pasing
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Pläntschweg 63, 1 Lärche
+- TOP 3.1.2.: Alte Allee 39a, 1 Blautanne
+- TOP 3.1.3.: Böcksteiner Straße 3, Baumbestandsplan Nr. 07-379
+- TOP 3.1.4.: Egenhoferstraße 23, 1 Serbische Fichte
+- TOP 3.1.5.: Rißheimerstraße 8, Baumbestandsplan Nr. 07-1328
+- TOP 3.1.6.: Schmaedelstraße 29, Baumbestandsplan Nr. 06-37370
+- TOP 3.1.7.: Foquestraße 25, 1 Birke
+- TOP 3.1.8.: Menzinger Straße 119, 1 Fichte
+- TOP 3.1.9.: Keyserlingstraße 34, 1 Buche, 1 Fichte, 1 Kiefer, 1 Eiche, 1 Eibe
+- TOP 3.1.10.: Samerhofstr. 4, 1 Kiefer
+- TOP 3.1.11.: Theodor-Storm-Straße, 1 Birke
+- TOP 3.1.13.: Bergsonstraße 49, 1 Kiefer
+- TOP 3.1.14.: Peter-Vischer-Straße 19, 1 Tanne
+- TOP 3.1.15.: Mergenthalerstraße 6, 1 Kiefer
+- TOP 3.1.16.: Radeckestraße 1, 1 Buche
+- TOP 3.1.17.: Stücklenstraße 19, 1 Pappel, 1 Lärche
+- TOP 3.1.18.: Feichthofstraße 195, 2 Schwarzkiefern
+- TOP 3.1.19.: Maierhofstraße 12, 1 Fichte
+- TOP 3.1.20.: Offenbachstraße 11, 1 Ahorn
+- TOP 3.1.21.: Dachstraße 44, 1 Scheinzypresse, 1 Linde, 1 Ahorn
+- TOP 3.1.22.: Varnhagenstraße 21, Baumbestandsplan Nr. 07-5497
+- TOP 3.1.23.: Paul-Gerhardt-Allee 30, Baumbestandsplan Nr. 07-1820
+- TOP 3.1.24.: Im Wismat 25 a, 1 Blaufichte
+- TOP 3.1.25.: Daudetstraße 10, 1 Birke, 1 Kirschbaum, 1 Walnussbaum
+- TOP 3.1.26.: Herzog-Johann-Straße 37 a, 1 Blautanne
+- TOP 3.1.27.: Otto-Engl-Platz 18, 1 Fichte
+- TOP 3.1.28.: Pippinger Straße 149, 1 Lärche
+- TOP 3.1.29.: Frauendorferstraße 10, 2 Fichten
+- TOP 3.2: Gefahrenbäume
+- TOP 3.2.2.: Verdistraße 47, 1 Kastanie
+- TOP 3.2.3.: Verdistraße 63, 1 Ahorn
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.1.: Vingerstraße 5
+- TOP 5.1.2.: Planegger Straße 7
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 1: (E) Änderung der Verkehrsführung an der Kreuzung Kaspar-Kerll-Straße / Sibeliusstraße Empfehlung Nr. 02-08 / E 00572 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 26.10.2006 Neuregelung der Verkehrsführung an der Kreuzung Kaspar-Kerll-Straße / Sibeliusstraße Schreiben des Bezirksausschusses des 21. Stadtbezirkes Pasing-Obermenzing vom 25.09.2006 - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 2: (E) Sauberkeit am Bahnhofsvorplatz in Pasing (Ziffer 1 des Antrages) Empfehlung Nr. 02-08 / E 00384 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing am 16.05.2006 - <div></div>
+
+  						<div>Abweichung von Referentenvorl.</div>
+- TOP 2.3.: Gewährung eines Zuschusses aus dem Budget des BA 21; Antragsteller: Jugendzentrum Aquarium für die Maßnahme: Qualivorbereitungskurs 2007
+- TOP 10.: Anhörungen
+- TOP 10.1.: Landsberger Straße 416, Erweiterung einer Lackiererei (vertagt aus der BA-Sitzung vom 06.02.07)
+- TOP 10.2.: Gerlichstraße 25, Neubau eines Doppelhauses mit Garagen (vertagt aus der BA-Sitzung vom 06.02.07)
+- TOP 10.3.: Eglofstraße 12, Neubau eines Doppelhauses mit Garagen (vertagt aus der BA-Sitzung vom 06.02.07)
+- TOP 10.4.: Vollzug des Bayerischen Naturschutzgesetzes; Novellierung der Naturdenkmalverordnung der Landeshauptstadt München (vertagt aus der BA-Sitzung vom 06.02.07)
+- TOP 10.5.: Haltverbot im Bertha-von-Suttner-Weg, Westseite ab Lichtmast Nr. 6 (in Höhe Einmündung Klarbachplatz) auf 10 m Richtung Norden; Anhörung zur beabsichtigten verkehrsrechtlichen Anordnung
+- TOP 10.6.: Sponsoring bei der Landeshauptstadt München
+- TOP 10.7.: Errichtung einer Werbeanlage am Standort Verdistraße in Nähe von Hausnr. 35
+- TOP 10.8.: Radwegverbindung zur Langwieder Seenplatte; Entwurf einer Beschlussvorlage für die Sitzung des Bauausschusses am 27.03.07
+- TOP 10.9.: Konzeption der regionalen Sozialberichte (vertagt aus der BA-Sitzung vom 06.02.07)
+- TOP 10.10.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich IV/21 sowie Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1907 Bodenseestraße (südlich), Bahnlinie München - Herrsching (südlich), Bahnlinie München - Mittenwald (westlich), Paosostraße (nördlich) - Gleisdreieck Pasing
+- TOP 10.11.: Lochhausener Straße, Erweiterung eines Lagerplatzes der Bodenbörse München-West
+- TOP 10.12.: Absolutes Haltverbot an der West- und Ostseite der Heimburgstraße zwischen Bodenseestraße und 10 m nördlich
+- TOP 10.13.: Teilumbenennung der Mooswiesenstraße
+- TOP 10.14.: Bodenseestraße 34, Errichtung einer Werbeanlage (1 hinterleuchtete einseitige Werbevitrine auf Stützfuß montiert)
+- TOP 10.15.: Absolutes Haltverbot in der Daudetstraße, Nordseite im Bereich der Anwesen 30 und 32 mit dem Zusatz ?werktags mo bis fr 8.00 ? 13.00 Uhr?
+- TOP 10.16.: Erweiterung des Schulgebäudes An der Schäferwiese 5 und Errichtung einer Kindertagesstätte mit 3 Kindergartengruppen; Beschlussvorlage für die Sitzung des Schulausschusses am 21.03.07
+- TOP 10.17.: Nutzung / Bauvorhaben Menzinger Straße 85; Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung zur Behandlung von Empfehlungen der Obermenzinger Bürgerversammlung vom 26.10.2006
+- TOP 11.: Anträge und Anfragen
+- TOP 11.1.: CSU: Antrag: Keine Umsetzung der Pasing Arcaden
+- TOP 11.2.: SPD: Antrag: Ersatzpflanzung Pappelallee zwischen Bärmannstraße und Schlosskanal
+- TOP 11.3.: SPD: Antrag: Verschönerung des Vorplatzes Verdi-/Frauendorferstraße
+- TOP 11.4.: SPD: Antrag: Radweglückenschluss Frauendorfer-/Verdistraße
+- TOP 11.5.: SPD: Antrag: Aufnahme einer Radroute "Würm-Isar" in das VELO-City-Netz der Stadt München
+- TOP 11.6.: SPD: Antrag: Aufforstung eines grünen Schutzbereichs nördlich der Lindauer Autobahn zwischen Heitmeiersiedlung und dem Bannwald Lochhamer Schlag
+- TOP 11.7.: Bündnis 90 / Die Grünen: Antrag: Schaffung eines getrennt angelegten Gehweges auf der Westseite der Blumenauer Straße südlich Scheuerlinstraße einschließlich Bereich Hotel / Hotelfachschule
+- TOP 11.8.: Bündnis 90 / Die Grünen: Antrag: Schaffung eines Gehweges im Einmündungsbereich Blumenauer Straße / Haidelweg
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Baumaßnahmen der Stadtwerke München GmbH (Stichtage: 05.02.07, 12.02.07, 19.02.07, 26.02.07)
+- TOP 12.2.: Unveränderte Fortführung von Gaststättenbetrieben - Schank- und Speisewirtschaft "Nikopolis" (ehem. "Pschorrfaßl"), Landsberger Str. 487 - Schank- und Speisewirtschaft "Orient Lounge", Landsberger Str. 449
+- TOP 12.3.: Bauanträge im Stadtbezirk (Listen vom 05.02.-11.02.07, v. 12.02.-18.02.07, v. 19.02.-25.02.07, v. 26.02.-04.03.07)
+- TOP 12.4.: Amtsblatt Nr. 4/07, Nr. 5/07, Nr. 6/07
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Schulausschuss des Stadtrates vom 31.01.2007 - "Das Elsa-Brändström-Gymnasium als Ganztagsgymnasium braucht endlich ausreichend Unterrichtsräume!" (Antrag der Stadtratsfraktion Bündnis 90 / Die Grünen vom 06.12.06); "Städtische Ganztagsgymnasien in vollem Umfang erhalten!" (Antrag von Frau Stadträtin Marianne Brunner vom 22.12.06)
+- TOP 13.2.: Ausschuss für Stadtplanung und Bauordnung vom 31.01.2007 - Bebauungsplan mit Grünordnung Nr. 1997 Landsberger Straße (nördlich), Bahnlinie Hauptbahnhof - Pasing (südlich) zwischen Am Knie und Willibaldstraße; Aufstellungsbeschluss
+- TOP 13.3.: Kreisverwaltungsausschuss vom 13.02.2007 - Entgelterhebung an P+R-Anlagen im Stadtgebiet, hier: Anpassung der P+R Parkpreise
+- TOP 13.4.: Vollversammlung des Stadtrates vom 15.02.2007 - Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz - Entgelterhebung an P+R Anlagen im Stadtgebiet, hier: Anpassung der P+R Parkpreise
+- TOP 13.5.: Schulausschuss vom 28.02.2007 - Städt. Elsa-Brändström-Gymnasium an der Ebenböckstraße 1; Errichtung von 2 Schulpavillons am Schererplatz / Alois-Wunder-Straße 6
+- TOP 13.6.: Ausschuss für Stadtplanung und Bauordnung vom 28.02.2007 - Beschlussvollzugskontrolle (BVK); 4. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 31.12.2006
+- TOP 13.7.: Bauausschuss vom 06.03.2007 - Nordumgehung Pasing: Verkehrsanlagen und Ingenieurbauwerke zwischen den Knoten Landsberger Straße / Am Knie und Bodensee-/Lortzingstraße ohne den Bereich Bahnhof Pasing (Projektgenehmigung); Verkehrsanlagen und Ingenieurbauwerke im Bereich Bahnhof Pasing (Vorprojektgenehmigung); Terminalbauwerk am Bahnhof Pasing (Vorprojektgenehmigung); Vorgezogene Maßnahmen (Ausführungsgenehmigung) - Wöhlerstraße; Erstmalige Herstellung zwischen Dorf- und Benderstraße (Projektgenehmigung) - Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen (Antrag der Stadtratsmitglieder Dr. Reinhold Babor, Manuel Pretzl und Richard Quaas vom 12.05.06); Beseitigung von Schrotträdern (Empfehlung der Bürgberversammlung des 2. Stadtbezirkes Ludwigsvorstadt-Isarvorstadt vom 11.05.06) - Zusatzfinanzierung für den Straßenunterhalt
+- TOP 13.8.: Kinder- und Jugendhilfeausschuss und Sozialausschuss in gemeinsamer Sitzung vom 20.03.2007 - Zuschussnehmerdatei 2007; Vollzug des Haushaltsplans 2007 für den Bereich ?Kooperation mit freien Trägern? des Sozialreferates/Zentrale - Zuschussnehmerdatei 2007; Vollzug des Haushaltsplans 2007 für den Bereich ?Förderung freier Träger" des Amtes für Soziale Sicherung - Zuschussnehmerdatei 2007; Vollzug des Haushaltsplans 2007 für den Bereich ?Förderung freier Träger" des Stadtjugendamtes - Zuschussnehmerdatei 2007; Vollzug des Haushaltsplans 2007 für den Bereich ?Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 14.: Post an den BA
+- TOP 14.1: von der Stadtverwaltung
+- TOP 14.1.1.: Oberbürgermeister - Pasinger Faschingstreiben am 20.02.2007; Antrag der Arbeitsgemeinschaft der Pasinger Vereine e.V. auf Gewährung eines Zuschusses aus dem Budget des BA 21, hier: nicht nachvollziehbare Erhöhung der Kosten der MVG - Entsendung von Vertretungen städtischer Fachreferate in Bezirksaus-schusssitzungen und andere Veranstaltungen der Bezirksausschüsse
+- TOP 14.1.2.: Direktorium - Vollzug der Baumschutzverordnung; Beteiligung der Bezirksausschüsse bei Baumfällungen - Budget der Bezirksausschüsse; Erfahrungsbericht 2006 - Kommunalwahl 2008; Bildung der Bezirksausschüsse für die Amtsperiode 2008 - 2014 - Budget der Bezirksausschüsse; Änderung und Ergänzung der Richtlinien - Budget der Bezirksausschüsse; Schreiben des Vereins cba - Cooperative Beschützende Arbeitsstätten e.V.
+- TOP 14.1.3.: Baureferat - Belästigung von Fußgängern durch Radfahrer auf dem Fußweg zwischen Westerholzstraße und Theodor-Storm-Straße; Anregung einer verbesserten Beschilderung für den Radfahrverkehr (BA-Schreiben vom 29.01.07) - Fahrradständer am Bahnhof Pasing; Instandsetzung der Beleuchtung (BA-Schreiben vom 25.01.07)
+- TOP 14.1.4.: Kreisverwaltungsreferat - Verunreinigungen in der Heimburgstraße (BA-Schreiben vom 23.01.07) - Erlaubnisbescheid für das Pasinger Faschingstreiben am 20.02.2007 - Haltverbot im Bertha-von-Suttner-Weg, Nordseite, zwischen Fußgängerüberweg und Lichtmast bei den Wertstoffcontainern - Verkehrsaufkommen in der Meyerbeer-/Offenbachstraße; Lichtzeichenanlage Würmkanal / Marsopstraße (BA-Schreiben vom 27.11.06) - Umgestaltung des zukünftigen Kreuzungsbereichs Planegger Straße / Karl-Hromadnik-Straße (BA-Schreiben vom 31.01.07) - Absolutes Haltverbot auf der Südseite der Karl-Mangold-Straße im Bereich des Wendehammers; Verkehrsrechtliche Anordnung nach § 45 StVO - Errichtung eingeschränkter Haltverbote in der Oselstraße; Verkehrs-rechtliche Anordnung nach § 45 StVO
+- TOP 14.1.5.: Kommunalreferat - Bergsonstraße 40, hier: Einkaufsmöglichkeiten im Gebiet Pippinger-/Bergson- und Marschnerstraße; Schaffung einer Fläche auf städtischem Grund an der Bergsonstraße im Bereich des Obermenzinger Friedhofes (BA-Schreiben vom 25.01.07) - Zukunft der Villa Riemerschmid (BA-Schreiben vom 16.02.07)
+- TOP 14.1.6.: Referat für Stadtplanung und Bauordnung - Schrämelstraße 175 a, Neubau eines Doppelhauses mit 2 Garagen (Vorbescheid) - Menzinger Straße 85, Neubau eines Lebensmitteleinzelmarktes mit Stellplätzen; Baugenehmigungsbescheid vom 31.01.2007 - Vernetzung des Landschaftsparks Pasing-Laim-Blumenau-Hadern mit dem Würmgrünzug und Planungen zur Staatsstraße 2063 neu (BA-Schreiben vom 22.11.06) - Vollzug der Baumschutzverordnung, hier: Kapellengartenstr. 3, Bescheid der Unteren Naturschutzbehörde vom 14.02.07 - Vollzug der Baumschutzverordnung, hier: Wöhlerstr. 48, Bescheid der Unteren Naturschutzbehörde vom 13.02.07 - Vollzug der Baumschutzverordnung, hier: Peslmüllerstr. 13, Bescheid der Unteren Naturschutzbehörde vom 13.02.07 - Bebauung an der Schäferwiese / Alte Allee in München-Obermenzing; Schaffung von Einkaufsmöglichkeiten - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan Nr. 1992 Stahlstraße (südlich), Hans-Goltz-Weg (westlich) und Pasinger Heuweg (östlich), hier: Bürgeranliegen "Ausdehnung des Bebauungsplanes auf die Grundstücke östlich des Pasinger Heuwegs" (BA-Schreiben vom 31.01.07) - Bauvorhaben Amalienburgstraße 2; Vorbescheidsantrag zum Neubeu einer Autowaschstraße (BA-Schreiben vom 14.12.06)
+- TOP 14.1.7.: Sozialreferat - Datenblätter zu Kinderkrippenplätzen in der Landeshauptstadt München im Zuständigkeitsbereich des Sozialreferates - Datenblätter zu Kinderkrippenplätzen mit neuem Verlauf der Versorgungsgrade - Aktualisierung der Datenblätter zu Kinderkrippenplätzen
+- TOP 14.1.8.: Referat für Arbeit und Wirtschaft - Reparatur des Gepäckförderbandes im Bahnhof Pasing sowie Reparatur der Uhr am Pasinger Bahnhofsplatz (BA-Antrag Nr. 1772 vom 16.01.07) - Westbad; Verbesserungen beim Eintritt (BA-Schreiben vom 12.12.06) - Bahnhofsuhr an beiden Seiten der über die Verdistraße führenden Brücke am S-Bahnhof Obermenzing; Empfehlung Nr. 586 der Obermenzinger Bürgerversammlung vom 26.10.06 (Beschluss des BA 21 vom 16.01.07) - Postamt Obermenzing (BA-Antrag Nr. 1538 vom 10.10.06 sowie BA-Schreiben vom 18.12.06) - Broschüre "München. Der Wirtschaftsstandort. Fakten und Zahlen 2007"
+- TOP 14.1.9.: Münchner Verkehrsgesellschaft mbH (MVG) - Defekte Sitzbank an der Bushaltestelle Pasing-Marienplatz (Richtung Süden)
+- TOP 14.1.10.: Münchner Stadtentwässerung - Kanalbau im Umgriff des Bebauungsplanes Nr. 1922a, Nordumgehung Pasing; Projektgenehmigung
+- TOP 14.1.11.: Schul- und Kultusreferat - Karlsgymnasium, Am Stadtpark 21; Einnummerierung der Mensa zu "Am Stadtpark 29" - Kooperationseinrichtung Planegger Straße (Technocell-Gelände) (BA-Schreiben vom 31.01.07)
+- TOP 14.2: Sonstige
+- TOP 14.2.1.: Firma Dorn Gewerbebau GmbH - Einkaufsmarkt in Obermenzing
+- TOP 14.2.2.: Deutsche Post AG - Information zum Thema "Filial-Umwandlungen" - Änderung im Filialnetz, hier: Eröffnung der Partnerfiliale in der Bauseweinallee 2a am 03.04.07
+- TOP 14.2.3.: Deutsche Stiftung Denkmalschutz - Bundespreis für Handwerk in der Denkmalpflege 2007
+- TOP 14.2.4.: EDEKA Südbayern - Anfrage wegen Neubauabsichten auf dem Areal Schrämelstraße 90
+- TOP 14.2.6.: Bezirksausschuss 9 Neuhausen - Nymphenburg - Antrag des Vereins cba Cooperative Beschützende Arbeitsstätten e.V. auf Gewährung eines Zuschusses für die Erhaltung von 108 Arbeitsplätzen für behinderte Menschen
+- TOP 14.2.7.: Firma Ottmann GmbH & C. Südhausbau KG - Ladenzentrum Menterstraße / Schrämelstraße (BA-Schreiben vom 01.02.07)
+- TOP 14.2.8.: Firma Baywobau Bauträger AG - Lebensmitteleinzelhandel in der Alten Allee (BA-Schreiben vom 08.02.07)
+- TOP 14.2.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2.10.: I.S.AR. München gGmbH - Informationen zur ambulanten betreuten Wohngemeinschaft
+- TOP 14.2.11.: Archiv der Münchner Arbeiterbewegung e.V. - Projekt "Nachbarn" anlässlich des 850. Stadtgründungsfestes im kommenden Jahr
+- TOP 14.2.12.: mfi - Management für Immobilien AG - Presseinformation zum Projekt "Pasing Arcaden"
+- TOP 14.2.13.: Waldorfkinderhaus Pasing in der Blumenau e.V. - Kurzbericht zum Bewilligungsbescheid der Landeshauptstadt München vom 20.10.06 über die Gewährung eines Zuschusses aus dem BA-Budget - Parksituation im Lobelienweg (BA-Schreiben vom 31.01.07)
+- TOP 14.2.14.: Initiative Pasing kooperiert - Projekt "Kultur im Stadtquartier", Kulturtage in Pasing-Obermenzing
+- TOP 14.2.15.: Green City e.V. - Podiumsdiskussion "Die Umweltzone kommt! Wem droht ein Fahrverbot?" am 15.03.07 um 18.:30 Uhr im Verkehrszentrum des Deutschen Museums, Theresienhöhe 14a
+- TOP 14.2.16.: BA 3 Maxvorstadt - Berichterstattung der Süddeutschen Zeitung über die Bürgerversammlung Maxvorstadt
+- TOP 14.2.17.: cba - Cooperative Beschützende Arbeitsstätten e.V. - Ergänzende Stellungnahme zum Antrag auf Gewährung eines Zu-schusses aus dem BA-Budget für die Erhaltung von 108 Arbeits-plätzen für behinderte Menschen
+- TOP 14.2.18.: DB Station & Service AG - Fahrradständer am Bahnhof München-Pasing
+- TOP 15.: Verschiedenes
+- TOP 15.1.: Nächste BA-Sitzungen am 27.03.2007 um 19.00 Uhr im Alten- und Service-Zentrum Obermenzing, Packenreiterstraße 48, und am 08.05.2007 um 19.00 Uhr im Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Straße 486
+- TOP 15.2.: Festveranstaltung anlässlich 100 Jahre Viktualienmarkt Pasing am Samstag, den 17.03.2007 von 11 bis 17 Uhr
+- TOP 3.2.1.: Orthstraße 17, 1 Lärche
+- TOP 14.2.5.: - Städt. Anwesen Scheurlinstraße 13 und 15
