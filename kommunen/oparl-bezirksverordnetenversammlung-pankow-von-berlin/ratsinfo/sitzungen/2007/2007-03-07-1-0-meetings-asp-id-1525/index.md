@@ -1,0 +1,82 @@
+# 5. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2007-03-07T17:30:00+01:00
+- Ende: 2007-03-07T21:50:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1525
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1525
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=25211
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - beantwortet
+- TOP 1.2: Geschäftliche Mitteilung - erledigt
+- TOP 1.3: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.9: Berufung der beratenden Mitglieder des Kinder- und Jugendhilfeausschusses der BVV für die VI. Wahlperiode. - gewählt
+- TOP 1.10: Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 des Baugesetzbuchs für das Gebiet "Teutoburger Platz" im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Mehr Sicherheit für Kinder am Teutoburger Platz - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: BürgerInnenfreundlicher Bezirk - Verbesserung der Öffentlichkeitsarbeit und des Informationsangebotes - vertagt
+- TOP 1.13: Schallschutz Damerowstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Ausbau der Malchower Straße (Ortsteil Heinersdorf) von Industriebahn bis Blankenburger Straße (2. Bauabschnitt) - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Schallschutzmaßnahmen Naherholungsgebiet Weißensee - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Städtebauliches Konzept für den ehemaligen Güterbahnhof Heinersdorf - vertagt
+- TOP 1.17: Gestaltung der Besprechungsräume Nr. 227 im Haus 6 und Nr. 411 im Haus 9 - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Parkverbot in der Pankgrafenstraße - vertagt
+- TOP 1.19: Danziger Straße umgestalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Zusammenleben im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Fortführung der Stadterneuerung im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Verbesserung des öffentlichen Raumes in den Sanierungsgebieten - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Parkplätze am Kollwitzplatz - beantwortet
+- TOP 1.24: Soziales und ökologisches Bauen durch Baugruppen fördern - Pilotprojekt Werneuchener Wiese (Fläche im Eigentum des Bezirks) - überwiesen
+- TOP 1.25: Botanischer Volkspark Blankenfelde - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Städtebaulicher Vertrag Prenzlauer Gärten - beantwortet
+- TOP 1.27: Tag der Spielplätze in Pankow einführen - überwiesen
+- TOP 1.28: Soziales und ökologisches Bauen durch Baugruppen fördern - Block 001 im Sanierungsgebiet Teutoburger Platz (Liegenschaftsfonds) - überwiesen
+- TOP 1.29: Widerspruchsstelle im JobCenter Pankow - beantwortet
+- TOP 1.30: Keine Privatisierung von Straßen und Plätzen - überwiesen
+- TOP 1.31: Kontrollen des Veterinär- und Lebensmittelaufsichtsamtes in Pankow - beantwortet
+- TOP 1.32: Denkmalschutzbericht erstellen! - überwiesen
+- TOP 1.33: Behindertenkonzeption - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Neuwahlen der Betroffenenvertretungen - überwiesen
+- TOP 1.35: Live Science Center im Ortsteil Buch - beantwortet
+- TOP 1.36: Erst prüfen, dann entscheiden! - überwiesen
+- TOP 1.37: Brücken bauen im Mauerpark - Erholung ohne Umwege - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Bericht zu den Sanierungszielen - überwiesen
+- TOP 1.39: 100 Bäume für Pankow - überwiesen
+- TOP 1.40: Geschichtsarbeit fortsetzen - überwiesen
+- TOP 1.41: Vision Zero - mehr Verkehrssicherheit für Pankow - überwiesen
+- TOP 1.42: Pankower Firmen sollen Patenschaften für Pankower Schulen übernehmen - überwiesen
+- TOP 1.43: Wahlplakatierung - saubere Laternen nach der Wahl - ohne Änderungen in der BVV beschlossen
+- TOP 1.44: Lage der Kinder in Pankow - überwiesen
+- TOP 1.45: Gedenktafel Damerowstraße - vertagt
+- TOP 1.46: Elektronische Zeiterfassungssysteme - überwiesen
+- TOP 1.47: Beflaggung des BVV-Saals - in der BVV abgelehnt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bauliche Mängel in der Kita "La Cigale" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Weitere Umsetzung des Lokalen Aktionplanes Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Erschließung Rangierbahnhof Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Partnerschaft mit dem Führungsunterstützungsregiment 38 beenden und Partnerschaft mit der 1. Kompanie des Wachbataillon im BmfV beginnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Planungsraumkonferenzen im Bezirk flächendeckend einführen und absichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Sportplatz Erich-Weinert-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Änderung der Sanierungsziele im Sanierungsgebiet Teutoburger Platz Schwedter Straße 37-40 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Schulwegsicherung für den Schulstandort 2 der Rudolf-Dörrier-Grundschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Schließung Postamt Conrad-Blenkle-Straße 1-3 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Lokaler Aktionsplan Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Einstellung des Verfahrens zur Aufstellung des Bebauungsplans XIX-35d Einschränkung des Geltungsbereichs für den Bebauungsplan XIX-35 und redaktionelle Berichtigung der Nummerierung in XIX-35b Einschränkung des Geltungsbereichs für den BebauungsplanXIX-35a Aufstellung des Bebauungsplans 3-11 zur planungsrechtlichen Sicherung des Life Science Centers im Bezirk Pankow, Ortsteil Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Weitere Umsetzung des Lokalen Aktionsplanes Pankow - Abschluss der Zielvereinbarung 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Pankower Aktionsplan gegen häusliche Gewalt - 1. Fortschreibung 2007-2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Änderung der Sanierungsziele für den Standort Kanzowstraße 13 und 14 im Sanierungsgebiet Helmholtzplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Änderung der Sanierungsziele im Sanierungsgebiet Helmholtzplatz für den Standort Pappelallee 40 - 44 und Lychener Str. 69 und 75/77 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Bericht aus dem Verwaltungsrat des Eigenbetriebes "Kindergärten NordOst" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
