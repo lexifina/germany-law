@@ -1,0 +1,6 @@
+# TOP 8.4: Antrag der St. Michael-Schule
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Uellendahl-Katernberg (2007-03-08)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/32160
