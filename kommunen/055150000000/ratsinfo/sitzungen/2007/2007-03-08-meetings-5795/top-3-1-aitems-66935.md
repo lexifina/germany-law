@@ -1,0 +1,8 @@
+# TOP 3.1: Jugendrat der Stadt Münster - Ergebnisbericht zu den Wahlen der Jugendforen
+
+- Sitzung: 21. Sitzung (2007-03-08)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/66935
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/36148
