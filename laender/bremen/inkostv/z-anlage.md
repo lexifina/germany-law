@@ -10,7 +10,7 @@ Nr. | Kostentatbestand | Kostensatz in EUR
 110.02 | Genehmigung zum Erwerb von Orden und Ehrenzeichen zu Sammlerzwecken | 54
 110.03 | Erteilung von Erlaubnissen für die Durchführung von nicht nach §§ 68 und 69 GewO festgesetzten Märkten oder marktähnlichen Veranstaltungen, insbesondere Flohmärkten an Sonn- und Feiertagen | 58 bis 1 150
 111 | Juristische Personen | 
-111.00 | Verleihung der Rechtsfähigkeit an einen Verein, Genehmigung zur Errichtung einer Stiftung | 115 bis 1 150
+111.00 | Anerkennung einer Stiftung, Verleihung der Rechtsfähigkeit an einen Verein | 115 bis 1 150
 111.01 | Genehmigung zur Änderung der Satzung eines Vereins oder einer Stiftung | 30 bis 575
 111.02 | Genehmigung zur Aufhebung einer Stiftung, zur Zusammenlegung von Stiftungen und zur Verlagerung des Sitzes einer Stiftung in das Land Bremen | 30 bis 350
 111.03 | Entziehung der Rechtsfähigkeit eines Vereins nach § 43 BGB | 58 bis 1 150
@@ -19,7 +19,9 @@ Nr. | Kostentatbestand | Kostensatz in EUR
 111.06 | Bescheinigung nach Nr. 111.05 bei im Durchschreibeverfahren hergestellten weiteren Ausfertigungen | 5
 111.07 | Prüfung nach § 12 Abs. 1 Satz 3 des Bremischen Stiftungsgesetzes | 58 bis 1 150
 111.08 | Prüfung der nach § 12 Abs. 2 Nr. 2 des Bremischen Stiftungsgesetzes eingereichten Unterlagen | 11,50 bis 230
-111.09 | Genehmigungen und Bescheinigungen für Stiftungen, die gemeinnützigen oder mildtätigen Zwecken im Sinne des Steuerrechts dienen | gebührenfrei
+111.09 | Anerkennungen, Genehmigungen und Bescheinigungen für Stiftungen, die gemeinnützigen oder mildtätigen Zwecken im Sinne des Steuerrechts dienen | gebührenfrei
+111.10 | Einsicht in das Stiftungsverzeichnis nach § 15 Abs. 2 Satz 2 des Bremischen Stiftungsgesetzes | gebührenfrei
+111.11 | Genehmigung nach § 18 Abs. 2 Satz 4 des Bremischen Stiftungsgesetzes | gebührenfrei
 112 | Namensänderungsrecht | 
 112.00 | Änderung oder Feststellung eines Familiennamens | 144 bis 1 150
 112.01 | Änderung des Vornamens | 40 bis 305
