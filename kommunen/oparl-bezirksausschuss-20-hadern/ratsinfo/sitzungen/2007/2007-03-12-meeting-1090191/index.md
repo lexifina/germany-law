@@ -1,0 +1,110 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2007-03-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1090191
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1090191
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkürzung des Taktes der Buslinie 167
+- TOP 1.2.: BAB A 96 Lindau - München, Lärmschutz an der Betriebsstrecke im Bereich Hadern
+- TOP 1.3.: Bauvorhaben Gräfelfinger Str. 128, Dachgeschossausbau und Balkonanbau
+- TOP 1.4.: Abholzung von alten Robinien in der Ossingerstraße
+- TOP 1.5.: Generelles Parkverbot in der Josef-Sterr-Straße und in der Rudolf-Zenker-Straße
+- TOP 1.6.: Einkaufszentrum Haderner Stern - Schilcher´s Bar
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Ringstr. 24, gem. Baumbestandsplan Nr. 1199
+- TOP 3.2.: Waldwiesenstr. 8 b, 1 Föhre
+- TOP 3.3.: Sonnenblumenstr. 48, 1 Fichte
+- TOP 3.4.: Würmtalstr. 72 c, 1 Fichte
+- TOP 3.5.: Hallgartenstr. 5, 1 Fichte
+- TOP 3.6.: Kornwegerstr. 40, 5 Blaufichten
+- TOP 3.7.: Sonnenblumenstr. 36, 1 Fichte
+- TOP 3.8.: Marchioninistr. 7, 1 Ahorn
+- TOP 3.9.: Buschrosenweg 22, 1 Birke
+- TOP 3.10.: Luzernenweg 8, 1 Kiefer
+- TOP 3.11.: Wastl-Witt-Str. 38, 1 Kiefer
+- TOP 3.12.: Neufriedenheimer Pl. 8, 1 Kiefer, 1 Fichte
+- TOP 3.13.: Pelargonienweg 64, gem. Baumbestandsplan Nr. 2312
+- TOP 3.14.: Wilhelm-Weitling-Str. 11-13, 3 Ahorn
+- TOP 3.15.: Immastr. 7, 1 Kiefer
+- TOP 3.16.: Tannenwaldstr. 12, 1 Fichte
+- TOP 3.17.: Ettenhoferstr .15 a, 1 Birke
+- TOP 3.18.: Krokusstr. 18, 1 Lärche
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Kornwegerstr. 40, 1 Blaufichte (Referat für Stadtplanung und Bauordnung, 06.02.07)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Verkehr
+- TOP 4.2.: UA Budget
+- TOP 4.3.: UA Jugend/Soziales
+- TOP 4.4.: UA Bau
+- TOP 4.5.: Kultur im Stadtquartier - Haderner Jugendkulturtag
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag der Spielkiste Blumenau e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 288,- ? (Direktorium, 06.02.07)
+- TOP 6.2.: Antrag des SV Sentilo Blumenau e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 3.803,70 ? (Direktorium, 15.02.07)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Verkehrsrechtliche Anordnung, Haderner Steg, gemeinsamer Geh- und Radweg (KVR, 21.12.06)
+- TOP 7.2.: Verkehrsrechtliche Anordnung, Guardinistr. 11-15, Nothkaufpl. 9, Seite Guardinistr. bis Barbierstr., Haltverbot (KVR, 19.12.06)
+- TOP 7.3.: Umstellung des Beteiligungsverfahrens der BA´s bei Baumfällungen (Direktorium, 08.02.07)
+- TOP 7.4.: Zweckentfremdung von Wohnraum, Großhaderner Str. 12 (Sozialreferat, 01.02.07)
+- TOP 7.5.: Öffentlicher Personennahverkehr in München (Referat für Stadtplanung und Bauordnung, 31.01.07)
+- TOP 7.6.: Aktuelle Daten zu Kinderkrippenplätzen in der LH München (Sozialreferat, 12.02.07, 23.02.07, 05.03.07)
+- TOP 7.7.: Zuwendung aus dem Budget des BA 20, Verwendungsnachweis, Streitschlichterhäuschen (Direktorium, 21.02.07)
+- TOP 7.8.: Budget der Bezirksausschüsse - Schreiben des Vereins cba (Direktorium, 23.02.07)
+- TOP 7.9.: Baumaßnahmen der Stadtwerke München GmbH, hier: Schröfelhofstr. g. Maenherstraße (SWM, 26.02.07)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Neubau eines Autofahrer-Fachmarktes mit Verkauf und Montage sowie 36 oberirdischen und 9 unterirdischen Kfz-Stellplätzen, Würmtalstr. 2 b (Referat für Stadtplanung und Bauordnung, 16.02.07)
+- TOP 8.2.: Veranstaltung auf dem Max-Lebsche-Platz, Circus Roberto vom 09.04.-15.04.07 und 06.10.-19.10.07 (KVR, 19.02.07)
+- TOP 8.3.: Veranstaltung auf dem Max-Lebsche-Platz, Flohmarkt des Kindergartens Ludwig-Wörl-'Weg 22 am 20.04.07 (KVR, 19.02.07)
+- TOP 8.4.: Erinnerungsverfahren, Unterhaltsarbeiten - Fahrbahnsanierung, Waldwiesenstr. 6-50 (Baureferat, 23.01.07) (vertagt aus 02/07)
+- TOP 8.5.: Veranstaltung auf dem Max-Lebsche-Platz, Stadtteilwoche Hadern 2007 vom 22.-29.06.07 (KVR vom 21.02.07)
+- TOP 8.6.: Verkehrsrechtliche Anordnung; Würmtalstraße, Anordnung einer Haltestelle Buslinie 268 (KVR, 22.02.07)
+- TOP 8.7.: Verkehrsrechtliche Anordnung, Kurzparkzone Gräfelfinger Str. 112-114; Großhaderner Str. 8 Seite Gräfelfinger Str, (KVR, 26.02.07)
+- TOP 8.8.: Erinnerungsverfahren; Sauerbruchstr. 48 gegenüber; Errichtung von Kurzzeitparkplätzen (Baureferat, 26.02.07)
+- TOP 8.9.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Saalburgstr. 4b (KVR, 07.03.07)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Gestaltung der Schwimmbadeintrittspreise für Kinder, Jugendliche und Familien (Referat für Arbeit und Wirtschaft, 29.01.07)
+- TOP 9.2.: Verlegung der Zeitungsständer vor das Grundstück Sauerbruchstr. 48 (Baureferat, 29.01.07)
+- TOP 9.3.: Grünanlage Guardinistr. / Großhaderner Str.; BA-Antrag Nr. 1596 vom 13.11.06 (Baureferat, 02.02.07)
+- TOP 9.4.: Eine weitere Haltestelle der Linie 268 in der Würmtalstraße; BA-Antrag Nr. 1712 vom 11.12.06 (MVG, 15.02.07)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Postdienstleistungen künftig aus privater Hand (Deutsche Post, 31.01.07)
+- TOP 10.2.: Jugendkulturtag am 23.06.07 (Bay. Versorgungskammer, 19.02.07)
+- TOP 10.3.: Jugendkulturtag am 23.06.07 (Würmtaler Hausverwaltungsges. mbH, 15.02.07)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Broschüre über die Bezirksausschüsse (2. Bürgermeisterin, 07.02.07)
+- TOP 11.2.: Antrag auf Gewährung eines Zuschusses für die Erhaltung von 108 Arbeitsplätzen für behinderte Menschen (cba, 17.01.07 und 19.02.07)
+- TOP 11.3.: Antrag auf Gewährung eines Zuschusses für die Erhaltung von 108 Arbeitsplätzen für behinderte Menschen, cba (BA 9, 13.02.07)
+- TOP 11.4.: Erhalt des Flyers "Kultur notiert" (Kultur notiert, 21.01.07)
+- TOP 11.5.: Dankschreiben zum Zuwendungsbewilligungsbescheid des Kindergarten St. Ignatius (Kindergarten St. Ignatius, 15.02.07)
+- TOP 11.6.: Podiumsdiskussion "Die Umweltzone kommt! Wem droht ein Fahrverbot?" am 15.03.07, 18.30 Uhr im Verkehrszentrum des Deutschen Museums
+- TOP 11.7.: Berichterstattung der SZ über die Bürgerversammlung Maxvorstadt (BA 3, 19.02.07)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 24.01.2007: Gesamtkonzept für P+R-Anlagen sowie B+R-Anlagen in München
+- TOP 12.1.: vom 15.02.2007: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 06.03.2007 Errichtung einer Lärmschutzwand entlang der BAB München - Lindau im Bereich Hadern ( Ziffer 1 des Antrags ) (abgelehnt)
+- TOP 12.2.: Beschluss des Bauausschusses vom 06.03.2007: Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen (abgelehnt)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kreisverwaltungsausschusses vom 13.02.2007: Entgelterhebung an P+R-Anlagen im Stadtgebiet, hier: Anpassung der P+R Parkpreise (Verteuerung der Tageskarte und der Streifenkarte auf 1,- ? bzw. 4,50 ? in Preisstufe 1)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsausschusses vom 31.01.07: Projektfortschrittsbericht 2006 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung" (betrifft nur die Kernzone innerhalb des Mittleren Rings)
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.02.07: 4. Bericht die der Beschlussvollzugskontrolle unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 31.12.2006, insbesondere Beteiligung im Netz, Verkehrsplanung Münchner Westen, Wohnraumversorgung
+- TOP 12.3.: Bekanntgabe in der Sitzung des Schulausschusses vom 28.02.2007: Realisierungswettbewerb, Neubau von 5 Kindertageseinrichtungen in Systembauweise, Bekanntgabe des Ergebnisses, insbesondere zu den Standorten Stiftsbogen I und II (Koopeinrichtung mit 2 Kindergarten- und 3 Krippengruppen sowie Kindertagesstätte mit 3 Kindergarten- und 2 Hortgruppen)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.1.: kein Eingang
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
