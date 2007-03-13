@@ -1,0 +1,53 @@
+# 25. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-03-13T17:09:00+01:00
+- Ende: 2007-03-13T20:34:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5831
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5831
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00246249.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erford
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Bennohaus - Bericht des Leiters Dr. Musholt -
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Entscheidungen
+- TOP 5.1: Verbesserung der Verkehrssituation im Einmündungsbereich Delpstraße/ Bonhoefferstraße - Anregung/Ant - einstimmig beschlossen
+- TOP 5.2: Straßenbenennung Prins-Claus-Straße - mehrheitlich beschlossen
+- TOP 5.3: Vorhabenbezogener Bebauungsplan Nr.: 467 Werlandstraße /Hammer Straße - einstimmig beschlossen
+- TOP 6: Anhörungen
+- TOP 6.1: Satzung zur Änderung der Hauptsatzung der Stadt Münster, Änderung Zuständigkeitsordnung - mehrheitlich abgelehnt
+- TOP 6.2: Städtische Bühnen Münster - Theatergastronomie - einstimmig beschlossen
+- TOP 6.3: Schillergymnasium, Erneuerung von naturwissenschaftlichen Fachräumen - einstimmig beschlossen
+- TOP 6.4: Parkhaus Alter Steinweg (Asche) - Antrag der CDU-Fraktion und der FDP-Fraktion an den Rat vom 12.06. - mehrheitlich abgelehnt
+- TOP 6.5: Entwurf Arbeitsprogramm Verkehrsplanung 2007 - 2008 - mehrheitlich geändert beschlossen
+- TOP 6.6: Münsteraner Stadtrundfahrten - einstimmig abgelehnt
+- TOP 6.7: Wartehallen und Haltestellenprogramm 2007 - einstimmig beschlossen
+- TOP 6.8: Kanalsanierung Kinderhauser Straße zwischen Jahnstraße und Meßkamp - einstimmig beschlossen
+- TOP 6.9: Weiterentwicklung der Bäderlandschaft in Münster - mehrheitlich geändert beschlossen
+- TOP 6.10: Münsteraner Kinder- und Jugendförderplan 2007 bis 2009 - Leitprinzipien und Handlungsempfehlungen - einstimmig beschlossen
+- TOP 6.11: Kommunaler Kinder- und Jugendförderplan 2007 bis 2009 - Teil 2: Förderung der Einrichtungen - mehrheitlich geändert beschlossen
+- TOP 6.12: Perspektiven der Hortentwicklung in Münster ab dem 01.08.2008 - einstimmig beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Jugendrat der Stadt Münster - Ergebnisbericht zu den Wahlen der Jugendforen - zur Kenntnis genommen
+- TOP 8: Anträge und Anfragen
+- TOP 8.1: Unterflurglascontainer am St. Josefs-Kirchplatz - eingebracht
+- TOP 8.2: Unterstellmöglichkeit auf dem Spielplatz an der Karl-Wagenfeld-Schule
+- TOP 8.3: Wiederherstellung der Einbahnstraßenregelung Lütke Gasse von der Königsstraße zur Aegidiistraße - eingebracht
+- TOP 8.4: Wiederherstellung des Kopfsteinpflasters auf der Rothenburg zwischen Aegidiistraße und Königsstraße - eingebracht
+- TOP 8.5: Ausnahmeregelungen für Bewohnerparkberechtigungen auf dem Domplatz - eingebracht
+- TOP 8.6: Neugestaltung im Bereich/Umfeld der Kreuzkirche - eingebracht
+- TOP 8.7: Gestaltung des Lambertibrunnen - eingebracht
+- TOP 8.8: Parkregelung auf dem Domplatz - eingebracht
+- TOP 9: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 9.1: Mülltonnen im Hansa- und Hafenviertel - zur Kenntnis genommen
+- TOP 9.2: Unterflurglascontainer am Hoppendamm/Ecke Scharnhorststraße - zur Kenntnis genommen
+- TOP 10: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 11: Verschiedenes
