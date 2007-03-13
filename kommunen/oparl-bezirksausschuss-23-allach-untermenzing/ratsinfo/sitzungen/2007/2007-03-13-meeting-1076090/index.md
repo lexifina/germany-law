@@ -1,0 +1,71 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2007-03-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1076090
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1076090
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Errichtung einer Kinderkrippe (Vertagung aus der letzten Sitzung)
+- TOP 1.2.: Schließung von Poststellen im Münchner Westen
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes; Widmung einer Teilstrecke der Herbert-Schober-Straße
+- TOP 4.2.: Vollzug des Bayerischen Straßen- und Wegegesetzes; Einziehung einer Teilstrecke der Krauss-Maffei-Straße
+- TOP 3: (E) Neue Teerdecke für die Auenbruggerstraße zwischen Pasinger Heuweg und Goteboldstraße Empfehlung Nr. 02-08 / E 00561 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 24.10.2006
+- TOP 5.: Anhörungen
+- TOP 5.1.: Baumaßnahme Allacher Straße
+- TOP 5.2.: Änderung der BA-Satzung Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung des Kommunalreferates Nrn. 1,7,11-13
+- TOP 5.3.: Durchgehender Rad- und Fußweg entlang der Goteboldstraße, Empf. Nr. 29 v. 16.11.04
+- TOP 5.4.: Menzinger Str. 85
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Budget der Bezirksausschüsse; Erfahrungsbericht 2006
+- TOP 8.2.: Budget der Bezirksausschüsse; Änderung und Ergänzung der Richtlinien
+- TOP 8.3.: Budget der Bezirksausschüsse - Schreiben des Vereins cba
+- TOP 8.4.: Kommunalwahl 2008 Bildung der Bezirksausschüsse für die Amtsperiode 2008-2014
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Grundstück Flurstück-Nr. 420/4, Gemarkung Untermenzing Nutzung des Grundstückes zur Errichtung eines Waldkindergartens
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Bauanträge (v. 05.-11.02.07; v. 12.-18.02.07; v. 19.-25.02.07)
+- TOP 11.2.: Vollzug der BaumschutzVO: - Schneider-Ulrich-Weg 7 1 Kiefer, 1 Fichten - Gruithuisenstr. 1 2 Fichten - Dachauer Str. 667 s. Baumbest.plan Nr. 2007-1631 - Dyroffstr. 3 3 Lärchen - Dyroffstr. 4 1 Pinie -Josef-Führer-Str. 11 s. Baumbest.plan - Eversbuschstr. 184 s. Baumbestandsplan Nr. 2006-31184
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 12.1.: Mitteilung über ein Grundstücksgeschäft, Josef-Führer-Str.
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Schaffung einer Jugendeinrichtung im Stadtbezirk 23, Antr. Nr. 1512 vom 10.10.06
+- TOP 14.2.: Datenblätter Kinderkrippen
+- TOP 14.3.: Genehmigung der Zweckentfremdung von Wohnraum - Hormayrstraße -Spiegelbergstraße - Mangstraße - Am Lochholz - Pasteurstraße
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Mobilfunk; Suchkreismeldung Untermenzing
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: Schreiben des BA 9 Neuhausen-Nymphenburg - Antrag auf Gewährung eines Zuschusses für die Erhaltung von 108 Arbeitsplätzen für behinderte Menschen
+- TOP 20.2.: BA 3 Maxvorstadt Berichterstattung der Süddeutschen Zeitung über die Bürgerversammlung Maxvorstadt
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Kreisverwaltungsausschuss vom 13.02.07 - Entgelterhebung an P+R Anlagen im Stadtgebiet, hier: Anpassung der P+R Parkpreise
+- TOP 22.2.: Beschluss der Vollversammlung vom 15.02.07: Münchner Wohnungsgesellschaften verpflichten sich dem Klimaschutz
+- TOP 22.3.: Ausschuss für Stadtplanung und Bauordnung vom 28.02.07 - Beschlussvollzugskontrolle (BVK); 4. Bericht der BVK unterliegenden Beschlüsse
+- TOP 22.4.: Bauausschuss vom 06.03.07 - Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen; Weiterführung des Antrags vom 12.03.04 - Zusatzfinanzierung für den Straßenunterhalt
+- TOP 22.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.07: - Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates / Zentrale - Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migartion - Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 22.6.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 20.03.07: - Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 23: Verschiedenes
+- TOP 23.1.: Schreiben des Archivs der Münchner Arbeiterbewegung e.V.
+- TOP 23.2.: Schreiben der cba Erhaltung von 108 Arbeitsplätzen für behinderte Menschen (vertagt aus der letzten Sitzung)
