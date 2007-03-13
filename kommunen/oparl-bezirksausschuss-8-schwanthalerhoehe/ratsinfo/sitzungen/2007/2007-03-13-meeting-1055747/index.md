@@ -1,0 +1,73 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2007-03-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1055747
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1055747
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Flohmärkte 2007 Hausgemeinschaft Sandtnerhof
+- TOP 4: Beschlüsse des BA 8
+- TOP 5: Anhörungen
+- TOP 5.1.: Helfer für Gottes kostbare Kinder Deutschland e.V. Versammlung am 25.10.07
+- TOP 5.2.: Änderung der BA-Satzung Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung des Kommunalreferats Nrn. 1, 7, 11 - 13
+- TOP 5.3.: Einziehung der Wegeverbindung durch den Georg-Freundorfer-Platz
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Erlass einer Erhaltungssatzung nach §172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 2 und 8
+- TOP 6.1.2.: Neubau einer Wohnanlage mit Tiefgarage Landsberger Str. 143
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Datenblätter Kinderkrippen
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.3.1.: Stand der Planungen zum Weltkindertag
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Parkraummanagement - Festlegen der 2. Priorität
+- TOP 6.4.2.: BAUMA 2007 Nutzung der Theresienwiese als dezentraler Parkplatz
+- TOP 6.4.3.: Radweg von Pasing zum Münchner Marienplatz Schreiben bA 21 Mit der Bitte um Unterstützung
+- TOP 6.4.4.: Vollzug des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung der LH München Erneute Behandlung aus 02/07
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Budget der BAs Erfahrungsbericht 2006
+- TOP 6.5.2.: Änderung und Ergänzung der Richtlinien für das Budget der BAs
+- TOP 7: Erledigungen
+- TOP 7.1.: Stadtweites Rauchverbot an und auf Spielplätzen Antrag Nr. 02-08 / B 1764 Schreiben der BAs
+- TOP 7.2.: Anfrage des BA bzgl diverser Vereinslokale im Stadtbezirk
+- TOP 7.3.: Vollzug des allg. Eisenbahngesetzes (AEG) Verlagerung von 15 kv-Anlagen im Bereich Arnulfpark
+- TOP 7.4.: BauR - Vollzug des Bayer. Straßen- und Wegegesetzes im 8. Stadtbezirk Widmung folgender Wegstrecken Hans-Fischer-Straße Carlamaria-Heim-Straße Oda-Schaefer-Weg August-Kühn-Straße Wugg-Retzer-Straße Karl-Spengler-Straße Sinti-Roma-Platz
+- TOP 7.5.: BauR - Vollzug des Bayer. Straßen- und Wegegesetzes im 8. Stadtbezirk Widmung folgender Wegstrecken Petra-Moll-Weg Hans-Dürrmeier-Weg Am Bavariapark
+- TOP 7.6.: Geschwindigkeitsbegrenzung und Überwachung vorallem in der Ridlerstraße Empfehlung Nr. 436 Zwischennachricht
+- TOP 7.7.: Verkehrszählungen im Westend Bürgerinnen und Bürger gestalten Ihre Stadt Antrag. Nr. 02-08 / B 01784
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Meldeliste vom 05.02. - 11.02.07 Erstantragsverfahren a) Fäustlestr. 7 b) Guldeinstr. 46
+- TOP 9.2.: Bauvorhaben der SWM Stichtag 26.02.07
+- TOP 9.3.: Meldeliste vom 12.02.,07 - 18.02.07 Erstantragsverfahren a) Schießstättstr. 4 b) Landsberger Str. 20
+- TOP 9.4.: Meldeliste vom 12.02.07 - 18.02.07 Tektur a) Kazmairstr. 37
+- TOP 9.5.: Baumaßnahmen der SWM Stichtag 12.02.07
+- TOP 9.6.: Meldeliste vom 19.02.-25.02.07 Erstantragsverfahren a) Ligsalzstr. 11
+- TOP 9.7.: Meldeliste 26.02.07 - 04.03.07 Erstantragsverfahren a) Kazmairstr. 30 b) Westendstr. 18 c) Ligsalzstr. 23
+- TOP 10: Verschiedenes
+- TOP 10.1.: Berichterstattung der SZ vom 10.11.2006 Treffen der BA-V am 20.11.06 Treffen der BAs mit dem OB 10.11.06 Schreiben BA 3 vom 19.02.07
+- TOP 10.2.: Schreiben cba vom 19.02.07
+- TOP 10.3.: Antrag CBA Schreiben des BA 9
+- TOP 10.4.: Kommunalwahl 2008 Bildung der BAs für die Amtsperiode 2008-2014
+- TOP 10.5.: Broschüre über die BAs
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: MSE - Kanalbau im Umgriff des BPlanes Nr. 1922a Nordumgehung Pasing
+- TOP 11.2.: KVR - Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 11.3.: KVR - Entgelterhebung an P+R Anlagen im Stadtgebiet hier: Anpassung der P+R Parkpreise
+- TOP 11.4.: BauR - Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und anderen zentralen Plätzen
+- TOP 11.5.: PlanR - Beschlussvollzugskontrolle 4. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung un der Vollversammlung des Stadtrates im Zeitraum 01.01.05 - 31.12.06
+- TOP 11.6.: PlanR - Magnetschwebebahn Hauptbahnhof - Flughafen (MSB)
+- TOP 11.7.: München - Der Wirtschaftsstandort Fakten und Zahlen 2007
+- TOP 11.8.: BauR - Zusatzfinanzierung für den Straßenunterhalt
+- TOP 11.9.: KVR - Unveränderte Fortführung von Gaststätten Theresienhöhe 7
+- TOP 11.10.: KVR - Filmaufnahmen Westendstraße 89, Ecke Ganghoferstraße
