@@ -1,0 +1,6 @@
+# TOP 0: Erhalt des BZA Norf (BNF130307-04983.doc)
+
+- Sitzung: Bezirksausschuss Norf (2007-03-13)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/104582
