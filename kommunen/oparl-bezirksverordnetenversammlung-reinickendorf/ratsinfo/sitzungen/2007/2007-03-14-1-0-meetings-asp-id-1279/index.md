@@ -1,0 +1,79 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2007-03-14T17:10:00+01:00
+- Ende: 2007-03-14T22:20:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1279
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1279
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=33447
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - (offen)
+- TOP 2: Einwohnerfragestunde - im Ausschuss abgelehnt
+- TOP 3: Konsensliste - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Mehr Sicherheit auf dem Schulweg zur Berta-von-Suttner-Oberschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Streichung von Mitteln für MAE und ABM in Reinickendorf - vertagt
+- TOP 6.2: "Reinickendorf in Berlin ganz oben" !? - vertagt
+- TOP 6.3: Regenrückhaltebecken in der Grünanlage Edelhofdamm ("Kaiserpark") - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Wahl der Patientenfürsprecher für die Krankenhäuser im Bezirk Reinickendorf gemäß § 26 Landeskrankenhausgesetz (LKG) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Einschulungsbereiche in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Kindergeldanträge in Bürgerbüros auslegen - erledigt
+- TOP 8.3: Hundekot ordnungsgemäß entsorgen - überwiesen
+- TOP 8.4: Namensschilder für Ordnungsamtsmitarbeiter - vertagt
+- TOP 8.5: Kleine Hermsdorfer Synagoge - Falkentaler Steig 16 - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Bessere Sicht für Schulkinder am Laurinsteig - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Verkehrsfluss an der Kreuzung Oranienburger Str. / Eichborndamm verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 8.8: Informationen für den Übergang an Oberschulen deutlich verbessern - vertagt
+- TOP 8.9: Ausstellung der Botschaft des Staates Israel "Ein Visum fürs Leben" - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Keine Reduzierung von Personal auf den Reinickendorfer S-Bahnhöfen - ohne Änderungen in der BVV beschlossen
+- TOP 8.11: Aufstellung von Feuerwehr-Absperrpfählen in der Auguste-Viktoria-Allee - vertagt
+- TOP 8.12: Verkehrszählung Auguste-Viktoria-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 8.13: Investitionsplanung 2007 bis 2011 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Missstände in Familien unter Beachtung der datenschutzrechlichen Bestimmungen weiterleiten - überwiesen
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Fertigen von Ausschussprotokollen - überwiesen
+- TOP 10.2: Mit Licht fahren - besser gesehen werden - überwiesen
+- TOP 10.3: Verkehrskonzept Tegel - überwiesen
+- TOP 10.4: Energiesparlampen als kommunaler Beitrag zum Klimaschutz - überwiesen
+- TOP 10.5: Anforderungsampel in Tegel - überwiesen
+- TOP 10.6: Das ausnahmslose Rauchverbot in öffentlichen Gebäuden vorbereiten - überwiesen
+- TOP 10.7: Auslegung im Internet - überwiesen
+- TOP 10.8: Barrierefreies Umsteigen am S-Bahnhof Waidmannslust - überwiesen
+- TOP 10.9: Computerkurse für Lehrer und Erzieher - überwiesen
+- TOP 10.10: Auch in Zukunft kein Bordell in Lübars - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: NEB-Insel - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: "Serenade am See" im Jahr 2007 - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Partnervertrag mit Umlandgemeinden - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Aufstellung eines Kaffeeautomaten im Rathaus Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Überarbeitung der Rubrik "Kulturleben" unter www.reinickendorf.de - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Vorsorgliche Schutzmaßnahme vor hochgradig allergenen Neophyten - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Umsetzung der FFH-Richtlinie der EU in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Mehr Energiesparlampen in öffentlichen Einrichtungen - überwiesen
+- TOP 10.19: Graphothek in "Lange Nacht der Museen" einbinden - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Beutelspender für Hundekot aufstellen - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Ausstattung in Reinickendorfer Polizeiabschnitten - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Straßenbahnen in Reinickendorf - überwiesen
+- TOP 11.3: Ampelschaltung an der Waldstraße/Ecke Siedelmeisterweg - überwiesen
+- TOP 11.4: Weiterer Zugang an S-Bahnhöfen Alt-Reinickendorf und Karl-Bonhoeffer-Nervenklinik - überwiesen
+- TOP 11.5: Ausstattung von Personal der ARGE Reinickendorf - überwiesen
+- TOP 11.6: Hunderettungstraining im Tegeler Forst - ohne Änderungen in der BVV beschlossen
+- TOP 12: Wie weiter mit dem Centre Bagatelle? - beantwortet
+- TOP 13: Illegaler Zigarettenhandel in Reinickendorf - zurückgezogen
+- TOP 14: Wie weiter mit der Cité Foch? - beantwortet
+- TOP 14.1: Berichterstattung über mögliche Neubebauung der Cité Foch - überwiesen
+- TOP 15: Sicherheit in der Cité Foch - überwiesen
+- TOP 15.1: Sicherheit in der Cité Foch - überwiesen
+- TOP 16: Reparaturarbeiten und Sanierungen an der U6 zwischen Kurt-Schumacher-Platz und Alt-Tegel - ohne Änderungen in der BVV beschlossen
