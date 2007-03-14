@@ -1,0 +1,6 @@
+# TOP 3: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Betriebsausschusses 1 (Ausschuss für Öffentliche Ordnung, Sport und Kultur) (2007-03-14)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: nein
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B1-14%7Czt_0%7C2
