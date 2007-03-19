@@ -1,0 +1,82 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2007-03-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1047159
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1047159
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Buslinie 175, Haltestelle an der Feldmochinger Str.
+- TOP 2.2.: Aufstellung spezieller Mülleimer mit Plastikbeuteln für Hundebesitzer in der Grünanlage Ohlauer Straße - <div>nach Antrag</div>
+- TOP 2.3.: Querungshilfe Pelkovenstr. i.H. Fa. Wöhrl
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Kompro-Haus
+- TOP 3.2.: Stadtteilkulturtage
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Künstlerische Gestaltung U-Bahnhof Moosacher St.-Martins-Platz - <div>siehe TOP 5.1</div>
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Gespräch mit Dekanat
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Parken nur für PKW in der Merseburger Straße - <div>nach Antrag</div>
+- TOP 4.2.: Straßenmarkierung Hanauer-, Dachauer Straße, Park- und Ride U-Bahnhof Westfriedhof - <div>nach Antrag</div>
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: (E) U-Bahn-Linie 3-Nord Baulos 2 (Baulos 3) Künstlerische Gestaltung des U-Bahnhofes Moosacher St.-Martins-Platz (und des U-Bahnhofes Moosach)
+- TOP 5.2.: Zuschuss aus dem Budget des BA 10: REGSAM: 11. Moosacher Stadteilkulturtage 2007 - <div>nach Antrag</div>
+- TOP 6.: Anhörungen
+- TOP 6.1.: Reduzierung der zulässigen Höchstgeschwindigkeit auf 50 km/h in der Max-Born-Straße zwischen Hanauer Straße und Feldmochinger Straße
+- TOP 6.2.: Parkraummanagement in München ? Festlegung der 2. Priorität
+- TOP 6.3.: Bauvorhaben Menzinger Str. 85
+- TOP 6.4.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 6.5.: Tag des offenen Denkmals
+- TOP 6.6.: Änderung der BA-Satzung, Katalog Kommunalreferat Tag des offenen Denkmals
+- TOP 6.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8.: Warenstellagen - <div>nach Antrag</div>
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Zulässigkeit des Radfahrens entgegen der vorgeschriebenen Fahrtrichtung in der Puchheimer Straße (vorerst abgelehnt)
+- TOP 7.2.: Bauvorhaben Dachauer Str. 507 (Aldi-Markt) (LBK schließt sich der Auffassung des BA an)
+- TOP 7.3.: Tiefgaragenausfahrt zwischen Torgauer Str. 15 und 17 (Halteverbote werden angeordnet)
+- TOP 7.4.: Sicherung des Fußweges zur Stadtwerkezentrale (Querungshilfen abgelehnt)
+- TOP 7.5.: Gestaltung der Bushaltestelle der künftigen Linie 175 an der Merseburger- / Anderna-cher- / Feldmochinger Straße (Buskap noch nicht möglich)
+- TOP 7.6.: Nutzung der Fläche an der Darmstädter- / Feichtmayrstr. (Minimierung der Belastung der Anwohner durch veränderte Nutzung durch das Baureferat)
+- TOP 7.7.: Reinigung in der Umgebung des Mc Donalds Restaurants Hanauer Straße (Umgriff wird vergrößert)
+- TOP 7.8.: Verkehrsleitsystem Olympiapark und BMW-Welt (ergänzende Wegweiser sind vorge-sehen)
+- TOP 7.9.: Gasleitungsarbeiten in der Feldmochinger Straße (Baustelle wird für den Festzug am 29.04. weitgehend geräumt)
+- TOP 7.10.: Wettbewerb für den Neubau des städtischen Steinlagers an der Schragenhofstraße (BA wird im Zuge der Stadtratsbefassung eingebunden
+- TOP 7.11.: Beleuchtung in der Trinkl-Siedlung (für weitergehende Beleuchtung auf den Privatwe-gen mit Dienstbarkeit sind die Eigentümer zuständig)
+- TOP 7.12.: Hundepoller Grünanlage Karl-Lipp-Straße
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Drehgenehmigung für Seydlitzplatz und Gärtner- / Ecke Feldmochinger Str. am 14.02.07
+- TOP 8.4.: Entgelterhebungen an P+R-Anlagen im Stadtgebiet
+- TOP 8.5.: 4. Bericht über die der Beschlussvollzugskontrolle unterliegenden Beschlüsse des Planungsausschusses und der Vollversammlung
+- TOP 8.6.: Fällungsgenehmigungen: 1. Allacher Str. 153 2. Weißenböckstr. 6 3. Weißenböckstr. 5-7
+- TOP 8.7.: Kommunalwahl 2008: Bildung der Bezirksausschüsse für die Amtsperiode 2008-2014
+- TOP 8.8.: Einsatz eines Simulatorwagens bei Geschwindigkeitsüberschreitungen in Tempo-30-Zonen
+- TOP 8.9.: Beseitigung von Schrotträdern
+- TOP 8.10.: Hortzuschuss St. Raphael
+- TOP 8.11.: Absolutes Halteverbot in der Koblenzer Str. vor den Anwesen 3 ? 7
+- TOP 8.12.: Zusatzfinanzierung für den Straßenunterhalt
+- TOP 8.13.: Baugenehmigung Pelkovenstr. 65
+- TOP 8.14.: Budget der Bezirksausschüsse: 1. Erfahrungsbericht 2006 2. Änderung und Ergänzung der Richtlinien
+- TOP 8.15.: Datenblätter Kinderkrippen
+- TOP 8.16.: Pächterwechsel 1. ?Postsportpark?, Franz-Mader-Str. 11 2. ?Bistro-Bar Moosbichl?, Rathgeberstr. 3 3. ?Allguth Tankstelle?, Georg-Brauchle-Ring 30 4. ?Sportpark Moosach?, Georg-Kainz-Str. 8
+- TOP 8.17.: Antrag auf Gewährung eines Zuschusses für die Erhaltung von 108 Arbeitsplätzen für behinderte Menschen
+- TOP 8.18.: Sozialreferat: Vollzug des Haushaltsplanes 2007 für den Bereich ?Förderung Freier Träger? 1. des Sozialreferates / Zentrale 2. des Amtes für Soziale Sicherung 3. des Stadtjugendamtes 4. des Amtes für Wohnen und Migration
+- TOP 8.19.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 8.20.: Veranstaltungen / Kooperationen des Kulturreferates im Februar 2007
+- TOP 8.21.: Verkehrsentwicklungsplan der Landeshauptstadt München
+- TOP 8.22.: Veranstaltungen im öffentlichen Raum
+- TOP 4: Anträge
