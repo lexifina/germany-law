@@ -1,0 +1,99 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2007-03-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1019858
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1019858
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Pilgersheimer Straße; Ausweitung eines Verkaufsladens; Bürgerschreiben vom 18.02.2007
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Kultur notiert e.V., für die Maßnahme: 6 gedruckte, kostenlose Ausgaben des Kulturflyers Kultur notiert in einem Jahr; Zuschuss zu den Druck- und Versandkosten; Budgetantrag bei allen 25 Bezirksausschüssen gestellt; Antragssumme je: 300,-- ?; Antrag vom 26.02.2007
+- TOP 3.1.: Antrag der cba, Cooperative Beschützende Arbeitsstätten e.V., auf Gewährung eines Zuschusses für die Erhaltung von 108 Arbeitsplätzen für behinderte Menschen ; Schreiben des BA 9 Neuhausen - Nymphenburg vom 13.02.2007
+- TOP 3.2.: Sachbericht und Verwendungsnachweis der Ökumenischen Sozialstation Giesing-Harlaching gGmbH vom 14.02.2007 bezüglich des gewährten Zuschusses i.H.v. 477,91 ? für die Maßnahme: 30-Jahr-Feier am 23.11.2006;
+- TOP 3.3.: Budget der Bezirksausschüsse; Änderung und Ergänzung der Richtlinien; Zuleitung des Direktoriums vom 26.01.2007
+- TOP 3.4.: Verwendungsnachweis des Kindergartens Hänsel & Gretel e.V. bezüglich des gewährten Zuschusses in Höhe von 9.873,-- ? für Brandschutzmaßnahmen; Hierzu Schreiben des Direktoriums vom 27.02.2007
+- TOP 3.5.: Sachbericht des Vereines zur Förderung der Waldorfpädagogik München-Harlaching e.V. bezüglich des gewährten Zuschusses in Höhe von 1.307,32? für die Maßnahme: Grundausstattung für Musikinstrumente
+- TOP 3.6.: Verwendungsnachweis des Münchner Konzertchor e.V. bezüglich des gewährten Zuschusses in Höhe von 1.000,--? für die Maßnahme: Oratorium in der Emmauskirche am 07.10.2006
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Parkraummanagement in München - Festlegung der 2. Priorität; Anhörung der Bezirksausschüsse zu einer Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung; Zuleitung des Referates für Stadtplanung und Bauordnung vom 26.02.2007 mit der Bitte um Stellungnahme.
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung bzw. Information über Eingriffe in den Gehölzbestand von öffentlichen und halböffentlichen Grün- und Freiflächen; Unterrichtung über das Fällen von Gefahrenbäumen; Schreiben des Baureferat Gartenbau vom 26.02.2007
+- TOP 3.2.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen in der Seybothstraße; Mitteilung vom 05.03.2007
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Zukunft des Kindergartens St. Franziskus in Untergiesing / Standortsuche; Empfehlung Nr. 02-08 / E 00615 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 05.10.2006; Realisierung eines Neubaus für den Kindergarten St. Franziskus / Birkenleiten 4 auf dem Candidplatz; BA-Antrags-Nr. 02-08 / B 01763 des Bezirksausschusses des Stadtbezirkes 18 vom 16.01.2007; Sitzungsvorlage Nr.: 02-08 / V 09362; Beschluss des Schulausschusses des Stadtrates vom 28.02.2007 (SB) (neutrale Erledigung)
+- TOP 3.2.: Einrichtung eines öffentlichen Schachplatzes an der Ecke Rotbuchenstraße / Kuntersweg / Am Bienenkorb (neben Pfarrei Hl. Familie); BA-Antrag Nr. 02-08 / B 01747 des BA 18 vom 19.12.2006; Antwortschreiben des Baureferates Gartenbau Unterhalt Südost mit Schreiben vom 22.02.2007 mit der Bitte um Rückmeldung
+- TOP 3.3.: Verschönerung und Ausbau des Kinderspielplatzes im Vollmarpark; BA-Antrags-Nr. 02-08 / B 01746 des Bezirksausschusses des Stadtbezirkes 18 - Untergiesing-Harlaching vom 19.12.2006; Antwortschreiben des Baureferates Gartenbau vom 26.02.2007 (neutrale Erledigung)
+- TOP 3.1.: Soziale Stadt Giesing; Sanierungsgebiet "Tegernseer Landstraße - Chiemgaustraße"; Jahresbericht des Quartiersmanagements; Zuleitung des Stadtteilladens Giesing vom 14.02.2007
+- TOP 3.2.: Weltkindertag geht an den 8. Stadtbezirk; Zuleitung der Kinderbeauftragten der Landeshauptstadt München vom 19.02.2007
+- TOP 3.3.: Zuschussnehmerdatei 2007; Vollzug des Haushaltsplanes 2007 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates/Zentrale; Beschlüsse des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.2007; 3.4.6.3.1 Sozialreferat Zentrale; Sitzungsvorlage Nr. 02-08 / V 09550 3.4.6.3.2 Amt für Soziale Sicherung; Sitzungsvorlage Nr. 02-08 / V 09500 3.4.6.3.3 Stadtjugendamt; Sitzungsvorlage Nr. 02-08 / V 09507 3.4.6.3.4 Amt für Wohnen und Migration; Sitzungsvorlage Nr. 02-08 / V 09531
+- TOP 3.4.: Aktueller Versorgungsgrad mit Kinderkrippenplätzen in den Stadtbezirken; Planungen Krippenplätze bis 2008; Zuleitung des Sozialreferates, Stadtjugendamt vom 05.03.2007
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Instandsetzung der Stützmauer / Hangabsicherung am Harlachinger Berg ( Tierpark Hellabrunn); Anhörung gemäß § 13 der Satzung für Bezirksausschüsse; Zuleitung des Baureferates vom 30.01.2007 mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 27.02.07)
+- TOP 3.1.: Antrag für eine Freischankfläche der Gaststätte "Zum Pilshahn" in der Otkerstraße; Zuleitung des Kreisverwaltungsreferates Bezirksinspektion Süd mit der Bitte um Stellungnahme
+- TOP 3.2.: Anhörungen zu Bauvorhaben
+- TOP 3.3.: Baumbestandspläne 3.5.4.3.1 Anwesen in der Naupliastraße; Anhörung vom 22.02.2007 3.5.4.3.2 Anwesen in der Fromundstraße; Anhörung vom 27.02.2007
+- TOP 3.4.: Empfehlung Nr. 02-08 / E 00616 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 05.10.2006; Bebauungsplan mit Grünordnung Nr. 10 a; Candidplatz; Sofortige Umsetzung der vorhandenen Pläne für die Gestaltung und Sicherung des Jugendspielplatzes am Candidplatz; Zuleitung des Referates für Stadtplanung und Bauordnung vom 01.03.2007 mit der Bitte um Stellungnahme
+- TOP 3.1.: Schönstraße, 10 Großflächentafeln im Format 18/1, beleuchtet, am Bauzaun, befristet auf die Dauer der Bauarbeiten; Stellungnahme des BA 18 zu o.g. Bauvorhaben vom 17.01.2007; Baugenehmigung; Schreiben des Referates für Stadtplanung und Bauordnung vom 15.02.2007 (negative Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: 4. Bericht über die der Beschlussvollzugskontrolle (BVK) unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 31.12.2006; Sitzungsvorlagen Nr. 02-08/V 09339; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.02.2007
+- TOP 3.3.: Kanalnetzsanierung; Mischwassersammler Links der Isar; Bauabschnitt - Spartentunnel Reichenbachbrücke; Ausführungsgenehmigung; Sitzungsvorlage Nr. 02-08 / V 09582; Beschluss des Stadtentwässerungsausschusses vom 06.03.2007 (SB)
+- TOP 3.4.: Zusatzfinanzierung für den Straßenunterhalt; 1. Straßenzustandsbericht; Antrag Nr. 02-08 / A 03179 von Frau Stadträtin Dr. Evelyne Menges vom 31.07.2006; 2. Straßenunterhalt nur noch ein Flickwerk ?; Ein nachlassender Straßenunterhalt nicht auf Kosten der Anlieger !; Antrag Nr. 02-08 / A 03210 von Herrn Stadtrat Dr. Reinhold Babor vom 22.08.2006; 3. Straßenunterhalt, Sonderprogramm; Antrag Nr. 02-08 / A 03463 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Heidemarie Köstler vom 17.01.2007; Sitzungsvorlage Nr. 02-08 / V 09581; Beschluss des Bauausschusses vom 06.03.2007 (SB)
+- TOP 3.5.: Instandsetzung der Straßenbrücke Chiemgaustraße im Zuge der Tegernseer Landstraße (McGraw Graben) im 17. Stadtbezirk Obergiesing und im 18. Stadtbezirk Untergiesing-Harlaching; Projektkosten (Ausführungskosten): 1.200.000 ?; Ausführungsgenehmigung; Sitzungsvorlage Nr. 02-08 / V 09642; Beschluss des Bauausschusses vom 06.03.2007 (SB)
+- TOP 3.6.: Neuer Ansprechpartner bei der Straßenplanung im Planungs- und Baubezirk Ost; Schreiben des Baureferat Tiefbau vom 01.03.2007
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO, Straßenfest Bürgervereinigung Maibaum Untergiesing e.V. auf dem Hans-Mielich-Platz am 01.05.2007 (06.05.2007); Zuleitung des Kreisverwaltungsreferates vom 21.02.2007 mit der Bitte um Stellungnahme
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 18, Untergiesing-Harlaching; Einrichtung eines ambulanten Obst- und Gemüseverkaufsplatzes Ort: Naupliastr./Ecke Griechenstraße (neben der Bushaltestelle an der Grünfläche); Sitzungsvorlage Nr. 02-08 / V 09698; Beschluss des Bezirksausschusses des Stadtbezirkes 18 vom 20.03.2007; Beschlussvorlage des Kreisverwaltungsreferates
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Icho-Fußgängerunterführung im 17. Stadtbezirk Obergiesing; Antwort auf Sachstandsanfrag vom 24.01.2007 des Bezirksausschusses 17 vom 21.02.2007
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Kommunalwahl 2008; Bildung der Bezirksausschüsse für die Amtsperiode 2008 - 2014; Schreiben des Direktoriums vom 15.02.2007
+- TOP 4.2.: Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen; Weiterführung des Antrags vom 12.03.2004; Antrag Nr. 02-08 / A 03059 vom 12.05.2006; Beseitigung von Schrotträdern Ziffer 3 des Antrages; BV - Empfehlung Nr. 02-08 / E 00370 des 2. Stdbz. am 11.05.2006; Sitzungsvorlage Nr. 02-08 / V 08886; Beschluss des Bauausschusses vom 06.03.2007 (SB)
+- TOP 4.3.: München. Der Wirtschaftsstandort. Fakten und Zahlen 2007; Broschüre des Referates für Arbeit und Wirtschaft
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
