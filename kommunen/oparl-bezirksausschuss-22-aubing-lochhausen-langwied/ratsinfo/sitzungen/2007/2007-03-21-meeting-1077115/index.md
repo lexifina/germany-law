@@ -1,0 +1,84 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2007-03-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1077115
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1077115
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Haltverbot Kunreuthstraße/ Ecke Riesenfeldstraße, Endstation der Buslinie 143 (vertagt aus 02/07)
+- TOP 2.2.: Antrag der Siedlervereinigung Dornier-Eigenheimer auf Bezuschussung zu Kosten Straßenfest
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Umgehende Entfernung der Verkehrsinsel in der Straße "Am Wasserturm"
+- TOP 4.2.: Bürgerversammlung zum Thema "Ausbau der Bodenseestraße-Unterführung auf 4,8 m unter der S 5 und S 6 im Zusammenhang mit dem Metro-Markt ins Gleisdreieck" (vertagt aus 02/07)
+- TOP 4.3.: Ausweisung der Straßenbegrenzungslinie in der Kronwinkler Straße zwischen Kastelburg- und Bergsonstraße
+- TOP 4.4.: Widmung der beiden parallel zueinander verlaufenden Fußwege, die die Streitberg- und die Riesenburgstraße in Verlängerung der Rothenfelser Straße verbinden
+- TOP 4.5.: Umsetzung der bereits geplanten Erweiterung des Aubinger Friedhofes
+- TOP 4.6.: Herstellung eines Gehweges im südlichen Zugangsbereich zwischen Wendeschleife Buslinie 57 und Aubinger Friedhof am Freihamer Weg
+- TOP 4.7.: Regelmäßige Reinigung der Abfallkörbe an den Bushaltestellen im 22. Stadtbezirk
+- TOP 4.8.: Sicherung der Steinmauer im neuen Kindergarten am Wasserturm mit einem Geländer
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: Veranstaltung in einer städt. Grünanlage, hier: Maifest, Grünanlage Waidachanger 7a (bei der Marienkapelle) am 01.05.07
+- TOP 6.3.: Errichtung von Radwege-Verbindungen zur Langwieder Seenplatte, BA-Antrag Nr. 1730 vom 20.12.06 (vertagt aus 02/07)
+- TOP 6.4.: Vollz. d. Bay. Naturschutzgesetzes; Novellierung der Naturdenkmalverordnung der LH München (vertagt aus 02/07)
+- TOP 6.5.: Bebauungsplan mit Grünordnung Nr. 1955 Colmdorfstraße (östlich), Bahnlinie München - Buchlohe (südlich), Pretzfelder Straße (nördlich) (vertagt aus 02/07)
+- TOP 6.6.: Veranstaltung auf Privatgrund, hier: Sommerfest Kaninchenzuchtverein Reußensteinstr. 14 am 07./08.07.07
+- TOP 6.7.: Abriss und Neubau des Kinderhauses am Westkreuz, Aubinger Straße 59, Träger: Spiellandschaft Stadt e.V.
+- TOP 6.8.: Tonnagebeschränkung in der Brunhamstraße
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Verlegung der Fernwärmeleitung in der Bodenseestraße, Schr. SWM vom 23.02.07
+- TOP 7.2.: Baumaßnahmen der Stadtwerke, Stichtag: 26.02.07, 05.03.07, 12.03.07
+- TOP 7.3.: Zweckentfremdung von Wohnraum, Hoheneckstr. 57, Schr. Sozialreferat vom 22.02.07
+- TOP 7.4.: S-Bahnhof Westkreuz; Errichtung eines barrierefreien Zugangs sowie Sanierung, Schr. BA 21 vom 16.02.07
+- TOP 7.5.: Budget des BA´s; Zuschuss für die Erhaltung von 108 Arbeitsplätzen, Schr. Direktorium vom 23.02.07 und Schr. cba vom 19.02.07
+- TOP 7.6.: Baufälle im 22. Stadtbezirk (v. 19.-25.02.07, v. 26.02.-04.03.07, v. 05.-11.03.07), Schr. Planungsreferat vom 26.02.07, 05.03.07, 12.03.07
+- TOP 7.7.: Berichterstattung der SZ über die Bürgerversammlung Maxvorstadt, Schr. BA 3 vom 19.02.07
+- TOP 7.8.: Umzug einer städt. Kindertagesstätte, hier: Am Aubinger Wasserturm 20 (alt); Rieneckerstr. 21 (neu), Schr. Schul- und Kultusreferat vom 20.02.07
+- TOP 7.9.: Daten Kinderkrippen, neuer Versorgungsgrad, Schr. Sozialreferat vom 23.02.07 und 05.03.07
+- TOP 7.10.: Protokoll Planungsrunde Neuaubing vom 01.02.07, Schr. Sozialreferat vom 22.02.07
+- TOP 7.11.: Wirtschafts-Info 2/07, Schr. Ref. f. Arbeit u. Wirtschaft vom 01.03.07
+- TOP 7.12.: Bewilligungsbescheid für Zuschuss aus dem Budget des BA 22, Antragsteller: GS an der Wiesentfelser Str., Schr. Direktorium vom 05.03.07
+- TOP 7.13.: Entsendung von Vertretern städtischer Fachreferate in BA-Sitzungen und andere Veranstaltungen der BA´s, Schr. Oberbürgermeister vom 15.02.07
+- TOP 7.14.: Planfeststellung nach § 18 AEG; Auflassung des Bahnübergangs in Bahn-Km 12,6 der Bahnstrecke München - Pasing - Buchlohe (5520) im Rahmen des Vorhabens "ESTW München Südwest", Schr. Planungsreferat vom 08.03.07
+- TOP 7.15.: Zweckentfremdung von Wohnraum, Mariabrunner Str. 68, Schr. Sozialreferat vom 08.03.07
+- TOP 7.16.: Zweckentfremdung von Wohnraum, Aufseßer Str. 5, Schr. Sozialreferat vom 14.03.07
+- TOP 7.17.: Zuwendung aus dem Budget des BA 22, Nichtbenötigter Zuschuss, Antragsteller: Refugio München, Schr. Direktorium vom 13.03.07
+- TOP 7.18.: Budgetmittel des BA´s, Übernahme von Druckkosten einer Seniorenzeitung, Schr. Direktorium vom 16.03.07
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Sanierung der S-Bahnhaltestelle Lochhausen, Schr. Ref. f. Arbeit u. Wirtschaft vom 22.02.07 zum BA-Antrag Nr. 1778 vom 17.01.07
+- TOP 8.2.: Erstmaliger Ausbau der Kronwinkler Straße zwischen Kastelburg- und Bergsonstraße, Schr. Baureferat vom 22.02.07 zum BA-Antrag Nr. 1633 vom 22.22.06
+- TOP 8.3.: Errichtung einer Skate-Anlage auf dem Gelände des ESV-Neuaubing, Schr. Schul- und Kultusreferat vom 16.02.07 zum BA-Antrag Nr. 1731 vom 20.12.06
+- TOP 8.4.: 30 km/h Geschwindigkeitsbeschränkung in der Brunhamstraße, Schr. KVR vom 09.03.07
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Vollversammlung vom 15.02.07 - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 1998 Bahnlinie München-Herrsching (südlich), Kravogelstr. (westlich), Stadtgrenze (nördlich), ehemaliges Gleislager ( östlich) - Entgelterhebung an P+R-Anlagen im Stadtgebiet, hier: Anpassung der P+R-Parkpreise
+- TOP 9.2.: Bauausschuss vom 06.03.07 - Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen - Zusatzfinanzierung für den Straßenunterhalt
+- TOP 9.3.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 20.03.07 - Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, des Amtes für Wohnen und Migration, des Amtes für Soziale Sicherung und "Kooperation mit freien Trägern" des Sozialreferates/Zentrale
+- TOP 9.4.: Kreisverwaltungsausschuss vom 13.03.07 - Veranstaltungen im öffentlichen Raum
+- TOP 9.5.: Gesundheitsausschuss vom 07.03.07 - Kinder- und Jugendgesundheit in München
+- TOP 9.6.: Ausschuss für Stadtplanung und Bauordnung vom 21.03.07 - EOF-Förderung - Dorfkern Aubing - Darstellung des Sachstandes - - Siedlungsschwerpunkt Freiham, Freiham Nord
+- TOP 9.7.: Verwaltungs- und Personalausschuss vom 07.03.07 - Beteiligungs- und Entscheidungsrechte der BA´s bie Standortfragen und Baumaßnahmen für Kindertagesstätten - Bildung der BA´s für die Amtsperiode 2008-2014
+- TOP 9.8.: Bauausschuss vom 27.03.07 - Aktion saubere Stadt, Öffentlichkeitskampagne und Maßnahmenkonzept - Bebauungsplan mit Grünordnung Nr. 1907 Bodenseestr. (südlich), Bahnlinie München - Herrsching (südlich), Bahnlinie München - Mittenwald (westlich), Paosostr. (nördlich) - Gleisdreieck Pasing -
+- TOP 9.9.: Kinder- und Jugendhilfeausschuss vom 20.03.07 - Perspektive München, Leitlinie Kinder- und Familienpolitik
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 18.04.2007, Gaststätte "Wienerwald", Limesstr. 63
