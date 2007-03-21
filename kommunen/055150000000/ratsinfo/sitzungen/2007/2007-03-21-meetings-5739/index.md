@@ -1,0 +1,52 @@
+# 19. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-03-21T18:43:00+01:00
+- Ende: 2007-03-21T21:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5739
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5739
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00246761.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge und Anregungen von Bezirksvertretungen und des Ausländer
+- TOP 2.1: Ein Haushalt für alle - Chancengleichheit bei der städtischen Ressourcenverteilung - einstimmig geändert beschlossen
+- TOP 2.2: Antrag der SPD-Fraktion an den Rat Nr. A-R/0008/2007 "Bessere Leistungen für Kinder und Eltern durc - einstimmig beschlossen
+- TOP 2.3: Antrag der Fraktionsgemeinschaft UWG/ödp ""Straßennamen in Münster-Städtepartnerschaft auch belegen¿ - einstimmig geändert beschlossen
+- TOP 2.4: Antrag der Fraktion Bündnis90/Die Grünen/GAL an den Rat Nr.: A-R/0005/2007 - einstimmig beschlossen
+- TOP 2.5: Anregung der Bezirksvertretung Münster-West - verwiesen
+- TOP 2.6: Antrag der Faktion Bündnis 90/Die Grünen/GAL an den Rat Nr. 0001/2007 "Parkraumkonzept für Fahrräder - mehrheitlich beschlossen
+- TOP 2.7: Landesmediengesetz - Anregung des Ausländerbeirates an den Rat der Stadt Münster - einstimmig beschlossen
+- TOP 3: Leistungsvereinbarungen in der Kinder- und Jugendhilfe - vertagt
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP -: Etat 2007
+- TOP 4: Zusammenführung der Arbeitsgemeinschaft Münster (AM) und Unterbringung des Sozialamtes (Standort - vertagt
+- TOP 5: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01. August 2007 - einstimmig beschlossen
+- TOP 6: Künftige Organisationsform des Tiefbauamtes - einstimmig beschlossen
+- TOP 7: Weiterentwicklung der Bäderlandschaft in Münster - mehrheitlich geändert beschlossen
+- TOP 8: Städtische Bühnen Münster
+- TOP 8.1: Bühnenbewirtschaftungsplan der Städtischen Bühnen Münster für die Spielzeit 2007/2008 Finanzplan - einstimmig beschlossen
+- TOP 8.2: Organisationsform der Städtischen Bühnen Münster - mehrheitlich beschlossen
+- TOP 8.3: Städtische Bühnen Münster - Theatergastronomie - einstimmig beschlossen
+- TOP 9: Vertragsverlängerung zur Teilübertragung von Sportfördermitteln mit dem Stadtsportbund Münster e. V. - einstimmig beschlossen
+- TOP 10: Entgeltordnung Stadtmuseum Münster, hier: Haus Rüschhaus - mehrheitlich geändert beschlossen
+- TOP 11: Jugendarbeitslosigkeit in Münster - Flankierende Maßnahmen der Jugendberufshilfe - einstimmig beschlossen
+- TOP 12: Münsteraner Kinder- und Jugendförderplan 2007 bis 2009 - Leitprinzipien und Handlungsempfehlungen - einstimmig beschlossen
+- TOP 13: Kommunaler Kinder- und Jugendförderplan 2007 bis 2009 - Teil 2: Förderung der Einrichtungen - mehrheitlich beschlossen
+- TOP 14: Benutzungs- und Gebührensatzung der Lehranstalt für pharmazeutisch-technische Assistenten/innen - mehrheitlich beschlossen
+- TOP 15: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2007 - mehrheitlich geändert beschlossen
+- TOP -: Vorbereitung sonstiger Ratsentscheidungen
+- TOP 16: Gründung der items project GmbH durch die Items GmbH (Items) - einstimmig beschlossen
+- TOP 17: Angebote zur Internationalisierung der städtischen Bildungslandschaft: - einstimmig beschlossen
+- TOP 18: Nutzungserweiterung der städtischen Kindertageseinrichtung "Normannenweg" (Gremmendorf) - einstimmig beschlossen
+- TOP 19: Perspektiven der Hortentwicklung in Münster ab dem 01.08.2008 - einstimmig beschlossen
+- TOP 20: Fortsetzung des Gemeinwesenprojektes "Wald und Heide" - einstimmig beschlossen
+- TOP 21: Fortschreibung des Handlungsprogramms zur Weiterentwicklung der kommunalen psychosozialen Versorgung - von der Tagesordnung abgesetzt
+- TOP 22: 1. Zusammensetzung der Kommission zur Förderung der Kommission zur Förderung der Integration von Men - einstimmig beschlossen
+- TOP 23: Verschiedenes
