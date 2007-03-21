@@ -1,0 +1,75 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2007-03-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1039172
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1039172
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Oberlichter U-Bahnhof Oberwiesenfeld, Schreiben des Baureferates
+- TOP 4.2.: Containerstandplatz Straßberger Straße, Ergebnisse der Ortsbesichtigung vom 31.01.2007
+- TOP 4.1.: Künftige Entwicklung und räumliche Versorgung der Grundschule an der Hanselmannstraße, Schreiben des Schul- und Kultusreferates
+- TOP 4.2.: Tag des offenen Denkmals am 09. September 2007, Schreiben der Deutschen Stiftung Denkmalschutz
+- TOP 4.3.: Projekt "Nachbarn" zum 850. Stadtgeburtstag der Landeshauptstadt München, Schreiben des Vereins "Archiv der Münchner Arbeiterbewegung e. V."
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Gewährung von Zuschüssen aus dem BA-Budget: a) Förderverein Alte St.Georgskirche Milbertshofen, Ausstellung "500 Jahre Alte St.Georgskirche" im April 2007 b) Milbertshofen in Aktion e.V., Aktionstag am 30.06.2007 c) Bewohnergemeinschaft Nordheide e.V., Druck einer Zeitung für das Neubaugebiet
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 11 Milbertshofen - Am Hart Widmung folgender Straßengesamtstrecken: Graslilienanger, Fingerkrautanger, Sandbienenweg (Beschluss des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart am 21.03.2007)
+- TOP 7.: Anträge
+- TOP 7.1.: Wildes Plakatieren an Straßenlaternen, Verkehrszeichen u.ä. (CSU-Fraktion im BA 11)
+- TOP 7.1.: Armut in Milbertshofen: Maßnahme 1 Milbertshofener Kinder dürfen nicht länger benachteiligt werden! - Raumprobleme an der Grundschule Hanselmannstraße dauerhaft lösen (CSU-Fraktion im BA 11)
+- TOP 7.1.: Verkehrssituation im Bereich Wegenerstr. 8-12 (Peter Titze) (vertagt aus der Sitzung am 14.02.2007)
+- TOP 7.2.: Verkehrssituation Gundelkoferstraße / Ecke Wachterstraße (Klaudia Blake) (vertagt aus der Sitzung am 17.01.2007)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a) Karlsbader Str. 4, zwei Fichten b) Hänflingweg 19 - 19a, eine Fichte
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Baumaßnahmen:
+- TOP 8.3.: Anhörung im Einzelfall auf Anforderung: a) Felsennelkenanger 10, Erhöhung der Zaunanlage auf 2m
+- TOP 8.4.: Vollzug des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung der Landeshauptstadt München (vertagt aus der Sitzung am 14.02.2007)
+- TOP 8.5.: Vollzug von §13 der BA - Satzung Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen): a) Schleißheimer Str. 305, fünf Plakatanschlagtafeln
+- TOP 8.6.: Parkraummanagement in München - Festlegung der 2. Priorität
+- TOP 8.1.: Veranstaltung auf öffentlichem Verkehrsgrund: a) Flohmarkt Pfarramt St. Georg auf dem Milbertshofener Platz am 14.04.2007 b) CSU Ortsverband Milbertshofen, Maifeier auf dem Milbertshofener Platz am 01.05.2007 c) Kirchenzug anl. 500 Jahre Alte St.Georgskirche am 22.04.2007 d) Fronleichnamsgottesdienst und Prozession am 17.06.2007 e) Jubiläumsstraßenfest Siedlergemeinschaft Kaltherberge auf dem Mettenleitnerplatz am 23.06.2007 f) "Milbertshofen in Aktion e.V. ", Aktionstag am 30.06.2007
+- TOP 8.2.: Antrag auf Genehmigung einer Warenstellage, Knorrstr. 59
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Budget der Bezirksausschüsse, Änderung und Ergänzung der Richtlinien
+- TOP 9.2.: Budget der Bezirksausschüsse, Erfahrungsbericht 2006
+- TOP 9.3.: Budget der Bezirksausschüsse, Abrechnungen: a) Kath. Pfarramt St. Lantpert, Konzerte im Herbst b) EB der GS Hildegard-von-Bingen-Anger, Kauf von Tischtennisplatten
+- TOP 9.4.: Zuständigkeitenverlagerung im Bereich "Sondernutzung", Änderung des Aufgabengliederungsplanes, Schreiben des Direktoriums
+- TOP 9.5.: Mitteilung über ein Grundstücksgeschäft
+- TOP 9.6.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.7.: Offener Brief, Frau R.-G. Münch
+- TOP 9.1.: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz (Beschluss der Vollversammlung des Stadtrates vom 15.02.2007)
+- TOP 9.2.: Zusatzfinanzierung für den Straßenunterhalt (Beschluss des Bauausschusses vom 06.03.2007)
+- TOP 9.3.: Beseitigung von verkehrsbehindernd abgestellten Fahrrädern und Schrottfahrrädern auf öffentlichen Verkehrsflächen (Beschluss des Bauausschusses vom 06.03.2007)
+- TOP 9.4.: Beschlussvollzugskontrolle (BVK), 4. Bericht (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.02.2007)
+- TOP 9.5.: Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB) (Beschluss des Asschusses für Stadtplanung und Bauordnung vom 28.02.2007)
+- TOP 9.6.: Gefahrenbäume
+- TOP 9.7.: Baumaßnahmen der Stadtwerke München
+- TOP 9.8.: Meldelisten Bauvorhaben
+- TOP 9.1.: Datenblätter Kinderkrippen
+- TOP 9.2.: Zuschussnehmerdatei 2007, Sozialreferat
+- TOP 9.3.: Unveränderte Fortführung von Gaststättenbetrieben a) SSW "Brillant Cafe", Knorrstr. 30 b) KG "Olympia-Imbiss", Helene-Mayer-Ring 6 c) SSW "Dick&Doof", Riesenfeldstr. 72
+- TOP 9.1.: Entgelterhebung an P+R Anlagen im Stadtgebiet (Beschluss des Kreisverwaltungsausschusses vom 13.02.2007)
+- TOP 9.2.: Veranstaltung auf öffentlichem Verkehrsgrund, Erlaubnisbescheid
+- TOP 9.3.: Verkehrsrechtliche Anordnungen nach §45 StVO
+- TOP 9.4.: Parkplatz des städtischen Lion-Feuchtwanger-Gymnasiums, Schriftverkehr
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
