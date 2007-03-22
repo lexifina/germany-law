@@ -1,0 +1,94 @@
+# 6. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2007-03-22T16:30:00+01:00
+- Ende: 2007-03-22T22:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1539
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1539
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=49640
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Einwohnerversammlung zur Straßenbenennungen in Rahnsdorf - in der BVV zurückgezogen
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI_4 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - erledigt
+- TOP 8.1: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Flughafen Schönefeld - beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 703) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Jugendfeuerwehr Friedrichshagen (SM 704) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Ev. Kirchengemeinde Rahnsdorf (SM 705) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für "Lichtblick" Selbsthilfegruppe Krebs (SM 706) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Redaktion der Köpenicker Seniorenzeitung - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Zivilschutzgelände Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Stellflächen für Werbetafeln - zurückgezogen
+- TOP 12.3: Anlegestelle für Kreuzfahrtschiffe - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Informationsveranstaltung zu Hartz IV - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Gefährdung der Radfahrer auf der Waltersdorfer Straße in Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Erhalt des Bahnhofpersonals an S-Bahnhöfen im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Kenntnisgabe aller Bezirksamts-Beschlüsse - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Behindertengerechter Zugang zum Ratskeller - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Radfahrstreifen in der Seelenbinderstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Sperrung der Straße zum Müggelturm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Informationsveranstaltung zur Investitionsplanung - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Sichere Überquerung des Adlergestells in Höhe Kablower Weg - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Kurzzeitparkplätze in der Buntzelstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Stellplatz für Krankentransporte - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Einrichtung einer bezirklichen ZAK - Zentrale Anlauf- und Koordinierungsstelle für Investoren und Unternehmen - innerhalb der Organisationseinheit (OE) Wirtschaftsförderung des Bezirksamtes Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Bebauungsplan XVI-11 ("Amtswäldchen") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.17: Bebauungsplan 9-30, ("Parkplatz Amtswäldchen") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Benennung der Straße 299 in "Azaleenstraße" - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Querungshilfe Schönefelder Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Sichere Überquerung der Bahnhofstraße in Höhe Parrisiusstraße in Köpenick - in der BVV abgelehnt
+- TOP 12.21: Rathaus Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Baumaßnahmen S-Bhf. Adlershof beschleunigen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-35 ("Magazine und Depots") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 14: Anträge - überwiesen
+- TOP 14.1: Ergänzung der Steganlagenkonzeption - überwiesen
+- TOP 14.2: Verstetigung des QM OSW - überwiesen
+- TOP 14.3: Parkplätze Wendenschloßstraße/Salvador-Allende-Straße - überwiesen
+- TOP 14.4: Planfeststellungsbeschluss für Straßenbahn verlängern - überwiesen
+- TOP 14.5: Keine Verwendung von Anglizismen bei Debatten und Vorträgen in der Bezirksverordnetenversammlung - in der BVV abgelehnt
+- TOP 14.6: Kontinuierliche Weiterführung des Projektes "Mellowpark" - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Attraktivität des Parkplatzes "Amtswäldchen" - überwiesen
+- TOP 14.8: Ruth-Werner-Promenade - überwiesen
+- TOP 14.9: Gefährdung der Radfahrer auf der Waltersdorfer Straße in Bohnsdorf (2) - überwiesen
+- TOP 14.10: Abstellmöglichkeiten für Fahrräder am Bahnhof Berlin-Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Benennung der Straße 330 in "Ingrid-Goltzsche-Schwarz-Straße" - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Sicherung von Kultureinrichtungen im Bezirk - überwiesen
+- TOP 14.13: Einrichtung einer Bushaltestelle - überwiesen
+- TOP 14.14: Kurzzeitparkplätze Adlershofer Tor - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Radverkehrsführung auf der Treskowbrücke - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Personal- und Finanzausstattung in gebundenen Ganztagsschulen verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Keine Konkurrenz fürs Allende-Center - überwiesen
+- TOP 14.18: Barrierefreier Zugang "Alte Schule" Adlershof - überwiesen
+- TOP 14.19: Straßenbenennungen in Rahnsdorf - überwiesen
+- TOP 14.20: Neuer Standort für "Cabuwazi" - überwiesen
+- TOP 14.21: Pendelstützen von Bahnbrücken für Stadtraumgestaltung nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.22: Verkehrsleitsystem für die Altstadt zügig umsetzen - überwiesen
+- TOP 14.23: Stand Städtepartnerschaften - überwiesen
+- TOP 14.24: Erinnerung an Rahnsdorfer Fährmänner durch Straßenbenennung - überwiesen
+- TOP 14.25: Verfahren zur Verleihung der Bürgermedaille - im Ältestenrat zurückgezogen
+- TOP 14.26: Verpflegung Rathaus Treptow - in der BVV zurückgezogen
+- TOP 14.27: Monatliches Informationsblatt für die Bürgerinnen und Bürger des Bezirks - in der BVV abgelehnt
+- TOP 14.28: Durchführung von Kinder- und Jugendveranstaltungen während der Treptower Festtage - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Einfluss des Bezirks auf die Arbeit des Jobcenters - vertagt
+- TOP 15.2: Gesundheitsdienstreformgesetz - beantwortet
+- TOP 15.3: Existenzvernichtung in der Altstadt Köpenick - beantwortet
+- TOP 15.4: Situation in den Bürgerämtern - beantwortet
