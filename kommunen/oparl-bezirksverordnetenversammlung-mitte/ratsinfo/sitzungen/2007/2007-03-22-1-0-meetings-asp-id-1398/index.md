@@ -1,0 +1,119 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2007-03-22T17:30:00+01:00
+- Ende: 2007-03-22T22:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1398
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1398
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=57308
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - gegenstandslos
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Kein Anschluss unter dieser Nummer? - beantwortet
+- TOP 5.2: WBM - Mieter schützen - beantwortet
+- TOP 5.3: Rotaprint als Atelierstandort erhalten - beantwortet
+- TOP 5.4: 50 Jahre Interbau im Hansaviertel - schriftlich beantwortet
+- TOP 5.5: Zur Kita Kastanienallee 63 - schriftlich beantwortet
+- TOP 5.6: Qualität und Quantität der Schulreinigung in den Wintermonaten - schriftlich beantwortet
+- TOP 5.7: Grünes Licht an der Invalidenstraße - schriftlich beantwortet
+- TOP 5.8: Steht die Kontrolle des Jugendschutzes in Gaststätten in Mitte nur auf dem Papier? - schriftlich beantwortet
+- TOP 5.9: Kunsthof Oranienburger Str. 27 - schriftlich beantwortet
+- TOP 5.10: BVG-Wartehaus am Hanne-Sobek-Platz - schriftlich beantwortet
+- TOP 5.11: Mittes Vorschläge für einheitliche Verwaltungsstrukturen in den Bezirken - schriftlich beantwortet
+- TOP 5.12: Bürgerbeteiligung Stephankiez 2007 - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Arbeitsfähigkeit des JobCenters - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: "Markt der sozialen Möglichkeiten" - beantwortet
+- TOP 7.2: Kein "Stadtumbau West" in Moabit-West? - beantwortet
+- TOP 7.3: Die Umweltzone: Gut gedacht - schlecht gemacht? - beantwortet
+- TOP 7.4: Schankvorgärten im öffentlichen Straßenland - schriftlich beantwortet
+- TOP 7.5: Einstieg in den öffentlich geförderten Beschäftigungssektor - schriftlich beantwortet
+- TOP 7.6: Mehr Kinder in den Kitas? - schriftlich beantwortet
+- TOP 7.7: Integration von gehörlosen und gehörgeschädigten Menschen in den Arbeitsmarkt durch das JobCenter Mitte (1) - schriftlich beantwortet
+- TOP 7.8: Sondernutzungsgenehmigung in der Kompetenz des Bezirks - schriftlich beantwortet
+- TOP 7.9: Unverantwortliche Politik verhindert "Verantwortliche Freier" - schriftlich beantwortet
+- TOP 7.10: Kein Geld und keine Zeit für Kinder in Mitte? - schriftlich beantwortet
+- TOP 7.11: Scientology auch in Mitte aktiv? - schriftlich beantwortet
+- TOP 7.12: Maßnahmeplanung 2007 im JobCenter Mitte - schriftlich beantwortet
+- TOP 7.13: Wohin führen im Bezirk Mitte die neuen Wege für Jungs? - schriftlich beantwortet
+- TOP 7.14: Missbrauch bei 1-Euro-Jobs - schriftlich beantwortet
+- TOP 7.15: Strategien, Konzepte und Ziele des Bezirksamtes für eine zukunftsfähige Entwicklung des Bezirkes Mitte hier: "Kageler Konvention 2007" (1) - schriftlich beantwortet
+- TOP 7.16: Barrierefreier Zugang zu den Bürgerämtern? - schriftlich beantwortet
+- TOP 7.17: BürgerInnenrufe verhallen im Bezirksamtswald!? (I) hier: Auguststraße 68 - Beteiligung gemäß Verfahren zur Änderung von Sanierungszielen im Zusammenhang mit Anträgen gem. § 144 (1) 1. Baugesetzbuch und zur Erarbeitung und Beschlussfassung von Blockkonzepten (Drs.-Nr. 319/IV aus BVV 09.11.2000 in Verbindung mit Schreiben der BV Spandauer Vorstadt vom 08.03.2007) - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl von Patientenfürsprecher/innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses gemäß § 35 KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Zusammenlegung der Schiedsamtsbezirke Mitte 3 und Mitte 4 zum Schiedsamtsbezirk Mitte 4 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses gemä § 35 KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Genehmigung der im Haushaltsjahr 2005 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: WBM-Mieter vor überzogenen Forderungen schützen - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Qualifizierte und umfassende Betreuung sicherstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Aussichtsrad mit stadtverträglichem Verkehrskonzept - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Unterlagen für Ausschussarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Anbringung von Erläuterungsschildern - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Öffentlicher Beschäftigungssektor - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Angebot von Kunst- und Trödelmärkten in Mitte im bisherigen Umfang erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Beflaggung anlässlich der Christopher-Street-Woche - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Bezirksamt in Verantwortung für die Gesellschaft - Mehr Ausbildungsplätze müssen her! - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Bezirkswerbung auf der ITB mit eigenem Messestand - überwiesen
+- TOP 12.8: Integration von gehörlosen und gehörgeschädigten Menschen in den Arbeitsmarkt durch das JobCenter (2) - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Kennzeichnung von Mitarbeiterinnen und Mitarbeitern des Ordnungsamtes - überwiesen
+- TOP 12.10: Schnelle Umsetzung des Humboldtforums mit Schlossfassade - überwiesen
+- TOP 12.11: Ausrichtung des Girls' Day im Bezirksamt Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Was kostet wo wie viel? - Die Berliner Hauptverwaltung im Kostenvergleich - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Sonder- oder Ausnahmeregelungen für das Moabiter "Meilenwerk" - erledigt
+- TOP 12.14: Eingaben und Beschwerden online ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Personalentwicklung im Bezirk Mitte / Mindeststandards der Personal und Finanzausstattung - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Integrationspreis der BVV Mitte mehr Substanz verleihen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.17: Sicherung des Energieeinsparpotentials bei der Gebäudesanierung - überwiesen
+- TOP 12.18: Fallmanagement Eingliederungshilfe I - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: (Rad)Bahnfrei in Mitte - Bezirkliche Möglichkeiten zur Förderung des Radverkehrs konsequent nutzen - überwiesen
+- TOP 12.20: Fallmanagement Eingliederungshilfe II - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Jobcenter Mitte: Qualifizierte Angebote für junge Menschen schaffen! - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: BVV-Sondermittel - in der BVV abgelehnt
+- TOP 13.3: Bürgerhaushalt Mitte Bestandteil der "neuen Kageler Konvention 2007" - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Gesamtkonzept Parkraumbewirtschaftung in Mitte umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Informationen zur Investitionsplanung 2007 - 2011 ins Internet - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Benennung von Straßen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Einzelhandelsmarkt in der Gartenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Preis "Familienfreundlicher Betrieb Mitte" (UnternehmerInnen-Preis Mitte) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.4: Transparenz II: Alle Angaben zum Liegenschafts- und Gebäudemanagement der BVV regelmäßig zur Verfügung stellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.5: Hinweis auf die Dauerausstellung "nicht misshandeln!" im 3.OG des Rathauses Tiergarten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Galerie Nord in das touristische Leitsystem aufnehmen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.7: Breite Beteiligung an der Wahl der Seniorenvertretung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Ampelschaltung für freie Fahrt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Wiedereinführung der Buslinie 187 durch Tiergarten-Süd - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Verkehrsschild am Lützowufer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Frauenbeirat Stadtplanung einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Militariahandel mit NS-Symbolen auf Trödelmärkten unterbinden! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.13: Verbleib des Sozialmedizinischen Dienstes und der Beratungsstelle für sexuell übertragbare Krankheiten sowie AIDS im Bezirk Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.14: Informationen über verdorbene Lebensmittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.15: Quartiersratswahlen mit verstärkter Bürgerbeteiligung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.16: Integrierte Handlungskonzepte der Quartiersmanagement-Gebiete Beusselstraße, Magdeburger Platz, Reinickendorfer-/Pankstraße, Soldiner Straße und Sparrplatz sowie der Stadtteilmanagement-Gebiete Ackerstraße Nord und Brunnenviertel - Fortschreibung 2006/2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.17: Geschäftsordnung des Beirates von und für Menschen mit Behinderung (Behindertenbeirat) Mitte von Berlin gem. Drittes Gesetz zur Änderung des Landesgleichberechtigungsgesetzes (LGBG) vom 19. Juli 2006, § 7 (5), (6) Mit der Konstituierung gibt sich derBehindertenbeirat eine neue Geschäftsordnung, in die die Gewährung des Sitzungsgeldes aufgenommen wird. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.18: Entwicklung und Verwendung von Stiftungsmitteln der Erika-Heß-Stiftung im Haushaltsjahr 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.19: Umsetzung eines bürgerfreundlichen Impulsmanagements im Bezirksamt Mitte, Bericht für den Berichtszeitraum 2005 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.20: Beschluss über das Ergebnis der Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB sowie die Durchführung der Behördenbeteiligung zum Bebauungsplanentwurf 1-42B gem. § 4 Abs. 2 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.21: Beschluss über das Anhörungsergebnis der Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB, der Behördenbeteiligung gem. § 4 Abs. 1 BauGB zum Entwurf des Bebauungsplanes 1-12, die Durchführung der Behördenbeteiligung gem. § 4 Abs. 2 BauGB für den Entwurf des Bebauungsplanes 1-12 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.22: Ergebnisse der Auswertung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 BauGB und der frühzeitigen Behördenbeteiligung gemäß § 4 Abs. 1 BauGB des vorhabenbezogenen Bebauungsplanverfahren 1-44VE zur Errichtung eines Aussichtsrades und eines neuen Wirtschaftshofes für den Zoo am Zoologischen Garten im Bezirk Mitte, Ortsteil Tiergarten und die Einbringung einer Vorlage - zur Kenntnisnahme - bei der Bezirksverordnetenversammlung - mit Abschlussbericht zur Kenntnis genommen
