@@ -1,0 +1,73 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-03-22T14:00:00+01:00
+- Ende: 2007-03-22T20:15:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2002
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2002
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111723.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111723.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111723.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Wiederwahl von Frau Beigeordneter Ulrike Löhr - mehrheitlich abgelehnt
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Akt. Anfr. Bü90: Naegeli-Graffito - zur Kenntnis genommen
+- TOP 6: Anfrage aktuell d. Rfr. Bü90/Grü: Ratinger Mauer - zur Kenntnis genommen
+- TOP 7: Anfragen - zur Kenntnis genommen
+- TOP 8: Anfr. CDU: Doppelstreifen - zur Kenntnis genommen
+- TOP 9: Anfr. CDU.: Finanzkompromiß Hartz IV - zur Kenntnis genommen
+- TOP 10: Anfr. Rh Mauersberger: Strukturfördermittel - zur Kenntnis genommen
+- TOP 11: Anfr. Kahl: Mahn- und Gedenkstätte - zur Kenntnis genommen
+- TOP 12: Anfr. Kahl: Frauenarmut - zur Kenntnis genommen
+- TOP 13: Anfr. FDP: Medienhafen - zur Kenntnis genommen
+- TOP 14: Anfr.. Rh Lbbg: Gebührenentwicklung - zur Kenntnis genommen
+- TOP 15: Anfr. Rh Lbbg: Kommunalwirtschaft - zur Kenntnis genommen
+- TOP 16: Anfrage Bü90/Grü: Verkehrsplanung Kö-Bogen - zur Kenntnis genommen
+- TOP 17: Anfrage d. Rh Karen Jungen:Verkehrsbel. Kö-Bogen - zur Kenntnis genommen
+- TOP 18: Anfrage d. Rfr. Bellstedt: Kosten Verkehr Kö-Bogen - zur Kenntnis genommen
+- TOP 19: DOR - mehrheitlich beschlossen
+- TOP 20: Anträge - zur Kenntnis genommen
+- TOP 21: Antrag SPD-Rfr.: Einwohnerfragestunde - mehrheitlich abgelehnt
+- TOP 22: Antr. Bü90: Quadriennale 2010 - mehrheitlich abgelehnt
+- TOP 23: Antr.:Bü90/Grü: Fußgängerzone Schadowstr. - verwiesen
+- TOP 24: Antrag d. Rfr.:Bü90/Grü: Sprachstandserhebungen - mehrheitlich abgelehnt
+- TOP 25: Antrag Rfr.Bü90/Grü: Auswirkungen des neuen GTK - mehrheitlich abgelehnt
+- TOP 26: Antr. Bü90: Klimafreundliche Veranstaltungen - mehrheitlich abgelehnt
+- TOP 27: ÄA Kahl u. Laubenburg: Klimafreundliche Veranst. - mehrheitlich abgelehnt
+- TOP 28: Antr. SPD: Jan-Wellem-Platz - mehrheitlich abgelehnt
+- TOP 29: ÄA Kahl u. Laubenburg:Jan-Wellem-Platz - mehrheitlich abgelehnt
+- TOP 30: Antr. SPD: Barrierefreiheit - zur Kenntnis genommen
+- TOP 31: Änderungsantrag Bü90/Grü: Barrierefreiheit - zur Kenntnis genommen
+- TOP 32: Antr. SPD: Jugendschutz
+- TOP 33: Benennung Paul-Spiegel-Platz - einstimmig beschlossen
+- TOP 34: Bekanntgabe der genehmigten üpl u apl. Ausgaben 06 - mehrheitlich beschlossen
+- TOP 35: Ausbau der Stichstraße Duderstädter Straßeneu
+- TOP 36: Masterplan Wassersport - Unterbacher See - einstimmig beschlossen
+- TOP 37: OGATA Gotenstr 20
+- TOP 38: Neubau für die Offene Ganztagsschule, der Räumlich
+- TOP 39: Ausbau Volmerswerther Straße
+- TOP 40: Fahrbahnsanierung Aachener Straße / Südring
+- TOP 41: Posener Straße 171-183, "Sanierung Sozialgebäude F - einstimmig beschlossen
+- TOP 42: Aufsichtsrat der Rheinbahn AG - mehrheitlich beschlossen
+- TOP 43: Ersatzwahl JHA - einstimmig beschlossen
+- TOP 44: Lokale Agenda - einstimmig beschlossen
+- TOP 45: Neuwahl von Schiedspersonen - einstimmig beschlossen
+- TOP 46: Beschlusskontrolle 1/2007
+- TOP 47: Bericht zur Umsetzung des Frauenförderplanes
+- TOP 48: Abwassersatzung - einstimmig beschlossen
+- TOP 49: Kommission Wehrhahn-Linie (Neufassung)
+- TOP 50: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 51: Satzungsbeschluss über die förmliche Festlegung - einstimmig beschlossen
+- TOP 52: Pl5476/114Denkm.Carlstadt,Erw. -Satzung - einstimmig beschlossen
+- TOP 53: FNP- Ä Nr. 134 - Am Hülserhof - mehrheitlich beschlossen
+- TOP 54: BPl 5682/014 -Am Hülserhof-Stell;Satz. - einstimmig beschlossen
+- TOP 55: B-Plan Nr. 5777/050 - Bruchstraße - einstimmig beschlossen
+- TOP 56: B-Plan Nr. 6079/04 - Nördlich Am Großen Dern - Sat - einstimmig beschlossen
