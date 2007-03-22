@@ -1,0 +1,7 @@
+# TOP 16: IX. Änderungssatzung zur Satzung der Stadt Solingen
+
+- Sitzung: Rat (2007-03-22)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/22216
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/659
