@@ -1,1 +1,1 @@
-# Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Staatsvertrag über die Regelung des Rundfunkgebührenwesens vom 23. Dezember 1969
+# Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Rundfunkgebührenstaatsvertrag vom 6. März 2007
