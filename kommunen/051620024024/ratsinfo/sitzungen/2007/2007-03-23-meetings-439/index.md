@@ -1,0 +1,56 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2007-03-23T16:08:00+01:00
+- Ende: 2007-03-23T19:44:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/439
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/439
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Verfahren Stadt Neuss ./. Kreiswerke Neuss GmbH
+- TOP 3: Einführung und Verpflichtung von Stadtverordneten
+- TOP 4: Genehmigung der Tagesordnung
+- TOP 5: Entwicklung eines Präventionskonzeptes (HA140307-04924.doc)
+- TOP 6: Ansiedlung eines IKEA-Marktes: Grundsatzbeschluss (HA 140307-04936.doc)
+- TOP 7: Neubau des Autobahnanschlusses Dormagen-Delrath - Stellungnahme der Stadt Neuss im Planfeststellungsverfahren
+- TOP 8: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 9: Antrag auf Aufstellung eines Bebauungsplans und Änderung des Flächennutzungsplans in Hoisten, Pilgrimstraße
+- TOP 10: Antrag auf Aufstellung eines Bebauungsplans für den Bereich Vogelsang, Bataverstraße / Niederdonker Weg
+- TOP 11: Einmünd. Franz-Heinz-Hohenschutz-/Lanzerather Str.
+- TOP 12: Umbau Johanna-Etienne-Straße, B-Plan 169/16 (Straßenbau, Beleuchtung) –Planvorlage, Ausbauprogramm- (BA150307-04838.doc)
+- TOP 13: Umbau Johanna-Etienne-Straße, B-Plan 169/16 (Kanalbau) (BA150307-04910.doc)
+- TOP 14: Struktur der Agenda-Foren, Bündnis 90
+- TOP 15: Flächennutzungsplanänderung Nr. 113 - Allerheiligen, Bau-/Heimwerker- und Gartenmarkt - - Aufstellungsbeschluss
+- TOP 16: Vorhaben- und Erschließungsplan Nr. V405/1 - Allerheiligen, Am Kirchenmorgen (Bau- und Gartenmarkt) - (Vorhaben bezogener Bebauungsplan) - Einleitungsbeschluss - Vorgaben für den Durchführungsvertrag
+- TOP 17: Neuwahl Delegierte (IR010307-04688.doc)
+- TOP 18: Neuregelung der Finanzierung Kindertagespflege
+- TOP 19: Heilpädagogisches Zentrum Kivitzbusch - Umbau in eine viergruppige Kindertageseinrichtung (JHA130307-04861.doc)
+- TOP 20: Trägerwechsel St. Albertus Neusser Landstraße
+- TOP 21: Kinderspielplatzprogramm 2007
+- TOP 22: Entgeltordnung Anpassung ab 2. Semester 07
+- TOP 23: Elternbeitragsregelung für die offene Ganztagsschule in Neuss ab dem Schuljahr 2007/2008 (SCH200307-05038.doc)
+- TOP 24: Offene Ganztagsschule Erfahrungsbericht Schuljahr 2006/2007 einschließlich Zusatzberichte zu OGS-Plus (SCH200307-05045.doc)
+- TOP 25: OGS Qualitätszirkel
+- TOP 26: Offene Ganztagsschule - Planvorlagen Barbaraschule Herbert-Karrenberg-Schule und Schule am Wildpark (SCH200307-05012.doc)
+- TOP 27: Benutzungsordnung für Schulhöfe der Stadt Neuss vom 12.11.1997 (SCH200307-05027)
+- TOP 28: Vertrag zur Finanzierung des Gymnasiums Marienberg und des Erzbischöflichen Berufskollegs Neuss, Abteilung Marienberg (SCH200307-05031)
+- TOP 29: Umwandlungsverfahren Friedrich-von-Bodelschwingh-Schule (Sch200307-05008.doc)
+- TOP 30: Gen. Dienstr. Arbeitsgespräche in Pskow
+- TOP 31: Jahresrechnung 2006 (RAT230307-04953.doc)
+- TOP 32: Galopp sucht mehr
+- TOP 33: „Dienstreisen mit Umweltabgaben“ (RAT230307-05050)
+- TOP 34: Entwicklung eines kommunalwirtschaftlichen Leitbildes (RAT230307-05060)
+- TOP 35: Einwohnerfragestunde
+- TOP 36: Bebauungsplan Nr. 436 - Pomona, Vossenacker Straße - - Auslegungsbeschluss
+- TOP 37: Erschließung Stichstraße Stingesbachstraße, B-Plan 109/2 (Kanalbau) (BA150307-04909.doc)
+- TOP 38: Wirtschaftsplan der Liegenschaften und Vermessung Neuss (LVN) für das Jahr 2007 (AWL210307-04940.doc)
+- TOP 39: Flächennutzungsplanänderung Nr. 110 - Pomona, Vossenacker Straße - - Auslegungsbeschluss
+- TOP 40: Einwohnerfragestunde
+- TOP 41: Erschließung Stichstraße Stingesbachstraße, B-Pläne 109 und 109/2 (Straßenbau, Beleuchtung) –Planvorlage, Ausbauprogramm- (BA150307-04908.doc)
+- TOP 42: „Galopp sucht mehr“ (RAT230307-05055.doc)
