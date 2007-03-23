@@ -1,0 +1,6 @@
+# TOP 6: Ansiedlung eines IKEA-Marktes: Grundsatzbeschluss (HA 140307-04936.doc)
+
+- Sitzung: Rat der Stadt Neuss (2007-03-23)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/111325
