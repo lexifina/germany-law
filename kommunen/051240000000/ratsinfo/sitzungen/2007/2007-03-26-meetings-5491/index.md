@@ -1,0 +1,72 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2007-03-26T15:02:00+02:00
+- Ende: 2007-03-26T17:56:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5491
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5491
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung des Rates der Stadt - Stand: 23.03.2007 - 09.30 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00079240.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00079407.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: telefonische Kommunikation bei Stromausfall - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Antwort auf WfW-Anfrage zur: telefonischen Kommunikation bei Stromausfall - abschließend zur Kenntnis genommen
+- TOP 2.2: Nachfragen zur Antwort der Verwaltung auf die große Anfrage "Überprüfung von sozialen Arbeitsangeleg - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Anfrage der FDP-Fraktion im Rat der Stadt - abschließend zur Kenntnis genommen
+- TOP 2.3: WSW-Demo - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Anfrage der FDP-Fraktion im Rat der Stadt Wuppertal vom 14.03.2007 - WSW Demo - abschließend zur Kenntnis genommen
+- TOP 2.4: Reform der Versorgungsverwaltung - vertagt auf Rat
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Verkehrsberuhigung im Bereich der Straße "Am Dönberg"
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Ausbildende Betriebe bei der Vergabe öffentlicher Aufträge bevorzugen - abgelehnt
+- TOP 4.2: Befreiung von Hundesteuer - abgesetzt
+- TOP 4.3: Aufstellungsbeschluss zum Denkmalbereich "Briller Viertel" - in der Sache erledigt
+- TOP 4.4: Konsequente Maßnahmen zum kommunalen Klimaschutz - jetzt! - abgelehnt
+- TOP 4.5: ARGE geförderte Sprachkurse im Anschluss an Integrationskurse - vertagen
+- TOP 4.6: Ergänzungsantrag zur Drucksache VO/0149/07 - ungeändert beschlossen
+- TOP 4.6.1: Umsetzung CO2-Minderungskonzept der Stadt Wuppertal - Erneuerbare Energie und BHKW - geändert beschlossen
+- TOP 4.7: Mit gutem Beispiel voran - Nichtraucherschutz bei Ratssitzungen - abgesetzt
+- TOP 4.8: Rückkauf der RWE-Anteile an der WSW AG - vertagen
+- TOP 4.9: Resolution gegen die Auflösung des Versorgungsamtes Wuppertal - vertagen
+- TOP 4.10: Resolution gegen die Änderung des Sparkassengesetzes - vertagen
+- TOP 4.11: Ratsresolution zur Novellierung des Gemeindewirtschaftsrechts, Reform des § 107 GO NW - geändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Bergische Zusammenarbeit - abgelehnt
+- TOP 5.2: Änderung des § 24 Abs. 5 Abfallwirtschaftssatzung - abgelehnt
+- TOP 6: Ortsrecht
+- TOP 6.1: Errichtung einer unselbständigen Stiftung - ungeändert beschlossen
+- TOP 6.2: Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen - geändert beschlossen
+- TOP 6.3: Aufhebung ungültig gewordener Vorschriften zum Ladenschlussrecht - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Umgestaltung der Kreuzung Neuenteich/Hofkamp und Umsetzung der Radwegeplanung Hofkamp/Hünefeldstr. - ungeändert beschlossen
+- TOP 7.2: Genehmigung der Haushaltsreste 2006 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 214 - Georg-Arends-Weg - - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 954 B - Döppersberg / Bundesallee - - ungeändert beschlossen
+- TOP 9.3: Neugestaltung Döppersberg - Beschluss der Entwurfsplanung - mit Aufträgen beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Integriertes Handlungskonzept Soziale Stadt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 11.2: Umwandlung einer Hauptschule zur gebundenen Ganztagshauptschule in erweiterter Form - ungeändert beschlossen
+- TOP 11.3: Festsetzung der Zügigkeit an den städtischen Gemeinschaftsgrundschulen ab dem Schuljahr 2008 / 2009 - geändert beschlossen
+- TOP 11.4: Entwicklung der Betreuungsansätze an Grundschulen nach Wegfall der 13Plus-Förderung des Ministeriums - ungeändert beschlossen
+- TOP 11.5: Strukturprogramm für das Bergische Städtedreieck- EU-Ziel 2-Förderung - ungeändert beschlossen
+- TOP 11.6: Chancengleichheit bei der Stadtverwaltung Wuppertal - 3. Fortschreibung des Frauenförderplanes - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bestellung der Vertreterinnen und Vertreter der Stadt Wuppertal für die Aufsichtsräte der im Rahmen - geändert beschlossen
+- TOP 12.2: Neubesetzung des Aufsichtsrates der BEG GmbH - geändert beschlossen
+- TOP 12.3: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.4: Gemeinsamer Antrag auf Einrichtung einer planungs- und baubegleitenden Kommission Döppersberg - geändert beschlossen
+- TOP 12.5: Umbesetzung Schulausschuss - abgelehnt
+- TOP 12.6: Umbesetzung von Ausschüssen - abgelehnt
+- TOP 12.7: Umbesetzung Ausschuss für Ordnung, Sicherheit und Sauberkeit - abgelehnt
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
