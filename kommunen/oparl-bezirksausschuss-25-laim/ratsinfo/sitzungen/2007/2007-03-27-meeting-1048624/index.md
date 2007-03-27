@@ -1,0 +1,82 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2007-03-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1048624
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1048624
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.3: Betreuungssituation an der Camerloher Grundschule / Teilnahme eines Vertreters
+- TOP 2: Anträge
+- TOP 2.1.: CSU-Fraktion: Einrichtung von Kurzparkplätzen an der Fürstenrieder Str. 82-84
+- TOP 2.2.: SPD-Fraktion: Umsetzung des Reutlinger Modells beim Aufbau von Ganztagesschulen
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 5.325 Euro für die Neugestaltung des Spielplatzes; Antragsteller: Kath. Pfarrei zu den hlg. zwölf Aposteln
+- TOP 3.2.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 550 Euro für eine Maifeier am 01.05.07; Antragsteller: Laimer Maibaumfreunde e. V.
+- TOP 3: Beschlussvorlage KVR: Beseitigung der Gefahrenstelle auf dem Radweg Agnes-Bernauer-Straße an der Kreuzung Ossietzkystraße stadteinwärts Empfehlung Nr. 02-08 / E 00617der Bürger- versammlung des 25. Stadtbezirkes Laim am 09.11.2006 - <div>Abweichung von Referentenvorl.</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 26.02.07: Johannes-Scharrer-Straße; Errichtung eines Haltverbotes
+- TOP 4.2.: Schreiben KVR vom 26.02.07: Lechfeldstraße; Errichtung eines Haltverbotes
+- TOP 4.3.: Schreiben Baureferat vom 22.02.07: Projekt Aindorferstraße
+- TOP 4.4.: Schreiben Baureferat vom 08.03.07: Instandsetzung der Friedenheimer Brücke Nord und Süd
+- TOP 4.5.: Schreiben Planungsreferat vom 14.03.07: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und vorhabensbezogener Bebauungsplan mit Grünordnung, Bezirkssportanlage Laim, westlich der Riegerhofstraße, südlich der Valpichlerstraße - Neubau private evang. Lukas-Schule mit Dreifachsporthalle und Vereinsräumen des ESV Laim - (Teiländerung des Beb.Pl.Nr. 431), Beschluss über die Einleitung eines Verfahrens zur Aufstellung eines vorhabensbezogenen Bebauungsplan mit Grünordnung gemäß § 12 BauGB
+- TOP 4.6.: Schreiben KVR vom 09.03.07: Osterfeuer am 08.04.07 auf dem Laimer Anger; Maiandacht am 22.05.07 in der Grünanlage St.-Ulrich-Straße; Fronleichnamsprozession am 10.06.07 mit Station am Laimer Anger
+- TOP 4.7.: Schreiben KVR vom 26.02.07: Einweihungsfeier des Kindergartens "Zu den hlg. 12 Aposteln" am 28.04.07; Veranstaltung in der Grünanlage an der Schrobenhausener Straße
+- TOP 4.8.: Schreiben KVR vom 09.03.07: Maifeier am 01.05.07 auf dem Laimer Anger
+- TOP 4.9.: Schreiben KVR vom 28.02.07: Flohmarkt am Spielplatz Von-der-Pfordten-Straße / Valpichlerstraße am 05.05.07
+- TOP 4.10.: Schreiben KVR vom 08.03.07: Bürgerfest auf dem Laimer Anger vom 20.07.-22.07.07
+- TOP 5: Baumfällungen
+- TOP 5.1.: Camerloherstr. 65: 1 Fichte
+- TOP 5.2.: Agnes-Bernauer-Str. 147 a: 1 Nadelbaum
+- TOP 5.3.: Hartelstr. 18: 1 Kiefer und 1 Fichte
+- TOP 6: Bauvorhaben
+- TOP 7: Sonstiges
+- TOP 8: Protokolle
+- TOP 8.1.: Sitzung des UA Soziales vom 22.02.07
+- TOP 8.2.: Protokoll der Sitzung des UA Kinder und Jugend vom 23.02.07
+- TOP 8.3.: Protokoll der BA-Sitzung vom 06.03.07
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben OB Ude vom 15.02.07: Entsendung von Vertretern städtischer Fachreferate in Bezirksausschusssitzungen und andere Veranstaltungen der Bezirksausschüsse
+- TOP 9.2.: Schreiben Direktorium vom 26.01.07: Budget der Bezirksausschüsse; Änderung und Ergänzung der Richtlinien
+- TOP 9.3.: Schreiben Direktorium vom 15.02.07: Kommunalwahl 2008; Bildung der Bezirksausschüsse für die Amtsperiode 2008-2014
+- TOP 9.4.: Schreiben Direktorium vom 07.03.07: Ablehnung einer beantragten Zuwendung aus dem Budget; Antragsteller: Grundschule Fürstenrieder Straße
+- TOP 9.5.: Schreiben Baureferat vom 13.03.07: Präsentation des Entwurfs zur Sanierung des Joergplatzes am 24.04.07
+- TOP 9.6.: Schreiben Schulreferat vom 06.03.07: Betreuungssituation der Erstklässler an der Camerloher Schule (Schreiben BA vom 21.02.07)
+- TOP 9.7.: Schreiben KVR vom 31.01.07: Aufhebung eines personenbezogenen Behindertenparkplatzes in der Saherrstraße
+- TOP 9.8.: Schreiben KVR vom 19.02.07: Landsberger Straße, Haltestelle bei Anwesen Nr. 185; verkehrsrechtliche Anordnung
+- TOP 9.9.: Schreiben KVR vom 02.03.07: Schulbushaltestelle Schrobenhausener Straße; Änderung der Zeitzusätze
+- TOP 9.10.: Schreiben Sozialreferat vom 23.02.07: Datenblätter Kinderkrippen
+- TOP 9.11.: Schreiben Sozialreferat vom 05.03.07: Datenblätter Kinderkrippen
+- TOP 9.12.: Schreiben Sozialreferat vom 06.03.07: Genehmigung der Zweckentfremdung von Wohnraum; Agnes-Bernauer-Straße
+- TOP 9.13.: Schreiben Referat für Arbeit und Wirtschaft vom 27.02.07: Broschüre "München. Der Wirtschaftsstandort. Fakten und Zahlen 2007"
+- TOP 9.14.: Schreiben Planungsreferat vom 27.02.07: Bauvorhaben Flantinstr. 12; Neubau eines Mehrfamilienhauses mit TG
+- TOP 9.15.: Bautenliste vom 19.02.-25.02.07 1. Erstantragsverfahren a) Landsberger Str. 314
+- TOP 9.16.: Schreiben Stadtwerke München GmbH vom 26.02.07: Baumaßnahmen der Stadtwerke; Stichtag: 26.02.07
+- TOP 9.17.: Schreiben Stadtwerke München GmbH vom 05.03.07: Baumaßnahmen der Stadtwerke; Stichtag: 05.03.07
+- TOP 9.18.: Schreiben Stadtwerke München GmbH vom 12.03.07: Baumaßnahmen der Stadtwerke; Stichtag: 12.03.07
+- TOP 9.19.: Schreiben Dr. Bernhard, Landtagsabgeordneter, vom 21.02.07: Spielhalle im "Beck-Haus" in München-Laim
+- TOP 9.20.: Schreiben BA 21 Pasing-Obermenzing vom 01.03.07: Keine wilden Autorennen auf der Willibaldstraße
+- TOP 9.21.: Beschluss der Vollversammlung vom 15.02.07: Entgelterhebung an P+R Anlagen im Stadtgebiet; hier: Anpassung der P+R Parkpreise (Sitzungsvorlagen Nr. 02-08 / V 09475)
+- TOP 9.22.: Beschluss des Bauausschusses vom 06.03.07: Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen; Weiterführung des Antrags vom 12.03.04 (Sitzungsvorlagen Nr. 02-08 / V 08886)
+- TOP 9.23.: Beschluss des Bauausschusses vom 06.03.07: Zusatzfinanzierung für den Straßenunterhalt (Sitzungsvorlagen Nr. 02-08 / V 09581)
+- TOP 9.24.: Beschluss des Gesundheitsausschusses vom 07.03.07: Kinder- und Jugendgesundheit in München (Sitzungsvorlagen Nr. 02-08 / V 09491)
+- TOP 9.25.: Beschluss des Verwaltungs- und Personalausschussus vom 07.03.07: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten (Sitzungvorlagen Nr. 02-08 / V 09703)
+- TOP 9.26.: Beschluss des Verwaltungs- und Personalausschusses vom 07.03.07: Bildung der Bezirksausschüsse für die Amtsperiode 2008-2014 (Sitzungsvorlagen Nr. 02-08 / V 9609)
+- TOP 9.27.: Beschluss der Kreisverwaltungsausschusses vom 13.03.07: Veranstaltungen im öffentlichen Raum (Sitzungsvorlagen Nr. 02-08 / V 09646)
+- TOP 9.28.: Beschluss der Vollversammlung vom 14.03.07: Magnetschwebebahn München Hauptbahnhof-Flughafen (MSB) (Sitzungsvorlagen Nr. 02-08 / V 09555)
+- TOP 9.29.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 20.03.07: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlagen Nr. 02-08 / V 09500)
+- TOP 9.30.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.07: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates / Zentrale (Sitzungsvorlagen Nr. 02-08 / V 09500)
+- TOP 9.31.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses vom 20.03.07: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlagen Nr. 02-08 / V 09531)
+- TOP 9.32.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.07: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlagen Nr. 02-08 / V 09507)
+- TOP 9.33.: Beschluss des Schulausschusses vom 21.03.07: Kindertagesstätte Riegerhofweg 5; Küchenzeile für jeden Gruppenraum; Empfehlung Nr. 28 der Bürgerversammlung des 25. Stadtbezirkes Laim vom 28.10.04 (Sitzungsvorlagen Nr. 02-08 / V 09539)
+- TOP 9.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.03.07: EOF-Förderung (Sitzungsvorlagen Nr. 02-08 / V 09648)
+- TOP 9.35.: Münchner Statistik, 3. Quartalsheft Jahrgang 2006
+- TOP 9.36.: Schriftverkehr aus der BA-Sitzung vom 06.03.07
+- TOP 1.2: Bürgerpost an den BA
