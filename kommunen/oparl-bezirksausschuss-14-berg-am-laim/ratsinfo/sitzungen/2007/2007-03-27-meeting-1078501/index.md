@@ -1,0 +1,93 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2007-03-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1078501
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1078501
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Neuerrichtung von 10kv-Anlagen im Bereich des ehemaligen BW Berg am Laim
+- TOP 3.1.: Errichtung einer Lichtzeichenanlage an der Truderinger-/Thomas-Hauser-Str.
+- TOP 3.2.: Lkw-Durchfahrtsverbot für Abschnitte der Baumkirchner-, Echardinger- und Josephsburgstr.
+- TOP 3.3.: Straßenausbaubeitragsfähige Verbesserungsmaßnahme Weihenstephaner Straße
+- TOP 3.4.: Parkraummanagement in München ? Festlegung der 2. Priorität
+- TOP 3.1.: Wanderbaumaufstellung in der Baumkirchner Straße
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Gotteszeller Str. - Umwandlung in Sozialwohnungen, Antrag UA Soz.
+- TOP 3.1.: Kultur notiert e.V. ? Antrag auf Zuschussgewährung
+- TOP 3.2.: Budget der Bezirksausschüsse ? Änderung und Ergänzung der Richtlinien
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Änderung der BA-Satzung ? Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung des Kommunalreferats
+- TOP 3.2.: Bewirtschaftung der Freifläche ?Großveranstaltungen? in der Kultfabrik
+- TOP 3.3.: Kasperltheater auf der Festwiese St.-Veit-Straße
+- TOP 3.4.: Anbringung und Betrieb von Leuchtreklamen in reinen Wohngebieten
+- TOP 3.5.: Veranstaltung der ?Kultikids? auf dem Piusplatz
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Projekt ?Rund um den Ostbahnhof? ? Stellungnahme des BA 5 zum Strukturkonzept
+- TOP 4.2.: ?Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt? Chancen und Perspektiven für Berg am Laim, Ramersdorf und Giesing Stadtsanierung in München am Mittleren Ring Südost A) Überprüfung der Handlungsbedarfe im Untersuchungsgebiet ?Ortskern Berg am Laim? B) Erweiterung des Sanierungsgebietes ?Innsbrucker Ring ? westlich?; neue Bezeichnung als Sanierungsgebiet ?Innsbrucker Ring/ Baumkirchner Straße? C) Sanierungsziele für die Teilbereiche ?Melusinenstraße? und ?Ortskern Berg am Laim? D) Organisatorische Erfordernisse zur Quartiersentwicklung Beauftragung der Münchner Gesellschaft für Stadterneuerung mbH (MGS) mit der Durchführung von Maßnahmen im Sanierungsgebiet ?Innsbrucker Ring/Baumkirchner Str.?
+- TOP 4.3.: Unterrichtung über Bauvorhaben im 14. Stadtbezirk
+- TOP 4.1.: Verkehrsentwicklungsplan ? Perspektive München
+- TOP 4.2.: Magnetschwebebahn München Hauptbahnhof ? Flughafen (MSB) A. Beschlusslage und Folgeaktivitäten B. Kosten- und Finanzierungsproblematik MSB C. Weiteres Vorgehen D. Bürgerversammlungsempfehlungen
+- TOP 4.3.: Weltmarktchancen des Transrapid
+- TOP 4.4.: Zusatzfinanzierung für den Straßenunterhalt
+- TOP 4.5.: Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen; Beseitigung von Schrotträdern
+- TOP 4.1.: 850. Stadtgeburtstag ? Leitfaden, Bürgerbeteiligung
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Planungsdaten des Schulreferats im Schul- und Kindertagesstättenbereich
+- TOP 4.2.: Kinder- und Jugendgesundheit in München - Aktuelle Schwerpunktsetzung und Handlungsbedarf - Ergebnisse der Einschulungsuntersuchungen 2004/2005 - Impfungen können lebenswichtig sein! Antrag Nr. 02-08 / A 03214 vom 29.08.2006
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Zuschussnehmerdatei 2007 Vollzug des Haushaltsplanes 2007 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates/Zentrale
+- TOP 4.1.: Staatspolitische Bildungsfahrt nach Berlin ? Bitte um Zuschussgewährung
+- TOP 4.2.: MAG´s & More e.V. ? Bescheid über Zuschussgewährung
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Natraj Temple ? Umzug in die Räume des ehem. Octagons bzw. Ultraschalls
+- TOP 4.2.: Taverne Odyssee ? Unveränderte Fortführung
+- TOP 4.3.: Abbruchantrag Sonnwendjochstraße
+- TOP 4.4.: Kommunalwahl 2008 ? Bildung der Bezirksausschüsse für die Amtsperiode 2008 - 2014
+- TOP 4.5.: Entsendung von Vertretungen städtischer Fachreferate in Bezirksausschusssitzungen und andere Veranstaltungen der Bezirksauschüsse
+- TOP 4.6.: Beschlussvollzugskontrolle (BVK) 4. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 31.12.2006 -Bekanntgabe-
+- TOP 4.7.: München. Der Wirtschaftsstandort. Fakten und Zahlen 2007
+- TOP 4.8.: Veranstaltungen im öffentlichen Raum
+- TOP 4.9.: Weltkindertag im 8. Stadtbezirk
+- TOP 4.10.: Widmung der Gesamtstrecke der Vinzenz-von-Paul-Straße
+- TOP 4.5.: Blombergstraße ? Unterrichtung über Antrag auf Baumfällung
+- TOP 4.6.: Halserspitzstraße ? Unterrichtung üb. Antrag auf Baumfällung
+- TOP 4.7.: Berg-am-Laim-Str. ? Unterrichtung ü. Antrag auf Baumfällung
+- TOP 4.8.: Kreillerstraße ? Unterrichtung über Antrag auf Baumfällung
+- TOP 4.9.: Schüleinplatz ? Unterrichtung über Antrag auf Baumfällung
+- TOP 4.10.: Seebrucker Str. - Baumfällbenachrichtigung
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
+- TOP 4.2.: Dornbergstraße ? Unterrichtung über Antrag auf Baumfällung
+- TOP 4.4.: Seebrucker Str. ? Unterrichtung über Antrag auf Baumfällung
