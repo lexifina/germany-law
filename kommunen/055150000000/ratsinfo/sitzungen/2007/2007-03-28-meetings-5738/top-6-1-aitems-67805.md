@@ -1,0 +1,7 @@
+# TOP 6.1: Auswirkungen von Sparmaßnahmen des Landes auf den Haushalt der Stadt Münster
+
+- Sitzung: 21. Sitzung (Etat) (2007-03-28)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/67805
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/36499
