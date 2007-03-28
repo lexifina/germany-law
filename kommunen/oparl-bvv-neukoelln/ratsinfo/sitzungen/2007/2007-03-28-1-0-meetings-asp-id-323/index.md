@@ -1,0 +1,99 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2007-03-28T17:10:00+02:00
+- Ende: 2007-03-28T22:40:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=323
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=323
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 1.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl einer stellvertretenden Bürgerdeputierten im Sozialausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Bebauungsplan 8-20 (Nahversorgungszentrum Britz) - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorzeitige Beendigung der Mandate als Bürgerdeputierte im Ausschuss für Naturschutz und Grünflächen und im Sozialausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.3: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.4: Berichte der Patientenfürsprecher für das Jahr 2006 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Sprengungen Kraftwerk Rudow - beantwortet
+- TOP 8.2: Schulleiterstelle vakant - in der BVV zurückgezogen
+- TOP 8.3: Fahrradabstellanlagen am U-Bahnhof Britz-Süd - beantwortet
+- TOP 8.4: Jugendschutzgesetz - beantwortet
+- TOP 8.5: Rauch- und Brandmeldeeinrichtungen in Seniorenfreizeitstätten, Seniorenwohnanlagen, Wohn- und Pflegeheimen - beantwortet
+- TOP 8.6: Sprachförderbedarf in Kitas - beantwortet
+- TOP 8.7: Einbürgerungen im Jahr 2006 - beantwortet
+- TOP 8.8: Jobcenter - beantwortet
+- TOP 8.9: Einmündungsbereich Lahnstraße/Naumburger Straße - beantwortet
+- TOP 8.10: Öffnungszeiten in Neuköllner Kindertagesstätten - beantwortet
+- TOP 8.11: Autoverkehr in der Hasenheide? - beantwortet
+- TOP 8.12: Sicherheitszaun Sonnenallee - schriftlich beantwortet
+- TOP 8.13: Konzept zum Flughafengelände - schriftlich beantwortet
+- TOP 8.14: Nutzungsgebühren für das Gemeinschaftshaus - schriftlich beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Sport- und investitionsfeindliches Neukölln!? - beantwortet
+- TOP 9.2: Nachnutzung des Flughafens Tempelhof - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Erziehungsauftrag annehmen oder Leistungen streichen - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Investitionsvorhaben der SimonGolfAcademy - in der BVV abgelehnt
+- TOP 9.5: Gleiche Regeln für alle! - überwiesen
+- TOP 9.6: Flexible Schulanfangsphase nur bei Freiwilligkeit - in der BVV abgelehnt
+- TOP 9.7: Für Religionsunterricht an Neuköllner Schulen - in der BVV abgelehnt
+- TOP 10: Beschlussempfehlungen - 1. Lesung - (offen)
+- TOP 10.1: Bürgerbeteiligung gem. § 41 Bezirksverwaltungsgesetz - mit Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen - 2. Lesung - (offen)
+- TOP 11.1: Verkehrslenkende Maßnahmen in der Köpenicker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Schwarzarbeit effektiv bekämpfen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Mehrgenerationenhaus für Neukölln - gegenstandslos
+- TOP 11.4: Eingeschränktes Haltverbot Hermannstraße 7-12 - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Absolutes Haltverbot auf der Neuköllner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Fahrradabstellanlage vor dem Jugendberatungshaus - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: 1. und 2. Klassen an Schulen mit sonderpädagogischem Förderschwerpunkt erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Trägerkarte zum Berlin-Ticket S auch für Schüler - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Verwaltungsaufwand - ohne Änderungen in der BVV beschlossen
+- TOP 12: Entschließungen - (offen)
+- TOP 12.1: Missglückte Sprengung des Heizkraftwerkes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Sprengung des Heizkraftwerks Rudow - beantwortet
+- TOP 13.2: Alkoholkonsum Jugendlicher in Neukölln - beantwortet
+- TOP 13.3: Umkonzeptionierung der Karl-Marx-Straße - beantwortet
+- TOP 13.4: NPD-Plakate - vertagt
+- TOP 13.5: Straßenausbau Alt-Rudow - vertagt
+- TOP 13.6: Psychosoziale Betreuung und Beratung Nr. 2 - vertagt
+- TOP 13.7: Werbung für Einbürgerungen - schriftlich beantwortet
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Seniorenvertretung stärken - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Sicherheitskonzept für die Schülerinnen und Schüler am ehem. Schulgebäude Christoph-Ruden-Straße - vertagt
+- TOP 14.3: Was kostet wo wie viel in der Hauptverwaltung? - vertagt
+- TOP 14.4: Überbrückungshilfe für Gewerbetreibende - überwiesen
+- TOP 14.5: NGA - Datenbank komplettieren - GRIS umsetzen - überwiesen
+- TOP 14.6: Neuköllns Schulen rauchfrei? - überwiesen
+- TOP 14.7: Keine künstliche Sonne für Jugendliche unter 18 - überwiesen
+- TOP 14.8: Keine Luxussanierung der Straße Alt-Rudow - vertagt
+- TOP 14.9: Sprechzeiten für "in Maßnahme befindliche" Erwerbslose - überwiesen
+- TOP 14.10: Psychosoziale Beratung - überwiesen
+- TOP 14.11: Ökologisch bauen in Neukölln - überwiesen
+- TOP 14.12: Energiesparlampen in Neuköllner Dienstgebäuden - überwiesen
+- TOP 14.13: Beschleunigte Rechtsprechung für jugendliche Straftäter - überwiesen
+- TOP 14.14: Bürokratieabbau - überwiesen
+- TOP 14.15: Fußgängerüberweg Wildenbruchstraße - überwiesen
+- TOP 14.16: Gegen Müllabladeplätze im öffentlichen Raum - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Sozialarbeiter an Schulen - überwiesen
+- TOP 14.18: Gesundheitliche Präventionskurse - überwiesen
+- TOP 14.19: Ampelschaltung am U-Bahnhof Karl-Marx-Straße - überwiesen
+- TOP 15: Mitteilungen - 2. Lesung - (offen)
+- TOP 15.1: Bürgerbeteiligungsverfahren diesmal mit Bürgern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - Schlussberichte - (offen)
+- TOP 16.1: Bezirkshaushaltsplan für die Jahre 2006/2007 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Jugendgewalt und Gewaltprävention in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Videoüberwachung im Bereich "Rudower Spinne" - mit Abschlussbericht zur Kenntnis genommen
