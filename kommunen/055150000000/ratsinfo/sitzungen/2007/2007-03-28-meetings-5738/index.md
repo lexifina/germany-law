@@ -1,0 +1,59 @@
+# 21. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-03-28T17:16:00+02:00
+- Ende: 2007-03-28T21:26:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5738
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5738
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00247107.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Begegnungszentrum Haverkamp
+- TOP 2.2: Finanzielle Ausstattung der VHS
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 6.1: Auswirkungen von Sparmaßnahmen des Landes auf den Haushalt der Stadt Münster
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Ausländerbeirates
+- TOP -: Beschlusspunkte zum Etat 2007
+- TOP 9: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2007 - mehrheitlich beschlossen
+- TOP 10: Zusammenführung der Arbeitsgemeinschaft Münster (AM) und Unterbringung des Sozialamtes (Standort - mehrheitlich beschlossen
+- TOP 11: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01. August 2007 - einstimmig beschlossen
+- TOP 12: Künftige Organisationsform des Tiefbauamtes - einstimmig beschlossen
+- TOP 13: Erweiterung Zentrum Kinderhaus - mehrheitlich beschlossen
+- TOP 14: Parkhaus Alter Steinweg (Asche) - Antrag der CDU-Fraktion und der FDP-Fraktion an den Rat vom 12.06. - mehrheitlich beschlossen
+- TOP 15: Weiterentwicklung der Bäderlandschaft in Münster - mehrheitlich beschlossen
+- TOP 16: Städtische Bühnen
+- TOP 16.1: Bühnenbewirtschaftungsplan der Städtischen Bühnen Münster für die Spielzeit 2007/2008 Finanzplan - einstimmig beschlossen
+- TOP 16.2: Organisationsform der Städtischen Bühnen Münster - mehrheitlich beschlossen
+- TOP 17: Vertragsverlängerung zur Teilübertragung von Sportfördermitteln mit dem Stadtsportbund Münster e. V. - einstimmig beschlossen
+- TOP 18: Entgeltordnung Stadtmuseum Münster, hier: Haus Rüschhaus - mehrheitlich beschlossen
+- TOP 19: Jugendarbeitslosigkeit in Münster - Flankierende Maßnahmen der Jugendberufshilfe - einstimmig beschlossen
+- TOP 20: Münsteraner Kinder- und Jugendförderplan 2007 bis 2009 - Leitprinzipien und Handlungsempfehlungen - einstimmig beschlossen
+- TOP 21: Kommunaler Kinder- und Jugendförderplan 2007 bis 2009 - Teil 2: Förderung der Einrichtungen - mehrheitlich beschlossen
+- TOP 22: Benutzungs- und Gebührensatzung der Lehranstalt für pharmazeutisch-technische Assistenten/innen - mehrheitlich beschlossen
+- TOP -: Sonstige Beschlusspunkte
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Satzung zur Änderung der Hauptsatzung der Stadt Münster, Änderung Zuständigkeitsordnung - mehrheitlich beschlossen
+- TOP 25: Gründung der items project GmbH durch die items GmbH (items) - einstimmig beschlossen
+- TOP 26: Angebote zur Internationalisierung der städtischen Bildungslandschaft: - einstimmig beschlossen
+- TOP 27: Nutzungserweiterung der städtischen Kindertageseinrichtung "Normannenweg" (Gremmendorf) - einstimmig beschlossen
+- TOP 28: Perspektiven der Hortentwicklung in Münster ab dem 01.08.2008 - einstimmig beschlossen
+- TOP 29: Fortsetzung des Gemeinwesenprojektes "Wald und Heide" - einstimmig beschlossen
+- TOP 30: 1. Zusammensetzung der Kommission zur Förderung der Kommission zur Förderung der Integration von Men - einstimmig beschlossen
+- TOP 31: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 31.1: Kosten senken, Service verbessern - Optimierung der Verwaltungsabläufe im Konzern Stadt - verwiesen
+- TOP 31.2: Preiswertes Wohnen in der City - - verwiesen
+- TOP 31.3: ICB als Münsteraner Forschungsadresse neu aufstellen - verwiesen
+- TOP 31.4: Älter werden in Münster - verwiesen
+- TOP 32: Verschiedenes
