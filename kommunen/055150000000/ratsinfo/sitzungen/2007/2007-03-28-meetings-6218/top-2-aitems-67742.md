@@ -1,0 +1,8 @@
+# TOP 2: Beschwerde gemäß § 24 der Gemeindeordnung Nordrhein-Westfalen
+
+- Sitzung: 20. Sitzung (2007-03-28)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/67742
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/36454
