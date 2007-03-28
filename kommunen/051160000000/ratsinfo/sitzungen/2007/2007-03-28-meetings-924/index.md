@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2007-03-28T15:00:00+02:00
+- Ende: 2007-03-28T19:30:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/924
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/924
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022191.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022191.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022191.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die Sitzung des Rates - Zur Kenntnis genommen
+- TOP 2: Niederschrift über die Sitzung des Rates am 07.02. - Zur Kenntnis genommen
+- TOP 3: 37. NT Entwäss./37. NT Kanal - Einstimmiger Beschluss
+- TOP 4: Laubenbaudarlehen 2007 - Einstimmiger Beschluss
+- TOP 5: Beteiligung der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 6: Beteiligung der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 7: Brandschutzsanierung in der Stadthalle Rheydt - Kenntnisnahme
+- TOP 8: Gebühren für den Rettungsdienst - Einstimmiger Beschluss
+- TOP 9: Öffentlicher Rettungsdienst - Notfallrettung - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 10: Verordnung über das Offenhalten v. Verkaufsstellen - Mit Stimmenmehrheit beschlossen
+- TOP 11: Ordnungsbehördliche Verordnung - Mit Stimmenmehrheit beschlossen
+- TOP 12: Ordnungsbehördliche Verordnung - Mit Stimmenmehrheit beschlossen
+- TOP 13: Ordnungsbehördliche Verordnung 6. Mai 2007 - Mit Stimmenmehrheit beschlossen
+- TOP 14: Vierter Nachtrag Parkgebührenordnung - Mit Stimmenmehrheit beschlossen
+- TOP 15: Umgestaltung der GGS Mülfort-Dohr in eine OGS - Mit Stimmenmehrheit beschlossen
+- TOP 16: OGS GGS Am Ringerberg - Kenntnisnahme
+- TOP 17: Ganztagshauptschulen - Einstimmiger Beschluss
+- TOP 18: Neubau OGS-Räume Montessori-GS - Einstimmiger Beschluss
+- TOP 19: 170. Änderung des Flächennutzungsplanes - Mit Stimmenmehrheit beschlossen
+- TOP 20: 1. Änderung des Bebauungsplanes M Nr. 300 - Mit Stimmenmehrheit beschlossen
+- TOP 21: Bebauungsplan Nr. 612/I - Stadtbezirk Rheindahlen - Mit Stimmenmehrheit beschlossen
+- TOP 22: Bebauungsplan Nr.661/VII - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 23: Einrichtung einer sechsten Gesamtschule - Mit Stimmenmehrheit abgelehnt
+- TOP 24: 2. OGATA-Gruppe Heyden - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 25: Krankenhauswesen Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 26: Städtische Kliniken Mönchengladbach - Ohne Abstimmung
+- TOP 27: Optimierung des Vergabewesen - Mit Stimmenmehrheit beschlossen
+- TOP 28: Städtisches Vergabewesen / Zentrale Vergabestelle - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Umbesetzung von Ausschüssen und Gremien - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 30: Umbesetzung von Ausschüssen - Einstimmiger Beschluss
+- TOP 31: Klimaschutzkonzept - Verweisung in zuständige Fachausschüsse
+- TOP 32: Resolution zur Änderung - Mit Stimmenmehrheit abgelehnt
+- TOP 33: Zuschauertribüne - Mit Stimmenmehrheit beschlossen
+- TOP 34: Anfragen
