@@ -1,0 +1,172 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2007-03-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1035784
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1035784
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering ? Riem Einziehung der Gesamtstrecke des Brachsenweges
+- TOP 1.2.: 75 Jahre Trudering bei München Verwendung des BA-Budget; Kostenkalkulation
+- TOP 1.3.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget durch das Sonderpädagogische Förderzentrum München Ost i.H.v. 500,00 Euro
+- TOP 2.1.: Sicherheitslage im Truderinger Wald
+- TOP 2.2.: Sondernutzung Landshamer Straße / Frobenstraße in München-Riem zuzüglich Schreiben des Bayer. Reit- und Fahrverband an das Baureferat
+- TOP 2.3.: Theaterkurse mit sozial benachteiligten Jugendlichen
+- TOP 2.4.: Einhaltung der Geschwindigkeitsbegrenzung in der Gartenstadtstraße
+- TOP 2.5.: Versetzung des Schulweghelfer-Übergangs bei der Markgrafenschule
+- TOP 2.6.: Hortsituation Forellenschule
+- TOP 3.1.: Umbenennung der Von-Trotha-Straße in Hererostraße; Übernahme von Gerichtskosten durch die Landeshauptstadt München; WV 16II/05/06
+- TOP 3.2.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten; Beschluss des Verwaltungs- und Personalausschusses vom 07.03.2007
+- TOP 3.3.: Sofortiger Baustopp für Großprojekte (im Münchner Südosten) solange keine gesicherten Maßnahmen für eine spürbare Verkehrsentlastung bestehender Siedlungsgebiete und keine optimale ÖPNV Anbindung der Neubaugebiete entstehen; Empfehlung Nr. 21 der Bürgerversammlung des 15. Stadtbezirks Trudering - Riem vom 10.11.2004 (2 Schreiben der MVG; s. auch Top 5.2/03/07)
+- TOP 3.4.: Müllcontainer-Standort Emil-Nolde-Straße; Antrag Nr. 02-08 / B 01795
+- TOP 3.5.: Rauch- und Geruchsbelästigungen durch offene Feuer auf der pädagogischen Farm in Trudering; Antrag Nr. 02-08 / B 01794
+- TOP 3.6.: Wie unvermeidlich war das S-Bahn-Chaos auf S2-Ost und S4-Ost; Antrag Nr. 02-08 / B 01804
+- TOP 3.7.: Ampel an der Bushaltestelle Halligenplatz; Antrag Nr. 02-08 / B 01792
+- TOP 3.8.: Geräuschvolle Fahrschulen (Landshamer Straße und Frobenstraße); Antrag Nr. 02-08 / B 01520
+- TOP 3.9.: Baugebiet Haffstraße: Wall zwischen angelegter Grünfläche und Restfläche erhalten; Antrag Nr. 02-08 / B 01524
+- TOP 3.10.: Städtebauliche Entwicklung an der Wasserburger Landstraße südlich, zwischen Drosselweg und Bahnstraße, eigentlich - zwischen Edeltraudstraße und Köstlenstraße; Antrag Nr. 02-08 / B 01599
+- TOP 3.11.: Relisierungswettbewerb Neubau von 5 Kindertageseinrichtungen in Systembauweise Bekanntgabe des Ergebnisses in der Sitzung des Schulausschusses des Stadtrates vom 28.02.2007
+- TOP 3.12.: Ist die Truderinger Sporthallenkapazität noch ausreichend? Antrag Nr. 02-08 / B 01489
+- TOP 3.13.: Errichtung einer Kooperationseinrichtung mit 3 Kindergarten- und 4 Krippengruppen, eines 4-gruppigen Hortes sowie einer Amtsmeisterwohnung an der Feldbergstraße 85 im 15.ten Stadtbezirk (Top 9.4/01/07)
+- TOP 3.14.: Verwendung städtischer Grundstücke für die Realisierung von Seniorenwohnungen mit Pflegemöglichkeit; Antrag Nr. 02-08 / B 01696
+- TOP 3.15.: Strategien zur Lösung von Bewohnerkonflikten in großen Wohnanlagen; Antrag Nr. 02-08 / B 01601
+- TOP 3.16.: Änderung der Linienführung einer Buslinie aus dem Ortskern Truderings; Antrag Nr. 02-08 / B 01796
+- TOP 3.17.: Kostengünstige Bereitstellung von Plakatständern bzw. Plakatflächen für kulturelle Stadtteilveranstaltungen; Antrag Nr. 02-08 / B 01799
+- TOP 3.18.: Unterstützung der cba - Cooperative Beschützende Arbeitsstätten e.V. (Top 1.2/02/07) zuzüglich Schreiben des Direktoriums D-HA II/V 1
+- TOP 3.19.: Lagerplatz / Containerstandort Truchthari-Anger; Antrag Nr. 02-08 / B 01873
+- TOP 4.1.: Erinnerung an die Errichtung eines Bolzplatzes am Horst-Salzmann-Weg
+- TOP 4.2.: Brennpunkt: Hortplanungen im Umfeld der Turnerschule zügig umsetzen
+- TOP 4.3.: Fußweg in der Grünanlage zwischen Damaschke- und Lafatscherjochstraße
+- TOP 4.4.: Brand in der Asylbewerberunterkunft Schwankhardtweg zuzüglich Stellungnahme der Unterkunftsleitung und Schreiben der RAGS
+- TOP 4.5.: Wettbewerb zur Namensfindung für den Rodelberg
+- TOP 4.6.: Errichtung einer Panoramatafel auf dem Rodelberg
+- TOP 4.7.: Sommerkonzert im Riemer Park
+- TOP 4.8.: Abplankung der Grünanlage an der Willy-Brandt-Allee
+- TOP 4.9.: Verkehrsqualitätsanalyse im Hauptstraßensystem Trudering-Riem
+- TOP 4.10.: Möglichkeiten des privaten Lärmschutzes an hochbelasteten Straßen
+- TOP 4.11.: Nutzung von Geothermie in Trudering-Riem
+- TOP 4.12.: 10-Minuten-Takt auf der S2-Ost am BAUMA-Freitag
+- TOP 5.1.: Ankündigung für die Einziehung folgender Straßenstrecken: - Mittbacher Straße (Gesamtstrecke) - Galopperstraße (Teilstrecke) - Leibengerstraße (Teilstrecke)
+- TOP 5.2.: Sofortiger Baustopp für Großprojekte (im Münchner Südosten), solange keine gesicherten Maßnahmen für eine spürbare Verkehrsentlastung bestehender Siedlungsgebiete und keine optimale ÖPNV-Anbindung der Neubaugebiete besteht; Empfehlung Nr. 21 der Bürgerversammlung des 15. Stadtbezirks Trudering-Riem am 10.11.2004 (Anhörung; Frist: 11.04.07)
+- TOP 5.3.: Veranstaltung im Riemer Park - Spielnachmittage des Sportamtes (Anhörung; Frist: 30.03.07)
+- TOP 5.4.: Eröffnung Freizeitsport-Sommer im Riemer Park am Sonntag, den 06.05.07 (Anhörung; Frist: 02.04.07)
+- TOP 5.5.: 3. München Triathlon (Anhörung; Frist: 10.04.07)
+- TOP 5.6.: Messestadt Riem Grünzug Achse 11 im 3. BA Wohnen; Bebauungsplan mit Grünordnung Nr. 1728 l (Anhörung; Frist: 02.04.07)
+- TOP 6.1.: Abdruck des Antwortschreibens der 2.Bürgermeisterin an die Antragsstellerin der BV-Empfehlung Nr. 02-08 / E 00649; Wiederherstellung erträglicher Wohn- und Nachbarschaftsverhältnisse in der Riemer Straße 297 a und 297 b (Top 10.35/03/07)
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.1.: Einladung: Das Schulreferat trifft die Bezirksausschüsse, Termin: 15.03.07
+- TOP 7.7.2: UA Planung:
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.1.: Fuß- und Radweg an der Friedenspromenade zuzüglich Ergänzungsantrag
+- TOP 7.2.: Fußgängerüberweg Leibengerstraße; Park zwischen Graf-Lehndorff-Straße / Erdinger Straße; Geschwindigkeitsbegrenzung Graf-Lehndorff-Straße (BA-Initiativen Nrn.: 02-08 / I 01122, 02-08 / I 01120, 02-08 / 01123)
+- TOP 7.3.: Verbesserung der Bringsituation vor der Grundschule an der Forellenstraße; BA-Antrag Nr. 02-08 / B 01602
+- TOP 7.4.: Halteverbot Mittbacher Straße (Top 5.2/01/07)
+- TOP 7.5.: Haffstraße und U 1585 - Bebauungsplan 1958 a; (Anhörung; Frist: 02.04.07)
+- TOP 7.6.: Erstmalige Herstellung der Forellenstraße zwischen Böcklerweg und Dukatenstraße
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.1.: Budget der Bezirksausschüsse - Änderung und Ergänzung der Richtlinien
+- TOP 7.2.: Verwendungsnachweis und Dankschreiben des Förderverein Festring Trudering e.V.
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 7.1.: Runder Tisch Neubau der BMW-Niederlassung Kreillerstraße an der Schwablhofstraße
+- TOP 8.1.: Bescheide und Mitteilungen über bereits durchgeführte Baumfällungen: Von-Trotha-Straße 4 - 4a, Ankoglstraße 32, Kreuzerweg 31 a
+- TOP 8.2.: Sperberstraße 24
+- TOP 8.3.: Batschkastraße 23
+- TOP 8.4.: Von-Erckert-Straße 17
+- TOP 8.5.: Waterbergstraße 11
+- TOP 8.6.: Postweg 60
+- TOP 8.7.: Salzmesserstraße 71
+- TOP 8.8.: Dompfaffweg 2
+- TOP 8.9.: Eigerstraße 24
+- TOP 8.10.: Habichtstraße 19
+- TOP 8.11.: Fauststraße 44 b
+- TOP 8.12.: Kreuzerweg 23
+- TOP 8.13.: Markgrafenstraße 45
+- TOP 8.14.: Dualastraße 4 a
+- TOP 8.15.: Sonnenspitzstraße 12
+- TOP 8.16.: Ruppanerstraße 16 a
+- TOP 8.17.: Windhuker Straße 3 a
+- TOP 8.18.: Feldbergstraße 58
+- TOP 8.19.: Am Birkicht 5 a
+- TOP 8.20.: Sansibarstraße 14
+- TOP 8.21.: Scharerweg 6
+- TOP 8.22.: Tsingtauer Straße 105
+- TOP 8.23.: Niobestraße 30
+- TOP 8.24.: Iltisstraße 21
+- TOP 8.25.: Feldbergstraße 38
+- TOP 8.26.: Monikastraße 5
+- TOP 8.27.: Sperberstraße 58
+- TOP 8.28.: Adelmannstraße 18
+- TOP 8.29.: Herderwiesweg 3
+- TOP 8.30.: Ernastraße 19
+- TOP 8.31.: Linnenbrüggerstraße 4
+- TOP 9.1.: Termine und Mitteilungen: a) RAMADAMA: Samstag, 21.04.07 um 14.00 Uhr vor REWE an der Friedenspromenade b) Christian Ude liest - Aus dem Leben eines Oberbürgermeisters: Mittwoch: 21.03.07 ab 18.00 Uhr im Kulturzentrum Messestadt, Erika-Cremer-Straße 8, III. OG c) Jahresgespräch mit dem Planungsreferat am Mttwoch, den 18.04.07 d) Informationsveranstaltung der SWM am 04.04.07 e) nach Mitteilung des Vorsitzenden
+- TOP 9.2.: Kommunalwahl 2008 Bildung der Bezirksausschüsse für die Amtsperiode 2008 - 2014 (Größe der BA´s)
+- TOP 9.3.: Bildung der Bezirksausschüsse für die Amtsperiode 2008 - 2014 Änderung - von § 3 Abs. 2 Satz 2 der BA-Satzung - der Anlage 2 zur BA-Satzung - von § 4 Abs. 2 der BA-Satzung Beschluss des Verwaltungs- und Personalausschusses vom 07.03.2007
+- TOP 9.4.: Entsendung von Vertretungen städtischer Fachreferate in Bezirksausschusssitzungen und andere Veranstaltungen der Bezirksausschüsse (Schreiben des Oberbürgermeisters)
+- TOP 9.5.: Gespräch des Oberbürgermeisters mit den Vorsitzenden der Bezirksausschüsse am 10.11.2006
+- TOP 9.6.: Planungsdialog
+- TOP 9.7.: Öffentlicher Personennahverkehr in München - Mitteilung der Internetadressen
+- TOP 9.8.: Messestadt Riem; Vergabe von Gewerbeparzellen im Technologiepark Messestadt West
+- TOP 9.10.: Berichterstattung der Süddeutschen Zeitung über die Bürgerversammlung Maxvorstadt (SZ Nr. 259 vom 10. November 2006) - Schreiben des BA 3 Maxvorstadt
+- TOP 9.11.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten - Stellungnahme des BA 13 Bogenhausen
+- TOP 9.12.: Belegungsvergabe neue Dreifachturnhalle der Berufsschulen an der Astrid-Lindgren-Straße (Termin: 21.03.07, 15.00 Uhr)
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 12.02.07 - 18.03.07
+- TOP 10.2.: Zweckentfremdung von Wohnraum - Dollwiesenweg 4
+- TOP 10.3.: Zweckentfremdung von Wohnraum - Großfriedrichsburger Straße 38
+- TOP 10.4.: Zweckentfremdung von Wohnraum - Groß-Nabas-Straße 1
+- TOP 10.5.: Zweckentfremdung von Wohnraum - Iltisstraße 59
+- TOP 10.6.: Zweckentfremdung von Wohnraum - Taku-Fort-Straße 9 a
+- TOP 10.7.: Zweckentfremdung von Wohnraum - Iltisstraße 57
+- TOP 10.8.: Zuwendungsbewilligung aus dem Budget des BA 15 für die Grundschule Forellenstraße i.H.v. 1.275,00 Euro
+- TOP 10.9.: Zuwendungsbewilligung aus dem Budget des BA 15 für das Caritaszentrum München Ost/Land i.H.v. 1.618,00 Euro
+- TOP 10.10.: Entscheidungszuständigkeit für Standortwahl und Bedarfsgenehmigung bei einer Kindertagesstätte; Zwischennachricht der Regierung von Oberbayern
+- TOP 10.11.: Änderung der BA-Satzung Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung des Kommunalreferats Nrn. 1, 7, 11 - 13
+- TOP 10.12.: Container-Lager am Truchthari-Anger - Was plant die Stadt in diesem Wohngebiet?
+- TOP 10.13.: Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen; Weiterführung des Antrags vom 12.03.2004; Beschluss des Bauausschusses vom 06.03.2007
+- TOP 10.14.: Entgelterhebung an P+R Anlagen im Stadtgebiet; hier: Anpassung der P+R Parkpreise
+- TOP 10.15.: Veranstaltungen im öffentlichen Raum Beschluss in der Sitzung des Kreisverwaltungsausschusses vom 13.03.2007
+- TOP 10.16.: Vollzug des § 29 Abs. 2 der Straßenverkehrsordnung (StVO); Veranstaltung auf öffentlichem Verkehrsgrund, hier: Info-Veranstaltung der Verkehrspolizeiinspektion München
+- TOP 10.17.: Entgelterhebung an P+R Anlagen im Stadtgebiet hier: Anpassung der P+R Parkpreise
+- TOP 10.18.: EOF-Förderung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.03.2007
+- TOP 10.19.: Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.02.2007
+- TOP 10.20.: Baugenehmigung gem. Art. 72 und Art. 73 Bayerische Bauordnung (BayBO) im vereinfachten Genehmigungsverfahren mit aufschiebender/aufschiebenden Bedingung(en) hier: Neubau einer Wohnanlage, Iltisstraße 57
+- TOP 10.21.: Beschlussvollzugskontrolle (BVK); 4. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 31.12.2006
+- TOP 10.22.: Realisierungswettbewerb Neubau von 5 Kindertageseinrichtungen in Systembauweise - Bekanntgabe des Ergebnisses Bekanntgabe in der Sitzung des Kinder- und Jugendhilfeausschusses vom 27.02.2007
+- TOP 10.23.: Kinder- und Jugendgesundheit in München - Aktuelle Schwerpunktsetzung und Handlungsbedarf - Ergebnisse der Einschulungsuntersuchungen 2004/2005 - Impfungen können lebenswichtig sein! Beschluss des Gesundheitsausschusses vom 07.03.2007
+- TOP 10.24.: Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen; Genehmigung einer Anlage zur Zerlegung von Elektronikschrott der Linus München GmbH, Karl-Schmid-Straße 11
+- TOP 10.25.: Zuschussnehmerdatei 2007 Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.2007
+- TOP 10.26.: Zuschussnehmerdatei 2007 Vollzug des Haushaltsplanes 2007 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates/Zentrale; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.2007
+- TOP 10.27.: Zuschussnehmerdatei 2007 Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.2007
+- TOP 10.28.: Zuschussnehmerdatei 2007 Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.2007
+- TOP 10.29.: München. Der Wirtschaftsstandort. Fakten und Zahlen 2007 - Infobroschüre
+- TOP 10.30.: Vollzug der Grünanlagensatzung vom 12.08.1991 Baustelleneinrichtung an der Zehntfeldstraße 218 - Ausnahmebewilligung
+- TOP 10.31.: PERSPEKTIVE München - Leitlinie Kinder- und Familienpolitik; Beschluss des Kinder- und Jugendhilfeausschusses vom 20.03.2007
+- TOP 10.33.: Erhalt einer geeigneten Postfiliale in Waldtrudering in unmittelbarer Nähe des bisherigen Standortes mit dem gesamten Angebot an Postdienstleistungen; Empfehlung Nr. 02-08 / E 00652 der Bürgerversammlung des 15. Stadtbezirkes Trudering-Riem am 07.12.2006
+- TOP 10.34.: Aktion saubere Stadt Öffentlichkeitskampagne und Maßnahmenkonzept
+- TOP 10.35.: Riemer Straße 291 - 303; Wiederherstellung erträglicher Wohn- und Nachbarschaftsverhältnisse; Wiederherstellung des Wertes der Häuser; Empfehlung Nr. 02-08 / E 00649 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 07.12.2006 Beschluss des Sozialausschusses vom 22.03.2007
+- TOP 10.36.: Mitteilung der Veranstaltungen / Kooperationen des Kulturreferats für März 2007
+- TOP 0: TOP 0
+- TOP 0: Mitgliedswechsel
+- TOP 0: Vereidigung eines neuen BA-Mitgliedes
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
+- TOP 10.32.: Zusatzfinanzierung für den Straßenunterhalt Beschluss des Bauausschusses vom 06.03.2007
