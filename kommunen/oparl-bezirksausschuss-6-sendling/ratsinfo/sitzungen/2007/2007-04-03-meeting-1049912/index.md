@@ -1,0 +1,68 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2007-04-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1049912
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1049912
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Aufstellungsbeschluss Bebauungsplan Gotzinger Platz / Türkisch-Islamisches Kulturzentrum
+- TOP 2.2.: Verkehrsplanung Sendling; Verkehrsführung nach der Neuerrichtung der Eisenbahnbrücke über die Lindwurmstraße
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Sozialpädagogische Betreuung im städt. Notquartier Implerstraße 51
+- TOP 3.2.: Versorgungsgrad mit Kinderkrippen in Sendling
+- TOP 3.3.: Perspektive München; Leitlinie Kinder- und Familienpolitik
+- TOP 4.: Schulreferat
+- TOP 4.1.: Rahmenplanung für die Bezirkssportanlage Dietramszeller Platz
+- TOP 5.1.: Gaststätte Amadeus, Oberländerstraße 6; Freischankflächenantrag
+- TOP 5.2.: Gaststätte "Vatan Imbiss", Thalkirchner Straße 126; Freischankflächenantrag
+- TOP 5.3.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 5.4.: Gaststätte Pschorrkrug, Oberländerstraße 32; Freischankflächenantrag
+- TOP 5.5.: Lindwurmstraße 92, Antrag auf Genehmigung einer Warenstellage
+- TOP 6.1.: Verkehrsgefährdung am Radweg Thalkirchnerstraße im Bereich der Hausnummern 288 - 272
+- TOP 6.2.: SWM - Meldeliste Bauvorhaben
+- TOP 6.3.: Fernwärmebauvorhaben Lindenschmitstraße zwischen Dankl- und Aberlestraße
+- TOP 6.4.: Veranstaltungen im öffentlichen Raum
+- TOP 6.5.: Errichtung einer provisorischen Zuwegung am Greinerberg 17
+- TOP 6.6.: Fahrbahnsanierung in der Alramstraße zwischen Daiserstraße und Kidlerstraße
+- TOP 6.7.: Beschleunigung der Buslinie 53
+- TOP 7.1.: Budgetantrag der Kindertagesstätte Ganghoferstraße anl. des 10jährigen Bestehens; ? 350,-
+- TOP 7.2.: Budgetantrag der Tanztheaterkompanie Hausgemacht, ? 2000,-
+- TOP 7.3.: Budgetantrag auf Übernahme von Druckkosten für eine Seniorenzeitung
+- TOP 7.4.: Tag des offenen Denkmals am 09.09.2007
+- TOP 7.5.: Entsendung von Vertretungen städtischer Referate in Bezirksausschusssitzungen und andere Veranstaltungen der Bezirksausschüsse
+- TOP 7.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Flößergasse 11
+- TOP 8.3.: Bauvorhaben Thalkirchner Straße 190
+- TOP 8.4.: Bauvorhaben Thalkirchner Straße 129
+- TOP 8.5.: Bauvorhaben Urbanstraße 11
+- TOP 8.6.: Parkraummanagement in München
+- TOP 8.7.: EOF-Förderung
+- TOP 8.8.: Plinganserstraße 6, Stemmerhof; diverse Nutzungsänderungen
+- TOP 9.: Baureferat
+- TOP 9.1.: Behindertengerechte Gestaltung der Kreuzung Meindlstraße / Lindenschmitstraße durch Absenkung der Randsteine
+- TOP 9.2.: Aktion saubere Stadt
+- TOP 9.3.: Zusatzfinanzierung für den Straßenunterhalt
+- TOP 9.4.: Grünfläche "Bahndeckel" Theresienhöhe; Einladung zur Informationsveranstaltung
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumpflanzungen auf dem Mittelstreifen der Plinganserstraße
+- TOP 10.2.: Vorschläge zur Aufnahme in die Naturdenkmalliste
+- TOP 10.3.: Baumfällung Valleystraße 25; 1 Holunder
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 12.1.: Maßnahmen zur Verhinderung des Gehwegparkens an der Aberle- / Alramstraßen
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Kinder- und Jugendgesundheit in München
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
