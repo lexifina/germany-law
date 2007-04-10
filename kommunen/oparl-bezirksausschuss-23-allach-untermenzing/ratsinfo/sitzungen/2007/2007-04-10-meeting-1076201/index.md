@@ -1,0 +1,67 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2007-04-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1076201
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1076201
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Gebühren, Kosten für Straßen- und Stadtteilfeste
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 3.1.: Aufstellung von Wartehäuschen an der Bushaltestelle Zaunerstraße stadtauswärts der Linien 164 / 165 und an der Bushaltestelle Bahnhof Untermenzing der Linie 162
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 5.1.: Vollzug der Wassergesetze; Tauchen mit Atemgerät im Langwieder See, hier: Allgemeinverfügung
+- TOP 5.2.: Bauvorhaben Georg-Reismüller-Str. 5: Anbau an ein Sportgeschäft mit TG
+- TOP 5.3.: S-Bahnhaltepunkt Untermenzing, Fahrradabstellanlage
+- TOP 5.4.: Änderung der Beschilderung in der Angerlohstraße nördlich Buchenweg
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Budget der Bezirksausschüsse; Anträge cba e.V. auf Bezuschussung des Kaufs eines Lkws
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Straßenverbindung von der Angerlohe zur Ludwigsfelder Straße; Teeren des Rad- und Fußwegs östl. der Bahn zwischen Ludwigsfelder Straße und der Krauss-Maffei-Straße (Bahnweg)
+- TOP 9.2.: Grundstück Flurstück-Nr. 420/4, Gemarkung Untermenzing; Nutzuns des Grundstücks zur Errichtung eines Waldkindergartens (vertagt aus der Sitzung vom 13.03.07)
+- TOP 9.3.: Schaffung von Verkehrssicherheit in der Fuß- und Radwegunterführung am S-Bahnhof Untermenzing (Antrag Nr. 02-08 / B 01677)
+- TOP 9.4.: Lärmschutz an der Ostseite der A 8 zwischen Kreuz München-West und Langwieder See
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Karl-von-Roth-Straße; Haltverbotszone
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Bauanträge (v. 05.03.-11.03., 12.03.-18.03., 19.03.-25.03.)
+- TOP 11.2.: Liste der beantragten Baumfällungen (v. 05.03.-11.03., 12.03.-18.03., 19.03.-25.03)
+- TOP 11.3.: Vollzug der BaumschutzVO - Allacher Straße, s. Baumbestandsplan Nr. 2007-3412 - Herbert-Schober-Str. 21, 1 Nußbaum - Am Lochholz 42, s. Baumbestandsplan Nr. 2007-2402 - Herbigstr. 4, Borkenkäfer-Bescheinigung
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 12.1.: Einladung zum Praxisbericht: "Der konjunkturelle Aufschwung bewegt den Münchner Immobilienmarkt am 03.05.07"
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Genehmigung der Zweckentfremdung von Wohnraum - Sickenbergerstraße - Rehsteig - Nikolaus-Rüdinger-Straße
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und des Gesetzes über die Umweltverträglichkeitsprüfung (UVPG); Fa. MTU Aero Engines GmbH, Dachauer Str. 665; Strahl- und Wellenleistungsprüfstände / Ergebnisprotokoll über den Erörterungstermin 25.01.07
+- TOP 15.2.: Lärmeinwirkung der A 8 und A 99; Antrag auf Unterstützung einer Lärmuntersuchung beim RGU
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 1 Altstadt-Lehel: Erhöhung der Gebühren für Baustelleneinrichtungen, Haltverbote und Ausnahmegenehmigungen
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen der Stadtwerke München GmbH
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Gesundheitsausschuss vom 07.03.07: Kinder- und Jugendgesundheit in München
+- TOP 22.2.: Verwaltungs- und Personalausschuss vom 07.03.07: - Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten - Bildung der Bezirksausschüsse für die Amtsperiode 2008-2014
+- TOP 22.3.: Vollversammlung vom 14.03.07: - Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten - Bildung der Bezirksausschüsse für die Amtsperiode 2008-2014 - Kinder- und Jugendgesundheit in München - Veranstaltungen im öffentlichen Raum
+- TOP 22.4.: Kinder- und Jugendhilfeausschusses vom 20.03.07: - Perspektive München; Leitlinie Kinder- und Familienpolitik
+- TOP 22.5.: Schulausschuss vom 21.03.07: - Kindertagesstätten freigemeinnütziger Träger; Kindergarten "Maria Himmelfahrt" an der Franz-Nißl-Str. 50; Leistung eines Baukostenzuschusses nach dem BayKiBiG
+- TOP 22.6.: Ausschuss für Stadtplanung und Bauordnung vom 21.03.07: - EOF-Förderung
+- TOP 22.7.: Bauausschuss vom 27.03.07: Aktion saubere Stadt, Öffentlichkeitsarbeit und Maßnahmenkonzept
+- TOP 23: Verschiedenes
