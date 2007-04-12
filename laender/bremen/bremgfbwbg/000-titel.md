@@ -1,1 +1,1 @@
-# Gesetz über die Weiterbildung in den Gesundheitsfachberufen vom 2. Juli 1991
+# Gesetz über die Weiterbildung in den Gesundheitsfachberufen vom 27. März 2007
