@@ -1,0 +1,124 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2007-04-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1090475
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1090475
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Lärmbelästigung durch Abfall-Container für Flachen, Dosen etc, in der Guardinistr. 59-61 (zwischen Haus Nr. 59 und Tiefgarage)
+- TOP 1.2.: Verkehrsgefährdung durch beidseitiges Lkw-Parken auf der Kriegerheimstraße
+- TOP 1.3.: Bolzplatz am Stiftsbogen
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Waldesruhe 45, DHH A, gem. Baumbestandsplan Nr. 4508
+- TOP 3.2.: Waldesruhe 45, DHH B, gem. Baumbestandsplan Nr. 4511
+- TOP 3.3.: An der Rehwiese 15, gem. Baumbestandsplan Nr. 4394
+- TOP 3.4.: Bortenhofstr. 13, 1 Fichte
+- TOP 3.5.: Pfingstrosenstr. 23 a, 1 Nadelbaum
+- TOP 3.6.: Haseneystr. 53, 1 Fichte
+- TOP 3.7.: Am Heidebruch 11, 1 Lärche
+- TOP 3.8.: Haderunstr. 46, 1 Kiefer
+- TOP 3.9.: Haderunstr. 43, gem. Baumbestandsplan Nr. 35147
+- TOP 3.10.: Tannenwaldstr. 10, 3 Fichten
+- TOP 3.11.: Wildanger 24, 1 Fichte
+- TOP 3.12.: Wildtaubenweg 9, 1 Fichte
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Guardinistr. 155, 1 Birke (Referat für Stadtplanung und Bauordnung, 21.02.07)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 3.1.: Wildanger 25, Fällung einer Lärche (Referat für Stadtplanung und Bauordnung, 06.03.07)
+- TOP 3.2.: Kornwegerstr. 55, Fällung einer österr. Schwarzkiefer und 7 serb. Fichten (Referat für Stadtplanung und Bauordnung vom 26.02.07)
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Bau
+- TOP 4.2.: interfraktionelle Sitzung zum 2. Haderner Bürgertag
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 1: (E) Einrichtung einer öffentlichen Toilette am Gondrellplatz (Ziffer 2 des Antrags)
+- TOP 1.2.: Antrag des VdK-Ortsverbandes Hadern auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 2.200,- ? (Direktorium, 27.03.07)
+- TOP 1.3.: Antrag des Waldorfkinderhauses Pasing in der Blumenau e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 5.636,- ? (Direktorium, 27.03.07)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Zweckentfremdung von Wohnraum, Haderunstr. 43 (Sozialreferat, 09.03.07)
+- TOP 7.2.: Verkehrsrechtliche Anordnung, Einrichtung eines personenbezogenen Behindertenparkplatzes in der Karl-Witthalm-Str. 12 (KVR, 24.01.07)
+- TOP 7.3.: Budgetmittel des BA 20, Antragsteller: Simeonsgemeinde (Evang.-Luth. Simeonsgemeinde, 23.03.07)
+- TOP 7.4.: Eröffnung einer Partner-Filiale der Deutschen Post AG im Supermarkt REWE in der Terofalstr. 19 (Deutsche Post AG, 21.03.07)
+- TOP 7.5.: Entsendung von Vertretern städtischer Fachreferate in BA-Sitzungen und andere Veranstaltungen der BA´s (Oberbürgermeister, 15.02.07)
+- TOP 7.6.: Zweckentfremdung von Wohnraum, Waldesruhe 45 (Sozialreferat, 26.03.07)
+- TOP 7.7.: Aktuelle Baumaßnahmen der MVG (MVG, 23.03.07)
+- TOP 7.8.: Unveränderte Fortführung des Gaststättenbetriebes "Schienhammer", Großhaderner Str. 47 (KVR, 02.04.07)
+- TOP 7.9.: Auflassung einer Halteposition der Haltestelle Holzapfelkreuth (MVG, 30.03.07)
+- TOP 7.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Bauvorhaben Sauerbruchstraße, Neubau einer Wohnanlage (76 WE) und zweier Mittelgaragen (38 + 40 Stpl.) (Referat für Stadtplanung und Bauordnung, 13.03.07)
+- TOP 8.2.: Widerspruch der Hauptschule an der Guardinistraße bezüglich der Kürzung einer Bezuschussung des Valentinkonzertes (Direktorium, 27.03.07)
+- TOP 8.3.: Veranstaltung auf Privatgrund, hier: 21. Haderner Dorffest vom 30.04.-20.05.07 auf dem Max-Lebsche-Platz (KVR, 30.03.07)
+- TOP 8.4.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest in der Rolandseckstraße am 07.07.07 (KVR, 04.04.07)
+- TOP 8.5.: Erinnerungsverfahren, Lupinenweg 5-9, Südseite (Baureferat, 13.04.06)
+- TOP 8.6.: Veranstaltung in einer städt. Grünanlage Max-Lebsche-Platz, hier: Circus Roberto vom 29.10.-11.11.07 (KVR, 11.04.07)
+- TOP 8.7.: Veranstaltung in einer städt. Grünanlage, hier: Flohmarkt auf dem Max-Lebsche-Platz am 26.05., 14.07. und 08.09.07 (KVR, 11.04.07)
+- TOP 8.8.: Veranstaltung in einer städt. Grünanlage, hier: Streetsoccer-Turnier der EFG-Großhadern am 19.05.07 in der Anlage "Stiftsbogen, Wolkerweg", Walter-Hof-Weg (KVR, 12.04.07)
+- TOP 8.9.: Verkehrsrechtliche Anordnung, Erweiterung der Parkscheibenzone an der Südseite der Guardinistr. 3 (KVR, 05.04.07)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Fußgängerübergang in der Würmtal-/ Rebholzstraße (KVR, 28.02.07)
+- TOP 9.2.: Detaillierte Planungen für den Neubau des Freizeitheimes Pfiffteen am Wolkerweg; BA-Antrag Nr. 1749 vom 08.01.07 (Sozialreferat, 22.03.07)
+- TOP 9.3.: Abzug der Altglascontainer vom Wertstoffhof an der Tischlerstraße; BA-Antrag Nr. 1852 vom 12.02.07 (AWM, 13.03.07)
+- TOP 9.4.: Lärmschutz an der Bundesautobahn A 96 Lindau - München; BA-Antrag Nr. 1751 vom 08.01.07 (Baureferat, 14.03.07)
+- TOP 9.5.: Ausweitung der Tempo-30-Zone in der Guardinistraße; BA-Antrag Nr. 1711 vom 11.12.06 (KVR, 12.03.07)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: BAB A 96, Lindau - München, Sendling - Oberpfaffenhofen, Gehölzpflegearbeiten in München-Hadern (Autobahndirektion Südbayern, 20.03.07)
+- TOP 10.2.: Feuerlöscher in der Wohnanlage am Haderner Stern (Bay. Versorgungskammer, 15.02.07)
+- TOP 10.3.: Simulatorwagen für den 2. Haderner Bürgertag (Firstevent, Otto Esselen, 28.03.07)
+- TOP 10.4.: Protokoll zur Begehung des Schulgebäudes der Grundschule an der Senftenauerstr. 21, Allgemeiner Gebäudezustand (Schul- und Kultusreferat, 16.03.07)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Einladung in das Kommunalreferat zum Praxisbericht: "Der konjunkturelle Aufschwung bewegt den Münchner Immobilienmarkt" am 03.05.07 um 18.00 Uhr, Roßmarkt 3, Konferenzraum 232 (Kommunalreferat, 21.03.07)
+- TOP 11.2.: STÜPS Jahresbericht 2006 (Stüps, 21.03.07)
+- TOP 11.3.: Aufnahme einer Radroute "Würm-Isar" in das VELO-City-Netz der LH München (BA 21, 16.03.07)
+- TOP 11.4.: Budgetmittel des BA´s, Übernahme von Druckkosten einer Seniorenzeitung, Kultur notiert e.V. (Direktorium, 16.03.07)
+- TOP 11.5.: Budget der BA´s, Antrag der cba auf Bezuschussung des Kaufs eines Lkw`s (Direktorium, 23.03.07)
+- TOP 11.6.: Erhöhung der Gebühren für Baustelleneinrichtungen, Haltverbote und Ausnahmegenehmigungen (Antrag BA 1 vom 20.03.07)
+- TOP 11.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.8.: Rücknahme des Antrages auf Zuschuss aus dem Budget für pedal musik (pedal musik, 06.04.07)
+- TOP 11.9.: Finanzielle Unterstützung des Projektes "Kinder an klassische Musik heranführen" (Kiga Farnweg, 04.04.07)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 14.03.2007: Veranstaltungen im öffentlichen Raum, Parallelveranstaltungen auf städtischem Privatgrund nach den Richtlinien für Veranstaltungen auf öffentlichem Grund (Zustimmung des BA 20 Hadern mit Beschluss vom 12.02.2007)
+- TOP 12.2.: vom 14.03.2007: Bildung der Bezirksausschüsse für die Amtsperiode 2008-2014, insbesondere zur Größe des BA 20 Hadern ab 01.05.2008 (23 Mitglieder bei 45.814 Einwohnern)
+- TOP 12.3.: vom 14.03.2007: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten (nur Anhörungsrecht, Entscheidungsrecht abgelehnt)
+- TOP 12.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.5.: vom 15.02.2007: Entgelterhebung an P+R-Anlagen im Stadtgebiet, hier: Anpassung der P+R-Parkpreise
+- TOP 12.6.: vom 15.02.2007: Münchner Wohnungsbaugesellschaften verpflichten sich dem Klimaschutz
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Schulausschusses vom 21.03.2007: Erweiterung der Turnhalle der Grundschule an der Senftenauerstraße, oder Neubau einer 3-fach-Turnhalle auf dem Gelände (abgelehnt)
+- TOP 12.2.: Beschluss des Schulausschusses vom 21.02.2007: Schaffung von Räumlichkeiten für die Hort- und Mittagsbetreuung für die Grundschüler an der Guardinistraße Empfehlung Nr. 46 der Bürgerversammlung des 20. Stadtbezirks Hadern am 19.10.2000 (Baubeginn frühestens 2008, im MIP 2006-2010, Liste 1 enthalten)
+- TOP 12.3.: Beschluss des Schulausschusses vom 21.02.2007: Kindertagesstätten freigemeinnütziger Träger; Kindergarten "St. Ignatius" an der Guardinistr. 83 im 20. Stadtbezirk Hadern, Generalsanierung (Gesamtbaukosten 1.205.000 ?, davon förderfähig 1.012.127 ?, wofür vom Freistaat Bayern im Rahmen des kommunalen Finanzausgleichs ein Baukostenzuschuss von 2/3 = 674.751 ? gewährt wird)
+- TOP 12.4.: Beschluss des Schulausschusses vom 28.02.2007: Anhörungsverfahren zur Änderung der Volksschulorganisation in der LH München; Sprengeländerung der Grundschulen an der - Senftenauerstr. 21 (Erweiterung) und Guardinistr. 60 (Verkleinerung) Die Änderungsfläche betrifft das staatseigene Grundstück am Stiftsbogen bis zur Kurparkstraße (zum BA-Beschluss vom 12.02.2007).
+- TOP 12.5.: Beschuss des Bauausschusses vom 06.03.2007: Zusatzfinanzierung für den Straßenunterhalt, insbesondere für die Verbesserung in den Nebenstraßen
+- TOP 12.6.: Beschluss des Bauausschusses vom 06.03.2007: Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen, insbesondere Handlungsmöglichkeiten der Verwaltung
+- TOP 12.7.: Beschluss des Bauausschusses vom 06.03.2007: Errichtung einer Lärmschutzwand entlang der BAB München - Lindau im Bereich Hadern ( Ziffer 1 des Antrags, abgelehnt)
+- TOP 12.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.03.2007: EOF-Förderung
+- TOP 12.1.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 20.03.2007: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere Förderung a) des Alten- und Servicezentrums Kleinhadern-Blumenau des Caritasverbandes der Erzdiözese München und Freising e.V. (Caritasverband) mit 191.101 ? (wie 2006), b) der Altenwohnanlage Konrad-Dreher-Straße 19-23 des Caritasverbandes mit 38.585 ? (wie 2006)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.2007: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesonder Förderung a) des Kinderhauses am Wolkerweg des Bay. Jugendrings (BJR) mit 167.920 ? (wie 2006) beantragt 170.160 ?) b) des Treffpunkts für Jugendliche "PfiffTEEN" des BJR mit 274.570 ? (wie 2006, beantragt 278.290 ?) c) des "Treffs 21" des Vereins "Schule-Beruf e.V." mit 310.590 ? (unverändert wie beantragt) d) des "Studio im Netz" (SiM) e.V. mit unverändert 74.220 ? e) des "Inter@ktiv" (Träger nicht bekannt) mit insgesamt 73.140 ?, wovon 25.320 ? vom Sozialreferat, Stadtjugendamt, der Rest vom Schul- und Kultusreferat getragen wird f) des Bewohnertreffs der "Nachbarschaft Neuhadern e.V." im "Deutschen Paritätischen Wohlfahrtsverband" (DPWV) mit 90.928 ? (in 2006 noch 68.960 ?). Der Erhöhungsbetrag von 21.968 ? für die Raummiete wurde bisher aus der Haushaltsstelle 4100.530.0000.7 finanziert.
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses vom 20.03.2007: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere Förderung a) des "Bewohnertreffs Hadern" des "Konzepts Grün" mit 50.000 ? (wie beantragt) bis Ende 2008 b) der Wohnungsversorgung "KomPro BC" auf dem IBS-Grundstück an der Krokusstraße mit 250 ? (Vertragslaufzeit 5 Jahre)
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.2007: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates/Zentrale (Förderung mit 484.900 ? + 521.502 ? = 1.006.402 ?)
+- TOP 12.5.: Beschluss des Bauausschusses vom 27.03.2007: Aktion saubere Stadt, Öffentlichkeitskampagne und Maßnahmenkonzept
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: erledigt durch Beschlüsse der Vollversammlung, kein weiterer Eingang
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 20.03.2007: Perspektive München, Leitlinie Kinder- und Familienpolitik, insbesondere zur Krokusstraße (KomPro B und C) und zum Anteil der Jugendlichen unter 18 Jahren (in Hadern 16,4 %)
+- TOP 12.2.: Beschluss des Bauausschusses vom 27.03.2007: Ausbau des Mittleren Ringes (B 2 R)-Südwest - Luise-Kiesselbach-Platz (Kostenobergrenze 363.940.000 ?)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.02.2007: Beschlussvollzugskontrolle (BVK); 4. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 31.12.2006
+- TOP 12.2.: Bekanntgabe in den Sitzungen des Kinder- und Jugendhilfeausschusses am 27.02.2007 und des Schulausschusses am 28.02.2007: Realisierungswettbewerb, Neubau von 5 Kindertageseinrichtungen in Systembauweise, Bekanntgabe der Ergebnisse, insbesondere "Stiftsbogen I" und "Stiftsbogen II"
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
