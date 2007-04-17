@@ -1,0 +1,7 @@
+# TOP 1.2.: Aktion saubere Stadt; Öffentlichkeitskampagne und Maßnahmenkonzept; - "München - die saubere Stadt"; Antrag Nr. 02-08 / A 01361 vom 14.01.2004; - Geldstrafen für Hundekot auf öffentlichen Straßen und Plätzen; Antrag Nr. 02-08 / A 01527 vom 22.03.2004; - Präsentation des Hundekotproblems in den Medien; BV-Empfehlung Nr. 02-08 / E 00077 des 2. Stadtbezirkes am 03.05.2005; - Verstärktes Vorgehen gegen undisziplinierte Hundehalter; BV-Empfehlung Nr. 02-08 / E 00156 des 8. Stadtbezirkes vom 07.07.2005; - Verunreinigung von Straßen und Plätzen sanktionieren; Schriftliche Anfrage gem. § 68 GeschO von Herrn Stadtrat Richard Quaas vom 13.12.2005; - Aufstellen von Plastiktütenspendern und Abfallbehältern zur Beseitigung von Hundekot; Antrag Nr. 02-08 / A 03061 vom 16.05.2006; - Effektive Verfolgung und drastische Bestrafung der Hundebesitzer bei Nichtentfernen der Hundehaufen, Ziffer 7 des Antrages; BV-Empfehlung Nr. 02-08 / E 00427 des 8. Stadtbezirkes am 01.06.2006; - Hundekot / energische Vorgehensweise gegen Hundebesitzer; BV-Empfehlung Nr. 02-08 / E 00637 des 9. Stadtbezirkes am 23.11.2006; Sitzungsvorlage Nr. 02-08 / V 06697; Beschluss des Bauausschusses vom 27.03.2007 (SB);
+
+- Sitzung: BA 18 - Vollgremium (2007-04-17)
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/84659
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/84659
