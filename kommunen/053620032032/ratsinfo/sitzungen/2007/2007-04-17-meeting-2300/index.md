@@ -1,0 +1,51 @@
+# Haupt- und Finanzausschuss (17. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2007-04-17T17:00:00+02:00
+- Ende: 2007-04-17T19:30:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWPTfZY7yXBfMKQ484oZw6Q
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/2300
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQYKyzy1GZUg-jF8qkHYTrnP2f3IxIVSbAazwKeF51pM/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_17.04.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bestellung einer Schriftführerin und stellvertretender Schriftführer für die Erstellung der Niederschriften über die Ausschussbeschlüsse
+- TOP 2.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der Sitzung vom 06.02.2007
+- TOP 3.: Umbesetzung von Arbeitskreisen
+- TOP 3.1: Umbesetzung von Ausschüssen, Arbeitskreisen und Gremien; hier. Antrag der FDP-Fraktion
+- TOP 3.2: Umbesetzung des Arbeitskreises Bäder
+- TOP 4.: Anregungen und Beschwerden gem. § 24 GO NW
+- TOP 4.1: Anregung und Beschwerde gem. § 24 GO NW hier: Anforderung des dritten Rahmenbetriebsplans für den Tagebau Hambach
+- TOP 4.2: Anregung und Beschwerde nach § 24 GO NW hier: Verkehrsaufkommen Nordstraße, Kerpen-Sindorf
+- TOP 5.: Abgabenbescheide 2007
+- TOP 6.: Bildung von Haushaltsausgaberesten 2006
+- TOP 7.: Haushaltskonsolidierung
+- TOP 8.: Haushalt 2007 und Haushaltsplan 2008
+- TOP 9.: Zusätzliche Veranstaltungen 2007 anlässlich des Jubiläums ¿10 Jahre Städtepartnerschaft Kerpen ¿ Oswiecim¿ hier: Beantragung überplanmäßiger Haushaltsmittel
+- TOP 10.: Stellenplan 2007 hier: Einrichtung einer zusätzlichen Stelle innerhalb der Abteilung 22.2, Schulen
+- TOP 11.: Hundekot im Stadtgebiet
+- TOP 12.: Nutzung von Fahrzeugen bei der Stadt mit Erdgasantrieb
+- TOP 13.: Prioritätenliste für die Beschaffung von Feuerwehrfahrzeugen
+- TOP 14.: Baubetriebshof Nutzung einer Teilfläche des ehemaligen Gartentreffs sowie Beendigung des Mietverhältnisses für eine Lagerfläche in Kerpen-Mödrath
+- TOP 15.: Betriebsführungsvertrag für die Bäder der Stadt Kerpen
+- TOP 16.: Bau eines Schwallwassertanks im Freibad Türnich
+- TOP 17.: Mitteilungen
+- TOP 17.1: Bestellung einer stellvertretenden Gleichstellungsbeauftragen
+- TOP 18.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.1: Verspätete Zustellung von Unterlagen
+- TOP 18.2: Neue-Sindorfer-Mitte
+- TOP 19.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 20.: Bebauungsplan BR 282 A 1. Änderung "Feuerwehrgerätehaus", hier: Abschluss eines städtebaulichen Vertrages zur Übernahme von Planungskosten
+- TOP 21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21.1: Ernennung einer Stadtamtsrätin zur Stadtoberamtsrätin
+- TOP 21.2: Ernennung einer Stadtoberinspektorin zur Stadtamtfrau
+- TOP 21.3: Ernennung eines Stadtoberinspektors zum Stadtamtmann
+- TOP 21.4: Ernennung eines Stadtoberinspektors zum Stadtamtmann
+- TOP 22.: Mitteilungen
+- TOP 23.: Anfragen gem. § 18 Geschäftsordnung
