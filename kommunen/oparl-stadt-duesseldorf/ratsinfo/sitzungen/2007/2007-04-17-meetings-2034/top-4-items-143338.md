@@ -1,0 +1,7 @@
+# TOP 4: Benrather Marktplatz-Erneuerung der Platzfläche
+
+- Sitzung: Bauausschuss (2007-04-17)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/143338
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/36154
