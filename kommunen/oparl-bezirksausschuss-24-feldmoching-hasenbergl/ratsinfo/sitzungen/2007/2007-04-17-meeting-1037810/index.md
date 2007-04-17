@@ -1,0 +1,80 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2007-04-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1037810
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1037810
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching ? Hasenbergl Widmung von Straßenstrecken - des Walter-Sedlmayr-Platzes (Gesamtstrecke) - der Luitfriedstraße (Teilstrecke)
+- TOP 2: (E) Ausweisung von PKW-Haltemöglichkeiten zum Aus- und Einsteigen von Fahrgästen der MVG bzw. des MVV an der Westseite des Bahnhofes Feldmoching ( Ziffer 1 ) Empfehlung Nr. 02-08 / E 00415 der Bürgerver- sammlung des Stadtbezirkes 24 - Feldmoching- Hasenbergl am 30.05.2006
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: Konzerte am 01.04. und 14.10.2007 in der Pfarrei Mariä Sieben Schmerzen
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: Theaterfestival 22.-24.06.2007; Caritas Jugendzentrum Jump In
+- TOP 3.1.: Bei der Verwirklichung der Planungen für drei neue Gymnasien in München, soll eines davon im Bereich des Virginiadepots an der Schleißheimer Straße errichtet werden
+- TOP 3.2.: Bildung eines Arbeitskreises zur Errichtung einer Arbeitsplatzbörse für beschäftigungslose Jugendliche im 24. Stadtbezirk (in der Sitzung am 06.03.2007 vertagt)
+- TOP 3.3.: Öffnung der Personal-Toilette am S-Bahnhof Fasanerie für Passanten und Fahrgäste
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Blade Night 2007
+- TOP 5.2.: Mobile Spielaktion Reinachstraße vom 30.07. bis 03.08.2007 Skabiosenplatz vom 06.08. bis 10.08.2007
+- TOP 5.3.: Informationswoche Grünanlage Dülferstraße/Schleißheimer Straße
+- TOP 5.4.: Neubau einer Wohnanlage mit Tiefgarage Riemerschmidstr. 2 Anhörung im Einzelfall auf Anforderung
+- TOP 5.5.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1933 Trollblumenstraße (südlich), Blaukissenweg (beidseitig) und Bahnlinie München - Regensburg (westlich) (in der Sitzung am 06.03.2007 vertagt)
+- TOP 5.6.: Straßenbenennung im Bereich der Detmoldstraße
+- TOP 5.7.: Vollzug der Baumschutzverordnung: a) Wellenkampstr. 1 - 5 b) Hans-Böckler-Str.
+- TOP 5.8.: Fahrradrallye mit Abschlussveranstaltung am 19.05.2007
+- TOP 5.9.: Sonnwendfeuer am 23.06.2007 und Gartenfest am 06.-08.07.2007
+- TOP 5.10.: 111-Jahr-Feier Münchner Sportclub e. V., Eberwurzstraße vom 25.-28.05.2007
+- TOP 5.11.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/38 Schleißheimer Straße (westlich), Olschewski-Bogen (südöstlich) - <div>Vertagt in den Unterausschuss</div>
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Schaffung einer entsprechenden Zahl von PKW-Stellplätzen im Bereich der Schleißheimer Straße, für die auf dem Dülferanger weggefallenen Parkplätze (BA-Antrag Nr. 1894) - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Instandsetzung der Schleißheimer Straße einschließlich des Mittelteilers zwischen Weitlstraße und Augustin-Rösch-Straße (BA-Antrag Nr. 1821) - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Ausweichstelle für Großfahrzeuge in der Weitlstraße - östlich der Bushaltestelle "Feldmochinger Anger" - <div>zur Kenntnis genommen</div>
+- TOP 6.4.: Verlegung Karlsfelder Straße (Schreiben der MAN) - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Begrünung Trafo-Häuschen Krempelhuberplatz (BA-Antrag Nr. 1896) - <div>zur Kenntnis genommen</div>
+- TOP 6.6.: Perspektive München Leitlinie Kinder- und Familienpolitik - <div>zur Kenntnis genommen</div>
+- TOP 6.7.: Kreuz und quer abgestellte Fahrräder auf dem Marienplatz und seiner unmittelbaren Umgebung sowie auf anderen zentralen Plätzen - <div>zur Kenntnis genommen</div>
+- TOP 6.8.: Zusatzfinanzierung für den Straßenunterhalt - <div>zur Kenntnis genommen</div>
+- TOP 6.9.: Aktion saubere Stadt Öffentlichkeitskampagne und Maßnahmenkonzept - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Zuschussnehmerdatei 2007 Vollzug des Haushaltsplanes 2007 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates/Zentrale - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Zuschussnehmerdatei 2007 Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Zuschussnehmerdatei 2007 Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Stadtjugendamtes - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Zuschussnehmerdatei 2007 Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: EOF-Förderung - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Veranstaltungen im öffentlichen Raum - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Fa. MTU Aero Engines GmbH Strahl- und Wellenleistungsprüfstände - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Öffentlichkeitsbeteiligung, Frühzeitige Unterrichtung Planungsgebiet: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/35 und Bebauungsplan mit Grünordnung Nr. 1947 a, Moosacher Straße (nördlich), Bahngleisbogen München-Feldmoching - München -Milbertshofen (östlich), Schittgablerstraße (südlich), Lerchenauer Straße (westlich) (Änderung des Bebauungsplanes Nr. 1688 a) - Knorr Bremse - - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Datenblätter Kindergrippen - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Vollzug der Baumschutzverordnung; Genehmigungsbescheide a) Schneeglöckchenstr. 100 b) Himmelschlüsselstr. 23 c) Schwabenspiegelstr. 8 d) Wildröschenstr. 6 e) Eberhardstr. 3 a f) Schneeglöckchenstr. 130 g) Caracciolastr. 47 - <div>zur Kenntnis genommen</div>
+- TOP 6.20.: Baumfällungslisten - <div>zur Kenntnis genommen</div>
+- TOP 6.21.: Zweckentfremdung von Wohnraum - <div>zur Kenntnis genommen</div>
+- TOP 6.22.: Unveränderte Fortführung eines Gaststättenbetriebes: "Seehaus" Ferchenbachstr. 209 - <div>zur Kenntnis genommen</div>
+- TOP 6.23.: Errichtung von personenbezogenen Parkplätzen - <div>zur Kenntnis genommen</div>
+- TOP 6.24.: Lerchenauer Straße - Bahnübergang nördlich Franz-Sperr-Weg, Sperrung in der Zeit vom 12.04. mit 13.04.2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.25.: Meldelisten Bauvorhaben - <div>versch. Unterlagen werden angefordert</div>
+- TOP 6.26.: Baumaßnahmen Stadtwerke - <div>zur Kenntnis genommen</div>
+- TOP 6.27.: Erneuerung des Fahrbahnbelages in der Wellenkampstraße und Gundermannstraße (Anliegerinformation) - <div>zur Kenntnis genommen</div>
+- TOP 6.28.: Kommunalwahl 2008 Bildung der Bezirksausschüsse für die Amtsperiode 2008 - 2014 - <div>zur Kenntnis genommen</div>
+- TOP 6.29.: Budget der Bezirksausschüsse Änderung und Ergänzung der Richtlinien - <div>zur Kenntnis genommen</div>
+- TOP 6.30.: München. Der Wirtschaftsstandort. Fakten und Zahlen 2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.31.: Münchner Statistik; 3. Quartalsheft, Jahrgang 2006 - <div>zur Kenntnis genommen</div>
+- TOP 6.32.: Erhöhung der Gebühren für Baustelleneinrichtungen, Halteverbote und Ausnahmegenehmigungen (Schreiben BA 1) - <div>zur Kenntnis genommen</div>
+- TOP 6.33.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten - <div>zur Kenntnis genommen</div>
+- TOP 6.34.: Kinder- und Jugendgesundheit in München - Aktuelle Schwerpunktsetzung und Handlungsbedarf - Ergebnisse der Einschulungsuntersuchungen 2004/2005 - Impfungen können lebenswichtig sein! - <div>zur Kenntnis genommen</div>
+- TOP 6.35.: Vollzug der Baumschutzverordnung, Vorab-Stellungnahme aus Fristgründen - <div>zur Kenntnis genommen</div>
+- TOP 6.36.: Sperrung des Bahnübergangs Fasanerie am 19. und 20.04.2007 - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Jugend, Soziales, Schule, Kultur
+- TOP 7.2.: Unterausschuss Planung, Verkehr, Umwelt am 13.03.2007
+- TOP 7.3.: Unterausschuss Planung, Verkehr, Umwelt am 28.03.2007
+- TOP 7.4.: Lokalbaukommission trifft die Bezirksausschüsse
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
