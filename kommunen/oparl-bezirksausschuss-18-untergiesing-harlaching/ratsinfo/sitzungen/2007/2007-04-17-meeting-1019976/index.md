@@ -1,0 +1,106 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2007-04-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1019976
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1019976
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Reinigungsaktion in der Säbener Straße; Bürgerschreiben vom 24.03.2007
+- TOP 2.2.: Lärmschutzwand an der Brudermühlbrücke; Bürgerschreiben vom 02.03.2007
+- TOP 2.3.: Heckenpflanzung am Wettersteinplatz; Bürgerschreiben vom 30.03.2007
+- TOP 2.4.: Ausschluss von Kindern aus Spielgruppe in einem Kindergarten; Bürgerschreiben vom 30.03.2007 - <div>vertagt</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Ferienspielaktion für Kinder und Familien aus dem Stadtteil vom 21.08. bis 01.09. in Harlaching Oberbibergerstraße von 13.00 Uhr bis 19.00 Uhr; Antragssumme: 7.500,-- ?; Beschlussvorlage des Direktoriums vom 27.03.2007
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Verwendungsnachweis des Vereins zur Förderung der Waldorfpädagogik e.V. vom 27.02.2007 bezüglich des gewährten Zuschusses in Höhe von 1.307,32 ? für die Anschaffung von Musikinstrumenten
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: zuletzt in den UA verwiesene Themen: - Erstellung einer Prioritätenliste für die Sanierung von Straßen im Stadtbezirk
+- TOP 3.3.3: UA Umwelt
+- TOP 1: Baumpflanzungen in der Kühbachstraße aus Lärmschutzgründen (Ziffer 1 des Antrages); Empfehlung Nr. 02-08 / E 00621 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 05.10.2006; Sitzungsvorlage Nr. 02-08 / V 09604; Beschluss des Bezirksausschusses des Stadtbezirkes 18 Untergiesing-Harlaching vom 17.04.2007; Beschlussvorlage des Baureferates
+- TOP 1.1.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung, Borkenkäfer-Bescheinigungen 3.3.6.1.1 Anwesen in der Prößlstraße; Mitteilung vom 27.03.2007
+- TOP 1.2.: Aktion saubere Stadt; Öffentlichkeitskampagne und Maßnahmenkonzept; - "München - die saubere Stadt"; Antrag Nr. 02-08 / A 01361 vom 14.01.2004; - Geldstrafen für Hundekot auf öffentlichen Straßen und Plätzen; Antrag Nr. 02-08 / A 01527 vom 22.03.2004; - Präsentation des Hundekotproblems in den Medien; BV-Empfehlung Nr. 02-08 / E 00077 des 2. Stadtbezirkes am 03.05.2005; - Verstärktes Vorgehen gegen undisziplinierte Hundehalter; BV-Empfehlung Nr. 02-08 / E 00156 des 8. Stadtbezirkes vom 07.07.2005; - Verunreinigung von Straßen und Plätzen sanktionieren; Schriftliche Anfrage gem. § 68 GeschO von Herrn Stadtrat Richard Quaas vom 13.12.2005; - Aufstellen von Plastiktütenspendern und Abfallbehältern zur Beseitigung von Hundekot; Antrag Nr. 02-08 / A 03061 vom 16.05.2006; - Effektive Verfolgung und drastische Bestrafung der Hundebesitzer bei Nichtentfernen der Hundehaufen, Ziffer 7 des Antrages; BV-Empfehlung Nr. 02-08 / E 00427 des 8. Stadtbezirkes am 01.06.2006; - Hundekot / energische Vorgehensweise gegen Hundebesitzer; BV-Empfehlung Nr. 02-08 / E 00637 des 9. Stadtbezirkes am 23.11.2006; Sitzungsvorlage Nr. 02-08 / V 06697; Beschluss des Bauausschusses vom 27.03.2007 (SB);
+- TOP 1.3.4: UA Soziales
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; Anwesen in der Naupliastraße, Schreiben des Sozialreferat, Amt für Wohnen und Migration vom 28.03.2007
+- TOP 1.3.: Wohnen in München IV; Wohnungspolitisches Handlungsprogramm 2007 - 2011; Schreiben des Sozialreferates, Amt für Wohnen und Migratin vom 09.10.2006; Ergebnisprotokolle aus den Sitzungen der Arbeitsgruppe Wohnungslosigkeit am 19.09.2006, 04.10.2006 und 21.11.2006; Zuleitung des Sozialreferates, Amt für Wohnen und Migration vom 08.03.2007
+- TOP 1.4.: Perspektive München; Leitlinie Kinder- und Familienpolitik; Familienfreundliche Betriebe; Antrag Nr. 02-08 / A 03304 vom 18.10.2006; Familienfreundlichkeit in München fördern: Wettbewerb für familienfreundlichste Einrichtung und Familienkarte stärken die Familien; Antrag Nr. 02-08 / A 03494 vom 31.01.2007; Sitzungsvorlage Nr. 02-08 / V 09459; Beschluss des Kinder- und Jugendhilfeausschusses vom 20.03.2007 (VB); Ergänzung vom 15.03.2007
+- TOP 1.5.: Kindertagesstätten freigemeinnütziger Träger, Kindergarten Hänsel und Gretel e.V.; 18. Stadtbezirk Untergiesing-Harlaching; Erhöhung des Baukostenzuschusses für die Erfüllung von Brandschutzauflagen; Sitzungsvorlage Nr.: 02-08 / V 09509; Beschluss des Schulausschusses des Stadtrates vom 21.03.2007 (SB)
+- TOP 1.6.: Einrichtung von Ganztagsschulen (in Untergiesing-Harlaching); Empfehlung Nr. 02-08 / E 00618 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching vom 05.10.2006; Sitzungsvorlage Nr. 02-08 / V 09447; Beschluss des Schulausschusses des Stadtrates vom 21.03.2007 (SB)
+- TOP 1.3.5: UA Bau und Planung
+- TOP 1.1.: Hans-Mielich-Platz; Neugestaltung und Grünplanung des Platzbereiches und der Anschlussbereiche zu den umliegenden Straßen Gerhard-, Hans-Mielich-, Kühbach- und Teutoburger Straße; Schreiben des Referates für Stadtplanung und Bauordnung vom 14.03.2007 mit der Bitte um Stellungnahme
+- TOP 1.2.: Anhörungen zu Bauvorhaben 3.5.4.2.1 Anwesen in der Naupliastraße; Anhörung vom 30.03.2007
+- TOP 1.3.: Baumbestandspläne 3.5.4.3.1 Anwesen in der Josef-Vötter-Straße; Anhörung vom 30.03.2007
+- TOP 1.4.: Antrag auf Genehmigung einer Warenstellage an einem Anwesen in der Grünwalder Straße; Schreiben des Kreisverwaltungsreferates vom 27.03.2007 mit der Bitte um Stellungnahme bis 07.05.2007
+- TOP 1.1.: Baufälle im 18. Stadtbezirk
+- TOP 1.2.: Gaststätten (unveränderte Fortführung); Mitteilungen des Kreisverwaltungsreferates; 3.5.6.2.1 Gaststätte in der Grünwalder Straße; Schreiben vom 27.03.2007
+- TOP 1.3.: Einkommensorientierte Förderung - EOF; Antrag Nr. 02-08 / A 03392 von Frau Stadträtin Ilse Nagel vom 05.12.2006; Sitzungsvorlagen Nr. 02-08 / V 09648; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.03.2007 (SB)
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem § 29 StVO; Hier: Anhörungsverfahren Blade Night 2007 vom 30.04. bis 27.08.2007; Zuleitung des Kreisverwaltungsreferates mit Email vom 29.03.2007 mit der Bitte um Stellungnahme bis 19.04.2007
+- TOP 1.2.: Anzeige für öffentliche Vergnügungsveranstaltungen; Veranstaltung auf Privatgrund; Hier: Jubiläumsfeier des Turnerbund München e. V. vom 29.06. - 01.07.2007 in der Säbenerstraße; Zuleitung des Kreisverwaltungsreferates mit Email vom 28.03.2007 mit der Bitte um Stellungnahme bis 20.04.2007
+- TOP 1.3.: Anzeige für öffentliche Vergnügungsveranstaltungen; Veranstaltung in einer städtischen Grünanlage; Hier: Waldfest am 30.06. und 01.07.2007 in der Oberbiberger Straße / Münchener-Kindl-Weg; Zuleitung des Kreisverwaltungsreferates mit Email vom 28.03.2007 mit der Bitte Stellungnahme bis 10.05.2007
+- TOP 1.4.: Anzeige für öffentliche Vergnügungsveranstaltungen; Veranstaltung auf Privatgrund; Hier: Kasperle im Wunderland vom 31.05. - 17.06.2007 in der Grünanlage Oberbiberger Straße / Münchener-Kindl-Weg; Zuleitung des Kreisverwaltungsreferates vom 28.03.2007 mit der Bitte um Stellungnahme
+- TOP 1.1.: 850. Stadtgeburtstag; Protokoll der Sitzung der Bezirksausschussvertreter vom 28.02.2007; Schreiben des Referates für Arbeit und Wirtschaft vom 21.03.2007
+- TOP 1.2.: Veranstaltungen im öffentlichen Raum; Sitzungsvorlage Nr. 02-08 / V 09646; Parallelveranstaltungen auf städtischem Privatgrund nach den Richtlinien für Veranstaltungen auf öffentlichem Grund genehmigen; Antrag Nr. 02-08 / A 03050 von Herrn Stadtrat Mario Schmidbauer vom 08.05.2006; Projekt "Strand in der Stadt"; Auftrag aus dem Beschluss der Vollversammlung vom 26.07.2006; Beschluss in der Sitzung des Kreisverwaltungsausschusses vom 13.03.2007 (VB)
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Erhöhung der Gebühren für Baustelleneinrichtungen; Haltverbote und Ausnahmegenehmigungen; Antrag des Bezirksausschusses des 1. Stadtbezirkes - Altstadt-Lehel; Zuleitung des Direktoriums mit Email vom 27.03.2007
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bildung der Bezirksausschüsse für die Amtsperiode 2008 - 2014; Änderung - von § 3 Abs. 2 Satz 2 BA-Satzung, - der Anlage 2 zur BA-Satzung, - von § 4 Abs. 2 BA-Satzung; Sitzungsvorlage Nr. 02-08 / V 9609; Beschluss des Verwaltungs- und Personalausschusses vom 07.03.2007 (VB)
+- TOP 4.2.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten; Sitzungsvorlage-Nr. 02-08 / V 09703; Beschluss des Verwaltungs- und Personalausschusses vom 07.03.2007
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
