@@ -1,0 +1,97 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2007-04-18T16:30:00+02:00
+- Ende: 2007-04-18T21:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=945
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=945
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Mündliche Fragestunde - erledigt
+- TOP 3.1: Wann beginnt die notwendige Sanierung des Schwimmbades in der Finckensteinallee? - schriftlich beantwortet
+- TOP 3.2: Kein Jugendschutz in Zehlendorf? - beantwortet
+- TOP 3.3: Erhalt der Dreilinden-Grundschule - beantwortet
+- TOP 3.4: Einführung von Kontaktbereichsbeamten - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringliche Ausschussanträge - erledigt
+- TOP 4.1.1: Bestellung eines Gutachtens - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Bebauungsplan X-149-1 (Insel Schwanenwerder) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 4.3: Anträge - erledigt
+- TOP 4.3.1: Ersatzstandort für den Rumpelbasar Zehlendorf - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Haltelinie für den Steglitzer Damm - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Überprüfung der Aufzugsserviceverträge - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Auch "Nicht-Plätze" bedürfen der Pflege - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Aktivierung von zusätzlichen Einnahmen für den Sport durch die Realisation von Werbung im Straßenland an Sportanlagen - im Ausschuss abgelehnt
+- TOP 4.4.3: Beschmierung von Verteilungskästen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.4: BVG-Wartehäuschen an der Kirchenmauer Zehlendorfer Eiche - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.5: Fahrradständer am S-Bahnhof Rathaus Steglitz - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.6: Verkehrsberuhigung Flanaganstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.7: Räumlichkeiten an der Pestalozzi-Schule für die Integrationsklasse Jahrgangsstufe 3 sowie für die berufsorientierte Ausrichtung - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.8: Energieeffiziente Sanierung von Nichtwohngebäuden - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.9: Verkehrssituation in der Schützallee im Bereich Unter den Eichen und Hüninger Straße - im Ausschuss abgelehnt
+- TOP 4.4.10: Sachmittelzuwendung für das Kinder- und Jugendbüro - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.11: Jugendgerechte Öffnungszeiten der Jugendfreizeiteinrichtungen abends und am Wochenende! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.12: Verlängerung der Verkaufszeiten auf dem städtischen Kranoldmarkt - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.13: Schaffung der planungsrechtlichen Grundlage für das Grundstück Johannesstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.14: BVG-Klassenticket auch für die Hort-Kindergruppen! - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.15: Sicherung des Geländes um den Löwensee vor Bebauung - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.16: Nachpflanzungen von Bäumen im Bezirk Steglitz-Zehlendorf - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.17: Bänke für die Bushaltestelle vor dem Kaufhaus Woolworth in Zehlendorf-Mitte - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.18: Durchfahrtsverbot für LKW Crailsheimer Straße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.19: Schülerruderverband Wannsee - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.20: 100 Bäume für Steglitz-Zehlendorf - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.21: Kennzeichnung des Hundeauslaufgebiets südlich des Hüttenwegs - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4.22: Fahrradstellplätze am Forum Zehlendorf - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - - erledigt
+- TOP 5.1: Dringliche Vorlagen zur Kenntnisnahme - erledigt
+- TOP 5.1.1: Umsetzung der Budgeteckwerte der Abteilungen für das Haushaltsjahr 2007 - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Parken auf dem Kastanienhof - überwiesen
+- TOP 5.2.2: Umbenennung der Treitschkestraße in Maria-Rimkus-Straße - überwiesen
+- TOP 5.2.3: Mietvertrag Schmarjestraße - überwiesen
+- TOP 5.2.4: Keine Personalmittelkürzung wegen vermeintlicher Fehleinstufung - überwiesen
+- TOP 5.2.5: Bessere Transparenz der Schulreinigung durch Erstellung und Veröffentlichung von Schulreinigungsplänen! - überwiesen
+- TOP 5.2.6: Hundeverbot für die Rehwiese - überwiesen
+- TOP 5.2.7: Einführung von Sozialmärkten - überwiesen
+- TOP 5.2.8: Gedenktafel für den Guernica-Platz - überwiesen
+- TOP 5.2.9: Durchfahrtsverbot für LKW - überwiesen
+- TOP 5.2.10: Potsdam nachhaltig als touristischen Standortvorteil unseres Bezirks nutzen - überwiesen
+- TOP 5.2.11: Mehr Fahrradabstellanlagen - überwiesen
+- TOP 5.2.12: Eine warme Mahlzeit für alle interessierten Grundschüler! - überwiesen
+- TOP 5.2.13: Parkregelung in der Hochbaumstraße - überwiesen
+- TOP 5.2.14: Verwendung der Mittel der Gembus-Stiftung in 2007 - überwiesen
+- TOP 5.2.15: Mehr Transparenz an den weiterführenden Schulen durch Veröffentlichung der Ergebnisse des "Mittleren Schulabschlusses" und des "Zentralabiturs"! - überwiesen
+- TOP 5.2.16: Halteverbot Birkbuschstraße bei LIDL - überwiesen
+- TOP 5.2.17: Straßenbenennung nach Richard Draemert - überwiesen
+- TOP 5.2.18: Sanierung von Sporthallen in Steglitz-Zehlendorf durch das Schul- und Sportanlagensanierungsprogramm 2008 ermöglichen - überwiesen
+- TOP 5.2.19: Verkehrschaos in der Curtiusstraße beenden! - überwiesen
+- TOP 5.2.20: Her mit den kleinen Ampelmädchen - überwiesen
+- TOP 5.3: Ausschussanträge - erledigt
+- TOP 5.3.1: Abschluss eines Mietvertrages mit dem freien Träger "Weg der Mitte" - überwiesen
+- TOP 6: Haushaltsangelegenheiten - erledigt
+- TOP 6.1: Ausschussanträge - erledigt
+- TOP 6.1.1: Sondermittel der BVV für den Griechisch-Deutschen Förderverein - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 7: Anfragen - erledigt
+- TOP 7.1: Kein Konzept zur Sperrung vom Teltower Damm und der Schloßstraße - beantwortet
+- TOP 7.2: "Fastenzeit" und "Bildungshunger" an Steglitz-Zehlendorfer Schulen! Welche Probleme wurden benannt, welche Erkenntnisse gewonnen und welche Aktivitäten durch das Bezirksamt gestartet? - beantwortet
+- TOP 7.3: Maßregelvollzug in Lankwitz - Teil 3 - beantwortet
+- TOP 7.4: Einschulung an der Clemens-Brentano-Grundschule - beantwortet
+- TOP 7.5: Konflikte im Jugendfreizeitheim Schottenburg - beantwortet
+- TOP 7.6: Sauberes Trinkwasser und Erhalt der Rehwiese als Naherholungsgebiet - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Stärkere Beteiligung von Jugendlichen an der Haushaltsplanaufstellung 2008/2009 durch die Initiierung von Umfragen und Informationskampagnen - im Ausschuss abgelehnt
+- TOP 8.2: Sanierung Schwimmbad Finckensteinallee - ohne Änderungen im Ausschuss beschlossen
+- TOP 8.3: Kernforderungen des Verwaltungsreform-Grundsätze-Gesetzes ernsthaft in Steglitz-Zehlendorf umsetzen! - im Ausschuss abgelehnt
+- TOP 8.4: Gymnasium Steglitz - vertagt
+- TOP 8.5: Erhalt der Ladenstraße im U-Bhf. Onkel Toms Hütte - vertagt
+- TOP 8.6: Einführung von "Business Improvement Districts" (BIDs) - vertagt
+- TOP 9: Schlusswort des BVVorstehers - vertagt
