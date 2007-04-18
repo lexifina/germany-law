@@ -1,0 +1,8 @@
+# TOP 9: Bauvor.Wanheimer O.Nr.-Bürogeb mit Parkhaus
+
+- Sitzung: Ausschuss für Planung und Stadtentwicklung (2007-04-18)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/143931
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/38265
