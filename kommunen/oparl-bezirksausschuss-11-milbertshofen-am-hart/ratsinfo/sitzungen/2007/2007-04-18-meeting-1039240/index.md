@@ -1,0 +1,81 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2007-04-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1039240
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1039240
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Spielplatz zwischen Hamburger und Bremer Straße, Vorstellung der Planungen
+- TOP 4.1.: Anträge des Vereins "Kultur notiert e.V." an die Bezirksausschüsse 1-25, Schreiben des Direktoriums
+- TOP 4.2.: Dankschreiben des Seniorenbeirat des 11. Stadtbezirkes Milbertshofen - Am Hart
+- TOP 4.3.: Einladung in das Kommunalreferat zum Praxisbericht: "Der konjunkturelle Aufschwung bewegt den Münchner Immobilienmarkt"
+- TOP 4.1.: Buslinie bei Abendspielen des FC Bayern und TSV 1860 München, Schreiben der MVG
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Verein Stadtteilarbeit, Einrichten einer Internetseite für das "Frauennetzwerk Milbertshofen"
+- TOP 6.2.: Montessori München e.V., Konflikttraining von Mai-Juni 2007
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.1.: Widmung von Straßenstrecken: Straße "Am Oberwiesenfeld", Neuherbergstraße (Nebenstraße), Straße "Golddistelanger"
+- TOP 6.2.: Widmung einer Teilstrecke der Motorstraße
+- TOP 7.: Anträge
+- TOP 7.1.: Städtebauliche Entwicklungsmaßnahme Nordheide - Ausbau der Diagonale, speziell die Höhe der vorgesehenen Hecken (Bewohnergemeinschaft Nordheide e.V. )
+- TOP 7.1.: Ablehnung der Auslagerung des Hortes an der GS Hanselmannstraße Ablehnung des Antrages der CSU-Fraktion im BA 11 Milbertshofen - Am Hart (Gemeinsamer Elternbeirat der Horte und Tagesheime in der LHS München)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a) Freiligrathstr. 66, eine Birke b) Schleißheimer Str. 426, mehrere Bäume
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Baumaßnahmen: a) Milbertshofener Str. 9 b) Schleißheimer Str. 450
+- TOP 8.3.: Hotelprojekt an der Lerchenauerstraße, U- und Busbahnhof Olympiazentrum, Grundsatzbeschluss
+- TOP 8.1.: Neubau einer Kooperationseinrichtung an der Dientzenhoferstraße im 11. Stadtbezirk Milbertshofen - Am Hart (Beschluss des Schulausschusses des Stadtrates vom 16.05.2007)
+- TOP 8.2.: Tag des offenen Denkmals am 09.09.2007
+- TOP 8.1.: Erweiterung einer Anlieferzone am Oberhofer Platz 4
+- TOP 8.2.: Veranstaltungen auf öffentlichem Verkehrsgrund: a) Stadt-Triathlon am 27.05.2007 b) Blade-Night 2007 vom 30.04.-27.08.2007
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses, Bewilligungsbescheide a)Bewohnergemeinschaft Nordheide, Zeitung, Bewilligung 700,00? b) Schule zur Lernförderung Rotpletzstraße, Streitschlichterschulung, Bewilligung 652,00? c) Verein Stadtteilarbeit e.V., "Task Force", Bewilligung 4000,00? d) Künstlernetzwerk, "Hier sitzen Sie richtig", Bewilligung 1250,00? e) Milbertshofen in Aktion e.V., Aktionstag 2007, Bewilligung 3000,00? f) Förderverein Alte St. Georgskirche, Ausstellung, Bewilligung 3400,00?
+- TOP 9.2.: Zuwendungen aus dem Budget der Bezirksausschüsse, Verwendungsnachweise
+- TOP 9.3.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/35 und B-Plan mit Grünordnung Nr. 1947a (Änderung des B-Plan 1688a) -Knorr-Bremse- Frühzeitige Unterrichtung gem. §3 Abs.1 des BauGB
+- TOP 9.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/36 (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.03.2007)
+- TOP 9.3.: EOF-Förderung (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.03.2007)
+- TOP 9.4.: Vorhabenbezogener B-Plan mit Grünordnung Nr. 1984 (Teiländerung des B-Plan Nr. 1592b) - Münchner IT-Zentrum der BMW AG -
+- TOP 9.5.: Vertragliche Standortsicherung von Mobilfunkanlagen - nicht öffentlich -
+- TOP 9.6.: Vermögenshaushalt 2007 (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.03.2007) - nicht öffentlich -
+- TOP 9.7.: Baumaßnahmen der Stadtwerke München
+- TOP 9.8.: Meldelisten Bauvorhaben
+- TOP 9.9.: Fällungsanträge Einzelmaßnahmen
+- TOP 9.10.: Aktion saubere Stadt, Öffentlichkeitskampagne und Maßnahmenkonzept (Beschluss des Bauausschusses vom 27.03.2007)
+- TOP 9.11.: Ausbau der öffentlichen Grünflächen Nordheide West 2. Teilprojekt Bebauungsplan Nr. 1779 b,c,d (Beschluss des Bauausschusses vom 06.03.2007)
+- TOP 9.12.: Zusatzfinanzierung für den Straßenunterhalt (Beschluss des Bauausschusses vom 06.03.2007)
+- TOP 9.13.: Kreuz und quer abgestellte Fahrräder auf dem Marienplatz (Beschluss des Bauausschusses vom 06.03.2007)
+- TOP 9.14.: Information der LBK München
+- TOP 9.1.: Perspektive München, Leitlinie Kinder- und Familienpolitik (Beschluss des Kinder- und Jugendhilfeausschusses vom 20.03.2007)
+- TOP 9.2.: Kinder- und Jugendgesundheit in München (Beschluss der Vollversammlung des Stadtrates vom 14.03.2007)
+- TOP 9.3.: Rettung des Hinterhoftheaters (Beschluss der Vollversammlung des Stadtrates vom 14.03.2007) - nicht öffentlich -
+- TOP 9.4.: Arbeitsgruppe Wohnungslosigkeit, Ergebnisprotokolle
+- TOP 9.5.: Katholische Jugendarbeit in München und der Region, Jahresbericht 2006
+- TOP 9.6.: Ausländerbeirat München, Pressemitteilung vom 29.03.2007
+- TOP 9.7.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 9.1.: Aktion Münchner Fahrgäste, Aktuelle Information
+- TOP 9.2.: Veranstaltungen im öffentlichem Raum (Beschluss des Kreisverwaltungsausschusses vom 13.03.2007)
+- TOP 9.3.: Verkehrsrechtliche Anordnungen
+- TOP 9.4.: Genehmigung eines personenbezogenen Sonderparkplatzes
+- TOP 9.5.: Vollzug der Grünanlagensatzung vom 12.08.1991, Containeranlage am Brundageplatz
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
