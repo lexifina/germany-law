@@ -1,0 +1,90 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2007-04-18T17:00:00+02:00
+- Ende: 2007-04-18T22:33:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1314
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1314
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=33710
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - im Ausschuss abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Gesamtkonzept für Gedenkzwecke - überwiesen
+- TOP 5.2: Kostenlose Codierungen zu Beginn der Fahrradsaison 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Mehr Sicherheit auf dem Schulweg zur Berta-von-Suttner-Oberschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.4: Schulbaumaßnahmen (IZBB) in Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.5: Reparaturarbeiten und Sanierungen an der U6 zwischen Kurt-Schumacher-Platz und Alt-Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Aufstellung des Bebauungsplanes 12-12 für das Gelände der Kleingartenkolonie Mariabrunn, Baseler Straße 42-56 sowie für den Mariabrunner Weg und eine Teilfläche der Baseler Straße im Bezirk Reinickendorf - überwiesen
+- TOP 5.7: Einstellung des Bebauungsplanentwurfes XX-220 - überwiesen
+- TOP 5.8: "Serenade am See" im Jahr 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Ergebnisse der Machbarkeitsstudie PPP - vertagt
+- TOP 6.2: Kürzungen bei der Berliner Feuerwehr und Polizei - Sicherheitsgefährdung der Reinickendorfer Bürgerinnen und Bürger - beantwortet
+- TOP 6.2.1: Kürzungen bei der Berliner Feuerwehr und Polizei - ohne Änderungen in der BVV beschlossen
+- TOP 6.2.2: Einsatzkonzept 06 der Berliner Feuerwehr - überwiesen
+- TOP 6.3: Perspektiven für Reinickendorf ohne den Flughafen Tegel - vertagt
+- TOP 6.4: Für eine stete Kooperation von Kulturhaus Centre Bagatelle e. V. und Reinickendorfer Bezirksamt - beantwortet
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Verordnung über die Veränderungssperre XX-190 / 43 für die Grundstücke Gabrielenstraße 37A, 37B und 65B im Bezirk Reinickendorf, Ortsteil Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Bezirkshaushaltsrechnung für das Haushaltsjahr 2005 - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Schulwegsicherung in Reinickendorfer Radwegekonzept einbeziehen - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Bauvorhaben im Bezirk - erledigt
+- TOP 8.5: Keine gewaltverherrlichenden Spiele auf bezirkseigenen Computern - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Instandsetzung der Halfpipe - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: In Berlin kostenlosen Aids-Test wieder anbieten - ohne Änderungen in der BVV beschlossen
+- TOP 8.8: Materialien für PPP - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Unterrichtscontainer für die Bettina-von-Arnim-Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Fußgängerübergang am U- und S-Bahnhof Wittenau wieder öffnen - erledigt
+- TOP 8.11: Fahrradständer am S-Bahnhof Hermsdorf einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 8.12: Kostenlose Angebote der Berliner AIDS-Hilfe e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 8.13: Jugendrechtshaus - ohne Änderungen in der BVV beschlossen
+- TOP 8.14: Feuerwehren im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.15: Gewährleistung der verlässlichen Halbtagsgrundschule in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.16: Auflistung der Liegenschaften des Bezirks - ohne Änderungen in der BVV beschlossen
+- TOP 8.17: Radwegekonzept für den Bezirk Reinickendorf - überwiesen
+- TOP 8.18: Gesamtkonzept für als besonders belastet ausgewiesene Kieze in Reinickendorf - erledigt
+- TOP 8.19: Volkshochschulkurs einrichten zum Thema - Elternvertreter - - ohne Änderungen in der BVV beschlossen
+- TOP 8.20: Verbesserte Verkehrsführung in der Scharnweberstraße während der Schließung des Flughafentunnels - erledigt
+- TOP 8.21: Durchgängiges Halteverbot im Robinienweg Reinickendorf, Ortsteil Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.22: Weiterer Zugang an S-Bahnhöfen Alt-Reinickendorf und Karl-Bonhoeffer-Nervenklinik - ohne Änderungen in der BVV beschlossen
+- TOP 8.23: Ausstattung von Personal der ARGE Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.24: Ergänzungen zu den Erläuterungen zum Bezirkshaushaltsplan und zur Investitionsplanung aufführen - ohne Änderungen in der BVV beschlossen
+- TOP 8.25: Inventar des Centre Bagatelle - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Raumvergabe an extremistische Parteien - ohne Änderungen in der BVV beschlossen
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Qualitätskontrollen in Kitas sicherstellen - überwiesen
+- TOP 10.2: Deutsch-französisches Schulprojekt unterstützen - überwiesen
+- TOP 10.3: Müttersprachkurse an der VHS - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Herstellung einer Fußgängerverbindung zwischen Tegel-Süd und Alt-Tegel - überwiesen
+- TOP 10.5: Sozialtherapeutisches Zentrum - überwiesen
+- TOP 10.6: Weg zum Rathauspark passierbar halten - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: MAE für psychisch Kranke - überwiesen
+- TOP 10.8: Sicherer Schulweg in Alt-Tegel - überwiesen
+- TOP 10.9: Flächendeckend Spielplatzwächter in Reinickendorf einsetzen - ohne Änderungen im Ausschuss beschlossen
+- TOP 10.10: Reinickendorfer Umwelttag 2007 - überwiesen
+- TOP 10.11: Bezirkliche Kulturarbeit durch Kooperation mit dem Verein Kulturhaus Centre Bagatelle e. V. fortentwickeln - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Umweltzonen - für Anrainer und die Wirtschaft flexibel gestalten - überwiesen
+- TOP 11.2: Schutz für Fahrgäste vor Tauben unter der Brücke Wilhelmsruher Damm am S-Bahnhof Wittenau - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Ampelanlage Heiligenseestraße / Konradshöher Straße - überwiesen
+- TOP 11.4: Tankstellenverzeichnis in Reinickendorf - überwiesen
+- TOP 11.5: Märkisches Viertel an das U-Bahnnetz anschließen - überwiesen
+- TOP 11.6: Verkehrszählung in Alt-Lübars - überwiesen
+- TOP 11.7: Mehr Sicherheit durch mehr Video-Überwachung - überwiesen
+- TOP 12: "Reinickendorf in Berlin ganz oben" !? - vertagt
+- TOP 13: Regenrückhaltebecken in der Grünanlage Edelhofdamm ("Kaiserpark") - beantwortet
+- TOP 14: Namensschilder für Ordnungsamtsmitarbeiter - ohne Änderungen in der BVV beschlossen
+- TOP 15: Informationen für den Übergang an Oberschulen deutlich verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 16: Aufstellung von Feuerwehr-Absperrpfählen in der Auguste-Viktoria-Allee - ohne Änderungen in der BVV beschlossen
