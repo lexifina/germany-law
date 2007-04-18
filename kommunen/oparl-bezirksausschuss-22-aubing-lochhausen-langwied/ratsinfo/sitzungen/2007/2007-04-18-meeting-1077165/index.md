@@ -1,0 +1,107 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2007-04-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1077165
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1077165
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Müllentleerung der Abfalleimer an der Bushaltestelle Limesstraße, Hundekotboxen
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Verschmutzung Georg-Böhmer-Weg
+- TOP 4.2.: Schaffung von kulturellen Einrichtungen im Rahmen der Planungen für Freiham
+- TOP 4.3.: Schaffung von Sportflächen und Sportanlagen gleichzeitig mit der Wohnbebauung in Freiham
+- TOP 4.4.: Einrichtung von Kindertageseinrichtungen gleichzeitig mit der Wohnbebauung in Freiham
+- TOP 4.5.: Konkretisierung und Realisierung der Aussagen zum Ausbau der Kastelburgstraße zwischen Kronwinkler- und Mariabrunner Straße
+- TOP 4.6.: Ausweisung von Räumen für moderne Formen des Wohnens und Lebens im Alter im Rahmen der Planungen für die Bebauung in Freiham
+- TOP 4.7.: Schaffung eines Gesundheitszentrums im Rahmen der Planungen für die Bebauung von Freiham
+- TOP 4.8.: Randsteinabsenkung Aubing-Ost-Straße
+- TOP 4.9.: Einrichtung eines Schulzentrums gleichzeitig mit der Wohnbebauung in Freiham
+- TOP 4.10.: Schaffung von Freizeitflächen und Freizeiteinrichtungen gleichzeitig mit der Wohnbebauung in Freiham
+- TOP 4.11.: Zweifahrtrichtung für Radfahrer in der Mundesgasse
+- TOP 4.12.: Hinweis auf Suchtgefahren durch verschiedene Maßnahmen
+- TOP 4.13.: Bebauungsplanentwurf Freiham; 1. Erweiterung des geplanten Stadtparks zwischen Neuaubing und Freiham; 2. Erweiterung des Schulzentrums im 1. Bauabschnitt von Freiham
+- TOP 4.14.: Siedlungsschwerpunkt Freiham Nord/ Überarbeitung des Strukturkonzeptes eevas/terra.nova
+- TOP 4.15.: Dorfkern Aubing
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Gemeinsam in Obermenzing und Aubing (GOA)
+- TOP 5.2.: Größere Transparenz an städtischen Schulen; Durchsetzung des Anspruchs auf Sportunterricht ( Ziffer 4 des Antrages )
+- TOP 5.3.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: SG Lochhausen 1901 e.V.
+- TOP 5.4.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Floriansfreunde der FFW Langwied-Lochhausen v. 1878 e.V.
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: Veranstaltung auf Privatgrund, hier: Aubinger Traubenfest, Gotzmannstr. am 20./21.07.07
+- TOP 6.3.: Vollzug der Wassergesetze; Tauchen mit Atemgerät im Langwieder See, hier: Allgemeinverfügung
+- TOP 6.4.: Erweiterung/ Verlängerung des Gehweges der Paosostraße
+- TOP 6.5.: Bebauungsplan mit Grünordnung Nr. 1767 Rienecker-, Limes-, Rothenbühler-, Rothenfelser Str., Schulsportanlage, Weißensteinstraße (Aufhebung des Aufstellungsbeschlusses)
+- TOP 6.6.: Bebauungsplan mit Grünordnung Industriestr. (zwischen Bergson- und Lidelstr.), Bergsonstr. (östlich Industriestr.), Huisler-, Hohenrechbergstr. und Mariabrunner Str. (zwischen Bergson- und Huislerstr. sowie nördlich Kastelburgstr.) - Aufstellungsbeschluss -
+- TOP 6.7.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Nachtrag zur Maibaumaufstellung mit neu! Festumzu in Aubing (Alto-/Bergsonstr.) am 01.05.07
+- TOP 6.8.: Errichtung von zwei Werbeanlage, Nähe Bodenseestr. 320, Fl. Nr. 3536/3 und Fl. Nr. 3535/0
+- TOP 6.9.: Bebauungsplan mit Grünordnung Nr. 1703, Schussenrieder Straße, Schubinweg, Amelbrechtweg; Erschließung der neuen Baugrundstücke
+- TOP 6.10.: Verkehrsrechtiche Anordnung, Kurzparkzone Limesstr. 71
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Baufälle im 22. Stadtbezirk (v. 12.-18.03.07, 19.-25.03.07, 26.03.-01.04.07, 02.-08.04.07), Schr. Planungsreferat vom 19.03.07, 26.03.07, 02.04.07, 10.04.07
+- TOP 7.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung IV/23 und Bebauungsplan mit Grünordnung Nr. 1998 Bahnlinie München - Herrsching (südlich), Kravogelstr. (westlich), Stadtgrenze (nördlich), ehemaliges Gleislager (östlich), Schr. Schul- und Kultusreferat vom 16.03.07)
+- TOP 7.3.: Ausbau des Flughafens Oberpfaffenhofen, Schr. Dr. Bernhard vom 14.03.07
+- TOP 7.4.: Zuwendung aus dem Budget des BA 22, hier: Schülerbücherei und Projekt "Welt der Römer", Grundschule an der Gotzmannstraße, Schr. Direktorium vom 20.03.07
+- TOP 7.5.: Baumaßnahmen der Stadtwerke München GmbH, Stichtag: 19.03.07, 26.03.07, 02.04.07
+- TOP 7.6.: Budget der BA´s, Antrag der cba auf Bezuschussung des Kaufs eines Lkw´s, Schr. Direktorium vom 23.03.07
+- TOP 7.7.: Aktuelle Baumaßnahmen, Schr. MVG vom 23.03.07
+- TOP 7.8.: Zweckentfremdung von Wohnraum, Imkerweg 48 a, Schr. Sozialreferat vom 15.03.07
+- TOP 7.9.: Planänderung nach § 18, 18d AEG i.V.m. § 76 BayVwvfG; zur Plangenehmigung vom 04.07.06, ESTW München Südwest, ESTW München Pasing; Modulstandort Varnhagenstraße, Schr. Planungsreferat vom 29.03.07
+- TOP 7.10.: Verkehrsrechtliche Anordnung, Haltverbot Plankenfelser Straße, Schr. KVR vom 29.03.07
+- TOP 7.11.: Wirtschafts-Info 3/07, Schr. Ref. f. Arbeit u. Wirtschaft vom 30.03.07
+- TOP 7.12.: Jahresbericht 2006 für das städt. Notquartier für Wohnungslose in der Mainaustr. 2-4, Schr. Sozialreferat vom 03.04.07
+- TOP 7.13.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Ducale", Bodenseestr. 228, Schr. KVR vom 29.03.07
+- TOP 7.14.: Plangenehmigung nach § 18, 18b AEG i.V.m. § 74 Abs. 6 VwVfG für den Neubau einer Eisenbahnüberführung im Bereich des Gleisdreiecks München-Pasing in der Nähe der Bodenseestraße; Gemarkung Pasing, Schr. Planungsreferat vom 04.04.07
+- TOP 7.15.: Daten Kinderkrippen April 2007, Mitteilung Sozialreferat vom 05.04.07
+- TOP 7.16.: Gewerbeentwicklung Freiham; Vergabe von städtischen Gewerbeflächen, Schr. Ref. f. Arbeit u. Wirtschaft vom 04.04.07
+- TOP 7.17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Behebung der Schäden an der Stützmauer und dem Absperrgitter entlang der Bahnstrecke München-Augsburg in Höhe der Henschel-/ Federseestraße, Schr. Baureferat vom 15.03.07 zum BA-Antrag Nr. 1725 vom 20.12.06
+- TOP 8.2.: Gehsteige in Aubing, Schr. Baureferat vom 12.03.07
+- TOP 8.3.: Beleuchtung hinter dem KiGa St. Markus und schlechter Zustand des Weges, Schr. Baureferat vom 22.03.07 zum BA-Antrag Nr. 1642 vom 22.11.06
+- TOP 8.4.: Erweiterung des Friedhofes in Lochhausen, Schr. Friedhofsverwaltung vom 19.03.07 zum BA-Antrag Nr. 1782 vom 17.01.07
+- TOP 8.5.: Friedhof Aubing, Schr. Friedhofsverwaltung vom 20.03.07 zum BA-Antrag Nr. 1658 vom 22.11.06
+- TOP 8.6.: Unratablagerungen im 22. Stadtbezirk, Schr. KVR vom 27.03.07
+- TOP 8.7.: Grünanlage am Aufseßerplatz, Sandspielplatz, Schr. Baureferat vom 22.03.07
+- TOP 8.8.: Verkehrsbelastung der bzw. Gefährdungen auf der Lochhausener Straße (alt) im Abschnitt östlich Berglwiesenstraße, Schr. KVR vom 22.03.07
+- TOP 8.9.: Durchführung einer Stadtteilwoche im 22. Stadtbezirk, Schr. Kulturreferat vom 28.03.07 zum BA-Antrag Nr. 1117 vom 09.05.03
+- TOP 8.10.: Schaffung von Vereinsheimen im 22. Stadtbezirk mit Möglichkeiten für den Schießsport, Schr. Schul- und Kultusreferat vom 22.03.07 zum BA-Antrag Nr. 1735 vom 20.12.06
+- TOP 8.11.: Errichtung eines Lehrpfades im Bereich Moosschwaige/ Aubinger Lohe; Einbau von Spielgelegenheiten für Kinder im beantragten Erlebnis-/ Waldlehrpfad Aubinger Lohe/Waldschwaige, Schr. Planungsreferat vom 28.03.07 zu den BA-Anträgen Nr. 1638 vom 22.11.06 und 1781 vom 17.01.07
+- TOP 8.12.: Umfeld der neuen Kinderkrippe an der Thuisbrunner Straße, Schr. Baureferat vom 30.03.07 zum BA-Antrag Nr. 1528 vom 18.10.07
+- TOP 8.13.: Prüfung der aktuellen Leerstandssituation der Werkswohnungen der Stadtwerke München am Aubinger Wasserturm, Schr. Ref. f. Arbeit u. Wirtschaft zum BA-Antrag Nr. 1862 vom 22.02.07
+- TOP 8.14.: Freigabe des Fußweges auf der Altostraße, östliche Seite, zwsichen Grabenfleckstraße und der Kreuzung der A 99 für Radfahrer in beiden Richtungen, Schr. KVR vom 04.04.07 zum BA-Antrag Nr. 1529 vom 18.10.06
+- TOP 8.15.: Ausbau der Bahnüberführungen der S5 und S6 auf Durchfahrtshöhe von 4,5 m, Schr. Planungsreferat vom 04.04.07
+- TOP 8.16.: Vernetzung von Kindergärten, Horten, Schulen und anderen Institutionen, Schr. Sozialreferat vom 04.04.07 zum BA-Antrag Nr. 1640 vom 22.11.06
+- TOP 8.17.: Anforderung eines schriftlichen Berichtes von Regsam-West über Probleme im Stadtbezirk 22, Schr. Sozialreferat vom 11.04.07 zum BA-Antrag Nr. 1739 vom 20.12.06
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Vollversammlung vom 14.03.07 - Veranstaltungen im öffentlichen Raum - Kinder- und Jugendgesundheit in München - Beteiligungs- und Entscheidungsrechte der BA´s bei Standortfragen und Baumaßnahmen für Kindertagesstätten - Bildung der BA´s für die Amtsperiode 2008-2014
+- TOP 9.2.: Ausschuss für Stadtplanung und Bauordnung vom 21.03.07 - Dorfkern Aubing - Darstellung des Sachstandes - (Hinweis/ Ergänzung) - Siedlungsschwerpunkt Freiham, Freiham Nord
+- TOP 9.3.: Kreisverwaltungsausschuss vom 17.04.07 - Lichtzeichenanlagen-Bauprogramm 2007
+- TOP 9.4.: Umweltschutzausschuss vom 24.04.07 - Lärmsanierung an bestehenden Schienenwegen des Bundes
+- TOP 9.5.: Kinder- und Jugendhilfeausschuss vom 24.04.07 - Perspektive München; Leitlinie Kinder- und Familienpolitik
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Einladung in das Kommunalreferat zum Praxisbericht: "Der konjunkurelle Aufschwung bewegt den Münchner Immobilienmarkt" am 03.05.07 um 18.00 Uhr, Roßmarkt 3, Konferenzraum 232
+- TOP 10.2.: Erhöhung der Gebühren für Baustelleneinrichtungen, Haltverbote und Ausnahmegenehmigungen, Antrag BA 1 vom 20.03.07
+- TOP 10.3.: Einladung zur Gedenkfeier anlässlich 10 Jahre Gedenkzug zur Erinnerung an den Todesmarsch des KZ von Dachau am 27.04.07 um 17.30 Uhr im Bürgerhaus Gräfelfing, Bahnhofsplan, Schr. Gem. Gräfelfing vom 03.04.07
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 16.05.2007, Gaststätte "Wienerwald", Limesstr. 63
