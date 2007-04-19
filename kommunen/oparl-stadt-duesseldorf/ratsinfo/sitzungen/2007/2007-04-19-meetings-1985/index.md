@@ -1,0 +1,71 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-04-19T16:00:00+02:00
+- Ende: 2007-04-19T19:45:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1985
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1985
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111970.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111970.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111970.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 01.03.2007 - einstimmig beschlossen
+- TOP 3: Schulzentrum Kamper Weg 291 Neubau einer 1fach-Spo - einstimmig beschlossen
+- TOP 4: Deutzer Strasse 102, Neubau einer Gymnastikhalle m - einstimmig beschlossen
+- TOP 5: BPl5874/080-Flottenstr-BerÖB;öff.Ausl. - einstimmig beschlossen
+- TOP 6: IMMIS-Luft Bernburger Straße - zur Kenntnis genommen
+- TOP 7: Modellrechnung Schadstoffbelastung - zur Kenntnis genommen
+- TOP 8: Grundwasserver.Vennhausen-Rücknahme Allgemeinverf. - zur Kenntnis genommen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Rahmenplan Einzelh. KG und Empfehlung - einstimmig beschlossen
+- TOP 12: Trödelmärkte auf dem OBI-Parkplatz - einstimmig beschlossen
+- TOP 13: Freigabe verkaufsoffener Sonntage 2007 - mehrheitlich beschlossen
+- TOP 14: Grundwasserstände in Vennhausen - zur Kenntnis genommen
+- TOP 15: Anruf-Sammel-Taxi in Unterbach - zur Kenntnis genommen
+- TOP 16: S-Bahnhöfe Eller / Eller-Süd - zur Kenntnis genommen
+- TOP 17: S-Bahn- Anbindung D-Eller / Flufhafen - zur Kenntnis genommen
+- TOP 18: Sozialwohnungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 19: 1 Euro - Kräfte im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 20: Grundstück Sturmstraße / Sodener Weg - zur Kenntnis genommen
+- TOP 21: Straßenreinigung In der Elb - zur Kenntnis genommen
+- TOP 22: Grundstück Karlsruher Straße 37 - zur Kenntnis genommen
+- TOP 23: Bürgerbefragung 2006 - zur Kenntnis genommen
+- TOP 24: Stromkosten Kirmesplätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 25: Bauvorhaben Sturmstraße und In der Elb - zur Kenntnis genommen
+- TOP 26: B-Plan - Vorentwurf Am Kleinforst - zur Kenntnis genommen
+- TOP 27: Grundstück Jenaer Weg 14 - zur Kenntnis genommen
+- TOP 28: S-Bahnhöfe im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 29: Volkstrauertag 2007 - mehrheitlich beschlossen
+- TOP 30: Verkehrsberuhigung Waldenburger Weg - einstimmig beschlossen
+- TOP 31: Anruf-Sammel-Taxi in Unterbach - zur Kenntnis genommen
+- TOP 32: Haltemöglichkeit Alt Eller - einstimmig beschlossen
+- TOP 33: Parkplatz S-Bahnhof Eller-Mitte - einstimmig beschlossen
+- TOP 34: Radweg Schlosspark Eller - einstimmig beschlossen
+- TOP 35: Verlauf Rhein-Ruhr-Express - einstimmig beschlossen
+- TOP 36: Verkehrsbelastung im Stadtbezirk 8 durch Lkw-Maut - zur Kenntnis genommen
+- TOP 37: Zweckverband Erholungsgebiet Unterbacher See - zur Kenntnis genommen
+- TOP 38: Entente Florale im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 39: Bürgersteig Gumbertstraße / Gertrudisplatz - einstimmig beschlossen
+- TOP 40: Sparkassengesetz NRW - zur Kenntnis genommen
+- TOP 41: Fußgängerampel Sandträgerweg / Striegauer Weg - einstimmig beschlossen
+- TOP 42: Namensänderung - zur Kenntnis genommen
+- TOP 43: Info Baugesetzbuch - Novelle 2007 - zur Kenntnis genommen
+- TOP 44: Masterplan Schulen, Programm 2007 - zur Kenntnis genommen
+- TOP 45: Offene Ganztagsschule - Maßnahmen 2007/2008 und Fo - zur Kenntnis genommen
+- TOP 46: Einbahnstraßenregelung Am Krahnap - zur Kenntnis genommen
+- TOP 47: Fußgängerbrücke Vennhauser Allee - zur Kenntnis genommen
+- TOP 48: Lichtmasterplan im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 49: Grünschnittsammlung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 50: Schloss Eller - zur Kenntnis genommen
+- TOP 51: Kettenabsperrung Gumbertstraße - zur Kenntnis genommen
+- TOP 52: Glascontainer im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 53: Öffnung der Schulhöfe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 54: Parksituation Kamper Weg - zur Kenntnis genommen
