@@ -1,0 +1,8 @@
+# TOP 5: BPl5874/080-Flottenstr-BerÖB;öff.Ausl.
+
+- Sitzung: Bezirksvertretung 8 (2007-04-19)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/143944
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/37978
