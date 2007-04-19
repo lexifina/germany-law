@@ -1,0 +1,8 @@
+# TOP 3: Schulzentrum Kamper Weg 291 Neubau einer 1fach-Spo
+
+- Sitzung: Bezirksvertretung 8 (2007-04-19)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/143942
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/36703
