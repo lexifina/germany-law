@@ -1,0 +1,84 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2007-04-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1047270
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1047270
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Fahrradweg Feldmochinger Straße
+- TOP 2.2.: Öffnung des Jugendlagers "The Tent" während des Oktoberfestes; Verkehrssituation Franz-Schrank-Str / In den Kirschen
+- TOP 2.3.: Bauvorhaben Dachauer Str. 184 - 188 - <div>nach Antrag</div>
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Ortstermin Grünanlage Karl-Lipp-Str.
+- TOP 3.2.: 18.jetzt (Fest Junger Erwachsener): Vorabfrage
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Jour Fixe Verkehrsbetriebe
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Bebauung Vivico-Gelände - Moosacher Bahnhof
+- TOP 3.2.: Jour-Fixe mit der LBK
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: 1200-Jahr-Feier
+- TOP 3.2.: Tunneltaufe am 19.04.07
+- TOP 3.3.: Seniorennachmittag im Rahmen der Maifeier
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Benennung eines Weges in Moosach - <div>nach Antrag</div>
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Optimierung der Kreuzung Hanauer Straße / Pelkovenstraße - <div>nach Antrag</div>
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10; Kinder- und Jugendtreff Mooskito: Graffitiprojekt
+- TOP 6.: Anhörungen
+- TOP 6.1.: Straßenfest des Kath. Pfarramtes St. Martin Moosach am 08.07.07
+- TOP 6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.: Genehmigung einer Warenstellage: 1. Dachauer Str. 423 2. Dachauer Str. 409 3. Bunzlauer Str. 1
+- TOP 6.4.: Änderung der Geh- und Radwegbeschilderung in der Liegnitzer Straße und Jakob-Hagenbucher-Straße
+- TOP 6.5.: Zweckentfremdung von Wohnraum: Riesstraße (nicht-öffentlich)
+- TOP 6.6.: Schulsprengel Amphionschule
+- TOP 6.7.: Sommerfest der Borstei am 21.07.07 in der Franz-Marc-Straße
+- TOP 6.8.: Beschilderung Haldenberger- / Lechelstraße
+- TOP 6.9.: Blade-Night
+- TOP 6.10.: Straßenbenennungen (nicht-öffentlich)
+- TOP 6.11.: Kultur im Stadtquartier
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Aufnahme des Teplitzer Weges nördlich der Saarlouiser Straße in die Tempo-30-Zone der Trinklsiedlung (nicht vorgesehen)
+- TOP 7.2.: Wertstoffinsel Weiherweg / Trinksiedlung (Aufstellung derzeit noch nicht möglich)
+- TOP 7.3.: Schadstoffbelastung des vormaligen Betriebsgeländes der Fa. Bärlocher an der Riesstraße in München (keine gesundheitlichen Gefährdungen)
+- TOP 7.4.: Erhalt des Serviceangebots der Moosacher Post in der Breslauer Straße in vollem Umfang (Filiale wird mit sämtlichen Dienstleistungen aufrecht erhalten)
+- TOP 7.5.: Reinigungsturnus der Trambahngleise in der Dachauer Straße zwischen Hugo-Troendle-Straße und Baubergerstraße (zwei Mal pro Jahr in Verbindung mit Heckenschnitten)
+- TOP 7.6.: Ablehnung großflächiger Werbung am "Uptown München" ("Bubbles" nicht genehmigt)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Öffnung des Zeltlagers "The Tent" während des Oktoberfestes (Schreiben des BA 9 Neuhausen-Nymphenburg)
+- TOP 8.2.: Lichtzeichenanlagen-Bauprogramm 2007
+- TOP 8.3.: Fällungsgenehmigungen 1. Pelkovenstraße 56 2. Seydlitzstr. 30 3. Warschauer Str. 19 4. Gärtnerstr. 23
+- TOP 8.4.: Budget der Bezirksausschüsse: Antrag "cba"
+- TOP 8.5.: Perspektive München: Leitlinie Kinder- und Familienpolitik
+- TOP 8.6.: 850. Stadtgeburtstag, Protokoll der Sitzung der Bezirksausschussvertreter vom 28.02.07
+- TOP 8.7.: KinderTagesZentrum (KiTZ) Gubestraße
+- TOP 8.8.: Zusatzfinanzierung für den Straßenunterhalt
+- TOP 8.9.: Abgestellte Fahrräder auf dem Marienplatz
+- TOP 8.10.: Kulturelle Veranstaltungen und Programme April 2007
+- TOP 8.11.: Arbeiten im Straßenraum: Riesstraße zwischen Gneisenau- und Dessauer Straße vom 02.04.07 - 04.05.07
+- TOP 8.12.: Riesstraße - Wiederherstellung nach Hochbau (Berufsschulzentrum)
+- TOP 8.13.: Unterrichtung über das Fällen von Gefahrbäumen
+- TOP 8.14.: Aktuelle Information der Aktion Münchner Fahrgäste
+- TOP 8.15.: Kinder- und jugendgesundheit in München
+- TOP 8.16.: Baumaßnahmen der Stadtwerke München
+- TOP 8.17.: EOF-Förderung
+- TOP 8.18.: Meldeliste Bauvorhaben
+- TOP 8.19.: Daten Kinderkrippen April 2007
+- TOP 8.20.: Ergebnisprotokolle aus den Sitzungen der Arbeitsgruppe Wohnungslosigkeit am 19.09.06, 04.10.06 und 21.11.06
+- TOP 8.21.: Baubeginnsanzeige einer Mobilfunkanlage (nicht-öffentlich)
+- TOP 8.22.: Erhöhung der Gebühren für Baustelleneinrichtungen, Halteverbote und Ausnahmegenehmigungen (Schreiben des BA 1 Altstadt-Lehel)
+- TOP 8.23.: Pächterwechsel "Cipolla d'Oro", Netzerstr. 29
+- TOP 8.24.: Gleis-Sanierungsarbeiten im Bereich Müllerstraße und Rumfordstraße
+- TOP 4: Anträge
