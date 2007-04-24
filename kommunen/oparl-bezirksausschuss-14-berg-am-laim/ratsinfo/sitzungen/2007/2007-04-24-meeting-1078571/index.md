@@ -1,0 +1,98 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2007-04-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1078571
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1078571
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.2.1.: Baumkirchner Str. ? Antrag auf Wandmontage einer Wechselwerbeanlage
+- TOP 3.2.1.: Kultur im Stadtquartier
+- TOP 3.2.2.: Michaeliburgstraße ? ein Denkmal für historischen Straßenverlauf
+- TOP 3.2.3.: 850. Stadtjubiläum ? Projekt ?Nachbarn?
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Fest junger Erwachsener 2007
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Maibaumverein Berg am Laim ? Antrag auf Zuschussgewährung
+- TOP 3.5.2.: cba e.V. ? Antrag auf Zuschussgewährung
+- TOP 3.5.3.: Budget der Bezirksausschüsse ? vertagt v.d. Märzsitzung
+- TOP 3.5.4.: Kultikids e.V. ? Antrag auf Zuschussgewährung
+- TOP 3.6: Sonstiges
+- TOP 3.6.1.: Erhöhung der Gebühren für Baustelleneinrichtungen, Haltverbote und Ausnahmegenehmigungen ? Antrag des BA 1
+- TOP 3.6.2.: Gastspiel des Circus Roberto auf der Festwiese St.-Veit-Straße
+- TOP 3.6.3.: Fahnenweihe Maibaumverein Berg am Laim e.V.
+- TOP 3.6.4.: Optimolgelände ? Sperrzeitaufhebung von Imbissbetrieben
+- TOP 3.6.5.: Trausnitzstraße ? Antrag für eine Freischankfläche
+- TOP 3.6.6.: Bürgerschreiben Hundekot in Berg am Laim
+- TOP 3.6.7.: Anhörungsverfahren 22. München Marathon am 14.10.2007
+- TOP 3.7.1.: Simbacher Str. ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Hachinger Bach ? Ausbau zwischen Michaelibad und Bahnlinie - Zwischennachricht
+- TOP 4.1.1.2.: Veräußerung des Grundstücks der ehem. Landwirtschaftsschule an der Berg-am-Laim-Str.
+- TOP 4.1.1.3.: Wohnen in München III - Erfahrungsbericht
+- TOP 4.1.1.4.: EOF-Förderung - Beschlussvorlage
+- TOP 4.1.1.5.: Schutz der Münchner Vorgärten
+- TOP 4.1.1.6.: Bauvorhaben im Stadtbezirk 14
+- TOP 4.1.2.1.: Baumkirchner Straße zwischen Kreillerstraße und Truderinger Straße im 14. Stadtbezirk Berg am Laim - Erneuerungsmaßnahme mit Verbesserungen bzw. erstmalige Herstellung Projektkosten (Kostenobergrenze): 3.300.000 ? Bedarfs- und Konzeptgenehmigung
+- TOP 4.1.2.2.: Lichtzeichenanlagen-Bauprogramm 2007
+- TOP 4.1.2.3.: Zusatzfinanzierung für den Straßenunterhalt 1. Straßenzustandsbericht 2. Straßenunterhalt nur noch ein Flickwerk? Ein nachlassender Straßenunterhalt nicht auf Kosten der Anlieger 3. Straßenunterhalt, Sonderprogramm
+- TOP 4.1.2.4.: Baumaßnahmen der Stadtwerke
+- TOP 4.1.3.1.: Lärmsanierung an bestehenden Schienenwegen des Bundes
+- TOP 4.2.1.: 850. Stadtgeburtstag ? Protokoll der Sitzung mit den Bezirksausschüssen
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Kindertageseinrichtung Baumkirchner Straße ? Anerkennung von Plätzen
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: PERSPEKTIVE MÜNCHEN Leitlinie Kinder- und Familienpolitik Familienfreundliche Betriebe Familienfreundlichkeit in München fördern: Wettbewerb für familienfreundlichste Ein- richtung und Familienkarte stärken die Familien
+- TOP 4.4.2.: Wohnen in München IV ? Empfehlung der Arbeitsgruppe Wohnungslosigkeit
+- TOP 4.6: Sonstige
+- TOP 4.6.1.: Veranstaltungen im öffentlichen Raum
+- TOP 4.6.2.: Zuständigkeitsverlagerung im Bereich ?Sondernutzung? - Änderung d. Aufgabengliederung
+- TOP 4.6.3.: Aktion saubere Stadt ? Öffentlichkeitskampagne und Maßnahmenkonzept
+- TOP 4.6.4.: Abbruch eines Wohngebäudes in der Gratlspitzstraße
+- TOP 4.6.5.: Gaststätte ?Flügelrad? ? Unveränderte Fortführung
+- TOP 4.6.6.: Gaststätte ?Zum Glaskasten? ? Unveränderte Fortführung
+- TOP 4.6.7.: Gaststätte ?Il Castello? ? Unveränderte Fortführung
+- TOP 4.6.8.: Gaststätte ?Strombe? (früher ?Gustav?) ? Unveränderte Fortführung
+- TOP 4.7.1.: Schlüsselbergstr. ? Neubau eines Dreifamilienhauses m. Garagen
+- TOP 4.7.2.: Waldstraße ? Stellungnahme der LBK zum Fällungsantrag
+- TOP 4.7.3.: Unterrichtung über das Fällen von öff. Gefahrenbäumen
+- TOP 4.7.4.: Unterrichtung über das Fällen von priv. Bäumen
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
