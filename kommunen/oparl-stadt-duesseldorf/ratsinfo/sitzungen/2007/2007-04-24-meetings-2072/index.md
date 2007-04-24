@@ -1,0 +1,55 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-04-24T17:00:00+02:00
+- Ende: 2007-04-24T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2072
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2072
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111962.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111962.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111962.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Rahmenplan Einzelh. KG und Empfehlung
+- TOP 4: FNPÄ31-Nachden Mauresköthen-Stell.Plan
+- TOP 5: Offene Ganztagsschule - Maßnahmen 2007/2008 und Fo
+- TOP 6: Umbenennung der Karl-Röttger-Tagesschule
+- TOP 7: Bauern- und Handwerkermarkt Gerricusplatz
+- TOP 8: Namensänderung
+- TOP 9: Morper Str. - Querungshilfen
+- TOP 10: Zuschuss zu einem Schulprojekt
+- TOP 11: Der Bezirksvorsteher und Owens-Illinois Inc.
+- TOP 12: Stellenplan Bezirksverwaltungsstelle 7
+- TOP 13: Aufzug für das Gerresheimer Rathaus
+- TOP 14: Wirtschaftsförderung und Klimaschutz
+- TOP 15: Sicherung der Industriebranche des ehem. Lagers 61
+- TOP 16: Logistikkonzept BSN Glaspack
+- TOP 17: Gestaltung Benderstraße
+- TOP 18: Einzelhandelsplan: Erreichbarkeit mit dem Fahrrad
+- TOP 19: Neuerungen in der ev. Kirchengemeinde Gerresheim
+- TOP 20: Pfeiffer-Brücke über die Ludenberger Straße
+- TOP 21: Rechtsabbiegegebot aus der Limburgstraße
+- TOP 22: Sanierung der Allee in der Altenbergstraße
+- TOP 23: Pfeiffer-Brücke über die Ludenberger Straße
+- TOP 24: Luftbelastung Haltestelle "Rathaus Gerresheim"
+- TOP 25: Stromversorgung im Fußgängerbereich Neusser Tor
+- TOP 26: Haushaltsplan-Entwurf 2008
+- TOP 27: Sachstandsbericht Werkstattverfahren Glashütte
+- TOP 28: Haushaltsberatungen 2008
+- TOP 29: Wege Waldfriedhof
+- TOP 30: Ostpark
+- TOP 31: Betriebsgenehmigung für BSN Glaspack
+- TOP 32: Tiefgarage Benderstraße
+- TOP 33: Pförtnerampeln
+- TOP 34: Grünschnitt & Biotonne
+- TOP 35: Flugbewegungen über Düsseldorf-Ost
+- TOP 36: Ehrengrabstätten
+- TOP 37: Gewässergüte des Pillebachs
+- TOP 38: Grünschnitt
