@@ -1,0 +1,78 @@
+# Stadtrat (19. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2007-04-24T17:04:00+02:00
+- Ende: 2007-04-24T21:47:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdTCyzbt1cRnO2ZvHVlWA0I
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/2303
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZUrdXtcvt2kfh4oGPQbl0HQmKAyvXjxEw-VHx1JXlfYJ/Bekanntmachung_Stadtrat_24.04.2007.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQWBbcIJuOZYamRq1EjkresVAzUlgjp9zwJTjNMwN5qU/Oeffentliche_Niederschrift_Stadtrat_24.04.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Innere Sicherheit im Stadtteil Horrem / Neu-Bottenroich
+- TOP 2.: Umbesetzung von Ausschüssen
+- TOP 2.1: Umbesetzung des Jugendhilfeausschusses hier: Beratende Vertretung der Kreispolizeibehörde Rhein-Erft-Kreis
+- TOP 2.2: Umbesetzung des Schulausschusses hier: Beratende Vertretung der Katholischen Kirche
+- TOP 2.3: Umbesetzung von Ausschüssen
+- TOP 2.4: Umbesetzung von Ausschüssen und anderen Gremien hier: Antrag der CDU-Fraktion
+- TOP 3.: Änderung der Entschädigungsverordnung
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: Neufassung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen
+- TOP 5.: Stadtentwicklung und Bauleitplanung
+- TOP 5.1: Umsiedlung des Ortes Manheim
+- TOP 5.2: Einzelhandelskonzept für die Stadt Kerpen hier: Abschluss eines Kontraktes über das Einzelhandelskonzept der Stadt Kerpen zwischen dem Rat der Stadt Kerpen und der Bürgermeisterin der Stadt Kerpen
+- TOP 5.3: 56. Änderung Flächennutzungsplan "Am Falder/ Auf dem Bürrig" im Stadtteil Kerpen. hier: Aufstellungsbeschluss zum Änderungsverfahren gem. § 2 BauGB
+- TOP 5.4: Vorhabenbezogener Bebauungsplan KE 321 "Am Falder/ Auf dem Bürrig" im Stadtteil Kerpen hier: Einleitungsbeschluss des Bebauungsplanverfahrens gem. § 12 BauGB
+- TOP 5.5: 55. Änderung des Flächennutzungsplanes "Visteonstraße", Stadtteil Sindorf hier: Offenlegungsbeschluss gem. § 3 (2) BauGB
+- TOP 5.6: Bebauungsplan SI 316 ¿Kreisverkehrsplatz Visteonstraße/Europaring", Stadtteil Sindorf hier: Offenlegungsbeschluss gem. § 3 (2) BauGB
+- TOP 5.7: Bebauungsplan TÜ 282 A/1. Änderung "Feuerwehrgerätehaus", Stadtteil Brüggen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.8: Vorhabenbezogener Bebauungsplan BU 315 " Sondergebiet Steinweg ", Stadtteil Buir - Satzungsbeschluss
+- TOP 5.9: 49. Änderung des Flächennutzungsplanes "Sonderbaufläche Abfallbehandlungsanlage Haus Forst", Stadtteil Manheim - hier: Wirksamkeitsbeschluss
+- TOP 5.10: Bebauungsplan MA 313 " Abfallbehandlungsanlage Haus Forst ", Stadtteil Manheim - hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 6.: Abschluss einer Verwaltungsvereinbarung mit dem Landesbetrieb Straßenbau NRW über den Umbau des Knotenpunktes B 264 / Maximilianstraße / Heisenbergstraße bei Kerpen Türnich
+- TOP 7.: Kindertagesstättenbedarfsplan für Kinder im Alter von 3 Jahren bis zum Beginn der Schulpflicht Kindertagesstättenbedarfsplan für Kinder im Alter von 2 bis unter 3 Jahren Tagespflegebedarfsplan für Kinder im Alter unter 3 Jahren
+- TOP 8.: Neuorganisation des Projektes "Jung hilft Alt"
+- TOP 9.: Erweiterung der Schenkung Baum für das Museum H.J. Baum
+- TOP 10.: Haushaltsangelegenheiten
+- TOP 10.1: Haushaltskonsolidierung
+- TOP 10.2: Jahresrechnung 2006
+- TOP 10.3: Bildung von Haushaltsausgaberesten 2006
+- TOP 10.4: Prioritätenliste für die Beschaffung von Feuerwehrfahrzeugen
+- TOP 10.5: Bereitstellung von Haushaltsmitteln
+- TOP 10.5.1: Betriebsführungsvertrag für die Bäder der Stadt Kerpen
+- TOP 10.5.2: Bau eines Schwallwassertanks im Freibad Türnich
+- TOP 10.5.3: Baubetriebshof Nutzung einer Teilfläche des ehemaligen Gartentreffs sowie Beendigung des Mietverhältnisses für eine Lagerfläche in Kerpen-Mödrath
+- TOP 10.5.4: Umgestaltung der Bushaltestelle Bendenstraße hier: überplanmäßige Bereitstellung von Haushaltsmitteln
+- TOP 10.5.5: Zusätzliche Veranstaltungen 2007 anlässlich des Jubiläums ¿10 Jahre Städtepartnerschaft Kerpen ¿ Oswiecim¿ hier: Beantragung überplanmäßiger Haushaltsmittel
+- TOP 10 a.: Umlageschlüssel der Jugendmusikschule Bergheim
+- TOP 11.: Stellenplan 2007 hier: Einrichtung einer zusätzlichen Stelle innerhalb der Abteilung 22.2, Schulen
+- TOP 12.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 12.1: RegioGrün/Ein Projekt der Regionale 2010
+- TOP 12.2: Außerplanmäßige Mittelbereitstellung für die dringend erforderliche Dachsanierung der Mehrzweckhalle Blatzheim
+- TOP 13.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 14.: Mitteilungen
+- TOP 14.1: Einbringung des Haushalts 2008
+- TOP 14.2: Objekt Maastrichter Str. 5 - 7
+- TOP 14.3: Weihnachtsmarkt in Bergerhausen
+- TOP 14.4: Einführung des Neuen Kommunalen Finanzmanagements
+- TOP 14.5: Verabschiedung des Haushalts 2008
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 15.1: Sachstandsbericht zum Programm K-IRP
+- TOP 15.2: Vermögensbewertung im Rahmen der NKF-Einführung
+- TOP 15.3: Planung von Ratssitzungen 2008
+- TOP 16.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 17.: Abschluss von städtebaulichen Verträgen
+- TOP 17.1: Vorhabenbezogener Bebauungsplan KE Nr. 321 "Am Falder / Auf dem Bürrig" im Stadtteil Kerpen, hier: Abschluss eines Verpflichtungsvertrages
+- TOP 17.2: Bebauungsplan BR 282 A 1. Änderung "Feuerwehrgerätehaus", hier: Abschluss eines städtebaulichen Vertrages zur Übernahme von Planungskosten
+- TOP 18.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 19.: Mitteilungen
+- TOP 20.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 21.: Grundstücksangelegenheiten der GEV Kerpen mbH hier: Verkauf eines Geschäftsanteils
+- TOP 22.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
