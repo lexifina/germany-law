@@ -1,0 +1,89 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2007-04-25T17:10:00+02:00
+- Ende: 2007-04-25T21:40:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=341
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=341
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 1.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl einer Bezirksbeauftragten für Menschen mit Behinderung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Durchführung einer Einwohnerversammlung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Bebauungsplan XIV-157e vom 22.08.2006 mit dem Deckblatt vom 24.11.2006 - Töpchiner Dreieck - - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Mandats als Bürgerdeputierter im Ausschuss für Verwaltung und Gleichstellung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Co-Finanzierung der Schuldnerberatung für den Personenkreis "U25" - beantwortet
+- TOP 9.2: Hörbehindertenberatungsstelle Neukölln - beantwortet
+- TOP 9.3: Konfliktfreie Ampelschaltungen - beantwortet
+- TOP 9.4: Bäume am Columbiadamm - beantwortet
+- TOP 9.5: Ganztagsbetrieb - beantwortet
+- TOP 9.6: Konkurrenzschutz für Traditionsfeste - beantwortet
+- TOP 9.7: Kooperation Jugendamt und Polizei - beantwortet
+- TOP 9.8: Verhungern in Neukölln möglich? - beantwortet
+- TOP 9.9: Neuköllner Ekelfleisch - beantwortet
+- TOP 9.10: Rechtsextreme Übergriffe auf die Falken - beantwortet
+- TOP 9.11: Scientology in Neukölln? - beantwortet
+- TOP 9.12: Schule - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: NPD-Plakate - schriftlich beantwortet
+- TOP 10.2: Straßenausbau Alt-Rudow - beantwortet
+- TOP 10.3: Psychosoziale Betreuung und Beratung Nr. 2 - schriftlich beantwortet
+- TOP 10.4: Sicherheitskonzept für die Schülerinnen und Schüler am ehem. Schulgebäude Christoph-Ruden-Straße - überwiesen
+- TOP 10.5: Was kostet wo wie viel in der Hauptverwaltung? - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Keine Luxussanierung der Straße Alt-Rudow - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Big Brother is watching you - Videoüberwachung eines Konzerns - beantwortet
+- TOP 12.2: Ambulante Ärzte verlassen Neukölln - schriftlich beantwortet
+- TOP 12.3: Sprengung im rechtsfreien Raum - beantwortet
+- TOP 12.4: Neuköllner Suchtberatung - schriftlich beantwortet
+- TOP 12.5: Ignoranz von Toleranz? - beantwortet
+- TOP 12.6: Betreuungszeiten - beantwortet
+- TOP 12.7: Radstreifen in Neukölln - beantwortet
+- TOP 12.8: Umsetzung der Energieeinsparverordnung (EnEV) - beantwortet
+- TOP 13: Große Anfragen - schriftlich - erledigt
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Finanzierungsfortsetzung des Sozialarbeitereinsatzes in der Rütli-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Straßeninstandsetzung in Alt-Rudow - überwiesen
+- TOP 14.3: Bessere Kenntlichmachung der Mittelinsel am Mauerweg - überwiesen
+- TOP 14.4: Ambulante Versorgung sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Boule-Bahn im Carl-Weder-Park - überwiesen
+- TOP 14.6: Saubere Bahnanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Saubere U-Bahnhöfe - mit Änderungen in der BVV beschlossen
+- TOP 14.8: Gütesiegel für Neuköllner Kitas - überwiesen
+- TOP 14.9: Beschleunigte Prüfung von Wohnungsanträgen im Jobcenter - überwiesen
+- TOP 14.10: Neue Armut? - überwiesen
+- TOP 14.11: Umsetzung der Energieeinsparverordnung (EnEV) kontrollieren - Klimaschutz verbessern - überwiesen
+- TOP 14.12: Neukölln isst gesund? - Lebens(mittel)qualität verbessern - überwiesen
+- TOP 14.13: Linksabbieger - in der BVV abgelehnt
+- TOP 14.14: Fußgängerüberweg im Mariendorfer Weg - überwiesen
+- TOP 14.15: Tempo-30-Zone im Neudecker Weg - überwiesen
+- TOP 14.16: Tag des offenen Flugfeldes - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Öffnung der Späthbrücke - überwiesen
+- TOP 14.18: Öffnung der Brücke am Hafen Britz-Ost - überwiesen
+- TOP 14.19: Zebrastreifen - in der BVV abgelehnt
+- TOP 14.20: Suchtberatung Gutschmidtstraße - überwiesen
+- TOP 14.21: Vogelschutz in Neukölln - überwiesen
+- TOP 14.22: Sichere Überquerung der Buschkrugallee - überwiesen
+- TOP 14.23: Ausstellung zum Berliner Bankenskandal - ohne Änderungen in der BVV beschlossen
+- TOP 14.24: Betreuungszeiten - überwiesen
+- TOP 14.25: Amt des Migrationbeauftragten - in der BVV abgelehnt
+- TOP 14.26: Straßenumbenennung - in der BVV abgelehnt
+- TOP 15: Mitteilungen - erledigt
+- TOP 16: Vorlagen zur Kenntnisnahme - Zwischenberichte - erledigt
+- TOP 17: Vorlagen zur Kenntnisnahme - Schlussberichte - erledigt
