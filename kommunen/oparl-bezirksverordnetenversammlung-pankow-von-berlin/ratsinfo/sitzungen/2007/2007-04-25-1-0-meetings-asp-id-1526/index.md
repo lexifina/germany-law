@@ -1,0 +1,94 @@
+# ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2007-04-25T17:30:00+02:00
+- Ende: 2007-04-25T22:05:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1526
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1526
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=25997
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - erledigt
+- TOP 1.2: Geschäftliche Mitteilungen - erledigt
+- TOP 1.3: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.4.1: Baugenehmigung für den denkmalgeschützten Bereich der Grünen Stadt (# 2005 07 427) - beantwortet
+- TOP 1.4.2: Sozialverträglichen Ablauf von Modernisierungen im denkmalgeschützten Teil der Grünen Stadt sichern - mit Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - beantwortet
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl der Mitglieder des Ehrenamtlichen Dienstes im sozialen Bereich - Sozialkommissionen - gewählt
+- TOP 1.9: Aufhebung der Martin-Luther-King-Oberschule (03T02) - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Schließung des Friedhofs V, Germanenstraße, 13156 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Auszahlung einer Weihnachtsbeihilfe für BezieherInnen von ALG II und Grundsicherung nach SGB XII - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: BürgerInnenfreundlicher Bezirk - Verbesserung der Öffentlichkeitsarbeit und des Informationsangebotes - vertagt
+- TOP 1.13: Aufarbeitung der Altakten in den Fachbereichen SozS, SozG, SozE im Jahr 2007 - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Umleitung des Verkehrs in Heinersdorf - vertagt
+- TOP 1.15: Ombudsstelle für Hartz IV- Betroffene im BA Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Parkverbot in der Pankgrafenstraße - in der BVV abgelehnt
+- TOP 1.17: Neue Impulse für den Agendaprozess in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Parkraumbewirtschaftung prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Elektronische Zeiterfassungssysteme - in der BVV abgelehnt
+- TOP 1.20: Neuwahlen der Betroffenenvertretungen - vertagt
+- TOP 1.21: Keine Privatisierung von Straßen und Plätzen - vertagt
+- TOP 1.22: Bericht zu den Sanierungszielen - zurückgezogen
+- TOP 1.23: Denkmalschutzbericht erstellen! - vertagt
+- TOP 1.24: Entwicklung des ehemaligen Rangier- und Güterbahnhofes Pankow - überwiesen
+- TOP 1.25: Arbeitsmarktprogramm 2007 - mit Änderungen in der BVV beschlossen
+- TOP 1.26: Kommunaler Klimaschutz (1): Bezirkliches Klimaschutzziel definieren - mit Änderungen in der BVV beschlossen
+- TOP 1.27: Vandalismus in Pankower Parkanlagen - beantwortet
+- TOP 1.28: Anmeldungen Schuljahr 2007/2008 - beantwortet
+- TOP 1.29: Umgang des JobCenters mit "arbeitslosen" KünstlerInnen - vertagt
+- TOP 1.30: Kommunaler Klimaschutz (2): Mit gutem Beispiel voran - Verhaltensbedingte Energieeinsparungen in öffentlichen Gebäuden - mit Änderungen in der BVV beschlossen
+- TOP 1.31: Ausstellung "Das hat's bei uns nicht gegeben. Antisemitismus in der DDR" in Pankow zeigen - vertagt
+- TOP 1.32: Erhaltung und Ausbau des Straßenbahnnetzes im Bezirk Pankow - vertagt
+- TOP 1.33: Arbeit im JobCenter Pankow und Kooperation mit privaten Arbeitsvermittlungen - vertagt
+- TOP 1.34: Kommunaler Klimaschutz (3): Nutzung von KfW-Krediten für energetische Gebäudesanierungen - mit Änderungen in der BVV beschlossen
+- TOP 1.35: Ein Bund fürs Leben in Pankow - vertagt
+- TOP 1.36: Respect Gaymes unterstützen - vertagt
+- TOP 1.37: Ausbildungspaten - überwiesen
+- TOP 1.38: Kommunaler Klimaschutz (4): Runder Tisch Klimaschutz - mit Änderungen in der BVV beschlossen
+- TOP 1.39: Weniger ist mehr - Schilderwald roden! - vertagt
+- TOP 1.40: Kampagne zu Lebensformen entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 1.41: Kommunaler Klimaschutz (5): Klimafolgen meistern - mit Änderungen in der BVV beschlossen
+- TOP 1.42: Mehr Fluss - weniger Staub?! - vertagt
+- TOP 1.43: Kommunaler Klimaschutz (6): Pankow plant für den Klimawandel - mit Änderungen in der BVV beschlossen
+- TOP 1.44: Kabelloser Zugang zum Internet - überwiesen
+- TOP 1.45: Orientierung mit Plan - ohne Änderungen in der BVV beschlossen
+- TOP 1.46: Beschilderung der Bezirksamtsgebäude endlich an Bezirksnamen anpassen - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Nutzung des Gebäudekomplexes Kastanienallee 82 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.1: Nachnutzung des Schulgebäudes Kastanienallee 82 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: EU-Bericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Versickerung von Niederschlagswasser auf bezirkseigenen Grundstücken - vertagt
+- TOP 2.4: Entwicklung der Verkehrsinfrastruktur in Buch - vertagt
+- TOP 2.5: Zukunft der Schullandheime und Einrichtungen der Kinder- und Jugenderholung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Hartz IV - Verteilung der Eingliederungsmittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Ausbau der Kreuzung Hauptstraße - Mühlenstraße - Gravensteinstraße in Französisch-Buchholz - vertagt
+- TOP 2.8: Mehr Bürgerdemokratie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Gestaltung der Bahnbrücken am S-Bahnhof Pankow - vertagt
+- TOP 2.10: Erschließungsbeiträge Hubertusdamm / Röländer Straße - vertagt
+- TOP 2.11: Fußgängerschutzweg in der Pistoriusstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Verantwortung für JobCenter - vertagt
+- TOP 2.13: Ergebnisse der Behindertenkonzeption - vertagt
+- TOP 2.13.1: Fortschreibung der Behindertenkonzeption - vertagt
+- TOP 2.13.2: Behindertenkonzeption - vertagt
+- TOP 2.14: Gehwegoberfläche wieder herstellen - vertagt
+- TOP 2.15: Verträglicher Ausbau der Pasewalker Straße - vertagt
+- TOP 2.16: Schulwegsicherung für den Schulstandort 2 der Rudolf-Dörrier-Grundschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Historische Aufklärung - vertagt
+- TOP 2.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.19: Bau der Sporthalle in der Neuen Schönholzer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Schließung Polizeiabschnitt 18, Idastraße, verhindern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Arbeitsgruppe "Verkehrssicherheit" im Bezirk Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 des Baugesetzbuchs (BauGB) für das Gebiet "Teutoburger Platz" im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Verfahren für Straßenausbaumaßnahmen in Anwendung des § 3 Absatz 3 Straßenausbaubeitragsgesetz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Nutzungsentgelterhöhung für zu Erholungszwecken genutzte Parzellen in der Anlage "Einigkeit" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Benennung der öffentlichen Grünanlage in der Tassostraße (Block 59) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Geschäftsordnung des Bezirksamtes Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
