@@ -1,0 +1,23 @@
+# Vorschläge der Lichtenberger Bürgerinnen und Bürger zum Haushalt 2008 (Bürgerhaushalt)
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Drucksache/Vorlage: DS/0217/VI
+- Art: Dringliche Beschlussempfehlung
+- Datum: 2007-04-26
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=2653
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/papers.asp?id=2653
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=130&id=105959
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=964 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=978 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=29
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1005 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=27
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=980 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=35
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=981 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=26
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=983 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=32
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=984 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=31
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=986 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=28
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=989 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Entscheidung  https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=10
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=985 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=34
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=988 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=at&id=5
