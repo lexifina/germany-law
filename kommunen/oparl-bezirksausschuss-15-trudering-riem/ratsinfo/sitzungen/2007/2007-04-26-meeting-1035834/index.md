@@ -1,0 +1,156 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2007-04-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1035834
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1035834
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 0.0.3: Wahl des/r Vorsitzenden des UA Planung
+- TOP 1.1.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget durch das Familien-Zentrum Trudering e.V. i.H.v. 4.156,00 Euro
+- TOP 1.2.: Antrag auf Verwendung der Budgetmittel für eigene Veranstaltungen (max. 20% des Jahresbudgets); 75 Jahre Trudering bei München
+- TOP 2.1.: GU Schwankhardtweg; Dankschreiben des Caritas-Zentrum München Ost/Land (BA-Antrag Nr. 02-08 / B 01982)
+- TOP 2.2.: Kommentar zum Theaterprojekt "Schoko oder Chips" von Schülern und Lehrern der GS an der Forellenstraße
+- TOP 2.3.: Versetzung des Schulhelfer-Übergangs bei der Markgrafenschule
+- TOP 2.4.: Straßenrand "Am Eulenhorst" zwischen Tsingtauer Straße und Möwestraße
+- TOP 2.5.: Gefahr beim Überqueren der Straße "Am Mitterfeld" in Höhe des Truchthari-Angers
+- TOP 2.6.: Verbesserung der Sicherheit am Truderinger Bahnhof
+- TOP 2.7.: Vermüllung des Platzes der Menschenrechte; Schreiben der Wohnungseigentumsverwaltung
+- TOP 3.1.: Ärztliche Vorsorgeuntersuchungen in Kindergärten; Antrag Nr. 02-08 / B 00826
+- TOP 3.2.: Am Mitterfeld Verbesserung der Sichtverhältnisse an den Einmündungen Kirtaweg und Truchthari-Anger; Antrag Nr. 02-08 / B 01291 (Zwischennachricht)
+- TOP 3.3.: Widmung des Horst-Salzmann-Weges; Antrag Nr. 02-08 / B 01610
+- TOP 3.4.: Öffnung des Sportplatzes der Schule am Lehrer-Götz-Weg; Antrag Nr. 02-08 / B 01868
+- TOP 3.5.: Ausbau des Gehsteiges (Friedenspromenade) von der Felicitas-Füss-Straße bis zu den Bushaltestellen Ottilienstraße und Markgrafenstraße; Antrag Nr. 02-08 / B 01789
+- TOP 3.6.: Trennkampagne des Abfallwirtschaftsbetriebes München (AWM); Antrag Nr. 02-08 / B 01491
+- TOP 3.7.: Eigentumsverhältnisse im Truderinger Wald; Antrag Nr. 02-08 / B 01526
+- TOP 3.8.: Buslinie 139 Truderinger Straße - Haltestelle Bajuwarenstraße (Top 5.2/10/06)
+- TOP 3.9.: Zuverlässige MVG-Busse in Trudering-Riem, Schreiben der MVG; Antrag Nr. 02-08 / B 01798
+- TOP 3.10.: Zustimmung zur Nutzung einer Bahnfläche (Verschönerung am Denkmal), Schreiben der Deutschen Bahn; Antrag Nr. 02-08 / B 01485
+- TOP 3.11.: Lärmsanierung an den Schienenwegen in Trudering und Schienenlärmsanierung - aber bitte mit Hand und Fuß; Anträge Nr. 02-08 / B 01791 und Nr. 02-08 / B 01801
+- TOP 3.12.: Schienenlärm an der Basis verringern zuzüglich Schreiben des Deutschen Städtetages und der Deutschen Bahn AG; Antrag Nr. 02-08 / B 01606
+- TOP 3.13.: Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 1945 Schwablhofstraße (östlich), Wasserburger Landstraße (nördlich), Praktiker Baumarkt; Antrag Nr. 02-08 / B 01522 Abholzaktion Schwablhofstraße (Antwort auf die E-Mail des BA-Vorsitzenden vom 26.02.07)
+- TOP 3.14.: Baumschutz ja - aber ohne Schikane; Antrag Nr. 02-08 / B 01597
+- TOP 3.15.: Errichtung einer Fahrradbrücke Am Mitterfeld über die A 94; Antrag Nr. 02-08 / B 01692
+- TOP 3.16.: Biergartenfläche im Riemer Park; Antrag Nr. 02-08 / B 01875
+- TOP 3.17.: Kindertagesstätte Feldbergstraße 83 - Streichung des Englischunterrichts im Kindergarten; Antrag Nr. 02-08 / B 00568 (WV 9II/01/06, 10II/10/05, Top 3.17/03/07)
+- TOP 3.18.: Schließung und Rückbau des Notquartiers für Wohnungslose an der Wasserburger Landstraße 55; Antrag Nr. 02-08 / B 01797 (Zwischennachricht)
+- TOP 3.19.: Mehr Kundennähe beim Umbau der Postdienstleistungen - die Stadtspitze ist gefordert; Antrag Nr. 02-08 / B 01800
+- TOP 3.20.: Standardisiertes Störkonzept der Münchner S-Bahn; Antrag Nr. 02-08 / B 01802
+- TOP 3.21.: Buslinie 146, In der Heuluss - Halt auf Wunsch; Antrag Nr. 02-08 / B 01884
+- TOP 3.22.: Nutzung von oberflächennaher Geothermie in Trudering-Riem; Antrag Nr. 02-08 / B 01989
+- TOP 3.23.: Provisorische Gehbahnherstellung Forellenstraße - Mitteilung über den Abschluss der Arbeiten
+- TOP 4.1.: Wettbewerb zur Namensfindung für den Rodelberg
+- TOP 4.2.: Realisierung des Bewohnertreffs im Neubaugebiet an der Bajuwarenstraße
+- TOP 4.3.: Sauberes München: Frühjahrsputz für Wertstoffcontainer auf städtischem Grund
+- TOP 4.4.: Nach dem KiGa-Notstand auch noch ein Info-Notstand
+- TOP 4.5.: Positiv-Liste für BA-Entscheidungsrechte
+- TOP 4.6.: Das etwas andere KomProB-Projekt: Betreutes Wohnen auch in Trudering
+- TOP 4.7.: VHS-Angebot zur Erwachsenenbildung in Trudering
+- TOP 4.8.: Sauberkeit im Riemer Park
+- TOP 5.1.: Antrag auf Verlängerung des Schuhbeck-Palazzo bis zum 03.06.2007 Olof-Palme-Straße - Ecke Josef-Wild-Straße (Anhörung; Frist: 30.04.07)
+- TOP 5.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO; Hier: Anhörungsverfahren Straßenfest im Eisvogelweg am 14.07.2007 (Frist: 07.05.07)
+- TOP 5.3.: Maikäfersuchen des TSV Trudering in der Grünanlage neben der Feldbergschule am 01.05.2007 (Anhörung, Frist: 25.04.07)
+- TOP 5.4.: Verkauf einer städtischen Immobilie FlurNr.: Flst. 206/9 (Tlfl.), 206 (Tlfl.), 216 (Tlfl.) Gemarkung Trudering, Adresse: Ecke Wasserburger Landstraße, Schwablhofstraße östlich
+- TOP 5.5.: Verkauf einer städtischen Immobilie FlurNr.: Flst. 191 (Tlfl.), 191/1, 193/2 (Tlfl.) Gemarkung Trudering, Adresse: Ecke Wasserburger Landstraße, Schwablhofstraße westlich
+- TOP 5.6.: Vollzug von § 13 der BA-Satzung Katalog-Angelegenheiten Nr. 8.2 bzw. 8.3 (Werbeanlagen); 10 Großflächenplakattafeln beleuchtet, Riemer Str. 300 (Anhörung)
+- TOP 5.7.: Vollzug von § 13 der BA-Satzung Katalog-Angelegenheiten Nr. 8.2 bzw. 8.3 (Werbeanlagen); 1 Wechselwerbeanlage, zweiseitig, hinterleuchtet; Riemer Straße 300 (Anhörung)
+- TOP 5.8.: Kultur im Stadtquartier (Anhörung)
+- TOP 5.9.: Vollzug von § 13 der BA-Satzung Katalog-Angelegenheiten Nr. 8.2 bzw. 8.3 (Werbeanlagen); 4 Plakattafeln (Bauzaun); Bajuwarenstraße 50 - 98
+- TOP 5.10.: Vollzug von § 13 der BA-Satzung Katalog-Angelegenheiten Nr. 8.2 bzw. 8.3 (Werbeanlagen); 12 Plakattafeln (Bauzaun); Bajuwarenstraße 45 - 93
+- TOP 6.1.: Riemer Straße 291 - 303; Wiederherstellung erträglicher Wohn- und Nachbarschaftsverhältnisse; Wiederherstellung des Wertes der Häuser; Empfehlung Nr. 02-08 / E 00649 aus der Bürgerversammlung des Stadtbezirkes 15 vom 07.12.2006 Beschluss des Sozialausschusses vom 19.04.2007 (öffentliche Sitzung)
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.1.: Errichtung von Räumlichkeiten für Kinder- und Familienangebote; Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 15.05.2007 (Anhörung; Frist: 09.05.07)
+- TOP 7.2.: Empfehlung der Arbeitsgruppe Wohnungslosigkeit vom 04.10.2006 zur Beschlussvorlage Wohnen in München IV - Wohnungspolitisches Handlungsprogramm 2007 - 2011
+- TOP 7.3.: Spielbus QUAX - Nutzungsgenehmigung / Standortgenehmigung (Anhörung)
+- TOP 7.7.2: UA Planung:
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.1.: Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu verkehrsrechtlichen Anordnungen nach § 45 StVO hier: Wegweisung zur P+R-Anlage Riem (Frist: 04.05.07)
+- TOP 7.2.: Truderinger Straße - provisorische Qerungshilfe (WV 5 VI, Top 7.3.1/09/04, 3.3/11/04, 7.6.2/12/04, 3.9/06/05) (Anhörung; Frist: 27.04.07)
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.1.: Verwendungsnachweis der Grundschule an der Forellenstraße
+- TOP 7.2.: Lichtzeichenanlagen-Bauprogramm 2007 Beschluss des Kreisverwaltungsausschusses vom 17.04.2007
+- TOP 7.3.: Rücknahme der Anträge auf Bezuschussung aus dem BA-Budget durch die cba
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 8.1.: Bescheide und Mitteilungen über bereits durchgeführte Baumfällungen: Waterbergstraße 11, Postweg 60, Niobestraße 30
+- TOP 8.2.: Westermeierstraße 24
+- TOP 8.3.: Graf-Ottenburg-Straße 9
+- TOP 8.4.: Hochkönigstraße 11
+- TOP 8.5.: Sperberstraße 55
+- TOP 8.6.: Kreillerstraße 164
+- TOP 8.7.: Kästlenstraße 5
+- TOP 8.8.: Scheibmeirstraße 35
+- TOP 8.9.: Heilwigstraße 90
+- TOP 8.10.: Graf-Spee-Platz 15
+- TOP 8.11.: Am Hochstand 19
+- TOP 8.12.: Max-Beckmann-Straße 47
+- TOP 8.13.: Schwanenweg 5
+- TOP 8.14.: Spertentalstraße 1 b
+- TOP 8.15.: Sansibarstraße 42
+- TOP 8.16.: Drosselweg 41
+- TOP 8.17.: Markgrafenstraße 42
+- TOP 8.18.: Karlsburger Straße
+- TOP 8.19.: Wasserturmstraße 19
+- TOP 8.20.: Bergerwaldstraße 5
+- TOP 8.21.: Turnerstraße 65
+- TOP 8.22.: Xaver-Weismor-Straße
+- TOP 8.23.: Waldschulstraße 30
+- TOP 8.24.: Vogesenstraße 33 a
+- TOP 8.25.: Hans-Pfann-Straße 146
+- TOP 8.26.: Säntisstraße 10
+- TOP 8.27.: Waldschulstraße 39
+- TOP 8.28.: Weißpfennigweg 8
+- TOP 8.29.: Hippelstraße 32
+- TOP 8.30.: Leonhardiweg 17
+- TOP 9.1.: a) Einladung des Echo e.V. zur Ergebnispräsentation "40 Wagen ostwärts" am 01.04.2007 b) Informationsveranstaltung der SWM - Ausweichtermin am 04.04.2007 c) Einladung, Fußball u.A. mit Bastian Schweinsteiger des Christopherus Schulverein München e.V. am 16.04.2007 d) Einweihungsfeier des Kindergartens der Glockenbach Werkstatt e.V. in der Elisabeth-Mann-Borgese-Straße 7 am 04.05.2007
+- TOP 9.2.: Erhöhung der Gebühren für Baustelleneinrichtungen, Halteverbote und Ausnahmegenehmigungen, Antrag des Bezirksausschusses 1 Altstadt-Lehel
+- TOP 9.3.: Projekt "Nachbarn" des Archivs der Münchner Arbeiterbewegung anlässlich des 850. Stadtgründungsfestes
+- TOP 9.4.: 11. Sommerfest mit Live-Musik des CCB am 30.06.2007 an der Graf-Lehndorff-Straße
+- TOP 9.5.: Forellenstraße - erstmalige Herstellung (Top 7.3.6/03/07); Aufforderung zum Baubeginn
+- TOP 9.6.: Mitteilung über ein Grundstücksgeschäft - Erbbaurechtsaufhebung
+- TOP 9.7.: 18.jetzt - Fest junger Erwachsener im Rathaus am 20. Oktober 07 (Meldetermin: 14.05.07)
+- TOP 9.8.: Öffentliche Erörterung gemäß § 3 Abs. 1 BauGB am 10.05.2007 um 19.00 Uhr im Bürgerzentrum Trudering, Wasserburger Landstraße 32 zuzüglich Mitteilung der Planungsdarlegung vom 23.04.2007 bis 23.05.2007 Schwablhofstraße (westlich), Wasserburger Landstraße (nördlich), Bahnlinie München - Rosenheim (südlich); Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung, Bebauungsplan Nr. 1976
+- TOP 9.9.: Biotop-Kartierung für den Stadtbezirk Trudering-Riem
+- TOP 9.10.: Beiträge des BA´s anlässlich des 850. Stadtgründungsfestes
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 19.03.07 bis 15.04.07
+- TOP 10.2.: Zweckentfremdung von Wohnraum - Am Eulenhorst 67
+- TOP 10.3.: Zweckentfremdung von Wohnraum - Groschenweg 17
+- TOP 10.4.: Zweckentfremdung von Wohnraum - Windhukerstraße 7
+- TOP 10.5.: Zweckentfremdung von Wohnraum - Hochnißlstraße 7, RG
+- TOP 10.6.: Zweckentfremdung von Wohnraum - Heilwigstraße 47
+- TOP 10.7.: Zweckentfremdung von Wohnraum - Batschkastraße 23
+- TOP 10.8.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Restaurante Tropea, Kreillerstraße 160 a
+- TOP 10.9.: Zuwendungsbewilligung aus dem Budget des BA 15 für das Sonderpädagogische Förderzentrum München Ost i.H.v. 500,00 Euro
+- TOP 10.10.: Verkehrsrechtliche Anordnung nach § 45 StVO Buslinie 193; Wasserburger Landstraße - Entfernung der Parkplatzmarkierung und Errichtung des Zeichens 283 StVO
+- TOP 10.11.: Verkehrsrechtliche Anordnung nach § 45 StVO; Helsinkistraße - Errichtung des Zeichens 283 StVO auf der gesamten Länge der Ostseite zwischen Stockholm- und Oslostraße
+- TOP 10.12.: Vollzug des Sprengstoffgesetzes - SprengG - Feuerwerk vor dem Schuhbeck Palazzo im Rahmen einer Präsentation von Baumaschinen täglich vom 23.04.07 - 28.04.07
+- TOP 10.13.: Vollzug des Bayerischen Straßen- und Wegegesetzes Einziehung der Gesamtstrecke des Brachsenweges; Beschluss des Bezirksausschusses 15 Trudering-Riem vom 29.03.07
+- TOP 10.14.: Veranstaltungen im öffentlichen Raum Parallelveranstaltungen auf städtischem Privatgrund nach den Richtlinien für Veranstaltungen auf öffentlichem Grund genehmigen; Beschluss der Vollversammlung des Stadtrates vom 14.03.07
+- TOP 10.15.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Hippelstraße 30
+- TOP 10.16.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Dompfaffweg 10
+- TOP 10.17.: Errichtung eines 4-gruppigen Kindergartens an der Marianne-Plehn-Straße (Bajuwarenstraße) in Passivhausbauweise; Beschluss des Schulausschusses des Stadtrates vom 21.03.07
+- TOP 10.18.: Veranstaltungen / Kooperationen des Kulturreferats für April 2007
+- TOP 10.19.: PERSPEKTIVE München - Leitlinie Kinder- und Familienpolitik; Ergänzung vom 14.03.07 und 15.03.07 des Beschlusses des Kinder- und Jugendhilfeausschusses vom 20.03.07
+- TOP 10.20.: Aktion saubere Stadt - Öffentlichkeitskampagne und Maßnahmenkonzept, Beschluss des Bauausschusses vom 27.03.2007
+- TOP 10.21.: Wohnen in München III a) Erfahrungsbericht für das Jahr 2006 b) Ergänzungen des Erfahrungsberichts c) Aufträge zu den Förderprogrammen aus "Wohnen in München IV" d) Integration der bisher zweijährigen Programmbeschlüsse zum geförderten Wohnungsbau in den jährlichen Erfahrungsbericht Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.04.2007
+- TOP 10.22.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft ? Wok Asia Bistro, Kreillerstraße 160 a
+- TOP 10.23.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft ? Bet 3000, Graf-Lehndorff-Straße 36
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
