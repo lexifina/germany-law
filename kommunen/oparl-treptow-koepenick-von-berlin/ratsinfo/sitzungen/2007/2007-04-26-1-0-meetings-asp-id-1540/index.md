@@ -1,0 +1,84 @@
+# 7. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2007-04-26T16:30:00+02:00
+- Ende: 2007-04-26T21:15:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1540
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1540
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=52605
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - beantwortet
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI_5 - beantwortet
+- TOP 8: Personelles/Wahlen - beantwortet
+- TOP 8.1: Wahl von 2 Mitgliedern des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8.2: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Einfluss des Bezirks auf die Arbeit des Jobcenters - beantwortet
+- TOP 10.2: Sportanlage "Mittelpunkt der Erde" - beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Änderung der Bezirksgrenze des Bezirks Treptow-Köpenick zum Bezirk Friedrichshain-Kreuzberg in einem Teil des Flutgrabens - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Umbildung der Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Änderung der Stärke des Ältestenrates - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Sondermittel für Siedlerchor Altglienicke e. V. (SM 712) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Sondermittel für Schlossplatztheater/Alte Möbelfabrik e. V. (SM 716) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für ESV Lok Schöneweide (SM 717) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für Müggelheimer Heimatverein e. V. (SM 719) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für Bürgerverein Wilhelmshagen-Rahnsdorf e. V. (SM 728) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Zeitliche Anpassung - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Information für Sehbehinderte - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Entfernung der überflüssigen Halteverbotsschilder Schnellerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Merkblatt für Pflegeeltern - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Erinnerung an Maueropfer Lutz Schmidt - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Kleingartenbeirat - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Erinnerung an Rahnsdorfer Fährmänner durch Straßenbenennung - mit Änderungen in der BVV beschlossen
+- TOP 12.8: Verstetigung des QM OSW - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Planfeststellungsbeschluss für Straßenbahn verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Attraktivität des Parkplatzes "Amtswäldchen" - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Ruth-Werner-Promenade - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Gefährdung der Radfahrer auf der Waltersdorfer Straße in Bohnsdorf (2) - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Straßenbenennungen in Rahnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Weihnachtsbeihilfe - überwiesen
+- TOP 12.15: Kennzeichnung von Spuren der Berliner Mauer - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Radwegebau - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Neuer Standort für "Cabuwazi" - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Fußgängerbrücke über die Müggelspree - überwiesen
+- TOP 14.2: Widerspruchsbeirat beim Jobcenter - überwiesen
+- TOP 14.3: Schulwegsicherung Grundschule am Berg - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Radwegeverbindungen in der Altstadt Köpenick - überwiesen
+- TOP 14.5: Umbenennung der Stelle der "Ausländerbeauftragten" in "Beauftragte für Ausländerrückführung" und inhaltliche Anpassung - in der BVV abgelehnt
+- TOP 14.6: Zufahrt zum Einkaufszentrum Adlershofer Tor - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Studentische Wohnungsbörse - überwiesen
+- TOP 14.8: Ausschilderung des Europäischen Radwanderweg R1 - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Gefahr durch desolaten Fuß- und Radweg in Bohnsdorf - überwiesen
+- TOP 14.10: Einberufung des Lenkungsausschusses - überwiesen
+- TOP 14.11: Strandbad Grünau - überwiesen
+- TOP 14.12: Instandsetzung Fassade Ratz-Fatz - überwiesen
+- TOP 14.13: Verkehrsführung auf der Behelfsbrücke Köpenicker Str./Teltowkanal - überwiesen
+- TOP 14.14: Verlegung der Straßenbahnhaltestelle Freiheit zum Schüßlerplatz - überwiesen
+- TOP 14.15: Landschaftspark Johannisthal mit angemessenen Pflegemitteln ausstatten - überwiesen
+- TOP 14.16: Wiedereinrichtung Tempo 30 Schönefelder Chaussee - überwiesen
+- TOP 14.17: Freibad Wuhlheide zur Sommersaison öffnen - mit Änderungen in der BVV beschlossen
+- TOP 14.18: Umsetzung des Beschlusses Grabungsergebnisse Alter Markt - überwiesen
+- TOP 14.19: Bessere Orientierung am Teltowkanalradweg - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Entsorgung von Hundekot an relevanten Stellen im Bezirk - überwiesen
+- TOP 14.21: Kinderschutzkonferenz - überwiesen
+- TOP 14.22: Verbesserung der Querungsmöglichkeiten für Fußgänger in der Bahnhofstraße - überwiesen
+- TOP 14.23: Unterstützung der Parkeisenbahn - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Steganlage Frauentog - beantwortet
