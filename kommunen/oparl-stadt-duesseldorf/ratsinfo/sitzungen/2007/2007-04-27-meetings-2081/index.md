@@ -1,0 +1,51 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-04-27T16:00:00+02:00
+- Ende: 2007-04-27T18:17:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2081
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2081
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111730.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111730.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111730.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Feststellung Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Verkehrskonzept Reisholz - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Stadtbahnzulaufstrecke U77 - zur Kenntnis genommen
+- TOP 8: Verlängerung der Stadtbahnlinie U 79 zur Uni Ost - zur Kenntnis genommen
+- TOP 9: Trödelmärkte Spangerstraße - zur Kenntnis genommen
+- TOP 10: Trödelmärkte Bayreuther Straße - zur Kenntnis genommen
+- TOP 11: Freigabe verkaufsoffener Sonntage 2007 - zur Kenntnis genommen
+- TOP 12: Namensänderung - zur Kenntnis genommen
+- TOP 13: Offene Ganztagsschule - Maßnahmen 2007/2008 und Fo - zur Kenntnis genommen
+- TOP 14: Anfrage: Benrather Schlosspark - zur Kenntnis genommen
+- TOP 15: Anfrage: Kath. Grundschule Himmelgeist - zur Kenntnis genommen
+- TOP 16: Anfrage: Wiedereröffnung Freibad - zur Kenntnis genommen
+- TOP 17: Antrag: Busspur Further Straße/Am Schönenkamp - zur Kenntnis genommen
+- TOP 18: Antrag: Touristisches Marketing für Benrath - zur Kenntnis genommen
+- TOP 19: Antrag: Neugestaltung des Stadtplans für Touristen - zur Kenntnis genommen
+- TOP 20: Antrag: Aufstellung von Bänken - zur Kenntnis genommen
+- TOP 21: Antrag: Verkehrsberuhigung in der "Gansbruchsiedlu - zur Kenntnis genommen
+- TOP 22: Antrag: Gefahrenstelle Kölner Landstraße - zur Kenntnis genommen
+- TOP 23: Verfügungsmittel: Stephanuskirche Wersten - zur Kenntnis genommen
+- TOP 24: Verfügungsmittel: Kumm Eruss - zur Kenntnis genommen
+- TOP 25: Verfügungsmittel: Förderverein Hassels-Reisholz e. - zur Kenntnis genommen
+- TOP 26: Verfügungsmittel: Offene Tür Wersten - zur Kenntnis genommen
+- TOP 27: Verfügungsmittel: Kath. Kirchengemeinde St. Antoni - zur Kenntnis genommen
+- TOP 28: Verfügungsmittel: Theodor-Litt-Realschule - zur Kenntnis genommen
+- TOP 29: Antrag: Verkehrsregelung Am Erlenhof - zur Kenntnis genommen
+- TOP 30: Grünzug Ohmweg/Dechenweg - zur Kenntnis genommen
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Verfügungsmittel: Deutscher Pfadfinderbund - zur Kenntnis genommen
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
