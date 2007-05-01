@@ -13,25 +13,17 @@ Carl-Ludwig-Institut für Physiologie
 f)
 Institut für Rechtsmedizin
 g)
-Institut für Humangenetik
-h)
-Institut für Hygiene
-i)
 Karl-Sudhoff-Institut für Geschichte der Medizin und Naturwissenschaften
-j)
+h)
 Institut für Medizinische Informatik, Statistik und Epidemiologie
-k)
-Institut für Medizinische Mikrobiologie und Infektionsepidemiologie
-l)
+i)
 Institut für Medizinische Physik und Biophysik
-m)
+j)
 Paul-Flechsig-Institut für Hirnforschung
-n)
+k)
 Institut für Pharmakologie und Toxikologie
-o)
-Institut für Klinische Pharmakologie
-p)
-Institut für Virologie
+l)
+Institut für Klinische Pharmakologie.
 2. Einrichtungen der Medizinischen Fakultät Carl Gustav Carus der Technischen Universität Dresden
 a)
 Institut und Poliklinik für Arbeits- und Sozialmedizin
