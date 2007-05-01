@@ -1,0 +1,1 @@
+Auf Grund des Art. 10 Abs. 2 Nr. 4 des Bayerischen Gesetzes zur nachhaltigen Entwicklung der Agrarwirtschaft und des ländlichen Raumes (Bayerisches Agrarwirtschaftsgesetz – BayAgrarWiG) vom 8. Dezember 2006 (GVBl S. 938, BayRS 787-1-L) erlässt das Bayerische Staatsministerium für Landwirtschaft und Forsten folgende Verordnung:
