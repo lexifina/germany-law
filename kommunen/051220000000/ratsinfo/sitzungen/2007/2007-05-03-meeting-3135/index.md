@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2007-05-03T00:00:00+02:00
+- Ende: 2007-05-03T01:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZcVfYRG5CtgNmcY1GosrPKI
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3135
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQdF4aL5HF2x9hJn-6tL0zyIewmhCZmfVPISJDjThfQB/Oeffentliche_Niederschrift_Rat_03.05.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NW
+- TOP 2: Protokoll über die 18. Sitzung des Rates am 22.03.2007
+- TOP 3: Protokoll über die 22. Sitzung am 03.05.2007
+- TOP 4: Umbesetzung von Ausschüssen
+- TOP 5: Änderung der Hauptsatzung der Stadt Solingen und der Regelung über die Zuständigkeiter der Ausschüsse
+- TOP 6: Änderung der Hauptsatzung der Stadt Solingen und der Regelung über die Zuständigkeiter der Ausschüsse
+- TOP 7: Einberufung der Einigungsstelle
+- TOP 8: Satzung zur Festsetzung der Mitgliederzahl des Rates der Stadt Solingen
+- TOP 9: Vorbereitung der Kommunalwahlen 2009
+- TOP 10: Vorbereitung der Kommunalwahlen
+- TOP 11: Resolution zur Neufassung des § 107 der Gemeindeordnung Nordrhein-Westfalen
+- TOP 12: Überführung der Zentralstelle für den deutschsprachigen Chorgesang in der Welt zur Musikschule Solingen gGmbH
+- TOP 13: Organisatorische Weiterentwicklung der Abteilung "Stadtentwicklung" im Büro Oberbürgermeister
+- TOP 14: HSK-Maßnahme 151 - Standortuntersuchung Spiel- und Bolzplätze
+- TOP 15: Umgang der Stadt Solingen mit Derivatgeschäften
+- TOP 16: Vorbereitung der Schlussbilanz des VBS
+- TOP 17: Jahresabschluss des Städtischen Klinikums Solingen per 31.12.2006
+- TOP 18: Projekt Soziale Stadt
+- TOP 19: Satzung über die Erhebung von Elternbeiträgen für Betreuungsangebote
+- TOP 20: Kinder- und Jugendförderplan
+- TOP 21: Fortsetzung des Programms Gewaltprävention
+- TOP 22: Bauleitplanung Friedrichstraße, Am Neumarkt und Elsa-Brändström-Straße
+- TOP 23: Verschiedenes
+- TOP 24: Anfrage der FDP-Fraktion zur Reform der Versorgungsverwaltung
+- TOP 25: Absicherung von Swap/Derivat-Geschäften
+- TOP 26: Über- und außerplanmäßige Ausgaben 1. Quartal 2007
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Änderungsantrag der Ratsfraktion Bündnis 90/Die Grünen - offene Liste
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NW
+- TOP 3: Protokoll über die 18. Sitzung des Rates am 22.03.2007
+- TOP 4: Bestellung eines weiteren Geschäftsführers für die Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 5: Gründer- und Technologiezentrum Solingen GmbH (GuT)
+- TOP 6: Gründer- und Technologiezentrum Solingen GmbH (GuT)
+- TOP 7: Ausgliederung des gemeinnützigen Eigenbetriebs "Städtisches Klinikum Solingen"
+- TOP 8: Verschiedenes
