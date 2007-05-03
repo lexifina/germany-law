@@ -1,0 +1,84 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-05-03T14:00:00+02:00
+- Ende: 2007-05-03T22:03:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2003
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2003
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096798.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096798.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096798.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Akt. Anfr. Bü90: Sprachliche Integration Schüler - zur Kenntnis genommen
+- TOP 5: Anfragen - zur Kenntnis genommen
+- TOP 6: Anfr. CDU: Flatrate-Partys - zur Kenntnis genommen
+- TOP 7: Anfr. FDP: Bilker Arcaden - zur Kenntnis genommen
+- TOP 8: Anfr. SPD: Logen Arenen - zur Kenntnis genommen
+- TOP 9: Anfr. Bü90/Grü: Gehörlosenraum im HBF vor dem Aus? - zur Kenntnis genommen
+- TOP 10: Anfr. Syska: Schloß Eller - zur Kenntnis genommen
+- TOP 11: Ânfr. Kahl: B-Plan Golzheim - zur Kenntnis genommen
+- TOP 12: Anfr. Kahl: Generalunternehmen - zur Kenntnis genommen
+- TOP 13: Anfr. Lbbg: Tarifliche Bezahlung - zur Kenntnis genommen
+- TOP 14: Anf. lbbg: Neonazis - mehrheitlich abgelehnt
+- TOP 15: Ausbau der Stichstraße Duderstädter Straßeneu - mehrheitlich beschlossen
+- TOP 16: Schadstoffsanierung und Erweiterungsbau für die Of - einstimmig beschlossen
+- TOP 17: ÄA Kahl u. Laubenburg: - mehrheitlich abgelehnt
+- TOP 18: Ändantr. Bü90: Gotenstraße - zur Kenntnis genommen
+- TOP 19: Ausbau Volmerswerther Straße - einstimmig beschlossen
+- TOP 20: ÄA Kahl u. Laubenburg: - mehrheitlich abgelehnt
+- TOP 21: Fahrbahnsanierung Aachener Straße / Südring - einstimmig beschlossen
+- TOP 22: ÄA Kahl u. Laubenburg: Aachener Str./Südring - mehrheitlich abgelehnt
+- TOP 23: Beschlusskontrolle 1/2007 - einstimmig beschlossen
+- TOP 24: Kommission Wehrhahn-Linie (Neufassung) - zur Kenntnis genommen
+- TOP 25: Anträge
+- TOP 26: Antr. SPD und Grüne: Jugendschutz - mehrheitlich abgelehnt
+- TOP 27: Antr. Bü90-SPD- Stadtplanung - zur Kenntnis genommen
+- TOP 28: Antr. Bü90: Kibiz - zur Kenntnis genommen
+- TOP 29: Interfr. Resolution: KiBiz - einstimmig beschlossen
+- TOP 30: Antr. Bü90: Klimaschutzfond - mehrheitlich abgelehnt
+- TOP 31: Ändantr. CDU und FDP: Klimaschutz - mehrheitlich beschlossen
+- TOP 32: Antr. CDU/FDP: Langzeitarbeitslose - mehrheitlich beschlossen
+- TOP 33: Erg. Antr.: Perspektiven für Langzeitarbeitslose - mehrheitlich abgelehnt
+- TOP 34: Antr. CDU/FDP: Kö-Bogen - mehrheitlich beschlossen
+- TOP 35: Ändantr. Bü90: Fassadenwettbewerb Kö-Bogen - mehrheitlich abgelehnt
+- TOP 36: Antr. SPD-Bü90: Wohnen im Alter
+- TOP 37: Antrag der SPD/Bü90: Bürgerhaus Gerresheim
+- TOP 38: Antr. SPD: Richtlinien Personalwirtschaft
+- TOP 39: Antr. SPD: ResolutionEnergie - mehrheitlich abgelehnt
+- TOP 40: Bennung Johannes-Rau-Platz - einstimmig beschlossen
+- TOP 41: Neuordnund d. Chemischen Untersuchungseinrichtunge - einstimmig beschlossen
+- TOP 42: BV7: Bürgerhaus Gerresheim
+- TOP 43: BV 2: LEG-Wohnungen
+- TOP 44: BV8: LEG-Wohnungen
+- TOP 45: Kämmererliste 2007 - mehrheitlich beschlossen
+- TOP 46: SSK: Jahresabschluss 2006
+- TOP 47: Kinderbetreuung U3 - ESF Förderprogramm - mehrheitlich beschlossen
+- TOP 48: Umbau des Betreuungssystems in Kitas - einstimmig beschlossen
+- TOP 49: Masterplan Wassersport - einstimmig beschlossen
+- TOP 50: Masterplan Wassersport - zur Kenntnis genommen
+- TOP 51: Brehm-Schule, Städtische Evangelische Grundschule - mehrheitlich beschlossen
+- TOP 52: Schulzentrum Kamper Weg 291 Neubau einer 1fach-Spo - einstimmig beschlossen
+- TOP 53: Beckenanlage "Nach den Mauresköthen" - einstimmig beschlossen
+- TOP 54: Deutzer Strasse 102, Neubau einer Gymnastikhalle m - einstimmig beschlossen
+- TOP 55: Gesamtsanierung der Hulda-Pankok-Gesamtschule Br - einstimmig beschlossen
+- TOP 56: Sanierung Kennedydamm - einstimmig beschlossen
+- TOP 57: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 58: Umbesetzung von Ausschüssen - zur Kenntnis genommen
+- TOP 59: AR Awista - mehrheitlich beschlossen
+- TOP 60: AR Messe - mehrheitlich beschlossen
+- TOP 61: Stadtwerke: AR, Beirat, Konsortialausschuss - mehrheitlich beschlossen
+- TOP 62: Gene. 60erMartin-Luther-King-Schule Schönaustraße - einstimmig beschlossen
+- TOP 63: Neubau für die Offene Ganztagsschule, der Räumlich - zur Kenntnis genommen
+- TOP 64: Bericht zur Umsetzung des Frauenförderplanes
+- TOP 65: Aufhebung der Ordnungsbehördl. VO Öffnungszeiten - zur Kenntnis genommen
+- TOP 66: Freigabe verkaufsoffener Sonntage 2007
+- TOP 67: Namensänderung - einstimmig beschlossen
