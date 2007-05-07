@@ -1,0 +1,74 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2007-05-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1050063
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1050063
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Neugestaltung des Platzes Am Harras - Sachstandsbericht
+- TOP 2.2.: Projektgenehmigung Grünfläche "Bahndeckel" Theresienhöhe
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Versorgungsgrad mit Kinderkrippen in Sendling
+- TOP 3.2.: Münchner Sommerspielaktion 2007
+- TOP 4.: Schulreferat
+- TOP 4.1.: Rahmenplanung für die Bezirkssportanlage an der Dietramszeller- / Thalkirchner Straße
+- TOP 4.2.: Sportplatz bzw. Schulhoföffnung Pfeuferschule
+- TOP 4.3.: Das Schulreferat wird aufgefordert, die Planungs- und Baukosten für die Bauprojekte auf dem Grundstück Meindlstraße 8 - 16 zum MIP anzumelden und dem BA in der Sitzung am 05.03.2007 über den Stand des Verfahrens zu berichten
+- TOP 5.1.: Gaststätte Amadeus, Oberländerstraße 6; Freischankflächenantrag
+- TOP 5.2.: Gaststätte "Vatan Imbiss", Thalkirchner Straße 126; Freischankflächenantrag
+- TOP 5.3.: Gaststätte Pschorrkrug, Oberländerstraße 32; Freischankflächenantrag
+- TOP 5.4.: Gaststätte "Cafe Blue", Implerstraße 2; Freischankflächenantrag
+- TOP 5.5.: Gaststätte "Landshuter Bräustüberl", Oberländerstraße 4; Freischankflächenantrag
+- TOP 5.6.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Beschleunigung der Buslinie 53
+- TOP 6.2.: Lichtzeichenanlagen - Bauprogramm 2007
+- TOP 6.3.: Leistungsprogramm 2008 der MVG
+- TOP 6.4.: Blade Night 2007 vom 30.04. bis 27.08.2007
+- TOP 6.5.: Kanu Triathlon am 13.05.2006
+- TOP 6.6.: Sommercafe des Mütterzentrums Sendling e. V.
+- TOP 6.7.: Straßenfest der SPD-Sendling in der Daiserstraße am 21.07.2007
+- TOP 6.8.: Demonstraktion für ein besseres Gesundheitswesen am 22.07.07; u.a. Lindwurmstr. und Plinganserstraße
+- TOP 6.9.: Fernwärmebauvorhaben in der Maronstraße zwischen Kraelerstr. und Paul-Meisel-Weg
+- TOP 6.10.: Filmaufnahmen in der Dietramszellerstraße am 18.04.2007
+- TOP 6.11.: Meldeliste Bauvorhaben der SWM
+- TOP 6.12.: Störfallmanagementkonzept Tunnel Mittlerer Ring Südwest
+- TOP 6.13.: Demonstration "Sternfahrt der Uneingeladenen zu G8" am 09.06.07
+- TOP 7.1.: Budgetantrag Buntstifte e. V. für Teppichverlegung; ? 494,90
+- TOP 7.2.: Budgetantrag Gewaltpräventionsprojekt Grundschule Implerstraße, ? 3.200,-
+- TOP 7.3.: Budgetantrag IG Lebenswege; Ausstellung "Sendling - Wunsch und Wirklichkeit"; ? 480,-
+- TOP 7.4.: Budgetzuwendung an den Chor der Himmelfahrtskirche
+- TOP 7.5.: "Phantomanträge" im Bezirksausschuss 6
+- TOP 7.6.: Fest junger Erwachsener am 20.10.2007
+- TOP 7.7.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 7.8.: Budgetantrag Sendlinger Kulturschmiede, Straßenfest 2007; 2150,-
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bebauungsplan Türkisch-Islamisches Kulturzentrum
+- TOP 8.3.: Bauvorhaben Urbanstraße 11
+- TOP 8.4.: Bauvorhaben Flößergasse 11
+- TOP 8.5.: 2. S-Bahn-Stammstrecke München
+- TOP 8.6.: Wohnen in München III
+- TOP 8.7.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006
+- TOP 8.8.: Parkraummanagement in München - Festlegung der 2. Priorität
+- TOP 9.: Baureferat
+- TOP 9.1.: Ausbau des Mittleren Ringes Südwest; Luise-Kiesselbach-Platz
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Valleystraße 37, Südbad
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Lärmsanierung an bestehenden Schienenwegen des Bundes
+- TOP 13.2.: Kultur im Stadtquartier
+- TOP 13.3.: Mehrjahresinvestitionsprogramm 2007 - 2011
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
