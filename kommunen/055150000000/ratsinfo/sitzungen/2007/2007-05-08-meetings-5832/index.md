@@ -1,0 +1,60 @@
+# 26. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-05-08T17:09:00+02:00
+- Ende: 2007-05-08T19:36:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5832
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5832
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00248832.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erford
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Gewährung von Zuschüssen im Stadtbezirk Mitte 2007 - einstimmig geändert beschlossen
+- TOP 4.2: Verkehrsberuhigung in der Straße Breul - mehrheitlich beschlossen
+- TOP 4.3: Andreas-Hofer-Straße/ Stichweg im Bereich Hs.Nr. 86-92 und anschließender Verbindungsweg zum Mauritz - einstimmig beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: Weiterentwicklung der Bäderlandschaft in Münster - mehrheitlich abgelehnt
+- TOP 5.2: Optimierung der Fahrbahngestaltung der Kanalstraße im Abschnitt zwischen Lublinring und Rjasanstraße - mehrheitlich abgelehnt
+- TOP 5.3: Vorhabenbezogener Bebauungsplan Nr. 512: Kardinal-von-Galen-Ring / Robert-Koch-Straße / Pottkamp
+- TOP 5.3.1: Vorhabenbezogener Bebauungsplan Nr. 512: Kardinal-von-Galen-Ring / Robert-Koch-Straße / Pottkamp - einstimmig beschlossen
+- TOP 5.3.2: Vorhabenbezogener Bebauungsplan Nr. 512: Kardinal-von-Galen-Ring / Robert-Koch-Straße / Pottkamp - zur Kenntnis genommen
+- TOP 5.4: Orléans-Ring: Gegenläufige Radwegeplanung auf der Ostseite zwischen Einsteinstraße und Wilhelmstraße - bei Stimmengleichheit abgelehnt
+- TOP 5.5: Kanalsanierung Schifffahrter Damm - einstimmig beschlossen
+- TOP 5.6: Baubeschluss für die Erneuerung und den Anschluss von 33 Lichtsignalanlagen - mehrheitlich beschlossen
+- TOP 5.7: Erschließung Bebauungsplan 467 / Werlandstraße - Hammer Straße - einstimmig beschlossen
+- TOP 5.8: Ostmarkstraße - einstimmig beschlossen
+- TOP 5.9: Optimierung - mehrheitlich beschlossen
+- TOP 5.10: Erweiterung des Hansa-Berufskollegs - bei Stimmengleichheit abgelehnt
+- TOP 5.11: Albert-Schweitzer-Schule, Errichtung von Fertigbauklassen - einstimmig beschlossen
+- TOP 5.12: Sanierung und Modernisierung der kommunalen Sportaußenanlage Aaseestadt - mehrheitlich beschlossen
+- TOP 6: Berichte
+- TOP 6.1: Stadtweite Standards für das Aufbringen von Piktogrammen in öffentlichen Straßen - zur Kenntnis genommen
+- TOP 6.2: Verbesserung Verkehrserschließung Zentrum Nord - zur Kenntnis genommen
+- TOP 6.3: Sachstandsbericht "Adaptive Netzsteuerung Modellachse Albersloher Weg" - zur Kenntnis genommen
+- TOP 6.4: Vorhabenbezogne 3. Änderung des Bebauungsplanes Nr. 114 Teilabschnitt III: Zentrum -Nord - zur Kenntnis genommen
+- TOP 7: Anträge und Anfragen
+- TOP 7.1: Querungshilfe auf der Albrecht-Thaer-Straße in Höhe Schienenhaltepunkt Zentrum Nord - eingebracht
+- TOP 7.2: Weitere Entwicklung großer, altersgemischter Hortgruppen - eingebracht
+- TOP 7.3: Ausweitung der Außengastronomie in der Innenstadt - zur Kenntnis genommen
+- TOP 7.4: Gingkobäume in der Bernhardstraße - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Unterflurglascontainer am St. Josefs-Kirchplatz - zur Kenntnis genommen
+- TOP 8.2: Bänke an der Kreuzung Scharnhorststraße/Hoppendamm aufstellen - zur Kenntnis genommen
+- TOP 8.3: Unterstellmöglichkeit auf dem Spielplatz an der Karl-Wagenfeld-Schule - einstimmig geändert beschlossen
+- TOP 8.4: Wiederherstellung der Einbahnstraßenregelung Lütke Gasse von der Königsstraße zur Aegidiistraße - zur Kenntnis genommen
+- TOP 8.5: Ausnahmeregelungen für Bewohnerparkberechtigungen auf dem Domplatz - zur Kenntnis genommen
+- TOP 8.6: Gestaltung des Lambertibrunnen - zur Kenntnis genommen
+- TOP 8.7: Betriebszeiten von Ampeln im Stadtbezirk Münster-Mitte - zur Kenntnis genommen
+- TOP 8.8: Äußere Beschaffenheit des ehemaligen Apollo-Theaters - zur Kenntnis genommen
+- TOP 8.9: Wiederherstellung der Skulptur "Suchende Hände" am Marienplatz - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
