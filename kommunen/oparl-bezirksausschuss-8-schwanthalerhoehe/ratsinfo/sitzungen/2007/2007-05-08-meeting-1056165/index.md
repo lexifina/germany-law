@@ -1,0 +1,70 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2007-05-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1056165
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1056165
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Antrag auf Errichtung einer eingeschränkten Halteverbotszone mit Einschränkung für absolutes Halteverbot von 06.00 - 18.00 Uhr
+- TOP 3.2.: Flohmarkt IG Feuerwache Erneute Behandlung aus 04/07
+- TOP 3.3.: 2. Baumreihe Geroltstraße
+- TOP 3.4.: Klimaanlage der Fa. Feneberg - <div>Verweisung an Fachreferat</div>
+- TOP 4: Beschlüsse des BA 8
+- TOP 5: Anhörungen
+- TOP 5.1.: Antrag auf Freischankfläche Sandtnerstr. 1
+- TOP 5.2.: Neugestaltung Bahndeckel Theresienwiese
+- TOP 5.3.: Aktionstag der Feuerwache 3 "Westend" am 14.07.2007
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: BPlan mit GrünOrdnung Nr. 1961 Franziska-Bilek-Weg (südl), Theresienhöhe (westl), Bavariapark (nördl) (Teiländerung des BPlanes Nr. 1819a)
+- TOP 6.1.2.: 2. S-Bahn-Stammstrecke München; Planfeststellungsverfahren nach § 18 AEG a) Sach- und Verfahrensstand, ergänzende Informationen b) Weiteres Vorgehen c) Anträge und Empfehlungen
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Kinder- und Jugendgesundheit in München - Aktuelle Schwerpunktsetzung und Handlungsbedarf - Ergebnisse der Einschulungsuntersuchungen 2004/05 - Impfungen können lebenswichtig sein Erneute Behandlung aus 04/07
+- TOP 6.2.2.: REGSAM Jahresbericht 2006
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.3.1.: Kultur im Stadtquartier Stellungnahme bis 10.05.07
+- TOP 6.3.2.: Fest junger Erwachsener, 20. Oktober 2007
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Arbeiten im Straßenraum Martin-Greif-Str./Bavariaring (Straßenbau) Verkehrsrechtl. Anordnung z.K.
+- TOP 6.4.2.: Fahrplanwechsel Dezember 2007
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: MIP 2007 - 2011
+- TOP 7: Erledigungen
+- TOP 7.1.: Beteiligungs- und Entscheidungsrechte der BAs bei Standortfragen und Baumaßnahmen für Kindertagesstätten
+- TOP 7.2.: Projekt Hauptbahnhof - Laim - Pasing Fuß und Radwege
+- TOP 7.3.: Erlass einer Erhaltungssatzung nach §172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 2 und 8
+- TOP 7.4.: Parkraummanagement in München - Festlegung der 2. Priorität
+- TOP 7.5.: Plangenehmigung Nach § 18 Abs. 2 AEG für die Verlagerung von 15 kv-Anlagen im Bereich Arnulfpark Einwendungen gegen den Planbescheid bitte bis 03.05.2007
+- TOP 8: Anträge
+- TOP 8.1.: Umbau und Gestaltung Kreuzung Ridler- / Gollier- und Astallterstraße
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Meldeliste 09.04. - 15.04.07 Erstantragsverfahren a) Schießstättstr. 28
+- TOP 9.2.: Baumaßnahmen der SWM Stichtag 16.04.2007
+- TOP 9.3.: Meldeliste vom 16.04. - 22.04.07 Erstantragsverfahren a) Schwanthalerstr. 148 b) Schießstättstr. 30
+- TOP 9.4.: Meldeliste 23.04. - 29.04.07 Erstantragsverfahren a) Ganghoferstr. 68 b) Westendstr. 137
+- TOP 9.5.: 23.04. - 29.04.07 Änderungsverfahren a) Heimeranstr. 35
+- TOP 9.6.: Baumaßnahmen der SWM Stichtag 30.04.2007
+- TOP 10: Verschiedenes
+- TOP 10.1.: Mustervorlagen für Faltblätter und Plakate
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Münchner Sommer SpielAktion 2007
+- TOP 11.2.: Infobrief Nr. 9 des Ausländerbeirats
+- TOP 11.3.: KVR - Unveränderte Fortführung von Gaststätten Ligsalzstr. 33
+- TOP 11.4.: KVR - Unveränderte Fortführung von Gaststätten Ligsalzstr. 9
+- TOP 11.5.: KVR - Störfallmanagementkonzept Tunnel Mittlerer Ring Südwest
+- TOP 11.6.: PlanR - Wohnen in München III a) Erfahrungsbericht für 2006 b) Ergänzungen des Erfahrungsberichts c) Aufträge zu den Förderungsprogrammen aus "Wohnen in München IV" d) Integration der bisher zweijährigen Programmbeschlüsse zum geförderten Wohnungsbau in den jährlichen Erfahrungsberichten
+- TOP 11.7.: PlanR - Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele de Landesentwicklungspgrogramms Bayern 20006 Ergebnisse fachanwaltlicher Prüfung
+- TOP 11.8.: DIR - Bewilligungsbescheid RAGS ASZ Laim, Antrag vom 13.03.2007
+- TOP 11.9.: DIR - Bewilligungsbescheid IG Feuerwache, Antrag vom 14.11.2006
+- TOP 11.10.: RGU - Lärmsanierung an bestehenden Schienenwegen des Bundes
+- TOP 11.11.: Jahresbericht 2006
