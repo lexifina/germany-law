@@ -1,0 +1,70 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2007-05-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1076250
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1076250
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Verkehrssituation Karl-von-Roth-Straße
+- TOP 1.2.: Raumsuche für Kindergruppe in Moosach / Untermenzing
+- TOP 1.3.: Kinderkrippe in Untermenzing / Willi-Wien-Str. 28
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 5.1.: Errichtung und Betrieb einer Transportbetonmischanlage (Neubau), Ludwigsfelder Str. 162
+- TOP 5.2.: Aufhebung des Überholverbotes im Westast der Allacher Straße
+- TOP 5.3.: Kultur im Stadtquartier
+- TOP 5.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Eversbuschstr. 79
+- TOP 5.5.: Leistungsprogramm 2008 der MVG (Fahrplanwechsel Dezember 2007)
+- TOP 5.6.: Bebauungsplan mit Grünordnung Nr. , Bundesautobahn A 8 (südwestlich) zwischen Bergsonstraße und Breiter Weg, Bundesautobahn A 8 (nordöstlich) zwischen Breiter Weg und Lochhausener Straße, Goteboldstraße zwischen Lochhausener Straße und südlicher Grundstücksgrenze Fl.Nr. 1121/5 (Auenbruggerstr. 115) zwischen dem östllichen Straßenrand bis 15 m östlich davon, Goteboldstraße zwischen südlicher Grundstücksgrenze Fl.Nr. 1121/5 (Auenbruggerstr. 115) und Müllerstadelstraße zwischen dem südwestlichen Straßenrand bis 15 m südwestlich davon, Müllerstadelstraße zwischen Goteboldstraße und Paul-Ehrlich-Weg zwischen dem nordwestlichen Straßenrand bis 15 m nordwestlich davon, Paul-Ehrlich-Weg zwischen Müllerstadelstraße und der Anrampung der Autobahnbrücke zwischen dem südlichen Straßenrand bis 15 m südlich davon; a) Aufstellungsbeschluss, b) Aufstellung eines Bebauungsplanes für den Radweg zum Langwieder / Lußsee entlang der Goteboldstraße
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Nutzung des Grundstückes zur Errichtung eines Waldkindergartens (vertagt aus der letzten Sitzung)
+- TOP 9.2.: Beleuchtung des Fußweges Von-Kahr-Str. in Richtung S-Bahn
+- TOP 9.3.: Ausbau der Allacher Straße (Antrag Nr. 1914 vom 13.03.07)
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Unveränderte Fortführung der Gaststätte: Pirker-Stüberl, Zum Schwabenbächl 48 D
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Bauanträge (v. 02.-08.04.07; v. 09.-15.04.07, v. 16.04.-22.04.07)
+- TOP 11.2.: Vollzug der BaumschutzVO - Bauschingerstr. s. Baumbest.plan Nr. 2007-50718
+- TOP 11.3.: Liste der beantragten Baumfällungen (v. 16.04.-22.04.07)
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Eversbuschstr. 156
+- TOP 14: Schreiben des Sozialreferates
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 19.1.: Mehrjahresinvestitionsprogramm für die Jahre 2007-2011
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 15 Trudering-Riem: BAs und Stadtteilkulturzentrum
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 20.03.07 - Zuschussnehmerdatei 2007 Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 22.2.: Ausschuss für Stadtplanung und Bauordnung vom 21.03.07 - Schutz der Münchner Vorgärten
+- TOP 22.3.: Bauausschuss vom 27.03.07 - Aktion saubere Stadt Öffentlichkeitskampagne und Maßnahmenkonzept
+- TOP 22.4.: Umweltschutzausschuss vom 24.04.07 - Lärmsanierung an bestehenden Schienenwegen des Bundes
+- TOP 22.5.: Kinder- und Jugendhilfeausschuss vom 24.04.07 - Perspektive München Leitlinie Kinder- und Familienpolitik
+- TOP 22.6.: Ausschuss für Stadtplanung und Bauordnung vom 25.04.07 - Wohnen in München III
+- TOP 22.7.: Ausschuss für Stadtplanung und Bauordnung vom 25.04.07 Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 Ergebnisse der fachanwaltlichen Prüfung
+- TOP 22.8.: Schulausschuss vom 25.04.07 - Errichtung einer Kindertagesstätte mit 3 Kindergartengruppen am Pasinger Heuweg
+- TOP 22.9.: Bauausschuss vom 26.04.07 - Fertigstellung der Radwegeverbindung zur Langwieder Seenplatte - Naherholungsgebiet "Langwieder Seen" Fuß und- Radwegerschließung Route 2 (Paul-Ehrlich-Weg - Müllerstadelstr.)
+- TOP 22.10.: Umweltschutzausschuss vom 15.05.07 - Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehanlungsanlage mit Erdenbörse und Erdenwerk durch das Konsortioum Bilfinger/Berger-Schernthaner GmbH am Standort Goteboldstr. 100 in München Allach Untermenzing
+- TOP 23: Verschiedenes
+- TOP 23.1.: Schreiben des Vereins cba
