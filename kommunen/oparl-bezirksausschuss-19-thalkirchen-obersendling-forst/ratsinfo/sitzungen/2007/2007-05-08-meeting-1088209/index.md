@@ -1,0 +1,51 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2007-05-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1088209
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1088209
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Festlegung der endgültigen Tagesordnung
+- TOP 1.6.: Genehmigung des Protokolls vom 27.03.07
+- TOP 2: Anträge
+- TOP 2.1.: Offener Brief an alle Stadträte wegen des Einzelhandelsgroßprojektes in Fürstenried
+- TOP 3: Unterauschuss Budget
+- TOP 3.1.: Verein zu Förderung der Flüchtlingshilfe in München e.V.
+- TOP 3.2.: Freilandschachspiel für das Thomas-Mann-Gymnasium
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Baumschutzliste - Vorschlag zum zukünftigen Verfahren
+- TOP 4.3.: Änderungsgenehmigung für die Abfallentsorgungsanlage (Preimesser)
+- TOP 5: Unterauschuss Verkehr
+- TOP 5.1.: Kindertagesstätte Forstenrieder Allee
+- TOP 5.2.: Verkehrssituation Miesingstraße
+- TOP 5.3.: Beschleunigung der Bus-Linie 53
+- TOP 5.4.: Erstmalige Herstellung der Kaltschmied-, Humpel-, Kern- und Spitzelbergstraße
+- TOP 5.5.: MVG - Leistungsprogramm 2008
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Verfahrensstand "Siemens-City"
+- TOP 7: Entscheidungsfälle
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Tag des offenen Denkmals 2007
+- TOP 8.2.: Standort für Verkaufspavillon (Blumen) Wilhelm-Leibl- / Wolfratshauser Straße
+- TOP 8.3.: Werbeanlage Engadiner Str. 2
+- TOP 8.4.: Tag der offenen Tür Baierbrunner Str. 14
+- TOP 8.5.: "Kultureinrichtungen" - verschiedene Anträge
+- TOP 8.6.: Tag der offenen Tür Cowboyclub München
+- TOP 8.7.: Antrag auf Zweckentfremdung Argelsrieder Str. 49
+- TOP 8.8.: Gaststättenpächterwechsel "Hutzelörr"
+- TOP 8.9.: Gaststättenpächterwechsel "Janat Indisches Bar Restaurant"
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
