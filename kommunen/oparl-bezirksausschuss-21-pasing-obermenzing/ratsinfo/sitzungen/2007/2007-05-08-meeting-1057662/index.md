@@ -1,0 +1,125 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2007-05-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1057662
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1057662
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.0: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.0.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Vollzug der Baumschutzverordnung, hier: Fällung einer Birke auf einem Anwesen in der Böcksteiner Straße; Forderung nach Ersatzpflanzung
+- TOP 2.2.: Lärmbelastung durch Fußball spielen am Immermannplatz
+- TOP 2.3.: Grünanlage Von-Frays-Straße / Bärmannstraße; Lärmbelastung durch Fußball spielen; Schlichtung durch eine unabhängige Schiedsstelle
+- TOP 2.4.: Parkende Lkw`s im Wohngebiet an der Gotthardstraße zwischen Mitterfeldstraße und Fischer-von-Erlach-Straße
+- TOP 2.5.: Spendenübergabe für den Spielplatz an der Megerle-/Freseniusstraße
+- TOP 2.6.: Straßenumbau Blumenauer Straße / Haidelweg; Sitzbank am Pasinger Marienplatz; Würmbrücke
+- TOP 2.7.: Nordumgehung Pasing und Verkehrssituation im Bereich Paul-Gerhardt-Allee
+- TOP 2.8.: Nächtliche Gleisbauarbeiten in Obermenzing
+- TOP 2.9.: Aufstellung eines Verkaufswagens beim Landenzentrum an der Schrämel- / Menterstraße
+- TOP 2.10.: Müllbehälter an der Nordseite des Bahnhofs Pasing
+- TOP 2.11.: Verkehrsplanungskonzept Pasing
+- TOP 2.12.: Bahnhof Pasing
+- TOP 2.13.: Uhr am Pasinger Bahnhofsplatz
+- TOP 2.14.: Bauvorhaben Alte Allee; Infrastruktur bzw. Einkaufsmöglichkeiten
+- TOP 2.15.: Bürgersteig Ecke Eglofstraße / Clemens-Krauss-Straße
+- TOP 2.16.: Bauvorhaben an der Schäferwiese
+- TOP 2.17.: Werbepylonen an den neuen Straßen "An der Langwieder Haide / Mühlangerstraße"
+- TOP 2.18.: Freigabe des Radweges an der Alten Allee in beide Richtungen
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Döbereinerstraße 22, Baumbestandsplan Nr. 07-49955
+- TOP 3.2.: Klarweinstraße 27, Baumbestandsplan Nr. 07-4603
+- TOP 3.3.: Amalienburgstraße 28, Baumbestandsplan Nr. 07-5110
+- TOP 3.4.: Wiesengrund 4, 1 Nussbaum
+- TOP 3.5.: Bäckerstraße 21, 1 Kastanie
+- TOP 3.6.: Apolloweg 3, 1 Ahorn, 2 Lärchen, 1 Kiefer
+- TOP 3.7.: Daudetstraße, 1 Feldahorn
+- TOP 3.8.: Bodenseestr. 82a, 1 Birke
+- TOP 3.3.2: Gefahrenbäume
+- TOP 3.1.: Listen des Baureferates vom 28.03. und 11.04.2007
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Dachstraße 8
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Gewährung eines Zuschusses aus dem Budget des BA 21; Antragsteller: Gemeinsam in Obermenzing und Aubing für die Maßnahme: Hausaufgabenbetreuung in der Gemeinschaftsunterkunft am Dreilingsweg (vertagt aus der BA-Sitzung vom 27.03.2007)
+- TOP 9.2.: Gewährung eines Zuschusses aus dem Budget des BA 21; Antragsteller: Münchner Volkshochschule, Stadtbereich West, für die Maßnahme: Bildungsfest mit Festakt am 30.06./01.07.2007 (vertagt aus der Sitzung vom 27.03.2007)
+- TOP 10.: Anhörungen
+- TOP 10.1.: Bebauungsplan Nr. 1670 Josef-Lang-Straße (östlich) zwischen Radeckestraße und Schmaedelstraße; Aufhebung des Aufstellungsbeschlusses9
+- TOP 10.2.: Bebauungsplan Nr. 175 Weinbergerstraße, Flurstücke 1569/11, 1569/24 mit 1569/27 (Aufhebung des Aufstellungsbeschlusses)
+- TOP 10.3.: Antrag auf Erteilung einer Ausnahmegenehmigung zum Aufstellen von Tischen und Stühlen auf öffentlichem Verkehrsgrund in der Landsberger Straße 460 (Schank- und Speisewirtschaft "Carat")
+- TOP 10.4.: Probeweise Anordnung eines Lkw-Fahrverbots in der Frauendorferstraße; Lkw-Führungskonzept, Teil 2 für den Münchner Westen
+- TOP 10.5.: Anordnung absoluter Haltverbote in der Dorfstraße
+- TOP 10.6.: Spielplatz an der Megerlestraße / Ecke Freseniusstraße; Verschiedene Maßnahmen
+- TOP 10.7.: Spielplatz an der Megerlestraße / Freseniusstraße; Anordnung von 30 km/h in der Megerlestraße und Menzinger Straße im Umfeld des Spielplatzes bzw. zeitmäßig eingeschränkte Zone 30 km/h mit Zebrastreifen; Lkw-Durchgangsverbot (Empfehlung Nr. 02-08 / E 00578 der Bürgerversammlung des 21. Stadtbezirks vom 26.10.2006); Spielplatz in der Megerlestraße / Ecke Freseniusstraße; Einrichtung eines Zebrastreifens vom Spielplatz über die Megerlestraße (Empfehlung Nr. 02-08 / E 00569 der Bürgerversammlung des 23. Stadtbezirks vom 24.10.2006); Verbesserung der Beschilderung im Bereich Waldhornstraße / Haldenbergstraße / Lechelstraße im Hinblich auf Schule und Kindergarten (Empfehlung Nr. 02-08 / E 00570 der Bürgerversammlung des 23. Stadtbezirks vom 24.10.2006)
+- TOP 10.8.: Blumenauer Straße 96; Errichtung einer beleuchteten Werbetafel
+- TOP 10.9.: Umrandung der Wiese nördlich des Lehrerparkplatzes am Karlsgymnasium mit einer Hecke
+- TOP 10.10.: Gastspiel des Marionettenzelttheaters Simon Maatz im Zeitraum vom 08.05. mit 15.05.07 auf dem Flurstück 550/1 an der Frauendorferstraße
+- TOP 10.11.: Festzug zum 25-jährigen Vereinsjubiläum des Vereins d`Blutenburgler e.V. am 16.09.07 von 11:30 bis 13:00 Uhr; Zugweg: Blutenburg, Durchblick, Grandlstraße, Wöhlerstraße, Dorfstraße zum Alten Wirt
+- TOP 10.12.: Nachbarschaftsfest der Türkisch-Islamischen Gemeinde Pasing am 02. / 03.06.07 von 11:00 bis 20:00 im Pasinger Stadtpark, Engelbertstraße
+- TOP 10.13.: Kultur im Stadtquartier, Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen, Evaluierung kultureller Zentren, Kulturelle Zentren und Stadtteilwochen, Gesamtkonzept für die stadtteilkulturellen Einrichtungen; Entwurf einer Beschlussvorlage für die Sitzung des Kulturausschusses am 14.06.2007
+- TOP 10.14.: Nachbarschaftsfest am 07.07.07 in der städt. Grünanlage an der Schladminger Straße
+- TOP 10.15.: Menzinger Straße 123, Sanierung / Umbau eines Wohngebäudes mit Gaststätte und DG-Ausbau
+- TOP 10.16.: Bauvorhaben Döbereinerstr. 22: Neubau eines Einfamilienhauses
+- TOP 10.17.: Bauvorhaben Amalienburgstr. 28: Neubau eines Mehrfamilienhauses (5 WE) / Vorbescheid (2 Varianten)
+- TOP 10.18.: Leistungsprogramm 2008 der MVG (Fahrplanwechsel Dezember 2007)
+- TOP 10.19.: Bauvorhaben Karwinskistr. 11: Umbau und Erweiterung eines Wohngebäudes mit Garage + Stellplatz
+- TOP 10.20.: Bauvorhaben Wöhlerstr. 4: Teilabbruch eines Wohnhauses sowie Neubau eines Doppelhauses
+- TOP 11.: Anträge und Anfragen
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Baumaßnahmen der Stadtwerke München GmbH (Stichtage: 26.03.07, 02.04.07, 16.04.07, 23.04.07)
+- TOP 12.2.: Vollzug der Baumschutzverordnung; Fällungsanträge im Stadtbezirk (Listen vom26.03.-01.04.07, v. 02.04.-08.04.07., v. 09.04.-15.04.07, v. 16.04.-22.04.07)
+- TOP 12.3.: Bauanträge im Stadtbezirk (Listen vom 26.03.-01.04.07, v. 02.04.-08.04.07, v. 09.04.-15.04.07, 16.04.-22.04.07)
+- TOP 12.4.: Unveränderte Fortführung von Gaststättenbetrieben - Schank- und Speisewirtschaft "Goldene Gans", Planegger Straße 31
+- TOP 12.5.: Amtsblatt Nr. 9/07, Nr. 10/07, Nr. 11/07
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Vollversammlung des Stadtrates vom 14.03.2007 - Nordumgehung Pasing (Ergänzende Vorlage)
+- TOP 13.2.: Kinder- und Jugendhilfeausschuss und Sozialausschuss in gemeinsamer Sitzung vom 20.03.2007 - Zuschussnehmerdatei 2007; Vollzug des Haushaltsplanes 2007 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates / Zentrale - Zuschussnehmerdatei 2007; Vollzug des Haushaltsplans 2007 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 13.3.: Ausschuss für Stadtplanung und Bauordnung vom 21.03.2007 - Siedlungsschwerpunkt Freiham; Freiham Nord; Bericht über den Planungsworkshop vom 12.07./02.08./12.10.2006 und das Ergebnis der Überarbeitung des Strukturkonzepts für den Wohnstandort nördlich der Bodenseestraße vom Februar 2007 sowie Weiteres Vorgehen - Schutz der Münchner Vorgärten; Förmliche Aufhebung von § 3 der Vorgartensatzung, Planungsrechtliche Situation der Münchner Vorgärten, Weiteres Vorgehen zum Schutz der Münchner Vorgärten
+- TOP 13.4.: Bauausschuss vom 27.03.2007 - Aktion saubere Stadt; Öffentlichkeitskampagne und Maßnahmenkonzept
+- TOP 13.5.: Kreisverwaltungsausschuss vom 17.04.2007 - Lichtzeichenanlagen-Bauprogramm 2007
+- TOP 13.6.: Sozialausschuss vom 19.04.2007 - Verbot der Zweckentfremdung von Wohnraum; Antrag auf Genehmigung einer Nutzungsänderung im Anwesen Badenburgstraße 10 für die Errichtung einer Kindertagesstätte (Kinderkrippe und Kindergarten)
+- TOP 13.7.: Umweltschutzausschuss vom 24.04.2007 - Lärmsanierung an bestehenden Schienenwegen des Bundes
+- TOP 13.8.: Kinder- und Jugendhilfeausschuss vom 24.04.2007 - PERSPEKTIVE MÜNCHEN; Leitlinie Kinder- und Familienpolitik; Familienfreundliche Betriebe; Familienfreundlichkeit in München fördern
+- TOP 13.9.: Ausschuss für Stadtplanung und Bauordnung vom 25.04.2007 - Bebauungsplan mit Grünordnung Nr. 1922 a Bahnhof Pasing (südlich), Offenbachstraße (östlich) Landsberger Straße (nördlich), Rathausgasse, Am Schützeneck, Bäckerstraße, Pasinger Bahnhofsplatz, Kaflerstraße, Ernsbergerstraße, Bodenseestraße und Lortzingstraße (beiderseits); Bekanntgabe Workshopergebnis MK 2 - Wohnen in München, III a) Erfahrungsbericht für das Jashr 2006 b) Ergänzung des Erfahrungsberichts c) Aufträge zu den Förderprogrammen aus "Wohnen in München IV" d) Integration der bisher zweijährigen Programmbeschlüsse zum geförderten Wohnungsbau in den jährlichen Erfahrungsbericht - Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006, Ergebnis der fachanwaltlichen Prüfung - Projekt Hauptbahnhof - Laim - Pasing; a) Fuß- und Radwegekonzept etc. - Verkehrskonzept Pasing-Zentrum, a) Entscheidungsvorschlag, b) Weiteres Vorgehen, c) Anträge und Empfehlungen
+- TOP 13.10.: Schulausschuss vom 25.04.2007 - Errichtung eines Hortpavillons an der Georg-Habel-Straße; Ausführungsgenehmigung - Errichtung eines Hortpavillons an der Paganinistraße 96; Ausführungsgenehmigung
+- TOP 13.11.: Bauausschuss vom 26.04.2007 - Naherholungsgebiet "Langwieder Seen", Fuß- und Radwegerschließung; Route 2 (Paul-Ehrlich-Weg - Müllerstadelstraße); Bedarfs- und Konzeptgenehmigung - Fertigstellung der Radwegeverbindung zur Langwieder Seenplatte (Antrag von Frau Stadträtin Ursula Sabathil und Herrn Stadtrat Josef Schmid vom 25.08.2004); Durchgehender Rad- und Fußweg entlang der Goteboldstraße (Empfehlung der Bürgerversammlung des 23. Stadtbezirkes vom 16.11.2004); Sichere Radwegverbindung entlang der Goteboldstraße und des Paul-Ehrlich-Wegs zum Naherholungsgebiet Langwieder See / Lußsee (Empfehlung der Bürgerversammlung des 21. Stadtbezirks vom 26.10.2006); Errichtung der Radwege-Verbindungen zur Langwieder Seenplatte (Antrag des BA 22 vom 20.12.2006)
+- TOP 13.12.: Umweltausschuss vom 15.05.07: - Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage mit Erdenbörse und Erdenwerk durch das Konsortium Bilfinger/Berger-Schernthaner GmbH am Standort Goteboldstr. 100 in München Allach-Untermenzing; Ablehnung des Genehmigungsantrages durch das Referat für Gesundheit und Umwelt
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Direktorium - Budget des BA 21; Bescheid vom 28.03.2007 an die Händler des Pasinger Viktualienmarktes - Ladenzentrum Ecke Menterstraße / Schrämelstraße; Unterversorgung des Bezirksteils Obermenzing mit Lebensmitteleinzelhandel (Schreiben der Firma Ottmann GmbH & Co. Südhausbau KG an den Oberbürgermeister) - Übersicht über die Budget-Mittel im Haushaltsjahr 2007 - Budget des BA 21; Bescheid vom 05.04.2007 an das Jugendzentrum aquarium - 18.jetzt - Fest junger Erwachsener im Rathaus am Marienplatz am 20.10.2007 - Anträge des Vereins cba auf Gewährung eines Zuschusses aus dem BA-Budget - Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten - Generelle Anhebung der Altersgrenzen bei Eintrittspreisen bei Angebote der Landeshauptstadt München (BA-Schreiben vom 26.03.07)
+- TOP 14.2.: Baureferat - Zehentstadelweg; Abbau der Schranke (BA-Schreiben vom 23.03.07) - Baumfällungen an der Würm - Schmierereien am Spielhäuschen des Spielplatzes Megerlestraße (BA-Schreiben vom 21.03.07) - Bürgerversammlung am 03.05.2007; Leistungsbilanzen der Hauptabteilungen Tiefbau und Gartenbau - Nordumgehung Pasing; Zweiter Runder Tisch / Workshop zur Gestaltung der Lärmschutzwände am 24.04.2007 - Fertigstellung von Mühlanger Straße und An der Langwieder Haide; Fertigstellung Halbanschluss, Gewerbegebiet Freiham; Feier am 15.05.2007 um 11.00 Uhr in der Centa-Hafenbrädl-Straße - Umrandung der Wiese nördlich des Lehrerparkplatzes am Karlsgymnasium mit einer Hecke
+- TOP 14.3.: Kreisverwaltungsreferat - P+R Anlage Langwied; Projektgenehmigung - Sperre der Heimburgstraße mit Ausnahme des Anliegerverkehrs (BA-Schreiben vom 14.03.07) - Bertha-von-Suttner-Weg; Haltverbot Straßenwestseite ab Lichtmast Nr. 6 (in Höhe Einmündung Klarbachplatz) auf 10 m Richtung Norden - Aufhebung der Vorfahrtsregelung in der Mendelssohnstraße - Z 283 in der Daudetstraße - Abstellen von Fahrrädern auf dem Gehweg vor dem Anwesen Josef-Retzer-Str. 47
+- TOP 14.4.: Kulturreferat - Veranstaltungen / Kooperationen im April 2007 - Einladung zum 6. Jour Fixe am 10.05.07
+- TOP 14.5.: Referat für Stadtplanung und Bauordnung - Vollzug der Baumschutzverordnung, hier: Reußweg 31(BA-Schreiben vom 21.03.07) - Information des Planungsreferates anlässlich der Pasinger Bürgerversammlung am 03.05.2007 zu öffentlich geförderten Wohnungen im Stadtbezirk 21 Pasing-Obermenzing - Prentelweg 4, Neubau einer Wohnanlage (BA-Schreiben vom 02.04.2007) - Informationsveranstaltung für den Bezirksausschuss des 21. Stadtbezirkes
+- TOP 14.6.: Schul- und Kultusreferat - Städtische Sportanlage an der Aubinger Straße 12, Neubau eines Hockey-Kunstrasenplatzes; Projektgenehmigung - Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Floßmannstraße 1
+- TOP 14.7.: Sozialreferat - Daten zu Kinderkrippen, April 2007 - Bürgerversammlung des 21. Stadtbezirkes am 03.05.2007; Leistungs-bilanz des Sozialreferates mit den Einrichtungen zur sozialen Versor-gung im Stadtbezirk
+- TOP 14.8.: Referat für Arbeit und Wirtschaft - Bahnhofsuhr an beiden Seiten der über die Verdistraße führenden Brücke am S-Bahnhof Obermenzing (Empfehlung Nr. 586 der Bürgerversammlung des 21. Stadtbezirkes vom 26.10.06; BA-Beschlüsse vom 16.01.07 und 06.03.07) - 850. Stadtgeburtstag; Viertes Informationsgespräch am 18.04.2007
+- TOP 14.9.: Stadtwerke München GmbH - Netzbaumaßnahmen im 21. Stadtbezirk
+- TOP 14.10.: Münchner Verkehrsgesellschaft mbH - Gleisbauarbeiten im Bereich Romanplatz vom 05.04. mit 09.04.07 sowie Gleis-Sanierungsarbeiten im Bereich Müllerstraße und Rumfordstraße vom 02.04. mit 20.07.07
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: Bezirksausschuss 1 Altstadt-Lehel - Erhöhung der Gebühren für Baustelleneinrichtungen, Haltverbote und Ausnahmegenehmigungen; Antrag des BA 1 vom 20.03.2007
+- TOP 14.2.: Regierung von Oberbayern - Landsberger Straße 412; Gemeinschaftsunterkunft für Asylbewerber
+- TOP 14.3.: Bezirksausschuss 8 Schwanthalerhöh` - Radweg Pasing zum Münchner Marienplatz (Antrag Nr. 02-08 / B 01908 des BA 21 "Aufnahme einer Radroute Würm-Isar in des VELO-City-Netz der Landeshauptstadt München" vom 06.03.07)
+- TOP 14.4.: Firma Ottmann GmbH & Co Südhausbau KG - Aufstellung eines Verkaufswagens beim Ladenzentrum an der Schrämel- / Menterstraße
+- TOP 14.5.: DB ProjektBau GmbH - Taubenschutz im Bereich der beiden Fuß- und Radwege unter der Eisenbahnunterführung Verdistraße
+- TOP 14.6.: DB Station&Service AG - Anbringen zweier Bahnhofsuhren an der Brücke der S-Banstation Obermenzing
+- TOP 14.7.: Pädagogische Aktion / Spielen in der Stadt e.V. - Münchner Sommer SpielAktion 2007
+- TOP 14.8.: D`Blutenburgler e.V. - Verein für Volksmusik und Volkstanz - 25-Jahr-Feier am 15./16.09.2007; Zuschussantrag
+- TOP 15.: Verschiedenes
+- TOP 15.1.: Nächste BA-Sitzungen am 12.06.2007 und am 03.07.2007 jeweils um 19.00 Uhr im Großen Sitzungssaal des Bürgerzentrums Rathaus Pasing, Landsberger Straße 486
