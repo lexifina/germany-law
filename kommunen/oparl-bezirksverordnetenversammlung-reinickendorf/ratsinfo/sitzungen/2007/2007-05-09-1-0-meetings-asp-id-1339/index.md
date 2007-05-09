@@ -1,0 +1,83 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2007-05-09T17:07:00+02:00
+- Ende: 2007-05-09T22:12:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1339
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1339
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=34001
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Anpassung der Ampelschaltungen durch Tunnelsperrung in den Hauptverkehrszeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Straßenbeleuchtung auf dem Zabel-Krüger-Damm - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.3: Verkehrsfluss an der Kreuzung Oranienburger Str. / Eichborndamm verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Schließung von Polizeidienststellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Gedenktafel für so genannte Reichsausschusskinder verlegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Auch in Zukunft kein Bordell in Lübars - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.7: Weiterführung des Bebauungsplanentwurfs XX-258 mit geänderten Planungszielen - überwiesen
+- TOP 5.8: Personelle Nachbesetzung der Trägervertretung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: BMW-Niederlassung in Reinickendorf - beantwortet
+- TOP 6.1.1: BMW-Niederlassung in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Wahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Benennung von Mitgliedern der BVV für den bezirklichen Beirat der Vivantes GmbH - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Fußgängerampel vor dem Seniorenclub Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Parkraumbewirtschaftung im Bereich Tegel City realisieren - in der BVV abgelehnt
+- TOP 8.3: Tagesmütter für Migrantenfamilien schulen - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Behindertenparkplätze und Fahrradständer am S-Bahnhof Waidmannslust - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Sicherheit in der Cité Foch - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Ehrenamtliche Patenschaften für Familien und Mütter - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Verkehrskonzept Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 8.8: Auslegung im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Partnervertrag mit Umlandgemeinden - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Barrierefreies Umsteigen am S-Bahnhof Waidmannslust - ohne Änderungen in der BVV beschlossen
+- TOP 8.11: Anforderungsampel in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 8.12: Berichterstattung über mögliche Neubebauung der Cité Foch - ohne Änderungen in der BVV beschlossen
+- TOP 8.13: Ampelanlage Heiligenseestraße / Konradshöher Straße - ohne Änderungen in der BVV beschlossen
+- TOP 8.14: Märkisches Viertel an das U-Bahnnetz anschließen - ohne Änderungen in der BVV beschlossen
+- TOP 8.15: Bezirkliche Kulturarbeit durch Kooperation mit dem Verein Kulturhaus Centre Bagatelle e. V. fortentwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 8.16: Projekt "Interkultureller Garten in Hermsdorf" - überwiesen
+- TOP 8.17: Konzept für Umwelttag 2007 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Keine Flatrate-Partys in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Kopflausbefall - Schulen und Kitas unterstützen - überwiesen
+- TOP 10.2: Bordsteinkantenhöhe von mindestens 16 cm an Bushaltestellen - überwiesen
+- TOP 10.3: Bebauungsplanverfahren - überwiesen
+- TOP 10.4: Hundespielplatz am Schäfersee - überwiesen
+- TOP 10.5: Kontrollen zur Durchsetzung des Jugendschutzes verstärken - überwiesen
+- TOP 10.6: E-Government in Reinickendorf fortentwickeln - überwiesen
+- TOP 10.7: Altakten - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Internet-Auftritt der BVV bürgerfreundlich gestalten - überwiesen
+- TOP 10.9: Erste Klasse Erpelgrundschule 2007/2008 - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Senat soll Lehrerausstattung sicherstellen - überwiesen
+- TOP 11.2: Schülerbetreuung - überwiesen
+- TOP 11.3: Beleuchtung von Gebäuden in den Nachtstunden - überwiesen
+- TOP 11.4: ALBA Basketball AG an Schulen - überwiesen
+- TOP 11.5: Regenwasserrückhaltebecken Edelhofdamm (Frohnau) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Mehr Schülerbegleiter in Reinickendorf - überwiesen
+- TOP 11.7: Grüne-Welle - Berliner Straße - Seidelstraße - Kurt-Schumacher-Platz - - überwiesen
+- TOP 11.8: Impfung gegen Gebärmutterhalskrebs - überwiesen
+- TOP 11.9: Vorbereitung des Humboldtjahres - touristisches Hinweisschild an der BAB 111 - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Mehr Hygiene durch Einweghandschuhe - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Barrierefreie Zugänge U-Bahnhof Kurt-Schumacher-Platz - überwiesen
+- TOP 11.12: Vorfahrtsregelung in der Straße "Am Nordgraben - Schorfheidestraße" - überwiesen
+- TOP 11.13: Nutzbarkeit der Wilhelm-Blume-Allee für Fußgänger - überwiesen
+- TOP 11.14: Zaun am Tegeler Hafenbecken - überwiesen
+- TOP 11.15: Bettenzahl in der Psychiatrie - ohne Änderungen in der BVV beschlossen
+- TOP 12: Perspektiven für Reinickendorf ohne den Flughafen Tegel - vertagt
+- TOP 13: Ergebnisse der Machbarkeitsstudie PPP - beantwortet
