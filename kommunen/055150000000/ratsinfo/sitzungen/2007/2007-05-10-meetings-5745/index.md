@@ -1,0 +1,55 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-05-10T17:30:00+02:00
+- Ende: 2007-05-10T21:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5745
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5745
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00248701.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 8: Wahl des/der 3. stellvertretenden Bürgermeisters/in - mehrheitlich geändert beschlossen
+- TOP 9: Satzung zur Änderung der Satzung für das Jugendamt der Stadt Münster - einstimmig beschlossen
+- TOP 10: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - mehrheitlich beschlossen
+- TOP 11: Weiterentwicklung der Bäderlandschaft in Münster - mehrheitlich beschlossen
+- TOP 12: Neuaufstellung des Verkehrsentwicklungsplanes Münster (VEP 2025) - mehrheitlich beschlossen
+- TOP 13: Erhöhung der Kosten für die Straßenbeleuchtung - mehrheitlich beschlossen
+- TOP 14: Sanierung und Modernisierung der kommunalen Sportaußenanlage Aaseestadt - einstimmig beschlossen
+- TOP 15: Ausbau des u3-Angebotes in der kath. Kindertageseinrichtung "Maria-Himmelfahrt" - einstimmig beschlossen
+- TOP 16: Betriebsträgerschaft für die dritte Kindertageseinrichtung im Neubaugebiet Gievenbeck-Südwest - von der Tagesordnung abgesetzt
+- TOP 17: Aufhebung der Satzung der Stadt Münster über die Erhebung von Gebühren für Amtshandlungen - einstimmig beschlossen
+- TOP 18: Bauleitplanung
+- TOP 18.1: Stadtbezirk Münster-Mitte
+- TOP 18.1.1: Bebauungsplan Nr. 491: Stubengasse / Loerstraße - mehrheitlich beschlossen
+- TOP 18.1.2: Vorhabenbezogener Bebauungsplan Nr. 512: Kardinal-von-Galen-Ring / Robert-Koch-Straße / Pottkamp - einstimmig beschlossen
+- TOP 18.2: Stadtbezirk Münster-West
+- TOP 18.2.1: Bebauungsplan Nr. 505: Roxeler Straße / Schmeddingstraße - einstimmig beschlossen
+- TOP 18.3: Stadtbezirk Münster-Hiltrup
+- TOP 18.3.1: Vorhabenbezogener Bebauungsplan Nr. 504: Hiltrup - Am Hagen / Brucknerstraße - einstimmig beschlossen
+- TOP 19: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 19.1: Standortentwicklung "Altes TÜV-Gelände" - mehrheitlich geändert beschlossen
+- TOP 20: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 20.1: Lotharinger Kloster: Das Umfeld des Standesamtes aufwerten - verwiesen
+- TOP 20.2: Ausreichende Übermittagsbetreuung in weiterführenden Schulen sichern - verwiesen
+- TOP 20.3: Situation an der Bismarckallee verkehrlich entschärfen - Gestaltung aufwerten" - verwiesen
+- TOP 20.4: "Schulessen für alle Kinder " - verwiesen
+- TOP 20.5: Schulen in Münster entwickeln ein ganzheitliches Ernährungskonzept - verwiesen
+- TOP 20.6: Münster 2020' - Aktionsprogramm für kommunalen Klimaschutz - verwiesen
+- TOP 20.7: "Münster gibt jedem Kind eine Chance - Fairen Zugang zu Bildung, Gesundheit und früher Förderung sic - verwiesen
+- TOP 20.8: Hochhauskonzept Münster - - verwiesen
+- TOP 20.9: Klimaschutz in Münster - - verwiesen
+- TOP 21: Entsendung eines sachkundigen Einwohners/ einer sachkundigen Einwohnerin in den Ausschuss für Sozial - einstimmig beschlossen
+- TOP 22: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 23: Verschiedenes
