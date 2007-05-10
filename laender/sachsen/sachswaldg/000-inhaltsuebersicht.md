@@ -7,6 +7,7 @@ Erster Teil Allgemeine Vorschriften
 § 5 Waldbesitzer
 Zweiter Teil Forstliche Rahmenplanung, Sicherung der Waldfunktionen
 § 6 Forstliche Rahmenplanung
+§ 6a Waldfunktionskarte, Waldschadensaufnahme
 § 7 Sicherung der Funktionen des Waldes bei öffentlichen Vorhaben
 § 8 Walderhaltung
 § 9 Besondere Fälle der Umwandlung von Wald
@@ -18,7 +19,7 @@ Dritter Teil Betreten des Waldes
 § 14 Aneignung von Waldfrüchten, Blumen und Kräutern
 § 15 Waldgefährdung durch Feuer
 Vierter Teil Bewirtschaftung des Waldes
-§ 16 Grundpflichten
+§ 16 Ordnungsgemäße Forstwirtschaft
 § 17 Nachhaltige Bewirtschaftung des Waldes
 § 18 Pflegliche Bewirtschaftung des Waldes, Nebennutzungen
 § 19 Kahlhiebe
