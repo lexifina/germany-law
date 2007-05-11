@@ -1,0 +1,53 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-05-11T14:00:00+02:00
+- Ende: 2007-05-11T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2091
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2091
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111733.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111733.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111733.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 3: Zulassung Sachverständige - zur Kenntnis genommen
+- TOP 4: Sicherheitslage 2006 - mündlicher Bericht - zur Kenntnis genommen
+- TOP 5: Busangebot des Düsseldorfer Drogenhilfe e.V. - zur Kenntnis genommen
+- TOP 6: B-Plan-Entwurf Nr. 5478/063 - Erwiterung Ergo-Stan - mehrheitlich beschlossen
+- TOP 7: Königsallee 76 und 78 - mehrheitlich beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Genehmigung eines Dringlichkeitsbeschlusses - einstimmig beschlossen
+- TOP 12: Neubau der südlichen Wendefahrbahn Kennedydamm - einstimmig beschlossen
+- TOP 13: ÖPNV Beschleunigung Graf-Adolf-Straße - mehrheitlich beschlossen
+- TOP 14: Kreisverkehr Collenbachstraße - mehrheitlich beschlossen
+- TOP 15: Gleiseckverbindung Duisburger-/Nordstraße - einstimmig abgelehnt
+- TOP 16: Straßenbahnhst.Steinstr./Graf-Adolf-Str./Luisenstr - einstimmig beschlossen
+- TOP 17: Offene Ganztagsschule - Maßnahmen 2007/2008 und Fo - zur Kenntnis genommen
+- TOP 18: Marktkonzept Worringer Platz - zur Kenntnis genommen
+- TOP 19: Bücherbummel auf der Königsallee - einstimmig beschlossen
+- TOP 20: Trödelmärkte auf dem Gelände des Großmarktes - einstimmig beschlossen
+- TOP 21: Rosengarten Rosengarten - einstimmig beschlossen
+- TOP 22: Kö-Bogen - mehrheitlich beschlossen
+- TOP 23: Parkhaus Ratinger Straße 50 - einstimmig beschlossen
+- TOP 24: Erneuerung Straßenbelag Charlottenstraße - mehrheitlich beschlossen
+- TOP 25: "Zebrastreifen Liesegangstraße" - mehrheitlich abgelehnt
+- TOP 26: Derendorfer Güterbahnhof - einstimmig abgelehnt
+- TOP 27: Erweiterung des Bewohnerparkraumes Feldstraße - einstimmig beschlossen
+- TOP 28: "Lärmschutzmaßnahmen Theodor-Heuss-Brücke" - einstimmig beschlossen
+- TOP 29: "Zebrastreifen Reeser Straße" - mehrheitlich abgelehnt
+- TOP 30: Vinzenplatz - mehrheitlich beschlossen
+- TOP 31: Meineckestraße - mehrheitlich abgelehnt
+- TOP 32: Kloster-/Oststraße - einstimmig beschlossen
+- TOP 33: Rheinpark - einstimmig beschlossen
+- TOP 34: Fahrradständer Rheinpark - einstimmig beschlossen
+- TOP 35: Moltkestraße - einstimmig beschlossen
+- TOP 36: Mitteilungen der Verwaltung - zur Kenntnis genommen
