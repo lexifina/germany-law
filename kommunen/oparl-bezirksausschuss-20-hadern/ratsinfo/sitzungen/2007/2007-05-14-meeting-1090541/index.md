@@ -1,0 +1,91 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2007-05-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1090541
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1090541
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Lärmbelästigung: Autobahn Lindau und Hubschrauberlärm (2x)
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Plazerstr. 11, gem. Baumbestandsplan Nr. 49965
+- TOP 3.2.: Krokusstr. 71, 1 Linde, 1 Robinie
+- TOP 3.3.: Am Waldspitz 19, 1 Lärche
+- TOP 3.4.: Gräfelfinger Str. 57, 2 Fichten
+- TOP 3.5.: Ebernburgstr. 5, gem. Baumbestandsplan Nr. 52482
+- TOP 3.6.: Toemlingerstr. 33, gem. Baumbestandsplan Nr. 52911
+- TOP 3.7.: Bortenhofstr. 9, 1 Lärche, 1 Tanne
+- TOP 3.8.: Kurparkstr. 31, gem. Baumbestandsplan Nr. 53411
+- TOP 3.9.: Mäuselweg 19, 1 Colorado-Tanne
+- TOP 3.10.: Senftenauerstr. 1, 1 Vogelbeere, Eberesche
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Verkehr
+- TOP 4.2.: UA Jugend/ Soziales
+- TOP 4.3.: UA Kinder/ Schule/ Sport
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Anordnung von Tempo 30 km/h in der Krokusstraße
+- TOP 6.2.: Antrag von Kultur notiert e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 300,- ? (Direktorium, 02.05.07, 08.05.07)
+- TOP 6.3.: Antrag der Kooperationseinrichtung Sonnenfänger auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 111,- ? (Direktorium, 04.05.07)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Daten Kinderkrippen April 2007 (Sozialreferat, 05.04.07)
+- TOP 7.2.: Zweckentfremdung von Wohnraum, An der Rehwiese 15 (Sozialreferat, 10.04.07)
+- TOP 7.3.: Verkehrsrechtliche Anordnung, Einrichtung eines personenbezogenen Behindertenparkplatzes in der Saalburgstr. 4 b (KVR, 23.03.07)
+- TOP 7.4.: Verkehrsrechtliche Anordnung, Kurzparkzone Gräfelfinger Str. 112 und 114, Großhaderner Str. 8 Seite Gräfelfinger Str. (KVR, 16.04.07)
+- TOP 7.5.: Zuwendung aus dem Budget des BA 20, Valentinskonzert, Antragsteller: HS Guardinistraße (Direktorium, 09.05.07)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Kultur im Stadtquartier (Beschluss des Kulturausschusses vom 14.06.2007)
+- TOP 8.2.: Leistungsprogramm 2008 der MVG (Fahrplanwechsel Dezember 2007) (MVG, 19.04.07)
+- TOP 8.3.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest in der Neufriedenheimer Str. 71-79 am 23.06.07 (KVR, 24.04.07)
+- TOP 8.4.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Sommerfest am 08.07.07, Holzapfelkreuther Str. zwischen Ebernburg- und Rudelsburgstr. (KVR, 25.04.07)
+- TOP 8.5.: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2007-2011 und Stellungnahme zu den Anregungen der BA´s (Kulturreferat, 25.04.07)
+- TOP 8.6.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest in der Guardinistr. 90-112 am 23.06.07 (KVR, 25.04.07)
+- TOP 8.7.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest in der Wilhelm-Weitling-Str. am 21.07.07 (KVR, 03.05.07)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Parkbuchten Prälat-Wellenhofer-Straße nördlich; BA-Antrag Nr. 1598 vom 13.11.06 (Baureferat, 02.04.07)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Münchner Sommer SpielAktion 2007 (Spielen in der Stadt, 05.04.07)
+- TOP 10.2.: BAB A 96 Lindau-München, Lärmschutz an der Betriebsstrecke im Bereich Hadern (Autobahndirektion Südbayern, 03.05.07)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Budget der BA´s, Anträge der cba auf Bezuschussung des Kaufs eines LKW (cba, 29.03.07)
+- TOP 11.2.: Raumprobleme an der Grundschule Guardinistraße (GS Guardinistr., 17.04.07)
+- TOP 11.3.: Einladung zur einer Ausstellung der Naturschutzbehörde im Planungsreferat vom 02.-22.05.07, Thema: "1906-2006: Naturschutz macht Staat - Staat macht Naturschutz"
+- TOP 11.4.: Ablehnung von Zuwendungen für die Schulveranstaltung am Valentinstag an der Hauptschule Guardinistraße (HS Guardinistr., 23.04.07)
+- TOP 11.5.: Nutzung der Stadtteilkulturzentren durch die örtlichen BA´s (Antrag BA 15, 26.04.07)
+- TOP 11.6.: Dank des Elternbeirates der GS am Canisiusplatz für Bezuschussung aus dem Budget des BA 20 und Einladung für Einweihungsfeier des Streitschlichterhäuschens am 24.05.07 von 10.00 - 11.00 Uhr auf dem Pausenhof (Elternbeirat GS Canisiusplatz)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 18.04.2007: Störfallmanagementkonzept Tunnel Mittlerer Ring Südwest, insbesondere zum Tunnelsperrprogramm für die 6 Lichtsignalanlagen (LSA) in der als Ausweichroute vorgesehenen Fürstenrieder Straße zwischen Kreuzhof-Waldfriedhof und Ammerseestraße (S. 9)
+- TOP 12.2.: vom 09.05.2007: Mehrjahresinvestitionsprogramm für die Jahre 2007-2011, insbesondere - zur Kindertagesstätte an der Senftenauerstr. 25 (große Modernisierung, Gesamtkosten in IL 1 = 2.866.000 ?, wovon 151.000 ? bereits in 2006 ausgegeben wurden, vom Restbetrag von 2.715.000 ? entfallen auf das laufende Jahr 2007 = 700.000 ?, auf 2008 = 1.597.000 ?, auf 2009 = 418.000 ?), - zum Neubau der Kita (Koop.) an der Großhaderner Straße 40 (Gesamtkosten in IL 1 = 2.282.000 ?), - zum Neubau der Kita am "Stiftsbogen II" (Gesamtkosten in IL 1 = 2.610.000 ?), - zum Neubau der Kita (Koop.) am "Stiftsbogen I" (Gesamtkosten in IL 1 = 2.493.000 -?), - zum Teileigentumserwerb und Neubau der Kita an der Prälat-Wellenhofer-Straße (Gesamtkosten in IL 1 = 1.328.000 ?), - zum Grünzug an der Sauerbruchstraße (Gesamtkosten in IL 1 = 762.000 ?), - zur Instandsetzung der Straßenbrücke über die Boschetsrieder- und Fürstenrieder Straße (Gesamtkosten in IL 1 = 3.866.000 ?),
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses vom 20.03.2007: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum Bewohnertreff Hadern des "Konzepts GRÜN" (50.000 ? Ende 2008) und - zur Krokusstraße (250 ?)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.2007: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates/Zentrale
+- TOP 12.3.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 20.03.2007: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.2007: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 12.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses vom 20.03.2007: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 12.6.: Beschluss des Bauausschusses vom 27.03.2007: Aktion saubere Stadt, Öffentlichkeitskampagne und Maßnahmenkonzept
+- TOP 12.1.: Beschluss des Kreisverwaltungsausschusses vom 17.04.2007: Lichtzeichenanlagen-Bauprogramm 2007
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.03.2007: Schutz der Münchner Vorgärten (vertagt nach Änderungsantrag der CSU vom 21.03.2007)
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 24.04.2007: Perspektive München, Leitlinie Kinder- und Familienpolitik
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.04.2007: Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogrammes Bayern 2006, Ergebnisse der fachanwaltlichen Prüfung, insbesondere zum "Sonderflughafen Oberpfaffenhofen" (keine Klageerhebung wegen des unverhältnismäßig hohen Prozesskostenrisikos)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.04.2007: Wohnen in München, III
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
