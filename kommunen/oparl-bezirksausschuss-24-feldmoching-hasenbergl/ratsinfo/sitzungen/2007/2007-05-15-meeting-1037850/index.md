@@ -1,0 +1,75 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2007-05-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1037850
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1037850
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Kultur notiert e. V; Druck einer stadtweiten Zeitung
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Madhouse; länderübergreifende Veranstaltung
+- TOP 3.1.: Anträge aus der Anwohnerversammlung zum Thema "Grünfläche mit Lärmschutzwall/ -wand Azaleenstraße)
+- TOP 3.2.: Parkverbot in der Waldmeisterstraße 2 bis 4 und Waldrebenstraße 14 bis 32
+- TOP 3.3.: Sanierung der Lerchenstraße im Abschnitt zwischen Herberg- und Josef-Frankl-Straße
+- TOP 3.4.: Mittel aus dem BA-Budget zur Durchführung des 1. Lerchenauer Bürgerfestes am 01.07.2007
+- TOP 3.5.: Planung und Herstellung eines kombinierten Fuß- und Radweges entlang der Grashofstraße im Bereich zwischen Karlsfelder bis mindestens zur Einmündung Heppstraße
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Vollzug der Baumschutzverordnung: Azaleenstr. - Errichtung einer Grünanlage mit Lärmschutzwall/ - wand (in der Sitzung am 06.03.2007 vertagt)
+- TOP 5.2.: Kultur im Stadtquartier (in der Sitzung am 17.04.2007 vertagt)
+- TOP 5.3.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/38 Schleißheimer Straße (westlich), Olschewski-Bogen (südöstlich) (in der Sitzung am 17.04.2007 vertagt)
+- TOP 5.4.: 18. jetzt - Fest junger Erwachsener (in der Sitzung am 17.04.2007 vertagt)
+- TOP 5.5.: Leistungsprogramm 2008 der MVG
+- TOP 5.6.: Festzug der Freiwilligen Feuerwehr anl. 125-jährigem Jubiläum am 30.06.2007 zum Festgelände auf den Schrederwiesen
+- TOP 5.7.: Straßenfest in der Lassallestr. mit angr. Grünfläche am 30.06.2007
+- TOP 5.8.: Feldmochinger Straße (Bahnübergang Fasanerie) Verbesserung zum Schutz der Fußgänger und Radfahrer durch geringfügige Aufweitung der Fahrbahn
+- TOP 5.9.: Erstmalige Herstellung der Pfarrer-Himmler-Straße zwischen der Straße ?Am Blütenanger? und der Klinik ?Fasanenhof?
+- TOP 5.10.: Kinderfest des ´s Dülfer am Walter-Sedlmayr-Platz am 23.06.2007
+- TOP 5.11.: Bebauungsplan mit Grünordnung Nr. 1939 b; Schleißheimer Straße (westlich); Olschewskibogen (süd-östlich)
+- TOP 5.12.: Vollzug der Baumschutzverordnung a) 2 Bäume Schafgarbenweg Hr. Kexel
+- TOP 5.13.: Bebauungsplan mit Grünordnung Nr. 1947 a; Änderung des Flächennutzungsplanes Knorr-Bremse; Erörterungsveranstaltung am 25.05.2007
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Aufstellung von Automaten für Hundekottüten oder sonstige geeignete Maßnahmen zur Reinhaltung der Grünanlage am Krempelhuberplatz (Antrag Nr. 1893 vom 06.03.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Einführung eines Abo-Angebotes für die MVV-Ausbildungstarife I und II sowie Anhebung der Altersgrenze beim Ausbildungstarif (Antrag Nr. 1743 vom 09.01.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Preisermäßigung für Familien, Jugendliche, Schüler und Studenten bei städtischen Angeboten (Antrag Nr. 1674 vom 05.12.2006) - <div>zur Kenntnis genommen</div>
+- TOP 6.4.: 60-Jahr-Feier und 1. Lerchenauer Festwochenende; Wiese nähe Goldlackplatz vom 29.06. bis 01.07.2007 Vorab-Stellungnahme aus Fristgründen - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Meldelisten - Baumfällungen - <div>zur Kenntnis genommen</div>
+- TOP 6.6.: Meldelisten - Bauvorhaben - <div>versch. Unterlagen werden angefordert</div>
+- TOP 6.7.: Verkehrsrechtliche Anordnung: Weitlstraße - Schaffung einer Ausweichstelle durch Anordnung eines Halteverbotes - <div>zur Kenntnis genommen</div>
+- TOP 6.8.: Straßenbenennung im 24. Stadtbezirk Feldmoching-Hasenbergl Paul-Huml-Bogen - <div>zur Kenntnis genommen</div>
+- TOP 6.9.: Zweckentfremdung von Wohnraum - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Perspektive München Leitlinie Kinder- und Familienpolitik - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Lärmsanierung an bestehenden Schienenwegen des Bundes - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Wohnen in München, III - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Aktion saubere Stadt Öffentlichkeitskampagne und Maßnahmenkonzept - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 Ergebnisse der fachanwaltlichen Prüfung - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Baumaßnahmen Stadtwerke - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Lichtzeichenanlagen-Bauprogramm 2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Beteiligungs- und Entscheidungsrechte der Bezirksausschüsse bei Standortfragen und Baumaßnahmen für Kindertagesstätten (Schreiben des Direktoriums an den BA 3) - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Öffentliche Grünfläche Detmoldstraße im 24. Stadtbezirk Feldmoching - Hasenbergl (Verwaltungsinterne Projektgenehmigung) - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Generelle Anhebung der Altersgrenzen bei Eintrittpreisen bei Angebote der Landeshauptstadt München (Antrag Nr. 1499 des BA 7) - <div>zur Kenntnis genommen</div>
+- TOP 6.20.: Daten Kinderkrippen April 2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.21.: Schutz der Münchner Vorgärten - <div>zur Kenntnis genommen</div>
+- TOP 6.22.: Ergebnisprotokolle aus den Sitzungen der Arbeitsgruppe Wohnungslosigkeit - <div>zur Kenntnis genommen</div>
+- TOP 6.23.: Blausternweg (Kanalbau i. V. m. Wohnungs- und Gewerbebau) - <div>zur Kenntnis genommen</div>
+- TOP 6.24.: Mehrjahresinvestitionsprogramm für die Jahre 2007 bis 2011 - <div>zur Kenntnis genommen</div>
+- TOP 6.25.: Neuerungen bei REGSAM ab November 2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.26.: REGSAM Jahresbericht 2006 - <div>zur Kenntnis genommen</div>
+- TOP 6.27.: Jahresbericht 2006 mit Jahresvorschau 2007 der Landeshauptstadt München - <div>zur Kenntnis genommen</div>
+- TOP 6.28.: Umwandlung der städtischen Unterkünfte in Mietwohnungen Abzug des Umwandlungsbüros zum 31.12.2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.29.: Umstrukturierung in der Kindertageseinrichtung Diamantstraße 14 - <div>zur Kenntnis genommen</div>
+- TOP 6.30.: neue Kindertageseinrichtung in der Waldmeisterstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.31.: Veranstaltung am Goldschmiedplatz vom 17.05. bis 20.05.2007 (Vorab-Stellungnahme des Unterausschusses Jugend, Soziales, Schule, Kultur) - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Jugend, Soziales, Schule, Kultur
+- TOP 7.2.: Unterausschuss Planung, Verkehr , Umwelt
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
