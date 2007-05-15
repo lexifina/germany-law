@@ -1,1 +1,1 @@
-# Bremisches Hafensicherheitsgesetz vom 6. Juli 2004
+# Bremisches Hafensicherheitsgesetz (BremHaSiG) vom 30. April 2007
