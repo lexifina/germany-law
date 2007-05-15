@@ -1,0 +1,7 @@
+# TOP 1: Grundsatzreden der Fraktionen, Fraktionsgemeinschaften und der FDP zum Doppelhaushalt 2007/2008
+
+- Sitzung: 6. Sitzung des Gemeinderates (2007-05-15)
+- Körperschaft: Stadtverwaltung Freiburg
+- Öffentlich: ja
+- OParl: https://ris.freiburg.de/oparl/agendaItem/ni_2006-GR-242%7Czt_0%7C1
+- Beschluss (Datei): Beschluss - Top 1 https://ris.freiburg.de/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2006-GR-242%7Czt_0%7C1
