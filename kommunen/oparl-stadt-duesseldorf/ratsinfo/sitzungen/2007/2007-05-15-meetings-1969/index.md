@@ -1,0 +1,51 @@
+# Schulausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-05-15T15:00:00+02:00
+- Ende: 2007-05-15T00:00:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/28
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1969
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1969
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111732.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111732.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00111732.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift 3/2007 - einstimmig beschlossen
+- TOP 3: Prognoseunterricht (mündlicher Bericht) - einstimmig beschlossen
+- TOP 4: Anfrage - einstimmig beschlossen
+- TOP 5: Stellungnahme der Verwaltung - einstimmig beschlossen
+- TOP 6: Anfrage - einstimmig beschlossen
+- TOP 7: Stellungnahme der Verwaltung - einstimmig beschlossen
+- TOP 8: Sprachstandsfeststellung (mündlicher Bericht) - einstimmig beschlossen
+- TOP 9: Anfrage - einstimmig beschlossen
+- TOP 10: Anfrage - einstimmig beschlossen
+- TOP 11: Stellungnahme der Verwaltung - einstimmig beschlossen
+- TOP 12: Anfrage - einstimmig beschlossen
+- TOP 13: Anfrage der SPD-Ratsfraktion - einstimmig beschlossen
+- TOP 14: Stellungnahme der Verwaltung - einstimmig beschlossen
+- TOP 15: Anfrage - einstimmig beschlossen
+- TOP 16: Stellungnahme - einstimmig beschlossen
+- TOP 17: Anfrage - einstimmig beschlossen
+- TOP 18: Stellungnahme der Verwaltung - einstimmig beschlossen
+- TOP 19: Anfrage Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 20: Stellungnahme der Verwaltung - einstimmig beschlossen
+- TOP 21: Anfrage des Ratsherrn Wiedon - einstimmig beschlossen
+- TOP 22: Anfrage des Ratsherrn Tussing - einstimmig beschlossen
+- TOP 23: Stellungnahme der Verwaltung - einstimmig beschlossen
+- TOP 24: Anfrage des RatsherrnTussing - einstimmig beschlossen
+- TOP 25: Stellungnahme der Verwaltung - einstimmig beschlossen
+- TOP 26: OGATA - einstimmig beschlossen
+- TOP 27: GGS Mettmanner Straße - einstimmig beschlossen
+- TOP 28: Schuldenprävention an weiterführenden Schulen - einstimmig beschlossen
+- TOP 29: Schulsozialarbeit an Grundschulen - einstimmig beschlossen
+- TOP 30: Profilbildung Realschulen - verwiesen
+- TOP 31: Schulorganisatorische Maßnahmen - verwiesen
+- TOP 32: Jahresbericht 2006 der RAA - verwiesen
+- TOP 33: Lore-Lorentz-Schule, Berufskolleg, Schlossallee 1 - einstimmig beschlossen
+- TOP 34: Marie-Curie-Gymnasium, Gräulinger Str. 15, Erweite - einstimmig beschlossen
