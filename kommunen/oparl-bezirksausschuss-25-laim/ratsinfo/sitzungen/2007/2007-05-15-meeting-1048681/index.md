@@ -1,0 +1,130 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2007-05-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1048681
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1048681
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Grundschule Fürstenrieder Str. 30: Nutzung des Lehrerparkplatz sowie Ausfahrt aus der Tiefgarage der Laimer Arkaden
+- TOP 1.2.2.: Wandgestaltung der Unterführung von der Elsenheimerstraße zur Landsberger Straße
+- TOP 1.2.3.: Grüner Pfeil - Landsberger Straße (Vertagung aus der BA-Sitzung v. 06.03.07)
+- TOP 2: Anträge
+- TOP 2.1.: SPD-Fraktion: Erhöhung der Attraktivität der Fürstenrieder Straße als Einkaufsstraße
+- TOP 2.2.: SPD-Fraktion: Einbeziehung aller potentiell betroffener städtischer Referate in die Planungen für den sog. zweiten Bauabschnitt des Kulturellen Zentrums Laim
+- TOP 2.3.: UA Kinder und Jugend: Einsatz des Streetwork-Busses an einem zusätzlichen Tag in Laim
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 1.130,73 ? für den Kauf eines Pavillions; Antragsteller: Regsam 8/25
+- TOP 3.2.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 2.385 ? für das Laimer Stadtteilfest am 23.06.07; Antragsteller: Regsam 8/25
+- TOP 3.3.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 960 ? für den Spielbus "Zirkus Pumpernudl" vom 27.06.-29.06.07; Antragsteller: Pädagogische Aktion / Spielen in der Stadt e.v.
+- TOP 3.4.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 560 ? für Spielbus "Artmobil" vom 29.05.-31.05.07; Antragsteller: Pädagogische Aktion / Spielen in der Stadt e.V.
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Stadtwerke München GmbH vom 16.03.07: Erschließung Westend Baulos 3
+- TOP 4.2.: Schreiben KVR vom 10.04.07: Straßenfest am 14.07.07 am Weißenfelderplatz
+- TOP 4.3.: Schreiben MVG vom 19.04.07: Leistungsprogramm 2008 der MVG (Fahrplanwechsel Dezember 2007)
+- TOP 4.4.: Schreiben KVR vom 18.04.07: Laimer Fischtage vom 25.05.-03.06.07 auf dem Laimer Anger
+- TOP 4.5.: Schreiben Kulturreferat vom 12.04.07: Kultur im Stadtquartier
+- TOP 4.6.: Schreiben Planungsreferat vom 27.04.07: 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG), a) Sach- und Verfahrensstand; ergänzende Informationen, b) weiteres Vorgehen, c) Anträge und Empfehlungen
+- TOP 4.7.: Schreiben Direktorium vom 10.04.07: 18.jetzt - Fest junger Erwachsener im Rathaus am 20.10.07
+- TOP 4.8.: Schreiben KVR vom 02.05.07: Kasperle-Theater auf dem Laimer Anger vom 01.-11.11.07
+- TOP 4.9.: Schreiben KVR vom 02.05.07: Open-Air-Veranstaltungen auf dem Laimer Anger am 09., 16., 23., 30.06. und 07., 14.07.07
+- TOP 5: Baumfällungen
+- TOP 6: Bauvorhaben
+- TOP 6.1.: Agnes-Bernauer-Str. 103 a: Neubau eines Mehrfamilienhauses (14 WE) mit Tiefgarage; Baupläne und Baumfällungen
+- TOP 7: Sonstiges
+- TOP 8: Protokolle
+- TOP 8.1.: BA-Sitzung vom 27.03.07
+- TOP 8.2.: Sitzung UA Kinder und Jugend vom 19.03.07
+- TOP 8.3.: Sitzung UA Kinder und Jugend vom 26.04.07
+- TOP 8.4.: Begehung UA Verkehr vom 26.04.07
+- TOP 8.5.: UA Verkehr vom 03.05.07
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Direktorium vom 16.03.07: Budgetmittel der Bezirksausschüsse; Kultur notiert e. V. , Übernahme von Druckkosten einer Seniorenzeitung
+- TOP 9.2.: Schreiben Direktorium vom 23.03.07: Budget der BAs; Anträge von cba e. V. auf Bezuschussung des Kaufs eines LKWs
+- TOP 9.3.: Schreiben Direktorium vom 16.04.07: Anträge des Vereins cba
+- TOP 9.4.: Schreiben Stadtkämmerei vom 27.04.07: Mehrjahresinvestitionsprogramm für die Jahre 2007-2011
+- TOP 9.5.: Schreiben KVR vom 29.03.07: Verlängerung der Ampelschaltung (Grünphase) für Fußgänger zum Überqueren der Fürstenrieder Straße an der Kreuzung Fürstenrieder Straße / Gotthardstraße
+- TOP 9.6.: Schreiben KVR vom 05.04.07: Gaststätte "Asien Perle", Agnes-Bernauer-Str. 51; unveränderte Fortführung
+- TOP 9.7.: Schreiben KVR vom 18.04.07: Gaststätte "Bongsen", Elsenheimerstr. 2; unveränderte Fortführung
+- TOP 9.8.: Schreiben KVR vom 24.04.07: Gaststätte "Cafe-Bistro International", Landsberger Str. 199; unveränderte Fortführung
+- TOP 9.9.: Schreiben KVR vom 24.04.07: Gaststätte "Pub 9", Veit-Stoß-Str. 9; unveränderte Fortführung
+- TOP 9.10.: Schreiben KVR vom 27.04.07: Gaststätte "Lemon Trees", Lechfeldstr. 8, unveränderte Fortführung
+- TOP 9.11.: Schreiben KVR vom 12.04.07: Drehgenehmigung für 13.04.07; Valpichlerstraße ggü Hausnr. 92
+- TOP 9.12.: Schreiben KVR vom 27.04.07: Anmeldung eines Aufzuges mit Auftakt-, Zwischen- und/oder Schlusskundgebung am 19.05.07
+- TOP 9.13.: Schreiben KVR vom 27.04.07: Anmeldung eines Aufzuges mit Auftakt-, Zwischen- und/oder Schlusskundgebung am 09.06.07
+- TOP 9.14.: Schreiben Kulturreferat vom 18.04.07: Kulturelles Zentrum Laim; Beschleunigung der Planungen für den 2. Bauabschnitt sowie Einstellung der hierfür benötigten Mittel in die Investitionsliste 1 des MIP (Antrag Nr. 02-08 / B 01734 vom 05.12.06)
+- TOP 9.15.: Schreiben Schul- und Kultusreferat vom 21.03.07: Betreuungssituation an der Camerloher-Schule; Grundstück Camerloher Str. 110
+- TOP 9.16.: Schreiben Schul- und Kultusreferat vom 28.03.07: Nachmittagsbetreuung an der Camerloher-Grundschule (Antrag Nr. 02-08 / B 01912 vom 06.03.07)
+- TOP 9.17.: Schreiben Schul- und Kultusreferat vom 05.04.07: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen
+- TOP 9.18.: Schreiben Sozialreferat vom 28.03.07: Mathunikrippe - was kommt endlich wann ? (Antrag Nr. 02-08 / B 01495)
+- TOP 9.19.: Schreiben Sozialreferat vom 14.03.07: Zweckentfremdung von Wohnraum; Stadtlohner Straße
+- TOP 9.20.: Schreiben Sozialreferat vom 19.03.07: Zweckentfremdung von Wohnraum; Ludwig-Richter-Straße
+- TOP 9.21.: Schreiben Sozialreferat vom 05.04.07: Daten Kinderkrippen April 2007
+- TOP 9.22.: Schreiben Baureferat vom 03.04.07: Laimer Würfel - Wiederherstellung Landsberger Straße/Wotanstraße
+- TOP 9.23.: Schreiben Referat für Gesundheit und Umwelt vom 19.04.07: Baubeginnsanzeige einer Mobilfunksendeanlage
+- TOP 9.24.: Schreiben Planungsreferat vom 21.03.07: Planung und Bau von Umweltverbundröhre, Fuß- und Radweg-Stege und S-Bahnhof Laim soll uneingeschränkt fortgeführt werden (Antrag Nr. 02-08 / B 01535 vom 17.10.06)
+- TOP 9.25.: Schreiben Planungsreferat vom 09.03.07: Landsberger Straße; Neubau eines Büro- und Geschäftshauses mit Tiefgarage
+- TOP 9.26.: Schreiben Planungsreferat vom 13.03.07: Willibaldstr. 31; Umbau eines Einfamilienhauses mit Arztzimmer zu einem Einfamilienhaus mit Büroeinheit
+- TOP 9.27.: Schreiben Planungsreferat vom 12.04.07: Friedberger Str. 3; Neubau eines Mehrfamilienhauses mit Tiefgarage (Friedberger Str. 3-9) / Tektur
+- TOP 9.28.: Schreiben Planungsreferat vom 19.04.07: Erhalt der Baumschutzverordnung (Schreiben BA vom 09.11.06)
+- TOP 9.29.: Schreiben Planungsreferat vom 26.04.07: Ausstellung der Unteren Naturschutzbehörde vom 02.05.-22.05.07 zum Thema "1996-2006: Naturschutz macht Staat-Staat macht Naturschutz"
+- TOP 9.30.: Schreiben Planungsreferat vom 13.03.07: Alblstr. 6; Fällungsgenehmigung
+- TOP 9.31.: Schreiben Planungsreferat vom 13.03.07: Valpichlerstr. 2; Fällungsgenehmigung
+- TOP 9.32.: Schreiben Planungsreferat vom 13.03.07: Valpichlerstr. 16; Fällungsgenehmigung
+- TOP 9.33.: Schreiben Planungsreferat vom 13.03.07: Hans-Thonauer-Str. 34; Fällungsgenehmigung
+- TOP 9.34.: Schreiben Planungsreferat vom 14.03.07: Camerloherstr. 119; Fällungsgenehmigung
+- TOP 9.35.: Schreiben Planungsreferat vom 14.03.07: Pöhlmannstr. 9; Fällungsgenehmigung
+- TOP 9.36.: Schreiben Planungsreferat vom 15.03.07: Agnes-Bernauer-Str. 147 a: Fällungsgenehmigung
+- TOP 9.37.: Schreiben Planungsreferat vom 04.04.07: Hartelstr. 18; Fällungsgenehmigung
+- TOP 9.38.: Bautenliste vom 12.03.-18.03.07 1. Erstantragsverfahren a) Schäufeleinstr. 22 b) Joergstr. 29 c) Landsberger Str. 314 d) Sandrartstr. 24 2. Änderungsverfahren a) Landsberger Str. 175
+- TOP 9.39.: Bautenlisten vom 19.03.-25.03.07 1. Erstantragsverfahren a) Byecherstr. 14 b) Senftenauerstr. 18
+- TOP 9.40.: Bautenliste vom 26.03.-01.04.07: 1. Änderungsverfahren a) Agricolastr. 59
+- TOP 9.41.: Bautenliste vom 02.04.-08.04.07 1. Erstantragsverfahren a) Berchemstraße b) Fischartstr. 15 2. Änderungsverfahren a) Guido-Schneble-Str. 80 b) Inderstorferstr. 17 a
+- TOP 9.42.: Bautenliste vom 09.04.-15.04.07: 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agnes-Bernauer-Str. 103 a
+- TOP 9.43.: Bautenliste vom 16.04.-22.04.07 1. Erstantragsverfahren a) Rechpacherstr. 56 2. Änderungsverfahren a) Agnes-Bernauer-Str. 81 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Friedenheimer Str. 75
+- TOP 9.44.: Bautenliste vom 23.04.-29.04.07 1. Erstantragsverfahren a) Stöberlstr. 79
+- TOP 9.45.: Schreiben Planungsreferat vom 02.04.07: Liste der beantragten Baumfällungen
+- TOP 9.46.: Schreiben Planungsreferat vom 16.04.07: Liste der beantragten Baumfällungen
+- TOP 9.47.: Schreiben Planungsreferat vom 23.04.07: Liste der beantragten Baumfällungen
+- TOP 9.48.: Schreiben Planungsreferat vom 30.04.07: Liste der beantragten Baumfällungen
+- TOP 9.49.: Schreiben Stadtwerke München GmbH vom 16.04.07: Informationsveranstaltung vom 29.03. und 04.04.07; Infoflyer
+- TOP 9.50.: Schreiben Stadtwerke München GmbH vom 19.03.07: Baumaßnahmen der Stadtwerke; Stichtag: 19.03.07
+- TOP 9.51.: Schreiben Stadtwerke München GmbH vom 26.03.07: Baumaßnahmen der Stadtwerke; Stichtag: 26.03.07
+- TOP 9.52.: Schreiben Stadtwerke München GmbH vom 02.04.07: Baumaßnahmen der Stadtwerke; Stichtag: 02.04.07
+- TOP 9.53.: Schreiben Stadtwerke München GmbH vom 16.04.07: Baumaßnahmen der Stadtwerke; Stichtag: 16.04.07
+- TOP 9.54.: Schreiben der Stadtwerke München GmbH vom 23.04.07: Baumaßnahmen der Stadtwerke; Stichtag: 23.04.07
+- TOP 9.55.: Schreiben Stadtwerke München GmbH vom 30.04.07: Baumaßnahmen der Stadtwerke; Stichtag: 30.04.07
+- TOP 9.56.: Beschluss der Vollversammlung vom 14.03.07: Veranstaltungen im öffentlichen Raum
+- TOP 9.57.: Beschluss der Vollversammlung vom 14.03.07: Magnetschwebebahn München Hauptbahnhof-Flughafen (MSB) (Sitzungsvorlagen Nr. 02-08 / V 09555)
+- TOP 9.58.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.07: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Kooperation mit freien Trägern" des Sozialreferates/ Zentrale (Sitzungsvorlagen Nr. 02-08 / V 09550)
+- TOP 9.59.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 20.03.07: Zuschussnehmerdatei 2007, Vollzug des Haushaltsplanes 2007 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlagen Nr. 02-08 / V 09507)
+- TOP 9.60.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.03.07: Schutz der Münchner Vorgärten (Sitzungsvorlagen Nr. 02-08 / V 09138)
+- TOP 9.61.: Beschluss des Bauausschusses vom 27.03.07: Aktion saubere Stadt; Öffentlichkeitskampagne und Maßnahmenkonzept (Sitzungsvorlagen Nr. 02-08 / V 06697)
+- TOP 9.62.: Beschluss des Kreisverwaltungsausschusses vom 17.04.07: Lichtzeichenanlagen-Bauprogramm 2007 (Sitzungsvorlagen Nr. 02-08 / V 09818)
+- TOP 9.63.: Beschluss der Vollversammlung vom 18.04.07: Störfallmanagementkonzept Tunnel Mittlerer Ring Südwest (Sitzungsvorlagen Nr. 02-08 / V 09898)
+- TOP 9.64.: Beschluss der Vollversammlung vom 18.04.07: Ausbau des Mittleren Ringes (B 2 R)-Südwest, Luise-Kiesselbach-Platz (Sitzungsvorlagen Nr. 02-08 / V 09712)
+- TOP 9.65.: Beschluss des Kinder- und Jugendhilfeausschusses vom 24.04.07: Perspektive München; Leitlinie Kinder- und Familienpolitik (Sitzungsvorlagen Nr. 02-08 / V 09459)
+- TOP 9.66.: Beschluss des Umweltausschusses vom 24.04.07: Lärmsanierung an bestehenden Schienenwegen des Bundes (Sitzungsvorlagen Nr. 02-08 / V 09810)
+- TOP 9.67.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.04.07: Projekt Hauptbahnhof-Laim-Pasing; a) Fuß- und Radwegekonzept, b) Auswertung der Machbarkeitsstudie zur Fuß- und Radwegeführung entlang der Bahnachse sowie des Rahmenplans Grün für die Entwicklung desFreiflächenbandes zwischen Donnersbergerbrücke und Nymphenburger Vorfeld, c) Skaten zwischen Pasing und Stadtmitte, d) Radwegverbindung zwischen Innenstadt und Pasing sofort realisieren, e) Bau einer Radler- und Fußgängerbrücke zwischen Hacker- und Donnersbergerbrücke, f) 2008-Jahr der Brücke und Eröffnung des Hirschgartensteges, g) Verbindungssteg zwischen Arnulfpark und Schwanthalerhöhe (Sitzungsvorlagen Nr. 02-08 / V 09878)
+- TOP 9.68.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.04.07: Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006; Ergebnis der fachanwaltlichen Prüfung (Sitzungsvorlagen Nr. 02-08 / V 09840)
+- TOP 9.69.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.04.07: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 2001, Bezirkssportanlage Laim, westlich Riegerhofstraße, südlich der Valpichlerstraße (Teiländerung des Beb.Pl.Nr. 431) - Neubau privaten evang. Lukas-Schule mit Dreifachturnhalle und Vereinsräumen des ESV Laim - (Sitzungsvorlagen Nr. 02-08 / V 09830)
+- TOP 9.70.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.04.07: Wohnen in München III, a) Erfahrungsbericht für das Jahr 2006, b) Ergänzungen des Erfahrungsberichts, c) Aufträge zu den Förderprogrammen aus "Wohnen in München IV", d) Integration der bisher zweijährigen Programmbeschlüsse zum geförderten Wohnungsbau in den jährlichen Erfahrungsbericht (Sitzungsvorlagen Nr. 02-08 / V 09836)
+- TOP 9.71.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.04.07: Verkehrskonzept Pasing-Zentrum (Sitzungsvorlagen Nr. 02-08 / V 09953)
+- TOP 9.72.: Beschluss des Bauausschusses vom 26.04.07: Instandsetzung der Friedenheimer Brücke Nord und Süd (Sitzungsvorlagen Nr. 02-08 / V 09775)
+- TOP 9.73.: Schreiben Archiv der Münchner Arbeiterbewegung e.V. vom 03.02.07: Projekt "Nachbarn"
+- TOP 9.74.: Schreiben STÜPS vom 21.03.07: Jahresbericht 2006
+- TOP 9.75.: Schreiben Spielen in der Stadt e.V. vom 05.04.07: Münchner Sommer SpielAktion 2007
+- TOP 9.76.: Schreiben Faschingsclub Laim e.V. vom 10.04.07: Dank für die Unterstützung des Faschingstreibens
+- TOP 9.77.: Schreiben Münchner Stadtbibliothek Laim vom 20.04.07: Einladung zum Tag der offenen Tür am 12.05.07
+- TOP 9.78.: Schreiben BA 1 Altstadt-Lehel vom 27.03.07: Erhöhung der Gebühren für Baustelleneinrichtungen, Haltverbote und Ausnahmegenehmigungen
+- TOP 9.79.: Schreiben BA 15 Trudering-Riem vom 27.04.07: BAs und Stadtteilkulturzentren
+- TOP 9.80.: Schreiben BA 21 Pasing-Obermenzing vom 16.03.07: Aufnahme einer Radroute "Würm-Isar" in das VELO-City-Netz der LH München
+- TOP 9.81.: Schriftverkehr aus der BA-Sitzung vom 27.03.07
+- TOP 1.2: Bürgerpost an den BA
