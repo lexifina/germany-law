@@ -1,0 +1,92 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2007-05-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1020096
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1020096
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.: Ausschluss von Kindern aus Spielgruppe in einem Kindergarten; Bürgerschreiben vom 30.03.2007
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Isarrenaturierung; Kopie eines im Original an das Wasserwirtschaftsamt München gerichteten Bürger-e-mails
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Die Färberei, Kreisjugendring München-Stadt, für die Maßnahme: Fotoausstellung "Rosengarten" des Giesinger Kunstmalers Walter Hirschberger in der Galerie der Färberei; Antragssumme: 500,- ?; Antrag vom 13.04.2007
+- TOP 3.2.: AntragstellerIn: Regsam Örtliche Arbeitsgemeinschaft Altenhilfe in Giesing/Harlaching, für die Maßnahme: Häusliche Versorgung im Raum Giesing-Harlaching für ältere Menschen mit Hilfebdarf unterhalb der Schwelle zur Pflegeversicherung; Antragssumme: 3.860,-- ?; Antrag vom 16.04.2007
+- TOP 3.3.: AntragstellerIn: Grundschule am Agilolfingerplatz 1, für die Maßnahme: Festwoche anlässlich der 100-Jahr-Feier der Schule; Antragssumme: 1.210,- ?; Antrag vom 16.04.2007
+- TOP 3.4.: AntragstellerIn: Kindergarten Hänsel & Gretel e.V., für die Maßnahme: Feier anlässlich des 50-jährigen Jubiläums; Antragssumme: 900,-- ?; Antrag vom 15.04.2007
+- TOP 3.5.: AntragstellerIn: Verein zur Erhaltung und Pflege des Perlacher-Grünwalder Forstes e.V., für die Maßnahme: Waldfest am 30.06.2007; Antragssumme: 1.000,-- ?; Antrag vom 10.04.2007
+- TOP 3.3.2: UA Verkehr
+- TOP 1: (E) Tempo-30-Fahrbahnmarkierung in der Tempo-30-Zone in Untergiesing (Gerhard-/Agilolfingerstraße)
+- TOP 1.1.: Grünwalder Straße 188 - Ausweisung einer Lieferzone und Verbesserung der dortigen Tiefgaragenausfahrt; Anhörung durch das Kreisverwaltungsreferat vom 16.04.2007 zur beabsichtigten verkehrsrechtlichen Anordnung
+- TOP 1.2.: Leistungsprogramm 2008 der MVG (Fahrplanwechsel Dezember 2007); Anhörung durch die Münchner Verkehrsgesellschaft mbH (MVG) vom 19.04.2007 mit der Bitte um Stellungnahme bis 04.06.2007
+- TOP 1.1.: Kurzparkzone Oberbiberger Straße 1; Verkehrsrechtliche Anordnung des Kreisverwaltungsreferates vom 26.03.2007
+- TOP 1.2.: Lichtzeichenanlagen-Bauprogramm 2007; Beschluss des Kreisverwaltungsausschusses vom 17.04.2007; Sitzungsvorlage Nr.02-08/V09818
+- TOP 1.3.: Parkraummanagement in München - Festlegung der 2. Priorität; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.04.2007; Sitzungsvorlage Nr.02-08/V09529
+- TOP 1.3.3: UA Umwelt
+- TOP 1.1.: Unterrichtung über das Fällen von Gefahrenbäumen im Bereich Schlichtweg im April 2007; Schreiben des Baureferats-Gartenbau vom 22.03.2007
+- TOP 1.3.4: UA Soziales
+- TOP 1.3.5: UA Bau und Planung
+- TOP 1.1.: Anhörung zur beabsichtigten Errichtung einer hinterleuchteten Wechselwerbeanlage (Wandmontage) in der Humboldtstraße; Zuleitung des Planungsreferates-Lokalbaukommission vom 13.04.2007
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Baufälle im 18.Stadtbezirk
+- TOP 1.2.: Gaststätten (unveränderte Fortführung); Mitteilungen des Kreisverwaltungsreferates 3.5.6.2.1 SSW "Harlachinger Einkehr", Karolingerallee; Mitteilung vom 04.04.2007 3.5.6.2.1 SSW "Giesinger Garten, Gerhardstraße; Mitteilung vom 04.04.2007 3.5.6.2.3 SSW "Café Restaurant Horoskop", Hans-Mielich-Straße; Mitteilung vom 19.04.2007
+- TOP 1.3.: Unterrichtungen durch das Sozialreferat - Amt für Wohnen und Migration im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum 3.5.6.3.1 Anwesen in der Heigelstraße; Unterrichtung vom 03.04.2007
+- TOP 1.4.: Wohnen in München III a) Erfahrungsbericht für das Jahr 2006 b) Ergänzungen des Erfahrungsberichts c) Aufträge zu Förderungsprogrammen aus "Wohnen in München IV" d) Integration der bisher zweijährigen Programmbeschlüsse zum geförderten Wohnungsbau in den jährlichen Erfahrungsbericht; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.04.2007; Sitzungsvorlage Nr.02-08/V09836
+- TOP 1.5.: Bebauungsplan mit Grünordnung Nr. 1979; Tegernseer Landstraße (nordöstlich), Spixstraße (südöstlich), Perlacher Straße (südlich), Untersbergstraße (westlich) und Weißenseestraße (nordöstlich) (sog. AGFA-Gelände) im Sanierungsgebiet "Tegernseer Landstraße / Chiemgaustraße" - Umstrukturierung des AGFA-Geländes; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.04.2007; Sitzungsvorlage Nr.02-08/V09801
+- TOP 1.6.: Sanierungsgebiet "Tegernseer Landstraße / Chiemgaustraße", Wegenetz im Sanierungsgebiet; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.04.2007; Sitzungsvorlage Nr.02-08/V09738
+- TOP 1.7.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006, Ergebnisse der fachanwaltlichen Prüfung; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.04.2007; Sitzungsvorlage Nr.02-08/V09840
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Kultur im Stadtquartier, Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen, Evaluierung kultureller Zentren, Kulturelle Zentren und Stadtteilwochen, Gesamtkonzept für die stadtteilkulturellen Einrichtungen; Schreiben des Kulturreferates vom 12.04.2007 mit der Bitte um Stellungnahme bis 29.05.2007 zum Beschlussentwurf für den Kulturausschuss des Stadtrates
+- TOP 1.2.: ]18.jetzt[ - Fest junger Erwachsener im Rathaus am 20.10.2007; Schreiben des Direktoriums-Protokollabteilung mit der Bitte um Rückmeldung bei Interesse an der Teilnahme
+- TOP 1.3.: Anhörung durch das Kreisverwaltungsreferat vom 30.04.2007 zu einer beantragten Veranstaltung auf öffentlichem Verkehrsgrund: Pfarrfest des Kath. Pfarramts St. Franziskus am 08.07.2007 in der Arminiusstraße
+- TOP 1.1.: 850. Stadtgeburtstag; Protokoll des 4.Treffens der Bezirksausschussvertreter vom 18.04.2007
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Mehrjahresinvestitionsprogramm für die Jahre 2007 - 2011; Unterrichtung durch die Stadtkämmerei vom 27.04.2007; Beschlus der Vollversammlung des Stadtrats vom 09.05.2007; Sitzungsvorlage Nr. 02-08/V09932
+- TOP 4.2.: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse; Antrag des BA 15 - Trudering-Riem - vom 26.04.2007 mit der Bitte um Kenntnisnahme
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
