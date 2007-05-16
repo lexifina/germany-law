@@ -1,0 +1,100 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2007-05-16T16:30:00+02:00
+- Ende: 2007-05-16T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=959
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=959
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Mündliche Fragestunde - erledigt
+- TOP 3.1: Was macht das Bezirksamt für den Träger der "Leibniz-Schule" und die vielen interessierten Eltern? - beantwortet
+- TOP 3.2: Ende der Rehwiese als Erholungsgebiet? - beantwortet
+- TOP 3.3: Konfliktlösung in der Rudolf-Steiner-Schule - beantwortet
+- TOP 3.4: Private Gartenabfälle in geschützten Grünanlagen - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Feststellungen - erledigt
+- TOP 4.1.1: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen - erledigt
+- TOP 4.2.1: Wahl einer stellvertretenden Bürgerdeputierten - gewählt
+- TOP 4.2.2: Wahl einer stellvertretenden Bürgerdeputierten nach § 9 Abs. 2 BezVG - gewählt
+- TOP 4.3: Haushaltsangelegenheiten - erledigt
+- TOP 4.3.1: BVV-Beschluss Nr. 87 vom 21.03.2007: Maßnahmen zur Energieeinsparung. Mittelverwendung bei Kapitel 4211 Titel 541 02 (Drs. Nr. 0099/III) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 4.3.2: Budgeteckwerte der Abteilungen für das Haushaltsjahr 2007 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 4.3.3: Umsetzung der Budgeteckwerte der Abteilungen für das Haushaltsjahr 2007 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 4.3.4: Sondermittel der BVV für die Max von Laue Oberschule - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.5: Sondermittel der BVV für den Männergesangsverein Zehlendorf 1873 e. V. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.6: Sondermittel der BVV für den Tennisklub Blau-Gold Steglitz e. V. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.7: Sondermittel der BVV für den Zehlendorfer Turn- und Sportverein von 1888 e. V. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.2: Karstadt-Warenhaus in der Schloßstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.5: Ausschussanträge - erledigt
+- TOP 4.5.1: Gültigkeit der Geschäftsordnung der BVV Steglitz-Zehlendorf - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Ausweisungen von Laufstrecken im Bezirk - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Direkte Demokratie stärken statt Volksbegehren behindern! - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.6.3: Infoblatt Einwohnerfragestunde - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.6.4: Hinweis auf die Öffnungszeiten für die Stadtbibliothek - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.6.5: Keine Baustoffe aus Kinderarbeit - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.6.6: Keine Einzugsbereiche für die beiden Gebundenen Ganztagsgrundschulen! - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.6.7: Bessere Transparenz der Schulreinigung durch Erstellung und Veröffentlichung von Schulreinigungsplänen! - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.6.8: Mehr Transparenz an den weiterführenden Schulen durch Veröffentlichung der Ergebnisse des "Mittleren Schulabschlusses" und des "Zentralabiturs"! - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - - erledigt
+- TOP 5.1: Dringlichkeitsanträge - erledigt
+- TOP 5.1.1: Endlich angemessene Miete erzielen! - überwiesen
+- TOP 5.2: Bebauungspläne - erledigt
+- TOP 5.2.1: Bebauungsplan X-122-2 (Nahversorgungszentrum Schlachtensee) - überwiesen
+- TOP 5.3: Anträge - erledigt
+- TOP 5.3.1: Sparpotentiale der Hauptverwaltung aus Sicht der Bezirksverwaltung - überwiesen
+- TOP 5.3.2: Entwurf einer Geschäftsordnung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin - überwiesen
+- TOP 5.3.3: Neue Geschäftsordnung für die BVV Steglitz-Zehlendorf - überwiesen
+- TOP 5.3.4: Baumfällungen in Kleingärten - überwiesen
+- TOP 5.3.5: Unterstützung der Ludwig-Bechstein-Grundschule beim Aufbau einer Schulbibliothek - überwiesen
+- TOP 5.3.6: Winterdienst für die Fußgängertreppe an der Sundgauer Brücke - überwiesen
+- TOP 5.3.7: Personalentwicklung - überwiesen
+- TOP 5.3.8: Diensträder für Mitarbeiter des Ordnungsamtes - überwiesen
+- TOP 5.3.9: Keine "Zwangsfusionen" von Haupt- und Realschulen in Steglitz-Zehlendorf - überwiesen
+- TOP 5.3.10: Hinweisschilder zur Entstehung von Straßennamen in Dahlem - überwiesen
+- TOP 5.3.11: Nachtbus wieder nach Südende - überwiesen
+- TOP 5.3.12: Ursachenforschung Rehwiese - überwiesen
+- TOP 5.3.13: Erhalt und Ausbau der musikbetonten Grundschulen - überwiesen
+- TOP 5.3.14: Kinder in Angst brauchen Schutz - überwiesen
+- TOP 5.3.15: Treppenabgänge und Fußwege am S-Bahnhof Sundgauer Straße sanieren - überwiesen
+- TOP 5.3.16: Sicheres Radfahren an der Einmündung Machnower Straße/Teltower Damm - überwiesen
+- TOP 5.3.17: Unterstützung des Vereins "Musikus e.V." - überwiesen
+- TOP 5.3.18: "Brötchentaste" - überwiesen
+- TOP 5.3.19: Sachmittel für die Runden Tische - überwiesen
+- TOP 5.3.20: Räume für die sozialpädagogische Musikgruppenarbeit des Vereins "Musikus e.V." - überwiesen
+- TOP 5.3.21: "Einseitiges Gehwegparken" in der Störstraße - überwiesen
+- TOP 5.3.22: Mehr Übungsräume für die Musikschule - überwiesen
+- TOP 5.3.23: Konzept für die Ausschreibung eines "Mini-Stipendiums" zu Themen aus der NS-Zeit - überwiesen
+- TOP 5.3.24: Rehwiese - eine Kloake? - überwiesen
+- TOP 5.3.25: Ampeln für Sehbehinderte und Blinde umrüsten - überwiesen
+- TOP 5.3.26: Rehwiesen-Einzäunung - überwiesen
+- TOP 5.3.27: Aktivitäten an Schulen des Bezirks zum Thema Nationalsozialismus und Antisemitismus - überwiesen
+- TOP 5.3.28: Rehwiese I - überwiesen
+- TOP 5.3.29: Fortbildungsveranstaltung zum Berliner Antisemitismusstreit - überwiesen
+- TOP 5.3.30: Rehwiese II - überwiesen
+- TOP 5.3.31: Büroräume für Seniorenangelegenheiten - überwiesen
+- TOP 5.3.32: Schulstationen sichern! - überwiesen
+- TOP 6: Aus der 8. BVV vom 18.04.2007 vertagte Drucksachen - erledigt
+- TOP 6.1: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Gymnasium Steglitz - überwiesen
+- TOP 6.1.2: Erhalt der Ladenstraße im U-Bhf. Onkel Toms Hütte - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.1.3: Einführung von "Business Improvement Districts" (BIDs) - überwiesen
+- TOP 7: Anfragen - erledigt
+- TOP 7.1: Umzug aus dem "Steglitzer Kreisel" - beantwortet
+- TOP 7.2: Warum hatte das Jugendamt kein Interesse an einer schnellen Lösung und Aufarbeitung der Konflikte in der Jugendfreizeiteinrichtung Schottenburg und an einer ehrlichen Berichterstattung in der BVV? - beantwortet
+- TOP 7.3: Endlich Jugendschutz in Steglitz-Zehlendorf - beantwortet
+- TOP 7.4: Maßregelvollzug in Lankwitz - Teil 4 - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Clemens-Brentano-Schule - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9: Schlußwort des BVVorstehers - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
