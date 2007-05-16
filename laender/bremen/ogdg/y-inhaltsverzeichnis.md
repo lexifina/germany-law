@@ -19,6 +19,7 @@ Teil 4 Gesundheitsförderung, Gesundheitshilfe, Gesundheitsschutz
 Abschnitt 1 Gesundheitsförderung
 § 13 | Gesundheitsförderung
 § 14 | Kinder- und Jugendgesundheitspflege
+§ 14a | Früherkennungsuntersuchungen für Kinder
 § 15 | Humangenetik
 § 16 | Aufgaben des Öffentlichen Gesundheitsdienstes für ältere Menschen
 Abschnitt 2 Gesundheitshilfe
@@ -58,5 +59,6 @@ Teil 10 Übergangs- und Schlußvorschriften
 § 40 | Übergangsvorschrift
 § 41 | Änderung von Rechtsvorschriften
 § 42 | Rückkehr zum einheitlichen Verordnungsrang
+§ 42a | Evaluation
 § 43 | Aufhebung von Rechtsvorschriften
 § 44 | Inkrafttreten
