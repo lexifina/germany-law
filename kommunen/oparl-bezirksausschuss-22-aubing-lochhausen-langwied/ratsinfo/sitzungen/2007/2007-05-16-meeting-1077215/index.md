@@ -1,0 +1,101 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2007-05-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1077215
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1077215
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Vorschlag für Flächennutzungsplanänderung Allinger Straße
+- TOP 2.2.: Radweg südliche Bergsonstraße zwischen dem Verbindungsweg zur Noderstraße und dem Berufsbildungszentrum
+- TOP 2.3.: Unterbindung der Störungen durch Jugendliche im Bereich Giglweg, Ubostraße
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Briefkasten in Neuaubing
+- TOP 4.2.: Fußgängerüberweg Radolfzeller Str. / Aubinger Str.
+- TOP 4.3.: Aufhebung der Geschwindigkeitsbeschränkung von 30 km/h am Freihamer Weg
+- TOP 4.4.: Neubau einer Fußgängertreppe von der Bodensee- zur Borinskistraße
+- TOP 4.5.: Beleuchtung zwischen Reichenaustraße und Hochhaus "Ramses"
+- TOP 4.6.: Bekanntgabe der Ergebnisse der Probegrabungen und Gasmessungen auf dem Grundstück Kastelburg-/ Mariabrunner Straße
+- TOP 4.7.: Fußballplatz Freizeitgelände Wiesentfelser Straße
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: SG Aubing von 1873 e.V.
+- TOP 5.2.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Elternbeirat der GS Ravensburger Ring
+- TOP 5.3.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Burschenverein Aubing
+- TOP 5.4.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Kultur notiert e.V.
+- TOP 5.5.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 22 Aubing ? Lochhausen ? Langwied Widmung nachfolgender Straßengesamtstrecken im Gewerbegebiet Freiham (Nord- und Südteil) Nordteil: __________________ Südteil: Hans-Steinkohl-Straße _______Hans-Steinkohl-Straße Anton-Böck-Straße _________ Dietmar-Keese-Bogen Clarita-Bernhard-Straße _____ Ludwig-Koch-Straße Centa-Hafenbrädl-Straße ____ Jakob-Baumann-Straße Erwin-Hielscher-Straße______ Franz-Josef-Delonge-Straße _________________________Georg-Maurer-Straße _________________________Ludwig-Schmid-Straße
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: Bebauungsplan mit Grünordnung Nr. 1703, Schussenrieder Straße, Schubinweg, Amelbrechtweg; Erschließung der neuen Baugrundstücke (vertagt aus 04/07)
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest der Bürgerinitiative EIWOBAU in der Kastelburgstr. am 07.07.07
+- TOP 6.4.: Kultur im Stadtquartier
+- TOP 6.5.: Grundsatzbeschluss gymnasiale Versorgung in München
+- TOP 6.6.: Bebauungsplan mit Grünordnung, BAB A8 (südwestlich) zwischen Bergsonstr. und Breiter Weg, BAB A8 (nordöstlich) zwischen Breiter Weg und Lochhausener Str., Goteboldstr. zwischen Lochhausener Str. und südlicher Grundstücksgrenze Fl.Nr. 1121/5 (Auenbruggerstr. 115) zwischen dem östlichen Straßenrand bis 15 m östlich davon, Goteboldstr. zwischen südlicher Grundstücksgrenze Fl.Nr. 1121/5 (Auenbruggerstr. 115) und Müllerstadelstr. zwischen dem südwestlichen Straßenrand bis 15 m südwestlich davon, Müllerstadelstr. zwischen Goteboldstr. und Paul-Ehrlich-Weg zwischen dem nordwestlichen Straßenrand bis 15 m nordwestlich davon, Paul-Ehrlich-Weg zwischen Müllerstadelstr. und der Anrampung der Autobahnbrücke zwischen dem südlichen Straßenrand bis 15 m südlich davon; Aufstellungsbeschluss
+- TOP 6.7.: 2. S-Bahn-Stammstrecke München, Planfeststellung nach § 18 AEG
+- TOP 6.8.: Antrag auf Durchführung eines Feuerwerkes am 22.06.07 auf der Freifläche zwischen Anton-Böck-Str. und Hans-Steinkohl-Straße
+- TOP 6.9.: Veranstaltung auf Privatgrund, hier: Feier zum 10-jährigen Bestehen des Vereins Helfende Hände e.V. Reichenaustr. am 21.07.07
+- TOP 6.10.: Anbindung des Ortsteils Langwied an den öffentlichen Personennahverkehr
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Budget der BA´s; Antrag der cba für Kauf eines Lkw´s, Schr. cba vom 29.03.07
+- TOP 7.2.: Baumaßnahmen der Stadtwerke München GmbH, Stichtag: 16.04.07, 23.04.07, 30.04.07, 07.05.07
+- TOP 7.3.: Baufälle im 22. Stadtbezirk (v. 09.-15.04.07, v. 16.-22.04.07, v. 23.-29.04.07, v. 30.04.-06.05.07), Schr. Planungsreferat vom 16.04.07, 23.04.07, 30.04.07, 07.05.07
+- TOP 7.4.: Zweckentfremdung von Wohnraum, Im Stocket 38, Schr. Sozialreferat vom 12.04.07
+- TOP 7.5.: Zweckentfremdung von Wohnraum, Am Langwieder Bach 101, Schr. Sozialreferat vom 16.04.07
+- TOP 7.6.: Städt. Kindertageseinrichtung Rieneckerstr .21, Schr. Schul- und Kultusreferat vom 18.04.07 und 26.04.07
+- TOP 7.7.: Leistungsprogramm 2008 der MVG (Fahrplanwechsel Dezember 2007), Schr. MVG vom 19.04.07
+- TOP 7.8.: Wirtschafts-Info 04/07, Schr. Ref. f. Arbeit u. Wirtschaft vom 27.04.07
+- TOP 7.9.: Baumaßnahmen der Stadtwerke München, Stromprojekt Bodenseestraße, Schr. SWM vom 03.05.07
+- TOP 7.10.: Änderung der Gemeindeordnung, Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die BA´s zur Entscheidung, Schr. Direktorium vom 02.05.07
+- TOP 7.11.: Ausstattung der Sickerbecken der BAB A 99 mit Rettungsringen, Schr. Baureferat vom 04.05.07 zum BA-Antrag Nr. 2024 vom 18.04.07
+- TOP 7.12.: Kastelburgstraße; Ehem. Chemische Fabrik Aubing Dr. Bloch, Flstr. 1611/126, Bodenverunreinigungen, Schr. Ref. f. Gesundheit u. Umwelt vom 04.05.07
+- TOP 7.13.: Verkehrsrechtliche Anordnung, Haltverbot Plankenfelser Straße, Schr. KVR vom 29.03.07
+- TOP 7.14.: Baugenehmigung für Errichtung einer Werbeanlage, Henschelstr. 3, Schr. Planungsreferat vom 03.05.07
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Vernetzung von Kindergärten, Horten, Schulen und anderen Institutionen, Schr. Sozialreferat vom 04.04.07 zum BA-Antrag Nr. 1640 vom 22.11.06 (vertagt aus 04/07)
+- TOP 8.2.: Freigabe des Fußweges auf der Altostraße, östliche Seite, zwischen Grabenfleckstraße und der Kreuzung der A 99 für Radfahrer in beiden Richtungen, Schr. KVR vom 04.04.07 zum BA-Antrag Nr. 1529 vom 18.10.2006 (vertagt aus 04/07)
+- TOP 8.3.: Wegeführung des Radlweges Altostraße, Schr. Baureferat vom 12.04.07 zum BA-Antrag Nr. 1636 vom 22.11.06
+- TOP 8.4.: Gehweg an der Bienenheimstraße / Parkplatz an der Sportanlage, Schr. Baureferat vom 13.04.07 zum BA-Antrag Nr. 1780 vom 17.01.07
+- TOP 8.5.: Entschärfung der Verkehrssituation an der Kreuzung Bodensee-/ Hans-Steinkohl-Straße, Schr. KVR vom 30.04.07 zum BA-Antrag Nr. 1865 vom 22.02.07
+- TOP 8.6.: Einrichtung einer weiteren Zufahrt für das Feuerwehrgerätehaus an der Ubostraße für die Freiwillige Feuerwehr, Abt. Aubing, Schr. KVR vom 18.04.07 zum BA-Antrag Nr. 1729 vom 20.12.06
+- TOP 8.7.: Herstellung eines Gehweges im südlichen Zugangsbereich am Freihamer Weg, Schr. Baureferat vom 03.05.07 zum BA-Antrag Nr. 1953 vom 21.03.07
+- TOP 8.8.: Sanierung der Anliegerstraße Überlinger Weg, Schr. Baureferat vom 02.05.07 zum BA-Antrag Nr. 1732 vom 20.12.06
+- TOP 8.9.: Herstellung der Fußgänger- und Radlverbindung zwischen Überlinger Weg und der Thuisbrunner Straße, Schr. Baureferat vom 02.05.07 zum BA-Antrag Nr. 1857 vom 22.02.07
+- TOP 8.10.: Verlängerung des Gehweges am Schubinweg, Schr. Baureferat vom 07.05.07 zum BA-Antrag Nr. 1859 vom 22.02.07
+- TOP 8.11.: Ausweisung der Straßenbegrenzungslinie in der Kronwinkler Straße zwischen Kastelburg- und Bergsonstraße in der erforderlichen Breite, Schr. Planungsreferat vom 08.05.07 zum BA-Antrag Nr. 1957 vom 21.03.07
+- TOP 8.12.: Darstellung der nächsten konkreten Arbeits- und Planungsschritte für die Errichtung einer weiteren Kinderkrippe im 22. Stadtbezirk, Schr. Sozialreferat vom 10.05.07 zum BA-Antrag Nr. 1779 vom 17.01.07
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Bauausschuss vom 26.04.07 - Errichtung der Radwege-Verbindungen zur Langwieder Seenplatte - Naherholungsgebiet "Langwieder Seen", Fuß- und Radwegerschließung, Route 2 (Paul-Ehrlich-Weg - Müllerstadelstraße)
+- TOP 9.2.: Bauausschuss vom 27.03.07 - Bebauungsplan mit Grünordnung Nr. 1907 Bodenseestr. (südlich), Bahnlinie München - Herrsching (südlich), Bahnlinie München - Mittenwald (westlich), Paosostr. (nördlich) - Gleisdreieck Pasing - Aktion saubere Stadt, Öffentlichkeitskampagne und Maßnahmenkonzept
+- TOP 9.3.: Ausschuss für Stadtplanung und Bauordnung vom 25.04.07 - Wohnen in München, III - Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogrammes Bayern 2006, Ergebnisse der fachanwaltlichen Prüfung
+- TOP 9.4.: Ausschuss für Stadtplanung und Bauordnung vom 21.03.07 - Schutz der Münchner Vorgärten
+- TOP 9.5.: Kinder- und Jugendhilfeausschuss vom 24.04.07 - Abriss und Neubau des Kinderhauses am Westkreuz, Aubinger Straße 59, Träger: Spiellandschaft Stadt e.V.
+- TOP 9.6.: Umweltschutzausschuss vom 15.05.07 - Förmliches Genehmigungsverfahren mit Umweltverträglichkeitsprüfung für die Errichtung und den Betrieb einer Bodenbehandlungsanlage mit Erdenbörse und Erdenwerk durch das Konsortium Bilfinger/Berger-Schernthaner GmbH am Standort Goteboldstr. 100, Ablehnung des Genehmigungsantrages durch das Referat für Gesundheit und Umwelt - Mehrjahresinvestitionsprogramm für die Jahre 2007-2011
+- TOP 9.7.: Vollversammlung vom 09.05.07 - Mehrjahresinvestitionsprogramm für die Jahre 2007-2011
+- TOP 9.8.: Umweltschutzausschuss vom 24.04.07 - Lärmsanierung an bestehenden Schienenwegen des Bundes
+- TOP 9.9.: Sozialausschuss vom 10.05.07 - Entwurf des MIP für die Jahre 2007-2011, Einzelplan 4/ Sozialbereich
+- TOP 9.10.: Ausschuss für Stadtplanung und Bauordnung vom 16.05.07 - Bebauungsplan mit Grünordnung Nr. 2005 Industriestr. (zwischen Bergson- und Lidelstr.), Bergsonstr. (östlich Industriestr.), Huisler-, Hohenrechbergstr. und Mariabrunner Str. (zwischen Bergson- und Huislerstr. sowie nördlich Kastelburgstr.) - Bebauungsplan mit Grünordnung Nr. 1767 Rienecker, Limes-, Rothenbühler, Rothenfelser Str., Schulsportanlage, Weißensteinstr. - MIP für die Jahre 2007-2011 - Festsetzung der Reihenfolger großer Siedlungsmaßnahmen für die Jahre 2007-2011
+- TOP 9.11.: Kinder- und Jugendhilfeausschuss vom 15.05.07 - Entwurf des MIP 2007-2011, Einzelplan 4 / Jugendamtsbereich
+- TOP 9.12.: Schulausschuss vom 16.05.07 - Mehrjahresinvestitionsprogramm 2007-2011
+- TOP 9.13.: Verwaltungs- und Personalausschuss vom 02.05.07 - Phantomanträge im Bezirksausschuss 6
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Nutzung der Stadtteilkulturzentren durch die örtlichen BA´s (Antrag BA 15 vom 26.04.07)
+- TOP 10.2.: Ankündigung der Bürgerversammlung Pasing vom 03.05.07 in der Rathaus Umschau, Schr. BA 21 vom 02.05.07)
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 20.06.2007, Gaststätte "Wienerwald", Limesstr. 63
