@@ -1,0 +1,79 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2007-05-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1039308
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1039308
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Berichte der Polizei
+- TOP 3.1.: Fußballtore für den Bolzplatz auf der Nordheide (BA-Antrags-Nr. 02-08/B01998 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 21.03.2007) Antwortschreiben des Baureferates
+- TOP 3.2.: Instandsetzung der Schleißheimer Straße einschließlich des Mittelteilers zwischen Rathenau- und Neuherbergstraße (BA-Antrags-Nr. 02-08/B01832 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 14.02.2007) Antwortschreiben des Baureferates
+- TOP 3.3.: Gestaltung des "Heideplatzes" auf der Nordheide am Westende der Diagonale und Gestaltung des Nord-West-Endplatzes der Diagonale im Neubaugebiet Nordheide West (BA-Antrags-Nrn. 02-08/B1830 und 02-08/B01831 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 14.02.2007) Antwortschreiben des Baureferates
+- TOP 3.4.: 18.jetzt - Fest junger Erwachsener im Rathaus am 20.10.2007
+- TOP 3.5.: Münchner Sommer Spiel Aktion 2007
+- TOP 3.1.: Spielplatz Bremer- / Hamburger Straße, Schreiben des Baureferates
+- TOP 3.2.: Rad- und Fußwegeverbindung Bremer- / Hamburger Straße, Schreiben des Baureferates
+- TOP 3.1.: Ankündigung Angerfest am 30.06.2007, Schreiben des Offenen Kindertreffs
+- TOP 3.1.: Baumaßnahmen der SWM , Fernwärmeprojekt Sandbienenweg, Infoschreiben der SWM
+- TOP 3.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: AG Buhlstraße Spiel- und Begegnungszentrum Am Hart, Rafting-Tour für benachteiligte Jugendliche
+- TOP 6.2.: AG Buhlstraße Spiel- und Begegnungszentrum Am Hart, Mobiles Spiel- und Sportangebot von März bis Dezember 2007
+- TOP 6.3.: Lebensraum Dankeskirche, Kauf eines Dienstautos
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 1: (E) Parkverbot für Lkw ab 2,5 t in der Siedlung an der Nordheide Ost (Ziffer 1) Empfehlung Nr. 02-08 / E 00456 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart am 29.06.2006
+- TOP 2: (E) Straßenbenennung im 11. Stadtbezirk Milbertshofen-Am Hart Antrag auf Benennung der neuen Brücke über die Lerchenauer Straße "Am Olympiapark" BA-Antrag Nr. 02-08 / B 02064 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen-Am Hart vom 14.02.2007
+- TOP 7.: Anträge
+- TOP 2.1.: Städtebauliche Entwicklungsmaßnahme Nordheide - ausbau der Diagonale, speziell die Höhe der vorgesehenen Hecken (Bewohnergemeinschaft Nordheide e.V.) (vertagt aus der Sitzung am 18.04.2007)
+- TOP 2.1.: Gestaltung des Keferloher Platzes (neu Curt-Mezger-Platz) (Peter Orthmann)
+- TOP 2.2.: Verbesserung der Verkehrssituation an der Einmündung Sandbienenweg (provisorisch) in die Schleißheimer Straße (Bewohnergemeinschaft Nordheide e.V.) (vertagt aus der Sitzung am 14.02.2007)
+- TOP 2.3.: Verkehrssituation im Bereich Wegenerstr. 8-12 (Peter Titze) (vertagt aus den Sitzungen am 14.02.2007 / 21.03.2007)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Vollzug des Bundes-Immissionsschutzgesetzes und der Störfallverordnung Schleißheimer Straße / Max-Diamand-Straße, BMW AG, Werk 1.5 FIZ Antrag auf Errichtung und Betrieb eines Energietechnischen Versuchszentrums (EVZ)
+- TOP 8.1.: Kultur im Stadtquartier (Beschlussentwurf für den Kulturausschuss am 14.06.2007)
+- TOP 8.2.: Realisierung einer dreigruppigen Kinderkrippe Bertholdstraße (Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 26.06.2007)
+- TOP 8.1.: Leistungsprogramm 2008 der MVG (Fahrplanwechsel Dezember 2007)
+- TOP 8.3.: Veranstaltung der freiwilligen Feuerwehr "Munich Fire Games 2007" am 16.06.2007 im Olympiapark und auf dem Olympiaberg
+- TOP 8.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes - nicht öffentlich -
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.1.: Wohnen in München III (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.04.2007)
+- TOP 9.2.: Lärmsanierung an bestehenden Schienenwegen des Bundes (Beschlus des Umweltausschusses vom 24.04.2007)
+- TOP 9.4.: Münchner IT - Zentrum der BMW AG (Beschluss des Bauausschusses vom 26.04.2007)
+- TOP 9.5.: Instandsetzung der Überführung der Dachauer Straße über den Nymphenburg-Biederstein-Kanal (Beschluss des Bauausschusses vom 26.04.2007)
+- TOP 9.6.: Parkraummanagement in München - Festlegung der 2. Priorität (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.04.2007)
+- TOP 9.7.: Rechtschutzmöglichkeiten der Landeshauptstadt München gegn einzelne Ziele des Landesentwicklungsprogramms Bayern 2006, Ergebnisse der fachanwaltlichen Prüfung (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.04.2007)
+- TOP 9.8.: Mobilfunkanlagen, Baubeginnssanzeige - nicht öffentlich -
+- TOP 9.9.: Baumaßnahme Milbertshofener Straße, Anliegerinformation
+- TOP 9.10.: Vollzug der Baumschutzverordnung, Fällungsanträge
+- TOP 9.11.: Baumaßnahmen der Stadtwerke München
+- TOP 9.12.: Meldelisten Bauvorhaben
+- TOP 9.1.: Investitionskostenförderung gem. Art. 27 BayKiBiG, Kinderkrippe Keferloherstr. 49, Umbau bestehender Räume (Beschluss des Kinder- und Jugendhilfeausschusses vom 15.05.2007)
+- TOP 9.2.: Perspektive München, Leitlinie Kinder- und Familienpolitik (Beschluss des Kinder- und Jugendhilfeausschusses vom 24.04.2007)
+- TOP 9.3.: Daten Kinderkrippen April 2007
+- TOP 9.4.: REGSAM, Infoschreiben
+- TOP 9.5.: REGSAM, Jahresbericht 2006
+- TOP 9.6.: BAs und Stadtteilkulturzentren, Schreiben des BA 15 Trudering - Riem
+- TOP 9.7.: Unveränderte Fortführung von Gaststättenbetrieben: a) SSW "Theater-Platz`l - Wirtshaus am Hart", Sudetendeutschestr. 40 b) SSW "Paschas Bistro", Ingolstädter Str. 1
+- TOP 9.1.: Stadt-Triathlon am 27.05.2007, Information des KVR
+- TOP 9.2.: Veranstaltungen auf öffentlichem Verkehrsgrund, Erlaubnisbescheide
+- TOP 9.3.: Verkehrsrechtliche Anordnung nach §45 Abs.3 StVO
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
