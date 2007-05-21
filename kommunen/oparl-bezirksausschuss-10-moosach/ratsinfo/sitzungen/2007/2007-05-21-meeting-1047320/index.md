@@ -1,0 +1,75 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2007-05-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1047320
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1047320
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Sauberkeit im Bereich Jakob-Hagenbucher-Straße - <div>Abfallbehälter beantragen</div>
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: 1200-Jahr-Feier: Nächste Veranstaltungen
+- TOP 3.2.: Wohnen im Alter
+- TOP 3.3.: Treffen mit Jugendlichen im Bewohnertreff Lauinger Str. 23
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Mehr Sauberkeit rund um den Moosacher Bahnhof - <div>nach Antrag</div>
+- TOP 4.2.: Sozialberatung Wohngebiet Lauinger- / Dillinger Straße - <div>nach Antrag</div>
+- TOP 4.3.: Entschärfung der gefährlichen Radwegkreuzung Jakob/Hagenbucher-Str. / Liegnitzer Straße
+- TOP 4.4.: Zusatzfinanzierung für den Straßenunterhalt
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10; Kultur notiert e.V.: Druck einer stadtweiten Zeitung
+- TOP 5.2.: Zuschuss aus dem Budget des BA 10; AWO Moosach-Hartmannshofen: Seniorennachmittag am 28.04.07
+- TOP 3: (E) Anbringung von Straßenmarkierungen im Bereich der Bahnunterführung Schragenhofstraße / Reinoltstraße sowie Rückschnitt der Hecke (Ziffer 2) Empfehlung Nr. 02-08 / E 00554 der Bürgerversammlung des Stadtbezirkes 10 Moosach am 19.10.2006
+- TOP 6.: Anhörungen
+- TOP 6.1.: 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Allgemeines Eisenbahngesetz a) Sach- und Verfahrensstand; ergänzende Informationen b) Weiteres Vorgehen c) Anträge und Empfehlungen
+- TOP 6.2.: Leistungsprogramm 2008 der MVG (Fahrplanwechsel Dezember 2007)
+- TOP 6.3.: Umbau der Bushaltestelle Ohlauer Straße
+- TOP 6.4.: Straßenfest in der Dillinger Straße am 29.06.07
+- TOP 6.5.: Kultur im Stadtquartier
+- TOP 6.6.: Planung Schwimmbadwiese östlich des MTZ
+- TOP 6.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8.: Tausch einer städtischen Immobilie
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Geschwindigkeitskontrollen in der Ehrenbreitsteiner Straße (Beanstandungsrate nur leicht über dem Durchschnitt)
+- TOP 7.2.: Aufstellung von Hundepollern sowie von Spendern für Hundekottüten in der Grünanlage Ohlauer Straße (werden aufgestellt)
+- TOP 7.3.: Ausfahrtsschild an der Ostseite des OEZ (Beleuchtung kann nicht abgeschaltet werden); Briefmarkenautomat im OEZ (OEZ ist seit längerem bemührt)
+- TOP 7.4.: Erhalt der Baumschutzverordnung (Ministerrat hat von der Abschaffung Abstand genommen)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Genehmigung Blade Night 2007
+- TOP 8.2.: Ankündigungen von Bürgerversammlungen in der Rathaus-Umschau (Schreiben des BA 21 Pasing-Obermenzing)
+- TOP 8.3.: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse (Antrag des BA 15 Trudering-Riem)
+- TOP 8.4.: Fest auf dem Moosacher St. Martins-Platz am 03.06.07
+- TOP 8.5.: Meldeliste Bauvorhaben
+- TOP 8.6.: Baumaßnahmen der Stadtwerke München
+- TOP 8.7.: Pächterwechsel 1. "Ay Yildiz", Feldmochinger Str. 8 2. "Gino", Hanauer Str. 68
+- TOP 8.8.: Fällungsgenehmigung Emmy-Noether Str. 2
+- TOP 8.9.: Parkraummanagement in München - Festlegung der 2. Priorität
+- TOP 8.10.: REGSAM-Jahresbericht 2006
+- TOP 8.11.: Änderungen bei REGSAM
+- TOP 8.12.: Bescheid über die Anerkennung von Plätzen der Kindertageseinrichtung In den Kirschen 87
+- TOP 8.13.: Wohnen in München III
+- TOP 8.14.: Info-Flyer SWM Netzbaumaßnahmen
+- TOP 8.15.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006; Ergebnisse der fachanwaltlichen Prüfung
+- TOP 8.16.: Änderungsgenehmigung Fa. eiber & kunz
+- TOP 8.17.: Erweiterung Kindertageseinrichtung Dillinger Str. 15
+- TOP 8.18.: Beteiligungs- und Entscheidungsrechte der bezirksausschüsse bei Standortfragen und baumaßnahmen für Kindertagesstätten (Antwortschreiben des Direktoriums an den BA 3 Maxvorstadt)
+- TOP 8.19.: Instandsetzung der Überführung der Dachauer Straße über den Nymphenburger-Biedersteiner-Kanal
+- TOP 8.20.: Aufhebung der Radwegbenutzungspflicht in der Templestraße
+- TOP 8.21.: Mehrjahresinvestitionsprogramm für die Jahre 2007 bis 2011
+- TOP 8.22.: Verkehrsrechtliche Anordnung In den Kirschen "The Tent"
+- TOP 8.23.: Zweckentfremdung von Wohnraum
+- TOP 4: Anträge
