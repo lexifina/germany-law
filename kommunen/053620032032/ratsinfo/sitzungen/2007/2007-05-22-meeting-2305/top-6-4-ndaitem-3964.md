@@ -1,0 +1,9 @@
+# TOP 6.4: Anregung und Beschwerde nach § 24 GO NW hier: Verkehrsaufkommen Nordstraße, Kerpen-Sindorf
+
+- Sitzung: Ausschuss für Stadtplanung und Verkehr (20. Sitzung) (2007-05-22)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/3964
+- Beratung: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/consultation/13422
+- Beschluss (Datei): Beschlusstext (Anregung und Beschwerde nach § 24 GO NW
+hier: Verkehrsaufkommen Nordstraße, Kerpen-Sindorf ) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQESFLlqVwhGQt_AZ_ak0g_tW0lxVWYXY4n9jhyEZxkk/Beschlusstext_214.07_-oeffentlich-_Ausschuss_fuer_Stadtplanung_und_Verkehr_22.05.2007.pdf
