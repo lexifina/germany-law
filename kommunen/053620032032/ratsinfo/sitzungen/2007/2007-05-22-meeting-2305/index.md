@@ -1,0 +1,55 @@
+# Ausschuss für Stadtplanung und Verkehr (20. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2007-05-22T17:00:00+02:00
+- Ende: 2007-05-22T20:25:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWkKT9eMuDoMJqD1CCN7gLU
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/2305
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZl5A9P9PIk5UiXhBSa_Y7PfHc20m0lXoMptfWjzdoEw/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_22.05.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht der Verwaltung über die Ausführung von Beschlüssen/Aufträgen/Empfehlungen aus der Sitzung am 27.03.2007
+- TOP 2.: Umsiedlung Manheim
+- TOP 2.1: Umsiedlungsstandort Neu – Manheim hier: Festlegung der in die Bürgerbefragung zum Umsiedlungsstandort Manheim einzubringenden Suchräume
+- TOP 2.2: Niederschrift der 5.Sitzung des Bürgerbeirates Manheim -
+- TOP 2.3: Beteiligung des Bürgerbeirates Manheim an den Verträgen zur Umsiedlung Manheim hier: Antrag des Bürgerbeirates Manheim vom 29.04.2007
+- TOP 2.4: Umsiedlung Manheim; hier: Infrastruktur am Umsiedlungsort
+- TOP 3.: Anregung und Beschwerde gem. § 24 GO NW hier: Anforderung des dritten Rahmenbetriebsplans für den Tagebau Hambach
+- TOP 4.: Stadtentwicklung
+- TOP 4.1: Bericht des Arbeitskreises FuerKerpen.de
+- TOP 4.2: Sponsoring Marienfeld
+- TOP 4.3: Aufstellung eines Bebauungsplanes für das VEGLA-Gelände an der Hüttenstraße im Stadtteil Sindorf
+- TOP 4.4: Vinger Weg in unzumutbarem Zustand
+- TOP 4.5: Regenwassermulden Vogelrutherfeld, Kerpen-Sindorf
+- TOP 4.6: Nahversorgung im Vogelrutherfeld
+- TOP 4.7: Biomethangasanlage in Kerpen-Sindorf
+- TOP 5.: Bauleitplanung
+- TOP 5.1: 57. Änderung des Flächennutzungsplanes "Verlängerung der Karl-Ferdinand-Braun-Straße", Stadtteil Sindorf Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.2: Bebauungsplan SI 245/1. Änderung "Verlängerung der Karl-Ferdinand-Braun-Straße", Stadtteil Sindorf (Interkommunaler Bebauungsplan) hier: Aufstellungsbeschluss gem § 2 (1) BauGB
+- TOP 5.3: Bebauungsplan SI 323 "Ausbau der Hüttenstraße/K 39", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.4: Bebauungsplan HO 183/2.Änderung " Am Wahlenpfad ", Stadtteil Horrem hier: Satzungsbeschluss gem. § 10(1) BauGB
+- TOP 5.5: Vorhabenbezogener Bebauungsplan BU 324 "Gewerbegebiet Schlicksacker" im Stadtteil Kerpen-Buir hier: Einleitungsbeschluss des Bebauungsplanverfahrens gem. §12 BauGB
+- TOP 5.6: Bebauungsplan Brüsseler Straße, Stadtteil Kerpen
+- TOP 6.: Verkehrsplanung
+- TOP 6.1: Parkprobleme rund um die Kommandeursburg
+- TOP 6.2: Bushaltestelle Brüggen, Heerstraße hier: Antrag der SPD-Fraktion vom 02.02.2007
+- TOP 6.3: Verlängerung der K39n -Europaring- zur L 122 - Erfttalstraße und gleichzeitige Anbindung der Paul-Klee-Straße
+- TOP 6.4: Anregung und Beschwerde nach § 24 GO NW hier: Verkehrsaufkommen Nordstraße, Kerpen-Sindorf
+- TOP 6.5: Niederschrift über die 4. Sitzung des Arbeitskreises ÖPNV vom 03.05.2007
+- TOP 7.: Mitteilungen
+- TOP 8.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 8.1: Sachstand REWE-Markt im Stadtteil Türnich
+- TOP 8.2: Sachstand zum Fußgängertunnel am S-Bahnhof in Sindorf; hier: Beleuchtung, Verschmutzung, Fertigstellung Rampe und Entwässerung
+- TOP 9.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 10.: Städtebauliche Verträge
+- TOP 10.1: Vorhabenbezogener Bebauungsplan HO Nr. 290 B "Waldweg"; hier: a) Wechsel des Vorhabenträgers b) Abschluss des 1. Änderungsvertrages zum Durchführungsvertrag vom 26.11.2003
+- TOP 10.2: Vorhabenbezogener Bebauungsplan BU Nr. 324 "Gewerbegebiet Schlicksacker"; hier: Abschluss eines Verpflichtungsvertrages
+- TOP 11.: Mitteilungen
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
