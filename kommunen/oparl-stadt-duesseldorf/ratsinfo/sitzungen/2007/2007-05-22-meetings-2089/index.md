@@ -1,0 +1,52 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-05-22T15:00:00+02:00
+- Ende: 2007-05-22T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2089
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2089
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096643.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096643.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096643.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Genehmigung der Niederschriften
+- TOP 3: Anfragen und Anträge
+- TOP 4: Kita-Bedarfsplanung Flingern-Süd - zur Kenntnis genommen
+- TOP 5: Ausbau Betreuungsplätz Kita - zur Kenntnis genommen
+- TOP 6: Hotline Kinderschutz - zur Kenntnis genommen
+- TOP 7: Sozialbericht NRW 2007 - einstimmig beschlossen
+- TOP 8: Vereinbarkeit von Familie und Beruf - einstimmig beschlossen
+- TOP 9: Gütesiegel Familienzentren - einstimmig beschlossen
+- TOP 10: Elternbriefe - einstimmig beschlossen
+- TOP 11: Öffentliche Anerkennung
+- TOP 12: Anerkennung HELL-GA e.V. - einstimmig beschlossen
+- TOP 13: Organisation
+- TOP 14: Düsseldorfer Kinderschutzkonzept
+- TOP 15: Neustrukturierung des Bezirkssozialdienstes
+- TOP 16: Tageseinrichtungen für Kinder
+- TOP 17: Umsetzung Sprachstandsfeststellungen
+- TOP 18: Ausbau und Umbau
+- TOP 19: Zuschüsse für Investitionen an freie Träger - einstimmig beschlossen
+- TOP 20: üpl.Mittel für die Maßnahme der Fa. Henkel - einstimmig beschlossen
+- TOP 21: Förderung einer 5gruppigen Kita AWO - einstimmig beschlossen
+- TOP 22: Förderung Betriebskosten Kita Einbrungerstraße 60 - einstimmig beschlossen
+- TOP 23: Bildungsoffensive III - Modellregion Garath, Werst - zur Kenntnis genommen
+- TOP 24: Naturverständnis Kinder und Jugendliche - zur Kenntnis genommen
+- TOP 25: Bericht Einnahmesituation Kita-Beiträg - zur Kenntnis genommen
+- TOP 26: Jugendförderung
+- TOP 27: Investitionsk.Ev. Kirche u. Flingern mobil e.V. - einstimmig beschlossen
+- TOP 28: Bericht zum Düsseldorfer GirlsDay/Jungenaktionstag
+- TOP 29: Projekt Jugend, Kultur und Schule
+- TOP 30: Projekt "Jugend, Kultur und Schule"; Bericht über - einstimmig beschlossen
+- TOP 31: Soziale Dienste
+- TOP 32: Schuldenprävention an weiterführenden Schulen - zur Kenntnis genommen
+- TOP 33: Controlling
+- TOP 34: Controlling Tageseinrichtung für Kinder - zur Kenntnis genommen
+- TOP 35: Controllingbericht HzE - zur Kenntnis genommen
