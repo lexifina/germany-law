@@ -1,0 +1,77 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2007-05-23T17:10:00+02:00
+- Ende: 2007-05-23T21:15:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=375
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=375
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - erledigt
+- TOP 5.1: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Naturschutz und Grünflächen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 6.1: Berufung von Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Bebauungsplan 8-19a - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 8: Mündliche Anfragen - erledigt
+- TOP 8.1: Familien in verwahrlosten Wohnungen - beantwortet
+- TOP 8.2: Bezirkseigene Fahrzeuge - beantwortet
+- TOP 8.3: Schaden am Abwasserrohr in der Waßmannsdorfer Chaussee - beantwortet
+- TOP 8.4: Umzug - beantwortet
+- TOP 8.5: Wissmannstraße - in der BVV zurückgezogen
+- TOP 8.6: Zuwendungskürzungen bei Mobilitätshilfediensten - beantwortet
+- TOP 8.7: Baupreisindex - beantwortet
+- TOP 8.8: Kitakombinat: Defizitäres Gebilde - beantwortet
+- TOP 8.9: Beleuchtungsaktion am S-Bahnhof Neukölln - schriftlich beantwortet
+- TOP 8.10: Änderung der Tagesgroßpflegestellen - schriftlich beantwortet
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Verkehrsführung Michael-Bohnen-Ring - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Schulen managen - in Personal investieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Nächtliches Durchfahrverbot für Lastkraftwagen in der Johannisthaler Chaussee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Verkehrsüberwachung im südwestlichen Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Verkehrskonzept südwestliches Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Überbrückungshilfe für Gewerbetreibende - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Psychosoziale Beratung - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: NGA - Datenbank komplettieren - GRIS umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Ökologisch bauen in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Bebauungsplan XIV-157e vom 22.08.2006 mit dem Deckblatt vom 24.11.2006 - Töpchiner Dreieck - - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Baumfällungen am Teltow- und Landwehrkanal - beantwortet
+- TOP 10.2: Anrechnung des Partnereinkommens beim Arbeitslosengeld II - Anzahl der Betroffenen in Neukölln - beantwortet
+- TOP 10.3: Dorfgespräch im Geheimen? - beantwortet
+- TOP 10.4: Schuldistanz oder Schulschwänzer - beantwortet
+- TOP 10.5: Kahlschlag bei Hilfe zur Erziehung? - beantwortet
+- TOP 10.6: Umweltzone zügig umsetzen - beantwortet
+- TOP 11: Große Anfragen - schriftlich - erledigt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Baumfällungen am Teltow- und Landwehrkanal - in der BVV zurückgezogen
+- TOP 12.2: Interkulturelles Begegnungs- und Mehrgenerationenhaus - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Neues Konzept für ehemaligen Wal-Mart-Parkplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Radwege in Neukölln - Touristische Attraktivität des Bezirkes stärken! - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Verkehrsberuhigung im Ehrenpreisweg - überwiesen
+- TOP 12.6: Grünverbindung sicher über Blaschkoallee führen - überwiesen
+- TOP 12.7: Schule muss über sozialistische Diktatur nachhaltig informieren! - überwiesen
+- TOP 12.8: Vom Kraftwerk zum Wohngebiet - überwiesen
+- TOP 12.9: Raser im Benatzkyweg?! - überwiesen
+- TOP 12.10: HIV-positiv und Grundsicherung - überwiesen
+- TOP 12.11: Handwerk nicht im Innenstadtring ausschließen - überwiesen
+- TOP 12.12: Serviceangebot der Bibliothek ausbauen - überwiesen
+- TOP 12.13: Anzahl der Feuerwehrfahrzeuge nicht verringern - überwiesen
+- TOP 12.14: Vernachlässigungen erkennen - Lehrer unterstützen - überwiesen
+- TOP 12.15: Kein zentrales Facility-Management für ganz Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Generationsübergreifendes Wohnen - überwiesen
+- TOP 12.17: Medienkompetenz für Eltern - überwiesen
+- TOP 12.18: Effektives Tempolimit in der Reuterstraße - überwiesen
+- TOP 12.19: Ausbildung im Wirtschaftshof - überwiesen
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: Gemeinschaftsschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - erledigt
