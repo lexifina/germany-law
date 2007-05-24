@@ -1,0 +1,84 @@
+# 8. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2007-05-24T16:30:00+02:00
+- Ende: 2007-05-24T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1541
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1541
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=51831
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Müllentsorgung Wuhlewanderweg - vertagt
+- TOP 2.2: Gedenken für die Opfer des Terroranschlags in Afghanistan am 19. Mai 2007 - vertagt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI_6 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Albatros e. V. (SM 710) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Förderverein für das Heimatmuseum Treptow e. V. (SM 711) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Diakoniekreis Kietzer Feld (SM 713) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Sondermittel für IABW - Institut für Arbeitsmarktforschung und berufliche Weiterbildung e. V. (SM 714) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Sondermittel für SV Kleeblatt e. V. (SM 718) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Sondermittel für Selbsthilfegruppe Multiple Sklerose (SM 720) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für Bridge of Hearts e. V. (SM 721) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für Johannes-Bobrowski-Gesellschaft e. V. (SM 722) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondermittel für Jugendchor der ev. Kirchengemeinde Johannisthal (SM 724) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Sondermittel für SSV Köpenick-Oberspree e. V. (SM 725) - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Sondermittel für Förderverein "Ulaanbaatar" deutsch-mongolisches Zusammenleben e. V. (SM 727) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Sondermittel für Breitenkunst e. V. i. G. (SM 731) - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Sondermittel für CABUWAZI Kinder- und Jugendzirkus e.V. Altglienicke (SM 733) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Hundeauslaufgebiete - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Steganlagenkonzeption des Bezirkes Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Überschwemmung in der Kleinen Lindenstraße vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Wasserwanderrastplätze im Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Verkehrsleitsystem für die Altstadt zügig umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Bebauungsplan 9-35 ("Magazine und Depots") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Strandbad Grünau - im Ältestenrat zurückgezogen
+- TOP 12.8: Radwegeverbindungen in der Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Verlegung der Straßenbahnhaltestelle Freiheit zum Schüßlerplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Gender Mainstreaming - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Bebauungsplan XVI-73 ("Duchrother Straße") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.3: Bebauungsplan 9-8 ("Mahlsdorfer Straße") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Entschärfung der Straßenkreuzung Kiefholzstraße/Elsenstraße für Radfahrer - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Benennung von Nummernstraßen in Müggelheim - überwiesen
+- TOP 14.3: Gefährdung von Radfahrern auf der Straße Am Falkenberg - überwiesen
+- TOP 14.4: Erhöhung der Hilfe zum Lebensunterhalt in der Jugendhilfe, bei Jugendlichen die einen eigenen Haushalt führen - überwiesen
+- TOP 14.5: Sozialarbeiter - überwiesen
+- TOP 14.6: Aufhebung des Halteverbots Höhe Semmelweisstraße 57 - überwiesen
+- TOP 14.7: Kiezbüro - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Kraftwerk Klingenberg ohne Kohle! - in der BVV abgelehnt
+- TOP 14.9: Projekt "Notinsel" - überwiesen
+- TOP 14.10: Änderung von Ersatzmaßnahmen im Wildenbruchpark - in der BVV zurückgezogen
+- TOP 14.11: Inhaltliche und fachliche Fortschreibung der Steganlagenkonzeption Treptow - Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Sicherung des Schulwegs Oberspreestraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Schulstandorte sichern - in der BVV abgelehnt
+- TOP 14.14: Ausstellung von Schülerarbeiten - überwiesen
+- TOP 14.15: Wärmedämmung und Energieeinsparung beim Musikschulgebäude - überwiesen
+- TOP 14.16: Verkürzung des Weges zum Parkhaus des Forums Köpenick - überwiesen
+- TOP 14.17: Vergabe von Sondermitteln - in der BVV abgelehnt
+- TOP 14.18: Wendemöglichkeit An der Wuhlheide / Lindenstraße - überwiesen
+- TOP 14.19: Durchwegung Altstadt Köpenick und Parkplatz Landjägerstraße - vertagt
+- TOP 14.20: Bibliothek Schnellerstraße - überwiesen
+- TOP 14.21: Benennung der Straße 523 in Hessenwinkel - überwiesen
+- TOP 14.22: Straßenbahnverkehr in Friedrichshagen beschleunigen - überwiesen
+- TOP 14.23: Keine Konkurrenz fürs Allende-Center (2) - vertagt
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Errichtung der bezirklichen Freiwilligenagentur - vertagt
+- TOP 15.2: Köpenicker Sommer - vertagt
