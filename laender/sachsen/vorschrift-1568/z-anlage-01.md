@@ -1,8 +1,8 @@
 ## § 15 Übergangsregelungen
 ## § 16 In-Kraft-Treten, Außer-Kraft-Treten
 # Anlage 1 (zu § 5 Abs. 1 Satz 3, Abs. 3 Satz 2, § 7 Abs. 1 Satz 2)
-Anlage 1
-Kurtaxe | Betrag
+Anlage
+Kurort | Kurtaxe
 Bad Elster
 Kurtaxe | EUR
 Kurzone I | 2,20
