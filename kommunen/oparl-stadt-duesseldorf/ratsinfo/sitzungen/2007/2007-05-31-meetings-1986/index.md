@@ -1,0 +1,57 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-05-31T16:00:00+02:00
+- Ende: 2007-05-31T18:00:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1986
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1986
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096803.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096803.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096803.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 19.04.2007 - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Lore-Lorentz-Schule, Berufskolleg, Schlossallee 1 - einstimmig beschlossen
+- TOP 5: Jugendförderplan 2006 - 2009 - zur Kenntnis genommen
+- TOP 6: Freigabe eines verkaufsoffenen Sonntags a.28.10.07 - mehrheitlich beschlossen
+- TOP 7: Zuschüsse der Bezirksvertretung 8 im Jahre 2007 - einstimmig beschlossen
+- TOP 8: Bauunterhalt im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 9: Grundstück Sturmstraße / Sodener Weg - zur Kenntnis genommen
+- TOP 10: Bauvorhaben Sturmstraße und In der Elb - zur Kenntnis genommen
+- TOP 11: Grundstück Jenaer Weg 14 - zur Kenntnis genommen
+- TOP 12: Spielplätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 13: Bezirksdienst der Polizei im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 14: Kriminalitätsentwicklung 2006 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 15: Altpapiercontainer im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 16: Graffiti im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 17: Mittagsverpflegung - zur Kenntnis genommen
+- TOP 18: Verkehrsspiegel Kronacher Weg / Kamper Weg - einstimmig beschlossen
+- TOP 19: mobile Geschwindigkeitsanzeige im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 20: Novellierung Baugesetzbuch - einstimmig beschlossen
+- TOP 21: Verkehrssituation Lierenfeld / Eller - einstimmig beschlossen
+- TOP 22: Mittel der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 23: Verkehrssituation Weinheimer Str/Annweiler Straße - einstimmig beschlossen
+- TOP 24: Freizeitangebot am Unterbacher See - einstimmig beschlossen
+- TOP 25: Öffnung der Schulhöfe im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 26: Wege und Rahmenbegrünung Friedhof Eller - einstimmig beschlossen
+- TOP 27: Straßenreinigung In der Elb - einstimmig beschlossen
+- TOP 28: Sicherung Bahnunterführung A 46 - zur Kenntnis genommen
+- TOP 29: Fußgängerampel Sandträgerweg / Striegauer Weg - zur Kenntnis genommen
+- TOP 30: Pavillon Schlesische Straße - zur Kenntnis genommen
+- TOP 31: Bebauungsplan - Vorentwurf Am Langenfeldsbusch - zur Kenntnis genommen
+- TOP 32: Fuß- und Radweg Rathelbeckstraße - zur Kenntnis genommen
+- TOP 33: Parkplatz S-Bahnhof Eller - Mitte - zur Kenntnis genommen
+- TOP 34: Fußgängerbrücke Kikweg - zur Kenntnis genommen
+- TOP 35: Gestaltung Grünanlage Schlesische Straße - zur Kenntnis genommen
+- TOP 36: Fußgängerbrücke Festenbergstraße - zur Kenntnis genommen
+- TOP 37: Bürgersteig Gumbertstraße - zur Kenntnis genommen
+- TOP 38: Radweg Schlosspark Eller - zur Kenntnis genommen
+- TOP 39: Straßenreinigung In der Elb - zur Kenntnis genommen
+- TOP 40: Entente Florale im Stadtbezirk 8 - zur Kenntnis genommen
