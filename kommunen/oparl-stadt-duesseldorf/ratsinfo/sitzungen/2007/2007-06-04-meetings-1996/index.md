@@ -1,0 +1,55 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-06-04T15:00:00+02:00
+- Ende: 2007-06-04T16:00:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1996
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1996
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096754.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096754.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096754.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Kämmererliste 2007 - einstimmig beschlossen
+- TOP 4: Controllingbericht - einstimmig beschlossen
+- TOP 5: Bürodienstgebäude Neusser Tor 4-12 - passieren lassen
+- TOP 6: Förderung Betriebskosten Kita Einbrungerstraße 60 - einstimmig beschlossen
+- TOP 7: üpl.Mittel für die Maßnahme der Fa. Henkel - einstimmig beschlossen
+- TOP 8: Stiftung Pro Sport Düsseldorf - passieren lassen
+- TOP 9: Lore-Lorentz-Schule, Berufskolleg, Schlossallee 1 - passieren lassen
+- TOP 10: Marie-Curie-Gymnasium, Gräulinger Str. 15, Erweite - einstimmig beschlossen
+- TOP 11: Sanierung Eckener Str. 1 und Einbau eines Behinder - einstimmig beschlossen
+- TOP 12: Sanierung der Deutschen Oper am Rhein, Mehrkostenb - passieren lassen
+- TOP 13: Brandschutz-u.Sicherheitskonzept Rheinalleetunnel - einstimmig beschlossen
+- TOP 14: Abbau alte Verkehrsrechner/Erneuerung Steuergeräte - einstimmig beschlossen
+- TOP 15: Verbesserung Leistungsfähigkeit Grafenberger Allee - einstimmig beschlossen
+- TOP 16: Lärmschutzwall auf´m Wettsche- Bau- und Finanzieru - einstimmig beschlossen
+- TOP 17: Annahme einer Schenkung für das Stadtmuseum - einstimmig beschlossen
+- TOP 18: Kuratorium der Stiftung "Kunstsammlung NRW" - einstimmig beschlossen
+- TOP 19: Gutachtergremium für Entschädigungen beim U-Bahn-B - einstimmig beschlossen
+- TOP 20: Verbandsversammlung des Zweckverb. UB-See - einstimmig beschlossen
+- TOP 21: AR der zukünftigen Sana Kliniken - passieren lassen
+- TOP 22: Ersatzwahl stv. Mitgliedes JHA - einstimmig beschlossen
+- TOP 23: Fortschreibung des Rettungsdienstbedarfsplans - einstimmig beschlossen
+- TOP 24: Jahresbericht 2006 "EINE WELT" Beirat - einstimmig beschlossen
+- TOP 25: GGS Mettmanner Straße - einstimmig beschlossen
+- TOP 26: Verleihung der Förderpreise für bildende Kunst, Mu - einstimmig beschlossen
+- TOP 27: Verleihung des Förderpreises für Wissenschaften 20 - einstimmig beschlossen
+- TOP 28: Bericht des Instituts für Denkmalschutz und Denkma - einstimmig beschlossen
+- TOP 29: Freigabe verkaufsoffener Sonntage 2007-Neufassung - mehrheitlich beschlossen
+- TOP 30: Freigabe eines verkaufsoffenen Sonntags a.28.10.07 - mehrheitlich beschlossen
+- TOP 31: Genehmigung einer Dienstreise Expo-Real - einstimmig beschlossen
+- TOP 32: Gen. einer Dienstreise für Mitglieder des APS u.a. - einstimmig beschlossen
+- TOP 33: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 34: Plan Nr. 6076/035 - Östlich Heyestr. - einstimmig beschlossen
+- TOP 35: FNPÄ31-Nachden Mauresköthen-Stell.Plan - einstimmig beschlossen
+- TOP 36: B-Plan-Entwurf Nr. 5281/043 - Blumenviertel - einstimmig beschlossen
+- TOP 37: B-Plan Nr. 5680/053 - Nördlich Vogelsanger - Satz. - einstimmig beschlossen
+- TOP 38: Anfrage Bü90/Grü:Neustrukturierung ÖSPV - zur Kenntnis genommen
