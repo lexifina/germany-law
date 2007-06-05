@@ -1,0 +1,62 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung
+
+- Körperschaft: Instance 0001
+- Beginn: 2007-06-05T16:05:00+02:00
+- Ende: 2007-06-05T18:05:00+02:00
+- Ort: Rathaus Barmen, Altbau, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/81
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5505
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5505
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Stand 30.05.2007 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00080813.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00082026.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Stellvertreterin für einen sachkundigen Einwohner mit beratender Stimme - ungeändert beschlossen
+- TOP 2: Jahresabschluss 2006 der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 3: Jahresabschluss 2006 der WSW AG - ungeändert beschlossen
+- TOP 4: Jahresabschluss 2006 der WSW mobil GmbH - ungeändert beschlossen
+- TOP 5: Jahresabschluss 2006 der Abfallwirtschaftsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 6: Jahresabschluss 2006 WVW Wertstoffverwertung Wuppertal GmbH - Entgegennahme ohne Beschluss
+- TOP 7: Jahresabschluss 2006 der VSG Verkehrs-Service GmbH - Entgegennahme ohne Beschluss
+- TOP 8: Jahresabschluss 2006 der APH Service GmbH - ungeändert beschlossen
+- TOP 9: Jahresabschluss Kinder- und Jugendwohngruppen (KIJU) der Stadt Wuppertal für das Geschäftsjahr 2006 - Entgegennahme ohne Beschluss
+- TOP 10: Entlastung des Betriebsausschusses KIJU für das Geschäftsjahr 2006 - Entgegennahme ohne Beschluss
+- TOP 11: Jahresabschluss 2006 der Hotel AG - ungeändert beschlossen
+- TOP 12: Neubesetzung des Aufsichtsrates der Bergischen Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 13: Bestellung Abschlussprüfer für das Geschäftsjahr 2006/2007 der Wuppertaler Bühnen GmbH - ungeändert beschlossen
+- TOP 14: Bergische Fusion der Stadtwerke ohne Beteiligung der WSW
+- TOP 14.1: Bergische Fusion der Stadtwerke ohne Beteiligung der WSW - Entgegennahme ohne Beschluss
+- TOP 15: Regionalisierungsstrategie der WSW
+- TOP 15.1: Regionalisierungsstrategie der WSW - Entgegennahme ohne Beschluss
+- TOP 16: Beteiligungsverhältnis RWE-WSW
+- TOP 17: Verletzung des Konsortialvertrages RWE - Stadt Wuppertal
+- TOP 18: Rückkauf der RWE-Anteile an der WSW AG - abgelehnt
+- TOP 19: Gründung einer "Bergischen Entwicklungsagentur" in der Rechtsform einer GmbH - ungeändert beschlossen
+- TOP 20: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsnotwendigen - Entgegennahme ohne Beschluss
+- TOP 20.1: Keine Ausweisung von Trägerkapital durch die Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 21: Berichte und Mitteilungen
+- TOP 32: Städtischer Haushalt; Jahresabschluss 2006 - Entgegennahme ohne Beschluss
+- TOP 33: Finco 04/07 - Entgegennahme ohne Beschluss
+- TOP 34: Stand der Schulden und Kassenkredite zum 30.04.2007 - Ausblick auf den Kassenkreditbedarf 2007 - Entgegennahme ohne Beschluss
+- TOP 35: Über- und außerplanmäßige Ausgaben 2006, Teil 3 und 2007, Teil 1 - ungeändert beschlossen
+- TOP 36: Anhebung des Höchstbetrages der Kassenkredite - ungeändert beschlossen
+- TOP 37: Genehmigung einer überplanmäßigen Ausgabe bei Zinsen für Kassenkredite - ungeändert beschlossen
+- TOP 38: Bewilligung einer überplanmäßigen Ausgabe im Unterabschnitt 2000 - ungeändert beschlossen
+- TOP 39: Anteil der Stadt Wuppertal an den Verwaltungskosten der ARGE für kommunale Leistungen - Entgegennahme ohne Beschluss
+- TOP 40: Anstieg der Kosten für Leistungen der Grundsicherung für Arbeitssuchende nach dem SGB II - ungeändert beschlossen
+- TOP 41: Genehmigung einer außerplanmäßigen Verpflichtungsermächtigung - ungeändert beschlossen
+- TOP 42: Bahnhofsvorplatz Barmen - Entgegennahme ohne Beschluss
+- TOP 43: Investorenprojekte Lienhardplatz/Lienhardstraße/Kaiserstraße
+- TOP 43.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Investorenprojekte Lienhardplatz/Lienhra - Entgegennahme ohne Beschluss
+- TOP 44: Reform der Versorgungsverwaltung
+- TOP 44.1: Beantwortung der Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 20.03.2007 (VO/0277/07) - Entgegennahme ohne Beschluss
+- TOP 45: Stadterneuerungsprojekt 'Stadtumbau West' Stadterneuerungsprogramm 2007 - ungeändert beschlossen
+- TOP 46: Stadtentwässerung zwischen Gewässerschutz, effizientem Mitteleinsatz und Gebührenstabilisierung - Entgegennahme ohne Beschluss
+- TOP 47: Stadtentwässerung - Umstellung der Berechnung der Grubenentsorgungsgebühren - abgelehnt
+- TOP 48: Schülerfahrkosten - ungeändert beschlossen
+- TOP 49: Umbau der zwei Kleinspielfelder in ein Kunstrasenspielfeld und eine Beachvolleyball-Anlage - ungeändert beschlossen
+- TOP 50: Dritte Satzung zur Änderung der Hundesteuersatzung vom 15.12.2000 - ungeändert beschlossen
+- TOP 51: Berichte und Mitteilungen
