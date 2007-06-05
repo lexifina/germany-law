@@ -1,0 +1,7 @@
+# TOP 10: Melanchthonstraße als Einbahnstraße in Richtung Dycker Feld
+
+- Sitzung: Bezirksvertretung Gräfrath (2007-06-05)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/4424
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/6005
