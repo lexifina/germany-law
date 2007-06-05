@@ -1,0 +1,57 @@
+# Planungs- und Bauausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2007-06-05T15:00:00+02:00
+- Ende: 2007-06-05T20:55:00+02:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/82
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1009
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1009
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift
+- TOP 2: Jahresabschluss 2006 GSM - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 3: 182. Änderung des Flächennutzungsplanes - Kenntnisnahme
+- TOP 4: 181. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 5: Bebauungsplan Nr. 387/III -Stadtbezirk Stadtmitte - Einstimmiger Beschluss
+- TOP 6: Aufstellung eines Bebauungsplanes - Einstimmiger Beschluss
+- TOP 7: Bebauungsplan Nr. 678/I - Stadtbezirk Rheindahlen - Einstimmiger Beschluss
+- TOP 8: Bebauungsplan Nr. 671/VII - Einstimmiger Beschluss
+- TOP 9: Aufstellung eines Bebauungsplanes - Einstimmiger Beschluss
+- TOP 10: 167. Änderung des Flächennutzungsplanes - Zur Kenntnis genommen
+- TOP 11: Bebauungsplan Nr. 439/V - Stadtbezirk Neuwerk - - Einstimmiger Beschluss
+- TOP 12: Bebauungsplan Nr. 674/X - Zur Kenntnis genommen
+- TOP 13: Bebauungsplan Nr. 644/III - Stadtbezirk Stadtmitte - Einstimmiger Beschluss
+- TOP 14: 1. Änderung des Bebauungsplanes M Nr. 339 - Einstimmiger Beschluss
+- TOP 15: 1. Änderung des Bebauungsplanes Nr. 420/II - Einstimmiger Beschluss
+- TOP 16: Verlängerung Veränderungssperre Waldhausener Str. - Einstimmiger Beschluss
+- TOP 17: Bebauungsplan Nr. 652/IX - Einstimmiger Beschluss
+- TOP 18: VEP - Ziele der Verkehrsentwicklungsplanung - Ohne Abstimmung
+- TOP 19: Sachstandsbericht zum Verkehrskonzept Innenstadt - Kenntnisnahme
+- TOP 20: Radwegeführung Mülgau- / Giesenkirchener Straße - Einstimmiger Beschluss
+- TOP 21: Umgestaltung der Hohenzollernstraße - Einstimmiger Beschluss
+- TOP 22: Nahversorgungs- und Zentrenkonzept - Zur Kenntnis genommen
+- TOP 23: Grünplanung im Bereich des ehem. Bökelbergstadions - Zur Kenntnis genommen
+- TOP 24: Erschließung Heiligenpesch BP 612/I - Einstimmiger Beschluss
+- TOP 25: BP 423/V Webershütte - Einstimmiger Beschluss
+- TOP 26: Teilerschließung BP 611/IX - Einstimmiger Beschluss
+- TOP 27: Regiopark 3000, Innere Erschließung - Einstimmiger Beschluss
+- TOP 28: Erschließungsgebiet Bäumchesweg - Einstimmiger Beschluss
+- TOP 29: Erschließung BP 660/III, Berger Feld - Zur Kenntnis genommen
+- TOP 30: Neubau für die Kath. Grundschule Venn - Zur Kenntnis genommen
+- TOP 31: Umzug der Montessori-Grundschule zum Geroweiher - Zur Kenntnis genommen
+- TOP 32: Sachstandsbericht Friedhöfe - Kenntnisnahme
+- TOP 33: Zweiter Nachtrag zur Friedhofsgebührensatzung - Ohne Abstimmung
+- TOP 34: Bestellung kommissarischen Betriebsleiter GSM - Einstimmiger Beschluss
+- TOP 35: Business Improvement Districts (BID) - Einstimmiger Beschluss
+- TOP 36: Solarsiedlung in MG - Vom Antragsteller zurückgezogen
+- TOP 37: Verkehrberuhigung Bonnenbroich - Antrag 1 - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 38: Verkehrsberuhigung Bonnenbroich - Antrag 2 - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 39: Verkehrsberuhigung Tempo-30 Geneickener Str. - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 40: Verkehrsberuhigung Tempo 30 Geneickener Str. - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 41: Sanierungsmaßnahme Stadtbad Rheydt - Kenntnisnahme
+- TOP 42: Berichte
+- TOP 43: Anfragen und Mitteilungen
