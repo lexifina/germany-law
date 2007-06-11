@@ -1,0 +1,93 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2007-06-11T16:02:00+02:00
+- Ende: 2007-06-11T19:38:00+02:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5492
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5492
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung des Rates - Stand: 08.06.2007 - 09.18 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00081998.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00082157.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Beteiligungsverhältnis RWE-WSW - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Beteiligungsverhältnis RWE-WSW
+- TOP 2.2: Flächennutzungsplanänderung "Erbschlö" - abschließend zur Kenntnis genommen
+- TOP 2.2.1: 30. Flächennutzungsplanänderung "Erbschlö", Beantwortung der Großen Anfrage vom 15.05.2007 - abschließend zur Kenntnis genommen
+- TOP 2.3: Zustand Müngstener Brücke - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Beantwortung der Anfrage der WfW-Fraktion
+- TOP 2.4: Schwebebahnfinanzierung - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Schwebebahnfinanzierung - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: ARGE geförderte Sprachkurse im Anschluss an Integrationskurse - in der Sache erledigt
+- TOP 4.2: Resolution gegen die Auflösung des Versorgungsamtes Wuppertal - abgesetzt
+- TOP 4.3: Rückkauf der RWE-Anteile an der WSW AG - abgelehnt
+- TOP 4.4: Resolution gegen die Änderung des Sparkassengesetzes - abgelehnt
+- TOP 4.4.1: Keine Ausweisung von Trägerkapital durch die Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 4.4.2: Novellierung des Sparkassengesetzes - abgelehnt
+- TOP 4.5: Entwicklung einer Richtlinie zur Sozialgerechten Bodennutzung - geändert beschlossen
+- TOP 4.6: Kommunales Handlungskonzept Interkultur - ungeändert beschlossen
+- TOP 4.7: Resolution zur Neukonzeption "Haus der Jugend" - ungeändert beschlossen
+- TOP 4.8: Gründung einer weiteren Gesamtschule - abgelehnt
+- TOP 4.9: Klimaschutz in der Bauleitplanung verankern - zur Vorberatung verwiesen
+- TOP 4.10: Resolution für die Weiterfinanzierung der Arbeitslosenzentren und Arbeitslosenberatungsstellen - abgelehnt
+- TOP 4.10.1: Weiterfinanzierung der Arbeitslosenzentren und Arbeitslosenberatungsstellen - ungeändert beschlossen
+- TOP 4.11: "Mehr Demokratie beim Wählen" - abgelehnt
+- TOP 4.11.1: Wahlrecht - abgelehnt
+- TOP 4.12: Gemeinsamer Antrag der Fraktionen von CDU und SPD: Für eine Kultur des Erinnerns - ungeändert beschlossen
+- TOP 4.13: Lebensrettendes Ortungssystem in Wuppertaler Erholungsgebieten - in der Sache erledigt
+- TOP 4.13.1: Lebensrettendes Ortungssystem in Wuppertaler Erholungsgebieten - in der Sache erledigt
+- TOP 4.14: Mit gutem Beispiel voran - Nichtraucherschutz bei Ratssitzungen - geändert beschlossen
+- TOP 4.15: Wasserwirtschaft ist eine öffentliche Aufgabe - ungeändert beschlossen
+- TOP 4.16: Zuwendungen für Investitionen und Ausstattung in Ganztagsschulen - ungeändert beschlossen
+- TOP 4.16.1: Für eine bundeseinheitliche Regelung der Mittagsverpflegung an Ganztagsschulen - ungeändert beschlossen
+- TOP 4.17: Stadionausbau durch versicherungspflichtig Beschäftigte - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 6: Ortsrecht
+- TOP 6.1: Stadtentwässerung - Umstellung der Berechnung der Grubenentsorgungsgebühren - abgelehnt
+- TOP 6.2: 13. Änderungssatzung zur Gebührensatzung in Übergangseinrichtungen - ungeändert beschlossen
+- TOP 6.3: Dritte Satzung zur Änderung der Hundesteuersatzung vom 15.12.2000 - ungeändert beschlossen
+- TOP 6.4: Entwidmung des städt. Friedhofes Schorfer Straße (Wpt.-Cronenberg) - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Schülerfahrkosten - ungeändert beschlossen
+- TOP 7.2: Über- und außerplanmäßige Ausgaben 2006, Teil 3 und 2007, Teil 1 - ungeändert beschlossen
+- TOP 7.3: Bewilligung einer überplanmäßigen Ausgabe im Unterabschnitt 2000 - ungeändert beschlossen
+- TOP 7.4: Genehmigung einer außerplanmäßigen Verpflichtungsermächtigung im UA 8420 - ungeändert beschlossen
+- TOP 7.5: Anstieg der Kosten für Leistungen der Grundsicherung für Arbeitssuchende nach dem SGB II - ungeändert beschlossen
+- TOP 7.6: Genehmigung einer überplanmäßigen Ausgabe bei Zinsen für Kassenkredite - ungeändert beschlossen
+- TOP 7.7: Anhebung des Höchstbetrages der Kassenkredite - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss Kinder- und Jugendwohngruppen (KIJU) der Stadt Wuppertal für das Geschäftsjahr 2006 - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses KIJU für das Geschäftsjahr 2006 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Aufhebungsbeschluss überholter Planverfahren im Stadtbezirk Elberfeld - B-Plan Nr. 522A - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren 1078 - Hofaue / Alte Freiheit - - ungeändert beschlossen
+- TOP 9.3: 30. Flächennutzungsplanänderung "Erbschlö" - ungeändert beschlossen
+- TOP 9.3.1: Änderungsantrag zu VO/0317/07 - 30. Flächennutzungsplanänderung "Erbschlö" - abgelehnt
+- TOP 9.3.2: JVA-Planungen in Wuppertal - alternative Standorte prüfen - zurückgestellt
+- TOP 9.4: Bauleitplanverfahren 1111 - Moritzstraße / Friedrich-Ebert-Straße - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Umbau der zwei Kleinspielfelder in ein Kunstrasenspielfeld und eine Beachvolleyball-Anlage - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Stadterneuerungsprojekt 'Stadtumbau West' Stadterneuerungsprogramm 2007 - ungeändert beschlossen
+- TOP 11.2: Vorzeitige endgültige Schließung der Gemeinschaftsgrundschule Meininger Str. 73, 42389 Wuppertal - ungeändert beschlossen
+- TOP 11.3: Vorzeitge endgültige Schließung der städt. Gemeinschaftsgrundschule Am Hofe 1, 42349 Wuppertal - ungeändert beschlossen
+- TOP 11.4: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsnotwendigen - ungeändert beschlossen
+- TOP 11.5: Ehrennadeln der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.6: Stadtentwässerung - Maßnahmenkatalog 2008/Katalogentwurf 2009 - abgesetzt
+- TOP 11.7: Gründung einer "Bergischen Entwicklungsagentur" in der Rechtsform einer GmbH - ungeändert beschlossen
+- TOP 11.8: Bestellung eines Chefdirigenten - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Neubesetzung des Aufsichtsrates der Bergischen Entsorgungsgesellschaft mbH - geändert beschlossen
+- TOP 12.2: Bestellung einer Stellvertreterin für einen sachkundigen Einwohner mit beratender Stimme - ungeändert beschlossen
+- TOP 12.3: Benennung eines sachkundigen Einwohners für den Sportausschuss - ungeändert beschlossen
+- TOP 12.4: Berufung eines Mitgliedes mit beratender Stimme für den Schulausschuss - ungeändert beschlossen
+- TOP 12.5: Benennung der Mitglieder für die Baubegleitkommission Döppersberg - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
