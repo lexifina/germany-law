@@ -1,0 +1,51 @@
+# Rat der Stadt Rheda-Wiedenbrück (19. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2007-06-11T17:00:00+02:00
+- Ende: 2007-06-11T19:55:00+02:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcwEslU146p9bjtAAxnqhuA
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/472
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVxjL6vlhZyYQXrAVftVV7DAGF6YTIN0y0qeubcN57_3/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_11.06.2007.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeVHd8IsEAYdVy2xCcZIl0g_3N76lWWKPHLpsXAJffN1/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_11.06.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Erschließungsvertrag zwischen der Stadt Rheda-Wiedenbrück, der Stadt Oelde und der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH - 29 Ja-Stimme(n), 4 Nein-Stimme(n)
+- TOP 5: Öffentlich-rechtliche Vereinbarung zwischen der Stadt Rheda-Wiedenbrück, der Stadt Oelde und der Gemeinde Herzebrock-Clarholz über die Behandlung des Schmutzwassers im Bereich des interregionalen Gewerbegebietes AUREA DAS A2-WIRTSCHAFTSZENTRUM - 29 Ja-Stimme(n), 4 Nein-Stimme(n)
+- TOP 6: Änderung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Stadt Rheda-Wiedenbrück vom 20.10.1982 - 28 Ja-Stimme(n), 2 Nein-Stimme(n), 3 Enthaltung(en)
+- TOP 7: Bericht der Flora Westfalica GmbH über die Arbeit der Stadtbibliothek im Jahr 2006 - Kenntnisnahme
+- TOP 8: Antrag der SPD-Fraktion auf Durchführung einer Erhebung zur Offenen Ganztagsgrundschule in Rheda-Wiedenbrück - Einstimmig
+- TOP 9: 64. Änderung des Flächennutzungsplanes sowie Bebauungsplan Nr. 371 „Hof Oldemeyer“; hier: Ergebnisse der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB i.V.m. der Beteiligung der Nachbargemeinden sowie der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB Änderungsbeschluss zur 64. Änderung des Flächennutzungsplanes Satzungsbeschluss Bebauungsplan Nr. 371 „Hof Oldemeyer“ - Einstimmig
+- TOP 10: 59. Änderung des Flächennutzungsplanes sowie Bebauungsplan Nr. 367 "Batenhorst - An der Kirche"; a) Ergebnisse der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB i. V. m. der Beteiligung der Nachbargemeinden sowie der Behörden und sonstigen Trä- ger öffentlicher Belange gem. § 4 Abs. 2 BauGB b) Änderungsbeschluss zur 59. Änderung des Flächennutzungsplanes c) Satzungsbeschluss Bebauungsplan Nr. 367 "Batenhorst - An der Kirche" - Einstimmig
+- TOP 11: Bebauungsplan Nr. 375 "An der Braunholzstraße"; hier: Satzungsbeschluss - Einstimmig
+- TOP 11.1: Bebauungsplan Nr. 365 "Sebastianstraße"; a) Aufstellungsbeschluss b) Beschluss einer Veränderungssperre - 31 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 12: Klarstellungs- und Ergänzungssatzung gem. § 34 (4) Satz 1 Nr. 1 und 3 BauGB für den im Zusammenhang bebauten Ortsteil „Burgweg/Am Stadtholz“; hier: Satzungsbeschluss - Einstimmig
+- TOP 13: Berechnung der Folgekosten von städtischen Investitionen - Antrag der CDU-Fraktion vom 09.02.2007 - Einstimmig
+- TOP 14: Zustimmung zur Leistung einer überplanmäßigen Auszahlung gem. § 83 GO NW für die Maßnahme "Ausbau Parkplatz Reitbahn" in Höhe von 81.500,00 € - 31 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 15: Bekanntgabe der im Zeitraum Januar bis April 2007 gem. § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Auszahlungen - Kenntnisnahme
+- TOP 16: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 17: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 18: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 19: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 20: Erklärung von Ausschließungsgründen
+- TOP 21: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Vereinbarung über den Anschluss des interregionalen Gewerbegebietes AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH an die Kläranlage Oelde und Gewährung eines Aufwendungsersatzes - 31 Ja-Stimme(n), 2 Nein-Stimme(n)
+- TOP 24: Verlängerung des Wasserkonzessionsvertrages mit der Wasserversorgung Beckum - Einstimmig
+- TOP 25: Ersatzbeschaffung eines Krankentransportwagens (KTW) - Einstimmig
+- TOP 25.1: Errichtung eines pädagogischen Musikzentrums durch das Fürstliche Trompetercorps Rheda e. V. auf einer Teilfläche eines städtischen Grundstücks - Abschluss eines Gestattungsvertrages - Einstimmig
+- TOP 25.2: Prüfungsergebnis zur Bilanzierung der Kunstrasenplätze
+- TOP 25.3: Informationsaustausch zum Ausschuss für Integration
+- TOP 26: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 27: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 28: Dringende Anfragen und Anregungen
