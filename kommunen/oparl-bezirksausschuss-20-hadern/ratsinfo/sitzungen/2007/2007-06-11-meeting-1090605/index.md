@@ -1,0 +1,86 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2007-06-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1090605
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1090605
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehrsführung Würmtalstraße
+- TOP 1.2.: Lärm von der Grünanlage "Am Wiesenhang" (2x)
+- TOP 1.3.: Gehwegeinebnungen in der Menari- / Ludlstraße und Menari-/ Rudi-Seibold-Straße
+- TOP 1.4.: BAB A 96 Lindau-München - Lärmschutz im Bereich Hadern
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Veilchenstr. 53, gem. Baumbestandsplan Nr. 54749
+- TOP 3.2.: Heiglhofstr. 13, 3 Kastanien, 1 Linde
+- TOP 3.3.: Gladiolenstr. 2, 1 Linde
+- TOP 3.4.: Großhaderner Str. 4, gem. Baumbestandsplan Nr. 54572
+- TOP 3.5.: Vingerstr. 14, 1 Blaufichte
+- TOP 3.6.: Platanenstr. 23, 6 Fichten
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: - Kriegerheimstr., gg. Lima 10 am Friedhofszaun, 1 Fichte (Baureferat, 10.05.07) - Waldsaumstr. 52 a, 3 Fichten (Baureferat, 10.05.07) - Kriegerheimstr. 16 a, 1 Fichte (Baureferat, 10.05.07)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.1.: Ersatzpflanzung für Baumfällung auf dem Grundstück Immastr. 13
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Bau / UA Ki/Sch/Sport
+- TOP 4.2.: UA Budget
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Anordnung von Tempo 30 km/h in der Krokusstraße
+- TOP 6.2.: Antrag der Kath. Kirchenstiftung St. Canisius auf Gewährung eines Zuschusses aus dem BA-Buget in Höhe von 2.000,- ? (Direktorium, 31.05.07)
+- TOP 6.3.: Antrag der Münchner Zwergerl auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.094,41 ? (Direktorium, 01.06.07)
+- TOP 6.4.: Antrag des Jugendtreff pfiffTEEN auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 70,- ? (Direktorium, 01.06.07)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Unveränderte Fortführung "Konrad-Dreher-Stuben", Konrad-Dreher-Str. 12 a (KVR, 15.05.07)
+- TOP 7.2.: Baumaßnahmen der Stadtwerke GmbH, hier: Prälat-Wellenhofer-Straße 31 a (SWM, 25.05.07)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Aufstellung von Hundekot-Tütenspendern im Stadtbezirk 20 - Hadern (Baureferat, 15.05.07)
+- TOP 8.2.: Erinnerungsverfahren, Waldklausenweg 19 (Baureferat, 22.05.07)
+- TOP 8.3.: Erinnerungsverfahren, Guardinistr. 192-198 (Baureferat, 23.05.07)
+- TOP 8.4.: Baudenkmal, Heiglhofstr. 12, Abbruch des Stadels (Planungsreferat, 24.05.07)
+- TOP 8.5.: Veranstaltung in einer städtischen Grünanlage, hier: Kasperltheater vom 26.07.-05.08.07 auf dem Max-Lebsche-Platz (KVR, 25.05.07)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Wertstoffcontainer Guardinistr. 59, Beschwerde wegen Lärmbelästigung (AWM, 02.05.07)
+- TOP 9.2.: Außengastronomie des Eiscafes in der Heiglhofstr. 6a und des "Winners" in der Senftenauerstr. 97 (KVR, 23.05.07)
+- TOP 9.3.: München sagt Müll den Kampf an, BA-Antrag Nr. 2029 vom 16.04.07 (Baureferat, 22.05.07)
+- TOP 9.4.: Parksituation Senftenauerstr. 183 und 183 a (KVR, 05.06.07)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Hubschrauberabflugrouten vom Klinikum Großhadern (Reg. v. Oberbayern, 22.05.07)
+- TOP 10.2.: Geldautomat der Postbank in der Terofalstr. 25 (Postbank, 02.05.07)
+- TOP 10.3.: Bundesautobahn A 96 Lindau-München, Lärmschutz an der Betriebsstrecke im Bereich Hadern (Autobahndirektion Südbayern, 23.05.07)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Informationsveranstaltung für die Baumschutzbeauftragten der BA´s im Referat für Stadtplanung und Bauordnung am 04.07. und 05.07.07 (Planungsreferat, 14.05.07)
+- TOP 11.2.: Lebensmittelstandort für Penny-Filiale im Bezirk 20 Hadern (REWE-Group, 15.05.07)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 18.04.2007: Ausbau des Mittleren Ringes (B 2 R)-Südwest - Luise-Kiesselbach-Platz - im 7. Stadtbezirk Sendling-Westpark (Projektkosten 363,94 Mio. ? ). Auf das Tunnelsperrprogramm für die 6 Lichtsignalanlagen in der aus Ausweichroute vorgesehenen Fürstenrieder Straße zwischen Kreuzhof-/ Waldfriedhof- und Ammerseestraße wird hingewiesen (Beschluss der Vollversammlung vom 18.04.2007, Seite 9).
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Verwaltungs- und Personalausschusses vom 02.05.2007: Phantomanträge im Bezirksausschuss 6 - Sendling (derartige Anträge lediglich zur Fristwahrung sind unzulässig)
+- TOP 12.1.: Beschluss des Sozialausschusses vom 10.05.2007: Verbot der Zweckentfremdung von Wohnraum, Antrag auf Genehmigung des Abbruchs des Anwesens Marchioninistr. 3 und 5 für die Errichtung einer dreigruppigen Kinderkrippe (Zustimmung)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Schulausschusses vom 16.05.2007: Mehrjahresinvestitionsprogramm 2007/2011, insbesondere zu den Anträgen des BA 20 Hadern vom 13.10.2006 Nr. D (Erweiterung und Generalsanierung der Canisius-Schule), Nr. 2 (Erweiterung der Kita an der Heiglhofstr. 68, abgelehnt), Nr. 4 (sofortiger Neubau der Kita an der Senftenauerstraße), Nr. 5 (sofortiger Bau der Koop-Kita an der Großhaderner-/ Guardinistraße), Nr. 7 (Fertigstellung der Sanierung der Grundschule/ Hauptschule an der Guardinistraße, Rampe in der Turnhalle, Schwimmbad, abgelehnt), Nr. 9 (sofortiger Beginn der Generalsanierung und Erweiterung der Grundschule am Canisiusplatz), Nr. 11 (sofortiger Baubeginn der Kita mit Hort im Neubaugebiet Am Stiftsbogen, abgelehnt) und Nr. 19 (Sicherung der Gebäude an der Marchioninistr. 3-5 für soziale Einrichtungen, vorzugsweise Kinderkrippe/ Koopeinrichtung, abgelehnt)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.04.2007: Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogrammes Bayern 2006, Ergebnisse der fachanwaltlichen Prüfung (Vertagung vom 25.04.2007). Laut Referentenantrag soll von den Rechtsschutzmöglichkeiten Abstand genommen werden. Die Beschlussfassung ist noch nicht bekannt.
+- TOP 12.1.: Beschluss des Schulausschusses vom 10.05.2007: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2007-2011. Einzelplan 4 / Sozialbereich, insbesondere zum Alten- und Service-Zentrum Am Stiftsbogen (vorerst abgelehnt)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.05.2007: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2007-2011, insbesondere der Maßnahme 5/29 (Stiftsbogen/ Schröfelhofstraße). Die Maßnahme 5/27 (Max-Lebsche-Platz/ Sauerbruchstraße) ist fertiggestellt.
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses vom 15.05.2007: Entwurf des Mehrjahresinvestitionsprogramms 2007-2011, Einzelplan 4 / Jugendamtsbereich, insbesondere zum PfiffTEEN am Wolkerweg und zur Kinderkrippe an der Marchioninistraße mit 36 Krippenplätzen in Investitionsliste 2 (BA-Schreiben vom 09.10.2006, Empfehlung Nr. 13 und Nr. 19, Anlage 17)
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.05.2007: Mehrjahresinvestitionsprogramm für die Jahre 2007-2011, Gliederungsziffern
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
