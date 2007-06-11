@@ -1,0 +1,72 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2007-06-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1050106
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1050106
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Kinder-Bezirksausschusssitzung; Spielplatzbegehung mit dem Baureferat am 13.06.2007 um 15.00 Uhr
+- TOP 4.: Schulreferat
+- TOP 4.1.: Das Schulreferat wird aufgefordert, die Planungs- und Baukosten für die Bauprojekte auf dem Grundstück Meindlstraße 8 - 16 zum MIP anzumelden und dem BA in der Sitzung am 05.03.2007 über den Stand des Verfahrens zu berichten - <div>Zur Kenntnis genommen</div>
+- TOP 5.1.: Warenstellage Albert-Roßhaupter-Straße 12a
+- TOP 5.2.: Freischankfläche Thalkirchner Straße 126; Mülleimer
+- TOP 5.3.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 5.4.: Freischankfläche der Gaststätte "Metronom" Bruderhofstraße 5
+- TOP 6.1.: Vekehrsplanung Sendling; Verkehrsführung nach der Neuerrichtung der Eisenbahnbrücke über die Lindwurmstraße
+- TOP 6.2.: Konzert auf dem Sendlinger Kirchplatz am 07.07.2007
+- TOP 6.3.: Feuerwehranfahrtszone Bavariastraße 6 und 8
+- TOP 6.4.: Meldeliste Bauvorhaben SWM
+- TOP 6.5.: Straßenfest der Sendlinger Kulturschmiede in der Daiserstraße am 28.07.07
+- TOP 6.6.: Kinderlauf zug. von Unicef in der Reutberger Str. / Reichersbeurer Str. am 09.07.07
+- TOP 6.7.: Aufhebung eines personenbezogenen Behindertenparkplatzes in der Aberlestraße
+- TOP 6.8.: Filmaufnahmen am Implerplatz am 13. und 15.06.2007
+- TOP 7.1.: Themen für die Bürgerversammlung am 12.07.2007
+- TOP 7.2.: Übertragung von laufenden Angelegenheiten des Oberbürgermeisters auf die BA`s; Novellierung des Art. 60 GO
+- TOP 7.3.: Budgetantrag des "Kultur notiert e. V."; Druck einer stadtweiten Zeitung, ? 300,-
+- TOP 7.4.: Budgetantrag des ASZ Sendling, Seniorennachmittag am 16.06.2007; ? 180,-
+- TOP 7.5.: Budgetantrag des SBZ Sendling; Selbstverteidigungskurs für Mädchen, ? 500,-
+- TOP 7.6.: Budgetantrag Freie Turnerschaft München-Süd e. V.; Wettkampfanzüge für die Kinder der Handballabteilung, ? 1.067,25
+- TOP 7.7.: Budgetantrag St. Margaret; ökumenischer Gottesdienst anl. des Sendlinger Bürgerfestes; ? 2460,-
+- TOP 7.8.: Budgetantrag des Hockey-Club Wacker e. V., Trainingsmöglichkeiten im Rahmen des Sendlinger Bürgerfestes, ? 368,-
+- TOP 7.9.: Budgetantrag Radltour durch die alte Sendlinger Gemarkung; ? 100,-
+- TOP 7.10.: BA-Budget; Ausstellung des Münchner Forums "Münchner Maßstäbe - Wechselwirkung - Münchner Baukultur in Mitteleuropa"
+- TOP 7.11.: Budgetantrag der IG Feuerwache; Spielangebote ab 27.04.07, ? 2.100,-
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Implerstraße 9a
+- TOP 8.3.: Errichtung von 6 Werbeanlagen, Schäftlarnstraße 9
+- TOP 8.4.: Untersuchung zur Unfallhäufigkeit im Bereich von Wechselwerbeanlagen - <div>Zustimmend zur Kenntnis genommen</div>
+- TOP 8.5.: Änderung des Flächennutzungsplanes im Bereich Gotzinger Platz / Thalkirchner Straße; Türkisch Islamisches Kulturzentrum
+- TOP 8.6.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2007 - 2011
+- TOP 8.7.: Bauvorhaben Implerstraße 69
+- TOP 8.8.: Entwicklung eines standardisierten Workshopverfahrens unterhalb der GRW für stadtteilbezogene Architektur- und Gestaltungswettbewerbe im Konsens mit den Bezirksausschüssen - <div>Zustimmend zur Kenntnis genommen</div>
+- TOP 9.: Baureferat
+- TOP 9.1.: Fahrbahnsanierung Schäftlarnstraße 6 - 36
+- TOP 9.2.: Gehwegparken in der Alram- / Aberlestraße - <div>Abweichung von der Referatsantwort</div>
+- TOP 9.3.: Stützwand Greinerberg / Wolfratshauser Straße; Instandsetzungsarbeiten
+- TOP 9.4.: Änderung der Straßenreinigungssatzung
+- TOP 9.5.: Bahndeckel Theresienhöhe
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Bäume im Stadtbezirk als Werbeträger Reinigung der Grünanlage am Gotzinger Platz
+- TOP 10.2.: Aufstellung von Hundekot-Tütenspendern im Stadtbezirk Sendling
+- TOP 10.3.: Baumfällung Plinganserstraße 22
+- TOP 10.4.: Fällung eines Gefahrenbaums in der Grünanlage Fallstraße Höhe Zechstraße; eine Linde
+- TOP 10.5.: Baumfällung Valleystraße 37; Südbad
+- TOP 10.6.: Informationsveranstaltung für die Baumschutzbeauftragten
+- TOP 10.7.: Hundeproblem Neuhofener Anlagen / Hundeschulen in der Grünanlage am Spielplatz
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
