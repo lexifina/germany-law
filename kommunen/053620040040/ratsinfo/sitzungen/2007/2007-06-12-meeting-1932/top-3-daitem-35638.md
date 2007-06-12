@@ -1,0 +1,6 @@
+# TOP 3.: Mitteilungen und Anfragen
+
+- Sitzung: Rat (23. Sitzung) (2007-06-12)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/35638
