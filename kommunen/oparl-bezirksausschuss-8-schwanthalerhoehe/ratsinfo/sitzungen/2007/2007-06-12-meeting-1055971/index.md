@@ -1,0 +1,92 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2007-06-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1055971
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1055971
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Aufstellung von Mülleimern mit Deckel
+- TOP 3.2.: Wandgestaltung der Unterführung an der Landsbgerger Straße / Höhe Barthstraße
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Vollzug des Bayerischen Wege- und Straßenwegegesetzes im Stadtbezirk 8 Einrichtung eines ambulanten Obst- und Gemüseverkaufsplatzes auf dem Gehweg zwischen Ganghoferstr. 27 und 27a
+- TOP 5: Anhörungen
+- TOP 5.1.: Antrag auf Genehmigung einer Warenstellage Ligsalzstr. 13
+- TOP 5.2.: Änderung der GO; Übertragung laufender Angelegenheiten des OB auf die BAs zur Entscheidung
+- TOP 5.3.: Antrag auf Freischankfläche Westendstr. 31
+- TOP 5.4.: Antrag auf Warenstellage Parkstr. 6
+- TOP 5.5.: Antrag auf Freischankfläche Landsberger Str. 137
+- TOP 5.6.: Antrag auf Freischankfläche Schwanthalerstr. 148
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Kindertagesstätten freigemeinnütziger Träger; KiTa "St. Rupert" des Vinzentinusvereins an der Kazmairstr. 66
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Verlegung der Haltestelle der Buslinie 53 am Gollierplatz
+- TOP 6.4.2.: Aufstellung von Hundekot-Tütenspendern im 8. Stadtbezirk
+- TOP 6.4.3.: Baumfällung i.V.m. einem Bauvorhaben Ganghoferstr. 68
+- TOP 6.4.4.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 6.4.5.: Bergmannstraße zwischen Kazmair- und Westendstraße Auswirkungen des Verkehrsprojektes
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: MIP 2007 - 2011 - Einzelplan 4 / Jugendamtsbereich; VorlagenNr. 02-08/V09945 - verschiede Gliederungsziffern; VorlagenNr. 02-08/V09967
+- TOP 6.5.2.: Budgetantrag Kultur notiert e.V. Antrag vom 05.03.2007
+- TOP 6.5.3.: Budgetantrag Jugendseelsorge im Pfarrverband Westend Antrag vom 11.04.2007
+- TOP 6.5.4.: Kurzbericht Westenddrachen zum Bewilligunsbescheid vom 03.11.2006
+- TOP 6.5.5.: Budgetantrag St. Ruppert e.V. Romantische Orgelmusik München Antrag vom 05.04.2007
+- TOP 7: Erledigungen
+- TOP 7.1.: Straßenfest Bergmannstraße am 30.06.2007
+- TOP 7.2.: Straßenfest in der Westendstraße am 30.06.2007
+- TOP 7.3.: Öffnung der Guldeinstraße zwischen Barthstraße und Astallerstraße für den gegenläuftigen Radverkehr
+- TOP 7.4.: Einhaltung der Freischankflächen auf öffentlichem Verkehrsgrund BA-Antrag Nr. 02-08/B01963
+- TOP 7.5.: Koordinierung der "Fernwärme" mit der Straßenbelagserneuerung in der Fäustlestraße Anfrage der BV vom 19.04.07 des BA 8
+- TOP 7.6.: Stadtweites Rauchverbot an und auf Spielplätzen Zwischennachricht
+- TOP 7.7.: Landsberger Str. 143 - Lärm- und Staubbelästigung bei Abrissarbeiten Anfrage aus der BV des BA 8 vom 19.04.2007
+- TOP 7.8.: Brandschutzmaßnahmen im MKJZ
+- TOP 7.9.: Einrichtung eines allg. Behindertenparkplatzes in der Gollierstraße vor dem Anwesen HsNr. 55 - Evangelische Kirche
+- TOP 7.10.: Aufhebung der Einbahnregelung auf den Verbindungsfahrbahnen zwischen der Matthias-Pschorr-Straße und der Theresienhöhe
+- TOP 7.11.: Öffnung der nördlichen Fahrbahn des Gollierplatzes zwischen Trappentreu- und Bergmannstraße für den gegenläufigen Radverkehr
+- TOP 7.12.: Stadtweites Rauchverbot an und auf Spielplätzen
+- TOP 8: Anträge
+- TOP 8.1.: Baumaßnahmen der SWM Stichtag 04.06.2007
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Meldeliste 30.04. - 06.05.07 Tektur a) Westendstr. 117
+- TOP 9.2.: Baumaßnahmen der SWM Stichtag 07.05.2007
+- TOP 9.3.: Meldelisten der SWM Stichtag 14.05.2007
+- TOP 9.4.: Baumaßnahmen der SWM Stichtag 25.05.2007
+- TOP 9.5.: Meldeliste 21.05. - 28.05.07 Erstantragsverfahren a) Ganghoferstr. 9 b) Schrenkstr. 5
+- TOP 9.6.: Meldeliste 21.05. - 28.05.2007 Tektur a) Fäustlestr. 8 b) Landsberger Str. 79
+- TOP 9.7.: Meldeliste 21.05. - 28.05.2007 a) Schwanthalerstr. 111
+- TOP 9.8.: Baumaßnahmen der SWM Stichtag 21.05.2007
+- TOP 9.9.: Meldeliste 14.05. - 20.05.07 Abbruch, Zustimmungsverfahren, Vorbescheide a) Westendstr. 26
+- TOP 10: Verschiedenes
+- TOP 10.1.: Informationsveranstaltung für die BAs
+- TOP 10.2.: Treffen mti der neuen Stadtbaurätin Fr. Dr. Merk 03.07.2007, 15.00 Uhr
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Protokoll 04/07
+- TOP 11.2.: Protokoll 05/07
+- TOP 11.3.: Schriftverkehr 04/07
+- TOP 11.4.: Schriftverkehr 05/07
+- TOP 11.5.: KVR - Unveränderte Fortführung von Gaststätten Schwanthalerstr. 135
+- TOP 11.6.: KVR - Unveränderte Fortführung von Gaststätten Westendstr. 136
+- TOP 11.7.: KVR - Unveränderte Fortführung von Gaststätten Guldeinstr. 46
+- TOP 11.8.: KVR - Unveränderte Fortführung von Gaststätten Ganghoferstr. 23
+- TOP 11.9.: KVR - Genehmigungsbescheid Straßenfest Kulturladen Westend e.V. am 02.06.2007
+- TOP 11.10.: DIR - Phantomanträge im BA 6
+- TOP 11.11.: RAW - Leistungsprogramm der MVG für die Fahrplanperiode 2008
+- TOP 11.12.: PlanR - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2007 - 2011
+- TOP 11.13.: BauR - Ausbau des Mittleren Rings (B2R)-Südwest - Luise-Kiesselbach-Platz - im 7. Stadtbezirk
+- TOP 11.14.: BauR - Änderung der Straßenreinigungssatzung Anschlussverzeichnis
+- TOP 11.15.: BauR - Überprüfung der Baukosten im Münchner Straßenbau durch Vgl. mit den Baukosten in anderen Großstätten
+- TOP 11.16.: Infobrief Ausländerbeirat 10/2007
+- TOP 11.17.: Broschüre Bewegte Jahre - 20 Jahre Gleichstellungsstelle
+- TOP 11.18.: KVR - Unveränderte Fortführung von Gaststätten Bürgerheim, Bergmannstr. 33
