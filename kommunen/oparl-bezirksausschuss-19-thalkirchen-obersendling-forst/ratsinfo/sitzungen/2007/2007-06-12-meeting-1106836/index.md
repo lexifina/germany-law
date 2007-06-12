@@ -1,0 +1,58 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2007-06-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1106836
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1106836
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Festlegung der engültigen Tagesordnung
+- TOP 1.5.: Genehmigung der Protokolle vom 08.05.07 und 22.05.07
+- TOP 2: Anträge
+- TOP 2.1.: Sitzbank zwischen Siemens-Tennisplätze und dem Feld nördl. der Becker-Gundahl-Straße
+- TOP 2.2.: Nutzung der Stadtteilkulturzentren durch die Bezirksausschüsse
+- TOP 2.3.: Spielplätze Rohrauerstraße und Münsinger Straße
+- TOP 2.4.: Beschlussfassung über Empfehlungen der Kinder- und Jugend-BA-Sitzung vom 22.05.07
+- TOP 2.5.: REWE-Filiale Springerstr. 3; Ruhestörung durch Anlieferverkehr
+- TOP 2.6.: Jugendgästehaus Miesingstraße 1; Antrag auf Sperrung der Zufahrt für Busse und PKWs
+- TOP 3: Unterausschuss Budget
+- TOP 3.7.: Kultur notiert e.V.
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Aufstellung von Hundekot-Tütenspendern
+- TOP 4.3.: Ascholdingerstraße 23e; Genehmigung einer Baumfällung
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.4.: Kintertagesstätte Forstenrieder Allee
+- TOP 5.5.: Verkehrssituation Miesingstraße
+- TOP 5.6.: Verkehrssituation Kreuzung Siemensallee/Wolfratshauser Straße
+- TOP 5.7.: Durchfahrt Bichler Str. / Beuerberger Str.
+- TOP 5.8.: Markierung Schrägparkzone Fellererplatz
+- TOP 5.9.: Radwegmarkierung Wolfratshauser Str. (stadteinwärts) in Höhe "Kreppeberg"
+- TOP 5.10.: LKW-Parkverbot Schäftlarnstraße 158 aufheben
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 7: Entscheidungsfälle
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Wildwasser Abfahrtsrennen 2007
+- TOP 8.2.: Trink- und Imbisskiosk Zentralländstr. o.Nr. / Ecke Tierparkstraße
+- TOP 8.3.: Gartenfest Kleingartenanlage Filchnerstraße - SW58
+- TOP 8.4.: Werbeanlage Drygalski-Allee 25
+- TOP 8.5.: Gaststätten Pächterwechsel "Da Antonio"
+- TOP 8.6.: Zweckentfremdung Starnberger Str. 10
+- TOP 8.7.: Alten- und Service-Zentrum Fürstenried West; Genehmigung der Zweckentfremdung
+- TOP 8.8.: Errichtung eines Alten- und Service-Zentrums in Solln, Herterichtstraße 58
+- TOP 8.9.: Einkaufssituation im Münchner Südwesten, Zwischennachricht 1. Beseitigung des "Schandfleckes Ratzingerplatz" und Verbesserung der Einkaufsituation im Mchn. Südwesten 2. Zentren- und Einzelhandelskonzept im 19. Stadtbezirk 3. Fürstenried Ost als Stadtteilzentrum erhalten 4. Umsetzung der ursprünglichen Zielsetzung der Planung Ratzingerplatz 5. Planung Einzelhandelsgroßprojekt
+- TOP 8.10.: Zweckentfremdung Kistlerhofstraße 102 a
+- TOP 8.11.: Abfallentsorgungsanlage der Peter Preimesser GmbH & Co. KG; Antwortschreiben
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
