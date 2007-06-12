@@ -1,0 +1,60 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2007-06-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1037905
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1037905
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Straßenbenennung im 24. Stadtbezirk Feldmoching-Hasenbergl Lemgostraße
+- TOP 2.2.: Absichtserklärung über die nationale Kofinanzierung für das Projekt: "S.I.N.T.I. - Wandel und Kulturerhalt" Gewährung eines Zuschusses aus dem BA-Budget: Diakonie Hasenbergl; Bildungs- und Qualifizierungsangebote für junge Sinti
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: Elternbeirat des KG Feldmochinger Straße; Vogelnest-Schaukel
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: TSV München-Feldmoching; Kauf eines Großturngerätes
+- TOP 2.5.: Gewährung eines Zuschusses aus dem BA-Budget: TSV München 54 e. V.; Juniorensommerturnier
+- TOP 2.6.: Gewährung eines Zuschusses aus dem BA-Budget: Landesbund für Vogelschutz; Ausstellung
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Puppenbühne; Grünanlage Weitlstraße vom 19.07.-22.07.2007 - <div>Zustimmung, einstimmig</div>
+- TOP 5.2.: Abbruchanträge für Baudenkmäler; Pflaumstr. 2 - <div>Ablehnung, einstimmig</div>
+- TOP 5.3.: Errichtung einer Werbeanlage; Feldmochinger Str. 204 - <div>Ablehnung, einstimmig</div>
+- TOP 5.4.: Aufstellung von Hundekot-Tütenspendern im 24. Stadtbezirk
+- TOP 5.5.: SPD-Ortsverein Feldmoching-Hasenbergl; Sommerfest am 21.07.2007 - <div>Veranstaltung abgesagt</div>
+- TOP 5.6.: Vollzug der Baumschutzverordnung a) mehrere Bäume Wellenkampstraße - <div>Zustimmung, einstimmig,auf Ersatzpflanzung wird Wert gelegt</div>
+- TOP 5.7.: Bebauungsplan mit Grünordnung Nr. 1939 a Schleißheimer Straße (östlich) Bestehendes BMW (Forschungs- und Innovationszentrum /BMW FIZ) (nördlich) - BMW FIZ Erweiterung Nord - - <div>Vertagung in die nächste Sitzung</div>
+- TOP 5.8.: Antrag auf Errichtung und Betrieb einer Flüssiggasanlage Dachauer Str. 558 - <div>Vertagung in die nächste Sitzung</div>
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Anbringung eines Hinweisschildes auf Sackgasse Am Schnepfenweg westlich Pappelallee (BA-Antrag Nr. 1895 vom 06.03.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Öffnung der Personal-Toilette am S-Bahnhof Fasanerie für Passanten und Fahrgäste - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Parkraumschaffung im Bereich am S- und U-Bahnhof Feldmoching - <div>zur Kenntnis genommen</div>
+- TOP 6.4.: Einrichtung der gymnasialen Oberstufe an der Städt. Willy-Brandt-Gesamtschule - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Meldelisten Bauvorhaben - <div>versch. Unterlagen angefordert</div>
+- TOP 6.6.: Meldelisten Baumfällungen - <div>zur Kenntnis genommen</div>
+- TOP 6.7.: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung - <div>zur Kenntnis genommen</div>
+- TOP 6.8.: Verkehrsrechtliche Anordnung: a) Karlsfelder Straße; Änderung Vorfahrtsregelung - <div>zur Kenntnis genommen</div>
+- TOP 6.9.: Antrag auf Änderung des Flächennutzungsplanes im Bereich Feldmoching - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2007 - 2011 - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Mehrjahresinvestitionsprogramm (MIP) 2007 - 2011 1. Investitionsmaßnahmen für Schulen und Kindertageseinrichtungen 2. verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Mehrjahresinvestitionsprogramm für die Jahre 2007 - 2011 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Entwurf des Mehrjahresinvestitionsprogramms (MIP) 2007 - 2011 Einzelplan 4 / Jugendamtsbereich - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 Ergebnisse der fachanwaltliche Prüfung - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Leistungsprogramm der MVG für die Fahrplanperiode 2008 - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Wohnen in München, III - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Schulhof- / Sportplatzöffnung 2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Arbeiten im Straßenraum; Josef-Frankl-Straße zwischen östlich Lerchenauer Straße und westlich Schaarschmidtstraße in der Zeit von 21.05.2007 - 08.06.2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Münchner Statistik; 4. Quartalheft, Jahrgang 2006 - <div>zur Kenntnis genommen</div>
+- TOP 6.20.: Baumaßnahmen der Stadtwerke - <div>zur Kenntnis genommen</div>
+- TOP 6.21.: Anträge aus der Bürgerversammlung vom 22.05.2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.23.: Feldmochinger Straße; Sanierungsarbeiten am Fahrbahnbelag - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Jugend, Soziales, Schule, Kultur
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
