@@ -1,0 +1,52 @@
+# Stadtrat (20. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2007-06-12T17:02:00+02:00
+- Ende: 2007-06-12T19:32:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSwdbUkSs1gkenOjoXpT8P8
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/2310
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZbsDhpmGzqaV-E6ewHkaH0EpYPF-R5cNmEutd--gtnPr/Bekanntmachung_Stadtrat_12.06.2007.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZcJBF2BZwAFb0n4ux6I6C9izZaNdQXBLV0tgTvdi4GZY/Oeffentliche_Niederschrift_Stadtrat_12.06.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung und Verpflichtung der neuen Stadtverordneten Sibilla Simons
+- TOP 2.: Benennung eines Vorsitzenden für den Umlegungsausschuss I Brüggen
+- TOP 3.: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: 9. Satzung zur Änderung der Hauptsatzung der Stadt Kerpen; hier: Festlegung der Aufwandsentschädigung für die Ortsvorsteher/innen
+- TOP 4.2: Zwischenbericht zum Doppelhaushalt 2006/2007 sowie Einführung des neuen NKF-Haushalts
+- TOP 5.: Stadtentwicklung und Bauleitplanung
+- TOP 5.1: Umsiedlung Manheim
+- TOP 5.1.1: Umsiedlungsstandort Neu – Manheim hier: Festlegung der in die Bürgerbefragung zum Umsiedlungsstandort Manheim einzubringenden Suchräume
+- TOP 5.1.2: Umsiedlung Manheim; hier: Infrastruktur am Umsiedlungsort
+- TOP 5.2: 57. Änderung des Flächennutzungsplanes "Verlängerung der Karl-Ferdinand-Braun-Straße", Stadtteil Sindorf Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.3: Bebauungsplan SI 245/1. Änderung "Verlängerung der Karl-Ferdinand-Braun-Straße", Stadtteil Sindorf (Interkommunaler Bebauungsplan) hier: Aufstellungsbeschluss gem § 2 (1) BauGB
+- TOP 5.4: Bebauungsplan SI 323 "Ausbau der Hüttenstraße/K 39", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.5: Vorhabenbezogener Bebauungsplan BU 324 "Gewerbegebiet Schlicksacker" im Stadtteil Kerpen-Buir hier: Einleitungsbeschluss des Bebauungsplanverfahrens gem. §12 BauGB
+- TOP 5.6: Bebauungsplan HO 183/2.Änderung " Am Wahlenpfad ", Stadtteil Horrem hier: Satzungsbeschluss gem. § 10(1) BauGB
+- TOP 6.: Annahme einer Stiftung zur Begründung eines Naturkundemuseums
+- TOP 7.: Übernahme der Kath. Kindertageseinrichtung St. Kunibert der Kirchengemeinde St. Kunibert in Kerpen-Blatzheim im Rahmen Projekt "Zukunft heute" in Trägerschaft der Stadt Kerpen zum 01.08.2008
+- TOP 8.: Festlegung der Zügigkeiten an den Kerpener Grundschulen
+- TOP 9.: Übernahme des Eigenanteils an Schulbüchern Bereitstellung von überplanmäßigen Haushaltsmitteln
+- TOP 10.: Bekanntgabe der unerheblichen über- und außerplanmäßigen Ausgaben gem. § 82 Abs. 1 GO NW in der Zeit vom 01.01. bis 31.03.2007
+- TOP 11.: Beschluss des Stadtrates über die vom Rechnungsprüfungsausschuss geprüfte Jahresrechnung für das Haushaltsjahr 2004 und Entlastung der Bürgermeisterin gem. § 94 Abs. 1 GO NW
+- TOP 12.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 15.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 16.: Abschluss von städtebaulichen Verträgen
+- TOP 16.1: Vorhabenbezogener Bebauungsplan BU Nr. 324 "Gewerbegebiet Schlicksacker"; hier: Abschluss eines Verpflichtungsvertrages
+- TOP 16.2: Vorhabenbezogener Bebauungsplan HO Nr. 290 B "Waldweg"; hier: a) Wechsel des Vorhabenträgers b) Abschluss des 1. Änderungsvertrages zum Durchführungsvertrag vom 26.11.2003
+- TOP 17.: Wohnentwicklung im Stadtteil Buir hier: Erfüllung von Nebenpflichten aus einem im Jahre 1987 geschlossenen Kauf/Tauschvertrag
+- TOP 18.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 19.: Mitteilungen
+- TOP 19.1: Sachstand Hochhaus Maastrichter Straße 5-7 in Kerpen
+- TOP 20.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 21.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
