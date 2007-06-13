@@ -1,0 +1,63 @@
+# 22. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-06-13T17:00:00+02:00
+- Ende: 2007-06-13T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5746
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5746
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00250383.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: "Situation an der Bismarckallee entschärfen - Gestaltung aufwerten" - einstimmig beschlossen
+- TOP 2.2: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. A-R/0002/2007 - mehrheitlich beschlossen
+- TOP 2.3: "Hochhauskonzept Münster - Handlungsrahmen für städtebaulich und stadtstrukturell begründete Bauvorh - verwiesen
+- TOP 2.4: Antrag der SPD-Fraktion Nr. A-R/0022/2007 - einstimmig beschlossen
+- TOP 2.5: 1. Antrag der SPD-Fraktion an den Rat Nr. A-R/0007/2007 vom 01.02.2007, - einstimmig geändert beschlossen
+- TOP 2.6: Antrag der Fraktion Bündnis 90/Die Grünen/GAL A-R/0019/2007 vom 02.05.2007 - Münster 2020 - einstimmig beschlossen
+- TOP 3: Neubau eines Mensagebäudes für die Droste-Hauptschule und die Augustin-Wibbelt-Schule Roxel - einstimmig geändert beschlossen
+- TOP 4: Förderung von Stadterneuerungsprojekten - Sachstand und Anträge für das Programmjahr 2008 - einstimmig beschlossen
+- TOP 5: Zentrumserweiterung südlich der St. Anna Kirche in Mecklenbeck Bewerberauswahl- und Realisierungsver - einstimmig beschlossen
+- TOP 6: Verkehrsführung im Hafenviertel - durchgef. Bürgerinformation und Modizifierung der Beschilderung - einstimmig beschlossen
+- TOP 7: Weiterentwicklung der Bäderlandschaft in Münster - zur Kenntnis genommen
+- TOP 8: Geschäftsbericht 2006 des Sozialamtes - zur Kenntnis genommen
+- TOP 9: Kommunale Entwicklungszusammenarbeit - Auslobung des 4. Entwicklungspolitischen Nord-Süd-Preises der - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 10: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2006 - einstimmig beschlossen
+- TOP 11: Verordnung zur Änderung der Gebührenordnung für Parkuhren und Parscheinautomaten im Gebiet der Stadt - ohne Beschlussfassung geschoben
+- TOP 12: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im November und Dezember - ohne Beschlussfassung geschoben
+- TOP 13: Gründung der Stadtwerke Münster Neue Energie GmbH - ohne Beschlussfassung geschoben
+- TOP 14: Veräußerung des städtischen Gesellschaftsanteils an der ICB-Institut für Chemo- und Biosensorik GmbH - ohne Beschlussfassung geschoben
+- TOP 15: Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Eigentumsbildung - ohne Beschlussfassung geschoben
+- TOP 16: Erstes Münsteraner Zukunftsgespräch (08.09.2006) "Münster - Mit Wissen erfolgreich im Standortwettbe - ohne Beschlussfassung geschoben
+- TOP 17: Bahnhofsquartier Münster - Durchführung vorbereitender Untersuchungen gemäß § 141 Baugesetzbuch - ohne Beschlussfassung geschoben
+- TOP 18: Veräußerung von Gesellschaftsanteilen an der ekz.bibliotheksservice GmbH (ekz) - ohne Beschlussfassung geschoben
+- TOP 19: Vertragsverlängerung zur Überlassung des Städt. Preußenstadion an den SC Preußen 06 e. V. Münster - ohne Beschlussfassung geschoben
+- TOP 20: Satzung zur Änderung der Satzung der Volkshochschule - einstimmig beschlossen
+- TOP 21: Betriebsträgerschaft für die dritte Kindertageseinrichtung im Neubaugebiet Gievenbeck-Südwest - ohne Beschlussfassung geschoben
+- TOP 22: Kindertagesbetreuungsbericht 2007 - ohne Beschlussfassung geschoben
+- TOP 23: Fortführung und Weiterentwicklung der Freiwilligenagentur Münster durch die Stiftung Siverdes - ohne Beschlussfassung geschoben
+- TOP 24: 1. Änderung der Richtlinien der Stadt Münster zur finanziellen Förderung kommunaler Entwicklungszusa - einstimmig beschlossen
+- TOP 25: Jahresrechnungen und Jahresabschlüsse
+- TOP 25.1: Jahresrechnung 2006 der Stadt Münster - einstimmig beschlossen
+- TOP 25.2: Jahresabschluss des Wirtschaftsjahres 2006 der Klarastift Service GmbH - einstimmig beschlossen
+- TOP 25.3: Jahresabschluss des Wirtschaftsjahres 2006 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 25.4: Feststellung der Jahresabschlüsse der Stiftungen für das Wirtschaftsjahr 2006 - einstimmig beschlossen
+- TOP 26: Bauleitplanung
+- TOP 26.1: Stadtbezirk Mitte
+- TOP 26.1.1: Bebauungsplan Nr. 114 IV, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 26.2: Stadtbezirk West
+- TOP 26.2.1: 14. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - ohne Beschlussfassung geschoben
+- TOP 26.2.2: 3. Änderung des fortgeschriebenen Flächennutzungsplanes der Stadt Münster - einstimmig beschlossen
+- TOP 26.2.3: 1. Änderung des Bebauungsplanes Nr. 388: Nienberge - Gewerbegebiet Steinfurter Straße / - einstimmig beschlossen
+- TOP 26.3: Stadtbezirk Hiltrup
+- TOP 26.3.1: 27. Änderung des fortgeschriebenen Flächennutzungsplanes für den Bereich - ohne Beschlussfassung geschoben
+- TOP 27: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 28: Verschiedenes
