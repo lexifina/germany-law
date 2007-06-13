@@ -1,0 +1,87 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2007-06-13T17:10:00+02:00
+- Ende: 2007-06-13T22:02:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1383
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1383
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=34281
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - überwiesen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Feststellungen - im Ausschuss abgelehnt
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 25 Bezirksverwaltungsgesetz - ohne Änderungen im Ausschuss beschlossen
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Namensschilder für Ordnungsamtsmitarbeiter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: NPD-Gebührenzahlung zielgerichtet für Namibia-Schul-Aktionen einsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Instandsetzung der Halfpipe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Bessere Sicht für Schulkinder am Laurinsteig - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: Fahrradständer am S-Bahnhof Hermsdorf einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Jugendrechtshaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Keine Reduzierung von Personal auf den Reinickendorfer S-Bahnhöfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Durchgängiges Halteverbot im Robinienweg Reinickendorf, Ortsteil Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.9: Graphothek in "Lange Nacht der Museen" einbinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.10: Weg zum Rathauspark passierbar halten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.11: Ernennung eines Bezirksabstimmungsleiters und einer Stellvertreterin für die Vorbereitung und Durchführung eines eventuellen Volksbegehrens und Volksentscheides auf Erlass, die Änderung oder Aufhebung eines Gesetzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Medizinische Versorgung in Reinickendorf - beantwortet
+- TOP 7.2: Auswirkungen der Mieterhöhungen durch die Gesobau auf Hartz-IV-Empfänger/Empfängerinnen - vertagt
+- TOP 7.3: Ordnungsamt im Außendienst - vertagt
+- TOP 7.4: Projekt "Ausbau des Borsighafens" - vertagt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen im Ausschuss beschlossen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Hundekot ordnungsgemäß entsorgen - vertagt
+- TOP 9.2: Rechtsextreme Straftaten - vertagt
+- TOP 9.3: Mit Licht fahren - besser gesehen werden - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Umsetzung der FFH-Richtlinie der EU in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Beutelspender für Hundekot aufstellen - vertagt
+- TOP 9.6: MAE für psychisch Kranke - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Qualitätskontrollen in Kitas sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Verkehrszählung in Alt-Lübars - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Barrierefreie Zugänge U-Bahnhof Kurt-Schumacher-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Vorfahrtsregelung in der Straße "Am Nordgraben - Schorfheidestraße" - ohne Änderungen in der BVV beschlossen
+- TOP 10: Anträge - (offen)
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Erste-Hilfe-Defibrilatoren in Reinickendorf - überwiesen
+- TOP 11.2: Reinickendorf zeigt Flagge - Regenbogenfahne hissen! - vertagt
+- TOP 11.3: Gastanks in der Kolonie Waldessaum - überwiesen
+- TOP 11.4: Öffnungszeiten des Sozialmarktes am Franz-Neumann-Platz verlängern - überwiesen
+- TOP 11.5: Konzept zur Schärfung des Bewusstseins für die Belange von Schwulen und Lesben im Bezirk entwickeln - vertagt
+- TOP 11.6: Mehr Information für die Eltern - Reinickendorfer Schulprogramme im Internet veröffentlichen - überwiesen
+- TOP 11.7: Grundschulangebot in Heiligensee - überwiesen
+- TOP 11.8: Ausstattung des Ordnungsamtes mit Dienstfahrrädern - überwiesen
+- TOP 11.9: Nutzung der Graphothek im Bewusstsein der Öffentlichkeit internsiver verankern! - überwiesen
+- TOP 11.10: Längerfristige Schulstandortplanung - überwiesen
+- TOP 11.11: Widersprüche nach dem SGB II schneller bearbeiten - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Zeitplan Ausbau Radverkehrsnetz - überwiesen
+- TOP 11.13: Verbot von Flatrate-Partys in Reinickendorf - vertagt
+- TOP 11.14: PPP-Auswahl von Schulen - vertagt
+- TOP 11.15: Akten Bauprojekt Borsighafen - vertagt
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Polizeiliche Kriminalitätsstatistik für Ortsteile veröffentlichen - überwiesen
+- TOP 12.2: Mehr Kinderärzte in Reinickendorf - überwiesen
+- TOP 12.3: Mehrbedarf an Personal- und technischer Ausstattung im Bereich Kinderschutz - überwiesen
+- TOP 12.4: Kontaktstelle der Polizei für Reinickendorf-Ost erhalten - überwiesen
+- TOP 12.5: Islamismus-Ausstellung im Bezirk Reinickendorf zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Mehr Sicherheit in der Cite´Foch durch Videokameras - überwiesen
+- TOP 12.7: Lehrer-Krankenstand an Schulen - überwiesen
+- TOP 12.8: Merchandising von Reinickendorfer Ortsteil-Artikeln - überwiesen
+- TOP 12.9: Grundständiger naturwissenschaftlicher Zug an der Georg-Herwegh-Schule - überwiesen
+- TOP 12.10: Reinickendorf im Presseinformationsamt der Bundesregierung - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Telefonzellen auch mit Telefonkarten bedienen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Ringbuslinie in Konradshöhe und Heiligensee einrichten - überwiesen
+- TOP 12.13: Keine Besteuerung von über das Jugendamt vermittelten Tagesmüttern - vertagt
+- TOP 13: weitere nicht an Abgabefristen gebundene aktuell eingebrachte Tagesordnungspunkte - (offen)
+- TOP 13.1: Perspektiven für Reinickendorf ohne den Flughafen Tegel - beantwortet
+- TOP 13.1.1: Visionen statt Verfall - TXL-Gelände für die Zukunft gestalten - überwiesen
+- TOP 13.1.2: Perspektiven für Reinickendorf ohne den Flughafen Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 13.1.3: Erstellung von Stadtplanungs- und Wirtschaftskonzepten für die Nachnutzung des Flughafens Tegel - überwiesen
