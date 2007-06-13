@@ -1,0 +1,63 @@
+# 23. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-06-13T17:30:00+02:00
+- Ende: 2007-06-13T20:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5747
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5747
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00250386.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Ausländerbeirates
+- TOP 9: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2006 - einstimmig beschlossen
+- TOP 10: Verordnung zur Änderung der Gebührenordnung für Parkuhren und Parscheinautomaten im Gebiet der Stadt - einstimmig geändert beschlossen
+- TOP 11: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im November und Dezember - mehrheitlich geändert beschlossen
+- TOP 12: Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Eigentumsbildung - mehrheitlich beschlossen
+- TOP 13: Gründung der Stadtwerke Münster Neue Energie GmbH - einstimmig beschlossen
+- TOP 14: Veräußerung des städtischen Gesellschaftsanteils an der ICB-Institut für Chemo- und Biosensorik GmbH - einstimmig beschlossen
+- TOP 15: Veräußerung von Gesellschaftsanteilen an der ekz.bibliotheksservice GmbH (ekz) - einstimmig beschlossen
+- TOP 16: Erstes Münsteraner Zukunftsgespräch (08.09.2006) "Münster - Mit Wissen erfolgreich im Standortwettbe - einstimmig beschlossen
+- TOP 17: Bahnhofsquartier Münster - Durchführung vorbereitender Untersuchungen gemäß § 141 Baugesetzbuch - einstimmig geändert beschlossen
+- TOP 18: Vertragsverlängerung zur Überlassung des Städt. Preußenstadion an den SC Preußen 06 e. V. Münster - einstimmig beschlossen
+- TOP 19: Satzung zur Änderung der Satzung der Volkshochschule - einstimmig beschlossen
+- TOP 20: Betriebsträgerschaft für die dritte Kindertageseinrichtung im Neubaugebiet Gievenbeck-Südwest - mehrheitlich beschlossen
+- TOP 21: Kindertagesbetreuungsbericht 2007 - einstimmig beschlossen
+- TOP 22: Fortführung und Weiterentwicklung der Freiwilligenagentur Münster durch die Stiftung Siverdes - einstimmig beschlossen
+- TOP 23: 1. Änderung der Richtlinien der Stadt Münster zur finanziellen Förderung kommunaler Entwicklungszusa - einstimmig beschlossen
+- TOP 24: Jahresrechnungen und Jahresabschlüsse
+- TOP 24.1: Jahresrechnung 2006 der Stadt Münster - einstimmig beschlossen
+- TOP 24.2: Feststellung der Jahresabschlüsse der Stiftungen für das Wirtschaftsjahr 2006 - einstimmig beschlossen
+- TOP 24.3: Jahresabschluss des Wirtschaftsjahres 2006 der Klarastift Service GmbH - einstimmig beschlossen
+- TOP 24.4: Jahresabschluss des Wirtschaftsjahres 2006 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 25: Bauleitplanung
+- TOP 25.1: Stadtbezirk Münster-Mitte
+- TOP 25.1.1: Bebauungsplan Nr. 114 IV, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 25.2: Stadtbezirk Münster-West
+- TOP 25.2.1: 14. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 25.2.2: 3. Änderung des fortgeschriebenen Flächennutzungsplanes der Stadt Münster - einstimmig beschlossen
+- TOP 25.2.3: 1. Änderung des Bebauungsplanes Nr. 388: Nienberge - Gewerbegebiet Steinfurter Straße / - einstimmig beschlossen
+- TOP 25.3: Stadtbezirk Münster-Hiltrup
+- TOP 25.3.1: 27. Änderung des fortgeschriebenen Flächennutzungsplanes für den Bereich - mehrheitlich beschlossen
+- TOP 26: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 27: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 28: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 28.1: Leitlinien für Städteverbindungen entwickeln - verwiesen
+- TOP 28.2: Kostenbewusstsein bei öffentlichen Einrichtungen schaffen - verwiesen
+- TOP 28.3: Die Zukunft bauen auf verlässlicher Datenbasis - verwiesen
+- TOP 28.4: Münster für alle. Jugendarbeitslosigkeit zielgerichtet bekämpfen - Jugendliche unterstützen. - verwiesen
+- TOP 28.5: Freizeitbereich und Naturraum Aasee erhalten, Nutzung steuern: Masterplan Aasee 2020 aufstellen - verwiesen
+- TOP 28.6: Schloss Münster: Blickfeld bewahren und Rahmenplan erstellen - verwiesen
+- TOP 28.7: Hauptbahnhof Münster: Den Umbau gestalten - verwiesen
+- TOP 29: Verschiedenes
