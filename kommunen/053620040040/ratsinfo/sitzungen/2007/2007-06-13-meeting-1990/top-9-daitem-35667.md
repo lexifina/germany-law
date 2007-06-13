@@ -1,0 +1,6 @@
+# TOP 9.: Sachstand zum neuen Jugendzentrum - mündlicher Bericht
+
+- Sitzung: Jugendhilfeausschuss (17. Sitzung) (2007-06-13)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/35667
