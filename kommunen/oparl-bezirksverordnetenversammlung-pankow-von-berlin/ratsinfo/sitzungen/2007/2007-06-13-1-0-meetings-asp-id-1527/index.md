@@ -1,0 +1,77 @@
+# 7. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2007-06-13T17:30:00+02:00
+- Ende: 2007-06-13T22:47:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1527
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1527
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - erledigt
+- TOP 1.2: Geschäftliche Mitteilungen - erledigt
+- TOP 1.3: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Evangelische Friedhöfe entlang der Heinrich-Roller-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.4.2: Keine Kürzung bei den Hilfen zur Erziehung - ohne Änderungen in der BVV beschlossen
+- TOP 1.4.3: Aktuelle Probleme der Schulorganisation - ohne Änderungen in der BVV beschlossen
+- TOP 1.4.4: Schulstandort Senefelderstr. 6 - überwiesen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk 4 im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Neuwahlen der Betroffenenvertretungen - mit Änderungen in der BVV beschlossen
+- TOP 1.10: Keine Privatisierung von Straßen und Plätzen - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Erst prüfen, dann entscheiden! - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: 100 Bäume für Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Soziales und ökologisches Bauen durch Baugruppen fördern - Block 001 im Sanierungsgebiet Teutoburger Platz (Liegenschaftsfonds) - mit Änderungen in der BVV beschlossen
+- TOP 1.14: Soziales und ökologisches Baue1n durch Baugruppen fördern - Pilotprojekt Werneuchener Wiese (Fläche im Eigentum des Bezirks) - vertagt
+- TOP 1.15: Denkmalschutzbericht erstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Beschilderung der Bezirksamtsgebäude endlich an Bezirksnamen anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Kabelloser Zugang zum Internet - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Nachhaltige Verkehrslösung für Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Fortführung der Arbeit für Weltoffenheit und gegen Rechtsradikalismus, Rassismus und Antisemitismus unter geänderten Rahmenbedingungen - beantwortet
+- TOP 1.20: Vernachlässigungen erkennen - Lehrer unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Grundstück Prenzlauer Allee 242 - 247 (Bötzow-Brauerei) - Baugenehmigung für Mega-Einkaufszentrum erteilt? - beantwortet
+- TOP 1.22: Fortschreibung Sportentwicklungsplan - überwiesen
+- TOP 1.23: U-Bahnhof Rosa-Luxemburg-Platz - überwiesen
+- TOP 1.24: Schwachstellen im "Netzwerk Kinderschutz" schnell schließen - überwiesen
+- TOP 1.25: Errichtung einer Straßenbahnhaltestelle in der Buschallee auf der Linie M4 Richtung Hackescher Markt - überwiesen
+- TOP 1.26: Bezirkseigene Fahrzeuge in der Umweltzone - überwiesen
+- TOP 1.27: Kinderschutz - überwiesen
+- TOP 1.28: Schäden an öffentlichen Einrichtungen durch Graffiti und Vandalismus - überwiesen
+- TOP 1.29: Barrierefreier Zugang zum Schloss Schönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Verbesserung der Bedingungen des Fahrradfahrens in der Kastanienallee - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Handwerk nicht im Innenstadtring ausschließen - überwiesen
+- TOP 1.32: Sichtbare Öffnungszeiten an Sport- und Freizeitstätten - überwiesen
+- TOP 1.33: Grüner Pfeil in Pankow zur Reduzierung der Umweltbelastung - in der BVV abgelehnt
+- TOP 1.34: Renaturierung des Wilhelmsruher Sees - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Bezirks- und Ortsteilsatlas der Polizeilichen Kriminalitätsstatistik - in der BVV abgelehnt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - vertagt
+- TOP 2.1.1: Expertise von Nichtregierungsorganisationen im Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - vertagt
+- TOP 2.2: Schloss Schönhausen retten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Tourismusmarketingkonzept für den Bezirk Pankow - vertagt
+- TOP 2.4: Bezirksamtsbeschlüsse und Auswirkungen für MigrantInnen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Stellplätze für Car-Sharing-Unternehmen in Sanierungsgebieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Fortschreibung des Freizeitstättenentwicklungsplanes Pankow von Berlin - vertagt
+- TOP 2.7: Änderung der Sanierungsziele im Sanierungsgebiet Teutoburger Platz Schwedter Straße 37-40 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Schallschutz Damerowstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Ampelanlage Pistoriusstraße Ecke Am Steinberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Gestaltung der Besprechungsräume Nr. 227 im Haus 6 und Nr. 411 im Haus 9 - vertagt
+- TOP 2.11: Fortführung der Stadterneuerung im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Verbesserung des öffentlichen Raumes in den Sanierungsgebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Telefonanschlüsse - vertagt
+- TOP 2.14: Wahlplakatierung - saubere Laternen nach der Wahl - vertagt
+- TOP 2.15: Orientierung mit Plan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Benennung einer privaten Erschließungsstraße im OT Karow in Gatterweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Änderung der Sanierungsziele im Sanierungsgebiet Teutoburger Platz Grundstück: Schwedter Straße 37 - 40 im Block 110 003 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Benennung der Straße 110 im Ortsteil Wilhelmsruh in Siegfried-Baruch-Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Präzisierung der Sanierungsziele für den öffentlichen Straßenraum und Verkehr für die Sanierungsgebiete Teutoburger Platz, Helmholtzplatz, Kollwitzplatz, Winsstraße und Bötzowstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Festsetzung von Eckwerten für die Aufstellung des Doppelhaushaltsplanes 2008/2009 des Bezirks Pankow von Berlin - vertagt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
