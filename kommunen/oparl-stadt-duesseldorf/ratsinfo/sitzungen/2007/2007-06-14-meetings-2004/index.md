@@ -1,0 +1,88 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-06-14T14:00:00+02:00
+- Ende: 2007-06-14T21:52:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2004
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2004
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155559.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155559.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155559.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Anfr. aktuell:Bü90/Grü: Taxistand - zur Kenntnis genommen
+- TOP 5: Anfragen - zur Kenntnis genommen
+- TOP 6: Anfrage d. SPD-Rfr. - Griechische Schule - zur Kenntnis genommen
+- TOP 7: hier: Altersdiskriminierung entgegentreten - zur Kenntnis genommen
+- TOP 8: ??? - zur Kenntnis genommen
+- TOP 9: Anfrage Bü90/Grü: Energiesparmaßnahmen - zur Kenntnis genommen
+- TOP 10: Anfrage d. Rh. Scheffler::Masterplan Schulen - zur Kenntnis genommen
+- TOP 11: Anfr. CDU: KiBiz - zur Kenntnis genommen
+- TOP 12: Anfr. CDU: KiBiz - zur Kenntnis genommen
+- TOP 13: Anfrage Rfr. Frey: Kinderarmut in Düsseldorf - zur Kenntnis genommen
+- TOP 14: Anfrage Rfr.v.Ahlefeld: Zukunft der ZAB D`dorf - zur Kenntnis genommen
+- TOP 15: Anfr. Kahl: Kiefernstraße - zur Kenntnis genommen
+- TOP 16: Anfr. Kahl: VRR - zur Kenntnis genommen
+- TOP 17: Anfr. Lbbg: Bleiberecht - zur Kenntnis genommen
+- TOP 18: Anfrage RH Czerwinski - Bauen im Landschaftsschutz - zur Kenntnis genommen
+- TOP 19: Anfrage Rfr. Deilmann: Pfad der Erinnerung - zur Kenntnis genommen
+- TOP 20: Interfraktioneller Antrag: Bürgerhaus Gerresheim - einstimmig beschlossen
+- TOP 21: BV7: Bürgerhaus Gerresheim - zur Kenntnis genommen
+- TOP 22: BV 2: LEG-Wohnungen - mehrheitlich abgelehnt
+- TOP 23: BV8: LEG-Wohnungen - mehrheitlich abgelehnt
+- TOP 24: SSK: Jahresabschluss 2006 - mehrheitlich beschlossen
+- TOP 25: Bericht zur Umsetzung des Frauenförderplanes - einstimmig beschlossen
+- TOP 26: Anträge - zur Kenntnis genommen
+- TOP 27: Antr. SPD-Bü90: Wohnen im Alter - zur Kenntnis genommen
+- TOP 28: Interfr. Antr.: Wohnen im Alter - einstimmig beschlossen
+- TOP 29: Antr. SPD: Richtlinien Personalwirtschaft - verwiesen
+- TOP 30: Antr. Bü90/Grü: Beirat f. die zuk. Sana Kliniken - zur Kenntnis genommen
+- TOP 31: Interfr. Antrag: Einr. eines Beirats Sana-Kliniken - einstimmig beschlossen
+- TOP 32: Antr. Bü90: Energieeffizientes Bauen - zur Kenntnis genommen
+- TOP 33: Ändantr. CDU-FDP: Leitlinien Bauen - zur Kenntnis genommen
+- TOP 34: Antrag Bü90/Grü:Städtefreundschaft u. Bürgerrechte - mehrheitlich abgelehnt
+- TOP 35: Jugendparlament - einstimmig beschlossen
+- TOP 36: Änd.antr. CDU-FDP: JuPa - mehrheitlich beschlossen
+- TOP 37: Kämmererliste 2007 - mehrheitlich beschlossen
+- TOP 38: Bürodienstgebäude Neusser Tor 4-12 - einstimmig beschlossen
+- TOP 39: Förderung Betriebskosten Kita Einbrungerstraße 60 - einstimmig beschlossen
+- TOP 40: üpl.Mittel für die Maßnahme der Fa. Henkel - einstimmig beschlossen
+- TOP 41: Stiftung Pro Sport Düsseldorf - mehrheitlich beschlossen
+- TOP 42: Lore-Lorentz-Schule, Berufskolleg, Schlossallee 1 - einstimmig beschlossen
+- TOP 43: Marie-Curie-Gymnasium, Gräulinger Str. 15, Erweite - einstimmig beschlossen
+- TOP 44: Sanierung Eckener Str. 1 und Einbau eines Behinder - einstimmig beschlossen
+- TOP 45: Sanierung der Deutschen Oper am Rhein, Mehrkostenb - mehrheitlich beschlossen
+- TOP 46: Brandschutz-u.Sicherheitskonzept Rheinalleetunnel - einstimmig beschlossen
+- TOP 47: Abbau alte Verkehrsrechner/Erneuerung Steuergeräte - mehrheitlich beschlossen
+- TOP 48: Verbesserung Leistungsfähigkeit Grafenberger Allee - einstimmig beschlossen
+- TOP 49: Lärmschutzwall Auf´m Wettsche- Bau- und Finanzieru - mehrheitlich beschlossen
+- TOP 50: Annahme einer Schenkung für das Stadtmuseum - einstimmig beschlossen
+- TOP 51: Umbesetzung von Ausschüssen - einstimmig beschlossen
+- TOP 52: Kuratorium der Stiftung "Kunstsammlung NRW" - einstimmig beschlossen
+- TOP 53: Gutachtergremium für Entschädigungen beim U-Bahn-B - einstimmig beschlossen
+- TOP 54: Verbandsversammlung des Zweckverb. UB-See - einstimmig beschlossen
+- TOP 55: AR der zukünftigen Sana Kliniken - mehrheitlich beschlossen
+- TOP 56: Ersatzwahl stv. Mitgliedes JHA - einstimmig beschlossen
+- TOP 57: BV 1: Kö-Bogen - mehrheitlich abgelehnt
+- TOP 58: Gen. 60er- Verkausoffene Sonntage - mehrheitlich beschlossen
+- TOP 59: Freigabe verkaufsoffener Sonntage 2007-Neufassung - mehrheitlich beschlossen
+- TOP 60: Freigabe eines verkaufsoffenen Sonntags a.28.10.07 - mehrheitlich beschlossen
+- TOP 61: Fortschreibung des Rettungsdienstbedarfsplans - mehrheitlich beschlossen
+- TOP 62: GGS Mettmanner Straße - mehrheitlich beschlossen
+- TOP 63: Schulorganisatorische Maßnahmen - einstimmig beschlossen
+- TOP 64: Verleihung der Förderpreise für bildende Kunst, Mu - einstimmig beschlossen
+- TOP 65: Verleihung des Förderpreises für Wissenschaften 20 - einstimmig beschlossen
+- TOP 66: Bericht des Instituts für Denkmalschutz und Denkma - einstimmig beschlossen
+- TOP 67: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 68: Plan Nr. 6076/035 - Östlich Heyestr. - einstimmig beschlossen
+- TOP 69: FNPÄ31-Nachden Mauresköthen-Stell.Plan - einstimmig beschlossen
+- TOP 70: B-Plan-Entwurf Nr. 5281/043 - Blumenviertel - einstimmig beschlossen
+- TOP 71: B-Plan Nr. 5680/053 - Nördlich Vogelsanger - Satz. - einstimmig beschlossen
