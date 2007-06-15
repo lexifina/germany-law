@@ -1,0 +1,58 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2007-06-15T16:05:00+02:00
+- Ende: 2007-06-15T21:28:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/442
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/442
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Bericht über das Verfahren der Stadt Neuss gegen die Kreiswerke Neuss
+- TOP 3: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 4: Moderatorenverfahren statt Klagen gegen den Flughafen (RAT150607-05405.doc)
+- TOP 5: Genehmigung der Tagesordnung
+- TOP 6: Fusion der KDVZ-Neuss mit den IT-Bereichen der Städte Düsseldorf und Mönchengladbach (HA250407-05115.doc)
+- TOP 7: Fortschreibung des Frauenförderplanes (PA170407-05068.doc)
+- TOP 8: Kostenoptimierung im SWN - Busliniennetz
+- TOP 9: Wirtschaftsplan GMN 2007
+- TOP 10: Gewährung von Zuschüssen an die politischen Jugendorganisationen in 2007 (HA060607-05330)
+- TOP 11: Umbau Zufuhrstraße
+- TOP 12: Flächennutzungsplanänderung Nr. 112 - Pomona, Konrad-Adenauer-Ring (Sondergebiet Elektro-, Sport- und Schuhfachmarkt) - - Auslegungsbeschluss
+- TOP 13: Vorhaben- und Erschließungsplan Nr. V110/8 - Pomona, Konrad-Adenauer-Ring / Holzheimer Weg (Elektrofachmarkt, Fachmarkt für Sportartikel und Schuhe sowie Büros) -(Vorhaben bezogener Bebauungsplan) - Auslegungsbeschluss
+- TOP 14: Abschlußbericht zur Neukonzeption der Straßenreinigung (AUG020507-05171.doc)
+- TOP 15: Beratung Haushaltplanes 2007
+- TOP 16: Erschließung Stichstraße Vossenacker Straße, B-Plan 436 (Straßenbau, Beleuchtung) –Planvorlage, Ausbauprogramm- (BA310507-05193.doc)
+- TOP 17: Erneuerung der Schmutz- und Regenwasserkanäle Jahnstraße (BA310507-05218.doc)
+- TOP 18: Grunderneuerung Jahnstraße (Straßenbau, Beleuchtung) –Planvorlage, Ausbauprogramm- (BA310507-05220.doc)
+- TOP 19: Einwohnerfragestunde
+- TOP 20: Änderung des Bebauungsplans Nr. 415 - Holzheim, Museum Insel Hombroich / Bergerweg / ehemalige Raketenstation - - Grundsatzbeschluss
+- TOP 21: Kinderspielplatzprogramm 2007 - Ausbauplanungen (UK260407-05095.doc)
+- TOP 22: Bebauungsplan Nr. 143/6 - Gnadental, Pfarrkirche St. Konrad - - Grundsatzbeschluss
+- TOP 23: Familienzentren (JHA150507-05163.doc)
+- TOP 24: AWO-Wohnanlage Adolfstraße
+- TOP 25: Antrag auf Aufstellung eines Bebauungsplans zur Sicherung einer Betriebszufahrt von der Bergheimer Straße (B477)
+- TOP 26: Städtepartnerschaft mit einer türkischen Stadt (IR050607-05336-NEU.doc)
+- TOP 27: Wirtschaftsplan Stadtentwässerung 2007
+- TOP 28: Haushaltssatzung 2007
+- TOP 29: Änderung der Rechtsverordnung über die Bildung von Schulbezirken für die öffentlichen Grundschulen vom 13.09.1968, zuletzt geändert durch die Rechtsverordnung vom 20.10.2006 (SCH150507-05249.doc)
+- TOP 30: offene Ganztagsschule hier: Planungen und Kostenschätzungen für erforderliche Erweiterungs-, Umbau- und Einrichtungsmaßnahmen (SCH150507-05271.doc)
+- TOP 31: Dienstreisegenehmigung für die Teilnahme an der Seniorenbegegnung im Rahmen der Städtepartnerschaft Rijeka-Neuss (RAT150607-05378.doc)
+- TOP 32: Erschließung Vossenacker Straße, B-Plan 436 (Kanalbau) – Planvorlage, Ausbauprogramm - (BA310507-05268.doc)
+- TOP 33: Tagesbetreuung von unter 3jährigen Kindern - Elternbefragung (RAT150607-05377.doc)
+- TOP 34: Rücknahme des Ratsbeschlusses vom 11.05.07 bezüglich der städtebaulichen Entwicklung im Bereich Kastellstraße und Glockhammer (RAT150507-05396.doc)
+- TOP 35: Raumprogramm Kindertagesstätte, Jugendeinrichtung und Schule in Allerheiligen (JHA150507-05097-Allerheiligen.doc)
+- TOP 36: Straßenbahn im Hauptstraßenzug (RAT150607-05400.doc)
+- TOP 37: Neuregelung der Ausgabe Schwimmkarten (JHA150507-05199.doc)
+- TOP 38: Benutzungsordnung für Schulhöfe der Stadt Neuss vom 12.11.1997 (SCH200307-05027)
+- TOP 39: Änderung der Benutzungsordnung des Clemens-Sels-Museums und der Satzung für die Gebühren bestimmter Nutzungen des Stadtarchivs hier: Anpassung der Entgelte ab 01.09.2007
+- TOP 40: Sanierung des Hauptstraßenzuges (Rat150607-05399.doc)
+- TOP 41: Einwohnerfragestunde
+- TOP 42: Bericht der Verwaltung über die Ansiedlung/Umgestaltung von Einkaufszentren in Neuss
+- TOP 43: Änderung der Satzung der Volkshochschule
+- TOP 44: Hearing zur Werbung an Neusser Schulen der Sekundarstufen I und II (RAT150607-05397.doc)
