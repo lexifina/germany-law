@@ -1,0 +1,57 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-06-15T14:00:00+02:00
+- Ende: 2007-06-15T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2109
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2109
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096759.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096759.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096759.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift - zur Kenntnis genommen
+- TOP 4: Zulassung Sachverständige - zur Kenntnis genommen
+- TOP 5: Schinkelstraße - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Verkehrliche Erschließung des B-Planes Nr. 5479/67 - einstimmig beschlossen
+- TOP 9: Umbau der Tersteegenstr. im Stadtteil Golzheim - einstimmig beschlossen
+- TOP 10: Änderung Baumart Derendorfer Allee - mehrheitlich beschlossen
+- TOP 11: Sachstandsbericht Ort des Gedenkens auf dem ehemal - zur Kenntnis genommen
+- TOP 12: Schulorganisatorische Maßnahmen - zur Kenntnis genommen
+- TOP 13: Freigabe eines verkaufsoffenen Sonntags a.28.10.07 - mehrheitlich beschlossen
+- TOP 14: Adolf-von-Vagedes-Platz - einstimmig beschlossen
+- TOP 15: Feldstraße - einstimmig beschlossen
+- TOP 16: Collenbachstraße - einstimmig beschlossen
+- TOP 17: Wielandstraße - einstimmig beschlossen
+- TOP 18: Fahrbahnbelag auf der Mauerstraße - einstimmig beschlossen
+- TOP 19: Parkplatzmarkierung Mauerstraße, Baumpflanzung - einstimmig beschlossen
+- TOP 20: Parkplatzsituation auf der Münsterstraße - einstimmig beschlossen
+- TOP 21: Umgestaltung des Münsterplatzes - einstimmig beschlossen
+- TOP 22: Bau der Wehrhahnlinie - Zeitplan - - einstimmig beschlossen
+- TOP 23: Sanierung ehemaliges Palais des Regierungspräs. - einstimmig beschlossen
+- TOP 24: Grabbeplatz - einstimmig beschlossen
+- TOP 25: Bänke im Rheinpark - einstimmig beschlossen
+- TOP 26: Robert Schumann Konservatorium - einstimmig beschlossen
+- TOP 27: Werbeanlagen - zur Kenntnis genommen
+- TOP 28: Fahrradständer am KIT - einstimmig beschlossen
+- TOP 29: Containerstandort Golzheimer Straße - zur Kenntnis genommen
+- TOP 30: Zaunreparatur Nordfriedhof - einstimmig beschlossen
+- TOP 31: Derendorfer Straße - mehrheitlich abgelehnt
+- TOP 32: Jahresempfgang der Bezirksvertretung 1 - einstimmig beschlossen
+- TOP 33: Ehrenauszeichnung der Bezirksvertretung 1 - einstimmig beschlossen
+- TOP 34: Ehrenauszeichnung der Bezirksvertretung 1 - einstimmig beschlossen
+- TOP 35: Pfosten unter dem Tausendfüßler - zur Kenntnis genommen
+- TOP 36: Schwanenhaus im Hofgarten - zur Kenntnis genommen
+- TOP 37: "Golzheimer Höfe" Anwohnerparken - zur Kenntnis genommen
+- TOP 38: Altenheim - bzw. Seniorenplätze - zur Kenntnis genommen
+- TOP 39: Vorgartensatzung - zur Kenntnis genommen
+- TOP 40: Mitteilungen der Verwaltung - zur Kenntnis genommen
