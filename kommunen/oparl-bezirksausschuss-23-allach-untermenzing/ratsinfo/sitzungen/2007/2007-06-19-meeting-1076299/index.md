@@ -1,0 +1,83 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2007-06-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1076299
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1076299
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Tempo 30 im Bereich der Allacherstr. zwischen Von-Reuther-Str. bis Walter-Otto-Str.
+- TOP 1.2.: Neubauvorhaben Korbinan-Beer-/ Peter-Winter-/ Rueßstr.
+- TOP 1.3.: Biotope Allacher Forst
+- TOP 1.4.: Ambulante Alten- und Krankenpflege
+- TOP 1.5.: Kneippbecken an der Servetstr.
+- TOP 1.6.: Parkregelung in der Angerlohstraße; Aufhebung der bestehenden Einschränkung nördlich Hortigstraße
+- TOP 2: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: Antrag auf Zuschuss aus dem Budget in Höhe von 16.781 Euro für die Sanierung des Schwimmbeckens; Antragsteller: Bad Allach gemeinnützige AG
+- TOP 4.2.: Antrag auf Zuschuss aus dem Budget in Höhe von 632 Euro für Straßenfest am 28.07.07; Antragsteller: Anwohnergemeinschaft Auenbruggerstraße
+- TOP 4.3.: (E) Straßenbenennung im 23. Stadtbezirk Allach-Untermenzing Auerhahnweg Buntspechtweg
+- TOP 5: Anhörungen
+- TOP 5.1.: Veranstaltung auf Privatgrund, Hier: Geschicklichkeitsturnier, Dachauer Str. 665 am 15.07.07
+- TOP 5.2.: Theodor-Fischer-Straße; Zeichen 283 StVO
+- TOP 5.3.: Prof.-Eichmann-Straße, gemeinsamer Rad- und Gehweg
+- TOP 5.4.: Straßenfest der Anwohnergemeinschaft Auenbruggerstraße am 28.07.07
+- TOP 5.5.: Elly-Staegmeyr-Str. 7: Neubau eines Lebensmittelmarktes mit KFZ-Stellplätzen
+- TOP 6: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8: Schreiben des Direktoriums
+- TOP 8.1.: Änderung der Gemeindeordnung, Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 8.2.: Zuwendung aus dem Budget der Bezirksausschüsse Anträge vom 15.03.07 des Vereins Kultur notiert e.V. negative Vorlage des Direktoriums
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Untermenzing - Fahrradabstellanlage
+- TOP 9.2.: Sachstand Spielplatz Megerlestr./Freseniusstr.
+- TOP 9.3.: Aufstellung von Hundekot-Tütenspendern im Stadtbezirk 23 Allach-Untermenzing
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Tempo 30 Allacher Str. 231
+- TOP 10.2.: Anmeldung eines Aufzuges; hier: Protestkundgebung zur Eröffnung des Allacher Sommerbades durch den Oberbürgermeister der Landeshauptstadt München
+- TOP 10.3.: Gaststätte "Sicilia", Eversbuschstr. 129 a; Antrag auf Neuerrichtung (Umwandlung eines Ladengeschäftes in eine Gaststätte)
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Bauanträge (v. 30.04.-06.05.07, 07.05-13.05.07, 14.05.-20.05.07, 21.05.-28.05.07, 29.05.-03.06.07)
+- TOP 11.2.: Liste der beantragten Baumfällungen (v. 30.04.-06.05.07, 07.05.-13.05.07, 14.05.-20.05.07, 21.05.-28.05.07, 29.05.-03.06.07)
+- TOP 11.3.: Vollzug der BaumschutzVO - Am Lochholz 17 s. Baumbest.plan Nr. 50447 - Dachauer Str. 667 s. Baumbest.plan Nr. 50846 - Waldhornstr. 28 s. Baumbest.plan Nr. 52581 - Von-Kahr-Str. 87 s. Baumbest.plan Nr. 52210 - Haldenbergstr. 49 s. Baumbest.plan Nr. 55338 - Ganzenmüllerstr. 37 s. Baumbest.plan Nr. 55804 - Ganzenmüllerstr. 37 s. Baumbest.plan Nr. 55806 - Dachauer Str. 667 s. Baumbest.plan Nr. 55848
+- TOP 11.4.: Informationsveranstaltung für Bezirksausschüsse
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 12.1.: Mitteilung über ein Grunstücksgeschäft, Ludwigsfelder Str.
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Ernst-Häckel-Str. 92
+- TOP 14.2.: Daten Kinderkrippen; Stand: 01.06.2007
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Vollzug der Wassergesetze; Tauchen mit Atemgerät im Langwieder See, hier: Allgemeinverfügung vom 30.05.2007
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 17.1.: 6. Jour Fixe Bezirksausschüsse, Protokoll der Sitzung vom 10.05.07
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 21 Pasing-Obermenzing: - Ankündigung der Bürgerversammlung des 21. Stadtbezirkes Pasing-Obermenzing am 03.05.07 in der Rathaus Umschau - Abbiegebeziehung / Einfahrt von der Megerle- in die Freseniusstraße; Bauliche Veränderung zur Unterstützung der Forderung nach Geschwindigkeitsbeschränkung auf Tempo 30 km/h im Umfeld des Spielplatzes an der Megerle-/Freseniusstraße - Naherholungsgebiet "Langwieder Seen", Fuß- und Radwegerschließung, Route 2 (Paul-Ehrlich-Weg - Müllerstadelstraße)
+- TOP 20.2.: BA 1 Altstadt-Lehel: Übertragung von laufenden Angelegenheiten des Oberbürgermeisters auf die BAs
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Ausschuss für Stadtplanung und Bauordnung vom 25.04.07 - Wohnen in München, III - Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 Ergebnisse der fachanwaltlichen Prüfung
+- TOP 22.2.: Bauausschuss vom 26.04.07 - Naherholungsgebiet "Langwieder Seen" Fuß- und Radwegerschließung Route 2 (Paul-Ehrlich-Weg - Müllerstadelstraße
+- TOP 22.3.: Verwaltungs- und Personalausschuss vom 02.05.07 - Phantomanträge im Bezirksausschuss 6
+- TOP 22.4.: Kinder- und Jugendhilfeausschuss vom 15.05.07 - Entwurf des Mehrjahresinvestitionsprogramms (MIP) 2007-2011 Einzelplan 4/ Jugendamtsbereich - Mehrjahresinvestitionsprogramm (MIP) 2007-2011
+- TOP 22.5.: Schulausschuss vom 16.05.07 - Mehrjahresinvestitionsprogramm (MIP) 2007 - 2011
+- TOP 22.6.: Ausschuss für Stadtplanung und Bauordnung vom 16.05.07 - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2007-2011 - Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 Ergebnisse der fachanwaltlichen Prüfung - Mehrjahresinvestitionsprogramm 2007-2011; div. Gliederungsziffern
+- TOP 22.7.: Schulausschuss vom 19.06.07: Mehrjahresinvestitionsprogramm (MIP) 2007-2011, 1. Investitionsmaßnahmen für Sportanlagen, 2. Stellungnahmen der Bezirksausschüsse
+- TOP 22.8.: Umweltausschuss vom 26.06.07: Tauchen im Langwieder See
+- TOP 23: Verschiedenes
+- TOP 23.1.: Grundstückssuche für Waldkindergarten
+- TOP 23.2.: Aktion Münchner Fahrgäste
