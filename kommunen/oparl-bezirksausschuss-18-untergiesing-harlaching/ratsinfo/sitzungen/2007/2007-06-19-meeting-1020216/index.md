@@ -1,0 +1,105 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2007-06-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1020216
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1020216
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Ampelschaltung Kreuzung Südtiroler- / Grünwalderstraße; Bürgerschreiben vom 07.05.2007 - <div>Weiterleitung KVR; Zwischennachricht Bürger</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Verein zur Erhaltung und Pflege des Perlacher-Grünwalder Forstes e.V., für die Maßnahme: Waldfest am 30.06.2007; Antragssumme: 1.000,-- ?; Beschlussvorlage des Direktoriums vom 27.04.2007 - <div>einstimmig zugestimmt</div>
+- TOP 3.2.: AntragstellerIn: ÖAG 17/18 c/o Regsam, für die Maßnahme: Rahmenkonzept zur häuslichen Versorgung; Antragssumme: 3.860,-- ?; Beschlussvorlage des Direktoriums vom 04.05.2007 - <div>mehrheitlich zugestimmt</div>
+- TOP 3.3.: AntragstellerIn: Kultur notiert e.V., für die Maßnahme: Druck einer stadtweiten Zeitung; Antragssumme: 300,-- ?; Beschlussvorlage des Direktoriums vom 02.05.2007 zu TOP 3.1.2.5 Zuleitung der ausstehenden Unterlagen des Vereins Kultur notiert e.V. durch das Direktorium vom 08.05.2007 - <div>einstimmig abgelehnt (siehe Beschussempfehlung Direktorium)</div>
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellIn: Münchner Konzertchor e. V.; für die Maßnahme: Konzert in der Emmauskirche am 11.11.2007; Antragssumme: 1.250.- ?; Antrag vom 25.01.2007 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: AntragstellerIn: TSV Turnerbund e. V.; für die Maßnahme: Feier zum 125-jährigen Bestehen vom 29.06. bis 01.07.2007; Antrassumme: 7.741,50 ?; Antrag vom 07.05.2007 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: AntragstellerIn: Haus an der Pistorinistraße; für die Maßnahme: Projekt "Jacke wie Hose", Einrichtung einer Verkaufsstelle für günstige Gebrauchtkleidung für Einrichtungbewohner und BewohnerInnen des Stadtteils; Antragssumme: 6.500.- ?; Antrag vom 22.05.2007 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Verwendungsnachweis des KJT Wettersteinplatz für die Aktion: Transport- und Montagekosten Container; Zuleitung des Direktoriums vom 03.05.2007 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Aufstellung von Hundekot-Tütenspendern im Stadtbezirk 18 - Untergiesing-Harlaching; Schreiben des Baureferates - Gartenbau vom 15.05.2007 mit der Bitte um Rückmeldung bis Mitte Juni 2007 - <div>Vorschläge werden gesammelt an die BA-G weitergegeben</div>
+- TOP 3.2.: Isar-Plan; Verbesserung des Hochwasserschutzes und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung zwischen südlicher Stadtgrenze und Corneliusbrücke in München; hier: Planungsabschnitt III, Abschnitt Mitte Los I im Bereich der Wittelsbacher Brücke, Plangenehmigung im Rahmen des Wasserrechtsverfahrens; Zuleitung des Wasserwirtschaftsamts München vom 09.05.2007 mit der Bitte um Stellungnahme - <div>einstimmig zugestimmt</div>
+- TOP 3.1.: Unterstützung des Abfallwirtschaftsbetriebes München für die "Ramadama"-Aktion im 18. Stadtbezirk; Zwischennachricht des Abfallwirtschaftsbetriebes vom 22.05.2007 - <div>zur Kenntnis genommen; UA legt Termin auf Ende September</div>
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Bauschutzverordnung 3.3.6.1.1 Anwesen in der Reisacherstraße; Bescheinigung vom 08.05.2007 - <div>zur Kenntnis genommen </div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Beschlussvorlage für den Schulausschuss vom 27.06.2007 (Neubau Kooperationseinrichtung Säbener Straße mit 4 Kindergarten- und 4 Kinderkrippengruppen); Zuleitung des Schul- und Kultusreferates vom 18.05.2007 mit der Bitte um Behandlung am 19.06.2007 und Stellungnahme - <div>einstimmig zugestimmt und Nachfrage beim Schul- u. Kultusreferat wegen der Finanzierung</div>
+- TOP 3.1.: Entwurf des Mehrjahresinvestitionsprogramms (MIP) 2007 - 2011; Einzelplan 4 / Jugendamtsbereich; Beschluss des Kinder- und Jugendhilfeausschusses vom 15.05.2007 (VB) - <div>zur Kenntnis genommen </div>
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Verkauf einer städtischen Immobilie; Anhörung des Bezirksausschusses gemäß § 3 der Bezirksausschusssatzung; Karolingerallee / Ecke Haselburgstraße; Zuleitung des Kommalreferats vom 15.05.2007 mit der Bitte um Stellungnahme innerhalb von 6 Wochen - <div>mehrheitlich abgelehnt</div>
+- TOP 3.2.: Anhörungen zu Bauvorhaben 3.5.4.2.1 Anwesen in der Harlachinger Straße (Umbau u. Erweiterung der Orthopädischen Klinik); Anhörung vom 21.05.07 3.5.4.2.2 Anwesen in der Säbener Straße (Neubau einer städtischen Sportanlage mit Kunstrasenplatz); Anhörung vom 21.05.2007 3.5.4.2.3 Anwesen in der Harthauser Str. (Neubau von Wohngebäuden); Anhörung vom 21.05.07 - <div>siehe Protokoll</div>
+- TOP 3.3.: Baumbestandspläne 3.5.4.3.1 Anwesen in der Prößlstraße; Anhörung vom 30.05.2007 - <div>einstimmig abgelehnt</div>
+- TOP 3.1.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2007 - 2011; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.05.2007 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Mehrjahresinvestitionsprogramm für die Jahre 2007 - 2011 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Stellungnahme zu den Anträgen der Bezirksausschüsse 4, 9, 10, 11, 21 und 23; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.05.2007 (VB) - <div>zur Kenntnis genommen </div>
+- TOP 3.3.: Baufälle im 18. Stadtbezirk - <div>einzelne BV werden angefordert</div>
+- TOP 3.4.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.4.1 SSW "zum Schönhof"; Schönstraße; Mitteilung vom 03.05.07
+- TOP 3.5.: Verbot der Zweckentfremdung von Wohnraum; Antrag auf Genehmigung einer Nutzungsänderung im Anwesen Pilgersheimer Str. für die Erweiterung des Sozialpsychiatrischen Dienstes Giesing; Beschluss des Sozialausschusses vom 19.04.2007 - <div>zur Kenntnis genommen </div>
+- TOP 3.6.: Unterrichtungen durch das Sozialreferat, Amt für Wohnen und Migration, im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum 3.5.6.6.1 Anwesen in der Meraner Straße; Mitteilung vom 14.05.2007 3.5.6.6.2 Anwesen im Münchner-Kindl-Weg; Mitteilung vom 04.06.2007 - <div>zur Kenntnis genommen </div>
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Pflege der Erinnerung an Thomas Wimmer; Anbringung einer Gedenktafel am Hause Bruggspergerstraße; Az. H55 wer-wimm; Schreiben des Baureferats vom 29.05.2007 mit der Bitte um Rückäußerung - <div>einstimmig zugestimmt</div>
+- TOP 3.1.: Kultur im Stadtquartier, Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen, Evaluierung kultureller Zentren, Kulturelle Zentren und Stadtteilwochen, Gesamtkonzept für die stadtteilkulturellen Einrichtungen; Neufassung des Beschlusses - <div>zur Kenntnis genommen</div>
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Phantomanträge im Bezirksausschuss 6; Beschluss des Verwaltungs- und Personalausschusses vom 02.05.2007 (SB) - <div>Nichtbefassung</div>
+- TOP 4.2.: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung; Az.: D-HA II/ V 1 1150/540-07/4; Schreiben des Direktoriums vom 02.05.2007 - <div>zur Kenntnis genommen</div>
+- TOP 4.3.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006, Ergebnisse der fach-anwaltlichen Prüfung; Sitzungsvorlage Nr. 02-08 / V 09840; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.05.2007 - <div>zur Kenntnis genommen</div>
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
