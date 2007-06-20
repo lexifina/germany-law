@@ -1,0 +1,7 @@
+# TOP 9.4.: Hotelprojekt an der Lerchenauerstraße, U- und Busbahnhof Olympiazentrum (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.05.2007)
+
+- Sitzung: BA 11 - Vollgremium (2007-06-20)
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/87864
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/87864
