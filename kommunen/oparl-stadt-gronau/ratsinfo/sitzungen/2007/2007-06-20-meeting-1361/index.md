@@ -1,0 +1,57 @@
+# Rat (27. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2007-06-20T17:00:00+02:00
+- Ende: 2007-06-20T21:25:00+02:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeLk8foKqPdlJ4dHWC8vnd0
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1361
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVNDgK4oLKHT6QcMqHpLg9rUEMe7SdSFkpM8kOBUeV5q/Bekanntmachung_Rat_20.06.2007.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfttKCOO9rHn5lfYVm1-GR-60-4VJORejTjH4LW1weMV/Oeffentliche_Niederschrift_Rat_20.06.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 23.05.2007
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Neubau der Sparkasse Epe - 22 Jastimmen, 12 Neinstimmen, 2 Enthaltungen
+- TOP 3.2: Beschluss einer Baum- und innerstädtischen Klimaschutzsatzung; Antrag der SPD-Fraktion vom 07.06.2007 - 34 Jastimmen, 3 Neinstimmen, 1 Enthaltungen
+- TOP 3.3: Initiativantrag an die NRW-Landesregierung zur Nutzung der Weißen Dame; Antrag der SPD-Fraktion vom 07.06.2007 - 5 Jastimmen, 31 Neinstimmen, 1 Enthaltungen
+- TOP 4.: Zukünftige Organisation in den Bereichen Tourismus, Kultur und Stadtmarketing - 3 Jastimmen, 31 Neinstimmen, 4 Enthaltungen
+- TOP 4.1: Zukünftige Organisation in den Bereichen Tourismus, Kultur und Stadtmarketing
+- TOP 5.: Bekanntgabe des Jahresabschlussergebnisses 2006 sowie Vorlage des Rechenschafts- und Verwaltungsberichtes 2006 der Stadt Gronau - 30 Jastimmen, 6 Neinstimmen, 2 Enthaltungen
+- TOP 6.: Jahresabschluss 2006 der Chance Gemeinnützige Beschäftigungsgesellschaft der Stadt Gronau mbH 1. Kenntnisnahme des Jahresabschlussergebnisses 2. Beschluss über die Verwendung des Jahresüberschusses 3. Entlastung des Aufsichtsrates und des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 7.: Jahresabschluss 2006 der GFA Gesellschaft für Arbeitsförderung mbH 1. Jahresabschlussergebnis 2. Vortrag des Jahresüberschusses auf neue Rechnung 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 8.: Bericht über die Budgetabwicklung der Stadt Gronau (Westf.) im I. Quartal 2007 Über-/außerplanmäßige Mittelbereitstellung bis zum 03.05.2007 - 31 Jastimmen, 0 Neinstimmen, 7 Enthaltungen
+- TOP 9.: Finanzielle Unterstützung von Kindern sozialschwacher Familien für die Übermittagversorgung in Ganztagsschulen - Einstimmig, 2 Enthaltungen
+- TOP 10.: Entwicklungskonzept Epe : Bausteine Festplatz und Amtsweg - 36 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 11.: 63. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich "Inselpark" Behandlung der Stellungnahmen aus der Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB (dieser Verfahrensschritt wurde zeitlich parallel zur öffentlichen Auslegung durchgeführt) Beschluss über den Flächennutzungsplan - 36 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 11.1: 63. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich "Inselpark" 1. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB (dieser Verfahrensschritt wurde zeitlich parallel zur öffentlichen Auslegung durchgeführt) - Die Beschlussfassung ist TOP 11 zu entnehmen.
+- TOP 11.2: 63. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich "Inselpark" 1. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB (dieser Verfahrensschritt wurde zeitlich parallel zur öffentlichen Auslegung durchgeführt) - Die Beschlussfassung ist TOP 11 zu entnehmen.
+- TOP 12.: Bebauungsplan Nr. 130 "Inselpark Gronau", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB (dieser Verfahrensschritt wurde zeitlich parallel zur öffentlichen Auslegung durchgeführt) 5. Satzungsbeschluss - 36 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 12.1: Bebauungsplan Nr. 130 "Inselpark Gronau", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB (dieser Verfahrensschritt wurde zeitlich parallel zur öffentlichen Auslegung durchgeführt) - Die Beschlussfassung ist TOP 12 zu entnehmen.
+- TOP 12.2: Bebauungsplan Nr. 130 "Inselpark Gronau", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB (dieser Verfahrensschritt wurde zeitlich parallel zur öffentlichen Auslegung durchgeführt)
+- TOP 13.: 87. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich: Südlich der Ochtruper Straße, Stadtteil Gronau Behandlung der Stellungnahmen aus der Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB Beschluss über den Flächennutzungsplan - 34 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 14.: Bebauungsplan Nr. 246 "Industrie- und Gewerbepark südlich der Ochtruper Straße", Teilbereich I, Stadtteil Epe Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB Behandlung der Stellungnahmen aus der erneuten Beteiligung der Behörden gem. § 4 Abs. 1 BauGB Behandlung der Stellungnahmen aus der erneuten Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB/Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB Satzungsbeschluss - 34 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 15.: Bebauungsplan Nr. 201 "Hof Terbahl", 2. vereinfachte Änderung, Stadtteil Epe 1. Behandlung der Stellungnahmen aus der öffentlichen Auslegung 2. Satzungsbeschluss - 26 Jastimmen, 1 Neinstimmen, 10 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 218 "Germaniastraße", 2. vereinfachte Änderung, Stadtteil Epe 1. Bezeichnung des Bebauungsplanes 2. Behandlung der Stellungnahmen aus der öffentlichen Auslegung 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 17.: Vergabe von Straßennamen in dem Baugebiet Glanemannsweg/Kurfürstenstraße B-Plan 145 - Einstimmig, 2 Enthaltungen
+- TOP 18.: Vergabe von Straßennamen im Neubaugebiet Wolbertskamp Bebauungsplan 245 - 35 Jastimmen, 3 Neinstimmen, 0 Enthaltungen
+- TOP 19.: Vergabe von Straßennamen im Kavernenfeld Epe - Einstimmig, 0 Enthaltungen
+- TOP 20.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 21.: Mitteilungen der Verwaltung
+- TOP 21.1: Einhaltung der Auskunftspflichten gemäß Ehrenordnung
+- TOP 21.2: Einladung der Partnerstadt Mezöbereny
+- TOP 21.3: Änderung der Entschädigungsverordnung zum 01.07.2007
+- TOP 21.4: Einladung der Urenco Deutschland GmbH
+- TOP 22.: Anfragen
+- TOP 22.1: Beitrag Frontal 21 zur Urenco Deutschland GmbH am 12.06.07 (RM Walkowiak)
+- TOP 22.2: Gefährdungen durch Eichenprozessionsspinner bekannt? (1. Stellv. d. BM Lenz)
+- TOP 22.3: Freigabe der Fußgängerbrücke am Schäferweg (RM Terhaar)
+- TOP 22.4: Abriss der Fußgängerbrücke über die Konrad-Adenauer-Str. (RM Bartels)
+- TOP 22.5: Verkehrssituation an der Ahauser Str. in Höhe Vennstraße (RM Krause)
+- TOP 22.6: Namensgebungsverfahren Hauptschule Epe (RM Kubel)
