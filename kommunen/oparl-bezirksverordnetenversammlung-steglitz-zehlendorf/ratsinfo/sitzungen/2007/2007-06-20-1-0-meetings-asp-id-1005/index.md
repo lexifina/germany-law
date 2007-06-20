@@ -1,0 +1,127 @@
+# 10. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2007-06-20T16:30:00+02:00
+- Ende: 2007-06-20T21:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1005
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1005
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Mündliche Fragestunde - erledigt
+- TOP 3.1: Nutzung Grundstück Finckenstraße 9, 14195 Berlin-Dahlem - beantwortet
+- TOP 3.2: Bewaffneter Bundeswehraufmarsch zur Steglitzer Woche - beantwortet
+- TOP 3.3: Scientology-Sekte in Steglitz-Zehlendorf - beantwortet
+- TOP 3.4: Ausschreibung von Dienstleistungen für den Umzug von Verwaltungseinheiten bezüglich Räumung des "Steglitzer Kreisels" - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten - erledigt
+- TOP 4.1.1: Neuwahl ehrenamtlicher Mitarbeiterinnen und Mitarbeiter - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Sondermittel für den Heimatverein Steglitz e. V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen - erledigt
+- TOP 4.2.1: Wahl einer stellv. Bürgerdeputierten im Schulausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Berufung von beratenden Mitgliedern und deren Stellvertreter/innen zu Mitgliedern des Jugendhilfeausschusses für die III. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Haushaltsangelegenheiten - erledigt
+- TOP 4.3.1: Sondermittel der BVV für das Hermann-Ehlers-Gymnasium - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungspläne - erledigt
+- TOP 4.4.1: Bebauungsplan 6-13 [Karstadt/Wertheim/Schloßstraße] - mit Zwischenbericht zur Kenntnis genommen
+- TOP 4.4.2: Bebauungsplan X-122-2 (Nahversorgungszentrum Schlachtensee) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 4.4.3: Bebauungsplan X-184 (Neubau JVA Düppel) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Anträge - erledigt
+- TOP 4.5.1: Aufklären über Scientology - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Abgabe des ehemaligen Gebäudes der Bröndby-Oberschule - in der BVV abgelehnt
+- TOP 4.5.3: Reparatur der S-Bahn-Unterführung in der Spanischen Allee zwischen Rehwiese und Straße am Schlachtensee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Parlamentarische Ferien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.6.1: BA-Beschluss vom 25.04.2006 Aufhebung der Leistikow-Oberschule mit Ablauf des Schuljahres 2008/2009 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Übertragung des Dienstgebäudes Steglitzer Kreisel - Bürohochhaus - in das Sondervermögen des Landes Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.7.1: Erstellung von Konzeptionen für "Freizeit- und Spielflächen für Erwachsene" in Steglitz-Zehlendorfer Grünanlagen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.7.2: Schulwegampel Berliner Straße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.7.3: Internet-Anschluss für das Bürgerbüro - in der BVV abgelehnt
+- TOP 4.7.4: Projekt "Stolpersteine" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.5: Tennishallen-Projekt von Z-88 sichern und ermöglichen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.6: Gymnasium Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.7: "Gewaltprävention" zur Stärkung des Erziehungsauftrages an den Schulen in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.8: Sicherer Fahrradverkehr am Kranoldplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.9: Sozialatlas des Bezirkes Steglitz-Zehlendorf geschlechtsspezifisch aufbereiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.10: Verantwortung der bezirklichen Trägervertreter des Job-Centers - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.11: Einführung von "Business Improvement Districts" (BIDs) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.12: Verbesserung des Lärmschutzes auf der AVUS im Bereich Nikolassee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.13: Wildes Parken auf Geh- und Radwegen mit einfachen Mitteln verhindern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.14: Mehr Fahrradabstellanlagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.15: Verwendung der Mittel der Gembus-Stiftung in 2007 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.16: Straßenbenennung nach Richard Draemert - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.17: Ursachenforschung Rehwiese - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.18: Erhalt und Ausbau der musikbetonten Grundschulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.19: Rehwiese - eine Kloake? - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.20: Rehwiese - Ursachenforschung - in der BVV abgelehnt
+- TOP 4.7.21: Aktivitäten an Schulen des Bezirks zum Thema Nationalsozialismus und Antisemitismus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.22: Rehwiese I - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.23: Rehwiese II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - - erledigt
+- TOP 5.1: Bebauungspläne - erledigt
+- TOP 5.1.1: Bebauungsplan X-32-1-1 ("Zehlendorfer Welle") - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Überprüfung der Schuleinzugsbereiche für Grundschulen in Neubaugebieten - überwiesen
+- TOP 5.2.2: Gewerbehinweisschilder für die Ladenstraße - überwiesen
+- TOP 5.2.3: Ankerbetrieb Nahversorgungszentrum Schlachtensee - überwiesen
+- TOP 5.2.4: Rechtmäßige Wahl des Bezirksbehindertenbeauftragten für eine Legislaturperiode - überwiesen
+- TOP 5.2.5: Nürnberger Modell gegen Schulschwänzer einführen - überwiesen
+- TOP 5.2.6: Info-Anzeigen Omnibuslinien (BVG) - überwiesen
+- TOP 5.2.7: Parkscheibenpflicht im Bereich Potsdamer Straße 2-3 - überwiesen
+- TOP 5.2.8: Ernsthafte und engagierte Vorbereitung des Girls Day für 2008 betreiben - überwiesen
+- TOP 5.2.9: Kein Facility-Mangagement im Schulbereich - überwiesen
+- TOP 5.2.10: Tempo 30 auf der Nebenfahrbahn Unter den Eichen - überwiesen
+- TOP 5.2.11: Klare Verantwortlichkeit für Einrichtung und Reparatur der Gedenktafeln bei der SE Facility-Management - überwiesen
+- TOP 5.2.12: Grünfläche Markusplatz kinderfreundlich gestalten - überwiesen
+- TOP 5.2.13: Tempo 30 Dahlemer Weg - überwiesen
+- TOP 5.2.14: Haushaltsmisere in den Berliner Bezirken - überwiesen
+- TOP 5.2.15: Essensmöglichkeit in den verläßlichen Halbtagsgrundschulen! - überwiesen
+- TOP 5.2.16: Fußgängerüberweg auf dem Dahlemer Weg - überwiesen
+- TOP 5.2.17: Informationspolitik des Job-Centers, des Sozial- und Grundsicherungsamtes - überwiesen
+- TOP 5.2.18: Sicherung des Rechtsstatus der Grundständigen Gymnasien im Berliner Schulgesetz - überwiesen
+- TOP 5.2.19: Jahrsgangsübergreifender Unterricht in der flexiblen Schulanfangsphase nur bei Freiwilligkeit - überwiesen
+- TOP 5.2.20: Bürgerverein Steinstücken - überwiesen
+- TOP 5.2.21: Persönliches Budget - überwiesen
+- TOP 5.2.22: Strategie für die bezirkliche Wirtschaftspolitik - überwiesen
+- TOP 5.2.23: Öffentlichen Beschäftigungssektor (ÖBS) in Steglitz-Zehlendorf umsetzen - überwiesen
+- TOP 5.2.24: Umbau des Droste-Hülshoff-Gymnasiums zur barrierefreien Schule ermöglichen - überwiesen
+- TOP 5.2.25: Mehr Sicherheit in Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.26: Freier Zugang zum S-Bahnhof Zehlendorf - überwiesen
+- TOP 5.2.27: Interkulturelle Kompetenz des Ordnungsamts verbessern - überwiesen
+- TOP 5.2.28: Kurzzeitparkplätze in der Riemeisterstraße - überwiesen
+- TOP 5.2.29: Wildschweine im Bezirk - überwiesen
+- TOP 5.2.30: Rollstuhlgerechte Schule in Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.31: Die Domäne Dahlem endlich dauerhaft sichern! - überwiesen
+- TOP 5.2.32: Anlegestellen der BVG in Heckeshorn - überwiesen
+- TOP 5.2.33: Echte Alternativen bei den Baumaßnahmen Hildburghauser Straße und Blanckertzweg - überwiesen
+- TOP 5.2.34: Buslinie 284 - überwiesen
+- TOP 5.2.35: Überprüfung der Grundinstandsetzung und der Anwendung des Straßenausbaubeitragsgesetzes in der Hildburghauser Straße und am Blanckertzweg - überwiesen
+- TOP 5.2.36: Sozialatlas 2007 familienbezogen erstellen - überwiesen
+- TOP 5.2.37: Erhalt der Jobvermittlung der Arbeitsagentur an der FU - überwiesen
+- TOP 5.2.38: Vorplätze am U-Bhf. Onkel-Toms-Hütte - überwiesen
+- TOP 5.2.39: Standort Liegenschaft Oskar-Helene-Heim - überwiesen
+- TOP 5.2.40: Bebauungsplan Robert-Lück-Straße zwischen Südendstraße und Bergstraße - überwiesen
+- TOP 6: Anfragen - erledigt
+- TOP 6.1: Maßregelvollzug in Lankwitz - Teil 5 - beantwortet
+- TOP 6.2: Wahl der bzw. des Behindertenbeauftragten - beantwortet
+- TOP 6.3: Rechtswidrige Besetzung des Amtes des Bezirksbehindertenbeauftragten? - beantwortet
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Grundstück für das Reittherapiezentrum am Don-Bosco-Steig rückübertragen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Schaukästen am Rathaus Zehlendorf renovieren - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Endlich angemessene Miete erzielen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Entwurf einer Geschäftsordnung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Neue Geschäftsordnung für die BVV Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 8.4: Treitschkestraße und Harry-Bresslau-Park - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Namensschilder für Ordnungsamtsmitarbeiter - überwiesen
+- TOP 8.6: Schnelle Umsetzung eines Parkleitsystems in Zehlendorf-Mitte zur Förderung des Einzelhandels - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.7: Keine Personalmittelkürzung wegen vermeintlicher Fehleinstufung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.8: Keine "Zwangsfusionen" von Haupt- und Realschulen in Steglitz-Zehlendorf - überwiesen
+- TOP 9: Schlusswort des BVVorstehers - erledigt
