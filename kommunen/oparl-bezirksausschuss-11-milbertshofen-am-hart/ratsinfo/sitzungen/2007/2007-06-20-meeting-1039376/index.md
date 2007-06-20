@@ -1,0 +1,84 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2007-06-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1039376
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1039376
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart am 28.06.2007, Einladung
+- TOP 4.2.: Änderung von Artikel 60 Gemeindeordnung, Schreiben des Direktoriums
+- TOP 4.3.: Übertragung von laufenden Angelegenheiten des Oberbürgermeisters auf die BAs, Schreiben des Vorsitzenden des Bezirksausschusses 1 Altstadt-Lehel
+- TOP 4.4.: Sommerfest des Spiel- und Begenungszentrums Am Hart, Einladung
+- TOP 4.5.: Soldaten- und Kameradschaftsverein München-Milbertshofen e.V., Einladung zum 110-jährigen Vereinsbestehen
+- TOP 4.1.: Novellierung der Naturdenkmalverordnung, Vorschläge des Bezirksausschuss 11, Antwortschreiben der LBK
+- TOP 4.1.: Sommerfest Harthofanger vom 22.-24.06.2007, Vorabzustimmung
+- TOP 4.2.: Aktionstag Milbertshofen 2007, Genehmigung der Banner und Werbetafeln
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Verein Stadtteilarbeit e.V., "Zirkus Milbertini" (Beschluss des Bezirksausscusses des 11. Stadtbezirkes Milbertshofen - Am Hart vom 20.06.2007)
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 7.1.: Tag des offenen Denkmals am 09.09.2007; Bereitsstellen von Mitteln aus dem BA-Budget für ein Rahmenprogramm (SPD-Fraktion im BA 11)
+- TOP 7.1.: Umbenennung der Haltestelle Nietzschestraße in Curt-Mezger-Platz (SPD-Fraktion im BA 11)
+- TOP 7.2.: Parken in der Zietenstraße 1-17 (ungerade) (Franz Hiltl, Anfrage)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Anträge auf errichtung von Werbeanlagen: a) Knorrstraße 90, 1 hinterleuchtete Wechselwerbeanlage b) Frankfurter Ring 7, 6 beleuchtete und beklebte Großflächentafeln
+- TOP 8.2.: Veranstaltung in einer städtischen Grünanlage, Angerfest Nordheide am 30.06.2007
+- TOP 8.3.: Aufstellung von Hundekot-Tütenspendern
+- TOP 8.1.: Armut in Milbertshofen - Am Hart endlich wirkungsvoll bekämpfen (Beschluss des Sozialausschusses vom 28.06.2007)
+- TOP 8.1.: Verkehrsrechtliche Anordnung nach §45 StVO, hier: Knorrstraße
+- TOP 8.2.: Veranstaltung in einer städtischen Grünanlage auf dem Korbinianplatz am 30.06.2007
+- TOP 8.3.: Antrag für eine Freischankfläche, hier: Neuherbergstr. 117
+- TOP 8.4.: BMW AG - Maßnahmen zur Verbesserung der Verkehrsverhältnisse im umliegenden Straßennetz, hier: - Knorrstraße zwischen Hufelandstraße und Max-Diamand-Straße - Zufahrten Tiefgarage des zukünftigen BMW-MITZ - Querungshilfe in der Knorrstraße
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendungen aus Budgetmitteln der Bezirksausschüsse, Genemigungs-/Ablehnungsbescheide: a) Milbertshofener Kinder- und Jugendland Stadtteilarbeit e.V., Internetseite "Fraunetzwerk Milbertshofen", Bewilligung 900,00? b) Montessori München e.V., Konflikttraining, Bewilligung 600,00? c) Evang.-Luth. Dankeskirche, Dienstauto, Ablehnung
+- TOP 9.2.: Zuwendungen aus Budgetmitteln der Bezirksausschüsse, Schreiben des Direktoriums
+- TOP 9.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4.: Phantomanträge im Bezirksausschuss 6 (Beschluss des Verwaltungs- und Personalausschusses vom 02.05.2007)
+- TOP 9.5.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.1.: Vollzug der Baumschutzverordnung, Baumaßnahmen: a) Keferloherstr. 110
+- TOP 9.2.: Münchner IT - Zentrum der BMW AG (Beschluss des Bauausschusses vom 26.04.2007)
+- TOP 9.3.: Instandsetzung der Überführung der Dachauer Straße über den Nymphenburg-Biedersteiner-Kanal (Beschluss des Bauausschusses vom 26.04.2007)
+- TOP 9.4.: Hotelprojekt an der Lerchenauerstraße, U- und Busbahnhof Olympiazentrum (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.05.2007)
+- TOP 9.5.: Mehrjahresinvestitionsprogramm für die Jahre 2007-2011 (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.05.2007)
+- TOP 9.6.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2007-2011 (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.05.2007)
+- TOP 9.7.: Rechtschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 (Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung von 16.05.2007)
+- TOP 9.8.: Vollzug des Bayer. Naturschutzgesetzes (BayNatSchG) und der Baumschutzverordnung (BaumschutzV); Schreiben der LBK
+- TOP 9.9.: Beteiligung der Öffentlichkeit; Ergebnisprotokoll der Erörterungsveranstaltung am 25.04.2007 zur Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/35; Bebauungsplan mit Grünordnung Nr. 1947a
+- TOP 9.10.: Baumaßnahmen der Stadtwerke München
+- TOP 9.11.: Meldelisten Bauvorhaben
+- TOP 9.1.: Angebote für Kinder und Jugendliche im KJR München Stadt und Geschäftsbericht 2006
+- TOP 9.2.: "Kultur im Stadtquartier", Änderungen im Beschlussentwurf
+- TOP 9.3.: Schulhof-/Sportplatzöffnung 2007
+- TOP 9.4.: 20 Jahre Gleichstellungsstelle für Frauen -Tätigkeitsbericht -
+- TOP 9.5.: Mehrjahresinvestitionsprogramm (MIP) 2007-2010 (Beschluss des Schulausschusses des Stadtrates vom 16.05.2007)
+- TOP 9.6.: Entwurf des Mehrjahresinvestitionsprogrammes (MIP) 2007-2011 Einzelplan 4 / Jugendamtsbereich (Beschluss des Kinder- und Jugendhilfeausschusses vom 15.05.2007)
+- TOP 9.7.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2007-2011 Einzelplan 4 / Sozialbereich (Beschluss des Sozialausschusses vom 10.05.2007)
+- TOP 9.1.: Leistungsprogramm der MVG für die Fahrplanperiode 2008
+- TOP 9.2.: Aktion Münchner Fahrgäste, Newsletter
+- TOP 9.3.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungsbescheide
+- TOP 9.4.: Verkehrsrechtliche Anordnungen nach §45 StVO
+- TOP 9.5.: Personenbezogener Sonderparkplatz, Erlaubnisbescheid - nicht öffentlich -
+- TOP 9.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
