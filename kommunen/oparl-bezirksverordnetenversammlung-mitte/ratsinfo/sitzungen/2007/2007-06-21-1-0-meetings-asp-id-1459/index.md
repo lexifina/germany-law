@@ -1,0 +1,116 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2007-06-21T17:30:00+02:00
+- Ende: 2007-06-21T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1459
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1459
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=58836
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - mit Änderungen im Ausschuss beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Deutsches Theater 2008 - beantwortet
+- TOP 5.2: Wer zu spät kommt, den bestraft der RdB - Welche Konsequenzen zieht das Bezirksamt aus der Pleite bei der Festlegung von einheitlichen Ämterstrukturen in den Berliner Bezirksämtern? - beantwortet
+- TOP 5.3: Erste Sitzung des JobCenter-Beirates - beantwortet
+- TOP 5.4: Interesse an der Gemeinschaftsschule? - beantwortet
+- TOP 5.5: Traditionsfest Müllerstraße attraktiv gestalten - schriftlich beantwortet
+- TOP 5.6: Straßenfeste in Mitte - schriftlich beantwortet
+- TOP 5.7: Sondernutzung, Schankvorgärten, Bürgersteige in der Spandauer Vorstadt - schriftlich beantwortet
+- TOP 5.8: Kontinuierliche Kinderbetreuung? - schriftlich beantwortet
+- TOP 5.9: Änderungen zur Parkordnung Krausnickpark - schriftlich beantwortet
+- TOP 5.10: Rattenplage in der Lüneburger Straße - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Bezirksamt lässt Stadtteilplenum Moabit West abstürzen!? - beantwortet
+- TOP 6.2: Werbung an der St. Hedwigs-Kathedrale - beantwortet
+- TOP 6.3: Heroischer, heldenhafter und aufopferungsvoller Kampf des Bezirksamtes gegen den Entzug der Zuständigkeit für Erlaubnisse und Ausnahmegenehmigungen bei Sondernutzungen im zentralen Bereich Berlins leider erfolglos - 19.06.2007 als bezirklichen Trauertag einführen - zurückgezogen
+- TOP 7: Große Anfragen - schriftlich beantwortet
+- TOP 7.1: "Abschlussquote erhöhen - Berufsfähigkeit steigern" - schriftlich beantwortet
+- TOP 7.2: Flatrate-Zuständigkeit beim Flatrate-Trinken? - schriftlich beantwortet
+- TOP 7.3: Jugendarbeitslosigkeit und berufliche Ausbildung im Bezirk - schriftlich beantwortet
+- TOP 7.4: Schulinspektionen - Bessere Schulen, bessere Bildung? - schriftlich beantwortet
+- TOP 7.5: SPD missachtet Tabakwerbeverbot - schriftlich beantwortet
+- TOP 7.6: Neue Besteuerung der Tagespflegemütter - schriftlich beantwortet
+- TOP 7.7: Ausnahmefehler 450 - Ist die gewünschte Computerwartung an Schulen zur Zeit nicht verfügbar? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Vorhabenbezogener Bebauunsplan 1-38VE für das Grundstück Residenzstr. 85-88 - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Schließung einer kommunalen Jugendfreizeiteinrichtung - überwiesen
+- TOP 9.2: Berufung eines beratenden Mitgliedes und dessen Stellvertreter in den Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 6 AG KJHG i.V. mit § 35 Abs. 8 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Genehmigung der im Haushaltsjahr 2006 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 9.4: Aufhebung der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB für das Gebiet "Friedrich-Wilhelm-Stadt" im Bezirk Mitte von Berlin vom 28. November 2000 (GVBl. Nr. 2 v. 18.01.2001, S. 10) - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Wahl des Beirates für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Bebauungsplanentwurf I-B5e sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5e - überwiesen
+- TOP 9.7: Bebauungsplanentwurf I-B5b sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5b - überwiesen
+- TOP 9.8: Bebauungsplanentwurf I-B5a sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5a - überwiesen
+- TOP 9.9: Bebauungsplanentwurf I-B5t sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5t - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Ausreichende Ausstattung für Hoch- und Tiefbau - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Erfahrungsbericht Nutzungsvereinbarung Krausnickpark - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Überquerung der Oranienburger Straße sichern - zurückgezogen
+- TOP 11.4: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Überwachung des geplanten Rauchverbots: Angemessene Personalausstattung sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Eltern bei der Schulwahl nicht benachteiligen - überwiesen
+- TOP 12.2: Nachbesserung des Seniorenmitwirkungsgesetzes - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sicherer Schulweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Mehr Transparenz bei der Wahl der weiterführenden Oberschule durch Veröffentlichung der Ergebnisse des "Mittleren Schulabschlusses" und des "Zentralabiturs" - in der BVV abgelehnt
+- TOP 12.5: Öffentlicher Beschäftigungssektor - überwiesen
+- TOP 12.6: Sichere Schulen - erledigt
+- TOP 12.7: Zwischennutzung statt Vandalismus am Leopoldplatz - überwiesen
+- TOP 12.8: Bäume am Landwehrkanal nicht abholzen - mit Änderungen in der BVV beschlossen
+- TOP 12.9: Mobile Bürgerämter - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Fahrradstellplätze am S-Bahnhof Alexanderplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Anzahl der Feuerwehrfahrzeuge nicht verringern - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Ausbildungsoffensive 2007 - überwiesen
+- TOP 12.14: Standort für die Evangelische Gesamtschule in Mitte - zurückgezogen
+- TOP 12.15: Einzelhandelsentwicklungsplan für Mitte - überwiesen
+- TOP 12.16: Ausstellung "Das hat's bei uns nicht gegeben. Antisemitismus in der DDR" in Mitte zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Lerntagebücher sichern - überwiesen
+- TOP 12.18: Würdiges Mahnmal für den nationalsozialistischen Massenmord an Behinderten - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Initiativen des Kurt-Schumacher-Kreises für eine Gedenktafel am Admiralspalast unterstützen - überwiesen
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Bürokratieabbau - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Gesellschaftliche Teilhabe von hörbehinderten Menschen in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Bezirkswerbung auf der ITB mit eigenem Messestand - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Schnelle Umsetzung des Humboldtforums mit Schlossfassade - in der BVV abgelehnt
+- TOP 13.5: Freizeitsport im Bezirk Mitte - Laufstrecken-Markierung / Laufstrecken-Wegweiser - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Finanzielle Mittel für die Beleuchtung des Volksparks am Weinberg - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Alte Schönhauser Straße nicht dem motorisierten Durchgangsverkehr überlassen, Sicherheit im Straßenverkehr erhöhen! - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Beruhigter Verkehr durch die Perleberger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Dialogkonferenz des Bezirkes Mitte einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Konzeption Stadtteilarbeit des Bezirksamtes Mitte (I) hier: BürgerInnen-Beteiligung bei Erarbeitung ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 13.11: Umweltzone effektiv, effizient und nicht auf Kosten des Bezirks umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Soziale Stadtentwicklung zu einem Kern bezirklichen Handelns machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Berufsbilder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Wartezeiten in den Bürgerämtern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.4: Public-Private-Partnership bei der Sanierung von Schulen und Sporthallen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.5: Starker Geist; schwache Augen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.6: Obligatorische Ganztagsbetreuung für Kinder mit Sprachförderbedarf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.7: Übernahme der kommunalen Stimmenmehrheit in der Trägervertretung des Jobcenters Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.8: Vorgezogenes Bauen des behindertengerechten Aufzugs des U-Bahnhofs Turmstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Verbraucherschutz im Bezirk Mitte hat hohe Priorität - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Beflaggung anlässlich der Christopher-Street-Woche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Integration von gehörlosen und gehörgeschädigten Menschen in den Arbeitsmarkt durch das JobCenter (2) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.12: Ausrichtung des Girls' Day im Bezirksamt Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: Fallmanagement Eingliederungshilfe II - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.14: Qualifizierte und umfassende Betreuung sicherstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.15: Fortsetzung der Herausgabe der Sanierungszeitung "stadt.plan.mitte" bis zur Aufhebung des Sanierungsgebietes Rosenthaler Vorstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: Bildung eines Beirates für MigrantInnen und Flüchtlinge - Ausländerbeirat - beim Bezirksamt Mitte von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.17: Kooperationsvereinbarung Quartiersverfahren zwischen der Senatsverwaltung für Stadtentwicklung und dem Bezirksamt Mitte von Berlin über die Durchführung des Förderprogramms Soziale Stadt für die Stadtteilmanagement-Gebiete Brunnen- und Ackerstraße für das Jahr 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.18: Sachmittel für die Unterstützung der ehrenamtlichen Arbeit der Bürgerinnen und Bürger zur Verbesserung der öffentlichen Infrastruktur im Jahre 2007 - mit Abschlussbericht zur Kenntnis genommen
