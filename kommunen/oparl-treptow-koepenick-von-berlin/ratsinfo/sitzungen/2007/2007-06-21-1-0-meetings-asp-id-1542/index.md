@@ -1,0 +1,91 @@
+# 9. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2007-06-21T16:30:00+02:00
+- Ende: 2007-06-21T22:15:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1542
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1542
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=51812
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - schriftlich beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers VI_7 - beantwortet
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl von Patientenfürsprechern - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Durchwegung Altstadt Köpenick und Parkplatz Landjägerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Fortschreibung der Einzelhandelskonzeption - mit Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Köpenicker Sommer - schriftlich beantwortet
+- TOP 10.2: Errichtung der bezirklichen Freiwilligenagentur - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - beantwortet
+- TOP 11.1: Sondermittel für Behindertenverein Köpenick e. V. (SM 732) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für KSV Johannisthal 1980 e. V. (SM 735) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Sondermittel für Verein NBZ Hessenwinkel e. V. (SM 736) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Seniorenverein Wuhlheide e. V. (SM 737) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.6: Sondermittel für Evangelische Kirchengemeinden Schmöckwitz und Müggelheim (SM 741) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Sondermittel für Ortsverein Schmöckwitz e. V. (SM 742) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für Umweltkreis der ev. Kirchengemeinde Müggelheim (SM 743) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Sondermittel für SC Fraternitas 1891 e. V. (SM 744) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Sondermittel für Fipp e. V. - Abenteuerspielplatz Waslala (SM 745) - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2008 und 2009 - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Politische Bildungsarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Weihnachtsbeihilfe - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Sicherung von Kultureinrichtungen im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Widerspruchsbeirat beim Jobcenter - mit Änderungen in der BVV beschlossen
+- TOP 12.5: Studentische Wohnungsbörse - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Instandsetzung Fassade Ratz-Fatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Verkehrsführung auf der Behelfsbrücke Köpenicker Str./Teltowkanal - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Wiedereinrichtung Tempo 30 Schönefelder Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Verbesserung der Querungsmöglichkeiten für Fußgänger in der Bahnhofstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Bebauungsplan 9-8 ("Mahlsdorfer Straße") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Bebauungsplan XVI-73 ("Duchrother Straße") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Aufhebung des Halteverbots Höhe Semmelweisstraße 57 - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Benennung der Straße 523 in Hessenwinkel - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Benennung von Nummernstraßen in Müggelheim - vertagt
+- TOP 12.15: Ausstellung von Schülerarbeiten - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Sozialarbeiter - überwiesen
+- TOP 12.17: Änderung der Geschäftsordnung vom 26. Oktober 2006 - überwiesen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-23, ("Uferweg Freiheit") hier: - Teilung des Geltungsbereiches - überwiesen
+- TOP 13.2: Bebauungsplan 9-12, ("östliche Schnellerstraße") hier: - Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.3: Benennung der von der Bahnhofstraße abgehenden, am Maria-Jankowski-Park gelegenen Straße D 7 im Ortsteil Köpenick in "Am Maria-Jankowski-Park" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Bebauungsplan 9-43, ("Kleingartenanlagen Königsheideweg") hier: - Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Fortlaufende Finanzierung des Zentrums für Demokratie - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Entwurf Sportanlagenordnung überarbeiten - überwiesen
+- TOP 14.3: Müllentsorgung Wuhlewanderweg - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Vernetzung Schul- und Bezirksbibliotheken - überwiesen
+- TOP 14.5: Gedenken für die Opfer des Terroranschlags in Afghanistan am 19. Mai 2007 - vertagt
+- TOP 14.6: Radfahrer und Skater auf die Autobahn - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Vorbeschilderung der Umweltzone - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Lieferverkehr Eisenhutweg - überwiesen
+- TOP 14.9: Veränderungen im Schulnetz - mit Änderungen in der BVV beschlossen
+- TOP 14.10: Gegen die Regionalisierung im Gesundheitsdienst - überwiesen
+- TOP 14.11: Abgabe von nicht mehr benötigten Sachmitteln und Geräten - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Kunst aus der Sammlung der Sozialen Künstlerförderung - überwiesen
+- TOP 14.13: Prognosen zur Entwicklung der Schülerzahlen im Bezirk - in der BVV zurückgezogen
+- TOP 14.14: Jugendtreff 112 in Treptow - überwiesen
+- TOP 14.15: Fußgängerweg zum Forum Köpenick beleuchten - überwiesen
+- TOP 14.16: Verkehrsführung am S-Bhf. Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Lärm- und Geschwindigkeitsreduzierung Johannisthaler Chaussee - überwiesen
+- TOP 14.18: Grüner Pfeil am S-Bhf. Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Auswahlverfahren für Bürgermedaille - vertagt
+- TOP 14.20: Informationen für Neu-Treptow-Köpenicker - überwiesen
+- TOP 14.21: Radverkehr um den Treptower Park erleichtern - überwiesen
+- TOP 14.22: Anbringung einer Gedenktafel im Spreetunnel in Friedrichshagen - überwiesen
+- TOP 14.23: Schmollerplatz – Radverkehr entgegen der Einbahnstraßenrichtung zulassen - überwiesen
+- TOP 14.24: Skulptur für den Interkulturellen Garten - überwiesen
+- TOP 15: Große Anfragen - (offen)
