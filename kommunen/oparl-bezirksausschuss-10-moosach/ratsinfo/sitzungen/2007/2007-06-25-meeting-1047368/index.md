@@ -1,0 +1,86 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2007-06-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1047368
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1047368
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Eingeschränktes Halteverbot Pelkovenstraße 42
+- TOP 2.2.: Müllanlage und Müllentsorgung der Lokale "Bella Italia" und "Mc Donalds" in der Pelkovenstraße / Jakob-Hagenbucher-Straße
+- TOP 2.3.: Hinweisschild auf Zweirichtungsradweg in der Dachauer Straße auf Höhe der Fa. Dehner
+- TOP 2.4.: Wendehammer Moosanger
+- TOP 2.5.: Besichtigung Berufsschule Riesstraße
+- TOP 2.6.: Überprüfung der Ampelschaltung Hanauer Straße / Riesstraße
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Verwendung von BA-Budgetmitteln für ein Sommerferienprogramm für Moosacher Kinder - <div>nach Antrag</div>
+- TOP 3.2.: Veranstaltungen 1200-Jahr-Feier
+- TOP 3.3.: Eröffnung Stadtteilkulturtage
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Wettbewerb Bunzlauer Platz (Vivico)
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Weniger aufwändige Unterrichtungen über erteilte Fällungsgenehmigungen
+- TOP 4.2.: Randsteinabsenkungen in der Andernacher Straße - <div>nach Antrag</div>
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Modernisierung der Spielgeräte am Glogauer Platz - <div>zurückgezogen</div>
+- TOP 4.2.: Spender für Hundekottüten in der Grünanlage Glogauer Platz - <div>aufgegriffen</div>
+- TOP 4.3.: Zuschnitt der Bepflanzung entlang des Fahrradwegs an der Sportanlage Saarlouiser Str - <div>nach Antrag</div>
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10; Kirchenstiftung St. Raphael: 75-Jahr-Feier; Turmbeleuchtung - <div>nach Antrag</div>
+- TOP 5.2.: Zuschuss aus dem Budget des BA 10; Kirchenstiftung St. Raphael: 75-Jahr-Feier; Kino-Open-Air - <div>nach Antrag</div>
+- TOP 5.3.: Zuschuss aus dem Budget des BA 10; Kirchenstiftung St. Raphael: 75-Jahr-Feier; Festschrift - <div>nach Antrag</div>
+- TOP 5.4.: Zuschuss aus dem Budget des BA 10; Müttertreff Moosach e.V., Festschrift zum 20-jährigen Bestehen - <div>nach Antrag</div>
+- TOP 5.5.: Zuschuss aus dem Budget des BA 10; Siedlervereinigung Hartmannshofen, Fledermauskolonie - <div>nach Antrag</div>
+- TOP 6.: Anhörungen
+- TOP 6.1.: Moosacher Bahnhof; Verkehrsrechtliche Anordnung von Bushaltestellen
+- TOP 6.2.: Charity Lauf für das Kinderhaus AtemReich am 27.07.07
+- TOP 6.3.: Verkauf einer städt. Immobilie: Gneisenau-/Messerschmittstraße
+- TOP 6.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Straßenmarkierung Hanauer -, Dachauer Straße, Park- und Ride U-Bahnhof West-friedhof (wird durchgeführt)
+- TOP 7.2.: Verlegung der geplanten Haltestelle der Linie 175 auf Höhe der Andernacher Straße stadtauswärts (Verlegung abgelehnt)
+- TOP 7.3.: Lärmbelästigung für die Anwohner durch das Zeltlager "The Tent", In den Kirschen, während der Zeit Oktoberfestes (Darstellung der Maßnahmen des Kreisjugendrings, um der Problematik zu begegnen)
+- TOP 7.4.: Haltverbote in der Torgauer Straße (werden angeordnet)
+- TOP 7.5.: Optimierung der Kreuzung Hanauer Straße / Pelkovenstraße (Ampelschaltung wird angepasst)
+- TOP 7.6.: Einrichtung einer Querungshilfe in der Pelkovenstraße östlich der Hanauer Straße (LZA wird in Vormerkliste aufgenommen, Errichtung einer Mittelinsel wird geprüft)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Zweckentfremdung von Wohnraum: 1. Bunzlauer Straße 2. Pirschstraße 3. Gröbenzeller Straße 4. Ohlauer Straße
+- TOP 8.4.: Mehrjahresinvestitionsprogramm Planungsreferat
+- TOP 8.5.: Mehrjahresinvestitionsprogramm Schulreferat
+- TOP 8.6.: Mehrjahresinvestitionsprogramm Schulreferat / Sportamt
+- TOP 8.7.: Mehrjahresinvestitionsprogramm Sozialreferat / Jugendamtsbereich
+- TOP 8.8.: Phantomanträge im Bezirksausschuss 6 (Empfehlung der Bürgerversammlung des 6. Stadtbezirkes Sendling)
+- TOP 8.9.: U-Bahn-Bau in Moosach, Pelkovenstraße (Bürgerschreiben an OB Ude)
+- TOP 8.10.: Errichtung von 2 Sickerbrunnen am Chemnitzer Platz
+- TOP 8.11.: Erweiterungsgenehmigung Fa. Breitsamer
+- TOP 8.12.: Nachtrag Münchner Blade-Night
+- TOP 8.13.: Daten Kinderkrippen 01.06.2007
+- TOP 8.14.: Protokoll zum 6. Jour-Fixe Kulturreferat - Bezirksausschüsse
+- TOP 8.15.: Verkehrsrechtliche Anordnungen: 1. Haltverbot In den Kirschen 2. Feuerwehrzufahrt Toni-Merkens-Weg und Willi-Gebhardt-Ufer
+- TOP 8.16.: Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006; Ergänzung vom 14.05.2007
+- TOP 8.17.: Straßenbenennungen im 10. Stadtbezirk Moosach
+- TOP 8.18.: Verkauf eines städtischen Grundstückes: Koblenzer Straße
+- TOP 8.19.: Leistungsprogramm der MVG für die Fahrplanperiode 2008 (Behandlung verschiedener Bürgerversammlungsempfehlungen)
+- TOP 8.20.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2007-2011
+- TOP 8.21.: Berufsschule für Gartenbau und Floristik Am Kapuzinerhölzl 45; Ausführungsgenehmigung
+- TOP 8.22.: Pächterwechsel 1. Sportheim, Lechelstr. 35 2. Ali'ce Döner Kebap, Dachauer Str. 423 3. Sportpark Moosach, Georg-Kainz-Str. 8
+- TOP 8.23.: Veröffentlichung des Planungsreferates zum Handlungsprogramm Mittlerer Ring
+- TOP 8.24.: Pelkovenstraße, Erneuerungsmaßnahme mit Verbesserungen (Vorab-Zustimmung aus Fristgründen)
+- TOP 8.25.: Perspektive München; Leitlinie Kinder- und Familienpolitik
+- TOP 8.26.: Stadtweites Rauchverbot an und auf Spielplätzen (Zwischennachricht zum Antrag des BA 8 Schwanthalerhöhe)
+- TOP 8.27.: Sozialberatung der WSB Wohnungs- und Siedlungsbau Bayern (Antwort auf ein Schreiben von REGSAM)
+- TOP 4: Anträge
