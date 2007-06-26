@@ -1,0 +1,90 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2007-06-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1078987
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1078987
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Aufhebung der Gebührenpflicht auf dem P+R Parkplatz am U-Bahnhof Michaelibad (Ziffer 2 des Antrages)
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Neue Haltestellen im Bereich Hultschiner Straße ? Berg am Laim ? Baumkirchner Straße ? Wendung im Bereich U-Bahnhof Josephsburg ? Verkehrsrechtliche Anordnung
+- TOP 3.2.: Verlängerung der Buslinie 187 zum Ortskern von ?Berg am Laim?
+- TOP 3.3.: Leistungsprogramm 2008 der MVG (Fahrplanwechsel Dezember 2007) ? 3.1.2.2./05/07
+- TOP 3.4.: Zufahrt für Müll- und Rettungsfahrzeuge in der Heilbrunner Str. und Bad-Kissingen-Str.
+- TOP 3.5.: Ausfahrt Kleingartenanlage ? Echardinger Grünstreifen
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Hortgruppe in der Kindertageseinrichtung St.-Michael-Straße
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Kath. Kindertagesstätte St. Michael ? Antrag auf Zuschuss aus dem BA-Budget
+- TOP 3.4.: Bürgerkreis Berg am Laim - Antrag auf Zuschuss aus dem BA-Budget
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Kommunale Gesundheitsförderung ? Kampagne der Bundeszentrale für gesundheitliche Aufklärung (BzgA) ? ?Gut drauf ? Ernährung, Bewegung, Stressbewältigung?
+- TOP 3.2.: Aufstellung von Hundekot-Tütenspendern im Stadtbezirk 14 ? Berg am Laim
+- TOP 3.3.: Anhörung München Triathlon
+- TOP 3.1.: Neumarkter Straße ? Antrag auf Baumfällung
+- TOP 3.2.: Echardinger Straße ? Antrag auf Baumfällung
+- TOP 3.3.: Heubergstraße ? Antrag auf Baumfällung
+- TOP 3.4.: Rofanstraße ? Antrag auf Baumfällung
+- TOP 3.5.: Blombergstraße ? Antrag auf Baumfällung
+- TOP 3.6.: St.-Michael-Straße ? Antrag auf Baumfällung
+- TOP 3.7.: Wildenwarter Straße ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben im 14. Stadtbezirk
+- TOP 4.2.: Veröffentlichung des Planungsreferates zum Handlungsprogramm Mittlerer Ring
+- TOP 4.3.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2007 - 2011
+- TOP 4.4.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 1971 Baumkirchner Straße (westlich), Bahnlinie München-Rosenheim (südlich) ? Aufstellungsbeschluss -
+- TOP 4.5.: Projekt ?Rund um den Ostbahnhof? ? Neue Zuständigkeiten für die weiteren Planungsverfahren
+- TOP 4.1.: S-Bahn-Unterführung Berg am Laim ? Errichtung einer separaten Fuß- und Radwegunterführung
+- TOP 4.2.: Simbacher Straße ? Legalisierung des halbseitigen Gehwegparkens
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Mehrjahresinvestitionsprogramm (MIP) 2007 - 2011 1. Investitionsmaßnahmen für Schulen und Kindertageseinrichtungen 2. Verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse
+- TOP 4.2.: Protokoll der Arbeitsgruppe Kinderbeauftragte
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: AKA e.V. - Zuwendungsbescheid
+- TOP 4.2.: Maibaumverein - Zuwendungsbescheid
+- TOP 4.3.: Kulti-Kids -Zuwendungsbescheid
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Netzbaumaßnahmen Fernwärme in Berg am Laim ? Prüfung Alternativstandorte
+- TOP 4.2.: Netzbaumaßnahmen Fernwärme in Berg am Laim ? Antrag der SWM auf Sondernutzung SWM ? Fernwärme Ramersdorf ? Arbeiten Mühldorf-/Ampfingstraße SWM ? Fernwärme Ramersdorf ? Arbeiten Aschheimer-/ Piusstraße SWM ? Fernwärme Ramersdorf ? Arbeiten Grafinger-/Aschheimer-/ Ampfingstraße SWM ? Fernwärme Ramersdorf ? Arbeiten Grafinger-/Aschheimer-/ Ampfingstraße SWM ? Fernwärme Ramersdorf ? Arbeiten Ayinger Straße SWM ? Fernwärme Ramersdorf ? Arbeiten Altöttinger Straße SWM ? Fernwärme Ramersdorf ? Arbeiten Grafinger Straße
+- TOP 4.3.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 ? Ergebnisse der fachanwaltschaftlichen Überprüfung
+- TOP 4.4.: Änderung der Straßenreinigungssatzung - Anschlussverzeichnis
+- TOP 4.5.: Phantomanträge im Bezirksausschuss
+- TOP 4.6.: Kinderfest BA 14 - Veranstaltungsanzeige und Gestattung ?
+- TOP 4.7.: Tonhalle - Veranstaltungsanzeige
+- TOP 4.8.: Straßenfest im Arnweg am 23.06.2007 - Erlaubnisbescheid
+- TOP 4.1.: Genehmigungspflichtige Maßnahmen am Baumbestand an der Waldstraße
+- TOP 4.2.: Unterrichtung Baumfällantrag Guffertstraße
+- TOP 4.3.: Unterrichtung Baumfällung Josephsburgstraße
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 3.3.: ESV München Ost - Antrag auf Zuschuss aus dem BA-Budget
+- TOP 4.4.7.: Baumschutz
