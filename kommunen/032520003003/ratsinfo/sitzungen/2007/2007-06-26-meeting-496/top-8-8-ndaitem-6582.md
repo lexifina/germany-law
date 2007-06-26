@@ -1,0 +1,6 @@
+# TOP 8.8: Sanierung Grundstück Ecke Hamborner Weg 3/Am Bruche
+
+- Sitzung: Bau- und Umweltausschuss (10. Sitzung) (2007-06-26)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/6582
