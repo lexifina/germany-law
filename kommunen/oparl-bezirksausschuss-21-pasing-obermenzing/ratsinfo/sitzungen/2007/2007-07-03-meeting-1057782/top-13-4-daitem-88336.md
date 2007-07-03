@@ -1,0 +1,7 @@
+# TOP 13.4.: Ausschuss für Stadtplanung und Bauordnung vom 27.06.2007 - A 99 West - Ergebnisse der Verkehrszählungen; "Vorher-Nachher-Untersuchung" (Bekanntgabe) - Bebauungsplan mit Grünordnung Nr. 2009: Bundesautobahn A 8, Goteboldstraße, Müllerstadelstraße, Paul-Ehrlich-Weg, (Fuß- und Radwegeverbindung); Aufstellungsbeschluss - Bebauungsplan Nr. 1670: Josef-Lang-Straße (östlich) zwischen Radeckestraße und Schmaedelstraße; Teiländerung des Bebauungsplanes Nr. 61 a II. Teilbereich (Aufhebung des Aufstellungsbeschlusses) - Mehr Naturschutz am Gleisdreieck (Antrag der Stadtratsfraktion Bündnis 90 / Die Grünen / RL vom 06.03.2007) - Wiederinkrafttreten der Gartenstadtverordnung für Pasing (Empfehlung Nr. 02-08 / E 00579 der Obermenzinger Bürgerversammlung am 26.10.2006) - Bebauungsplan Nr. 175: Weinbergerstraße, Flurst. 1569/11, ./24 mit ./27 (Aufhebung des Aufstellungsbeschlusses) - Menzinger Straße 85; Nutzung des Grundstücks Menzinger Straße 85 - Siedlungsschwerpunkt Freiham; Freiham Nord - Boden- und Bauschuttrecycling Anlagen und Bodenbörsen in München; Strukturkonzept Allach-West, Bericht zur Verbesserung der Verkehrserschließung (Bekanntgabe) - Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München
+
+- Sitzung: BA 21 - Vollgremium (2007-07-03)
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/88336
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/88336
