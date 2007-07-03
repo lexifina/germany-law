@@ -1,0 +1,98 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2007-07-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1017711
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1017711
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2: Protokoll/e
+- TOP 1.1.3: Sonstiges / anwesende Behördenvertreter
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 16 Ramersdorf - Perlach Widmungserweiterung einer Teilstrecke der Taulerstraße ? + Radfahrverkehr?
+- TOP 2.1.: Gewährung von Zuschüssen aus dem Budget der Bezirksausschüsse 2.6.1.1 AntragstellerIn: Kirchliches Jugendzentrum Neuperlach, für die Maßnahme: Projekt "Colors of Respekt" 2007; Antragssumme: 1.687,50 ?; Beschlussvorlage des Direktoriums vom 31.05.2007 2.6.1.2 AntragstellerIn: DJK Fasangarten e. V., für die Maßnahme: 50-Jahr-Feier vom 12.07.07 bis 15.07.07; Antragssumme: 4.000,-- ?; Beschlussvorlage des Direktoriums vom 31.05.2007 2.6.1.3 AntragstellerIn: Fachbasis der Unterkunftsanlage Hochäckerstraße, für die Maßnahme: Sommerfest am 29.06.2007; Antragssumme: 865,-- ?; Beschlussvorlage des Direktoriums vom 31.05.2007 2.6.1.4 AntragstellerIn: Freunde der FFW Waldperlach e.V., für die Maßnahme: 80-Jahr-Feier am 14./15.07.2007; Antragssumme: 1.850,-- ?; Beschlussvorlage des Direktoriums vom 31.05.2007 2.6.1.5 AntragstellerIn: Elternbeirat der Grundschule am Pfanzeltplatz, für die Maßnahme: Lesewoche "Das Polarjahr 2007"; Antragssumme: 1.027,-- ?; Beschlussvorlage des Direktoriums vom 31.05.2007 2.6.1.6 AntragstellerIn: Bürgerverein Ramersdorf e.V., für die Maßnahme: Ramersdorfer Christkindlmarkt 2007; Antragssumme: 7.000,-- ?; Beschlussvorlage des Direktoriums vom 05.06.2007 - <div>siehe Protokoll</div>
+- TOP 2.2.: 2.6.1 2.6.1.7 AntragstellerIn: Streetworker e. K.; für die Maßnahme: Theater- und Musikfestival am 30.06.2007; Antragssumme: 2.500,- ?; Beschlussvorlage des Direktoriums vom 27.04.2007 (vertagt aus der Sitzung vom 05.06.2007) 2.6.1.8 AntragstellerIn: Freundeskreis Orientierungsstufe München Neuperlach e. V.; für die Maßnahme: Comenius-Projekt (Schulpartnerschaften) vom 07.05. - 12.05.2007; Antragssumme: 331,01 ?; Beschlussvorlage des Direktoriums vom 03.05.2007 (vertagt aus der Sitzung vom 05.06.2007) 2.6.1.9 AntragstellerIn: Bewohnertreff Ramersdorf; für die Maßnahme: Stadtteilfest Ramersdorf am 06.07.2007; Antragssumme: 2.895,- ?; Beschlussvorlage des Direktoriums vom 23.05.2007 2.6.1.10 AntragstellerIn: Elternbeirat des "KiTZ" Kinderglobus; für die Maßnahme: Druck einer Elternzeitung; Antragssumme: 633,31 ?; Beschlussvorlage des Direktoriums vom 23.05.2007 2.6.1.11 AntragstellerIn: Diakonie Hasenbergl e.V.; für die Maßnahme: Aufbau einer Clearingstelle; Antragssumme: 3.000,- ?; Beschlussvorlage des Direktoriums vom 13.06.2007 - <div>siehe Protokoll</div>
+- TOP 3.: Anträge
+- TOP 3.1.: Bessere Beleuchtung des Weges vom U-Bahnhof Quiddestraße zur Plettstraße; Bürgerschreiben vom 13.05.2007 (vertagt aus der Sitzung vom 05.06.2007)
+- TOP 3.2.: Maßnahmen gegen das Verkehrsaufkommen in der Niederalmstraße; Bürgerschreiben vom 16.05.2007 und 23.05.2007 (vertagt aus der Sitzung vom 05.06.2007) - <div>nach Antrag</div>
+- TOP 3.3.: Wiederherstellung und Sanierung des Bolzplatzes an der Kaspermühlstraße/Iblherstraße; Bürgerschreiben vom 10.05.2007 (Teil 2 des Antrages, vertagt aus der Sitzung vom 05.06.2007)
+- TOP 3.1.: Skatepark in Waldperlach (Im Gefilde); Antrag von Jugendlichen aus Waldperlach vom 01.06.2007 - <div>siehe Protokoll</div>
+- TOP 3.2.: Wiederherstellung und Sanierung des Bolzplatzes an der Kaspermühlstraße/Iblherstraße; Bürgerschreiben vom 10.05.2007 (siehe TOP 3.1.3, Teil 1 des Antrages, vertagt aus der Sitzung vom 05.06.2007) - <div>gem. der Empfehlung des UA SJSS</div>
+- TOP 3.3.: Aufstellung von Fußballtoren auf der Wiese nördlich des Spielplatzes am Theodor-Heuss-Platz; Antrag der Jungen Union/Ortsverband Perlach vom 26.05.2007 (vertagt aus der Sitzung vom 05.06.2007)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.6: Sonstige Anträge
+- TOP 4.: Berichte
+- TOP 4.4.1: Unterausschuss Verkehr
+- TOP 4.4.2: Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 4.4.3: Unterausschuss Schule, Jugend Soziales und Sport
+- TOP 4.4.4: Unterausschuss Bau und Stadtteilentwicklung
+- TOP 4.4.5: Unterausschuss Gesundheit, Umwelt und Grünplanung
+- TOP 4.4.7: Berichte der Beauftragten
+- TOP 4.4.7.1: Baumschutz
+- TOP 4.4.7.2: Kinder
+- TOP 4.4.7.3: Jugend
+- TOP 4.4.7.4: Senioren/-innen
+- TOP 4.4.7.5: Frauen
+- TOP 4.4.7.6: Unterkunftsanlagen und Wohnen
+- TOP 4.4.7.7: Integration
+- TOP 4.4.7.8: Behinderte
+- TOP 5.: Anhörungsfälle / Stellungnahmen
+- TOP 5.1.: Stichstraße zwischen Klara-Ziegler-Bogen 115 und 131, Verkehrsberuhigter Bereich; Anhörung durch das Kreisverwaltungsreferat vom 11.06.2007 zur beabsichtigten verkehrsrechtlichen Anordnung - <div>Zustimmung</div>
+- TOP 5.1.: Anhörung durch das Kreisverwaltungsreferat zur beantragten Veranstaltung: ?Ostpark Stadion Stunt Skate Wettbewerb? am 04.08.07 - <div>Zustimmung</div>
+- TOP 5.1.: Europäische Schule München; Errichtung eines Mensagebäudes mit Küche, naturwissenschaftlichen Fachbereichen und Verwaltungsräumen - Baustufe 3 Teil 1; Bitte um schriftliche Einverständniserklärung bezüglich der für die Dauer der Bauzeit erforderlichen Sperrung der Wege auf dem Gelände der Europäischen Schule München, Flur Nr. 285 / 5, Elise-Aulinger-Straße; Zuleitung des staatlichen Bauamtes München 1 vom 06.06.2007 - <div>siehe Protokoll</div>
+- TOP 5.2.: Anhörung durch das Planungsreferat ? Lokalbaukommission vom 19.06.2007 zur beantragten Errichtung von Werbeanlagen: 6 Plakattafeln in der Ständlerstraße 26 - <div>Ablehnung</div>
+- TOP 5.3.: Behindertengerechter Ausbau entlang des Hachinger Bachs zwischen Nawiasky- und Staudingerstraße, 2. Bauabschnitt, vorläufiger Plan, Bitte des Architekten um Ortstermin - <div>vertagt</div>
+- TOP 5.1.: Anhörung durch das Kreisverwaltungsreferat vom 24.05.2007 zur beantragten Veranstaltung: 14. Internationaler Wandertag der Wanderfreunde Edelweiß München e.V. am 21. und 22.07.2007 (vertagt aus der Sitzung vom 05.06.2007) - <div>Zustimmung</div>
+- TOP 6.: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1.: Zustand der Sebastian-Bauer-Straße; Bürgerschreiben vom 03.03.2007; Antrag Nr. 02-08 / B 01992 des BA 16 vom 27.03.2007; Antwortschreiben des Baureferates vom 12.06.2007 - <div>zur Kenntnis genommen bzw. in den UA verwiesen.</div>
+- TOP 6.1.: Rauch- und Alkoholverbot an und auf Spielplätzen; Unterstützung des Antrags Nr. 02-08 / B 01764 des BA 8 Schwanthalerhöhe vom 09.01.2007; BA-Antrags-Nr. 02-08 / B 01818 des BA 16 - Ramersdorf-Perlach - vom 06.02.2007; Zwischennachricht des Baureferats-Gartenbau vom 21.05.2007 - <div>zur Kenntnis genommen bzw. in den UA verwiesen.</div>
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.: Theatron im Ostpark; Kosten für eine Überdachung; Antrag Nr. 02-08 / B 01898 des BA 16; Antwortschreiben des Baureferates vom 22.05.2007 - <div>Nachfrage beim Baureferat</div>
+- TOP 7.: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Information über das Betriebskonzept der Sanierungsmaßnahmen U-Bahnhof Neuperlach Süd; Schreiben der MVG vom 22.05.2007 und Informationsblatt (Zuleitung vom 06.06.2007 - siehe Umlaufmappe) - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.2.: Veröffentlichung des Planungsreferates zum Handlungsprogramm Mittlerer Ring; Zuleitung des Planungsreferates vom 04.06.2007 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.1.: 6. Jour Fixe Bezirksausschüsse; Protokoll der Sitzung vom 10.05.2007; Zuleitung des Kulturreferates vom 05.06.2007 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.1.: Vollzug des BayKiBiG; Bescheide des Schul- und Kultusreferats über die Anerkennung von Plätzen 7.3.1.1 Kindertageseinrichtung Adam-Berg-Straße; Bescheid vom 04.06.2007 7.3.1.2 Kindertageseinrichtung Maximilian-Kolbe-Allee; Bescheid vom 01.06.2007 7.3.1.3 Kindertageseinrichtung Max-Kolmsperger-Straße; Bescheid vom 31.05.2007 7.3.1.4 Kindertageseinrichtung Quiddestraße; Bescheid vom 01.06.2007 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.1.: Baufälle im 16. Stadtbezirk - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 7.4.2.1 Anwesen in der Balanstraße; Zuleitung vom 01.06.2007 7.4.2.2 Anwesen in der Olmendorferstraße; Zuleitung vom 11.06.2007 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.3.: Unterrichtungen des Sozialreferats, Amt für Wohnen und Migration, im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum 7.4.3.1 Anwesen in der Eulenspielstraße; Mitteilung vom 13.06.2007 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.4.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 7.4.4.1 SSW "La Pergola", Gustav-Heinemann-Ring 125 RG; Mitteilung vom 13.06.2007 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.5.: Soziale Stadt Projekte im Sanierungsgebiet "Innsbrucker Ring - westlich"; Aufwertung und Umgestaltung des Karl-Preis-Platzes; Beschluss des Bauausschusses vom 12.06.2007, Sitzungsvorlage Nr. 02-08 / V 09911 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.6.: Krankenhaus München Neuperlach, Bestandsoptimierung und Funktionsverbesserung Haus A (2.BA); Schreiben der Städtischen Klinikum München GmbH vom 02.06.2007 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.7.: Projekt "Rund um den Ostbahnhof", Neue Zuständigkeiten für die weiteren Planungsverfahren; Abdruck eines Schreibens des Referats für Stadtplanung und Bauordnung vom 13.06.2007 - <div>zur Kenntnis  genommen bzw. in den UA verwiesen.</div>
+- TOP 7.1.: 7.6.3 Vollzug des Gaststättengesetzes und des Gesetzes über den Ladenschluss, hier: Tankstelle Rosenheimer Straße 124 b; Abdruck des Schreibens des Kreisverwaltungsreferates vom 23.05.2007 an den Betreiber - <div>in den UA Bau und Stadtteilentwicklung verwiesen</div>
+- TOP 7.1.: AntragstellerIn: Evang.-Luth. Lätare-Gemeinde, für die Maßnahme: Kunstausstellung (Installation) "ROLF IN A BOX"; Antragssumme: 1.200,-- ?; Antrag vom 30.05.2007 - <div>in den UA Kultur, Vereine und Veranstaltungen verwiesen.</div>
+- TOP 7.1.: 7.6.2.1 Kurzbericht über das Projekt "Soziales Lernen contra Gewalt" der Freunde der Wilhelm-Busch-Realschule e.V. vom 14.06.2007 7.6.2.2 Seniorentheaterprojekt 06/07 des FestSpielHauses; Bericht vom 31.05.2007 - <div>7.6.2.1 in den UA SJSS,7.6.2.2 in den UA Kultur verwiesen</div>
+- TOP 8: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 8.8.1: Termine der UA - Sitzungen
+- TOP 8.8.1.1: Verkehr
+- TOP 8.8.1.2: Kultur, Vereine und Veranstaltungen
+- TOP 8.8.1.3: Schule, Jugend, Soziales und Sport
+- TOP 8.8.1.4: Bau- und Stadtteilentwicklung
+- TOP 8.8.1.5: Gesundheit, Umwelt und Grünplanung
+- TOP 8.8.2: Ankündigungen
+- TOP 8.1.: Informationsveranstaltung für die Baumschutzbeauftragten der Bezirksausschüsse am 18. und 19.07.2007; Schreiben des Planungsreferates vom 12.06.2007
+- TOP 8.2.: Wiederholung der Informationsveranstaltung für Baumschutzbeauftagte mit den Inhalten des ersten Seminartages, im Frühsommer 2008; Antrag von Frau del Bondio vom 03.07.2007 - <div>nach Antrag</div>
+- TOP 8.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8.3: Sonstiges / Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 9.1.: siehe gesonderte Einladung
+- TOP 7.&nbsp;: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 7.&nbsp;: Information des Bezirksausschusses über eingegangene Verwendungsnach-weise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.7.1: Bereich Unterausschuss Verkehr
+- TOP 7.7.2: Bereich Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 7.7.3: Bereich Unterausschuss Schule, Jugend, Soziales und Sport
+- TOP 7.7.4: Bereich Unterausschuss Bau und Stadtteilentwicklung
+- TOP 7.7.5: Bereich Unterausschuss Gesundheit, Umwelt und Grünplanung
+- TOP 7.7.6: Sonstige
+- TOP 8.8.1.6: Arbeitskreis Hanns-Seidel-Platz
