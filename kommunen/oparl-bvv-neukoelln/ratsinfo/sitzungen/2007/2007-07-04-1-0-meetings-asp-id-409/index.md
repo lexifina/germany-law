@@ -1,0 +1,133 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2007-07-04T17:07:00+02:00
+- Ende: 2007-07-04T22:30:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=409
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=409
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - erledigt
+- TOP 5.1: Wahl von ehrenamtlichen Sozialpfleger(n)innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Verwaltung und Gleichstellung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 6.1: Zustimmung zur Entscheidung über den Neubau der Straße "Alt-Rudow" von Krokusstraße bis Neudecker Weg - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Bezirkshaushaltsplan für die Jahre 2008/2009 (Doppelhaushalt) - überwiesen
+- TOP 7: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 7.1: Umbenennung einer Fraktion in der BVV Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Vorzeitige Beendigung des Mandats als Bürgerdeputierter im Ausschuss für Stadtentwicklung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.3: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - erledigt
+- TOP 8.1: Elterngeld - beantwortet
+- TOP 8.2: Ehemaliges Finanzamt Neukölln-Süd bald offen Vollzugsanstalt? - beantwortet
+- TOP 8.3: Verschwundene Spielgeräte - beantwortet
+- TOP 8.4: Gemeinschaftsschulen - beantwortet
+- TOP 8.5: Gemeinschaftsschule - beantwortet
+- TOP 8.6: Müll nach Markttagen am Maybachufer - beantwortet
+- TOP 8.7: Nehmen die "Falken" linksautonome Schläger unter ihre Fittiche? - beantwortet
+- TOP 8.8: Italienisches Kita-Profil vor dem Aus? - beantwortet
+- TOP 8.9: Randale in Neuköllner Freibädern - beantwortet
+- TOP 8.10: Zusätzliche Aufgaben für Überwachung der künftigen Umweltzone - beantwortet
+- TOP 8.11: Rente mit 75? - schriftlich beantwortet
+- TOP 8.12: Gemeinsame Kontrollen gegen Alkoholmissbrauch - beantwortet
+- TOP 8.13: Rathausturm - schriftlich beantwortet
+- TOP 8.14: Energie-Wettbewerb der Bezirke - schriftlich beantwortet
+- TOP 8.15: Lerntagebücher sichern? - schriftlich beantwortet
+- TOP 8.16: Neuer Berliner Stauschwerpunkt Britzer Tunnel - schriftlich beantwortet
+- TOP 8.17: G8-Gipfel - schriftlich beantwortet
+- TOP 8.18: Kampf gegen Links? - schriftlich beantwortet
+- TOP 9: Beschlussempfehlungen - erledigt
+- TOP 9.1: Straßeninstandsetzung in Alt-Rudow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Lokaler Aktionsplan des Bezirkes Neukölln "Jugend für Vielfalt, Toleranz und Demokratie gegen Rechtsextremismus, Fremdenfeindlichkeit und Antisemitismus" - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Radroute am Teltowkanal - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Wiedereinführung der Schulreifeuntersuchung für Schulanfängerinnen und Schulanfänger - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Schulhygiene verbessern - Standards einführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Keine künstliche Sonne für Jugendliche unter 18 - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Beschleunigte Rechtsprechung für jugendliche Straftäter - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Sozialarbeiter an Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Boule-Bahn im Carl-Weder-Park - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Umsetzung der Energieeinsparverordnung (EnEV) kontrollieren - Klimaschutz verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Vogelschutz in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Vom Kraftwerk zum Wohngebiet - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - erledigt
+- TOP 10.1: Privates Sicherheitspersonal - beantwortet
+- TOP 10.2: Ausbildungsplätze beim Bezirksamt Neukölln - beantwortet
+- TOP 10.3: Lebensdauer von Straßen - beantwortet
+- TOP 10.4: Krankenhausbeirat - beantwortet
+- TOP 10.5: Schildbürgerstreich des Bezirksamtes - Neuköllner Grün ohne Zukunft - beantwortet
+- TOP 10.6: Mittelstufenzentrum - beantwortet
+- TOP 10.7: Studentenkonzept für Neukölln? - beantwortet
+- TOP 10.8: Schulspeisungen an gebundenen Ganztagsschulen - vertagt
+- TOP 10.9: Jugendgewalt in Neukölln - schriftlich beantwortet
+- TOP 10.10: Rechtsextreme Aktivitäten in Neukölln - schriftlich beantwortet
+- TOP 10.11: Beachparty gegen Rechts - vertagt
+- TOP 11: Große Anfragen - schriftlich - erledigt
+- TOP 11.1: Bezirksbürgermeister allein zu Haus - schriftlich beantwortet
+- TOP 12: Anträge - erledigt
+- TOP 12.1: Ehemaliges Finanzamt Neukölln-Süd ohne abgestimmte Nutzung - in der BVV abgelehnt
+- TOP 12.2: Kein privates Sicherheitspersonal - in der BVV abgelehnt
+- TOP 12.3: Landesprioritätenliste zum Einbau von Aufzügen in U-Bahnstationen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Studentifizierung Neuköllns - überwiesen
+- TOP 12.5: Autohandelsplatz Tempelhofer Weg - überwiesen
+- TOP 12.6: Nur Schrott im Tempelhofer Weg? - überwiesen
+- TOP 12.7: Sicherung der Kleingartenkolonie Neuhofer Straße - überwiesen
+- TOP 12.8: Verbesserung der Zusammenarbeit zwischen den Mütterkursen und den Grundschulen in Neukölln - überwiesen
+- TOP 12.9: Personal und finanzielle Mittel für zusätzliche Aufgaben des Senats - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Verkehrsmaßnahmen im Bereich Gielower Straße/Buschkrugallee - überwiesen
+- TOP 12.11: Unnütze Verkehrszeichen beseitigen - überwiesen
+- TOP 12.12: Wiedereinsetzung der Buslinie 735 - überwiesen
+- TOP 12.13: Sicherheit in Neuköllner Kiezen verbessern I - überwiesen
+- TOP 12.14: Müll nach Markttagen am Maybachufer - überwiesen
+- TOP 12.15: Integrationspreis der BVV Neukölln von Berlin - überwiesen
+- TOP 12.16: Tempo 30 vor dem SPZ - überwiesen
+- TOP 12.17: Nächtlicher Betrieb der LZA Fuldastraße/Donaustraße - überwiesen
+- TOP 12.18: Sicherheit in Neukölln verbessern II - überwiesen
+- TOP 12.19: Lerntagebücher sichern! - überwiesen
+- TOP 12.20: Sofortige Einstellung aller Gender-Programme - in der BVV abgelehnt
+- TOP 12.21: Ausstellung "Das hat's bei uns nicht gegeben - Antisemitismus in der DDR" in Neukölln zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Klimaschädliche Terrassenstrahler - in der BVV abgelehnt
+- TOP 12.23: Buckower Dorfteich vor "Verlandung" retten! - überwiesen
+- TOP 12.24: Verfahren unter Denkmalschutz stehende Bauten im Ortskern Alt-Buckow - überwiesen
+- TOP 12.25: Grüner Pfeil zur Verminderung der Umweltbelastung - überwiesen
+- TOP 12.26: Straßenverkehr vor "Scheibenbesetzern" schützen - überwiesen
+- TOP 12.27: Uferpromenade am Teltowkanal - überwiesen
+- TOP 12.28: Ankündigungen überprüfen - in der BVV abgelehnt
+- TOP 12.29: Zwangsarbeiterlager - überwiesen
+- TOP 12.30: Wasserschaden im Keller der Zürich-Grundschule - in der BVV zurückgezogen
+- TOP 13: Mitteilungen - erledigt
+- TOP 13.1: Fortsetzung des "Autobahnradweges" zwischen Hafen Britz-Ost und Britzer Allee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Neuköllns Schulen rauchfrei? - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Energiesparlampen in Neuköllner Dienstgebäuden - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Gesundheitliche Präventionskurse - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Neue Armut? - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Betreuungszeiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 14.1: Kleingärten erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Attraktive Gestaltung des Hermannplatzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Tempo 30 in der Karl-Marx-Straße verbessert Lebensqualität der Anwohner - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Stopp dem Ausverkauf der High-Deck-Siedlung und Dammwegsiedlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: "Fahr-Rat" für Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Seniorenfreizeitstätten an freie Träger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Tempo 30 im Töpchiner Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Stadtteilmütter für alle QMs - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Erneuerung des Zaunes am St. Michael-Kirchhof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Keine Ausdehnung von Hartz IV-Sanktionen auf die Kosten der Unterkunft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Kinder- und Jugendschutz nicht vernachlässigen - Hilfe anbieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Schwarzarbeit effektiv bekämpfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: U-Bahnhof den Fahrgästen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.14: Eingeschränktes Haltverbot Hermannstraße 7-12 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.15: Gutachten zu Hermann von Wissmann - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: "Respect Gaymes" auch in Neukölln unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.17: Beteiligung des Bezirks Neukölln am Girls Day - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.18: Verwaltungsaufwand - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.19: Seniorenvertretung stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.20: Finanzierungsfortsetzung des Sozialarbeitereinsatzes in der Rütli-Schule - mit Abschlussbericht zur Kenntnis genommen
