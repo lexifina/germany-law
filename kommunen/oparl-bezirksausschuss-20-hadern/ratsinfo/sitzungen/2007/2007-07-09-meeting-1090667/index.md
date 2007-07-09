@@ -1,0 +1,97 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2007-07-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1090667
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1090667
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Fahrtrichtung der Fahrtreppe Nr. 6 am U-Bahnhof Holzapfelkreuth - Ausgang Neufriedenheimer Straße
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Rodensteinstr. 6, 1 Fichte
+- TOP 3.2.: Farnweg 5, 1 serb. Fichte
+- TOP 3.3.: Gräfelfinger Str. 124 a, 1 Fichte
+- TOP 3.4.: Dr.-Ruder-Weg 11, gem. Baumbestandsplan Nr. 56725
+- TOP 3.5.: Hertlstr. 26, 1 Grautanne
+- TOP 3.6.: Brennereistr. 2 a, 1 Kiefer, 1 Zypresse
+- TOP 3.7.: Haseneystr. 28 a, 1 Blautanne
+- TOP 3.8.: Windeckstr. 60, 1 Lärche, 1 Kiefer, 1 Thuja
+- TOP 3.9.: Veilchenstr. 46, 1 Tanne
+- TOP 3.10.: Ginsterweg, gem. Baumbestandsplan Nr. 59900
+- TOP 3.11.: Senftenauerstr. 167, 1 Rotfichte
+- TOP 3.12.: Gräfelfinger Str. 93d, 1 Fichte, 1 Blautanne
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Waldfriedhof, 47 Bäume (Schr. Baureferat, 18.06.07)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Budget
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag der Geschäftsleute und Mieterinitiative am Haderner Stern auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.020,- ? (Direktorium, 19.06.07)
+- TOP 6.2.: Antrag der Gemeinnützigen Schul-GmbH der Aktion Sonnenschein auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 144,- ? (Direktorium, 19.06.07)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Waldgartenstr. 82, 25 Plätze für 3-Jährige bis zur Einschulung (Schul- u. Kultusreferat, 04.06.07)
+- TOP 7.2.: Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Sauerbruchstr. 25, 8 Plätze für unter 3-Jährige, 22 Plätze für 3-Jährige bis zur Einschulung (Schul- u. Kultusreferat, 01.06.07)
+- TOP 7.3.: Daten Kinderkrippen, Stand: 01.06.07 (Sozialreferat, 06.06.07)
+- TOP 7.4.: Verkehrsrechtliche Anordnung; Kurzparkzone Fürstenrieder Str. 256 Seite Guardinistraße (KVR, 19.12.06)
+- TOP 7.5.: Zweckentfremdung von Wohnraum, Großhaderner Str. 4 (Sozialreferat, 30.05.07)
+- TOP 7.6.: Verkehrsrechtliche Anordnung, Aufhebung des personenbezogenen Behindertenparkplatzes am Hans-Grässel-Weg 7 a (KVR, 23.05.07)
+- TOP 7.7.: Zweckentfremdung von Wohnraum, Dr.-Ruder-Weg 11 (Sozialreferat, 22.06.07)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Erinnerungsverfahren, Kriegerheimstr. 16-16a (Baureferat, 11.06.07)
+- TOP 8.2.: Veranstaltung in einer städtischen Grünanlage, hier: Spielplatz/Wiese Platanenstr./ Am Wiesenhang, Sommerfest der Elterninitiative Schulpiraten am 14.07.07 (KVR, 20.06.07)
+- TOP 8.3.: Antrag auf ein Feuerwerk der Klasse II auf dem Sportplatz der Bezirkssportanlage Am Hedernfeld, Ludwig-Hunger-Str. 11 am 07.07.07 bzw. 15.07.07 (KVR, 22.06.07)
+- TOP 8.4.: Veranstaltung auf Privatgrund, hier: Sommerfest Haderner Stern, Stiftsbogen 37 vom 29.-30.06.07 (KVR, 26.06.07)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Auftrag aus dem Regionalgespräch mit den Bezirksausschüssen West: Definition großflächiger Einzelhandel (Planungsreferat, 01.06.07)
+- TOP 9.2.: Grünanlage "Am Wiesenhang" (Baureferat, 01.06.07, 2 Bürgerschreiben))
+- TOP 9.3.: Mehr Radständer für den östlichen U-Bahn-Aufgang am Haderner Stern, BA-Antrag Nr. 2030 vom 16.04.07 (Baureferat, 04.06.07)
+- TOP 9.4.: Renovierung des ganzen Hochbaus der Grundschule an der Senftenauerstraße, BA-Antrag Nr. 1753 vom 08.01.07 (Schul- u. Kultusreferat, 07.05.07)
+- TOP 9.5.: Aula der Hauptschule an der Blumenauer Str. 11 (Schul- und Kultusreferat, 11.06.07)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Beantragung einer Ganztagsklasse zum Schuljahr 2007/2008 an der Hauptschule an der Blumenauer Str. 11 (Staatl. Schulamt, 30.05.07)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Dank für Zuwendung aus Budgetmitteln des BA 20 (SV Sentilo Blumenau e.V., 06.06.07
+- TOP 11.2.: Veröffentlichung des Planungsreferates zum Handlungsprogramm Mittlerer Ring (Planungsreferat, 04.06.07)
+- TOP 11.3.: Reservierung in der Ratsboxe für die Münchner BA´s, Oktoberfest 2007 (Direktorium, 26.06.07)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 09.05.2007: Perspektive München, Leitlinie Kinder- und Familienpolitik
+- TOP 12.1.: vom 20.06.2007: Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006, Ergebnis der fachanwaltlichen Prüfung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Sozialausschusses vom 10.05.2007: Verbot der Zweckentfremdung von Wohnraum, Antrag auf Genehmigung des Abbruchs des Anwesens Marchioninistr. 3 und 5 für die Errichtung einer dreigruppigen Kinderkrippe: Der BA Hadern hat am 12.02.2007 der Zweckentfremdung zugestimmt.
+- TOP 12.1.: Beschluss des Schulausschusses vom 27.06.2007: Abriss und Neubau einer Kindertageseinrichtung mit 6 Gruppen, Senftenauerstr. 25 (Projektkosten 3.648.000 ?)
+- TOP 12.2.: Beschluss des Bauausschusses vom 03.07.2007: Beseitigung schienengleicher Bahnübergänge - Gegenwärtiger Stand -
+- TOP 12.3.: Beschluss des Bauausschusses vom 03.07.2007: Störfallmanagementkonzept Tunnel Mittlerer Ring Südwest, insbesondere zur Ausweichstrecke über die Fürstenrieder Straße, südlicher Teil bis Ammerseestraße, mit 6 Lichtsignalanlagen
+- TOP 12.4.: Beschluss des Bauausschusses vom 03.07.2007: Vermeidung von Hundekot in städtischen Grünanlagen und Grünstreifen
+- TOP 12.5.: Beschluss des Bauausschusses vom 03.07.2007: Stadtweites Rauchverbot an und auf Spielplätzen
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.05.2007: Mehrjahresinvestitionsprogramm für die Jahre 2007-2011
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.05.2007: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2007-2011
+- TOP 12.3.: Beschluss des Sozialausschusses vom 10.05.2007: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2007-2011, Einzelplan 4 / Sozialbereich, insbesondere zum Schreiben des BA Hadern vom 13.10.2006 (Anlage 9): Das vom BA geforderte Alten- und Service-Zentrum am Stiftsbogen kann "wegen fehlender Priorität" im Zeitraum der MIP-Planungen (bis 2012) nicht angemeldet werden" (Seite 13).
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses vom 15.05.2007: Entwurf des Mehrjahresinvestitionsprogramms 2007-2011, Einzelplan 4 / Jugendamtsbereich, insbesondere zum pfiffTEEN am Wolkerweg und zur Kinderkrippe an der Marchioninistraße (IL 2, Seite 15-16)
+- TOP 12.5.: Beschluss des Kulturausschusses vom 14.06.2007: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2007-2011 und Stellungnahme zu den Anregungen der BA´s, insbesondere zur Gestaltung des Max-Lebsche-Platzes mit Bürgerhaus/ Festplatz und Ladenlokalen, zur Errichtung eines Stadtteilmuseums/ Archivs im Rathaus der ehemaligen Gemeinde Großhadern an der Würmtalstraße und zu den ehemaligen Sparkassen-Räumen in der Guardinistr. 90 (jeweils abgelehnt, S. 17-18)
+- TOP 12.6.: Beschluss des Sportausschusses vom 19.06.2007: Mehrjahresinvestitionsprogramm 2007-2011; 1. Investitionsmaßnahmen für Sportanlagen, 2. Stellungnahmen der BA´s, insbesondere zu dem am 09.10.2006 vom BA Hadern geforderten "Lärm- und Abgasschutzmaßnahmen auf der Bezirkssportanlage Wolkerweg" (abgelehnt), zur "Modellsporthalle Hadern" in IL 3 ( Der Antrag auf Höherstufung nach IL 1 wird gestellt, sobald ein "konkreter Antrag" auf "Erteilung eines Zuschusses bzw. Darlehens" vorliegt) und zum "Kunstrasenplatz auf der Bezirkssportanlage Wolkerweg" (abgelehnt)
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.06.2007: Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung der Vollversammlung des Stadtrates vom 20.06.2007: Initiative Europäische Metropolregion München - Sachstandsbericht
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 27.06.2007: A 99 West - Ergebnisse der Verkehrszählungen "Vorher-Nachher-Untersuchung", insbesondere zur "A 96 Lindau-München" zwischen Sendling und Inning (Zunahme der Verkehrsbelastung auf der A 96 östlich A 99 West um 18.000 Kfz = 24 %, auf der A 96 Stadtgrenze Blumenau um 13.000 Kfz = 14.%) und zum Schwerverkehr auf der A 96 (Abnahme insgesamt um 17 % , des mautpflichtigen Anteils über 12 t sogar um 29 %)
+- TOP 12.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 16.05.2007: Wohnen in München, III
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
