@@ -1,0 +1,7 @@
+# TOP 3: Verschiedenes
+
+- Sitzung: 7., außerordentliche, öffentliche Sitzung des Jugendhilfeausschusses (2007-07-10)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=17195
+- Ergebnis: (offen)
