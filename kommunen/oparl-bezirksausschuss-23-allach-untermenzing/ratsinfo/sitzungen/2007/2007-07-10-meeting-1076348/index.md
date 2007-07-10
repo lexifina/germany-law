@@ -1,0 +1,62 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2007-07-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1076348
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1076348
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Südring für die S-Bahn und Nordring für den Güterverkehr
+- TOP 1.2.: Fahrradstrasse an der Würm
+- TOP 1.3.: Antrag auf Baumveränderung vom 06.03.07 bzw. Fällantrag von Anfang Juni 2007 auf dem Grundstück Finsterwalderstr. 19
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 5.1.: Vorhabensbezogener Bebauungsplan mit Grünordnung Nr., Autobahnkreuz München West (südlich), Bundesautobahn A 8 (südwestlich), Mooswiesenstraße (westlich), Mühlangerstraße (nördlich), Berglwiesenstraße (östlich), Bundesautobahn A 99 (südöstlich), (Teiländerung des Bebauungsplanes Nr. 1066), Aufstellungsbeschluss
+- TOP 5.2.: Strukturkonzept Mühlangerstraße / Langwied, Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung (Aufstellungsbeschluss)
+- TOP 5.3.: Haltverbot am Mühlhölzlweg / Im Grund
+- TOP 5.4.: Bauvorhaben Mangstr. 15: Neubau eines Dreispänners mit Garagen
+- TOP 5.5.: Eversbuschstr. 42: Errichtung einer Werbeanlage
+- TOP 5.6.: Franz-Nißl-Str. 53: Neubau eines Wohn- und Bürogebäudes als Anbau an einen bestehenden Hochbunker / Nutzungsänderung des Hochbunkers
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: TSV Allach 09 e.V.
+- TOP 8.2.: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Bad Allach Gemeinnützige AG
+- TOP 9: Schreiben des Baureferates
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Liste der beantragten Baumfällungen (v. 11.-17.06.07, v. 18.-24.06.07)
+- TOP 11.2.: Bauanträge (v. 11.-17.06.07, v. 18.06.-24.06.07)
+- TOP 11.3.: Finsterwalderstr. 33, Neubau eines Doppelhauses mit Garagen
+- TOP 11.4.: Vollzug der BaumschutzVO - Ippenbergerstr. 1 s. Baumbest.plan Nr. 56191 - Achwaldstr. s. Baumbest.plan Nr. 56697 - Franz-Töpsl-Weg s. Baumbest.plan Nr. 56331
+- TOP 11.5.: Borkenkäfer-Bescheinigung, Francestr. 6-12
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Sportausschuss vom 19.06.07 - Mehrjahresinvestitionsprogramm (MIP) 2007-2011 1. Investitionsmaßnahmen für Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 22.2.: Vollversammlung vom 20.06.07 - Initiative Europäische Metropolregion München - Sachstandsbericht
+- TOP 22.3.: Kinder- und Jugendhilfeausschuss vom 26.06.07 - Investitionskostenförderung gem. Art. 27 BayKiBiG Kinderkrippe Löfflerstr. 1 (Claudia Neumann) mit 20 Kinderkrippenplätzen Umbau bestehender Räume
+- TOP 22.4.: Ausschuss für Stadtplanung und Bauordnung vom 27.06.07 - Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München - Bebauungsplan mit Grünordnung Nr. 2008 Hintermeierstraße (südlich), Bahnlinie München - Treuchtlingen (westlich), Allacher Str. (nördlich), Kirsch- und Esmarchstr. (östlich) - Bebauungsplan mit Grünordnung Nr. 2009 Bundesautobahn A 8 (südwestlich) zwischen Bergsonstraße und Breiter Weg, Bundesautobahn A 8 (nordöstlich) zwischen Breiter Weg und Lochhausener Straße, Goteboldstr. zwischen Lochhausener Straße und südlicher Grundstücksgenze FlNr. 1121/5 (Auenbruggerstr. 115) zwischen dem östl. Straßenrand bis 15m östl. davon, Goteboldstr. zwischen Grundstücksgrenze FlNr. 1121/5 (Auenbruggerstr.115) und Müllerstadelstr. zwischen dem südwestl. Straßenrand bis 15m südwestl. davon, Müllerstadelstr. zwischen Goteboldstr. und Paul-Ehrlich-Weg zwischen dem nordwestl. Straßenrand bis 15 m nordwestl. davon, Paul-Ehrlich-Weg zwischen Müllerstadelstr. und der Anrampung der Autobahnbrücke zwischen dem südl. Straßenrand bis 15 m südl. davon - Menzinger Str. 85 - A 99 West - Ergebnisse der Verkehrszählungen "Vorher-Nachher-Untersuchung" - Boden-und Bauschuttrecycling Anlagen und Bodenbörsen in München; Strukturkonzept Allach-West, Bericht zur Verbesserung der Verkehrserschließung
+- TOP 22.5.: Bauausschuss vom 03.07.07 - Beseitigung schienengleicher Bahnübergänge - Gegenwärtiger Stand - - Spielplatz an der Megerlestraße / Ecke Freseniusstraße Verschiedene Verbesserungsmaßnahmen - Vermeidung von Hundekot in städtischen Grünanlagen und Grünstreifen - Stadtweites Rauchverbot an und auf Spielplätzen
+- TOP 22.6.: Ausschuss für Stadtplanung und Bauordnung vom 04.07.07 - Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007
+- TOP 23: Verschiedenes
