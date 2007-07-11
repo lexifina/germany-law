@@ -1,0 +1,117 @@
+# 10. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2007-07-11T17:03:00+02:00
+- Ende: 2007-07-11T22:38:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1397
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1397
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=34683
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - überwiesen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Fußgängerampel vor dem Seniorenclub Hermsdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.2: Abfallbehälter im Einkaufszentrum Gotthardstraße aufstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Verkehrskonzept Tegel - vertagt
+- TOP 5.4: Partnervertrag mit Umlandgemeinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Auch in Zukunft kein Bordell in Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Vorsorgliche Schutzmaßnahme vor hochgradig allergenen Neophyten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Ausstattung von Personal der ARGE Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Rettungshundetraining im Tegeler Forst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Ampelanlage Heiligenseestraße / Konradshöher Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Schutz für Fahrgäste vor Tauben unter der Brücke Wilhelmsruher Damm am S-Bahnhof Wittenau - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.11: Qualitätskontrollen in Kitas sicherstellen - überwiesen
+- TOP 5.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.13: Vorbereitung des Humboldtjahres - touristisches Hinweisschild an der BAB 111 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Altakten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Konzept für Umwelttag 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.16: Mehr Hygiene durch Einweghandschuhe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.17: Aufstellung des Bebauungsplanes 12-15 für das Grundstück Alter Bernauer Heerweg 41-45 "Siedlung Rathenow" sowie für eine Teilfläche des Alten Bernauer Heerweg - überwiesen
+- TOP 5.18: Aufstellung des Bebauungsplanes 12-16 für Teilflächen der Grundstücke Gabrielenstraße 13 und 15/25 sowie für Teilflächen der Flurstücke 297/40, ... - überwiesen
+- TOP 5.19: Abschluss einer Verwaltungsvereinbarung zwischen den Bezirken Reinickendorf, Charlottenburg-Wilmersdorf und Spandau zum Eigenbetrieb "Kindertagesstätten Nordwest" - überwiesen
+- TOP 5.20: Aufstellung des Bebauungsplanes XX-247-1 für das Grundstück Gertrudstraße 16 G im Bezirk Reinickendorf, Ortsteil Hermsdorf - überwiesen
+- TOP 5.21: Aufstellung des Bebauungsplanes XX-240b-1 für das Grundstück Sagemühler Steig 19/ Freester Weg im Bezirk Reinickendorf, Ortsteil Heiligensee - überwiesen
+- TOP 5.22: Materialien für PPP - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.23: Ausstellung der Botschaft des Staates Israel "Ein Visum fürs Leben" - vertagt
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Gründung "Bündnis für Familien" und jetzt? - vertagt
+- TOP 6.2: Jugendgewalt in Reinickendorf - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Wahl des Schiedsmannes Dieter Heidbreder - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Centre Bagatelle - erledigt
+- TOP 8.2: Gutachten zum PPP-Projekt "Schulen" - erledigt
+- TOP 8.3: NEB-Insel - erledigt
+- TOP 8.4: Energiesparlampen als kommunaler Beitrag zum Klimaschutz - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Aufstellung eines Kaffeeautomaten im Rathaus Reinickendorf - vertagt
+- TOP 8.6: Computerkurse für Lehrer und Erzieher - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Herstellung einer Fußgängerverbindung zwischen Tegel-Süd und Alt-Tegel - in der BVV abgelehnt
+- TOP 8.8: Sicherer Schulweg in Alt-Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Deutsch-französisches Schulprojekt unterstützen - erledigt
+- TOP 8.10: Reinickendorfer Umwelttag 2007 - erledigt
+- TOP 8.11: Gastankstellenverzeichnis in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.12: Schülerbetreuung - ohne Änderungen in der BVV beschlossen
+- TOP 8.13: Senat soll Lehrerausstattung sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 8.14: ALBA Basketball AG an Schulen - vertagt
+- TOP 8.15: Mehr Schülerbegleiter in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.16: Kopflausbefall - Schulen und Kitas unterstützen - erledigt
+- TOP 8.17: Hundespielplatz am Schäfersee - vertagt
+- TOP 8.18: Erste Klasse Erpelgrundschule 2007/2008 - vertagt
+- TOP 8.19: Teilnahme von Reinickendorfer Schulen am PPP-Modell - überwiesen
+- TOP 8.19.1: Detailprüfung von Schulen beim PPP-Modellprojekt - überwiesen
+- TOP 8.19.2: Teilnahme an PPP - Benennung von Schulen - überwiesen
+- TOP 8.19.3: Teilnahme von Reinickendorfer Schulen am PPP-Modell - überwiesen
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Anzahl der polizeilichen Präventionsbeauftragten nicht reduzieren - vertagt
+- TOP 9.2: Zentrale Jugendsachbearbeitung erhalten - vertagt
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Teilnahme am Programm WiS-Wissen in den Schulen - überwiesen
+- TOP 10.2: Parkhäuser in Tegel - überwiesen
+- TOP 10.3: Strandbäder in Regie des Bezirks - überwiesen
+- TOP 10.4: Spielplatz für Ältere in Reinickendorf - überwiesen
+- TOP 10.5: Gesundheitstag 2007 in Reinickendorf - überwiesen
+- TOP 10.6: Kleine Liga im Internet-Auftritt des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Personaleinsparungen im Bezirk - in der BVV zurückgezogen
+- TOP 10.8: Weihnachtsmarkt in Tegel - überwiesen
+- TOP 10.9: Monitore: Kultur-Info für die Besucher - überwiesen
+- TOP 10.10: Kooperation des Namibia-Kunstprojektes mit Reinickendorf - überwiesen
+- TOP 10.11: Kinder in Angst brauchen Schutz - Projekt Notinsel in Reinickendorf - überwiesen
+- TOP 10.12: Senat soll Elternwillen akzeptieren: Victor-Gollancz-Grundschule - vertagt
+- TOP 10.13: Halteverbot in der Avenue Charles de Gaulle - überwiesen
+- TOP 10.14: Verbotene Waffen an Schulen - überwiesen
+- TOP 10.15: "AIDA-Projekt" auch in Reinickendorf - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Langfristige Pachtverträge für Reinickendorfer Sommerbäder - überwiesen
+- TOP 11.2: Linksabbiegerspur Kreuzung Oranienburger Str. / Eichborndamm - überwiesen
+- TOP 11.3: Senat soll Lehrerinnen- und Lehrermangel entgegenwirken - überwiesen
+- TOP 11.4: Betrieb der Reinickendorfer Strandbäder langfristig sichern - überwiesen
+- TOP 11.5: Patenschaften von Zahnärztinnen und Zahnärzten mit Kitas und Grundschulen - überwiesen
+- TOP 11.6: "Villa Reichelt" in Frohnau - vertagt
+- TOP 11.7: Benennung eines Paul-Poser-Platzes in Frohnau - überwiesen
+- TOP 11.8: Fußgängerüberweg an der Welfenallee in Frohnau - vertagt
+- TOP 11.9: Mehr Sicherheit für Fußgänger am Zeltinger Platz und Ludolfinger Platz in Frohnau - vertagt
+- TOP 11.10: Linienführung des Buses 120 in Frohnau - vertagt
+- TOP 12: Auswirkungen der Mieterhöhungen durch die Gesobau auf Hartz-IV-Empfänger/Empfängerinnen - beantwortet
+- TOP 12.1: Mieterhöhungen der Gesobau - überwiesen
+- TOP 13: Ordnungsamt im Außendienst - beantwortet
+- TOP 14: Projekt "Ausbau des Borsighafens" - beantwortet
+- TOP 14.1: Verwaltungshandeln zum Borsighafen solide untersuchen - in der BVV abgelehnt
+- TOP 15: Hundekot ordnungsgemäß entsorgen - in der BVV abgelehnt
+- TOP 16: Rechtsextreme Straftaten - ohne Änderungen in der BVV beschlossen
+- TOP 17: Beutelspender für Hundekot aufstellen - in der BVV abgelehnt
+- TOP 18: Reinickendorf zeigt Flagge - Regenbogenfahne hissen! - ohne Änderungen in der BVV beschlossen
+- TOP 19: Konzept zur Schärfung des Bewusstseins für die Belange von Schwulen und Lesben im Bezirk entwickeln - überwiesen
+- TOP 19.1: Für ein offenes und tolerantes Miteinander in Reinickendorf - überwiesen
+- TOP 20: Verbot von Flatrate-Partys in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 21: PPP-Auswahl von Schulen - überwiesen
+- TOP 22: Akten Bauprojekt Borsighafen - ohne Änderungen in der BVV beschlossen
+- TOP 23: Keine Besteuerung von über das Jugendamt vermittelten Tagesmüttern - ohne Änderungen in der BVV beschlossen
