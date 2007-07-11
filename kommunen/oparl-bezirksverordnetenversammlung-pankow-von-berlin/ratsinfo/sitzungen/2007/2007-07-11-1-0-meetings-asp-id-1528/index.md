@@ -1,0 +1,95 @@
+# 8. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2007-07-11T17:30:00+02:00
+- Ende: 2007-07-11T22:10:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1528
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1528
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=27191
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - erledigt
+- TOP 1.2: Geschäftliche Mitteilungen - erledigt
+- TOP 1.3: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Steg über den Gleimtunnel - mit Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - beantwortet
+- TOP 1.7: Konsensliste der 8. Tagung der BVV - erledigt
+- TOP 1.8: Wahl der Mitglieder des Integrationsbeirates Pankow für die VI. Wahlpe-riode - vertagt
+- TOP 1.9: Wahl der Mitglieder des Beirates für Sozialhilfeangelegenheiten und deren Stellvertreter - gewählt
+- TOP 1.10: Neuwahl der Mitglieder des Beirates für Sozialhilfeangelegenheiten - gewählt
+- TOP 1.11: Entwurf des Doppelhaushaltsplans 2008/2009 für den Bezirk Pankow (einschließlich Vorbericht, Stellenplan und produktorientierten Haushalt) - überwiesen
+- TOP 1.12: Fortschreibung des Freizeitstättenentwicklungsplanes Pankow von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Umleitung des Verkehrs in Heinersdorf - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Lage der Kinder in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Ausbildungspaten - vertagt
+- TOP 1.16: Entwicklung des ehemaligen Rangier- und Güterbahnhofes Pankow - vertagt
+- TOP 1.17: Mehr Fluss - weniger Staub?! - vertagt
+- TOP 1.18: U-Bahnhof Rosa-Luxemburg-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Fortschreibung Sportentwicklungsplan - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Bezirkseigene Fahrzeuge in der Umweltzone - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Handwerk nicht im Innenstadtring ausschließen - vertagt
+- TOP 1.22: Errichtung einer Straßenbahnhaltestelle in der Buschallee auf der Linie M4 Richtung Hackescher Markt - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Schäden an öffentlichen Einrichtungen durch Graffiti und Vandalismus - vertagt
+- TOP 1.24: Klimaschutz- und Energieeinspar-Projekte an Schulen fortführen und ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Einhaltung von Ordnung, Sicherheit und Jugendschutz auf dem Weißenseer Blumenfest - vertagt
+- TOP 1.26: Mehr Sicherheit im Straßenverkehr für Kinder in Französisch-Buchholz - überwiesen
+- TOP 1.27: Kooperativen Standort EliasHof entwickeln - vertagt
+- TOP 1.28: Ortskern von Französisch-Buchholz entwickeln - zurückgezogen
+- TOP 1.29: Kontrollen des Ordnungsamtes in Pankow - vertagt
+- TOP 1.30: Weniger Ärger und Stress beim morgendlichen S-Bahn-Fahren - vertagt
+- TOP 1.31: Jobcenter-Modellprojekte - Von der Ich-AG zur Wir-AG - überwiesen
+- TOP 1.32: Bezirkliche Beiräte öffentlich machen - überwiesen
+- TOP 1.33: Freizeitsport in Pankow / Laufstrecken - Atlas - überwiesen
+- TOP 1.34: Eingeschränktes Haltverbot in der Florastraße 27-28 an den tatsächlichen Bedarf anpassen - überwiesen
+- TOP 1.35: Schaffung einer Stelle bezirklicher Beauftragter Jobcenter - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Heckrinder in der Zingergrabenniederung - überwiesen
+- TOP 1.37: Neue Mensa für die Rosa-Luxemburg-Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Verkehrsberuhigungskonzept - überwiesen
+- TOP 1.39: Terminplan für die Haushaltsberatungen für den Doppelhaushalt 2008/2009 - ohne Änderungen in der BVV beschlossen
+- TOP 1.40: Schwerpunkt für Stadtteilbibliothek - vertagt
+- TOP 1.41: Umstrukturierung des Amtes für Planen und Genehmigen - ohne Änderungen in der BVV beschlossen
+- TOP 1.42: Gemeinschaftsschule für Pankow - vertagt
+- TOP 1.43: Bürgerparktor - vertagt
+- TOP 1.44: Umfassende Reform des jetzigen Zuweisungssystem der Senatsverwaltung für Finanzen für die bezirklichen Haushaltsmittel - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bericht zu GA-Mitteln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Halbjährliche Berichterstattung über Budgetentwicklung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Wegeleitsystem für Berlin-Buch - vertagt
+- TOP 2.4: Leerstand beseitigen - den Ratskeller Pankow öffentlich nutzbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Sportplatz Erich-Weinert-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Auszahlung einer Weihnachtsbeihilfe für BezieherInnen von ALG II und Grundsicherung nach SGB XII - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Aufarbeitung der Altakten in den Fachbereichen SozS, SozG, SozE im Jahr 2007 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Lokaler Aktionsplan Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Ombudsstelle für Hartz IV- Betroffene im BA Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Schließung Polizeiabschnitt 18, Idastraße, verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Neue Impulse für den Agendaprozess in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Zusammenleben im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Brücken bauen im Mauerpark - Erholung ohne Umwege - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Arbeitsmarktprogramm 2007 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Arbeit im JobCenter Pankow und Kooperation mit privaten Arbeitsvermittlungen - vertagt
+- TOP 2.16: Weniger ist mehr - Schilderwald roden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Schulsituation in Prenzlauer Berg verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Bebauungsplan XVIII-29a für die unbebauten Flächen nördlich des Lindenberger Weges zwischen Lindenberger Weg 42 und Lindenberger Weg 65 bis zum Bahngelände (Bahnaußenring) sowie für die Klagenfurter Straße und Abschnitte des Lindenberger Weges und der Okertalstraße sowie für Teilflächen der Grundstücke Lindenberger Weg 40 und Lindenberger Weg 43/Klagenfurter Straße 1 im Bezirk Pankow, Ortsteil Blankenburg - vertagt
+- TOP 2.19: Bebauungsplan 3-14 für die Grundstücke Straßburger Straße14 / Saarbrücker Straße und Saarbrücker Straße 8-9 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Nutzungsentgelterhöhung für zu Erholungszwecken genutzte Parzellen in der Anlage "Idehorst" (kommunaler Teil) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Organisationsuntersuchung in der SE Immobilien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Bebauungsplanverfahren 3-12 für das Gelände zwischen den nördlichen Grenzen der Grundstücke Roelckestraße 93, Berliner Allee 317 und 321, Berliner Allee, Nüßlerstraße und Roelckestraße sowie einen Abschnitt der Feldtmannstraße im Bezirk Pankow, OT Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Aufstellung einer Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB für das Gebiet "Grüne Stadt" zwischen Greifswalder Straße, An-ton-Saefkow-Straße, Kniprodestraße und John-Schehr-Straße im Bezirk Pankow, OT Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Ausbildungsoffensive Pankow im Zeitraum vom 06. September 2007 bis Ende März 2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Mehrkosten Investitionsmaßnahme Bürodienstgebäude Fröbelstr. 17, Sanierung Haus 4 (Kapitel 3307, Titel 715 04) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - vertagt
+- TOP 3.1: Expertise von Nichtregierungsorganisationen im Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - vertagt
+- TOP 3.2: Tourismusmarketingkonzept für den Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3.3: Fortschreibung des Freizeitstättenentwicklungsplanes Pankow von Berlin - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3.4: Gestaltung der Besprechungsräume Nr. 227 im Haus 6 und Nr. 411 im Haus 9 - vertagt
+- TOP 3.5: Telefonanschlüsse - vertagt
+- TOP 3.6: Wahlplakatierung - saubere Laternen nach der Wahl - vertagt
+- TOP 3.7: Festsetzung von Eckwerten für die Aufstellung des Doppelhaushaltsplanes 2008/2009 des Bezirks Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
