@@ -1,4 +1,4 @@
-# Inhaltsübersicht
+# Inhaltsübersicht 1
 Teil 1 Sparkassen im Freistaat Sachsen
 Abschnitt 1 Allgemeine Vorschriften
 § 1 Rechtsnatur, Trägerschaft
@@ -44,24 +44,24 @@ Abschnitt 6 Durchführungsbestimmungen
 § 32 Durchführungsbestimmungen
 Teil 2 Landesbank Sachsen Girozentrale
 Abschnitt 1 Allgemeine Vorschriften
-§ 33 Name, Rechtsform, Träger, Sitz, Satzung, Mündelsicherheit
-§ 34 Aufgaben
-§ 35 Emissionsrecht
-§ 36 Haftung
-§ 37 Stammkapital, Rücklagen
-§ 38 Sonstiges Kapital
+§ 33 Sparkassenzentralbank, Girozentrale
+§ 34 (aufgehoben)
+§ 35 (aufgehoben)
+§ 36 (aufgehoben)
+§ 37 (aufgehoben)
+§ 38 (aufgehoben)
 Abschnitt 2 Organisation der Sachsen LB
-§ 39 Organe
-§ 40 Anteilseignerversammlung
-§ 41 Verwaltungsrat
-§ 42 Vorstand
-§ 43 Sorgfaltspflicht, Verantwortlichkeit, Schweigepflicht
+§ 39 (aufgehoben)
+§ 40 (aufgehoben)
+§ 41 (aufgehoben)
+§ 42 (aufgehoben)
+§ 43 (aufgehoben)
 Abschnitt 3 Jahresabschluss, Fusion
-§ 44 Jahresabschluss
-§ 45 Fusion
-Abschnitt 4 Sonstige Vorschriften
-§ 46 Dienstsiegel
-§ 47 Rechtsaufsicht
+§ 44 (aufgehoben)
+§ 45 (aufgehoben)
+Abschnitt4 Sonstige Vorschriften
+§ 46 (aufgehoben)
+§ 47 (aufgehoben)
 § 48 Beteiligungsverband sächsischer Sparkassen
 Teil 3 Sachsen-Finanzgruppe
 Abschnitt 1 Allgemeine Vorschriften
