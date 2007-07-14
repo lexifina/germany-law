@@ -1,4 +1,5 @@
-# Inhaltsübersicht
+# Inhaltsübersicht 2
+Teil 1 Schiedsstellen in den Gemeinden
 Abschnitt 1 Gemeindliche Schiedsstellen
 § 1 Aufgaben
 § 2 Errichtung
@@ -55,11 +56,21 @@ Abschnitt 4 Kosten und Entschädigung
 § 50 Absehen von der Kostenerhebung
 § 51 Einwendungen gegen den Kostenansatz
 § 52 Reisekostenvergütung und Entschädigung
-§ 53 Entschädigung von Dolmetschern
+§ 53 Vergütung von Dolmetschern
 § 54 Einnahmen
-Abschnitt 5 Übergangs- und Schlussbestimmungen
-§ 55 Fortbestand der Schiedsstellen
-§ 56 Fortdauer der Amtsausübung
-§ 57 Anhängige Verfahren
-§ 58 Vollstreckung
-§ 59 In-Kraft-Treten und Außer-Kraft-Treten
+Teil 2 Gütestellen gemäß § 794 Abs. 1 Nr. 1 der Zivilprozessordnung
+§ 55 Kreis möglicher Gütestellen
+§ 56 Anerkennungsvoraussetzungen
+§ 57 Verfahrensordnung
+§ 58 Aktenführung
+§ 59 Haftpflichtversicherung
+§ 60 Erlöschen, Rücknahme und Widerruf der Anerkennung
+§ 61 Zuständigkeit und Verfahren
+§ 62 Anfechtung von Entscheidungen
+Teil 3 Übergangs- und Schlussbestimmungen
+§ 63 Fortbestand der Schiedsstellen
+§ 64 Fortdauer der Amtsausübung
+§ 65 Anhängige Verfahren
+§ 66 Vollstreckung
+§ 67 Fortbestehen bereits anerkannter Gütestellen
+§ 68 Inkrafttreten und Außerkrafttreten
