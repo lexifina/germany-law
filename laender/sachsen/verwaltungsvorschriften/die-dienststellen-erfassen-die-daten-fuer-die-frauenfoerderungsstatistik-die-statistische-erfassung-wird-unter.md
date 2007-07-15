@@ -1,8 +1,8 @@
 # Die Dienststellen erfassen die Daten für die Frauenförderungsstatistik. Die statistische Erfassung wird unter Verwendung der für den jeweiligen Bereich geltenden Erhebungsvordrucke „Sächsische Frauenförderungsstatistik“ (Anlage 1) vorgenommen. Bereic
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2006-09-08 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/5282.1
+- Datum: 2007-07-15 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/5282.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -52,18 +52,16 @@ Schlüsselsystematik der Laufbahnen
 
 Für Beamtinnen und Beamte sowie für Beamtinnen und Beamte in Ausbildung
 
-Für Beamtinnen und Beamte sowie für Beamtinnen und Beamte in Ausbildung
+Schlüsselsystematik der Laufbahnen
 
 | Schlüsselnummer
 
 | Laufbahn
 
-|   Schlüssel-
+| Schlüssel-
 
 nummer
-|  Laufbahn
-
-|
+| Laufbahn
 
 |
 |  Höherer Dienst
@@ -106,6 +104,9 @@ nummer
 
 | 123
 | Höherer veterinärmedizinischer Verwaltungsdienst
+
+| 124
+| Höherer Dienst in der Gewerbeaufsicht
 
 |
 |
@@ -216,15 +217,14 @@ Laufbahnen für besondere Fachrichtungen
 | 223
 | Gehobener landwirtschaftlich technischer Dienst
 
-| 224
-|
-wird gestrichen
-
 | 225
 | Gehobener Forstdienst
 
 | 226
 | Gehobener Archivdienst
+
+| 227
+| Gehobener Dienst in der Gewerbeaufsicht
 
 |
 |
@@ -324,539 +324,131 @@ Laufbahnen für besondere Fachrichtungen
 Anlage 3
 
 Schlüsselsystematik der Berufsfachrichtungen
+2
 
-Für Angestellte beziehungsweise Arbeitnehmer (nicht für Angestellte beziehungsweise Arbeitnehmer in Ausbildung)
+Für Arbeitnehmer/innen (nicht für Arbeitnehmer/innen in Ausbildung)
 
-Für Angestellte beziehungsweise Arbeitnehmer (nicht für Angestellte beziehungsweise Arbeitnehmer in Ausbildung)
+Schlüsselsemantik der Berufsfachrichtungen
 
 | Schlüsselnummer
 
-| Berufsfachrichtung
+| Berufsfachrichtung (nach Berufsbereich beziehungsweise -abschnitt)
 
-|   Schlüssel-
+| Schlüssel-
 
 nummer
-|  Berufsfachrichtung
+| Berufsfachrichtung
 
-|
+(nach Berufsbereich beziehungsweise
 
-|  0106
-|  Berufe in der Land-, Tier-, Forstwirtschaft und im Gartenbau
+-abschnitt)
 
-Hierzu gehören unter anderem:
+|  0103   |  Berufe in der Land- und Tierwirtschaft
 
-Verwaltungs-, Beratungs- und technische Fachkräfte in der Land- und Tierwirtschaft
+|  0506   |  Gartenbauberufe, Forst- und Jagdberufe
 
-(zum Beispiel Diplomlandwirt/in, Agraringenieur/in, Agrartechniker/in, landwirtschaftliche(r) Berater/in)
+|  0708   |  Bergleute, Mineralgewinner
 
-Forst-, Jagdberufe
+|  1055   |  Fertigungsberufe
 
-(zum Beispiel Diplomforstwirt/in, höhere Forstbedienstete, Forstschützer/in (gehobener Forstdienst), Forstwart/in (mittlerer Forstdienst))
+|  6065   |  Technische Berufe
 
-|  0708
-|  Bergleute, Mineralgewinner
+|      |  Dienstleistungsberufe
 
-|  1055
-|  Fertigungsberufe
+|  6668   |  Warenkaufleute
 
-Hierzu gehören:
+|  6900   |  Bank-, Bausparkassen- und Versicherungsfachleute
 
-Steinbearbeiter/in, Steinmetz/in und Steinbildhauer/in, Baustoffhersteller/in
+|  7000   |  Andere Dienstleistungskaufleute und zugehörige Berufe
 
-Keramiker/in, Berufe in der Glasherstellung und -bearbeitung
+|  7174   |  Verkehrsberufe
 
-Chemie-, Kunststoffberufe
+|  7576   |  Organisations- und Verwaltungsberufe
 
-Papierherstellungs, -verarbeitungsberufe, Druck- und Druckweiterverarbeitungsberufe
+|  7700   |  Rechnungskaufleute, Informatiker
 
-Berufe in der Holzbearbeitung, Holz- und Flechtwarenherstellung
+|  7800   |  Büroberufe, Kaufmännische Angestellte, anderweitig nicht genannt
 
-Metallberufe
+|  7900   |  Dienst- und Wachberufe
 
-Elektroberufe
+|  8000   |  Sicherheitsberufe
 
-Textil-, Bekleidungs-, Lederberufe
+|  8100   |  Berufe im Rechts- und Vollstreckungswesen
 
-Ernährungsberufe
+|  8200   |  Publizistische, Übersetzungs-, Bibliotheks- und verwandte Berufe
 
-Bau-, Baunebenberufe einschließlich Straßen-, Tiefbauer/in (zum Beispiel Wasserbauer/in)
+|  8300   |  Künstler und zugeordnete Berufe
 
-Warenprüfer/in, Versandfertigmacher/in,
+|  8485   |  Gesundheitsdienstberufe
 
-Maschinist/in
+|  8600   |  Soziale Berufe
 
-|  6065
-|  Technische Berufe
+|  8700   |  Lehrer
 
-Hierzu gehören:
+|  8800   |  Geistes- und naturwissenschaftliche Berufe
 
-Ingenieur/in, Chemiker/in, Physiker/in, Mathematiker/in (zum Beispiel Bauingenieur/in,
+|  9300   |  Reinigungs- und Entsorgungsberufe
 
-Ingenieur/in für Vermessungswesen und Kartographie, Ingenieur/in der Bergverwaltung, Ingenieur/in im technischen Verwaltungsdienst, Architekt/in, Stadt- und Regionalplaner/in)
-
-Techniker/in, technische Sonderfachkräfte
-
-(zum Beispiel Bautechniker/in, Vermessungstechniker/in, Techniker/in im öffentlichen Dienst, Technische(r) Zeichner/in, Bauzeichner/in, Kartograph/in).
-
-|
-|
-Dienstleistungsberufe
-
-|  6668
-|  Warenkaufleute
-
-|  6900
-|  Bank-, Bausparkassen-, Versicherungsfachleute
-
-Hierzu gehören unter anderem:
-
-Bankkaufmann/-kauffrau
-
-|  7000
-|  Andere Dienstleistungskaufleute und zugehörige Berufe
-
-Hierzu gehören unter anderem:
-
-Verkehrskaufleute (Güterverkehr)
-
-Verkehrsfachleute (Personen-, Fremdenverkehr)
-
-|  7174
-|  Verkehrsberufe
-
-Hierzu gehören unter anderem:
-
-Berufe des Landverkehrs
-
-(zum Beispiel Straßenwärter/in)
-
-Berufe des Wasser- und Luftverkehrs
-
-Berufe des Nachrichtenverkehrs
-
-|  7578
-|  Organisations-, Verwaltungs-, Büroberufe
-
-Hierzu gehören unter anderem:
-
-administrativ entscheidende Berufstätige
-
-(zum Beispiel Verwaltungsfachleute im höheren und gehobenen Dienst)
-
-Rechnungskaufleute, Informatiker/in
-
-(zum Beispiel Datenverarbeitungsfachleute, DV-Organisator/in, DV-Koordinator/in, Rechenzentrums- und DV-Benutzerservice-Fachleute, Fachinformatiker/in)
-
-Büroberufe, kaufmännische Angestellte
-
-(zum Beispiel Verwaltungsfachleute im mittleren Dienst, Verwaltungsfachleute im mittleren Justizdienst – unter anderem Urkundsbeamt(er)/in, Geschäftsstellenverwalter/in, Sekretär/in Bürohilfskräfte)
-
-|  7981
-|  Ordnungs- und Sicherheitsberufe
-
-Hierzu gehören:
-
-Dienst-, Wachberufe
-
-(zum Beispiel auch Schwimmmeister/in, Schwimmmeistergehilf(e)/in)
-
-Sicherheitsberufe
-
-(zum Beispiel Sicherheitswahrer/in)
-
-Berufe im Rechts- und Vollstreckungswesen
-
-(zum Beispiel Vollstreckungs-, Vollzugsbedienstete/r)
-
-|  8283
-|  Schriftwerkschaffende, -ordnende und künstlerische Berufe
-
-Hierzu gehören unter anderem:
-
-Übersetzungs-, Bibliotheks-, publizistische Berufe
-
-Musiker/in, darstellende und bildende Künstler/in, künstlerische und zugeordnete Berufe der Bühnen-, Bild- und Tontechnik
-
-|  8485
-|  Gesundheitsdienstberufe
-
-Hierzu gehören unter anderem:
-
-Arzt/Ärztin, Apotheker/in
-
-Heilpraktiker/in
-
-Masseur/in, medizinische(r) Bademeister/in und Krankengymnast/in
-
-(einschließlich Physio- und Bewegungstherapeut/in)
-
-Krankenschwester/-pfleger, Hebamme/Entbindungspfleger
-
-(zum Beispiel Anästhesieschwester/-pfleger, Kinderkrankenschwester/-pfleger, Operationsschwester/-pfleger)
-
-Helfer/in in der Krankenpflege
-
-Diätassistent/in, Ernährungsfachleute
-
-Sprechstundenhelfer/in
-
-Medizinisch-technische(r) Assistent/in und verwandte Berufe
-
-Pharmazeutisch-technische(r) Assistent/in
-
-Therapeut/in
-
-(zum Beispiel Logopäd(e)/in, Orthoptist/in, Beschäftigungs- und Arbeitstherapeut/in)
-
-|  8600
-|  Soziale Berufe
-
-Hierzu gehören unter anderem:
-
-Sozialpädagog(e)/in, Helfer/in Sozialarbeit
-
-Heilpädagog(e)/in
-
-Erzieher/in, Erziehungshelfer/in
-
-Altenpfleger/in, Altenpflegehelfer/in
-
-Familienpfleger/in, Familienpflegehelfer/in
-
-Heilerziehungspfleger/in, Heilerziehungspflegehelfer/in
-
-Kinderpfleger/in, Kinderpflegehelfer/in
-
-|  8700
-|  Lehrer
-
-| (zum Beispiel Rektor/in, Schulleiter/in, Hochschullehrer/in, Gymnasiallehrer/in, Grund-, Mittel-, Förderschullehrer/in, Lehrer/in an berufsbildenden Schulen, Lehrer/in an Schulen des zweiten Bildungsweges, Pädagogische Unterrichtshilfe)
-
-|  8889
-|  Geistes- und naturwissenschaftliche Berufe
-
-Hierzu gehörenunter anderem:
-
-Wissenschaftler/in, wissenschaftliche(r) Mitarbeiter/in
-
-Wirtschafts-, Geistes-, Natur-, Sozial-, Erziehungswissenschaftler/in
-
-Psycholog(e)/in
-
-|  9300
-|  Reinigungs- und Entsorgungsberufe
-
-|  9999
-|  Sonstige Dienstleistungsberufe
-
-_________
-
-1
-
-Maßgeblich ist die am 30. Juni des Erhebungsjahres ausgeübte Tätigkeit.
-
-Quelle: Statistisches Bundesamt, Grundlage bildet die Klassifizierung der Berufe, Ausgabe 1992
+|  9999   |  Sonstige Dienstleistungsberufe
 
 Anlage 4
 
 Schlüsselsystematik der Ausbildungsberufe
 
-Für Angestellte beziehungsweise Arbeitnehmer in Ausbildung
+Für Arbeitnehmer/innen in Ausbildung
 
-Für Angestellte beziehungsweise Arbeitnehmer in Ausbildung
+Schlüsselsemantik der Ausbildungsberufe
 
 | Schlüsselnummer
 
-| Ausbildungsberuf (nach Berufsbereich, -gruppe beziehungsweise -bezeichnung)
+| Ausbildungsberuf (nach zusammengefassten Berufsgruppen)
 
-|   Schlüssel-
+| Schlüssel-
 
 nummer
-|   Ausbildungsberuf
+| Ausbildungsberuf
 
-(nach Berufsbereich, -gruppe beziehungsweise -bezeichnung)
+(nach zusammengefassten Berufsgruppen)
 
-|
+|  0104   | Landwirte, Tierzüchter, Fischereiberufe, Landwirtschaftliche Ausbildungskräfte, Tierpfleger
 
-|  0106
-|  Berufe in der Land-, Tier-, Forstwirtschaft und im Gartenbau
+|  0506                 |  Gartenbauer, Forst- und Jagdberufe
 
-|
-| Landwirt/in
+|  1054                 |  Fertigungsberufe
 
-|
-| Tierzüchter/in
+|  6263                 |  Techniker, Technische Sonderfachkräfte
 
-|
-| Tierpfleger/in
+|      |  Dienstleistungsberufe
 
-|
-| Fischwirt/in
+|  6970                 |  Bank- und Versicherungskaufleute, Andere Dienstleistungskaufleute und zugehörige Berufe
 
-|
-| Forstwirt/in
+|  7100                 |  Berufe des Landverkehrs
 
-|
-| Gartenfachwerker/in, Gärtner/in
+|  7700                 |  Rechnungskaufleute, Datenverarbeitungsfachleute
 
-|  1054
-|  Fertigungsberufe
+|  7800                 |  Bürofach- und Bürohilfskräfte
 
-| Steinbearbeiter/in, Steinmetz/in und Steinbildhauer/in, Baustoffhersteller/in
+|  7900                 |  Dienst- und Wachberufe
 
-|
-| Keramiker/in, Glasmacher/in
+|  8000                 |  Sicherheitswahrer
 
-|
-| Chemiearbeiter/in, Kunststoffverarbeiter/in
+|  8200                 |  Publizisten, Dolmetscher, Bibliothekare
 
-|
-| Papierhersteller/in, -verarbeiter/in, Drucker/in
+|  8300                 |  Künstler und zugeordnete Berufe
 
-|
-| Holzaufbereiter/in, Holzwarenfertiger/in und verwandte Berufe
+|  8500                 |  Gesundheitsdienstberufe
 
-|
-|  Metallberufe (zum Beispiel Industrie-
+|  8600                 |  Soziale Berufe
 
-mechaniker/in)
+|  8700                 |  Lehrer
 
-|
-| Elektriker/in (zum Beispiel Kommunikationselektroniker/in)
+|  8900                 | Rechtsreferendar/in; Referendar/in (mit öffentlich-rechtlichem Ausbildungsverhältnis)
 
-|
-| Textil-, Bekleidungs-, Lederberufe
+|  9300                 |  Reinigungsberufe
 
-|
-| Ernährungsberufe
+|  9999                 |  Sonstige Dienstleistungsberufe
 
-|
-| Bau-, Baunebenberufe einschließlich Straßen-, Tiefbauer/in (zum Beispiel Wasserbauer/in)
-
-|
-| Warenprüfer/in, Versandfertigmacher/in, Maschinist/in
-
-|  6263
-|  Technische Berufe
-
-| Bauzeichner/in
-
-|
-| Fachkraft für Wasserwirtschaft
-
-|
-| Chemielaborant/in (unter anderem Technische Sonderfachkräfte)
-
-|
-| Kartograf/in
-
-|
-| Fachkraft für Straßen- und Verkehrstechnik
-
-|
-| Vermessungstechniker/in
-
-|
-|
-Dienstleistungsberufe
-
-|  6900
-|  Bank- und Versicherungskaufleute
-
-| Bankkaufmann/-kauffrau
-
-|
-| Versicherungskaufmann/-kauffrau
-
-|  7100
-|  Berufe des Landverkehrs
-
-| Straßenwärter/in
-
-|  7700
-|  Rechnungskaufleute, Datenverarbeitungsfachleute
-
-| Fachangestellte/r für Systemintegration
-
-|
-| Fachinformatiker/in
-
-|
-| Informatikkaufmann/-kauffrau
-
-|  7800
-|  Bürofach-, Bürohilfskräfte
-
-| Bürokaufmann/-kauffrau
-
-|
-| Fachangestellte/r für Arbeitsförderung
-
-|
-| Fachangestellte/r für Bürokommunikation
-
-|
-| Justizfachangestellte/r
-
-|
-| Sozialversicherungsfachangestellte/r
-
-|
-| Verwaltungsfachangestellte/r (in den Fachrichtungen Landes- und Kommunalverwaltung)
-
-|
-
-8000
-
-|  Sicherheitswahrer
-
-|
-| Bestattungsfachkraft
-
-|
-
-8200
-
-|  Publizisten, Dolmetscher, Bibliothekare
-
-| Fachangestellte/r für Medien- und Informationsdienste
-
-|
-
-8500
-
-|
-
-Gesundheitsdienstberufe
-
-|  Arzthelfer/in (Tierarzthelfer/in, Zahnarzt-
-
-helfer/in)
-
-|
-| Beschäftigungs- und Arbeitstherapeut/in
-
-|
-| Diätassistent/in
-
-|
-| Ergotherapeut/in
-
-|
-| Hebamme, Entbindungspfleger
-
-|
-| Gesundheits- und Kinderkrankenpfleger/in
-
-|
-| Gesundheits- und Krankenpfleger/in
-
-|
-| Logopäd(e)/in
-
-|
-|
-
-Krankenpflegerhelfer
-
-|
-| Masseur/in und medizinische(r) Bademeister/in
-
-|
-| Medizinisch-technische(r) Assistent/in der Funktionsdiagnostik
-
-|
-|  Medizinisch-technische(r) Laboratoriums-
-
-assistent/in
-
-|
-| Medizinisch-technische(r) Radiologieassistent/in
-
-|
-| Orthoptist/in
-
-|
-| Pharmazeutisch-technische(r) Assistent/in
-
-|
-| Physiotherapeut/in
-
-|
-| Rettungsassistent/in
-
-|
-| Veterinärmedizinisch-technische(r) Assistent/in
-
-|  8600
-|  Soziale Berufe
-
-| Altenpfleger/in
-
-|
-| Altenpflegehelfer/in
-
-|
-| Erzieher/in
-
-|
-| Fachkraft – soziale Arbeit
-
-|
-| Haus- und Familienpfleger/in
-
-|
-| Heilerziehungspfleger/in
-
-|
-| Heilerziehungspflegehelfer/in
-
-|
-| Heilpädagog(e)/in
-
-|
-| Kinderpfleger/in
-
-|
-| Medizinische(r) Dokumentationsassistent/in
-
-|  8700
-|  Lehrer
-
-| Auszubildende/r im Förderschulseminar
-
-|
-| Fachangestellte/r für Bäderbetriebe
-
-|
-| Lehramtsanwärter/in
-
-|
-| Studienreferendar/in
-
-|  9300
-|  Reinigungsberufe/Hauswirtschaftliche Berufe
-
-| Fachkraft für Abwassertechnik
-
-|
-| Fachkraft für Kreislauf- und Abfallwirtschaft
-
-|
-| Fachkraft für Rohr-, Kanal- und Industrieservice
-
-|
-| Fachkraft für Wasserversorgungstechnik
-
-|
-| Hauswirtschaftstechnische(r) Helfer/in
-
-|  9999
-|  Sonstige Dienstleistungsberufe
-
-Quelle:
-
-Bundesinstitut für Berufsbildung (BIBB); Grundlage bildet die Bekanntmachung des Verzeichnisses der anerkannten Ausbildungsberufe und des Verzeichnisses der zuständigen Stellen vom 14. Juni 2004
+Quelle: Bekanntmachung des Verzeichnisses der anerkannten Ausbildungsberufe und des Verzeichnisses der zuständigen Stellen vom 15. Juli 2006 (BAnz. Nr. 235a); Grundlage für die Zuordnung der Ausbildungsberufe nach zusammengefassten Berufsgruppen bilden die Berufsklassen nach der Klassifizierung der Berufe (Ausgabe 1992) des Statistischen Bundesamtes
 
 Anlage 5
 
@@ -868,56 +460,42 @@ Schlüsselsystematik der Tarifverträge
 
 | Art des Tarifvertrages
 
-|   Schlüssel-
+| Schlüssel-
 
 nummer
-|  Art des Tarifvertrages
-
-|
+| Art des Tarifvertrages
+3
 
 |  TVöD und für Zwecke dieser Statistik den Einstufungen des TVöD zugeordnete Tarifverträge:
 
-| 11
-| TVöD Verwaltung (BT-V)
+|  11   |  TVöD Verwaltung (BT-V)
 
-| 12
-| TVöD Krankenhäuser (BT-K)
+|  12   |  TVöD Krankenhäuser (BT-K)
 
-| 13
-| TVöD Entsorgung (BT-E)
+|  13   |  TVöD Entsorgung (BT-E)
 
-| 14
-| TVöD Flughäfen (BT-F)
+|  14   |  TVöD Flughäfen (BT-F)
 
-| 21
-| Tarifvertrag für Versorgungsbetriebe (TV-V)
+|  16   |  TVöD Pflege-und Betreuungseinrichtungen
 
-| 22
-| Spartentarifvertrag Nahverkehrsbetriebe (TV-N)
+|      |  (BT-B)
 
-| 23
-| Spartentarifvertrag Sparkassen
+|  17   |  TV-L (Tarifvertrag Land)
 
-| 29
-| Tarifverträge, die für Zwecke dieser Statistik den Einstufungen des TVöD zugeordnet werden
+|  21   |  TV-V (Tarifvertrag für Versorgungsbetriebe)
 
-|  BAT/MTArb, BMT-G und für Zwecke dieser Statistik den Einstufungen des BAT/MTArb, BMT-G zugeordnete
+|  22   |  TV-N (Spartentarifvertrag Nahverkehrsbetriebe)
 
-| 31
-| BAT/MTArb, BMT-G
+|  23   |  TVöD Sparkassen (BT-S)
 
-| 49
-| Tarifverträge, die für Zwecke dieser Statistik den Einstufungen des BAT/MTArb, BMT-G zugeordnet
+|  29   |  Einzel- oder Haustarifverträge, wonach TVöD /TV-L Anwendung finden oder Tarifverträge, die für Zwecke dieser Statistik den Einstufungen des TVöD /TV-L zugeordnet werden
 
-|  Tarifverträge und Beschäftigte mit Arbeitsverträgen, die nicht den Einstufungen des TVöD, des BAT oder des MTArb/BMT-G zugeordnet werden können:
+|  BAT, BAT-O/ MTArb, BMT-G und für Zwecke dieser Statistik den Eingruppierungen des BAT, BAT-O und den MTArb , BMT-G zugeordnete Tarifverträge:
 
-| 51
-| Tarifverträge, bei denen eine Zuordnung nicht möglich ist
+|  31   |  BAT, BAT-O/ MTArb , BMT-G
 
-_________
+|  49   |  Einzel- oder Haustarifverträge, wonach BAT, BAT-O/ MTArb , BMT-G Anwendung finden oder Tarifverträge, die für Zwecke dieser Statistik den Eingruppierungen des BAT, BAT-O und den MTArb , BMT-G zugeordnet werden
 
-1 Hinweis:
+|  Tarifverträge, die nicht den Einstufungen des TVöD /TV-L, den Eingruppierungen des BAT, BAT-O und den MTArb /BMT-G zugeordnet werden können:
 
-Maßgeblich für die Zuordnung nach der Art des Tarifvertrages ist der zur Zeit gültige Tarifvertrag der Dienststelle.
-
-Neuverträge mit einzelvertraglichen Regelungen zur Arbeitszeit sind dem zu Grunde liegenden Tarifwerk zuzuordnen.
+|  51   |  Tarifverträge, bei denen eine Zuordnung nicht möglich ist
