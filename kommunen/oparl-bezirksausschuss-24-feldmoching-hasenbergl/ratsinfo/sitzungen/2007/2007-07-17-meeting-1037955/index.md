@@ -1,0 +1,73 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2007-07-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1037955
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1037955
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: AK Kultur- und Stadtteilaktivitäten; Kultur- und Veranstaltungskalender für den 24. Stadtbezirk
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Freizeittreff Lerchenauer; Spielefest am 30.06.2007
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: SV Nord München-Lerchenau e. V.; 60-Jahr-Feier am 29./30.06.2007
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: HuVTV Edelweiß Stamm; 60-Jahr-Feier am 30.06.2007
+- TOP 2.5.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching - Hasenbergl Widmung folgender Straßenstrecken - Detmoldstraße (Teilstrecke) - Lemgostraße (Gesamtstrecke)
+- TOP 3.1.: Anträge aus der Stadtteilversammlung vom 20.06.2007 - <div>Vertagt in den Unterausschuss</div>
+- TOP 3.2.: Antrag auf Aufnahme der Siedlung Ludwigsfeld in das Programm ?Soziale Stadt?
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Anhörung im Einzelfall auf Anforderung aus den Meldelisten Bauvorhaben: Dahlienstraße - <div>keine Einwände</div>
+- TOP 5.2.: Benefizveranstaltung Feldmochinger See am 21.07.2007 - <div>Zustimmung, einstimmig</div>
+- TOP 5.3.: Bebauungsplan mit Grünordnung Nr. 1939 a Schleißheimer Straße (östlich), Bestehendes BMW Forschungs- und Innovationszentrum (BMW FIZ) (nördlich) (in der Sitzung am 12.06.2007 vertagt)
+- TOP 5.4.: a) Bebauungsplan mit Grünordnung Heinrich-Braun-Weg b) Teiländerung der Bebauungspläne Nr. 808 und Nr. 1571 - <div>Zustimmung, einstimmig</div>
+- TOP 5.5.: Kulturelle Nutzung Nordheide - <div>Vertagt in den Unterausschuss</div>
+- TOP 5.6.: Bebauungsplan mit Grünordnung Nr. 1784 a Auf den Schrederwiesen (westlich), Schroppenwiesenstraße (nördlich), B 304 Dachauer Straße neu (östlich), Autobahnring München-Nord A 99 (südlich)
+- TOP 5.7.: Bebauungsplan mit Grünordnung Nr. 1763 j Grohmannstraße (südlich), Aschenbrennerstraße (westlich), Paulckestraße (nördlich) (Teiländerung des Bebauungsplanes Nr. 536)
+- TOP 5.8.: Sommerfest in der Lassallestr. am 15.09.2007
+- TOP 5.9.: "Tour de Franz" am 29.07.2007
+- TOP 5.10.: 75-Jahr-Feier SpVgg Feldmoching e. V., Lerchenauer Str. 270 vom 27. bis 29.07.2007
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Schaffung einer entsprechenden Zahl von Pkw-Stellplätzen im Bereich der Schleißheimer Straße, für die auf dem Dülferanger weggefallenen Parkplätze (BA-Antrag Nr. 1894 vom 06.03.2007)
+- TOP 6.2.: Verkehrsrechtliche Anordnung: a) Ratoldstraße: Aufhebung der absoluten Halteverbote in der ehemaligen Bus-Wendeschleife b) Rhododendronweg wir als verkehrsberuhigtre Bereich ausgewiesen - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Fahrbahnsanierung "Auf den Schrederwiesen" - <div>zur Kenntnis genommen</div>
+- TOP 6.4.: Straßenbauarbeiten - Paul-Preuß-Straße und Paul-Huml-Bogen - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Zweckentfremdung von Wohnraum: - <div>zur Kenntnis genommen</div>
+- TOP 6.6.: Unveränderte Fortführung von Gaststättenbetrieben: a) Grüne Insel, Karlsfelder Straße 85 - <div>zur Kenntnis genommen</div>
+- TOP 6.7.: Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Steinbergerstr. 1 - <div>zur Kenntnis genommen</div>
+- TOP 6.8.: Meldelisten Bauvorhaben - <div>versch. Unterlagen angefordert</div>
+- TOP 6.9.: Meldelisten - Baumfällungen - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Daten Kinderkrippen - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Stadtweites Rauchverbot an und auf Spielplätzen - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Vermeidung von Hundekot in städtischen Grünanlagen und Grünstreifen - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Beseitungung schienengleicher Bahnübergänge - Gegenwärtiger Stand - - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Mehrjahresinvestitionsprogramm (MIP) 2007 - 2011 1. Investitionsmaßnahmen für Sportanlagen 2. Stellungnahmen der Bezirksausschüsse - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Baumaßnahmen der Stadtwerke München - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Kindertagesstätte sonstiger Träger; Kindergarten an der Lerchenauer Str. 197 im 24. Stadtbezirk Leistung eines Baukostenzuschusses nach dem BayKiBiG Anmeldung zum Bedarfsplan - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 Ergebnis der fachanwaltlichen Prüfung - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Platz an der Schleißheimer Straße (Nordheide) und Umbau der Schleißheimer Straße zwischen Sandbienenweg und Neuherbergstraße
+- TOP 6.19.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007
+- TOP 6.20.: A 99 West - Ergebnisse der Verkehrszählungen "Vorher-Nachher-Untersuchung" - <div>Vertagt in den Unterausschuss</div>
+- TOP 6.21.: Initiative Europäische Metropolregion München - Sachstandsbericht - <div>zur Kenntnis genommen</div>
+- TOP 6.22.: Änderung des Flächennutzungsplanes mit integrieter Landschaftsplanung für den Bereich V/38 Schleißheimer Straße (westlich), Olschewskibogen (südöstlich) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss - <div>zur Kenntnis</div>
+- TOP 6.23.: Bebauungsplan mit Grünordnung Nr. 1939 b Schleißheimer Straße (westlich), Olschewskibogen (süd-östlich) - Billigungsbeschluss - - <div>zur Kenntnis genommen</div>
+- TOP 6.24.: Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München - <div>zur Kenntnis genommen</div>
+- TOP 6.25.: Beteiligung der Öffentlichkeit Frühzeitige Unterrichtung gemäß § 3 Abs. 1 des Baugesetzbuches: Planungsgebiet: Bebauungsplan mit Grünordnung Nr. 1763 j Grohmannstraße (südlich), Aschenbrennerstraße (westlich), Paulkestraße (nördlich) (Teiländerung des Bebauungsplanes Nr. 536) - <div>zur Kenntnis genommen</div>
+- TOP 6.26.: Öffentlichkeitsbeteiligung Frühzeitige Unterrichtung gemäß § 3 Abs. 1 des Baugesetzbuches: Plangebiet: Bebauungsplan mit Grünordnung Nr. 1939 a Schleißheimer Straße (östlich), bestehendes BMW Forschungs- und Innovationszentrum -BMW FIZ - (nördlich) - BMW FIZ Erweiterung Nord - - <div>zur Kenntnis genommen</div>
+- TOP 6.27.: Kultur im Stadtquartier - <div>Vertagt in den Unterausschuss</div>
+- TOP 6.28.: Fällung von Gefahrenbäumen - <div>zur Kenntis genommen</div>
+- TOP 6.29.: Veröffentlichung des Planungsreferates zum Handlungsprogramm Mittlerer Ring - <div>zur Kenntnis genommen</div>
+- TOP 6.30.: Dauchauer Straße 558, Errichtung une Betrieb einer Flüssiggasanlage (Vorab-Stellungnahme) - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr und Umwelt - <div>Hr. Müller berichtet</div>
+- TOP 7.2.: Unterausschuss Jugend, Soziales, Schule, Kultur - <div>Hr. Dr. Großmann berichtet</div>
+- TOP 7.3.: Workshop zum thema "Änderung von Artikel 60 Gemeindeordnung" - <div>Hr. Dr. Großmann berichtet</div>
+- TOP 7.4.: Benefizturnier - <div>Hr. Dr. Großmann berichtet</div>
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
