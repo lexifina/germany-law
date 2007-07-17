@@ -1,0 +1,110 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2007-07-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1020335
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1020335
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Ampelschaltung Authariplatz; Bürgerschreiben vom 02. Juli 2007 - <div>Verweisung an Fachreferat, Zwischennachricht Bürger</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Münchner Konzertchor e.V., für die Maßnahme: Konzert am 11.11.2007; Antragssumme: 1.600,-- ?; Beschlussvorlage des Direktoriums vom 20.06.2007 - <div>Zuschuss i. H. v. 1.000,-- Euro</div>
+- TOP 3.2.: AntragstellerIn: TSV Turnerbund e.V., für die Maßnahme: 125-Jahr-Feier am 29.06./01.07.2007; Antragsumme: 7.741,50 ?; Beschlussvorlage des Direktoriums vom 31.05.2007 - <div>Zuschuss i. H. v. 3.323,-- Euro</div>
+- TOP 3.3.: AntragstellerIn: Hänsel & Gretel e.V., für die Maßnahme: 50-Jahr-Feier am 21.07.2007; Antragssumme: 1.000,-- ?; Beschlussvorlage des Direktoriums vom 13.06.2007 - <div>Zuschuss i. H. v. 500,-- Euro</div>
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Die Färberei, für die Maßnahme: Gestaltungsaktion um das Bild des Wörnbrunnerplatzes aufzuwerten; Antragssumme: 600,-- ?; Antrag vom 18.06.2007 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Aufhebung eines personenbezogenen Behindertenparkplatzes in der Naupliastraße 30; Mitteilung des KVR vom 21.05.2007 - <div>zur Kenntnis genommen </div>
+- TOP 3.2.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007; Sachstand der BayBO-Novelle; Entwurf zum Neuerlass einer Stellplatzsatzung für Kraftfahrzeuge; Beauftragung der Verwaltung zum weiteren Vorgehen; Sitzungsvorlagen Nr. 02-08/V 10357; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2007 (SB) - <div>zur Kenntnis genommen </div>
+- TOP 3.3.: A 99 West - Ergebnisse der Verkehrszählungen "vorher-nachher-Untersuchung"; Sitzungsvorlagen Nr. 02-08 / V 10234; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 27.06.2007 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Verlängerung der Lärmschutzeinhausung der Candidauffahrt über die Gerhardstraße hinaus; Zwischennachricht des Baureferates vom 27.06.2007 zum BA-Antrag Nr. 02-08 / B 02094 des BA 18 vom 17.04.2007 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Vermeidung von Hundekot in städtischen Grünanlagen und Grünstreifen; Antrag Nr. 02-08 / A 03574 von Herrn Stadtrat Josef Schmid vom 12.03.2007; Sitzungsvorlage Nr. 02-08 / V 10153; Beschluss des Bauausschusses vom 03.07.2007 (SB) - <div>zur Kenntnis genommen </div>
+- TOP 3.2.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung / - bestandteil; hier: Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferates - Gartenbau vom 05.06.2007 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Baumfällung in Birkenleiten; Fernwärmebauvorhaben "Leitungserneuerung Birkenleiten"; Schreiben der SWM vom 04.07.2007 an die Untere Naturschutzbehörde - <div>Baumfällungen zugestimmt u. zur Kenntnis genommen</div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Stadtweites Rauchverbot an und auf Spielplätzen; Rauchverbot auf Kinderspielplätzen; Rauch- und Alkoholverbot an und auf Spielplätzen; Unterstützung des Antrags Nr. 02-08 / B 01764 des BA 8 Schwanthalerhöhe vom 09.01.2007; Stadtweites Rauchverbot auf und an Spielplätzen; Antrag des BA 8 vom 09.01.2007; Beschluss des Bauausschusses vom 03.07.2007 (SB) - <div>zur Kenntnis genommen </div>
+- TOP 3.2.: Neubau einer Kooperationseinrichtung an der Säbener Straße mit 4 Kindergarten- und 4 Kinderkrippengruppen, 18. Stadtbezirk Untergiesing-Harlaching; Projektkosten (Kostenobergrenze) 4.846.000,-- ? davon Ersteinrichtungskosten 286.000,-- ? Grundstücksablöse 608.715,-- ? 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag Sitzungsvorlagen Nr.: 02-08 / V 10231 Beschluss des Schulausschusses des Stadtrates vom 27.06.2007 (SB) - <div>zur Kenntnis genommen </div>
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Antrag für eine Freischankfläche gem. Art. 18 BayStrWG für die Kleingaststätte "Pilgersheimer Klause" in der Pilgersheimer Straße; Zleitung des KVR vom 21.06.2007 mit der Bitte um Stellungnahme bis 27.07.2007 - <div>einstimmig zugestimmt</div>
+- TOP 3.2.: Antrag für eine Freischankfläche gem. Art. 18 BayStrWG für die SSW "Papa Pizza" in der Tegernseer Landstraße; Zuleitung des KVR vom 22.06.2007 mit der Bitte um Stellungnahme bis 27.07.2007 - <div>einstimmig zugestimmt</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Anwesen in der Meraner Straße; Anhörung vom 05.06.2007 - <div>einstimmig zugestimmt</div>
+- TOP 3.2.: Anwesen in der Heinrich-Kröller-Straße; Anhörung vom 05.06.2007 - <div>einstimmig zugestimmt</div>
+- TOP 3.3.: Anwesen in der Defreggerstraße; Anhörung vom 28.06.2007 - <div>einstimmig abgelehnt</div>
+- TOP 3.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen KVR 3.5.6.1.1 Kleingaststätte Pilgersheimer Klause, Pilgersheimer Straße; Mitteilung vom 29.06.2007 3.5.6.1.2 SSW "Café Knoll Italiano", Zasinger Straße; Mitteilung vom 19.06.2007 3.5.6.1.3 Trink- u. Imbisskiosk "Tierparkkiosk", Tierparkstraße; Mitteilung vom 12.06.2007 3.5.6.1.4 SSW "Va Pensiero", Konradinstraße; Mitteilung vom 05.06.2007 - <div>zur Kenntnis genommen </div>
+- TOP 3.2.: Veröffentlichung des Planungsreferates zum Handlungsprogramm Mittlerer Ring; Schreiben des Referates für Stadtplanung und Bauordnung vom 04.06.2007 mit Broschüre - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Baufälle im 18. Stadtbezirk - <div>UA möchte einzelne Vorhaben anfordern</div>
+- TOP 3.4.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; Unterrichtungen des Sozialreferates 3.5.6.4.1 Anwesen in der Agatharieder Straße; Mitteilung vom 12.06.2007 3.5.6.4.2 Anwesen in der Bruggspergerstraße; Mitteilung vom 12.06.2007 3.5.6.4.3 Anwesen in der Traminer Straße; Mitteilung vom 25.06.2007 - <div>zur Kenntnis genommen</div>
+- TOP 3.5.: Schönstraße zwischen Lebeschéestraße und Alemannenstraße im 18. Stadtbezirk Untergiesing-Harlaching - Erneuerung; Projektdaten (Kostenobergrenze) 1.500.000,-- ?; Bedarfs- und Konzeptgenehmigung; Sitzungsvorlagen Nr. 02-08 / V 10061; Beschluss des Bauausschusses vom 03.07.2007 (SB) - <div>zur Kenntnis genommen; UA möchte zur Informationsveranstaltung für Anwohner eingeladen werden</div>
+- TOP 3.6.: Bebauungsplan mit Grünordnung Nr. 10 a; Candidplatz - sofortige Umsetzung der vorhandenen Pläne für die Gestaltung und Sicherung des Jugendspielplatzes am Candidplatz (Ziffer 2 des Antrages); Empfehlung Nr. 02-08 / E 00616 der Bürgerversammlung des Stadtbezirkes 18 am 05.10.2006; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.06.2007 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 3.7.: Beseitigung schienengleicher Bahnübergänge - gegenwärtiger Stand -; Sitzungsvorlage Nr. 02-08 / V 09965; Beschluss des Bauausschusses vom 03.07.2007 (SB) - <div>zur Kenntnis genommen </div>
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung in einer städtischen Grünanlage am 15.09.2007; hier: Hellabrunner Straße (Wiese südlich des Osram-Spielplatzes); Sommerfest der SPD Untergiesing; Zuleitung des KVR vom 29.06.2007 mit der Bitte um Stellungnahme bis 06.08.2007 - <div>einstimmig zugestimmt</div>
+- TOP 3.2.: Sommerabschlussfest der Rotbuchenschule in einer städtischen Grünanlage; hier: Athener Platz am 25.07.2007 von 17.00 bis 22.00 Uhr; Zuleitung des KVR vom 22.06.2007 mit der Bitte um Stellungnahme bis 17.07.2007 - <div>einstimmig zugestimmt</div>
+- TOP 3.3.: Anhörung und Bitte um Stellungnahme zum Projekt "urbanauten Kulturstrand, neue Standortvarianten"; Zuleitung des KVR vom 02.07.2007 - <div>einstimmig zugestimmt</div>
+- TOP 3.1.: Kultur im Stadtquartier; Beschlussvorlage und Stadtratssitzung; Schreiben des Kulturreferates vom 27.06.2007 - <div>zur Kenntnis genommen </div>
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.06.2007 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 4.2.: Initiative Europäische Metropolregion München - Sachstandsbericht; Sitzungsvorlagen Nr. 02-08 / V 10239; Bekanntgabe in der Sitzung der Vollversammlung des Stadtrates vom 20.06.2007 - <div>zur Kenntnis genommen </div>
+- TOP 4.3.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006; Ergebnis der fachanwaltlichen Prüfung; Sitzungsvorlagen Nr. 02-08 / B 09840; Anlage: Änderungsantrag der Stadtratsfraktion der SPD und Bündnis 90/Die Grünen - rosa Liste vom 16.05.2007; Beschluss der Vollversammlung des Stadtrates vom 20.06.2007 - <div>zur Kenntnis genommen </div>
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
