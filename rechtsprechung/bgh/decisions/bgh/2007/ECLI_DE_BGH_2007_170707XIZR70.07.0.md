@@ -1,0 +1,62 @@
+---
+ecli: "ECLI:DE:BGH:2007:170707XIZR70.07.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-11"
+aktenzeichen: "XI ZR 70/07"
+decided: "2007-07-17"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2007&Sort=1&Seite=59&nr=40646&anz=3318&pos=1794&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-11_NA_2007-07-17_XI_ZR_70_07_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/hgb/0129.md", "germany/bund/acts/zpo/0097.md", "germany/bund/acts/zpo/0543.md"]
+---
+
+# Bundesgerichtshof, XI ZR 70/07 vom 2007-07-17
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                   BESCHLUSS
+XI ZR 70/07
+
+                          vom
+
+                      17. Juli 2007
+
+                   in dem Rechtsstreit
+
+Der XI. Zivilsenat des Bundesgerichtshofs hat am 17. Juli 2007 durch den Vorsitzenden Richter Nobbe und die Richter Dr. Müller, Dr. Ellenberger, Prof. Dr. Schmitt und
+Dr. Grüneberg
+
+
+beschlossen:
+
+
+      Die Beschwerde der Beklagten gegen die Nichtzulassung der Revision
+      in dem Urteil des 4. Zivilsenats des Kammergerichts in Berlin-Schöneberg vom 9. Januar 2007 wird zurückgewiesen, weil die Rechtssache keine grundsätzliche Bedeutung hat und die Fortbildung des
+      Rechts sowie die Sicherung einer einheitlichen Rechtsprechung eine
+      Entscheidung des Revisionsgerichts nicht erfordern (§ 543 Abs. 2
+      Satz 1 ZPO). Die uneingeschränkte analoge Anwendung des § 129
+      Abs. 1 HGB auf Gesellschafter einer BGB-Gesellschaft ist längst geklärt
+      (BGHZ 146, 341, 358 f.; BGH, Urteil vom 3. April 2006 - II ZR 40/05,
+      WM 2006, 1076, 1077 Tz. 15; Senatsbeschluss vom 19. Juni 2007
+      - XI ZR 375/06). Aufklärungspflichten aus dem mit der GbR geschlossenen Darlehensvertrag oder in dessen Vorfeld hatte die Klägerin allenfalls ihr gegenüber, nicht aber gegenüber den einzelnen Gesellschaftern, die der Klägerin vor dem Beitritt nicht bekannt waren (vgl. Senatsbeschluss vom 1. März 2005 - XI ZR 399/03). Die schuldrechtliche Zuweisung einer bestimmten Wohnung für den Fall der Auflösung und Liquidation der GbR durch Aufteilung begründete keine Erwerbsverpflichtung der Beklagten und bedurfte deshalb keiner notariellen Beurkundung. Abgesehen davon griffen die Grundsätze der fehlerhaften Gesellschaft ein.
+
+       Die Beklagten tragen die Kosten des Beschwerdeverfahrens
+      (§ 97 Abs. 1 ZPO).
+
+        Der Gegenstandswert für das Beschwerdeverfahren beträgt 33.791,64 €.
+
+
+
+
+Nobbe                                 Müller                        Ellenberger
+
+
+                  Schmitt                               Grüneberg
+
+
+
+
+Vorinstanzen:
+LG Berlin, Entscheidung vom 08.03.2006 - 21a O 546/05 -
+KG Berlin, Entscheidung vom 09.01.2007 - 4 U 83/06 -
