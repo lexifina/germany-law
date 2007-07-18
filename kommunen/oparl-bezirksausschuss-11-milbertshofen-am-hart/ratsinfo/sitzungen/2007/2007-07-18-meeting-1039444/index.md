@@ -1,0 +1,79 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2007-07-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1039444
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1039444
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: "2. Neue Wege Cup", Einladung
+- TOP 4.2.: Reservierung der Ratsboxe, Oktoberfest 2007
+- TOP 4.3.: Fernwärmehauptleitung in der Milbertshofener Straße; Vorabzustimmung
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 7.1.: Nutzungsmöglichkeiten der Grünfläche in der Bad-Soden-Straße gegenüber Nr. 7 - 9 als Spielfläche verbessern (Klaus Aschauer)
+- TOP 7.2.: Verlegung/Abschaltung der Straßenlaternen Griegstraße Nordseite gegenüber Nr. 1 - 11a (Klaus Aschauer)
+- TOP 7.3.: Rückschnitt privater Bäume an der Milbertshofener Straße 59 und 61 (Klaus Aschauer)
+- TOP 7.4.: Beleuchtung von Fußwegen zur Verkehrssicherung und Kriminalitätsprävention (Klaus Aschauer)
+- TOP 7.5.: Überarbeitung des Grünkonzeptes im Neubaugebiet Nordheide (BewohnerGemeinschaftNordheide e.V. )
+- TOP 7.1.: Armut in Milbertshofen: Maßnahme 2 "Milbertshofen goes HIPPY!" - Einführung des Förderprogramms HIPPY für Kinder und Familien mit Migrationshintergrund in Milbertshofen - Am Hart (CSU-Fraktion im BA 11)
+- TOP 7.1.: Ausrichtung der Verkehrsschilder vor dem Haus Keferloherstr. 154 (Garagenausfahrt) (Klaus Aschauer)
+- TOP 7.2.: Erneuerung der abgewetzten Straßenmarkierungen an den Bushaltestellen in der Milbertshofener Straße (Klaus Aschauer)
+- TOP 7.3.: Parkflächen vor dem Haus Keferloherstr. 154 (Klaus Aschauer)
+- TOP 7.4.: Unfallgefahr durch abbiegende Fahrzeuge am Frankfurter Ring (Klaus Aschauer)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Verkauf einer städtischen Immobilie - nicht öffentlich - (vertagt aus der Sitzung vom 20.06.2007)
+- TOP 8.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/33, Schleißheimer Straße (östlich), Bestehendes BMW Forschungs- und Innovationszentrum (BMW FIZ) (nördlich) - BMW FIZ Erweiterung Nord -
+- TOP 8.2.: Werbeanlage, eine Großflächenplakattafel, beleuchtet, Schleißheimer Straße 308
+- TOP 8.3.: Anhörung im Einzelfall auf Anforderung; hier: Taunusstr. 19
+- TOP 8.1.: Kulturelle Nutzung Nordheide
+- TOP 8.1.: Radfahrt "Tour de Franz" am 29.07.2007
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendungen aus dem Budget des Bezirksausschusses, Bescheide a) AG Buhlstraße e.V., Mobiles Spiel- und Sportangebot, Bewilligung 845,00? b) AG Buhlstraße e.V., Rafting-Tour, Bewilligung 600,00? c) Landesbund für Vogelschutz in Bayern e.V., Ausstellung, Bewilligung 2000,00? d) Initiative Stückwerk, Lesung, Ablehnung
+- TOP 9.2.: Zuwendung aus dem Budget des Bezirksausschusses, Schreiben des Direktoriums
+- TOP 9.3.: Containergestellung auf dem Brundageplatz, Ausnahmebewilligung
+- TOP 9.4.: Vorkaufsrecht nach dem BauGB - nicht öffentlich -
+- TOP 9.1.: Platz an der Schleißheimer Straße (Nordheide) und Umbau der Schleißheimer Straße zwischen Sandbienenweg und Neuherbergstraße (Beschluss des Bauausschusses vom 12.06.2007)
+- TOP 9.2.: Stadtweites Rauchverbot an und auf Spielplätzen (Beschluss des Bauausschusses vom 03.07.2007)
+- TOP 9.3.: Vermeidung von Hundekot in städtischen Grünanlagen und Grünstreifen (Beschluss des Bauausschusses vom 03.07.2007)
+- TOP 9.4.: "Keferloherplatz" (neu: Curt-Mezger-Platz) im 11.Stadtbezirk Milbertshofen - Am Hart (Beschluss des Bauausschusses vom 12.06.2007)
+- TOP 9.5.: Beseitigung schienengleicher Bahnübergänge - Gegenwärtiger Stand - (Beschluss des Bauausschusses vom 03.07.2007)
+- TOP 9.6.: A 99 West - Ergebnisse der Verkehrszählungen " Vorher-Nachher-Untersuchung" (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 27.06.2007)
+- TOP 9.7.: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006, Ergebnis der fachanwaltlichen Prüfung (Beschluss der Vollversammlung des Stadt vom 20.06.2007)
+- TOP 9.8.: Hotelprojekt an der Lerchenauerstraße U- und Busbahnhof Olympiazentrum (Beschluss der Vollversammlung des Stadtrates vom 20.06.2007)
+- TOP 9.9.: Anpassung des Münchner Stellplatzrechts für Kraftfahzeuge an die BayBO-Novelle 2007 (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2007)
+- TOP 9.10.: Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.06.2007)
+- TOP 9.11.: Initiative Europäische Metropolregion München - Sachstandsbericht (Bekanntgabe in der Sitzung der Vollversammlung des Stadtrates vom 20.06.2007)
+- TOP 9.12.: Vollzug der Baumschutzverordnung, Fällungsanträge
+- TOP 9.13.: Baumaßnahmen der Stadtwerke München
+- TOP 9.14.: Meldelisten Bauvorhaben
+- TOP 9.1.: Daten Kinderkrippen
+- TOP 9.2.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen
+- TOP 9.3.: Vollzug des Gaststättengesetzes (GastG); Unveränderte Fortführung von Gaststättenbetrieben a) SSW "Neuherberg Garten", Neuherbergstr. 2 b) SSW "bei Takis", Riesenfeldstr. 66 c)SSW im Olympiapark München, Olympiapark
+- TOP 9.4.: Realisierung einer dreigruppigen Kinderkrippe Bertholdstraße (Beschluss des Kinder- und Jugendhilfeausschusses vom 26.06.2007)
+- TOP 9.5.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 9.1.: Veranstaltungen auf öffentlichem Verkehrgrund, Bescheide
+- TOP 9.2.: Verkehrsrechtliche Anordnungen nach §45 StVO
+- TOP 9.3.: Vollzug der Straßenverkehrsordnung StVO, Genehmigungsbescheide
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
