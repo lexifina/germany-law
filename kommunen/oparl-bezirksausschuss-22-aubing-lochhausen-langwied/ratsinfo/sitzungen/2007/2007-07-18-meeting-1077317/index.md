@@ -1,0 +1,85 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2007-07-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1077317
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1077317
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Fehlendes Hinweisschild an der S-Bahnstation Lochhausen
+- TOP 2.2.: Unterstützung zur Verkehrsberuhigung und somit Lärmeindämmung der Bergsonstraße ab der Kreuzung Bergson-/ Negrellistr./ An der Langwieder Haide bis zur Ruppert-Bodner-Straße
+- TOP 2.3.: Lärmschutz entlang der Bahnlinie in Lochhausen; Gehweg in der Langwieder Hauptstraße; Regelung für Radlfahrer in der Langwieder Hauptstraße
+- TOP 2.4.: Gehwegverbesserung Ende Thuisbrunnerstraße zur Bodenseestraße
+- TOP 2.5.: Lagerungen der Fa. PLUS, Radolfzeller Str. 5 a
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Ehemaliges Gleislager Neuaubing (vertagt aus 06/07)
+- TOP 4.2.: Benennung von Kriterien für Ausweisung eines Reitweges in Lochhausen
+- TOP 4.3.: Sperrung der Autobahnüberführung (Straße) an der Eichenauer Straße für Fahrradfahrer
+- TOP 4.4.: Rad- und Fußweg entlang der Eichenauer Straße
+- TOP 4.5.: 10-Minuten-Takt der Buslinie 161 bis 19.00 Uhr
+- TOP 4.6.: Gestaltung des Zugangs zum ASZ am Wasserturm und zum Kindergarten als Gehweg
+- TOP 4.7.: Verkehrsschild für Fußgänger am Fußweg von der Wildenrother Straße zum Imkerweg / parallel zur Eichenauer Straße und Tempo-30-Schild in der Eichenauer Straße
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Verein der Freunde der FFW Aubing e.V.
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: Strukturkonzept Mühlangerstr. / Langwied, Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung (Aufstellungsbeschluss)
+- TOP 6.3.: Vorhabenbezogener Bebauungsplan mit Grünordnung, Autobahnkreuz München West (südlich), BAB A 8 (südwestlich), Mosswiesenstr. (westlich), Mühlangerstr. (nördlich), Berglwiesenstr. (östlich), BAB A 99 (südöstlich)
+- TOP 6.4.: Verkehrsrechtliche Anordnung, Haltverbot Am Aubinger Wasserturm
+- TOP 6.5.: Verkehrsrechtliche Anordnung, Köferinger Str. 20 Seite Kravogelstraße; eingeschränktes Haltverbot
+- TOP 6.6.: Flughafen Oberpfaffenhofen, Beschluss zur Empfehlung Nr. 769 der Bürgerversammlung vom 26.06.07
+- TOP 6.7.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007, Entwurf zum Neuerlass einer Stellplatzsatzung für Kraftfahrzeuge
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Baufälle im 22. Stadtbezirk (v. 11.-17.06.07, v. 18.-24.06.07, v. 25.06.-01.07.07, 02.-08.07.07), Schr. Planungsreferat vom 18.06.07, 25.06.07, 03.07.07, 09.07.07
+- TOP 7.2.: Gewerbeentwicklung Freiham; Vergabe von städtischen Gewerbeflächen, Schr. Ref. f. Arbeit u. Wirtschaft vom 13.06.07
+- TOP 7.3.: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 25.06.07, 02.07.07, 09.07.07
+- TOP 7.4.: Ausnahmebewilligungsbescheid, Schluckbrunnen an der Federseestraße, Schr. KVR vom 22.06.07
+- TOP 7.5.: Wirtschafts-Info 06/2007, Schr. Ref. f. Arbeit u. Wirtschaft vom 29.06.07
+- TOP 7.6.: Kultur im Stadtquartier, Beschlussvorlage und Stadtratssitzung, Schr. Kulturreferat vom 27.06.07
+- TOP 7.7.: Unterrichtung über das Fällen von Gefahrenbäumen, hier: Mariabrunnerstr. 88, Schr. Baureferat vom 14.06.07
+- TOP 7.8.: Veranstaltungen / Kooperationen, Juli 2007
+- TOP 7.9.: Zweckentfremdung von Wohnraum, Aubinger Str. 117 a, Schr. Sozialreferat vom 05.07.07
+- TOP 7.10.: Aktuelle Daten Kinderkrippen, Stand: 01.07.07, Schr. Sozialreferat vom 06.07.07
+- TOP 7.11.: Baumaßnahmen der SWM, Stromprojekt Bodenseestraße, Schr. SWM vom 10.07.07
+- TOP 7.12.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Aubinger Keller", Limesstr. 68 a/ Keller, Schr. KVR vom 12.07.07
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Müllbehälter an der Bushaltestelle "Limesstraße", Schr. SWM vom 18.06.07
+- TOP 8.2.: Anforderung eines schriftlichen Berichtes von Regsam-West über Probleme im Stadtbezirk 22, Schr. Sozialreferat vom 05.06.07 zum BA-Antrag Nr. 1739 vom 20.12.06
+- TOP 8.3.: Widmung eines der parallel zueinander verlaufenden Fußwege, die die Streitberg- und Riesenburgstr. in Verlängerung der Rothenfelser Str. verbingen, als Radweg, Schr. Baureferat vom 15.06.07 zum BA-Antrag Nr. 1949 vom 21.03.07
+- TOP 8.4.: Aufnahme der Situation für Fahrradfahrer im 22. Stadtbezirk in das Programm der internationalen Fahrradkonferenz im Juni, Schr. Baureferat vom 14.06.07 zum BA-Antrag Nr. 2063 vom 18.04.07
+- TOP 8.5.: Umwandlung der Reichenaustr. in eine Einbahnstraße, Schr. Direktorium vom 02.07.07
+- TOP 8.6.: Stellungnahme zur geplanten Siedlungsmaßnahme Freiham Nord, Schr. Planungsreferat vom 05.07.07
+- TOP 8.7.: Neubau einer Fußgängertreppe von der Bodensee- zur Borinskistraße, Schr. Baureferat vom 09.07.07 zum BA-Antrag Nr. 2113 vom 16.05.07
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 27.06.07 - A 99 West - Ergebnisse der Verkehrszählungen "Vorher-Nachher-Untersuchung" - Siedlungsschwerpunkt Freiham, Freiham Nord - Boden- und Bauschuttrecycling Anlagen und Bodenbörsen in München, Strukturkonzept Allach-West, Bericht zur Verbesserung der Verkehrserschließung - Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München - Bebauungsplan mit Grünordnung Nr. 2009, BAB A 8 (südwestlich) zwischen Bergsonstr. und Breiter Weg, BAB A 8 (nordöstlich) zwischen Breiter Weg und Lochhausener Str., Goteboldstr. zwischen Lochhausener Str. und südl. Grundstücksgrenze FlNr. 1121/5 (Auenbruggerstr. 115) zwischen dem östlichen Straßenrand bis 15 m östlich davon usw. - Mehr Naturschutz am Gleisdreieck - Bebauungsplan mit Grünordnung Nr. 1955, Colmdorfstr. (östlich), Bahnlinie München - Buchloe (südlich), Pretzfelder Str. (nördlich) - Billigungsbeschluss - - Schussenrieder Straße, Amelbrecht-/Schubinweg, Bebauungsplan Nr. 1703, Bauträgerauswahl für das Bauquartier WA 10 - 2. S-Bahn-Stammstrecke München
+- TOP 9.2.: Bauausschuss vom 12.06.07 - MIP für die Jahre 2007-2011 mit verbindlicher Planung für 2012
+- TOP 9.3.: Bekanntgabe in der Vollversammlung vom 20.06.07 - Initiative Europäische Metropolregion München - Sachstandsbericht
+- TOP 9.4.: Bauausschuss vom 03.07.07 - Vermeidung von Hundekot in städtischen Grünanlagen und Grünstreifen - Stadtweites Rauchverbot an und auf Spielplätzen - Kastelburgstraße zwischen Marianbrunner Straße und Kronwinkler Straße, Erstmalige Herstellung
+- TOP 9.5.: Kinder- und Jugendhilfeausschuss vom 26.06.07 - KinderTagesZentrum (Kitz) Wiesentfelser Str. 68
+- TOP 9.6.: Ausschuss für Stadtplanung und Bauordnung vom 04.07.07 - Anpassung des Münchner Stellplatzrechtes für Kraftfahrzeuge an die BayBO-Novelle 2007
+- TOP 9.7.: Schulausschuss vom 27.06.07 - Grundsatzbeschluss gymnasiale Versorgung in München; Erreichung einer ausreichenden Versorgung mit weiterführenden Schulen im 22. Stadtbezirk, BA-Antrag Nr. 1777 vom 17.01.07
+- TOP 9.8.: Ausschuss für Arbeit und Wirtschaft vom 03.07.07 - Leistungsprogramm der MVG für die Fahrplanperiode 2008; Anbindung des Ortsteils Langwied an den öffentlichen Personennahverkehr, BA-Antrag Nr. 1531 vom 18.10.06
+- TOP 9.9.: Beschluss Kommunalausschuss vom 14.06.07 - Straßenbenennung im 22. Stadtbezirk Aubing-Lochhausen-Langwied Toni-Berger-Straße Bally-Prell-Straße Erni-Singerl-Straße
+- TOP 9.10.: Vollversammlung vom 18.07.07 - Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse, Oktoberfest 2007, Schr. Direktorium vom 26.06.07
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 19.09.2007, Gaststätte "Wienerwald", Limesstr. 63
