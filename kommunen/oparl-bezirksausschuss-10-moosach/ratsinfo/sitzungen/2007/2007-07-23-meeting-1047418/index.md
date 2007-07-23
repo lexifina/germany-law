@@ -1,0 +1,88 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2007-07-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1047418
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1047418
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Antrag auf kostenlose Zweckentfremdung von Wohnraum aufgrund hohen Bedarfs ; Goldnesselweg 3
+- TOP 2.2.: Hinweis auf Müttertreff Moosach im U-Bahnhof Moosacher St.-Martins-Platz
+- TOP 2.3.: Entfernung zweier Bänke Feldmochinger Str. 4 - 8 - <div>Ablehnung</div>
+- TOP 2.4.: Überhöhte Geschwindigkeit in der Josef-Knogler-Straße - <div>Polizei wird verstärkt kontrollieren</div>
+- TOP 2.5.: Verkehrsprobleme Pelkovenstraße
+- TOP 2.6.: Künstlerische Gestaltung der U-Bahnhöfe
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Ortstermin Trinkl-Siedlung
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.1.: Fortbildung Baumschutz
+- TOP 4.1: Anträge der SPD
+- TOP 4.1.1.: Maifest 2008
+- TOP 4.1.2.: Herstellung der öffentlichen Verkehrsflächen im Umgriff des Bebauungsplanes Gärtner-, Dürr-, Messerschmitt-, Dessauer -, Hans-Bunte-Straße
+- TOP 4.1.3.: M-Campus / Moosacher Technologiepark; Herstellung der öffentlichen Verkehrsflächen im Umgriff des Bebauungsplas mit Grünordnung Nr. 1927 a
+- TOP 4.2: Anträge der CSU
+- TOP 4.2.1.: Unratablagerungen auf den Grundstücken Pelkovenstr. 152 und Dessauer Str. 17
+- TOP 4.2.2.: Radfahren entgegen der Fahrtrichtung in der Hohentwielstraße
+- TOP 4.2.3.: Verkehrsführung Kreuzungsbereich Lassallestr. / Triebstr. / Hanauer Str. in südlicher Fahrtrichtung
+- TOP 4.2.4.: Zweirichtungsradweg in der Schragenhofstraße
+- TOP 4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10; Lauinger 23, Wir in Moosach: Sommerfest am 29.06.07 - <div>nach Antrag</div>
+- TOP 5.2.: Zuschuss aus dem Budget des BA 10; ASZ Moosach: Veranstaltungen im Rahmen der 1200-Jahr-Feier Moosachs - <div>nach Antrag</div>
+- TOP 5.3.: Zuschuss aus dem Budget des BA 10; Mieter- und Eigentümergemeinschaft Olympia-Pressestadt: Kinder- und Sommerfest - <div>nach Antrag</div>
+- TOP 5.4.: Zuschuss aus dem Budget des BA 10; AG Buhlstraße, Spielhaus Boomerang: Interaktive Moosach-Ausstellung - <div>nach Antrag</div>
+- TOP 5.5.: Zuschuss aus dem Budget des BA 10; Grundschule Jenaer Straße: Naturerlebnistage - <div>nach Antrag</div>
+- TOP 6: (E) Straßenbenennung im 10. Stadtbezirk Moosach Kramergassl
+- TOP 6.: Anhörungen
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.: Verkauf einer städtischen Immobilie: Hanauer Straße
+- TOP 6.3.: Behindertenparkplätze Wildermuthstraße
+- TOP 6.4.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge
+- TOP 6.5.: Quedlinburger Str. 33: Halteverbote
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: PPP-Modell Schulzentrum Gerastraße (Überlegungen zur Generalinstandsetzung)
+- TOP 7.2.: Radweg an der Südseite des Georg-Brauchle-Rings auf Höhe des Abfallwirtschaftsbetriebs (soll wiederhergestellt werden)
+- TOP 7.3.: Lärmmessungen Allacher Straße
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: "Aktion Saubere Stadt" (Antwort des OB auf ein Bügerschreiben)
+- TOP 8.4.: Gärtner- / Dürr- / Messerschmitt- / Dessauerstraße, Hans-Bunte-Straße; Herstellung der öffentlichen Verkehrsflächen im Umgriff des Bebauungsplanes Nr. 1379
+- TOP 8.5.: Stadtweites Rauchverbot an und auf Spielplätzen
+- TOP 8.6.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007
+- TOP 8.7.: Sprengeländerung der Grundschulen Maria-Ward-Str. 1 und Amphionpark, Welzenbachstr. 12
+- TOP 8.8.: Mehrjahresinvestitionsprogramm des Baureferates Tiefbau (Gemeindestraßen, Straßenbeleuchtung, Straßenreinigung etc.)
+- TOP 8.9.: Mehrjahresinvestitionsprogramm des Baureferates Ingenieurbau
+- TOP 8.10.: Mehrjahresinvestitionsprogramm des Baureferates Gartenbau
+- TOP 8.11.: 850. Stadtgeburtstag; Protokoll der Sitzung vom 20.06.07
+- TOP 8.12.: Verteiler der RAGS Moosach
+- TOP 8.13.: 2. S-Bahn-Stammstrecke München
+- TOP 8.14.: Beseitigung schienengleicher Bahnübergänge
+- TOP 8.15.: M-Campus / Moosacher Technologiepark; Herstellung der öffentlichen Verkehrsflächen im Umgriff des Bebauungsplanes mit Grünordnung Nr. 1927 a
+- TOP 8.16.: Vermeidung von Hundekot in städtischen Grünanlagen und Grünstreifen
+- TOP 8.17.: Pelkovenstraße zwischen Feldmochinger Straße und Ehrenbreitsteiner Straße; Erneuerungsmaßnahme mit Verbesserungen
+- TOP 8.18.: Zweckentfremdung von Wohnraum: Abensbergstraße
+- TOP 8.19.: Technisches Betriebszentrum Schragenhofstr. 6 - örtliche Verlegung und Modernisierung von technischen Betriebsanlagen - Zusammenlegung und Modernisierung der Verkehrszentrale München und der technischen Betriebszentrale der Straßenbeleuchtung und Verkehrsleittechnik
+- TOP 8.20.: Neubau eines Technischen Betriebszentrums in der Schragenhofstr. 6
+- TOP 8.21.: Ausweitung der Schulsozialarbeit um sechs weitere Standorte
+- TOP 8.22.: Mehrjahresinvestitionsprogramm des Planungsreferates LBK
+- TOP 8.23.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2007 - 2011
+- TOP 8.24.: Daten Kinderkrippen 01.07.2007
+- TOP 8.25.: Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München
+- TOP 8.26.: Rechtsschutzmöglichkeiten der LH München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 (Änderungsantrag)
+- TOP 8.27.: Menzinger Straße 85 (Empfehlungen der Bürgerversammlung des 21. Stadtbezirkes Pasing-Obermenzing)
+- TOP 8.28.: A 99 West - Ergebnisse der Verkehrszählungen "Vorher-Nachher-Untersuchung"
+- TOP 8.29.: Initiative Europäische Metropolregion München - Sachstandsbericht
+- TOP 8.30.: Mobilfunkanlagen
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 4: Anträge
