@@ -1,0 +1,95 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2007-07-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1079057
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1079057
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Dauerhafte Beibehaltung der baustellenbedingt errichteten Signalanlage an der St.-Michael- / Hachinger-Bach-Straße
+- TOP 2.2.: Aufstellen von Hundepollern und Tütenspendern für Hundekot in der Grünanlage Echardinger Straße / Fehwiesenstraße
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Friedenstraße 10 ? Optimolgelände ? Nutzungsänderung: Teilbereich Antikmarkt zu Gastronomie
+- TOP 3.1.1.2.: Friedenstraße 22b ? Nutzungsänderung einer Werkstatt mit Büro in einen Spiel- und Lernpark für Kinder (befristet bis zum 31.12.2016)
+- TOP 3.1.1.3.: St.-Veit-Straße ? Neubau eines Mehrfamilien- und eines Einfamilienhauses mit Garagen
+- TOP 3.1.1.4.: St.-Veit-Straße ? Neubau eines Mehrfamilienhauses mit 2 Doppelparkergaragen
+- TOP 3.1.1.5.: Auf dem Wasen ? Neubau einer Wohnanlage mit Tiefgarage
+- TOP 3.1.1.6.: Aßlinger Straße ? Neubau von acht Wohngebäuden mit vier Tiefgaragen
+- TOP 3.1.2.1.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007 - Sachstand der BayBO-Novelle - Entwurf zum Neuerlass einer Stellplatzsatzung für Kraftfahrzeuge - Beauftragung der Verwaltung zum weiteren Vorgehen
+- TOP 3.1.2.2.: Trausnitzstraße / Ampfingstraße ? Vorschlag zur Änderung der Verkehrssteuerung
+- TOP 3.1.2.3.: Friedenstraße 17 a ? Verkehrsrechtliche Anordnung eingeschränktes Haltverbot
+- TOP 3.1.2.4.: Lkw-Parken in der Schlüsselbergstraße
+- TOP 3.1.2.5.: Verkehrslärm Schlüsselbergstraße ? Fußgänger- und Radfahrerampel Kreuzung Mittlerer Ring - Schlüsselbergstraße
+- TOP 3.1.2.6.: S-Bahn-Unterführung Berg am Laim Errichtung einer separaten Fuß- und Radwegunterführung im 13. Stadtbezirk Bogenhausen und im 14. Stadtbezirk Berg. a. Laim
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Freizeitnutzung von schulischen Außensportanlagen
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Gotteszeller Str. ? Umwandlung in Sozialwohnungen
+- TOP 3.5.1.: Verein zur Förderung des Kinder- und Jugendtheaters e.V. - Zuschussantrag
+- TOP 3.6: Sonstiges
+- TOP 3.6.1.: Kfz-Werkstätte im Wohngebiet
+- TOP 3.6.2.: Veranstaltung des Bürgerkreises im Behrpark (Gesang)
+- TOP 3.6.3.: Veranstaltung des Bürgerkreises im Behrpark (Theater)
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.2.1.: 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG) a) Sach- und Verfahrensstand; ergänzende Informationen b) Weiteres Vorgehen c) Anträge und Empfehlungen
+- TOP 4.1.2.2.: Beseitigung schienengleicher Bahnübergänge - Gegenwärtiger Stand -
+- TOP 4.1.2.3.: Mehrjahresinvestitionsprogramm für die Jahre 2007 ? 2011 mit verbindlicher Planung für 2012; Unterabschnitte 6300 ?Gemeindestraßen? 6600 ?Bundes- und Staatsstraßen; Ortsdurchfahrten? 6700 ?Straßenbeleuchtung? 6750 ?Straßenreinigung? 6800 ?Parkscheinautomaten, -uhren, Parkplätze? 6900 ?Wasserläufe / Wasserbau?
+- TOP 4.2.1.: Kultur im Stadtquartier ? Beschlussvorlage und Stadtratssitzung
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Grundschule Grafinger Straße ? Besprechung mit Schulleitung
+- TOP 4.3.2.: Grundsatzbeschluss gymnasiale Versorgung in München
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Bürgerkreis Berg am Laim e.V. ? Zuwendungsbescheid
+- TOP 4.5.2.: Maibaumverein Berg am Laim e.V. - Zuwendungsbescheid
+- TOP 4.5.5.: Kita St. Michael - Zuwendungsbescheid
+- TOP 4.5.6.: Kultikids e.V. - Schriftverkehr
+- TOP 4.5.7.: Kultikids e.V. ? Finanzplan Hausaufgabenbetreuung
+- TOP 4.5.8.: Ludwig-Thoma-Realschule - Verwendungsnachweis
+- TOP 4.6: Sonstige
+- TOP 4.6.1.: Änderung von Artikel 60 Gemeindeordnung ? Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirkausschüsse
+- TOP 4.6.2.: Stadtweites Rauchverbot auf Spielplätzen
+- TOP 4.6.3.: Änderung der Straßenreinigungssatzung
+- TOP 4.6.4.: Vermeidung von Hundekot in städtischen Grünanlagen und Grünstreifen
+- TOP 4.6.5.: Übersichtsplan und Betreiberliste des Optimolgeländes
+- TOP 4.6.6.: Kultfabrik, ?Refugium? ? Antrag auf unveränderte Fortführung
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 4.5.4.: ESV München Ost e.V. - Zuwendungsbescheid
+- TOP 3: (E) Dauerhafte Beibehaltung der baustellenbedingt errichteten Signalanlage an der St.-MIchael-/ Hachinger-Bach-Straße Empfehlung Nr. 02-08 / E 00684 der Bürger- versammlung des Stadtbezirkes 14 Berg am Laim am 22.03.2007 - <div></div>
+- TOP 4: (E) Aufstellen von Hundepollern und Tütenspendern für Hundekot in der Grünanlage Echardinger / Fehwiesenstraße Empfehlung Nr. 02-08 / E 00682 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 22.03.2007 - <div></div>
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
