@@ -1,0 +1,136 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2007-07-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1035987
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1035987
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering - Riem Widmung der Gesamtstrecke der Mittbacher Straße
+- TOP 1.2.: Zuwendung aus dem Budget der Bezirksausschüsse - Änderung des Bewilligungsbescheides
+- TOP 1.3.: Vollzug des Bayrischen Straßen- und Wegegesetzes - Einrichtung eines ambulanten Obst- und Gemüseverkaufsplatzes am Willy-Brandt-Platz (Riem Arcaden)
+- TOP 1.4.: Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses durch den TSV Trudering i.H.v. 1.250,00 Euro für die Anschafftung von Jugendtoren zuzüglich Ergänzungsantrag der SPD-Fraktion
+- TOP 1.5.: Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses durch das Wohnforum München i.H.v. 485,00 Euro für das Bewohnerfest
+- TOP 2.1.: Verwahrloster Zustand des Grundstückes Wasserturmstraße 19 (bereits weitergeleitet)
+- TOP 2.2.: Neue Spielotheken in der Truderinger Straße 278
+- TOP 2.3.: Architektur in der Messestadt - Podiumsdiskussion im Nemetschek-Haus
+- TOP 2.4.: ElectricPark-Festival - Kostenlose Nutzung des Grundstückes
+- TOP 2.5.: Rückgang der Musikschulpräsenz in Trudering
+- TOP 3.1.: Mehr öffentliche Stadtplaninformationen für Trudering-Riem, Antrag Nr. 02-08 / B 01604
+- TOP 3.2.: Errichtung einer Fahrradbrücke Am Mitterfeld über die A 94, Antrag Nr. 02-08 / B 01692
+- TOP 3.3.: Sauberkeit im Riemer Park, Antrag Nr. 02-08 / B 02050
+- TOP 3.4.: Errichtung einer Panoramatafel auf dem Rodelberg, Antrag Nr. 02-08 / B 01984
+- TOP 3.5.: Sicherheitslage im Truderinger Wald, Antrag Nr. 02-08 / B 01965
+- TOP 3.6.: Lagerplatz / Containerstandort Truchthari-Anger, Antrag Nr. 02-08 / B 01873
+- TOP 3.7.: Private Lärmschutzmaßnahmen an der Grundstücksgrenze zuzüglich Vorgartensatzung der LH München (S. 1, S. 36-42), Antrag Nr. 02-08 / B 01988
+- TOP 3.8.: Hortsituation Forellenschule, Antrag Nr. 02-08 / B 01968
+- TOP 3.9.: Brand in der Asylbewerberunterkunft Schwankhardtweg, Antrag Nr. 02-08 / B 01982
+- TOP 3.10.: Mehr Bahnlärm durch Gleissanierung (Zwischennachricht), Antrag Nr. 02-08 / B 02151
+- TOP 3.11.: Querungshilfe Ottilienstraße / Friedenspromenade
+- TOP 3.12.: Versetzung des Schulhelfer-Übergangs bei der Markgrafenschule, Antrag Nr. 02-08 / B 02038
+- TOP 3.13.: Verkehrsqualitätsanalyse im Hauptstraßensystem Trudering-Riem, Antrag Nr. 02-08 / B 01987
+- TOP 4.1.: Rauchverbot auf Spielplätzen im Stadtbezirk 15 Trudering-Riem (s. Top 10.12/07/07)
+- TOP 4.2.: Rettungswache im Neubau des Sozialbürgerhauses am Bahnhof Trudering
+- TOP 4.3.: Ladenhüter? Wann werden die städtischen Gewerbegrundstücke an Drosselweg und Mauerseglerstraße endlich bebaut?
+- TOP 4.4.: Hilfen beim Berufsstart
+- TOP 4.5.: Vernünftige Zuständigkeiten für die Bezirksausschüsse - Änderung der Gemeindeordnung
+- TOP 4.6.: Verbesserungen für Trauergäste am Riemer Friedhof
+- TOP 4.7.: Nach 50 Jahren: Hinweise des Landesamtes für Wasserwirtschaft endlich umsetzen und die Bürger im Wasserschutzgebiet entlasten
+- TOP 4.8.: Demontage der P+R-Wegweiser an der Wasserburger Landstraße
+- TOP 5.1.: Stadteigenes Grundstück Flst.Nr. 239 an der Truderinger Straße: Kleinzirkus Baldoni vom 26.07.2007 bis 30.07.2007 (Anhörung; Frist: sofort)
+- TOP 5.2.: Stadteigenes Grundstück Flst.Nr. 239 an der Truderinger Straße: Puppentheater der Puppenbühne D.Stossberger München vom 18.09.2007 bis 23.09.2007 (Anhörung, Frist: sofort)
+- TOP 5.3.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse für eine verkehrsrechtliche Anordnung nach § 45 StVO - Halteverbot am Hochacker (Frist: 13.08.07)
+- TOP 5.4.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse für eine verkehrsrechtliche Anordnung nach § 45 StVO - Halteverbot Astrid-Lindgren-Straße; Einbahnregelung (Frist: 08.08.07)
+- TOP 5.5.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse für eine verkehrsrechtliche Anordnung nach § 45 StVO - Halteverbot Selma-Lagerlöf-Straße (Frist: 09.08.07)
+- TOP 5.6.: Vollzug von § 13 der BA-Satzung Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen), Truderinger Straße 261, Fl.Nr. 606/3, Gemarkung Trudering (Anhörung, Frist: 02.08.07)
+- TOP 5.7.: Antrag auf Erteilung einer Ausnahmegenehmigung zum Aufstellen von Tischen und Stühlen auf öffentlichem Verkehrsgrund gem. Art. 18 BayStrWG auf dem Willy-Brandt-Platz (Anhörung; Frist: 07.08.07)
+- TOP 5.8.: Antrag des QUAX auf Durchführung einer Veranstaltung auf öffentlichem Verkehrsgrund im Riemer Park vom 03.09.07 -15.09.07 (Anhörung; Frist: 20.08.07)
+- TOP 5.9.: Beschlussvorlage für den Schulausschuss am 19.09.2007 Erweiterung der Grundschule am Lehrer-Götz-Weg 21 um vier Grundschulklassen und eine zweite Hortgruppe, Errichtung einer Einfachsporthalle (Anhörung; Frist: sofort)
+- TOP 5.10.: Verkauf eines städtischen Grundstückes am Siegmund-Riefler-Bogen
+- TOP 5.11.: Halteverbot Heltauerstraße / Birthälmer Straße
+- TOP 5.12.: Antrag auf Erteilung einer Ausnahmegenehmigung zum Aufstellen von Tischen und Stühlen auf öffentlichem Verkehrsgrund gem. Art. 18 BayStrWG (Anhörung; Frist: 27.08.07)
+- TOP 5.13.: Gemeinde Feldkirchen - Vorhabensbezogender Bebauungsplan Nr. 07; Wohngebiet an der Friedrich-Schüle-Straße (Anhörung; Frist: sofort)
+- TOP 5.14.: Open-Air-Kino im Riemer Park (Anhörung; Frist: 08.08.07)
+- TOP 5.15.: Kindergarten- und Hortversorgung im Stadtbezirk 15 Trudering-Riem (Anhörung; Frist: 13.08.07)
+- TOP 5.16.: Anhörung im Einzelfall auf Anforderung - Errichtung eines Mobilfunkmastes für das D2 Mobilfunknetz Am Eulenhorst
+- TOP 5.17.: Verkauf eines städtischen Grundstückes an der Helgastraße 8 (Anhörung; Frist: 6 Wochen)
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.1.: Woher kommen die KiTa-Kinder, Antrag Nr. 02-08 / B 01416 (vertagt aus der Sitzung vom 28.06.07)
+- TOP 7.7.2: UA Planung:
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.1.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007; Entwurf zum Neuerlass einer Stellplatzsatzung für Kraftfahrzeuge (Anhörung, Frist: 27.08.07)
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.1.: Stellungnahme des Kulturreferats zum Antrag des Männergesangsvereins (Top 1.2/06/07)
+- TOP 7.2.: Verwendungsnachweis des Familienzentrum Trudering zur Erneuerung des Inventars
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 8.1.: Bescheide und Mitteilungen über bereits durchgeführte Baumfällungen: Sansibarstraße 44
+- TOP 8.2.: Florastraße 76
+- TOP 8.3.: Von-Trotha-Straße 3
+- TOP 8.4.: Heilwigstraße 60 a
+- TOP 8.5.: Max-Rothschild-Straße 8
+- TOP 8.6.: Solalindenstraße 62
+- TOP 8.7.: Otto-Lederer-Weg 55
+- TOP 8.8.: Rofanstraße 13
+- TOP 8.9.: Kreuzerweg 35 a
+- TOP 8.10.: Scheibmeirstraße 30 b
+- TOP 8.11.: Reiherweg 20 b
+- TOP 8.12.: Reiserstraße 1
+- TOP 8.13.: Waldtruderinger Straße 48
+- TOP 8.14.: Brodstraße 8
+- TOP 8.15.: Friedenspromenade 109 c
+- TOP 8.16.: Wasserburger Landstraße / Schwablhofstraße
+- TOP 8.17.: Samlandstraße 31
+- TOP 8.18.: Waterbergstraße 7
+- TOP 8.19.: Zehntfeldstraße 274
+- TOP 8.20.: Hoferichterweg 6
+- TOP 8.21.: Geitnerweg 20
+- TOP 9.1.: Termine und Mitteilungen a) Reservierung in der Ratsboxe für die Bezirksausschüsse zum Oktoberfest 2007 b) Einladung zur Weihe des Feldkreuzes in der Gartenstadt am Freitag, den 27.07.07 c) nach Mitteilung des Vorsitzenden
+- TOP 9.2.: Beseitigung schienengleicher Bahnübergänge - Gegenwärtiger Stand - Beschluss des Bauausschusses vom 03.07.2007
+- TOP 9.3.: Bebauungsplan mit Grünordnung Nr. 1976 Schwablhofstraße (westlich), Wasserburger Landstraße (nördlich), Bahnlinie München-Rosenheim (südlich) - Ergebnisprotokoll über die Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB vom 10.05.2007
+- TOP 9.4.: 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG), Hinweise / Ergänzungen zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.06.2007
+- TOP 9.5.: Mitteilung über ein Grundstücksgeschäft Verkauf des Grundstückes Flst. 1601/1, 1593/2 (Tlfl. Perlach) in der Heinrich-Wieland-Straße
+- TOP 9.6.: Kultur im Stadtquartier Information über die Beschlussvorlage und Behandlung in der Stadtratssitzung
+- TOP 9.7.: Leistungsprogramm der MVG für die Fahrplanperiode 2008 Buslinienführung durch den Ortskern Trudering, Antrag Nr. 02-08 / B 01796, Beschluss des Ausschusses für Arbeit und Wirtschaft vom 03.07.2007
+- TOP 9.8.: Barrierefreies Bauen und Sanieren - Informationsbroschüren
+- TOP 9.9.: Nutzung der Stadtteilkulturzentren durch die örtlichen BAs, Schreiben des Bezirksausschusses 13 Bogenhausen (lfd. Antrag Nr. 02-08 / B 02035)
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 18.06.07 - 08.07.07
+- TOP 10.2.: Zweckentfremdung von Wohnraum - Windbauerstraße 2a
+- TOP 10.3.: Ablehnung einer Zuwendungsbewilligung aus dem Budget des BA 15 für das Kreativ Musikforum i.H.v. 568,00 Euro
+- TOP 10.4.: Zuwendungsbewilligung aus dem Budget des BA 15 für den Männergesangsverein Liederkranz-Trudering i.H.v. 315,00 Euro
+- TOP 10.5.: Zuwendungsbewilligung aus dem Budget des BA 15 für die Bezirksvereinigung Gartenstadt-Trudering e.V. i.H.v. 700,00 Euro
+- TOP 10.6.: Verkehrsrechtliche Anordnung nach § 45 StVO - Aufhebung eines personenbezogenen Parkplatzes am Edinburghplatz
+- TOP 10.7.: Vollzug des § 29 Abs. 2 der Straßenverkehrsordnung (StVO); Veranstaltung auf öffentlichem Verkehrsgrund, hier: Wandertage am 21.07. und 22.07.07
+- TOP 10.8.: Vollzug der Grünanlagensatzung vom 12.08.1991 Veranstaltung im Riemer Park, hier: Internationale Deutsche Triathlon-Meisterschaften vom 14.07.07 - 15.07.07
+- TOP 10.9.: Vollzug des § 29 Abs. 2 der Straßenverkehrsordnung (StVO); Veranstaltung auf öffentlichem Verkehrsgrund, hier: Flohmarkt auf dem Platz der Menschenrechte am 14.07.07 (Ersatztermin: 21.07.07)
+- TOP 10.10.: Vollzug des § 29 Abs. 2 der Straßenverkehrsordnung (StVO); Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest "Nehmt Platz" auf dem Platz der Menschenrechte am 15.07.07
+- TOP 10.11.: Vermeidung von Hundekot in städtischen Grünanlagen und Grünstreifen; Beschluss des Bauausschusses vom 03.07.2007
+- TOP 10.12.: Stadtweites Rauchverbot an und auf Spielplätzen; Beschluss des Bauausschusses vom 03.07.2007 (s. auch Top 4.1/07/07)
+- TOP 10.13.: Grundsatzbeschluss gymnasiale Versorgung in München; Beschluss des Schulausschusses des Stadtrates vom 27.06.2007
+- TOP 10.14.: Errichtung einer 2-zügigen Grundschule mit 4-gruppigem Tagesheim und Grünwerkstatt an der Helsinkistraße im 15. Stadtbezirk Trudering-Riem; Beschluss des Riemausschusses des Stadtrates vom 27.06.2007
+- TOP 10.15.: Errichtung einer Kooperationseinrichtung mit 2 Kindergarten- und 2 Krippengruppen an der Galopperstraße im 15. Stadtbezirk Trudering-Riem; Beschluss des Kinder- und Jugendhilfeausschusses vom 26.06.2007
+- TOP 10.16.: Erweiterung der Kindertageseinrichtung Feldbergstraße 83 - Mitteilung des Schul- und Kultusreferates vom 29.06.2007
+- TOP 10.17.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2007
+- TOP 10.18.: Bebauungsplan Nr. 1945 Schwablhofstraße (östlich) - Billigungsbeschluss Vertagung der Beschlussfassung im Planungsausschuss bis nach der Sommerpause
+- TOP 10.19.: Initiative IsarCardS - Mitteilung des nächsten Termins
+- TOP 10.20.: Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München, Beschluss der Vollversammlung des Stadtrates vom 18.07.2007
+- TOP 10.21.: Bekanntgabe einer Liste aller städtischen Grundstücke in Waldtrudering (Ziffer 2 der Bürgerversammlungsempfehlung Nr. 656 vom 07.12.2006)
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
