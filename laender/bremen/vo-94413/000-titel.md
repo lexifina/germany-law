@@ -1,1 +1,1 @@
-# Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für das Lehramt an öffentlichen Schulen im Lande Bremen vom 22. Juni 2006
+# Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für das Lehramt an öffentlichen Schulen im Lande Bremen vom 6. Juli 2007
