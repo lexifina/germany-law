@@ -1,0 +1,7 @@
+# TOP 1: Beratung von Drucksachen
+
+- Sitzung: 8. öffentliche/nichtöffentliche Sitzung des Hauptausschusses (2007-08-07)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=25755
+- Ergebnis: (offen)
