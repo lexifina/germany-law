@@ -1,0 +1,93 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2007-08-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1090724
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1090724
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehr in der Willibaldstraße
+- TOP 1.2.: Ambrosiabekämpfung zwischen Haderner Weg und Tischlerstraße
+- TOP 1.3.: Auffallend hohes Verkehrsaufkommen in der Zone 30 - Kornwegerstraße
+- TOP 1.4.: Verkehrsentwicklung im Zusammenhang mit der Baustelle am Stiftsbogen
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Haderunstr. 33, 1 Fichte
+- TOP 3.2.: Neufriedenheimer Str. 40, 1 Buche
+- TOP 3.3.: Heiglhofstr. 12, gem. Baumbestandsplan Nr. 59561
+- TOP 3.4.: Windeckstr. 19, gem. Baumbestandsplan Nr. 60820
+- TOP 3.5.: Kruckenburgstr. 42, 2 Fichten
+- TOP 3.6.: Waldgartenstr. 40, 1 Zypresse
+- TOP 3.7.: Goldregenstr. 8, 2 Fichten
+- TOP 3.8.: Gräfelfinger Str. 77, 1 Birke
+- TOP 3.9.: Am Kornacker 7, 1 Waldfichte
+- TOP 3.10.: Sonnenblumenstr. 60, 1 Fichte
+- TOP 3.11.: Am Hedernfeld 27-37, 1 Wildkirsche
+- TOP 3.12.: Wadlerstr. 41, 1 Zypresse
+- TOP 3.13.: Hohenklingenstr. 1, 1 Zypresse
+- TOP 3.14.: Würmtalstr. 2 b, gem. Baumbestandsplan Nr. 4794
+- TOP 3.15.: Großhaderner Str. 22, gem. Baumbestandsplan Nr. 63114
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Bau
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Daten Kinderkrippen, Stand: 01.07.07 (Sozialreferat, 06.07.07)
+- TOP 7.2.: Kultur im Stadtquartier; Beschlussvorlage und Stadtratssitzung (Kulturreferat, 27.06.07)
+- TOP 7.3.: Änderung von Artikel 60 Gemeindeordnung, Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse (Direktorium, 12.07.07)
+- TOP 7.4.: Baumfällungen im Einzelantragsverfahren; Umwandlung der Unterrichtungsverfahren in Anhörungsverfahren; Verstoß gegen die Bezirksausschuss-Satzung vom 24.01.2007 (Referat für Stadtplanung und Bauordnung, 26.07.07)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Flughafen Oberpfaffenhofen (Referat für Stadtplanung und Bauordnung, 10.07.07)
+- TOP 8.2.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007, Entwurf zum Neuerlass einer Stellplatzsatzung für Kraftfahrzeuge, Anhörungs- und Beteiligungsverfahren (Referat für Stadtplanung und Bauordnung, 12.07.07)
+- TOP 8.3.: Abriss und Neubau des Jugendtreffs Pfiffteen, Wolkerweg 15 (Sozialreferat, 23.07.07)
+- TOP 8.4.: Neueinteilung der Stimmbezirke bzw. Wahllokale (Kreisverwaltungsreferat, 26.07.07)
+- TOP 8.5.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz vom 08.10. - 14.10.07 Puppenbühne Liebe (Kreisverwaltungsreferat, 31.07.07)
+- TOP 8.6.: Zweckentfremdung von Wohnraum, Großhaderner Str. 3 (Sozialreferat, 06.08.07)
+- TOP 8.7.: Veranstaltung in einer städtischen Grünanlage Max-Lebsche-Platz, hier: zusätzlicher Flohmarkttermin am 06.10.07 (Kreisverwaltungsreferat, 09.08.07)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Wertstoffinsel Guardinistr. 59 (AWM, 26.06.07)
+- TOP 9.2.: Zaun zwischen Kindergarten "Erscheinung des Herrn" und Treff 21(Baureferat, 09.07.07)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Rolltreppe am U-Bahnhof Holzapfelkreuth (MVG, 19.07.07)
+- TOP 10.2.: Neuvermietung, Prälat-Wellenhofer-Str. 27 (GAGFAH I, 24.07.07)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Kornwegerstraße "Schleichverkehr stimmt Anwohner besorgt"
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 20.06.2007: Rechtsschutzmöglichkeiten der Landeshauptstadt München gegen einzelne Ziele des Landesentwicklungsprogramms Bayern 2006 Ergebnis der fachanwaltlichen Prüfung
+- TOP 12.2.: vom 18.07.2007: Neubau einer Kooperationseinrichtung an der Großhaderner Str. 40, 20. Stadtbezirk Hadern (Projektkosten 2.548.000 ?, Grundstücksablöse 255.000 ?)
+- TOP 12.1.: vom 18.07.2007: Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 03.07.2007: Stadtweites Rauchverbot an und auf Spielplätzen
+- TOP 12.2.: Beschluss des Schulausschusses des Stadtrates vom 27.06.2007: Abriss und Neubau einer Kindertageseinrichtung mit 6 Gruppen Senftenauerstr. 25 im 20. Stadtbezirk Hadern (Projektkosten 3.648.000 ?)
+- TOP 12.3.: Beschluss des Bauausschusses vom 03.07.2007: Vermeidung von Hundekot in städtischen Grünanlagen und Grünstreifen
+- TOP 12.4.: Beschluss des Bauausschusses vom 03.07.2007: Ausbau des Mittleren Ringes (B 2 R)-Südwest - Luise-Kieselbach-Platz - im 7. Stadtbezirk Sendling-Westpark; Personalbedarf im Baureferat und im Kreisverwaltungsreferat
+- TOP 12.5.: Beschluss des Bauausschusses vom 03.07.2007: Beseitigung schienengleicher Bahnübergänge - Gegenwärtiger Stand -
+- TOP 12.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2007: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 12.06.2007: Mehrjahresinvestitionsprogramm (MIP) für die Jahre 2007-2011 mit verbindlicher Planung für 2012, insbesondere zum vom BA am 13.10.2006 geforderten Weiterbau der U 5 in die Blumenau (abgelehnt)
+- TOP 12.2.: Beschluss des Bauausschusses vom 12.06.2007: MIP des Baureferates, HA Gartenbau, für Jahre 2007-2011 mit verbindlicher Planung für 2012, Unterabschnitte 5800 "Alleen und Anlagen" 5810 "Stadtgärtnerei" 5900 "Einrichtungen für Erholung- und Freizeitgestaltung" 5910 "Kleingärten" Sitzungsvorlage Nr. 02-08/V 10129, insbesondere a) zum Grünzug an der Sauerbruchstraße südlich des Neubaugebietes am Max-Lebsche-Platz im Bebauungsplan 1600, Investition Nr. 5800.7910, Mitteilbedarf in Investitionsliste (IL) 1 = 442.000 ? in 2007-2009, Rangfolge Nr. 904, Fläche 3,6 ha, Ablöse an das Kommunalreferat 320.000 ? (Stellungnahme des Baureferates, HA Gartenbau, in Anlage 2, IL 1, Seite 7) b) zum Weiterbau des Landschaftsparks Laim-Hadern-Pasing (Anlage 19)
+- TOP 12.3.: Beschluss des Ausschusses für Arbeit und Wirtschaft am 12.06.2007: Mehrjahresinvestitionsprogramm für die Jahre 2007 bis 2011 des Referates für Arbeit und Wirtschaft, insbesondere Stellungnahme des Referates zum Antrag des BA Hadern vom 13.10.2006, Punkt g, auf Verlängerung der Trambahnlinie 18 in die Blumenau (Seite 7, Abschnitt 2.2, abgelehnt mit Punkt 4 des Beschlusses)
+- TOP 12.4.: Beschluss des Kommunalausschusses vom 14.06.2007: Mehrjahresinvestitionsprogramm 2007 bis 2011; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf, insbesondere zum Neubau eines Sozialbürgerhauses für die Stadtbezirke 19 und 20 am Ratzingerplatz und zur Forderung des BA 20 auf Gestaltung des Max-Lebsche-Platzes (Seite 9)
+- TOP 12.5.: Beschluss des Bauausschusses vom 12.06.2007: MIP des Baureferates, HA Tiefbau, für die Jahre 2007-2011 mit verbindlicher Planung für 2012, Unterabschnitte 6300 "Gemeindestraßen" 6600 "Bundes- und Staatsstraßen, Ortsdurchfahrten" 6700 "Straßenbeleuchtung" 6750 "Straßenreinigung" 6800 "Parkscheinautomaten, -uhren, Parkplätze" 6900 "Wasserläufe/ Wasserbau" Sitzungsvorlage Nr. 02-08/V 10086, insbesondere Stellungnahme des Baureferates zu dem BA-Forderungen vom 13.10.2006: a) sofortiger Beginn des Tunnelausbaus am Luise-Kiesselbach-Platz b) Neugestaltung des Hönigschmidplatzes (abgelehnt) c) dorfkernähnliche Gestaltung der Großhaderner Straße zwischen Würmtal- und Gräfelfinger Straße (gemeinsamer Antrag von CSU und SPD, abgelehnt) d) Vervollständigung der Lärmschutzwände der A 96 von der Stadtgrenze bis zur Fürstenrieder Straße (abgelehnt) e) Realisierung der Umgehungsspange Blumenau - Silberdistelstraße als Entlastung der Blumenauer- und Senftenauerstraße (abgelehnt) f) Neugestaltung des Blumenauer Zentrums (abgelehnt) g) Ausbau der Lichtzeichenanlagen mit Signalgebern und Bodenindikatoren für Sehbehinderte, insbesondere an den Kreuzungen Blumenauer-/ Terofalstraße (abgelehnt) und Guardini-/ Karl-Witthalm-Straße (erledigt durch Nachrüstung mit "taktilen Zusatzeinrichtungen für Blinde" = ZEB im November 2006. Akustische ZEB sind damit offensichtlich abgelehnt)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung der Vollversammlung des Stadtrates vom 20.06.2007: Initiative Europäische Metropolregion München - Sachstandsbericht
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 27.06.2007: A 99 West - Ergebnisse der Verkehrszählungen "Vorher-Nachher-Untersuchung", insbesondere zu den Verkehrszunahmen auf den Autobahnen A 8, A 96 und A 99 sowie auf der Waldwiesen- und Fürstenrieder Straße (Seite 5)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
