@@ -1,0 +1,51 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-08-14T16:00:00+02:00
+- Ende: 2007-08-14T17:45:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2123
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2123
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096652.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096652.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096652.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift 5/2007 - zur Kenntnis genommen
+- TOP 3: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 4: Aktuelle Sicherheitslage im Stb. 5 - zur Kenntnis genommen
+- TOP 5: Genehmigung 60er Entscheidung - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: BPl5282/018-Niederrheinstr.-§13,Änd.Aufst. - zur Kenntnis genommen
+- TOP 15: Pl5282/019-Niederrheinstr.-VÄ - zur Kenntnis genommen
+- TOP 16: Zuschuss an den Angermunder Tennisclub e.V. - zur Kenntnis genommen
+- TOP 17: Wohnbauflächen im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 18: Bebauung Kalkumer Schloßallee - zur Kenntnis genommen
+- TOP 19: Angermunder Baggersee - Surfen/Baden - zur Kenntnis genommen
+- TOP 20: Rad- und Fußweg Niederrheinstraße - zur Kenntnis genommen
+- TOP 21: Wallung Stadtkern Kaiserswerth - zur Kenntnis genommen
+- TOP 22: Kaiserpfalz - brüchiges Mauerwerk - zur Kenntnis genommen
+- TOP 23: Kreuzbergstraße - Gehweg - zur Kenntnis genommen
+- TOP 24: Parken im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 25: Heltorfer Mark - Nebenanlagen - zur Kenntnis genommen
+- TOP 26: Nordstern - Rotlichtüberwachungsanlage - zur Kenntnis genommen
+- TOP 27: Angermunder Baggersee - Surfen - zur Kenntnis genommen
+- TOP 28: Schlehenweg - Parkstandsmarkierungen - zur Kenntnis genommen
+- TOP 29: Benennung der Planstraße 3892 - zur Kenntnis genommen
+- TOP 30: Kreisverkehr Kaiserswerth - zur Kenntnis genommen
+- TOP 31: Stellungnahmen und Mitteilungen - zur Kenntnis genommen
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Neubau 1fach SpH und OGATA Im Grund 78 - zur Kenntnis genommen
+- TOP 34: Planfeststellungsverfahren für den Vollausbau HRB-Kalkum - zur Kenntnis genommen
