@@ -1,0 +1,6 @@
+# TOP 4: Berichte
+
+- Sitzung: öffentliche Sitzung des Finanzausschuss (2007-08-14)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=20636
