@@ -1,0 +1,7 @@
+# TOP 6: B 258 - Trierer Straße, Umbauhier: 2. BA - An der Unterbahn bis Nordstraße
+
+- Sitzung: öffentliche Sitzung der Bezirksvertretung Aachen-Brand (2007-08-15)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=20718
+- Ergebnis: vertagt
