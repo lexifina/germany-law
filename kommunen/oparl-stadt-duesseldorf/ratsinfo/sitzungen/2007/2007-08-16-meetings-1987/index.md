@@ -1,0 +1,64 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-08-16T16:00:00+02:00
+- Ende: 2007-08-16T19:20:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1987
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1987
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096662.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096662.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096662.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Polizeistatistik und Kriminalitätsentwicklung 2006 - zur Kenntnis genommen
+- TOP 4: Freizeitangebot Zweckverband Unterbacher See - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Abbruchantrag Breslauer Straße 30 - mehrheitlich beschlossen
+- TOP 7: BPl.6075/035-In den Kötten-Stell.Änd.ern.öA - einstimmig beschlossen
+- TOP 8: Umbau Knotenpunkt Deutzer Straße/Anschluss A46 - einstimmig beschlossen
+- TOP 9: Toilettenanlage Gertrudisplatz - einstimmig beschlossen
+- TOP 10: CO-Pipeline - Gefahrenabwehr - zur Kenntnis genommen
+- TOP 11: Wohngebiet Schweidnitzer Straße / Liegnitzer Straße - zur Kenntnis genommen
+- TOP 12: Verkehrszählung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 13: Schützenplatz in Vennhausen - zur Kenntnis genommen
+- TOP 14: Sportplatz am Tannenhofweg - zur Kenntnis genommen
+- TOP 15: Sanierung Ronsdorfer Straße - zur Kenntnis genommen
+- TOP 16: Aufwertung des Bereichs Erkrather Straße - zur Kenntnis genommen
+- TOP 17: Aktion "Düsseldorf blüht auf" - zur Kenntnis genommen
+- TOP 18: Prognoseunterricht - zur Kenntnis genommen
+- TOP 19: Grabeland Kamper Weg 231-251 - zur Kenntnis genommen
+- TOP 20: Bolzplatz St. Michael-Schule - zur Kenntnis genommen
+- TOP 21: Begrünung der Gleisanlage Kuthsweg - zur Kenntnis genommen
+- TOP 22: Bolzplatz Peter-Richarz-Straße - einstimmig beschlossen
+- TOP 23: In der Elb - Baumscheiben - einstimmig beschlossen
+- TOP 24: Asphaltierung Weg von Am Dammsteg bis Hoxbach - einstimmig beschlossen
+- TOP 25: Städtepartnerschaft mit Moskau - mehrheitlich abgelehnt
+- TOP 26: Ehrengräber
+- TOP 27: Lkw-Maut und Mehrbelastung - mehrheitlich beschlossen
+- TOP 28: Entente Florale im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 29: Verkehrssituation Rathelbeckstraße - einstimmig beschlossen
+- TOP 30: Parkbucht Gumbertstraße in Höhe Haus Nr. 154 - einstimmig beschlossen
+- TOP 31: Bahnunterführung Gumbertstraße - einstimmig beschlossen
+- TOP 32: Pflanzfläche Gumbertstraße 197 - einstimmig beschlossen
+- TOP 33: Konradstraße / Bernburger Straße - Baumscheiben - einstimmig beschlossen
+- TOP 34: Hundeauslaufplatz Ellerkirchstraße - zur Kenntnis genommen
+- TOP 35: Unterführung Schlosspark Eller - zur Kenntnis genommen
+- TOP 36: Überplanung der Vennhauser Allee - zur Kenntnis genommen
+- TOP 37: Öffnung der Schulhöfe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 38: Verkehrssituation Lierenfeld / Eller - zur Kenntnis genommen
+- TOP 39: mobile Geschwindigkeitsanzeige - zur Kenntnis genommen
+- TOP 40: Straßenreinigung in der Elb - zur Kenntnis genommen
+- TOP 41: Verkehrssituation Weinheimer Straße / Annweiler Straße - zur Kenntnis genommen
+- TOP 42: Verkehrsspiegel Kronacher Weg / Kamper Weg - zur Kenntnis genommen
+- TOP 43: Haltemöglichkeit Alt-Eller - zur Kenntnis genommen
+- TOP 44: Spielplatz Coburger Weg - zur Kenntnis genommen
+- TOP 45: Verlauf Rhein-Ruhr-Express im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Sicherheit, Sauberkeit und Sanierung der S-Bahnhöfe - zur Kenntnis genommen
+- TOP 47: Bauflächen-Broschüren 2007 - zur Kenntnis genommen
