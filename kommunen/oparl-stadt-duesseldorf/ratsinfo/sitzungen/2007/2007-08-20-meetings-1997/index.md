@@ -1,0 +1,51 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-08-20T15:00:00+02:00
+- Ende: 2007-08-20T16:00:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1997
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1997
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096675.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096675.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096675.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Anfragen - zur Kenntnis genommen
+- TOP 4: Anfr. SPD: Kosten Baubereich - zur Kenntnis genommen
+- TOP 5: Folgenkosten - einstimmig beschlossen
+- TOP 6: Kämmererliste 2006 - einstimmig beschlossen
+- TOP 7: Kämmererliste 2007 - einstimmig beschlossen
+- TOP 8: Sonnenuhr - passieren lassen
+- TOP 9: Bereitstellung von Haushaltsmitteln für die Herric - einstimmig beschlossen
+- TOP 10: Neuer Landesfonds "Kein Kind ohne Mahlzeit" - passieren lassen
+- TOP 11: Annahme der Schenkung einer weiteren Skulptur "Reina Mariana" (Bronze) von Manolo Valdes - einstimmig beschlossen
+- TOP 12: Annahme einer Schenkung von zwei Skulpturen der Künstler Kenneth Capp und Erich Heerich von Ulrike Schmela - einstimmig beschlossen
+- TOP 13: Bau, Einrichtung und Instandsetzung - einstimmig beschlossen
+- TOP 14: Förderung Kita Graf-Recke-Str. 211 - einstimmig beschlossen
+- TOP 15: Skaterhalle Niederheid, Erweiterung und Einhausun - einstimmig beschlossen
+- TOP 16: Eisstadion Brehmstraße 27 - einstimmig beschlossen
+- TOP 17: Neubau 1fach SpH und OGATA Im Grund 78 - einstimmig beschlossen
+- TOP 18: Anpassung B+F Stadtbahnstrecke - mehrheitlich beschlossen
+- TOP 19: Vierstreifiger Ausbau der Plockstraße - einstimmig beschlossen
+- TOP 20: Durchstich Bahnhof Benrath - einstimmig beschlossen
+- TOP 21: Attraktivierung Graf-Adolf-Straße 2. BA - BUF - einstimmig beschlossen
+- TOP 22: Wiederbestellung von Mitgliedern des Gutachterausschusses - einstimmig beschlossen
+- TOP 23: Beirat Sana Kliniken - passieren lassen
+- TOP 24: Gen. 60er: Dienstreise KA Münster - einstimmig beschlossen
+- TOP 25: 60er: Dienstreise KA Münster - einstimmig beschlossen
+- TOP 26: Dienstreise KA Münster - einstimmig beschlossen
+- TOP 27: Genehmigung einer Dienstreise nach Danzig - einstimmig beschlossen
+- TOP 28: Delegiertenversammlung RGRE - passieren lassen
+- TOP 29: Namensänderung der städt. Förderschule Lohbachweg 16 - einstimmig beschlossen
+- TOP 30: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 31: Pl5282/019-Niederrheinstr.-VÄ - einstimmig beschlossen
+- TOP 32: BPl4977/038-Beiders. Wiesenstr.-§13;Stell.;Satzung - einstimmig beschlossen
+- TOP 33: B-Plan Nr. 6076/034 - Östlich Heyestraße - einstimmig beschlossen
+- TOP 34: Kunstpreis der Landeshauptstadt Düsseldorf - einstimmig beschlossen
