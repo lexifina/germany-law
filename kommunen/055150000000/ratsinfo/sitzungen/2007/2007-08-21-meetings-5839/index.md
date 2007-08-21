@@ -1,0 +1,51 @@
+# 28. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-08-21T17:04:00+02:00
+- Ende: 2007-08-21T19:36:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5839
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5839
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00252347.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erford
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.2: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Umbenennung der Straße Jöttenweg - einstimmig geändert beschlossen
+- TOP 4.2: Ausbau des Hafenweges im Bereich zwischen Albersloher Weg und Dortmunder Straße - einstimmig beschlossen
+- TOP 4.3: Entsendung von beratenden Mitgliedern in die Schulkonferenzen der bezirklichen Schulen - einstimmig geändert beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: Ordnungsbehördliche Verordnung über das Offenhalten der - mehrheitlich abgelehnt
+- TOP 5.2: Modernisierung und Attraktivierung Hallenbad-Ost in Münster - einstimmig beschlossen
+- TOP 5.3: Erweiterung des Hansa-Berufskollegs, Hansaring 80, 48155 Münster - einstimmig beschlossen
+- TOP 5.4: Vorhabenbezogener Bebauungsplan Nr. 512: Kardinal-von-Galen-Ring / Robert-Koch-Straße / Pottkamp - einstimmig beschlossen
+- TOP 5.5: Kanalbau Ostmarkstraße - einstimmig beschlossen
+- TOP 5.6: Wartehallenprogramm 2007 - einstimmig beschlossen
+- TOP 5.7: Aufhebung der Schulbezirke für die städtischen Grundschulen - mehrheitlich geändert beschlossen
+- TOP 5.8: Albert-Schweitzer-Schule, städt. Förderschule, Förderschwerpunkt Lernen - einstimmig beschlossen
+- TOP 5.9: Sportstättenbau der SSB-Mitgliedsvereine - einstimmig beschlossen
+- TOP 5.10: Konzept für die Wiederherstellung der Kyrillschäden - mehrheitlich geändert beschlossen
+- TOP 6: Berichte
+- TOP 6.1: Beantragung und Bewilligung von Zuschussmaßnahmen - zur Kenntnis genommen
+- TOP 6.2: Bericht zur Variantenuntersuchung für vier neue DEK-Brücken - zur Kenntnis genommen
+- TOP 7: Anträge
+- TOP 7.1: Unterflurglascontainer in der Innenstadt - zur Kenntnis genommen
+- TOP 7.2: Relief des Künstlers Rudolf Breilmann am Alten Fischmarkt - eingebracht
+- TOP 7.3: Neu-/Ersatzpflanzungen von Bäumen an der Hammer Straße - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Sitzbank an der Bernsmeyerstiege aufstellen - zur Kenntnis genommen
+- TOP 8.2: Anlage eines Freischachfeldes auf dem Rasengrundstück südlich der Gaststätte Düesbergklause - zur Kenntnis genommen
+- TOP 8.3: Aufbringen von Piktogrammen zur Verkehrsberuhigung im Bereich Mauritz - zur Kenntnis genommen
+- TOP 8.4: Durchgangsverkehr in der "Habichtshöhe" - zur Kenntnis genommen
+- TOP 8.5: Vervollständigung des Lambertibrunnens mit den alten Figuren - zur Kenntnis genommen
+- TOP 8.6: Stadtrundfahrtenbahn - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
