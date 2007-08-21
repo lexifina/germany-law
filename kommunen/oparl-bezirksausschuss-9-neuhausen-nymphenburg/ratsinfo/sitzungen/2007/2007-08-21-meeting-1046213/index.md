@@ -1,0 +1,153 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2007-08-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1046213
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1046213
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Jugendtreff Neuhausen (Az.: 08/07 ? 3.4.1): Zuschuss in Höhe von 1 000 ? für den Ersatz des zerstörten Gartenhäuschens
+- TOP 2.3.2.: Antrag wohnwerk münchen e.V. (Az.: 08/07 ? 3.4.2): Zuschuss in Höhe von 1 000 ? für Werbung für das Nachbarschaftscafe
+- TOP 2.3.3.: Antrag Backstage (Az.: 08/07 ? 3.4.3): Zuschuss in Höhe von 5 000 ? für das Free & Easy Festival 2007
+- TOP 2.3.4.: Antrag Sozialpsychiatrische Dienste Neuhausen (Az.: 05/07 ? 3.4.3): Zuschuss in Höhe von 525 ? für das Sommerfest am 20.06.07
+- TOP 2.3.5.: Antrag Theaterensemble Hunger & Seide (Az.: 08/07 ? 3.6.1): Zuschuss in Höhe von 3 950 ? für ein Sommertheater in der Kleingartenanlage Lazarettstraße
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: (E) Straßenbenennung im 9. Stadtbezirk Neuhausen-Nymphenburg Bildackerstraße Eisnergutbogen Engasserbogen Krumpenhofweg Schloßschmidstraße - <div>nach Antrag</div>
+- TOP 2.4.2.: (E) TSV Neuhausen-Nymphenburg e.V.; Großinstandsetzung der Heizungsanlage im Sportgebäude an der Stievestraße 15 - <div>nach Antrag</div>
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürgeranliegen: Radfahren auf dem Gehweg mit kleinen Kindern
+- TOP 3.2.: Bürgeranliegen: Umbenennung der Blutenburgstraße zwischen Landshuter Allee und Nymphenburger Straße
+- TOP 3.3.: Bürgeranliegen: Kopfsteinpflasterung auf Fahrbahnen
+- TOP 3.4.: Bürgeranliegen: Radverkehr am Fußweg des Nymphenburger Kanals
+- TOP 3.5.: Verein zur Erhaltung Gerns e.V.: Zustand der Straßenoberfläche in der Tizianstraße
+- TOP 3.6.: =&gt; dazu: Bürgeranliegen: Zustand der Fahrbahn in der Tizianstraße
+- TOP 3.7.: =&gt; dazu: Bürgeranliegen: Mangelhafte Straßenbeläge in Neuhausen u.a.
+- TOP 3.8.: Baureferat: Fahrbahnsanierung Landshuter Allee, Kreuzungsbereich Nymphenburger Straße und Leonrodstraße
+- TOP 3.10.: Baureferat: Nymphenburger Str. / Maillingerstr., Anlage einer Radfurt
+- TOP 3.11.: Stadtwerke: Baumaßnahme Wasserprojekt Safferlingstraße
+- TOP 3.12.: Stadtwerke: Gleiserneuerung in der Belgradstraße sowie Neubau einer Gleisverbindung am Scheidplatz für die Tram 23 vom 23.07. - 10.09.07
+- TOP 3.13.: Stadtwerke: Baumaßnahmen im Juli 2007
+- TOP 3.14.: Bürgeranliegen: Einbahnregelung in der Hirschbergstraße zwischen Donnersberger- und Sedlmayrstraße; Maßnahmen zur Verkehrsberuhigung in der Hirschbergstraße (Schreiben BA 9 vom 17.07.07)
+- TOP 3.15.: Planungsreferat: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007
+- TOP 3.16.: Beschluss des Bauausschusses vom 03.07.07: Beseitigung schienen- gleicher Bahnübergänge - Gegenwärtiger Stand
+- TOP 3.17.: Polizeiinspektion 42: Bürgeranliegen: Verkehrssituation Lorschstr. / Karl-Schurz-Str. (Schreiben BA 9 vom 19.06.07)
+- TOP 3.18.: KVR: Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Horemansstr. 30
+- TOP 3.19.: KVR: Verkehrsrechtliche Anordnung: Alfonsstr. 8, Einrichtung eines Haltverbots
+- TOP 3.20.: Baureferat: Gehwegabsenkung Winthirstr. / Jagdstr. (Antrag BA 9 Nr. 2101 vom 15.05.07)
+- TOP 3.21.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 03.07.07: Leistungsprogramm der MVG für die Fahrplanperiode 2008
+- TOP 3.22.: KVR: Haltverbot vor dem Penny-Markt in der Blutenburgstr. 52
+- TOP 3.23.: KVR: Münchner Blade Night 2007, 3. Nachtrag
+- TOP 3.24.: KVR: Bürgeranliegen: Schaufensterbeleuchtung - Sicherheitsrisiko für den Verkehr
+- TOP 3.25.: KVR: Verkehrsrechtliche Anordnung: Einrichtung einer Fahrradstraße in der Canalettostraße zwischen Nederlinger- und Ponzonestraße
+- TOP 3.26.: KVR: Verkehrsrechtliche Anordnung: Einrichtung einer Fahrradstraße in der Kuglmüllerstraße zwischen Nederlinger- und Menzinger Straße
+- TOP 3.27.: KVR: Verkehrsrechtliche Anordnung: Einrichtung einer Fahrradstraße in der Hohenlohestraße zwischen Waisenhaus- und Paschstraße
+- TOP 3.29.: Beschluss des Bauausschusses vom 12.06.07: Mehrjahresinvestitionsprogramm für die Jahre 2007-2011 mit verbindlicher Planung für 2012 für Gemeindestraßen, Bundes- und Staatsstraßen, Straßenbeleuchtung und -reinigung, Parkscheinautomaten, Parkplätze, Wasserläufe
+- TOP 3.30.: KVR: Haltverbot in der Stichstraße südlich Schachenmeierstr. 35-37
+- TOP 3.31.: MVG: Bauarbeiten im Bereich der Unterführung am Bahnhof Laim vom 16.07. - 28.09.07
+- TOP 3.32.: =&gt; dazu: KVR: Verkehrsrechtliche Anordnung
+- TOP 3.33.: =&gt; dazu: KVR: Schaffen von Parkraum in der Wotanstraße während der Baumaßnahmen Laimer Unterführung
+- TOP 3.34.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.06.07: 2. S-Bahn-Stammstrecke München; Planfeststellung, Sach- und Verfahrensstand
+- TOP 3.35.: Bund Naturschutz: Transrapid; 2. S-Bahn-Stammstrecke
+- TOP 3.36.: Bürgeranliegen: Messergebnisse des KfZ-Aufkommens in der Landshuter Allee (Empfehlung Nr. 639 der Bürgerversammlung vom 23.11.06, Schreiben BA 9 vom 20.03.07)
+- TOP 3.37.: Baureferat: Donnersbergerbrücke Ostseite, Instandsetzung der Übergangskonstruktionen im Gehbahnbereich, Verlegung von Spartenleitungen
+- TOP 3.38.: KVR: Verkehrsrechtliche Anordnung: Aufhebung der Schrägparkplätze in der Wilderich-Lang-Straße und Hirschbergstraße
+- TOP 3.39.: Beschluss des Bezirksausschusses 9: Straßenbenennung im 9. Stadtbezirk: Bildackerstraße, Eisnergutbogen, Engasserbogen, Krumpenhofweg, Schloßschmidstraße
+- TOP 3.40.: Straßenbau-Erschließung Birketweg / Vorstellung durch die Firma aurelis
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Planungsreferat: Bautennachweise vom 02.07. - 08.07., 09.07. - 15.07., 16.07. - 22.07. und 23.07. - 29.07.2007
+- TOP 3.2.: Bauvorhaben Hofenfelsstr. 48: Umbau der UG-Wohnung, Ausbau der südlichen Dachfläche, Vorbescheid; hier: Baumfällungen
+- TOP 3.3.: Bauvorhaben De-la-Paz-Str. 14: Neubau einer Wohnanlage (122 WE) mit einer Praxis, einem Gemeinschaftsbereich sowie einer Tiefgarage (124 Stellplätze)
+- TOP 3.4.: Bauvorhaben Volkartstr. 72: Nutzungsänderung zweier Läden in zwei Büros
+- TOP 3.5.: Planungsreferat: Baumfällungen auf dem Grundstück Guntherstr. 7 (Schreiben BA 9 vom 19.06.07)
+- TOP 3.6.: Bauvorhaben Lachnerstr. 1: Nutzungsänderung eines Mehrfamilienhauses mit DG-Ausbau
+- TOP 3.7.: Bürgeranliegen: Bauvorhaben Döllingerstr. 41
+- TOP 3.8.: Beschluss des Bezirksausschusses 9: TSV Neuhausen-Nymphenburg e.V.; Großinstandsetzung der Heizungsanlage im Sportgebäude an der Stievestr. 15
+- TOP 3.9.: Hauptbahnhof-Laim-Pasing
+- TOP 3.10.: Baureferat: Errichtung der Grünanlage Schlossviertel Nymphenburg
+- TOP 3.11.: Planungsreferat: Plangenehmigung nach § 18 Allg. Eisenbahngesetz; ESTW München-Pasing, Laim für die Bereiche Bft. Pasing, Westkreuz, Laim, Friedenheimer Brücke usw.
+- TOP 3.12.: Bauvorhaben Hanebergstraße, Baufeld WA 1 und 2, Vorstellung der Entwurfsplanung durch die Gewofag
+- TOP 3.13.: Geplante Baumaßnahme der Gaststätte Hirschgarten, Vorstellung durch den Architekten
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Prinzenstr. 49: Fällung von 1 Thuje
+- TOP 3.2.: Notburgastr. 3: Fällung von 1 Linde
+- TOP 3.3.: Nördliches Schlossrondell 10: Fällung von 1 Buche und 1 Ahorn, Gefahrenbaumfällung einer Birke
+- TOP 3.4.: Hanfstaenglstr. 34: Fällung von 1 Walnussbaum, Rückschnitt von 1 Buche
+- TOP 3.5.: Hofenfelsstr. 49: Fällung von 2 Fichten
+- TOP 3.6.: Hofenfelsstr. 65: Fällung von 1 Thuje
+- TOP 3.7.: Baureferat: Fällung von Gefahrenbäumen; hier: Fällung von 1 Kirschbaum im Dantebad und 1 Ahorn im Waisenhaus
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.9.: KVR: Bürgeranliegen: Abstellen des nichtliturgischen Viertelstundenschlags der Uhrglocke der Christkönig-Kirche in der Eddastr. 7
+- TOP 3.10.: Referat für Gesundheit und Umwelt: Baubeginnsanzeige einer Mobilfunksendeanlage
+- TOP 3.11.: Baureferat: Erneut Algen im Nymphenburger Schlosskanal (Anfrage von Frau Stadträtin Schosser)
+- TOP 3.12.: Planungsreferat: Baumfällungen im Einzelantragsverfahren; Umwandlung der Unterrichtungs- in Anhörungsverfahren
+- TOP 3.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.14.: Bayerische Schlösser- und Seenverwaltung: Neubau einer Toilettenanlage im Schlosspark Nymphenburg (Antrag BA 9 Nr. 6512 vom 16.10.01)
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Antrag Jugendtreff Neuhausen: Zuschuss in Höhe von 1 000 ? für den Ersatz des zerstörten Gartenhäuschens
+- TOP 3.2.: Antrag wohnwerk münchen e.V.: Zuschuss in Höhe von 1 000 ? für Werbung für das Nachbarschaftscafe
+- TOP 3.3.: Antrag Backstage: Zuschuss in Höhe von 5 000 ? für das Free & Easy Festival 2007
+- TOP 3.4.: Antrag CSU: Eltern-Putzdienst an der Maria-Ward-Grundschule
+- TOP 3.5.: Antrag SPD: Sofortige Streichung der Studiengebühren an Bayerischen Universitäten und Fachhochschulen
+- TOP 3.6.: Planungsreferat: Ausstellung "Münchner Schulwettbewerb zur Stadtentwicklung mitdenken-mitreden-mitplanen" vom 20.07. - 10.08.07
+- TOP 3.7.: Sozialreferat: Fachtag "Arm - aber nicht außen vor" vom 26.09. - 06.12.07
+- TOP 3.8.: Sozialreferat: Daten Kinderkrippen Juli 2007
+- TOP 3.9.: Referat für Gesundheit und Umwelt: Barrierefreies Bauen und Sanieren
+- TOP 3.10.: Protokoll der AG Kinderbeauftragte vom 10.04.07
+- TOP 3.11.: Protokoll der Sitzung der AG Spiellandschaft Stadt vom 14.06.07
+- TOP 3.12.: Schulreferat: Bürgeranliegen: Betreuung während der Eröffnungsfeier in der Grundschule an der Gertrud-Bäumer-Straße am 22.05.07 (Schreiben BA 9 vom 19.06.07)
+- TOP 3.13.: Beschlussvorlage für den Schulausschuss am 19.09.07: Grund- und Hauptschule Alfonsstraße; Umbau Wandelhalle mit Kopfbau für Schulsozialarbeit
+- TOP 3.14.: Eurytos Wohn- und Gewerbebau GmbH: Baugebiet Nymphenburg Süd, Hausgemeinschaft für Senioren (Schreiben BA 9 vom 17.07.07)
+- TOP 3.15.: Antrag Sozialpsychiatrische Dienste Neuhausen: Zuschuss in Höhe von 525 ? für das Sommerfest am 20.06.07
+- TOP 3.16.: Beschluss des Schulausschusses vom 27.06.07: Anhörungsverfahren zur Änderung der Volksschulorganisation: Sprengeländerung der Grundschulen Dom-Pedro-Platz 2 und Alfonsstr. 8
+- TOP 3.17.: Schulreferat: Grund- und Hauptschulen als Ganztagsschulen auf Antrag genehmigen (Antrag BA 9 Nr. 1923 vom 20.03.07)
+- TOP 3.18.: Beschluss des Bauausschusses vom 03.07.07: Stadtweites Rauchverbot an und auf Spielplätzen
+- TOP 3.19.: Verwendungsnachweis für einen Zuschuss aus dem Budget; hier: Therapeutische Wohngemeinschaft Barellistraße
+- TOP 3.20.: Beschluss des Schulausschusses vom 27.06.07: Anhörungsverfahren zur Änderung der Volksschulorganisation; Sprengeländerung der Grundschulen Maria-Ward-Str. 1 und Amphionpark, Welzenbachstr. 12
+- TOP 3.21.: Bürgeranliegen: "The Tent", Bericht im Werbespiegel
+- TOP 3.22.: Schulreferat: Kita-Planungen am Birketweg (Schreiben BA 9 vom 19.06.07)
+- TOP 3.23.: Verwendungsnachweis für einen Zuschuss aus dem Budget; hier: Backstage
+- TOP 3.24.: Seniorentreff Neuhausen: Bewerbung um die Betriebsführung eines zweiten ASZ im 9. Stadtbezirk
+- TOP 3.25.: Beschluss des Schulausschusses vom 27.06.07: Realisierungswettbewerb; Neubau einer 3-zügigen Grundschule mit 6-gruppigem Tagesheim, Einfachsporthalle und Freisportanlage am Arnulfpark, Auslobungstext
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.1.: Zusammenarbeit UA Integration mit REGSAM
+- TOP 3.2.: Münchner Gärten der Kulturen: Budgetantrag für ein Sommerfest am 22.07.07
+- TOP 3.3.: Fachtagung Interkulturelle Verständigung "Alle anders - alle gleich ? Was heißt hier Identität ? Was heißt hier Integration ?" am 08.10. und 15.10.07
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.1.: Antrag Theaterensemble Hunger & Seide: Zuschuss in Höhe von 3 950 ? für ein Sommertheater in der Kleingartenanlage Lazarettstraße
+- TOP 3.2.: Bürgeranliegen: Anfrage wegen finanzieller Unterstützung einer Ausstellung mit spanischen und deutschen Künstlern
+- TOP 3.3.: Domagkateliers: Objektanfrage
+- TOP 3.4.: Kulturreferat: Veranstaltungen im Juli 2007
+- TOP 3.5.: MVG: Fotoausstellung im ehem. Kassenraum Zwischengeschoss U-Bahnhof Rotkreuzplatz (Schreiben BA 9 vom 15.05.07)
+- TOP 3.6.: KVR: Voranfrage Ritterspiele 2008 (Wiedervorlage aus der Sitzung vom 17.07.07)
+- TOP 3.7.: Kulturreferat: Anmietungspauschale für den BA 9 (Antrag BA 9 Nr. 2007 vom 17.04.07)
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.9.: Projekt Bürgerinnen und Bürger gestalten ihre Stadt ? Aktuelles
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Werbegemeinschaft Neuhausen: Antrag auf Teilnahme an der 1. Münchner Einkaufsnacht: Verlängerte Ladenöffnungszeiten auch in den Stadtteilen Neuhausen und Nymphenburg bis 24 Uhr
+- TOP 4.2.: KVR: Neueinteilung der Stimmbezirke bzw. Wahllokale
+- TOP 4.3.: KVR: Gaststätte "Imbiss Dilnar", Blutenburgstr. 50; Freischankflächenantrag
+- TOP 4.4.: KVR: "Backspielhaus", Südl. Auffahrtsallee 77; Freischankflächenantrag
+- TOP 4.5.: KVR: Gaststätte "Antiochia", Maillingerstr. 4; Pächterwechsel
+- TOP 4.6.: KVR: Gaststätte "Augustiner am Dante", Dantestr. 16; Pächterwechsel
+- TOP 4.7.: KVR: Gaststätte "Indian Palace", Lachnerstr. 1; Pächterwechsel
+- TOP 4.8.: KVR: Gaststätte "La Tasca nueva", Mettinghstr. 2; Pächterwechsel
+- TOP 4.9.: KVR: Gaststätte "Rick´s Cafe", Wendl-Dietrich-Str. 5; Pächterwechsel
+- TOP 4.10.: KVR: Hungerstreik für Menschenrechte in Tibet vom 05. - 08.08.07 in der Romanstraße, gegenüber dem chinesischen Konsulat
+- TOP 4.11.: Kommunalreferat: Zeltpuppenbühne vom 11. - 25.09.07 am Leonrodplatz
+- TOP 4.12.: KVR: Straßenfest der DKP am 22.09.07 am Rotkreuzplatz
+- TOP 4.13.: Direktorium: Änderung von Art. 60 der Gemeindeordnung, Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse
+- TOP 4.14.: Bürgeranliegen: Gehwegbehinderung, Ruhestörungen durch die Kneipe "Heideck", Trivastr. 28
+- TOP 4.15.: Beschluss des Kommunalausschusses vom 14.06.07: Mehrjahresinvestitionsprogramm 2007-2011; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf
+- TOP 5.: Verschiedenes
+- TOP 3.28.: =&gt; dazu: Bürgeranliegen
