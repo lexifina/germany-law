@@ -1,0 +1,8 @@
+# TOP 8: FNP-Ä 127-Gartenst. Reitzenstein-Stell;Plan
+
+- Sitzung: Bezirksvertretung 6 (2007-08-22)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/145752
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/39695
