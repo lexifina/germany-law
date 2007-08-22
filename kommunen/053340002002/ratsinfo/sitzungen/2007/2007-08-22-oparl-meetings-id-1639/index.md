@@ -1,0 +1,61 @@
+# öffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2007-08-22T17:00:00+02:00
+- Ende: 2007-08-22T20:55:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1639
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1639
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt am 6. Juni 2007; die Niederschrift wurde inzwischen übersandt.
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Über- und außerplanmäßige Ausgaben, Verpflichtungsermächtigungen
+- TOP 4.1: Über- und außerplanmäßige Ausgaben/Verpflichtungsermächtigungen –Haushaltsjahr 2007Hst. 9.46400.94290.1 Umbau Jackstr.5 und 7 - ungeändert beschlossen
+- TOP 4.2: Über- und außerplanmäßige Ausgaben/Verpflichtungsermächtigungen -Haushaltsjahr 2007-hier: Erstattung von Erbbauzinsen und Pachteinnahmen - ungeändert beschlossen
+- TOP 5: Vorlage der Jahresrechnung der Stadt Aachen für das Haushaltsjahr 2006 - ungeändert beschlossen
+- TOP 6: Jahresabschluss 2004 - Eurogress - - ungeändert beschlossen
+- TOP 7: Jahresabschluss 2005 - Eurogress - - ungeändert beschlossen
+- TOP 8: 7. Nachtrag zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung) der Stadt Aachen - ungeändert beschlossen
+- TOP 9: 9. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung der Stadt Aachen) - ungeändert beschlossen
+- TOP 10: 11. Nachtrag zur Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Stadt Aachen (Sondernutzungssatzung)hier: Änderung des Gebührentarifs - ungeändert beschlossen
+- TOP 11: Betriebssatzung für den Aachener Stadtbetrieb vom 27.11.2002hier: III. Nachtrag - ungeändert beschlossen
+- TOP 12: Überprüfung des Aachener Straßenverzeichnisses hier: Graf-Schwerin-Straße, Diemstraße und Debyestraße - ungeändert beschlossen
+- TOP 13: Einrichtung eines Co-Dezernates im Dezernat V - ungeändert beschlossen
+- TOP 14: Änderung Nr. 19 des Landschaftsplanes 1988 der Stadt Aachen: vereinfachtes Änderungsverfahren gemäß § 29 Abs. 2 LG NW für den Planungsbereich des EUREGIONALE 2008-Projektes 'Pferdelandpark' A. Bericht über das Ergebnis der Beteiligung der Grundstückseigentümer B. Bericht über das Ergebnis der Beteiligung der Träger öffentlicher Belange C. Satzungsbeschluss - ungeändert beschlossen
+- TOP 15: Bebauungsplan Nr. 875 - Kaiser-Friedrich-Allee - Teil A für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Kaiser-Friedrich-Allee, Lohmühlenstraße, Brüsseler Ring, Eisenbahnlinie Aachen-Belgien und Im Brockenfeld hier: Satzungsbeschluss gem. § 10 BauGB - ungeändert beschlossen
+- TOP 16: Satzung über die förmliche Festsetzung des Sanierungsgebietes Lousberg und Pferdelandparkhier: Ergänzungsbeschluss - ungeändert beschlossen
+- TOP 17: Satzung über die förmliche Festlegung des Sanierungsgebietes ‚Köpfchen‘hier: Ergänzungsbeschluss - ungeändert beschlossen
+- TOP 18: Satzung über die Festlegung besonderer Merkmale der endgültigen Herstellung für die Erschließungsanlage Kelmesbergweg von Waldstraße bis Großheidstraße - ungeändert beschlossen
+- TOP 19: Ordnungsbehördliche Verordnung zur Änderung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen vom 14. Februar 2007 - ungeändert beschlossen
+- TOP 20: Würdigung des ehrenamtlichen Engagements durch Ausweitung der Voraussetzungen zur Ausstellung von Ehrenamtspässen - ungeändert beschlossen
+- TOP 21: Volkshochschule AachenVerlegung von - Stolpersteinen -Projekt des Kölner Künstlers Gunter Demnig - ungeändert beschlossen
+- TOP 22: Annahme einer Schenkung des Künstlers Peter Lacroix - ungeändert beschlossen
+- TOP 23: Euregionale 2008: Grenzroute zwischen Hergenrath und Bildchen: Hier: Neubau einer Fußgängerüberführung in der Nähe von Gut BreitensteinAntrag der Fraktionen von CDU, SPD, Grüne, FDP im Rat der Stadt vom 10.05.2007 zur Tagesordnung für den Hauptausschuss und den Rat der Stadt am 6.6.2007 - ungeändert beschlossen
+- TOP 24: Resolution zur Kürzung der Zuschüsse für den Ausbau der Offenen Ganztagsschulenhier: Antrag der Fraktionen von SPD und Grünen vom 01.08.2007 zur Tagesordnung
+- TOP 25: Resolution zum neuen Kinderbildungsgesetz NRWhier: Antrag der Fraktionen von SPD und Grünen vom 01.08.2007 zur Tagesordnung
+- TOP 26: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 27: Anfragen
+- TOP 28: Mitteilungen der Verwaltung
+- TOP 29: Durchführung einer Planungszelle für den Abfallgebührenbereichhier: Ratsantrag der SPD Fraktion und Grüne Fraktion vom 08.05.2007 Nr.208/15Behandlung im öffentlichen Teil - ungeändert beschlossen
+- TOP 30: Satzungsänderung zur Erweiterung des Gesellschaftszwecks bei der AGIT mbH - geändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.4: nicht öffentlicher Tagesordnungspunkt
