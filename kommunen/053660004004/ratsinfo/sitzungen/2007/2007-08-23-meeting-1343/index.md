@@ -1,0 +1,54 @@
+# Strukturförderungsausschuss (21. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2007-08-23T15:15:00+02:00
+- Ende: 2007-08-23T20:15:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZelb5w3qwqwAu1ghKRYBiJ0
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/1343
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Strukturförderungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZee5BlkLLrlIa50K7XWP92P1Vw6XhK2Y60GcaKoczDgg/Bekanntmachung_Strukturfoerderungsausschuss_23.08.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Strukturförderungsausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Strukturförderungsausschusses vom 05.06.2007 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Konzept eines neuen zentralen Omnibusbahnhofs am Sittardweg hier: Vorstellung von Varianten
+- TOP 4.: 18. Änderung des Flächennutzungsplanes Bebauungsplan Nr. 75 "Solaranlage Arloff" hier: Sachstandsbericht
+- TOP 5.: 17. Änderung des Flächennutzungsplanes Bebauungsplan Nr. 73 "Nöthen-Brunnenstraße" hier: Vorverfahren
+- TOP 6.: SPD-Antrag zur Öffnung des Zugangs " Große Bleiche " - 14 Ja-Stimme(n), 0 Gegenstimme(n), 2 Stimmenthaltung(en)
+- TOP 7.: Verkehrsregelung auf der Langenhecke Hier: Anregung der UWV - Fraktion vom 04.05.2007 - 13 Ja-Stimme(n), 2 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 8.: Schranke vor dem Orchheimer Tor Hier: Alternativlösung
+- TOP 9.: Errichtung von Stellplätzen entlang der Kölner Straße - 15 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 10.: Hinweisbeschilderung zum WC Südliche Vorstadt; hier: Antrag der SPD-Fraktion vom 13.07.2007 - 16 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 11.: Gestaltung der Kreisel im Stadtgebiet - 15 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 12.: Strukturgutachten hier: Vorstellung des Entwurfs
+- TOP 13.: 4. Änderung des Bebauungsplanes Nr. 3 b "Goldenes Tal - Konvikt"; hier: Vorverfahren - 13 Ja-Stimme(n), 2 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 14.: Bebauungsplan Nr. 5 a "Gewerbegebiet Bad Münstereifel", hier: Änderungsantrag
+- TOP 15.: Bebauung am Herrenbusch hier: Sachstandsbericht - 15 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 16.: Änderung der Bebauungspläne 5a, 5b, 5d, 11, 12a, 29a, 29c und 29e der Stadt Bad Münstereifel hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss
+- TOP 17.: Einfacher Bebauungsplan Nr. 71 "Stadtkern und Kölner Straße West" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss
+- TOP 18.: 2. Änderung des Bebauungsplanes Nr. 53 "Gewerbegebiet Wald" hier: Vorstellung Vorentwurf, Durchführung der Vorverfahren - 16 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 19.: Vorhabenbezogener Bebauungsplan Nr. 76 "Arloff, Bahnhofstr. 8" hier.Vorstellung des Vorentwurfs, Durchführung Vorverfahren - 16 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 20.: Integrierte Gesamtverkehrsplanung des Kreises Euskirchen hier: u.a. Abstufung von Kreisstraßen
+- TOP 21.: Flächendeckende Breitbandanschlüsse im Stadtgebiet hier: Antrag der FDP-Fraktion vom 02.07.2007 - 16 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.1: Befreiungsantrag bezgl. des Grundstückes Gemarkung Iversheim, Flur 8, Nr. 486 Iversheim, Bendenweg 46- 50
+- TOP 22.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.10: Genehmigungsantrag nach Bundesimmissionsschutzgesetz für das Grundstück Gemarkung Arloff, Flur 6 Nr. 189, 205 und 206 Arloff, Hammerwerk
+- TOP 23.: Anfragen und Mitteilungen
+- TOP 23.1: Anfragen und Mitteilungen Antennenanlage in Hilterscheid hier: Anfrage der SPD-Fraktion vom 06.08.2007
+- TOP 23.2: Standortsicherung Greven-Fettchemie
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Bebauung am Herrenbusch hier: Sachstandsbericht
+- TOP 2.: Anfragen und Mitteilungen
