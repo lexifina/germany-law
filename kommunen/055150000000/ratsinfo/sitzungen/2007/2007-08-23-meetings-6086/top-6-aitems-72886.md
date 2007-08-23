@@ -1,0 +1,6 @@
+# TOP 6: Antrag des Hospizes lebensHaus
+
+- Sitzung: 14. Sitzung (2007-08-23)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/72886
