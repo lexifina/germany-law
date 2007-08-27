@@ -1,0 +1,6 @@
+# TOP 3: Sportentwicklungsplanung in Solingen
+
+- Sitzung: Sportausschuss (2007-08-27)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/22982
