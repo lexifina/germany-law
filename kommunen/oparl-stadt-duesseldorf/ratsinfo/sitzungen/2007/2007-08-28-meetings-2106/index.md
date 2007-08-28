@@ -1,0 +1,66 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-08-28T17:00:00+02:00
+- Ende: 2007-08-28T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2106
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2106
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096669.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096669.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096669.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: B-Plan- Entwurf Nr. 6076/034 -Östlich Heyestraße-
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Namensänderung der städt. Förderschule Lohbachweg 16
+- TOP 6: Zuschuss Düsseldorfer Sportclub 1899 e.V.
+- TOP 7: Zuschuss an den Telekom-Sportverein Düsseldorf e.V.
+- TOP 8: Sportanlage Staufenplatz 10, Baumfällungen
+- TOP 9: Änderungssatzung
+- TOP 10: Verwendung von Haushaltsmitteln
+- TOP 11: Bolzplatz Am Wildpark
+- TOP 12: Verkehrsführung Marthastaße / Mühlenbergweg
+- TOP 13: Geschwindigkeitsbegrenzung auf 100 km/h auf der BAB 3
+- TOP 14: Ablehnung der CO-Pipeline
+- TOP 15: Städtpartnerschaft mit Moskau
+- TOP 16: Bürgerversammlung Gartengemeinschaft Quadenhof
+- TOP 17: Regenrückhaltebecken "In der Flieth"
+- TOP 18: Schützenplatz Gerresheim
+- TOP 19: Kohlenmonoxid-Pipeline Hubbelrath
+- TOP 20: Kohlenmonoxid-Leitung Hubbelrath (2)
+- TOP 21: Zunehmender Fluglärm über dem Stadtbezirk 7
+- TOP 22: Glashütte-Großmarkt
+- TOP 23: Geschwindigkeitskontrolle in der Kurve B 7
+- TOP 24: Stromverteiler auf dem Apostelplatz
+- TOP 25: Sachstandsbericht Familienzentren im Stadtbezirk 7
+- TOP 26: Seniorengerechtes Leben im Stadtbezirk 7
+- TOP 27: Verfolgte Mandatsträger im NS-Regime
+- TOP 28: Gefahrenabwehr CO-Pipeline
+- TOP 29: Friedhof Hubbelrath, Dorfstraße
+- TOP 30: Weg der Befreiung
+- TOP 31: Ziegeleigelände an der Bergischen Landstraße Ziegeleigelände an der Bergischen Landstraße
+- TOP 32: Aufnahme der Pfeiffer-Brücke in den Lichtmasterpla
+- TOP 33: Pfeiffer-Brücke über die Ludenberger Straße
+- TOP 34: Schallschutzwand Bergische Landstraße
+- TOP 35: PKW-Parkplatzkapazitäten Friedhof
+- TOP 36: Straßenbahnhaltestelle Dörpfeldstraße
+- TOP 37: Entente Florale im Stadtbezirk 7
+- TOP 38: Wirtschaftsförderung und Klimaschutz
+- TOP 39: Rahmenplan Grafenberg
+- TOP 40: Wege auf dem Gerresheimer Waldfriedhof
+- TOP 41: Bolzplatz "Am Quellenbusch"
+- TOP 42: Aufstellung des Haushaltsplanentwurfs 2008
+- TOP 43: Ausgleichsmaßnahme Stratenhofsiedlung
+- TOP 44: Spielplatz Quadenhofstraße/Hagener Straße
+- TOP 45: Luftbelastung Haltestelle "Rathaus"
+- TOP 46: Informationen aus dem Anregungs- und Beschwerdeausschuss
+- TOP 47: Freiraumkonzept Pillebach
+- TOP 48: Bauflächen 2007
+- TOP 49: Am Wallgraben 38
