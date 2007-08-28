@@ -1,0 +1,78 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2007-08-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1079127
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1079127
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 3.1.: ?Soziale Stadt? 2007 a) Stand der Umsetzung des Programms ?Soziale Stadt? in den Sanierungsgebieten am Mittleren Ring Südost, ?Tegernseer Landstraße / Chiemgaustraße? und ?Innsbrucker Ring / Baumkirchner Straße? b) Weitere Beauftragung des Quartiersmanagements c) Städtebauförderung
+- TOP 3.2.: Seebrucker Straße ? Städtebauliche Verdichtungsmaßnahmen eines Wohnquartiers
+- TOP 3.3.: Echardinger Straße ? Neubau einer geförderten Wohnanlage mit Tiefgarage
+- TOP 4.2.: Innsbrucker Ring ? Aufstellung einer mobilen Heizzentrale als Provisorium
+- TOP 3.5.: Soziale Stadt Projekte im Sanierungsgebiet ?Innsbrucker Ring / Baumkirchner Straße? Aufwertung und Umgestaltung Piusplatz und angrenzender Grünanlagen
+- TOP 3.6.: Bebauungsplan mit Grünordnung Nr. 2015 ? Rosenheimer Straße nördlich ? Rosenheimer Straße 143, Flurstück 18353, Aufstellungsbeschluss
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 3.1.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007 - Sachstand der BayBO-Novelle - Entwurf zum Neuerlass einer Stellplatzsatzung für Kraftfahrzeuge - Beauftragung der Verwaltung zum weiteren Vorgehen
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Ludwig-Thoma-Realschule ? Neubau mit Versorgungsküche
+- TOP 3.3.4.: Bereich Soziales
+- TOP 4.4.5.: Bereich Budget
+- TOP 3.1.: Regsam Fachbasis BaL-West ? Antrag auf Zuschuss aus dem BA-Budget
+- TOP 3.2.: Förderkreis der Grundschule Grafinger Straße ? Antrag auf Zuschuss aus dem BA-Budget
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Vandalismus in der Parkanlage an der Jella-Lepmann-Straße
+- TOP 3.2.: Schmutz und Lärmbelästigung an der Hansjakobstraße (ehem. Baumschule)
+- TOP 3.3.: Straßenfest mit Markt in der Baumkirchner Straße
+- TOP 4.4.7.: Baumschutz
+- TOP 3.1.: Sonnwendjochstraße ? Neubau eines Einfamilienhauses
+- TOP 3.2.: Lofererstraße ? Neubau eines Sechsfamilienhauses
+- TOP 3.3.: Ellingerweg ? Antrag auf Baumfällung
+- TOP 3.4.: Berg-am-Laim-Str. ? Antrag auf Baumfällung
+- TOP 3.5.: Ringbergstraße ? Antrag auf Baumfällung
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Friedenstraße 10 - Gastraumerweiterungen
+- TOP 4.2.: Baumaßnahmen im Stadtbezirk
+- TOP 4.1.: Straßenbeleuchtung Schlüsselbergstraße
+- TOP 4.2.: Bürgerschreiben München-Triathlon
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Mitteilung der Termine ?Das Schulreferat trifft die Bezirksausschüsse?
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Fachbasis BaL West ? Protokoll und Termin
+- TOP 4.1.: Kulti-Kids e.V. / Kultur notiert e.V. ? Bescheide und Schriftverkehr
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Protokoll des Runden Tisches zum Thema Kustermannpark und Umfeld
+- TOP 4.2.: Rücktritt vom Vorsitz eines Unterausschusses, Beschlussfassung des Bezirksausschusses und Neuwahl ? Vormerkung der Rechtsabteilung
+- TOP 4.3.: Baumaßnahmen durch die Stadtwerke
+- TOP 4.4.: Hachinger Bach - Spartenanfrage für den gepl. Bachausbau
+- TOP 4.5.: Hachinger-Bach-Str. - Abbruchsanzeige
+- TOP 4.1.: Halserspitzstraße ? Beseitung von Gefahrenbäumen
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
