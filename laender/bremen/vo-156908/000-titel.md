@@ -1,0 +1,1 @@
+# Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Gesetz über die Durchführung der Verbraucherschutzgesetze bei innergemeinschaftlichen Verstößen vom 21. August 2007
