@@ -1,0 +1,52 @@
+# 24. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-08-29T18:54:00+02:00
+- Ende: 2007-08-29T20:24:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5749
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5749
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00253063.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Ausländerbeirates
+- TOP 9: Entlastung für die Jahresrechnung 2006 - einstimmig beschlossen
+- TOP 10: Ordnungsbehördliche Verordnung über das Offenhalten der - mehrheitlich beschlossen
+- TOP 11: Aktuelle Haushaltsentwicklung 2007 - zur Kenntnis genommen
+- TOP 12: Über- u. außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 1. Halbjahr 2007 - zur Kenntnis genommen
+- TOP 13: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2006 - einstimmig beschlossen
+- TOP 14: Feststellung des Jahresabschlusses von MÜNSTER MARKETING für das Wirtschaftsjahr 2006 - einstimmig beschlossen
+- TOP 15: Stellungnahmen der örtlichen Selbstverwaltungsorganisationen zur Gründung der Stadtwerke Neue Energi - einstimmig beschlossen
+- TOP 16: Entwurf der Stellungnahme Stadt Münster zum Deckblatt I der Planfeststellung für den Ausbau der B51 - mehrheitlich beschlossen
+- TOP 17: Aufhebung der Schulbezirke für die städtischen Grundschulen - mehrheitlich beschlossen
+- TOP 18: Albert-Schweitzer-Schule, städt. Förderschule, Förderschwerpunkt Lernen - einstimmig beschlossen
+- TOP 19: Fortschreibung des Handlungsprogramms zur Weiterentwicklung der kommunalen psychosozialen Versorgung - einstimmig beschlossen
+- TOP 20: Konzept für die Wiederherstellung der Kyrillschäden - einstimmig geändert beschlossen
+- TOP 21: Bauleitplanung
+- TOP 21.1: Stadtbezirk Münster-Mitte
+- TOP 21.1.1: Vorhabenbezogener Bebauungsplan Nr. 512: Kardinal-von-Galen-Ring / Robert-Koch-Straße / Pottkamp - mehrheitlich beschlossen
+- TOP 21.2: Stadtbezirk Münster-West
+- TOP 21.2.1: Bebauungsplan Nr. 507: Nienberge - Waltruper Weg / Beerwiede - einstimmig beschlossen
+- TOP 21.3: Stadtbezirk Münster-Nord
+- TOP 21.3.1: 11. Änderung des Bebauungsplanes STM 8: Sprakel - einstimmig beschlossen
+- TOP 21.4: Stadtbezirk Münster-Südost
+- TOP 21.4.1: 11. Änderung FNP - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 22: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 23: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 24: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 24.1: Bebauung im Baublock Schulstraße, Altumstraße, Uppenbergstraße und Grevener Straße - verwiesen
+- TOP 24.2: Armen Haushalten Energiesparen ermöglichen - verwiesen
+- TOP 24.3: Samstags bleibt frei - Münster setzt auf überzeugende Übermittagangebote
+- TOP 24.4: Gesundheitsstadt Münster - Keine Gentechnik in der Münsteraner Landwirtschaft - verwiesen
+- TOP 25: Verschiedenes
