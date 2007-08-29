@@ -1,0 +1,60 @@
+# 23. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-08-29T17:34:00+02:00
+- Ende: 2007-08-29T20:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5748
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5748
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00253071.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Fraktion Bündnis 90/Die Grünen/GAL Nr.: A-R/0023/2007 - einstimmig beschlossen
+- TOP 2.2: Antrag Nr. A-R/0029/2007 der SPD-Fraktion vom 05.06.2007:"Hauptbahnhof Münster: Den Umbau gestalten" - einstimmig beschlossen
+- TOP 2.3: Kostenbewusstsein bei öffentlichen Einrichtungen schaffen - mehrheitlich beschlossen
+- TOP 2.4: Antrag der Fraktionsgemeinschaft UWG/ödp Nr. A-R/0014/2007 "Ausreichende Über-Mittag-Betreuung - einstimmig geändert beschlossen
+- TOP 2.5: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. A-R/0004/2007 - mehrheitlich abgelehnt
+- TOP 2.6: Antrag der SPD-Fraktion Nr. A-R/0026/2007 vom 05.06.2007 "Münster für alle. Jugendarbeitslosigkeit . - einstimmig beschlossen
+- TOP 2.7: Antrag der SPD-Fraktion an den Rat Nr. A-R/0027/2007 vom 04.06.2007 - einstimmig beschlossen
+- TOP 2.8: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat A-R/0020/2007 vom 02.05.2007 "Münster gibt - einstimmig beschlossen
+- TOP 3: Bericht über die Beschäftigung schwerbehinderter Menschen und schwerbehinderten Menschen Gleichgeste - einstimmig geändert beschlossen
+- TOP 4: Umsetzung des Bäderkonzeptes
+- TOP 4.1: Modernisierung und Attraktivierung Hallenbad-Ost in Münster - einstimmig geändert beschlossen
+- TOP 4.2: Modernisierung und Attraktivierung Freibad Stapelskotten in Münster - einstimmig geändert beschlossen
+- TOP 5: Erweiterung des Hansa-Berufskollegs, Hansaring 80, 48155 Münster - einstimmig beschlossen
+- TOP 6: Mitgliedschaft der Stadt Münster - einstimmig beschlossen
+- TOP 7: Beantragung und Bewilligung von Zuschussmaßnahmen - zur Kenntnis genommen
+- TOP 8: Teilnahme der Stadt Münster an dem Programm des Landes NRW Landesfonds "Kein Kind ohne Mahlzeit" - einstimmig geändert beschlossen
+- TOP 9: Gesamtkonzept der Pflegekinderarbeit in Münster - zur Kenntnis genommen
+- TOP 10: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2007) - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 11: Entlastung für die Jahresrechnung 2006 - einstimmig beschlossen
+- TOP 12: Ordnungsbehördliche Verordnung über das Offenhalten der - ohne Beschlussfassung geschoben
+- TOP 13: Aktuelle Haushaltsentwicklung 2007 - zur Kenntnis genommen
+- TOP 14: Über- u. außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 1. Halbjahr 2007 - zur Kenntnis genommen
+- TOP 15: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2006 - einstimmig beschlossen
+- TOP 16: Feststellung des Jahresabschlusses von MÜNSTER MARKETING für das Wirtschaftsjahr 2006 - einstimmig beschlossen
+- TOP 17: Stellungnahmen der örtlichen Selbstverwaltungsorganisationen zur Gründung der Stadtwerke Neue Energi - einstimmig beschlossen
+- TOP 18: Entwurf der Stellungnahme Stadt Münster zum Deckblatt I der Planfeststellung für den Ausbau der B51 - ohne Beschlussfassung geschoben
+- TOP 19: Aufhebung der Schulbezirke für die städtischen Grundschulen - ohne Beschlussfassung geschoben
+- TOP 20: Albert-Schweitzer-Schule, städt. Förderschule, Förderschwerpunkt Lernen - einstimmig beschlossen
+- TOP 21: Fortschreibung des Handlungsprogramms zur Weiterentwicklung der kommunalen psychosozialen Versorgung - einstimmig beschlossen
+- TOP 22: Konzept für die Wiederherstellung der Kyrillschäden - ohne Beschlussfassung geschoben
+- TOP 23: Bauleitplanung
+- TOP 23.1: Stadtbezirk Mitte
+- TOP 23.1.1: Vorhabenbezogener Bebauungsplan Nr. 512: Kardinal-von-Galen-Ring / Robert-Koch-Straße / Pottkamp - ohne Beschlussfassung geschoben
+- TOP 23.2: Stadtbezirk West
+- TOP 23.2.1: Bebauungsplan Nr. 507: Nienberge - Waltruper Weg / Beerwiede - einstimmig beschlossen
+- TOP 23.3: Stadtbezirk Nord
+- TOP 23.3.1: 11. Änderung des Bebauungsplanes STM 8: Sprakel - einstimmig beschlossen
+- TOP 23.4: Stadtbezirk Südost
+- TOP 23.4.1: 11. Änderung FNP - Beschluss zur Änderung - ohne Beschlussfassung geschoben
+- TOP 24: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 25: Verschiedenes
