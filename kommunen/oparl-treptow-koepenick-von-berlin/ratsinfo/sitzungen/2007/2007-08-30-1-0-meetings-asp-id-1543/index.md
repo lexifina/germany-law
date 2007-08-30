@@ -1,0 +1,93 @@
+# 10. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2007-08-30T16:30:00+02:00
+- Ende: 2007-08-30T21:15:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1543
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1543
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=52674
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers VI_8 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vertagte Tagesordnungspunkte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.1: Benennung von Nummernstraßen in Müggelheim - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Gedenken für die Opfer des Terroranschlags in Afghanistan am 19. Mai 2007 - in der BVV abgelehnt
+- TOP 9.3: Auswahlverfahren für Bürgermedaille - zurückgezogen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - überwiesen
+- TOP 11.1: Verordnung über den Erlass der Veränderungssperre 9-12/15 für das Grundstück Schnellerstraße 79 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Niederschöneweide - überwiesen
+- TOP 11.2: Zustimmung zur Ausbauvariante für den Ausbau der Wendenschloßstraße zwischen der Müggelheimer Straße und der Salvador-Allende-Straße - überwiesen
+- TOP 11.3: Erlass der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB für das Gebiet "Dorfkern Alt Müggelheim" im Bezirk Treptow-Köpenick von Berlin, Ortsteil Müggelheim - überwiesen
+- TOP 11.4: Sondermittel für KungerKiezInitiative (SM 734) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Bürger für Rahnsdorf e.V. (SM 746) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Kath. Kirchengemeinde St. Josef (SM 748) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für offensiv`91 e. V. (SM 751) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Änderung der Terminplanung 2007 der BVV Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Sondermittel für Treptower Teufel TC e. V. (SM 740) - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Verein der Freunde der Archenhold -OS e. V. (SM 753) - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Sondermittel für Roland Pauli (Young Voices Germany) (SM 755) - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Sondermittel für Kiez-AG-Baumschulenweg (SM 759) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Bürgertreffpunkt Spindlersfeld / Köllnische Vorstadt - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Landschaftspark Johannisthal mit angemessenen Pflegemitteln ausstatten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Erhöhung der Hilfe zum Lebensunterhalt in der Jugendhilfe, bei Jugendlichen die einen eigenen Haushalt führen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Verkürzung des Weges zum Parkhaus des Forums Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Fußgängerweg zum Forum Köpenick beleuchten - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Bebauungsplan 9-23, ("Uferweg Freiheit") hier: - Teilung des Geltungsbereiches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Bebauungsplan 9-12, ("östliche Schnellerstraße") hier: - Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Bebauungsplan XV-43, ("Kleingartenanlagen Königsheideweg") hier: - Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Lieferverkehr Eisenhutweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Jugendtreff 112 in Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Lärm- und Geschwindigkeitsreduzierung Johannisthaler Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Radverkehr um den Treptower Park erleichtern - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Schmollerplatz – Radverkehr entgegen der Einbahnstraßenrichtung zulassen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: THEOs-KLIX-KLEX-Fest 2007 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Umbenennung einer Stabsstelle Geschäftsbereich der Bezirksbürgermeisterin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Einrichtung eines Kiezbüros (Koordinierungsstelle gemäß § 171 e Abs. 5 BauGB) im Quartiersverfahrensgebiet Oberschöneweide im Rahmen des bezirks- und bewohnergetragenen Verfahrens (Verstetigungsverfahrens) nach § 171 e BauGB zum nächstmöglichen Zeitpunkt bis zum 31.12.2008 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Gender Mainstreaming - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Bebauungsplanentwurf XVI-85 ("Regattastrecke") hier: Reduzierung des Geltungsbereiches - überwiesen
+- TOP 13.6: Bebauungsplan XV-40 ("Marktpassagen Adlershof") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Naturschutzwacht - überwiesen
+- TOP 14.2: Bürgerinformation zum Weiterbau der A 100 in Treptow-Nord - überwiesen
+- TOP 14.3: Eventbüro - in der BVV zurückgezogen
+- TOP 14.4: Neue Krugallee für Kraftfahrzeuge über 7,5 t sperren - überwiesen
+- TOP 14.5: Eigentümerversammlung bei kostenpflichtigem Straßenausbau - überwiesen
+- TOP 14.6: Bibliotheksangebot durch Sponsoren aufwerten - überwiesen
+- TOP 14.7: Ökostrom für den Bezirk - überwiesen
+- TOP 14.8: Förderung des Tourismusvereins Treptow-Köpenick - überwiesen
+- TOP 14.9: Bedingungen für den Amphibienschutz am Rückhaltebecken in Rahnsdorf - überwiesen
+- TOP 14.10: Futterausgabe für bedürftige Tierhalter - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Baustelleninformationen im Internet - überwiesen
+- TOP 14.12: Solarenergie auf die Dächer - überwiesen
+- TOP 14.13: Sonderbriefmarke 800 Jahre Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Konzept für Baumpatenschaften - überwiesen
+- TOP 14.15: Gefahrensenkung bei rutschiger Uferkante im Strandbad Rahnsdorf - mit Änderungen in der BVV beschlossen
+- TOP 14.16: Bürgerinformation zur Müngersdorfer Straße - überwiesen
+- TOP 14.17: Parkverbot im Ligusterweg - überwiesen
+- TOP 14.18: Mehr Sicherheit für Radfahrer an der Kreuzung Bulgarische Straße / Neue Krugallee - überwiesen
+- TOP 14.19: Hinweisschilder für Radfahrer am Britzer Zweigkanal - überwiesen
+- TOP 14.20: Gemeinsamer Geh- und Radweg im Königsheideweg - überwiesen
+- TOP 14.21: Kreuzung Jackyallee/Fährallee in 12527 Berlin - überwiesen
+- TOP 14.22: Baumpflanzungen in der Puchanstraße - in der BVV abgelehnt
+- TOP 14.23: Bahnanbindung Ost des Flughafens BBI - überwiesen
+- TOP 14.24: Unbefugte Zufahrt mit Kraftfahrzeugen in den Volkspark Wuhlheide zu unterbinden - überwiesen
+- TOP 14.25: Bewerbung um das Bundesprogramm "Vielfalt tut gut. – Jugend für Vielfalt, Toleranz und Demokratie" - ohne Änderungen in der BVV beschlossen
+- TOP 14.26: Raumkapazitäten der Volkshochschule sichern - ohne Änderungen in der BVV beschlossen
+- TOP 14.27: Stellungnahme zum Planfeststellungsverfahren "Schienenanbindung Ost an den Flughafen Berlin Brandenburg International" - mit Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Zukunft des ehemaligen Strandbads Rahnsdorf - beantwortet
