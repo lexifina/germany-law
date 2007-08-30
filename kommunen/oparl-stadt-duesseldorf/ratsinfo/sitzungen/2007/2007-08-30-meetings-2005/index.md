@@ -1,0 +1,88 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-08-30T14:00:00+02:00
+- Ende: 2007-08-30T22:15:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2005
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2005
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155572.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155572.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155572.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpfl. RM - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - mehrheitlich beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Akt. Anfr. Lbbg: Zul. Bürgerbegehren - zur Kenntnis genommen
+- TOP 6: Akt. Anfr. Lbbg: Sitzungstermine - zur Kenntnis genommen
+- TOP 7: Anfrage aktuell d. SPD-Rfr.: Wahltermine 2009 - zur Kenntnis genommen
+- TOP 8: Anfragen - zur Kenntnis genommen
+- TOP 9: Anfrage Bü90/Grü: Interkultur. Öffnung der Stadt - zur Kenntnis genommen
+- TOP 10: Anfr. Rh Reichert: Flughafen - zur Kenntnis genommen
+- TOP 11: Anfr. Rh Reichert: Demographiebericht - zur Kenntnis genommen
+- TOP 12: Anfr. CDU: Leistungen ARGE - zur Kenntnis genommen
+- TOP 13: Anfr. CDU: Einbruchsprävention - zur Kenntnis genommen
+- TOP 14: Anfr. SPD: CO-Pipelin - zur Kenntnis genommen
+- TOP 15: Anfr. Rf Kahl: Pipeline - zur Kenntnis genommen
+- TOP 16: Anfrage Rh. Karen Jungen: Golzheimer Friedhof - zur Kenntnis genommen
+- TOP 17: Anfr. Rh Lbbg: Zug der Erinnerung - zur Kenntnis genommen
+- TOP 18: Anfr. Rh Lbbg: Gewerbesetuer - zur Kenntnis genommen
+- TOP 19: Etateinbringung - zur Kenntnis genommen
+- TOP 20: Umgang der Verwaltung mit den Mitgliedern des Stadtrates - zur Kenntnis genommen
+- TOP 21: Anträge - zur Kenntnis genommen
+- TOP 22: Interfrak. Antrag: Behindertengleichstellung - einstimmig beschlossen
+- TOP 23: Antr. Bü90: Kinderarmut - zur Kenntnis genommen
+- TOP 24: Antrag der Ratsfraktion Bü90/Grü: Kinderarmut (Neufassung) - mehrheitlich abgelehnt
+- TOP 25: Antr. Bü90: Pipeline - einstimmig beschlossen
+- TOP 26: Antr. Bü90: Baumaßnahmen - zur Kenntnis genommen
+- TOP 27: Antr. Bü90: Gesundheitsoffensive - mehrheitlich abgelehnt
+- TOP 28: Antr. Bü90: Veranstaltungskonzept - mehrheitlich abgelehnt
+- TOP 29: Antr. SPD: Bibliotheksstelle HHGesamtschule
+- TOP 30: Antr. SPD/Bü90/FDP: Tonhalle
+- TOP 31: ÄA CDU-Ratsfr.: Gastronomie auf der Tonhallenterrasse
+- TOP 32: Antr. CDU/FDP: Parkraumkonzept
+- TOP 33: ÄA Bü90/Grü: Parkraumkonzeption
+- TOP 34: Antrag Bü90/Grü u. SPD: Erhalt der ZAB
+- TOP 35: Antrag SPD: Aufhebung Grundsatzbeschluss L404
+- TOP 36: Antr. CDU/FDP: Familien
+- TOP 37: Ergänungsantrag Bü90/Grü:
+- TOP 38: Bürgerbegehren
+- TOP 39: Ändantr. Kahl/Lbbg: Bürgerbegehren
+- TOP 40: ÄA Bü90/Grü: Bürgerbegehren "Golzheimer Friedhof"
+- TOP 41: ÄA SPD-Ratsfr.: Golzheimer Friedhof
+- TOP 42: Benennung Straßen - einstimmig beschlossen
+- TOP 43: Neuer Landesfonds "Kein Kind ohne Mahlzeit" (Neufassung der Vorlage-Nr. 40/ 108/2007) - einstimmig beschlossen
+- TOP 44: Kunstpreis der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 45: Kämmererliste 2006 - mehrheitlich beschlossen
+- TOP 46: Kämmererliste 2007 - mehrheitlich beschlossen
+- TOP 47: Sonnenuhr
+- TOP 48: Bereitstellung von Haushaltsmitteln für die Herric - zur Kenntnis genommen
+- TOP 49: Bereitstellung von Haushaltsmitteln für die Herrichtung der Ersatzkleingartenanlage nördlich Aderdamm - einstimmig beschlossen
+- TOP 50: Annahme der Schenkung einer weiteren Skulptur "Reina Mariana" (Bronze) von Manolo Valdes - einstimmig beschlossen
+- TOP 51: Annahme einer Schenkung von zwei Skulpturen der Künstler Kenneth Capp und Erich Heerich von Ulrike Schmela - einstimmig beschlossen
+- TOP 52: Bau, Einrichtung und Instandsetzung - einstimmig beschlossen
+- TOP 53: Förderung Kita Graf-Recke-Str. 211 - einstimmig beschlossen
+- TOP 54: Skaterhalle Niederheid, Erweiterung und Einhausun - einstimmig beschlossen
+- TOP 55: Eisstadion Brehmstraße 27 - einstimmig beschlossen
+- TOP 56: Neubau 1fach SpH und OGATA Im Grund 78 - einstimmig beschlossen
+- TOP 57: Anpassung B+F Stadtbahnstrecke
+- TOP 58: Vierstreifiger Ausbau der Plockstraße
+- TOP 59: Durchstich Bahnhof Benrath - einstimmig beschlossen
+- TOP 60: Attraktivierung Graf-Adolf-Straße 2. BA - BUF - einstimmig beschlossen
+- TOP 61: Wiederbestellung von Mitgliedern des Gutachterausschusses - einstimmig beschlossen
+- TOP 62: Beirat Sana Kliniken - mehrheitlich beschlossen
+- TOP 63: Delegiertenversammlung RGRE - mehrheitlich beschlossen
+- TOP 64: Genehmigung 60er: Neue Erschließung/Außenanlagen am DTZ in Grafenberg, Staufenplatz
+- TOP 65: Bestellung und Abberufung - einstimmig beschlossen
+- TOP 66: Namensänderung der städt. Förderschule Lohbachweg 16 - einstimmig beschlossen
+- TOP 67: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 68: Pl5282/019-Niederrheinstr.-VÄ - einstimmig beschlossen
+- TOP 69: BPl4977/038-Beiders. Wiesenstr.-§13;Stell.;Satzung - einstimmig beschlossen
+- TOP 70: B-Plan Nr. 6076/034 - Östlich Heyestraße - einstimmig beschlossen
+- TOP 71: B-Plan Nr. 5676/061 - Werdener Str. B-Plan Nr. 5676/061 - Werdener Str. - einstimmig beschlossen
