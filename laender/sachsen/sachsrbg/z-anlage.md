@@ -33,8 +33,7 @@ vom 13. September 1990 (GBl. I Nr. 61 S. 1527)
 Vorschrift außer Kraft durch § 59 des G vom 27. Mai 1999 (SächsGVBl. S. 247, 254)
 10. 40a Gesetz über die Bildung und Tätigkeit von Stiftungen – Stiftungsgesetz –
 vom 13. September 1990 (GBl. I Nr. 61 S. 1483)
-fortgeltend:
-§§ 1 bis 3 § 10 §§ 13 bis 21 § 22 Abs. 4 § 23 Abs. 1 §§ 24 bis 28 Abs. 1 §§ 29 bis 32
+Vorschrift außer Kraft durch Artikel 3 Nr. 1 des G vom 7. August 2007 (SächsGVBl. S. 386, 388
 11. 611 Gesetz zur Regelung des Kirchensteuerwesens
 vom 23. September 1990 (BGBl. 1990 II S. 885, 1194)
 Vorschrift außer Kraft durch § 17 des G vom 14. Februar 2002 (SächsGVBl. S. 82, 84)
@@ -68,7 +67,7 @@ Vorschrift außer Kraft durch § 17 Nr. 2 der VO vom 12. März 2004 (SächsGVBl.
 19. 950 Anordnung über den Betrieb und die Benutzung von Fähren und Fähranlegestellen – Fährordnung –
 vom 26. März 1970 (GBl. II Nr. 32 S. 231)
 Vorschrift außer Kraft durch § 17 Nr. 3 der VO vom 12. März 2004 (SächsGVBl. S. 123, 126)
-20. 9503 Anordnung über die Besetzung von Fahrzeugen und Verbänden sowie über Befähigungszeugnisse, Berechtigungsscheine, Bordlisten und Schifferdienstbücher in der Binnenschiffahrt – Binnenschiffsbesetzungsanordnung (BSB-AO) –
+20. 9503 Anordnung über die Besetzung von Fahrzeugen und Verbänden sowie über Befähigungszeugnisse, Berechtigungsscheine, Bordlisten und Schifferdienstbücher in der Binnenschiffahrt – Binnenschiffsbesetzungsanordnung (BSB- AO) –
 vom 18. Dezember 1986 (GBl. I Sonderdruck Nr. 1281)
 Vorschrift außer Kraft durch § 17 Nr. 4 der VO vom 12. März 2004 (SächsGVBl. S. 123, 126)
 21. 97 Anordnung über die öffentliche Personen- und Gepäckbeförderung des Kraftverkehrs, Nahverkehrs und der Fahrgastschiffahrt – Personenbeförderungsanordnung (PBO) –
