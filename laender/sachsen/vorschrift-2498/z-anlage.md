@@ -1,6 +1,6 @@
 # Anlage (zu § 5 Abs. 1)
-Lehrgangsgebühren
-Laufende Nummer | Maßnahme | Gebühr in EUR
+Gebührentabelle
+lfd. Nr. | Maßnahme | Gebühr in EUR
 Laufende Nummer | Maßnahme | Gebühr in EUR
 1 | Brandmeister – Einführungslehrgang | 15 500
 2 | Brandmeister – Abschlusslehrgang | 7 700
