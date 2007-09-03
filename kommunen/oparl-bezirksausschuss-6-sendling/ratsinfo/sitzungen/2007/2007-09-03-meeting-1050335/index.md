@@ -1,0 +1,53 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2007-09-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1050335
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1050335
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 4.: Schulreferat
+- TOP 4.1.: Neubau eines Sport-/ Betriebsgebäudes auf dem Gelände der Bezirkssportanlage Dietramszeller Straße 9
+- TOP 5.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 5.2.: Freischankfläche Implerstraße 58
+- TOP 5.3.: Antrag auf eine Sitzbagatelle; Danklstraße 1
+- TOP 6.1.: Meldelisten Bauvorhaben SWM
+- TOP 6.2.: Daiserstraße 1-9; Straßenfest der Grünen am 23.09.2007
+- TOP 6.3.: Warenstellage Implerstraße 23
+- TOP 6.4.: Zugzielanzeiger am S-Bahnhaltepunkt Mittersendling
+- TOP 7.1.: Neueinteilung der Stimmbezirke bzw. Wahllokale
+- TOP 7.2.: Ausstellung "Münchner Maßstäbe" zum 850. Stadtgeburtstag
+- TOP 7.3.: Änderung der GO; Übertragung laufender Angelegenheiten des OBs auf die BAs zur Entscheidung
+- TOP 7.4.: Vereinsdatenbank und Stadtteilseiten auf der Homepage der Landeshauptstadt München; Erfahrungen und Erkenntnisse über das Pilotprojekt
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Margaretenplatz 11
+- TOP 8.3.: Bauvorhaben Lindwurmstraße 122 - 124
+- TOP 8.4.: Bauvorhaben Kidlerstraße 34
+- TOP 8.5.: Bauvorhaben Oberländerstraße 3c
+- TOP 8.6.: Bauvorhaben Plinganser Str. 122
+- TOP 8.7.: Bauvorhaben Bruderhofstr. 4
+- TOP 9.: Baureferat
+- TOP 9.1.: Schaffung einer Grünanlage mit Kleinkinderspielplatz am Max-Hirschberg-Weg
+- TOP 9.2.: Realisierungswettbewerb zur Neugestaltung der Platzfläche "Am Harras"
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Plinganserstraße 1, ein Ahorn
+- TOP 10.2.: Baumfällungen Bauvorhaben Lindwurmstraße 122 - 124
+- TOP 10.3.: Baumfällung Plinganserstraße 1; ein Ahorn
+- TOP 10.4.: Vorschläge zur Aufnahme in die Naturdenkmalliste; Stemmerwiese
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Kultur im Stadtquartier
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
