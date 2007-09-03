@@ -1,0 +1,71 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2007-09-03T16:00:00+02:00
+- Ende: 2007-09-03T19:32:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5493
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5493
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung des Rates - Stand: 31.08.2007 - 07.30 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00084400.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00084590.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00084478.pdf
+
+## Tagesordnung
+
+- TOP 1: Schulmittagessen
+- TOP 1.1: Teilnahme der Stadt Wuppertal am neuen Landesfonds "Kein Kind ohne Mahlzeit" unter Berücksichtigung - ungeändert beschlossen
+- TOP 1.2: Finanzierung der Mittagsverpflegung für bedürftige Kinder sichern - ungeändert beschlossen
+- TOP 1.3: Finanzierung der Mittagsverpflegung für bedürftige Kinder sichern - abgelehnt
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Eskesberger Bach - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Eskesberger Bach - abschließend zur Kenntnis genommen
+- TOP 2.2: Höhe der Regelleistungen gemäß SGB II und SGB XII, Ernährungsanteil für Kinder - abgesetzt
+- TOP 2.3: Fahrgastaufkommen der Schwebebahn - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Fahrgastaufkommen der Schwebebahn - abschließend zur Kenntnis genommen
+- TOP 2.4: Anfrage Wahltermin - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Kosten getrennter Wahltermine - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Appell an Bund und Land zur Erhöhung der Regelsätze - zur Vorberatung verwiesen
+- TOP 4.2: Beratungen zum Kinderbildungsgesetz NRW "KiBiz" - zur Vorberatung verwiesen
+- TOP 4.3: Bürgerhaushalt für Wuppertal - abgelehnt
+- TOP 4.4: Gemeinsamer Antrag der Fraktionen von CDU und SPD: Stärkung der sozialen Infrastruktur unserer Stadt - ungeändert beschlossen
+- TOP 4.5: Kommunal- und Bundestagswahl gleichzeitig durchführen - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Klimaschutz in der Bauleitplanung verankern - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.1.1: Klimaschutz in der Bauleitplanung verankern - geändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Entgeltordnung des Von der Heydt-Museums - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Sanierung des Sportplatzes Hauptstr. ("Horst-Neuhoff-Sportplatz") in Wuppertal-Cronenberg - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2006 für die Alten- und Altenpflegeheime der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses der APH für das Geschäftsjahr 2006 - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2006 - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss der Stadtsparkasse Wuppertal für das Geschäftsjahr 2006 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Sammelbeschluss zur Aufhebung überholter Planverfahren mit Satzungsbeschluss im Stadtbezirk Barmen - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 1075 - Spelleken Park - - geändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Aufgabenbeschreibung für die Arbeit der Planungs- und Baubegleitkommission Döppersberg - ungeändert beschlossen
+- TOP 11.2: Änderung des Stellenplans - ungeändert beschlossen
+- TOP 11.3: Suche nach einem neuen strategischen Partner für die WSW AG - ungeändert beschlossen
+- TOP 11.4: Siehe TOP 1.1
+- TOP 11.4.1: Siehe TOP 1.2
+- TOP 11.4.2: Siehe TOP 1.3
+- TOP 11.5: Stadtentwässerung - Maßnahmenkatalog 2008/Katalogentwurf 2009 - geändert beschlossen
+- TOP 11.6: Gründung der Bergischen Entwicklungsagentur GmbH - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Benennung sachkundiger Einwohner für die Ausschüsse des Rates - ungeändert beschlossen
+- TOP 12.2: Bestellung des Vertreters der Stadt in der Gesellschafterversammlung der Bergischen Entwicklungsagen - ungeändert beschlossen
+- TOP 12.3: Umbesetzung im Aufsichtsrat der Historische Stadthalle Wuppertal GmbH - geändert beschlossen
+- TOP 12.4: Entsendung von Delegierten als Vertreter der Stadt Wuppertal in die Wupperverbandsversammlung - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung / Benennungen - ungeändert beschlossen
+- TOP 12.6: Bestellung eines Vertreters in der Verbandsversammlung des VRR - ungeändert beschlossen
+- TOP 12.7: Umbesetzung im Betriebsausschuss Alten- und Altenpflegeheime - ungeändert beschlossen
+- TOP 12.8: Umbesetzung im Aufsichtsrat der WSW Energie und Wasser AG - geändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
