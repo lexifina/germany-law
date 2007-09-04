@@ -1,0 +1,52 @@
+# Ausschuss für Stadtplanung und Verkehr (21. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2007-09-04T17:00:00+02:00
+- Ende: 2007-09-04T19:25:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWFK5Ie3ypr-d44xmGzdMJs
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/2311
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZR6xkprDxbWGIovV368WpeI_HlmN9bgSxW8TwZJvC04h/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_04.09.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht der Verwaltung über die Ausführung von Beschlüssen/Aufträgen/Empfehlungen aus der Sitzung am 22.05.2007
+- TOP 2.: Umbesetzung von Ausschüssen, Arbeitskreisen und anderen Gremien hier: Antrag der SPD-Fraktion vom 13.06.2007 zur Umbesetzung der Kinderunfallkommission
+- TOP 3.: Umsiedlung Manheim
+- TOP 3.1: Bericht der Verwaltung
+- TOP 3.2: Vorgezogene Beteiligung der Träger öffentlicher Belange für die Umsiedlungsstandorte Manheim
+- TOP 3.3: Umsiedlungsstandorte Manheim
+- TOP 3.4: Niederschrift über die 6. Sitzung des Bürgerbeirates Manheim vom 16.05.2007
+- TOP 3.5: Umsiedlung Manheim - Niederschrift der 7. Sitzung des Bürgerbeirates Manheim
+- TOP 4.: Stadtentwicklung
+- TOP 4.1: 1. Änderung des Kontraktes über Wohnbaulandentwicklung in der Stadt Kerpen vom 05.09.2005
+- TOP 5.: Bauleitplanung
+- TOP 5.1: Bebauungsplan SI 316 "Kreisverkehrsplatz Visteonstraße/Europaring", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10(1) BauGB
+- TOP 5.2: 55. Änderung des Flächennutzungsplanes "Visteonstraße", Stadtteil Sindorf hier: Wirksamkeitsbeschluss
+- TOP 5.3: Bebauungsplan BA 325 "Am Kapellchen" Stadtteil Balkhausen hier:A Beschluss zur Aufstellung des Bebauungsplanes gem. § 13 a BauGB B Beschluss von der frühzeitigen Unterrichtung und Erörterung gem. § 13 (2) BauGB abzusehen C Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB
+- TOP 5.4: Vorhabenbezogener Bebauungsplan KE 267 B "Stiftsstraße/Filzengraben" Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 5.5: Bebauungsplan BU Nr. 326 „Immissionsschutzwall Buir“, Stadtteil Buir hier: Aufstellungsbeschluss gemäß § 2 (1) BauGB
+- TOP 5.6: 58. Änderung des Flächennutzungsplanes "Immissionsschutzwall Buir" im Stadtteil Buir hier: Aufstellungsbeschluss zum Änderungsverfahren gem. § 2 BauGB
+- TOP 5.7: Bebauungsplan Brüsseler Straße im Stadtteil Kerpen
+- TOP 6.: Verkehrsplanung
+- TOP 6.1: Niederschrift der 8. Sitzung des Arbeitskreises Verkehr
+- TOP 6.2: Niederschrift der 3. Sitzung der Kinderunfallkommission vom 06.06.2007
+- TOP 6.3: Benennung einer Straße im Stadtteil Sindorf
+- TOP 6.4: Widmung von Straßen
+- TOP 6.5: Planfeststellungsverfahren zur Verlegung der A4 - Offenlage Deckblatt II
+- TOP 6.6: Planfeststellungsverfahren zur Verlegung der B477 neu - Offenlage westlicher Abschnittt
+- TOP 7.: Mitteilungen
+- TOP 8.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 8.1: Biomethangasanlage in Sindorf
+- TOP 8.2: Planung "alte Grundschule" in Kerpen-Buir
+- TOP 8.3: Regelungen zum Versand der Tagesordnung des Arbeitskreises Verkehr
+- TOP 9.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 10.: Städtebauliche Verträge
+- TOP 10.1: Öffentlich-rechtlicher Bebauungsplan BA 325 "Am Kapellchen", hier: Abschluss eines Städtebaulichen Vertrages
+- TOP 11.: Mitteilungen
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
