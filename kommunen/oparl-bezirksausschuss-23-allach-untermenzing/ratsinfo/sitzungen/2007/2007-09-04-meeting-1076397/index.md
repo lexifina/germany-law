@@ -1,0 +1,95 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2007-09-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1076397
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1076397
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Gesundheitsschädigende Lärmbelastungen in der Näther-, Finsterwalder- und Megerlestraße
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 3.1.: Die LH München möge bei der DB eine ausreichende Beschilderung des S-Bahnhofs "Untermenzing" beantragen
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes; Abstufung einer Teilstrecke der Stieglstraße
+- TOP 5.: Anhörungen
+- TOP 5.1.: Willi-Wien-Str. 28 Nutzungsänderung eines gewerblich genutzten Zweifamilienhauses in eine Kinderkrippe
+- TOP 5.2.: Erweiterung der Abfallentsorgungsanlage (Bodenbörse) der Fa. Süderde Aufbereitungs- und Vertriebs GmbH auf dem Anwesen Lochhausener Straße Fl.Nr. 969, 978/2 (Bestand) und Fl.Nr. 686 (Erweiterung) der Gemarkung Obermenzing
+- TOP 5.3.: Zusätzliches Schießvorhaben am 14. und 15.09.07 "Der Bund", Servetstr. 1
+- TOP 5.4.: Neueinteilung der Stimmbezirke bzw. Wahllokale
+- TOP 5.5.: Änderung der Gemeindeordnung Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 6.1.: Ludwigsfelder Straße zwischen Spiegelbergstraße und der Straße Am Neubruch
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Änderung von Artikel 60 Gemeindeordnung Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse
+- TOP 8.2.: Budgetmittel der Bezirksausschüsse; Ablehnung von beantragten Zuwendungen bei den Bezirksausschüssen 1-25; Antragsteller: Kultur notiert e.V.
+- TOP 8.3.: Broschüre "Die Münchner Bezirksausschüsse"
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Fuß- und Radweg (Bahnweg) zwischen Krauss-Maffei-Straße und Ludwigsfelder Straße
+- TOP 9.2.: Baumaßnahme Von-Kahr-Straße zwischen Allacher Straße und Eversbuschstraße (Nordseite)
+- TOP 9.3.: Straßensanierung (Antrag Nr. 02-08 / B 01915 vom 13.03.07)
+- TOP 9.4.: Ausbau des Paul-Ehrlich-Weges
+- TOP 9.5.: Straßensanierung, Antr.Nr. 1915 vom 13.03.07
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Gaststätte "Cafe Steffy`s", Eversbuschstr. 37; unveränderte Fortführung
+- TOP 10.2.: Gaststätte "Zur Schießstätte", Servetstr. 1; unveränderte Fortführung
+- TOP 10.3.: Erlaubnisbescheid Listerstr. Anwohnerfest Waldkolonie Allach am 14.07.07
+- TOP 10.4.: Gaststätte "Pirker-Stüberl", Zum Schwabenbächl 48 d; unveränderte Fortführung
+- TOP 10.5.: Arbeiten im Straßenraum Von-Kahr-Straße Nordseite zwischen Allacher Straße und Eversbuschstraße
+- TOP 10.6.: Parkerleichterung für Schwerbehinderte; personenbezogener Sonderparkplatz im Bereich Eversbuschstr. 79
+- TOP 10.7.: Parkerleichterung für Schwerbehinderte Personenbezogener Sonderparkplatz im Bereich Eduard- Schwartz-Str. 2
+- TOP 10.8.: Einrichtung einer Fahrradstraße in der Behringstraße zwischen Paul-Ehrlich-Weg und Zufahrt zu den Anwesen Behringstr. 15
+- TOP 10.9.: Einrichtung einer Fahrradstraße in der Servetstraße zwischen Kleselstraße und Paul-Ehrlich-Weg
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Bauanträge (v. 02.-08.07.07, v. 09.-15.07.07, 16.-22.07.07, 23.07.-29.07.07, 30.07.-05.08.07, 06.08.-12.08.07, 13.08.-19.08.07)
+- TOP 11.2.: Liste der beantragten Baumfällungen (v. 02.-08.07.07, v. 09.-15.07.07, 16.-22.07.07, 23.07.-29.07.07, 30.7.-05.08.07, 06.08.-12.08.07, 13.08.-19.08.07)
+- TOP 11.3.: Vollzug der BaumschutzVO - Waldhornstr. 28, s. Baumbestandsplan Nr. 2007-022040) - Pasinger Heuweg 80, Borkenkäferbescheinigung
+- TOP 11.4.: Franz-Nißl-Str. 5, Sachstand Altenheim
+- TOP 11.5.: Franz-Nißl-Str. 53; Anfrage zum Antrag auf Vorbescheid "Neubau eines Wohn- und Bürogebäudes als Anbau an einen bestehenden Hochbunker / Nutzungsänderung des Hochbunkers"
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: Neue Kindertageseinrichtung in der Manzostr. 79
+- TOP 13.2.: Mitteilung der Termine 2008 "Das Schulreferat trifft die Bezirksausschüsse"
+- TOP 13.3.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Eversbuschstr. 156
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Daten Kinderkrippen
+- TOP 14.2.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Ganzenmüllerstraße
+- TOP 14.3.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch: Mangstraße
+- TOP 14.4.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Nikolaus-Rüdinger-Straße
+- TOP 14.5.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Nätherstraße
+- TOP 14.6.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Waldhornstraße
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Vollzug der Wassergesetze; Tauchen im Langwieder See, Hier: Widerspruch gegen die Allgemeinverfügung vom 30.05.07
+- TOP 15.2.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Paul-Ehrlich-Weg 130, Asphaltmischanlage; hier: Änderung der bestehenden Asphaltmischanlage durch den Einsatz von Braunkohlestaub als Brennstoff und die Errichtung eines Braunkohlestaub-Silos
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 21 Pasing-Obermenzing: - Projekt Professor-Eichmann-Straße, gemeinsamer Rad- und Gehweg Projekt-Nr.: 100343
+- TOP 20.2.: BA 15 Trudering-Riem: Mehr BA-Rechte
+- TOP 20.3.: BA 15 Trudering-Riem: Broschüre "Die Münchner Bezirksausschüsse"
+- TOP 20.4.: BA-Broschüre - nur mit Zensur?
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 21.2.: Baumaßnahmen der SWM; Stromprojekt Menzinger Straße
+- TOP 21.3.: Nachtbuslinie
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Bauausschuss vom 12.06.07 - Mehrjahresinvestitionsprogramm für die Jahre 2007-2011 mit verbindlicher Planung für 2012
+- TOP 22.2.: Kommunalausschuss vom 14.06.07: - Mehrjahresinvestitionsprogramm 2007 bis 2011; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf
+- TOP 22.3.: Kinder- und Jugendhilfeausschuss vom 26.06.07 - Investitionskostenförderung gem Art. 27 BayKiBiG Kinderkrippe Löfflerstr. 1 (Claudia Neumann) mit 20 Kinderkrippenplätzen Umbau bestehender Räume
+- TOP 22.4.: Ausschuss für Stadtplanung und Bauordnung vom 27.06.07 - Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München - A 99 West - Ergebnisse der Verkehrszählungen "Vorher-Nacher-Untersuchung" - Boden- und Bauschuttrecycling Anlagen und Bodenbörsen in München Strukturkonzept Allach-West: Bericht zur Verbesserung der Verkehrserschließung - Menzinger Straße 85 - Bebauungsplan mit Grünordnung Nr. 2009
+- TOP 22.5.: Bauausschuss vom 03.07.07 - Vermeidung von Hundekot in städtischen Grünanlagen und Grünstreifen - Beseitigung schienengleicher Bahnübergänge - Gegenwärtiger Stand - - Stadtweites Rauchverbot an und auf Spielplätzen
+- TOP 22.6.: Ausschuss für Stadtplanung und Bauordnung vom 04.07.07: - Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007
+- TOP 22.7.: Vollversammlung des Stadtrates vom 18.07.07 - Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München
+- TOP 23: Verschiedenes
