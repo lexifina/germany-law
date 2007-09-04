@@ -1,0 +1,52 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2007-09-04T15:00:00+02:00
+- Ende: 2007-09-04T16:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVXNPm4AYphFiC0g_2g7V6E
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/641
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaJt_-ecf5ZCf45Q4Fyn46DWghmmr2aiJQN8fxFrbWMV/Einladung_Sozial-_und_Gesundheitsausschuss_04.09.2007.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYm3_rOUBx1Fc_fzMH_LNUclZkY8HjQED510DPbiWI7f/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_04.09.2007.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 1.1: Einrichtung eines niedrigschwelligen Beratungsangebots für Leistungsbeziehende nach SGB II und SGB XII - Abstimmungsergebnis: Mehrheitlich nach Beschlussvorschlag                                           
+- TOP 1.2: Vergabe von Zuwendungen an Selbsthilfegruppen und Initiativen -Sozialamt- - Abstimmungsergebnis: Einstimmig nach Änderung des Beschlussvorschlages                              
+- TOP 2: Beschlussvorschläge für den Haupt- und Finanzausschuss
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: Beschlussvorschläge für den Rat
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Anträge
+- TOP 6.1: Erhöhung des Mietzuschusses für die Aids-Hilfe - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 6.2: Sachkostenzuschuss für die Guttempler - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 6.3: Berichterstattung ARGE-Trägerversammlung und ARGE-Beirat - kein Beratungsergebnis                                                                              
+- TOP 6.4: Beschwerdemanagement der ARGE - Die Abstimmung erfolgte getrennt nach Unterpunkten.                                                 
+- TOP 6.5: Kommunalisierung der Landesförderung für Präventions- und Hilfemaßnahmen im Sucht- und AIDS-Bereich in NRW - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 7: Mitteilungen
+- TOP 7.1: Sachstandsbericht zur Umsetzung der Reform der Versorgungsverwaltung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.2: Leistungen für Heizung gem. § 22 Abs. 1 SGB II durch die ARGE Bochum und Richtlinien zur Ermittlung "angemessener Heizkosten" Anlage 5 zu T 29 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.3: Gebührenfreies Girokonto für ALG II-Bezieher/innen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.4: Jahresbericht 2006 des Selbsthilfe-Büros Bochum - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.5: Kommunale Altenhilfe in Bochum - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.6: Städtischer Zuschuss an die Wattenscheider Tafel für Umbau- und Sanierungsarbeiten -aktueller Sachstand- - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8: Anfragen
+- TOP 8.1: Arbeitssituation der Beschäftigten bei der ARGE - Die Anfrage ist mündlich beantwortet worden.                                                        
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Beschlussvorschläge für den Haupt- und Finanzausschuss
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Beschlussvorschläge für den Rat
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Anträge
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Mitteilungen
+- TOP 10: keine Tagesordnungspunkte
+- TOP 11: Anfragen
+- TOP 12: keine Tagesordnungspunkte
