@@ -1,0 +1,7 @@
+# TOP 1.1: Jugend, Schule und Umwelt
+
+- Sitzung: 12. öffentliche Sitzung des Haushaltsausschusses (2007-09-06)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=17571
+- Ergebnis: erledigt
