@@ -1,0 +1,6 @@
+# TOP 6.2: Gemeinsames Gespräch Ortsvorsteher mit Pilotprojektgruppe AIBP
+
+- Sitzung: Ortsrat Hagen (5. Sitzung) (2007-09-07)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/7050
