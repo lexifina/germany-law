@@ -1,0 +1,84 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2007-09-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1090787
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1090787
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzen Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Kurparkstr. 31, 1 Birke
+- TOP 3.2.: Kruckenburgstr. 50, 1 Berg-Ahorn
+- TOP 3.3.: Narzissenstr. 7, 1 Birke
+- TOP 3.4.: Würmtalstr. 10, 1 Eiche
+- TOP 3.5.: Am Brombeerschlag 10 a, 2 Scheinzypressen, 1 serbische Fichte
+- TOP 3.6.: Rodensteinstr. 12, 1 Lärche
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Waldfriedhof, 52 Bäume (Baureferat, 20.08.07)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 3.1.: Gräfelfinger Str. 77, Fällung einer Birke (Referat für Stadtplanung und Bauordnung, 21.08.07)
+- TOP 3.2.: Heiglhofstr. 13, Fällung von 3 Kastanien und einer Linde (Referat für Stadtplanung und Bauordnung, 06.08.07)
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Budget
+- TOP 4.2.: Protokoll Planungsverband Äußerer Wirtschaftsraum München
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag des TSV Großhadern von 1926 e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 5.000,- ? (Direktorium, 08.08.07)
+- TOP 6.2.: Antrag des Cara Vita e.V. i. Gr. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 100,- ? (Direktorium, 08.08.07)
+- TOP 6.3.: Antrag der Elterninitiative MoMi-Kinder auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 4.214,- ? (Direktorium, 08.08.07)
+- TOP 6.4.: Antrag der STÜPS - Träger: schule-beruf e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 2.122,50 ? (Direktorium, 24.08.07)
+- TOP 7.: Unterrichtungsfälle
+- TOP 7.1.: Bürgerversammlung des 20 Stadtbezirkes Hadern am 25.09.07 Multimedia-Präsentation (Direktorium, 13.08.07)
+- TOP 7.2.: Bürgerversammlung des 20. Stadtbezirkes Hadern am 25.09.07 (Oberbürgermeister, 14.08.07)
+- TOP 7.3.: Zweckentfremdung von Wohnraum, Immastr. 1 a (Sozialreferat, 06.08.07)
+- TOP 7.4.: Verkehrsrechtliche Anordnung: Heiglhofstr. / Würmtalstr., Großhaderner Str. / Würmtalstr. (Kreisverwaltungsreferat, 24.07.07)
+- TOP 7.5.: Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Veilchenstr. 18, 5 Plätze für unter 3-Jährige und 45 Plätze für 3-Jährige bis zur Einschulung (Schul- und Kultusreferat, 22.08.07)
+- TOP 7.6.: Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Heiglhofstr. 63, 45 Plätze für 3-Jährige bis zur Einschulung (Schul- und Kultusreferat, 22.08.07)
+- TOP 8.: Anhörungsfälle
+- TOP 8.1.: Veranstaltung in einer städtischen Grünanlage, hier: Kasperletheater Liebe auf dem Max-Lebsche-Platz vom 11. - 14.10.07 (Kreisverwaltungsreferat, 13.08.07)
+- TOP 8.2.: Verkehrsrechtliche Anordnung: Prälat-Wellenhofer-Straße, Haltverbot (Kreisverwaltungsreferat, 14.08.07)
+- TOP 8.3.: Änderung der Gemeindeordnung, Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung (Bürgermeisterin Christine Strobl, 16.08.07)
+- TOP 8.4.: Zweckentfremdung von Wohnraum, Terofalstr. 103 (Sozialreferat, 23.08.07)
+- TOP 8.5.: Erinnerungsverfahren, Würmtalstr. 60-65 c (Baureferat, 23.08.07)
+- TOP 8.6.: Erinnerungsverfahren, Fürstenrieder Str. 220, Lidl-Markt (Baureferat, 23.08.07)
+- TOP 8.7.: Planungen zur Staatsstraße St 2063 neu, Verhinderung des Baus der Staatsstraße St 2063 neu zwischen der A 96 und Pasing, Beschlussvorlage des Planungsreferates
+- TOP 8.8.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2008 - 2012 (Stadtkämmerei, 27.08.07)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Pflanzung von Straßenbegleitgrün in der Heiglhofstraße (Baureferat, 31.07.07)
+- TOP 9.2.: Baubeginn der geplanten Kindertagesstätte an der Ecke Guardinistr. / Großhaderner Str. (Schul- und Kultusreferat, 30.07.07)
+- TOP 9.3.: Fitnessparcours für Hadern (Baureferat, 14.08.07)
+- TOP 9.4.: Fahrradständer am Gondrellplatz (Baureferat, 28.08.07)
+- TOP 9.5.: Fahrradparksituation in der Würmtalstraße (Baureferat, 30.01.07)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Broschüre nur mit Zensur? (BA 15, 15.08.07)
+- TOP 11.2.: BA-Broschüre - nur mit Zensur? (BA 18, 22.08.07)
+- TOP 11.3.: Mehr BA-Rechte (BA 15, 11.08.07)
+- TOP 11.4.: Mitteilung der Termine 2008, "Das Schulreferat trifft die Bezirksausschüsse" (Schul- und Kultusreferat, 06.08.07)
+- TOP 11.5.: Oktoberfest 2007, Reservierung für die BA´s, Termin BA 20, Dienstag, den 02.10.07 (Direktorium, 28.08.07)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 18.07.2007: Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
