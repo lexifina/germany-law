@@ -1,0 +1,94 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2007-09-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1048854
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1048854
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2: Bürgerpost an den BA
+- TOP 2: Anträge
+- TOP 2.1.: CSU-Fraktion: Beschilderung in der Fürstenrieder Straße / Busspur (Vertagung aus der BA-Sitzung vom 24.07.07) &gt; dazu: Schreiben KVR vom 16.07.07: Busspur in der Fürstenrieder Straße zwischen Gotthard- und Landsberger Straße; Änderung der zeitlichen Geltungsdauer
+- TOP 2.2.: CSU-Fraktion: Auf den Spielplätzen ist der Helm tabu
+- TOP 2.3.: CSU-Fraktion: Sanierung der Camerloherstraße wegen erheblicher Straßenschäden
+- TOP 2.4.: CSU-Fraktion: Beseitigung der Hinterlassenschaften (Hundekot) und sonstiger Verschmutzungen an der Umzäunung der Schule an der Camerloherstraße
+- TOP 1.3: Projekt Friedenheimer Brücke / Änderung der Querschnittaufteilung; Teilnahme Bau
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 1.000 ? für Teppicherneuerung; Antragsteller: Drachenburg e.V. (Wiedervorlage aus der BA-Sitzung vom 12.06.07)
+- TOP 3.2.: Neugestaltung Jörgplatz; Übernahme der Kosten in Höhe von ca. 14.000 Euro für den Sitz- und Aufenthaltsbereich für Jugendliche
+- TOP 3.3.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 14.992,28 ? für Grundausstattung mit Instrumenten; Antragsteller: Neuen Jazzschool Munich e.V.
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Planungsreferat vom 12.07.07: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an dei BayBO-Novelle 2007; Entwurf zum Neuerlass einer Stellplatzsatzung für Kraftfahrzeuge
+- TOP 4.2.: Schreiben KVR vom 06.08.07: Neueinteilung der Stimmbezirke bzw. Wahllokale
+- TOP 4.3.: Schreiben KVR vom 09.08.07: Antrag auf eine Freischankfläche, Elsenheimer Str. 16
+- TOP 4.4.: Schreiben Bürgermeisterin Christine Strobl vom 16.08.07: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 5: Baumfällungen
+- TOP 6: Bauvorhaben
+- TOP 6.1.: Landsberger Str. 191-191a: Teilabbruch und Neubau eines Büro- und Geschäftshauses / Vorbescheid; hier: Baupläne und Baumfällungen
+- TOP 6.2.: Reutterstr. 62: Neubau eines Mehrfamilienhauses (8 WE) mit TG (8Stpl.) / Vorbescheid; hier: Baupläne und Baumfällungen
+- TOP 7: Sonstiges
+- TOP 7.1.: Schreiben Kulturreferat vom 17.08.07: Zweiter Bauabschnitt des Kulturellen Zentrum Laims; Einladung zum Runden Tisch am 24.09.07
+- TOP 7.2.: Oktoberfest 2007; Termin des BA 25 am 04.10.07
+- TOP 8: Protokolle
+- TOP 8.1.: BA-Sitzung vom 24.07.07
+- TOP 8.2.: Sitzung UA Bau vom 22.08.07
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Baureferat vom 09.07.07: Ausfahrt aus der Tiefgarage der Laimer Arkaden, Agnes-Bernauer-Straße (Schreiben BA vom 30.05.07)
+- TOP 9.2.: Schreiben Baureferat vom 14.08.07: Jährliche Besprechung mit den Unterhaltsbezirken (Schreiben BA vom 13.07.07)
+- TOP 9.3.: Schreiben Baureferat vom23.08.07: Instandsetzung Friedenheimer Brücken Nord und Süd; verwaltungsinterne Projektgenehmigung
+- TOP 9.4.: Schreiben KVR vom 26.07.07: Änderung eines eingeschränkten Haltverbots an der Ostseite der Elsenheimer Straße zwischen Einmündung in die Lautensackstraße und Landsberger Straße (antrag Nr. 02-08 / B 02238 vom 12.06.07)
+- TOP 9.5.: Schreiben KVR vom 14.06.07: Fürstenrieder Str. 82-84; Kurzparkzone / verkehrsrechtliche Anordnung
+- TOP 9.6.: Schreiben KVR vom 02.08.07: Gaststätte "Lennox", Elsenheimerstr. 61; unveränderte Fortführung
+- TOP 9.7.: Schreiben Sozialreferat vom 12.07.07: Einsatz des Streetwork-Busses an einem zusätzlichen Tag in Laim (Antrag Nr. 02-08 / B 02135 vom 15.05.07)
+- TOP 9.8.: Schreiben Schul- und Kultusreferat vom 01.08.07: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen im Kindergarten Elsenheimerstr. 43 (Schreiben BA vom 11.07.07)
+- TOP 9.9.: Schreiben Schul- und Kultusreferat vom 06.08.07: Mitteilung Termine 2008; "Das Schulreferat triftt die Bezirksausschüsse"
+- TOP 9.10.: Schreiben Schul- und Kultusreferat vom 07.08.07: Erweiterung der städtischen Kindertageseinrichtung in der Camerloherstr. 108
+- TOP 9.11.: Schreiben Schul- und Kultusreferat vom 22.08.07: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Perhamerstr. 15
+- TOP 9.12.: Schreiben Stadtwerke München GmbH vom 01.08.07: Taubenplage in MVG-Wartehäuschen dauerhaft beenden (Antrag Nr. 02-08 / B 02255 vom 12.06.07)
+- TOP 9.13.: Schreiben Referat für Arbeit und Wirtschaft vom 21.08.07: MVG-Fahrplan 2008; Verlängerung der U 4 bis Westendstraße (BA-Antrag Nr. 02-08 / B 02240 vom 12.06.07)
+- TOP 9.14.: Schreiben Kulturreferat vom 27.08.07: Kultur im Stadtquartier; Beschlussvorlage und Stadtratssitzung
+- TOP 9.15.: Schreiben Direktorium vom 12.07.07: Änderung von Art. 60 Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse
+- TOP 9.16.: Schreiben Direktorium vom 23.07.07: Broschüre "Die Münchner Bezirksausschüsse"
+- TOP 9.17.: Schreiben Direktorium vom 23.08.07: Stadtratsvorlage "Erfahrungen und Erkenntnisse über das Pilotprojekt NPO - Vereinsdatenbank und Stadtteilseiten - Evaluationsbeschluss"
+- TOP 9.18.: Schreiben Direktorium vom 12.07.07: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Familienzentrum Laim
+- TOP 9.20.: Schreiben Direktorium vom 19.07.07: Ablehnung eines Zuschusses aus dem Budget; Antragsteller: Grundschule Camerloherstraße
+- TOP 9.21.: Schreiben Direktorium vom 20.07.07: Ablehnung eines Zuschusses aus dem Budget; Antragsteller: Kultur notiert e.V.
+- TOP 9.22.: Schreiben Direktorium vom 23.07.07: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Bürgerbündnis gegen die Spielhalle im Beck-Haus Laim
+- TOP 9.23.: Schreiben Direktorium vom 31.07.07: Zuwendung aus dem Budget; Antragsteller: Kath. Pfarramt zu den Hlg. Zwölf Aposteln
+- TOP 9.24.: Schreiben Planungsreferat vom 27.07.07: Geßlerstr. 23; Anbau an eine DHH
+- TOP 9.25.: Schreiben Planungsreferat vom 31.07.07: Allgemeines Eisenbahngesetz (AEG); Plangenehmigung nach § 18 Abs. 2 AEG für ESTW UZ München-Pasing (Süd und Nord), München Laim Rbf. für die Bereiche Bft. München-Pasing, - Westkreuz, - Laim Rbf. - Friedenheimerbrücke Azw., Abzw. Mü.Kanal, Mü. Landsberger Straße, Bf. Mü.-Lochhausen
+- TOP 9.26.: Schreiben Planungsreferat vom 02.08.07: Agnes-Bernauer-Str. 45; DG-Ausbau und Anbau von Balkonen
+- TOP 9.27.: Schreiben Planungsreferat vom 10.08.07: Ist Teilausbau des S-Bahn-Südrings möglich? (Antrag Nr. 02-08 / B 02239 vom 12.06.07)
+- TOP 9.28.: Bautenliste vom 09.07.-15.07.07: 1. Erstantragsverfahren a) Weichselbaumerstr. 17 2. Änderungsverfahren a) Schäufeleinstr. 22 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Str. 191 b) Byecherstr. 30
+- TOP 9.29.: Bautenliste vom 16.07.-22.07.07 1. Erstantragsverfahren a) Rushaimerstr. 66 b) Mergentheimer Str. 2 c) Landsberger Str. 287 d) Fürstenrieder Str. 93 2. Änderungsverfahren a) Camerloherstr. 69 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agnes-Bernauer-Str. 16 b) Reutterstr. 62
+- TOP 9.30.: Bautenliste vom 23.07.-29.07.07: 1. Erstantragsverfahren a) Ludwig-Richter-Str. 26 b) Rechpachstr. 18
+- TOP 9.31.: Bautenliste vom 30.07.-05.08.07 1. Erstantragsverfahren a) Fürstenrieder Str. 38 b) Camerloherstr. 97 c) Camerloherstr. 110 d) Rushaimerstr. 66 2. Änderungsverfahren a) Agnes-Bernauer-Str. 103 a 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Reutterstr. 62
+- TOP 9.32.: Bautenliste vom 06.08.-12.08.07 1. Erstantragsverfahren a) Von-der-Pfordten-Str. 2 2. Änderungsverfahren a) Geßlerstr. 5 b) Gotthardstr. 43
+- TOP 9.33.: Bautenliste vom 13.08.07-19.08.07 1. Erstantragsverfahren a) Stroblstr. 25 b) Lautensackstr. 4 d 2. Änderungsverfahren a) Camerloherstr. 69
+- TOP 9.34.: Bautenliste vom 20.08.-26.08.07 1. Erstantragsverfahren a) Westendstr. 240 b) Camerloherstr. 54 c) Willibaldstr. 33 d) Berchemstr. 83 2. Änderungsverfahren a) Friedenheimer Str. 49 b) Schrobenhausener Str. 18 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Berchemstr. 83
+- TOP 9.35.: Schreiben Planungsreferat vom 16.07.07: Liste der beantragten Baumfällungen
+- TOP 9.36.: Schreiben Planungsreferat vom 23.07.07: Liste der beantragten Baumfällungen
+- TOP 9.37.: Schreiben Planungsreferat vom 30.07.07: Liste der beantragten Baumfällungen
+- TOP 9.38.: Schreiben Planungsreferat vom 06.08.07: Liste der beantragten Baumfällungen
+- TOP 9.39.: Schreiben Planungsreferat vom 13.08.07: Liste der beantragten Baumfällungen
+- TOP 9.40.: Schreiben Planungsreferat vom 20.08.07: Liste der beantragten Baumfällungen
+- TOP 9.41.: Schreiben Planungsreferat vom 27.08.07: Liste der beantragten Baumfällungen
+- TOP 9.42.: Schreiben Baureferat vom 31.07.07: Unterrichtung über das Fällen von Gefahrenbäumen; Kiem-Pauli-Weg, Burgkmairstraße
+- TOP 9.43.: Schreiben Stadtwerke München GmbH vom 16.07.07: Baumaßnahmen der Stadtwerke; Stichtag: 16.07.07
+- TOP 9.44.: Schreiben Stadtwerke München GmbH vom 23.07.07: Baumaßnahmen der Stadtwerke; Stichtag: 23.07.07
+- TOP 9.45.: Schreiben Stadtwerke München GmbH vom 30.07.07: Baumaßnahmen der Stadtwerke; Stichtag: 30.07.07
+- TOP 9.46.: Schreiben Stadtwerke München GmbH vom 07.08.07: Baumaßnahmen der Stadtwerke München; Stichtag: 06.08.07
+- TOP 9.47.: Schreiben Stadtwerke München GmbH vom 13.08.07: Baumaßnahmen der Stadtwerke; Stichtag: 13.08.07
+- TOP 9.48.: Schreiben Stadtwerke München GmbH vom 27.08.07: Baumaßnahmen der Stadtwerke; Stichtag: 27.08.07
+- TOP 9.49.: Beschluss der Vollversammlung vom 18.07.07: Errichtung einer Containeranlage für den zweigruppigen Hort (Interimslösung) an der Camerloherstr. 110 (Sitzungsvorlagen Nr. 02-08 / V 10230)
+- TOP 9.50.: Beschluss der Vollversammlung vom 18.07.07: Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München (Sitzungsvorlagen Nr. 02-08 / V 10225)
+- TOP 9.51.: Schreiben BA 15 Trudering-Riem vom 15.08.07: Broschüre "Die Münchner Bezirksausschüsse"
+- TOP 9.52.: Domagkateliers; Objektanfrage
+- TOP 9.53.: Schriftverkehr aus der BA-Sitzung vom 24.07.07
