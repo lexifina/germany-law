@@ -1,0 +1,88 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2007-09-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1038634
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1038634
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching - Hasenbergl Widmung von Straßenstrecken der - Reigersbachstraße (Teilstrecke) und des - Adlschalkweges (Gesamtstrecke) und - Barbinger Weges (Gesamtstrecke)
+- TOP 2: (E) Beseitigung der Fahrbahnverengung im Bereich Feldmochinger Straße / Himmelschlüsselstraße Empfehlung Nr. 02-08 / E 00739 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching - Hasenbergl am 22.05.2007
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: Evang.-Luth. Pfarramt Kapernaumkirche; Sommerfest am 21.07.2007
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: Münchner Informationszentrum für Männer e. V.; Konflikttraining in der Eduard-Spranger-Hauptschule
+- TOP 2.5.: Gewährung eines Zuschusses aus dem BA-Budget: Städt. Willy-Brandt-Gesamtschule; Projekt "Leben lernen" im Schuljahr 2007/2008
+- TOP 2.6.: Gewährung eines Zuschusses aus dem BA-Budget: Feldmochinger Rossler e. V.; Feldmochinger Rosstag am 14.10.2007
+- TOP 2.7.: Gewährung eines Zuschusses aus dem BA-Budget: Freizeittreff Lerchenauer; Mobile Spielaktion im August 2007
+- TOP 2.8.: Gewährung eines Zuschusses aus dem BA-Budget: Evangeliumskirche; Personalkosten für die Konzerte 2007
+- TOP 2.9.: Gewährung eines Zuschusses aus dem BA-Budget: Kreisjugendwerk der Arbeiterwohlfahrt München; Teilnahme von Jugendlichen am Jugendwerkstatttreffen in Schwangau
+- TOP 2.10.: Gewährung eines Zuschusses aus dem BA-Budget: SC Lerchenauer See e. V.; 40-Jahr-Feier vom 13. bis 22.07.2007
+- TOP 3.1.: Lösung der Parksituation durch Lkw´s in der Lerchenstraße
+- TOP 3.2.: Aufstellen von zusätzlichen Ruhebänke mit Rückenlehne an der Stockbahn in der Grünanlage an der Eduard-Spranger- / Grundermannstraße
+- TOP 3.3.: Anträge aus der Stadtteilversammlung (vertagt in der Sitzung am 17.07.2007)
+- TOP 3.4.: Umbenennung der Hasenberglstraße
+- TOP 3.5.: Rosstag in Feldmoching - BA 24 Mitveranstalter Mittel aus dem BA-Budget zur Durchführung des Feldmochinger Rosstages
+- TOP 3.6.: S-Bahnhof Fasanerie: Schaffung weiterer Fahrradstellplätze
+- TOP 3.7.: S-Bahnhof Fasanerie: Wiederherstellung des Eingangsbereich
+- TOP 3.8.: Errichtung eines Wochenmarktes auf dem Walter-Sedlmayr-Platz - <div>Vertagung</div>
+- TOP 3.9.: Neues Spielgerät und Einzäunung für den Spielplatz am Skabiosenplatz
+- TOP 3.10.: Einrichtung eines Halteverbots in der Autobahnunterführung Feldmoching-Untermühl
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Entwurf Bebauungsplan mit Grünordnung Nr. 1784 a Auf den Schrederwiesen (westlich), Schroppenwiesenstraße (nördlich), B 304 Dachauer Straße neu (östlich), Autobahnring München-Nord A 99 (südlich) (vertagt in der Sitzung am 17.07.2007)
+- TOP 5.2.: Anhörung im Einzelfall auf Anforderung: a) Auf den Schrederwiesen 14 b) Dachauer Str. 570 c) Onyxplatz 5 - <div>zur Kenntnis genommen</div>
+- TOP 5.3.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007 Entwurf zum Neuerlass einer Stellplatzsatzung für Kraftfahrzeuge (vertagt in der Sitzung am 17.07.2007)
+- TOP 5.4.: Kulturelle Nutzung Nordheide (vertagt in der Sitzung am 17.07.2007)
+- TOP 5.5.: Knospenstraße 26 Sicherung einer Garagenausfahrt
+- TOP 5.6.: Solidaritätsmarsch der Pfarrgem. St. Peter und Paul am 11.11.2007
+- TOP 5.7.: Vollzug der Baumschutzverordnung: a) Sachsenspiegelstr. 9 b) Schneeglöckchenstr. 76 b c) Mitteisstr. 28
+- TOP 5.8.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Lahntalstraße vor dem Anwesen Haus-Nr. 27
+- TOP 5.9.: Änderung der Gemeindeordnung Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse
+- TOP 5.10.: Auf den Schrederwiesen - Vergrößerung der Wendeschleife
+- TOP 5.11.: Neueinteilung der Stimmbezirke bzw. Wahllokale
+- TOP 5.12.: Neubau von Kindertagesstätten in Systembauweise Errichtung einer Kindertagesstätte mit 2 Kindergartengruppen an der Dülferstraße (nördlich)
+- TOP 5.13.: Umstufung einer Teilstrecke des Feld- und Waldweges Nr. 59 nördlich der Heppstraße - <div>Vertagung</div>
+- TOP 5.14.: Zirkusveranstaltung Grünanlage Weitlstraße vom 20.-30.09.2007
+- TOP 5.15.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2008 - 2012 - <div>Vertagung</div>
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/33 Schleißheimer Straße (östlich), bestehendes BMW (Forschungs- und Innovationszentrum (BMW FIZ) (nördlich), - BMW FIZ Erweiterung Nord - (Vorab-Stellungnahme des BA-Vorsitzenden aus Fristgründen) - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Stadtteilsommerfest am Goldschmiedplatz am 15.09.2007 (Vorab-Stellungnahme des BA-Vorsitzenden aus Fristgründen) - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Herstellung der Lerchenstraße im Abschnitt zwischen Herberg- und Josef-Frankl-Straße (BA-Antrag Nr. 2104 vom 15.05.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.4.: Herstellung eines Fuß- und Radweges entlang der Grashofstraße von der Karlsfelder Straße bis mindestens zur Einmündung Heppstraße (BA-Antrag Nr. 2105 vom 15.05.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Bei der Verwirklichung der Planungen für drei neue Gymnasien in München, soll eines davon im Bereich des Virginiadepots an der Schleißheimer Straße errichtet werden (BA-Antrag Nr. 2031 vom 17.04.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.6.: Bebauungsplan mit Grünordnung Nr. 1939a Schleißheimer Straße (östlich), -BMW FIZ Erweiterung Nord - Verkehrliche Machbarkeitsstudie - <div>zur Kenntnis genommen</div>
+- TOP 6.7.: Unveränderte Fortführung eines Gaststättenbetriebes: a) Pilspub bei Claus, Weitlstr. 115 b) Hexeneck, Irisstr. 1 - <div>zur Kenntnis genommen</div>
+- TOP 6.8.: Verkehrsrechtliche Anordnungen: a) Ortskern Feldmoching Umkehr der Einbahnregelung Pfarrer-Kolberer- u. Hammerschmiedstr. b) Auf den Schrederwiesen 71 c, "Achtung Kinder"-Verkehrszeichen - <div>zur Kenntnis genommen</div>
+- TOP 6.9.: Mitteilung über Grundstücksgeschäfte - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Meldelisten Bauvorhaben - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Meldelisten - Baumfällungen - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Vollzug der Baumschutzverordnung bei Bauvorhaben - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Fällung von Gefahrenbäumen - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Meldelisten - Baumaßnahmen der Stadtwerke München - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Beteiligung der Öffentlichkeit Frühzeitige Unterrichtung gemäß § 3 Abs. 1 der Baugesetzbuches (Bau GB) Planungsgebiet: Bebauungsplan mit Grünordnung Nr. 1784 a Auf den Schrederwiesen (westlich), Schroppenwiesenstraße (nördlich), B 304 Dachauer Straße neu (östlich), Autobahnring München-Nord A 99 (südlich) Plandarlegung vom 27.07.2007 mit 07.09.2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Errichtung einer Kindertagesstätte mit 2 Kindergartengruppe an der Dülferstraße (nördlich) - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Änderung des Flächennutzungsplanes mit integrierter Landschaftplanung für den Bereich V/38 Schleißheimer Straße (westlich), Olschewskibogen (südöstlich) Auslegung gemäß § 3Abs. 2 Bau GB und Beteiligung der Behörden gemäß § 4 Abs. 2 BAu GB - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Leistungsprogramm der MVG für die Fahrplanperiode 2008 - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Mehrjahresinvestitionsprogramm für die Jahre 2007 - 2011 mit verbindlicher Palnung für 2012; Unterabschnitte 6300 "Gemeindestraßen" 6600 "Bundes- und Staatsstraßen; Ortsdurchfahrten" 6700 "Straßenbeleuchtung" 6750 "Straßenreinigung" 6800 "Parkscheinautomaten, -uhren, Parkplätze" 6900 "Wasserläufe / Wasserbau" - <div>zur Kenntnis genommen</div>
+- TOP 6.20.: Kindertagesstätten sonstiger Träger; Kindergarten an der Lerchenauer Straße 197 - <div>zur Kenntnis genommen</div>
+- TOP 6.21.: Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München - <div>zur Kenntnis genommen</div>
+- TOP 6.22.: Errichtung eines P+R-Platzes und einer B+R-Anlage am S-Bahnhof Feldmoching - <div>zur Kenntnis genommen</div>
+- TOP 6.23.: Datenblätter Kinderkrippen - <div>zur Kenntnis genommen</div>
+- TOP 6.24.: Nord-West Sammelkanal Abs. VI, Los 1.3 Lückenschluss Karlsfelder Straße bis Heppstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.25.: Herstellung der Hummelblumenstraße in der Zeit von August 2007 bis voraussichtlich Oktober 2008 - <div>zur Kenntnis genommen</div>
+- TOP 6.26.: Parkplätze rund um den Feldmochinger See - <div>zur Kenntnis genommen</div>
+- TOP 6.27.: Straße Am Blütenanger - Fahrbahnsanierung - <div>zur Kenntnis genommen</div>
+- TOP 6.28.: Lärmbelästigung und Müllablagerungen durch Jugendliche in der Franz-Fackler- / Max-Wönner-Str - <div>zur Kenntnis genommen</div>
+- TOP 6.29.: Halteverbot Auf den schrederwieser 12 - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2.: Unterausschuss Jugend, Soziales, Schule, Kultur
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
