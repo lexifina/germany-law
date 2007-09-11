@@ -1,0 +1,57 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2007-09-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1088311
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1088311
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 07.08.2007
+- TOP 2: Anträge
+- TOP 2.1.: Betriebskonzept Bürgersaal Fürstenried
+- TOP 2.2.: Leben am Ratzinger Platz
+- TOP 2.3.: Gebetsräume Ramadan 2007
+- TOP 2.4.: "KITZ" St. Gabriel
+- TOP 3: Unterauschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Vollzug des Bay. Natschutzgesetzes; Novellierung und Erweiterung des bestehenden Landschaftsschutzgebietes "Sportpark der Fa. Siemens südl. der Siemensallee und Waldstück südl. dieses Parkes" zum Landschaftsschutzgebiet "Landschaftspark Isar-Solln"
+- TOP 4.3.: Warnberger Weiher
+- TOP 4.4.: Baubeginnsanzeige Mobilfunk
+- TOP 5: Unterauschuss Verkehr
+- TOP 5.1.: Einmündung Pogner-/ Zennerstraße Sanierung Aufpflasterung
+- TOP 5.2.: Erhöhte Verkehrsgefährdung Solln, Einfahrt Wolfratshausener Straße
+- TOP 5.3.: Aufhebung der zeitl. Befristung am absoluten Haltverbot in der Staffelseestr. 2-8; Anhörung
+- TOP 5.4.: Kurzparkzone Wolfratshausener Str. Höhe HsNr. 189
+- TOP 5.5.: Falschparker Lechnerstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Änderung des Flächennutzungsplanes für den Bereich III / 15 und BPlan mit GrünO Nr. 1544b; Schäftlarnstr. (östl.), Maria-Einsiedel-Str. (östl.), Benediktbeurer Str. (nördl.), Maria-Einsiedel-Mühlbach/ Mühlbach (westl.) und Tierparkstraße (südl.) - Gelände ehem. "Thalkirchener Bahnhof"
+- TOP 6.3.: BPlan mit GrünO Nr. 1739; Verlängerte Stäblistraße (beiderseits) zw. BAB-Anschlussstelle München-Fürstenried und Forstenrieder Allee (Teiländerung des BPlanes Nr. 154)
+- TOP 7: Entscheidungsfälle
+- TOP 7.1.: Erwerb eines Teilstreifens des ehem. Industriebahngleises zw. Aidenbach- und Geisenhauserstraße
+- TOP 7.2.: Errichtung eines Wochenmarktes im Neubaugebiet Obersendling 19. Stadtbezirk - <div></div>
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Umbau Bad Maria-Einsiedel
+- TOP 8.2.: Änderung der GO; Übertragung lfd. Angelegenheiten des OB auf die BAs zur Entscheidung
+- TOP 8.3.: Errichtung einer Werbeanlage 1 hinterleuchtete einseite Vitrine Meglingerstr.
+- TOP 8.4.: Errichtung einer Werbeanlage 2 beleuchtete Plakatanschlagtafeln Meglingerstr.
+- TOP 8.5.: Kanuslalom
+- TOP 8.6.: Gaststättenpächterwechsel "Mama's Finest"
+- TOP 8.7.: Gaststättenpächterwechsel "Café am Tierpark"
+- TOP 8.8.: Antrag auf Zweckentfremdung Grohesseloher Str.
+- TOP 8.9.: Antrag auf Zweckentfremdung Aidenbachstr. 100
+- TOP 8.10.: Antrag auf Zweckentfremdung Hofbrunnstr. 73
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
+- TOP 3: Errichtung eines Wochenmarktes im Neubaugebiet Obersendling 19. Stadtbezirk Thalkirchen-Obersendling- Forstenried-Fürstenried-Solln "Wochenmarkt im Neubaugebiet in Obersendling" Wmpfehlung Nr. 02-08 / E 00691 der Bürgerver- sammlung des Stadtbezirkes 19 - Thalkirchen- Obersendling-Forstenried-Fürstenried-Solln am 29.03.2007 - <div></div>
