@@ -1,0 +1,113 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2007-09-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1056468
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1056468
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Vorstellung einer Künsterfamilie
+- TOP 3.2.: Angebot der Ubahnlinie U4
+- TOP 3.3.: Kühlanlage Fa. Feneberg
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Abschaffung der Kunststoff- und Dosenmülltonnen (bei der Genossenschaft München West) zu Gunsten der Entsorgungsinsel
+- TOP 2: (E) Ruhestörung durch Warenanlieferung zur EDEKA ? Filiale gegenüber Wohnanlage Heimeranstr. 2-6 Empfehlung Nr. 02-08 / E 00699 der Bürgerversammlung des Stadtbezirkes 08 ? Schwanthalerhöhe am 19.04.2007
+- TOP 3: (E) Ziffer 1: Wiederherstellung der Holzapfelstraße Ziffer 2: Sanierung der Schwanthalerstraße zwischen Martin-Greif-Straße und Theresienhöhe Empfehlung Nr. 02-08 / E 00701 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 19.04.2007 - <div>Abweichung von Referentenvorl.</div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Antrag auf Freischankfläche Kazmairstr. 24
+- TOP 5.2.: Antrag auf Warenstellage Bergmannstr. 35a Anhörung bis 15.09.2007
+- TOP 5.3.: Änderung der GO Übertragung laufender Angelegenheiten des OB auf die BAs zur Entscheidung
+- TOP 5.4.: Hotelanfahrtszone; Einrichtung absolute Haltverbotszone Parkstr. 31/31a
+- TOP 5.5.: Antrag auf Warenstellage Astallerstraße 11
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Donnersberger Brücke; Ostseite Instandsetzung de Übergangskonstruktionen im Gehbahnbereich; Verlegung von Spartenleitungen Unterrichtung
+- TOP 6.1.2.: 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 AEG Ergänzung
+- TOP 6.1.3.: Neubau eines Wohnhauses Ligsalzstr. EILT
+- TOP 6.1.4.: Neubau eines Wohngebäudes mit TG Barthstr. 1-17, Landsbergerstr.147-151
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Das Schulreferat trifft die BAs Termine 2008
+- TOP 6.2.2.: Neue Kindertageseinrichtung Bergmannstr. 36 II
+- TOP 6.2.3.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen Kindertageseinrichtung Schnaderböckstr. 4
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.3.1.: Kultur im Stadtquartier; Beschlussvorlage und Stadtratssitzung Information
+- TOP 6.3.2.: Kurzbericht 2. Vorbereitungstreffen Weltkindertag 2007
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Baumfällungen Theresienhöhe Anhörung bis 14.09.2007
+- TOP 6.4.2.: Bündnis Ökologie Leitprojekt 2: Mehr Platz für den Umweltverbund Teilprojekt Stadtviertelkonzept Nahmobilität für den 2. Stadtbezirk Anhörung
+- TOP 6.4.3.: Baumfällung Ligsalzstraße Anhörung
+- TOP 6.4.4.: Straßenbaumaßnahmen im 8. Stadtbezirk Unterrichtung
+- TOP 6.4.5.: Leistungsprogramm der MVG für die Fahrplanperiode 2008 Ergänzung vom 19.06.07
+- TOP 6.4.6.: Baumfällung i.V.m. Bauvorhaben Barthstr. 1
+- TOP 6.4.7.: Spartenanfrage Bavariapark - Sanierung und Arrondierung Entwurfsplanung Stellungnahme bis 10.09.2007
+- TOP 6.4.8.: Theresienhöhe / Bavariaring Umbaumaßnahmen wegen Fahrradweg
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: MIP 2007-2011 mit verbindlicher Planung für 2012 z.K.
+- TOP 6.5.2.: Budgetantrag Städt. Kindertagesstätte in der Bergmannstr. 36 Wen-do-Kurs im Juli 2007
+- TOP 6.5.3.: Budgetantrag Innere Mission München Thekenersatz im alten TREFFAM
+- TOP 6.5.4.: Budgetantrag "Blutende Erde" vom 29.06.2007 für Objektinstallation
+- TOP 6.5.5.: MIP Fortschreibung 2008 -2012 Anhörungsverfahren
+- TOP 7: Erledigungen
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.: Umbau und Umgestaltung im Bereich Ridler-/ Gollier- und Astallerstraße im Rahmen der Fernwärmeverlegung AntragNr. 02-08/B 02075
+- TOP 7.3.: Ligsalzstr. 23; Anfrage des BA bzgl. der ehem. Gaststätte "Ligsalz"
+- TOP 7.4.: Neueinteilung der Stimmbezirke bzw. Wahllokale im Stadtbezirk 8 Änderung der Wahllokale für die Stimmbezirke 0807 und 0812
+- TOP 7.5.: Sinti-Roma-Platz Zwischennachricht
+- TOP 8: Anträge
+- TOP 8.1.: Sanierung Sommerstockbahn auf dem Gollierplatz
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Meldeliste 25.06. - 01.07.07 Erstantragsverfahren a) Ridlerstr. 57
+- TOP 9.2.: Meldeliste 25.06. - 01.07.07 Änderungsverfahren a) Landsberger Str. 143 b) Bergmannstr. 47
+- TOP 9.3.: Meldeliste 02.07. - 08.07.07 Erstantragsverfahren a) Am Bavariapark b) Astallerstr. 11
+- TOP 9.4.: Meldeliste 02.07. - 08.07.07 Änderungsverfahren a) Landsberger Str. 143
+- TOP 9.5.: Meldeliste 16.07. - 22.07.07 Erstantragsverfahren a) Theresienhöhe
+- TOP 9.6.: Meldeliste 23.07. - 29.07.07 Vorbescheid a) Barthstr. 1
+- TOP 9.7.: Meldeliste 30.07. - 05.08.2007 Erstantragsverfahren a) Bergmannstr. 62 b) Landsberer Str. 31
+- TOP 9.8.: Meldeliste 30.07. - 05.08.2007 Änderungsverfahren a) Landsberger Str. 143
+- TOP 9.9.: Meldeliste 06.08. - 12.08.07 Erstantragsverfahren a) Trappentreustr. 5 b) Hans-Dürrmeier-Weg 2
+- TOP 9.10.: Meldeliste 06.08. - 12.08.07 Änderungsverfahren a) Ganghoferstr. 9
+- TOP 9.11.: Meldeliste 13.08. - 19.08.07 Erstantragsverfahren a) Ligsalzstr. 11
+- TOP 9.12.: Meldeliste 20.08. - 26.08.07 Erstantragsverfahren a) Bergmannstr. 62 b) Hans-Dürrmeier-Weg 2
+- TOP 9.13.: Meldeliste 20.08. - 26.08.07 Erstantragsverfahren c) Ganghoferstr. 15
+- TOP 9.14.: Baumaßnahmen SWM Stichtag 09.07.2007
+- TOP 9.15.: Baumaßnahmen der SWM Stichtag 31.07.2007
+- TOP 9.16.: Baumaßnahmen SWM Stichtag 13.08.2007
+- TOP 9.17.: Baumaßnahmen SWM Stichtag 20.08.2007
+- TOP 9.18.: Baumaßnahmen SWM Stichtag 27.08.2007
+- TOP 9.19.: Meldeliste vom 27.08.2007 bis 02.09.2007 Erstantragsverfahren Guldeinstr. 56
+- TOP 9.20.: Bauvorhaben der SWM
+- TOP 10: Verschiedenes
+- TOP 10.1.: Unter dem Pflaster der Strand
+- TOP 10.2.: Einladung an die BAs des Kulturreferenten 20. September 2007, 17-19 Uhr Rückmeldung bis 10.09.2007
+- TOP 10.3.: BA-Broschüre nur mit Zensur?
+- TOP 10.4.: Handbuch Münchner Bezirksausschüsse
+- TOP 10.5.: Stadtratsvorlage "Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO - Vereinsdatenbank und Stadtteilseiten" - Evaluationbeschluss
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Protokoll 06/07
+- TOP 11.2.: Protokoll 07/07
+- TOP 11.3.: Schriftverkehr 06/07
+- TOP 11.4.: Zuwendungsbescheid Budget städt. Kindertagesstätte 10-jähriges Bestehen Antrag vom 31.05.2007
+- TOP 11.5.: Zuwendungsbescheid Budget Kultur nortiert e.V. Ablehung Druck Seniorenzeitung
+- TOP 11.6.: Zuwendungsbescheid Jugendseelsorge im Pfarrverband Westend Antrag vom 11.04.2007
+- TOP 11.7.: Zuwendungsbescheid Budget Romantische Orgelmusik St. Ruppert Antrag vom 05.04.2007
+- TOP 11.8.: Verwendungsnachweis Budget Freundeskreis Maria Heimsuchung Bescheid vom 14.12.2005
+- TOP 11.9.: Verwendungsnachweis Budget Open Westend Bescheid vom 14.12.2006
+- TOP 11.10.: Unveränderte Fortführung von Gaststätten Trappentreustr. 2
+- TOP 11.11.: Unveränderte Fortführung einer Gaststätte Gollierstr. 83
+- TOP 11.12.: Baustelleneinrichtung an der Schießstättstraße Ausnahmebewilligung
+- TOP 11.13.: Infobrief 12 / Juni 2007
+- TOP 11.14.: Beseitigung schienengleicher Bahnübergänge - Gegenwärtiger Stand -
+- TOP 11.15.: Vermeidung von Hundekot in städtischen Grünanlagen und Grünstreifen
+- TOP 11.16.: Ausbau des Mittleren Ringes (B 2 R ) Südwest - Luise-Kiesselbach-Platz - im 7. Stadtbezirk Personalbedarf im BauR und im KVR
+- TOP 11.17.: Schriftverkehr 08/07
+- TOP 11.18.: Helfer für Gottes kostbare Kinder Deutschland e.V. 27.10.2007
+- TOP 11.19.: unveränderte Fortführung von Gaststätten Westendstraße 66
