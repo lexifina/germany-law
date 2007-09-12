@@ -1,0 +1,84 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2007-09-12T17:08:00+02:00
+- Ende: 2007-09-12T21:58:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1438
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1438
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=34966
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - überwiesen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Keine gewaltverherrlichenden Spiele auf bezirkseigenen Computern - überwiesen
+- TOP 5.2: In Berlin kostenlosen Aids-Test wieder anbieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Mehr Sicherheit auf dem Schulweg zur Berta-von-Suttner-Oberschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.4: Tagesmütter für Migrantenfamilien schulen - überwiesen
+- TOP 5.5: Behindertenparkplätze und Fahrradständer am S-Bahnhof Waidmannslust - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Volkshochschulkurs einrichten zum Thema - Elternvertreter - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Barrierefreies Umsteigen am S-Bahnhof Waidmannslust - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Weiterer Zugang an S-Bahnhöfen Alt-Reinickendorf und Karl-Bonhoeffer-Nervenklinik - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Umsetzung der FFH-Richtlinie der EU in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Ausstattung in Reinickendorfer Polizeiabschnitten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Märkisches Viertel an das U-Bahnnetz anschließen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.12: Schutz für Fahrgäste vor Tauben unter der Brücke Wilhelmsruher Damm am S-Bahnhof Wittenau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: MAE für psychisch Kranke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Kürzungen bei der Berliner Feuerwehr und Polizei - überwiesen
+- TOP 5.15: Barrierefreie Zugänge U-Bahnhof Kurt-Schumacher-Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.16: Widersprüche nach dem SGB II schneller bearbeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.17: Handlungsgrundlagen zur Umsetzung von Gender Mainstreaming in allen Bereichen der Verwaltung - überwiesen
+- TOP 5.18: Aufstellung des Bebauungsplanes mit der Bezeichnung 12-17 für Flächen des Güterbahnhofs Hermsdorf sowie für angrenzende Flächen des Bahnhofsvorplatzes im Bezirk Reinickendorf, Ortsteil Hermsdorf - überwiesen
+- TOP 5.19: Bebauungsplanentwurf 12-16 für das Grundstück Gabrielenstraße 13 u.a. im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 5.20: Auswertung der frühzeitigen Bürger- und Behördenbeteiligung nach § 3 Abs. 1 BauGB bzw. nach § 4 Abs. 1 Bau GB für den Bebauungsplan XX-288, Karolinenstraße 18/21 und Tegeler Hafeninsel im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 5.21: Weiterführung des Bebauungsplanentwurfes XX-253 vom 27. April 1999 für die Grundstücke Alt-Wittenau 87-95, Roedernallee 118-118 A, Oranienburger Straße 52-60, eine Teilfläche der Grünanlage Am Nordgraben sowie einen Abschnitt der Straßen Alt-Wittenau, Roedernallee und Oranienburger Straße im Bezirk Reinickendorf, Ortsteil Wittenau mit geänderten Planungszielen - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Steigerung der Leseförderung - beantwortet
+- TOP 6.2: Demografischer Wandel in Reinickendorf - überwiesen
+- TOP 6.2.1: Alternative Wohnformen für Ältere - überwiesen
+- TOP 6.3: Situation an den Reinickendorfer Schulen - vertagt
+- TOP 6.4: Krebserkrankungen in Reinickendorf - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Übertragung einer Kindertagesstätte und der Jugendwerkstatt - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Entwurf des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2008 und 2009 (Doppelhaushalt) - überwiesen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Missstände in Familien unter Beachtung der datenschutzrechtlichen Bestimmungen weiterleiten - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Kontrollen zur Durchsetzung des Jugendschutzes verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Nutzbarkeit der Wilhelm-Blume-Allee für Fußgänger - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Bordsteinkantenhöhe von mindestens 16 cm an Bushaltestellen - erledigt
+- TOP 8.5: Grundschulangebot in Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Grundständiger naturwissenschaftlicher Zug an der Georg-Herwegh-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: PPP-Auswahl von Schulen - erledigt
+- TOP 8.8: Teilnahme von Reinickendorfer Schulen am PPP-Modell - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Detailprüfung von Schulen beim PPP-Modellprojekt - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Teilnahme an PPP - Benennung von Schulen - in der BVV abgelehnt
+- TOP 8.11: Teilnahme von Reinickendorfer Schulen am PPP-Modell - in der BVV abgelehnt
+- TOP 8.12: Einwirkungsmöglichkeit als Mitglied der ARGE in der Trägerversammlung - Arbeitsbeschaffungsmaßnahmen - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Mahnmal in Frohnau/Glienicke - überwiesen
+- TOP 10.2: Rathausgalerie für couragiertes Eintreten gegen Gewalt gegenüber schwulen Männern nutzen! - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Neugründungen von Schulbüchereien - überwiesen
+- TOP 10.4: Aufklärung und Schutz - Kondomautomaten in Reinickendorfer Oberschulen und Jugendfreizeiteinrichtungen - überwiesen
+- TOP 10.5: Vermeidung von Wurzeldruck - überwiesen
+- TOP 10.6: Reinickendorfer Seniorenvertretung stärken - überwiesen
+- TOP 10.7: Beiräte im Bezirk - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Anpassung des Jagdrechts - überwiesen
+- TOP 11.2: Beschilderung im Wald - überwiesen
+- TOP 11.3: Reitwege im Wald - überwiesen
+- TOP 11.4: Bezirkliche Beratungs-Gremien - Aufwandsersatz - - überwiesen
+- TOP 11.5: Beeinträchtigungen durch Gewerbegebiet Lübarser Straße - überwiesen
+- TOP 12: Haltung zu Schwulen und Lesben und zu BVV-Beschlüssen klar stellen! - vertagt
+- TOP 13: Wegen des Brandschutzes keine Country-Messe in Reinickendorf? - beantwortet
+- TOP 14: Verlust der Country-Messe in Reinickendorf - beantwortet
+- TOP 15: Keine Fahnen von politischen Parteien vor dem Rathaus Reinickendorf hissen! - erledigt
+- TOP 15.1: Keine Fahnen von politischen Parteien und deren Vorfeldorganisationen vor dem Rathaus Reinickendorf hissen! - ohne Änderungen in der BVV beschlossen
