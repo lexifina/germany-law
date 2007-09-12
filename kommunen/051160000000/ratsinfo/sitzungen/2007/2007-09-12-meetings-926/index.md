@@ -1,0 +1,56 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2007-09-12T15:00:00+02:00
+- Ende: 2007-09-12T00:00:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/926
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/926
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022193.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022193.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022193.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Kenntnisnahme
+- TOP 2: Einbringung des Etatentwurfs 2008 - Kenntnisnahme
+- TOP 3: Neubau- / Sanierungsmaßnahme Stadtbad Rheydt - Zur Kenntnis genommen
+- TOP 4: Krankenversorgung - Zur Kenntnis genommen
+- TOP 5: Reduzierung der Zahl der Stadtbezirke - Zur Kenntnis genommen
+- TOP 6: Gesellschafterversammlung EWMG - Zur Kenntnis genommen
+- TOP 7: Erhöhung des Kassenkreditbetrages - Zur Kenntnis genommen
+- TOP 8: Über- und außerplanm. Ausgaben des HJ 2007 - Zur Kenntnis genommen
+- TOP 9: Kanalanschlussleitungen - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 10: Verordnung Offenhalten Verkaufsstellen 02.12.2007 - Zur Kenntnis genommen
+- TOP 11: VO Offenhalten Verkaufsstellen 04.11. und 16.12.07 - Zur Kenntnis genommen
+- TOP 12: Grundschulverbund KGS Broich u. KGS Will-Sommer - Einstimmiger Beschluss
+- TOP 13: Auslaufende Auflösung der Franziskusschule - Einstimmiger Beschluss
+- TOP 14: Anpassung von Regelzügigkeiten - Einstimmiger Beschluss
+- TOP 15: Umsetzung des Förderprogramms IZBB - Einstimmiger Beschluss
+- TOP 16: Mittagsverpflegung an Schulen - Einstimmiger Beschluss
+- TOP 17: Berufung eines stellvertretenden Mitglieds - Einstimmiger Beschluss
+- TOP 18: Tarif des Städtischen Museums Abteiberg - Zur Kenntnis genommen
+- TOP 19: Hilfen zur Erziehung - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 20: Benennung einer Erschließungsstraße im Bereich des - Einstimmiger Beschluss
+- TOP 21: 174. Änderung des Flächennutzungsplanes - Zur Kenntnis genommen
+- TOP 22: 175. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 23: 177. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 24: 38. Nachtrag zur Entwässerungssatzung - Einstimmiger Beschluss
+- TOP 25: Bebauungsplan Nr. 662/III - Stadtbezirk Stadtmitte - Einstimmiger Beschluss
+- TOP 26: Bebauungsplan Nr. 660/III - Stadtbezirk Stadtmitte - Zur Kenntnis genommen
+- TOP 27: Bebauungsplan Nr. 670/III - Stadtbezirk Stadtmitte - Mit Stimmenmehrheit beschlossen
+- TOP 28: 1. Änderung des Bebauungsplanes Nr. 650/III - Einstimmiger Beschluss
+- TOP 29: Veränderungssperre in Mönchengladbach (Gebiet Wald - Einstimmiger Beschluss
+- TOP 30: Satzung - Einstimmiger Beschluss
+- TOP 31: Erschließungsbeiträge Tomp - Zur Kenntnis genommen
+- TOP 32: Umbesetzung von Ausschüssen - Einstimmiger Beschluss
+- TOP 33: Umbesetzung von Ausschüssen und Gremien - Einstimmiger Beschluss
+- TOP 34: Vorisitz im Kulturausschuss - Kenntnisnahme
+- TOP 35: Auswirkungen Entwurf Kinderbildungsgesetz - An den Fachausschuss verwiesen
+- TOP 36: Auflösung der EWMG - Mit Stimmengleichheit abgelehnt
+- TOP 37: Stellvertretende Mitglieder im Aufsichtsrat EWMG - Einstimmiger Beschluss
+- TOP 38: Wirtschaftsförderung - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Anfragen
