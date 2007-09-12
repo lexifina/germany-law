@@ -1,0 +1,8 @@
+# TOP 7: Erhöhung des Kassenkreditbetrages
+
+- Sitzung: Rat (2007-09-12)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/108519
+- Ergebnis: Zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/6903
