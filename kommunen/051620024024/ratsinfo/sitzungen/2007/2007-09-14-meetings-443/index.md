@@ -1,0 +1,65 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2007-09-14T16:05:00+02:00
+- Ende: 2007-09-14T21:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/443
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/443
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Modellversuch zur einheitlichen Telefonnummer 115 (RAT140907-05617.doc)
+- TOP 2: Beratung Rennbahn: Realisierung „Variante B+“ (RAT140907-05659.doc)
+- TOP 3: Beratung Rennbahn
+- TOP 4: Genehmigung der Tagesordnung
+- TOP 5: Gen. DE Nr. 82 betr.: Errichtung einer Grundschule in Neuss-Allerheiligen zum 01.08.2008 ( Bescheid der Bezirksregierung Düsseldorf vom 07.08.2007) Entscheid. ü. das Ergebnis des Abstimmungsverf. zur Bestimmung der Schulart
+- TOP 6: Einwohnerfragestunde
+- TOP 7: Gebühren 2008 für den Bereich Abfallentsorgung (RAT140907-05643.doc)
+- TOP 8: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 9: Bürgerstiftung
+- TOP 10: Einführung und Verpflichtung von Stadtverordneten
+- TOP 11: Sanierung des Hauptstraßenzugs
+- TOP 12: Bebauungsplan Nr. 110/9 - Pomona, Konrad-Adenauer-Ring- - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 13: Vorhaben- und Erschließungsplan Nr. V127/3 - Nahversorgungsmarkt Gielenstraße/Hermannsplatz - (Vorhaben bezogener Bebauungsplan) - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 14: Überplanmäßige Ausgaben für den Bereich Partnerschaften (HA050907-05493.doc)
+- TOP 15: Einzelhandelskonzept: Festlegung der zentralen Versorgungsbereiche (Haupt- und Nebenzentren) (HA050907-05518.doc)
+- TOP 16: Bebauungsplan Nr. 448 - Furth-Süd, Zufuhrstraße/Karl-Arnold-Straße - - Entwurfsvorlage - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 17: Bebauungsplan Nr. 451 - Augustinusviertel, Nordkanalalle (St.-Josef-Krankenhaus) - - Ergänzung des Grundsatzbeschlusses
+- TOP 18: Antrag auf Einleitung eines Satzungsverfahrens für einen Vorhaben bezogenen Bebauungsplan zu einem Vorhaben- und Erschließungsplan für den Bereich des ehemaligen Marianums - Grundsatzbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und ...
+- TOP 19: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 20: Feststellung der Eröffnungsbilanz Feststellung des Jahresabschlusses zum 31.12.2006 der Städtischen Friedhöfe Neuss und Beschluss über die Verwendung des Jahresgewinns (AUG110907-05326.doc)
+- TOP 21: Straßenbegleitgrün zum Bebauungsplan Nr. 390, Stadionviertel, Quaxpfad/Konrad-Adenauer-Ring – Straße Quaxpfad – (Planstraße Internationale Schule) 1. Bauabschnitt (AUG110907-05468.doc)
+- TOP 22: Bebauungsplan Nr. 207/4 - Rheinpark-Center, Görlitzer Straße - - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 23: Bebauungsplan Nr. 325 - Norf, Stiegergasse - - Entwurfsvorlage - erneuter Aufstellungsbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 24: Bebauungsplan Nr. 219 - Hessentor - (Teilaufhebung im Bereich Busbahnhof) - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 25: Flächennutzungsplanänderung Nr. 110 - Pomona, Vossenacker Straße - - Beschluss über die Stellungnahmen - Beschluss über die FNP-Änderung - Einholung der Genehmigung
+- TOP 26: Vorhaben- und Erschließungsplan Nr. V405/1 - Allerheiligen, Am Kirchenmorgen (Bau- und Gartenmarkt) - (Vorhaben bezogener Bebauungsplan) - Bericht über die frühzeitige Unterrichtung der Öffentlichkeit und ... - Auslegungsbeschluss
+- TOP 27: Bebauungsplan Nr. 436 - Pomona, Vossenacker Straße - - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 28: Konzept zur Neustrukturierung des Stadtmarketings (HA050907-05547.doc)
+- TOP 29: Tagesbetreuung von Kindern – Fortschreibung der Bedarfsplanung (JHA150507-05096.doc)
+- TOP 30: Neuregelung der Ausgabe Schwimmkarten (JHA150507-05199.doc)
+- TOP 31: Städtepartnerschaft mit der türkischen Stadt Nev?ehir
+- TOP 32: Regionalplanänderung Nr. 51 - Änderung der Vorgaben zur Rohstoffsicherung und -gewinnung - - Stellungnahme der Stadt Neuss im Verfahren
+- TOP 33: Mensen in städtischen Gymnasien (SCH110907-05597)
+- TOP 34: Vertretung der Stadt Neuss in Drittgremien hier: Kuratorium der Stiftung Sport der Sparkasse Neuss und des Rhein-Kreises Neuss (RAT140907-05412.doc)
+- TOP 35: Straßenbegleitgrün zum Bebauungsplan Nr. 387, Furth-Nord, nördliche Feldstraße (AUG110907-05469.doc)
+- TOP 36: Hochwassersperrwerk Hafen -Dienstreisegenehmigung für eine Informationsfahrt von Mitgliedern des Bauausschusses zu der Lloydt-Werft Bremerhaven- (RAT140907-05564.doc)
+- TOP 37: Bebauungsplan Nr. 434/1 - Uedesheim, Tucherstraße (West) - - Grundsatzbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 38: Flächennutzungsplanänderung Nr. 113 - Allerheiligen, Bau-/Heimwerker- und Gartenmarkt - - Bericht über die frühzeitige Unterrichtung der Öffentlichkeit und die frühzeitige Beteiligung der Behörden ... - Auslegungsbeschluss
+- TOP 39: Zuschuss für das jüdische Gemeindezentrum (RAT140907-05610.doc)
+- TOP 40: Kindertageseinrichtung im Barbaraviertel (JHA060907- 05522.doc)
+- TOP 41: Trägerwechsel Kindertageseinrichtung Tulpenstraße, Neuss-Reuschenberg (JHA060907- 05523.doc)
+- TOP 42: Beachtung des Künstlersozialversicherungsgesetzes (RAT140907-05618.doc)
+- TOP 43: Verwaltungsgerichtliches Verfahren Bürgermeister Herbert Napp ./. Stadt Neuss (RAT140907-05583.doc)
+- TOP 44: Statusbericht zur VHS und Musikschule (RAT140907-05614.doc)
+- TOP 45: Städtefreundschaft mit der türkischen Stadt Bolu
+- TOP 46: Bericht an das Innenministerium über die Erfahrungen mit dem Integrationsrat (RAT140907-05552.doc)
+- TOP 47: Anordnung des Umlegungsverfahrens Nr. 177, Norf, Stiegergasse (RAT140907-05573.doc)
+- TOP 48: Berichterstattung der Verwaltung zum Beschluss des Rates vom 14.06.2006 bez. „Hilfe bei Wohnproblemen/Einrichtung einer zentralen Fachstelle“ (RAT140907-05616.doc)
+- TOP 49: Einwohnerfragestunde
+- TOP 50: Dienstreisegenehmigung für Stadtverordnete zur Exporeal in München 2007 (RAT 140907-05622.doc)
+- TOP 51: Dienstreisegenehmigung – Städtefreundschaft mit Bolu/Türkei (RAT140907-05606.doc)
