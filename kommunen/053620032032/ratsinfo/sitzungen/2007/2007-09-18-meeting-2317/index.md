@@ -1,0 +1,65 @@
+# Stadtrat (21. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2007-09-18T17:00:00+02:00
+- Ende: 2007-09-18T18:17:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSlOr0DjXh1ctghAcR053tE
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/2317
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZRWjTLYc5-LDu6SCVPVGvNJDdHq9IfctqlJYuGE0UmR2/Bekanntmachung_Stadtrat_18.09.2007.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZW4CReQImRhOmbomx5QY7xEPcJ1UnPNAH1-BsDg37C-5/Oeffentliche_Niederschrift_Stadtrat_18.09.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung und Verpflichtung der neuen Stadtverordneten Gisela Hiecker
+- TOP 2.: Umbesetzung von Ausschüssen und Gremien
+- TOP 2.1: Umbesetzung des Schulausschusses; hier: beratende Mitgliedschaft der Grundschulen der Stadt Kerpen
+- TOP 2.2: Umbesetzung des Ausschusses für Soziales und Integration hier: Antrag der CDU-Fraktion
+- TOP 2.3: Umbesetzung von Ausschüssen hier: Antrag der SPD-Fraktion
+- TOP 3.: Erlass von Ortsrecht
+- TOP 3.1: Satzung der Stadt Kerpen über die Benutzung der Schulbibliotheken in der Europaschule und im Schulzentrum Horrem/Sindorf
+- TOP 4.: Stadtentwicklung und Bauleitplanung
+- TOP 4.1: 55. Änderung des Flächennutzungsplanes "Visteonstraße", Stadtteil Sindorf hier: Wirksamkeitsbeschluss
+- TOP 4.2: Bebauungsplan SI 316 "Kreisverkehrsplatz Visteonstraße/Europaring", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10(1) BauGB
+- TOP 4.3: 58. Änderung des Flächennutzungsplanes "Immissionsschutzwall Buir" im Stadtteil Buir hier: Aufstellungsbeschluss zum Änderungsverfahren gem. § 2 BauGB
+- TOP 4.4: Bebauungsplan BU Nr. 326 „Immissionsschutzwall Buir“, Stadtteil Buir hier: Aufstellungsbeschluss gemäß § 2 (1) BauGB
+- TOP 4.5: Bebauungsplan BA 325 "Am Kapellchen" Stadtteil Balkhausen hier:A Beschluss zur Aufstellung des Bebauungsplanes gem. § 13 a BauGB B Beschluss von der frühzeitigen Unterrichtung und Erörterung gem. § 13 (2) BauGB abzusehen C Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB
+- TOP 4.6: Vorhabenbezogener Bebauungsplan KE 267 B "Stiftsstraße/Filzengraben" Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 4.7: 1. Änderung des Kontraktes über Wohnbaulandentwicklung in der Stadt Kerpen vom 05.09.2005
+- TOP 5.: Schulangelegenheiten
+- TOP 5.1: Schulentwicklungsplanung
+- TOP 5.2: Umwandlung der Adolf-Kolping-Schule in eine gebundene Ganztagsschule
+- TOP 6.: Haushaltsangelegenheiten
+- TOP 6.1: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen II. Quartal 2007
+- TOP 6.2: Bekanntgabe der unerheblichen über- und außerplanmäßigen Ausgaben gem. § 82 Abs. 1 GO NW in der Zeit vom 01.04. bis 30.06.2007
+- TOP 6.3: Beschluss des Stadtrates über die vom Rechnungsprüfungsausschuss geprüfte Jahresrechnung für das Haushaltsjahr 2005 und die Entlastung der Bürgermeisterin gem. § 94 Abs. 1 GO NW
+- TOP 7.: Stellenplanangelegenheiten
+- TOP 7.1: Stellenplan 2007 hier: Erhöhung von Stundenanteilen in städtischen Kindertageseinrichtungen
+- TOP 7.2: Stellenplan 2007 hier: Erhöhung des Stellenanteils der Stelle 90000073, Abt. 24.3, Hochbau
+- TOP 7.3: Stellenplan 2007 hier: Erhöhung des Stellenanteils der Stelle 90000482, Abt. 22.1
+- TOP 7.4: Stellenplan 2008 hier: Verlängerung Befristung Stelle 90000435, Ingenieur/in Hochbau, Abt. 24.3
+- TOP 8.: Verkehrssicherungspflicht bei Waldbeständen
+- TOP 9.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 9.1: Stellenplan 2007 hier: Einrichtung von 7,5 zusätzlichen Stellen für die ARGE Rhein-Erft, Geschäftsstelle Kerpen, befristet bis zum 31.12.2009
+- TOP 10.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 11.: Mitteilungen
+- TOP 11.1: 10 Jahre Städtepartnerschaft Kerpen - Oswiecim
+- TOP 11.2: Schloss Türnich
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 12.1: Verträge über Müllentsorgung und Gebühren in der Stadt Kerpen
+- TOP 12.2: Biogasanlage Sindorf
+- TOP 12.3: Vermessungs- und Trassierungsarbeiten in Geilrath
+- TOP 13.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 14.: Öffentlich-rechtlicher Bebauungsplan BA 325 "Am Kapellchen", hier: Abschluss eines Städtebaulichen Vertrages
+- TOP 15.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 16.: Mitteilungen
+- TOP 17.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 17.1: Verkauf "Grünes Warenhaus" an Deutsch-Arabischen Kulturverein
+- TOP 17.2: Schloss Türnich
+- TOP 17.3: Schlosskonzert in Türnich
+- TOP 18.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
