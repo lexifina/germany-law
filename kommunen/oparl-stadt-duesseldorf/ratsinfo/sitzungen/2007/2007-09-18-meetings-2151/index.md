@@ -1,0 +1,57 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-09-18T16:00:00+02:00
+- Ende: 2007-09-18T18:20:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2151
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2151
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096681.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096681.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096681.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift 6/2007 - zur Kenntnis genommen
+- TOP 3: Düsseldorf - gemeinsam aktiv für das Alter - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Quartiersplatz Einbrungen - zur Kenntnis genommen
+- TOP 8: B-Plan Nr. 5282/018 - Niederrheinstraße - zur Kenntnis genommen
+- TOP 9: Umbau der Stadtbahnhaltestelle Kalkumer Schloßallee
+- TOP 10: Stadtbahnhaltestelle Freiligrathplatz - Baumfällungen - zur Kenntnis genommen
+- TOP 11: Niederrheinstraße - Herstellung der Nebenanlagen - zur Kenntnis genommen
+- TOP 12: Zuschuss an den Baseball- und Softballclub A.R.T. Düsseldorf-Bandits - zur Kenntnis genommen
+- TOP 13: Änderungssatzung - zur Kenntnis genommen
+- TOP 14: Waldorfschule Angermund - Verkehrskonzept - zur Kenntnis genommen
+- TOP 15: Duisburger Landstraße - Radweg - zur Kenntnis genommen
+- TOP 16: Kinderspielplatz Klemensplatz - zur Kenntnis genommen
+- TOP 17: Bauflächen 2007 für das Wohnen - zur Kenntnis genommen
+- TOP 18: Wittlaer - Sporthalle - zur Kenntnis genommen
+- TOP 19: Angermund - Radwege - zur Kenntnis genommen
+- TOP 20: Leuchtenberger Kirchweg - Parken - zur Kenntnis genommen
+- TOP 21: Werbetafel - zur Kenntnis genommen
+- TOP 22: Schloß Kalkum - Park - zur Kenntnis genommen
+- TOP 23: Schloß Kalkum - Nutzung für die Bürgerschaft - zur Kenntnis genommen
+- TOP 24: Fußweg Bockumer Straße (Hausnummern 221/223) zum Rhein - zur Kenntnis genommen
+- TOP 25: Max-Clarenbach-Weg - Wegezustand/Grünschnitt - zur Kenntnis genommen
+- TOP 26: Städtebauliche Entwicklung im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 27: Am Mühlendamm - Bäume - zur Kenntnis genommen
+- TOP 28: Kaiserswerth - Schützenplatz - zur Kenntnis genommen
+- TOP 29: Ausleuchtung Klemensbrücke - zur Kenntnis genommen
+- TOP 30: Bilkrather Weg - Lärmschutz - zur Kenntnis genommen
+- TOP 31: Klemensplatz-West - Kettenpfosten und Zebrastreifen - zur Kenntnis genommen
+- TOP 32: Verkehrsknoten Kalkumer Schloßallee - zur Kenntnis genommen
+- TOP 33: Stellungnahmen und Mitteilungen - zur Kenntnis genommen
+- TOP 34: Veröffentlichung Broschüren - zur Kenntnis genommen
+- TOP 35: Haushaltsplanentwurf 2008 - zur Kenntnis genommen
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: Aufstellung einer Skulptur von Friederich Werthmann auf dem Kreisverkehr Niederrheinstraße/Ecke Kittelbachstraße, Düsseldorf- Kaiserswerth - zur Kenntnis genommen
+- TOP 40: Leuchtenberger Kirchweg o. Nr. - zur Kenntnis genommen
