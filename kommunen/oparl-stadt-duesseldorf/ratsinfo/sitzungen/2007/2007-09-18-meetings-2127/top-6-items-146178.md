@@ -1,0 +1,7 @@
+# TOP 6: Integrationsagenturen im Stadtbezirk 3
+
+- Sitzung: Bezirksvertretung 3 (2007-09-18)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/146178
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/40405
