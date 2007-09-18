@@ -1,0 +1,107 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2007-09-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1020456
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1020456
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Verkehrsberuhigung Klausener Platz
+- TOP 2.2.: Lola Montez Haus, Menterschwaige / Isarhochufer, 81545 München; Schreiben des Rechtsanwalts vom 07.08.2007; zu 2.1.2.2 Abgabenachricht an das KVR vom 08.08.2007 und Antwortschreiben des KVR vom 14.08.2007
+- TOP 2.3.: Beschwerde wegen Lärmbelästigung durch Livemusik im Biergarten Siebenbrunn; Bürgerschreiben vom 07.08.07; zu 2.1.2.3 Antwortschreiben des KVR vom 14.08.07
+- TOP 2.4.: Säbener Straße (ab Wettersteinplatz) - Halteverbotsschilder; Bürgerschreiben vom 23.07.07 zu 2.1.2.4 Bürgerschreiben an das KVR vom 11.07.07
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.1.: eventuelle Patenschaftsübernahme und Namensfindung für neugeborenen Ozelot im Tierpark Hellabrunn
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Die Färberei, für die Maßnahme: Graffitiprojekt am Wörnbrunner Platz; Antragssumme: 600,-- ?; Beschlussvorlage des Direktoriums vom 04.07.2007
+- TOP 3.2.: AntragstellerIn: Haus an der Pistorinistraße, KMFV, für die Maßnahme: Ausstattung der Verkaufsstelle; Antragssumme: 6.500,-- ?; Beschlussvorlage des Direktoriums vom 18.07.07
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Kindergarten Hänsel & Gretel e.V.; Verwendungsnachweis über den gewährten Zuschuss für die 50-Jahr-Feier; Zuleitung vom 06.08.07
+- TOP 3.2.: Bericht des Alten- und Service-Zentrums Untergiesing zur Bezuschussung des Sommerfestes am 14.06.2007 durch den BA 18; Schreiben vom 31.07.07
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Sachsenstraße; Pkw-Positivbeschilderung; BA-Antrags-Nr. 02-08 / B 02185; Zuleitung des KVR vom 19.07.2007 mit der Bitte um Kenntnisnahme
+- TOP 3.2.: "Das älteste Würstlstandl von München", Schyrenplatz; Antrag u. a. auf einen dauerhaften Pkw-Stellplatz; Schreiben des BA 18 vom 29.06.07; Antwortschreiben des KVR vom 10.07.07
+- TOP 3.1.: Mehrjahresinvestitionsprogramm für die Jahre 2007 - 2011 mit verbindlicher Planung für 2012; Unterabschnitte 6300 "Gemeindestraßen" 6600 "Bundes- und Staatsstraßen; Ortsdurchfahrten" 6700 "Straßenbeleuchtung" 6750 "Straßenreinigung" 6800 "Parkscheinautomaten, -uhren, Parkplätze" 6900 "Wasserläufe / Wasserbau"; Sitzungsvorlage Nr. 02-08 / V 10086; Beschluss des Bauausschusses vom 12.06.07 (VB)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: 18. Stadtbezirk, städt. Flst. 12763, Sektion VII, Tierparkstraße 37; Auslichtung u. Pflege des verwilderten Grundstücks; Zuleitung des Kommunalreferats vom 21.08.07 mit der Bitte um Rückäußerung
+- TOP 3.1.: Aufstellung von Papierkörben in Untergiesing, Sachsenstraße und Hans-Mielich-Platz; BA-Antrags-Nr. 02-08 / B 02186 des BA 18 vom 15.05.07; Antwortschreiben des Baureferats vom 03.08.07
+- TOP 3.2.: "Ramadama"-Aktion im 18. Stadtbezirk; BA-Antrags-Nr. 02-08 / B 02093 des BA 18 vom 17.04.07 und 15.05.07; Antwortschreiben des Baureferats-Gartenbau vom 09.08.07
+- TOP 3.3.: Verlängerung der Lärmschutzeinhausung der Candidauffahrt über die Gerhardstraße hinaus; BA-Antrags-Nr. 02-08 / B 02094 des BA 18 vom 17.04.07; Zwischennachricht des Baureferats vom 27.06.07
+- TOP 3.1.: Forstbetriebsorganisation bei den Bayerischen Staatsforsten; Schreiben der Bayerische Staatsforsten AöR vom 06.07.07
+- TOP 3.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen in der Vierheiligstraße; Bescheinigung vom 03.07.07 3.3.6.2.2 Anwesen in der Pechdellerstraße; Bescheinigung vom 02.08.07 3.3.6.2.3 Anwesen in der Alois-Wohlmuth-Str; Bescheid vom 24.08.07
+- TOP 3.3.: Mobilfunk; Suchkreismeldung Neuharlaching_3G; Information des Referates für Gesundheit und Umwelt vom 27.07.07
+- TOP 3.1.: Baumfällungen im Einzelantragsverfahren; Umwandlungen der Unterrichtungsverfahren in Anhörungsverfahren; Verstoß gegen die Bezirksausschuss-Satzung vom 24.01.2007; Az.: 5.1-2007-59378-5; Schreiben der Unteren Naturschutzbehörde vom 26.07.2007
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Ausschluss von Kindern aus Spielgruppe in einem Kindergarten; Schreiben des BA 18 vom 01.06.2007; Antwortschreiben der 2. Bürgermeisterin vom 19.07.07
+- TOP 3.2.: Ausweisung einer Ersatzfläche für Infrastrukturmaßnahmen (Kinderbetreuungseinrichtung) im Stadtteil Harlaching (nach Verkauf des Stadtwerke-Grundstücks Ecke Nauplia-/St.-Magnus-Straße); Antrag des BA 18 02-08 / B 02173 vom 15.05.2007; Antwortschreiben des Referates für Stadtplanung u. Bauordnung vom 30.08.07
+- TOP 3.1.: Vollzug des BayKiBiG; Bescheid des Schul- und Kultusreferates vom 22.08.07 über die Anerkennung von Plätzen in der Kindertageseinrichtung Gerhardstraße
+- TOP 3.2.: Investitionskostenförderung gem. Art. 27 BayKiBiG; Kinderkrippe Kühbachstraße 7 (Zwergerlhaus e.V.) mit 30 Kinderkrippenplätzen; Umbau bestehender Räume; Beschluss des Kinder- und Jugendhilfeausschusses vom 18.09.07 (SB); Sitzungsvorlage Nr. 02-08 / V 10490
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Antrag auf Genehmigung einer Warenstellage (Art. 18 Abs. 1 BayStrWG) am Anwesen Pilgersheimer Straße; Zuleitung des KVR vom 16.08.07 mit der Bitte um Stellungnahme bis 01.10.2007
+- TOP 3.2.: Antrag auf Genehmigung einer Warenstellage (Art. 18 Abs. 1 BayStrWG) am Anwesen Humboldtstraße; Zuleitung des KVR vom 09.08.07 mit der Bitte um Stellungnahme bis 20.09.2007
+- TOP 3.3.: "Soziale Stadt" 2007 a) Stand der Umsetzung des Programms "Soziale Stadt" in den Sanierungsgebieten am Mittleren Ring Südost, "Tegernseer Landstraße" / Chiemgaustraße" und "Innsbrucker Ring / Baumkirchner Straße" b) weitere Beauftragung der Quartiersmangagements c) Städtebauförderung Stadtbezirke 14 Berg am Laim, 16 Ramersdorf - Perlach, 17 Obergiesing, 18 Untergiesing - Harlaching ; Sitzungsvorlagen Nr. 02-08/V; Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2007 (VB); Zuleitung des Referates für Stadtplanung u. Bauordnung mit der Bitte um Stellungnahme
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Zustand des Parkplatzes nahe der Thalkirchner Brücke; Schreiben des BA 18 vom 26.09.06 und 14.08.07; Antwortschreiben der Münchner Tierpark Hellabrunn AG vom 03.09.07
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW "Harlachinger Einkehr", Karolinger Allee; Mitteilung vom 07.08.07 3.5.6.2.2 SSW "C 2", Grünwalder Straße; Mitteilung vom 07.08.07 3.5.6.2.3 SSW "Mond und Sterne", Pilgersheimer Straße; Mitteilung vom 07.08.07
+- TOP 3.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; hier: Defreggerstraße; Zuleitung des Sozialreferats vom 16.08.07 mit der Bitte um Kenntnisnahme
+- TOP 3.4.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; hier: Griechenstraße 28; Zuleitung des Sozialreferates vom 03.07.07 mit der Bitte um Kenntnisnahme
+- TOP 3.5.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; hier: Kastenseestraße; Zuleitung des Sozialreferats vom 09.07.07 mit der Bitte um Kenntnisnahme
+- TOP 3.6.: Instandsetzung der Stützmauer / Hangsicherung am Harlachinger Berg (Tierpark Hellabrunn) - Information zum Ausführungszeitraum -; Schreiben des Baureferats vom 19.07.07
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: öffentlich-rechtliche Sondernutzungserlaubnis nach Art. 18 BayStrWG für Märkte sowie Festsetzung einer Veranstaltung gem. § 69 GewO; hier: Mangfallplatz Christkindlmarkt vom 30.11.07 bis 02.12.07; Zuleitung des KVR vom 13.08.07 mit der Bitte um Stellungnahme bis 28.09.07
+- TOP 3.2.: Veranstaltung in einer städtischen Grünanlage; hier: Isarauen - nähe Flauchersteg, Isarflimmern - Freilichttheater von Juni - August 2008!!!; Zuleitung des KVR vom 14.08.07 mit der Bitte um Stellungnahme bis 28.09.07
+- TOP 3.3.: Veranstaltung in einer städtischen Grünanlage vom 01. - 05.11.07; hier: Kinderzirkus Baldoni im Vollmarkpark, Naupliastraße; Zuleitung des KVR vom 22.08.07 mit der Bitte um Stellungnahme bis 05.10.07
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Neueinteilung der Stimmbezirke bzw. Wahllokale; Zuleitung des KVR vom 01.08.07 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2008 - 2012; Anhörungsverfahren; Zuleitung der Stadtkämmerei vom 27.08.07 mit der Bitte um Stellungnahme bis 29.10.07
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Sanierung des Schyrenbades - ungünstige Umkleidesituation; Bürgeranliegen aus der Sitzung des BA 18 am 19.06.2007; Antwortschreiben der Stadtwerke München GmbH vom 31.07.2007
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Änderung von Artikel 60 Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse; Az.: D-HA II/V 1 110-10/4-07/1; Zuleitung des Direktoriums vom 12.07.07 (siehe hierzu auch TOP 4.3.2)
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
