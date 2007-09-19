@@ -1,0 +1,145 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2007-09-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1077369
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1077369
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Bahnlärm in der Lichtenfelserstraße
+- TOP 2.2.: Fußweg Langwieder Hauptstraße zur Giggenbachstraße
+- TOP 2.3.: Bedrohung von Ausländern in der S-Bahn
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Ehemaliges Gleislager Neuaubing (vertagt aus 07/07)
+- TOP 4.2.: Verbesserung des Services an der Postdienststelle Limesstraße
+- TOP 4.3.: Aufhebung der Umleitungsbeschilderung für Schwerlastverkehr über die Aubing-Ost-Straße
+- TOP 4.4.: Entwässerung der Grundstücke beiderseits der Langwieder Hauptstraße
+- TOP 4.5.: Sanierung des Gehweges und der Fahrbahn in der Waidachanger Straße
+- TOP 4.6.: Klärung der Situation des Gebäudes Altostr. 16
+- TOP 4.7.: Einzelhandelskonzept für den 22. Stadtbezirk
+- TOP 4.8.: Friedhof Aubing
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Familienhalt GmbH Kinderkrippe Krabbeleck
+- TOP 5.2.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: ESV-Sportfreunde München-Neuaubing e.V.
+- TOP 5.3.: Glascontainer Standort Aufseßer Platz; Lärmdämmung bzw. Lärmschutzwand (Ziffer 1 des Antrags)
+- TOP 5.4.: Antrag auf Genehmigung eines Zuschusses aus dem Budget des BA 22, Antragsteller: SV Aubing - Jugendabteilung
+- TOP 5.5.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Freunde der Freiwilligen Feuerwehr Aubing e.V.
+- TOP 5.6.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Eltern-Initiativ-Kindergarten Wurzelzwerge e.V.
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: Verkehrsrechtliche Anordnung, Haltverbot Am Aubinger Wasserturm (vertagt aus 07/07)
+- TOP 6.3.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007, Entwurf zum Neuerlass einer Stellplatzsatzung für Kraftfahrzeuge (vertagt aus 07/07)
+- TOP 6.4.: Veranstaltung in einer städtischen Grünanlage, hier: Laufveranstaltung in der Aubinger Lohe am 11.11.07
+- TOP 6.5.: Ganztagsschulen für den 22. Stadtbezirk, Empfehlung Nr. 767 der Bürgerversammlung vom 26.06.07, Beschluss des Schulausschusses vom 14.11.07
+- TOP 6.6.: Errichtung einer Werbeanlage, Bergsonstr. 151, Fl.Nr. 2169/0
+- TOP 6.7.: Neubau von 5 Kindertagesstätten in Systembauweise, hier: Errichtung einer Kindertagesstätte mit 2 Kindergartengruppen und 1Hortgruppe am Schubinweg, Beschluss des Schulausschusses vom 19.09.07
+- TOP 6.8.: Ablehnung des jetzigen Bebauungsplanentwurfes Nr. 1955 Colmdorfstraße, Empfehlung Nr. 758 der Bürgerversammlung vom 26.06.07
+- TOP 6.9.: Abbruchantrag für das Baudenkmal Im Stocket 7, Fl.Nr. 22/0 Gemarkung Langwied
+- TOP 6.10.: Veranstaltung auf Privatgrund, hier: Aubinger Herbstfest, Festplatz am Germeringer Weg vom 06.-10.09.07
+- TOP 6.11.: Vollzug des AEG; NSB/ASB Nürnberg-Ingolstadt-München; Ausbaumaßnahmen im Bereich der LH München, Planungsabschnitt 82 M der ABS Ingolstadt-München, Bahn-km 12,900 bis 4,900; Planergänzung zur landschaftspflegerischen Begleitplanung - trassenferne Kompensationsmaßnahmen in München-Aubing
+- TOP 6.12.: Erweiterung der Abfallentsorgungsanlage (Bodenbörse) der Fa. Süderde Aufbereitungs- und Vertriebs GmbH auf dem Anwesen Lochhausener Straße Fl.Nr. 969, 978/2 (Bestand) und Fl.Nr. 686 (Erweiterung) der Gemarkung Obermenzing
+- TOP 6.13.: Änderung der Gemeindeordnung, Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die BA´s zur Entscheidung
+- TOP 6.14.: Planungen zur Staatsstraße St 2063 neu, Verhinderung des Baus der Staatsstraße St 2063 neu zwischen der A 96 und Pasing, Beschl. des Planungsausschusses
+- TOP 6.15.: Antrag auf Genehmigung eines Feuerwerkes am 15.09.07 am Hotel Langwieder See, Kreuzkapellenstr. 89
+- TOP 6.16.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2008-2012; Anhörungsverfahren
+- TOP 6.17.: Antrag auf Genehmigung einer Veranstaltung, hier: Christkindlmarkt auf dem Gößweinsteinplatz am 08.12.07
+- TOP 6.18.: Antrag auf Genehmigung eines Feuerwerkes am 22.09.07 in der Kohlmeisenstr. 37
+- TOP 6.19.: Nutzung des Neubaus des Gebäudes der "Spiellandschaft Stadt", Empfehlung Nr. 768 der Bürgerversammlung vom 26.06.07, Beschluss des Kulturausschusses vom 18.10.07
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Unveränderte Fortführung der Schank- und Speisewirtschaft "La Siciliana", Radolfzeller Str. 13, Schr. KVR vom 16.07.07
+- TOP 7.2.: Baufälle im 22. Stadtbezirk (v. 09.-15.07.07, 16.-22.07.07, v. 23.-29.07.07, v. 30.07.-05.08.07, v. 06.-12.08.07, v. 13.-19.08.07, v. 20.-26.08.07, v. 27.08.-02.09.07, v. 03.09.-09.09.07), Schr. Planungsreferat vom 16.07.07, 23.07.07, 30.07.07, 06.08.07, 13.08.07, 20.08.07, 27.08.07, 03.09.07, 10.09.07
+- TOP 7.3.: Errichtung einer Kindertagesstätte mit zwei Kindergartengruppen und einer Hortgruppe am Schubinweg, Mitteilung Schul- und Kultusreferat vom 25.06.07
+- TOP 7.4.: Baumaßnahmen der Stadtwerke München GmbH, Stichtag: 16.07.07, 30.07.07, 06.08.07, 13.08.07, 20.08.07, 27.08.07, 03.09.07, 10.09.07
+- TOP 7.5.: Zweckentfremdung von Wohnraum, Hornberger Str. 2, Schr. Sozialreferat vom 20.07.07
+- TOP 7.6.: Tauchen am Langwieder See, hier: Widerspruch gegen die Allgemeinverfügung vom 30.05.07, Schr. Ref. f. Gesundheit u. Umwelt vom 13.07.07 und 23.08.07
+- TOP 7.7.: Unveränderte Fortführung Schank- und Speisewirtschaft "Limesstüberl", Limesstr. 115, Schr. KVR vom 25.07.07
+- TOP 7.8.: Protokoll des Infomationsgespräches zum Siedlungsschwerpunkt Freiham, Freiham Nord, Schr. Planungsreferat vom 27.07.07
+- TOP 7.9.: Plangenehmigung nach § 18 Abs. 2 AEG; ESTW UZ München-Pasing (Süd und Nord), München Laim Rbf. für die Bereiche Bft. München-Pasing, -Westkreuz, -Laim Rbf. - Friedenheimer Brücke Abzw., Abzw. Mü. Kanal, Mü. Landsberger Str., Bf. Mü.-Lochhausen, Schr. Planungsreferat vom 31.07.07
+- TOP 7.10.: Zweckentfremdung von Wohnraum, Alprichstr. 4, Schr. Sozialreferat vom 30.07.07
+- TOP 7.11.: Wirtschafts-Info 07/07 vom 31.07.07
+- TOP 7.12.: Verkehrsrechtliche Anordnung, Freigabe von Gehwegen für den Radverkehr in der Altostraße, Schr. KVR vom 16.05.07
+- TOP 7.13.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Globus", Henschelstr. 3, Schr. KVR vom 08.09.07
+- TOP 7.14.: Aubinger Straße; Stützwände der Straßenunterführung unter der DB-Strecke München - Garmisch-Partenkirchen, Genehmigung der Bedarfsanmeldung durch verwaltungsinterne Abstimmung, Schr. Baureferat
+- TOP 7.15.: Baumaßnahmen der SWM, Erdgasprojekt Wildenrother Straße, Schr. SWM vom 17.08.07
+- TOP 7.16.: Verkehrsrechtliche Anordnung, Schussenrieder Straße nördlich der Kirche bis zum Schubinweg, Schr. KVR vom 20.08.07
+- TOP 7.17.: Unerlaubte Grünanlagennutzung; Baustelleneinrichtung (Schluckbrunnen) an der Federseestraße (Schr. KVR, vom 21.08.07)
+- TOP 7.18.: Plangenehmigung nach § 18 Abs. 2 AEG für die Erstellung einer Warenannahme und Wertstoffhof DB Betriebswagen Werk Gemarkung Aubing; Nähe Rupert-Bodner-Str., Schr. Planungsreferat vom 23.08.07
+- TOP 7.19.: Kultur im Stadtquartier; Beschlussvorlage und Stadtratssitzung, Schr. Kulturreferat vom 27.08.07
+- TOP 7.20.: Herstellung der öffentlichen Verkehrsflächen, Schussenrieder Straße, Toni-Berger-Straße (U-1456), Bally-Prell-Straße (U-1457), Erni-Singerl-Straße (U-1458), Schubinweg, Schr. Baureferat vom 24.08.07
+- TOP 7.21.: Verkehrsrechtliche Anordnung, Kurzparkzone in der Limesstr. 7, Schr. KVR vom 14.06.07
+- TOP 7.22.: Zweckentfremdung von Wohnraum, Limesstr. 68, Schr. Sozialreferat vom 31.08.07
+- TOP 7.23.: Unveränderte Fortführung des Trink- und Imbisskiosk mit Bewirtungsfläche im Freien "Pi Jai Imbiss", Bodenseestr. 170, Schr. KVR vom 04.09.07
+- TOP 7.24.: Gewerbeentwicklung Freiham; Vergabe von städtischen Gewerbeflächen, Schr. Referat für Arbeit und Wirtschaft vom 03.09.07
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Umgehende Entfernung der Verkehrsinsel in der Straße "Am Wasserturm", Schr. Baureferat vom 10.07.07 zum BA-Antrag Nr. 1956 vom 21.03.07
+- TOP 8.2.: Randsteinabsenkung Aubing-Ost-Straße, Schr. Baureferat vom 10.07.07 zum BA-Antrag Nr. 2021 vom 18.04.07
+- TOP 8.3.: Verlängerung des Fuß- und Radweges an der Westseite der Altostraße, Schr. KVR vom 24.07.07
+- TOP 8.4.: Errichtung eines Pkw-Parkplatzes an der Bezirkssportanlage Kronwinklerstraße, Schr. Schul- und Kultusreferat vom 10.07.07 zum BA-Antrag Nr. 1864 vom 22.02.07
+- TOP 8.5.: Fußballplatz Freizeitgelände Wiesentfelser Straße, Schr. Baureferat vom 17.07.07 zum BA-Antrag Nr. 2110 vom 16.05.07
+- TOP 8.6.: Aufhebung der Geschwindigkeitsbeschränkung von 30 km/h am Freihamer Weg, Schr. KVR vom 23.07.07 zum BA-Antrag Nr. 2112 vom 16.05.07
+- TOP 8.7.: Wiederaufstellung des Briefkastens in Neuaubing, Schr. Ref. f. Arbeit u. Wirtschaft vom 23.07.07 zum BA-Antrag Nr. 2111 vom 16.05.07
+- TOP 8.8.: Neugestaltung des Gößweinsteinplatzes in Neuaubing, Schr. Baureferat vom 26.07.07 zum BA-Antrag Nr. 1863 vom 22.02.07
+- TOP 8.9.: A 99 West: Lärmbelästigung durch die A 99, Schr. Autobahndirektion Südbayern vom 26.07.07
+- TOP 8.10.: Novellierung der Baumschutzverordnung, Vorschläge des BA 22, Schr. Planungsreferat vom 30.07.07
+- TOP 8.11.: Lagerungen der Fa. Plus, Radolfzeller Str. 5 a, Schr. KVR vom 25.07.07
+- TOP 8.12.: Probegrabungen und Gasmessungen auf dem Eckgrundstück Kastelburg-/ Mariabrunner Straße, Schr. Ref. f. Gesundheit u. Umwelt vom 27.07.07 zum BA-Antrag Nr. 2115 vom 16.05.07
+- TOP 8.13.: Beleuchtung zwischen Reichenaustraße und Hochhaus "Ramses", Schr. Baureferat vom 12.07.07 zum BA-Antrag Nr. 2114 vom 16.05.07
+- TOP 8.14.: Siedlungsschwerpunkt Freiham, Freiham Nord, hier: Neugestaltung des Sportlerweges; Überplanung im Rahmen der Bebauungsplanung Freiham-Nord von Teilen der Bodenseestraße und Ehrenbürgstraße in Neuaubing; Klärung der Baurechtssituation Ehrenbürgstr. 9; Freiham Nord, Überplanung des Grüngürtels, Schr. Planungsreferat vom 31.07.07 zu den BA-Anträgen Nr. 2209 vom 28.06.07, Nr. 2212 vom 28.06.07, Nr. 2213 vom 28.06.07 und Empf. Nr. 754 der Bürgerversammlung vom 26.06.07
+- TOP 8.15.: Bebauungsplan Nr. 1703, Schr. Oberbürgermeister vom 24.07.07
+- TOP 8.16.: Gehwegverbesserung Ende Thuisbrunner Straße zur Bodenseestraße, Schr. Baureferat vom 31.07.07
+- TOP 8.17.: Störung durch Jugendliche, Schr. Sozialreferat vom 09.07.07
+- TOP 8.18.: Prüfung der Situation der Schüler des 22. Stadtbezirkes bei der Einschreibung an der Städt. Realschule an der Blutenburg, Schr. Schul- und Kultusreferat vom 31.07.07 zum BA-Antrag Nr. 2211 vom 20.06.07
+- TOP 8.19.: Vollz. d. Infektionsschutzgesetzes, 1. Lagerungen der Fa. Plus, Radolfzeller Str. 5 a, 2. Ratteneinnistung Anwesen Walter-Brecht-Str. 3, Schr. Ref. f. Gesundheit u. Umwelt vom 10.08.07
+- TOP 8.20.: Städt. Anwesen Hohenrechbergstr. 7+9, Projekt Wohnungen für wohnungslose Familien, Schr. PI 45 vom 09.08.07 und Schr. HEIMAG München vom 07.08.07
+- TOP 8.21.: Zunahme des Verkehrslärms an der A 99; Lärmschutzmaßnahmen, Schr. Ref. f. Gesundheit u. Umwelt vom 13.08.07 zur Anfrage aus der Bürgerversammlung vom 26.06.07
+- TOP 8.22.: Anbringung einer Fahrbahnmarkierung für Fußgänger an der Kreuzkapellenstraße, Schr. KVR vom 27.08.07 zum BA-Antrag Nr. 1861 vom 22.02.07
+- TOP 8.23.: Ausbesserung des "Osterangerweges", Schr. Baureferat vom 28.08.07 zum BA-Antrag Nr. 2214 vom 20.06.07
+- TOP 8.24.: Gewerbefläche Bodenseestr. 320, Schr. Planungsreferat vom 28.08.07 zum BA-Antrag Nr. 2210 vom 20.06.07
+- TOP 8.25.: Zuwendung aus dem Budget des BA 22, Antrag des KGV Krähennest e.V. vom 28.06.07, Nachpflanzung des Pufferstreifens zu den Freiflächen, Schr. Direktorium vom 30.08.07
+- TOP 8.26.: Zebrastreifen an der Limesstraße Höhe Aufseßer Platz, Schr. KVR vom 28.08.07
+- TOP 8.27.: Begrenzung der Parkmöglichkeiten auf 2 Stunden rund um die S-Bahn-Station Westkreuz, Schr. KVR vom 30.08.07 zum BA-Antrag Nr. 1867 vom 22.02.07
+- TOP 8.28.: Benennung von Kriterien für Ausweisung eines Reitweges in Lochhausen, Schr. KVR vom 28.08.07 zum BA-Antrag Nr. 2285 vom 18.07.07
+- TOP 8.29.: Städtisches Anwesen Ubostr. 7, Fl.Nr. 88, Schr. Kommunalreferat vom 06.09.07 zum BA-Antrag Nr. 2215 vom 20.06.07
+- TOP 8.30.: Beschwerde wegen Fußweg zwischen Giggenbacherstraße und Langwieder Hauptstraße, Schr. KVR vom 13.09.07
+- TOP 8.31.: 10-Minuten-Takt der Buslinie 161 bis 19.00 Uhr, Schr. Referat für Arbeit und Wirtschaft vom 12.09.07 zum BA-Antrag Nr. 2284 vom 18.07.07
+- TOP 8.32.: Erreichung eines ausreichenden Versorgungsgrades bei Kinderkrippen, Kindergärten sowie Horten/Tagesheimen und der Mittagsbetreuungen, Schr. Schul- und Kultusreferat vom 31.08.07 zum BA-Antrag Nr. 1641 vom 22.11.06
+- TOP 8.33.: Ausbau des Abschnittes nördliches Tunnelportal Aubinger Tunnel A 99 bis zur Freilandstraße als Radweg, Schr. Baureferat vom 12.09.07 zum BA-Antrag Nr. 2208
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Bauausschuss vom 03.07.07 - Beseitigung schienengleicher Bahnübergänge -gegenwärtiger Stand-
+- TOP 9.2.: Vollversammlung vom 18.07.07 - KinderTagesZentrum (KiTZ) Wiesentfelser Str. 68
+- TOP 9.3.: Verwaltungs- und Personalausschuss vom 26.09.07 - Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO - Vereinsdatenbank und Stadtteilseiten"
+- TOP 9.4.: Kinder- und Jugendhilfeausschuss vom 18.09.07 - Investitionskostenförderung gem. Art. 27 BayKiBiG, Kinderkrippe Limesstr. 56 a mit 18 Kinderkrippenplätzen, Umbau bestehender Räume
+- TOP 9.5.: Sozialausschuss vom 20.09.07 - Quartierbezogene Bewohnerarbeit 1999 bis 2007
+- TOP 9.6.: Schulausschuss vom 19.09.07 - Neubau von 5 Kindertageseinrichtungen in Systembauweise Serie 1: Errichtung einer Kindertagesstätte mit 2 Kindergartengruppen und 1 Hortgruppe am Schubinweg, 22. Stadtbezirk Aubing-Lochhausen-Langwied
+- TOP 9.7.: Ausschuss für Stadtplanung und Bauordnung vom 19.09.07 - Mini-Windkraftwerke auf den Dächern der städtischen Wohnungsbaugesellschaften
+- TOP 9.8.: Vollversammlung vom 04.10.07 - Strukturkonzept Mühlangerstraße / Langwied, Änderung des Flächenneutzungsplanes mit integrierter Landschaftsplanung (Aufstellungsbeschluss)
+- TOP 9.9.: Bauausschuss vom 25.09.07 Aktion Saubere Stadt, Konzept des Öffentlichkeitskampagne
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Strukturkonzept Mühlangerstraße / Langwied, Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung (Aufstellungsbeschluss), Schr. BA 21 vom 27.07.07
+- TOP 10.2.: Vorhabenbezogener Bebauungsplan mit Grünordnung, Autobahnkreuz München West (südlich), BAB A 8 (südwestlich), Mooswiesenstr. (westlich), Mühlangerstr. (nördlich), Berglwiesenstr. (östlich), BAB A 99 (südöstlich), Teiländerung des Bebauungsplanes Nr. 1066) Aufstellungsbeschluss, Schr. BA 21 vom 27.07.07
+- TOP 10.3.: Mitteilung der Termine 2008 "Das Schulreferat trifft die BA´s" , Schr. Schul- und Kultusreferat vom 06.08.07
+- TOP 10.4.: Neue Broschüre Münchner Bezirksausschüsse, Schr. BA 15 vom 15.08.07, BA 18 vom 22.08.07 und BA 3 vom 03.09.07
+- TOP 10.5.: Einladung des Kulturreferenten an die BA´s am 20.09.07 von 17.00-19.00 Uhr im Kulturhaus Milbertshofen, Schr. Kulturreferat vom 06.08.07
+- TOP 10.6.: Oktoberfest 2007, Reservierung für den BA 22 am Freitag, 05.10.07, Schr. Direktorium vom 28.08.07
+- TOP 10.7.: 850 Jahre München: 2008 - 1158, 200 Jahre Maxvorstadt: 2008 - 1808, Einladung zur Präsentation des "Luftbild-Stadtplans Maxvorstadt", Schr. BA 3
+- TOP 10.8.: Informationsveranstaltung des Sozialreferates für die Mitglieder aller Bezirksausschüsse, Schr. Sozialreferat vom 10.09.07
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 17.10.2007, Gaststätte "Wienerwald", Limesstr. 63
