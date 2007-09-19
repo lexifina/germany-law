@@ -1,0 +1,105 @@
+# 10. öffentlichen Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2007-09-19T17:10:00+02:00
+- Ende: 2007-09-19T22:25:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=427
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=427
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - erledigt
+- TOP 5.1: Wahl von Patientenfürsprechern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl von Mitgliedern in den Beirat für das Vivantes Klinikum Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2006 - überwiesen
+- TOP 6.2: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2006 - überwiesen
+- TOP 6.3: Veränderungssperre 8-16a/17 für eine Teilfläche des Grundstücks Neudecker Weg 14 (Flurstücke 156, 157, 158 und 214) sowie das Grundstück Neudecker Weg 16/22 im Bezirk Neukölln, Ortsteil Rudow, im Geltungsbereich des Bebauungsplanentwurfes 8-16a ("Neudecker Weg") - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Genehmigung von über- und außerplanmäßigen Ausgaben im 1. Halbjahr 2007 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Solarstromprojekt an Berliner Schulen - beantwortet
+- TOP 8.2: Des Volkes Stimme über Tempelhof - beantwortet
+- TOP 8.3: Gesundheitliche Gefährdung der Bevölkerung durch allergieauslösende Pflanzen - beantwortet
+- TOP 8.4: Unterrichtsfehlstunden entgegenwirken - beantwortet
+- TOP 8.5: Bürgerbeteiligung - beantwortet
+- TOP 8.6: Bürgerbeteiligung an den Haushaltsberatungen - beantwortet
+- TOP 8.7: Wachschutz vor Neuköllner Schulen - beantwortet
+- TOP 8.8: Welchen "Stellenwert" hat Gewaltprävention in Neukölln? - beantwortet
+- TOP 8.9: Hertabrücke unbeleuchtet - beantwortet
+- TOP 8.10: Bezirksstadtrat Blesings Bordell-Berichte - beantwortet
+- TOP 8.11: Schulen in freier Trägerschaft nach Neukölln - beantwortet
+- TOP 8.12: Haushaltsmehrbelastungen durch erhöhten Mietspiegel - beantwortet
+- TOP 8.13: Deutsche Staatsoper - beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Schulspeisungen an gebundenen Ganztagsschulen - beantwortet
+- TOP 9.2: Beachparty gegen Rechts - beantwortet
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Bezirkshaushaltsplan für die Jahre 2008/2009 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Kinderschutznotrufnummern - beantwortet
+- TOP 11.2: Informationspolitik der Justizsenatorin gegenüber den Bürgern und Bezirk - beantwortet
+- TOP 11.3: Kindertagesstätte "I Cuccioli" - beantwortet
+- TOP 11.4: Autohandel auf dem ehemaligen Güterbahnhof Neukölln - beantwortet
+- TOP 11.5: Gammelfleisch in Neukölln - beantwortet
+- TOP 11.6: Baumschäden - beantwortet
+- TOP 12: Große Anfragen - schriftlich - erledigt
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Neuköllner Bäume retten - mit Änderungen in der BVV beschlossen
+- TOP 13.2: HzE-Mittel gerechter verteilen - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Gegen einen verwahrlosten Lieselotte-Berger-Platz - überwiesen
+- TOP 13.4: Kinderschutznotrufnummern deutlich reduzieren - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Netzwerk Kinderschutz mit Leben ausfüllen - überwiesen
+- TOP 13.6: Lichtzeichenanlagen Autobahntunnel Britz - überwiesen
+- TOP 13.7: Aufstellung von Fahrradabstellanlagen im Körnerkiez - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Mehr Licht: Mehr Sicherheit für die Bürger! - überwiesen
+- TOP 13.9: Zweiter Zugang zum Sportplatz Maybachufer - überwiesen
+- TOP 13.10: Mehr Raum für die Albrecht-Dürer-Schule - überwiesen
+- TOP 13.11: Verkehrs- und Parkchaos beim Wochenmarkt Maybachufer - überwiesen
+- TOP 13.12: Geschichtstafeln an der Wissmannstraße - überwiesen
+- TOP 13.13: Gefahrenabwehrende Maßnahmen für die Fußgänger in der Treptower Straße - überwiesen
+- TOP 13.14: MAE-Kräfte richtig einsetzen - in der BVV zurückgezogen
+- TOP 13.15: Bewährungshilfe - in der BVV abgelehnt
+- TOP 13.16: Verhinderung von Parkplatzsuchverkehr im Bereich der Neukölln-Arcaden - überwiesen
+- TOP 13.17: Fuß- und Radwege - in der BVV abgelehnt
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Schaltung der Fußgängerampel Johannisthaler Chaussee Höhe Petunienweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Sicherheitskonzept für die Schülerinnen und Schüler am ehem. Schulgebäude Christoph-Ruden-Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Fußgängerüberweg Wildenbruchstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.4: HIV-positiv und Grundsicherung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.5: Ausbildung im Wirtschaftshof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.6: Nur Schrott im Tempelhofer Weg? - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: "Seniorenspielplatz" für Neuköllner Senioren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.2: Seniorenvertretung in Neukölln stärken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.3: Kennzeichnung von geeigneten Rundwegen für Laufbewegung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Fahrradverkehr in Neukölln verbessern I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Aufgabengebiete gem. §§ 5 und 30 GDG - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Taten statt Stimmungen: Aktionsprogramm für Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Ordnungsamt lässt Hunde laufen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Durchfahrverbot für LKW in der Hannemannstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Durchfahrverbot für LKW in der Franz-Körner-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Umgang mit Mietrückständen von ALG II-Empfängern im Jobcenter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Parkscheibenkonzept im Neudecker Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Verkehrslenkende Maßnahmen in der Köpenicker Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Kiez-Staatsanwälte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Ombudsstelle für Hartz IV-Betroffene - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Fahrradabstellanlage vor dem Jugendberatungshaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.16: Radroute am Teltowkanal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: Erziehungsauftrag annehmen oder Leistungen streichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Verkehrsüberwachung im südwestlichen Rudow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.19: Überbrückungshilfe für Gewerbetreibende - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.20: Gegen Müllabladeplätze im öffentlichen Raum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.21: Saubere U-Bahnhöfe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.22: Ausstellung zum Berliner Bankenskandal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.23: Vogelschutz in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.24: Radwege in Neukölln - Touristische Attraktivität des Bezirkes stärken! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.25: Kein zentrales Facility-Management für ganz Berlin - mit Abschlussbericht zur Kenntnis genommen
