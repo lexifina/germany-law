@@ -1,0 +1,99 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2007-09-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1039513
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1039513
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Zwischennutzung Flst. 341/10 Milbertshofen Ecke Schleißheimer Straße/Piccoloministraße (Kurzprotokoll)
+- TOP 4.2.: Lehrstellensituation in Milbertshofen - Am Hart (Antrag Nr. 02-08/B02220 des Bezirksauschusses des Stadtbezirkes 11 Milbertshofen - Am Hart vom 18.10.2006)
+- TOP 4.3.: Oktoberfest 2007, Reservierung für die Bezirksausschüsse
+- TOP 4.4.: Gedenkfeier zum Volkstrauertag am 18.11.2007; Schreiben der Soldaten- und Kriegerkameradschaft München-Milbertshofen
+- TOP 4.6.: Verein Stadtteilarbeit e.V., Dankschreiben / Sachbericht
+- TOP 4.2.: Vollzug der Baumschutzverordnung, Lüneburgerstr. 9 (Vorabzustimmung)
+- TOP 4.3.: Zustände Schleißheimer Straße (Schreiben von Hartmut Mitschke)
+- TOP 4.4.: Landesbund für Vogelschutz in Bayern e.V., Dankschreiben / Sachbericht
+- TOP 4.5.: Barrierefreies Bauen und Sanieren; Beratungsangebot im Bauzentrum München
+- TOP 4.2.: Domagkateliers; Raumanfrage
+- TOP 4.1.: Veranstaltung auf Privatgrund, Sommerfest Wiese am Nadisee vom 13.-15.07.2007 (Vorabzustimmung)
+- TOP 4.2.: Radfahrt "Tuor de Franz" am 29.07.2007 (Vorabzustimmung)
+- TOP 4.4.: Flohmarkt auf dem Milbertshofener Platz am 06.10.2007 (Vorabzustimmung)
+- TOP 4.5.: Antrag auf Freischankfläche, Riesenfeldstr. 72 (Vorabzustimmung)
+- TOP 4.6.: Umbenennung der Bushaltestelle Nietzschestraße in Curt-Mezger-Platz (Antrag Nr. 02-08/B 002195 des Bezirksausschusses 11 Milbertshofen - am Hart vom 20.06.2007)
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Kulturhaus Milbertshofen, Kalender 2008 (vertagt vom 18.07.2007)
+- TOP 6.2.: Madhouse GmbH; Länderübergreifende Veranstaltung - Sinti und Roma am 26.09.2007
+- TOP 6.3.: Männerchor Milbertshofen-Riesenfeld e.V.; Hoagast am 16.11.2007
+- TOP 6.4.: Trägerverein Kulturhaus Milbertshofen e.V.; Country-Weihnacht am 15.12.2007
+- TOP 6.6.: Pfarrei St. Georg Kirchenchor; Konzert am 17.11.2007
+- TOP 6.7.: Münchner Informationszentrum für Männer e.V.; Konflikttraining auffälliger Schüler in drei Hauptschulen des 11. Stadtbezirkes (zwischenzeitlich vom Antragsteller zurückgezogen)
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 1: (E) Beschilderung der Arztpraxen im Olympischen Dorf Empfehlung Nr. 02-08 / E 00773 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart, am 28.06.2007
+- TOP 1.3.: Schaffung einer Aufnahmemöglichkeit für die Schülerinnen und Schüler der Grundschule Hildegard-von-Bingen-Anger im Lion-Feuchtwanger-Gymnasium oder in einem der gut erreichbaren Schwabinger Gymnasien (Ziffer1) (Empfehlung Nr. 02-08/E00783 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen - Am Hart am 28.06.2007)
+- TOP 1.4.: Überprüfung des Bundeswehr-Geländes der Sanitätsakademie auf Befall mit Ambrosia (Empfehlung Nr. 02-08/E00778 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen - Am Hart am 28.06.2007)
+- TOP 1.5.: Verpflichtung der Münchner Schulen zu gesunder Schulverpflegung und Mittagsverpflegung (Empfehlung Nr. 02-08/E00775 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen - Am Hart am 28.06.2007)
+- TOP 7.: Anträge
+- TOP 7.1.: Olympiapark (Lena Distler)
+- TOP 7.1.: Halteverbot in der Rockefellerstraße (Egon Franzmann)
+- TOP 7.2.: Verkehr in der Rockefellerstraße (Adolf Dengler)
+- TOP 7.3.: Ampelschaltung Moosacher-/Lerchenauerstraße (Eikelkamp Modeagentur GmbH)
+- TOP 8.: Anhörungen
+- TOP 8.2.: Verkauf einer städtischen Immobilie
+- TOP 8.1.: Bauvorhaben Spiridon-Louis-Ring 21; Interimsbauten zum Umbau der Olympiahalle
+- TOP 8.2.: Dirt Line Anlage für Biker
+- TOP 8.3.: Bauvorhaben Platz an der Neuherbergstraße (Dominikuszentrum)
+- TOP 8.4.: Bauvorhaben Platz an der Schleißheimer Straße (Einkaufszentrum)
+- TOP 8.5.: Bauvorhaben Schleißheimer Straße (Ostseite) zwischen Platz und Neuherbergstraße - Gehbahn und Zweirichtungsradweg
+- TOP 8.6.: Begleitende Nutzung des Brundageplatzes während einer Eröffnungsveranstaltung und Tage der offenen Tür in der BMW-Welt am 17.10.2007 sowie 20.-21.10.2007
+- TOP 8.7.: Anhörung im Einzelfall auf Anforderung: Korbinianplatz 2b-2d
+- TOP 8.1.: Öffentliches Event zur Inbetriebnahme der U3 bis zum OEZ am 28.10.2007
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendungen aus dem Budget des Bezirksausschusses a) Alten- und Servicezentrum Milbertshofen, Sommerfest, Bewilligung 120,00? b) Forum 2, 25-Jahr-Feier, Bewilligung 2610,00? c) Verein Stadtteilarbeit e.V., Petuel spielt im Park, Bewilligung 3253,00? d) Verein Stadtteiarbeit e.V. , Milbertini, Bewilligung 8000,00? e) Ev.-Lu. Versöhnungskirche, Kinderprogramm 50-Jahr-Feier, Bewilligung 350,00? f) Trägerverein Kulturhaus Milbertshofen e.V., Balltraining, Bewilligung 1500,00? g) Diakonie Hasenbergl e.V., Angerfest Nordheide, Bewilligung 1800,00? h) Ev.-Lu. Kindergarten München Heilig-Geist, Änderung des Bewilligungszeitraumes bis 30.11.2007
+- TOP 9.2.: Zuwendung aus den Budget des Bezirksausschusses, Schreiben des Direktoriums
+- TOP 9.4.: Mehr BA-Rechte; Schreiben von Dr. Georg Kronawitter
+- TOP 9.5.: Geschäftsbericht der Unfallkasse München 2006
+- TOP 9.6.: Münchens Bio-Brotbox 2007
+- TOP 9.7.: Jubiläumskalender München 2008
+- TOP 9.8.: Mitteilung über ein Grundstücksgeschäft - nicht öffentlich -
+- TOP 9.1.: Stadtweites Rauchverbot an und auf Kinderspielplätzen (Beschluss des Bauausschusses vom 03.07.2007)
+- TOP 9.2.: Mehrjahresinvestitionsprogramm für die Jahre 2007 - 2011 mit verbindlicher Planung 2012 (Beschluss des Bauausschusses vom 12.06.2007)
+- TOP 9.3.: Landesplanerische Beurteilung für eine 3. Start- und Landebahn am Verkehrsflughafen München (Beschluss der Vollversammlung des Stadtrates vom 18.07.2007)
+- TOP 9.4.: Beseitigung schienengleicher Bahnübergänge - Gegenwärtiger Stand - (Beschluss des Bauausschusses vom 03.07.2007)
+- TOP 9.5.: Vermeidung von Hundekot in städtischen Grünanlagen und Grünstreifen (Beschluss des Bauausschusses vom 03.07.2007)
+- TOP 9.6.: Baustellenfläche am Lieberweg; Ausnahmebewilligung
+- TOP 9.8.: Baustelleninformation Ackermannstraße
+- TOP 9.9.: Baustelleninformation Keferloher Platz (Curt-Mezger-Platz)
+- TOP 9.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.11.: Gefahrenbäume
+- TOP 9.12.: Baumaßnahmen der Stadtwerke München
+- TOP 9.13.: Meldelisten Bauvorhaben
+- TOP 9.14.: Vollzug der Baumschutzverordnung; Meldelisten Fällungsanträge
+- TOP 9.1.: Kultur im Stadtquartier; Beschlussvorlage und Stadtratssitzung
+- TOP 9.3.: Daten Kinderkrippen
+- TOP 9.4.: Unveränderte Fortführung von Gaststättenbetrieben: a) KGS "Olympia Imbiss", Helene-Mayer-Ring 6 b) SSW "Nur einmal Leben", Riesenfeldstr. 72 c) Trink- und Imbisskiosk " Stadionkiosk 1", Spiridon-Louis-Ring Olympiastadion d) SSW "Taverna Georgios", Riesenfeldstr. 66 e) SSW "Tratsch", Riesenfeldstr. 68 f) SSW "Birtanem", Schleißheimer Str. 303
+- TOP 9.6.: Fachtagung Interkulturelle Verständigung; Einladung
+- TOP 9.7.: Fachtag "Arm - aber nicht außen vor"; Einladung
+- TOP 9.1.: Verkehrsrechtliche Anordnungen nach §45 StVO
+- TOP 9.2.: Baustelleneinrichtung auf dem Brundageplatz; Ausnahmebewilligung
+- TOP 9.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund; Erlaubnisbescheide
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
+- TOP 9.9.3: Kultur / Soziales
