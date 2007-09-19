@@ -1,0 +1,51 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-09-19T16:00:00+02:00
+- Ende: 2007-09-19T00:00:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2153
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2153
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096684.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096684.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096684.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: BVA Amalienstraße 9 - einstimmig beschlossen
+- TOP 4: BPl5481/036-An der Piwipp-Aufst. ... öff. Ausl. - einstimmig beschlossen
+- TOP 5: Pl5481/029+Pl5482/042-Am Kittelbach (S+N) Einst. - einstimmig beschlossen
+- TOP 6: Haushaltsplan-Entwurf 2008 inkl. Vorbericht und Anlagen - mehrheitlich beschlossen
+- TOP 7: HH-Antrag-SPD: Umwandlung JfE Lichtenbroicher Weg - einstimmig beschlossen
+- TOP 8: HH-Antrag-CDU: Neubau der JfE Lichtenbroich - einstimmig beschlossen
+- TOP 9: HH-Antrag-SPD: Fuß- und Radweg von Rath nach Unterrath - einstimmig beschlossen
+- TOP 10: HH-Antrag-CDU: Radweg DB-Strecke und A52 - einstimmig beschlossen
+- TOP 11: HH-Antrag-SPD: Beleuchtung des Weges Schwarzbachgraben - einstimmig beschlossen
+- TOP 12: HH-Antrag-CDU: Beleuchtung Fuß- u. Radweg Schwarzbachgraben - einstimmig beschlossen
+- TOP 13: HH-Antrag-SPD: LZA Unterrather Straße - einstimmig beschlossen
+- TOP 14: HH-Antrag-CDU: Überplanung der Unterrather Straße - einstimmig beschlossen
+- TOP 15: HH-Antrag-SPD: Bau der Ortsumgehung Rath - einstimmig beschlossen
+- TOP 16: HH-Antrag-CDU: Ortsumgehung Rath - einstimmig beschlossen
+- TOP 17: HH-Antrag SPD: Werterhaltung von Straßen - einstimmig beschlossen
+- TOP 18: HH-Antrag-SPD: ÖPNV-Erschließung des Gewerbegebietes Lichtenbroich - einstimmig beschlossen
+- TOP 19: HH-Antrag-SPD:Platz vor der Klinke - einstimmig beschlossen
+- TOP 20: HH-Antrag-CDU: Platzgestaltung Unterrather Straße 'Zur Klinke' - einstimmig beschlossen
+- TOP 21: HH-Antrag-CDU: Fußgängerüberweg Münsterstraße - einstimmig beschlossen
+- TOP 22: HH-Antrag-CDU: Bolzplatz St. Franziskus-Straße - einstimmig beschlossen
+- TOP 23: HH-Antrag-CDU: Haushalt 2008 - Grünzug Selbecker Straße - einstimmig beschlossen
+- TOP 24: HH-Antrag-CDU: Jugendfreizeiteinrichtung Ammerweg - einstimmig beschlossen
+- TOP 25: HH-Antrag-CDU: Kreisverkehr Hülsmeyer - mehrheitlich beschlossen
+- TOP 26: HH-Antrag-CDU: Turnhalle für den Stadtbezirk 06 - einstimmig beschlossen
+- TOP 27: HH-Antrag-SPD: Diakonie in Lichtenbroich - einstimmig beschlossen
+- TOP 28: HH-Antrag-SPD: Erhöhung der Beträge der BV 6 für Bauunterhaltung - einstimmig beschlossen
+- TOP 29: HH-Antrag-SPD: Errichtung eines Zaunes Bolzplatz und KSP Nießdonk - einstimmig beschlossen
+- TOP 30: HH-Antrag-CDU: Bauunterhalt an städtischen Einrichtungen - mehrheitlich beschlossen
+- TOP 31: Baumpflanzung im Stadtbezirk 6 - Korveyer Straße - einstimmig abgelehnt
+- TOP 32: Terminplanung 2008 - einstimmig beschlossen
+- TOP 33: Zuschussvergabe 2007 - einstimmig beschlossen
+- TOP 34: Mitteilungen der Verwaltung - zur Kenntnis genommen
