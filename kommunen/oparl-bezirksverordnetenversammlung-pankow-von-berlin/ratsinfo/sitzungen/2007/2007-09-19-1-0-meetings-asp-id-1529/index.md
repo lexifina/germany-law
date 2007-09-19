@@ -1,0 +1,84 @@
+# 9. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2007-09-19T17:30:00+02:00
+- Ende: 2007-09-19T22:45:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1529
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1529
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=27723
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - beantwortet
+- TOP 1.2: Geschäftliche Mitteilungen - erledigt
+- TOP 1.3: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Pankower Wochenmarkt - vertagt
+- TOP 1.4.2: BVV in Projektauswahl einbeziehen - überwiesen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachwahl von Bürgerdeputierten bzw. stv. Bürgerdeputierten - gewählt
+- TOP 1.9: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk 2 (Ortsteile Niederschönhausen, Rosenthal, Wilhelmsruh, Blankenfelde und Buchholz) im Bezirk Pankow - gewählt
+- TOP 1.10: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk 3 (Gebiet Pankow - Nord zwischen S - Bahnlinie Heinersdorf - Bornholmerstraße, Bezirksgrenze Mitte und Niederschönhausen) im Bezirk Pankow - gewählt
+- TOP 1.11: Entwurf des Doppelhaushaltsplans 2008/2009 für den Bezirk Pankow (einschließlich Vorbericht, Stellenplan und produktorientierten Haushalt) - mit Änderungen in der BVV beschlossen
+- TOP 1.12: Erlass einer Rechtsordnung gem. § 172 Abs. 1 Satz 1 Nr. 3 Baugesetzbuch (Umstrukturierungssatzung) für die "Grüne Stadt" - vertagt
+- TOP 1.13: Sichtbare Öffnungszeiten an Sport- und Freizeitstätten - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Bezirkliche Beiräte öffentlich machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Verkehrsberuhigungskonzept - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Freizeitsport in Pankow / Laufstrecken - Atlas - vertagt
+- TOP 1.17: Erhalt des wieder erstrahlten Bürgerparktores - vertagt
+- TOP 1.18: Vor Ort für alle - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Entwicklung des kooperativen Standorts Eliashof - vertagt
+- TOP 1.20: Bezirksübergreifende Haushaltsinitiative - vertagt
+- TOP 1.21: Öffentlicher Gesundheitsdienst und Kinder- und Jugendschutz im Bezirk dürfen nicht ausbluten! - überwiesen
+- TOP 1.22: Stadtrandsiedlung Blankenfelde - Anschluss an das Abwassernetz - überwiesen
+- TOP 1.23: Fußweg Rosenthaler Weg - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Kommunalen Handlungsspielraum zurückgewinnen - Immobilienkosten senken - vertagt
+- TOP 1.25: Baumaßnahmen Brücke am Bürgerpark - überwiesen
+- TOP 1.26: Zugang zum Garibalditeich - überwiesen
+- TOP 1.27: Energieeinsparprojekte auf alle öffentlichen Gebäude ausdehnen - überwiesen
+- TOP 1.28: Geh- u. Radwege am Pankower Rathaus - überwiesen
+- TOP 1.29: Kürzungspläne offen legen - vertagt
+- TOP 1.30: Haltestelle Friedrich-Engels-/Platanenstraße - überwiesen
+- TOP 1.31: Keine schrittweise Entmachtung der Bezirke durch die Hintertür - mehr Transparenz bei der Änderung der Landeshaushaltsordnung - vertagt
+- TOP 1.32: Einsatz des Ordnungsamtes in den Abend- und Nachtstunden sowie am Wochenende - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Hartz IV - Verteilung der Eingliederungsmittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Stellplätze für Car-Sharing-Unternehmen in Sanierungsgebieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Sportplatz Erich-Weinert-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Mehr Sicherheit für Kinder am Teutoburger Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Mehr Sicherheit für Kinder Am Friedrichshain - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Auszahlung einer Weihnachtsbeihilfe für BezieherInnen von ALG II und Grundsicherung nach SGB XII - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Schulwegsicherung für den Schulstandort 2 der Rudolf-Dörrier-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Schallschutz Damerowstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Bezirksname - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Danziger Straße umgestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Neuwahlen der Betroffenenvertretungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Keine Privatisierung von Straßen und Plätzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: 100 Bäume für Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Erhaltung und Ausbau des Straßenbahnnetzes im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Beschilderung der Bezirksamtsgebäude endlich an Bezirksnamen anpassen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Kabelloser Zugang zum Internet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Sozialverträglichen Ablauf von Modernisierungen im denkmalgeschützten Teil der Grünen Stadt sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17.1: Drs. VI-0162 - 2. Zwischenbericht - (offen)
+- TOP 2.18: Aufzug im U-Bahnhof "Vinetastraße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Generationsübergreifende Nutzung kommunaler Einrichtungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Renaturierung des Wilhelmsruher Sees - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Barrierefreier Zugang zum Schloss Schönhausen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Evangelische Friedhöfe entlang der Heinrich-Roller-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Änderung der Sanierungsziele im Sanierungsgebiet Winsstraße für den Standort Jablonskistraße 29, 30/Winsstraße 44 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Umwandlung des Oberschulstandortes Danziger Straße 50 zum Grundschulstandort - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Nachweis der im Haushaltsjahr 2006 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - vertagt
+- TOP 2.26: Benennung der Straße 49 im OT Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Nachschiebeliste zur Bezirksamtsvorlage VI 162/2007 Entwurf des Doppelhaushaltsplanes 2008/2009 für den Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Abschluss von Mietverträgen zur Errichtung von Photovoltaikanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Nachweis der im ersten Halbjahr 2007 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Wirtschaftsplan des Eigenbetriebes "Kindergärten NordOst" für das Jahr 2007 - vertagt
+- TOP 2.31: Volksbegehren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Benennung der Musikschule Pankow - mit Abschlussbericht zur Kenntnis genommen
