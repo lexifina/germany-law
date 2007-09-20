@@ -1,0 +1,68 @@
+# 11. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2007-09-20T16:30:00+02:00
+- Ende: 2007-09-20T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1544
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1544
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=53865
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI_9 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Entwurf des vorhabenbezogenen Bebauungsplans 9-25 VE ("Fuststraße") nebst Begründung Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplans 9-25 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für NBZ Hessenwinkel e. V. (SM 750) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für SG Fernsehen Berlin e. V. (SM 760) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2008 und 2009 - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Projekt "Notinsel" - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Anbringung einer Gedenktafel am Spreetunnel in Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XVI-86 ("Sportpromenade") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.2: Bebauungsplan XVI-1 ("Krusenick") hier: Teilung des Geltungsbereiches - überwiesen
+- TOP 13.3: Steuerungsgremium zur Umsetzung von MAE bei dem Geschäftsführer des Jobcenters Treptow-Köpenick - überwiesen
+- TOP 13.4: Bebauungsplan XVI-VE 1 ("Multiplex Kino") hier: Einstellung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Bebauungsplan XVI-77 ("Grenzweg Süd") hier: Änderung des Planaufstellungsverfahrens (Reduzierung des Geltungsbereiches) - überwiesen
+- TOP 13.6: Vorhabenbezogener Bebauungsplan 9-28 VE ("Baumarkt Friedrichshagener Straße") hier: Einleitungsbeschluss - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Zeigen der Fahne "Terre-des-femmes" am Rathaus Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Sichere Querung der Schnellerstraße Höhe Köllnische Straße ermöglichen - überwiesen
+- TOP 14.3: Illegale Müllentsorgung - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Neuer Standort für die Jugendfreizeiteinrichtung Villa Vif - überwiesen
+- TOP 14.5: Ablehnung des Bezirkshaushaltsplans 2008/2009 - erledigt
+- TOP 14.6: Beseitigung Niederschlagsstau vor der Oberspreestrasse 14, 12439 Berlin - überwiesen
+- TOP 14.7: Prioritätensetzung Tiefbau-Unterhaltung - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Albinea-Zimmer - überwiesen
+- TOP 14.9: Regenwasserablauf unter der Bahnbrücke Bahnhofstraße - überwiesen
+- TOP 14.10: Errichtung eines Schutzzauns auf dem Mittelstreifen der Michael-Brückner-Straße in 12439 Berlin - in der BVV abgelehnt
+- TOP 14.11: Online-Umfrage Schwerpunkte Bibliotheksanschaffungen - überwiesen
+- TOP 14.12: Don Ugoletti-Platz - überwiesen
+- TOP 14.13: Immobilie Königsheideweg 285 - überwiesen
+- TOP 14.14: Fahrbahnmarkierung Schnellerstraße / Ecke Fennstraße in 12439 Berlin - überwiesen
+- TOP 14.15: Ausbau des Dahmeradweges - überwiesen
+- TOP 14.16: Kreisverkehre befördern - mit Änderungen in der BVV beschlossen
+- TOP 14.17: Spendenboxen auf dem Gelände des ehemaligen Strandbads Rahnsdorf - überwiesen
+- TOP 14.18: Bibliotheksbus in Rauchfangswerder - überwiesen
+- TOP 14.19: Informationstafeln am sowjetischen Ehrenmal im Treptower Park - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Aufhebung des Durchfahrtsverbotes für Reisebusse > 7,5 t - überwiesen
+- TOP 14.21: Radfahren auf dem Europaradweg im Mentzelpark - ohne Änderungen in der BVV beschlossen
+- TOP 14.22: Vorwegweiser für A113 Neue Späthstraße - überwiesen
+- TOP 14.23: Straßenabfluss verstopft - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Öffentlicher Beschäftigungssektor - beantwortet
+- TOP 15.2: Kiezbüro - beantwortet
