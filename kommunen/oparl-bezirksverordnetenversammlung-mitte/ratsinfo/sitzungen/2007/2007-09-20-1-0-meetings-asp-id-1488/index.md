@@ -1,0 +1,129 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2007-09-20T17:30:00+02:00
+- Ende: 2007-09-20T22:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1488
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1488
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=59853
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Wie geht es weiter mit dem Buttmann-Kiez? - beantwortet
+- TOP 5.2: Hochglanz-Bürgerbeteiligung in Mitte (vergl. Vorlage zur Kenntnisnahme Drs.-Nr. 0171/III BVV 20.09.2007) - beantwortet
+- TOP 5.3: TBC-Fürsorgestelle - beantwortet
+- TOP 5.4: Dienstsiegel - beantwortet
+- TOP 5.5: Senat und Bezirk tun was gegen Schlaglöcher in Mitte - beantwortet
+- TOP 5.6: Wie steht es mit der Auszahlung des Elterngeldes? - schriftlich beantwortet
+- TOP 5.7: Umweltzone - kundenfreundliche Antragsbearbeitung gesichert? - schriftlich beantwortet
+- TOP 5.8: Keine Pizza in Tiergarten-Süd - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Ehemalige Eisfabrik Köpenicker Straße - beantwortet
+- TOP 6.2: Sanierungsmaßnahme im Brunnenviertel - Mieter einbinden! - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: 50.000 Euro für ein Gutachten, das 15 Jahre zu spät kommt? - beantwortet
+- TOP 7.2: Öffentlicher Beschäftigungssektor Berlin auch im Bezirk Mitte? - beantwortet
+- TOP 7.3: Sex in the City - beantwortet
+- TOP 7.4: Rücknahme von Fördermaßnahmen - beantwortet
+- TOP 7.5: Bauvorbescheid mit Folgen - Chaos in der Abteilung Stadtentwicklung? - schriftlich beantwortet
+- TOP 7.6: "Rinn in die Kartoffeln, raus aus die Kartoffeln" Wird die Seydlitzstraße 1-5 zum Ackerland? - schriftlich beantwortet
+- TOP 7.7: Wiesenstraße 29 - schriftlich beantwortet
+- TOP 7.8: Gewerbe im Moabiter Kiez - schriftlich beantwortet
+- TOP 7.9: Gilt der Mietspiegel im Nikolaiviertel? - schriftlich beantwortet
+- TOP 7.10: Ganz Berlin spricht über Energie! Ganz Berlin? Nein, das Bezirksamt Mitte schweigt! - schriftlich beantwortet
+- TOP 7.11: Werbung im öffentlichen Raum - schriftlich beantwortet
+- TOP 7.12: Ein Fest der Sinne - schriftlich beantwortet
+- TOP 7.13: Bürgerhaushalt Mitte: Von BVV beschlossen, vom Bezirksamt ignoriert!? - schriftlich beantwortet
+- TOP 7.14: Kneipen-Wildwest im öffentlichen Straßenland in der Spandauer Vorstadt!? - schriftlich beantwortet
+- TOP 7.15: "Bürgerschaftliches Engagement" bei der Beleuchtung der Spandauer Vorstadt - schriftlich beantwortet
+- TOP 7.16: Zuständigkeit für Veranstaltungen in zentralen Bereichen - schriftlich beantwortet
+- TOP 7.17: Gehwegvorstreckung als Schildbürgervollstreckung? - schriftlich beantwortet
+- TOP 7.18: Investitionsplanung 2007 - 2011 ins Internet - schriftlich beantwortet
+- TOP 7.19: Verbraucherschutz in Mitte hat hohe Priorität - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Entwurf des Doppelbezirkshaushaltsplans Mitte für die Jahre 2008 und 2009 - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Konkretisierung der Sanierungsziele für den Block 100 042 (Gormann-Mulack-Stein-Alte Schönhauser Straße) im Sanierungsgebiet Spandauer Vorstadt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Teilweise Aufhebung der Erhaltungsverordnung Stephankiez im Bezirk Tiergarten von Berlin vom 10. Oktober 1991 (GVBl. S. 240) für den Teil der Zusammensetzung der Wohnbevölkerung gem. § 172 Abs. 1, Satz 1, Nr. 2 BauGB - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Bebauungsplanentwurf I-B5e sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5e - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Bebauungsplanentwurf I-B5b sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5b - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Bebauungsplanentwurf I-B5a sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5a - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Bebauungsplanentwurf I-B5t sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5t - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Vorhabenbezogener Bebauungsplan 1-38VE für das Grundstück Residenzstr. 85-88 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Bebauungsplanentwurf I-B5m sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5m - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Finanzierungskonzept zur Sanierung und Nutzung der Kulturfabrik in der Lehrter Straße 35 in Moabit unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Kinder schützen, Krausnick- und Monbijoupark stärken - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Aufhebung des Bezirksamtsbeschlusses vom 24.07.2007 zum BVV-Beschluss vom 24.05.2007 "Projekte der Jugendhilfe und der Schulsozialarbeit an Schulen dokumentieren" - vertagt
+- TOP 11.4: Finanzierung Grün- und Spielfläche Rückerstraße 3 sichern - in der BVV abgelehnt
+- TOP 11.5: Pauschale Minderausgaben frühzeitig titelkonkret untersetzen - in der BVV abgelehnt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Alle Jahre wieder: Zeitliche Erweiterung Ökomarkt Hackescher Markt (vergl.: BVV-Beschluss Drs.-Nr. 1637/II vom 20.01.2005) - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Sanierungsziele sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Spandauer Vorstadt, Rosenthaler Vorstadt: Wohnen schützen! Entwicklung sichern! - in der BVV zurückgezogen
+- TOP 12.4: Hanne-Sobek-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Grundschule am Koppenplatz - Ersatzstandort für das Theaterhaus Mitte - überwiesen
+- TOP 12.6: Bezirkliche Beiräte umfassend öffentlich machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Spielplatzentwicklungsplan - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Wohngebiet Karl-Marx-Allee verbinden - überwiesen
+- TOP 12.9: Konzeption für die Aufgabenbereiche Prüfdienst und Kosteneinziehung in der Abteilung Soziales und Bügerdienste - überwiesen
+- TOP 12.10: Zentren und Einzelhandel (Studie zur Nahversorgung und Entwicklung des innerstädtischen Einzelhandels im Bezirk Mitte) - überwiesen
+- TOP 12.11: I. jährliche Tätigkeitsberichte der Wirtschaftsförderung und -beratung sowie II. jährliche Tätigkeitsberichte des LuV Ordnung und Gewerbe ab 2006 - in der BVV zurückgezogen
+- TOP 12.12: Kuratorium für Heimdialyse im GSZM - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Neue Schönhauser Straße für den Fahrradverkehr in beide Richtungen freigeben - überwiesen
+- TOP 12.14: Keine schrittweise Entmachtung der Bezirke durch die Hintertür - keine schrittweise Entmachtung durch die Änderung der Landeshaushaltsordnung - überwiesen
+- TOP 12.15: Bus 147 - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Aufnahmeheim Osloer Straße 80 - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Verkaufsverhandlungen für das Objekt Osloer Straße 80 - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Sicherung des Energieeinsparpotentials bei der Gebäudesanierung im Zusammenhang mit der Wärmedämmung - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: August-Bebel-Platz - Die Würde des Ortes wahren - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Bürgerbeteiligung bei zukünftiger Investitionsplanung - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Transparenz bei der Sanierung von öffentlichen Denkmalen im Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Öffentlicher Beschäftigungssektor - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Ausbildungsoffensive 2007 - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Kinder- und Jugendschutz nicht vernachlässigen - Hilfe anbieten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Zielvereinbarung 2007 zwischen Bezirksamt und Jobcenter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Ein Visum für's Leben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.4: W-LAN in den für Publikumsverkehr geöffneten bezirklichen Gebäuden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.5: Hochglanz-Bürgerbeteiligung in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Angebot von Kunst- und Trödelmärkten in Mitte im bisherigen Umfang erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Integration von gehörlosen und gehörgeschädigten Menschen in den Arbeitsmarkt durch das JobCenter (2) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: WBM-Mieter vor überzogenen Forderungen schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Qualifizierte und umfassende Betreuung sicherstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.10: Dienstkleiderordnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Schwachstellen im "Netzwerk Kinderschutz" schnell schließen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: "Berliner Unterwelten-Museum" in das touristische Leitsystem aufnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: Aufbau einer provisorischen Waisenbrücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.14: Bezirksamt trifft Quartiersräte - Zusammenarbeit mit BVV ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.15: Projekte der Jugendhilfe und der Schulsozialarbeit an Schulen dokumentieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: Tempo 30 in der Annenstraße, dem Engel- und Bethaniendamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.17: Anzahl der Feuerwehrfahrzeuge nicht verringern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.18: Beschluss über das Ergebnis der frühzeitigen Behördenbeteiligung gem. § 4 Abs. 1 BauGB, über das Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB und die Durchführung der Behördenbeteiligung gem. § 4 Abs. 2 BauGB zum vorhabenbezogenen Bebauungsplanentwurf 1-41VE - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.19: Beschlüsse zur Einstellung der Bebauungsplanverfahren I-31, 1-44, II-142, II-170, II-182, II-B7, III-221, III-B5 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.20: Ergebnis der Auswertung der Behördenbeteiligung gemäß § 4Abs. 2 BauGB, die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 2 BauGB und Erweiterungen des Geltungsbereiches des vorhabenbezogenen Bebauungsplanverfahren 1-44VE zur Errichtung eines Aussichtsrades und eines neuen Wirtschaftshofes für den Zoo am Zoologischen Garten im Bezirk Mitte, Ortsteil Tiergarten und die Einbringung einer Vorlage - zur Kenntnisnahme - bei der Bezirksverordnetenversammlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.21: Beauftragung Quartiersmanagement-Gebiet Sparrplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.22: Ernennung des Bezirksabstimmungsleiters und seines Stellvertreters für den Verwaltungsbezirk Mitte von Berlin für das Volksbegehren "Tempelhof bleibt Verkehrsflughafen!" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.23: Beschluss über die Ergebnisse der frühzeitigen Öffetnlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB, der Beteiligung der Behörden gem. § 4 Abs. 1 und 2 BauGB zum Bebauungsplanentwurf 1-20, die Erweiterung des Geltungsbereiches sowie die Durchführung deröffentlichen Auslegung gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.24: Beschluss des Ergebnisses der frühzeitigen Öffentlichkeitsbeteiligung un der Behördenbeteiligung sowie die Durchführung der öffentlichen Auslegung gemäß § 3 Abs. 2 BauGB des Bebauungsplans II-27-1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.25: Konkretisierung der Prüfkriterien bei der Anwendung der "Verordnung über die Erhaltung der städtebaulichen Eigenart auf Grund der städtebaulichen Gestalt für das "erweiterte Gebiet Südliche Brunnenstraße - Teile der Rosenthaler Vorstadt" im Bezirk Mitte von Berlin" (GVBl.S. 511 v. 14.12.2000) gemäß § 172 I Satz 1, Nr. 1 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.26: Benennung des Verwaltungsbeamten und seines Stellvertreters aus dem Bezirk Mitte für den beim Amtsgericht Tiergarten zu bildenden Schöffenwahlausschuss für die Ernennung durch den Senat von Berlin für die Geschäftsjahre 2009 bis 2013 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.27: Beschluss über das Ergebnis der frühzeitigen Behördenbeteiligung gem. § 4 Abs. 1 BauGB, über das Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB und die Durchführung der Behördenbeteiligung gem. § 4 Abs. 2 BauGB zum Bebauungsplanentwurf 1-39 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.28: Beschluss über das Ergebnis der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB zum Bebauungsplanentwurf 1-12 und die Durchführung der öffetnlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.29: Aufstellung des Bebauungsplans 1-48 im Bezirk Mitte, Ortsteil Moabit, die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch und die Beteiligung der Behörden gemäß § 4 Abs. 2 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.30: Die im ersten Halbjahr des Haushaltsjahres 2007 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
