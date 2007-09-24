@@ -1,0 +1,98 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2007-09-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1047466
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1047466
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Reinigung in der Umgebung des Mc Donald's Restaurants in der Hanauer Straße
+- TOP 2.2.: Reinigung in der Umgebung des Mc Donald's Restaurants in der Pelkovenstraße
+- TOP 2.3.: Umwandlung eines reinen Fußweges in einen kombinierten Rad- und Fußweg zwischen Magdalena-Bräu-Weg 63 und 83
+- TOP 2.4.: Maßnahmen zur Verkehrsberuhigung in der Eininger Straße
+- TOP 2.5.: Errichtung eines Zebrastreifens Ecke Moosburger -/ Abensbergstraße
+- TOP 2.6.: Verkehrsprobleme Netzerstraße / Allacher Straße
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Baupläne Moosacher Bahnhof (Vivico)
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: U3-Verlängerung: MVV-Eröffnung am OEZ am 28.10.2007
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Ausstattung des Spielplatzes an der Bingener Straße - <div>nach Antrag</div>
+- TOP 4.2.: Zusammenlegung und Modernisierung der Verkehrzentrale und der technischen Betriebszentrale in der Schragenhofstraße. - <div>nach Antrag</div>
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Ampelanlage Dachauer-/Hanauer Straße / U-Bahnhof Westfriedhof - <div>nach Antrag</div>
+- TOP 4.2.: Verschmutzungen durch Burger-King-Restaurant in der Dieselstraße
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10; Aktionsgemeinschaft Moosach; Handwerkermarkt am 08./09.09.07
+- TOP 6.: Anhörungen
+- TOP 6.1.: Straßenbaumaßnahme Emmy-Noether-Straße
+- TOP 6.2.: Straßenbaumaßnahme Bunzlauer Straße
+- TOP 6.3.: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 6.4.: Antrag auf Erteilung einer befristeten Erlaubnis für einen Gaststättenbetrieb: "Blue Star Train" , Bahnhof Moosach Gleis 1 vom 19.11.2007 bis 31.03.2008
+- TOP 6.5.: Verkehrsrechtliche Anordnung Hugo-Troendle-Str. / Wintrichring
+- TOP 6.6.: Neueinteilung der Stimmbezirke bzw. Wahllokale
+- TOP 6.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8.: Mehrjahresinvestitionsprogramm; Fortschreibung für die Jahre 2008 bis 2012
+- TOP 6.9.: Absolutes Halteverbot in der Gärtnerstraße
+- TOP 6.10.: Halteverbote in der Bautzener Straße
+- TOP 6.11.: Genehmigung einer Warenstellage: Bunzlauer Platz 1
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Bauvorhaben Haldenbergerstr. 17 (Forderungen des BA konnte nicht entsprochen werden)
+- TOP 7.2.: M-Campus / Moosacher Technologiepark; Herstellung der öffentlichen Verkehrsflächen im Umgriff des Bebauungsplas mit Grünordnung Nr. 1927 a (BA wird beteiligt)
+- TOP 7.3.: Herstellung der öffentlichen Verkehrsflächen im Umgriff des Bebauungsplans Nr. 1379 Gärtner-, Dürr-, Messerschmitt-, Dessauer-, Hans-Bunte-Straße (BA wird beteiligt)
+- TOP 7.4.: Parken nur für PKW in der Merseburger Straße (entsprechende Beschilderung wird in Auftrag gegeben)
+- TOP 7.5.: Verkehrsführung im Kreuzungsbereich Lassallestr./Triebstr./ Hanauer Str. in südlicher Fahrtrichtung (Fahrspurmarkierungen nicht erforderlich)
+- TOP 7.6.: Abmarkierung eines "Fahrradangebotsstreifens" in der Feldmochinger Str. zwischen Pelkovenstr. und Dachauer Str. (nach Auffassung des KVR keine Notwendigkeit)
+- TOP 7.7.: Einrichtung einer Bushaltestelle In den Kirschen / Frauenwörther Str. (Antrag des BA 9; durch MVG in konkrete planungen aufgenommen)
+- TOP 7.8.: Ganztägige Hauptschulen für Moosach (wird vom Schulreferat befürwortet)
+- TOP 7.9.: Sozialberatung Wohngebiet Lauinger- / Dillinger Straße ( Antworten des Sozialreferates auf die Fragen des BA 10)
+- TOP 7.10.: Zuschnitt der Bepflanzung entlang des Fußweges an der Sportanlage Saarlouiser Straße (wird durchgeführt)
+- TOP 7.11.: Zusatzfinanzierung für den Straßenunterhalt ( Darlegung der Vorgehensweise des Baureferates)
+- TOP 7.12.: Mehr Sauberkeit rund um den Moosacher Bahnhof (wöchentliche Reinigung erfolgt)
+- TOP 7.13.: Errichtung einer zweiten Streetworkerstelle für Moosach (weitere Stellenzuschaltung erscheint nicht angebracht)
+- TOP 7.14.: Eingeschränktes Halteverbot Pelkovenstraße 42 (Antragstellerin möge sich an besten selbst mit dem KVR in Verbindung setzen)
+- TOP 7.15.: Deutlichere Hinweise auf Zweirichtungsradweg in der Dachauer Straße auf Höhe der Fa. Dehner (lt. KVR nichtr erforderlich)
+- TOP 7.16.: Überprüfung der Ampelschaltung Hanauer Str. / Riesstraße (Vorlauf für Rechtsabbieger nicht möglich)
+- TOP 7.17.: Unratablagerungen auf den Grunstücken Pelkovenstr. 152, Dessauer Str. 17, rund um das OEZ und am Moosacher Bahnhof (keine Maßnahmen erforderlich bzw. nähere Konkretisierung erforderlich)
+- TOP 7.18.: Aktuelle Lärmmessungen und Verkehrszählungen in der Allacher Straße (derzeit keine Möglichkeit für eine dauerhafte Geschwindigkeitsbeschränkung bzw. eine verkehrsrechtliche Maßnahme)
+- TOP 7.19.: Radfahren entgegen der Fahrtrichtung in der Hohentwielstraße (kurzfristige Umsetzung nicht möglich)
+- TOP 7.20.: Rabdsteinabsenkungen Andernacher Straße (wird durchgeführt)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Information über Eingriffe in den Gehölzbestand von öffentlichen und halböffentlichen Grün- und Freiflächen
+- TOP 8.3.: Zweckentfremdung von Wohnraum: Meggendorfer Straße
+- TOP 8.4.: Fällungsgenehmigungen: 1. Rothschwaigestr. 47 2. Seydlitzstr. 6
+- TOP 8.5.: Anerkennung von Plätzen in Kindertageseinrichtungen: 1. Lechelstr. 41 2. Gubestr. 3 - 5
+- TOP 8.6.: Ausflüge Kinder- und Jugendcafe Boomerang (Bürgerschreiben)
+- TOP 8.7.: Sanierung und Ausbau Abensbergstraße
+- TOP 8.8.: Zuständigkeitsänderungen bei REGSAM
+- TOP 8.11.: Mini-Windkraftwerke auf den Dächern der städtischen Wohnungsbaugesellschaften
+- TOP 8.12.: Baubeginnsanzeige Mobilfunkanlage
+- TOP 8.13.: Pächterwechsel "Burlons Bar", Hanauer Str. 68
+- TOP 8.14.: Seismik-Messkampagne der SWM in der Landeshauptstadt München
+- TOP 8.15.: Errichtung einer Fahrradstraße in der Jakob-Hagenbucher-Straße zwischen Pelkoven- und Riesengebirgstraße
+- TOP 8.16.: Einrichtung von drei allgemeinen Behindertenparkplätzen in der Hanauer Straße / Ostseite, südlich Pelkovenstraße
+- TOP 8.17.: Quartierbezogene Bewohnerarbeit 1999 bis 2007; Entwicklungen, Sachstand und Visionen
+- TOP 8.18.: Ludwigsfelder Straße zwischen Spiegelbergstraße und der Straße Am Neubruch (Schreiben von OB Ude)
+- TOP 8.19.: Verkauf eines städtischen Grundstückes Hanauer -/ Dessauer Straße
+- TOP 8.20.: Absolutes Halteverbot in der Quedlinburger Straße
+- TOP 8.21.: Fällung eines Gefahrbaumes Abensbergstr. 30
+- TOP 8.22.: Kultur im Stadtquartier ; Beschlussvorlage und Stadtratssitzung
+- TOP 8.23.: Eininger Straße; Versetzung von Gefahrzeichen "Achtung Kinder", Aufhebung der Schulbushaltestelle un der dafür eingerichteten Haltverbote
+- TOP 8.24.: Stadtratsvorlage "Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO - Vereinsdatenbank und Stadtteilseiten" - Evaluationsbeschluss"
+- TOP 8.25.: Mehrjahresinvestitionsprogramm; Maßnahmen im Bereich des Kommunalreferates
+- TOP 8.26.: Instandsetzung der Überführung der Dachauer Straße über den Nymphenburg-Biedersteiner-Kanal
+- TOP 8.10.: Meldeliste Bauvorhaben
+- TOP 4: Anträge
