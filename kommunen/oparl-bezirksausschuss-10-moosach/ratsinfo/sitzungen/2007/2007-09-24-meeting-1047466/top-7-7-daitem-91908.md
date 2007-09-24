@@ -1,0 +1,7 @@
+# TOP 7.7.: Einrichtung einer Bushaltestelle In den Kirschen / Frauenwörther Str. (Antrag des BA 9; durch MVG in konkrete planungen aufgenommen)
+
+- Sitzung: BA 10 - Vollgremium (2007-09-24)
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/91908
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/91908
