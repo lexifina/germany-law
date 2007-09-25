@@ -1,0 +1,76 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2007-09-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1079197
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1079197
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Seebrucker Straße ? Städtebauliche Verdichtungsmaßnahmen, Vorbescheid
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Grafinger Str. 6 ? Gesamtplan mit Fluchtwegen und Flächen für die Feuerwehr
+- TOP 3.4.: Stadtteilverträgliche Umgestaltung des Innsbrucker Rings
+- TOP 3.1.: Kultur im Stadtquartier; Beschlussvorlage und Stadtratssitzung
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Grundschule Grafinger Straße als Ganztagsschule, Antrag Nr. 1823 des BA 14
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.3.: Bürgerkreis Berg am Laim e.V., Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Maibaumumlegen des Maibaumvereins Berg am Laim an der Baumkirchner Straße
+- TOP 3.2.: Grafinger Straße 6 ? Geburtstagsfeier des ?Appartment 11?
+- TOP 3.3.: Andauernde Lärmbelästigung durch Open-Air-Veranstaltungen
+- TOP 3.4.: Änderung der Gemeindeordnung ? Übertragung laufender Angelegenheiten des Oberbürgermeisters aus die Bezirksausschüsse zur Entscheidung
+- TOP 3.5.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2008 - 2012
+- TOP 3.1.: Risserkogelstraße ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Neugestaltung der Außenanlagen mit Einrichtung von Bewohnergärten in der städtischen Wohnanlage im Rahmen des Bund-Länder-Städtebauförderungsprogramms Soziale Stadt
+- TOP 4.2.: Bebauungsplan Nr. 2015 ? Rosenheimer Straße 143 (nördlich)
+- TOP 4.3.: 37. städtischer Fassadenwettbewerb, Fassadenpreise und Lobende Erwähnungen 2006
+- TOP 4.4.: Mini-Windkraftwerke auf den Dächern der städtischen Wohnungsbaugesellschaften
+- TOP 4.5.: Neuerrichtung von 10 kv-Anlagen im Bereich des ehem. Betriebswerks 4, Berg am Laim
+- TOP 4.6.: Unterrichtung über beantragte Bauvorhaben
+- TOP 4.1.: Neubau einer Eisenbahnüberführung (Geh- und Radwegunterführung) und barrierefreier Ausbau des S-Bahn-Haltepunktes Berg am Laim
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Quartierbezogene Bewohnerarbeit 1999 bis 2007 Entwicklungen, Sachstand und Visionen Ergänzende Bezuschussung einzelner Projekte Realisierung des Bewohnertreffs im Neubaugebiet an der Bajuwarenstraße Antrag Nr. 02-08 / B 02044
+- TOP 4.1.: Schriftverkehr
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Erfahrungen und Erkenntnisse über das Pilotprojekt ?NPO ? Vereinsdatenbank und Stadtteilseiten?
+- TOP 4.2.: Seismik-Messkampagne der SWM in der Landeshauptstadt München
+- TOP 4.3.: Genehmigung für Errichtung und Betrieb einer Schuttlagerplatzes an der Truderinger Str.
+- TOP 4.4.: Erlaubnisbescheid Straßenfest mit Ökomarkt in der Baumkirchner Straße am 16.09.07
+- TOP 4.5.: Schreiben der Veranstaltungsbehörde zu Beschwerden zum Triathlon 2007
+- TOP 4.6.: Gaststätte LUKA, Berg-am-Laim-Str. 53, Unveränderte Fortführung
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 3.2.: Ludwig-Thoma-Realschule, Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 4.4.7.: Baumschutz
