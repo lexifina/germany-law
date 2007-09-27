@@ -1,0 +1,7 @@
+# TOP 5.2.: Wegfall der Schulbezirke um Schuljahr 2008/09
+
+- Sitzung: Gemeinderat (2007-09-27)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/9835
+- Beratung: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/consultation/3353
