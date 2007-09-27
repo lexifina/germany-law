@@ -1,0 +1,6 @@
+# TOP 3.: Vermietungen, Verpachtungen
+
+- Sitzung: Gemeinderat (2007-09-27)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/9850
