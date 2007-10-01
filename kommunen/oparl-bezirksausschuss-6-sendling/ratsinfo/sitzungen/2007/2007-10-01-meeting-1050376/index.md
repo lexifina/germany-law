@@ -1,0 +1,61 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2007-10-01T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1050376
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1050376
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Neugestaltung der Platzfläche "Am Harras" - Realisierungswettbewerb
+- TOP 2: (E) Verkehrsführung nach Sanierung der Eisenbahnbrücke Empfehlung Nr. 02-08 / E 00806 der Bürgerversammlung des Stadtbezirkes 6 - Sendling am 12.07.2007 - <div>nach Antrag</div>
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Regionaler Sozialbericht 2006
+- TOP 3.2.: Quartierbezogene Bewohnerarbeit 1999 bis 2007
+- TOP 4.: Schulreferat
+- TOP 4.1.: Das Schulreferat trifft die Bezirksausschüsse; 18.10.2007 um 16.00 Uhr, Neuhauser Str. 39
+- TOP 6.1.: Meldeliste Fernwärmebauvorhaben
+- TOP 6.2.: Fernwärmebauvorhaben Alramstraße zwischen Aberle- und Implerstraße
+- TOP 6.3.: Rückverlagerung der Bushaltestelle der Linie 53 am Herzog-Ernst-Platz - <div>WV im Oktober 2008 zur erneuten Überprüfung</div>
+- TOP 6.4.: Taxistand Brudermühlstr. / Thalkirchnerstraße und Kochelseestraße (Großmarthalle)
+- TOP 6.5.: A99 West - Ergebnisse der Verkerhszählungen
+- TOP 6.6.: Lichtzeichenanlagen-Bauprogramm 2008
+- TOP 7.1.: Budgetantrag Caritas-Zentrum Innenstadt; Hausaufgabenhilfe für ausländische Kinder vom 01.10.2007 bis 31.12.2007
+- TOP 7.2.: Budgetantrag Münchner Forum für geplante Ausstellung "Münchner Maßstäbe" zum 850. Stadtgeburtstag; ? 5000,-
+- TOP 7.3.: BA-Sitzungstermine 2008
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Margaretenplatz 11
+- TOP 8.3.: Änderung Flächennutzungsplan für den Bereich Gotzinger Platz
+- TOP 8.4.: 37. städtischer Fassadenwettbewerb
+- TOP 8.5.: Mini-Windkraftwerke auf den Dächern der städtischen Wohnungsbaugesellschaft
+- TOP 8.6.: Mobilität in Deutschland Haushaltsbefragung zum Verkehr in München 2008
+- TOP 8.7.: Bauvorhaben Daiserstr. 9
+- TOP 8.8.: Bebauung Königsdorfer- / Thalkirchner Straße
+- TOP 8.9.: Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 9.: Baureferat
+- TOP 9.1.: Poller vor Penny-Markt am Herzog-Ernst-Platz
+- TOP 9.2.: Quartiersplatz Bahndeckel Theresienhöhe Baustellenlogistik während der Bauphase
+- TOP 9.3.: Aktion Saubere Stadt Konzept der Öffentlichkeitskampagne
+- TOP 9.4.: Einziehung einer Teilstrecke des Herzog-Ernst-Platzes (Südseite)
+- TOP 10.: Baum- und Umweltschutz
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Verlängerung der Grünphase für Fußgänger an der Ampelanlage Oberländerstraße/ Implerstraße Empfehlung Nr. 02-08 / E 00830 der Bürgerversammlung des Stadtbezirkes 6 - Sendling am 12.07.2007 - <div>Abweichung von Referentenvorl.</div>
+- TOP 2: (E) Auskünfte zum Moscheebauvorhaben am Gotzinger Platz Empfehlung Nr. 02-08 / E 00824 der Bürgerversammlung des Stadtbezirkes 06 ? Sendling am 12.07.2007 - <div>nach Antrag</div>
+- TOP 2.4.: Realisierung von Kinder- bzw. Senioreneinrichtungen anstatt des Moscheebaus am Gotzinger Platz - <div>Vertagung in die Novembersitzung</div>
+- TOP 2.5.: Ablehnung des Moscheebauvorhabens am Gotzinger Platz - <div>Vertagung in die Novembersitzung</div>
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Mehrjahresinvestitionsprogramm Fortschreibung Jahr 2008 - 2012
+- TOP 13.2.: Kultur im Stadtquartier
+- TOP 13.3.: Neue BA-Stadtbezirks-Broschüre 2008 nach der Kommunalwahl
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
