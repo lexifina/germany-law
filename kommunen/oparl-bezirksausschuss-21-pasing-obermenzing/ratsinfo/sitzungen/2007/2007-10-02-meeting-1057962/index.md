@@ -1,0 +1,81 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2007-10-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1057962
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1057962
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Bericht des BA-Vorsitzenden zur Situation des Pasinger Bahnhofs
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Hausaufgabenhilfe an der Grundschule An der Schäferwiese; zum Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses
+- TOP 2.2.: Zusätzliche Bushaltestelle in der Planegger Straße auf Höhe des Islamischen Kulturzentrums
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Nußhäherstraße 3, Baumbestandsplan Nr. 07-60165 (vertagt aus der BA-Sitzung vom 11.09.07)
+- TOP 3.2.: Schirmerweg 30, Baumbestandsplan Nr. 07-60585 (vertagt aus der BA-Sitzung vom 11.09.07)
+- TOP 3.3.: Lustheimstraße 1, 1 Lärche, 1 Birke (vertagt aus der BA-Sitzung vom 11.09.07)
+- TOP 3.4.: Maria-Eich-Straße 18, 1 Ahorn, 1 Fichte, 1 Birke (vertagt aus der BA-Sitzung vom 11.09.07)
+- TOP 3.5.: Porgesstraße 31, Baumbestandsplan Nr. 07-67327
+- TOP 3.6.: Otto-Engl-Platz 8, Baumbestandsplan Nr. 07-64714
+- TOP 3.7.: Adolf-Sandberger-Straße 8, Baumbestandsplan Nr. 07-65315
+- TOP 3.8.: Paosostraße 14, 1 Birke
+- TOP 3.3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Loichingerstraße 3
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Anhörungen
+- TOP 10.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2008 - 2012; Anhörungsverfahren (vertagt aus der BA-Sitzung vom 11.09.2007)
+- TOP 10.2.: Strukturkonzept Mühlangerstraße / Langwied a) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung (Aufstellungsbeschluss) b) Brauereistandort Langwied
+- TOP 10.3.: Fasanenstraße 31, Neubau einer Wohnanlage mit Tiefgarage
+- TOP 10.4.: Verlängerung der U-Bahn vom Laimer Platz zum Pasinger Bahnhof (Empfehlung Nr. 02-08 / E 00708 der Bürgerversammlung des 21. Stadtbezirkes Pasing-Obermenzing, Bezirksteil Pasing, vom 03.05.2007)
+- TOP 10.5.: Verdistraße 68, Neubau eines Geschäfts- und Ärztehauses mit Tiefgarage - Vorbescheid
+- TOP 10.6.: Amalienburgstraße 2 - 6, Neubau eines Einkaufsmarktes
+- TOP 10.7.: Lichtzeichenanlagen-Bauprogramm für 2008
+- TOP 10.8.: Bauleitplanung der Gemeinde Gräfelfing; Bebauungsplan Nr. 26 A Erweiterung des Gewerbegebietes an der A 96 / St 2063
+- TOP 11.: Anträge und Anfragen
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Baumaßnahmen der Stadtwerke München GmbH (Stichtage: 10.09.07, 17.09.07
+- TOP 12.2.: Baufälle im Stadtbezirk (Listen vom 03.09.-09.09.07, v. 10.09.-16.09.07
+- TOP 12.3.: Vollzug der Baumschutzverordnung; Fällungsanträge im Stadtbezirk (Listen vom 03.09.-09.09.07, v. 10.09.-16.09.07
+- TOP 12.4.: Amtsblatt Nr 25
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Kinder- und Jugendhilfeausschuss vom 18.09.2007 - Kinderkrippe Schmaedelstraße 29: 2 Kinderkrippengruppen, 24 Langzeitplätze; ÖPP - Öffentlich-Private-Partnerschaften; Betriebskostenzuschuss an den Träger für den laufenden Betrieb
+- TOP 13.2.: Sozialausschuss vom 20.09.2007 - Quartierbezogene Bewohnerarbeit 1999 bis 2007: Entwicklungen, Sachstand und Visionen; Ergänzende Bezuschussung einzelner Projekte
+- TOP 13.3.: Ausschuss für Stadtplanung und Bauordnung vom 19.09.2007 - Mini-Windkraftwerke auf Dächern der städtischen Wohnungsbaugesellschaften - 37. städtischer Fassadenwettbewerb; Fassadenpreise und lobende Erwähnungen 2006 - Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Erfahrungen mit der Umsetzung des Beschlusses und Information über die Mittelverwendung (Bekanntgabe) - Mobilität in Deutschland 2008 - MiD 2008; Haushaltsbefragung zum Verkehr in München 2008 - MiDMUC 2008
+- TOP 13.4.: Bauausschuss vom 25.09.2007 - Plangutachten Pasing-Zentrum; Gestaltung von Straßen und Plätzen, Auslobungstext - Aktion Saubere Stadt; Konzept der Öffentlichkeitskampagne - Erneuerung der Haberlandstraße zwischen Volmstraße und Aubinger Straße; Bedarfs- und Konzeptgenehmigung
+- TOP 13.5.: Ausschuss für Stadtplanung und Bauordnung vom 26.09.2007 - Bebauungsplan Nr. 1574 Schlagweg (westlich), Burgfriedensgrenze, Am Hackelanger (südlich), Friedhof Pasing und Blumenauer Straße; Aufhebung des Aufstellungsbeschlusses - Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2014 Autobahnkreuz München West (südlich), Bundesautobahn A 8 (südwestlich), Mooswiesenstraße (westlich), Mühlangerstraße (nördlich), Berglwiesenstraße (östlich), Bundesautobahn A 99 (südöstlich); Aufstellungsbeschluss - Veränderungssperre Nr. 645 Landsberger Straße 388 Flur-Nr. 1185/0 Gemarkung Pasing; Erlass nach § 14 Baugesetzbuch (Bebauungsplan Nr. 1997) - Strukturkonzept Mühlangerstraße / Langwied: a) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung (Aufstellungsbeschluss), b) Brauereistandort Langwied; Sachstand / Informationen für die Bürger
+- TOP 13.6.: Kreisverwaltungsausschuss vom 02.10.2007 - Spielplatz an der Megerlestraße / Freseniusstraße a) Anordnung von 30 km/h in der Megerlestraße und Menzinger Straße im Umfeld des Spielplatzes bzw. zeitmäßig eingeschränkte Zone 30 km/h mit Zebrastreifen sowie Lkw-Durchfahrtsverbot (Empfehlung Nr. 02-08 / E 00578 der Bürgerversammlung des 21. Stadtbezirkes am 26.10.2006); b) Einrichtung eines Zebrastreifens vom Spielplatz über die Megerlestraße (Empfehlung Nr. 02-08 / E 00569 der Bürgerversammlung des 23. Stadtbezirkes am 24.10.2006); c) Verbesserung der Beschilderung im Bereich Waldhornstraße / Haldenbergstraße / Lechelstraße im Hinblick auf Schule und Kindergarten (Empfehlung Nr. 02-08 / E 00570 der Bürgerversammlung des 23. Stadtbezirkes am 24.10.2006)
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Schul- und Kultusreferat - Erweiterung des Tagesheimes An der Schäferwiese 5
+- TOP 14.2.: Sozialreferat - Informationsveranstaltung für die Mitglieder aller Bezirksausschüsse am 26.11.2007 von 18.30 bis ca. 21.00 Uhr im Sozialreferat - Regionale Sozialberichte 2006 online
+- TOP 14.3.: Referat für Gesundheit und Umwelt - Vollzug der abfallrechtlichen Bestimmungen; Lagerung eines Schrott-Kfz auf dem Anwesen Döbereinerstraße 21 (BA-Schreiben vom 10.08.2007)
+- TOP 14.4.: Kulturreferat - Veranstaltungen / Kooperationen im September 2007
+- TOP 14.5.: Kreisverwaltungsreferat - Antrag auf Tempo 30 km/h in der Paul-Gerhardt-Allee - Parken in der Gotthardstraße im Abschnitt zwischen Mitterfeldstraße und Fischer-von-Erlach-Straße nur für Pkw (BA-Schreiben vom 21.05.2007) - Arbeiten im Straßenraum, hier: Fischer-von-Erlach-Straße (zu Anwesen Agnes-Bernauer-Straße 185), Fernwärme; Verkehrsrechtliche Anordnung
+- TOP 14.6.: Referat für Stadtplanung und Bauordnung - Zehentstadelweg 3, Errichtung einer Werbeanlage; Baugenehmigungsbescheid - Rodenstockplatz 3, Neubau eines Mehrfamilienhauses mit Tiefgarage - Lochhausener Straße 32; Verlagerung des Wertstoffhofes Lochhausener Straße
+- TOP 14.7.: Baureferat - Erstmalige Herstellung der Wöhlerstraße im Abschnitt zwischen Dorf- und Benderstraße im Zeitraum vom 11.09.2007 bis voraussichtlich Juli 2008 - Errichtung eines Kinderspielplatzes westlich der Pasinger Fabrik - Verkaufspassage Verdistraße 45; Schaffung einer Verbindung zum Gehweg mittels Treppe, um eine Zerstörung der Grünanlage zu verhindern (BA-Antrag Nr. 02-08 / B 02205 vom 12.06.2007)
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: Bezirksausschuss 3 Maxvorstadt - Rathaus Umschau vom 12.09.2007 Nr. 174: "BA-Beschluss zur Meiserstraße rechtswidrig" (Umbenennung Meiserstraße)
+- TOP 14.2.: Flughafen München GmbH - Besuch des Flughafens München am 16.11.2007 um 15.00 Uhr; Programmablauf
+- TOP 14.3.: Bezirksausschuss 20 Hadern - Gebäude-Energiepass für Schulen
+- TOP 15.: Verschiedenes
+- TOP 15.1.: Nächste BA-Sitzungen am 06.11.2007 und am 04.12.2007 jeweils um 19.00 Uhr im Großen Sitzungssaal des Bürgerzentrums Rathaus Pasing, Landsberger Straße 486
+- TOP 15.2.: Bürgerversammlung des 21. Stadtbezirkes Pasing-Obermenzing, Bezirksteil Obermenzing, am 23.10.2007 um 19.00 Uhr in der Turnhalle der Schule an der Grandlstraße 5
+- TOP 15.3.: Besichtigung des Flughafens München am 16.11.2007 um 15.00 Uhr
