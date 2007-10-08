@@ -1,0 +1,91 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2007-10-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1246067
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1246067
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Geschwindigkeitsübertretungen im Bereich Krokusstr. 59-45
+- TOP 1.2.: Verkehrsberuhigung in Hadern
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Senftenauerstr. 25, gem. Baumbestandsplan Nr. 66679
+- TOP 3.2.: Wilhelm-Weitling-Str., gem. Baumbestandsplänen Nr. 64676 und 64679
+- TOP 3.3.: Kleinhaderner Str. 53, gem. Baumbestandsplan Nr. 66768
+- TOP 3.4.: Eichenstr. 43, gem. Baumbestandsplan Nr. 63137
+- TOP 3.5.: Am Waldrand 3, 2 Fichten
+- TOP 3.6.: Kruckenburgstr. 24, 2 Rotfichten
+- TOP 3.7.: Kornwegerstr. 42 b, 1 Walnussbaum
+- TOP 3.8.: Hallgartenstr. 2, 2 Weißtannen
+- TOP 3.9.: Hans-Grässel-Weg 7 b, 1 Schwarzkiefer und 1 Lebensbaum
+- TOP 3.10.: Stolzenfelsstr. 5, 1 österreichische Scharzkiefer und 2 Birken
+- TOP 3.11.: Tannenwaldstr. 12, 1 Weide und 1 Fichte
+- TOP 3.12.: Am Kornacker 13, 1 Kastanie
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Waldfriedhof, 1 Baum (Baureferat, 14.09.07)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Verkehr
+- TOP 4.2.: UA Umwelt / Bau
+- TOP 4.3.: UA Budget
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag des Kath. Pfarramtes Erscheinung des Herrn auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 967,- ? (Direktorium, 26.09.07)
+- TOP 6.2.: Antrag der Kath. Arbeitnehmerbewegung St. Canisius - KAB auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 650,- ? (Direktorium, 01.10.07)
+- TOP 7.: Anhörungsfälle
+- TOP 7.1.: Förderung freier Träger, Projekt: Nachbarschaft Neuhadern, Bewohnertreff (Sozialreferat, 29.08.07)
+- TOP 7.2.: Senftenauerstr. 25, Neubau einer Kindertagesstätte (Referat für Stadtplanung und Bauordnung, 06.09.07)
+- TOP 7.3.: Mehrjahersinvestitionsprogramm - Fortschreibung für die Jahre 2008 - 2012 (Stadtkämmerei, 27.08.07) (vertagt aus 09/07)
+- TOP 7.4.: Lichtzeichenanlagen-Bauprogramm 2008 (Kreisverwaltungsreferat, 12.09.07)
+- TOP 7.5.: Gemeinde Gräfelfing, Bebauungsplan Nr. 26 A Erweiterung des Gewerbegebietes an der A 96 / St 2063 neu (Referat für Stadtplanung und Bauordnung, 18.09.07)
+- TOP 7.6.: Neubau von 3 Kindertagesstätten in Systembauweise Serie 2: - Errichtung einer Kooperationseinrichtung mit 2 Kindergarten- und 3 Kinderkrippengruppen am Stiftsbogen - Errichtung einer Kindertagesstätte mit 3 Kindergarten- und 2 Hortgruppen am Stiftsbogen
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Kultur im Stadtquartier, Beschlussvorlage und Stadtratssitzung (Kulturreferat, 27.08.07)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, Wilhelm-Weitling-Str. 6 (Sozialreferat, 04.09.07)
+- TOP 8.3.: Verkehrsrechtliche Anordnung: Haltverbot im Stiftsbogen an der Bushaltestelle Stiftsbogen (Kreisverwaltungsreferat, 22.08.07)
+- TOP 8.4.: Verkehrsrechtliche Anordnung: Haltverbot Senftenauerstr. (Kreisverwaltungsreferat, 14.08.07)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Tempolimit auf der A 96 (Kreisverwaltungsreferat, 11.09.07)
+- TOP 9.2.: Gehwegeinebnung Menari-/Ludlstraße, Menari-/Rudi-Seibold-Straße, Bürgerschreiben vom 20.05.07 (Baureferat, 29.08.07)
+- TOP 9.3.: Ambrosiabekämpfung zwischen Haderner Weg und Tischlerstraße (Referat für Gesundheit und Umwelt, 05.09.07)
+- TOP 9.4.: "Aktivitätenband" in der Grünanlage am Stiftsbogen (Baureferat, 14.09.07)
+- TOP 9.5.: Stadtteilwoche Hadern, Schreiben des Bezirksausschusses des 20. Stadtbezirkes Hadern vom 12.07.2007 (Kulturreferat, 21.09.07)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Kindertagesstätte Prälat-Wellenhofer-Str. 27 (GAGFAH I, 06.09.07)
+- TOP 10.2.: Fahrtrichtung der Fahrtreppe Nr. 6 am U-Bahnhof Holzapfelkreuth / Ausgang Neufriedenheimer Str. (MVG, 22.08.07)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Luftbild-Stadtplan Maxvorstadt (BA 3, 30.08.07)
+- TOP 11.2.: BA-Handbuch (BA 3, 03.09.07)
+- TOP 11.3.: Informationsveranstaltung des Sozialreferates für die MItglieder aller Bezirksausschüsse (Sozialreferat, 10.09.07)
+- TOP 11.4.: Regionale Sozialberichte 2006 sind jetzt online (Sozialreferat, 14.09.07)
+- TOP 11.5.: Stadtteilwoche Hadern, Pressespiegel / Besucherstatistik (Kulturreferat, 18.09.07)
+- TOP 11.6.: Informationsflyer "Baumaßnahmen der SWM" für den Bezirksausschuss 20 - Hadern (SWM, 18.09.07)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 18.09.2007: Abriss und Neubau des Jugendtreffs Pfiffteen, Wolkerweg 15: Projektkosten 1.510.000,- ?
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.09.2007: Mini-Windkraftwerke auf den Dächern der städtischen Wohnungsbaugesellschaften (abgelehnt)
+- TOP 12.3.: Beschluss des Sozialausschusses vom 20.09.2007: Quartierbezogene Bewohnerarbeit 1999 bis 2007, Entwicklungen, Sachstand und Visionen, Ergänzende Bezuschussung einzelner Projekte, Realisierung des Bewohnertreffs im Neubaugebiet an der Bajuwarenstraße, mit Angaben zum Bewohnertreff "Na-klar! Nachbarschaft Kleinhadern" (Anlage 2)
+- TOP 12.4.: Beschluss des Bauausschusses vom 25.09.2007: Aktion Saubere Stadt, Konzept der Öffentlichkeitskampagne Vorgang: Beschluss des Bauausschusses vom 27.03.2007
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Verwaltungs- und Personalausschusses vom 26.09.2007: Erfahrung und Erkenntnises über das Pilotprojekt "NPO - Vereinsdatenbanken und Stadtteilseiten": Eine Anhörung der BA ist unter Berufung auf Anlage 1 der BA-Satzung nicht erforderlich.
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.09.2007: Mobilität in Deutschland 2008 - MiD 2008 Haushaltsbefragung zum Verkehr in München 2008 - MiDMUC 2008: Die Mehrkosten der Aufstockung der Befragung um 3.300 Haushalte betragen 164.000,- ?, wovon auf die Stadt 154.000,- ? entfallen (=46,67 ?/Haushalt).
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 19.09.2007: Strukturelles Umsetzungkonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln Erfahrungen mit der Umsetzung des Beschlusses und Information über die Mittelverwendung, Unterrichtung der BA gem. § 9 Abs. 2, 3 der BA-Satzung, Nr. 12 des Kataloges des Planungsreferates
+- TOP 12.2.: Bekanntgabe in der Sitzung des Kinder- und Jugendhilfeausschusses vom 18.09.2007: Neubau einer Kooperationseinrichtung an der Großhaderner Str. 40: Die Projektkosten betragen 2.548.000,- ? + Grundstücksablöse 255.000,- ? = 2.803.000,- ? für 74 Kinder = 37.878,38 ?/Kind.
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
