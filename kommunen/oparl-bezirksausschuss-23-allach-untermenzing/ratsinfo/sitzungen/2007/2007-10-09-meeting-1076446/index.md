@@ -1,0 +1,69 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2007-10-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1076446
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1076446
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Teerarbeiten - Auenbruggerstr.
+- TOP 1.2.: Diverse Anliegen der Bürger in Untermenzing
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Vollzug des Bayer. Straßen- und Wegegesetzes im Stadtbezirk 23 Allach-Untermenzing; Widmung der Gesamtstrecke der Straße - ohne eigenen Namen - (= U 1414)
+- TOP 5.: Anhörungen
+- TOP 5.1.: Lichtzeichenanlagen-Bauprogramm für 2008
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Neuer Rad- und Gehweg sowie Durchstich zwischen Professer-Eichmann-Straße und Wöhlerstraße
+- TOP 9.2.: Sachstand Spielplatz Megerlestraße, Erweiterung Jugendspiel
+- TOP 9.3.: Errichtung eines Bolzplatzes auf einer Teilfläche des Junkers-Geländes an der Schöllstraße und dessen städtebauliche Entwicklung (BA-Antrag Nr. 2250 vom 19.06.07)
+- TOP 9.4.: Projekt 14 Straßen in Allach, Nr. 12TU.W.50057
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Erlaubnis zur befristeten Nutzungsänderung einer Schießanlage
+- TOP 10.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Eduard-Schwartz-Str. 2
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO: - Behringstr. 89 s. Baumbest.plan Nr. 2007-67323 - Josef-Führer-Str. 33 - Nußhäherstr. 37 Rotfichten (Borkenkäferbäume)
+- TOP 11.2.: Liste der beantragten Baumfällungen (v. 03.09.-09.09.07; v. 17.09.-23.09.07)
+- TOP 11.3.: Bauanträge (v. 03.09.-09.09.07; v. 10.09.-16.09.07; v. 17.09.-23.09.07)
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Informationsveranstaltung des Sozialreferates für die Mitglieder aller Bezirksausschüsse / Hinweis zur Terminvormerkung am 26.11.07 von 18.30-ca. 21.00 Uhr
+- TOP 14.2.: Zweckentfremdung von Wohnraum; Ippenbergerstr. 1, Allacher Str. 281, Willi-Wien-Str. 28
+- TOP 14.3.: Regionale Sozialberichte 2006 sind jetzt online
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 17.1.: Stadtteilwoche Allach-Untermenzing 2007 Pressespiegel / Besucherstatistik
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 3 Maxvorstadt - Meiserstr./Arcisstr. Rathaus-Umschau vom 12.09.07 Nr. 174 "BA-Beschluß zur Meiserstraße rechtswidrig"
+- TOP 20.2.: BA 20 Hadern: Gebäude-Energiepass
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 21.2.: Seismik-Messkampagne der SWM in der Landeshauptstadt München
+- TOP 21.3.: Baumaßnahmen der SWM; Infoflyer
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Umweltausschuss vom 18.09.07: Schallschutz an den Autobahnen und Gleisen im 24. Stadtbezirk
+- TOP 22.2.: Ausschuss für Stadtplanung und Bauordnung vom 19.09.07 - Mini-Windkraftwerke auf den Dächern der städtischen Wohnungsbaugesellschaften - Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln Erfahrungen mit der Umsetzung des Beschlusses und Information über die Mittelverwendung - Mobilität in Deutschland 2008 - MiD 2008 Haushaltsbefragung zum Verkehr in München 2008 - MiDMUC 2008 - "Beer-Gelände" a) Verbesserung der Situation für Radfahrer und Fußgänger im Bereich des Würmgrünzuges b) Würm IV: Behringstraße südlich der Auenbruggerstraße als Rad- und Fußverbindung aufwerten c) Straßenverkehrserschließung in Untermenzing und Allach verbessern - Bebauungsplan für das Beer-Gelände": Straßenanbindung nach Westen - Behringstraße in den Würmgrünzug einbeziehen
+- TOP 22.3.: Sozialausschuss vom 20.09.07 - Quartierbezogene Bewohnerarbeit 1999 bis 2007 Entwicklungen, Sachstand und Visionen, Ergänzende Bezuschussung einzelner Projekte, Realisierung des Bewohnertreffs im Neubaugebiet an der Bajuwarenstraße
+- TOP 22.4.: Bauausschusses vom 25.09.07 - Aktion Saubere Stadt Konzept der Öffentlichkeitskampagne
+- TOP 22.5.: Ausschuss für Stadtplanung und Bauordnung vom 26.09.07 - Strukturkonzept Mühlangerstraße/Langwied - Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2014 Autobahnkreuz München West (südlich), Bundesautobahn A 8 (südwestlich), Mooswiesenstraße (westlich) Mühlangerstr. (nördlich), Berglwiesenstraße (östlich), Bundesautobahn A99 (südöstlich)
+- TOP 22.6.: Kinder- und Jugendhilfeausschuss und Sozialausschuss in gemeinsamer Sitzung vom 09.10.07: - Haushaltsplan 2008, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes - Haushaltsplan 2008, Produkt- und zielorientiere Ansätze für den Bereich "Förderung freier Träger" der Zentrale - Haushaltskonsolidierutng, Abschlussbericht 3. Haushaltssicherungskonzept (3.HSK), Sachstand Konsolidierung 2007, Feinkonzept 2008, Grobkonzept 2009-2011
+- TOP 23: Verschiedenes
+- TOP 24: Schreiben der Münchner Stadtentwässerung
+- TOP 24.1.: Nord-West Sammelkanal Abs. VI, Los 1.3; Lückenschluss Karlsfelder Straße bis Heppstraße
