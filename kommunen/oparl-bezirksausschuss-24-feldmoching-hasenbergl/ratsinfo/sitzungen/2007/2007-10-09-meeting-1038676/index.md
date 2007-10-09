@@ -1,0 +1,65 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2007-10-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1038676
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1038676
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: SpVgg Feldmoching e. V., 75-jähriges Vereinsjubiläum vom 27. bis 29.07.2007
+- TOP 2.2.: Elternbeirat der GS Lerchenauer Str., Verschönerung des Pausenhofes
+- TOP 3.1.: Behebung der Gehsteigverengung vor dem Gebäude Lerchenauer Str. 230
+- TOP 3.2.: Verlängerung der Buslinie 175 bis zur Siedlung Ludwigsfeld, Achatsstraße - <div>Antrag wurde von der Antragstellerin zurückgezogen</div>
+- TOP 3.3.: Schaffung der planungsrechtlichen Voraussetzungen für die Erweiterung der Städtischen Sportanlage an der Georg-Zech-Allee
+- TOP 3.4.: Errichtung eines Wochenmarktes auf dem Walter-Sedlmayr-Platz
+- TOP 3.5.: Bepflanzung des Grünzuges B - Feldmochinger Anger
+- TOP 3.6.: Mittelpunktsbibliothek für die Blodigstraße
+- TOP 3.7.: Veröffentlichung aller Daten bei Errichtung von Mobilfunksendeanlagen
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2008 - 2012
+- TOP 5.2.: Umstufung einer Teilstrecke des Feld- und Waldweges Nr. 59 (ohne eigenen Namen) nördlich der Heppstraße
+- TOP 5.3.: Lichtzeichenanlagen-Bauprogramm für 2008
+- TOP 5.4.: Erstellung einer Außenbereichssatzung für die Siedlung Am Drahtfeld / Sommerweide
+- TOP 5.5.: Vollzug der abfall- und immissionsschutzrechtl. Bestimmungen: Fa. Con Job GmbH, Waldmeisterstr. 95 b Antrag auf Änderungsgenehmigung
+- TOP 5.6.: Vollzug der Baumschutzverordnung a) Paul-Brann-Str. 6 b) Auf den Schrederwiesen 33 - <div>wie vom UA vorgeschlagen, Zustimmung einstimmig</div>
+- TOP 5.7.: Verkauf einer städtischen Immobilien Eberwurz-/Caracciolastraße
+- TOP 5.8.: Schaffung von P+R-Plätzen am Bahnhof Feldmoching (Empfehlung Nr. 02-08 / E 00736 vom 22.05.2007)
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Aufnahme der Siedlung Ludwigsfeld im Programm "Soziale Stadt" (BA-Antrag Nr. 2278) - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Platz an der Schleißheimer Straße (Nordheide) und Umbau der Schleißheimer Straße zwischen Sandbienenweg und Neuherbergstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Meldelisten - Baumfällungen - <div>wie vom UA vorgeschlagen, beschlossen</div>
+- TOP 6.4.: Meldelisten - Bauvorhaben - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Meldelisten - Baumaßnahmen Stadtwerke - <div>zur Kenntnis genommen</div>
+- TOP 6.6.: Verkehrsrechtliche Anordnung a) Verkehrsberuhigter Bereich Blausternweg östlicher Abschnitt b) Waldmeisterstr.; eingeschränktes Halteverbot - <div>zur Kenntnis genommen</div>
+- TOP 6.7.: Unveränderte Fortführung eines Gaststättenbetriebes a) "Jacky", Feldmochinger Str. 412 b) "Zum Dülfer", Dülferstr. 61 c) Imbiss-Stube Campingplatz Nord-West, Auf den Schrederwiesen 3 - <div>zur Kenntnis genommen</div>
+- TOP 6.8.: Gewerbegebiet Schleißheimer Str. 395 Vergabe von Gerwerbeparzellen - <div>zur Kenntnis genommen</div>
+- TOP 6.9.: Kultur im Stadtquartier; Beschlusssvorlage und Stadtratssitzung - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Öffentliche Grünfläche Detmoldstraße im 24. Stadtbezirk Feldmoching - Hasenbergl Ausführungsgenehmigung - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Aktion Saubere Stadt Konzept der Öffentlichkeitskampagne - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Zuschuss für bauliche Maßnahmen in der Jugendfreizeitstätte Lassallestr. 111, in Höhe von 50.000,00 ? aus der Pauschale "Bauliche Maßnahmen für Behinderte in Gebäuden Dritter und der Landeshauptstadt" - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln Erfahrungen mit der Umsetzung des Beschlusses und Informationen über die Mittelverwendung - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Mobilität in Deutschland 2008 - MiD 2008 Haushaltsbefragung zum Verkehr in München 2008 - MiDMUC 2008 - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1933 Trollblumenstraße (südlich), Blaukissenweg (beidseitig) und Bahnlinie München - Regensburg (westlich) - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Erhaltung und kulturelle, gesellschaftliche Nutzung des Wasserturms in der Lerchenau (Empfehlung Nr. 731 der Bürgerversammlung vom 22.05.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Bescheid über die Anerkennung von Plätzen in der Kindertagesstätte Josef-Zintl-Str. 33 - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO - Vereinsdatenbank und Stadtteilseiten" - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Schallschutz an den Autobahnen und Gleisen im 24. Stadtbezirk (Empfehlung Nr. 735 der Bürgerversammlung vom 22.05.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.20.: Mini-Windkraftwerke auf den Dächern der städtischen Wohnungsbaugesellschaften - <div>zur Kenntnis genommen</div>
+- TOP 6.21.: Quartierbezogene Bewohnerarbeit 1999 bis 2007 Entwicklungen, Sachstand und Visionen - <div>zur Kenntnis genommen</div>
+- TOP 6.22.: Haushaltsplan 2008 Produkt- und zielorientierte Ansätze für den Bereich der "Förderung freier Träger" des Stadtjugendamtes - <div>zur Kenntnis genommen</div>
+- TOP 6.23.: Besuch Flughafen am 17.10.2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.24.: Errichtung einer Kooperationseinrichtung an der Diamantstraße (Vorab-Stellungnahme aus Fristgründen) - <div>zur Kenntnis genommen</div>
+- TOP 6.25.: Neueinteilung der Stimmbezirke bzw. Wahllokale im 24. Stadtbezirk - <div>zur Kenntnis genommen</div>
+- TOP 6.26.: Auflösung des Containerstandortes am Goldlackplatz - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
