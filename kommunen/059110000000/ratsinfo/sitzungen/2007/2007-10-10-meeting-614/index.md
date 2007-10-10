@@ -1,0 +1,51 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2007-10-10T15:00:00+02:00
+- Ende: 2007-10-10T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYqzlzvj2vhpJzoKqELjXkY
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/614
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSS6pp9SRL6wLM8aIIgcAgDIUYZFIEP5JJIWBgrXdkeV/Einladung_Seniorenbeirat_10.10.2007.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZckX6DVlbtZ1oPF0KuhaUUJKo25-1dz60yYcr9-5BNLr/Oeffentliche_Niederschrift_Seniorenbeirat_10.10.2007.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 3.1: Rollstuhlplätze im Schauspielhaus Bochum - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4: Stellungnahmen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Mitteilungen
+- TOP 6.1: Kommunale Altenhilfe in Bochum - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.2: Arbeitskreis der Heimbeiräte der katholischen Pflegeheime - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: Pflegebegleiter - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: ÖPNV - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Belästigung durch Taubendreck am Busbahnhof - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Grundsicherung für Seniorinnen und Senioren - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Rolltreppen U-Bahn - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Anfrage des Seniorenbeirates zum Sicherheitsrisiko von Pflegebetten - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.9: Schloßpark Weitmar - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.10: Gehweg der Wittener Straße zwischen der Straße Am Siepen und Rombergstraße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.11: Bericht des Vorsitzenden
+- TOP 7: Anfragen
+- TOP 7.1: Bänke am Katharina-von-Bora-Haus - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.2: "Lokaler Führerschein" - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.3: Barrierefreie und behindertengerechte Arztpraxen und Therapieeinrichtungen - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.4: Öffentliche Toiletten zwischen Baltz und Kortum - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
