@@ -1,0 +1,74 @@
+# 12. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2007-10-10T17:12:00+02:00
+- Ende: 2007-10-10T21:55:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1483
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1483
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=35363
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Energiesparlampen als kommunaler Beitrag zum Klimaschutz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Bezirkliche Kulturarbeit durch Kooperation mit dem Verein Kulturhaus Centre Bagatelle e. V. fortentwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Vorfahrtsregelung in der Straße "Am Nordgraben - Schorfheidestraße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Telefonzellen auch mit Telefonkarten bedienen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Mehr Sicherheit durch Freiwilligen Ordnungsdienst in den Ortsteilen - vertagt
+- TOP 6.2: Wohnungslosigkeit in Reinickendorf - vertagt
+- TOP 6.3: Wohnprojekt für deliquente Jugendliche im Diakoniezentrum Heiligensee - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bezirkshaushaltsrechnung für das Haushaltsjahr 2006 - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Zusätzliche Haushaltsmittel für 2007 an die Abteilung Jugend und Familie - erledigt
+- TOP 8.2: Das ausnahmslose Rauchverbot in öffentlichen Gebäuden vorbereiten - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Bebauungsplanverfahren - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Projekt "Interkultureller Garten in Hermsdorf" - erledigt
+- TOP 8.5: Impfung gegen Gebärmutterhalskrebs - vertagt
+- TOP 8.6: Mehrbedarf an Personal- und technischer Ausstattung im Bereich Kinderschutz - erledigt
+- TOP 8.7: Öffnungszeiten des Sozialmarktes am Franz-Neumann-Platz verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 8.8: Kontaktstelle der Polizei für Reinickendorf-Ost erhalten - vertagt
+- TOP 8.9: Nutzung der Graphothek im Bewusstsein der Öffentlichkeit internsiver verankern! - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Mehr Kinderärzte in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.11: Erste-Hilfe-Defibrilatoren in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.12: Polizeiliche Kriminalitätsstatistik für Ortsteile veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 8.13: Gesundheitstag 2007 in Reinickendorf - vertagt
+- TOP 8.14: Kinder in Angst brauchen Schutz - Projekt Notinsel in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Handlungsräume der Bezirke erhalten - vertagt
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Mehr Sicherheit in den Abendstunden in Alt-Tegel - überwiesen
+- TOP 10.2: Verbesserung der Wasserqualität des Heiligensees - vertagt
+- TOP 10.3: Haltebuchten Waidmannsluster Damm - überwiesen
+- TOP 10.4: Schulhöfe für alle Kinder und Jugendlichen öffnen - überwiesen
+- TOP 10.5: Kein Radfahren auf den Fußwegen in Tegel - überwiesen
+- TOP 10.6: Lieferzufahrt OBI - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Hausordnungen an Schulen - überwiesen
+- TOP 10.8: Öffentliches Grün in Reinickendorf - überwiesen
+- TOP 10.9: Geschichte Reinickendorfs als Hörbuch - überwiesen
+- TOP 10.10: Fahrradrouten, Tourismusförderung - überwiesen
+- TOP 10.11: Aktion MitmachParcour - KlarSicht - - überwiesen
+- TOP 10.12: Radfahrverkehr Tegel - vertagt
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Projekt "Fair" auch in Reinickendorf einführen - überwiesen
+- TOP 11.2: Südtunnel des S-Bahnhofs Hermsdorf in sauberen Zustand bringen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: MRSA an Reinickendorfer Krankenhäusern - überwiesen
+- TOP 11.4: Schuldnerberatung an Reinickendorfer Schulen - vertagt
+- TOP 11.5: Geschwindigkeitskontrollen in der Schulzendorfer Straße (Heiligensee) durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Ortsteil Tegel mit dem Fernbahnhof Spandau besser verbinden - überwiesen
+- TOP 11.7: Schuldenfalle bei Jugendlichen - vertagt
+- TOP 11.8: Staatliche Europa-Schule an der Romain-Rolland-Oberschule weiterführen - vertagt
+- TOP 12: Haltung zu Schwulen und Lesben und zu BVV-Beschlüssen klar stellen! - vertagt
+- TOP 13: Situation an den Reinickendorfer Schulen - beantwortet
+- TOP 14: Krebserkrankungen in Reinickendorf - überwiesen
+- TOP 14.1: Senat soll Krebsvorsorge unterstützen - überwiesen
