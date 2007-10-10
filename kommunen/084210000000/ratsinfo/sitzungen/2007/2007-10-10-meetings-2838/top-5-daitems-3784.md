@@ -1,0 +1,7 @@
+# TOP 5: Hans- und Sophie-Scholl-Gymnasium Ulm
+
+- Sitzung: Sitzung des Fachbereichsausschusses Bildung und Soziales (2007-10-10)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/3784
+- Ergebnis: einstimmig beschlossen
