@@ -1,0 +1,8 @@
+# TOP 6: Etatentwurf 2008
+
+- Sitzung: Bezirksvertretung Neuwerk (2007-10-10)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/108653
+- Ergebnis: Mit Änderung beschlossen (s. Niederschrift)
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/7004
