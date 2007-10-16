@@ -1,0 +1,99 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2007-10-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1020581
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1020581
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.: Isarflimmern 2008; Freilichttheater Juni - August 2008 in den Isarauen; Vorstellung des Konzepts durch die Veranstalter (TOP 3.6.4.2 vom 18.09.07)
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Umgestaltung vom Platz an der Lohstraße unter dem Mittleren Ring; Schreiben des Jugendtreffs AKKU vom 13.09.2007
+- TOP 2.2.: Maßnahmen gegen die Verunstaltungen in der Klausenerstraße; Bürgerschreiben vom 22.08.2007 - <div>vertagt</div>
+- TOP 2.3.: Hortneubau Rotbuchenstr. 79; Verlust von Aufenthaltsraum, Umkleidekabine und evtl. Trainingsort des FC Allemannia München 1912 e.V. (inbesondere der Jugendabteilung) Schreiben des FC Alemanni München 1912 e.V. vom 27.09.2007 - <div>nach Antrag</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Kath. Pfarramt Hl. Familie, für die Maßnahme: Konzert am 18.11.2007; Antragssumme: 1.460,-- ?; Beschlussvorlage des Direktoriums vom 01.10.2007
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: zuletzt in den UA verwiesene Themen: - Erhalt der Parkplätze an der Lohstraße / Cannabichstraße (TOP 2.1.2.5 vom 18.09.07) hierzu weiteres Bürgerschreiben vom 27.09.2007
+- TOP 3.1.: Lichtzeichenanlagen-Bauprogramm für 2008; Zuleitung des Kreisverwaltungsreferates vom 12.09.2007
+- TOP 3.1.: Ampelschaltung Kreuzung Südtiroler-/Grünwalderstr.; Bürgeranliegen aus der Sitzung vom 19.06.2007; Antwort des Kreisverwaltungsreferates vom 20.09.2007
+- TOP 3.1.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrsrechtlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln; Erfahrungen mit der Umsetzung des Beschlusses und Information über die Mittelverwendung; Sitzungsvorlage Nr. 02-08/V 10822; Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 19.09.2007
+- TOP 3.2.: Mobilität in Deutschland 2008 - MiD 2008; Haushaltsbefragung zum Verkehr in München 2008 - MIDMUC 2008; Sitzungsvorlagen Nr. 02-08/V 10800; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.09.2007 (VB)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: zuletzt in den UA verwiesene Themen: - "Ramadama"-Aktion im Stadtbezirk; Konzeptentwicklung (TOP 3.3.5.2 vom 18.09.07) - Baumfällungen im Einzelantragsverfahren. Umwandlungen der Unterrichtungs- in Anhörungsverfahren; Entwicklung eines Verfahrensvorschlags / Kriterienkatalogs (TOP 3.3.7.1 vom 18.09.07)
+- TOP 3.1.: Gebäude-Energiepass; Antrag an den BA 20 zur Sitzung am 10.09.2007 zur Weiterleitung an alle Bezirksausschüsse
+- TOP 3.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen in der Tierparkstr.; Bescheid vom 07.09.2007
+- TOP 3.3.: Aktion Saubere Stadt; Konzept der Öffenlichkeitskampagne; Sitzungsvorlage Nr. 02-08 / V 10567; Beschluss des Bauausschusses vom 25.09.2007
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Quartierbezogene Bewohnerarbeit 1999 bis 2007; Entwicklungen, Sachstand und Visionen; Ergänzende Bezuschussung einzelner Projekte; Realisierung des Bewohnertreffs im Neubaugebiet an der Bajuwarenstraße; Antrag Nr. 02-08 / B 02044 des Bezirksausschusses des 15. Stadtbezirkes Trudering-Riem vom 26.04.2007; Sitzungsvorlage Nr. 02.08 / V 10569; Beschluss des Sozialausschusses vom 20.09.2007 (SB)
+- TOP 3.2.: 3.4.6.2 Haushaltsplan 2008; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugenamtes; 3.4.6.2.1Sitzungsvorlage Nr. 02-08 / V 10605; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusse in der gemeinsamen Sitzung vom 09.10.2007 (SB) 3.4.6.2.2 Sitzungsvorlage Nr. 02-08 / 10781; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.2007 3.4.6.2.3 Sitzungsvorlage Nr. 02-08 / V 10719; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.10.2007 (SB) 3.4.6.2.4 Sitzungsvorlage Nr. 02-08 / V 10605; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.2007 3.4.6.2.5 Sitzungsvorlage Nr. 02-08 / V 10661; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.10.2007 3.4.6.2.6 Sitzungsvorlage Nr. 02-08 / V 10776; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.2007
+- TOP 3.3.: Neue Wege in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Sizialausschusses vom 11.10.2007; Kurzübersicht zur beiligender Bekanntgabe
+- TOP 3.4.: Haushaltsplan 2008; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 02-08 / V 10672; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.2007
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: BRK-Parkplatz am Tierpark (Isareingang); Schreiben des Bayerischen Roten Kreuzes vom 25.09.2007
+- TOP 3.1.: Mitteilung über Grundstücksgeschäft; Sanatoriumsplatz ; Zuleitung des Kommunalreferats vom 07.09.2007
+- TOP 3.2.: Mini-Windkraftwerke auf den Dächern der städtischen Wohnungsbaugesellschaften; Antrag Nr. :02-08 / A 03727 von Frau Stadträtin Mechthild von Walter vom 25.05.2007; Sitzungsvorlagen-Nr. 02-08 / V 10692; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.09.2007 (SB)
+- TOP 3.3.: Baufälle im 18. Stadtbezirk
+- TOP 3.4.: 3.5.6.4 Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferat 3.5.6.4.1 Konditorei Cafe Hölzl; Grünwalder Str.; Mitteilung vom17.09.2007 3.5.6.4.2 Antrag auf unveränderte Fortführung des Gaststätenbetriebes Aral-Tankstelle in der Grünwalder Str. 175c 3.5.6.4.3 Antrag auf unveränderte Fortführung des Gaststättenbetriebes Taverne Likabittos in der Kühbachstr. 4; Zuleitung des Kreisverwaltungsreferates vom 01.10.2007
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: zuletzt in den UA verwiesene Themen: - Angebot des Vereins Freunde Giesings e.V.: Ausstellung zur Braunauer Eisenbahnbrücke
+- TOP 3.1.: Kultur im Stadtquartier; Beschlussvorlage und Stadtratssitzung; Zuleitung des Kulturreferates vom 27.08.2007
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Antrag auf Selbstdarstellung des Bezirksausschusses 18 in Form eines Infoblattes; Antrag mit Schreiben vom 04.10.2007
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Stadtratsvorlage " Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO - Vereinsdatenbank und Stadtteilseiten" - Evaluationsbeschluss", Zuleitung des Direktoriums vom 23.08.2007
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.1.: zuletzt in den UA verwiesene Themen: - / -
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
