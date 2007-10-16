@@ -1,0 +1,132 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2007-10-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1046455
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1046455
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.3.: Antrag Seniorentreff Neuhausen: Zuschuss in Höhe von 1000 ? für die Feier zum 25jährigen Bestehen und Anschaffung von Stühlen und Tischen für Veranstaltungen
+- TOP 2.4: Beschlussvorlagen
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Festlegung der Themen für die Bürgerversammlung bis 09.10.07
+- TOP 3.2.: KVR: Verkehrsrechtliche Anordnung: Verlegung Taxistandplatz Donnersbergerbrücke
+- TOP 3.3.: KVR: Lichtzeichenanlagen-Bauprogramm für 2008
+- TOP 3.4.: Baureferat: Straßenausbaubeitragssatzung
+- TOP 3.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.09.07: Mobilität in Deutschland 2008 - MiD 2008; Haushaltsbefragung zum Verkehr in München 2008 - MiDMUC 2008
+- TOP 3.6.: Baumaßnahmen der Stadtwerke im September 2007
+- TOP 3.7.: Stadtwerke: Informationsflyer " "SWM Netzbaumaßnahmen im Stadtbezirk 9"
+- TOP 3.8.: Behandlung der Straßen inner- und außerhalb des Mittleren Rings durch die städtischen Referate
+- TOP 3.9.: Baureferat: Zustand der Straßenoberflächen in der Tizianstraße zwischen Waisenhaus- und Gerner Straße (Schreiben BA 9 vom 21.08.07)
+- TOP 3.10.: Polizeiinspektion 42: Radverkehr am Fußweg des Nymphenburger Kanals (Schreiben BA 9 vom 21.08.07)
+- TOP 3.11.: Bürgeranliegen: Mangelhafte Straßenbeläge in Neuhausen u.a. (Schreiben BA 9 vom 21.08.07) Wiedervorlage aus der Sitzung vom 18.09.07
+- TOP 3.12.: KVR: Verkehrsrechtliche Anordnung vom 03.09. - 19.10.07 wegen Straßenbauarbeiten in der Ackermannstraße zwischen Schleißheimer - und Schwere-Reiter-Straße
+- TOP 3.13.: Antrag SPD: Änderung von Haltverboten in der Lorschstraße Ecke Karl-Schurz-Straße (Wiedervorlage aus der Sitzung vom 18.09.07)
+- TOP 3.14.: KVR: Verkehrsrechtliche Anordnung: Zeitliche Erweiterung der Lieferzone Blutenburgstr. 52 (Schreiben BA 9 vom 17.04.07)
+- TOP 3.15.: Prioritätenliste für den Straßenunterhalt; Zustand der Straßen, Plätze, Geh- und Radwege im 9. Stadtbezirk
+- TOP 3.16.: Baureferat: Instandsetzung der Überführung der Dachauer Straße über den Nymphenburg - Biedersteiner - Kanal; Projektgenehmigung
+- TOP 3.17.: Bürgeranliegen: U-Bahnhof Maillingerstraße: Ausstattung der Rolltreppen mit wechselnder Laufrichtung (Wiedervorlage aus der Sitzung vom 18.09.07)
+- TOP 3.18.: Parkraummanagement in München / Vorstellung durch Vertreter des Planungsreferates
+- TOP 3.19.: Bürgeranliegen: Trambahnbeschleunigung, Ampelschaltung und Folgen für die Fußgänger Kreuzung Dachauer Straße / Hedwig-Dransfeld-Allee
+- TOP 3.20.: KVR: Fahrradweg Rotkreuzplatz / Ergebnis Ortstermin (Antrag BA 9 Nr. 1624 vom 21.11.06 und Schreiben vom 15.05.07)
+- TOP 3.21.: =&gt; dazu: Antrag CSU: Radwegmarkierung Furt Rotkreuzplatz (Wiedervorlage aus der Sitzung vom 18.09.07)
+- TOP 3.22.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.09.07; Hinweis / Ergänzung vom 11.09.07; Beschluss der Vollversammlung des Stadtrats vom 04.10.07: Grundsatzbeschluss zur Fahrradabstellanlage am geplanten S-Bahnhaltepunkt Friedenheimer Brücke und zur Umgestaltung der Friedenheimer Brücke
+- TOP 3.23.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vomn 19.09.07: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln; Erfahrungen mit der Umsetzung des Beschlusses und Information über die Mittelverwendung
+- TOP 3.24.: Park & Ride GmbH: ADAC-Prämierung der Anwohnertiefgarage Donnersbergerstraße
+- TOP 3.25.: Baureferat: Einziehung einer Teilstrecke des Birketweges (=Ortsstraße)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.2.: Planungsreferat: Bautennachweise vom 03.09. - 09.09., 10.09. - 16.09., 17.09. - 23.09. und 24.09. - 30.09.07
+- TOP 3.3.: Bürgeranliegen: Nachnutzung des Geländes Rosa-Luxemburg-Platz / Emma-Ihrer-Straße
+- TOP 3.4.: Vorstellung des Budgetantrags "Münchner Kleinode"
+- TOP 3.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.09.07: 37. städtischer Fassadenwettbewerb; Fassadenpreise und lobende Erwähnungen 2006
+- TOP 3.6.: Planungsreferat: Bauvorhaben Volksgartenstr. 2, Neubau von 12 Stadthäusern mit Tiefgarage in eine teilabzubrechende Bunkeranlage, Vorbescheid
+- TOP 3.7.: Bürgeranliegen: Bauvorhaben Döllingerstr. 41
+- TOP 3.8.: Bauvorhaben Böcklinstr. 2 a: Errichtung von Wohngebäuden mit Tiefgarage, Vorbescheid; hier: Baumfällungen
+- TOP 3.9.: Sozialreferat: Geplante Bebauung des Grundstücks Orffstraße (Schreiben BA 9 vom 17.07.07)
+- TOP 3.10.: Eurytos Wohn- und Gewerbebau GmbH: Bürgeranliegen: Störung durch die Baumaßnahmen am ehemaligen ESV-Gelände (Schreiben BA 9 vom 18.09.07)
+- TOP 3.12.: Bauvorhaben Menzinger Str. 44: Sanierung und Erweiterung des Schwestern-Altenheims St.Josef sowie Neuerrichtung der Kapelle und Speisesaal; hier: Baumfällungen
+- TOP 3.13.: Zweckentfremdung:
+- TOP 3.14.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Volkartstraße
+- TOP 3.15.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Volkartstraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Festlegung der Themen für die Bürgerversammlung bis 08.10.07
+- TOP 3.2.: Lazarettstr. 36: Fällung von 1 Spitzahorn
+- TOP 3.3.: Thorwaldsenstr. 31: Fällung von 1 Spitzahorn
+- TOP 3.4.: Romanstr. 17 a und b: Fällung von 1 Spitzahorn und 1 Fichte; Baumveränderung an 3 Buchen und 1 Winterlinde
+- TOP 3.5.: Romanstr. 97: Fällung von 1 Ulme und 2 Ahorn
+- TOP 3.6.: Rheingoldstr. 4-10: Fällung von 2 Birken, 1 serbische Fichte und 1 Lärche
+- TOP 3.7.: Kriemhildenstr. 22: Fällung von 1 Kiefer und 1 Weißtanne
+- TOP 3.8.: Fafnerstr. 3: Fällung von 1 Kiefer
+- TOP 3.9.: Wotanstr. 53: Fällung von 2 Eschen
+- TOP 3.10.: Planungsreferat: Baumfällung Kriemhildenstr. 19
+- TOP 3.11.: Verschmutzte und beschädigte Sitzbänke an der Südlichen Auffahrtsallee (Nymphenburger Kanal)
+- TOP 3.12.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.09.07: Mini-Windkraftwerke auf den Dächern der städtischen Wohnungsbaugesellschaften
+- TOP 3.13.: Stadtwerke: Seismik - Messkampagne der Stadtwerke in München
+- TOP 3.14.: Referat für Gesundheit und Umwelt: Einladung zur Podiumsdiskussion "Welche Heiztechnik hat Zukunft ?" am 11.10.07 im Rahmen der Münchner EnergieSparTage
+- TOP 3.16.: Planungsreferat: Fällungsablehnung Prinzenstr. 8
+- TOP 3.17.: Planungsreferat: Fällungsgenehmigung Scherrstr. 11
+- TOP 3.18.: Planungsreferat: Fällungsgenehmigung Tizianstraße Flurnr. 320/22
+- TOP 3.19.: Beschluss des Bauausschusses vom 25.09.07: Aktion Saubere Stadt; Konzept der Öffentlichkeitskampagne
+- TOP 3.20.: =&gt; dazu: Bürgeranliegen: Antrag auf Aufstellung von Hundekot-Tütenspendern in der Schlörstraße
+- TOP 3.21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.22.: Bürgeranliegen: Verlegung der Wertstoffinsel Hertha-/Irnfriedstraße (Ziffer 6) Wiedervorlage aus der Sitzung vom 18.09.07
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Festlegung der Themen für die Bürgerversammlung bis 11.10.07
+- TOP 3.4.: Antrag Seniorentreff Neuhausen: Zuschuss in Höhe von 1000 ? für die Feier zum 25jährigen Bestehen und Anschaffung von Stühlen und Tischen für Veranstaltungen
+- TOP 3.5.: Vorstellung Hirschgartenerweiterung / Kinder- und Jugendbereich
+- TOP 3.6.: Einladung zur 63. Sitzung der PSAG West am 11.10.07
+- TOP 3.7.: Einladung zur Veranstaltung "40 + 10 Jahre" Jugendinformation in München am 19.10.07
+- TOP 3.8.: Einladung zur Vorstellung des Sozialpsychiatrischen Zentrums am Klinikum München-Ost am 14.11.07
+- TOP 3.9.: Beschluss des Schulausschusses vom 19.09.07: Städtisches Käthe-Kollwitz-Gymnasium; Brandschutzmaßnahmen und Generalinstandsetzung Bauteil P; Projektgenehmigung
+- TOP 3.10.: Sozialreferat: Regionaler Sozialbericht 2006 für die Sozialregion Neuhausen-Nymphenburg
+- TOP 3.11.: Beschluss des Sozialausschusses vom 20.09.07: Quartierbezogene Bewohnerarbeit 1999 bis 2007; Entwicklungen, Sachstand und Visionen; Ergänzende Bezuschussung einzelner Projekte
+- TOP 3.12.: Beschluss des Kinder- und Jugendhilfe- und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.07: Haushaltsplan 2008; Einzelplan 4 des Sozialreferates
+- TOP 3.13.: Beschluss des Kinder- und Jugendhilfe- und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.07: Haushaltskonsolidierung; Abschlussbericht 3. Haushaltssicherungskonzept; Sachstand Konsolidierung 2007; Feinkonzept 2008, Grobkonzept 2009-2011
+- TOP 3.14.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.10.07: Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" a) der Zentrale b) des Stadtjugendamts c) des Amtes für Soziale Sicherung
+- TOP 3.15.: Überlegungen zum Kinderfest 2008
+- TOP 3.17.: Beschluss des Schulausschusses vom 19.09.07: Grund- und Hauptschule Alfonsstr. 8; Umbau Wandelhalle mit Kopfbau für Schulsozialarbeit und Pausenhalle; Bedarfs- und Konzeptgenehmigung
+- TOP 3.18.: Beschluss des Kinder- und Jugendhilfeausschusses vom 18.09.07: Investitionskostenförderung Kinderkrippe "Le Jardin" Leonrodstr. 46 mit 24 Kinderkrippenplätzen; Erweiterung der bestehenden zweigruppigen Kindekrippe; Umbau bestehender Räume
+- TOP 3.19.: Jugendcamp "The Tent", Kapuzinerhölzl; Schreiben einer Rechtsanwaltskanzlei und des Kreisjugendrings
+- TOP 3.20.: Sozialreferat: Seniorentreff Neuhausen; Bewerbung um die Betriebsführung eines zweiten ASZ im 9. Stadtbezirk (Schreiben BA 9 vom 21.08.07)
+- TOP 3.21.: Freizeitstätte Hirschgarten: Anfrage bzgl. einem Zuschuss aus dem Budget des BA 9 für einen Anhänger (Wiedervorlage aus der Sitzung vom 18.09.07)
+- TOP 3.22.: 2 Bürgeranliegen: Lärmbelästigung durch das Backstage (Wiedervorlage aus der Sitzung vom 18.09.07)
+- TOP 3.23.: Stadtwerke: Künftige Nutzung des Trambahnhäuschens Ackermannstr. 88 (Schreiben BA 9 vom 15.05.07, zum Antrag Nr. 1756)
+- TOP 3.25.: Beschlussvorlage für den Schulausschuss vom 14.11.07: Neubau von Kindertagesstätten in Systembauweise Serie 2: Errichtung einer Kooperationseinrichtung mit 3 Kindergarten- und 3 Krippengruppen Birketweg-West II; Projektgenehmigung
+- TOP 3.26.: Beschluss des Schulausschusses vom 14.11.07: Errichtung einer Kooperationseinrichtung im 9. Stadtbezirk
+- TOP 3.27.: Sozialreferat: Schulzentrum Nymphenburg Süd / Neuerrichtung eines ASZ (Schreiben BA 9 vom 17.07.07) Wiedervorlage aus der Sitzung vom 18.09.07
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.1.: Festlegung der Themen für die Bürgerversammlung bis 04.10.07
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.2.: Initiative "Historische Lernorte Sendling": Vorstellung des Biographischen Gedenkbuchs der Münchner Juden am 11.10.07
+- TOP 3.3.: Kulturreferat: Veranstaltungen im September 2007
+- TOP 3.4.: Kulturreferat: Unterstützung einer Ausstellung mit spanischen und deutschen Künstlern im "Neuland" (Schreiben BA 9 vom 21.08.07)
+- TOP 3.5.: Projekt Bürgerinnen und Bürger gestalten ihre Stadt ? Aktuelles
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Stadtkämmerei: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2008-2012
+- TOP 4.2.: KVR: Bäckerei und Stehcafe, Nibelungenstr. 20; Freischankflächenantrag
+- TOP 4.3.: KVR: Gaststätte "Kapuziner Hölzl - Da Gino", Menzinger Str. 54 d; Pächterwechsel
+- TOP 4.4.: KVR: Gaststätte "Trattoria Bellini", Nymphenburger Str. 98; Pächterwechsel
+- TOP 4.5.: KVR: Gaststätte "Chantra", Nymphenburger Str. 152 a; Pächterwechsel
+- TOP 4.6.: KVR: Einweihung des Stadtplatzes im Arnulfpark am 12.10.07
+- TOP 4.7.: KVR: Standkonzerte der Blinden Musiker am 12.10. und 17.10.07 auf dem Rotkreuzplatz
+- TOP 4.8.: KVR: Silvesterlauf des MRRC am 31.12.07 im Olympiapark mit Ackermannstraße
+- TOP 4.9.: KVR: Kundgebung CSU-Ortsverband Neuhausen / Nymphenburg zum Thema "Verschönerung des Rotkreuzplatzes" am 21.11.07 auf dem Rotkreuzplatz
+- TOP 4.10.: Baureferat: Erster Bauabschnitt Neuhauser Trafo / Grundsteinlegung am 08.11.07 (Schreiben BA 9 vom 20.06.07)
+- TOP 4.11.: Bezirksausschuss 11 Milbertshofen - Am Hart: Bürgeranliegen: Lärmbelästigung durch Veranstaltungen im Olympiapark
+- TOP 5.: Verschiedenes
+- TOP 3.2.: Antrag AWO Ortsverein Gern: Zuschuss in Höhe von 800 ? für die Jubiläumsfeier 40 Jahre Seniorenclub ?Canaletto? am 21.09.07
+- TOP 3.3.: Antrag Clean Projekt Neuhausen e.V.: Zuschuss in Höhe von 10 000 ? für die Ersatzanschaffung von Fitnessgeräten
+- TOP 3.1.: Festlegung der Themen für die Bürgerversammlung bis 10.10.07
+- TOP 3.24.: Sozialreferat: Erfüllung der SOBON-Grundsätze vom Bauträger Heilig-Geist-Areal einfordern (Schreiben BA 9 vom 20.03.07, zum Antrag Nr. 1755)
+- TOP 3.16.: Bezirksausschuss 20 Hadern: Gebäude-Energiepass
