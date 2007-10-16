@@ -1,0 +1,7 @@
+# TOP 3.2.: 3.4.6.2 Haushaltsplan 2008; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugenamtes; 3.4.6.2.1Sitzungsvorlage Nr. 02-08 / V 10605; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusse in der gemeinsamen Sitzung vom 09.10.2007 (SB) 3.4.6.2.2 Sitzungsvorlage Nr. 02-08 / 10781; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.2007 3.4.6.2.3 Sitzungsvorlage Nr. 02-08 / V 10719; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.10.2007 (SB) 3.4.6.2.4 Sitzungsvorlage Nr. 02-08 / V 10605; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.2007 3.4.6.2.5 Sitzungsvorlage Nr. 02-08 / V 10661; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.10.2007 3.4.6.2.6 Sitzungsvorlage Nr. 02-08 / V 10776; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.2007
+
+- Sitzung: BA 18 - Vollgremium (2007-10-16)
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/92848
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/92848
