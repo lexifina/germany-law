@@ -1,0 +1,72 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2007-10-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1039582
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1039582
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 3.1.: Sachbericht Budget, hier: Rafting-Tour mit Jugendlichen vom 29.05.-01.06.2007
+- TOP 3.2.: Sachbericht Budget, hier: Angerfest des offenen Kindertreffs am 30.06.2007
+- TOP 3.3.: Freigabe des städtischen Grundstücks Schleißheimer Str. / Piccoloministr., nördlich des "Glaspalastes" (Antrag Nr. 02-08/B02405 des Bezirksausschusses 11 Milbertshofen - Am Hart vom 19.09.2007)
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 1: (E) Intensivere Parküberwachung im Bereich Pommernstraße, Konstanzer Straße und Anhalter Straße Empfehlung Nr 02-08 / E 00795 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 28.06.2007
+- TOP 2: (E) Überprüfung der Freischankflächen am Aufgang der U 2 Ecke Keferloher Str. / Knorrstraße (Ziffer 3) Empfehlung Nr. 02-08 / E 00790 der Bürger- versammlung des Stadtbezirkes 11 - Milbertshofen- Am Hart am 28.06.2007
+- TOP 1.2.: Überprüfung der Freischankflächen am Aufgang der U2 Ecke Keferloherstr./Knorrstr. (Ziffer 3) (Empfehlung Nr.02-08/E00790 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart am 28.06.2007)
+- TOP 3: (E) Lösung der Verkehrsproblematik im Bereich Anton-Will-Straße/Starenweg Empfehlung Nr. 02-08 / E 00777 der Bürger- versammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart vom 28.06.2007
+- TOP 7.: Anträge
+- TOP 7.7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 8.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2008-2012
+- TOP 8.1.: Vollzug der Baumschutzverordnung, Einzelmaßnahme a) Kaadener Str. 14, eine Buche
+- TOP 8.3.: Bauvorhaben, hier: Knorrstr. 135
+- TOP 8.4.: Petuelring (nördlich), Schleißheimer Straße (westlich), Hanselmannstraße (östlich), Kantstraße (südlich), Teiländerung des Bebauungsplans Nr. 359 - Aufstellungsbeschluss -
+- TOP 8.5.: Anhörung im Einzelfall auf Anforderung a)Nadistr. 16, Nutzungsänderung eines Büros in eine Kindertagesstätte (Eltern-Kind-Initiative) b) Knorrstr. 135, Antrag auf Teilbaugenehmigung Baugrube, Fundamente (ohne Bodenplatte) - Neubau eines Bürogebäudes c) Keferloherstr. 87, Nutzungsänderung: Schießstand zu Gastraum mit Nebenräumen d) Moosacher Str. 82-98c, Knorr-Bremse-Areal West (vertagt aus der Sitzung am 19.09.2007)
+- TOP 8.1.: Schaffung einer Vollzeit-Stelle für die Betreuung der Bewohnerinnen und Bewohner des Kompro Hauses in der Moosacher Straße (Empfehlung Nr. 02-08/E00805 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am hart am 28.06.2007)
+- TOP 8.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 8.3.: Verkehrsrechtliche Anordnung nach §45 StVO, hier: Kantstr. 2
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Münchner Statistik, 1. Quartalsheft, Jahrgang 2007
+- TOP 9.2.: Meiserstraße / Arcisstraße, Schreiben des Bezirksausschusses 3 Maxvorstadt
+- TOP 9.3.: Vorkaufsrecht nach dem BauGB
+- TOP 9.4.: Stadtratsvorlage "Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO-Vereinsdatenbank und Stadtteilseiten" - Evaluationsbeschluss (Beschluss des Verwaltungs- und Personalausschusses vom 26.09.2007)
+- TOP 9.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.: Gebäude-Energiepass, Beschluss des Stadtbezirkes 20 Hadern
+- TOP 9.3.: Mini-Windkraftwerke auf den Dächern der städtischen Wohnungsbaugesellschaften (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.09.2007)
+- TOP 9.4.: Mobilität in Deutschland 2008 - MiD 2008 (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.09.2007)
+- TOP 9.7.: Vollzug der Baumschutzverordnung, Fällungsanträge Einzelverfahren
+- TOP 9.8.: Meldelisten Bauvorhaben
+- TOP 9.9.: Neue Wege in der Wohnraumversorgung für ältere Bürgerinnen und Bürger (Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Sozialausschusses vom 11.10.2007)
+- TOP 9.10.: Ausweisung neuer Gewerbeflächen Berichtsjahr 2006 (Bekanntgabe in der Sitzung des Uasschusses für Sadtplanung und Bauordnung vom 10.10.2007)
+- TOP 9.11.: Strukturkonzept Bayernkaserne mit Überlegungen zum ehem. DB-Ausbesserungswerk Freimann sowie M,O,C, (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2007)
+- TOP 9.12.: Aktion saubere Stadt, Konzept der Öffentlichkeitsarbeit (Beschluss des Bauausschusses vom 25.09.2007)
+- TOP 9.13.: Instandsetzung der Überführung der Dachauer Straße über den Nymphenburg-Biedersteiner-Kanal
+- TOP 9.1.: Haushaltsplan 2008, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.10.2007)
+- TOP 9.2.: Haushaltsplan 2008, Einzelplan 4 des Sozialreferates (Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.2007)
+- TOP 9.3.: Haushaltskonsolidierung, Abschlussbericht 3. Haushaltssicherungskonzept, Sachstand Konsolidierung 2007, Feinkonzept 2008, Grobkonzept 2009-2011 Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.11.2007)
+- TOP 9.4.: Haushaltsplan 2008, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale (Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausscusses vom 09.10.2007)
+- TOP 9.5.: Schaffung einer Aufnahmemöglichkeit für die Schülerinnen und Schüler der Grundschule Hildegard-von-Bingen-Anger im Lion-Feuchtwanger-Gymnasium oder in einem der gut erreichbaren Schwabinger Gymnasien (Beschluss des Schulausschusses des Stadtrates vom 10.10.2007)
+- TOP 9.6.: Verpflichtung der Münchner Schulen zu gesunder Schulverpflegung und Mittagsverpflegung (Beschluss des Schulausschusses des Stadtrates vom 10.10.2007)
+- TOP 9.7.: Quartierbezogene Bewohnerarbeit 1999 bis 2007 (Beschluss des Sozialausschusses vom 20.09.2007)
+- TOP 9.10.: Brandschutzmaßnahme an der Balthasar-Neumann-Realschule sowie der Grundschule an der Hugo-Wolf-Str. 70 im 11. Stadtbezirk Milbertshofen - Am Hart (Beschluss des Schulausschusses des Stadtrates vom 10.10.2007)
+- TOP 9.11.: Unveränderte Fortführung von Gaststättenbetrieben a) KGS "Konradstüberl", Graf-Konrad-Str. 20 b) SSW "Pizzeria Ricardo", Silcherstr. 2
+- TOP 9.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Erlaubnisbescheide
+- TOP 9.2.: Filmaufnahmen auf öffentlichem Verkehrsgrund, Erlaubnisbescheide
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.4: Verkehr
+- TOP 9.9.3: Kultur / Soziales
