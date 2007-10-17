@@ -1,0 +1,108 @@
+# 12. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2007-10-17T17:00:00+02:00
+- Ende: 2007-10-17T21:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1069
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1069
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Taxi-Halteplatz am S-Bahnhof Lichterfelde-Ost - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringliche Abberufungen - erledigt
+- TOP 4.1.1: Abberufung eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Abberufung eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Dringliche Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Patientenfürsprecher mehr publik machen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bezirksrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2005 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Ausschussanträge - erledigt
+- TOP 4.4.1: Sondermittel der BVV für die Martha-Liebermann-Ausstellung der Max-Liebermann-Gesellschaft - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Bebauungsplan XII-242-1 (Frobenstr. 77/81) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.6: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Bebauungsplan XII-6-2 B (Gewerbegebiet Siemensstraße) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Anträge - erledigt
+- TOP 4.7.1: Briefkasten für das Nahversorgerzentrum (NVZ) im Schweizer Viertel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.2: Straßenbenennung nach Peter Lorenz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.3: Beteiligung von Bezirksamt und BVV an den Plänen zum Strandbad Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.4: Mehr Zeit für Haushaltsberatungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.8.1: "Brötchentaste" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.2: Büroräume für Seniorenangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.3: Kein Facility-Management im Schulbereich - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.4: Jahrsgangsübergreifender Unterricht in der flexiblen Schulanfangsphase nur bei Freiwilligkeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.5: Gewerbehinweisschilder für die Ladenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.6: Fußgängerüberweg auf dem Dahlemer Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.7: Kurzzeitparkplätze in der Riemeisterstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.8: Zusammenlegung der Bezirksverbände der Kleingärtner - in der BVV abgelehnt
+- TOP 4.8.9: Fahrradstellplätze Mexikoplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.10: Solaranlage Karstadt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.11: Soziales Kompetenztraining für Kinder im Grundschulalter "Helden AG" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.12: Halteverbot im Hüttenweg bei Lidl - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.13: Kohlhasenbrücker Straße teilweise in Einbahnstraße umwidmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.14: Wiederherstellung der Parks in Steglitz-Zehlendorf als Aushängeschild des Bezirks - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.15: Städtebauliche Neugestaltung Sackgasse Selerweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.16: Schulspeisung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.17: Subventioniertes Schulessen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.18: Unterrichtsgarantie an den Schulen in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.19: Aufstellen von Wartehäuschen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.20: Steglitz-Zehlendorfs Chancen nutzen: Etablierung eines Clusters "Gesundheitswirtschaft" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.21: Haushaltsplan veröffentlichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.22: Verkehrssicherheit von Kindern am Spielplatz Bernkastler Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Unfallgefahr auf dem Radweg - überwiesen
+- TOP 5.1.2: Kostenneutrale Nutzung Grabertstraße - überwiesen
+- TOP 5.1.3: Evangelische Schule in Zehlendorf - überwiesen
+- TOP 5.1.4: Nutzung der Schulsporthallen durch die Schulen - überwiesen
+- TOP 5.1.5: Sportkooperationen zwischen Schulen und Vereinen - überwiesen
+- TOP 5.1.6: Angemessenes Nutzungsentgelt für Schulräume - überwiesen
+- TOP 5.1.7: Mehr Fahrradständer vor dem Arndt-Gymnasium installieren - überwiesen
+- TOP 5.1.8: Weiterentwicklung der Stadtbibliotheken - überwiesen
+- TOP 5.1.9: Berliner Malerweg entlang der Seenkette - überwiesen
+- TOP 5.1.10: Organigramm des JobCenters Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.11: Schuleinzugsbereiche auflösen - Elterninteresse folgen! - überwiesen
+- TOP 5.1.12: Lichtzeichenanlage Feuerbachstraße/Körnerstraße - überwiesen
+- TOP 5.1.13: Interkulturelle Kompetenz des Bürgeramtes stärken - überwiesen
+- TOP 5.1.14: Gebundenen Ganztagsschulbetrieb im Bezirk erhalten - überwiesen
+- TOP 5.1.15: Umbenennung des Platzes "Märchenbrunnen" in "Sderot Platz" - überwiesen
+- TOP 5.1.16: Kinderfreundliches Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.17: Sanierungskonzept Rehwiese jetzt in die Öffentlichkeit - überwiesen
+- TOP 5.1.18: Ordnungsamt gegen illegale Plakatierung in Dahlem einsetzen - überwiesen
+- TOP 5.1.19: Transparente Wasserkontrolle Rehwiese - überwiesen
+- TOP 5.1.20: Hinweis auf Villa Thiede - überwiesen
+- TOP 5.1.21: Schiedsamt stärker bekannt machen - überwiesen
+- TOP 5.1.22: Gedenkstätten für die Mauertoten - überwiesen
+- TOP 5.1.23: 3.000 Schritte extra - überwiesen
+- TOP 5.1.24: Modernisierung der defekten Gaslaternen - überwiesen
+- TOP 5.1.25: Taxihalteplatz am Regionalbahnhof Lichterfelde-Ost erhalten - überwiesen
+- TOP 5.1.26: Schulhöfe für alle Kinder und Jugendlichen öffnen - überwiesen
+- TOP 5.1.27: Öffentliches Schulwesen bedarfsgerecht gestalten - überwiesen
+- TOP 5.2: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.2.1: Verkauf des Seniorenwohnhauses Biesestraße 7/9 in Berlin-Zehlendorf durch den Liegenschaftsfonds an den Erwerber des ehemals bezirklichen Seniorenheimes in der Johannesstraße 16-19 und des Seniorenwohnhauses in der Johannesstraße 21/22 - überwiesen
+- TOP 6: Bebauungspläne - erledigt
+- TOP 6.1: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Bebauungsplan X-122-2 (Nahversorgungszentrum Schlachtensee) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Maßregelvollzug in Lankwitz - Teil 7 - beantwortet
+- TOP 7.2: Veränderung der Öffnungszeiten der Schulsporthallen für die Schulen - beantwortet
+- TOP 7.3: Einfluss des Bezirks auf die Arbeit des Jobcenters - Teil I - schriftlich beantwortet
+- TOP 7.4: Einfluss des Bezirks auf die Arbeit des Jobcenters - Teil II - schriftlich beantwortet
+- TOP 7.5: Zuweisungsveränderungen bei Hilfen zur Erziehung - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Zuweisungsveränderungen bei Hilfen zur Erziehung (HzE) - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Namensschilder für Ordnungsamtsmitarbeiter - mit Änderungen in der BVV beschlossen
+- TOP 9.2: Parkregelung in der Hochbaumstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Wildschweine im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Erstellung eines bezirklichen Ordnungsplans - in der BVV abgelehnt
+- TOP 10: Schlusswort des BVVorstehers - erledigt
