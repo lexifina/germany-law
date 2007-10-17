@@ -1,0 +1,82 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2007-10-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1077421
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1077421
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Busverkehr Pretzfelder Straße Linie 143; Ein- und Ausrückfahrten von fremden Buslinien
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Benachteiligung bei der Einschreibung von Kindern des 22. Stadtbezirkes an der Städt. Realschule an der Blutenburg
+- TOP 4.2.: Widmung des Bahnübergangs "Am Waldrand" in der Aubinger Lohe als öffentlichen Weg
+- TOP 4.3.: Entfernung bzw. Prüfung der Verkehrszeichen 301 StVO an Kreuzungen in Tempo 30 Zonen
+- TOP 4.4.: Absenkung der Randsteine an der Fußgängerampel Wiesentfelser Str. / Riesenburgstr.
+- TOP 4.5.: Bessere Erkennbarkeit der Ampelanlage im Bereich Altostraße südlich - Rechtsabbiegespur in die Ubostraße
+- TOP 4.6.: 1. Beendigung der Umberatung der Schüler des 22. Stadtbezirkes bei der Einschreibung in die Realschule an der Blutenburg; 2. Errichtung einer Realschule in Freiham
+- TOP 4.7.: Prüfung der Situation der Schulwegverbindung Mundesgasse
+- TOP 4.8.: Umbenennung des Kindergartens Rieneckerstraße in "Kindergarten am (Aubinger) Wasserturm"
+- TOP 4.9.: Beendigung der gewerblichen Nutzung in der Bodenseestraße 320
+- TOP 4.10.: Erhalt und Wiedereröffnung einer Außenstelle Aubing der Münchner Volkshochschule GmbH
+- TOP 4.11.: Entwässerungsgraben am Moospfarrerweg
+- TOP 4.12.: Planungen für Freiham
+- TOP 4.13.: Investitionskostenförderung für das Kinderhaus Lochhausen e.V.
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragstelle: Trommlercorps Aubing
+- TOP 2: (E) Großbaustelle an der Schussenrieder Straße; Schaffung einer eigenen Baustellenzufahrt und Sperrung der Gündinger Straße und der Straße Am Lochhauser Hügel (Ziffer 1 und 2 des Antrages) Empfehlung Nr. 02-08 / E 00756 der Bürgerver- sammlung des Stadtbezirkes 22 Aubing-Lochhausen- Langwied vom 28.06.2007 Bebauungsplan 1703 Schreiben des Bezirksausschusses 22 Aubing- Lochhausen-Langwied - <div>vertagt</div>
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: Gemeinde Gräfelfing, Bebauungsplan Nr. 26 A, Erweiterung des Gewerbegebietes an der A 96/ St 2063 neu
+- TOP 6.3.: Lichtzeichenanlagen-Bauprogramm für 2008
+- TOP 6.4.: Sanierung des Nebenplatzes der Bezirkssportanlage an der Kronwinkler Straße
+- TOP 6.5.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2008-2012; Anhörungsverfahren (vertagt aus 08/07)
+- TOP 6.6.: Erweiterung der Abfallentsorgungsanlage (Bodenbörse) der Fa. Süderde Aufbereitungs- und Vertriebs GmbH auf dem Anwesen Lochhausener Straße Fl. Nr. 969, 978/2 (Bestand) und Fl.Nr. 686 (Erweiterung) der Gemarkung Obermenzing (vertagt aus 08/07)
+- TOP 6.7.: Nutzung des Neubaus des Gebäudes der "Spiellandschaft Stadt" (vertagt aus 08/07)
+- TOP 6.8.: Kunstrasenspielfeld am Sportplatz Kronwinkler Straße
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Regionale Sozialberichte 2006 online, Schr. Sozialreferat vom 14.09.07
+- TOP 7.2.: Baufälle im 22. Stadtbezirk (v. 10.-16.09.07, v. 17.-23.09.07, v. 24.-30.09.07, v. 01.-07.10.07), Schr. Planungsreferat vom 17.09.07, 24.09.07, 01.10.07, 09.10.07
+- TOP 7.3.: Baumaßnahmen der Stadtwerke München GmbH, Stichtag: 17.09.07, 24.09.07, 28.09.07, 08.10.07
+- TOP 7.4.: Baumaßnahmen der Stadtwerke, Stromprojekt Kastelburgstraße, Schr. SWM vom 24.09.07
+- TOP 7.5.: Baumaßnahmen der Stadtwerke, Erdgasprojekt Pretzfelder Straße, Schr. SWM vom 25.09.07
+- TOP 7.6.: Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Ehrenbürgstr. 9 für 18 Plätze für 3-Jährige bis zur Einschulung, Schr. Schul- und Kultusreferat vom 25.09.07
+- TOP 7.7.: NSB/ABS Nürnberg-Ingolstadt-München; Ausbaumaßnahmen im Bereich der LH München, Planungsabschnitt 82 M der ABS Ingolstadt-München, Bahn-km 12,900 bis 4,900; Planergänzung zur Landschaftspflegerischen Begleitplanung - trassenferne Kompensationsmaßnahme in München-Aubing
+- TOP 7.8.: Wirtschafts-Info 08/07, Referat f. Arbeit u. Wirtschaft vom 01.10.07
+- TOP 7.9.: Daten Kinderkrippen, Stand 01.10.07, Schr. Sozialreferat vom 08.10.07
+- TOP 7.10.: Zweckentfremdung von Wohnraum, Alprichstr. 12, Schr. Sozialreferat vom 08.10.07
+- TOP 7.11.: Information über den Zustand der Bäume an der Großbaustelle an der Schussenrieder Straße, Schr. Planungsreferat vom 10.10.07
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Renovierung Nebenspielfeld Sportanlage Kronwinkler Straße, Schr. Oberbürgermeister vom 13.09.07
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Ausschuss für Stadtplanung und Bauordnung vom 26.09.07 - Bebauungsplan Nr. 252 Federseestraße (südlich) zwischen Altostraße, Am Langwieder Bach, Hoflacher Straße und Friedhof - Bebauungsplan Nr. 212 Am Langwieder Bach, Hoflacher Straße - Vorhabenbezogener Bebauungsplan mti Grünordnung Nr. 2014, Autobahnkreuz München West (südlich), BAB A 8 (südwestlich), Mooswiesenstr. (westlich), Mühlangerstr. (nördlich), Berglwiesenstr. (östlich), BAB A 99 (südöstlich) - Hinweis/ Ergänzung; Strukturkonzept Mühlangerstraße/ Langwied
+- TOP 9.2.: Kinder- und Jugendhilfeausschuss vom 18.09.07 - Neubau von 5 Kindertagesstätten in Systembauweise Serie 1, hier: Errichtung einer Kindertagesstätte mit 2 Kindergartengruppen und 1 Hortgruppe am Schubinweg
+- TOP 9.3.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 09.10.07 - Haushaltsplan 2008, Produkt- und zielorientierte Ansätze - Haushaltskonsolidierung, Abschlussbericht 3. Haushaltssicherungskonzept, Sachstand Konsolidierung 2007, Feinkonzept 2007, Grobkonzept 2009-2011 - Haushaltsplan 2008 - Einzelplan 4 des Sozialreferates
+- TOP 9.4.: Schulausschuss vom 19.09.07 - Neubau von 5 Kindertagesstätten n Systembauweise Serie 1: hier: Errichtung einer Kindertagesstätte mit 2 Kindergartengruppen und 1 Hortgruppe am Schubinweg
+- TOP 9.5.: Ausschuss für Stadtplanung und Bauordnung vom 10.10.07 - Kein Ausbau des Flughafens Oberpfaffenhofen (Ziffer 1 des Antrags)
+- TOP 9.6.: Ausschuss für Stadtplanung und Bauordnung und Sozialausschuss vom 11.10.07 - Neue Wege in der Wohnraumversorgung für ältere Bürgerinnen und Bürger
+- TOP 9.7.: Ausschuss für Stadtplanung und Bauordnung vom 19.09.07 - Bauträgerauswahl für zwei Projekte der Einkommensorientierten Förderung - Mobilität in Deutschland 2008 - MIiD 2008, Haushaltsbefragung zum Verkehr in München 2008 - MiDMUC 2008 - Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Erfahrungen mit der Umsetzung des Beschlusses und Information über die Mittelverwendung
+- TOP 9.8.: Bauausschuss vom 16.10.07 - Fachhearing zum Thema "Baumschutz"
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Informationsflyer "Baumaßnahmen der SWM" für das zweite Halbjahr 2007
+- TOP 10.2.: Gebäude-Energiepass, Schr. BA 20 vom 12.09.07
+- TOP 10.3.: Luftreinhalte-/Aktionsplan für die LH München, Schr. Gemeinde Gräfelfing vom 05.10.07
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 21.11.07, Gaststätte "Wienerwald", Limesstr. 63
