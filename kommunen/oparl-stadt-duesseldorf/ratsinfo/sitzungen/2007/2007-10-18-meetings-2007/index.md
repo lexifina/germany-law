@@ -1,0 +1,59 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-10-18T14:00:00+02:00
+- Ende: 2007-10-18T19:10:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2007
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2007
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00162993.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00162993.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00162993.pdf
+
+## Tagesordnung
+
+- TOP 1: Ehrenring - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - mehrheitlich beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Wahl Beigeordneter Umwelt - mehrheitlich beschlossen
+- TOP 5: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 6: Anfragen - zur Kenntnis genommen
+- TOP 7: Anfr. CDU: Landesprogramm "Kultur und Schule" - zur Kenntnis genommen
+- TOP 8: Anfr. CDU/FDP: Beschäftigungsimpulse - zur Kenntnis genommen
+- TOP 9: Anfrage des RH Reichert: Kö-Bogen - zur Kenntnis genommen
+- TOP 10: Anfr. Rh Reichert: Altstadt - zur Kenntnis genommen
+- TOP 11: Anfrage Bü90/Grü: Städtischer Luftreinhalteplan - zur Kenntnis genommen
+- TOP 12: Anfrage Bü90/Grü: Familienkarte u. Düsselpass - zur Kenntnis genommen
+- TOP 13: Anfrage Rfr. von Ahlefeld: Verhandlungen mit dem Land i.S. ZAB - zur Kenntnis genommen
+- TOP 14: Anfr. Rf Kahl: Mitpreise - zur Kenntnis genommen
+- TOP 15: Anfr. Rf Kahl: Feinstaub - zur Kenntnis genommen
+- TOP 16: Anf. Rf Bellstedt: Grundstücksverkäufe - zur Kenntnis genommen
+- TOP 17: Anträge - zur Kenntnis genommen
+- TOP 18: Antrag Bü90/Grü: Kinder sind unsere Zukunft - zur Kenntnis genommen
+- TOP 19: Antr. Bü90/SPD: KIBIZ - einstimmig beschlossen
+- TOP 20: Bekanntgabe der gen. üpl. + apl. Ausgaben 2007 - einstimmig beschlossen
+- TOP 21: Zweckverband Erholungsgebiet Unterbacher See - zur Kenntnis genommen
+- TOP 22: ÄA FDP: Unterbacher See - einstimmig beschlossen
+- TOP 23: Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen der Landeshauptstadt Düsseldorf, dem Kreis Mettmann und dem Kreis Kleve - einstimmig beschlossen
+- TOP 24: Umbesetzungen - zur Kenntnis genommen
+- TOP 25: Umbesetzung von Ausschüsse - einstimmig beschlossen
+- TOP 26: AR Zukunftswerkstatt D`dorf GmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 27: Nachbesetzung - Beirat der unteren Landschaftsbehörde - einstimmig beschlossen
+- TOP 28: Änderungssatzung - mehrheitlich beschlossen
+- TOP 29: Richtlinien für die Förderung von Wohnraumanpassungen und Umzügen (WohnberatungsR) - einstimmig beschlossen
+- TOP 30: Beschlusskontrolle für den Rat - einstimmig beschlossen
+- TOP 31: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 32: Beschluss Rahmenplan Einzelhandel - einstimmig beschlossen
+- TOP 33: FNP-Ä Nr. 87 - Werdener-/Mindener Str. - mehrheitlich beschlossen
+- TOP 34: FNP-Ä 127-Gartenst. Reitzenstein-Stell;Plan - mehrheitlich beschlossen
+- TOP 35: BPl 6071/043-Nördl.Briede-Änd.13;Stell;Satz. - einstimmig beschlossen
+- TOP 36: BPl5773/053-swHarffstr-Änd;Satzung - einstimmig beschlossen
+- TOP 37: Gen. § 60 GO NRW: B-Plan Nr. 5581/035 - einstimmig beschlossen
+- TOP 38: BPl5581/035-RatherKreuzw/Marler-Aufheb./Aufst. - einstimmig beschlossen
+- TOP 39: Genehmigung gem. § 60 GO NRW: Plan Nr. 5581/038 - einstimmig beschlossen
+- TOP 40: Pl5581/038-Rather Kreuzw./Marler-VÄ - einstimmig beschlossen
+- TOP 41: Umbesetzung des Umlegungsausschusses - einstimmig beschlossen
+- TOP 42: Erweiterte Ganztagshauptschule - einstimmig beschlossen
