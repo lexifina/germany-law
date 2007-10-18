@@ -1,0 +1,92 @@
+# 10. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2007-10-18T17:30:00+02:00
+- Ende: 2007-10-18T21:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1532
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1532
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=60540
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Einschulungsbereiche - beantwortet
+- TOP 5.2: Arbeit für alle? - beantwortet
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Reise nach Peking - zurückgezogen
+- TOP 5.5: Verkehrserziehung - Unterrichtsziel verfehlt? - beantwortet
+- TOP 5.6: Verkauftes Grundstück in der Müllerstraße 48, hinter der Postfiliale, ehemals Bibliothek - beantwortet
+- TOP 5.7: Zusammenarbeit des Bezirks mit der GE Ident? - beantwortet
+- TOP 5.8: Einsatz von mobilen Dialogdisplays im Bezirk Mitte? - beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Mitte braucht Schulen! - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Sprachförderung - beantwortet
+- TOP 7.2: Vorwärts immer, rückwärts nimmer? - beantwortet
+- TOP 7.3: Kita "Kleiner August" - beantwortet
+- TOP 7.4: Situation der Ganztagsschulen in Mitte - schriftlich beantwortet
+- TOP 7.5: Geplante Kürzungen im Bereich der Jugendhilfe - schriftlich beantwortet
+- TOP 7.6: JobCenter Berlin-Mitte - schriftlich beantwortet
+- TOP 7.7: Vermietung auf dem Gelände des Gesundheits- und Sozialzentrum Moabit - schriftlich beantwortet
+- TOP 7.8: Zustand der Bäume und der Baumpflege im Bezirk - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Vorhabenbezogener Bebauungsplanentwurf 1-44VE "Aussichtsrad am Zoologischen Garten" sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes 1-44VE - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Bebauungsplanentwurf II-27-1 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes II-27-1 - überwiesen
+- TOP 9.3: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2006 - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Öffentliche Quartiersräte / Vergabebeiräte - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Aufhebung des Bezirksamtsbeschlusses vom 24.07.2007 zum BVV-Beschluss vom 24.05.2007 "Projekte der Jugendhilfe und der Schulsozialarbeit an Schulen dokumentieren" - in der BVV abgelehnt
+- TOP 12.2: Ergebnis Akteneinsicht Seydlitzstraße 1 - 5 am 11.07.2007 - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Kinderschutz - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Klimaschutz und Kostensenkung: Endlich den Ballast Iranische Str. 3 abwerfen! - überwiesen
+- TOP 12.5: Fußgängerampel Invalidenstraße/Lesser-Ury-Weg - überwiesen
+- TOP 12.6: Gemeinsames Vorgehen der Bezirke Mitte und Tempelhof-Schöneberg im Bereich Potsdamer Straße / Kurfürstenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Umweltladen Mitte erhalten - überwiesen
+- TOP 12.8: Verbindliche verwaltungsinterne Richtlinien zur Genehmigungspraxis von Baugesuchen für die B-Pläne: I-B5e, I-B5b, I-B5a, I-B5t und I-B5m - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Fortgang des Hilfs-Projektes in Sri Lanka - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Patenschaften von Zahnärztinnen und Zahnärzten mit Kitas und Grundschulen - überwiesen
+- TOP 12.11: Krankenhäuser machen Schule - überwiesen
+- TOP 12.12: "Verantwortliche Freier" bleiben hängen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Keine Sondernutzung öffentlichen Straßenlandes durch die FDJ - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Verbraucherschutz in Mitte hat hohe Priorität (2) - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Protokolle über Partnerschaftsreisen - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Schule am Koppenplatz - überwiesen
+- TOP 12.17: Demokratie stärken, öffentlich Haushalten! (1) - in der BVV abgelehnt
+- TOP 12.18: Demokratie stärken, öffentlich Haushalten! (2) - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Mitten in Mitte - Berliner Quartier mit Zukunft Planungsleitsätze für die städtebauliche Entwicklung des Bereichs zwischen Humboldthafen und Nordhafen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Grundschule am Koppenplatz - Ersatzstandort für das Theaterhaus Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Konzeption für die Aufgabenbereiche Prüfdienst und Kosteneinziehung in der Abteilung Soziales und Bürgerdienste - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Neue Schönhauser Straße für den Fahrradverkehr in beide Richtungen freigeben - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Transparenz II: Alle Angaben zum Liegenschafts- und Gebäudemanagement der BVV regelmäßig zur Verfügung stellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.2: Stärkung des Quartiers Sprengelkiez - Schließung der Tegeler Straße an der Fennstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.3: Einsparung von Energie, Abfall und Wasser für Schulen wieder attraktiv machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.4: Aussichtsrad mit stadtverträglichem Verkehrskonzept - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Alte Schönhauser Straße nicht dem motorisierten Durchgangsverkehr überlassen, Sicherheit im Straßenverkehr erhöhen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Beruhigter Verkehr durch die Perleberger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Kinderwagenfreundlicher Einstieg an Haltestelle Zionskirchplatz sowie sichere und kinderfreunliche Einstiege an Straßenbahnhaltestellen ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.8: Parkraumdruck auf Spree- und Fischerinsel mildern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Stephankiez muss Quartiersmanagementgebiet werden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Umweltzone effektiv, effizient und nicht auf Kosten des Bezirks umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Informationen über Einbürgerung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Sicherer Schulweg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.13: Ausstellung "Das hat's bei uns nicht gegeben. Antisemitismus in der DDR" in Mitte zeigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.14: Ausreichende Ausstattung für Hoch- und Tiefbau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.15: Überwachung des geplanten Rauchverbots: Angemessene Personalausstattung sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: Aufstellung des Bebauungsplans 1-49 im Bezirk Mitte Ortsteil Moabit, die Durchführung der Beteiligung der Öffentlichkeitsarbeit gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) und die Durchführung der Beteiligung der Behörden und sonstigen Träger öffentlicherBelange gem. § 4 BauGB - mit Abschlussbericht zur Kenntnis genommen
