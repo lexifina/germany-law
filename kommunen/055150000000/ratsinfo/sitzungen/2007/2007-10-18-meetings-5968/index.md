@@ -1,0 +1,53 @@
+# 26. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-10-18T17:00:00+02:00
+- Ende: 2007-10-18T22:42:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5968
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5968
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00254754.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit der Vorlagenersteller/innen zur Berich
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 3.1: Ständige Berichterstattung Dortmund-Ems-Kanal
+- TOP 4: Bekanntgabe von Eingaben und Anträgen
+- TOP 4.1: Anregung der Bezirksvertretung Münster-Südost an den ASSVW: Aufhebung eines "Sperrbeschlusses"
+- TOP 5: Stadtentwicklung, Stadterneuerung, Wohnen
+- TOP 5.1: Hauptbahnhof Münster - Sachstand: Investorenprojekt und Verkehrsstation - ohne Beschlussfassung geschoben
+- TOP 5.2: Präsentation des Hochschulentwicklungsplanes - zur Kenntnis genommen
+- TOP 5.3: Vergabe städtischer Grundstücke bei der Realisierung städtebaulicher Vorhaben - mehrheitlich beschlossen
+- TOP 5.4: "Hochhauskonzept Münster" - Antrag der SPD-Fraktion an den Rat Nr. A-R/0021/2007 - mehrheitlich beschlossen
+- TOP 5.5: Vom "Kulturforum Westfalen" zu einer "Kultur- und Kongresshalle" in Münster - ohne Beschlussfassung geschoben
+- TOP 5.6: Standortuntersuchung für innenstadtnahe Aufstellplätze für Wohnmobil-Touristen - von der Tagesordnung abgesetzt
+- TOP 5.7: Geschäftsbericht des Amtes für Wohnungswesen - zur Kenntnis genommen
+- TOP 5.8: Mobilfunksendeanlagen in Münster - zur Kenntnis genommen
+- TOP 6: Stadtplanung
+- TOP 6.1: Bauvorhaben Schulstraße - mehrheitlich geändert beschlossen
+- TOP 6.2: Zentrumserweiterung Nienberge - einstimmig geändert beschlossen
+- TOP 6.3: Bebauungsplan Nr. 306, 1. Änderung - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.4: Bebauungsplan Nr. 273 I, 1. Änderung - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.5: Bebauungsplan Nr. 273 II, 3. Änderung - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.6: Bebauungsplan Nr. 268, 2. Änderung - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.7: Bebauungsplan Nr. 312, 2. Änderung - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.8: Satzung gemäß § 34 BauGB für den Bereich Gewerbegebiet östlich Schifffahrter Damm - einstimmig beschlossen
+- TOP 7: Verkehr
+- TOP 7.1: Bebauungsplan Nr. 487 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 7.2: Vorläufiger Masterplan und Sachstandsbericht "Verkehrsunfallprävention" 2007 - einstimmig beschlossen
+- TOP 7.3: Weiterentwicklung des P+R-Angebotes in der Vorweihnachtszeit - einstimmig beschlossen
+- TOP 7.4: Roxeler Straße - Ausbau zwischen Dorffeldstraße und Schelmenstiege - von der Tagesordnung abgesetzt
+- TOP 7.5: Erste Erfahrungen mit adaptiver Netzsteuerung auf dem Albersloher Weg - zur Kenntnis genommen
+- TOP 7.6: Verkehrsberuhigung Nienberge: Öffnung des Alexander-Hammer-Weges, - einstimmig abgelehnt
+- TOP 7.7: Anregung der Bezirksvertretung Münster-Südost an den ASSVW: Aufhebung eines "Sperrbeschlusses" im Be - mehrheitlich beschlossen
+- TOP 8: Sonstiges
+- TOP 8.1: Hindenburgplatz - Wiederherstellung der Promenade im Bereich Gerichtsstraße bis Kalkmarkt. - mehrheitlich beschlossen
+- TOP 8.2: Konzeption zur Bewirtschaftung und Unterhaltung der öffentlichen Toilettenanlagen im Stadtbezirk MS - einstimmig beschlossen
+- TOP 8.3: Münsteraner Stadtrundfahrten - Erfahrungsbericht - zur Kenntnis genommen
+- TOP 9: Verschiedenes
