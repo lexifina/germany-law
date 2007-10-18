@@ -1,0 +1,7 @@
+# TOP 6: Bewohnerparkplätze im Bereich des Haltepunktes Grünewald und Einbahnregelung Henckelsstraße
+
+- Sitzung: Bezirksvertretung Burg/Höhscheid (2007-10-18)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/29660
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/5143
