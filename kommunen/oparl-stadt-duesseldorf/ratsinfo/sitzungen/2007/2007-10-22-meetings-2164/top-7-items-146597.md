@@ -1,0 +1,7 @@
+# TOP 7: Expertise: Wohnen in Düsseldorf 2020 +
+
+- Sitzung: Ausschuss für Wohnungswesen und Modernisierung (2007-10-22)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/146597
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/40731
