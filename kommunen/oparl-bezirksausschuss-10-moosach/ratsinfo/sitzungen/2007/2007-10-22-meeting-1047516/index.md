@@ -1,0 +1,81 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2007-10-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1047516
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1047516
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Entfernung von wilden Gewächsen und Brennnesseln am Bolzplatz Triebstraße - <div>nach Antrag</div>
+- TOP 2.2.: Maßnahmen gegen den Schleichverkehr in der Gärtnerstraße
+- TOP 2.3.: Verkehrssituation Moosburger Straße / Abensbergstraße
+- TOP 2.4.: Wertstoffcontainerstandort Weiherweg
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Parkraummanagement Borstei
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Brunnen am "Moosacher Stachus" - <div>nach Antrag</div>
+- TOP 4.2.: Gebundene Ganztagsschule HS Leipziger Straße - <div>nach Antrag</div>
+- TOP 4.3.: Standorte für einen Wochenmarkt im Quartierszentrum Moosach prüfen - <div>nach Antrag</div>
+- TOP 4.4.: Seniorenversammlung im 10. Stadtbezirk - <div>nach Antrag</div>
+- TOP 4.5.: Baumschutz - Esche an der Dachauer Straße 250 - 254 - <div>nach Antrag</div>
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Anbringung eines absoluten Halteverbots am westlichen Ende des Glogauer Platzes - <div>nach Antrag</div>
+- TOP 4.2.: Bordsteinabsenkungen im Bereich Günzburger Platz u.a. - <div>nach Antrag</div>
+- TOP 4.3.: Kurzstreckentarif für Kinder im MVV - zurückgestellt - - <div>vom Antragsteller zurückgestellt</div>
+- TOP 4.4.: Reinigung der Gehwege an der Riesstraße vor dem Schulzentrum - <div>Weitergabe an das Baureferat </div>
+- TOP 4.5.: Straßenausbesserung der Hugo-Troendle-Str. - <div>nach Antrag</div>
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: (E) Schwimmbadwiese Emmy-Noether-Straße Neubau einer öffentlichen Grünanlage im 10. Stadtbezirk Moosach Bedarfs- und Konzeptgenehmigung - <div>nach Antrag</div>
+- TOP 6.: Anhörungen
+- TOP 6.1.: Mehrjahresinvestitionsprogramm; Fortschreibung für die Jahre 2008 bis 2012
+- TOP 6.2.: Lichtzeichenanlagen-Bauprogramm für 2008
+- TOP 6.3.: Dachauer Str. 457: Errichtung einer Linksabbiegespur
+- TOP 6.4.: Ausweisung einer Kurzparkzone im Bereich Pelkovenstraße 42
+- TOP 6.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6.: Erweiterung / Umbau / Instandsetzung der Grundschule Am Amphionpark
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Wertstoffcontainerstandort Weiherweg (muss abgezogen werden)
+- TOP 7.2.: Wendehammer Moosanger (wird durch geeignete Maßnahmen für KFZ abgehängt)
+- TOP 7.3.: Hinweisschilder am künftigen U-Bahnhof Moosacher St. Martins-Platz (Antrag noch zu früh)
+- TOP 7.4.: Aufstellung eines weiteren Abfallbehälters in der Jakob-Hagenbucher-Str. (versuchsweise werden zwei weitere Behälter aufgestellt)
+- TOP 7.5.: Bushaltestelle in der Feldmochinger Straße im Kreuzungsbereich Merseburger-/Andernacher Straße für die künftige Buslinie 175 (Verlegung abgelehnt)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Neue Telefonnummer der Stadtbibliothek Moosach
+- TOP 8.4.: Lärmbelästigung für die Anwohner des Olympiaparks (Schreiben des BA 11 Milbertshofen-Am Hart)
+- TOP 8.5.: Gebäude-Energiepass (Schreiben des BA 20 Hadern)
+- TOP 8.6.: Neubenennung der Meiserstraße (Schreiben des BA 3 Maxvorstadt)
+- TOP 8.7.: Unterrichtung über die Fällung von Gefahrbäumen
+- TOP 8.8.: Fällungsgenehmigung Dachauer Str. 531
+- TOP 8.9.: Quartierbezogene Bewohnerarbeit 1999 bis 2007
+- TOP 8.10.: Baumaßnahme Ohlauer Straße, Bushaltestelle
+- TOP 8.11.: Verkehrsrechtliche Anordnung Merseburger Straße - Parken nur für PKW
+- TOP 8.12.: Mitteilung über ein Grundstücksgeschäft Hanauer Str. 12
+- TOP 8.13.: Ausweisung neuer Gewerbeflächen; Berichtsjahr 2006
+- TOP 8.14.: Haushaltsplan 2008 des Sozialreferates; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" 1. der Zentrale 2. des Amtes für Soziale Sicherung 3. des Stadtjugendamtes 4. des Amtes für Wohnen und Migration
+- TOP 8.15.: Sozialreferat: Haushaltskonsolidierung ; Abschlussbericht 3. Haushaltssicherungskonzept
+- TOP 8.16.: Haushaltsplan 2008 - Einzelplan 4 des Sozialreferates
+- TOP 8.17.: - gestrichen -
+- TOP 8.18.: Kanalbau i.V.m. Wohnungs- und Gerwerbebau: Richthofenstraße
+- TOP 8.19.: Neue Wege in der Wohnraumversorgung für ältere Bürgerinnen und Bürger
+- TOP 8.20.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 8.21.: Mobilität in Deutschland 2008
+- TOP 8.22.: Aktion Saubere Stadt; Konzept der Öffentlichkeitskampagne
+- TOP 8.23.: Regionaler Sozialbericht 2006
+- TOP 8.24.: Fachtagung Baumschutz
+- TOP 8.25.: Abbruch Netzerstraße 70 / 72
+- TOP 4: Anträge
