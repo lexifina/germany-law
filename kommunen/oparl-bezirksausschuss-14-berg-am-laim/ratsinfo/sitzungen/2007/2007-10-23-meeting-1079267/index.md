@@ -1,0 +1,93 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2007-10-23T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1079267
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1079267
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung im Bereich der Bahnstrecke der S 8 Ost (Daglfing, Englschalking, Johanneskirchen) zwischen der Bahnstrecke München-Rosenheimer im Süden und der Stadtgrenze zu Unterföhring im Norden (Aufstellungsbeschluss)
+- TOP 3.1.1.2.: Kreillerstraße ? Neubau eines Gewerbegebäudes mit Einzelhandel- und Lagerflächen
+- TOP 3.1.1.3.: Neugestaltung der Außenanlagen mit Einrichtung von Bewohnergärten in der städtischen Wohnanlage Berg am Laim im Rahmen des Bund-Länder-Städtebauförderungsprogramms ?Soziale Stadt?
+- TOP 3.1.1.4.: Neumarkter Straße ? Nutzungsänderung eines Werkstattgebäudes in ein Entertainmentcenter mit vier Spielhallen zuzügl. Nebenflächen
+- TOP 3.1.1.5.: Friedenstraße 10 ? Nutzungsänderung eines Zeltbaus für Veranstaltungen in Gastronomiebetrieb (befristet bis 31.12.2010)
+- TOP 3.1.2.1.: Verkehrslärm Schlüsselbergstraße Fußgänger- und Radfahrerampel Kreuzung Mittlerer Ring - Schlüsselbergstraße
+- TOP 3.1.2.2.: Lichtzeichenanlagen-Bauprogramm für 2008
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Verein zur Förderung des Kinder- und Jugendtheaters e.V. ? Antrag auf BA-Zuschuss
+- TOP 3.6: Sonstiges
+- TOP 3.6.1.: Veranstaltung eines Flohmarktes im Behrpark
+- TOP 3.6.2.: Termine der BA-Sitzungen 2008
+- TOP 3.7.1.: Kreillerstraße ? Antrag auf Baumfällung
+- TOP 3.7.2.: Hachinger-Bach-Straße ? Antrag auf Baumfällung
+- TOP 3.7.3.: Hohenbrunner Straße ? Antrag auf Baumfällung
+- TOP 3.7.4.: Hochgernstraße ? Antrag auf Baumfällung
+- TOP 3.7.5.: Großvenedigerstraße ? Antrag auf Baumfällung
+- TOP 3.7.6.: Seebrucker Straße ? Antrag auf Baumfällung
+- TOP 3.7.7.: Rottalstraße ? Antrag auf Baumfällung
+- TOP 3.7.8.: Geigelsteinstraße ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: "Soziale Stadt" 2007 a) Stand der Umsetzung des Programms "Soziale Stadt" in den Sanierungsgebieten am Mittleren Ring Südost, "Tegernseer Landstraße / Chiemgaustraße" und "Innsbrucker Ring / Baumkirchner Straße" b) Weitere Beauftragung der Quartiersmanagements c) Städtebauförderung
+- TOP 4.1.1.2.: Soziale Stadt - Projekte im Sanierungsgebiet ?Innsbrucker Ring / Baumkirchner Straße? Aufwertung und Umgestaltung Piusplatz und angrenzender Grünanlagen im 14. Stadtbezirk Berg am Laim und im 16. Stadtbezirk Ramersdorf-Perlach Kostenrahmen (überschlägig): ca. 2 Mio. ? 1. Bedarfs- und Konzeptgenehmigung 2. Vorplanungsauftrag
+- TOP 4.1.1.3.: Neue Wege in der Wohnraumversorgung für ältere Bürgerinnen und Bürger
+- TOP 4.1.1.4.: Hultschiner Straße (Bebauungsplan Nr. 1931 ? Süddeutscher Verlag) im 13. Stadtbezirk Straßenumbau - Projektkosten: 1. Projektgenehmigung 2. Genehmigung zur Durchführung vorgezogener Spartenarbeiten
+- TOP 4.1.1.5.: Unterrichtung über Bauvorhaben im 14. Stadtbezirk
+- TOP 4.1.2.1.: Straßentunnels in München Nachrüstung der Sicherheitseinrichtungen ? Leuchtenbergring-Tunnel ? Innsbrucker-Ring-Tunnel ? im 5. Stadtbezirk Au - Haidhausen und im 14. Stadtbezirk Berg am Laim Projektkosten (Ausführungskosten) - Ausführungsgenehmigung
+- TOP 4.1.2.2.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln Erfahrungen mit der Umsetzung des Beschlusses und Information über die Mittelverwendung - Bekanntgabe-
+- TOP 4.1.2.3.: Friedenstraße ? Anordnung eines eingeschränkten Haltverbots
+- TOP 4.1.3.1.: Mobilität in Deutschland 2008 ? MiD 2008 Haushaltsbefragung zum Verkehr in München 2008 ? MiDMUC 2008
+- TOP 4.2.1.: Protokoll zum Gesprächstermin des Kulturreferats mit den Bezirksausschüssen am 20.09.
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Freizeitnutzung von schulischen Sportanlagen - Bürgerschreiben
+- TOP 4.3.2.: Gebäude-Energiepass für Schulgebäude ? Antrag des BA 20
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Haushaltskonsolidierung Abschlussbericht 3. Haushalts-sicherungskonzept (3. HSK) Sachstand Konsolidierung 2007 - Feinkonzept 2008 - Grobkonzept 2009 ? 2011 Einzelpläne des Sozialreferats und seiner Ämter
+- TOP 4.4.2.: Quartierbezogene Bewohnerarbeit 1999 bis 2007 Entwicklungen, Sachstand und Visionen Ergänzende Bezuschussung einzelner Projekte Realisierung des Bewohnertreffs im Neubaugebiet an der Bajuwarenstraße Antrag Nr. 02-08 / B 02044
+- TOP 4.5.1.: Zuwendungsbescheid Förderkreis der Grundschule an der Grafinger Straße
+- TOP 4.5.2.: Zuwendungsbescheid Regsam Fachbasis Berg am Laim West
+- TOP 4.6: Sonstige
+- TOP 4.6.1.: Genehmigungsbescheid für den 22. München-Marathon am 14.10.2007
+- TOP 4.6.2.: Baumaßnahmen der Stadtwerke
+- TOP 4.6.3.: Gaststättenfortführung Gotteszeller Straße
+- TOP 4.6.4.: Aktion Saubere Stadt ? Konzept der Öffentlichkeitskampagne
+- TOP 4.6.5.: Abbruchanzeige Loferer Straße
+- TOP 4.7.1.: Fachhearing zum Thema ?Baumschutz?
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
