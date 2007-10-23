@@ -1,0 +1,54 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-10-23T17:00:00+02:00
+- Ende: 2007-10-23T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2159
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2159
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096700.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096700.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096700.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Grünordnungsrahmenplan für den Stadtbezirk 7
+- TOP 5: Rennbahnstraße
+- TOP 6: Kunstrasen Dreherstraße
+- TOP 7: Sozialraumerkundungen mit Senioren
+- TOP 8: Nikolausmarkt auf dem Apostelplatz in Gerresheim
+- TOP 9: Sitzungstermine der Bezirksvertretung 7 im Jahre 2008
+- TOP 10: Verwendung von Haushaltsmitteln
+- TOP 11: Jugendratswahl
+- TOP 12: Widerstand gegen CO-Pipeline
+- TOP 13: Auftragsvergabe
+- TOP 14: Keine Trojaner aus dem Gerresheimer Rathaus
+- TOP 15: Neubau Krankenhaus
+- TOP 16: Schulwegsicherheit
+- TOP 17: Nutzung der Schulsportanlage am Peckhausweg
+- TOP 18: Gut Mydlinghofen
+- TOP 19: Rheinbahnhaltestelle "In der Flieth"
+- TOP 20: Sportplatz Gerresheimer TV
+- TOP 21: Nutzung der neuen Sportanlage am Peckhausweg
+- TOP 22: Fußgängerquerungshilfe Rennbahnstraße
+- TOP 23: Zeitplan L 404n
+- TOP 24: Altlasten Werkstattverfahren
+- TOP 25: Barrierefreier Zugang zur Aula Am Poth
+- TOP 26: Ringofen Ludenberg
+- TOP 27: Baugebiet "Am Quellenbusch"
+- TOP 28: Schulsozialarbeit an Grundschulen
+- TOP 29: Hotelneubau Grafenberger Allee / Ivo-Beucker-Str.
+- TOP 30: Gefahrenabwehrplan für Co-Pipeline von Bayer
+- TOP 31: Tötung durch Kohlenstoffmonoxid
+- TOP 32: Kyrill-Schäden
+- TOP 33: Städtepartnerschaft der BV 7
+- TOP 34: Regenrückhaltebecken "In der Flieth"
+- TOP 35: Kanal-/Verkehrserschließung Am Keienhof
+- TOP 36: Bolzplatz Eisenacher Weg
+- TOP 37: Geschwindigkeitskontrollen in der Kurve der B 7
