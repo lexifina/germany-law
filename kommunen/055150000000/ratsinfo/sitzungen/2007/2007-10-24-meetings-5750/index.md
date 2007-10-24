@@ -1,0 +1,57 @@
+# 24. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-10-24T17:08:00+02:00
+- Ende: 2007-10-24T23:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5750
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5750
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00255470.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der SPD-Fraktion "Gesundheitsstadt Münster- Keine Gentechnik in der Münsteraner Landwirtscha - einstimmig geändert beschlossen
+- TOP 2.2: Anregung der Bezirksvertretung Münster-West - einstimmig beschlossen
+- TOP 2.3: Antrag A-R/0025/2007 der FDP-Fraktion "Die Zukunft bauen auf verlässlicher Datenbasis..." - einstimmig beschlossen
+- TOP 2.4: Antrag der Fraktion Bündnis 90/Die Grünen/GAL, Nr. A-R/0031/2007 vom 21.08.2007 - Armen Haushalten E - einstimmig geändert beschlossen
+- TOP 3: Vergabe städtischer Grundstücke bei der Realisierung städtebaulicher Vorhaben - mehrheitlich beschlossen
+- TOP 4: Standortuntersuchung für innenstadtnahe Aufstellplätze für Wohnmobil-Touristen - von der Tagesordnung abgesetzt
+- TOP 5: Zentrumserweiterung Nienberge - einstimmig geändert beschlossen
+- TOP 6: Geschäftsbericht des Amtes für Kinder, Jugendliche und Familien für das Jahr 2006 - zur Kenntnis genommen
+- TOP 7: Hindenburgplatz - einstimmig beschlossen
+- TOP 8: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2007) - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 9: Vom "Kulturforum Westfalen" zu einer "Kultur- und Kongresshalle" in Münster - ohne Beschlussfassung geschoben
+- TOP 10: Unterzeichnung der Millenniumserklärung durch die Stadt Münster - einstimmig beschlossen
+- TOP 11: Jahresbericht 2006 der Feuerwehr Münster - zur Kenntnis genommen
+- TOP 12: Konzeption zur Bewirtschaftung und Unterhaltung der öffentlichen Toilettenanlagen im Stadtbezirk MS - von der Tagesordnung abgesetzt
+- TOP 13: Vorläufiger Masterplan und Sachstandsbericht "Verkehrsunfallprävention" 2007 - einstimmig beschlossen
+- TOP 14: Künftige Organisationsform des Amtes für Liegenschaften und des Amtes für Gebäudemanagement - einstimmig beschlossen
+- TOP 15: 1. Ergänzung der vorläufigen Geschäftsanweisung gem. § 31 Gemeindehaushaltsverordnung (GemHVO) NRW - zur Kenntnis genommen
+- TOP 16: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2007 - mehrheitlich beschlossen
+- TOP 17: Beteiligung der Stadtwerke Münster GmbH an der Kraftwerksgesellschaft Steinkohledoppelblock GmbH + C - mehrheitlich beschlossen
+- TOP 18: Aktuelle Bereitstellung von Finanzmitteln für den SC Preußen 06 e. V. - mehrheitlich beschlossen
+- TOP 19: Verschmelzung der Aktion Münsterland e.V. und der MÜNSTERLAND TOURISTIK Grünes Band e.V. (MTZ) zum n - einstimmig geändert beschlossen
+- TOP 20: Hauptbahnhof Münster - Sachstand: Investorenprojekt und Verkehrsstation - ohne Beschlussfassung geschoben
+- TOP 21: Satzung gemäß § 34 BauGB für den Bereich Gewerbegebiet östlich Schifffahrter Damm - einstimmig beschlossen
+- TOP 22: Vergabe- und Entgeltordnung für die Nutzung von Räumen in Schulgebäuden der Stadt Münster durch Drit - ohne Beschlussfassung geschoben
+- TOP 23: Errichtungsbeschluss: Neubau einer Kombinationseinrichtung in Sprakel - ohne Beschlussfassung geschoben
+- TOP 24: Verlagerung der "Kleinen Altersgemischten Gruppe" von der Caritas-Kindertageseinrichtung Maria-Drost - einstimmig beschlossen
+- TOP 25: Genehmigung der Dringlichkeitsentscheidung: "Erweiterung der Kindertageseinrichtung Wickenkamp" - ohne Beschlussfassung geschoben
+- TOP 26: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 27: Bauleitplanung
+- TOP 27.1: Stadtbezirk Mitte
+- TOP 27.1.1: Bebauungsplan Nr. 114 III, 3. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.2: Stadtbezirk West
+- TOP 27.2.1: Bebauungsplan Nr. 487 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.3: Stadtbezirk Hiltrup
+- TOP 27.3.1: Vorhabenbezogener Bebauungsplan Nr. 504 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.4: Stadtbezirk Südost
+- TOP 27.4.1: Bebauungsplan Nr. 155, 5. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 28: Verschiedenes
