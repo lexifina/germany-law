@@ -1,0 +1,6 @@
+# TOP 13.7: Finanzielle Beteiligung der Stadt Gronau an der Grillmeisterschaft (RM von Borczyskowski)
+
+- Sitzung: Rat (30. Sitzung) (2007-10-24)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/20942
