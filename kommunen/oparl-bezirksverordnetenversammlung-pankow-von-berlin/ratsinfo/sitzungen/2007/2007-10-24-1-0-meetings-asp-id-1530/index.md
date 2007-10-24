@@ -1,0 +1,77 @@
+# 10. ordentlichen Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2007-10-24T17:30:00+02:00
+- Ende: 2007-10-24T21:50:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1530
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1530
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=28160
+
+## Tagesordnung
+
+- TOP 1: Komlex 1 - (offen)
+- TOP 1.1: Bürgerfragestunde - beantwortet
+- TOP 1.2: Geschäftliche Mitteilungen - erledigt
+- TOP 1.3: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Welche Zukunft hat das Klima- und Energieeinsparprojekt an den Pankower Schulen? - beantwortet
+- TOP 1.5: Mündliche Anfragen - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Geschäftsordnung mit qualifizierter Mehrheit beschließen - vertagt
+- TOP 1.9: Zeitweiliger Geschäftsordnungsausschuss - gegenstandslos
+- TOP 1.10: Sitzungsplan der BVV von Januar 2008 bis August 2009 - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2006 - überwiesen
+- TOP 1.12: Ausbau der Pasewalker Straße von AS A 114 bis Eweststraße im Ortsteil Französisch Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Grundstücksangelegenheit Sportplatz Pfeilstraße 3 bis 8 in 13156 Berlin (OT Pankow) - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Ausbildungspaten - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Kinderschutz - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Umfassende Reform des jetzigen Zuweisungssystem der Senatsverwaltung für Finanzen für die bezirklichen Haushaltsmittel - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Jobcenter-Modellprojekte - Von der Ich-AG zur Wir-AG - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Weniger Ärger und Stress beim morgendlichen S-Bahn-Fahren - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Zugang zum Garibalditeich - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Kürzungspläne offen legen - gegenstandslos
+- TOP 1.21: Bezirksübergreifende Haushaltsinitiative - gegenstandslos
+- TOP 1.22: Kommunalen Handlungsspielraum zurückgewinnen - Immobilienkosten senken - gegenstandslos
+- TOP 1.23: Keine schrittweise Entmachtung der Bezirke durch die Hintertür - mehr Transparenz bei der Änderung der Landeshaushaltsordnung - gegenstandslos
+- TOP 1.24: Einsatz des Ordnungsamtes in den Abend- und Nachtstunden sowie am Wochenende - gegenstandslos
+- TOP 1.25: Energieeinsparprojekte auf alle öffentlichen Gebäude ausdehnen - gegenstandslos
+- TOP 1.26: Baumaßnahmen Brücke am Bürgerpark - in der BVV abgelehnt
+- TOP 1.27: Öffentlicher Gesundheitsdienst und Kinder- und Jugendschutz im Bezirk dürfen nicht ausbluten! - gegenstandslos
+- TOP 1.28: Erhaltung der Oderberger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Datenschutz in Bibliotheken erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Flächen für Bauwagenbewohner/innen - überwiesen
+- TOP 1.31: Pankower Wochenmarkt - zurückgezogen
+- TOP 1.32: Charta der Vielfalt beitreten - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Licht und Sicherheit in der Durchwegung - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Bildung eines Denkmalbeirates für den Bezirk Pankow von Berlin - überwiesen
+- TOP 1.35: Errichtung und Betrieb von kabellosen Zugängen in den Bürgerämtern ausschreiben - überwiesen
+- TOP 1.36: "Lokales Bündnis für Familie Pankow" unterstützen - vertagt
+- TOP 1.37: Erinnerung an die Sprengung der Gasometer - überwiesen
+- TOP 1.38: Ehe-Ausstellung im Schloss Schönhausen - überwiesen
+- TOP 1.39: Spenden für den Tag des Baumes einwerben - in der BVV abgelehnt
+- TOP 1.40: Mehr Sicherheit für Radfahrer an der Kreuzung Ostseestraße / Greifswalder Straße - überwiesen
+- TOP 1.41: Mehr Sicherheit in der Triftstraße (Französisch Buchholz) - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Halbjährliche Berichterstattung über Budgetentwicklung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Mehr Bürgerdemokratie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Verantwortung für JobCenter - vertagt
+- TOP 2.4: Aufarbeitung der Altakten in den Fachbereichen SozS, SozG, SozE im Jahr 2007 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Bürgerhaushalt - vertagt
+- TOP 2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.7: Bau der Sporthalle in der Neuen Schönholzer Straße - vertagt
+- TOP 2.8: Lage der Kinder in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Erst prüfen, dann entscheiden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Arbeit im JobCenter Pankow und Kooperation mit privaten Arbeitsvermittlungen - vertagt
+- TOP 2.11: Barrierefreier Zugang zum Schloss Schönhausen - vertagt
+- TOP 2.12: Klimaschutz- und Energieeinspar-Projekte an Schulen fortführen und ausweiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Steg über den Gleimtunnel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Vor Ort für alle - vertagt
+- TOP 2.15: Benennung einer privaten Erschließungsstraße im OT Französisch Buchholz in Le Pavillon-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Bebauungsplanentwurf XVIII-23 für das Gebiet zwischen den Straßen Am Danewend, Hubertusdamm, Bahnhofstraße und dem Bahngelände sowie angrenzende Abschnitte der Straßen Am Danewend, Hubertusdamm und Bahnhofstraße im Bezirk Pankow, Ortsteil Karow. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Änderung der Sanierungsziele für das Grundstück Mühlenstraße 11, alte Mälzerei, im Sanierungsgebiet Pankow - Wollankstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Bebauungsplan 3-14 für die Grundstücke Straßburger Straße14 / Saarbrücker Straße und Saarbrücker Straße 8, 9 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
