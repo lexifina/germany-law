@@ -1,0 +1,62 @@
+# 25. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-10-24T19:44:00+02:00
+- Ende: 2007-10-24T23:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5751
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5751
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00255578.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Ausländerbeirates
+- TOP 9: Vom "Kulturforum Westfalen" zu einer "Kultur- und Kongresshalle" in Münster - mehrheitlich geändert beschlossen
+- TOP 10: Unterzeichnung der Millenniumserklärung durch die Stadt Münster - einstimmig beschlossen
+- TOP 11: Jahresbericht 2006 der Feuerwehr Münster - zur Kenntnis genommen
+- TOP 12: Konzeption zur Bewirtschaftung und Unterhaltung der öffentlichen Toilettenanlagen im Stadtbezirk MS - von der Tagesordnung abgesetzt
+- TOP 13: Vorläufiger Masterplan und Sachstandsbericht "Verkehrsunfallprävention" 2007 - einstimmig beschlossen
+- TOP 14: Künftige Organisationsform des Amtes für Liegenschaften und des Amtes für Gebäudemanagement - einstimmig beschlossen
+- TOP 15: 1. Ergänzung der vorläufigen Geschäftsanweisung gem. § 31 Gemeindehaushaltsverordnung (GemHVO) NRW - zur Kenntnis genommen
+- TOP 16: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2007 - mehrheitlich beschlossen
+- TOP 17: Beteiligung der Stadtwerke Münster GmbH an der Kraftwerksgesellschaft Steinkohledoppelblock GmbH + C - mehrheitlich beschlossen
+- TOP 18: Aktuelle Bereitstellung von Finanzmitteln für den SC Preußen 06 e. V. - mehrheitlich beschlossen
+- TOP 19: Verschmelzung der Aktion Münsterland e.V. und der MÜNSTERLAND TOURISTIK Grünes Band e.V. (MTZ) zum n - einstimmig geändert beschlossen
+- TOP 20: Hauptbahnhof Münster - Sachstand: Investorenprojekt und Verkehrsstation - einstimmig geändert beschlossen
+- TOP 21: Satzung gemäß § 34 BauGB für den Bereich Gewerbegebiet östlich Schifffahrter Damm - einstimmig beschlossen
+- TOP 22: Vergabe- und Entgeltordnung für die Nutzung von Räumen in Schulgebäuden der Stadt Münster durch Drit - mehrheitlich beschlossen
+- TOP 23: Errichtungsbeschluss: Neubau einer Kombinationseinrichtung in Sprakel - einstimmig geändert beschlossen
+- TOP 24: Verlagerung der "Kleinen Altersgemischten Gruppe" von der Caritas-Kindertageseinrichtung Maria-Drost - einstimmig beschlossen
+- TOP 25: Genehmigung der Dringlichkeitsentscheidung: "Erweiterung der Kindertageseinrichtung Wickenkamp" - einstimmig beschlossen
+- TOP 26: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 27: Bauleitplanung
+- TOP 27.1: Stadtbezirk Münster-Mitte
+- TOP 27.1.1: Bebauungsplan Nr. 114 III, 3. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.2: Stadtbezirk Münster-West
+- TOP 27.2.1: Bebauungsplan Nr. 487 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.3: Stadtbezirk Münster-Hiltrup
+- TOP 27.3.1: Vorhabenbezogener Bebauungsplan Nr. 504 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.4: Stadtbezirk Münster-Südost
+- TOP 27.4.1: Bebauungsplan Nr. 155, 5. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 28: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 28.1: Schulamtsleitungsstelle extern und intern ausschreiben - zurückgezogen
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 29.1: Dienstleistungen der Verwaltung bürgerorientiert und bürgernah erbringen - verwiesen
+- TOP 29.2: Bildung von Kindern stärken, Bilinguale Erziehung in Kindergärten ausweiten - verwiesen
+- TOP 29.3: Masterplan der Stadt Münster/Ordnungspartnerschaft "Verkehrsunfallprävention" - verwiesen
+- TOP 29.4: Lesbisch-schwule Strukturen in der Stadt "Nutzen für die Stadt ermitteln" - verwiesen
+- TOP 29.5: Ein Stadtbildkonzept für Münster - verwiesen
+- TOP 29.6: Bürgerbeteiligung sicherstellen - Bebauungsplanverfahren für den Bereich 'Schulstraße, Altumstraße, - verwiesen
+- TOP 29.7: Mayors for peace" - "Bürgermeister für den Frieden"
+- TOP 29.8: Perspektiven für Preußen Münster schaffen: - verwiesen
+- TOP 30: Verschiedenes
