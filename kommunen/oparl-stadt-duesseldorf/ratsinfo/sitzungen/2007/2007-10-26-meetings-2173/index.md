@@ -1,0 +1,55 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-10-26T14:00:00+02:00
+- Ende: 2007-10-26T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2173
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2173
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096762.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096762.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096762.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung Sachverständige - zur Kenntnis genommen
+- TOP 4: BA Roßstr 64 Neubau Erweiterung LDS - einstimmig beschlossen
+- TOP 5: Schadowstraße 69 - einstimmig beschlossen
+- TOP 6: Sky Office, Ausbau Bennigsenplatz - einstimmig beschlossen
+- TOP 7: Ballspielverein 04 e.V. - einstimmig beschlossen
+- TOP 8: WIU-Fest im Ehrenhof - einstimmig beschlossen
+- TOP 9: Weihnachtsmarkt auf der Nordstraße - mehrheitlich beschlossen
+- TOP 10: Weihnachtsmarkt auf dem Konrad-Adenauer-Platz - mehrheitlich beschlossen
+- TOP 11: Büchermeile auf der Rheinuferpromenade im Jahre 2008 - einstimmig beschlossen
+- TOP 12: Sitzungstermine - einstimmig beschlossen
+- TOP 13: Bebauung Schlachthofgelände - einstimmig beschlossen
+- TOP 14: Friedrich-Lupp-Platz - einstimmig beschlossen
+- TOP 15: Haltestelle Theodor-Heuss-Brücke - einstimmig beschlossen
+- TOP 16: Engländer Siedlung - mehrheitlich abgelehnt
+- TOP 17: Schienenkreuzung Kennedydamm/ Kaiserswerther Straße/ Fischerstraße - zur Kenntnis genommen
+- TOP 18: Gradierwerk - einstimmig beschlossen
+- TOP 19: Baumpflanzungen - einstimmig beschlossen
+- TOP 20: Hofgarten - einstimmig beschlossen
+- TOP 21: Merziger Straße - einstimmig beschlossen
+- TOP 22: Feldstraße - einstimmig beschlossen
+- TOP 23: Ottweiler Straße - einstimmig beschlossen
+- TOP 24: Rundsitzbank Pfalzstraße/ Collenbachstraße - einstimmig beschlossen
+- TOP 25: Aufwertung kleiner Plätze durch mehr öffentliches Grün - einstimmig beschlossen
+- TOP 26: Neugestaltung der Roßstraße - einstimmig beschlossen
+- TOP 27: Erstellung einer Rahmenplanung - mehrheitlich abgelehnt
+- TOP 28: Rückbau des separaten Gleiskörpers auf der Münsterstraße - mehrheitlich beschlossen
+- TOP 29: U-Turn Uerdinger Straße - zur Kenntnis genommen
+- TOP 30: Erweiterung des Terrassencafés am Stadtmuseum - zur Kenntnis genommen
+- TOP 31: Robert Schumann Konservatorium - zur Kenntnis genommen
+- TOP 32: Sternstraße - zur Kenntnis genommen
+- TOP 33: Ehrenhof - zur Kenntnis genommen
+- TOP 34: Verkauf von städtischen Grundstücken im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 35: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 36: Bestellung Schriftführerin
+- TOP 37: Eislaufbahn an der Königsallee
+- TOP 38: Verschiedenes
