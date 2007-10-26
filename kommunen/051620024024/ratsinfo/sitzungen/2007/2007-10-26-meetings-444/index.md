@@ -1,0 +1,55 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2007-10-26T16:07:00+02:00
+- Ende: 2007-10-26T21:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/444
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/444
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Ansiedlung eines Einkaufsmarktes in Holzheim (RAT261007-05790.doc)
+- TOP 2: Städtebauliche Verträge (RAT261007-05786.doc)
+- TOP 3: Haus Milano (RAT261007-05785.doc)
+- TOP 4: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 5: Büroturm im Hammfeld I (Walter-Bau) (RAT261007-05784.doc)
+- TOP 6: Einwohnerfragestunde
+- TOP 7: Zinsmanagement (RAT261007-05793.doc)
+- TOP 8: Bebauungsplan Nr. 452 - Vogelsang, Niederdonker Weg - - Entwurfsvorlage - Aufstellungsbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 9: Bebauungsplan Nr. 450 - Hoisten, Kreuzstraße - - Entwurfsvorlage - Aufstellungsbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 10: Genehmigung der Tagesordnung
+- TOP 11: Nikotin-Konzentration im Ratssaal (RAT261007-05789.doc)
+- TOP 12: RWE-Aktien (RAT261007-05788.doc)
+- TOP 13: Stadthafen Neuss (RAT261007-05794.doc)
+- TOP 14: Radverkehrsanlagen Jülicher Straße (Straßenbau, Beleuchtung) –Planvorlage, Ausbauprogramm- (BA200907-05525.doc)
+- TOP 15: Baumaßnahme auf der Niederstraße (RAT261007-05792.doc)
+- TOP 16: Bebauungsplan Nr. 115/3 - Grimlinghausen, Kuhweg (West) - - Entwurfsvorlage - Aufstellungsbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 17: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 18: Beratung Rennbahn: Realisierung „Variante B+“ (RAT140907-05659.doc)
+- TOP 19: Vorhaben- und Erschließungsplan Nr. V110/8 - Pomona, Konrad-Adenauer-Ring / Holzheimer Weg (Elektrofachmarkt, Fachmarkt für Sportartikel und Schuhe sowie Büros) - - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 20: Flächennutzungsplanänderung Nr. 112 - Pomona, Konrad-Adenauer-Ring (Sondergebiet Elektro-, Sport- und Schuhfachmarkt) - - Beschluss über die Stellungnahmen - Beschluss über die FNP-Änderung - Einholung der Genehmigung
+- TOP 21: Flächennutzungsplanänderung Nr. 114 - Vogelsang, Niederdonker Weg - - Aufstellungsbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 22: Gebührenordnung Stadtbibliothek (KUL120907-05533.doc)
+- TOP 23: Sitzungskalender 2008 (RAT261007-05686)
+- TOP 24: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 25: Neubau Musikschule / VHS Vorläufiges Ergebnis der Wirtschaftlichkeitsprognose PPP Modell / PSC Modell (RAT 261007-05711)
+- TOP 26: Ortsdurchfahrt Schlicherum (RAT261007-05731.doc)
+- TOP 27: Feststellung des Jahresabschlusses der Stadtentwässerung Neuss zum 31.12.2006 (BA200907-05588.doc)
+- TOP 28: Aktionsplan „Senioren in Neuss“ (RAT261007-05739.doc)
+- TOP 29: Aufhebung des Öffentlichkeitsvertrages, des Benutzungsvertrages und der Gebührensatzung vom 29.04.1983 über den Schlachthof Neuss (AWL231007-05550.doc)
+- TOP 30: Benutzungsordnung Stadtbibliothek
+- TOP 31: Krefelder Straße in die Modernisierung des innerstädtischen Haupteinkaufsbereichs einbeziehen! (RAT261007-05765.doc)
+- TOP 32: Planung eines Steinkohlekraftwerkes in Düsseldorf (RAT261007-05772.doc)
+- TOP 33: Genehmigung der Dringlichkeitsentscheidung Nr. 86: Verwaltungsgerichtliches Verfahren Bürgermeister Herbert Napp ./. Stadt Neuss hier: Beantragung der Zulassung der Berufung (RAT261007-05769.doc)
+- TOP 34: Teilnahme der Stadt Neuss am Landeswettbewerb „Ab in die Mitte 2008“ (RAT261007-05761.doc)
+- TOP 35: Beteiligung an der Aktion „Minispielfelder“ des DFB hier: Antrag der CDU-Fraktion vom 24.08.2007 (RAT261007-05764.doc)
+- TOP 36: Umbenennung Carl-Diem-Straße (RAT261007-05787.doc)
+- TOP 37: Terminierung der Mitgliederversammlung 2008 des Städtetages NRW (Mitteilung der Verwaltung RAT261007-05723.doc)
+- TOP 38: Verwaltungsgerichtliches Verfahren Bürgermeister Herbert Napp ./. Stadt Neuss (RAT261007-05771.doc)
+- TOP 39: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen (RAT261007-05724.doc)
+- TOP 40: Sanierung des Hauptstraßenzuges, hier: Einbeziehung der Krefelder Straße in die Modernisierung der Gehwege und Beleuchtung (RAT261007-05763.doc)
+- TOP 41: Einwohnerfragestunde
