@@ -1,0 +1,7 @@
+# TOP 7: Fortschreibung JHP Kinder- und Jugendförderung
+
+- Sitzung: Jugendhilfeausschuss (2007-10-30)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/147033
+- Ergebnis: einstimmig beschlossen
