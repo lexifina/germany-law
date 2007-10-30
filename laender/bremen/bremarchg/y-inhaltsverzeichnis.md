@@ -2,9 +2,9 @@
 Inhaltsverzeichnis
 Abschnitt 1 | - Berufsaufgaben und Berufsbezeichnung -
 § 1 | Berufsaufgaben
-§ 2 | Berufsbezeichnung
+§ 2 | Geschützte Berufsbezeichnungen
 § 3 | Voraussetzungen für die Eintragung in die Architekten- oder die Stadtplanerliste
-§ 4 | Eintragungsvoraussetzungen für Zusammenschlüsse
+§ 4 | Eintragungsvoraussetzungen für Gesellschaften
 § 5 | Versagung der Eintragung
 § 6 | Eintragungs- und Löschungsverfahren
 § 7 | Datenverarbeitung, Löschung der Eintragung
