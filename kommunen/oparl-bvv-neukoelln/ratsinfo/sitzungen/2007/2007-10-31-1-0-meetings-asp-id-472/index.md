@@ -1,0 +1,94 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2007-10-31T17:10:00+01:00
+- Ende: 2007-10-31T22:35:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=472
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=472
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl von ehrenamtlichen Sozialpfleger(n)innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl von ehrenamtlichen Sozialpfleger(n)innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Bebauungsplan XIV-287b vom 06.07.2007 ("Krugpfuhlsiedlung - Rambowstraße") - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Bebauungsplan XIV-287c vom 06.07.2007 ("Krugpfuhlsiedlung - Parchimer Allee") - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Bebauungsplan 8-25 vom 13.07.2007 ("Waldkraiburger Straße) - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Änderung von stellvertretenden Bezirksverordneten in den Jugendhilfeausschuss - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Umgang mit Alkohol bei Kindern und Jugendlichen - beantwortet
+- TOP 8.2: Moderatoren-Teams im Böhmischen Dorf - beantwortet
+- TOP 8.3: Heizen mit Elektrizität? - beantwortet
+- TOP 8.4: Jahresabschluss 2006 des Kita-Eigenbetriebes SüdOst - beantwortet
+- TOP 8.5: Gedenktafel - beantwortet
+- TOP 8.6: Internationaler Tag zur Beseitigung jeder Form von Gewalt gegen Frauen am 25. November 2007 - beantwortet
+- TOP 8.7: Lernmittelbudgets - schriftlich beantwortet
+- TOP 8.8: Planergänzungsverfahren für Nachtflüge am Flughafen BBI - schriftlich beantwortet
+- TOP 8.9: Nutzung des Gemeinschaftshauses - schriftlich beantwortet
+- TOP 8.10: Gehwegschaden Bruno-Bauer-Straße/Delbrückstraße - schriftlich beantwortet
+- TOP 8.11: Messungen Johannisthaler Chaussee nach Eröffnung der BAB - schriftlich beantwortet
+- TOP 8.12: Methadonprogramm in Neukölln - schriftlich beantwortet
+- TOP 8.13: Schüleranmeldungen - schriftlich beantwortet
+- TOP 8.14: Bärenstark - schriftlich beantwortet
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Öffnung der Brücke am Hafen Britz-Ost - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Bessere Kenntlichmachung der Mittelinsel am Mauerweg - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Verkehrsberuhigung im Ehrenpreisweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Schule muss über DDR-Diktatur nachhaltig informieren! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Raser im Benatzkyweg?! - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Anzahl der Feuerwehrfahrzeuge nicht verringern - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Medienkompetenz für Eltern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Sicherheit in Neuköllner Kiezen verbessern I - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Sicherheit in Neukölln verbessern II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.10: Wiedereinsetzung der Buslinie 735 - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Öffentlicher Beschäftigungssektor - beantwortet
+- TOP 10.2: Schlagzeile vor Sorgfalt?! - beantwortet
+- TOP 10.3: Gutachten zur Anwendung des Straßenausbaubeitragsgesetzes für die Baumaßnahme Alt-Rudow - beantwortet
+- TOP 10.4: "Gotteshaus ist gleich Gotteshaus"? - beantwortet
+- TOP 10.5: Bewachung der Neuköllner Schulen - beantwortet
+- TOP 10.6: Öffentlich geförderter Beschäftigungssektor - beantwortet
+- TOP 11: Große Anfragen - schriftlich - beantwortet
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Orte des Schreckens, die wir niemals vergessen dürfen - überwiesen
+- TOP 12.2: Umbau des Richardplatzes, 12055 Berlin-Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Interkulturelle Öffnung der Altenhilfe - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Kepler-Oberschule ins QM einbeziehen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Querungshilfe Prierosser Straße - überwiesen
+- TOP 12.6: Columbia livia forma urbana ? die gemeine Straßentaube - überwiesen
+- TOP 12.7: Straßenschäden per Internet melden - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Änderung der Ampelschaltung Karl-Marx-Straße/Kirchhofstraße - überwiesen
+- TOP 12.9: Parknamen - überwiesen
+- TOP 12.10: Zusätzliches Abbiegen aus der rechten Mittelspur in die Grenzallee - überwiesen
+- TOP 12.11: Umsetzung des öffentlich geförderten Beschäftigungssektors - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Bürgersteigabsenkung vor dem Haupteingang "Casa Reha" - überwiesen
+- TOP 12.13: Moscheen - in der BVV abgelehnt
+- TOP 12.14: Verlängerung des Haltverbotes Karl-Marx-Straße 204-208 - überwiesen
+- TOP 12.15: Kinder in Bedarfsgemeinschaften - überwiesen
+- TOP 12.16: Gemeinschaftsschulen - in der BVV abgelehnt
+- TOP 12.17: Sprachkurse - in der BVV abgelehnt
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: Fahrzeiten von Bus 181 verbessern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Sichere Überquerung der Buschkrugallee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Fußgängerüberweg im Mariendorfer Weg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Öffnung der Späthbrücke - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Handwerk nicht im Innenstadtring ausschließen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Grünverbindung sicher über Blaschkoallee führen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Effektives Tempolimit in der Reuterstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.8: Verfahren unter Denkmalschutz stehende Bauten im Ortskern Alt-Buckow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Uferpromenade am Teltowkanal - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.10: Verkehrs- und Parkchaos beim Wochenmarkt Maybachufer - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Bürgerbeteiligung gem. § 41 Bezirksverwaltungsgesetz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Keine künstliche Sonne für Jugendliche unter 18 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Neuköllner Bäume retten - mit Abschlussbericht zur Kenntnis genommen
