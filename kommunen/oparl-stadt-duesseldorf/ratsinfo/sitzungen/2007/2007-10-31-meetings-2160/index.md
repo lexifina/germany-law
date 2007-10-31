@@ -1,0 +1,52 @@
+# Sportausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-10-31T15:00:00+01:00
+- Ende: 2007-10-31T17:45:00+01:00
+- Ort: extern
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/29
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2160
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2160
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096766.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096766.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096766.pdf
+
+## Tagesordnung
+
+- TOP 1: Anwesenheit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Anfragen und Anträge der Fraktionen - zur Kenntnis genommen
+- TOP 4: Anfrage SPD Dachsanierung - zur Kenntnis genommen
+- TOP 5: Anfrage Bü90/Grüne Frauenfußball-WM - zur Kenntnis genommen
+- TOP 6: Bericht Sportagentur - zur Kenntnis genommen
+- TOP 7: Kunstrasen Dreherstraße - einstimmig beschlossen
+- TOP 8: BSA Am Wald - einstimmig beschlossen
+- TOP 9: Joggingstrecke am Rhein - zur Kenntnis genommen
+- TOP 10: Masterplan Wassersport - zur Kenntnis genommen
+- TOP 11: Masterplan Leistungssport - einstimmig beschlossen
+- TOP 12: Internationale Sportkontakte - zur Kenntnis genommen
+- TOP 13: Sonderzuschuss TuS Nord - einstimmig beschlossen
+- TOP 14: Sonderzuschuss Sportwerk - einstimmig beschlossen
+- TOP 15: Zuschuss Post-Telekom Sportschießen - einstimmig beschlossen
+- TOP 16: Förderung von Projekten im Düsseldorfer Leistungsport: Ruderclub Germania Düsseldorf - einstimmig beschlossen
+- TOP 17: Förderung von Projekten im Düsseldorfer Leistungsport: Leichtathletik - einstimmig beschlossen
+- TOP 18: Sitzungstermine 2008 - zur Kenntnis genommen
+- TOP 19: Etatberatungen - zur Kenntnis genommen
+- TOP 20: Verwaltungshaushalt - einstimmig beschlossen
+- TOP 21: Entwurf Haushaltsplan 2008 und Finanzplan 2008-2011 - einstimmig beschlossen
+- TOP 22: VVZ VwH Teil A - Haushaltsneutr. Änderungen - einstimmig beschlossen
+- TOP 23: VVZ VwH Teil B - einstimmig beschlossen
+- TOP 24: Antrag SPD zu den Etatberatungen - mehrheitlich abgelehnt
+- TOP 25: Interfraktionelle Antrag Etat Internationale Sportkontakte - einstimmig beschlossen
+- TOP 26: Vermögenshaushalt - zur Kenntnis genommen
+- TOP 27: Entwurf Haushaltsplan 2008 und MIP 2007-2011 - einstimmig beschlossen
+- TOP 28: VVZ VmH Teil B - einstimmig beschlossen
+- TOP 29: Vorschläge und Änderungen der BVs - einstimmig beschlossen
+- TOP 30: Antrag CDU FDP Etat Düsseldorfer Modell - einstimmig beschlossen
+- TOP 31: Antrag CDU/FDP Etat Vereinswesen - einstimmig beschlossen
+- TOP 32: Antrag CDU/FDP Etat Wassersport - einstimmig beschlossen
+- TOP 33: Antrag CDU/FDP Etat Schülersportgemeinschaften - einstimmig beschlossen
+- TOP 34: Antrag CDU/FDP Etat Jugendsport - einstimmig beschlossen
+- TOP 35: Antrag CDU/FDP Etat Internationales Jugendturnier - einstimmig beschlossen
