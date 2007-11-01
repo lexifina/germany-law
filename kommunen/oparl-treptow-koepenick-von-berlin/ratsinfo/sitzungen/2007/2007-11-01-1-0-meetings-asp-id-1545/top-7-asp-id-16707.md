@@ -1,0 +1,7 @@
+# TOP 7: Mitteilungen des Vorstehers Nr. VI-10
+
+- Sitzung: 12. (ordentliche) Sitzung der Bezirksverordnetenversammlung (2007-11-01)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=16707
+- Ergebnis: zur Kenntnis genommen (Beratungsfolge beendet)
