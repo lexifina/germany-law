@@ -1,0 +1,104 @@
+# 12. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2007-11-01T16:30:00+01:00
+- Ende: 2007-11-01T21:37:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1545
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1545
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=54735
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-10 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Berufung eines beratenden und eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl der Schiedspersonen für die Schiedsamtsbezirke Treptow-Köpenick 2, 4 und 6 - gewählt
+- TOP 8.3: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Wahl eines Bürgerdeputierten - gewählt
+- TOP 8.6: Wahl zur stellvertretenden Bürgerdeputierten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Bezirkshaushaltsrechnung 2006 - überwiesen
+- TOP 11.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.4: Sondermittel für Technischer Jugendbildungsverein in Praxis e. V. (SM 763) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Sondermittel für Technischer Jugendbildungsverein in Praxis e. V. (SM 764) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Tennisclub Berlin-Oberspree e. V. (SM 765) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Sondermittel für PSV Olympia Berlin e. V. (SM 766) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sitzungsterminplan 2008 der BVV Treptow-Köpenick von Berlin - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Kampagne gegen die Abgabe von Alkoholika und Tabakwaren an Jugendliche - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Wärmedämmung und Energieeinsparung beim Musikschulgebäude - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Kunst aus der Sammlung der Sozialen Künstlerförderung - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Informationen für Neu-Treptow-Köpenicker - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Skulptur für den Interkulturellen Garten - vertagt
+- TOP 12.6: Unbefugte Zufahrt mit Kraftfahrzeugen in den Volkspark Wuhlheide zu unterbinden - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Verordnung über den Erlass der Veränderungssperre 9-12/15 für das Grundstück Schnellerstraße 79 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Niederschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Zustimmung zur Ausbauvariante für den Ausbau der Wendenschloßstraße zwischen der Müggelheimer Straße und der Salvador-Allende-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Bebauungsplanentwurf XVI-85 ("Regattastrecke") hier: Reduzierung des Geltungsbereiches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Bebauungsplan XV-40 ("Marktpassagen Adlershof") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Naturschutzwacht - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Bürgerinformation zum Weiterbau der A 100 in Treptow-Nord - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Baustelleninformationen im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Parkverbot im Ligusterweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Steuerungsgremium zur Umsetzung von MAE bei dem Geschäftsführer des Jobcenters Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Online-Umfrage Schwerpunkte Bibliotheksanschaffungen - mit Änderungen in der BVV beschlossen
+- TOP 12.17: Spendenboxen auf dem Gelände des ehemaligen Strandbads Rahnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Immobilie Königsheideweg 285 - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Don Ugoletti-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Solarenergie auf die Dächer - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Sozialarbeiter - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.22: Bedingungen für den Amphibienschutz am Rückhaltebecken in Rahnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Verfahren zur Verleihung des bezirklichen Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - überwiesen
+- TOP 13.2: Benennung der im Ortsteil Friedrichshagen liegenden, vom Fürstenwalder Damm abgehenden Straße 330 in "Ingrid-Goltzsche-Schwarz-Straße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Änderung der Schiedsamtsbezirke im Bezirk Treptow-Köpenick - Einteilung des Bezirks Treptow-Köpenick in sechs Schiedsamtsbezirke - Neufestlegung (örtliche Abgrenzung) der Schiedsamtsbezirke - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Grünauer Schleife in die Investitionsplanung - überwiesen
+- TOP 14.2: Lärmschutzmaßnahmen an der Bahnstrecke Berlin Ostbahnhof - Erkner, Ortslage Friedrichshagen - überwiesen
+- TOP 14.3: Park-and-Ride-Plätze am S-Bahnhof Rahnsdorf - überwiesen
+- TOP 14.4: Vom Wuhlewanderweg in die Altstadt Köpenick - überwiesen
+- TOP 14.5: Benennung der Straße D in Rauchfangswerder in Mielitzallee - überwiesen
+- TOP 14.6: Erschließung des Gewerbegebietes nördliche Nalepastraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Investruine Siriusstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Park-and-Ride am S-Bahnhof Grünau - überwiesen
+- TOP 14.9: Fahrradwege in Kreuzungsbereichen auf Schulwegen - überwiesen
+- TOP 14.10: Maßnahmen vor Beginn des geplanten Ausbaues der Wendenschloßstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Konzept gegen Verbreitung sexuell übertragbarer Krankheiten - überwiesen
+- TOP 14.12: Kampf der Verwahrlosung - Einsatz von MAE-Kräften - überwiesen
+- TOP 14.13: Finanzierung "Der Cöpenicker e. V." (Flussbad Gartenstraße) - überwiesen
+- TOP 14.14: Denkmalschutz bei Bauvorhaben von Silicon Sensor beachten - überwiesen
+- TOP 14.15: Sponsoren für kostenlose HIV-Tests - überwiesen
+- TOP 14.16: Grundstück Grünauer Str. 59 Ecke Werderstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Fortbildung in der Suchtprävention - überwiesen
+- TOP 14.18: Gehwegausbau gegenüber Bushaltestelle Mahonienweg und Beleuchtung - überwiesen
+- TOP 14.19: Kondome für den Sozialmedizinischen Dienst - überwiesen
+- TOP 14.20: Nutzungskonflikten auf dem Kaisersteg vorbeugen - überwiesen
+- TOP 14.21: Kontinuierlicher Wirtschaftsdialog mit dem BBI - überwiesen
+- TOP 14.22: Information über ÖBS-Stellen - überwiesen
+- TOP 14.23: Portrait über den Wirtschaftsstandort - ohne Änderungen in der BVV beschlossen
+- TOP 14.24: Stellungnahme im Planergänzungsverfahren Ausbau Schönefeld - überwiesen
+- TOP 14.25: Veranstaltungen des "Courage e.V." in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.26: Auslegung der Unterlagen im Planergänzungsverfahren Ausbau Schönefeld - ohne Änderungen in der BVV beschlossen
+- TOP 14.27: 100 Jahre Flugplatz Johannisthal - überwiesen
+- TOP 14.28: Errichtung einer behindertengerechten Toilette im Treptower Park - ohne Änderungen in der BVV beschlossen
+- TOP 14.29: Hinweis auf die Touristeninformation auf der Internetstartseite - überwiesen
+- TOP 14.30: Parken am Grünau-Hotel - überwiesen
+- TOP 14.31: Weinbau in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.32: Fortschreibung Sportstättenentwicklungsplan - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Anträge zum 3. SED-Unrechtsbereinigungsgesetz - vertagt
+- TOP 15.2: Nachtflug Flughafen Schönefeld - vertagt
+- TOP 15.3: Flexible Schuleingangsphase - vertagt
