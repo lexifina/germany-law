@@ -12,11 +12,5 @@ erforderlich ist. Ausgenommen von der Ausschreibungspflicht sind Ämter auch dan
 2. eines Sprechers des Senats oder des Magistrats,
 3. der persönlichen Referenten und Pressereferenten der Senatoren,
 4. der Angestellten im Vorzimmer der Senatoren und der hauptamtlichen Magistratsmitglieder.
-(6) Absatz 5 findet entsprechend auf die Ämter
-1. des Direktors bei der Bürgerschaft,
-2. des Sprechers der Bremischen Bürgerschaft,
-3. des persönlichen Referenten des Präsidenten der Bremischen Bürgerschaft,
-4. des Angestellten im Vorzimmer des Präsidenten der Bremischen Bürgerschaft
-Anwendung.
-(7) Das Nähere zu Inhalt und Durchführung der Ausschreibung wird von der obersten Dienstbehörde durch Verwaltungsvorschrift bestimmt.
-(8) Die Absätze 1 bis 7 gelten entsprechend für öffentliche Ämter, deren Inhaber nicht in ein Beamtenverhältnis berufen werden.
+(6) Das Nähere zu Inhalt und Durchführung der Ausschreibung wird von der obersten Dienstbehörde durch Verwaltungsvorschrift bestimmt.
+(7) Die Absätze 1 bis 6 gelten entsprechend für öffentliche Ämter, deren Inhaber nicht in ein Beamtenverhältnis berufen werden.
