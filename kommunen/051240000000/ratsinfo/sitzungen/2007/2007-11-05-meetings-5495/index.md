@@ -1,0 +1,70 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2007-11-05T16:05:00+01:00
+- Ende: 2007-11-05T18:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5495
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5495
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung des Rates http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00086761.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00086983.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Änderung der Bezeichnung Bezirksvorsteher in Bezirksbürgermeister - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Schulmittagessen nach Rüttgers-Modell - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Antwort zur Anfrage der Ratsfraktion DIE LINKE vom 02.10.07 zum Schulmittagessen nach Rüttgers-Model
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Mahnmal Scharpenacken
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Wirtschaftsförderung - abgesetzt
+- TOP 4.2: Ehrengrabanlage in geeigneter Form würdigen - ungeändert beschlossen
+- TOP 4.3: Ausschreibung Beigeordneten-Stellen - ungeändert beschlossen
+- TOP 4.4: NKF-Haushalt - abgelehnt
+- TOP 4.5: Mobilfunkkonzept - vertagen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Appell an Bund und Land zur Erhöhung der Regelsätze - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: 1. Änderung der Gebührensatzung für die Benutzung städtischer Sportanlagen - ungeändert beschlossen
+- TOP 6.2: Neufassung der Vergnügungssteuersatzung für die Jahre 2003 bis 2005 - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Robert-Daum-Platz - Schließung der Tunnel und Anlegung von Fußgängerüberwegen - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Beteiligung der Wirtschaftsförderung Wuppertal AöR an der Bergischen Entwicklungsagentur GmbH - ungeändert beschlossen
+- TOP 8.2: Gründung von Tochtergesellschaften der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 8.3: Veranlagungsregeln des Zweckverbandes Bergische VHS - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplan 2008 des Zweckverbandes Bergische VHS - ungeändert beschlossen
+- TOP 8.5: Eintritt der Stadt Wuppertal in den Bergisches Land Tourismus Marketing e.V. (BLTM) - ungeändert beschlossen
+- TOP 8.6: Erhöhung der Beteiligung an der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 1044V- Neuenbaumer Weg - (vorhabenb. Bebauungsplan) -Satzungsbeschluss- - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 911 - Oberbergische Straße / Obere Lichtenplatzer Straße - (1. Änderung des - ungeändert beschlossen
+- TOP 9.3: Bauleitplanverfahren Nr. 1076 -Rangierbahnhof Wichlinghausen- Satzungsbeschluss - ungeändert beschlossen
+- TOP 9.4: Bauleitplanverfahren Nr. 1108 - Steinbecker Meile / Tannenbergstraße - - ungeändert beschlossen
+- TOP 9.5: Bauleitplanverfahren - Steinbecker Meile - - ungeändert beschlossen
+- TOP 9.6: Bauleitplanverfahren Nr. 1100 V - Nesselstr. - - ungeändert beschlossen
+- TOP 9.7: Bauleitplanverfahren Nr. 1094 - Christbusch (Haus Waldfrieden) - - ungeändert beschlossen
+- TOP 9.8: Sammelbeschluss zur Aufhebung überholter Planverfahren im Stadtgebiet Langerfeld-Beyenburg - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Fortsetzung der Zusammenarbeit mit der Biologischen Station Mittlere Wupper in den Jahren 2008 und 2 - ungeändert beschlossen
+- TOP 11.2: Beitritt der Stadt Wuppertal zur "Deklaration von Graz über Behinderung und Alter" - ungeändert beschlossen
+- TOP 11.3: Sanierung des Gebäudes Auer Schulstraße/Friedrich-Ebert-Straße für die Nutzung durch Volkshochschule - ungeändert beschlossen
+- TOP 11.3.1: Ergänzungsantrag zur Drucksache VO/0843/07 - ungeändert beschlossen
+- TOP 11.3.2: Ergänzungsantrag zu VO/0843/07 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 11.4: Planungsabschluss der integrierten Schulentwicklungsplanung für die Berufskollegs der Städte Remsche - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Umbesetzung im Aufsichtsrat der Hotel AG - ungeändert beschlossen
+- TOP 12.2: Umbesetzung im Beirat der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 12.3: Umbesetzung in der Verbandsversammlung des Zweckverbandes Bergische VHS - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzung Seniorenbeirat - ungeändert beschlossen
+- TOP 12.5: Neubenennung eines sachkundigen Einwohners für den Ausschuss Bauplanung - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.7: Bestellung von Aufsichtsratsmitgliedern - abgesetzt
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
