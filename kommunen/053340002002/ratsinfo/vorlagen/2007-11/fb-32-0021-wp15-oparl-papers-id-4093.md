@@ -1,0 +1,21 @@
+# Ordnungsbehördliche Verordnung zur Änderung der ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung auf den Straßen und in den Anlagen der Stadt Aachen (Aachener Straßenverordnung) vom 19.03.2004
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 32/0021/WP15
+- Art: Entscheidungsvorlage
+- Datum: 2007-11-05
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=4093
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=4093
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1641 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1584 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1577 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1598 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1605 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1592 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1571 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1611 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1633 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=3
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=1643 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=1545 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=37
+- underDirectionOf: http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=14
