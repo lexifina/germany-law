@@ -1,0 +1,61 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2007-11-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1050522
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1050522
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Projekt Lindwurmstraße Bahnunterführung
+- TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Spielmöglichkeiten an der Wohnanlage Kidler-, Lindenschmitstraße
+- TOP 3.2.: Quartierbezogene Bewohnerarbeit 1999 bis 2007
+- TOP 3.3.: Interkulturelle Qualitätsentwicklung in Münchner Sozialregionen
+- TOP 4.: Schulreferat
+- TOP 4.1.: Erhalt mindestens eines Zuges mit einer reinen Sprachklasse im sonderpädegogischen Föderzentrum in der Droste-Hülshoff-Schule
+- TOP 4.2.: Bericht vom Treffen mit dem Schulreferat am 18.10.2007
+- TOP 5.1.: Christkindlmarkt im Biergarten der Gaststätte "Im Flaucher" Isarauen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Ziele und Grundsätze Sendlinger Verkehrspolitik; Antrag der SPD-Fraktion
+- TOP 6.2.: Meldeliste Bauvorhaben Stadtwerke München
+- TOP 6.3.: Fernwämebauvorhaben Lindenschmitstraße zwischen Dankl- und Implerstraße
+- TOP 6.4.: Fernwämebauvorhaben Plinganserstraße 23 bis 33 und Lindenschmitstraße
+- TOP 6.5.: Fernwärmebauvorhaben Aberle- / Alramstraße
+- TOP 7.1.: Kommunalwahlen am 02.03.2008; Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 7.2.: Budgetantrag Münchner Forum; Ausstellung zur 850-Jahrfeier; ? 5000,-
+- TOP 7.3.: Budgetanträge Isar-Rasselbande e.V., Neuanschaffungen aufgrund Umzugs des Kindergartens; ? 1900,- und 1000,-
+- TOP 7.4.: Budgetantrag Dante-Gymnasium, TutorInnenschulung auf Burg Schwaneck; ? 750,-
+- TOP 7.5.: Budgetantrag Himmelfahrtskirche, 5 Orgelkonzerte im Dezember 2007; ? 825,-
+- TOP 7.6.: Budgetantrag Caritas-Zentrum Innenstadt; Hausaufgabenhilfe für ausländische Kinder; ? 1000,- - wurde durch den Antragsteller zurückgezogen; alle Schülerinnen / Schüler sind bereits durch andere Einrichtungen versorgt -
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Bruderhofstraße 4
+- TOP 8.3.: Bauvorhaben Plinganserstraße 122; Sana-Klinik
+- TOP 8.4.: Neue Wege in der Wohnraumversorgung für ältere Bürgerinnen und Bürger
+- TOP 9.: Baureferat
+- TOP 9.1.: Neugestaltung des Platzes "Am Harras"; Bericht aus der Bauausschusssitzung des Stadtrates
+- TOP 9.2.: Hundefreie Zone vor der Kooperationseinrichtung Lummerland in der Karwendelstraße 44 - <div>zustimmende Kenntnisnahme</div>
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Fachhearing zum Thema Baumschutz
+- TOP 10.2.: Fällung verschiedener Gefahrenbäume
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 11.1.: (E) Keine Busumleitung durch Wohnstraßen nach dem Umbau des Harras Empfehlung Nr. 02-08 / E 00808 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 12.07.2007 - <div>nach Antrag mit Ergänzung</div>
+- TOP 11.2.: Festlegung der Schulsprengel nach Schulweglänge BV-Empf. Nr. 809 vom 12.07.2007 - <div>nach Antrag</div>
+- TOP 11.3.: Realisierung von Kinder- und Senioreneinrichtungen anstatt des Moscheebaus am Gotzinger Platz BV-Empf. Nr. 831 vom 12.07.2007 Ablehnung des Moscheevorhabens am Gotzinger Platz BV-Empf. Nr. 833 vom 12.07.2007 - <div>nach Antrag</div>
+- TOP 11.4.: Moscheegrundstück am Gotzinger Platz; Rücktritt vom Kaufvertrag - <div>Zustimmung, einstimmig</div>
+- TOP 11.5.: Verlängerung der Grünphase für Fußgänger an der Ampelanlage Oberländerstraße / Implerstraße BV-Empf. Nr. 830 vom 12.07.2007 - <div>Kenntnisnahme</div>
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Kultur im Stadtquartier
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
