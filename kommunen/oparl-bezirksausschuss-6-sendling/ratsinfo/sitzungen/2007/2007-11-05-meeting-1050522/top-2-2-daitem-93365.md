@@ -1,0 +1,7 @@
+# TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: BA 06 - Vollgremium (2007-11-05)
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/93365
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
