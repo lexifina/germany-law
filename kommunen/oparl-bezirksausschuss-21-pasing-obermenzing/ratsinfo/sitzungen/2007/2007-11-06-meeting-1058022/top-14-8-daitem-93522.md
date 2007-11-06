@@ -1,0 +1,7 @@
+# TOP 14.8.: Referat für Stadtplanung und Bauordnung - Feichthofstraße 155, Neubau einer Doppelhaushälfte mit Garage - Haus 4 - Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 Abs. 2 AEG; Barrierefreier Ausbau der S-Bahnsteige München, Errichtung von Fahrradstellplätzen; Erhöhung der Bahnsteige u.v.m, Gemarkung Pasing - Dr.-Böttcher-Straße 24-38, Baumfällungsantrag vom 28.08.2007 - Antrag auf Baumfällung auf dem Grundstück Lützowstraße 11 - Positivplanung für Standorte von Mobilfunkanlagen (BA-Antrag Nr. 02-08 / B 02198 vom 12.06.2007) - Haidelweg 5; Nutzung eines zum Anwesen Haidelweg 5 gehörenden Grundstückstreifens (BA-Schreiben vom 24.09.2007) - Information anlässlich der Obermenzinger Bürgerversammlung am 23.10.2007 zum Stand im Bereich des sozialen Wohnungsbaus für den 21. Stadtbezirk - Vollzug des Gesetzes über Ordnungswidrigkeiten, hier: Baumfällungen auf dem Anwesen Betzenweg 59 b - Seldweg; Temporäre Aufstellung einer Skulpturengruppe zur BUGA 2005, Antrag auf Verlängerung der Aufstellung der Skulpturengruppe "Sich aufrichtende Halme" im Blutenburger Schlossweiher - Bulwien-Fachgutachten Einzelhandel Laim Pasing
+
+- Sitzung: BA 21 - Vollgremium (2007-11-06)
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/93522
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/93522
