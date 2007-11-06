@@ -1,0 +1,7 @@
+# TOP 9.16.: Schreiben Kulturreferat vom 27.09.07: Treffen mit den Bezirksausschüssen am 20.09.07 im Kulturhaus Milbertshofen; Protokoll
+
+- Sitzung: BA 25 - Vollgremium (2007-11-06)
+- Körperschaft: Bezirksausschuss 25: Laim
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/93678
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/93678
