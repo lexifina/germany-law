@@ -1,0 +1,60 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2007-11-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1038075
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1038075
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Kath. Pfarrei St. Agnes; Festschrift zum 50jährigen Jubiläum am 15./16.09.2007
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Bewohnerstammtisch Hasenbergl Nord; Stadtteilsommerfest am 15.09.2007
+- TOP 3.1.: Parkplatzsituation um den Goldschmiedplatz
+- TOP 3.2.: Sanierung der Lerchenstraße zwischen Herberg- und Josef-Frankl-Str.
+- TOP 3.3.: Errichtung einer Bedarfsampel in der Dülferstraße zwischen den Hausnummern 30 und 34
+- TOP 3.4.: Bau einer Brücke über den Würmkanal im Bereich der Siedlung Ludwigsfeld
+- TOP 3.5.: U- und S-Bahnhof Feldmoching, Schaffung von Fahrradstellplätzen
+- TOP 3.6.: Beschilderung im Sperrengeschoss des U- und S-Bahnhofes Feldmoching
+- TOP 3.7.: Verstärkte Polizeikontrollen am Denkmal der Gefallenen des 1. und 2. Weltkrieges in der Fasanerie
+- TOP 3.8.: Verbesserung der Verkehrssituation in der Schittgablerstraße
+- TOP 3.9.: Gestaltung der Ausfahrt aus dem geplanten P+R-Platz in der Bernhardstraße
+- TOP 3.10.: Verbesserung der Sicht am Übergang Josef-Frankl-Straße / Schaarschmidstraße durch Verkleinerung des Parkstreifens
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Verkauf einer städtischen Immobilie: Schleißheimer Str. 395
+- TOP 5.2.: Verkauf der Siedlung Ludwigsfeld (BV-Empfehlung Nr. 737 vom 22.05.2007)
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Straßenbaumaßnahmen Thelottstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Straßenbaumaßnahme "Auf den Schrederwiesen" - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Filiale der Stadtsparkasse am Hasenbergl (Zwischennachricht) - <div>zur Kenntnis genommen</div>
+- TOP 6.4.: Meldelisten Bauvorhaben - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Baumschutzverordnung - Bauvorhaben a) Franz-Kötterl-Str. 5 b) Blodigstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.6.: Meldelisten Baumfällungen - <div>zur Kenntnis genommen</div>
+- TOP 6.7.: Fällung von Gefahrenbäumen - <div>zur Kenntnis genommen</div>
+- TOP 6.8.: Datenblätter Kinderkrippen - <div>zur Kenntnis genommen</div>
+- TOP 6.9.: Meldelisten - Baumaßnahmen Stadtwerke - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Parkerleichterung für Schwerbehinderte im Bereich Lahntalstraße 27 - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Interkulturelle Qualitätsentwicklung in Münchner Sozialregionen - wie und wo ab 2008 - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Haushaltskonsolidierung Abschlussbericht 3. Haushaltssicherungskonzept (3. HSK) Sachstand Konsolidierung 2007 Feinkonzept 2008 Grobkonzept 2009 - 2011 - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Haushaltsplan 2008 - Einzelplan 4 des Sozialreferates - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Haushaltsplan 2008 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Haushaltsplan 2008 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Haushaltsplan 2008 Produkt- und zielorientiert e Ansätze für den Bereich "Förderung freier Träger" der Zentrale - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Haushaltsplan 2008 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Neue Wege in der Wohnraumversorgung für ältere Bürgerinnen und Bürger - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Fachhearing zum Thema "Baumschutz" - <div>zur Kenntnis genommen</div>
+- TOP 6.20.: Stadtratsbeschluss "Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO -Vereinsdatenbank und Stadtteilseiten - Evaluationsbeschluss" - <div>zur Kenntnis genommen</div>
+- TOP 6.21.: Münchner Statistik, 1. Quartalsheft 2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.22.: Lärmschutz an der Bundesautobahn A 99/ Nord zwischen der AS M.-Ludwigsfeld und der AS M.-Neuherberg - <div>Unterlagen der Verkehrszählung</div>
+- TOP 6.23.: Schaffung einer entsprechenden Anzahl von Pkw-Stellplätzen im Bereich der Schleißheimer Straße für die auf dem Dülferanger weggefallenen Parkplätze - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte
+- TOP 7.1.: Koordinierungsgruppe Verstetigung Soziale Stadt
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
