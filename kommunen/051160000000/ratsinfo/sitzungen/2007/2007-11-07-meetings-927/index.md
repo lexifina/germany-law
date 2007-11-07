@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2007-11-07T15:00:00+01:00
+- Ende: 2007-11-07T16:55:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/927
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/927
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Kenntnisnahme
+- TOP 2: Etat 2008 - Vertagt (s. Niederschrift)
+- TOP 3: Stellenplan 2008 - Vertagt (s. Niederschrift)
+- TOP 4: Bericht Nr. 02/2007 - Kenntnisnahme
+- TOP 5: Überplanmäßige Bereitstellung Kassenkreditzinsen - Mit Stimmenmehrheit beschlossen
+- TOP 6: Überplan.Mittelbereitst. Unternehmervergütung - Mit Stimmenmehrheit beschlossen
+- TOP 7: Abwicklung der ÖPNV-Pauschale - Vertagt (s. Niederschrift)
+- TOP 8: Veräußerung der RWE-Aktien - Von Verwaltung zurückgezogen
+- TOP 9: Abstimmungs- und Verpflichtungserklärungen - Mit Stimmenmehrheit beschlossen
+- TOP 10: Schutz von Naturdenkmalen - Einstimmiger Beschluss
+- TOP 11: Konzept Abfallsammelstellen - Ohne Abstimmung
+- TOP 12: Konzept Abfallsammelstellen - Ohne Abstimmung
+- TOP 13: Konzept Abfallsammelstellen in Mönchengladbach: - Ohne Abstimmung
+- TOP 14: Einrichtung von Abfallannahmestellen - Mit Stimmenmehrheit beschlossen
+- TOP 15: Regenwassernutzungsanlagen - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 16: Bagatellregelung - Mit Stimmenmehrheit beschlossen
+- TOP 17: Kleinkläranlagen - Verweisung in zuständige Fachausschüsse
+- TOP 18: Fusion der Datenzentralen D/MG/NE - In den nächsten Ratszug geschoben
+- TOP 19: VO verkaufsoffener Sonntag in Wickrath am 16.12.07 - Mit Stimmenmehrheit beschlossen
+- TOP 20: Errichtung von weiterern Ganztagshauptschulen - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 21: RFID - Einstimmiger Beschluss
+- TOP 22: Umsetzung IZBB-Programm - Mit Stimmenmehrheit beschlossen
+- TOP 23: Neubau- / Sanierungsmaßnahme Stadtbad Rheydt - In den nächsten Ratszug geschoben
+- TOP 24: Pahlke-Bad: Notwendige Baumaßnahmen - In den nächsten Ratszug geschoben
+- TOP 25: Achter Nachtrag zur Geschäftsordnung - Mit Stimmenmehrheit abgelehnt
+- TOP 26: Reform der Versorgungsverwaltung - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 27: 1. Änderung eines Teilbereiches des BP 605/VIII - Mit Stimmenmehrheit beschlossen
+- TOP 28: 1. Änderung des Bebauungsplanes M Nr. 339 - Einstimmiger Beschluss
+- TOP 29: 1. Änderung des Bebauungsplanes Nr. 420/II - Einstimmiger Beschluss
+- TOP 30: Bebauungsplan Nr. 439/V - Stadtbezirk Neuwerk - - Mit Stimmenmehrheit beschlossen
+- TOP 31: Bebauungsplan Nr. 644/III - Stadtbezirk Stadtmitte - Einstimmiger Beschluss
+- TOP 32: Straßenbenennung im REGIO PARK - In den nächsten Ratszug geschoben
+- TOP 33: Geschäftsführung Städtische Kliniken - Mit Stimmenmehrheit abgelehnt
+- TOP 34: Regularien für Dienstreisen städt.Beteiligungen - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 35: § 428 SGB, Grüner Antrag - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Umbesetzung Ausschüsse - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 37: Anfragen - Zur Kenntnis genommen
