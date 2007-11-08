@@ -1,0 +1,67 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-11-08T16:00:00+01:00
+- Ende: 2007-11-08T17:46:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1989
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1989
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096710.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096710.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096710.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: B-Plan Nr. 6075/035 - In den Kötten - einstimmig beschlossen
+- TOP 4: Trödelmärkte im Stadtbezirk 8 im 1. Halbjahr 2008 - einstimmig beschlossen
+- TOP 5: Weihnachtsmarkt in Unterbach am 08. und 09. Dezember 2007 - einstimmig beschlossen
+- TOP 6: Wiederwahl der Schiedsfrau Monika Scholl - einstimmig beschlossen
+- TOP 7: Zuschüsse zu kulturellen Veranstaltungen - einstimmig beschlossen
+- TOP 8: Zuschüsse der Bezirksvertretung 8 im Jahre 2007 - mehrheitlich beschlossen
+- TOP 9: Schlesische Straße - Parkstreifen
+- TOP 10: Bauunterhalt an städtischen Einrichtungen - einstimmig beschlossen
+- TOP 11: Bauvorhaben in Vennhausen - zur Kenntnis genommen
+- TOP 12: Straßenbegrünungsmaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 13: Papier- und Grünschnittsammlung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 14: Bauvorhaben Am Turnisch - zur Kenntnis genommen
+- TOP 15: Brunnen Freiheitplatz - zur Kenntnis genommen
+- TOP 16: Verkehrsführungen Kamper Weg / Eller Kamp und Vennhauser Allee / Eller Kamp - zur Kenntnis genommen
+- TOP 17: Baumfällungen Daneköthen
+- TOP 18: Anmeldezahlen Grundschulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 19: Baumfällung Vennhauser Allee
+- TOP 20: Kunstwerk Gertrudisplatz - einstimmig beschlossen
+- TOP 21: Radweg Posener Straße - einstimmig beschlossen
+- TOP 22: Wichernschule - Mülltonnen-Standort - einstimmig beschlossen
+- TOP 23: Verkehrslenkung bei größeren Baustellen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 24: Verkehrsführung Bebelstraße - einstimmig beschlossen
+- TOP 25: Blumenkübek Kamper Weg
+- TOP 26: Ampelschaltung Gerresheimer Landstraße / Millrather Weg - einstimmig beschlossen
+- TOP 27: Ampelschaltung Rothenbergstraße / Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 28: Parkmarkierung Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 29: Öffnung von Lehrerparkplätzen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 30: Warnblinkleuchte Klein-Eller / Weinheimer Straße - einstimmig beschlossen
+- TOP 31: Fußweg Schlossallee zur Dieter-Forte-Gesamtschule - einstimmig beschlossen
+- TOP 32: Pavillons Lore-Lorentz-Schule - einstimmig beschlossen
+- TOP 33: Verlängerung des Reitweges Monckartzhofweg - mehrheitlich beschlossen
+- TOP 34: Graffiti gegen Schmierereien am S-Bahnhof Eller-Süd
+- TOP 35: Badesaison 2008 am Unterbacher See - mehrheitlich beschlossen
+- TOP 36: Zeitplan L 404n - mehrheitlich abgelehnt
+- TOP 37: Sachstandsbericht Schloss Eller - einstimmig beschlossen
+- TOP 38: Schulwegsicherung im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 39: Asphaltierung Weg von Am Dammsteg bis Hoxbach - zur Kenntnis genommen
+- TOP 40: Konradstraße - Baumscheiben / Bürgersteig - zur Kenntnis genommen
+- TOP 41: Verkehrssituation Rathelbeckstraße - zur Kenntnis genommen
+- TOP 42: LKW-Maut und Mehrbelastung - zur Kenntnis genommen
+- TOP 43: In der Elb - Baumscheiben - zur Kenntnis genommen
+- TOP 44: Pflanzfläche Gumbertstraße 197 - zur Kenntnis genommen
+- TOP 45: Bahnunterführung Gumbertstraße - zur Kenntnis genommen
+- TOP 46: Baumfällungen an der Südlichen Düssel - zur Kenntnis genommen
+- TOP 47: Mobilfunk-Sendeanlagen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 48: Baumpflanzungen und Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 49: Altglascontainer im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 50: Sitzungstermine der Bezirksvertretung 8 im Jahre 2008 - zur Kenntnis genommen
