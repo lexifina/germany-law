@@ -1,0 +1,55 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2007-11-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1047564
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1047564
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Wasserpfützen und Glatteis in der Grünanlage Bingener Straße / Feldmochinger Straße - <div>nach Antrag</div>
+- TOP 2.2.: Erhöhtes Verkehrsaufkommen in der Schegastraße
+- TOP 2.3.: Errichtung eines Gehweges in der Haylerstraße
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Netzerstraße am 24.10.07
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Überprüfung der Ampelschaltung Dachauer - / Hugo-Troendle-Straße - <div>nach Antrag</div>
+- TOP 4.2.: Einsatz mobiler Geschwindigkeitsanzeigen zur aktiven Verkehrserziehung - <div>nach Antrag</div>
+- TOP 4.3.: Nutzung der Schulsportanlagen durch Vereine - <div>nach Antrag</div>
+- TOP 4.4.: Tütenspender für Hundekot am Moosacher St. Martins-Platz - <div>nach Antrag</div>
+- TOP 4.5.: Zuganzeiger im U-Bahngeschoss der U1 / U3 - <div>nach Antrag</div>
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Linksabbiegesignal an der Kreuzung Allacher - / Untermenzinger - / Pirschstraße - <div>abgelehnt </div>
+- TOP 4.2.: Beleuchtung des Rad- / Fußweges "Am Kapuzinerhölzl" - <div>nach Antrag</div>
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 6.: Anhörungen
+- TOP 6.1.: Sanierung der Pelkovenstraße - <div>nach Antrag</div>
+- TOP 6.2.: Nikolausaktion der Mietergemeinschaft Borstei - <div>nach Antrag</div>
+- TOP 6.3.: Bebauungsplan Nr. 904; Wildermuthstraße, Dachauer Straße, Güterumgehungsbahn München-Nord und Bahnlinie München-Landshut - <div>nach Antrag</div>
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Aufnahme der Planungskosten für Erweiterungsmaßnahmen in Liste 1 MIP 2005 - 2009; Grundschule und Teilhauptschule Welzenbachstr. 12 (wird durchgeführt)
+- TOP 7.2.: Wege im Kapuzinerhölzl
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Stadtratsbeschluss "Erfahrungen und Erkenntnisse über das pilotprojekt "NPO - Vereinsdatenbank und Stadtteilseiten" - Evaluationsbeschluss"
+- TOP 8.4.: Verkehrsrechtliche Anordnung Hugo-Troendle-Str. zwischen Rigaer Straße und Wintrichring
+- TOP 8.5.: Absolutes Halteverbot in der Gärtnerstraße Nordseite westlich hanauer Straße
+- TOP 8.6.: Absolutes Halteverbot in der Bautzener Straße
+- TOP 8.7.: Fachhearing zum Thema "Baumschutz"
+- TOP 8.8.: Pächterwechsel "Seydlitzstüberl", Seydlitzstr. 58
+- TOP 8.9.: Quartierbezogene Bewohnerarbeit 1999 bis 2007 (Neufassung vom 19.09.2007)
+- TOP 8.10.: Daten Kinderkrippen Stand 01.10.2007
+- TOP 4: Anträge
