@@ -1,0 +1,104 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2007-11-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1090898
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1090898
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Zustand des Fußweges in der Pfingstrosenstraße
+- TOP 1.2.: Fußgänger-Überweg in der Prälat-Wellenhofer-Str. 33
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Waldgartenstr. 82, gem. Baumbestandsplan und Freiflächengestaltungsplan Nr. 65461
+- TOP 3.2.: Stiftsbogen, gem. Baumbestandsplan Nr. 69905
+- TOP 3.3.: Heiglhofstr. 4 - 4a, gem. Baumbestandsplan und Freiflächengestaltungsplan Nr. 66745
+- TOP 3.4.: Waldesruhe 20, gem. Baumbestandsplan und Freiflächengestaltungsplan Nr. 67188
+- TOP 3.5.: Hohenklingenstr., gem. Baumbestandsplan und Freiflächengestaltungsplan Nr. 68035
+- TOP 3.6.: Am Brombeerschlag 15, 1 Fichte
+- TOP 3.7.: Waldeslust 24, 1 Kiefer und 1 Flügelnuss
+- TOP 3.8.: Großhaderner Str. 27, 1 Kiefer
+- TOP 3.9.: Waldesruhe 6, 1 Föhre und 1 Kiefer
+- TOP 3.10.: Am Heidebruch 18, gem. Baumbestandsplan Nr. 69686
+- TOP 3.11.: Waldsaumstr. 4, 2 Birken, 1 Fichte, 1 Tsuga
+- TOP 3.12.: Windeckstr. 81, gem. Baumbestandsplan Nr. 71171
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Listen des Baureferates vom 18.09.07, 19.09.07, 09.10.07
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Verkehr
+- TOP 4.2.: UA Bau
+- TOP 4.3.: UA Kinder/Schule/Sport / UA Bau
+- TOP 4.4.: UA Budget
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag der Initiative Haderner Bewegungskindergarten auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 5.419,80 ? (Direktorium, 26.10.07)
+- TOP 6.2.: Antrag des Waldorfkinderhauses Pasing in der Blumenau e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 3.500,- ? (Direktorium, 31.10.07)
+- TOP 7.: Anhörungsfälle
+- TOP 7.1.: Öffentlich-rechtliche Sondernutzungserlaubnis, hier: Christkindlmarkt in Hadern auf dem Canisiusplatz am 08. und 09.12.07 (Kreisverwaltungsreferat, 09.10.07)
+- TOP 7.2.: Erinnerungsverfahren, Neufriedenheimer Str. 68 (Baureferat, 15.10.07)
+- TOP 7.3.: Stiftsbogen, Stiftsbogen I: Neubau einer Kooperationseinrichtung mit 2 Kindergarten- und 3 Kinderkrippengruppen, Stiftsbogen II: Neubau einer Kooperationseinrichtung mit 3 Kindergarten- und 2 Hortgruppen (Referat für Stadtplanung und Bauordnung, 17.10.07)
+- TOP 7.4.: Verkehrsrechtliche Anordnung: Haltverbot in der Pfundmayerstr. (Kreisverwaltungsreferat, 22.10.07)
+- TOP 7.5.: Initiative zur Mietrechtsänderung (Sozialreferat, 29.10.07)
+- TOP 7.6.: Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen; Antrag des BA 5 (Bürgermeisterin Strobl, 26.10.07)
+- TOP 7.7.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Wanderveranstaltung am 15. und 16.12.07 der Wanderfreunde Neuaubing, Start und Ziel: Weinberger Str. 19 ( Kreisverwaltungsreferat, 07.11.07)
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Container am Gondrellplatz (AWM, 10.09.07)
+- TOP 8.2.: Daten Kinderkrippen, Stand 01.10.07 (Sozialreferat, 08.10.07)
+- TOP 8.3.: Treffen mit den Bezirksausschüssen am 20.09.07 im Kulturhaus Milbertshofen (Kulturreferat, 27.09.07)
+- TOP 8.4.: Verkehrsrechtliche Anordnung: Haltverbot Prälat-Wellenhofer-Straße (Kreisverwaltungsreferat, 21.09.07)
+- TOP 8.5.: Vollzug der Grünanlagensatzung vom 12.08.1991, Provisorischer Zugang vom Walter-Hopf-Weg zur Schröfelhofstr. 6 - 26 (Kreisverwaltungsreferat, 15.10.07)
+- TOP 8.6.: Baumaßnahmen der Stadtwerke München (Liste der SWM vom 29.10.07)
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Hinweisschilder an der A 96 Autobahnausfahrt "München-Blumenau" (Autobahndirektion Südbayern, 28.09.07)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Anfrage bezüglich Ausstattung der Kindergärten (Bürgeranfrage an das Schulreferat, 01.10.07)
+- TOP 11.2.: Luftreinhalte-/Aktionsplan für die Landeshauptstadt München, Veröffentlichung des Pressesprechers Heinrich Schuster (Gemeinde Gräfelfing, 05.10.07)
+- TOP 11.3.: BA-Satzungskommission am 23.10.07 (BA 15, 15.10.07)
+- TOP 11.4.: Wahl des Oberbürgermeisters, des Stadtrates und der Bezirksausschüsse in der Landeshauptstadt München am 02.03.08; Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer (Kreisverwaltungsreferat, 11.10.07)
+- TOP 11.5.: Das Schulreferat trifft die Bezirksausschüsse, Einladung für den 22.11.07 um 16:00 Uhr (Schul- und Kultusreferat, 15.10.07)
+- TOP 11.6.: Antrag des BA 20: Gebäude-Energiepass (BA 9 und BA 3, 16.10.07)
+- TOP 11.7.: 850. Stadtgeburtstag und Schülerprojekt
+- TOP 11.8.: Laufrichtung der Fahrtreppe Nr. 6 am U-Bahnhof Holzapfelkreuth - Ausgang Neufriedenheimer Straße (Bürgerschreiben, 19.10.07)
+- TOP 11.9.: Zuwendung aus Budgetmitteln des Bezirksausschusses 20, Tagesheim an der Großhaderner Str., Sitz- und Ruhemöglichkeiten im Innenhof (Direktorium, 08.10.07)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 04.10.2007: Kultur im Stadtquartier, Kultur-Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen, Evaluierung kultureller Zentren, Kulturelle Zentren und Stadtteilwochen, Gesamtkonzept für die stadtteilkulturellen Einrichtungen
+- TOP 12.2.: vom 04.10.2007: Mobilität in Deutschland 2008 - MiD 2008, Haushaltsbefragung zum Verkehr in München 2008 - MiDMUC 2008 (Kosten: 164.000,- ?, wovon auf die Stadt 154.000,- ? entfallen)
+- TOP 12.3.: vom 04.10.2007: Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO - Vereinsdatenbank (wird eingestellt) und Stadtteilseiten"
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.09.207: Mini-Windkraftwerke auf den Dächern der städtischen Wohnungsbaugesellschaften (abgelehnt)
+- TOP 12.2.: Beschluss des Sozialausschusses vom 20.09.2007: Quartierbezogene Bewohnerarbeit 1999 bis 2007, Entwicklungen, Sachstand und Visionen, Ergänzende Bezuschussung einzelner Projekte, Realisierung des Bewohnertreffs im Neubaugebiet an der Bajuwarenstraße, insbesondere Adresse vom "Na klar! Nachbarschaft Kleinhadern" (Anlage 2)
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses vom 18.09.2007: Abriss und Neubau des Jugendtreffs Pfiffteen im 20. Stadtbezirk Hadern, Wolkerweg 15, Träger: Kreisjugendring München-Stadt (Kosten: 1.510.000,- ?)
+- TOP 12.4.: Beschluss des Bauausschusses vom 25.09.2007: Aktion Saubere Stadt, Konzept der Öffentlichkeitskampagne
+- TOP 12.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.07: Haushaltskonsolidierung, Abschlussbericht 3 Haushaltssicherungskonzept, Sachstand Konsolidierung 2007, Feinkonzept 2008, Grobkonzept 2009 - 2011
+- TOP 12.6.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.10.2007: Haushaltsplan 2008, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale
+- TOP 12.7.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.10.2007: Haushaltsplan 2008, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere zum Alten- und Servicezentrum (ASZ) Kleinhadern-Blumenau (191.101,- ?), zur alten Wohnanlage Konrad-Dreher-Straße 19 - 23 (38.585,- ?, beantragt 60.752,- ?)
+- TOP 12.8.: Beschluss des Sozialausschusses vom 11.10.2007: Interkulturelle Qualitätsentwicklung in Münchner Sozialregionen - wie und wo ab 2008?
+- TOP 12.9.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2007: Flughafen Oberpfaffenhofen
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und der Sozialausschusses in der gemeinsamen Sitzung vom 09.10.2007: Haushaltsplan 2008, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere zum Kinderhaus am Wolkerweg (180.300,- ?, beantragt 189.300,- ?), PfiffTEEN Treffpunkt für Jugendliche (279.500,- ?, beantragt 293.500,- ?), Treff 21, Schule-Beruf e.V. (310.590,- ?, beantragt 326.120,- ?) und zur Nachbarschaft Neuhadern Bewohnertreff (90.928,- ?) laut Anlage
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.2007: Haushaltsplan 2008, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere zum Konzept GRÜN Bewohnertreff Hadern (50.000,- ?), IBS Krokusstraße (2.500,- ?)
+- TOP 12.3.: Beschluss des Bauausschusses vom 16.10.2007: Fachhearing zum Thema "Baumschutz" am 23.11.2007, 10:00 Uhr, im Großen Sitzungssaal des Rathauses, Ende 12:00 Uhr
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kommunalausschusses vom 27.09.2007: Verkauf von Grundstücken, 20. Stadtbezirk Hadern, hier einer Teilfläche von 4.315 qm zum Bau einer privaten Turnhalle nach dem Haderner Modell
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.2007: Haushaltsplan 2008 - Einzelplan 4 des Sozialreferates
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Baordnung und des Sozialausschusses vom 11.10.2007: Neue Wege in der Wohnraumversorgung für ältere Bürgerinnen und Bürger
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2007: Ausweisung neuer Gewerbeflächen, Berichtsjahr 2006, insbesondere in der Sauerbruchstraße (Westseite) (Seite 5)
+- TOP 12.3.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 19.09.2007: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Erfahrungen mit der Umsetzung des Beschlusses und Information über die Mittelverwendung
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
