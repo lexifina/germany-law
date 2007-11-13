@@ -1,0 +1,75 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2007-11-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1090131
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1090131
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Krauss-Maffei-Straße; Straßenschild
+- TOP 1.2.: Sanierung der Eversbuschstraße
+- TOP 1.3.: Grundschule an der Pfarrer-Grimm-Straße
+- TOP 1.4.: Sanierung der Von-Kahr-Str.
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 3.1.: Beleuchtung der Stieglstraße ab Riederstraße in nördlicher Richtung
+- TOP 3.2.: Sanierung der Naßlstraße zwischen Franz-Albert- und Behringstraße
+- TOP 3.3.: Sanierung der Würmbrücke am Paul-Ehrlich-Weg
+- TOP 3.4.: Sanierung des Kreuzungsbereiches Silber-/Kleselstraße
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Straßenbauarbeiten Allacher Straße zw. Angerlohstraße und Elly-Staegmeyer-Straße
+- TOP 9.2.: Fuß- und Radweg (Bahnweg) zwischen Krauss-Maffei-Straße und Ludwigsfelder Straße
+- TOP 9.3.: Spielplatz Megerle-/Freseniusstraße
+- TOP 9.4.: Untermenzing - Fahrradabstellanlage
+- TOP 9.5.: Öffentlicher Grünzug Ernst-Haeckel-Straße
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Z 283 Mühlhölzlweg und Im Grund
+- TOP 10.2.: Verkehrssituation Näther-, Finsterwalder-, Megerlestraße
+- TOP 10.3.: Wahl des Oberbürgermeisters, des Stadtrates und der Bezirksausschüsse in der Landeshauptstadt München am 02.03.2008; Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 10.4.: Theodor-Fischer-Str.; Zeichen 283 StVO
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumSchutzVO a) Angerlohstr. 62, s. Baumbestandsplan Nr. 2007-69430 b) Vorherstr. 11, s. Baumbest.plan Nr.2007- 67155
+- TOP 11.2.: Bauanträge (v. 01.10-07.10.07; 08.10.07-14.10.07; 15.10.07-21.10.07)
+- TOP 11.3.: Liste der beantragten Baumfällungen (01.10.07-07.10.07)
+- TOP 11.4.: NBS/ABS Nürnberg-Ingolstadt-München im Bereich der Landeshauptstadt München Planungsabschnitt 82 M der ABS Ingolstadt-München, Bahn-km 12,900 bis 4,900 Ergänzungsplanfeststellung für zusätzliche Schallschutzmaßnahmen infolge der Straßenbaumaßnahmen im Zuge der Beseitigung des schienengleichen Bahnübergangs der Ludwigsfelder Straße (Auflage aus dem Planfeststellungsbeschluss vom 20.07.2001); Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG) - Planänderungsbeschluss des Eisenbahn-Bundesamtes vom 26.09.2007 -
+- TOP 11.5.: Eversbuschstraße nördlich
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: Einladung: Das Schulreferat trifft die Bezirksausschüsse, Stadtbezirke 20,21,22,23
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Daten Kinderkrippen
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 17.1.: Treffen mit den Bezirksausschüssen am 20. September 2007 im Kulturhaus Milbertshofen
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA 15 Trudering-Riem: BA-Satzungskommissionssitzung 23.10.
+- TOP 20.2.: Sprachförderschule in der Droste-Hülshoff-Straße
+- TOP 20.3.: Schreiben des BA 15 Trudering-Riem: - Entscheidungszuständigkeit für Standortwahl und Bedarfsgenehmigung bei einer Kindertagesstätte
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Bauausschuss vom 25.09.2007: - Aktion Saubere Stadt, Konzept der Öffentlichkeitskampagne
+- TOP 22.2.: Bauausschuss vom 16.10.2007: - Fachhearing zum Thema "Baumschutz"
+- TOP 22.3.: Kreisverwaltungsausschuss vom 02.10.2207 - Spielplatz an der Megerlestraße/ Freseniusstraße
+- TOP 22.4.: Sozialausschuss vom 20.09.2007: - Quartierbezogene Bewohnerarbeit 1999 bis 2007
+- TOP 22.5.: Vollversammlung vom 04.10.2007: - Mobilität in Deutschland 2008 - MiD 2008, Haushaltsbefragung zum Verkehr in München 2008 - MiDMUC 2008 - Kultur im Stadtquartier - Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO-Vereinsdatenbank und Stadtteilseiten"
+- TOP 22.6.: Ausschuss für Stadtplanung und Bauordnung vom 10.10.07 - Flughafen Oberpfaffenhofen - Ausweisung neuer Gewerbeflächen Berichtsjahr 2006
+- TOP 22.7.: Sozialausschuss vom 09.10.07 - Haushaltsplan 2008 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale und des Amtes für soziale Sicherung - Haushaltskosolidierung Abschlussbericht 3. Haushaltssicherungskonzept (3. HSK) Sachstand Konsolidierung 2007, Feinkonzept 2008, Grobkonzept 2009-2011
+- TOP 23: Verschiedenes
