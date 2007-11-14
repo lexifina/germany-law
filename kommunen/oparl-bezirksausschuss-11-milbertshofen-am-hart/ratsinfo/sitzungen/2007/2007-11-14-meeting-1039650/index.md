@@ -1,0 +1,56 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2007-11-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1039650
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1039650
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Neueinteilung der Stimmbezirke bzw. Wahllokale im 11. Stadtbezirk, Antwortschreiben des KVR
+- TOP 4.1.: Überarbeitung des Grünkonzeptes im Neubaugebiet Nordheide (Antrag Nr. 02-08/B02275 des Bezirksausschusses 11 Milbertshofen - Am Hart vom 18.07.2007) Antwortschreiben des Baureferates
+- TOP 4.2.: Überprüfung der Ge- und Verbotsschilder für Fußgänger und Radfahrer im Olympiapark (Antrag Nr. 02-08/B01564 des Bezirksausschusses 11 Milbertshofen - Am Hart vom 30.10.2006) Antwortschreiben des Baureferates
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Kath. Pfarramt St. Georg, Aufführung eines Kindermusicals am 27./28.10.2008
+- TOP 6.2.: Kath. Pfarramt St. Lantpert, Lantperter Orgelherbst Okt./Nov. 2007
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 7.1.: Überprüfung des Tempolimits von 50 km/h im Petueltunnel (CSU-Fraktion im BA 11)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Anhörung im einzefall auf Anforderung: a) Anhalter Str. 9, Neubau einer Wohnanlage mit Tiefgarage b) Hanselmannstr. 11, Abbruch einer Werkstatt mit Garage c) Neustifter Str. 23, Nutzungsänderung im EG des Vorbaus (Laden zu Vereinsraum)
+- TOP 8.2.: Bauvorhaben, hier Ingolstädter Str. 195 (vertagt aus der Sitzung vom 17.10.2007)
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendungen aus dem Budget des Bezrirksausschusses, Bewilligungsbescheide: a) Kulturhaus Milbertshofen, Kalender 2008, 1850,00? bewilligt b) Ev.-Lu. Versöhnungskirche, Artionale 2007, 925,00? bewilligt c) Kirchenchor des kath. Pfarramt St. Georg, Konzert am 17.11.2007, 1575,00? bewilligt d) Madhouse gGmbH, Sinti und Roma, 1000,00? bewilligt e) Männerchor Milbertshofen-Riesenfeld e.V, Hoagast am 16.11.2007, 950,00? bewilligt f) Trägerverein Kulturhaus Milbertshofen, Country-Weihnacht am 15.12.2007, 700,00? bewilligt
+- TOP 9.2.: Mitteilung über ein Grundstücksgeschäft
+- TOP 9.3.: Stadtratsbeschluss "Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO-Vereinsdatenbank und Stadtteilseiten" - Evaluationsbeschluss"
+- TOP 9.1.: Fachhearing zum Thema "Baumschutz" (Beschluss des Bauausschusses vom 16.10.2007)
+- TOP 9.2.: Aktion Saubere Stadt, Konzept der Öffentlichkeitskampagne (Beschluss des Bauausschusses vom 25.09.2007)
+- TOP 9.3.: Winterdienst 2007/2008
+- TOP 9.4.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Störfallverordnung; Errichtung und Betrieb eines Energietechnischen Versuchszentrums (EVZ) , Genehmigungsbescheid
+- TOP 9.5.: Containergestellung auf dem Brundageplatz, Ausnahmebewilligung
+- TOP 9.6.: Gefahrenbäume
+- TOP 9.7.: Baumaßnahmen der Stadtwerke München
+- TOP 9.8.: Vollzug der Baumschutzverordnung, Fällungsanträge
+- TOP 9.9.: Meldelisten Bauvorhaben
+- TOP 9.1.: Daten Kinderkrippen
+- TOP 9.2.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
