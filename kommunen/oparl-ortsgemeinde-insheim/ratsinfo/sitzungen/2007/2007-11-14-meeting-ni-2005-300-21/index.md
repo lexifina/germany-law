@@ -1,0 +1,14 @@
+# 25. Sitzung des Ortsgemeinderates Insheim
+
+- Körperschaft: Ortsgemeinde Insheim
+- Beginn: 2007-11-14T18:30:00+01:00
+- Ende: 2007-11-14T20:02:00+01:00
+- Ort: Rathaus Insheim, Ratssaal, Hauptstraße 15, 76865 Insheim
+- Status: terminiert
+- Gremium: https://herxheim.gremien.info/oparl/organization/300
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2005-300-21
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2005-300-21
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
