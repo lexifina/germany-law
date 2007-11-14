@@ -1,0 +1,104 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2007-11-14T17:00:00+01:00
+- Ende: 2007-11-14T22:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1513
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1513
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=35777
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - überwiesen
+- TOP 3: Konsensliste - im Ausschuss abgelehnt
+- TOP 4: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2008 - im Ausschuss abgelehnt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Quartiere und Trainingsmöglichkeiten für die Leichtathletik-WM 2009 in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Mehr Sicherheit auf dem Schulweg zur Bertha-von-Suttner-Oberschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Schulbaumaßnahmen (IZBB) in Reinickendorf - überwiesen
+- TOP 6.4: Mit Licht fahren - besser gesehen werden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: Berichterstattung über mögliche Neubebauung der Cité Foch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.6: Sicherer Schulweg in Alt-Tegel - überwiesen
+- TOP 6.7: Kontrollen zur Durchsetzung des Jugendschutzes verstärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Regenwasserrückhaltebecken Edelhofdamm (Frohnau) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.9: Nutzbarkeit der Wilhelm-Blume-Allee für Fußgänger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.10: BMW-Niederlassung in Reinickendorf - vertagt
+- TOP 6.11: Reinickendorf zeigt Flagge - Regenbogenfahne hissen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.12: Kleine Liga im Internet-Auftritt des Bezirksamtes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.13: Kinder in Angst brauchen Schutz - Projekt Notinsel in Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.14: Senat soll Elternwillen akzeptieren: Victor-Gollancz-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.15: Einwirkungsmöglichkeit als Mitglied der ARGE in der Trägerversammlung - Arbeitsbeschaffungsmaßnahmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.16: Geschwindigkeitskontrollen in der Schulzendorfer Straße (Heiligensee) durchführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: PPP - Fehlentscheidung auf Landesebene - vertagt
+- TOP 7.2: Schulversäumnisse in Reinickendorf - vertagt
+- TOP 7.3: Rückzug der bezirklichen Jugendarbeit aus dem Herzen des Märkischen Viertels? - vertagt
+- TOP 7.4: Heizkraftwerk MV - vertagt
+- TOP 7.5: Bericht des Rechnungshofs: Kein finanzieller Schaden für den Bezirk - Arbeitsplätze erfolgreich erhalten - vertagt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Bebauungsplan 12-16 für Teilflächen der Grundstücke Garielenstraße 13 und 15/25 ... - überwiesen
+- TOP 8.2: Wahl des Schiedsmannes Wolfgang Weichert - gewählt
+- TOP 8.3: Wahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Grüne-Welle - Berliner Straße - Seidelstraße - Kurt-Schumacher-Platz - - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: E-Government in Reinickendorf fortentwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Internet-Auftritt der BVV bürgerfreundlich gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Ausstattung des Ordnungsamtes mit Dienstfahrrädern - erledigt
+- TOP 9.5: Ringbuslinie in Konradshöhe und Heiligensee einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Parkhäuser in Tegel - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.7: Linksabbiegerspur Kreuzung Oranienburger Str. / Eichborndamm - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Teilnahme am Programm WiS-Wissen in den Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Monitore: Kultur-Info für die Besucher - vertagt
+- TOP 9.10: Halteverbot in der Avenue Charles de Gaulle - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Senat soll Lehrerinnen- und Lehrermangel entgegenwirken - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Patenschaften von Zahnärztinnen und Zahnärzten mit Kitas und Grundschulen - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Benennung eines Paul-Poser-Platzes in Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Fußgängerüberweg an der Welfenallee in Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Mehr Sicherheit für Fußgänger am Zeltinger Platz und Ludolfinger Platz in Frohnau - vertagt
+- TOP 9.16: Linienführung des Buses 120 in Frohnau - in der BVV abgelehnt
+- TOP 9.17: Anpassung des Jagdrechts - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Beschilderung im Wald - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: Reitwege im Wald - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Beschleunigte Rechtsprechung für jugendliche Straftäter - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Ortsteil Tegel mit dem Fernbahnhof Spandau besser verbinden - ohne Änderungen in der BVV beschlossen
+- TOP 9.22: Haltebuchten Waidmannsluster Damm - ohne Änderungen in der BVV beschlossen
+- TOP 9.23: Geschichte Reinickendorfs als Hörbuch - ohne Änderungen in der BVV beschlossen
+- TOP 9.24: Waschbärenpopulation auf der Insel Scharfenberg reduzieren - ohne Änderungen in der BVV beschlossen
+- TOP 10: Anträge - (offen)
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: WBS-Pflicht in Bernauer Straße aufheben - vertagt
+- TOP 11.2: Generelles Alkoholverbot an Schulen - überwiesen
+- TOP 11.3: Radfahrstreifen - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Haushaltsberatungen langfristiger vorbereiten - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Tempo 30 rund um den Falkenplatz - überwiesen
+- TOP 11.6: Schulsekretariate - überwiesen
+- TOP 11.7: Seniorenvertretung räumlich unterstützen - überwiesen
+- TOP 11.8: Baustelleninformationen im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Agendabeirat - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: "Strahlende Aussichten" - Mobilfunkanlagen in Reinickendorf - überwiesen
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Verpflichtende Früherkennungsuntersuchungen für alle Kinder - überwiesen
+- TOP 12.2: Weiterführung der Europaschule - überwiesen
+- TOP 12.3: Hochbegabtenförderung in Reinickendorf ausbauen - überwiesen
+- TOP 12.4: Sicherheit für Fußgänger an der Kreuzung Welfenallee/Ludolfinger Platz - überwiesen
+- TOP 12.5: Überarbeitung der Lehrpläne im Fach Geschichte - vertagt
+- TOP 13: Haltung zu Schwulen und Lesben und zu BVV-Beschlüssen klar stellen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14: Mehr Sicherheit durch Freiwilligen Ordnungsdienst in den Ortsteilen - beantwortet
+- TOP 14.1: Freiwilliger Ordnungsdienst - überwiesen
+- TOP 15: Wohnungslosigkeit in Reinickendorf - in der BVV zurückgezogen
+- TOP 16: Wohnprojekt für deliquente Jugendliche im Diakoniezentrum Heiligensee - beantwortet
+- TOP 17: Impfung gegen Gebärmutterhalskrebs - ohne Änderungen in der BVV beschlossen
+- TOP 18: Kontaktstelle der Polizei für Reinickendorf-Ost erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 19: Gesundheitstag 2007 in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 20: Handlungsräume der Bezirke erhalten - überwiesen
+- TOP 21: Verbesserung der Wasserqualität des Heiligensees - erledigt
+- TOP 22: Radfahrverkehr Tegel - überwiesen
+- TOP 23: Schuldnerberatung an Reinickendorfer Schulen - überwiesen
+- TOP 24: Schuldenfalle bei Jugendlichen - überwiesen
+- TOP 25: Staatliche Europa-Schule an der Romain-Rolland-Oberschule weiterführen - überwiesen
