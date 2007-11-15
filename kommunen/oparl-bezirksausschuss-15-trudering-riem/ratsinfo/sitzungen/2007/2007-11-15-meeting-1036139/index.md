@@ -1,0 +1,121 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2007-11-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1036139
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1036139
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.3.: Neuwahl eines/-r Kassiers/-erin in den BA-Vorstand
+- TOP 0.4.: Nachbenennung eines Mitgliedes der CSU-Fraktion in die Unterausschüsse (UA) Kultur, Schule und Soziales, UA Allgemeines sowie Benennung eines stellvertretenden Mitgliedes für den UA Umwelt
+- TOP 1.1.: Widmung einer Teilstrecke der Oslostraße (Top 1.1/09/07)
+- TOP 2.1.: Parken in der Messestadt - insbesondere vor Kindertagesstätten
+- TOP 2.2.: Umbau der Wohncontainer an der Wasserburger Landstraße 55 für Studenten
+- TOP 2.3.: Briefmarkenautomat in Waldtrudering
+- TOP 2.4.: Buslinie 192 in den Morgenstunden
+- TOP 2.5.: Schülerbus Riem - Vorfall am 12.10.2007; Beschwerde gegen den Busfahrer
+- TOP 2.6.: Bau einer Turn- und Sporthalle in der Messestadt Riem
+- TOP 3.1.: Eigentumsverhältnisse im Truderinger Wald; Antrag Nr. 02-08 / B 01526
+- TOP 3.2.: Rauchverbot auf Spielplätzen im Stadtbezirk 15 Trudering-Riem; Antrag Nr. 02-08 / B 02304
+- TOP 3.3.: Schutz der Grünanlagen an der Willy-Brandt-Allee vor wildem Parken; Antrag Nr. 02-08 / B 01986
+- TOP 3.4.: Rettungswache im Neubau des Sozialbürgerhauses am Bahnhof Trudering; Antrag Nr. 02-08 / B 02305
+- TOP 3.5.: Zusatzschilder bei Straßenbenennungen; Antrag Nr. 02-08 / B 02386
+- TOP 3.6.: 850 Jahre München: KulturGeschichtsPfad für Trudering-Riem; Antrag Nr. 02-08 / B 02379
+- TOP 3.7.: Befestigung der Jugendtore auf der städtischen Bezirkssportanlage Feldbergstraße; Antrag Nr. 02-08 / B 02300
+- TOP 3.8.: Muss die städtische Sing- und Musikschule nun für die Planungsfehler der Stadt München in Trudering büßen; Antrag Nr. 02-08 / B 02225
+- TOP 3.9.: Stellplatzsituation für Lehrkräfte an der Grund- und Hauptschule Lehrer-Wirth-Straße 31 (Top 9.3/09/07)
+- TOP 3.10.: Hilfen beim Berufsstart; Antrag Nr. 02-08 / B 02307
+- TOP 3.11.: Woher kommen die KiTa-Kinder
+- TOP 3.12.: Nach 50 Jahren: Hinweise des Landesamtes für Wasserwirtschaft endlich umsetzen und die Bürger im Wasserschutzgebiet entlasten; Antrag Nr. 02-08 / B 02310
+- TOP 3.13.: VHS-Angebot zur Erwachsenenbildung in Trudering; Anträge Nrn. 02-08 / B 02049 und 02-08 / B 01882
+- TOP 3.14.: Das etwas andere KomProB-Projekt: Betreutes Wohnen auch in Trudering; Antrag Nr. 02-08 / B 02048
+- TOP 4.1.: Hinweis auf den Namensgeber für die Schule an der Lehrer-Wirth-Straße
+- TOP 4.2.: Was bedeutet der "Masterplan Schiene Burghausen" für den Münchner Osten
+- TOP 4.3.: Toilette im Riemer Friedhof (alter Teil) wieder öffnen
+- TOP 4.4.: Warum gehört die Städtische Musikschule nicht zum Kulturreferat
+- TOP 4.5.: Kriselt es bei den MVG-Bussen
+- TOP 4.6.: Bitte alle Hintergründe der S-Bahnkrise klären
+- TOP 4.7.: Informationstreffen zum Übergang vom Kindergarten in die Schule
+- TOP 4.8.: Was bedeutet der neue offenporige Flüsterasphalt (OPA) für die Lärmsanierung in Trudering-Riem
+- TOP 4.9.: Nach dem Düsseldorfer Justiz-Spruch: Was bedeutet das für die Abgabe städtischer Grundstücke in Trudering-Riem
+- TOP 4.10.: Künftige Nutzung des Grundstückes an der Heinrich-Wieland-Straße / Zehntfeldstraße; Baulinien
+- TOP 5.1.: Tempo 30 Zone Messestadt Riem; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO (Frist: 04.12.07)
+- TOP 5.2.: Vollzug von § 13 der BA-Satzung Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen), Riemer Str., Fl.Nr. 1533/3, Gemarkung Trudering, 6 Plakattafeln (nähe Riemer Straße 300) (Anhörung; Frist: 16.11.07)
+- TOP 5.3.: Magnetschwebebahn München Hauptbahnhof ? Flughafen (MSB) A. Beschlusslage B. Planfeststellungsverfahren ? Erörterung der Stellungnahmen und Einwendungen C. Ergänzende Informationen, weiteres Vorgehen Anträge und Bürgerversammlungsempfehlungen (Anhörung; Frist: 06.11.07)
+- TOP 5.4.: Spiel- und Bewegungs(frei)raum im Zelt (Freizeitangebot für Kinder), Flst. 1408/104 Gemarkung Trudering, Olof-Palme-Straße / Edinburghplatz vom 01.12.07 bis 30.09.08 (evtl. Verlängerung bis zum Verkauf des Grundstückes) (Anhörung)
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.1.: Architektur in der Messestadt - Podiumsdiskussion im Nemetschek-Haus
+- TOP 7.2.: Einwohnerversammlung für Kinder und Jugendliche
+- TOP 7.3.: Kultur im Stadtquartier Beschluss der Vollversammlung des Stadtrates vom 04.10.2007
+- TOP 7.7.2: UA Planung:
+- TOP 7.1.: Papier ist geduldig - wie richtig waren die Verkehrsprognosen für den Münchner Osten
+- TOP 7.2.: Verkehrsentwicklung durch die Bebauung der Schwablhofstraße und der Umfahrung Kirchtrudering
+- TOP 7.3.: Die Stadt München und das tägliche Verkehrschaos - am Beispiel der Bajuwarenstraße
+- TOP 7.4.: Messestadt Riem EM 614 - Grundschule mit Tagesheim und Grünwerkstatt an der Helsinkistraße EM 632 - Kindertagesstätte an der Elisabeth-Mann-Borgese-Straße im 3. BA Vorstellung der Projekte (Anhörung)
+- TOP 7.5.: Vollzug von § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2 - Anhörung im Einzelfall; Neubau einer BMW-Neuwagenfiliale mit Tiefgarage (Frist: 21.11.07)
+- TOP 7.6.: Vollzug von § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2 - Anhörung im Einzelfall Nachverdichtung einer Wohnanlage mit Tiefgarage in der Adlerstraße 27 (Frist: 22.11.07)
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 8.1.: Bescheide und Mitteilungen über bereits durchgeführte Baumfällungen: Florastraße 16, Günderodestraße 34, Friedenspromenade 102 b, Pilatusstraße 9
+- TOP 8.2.: Turnerstraße 3 a
+- TOP 8.3.: Eigerstraße 29 a
+- TOP 8.4.: Waldschulstraße 77
+- TOP 8.5.: Eigerstraße 42
+- TOP 8.6.: Jagdhornstraße 5
+- TOP 8.7.: Salzmesserstraße 30 - 32
+- TOP 8.8.: Groschenweg 21
+- TOP 8.9.: Gnadenwaldplatz 8 a
+- TOP 8.10.: Gerstäckerstraße 118 - 120
+- TOP 8.11.: Chammünsterstraße 11
+- TOP 8.12.: Am Birkicht 20
+- TOP 9.1.: Termine und Mitteilungen a) nach Mitteilung des Vorsitzenden b) sonstiges
+- TOP 9.2.: Stadtratsbeschluss "Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO - Vereinsdatenbanken und Stadtteilseiten" - Evaluationsbeschluss", Beschluss der Vollversammlung des Stadtrates vom 04.10.07
+- TOP 9.3.: Wahl des Oberbürgermeisters, des Stadtrates und der Bezirksausschüsse in der Landeshauptstadt München am 02. März 2008; Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 9.4.: Weihnachtsmarkt auf dem Willy-Brandt-Platz (Eilentscheidung gem. § 20 BA-Satzung) zuzügl. nachfolgenden E-Mailverkehr
+- TOP 9.5.: Protokoll über das Treffen mit den Bezirksausschüssen am 20. September 2007 im Kulturhaus Milbertshofen
+- TOP 9.6.: Ergebnisprotokoll über Erörterung vom 26.09.2007 Bebauungsplan mit Grünordnung - Messestadt Riem, Schule an der Helsinkistraße (Zentraler Grünzug westlich, Promenade südlich, Riemer Park nördlich)
+- TOP 9.7.: Anita Augspurg Preis 2007 - Informationsflyer
+- TOP 9.8.: Tag des ausländischen Unternehmens "Marktplatz der Informationen", Informationen des Referates für Arbeit und Wirtschaft
+- TOP 9.9.: Die Neue Freiheit - Vorbereitung auf den Ruhestand; Informationsflyer
+- TOP 9.10.: Mitteilung über ein Grundstücksgeschäft, Az: 912/770/O/86, Flst. 96/45 Trudering, Am Moosfeld (unentgeltliche Rückübereignung)
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 01.10.07 bis 28.10.07
+- TOP 10.2.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Avanti Pizza, Truderinger Straße 274
+- TOP 10.3.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Guru, Wasserburger Landstraße 204 a
+- TOP 10.4.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Bavarese, Schatzbogen 43
+- TOP 10.5.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Villa Toscana, Bajuwarenstraße 131
+- TOP 10.6.: Zweckentfremdung von Wohnraum - Hermann-Schaller-Straße 23
+- TOP 10.7.: Unterrichtung der Bürger Truderings über die Erbschaftssteuer (Top 2.11/09/07); Zwischennachricht
+- TOP 10.8.: Mitteilung des Baureferats Kreillerstraße - Vollanschluss U-1546/U-1547
+- TOP 10.9.: Fachhearing zum Thema "Baumschutz"; Beschluss des Bauausschusses vom 16.10.07
+- TOP 10.10.: Unterrichtung über die Aufhebung eines personenbezogenen Parkplatzes
+- TOP 10.11.: Vollzug der Straßenverkehrsordnung (StVO); §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund; Rotfuchsweg 8 (Erlaubnisbescheid)
+- TOP 10.12.: Vollzug der Straßenverkehrsordnung (StVO); §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund; Astrid-Lindgren-Straße 1 (Erlaubnisbescheid)
+- TOP 10.13.: Veranstaltungen / Kooperationen des Kulturreferats Oktober 2007
+- TOP 10.14.: Messestadt Riem 4. Bauabschnitt Wohnen, Durchführung eines städtebaulichen und landschaftsplanerischen Realisierungswettbewerbs; Beschluss der Vollversammlung des Stadtrates vom 04.10.2007
+- TOP 10.15.: Adressänderung bei einer städtischen Kindertagesstätte hier: Fährtwegl (alt); jetzt: Stieglitzweg 12 b
+- TOP 10.16.: Tollwood (28.11.07 - 31.12.07) - Informationsbroschüre
+- TOP 10.17.: Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Gemeinsame Resolution der Nordallianz mit der Landeshauptstadt München; Beschluss der Vollversammlung des Stadtrates vom 07.11.07
+- TOP 0: TOP 0
+- TOP 0: Mitgliedswechsel
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
