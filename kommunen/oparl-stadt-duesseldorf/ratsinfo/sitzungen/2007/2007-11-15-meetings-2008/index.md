@@ -1,0 +1,63 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-11-15T14:00:00+01:00
+- Ende: 2007-11-15T18:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2008
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2008
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167919.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167919.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167919.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Akt. Anfr. Rh Lbbg: Sicherheitsdienste - zur Kenntnis genommen
+- TOP 5: Akt. Anfr. Rf Kahl: Mövenpick-Hotel - zur Kenntnis genommen
+- TOP 6: Anfragen - zur Kenntnis genommen
+- TOP 7: Anfr. FDP: Richtlinie Häfen - zur Kenntnis genommen
+- TOP 8: Anfrage SPD Ratsfraktion.: Städtische Grundstücke - zur Kenntnis genommen
+- TOP 9: Anfr. Rf Kahl: Widersprüche - zur Kenntnis genommen
+- TOP 10: Anfr. Rf Kahl: CO-Pipeline - zur Kenntnis genommen
+- TOP 11: Anfr. Reichert/Krüger: Fußball-WM Frauen - zur Kenntnis genommen
+- TOP 12: Anfr. Rh Lbbg: Ausländeramt - zur Kenntnis genommen
+- TOP 13: Anträge - zur Kenntnis genommen
+- TOP 14: Antrag d. Rfr. CDU u.FDP: Prüfauftrag Standort Abendrealschule - einstimmig beschlossen
+- TOP 15: Antrag d. SPD-Ratsfraktion: Fußball EM 2008 - einstimmig beschlossen
+- TOP 16: Antrag SPD: Beschlussvorlagen - mehrheitlich abgelehnt
+- TOP 17: Antr. SPD: Beschlussvorlagen - mehrheitlich abgelehnt
+- TOP 18: Antrag CDU: Untersuchung i.S. Begrünung von Gleiskörpern - zur Kenntnis genommen
+- TOP 19: Antr. CDU-FDP: Gelisbegrünung - mehrheitlich beschlossen
+- TOP 20: Ergänzungsantrag Bü90/Grü: Rasengleise - mehrheitlich abgelehnt
+- TOP 21: IT-Kooperation öffentlich - mehrheitlich beschlossen
+- TOP 22: Gen. üpl u. apl. Haushaltsjahr 2007 - mehrheitlich beschlossen
+- TOP 23: Erneuerung LZA Großknoten Staufenplatz - einstimmig beschlossen
+- TOP 24: Bau- und Finanzierungsbeschluss Lärmschutzwände Garath - einstimmig beschlossen
+- TOP 25: Üpl. Mittel HzE - einstimmig beschlossen
+- TOP 26: Kunstrasen Dreherstraße - einstimmig beschlossen
+- TOP 27: Sanierung Am Südfriedhof 16 - einstimmig beschlossen
+- TOP 28: 67/10 - Jahresabschluss 2006 und Lagebericht 2006 - mehrheitlich beschlossen
+- TOP 29: Projekt Versorgung - Eisenstraße 49 (Amt 50/4) - einstimmig beschlossen
+- TOP 30: GGS Krahnenburgstraße 15, Erweiterungsbau für die Offene Ganztagsschule - einstimmig beschlossen
+- TOP 31: Brandschutzmaßnahmen im Aquazoo - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 32: Hafenerschließung - Straßenbahn Medienahfen - einstimmig beschlossen
+- TOP 33: Kesselstraße - Straßenneubau (Planungsauftrag) - einstimmig beschlossen
+- TOP 34: Niederrheinstraße - Herstellung der Nebenanlagen - einstimmig beschlossen
+- TOP 35: Haushaltsbefragung zum Mobilitätsverhalten 2008 - einstimmig beschlossen
+- TOP 36: Entgeltordnung für das Competence Center Begabtenförderung (CCB) - mehrheitlich beschlossen
+- TOP 37: Entscheidung über den Widerspruch gegen die Feststellung der Unzulässigkeit des Bürgerbegehrens "Rettet den Golzheimer Friedhof" - mehrheitlich beschlossen
+- TOP 38: ÄA Kahl/Lbbg.: Widerspruch Bürgerbegehren Golzheimer Friedhof - mehrheitlich abgelehnt
+- TOP 39: Abberufung - einstimmig beschlossen
+- TOP 40: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 41: BPl5874/80-Flotten-Stell.Änd.Satzung - einstimmig beschlossen
+- TOP 42: Gen. 60er: Fährstraße - Aufstellung - einstimmig beschlossen
+- TOP 43: DE zu 61/ 130/2007 - einstimmig beschlossen
+- TOP 44: Gen. 60er: Fährstraße - VÄ - einstimmig beschlossen
+- TOP 45: DE zu 61 131/2007 - einstimmig beschlossen
+- TOP 46: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
