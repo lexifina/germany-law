@@ -1,0 +1,7 @@
+# TOP 10.3: Gründung eines Behindertenbeirates für die Stadt Bad Pyrmont
+
+- Sitzung: Jugend- und Sozialausschuss (4. Sitzung) (2007-11-20)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/7609
+- Beratung: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/1683
