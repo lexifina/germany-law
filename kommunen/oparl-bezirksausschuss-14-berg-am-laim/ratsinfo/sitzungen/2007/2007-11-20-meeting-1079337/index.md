@@ -1,0 +1,81 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2007-11-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1079337
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1079337
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.2.4.: Linksabbiegeregelung an der Kreuzung Kreillerstr. / Berg-am-Laim-Str. / Baumkirchner Straße - <div></div>
+- TOP 3.1.2.5.: Parkregelung in der Waldstraße
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.5.1.: Eltern-Kind-Initiative Ali Baba e.V. ? Antrag auf Gewährung eines Zuschusses
+- TOP 3.5.2.: Berg am Laimer Tafel ? Antrag auf Gewährung eines Zuschusses
+- TOP 3.5.3.: Elternbeirat der Grundschule Berg-am-Laim-Straße ? Antrag auf Gewährung eines Zuschusses
+- TOP 3.5.4.: Bürgerkreis Berg am Laim e.V. - Antrag auf Zuschuss aus dem BA-Budget
+- TOP 3.6: Sonstiges
+- TOP 3.6.1.: Christkindlmarkt am 09.12.07 am Marktplatz
+- TOP 3.6.2.: Aufstellungsbewilligung des Maibaumes am Marktplatz
+- TOP 3.6.3.: Meldung ehrenamtlicher Wahlhelfer-/innen zur Kommunalwahl am 02. März 2008
+- TOP 3.6.4.: Änderung der BA-Satzung ? Anhörungsrecht der BA´s bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen
+- TOP 3.7: Baumschutz (1)
+- TOP 3.7.1.: Jahresmeldung von Baumfällungen auf städtischem Grund
+- TOP 3.7.2.: Loferer Straße ? Antrag auf Baumfällungen zwecks Baumaßnahme
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.1.1.: Nutzungsabsicht Flurstück 265/18 an der Hachinger-Bach-Straße
+- TOP 4.1.1.2.: Novelle Bayrische Bauordnung 2008 - Darstellung und erste Bewertung der Neuregelungen
+- TOP 4.1.1.3.: Unterrichtung über Bauvorhaben im Stadtbezirk 14 ? Berg am Laim
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.2.1.: Umbau der Kreuzung Truderinger Straße / Thomas-Hauser-Straße
+- TOP 4.1.2.2.: Magnetschwebebahn München Hauptbahnhof ? Flughafen (MSB) Beschlusslage Planfeststellungsverfahren, Erörterung der Stellungnahmen und Einwendungen Ergänzende Informationen, weiteres Vorgehen Anträge und Bürgerversammlungsempfehlungen Gemeinsame Resolution der Nordallianz mit der Landeshauptstadt München
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen
+- TOP 4.3.2.: Kindertagesstätte freigemeinnütziger Träger; Kindertagesstätte "St. Michael" - Katholische Pfarrkirchenstiftung St. Michael Baukirchner Straße 26 ? Leistung eines Baukostenzuschusses nach dem BayKiBiG
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.5.1.: Ludwig-Thoma-Realschule, vertr. durch Elternbeirat - Zuwendungsbescheid
+- TOP 4.5.2.: Kulti-Kids e.V. - Zuwendungsbescheid
+- TOP 4.6: Sonstige
+- TOP 4.6.1.: Flohmarkt ehem. Busbahnhof Michaelibad ? Stellungnahmen der Bezirksinspektion und der Veranstaltungs- und Versammlungsbehörde
+- TOP 4.6.2.: Baumaßnahmen der SWM ? Fernwärmeprojekt Ramersdorf ? Berg am Laim
+- TOP 4.6.3.: Entscheidungsrecht bei der Standortwahl für Kindertagesstätten, Antwort Regierung Obb.
+- TOP 4.6.4.: Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO ? Vereinsdatenbank und Stadtteilseiten" - Evaluationsbeschluss
+- TOP 4.6.5.: Mehrjahresinvestitionsprogramm 2008 ? 2012 - Referatsanfragen
+- TOP 4.7: Baumschutz (2)
+- TOP 4.7.1.: Neumarkter Straße ? Schriftverkehr bez. Baumfällungsanträgen
+- TOP 4.7.2.: Hochrißstraße ? Fällung von Gefahrenbäumen
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
