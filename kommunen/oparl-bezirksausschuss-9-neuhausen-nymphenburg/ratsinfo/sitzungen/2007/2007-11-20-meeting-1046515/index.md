@@ -1,0 +1,160 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2007-11-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1046515
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1046515
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Haus der Familie (Az.: 11/07 ? 3.4.1): Zuschuss in Höhe von 500 ? für den 5. Geburtstag der Elternschule und 50. Jubiläum Haus der Familie am 06.10.07
+- TOP 2.3.2.: Antrag Hort an der Montessorischule (Az.: 11/07 ? 3.4.2): Zuschuss in Höhe von 2078 ? für die Instandsetzung des Bauwagens
+- TOP 2.3.3.: Antrag Münchner Gärten der Kulturen (Az.:08/07 ? 3.5.2): Zuschuss in Höhe von 400 ? für das Sommerfest am 22.07.07
+- TOP 2.3.4.: Antrag Netzwork AG (Az.: 11/07 ? 3.6.1): Zuschuss in Höhe von 2552 ? für die Ausstellung und Musikperformance ?Netzwork AG meets Neuland? am 26./27.10.07
+- TOP 2.3.5.: Antrag Kath. Pfarramt St. Clemens (Az.: 11/07 ? 3.6.2): Zuschuss in Höhe von 675 ? für Requisiten für das Theaterstück ? Clemensmelodie? im November 2007
+- TOP 2.3.6.: Antrag Faschingsclub Neuhausen (Az.: 11/07 ? 4.1): Zuschuss in Höhe von 500 ? für das Faschingstreiben am Rotkreuzplatz vom 03. ? 05.02.08
+- TOP 2.3.7.: Antrag Initiative ?Kleinode? (Az.: 10/07 ? 3.2.3): Zuschuss in Höhe von 2700 ? für die Ausstellung ?Münchner Kleinode? vom 26. 10. ? 02.11.07
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürgeranliegen: 30 km/h Schild Renata-/ Arnulfstraße
+- TOP 3.2.: Bürgeranliegen: Problem: starker Verkehr in 30er Zone in der Nederlingerstraße
+- TOP 3.3.: Bürgeranliegen: Öffnung der Durchfahrt von der Braganzastraße zur Johann-Schmaus-Straße / Änderung der Haltverbotszeiten auf den Baustellenbetrieb am Dom-Pedro-Platz
+- TOP 3.4.: KVR: Verkehrsrechtliche Anordnung: Absolutes Haltverbot an der Nordseite der Sprunerstraße gegenüber der Tiefgaragenausfahrt Dachauer Str. 223/227
+- TOP 3.5.: =&gt; dazu: KVR: Aufhebung des eingeschränkten Haltverbots auf der Südostseite der Sprunerstraße
+- TOP 3.6.: Baureferat: Winterdienst 2007/2008, Übersicht der Einsatzgebiete
+- TOP 3.7.: Baumaßnahmen der Stadtwerke im Oktober 2007
+- TOP 3.8.: KVR: Rückantwort zur LZA-Bauprogrammanfrage (Schreiben BA 9 vom 16.10.07)
+- TOP 3.9.: KVR: Einrichtung eines personenbezogenen Schwerbehindertenparkplatzes im Bereich Landshuter Allee 148
+- TOP 3.10.: Bürgeranliegen: Mangelhafte Straßenbeläge in Neuhausen u.a. (Schreiben BA 9 vom 21.08.07) Wiedervorlage aus der Sitzung vom 16.10.07
+- TOP 3.11.: KVR: Bürgeranliegen: Einbahnregelung in der Hirschbergstraße zwischen Donnersberger- und Sedlmayrstraße; Maßnahmen zur Verkehrsberuhigung in der Hirschbergstraße (Schreiben BA 9 vom 21.08.07)
+- TOP 3.12.: MVG: Sanierung der Fahrbahnen an den Bushaltestellen am Leonrodplatz (Schreiben BA 9 vom 17.07.07)
+- TOP 3.13.: Stadtwerke: Fernwärmeprojekt Nymphenburg Süd, 2. Bauabschnitt
+- TOP 3.14.: Prioritätenliste für den Straßenunterhalt; Zustand der Straßen, Plätze, Geh- und Radwege im 9. Stadtbezirk (Wiedervorlage aus der Sitzung vom 16.10.07)
+- TOP 3.15.: KVR: In den Kirschen, Haltverbote auf der Nordseite (Schreiben BA 9 vom 17.07.07)
+- TOP 3.16.: Einwohnerversammlung Parkraummanagement am 03.12.07
+- TOP 3.17.: Bürgeranliegen: Trambahnbeschleunigung, Ampelschaltung und Folgen für die Fußgänger Kreuzung Dachauer Str. / Hedwig-Dransfeld-Allee (Wiedervorlage aus der Sitzung vom 16.10.07)
+- TOP 3.18.: =&gt; dazu: Antrag Bündnis 90 / Die Grünen: Änderung der Ampelschaltung an der Dachauer Straße
+- TOP 3.19.: Beschluss der Vollversammlung des Stadtrats vom 07.11.07: Magnetschwebebahn München Hauptbahnhof - Flughafen; Gemeinsame Resolution der Nordallianz mit der Landeshauptstadt München
+- TOP 3.20.: Beschluss der Vollversammlung des Stadtrats vom 07.11.07: Magnetschwebebahn München Hauptbahnhof - Flughafen; Beschlusslage etc.
+- TOP 3.21.: Münchner Stadtentwässerung: Kanalbau im Umgriff des Bebauungsplans Nr. 1810 Hanebergstraße, Projektgenehmigung
+- TOP 3.22.: Baureferat: Neue Münchner Adressen am Hirschgarten, hier Birketweg; Herstellung der öffentlichen Verkehrsflächen vom 22.10.07 bis voraussichtlich September 2010
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Planungsreferat: Bautennachweise vom 01.10. - 07.10., 08.10. - 14.10., 15.10. - 21.10., 22.10. - 28.10. und 29.10. - 04.11.07
+- TOP 3.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.11.07: Novelle Bayerische Bauordnung 2008; Darstellung und erste Bewertung der Neuregelungen
+- TOP 3.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.10.07: Ausweisung neuer Gewerbeflächen, Berichtsjahr 2006
+- TOP 3.4.: Bauvorhaben Blutenburgstr. 85: Nutzungsänderung mit Umbau: Wohnheim zu Hotel
+- TOP 3.5.: =&gt; dazu: Bürgeranliegen
+- TOP 3.6.: Bauvorhaben Fasoltstraße: Neubau einer Wohnanlage (93 WE) mit Praxis, Gemeinschaftsbereich sowie einer Tiefgarage (186 Stellplätze)
+- TOP 3.7.: Bauvorhaben Herthastraße: Neubau eines Wohngebäudes (10 WE / Haus Nord)
+- TOP 3.8.: Bauvorhaben Ginhardtstraße: Neubau eines Wohngebäudes (19 WE / Haus Süd)
+- TOP 3.9.: Bauvorhaben Alarichstr. 9: Neubau einer Doppelhaushälfte mit Carport - Haus 1 und Haus 2
+- TOP 3.10.: Antrag Initiative ?Kleinode?: Zuschuss in Höhe von 2700 ? für die Ausstellung ?Münchner Kleinode? vom 26. 10. ? 02.11.07
+- TOP 3.11.: Bauvorhaben Hanfstaenglstr. 44: Neubau Einfamilien-Wohnhaus mit Doppelgarage (Haus Süd)
+- TOP 3.13.: Bauvorhaben Hanfstaenglstr. 44: Neubau Einfamilien-Wohnhaus mit Doppelgarage (Haus Nord)
+- TOP 3.15.: Bauvorhaben Guntherstr. 16: Umbau Hotel und Aufstockung Dachgeschoss
+- TOP 3.16.: Bauvorhaben Hubertusstr. 11: Neubau eines Mehrfamilienhauses mit TG
+- TOP 3.17.: =&gt; dazu: Planungsreferat: Hubertusstr. 11, Novellierung der Naturdenkmalverordnung (Schreiben BA 9 vom 19.09.07)
+- TOP 3.18.: =&gt; dazu: Bau-Collection AG: "100 jährige Buche" in der Hubertusstr. 11
+- TOP 3.19.: =&gt; dazu: Bürgeranliegen: "Hubertusbuche" in der Hubertusstr. 11
+- TOP 3.20.: =&gt; dazu: Bürgeranliegen: Einspruch gegen den Neubau des Mehrfamilienhauses Hubertusstr. 11
+- TOP 3.21.: Bauvorhaben Walhallastr. 43: Neubau einer Einfamilien-Villa mit Einliegerwohnung, Garage und einem offenen Stellplatz
+- TOP 3.22.: Bauvorhaben Böcklinstr. 2 a: Errichtung von Wohngebäuden mit Tiefgarage, Vorbescheid
+- TOP 3.23.: Sozialreferat: Bauträgerauswahl für ein Grundstück im Rahmen des kommunalen Wohnungsbauprogramms
+- TOP 3.24.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.11.07: Änderung des Flächennutzungsplans Hauptbahnhof-Laim-Pasing, Teilgebiet Birketweg zwischen Hirschgarten (östlich), Wilhelm-Hale-Straße (westlich) und Arnulfstraße (südlich); 3. Billigungsbeschluss und vorbehaltlich endgültiger Beschluss
+- TOP 3.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.11.07: Bebauungsplan mit Grünordnung Nr. 1926b , Wilhelm-Hale-Straße (westlich), Schloßschmidstraße (nördlich) und Hirschgarten (östlich), Billigungsbeschluss
+- TOP 3.26.: Baureferat: Schlossviertel Nymphenburg - Neubau einer öffentlichen Grünanlage; hier: Pflanzung von Linden (Schreiben BA 9 vom 17.07.07)
+- TOP 3.27.: Planungsreferat: Bürgeranliegen: Störungen durch Baumaßnahmen am ESV-Gelände
+- TOP 3.28.: Zweckentfremdung:
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Nederlinger Str. 70: Baumveränderung an 1 Fichte
+- TOP 3.2.: Prinzenstr. 28: Fällung von 1 Fichte
+- TOP 3.3.: Sustrisstr. 11: Fällung von 1 Fichte
+- TOP 3.4.: Taschnerstr. 11: Fällung von 2 Kiefern
+- TOP 3.5.: Gutenbergstr. 20: Fällung von 1 Schwarzkiefer
+- TOP 3.6.: De-la-Paz-Str. 14: Fällung von 1 Silberahorn, 1 Weide und 2 Birken
+- TOP 3.7.: Lazarettstr. 62: Fällung von 4 Ahorn
+- TOP 3.8.: Planungsreferat: Beseitigung von Gefahrenbäumen auf dem Grundstück Wintrichring 105
+- TOP 3.9.: Planungsreferat: Beseitigung von Gefahrenbäumen auf dem Grundstück Hubertusstr. 34
+- TOP 3.10.: Baureferat: Unterrichtung über das Fällen von Gefahrenbäumen im 9. Stadtbezirk
+- TOP 3.11.: Bürgeranliegen: Nutzung des Von-Goebel-Platzes
+- TOP 3.12.: Beschluss des Bauausschusses vom 16.10.07: Fachhearing zum Thema "Baumschutz"
+- TOP 3.13.: Planungsreferat: Fällungsgenehmigung Romanstr. 17 a und b
+- TOP 3.14.: Planungsreferat: Fällungsgenehmigung Rheingoldstr. 4
+- TOP 3.15.: Planungsreferat: Fällungsgenehmigung Kriemhildenstr. 22
+- TOP 3.16.: Planungsreferat: Landschaftsschutzgebiet Nymphenburger Park, Novellierung der Naturdenkmalverordnung (Schreiben BA 9 vom 19.04.07)
+- TOP 3.17.: Baureferat: Nymphenburger Kanal - Vorschlag zu dauerhaften Verbesserung der Wasserqualität (Schreiben BA 9 vom 18.09.07)
+- TOP 3.18.: Bürgeranliegen: Anbringen einer Bank an die Platane Winthir-/Renatastraße
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Antrag Haus der Familie: Zuschuss in Höhe von 500 ? für den 5. Geburtstag der Elternschule und 50. Jubiläum Haus der Familie am 06.10.07
+- TOP 3.2.: Antrag Hort an der Montessorischule: Zuschuss in Höhe von 2078 ? für die Instandsetzung des Bauwagens
+- TOP 3.3.: Bürgeranliegen: Großes Lob für "Immer hin" an der Mettenstraße
+- TOP 3.4.: Bürgeranliegen: Suche nach Mieträumen für den Kindergarten Kolibri e.V.
+- TOP 3.5.: BA 20 Hadern: Einrichtung eines sonderpädagogischen Förderzentrums mit Schwerpunkt Sprache in der Droste-Hülshoff-Schule
+- TOP 3.6.: Antrag CSU: Zukunft der Grundschule an der Maria-Ward-Straße
+- TOP 3.7.: Protokoll der AG der Kinderbeauftragten vom 24.09.07
+- TOP 3.8.: Einladung für die nächste ÖAG am 15.11.07
+- TOP 3.9.: Informationsveranstaltung des Sozialreferates für die Mitglieder der Bezirksausschüsse am 26.11.07
+- TOP 3.10.: Einladung zur Danksagung für Spielplatzpaten am 28.11.07
+- TOP 3.11.: Beschluss des Schulausschusses vom 14.11.07: Brandschutzmaßnahmen in der Grund- und Hauptschule Winthirplatz 6
+- TOP 3.12.: Schulreferat: Stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen
+- TOP 3.13.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.10.07: Haushaltsplan 2008; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 3.14.: Beschluss des Sozialausschusses vom 11.10.07: Interkulturelle Qualitätsentwicklung in Münchner Sozialregionen - wie und wo ab 2008 ?
+- TOP 3.15.: Sozialreferat: Daten Kinderkrippen Oktober 2007
+- TOP 3.16.: Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Sozialausschusses vom 11.10.07: Neue Wege in der Wohnraumversorgung für ältere Bürgerinnen und Bürger
+- TOP 3.17.: Beschluss des Sozialausschusses vom 20.09.07: Quartierbezogene Bewohnerarbeit 1999 bis 2007
+- TOP 3.18.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.10.07: Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamts (Wiedervorlage aus der Sitzung vom 16.10.07)
+- TOP 3.19.: Bürgeranliegen: Nutzungsänderung für das Anwesen Blutenburgstr. 85
+- TOP 3.20.: Sozialreferat: Ausbau des Gemeinschaftszentrums Integriertes Wohnen II zum quartierbezogenen Begegnungszentrum (Antrag BA 9 Nr. 2183 vom 19.06.07)
+- TOP 3.21.: Ganztagsschulen im 9.Stadtbezirk; Rückmeldungen der Grundschulen Alfonsstraße und Südliche Auffahrtsallee (Schreiben BA 9 vom 18.09.07)
+- TOP 3.22.: Stadibau: Jugendzeltlager "The Tent", Wohnanlage In den Kirschen
+- TOP 3.23.: Bürgeranliegen: Artikel über das Backstage in der SZ vom 09.10.07
+- TOP 3.24.: Beschluss des Schulausschusses vom 14.11.07: Errichtung einer Kooperationseinrichtung im 9. Stadtbezirk
+- TOP 3.25.: Beschluss des Schulausschusses vom 14.11.07: Neubau von Kindertagesstätten in Systembauweise Serie 2: Errichtung einer Kooperationseinrichtung mit 3 Kindergarten- und 3 Krippengruppen Birketweg-West II; Projektgenehmigung
+- TOP 3.26.: =&gt; dazu: Schulreferat: Genehmigung des Nutzerbedarfsprogramms
+- TOP 3.27.: Sozialreferat: Schulzentrum Nymphenburg Süd / Neuerrichtung eines ASZ (Schreiben BA 9 vom 17.07.07) Wiedervorlage aus der Sitzung vom 16.10.07
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.1.: Haushaltsplan 2008; Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Einladung Sozialpolitischer Diskurs München: ?Das Integrationskonzept der Stadt München ? Perspektiven und Veränderungsbedarf ? am 27.11.2007
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Antrag Münchner Gärten der Kulturen: Zuschuss in Höhe von 400 ? für das Sommerfest am 22.07.07
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.1.: Antrag Netzwork AG: Zuschuss in Höhe von 2552 ? für die Ausstellung und Musikperformance ?Netzwork AG meets Neuland? am 26./27.10.07
+- TOP 3.2.: Antrag Kath. Pfarramt St. Clemens: Zuschuss in Höhe von 675 ? für Requisiten für das Theaterstück ? Clemensmelodie? im November 2007
+- TOP 3.3.: Antrag Bündnis 90 / Die Grünen: Änderung der Öffnungszeiten bei den Stadtbibliotheken Neuhausen und Nymphenburg
+- TOP 3.4.: Kulturreferat: Veranstaltungen im Oktober 2007
+- TOP 3.5.: Kulturreferat: Protokoll zum Gesprächstermin mit den Bezirksausschüssen am 20.09.07
+- TOP 3.6.: Geschichtswerkstatt Neuhausen: Gedenkstein vor dem Anwesen Jagdstr. 14
+- TOP 3.7.: Referat für Arbeit und Wirtschaft: Protokoll der Sitzung vom 19.09.07 zum 850. Stadtgeburtstag
+- TOP 3.8.: Projekt "Bürgerinnen und Bürger gestalten ihre Stadt": Sachstand / Bedarfsanalyse Trafosaal, Bericht Kulturvergnuegen
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Antrag Faschingsclub Neuhausen: Zuschuss in Höhe von 500 ? für das Faschingstreiben am Rotkreuzplatz vom 03. ? 05.02.08
+- TOP 4.2.: Bürgerversammlung des 9.Stadtbezirks am 22.11.07
+- TOP 4.3.: KVR: Wahl des Oberbürgermeisters, des Stadtrats und der Bezirksausschüsse am 02.03.08; Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 4.4.: KVR: Nachbarschaftscafe Treffpunkt Wohnwerk, Schäringerplatz 13; Freischankflächenantrag
+- TOP 4.5.: KVR: Michi´s Lottothek, Blutenburgstr. 110; Freischankflächenantrag
+- TOP 4.6.: KVR: Vinzenz Murr, Rotkreuzplatz 2 a; Freischankflächenantrag
+- TOP 4.7.: KVR: Gaststätte "Tavernaki Rose", Gassnerstr. 3; Pächterwechsel
+- TOP 4.8.: KVR: Gaststätte "Il Bollito", Schulstr. 41; Pächterwechsel
+- TOP 4.9.: KVR: Veranstaltungshalle "Freiheizhalle", Rainer-Werner-Fassbinder-Platz 1; Neuerrichtung
+- TOP 4.10.: KVR: Infoveranstaltungen SPD-Ortsverein Neuhausen am 17.11.07, 29.12.07 und 16.02.08
+- TOP 4.11.: KVR: Weihnachtsmarkt Rotkreuzplatz Nord vom 30.11. - 23.12.07
+- TOP 4.12.: KVR: Tiermesse auf dem Theaterfestivalgelände im April 2008
+- TOP 4.13.: KVR: Marktschreiertage am Rotkreuzplatz vom 30.05. - 01.06.08
+- TOP 4.14.: KVR: Lilalu am Theaterfestivalgelände vom 01.08. - 15.09.08
+- TOP 4.15.: Direktorium: Stadtratsbeschluss "Erfahrungen und Erkenntnisse über das Pilotprojekt NPO - Vereinsdatenbank und Stadtteilseiten - Evaluationsbeschluss"
+- TOP 4.16.: BA 15 Trudering-Riem: Entscheidungszuständigkeit für Standortwahl und Bedarfsgenehmigung bei einer Kindertagesstätte
+- TOP 5.: Verschiedenes
+- TOP 3.14.: =&gt; dazu: Baumfällungen
+- TOP 3.30.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Volkartstraße
