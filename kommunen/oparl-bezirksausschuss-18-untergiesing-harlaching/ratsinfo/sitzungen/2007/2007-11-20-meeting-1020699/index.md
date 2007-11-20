@@ -1,0 +1,87 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2007-11-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1020699
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1020699
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlußfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.: Isarflimmern 2008; Freilichttheater Juni - August 2008 in den Isarauen; Vorstellung des Konzepts durch die Veranstalter (TOP 3.6.4.2 vom 18.09.07 bzw. 2.1.1.1 vom 16.10.07))
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Neue Räumlichkeiten für die Eltern-Kind-Initiative "Harlachinger Spatzen"; Schreiben der "Harlachinger Spatzen" vom 27.10.2007
+- TOP 2.2.: Verbesserung der Beleuchtung des Vollmarparks; Bürgerschreiben vom 11.10.2007
+- TOP 2.3.: Baumbewuchs auf Grundstücken im Kornblumenweg, Verschattung der umliegenden Grundstücke; Bürgerschreiben vom 01.10.2007
+- TOP 2.4.: Erhalt der Parkplätze an der Lohstraße Bürgerschreiben vom 31.10.2007
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Die Färberei KJR München-Stadt, für die Maßnahme: Gestaltung der Brückenpfeiler an der Brudermühlbrücke durch Graffitikünstler; Antragssumme: 800,- ?; Beschlussvorlage des Direktoriums vom 18.10.2007
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Magnetschwebebahn; München Hauptbahnhof - Flughafen (MSB) Gemeinsame Resolution der Nordallianz mit der Landeshauptstadt München; Sitzungsvorlage Nr. 02-08 / V 11044; Beschluss der Vollversammlung des Stadtrates vom 07.11.2007; Schreiben des Referat für Stadtplanung und Bauordnung vom 02.11.2007
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: zuletzt in den UA verwiesene Themen: Maßnahmen gegen die Verunstaltungen in der Klausenerstraße; Bürgerschreiben vom 22.08.2007
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Unterrichtungen durch das Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen in der Reinekestraße; Borkenkäfer-Bescheinigung vom 18.10.2007
+- TOP 3.2.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung, der Landschaftsschutzverordnung bzw. Information über Eingriffe in den Gehölzbestand von öffentlichen und halböffentlichen Grün- und Freiflächen; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferat/Gartenbau vom 05.10.2007
+- TOP 3.3.: Restwasserführung in der Isar im Stadtgebiet München; Renaturierung der Isar bei gleichzeitiger Erhöhung der Stromerzeugung durch die Wasserkraftwerke; Antrag Nr. 96-02 / 301793 der Stadtratsfraktion von Bündnis 90/Die Grünen/RL vom 03.02.2000; Sitzungsvorlage Nr. 02-08 / V 09871; Beschluss in der Sitzung des Umweltausschusses vom 09.10.2007
+- TOP 3.4.: Fachhearing zum Thema "Baumschutz"; Antrag Nr. 02-08 / A 03682 der Stadtratsfraktion von Bündnis 90/Die Grünen/RL vom 31.07.2007; Sitzungsvorlage Nr. 02-08 / V 10975; Beschluss des Bauausschusses vom 16.10.2007
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: zuletzt in den UA verwiesene Themen: Verwendung andernfalls am Jahresende verfallender Gelder aus dem BA-Budget für Spielgeräte oder 4F-Bewegungsinseln; Antrag der SPD-Fraktion, vertagt aus der Sitzung vom 16.10.07
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: "Soziale Stadt" 2007; a) Stand der Umsetzung des Programms "Soziale Stadt" in den Sanierungsgebieten am Mittleren Ring Südost, "Tegernseer Landstraße/ Chiemgaustraße" und "Insbrucker Ring / Baumkirchner Straße" b) Weitere Beauftragung des Quartiersmanagements c) Städtebauförderung; Sitzungsvorlage Nr. 02-08 / V 10873; Beschlussvorlage für die Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2007
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Anhörungen zu Bauvorhaben
+- TOP 3.2.: Baumbestandspläne Anwesen in der Vierheiligstraße; Anhörung vom 23.10.2007
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Novelle Bayerische Bauordnung 2008; Darstellung und erste Bewertung der Neuregelungen; Sitzungsvorlagen Nr. 02-08 / V 11059; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007; Mitteilung des Referat für Stadtplanung und Bauordnung
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Kultur im Stadtquartier; Antrag Nr. 02-08 / A 01496 von Frau Stadträtin Renner und Herrn Stadtrat Liebich vom 10.03.2004; Kultur -Kataster zur räumlichen Verteilung der städtischen Kultureinrichtungen; Antrag Nr. 02-08 / A 02417 der Stadtratsfraktion der SPD vom 22.04.2005; Evaluation kultureller Zentren; Antrag Nr. 02-08 / A 02418 der Stadtratsfraktion der SPD vom 22.04.2005; Kulturelle Zentren und Stadtteilwochen; Antrag Nr. 02-08 / A 024119 der Stadtratsfraktion der SPD vom 22.04.2005; Gesamtkonzept für die stadtteilkulturellen Einrichtungen; Antrag Nr. 02-08 / A 03017 von Herrn Stadtrat Quaas und Frau Stadträtin Sabathil vom 10.04.2006; Sitzungsvorlage Nr. 02-08 V 10350; Beschluss der Vollversammlung des Stadtrates vom 04.10.2007
+- TOP 3.2.: Protokoll des Treffens der Bezirksausschüsse mit dem Kulturreferat am 20.09.2007 im Kulturhaus Milbertshofen; Schreiben des Kulturreferates vom 27.09.2007
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Stadtratsvorlage "Erfahrungen und Erkenntnisse über das Pilotprojekt NPO - Vereinsdatenbank und Stadtteilseiten" - Evaluationsbeschluss; Beschluss der Vollversammlung des Stadtrats am 04.10.2007; Zuleitung des Direktoriums vom 22.10.2007
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
