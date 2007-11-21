@@ -1,0 +1,89 @@
+# 11. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2007-11-21T17:30:00+01:00
+- Ende: 2007-11-21T21:40:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1531
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1531
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=28585
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Bürgerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Fördermittel für die Bizetstraße 27 nicht verfallen lassen - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Geschäftsordnung mit qualifizierter Mehrheit beschließen - vertagt
+- TOP 1.8.1: Geschäftsordnung der Bezirksverordnetenversammlung Pankow von Berlin für die VI. Wahlperiode - vertagt
+- TOP 1.9: Ausschussbildung - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Auflösung der bezirklichen Einrichtungen Stadtteilbibliotheken Esmarchstr.18 (Kurt-Tucholsky-Bibliothek) und Senefelderstr. 6 (Bibliothek im Eliashof) - mit Änderungen in der BVV beschlossen
+- TOP 1.11: Tag der Spielplätze in Pankow einführen - vertagt
+- TOP 1.12: Keine schrittweise Entmachtung der Bezirke durch die Hintertür - mehr Transparenz bei der Änderung der Landeshaushaltsordnung - vertagt
+- TOP 1.13: Erhalt des wieder erstrahlten Bürgerparktores - vertagt
+- TOP 1.14: Geh- u. Radwege am Pankower Rathaus - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Haltestelle Friedrich-Engels-/Platanenstraße - vertagt
+- TOP 1.16: Öffentlicher Gesundheitsdienst und Kinder- und Jugendschutz im Bezirk dürfen nicht ausbluten! - vertagt
+- TOP 1.17: Flächen für Bauwagenbewohner/innen - vertagt
+- TOP 1.18: Mehr Sicherheit in der Triftstraße (Französisch Buchholz) - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Errichtung und Betrieb von kabellosen Zugängen in den Bürgerämtern ausschreiben - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Entwicklung der Schülerzahlen und der Schullandschaft im Bezirk - vertagt
+- TOP 1.21: Eine Gemeinschaftsschule für Pankow - vertagt
+- TOP 1.22: Einrichtung eines zeitweiligen Ausschusses - vertagt
+- TOP 1.23: Bürger- und wirtschaftsfreundliche Einführung der Umweltzone fördern - vertagt
+- TOP 1.24: "Lokales Bündnis für Familie Pankow" unterstützen - vertagt
+- TOP 1.25: Allgemeines Verfahren zum Umgang mit Straßenbäumen - vertagt
+- TOP 1.26: 1. Schritt zu einem Pankower Weg - vertagt
+- TOP 1.27: Aufsuchenden Kinderschutz verstärken - Ausweitung der präventiven herausreichenden Elternarbeit - überwiesen
+- TOP 1.28: Potentiale in Buch als Standort für Innovationen nutzen - überwiesen
+- TOP 1.29: Jungenarbeit ausweiten - überwiesen
+- TOP 1.30: Wiederinbetriebnahme der Schwimmhalle Wolfshagener Straße - vertagt
+- TOP 1.30.1: Schwimmhalle Pankow: Tür offenhalten - Moratorium beantragen - vertagt
+- TOP 1.31: Schönholzer Weg / Kastanienallee - überwiesen
+- TOP 1.32: Prävention gegen häusliche Gewalt - vertagt
+- TOP 1.33: Interaktiver Kinder- und Jugendstadtplan - überwiesen
+- TOP 1.34: Orte des Gedenkens an Freiheit und Einigkeit im Bezirk Pankow - überwiesen
+- TOP 1.35: Verkehrsregelung Straße 42 in 13125 Berlin - überwiesen
+- TOP 1.36: Generationsübergreifender Spielplatz - überwiesen
+- TOP 1.37: Standorte für Wohnmobile, Caravans und Wohnwagen, bspw. Margarethe-Sommer-Straße - vertagt
+- TOP 1.38: Sonderzug nach Pankow - überwiesen
+- TOP 1.39: Verringerung des Verkehrslärms in der Diesterwegstraße - überwiesen
+- TOP 1.40: Mauer um das Schloss Schönhausen öffnen - überwiesen
+- TOP 1.41: Alkoholverbot auf Pankower Spielplätzen - überwiesen
+- TOP 1.42: Angebote für Präsentationsmöglichkeiten örtlicher Verlage - vertagt
+- TOP 1.43: Rahmenentwicklungsplan für die Kindertagesbetreuung im Bezirk Pankow von Berlin - vertagt
+- TOP 1.44: Qualitative Forderungen des Berliner Bildungsplanes an Kitas in der Personalausstattung berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Ausbau der Infrastruktur in Sanierungsgebieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Verantwortung für JobCenter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Umsetzung der Drs. Nr. V-0923 "Regionalmodell des Bezirksamtes" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Ergänzungsplan des Bezirks Pankow zum Doppelhaushaltsplan 2006/2007 hier: Haushaltsjahr 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Umleitung des Verkehrs in Heinersdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Bürgerhaushalt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Bau der Sporthalle in der Neuen Schönholzer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Parkraumbewirtschaftung prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Soziales und ökologisches Bauen durch Baugruppen fördern - Block 001 im Sanierungsgebiet Teutoburger Platz (Liegenschaftsfonds) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Arbeitsmarktprogramm 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Arbeit im JobCenter Pankow und Kooperation mit privaten Arbeitsvermittlungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Entwicklung des ehemaligen Rangier- und Güterbahnhofes Pankow - vertagt
+- TOP 2.13: U-Bahnhof Rosa-Luxemburg-Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Errichtung einer Straßenbahnhaltestelle in der Buschallee auf der Linie M4 Richtung Hackescher Markt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Barrierefreier Zugang zum Schloss Schönhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Umstrukturierung des Amtes für Planen und Genehmigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Schwerpunkt für Stadtteilbibliothek - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Bezirkliche Beiräte öffentlich machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Vor Ort für alle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Benennung einer privaten Erschließungsstraße im Ortsteil Französisch Buchholz in "Am Kirschgarten" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Nutzungsentgelterhöhung für zu Erholungszwecken genutzte Parzellen in der Anlage "Einigkeit" und Verwaltung der Anlage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Nutzungsentgelterhöhung für zu Wohnzwecken genutzte Parzellen in der Anlage "Einigkeit" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Pankow im Gesunde Städte - Netzwerk Fortsetzung der Mitgliedschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Erhaltungsverordnung gemäß § 172, Absatz 1 Satz 1 Nr. 3 Baugesetzbuch für das Gebiet Grüne Stadt im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
