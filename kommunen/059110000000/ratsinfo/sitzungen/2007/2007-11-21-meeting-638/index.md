@@ -1,0 +1,55 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2007-11-21T14:00:00+01:00
+- Ende: 2007-11-21T16:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQ5DXom9A_xueUxa5IJkIrY
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/638
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV4cKD-tXVShmcPQGAX1PqjX2kmx50B5UX-j3r7M5jEv/Einladung_Sozial-_und_Gesundheitsausschuss_21.11.2007.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX-d16sTKCXmn-iz8l2nEF1JXRFvoE8debGMrScHYBsH/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_21.11.2007.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 1.1: Städtische Zuwendung an die Wattenscheider Tafel e. V. für Umbau- und Sanierungsarbeiten an den Gebäuden der Laubenstr. 19 in Bochum-Wattenscheid - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 1.2: Vergabe von Zuwendungen an Selbsthilfegruppen und Initiativen - Sozialamt - - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 2: Beschlussvorschläge für den Haupt- und Finanzausschuss
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: Beschlussvorschläge für den Rat
+- TOP 4.1: Zehnte Änderungssatzung zur Obdachlosengebührensatzung - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4.2: Kommunalisierung der Versorgungsverwaltung - Die Vorlage wird ohne Votum weitergeleitet.                                                         
+- TOP 5: Anträge
+- TOP 5.1: Gebührenfreies Girokonto für ALG II-BezieherInnen - Abstimmungsergebnis: Einstimmig gegen Beschlussvorschlag                                            
+- TOP 5.2: Berichterstattung aus der ARGE-Trägerversammlung - Abstimmungsergebnis: Einstimmig nach Änderung des Beschlussvorschlages                              
+- TOP 6: Mitteilungen
+- TOP 6.1: Wohnsituation von Flüchtlingen und Aufgabe von Übergangsheimen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.2: Bericht der Präventions- und Beratungsstelle für HIV und Aids im Gesundheitsamt Bochum - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: Bericht über die Arbeit der Heimaufsicht - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: 2. Sachstandsbericht zur Umsetzung der Reform der Versorgungsverwaltung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Übernahme von Passbeschaffungskosten im Zusammenhang mit den geänderten Bleiberechtsbestimmungen gemäß §§ 104 a und 104 b des Aufenthaltsgesetzes (AufenthG) - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Obdachlose/wohnungslose Menschen in Bochum/Hilfen bei der Stadt Bochum - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Beschwerdemanagement der ARGE - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Umfrage zur Ausbildungssituation Entlassschüler 2007 (Förder-, Haupt-, Real- und Gesamtschulen) - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.9: Einrichtung des Begrüßungsteams und des Notruftelefons im Rahmen des Präventionskonzeptes - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.10: Sitzungstermine des Sozial- und Gesundheitsausschusses im Jahre 2008 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7: Anfragen
+- TOP 7.1: Auszug Schwangerer unter 25 Jahre - Übernahme der Umzugs-/ Wohnkosten - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.2: Kommunalisierung der Versorgungsverwaltung - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Beschlussvorschläge für den Haupt- und Finanzausschuss
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Beschlussvorschläge für den Rat
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Anträge
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Mitteilungen
+- TOP 10: keine Tagesordnungspunkte
+- TOP 11: Anfragen
+- TOP 12: keine Tagesordnungspunkte
