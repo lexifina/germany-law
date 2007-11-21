@@ -1,0 +1,111 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2007-11-21T17:00:00+01:00
+- Ende: 2007-11-21T20:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1107
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1107
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Brückenbauarbeiten in der Drakestraße - beantwortet
+- TOP 3.2: Änderung der Schuleinzugsbereiche - erledigt
+- TOP 3.3: Persönliches Budget - beantwortet
+- TOP 3.4: Schmarjestraße 14 - beantwortet
+- TOP 3.5: Kiosk vor OSZ Lippstädter Straße - beantwortet
+- TOP 3.6: Vertraulichkeit - beantwortet
+- TOP 3.7: Akteneinsicht bei dem Bauamt - beantwortet
+- TOP 3.8: Lesenachmittage in Senioren- und Pflegeheimen - beantwortet
+- TOP 3.9: Emil-Schulz-Brücke - zurückgezogen
+- TOP 3.10: Neue Schließanlage - Quentin-Blake-Europaschule - schriftlich beantwortet
+- TOP 3.11: Sitzungsgelder der Seniorenvertretung 2007 - schriftlich beantwortet
+- TOP 3.12: Personalkostenbudgetierung - schriftlich beantwortet
+- TOP 3.13: Zu wenige Räume an der Grundschule am Insulaner - schriftlich beantwortet
+- TOP 3.14: Übertragung von bezirklichen Jugendfreizeiteinrichtungen in freie Trägerschaft - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.1.1: Wahl einer Schiedsperson - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Wahl einer Schiedsperson - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.2.1: Sondermittel der BVV für den Verein Anonyme Alkoholikerkrankenhilfe Berlin e. V. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Sondermittel der BVV für den Kinder- und Jugend, Reit- und Fahrverein Zehlendorf e. V. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2.3: Sondermittel der BVV für den Allgemeinen Blinden- und Sehbehindertenverein Berlin gegr. 1874 e. V. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2.4: Sondermittel der BVV für Laib und Seele in der Dreifaltigkeitskirche Lankwitz - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2.5: Sondermittel der BVV für Musikus e. V. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Anträge - erledigt
+- TOP 4.3.1: Hundefreie Liegewiese am Schlachtensee - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.3.2: Alkohol- und Rauchverbot auf Spielplätzen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Änderung Zusammensetzung Umweltausschuss - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.4: Unfallgefahr für Fußgänger und Radfahrer sofort beseitigen! - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3.5: Parkplätze in der Beethovenstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Ausschussanträge - erledigt
+- TOP 4.4.1: Bebauungsplan X-77-1 - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Sportangebote freier Träger sicherstellen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Tempo 30 Dahlemer Weg - im Ausschuss abgelehnt
+- TOP 4.5.3: Interkulturelle Kompetenz des Ordnungsamts verbessern - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.5.4: Verstärkte Vorbereitung des Girls Day für 2008 betreiben - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Riemeisterstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Vorübergehende Ersatzzeiten für Steglitz-Zehlendorfer Schulen und Schwimmvereine im zukünftigen Bad "Zehlendorfer Welle" - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Erreichbarkeit des Ordnungsamtes verbessern - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Veränderungen an der Bushaltestelle "Pinnauweg" - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Mobilitätsverbesserungen für Menschen mit Behinderungen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Mehr Fahrradständer vor dem Arndt-Gymnasium installieren - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Taxihalteplatz am Regionalbahnhof Lichterfelde-Ost erhalten - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Öffentliches Schulwesen bedarfsgerecht gestalten - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.13: Unfallgefahr auf dem Radweg - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.14: Gebundenen Ganztagsschulbetrieb im Bezirk erhalten - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.15: Transparente Wasserkontrolle Rehwiese - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.16: Schulhöfe für alle Kinder und Jugendlichen öffnen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - - erledigt
+- TOP 5.1: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2006 - überwiesen
+- TOP 5.1.2: Bezirksrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2006 - überwiesen
+- TOP 5.2: Haushaltsangelegenheiten: Vorlagen zur Kenntnisnahme - überwiesen
+- TOP 5.2.1: Übersicht über die im ersten Halbjahr 2007 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 5.3: Anträge - erledigt
+- TOP 5.3.1: Umbenennung des U-Bahnhofes "Thielplatz" in "Freie Universität" - überwiesen
+- TOP 5.3.2: Promillefreie Zone/Grünanlage "Rosengarten" - überwiesen
+- TOP 5.3.3: Mehr direkte Demokratie wagen! Einführung von Bürgergutachten zur bezirklichen Erinnerungskultur - überwiesen
+- TOP 5.3.4: Haushaltssanierung - überwiesen
+- TOP 5.3.5: Schulen in freier Trägerschaft in Zehlendorf - überwiesen
+- TOP 5.3.6: Lärmreduzierung AVUS - überwiesen
+- TOP 5.3.7: Toilettenanlage im Bereich des Bahnhofs Lichterfelde-Ost - überwiesen
+- TOP 5.3.8: Öffentliche Toilette: Leonorenstraße/Kaiser-Wilhelm-Straße - überwiesen
+- TOP 5.3.9: Tempo 30 vor der Kita McNair - überwiesen
+- TOP 5.3.10: Umweltschädliche Heizpilze - überwiesen
+- TOP 5.3.11: Schule in die "Spinne" - überwiesen
+- TOP 5.3.12: Verunreinigungen Umgebung OSZ Lippstädter Straße - überwiesen
+- TOP 5.3.13: Trägermodell für Einzelfallhilfe in Steglitz-Zehlendorf - überwiesen
+- TOP 5.3.14: Schutzhüllen für biometrische Reisepässe - überwiesen
+- TOP 5.3.15: Präventive Schuldnerberatung - überwiesen
+- TOP 5.3.16: Den Bereich rund um das Forum Zehlendorf attraktiv erhalten! - überwiesen
+- TOP 5.3.17: Linksabbiegerspur auf dem Wolfensteindamm - überwiesen
+- TOP 5.3.18: Räume für Hortbetreuung an der Biesalski-Schule - überwiesen
+- TOP 5.3.19: Schmarjestraße 14 - überwiesen
+- TOP 5.3.20: Besserer Zugang zum Arbeitsmarkt mit Hilfe von Fördermitteln des Europäischen Sozialfonds (ESF) - überwiesen
+- TOP 5.3.21: Gedenktafel Fliegeberg - überwiesen
+- TOP 5.3.22: "Fair geht vor!" - die Anti-Doping-Kampagne des Bezirksamtes und der Sportvereine in Steglitz-Zehlendorf - überwiesen
+- TOP 5.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.4.1: Schulstationen sichern! - überwiesen
+- TOP 5.4.2: Klare Verantwortlichkeit für Errichtung und Reparatur der Gedenktafeln bei der SE Immobilien - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringende Große Anfragen - erledigt
+- TOP 6.1.1: Änderung der Schuleinzugsbereiche - beantwortet
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Verkehrsberuhigung in der Paulsenstraße - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Konzept zur bezirklichen Erinnerungskultur für Steglitz-Zehlendorf "Erinnern für die Zukunft - Geschichte in Steglitz-Zehlendorf" - überwiesen
+- TOP 8.2: Auch Raucher sind Menschen - zurückgezogen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Rechtmäßige Wahl des Bezirksbehindertenbeauftragten für eine Legislaturperiode - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Ordnungsamt gegen illegale Plakatierung in Dahlem einsetzen - im Ausschuss abgelehnt
+- TOP 9.3: Geschwindigkeitsbegrenzung auf der A 115 - im Ältestenrat zurückgezogen
+- TOP 10: Schlusswort des BVVorstehers - erledigt
