@@ -1,0 +1,116 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2007-11-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1077471
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1077471
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Erneuerung der Bergsonstr. bzw. Reparatur des Straßenbelages zwischen Industrie- und Kronwinkler Straße in Aubing
+- TOP 2.2.: Probleme wegen Lärmbelästigung durch St. Lukas, Aubinger Str. 63
+- TOP 2.3.: Pflasterarbeiten Limesstraße 117; Zustand Garten, Bodenseestr. 234
+- TOP 2.4.: Radweg Limesstraße in Richtung Süden ab Giechstr. mit Unterquerung der Bodenseestr., sowie: Fußweg Haberlandstr. - Scapinellistr.
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Anbringung von Abfallkörben an der Grünanlage Gothardstr. (zwischen Aubing-Ost-Str. und Kastelburgstr.)
+- TOP 4.2.: Sichere Überquerung der Kreuzung Lochhausener Str./ Freilandstr./ Am Langwieder Bach
+- TOP 4.3.: Fehlende Beschilderung an der Einmündung / Kreuzung Bodenseestraße mit Sportlerweg und Ehrenbürgstraße
+- TOP 4.4.: Geschäftsordnung des BA 22
+- TOP 4.5.: Errichtung einer Querungshilfe an der Aubinger Straße in Höhe der Haßfurter Straße
+- TOP 4.6.: Rettungswege an der A 99
+- TOP 4.7.: Kinderhaus Lochhausen
+- TOP 4.8.: Verbesserung auf den Münchner S-Bahn-Linien
+- TOP 4.9.: Bahnübergang Waldweg
+- TOP 4.10.: Beleuchtung von Fußwegen / Radwegen
+- TOP 4.11.: Namen des 22. Stadtbezirkes
+- TOP 4.12.: Städtisches Anwesen Altostr. 16
+- TOP 4.13.: Ortstermin bezüglich Verkehrsproblemen in der Eichenauer Straße
+- TOP 4.14.: Rückstrittsforderung an den BA 22-Vorsitzenden Anton Fürst
+- TOP 4.15.: Bauliche Veränderungen in der Bodenseestr. 212 und 234
+- TOP 4.16.: Bauliche Veränderungen in der Limesstr. 117
+- TOP 5.: Entscheidungsfälle
+- TOP 1: (E) Großbaustelle an der Schussenrieder Straße; Schaffung einer eigenen Baustellenzufahrt und Sperrung der Gündinger Straße und der Straße Am Lochhauser Hügel (Ziffer 1 und 2 des Antrages) Empfehlung Nr. 02-08 / E 00756 der Bürgerver- sammlung des Stadtbezirkes 22 Aubing-Lochhausen- Langwied vom 28.06.2007 Bebauungsplan 1703 Schreiben des Bezirksausschusses 22 Aubing- Lochhausen-Langwied
+- TOP 1.2.: Großbaustelle an der Schussenrieder Straße; Erhaltung der schützenswerten Bäume an der Schussenrieder Straße (Ziffer 3 des Antrags)
+- TOP 1.3.: Anordnung eines Haltverbots im Zugansbereich des BRK-Seniorenheims in der Aubinger Straße (Ziffer 1 des Antrags)
+- TOP 1.4.: Verkehrssituation am Aufseßer Platz (Ziffer 2 des Antrags)
+- TOP 1.5.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Stadtjugendamt / Angebote der Jugendhilfe, Streetwork Pasing
+- TOP 1.6.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Freiflächenverein München-Aubing e.V.
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: Bebauungsplan mit Grünordnung, Lochhausener Str. (südlich), Mettnauer Str. (westlich), Rossittener Str. und Spatzenwinkel (nördlich), Pirolstr. (östlich)
+- TOP 6.3.: Baugebiet Schussenrieder Straße / Schubinweg, Bebauungsplan 1703
+- TOP 6.4.: Änderung der BA-Satzung; Anhörungsrecht der BA's bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen
+- TOP 6.5.: Plangenehmigung nach § 18 AEG i.V.m. § 74 Abs. 6 VwVfG für den Einbau der Weichen 410 und 411 mit Weichenverbindung, Weichenaustausch 414 (Instandhaltungswerk Pasing)
+- TOP 6.6.: Wanderveranstaltung am 15./16.12.07 der Wanderfreunde Neuaubing, Start und Ziel: Weinbergerstr. 19
+- TOP 6.7.: Zweckentfremdung von Wohnraum, Wiesentfelser Str. 68
+- TOP 6.8.: Erhalt und Ausbau von Grünflächen zur Naherholung (Ziffer 1 des Antrages)
+- TOP 6.9.: Anhörung zu einer Reihe von verkehrlichen Maßnahmen im 22. Stadtbezirk
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Unveränderte Fortführung des Bistro-Bereiches der Allguth-Tankstelle, Bodenseestr. 231, Schr. KVR vom 15.10.07
+- TOP 7.2.: Bebauungsplan Nr. 1703, Bebauung Schussenrieder Straße, Schubinweg und Amelbrechtweg, Sperrung von Straßen für den Lkw-Verkehr, keine Baumfällungen von gesunden Bäumen an der Schussenrieder Straße, Schr. 3. Bürgermeister vom 09.10.07
+- TOP 7.3.: Verkehrsrechtliche Anordnung, Haltverbot in der Radolfzeller Straße an der Bushaltestelle Sipplinger Straße, Schr. KVR vom 22.08.07
+- TOP 7.4.: Verkehrsrechtliche Anordnung, Aufhebung des Haltverbotes in der Radolfzeller Straße an der früheren Bushaltestelle Mainaustraße, Schr. KVR vom 22.08.07
+- TOP 7.5.: Änderungsbescheid für Fa. Weißer Rabe, Industriestr. 30, Genehmigung für eine wesentliche Änderung der Elektro- und Elektronikrecyclinganlage, Schr. Ref. f. Gesundheit u. Umwelt vom 27.09.07
+- TOP 7.6.: Vollz. des AEG, Plangenehmigung nach § 18, 18 b AEG i.V.m. § 74 Abs. 6 VwVfG für den Neubau einer Eisenbahnunterführung im Bereich des Gleisdreiecks München-Pasing in der Nähe der Bodenseestraße, Schr. Planungsreferat vom 11.10.07
+- TOP 7.7.: Baumaßnahmen der Stadtwerke München GmbH, Stichtag: 15.10.07, 22.10.07, 29.10.07, 05.11.07, 12.11.07
+- TOP 7.8.: Verkehrsrechtliche Anordnung, Eingeschränktes Haltverbot, Köferinger Str. 20 Seite Kravogelstr., Schr. KVR vom 30.07.07
+- TOP 7.9.: Baufälle im 22. Stadtbezirk (v. 08.-14.10.07, v. 15.-21.10.07, v. 22.-28.10.07), Schr. Planungsreferat vom 15.10.07, 22.10.07, 05.11.07, 05.-11.11.07
+- TOP 7.10.: Baumaßnahmen der Stadtwerke, Erdgasprojekt Wildenrother Straße, Schr. Stadtwerke vom 10.10.07
+- TOP 7.11.: Unterrichtung über das Fällen von Gefahrenbäumen, Liste des Baureferates vom 27.09.07, 02.10.07
+- TOP 7.12.: Verkehrsrechtliche Anordnung, Bushaltestellen für einen Schienenersatzverkehr bei Ausfall der S-Bahn, Schr. KVR vom 24.10.07
+- TOP 7.13.: Verkehrsrechtliche Anordnung, Radolfzeller Straße, Zeichen 299 StVO, Schr. KVR vom 17.07.07
+- TOP 7.14.: Wirtschafts-Info 09/2007
+- TOP 7.15.: Baumaßnahmen der Stadtwerke München, Stromprojekt Kastelburgstraße, Schr. Stadtwerke München vom 06.11.07
+- TOP 7.16.: Baumaßnahmen der Stadtwerke München, Stromprojekt Schussenrieder Straße, Schr. Stadtwerke München vom 06.11.07
+- TOP 7.17.: Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Wiesentfelser Str. 51, hie: 5 Plätze für unter 3-Jährige, 75 Plätze für 3-Jährige bis zur Einschulung, Schr. Schul- und Kultusreferat vom 09.11.07
+- TOP 7.18.: Tonanlage, Wienerwaldsaal, Limesstr. 63, Schr. Kulturreferat vom 07.11.07
+- TOP 7.19.: Unterkunftsanlage Dreilingsweg 14, Mitteilung Reg. v. Oberbayern vom 15.11.07
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Rad- und Fußweg entlang der Eichenauer Straße, Schr. Baureferat vom 22.10.07 zum BA-Antrag Nr. 2281 vom 18.07.07
+- TOP 8.2.: Gestaltung des Zugangs zum ASZ am Wasserturm und zum Kindergarten als Gehweg, Schr. Baureferat vom 22.10.07
+- TOP 8.3.: Mittagsbetreuung in den Räumlichkeiten des früheren städt. Hortes an der Wiesentfelser Str. 68, Schr. Schulreferat vom 17.10.07
+- TOP 8.4.: Leinenpflicht für die städtischen Anlagen am Westkreuz, Schr. Baureferat vom 25.10.07
+- TOP 8.5.: Verkehrsschild für Fußgänger am Fußweg von der Wildenrother Str. zum Imkerweg / parallel zur Eichenauer Str. und Tempo-30-Schild in der Eichenauer Straße, Schr. KVR vom 29.10.07
+- TOP 8.6.: Rad- und Fußweg entlang der Eichenauer Straße, Schr. KVR vom 29.10.07
+- TOP 8.7.: Ausbesserungs-/ Renovierungsarbeiten am Friedhof Aubing, Schr. Friedhofsverwaltung vom 31.10.07
+- TOP 8.8.: Bessere Erkennbarkeit der Ampelanlage im Bereich Altostraße südlich - Rechtsabbiegespur in die Ubostraße, Schr. KVR vom 06.11.07
+- TOP 8.9.: Entfernung bzw. Prüfung der Verkehrszeichen 301 StVO an Kreuzungen in Tempo 30 Zonen, Schr. KVR vom 16.11.07
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Kinder- und Jugendhilfeausschuss vom 18.09.07 - Investitionskostenförderung gem. Art. 27 BayKiBiG, Kinderkrippe Limesstr. 56 a mit 18 Kinderkrippenplätzen, Umbau bestehender Räume
+- TOP 9.2.: Bauausschuss vom 25.09.07 - Aktion Saubere Stadt, Konzept der Öffentlichkeitskampagne
+- TOP 9.3.: Vollversammlung vom 04.10.07 - Kultur im Stadtquartier - Mobilität in Deutschland 2008 - MiD 2008; Haushaltsbefragung zum Verkehr in München 2008 - MiDMUC 2008 - Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO - Vereinsdatenbank und Stadtteilseiten"
+- TOP 9.4.: Sozialausschuss vom 20.09.07 - Quartierbezogene Bewohnerarbeit 1999 bis 2007
+- TOP 9.5.: Gemeinsame Sitzung des Ausschusses für Stadtplanung und Bauordnung und Sozilausschuss vom 11.10.07 - Neue Wege in der Wohnraumversorgung für ältere Bürgerinnen und Bürger
+- TOP 9.6.: Sportausschuss vom 06.11.07 Kunstrasenspielfeld am Sportplatz Kronwinkler Straße
+- TOP 9.7.: Sanierung des Nebenplatzes der Bezirkssportanlage an der Kronwinkler Straße
+- TOP 9.8.: Kulturausschuss vom 18.10.07 Nutzung des Neubaus des Gebäudes der "Spiellandschaft Stadt"
+- TOP 9.9.: Ausschuss für Stadtplanung und Bauordnung vom 14.11.07 - Änderung des Bebauungsplans für das Gleisdreieck Pasing - Novelle der Bayerischen Bauordnung 2008, Darstellung und erste Bewertung der Neuregelung - Beschlussvollzugskontrolle (BVK); 5. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2007 - Perspektive München - Bilanz, Evaluierungsbericht 2007
+- TOP 9.10.: Vollversammlung vom 07.11.07 - Magnetschwebebahn München-Hauptbahnhof - Flughafen, Gemeinsame Resolution der Nordallianz mit der LH München
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Umwandlung der Sprachförderschule in der Droste-Hülshoff-Straße, Antrag des BA 20 vom 08.10.07
+- TOP 10.2.: BA-Satzungskommission vom 23.10.07, Schr. BA 15 vom 15.10.07
+- TOP 10.3.: Wahl am 02.03.08, Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer, Schr. KVR vom 11.10.07
+- TOP 10.4.: Einladung "Das Schulreferat trifft die Bezirksausschüsse" am 22.11.07, 16.00 Uhr im Schulreferat, Neuhauser Str. 39, Zi. 535
+- TOP 10.5.: Entscheidungszuständigkeit für Standortwahl und Bedarfsgenehmigung bei einer Kindertagesstätte, Schr. BA 15 vom 29.10.07
+- TOP 10.6.: Schließung des Bahnübergangs in der Eichenauer Straße, Schr. Florian Ritter, MdL, vom 25.10.07
+- TOP 10.7.: Verteilerplan stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen, Mitteilung Schul- und Kultusreferat
+- TOP 10.8.: Vorbereitungssitzungen zur Stadtteilwoche Aubing-Lochhausen-Langwied am 17.01.08 und am 13.03.08 jeweils um 19.00 Uhr im Aubinger Schnitzel- und Hendlhaus, Limesstr. 63, Schr. Kulturreferat vom 31.10.07
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 19.12.2007, Gaststätte "Wienerwald", Limesstr. 63
