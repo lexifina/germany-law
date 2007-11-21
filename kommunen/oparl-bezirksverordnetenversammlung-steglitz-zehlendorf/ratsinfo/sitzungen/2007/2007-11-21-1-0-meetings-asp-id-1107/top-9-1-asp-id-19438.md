@@ -1,0 +1,8 @@
+# TOP 9.1: Rechtmäßige Wahl des Bezirksbehindertenbeauftragten für eine Legislaturperiode
+
+- Sitzung: 13. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin (2007-11-21)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=19438
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=19438
