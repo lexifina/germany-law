@@ -1,0 +1,92 @@
+# 13. (ordentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2007-11-22T16:30:00+01:00
+- Ende: 2007-11-22T22:10:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1546
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1546
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=56860
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers VI_11 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl eines Bürgerdeputierten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Skulptur für den Interkulturellen Garten - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Anträge zum 3. SED-Unrechtsbereinigungsgesetz - beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Nachtflug Flughafen Schönefeld - schriftlich beantwortet
+- TOP 10.2: Flexible Schuleingangsphase - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Zustimmung zur Ausbauvariante für den Ausbau der Mozartstraße im Abschnitt von der Hämmerlingstraße bis zur Wuhle Fußgängerbrücke - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Entsorgung von Hundekot an relevanten Stellen im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Änderung der Geschäftsordnung vom 26. Oktober 2006 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Mehr Sicherheit für Radfahrer an der Kreuzung Bulgarische Straße / Neue Krugallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Hinweisschilder für Radfahrer am Britzer Zweigkanal - mit Änderungen in der BVV beschlossen
+- TOP 12.5: Gemeinsamer Geh- und Radweg im Königsheideweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Kreuzung Jackyallee/Fährallee in 12527 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Bebauungsplan XVI-77 ("Grenzweg Süd") hier: Änderung des Planaufstellungsverfahrens (Reduzierung des Geltungsbereiches) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Ausbau des Dahmeradweges - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Albinea-Zimmer - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Aufhebung des Durchfahrtsverbotes für Reisebusse > 7,5 t - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Vorwegweiser für A113 Neue Späthstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Kontinuierlicher Wirtschaftsdialog mit dem BBI - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Entwurf Sportanlagenordnung überarbeiten - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Hinweis auf die Touristeninformation auf der Internetstartseite - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Fortschreibung Sportstättenentwicklungsplan - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Bibliotheksangebot durch Sponsoren aufwerten - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Bibliotheksbus in Rauchfangswerder - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Benennung der Straße D in Rauchfangswerder in Mielitzallee - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: 100 Jahre Flugplatz Johannisthal - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Umsetzung der prämierten und zur Realisierung empfohlenen Entwürfe aus dem Projekt "KAiAK – Kunst + Architektur in Alt Köpenick "für eine attraktive Zwischennutzung und Gestaltung unbebauter Grundstücke in der Altstadt Köpenick in Präzisierung des BA-Beschlusses Nr. 612/ 2006 vom 17.10.2006 sowie die Festlegung der Zuständigkeit für die Durchführung der Maßnahmen und der zukünftigen Unterhaltungspflicht - überwiesen
+- TOP 13.2: Im I. Halbjahr 2007 zugelassene über- und außerplanmäßigen Ausgaben - überwiesen
+- TOP 13.3: Änderung der Bewirtschaftungszuständigkeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Benennung der im Bezirk Treptow-Köpenick zwischen Wendenschloßstraße und Segewaldweg gelegenen Nummernstraßen Straße 241 in "Am Marienhain" Straße 240 in "Marienhütter Weg" Straßen 234 + 239 "Blockmühlenweg" Straße 235 in "Zum Dahmeufer" - im Ältestenrat zurückgezogen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: "Wir sind lauter! Wir sind bunter! Wir sind mehr!" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Sozialdetektive sinnvoll einsetzen! - überwiesen
+- TOP 14.3: Wiederöffnung des Überganges über die Görlitzer Bahn - überwiesen
+- TOP 14.4: Ortsteilwappen am Stadtplatz - überwiesen
+- TOP 14.5: Aufstellung öffentlicher Toiletten - überwiesen
+- TOP 14.6: Versorgung mit Augenärzten in Friedrichshagen sicherstellen - überwiesen
+- TOP 14.7: Nutzungskonzept für Köpenicker Mittelpunktbibliothek - überwiesen
+- TOP 14.8: Ampelschaltung Treptower Park - mit Änderungen in der BVV beschlossen
+- TOP 14.9: Schienenanbindung des Flughafens BBI - überwiesen
+- TOP 14.10: Illegale Zigarettenverkäufe im Bezirk Treptow-Köpenick stoppen - überwiesen
+- TOP 14.11: Benennung der Straßen 207 und 208 in Johannisthal - überwiesen
+- TOP 14.12: Park-and-Ride-Konzeption für Treptow-Köpenick - überwiesen
+- TOP 14.13: Einhaltung des Flächennutzungsplans (FNP) für Bohnsdorf - überwiesen
+- TOP 14.14: Förderung der Hauptmanngarde - überwiesen
+- TOP 14.15: Nichtraucherschutz in bezirklichen Einrichtungen konsequent umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Benennung von Ortsteil-Ansprechpartnern im Bezirksamt - überwiesen
+- TOP 14.17: Kampf der Verwahrlosung - Bekämpfung Graffiti-Schmierereien - überwiesen
+- TOP 14.18: Durchfahrung der Köpenicker Altstadt - überwiesen
+- TOP 14.19: Verkehrskonzept Bauarbeiten Allende-Brücke - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Kampf der Verwahrlosung - Schutz vor Graffiti-Schmierereien - überwiesen
+- TOP 14.21: Einrichtung einer zentralen Stelle für Verbraucherschutz im Bezirksamt - in der BVV abgelehnt
+- TOP 14.22: Sportkalender - überwiesen
+- TOP 14.23: Sprachlerntagebücher - überwiesen
+- TOP 14.24: Errichtung eines Denkmals zur deutschen Einheit - in der BVV abgelehnt
+- TOP 14.25: Tempo 30 auf der Bölschestraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.26: Gesunde Kinder: Sport-Gutscheine für Erstklässler! - überwiesen
+- TOP 14.27: Poller als Gefahrstelle beseitigen - überwiesen
+- TOP 14.28: Parkplätze Segelfliegerdamm - vertagt
+- TOP 14.29: Informationen über Treptow-Köpenick im Offenen Kanal - vertagt
+- TOP 14.30: Bibliotheksangebote öffentlich machen - überwiesen
+- TOP 14.31: Benennung des Weges 7 nach Fritz König - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Neues vom Frauentog - vertagt
+- TOP 15.2: Situation der privaten Überschuldung im Bezirk - vertagt
