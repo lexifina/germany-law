@@ -1,0 +1,97 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2007-11-22T17:30:00+01:00
+- Ende: 2007-11-22T22:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1549
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1549
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=61220
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=61855
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - erledigt
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Schließung der Schulgebäude nach 17:00 Uhr bzw. 22:00 Uhr - beantwortet
+- TOP 5.2: Grundschule am Koppenplatz - beantwortet
+- TOP 5.3: Hält das Bezirksamt, was es verspricht? - in der BVV zurückgezogen
+- TOP 5.4: Gesundheitsdienst-Zuständigkeitsverordnung - beantwortet
+- TOP 5.5: Sondernutzung Straßenland durch Gaststätten - beantwortet
+- TOP 5.6: Verschwundenes Dienstsiegel - beantwortet
+- TOP 5.7: 100prozentige Personalausstattung an den Schulen des Bezirks Mitte? - beantwortet
+- TOP 5.8: Alkoholkonsum auf Kinderspielplätzen - beantwortet
+- TOP 5.9: Schulen in Mitte - schriftlich beantwortet
+- TOP 5.10: Was tut das Bezirksamt gegen die Verquickung dienstlicher Belange mit privatem Engagement von VerwaltungsmitarbeiterInnen? - schriftlich beantwortet
+- TOP 5.11: Erhalten die Quartiersräte jetzt Budgetgewalt? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Sozialpädagogin an der Herbert-Hoover-Oberschule - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Parkchaos am Hauptbahnhof - beantwortet
+- TOP 7.2: Schilderwirrwarr am Berliner Hauptbahnhof - beantwortet
+- TOP 7.3: Schuleingangsuntersuchung - beantwortet
+- TOP 7.4: Zur Tariftreue der Vertragspartner des Bezirkes Mitte - beantwortet
+- TOP 7.5: Kitabesuch in Mitte - schriftlich beantwortet
+- TOP 7.6: Hauptbahnhof: Verdrängung des fließenden Verkehrs in die Nebenstraßen - schriftlich beantwortet
+- TOP 7.7: UEP II - Mitte wieder nicht dabei? - schriftlich beantwortet
+- TOP 7.8: Kita Ackerstraße 104 - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Nachschiebelisten zum Entwurf des Doppelhaushaltsplans Mitte für die Haushaltsjahre 2008 und 2009 - überwiesen
+- TOP 8.2: Sitzungskalender 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Genehmigung der Bezirksrechnung für das Haushaltsjahr 2005 - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Genehmigung der im Haushaltsjahr 2006 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Bebauungsplanentwurf II-27-1 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes II-27-1 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Übertragung von bezirklichen Jugenderholungsstätten in freie Trägerschaft - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Informationstafel im Afrikanischen Viertel - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Keine Schließung der Jerusalem-Bibliothek - überwiesen
+- TOP 11.4: Arbeitsfördermaßnahmen für Eva's Arche - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Keine Verschwendung von Steuermitteln beim Bau der Planstraße zwischen Beusselstraße und Perleberger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Mehr "Grün" in Mitte! - überwiesen
+- TOP 12.2: Kampagne zur Impfung von Mädchen gegen HPV - Humane Papillomaviren - überwiesen
+- TOP 12.3: Stärkung der Kindertagesstätten als Bildungseinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Mitte braucht einen Denkmalbeirat - überwiesen
+- TOP 12.5: Freie Schulwahl in Berlin-Mitte - Schuleinzugsbereiche auflösen, Elterninteresse folgen! - überwiesen
+- TOP 12.6: Mit Tempo 30 Besucher des Holocoust-Mahnmals schützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Unterbindung der Störung der Totenruhe auf dem Invalidenfriedhof durch Radfahrer - überwiesen
+- TOP 12.8: Einführung des kommunalen Wahlrechts für legal in der Bundesrepublik lebende Menschen aus Nicht-EU-Ländern / Unterstützung der Kampagne der Landesarbeitsgemeinschaft der kommunalen MigrantInnen-Vertretungen (LAGA) in Nordrhein-Westfalen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Unbürokratische Hilfe für Anwohner der Parkraumzone 29 möglich? - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Einsatz von Dialogdisplays - überwiesen
+- TOP 12.11: Dicke Luft im JobCenter Mitte (2) - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Quartiersrats- und Vergabebeiratswahlen - mit Änderungen in der BVV beschlossen
+- TOP 12.13: Grünflächenpflege im Bezirk stärken - überwiesen
+- TOP 12.14: Vergabe der Sportstätten differenziert dokumentieren - überwiesen
+- TOP 12.15: Beachtung der Barrierefreiheit bei B-Plänen im Vorfeld - überwiesen
+- TOP 12.16: Arbeitsschutz für MitarbeiterInnen des Ordnungsamtes - überwiesen
+- TOP 12.17: Baustelleninformationen im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Solidarische Unterstützung anderer Bezirke bei der Finanzierung der bezirkseigenen Erholungsstätten - in der BVV abgelehnt
+- TOP 12.19: Alkoholverbot auf Spiel- und Bolzplätzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Anhörung zur Übertragung der bezirklichen Immobilien an die BIM GmbH - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Bezirkszentralbibliothek im Rathaus Wedding - mit Änderungen in der BVV beschlossen
+- TOP 12.22: Transparenz bei Vergabeverfahren - überwiesen
+- TOP 12.23: Partnerschaft und Menschenrechte - überwiesen
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Fußgängerampel Invalidenstraße/Lesser-Ury-Weg - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Umweltladen Mitte erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Patenschaften von Zahnärztinnen und Zahnärzten mit Kitas und Grundschulen - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Portrait des Bundespräsidenten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.2: Qualitätsentwicklung in der Kindertagesbetreuung im Bezirk fördern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Nachbesserung des Seniorenmitwirkungsgesetzes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.4: Sprachlerntagebuch unverzüglich einführen (alt: Drs-Nr. 2181/II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Beschluss über das Ergebnis der frühzeitigen Behördenbeteiligung gem. § 4 Abs. 1 Baugesetzbuch (BauGB), das Ergebnis der Behördenbeteiligung gem. § 4 Abs. 2 BauGB sowie die Durchführung der öffentlichen Auslegung zum Bebauungsplanentwurf 1-42B gem. §3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Umsetzung eines bürgerfreundlichen Impulsmanagements im Bezirksamt Mitte, Bericht für den Berichtszeitraum 2006 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Beschluss über das Ergebnis der Behördenbeteiligung gem. § 4 Abs. 2 Baugesetzbuch (BauGB) zum vorhabenbezogenen Bebauungsplanentwurf 1-41VE, die Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
