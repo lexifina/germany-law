@@ -1,0 +1,274 @@
+---
+ecli: "ECLI:DE:BGH:2007:231107BLW9.07.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Landwirtschaftsenat"
+aktenzeichen: "BLw 9/07"
+decided: "2007-11-23"
+typ: "B"
+bemerkung: "siehe auch: Pressemitteilung Nr. 5/08  vom 8.1.2008"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2007&Sort=1&Seite=97&nr=42265&anz=3318&pos=2913&Blank=1.pdf"
+corpus_doc_id: "BGH_Landwirtschaftsenat_NA_2007-11-23_NA_BLw_9_07_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/lpachtvg/0004.md", "germany/bund/acts/lpachtvg/0012.md", "germany/bund/acts/zpo/0559.md"]
+---
+
+# Bundesgerichtshof, BLw 9/07 vom 2007-11-23
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                 BESCHLUSS
+BLw 9/07
+
+                         vom
+
+                 23. November 2007
+
+              in der Landwirtschaftssache
+
+                                    -2-
+
+
+
+Der Bundesgerichtshof, Senat für Landwirtschaftssachen, hat am 23. November
+2007 durch den Vorsitzenden Richter Prof. Dr. Krüger und die Richter
+Dr. Lemke und Dr. Czub sowie die ehrenamtlichen Richter Rukwied und Gose
+
+beschlossen:
+
+
+      I. Das Verfahren wird ausgesetzt.
+
+      II. Dem Gerichtshof der Europäischen Gemeinschaften wird folgende Frage zur Vorabentscheidung vorgelegt:
+
+        Ist nach Art. 15 Abs. 1 des Anhangs I des Abkommens zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit (ABl. 2002, L 114, S. 6) nur
+        Selbständigen im Sinne von Art. 12 Abs. 1 des Anhangs I des
+        Abkommens in dem Aufnahmestaat hinsichtlich des Zugangs
+        zu einer selbständigen Erwerbstätigkeit und deren Ausübung
+        eine Behandlung zu gewähren, die nicht weniger günstig ist als
+        die den eigenen Staatsangehörigen gewährte Behandlung,
+        oder gilt dies auch für selbständige Grenzgänger im Sinne von
+        Art. 13 Abs. 1 des Anhangs I des Abkommens?
+
+                                          -3-
+
+
+
+                                        Gründe:
+
+
+                                           I.
+
+1         Der Antragsteller ist schweizerischer Landwirt und hat seinen Betriebssitz in der Schweiz. Mit Vertrag vom 5. September 2005 pachtete er von dem
+    Verpächter in Deutschland gelegenes Ackerland zur Größe von 2,05 ha für einen jährlichen Pachtzins von 410 € für die Zeit vom 1. November 2005 bis zum
+    31. Oktober 2006. Der Vertrag enthält eine Verlängerungsklausel für jeweils ein
+    weiteres Jahr.
+
+2         Das Landwirtschaftsamt beanstandete den Pachtvertrag und forderte die
+    Beteiligten auf, ihn unverzüglich aufzuheben. Der dagegen gerichtete Antrag
+    auf gerichtliche Entscheidung ist erfolglos geblieben; das Amtsgericht - Landwirtschaftsgericht - hat den Pachtvertrag aufgehoben. Die sofortige Beschwerde
+    des Antragstellers hat das Oberlandesgericht - Senat für Landwirtschaftssachen - zurückgewiesen.
+
+3         Mit der zugelassenen Rechtsbeschwerde will der Antragsteller die Feststellung erreichen, dass der Pachtvertrag nicht zu beanstanden ist.
+
+                                           II.
+
+4         Nach Auffassung des Beschwerdegerichts hat das Landwirtschaftsgericht den Pachtvertrag zu Recht mit der Begründung aufgehoben, die Verpachtung bedeute eine ungesunde Verteilung der Bodennutzung im Sinne von § 4
+    Abs. 1 Nr. 1 LPachtVG. Ein schweizerischer Landwirt mit Betriebssitz in der
+    Schweiz sei bei der Anpachtung von Flächen im deutschen Hoheitsgebiet nicht
+    wie ein inländischer Landwirt, sondern wie ein Nichtlandwirt zu behandeln. Der
+    in Art. 15 des Anhangs I zu dem Freizügigkeitsabkommen zwischen der Euro-
+
+                                         -4-
+
+
+
+    päischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits geregelte Gleichbehandlungsgrundsatz
+    gelte nur für Selbständige, nicht aber für selbständige Grenzgänger wie den
+    Antragsteller. Die von dem Landwirtschaftsgericht durchgeführte Beweisaufnahme habe ein dringendes Bedürfnis zweier deutscher Landwirte an der Anpachtung der Flächen ergeben, von denen einer zudem bereit und in der Lage
+    sei, einen angemessenen Pachtzins zu zahlen.
+
+                                         III.
+
+5         Der Erfolg der Rechtsbeschwerde gegen die Beanstandung und Aufhebung des Pachtvertrages hängt von der Auslegung von Art. 15 des Anhangs I
+    des Abkommens zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits
+    über die Freizügigkeit (ABl. 2002, L 114, S. 6; im Folgenden: Abkommen) ab.
+    Es unterliegt der Auslegung durch den Gerichtshof der Europäischen Gemeinschaften (vgl. die Schlussanträge des Generalanwalts Dámaso Ruiz-Jarabo
+    Colomer v. 6. Juni 2006 in der Rechtssache C-339/05 Rdn. 28 ff.; Kahil-Wolff/Mosters, EuZW 2001, 5, 10; Jaag/Zihlmann in Thürer/Weber/Portmann/Kellerhals, Bilaterale Verträge I & II Schweiz-EU, S. 65, 77). Vor einer
+    Entscheidung über die Rechtsbeschwerde ist deshalb das Verfahren auszusetzen (vgl. Barnstedt/Steffen, LwVG, 7. Aufl., § 9 Rdn. 59, 95 m.w.N.) und gemäß
+    Art. 234 Abs. 1 lit. b und Abs. 3 EGV eine Vorabentscheidung des Gerichtshofs
+    zu der in dem Beschlusstenor gestellten Frage einzuholen.
+
+                                         IV.
+
+6         Die Entscheidung des Beschwerdegerichts wäre rechtlich nicht zu beanstanden, wenn die Verpachtung eine ungesunde Verteilung der Bodennutzung
+    bedeutete (§ 4 Abs. 1 Nr. 1 LPachtVG). Sie liegt nach § 4 Abs. 2 LPachtVG in
+
+                                          -5-
+
+
+
+    der Regel vor, wenn die Verpachtung Maßnahmen zur Verbesserung der Agrarstruktur widerspricht. Das ist nach der Rechtsprechung des Senats u.a. dann
+    der Fall, wenn landwirtschaftliche Grundstücke durch die Verpachtung an Nichtlandwirte der Nutzung durch Landwirte entzogen werden, die diese Flächen
+    dringend zur Schaffung und Erhaltung leistungs- und wettbewerbsfähiger Betriebe benötigen und zur Anpachtung bereit und in der Lage sind (BGHZ 101,
+    95, 99; ebenso Bendel/Becker, LPachtVG, § 4 Rdn. 4.1.3; Hötzel in Faßbender/Hötzel/Lukanow, Landpachtrecht, 3. Aufl., § 4 LPachtVG Rdn. 21; Lange/Wulff/Lüdtke-Handjery, Landpachtrecht, 4. Aufl., § 4 LPachtVG Rdn. 9). Ob
+    diese Voraussetzungen hier gegeben sind, hängt davon ab, ob der Antragsteller
+    wie ein Nichtlandwirt zu behandeln ist. Denn es gibt aufstockungsbedürftige
+    deutsche Landwirte, die in der Anpachtung der Flächen interessiert sind.
+
+7         1. Das Beschwerdegericht hat - unter Bezugnahme auf die Begründung
+    der Entscheidung des Landwirtschaftsgerichts - festgestellt, dass die in der ersten Instanz als Zeugen vernommenen deutschen Landwirte ihr dringendes Aufstockungsbedürfnis plausibel dargelegt haben. Daran ist der Senat gebunden,
+    weil insoweit eine zulässige und begründete Verfahrensrüge nicht erhoben
+    worden ist (§ 27 Abs. 2 LwVG i.V.m. § 559 Abs. 1 ZPO). Der Antragsteller rügt
+    in der Rechtsbeschwerdebegründung lediglich, dass das dringende Aufstockungsbedürfnis nicht nachgewiesen sei. Das genügt nicht den in §§ 559 Abs. 1
+    Satz 2, 551 Abs. 3 Nr. 2a und b ZPO genannten Voraussetzungen; es fehlt an
+    einer bestimmten Bezeichnung der Umstände und Tatsachen, aus denen sich
+    die Rechtsverletzung und der Verfahrensmangel ergeben (vgl. Senat, Beschl. v.
+    29. November 1996, BLw 10/96, WM 1997, 678, 680). Der neue Tatsachenvortrag in der Rechtsbeschwerdebegründung zu der von einem der Zeugen in diesem und in einem anderen Verfahren bekundeten Bereitschaft zur Zahlung unterschiedlich hoher Pachtpreise für ähnliche Flächen, aus der sich der fehlende
+    ernsthafte Bedarf an der Anpachtung ergeben soll, ist nach § 27 Abs. 2 LwVG
+
+                                          -6-
+
+
+
+    i.V.m. § 559 Abs. 1 ZPO nicht Gegenstand der Beurteilung durch das Rechtsbeschwerdegericht, das allein die Richtigkeit der Rechtsanwendung durch das
+    Beschwerdegericht auf der Grundlage des diesem unterbreiteten Sachverhalts
+    nachzuprüfen hat (vgl. Senat, Beschl. v. 28. April 2006, BLw 32/05, RdL 2006,
+    236, 237).
+
+8          2. Nach der vor dem Inkrafttreten des Abkommens ergangenen Rechtsprechung des Senats (BGHZ 101, 95, 99) widerspricht es den Maßnahmen zur
+    Verbesserung der maßgeblichen deutschen Agrarstruktur, wenn landwirtschaftliche Grundstücke auf dem Gebiet der Bundesrepublik Deutschland durch Verpachtung an schweizerische Landwirte, deren Betriebsstätte in der Schweiz
+    liegt, der Nutzung deutscher Vollerwerbslandwirte entzogen werden, die dieses
+    Land dringend zur Schaffung und Erhaltung leistungs- und wettbewerbsfähiger
+    Betriebe benötigen. Das in die schweizerische Agrarstruktur eingebettete Nutzungsinteresse schweizerischer Landwirte muss demgegenüber zurücktreten,
+    so dass im Ergebnis bei der Anwendung von § 4 LPachtVG schweizerische
+    Landwirte mit Betriebssitz in der Schweiz als außerhalb der deutschen Agrarstruktur stehend, mithin wie Nichtlandwirte zu behandeln sind.
+
+9          3. Der Aufrechterhaltung dieser Rechtsprechung stünde es entgegen,
+    wenn das in Art. 15 Abs. 1 des Anhangs I des Abkommens verankerte Gleichbehandlungsgebot nicht nur für Selbständige im Sinne von Art. 12 Abs. 1 des
+    Anhangs I, sondern auch für selbständige Grenzgänger im Sinne von Art. 13
+    Abs. 1 des Anhangs I anzuwenden wäre. Es wäre dann unzulässig, schweizerische Vollerwerbslandwirte mit Betriebssitz in der Schweiz bei der Anwendung
+    von § 4 LPachtVG wie Nichtlandwirte zu behandeln. Ihnen wäre vielmehr eine
+    Behandlung zu gewähren, die nicht weniger günstig ist als die deutschen Vollerwerbslandwirten gewährte Behandlung. Die Rechtsbeschwerde hätte, wenn
+    dies zuträfe, Erfolg.
+
+                                           -7-
+
+
+
+10         a) Der Antragsteller ist selbständiger Grenzgänger.
+
+11         Nach Art. 13 Abs. 1 des Anhangs I des Abkommens ist selbständiger
+     Grenzgänger ein Staatsangehöriger einer Vertragspartei mit Wohnsitz im Hoheitsgebiet einer Vertragspartei, der eine selbständige Erwerbstätigkeit im Hoheitsgebiet der anderen Vertragspartei ausübt und in der Regel täglich oder
+     mindestens einmal in der Woche an seinen Wohnort zurückkehrt. Der Grenzgängereigenschaft steht es nicht entgegen, dass ein schweizerischer Landwirt,
+     der in Deutschland gelegene Pachtflächen von seinem Betriebssitz in der
+     Schweiz aus bewirtschaftetet, diese Flächen gegebenenfalls über mehrere Wochen hinweg nicht aufsucht. Denn das Merkmal der täglichen oder mindestens
+     wöchentlichen Rückkehr an den Wohnort muss schon nach dem Wortlaut der
+     Bestimmung nur "in der Regel" vorliegen; Ausnahmen sind demnach möglich,
+     ohne dass der rechtliche Status des Grenzgängers entfällt. Im Übrigen erfordern auch die tatsächlichen Gegebenheiten ein Absehen von dem Erfordernis
+     des täglichen oder wenigstens wöchentlichen Aufsuchens der Flächen. Denn es
+     gibt Erwerbstätige, bei denen das nicht notwendig ist, weil die Ausübung der
+     selbständigen Tätigkeit in dem fremden Hoheitsgebiet nicht ständig den täglichen oder wöchentlichen Aufenthalt erfordert. Ein Beispiel dafür ist die Bewirtschaftung grenznaher landwirtschaftlicher Flächen vom Ausland aus.
+
+12         b) Ob das in Art. 15 Abs. 1 des Anhangs I des Abkommens verankerte
+     Gleichbehandlungsgebot nicht nur für Selbständige, sondern auch für selbständige Grenzgänger im Sinne von Art. 13 Abs. 1 des Anhangs I gilt, ist fraglich.
+
+13         aa) Einerseits könnte die Geltung des Gleichbehandlungsgebots auch für
+     selbständige Grenzgänger zu bejahen sein. Dafür könnten - dem zwischenzeitlich aufgehobenen Erlass des Ministeriums für Ernährung und Ländlichen Raum
+
+                                           -8-
+
+
+
+     Baden-Württemberg vom 24. April 2003 (Aktenzeichen 41-8481.07, Bl. 37 ff.
+     der Gerichtsakten) folgend - insbesondere die folgenden Gründe sprechen:
+
+14         (1) Anhang I des Abkommens behandelt in seinem Abschnitt III in den
+     Artt. 12 bis 16 unter der Überschrift "Selbständige" auch selbständige Grenzgänger (Art. 13). Dies könnte ein Indiz dafür sein, dass der in Art. 15 Abs. 1 des
+     Anhangs I verankerte Gleichbehandlungsgrundsatz auch für selbständige
+     Grenzgänger gilt, obwohl nach seinem Wortlaut nur "Selbständigen" im Aufnahmestaat eine Behandlung gewährt wird, die nicht weniger günstig ist als die
+     den eigenen Staatsangehörigen gewährte Behandlung.
+
+15         (2) Den Zielen nach Art. 1 des Abkommens, insbesondere dem Ziel, den
+     Staatsangehörigen der anderen Vertragspartei gleiche Lebens-, Beschäftigungs- und Arbeitsbedingungen wie für Inländer einzuräumen (Art. 1 lit. d)),
+     könnte es widersprechen, mit Instrumenten des nationalen Rechts selbständige
+     Grenzgänger schlechter zu stellen als inländische Selbständige.
+
+16         (3) Nach Art. 2 des Abkommens dürfen die Staatsangehörigen einer Vertragspartei, die sich rechtmäßig im Hoheitsgebiet der anderen Vertragspartei
+     aufhalten, bei der Anwendung des Abkommens gemäß den Anhängen I, II und
+     III nicht aufgrund ihrer Staatsangehörigkeit diskriminiert werden. Dies könnte
+     der Behandlung schweizerischer Vollerwerbslandwirte, die Grenzgänger sind,
+     als Nichtlandwirte bei der Anwendung von § 4 LPachtVG entgegenstehen.
+
+17         (4) Nach Art. 25 Abs. 3 des Anhangs I des Abkommens hat ein Grenzgänger hinsichtlich des Erwerbs einer der Ausübung einer Erwerbstätigkeit dienenden Immobilie die gleichen Rechte wie ein Inländer. Es könnte hieraus gefolgert werden, dass die Rechte, die hinsichtlich des Grundstückserwerbs bestehen, erst recht für die Anpachtung von Flächen gelten.
+
+                                           -9-
+
+
+
+18         (5) Nach der Definition in Art. 7 Abs. 1 des Anhangs I des Abkommens
+     ist der abhängig beschäftigte Grenzgänger ein Arbeitnehmer. Der selbständige
+     Grenzgänger wird in Art. 13 des Anhangs I des Abkommens jedoch nicht als
+     Selbständiger bezeichnet. Das führte zu unterschiedlichen rechtlichen Folgen
+     für die berufliche und geographische Mobilität sowie für die Gleichbehandlung
+     der abhängig beschäftigten Grenzgänger (Artt. 8 und 9 des Anhangs I) und der
+     selbständigen Grenzgänger, falls diese keine Selbständige im Sinne der Regelungen in den Artt. 14 und 15 des Anhangs I des Abkommens sind und für die
+     diese Regelungen deshalb nicht ohne Weiteres gelten würden. Eine solche unterschiedliche rechtliche Behandlung der beiden Gruppen von Grenzgängern ist
+     nicht ohne Weiteres einzusehen.
+
+19         bb) Andererseits könnte man jedoch annehmen, dass das in Art. 15
+     Abs. 1 des Anhangs I des Abkommens verankerte Gleichbehandlungsgebot für
+     selbständige Grenzgänger im Sinne von Art. 13 Abs. 1 des Anhangs I nicht gilt.
+     Diese Ansicht vertritt unter Hinweis auf eine "vorläufige Bewertung der Europäischen Kommission" das Ministerium für Ernährung und Ländlichen Raum Baden-Württemberg in seinem Erlass vom 19. Oktober 2004 (Aktenzeichen
+     21-8481.07, Bl. 43 f. der Gerichtsakten). Für ihre Richtigkeit könnte insbesondere folgendes sprechen.
+
+20         (1) Nach dem Wortlaut von Art. 15 Abs. 1 des Anhangs I des Abkommens gilt das Gleichbehandlungsgebot für Selbständige. Selbständige Grenzgänger werden hier nicht erwähnt.
+
+21         (2) Gegen die Berufung auf die Zielbestimmung in Art. 1 des Abkommens könnte sprechen, dass das Abkommen nicht das schrankenlose Erreichen der Ziele gewährleistet, sondern das mit der Freizügigkeit zusammenhängende Recht auf Gleichbehandlung mit Inländern in Bezug auf den Zugang zu
+
+                                          - 10 -
+
+
+
+     einer Erwerbstätigkeit und deren Ausübung sowie auf die Lebens-, Beschäftigungs- und Arbeitsbedingungen in Anhang I regelt (Art. 7 lit. a des Abkommens), in Art. 15 Abs. 1 des Anhangs I aber - wie bereits ausgeführt - selbständige Grenzgänger nicht erwähnt.
+
+22         (3) Art. 2 des Abkommens fordert die Nichtdiskriminierung nicht schrankenlos, sondern lediglich "bei der Anwendung dieses Abkommens". Das könnte
+     dafür sprechen, dass sich ein Recht auf Gleichbehandlung für selbständige
+     Grenzgänger aus dieser Bestimmung nicht ergibt, wenn die spezielle Vorschrift
+     in Art. 15 Abs. 1 des Anhangs I des Abkommens die Gleichbehandlung nur für
+     Selbständige, nicht aber für selbständige Grenzgänger vorsieht.
+
+23         (4) In Art. 25 Abs. 3 des Anhangs I des Abkommens wird ausdrücklich
+     nur der Erwerb von Grundstücken geregelt. Das könnte dafür sprechen, aus
+     dieser Bestimmung keine Folgerungen hinsichtlich der Anpachtung von Flächen
+     zu ziehen.
+
+24         4. Andere Beanstandungsgründe als § 4 Abs. 1 Nr. 1 i.V.m. Abs. 2
+     LPachtVG kommen nicht in Betracht, stehen der Entscheidungserheblichkeit
+     der Vorlagefrage also nicht entgegen. Insbesondere ist § 6 Abs. 1 des badenwürttembergischen Ausführungsgesetzes zum Grundstücksverkehrsgesetz und
+     zum Landpachtverkehrsgesetz (AGGrdstVG) auf den vorliegenden Sachverhalt
+     nicht anwendbar. Danach können Landpachtverträge im Grenzgebiet zur Abwehr erheblicher Gefahren für die Agrarstruktur beanstandet werden, wenn die
+     vereinbarte Pacht den durchschnittlichen ertragsangemessenen Pachtzins vergleichbarer Grundstücke um mehr als 20 Prozent überschreitet.
+
+25         Diese Bestimmung ist indes erst am 27. Dezember 2005 verkündet worden (GBl. 2005, 799) und an dem darauf folgenden Tag in Kraft getreten, mithin
+     nach Abschluss, Anzeige und Beanstandung des Pachtvertrages sowie nach
+
+                                     - 11 -
+
+
+
+Eingang des Antrags auf gerichtliche Entscheidung bei dem Landwirtschaftsgericht. Da eine Übergangsregelung und Rückwirkungsvorschrift fehlt, gilt der allgemeine Rechtsgedanke, der auch in § 12 Abs. 1 LPachtVG Niederschlag gefunden hat, dass Inhalt und Wirkung eines Schuldverhältnisses nach demjenigen Recht zu beurteilen sind, das zur Zeit der Verwirklichung des Entstehungstatbestands galt (BGHZ 10, 391, 394; 44, 192, 194; BGH, Urt. v. 28. September
+1973, V ZR 183/71, WM 1973, 1356; MünchKomm-BGB/Krüger, 4. Aufl.,
+Art. 170 EGBGB Rdn. 3 m.w.N.). Aus dem Umstand, dass es sich bei dem
+Pachtvertrag um ein Dauerschuldverhältnis handelt, folgt nichts anderes, weil
+die Beanstandung die wirksame Entstehung des Vertrages betrifft; der vorgenannte Rechtsgedanke erfährt lediglich hinsichtlich des Fortbestehens eines
+Dauerschuldverhältnisses über den Zeitpunkt des Inkrafttretens neuen Rechts
+hinaus eine Einschränkung, weil die Beteiligten insoweit grundsätzlich mit Änderungen der Rechtslage rechnen müssen (vgl. MünchKomm-BGB/Krüger,
+aaO, Rdn. 9; Palandt/Heinrichs, BGB, 66. Aufl., vor § 241 Rdn. 14). Ein solcher
+Fall liegt hier aber nicht vor.
+
+Krüger                               Lemke                              Czub
+
+
+Vorinstanzen:
+AG Waldshut-Tiengen, Entscheidung vom 04.08.2006 - 4 Lw 5/05 -
+OLG Karlsruhe in Freiburg, Entscheidung vom 16.04.2007 - 13 W 98/06 Lw -
