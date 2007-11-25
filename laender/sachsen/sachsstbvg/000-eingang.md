@@ -1,4 +1,4 @@
 # Gesetz über das Versorgungswerk der Steuerberater und Steuerbevollmächtigten im Freistaat Sachsen (Sächsisches Steuerberaterversorgungsgesetz – SächsStBVG)
 Vom 16. Juni 1999
-Rechtsbereinigt mit Stand vom 1. Januar 2005
+Rechtsbereinigt mit Stand vom 25. November 2007
 Der Sächsische Landtag hat am 19. Mai 1999 das folgende Gesetz beschlossen:
