@@ -1,0 +1,4 @@
+# § 88b Aufstellung und ortsübliche Bekanntgabe des Abschlusses
+(1) Jahresabschluss und Gesamtabschluss sind innerhalb von sechs Monaten nach Ende des Haushaltsjahres aufzustellen und vom Bürgermeister unter Angabe des Datums zu unterzeichnen.
+(2) Der Gemeinderat stellt den Jahresabschluss und den Gesamtabschluss nach der örtlichen Prüfung durch das Rechnungsprüfungsamt spätestens bis 31. Dezember des dem Haushaltsjahr folgenden Jahres fest.
+(3) Der Beschluss über die Feststellung nach Absatz 2 ist der Rechtsaufsichtsbehörde unverzüglich mitzuteilen und zusammen mit dem Jahresabschluss und dem Gesamtabschluss ortsüblich bekannt zu geben. Von einer Bekanntgabe des Anhangs und des Konsolidierungsberichtes kann dabei abgesehen werden. Gleichzeitig sind der Jahresabschluss mit Rechenschaftsbericht und Anhang sowie der Gesamtabschluss mit Konsolidierungsbericht an sieben Arbeitstagen öffentlich auszulegen; hierauf ist in der Bekanntgabe hinzuweisen. 23

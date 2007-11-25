@@ -96,25 +96,28 @@ Gemeindewirtschaft
 Erster Abschnitt
 Haushaltswirtschaft
 § 72 Allgemeine Haushaltsgrundsätze
-§ 73 Grundsätze der Einnahmebeschaffung
+§ 73 Grundsätze der Einnahmenbeschaffung
 § 74 Haushaltssatzung
 § 75 Haushaltsplan
 § 76 Erlass der Haushaltssatzung
 § 77 Nachtragssatzung
 § 78 Vorläufige Haushaltsführung
-§ 79 Überplanmäßige und außerplanmäßige Ausgaben
+§ 79 Abweichungen vom Haushaltsplan
 § 80 Finanzplanung
 § 81 Verpflichtungsermächtigungen
 § 82 Kreditaufnahmen
 § 83 Sicherheiten und Gewährleistung für Dritte
 § 84 Kassenkredite
 § 85 Rücklagen
+§ 85a Rückstellungen
 § 86 Gemeindekasse
 § 87 Übertragung von Kassengeschäften, Automation
-§ 88 Jahresrechnung
+§ 88 Jahresabschluss
+§ 88a Gesamtabschluss
+§ 88b Aufstellung und ortsübliche Bekanntgabe des Abschlusses
 Zweiter Abschnitt
 Vermögen der Gemeinde
-§ 89 Erwerb und Verwaltung von Vermögen
+§ 89 Erwerb und Verwaltung von Vermögen, Wertansätze
 § 90 Veräußerung von Vermögen
 § 91 Sondervermögen
 § 92 Treuhandvermögen
@@ -133,7 +136,7 @@ Unternehmen und Beteiligungen der Gemeinde
 Vierter Abschnitt
 Prüfungswesen
 § 103 Örtliche Prüfungseinrichtungen
-§ 104 Örtliche Prüfung der Jahresrechnung
+§ 104 Örtliche Prüfung des Jahresabschlusses und des Gesamtabschlusses
 § 105 Örtliche Prüfung der Eigenbetriebe
 § 106 Weitere Aufgaben der örtlichen Prüfung
 § 107 – aufgehoben –
@@ -164,5 +167,5 @@ Sonstige Vorschriften
 § 128 Muster für die Haushaltswirtschaft
 § 129 Sonstige Verwaltungsvorschriften
 § 130 Änderung des Sächsischen Brandschutzgesetzes
-§ 131 Experimentierklausel
+§ 131 Übergangsbestimmungen
 § 132 In-Kraft-Treten
