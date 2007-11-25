@@ -1,4 +1,4 @@
 # Gesetz über die Errichtung der Sächsischen Anstalt für kommunale Datenverarbeitung (SAKDG)
 Vom 15. Juli 1994
-Rechtsbereinigt mit Stand vom 16. März 2006
+Rechtsbereinigt mit Stand vom 25. November 2007
 Der Sächsische Landtag hat am 23. Juni 1994 das folgende Gesetz beschlossen:
