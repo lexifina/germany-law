@@ -1,0 +1,6 @@
+# TOP I.: Öffentliche Sitzung
+
+- Sitzung: Rechnungsprüfungsausschuss (4. Sitzung) (2007-11-26)
+- Körperschaft: Gemeinde Stemwede
+- Öffentlich: ja
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/3503
