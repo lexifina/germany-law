@@ -1,0 +1,8 @@
+# TOP 4: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2006
+
+- Sitzung: öffentliche Sitzung des Betriebsausschusses für das Gebäudemanagement (2007-11-27)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=22680
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=5687&bi=4095
