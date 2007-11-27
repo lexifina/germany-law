@@ -1,0 +1,54 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-11-27T17:00:00+01:00
+- Ende: 2007-11-27T00:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2180
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2180
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096776.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096776.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096776.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Vorstellung des neuen Leiters der Polizeiinspektion-Nord Dieter Topka
+- TOP 3: Genehmigung Niederschrift
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Zuschüsse zu kulturellen Veranstaltungen
+- TOP 6: Verwendung von Haushaltsmitteln
+- TOP 7: Sozialraumerkundungen mit Senioren
+- TOP 8: Durchgangsverkehr Zweibrückenstraße
+- TOP 9: Durchgangsverkehr Zweibrückenstraße
+- TOP 10: F 95
+- TOP 11: Radweg Staufenplatz
+- TOP 12: Bahnhofsbüdchen
+- TOP 13: Absicherung der Bauaufsicht Pipeline
+- TOP 14: Enteignung wegen Pipeline
+- TOP 15: Tiefgarage Benderstraße
+- TOP 16: Bleuchtung Otto-Götzen-Weg
+- TOP 17: Aufstellen von Fahrradständern
+- TOP 18: Reinigung des Kriegerdenkmals Auf dem Gerresheimer Waldfriedhof
+- TOP 19: Wegweisung zur neuen 4-fach-Halle
+- TOP 20: Verbesserung der Parksituation in Gerresheim
+- TOP 21: Spielplatz Derner Hof
+- TOP 22: Ausschreibung Kindertageseinrichtung Von-Gahlen-Straße
+- TOP 23: Gleisanschluss Gerresheimer Glashütte
+- TOP 24: Bauaufsicht Pipeline
+- TOP 25: Dernbuschweg / Rotthäuser Weg
+- TOP 26: Grünschnitt
+- TOP 27: Arbeitskreise
+- TOP 28: Haushalt 2008
+- TOP 29: Wegeverbindung Blanckertzstr./Hülsmeyerstr.
+- TOP 30: Kohlenmonoxid-Leitung Hubbelrath
+- TOP 31: Planungen im Bereich des Pillebachs
+- TOP 32: Neue Mobilfunksendeanlagen
+- TOP 33: Am Wallgraben 38
+- TOP 34: Gestaltung des Hochbeetes Gerricusplatz
+- TOP 35: Kinderspielplatz "Am Geisterberg"
+- TOP 36: CO-Pipeline Hubbelrath
+- TOP 37: Baumpflanzungen und Baumfällungen
