@@ -1,0 +1,54 @@
+# 33. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-11-29T16:30:00+01:00
+- Ende: 2007-11-29T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5954
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5954
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00257179.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NW
+- TOP 3: Beantwortung von Anfragen
+- TOP 3.1: Verkehrssicherheit auf dem Asbeckweg und Ramertsweg - zur Kenntnis genommen
+- TOP 3.2: Weiterer Ausbau der Austermannstraße (Kinderbachtal) - zur Kenntnis genommen
+- TOP 4: Berichte
+- TOP 4.1: Verkehrsuntersuchung zum Hansa-BusinessPark Münster - zur Kenntnis genommen
+- TOP 4.2: Geplante Veranlagungen in 2008 zu Erschließungsbeiträgen nach dem Baugesetzbuch (BauGB) - zur Kenntnis genommen
+- TOP 5: Entscheidungen
+- TOP 5.1: Vergabe eines Bürgerpreises durch die Bezirksvertretung Münster-West - vertagt
+- TOP 5.2: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen - einstimmig geändert beschlossen
+- TOP 5.3: Radwegenetz in Mecklenbeck optimieren und erweitern - Einrichtung einer Fahrradstraße A - einstimmig beschlossen
+- TOP 5.4: Umbenennung des Carl-Diem-Weges - von der Tagesordnung abgesetzt
+- TOP 5.5: Maßnahmenprogramm 2008 des Tiefbauamtes für die bezirklichen Baumaßnahmen im Bezirk West - einstimmig geändert beschlossen
+- TOP 5.6: Erschließungsstraße im "Gewerbegebiet Nienberge Steinfurter Straße / B 54 / A 1" , Bebauunsplan Nr. - einstimmig beschlossen
+- TOP 6: Anhörungen
+- TOP 6.1: Satzung zur Änderung der Hauptsatzung - mehrheitlich beschlossen
+- TOP 6.2: Konzeption zur Bewirtschaftung und Unterhaltung der öffentlichen Toilettenanlagen im Stadtbezirk MS - einstimmig beschlossen
+- TOP 6.3: Errichtungsbeschluss zum Neubau des Feuerwehrgerätehauses in Gievenbeck - einstimmig beschlossen
+- TOP 6.4: Neubau eines Mensagebäudes für die Droste-Hauptschule und die Augustin Wibbelt-Schule Roxel im Rahme - einstimmig beschlossen
+- TOP 6.5: Verbesserungen an Haltestellen - Programm 2008 - einstimmig beschlossen
+- TOP 6.6: Bebauungsplan Nr. 412, vorhabenbezogene 3. Änderung - mehrheitlich beschlossen
+- TOP 6.7: Zentrumserweiterung südlich der St. Anna Kirche in Mecklenbeck - einstimmig geändert beschlossen
+- TOP 6.8: Genehmigung der Dringlichkeitsentscheidung zum Erlass der Veränderungssperre Nr. 98 - einstimmig beschlossen
+- TOP 6.9: Bebauungsplan Nr. 396, 3. Änderung - Erweiterung des Änderungsbeschlusses - einstimmig beschlossen
+- TOP 6.10: Bebauungsplan Nr. 507 - Beschluss über die Stellungnahmen - Satzungsbeschluus - einstimmig geändert beschlossen
+- TOP 6.11: Beantragung und Bewilligung von Zuschussmaßnahmen nach Förderrichtlinien Stadtverkehr (FöRi-Sta) - mehrheitlich beschlossen
+- TOP 6.12: Maßnahmenprogramm 2008 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk West - einstimmig beschlossen
+- TOP 6.13: Folgeregelung für den Kindertageseinrichtungsstandort Gescherweg, Gievenbeck - einstimmig geändert beschlossen
+- TOP 6.14: Sanierung auf der Sportanlage Nienberge - einstimmig beschlossen
+- TOP 6.15: Baumaßnahmen von Münsteraner Sportvereinen - einstimmig beschlossen
+- TOP 7: Vorschläge und Anregungen
+- TOP 7.1: Verkehrssicherheit auf dem Asbeckweg - vertagt
+- TOP 7.2: Optimierung der Öffnungs-/Schließzeiten am Bahnübergang Heroldstraße/Am Getterbach - zur Kenntnis genommen
+- TOP 7.3: Zufahrtssituation EDEKA Markt Albachten - eingebracht
+- TOP 7.4: Verkehrssicherheit auf dem Ramertsweg/Borkenfeld - vertagt
+- TOP 7.5: Handlungskonzept Radverkehrsplanung 2014 im Bereich der BV West - eingebracht
+- TOP 7.6: Überwachung des Durchfahrverbots "Rottkamp / Wierling" in Münster-Albachten - eingebracht
+- TOP 8: Verschiedenes - zur Kenntnis genommen
