@@ -2,7 +2,7 @@
 
 - Herausgeber: Land Brandenburg
 - Datum: 2007-11-30 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/be_temnitztal_2004
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/be_wolfsluch_2005
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -28,81 +28,89 @@ A |
 Aktuelle Fassung
 Anlagen (2)                    Änderungshistorie
 
-Erlass des Ministeriums für Landwirtschaft, Umweltschutz und Raumordnung zur Bekanntmachung der Erhaltungsziele nach § 33 Absatz 4 des Bundesnaturschutzgesetzes und zur Bewirtschaftung des Fauna-Flora-Habitat-Gebietes „Oberes Temnitztal“
+Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz zur Bekanntmachung der Erhaltungsziele nach § 26b Absatz 3 des Brandenburgischen Naturschutzgesetzes und zur Bewirtschaftung des Fauna-Flora-Habitat-Gebietes "Wolfsluch"
 
-vom 22. März 2004
+vom 14. Dezember 2005
 
-(ABl./04, [Nr. 22], S.386)
+(ABl./06, [Nr. 5], S.114)
 
 geändert durch Bekanntmachung des MLUV vom 30. November 2007
 
 (ABl./08, [Nr. 3], S.115)
 
-Dieser Erlass regelt auf der Grundlage des § 33 Abs. 4 des Bundesnaturschutzgesetzes (BNatSchG) vom 25. März 2002 (BGBl. I S. 1193) die erforderlichen Maßnahmen zur Umsetzung von Artikel 6 der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. EG Nr. L 206 S. 7), zuletzt geändert durch die Richtlinie 97/62/EG vom 27. Oktober 1997 (ABl. EG Nr. L 305 S. 42), - Fauna-Flora-Habitat-Richtlinie (FFH-Richtlinie). Er legt die unter Nummer 4 genannten Erhaltungsziele fest sowie die erforderlichen Erhaltungsmaßnahmen und deren Umsetzungsinstrumente in Anlage 2. Die Umsetzung ist durch die zuständigen Behörden zu gewährleisten.
+Dieser Erlass regelt auf der Grundlage des § 26b Abs. 3 des Brandenburgischen Naturschutzgesetzes (BbgNatSchG) in der Fassung der Bekanntmachung vom 26. Mai 2004 (GVBl. I S. 350) die erforderlichen Maßnahmen zur Umsetzung von Artikel 6 der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. EG Nr. L 206 S. 7), zuletzt geändert durch die Richtlinie 97/62/EG vom 27. Oktober 1997 (ABl. EG Nr. L 305 S. 42) - Fauna-Flora-Habitat-Richtlinie (FFH-Richtlinie). Er legt die unter Nummer 4 genannten Erhaltungsziele fest sowie die erforderlichen Erhaltungsmaßnahmen und deren Umsetzungsinstrumente in Anlage 2. Die Umsetzung ist durch die zuständigen Behörden zu gewährleisten.
 
 1 Bewirtschaftungsgegenstand
 
-Die in Anlage 1 (Übersichtsskizze) näher bezeichnete Fläche im Landkreis Ostprignitz-Ruppin wurde als Fauna-Flora-Habitat-Gebiet (FFH-Gebiet) mit der Bezeichnung „Oberes Temnitztal“ und der Gebietsnummer DE-2941-301 an die Europäische Kommission gemeldet. Das Gebiet hat eine Größe von rund 64 Hektar und umfasst Flächen in folgenden Fluren:
+Die in Anlage 1 (Übersichtsskizze) näher bezeichnete Fläche im Landkreis Oberhavel wurde als Fauna-Flora-Habitat-Gebiet mit der Bezeichnung “Wolfsluch“ und der Gebietsnummer DE-2944-301 in die Liste der Gebiete von gemeinschaftlicher Bedeutung der Europäischen Kommission aufgenommen. Das Gebiet hat eine Größe von rund 297 Hektar und umfasst Flächen in folgenden Fluren:
 
 | Gemeinde: | Gemarkung: | Flur:
 
-| Temnitzquell
+| Großwoltersdorf
 
-| Pfalzheim
+| Wolfsruh
 
-| 1
-
-
-| Temnitzquell
-
-| Pfalzheim
-
-| 2
+| 3;
 
 
-| Temnitzquell
+| Großwoltersdorf
 
-| Rägelin
+| Sonnenberg
 
-| 2
-
-
-| Temnitzquell
-
-| Rägelin
-
-| 4
+| 3.
 
 
-Die Grenze des Gebietes ist in Flurkarten festgelegt. Maßgeblich ist die Abgrenzung in den Flurkarten. Die Biotopkarte, die Karte der FFH-Lebensraumtypen (LRT) und die Zielkarte zum Gebiet sind mit Flurkarten und einer Flurstücksliste beim Landesumweltamt in Potsdam, beim Landkreis Ostprignitz-Ruppin als untere Naturschutzbehörde in Neuruppin und im Amt Temnitzquell in Walsleben einsehbar.
+Die Grenze des Geltungsbereiches dieses Erlasses ist in der Übersichtsskizze (Anlage 1), in der zum Erlass gehörenden Biotoptypenkarte im Maßstab 1 : 10.000, der Karte der FFH-Lebensraumtypen (LRT) im Maßstab 1 : 10.000 und der Zielkarte im Maßstab 1 : 10.000 sowie in Flurkarten (Blätter 1 und 2) eingezeichnet. Als Grenze gilt der innere Rand dieser Linie. Maßgeblich ist die Abgrenzung in den Flurkarten. Diese Karten sind mit einer Flurstücksliste beim Landesumweltamt in Potsdam, beim Landkreis Oberhavel als untere Naturschutzbehörde in Oranienburg, bei dem Amt Gransee und Gemeinden in Gransee sowie bei dem Amt für Forstwirtschaft Templin von jedermann während der Dienstzeiten einsehbar.
 
 2 Beschreibung des FFH-Gebietes
 
-Das FFH-Gebiet umfasst den zwischen Pfalzheim und Rägelin liegenden Oberlauf der Temnitz einschließlich seiner Talbereiche. Es ist Bestandteil der naturräumlichen Einheit Wittstock-Ruppiner Heide. Es handelt sich um ein vom Quellbereich ausgehend langsam verbreiterndes Tal mit deutlich sichtbaren Hangkanten. An den Hangfüßen entspringen zahlreiche Quellen. Die Temnitz ist ein schnell fließender Bachlauf. Im Talbereich finden sich meist moorige bis anmoorige Böden. Lediglich im südwestlichen Bereich sind Hügelkuppen mit sandigen Böden vertreten. Das Gebiet ist geprägt durch extensiv genutzte oder aufgelassene Grünlandbereiche feuchter bis frischer Standorte sowie kleinerer Erlenbrüche und Weidengebüsche. Auf den höher gelegenen Kuppen befinden sich Trocken- und Halbtrockenrasen in Verbindung mit kleineren Feldgehölzen und Vorwäldern sowie Nadelholzforsten.
+Das FFH-Gebiet befindet sich südlich von Großwoltersdorf in der naturräumlichen Haupteinheit des Mecklenburg-Branden-burgischen Platten- und Hügellandes. Als größeres zusammenhängendes Waldgebiet in der Landschaftseinheit der “Granseer Platte“, welche stark durch Landwirtschaft geprägt wird, erfüllt es seit Jahrhunderten eine wichtige ökologische Funktion für den Biotopverbund und als Brutgebiet für störungsempfindliche Großvogelarten. Das Gebiet ist ein Refugium für viele Tierarten und wird geprägt durch eine naturnahe Bestockung von Wald-meister-Buchenwald (Asperulo-Fagetum), subatlantischen oder mitteleuropäischen Stieleichenwald oder Hainbuchenwald (Carpinion betuli, Stellario-Carpinetum), Hainsimsen-Buchenwald (Luzulo-Fagetum), Erlenwald (Alno-Padion) sowie durch Lab-kraut-Eichen-Hainbuchenwald (Galio-Carpinetum).
 
-3 Beschreibung und Bewertung der Lebensraumtypen nach Anhang I und der Arten nach Anhang II der FFH-Richtlinie sowie deren ökologische Erfordernisse
+3 Beschreibung, Bewertung und ökologische Erfordernisse der Lebensraumtypen nach Anhang I und der Arten nach Anhang II der FFH-Richtlinie
 
-Flüsse (Temnitz) der planaren Stufe mit Vegetation des Ranunculion fluitantis und des Callitricho-Batrachion, Lebensraumtyp-Nummer (LRT-Nummer) 3260/Größe: rund 0,5 Hektar, Erhaltungszustand B
+Hainsimsen-Buchenwald (Luzulo-Fagetum), Lebensraumtyp Nummer 9110, Größe: circa 6 Hektar, Erhaltungszustand B
 
-Die Temnitz ist ein schnell fließender, sauerstoffreicher Bachlauf, der von mehreren Hangquellen gespeist wird. Im mittleren und südlichen Bereich des Gebietes wurde der Bachlauf teilweise begradigt. Eine Verbauung der Ufer und der Sohle ist nicht erfolgt. Räumungen des Bachbettes wurden in den vergangenen Jahren nicht vorgenommen. Beschattete und unbeschattete Gewässerabschnitte wechseln einander ab. Sofern weiterhin keine Unterhaltungsmaßnahmen vorgenommen werden, kann der Bach seine weitgehend natürliche Fließgewässerdynamik erhalten und eine abwechslungsreiche Gewässerstruktur entwickeln. Bei extensiver Nutzung auf den an das Gewässer angrenzenden Flächen findet ein geringer Nährstoffeintrag statt. Die chemisch-biologische Gewässergüteklasse 2 ist zu erhalten.
+Der Hainsimsen-Buchenwald ist vorwiegend im Zentrum und im Osten des FFH-Gebietes zu finden. Er wird geprägt durch alte Buchenbestände, die bereits erste Verjüngungsansätze zeigen. Der Hainsimsen-Buchenwald ist ein bodensaurer, krautarmer Buchenwald - hier oft mit Eiche - (Quercus petraea und Quercus robur) in der Baumschicht. Er steht auf basenarmen, lehmigen bis sandigen Standorten mit Moder als Humusform. Es finden sich dichte Falllaubdecken, die bis zu 95 Prozent des Bodens bedecken. Als charakteristische Pflanzen- und Moosarten treten hier Haar-Hainsimse, Schattenblümchen, Sauerklee, Pillensegge, Waldwachtelweizen, Buschwindröschen, Waldbürstenmoos und Sternmoos auf. Der Hainsimsen-Buchenwald weist viel Altholz auf und zeichnet sich durch seinen Strukturreichtum aus. Es gibt geringe Beeinträchtigungen durch Wege und geringe Beeinträchtigungen des Wasserhaushaltes durch Gräben.
 
-Auenwälder mit Alnus glutinosa und Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae), LRT-Num-mer 91E0/Größe: rund 5 Hektar, Erhaltungszustand B
+Der Lebensraumtyp ist nach § 32 BbgNatSchG geschützt. Im Rahmen der forstwirtschaftlichen Nutzung soll er erhalten und naturgemäß entwickelt werden.
 
-Als LRT ist ausschließlich der Subtyp Schwarzerlenwald (Nummer 430403) im Gebiet vorhanden. Es handelt sich um Restbestände, die bachbegleitend als Galeriewald vorkommen oder an Quellbereichen und aufgelassenen Teichen kleine Wäldchen bilden. Auf Teilflächen sind starke Wildschäden insbesondere durch Verbiss festzustellen. Die hohen Grundwasserstände, die natürliche Quelltätigkeit sowie die Überflutungsdynamik im Gebiet sind zu erhalten. Angestrebt wird eine den Lebensraum erhaltende forstliche Bewirtschaftung. Der Lebensraumtyp ist nach § 32 des Brandenburgischen Naturschutzgesetzes (BbgNatSchG) geschützt.
+Waldmeister-Buchenwald (Asperulo-Fagetum), Lebensraumtyp Nummer 9130, Größe: circa 40 Hektar, Erhaltungszustand B
 
-Feuchte Hochstaudenfluren der planaren Stufe, LRT-Nummer 6430/Größe: rund 1,6 Hektar, Erhaltungszustand C
+Der Waldmeister-Buchenwald findet sich in der Mitte des FFH-Gebietes. Er setzt sich aus Buchenbeständen zusammen, die sich teilweise schon verjüngen. Der Waldmeister-Buchenwald steht auf neutralen, aber basenreichen Böden. Als charakteristische Pflanzenarten kommen Waldmeister, Einblütiges Perlgras, Waldveilchen und Dreinervige Nabelmiere vor. Der Waldmeister-Buchenwald weist gute Habitatqualitäten auf. Es gibt geringe Beeinträchtigungen durch Wege und Beeinträchtigungen des Wasserhaushaltes durch Gräben.
 
-Der LRT erstreckt sich bachbegleitend auf 70 Prozent der Streckenlänge im Offenlandbereich und innerhalb der Erlenbrücher. Angestrebt ist der Erhalt beziehungsweise die Schaffung günstiger Standortbedingungen entlang der Gewässerufer, das heißt, die Gewährleistung hoher Grundwasserstände und geringer Nährstoffzufuhr von den angrenzenden Flächen. Die regelmäßige, jährliche Nutzung der Uferränder durch Beweidung oder Mahd ist ebenso zu vermeiden wie die Sukzession der Flächen. Der Lebensraumtyp ist nach § 32 BbgNatSchG geschützt.
+Der Lebensraumtyp ist nach § 32 BbgNatSchG geschützt. Im Rahmen der forstwirtschaftlichen Nutzung soll er erhalten und naturgemäß entwickelt werden. Bemerkenswert ist das für das Gesamtgebiet sehr hohe Entwicklungspotenzial dieses Lebensraumtyps von etwa 26 Hektar.
 
-Fischotter (Lutra lutra), Erhaltungszustand B
+Mitteleuropäischer Stieleichenwald oder Hainbuchenwald (Stellario-Carpinetum, Carpinion betuli), Lebensraumtyp Nummer 9160, Größe: circa 44 Hektar, davon Erhaltungszustand A 1 Hektar, Erhaltungszustand B 43 Hektar
 
-Der Fischotter benötigt großflächig vernetzte semiaquatische Lebensräume. Die im Gebiet lebende Population ist innerhalb des erweiterten Verbreitungsgebietes nicht isoliert. Zur Erhaltung des Habitates ist die derzeitige Gewässerdynamik im Gebiet beizubehalten. Die Zerschneidung von Migrationskorridoren durch Verkehrstrassen oder Ufer- und Sohlbefestigungen ist zu vermeiden. Die Uferbereiche sind in naturnahem und störungsarmem Zustand zu erhalten.
+Der Schwerpunkt des Sternmieren-Eichen-Hainbuchenwaldes liegt im Westen des Gebietes. Er kommt primär auf für Buche ungeeigneten, vernässten Standorten und sekundär aufgrund der historischen Nutzung als Ersatzgesellschaft ersten Grades von Buchenwäldern vor. Auf den trockeneren Standorten verdrängt im Wolfsluch die einsetzende Buchenverjüngung den Eichen-Hainbuchenwald. Im Gebiet steht der Sternmieren-Eichen-Hainbuchenwald auf zeitweilig feuchten Böden mit hohem Grundwasserstand. Durchschnittlich sind 1 bis 7 Stieleichenüberhälter je Hektar mit Durchmessern von 0,8 bis 1,5 Meter vorhanden. Der Sternmieren-Eichen-Hainbuchenwald weist mit seiner besonderen Naturnähe, hohem Altholzanteil und Strukturreichtum gute Habitatqualitäten auf. Die Beeinträchtigungen durch Wege sind gering, jedoch ist der Wasserhaushalt durch Gräben beeinträchtigt.
 
-Schmale Windelschnecke (Vertigo angustior), Erhaltungszustand C
+Der Lebensraumtyp ist nach § 32 BbgNatSchG geschützt. Im Rahmen der forstwirtschaftlichen Nutzung soll er erhalten und naturgemäß entwickelt werden.
 
-Der Fundort der Schmalen Windelschnecke befindet sich im südlichen Bereich des FFH-Gebietes, westlich der Temnitz. Die Windelschnecke benötigt als Lebensraum Feuchtwiesenbereiche mit Seggenbeständen. Die hohen Grundwasserstände im Gebiet sind zu erhalten. Ferner sind eine extensive Nutzung und der geringe Nährstoffeintrag zum Erhalt des Habitates erforderlich.
+Labkraut-Eichen-Hainbuchenwald (Galio-Carpinetum), Lebensraumtyp Nummer 9170, Größe: circa 11 Hektar, davon Erhaltungszustand B 3 Hektar, Erhaltungszustand C 8 Hektar
 
-Erhaltungszustand
+Der Labkraut-Eichen-Hainbuchenwald kommt im Westen und in der Mitte des FFH-Gebietes vor. Der Labkraut-Eichen-Hainbuchenwald steht auf stärker tonig-lehmigen und wechseltrockenen Böden, meist in wärmebegünstigter Lage. Er stellt aufgrund der historischen Nutzung eine Ersatzgesellschaft ersten Grades von Buchenwäldern dar. Der Labkraut-Eichen-Hainbuchenwald weist in seiner naturnahen Bestockung und in seinem Strukturreichtum in einigen Teilgebieten gute Habitatqualitäten auf. Beeinträchtigungen sind aufgrund der Wegeführungen und infolge des Wasserhaushaltes durch Gräben vorhanden.
+
+Der Lebensraumtyp ist nach § 32 BbgNatSchG geschützt. Im Rahmen der forstwirtschaftlichen Nutzung soll er erhalten und naturnah entwickelt werden.
+
+Auen-Wälder mit Alnus glutinosa (Schwarz-Erle) und Fraxinus excelsior (Gewöhnliche Esche, Alno-Padion), Lebensraumtyp Nummer 91E0, Größe: circa 15 Hektar, Erhaltungszustand B
+
+Der Erlenwald kommt im Norden und Westen des FFH-Gebietes als quelliger, durchsickerter Wald mit Schwarzerle auf nährstoffund basenreicheren mineralischen und organischen Nassstandorten vor. In der Strauchschicht treten Faulbaum, Schwarzer Holunder, Pfaffenhütchen, zum Teil auch Hasel und spätblühende Traubenkirsche auf. Die Bodenvegetation ist üppig, geprägt durch Sumpfreitgras, Seggenarten, Sumpffarn, Gilbweiderich, Brennnessel, Kleb-Labkraut, Nelkenwurz, Giersch, Springkraut, Rasenschmiele, Flattergras und Waldzwenke. Der Erlenwald weist gute Habitatqualitäten auf. Die Beeinträchtigungen durch Wege sind gering; der Wasserhaushalt ist durch Gräben beeinträchtigt.
+
+Der Lebensraumtyp ist nach § 32 BbgNatSchG geschützt. Im Rahmen der forstwirtschaftlichen Nutzung soll er erhalten und naturgemäß entwickelt werden.
+
+Mopsfledermaus (Barbastella barbastellus), Erhaltungszustand B
+
+Diese mit circa 10 Gramm Körpergewicht eher kleine bis mittelgroße Fledermausart ist in Deutschland extrem selten und vom Aussterben bedroht. Die Mopsfledermaus bewohnt bevorzugt enge Spaltenquartiere mit Bauch- und Rückenkontakt an Bäumen hinter abstehender Rinde, gebietsweise auch hinter Fensterläden an Gebäuden, immer jedoch in der Nähe von Wäldern oder im Wald selbst. Durch den Strukturreichtum und den Totholzanteil hat das Gebiet gute Habitatqualitäten für die Mopsfledermaus. Kleine Wochenstubengesellschaften mit oft nicht mehr als 10 bis 15 Weibchen wechseln sehr häufig, manchmal täglich, ihr Versteck. Die Jagd erfolgt zu einem Großteil in Wäldern in Höhe der Baumkronen. In relativ schnellem Flug nutzt die Mopsfledermaus auch Waldwege als Verbindungselement zwischen zwei Jagdgebieten. Winterquartiere sind zum überwiegenden Teil unterirdisch und sollen - ebenso wie ein hoher Totholzanteil - erhalten und entwickelt werden.
+
+Großes Mausohr (Myotis myotis), Erhaltungszustand B
+
+Die größte einheimische Fledermausart wiegt circa 30 Gramm. Wochenstuben können sehr individuenreich sein und sind in der Regel in Dachstühlen von Kirchen und großen Gebäuden zu finden. Es können Kolonien mit bis zu mehreren hundert Weibchen vorkommen. Nur die Männchen beziehen im Sommer Baumhöhlenquartiere im Wald. Zur Jagd fliegen sämtliche Tiere in den Wald, wo sie zu drei Vierteln ihrer Zeit jagen. Deshalb müssen großflächige geeignete Wälder im Umfeld um Wochenstubenquartiere vorhanden sein. Diese zeichnen sich durch teilweise unbedeckten Boden aus. Hier kann das Mausohr die Jagd nach Laufkäfern, der Hauptbeute, am besten ausüben. Hallenwaldartige Waldbestände wie hier im Gebiet kommen den Ansprüchen am ehesten entgegen: ein hindernisfreier Luftraum in Bodennähe für den langsamen Suchflug und eine schüttere Laubschicht, die Raschelgeräusche der Laufkäfer verursacht. Nur ausnahmsweise wurden Mausohren in Baumhöhlen im Winterschlaf gefunden. Die unterirdischen Winterquartiere müssen erhalten bleiben und ein hoher Totholzanteil soll entwickelt werden.
+
+Fischotter (Lutra lutra), Erhaltungszustand C
+
+Das Gebiet wird vom Fischotter genutzt und benötigt großflächig vernetzte semiaquatische Lebensräume. Die von Gräben durchzogenen nassen und feuchten Waldbereiche bieten gute Habitatseigenschaften für das Vorkommen der Art. Die Zerschneidung von Wanderungskorridoren durch Verkehrstrassen oder Ufer- und Sohlbefestigungen sind zu vermeiden; die Uferbereiche sind in naturnahem und störungsarmem Zustand zu erhalten.
+
+Erhaltungszustand:
 
 A - hervorragender Erhaltungszustand
 
@@ -112,68 +120,50 @@ C - durchschnittlicher oder beschränkter Erhaltungszustand
 
 4 Erhaltungsziele
 
-Ziel ist die Erhaltung
+Ziele sind die Erhaltung des Hainsimsen-Buchenwaldes (Luzulo-Fagetum), des Waldmeister-Buchenwaldes (Asperulo-Fagetum), des subatlantischen oder mitteleuropäischen Stieleichenwaldes oder Hainbuchenwaldes (Carpinion betuli, Stellario-Carpinetum), des Labkraut-Eichen-Hainbuchenwaldes (Galio-Carpinetum), die Entwicklung des Auen-Waldes mit Alnus glutinosa (Schwarz-Erle) und Fraxinus excelsior (Gewöhnliche Esche, Alnio-Padion), die Entwicklung der Population des Fischotters (Lutra lutra) sowie die Erhaltung und Wiederherstellung der Lebensräume der Mopsfledermaus (Barbastella barbastellus), der Lebensräume des Großen Mausohrs (Myotis myotis).
 
-der Temnitz als Fluss der planaren Stufe mit Vegetation des Ranunculion fluitantis und des Callitricho-Batrachion (Fließgewässergesellschaften),
+5 Bestand und Bewertung weiterer Biotope
 
-der Auenwälder mit Alnus glutinosa (Schwarzerle) und Fraxinus excelsior (Gemeine Esche) und
+nach § 32 BbgNatSchG geschützte Biotope,
 
-der Population des Fischotters (Lutra lutra)
+Biotope, die Einfluss auf die in Nummer 3 aufgeführten Lebensraumtypen nach Anhang I der FFH-Richtlinie und Arten nach Anhang II der FFH-Richtlinie haben:
 
-sowie die Entwicklung und Wiederherstellung
+Birkenvorwälder feuchter Standorte (§ 32 BbgNatSchG)
 
-der feuchten Hochstaudenfluren der planaren Stufe und
+Der Birkenvorwald in der Forst-Abteilung 4437, Teilfläche a3 ist das Vorwaldstadium auf einem feuchten, jedoch nicht moorigen Standort, der auf einem seit längerer Zeit aufgelassenen Feuchtgrünland entstanden ist. Dieser Vorwald soll sich in freier Sukzession entwickeln.
 
-der Population der Schmalen Windelschnecke (Vertigo angustior).
+Reiche Feuchtwiese (§ 32 BbgNatSchG)
 
-5 Bestand und Bewertung der nach § 32 BbgNatSchG geschützten Biotope sowie von Biotopen, die Einfluss auf die in Nummer 3 aufgeführten LRT und Arten haben
+Die Feuchtwiese in der Forst-Abteilung 4437 kommt in einer artenreichen Ausprägung auf einem mineralischen Nassstandort vor. In ihrer bisherigen Pflege wurde sie nicht gedüngt. Je nach Wasserstand wurde sie einmal im Jahr gemäht. Die extensive Bewirtschaftung soll beibehalten werden.
 
-Ungefasste Quellbereiche mit und ohne Gehölzbewuchs (§ 32 BbgNatSchG)
+Temporäres Kleingewässer (§ 32 BbgNatSchG)
 
-Im Gebiet liegen zwei Quellbereiche mit jeweils mehreren Quellen. Diese Bereiche sollen nicht genutzt werden.
+Das temporäre Kleingewässer in der Forst-Abteilung 4439 ist ein periodisch wasserführendes Stillgewässer mit geringer Tiefe und Fläche (kleiner als 1 Hektar). Es kommen dort seltene Wasserpflanzen vor; die aufgegebene Bewirtschaftung soll weiterhin unterbleiben.
 
-Teiche
+Gräben (§ 32 BbgNatSchG)
 
-Die beiden Teiche liegen nördlich von Rägelin. Der westliche Teich wird als Angel- und Badegewässer genutzt, während der Teich zur Temnitz hin nur schwer zugänglich und zum Teil verlandet ist. Maßnahmen zur Aufwertung der Teiche sind nicht erforderlich.
+Es handelt sich um mehrere zum “Mühlenfließ“ und zum “Gierengraben“ hin entwässernde Gräben. Die Gräben wurden in den vergangenen Jahren geräumt. Die Bewirtschaftung der Gräben soll der Wiederherstellung des natürlichen Wasserhaushaltes im Wolfsluch dienen. Sie soll gemäß der Richtlinie für die naturnahe Unterhaltung und Entwicklung von Fließgewässern im Land Brandenburg erfolgen oder wenn möglich aufgegeben werden, damit eine Wasserrückhaltung im Gebiet gewährleistet werden kann. Einige Gräben sollen zur Wiedervernässung des Waldes angestaut werden.
 
-Gräben
+Wald- und Forstflächen
 
-Es handelt sich um mehrere zur Temnitz hin entwässernde Gräben, die für die Entwässerung der Quellbereiche an den Hangkanten angelegt worden sind. Die Gräben wurden in den vergangenen Jahren nicht geräumt. Es sollte auch weiterhin keine Grabenpflege erfolgen, damit eine erhöhte Wasserrückhaltung im Gebiet gewährleistet werden kann.
-
-Trocken- und Halbtrockenrasen (§ 32 BbgNatSchG)
-
-Diese Flächen finden sich im südlichen Bereich des FFH-Gebietes auf Sandkuppen. Sie sind teilweise ruderalisiert, auf Teilflächen finden sich fortgeschrittene Sukzessionsbereiche. Auf den Flächen sollte eine extensive Grünlandpflege in Form von Mahd oder Beweidung durch Schafe oder Rinder erfolgen.
-
-Grünland frischer bis feuchter Standorte (teilweise § 32 BbgNatSchG)
-
-Es handelt sich um weitgehend extensiv genutztes Grünland beziehungsweise aus jagdlichen Gründen gemähte Flächen. Bis auf zwei kleinere Teilbereiche im Westen und Norden des Gebietes liegen die genutzten Grünlandflächen überwiegend im Süden des Gebietes. Eine extensive Grünlandbewirtschaftung nach den Maßgaben der Agrarumweltprogramme soll aufrechterhalten werden.
-
-Aufgelassenes Grünland frischer bis feuchter Standorte
-
-Die aufgelassenen Grünlandstandorte befinden sich im mittleren und nördlichen Teil des FFH-Gebietes. Es dominieren nitrophile Hochstauden oder Röhricht-Großseggenverbände. Aufgrund der hohen Wasserstände ist eine regelmäßige, landwirtschaftliche Bodennutzung nicht mehr zu gewährleisten. Auf diesen Flächen soll eine Auwaldentwicklung durch Sukzession erfolgen.
-
-Aus naturschutzfachlicher Sicht ist auch die Wiederaufnahme der landwirtschaftlichen Grünlandnutzung vertretbar, sofern sie in extensiver Form erfolgt.
-
-Feldgehölze, Baumreihen und kleine Wäldchen
-
-Die Gehölze sind zu erhalten. Bei Nachpflanzungen sind standorttypische Gehölze heimischer Herkunft zu verwenden.
+Die sonstigen im Gebiet liegenden Waldbestände weisen eine stark heterogene Struktur auf. Sie reichen von naturfernen Kiefern- und Lärchenforsten bis zu naturnahen Eichen-Laubmischwäldern unterschiedlichen Alters. Sie puffern die unter Nummer 3 genannten Waldlebensräume vor Störungen ab und bieten bereits einigen an diese Wälder gebundenen Arten Lebensraum. Ziel ist die Entwicklung und Erhaltung der naturnahen Bestände sowie eine langfristige Überführung der naturfernen Bestände zu naturnahen Wäldern.
 
 6 Umsetzung
 
-Geeignete Maßnahmen zur Umsetzung der unter Nummer 4 aufgeführten Erhaltungsziele sind in Anlage 2 aufgeführt. Unberührt bleiben Erhaltungs- und Entwicklungsmaßnahmen, die durch die zuständige Naturschutzbehörde angeordnet oder durchgeführt werden.
+Geeignete Maßnahmen zur Umsetzung der unter Nummer 4 aufgeführten Erhaltungsziele sind in der Anlage 2 aufgeführt. Unberührt bleiben Erhaltungs- und Entwicklungsmaßnahmen, die durch die zuständige Naturschutzbehörde angeordnet, zugelassen oder durchgeführt werden.
 
 Für die Betreuung, Koordinierung und Kontrolle der Umsetzung des Bewirtschaftungserlasses ist die untere Naturschutzbehörde verantwortlich. Die Durchsetzung der einzelnen Erhaltungsmaßnahmen beziehungsweise deren Berücksichtigung im Vollzug obliegt der jeweilig zuständigen Fachbehörde, die hierüber die untere Naturschutzbehörde auf Anforderung informiert.
 
 7 In-Kraft-Treten
 
-Dieser Erlass tritt am Tage seiner Veröffentlichung im Amtsblatt in Kraft.
+Dieser Erlass tritt am Tage seiner Veröffentlichung im Amtsblatt für Brandenburg in Kraft.
 
 Anlagen
 
 1
 
-Anlage 1 - Übersichtsskizze 240.9 KB
+Anlage 1 - Übersichtsskizze 735.8 KB
 
 2
 
-Anlage 2 - Erhaltungsmaßnahmen und Umsetzungsinstrumente für die in Nummer 3 aufgeführten LRT/Arten sowie für die in Nummer 5 aufgeführten Biotope 62.0 KB
+Anlage 2 - Erhaltungsmaßnahmen und Umsetzungsinstrumente für die in Nummer 3 aufgeführten LRT und Arten und für die unter Nummer 5 aufgeführten Biotope 85.7 KB
