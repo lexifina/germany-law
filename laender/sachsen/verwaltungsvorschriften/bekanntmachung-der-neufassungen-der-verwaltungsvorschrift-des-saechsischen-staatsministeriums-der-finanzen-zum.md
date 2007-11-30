@@ -1,8 +1,8 @@
 # Bekanntmachung der Neufassungen der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Trennungsgeldverordnung (VwV-SächsTGV)
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2002-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1804.5
+- Datum: 2007-11-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1804.6
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -38,7 +38,7 @@ die teils mit Wirkung vom 1. Januar 1999, teils am 1. September 1999 in Kraft ge
 
 II.
 
-Im Anschluss daran wird das Merkblatt zur Gewährung von Trennungsgeld mit Rechtsstand 1. September 1999 bekannt gemacht. Es ersetzt das bisherige Merkblatt zur Gewährung von Trennungsgeld (Anlage 1 der Bekanntmachung des Sächsischen Staatsministeriums der Finanzen vom 8. Juni 1998 (SächsMBl.SMF S. 86)). Die personalverwaltenden Stellen sollen Beschäftigten, die aus Anlass einer Personalmaßnahme an einem anderen Ort als dem bisherigen Dienst- oder Wohnort Dienst zu leisten haben, gleichzeitig mit der Personalverfügung das Merkblatt zur Gewährung von Trennungsgeld aushändigen.
+Im Anschluss daran wird das Merkblatt zur Gewährung von Trennungsgeld mit Rechtsstand 1. September 1999 bekannt gemacht. Es ersetzt das bisherige Merkblatt zur Gewährung von Trennungsgeld (Anlage 1 der Bekanntmachung des Sächsischen Staatsministeriums der Finanzen vom 8. Juni 1998 (MBl. SMF S. 86)). Die personalverwaltenden Stellen sollen Beschäftigten, die aus Anlass einer Personalmaßnahme an einem anderen Ort als dem bisherigen Dienst- oder Wohnort Dienst zu leisten haben, gleichzeitig mit der Personalverfügung das Merkblatt zur Gewährung von Trennungsgeld aushändigen.
 
 Dresden, 10. November 1999
 
@@ -57,7 +57,8 @@ zum Vollzug der Sächsischen Trennungsgeldverordnung
 (VwV-SächsTGV)
 
 [Geändert durch
-VwV vom 4. Oktober 2001 (SächsABl. S. 1071)]
+VwV vom 4. Oktober 2001 (SächsABl. S. 1071) und durch VwV
+vom 7. November 2007 (MBl. SMF S. 214)]
 
 Abschnitt I
 
@@ -1106,13 +1107,15 @@ Anmerkung:
 
 Anlagen bekannt gemacht durch Bek vom 24. Oktober 2001 (SächsMBl.SMF 8/2001 S. 69)
 
-Anlagen 7 und 8 geä. durch Bek vom 17. Februar 2003 (MBl. SMF 3/2003 S. 97)
+Anlagen 7 und 8 geä. durch Bek vom 17. Februar 2003 (SächsMBl. SMF 3/2003 S. 97)
 
-Anlagen 4 bis 8 und 10 geä. durch Bekanntmachungen vom 31. August 2004 (MBl. SMF 6/2004 S. 90),
+Anlagen 4 bis 8 und 10 geä. durch Bekanntmachungen vom 31. August 2004 (SächsMBl. SMF 6/2004 S. 90),
 
-Anlage 6 geä. durch Bek. vom 8. August 2005 (MBl. SMF 7/2005 S. 64)
+Anlage 6 geä. durch Bek. vom 8. August 2005 (SächsMBl. SMF 7/2005 S. 64)
 
-Anlage 6 geä. durch Bek. vom 20. Dezember 2005 (MBl. SMF 6/2006 S. 1)
+Anlage 6 neu gefasst durch Bek. vom 20. Dezember 2005 (MBl. SMF 6/2006 S. 1)
+
+Anlagen 6 und 10 neu gefasst durch Bek. vom 7. November 2007 (MBl. SMF 7/2007 S. 214)
 
 Anlage 4
 
@@ -1125,227 +1128,3 @@ Anlage 7
 Anlage 8
 
 Anlage 10
-
-Merkblatt
-
-zur Gewährung von Trennungsgeld
-
-I. Rechtsgrundlage
-
-Die Gewährung von Trennungsgeld richtet sich nach den Bestimmungen der
-Sächsischen Trennungsgeldverordnung (SächsTGV) vom 11. November 1994 (SächsGVBl. S. 1634), zuletzt geändert durch Artikel 6 der Verordnung vom 24. Oktober 2003 (SächsGVBl. S. 623), in Verbindung mit der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Trennungsgeldverordnung (VwV-SächsTGV) in der Fassung der Bekanntmachung vom 10. November 1999 (SächsMBl.SMF S. 234), geändert durch Verwaltungsvorschrift vom 4. Oktober 2001 (SächsABl. S. 1071). Im folgenden Text wird auch auf Vorschriften des Sächsischen Gesetzes über die Reisekostenvergütung der Beamten und Richter (Sächsisches Reisekostengesetz –
-SächsRKG) in der Fassung der Bekanntmachung vom 8. Juli 1998 (SächsGVBl. S. 346), zuletzt geändert durch Artikel 2 des Gesetzes vom 9. Dezember 2003 (SächsGVBl. S.897) verwiesen.
-
-II. Gewährung von Trennungsgeld
-
-1    Zweck der Trennungsgeldgewährung
-
-Trennungsgeld wird einem Beschäftigten gewährt, um ihn in angemessenem Umfang von den Mehrkosten zu entlasten, die ihm für doppelte Haushaltsführung und notwendige Reisen zwischen Dienstort und Wohnort entstehen, weil er als Folge einer dienstlichen Maßnahme an einem anderen Ort als seinem bisherigen Dienstort Dienst zu leisten hat. Die
-Sächsische Trennungsgeldverordnung konkretisiert und begrenzt die Verpflichtung des Dienstherrn, diese Mehraufwendungen zu erstatten.
-
-2   Voraussetzung für den Anspruch auf Trennungsgeld (§ 1
-SächsTGV)
-
-Trennungsgeld wird gewährt, wenn aus Anlass einer in § 1 Abs. 2
-SächsTGV aufgeführten dienstlichen Maßnahme der neue Dienstort ein anderer als der bisherige Dienstort ist und die bisherige Wohnung nicht im Einzugsgebiet liegt. Einzugsgebiet ist das Gebiet, das auf einer üblicherweise befahrenen Strecke weniger als 30 Kilometer von der neuen Dienststätte entfernt ist. Befindet sich die bisherige Wohnung im Einzugsgebiet, kann bei bestimmten Maßnahmen (§ 1 Abs. 2 Nr. 6 bis 9
-SächsTGV) Trennungsgeld für die Dauer der Maßnahme, längstens für drei Monate gewährt werden.
-
-3   Gewährung von Trennungsgeld nach Zusage der Umzugskostenvergütung (§ 2
-SächsTGV)
-
-Ein Anspruch auf Trennungsgeld besteht nur dann, wenn der Berechtigte uneingeschränkt umzugswillig ist und wegen Wohnungsmangel am neuen Dienstort und dem Einzugsgebiet nicht umziehen kann. Der Berechtigte hat sich unter Ausschöpfung aller Möglichkeiten nachweislich und fortwährend um eine angemessene Wohnung zu bemühen. Diese Bemühungen müssen umgehend nach dem Dienstantritt einsetzen.
-
-Als Wohnungsbemühungen kommen allgemein in Betracht:
-
-Aufgabe von Wohnungssuchanzeigen in der örtlichen Presse,
-
-Auswerten von Wohnungsangeboten in Zeitungen,
-
-Bewerbung bei Wohnungsmaklern und Immobilienbüros
-
-Eine Wohnung ist angemessen, wenn sie den familiären Bedürfnissen des Berechtigten entspricht. Hinsichtlich der Beurteilung der Angemessenheit einer Wohnung sind die Lage, die Größe, die Ausstattung und der Mietpreis maßgebend. Nach der Lage ist eine Wohnung angemessen, wenn sie sich am Dienstort oder in dessen Einzugsgebiet befindet. Eine Wohnung ist hinsichtlich ihrer Größe angemessen, wenn sie für jede vor und nach dem Umzug zum Haushalt gehörende Person ein Zimmer enthält. Folgende Flächen (einschließlich Küche, Flur, Bad und WC) bilden dabei eine Orientierungshilfe:
-
-Orientierungshilfe
-
-| für
-
-| Größe in qm
-
-| – für Alleinstehende
-| 45 qm
-
-| – bei zwei Familienmitgliedern
-| 60 qm
-
-| – bei drei Familienmitgliedern
-| 75 qm
-
-| – bei vier Familienmitgliedern
-| 90 qm
-
-| – bei fünf Familienmitgliedern
-| 105 qm
-
-| – bei sechs Familienmitgliedern
-| 120 qm.
-
-Angemessen in Bezug auf die Ausstattung ist eine Wohnung dann, wenn sie dem üblichen Standard entspricht. Dazu gehören Zentralheizung sowie Bad und WC innerhalb der Wohnung. Die Miete (ohne Nebenkosten) für eine Wohnung ist zumutbar, wenn sie 25 vom Hundert des Nettofamilieneinkommens aller Familienmitglieder zum Zeitpunkt der Antragstellung nicht übersteigt.
-
-Der Wohnungsmangel entfällt mit dem Tag des frühestmöglichen Bezugs einer angemessenen Wohnung. Aufgrund der inzwischen entspannten Wohnungsmarktsituation kann der Wohnungsmangel in der Regel kurzfristig behoben werden. Die Erstbewilligung von Trennungsgeld erfolgt deshalb dienstortbezogen und unter Beachtung der Familiengröße grundsätzlich nur für kurze Zeiträume, längstens für drei Monate. Wird danach die Weiterbewilligung von Trennungsgeld wegen Wohnungsmangel beantragt, sind umfangreiche Nachweise über die Wohnungsbemühungen und deren Ergebnis vorzulegen. Nach Wegfall des Wohnungsmangels darf Trennungsgeld nur weitergewährt werden, wenn und solange dem Umzug des uneingeschränkt umzugswilligen Berechtigten im Zeitpunkt des Wegfalls des Wohnungsmangels einer der in § 2 Abs. 2
-SächsTGV näher bestimmten Hinderungsgründe entgegensteht.
-
-4   Trennungsgeld beim auswärtigen Verbleiben (§§ 3 bis 5
-SächsTGV)
-
-4.1 Trennungsreisegeld (§ 3 Abs. 1
-SächsTGV)
-
-Einem Berechtigten, der nicht täglich zum Wohnort zurückkehrt und dem die tägliche Rückkehr nicht zuzumuten oder aus dienstlichen Gründen nicht gestattet ist, werden für die ersten 14 Tage nach beendeter Dienstantrittsreise als Trennungsreisegeld gewährt:
-
-a)
-
-Tagegeld (§ 8
-SächsRKG),
-
-Erhält der Berechtigte seines Amtes wegen unentgeltlich Verpflegung, wird das Tagegeld um den entsprechenden Verpflegungsanteil gekürzt (§ 3 Abs. 1 Satz 2
-SächsTGV in Verbindung mit § 11
-SächsRKG).
-
-b)
-
-Übernachtungskostenerstattung (§ 9
-SächsRKG),
-
-c)
-
-Fahrkostenerstattung nach § 5 Abs. 1
-SächsRKG oder
-
-Wegstreckenentschädigung nach § 6 Abs. 2a
-SächsRKG oder
-
-Mitnahmeentschädigung nach § 6 Abs. 3 und 4
-SächsRKG für notwendige Fahrten zwischen Unterkunft und neuer Dienststätte.
-
-d)
-
-Wohnungsvermittlungsgebühren für eine vorübergehende Unterkunft können grundsätzlich nur dann erstattet werden, wenn sie ortsüblich und notwendig sind. Zudem muss die Maßnahme länger als 14 Tage dauern und der Vermittlungsauftrag vor Beginn der Maßnahme oder innerhalb der ersten 14 Tage erteilt werden. Die Notwendigkeit der Wohnungsvermittlungsgebühren ist gesondert und eingehend zu begründen.
-
-4.2 Trennungstagegeld und Unterkunftskostenerstattung (§ 3 Abs. 2 und 3
-SächsTGV)
-
-a)
-
-Trennungstagegeld
-
-Nach Ablauf der 14-Tage-Frist wird das Trennungsgeld ermäßigt und nach Familienstand und Wohnverhältnissen in Pauschalsätze, das sogenannte Trennungstagegeld, gestaffelt. Das Trennungstagegeld setzt sich aus einem Verpflegungsanteil von 65 vom Hundert und einem Unterkunftsanteil von 35 vom Hundert zusammen. Das Trennungstagegeld beträgt:
-
-für Berechtigte, die mit ihrem Ehegatten in häuslicher Gemeinschaft leben oder Gleichgestellte (§ 2a Abs. 3
-SächsTGV) 12,42 EUR täglich, wenn sie die bisherige Wohnung beibehalten und einen getrennten Haushalt führen.
-
-für Berechtigte mit eigenem Hausstand, die über ihre Wohnung das ausschließliche Verfügungsrecht oder das gemeinsame Verfügungsrecht mit einer Person besitzen, mit der sie in eheähnlicher Gemeinschaft leben und die Wohnung beibehalten 8,44 EUR täglich.
-
-für alle übrigen Berechtigten 5,98 EUR täglich.
-
-Sonderbestimmungen gelten bei vorübergehender Abwesenheit vom Dienstort, wenn die Unterkunft beibehalten werden muss (§ 4
-SächsTGV).
-
-b)
-
-Unterkunftskosten
-
-Nachgewiesene Unterkunftskosten können bis zur Höhe von 306 EUR je Kalendermonat erstattet werden. Das Trennungstagegeld wird in diesen Fällen um den Unterkunftsanteil von 35 vom Hundert gekürzt. Schließen die Unterkunftskosten die Kosten des Frühstücks ein, werden die Unterkunftskosten vorab um 4,50 EUR je Frühstück gekürzt.
-
-c)
-
-amtlich unentgeltliche Verpflegung und/oder Unterkunft
-
-In diesen Fällen wird das Trennungstagegeld um den entsprechenden Verpflegungsanteil und/oder den Unterkunftsanteil gekürzt (§ 3 Abs. 2 Satz 2
-SächsTGV in Verbindung mit § 11
-SächsRKG).
-
-4.3 Reisebeihilfen (§ 5
-SächsTGV)
-
-Trennungsgeldberechtigte erhalten beim auswärtigen Verbleiben einmal im Monat oder halbmonatlich eine Reisebeihilfe für Heimfahrten. Dabei handelt es sich nicht um die volle Erstattung der Auslagen für die Heimreise, sondern es wird lediglich eine Beihilfe zu den Aufwendungen gewährt. Erstattet werden die notwendigen Fahrauslagen bis zur Höhe der Kosten der billigsten Fahrkarte der allgemein niedrigsten Klasse eines regelmäßig verkehrenden Beförderungsmittels. Das gilt auch bei Benutzung eines privaten Kraftfahrzeuges. Flugkosten können nur in besonderen Fällen nach näherer Bestimmung des Staatsministeriums der Finanzen (Nummer 5.4.3 VwV-SächsTGV) erstattet werden.
-
-4.4 Steuerliche Hinweise
-
-a)
-
-Erstattung für Verpflegungsmehraufwendungen
-
-(§ 3 Nr. 13 i.V.m. § 4 Abs. 5 Satz 1 Nr. 5 und § 9 Abs. 1 Satz 3 Nr. 5 Einkommensteuergesetz [           EStG])
-Der Verpflegungsanteil des Trennungstagegeldes ist für die ersten drei Monate der Dienstreise bei vorübergehenden Maßnahmen bzw. bei nicht vorübergehenden Maßnahmen für die ersten drei Monate nach Beginn der doppelten Haushaltsführung grundsätzlich steuerfrei. Voraussetzung für die steuerliche Anerkennung einer beruflich veranlassten doppelten Haushaltsführung ist seit dem 1. Januar 2004 das Vorliegen von zwei Haushalten (Hausständen). Maßgebend für die steuerfreie Erstattung der Verpflegungsmehraufwendungen sind die tatsächlichen Abwesenheiten. Nach Ablauf der Dreimonatsfrist ist der Verpflegungsanteil des Trennungstagegeldes in der Regel in voller Höhe steuerpflichtig.
-
-b)
-
-Unterkunftskostenerstattung
-
-(§ 3 Nr. 13 i.V.m. § 9 Abs. 1 Satz 3 Nr. 5 EStG)
-Die Unterkunftskostenerstattung (§ 3 Abs. 3
-SächsTGV) ist im Falle einer steuerlich anzuerkennenden beruflich veranlassten doppelten Haushaltsführung (Beibehaltung des eigenen Hausstands außerhalb des neuen Dienstortes oder dessen Einzugsgebietes) ab Bezug der weiteren Wohnung steuerfrei.
-
-Liegt nur ein eigener Hausstand am neuen Dienstort oder in dessen Einzugsgebiet vor, ist die Übernachtungskostenerstattung von Beginn an in voller Höhe steuerpflichtig.
-
-c)
-
-Reisebeihilfen
-
-Die Zahlung der Reisebeihilfen ist in Höhe der Entfernungspauschale von 0,30 Euro für jeden vollen Kilometer der Entfernung zwischen dem Ort des eigenen Hausstandes und dem Beschäftigungsort oder bei Benutzung öffentlicher Verkehrsmittel in voller Höhe, auch wenn sie die Entfernungspauschale übersteigen, steuerfrei.
-
-5   Trennungsgeld bei täglicher Rückkehr zum Wohnort (§ 6
-SächsTGV)
-
-5.1 Umfang der Erstattung
-
-Ein Berechtigter, der täglich zum Wohnort zurückkehrt oder dem die tägliche Rückkehr zuzumuten ist, erhält als Trennungsgeld die enstandenen notwendigen Fahrauslagen bis zur Höhe der billigsten Fahrkarte der allgemein niedrigsten Klasse zuzüglich notwendiger Zuschläge eines regelmäßig verkehrenden Beförderungsmittels, mit Ausnahme von Flugzeugen, erstattet. Bei Benutzung eines privaten Kraftfahrzeuges wird eine Wegstreckenentschädigung von 12 Cent je Kilometer bis zu dieser Höchstgrenze gewährt. Ein Berechtigter, der mit einem Kraftfahrzeug einer anderen Person mitgenommen wird, kann unter bestimmten Voraussetzungen eine Mitnahmeentschädigung in Höhe von 2 Cent je Kilometer erhalten. Auf das Trennungsgeld sind die Fahrauslagen anzurechnen, die für das Zurücklegen der Strecke zwischen Wohnung und bisheriger Dienststätte entstanden wären, wenn die Entfernung mindestens fünf Kilometer beträgt.
-
-5.2 Steuerliche Hinweise
-
-Bei vorübergehenden Maßnahmen ist das Trennungsgeld in den ersten drei Monaten nach Beginn der Diensttätigkeit steuerfrei (§ 3 Nr. 13 EStG)
-Bei nicht vorübergehenden Maßnahmen ist das Trennungsgeld von Beginn an steuerpflichtig.
-
-III. Verfahren
-
-1   Zuständigkeit
-
-Die Obersten Dienstbehörden regeln die Bewilligung, Abrechnung und Zahlung von Trennungsgeld für ihren Geschäftsbereich in eigener Zuständigkeit. Im Geschäftsbereich des Staatsministeriums der Finanzen ist das Landesamt für Finanzen in Dresden zuständig für die Bewilligung, Abrechnung und Zahlung von Trennungsgeld.
-
-2   Vordrucke
-
-Für die Beantragung und Abrechnung des Trennungsgeldes sind die mit der Bekanntmachung des Sächsischen Staatsministeriums der Finanzen vom 24. Oktober 2001 (SächsMBl.SMF S. 69) veröffentlichten Vordrucke Anlage 1, 2, 3 und 9 zu verwenden. Die Anlagen 7 und 8 sind mit der Bekanntmachung des SMF vom 17. Februar 2003 (SächsMBl. SMF S. 97) veröffentlicht und werden demnächst erneut bekannt gegeben. Die neu gefassten Anlagen 4, 5, 6 und 10 werden im September 2004 im Ministerialblatt des SMF veröffentlicht.
-
-3   Antragstellung
-
-Der Antrag des Beschäftigten auf Bewilligung von Trennungsgeld ist bei der zuständigen Bewilligungsstelle innerhalb einer Ausschlussfrist von zwei Jahren schriftlich einzureichen. Im Geschäftsbereich des Staatsministeriums der Finanzen ist der Antrag bei der Beschäftigungsdienststelle einzureichen. Diese prüft die Unterlagen und leitet diese an das Landesamt für Finanzen in Dresden weiter.
-
-Bei Erstantragstellung sind dem Antrag mindestens folgende Unterlagen beizufügen:
-
-die Verfügung zur veranlassten Maßnahme (Abordnung, Versetzung u. a.),
-
-das Schreiben über die Zusage der Umzugskostenvergütung,
-
-bei ledigen Antragstellern der Nachweis über die eigene Wohnung am bisherigen Wohnort,
-
-der Nachweis über die vorübergehende Unterkunft am neuen Dienstort (z. B. Mietvertrag).
-
-Wurde die Umzugskostenvergütung zugesagt, sind mit jedem Antrag auf Weiterbewilligung von Trennungsgeld Nachweise über die im abgelaufenen Bewilligungszeitraum erfolgten Wohnungsbemühungen einzureichen. Dies können im Einzelnen sein:
-
-Kopien eigener in örtlichen Tageszeitungen aufgegebener Anzeigen und Zahlungsbeleg für die Aufgabe der Anzeige,
-
-Kopien von Zuschriften, die auf eigene Anzeige eingegangen sind,
-
-Durchschriften von Bewerbungen auf Wohnungsinserate,
-
-Durchschriften von Bewerbungen bei Wohnungsmaklern und Immobilienbüros,
-
-Kopien von Antwortschreiben der Wohnungsmakler und Immobilienbüros,
-
-Auflistung mündlich oder fernmündlich erfolgter Bewerbungen.
-
-Zu den einzelnen Nachweisen ist darüber hinaus anzugeben, aus welchen Gründen der Wohnungsmangel nicht behoben werden konnte. Wird der Erstbewilligungsantrag erst zwei Wochen nach Dienstantritt oder später gestellt, müssen die ersten Wohnungsbemühungen bereits mit diesem Antrag belegt werden. Soll Trennungsgeld wegen des Vorliegens eines Umzugshinderungsgrundes gewährt werden, sind dem Antrag die entsprechenden Nachweise beizufügen.
-
-Im Übrigen sind alle für die Abrechnung erforderlichen Unterlagen beizufügen. Dazu gehören insbesondere Fahrkarten oder Fahrscheine und Zuschlagkarten sowie Nachweise über die am neuen Dienstort gezahlten Übernachtungskosten und Unterkunftskosten. Für Auslagen, für die ein Nachweis nicht erbracht werden kann (z. B. bei Benutzung des privaten PKW), wird eine dienstliche Versicherung als ausreichend angesehen.
-
-Sollte der Beschäftigte einen Überblick über das ausgezahlte Trennungsgeld und die Höhe des steuerpflichtigen Teils wünschen, so hat er den Vordruck nach dem Muster der Anlage 9 ausgefüllt bei jeder Einreichung der Trennungsgeldabrechnung beizufügen.
