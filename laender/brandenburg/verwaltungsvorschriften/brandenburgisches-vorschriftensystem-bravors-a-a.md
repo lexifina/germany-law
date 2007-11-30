@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2007-11-22 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/lwhh2007
+- Datum: 2007-11-30 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/be_berlinchen_2006
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -26,150 +26,153 @@ A |
 |
 
 Aktuelle Fassung
-Anlagen (1)
+Anlagen (2)                    Änderungshistorie
 
-Richtlinie des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz des Landes Brandenburg über die Gewährung von Zuwendungen zur Förderung der Verbesserung des Landschaftswasserhaushaltes und der Bewirtschaftung der Wasserressourcen im ländlichen Raum
+Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz zur Bekanntmachung der Erhaltungsziele nach § 26b Absatz 3 des Brandenburgischen Naturschutzgesetzes und zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung "Berlinchener See, Berlinchener Luch"
 
-vom 22. November 2007
+vom 11. April 2006
 
-(ABl./07, [Nr. 51], S.2691)
+(ABl./06, [Nr. 27], S.478)
 
-1 Zuwendungszweck, Rechtsgrundlage
+geändert durch Bekanntmachung des MLUV vom 30. November 2007
 
-1.1 Das Land Brandenburg gewährt auf der Grundlage der Verordnung (EG) Nr. 1698/2005 vom 20. September 2005 über die Förderung des ländlichen Raumes durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raumes (ELER), des Entwicklungsplanes für den ländlichen Raum Brandenburgs und Berlins (EPLR), Nr. 5.3.1.2.5, und des Rahmenplanes der Gemeinschaftsaufgabe “Verbesserung der Agrarstruktur und des Küstenschutzes“ (GAK) in der jeweils geltenden Fassung, nach Maßgabe dieser Richtlinie sowie der Verwaltungsvorschriften zu § 44 der Landeshaushaltsordnung (LHO) Zuwendungen zur Förderung von Maßnahmen zur Verbesserung des Landschaftswasserhaushaltes und der Bewirtschaftung der Wasserressourcen im ländlichen Raum. Durch diese Maßnahmen soll im Zusammenhang mit der Verbesserung der Funktionsfähigkeit der Landschaft und der Wasserverfügbarkeit für alle Wassernutzer ein Beitrag zur nachhaltigen Entwicklung des ländlichen Raumes geleistet werden, insbesondere durch:
+(ABl./08, [Nr. 3], S.115)
 
-nachhaltige Verbesserung des Wasserrückhaltevermögens der Landschaft,
+Dieser Erlass regelt auf der Grundlage des § 26b Abs. 3 des Brandenburgischen Naturschutzgesetzes (BbgNatSchG) in der Fassung der Bekanntmachung vom 26. Mai 2004 (GVBl. I S. 350) die erforderlichen Maßnahmen zur Umsetzung von Artikel 6 der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. EG Nr. L 206 S. 7), zuletzt geändert durch die Richtlinie 97/62/EG vom 27. Oktober 1997 (ABl. EG Nr. L 305 S. 42), - Fauna-Flora-Habitat-Richtlinie (FFH-Richtlinie). Er legt die unter Nummer 3 genannten Erhaltungsziele fest sowie die erforderlichen Erhaltungsmaßnahmen und deren Umsetzungsinstrumente in Anlage 2. Die Umsetzung ist durch die zuständigen Behörden zu gewährleisten.
 
-Erhöhung der Grundwasserneubildung,
+1 Bewirtschaftungsgegenstand
 
-Förderung natürlicher Bodenfunktionen,
+Die in Anlage 1 (Übersichtsskizze) näher bezeichnete Fläche im Landkreis Ostprignitz-Ruppin wurde als FFH-Gebiet mit der Bezeichnung “Berlinchener See, Berlinchener Luch“ und der Gebietsnummer DE 2741-301 in die Liste der Gebiete von gemeinschaftlicher Bedeutung der Europäischen Kommission aufgenommen. Das Gebiet hat eine Größe von rund 364 Hektar und umfasst Flächen in folgenden Fluren:
 
-nachhaltiges Staumanagement und Speicherbewirtschaftung.
+| Gemeinde: | Gemarkung: | Flur:
 
-1.2 Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Die Bewilligungsbehörde entscheidet aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+| Wittstock/Dosse
 
-2 Gegenstand der Förderung
+| Wittstock
 
-2.1.1 Planungen von der Grundlagenermittlung bis zur Ausführungsplanung, Gutachten und konzeptionelle Untersuchungen zur Vorbereitung und Begleitung der Maßnahmen
+| 21, 22, 23, 24;
 
-2.1.2 Maßnahmen an Fließgewässern und Fließgewässersystemen, die zur Stabilisierung des Abflussgeschehens durch Erhöhung des Rückhaltevermögens und zur Verbesserung der Gewässerstruktur beitragen (zum Beispiel naturnahe Gestaltung von Gewässern, Anschluss von Alt- und Kleingewässern, Anhebung der Gewässersohle)
 
-2.1.3 Maßnahmen an wasserwirtschaftlichen Anlagen (zum Beispiel Stauanlagen) in Fließgewässern und Fließgewässersystemen, z. B. deren Rekonstruktion, Umgestaltung, Beseitigung oder Neubau
+| 
 
-2.1.4 Sonstige Maßnahmen, z. B. Außerbetriebnahme, Plombierung oder Rückbau von Verrohrungen und Entwässerungssystemen, Maßnahmen zur Vermeidung von Stoffausträgen aus Drainagen, maßnahmebezogenes Monitoring (zum Beispiel Oberflächenwasser- und Grundwassermonitoring)
+| Berlinchen
 
-2. 1.5 Neubau und Erweiterung von überbetrieblichen
+| 5, 7;
 
-Anlagen zur Wasserspeicherung, Grundwasseranhebung und Pumpanlagen sowie
 
-Einrichtungen zur Entnahme, Speicherung und Zuleitung von Wasser für Beregnungszwecke bis zur Übergabestelle an das jeweilige einzelbetriebliche Bewässerungsnetz.
+| 
 
-2.2 Förderausschluss
+| Groß Haßlow
 
-Von der Förderung ausgeschlossen sind die Kosten für die Unterhaltung und Pflege der Gewässer sowie der Anlagen und Einrichtungen nach Nummer 2.1.2 bis 2.1.5.
+| 2.
 
-3. Zuwendungsempfänger
 
-Körperschaften des öffentlichen Rechts.
+Die Grenze des Geltungsbereiches dieses Erlasses ist in der Übersichtsskizze (Anlage 1) und im Maßstab 1 : 10 000 in der Biotoptypenkarte, der Karte der FFH-Lebensraumtypen (LRT) und der Zielkarte sowie in Liegenschaftskarten (Blätter 1 bis 20) eingezeichnet. Als Grenze gilt der innere Rand dieser Linie. Maßgeblich ist die Einzeichnung in den Liegenschaftskarten. Diese Karten sind mit einer Flurstücksliste beim Landesumweltamt in Potsdam, beim Landkreis Ostprignitz-Ruppin in Neuruppin als untere Naturschutzbehörde, beim Amt für Forstwirtschaft Kyritz und bei der Stadtverwaltung Wittstock/Dosse von jedermann während der Dienstzeiten einsehbar.
 
-4 Zuwendungsvoraussetzungen
+2 Beschreibung des Gebietes von gemeinschaftlicher Bedeutung
 
-4.1 Für Anlagen, die sich nicht im Eigentum des Antragstellers befinden, ist nachzuweisen, dass das zweckbestimmte Nutzungsrecht mindestens für die Dauer der Zweckbindungsfrist gem. Nummer 6.4 dieser Richtlinie vertraglich gesichert oder der Zuwendungsempfänger gesetzlich zum Betrieb der Anlage verpflichtet ist.
+Das FFH-Gebiet “Berlinchener See, Berlinchener Luch“ liegt unmittelbar nördlich und west- bis südwestlich angrenzend an die Ortslage Berlinchen und lässt sich dem Naturraum Mecklenburg-Brandenburgisches Platten- und Hügelland zuordnen. Das Gebiet zeichnet sich durch einen hohen Anteil an Mooren beziehungsweise Moor- und Bruchwäldern aus und stellt ein wichtiges Verbindungsglied im regionalen Biotopverbund zwischen der Dosseniederung und der Dranser Seenkette und damit auch zur Mecklenburger Seenkette dar. Dieser Korridor ist für den Individuenaustausch zwischen regionalen Populationen verschiedener Arten der feuchtgebietsgebundenen Faunen- und Florenelemente von hoher Bedeutung.
 
-4.2 Für Maßnahmen nach Nummer 2.1.5 ist eine Wirtschaftlichkeitsberechnung vorzulegen.
+3 Erhaltungsziele
 
-4.3 Maßnahmen nach Nummer 2.1.5 dürfen außerdem nur in Regionen gefördert werden, die im langjährigen Mittel von April bis September eine negative klimatische Wasserbilanz aufweisen. Der Nachweis ist im Zusammenhang mit der wasserrechtlichen Genehmigung des Vorhabens zu erbringen.
+Ziel ist die Erhaltung der Birken-Moorwälder, der Population des Fischotters (Lutra lutra), der Population der Schmalen Windelschnecke (Vertigo angustior) sowie die Entwicklung und Wiederherstellung des Flusses der planaren Stufe mit Vegetation des Ranunculion fluitantis, des Hainsimsen-Buchenwaldes und der alten bodensauren Eichenwälder auf Sandebenen mit Quercus robur (Stieleiche).
 
-4.4 Für Maßnahmen nach Nummer 2.1.1 bis 2.1.4 ist das Votum der Regionalen Arbeitsgruppe vorzulegen.
+4 Beschreibung, Bewertung und ökologische Erfordernisse der Lebensraumtypen (LRT) nach Anhang I und der Arten nach Anhang II der FFH-Richtlinie
 
-4.5. Die Maßnahmen nach Nummer 2.1.1 bis 2.1.4 müssen mit den Zielstellungen der EU- Wasserrahmenrichtlinie (WRRL) und der EU- Hochwasserschutzrichtlinie vereinbar sein.
+Birken-Moorwald, prioritärer LRT Nummer 91D1, Größe: rund 96,2 Hektar, Erhaltungszustand B
 
-5 Art und Umfang, Höhe der Zuwendungen
+Moorbirkenwald kommt in charakteristischer Ausprägung großflächig im mittleren Teil des Gebiets im Bereich der bereits verlandeten Flächen des Berlinchener Sees und des Großen Sees vor. Für den Erhalt des tiefgründigen Moorkörpers und der typischen Vegetation sind hohe Grundwasserstände sowie witterungs- und niederschlagsabhängig schwankende Nässegrade und Wasserstände notwendig, die zu zyklischem Aufwachsen und Absterben der Gehölze führen und den hohen Totholzanteil bedingen. Eine Nutzung der Flächen soll unterbleiben. Die Nährstoffarmut muss gewährleistet werden, daher sind Nährstoffeinträge durch angrenzende Nutzungen zu unterbinden.
 
-5.1 Zuwendungsart: Projektförderung
+Flüsse der planaren Stufe mit Vegetation des Ranunculion fluitantis, LRT-Nummer 3260, Länge: rund 548 Meter, Erhaltungszustand C
 
-5.2 Finanzierungsart: Anteilfinanzierung
+Dem Lebensraumtyp entspricht nur der am südwestlichen Bereich des Berlinchener Sees austretende, in westliche Richtung verlaufende Fließgewässerabschnitt auf einer Länge von etwa 548 Metern, bis das Gewässer westlich der Ortslage Berlinchen als Kanal weiterfließt. Die natürlichen Gewässerstrukturen sollten an dem in weiten Teilen kaum beziehungsweise nicht zugänglichen Fließgewässerabschnitt erhalten werden. Die Gewässergüte sollte mindestens die Güteklasse 2 aufweisen.
 
-5.3 Form der Zuwendung: Zuschuss
+Hainsimsen-Buchenwald (Luzulo-Fagetum), LRT-Nummer 9110, Größe: rund 0,3 Hektar, Erhaltungszustand C
 
-5.4 Höhe der Zuwendung:
+Im Gebiet kommt der Lebensraumtyp im westlichen Bereich vor. Neben der dominierenden Buche (Fagus sylvatica) stehen auch hohe Fichten (Picea abies) und vereinzelt Stieleichen (Quercus robur), im südlichen Bereich zum Teil fremdländische Baumarten im Bestand. Ökologisch erforderlich sind ein hoher Anteil an stehendem und liegendem Totholz, Naturverjüngung des lebensraumtypischen Artenspektrums und ein geringer forstlicher Bewirtschaftungsgrad.
 
-5.4.1 Für Maßnahmen nach den Nummern 2.1.1 bis 2.1.4 bis zu 75 vom Hundert der förderfähigen Gesamtkosten.
+Alte bodensaure Eichenwälder auf Sandebenen mit Quercus robur (Stieleiche), LRT-Nummer 9190, Größe: rund 2,3 Hektar, Erhaltungszustand C
 
-5.4.2 Für Maßnahmen nach Nummer 2.1.5 bis zu 70 vom Hundert der förderfähigen Gesamtkosten (GAK- Maßnahme).
+Der Lebensraumtyp kommt innerhalb des Gebietes auf zwei Teilflächen vor, die unterschiedliche Anteile an Kiefern (Pinus sylvestris), Sand- (Betula pendula) und Moorbirken (Betula pubescens) aufweisen. Der Bestand am südlichen Gebietsrand ist stark ruderalisiert. Ein hoher Anteil an stehendem und liegendem Totholz, die Förderung der Naturverjüngung des charakteristischen Baumartenspektrums und ein geringer forstlicher Bewirtschaftungsgrad werden angestrebt.
 
-5.5. Bemessungsgrundlage
+Fischotter (Lutra lutra), Erhaltungszustand B
 
-Zuwendungsfähig sind:
+Der Fischotter benötigt großflächig vernetzte semiaquatische Lebensräume. Die das Gebiet nutzende Population ist innerhalb des erweiterten Verbreitungsgebietes nicht isoliert. Zur Erhaltung des Habitates ist die derzeitige Gewässerdynamik im Gebiet beizubehalten und weiter zu fördern. Die Zerschneidung von Migrationskorridoren durch Trassen (Verkehrsstraßen) oder Ufer- und Sohlbefestigungen ist zu vermeiden. Die Uferbereiche sind in naturnahem und störungsarmem Zustand zu erhalten.
 
-5.5.1 Allgemeine Aufwendungen für Architekten- und Ingenieurleistungen nach der Honorarordnung für Architekten und Ingenieure (HOAI) in der jeweils geltenden Fassung bis zu einer Höhe von 12 vom Hundert des förderfähigen Investitionsvolumens.
+Schmale Windelschnecke (Vertigo angustior), Erhaltungszustand B
 
-5.5.2 Kosten für Eigenleistungen der Wasser- und Bodenverbände im Rahmen des jeweils geltenden “Preisspiegels für die von Wasser- und Bodenverbänden in Eigenleistung erbrachten Wasserbau- und Landschaftspflegearbeiten“ bzw. auf Selbstkostenbasis.
+Die Schmale Windelschnecke bewohnt die feuchte Bodenstreu von Seggenrieden, Röhrichten, Bruchwäldern und See-Verlan-dungsmooren. Eine Zerstörung beziehungsweise Entwertung der Lebensräume und Habitatstrukturen vor allem durch Grundwasserabsenkung, Entwässerung zur Innutzungnahme und/oder Nutzungsintensivierung bislang extensiv genutzten Feuchtgrünlandes mit Ried- und Röhrichtanteilen sowie von Erlenbruchwäldern, durch lang anhaltendes oder dauerhaftes Überstauen sowie infolge einer Eutrophierung der Standorte durch Nährstoffeinträge ist zu verhindern.
 
-5.5.3. Grunderwerb, der zur Durchführung der Maßnahmen nach Nummer 2.1.2 bis 2.1.4 erforderlich ist, z. B. zur Zusammenführung von Anlageneigentum und zugehöriger Funktionalfläche bzw. Bereitstellung von Randstreifen am Gewässer in der Regel bis zu 10 m in Höhe von max. 10 vom Hundert der förderfähigen Gesamtkosten.
+Erhaltungszustand
 
-6 Sonstige Zuwendungsbestimmungen
+A - hervorragender Erhaltungszustand
 
-6.1 Für Maßnahmen, die im Rahmen anderer Förderprogramme, einschließlich der Strukturfonds und des Landwirtschaftsfonds, gefördert werden können, ist eine Förderung nach dieser Richtlinie ausgeschlossen.
+B - guter Erhaltungszustand
 
-6.2 Über die Bestimmungen der Nummern 7.3 und 7.4 ANBest-P hinaus sind auch die Europäische Kommission, der Bundesrechnungshof (BRH) und die zuständigen Bundesbehörden berechtigt, beim Zuwendungsempfänger zu prüfen.
+C - durchschnittlicher oder beschränkter Erhaltungszustand
 
-Über die Bestimmungen der Nummer 8.2 ANBest-G hinaus sind die Europäische Kommission, der Europäische Rechnungshof (ERH), die zuständigen Bundesbehörden und der Bundesrechnungshof (BRH) berechtigt, beim Zuwendungsempfänger zu prüfen. Sofern Mittel an Dritte weitergeleitet werden dürfen, ist dieses Recht auch dem Dritten gegenüber auszubedingen.
+5 Bestand und Bewertung der
 
-6.3 Für Leistungen gemäß den Nummern 5.5.2 und 5.5.3 sind zur Erstattung der Kosten entsprechende prüffähige Belege nachzuweisen.
+nach § 32 BbgNatSchG geschützten Biotope
 
-6.4 Die Zuwendungen werden gewährt unter dem Vorbehalt des Widerrufs für den Fall, dass
+Biotope, die Einfluss auf die in Nummer 4 aufgeführten Lebensraumtypen nach Anhang I der FFH-Richtlinie und Arten nach Anhang II der FFH-Richtlinie haben
 
-geförderte Bauten und bauliche Anlagen sowie Grundstücke, auf denen Maßnahmen nach dieser Richtlinie durchgeführt werden, innerhalb eines Zeitraumes von 12 Jahren ab Fertigstellung,
+Gräben und Kanäle, teilweise § 32 BbgNatSchG
 
-geförderte technische Einrichtungen, Maschinen und Geräte innerhalb eines Zeitraumes von 5 Jahren ab Lieferung
+Gräben kommen im gesamten Gebiet vor und entwässern das Grünland in Richtung des Kanals, der das Gebiet von Ost nach West durchzieht und in die Dosse mündet. Teilabschnitte des Kanals unterliegen den Bestimmungen des § 32 BbgNatSchG. Der Kanal sollte langfristig in einen naturnahen Zustand überführt werden. Es ist zu prüfen, ob die Gräben abschnittsweise geschlossen werden können, um den Entwässerungsgrad des Gebietes zu reduzieren. Ziel ist es, eine moorerhaltende Stauhaltung im Gebiet zu erreichen, mit der die Wasserführung in die zentralen Gebiete gelenkt werden kann.
 
-veräußert oder nicht mehr dem Zuwendungszweck entsprechend verwendet werden.
+Stillgewässer
 
-6.5 Der Zuwendungsempfänger ist verpflichtet, die jeweils gültigen Bestimmungen der Europäischen Union über die von den Mitgliedstaaten zu treffenden Informations- und Publizitätsmaßnahmen für die Interventionen des Europäischen Landwirtschaftsfonds zu beachten.[1]
+Bei den im Gebiet liegenden Stillgewässern handelt es sich um den Berlinchener See, der sich infolge starken Nährstoffeintrags von einem kalkhaltigen mesotrophen Gewässer zu einem eutrophen Gewässer entwickelt hat, und zwei kleinere Gewässer im Westen des FFH-Gebiets, bei denen es sich ebenfalls um eutrophe Gewässer handelt. Einer weiteren Eutrophierung der Gewässer - vor allem des Berlinchener Sees - sollte durch Verringerung der Nährstoffeinträge entgegengewirkt werden.
 
-6.6 Abweichend von Nr. 6.1 ANBest-P/ Nr. 7.1 ANBest-G wird Folgendes festgelegt:
+Bruchwälder, § 32 BbgNatSchG
 
-Der Zuwendungsempfänger ist verpflichtet, den Verwendungsnachweis vor Auszahlung des letzten Teilbetrages bzw. Einmalbetrages vorzulegen. (siehe Nummer 7.3 dieser Richtlinie)
+Erlenbruchwälder kommen überwiegend in den nordöstlichen Randbereichen der Birkenmoorwälder in typischer Ausprägung vor. Im westlichen Bereich des Gebietes sind die Bruchwälder teilweise durch Austrocknung und Nährstoffeinträge degradiert. Auf den Standorten kann eine den Lebensraumtyp erhaltende und eingeschränkte Bewirtschaftung erfolgen.
 
-7 Antrags- und Bewilligungsverfahren
+Feuchtgrünland, überwiegend § 32 BbgNatSchG
 
-7.1 Antragsverfahren
+Die zum Teil aufgelassenen Feuchtwiesen und -weiden, die überwiegend um die zentralen Bereiche des Großen Sees und des Berlinchener Sees verteilt vorkommen, sollen extensiv bewirtschaftet beziehungsweise gepflegt werden. Besonders bedeutsam ist der Erhalt von Seggenrieden als Lebensraum der Schmalen Windelschnecke.
 
-Der Antrag ist vollständig und formgebunden beim Landesamt für Verbraucherschutz, Landwirtschaft und Flurneuordnung zu stellen.
+Grünland frischer Standorte
 
-7.2 Bewilligungsverfahren
+Das Grünland auf frischen Standorten soll möglichst extensiv als Dauergrünland genutzt werden. Alle entwässerten Niedermoorbereiche sollen durch die in Anlage 2 aufgeführten Erhaltungsmaßnahmen in Abstimmung mit der unteren Wasserbehörde stärker vernässt werden, um die Torfmineralisation zu verringern.
 
-Bewilligungsbehörde ist das Landesamt für Verbraucherschutz, Landwirtschaft und Flurneuordnung.
+Röhrichtgesellschaften und Grauweidengebüsche, § 32 BbgNatSchG
 
-7.3 Anforderungs- und Auszahlungsverfahren
+Neben dem den Berlinchener See umgebenden breiten Röhrichtgürtel kommen in enger Verzahnung weitere kleinere Schilfbereiche und Grauweidengebüsche am Rand der Moorwälder vor, die überwiegend eine typische Ausprägung aufweisen. Die Flächen sollen nicht landwirtschaftlich genutzt werden. Eine Pflege der Röhrichtbereiche und Grauweidengebüsche ist nicht notwendig. Die Flächen sollten der natürlichen Sukzession überlassen bleiben.
 
-Die Zahlungsanforderungen sind an das Landesamt für Verbraucherschutz, Landwirtschaft und Flurneuordnung zu richten. Die Auszahlung erfolgt im Wege der Erstattung. Mit der Mittelanforderung hat der Zuwendungsempfänger eine Übersicht über die bezahlten Rechnungen, einschließlich der Originalrechnungen und Zahlungsbelege einzureichen.
+Magerrasen, § 32 BbgNatSchG
 
-7.3.1 Abweichend von Nr. 1.4 ANBest-P/ANBest-G wird Folgendes festgelegt:
+Die im Gebiet überwiegend am nördlichen und östlichen Moränenrand vorkommenden zum Teil ruderalisierten Magerrasen werden als gering gestört bis gestört eingestuft. Sie sollen durch Grünlandpflege in Form von Mahd oder Beweidung erhalten werden. Eine Düngung ist auszuschließen.
 
-Die Auszahlung des letzten Teilbetrages bzw. Einmalbetrages in Höhe von mindestens 5 v. H. der Gesamtzuwendung erfolgt erst nach abschließender Prüfung des Verwendungsnachweises. (Nr. 6 ANBest-P/Nr. 7. ANBest-G)
+Forsten und Vorwaldstadien
 
-7.4 Verwendungsnachweisverfahren
+Forsten befinden sich auf höher gelegenen Bereichen, die im nördlichen und nordwestlichen Teil des Gebietes an Flächen des Birkenmoorwaldes und Bruchwälder angrenzen. Bestandsbildend sind Kiefern oder Pappeln mit Aufwuchs von Später Traubenkirsche (Prunus serotina) und teilweise Stieleichen.
 
-Der Verwendungsnachweis ist gegenüber der Bewilligungsbehörde zu erbringen.
+Bei Verjüngungsmaßnahmen ist auf das Einbringen von Baumarten der potentiell natürlichen Vegetation abzuzielen, die Bewirtschaftung soll möglichst extensiv erfolgen und für eine Erhöhung des Strukturreichtums ist Sorge zu tragen.
 
-7.5 Zu beachtende Vorschriften
+Vorwaldstadien finden sich in verschiedenen Bereichen des Gebietes; sie sollen weiterhin der natürlichen Sukzession unterliegen.
 
-Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die ggf. erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gelten die VV zu § 44 LHO, soweit nicht in der Richtlinie Abweichungen zugelassen sind.
+Feldgehölze, Baumreihen und Baumgruppen
 
-Auf Grund des Einsatzes von EU-Mitteln gelten vorrangig zur LHO die einschlägigen europäischen Vorschriften für die Förderperiode 2007-2013, aus der die jeweils eingesetzten Fondsmittel stammen. Daraus ergeben sich Besonderheiten insbesondere hinsichtlich der Auszahlung, des Abrechnungsverfahrens, der Aufbewahrungspflichten und der Prüfrechte.
+Die Gehölze sind zu erhalten, bei Nachpflanzungen sind standorttypische Gehölze heimischer Herkunft zu verwenden und bei Beweidung sind die Bestände auszukoppeln.
 
-Die Daten der Zuwendungsempfänger werden elektronisch gespeichert und verarbeitet. Die EU-Verwaltungsbehörde veröffentlicht ab 2008 mindestens einmal pro Jahr ein Verzeichnis der Begünstigten, welche im Rahmen des Entwicklungsprogramms für den ländlichen Raum (EPLR) eine Finanzierung erhalten. (Artikel 58 der Verordnung (EG) Nr. 1974/2006)
+6 Umsetzung
 
-8. Geltungsdauer
+Geeignete Maßnahmen zur Umsetzung der unter Nummer 3 aufgeführten Erhaltungsziele sind in Anlage 2 aufgeführt. Unberührt bleiben Erhaltungs- und Entwicklungsmaßnahmen, die durch die zuständige Naturschutzbehörde angeordnet, zugelassen oder durchgeführt werden.
 
-Diese Richtlinie tritt mit Wirkung vom 1. Januar 2007 in Kraft und gilt bis zum 31. Dezember 2010. Ein Effizienznachweis ist der Verwaltungsbehörde ELER bis zum 31.12.2008 vorzulegen.
+Für die Betreuung, Koordinierung und Kontrolle der Umsetzung des Bewirtschaftungserlasses ist die untere Naturschutzbehörde verantwortlich. Die Durchsetzung der einzelnen Erhaltungsmaßnahmen beziehungsweise deren Berücksichtigung im Vollzug obliegt der jeweilig zuständigen Fachbehörde, die hierüber die untere Naturschutzbehörde auf Anforderung informiert.
 
-[1] Artikel 76 der Verordnung (EG) Nr. 1698/2005 des Rates vom 20. September 2005 über die Förderung der Entwicklung des ländlichen Raums durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (EPLR) in Verbindung mit Artikel 58 Absatz 3 und Anhang VI der Verordnung (EG) Nr. 1974/2006 der Kommission vom 15. Dezember 2006.
+7 In-Kraft-Treten
+
+Dieser Erlass tritt am Tage seiner Veröffentlichung im Amtsblatt für Brandenburg in Kraft.
 
 Anlagen
 
 1
 
-Anlage - Antrag auf Gewährung einer Zuwendung zur Förderung der Verbesserung des Landschaftswasserhaushalts und der Bewirtschaftung der Wasserressourcen im ländlichen Raum 247.5 KB
+Anlage 1 Kartenskizze 86.2 KB
+
+2
+
+Anlage 2 Erhaltungsmaßnahmen und Umsetzungsinstrumente für die in Nr. 4 aufgeführten LRT und Arten 54.8 KB
