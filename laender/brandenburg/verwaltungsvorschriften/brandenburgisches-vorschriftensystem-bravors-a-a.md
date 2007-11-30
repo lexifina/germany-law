@@ -2,7 +2,7 @@
 
 - Herausgeber: Land Brandenburg
 - Datum: 2007-11-30 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/be_berlinchen_2006
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/be_bootzer_torf_2005
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -28,138 +28,116 @@ A |
 Aktuelle Fassung
 Anlagen (2)                    Änderungshistorie
 
-Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz zur Bekanntmachung der Erhaltungsziele nach § 26b Absatz 3 des Brandenburgischen Naturschutzgesetzes und zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung "Berlinchener See, Berlinchener Luch"
+Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz zur Bekanntmachung der Erhaltungsziele nach § 26b Absatz 3 des Brandenburgischen Naturschutzgesetzes und zur Bewirtschaftung des Fauna-Flora-Habitat-Gebietes „Bootzer Torfloch“
 
-vom 11. April 2006
+vom 14. April 2005
 
-(ABl./06, [Nr. 27], S.478)
+(ABl./05, [Nr. 22], S.618)
 
 geändert durch Bekanntmachung des MLUV vom 30. November 2007
 
 (ABl./08, [Nr. 3], S.115)
 
-Dieser Erlass regelt auf der Grundlage des § 26b Abs. 3 des Brandenburgischen Naturschutzgesetzes (BbgNatSchG) in der Fassung der Bekanntmachung vom 26. Mai 2004 (GVBl. I S. 350) die erforderlichen Maßnahmen zur Umsetzung von Artikel 6 der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. EG Nr. L 206 S. 7), zuletzt geändert durch die Richtlinie 97/62/EG vom 27. Oktober 1997 (ABl. EG Nr. L 305 S. 42), - Fauna-Flora-Habitat-Richtlinie (FFH-Richtlinie). Er legt die unter Nummer 3 genannten Erhaltungsziele fest sowie die erforderlichen Erhaltungsmaßnahmen und deren Umsetzungsinstrumente in Anlage 2. Die Umsetzung ist durch die zuständigen Behörden zu gewährleisten.
+Dieser Erlass regelt auf der Grundlage des § 26 b Abs. 3 des Brandenburgischen Naturschutzgesetzes (BbgNatSchG) in der Fassung der Bekanntmachung vom 26. Mai 2004 (GVBl. I S. 350) die erforderlichen Maßnahmen zur Umsetzung von Artikel 6 der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. EG Nr. L 206 S. 7), zuletzt geändert durch die Richtlinie 97/62/EG vom 27. Oktober 1997 (ABl. EG Nr. L 305 S. 42), - Fauna-Flora-Habitat-Richtlinie (FFH-Richtlinie). Er legt die unter Nummer 4 genannten Erhaltungsziele fest sowie die erforderlichen Erhaltungsmaßnahmen und deren Umsetzungsinstrumente in Anlage 2. Die Umsetzung ist durch die zuständigen Behörden zu gewährleisten.
 
 1 Bewirtschaftungsgegenstand
 
-Die in Anlage 1 (Übersichtsskizze) näher bezeichnete Fläche im Landkreis Ostprignitz-Ruppin wurde als FFH-Gebiet mit der Bezeichnung “Berlinchener See, Berlinchener Luch“ und der Gebietsnummer DE 2741-301 in die Liste der Gebiete von gemeinschaftlicher Bedeutung der Europäischen Kommission aufgenommen. Das Gebiet hat eine Größe von rund 364 Hektar und umfasst Flächen in folgenden Fluren:
+Die in Anlage 1 (Übersichtsskizze) näher bezeichnete Fläche im Landkreis Prignitz wurde als FFH-Gebiet mit der Bezeichnung „Bootzer Torfloch“ und der Gebietsnummer DE-2836-303 in die Liste der Gebiete von gemeinschaftlicher Bedeutung der Europäischen Kommission aufgenommen. Das Gebiet hat eine Größe von rund 43 Hektar und umfasst Flächen in folgenden Fluren:
 
-| Gemeinde: | Gemarkung: | Flur:
+| Gemeinde | Gemarkung | Flur
 
-| Wittstock/Dosse
+| Karstädt
 
-| Wittstock
+| Garlin
 
-| 21, 22, 23, 24;
-
-
-| 
-
-| Berlinchen
-
-| 5, 7;
+| 3.
 
 
-| 
+Die Grenze des Geltungsbereiches dieses Erlasses ist in der Übersichtsskizze, in der Biotoptypenkarte im Maßstab 1 : 10.000, der Karte der Lebensraumtypen (LRT) im Maßstab 1 : 10.000 und in der Zielkarte im Maßstab 1 : 10.000 sowie in der Flurkarte eingezeichnet. Als Grenze gilt der innere Rand dieser Linie. Maßgeblich ist die Abgrenzung in der Flurkarte. Diese Karten sind mit einer Flurstücksliste beim Landesumweltamt in Potsdam, beim Landkreis Prignitz als untere Naturschutzbehörde in Perleberg und im Amt Karstädt sowie im Amt für Forstwirtschaft Kyritz einsehbar.
 
-| Groß Haßlow
+2 Beschreibung des FFH-Gebietes
 
-| 2.
+Das FFH-Gebiet befindet sich südlich der Ortschaft Bootz im Landkreis Prignitz und ist  Bestandteil der naturräumlichen Großeinheit Mecklenburgisches Platten- und Hügelland (D05). Es umfasst einen ehemaligen Torfstich sowie die in dessen Umfeld vorkommenden Waldbiotope, Röhrichte und Feuchtgrünland.
 
+Den flächenmäßig größten Anteil nehmen artenreiche Erlen-Eschenwälder auf quellenzügigen Standorten ein, die vermutlich durch natürliche Sukzession entstanden sind. In der Krautschicht dominieren anspruchsvolle, krautige Arten wie Alpen-Hexenkraut (Circaea alpina), Sumpf-Pippau (Crepis paludosa), Einbeere (Paris quadrifolia), Flattergras (Milium effusum). Der Frühjahrsaspekt wird von Busch-Windröschen (Anemone nemorosa), Scharbockskraut (Ranunculus ficaria) und Moschuskraut (Adoxa moschatellina) gebildet.
 
-Die Grenze des Geltungsbereiches dieses Erlasses ist in der Übersichtsskizze (Anlage 1) und im Maßstab 1 : 10 000 in der Biotoptypenkarte, der Karte der FFH-Lebensraumtypen (LRT) und der Zielkarte sowie in Liegenschaftskarten (Blätter 1 bis 20) eingezeichnet. Als Grenze gilt der innere Rand dieser Linie. Maßgeblich ist die Einzeichnung in den Liegenschaftskarten. Diese Karten sind mit einer Flurstücksliste beim Landesumweltamt in Potsdam, beim Landkreis Ostprignitz-Ruppin in Neuruppin als untere Naturschutzbehörde, beim Amt für Forstwirtschaft Kyritz und bei der Stadtverwaltung Wittstock/Dosse von jedermann während der Dienstzeiten einsehbar.
+Größere Flächen im Norden und Nordwesten des Gebietes werden von Rotbuchenwäldern (Fagus sylvatica) saurer Standorte eingenommen. Die spärlich entwickelte Krautschicht setzt sich unter anderem aus Draht-Schmiele  (Deschampsia flexuosa), Maiglöckchen (Convallaria majalis), Zweiblättriger Schattenblume (Marianthemum bifolium) und Haar-Simse (Luzula pilosa) zusammen.
 
-2 Beschreibung des Gebietes von gemeinschaftlicher Bedeutung
+Weitere, kleinere Flächen des Gebietes werden von Erlenbruchwald und Eichen-Mischwald bodensaurer feuchter und frischer Standorte, Röhrichtmoor mit Weidengebüsch sowie einer artenreichen Feuchtwiese eingenommen, die aufgrund des Vorkommens von Sumpf-Blutauge (Comarum palustre), Fieberklee (Menyanthes trifoliata) und breitblättrigem Knabenkraut (Dactylorhiza majalis) unter anderem einen der wertvollsten Standorte des Gebietes darstellt.
 
-Das FFH-Gebiet “Berlinchener See, Berlinchener Luch“ liegt unmittelbar nördlich und west- bis südwestlich angrenzend an die Ortslage Berlinchen und lässt sich dem Naturraum Mecklenburg-Brandenburgisches Platten- und Hügelland zuordnen. Das Gebiet zeichnet sich durch einen hohen Anteil an Mooren beziehungsweise Moor- und Bruchwäldern aus und stellt ein wichtiges Verbindungsglied im regionalen Biotopverbund zwischen der Dosseniederung und der Dranser Seenkette und damit auch zur Mecklenburger Seenkette dar. Dieser Korridor ist für den Individuenaustausch zwischen regionalen Populationen verschiedener Arten der feuchtgebietsgebundenen Faunen- und Florenelemente von hoher Bedeutung.
+Am Westrand kommt als atlantisches Florenelement die Stechpalme (Ilex aquifolium) vor.
 
-3 Erhaltungsziele
+Schutzzweck ist die Erhaltung und Entwicklung der aufgelisteten natürlichen Lebensräume von gemeinschaftlichem Interesse des Anhanges I der FFH-Richtlinie.
 
-Ziel ist die Erhaltung der Birken-Moorwälder, der Population des Fischotters (Lutra lutra), der Population der Schmalen Windelschnecke (Vertigo angustior) sowie die Entwicklung und Wiederherstellung des Flusses der planaren Stufe mit Vegetation des Ranunculion fluitantis, des Hainsimsen-Buchenwaldes und der alten bodensauren Eichenwälder auf Sandebenen mit Quercus robur (Stieleiche).
+3 Beschreibung, Bewertung und ökologische Erfordernisse der Lebensraumtypen nach Anhang I der FFH-Richtlinie
 
-4 Beschreibung, Bewertung und ökologische Erfordernisse der Lebensraumtypen (LRT) nach Anhang I und der Arten nach Anhang II der FFH-Richtlinie
+Lebensraumtypen nach Anhang I der FFH-Richtlinie:
 
-Birken-Moorwald, prioritärer LRT Nummer 91D1, Größe: rund 96,2 Hektar, Erhaltungszustand B
+Waldmeister-Buchenwald, LRT-Nummer 9130, Größe: circa 4,6 Hektar, Erhaltungszustand B
 
-Moorbirkenwald kommt in charakteristischer Ausprägung großflächig im mittleren Teil des Gebiets im Bereich der bereits verlandeten Flächen des Berlinchener Sees und des Großen Sees vor. Für den Erhalt des tiefgründigen Moorkörpers und der typischen Vegetation sind hohe Grundwasserstände sowie witterungs- und niederschlagsabhängig schwankende Nässegrade und Wasserstände notwendig, die zu zyklischem Aufwachsen und Absterben der Gehölze führen und den hohen Totholzanteil bedingen. Eine Nutzung der Flächen soll unterbleiben. Die Nährstoffarmut muss gewährleistet werden, daher sind Nährstoffeinträge durch angrenzende Nutzungen zu unterbinden.
+Mitteleuropäische, gut- bis bestwüchsige Buchen- und Buchen- Eichenwälder auf kalkhaltigen und neutralen, aber basenreichen Böden; Strauchschicht in der Regel nur gering entwickelt; Krautschicht meist gut ausgebildet; oft reich an Frühjahrsblühern, Säurezeiger nur sporadisch vertreten; Standort weder extrem trocken noch staufeucht.
 
-Flüsse der planaren Stufe mit Vegetation des Ranunculion fluitantis, LRT-Nummer 3260, Länge: rund 548 Meter, Erhaltungszustand C
+Bemerkenswert ist das Vorkommen der Stechpalme (Ilex aquifolium) am Westrand.
 
-Dem Lebensraumtyp entspricht nur der am südwestlichen Bereich des Berlinchener Sees austretende, in westliche Richtung verlaufende Fließgewässerabschnitt auf einer Länge von etwa 548 Metern, bis das Gewässer westlich der Ortslage Berlinchen als Kanal weiterfließt. Die natürlichen Gewässerstrukturen sollten an dem in weiten Teilen kaum beziehungsweise nicht zugänglichen Fließgewässerabschnitt erhalten werden. Die Gewässergüte sollte mindestens die Güteklasse 2 aufweisen.
+Alte bodensaure Eichenwälder mit Quercus robur auf Sandebenen, LRT-Nummer 9190, Größe: circa 2,1 Hektar, Erhaltungszustand B
 
-Hainsimsen-Buchenwald (Luzulo-Fagetum), LRT-Nummer 9110, Größe: rund 0,3 Hektar, Erhaltungszustand C
+Naturnahe Laubmischwälder mit Stiel-Eiche (Quercus robur) und Trauben-Eichen (Quercus petraea) unter Beimischung von Birke (Betula pendula), Wald-Kiefer (Pinus sylvestris) und Rotbuche (Fagus sylvatica).
 
-Im Gebiet kommt der Lebensraumtyp im westlichen Bereich vor. Neben der dominierenden Buche (Fagus sylvatica) stehen auch hohe Fichten (Picea abies) und vereinzelt Stieleichen (Quercus robur), im südlichen Bereich zum Teil fremdländische Baumarten im Bestand. Ökologisch erforderlich sind ein hoher Anteil an stehendem und liegendem Totholz, Naturverjüngung des lebensraumtypischen Artenspektrums und ein geringer forstlicher Bewirtschaftungsgrad.
+Die Baumschicht dieser Wälder wird von der Rotbuche beherrscht, wobei sich die Eiche häufig als bestandesprägende Baumart, als so genannter „Überhälter“, herauskristallisiert.
 
-Alte bodensaure Eichenwälder auf Sandebenen mit Quercus robur (Stieleiche), LRT-Nummer 9190, Größe: rund 2,3 Hektar, Erhaltungszustand C
+Die wichtigsten Bodenpflanzen dieser Waldgemeinschaft sind: Schmalblättrige Hainsimse, Haarhainsimse, Waldreitgras, Hainrispengras, Draht-Schmiele sowie Waldbürstenmoos, Besen- oder Gabelzahnmoos, nickendes Birnenmoos, gewöhnliches Sternmoos und das Katharinenmoos.
 
-Der Lebensraumtyp kommt innerhalb des Gebietes auf zwei Teilflächen vor, die unterschiedliche Anteile an Kiefern (Pinus sylvestris), Sand- (Betula pendula) und Moorbirken (Betula pubescens) aufweisen. Der Bestand am südlichen Gebietsrand ist stark ruderalisiert. Ein hoher Anteil an stehendem und liegendem Totholz, die Förderung der Naturverjüngung des charakteristischen Baumartenspektrums und ein geringer forstlicher Bewirtschaftungsgrad werden angestrebt.
+Auen-Wälder mit Alnus glutinosa und Fraxinus excelsior, LRT-Nummer 91E0, Größe: circa 8,4 Hektar, Erhaltungszustand B
 
-Fischotter (Lutra lutra), Erhaltungszustand B
+Durch Quellwasser und Staunässe der Löcknitzaue beeinflusster reich strukturierter Bestand; artenreiche Kraut- und Moosschicht. Traubenkirschen-Eschenwald mit Schwarz-Erle (Alnus glutinosa) und eingestreuter Sand-Birke (Betula pendula), Moor-Birke (Betula pubescens), Stiel-Eiche (Quercus robur), Hainbuche (Carpinus betulus) sowie einzelne Rot-Fichten (Picea abies) und Sitka-Fichten (Picea sitchensis). Die Kraut- und Moosschicht ist gut entwickelt und artenreich. Häufige Arten sind Goldnessel (Lamium galeobdolon), Gemeiner Wasserdarm (Myosoton aquaticum), Rasenschmiele (Deschampsia cespitosa) und Große Brennnessel (Urtica dioica).
 
-Der Fischotter benötigt großflächig vernetzte semiaquatische Lebensräume. Die das Gebiet nutzende Population ist innerhalb des erweiterten Verbreitungsgebietes nicht isoliert. Zur Erhaltung des Habitates ist die derzeitige Gewässerdynamik im Gebiet beizubehalten und weiter zu fördern. Die Zerschneidung von Migrationskorridoren durch Trassen (Verkehrsstraßen) oder Ufer- und Sohlbefestigungen ist zu vermeiden. Die Uferbereiche sind in naturnahem und störungsarmem Zustand zu erhalten.
+Nach der Roten Liste Brandenburgs (Gefährdungsgrad 3) gefährdete Arten sind: Kriech-Günsel (Ajuga reptans), Gebirgs- Hexenkraut (Circea alpina) und vierblättrige Einbeere (Paris quadrifolia). Besonders hervorzuheben ist das Vorkommen der vom Aussterben bedrohten Moosart Thuidium recognitum, das neben den reichlich vorkommenden typischen Auwaldmoosen nur in zwei kleinen Vorkommen auf Steinen verzeichnet wurde.
 
-Schmale Windelschnecke (Vertigo angustior), Erhaltungszustand B
+Erhaltungszustand: B - guter Erhaltungszustand
 
-Die Schmale Windelschnecke bewohnt die feuchte Bodenstreu von Seggenrieden, Röhrichten, Bruchwäldern und See-Verlan-dungsmooren. Eine Zerstörung beziehungsweise Entwertung der Lebensräume und Habitatstrukturen vor allem durch Grundwasserabsenkung, Entwässerung zur Innutzungnahme und/oder Nutzungsintensivierung bislang extensiv genutzten Feuchtgrünlandes mit Ried- und Röhrichtanteilen sowie von Erlenbruchwäldern, durch lang anhaltendes oder dauerhaftes Überstauen sowie infolge einer Eutrophierung der Standorte durch Nährstoffeinträge ist zu verhindern.
+4 Erhaltungsziele
 
-Erhaltungszustand
+Ziel ist die Erhaltung:
 
-A - hervorragender Erhaltungszustand
+des Waldmeister-Buchenwaldes (LRT 9130),
 
-B - guter Erhaltungszustand
+des alten bodensauren Eichenwaldes mit Quercus robur (Stiel-Eiche) auf Sandebenen (LRT 9190),
 
-C - durchschnittlicher oder beschränkter Erhaltungszustand
+des Auen-Waldes mit Alnus glutinosa (Schwarze Erle) und Fraxinus excelsior (Gemeine Esche, LRT 91E0).
 
-5 Bestand und Bewertung der
+5 Bestand und Bewertung der nach § 32 BbgNatSchG geschützten Biotope sowie Biotope, die Einfluss auf die in Nummer 3 aufgeführten Lebensraumtypen und Arten haben
 
-nach § 32 BbgNatSchG geschützten Biotope
+Das Gebiet besitzt auch unter nationalen Gesichtspunkten eine hohe Schutzwürdigkeit. Es beherbergt eine große Zahl an seltenen und gefährdeten Pflanzen- und Tierarten, darunter das breitblättrige Knabenkraut (Dactylorhiza majalis) sowie Fieberklee (Menyanthes trifoliata). Beide Arten werden in der Roten Liste Brandenburgs als stark gefährdet eingestuft.
 
-Biotope, die Einfluss auf die in Nummer 4 aufgeführten Lebensraumtypen nach Anhang I der FFH-Richtlinie und Arten nach Anhang II der FFH-Richtlinie haben
+Gräben
 
-Gräben und Kanäle, teilweise § 32 BbgNatSchG
+Ein Graben befindet sich an der südwestlichen, ein zweiter an der nordöstlichen Grenze des FFH-Gebietes. Es handelt sich um begradigte und unbeschattete Entwässerungsgräben, die nur temporär wasserführend sind. Der Zustand beider Gräben hat direkten Einfluss auf angrenzende Biotope nach § 32 BbgNatSchG sowie deren Lebensraumtypen.
 
-Gräben kommen im gesamten Gebiet vor und entwässern das Grünland in Richtung des Kanals, der das Gebiet von Ost nach West durchzieht und in die Dosse mündet. Teilabschnitte des Kanals unterliegen den Bestimmungen des § 32 BbgNatSchG. Der Kanal sollte langfristig in einen naturnahen Zustand überführt werden. Es ist zu prüfen, ob die Gräben abschnittsweise geschlossen werden können, um den Entwässerungsgrad des Gebietes zu reduzieren. Ziel ist es, eine moorerhaltende Stauhaltung im Gebiet zu erreichen, mit der die Wasserführung in die zentralen Gebiete gelenkt werden kann.
+Feuchtwiesen (§ 32 BbgNatSchG)
 
-Stillgewässer
+Eine Feuchtwiese befindet sich am nordöstlichen Rand des FFH- Gebietes. Sie ist eine artenreiche feuchte Grünlandbrache, in der zahlreiche Sumpfpflanzen zwischen verschiedenen Röhricht- und Seggenpartien eingestreut sind. Sie wird sporadisch durch Schaf- beziehungsweise Pferdebeweidung genutzt. Für die Erhaltung der Seggenbestände sollte eine einmalige jährliche Mahd erfolgen.
 
-Bei den im Gebiet liegenden Stillgewässern handelt es sich um den Berlinchener See, der sich infolge starken Nährstoffeintrags von einem kalkhaltigen mesotrophen Gewässer zu einem eutrophen Gewässer entwickelt hat, und zwei kleinere Gewässer im Westen des FFH-Gebiets, bei denen es sich ebenfalls um eutrophe Gewässer handelt. Einer weiteren Eutrophierung der Gewässer - vor allem des Berlinchener Sees - sollte durch Verringerung der Nährstoffeinträge entgegengewirkt werden.
+Eine weitere kleinere Feuchtwiesenbrache liegt am Südrand des Gebietes. Diese Fläche wird komplett von einer Brennnesselflur eingenommen und wird nicht genutzt.
 
-Bruchwälder, § 32 BbgNatSchG
+Röhrichte der Verlandungszonen und Gewässerufer (§ 32 BbgNatSchG)
 
-Erlenbruchwälder kommen überwiegend in den nordöstlichen Randbereichen der Birkenmoorwälder in typischer Ausprägung vor. Im westlichen Bereich des Gebietes sind die Bruchwälder teilweise durch Austrocknung und Nährstoffeinträge degradiert. Auf den Standorten kann eine den Lebensraumtyp erhaltende und eingeschränkte Bewirtschaftung erfolgen.
+Das Biotop liegt in der Mitte am östlichen Rand des FFH-Gebietes und ist ein typisches Schilfröhricht. Dieser etwas tiefer gelegene Bereich umfasst den ehemaligen Torfstich, der dem Wald „Am Torfloch“ beziehungsweise dem heutigen Schutzgebiet den Namen gab. Das Schilf zeigt sich hier in einer dominanten Art (Phragmites); die übrigen Arten sind nur mit geringer Deckung vertreten. Als gefährdete Art kommt die Sumpfschafgarbe (Achillea ptarmica) vor.
 
-Feuchtgrünland, überwiegend § 32 BbgNatSchG
+Es sollte keine Nutzung jeglicher Art vorgenommen werden. Das Biotop sollte in seiner Hydrologie erhalten werden, schädigende Einflüsse aus den Randbereichen, insbesondere vom Entwässerungsgraben, sollten vermieden werden.
 
-Die zum Teil aufgelassenen Feuchtwiesen und -weiden, die überwiegend um die zentralen Bereiche des Großen Sees und des Berlinchener Sees verteilt vorkommen, sollen extensiv bewirtschaftet beziehungsweise gepflegt werden. Besonders bedeutsam ist der Erhalt von Seggenrieden als Lebensraum der Schmalen Windelschnecke.
+Sternmieren-Birken-Stieleichenwald (§ 32 BbgNatSchG)
 
-Grünland frischer Standorte
+Hierbei handelt es sich um zwei kleinere voneinander getrennte Biotope, die sich am östlichen Rand des FFH-Gebietes befinden. Der aufstockende Baumbestand weist neben einem Anteil von Pionierbaumarten (Espe, Roterle, Birke) das typische Artenspektrum des Sternmieren-Birken-Stieleichenwaldes auf. In der Krautschicht befinden sich mit Stellaria holostea, Molinia caerulea, Deschampsia cespitosa und Convallaria majalis typische Arten des Gilbweiderich-Birken-Stieleichenwaldes. Für die Einstufung in einen FFH-Lebensraumtyp (hier 9190) ist der Stieleichenanteil jedoch zu gering. Die Nutzung dieses Biotopes sollte auf die Förderung der Eiche ausgerichtet werden.
 
-Das Grünland auf frischen Standorten soll möglichst extensiv als Dauergrünland genutzt werden. Alle entwässerten Niedermoorbereiche sollen durch die in Anlage 2 aufgeführten Erhaltungsmaßnahmen in Abstimmung mit der unteren Wasserbehörde stärker vernässt werden, um die Torfmineralisation zu verringern.
+Wald- und Forstflächen
 
-Röhrichtgesellschaften und Grauweidengebüsche, § 32 BbgNatSchG
+Die Flächen sind keinem der vorgenannten Lebensraumtypen zugeordnet, nehmen aber den Hauptanteil der Waldgesellschaften des FFH-Gebietes ein. Hierbei handelt es sich vorwiegend um Laubholzforsten mit beigemischten Nadelgehölzen wie Fichte, Lärche, Douglasie und Kiefer. Im nordöstlichen Bereich des FFH-Gebietes befindet sich ein größerer Fichten-Stangenholz-Komplex. Es wird empfohlen, in den Randbereichen zu den Lebensraumtypen keine intensive Bewirtschaftung durchzuführen. In seinem jetzigen Zustand nicht naturschutzfachlich wertvoll ist der Grauerlenforst, der im Südteil des Gebietes eine große Fläche einnimmt. Die Grauerle ist eine standort- und gebietsfremde Art. Als Restbestockung sind auf den Stock gesetzte Schwarz-Erlen vorhanden, die circa 20 Prozent der Fläche einnehmen. Das Ent- wicklungspotential der Fläche ist hoch. Auf dem organischen Boden kann aus der Restbestockung der Schwarz-Erle ein standortgerechter Moorwald entwickelt werden.
 
-Neben dem den Berlinchener See umgebenden breiten Röhrichtgürtel kommen in enger Verzahnung weitere kleinere Schilfbereiche und Grauweidengebüsche am Rand der Moorwälder vor, die überwiegend eine typische Ausprägung aufweisen. Die Flächen sollen nicht landwirtschaftlich genutzt werden. Eine Pflege der Röhrichtbereiche und Grauweidengebüsche ist nicht notwendig. Die Flächen sollten der natürlichen Sukzession überlassen bleiben.
-
-Magerrasen, § 32 BbgNatSchG
-
-Die im Gebiet überwiegend am nördlichen und östlichen Moränenrand vorkommenden zum Teil ruderalisierten Magerrasen werden als gering gestört bis gestört eingestuft. Sie sollen durch Grünlandpflege in Form von Mahd oder Beweidung erhalten werden. Eine Düngung ist auszuschließen.
-
-Forsten und Vorwaldstadien
-
-Forsten befinden sich auf höher gelegenen Bereichen, die im nördlichen und nordwestlichen Teil des Gebietes an Flächen des Birkenmoorwaldes und Bruchwälder angrenzen. Bestandsbildend sind Kiefern oder Pappeln mit Aufwuchs von Später Traubenkirsche (Prunus serotina) und teilweise Stieleichen.
-
-Bei Verjüngungsmaßnahmen ist auf das Einbringen von Baumarten der potentiell natürlichen Vegetation abzuzielen, die Bewirtschaftung soll möglichst extensiv erfolgen und für eine Erhöhung des Strukturreichtums ist Sorge zu tragen.
-
-Vorwaldstadien finden sich in verschiedenen Bereichen des Gebietes; sie sollen weiterhin der natürlichen Sukzession unterliegen.
-
-Feldgehölze, Baumreihen und Baumgruppen
-
-Die Gehölze sind zu erhalten, bei Nachpflanzungen sind standorttypische Gehölze heimischer Herkunft zu verwenden und bei Beweidung sind die Bestände auszukoppeln.
+Als naturschutzfachlich wertvoll ist außerdem die Alteichen- Reihe am Südrand des Gebietes zu bewerten. Neben mittelalten bis alten Stiel-Eichen kommen Schwarz-Erlen, Eschen, Buchen und Ebereschen vor. Der Unterwuchs an Sträuchern und krautigen Pflanzen ist artenreich.
 
 6 Umsetzung
 
-Geeignete Maßnahmen zur Umsetzung der unter Nummer 3 aufgeführten Erhaltungsziele sind in Anlage 2 aufgeführt. Unberührt bleiben Erhaltungs- und Entwicklungsmaßnahmen, die durch die zuständige Naturschutzbehörde angeordnet, zugelassen oder durchgeführt werden.
+Geeignete Maßnahmen zur Umsetzung der unter Nummer 4 aufgeführten Erhaltungsziele sind in der Anlage 2 aufgeführt. Unberührt bleiben Erhaltungs- und Entwicklungsmaßnahmen, die durch die zuständige Naturschutzbehörde angeordnet oder durchgeführt werden.
 
 Für die Betreuung, Koordinierung und Kontrolle der Umsetzung des Bewirtschaftungserlasses ist die untere Naturschutzbehörde verantwortlich. Die Durchsetzung der einzelnen Erhaltungsmaßnahmen beziehungsweise deren Berücksichtigung im Vollzug obliegt der jeweilig zuständigen Fachbehörde, die hierüber die untere Naturschutzbehörde auf Anforderung informiert.
 
@@ -171,8 +149,8 @@ Anlagen
 
 1
 
-Anlage 1 Kartenskizze 86.2 KB
+Anlage 1 - Übersichtsskizze zum Bewirtschaftungserlass über das FFH-Gebiet Bootzer Torfloch 98.8 KB
 
 2
 
-Anlage 2 Erhaltungsmaßnahmen und Umsetzungsinstrumente für die in Nr. 4 aufgeführten LRT und Arten 54.8 KB
+Anlage 2 - Erhaltungsziele und -maßnahmen sowie Umsetzungsinstrumente für die unter Nummer 3 des Erlasses aufgeführten Lebensraumtypen 76.3 KB
