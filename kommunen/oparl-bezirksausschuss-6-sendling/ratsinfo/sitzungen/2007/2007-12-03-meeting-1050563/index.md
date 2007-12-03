@@ -1,0 +1,61 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2007-12-03T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1050563
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1050563
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Neubau der Eisenbahnbrücke über die Lindwurmstraße; Verkehrsführung für den Schwerlastverkehr
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Mieterbündnis gegen Umwandlung von Mietshäusern in Erhaltungssatzungsgebieten
+- TOP 3.2.: Planung der Einsätze der Münchner Sommer SpielAktion 2008
+- TOP 4.: Schulreferat
+- TOP 4.1.: (E) Bezirkssportanlage an der Dietramszeller Str. 9 Großinstandsetzung des Kunstrasenplatzes 6. Stadtbezirk Sendling Projektkosten (Kostenobergrenze): 715.000 ? (netto) 1. Genehmigung des Bedarfsprogrammes 2. Projektauftrag - <div>nach Antrag</div>
+- TOP 5.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Neugestaltung des Harras; Rückbau der Abbiegespur von der Plinganserstraße in die Lindenschmitstraße
+- TOP 6.2.: Ziele und Grundsätze Sendlinger Verkehrspolitik
+- TOP 6.3.: Haltverbot im Bereich Ein-/Ausfahrt Lidl-Lebensmittelmarkt Lagerhausstraße
+- TOP 6.4.: Meldeliste Bauvorhaben Stadtwerke München
+- TOP 6.5.: Fernwärmebauvorhaben Plinganserstraße 23 bis 33 und Lindenschmitstraße
+- TOP 6.6.: Sanierung der Plinganserstraße im Bereich der Hausnummern 7 bis 11
+- TOP 7.1.: Anhörung der BAs bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen
+- TOP 7.2.: Budgetanträge Isar-Rasselbande e.V., Neuanschaffungen aufgrund Umzugs des Kindergartens; ? 1900,- und 1000,-
+- TOP 7.3.: Budgetantrag des FaschingsFreunde Sendling e.V., Herausgabe eines Faschingskalenders; ? 1725,-
+- TOP 7.4.: Budgetantrag der Inneren Mission München, Anschaffung einer neuen Theke im Treffam; ? 1.318,25
+- TOP 7.5.: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 7.6.: BA-Budget; Aufstellung von zwei Ruhebänken am Sendlinger Kirchplatz
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Oberländerstraße 3c
+- TOP 8.3.: Bauvorhaben Plinganserstraße 19
+- TOP 8.4.: Dreimühlenstraße 42; Errichtung von zwei Plakatanschlagtafeln
+- TOP 8.5.: Novelle Bayerische Bauordnung 2008; Darstellung und erste Bewertung der Neuregelungen
+- TOP 8.6.: Beschlussvollzugskontrolle
+- TOP 8.7.: Perspektive München
+- TOP 8.8.: Magnetschwebebahn
+- TOP 9.: Baureferat
+- TOP 9.1.: Bericht vom Ortstermin am Herzog-Ernst-Platz
+- TOP 9.2.: Bahndeckel Theresienhöhe; Baustellenzufahrt und Baustellenlogistik
+- TOP 9.3.: Isar-Plan; Verbesserung des Hochwasserschutzes
+- TOP 9.4.: Baumaßnahmen auf dem städt. Gelände Meindlstraße 8; zeitliche und inhaltliche Trennung des Bauvorhabens Seniorenzentrum von dem Schulbauvorhaben - <div>zustimmende Kenntnisnahme</div>
+- TOP 9.5.: Geruchsbelästigung am Kanalschacht am Spielplatz in den Neuhofener Anlagen
+- TOP 10.: Baum- und Umweltschutz
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 1: (E) WC-Anlage im Bereich des Flauchers Empfehlung Nr. 02-08 / E 00829 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 12.07.2007 - <div>nach Antrag</div>
+- TOP 2: (E) Überwachung der Einbahnregelung in der Schmied-Kochel-Straße; Verbesserung der Einfahrtmöglichkeit durch Parkverbote Empfehlung Nr. 02-08 / E 00827 der Bürger- versammlung des 6. Stadtbezirkes Sendling am 12.07.2007 - <div>nach Antrag</div>
+- TOP 3: (E) Warenauszeichnung in deutscher Sprache Empfehlung Nr. 02-08 / E 00820 der Bürger- versammlung des Stadtbezirkes 06 -Sendling- am 12.07.2007 - <div>nach Antrag</div>
+- TOP 4: (E) Verlängerung der Grünphase für Fußgänger an der Ampelanlage Oberländerstraße/ Implerstraße Empfehlung Nr. 02-08 / E 00830 der Bürgerversammlung des Stadtbezirkes 6 - Sendling am 12.07.2007 - <div>Kenntnisnahme</div>
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
