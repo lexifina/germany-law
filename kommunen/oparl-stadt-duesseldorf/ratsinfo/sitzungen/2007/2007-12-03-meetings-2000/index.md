@@ -1,0 +1,62 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-12-03T15:00:00+01:00
+- Ende: 2007-12-03T15:35:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2000
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2000
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096778.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096778.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096778.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Rechenschaftsbericht 2006 - einstimmig beschlossen
+- TOP 4: Wirtschaftsplan 2008 des Stadtbetriebes Zentrale Dienste - einstimmig beschlossen
+- TOP 5: Wirtschaftsplan 2008 - einstimmig beschlossen
+- TOP 6: Wirtschaftsplanung 2007 - 2011 - einstimmig beschlossen
+- TOP 7: Abwasserbeseitigungskonzept (ABK) 2008 - 2019 - einstimmig beschlossen
+- TOP 8: Gebührenkalkulation 2008 - einstimmig beschlossen
+- TOP 9: Gebührenkalkulation Straßenreinigung für 2008 - einstimmig beschlossen
+- TOP 10: 17. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 11: Gebührenkalkulation Abfall für 2008 - einstimmig beschlossen
+- TOP 12: 8. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf (Abfallentsorgungssatzung) - einstimmig beschlossen
+- TOP 13: 17. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf (2008) - einstimmig beschlossen
+- TOP 14: Etatberatung 2008 - zur Kenntnis genommen
+- TOP 15: Haushaltssatzung der Lhstdt. D`dorf für das Haushaltsjahr 2008 - passieren lassen
+- TOP 16: Haushaltssatzung der Landeshauptstadt. Düsseldorf i.R. NKF - passieren lassen
+- TOP 17: Vorschläge + Anregungen der Bv`n - passieren lassen
+- TOP 18: Veränderungsverzeichnis zum Haushaltsplanentwurf 2008 etc. - passieren lassen
+- TOP 19: Veränderungsverzeichnis zum Haushaltsplanentwurf 2008 + MIP 2007-2011 - passieren lassen
+- TOP 20: 1. Nachtrag zum Veränderungsverz. Verwaltungshaushalt - passieren lassen
+- TOP 21: 1. Nachtrag zum Veränderungsverz. (Vermögenshaushalt) - passieren lassen
+- TOP 22: Stellenplan- und übersichten 2008 - passieren lassen
+- TOP 23: Bekanntgabe der gen. üpl. u. apl. Ausgaben 2007 - einstimmig beschlossen
+- TOP 24: Ersatzbeschaffung eines Fahrzeuges für Amt 66 - einstimmig beschlossen
+- TOP 25: BSA Franz-Rennefeld-Weg Kunstrasen - einstimmig beschlossen
+- TOP 26: Grundsatzbeschluss "Dachsanierung und Brandschutz - einstimmig beschlossen
+- TOP 27: Bau- und Finanzierungsbeschluss "Sanierung der Te - einstimmig beschlossen
+- TOP 28: Friedhof Stoffeln Erweiterung des Kühlraumes für das Krematorium - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 29: Aufzugsnachrüstung, Blindenleitsystem und Rauchabzugsschächte U-Bf. Victoriaplatz/Klever Straße - einstimmig beschlossen
+- TOP 30: Kieshecker Weg/ Lichtenbroicher Weg - Radwege - einstimmig beschlossen
+- TOP 31: Abbau der alten Verkehrsrechner und Erneuerung von Steuergeräten - Stufe 2 - Bereich Mitte 1 u.West - einstimmig beschlossen
+- TOP 32: Sanierung Kennedydamm - Fahrtrichtung stadteinwärts - einstimmig beschlossen
+- TOP 33: Gründung der Stiftung Park- und Kulturdenkmal Friedhof Golzheim - einstimmig beschlossen
+- TOP 34: Satzung 50-4 neu - einstimmig beschlossen
+- TOP 35: Wiederwahl Schiedsmann H.J. Brock - einstimmig beschlossen
+- TOP 36: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 37: Plan Nr. 5778/039 - Veränderungssperre für das Gebiet Grafenberger Allee / Ivo-Beucker-Straße - einstimmig beschlossen
+- TOP 38: FNP-Ä Nr. 124 - Max-Planckstraße - Stellungnahmen; Planbeschluss - einstimmig beschlossen
+- TOP 39: B-Plan Nr. 6075/035 - In den Kötten - einstimmig beschlossen
+- TOP 40: ekz.bibliotheksservice GmbH - einstimmig beschlossen
+- TOP 41: Jan-Wellem-Jahr 2008 - einstimmig beschlossen
+- TOP 42: Annahme der Schenkung und Aufstellung der Skulptur „Hoppeditz“ von Bert Gerresheim auf der Grünfläche (Rheinort 1-5) hinter dem Haus des Karnevals - einstimmig beschlossen
+- TOP 43: BSA Karl-Hohmann Straße Umbau - einstimmig beschlossen
+- TOP 44: Änderung der Hauptsatzung - passieren lassen
+- TOP 45: Kö - Bogen - 1. und 2. Bauabschnitt - Verkehrsanlagen - passieren lassen
