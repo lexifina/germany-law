@@ -1,0 +1,69 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2007-12-04T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1048987
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1048987
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Schaffung eines Zebrastreifens bzw. Lichtzeichenanlage in der Elsenheimer Straße gegenüber des HIT-Supermarktes sowie in der Lautensackstraße auf Höhe Agnes-Bernauer-Straße
+- TOP 1.2.2.: Verkehrssituation in den Nebenstraßen der Fürstenrieder Straße
+- TOP 1.2.3.: 850. Stadtgeburtstag 2008 und Schülerprojekt "Bevölkerungsentwicklung meines Stadtteils"
+- TOP 2: Anträge
+- TOP 2.1.: Abhaltung einer Mieterversammlung für die Anlage Veit-Stoß-Str. 58-80; Antrag aus der Bürgerversammlung
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschluss Direktorium: Antrag auf Zuschuss aus dem Budget in Höhe von 480 Euro für Kinderschutztraining im November 07 und Januar 08; Antragsteller: Elternbeirat der GS Droste-Hülshoff-Straße
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben 2. Bürgermeisterin vom 26.10.07: Änderung der BA-Satzung; Anhörungsrecht der BAs bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen
+- TOP 4.2.: Schreiben Spielen in der Stadt vom 09.11.07: Planung der Einsätze der Münchner Sommer SpielAktion 2008
+- TOP 5: Baumfällungen
+- TOP 6: Bauvorhaben
+- TOP 6.1.: Flotowstraße: Neubau eines Doppel- und eines Einfamilienhauses mit TG - Vorbescheid
+- TOP 6.2.: Fürstenrieder Str. 21: Umbau des ehem. Kaufhauses "Beck" in ein Gewerbe- und Geschäftshaus mit 2 Wohnungen / Tektur; hier: Baupläne
+- TOP 7: Sonstiges
+- TOP 8: Protokolle
+- TOP 8.1.: BA-Sitzung vom 06.11.07
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben KVR vom 06.06.07: Öffnung der Aindorferstraße zwischen Friedenheimer und Ilmmünster Straße sowie zwischen Flotow- und Fürstenrieder Straße für den gegenläufigen Radverkehr
+- TOP 9.2.: Schreiben KVR vom 07.08.07: Aufhebung des personenbezogenen Behindertenparkplatzes in der Landsberger Str. 357
+- TOP 9.3.: Schreiben KVR vom 08.11.07: Drehgenehmigung für Filmaufnahmen auf öffentlichem Grund; Stadtlohner Str. 2-16 zwischen Perhamerstraße und Helmpertstraße
+- TOP 9.4.: Schreiben KVR vom 13.11.07: Gaststätte "Lemon Trees", Lechfeldstr. 8; unveränderte Fortführung
+- TOP 9.5.: Schreiben Baureferat vom 29.10.07: Räumliche Gestaltung vom Laimer Bahnhofsplatz verbessern (Antrag Nr. 02-08 / B 02262 vom 03.07.07)
+- TOP 9.6.: Schreiben Planungsreferat vom 25.10.07: Reutterstr. 62: Neubau eines Mehrfamilienhauses (8 WE) mit TG (8 Stpl.) / Vorbescheid
+- TOP 9.7.: Schreiben Planungsreferat vom 08.11.07: Agricolastr. 55; Neubau eines Mehrfamilienhauses (9 WE) mit Tiefgarage (9 Stpl.) / Vorbescheid
+- TOP 9.8.: Schreiben Schul- und Kultusreferat vom 07.08.07: Umsetzung des Reutlinger Modells beim Aufbau von Ganztagesschule (Antrag Nr. 02-08 / B 02055 vom 27.03.07)
+- TOP 9.9.: Schreiben Schul- und Kultusreferat vom 31.10.07: Stadtteilbezogenes Verzeichnis der städtischen Kindergärten Horte und Kooperationseinrichtungen
+- TOP 9.10.: Schreiben Direktorium vom 16.11.07: Ablehnung eines Zuschusses aus dem Budget; Antragsteller: LILALU e.V.
+- TOP 9.11.: Schreiben Direktorium vom 16.11.07: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Kindergarten Laimer Strolche e.V.
+- TOP 9.12.: Schreiben Direktorium vom 16.11.07: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Kindertagesstätte der Kath. Kirchenstiftung Namen Jesu
+- TOP 9.13.: Schreiben Direktorium vom 16.11.07: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: STÜPS Schule-Beruf e.V.
+- TOP 9.14.: Schreiben Direktorium vom 16.11.07: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Faschingsclub Laim e.V.
+- TOP 9.15.: Schreiben Direktorium vom 16.11.07: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Deutscher Kinderschutzbund e.V. / Familienzentrum Laim
+- TOP 9.16.: Schreiben Stadtwerke München GmbH vom 25.10.07: Verlängerte Aufstellung des Heizprovisoriums für das Bauprojekt "Laimer Würfel"
+- TOP 9.17.: Schreiben Stadtwerke München GmbH vom 06.11.07: Baumaßnamen der SWM; Wasserprojekt Haslangstraße
+- TOP 9.18.: Bautenliste vom 22.10.-28.10.07 und 29.10.-04.11.07 1. Erstantragsverfahren a) Stroblstr. 25 b) Inderstorferstr. 60 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Westendstr. 200 b) Agricolastr. 59 Rgb c) Aindorferstr. 72
+- TOP 9.19.: Bautenliste vom 05.11.-11.11.07 1. Erstantragsverfahren a) Weiß-Ferdl-Str. 31 b) Schrottstr. 32 c) Landsberger Str. 216 2. Änderungsverfahren a) Fürstenrieder Str. 38 b) Gotthardstr. 116 c) Fürstenrieder Str. 21
+- TOP 9.20.: Bautenliste vom 12.11.07-18.11.07 1. Erstantragsverfahren a) Camerloherstr. 110
+- TOP 9.21.: Schreiben Planungsreferat vom 05.11.07: Liste der beantragten Baumfällungen
+- TOP 9.22.: Schreiben Planungsreferat vom 12.11.07: Liste der beantragten Baumfällungen
+- TOP 9.23.: Schreiben Planungsreferat vom 19.11.07: Liste der beantragten Baumfällungen
+- TOP 9.24.: Schreiben Stadtwerke München GmbH vom 29.10.07: Baumaßnahmen der Stadtwerke; Stichtag: 29.10.07
+- TOP 9.25.: Schreiben Stadtwerke München GmbH vom 05.11.07: Baumaßnahmen der Stadtwerke; Stichtag: 05.11.07
+- TOP 9.26.: Schreiben Stadtwerke München GmbH vom 12.11.07: Baumaßnahmen der Stadtwerke; Stichtag: 12.11.07
+- TOP 9.27.: Schreiben Stadtwerke München GmbH vom 19.11.07: Baumaßnahmen der Stadtwerke; Stichtag: 19.11.07
+- TOP 9.28.: Beschluss des Bauausschusses vom 16.10.07: Fachhearing zum Thema "Baumschutz" (Sitzungsvorlagen Nr. 02-08 / V 10975)
+- TOP 9.29.: Beschluss der Vollversammlung vom 07.11.07: Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); a) Beschlusslage, b) Planfeststellugsverfahren - Erörterung der Stellungnahmen und Einwendungen, c) Ergänzende Informationen, weiteres Vorgehen, d) Anträge und Bürgerversammlungsempfehlungen (Sitzungsvorlagen Nr. 02-08 / V 11053)
+- TOP 9.30.: Beschluss der Vollversammlung vom 07.11.07: Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB), Gemeinsame Resolution der Nordallianz mit der LH München (Sitzungsvorlagen Nr. 02-08 / V 11044)
+- TOP 9.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.11.07: Novelle Bayerische Bauordnung 2008; Darstellung und erste Bewertung der Neuregelung (Sitzungsvorlagen Nr. 02-08 / V 11059)
+- TOP 9.32.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.11.07: Perspektive München - Bilanz; Evaluierungsbericht 2007 (Sitzungsvorlagen Nr. 02-08 / V 11069)
+- TOP 9.33.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.11.07: Beschlussvollzugskontrolle (BVK); 5. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.05 - 30.06.07 (Sitzungsvorlagen Nr. 02-08 / V 11062)
+- TOP 9.34.: Schreiben BA 15 Trudering-Riem vom 30.10.07: Entscheidungszuständigkeiten bei der Standortwahl
+- TOP 9.35.: Schriftverkehr aus der BA-Sitzung vom 06.11.07
+- TOP 1.2: Bürgerpost an den BA
