@@ -1,0 +1,95 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2007-12-04T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1058082
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1058082
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Information zum Arbeitgeberservice im Bürgerzentrum Rathaus Pasing
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Schließung der Kunsteisbahn West
+- TOP 2.2.: Wartehäuschen für die Bushaltestelle Wöhlerstraße (Linien 143 und 162) stadteinwärts
+- TOP 2.3.: Baumfällungen auf dem Anwesen Lützowstraße 11 ("Riemerschmid-Villa")
+- TOP 2.4.: Bauvorhaben Menzinger Straße 85 / Amalienburgstraße 2
+- TOP 2.5.: Nächtlicher Impulslärm und unzureichender Lärmschutz gegen Bahnverkehrslärm (Bahnausbau entlang Nymphenburger Park)
+- TOP 2.6.: Hundekot auf dem Spielplatz Thuillestraße
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Offenbachstraße 8, Baumbestandsplan Nr. 07-70972 (vertagt aus der Sitzung vom 06.11.2007)
+- TOP 3.2.: Heerstraße 12e, Baumbestandsplan Nr. 07-72440
+- TOP 3.3.: Erdmannsdörferstraße 10, Baumbestandsplan Nr. 07-72456
+- TOP 3.4.: Julius-Kreis-Straße 20, Baumbestandsplan Nr. 07-73693
+- TOP 3.3.2: Gefahrenbäume
+- TOP 3.1.: Lützowstraße 11, 2 Buchen (Bescheinigung der Unteren Naturschutzbehörde vom 31.10.2007)
+- TOP 3.2.: Listen des Baureferates-Gartenbau vom 08.11.2007
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Hermann-Köhl-Straße 24
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Bestellung städtischer Leistungen für die Aufwertung von Spielplätzen aus dem Budget des Bezirksausschusses 21 Pasing-Obermenzing
+- TOP 9.2.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget; Antrag der Geschichtswerkstatt "Jüdisches Leben in Pasing und Obermenzing" auf Gewährung eines Zuschusses für die Ausstellung der Forschungsergebnisse zum jüdischen Leben in Pasing und Obermenzing im April / Mai 2008 (vertagt aus der BA-Sitzung vom 06.11.2007)
+- TOP 9.3.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget; Theaterprojekt "Der Zauberer von Oz" in der Pasinger Fabrik (Premiere im Mai 2008)
+- TOP 9.4.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget; Antrag der Arbeitsgemeinschaft der Pasinger Vereine e.V. (ARGE) auf Bezuschussung des Pasinger Faschingstreibens 2008
+- TOP 10.: Anhörungen
+- TOP 10.1.: Blumenauer Strrrraße, Flur-Nr. 1679/8, Neubau einer Kirche mit Gemeinderäumen und einem Mitarbeiterwohnhaus
+- TOP 10.2.: Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen (Antrag Nr. 1785 des BA 5 Au-Haidhausen vom 17.01.07)
+- TOP 10.3.: Adelsbergstraße 1, Neubau eines Mehrfamilienhauses (5 WE) mit TG (vertagt aus der Sitzung vom 06.11.07)
+- TOP 10.4.: Bodenseestraße 31 - 37, Neubau eines Hotels mit Tiefgarage; Vorbescheid (vertagt aus der Sitzung vom 06.11.07)
+- TOP 10.5.: Pasinger Bahnhofsplatz; Neubau eines Einkaufszentrums mit 80 Wohnungen, Tiefgarage (Pasing Arcaden) und eines Nebengebäudes mit 2 Verkaufsgeschossen und Kellergeschoss (Terminalgebäude) (vertagt aus der Sitzung vom 06.11.07)
+- TOP 10.6.: Offenbachstraße 8, Neubau eines Einfamilienhauses, Vorbescheid (vertagt aus der Sitzung vom 06.11.07)
+- TOP 10.7.: Anhörungen im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum: - Pippinger Straße 22 (vertagt aus der Sitzung vom 06.11.07) - Frihindorfstraße 3
+- TOP 10.8.: Wanderveranstaltung der Wanderfreunde Neuaubing am 15. und 16.12.07 mit Start und Ziel beim Max-Planck-Gymnasium, Weinbergerstraße 19
+- TOP 10.9.: Erhalt und Ausbau von Grünflächen zur Naherholung (Empfehlung Nr. 713 der Pasinger Bürgerversammlung vom 03.05.2007)
+- TOP 10.10.: Erdamannsdörferstraße 10, Neubau eines Mehrfamilienhauses mit Tiefgarage, Tektur
+- TOP 10.11.: Pasinger Faschingstreiben mit Faschingszug am 05.02.2008; Antrag auf Veranstaltungsgenehmigung
+- TOP 10.12.: Julius-Kreis-Straße 20, Neubau eines Zweifamilienhauses mit Garage und 2 Stellplätzen
+- TOP 10.13.: Heerstraße 12e, Neubau eines Mehrfamilienhauses mit 5 WE und 5 Garagen sowie Neubau eines Einfamilienhauses mit Doppelgarage
+- TOP 11.: Anträge und Anfragen
+- TOP 11.1.: SPD: Antrag: Umwidmung der Staatsstraße 2063 zur Gemeindestraße (vertagt seit der BA-Sitzung vom 12.06.2007)
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Baumaßnahmen der Stadtwerke München GmbH; Aufstellung mit Stichtagen 05.11.07, 12.11.07, 19.11.07
+- TOP 12.2.: Baufälle im Stadtbezirk (Listen vom 22.10.-28.10.07, v. 05.11.-11.11.07, v. 12.11.-18.11.07
+- TOP 12.3.: Vollzug der Baumschutzverordnung, Fällungsanträge im Stadtbezirk (Listen vom 22.10.-28.10.07, v. 05.11.-11.11.07, v. 12.11.-18.11.07
+- TOP 12.4.: Amtsblatt Nrn. 31, 32 und Sondernr. 2
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Vollversammlung des Stadtrates vom 07.11.2007 - Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Gemeinsame Resolution der Nordallianz mit der Landeshauptstadt München
+- TOP 13.2.: Ausschuss für Stadtplanung und Bauordnung vom 14.11.2007 - Novelle Bayerische Bauordnung 2008, Darstellung und erste Bewertung der Neuregelungen - Änderung des Bebauungsplans für das Gleisdreieck Pasing (Empfehlung Nr. 02-08 / E 00755 der Bürgerversammlung des 22. Stadtbezirkes Aubing-Lochhausen-Langwied vom 26.06.2007) - PERSPEKTIVE MÜNCHEN - Bilanz Evaluierungsbericht 2007 (Bekanntgabe) - Beschlussvollzugskontrolle (BVK); 5. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2007 (Bekanntgabe)
+- TOP 13.3.: Kinder- und Jugendhilfeausschuss vom 04.12.2007 - Konzept zur Umsetzung des Teilplan 4; Tageseinrichtungen, Tagespflege; Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive -
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Baureferat - Errichtung eines Kinderspielplatzes westlich der Pasinger Fabrik - Einwohnerversammlung vom 28.06.2007 zum Thema "Nordumgehung Pasing / Schallschutzwände"; - Fassaden an der Südseite (BA-Schreiben vom 09.10.07) - Absorber an den Bahngleisen (BA-Schreiben vom 09.10.07) - Führung der Nordumgehung Pasing im Bereich des BAhnhofs Pasing (BA-Schreiben vom 09.10.07) - Ablagerungen von Gartenabfällen, Aushubmaterial und Glasscherben bei der Baumschule an der Silberdistelstraße (BA-Schreiben vom 27.09.07) - Erneuerung der Haberlandstraße zwischen Volmstraße und Aubinger Straße (BA-Schreiben vom 09.10.2007) - Mangelnde Sicherheit für Fußgänger und Radfahrer in der Fischer-von-Erlach-Straße (BA-Schreiben vom 24.09.2007) - Baumpflege im Pasinger Stadtpark; Begehung des Pasinger Stadparks am 01.12.2007 - Baumaßnahme der Stadtwerke München GmbH; Stromprojekt Menzinger Straße; Sanierung der Menzinger Straße zwischen Waldhornstraße und Megerlestraße (BA-Antrag Nr. 02-08 / B 02347 vom 24.07.2007)
+- TOP 14.2.: Referat für Gesundheit und Umwelt - Vollzug der Wassergesetze; Skulpturengruppe "Sich aufrichtende Halme" im See bei Schloss Blutenburg; Verlängerung der Aufstellungsgenehmigung bis 30.11.2009
+- TOP 14.3.: Kommunalreferat - Kein Verkauf des Anwesens Lochhausener Straße 21 (Anfrage aus der Obermenzinger Bürgerversammlung am 23.10.2007)
+- TOP 14.4.: Abfallwirtschaftsbetrieb München - Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2008 - 2012 (BA-Schreiben vom 08.10.2007)
+- TOP 14.5.: Kreisverwaltungsreferat - Mangelnde Sicherheit für Fußgänger und Radfahrer in der Fischer-von-Erlach-Straße (BA-Schreiben vom 24.09.07) - Arbeiten im Straßenraum vom 18.09. bis 17.11.2007: Fischer-von-Erlach-Straße (zu Anwesen Agnes-Bernauer-Straße 185), Fernwärme - Überprüfung / Anpassung der Verkehrshinweisschilder im Verlauf Pippinger-, Planegger- und Pasinger Straße (BA-Schreiben vom 11.12.2006)
+- TOP 14.6.: Kulturreferat - Veranstaltungen / Kooperationen im November 2007
+- TOP 14.7.: Referat für Stadtplanung und Bauordnung - Stadtratsvorlage "Sicherheitsmaßnahmen in öffentlichen und Anwohnertiefgaragen, Umsetzung des Stadtratsbeschlusses vom 06.10.2004" - Betzenweg 59 b, Neubau eines Doppel- und eines Mehrfamilienhauses mit TG - Amalienburgstraße 2, Neubau eines Einkaufsmarktes - Geplante große Baumaßnahme im Zentrum von Pasing; Darlegung des zeitlichen Rahmens, der zeitlichen Reihenfolge sowie des Ausmaßes an Belastung für die betroffenen Bürger (BA-Antrag Nr. 02-08 / B 02324 vom 24.07.2007)
+- TOP 14.8.: Schul- und Kultusreferat - Antrag der Initiativgruppe Hausaufgabenhilfe An der Schäferwiese auf Gewährung eines Zuschusses aus dem BA-Budget; Auskunft zu öffentlich geförderten Hausaufgabenhilfen in München - Schließung der Eisbahn West in der Wintersaison 2007/2008 aufgrund fehlender Sanierungsarbeiten
+- TOP 14.9.: Münchner Verkehrsgesellschaft mbH (MVG) - Umsteigebeziehungen zwischen Tram 19 und S-Bahn bzw. Zugverkehr (BA-Antrag Nr. 2321 vom 24.07.07)
+- TOP 14.10.: Münchner Verkehrsgesellschaft mbH - Zusätzliche Bushaltestelle in der Planegger Straße in Höhe des Islamischen Kulturzentrums (BA-Schreiben vom 19.10.2007)
+- TOP 14.11.: Referat für Arbeit und Wirtschaft - Anschaffung eines Defibrillators für den Bahnhof Pasing (BA-Antrag Nr. 02-08 / B 01994 vom 27.03.2007)
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: Seniorenbeirat der Landeshauptstadt München - Ausstellung "Kreativität kennt kein Alter" vom 05.12. bis 20.12.2007 täglich von 10.00 bis 18.00 Uhr in der Rathausgalerie
+- TOP 14.2.: Arbeitsgemeinschaft der Pasinger Vereine e.V. - Pasinger Faschingstreiben 2008; von der MVG vorgeschlagene Tätigkeiten zur Kostenreduzierung
+- TOP 14.3.: Alten- und Service-Zentrum Obermenzing - Tausch der Nutzungsreihenfolge in der Parkbucht vor Packenreiterstraße 48 - 52
+- TOP 14.4.: Baywobau Baubetreuung GmbH - Nahversorgung An der Schäferwiese / Alte Allee
+- TOP 14.5.: Pädagogische Aktion / Spielen in der Stadt e.V. - Planung der Einsätze der Münchner Sommer SpielAktion 2008
+- TOP 14.6.: Planungsgruppe 504 - Plangutachten Pasing Zentrum; Protokoll des Kolloquiums vom 08.11.2007
+- TOP 14.7.: DB Regio AG - Geänderter Fahrplan der S-Bahn München (BA-Schreiben vom 13.11.2007)
+- TOP 15.: Verschiedenes
