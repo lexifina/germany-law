@@ -1,0 +1,106 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2007-12-04T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1018341
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1018341
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2: Protokoll/e
+- TOP 1.1.3: Sonstiges / anwesende Behördenvertreter
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+- TOP 1: Beleg für die Aussage, dass es keine Zusammenhänge zwischen dem Betrieb eines Kontaktladens und der Drogenszene im Bereich des Kustermannparks gibt; Empfehlung Nr. 02-08 / E 00744 der Bürgerversammlung des Stadtbezirkes 16 am 24.05.2007; Sitzungsvorlage Nr. 02-08 / 11212; Beschlussvorlage des Referats für Gesundheit und Umwelt - <div>in den UA Gesundheit, Umwelt, Grünplanung verwiesen</div>
+- TOP 3.: Anträge
+- TOP 3.1.: Verkehrsberuhigung in der Holzwiesenstraße; Bürgerschreiben vom 18.07.2007 (vertagt aus der Sitzung am 06.11.2007) - <div>in den UA Verkehr verwiesen</div>
+- TOP 3.2.: Radwege am Innsbrucker Ring/Kreuzung Hechtseestraße/Kirchseeonerstraße; Bürgerschreiben vo m 10.11.2007 - <div>WL an das KVR</div>
+- TOP 3.3.: Anzeigefehler bei U2 Innsbrucker Ring; Bürgerschreiben vom 21.11.2007 - <div>WL an die MVG</div>
+- TOP 3.4.: Zufahrt zum Ostpark bzw. zum Restaurant "Michaeligarten"; Bürgerschreiben vom 22.10.2007 - <div>in den UA Verkehr verwiesen</div>
+- TOP 3.5.: Änderung der Vorfahrtssituation in der Straße Im Gefilde; Dem ÖPNV Vorrang verschaffen!; Antrag der CSU-Fraktion vom 04.12.2007 - <div>nach Antrag + Erg. (siehe Protokoll)</div>
+- TOP 3.1.: Übernahme der Fahrtkosten für die Hortkinder der Gänselieselschule; Antrag der CSU-Fraktion vom 04.12.2007 - <div>nach Antrag</div>
+- TOP 3.1.: Bürgerbeschwerde über Drogen- und Alkoholszene in der Hechtseestr.; Bürgerschreiben vom 19.09.2007 (vertagt aus der Sitzung am 06.11.2007) - <div>WL an RGU, KVR, Bau- und Sozialreferat</div>
+- TOP 3.2.: Lärmbelästigung durch die U 5; Bürgerschreiben vom 06.11.2007 - <div>WL an die MVG</div>
+- TOP 3.3.: "Verlängerter Ostpark" bis Hugo-Lang-Bogen; Leinenzwang für Hunde; Aufstellung von Abfallcontainern für Hundekot; Bürgerschreiben vom 06.11.2007 - <div>nach Antrag</div>
+- TOP 3.3.6: Sonstige Anträge
+- TOP 3.1.: Änderung der Straßenreinigungs- und -sicherungsverordnung der Landeshauptstadt München; Bürgerschreiben vom 23.08.2007 - <div>Information der Antragsteller</div>
+- TOP 3.2.: Umbenennung des U-Bahnhof "Neuperlach Süd"; Bürgerschreiben vom 29.10.2007 - <div>abgelehnt</div>
+- TOP 3.3.: Verwendungsnachweis über Finanzmittel aus dem Mehrjahresinvestitionsprogramm 2007 bis 2011; Antrag der CSU-Fraktion vom 30.11.2007 - <div>erledigt</div>
+- TOP 4.: Berichte
+- TOP 4.4.1: Unterausschuss Verkehr
+- TOP 4.4.2: Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 4.4.3: Unterausschuss Schule, Jugend Soziales und Sport
+- TOP 4.4.4: Unterausschuss Bau und Stadtteilentwicklung
+- TOP 4.4.5: Unterausschuss Gesundheit, Umwelt und Grünplanung
+- TOP 4.4.7: Berichte der Beauftragten
+- TOP 4.4.7.1: Baumschutz
+- TOP 4.4.7.2: Kinder
+- TOP 4.4.7.3: Jugend
+- TOP 4.4.7.4: Senioren/-innen
+- TOP 4.4.7.5: Frauen
+- TOP 4.4.7.6: Unterkunftsanlagen und Wohnen
+- TOP 4.4.7.7: Integration
+- TOP 4.4.7.8: Behinderte
+- TOP 5.: Anhörungsfälle / Stellungnahmen
+- TOP 5.1.: Innsbrucker Ring / Bad-Schachener-Str. (Linksabbiegermöglichkeit); Innsbrucker Ring / Schlüsselbergstraße; Schreiben des Baureferat vom 11.10.2007 mit der Bitte um Stellungnahme (vertagt aus der Sitzung am 06.11.2007); hierzu Schreiben des Baureferates vom 12.11.2007 - <div>gem. der Empfehlung des UA Verkehr</div>
+- TOP 5.1.: Anhörung bezüglich des Betriebskonzept des Trägerverein Pepper e.V.; Zuleitung des Trägerverein Pepper e. V. vom 18.10.2007 (vertagt aus der Sitzung am 06.11.2007) - <div>Zustimmung gem. der Empfehlung des UA Kultur, Vereine, Veranstaltungen</div>
+- TOP 5.2.: Zirkus Baldoni 07.03-17.03.08 Kirchseeoner Str/Innsbrucker Ring; Schreiben des Kreisverwaltungsreferates vom 12.11.2007 mit der Bitte um Kenntnis- und Stellungnahme - <div>Zustimmung</div>
+- TOP 5.3.: Gastspielanfrage Circus ?Kaiser? auf dem städtischen Grundstück an der Carl-Wery-straße; Zuleitung des Kommunalreferats mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.1.: Spielen in der Stadt; Planung der Einsätze der Münchener Sommer Spiel Aktion 2008; Bitte um Platzvorschläge bis Mitte Januar 2008; Schreiben des PA/Spielen in der Stadt e.V. - <div>in den UA Schule, Jugend Soziales verwiesen</div>
+- TOP 5.1.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheiten Nr. 7.2; Anhörungen des Referates für Stadtplanung und Bauordnung zu Bauvorhaben im Einzelfall auf Anforderung 5.4.1.1 Anwesen in der Weddigenstraße; Zuleitung vom 04.10.2007 (vertagt aus der Sitzung am 06.11.2007) 5.4.1.2 Anwesen in der Elise-Aulinger-Straße; Zuleitung vom 29.10.2007 (vertagt aus der Sitzung am 06.11.2007) 5.4.1.3 Anwesen in der Melanchthonstraße; Zuleitung vom 26.11.2007 - <div>Zustimmung zu allen drei Vorhaben</div>
+- TOP 5.2.: Planungsrechtliche Festsetzung einer dauerhaften Offenhaltung der Schmidbauerstraße für den Fahrverkehr; Sachstandsberichte in den Bürgerversammlungen; Empfehlung Nr. 02-08 / E 00752 der Bürgerversammlung des 16. Stadtbezirkes - Ramersdorf-Perlach - am 24.05.2007 mit der Bitte um Stellungnahme; Mitteilung des Referates für Stadtplanung und Bauordnung vom 06.11.2007 - <div>Zustimmung zur Beschlussvorlage</div>
+- TOP 5.1.: Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen; BA-Antrags-Nr- 02-08 / B 01785 des Bezirksausschusses des Stadtbezirkes 05 - Au - Haidhausen vom 17.01.2007 - <div>in den UA Gesundheit, Umwelt, Grünplanung verwiesen</div>
+- TOP 6.: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1.: Errichtung einer Lichtzeichenanlage an der Kreuzung Arnold-Sommerfeld-/Carl-Wery-Straße; Empfehlung Nr. 02-08 / E 00743 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf - Perlach am 24.05.2007; Schreiben des Oberbürgermeisters vom 05.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Verkehr verwiesen</div>
+- TOP 6.2.: Verbesster Winterdienst auf den Gehwegen der Madelsederstraße; Mitteilung des Baureferates vom 07.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Verkehr verwiesen</div>
+- TOP 6.3.: Verlängerung der Buslinie Nr. 144 bis zum Giesinger Bahnhof; Mitteilung des Referates für Arbeit und Wirtschaft vom 07.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Verkehr verwiesen</div>
+- TOP 6.4.: Verkehrssituation Nabburger Straße; Mitteilung des Kreisverwaltungsreferates vom 08.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Verkehr verwiesen</div>
+- TOP 6.5.: Nachrüsten der Fußgängerampel zur Querung Innsbrucker Ring aus Richtung Ottobrunner Straße in die Aribonenstraße und der Fußgängerbedarfsampel zur Querung der Autobahnabfahrt BAB 8 auf den Innsbrucker Ring mit kombinierten Anzeigen für Fußgänger und Radfahrer; Mitteilung des Kreisverwaltungsreferates vom 23.10.2007 - <div>zur Kenntnis genommen bzw. in den UA Verkehr verwiesen</div>
+- TOP 6.6.: Verkehrssituation Einmündung Alfred- Neumann-Anger/Plievierpark; Sitzung des BA 16 am 02.10.2007; Mitteilung des Kreisverwaltungsreferates vom 22.10.2007 - <div>zur Kenntnis genommen bzw. in den UA Verkehr verwiesen</div>
+- TOP 6.8.: Einrichtung einer vorgezogenen Haltelinie auf der der Ottobrunnerstraße in Höhe Ausfahrt Woferlstraße; Antrag Nr. 02-08 / B 02518 des BA 16 vom 06.11.2007; Antwortschreiben des Kreisverwaltungsreferats vom 19.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Verkehr verwiesen</div>
+- TOP 6.1.: Bericht des Sommerfestes des Kultur- und Solidaritätsvereins der Bürger Usak e.V. am 24.06.2007; Anfrage des BA 16 aus der Sitzung vom 06.03.2007; Mitteilung des Kreisverwaltungsreferates vom 12.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Kultur, Vereine, Veranstaltungen verwiesen</div>
+- TOP 6.2.: 850. Stadtgeburtstag München; Veranstaltung des Bezirksausschusses 16 auf dem Hanns-Seidel-Platz vom 04.07.2008 bis 06.07.2008; Mitteilung der Markthallen München vom 12.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Kultur, Vereine, Veranstaltungen verwiesen</div>
+- TOP 6.1.: Aufstellung von Fußballtoren auf der Wiese nördlich des Spielplatzes am Theodor-Heuss-Platz; Antwortschreiben des Baureferates vom 26.10.2007 - <div>zur Kenntnis genommen bzw. in den UA Schule; Jugend, Soziales, Sport  verwiesen</div>
+- TOP 6.2.: Ausstattung des Spielplatzs Kirchseeoner Straße Ecke Aribonenstraße mit weiteren ? auch kleinkindgerechten ? Spielgeräten; Aufstellung eines Hundekottütenspenders; Austausch des Eingangsschilds, aus Richtung Aribonenstraße; Antrags Nr. 02-08 / B 02428 des BA 16 vom 02.10.2007; Antwortschreiben des Baureferats 19.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Schule; Jugend, Soziales, Sport  verwiesen</div>
+- TOP 6.1.: Wiederholung der Informationsveranstaltung für Baumschutzbeauftragte der Bezirksausschüsse im Frühsommer 2008; Mitteilung des Referates für Stadtplanung und Bauordnung vom 07.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Bau und Stadtteilentwicklung verwiesen</div>
+- TOP 6.1.: Novellierung der Naturdenkmalverordnung; Vorschlag des Bezirksausschusses 16 - sog. Schneller-Linde; Mitteilung des Referates für Stadtplanung und Bauordnung vom 31.10.2007 - <div>zur Kenntnis genommen bzw. in den UA Gesundheit, Umwelt, Grünplanung verwiesen</div>
+- TOP 6.1.: Bessere Beleuchtung des Weges vom U-Bahnhof Quiddestraße zur Plettstraße; Schreiben der WSB Bayern GmbH & Co. oHG vom 12.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Verkehr verwiesen</div>
+- TOP 7.: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Anordnung eines Halteverbotes nach Zeichen 283 StVO in der Balanstraße Ostseite 5 m südlich der Einfahrt zum Anwesen 101 bis zur Einfahrt des Anwesens Balanstraße 99; Verkürzung der Parkstreifenmarkierung in höhe Balanstraße 101 um eine PKW-Länge; Mitteilung des Kreisverwaltungsreferats vom 09.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Verkehr verwiesen</div>
+- TOP 7.2.: Beschlussvollzugskontrolle (BVK); 5. Bericht über die BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2007; Sitzungsvorlage Nr. 02-08/V 11062; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Verkehr verwiesen </div>
+- TOP 7.3.: Magnetschwebebahn; München Hauptbahnhof - Flughafen (MSB) Gemeinsame Resolution der Nordallianz mit der Landeshauptstadt München; Sitzungsvorlagen nr. 02-08 / 11044; Beschluss der Vollversammlung des Stadtrates vom 07.11.2007; Mitteilung des Referates für Stadtplanung und Bauordnung vom 07.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Verkehr verwiesen </div>
+- TOP 7.4.: 7.1.4 Verkehrsrechtliche Anordnungen nach § 45 StVO; 7.1.4.1Verlegung der Bushaltestelle "Ständlerstraße" Richtung Süden in der Balanstraße (MVG-Linien 139 und 145); Mitteilung des Kreisverwaltungsreferates vom 29.10.2007 7.1.4.2 Neue Bushaltestelle "MVG-Museum" in der Ständlerstraße (Sonderlinie); Mitteilung des Kreisverwaltungsreferat vom 26.10.2007 7.1.4.3 Bushaltestellen für einen Schienenersatzverkehr bei Ausfall der S-Bahn; Mitteilung des Kreisverwaltungsreferates vom 24.10.2007 - <div>zur Kenntnis genommen bzw. in den UA Verkehr verwiesen </div>
+- TOP 7.1.: Mitteillungen über Grundstücksgeschäfte im 16. Stadtbezirk; Zuleitungen des Kommunalreferats 7.4.1.1Im Gefilde; Mitteilung vom 08.11.2007 7.4.1.2 Balanstraße; Mitteilung vom 29.10.2007 - <div>zur Kenntnis genommen bzw. in den UA Bau und Stadtteilentwicklung verwiesen</div>
+- TOP 7.2.: Baufälle im 16. Stadtbezirk - <div>zur Kenntnis genommen bzw. in den UA Bau und Stadtteilentwicklung verwiesen</div>
+- TOP 7.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats 7.4.3.1 Cafe Bistro Efe, Peschlanger 11/ UG; Mitteilung vom 09.11.2007 7.4.3.2 Pizza Grillrestaurant Tabasco, Oskar-Maria-Graf-Ring 20; Mitteilung vom 24.10.2007 7.4.3.3 Da Albano (ehemals "Chiemgaustuben"), Kagerstr. 14; Mitteilung vom 16.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Bau und Stadtteilentwicklung verwiesen</div>
+- TOP 7.4.: PERSPEKTIVE MÜNCHEN - Bilanz; Evaluierungsbericht 2007 Sitzungsvorlagen Nr. 02-08/V 11069; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007; Mitteilung des Referates für Stadtplanung und Bauordnung vom 14.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Bau und Stadtteilentwicklung verwiesen</div>
+- TOP 7.5.: Novelle Bayerische Bauordnung 2008; Darstellung und erste Bewertung der Neuregelungen; Situngsvorlagen Nr. 02-08 / V 11059; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007; Mitteilung des Referates für Stadtplanung und Bauordnung vom 14.11.2007 - <div>zur Kenntnis genommen bzw. in den UA Bau und Stadtteilentwicklung verwiesen</div>
+- TOP 7.6.: Katalog der Fälle der Anhörung der Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Mitteilung des Baureferates vom 31.10.2007 - <div>zur Kenntnis genommen bzw. in den UA Bau und Stadtteilentwicklung verwiesen</div>
+- TOP 7.7.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse 7.4.7.1 Anwesen in der Görzerstr.; Zuleitung d. Amtes für Wohnen u. Migration vom 31.10.07 mit der Bitte um Kenntnisnahme - <div>zur Kenntnis genommen bzw. in den UA Bau und Stadtteilentwicklung verwiesen</div>
+- TOP 7.8.: Fachhearing zum Thema "Baumschutz"; Antrag Nr. 02-08 A 03862 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 31.07.2007; Sitzungsvorlage Nr. 02-08 / V 10975; Beschluss des Bauausschusses vom 16.10.2007; Mitteilung des Baureferates vom 25.10.2007 - <div>zur Kenntnis genommen bzw. in den UA Bau und Stadtteilentwicklung verwiesen</div>
+- TOP 7.1.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse 7.6.1.1 AntragstellerIn: Grundschule an der Weißenseestr. 45, für die Maßnahme: Tanz und Schule für 4 Grunschulklassen mit durchschnittliche 24 Schülerinnen und Schülern; Antragssumme: 2.400,-- Euro; Antrag vom 05.11.2007 - <div>abgesetzt, Antrag muss BA 17 zugeleitet werden</div>
+- TOP 7.2.: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 8: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 8.8.1: Termine der UA - Sitzungen
+- TOP 8.8.1.1: Verkehr
+- TOP 8.8.1.2: Kultur, Vereine und Veranstaltungen
+- TOP 8.8.1.3: Schule, Jugend, Soziales und Sport
+- TOP 8.8.1.4: Bau- und Stadtteilentwicklung
+- TOP 8.8.1.5: Gesundheit, Umwelt und Grünplanung
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Sonstiges / Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 7.7.1: Bereich Unterausschuss Verkehr
+- TOP 7.7.2: Bereich Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 7.7.3: Bereich Unterausschuss Schule, Jugend, Soziales und Sport
+- TOP 7.7.4: Bereich Unterausschuss Bau und Stadtteilentwicklung
+- TOP 7.7.5: Bereich Unterausschuss Gesundheit, Umwelt und Grünplanung
+- TOP 7.7.6: Sonstige
+- TOP 8.8.1.6: Arbeitskreis Hanns-Seidel-Platz
