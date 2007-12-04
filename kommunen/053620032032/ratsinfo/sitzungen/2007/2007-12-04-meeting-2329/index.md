@@ -1,0 +1,52 @@
+# Haupt- und Finanzausschuss (21. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2007-12-04T17:02:00+01:00
+- Ende: 2007-12-04T20:49:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZabqUBstbfIq4JGoGBBGUQE
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/2329
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZazkqgWtHbpj9AWsuF4fE3-pNy7DNpIPqZ5Lx5SEP5Wl/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_04.12.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der Sitzung vom 23.10.2007
+- TOP 2.: Anregung und Beschwerden gem. § 24 GO NW
+- TOP 2.1: Sicherheit des Fußgängerüberweges auf der Rathausstraße in Horrem westlich der Einmündung Ichendorfer Straße/Rotkreuzweg hier: Anregung gem. § 24 GO NRW
+- TOP 2.2: Änderung der Fahrroute der Buslinie 966 und 976 im Schülerverkehr hier: Anregung nach § 24 GO
+- TOP 3.: Haushaltsentwicklung 2008-2011
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: 17. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Stadt Kerpen
+- TOP 4.2: 11. Satzung zur Änderung der Benutzungsgebührensatzung zur Entwässerungssatzung der Stadt Kerpen
+- TOP 4.3: 2. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Stadt Kerpen
+- TOP 4.4: 7. Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Stadt Kerpen
+- TOP 5.: Fortbestand des Workshops Entschuldungskonzept
+- TOP 6.: Orte und Stadtbezirke in Kerpen; hier: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 7.: Umsetzung der Verordnung über die Arbeitszeit der Beamtinnen und Beamten des feuerwehrtechnischen Dienstes im Lande Nordrhein-Westfalen (AZVO-Feu)
+- TOP 8.: Bereitstellung von Ausbildungsplätzen 2008
+- TOP 9.: Stellenplan 2007: hier: zusätzlicher Stellenbedarf im Bereich Kindertagesbetreuung
+- TOP 9a: Regenwassermulden Vogelrutherfeld, Kerpen-Sindorf
+- TOP 10.: Stromliefer-Sonderverträge
+- TOP 11.: Förderung der Erziehungsberatungsstelle Horrem / Mittelstraße
+- TOP 11a: Antrag auf Bereitstellung außerplanmäßiger Haushaltsmittel Sozialraumprojekt Sindorf
+- TOP 12.: Forstwirtschaftsplan 2008
+- TOP 13.: Gefährdung der Wiederaufforstung des Fichtenwäldchens
+- TOP 14.: Mitteilungen
+- TOP 14.1: Mitteilung: Neuer Entsorger für Leichtverpackungen (LVP) ab 2008
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 16.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 17.: Vorhabenbezogener Bebauungsplan KE Nr. 272 B "Eindhovener Straße"; hier: Abschluss eines Durchführungsvertrages
+- TOP 18.: Flurbereinigung Hambach-Ost zur Verlegung der Autobahn A 4 hier:Veräußerung von Teilflächen aus der städtischen Parzelle Gemarkung Blatzheim, Flur 35, Flurstück 105
+- TOP 19.: Festlegung des Verkaufspreises für städtische Baugrundstücke im B-Plangebiet „Bohmanns Kau“ in Kerpen-Horrem und Festlegung der Vergaberichtlinien
+- TOP 20.: Abgrabungen auf städtischen Flächen in der Gemarkung Buir, Flur 5 und Flur 9 hier: Sand- und Kiesgewinnung
+- TOP 21.: Verkauf von Grundstücken im Rahmen des Projektes "Horrem 2010" am Bahnhof Horrem
+- TOP 21.1: Verkauf eines Grundstückes im Rahmen des Projektes "Horrem 2010" am Bahnhof Horrem
+- TOP 21.2: Verkauf eines Grundstückes im Rahmen des Projektes „Horrem 2010“ am Bahnhof Horrem hier: Fläche für das Dialysezentrum im Gleisdreieck
+- TOP 22.: Erwerb einer öffentlichen Fläche von der WFK Wirtschaftsförderung Kerpen GmbH
+- TOP 23.: Mitteilungen
+- TOP 24.: Anfragen gem. § 18 Geschäftsordnung
