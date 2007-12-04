@@ -1,0 +1,58 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2007-12-04T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1038115
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1038115
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching ? Hasenbergl Umstufung einer Teilstrecke des Feld- und Waldweges Nr. 59 (ohne eigenen Namen) - nördlich der Heppstraße -
+- TOP 2: (E) Straßenbaumaßnahmen ?Am Blütenanger? Empfehlung Nr. 02-08 / E 00730 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching - Hasenbergl am 22.05.2007
+- TOP 2.3.: (E) Erweiterung....
+- TOP 3.1.: Verlegung des Kriegerdenkmals - Fasanerie
+- TOP 3.2.: Vorschlag zur Änderung der Vorgehensweise bei künftigen Suchkreisenmeldungen
+- TOP 3.3.: Setzen eines Absperrpfosten im Durchgang vom Thomas-Theodor-Heine-Weg zur Steindlestraße
+- TOP 3.4.: Antrag auf Verkehrsberuhigung in der Pappelallee
+- TOP 3.5.: Bei der Umsetzung des Bebauungsplan Nr. 1763j, Grohmann-/Aschenbrenner-/Paulkestraße sollen für die wegfallenden Parkplätze preisgünstige Ersatzparkplätze geschaffen werden.
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Anhörungsrecht der Bezirksausschüsse bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen (Antrag des BA 5)
+- TOP 5.2.: Planung der Einsätze der Münchner Sommer SpielAktion 2008
+- TOP 5.3.: Bauvorhaben: Dülferstraße - <div>Zustimmung, einstimmig, auf Ersatzpflanzung wird Wert gelegt.</div>
+- TOP 5.4.: Vollzug der Baumschutzverordnung: a) Blodigstr. 1 - 34 a b) Gutmannstr. 20 - <div>Zustimmung, einstimmig, auf Ersatzpflanzung wird Wert gelegt.</div>
+- TOP 5.5.: Verkehrsplanung im Münchner Norden
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Filiale der Stadtsparkasse am Hasenbergl - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Grünfläche mit Lärmschutzwall/-wand Azaleenstraße (BA-Antrag Nr. 2106 vom 15.05.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Aufstellen von zusätzlichen Ruhebänken mit Rückenlehne an der Stockbahn in der Grünanlage Eduard-Spranger-Straße / Gundermannstraße (BA-Antrag Nr. 2372 vom 11.09.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.4.: Neues Spielgerät und Verstärkung der Bepflanzung für den Spielplatz am Skabiosenplatz (BA-Antrag Nr. 2374 vom 11.09.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Verkehrsrechtliche Anordnung: a) Errichtung eines personenbezogenen Behindertenparkplatzes - <div>zur Kenntnis genommen</div>
+- TOP 6.6.: Unveränderte Fortführung eines Gaststättenbetriebes: a) "Grüne Insel", Karlsfelder Str. 85 - <div>zur Kenntnis genommen</div>
+- TOP 6.7.: Meldelisten Bauvorhaben - <div>zur Kenntnis genommen</div>
+- TOP 6.8.: Meldelisten Baumfällungen - <div>zur Kenntnis genommen</div>
+- TOP 6.9.: Fällung von Gefahrenbäume - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Meldelisten Baumaßnahmen Stadtwerke - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtung - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Fachhearing zum Thema "Baumschutz" - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Mitteilung über ein Grundstücksgeschäft - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Novelle Bayerische Bauordnung 2008 Darstellung und erste Bewertung der Neuregelungen - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Erstellung einer Außenbereichssatzung für die Siedlung Am Dratfeld/Sommerweide (Empfehlung Nr. 729 der Bürgerversammlung des BA 24 am 22.05.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Beschlussvollzugskontrolle (BKV); 5. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Nordwest Sammelkanal - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: PERSPEKTIVE MÜNCHEN - Bilanz Evaluierungsbereicht 2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB) - <div>zur Kenntnis genommen</div>
+- TOP 6.20.: Magnetschwebebahn München Haupftbahnhof - Flughafen (MBS) Gemeinsame Resolution der Nordallianz mit der Landeshauptstadt München - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte
+- TOP 7.1.: 1. Kinder- und Jugendsprechstunde
+- TOP 7.2.: Virginia-Depot - Gespräch mit dem Referat für Stadtplanung und Bauordnung
+- TOP 7.3.: Runder Tisch mit dem BA 11 und dem Kulturreferat
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
