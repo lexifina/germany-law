@@ -1,0 +1,8 @@
+# TOP 4.: Entwurf der 10. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Wasserversorgungssatzung der Gemeinde Stemwede
+
+- Sitzung: Betriebsausschuss für Wasser und Abwasser (13. Sitzung) (2007-12-05)
+- Körperschaft: Gemeinde Stemwede
+- Öffentlich: ja
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/3540
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
+- Beratung: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/1496
