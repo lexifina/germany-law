@@ -1,0 +1,105 @@
+# 12. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2007-12-05T17:10:00+01:00
+- Ende: 2007-12-05T22:44:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=504
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=504
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl eines Schiedsmannes für den Schiedsamtsbezirk Neukölln 3 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Stadtentwicklung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Entwurf des Bebauungsplanes XIV-287a vom 06.07.2007 ("Krugpfuhlsiedlung - Hanne Nüte") - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2007/2008 und im Jahr 2008 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Umweltzonen-Sondergenehmigungen - beantwortet
+- TOP 7.2: Einweihung der farbgestaltung verhindert? - beantwortet
+- TOP 7.3: Neues Konzept für Mütterkurse an der VHS - schriftlich beantwortet
+- TOP 7.4: Sanierungsmaßnahmen Columbiadamm - beantwortet
+- TOP 7.5: Leistungsgewährleistung zu den Feiertagen - beantwortet
+- TOP 7.6: Hausverbot im Jobcenter - beantwortet
+- TOP 7.7: Anwohnerinitiative Flughafenstraße - beantwortet
+- TOP 7.8: Energiepass für öffentliche Gebäude in Neukölln - beantwortet
+- TOP 7.9: EU-Mittel für neue Bäume - beantwortet
+- TOP 7.10: Aus für gymnasiale Oberstufen? - beantwortet
+- TOP 7.11: Sanitärsanierung - beantwortet
+- TOP 7.12: Pflege von Ehrengräbern - beantwortet
+- TOP 7.13: Leitungsbaustelle Kiehlufer - schriftlich beantwortet
+- TOP 7.14: Werbung an Neuköllner Schulen - schriftlich beantwortet
+- TOP 7.15: Gehwege, die für die maschinelle Reinigung im Winter 2007/2008 ungeeignet sind - schriftlich beantwortet
+- TOP 7.16: Sanierung der Karl-Marx-Straße - schriftlich beantwortet
+- TOP 7.17: "Saubere Stadt Berlin" - schriftlich beantwortet
+- TOP 8: Beschlussempfehlungen - (offen)
+- TOP 8.1: Verwaltungsvereinbarung zwischen den Bezirken Neukölln und Friedrichshain-Kreuzberg zur Hörberatung - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Serviceangebot der Bibliothek ausbauen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Autohandelsplatz Tempelhofer Weg - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2006 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2006 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Einsparungen im Musikschulbereich - beantwortet
+- TOP 9.2: Kulturzentrum Gutshof Britz: Aus für dezentrale Kulturarbeit? - beantwortet
+- TOP 9.3: Radwegesanierung - beantwortet
+- TOP 9.4: Welt-Aids-Tag 2007 - "Neukölln übernimmt Verantwortung" - beantwortet
+- TOP 9.5: Facility-Management - schon angekommen in Neukölln? - beantwortet
+- TOP 9.6: Schlägt Neukölln Angebote der Polizei zur Schulsicherheit aus? - beantwortet
+- TOP 9.7: Massenschlägerei am Autohandelsplatz Tempelhofer Weg - beantwortet
+- TOP 9.8: Kulturstandort Neukölln - beantwortet
+- TOP 9.9: Umsetzung der Lokalen Agenda 21 in Neukölln - schriftlich beantwortet
+- TOP 10: Große Anfragen - schriftlich - erledigt
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Neue Nutzung für den Gutshof Britz - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Sanierung Rathaus Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Straßenverkehr vor "Scheibenbesetzern" schützen - in der BVV zurückgezogen
+- TOP 11.4: Jugendrichter, Amts- und Staatsanwälte für die Neuköllner Kieze - mit Änderungen in der BVV beschlossen
+- TOP 11.5: Gutshof Britz behutsam entwickeln! - in der BVV abgelehnt
+- TOP 11.6: Interkulturelles Leitbild - überwiesen
+- TOP 11.7: Kostenloser Aidstest für junge Erwachsene - überwiesen
+- TOP 11.8: Hinweise zum Volksbegehren "Tempelhof bleibt Verkehrsflughafen" schalten - in der BVV zurückgezogen
+- TOP 11.9: Volksbegehren bürgerfreundlicher machen! - in der BVV abgelehnt
+- TOP 11.10: Alkoholmissbrauch eindämmen - überwiesen
+- TOP 11.11: Flyer-Verschmutzung am Kiehlufer - überwiesen
+- TOP 11.12: Kulturentwicklungsplan - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Flächenhafte Verkehrsberuhigung im Reuterkiez - überwiesen
+- TOP 11.14: Schulverweigerern eine Chance geben - überwiesen
+- TOP 11.15: Aufstellung von Billboards vor der Regenweiher-Grundschule - überwiesen
+- TOP 11.16: Krawalle zwischen Türken und Kurden in Neukölln - in der BVV abgelehnt
+- TOP 11.17: Durchfahrtverbot für LKW über 7,5 Tonnen - überwiesen
+- TOP 11.18: Mit neuer Energie zum neuen Kulturstandort - überwiesen
+- TOP 11.19: Erfüllung der Straßenunterhaltungspflicht - in der BVV abgelehnt
+- TOP 11.20: Ungewünschte Nutzung des Robin-Hood-Spielplatzes - überwiesen
+- TOP 11.21: Politikverdrossenheit entgegenwirken - überwiesen
+- TOP 11.22: Sozialdetektive sinnvoll einsetzen - mit Änderungen in der BVV beschlossen
+- TOP 11.23: Ergebnisse der Kinderkonferenz nutzen - überwiesen
+- TOP 11.24: Gefährliche Einmündung Hobrechtstraße/Sonnenallee entschärfen - überwiesen
+- TOP 11.25: Endlich Fehler auf Straßenschildern korrigieren - in der BVV zurückgezogen
+- TOP 11.26: Familienhilfe - in der BVV abgelehnt
+- TOP 11.27: Leistungsfähigkeit der Sonnenalle steigern - Staus verhindern - überwiesen
+- TOP 11.28: Neukölln wird GreenBuilding-Partner - überwiesen
+- TOP 11.29: Barrierefreier Zugang zur Galerie am Körnerpark - in der BVV zurückgezogen
+- TOP 11.30: Zeitarbeit - in der BVV abgelehnt
+- TOP 11.31: Spielstraße am Schierker Platz - überwiesen
+- TOP 12: Mitteilungen - (offen)
+- TOP 12.1: Bürokratieabbau - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.2: Suchtberatung Gutschmidtstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.3: Tempo-30-Zone im Neudecker Weg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.4: Unnütze Verkehrszeichen beseitigen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.5: Nächtlicher Betrieb der LZA Fuldastraße/Donaustraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12.6: Zweiter Zugang zum Sportplatz Maybachufer - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Umsetzung des öffentlich geförderten Beschäftigungssektors - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.2: Sozialmedizinischer Dienst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.3: Absolutes Haltverbot auf der Neuköllner Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.4: Bebauungsplan 8-20 (Nahversorgungszentrum Britz) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.5: Beschleunigte Rechtsprechung für jugendliche Straftäter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.6: Vom Kraftwerk zum Wohngebiet - mit Abschlussbericht zur Kenntnis genommen
