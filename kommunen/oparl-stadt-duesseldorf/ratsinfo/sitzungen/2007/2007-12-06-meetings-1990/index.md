@@ -1,0 +1,63 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-12-06T16:00:00+01:00
+- Ende: 2007-12-06T19:00:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1990
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/1990
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096777.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096777.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096777.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 08.11.2007 - einstimmig beschlossen
+- TOP 3: Schloss Eller - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Schlesische Straße - Parkstreifen - mehrheitlich abgelehnt
+- TOP 6: Zuschüsse der Bezirksvertretung 8 - mehrheitlich abgelehnt
+- TOP 7: Baumfällungen Daneköthen - zur Kenntnis genommen
+- TOP 8: Baumfällung Vennhauser Allee - zur Kenntnis genommen
+- TOP 9: Auswirkungen des Oronto-Zentrums auf den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 10: Kindertageseinrichtungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 11: Spielgeräte auf Schulhöfen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 12: Baumpflanzungen und -fällungen
+- TOP 13: Bolzplatz Peter - Richarz - Straße - zur Kenntnis genommen
+- TOP 14: Gefährdung des Stadtbezirkes 8 durch die CO-Pipeline - zur Kenntnis genommen
+- TOP 15: Rohrleitungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 16: Platzgestaltung und Straßenbeschilderung in Lierenfeld - zur Kenntnis genommen
+- TOP 17: S-Bahnhöfe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 18: Graffiti am S-Bahnhof Eller - Mitte - zur Kenntnis genommen
+- TOP 19: Fahrbahninstandsetzungen 2008 - zur Kenntnis genommen
+- TOP 20: Ampelschaltungen zur Nachtzeit im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 21: Blumenkübel Kamper Weg - mehrheitlich abgelehnt
+- TOP 22: Graffiti gegen Schmierereien am S-Bahnhof Eller-Süd - mehrheitlich beschlossen
+- TOP 23: Hasseler Richtweg - einstimmig beschlossen
+- TOP 24: Bürgersteigabsenkung Brinellstraße - einstimmig beschlossen
+- TOP 25: Toilettenanlage Carl-Sonnenschein-Schule - einstimmig beschlossen
+- TOP 26: Kreuzung Klein-Eller / Weinheimer Straße - mehrheitlich abgelehnt
+- TOP 27: Flugblätter zu Martinszügen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 28: Radweg Annweiler Straße - mehrheitlich beschlossen
+- TOP 29: Radweg Ludwigshafener Straße - einstimmig beschlossen
+- TOP 30: Nachtnetz der Rheinbahn - einstimmig beschlossen
+- TOP 31: Haltestellen Am Hackenbruch und Jägerstraße - einstimmig beschlossen
+- TOP 32: Sicherheitskonzept der Deutschen Bahn AG - einstimmig beschlossen
+- TOP 33: Haltverbot Waagenstraße / Wormser Weg - einstimmig beschlossen
+- TOP 34: Bürgersteig Gumbertstraße - einstimmig beschlossen
+- TOP 35: Zaun Wasserspielplatz Schlosspark Eller - einstimmig beschlossen
+- TOP 36: Ergebnis der Etatberatung in den Fachausschüssen - zur Kenntnis genommen
+- TOP 37: Beleuchtung Haltestelle Ludwigstraße - zur Kenntnis genommen
+- TOP 38: Parkplatz Eller - Mitte - zur Kenntnis genommen
+- TOP 39: Behindertengerechte Haltestellen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: Verkehrszählungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Anmeldezahlen Grundschulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 42: Warnblinkleuchte Klein-Eller / Weinheimer Straße - zur Kenntnis genommen
+- TOP 43: Fußweg Schlossallee zur Dieter-Forte-Gesamtschule - zur Kenntnis genommen
+- TOP 44: Pavillons Lore-Lorentz-Schule - zur Kenntnis genommen
+- TOP 45: Straßenbegrünungsmaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Umbau des Knotenpunktes Deutzer Straße / Anschlussstelle A46 - zur Kenntnis genommen
