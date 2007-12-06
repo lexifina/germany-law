@@ -1,0 +1,65 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2007-12-06T15:10:00+01:00
+- Ende: 2007-12-06T19:00:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: terminiert
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2006-RAT-26
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2006-RAT-26
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2006-RAT-26
+- Wortprotokoll: oeffentliches Protokoll https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2006-RAT-26
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Experimenteller Wohnungs- und Städtebau hier: Stadtquartiere im Umbruch
+- TOP 3: Entwurf der Haushalts-Eckdaten 2008
+- TOP 4: Finanzcontrolling: Unternehmensbericht November 2007
+- TOP 5: Sachstandsbericht Haushaltssicherungskonzept
+- TOP 6: Berichterstattung über die Beteiligung der Stadt Castrop-Rauxel
+- TOP 7: Haushaltsüberschreitung gem. § 82 GO NRW a. F. bei der Haushaltsstelle 88100.932300 - Erwerb von Grundstücken (Tauschgeschäfte) -
+- TOP 8: Hauptsatzung der Stadt Castrop-Rauxel
+- TOP 9: Zweite Änderungssatzung zur Satzung der Stadt Castrop-Rauxel über die Durchführung von Einwohneranträgen, Bürgerbegehren und Bürgerentscheiden
+- TOP 10: Geschäftsordnung für den Rat der Stadt und seine Ausschüsse
+- TOP 11: Zuwendungen an fraktionslose Ratsmitglieder
+- TOP 12: 'Regionales Einzelhandelskonzept' (REHK) für das Östliche Ruhrgebiet und angrenzende Bereiche (Fortschreibung 2007)
+- TOP 13: Städtenetz Soziale Stadt NRW
+- TOP 14: Satzung über die Erhebung von Gebühren für die Durchführung der Brandschau und sonstige brandschutztechnische Leistungen
+- TOP 15: Satzung über die Erhebung von Kostenersatz und Entgelten für Leistungen der Feuerwehr der Stadt Castrop-Rauxel (Feuerwehrsatzung)
+- TOP 16: Beirat für Kunst und Stadtgestaltung der Stadt Castrop-Rauxel hier: Wiederberufung der Mitglieder
+- TOP 17: Sportstättenentwicklungskonzept
+- TOP 18: Bestellung von Schulleiterinnen oder Schulleitern gem. § 61 Schulgesetz (SchulG) NRW hier: Benennung von Mitgliedern des Schulträgers für die Schulkonferenzen
+- TOP 19: Erweiterung der gebundenen Ganztagshauptschule Franz-Hillebrand-Hauptschule hier: Genehmigung der Vorplanung
+- TOP 20: Genehmigung einer Dringlichkeitsentscheidung für das Haushaltsjahr 2007 zur Bereitstellung von 130.000,-- Euro bei der Haushaltsstelle 45500.760000 - laufende Leistungen für Kinder und Jugendliche in Vollzeitpflege - Bereich Jugend und Familie
+- TOP 21: Landeswettbewerb 'Ab in die Mitte 2008! Die City-Offensive NRW'
+- TOP 22: Operationelles Programm Ziel 2 (2007 - 2013) hier: Stabilisierung und Aufwertung städtischer Problemgebiete - Habinghorst Süd
+- TOP 23: Beitrag der Stadt Castrop-Rauxel zur nachhaltigen Stadt- und Regionalentwicklung der Metropole Ruhr hier: Einleitung der zur weiteren Entwicklung notwendigen Schritte
+- TOP 24: 2. Teilaufhebung des Bebauungsplanes Nr. 68a Planbereich: Südring Hier: Satzungsbeschluss (§ 10 Abs. 1 BauGB)
+- TOP 25: Bebauungsplan Nr. 72 Planbereich: Kirchstraße Hier: Satzungsbeschluss (§ 10 Abs. 1 BauGB)
+- TOP 26: Vorhabenbezogener Bebauungsplan Nr. 29 Planbereich: Suchttherapiezentrum Ruhrgebiet an der Grutholzallee hier: a) Entscheidung über die Stellungnahmen b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss (§ 10 Abs. 1 BauGB)
+- TOP 27: 5. Änderung des Bebauungsplanes Nr. 117a Planbereich: Nördlich der Hagenstraße hier: Beschluss einer Veränderungssperre nach §§ 14 und 16 BauGB
+- TOP 28: Erlass einer Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel 'EUV, Stadtbetrieb Castrop-Rauxel - Anstalt des öffentlichen Rechts -'
+- TOP 29: Erlass einer Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung)
+- TOP 30: Erlass einer Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage in der Stadt Castrop-Rauxel (Entwässerungssatzung)
+- TOP 31: Erlass einer 4. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetrieb Castrop-Rauxel
+- TOP 32: Gebührenbedarfsberechnung 2008 Stadtentwässerung und Erlass einer Gebührensatzung zur Entwässerungssatzung
+- TOP 33: Gebührenbedarfsberechnung 2008 und Erlass einer Gebührensatzung zur Kreislaufwirtschafts- und Abfallsatzung
+- TOP 34: Gebührenbedarfsberechnung 2008 'Straßenreinigung' und Erlass einer Straßenreinigungs- und Gebührensatzung
+- TOP 35: Wirtschaftsplan 2008 des EUV Stadtbetrieb Castrop-Rauxel, AöR
+- TOP 36: Bestellung des Vorstandes EUV, Stadtbetrieb Castrop-Rauxel - AöR
+- TOP 37: Jahresabschluss 2006 des EUV Stadtbetrieb Castrop-Rauxel, AöR
+- TOP 38: Ausschussumbesetzungen
+- TOP 39.a: Bereitstellung zusätzlicher Haushaltsmittel im Jahre 2007 für die Haushaltsstelle 45500.770000 - laufende Leistungen für Kinder und Jugendliche in Heimerziehung - Bereich Jugend und Familie
+- TOP 39.b: Haushaltsüberschreitung gemäß § 82 GO NW a. F. im Sammelnachweis Personal
+- TOP 40: Bahnübergang Obere Münsterstraße
+- TOP 41: Dringlichkeitsantrag der CDU Fraktion Castrop-Rauxel vom 27.11.2007 Umbesetzung von Ausschüssen
+- TOP 42: Dringlichkeitsantrag der FDP Fraktion Castrop-Rauxel vom 28.11.2007 Auschussumbsetzungen
+- TOP 43: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44: Anfragen der Ratsmitglieder
+- TOP 45: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
