@@ -1,0 +1,8 @@
+# TOP 5.2: Änderung der Geschäftsordnung für den Rat und die Ausschüsse der Gemeinde Leopoldshöhe
+
+- Sitzung: Haupt- und Finanzausschuss (19. Sitzung) (2007-12-06)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/3393
+- Beratung: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/948
+- Beschluss (Datei): Beschlußtext (Änderung der Geschäftsordnung für den Rat und die Ausschüsse der Gemeinde Leopoldshöhe) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVn_Wm4tIxO1pbudvIIFvhtnKVIyFII1J11XD0nbs6n0/Beschlusstext_177-2007_-oeffentlich-_.Haupt-_und_Finanzausschuss_06.12.2007.pdf
