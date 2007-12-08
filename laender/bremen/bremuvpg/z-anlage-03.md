@@ -13,3 +13,4 @@ Nr. | Plan oder Programm
 2. | Strategische Umweltprüfung bei Rahmensetzung nach § 4 i.V.m. § 14b Abs. 1 Nr. 2 UVPG
 2.1 | Nahverkehrspläne nach § 8 des Gesetzes über den öffentlichen Personennahverkehr im Land Bremen
 2.2 | Bewirtschaftungspläne nach § 164b des Bremischen Wassergesetzes
+2.3 | Hochwasserschutzpläne nach § 93 des Bremischen Wassergesetzes
