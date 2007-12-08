@@ -120,14 +120,16 @@ Kapitel III Stauanlagen
 § 87 | Plan
 § 88 | Aufsicht
 § 89 | Andere Stauanlagen, Wasserspeicher
-Kapitel IV Anlagen in oder an Gewässern, Sicherung des Wasserabflusses
-Abschnitt 1 - Anlagen in oder an Gewässern
+Kapitel IV Anlagen in oder an Gewässern
 § 90 | Erfordernis der Genehmigung
-Abschnitt 2 - Überschwemmungsgebiete
-§ 91 | Feststellung der Überschwemmungsgebiete
-§ 92 | Freihaltung des Überschwemmungsgebietes
-§ 93 | Weitere Anordnungen
-Abschnitt 3 - Hochwassermeldedienst
+Kapitel IVa Schutz vor Hochwasser und Sturmflut
+Abschnitt 1 - Hochwasserschutz
+§ 91 | Grundsätze des Hochwasserschutzes
+§ 91a | Überschwemmungsgebiete
+§ 91b | Erhaltung von Überschwemmungsgebieten
+§ 92 | Überschwemmungsgefährdete Gebiete
+§ 93 | Hochwasserschutzpläne
+Abschnitt 2 - Hochwassermeldedienst
 § 94 | Einrichtung und Zuständigkeit
 § 95 | Inhalt der Hochwassermeldeordnung
 Kapitel V Bewirtschaftungsziele und -anforderungen
