@@ -1,0 +1,81 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2007-12-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1090977
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1090977
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Antrag auf Einhausung der A 96 (Lindauer Autobahn) im städtischen Abschnitt vom Gondrellplatz bis zur Ausfahrt Blumenau
+- TOP 1.2.: Verkehrsprobleme in der Blumenau
+- TOP 1.3.: Beleuchtung Ecke Eichenstraße / Am Sommerfeld
+- TOP 1.4.: Tempo 30 km/h in der Eichenstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Gräfelfinger Str. 85, 1 Fichte
+- TOP 3.2.: Ringstr. 13, 1 Kiefer
+- TOP 3.3.: Goldregenstr. 6, 1 Atlaszeder
+- TOP 3.4.: Waldgartenstr. 7, 1 Rotfichte
+- TOP 3.5.: Windeckstr. 25, 1 Bergkiefer
+- TOP 3.6.: Großhaderner Str. 22, gem. Baumbestandsplan Nr. 74777
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Waldeslust 24, 1 Flügelnuss
+- TOP 3.2.: Wilhelm-Weitling-Str. 36, 2 Birken
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Budget
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag von Kultur in Hadern e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 450,- ? (Direktorium, 27.11.07)
+- TOP 6.2.: Antrag des Tagesheimes Großhaderner Straße auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 829,- ? (Direktorium, 27.11.07)
+- TOP 7.: Anhörungsfälle
+- TOP 7.1.: Initiative zur Mietrechtsänderung (Sozialreferat, 29.10.07) (vertagt aus 11/07)
+- TOP 7.2.: Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen (Bürgermeisterin Strobl, 26.10.07) (vertagt aus 11/07)
+- TOP 7.3.: Gemeinde Gräfelfing, Bebauungsplan Nr. 1A (Referat für Stadtplanung und Bauordnung, 27.11.07)
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München (Liste der SWM vom 12.11.07)
+- TOP 8.2.: Wirtschafts-Info 09/07 (Referat für Arbeit und Wirtschaft, 02.11.07)
+- TOP 8.3.: Vorabinformation über die verkehrlichen Maßnahmen für die Veranstaltung Christkindlmarkt am 08. und 09.12.07 auf dem Canisiusplatz (Kreisverwaltungsreferat, 15.10.07)
+- TOP 8.4.: Zweckentfremdung von Wohnraum, Waldesruhe 20 (Sozialreferat, 29.10.07)
+- TOP 8.5.: Verteilerplan stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen (Schul- und Kultusreferat, 31.10.07)
+- TOP 8.6.: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung (Bürgermeisterin Strobl, 16.11.07)
+- TOP 8.7.: Festsetzung Christkindlmarkt in Hadern (Kreisverwaltungsreferat, 27.11.07)
+- TOP 8.8.: Sondernutzungserlaubnis für Christkindlmarkt in Hadern (Kreisverwaltungsreferat, 27.11.07)
+- TOP 8.9.: Vollmacht gem. Art. 60 Abs. 2 Satz 2 Gemeindeordnung für den Zuständigkeitsbereich der Bezirksausschüsse mit Wirkung ab dem 03.12.07 (Oberbürgermeister Ude, 26.11.07)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Erstellung einer Ampelanlage an der Kreuzung Würmtal-/Schloß-Prunn-/Platanenstraße (Kreisverwaltungsreferat, 29.10.07)
+- TOP 9.2.: Baulicher Zustand des Schulgebäudes Guardinistraße 60; Begehung des Gebäudes mit dem Bezirksausschuss (Schul- und Kultusreferat, 09.11.07)
+- TOP 9.3.: Budget der Bezirksausschüsse, Anfrage von Kultur in Hadern e.V. an das Direktorium (Direktorium, 31.10.07)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Entscheidungszuständigkeit bei der Standortwahl, Schreiben der Regierung von Oberbayern (BA 15, 30.10.07)
+- TOP 11.2.: Dankschreiben des TSV München-Großhadern vom 20.11.07
+- TOP 11.3.: Einladung zum Nachtreffen der erlebnispädagogischen Klassenfahrt am 11.12.07 um 17:00 Uhr in der Hauptschule Blumenauer Straße (STÜPS, 26.11.07)
+- TOP 11.4.: Ehemaliges Postgrundstück Terofalstraße 25, Blumenau (WO REAL ESTATE Management GmbH, 23.11.07)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 07.11.2007: Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB) Gemeinsame Resolution der Nordallianz mit der Landeshauptstadt München
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Schulausschusses vom 14.11.2007: Neubau von 3 Kindertagesstätten in Systembauweise Serie 2, davon in Hadern: - Errichtung einer Kooperationseinrichtung mit 2 Kindergarten- und 3 Kinderkrippengruppen am Stiftsbogen I, Projektkosten 2.828.000,- ? + 381.000,- ? Grundstücksablöse = 3.209.000,- ? - Errichtung einer Kindertagesstätte mit 3 Kindergarten- und 2 Hortgruppen am Stiftsbogen II, Projektkosten 2.986.000,- ? + 428.000,- ? Grundstücksablöse = 3.414.000,- ?. Gesamtkosten von I + II = 6.623.000,- ?
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007: Novelle Bayerische Bauordnung 2008, Darstellung und erste Bewertung der Neuregelungen
+- TOP 12.3.: Beschluss des Bauausschusses vom 16.10.2007: Fachhearing zum Thema "Baumschutz" am 23.11.2007
+- TOP 12.1.: Beschluss des Sozialausschusses vom 06.12.2007: Verbot der Zweckentfremdung von Wohnraum, Antrag auf Genehmigung einer Nutzungsänderung im Anwesen Terofalstr. 103 für den Verein "Generationsgerechtes Wohnen mit der Wohnungsgenossenschaft München-West eG" zur Nutzung als Nachbarschaftstreff
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses vom 04.12.2007: Konzept zur Umsetzung des Teilplans 4, Tageseinrichtungen, Tagespflege, Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive - , insbesondere zum Versorgungsgrad mit Kinderkrippen in Hadern (S. 11 und Anlagen 2 a + b), zur für 2008 geplanten Kinderkrippe an der Marchioninistraße 3 - 5 (Kostenansatz 2.150.000,- ? / 36 Plätze = 59.722,22 ? / Kind, Anlage 6 a) sowie zu den Kooperationseinrichtungen an der Großhaderner Str. 40 und am Stiftsbogen I (Anlage 6 b)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007: Beschlussvollzugskontrolle (BVK); 5. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2007
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007: PERSPEKTIVE MÜNCHEN - Bilanz, Evaluierungsbericht 2007
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
