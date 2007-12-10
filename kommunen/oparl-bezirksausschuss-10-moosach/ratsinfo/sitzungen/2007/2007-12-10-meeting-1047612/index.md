@@ -1,0 +1,81 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2007-12-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1047612
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1047612
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Entfernung eines Verkehrsschildes im Zufahrtsbereich der Gärtnerei Schuster, Moosanger 14 - <div>abgelehnt</div>
+- TOP 2.2.: Halteverbotszone für LKW in der Leipziger Straße zwischen Merseburger- und Gerastraße - <div>abgelehnt</div>
+- TOP 2.3.: "Vermüllung" des Radlkellers beim OEZ - <div>Mitteilung an SWM</div>
+- TOP 2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Bericht Einwohnerversammlung Parklizenz Borstei
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4: Anträge
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Radwege am Rangierbahnhof München-Nord - <div>nach Antrag</div>
+- TOP 4.2.: Renovierung der Turnhalle an der Amphionschule - <div>nach Antrag</div>
+- TOP 4.3.: Volksbegehren "Für Bayern - Nein zum Transrapid" - <div>nach Antrag</div>
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Gegenantrag zum Antrag sder SPD-Fraktion "Volksbegehren Transrapid" - <div>abgelehnt</div>
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10: FZH Boomerang: Spielprogramm am 28.10.07 zur U-Bahn-Eröffnung - <div>nach Antrag</div>
+- TOP 5.2.: Zuschuss aus dem Budget des BA 10: BT Karlingerstr.: Unterstützung der Sportgruppe im Winter - <div>nach Antrag</div>
+- TOP 5.3.: Zuschuss aus dem Budget des BA 10: BT Karlingerstr.: Ersatz des alten Herds sowie Kauf einer Kühltruhe - <div>nach Antrag</div>
+- TOP 6: Anhörungen
+- TOP 6.1.: Bebauungsplan mit Grünordnung Nr. 1940 a; Bunzlauer platz, Baubergerstraße, Bahnlinie München - Regensburg
+- TOP 6.2.: Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen (Antrag des BA 5 Au-Haidhausen)
+- TOP 6.3.: Parkraummanagement
+- TOP 6.4.: Vorfahrtsregelung Hugo-Troendle-Str.
+- TOP 6.5.: Vollzug der Baumschutzverordnung: Bauvorhaben Dachauer- / Max-Born-Straße
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Weniger aufwändige Unterrichtungen über erteilte Fällungsgenehmigungen (Referat sieht keinen Handlungsspielraum)
+- TOP 7.2.: Geschwindigkeitskontrollen in der Gärtnerstraße zwischen Feldmochinger- und Hanauer Straße (Straße ist im Messprogramm enthalten, kein Anlass für Verschärfung der Kontrollen)
+- TOP 7.3.: Novellierung der Naturdenkmalverordnung; Beurteilung der Vorschläge des BA 10
+- TOP 7.4.: Abschaltung der Ampelanlage Dachauer- / Hanauer Straße / U-Bahnhof Westfriedhof (Abschaltung nicht möglich; fehlerhafte Programmierung wird behoben)
+- TOP 7.5.: Erweiterung / Umbau / Instandsetzung der GS Am Amphionpark (Beantwortung der Fragen des BA 10)
+- TOP 7.6.: Entfernen von wilden Gewächsen und Brennnesseln auf dem Spielplatz Triebstraße / Bingener Straße (abgelehnt; derzeitiger Pflegestandard wird beibehalten)
+- TOP 7.7.: Verkehrssituation Eninger Straße / Abensbergstraße sowie Moosburger Straße / Abensbergstraße ( Versetzung der Beschilderung sowie Anbringung von Piktogrammen auf der Fahrbahn nicht möglich)
+- TOP 7.8.: Abzug des Containerstandortes Weiherweg (Weiterleitung an die Liegenschaftsverwaltung)
+- TOP 7.9.: Ausstattung Spielplatz Bingener Straße
+- TOP 7.10.: Linksabbiegespur vor Tengelmann Dachauer Straße / Gröbenzeller Straße
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 8.4.: Stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und kooperationseinrichtungen
+- TOP 8.5.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007
+- TOP 8.6.: Bündnis für Ökologie
+- TOP 8.7.: Verordnung der Landeshauptstadt München über Mindestabstandsflächen
+- TOP 8.8.: Fällungsgenehmigung Haldenbergerstr. 28
+- TOP 8.9.: Entscheidungszuständigkeit für Standortwahl und Bedarfsgenehmigung bei einer Kindertagesstätte (Schreiben des BA 15 Trudering-Riem)
+- TOP 8.10.: Novelle Bayerische Bauordnung 2008; Darstellung und erste Bewertung der Neuregelungen
+- TOP 8.11.: Beschlussvollzugskontrolle
+- TOP 8.12.: Perspektive München - Bilanz
+- TOP 8.13.: Pächterwechsel "Café Wintergarten", Hanauer Straße 7
+- TOP 8.14.: Unterbringung von Asylbewerbern mit Behinderung in der Gemeinschaftsunterkunft Franz-Mader-Straße
+- TOP 8.15.: Sozialreferat: Konzept zur Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege
+- TOP 8.16.: Veranstaltungen des Kulturreferates
+- TOP 8.17.: Protokoll des Treffens des Kulturreferates mit den Bezirksausschüssen
+- TOP 8.18.: Erstmalige Herstellung der Dachauer Straße zwischen Gröbenzeller Straße und Wildermuthstraße (Bedarfs- und Konzeptgenehmigung)
+- TOP 8.19.: Verkehrsrechtliche Anordnung Verkehrshelferübergang Moosburger Straße / Abensbergstraße
+- TOP 8.20.: Neue Bushaltestelle "OEZ Dessauer Straße" in der Dessauer Straße (Endhaltestelle der Linie 51)
+- TOP 8.21.: 850. Stadtgeburtstag; 6. Sitzung der BA-Mitglieder
+- TOP 8.22.: Schreiben der Siedlervereinigung Hartmannshofen: - Pflegemaßnahmen zum Erhalt der Buchenallee Weidmannstraße - Zuschuss zur Förderung einer Fledermauskolonie aus dem Budget des BA 10
+- TOP 8.23.: Veräußerung stadteigener Flächen: Gneisenau- / Messerschmittstraße
+- TOP 8.24.: Einrichtung von 2 allgemeinen Behindertenparkplätzen in der Wildermuthstraße
+- TOP 8.25.: 2. S-Bahn-Stammstrecke; Verfahrensstand, Anträge und Empfehlungen
