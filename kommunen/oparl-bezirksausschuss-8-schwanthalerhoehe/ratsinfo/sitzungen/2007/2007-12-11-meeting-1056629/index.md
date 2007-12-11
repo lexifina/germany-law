@@ -1,0 +1,63 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2007-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1056629
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1056629
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Antrag zum Parkraummanagement
+- TOP 4: Beschlüsse des BA 8
+- TOP 5: Anhörungen
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Schwanthalerstr. 100 Nutzungsänderung Wohnen in Büro Urteil VG München vom 05.11.2007
+- TOP 6.1.2.: Projekt Thersienhöhe hier: Sanierung und Neugestaltung des Bahndeckels
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2008
+- TOP 6.2.2.: Konzept zur Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive - VorlagenNr. 02-08/V10593
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.3.1.: Mahnmal am Sinti-Roma-Platz Sendung auf MünchenTV am 19.11.2007 ArchivNr. 57/07/130
+- TOP 6.3.2.: Nutzungsanfragen Theresienwiese 2008
+- TOP 6.3.3.: Veranstaltungen Dezember 2007
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Landsberger Str. (nördl.) B-Plan 1921 Max-Friedlaender-Bogen+ Anhörung
+- TOP 6.4.2.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO - Novelle 2007 VorlagenNr. 02-08/V11225
+- TOP 6.4.3.: Baumfällungen Ligsalzstraße
+- TOP 6.4.4.: Fällungsanträge 26.11. - 02.12.07 a) Landsberger Str. 100
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Budgetantrag TREFFAM Beteiligung BA 25 z.K.
+- TOP 6.5.2.: Budgetantrag Dükkan e.V. Deutsch-Türkisches Fest
+- TOP 7: Erledigungen
+- TOP 7.1.: Busspur Trappentreustraße Änderung bzw. Erneuerung der Markierungen
+- TOP 7.2.: Gollier-/Astallerstraße zw. Ridler- und Kazmairstraße Erneuerungsmaßnahmen mit Verbesserungen
+- TOP 7.3.: Sanierung Sommerstockbahn auf dem Gollierplatz
+- TOP 7.4.: Koordination Straßenbau und Fernwärme Empfehlung Nr. 02-08/E00697 des BA 8 aus der BV 19.04.07
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Baumaßnahmen SWM Stichtag 12.11.2007
+- TOP 9.2.: Meldeliste 12.11.07 - 18.11.07 a) Ridlerstr. 5
+- TOP 9.3.: Bauvorhaben der SWM Stichtag 19.11.2007
+- TOP 9.4.: Meldeliste 26.11.2007 - 02.12.2007 Erstantragsverfahren a) Landsberger Str.. 73 b) Ganghoferstr. 27 c) Kazmairstr. 66 d) Ligsalzstr. 18 e) Trappentreustr. 45
+- TOP 9.5.: Meldeliste 26.11.2007 - 02.12.2007 Änderungsverfahren a) Trappentreustr. 5
+- TOP 9.6.: Meldeliste 26.11.2007 - 02.12.2007 Abbruch, Vorbescheide a) Parkstr. 23
+- TOP 10: Verschiedenes
+- TOP 10.1.: Änderung der GO; Übertragung lfd. Angelegenheiten des OB auf die BAs zur Entscheidung
+- TOP 10.2.: Änderung der BA-Satzung; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung des Kommunalreferats Ziffn. 1, 7, 11 - 13
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Unveränderte Fortführung von Gaststätten Trappentreustr. 35
+- TOP 11.2.: 5. Bericht über die der Beschlussvollzugskontrolle (BVK) unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2007 Vorlagen - Nr. 02.08 / V 11062
+- TOP 11.3.: Perspektive München - Bilanz Evaluierungsbericht 2007 Vorlagen - Nr. 02.08 / V 11069
+- TOP 11.4.: Verordnung der LH München über Mindestabstandsflächen,... VorlagenNr. 02-08/11199
+- TOP 11.5.: Bündnis für Ökologie VorlagenNr. 02-087V11161
+- TOP 11.6.: Bekanntgabe zum EU-Projekt MILUnet VorlagenNr. 02_08/11151
+- TOP 11.7.: Bevölkerungsprognose 2007 der LH München VorlagenNr. 02-08/VV11243
