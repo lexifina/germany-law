@@ -1,0 +1,67 @@
+# Stadtrat (24. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2007-12-11T17:02:00+01:00
+- Ende: 2007-12-11T21:18:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZW8Bi9y4ETuB5Zes07vyMB0
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/2330
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZS0BSkucWhjYLsBFucHIefeQDTsnct0_bA1IMCOARcON/Bekanntmachung_Stadtrat_11.12.2007.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVF900-gHdGDqgbYMHYqjMGFUeMKs3ltC6k2LZhyNWvG/Oeffentliche_Niederschrift_Stadtrat_11.12.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Besetzung von Ausschüssen und Gremien
+- TOP 1.1: Bestellung eines beratenden Mitgliedes in den Rechnungsprüfungsausschuss
+- TOP 1.2: Bestimmung von Mitgliedern der Schulkonferenzen der städt. Schulen im Rahmen der Bestellung von Schulleiterinnen oder Schulleitern gem. § 61 SchulG
+- TOP 2.: Bestellung eines Städtepartnerschaftsbeauftragten
+- TOP 3.: Fahrt nach Oswiecim vom 25.01. – 28.01.2008 anlässlich des 63. Jahrestages der Befreiung der Stadt Auschwitz und des ehemaligen Konzentrationslagers Auschwitz-Birkenau. hier: Erteilung einer Dienstreisegenehmigung für die Stadtratsmitglieder sowie die Bereit-stellung der Haushaltsmittel bei der Haushaltsstelle 1.300.6210 (Städtepartnerschaften) in Höhe von 22.100,00 €
+- TOP 4.: Entscheidung über die Unterstützung von Klagen gegen den Planfeststellungsbeschluss für den Ausbau und die Verlegung der BAB 4
+- TOP 5.: Stadtentwicklung und Bauleitplanung
+- TOP 5.1: Bebauungsplan SI 231 A/4.Änderung " Hahner Äcker Ost " Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 5.2: Regenwassermulden Vogelrutherfeld, Kerpen-Sindorf
+- TOP 5.3: Bebauungsplan Nr. KE 329 "Sondergebiet SB-Warenhaus Sindorfer Straße", Stadteil Kerpen hier: Aufstellungsbeschluss gemäß § 2 (1) BauGB
+- TOP 5.4: Gestaltungssatzung "Am Falder/Auf dem Bürrig", Stadtteil Kerpen hier: Aufstellungsbeschluss
+- TOP 5.5: Vorhabenbezogener Bebauungsplan KE Nr. 272 B "Eindhovener Straße" Stadtteil Kerpen hier: Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB
+- TOP 5.6: Bebauungsplan HO 296/1. Änderung "Gleisdreieck", Stadtteil Horrem hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 6.: Erlass von Ortsrecht
+- TOP 6.1: 7. Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Stadt Kerpen
+- TOP 6.2: 17. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Stadt Kerpen
+- TOP 6.3: 2. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Stadt Kerpen
+- TOP 6.4: 11. Satzung zur Änderung der Benutzungsgebührensatzung zur Entwässerungssatzung der Stadt Kerpen
+- TOP 6.5: Patenschaft Mehrzweckhalle Brüggen Satzung zur Änderung der Satzung über die Erhebung von Gebühren für die Benutzung von Einrichtungen der Stadt Kerpen für kulturelle Zwecke
+- TOP 7.: Haushaltsangelegenheiten
+- TOP 7.1: Produktplan der Stadt Kerpen
+- TOP 7.2: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen III. Quartal 2007
+- TOP 7.3: Genehmigung überplanmäßiger Haushaltsmittel für die Haushaltsstelle 1.300.6210 - Städtepartnerschaften
+- TOP 7.4: Antrag auf Bereitstellung außerplanmäßiger Haushaltsmittel Sozialraumprojekt Sindorf
+- TOP 7.5: Bekanntgabe der unerheblichen über- und außerplanmäßigen Ausgaben gem. § 82 Abs. 1 GO NW in der Zeit vom 01.07. bis 30.09.2007
+- TOP 8.: Abwicklung der Grundbesitzabgabenbescheide 2008; hier: Sachstandsbericht
+- TOP 9.: Kinder- und Jugendförderplan der Stadt Kerpen
+- TOP 10.: Förderung der Erziehungsberatungsstelle Horrem / Mittelstraße
+- TOP 11.: Frauenförderplan der Stadtverwaltung Kerpen
+- TOP 11.1: Erfahrungsbericht über den Frauenförderplan 2003 - 2006
+- TOP 11.2: Fortschreibung Frauenförderplan (2008 - 2010)
+- TOP 12.: Stellenplanangelegenheiten
+- TOP 12.1: Stellenplan 2007: hier: zusätzlicher Stellenbedarf im Bereich Kindertagesbetreuung
+- TOP 12.2: Umsetzung der Verordnung über die Arbeitszeit der Beamtinnen und Beamten des feuerwehrtechnischen Dienstes im Lande Nordrhein-Westfalen (AZVO-Feu)
+- TOP 12.3: Bereitstellung von Ausbildungsplätzen 2008
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 14.1: Rekultivierung Kiesgrube Dorsfeld
+- TOP 14.2: Wahl des Umsiedlungsstandortes für Manheim
+- TOP 14.3: Postzustellung durch die PIN Group
+- TOP 15.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 16.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 17.: Vorhabenbezogener Bebauungsplan KE Nr. 272 B "Eindhovener Straße"; hier: Abschluss eines Durchführungsvertrages
+- TOP 18.: Prüfungsbericht des Gemeindeprüfungsamtes des Rhein-Erft-Kreises über die überörtliche Prüfung des Haushalts-, Kassen- und Rechnungswesens der Stadt Kerpen, Haushaltsjahre 1993, 1994 und 1995 vom 03.08.1998 - Beendigung des Ausräumungsverfahrens am 25.03.2004 -
+- TOP 19.: KDVZ - Ausstieg und Geschäftsführung
+- TOP 20.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 21.: Mitteilungen
+- TOP 22.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 23.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
