@@ -1,0 +1,8 @@
+# TOP 6: Baumaßnahme Förderschule Roseggerstr. - Schule an der Kleestr.
+
+- Sitzung: öffentliche Sitzung der Bezirksvertretung Heckinghausen (2007-12-11)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/35337
+- Ergebnis: Entgegennahme ohne Beschluss
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/16800
