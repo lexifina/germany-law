@@ -1,0 +1,62 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2007-12-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1076549
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1076549
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 5.1.: Gewährung eines Zuschusses aus Budgetmitteln in Höhe von 920,00 ? für den Kauf eines Jugendluftgewehrs; Antragsteller: SG Schützenlisl Allach e.V.
+- TOP 5.2.: a) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/22 und Bebauungsplan mit Grünordnung Nr. 1992 Stahlstraße (südlich), Hans-Goltz-Weg (westlich) und Pasinger Heuweg (östlich) b) Aufhebung des Aufstellungsbeschlusses Nr. 137; Würmparallele; Obere Mühlstraße
+- TOP 5.3.: Absolutes Haltverbot Kleselstraße
+- TOP 5.4.: Vollzug von § 13 der BA-Satzung; Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen) Ludwigsfelder Straße, Fl.Nr. 1027/0, Gemarkung Allach; Errichtung einer Werbeanlage (1 hinterleuchtete zweiseitige Vitrine für Wechselwerbung, auf Stützfuß montiert) Ludwigsfelder Straße/ Georg-Reismüller-Straße/ Nähe Schöllstraße 2
+- TOP 5.5.: Faschingszug der Pfarrei Maria Himmelfahrt - Baumstänglstraße
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 6.1.: Vollmacht gem. Art. 60 Abs. 2 Satz 2 Gemeindeordnung (GO)
+- TOP 6.2.: Ausbau der Ludwigsfelder Straße BOB-WJ-75-112/GA-07/3
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 7.1.: Änderung der Gemeindeordnung Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 8.: Schreiben des Direktoriums
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Bürgerprojekte/Beteiligungsprojekte zum 850. Stadtgeburtstag
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der Baumschutzverordnung - Gerlachweg 13, s. Baumbestandsplan Nr. 2007-74677
+- TOP 11.2.: Bauanträge (v. 05.-11.11.07; 12.-18.11.07; 19.11.-25.11.07)
+- TOP 11.3.: Liste der beantragten Baumfällungen (v. 05.-11.11.07; 12.-18.11.07; 19.11.-25.11.07)
+- TOP 11.4.: Beseitigung von Gefahrenbäumen auf dem Grundstück Servetstr. 1
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 16.1.: Beschilderung am S-Bahnhaltepunkt Untermenzing
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Beschluss der Vollversammlung des Stadtrates vom 04.10.2007 Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO - Vereinsdatenbank und Stadtteilseiten"
+- TOP 22.2.: Vollversammlung vom 07.11.07 - Magnetschwebebahn München Hauptbahnhof -Flughafen (MSB) Gemeinsame Resolution der Nordallianz mit der Landeshauptstadt München
+- TOP 22.3.: Beschluss des Verwaltungs- und Personalausschusses vom 21.11.2007 Änderung der BA-Satzung; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung des Kommunalreferates; Ziffn. 1, 7, 11-13
+- TOP 22.4.: Beschluss des Kinder- und Jugendhilfeausschusses vom 04.12.2007 (VB) - Konzept zur Umsetzung des Teilplan 4; Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive -
+- TOP 22.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2007 - Bekanntgabe zum EU-Projekt MILUnet - Planungen zur Staatsstraße St 2063 neu - Verordnung der Landeshauptstadt München zur Aufhebung des § 2 Absatz 2 Nummern 1 und 2 und des § 2 Absatz 3 der Verordnung der Landeshauptstadt München über Mindestabstandsflächen, Höhenlage von Gebäuden, Gestaltung von Dächern und von unbebauten Flächen bebauter Grundstücke in besonderen Siedlungsgebieten vom 14.12.1979, MüABI. Sondernummer 5 vom 18.12.1979 (GVO) - Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO - Novelle 2007 - Bündnis für Ökologie; Leitprojekt 2: Mehr Platz für den Umweltverbund; Teilprojekt Stadtviertelkonzept Nahmobilität für den 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt - Bevölkerungsprognose 2007 der Landeshauptstadt München
+- TOP 22.6.: Beschluss des Bauausschusses vom 11.12.2007 - Naherholungsgebiet "Langwieder Seen"; Fuß- und Radwegerschließung; Route 2 (Paul-Ehrlich-Weg - Müllerstadelstraße) im 23. Stadtbezirk Allach-Untermenzing und im 22. Stadtbezirk Aubing-Lochhausen-Langwied Erster Bauabschnitt-
+- TOP 23: Verschiedenes
+- TOP 23.1.: Schreiben der Pädagogischen Aktion - Planung der Einsätze der Münchner SommerSpielAktion 2008
