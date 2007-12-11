@@ -1,0 +1,54 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung
+
+- Körperschaft: Instance 0001
+- Beginn: 2007-12-11T16:05:00+01:00
+- Ende: 2007-12-11T17:20:00+01:00
+- Ort: Rathaus Barmen, Altbau, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/81
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5508
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5508
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00087858.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00088843.pdf
+
+## Tagesordnung
+
+- TOP 1: Jahresabschluss 2006 der ESW - ungeändert beschlossen
+- TOP 2: Entlastung des Betriebsausschusses der ESW - ungeändert beschlossen
+- TOP 3: Wirtschaftsführung des Eigenbetriebes ESW für das Jahr 2008 - ungeändert beschlossen
+- TOP 4: Jahresabschluss 2006 des GMW - ungeändert beschlossen
+- TOP 5: Entlastung des Betriebsausschusses des GMW - ungeändert beschlossen
+- TOP 6: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2006/2007 - ungeändert beschlossen
+- TOP 7: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2007/2008 - ungeändert beschlossen
+- TOP 8: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2008 - stati - Entgegennahme ohne Beschluss
+- TOP 9: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2008 - offene - Entgegennahme ohne Beschluss
+- TOP 10: Wirtschaftsplanung KIJU 2008 - Entgegennahme ohne Beschluss
+- TOP 11: Bestellung stellvertretende Betriebsleitung KIJU - Entgegennahme ohne Beschluss
+- TOP 12: Bestellung von Geschäftsführern - ungeändert beschlossen
+- TOP 13: Beteiligungsbericht 2005 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 14: Bestellung eines Vertreters in der Verbandsversammlung des VRR - ungeändert beschlossen
+- TOP 15: Abwicklung ÖPNV-Pauschale - ungeändert beschlossen
+- TOP 16: Berichte und Mitteilungen
+- TOP 27: Finco 10/07 - Entgegennahme ohne Beschluss
+- TOP 28: Über- und außerplanmäßige Ausgaben 2007, Teil 2 - ungeändert beschlossen
+- TOP 29: Zuständigkeit für über- und außerplanmäßige Aufwendungen und Auszahlungen in 2008 - ungeändert beschlossen
+- TOP 30: Stand der Schulden und Kassenkredite zum 31.10.2007 - Entgegennahme ohne Beschluss
+- TOP 31: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2008/2009 - ungeändert beschlossen
+- TOP 32: Empfehlungen der Fachausschüsse zum Haushaltsplan-Entwurf 2008/2009 - abgesetzt
+- TOP 33: Empfehlungen der Bezirksvertretungen zum Haushaltsplan-Entwurf 2008/2009 - abgesetzt
+- TOP 34: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal - Entgegennahme ohne Beschluss
+- TOP 35: Straßenausbau Thielestraße - Genehmigung einer überplanmäßigen Ausgabe - ungeändert beschlossen
+- TOP 36: Überplanmäßige Ausgabe für die Dachsanierung des Elefantenhauses - ungeändert beschlossen
+- TOP 37: Widerspruch gegen den Festsetzungsbescheid zum Ausführungsgesetz SGB II NRW - Entgegennahme ohne Beschluss
+- TOP 38: Widerspruch gegen die Festsetzung der Landschaftsumlage 2007 - Entgegennahme ohne Beschluss
+- TOP 39: Zweitwohnungssteuer - - Entgegennahme ohne Beschluss
+- TOP 40: Gebührensatzung zur Abfallwirtschaftssatzung für das Jahr 2008 - ungeändert beschlossen
+- TOP 41: Satzung über die Straßenreinigung und den Winterdienst sowie die dafür zu erhebenden Gebühren ab 01. - ungeändert beschlossen
+- TOP 42: Stadtentwässerung - Änderung der Beitrags- und Gebührensatzung - ungeändert beschlossen
+- TOP 43: Erste Satzung zur Änderung der Satzung zur Regelung des Kostenersatzes für Einsätze der Feuerwehr Wu - ungeändert beschlossen
+- TOP 44: Elfte Satzung zur Änderung der Gebührensatzung für die Friedhöfe der Stadt Wuppertal - nur Rat
+- TOP 45: Zweites Gesetz zur Straffung der Behördenstruktur in NRW - Reform der Versorgungsverwaltung - ungeändert beschlossen
+- TOP 46: Anmietung von Flächen für die KFZ-Zulassungsstelle/ Führerscheinstelle - ungeändert beschlossen
+- TOP 47: Ergänzungsantrag zu VO/1024/07 - "Anmietung von Flächen" - abgelehnt
+- TOP 48: Berichte und Mitteilungen
