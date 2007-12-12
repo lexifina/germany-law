@@ -1,0 +1,68 @@
+# öffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2007-12-12T17:00:00+01:00
+- Ende: 2007-12-12T21:15:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1643
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1643
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt am 21.11.2007; die Niederschrift über die Sitzung des Rates der Stadt wird nachgereicht.
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Bildung der StädteRegion Aachena) Gesetz zur Bildung der StädteRegion Aachen (Aachen-Gesetz)b) öffentl.-rechtl. Vereinbarung über die Aufgabenübertragung in die Städte-Region Aachenc) Vereinbarungen zum Vermögensübergang und zur Regelung der Finanzbeziehungen - geändert beschlossen
+- TOP 4.1: Bildung der StädteRegion Aachena) Gesetz zur Bildung der StädteRegion Aachen (Aachen-Gesetz)b) öffentl.-rechtl. Vereinbarung über die Aufgabenübertragung in die Städte-Region Aachenc) Vereinbarungen zum Vermögensübergang und zur Regelung der Finanzbeziehungen - geändert beschlossen
+- TOP 4.2: weitere Erläuterungen -Städteregion- - geändert beschlossen
+- TOP 4.3: Bildung der StädteRegion Aachena) Gesetz zur Bildung der StädteRegion (Aachen-Gesetz)b) öffentl.-rechtl. Vereinbarung über die Aufgabenübertragung in die StädteRegion Aachenc) Vereinbarungen zum Vermögensübergang und zur Regelung der Finanzbeziehungen - geändert beschlossen
+- TOP 5: Über- und außerplanmäßige Ausgaben, Verpflichtungsermächtigungen
+- TOP 5.1: Anteilige Personal- und Reisekosten der Tierzuchtberatung - ungeändert beschlossen
+- TOP 5.2: Archäologisches Fenster - Templergraben -, Entwurfsplanunghier: Bereitstellung von außerplanmäßigen Mitteln - ungeändert beschlossen
+- TOP 5.3: Über- und außerplanmäßige Ausgaben/Verpflichtungsermächtigungen - Haushaltsjahr 2007 - Hst. 9.21000.94840/1 'Herrichtung Dienstwohnung KGS Kornelimünster zu Betreuungszwecken' - ungeändert beschlossen
+- TOP 5.4: Über- und außerplanmäßige Ausgaben / Verpflichtungsermächtigungen -Haushaltsjahr 2007-Hst. 1.87100.64130.8 Kapitalertragssteuer - ungeändert beschlossen
+- TOP 5.5: Über- und außerplanmäßige Ausgaben/Verpflichtungsermächtigungen Haushaltsjahr 2007,Hst. 9.13000.96520.6 Beschaffung und Einbau von technischen Geräten für die Nachrichtentechnik –J- - ungeändert beschlossen
+- TOP 5.6: Genehmigung von überplanmäßigen Ausgabenhier: Anschaffung von Geschwindigkeitsüberwachungsanlagen - ungeändert beschlossen
+- TOP 5.7: Über- und außerplanmäßige Ausgaben/Verpflichtungsermächtigungen - Haushaltsjahr 2007 - Haushaltsstelle 9.88100.94430.3 - Modernisierung Wohnanlage Feld-, Heinrich-Hollands- und Jülicher Straße, 1. BA - - ungeändert beschlossen
+- TOP 5.8: Über- und außerplanmäßige Ausgaben / Verpflichtungsermächtigungen -Haushaltsjahr 2007-, Hst. 1.47000.71825.5 'Pflegewohngeld' - ungeändert beschlossen
+- TOP 5.9: Über- und außerplanmäßige Ausgaben / Verpflichtungermächtigungen-Haushaltsjahr 2007-, Hst. 1.48200.69100.5 'Leistungsbeteiligung bei Leistungen für Unterkunft und Heizung (§ 22 Abs. 1 u. 2 SGB II)' - ungeändert beschlossen
+- TOP 5.10: Über- und außerplanmäßige Ausgaben/Verpflichtungsermächtigungen -Haushaltsjahr 2007- hier: Zinszahlungen für die Festbetragskredite - ungeändert beschlossen
+- TOP 5.11: Über- und außerplanmäßige Ausgaben - Haushaltsjahre 2007 -Abschlussbuchungen in der Übergangsphase Kameralistik/NKF - ungeändert beschlossen
+- TOP 6: Hortsituation - Schulkinderbetreuung in den derzeit noch existierenden Hortgruppen - ungeändert beschlossen
+- TOP 7: Bericht über die Prüfung der Jahresrechnung für das Jahr 2006Allgemeiner Berichtsband - ungeändert beschlossen
+- TOP 8: 20. Nachtrag zur Straßenreinigungs - und Gebührensatzung in der Stadt Aachen - ungeändert beschlossen
+- TOP 8.1: 20. Nachtrag zur Straßenreinigungs - und Gebührensatzung in der Stadt Aachen - ungeändert beschlossen
+- TOP 9: Abfallwirtschaftssatzung der Stadt Aachenhier: XVII. Nachtrag - ungeändert beschlossen
+- TOP 10: Friedhofsgebührenordnung der Stadt Aachenhier: XI. Nachtrag - ungeändert beschlossen
+- TOP 11: Ordnungsbehördliche Verordnung zur Änderung der ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung auf den Straßen und in den Anlagen der Stadt Aachen (Aachener Straßenverordnung) vom 19.03.2004 - ungeändert beschlossen
+- TOP 12: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2006 - ungeändert beschlossen
+- TOP 13: Wirtschaftsplan für das Wirtschaftsjahr 2008 - Gebäudemanagement - ungeändert beschlossen
+- TOP 14: Wirtschaftsplan 2008 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb und vorläufiger Zuschussbedarf Straßenunterhaltung - geändert beschlossen
+- TOP 15: Endgültiger Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Kulturbetrieb der Stadt Aachen für das Wirtschaftsjahr 2006 - ungeändert beschlossen
+- TOP 16: Vorstellung des vorläufigen Wirtschaftsplans für den Kulturbetrieb (E 49) für das Wirtschaftsjahr 20085 - ungeändert beschlossen
+- TOP 17: Gemeinsame Trägerschaft der Lebensmitteluntersuchungseinrichtungen der Städte Aachen, Bonn, Köln und Leverkusen mit eigener Rechtspersönlichkeit - ungeändert beschlossen
+- TOP 18: Bebauungsplan Nr. 886 und Änderung Nr. 102 des Flächennutzungsplanes 1980 - Berensberger Straße / Dauerkleingartenanlage -hier: Satzungsbeschluss zum BebauungsplanÄnderungsbeschluss zum FNP - ungeändert beschlossen
+- TOP 19: Änderung Nr. 103 des Flächenutzungsplanes 1980 - Strüverweg/ Stockheider Mühle - hier: Änderungsbeschluss - ungeändert beschlossen
+- TOP 20: Weitere Entwicklung des SandhäuschensBeschluss zur Niederlegung - ungeändert beschlossen
+- TOP 21: Änderung der Richtlinien über die Zuwendungen zum Geschäftsbedarf der Ratsfraktionen - ungeändert beschlossen
+- TOP 22: SPD-Antrag: Bürgerfreundliche Ausgestaltung des “Bürokratieabbaugesetzes II” - ungeändert beschlossen
+- TOP 23: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 24: Anfragen
+- TOP 25: Mitteilungen der Verwaltung
+- TOP 26: Satzung über die Erhebung von Beiträgen nach § 8 Kommunalabgabengesetzes für das Land Nordrhein-Westfalen -KAG- für straßenbauliche Maßnahmen der Stadt Aachen-Neufassung- - geändert beschlossen
+- TOP 27: Wirtschaftsplan Eurogress Aachen 2008 - ungeändert beschlossen
+- TOP 28: Zug der Erinnerung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.3: nicht öffentlicher Tagesordnungspunkt
