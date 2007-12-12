@@ -1,0 +1,81 @@
+# 25. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-12-12T17:07:00+01:00
+- Ende: 2007-12-12T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5752
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5752
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00258864.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der CDU-Fraktion an den Rat Nr. A-R/0034/2007 vom 14.09.2007 "Dienstleistungen der Verwaltung - einstimmig beschlossen
+- TOP 2.2: Antrag der UWG-MS/ÖDP-Fraktion an den Rat Nr. 37/2007 vom 04.10.2007 (Anlage) - mehrheitlich beschlossen
+- TOP 2.3: Wohnungspolitische Anträge - einstimmig geändert beschlossen
+- TOP 3: Modernisierung und Attraktivierung Freibad Stapelskotten in Münster - einstimmig beschlossen
+- TOP 4: Unterstützung von Bürgerradwegen nach dem Programm "Innovativer Radwegebau NRW" - einstimmig beschlossen
+- TOP 5: Beantragung und Bewilligung von Zuschussmaßnahmen nach Förderrichtlinien Stadtverkehr (FöRi-Sta) - mehrheitlich geändert beschlossen
+- TOP 6: Aufwendungen für die Kostenerstattung an die Landesbildstelle, - mehrheitlich beschlossen
+- TOP 7: Folgeregelung für den Kindertageseinrichtungsstandort Gescherweg, Gievenbeck - einstimmig beschlossen
+- TOP 8: Sonderfonds "Hilfen für Schwangere und junge Mütter zum Schutz des ungeborenen Lebens" - zur Kenntnis genommen
+- TOP 9: Rahmenkonzept Sprachförderung Kinder - einstimmig beschlossen
+- TOP 10: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2007) - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 11: Beschlüsse zur Umsetzung der Novellierung der Gemeindeordnung
+- TOP 11.1: Satzung zur Änderung der Hauptsatzung - ohne Beschlussfassung geschoben
+- TOP 11.2: Änderung der Geschäftsordnung für den Rat, die Ausschüsse und die Bezirksvertretungen - ohne Beschlussfassung geschoben
+- TOP 11.3: Änderung der Zuständigkeitsordnung der Stadt Münster - einstimmig geändert beschlossen
+- TOP 11.4: Finanzielle Zuwendung an ein fraktionsloses Ratsmitglied nach der Neufassung des § 56 Abs. 3 Gemeind - ohne Beschlussfassung geschoben
+- TOP 11.5: Satzung der Stadt Münster über das Verfahren zur Durchführung von Bürgerbeg - einstimmig beschlossen
+- TOP 12: Kommunalisierung der Versorgungsverwaltung - mehrheitlich beschlossen
+- TOP 13: Kommunalisierung von Aufgaben des Umweltrechts - mehrheitlich beschlossen
+- TOP 14: Wirtschaftsplan 2008 der citeq - einstimmig beschlossen
+- TOP 15: Konzeption zur Bewirtschaftung und Unterhaltung der öffentlichen Toilettenanlagen im Stadtbezirk MS - ohne Beschlussfassung geschoben
+- TOP 16: Errichtungsbeschluss zum Neubau des Feuerwehrgerätehauses in Gievenbeck - einstimmig beschlossen
+- TOP 17: Bericht über die Beteiligungen der Stadt Münster im Jahr 2006 (Beteiligungsbericht 2006) - zur Kenntnis genommen
+- TOP 18: AirportPark FMO GmbH: Gewährung eines Gesellschafterdarlehens - mehrheitlich beschlossen
+- TOP 19: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 3. Vierteljahr - zur Kenntnis genommen
+- TOP 20: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Münster Marketing - einstimmig beschlossen
+- TOP 21: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 22: Änderung der Abfallsatzung - einstimmig beschlossen
+- TOP 23: Fortschreibung des kommunalen Abfallwirtschaftskonzeptes für die Stadt Münster - einstimmig beschlossen
+- TOP 24: Optimierung der Wärmeversorgung städtischer Immobilien - ohne Beschlussfassung geschoben
+- TOP 25: ÖPNV-Förderung gemäß §11(2) ÖPNVG NRW - einstimmig beschlossen
+- TOP 26: Gründung des Zweckverbandes Nahverkehr Westfalen-Lippe (NWL) - mehrheitlich beschlossen
+- TOP 27: Zentrumserweiterung südlich der St. Anna Kirche in Mecklenbeck - einstimmig beschlossen
+- TOP 28: Wirtschaftsplan 2008 für Münster Marketing - einstimmig beschlossen
+- TOP 29: Kinderbildungsgesetz (KiBiz)
+- TOP 29.1: KiBiz - Folgeabschätzung des neuen Kinderbildungsgesetzes für Münster - ohne Beschlussfassung geschoben
+- TOP 29.2: Satzung für die Erhebung von Elternbeiträgen - ohne Beschlussfassung geschoben
+- TOP 30: Kinderfreundliche Innenstadt - Sandspielplatz und Kurzbetreuung am Stadthaus I - einstimmig beschlossen
+- TOP 31: 7. Verleihung des Historikerpreises der Stadt Münster - einstimmig beschlossen
+- TOP 32: Weiterentwicklung der Berufskollegs: Errichtungsvorhaben der Berufskollegs in städtischer Trägerscha - einstimmig beschlossen
+- TOP 33: Förderprogramm Energieeinsparung und Altbausanierung in der Stadt Münster - - ohne Beschlussfassung geschoben
+- TOP 34: Wirtschaftspläne der Stiftungen für das Jahr 2008 - einstimmig beschlossen
+- TOP 35: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 35.1: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2008 - einstimmig beschlossen
+- TOP 35.2: Abfallgebühren 2008 - einstimmig beschlossen
+- TOP 35.3: Straßenreinigungsgebühren 2008 - einstimmig beschlossen
+- TOP 35.4: Änderungen der Vergnügungssteuersatzungen der Stadt Münster - einstimmig beschlossen
+- TOP 35.5: Änderung der Gewässergebührensatzung (GGS) einschließlich Änderung der Gebührentarfe - einstimmig beschlossen
+- TOP 35.6: Änderung der Abwassergebührensatzung (AGS), - einstimmig beschlossen
+- TOP 36: Bauleitplanung
+- TOP 36.1: Stadtbezirk Mitte
+- TOP 36.1.1: Teilaufhebung der Sanierungssatzung Hafen / Halle Münsterland - einstimmig beschlossen
+- TOP 36.2: Stadtbezirk West
+- TOP 36.2.1: Genehmigung der Dringlichkeitsentscheidung zum Erlass der Veränderungssperre Nr. 98 - einstimmig beschlossen
+- TOP 36.2.2: Bebauungsplan Nr. 412, vorhabenbezogene 3. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 36.2.3: Bebauungsplan Nr. 396, 3. Änderung - Erweiterung des Änderungsbeschlusses - einstimmig beschlossen
+- TOP 36.3: Stadtbezirk Nord
+- TOP 36.3.1: Bebauungsplan STM 8, 11. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 36.3.2: Bebauungsplan Nr. 507 - Beschluss über die Stellungnahmen - Satzungsbeschluus - einstimmig beschlossen
+- TOP 37: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 38: Bestellung von Vertreter/innen der Stadt Münster in den Ausschuss des Wasser- und Bodenverbandes IV - mehrheitlich geändert beschlossen
+- TOP 39: Verschiedenes
