@@ -1,0 +1,54 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2007-12-12T14:00:00+01:00
+- Ende: 2007-12-12T18:45:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1088
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1088
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Kenntnisnahme
+- TOP 2: Niederschrift - Kenntnisnahme
+- TOP 3: Mündl. Präsentation des Gutachtens der Fa. Ramboll - Kenntnisnahme
+- TOP 4: Reduzierung der Anzahl der Stadtbezirke - Zur Kenntnis genommen
+- TOP 5: Reduzierung der Anzahl/Neueinteilung Stadtbezirke - Zur Kenntnis genommen
+- TOP 6: Einteilung des Stadtgebietes in Bezirke - Zur Kenntnis genommen
+- TOP 7: Reduzierung der Zahl der Stadtbezirke - Zur Kenntnis genommen
+- TOP 8: Einteilungdes Gebietes der Stadt Mönchengladbach - Absolute Mehrheit
+- TOP 9: Neueinteilung Stadtbezirke - Mit Stimmenmehrheit abgelehnt
+- TOP 10: Verbesserung des Bürgerservice - Mit Stimmenmehrheit beschlossen
+- TOP 11: Niederrheinrad - Mit Stimmengleichheit abgelehnt
+- TOP 12: Kleinkläranlagen - Einstimmiger Beschluss
+- TOP 13: 10. Nachtrag Abfallgebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 14: 28. Nachtrag Straßenreinigungssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 15: Änderungen Entwässerung (Kanal) - Mit Stimmenmehrheit beschlossen
+- TOP 16: 12. Nachtrag Benutzungsordnung - Mit Stimmenmehrheit beschlossen
+- TOP 17: Zustimmung Inangriffnahme "GHS Frankfurter Str." - Einstimmiger Beschluss
+- TOP 18: Einmündung Erkelenzer Straße / L 370 - Mit Stimmenmehrheit beschlossen
+- TOP 19: Vergnügungssteuersatzung - Einstimmiger Beschluss
+- TOP 20: Veräußerung der RWE-Aktien - Mit Stimmenmehrheit beschlossen
+- TOP 21: Beteiligung der NVV an der NiederrheinWasser GmbH - Einstimmiger Beschluss
+- TOP 22: Beteiligung der NVV AG an der KWG GmbH & Co. KG - Zur Kenntnis genommen
+- TOP 23: Beteiligung der NVV AG an der MNG - Einstimmiger Beschluss
+- TOP 24: Fusion der Datenzentralen D/MG/NE - An den Rat verwiesen
+- TOP 25: Elfter Nachtrag Taxentarif - Einstimmiger Beschluss
+- TOP 26: Kompetenzzentrum für sonderpädagogische Förderung - Einstimmiger Beschluss
+- TOP 27: Fortschreibung Rahmenkonzept - In den nächsten Ratszug geschoben
+- TOP 28: Elternbeiträge fürInanspruchnahme ofener Ganztags - In den nächsten Ratszug geschoben
+- TOP 29: Zwölfter Nachtrag Satzung Übergangsheime - Einstimmiger Beschluss
+- TOP 30: Erfahrungsbericht zur Befreiung von § 27 GO NRW - Kenntnisnahme
+- TOP 31: Krankenversorgung in Krankenhäusern in MG - An den Rat verwiesen
+- TOP 32: Krankenversorgung - Zur Kenntnis genommen
+- TOP 33: Krankenversorgung in Krankenhäusern in MG - Zur Kenntnis genommen
+- TOP 34: Bebauungsplan Nr. 657/III, IV - Zur Kenntnis genommen
+- TOP 35: 172. Änderung des Flächennutzungsplanes - Zur Kenntnis genommen
+- TOP 36: Bericht zur Situation der Friedhöfe - Von Verwaltung zurückgezogen
+- TOP 37: Straßenbenennung nach Hans Busch - Einstimmiger Beschluss
+- TOP 38: Straßenbenennung im Regiopark - Einstimmiger Beschluss
+- TOP 39: Sicherheitskonferenz - Zur Kenntnis genommen
+- TOP 40: Anfragen - Zur Kenntnis genommen
