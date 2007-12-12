@@ -1,0 +1,7 @@
+# TOP 4: Verlängerung der Budgetvereinbarung mit dem Tagesmütterverein Ulm e. V. für das Jahr 2008
+
+- Sitzung: Sitzung des Fachbereichsausschusses Bildung und Soziales (2007-12-12)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/3976
+- Ergebnis: Einstimmig mit der Änderung, das Budget auf 58.500 € zu erhöhen, beschlossen
