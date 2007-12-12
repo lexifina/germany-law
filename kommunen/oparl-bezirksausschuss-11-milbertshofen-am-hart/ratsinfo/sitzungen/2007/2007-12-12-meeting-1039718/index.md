@@ -1,0 +1,74 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2007-12-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1039718
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1039718
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Politikprojekt der KJG Freimann
+- TOP 4.2.: Vollmacht gemäß Art. 60 Abs. 2 Satz 2 Gemeindeordnung
+- TOP 4.1.: Armut in Milbertshofen: Maßnahme 2 "Milbertshofen goes HIPPY!" - Einführung des Frühförderprogramms HIPPY für Kinder und Familien mit Migrationshintergrund in Milbertshofen - Am Hart (Antrag Nr. 02-08/B02276 des Bezirksausschusses des 11. Stadtbezirkes Milbertshofen - Am HArt vom 18.07.2007, Antwortschreiben des Sozialreferates)
+- TOP 4.2.: Planung der Einsätze der Münchner Sommer Spiel Aktion 2008
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Innere Mission München, Interkulturelle Begegnung und Lesung am 29.11.2007
+- TOP 6.2.: VdK Ortsverband Milbertshofen, Gedenkfeier am Volkstrauertag 2007
+- TOP 6.3.: Pfarrei Frieden Christi, St. Martinszug am 11.11.2007
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 1: (E) Zulässigkeit des Radfahrens in beide Richtungen auf dem Weg von der Verlängerung der Winzererstraße stadtauswärts einschließlich der Lerchenauer Straße bis zum Olympischen Dorf
+- TOP 2: (E) Intensivere Parküberwachung auf dem Mittelstreifen zwischen Rathenaustraße und Weyprechtstraße Empfehlung Nr. 02-08 / E 00804 der Bürgerversammlung des Stadtbezirkes 11- Milbertshofen-Am Hart am 28.06.2007
+- TOP 7.: Anträge
+- TOP 7.1.: Fan-Fest (Public Viewing) zur Fußball-Europameisterschaft 2008 im Olympiapark/Olympiastadion München (SPD-Fraktion im BA 11)
+- TOP 7.2.: Gemeinsame Veranstaltung des BA 11 und des BA 4 zum 850. Stadtgeburtstag (Josef Floßmann, Beauftragter des BA 11 zum 850. Stadtgeburtstag)
+- TOP 7.3.: Keine Extremisten im Kulturhaus Milbertshofen! (CSU-Fraktion im BA 11) (vertagt aus der Sitzung am 14.11.2007)
+- TOP 7.1.: Regionaler Sozialbericht 2006 - Nach wie vor dringender Handlungsbedarf im 11. Stadtbezirk! (CSU-Fraktion im BA 11)
+- TOP 7.1.: Maßnahmen zur Verhinderung des Parkens am und im Grünbereich der "Spielmeile" (CSU-Fraktion im BA 11)
+- TOP 7.2.: Einrichtung eines Parklizenzgebietes für Anwohner im Olympischen Dorf (Daniel Marinic)
+- TOP 7.3.: Parkplatzsituation um den Goldschiedplatz (Kerim Kitalic)
+- TOP 7.4.: Abgestellte Fahrzeuge in der Motorstraße (Michael Winter)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Änderung der BA - Satzung; Anhörungsrecht der Bezirksausschüsse bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen (BA-Antrag Nr. 02-08/B01785 des Bezirksausschusses 5 Au- Haidhausen)
+- TOP 8.1.: Verkehrsplanung im Münchner Norden (Beschlussentwurf des Ausschusses für Stadtplanung und Bauordnung)
+- TOP 8.2.: Vollzug der Baumschutzverordnung, Einzelmaßnahme, hier: Keferloherstr. 118, eine Fichte
+- TOP 8.1.: Förderverein Münchner Baseball e.V.; Verlagerung der Baseball- und Softballanlage vom Gelände an der Säbener Straße auf das ZHS-Gelände an der Moosacher Straße im 11. Stadtbezirk Milbertshofen - Am Hart (Beschluss des Sportausschusses des Stadtrates vom 18.12.2007)
+- TOP 8.1.: Antrag auf Genehmigung einer Warenstellage a) Keferloherstr. 101b b) Humperdinckstr. 1-3
+- TOP 8.2.: Verkehrsrechtliche Anordnung nach §45 StVo
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendungen aus dem Budget des Bezirksausschusses, Bewilligungsbescheide a) Kath. Pfarrgemeinde St. Georg, Laternenbasteln, 175,00? bewilligt
+- TOP 9.2.: Entscheidungszuständigkeit bei der Standortwahl Kindertagesstätten, Schreiben des BA 15 Trudering - Riem
+- TOP 9.3.: Stadtratsbeschluss "Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO - Vereinsdatenbank und Stadtteilseiten" - Evaluationsbeschluss", Nachtrag
+- TOP 9.1.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO - Novelle 2007 (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2007)
+- TOP 9.2.: Verordnung der LHS München zur Aufhebung des §2 Abs. 2 Nr. 1 und 2 und des §2 Abs. 3 der Verordnung der LHS München über Mindestabstandsflächen, Höhenlage von Gebäuden, Gestaltung von Dächern und von unbebauten Flächen bebauter Grundstücke in besonderen Siedlungsgebieten vom 14.12.1979, MüABl. Sondernummer 5 vom 18.12.1979 (GVO) (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2007)
+- TOP 9.3.: Bündnis für Ökologie Leitprojekt 2: Mehr Platz für den Umweltverbund Teilprojekt Stadtviertelkonzept Nahmobilität für den 2. Stadtbezirk Ludwigvorstadt - Isarvorstadt (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2007)
+- TOP 9.4.: Bebauungsplan mit Grünordnung Nr. 2019 Petuelring (nördlich), Schleißheimer Straße (westlich), Hanselmannstraße (östlich), Kantstraße (südlich) (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007)
+- TOP 9.5.: Novelle Bayerische Bauordnung 2008, Darstellung und erste Bewertung der Neuregelungen (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007)
+- TOP 9.6.: Perspektive München - Bilanz Evaluierungsbericht 2007 (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007)
+- TOP 9.7.: 5. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2007 (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007)
+- TOP 9.8.: NSG Panzerwiese mit Hartelholz - Umweltbildungsprojekt, Protokoll zum 2. Runden Tisch am 01.10.2007
+- TOP 9.9.: Baumaßnahmen der Stadtwerke München
+- TOP 9.10.: Fällungsanträge Einzelverfahren
+- TOP 9.11.: Meldelisten Bauvorhaben
+- TOP 9.1.: Verteilerplan stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen
+- TOP 9.2.: Konzept zur Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive - (Beschluss des Kinder- und Jugendhilfeausschusses vom 04.12.2007)
+- TOP 9.1.: Anmeldung einer Motorradfahrer/Innen - Demonstration für den 26.04.2008
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
