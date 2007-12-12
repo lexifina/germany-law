@@ -1,0 +1,92 @@
+# 27. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2007-12-12T18:10:00+01:00
+- Ende: 2007-12-12T20:57:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/5753
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/5753
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00258712.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Ausländerbeirates
+- TOP 9: Beschlüsse zur Umsetzung der Novellierung der Gemeindeordnung
+- TOP 9.1: Satzung zur Änderung der Hauptsatzung - mehrheitlich beschlossen
+- TOP 9.2: Änderung der Geschäftsordnung für den Rat, die Ausschüsse und die Bezirksvertretungen - mehrheitlich beschlossen
+- TOP 9.3: Änderung der Zuständigkeitsordnung der Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 9.4: Finanzielle Zuwendung an ein fraktionsloses Ratsmitglied nach der Neufassung des § 56 Abs. 3 Gemeind - einstimmig beschlossen
+- TOP 9.5: Satzung der Stadt Münster über das Verfahren zur Durchführung von Bürgerbeg - einstimmig beschlossen
+- TOP 10: Kommunalisierung der Versorgungsverwaltung - mehrheitlich beschlossen
+- TOP 11: Kommunalisierung von Aufgaben des Umweltrechts - mehrheitlich beschlossen
+- TOP 12: Wirtschaftsplan 2008 der citeq - einstimmig beschlossen
+- TOP 13: Konzeption zur Bewirtschaftung und Unterhaltung der öffentlichen Toilettenanlagen im Stadtbezirk MS - einstimmig beschlossen
+- TOP 14: Errichtungsbeschluss zum Neubau des Feuerwehrgerätehauses in Gievenbeck - einstimmig beschlossen
+- TOP 15: Bericht über die Beteiligungen der Stadt Münster im Jahr 2006 (Beteiligungsbericht 2006) - zur Kenntnis genommen
+- TOP 16: AirportPark FMO GmbH: Gewährung eines Gesellschafterdarlehens - mehrheitlich beschlossen
+- TOP 17: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 3. Vierteljahr - zur Kenntnis genommen
+- TOP 18: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Münster Marketing - einstimmig beschlossen
+- TOP 19: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 20: Änderung der Abfallsatzung - einstimmig beschlossen
+- TOP 21: Fortschreibung des kommunalen Abfallwirtschaftskonzeptes für die Stadt Münster - einstimmig beschlossen
+- TOP 22: Optimierung der Wärmeversorgung städtischer Immobilien - mehrheitlich beschlossen
+- TOP 23: ÖPNV-Förderung gemäß §11(2) ÖPNVG NRW - einstimmig beschlossen
+- TOP 24: Gründung des Zweckverbandes Nahverkehr Westfalen-Lippe (NWL) - mehrheitlich beschlossen
+- TOP 25: Zentrumserweiterung südlich der St. Anna Kirche in Mecklenbeck - einstimmig beschlossen
+- TOP 26: Wirtschaftsplan 2008 für Münster Marketing - einstimmig beschlossen
+- TOP 27: Kinderbildungsgesetz (KiBiz)
+- TOP 27.1: KiBiz - Folgeabschätzung des neuen Kinderbildungsgesetzes für Münster - zur Kenntnis genommen
+- TOP 27.2: Satzung für die Erhebung von Elternbeiträgen - mehrheitlich beschlossen
+- TOP 28: Kinderfreundliche Innenstadt - Sandspielplatz und Kurzbetreuung am Stadthaus I - einstimmig beschlossen
+- TOP 29: 7. Verleihung des Historikerpreises der Stadt Münster - einstimmig beschlossen
+- TOP 30: Weiterentwicklung der Berufskollegs: Errichtungsvorhaben der Berufskollegs in städtischer Trägerscha - einstimmig beschlossen
+- TOP 31: Förderprogramm Energieeinsparung und Altbausanierung in der Stadt Münster - - mehrheitlich beschlossen
+- TOP 32: Wirtschaftspläne der Stiftungen für das Jahr 2008 - einstimmig beschlossen
+- TOP 33: Änderung von Gebühren, Tarifen, Beiträgen und Entgelten
+- TOP 33.1: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2008 - einstimmig beschlossen
+- TOP 33.2: Abfallgebühren 2008 - einstimmig beschlossen
+- TOP 33.3: Straßenreinigungsgebühren 2008 - einstimmig beschlossen
+- TOP 33.4: Änderungen der Vergnügungssteuersatzungen der Stadt Münster - einstimmig beschlossen
+- TOP 33.5: Änderung der Gewässergebührensatzung (GGS) einschließlich Änderung der Gebührentarfe - einstimmig beschlossen
+- TOP 33.6: Änderung der Abwassergebührensatzung (AGS), - einstimmig beschlossen
+- TOP 34: Bauleitplanung
+- TOP 34.1: Stadtbezirk Münster-Mitte
+- TOP 34.1.1: Teilaufhebung der Sanierungssatzung Hafen / Halle Münsterland - einstimmig beschlossen
+- TOP 34.2: Stadtbezirk Münster-West
+- TOP 34.2.1: Genehmigung der Dringlichkeitsentscheidung zum Erlass der Veränderungssperre Nr. 98 - einstimmig beschlossen
+- TOP 34.2.2: Bebauungsplan Nr. 412, vorhabenbezogene 3. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 34.2.3: Bebauungsplan Nr. 396, 3. Änderung - Erweiterung des Änderungsbeschlusses - einstimmig beschlossen
+- TOP 34.2.4: Bebauungsplan Nr. 507 - Beschluss über die Stellungnahmen - Satzungsbeschluus - einstimmig beschlossen
+- TOP 34.3: Stadtbezirk Münster-Nord
+- TOP 34.3.1: Bebauungsplan STM 8, 11. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 35: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 36: Bestellung von Vertreter/innen der Stadt Münster in den Ausschuss des Wasser- und Bodenverbandes IV - mehrheitlich geändert beschlossen
+- TOP 37: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 38: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 38.1: Interkultur in Münster stärken - Dialog der Kulturen als zentrales Handlungsfeld der Integrationsarb - verwiesen
+- TOP 38.2: Münster für alle: Ein Instrument für jedes Kind - verwiesen
+- TOP 38.3: WDR-Musikfest 2009 nach Münster holen - verwiesen
+- TOP 38.4: Münster - eine wachsende Stadt - verwiesen
+- TOP 38.5: Verkehrsprobleme im Hafen lösen - Erschließung voranbringen - Belastungen für Anwohner senken - verwiesen
+- TOP 38.6: Bürgerinnen und Bürgern einfach zum Recht verhelfen - - verwiesen
+- TOP 38.7: Entwicklung der Situation von Flüchtlingen in Münster - verwiesen
+- TOP 38.8: Parksituation an der Bahnhofsostseite für Radfahrer verbessern - Parkhaus Bremer Platz nutzen - verwiesen
+- TOP 38.9: Straßenausbaubeiträge senken - mehr Abgabengerechtigkeit in Münster schaffen - verwiesen
+- TOP 38.10: Nachts Tempo 100 auf den Autobahnen in Münster - verwiesen
+- TOP 38.11: Nordumgehung Roxel: Perspektiven schaffen - verwiesen
+- TOP 38.12: Handeln für den Wohnstandort Münster: 8.000 neue Wohnungen in fünf Jahren - verwiesen
+- TOP 38.13: Neue Nutzungen am Stadthafen I ermöglichen - verwiesen
+- TOP 38.14: Das Osttor zu Münsters Innenstadt aufwerten - den Stadtraum zwischen Salzstraße (Promenade), Eisenba - verwiesen
+- TOP 38.15: Musikunterricht dauerhaft und nachhaltig fördern - - verwiesen
+- TOP 39: Verschiedenes
