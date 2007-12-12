@@ -1,0 +1,91 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2007-12-12T17:10:00+01:00
+- Ende: 2007-12-12T22:25:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1547
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1547
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=36246
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - im Ausschuss abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Feststellungen - (offen)
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretender Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Aufstellung von Feuerwehr-Absperrpfählen in der Auguste-Viktoria-Allee - überwiesen
+- TOP 6.2: Auslegung im Internet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Missstände in Familien unter Beachtung der datenschutzrechtlichen Bestimmungen weiterleiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Keine Flatrate-Partys in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: Bettenzahl in der Psychiatrie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.6: Öffnungszeiten des Sozialmarktes am Franz-Neumann-Platz verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Mehr Kinderärzte in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Polizeiliche Kriminalitätsstatistik für Ortsteile veröffentlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.9: Islamismus-Ausstellung im Bezirk Reinickendorf zeigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.10: Verbot von Flatrate-Partys in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.11: Parkhäuser in Tegel - überwiesen
+- TOP 6.12: Halteverbot in der Avenue Charles de Gaulle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.13: Entwurf des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2008 und 2009 (Doppelhaushalt) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.14: Beschleunigte Rechtsprechung für jugendliche Straftäter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.15: Haltebuchten Waidmannsluster Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.16: Lieferzufahrt OBI - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.17: Entwurf des Bebauungsplanes XX-247-1 für das Grundstück Gertrudstraße 16G, im Bezirk Reinickendorf, Ortsteil Hermsdorf - überwiesen
+- TOP 6.18: Aufstellung des Bebauungsplanes mit der Bezeichnung 12-18 B für das Gelände zwischen der Grünfläche Berliner Straße 71 -82, der S-Bahntrasse, der Bundesautobahn A 111, dem Grundstück Wittestraße 30 A sowie der Berliner Straße im Bezirk Reinickendorf - überwiesen
+- TOP 6.19: Entwurf des Bebauungsplanes XX-240b-1 für das Grundstück Sagemühler Steig 19/Freester Weg, im Bezirk Reinickendorf, Ortsteil Heiligensee - überwiesen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Renickendorf für den Flughafen Tempelhof - beantwortet
+- TOP 7.1.1: Bürgerfreundlichkeit erhöhen - mobiles Bürgerbüro für Reinickendorf dauerhaft einrichten! - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Rückzug der bezirklichen Jugendarbeit aus dem Herzen des Märkischen Viertels? - beantwortet
+- TOP 7.3: Reinickendorf im Sinkflug - Monitoring "Soziale Stadtentwicklung" - beantwortet
+- TOP 7.3.1: Einrichtung von Quartiersmanagement in den Gebieten Reinickendorf-Ost, Reinickendorf-West und dem Märkischen Viertel - überwiesen
+- TOP 7.4: Senkung der Kosten des Schulessens - vertagt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Entwurf des Bebauungsplanes 12-14 vom 28.08.2006 für die Grundstücke Kurt-Schumacher-Damm 12-16, Nordlichtstraße 2-4 ... - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Verordnung über die Veränderungssperre 12-18B / 44 für das Grundstück Ernststraße 7 im Bezirk Reinickendorf, Ortsteil Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Beleuchtung von Gebäuden in den Nachtstunden - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Gastanks in der Kolonie Waldessaum - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Mehr Information für die Eltern - Reinickendorfer Schulprogramme im Internet veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Merchandising von Reinickendorfer Ortsteil-Artikeln - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Weihnachtsmarkt in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Betrieb der Reinickendorfer Strandbäder langfristig sichern - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Langfristige Pachtverträge für Reinickendorfer Sommerbäder - erledigt
+- TOP 9.8: Mieterhöhungen der Gesobau - überwiesen
+- TOP 9.9: Mahnmal in Frohnau/Glienicke - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Vermeidung von Wurzeldruck - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Beeinträchtigungen durch Gewerbegebiet Lübarser Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Schulhöfe für alle Kinder und Jugendlichen öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: MRSA an Reinickendorfer Krankenhäusern - erledigt
+- TOP 9.14: Aktion MitmachParcour - KlarSicht - - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Senat soll Krebsvorsorge unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Anträge - (offen)
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Schulessen und Schulmaterial für Schulkinder aus sozial schwachen Familien - überwiesen
+- TOP 11.2: Brandschutz im Rathaus Reinickendorf endlich umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Schäden auf dem Fußweg des Kiefheider Weges beseitigen - überwiesen
+- TOP 11.4: Mobiles Bürgerbüro zur Unterstützung des Volksbegehrens einsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Welche Positionen sucht der Bezirk im Stellenpool - überwiesen
+- TOP 11.6: Stand der Sicherung des buddhistischen Hauses - überwiesen
+- TOP 11.7: Barrierefreier Zugang der Gustav-Dreyer-Schule - überwiesen
+- TOP 11.8: Alkoholverbot auf Spielplätzen - überwiesen
+- TOP 11.9: Schließzeit in der Betreuung an Ganztagsschulen - überwiesen
+- TOP 11.10: Rufumleitung von den Schulen in den Hort - überwiesen
+- TOP 11.11: Anti-Gewalt-Training in den Schulen - überwiesen
+- TOP 11.12: Lerntagebücher sichern - überwiesen
+- TOP 11.13: MAE-Kräfte an Schulen - vertagt
+- TOP 11.14: Bewegungsangebote auf Schulhöfen - vertagt
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Rettung der Wiesen in Lübars - überwiesen
+- TOP 12.2: Stunden für individuellen Förderbedarf - überwiesen
+- TOP 12.3: Reaktivierung der Heidekrautbahn - überwiesen
+- TOP 12.4: Busverbindung Quickborner Straße - vertagt
+- TOP 13: Schulversäumnisse in Reinickendorf - überwiesen
