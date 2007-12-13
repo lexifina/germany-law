@@ -1,0 +1,6 @@
+# TOP 9: Bauvorhaben Deichstraße (BUE131207-05704.doc)
+
+- Sitzung: Bezirksausschuss Uedesheim (2007-12-13)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/105631
