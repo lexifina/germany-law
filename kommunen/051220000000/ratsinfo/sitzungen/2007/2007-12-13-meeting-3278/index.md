@@ -1,0 +1,73 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2007-12-13T14:30:00+01:00
+- Ende: 2007-12-13T15:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZXQ5y3TKLoRkeWbWD5I0SrA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3278
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRZTU-nN5X7MxATeI3wdYNJ_YuV-XQf4ntXbSujTo2O0/Oeffentliche_Niederschrift_Rat_13.12.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Protokoll
+- TOP 4: Umbesetzung von Ausschüssen und Gremien
+- TOP 5: Beratung der Haushaltssatzung für das Haushaltsjahr 2008 einschließlich
+- TOP 6: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal
+- TOP 7: Ausschreibung von zwei Beigeordnetenstellen
+- TOP 8: Zweites Gesetz zur Straffung der Behördenstruktur in Nordrhein-Westfalen – Reform der Versorgungsverwaltung
+- TOP 9: Bürokratieabbaugesetz II
+- TOP 10: Strategische Neuausrichtung des Vermögensbetriebs für die Stadt Solingen (VBS)
+- TOP 11: Strategische Neuausrichtung des Vermögensbetriebs für die Stadt Solingen (VBS)
+- TOP 12: II. Nachtrag zum Stellenplan 2007
+- TOP 13: Beteiligungsbericht 2007 der Stadt Solingen - verteilt in der Sitzung am 11.12.2007 -
+- TOP 14: Verhandlungen hinsichtlich der Vertragsverlängerung für die Freibäder Schellbergtal und Ittertal
+- TOP 15: Bäderkonzept 2007
+- TOP 16: Bäderkonzept 2007
+- TOP 17: Bäderkonzept 2007
+- TOP 18: Wirtschaftsplan 2008 des Technischen Betriebes Straßen und Grün der Stadt Solingen (TBSG)
+- TOP 19: Wirtschaftsplan 2008 des Dienstleistungsbetriebes Gebäude der Stadt Solingen (DBSG)
+- TOP 20: Wirtschaftsplan 2008 des Dienstleistungsbetriebes Gebäude der Stadt Solingen (DBSG)
+- TOP 21: Gebührenbedarfsberechnungen 2008
+- TOP 22: II. Änderungssatzung zur Satzung über die Abfallentsorgung in der Stadt Solingen (Abfallentsorgungssatzung -AbfS)
+- TOP 23: II. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen (Straßenreinigungssatzung)
+- TOP 24: II. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluß an die öffentliche Abwasseranlage (Entwässerungssatzung -EntwS -)
+- TOP 25: II. Änderungssatzung zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung - EntsorgS -)
+- TOP 26: Wirtschaftsplan 2008 der EntsorgungsBetriebe Solingen
+- TOP 27: V. Änderung der Ordnung der Stadt Solingen über die Erhebung von privatrechtlichen Entgelten für die Benutzung des Müllheizkraftwerkes der EntsorgungsBetriebe Solingen
+- TOP 28: Wirtschaftsplan 2008 EntsorgungsBetriebe Solingen Müllheizkraftwerk
+- TOP 29: I. Änderung der Ordnung der Stadt Solingen über die Benutzung der Abfallbeseitigungsanlagen Deponie mit Wertstoffhof und Kompostierungsanlage
+- TOP 30: 5. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) 2008 - 2012 der Stadt Solingen
+- TOP 31: Freies Parken am Freitag und Samstag, 21./22.12.2007
+- TOP 32: Kinder- und Jugendförderplan der Stadt Solingen
+- TOP 33: Kinder- und Jugendförderplan der Stadt Solingen
+- TOP 34: Ordnung über die Erhebung von privatrechtlichen Entgelten
+- TOP 35: Honorar- und Entgeltordnung der Abteilung Jugendförderung des Stadtdienstes Jugend
+- TOP 36: Honorarordnung für Arbeitsgemeinschaften, Lehrgänge, Einzelveranstaltungen und Projekte der Abteilung Jugendförderung des Stadtdienstes Jugend der Stadt Solingen (50/8)
+- TOP 37: Aufhebung der Betriebssatzung für das Städtische Klinikum Solingen
+- TOP 38: Aufhebung der Entgeltordnung für Wahlleistungen des Städtischen Klinikums Solingen
+- TOP 39: Wirtschaftsplan 2008 der Altenzentren der Stadt Solingen
+- TOP 40: Bauleitplanung Oberburg
+- TOP 41: Satzung der Stadt Solingen zur förmlichen Festlegung der 1. Erweiterung des Sanierungsgebietes „Südliche Innenstadt“ gemäß § 142 Baugesetzbuch (BauGB)
+- TOP 42: Vergabe des Agenda-Preises der Stadt Solingen 2007
+- TOP 43: Neufassung der "Satzung für die Obdachlosenunterkünfte der Stadt Solingen"
+- TOP 44: Verschiedenes
+- TOP 45: Gesetz zur Kommunalisierung der Umweltverwaltung
+- TOP 46: Bürokratieabbaugesetze I und II
+- TOP 47: Bäderkonzept
+- TOP 48: Kommunalisierung der Umweltverwaltung
+- TOP 49: Geschäftsführer im Konzern Stadt Solingen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Protokoll
+- TOP 4: Bestellung der stellv. Leiterin des Dienstleistungsbetriebes 801
+- TOP 5: Betrauung der Stadtwerke Solingen GmbH - Verkehrsbetrieb
+- TOP 6: Verschiedenes
+- TOP 7: Spread-Ladder-Geschäfte
