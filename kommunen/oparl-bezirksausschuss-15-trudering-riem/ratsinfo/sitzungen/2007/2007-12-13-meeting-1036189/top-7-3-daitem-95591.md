@@ -1,0 +1,7 @@
+# TOP 7.3.: Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 1945 der Landeshauptstadt München für den Bereich Schwablhofstraße (östlich), Wasserburger Landstraße (nördlich), Bahnlinie München - Rosenheim (südlich), Flurst. Nrn. 206 und 206/9, 216 und 606/57 und Teilflächen Flurst. Nr. 195/6 sowie Bahnlinie München - Rosenheim (nördlich), Schwablhofstraße (westlich), Flurst. Nr. 183 - Praktiker Bau - und Gartenfachmarkt, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007
+
+- Sitzung: BA 15 - Vollgremium (2007-12-13)
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/95591
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/95591
