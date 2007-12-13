@@ -1,0 +1,102 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2007-12-13T09:00:00+01:00
+- Ende: 2007-12-13T20:53:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2149
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2149
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167867.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167867.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167867.pdf
+
+## Tagesordnung
+
+- TOP 1: Vereidigung einer Beigeordneten - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - mehrheitlich beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Rechenschaftsbericht 2006 - einstimmig beschlossen
+- TOP 5: Prüfung derJahresrechnung 2006 - mehrheitlich beschlossen
+- TOP 6: Wirtschaftsplan 2008 des Stadtbetriebes Zentrale Dienste - einstimmig beschlossen
+- TOP 7: Wirtschaftsplan 2008 - einstimmig beschlossen
+- TOP 8: Wirtschaftsplanung 2007 - 2011 - einstimmig beschlossen
+- TOP 9: Abwasserbeseitigungskonzept (ABK) 2008 - 2019 - einstimmig beschlossen
+- TOP 10: Gebührenkalkulation 2008 - mehrheitlich beschlossen
+- TOP 11: Gebührenkalkulation Straßenreinigung für 2008 - mehrheitlich beschlossen
+- TOP 12: 17. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 13: Gebührenkalkulation Abfall für 2008 - mehrheitlich beschlossen
+- TOP 14: 8. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf (Abfallentsorgungssatzung) - einstimmig beschlossen
+- TOP 15: 17. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf (2008) - mehrheitlich beschlossen
+- TOP 16: Etat 2008 - zur Kenntnis genommen
+- TOP 17: Haushaltssatzung der Lhstdt. D`dorf für das Haushaltsjahr 2008 - mehrheitlich beschlossen
+- TOP 18: ÄA SPD: Arbeitsplätze - zur Kenntnis genommen
+- TOP 19: ÄA Kahl u. Laubenburg: Anpassung der Personalkosten - zur Kenntnis genommen
+- TOP 20: ÄA Etat 2008 CDU/FDP: Klimaschutz - zur Kenntnis genommen
+- TOP 21: ÄA SPD: Klimaschutz - zur Kenntnis genommen
+- TOP 22: ÄA Bü90/Grü: Kinderarmut - zur Kenntnis genommen
+- TOP 23: ÄA Bü90/Grü u. SPD: Unterstützung für Düsseldorfer Schulen - zur Kenntnis genommen
+- TOP 24: ÄA. SPD: Kinderfreundliches Düsseldorf - zur Kenntnis genommen
+- TOP 25: ÄA Etat 2008 Kahl/Lbbg: Straßenumbenennungen - zur Kenntnis genommen
+- TOP 26: ÄA Bü90/Grü: Klimaschutz u. Armutsbekämpfung - zur Kenntnis genommen
+- TOP 27: ÄA Kahl u. Laubenburg: Sozialticket - zur Kenntnis genommen
+- TOP 28: ÄA Bü90/Grü: Bekämpfung antidemokr. u. rechtsextr. Tendenzen - zur Kenntnis genommen
+- TOP 29: ÄA Bü90/Grü: Mehr Personal für Kitas - zur Kenntnis genommen
+- TOP 30: ÄA Etat 2008 CDU/FDP: Kein Kind ohne Mahlzeit - zur Kenntnis genommen
+- TOP 31: ÄA Bü90/Grü: Zuschuss zur Verbesserung des Opferschutzes im Bereich Zwangsverheiratung - zur Kenntnis genommen
+- TOP 32: ÄA Bü90/Grü: Mehr Geld für die Integrationsarbeit d. Verbände - zur Kenntnis genommen
+- TOP 33: ÄA Kahl u. Laubenburg: MigrantInnenorganisationen aufbauen - zur Kenntnis genommen
+- TOP 34: ÄA Kahl u. Laubenburg: Migrantinnen u. Migranten - zur Kenntnis genommen
+- TOP 35: ÄA Bü90/Grü: Stadtentwicklungskonzept weiter entwickeln - zur Kenntnis genommen
+- TOP 36: ÄA Bü90/Grü: Mittagessen in Schulen - zur Kenntnis genommen
+- TOP 37: ÄA Bü90/Grü: Leuchtturmprojekt Rathaus-Sanierung - zur Kenntnis genommen
+- TOP 38: ÄA Bü90/Grü: Energetische Sanierung städt. Gebäude - zur Kenntnis genommen
+- TOP 39: ÄA Bü90/Grü: Leuchtturmprojekt Aquazoo - zur Kenntnis genommen
+- TOP 40: ÄA Bü90/Grü: ÖPNV - zur Kenntnis genommen
+- TOP 41: ÄA SPD: Preiswerter Wohnraum für Düsseldorf - zur Kenntnis genommen
+- TOP 42: ÄA Bü90/Grü: Verkehrssicherheit - zur Kenntnis genommen
+- TOP 43: ÄA SPD: Wohlfühlen u. Sicherheit im Stadtteil - zur Kenntnis genommen
+- TOP 44: ÄA SPD: Einrichtung eines kommunalen Grundstücksfonds - zur Kenntnis genommen
+- TOP 45: Haushaltssatzung der Landeshauptstadt. Düsseldorf i.R. NKF - mehrheitlich beschlossen
+- TOP 46: Vorschläge + Anregungen der Bv`n - mehrheitlich beschlossen
+- TOP 47: Veränderungsverzeichnis zum Haushaltsplanentwurf 2008 etc. - mehrheitlich beschlossen
+- TOP 48: Veränderungsverzeichnis zum Haushaltsplanentwurf 2008 + MIP 2007-2011 - mehrheitlich beschlossen
+- TOP 49: 1. Nachtrag zum Veränderungsverz. Verwaltungshaushalt - mehrheitlich beschlossen
+- TOP 50: 1. Nachtrag zum Veränderungsverz. (Vermögenshaushalt) - mehrheitlich beschlossen
+- TOP 51: Stellenplan- und übersichten 2008 - mehrheitlich beschlossen
+- TOP 52: Änderung der Hauptsatzung - mehrheitlich abgelehnt
+- TOP 53: Bekanntgabe der gen. üpl. u. apl. Ausgaben 2007 - mehrheitlich beschlossen
+- TOP 54: Ersatzbeschaffung eines Fahrzeuges für Amt 66 - einstimmig beschlossen
+- TOP 55: Jan-Wellem-Jahr 2008 - mehrheitlich beschlossen
+- TOP 56: Annahme der Schenkung und Aufstellung der Skulptur „Hoppeditz“ von Bert Gerresheim auf der Grünfläche (Rheinort 1-5) hinter dem Haus des Karnevals - mehrheitlich beschlossen
+- TOP 57: BSA Franz-Rennefeld-Weg Kunstrasen - einstimmig beschlossen
+- TOP 58: BSA Karl-Hohmann Straße Umbau - einstimmig beschlossen
+- TOP 59: Grundsatzbeschluss "Dachsanierung und Brandschutz - einstimmig beschlossen
+- TOP 60: Bau- und Finanzierungsbeschluss "Sanierung der Te - einstimmig beschlossen
+- TOP 61: Friedhof Stoffeln Erweiterung des Kühlraumes für das Krematorium - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 62: Aufzugsnachrüstung, Blindenleitsystem und Rauchabzugsschächte U-Bf. Victoriaplatz/Klever Straße - einstimmig beschlossen
+- TOP 63: Kieshecker Weg/ Lichtenbroicher Weg - Radwege - einstimmig beschlossen
+- TOP 64: Abbau der alten Verkehrsrechner und Erneuerung von Steuergeräten - Stufe 2 - Bereich Mitte 1 u.West - einstimmig beschlossen
+- TOP 65: Sanierung Kennedydamm - Fahrtrichtung stadteinwärts - einstimmig beschlossen
+- TOP 66: Kö-Bogen Kö-Bogen - zur Kenntnis genommen
+- TOP 67: Kö - Bogen - 1. und 2. Bauabschnitt - Verkehrsanlagen - mehrheitlich beschlossen
+- TOP 68: Bildung eines Ratsausschusses und Änderung der Zuständigkeitsordnung - zur Kenntnis genommen
+- TOP 69: Gründung der Stiftung Park- und Kulturdenkmal Friedhof Golzheim - mehrheitlich beschlossen
+- TOP 70: Behindertengleistellung - einstimmig beschlossen
+- TOP 71: Satzung 50-4 neu - einstimmig beschlossen
+- TOP 72: Umbesetzungen - einstimmig beschlossen
+- TOP 73: ekz.bibliotheksservice GmbH - einstimmig beschlossen
+- TOP 74: VR SSK Dus: Neuwahl Mitglied - einstimmig beschlossen
+- TOP 75: Wiederwahl Schiedsmann H.J. Brock - einstimmig beschlossen
+- TOP 76: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 77: Plan Nr. 5778/039 - Veränderungssperre für das Gebiet Grafenberger Allee / Ivo-Beucker-Straße - einstimmig beschlossen
+- TOP 78: FNP-Ä Nr. 124 - Max-Planckstraße - Stellungnahmen; Planbeschluss - einstimmig beschlossen
+- TOP 79: B-Plan Nr. 6075/035 - In den Kötten - einstimmig beschlossen
+- TOP 80: Zulässigkeit Begehren Golzheimer Friedhof - mehrheitlich beschlossen
+- TOP 81: ÄA Bü90/Grü: Bürgerbegehren "Golzheimer Friedhof" - mehrheitlich abgelehnt
+- TOP 82: Aufsichtsrat der Jugendberufshilfe GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 83: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 84: Akt. Anfr. Kahl: Gingko-Baum - zur Kenntnis genommen
+- TOP 85: Akt. Anfr. Kahl: Grundstücksenteignung - zur Kenntnis genommen
