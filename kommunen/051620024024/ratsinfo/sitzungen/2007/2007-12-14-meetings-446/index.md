@@ -1,0 +1,77 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2007-12-14T16:14:00+01:00
+- Ende: 2007-12-14T20:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/446
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/446
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Grundschule Allerheiligen (RAT141207-05988.doc)
+- TOP 3: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Festsetzung von Gebühren 2008 für den Bereich „Abfallentsorgung“ (AUG141107-05669.doc)
+- TOP 6: Änderung der Hauptsatzung der Stadt Neuss und der Geschäftsordnung des Rates der Stadt Neuss wegen Änderungen der Gemeindeordnung (RAT141207-05981.doc)
+- TOP 7: Genehmigung der Tagesordnung
+- TOP 8: Wirtschaftsplan 2008 des Gebäudemanagements der Stadt Neuss (GMN) (FA211107-05845.doc)
+- TOP 9: ÖPNV-Pauschale
+- TOP 10: Mensen an Gymnasien
+- TOP 11: Jahresprüfbericht 2006)
+- TOP 12: Eröffnungsbilanz u. Jahresabschluss 2006 GMN
+- TOP 13: Verlegung und Umbau der Haltestelle Alemannenstraße
+- TOP 14: Dezentralisierung des ehemaligen ZOB - Standort Hauptbahnhof
+- TOP 15: Bebauungsplan Nr. 451 - Augustinusviertel, Nordkanalallee (St.-Josef- Krankenhaus) - - Entwurfsvorlage - Aufstellungsbeschluss - Bericht über die frühzeitigen Beteiligungen - Auslegungsbeschluss
+- TOP 16: Wirtschaftsplan der Stadtentwässerung Neuss für das Jahr 2008 (BA200907-05587.doc)
+- TOP 17: Festsetzung von Gebühren 2008 für den Bereich „Stadtentwässerung“ (BA200907-05590.doc)
+- TOP 18: Festsetzung von Gebühren 2008 für die Entsorgung von Grundstücksentwässerungsanlagen (BA200907-05591.doc)
+- TOP 19: Ausbau der Stichstraße Bataverstraße, BPL 392/BPL 452–Änderungsbeschluss- (Straßenbau, Beleuchtung) -Planvorlage, Ausbauprogramm- (BA221107-05767.doc)
+- TOP 20: Verkehrsberuhigungskonzept Reuschenberg (Straßenbau) -Planvorlage, Ausbauprogramm- (BA221107-05768.doc)
+- TOP 21: 1. Satzung zur Änderung der Betriebssatzung für die Stadtentwässerung Neuss vom 14. Dezember 2001 (BA221107-05795.doc)
+- TOP 22: Festsetzung von Gebühren 2008 für den Bereich „Bestattungswesen“ (AUG141107-05672.doc)
+- TOP 23: Wirtschaftsplan 2008 der Städtischen Friedhöfe Neuss (AUG141107-05673.doc)
+- TOP 24: Anordnung des Umlegungsverfahrens für das Gebiet des Bebauungsplanes Nr. 165/3. Das Umlegungsverfahren hat die Nr. 169 und trägt den Namen „Ubierstraße“ (AWL061207-05822.doc)
+- TOP 25: Feststellung des Jahresabschlusses 2006 der Liegenschaften und Vermessung Neuss und Beschluss zur Verwendung des Jahresgewinnes sowie Entlastung der Betriebsleitung (AWL061207-05391.doc)
+- TOP 26: Wirtschaftsplan der Liegenschaften und Vermessung Neuss (LVN) für das Jahr 2008 (AWL061207-05933.doc)
+- TOP 27: Antrag auf Einleitung eines Vorhaben bezogenen Bebauungsplanverfahrens für einen Vorhaben- und Erschließungsplan im Bereich Grefrath, Böxhof
+- TOP 28: Straßenbegleitgrün Kreisverkehr in Norf – Nievenheimer Straße/Uedesheimer Straße (AUG141107-05712.doc)
+- TOP 29: Kruppstraße (Straßenbau, Beleuchtung) –Planvorlage, Ausbauprogramm- (BA200907-05526.doc)
+- TOP 30: Neubau Regenwasserkanal Kruppstraße im Zuge des Umbaus der A 57 (BA200907-05549.doc)
+- TOP 31: „Altes Rathaus Norf“ – Grundsatzbeschluss zum Konzept zukünftige Nutzung des ehemaligen Rathauses Norf und der rückwärtig liegenden, öffentlichen Grünfläche (HA281107-05904.doc)
+- TOP 32: Kinderspielplatzprogramm 2008 (UK 241007-05708.doc)
+- TOP 33: Straßenverengungen auf der Altebrücker Straße
+- TOP 34: Erschließungssituation Gewerbegebiet Raiffeisenstraße - Grundsatzbeschluss
+- TOP 35: Bürgerzentrum Allerheiligen - Raumprogramm
+- TOP 36: Vertragliche Leistungen für den Betrieb von Kindertageseinrichtungen (JHA271107-05736-Vertragliche Leistungen.doc)
+- TOP 37: Anreize für Tagespflegepersonen (JHA271107-05850.doc)
+- TOP 38: Änderung Entgeltordnung Alte Post
+- TOP 39: Schulentwicklungsplan – Sekundarstufe I und II (SCH131107-05834.doc)
+- TOP 40: Feststellung des Jahresabschlusses für das Städt.Krankenheim Herz-Jesu zum 31.12.2006 (SOZ041207-05742.doc)
+- TOP 41: Ergebnisverwendungsbeschluss zum Jahresabschluss des Städt.Krankenheimes Herz–Jesu zum 31.12.2006 (SOZ041207-05743.doc)
+- TOP 42: Feststellung des Wirtschaftsplanes für das Pflegeheim Herz-Jesu für das Wirtschaftsjahr 2008 (SOZ041207-05745.doc)
+- TOP 43: Haushalt 2008 Vorlage des Entwurfes der Haushaltssatzung der Stadt Neuss mit Anlagen für das Haushaltsjahr 2008 (RAT141207-05800.doc)
+- TOP 44: Grundsatzbeschluss zur Durchführung eines Sanierungsverfahrens zur Neuordnung des östlichen Innenstadtrands (RAT141207-05978.doc)
+- TOP 45: Allerheiligen, Am Kirchenmorgen (Bau-, Heimwerker- und Gartenmarkt) Änderung Bauleitplanverfahren Übertragung Entscheidungsbefugnis auf den APS (RAT141207-05979.doc)
+- TOP 46: Gebäudemangement der Stadt Neuss (GMN): Wirtschaftsplan 2008/Finanzplanung 2007 - 2011 (RAT141207-05958.doc)
+- TOP 47: Bericht zum städtebaulichen Konzept für den Bereich zwischen Kastellstraße und Glockhammer (RAT141207-05959.doc)
+- TOP 48: Bürgerfreundliche Ausgestaltung des „Bürokratieabbaugesetzes II“ (RAT141207-05960)
+- TOP 49: „Public-Viewing zur Fußball-EM 2008 nach Neuss (RAT141207-05973.doc)
+- TOP 50: Antrag der Fraktion Bündnis 90/DIE GRÜNEN betr.: Beiratstätigkeit des Bürgermeisters
+- TOP 51: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 52: VHS/Musikschule (RAT141207-05957.doc)
+- TOP 53: Dienstanweisung Finanzbuchhaltung
+- TOP 54: Kenntnisnahme üpl/apl II. u. III./2007
+- TOP 55: Einwohnerfragestunde
+- TOP 56: Ausbau der Bataverstraße nördlich der Gladbacher Straße - Entwurfsplanung
+- TOP 57: Ausbau Bonner Straße im Bereich Kasterstraße - Gestaltungsentwurf
+- TOP 58: Festschreibung VRR-Umlage für Rheinbahnbedienung
+- TOP 59: Novellierung der Rechnungsprüfungsordnung
+- TOP 60: Änderung der Vergnügungssteuersatzung der Stadt Neuss
+- TOP 61: Bebauungsplan Nr. 165/3 - Furth-Süd, Ubierstraße - - Entwurfsvorlage - Aufstellungsbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 62: Vorhaben- und Erschließungsplan Nr. V434/1 - Uedesheim, Tucherstraße (West) - (vorhabenbezogener Bebauungsplan) - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 63: Vereinbarung zwischen dem Rhein-Kreis Neuss und den kreisangehörigen Gemeinden über die Durchführung der örtlichen Rechnungsprüfung bei der Finanzbuchhaltung mit automatisierter Datenverarbeitung (RPA151107-05717.doc)
