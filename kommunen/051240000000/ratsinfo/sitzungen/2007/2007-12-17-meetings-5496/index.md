@@ -1,0 +1,109 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2007-12-17T14:06:00+01:00
+- Ende: 2007-12-17T18:02:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5496
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/5496
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung - Stand: 14.12.07, 08.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00088754.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00088992.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1: Haushaltsreden
+- TOP 1.1: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2008/2009 - ungeändert beschlossen
+- TOP 1.2: 2. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2008/2009
+- TOP 1.3: 3. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2008/2009
+- TOP 1.4: Empfehlungen der Fachausschüsse zum Haushaltsplan-Entwurf 2008/2009 - abgesetzt
+- TOP 1.5: Empfehlungen der Bezirksvertretungen zum Haushaltsplan-Entwurf 2008/2009 - abgesetzt
+- TOP 1.6: Fraktionsanträge zum Haushaltsplan-Entwurf 2008/2009
+- TOP 1.6.1: Haushaltsänderungsantrag Frauen helfen Frauen - abgelehnt
+- TOP 1.6.2: Haushaltsänderungsantrag Frauenberatung - abgelehnt
+- TOP 1.6.3: Haushaltsänderungsantrag FrauenNotruf - abgelehnt
+- TOP 1.6.4: NKF: Zieldefinitionen - ungeändert beschlossen
+- TOP 1.7: Einzeldrucksachen mit Auswirkungen auf den Haushaltsplan-Entwurf 2008/2009
+- TOP 1.7.1: Stadtentwässerung - Änderung der Beitrags- und Gebührensatzung - ungeändert beschlossen
+- TOP 1.8: Einwendungen gegen den Haushaltsplan-Entwurf 2008/2009
+- TOP 1.9: Beschlüsse zur Haushaltssatzung 2008/2009
+- TOP 1.10: Beschlüsse zur mittelfristigen Ergebnis- und Finanzplanung - geändert beschlossen
+- TOP 1.11: Beschlüsse zum Stellenplan 2008/2009 - geändert beschlossen
+- TOP 1.12: Haushaltssatzung 2008/2009 - geändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: PR-Aktion ARGE Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Anfrage der Frakion DIE LINKE v. 13.11.07; VO/0992/07 - abschließend zur Kenntnis genommen
+- TOP 2.2: Bürokratieabbaugesetz II - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Antwort zur Drucksache VO/1057/07 zum Bürokratieabbaugesetz II - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Entwässerungssituation in der Straße Mesenholl
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Mobilfunkkonzept - in der Sache erledigt
+- TOP 4.2: Babybegrüßungspaket für Wuppertal - zur Vorberatung verwiesen
+- TOP 4.3: Versorgungs- und Umweltverwaltung: Konnexität prüfen - in der Sache erledigt
+- TOP 4.4: Oberst Claus Graf Schenk von Stauffenberg - in der Sache erledigt
+- TOP 4.5: Kostenfreies Schulmittagessen mit Wuppertal-Pass - abgelehnt
+- TOP 4.6: Resolution Studiengebühren-Boykott - abgelehnt
+- TOP 4.7: Resolution Weihnachtsbeihilfe - abgelehnt
+- TOP 4.8: Neue Wohngebiete in Wuppertal - zur Vorberatung verwiesen
+- TOP 4.9: Kommunales Wahlrecht für Nicht-EU-BürgerInnen - zur Vorberatung verwiesen
+- TOP 4.10: Chancengleichheit - von Anfang an! - abgelehnt
+- TOP 4.11: Aufstellungsbeschluss Hahnerberger Straße - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.11.1: Bebauungsplan Nr. 1020 - Hahnerberger Straße/Hipkendahl - - ungeändert beschlossen
+- TOP 4.12: Dringlichkeitsantrag "Fuhlrott-Museum" - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat
+- TOP 5.1: Appell an Bund und Land zur Erhöhung der Regelsätze - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: Gebührensatzung zur Abfallwirtschaftssatzung für das Jahr 2008 - ungeändert beschlossen
+- TOP 6.2: 9. Satzung zur Änderung der Abfallwirtschaftssatzung der Stadt Wuppertal vom 17. Dezember 1999 - ungeändert beschlossen
+- TOP 6.3: Zweite Satzung zur Änderung der Friedhofs- und Bestattungssatzung - ungeändert beschlossen
+- TOP 6.4: Elfte Satzung zur Änderung der Gebührensatzung für die Friedhöfe der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.5: Verkaufsoffene Sonntage 2008 - ungeändert beschlossen
+- TOP 6.6: Satzung über die Straßenreinigung und den Winterdienst sowie die dafür zu erhebenden Gebühren ab 01. - ungeändert beschlossen
+- TOP 6.7: Erste Satzung zur Änderung der Satzung zur Regelung des Kostenersatzes für Einsätze der Feuerwehr Wu - ungeändert beschlossen
+- TOP 6.8: Änderung der Hauptsatzung - ungeändert beschlossen
+- TOP 6.8.1: Änderung der Hauptsatzung - abgelehnt
+- TOP 6.9: Änderung der Geschäftsordnung des Rates - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Ausgaben 2007, Teil 2 - ungeändert beschlossen
+- TOP 7.2: Straßenausbau Thielestraße - Genehmigung einer überplanmäßigen Ausgabe - ungeändert beschlossen
+- TOP 7.3: Überplanmäßige Ausgabe für die Dachsanierung des Elefantenhauses - ungeändert beschlossen
+- TOP 7.4: Zuständigkeit für über- und außerplanmäßige Aufwendungen und Auszahlungen im Jahr 2008 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2008 - stati - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2008 - offene - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplanung KIJU 2008 - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2006 des ESW - ungeändert beschlossen
+- TOP 8.5: Entlastung des Betriebsausschusses des ESW - ungeändert beschlossen
+- TOP 8.6: Wirtschaftsführung des Eigenbetriebes ESW für das Jahr 2008 - ungeändert beschlossen
+- TOP 8.7: Jahresabschluss 2006 des GMW - ungeändert beschlossen
+- TOP 8.8: Entlastung des Betriebsausschusses des GMW - ungeändert beschlossen
+- TOP 8.9: Abwicklung der ÖPNV - Pauschale - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Planfeststellungsverfahren für den Ausbau der Schwebebahn im Bereich der Stütze 100 - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren 1087 - Waldschloß -Brauerei - - ungeändert beschlossen
+- TOP 9.3: Bauleitplanverfahren Nr. 1105 V - Linde / Jägerhaus - - ungeändert beschlossen
+- TOP 9.4: Bauleitplanverfahren 1106 - Westring / A 46 - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Neuberufung der Mitglieder des Gestaltungsbeirates - ungeändert beschlossen
+- TOP 11.2: Weiterführung der integrativen Lerngruppe - Festlegung der sonderpädagogischen Förderorte - ungeändert beschlossen
+- TOP 11.3: Tätigkeitsbericht der Behindertenbeauftragten - Entgegennahme ohne Beschluss
+- TOP 11.4: Zweites Gesetz zur Straffung der Behördenstruktur in NRW - Reform der Versorgungsverwaltung - ungeändert beschlossen
+- TOP 11.5: Anmietung von Flächen für die Kraftfahrzeug-Zulassungsstelle/ Führerscheinstelle - ungeändert beschlossen
+- TOP 11.5.1: Anmietung von Flächen KFZ-Zulassungsstelle / Führerscheinstelle - abgelehnt
+- TOP 11.6: Beschluss über die Jahresrechnung 2006 und Entscheidung über die Entlastung des Oberbürgermeisters - ungeändert beschlossen
+- TOP 11.7: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bestellung eines Ersatzmitglieds für den Betriebsausschuss des GMW - ungeändert beschlossen
+- TOP 12.2: Bestellung eines Vertreters in der Verbandsversammlung des VRR - ungeändert beschlossen
+- TOP 12.3: Bestellung stellvertretende Betriebsleitung KIJU - ungeändert beschlossen
+- TOP 12.4: Neubenennung eines stellv. sachkundigen Einwohners für den Ausschuss Wirtschaft - ungeändert beschlossen
+- TOP 12.5: Bestellung von Geschäftsführern - ungeändert beschlossen
+- TOP 12.6: Umbesetzung im Seniorenbeirat - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.8: Gremienbesetzung Ausschuss Finanzen und Beteiligungssteuerung - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
