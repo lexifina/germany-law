@@ -1,0 +1,51 @@
+# Rat (26. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2007-12-18T18:03:00+01:00
+- Ende: 2007-12-18T20:18:00+01:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUIFwFkCXj8lDGrjT17ZLa0
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/1953
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZNHcQmcONdlHTDPi9-aC3TmMR9PGDjvrZ9_I74ndOn3/Einladung_Rat_18.12.2007.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSuFM_yvNAFxFiH0lfz1V2RXF0OmQWPsH2bzfBk_bWjy/Oeffentliche_Niederschrift_Rat_18.12.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Einbringung des Entwurfs der Haushaltssatzung für das Haushaltsjahr 2008 mit ihren Anlagen
+- TOP 6.: 6. Änderungssatzung zur Hundesteuersatzung der Stadt Wesseling vom 01.12.1997 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Bestattungs- und Friedhofssatzung der Stadt Wesseling - Einstimmig, 3 Enthaltung(en)
+- TOP 8.: 7. Änderungssatzung zur Friedhofsgebührensatzung der Stadt Wesseling - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: 3. Änderungssatzung der Satzung über die Entgelte für die Abfallentsorgung in der Stadt Wesseling (Abfallsatzung - AbfES) - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: 3. Änderungssatzung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsentgelten in der Stadt Wesseling (Straßenreinigungs- und Entgeltsatzung) - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Neufassung der Betriebssatzung für die Kulturbetriebe - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Geschäftsanweisung für die Finanzbuchhaltung - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Wirtschaftsplan der Entsorgungsbetriebe Wesseling für das Wirtschaftsjahr 2008 - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Prüfung der Jahresrechnung der Stadt Wesseling für das Haushaltsjahr 2006 - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Zuwendungen zu den sächlichen und personellen Aufwendungen für die Geschäftsführung der Fraktionen für 2008 - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Überarbeitung der Tarifgestaltung des Gartenhallenbades - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: siehe auch Vorlage 171/2007 - 31 Ja-Stimme(n), 2 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 18.: Herstellung der Anbaustraße An den Benden - einschließlich der nördlich abzweigenden Stichstraße - in Wesseling-Berzdorf hier: bebauungsplan-unterschreitender Ausbau im Sinne des § 125 Abs. 3 BauGB - Einstimmig, 2 Enthaltung(en)
+- TOP 19.: Verleihung der Ehrennadel der Stadt Wesseling - Einstimmig, 0 Enthaltung(en)
+- TOP 20.: Antrag der CDU-Fraktion: Umbenennung der Bezeichnung Ortsvorsteher in Ortsbürgermeister - Einstimmig, 5 Enthaltung(en)
+- TOP 21.: Ausschussumbesetzungen
+- TOP 21.1.: Umbesetzung im Ausschuss für Familie, Gesundheit und Soziales - Einstimmig, 0 Enthaltung(en)
+- TOP 21.2.: Antrag der CDU-Fraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltung(en)
+- TOP 21.3.: Antrag der SPD-Fraktion: Benennung eines stellvertretenden sachkundigen Bürgers - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Antrag der SPD-Fraktion: Benennung Stellvertreter externe Gremien - Einstimmig, 0 Enthaltung(en)
+- TOP 23.: Antrag der GRÜNE-Fraktion: Klimaschutz - Einstimmig, 0 Enthaltung(en)
+- TOP 24.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Beratung über den Bericht der Gemeindeprüfungsanstalt Nordrhein-Westfalen (GPA-NRW) über die überörtliche Prüfung der Zahlungsabwicklung der Stadt Wesseling vom 20.03. bis 22.03.2007 - Einstimmig, 0 Enthaltung(en)
+- TOP 2.: Besetzung der Stelle zur Frühbetreuung von Neugeborenen nach dem Dormagener Modell - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Beschaffung eines Gerätewagens für den Brandschutz/ Rettungsdienst der Feuerwehr Wesseling - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Mitteilungen und Anfragen
+- TOP 4.1.: Personelle Situation der örtlichen Rechnungsprüfung und Zukunftsperspektive zur Durchführung der Prüfungsaufgaben
+- TOP 5.: Presseveröffentlichungen
