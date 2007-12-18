@@ -1,0 +1,100 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2007-12-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1079407
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1079407
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Berg-am-Laim-Str. - Aufstellung einer Warenstellage
+- TOP 2.2.: Kreillerstraße - Aufstellung einer Warenstellage
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Rosenheimer Straße 145 ? Neubau eines Geschäfts-, Büro- und Verwaltungsgebäudes
+- TOP 3.2.: Bad-Schachener-Straße ? Neubau einer Wohnanlage mit Tiefgarage und Gewerbeflächen
+- TOP 3.1.: Innsbrucker Ring / Bad-Schachener-Straße Linksabbiegemöglichkeit ? U-Wende in der Bad-Schachener-Straße - Ortstermin am 11.10.2007
+- TOP 3.2.: Bauvorhaben Ecke Kreiller-/ St.-Veit-Str. - Zufahrtsregelung
+- TOP 3.3.: Kleingartenanlage Echardinger Grünstreifen - Zufahrtsregelung
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Naturspielraum Michaelianger 2007 & Münchner SommerSpielAktion 2008
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Freiräume ? Antrag auf Gewährung eines Zuschusses aus dem BA-Budget
+- TOP 3.2.: Soziale Dienste ? Antrag auf Gewährung eines Zuschusses aus dem BA-Budget
+- TOP 3.3.: ESV München-Ost e.V. ? Antrag auf Gewährung eines Zuschusses aus dem BA-Budget
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Diskothek ?Apartment 11? ? Antrag auf Erteilung einer Sperrzeitaufhebung
+- TOP 3.2.: Grünanlage Achentalstr./Pertisaustr. - Einweihung Wohnprojekt am 29.01.2008
+- TOP 3.1.: Blombergstraße ? Antrag auf Baumfällungen
+- TOP 3.2.: Heubergstraße ? Antrag auf Baumfällungen
+- TOP 3.3.: Sonnwendjochstraße ? Antrag auf Baumfällungen
+- TOP 3.4.: Hochgernstraße ? Antrag auf Baumfällungen
+- TOP 3.5.: Hansjakobstraße ? Antrag auf Baumfällungen
+- TOP 3.6.: Bertschstraße ? Antrag auf Baumfällungen
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Liste über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Bevölkerungsprognose 2007 der Landeshauptstadt München
+- TOP 4.3.: PERSPEKTIVE MÜNCHEN - Bilanz Evaluierungsbericht 2007
+- TOP 4.4.: Bekanntgabe zum EU-Projekt MILUnet Ergebnisse der Beteiligung der Landeshauptstadt München am EU-Projekt MILUnet (Multifunctional Intensive Land Use Network) (Netzwerk für multifunktionale intensive Flächennutzung) 2004 ? 2007
+- TOP 4.5.: Beschlussvollzugskontrolle (BVK) 5. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2007 - Bekanntgabe -
+- TOP 4.6.: Verordnung der Landeshauptstadt zur Aufhebung des § 2 Absatz 2 Nummern 1 und 2 und des § 2 Abs. 3 der Verordnung der Landeshauptstadt München über Mindestabstandsflächen, Höhenlage von Gebäuden, Gestaltung von Dächern und von unbebauten Flächen bebauter Grundstücke in besonderen Siedlungsgebieten vom 14.12.1979, MüAbl. Sondernummer 5 vom 18.12.1997 (GVO)
+- TOP 4.7.: Neugestaltung der Außenanlagen mit Einrichtung von Bewohnergärten in der städtischen Wohnanlage Berg am Laim im Rahmen des Bund-Länder- Städtebauförderungsprogramms "Soziale Stadt"
+- TOP 4.8.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung im Bereich der Bahnstrecke der S 8 Ost (Daglfing, Englschalking, Johanneskirchen) zwischen der Bahnstrecke München-Rosenheim und der Stadtgrenze zu Unterföhring
+- TOP 4.1.: S-Bahn-Unterführung Berg am Laim ? Errichtung einer separaten Fuß- und Radwegunterführung - Ausführungsgenehmigung - Änderung des Mehrjahresinvestitionsprogrammes
+- TOP 4.2.: Änderung des Mehrjahresinvestitionsprogrammes ? Baumkirchner Straße
+- TOP 4.3.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO ? Novelle 2007 -Ergebnisse des Beteiligungsverfahrens -Neuerlass einer Stellplatzsatzung für Kraftfahrzeuge (Satzungsbeschluss) -Aufhebung der Stellplatzbeschränkungssatzung (Aufhebungsbeschluss) -Festlegungen zur zukünftigen Höhe und Verwendung von Ablösemitteln
+- TOP 4.4.: Anzeigefehler bei der U2 ? Innsbrucker Ring - Bürgerschreiben
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Konzept zur Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung -Ausbauoffensive- Kindertagesbetreuungs-Plan: Darstellung und Weiterentwicklung
+- TOP 4.2.: Anerkennung von Kinderbetreuungsplätzen in der Kita Friedenstraße 22b
+- TOP 4.3.: Anerkennung von Kinderbetreuungsplätzen in der Kita Baumkirchner Str. 26
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Tag des Offenen Denkmals ? Verwendungsnachweis und Schriftverkehr
+- TOP 4.2.: Bürgerkreis Berg am Laim e.V. ? Verwendungsnachweis
+- TOP 4.3.: ESV München Ost e.V. ? Verwendungsnachweis
+- TOP 4.4.: Bürgerkreis Berg am Laim e.V. ? Bewilligungsbescheid
+- TOP 4.5.: Verein zur Förderung des Kinder- und Jugendtheaters e.V. ? Bewilligungsbescheid
+- TOP 4.6.: ESV München Ost e.V. ? Schriftverkehr
+- TOP 4.7.: Kath. Kindertagesstätte St. Michael ? Schriftverkehr
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Änderung der Gemeindeordnung ? Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 4.2.: Änderung der BA-Satzung Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung des Kommunalreferates Ziffn. 1, 7, 11 - 13
+- TOP 4.3.: Vollmacht für den Zuständigkeitsbereich gem. Art. 60 Abs. 2 Satz 2 GO
+- TOP 4.4.: BA-Sitzungstermine und Bürgerversammlungstermine 2008
+- TOP 4.5.: Bürgerversammlung am 17.04.2008 beim ESV München Ost
+- TOP 4.6.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs
+- TOP 4.7.: Zwischennachricht vom Kommunalreferat
+- TOP 4.8.: Abbruchanzeige St.-Veit-Straße
+- TOP 4.9.: Bauarbeiten durch die Stadtwerke ? Hans-Pfann-Str., Auf dem Wasen
+- TOP 4.10.: Bürgerprojekte / Beteiligungsprojekte zum 850. Stadtgeburtstag
+- TOP 4.11.: Erlaubnisbescheid Christkindlmarkt am Grünen Markt
+- TOP 4.12.: Lärmbelästigung in der Friedenstraße durch Afrika-Festival an der Orleansstraße
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
