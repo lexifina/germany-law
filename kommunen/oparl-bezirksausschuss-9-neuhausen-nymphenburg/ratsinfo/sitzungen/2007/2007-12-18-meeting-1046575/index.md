@@ -1,0 +1,116 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2007-12-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1046575
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1046575
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.4: Beschlussvorlagen
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: KVR: Einrichtung eines allgemeinen Behindertenparkplatzes im Christoph-Rapparini-Bogen (Ostseite)
+- TOP 3.2.: KVR: Einbeziehung der Donnersbergerstraße in die Tempo-30-Zone
+- TOP 3.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.07: Bündnis für Ökologie; Leitprojekt 2: Mehr Platz für den Umweltverbund, Teilprojekt Stadtviertelkonzept Nahmobilität für den 2. Stadtbezirk Ludwigsvorstadt-Isarvorstadt
+- TOP 3.4.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.11.07: Beschlussvollzugskontrolle (BVK); 5. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversamlung vom 01.01.05 - 30.06.07
+- TOP 3.5.: Baumaßnahmen der Stadtwerke im November
+- TOP 3.6.: Baumaßnahmen der Stadtwerke; Stromprojekt Menzinger Straße
+- TOP 3.7.: KVR: Verlegung des Taxistandplatzes Donnersbergerbrücke
+- TOP 3.8.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Landshuter Allee 148
+- TOP 3.9.: Bürgeranliegen: Mangelhafte Straßenbeläge im 9.Stadtbezirk (Schreiben BA 9 vom 20.11.07)
+- TOP 3.10.: =&gt; dazu: Bürgeranliegen: Leserbrief zu: Die Schlaglochkartographen, SZ vom 23.11.07
+- TOP 3.11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.07: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO - Novelle 2007
+- TOP 3.12.: Antrag CSU: Verbesserung der Parksituation Karl-Schurz-Straße Südseite
+- TOP 3.13.: MVG: Verlegung der Bushaltestelle der Buslinie 132 am Rotkreuzplatz (Antrag BA 9 Nr. 2366 vom 21.08.07)
+- TOP 3.14.: Baumaßnahmen der Stadtwerke; Fernwärmeprojekt Gern/Neuhausen
+- TOP 3.15.: Empfehlungen aus der Einwohnerversammlung Parkraummanagement vom 03.12.07
+- TOP 3.16.: Zur Info: Bedarfsgerechter Parkraum statt Parklizensierung in Neuhausen-Nymphenburg sowie Erstellung eines schlüssigen Verkehrskonzeptes für dieses Stadtviertel (Antrag aus der Rathaus-Umschau)
+- TOP 3.17.: KVR: Fahrradweg am Rotkreuzplatz; Ortstermin am 25.09.07 (Antrag BA 9 Nr. 1624 vom 21.11.06 und Schreiben vom 15.05.07)
+- TOP 3.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.07: 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz
+- TOP 3.19.: Beschluss der Vollversammlung des Stadtrats vom 07.11.07: Magnetschwebebahn München Hauptbahnhof - Flughafen; Gemeinsame Resolution der Nordallianz mit der Landeshauptstadt München
+- TOP 3.20.: Antrag CSU: Neuer Busbahnhof Arnulfstraße - Vermeidung von Belastungen für Anwohner auf den Anfahrtsrouten
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Planungsreferat: Bautennachweise vom 05.11. - 11.11., 12.11. - 18.11., 19.11. - 25.11. und 26.11. - 02.12.07
+- TOP 3.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.07: Verordnung der LH München zur Aufhebung des § 2 der Verordnung über Mindestabstandsflächen, Höhenlage von Gebäuden, Gestaltung von Dächern und von unbebauten Flächen bebauter Grundstücke in besonderen Siedlungsgebieten
+- TOP 3.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.07: Bevölkerungsprognose 2007 der LH München
+- TOP 3.4.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.07: Ergebnisse der Beteiligung der LH München am EU-Projekt MILUnet (Multifunctional Intensive Land Use Network) 2004-2007
+- TOP 3.5.: Werbung im öffentlichen Raum
+- TOP 3.6.: Regierung von Oberbayern: Nachnutzung des Geländes Rosa-Luxemburg-Platz / Emma-Ihrer-Straße (Schreiben BA 9 vom 17.10.07)
+- TOP 3.7.: Neuhauser Trafo, Kunst am Bau / Vorstellung durch das Baureferat
+- TOP 3.9.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.11.07: Perspektive München - Bilanz; Evaluierungsbericht 2007
+- TOP 3.10.: Ergänzung / Hinweis zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.11.07: Bebauungsplan mit Grünordnung Nr. 1926b , Wilhelm-Hale-Straße (westlich), Schloßschmidstraße (nördlich) und Hirschgarten (östlich), Billigungsbeschluss
+- TOP 3.11.: Zweckentfremdung:
+- TOP 3.12.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Menzinger Straße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Thorwaldsenstr. 19: Fällung von 1 Fichte
+- TOP 3.2.: Fällgenehmigung für einen gesunden Baum ? (Anfrage aus der Rathaus-Umschau)
+- TOP 3.3.: Referat für Gesundheit und Umwelt: Mobilfunk; Suchkreismeldung Leonrodstraße
+- TOP 3.4.: Planungsreferat: Fällungsgenehmigung Gutenbergstr. 20
+- TOP 3.5.: Planungsreferat: Fällungsgenehmigung Lazarettstr. 62
+- TOP 3.6.: Bürgeranliegen: Nutzung des Von-Goebel-Platzes (Wiedervorlage aus der Sitzung vom 20.11.07)
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Planungsreferat: Landschaftsschutzgebiet Nymphenburger Park, Novellierung der Naturdenkmalverordnung (Schreiben BA 9 vom 19.04.07) Wiedervorlage aus der Sitzung vom 20.11.07
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Offene Behindertenarbeit: Zuständigkeitswechsel bei der Eingliederungshilfe für Menschen mit Behinderung
+- TOP 3.2.: Hauptschule am Winthirplatz: Antrag auf Einrichtung von Ganztagsklassen zum Schuljahr 2008/2009
+- TOP 3.3.: Projekt Sozialkunde in der gymnasialen Oberstufe / Vorstellung durch Lion-Feuchtwanger-Gymnasium
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Sitzung der AG Ehrenamtliche Kinderbeauftragte am 19.11.07
+- TOP 3.7.: KJR: Beiratstreffen am 27.11.07
+- TOP 3.8.: Einladung zur Sitzung der PSAG West am 06.12.07
+- TOP 3.9.: Sozialreferat: Förderprogramm HIPPY (Home Instruction for Parents of Preschool Youngsters)
+- TOP 3.10.: Pädagogische Aktion / Spielen in der Stadt e.V.: Planung der Einsätze der Münchner SommerSpielAktion 2008
+- TOP 3.11.: Planungsreferat: Broschüre "Wohngemeinschaft Demenz"
+- TOP 3.12.: Gleichstellungsstelle für Frauen: Informationsbroschüre zum Anita Augspurg - Preis
+- TOP 3.13.: Beschluss des Kinder- und Jugendhilfeausschusses vom 04.12.07: Konzept zur Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege; Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive -
+- TOP 3.14.: Bürgeranliegen: Nutzung des Von-Goebel-Platzes
+- TOP 3.15.: Bürgeranliegen: Nutzungsänderung für das Anwesen Blutenburgstr. 85 (Wiedervorlage aus der Sitzung vom 20.11.07)
+- TOP 3.16.: Schulreferat: Eltern-Putzdienst an der Maria-Ward-Grundschule (Schreiben BA 9 vom 21.08.07)
+- TOP 3.17.: Schulreferat: Sofortige Streichung der Studiengebühren an bayerischen Universitäten und Fachhochschulen (Antrag BA 9 Nr. 2400 vom 18.09.07)
+- TOP 3.18.: Bayerisches Staatsministerium für Unterricht und Kultus: Streichung des Büchergeldes an bayerischen Schulen (Antrag BA 9 Nr. 2184 vom 19.06.07)
+- TOP 3.19.: Ganztagsschulen im 9.Stadtbezirk / Neubau der Grundschule Nymphenburg Süd (Wiedervorlage aus der Sitzung vom 20.11.07)
+- TOP 3.20.: Oberbürgermeister Ude: Jugendübernachtungscamp am Kapuzinerhölzl "The Tent"
+- TOP 3.21.: Zweites Alten- und Servicezentrum (ASZ) für Neuhausen-Nymphenburg (Antrag aus der Rathaus-Umschau)
+- TOP 3.22.: Polizeiinspektion 42: Bürgeranliegen: Artikel über das Backstage in der SZ vom 09.10.07
+- TOP 3.24.: Schulreferat: Errichtung einer 5-zügigen Grundschule mit 8-gruppigen Tagesheim und 4-gruppiger Mittagsbetreuung im Siedlungsgebiet Nymphenburg Süd, Nutzerbedarfsprogramm
+- TOP 3.25.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.26.: Sozialreferat: Schulzentrum Nymphenburg Süd / Neuerrichtung eines ASZ (Schreiben BA 9 vom 17.07.07) Wiedervorlage aus der Sitzung vom 20.11.07
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.1.: Infobrief Ausländerbeirat November 2007
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Beschluss des Sozialausschusses vom 11.10.07: Interkulturelle Qualitätsentwicklung in Münchner Sozialregionen ? wie und wo ab 2008 ?
+- TOP 3.4.: Regierung von Oberbayern: Gemeinschaftsunterkünfte Emma-Ihrer-Straße und Rosa-Luxemburg-Platz (Schreiben BA 9 vom 18.09. und 16.10.07)
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.1.: Kulturreferat: Veranstaltungen im November 2007
+- TOP 3.2.: KVR: Bürgerprojekte / Beteiligungsprojekte zum 850. Stadtgeburtstag
+- TOP 3.4.: Projekt "Bürgerinnen und Bürger gestalten ihre Stadt" / Aktuelles
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Partnerschaft zwischen dem BA Neuhausen-Nymphenburg und dem Bezirk Tanggu der Stadt Tianjin / VR China
+- TOP 4.2.: Direktorium: Änderung der BA-Satzung; Anhörungsrecht der BAs bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen
+- TOP 4.3.: Beschluss des Verwaltungs- und Personalausschusses vom 21.11.07: Änderung der BA-Satzung; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung des Kommunalreferates
+- TOP 4.4.: KVR: Freischankflächenantrag "Freiheizhalle", Rainer-Werner-Fassbinder-Platz 1
+- TOP 4.5.: KVR: Gaststätte "Piroschka", Birkerstr. 10; Pächterwechsel
+- TOP 4.6.: KVR: Gaststätte "Hai Son Bistro", Blutenburgstr. 15; Pächterwechsel
+- TOP 4.7.: KVR: Gaststätte "L'Antica Tropea", Richelstr. 10; Pächterwechsel
+- TOP 4.8.: Kommunalreferat: Kasperletheaterzelt vom 02.04. - 13.04.08 am Leonrodplatz
+- TOP 4.9.: KVR: Tollwood-Sommerfestival auf dem Theaterfestivalgelände vom 26.06. - 20.07.08
+- TOP 4.10.: Baureferat: Anerkennung als öffentliche Uhr - Stephanuskirche, Nibelungenstr. 51
+- TOP 4.11.: Direktorium: Stadtratsbeschluss "Erfahrungen und Erkenntnisse über das Pilotprojekt NPO - Vereinsdatenbank und Stadtteilseiten ? Evaluationsbeschluss"
+- TOP 4.12.: Direktorium: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 4.13.: =&gt; dazu: Vollmacht OB Ude
+- TOP 5.: Verschiedenes
+- TOP 5.1.: Anträge auf Zuschüsse aus dem Budget ( Beschlussvorlagen des Direktoriums steht noch aus )
+- TOP 5.2.: Antrag Initiative Neuland: Zuschuss in Höhe von 1800 ? für eine Ausstellung Neuhauser und internationaler Künstler
+- TOP 5.3.: Antrag Initiative Künstlerhof: Zuschuss in Höhe von 1100 ? für Vernissage / Ausstellung vom 29.02. - 02.03.08
+- TOP 3.3.: Sozialreferat: Bauträgerauswahl für ein Grundstück im Rahmen des kommunalen Wohnungsbauprogramms
