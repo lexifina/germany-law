@@ -1,0 +1,89 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2007-12-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1077523
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1077523
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Gehweg Überlinger Weg zur Thuisbrunner Straße
+- TOP 2.2.: Sanierungsmaßnahmen Kindertagesstätte Schussenrieder Straße
+- TOP 2.3.: Erneuerung Bahnübergang Germeringer Weg
+- TOP 2.4.: Dank an den BA für Befürwortung des Anliegens auf Ausweisung von zusätzlichen Spiel- und Liegewiesenbereichen
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Generalsanierung des Kinderhauses Lochhausen, Anwesen Ziegeleistr. 10 (vertagt aus 10/07)
+- TOP 4.2.: Erwerb eines Grundstückes am Überlinger Weg / Thuisbrunner Straße
+- TOP 4.3.: Ausbesserung der Fahrbahn Sponeckplatz
+- TOP 4.4.: Einwohnerversammlung für Lochhausen zum Thema "Siedlungsbauvorhaben in Lochhausen"
+- TOP 4.5.: Sauberhaltung der Bushaltestellen im 22. Stadtbezirk
+- TOP 4.6.: Umbenennung des 22. Stadtbezirkes
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Straßenbenennung im 22. Stadtbezirk, Brunnwiesenweg und Tannenfleckweg
+- TOP 5.2.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Kath. Stadtpfarramt St. Konrad
+- TOP 5.3.: Vollzug des Bay. Straßen- und Wegegesetzes, Widmung der Gesamtstrecke des Feld- und Waldweges (ohne eigenen Namen - südlich der Eichenauer Straße)
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz, Anhörungen zur Baumfällungen
+- TOP 6.2.: Lochhausener Str. 203, Neubau Gewerbegebäude mit Werkstätten und Laborräumen und Neubau Lagerhalle, Vorbescheid
+- TOP 6.3.: Anhörung zu einer Reihe von verkehrlichen Maßnahmen im 22. Stadtbezirk (vertagt aus 10/07)
+- TOP 6.4.: Bebauungsplan Nr. 1 A, Gemeinde Gräfelfing
+- TOP 6.5.: Zweckentfremdung von Wohnraum, Bramburgstr. 5
+- TOP 6.6.: Gemeinde Gräfelfing, Flächennutzungsplan - Änderung Nr. 5
+- TOP 6.7.: Erhaltung des Bahnübergangs "Am Waldweg" zwischen Moosschwaiggebiet und Aubinger Lohe
+- TOP 6.8.: Keine Schließung des Bahnübergangs an der Aubinger Lohe
+- TOP 6.9.: Bahnübergang Waldweg, Bahn-km 12,6 der Bahnstrecke Nr. 5520 München - Buchloe
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Baumaßnahmen der Stadtwerke München GmbH, Stichtag: 19.11.07, 26.11.07, 03.12.07, 10.12.07
+- TOP 7.2.: Baufälle im 22. Stadtbezirk (v. 12.-18.11.07, v. 19.-25.11.07, v. 26.11.-02.12.07, v. 03.-09.12.07), Schr. Planungsreferat vom 19.11.07, 26.11.07, 03.12.07, 10.12.07
+- TOP 7.3.: Unterrichtung über das Fällen von Gefahrenbäumen, Liste des Baureferates vom 13.11.07
+- TOP 7.4.: Gemeinschaftsunterkunft für Asylbewerber in München, Dreilingsweg 14, Gruppe "unbegleitete minderjährige Flüchtlinge", Schr. Reg. v. Obb. vom 15.11.07
+- TOP 7.5.: Gewerbeentwicklung Freiham; Vergabe von städt. Gewerbeflächen, Schr. Ref. f. Arbeit u. Wirtschaft vom 21.11.07
+- TOP 7.6.: Änderung der Gemeindeordnung, Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die BA's zur Entscheidung, Schr. 2.Bürgermeisterin vom 16.11.07 und Vollmacht des Oberbürgermeisters dazu, Schr. OB vom 26.11.07
+- TOP 7.7.: Unterrichtung über das Fällen von Gefahrenbäumen, Schr. Baureferat vom 02.10.07
+- TOP 7.8.: Bürgerprojekte/Beteiligungsprojekte zum 850. Stadtgeburtstag, Schr. KVR vom 07.11.07
+- TOP 7.9.: Wirtschafts-Info 10/2007, Mitteilung Ref. f. Arbeit u. Wirtschaft vom 30.11.07
+- TOP 7.10.: Veranstaltungen/Kooperationen im Dezember 2007, Schr. Kulturreferat vom 29.11.07
+- TOP 7.11.: Zweckentfremdung von Wohnraum, Gündinger Str. 7, Schr. Sozialreferat vom 10.12.07
+- TOP 7.12.: Plangenehmigung nach § 18, 18b AEG i.V.m. § 74 Abs. 6 VwVfG für den Einbau von Weichen 410 und 411mit Weichenverbindung, Weichenaustausch 414, Gemarkung Aubing, Schr. Planungsreferat vom 07.12.07
+- TOP 7.13.: Mitteilung über ein Grundstücksgeschäft, Verkauf Georg-Maurer-Str. 25, Flst. 3511/4 Aubing, Schr. Kommunalreferat vom 04.12.07
+- TOP 7.14.: Baumaßnahmen der SWM, Stromprojekt Schussenrieder Straße, Schr. SWM vom 11.12.07
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Entschärfung der für Radfahrer gefährlichen Situation in der Limes- Alto- Unterführung in nördlicher Richtung, Schr. KVR vom 16.11.07
+- TOP 8.2.: Verbesserung des Services an der Postdienststelle Limesstraße, Schr. Ref. f. Arbeit u. Wirtschaft vom 08.11.07
+- TOP 8.3.: Sanierung des Gehweges und der Fahrbahn in der Waidachanger Straße, Schr. Baureferat vom 03.12.07
+- TOP 8.4.: Beendigung der gewerblichen Nutzung in der Bodenseestraße 320, Schr. Planungsreferat vom 26.11.07
+- TOP 8.5.: Klärung der Situation des Gebäudes Altostr. 16, Schr. Planungsreferat vom 06.12.07
+- TOP 8.6.: Prüfung der Situation der Schulwegverbindung Mundesgasse, Schr. KVR vom 05.12.07
+- TOP 8.7.: Absenkung der Randsteine an der Fußgängerampel Wiesentfelser Str./ Riesenburgstr., Schr. Baureferat vom 07.12.07
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Kinder- und Jugendhilfeausschuss vom 04.12.07 - Konzept zur Umsetzung des Teilplan 4, Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive -
+- TOP 9.2.: Ausschuss für Stadtplanung und Bauordnung vom 05.12.07 - Bekanntgabe zum EU-Projekt MILUnet, Ergebnisse der Beteiligung der LHM am EU-Projekt MILUnet (Mulitfunctional Intensive Land Use Network) 2004-2007 - Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO - Novelle 2007 - Bündnis für Ökologie, Leitprojekt 2: Mehr Platz für den Umweltverbund Teilprojekt Stadtviertelkonzept Nahmobilität für den 2. Stadtbezirk - Verordnung der LHM zur Aufhebung des § 2 Abs. 2 Nr. 1, 2 und des § 2 Abs. 3 der VO der LHM über Mindestabstandsflächen, Höhenlage von Gebäuden, Gestaltung von Dächern und von unbebauten Flächen bebauter Grundstücke in besonderen Siedlungsgebieten - 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Abs. 1 AEG - Bevölkerungsprognose 2007 der LH München - Verlängerung der U-Bahn vom Laimer Platz zum Pasinger Bahnhof
+- TOP 9.3.: Verwaltungs- und Personalausschuss vom 21.11.07 - Änderung der BA-Satzung, Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung des Kommunalreferates Ziffn. 1, 7, 11-13
+- TOP 9.4.: Vollversammlung vom 04.10.07 - Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO - Vereinsdatenbank und Stadtteilseiten"
+- TOP 9.5.: Bauausschuss vom 11.12.07 - Naherholungsgebiet "Langwieder Seen", Fuß- und Radwegerschließung Route 2
+- TOP 9.6.: Vollversammlung vom 28.11.07 - Änderung der BA-Satzung, Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung des Kommunalreferates Ziffn. 1, 7, 11-13
+- TOP 9.7.: Schulausschuss vom 05.12.07 - Ganztagsschulen für den 22. Stadtbezirk, Empfehlung Nr. 767 der Bürgerversammlung des Stadtbezirks 22 vom 26.06.07
+- TOP 9.8.: Vollversammlung vom 19.12.07 - Bündnis für Ökologie - Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO - Novelle 2007
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Vorbereitungssitzungen zur Stadtteilwoche 2008 am 17.01.08 und am 13.03.08 jeweils um 19.00 Uhr im Aubinger Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 10.2.: Dank für Zuwendung aus dem Budget des BA 22, Antragsteller: Krabbel Eck, Schr. vom 10.12.07
+- TOP 10.3.: Festkomitee zur 1000-Jahr-Feier der erstmaligen urkundlichen Erwähnung Aubings, Schr. Dr. Bichlmayer vom 09.12.07
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 16.01.2008, Gaststätte "Aubinger Schnitzel- und Hendlhaus", Limesstr. 63
