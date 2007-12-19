@@ -1,0 +1,57 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2007-12-19T14:00:00+01:00
+- Ende: 2007-12-19T00:00:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/928
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/928
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022194.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022194.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022194.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Zur Kenntnis genommen
+- TOP 2: Neubau- / Sanierungsmaßnahme Stadtbad Rheydt - Verwaltung macht Zusage
+- TOP 3: Pahlke-Bad: Notwendige Baumaßnahmen - An den Rat verwiesen
+- TOP 4: Reduzierung der Anzahl der Stadtbezirke - An den Rat verwiesen
+- TOP 5: Reduzierung der Anzahl/Neueinteilung Stadtbezirke - An den Rat verwiesen
+- TOP 6: Einteilung des Stadtgebietes in Bezirke - An den Rat verwiesen
+- TOP 7: Reduzierung der Zahl der Stadtbezirke - An den Rat verwiesen
+- TOP 8: Einteilungdes Gebietes der Stadt Mönchengladbach - Geheime Abstimmung
+- TOP 9: Neueinteilung Stadtbezirke - An den Rat verwiesen
+- TOP 10: Verbesserung des Bürgerservice - An den Rat verwiesen
+- TOP 11: Niederrheinrad - Mit Stimmenmehrheit abgelehnt
+- TOP 12: Kleinkläranlagen - Einstimmiger Beschluss
+- TOP 13: 10. Nachtrag Abfallgebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 14: 28. Nachtrag Straßenreinigungssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 15: Änderungen Entwässerung (Kanal) - Mit Stimmenmehrheit beschlossen
+- TOP 16: 12. Nachtrag Benutzungsordnung - Mit Stimmenmehrheit beschlossen
+- TOP 17: Vergnügungssteuersatzung - Mit Stimmenmehrheit beschlossen
+- TOP 18: Veräußerung der RWE-Aktien - Mit Stimmenmehrheit beschlossen
+- TOP 19: Beteiligung der NVV an der NiederrheinWasser GmbH - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 20: Beteiligung der NVV AG an der KWG GmbH & Co. KG - Mit Stimmenmehrheit beschlossen
+- TOP 21: Beteiligung der NVV AG an der MNG - Mit Stimmenmehrheit beschlossen
+- TOP 22: ÜPL Hilfen zur Erziehung - Mit Stimmenmehrheit beschlossen
+- TOP 23: Übertragung der Abwicklung der ÖPNV-Pauschale - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 24: Fusion der Datenzentralen D/MG/NE - Mit Stimmenmehrheit abgelehnt
+- TOP 25: Fusion der Datenzentralen - Mit Stimmenmehrheit beschlossen
+- TOP 26: Elfter Nachtrag Taxentarif - Einstimmiger Beschluss
+- TOP 27: Kompetenzzentrum für sonderpädagogische Förderung - Einstimmiger Beschluss
+- TOP 28: Zwölfter Nachtrag Satzung Übergangsheime - Einstimmiger Beschluss
+- TOP 29: Erfahrungsbericht zur Befreiung von § 27 GO NRW - Kenntnisnahme
+- TOP 30: Krankenversorgung in Krankenhäusern in MG - Ohne Abstimmung
+- TOP 31: Krankenversorgung - Ohne Abstimmung
+- TOP 32: Krankenversorgung in Krankenhäusern in MG - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 33: Bebauungsplan Nr. 657/III, IV - Mit Stimmenmehrheit beschlossen
+- TOP 34: 172. Änderung des Flächennutzungsplanes - Mit Stimmenmehrheit beschlossen
+- TOP 35: Straßenbenennung nach Hans Busch - Einstimmiger Beschluss
+- TOP 36: Straßenbenennung im Regiopark - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 37: Haushaltsplan 2008 der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 38: Sicherheitskonferenz - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Hockey Arena - Zahlungpflichtaufhebung - An den Rat verwiesen
+- TOP 40: Anfragen - Zur Kenntnis genommen
