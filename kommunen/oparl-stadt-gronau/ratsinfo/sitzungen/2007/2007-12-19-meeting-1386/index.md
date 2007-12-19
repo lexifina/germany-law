@@ -1,0 +1,59 @@
+# Rat (32. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2007-12-19T17:00:00+01:00
+- Ende: 2007-12-19T21:40:00+01:00
+- Ort: Gronau1, , 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbLxYUcw0TicrOEYQbjgBXI
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1386
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYmKBPW3rrsSrq_ukI28pnlyEd4XPsRT1iN6hQnT2Q7M/Bekanntmachung_Rat_19.12.2007.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXAt1VmVeZVuX3HjEs8HV-ywvS_HbgrZ6iHdlb8WMpRe/Oeffentliche_Niederschrift_Rat_19.12.2007.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Amtseinführung und Verpflichtung eines neuen Ratsmitgliedes - Ohne Abstimmung
+- TOP 3.: Niederschrift vom 28.11.2007
+- TOP 4.: Umgestaltung und Attraktivitätssteigerung des Kurt-Schumacher-Platzes - Einstimmig, 1 Enthaltungen
+- TOP 5.: Erhöhung der Beteiligung an der Trianel Gasspeichergesellschaft Epe mbH & Co.KG (TGE) - 35 Jastimmen, 4 Neinstimmen, 1 Enthaltungen
+- TOP 6.: Beitritt der Stadtwerke Gronau GmbH zur Trianel Power Projektgesellschaft Kohlekraftwerk mbH & Co.KG (TPK) - 34 Jastimmen, 5 Neinstimmen, 1 Enthaltungen
+- TOP 7.: Wirtschaftsplan 2008 der Stadtwerke Gronau GmbH - 35 Jastimmen, 3 Neinstimmen, 2 Enthaltungen
+- TOP 7.1: Vorabausschüttung des geplanten Jahresgewinns des Wirtschaftsjahres 2007 der Stadtwerke Gronau GmbH - Einstimmig, 1 Enthaltungen
+- TOP 8.: Jahresabschluss für das Abwasserwerk der Stadt Gronau (Westf.) Wirtschaftsjahr 2006 - Schlussbesprechung und Beschlussfassung - Einstimmig, 0 Enthaltungen
+- TOP 9.: Restforderungen der ZBU aus den Wirtschaftsjahren 2004 bis 2006 für Leistungen im Bereich Straßenreinigung, Abfallbeseitigung, Sonderreinigung und des Winterdienstes - Einstimmig, 0 Enthaltungen
+- TOP 10.: Zentrale Bau- und Umweltdienste der Stadt Gronau; hier: Vorgeprüfte Jahresabschlüsse der Wirtschaftsjahre 2005 und 2006 - Einstimmig, 1 Enthaltungen
+- TOP 11.: Jahresabschluss für das Jahr 2006 der Gronauer Grundstücksentwicklungsgesellschaft - Einstimmig, 0 Enthaltungen
+- TOP 12.: nicht-öffentliche Vorlage - Einstimmig, 0 Enthaltungen
+- TOP 13.: Wirtschaftsplan der Zentralen Bau- und Umweltdienste der Stadt Gronau 2008 - Einstimmig, 0 Enthaltungen
+- TOP 14.: Wirtschaftsplan 2008 der Gronauer Grundstücksentwicklungsgesellschaft - Einstimmig, 1 Enthaltungen
+- TOP 15.: Wirtschafts- und Finanzplan 2008 der Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG) - Einstimmig, 1 Enthaltungen
+- TOP 16.: Abfallgebühren 2008 - Einstimmig, 0 Enthaltungen
+- TOP 17.: Einbringung des Budgetentwurfs 2008 - Einstimmig, 0 Enthaltungen
+- TOP 18.: Kommunaler Baumschutz in Gronau - 25 Jastimmen, 3 Neinstimmen, 12 Enthaltungen
+- TOP 19.: 77. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich: "Östlich Fürstentann", Stadtteil Gronau Behandlung der Stellungnahmen aus der Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB Behandlung der Stellungnahmen aus dem Scoping-Termin gem. § 4 Abs. 1 BauGB Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB Beschluss über den Flächennutzungsplan - Einstimmig, 0 Enthaltungen
+- TOP 20.: Bebauungsplan Nr. 144 "Spinnerei Deutschland", 1. vereinfachte Änderung, Stadtteil Gronau 1. Aufstellungsbeschluss 2. Billigung der Plankonzeption 3. Beteiligung der Behörden 4. Auslegungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 21.: Bebauungsplan Nr. 137 "Alte Ochtruper Straße", Stadtteil Gronau - Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 22.: Erlass einer Satzung über die Erhebung von Elternbeiträgen in Tageseinrichtungen für Kinder - Einstimmig, 2 Enthaltungen
+- TOP 23.: Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 24.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 25.: Mitteilungen der Verwaltung
+- TOP 25.1: Kloatsheet-Wettbewerb am 15.02.2008
+- TOP 26.: Anfragen
+- TOP 26.1: Ausweisung der Friedenseiche (RM von Borczyskowski)
+- TOP 26.2: Streudienst Eper Straße/Riekenhofweg (RM von Borczyskowski)
+- TOP 26.3: Rückzahlung des Solidarbeitrages (RM von Borczyskowski)
+- TOP 26.4: Verschmutzung der städtischen Tiefgarage (RM Schwartze)
+- TOP 26.5: Begehung des Rathauses (RM Terhaar)
+- TOP 26.6: Teilnahme an der Fachtagung "Frühe Hilfen bei Kindeswohlgefährdung" (RM Ternaar)
+- TOP 26.7: Bereitstellung des jüngsten IHK-Gutachtens (RM Gabbe)
+- TOP 26.8: Mitteilungen zur letzten Sitzung des Aufsichtsrates der SWG GmbH (RM Bartels)
+- TOP 26.9: Abschneiden der Gronauer Schulen im landesweiten Vergleich (RM Bartels)
+- TOP 26.10: Veränderungen am Rathaus (RM Walkowiak)
+- TOP 26.11: Elternbeiträge für Kindergartenplätze (RM Walkowiak)
+- TOP 26.12: Taktung der Ampelanlage Hermann-Ehlers-Straße/Alstätter Straße (RM Smit)
+- TOP 26.13: Fluchtwege auf dem Schulhof der Viktoriaschule (RM Buchholz)
+- TOP 26.14: Inhalte eines Gesprächs mit dem Burgemeester der Gemeente Losser (RM Buchholz)
