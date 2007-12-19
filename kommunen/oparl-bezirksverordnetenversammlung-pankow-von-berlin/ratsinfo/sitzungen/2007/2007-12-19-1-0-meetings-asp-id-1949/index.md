@@ -1,0 +1,66 @@
+# 12. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2007-12-19T17:30:00+01:00
+- Ende: 2007-12-19T22:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1949
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1949
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=29326
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Bürgerfragestunde - beantwortet
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfragen - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Erhalt des Klinikums Vivantes Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Änderungsbeschluss zur Drucksache V-1281 vom 28.06.2006 "Erwerb des Grundstückes und aufstehenden Gebäudes Bizetstraße 27, 13088 Berlin, durch das Land Berlin und Ausbau zu einem abteilungsübergreifenden Bildungsstandort unter Einsatz von Fördermitteln der Senatsverwaltung für Stadtentwicklung" - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Neubau der Friedrich-Engels-Straße einschließlich Wilhelmsruher Damm vom Pastor-Niemöller-Platz bis zum Knoten Wilhelmsruher Damm/ Quickborner Straße, hier: 1. Bauabschnitt von Pastor-Niemöller-Platz bis zur Platanenstraße, Ortsteil Niederschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Ergebnis des Vergabeverfahrens zur weiteren kulturellen Nutzung des Kulturhauses "Peter Edel" Berliner Alle 123-125, 13088 Berlin und Auf-nahme von Vertragsverhandlungen über den Abschluss eines Erbbau-rechtsvertrages mit dem ausgewählten Bewerber - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Flächen für Bauwagenbewohner/innen - in der BVV abgelehnt
+- TOP 1.13: Jungenarbeit ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Interaktiver Kinder- und Jugendstadtplan - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Verkehrsregelung Straße 42 in 13125 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Sonderzug nach Pankow - in der BVV abgelehnt
+- TOP 1.17: Potentiale in Buch als Standort für Innovationen nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Mauerpark soll Wedding und Prenzlauer Berg verbinden, nicht teilen! - beantwortet
+- TOP 1.19: Bürgerparktor: Schutz und Erhöhung der Sichtbarkeit - beantwortet
+- TOP 1.20: Baumaßnahmen Kollwitzplatz - beantwortet
+- TOP 1.21: Aufhebung eines BA-Beschlusses - vertagt
+- TOP 1.21.1: Verkehrsprojekte in Sanierungsgebieten - vertagt
+- TOP 1.21.2: Tiefbaumaßnahmen Kollwitzstraße - vertagt
+- TOP 1.21.3: Verfahren für eine bessere Beteiligung des Ausschusses Öffentliche Ordnung, Verkehr und Verbraucherschutz bei Tiefbaumaßnahmen in Sanierungsgebieten - vertagt
+- TOP 1.22: Mehr Solardächer für Pankow auf öffentlichen Gebäuden - überwiesen
+- TOP 1.23: Informationen zur Tätigkeit von Scientology in Pankow - vertagt
+- TOP 1.24: Lokaler Aktionsplan "Für Demokratie und Toleranz" - zurückgezogen
+- TOP 1.25: Bezirklicher Beauftragter Jobcenter - vertagt
+- TOP 1.26: Erneuerung der Brücke am Bürgerpark - vertagt
+- TOP 1.27: Radfahrverbot auf der Fußgängerbrücke zwischen Sonnenburger Straße und Dänenstraße - überwiesen
+- TOP 1.28: Ruhender Verkehr im Ortsteil Buch - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Gedenkstein auf dem Friedhof Schönholzer Heide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.1: Gedenktafel Zwangsarbeiterlager (Luna-Park) Schönholzer Heide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Hartz IV - Verteilung der Eingliederungsmittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Erwerb des Grundstückes und aufstehende Gebäude Bizetstraße 27, 13089 Berlin, durch das Land Berlin und Ausbau zu einem abteilungsübergreifenden Bildungsstandort unter Einsatz von Fördermitteln der Senatsverwaltung für Stadtentwicklung - vertagt
+- TOP 2.4: Bezirksname - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Historische Aufklärung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Erhaltung und Ausbau des Straßenbahnnetzes im Bezirk Pankow - vertagt
+- TOP 2.7: Schulsituation in Prenzlauer Berg verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Vernachlässigungen erkennen - Lehrer unterstützen - vertagt
+- TOP 2.9: Weniger Ärger und Stress beim morgendlichen S-Bahn-Fahren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Fußweg Rosenthaler Weg - vertagt
+- TOP 2.11: Datenschutz in Bibliotheken erhalten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Charta der Vielfalt beitreten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Benennung des Standortes Prenzlauer Allee 227/228 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Einstellung des Verfahrens zur Aufstellung des Bebauungsplanes XIX-43b im Bezirk Pankow, Ortsteil Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Einstellung der Verfahren zur Aufstellung der Bebauungspläne IV-9, IV-24, IV-30, XIX-4, XIX-5 und XIX-60 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Vorbereitung der Europawahlen und der Wahlen zum 17. deutschen Bundestag im Jahr 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Entwicklungsspiegel für die Kindertagesbetreuung im Bezirk Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
