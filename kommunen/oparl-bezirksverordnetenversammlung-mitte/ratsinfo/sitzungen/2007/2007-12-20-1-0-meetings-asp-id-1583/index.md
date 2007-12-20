@@ -1,0 +1,93 @@
+# 12. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2007-12-20T17:30:00+01:00
+- Ende: 2007-12-20T00:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1583
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1583
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=61827
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=62058
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - schriftlich beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - (offen)
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Sparmaßnahmen beim Ökumenischen Frauenzentrum Evas Arche - beantwortet
+- TOP 5.2: Bürgerbegehren gegen die Parkraumbewirtschaftung? - beantwortet
+- TOP 5.3: Was ist neu am Einzelhandelsentwicklungsplan Mitte? - beantwortet
+- TOP 5.4: Osloer Str. 14/15 - Gefährdung für öffentliche Sicherheit? - beantwortet
+- TOP 5.5: Kooperation zwischen angrenzenden Bezirken - beantwortet
+- TOP 5.6: Mieterberatung für Hilfesuchende, die Leistungen nach SGB II oder SGB XII beziehen oder beantragen - beantwortet
+- TOP 5.7: BA nur mit BlackBerry? - schriftlich beantwortet
+- TOP 5.8: Zukunft der Bezirkskasse Mitte - schriftlich beantwortet
+- TOP 5.9: Zwischennutzung ehemaliger Minigolfplatz Amrumer Ecke Ostender Str. - schriftlich beantwortet
+- TOP 5.10: Unverantwortliche Politik verhindert zum 2. Mal "Verantwortliche Freier" - schriftlich beantwortet
+- TOP 5.11: Grundschule am Koppenplatz - schriftlich beantwortet
+- TOP 5.12: Ordnungsamt Mitte - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Schultheiss-Areal - beantwortet
+- TOP 6.2: Zu: Rücker 3 entrückt!? - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Autostandort Moabit und Arbeitsplätze sichern - beantwortet
+- TOP 7.2: Illegale Müllentsorgung von Gegenständen aller Art in der Gartenstraße - beantwortet
+- TOP 7.3: "Ein Gespenst geht um ..." - beantwortet
+- TOP 7.4: Graffiti gegen das Quartiersmanagement Magdeburger Platz - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplan 1-37 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-37 - überwiesen
+- TOP 9.2: Verlängerung der Veränderungssperre mit der Bezeichnung 1-42B/12 für die im Geltungsbereich des im Verfahren befindlichen Bebauungsplanentwurfes 1-42B für das Gelände zwischen Lützowstraße, Flottwellstraße, Pohlstraße und Körnerstraße liegenden Grundstücke Lützowstraße 107-112 und Pohlstraße 8-16 im Bezirk Mitte von Berlin, Ortsteil Tiergarten sowie Entscheidung über den beigefügten Entwurf der Rechtsverordnung - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Entwurf des Doppelbezirkshaushaltsplans Mitte für die Jahre 2008 und 2009 - mit Änderungen in der BVV beschlossen
+- TOP 10.2: Nachschiebelisten zum Entwurf des Doppelhaushaltsplans Mitte für die Haushaltsjahre 2008 und 2009 - erledigt
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Weihnachtsmärkte in Mitte erhalten - vertagt
+- TOP 12.2: Optionsvereinbarung für bewährte Veranstaltungen - vertagt
+- TOP 12.3: Entwicklung eines Berufsbildungskonzeptes für sozial benachteiligte junge Menschen mit hohem sozialpädagogischem Betreuungsbedarf (inklusive einer Finanzierung durch das JobCenter Mitte und die Abteilung Jugend und Finanzen des Bezirksamtes Mitte) - vertagt
+- TOP 12.4: Siedlung Schillerpark als Welterbeliste der UNESCO - vertagt
+- TOP 12.5: Instandsetzung von Straßen- bzw. Parkleuchten - vertagt
+- TOP 12.6: Keine Parkraumbewirtschaftung in der Parkzone 35 (Hauptbahnhof/Moabit)! - vertagt
+- TOP 12.7: Parkraumbewirtschaftung - vertagt
+- TOP 12.8: Installation von solarthermischen Anlagen und Brauchwasseranlagen bei Neu- und Umbauten grundsätzlich prüfen - vertagt
+- TOP 12.9: Vorfahrt für Kinder - überwiesen
+- TOP 12.10: Schulhofnutzung als Spielplatz und Bewegungsfläche - überwiesen
+- TOP 12.11: Positivliste zur Sondernutzung öffentlichen Straßenlandes erstellen und mit anderen Bezirken abstimmen - vertagt
+- TOP 12.12: Wohn- und Freiraumqualität im nördlichen Moabit stärken - vertagt
+- TOP 12.13: Keine weitere Einzäunung am Plötzensee - überwiesen
+- TOP 12.14: Frau braucht Zukunft - vertagt
+- TOP 12.15: Brüsseler Kiez als neues Sanierungsgebiet - vertagt
+- TOP 12.16: Schultheiss-Areal Turm-/Strom-/Perleberger Straße hier: Bebauungsplan 1-43VE umgehend weiterbearbeiten - vertagt
+- TOP 12.17: Veräußerung des Grundstücks Rückerstr. 3 - vertagt
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Mehr "Grün" in Mitte! - vertagt
+- TOP 13.2: Einsatz von Dialogdisplays - vertagt
+- TOP 13.3: Grünflächenpflege im Bezirk stärken - vertagt
+- TOP 13.4: Keine Schließung der Jerusalem-Bibliothek - vertagt
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Jobcenter Mitte: Qualifizierte Angebote für junge Menschen schaffen! - vertagt
+- TOP 14.2: Ombudsstelle für Hartz IV-Betroffene einrichten - vertagt
+- TOP 14.3: Portrait des Bundespräsidenten - vertagt
+- TOP 14.4: Öffentlicher Beschäftigungssektor - vertagt
+- TOP 14.5: Bezirkswerbung auf der ITB mit eigenem Messestand - vertagt
+- TOP 14.6: Personalentwicklung im Bezirk Mitte / Mindeststandards der Personal und Finanzausstattung - vertagt
+- TOP 14.7: Bürger gestalten die städtebauliche Entwicklung der Bürgerstadt mit - vertagt
+- TOP 14.8: Würdiges Mahnmal für den nationalsozialistischen Massenmord an Behinderten - vertagt
+- TOP 14.9: Bus 147 - vertagt
+- TOP 14.10: Beschluss über die Weiterführung des Verfahrens zum Bebauungsplan 1-39 auf der Grundlage des § 13a des Baugesetzbuches als beschleunigtes Verfahren ohne Durchführung einer Umweltprüfung nach § 2 Abs. 4 des Baugesetzbuches - vertagt
+- TOP 14.11: Benennung von öffentlichem Straßenland in Berlin-Mitte - vertagt
+- TOP 14.12: Programmmittel "Soziale Stadt" 2007 - 2009 der Quartiersmanagementgebiete Reinickendorfer-/Pankstraße, Moabit West, Magdeburger Platz, Soldiner Straße und Sparrplatz sowie der Stadtteilmanagementgebiete Brunnenviertel - Ackerstraße und Brunnenstraße - vertagt
+- TOP 14.13: Ergebnis der frühzeitigen Behördenbeteiligung gem. §4 Abs. 1 Baugesetzbuch (BauGB), das Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB, das Ergebnis der Behördenbeteiligung gem. § 4 Abs. 2 BauGB, die Durchführung der öffentlichen Auslegung zum Bebauungsplanentwurf I-26 gem. § 3 Abs. 2 BauGB sowie die Weiterführung des Bebauungsplanverfahrens auf der Grundlage des § 13a des Baugesetzbuches (BauBG) als beschleunigtes Verfahren - vertagt
+- TOP 14.14: Einschränkung des Geltungsbereiches des Bebauungsplanes II-180 im Bezirk Mitte, Ortsteil Moabit. die Weiterführung des Bebauungsplanverfahrens mit geänderten Planinhalten, die Weiterführung des Bebauungsplanverfahrens auf der Grundlage des § 13a desBaugesetzbuches (BauGB) als beschleunigtes Verfahren, die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 BauGB und der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB - vertagt
+- TOP 14.15: Liegenschaftsfonds (Drs.-Nr. alt: 32/I) - vertagt
+- TOP 14.16: Übernahme der Bearbeitung von Ordnungswidrigkeitenverfahren auf dem Gebiet des Jugendschutzgesetzes durch das LuV Ordnung und Gewerbe des Bezirksamtes Mitte von Berlin - vertagt
