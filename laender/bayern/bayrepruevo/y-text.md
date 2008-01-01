@@ -1,0 +1,1 @@
+Auf Grund des Art. 14 des Gesetzes über den Bayerischen Obersten Rechnungshof – Rechnungshofgesetz – RHG – (BayRS 630-15-F), zuletzt geändert durch § 9 des Gesetzes vom 24. Dezember 2005 (GVBl S. 665), erlässt die Bayerische Staatsregierung im Einvernehmen mit dem Bayerischen Obersten Rechnungshof folgende Verordnung:
