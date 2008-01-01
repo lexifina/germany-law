@@ -1,0 +1,4 @@
+1. von § 10 des Lebensmittel- und Bedarfsgegenständegesetzes (LMBG) in Verbindung mit § 1 Abs. 1 der Verordnung über Zuständigkeiten auf Grund des Lebensmittel- und Bedarfsgegenständegesetzes und des Milch- und Margarinegesetzes vom 18. Januar 1994 (GVBl S. 10, BayRS 2125-1-2-A), von Art. 1 Abs. 3 des Gesetzes über den Vollzug des Lebensmittelrechts (BayRS 2125-1-A), zuletzt geändert durch Gesetz vom 24. Dezember 1993 (GVBl S. 1064) und Art. 1 Abs. 1 Sätze 1 und 2 Nr. 11 des Gesetzes zur Überleitung von Zuständigkeiten vom 23. Juli 1993 (GVBl S. 496, BayRS 1102-7-S)
+das Bayerische Staatsministerium für Arbeit und Sozialordnung, Familie, Frauen und Gesundheit,
+2. des Art. 1 Abs. 2 des Gesetzes über den Vollzug des Rechts der Ernährungswirtschaft und des landwirtschaftlichen Marktwesens vom 10. Juli 1984 (GVBl S. 244, BayRS 7800-4-E)
+das Bayerische Staatsministerium für Ernährung, Landwirtschaft und Forsten
