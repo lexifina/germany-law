@@ -1,4 +1,3 @@
-## Gesetz über den Finanzausgleich mit den Gemeinden und Landkreisen im Freistaat Sachsen (Finanzausgleichsgesetz - FAG)
 # Inhaltsübersicht
 Erster Abschnitt Grundsätze des Finanzausgleichs
 § 1 Finanzausgleichsleistungen und Grundsatz der Lastenverteilung
