@@ -1,13 +1,13 @@
 ## § 4 In-Kraft-Treten und Außer-Kraft-Treten
 # Anlage (zu § 1)
-I. Zentrale Zuständigkeit einzelner Finanzämter für den Bereich mehrerer Finanzämter (ohne zentrale Zuständigkeiten für die Bewertung des Grundbesitzes und die Kraftfahrzeugsteuer).
+I. Zentrale Zuständigkeit einzelner Finanzämter für den Bereich mehrerer Finanzämter (ohne zentrale Zuständigkeiten für die Bewertung des Grundbesitzes und die Kraftfahrzeugsteuer)
 Zentrale Zuständigkeit einzelner Finanzämter für den Bereich mehrerer Finanzämter
 Laufende Nummer | Aufgabe | Zuständige(s) Finanzamt/Finanzämter | Die Zuständigkeit ist ausgedehnt auf das Gebiet/den Bezirk des Finanzamtes
 Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/ Finanzämter | Die Zuständigkeit ist ausgedehnt auf das Gebiet/den Bezirk des Finanzamtes
 1. | Feuerschutz- und Versicherungsteuer, Rennwett- und Lotteriesteuer | Chemnitz-Mitte | Freistaat Sachsen
 2.1 | Festsetzung und Erhebung der Spielbankabgabe, Mitteilung und Auszahlung des Anteils der Gemeinden am Spielbankabgabeaufkommen | Leipzig II | Freistaat Sachsen
 2.2 | Steueraufsicht Spielbank Chemnitz Spielbank Dresden Spielbank Görlitz Spielbank Leipzig Spielbank Plauen | Chemnitz-Mitte Dresden II Görlitz Leipzig II Plauen | 
-3. | Abwicklung des Gesetzes über die Steuerberechtigung und die Zerlegung bei der Einkommensteuer und der Körperschaftsteuer, Zerlegungsgesetz ( ZerlG) vom 6. August 1998 (BGBl. I S. 1998) | Dresden I | Freistaat Sachsen
+3. | Abwicklung des Gesetzes über die Steuerberechtigung und die Zerlegung bei der Einkommensteuer und der Körperschaftsteuer, Zerlegungsgesetz (ZerlG) vom 6. August 1998 (BGBl. I S. 1998) | Dresden I | Freistaat Sachsen
 4. | Erbschaft- und Schenkungsteuer | Chemnitz-Mitte Bautzen Leipzig I | Regierungsbezirk Chemnitz Regierungsbezirk Dresden Regierungsbezirk Leipzig
 5. | Gesonderte Feststellungen nach dem Außensteuergesetz und nach § 180 Abs. 5 Nr. 1 AO 1977 | Dresden III | Freistaat Sachsen
 6. | Verwaltungsaufgaben, die über die Festsetzung und Erhebung der Umsatzsteuer im grenzüberschreitenden Personenbeförderungsverkehr hinausgehen | Görlitz | Freistaat Sachsen
