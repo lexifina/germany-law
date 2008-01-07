@@ -1,0 +1,59 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2008-01-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1313205
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1313205
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Spielplatz Untermenzing / Megerlestraße
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 5.1.: Gemeinde Karlsfeld, Bebauungsplan Nr. 83 neu, Neue Ortsmitte Karlsfeld
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Schützenlisl Allach e.V.
+- TOP 9: Schreiben des Baureferates
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Antrag auf unveränderte Fortführung der Schank- und Speisegaststätte Asia-Haus, Verdistr. 33
+- TOP 10.2.: Haltestelle Auenbruggerstraße im Pasinger Heuweg (Linie 164, Richtung Westfriedhof)
+- TOP 10.3.: Hitlstraße zwischen Manzostraße und Josef-Führer-Straße (Tempo-30-Zone 147)
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: - Bauanträge (v. 03.-09.12.07; 10.-16.12.07)
+- TOP 11.2.: - Liste der beantragten Baumfällungen (v. 03.-09.12.07)
+- TOP 11.3.: Vollzug der Baumschutzverordnung - Theodor-Fischer-Str. 84, s. Baumbestandsplan Nr. 2007-75178
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: Schreiben des BA 1: Altstadt-Lehel Änderung der Ba-Satzung; Anhörungsrecht der Bezirksausschüsse bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen
+- TOP 20.2.: Entscheidung des BA 1: Altstadt-Lehel Aufhebung des Taxistandplatzes in der Prälat-Zistl-Straße
+- TOP 20.3.: Antrag des BA 4: Schwabing-West Umwandlungsverbot von Miet- in Eigentumswohnungen
+- TOP 20.4.: Antrag des BA 13: Bogenhausen Kosten/Gebühren zur 850. Jahrfeier der LH München; Erhöhung der Mittel zur eigenen Verwendung des BA-Budgets
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Beschluss der Vollversammlung des Stadtrats vom 28.11.2007 - Änderung der BA-Satzung; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung des Kommunalreferates; Ziffn. 1, 7, 11 - 13
+- TOP 22.2.: Beschluss des Kinder- und Jugendhilfeausschusses vom 04.12.07 - Haushaltsplan 2008; Einzelplan 4 des Sozialreferates - Haushaltsplan 2008; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration - Haushaltsplan 2008; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 22.3.: Beschluss des Bauausschusses vom 11.12.2007 - Naherholungsgebiet "Langwieder Seen"; Fuß- und Radwegerschließung; Route 2 (Paul-Ehrlich-Weg - Müllerstadelstraße) im 23. Stadtbezirk Allach - Untermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied
+- TOP 22.4.: Bekanntgabe im Sportausschuss des Stadtrates vom 18.12.2007 - Investitionsprogramm für die städtischen Freisportanlagen; Jahresbericht 2007
+- TOP 22.5.: Beschluss der Vollversammlung des Stadtrates vom 19.12.2007 - Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO - Novelle 2007 - Bündnis für Ökologie; Leitprojekt 2: Mehr Platz für den Umweltverbund; Teilprojekt Stadtviertelkonzept Nahmobilität für den 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt - Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München; Ersteinschätzung und weiteres Vorgehen
+- TOP 23: Verschiedenes
