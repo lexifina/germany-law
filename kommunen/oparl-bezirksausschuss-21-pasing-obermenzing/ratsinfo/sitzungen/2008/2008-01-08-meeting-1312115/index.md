@@ -1,0 +1,98 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2008-01-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1312115
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1312115
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.1.3: Sachstand Bahnhof Pasing
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Geschwindigkeitsüberwachung in der Alten Allee
+- TOP 2.2.: Fuß- und Radweg Berglwiesenstraße im Abschnitt "An der Langwieder Heide" bis "Mühlangerstraße"
+- TOP 2.3.: Baumfällungen auf einem Grundstück in der Menterstraße / Feichthofstraße
+- TOP 2.4.: Bauvorhaben Meyerbeerstraße 3 - 9; Widerspruch gegen den Bescheid der Landeshauptstadt München vom 25.06.2007 wegen Zufahrtsmöglichkeit über die Feichthofstraße
+- TOP 2.5.: Antrag auf Einrichtung eines eingeschränkten Haltverbots vor dem Anwesen Josef-Retzer-Straße 47
+- TOP 2.6.: Geplante Baumfällungen auf dem Anwesen Lützowstraße 11 (Riemerschmid-Villa)
+- TOP 2.7.: Vorschlag für Ergänzung / Verbesserung der Sackgassenbeschilderung für den Haidelweg
+- TOP 2.8.: Fahrbandecke aus sog. Flüsterasphalt für die Verdistraße
+- TOP 2.9.: Verkehrssituation Waldhornstraße
+- TOP 2.10.: Einwendungen gegen die Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV / 22 und Bebauungsplan mit Grünordnung Nr. 1992 Stahlstraße (südlich), Hans-Goltz-Weg (westlich) und Pasinger Heuweg (östlich)
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Alte Allee 92, Baumbestandsplan Nr. 07-75168
+- TOP 3.2.: Pläntschweg 20, Baumbestandsplan Nr. 07-73106
+- TOP 3.3.: Rubensstraße 8, 1 Birke, 1 Ahorn
+- TOP 3.4.: Betzenweg 53, 1 zweistämmiger Ahorn
+- TOP 3.5.: Steinerweg 5, Baumbestandsplan Nr. 07-76152
+- TOP 3.3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Landsberger Straße 485 / EG rechts
+- TOP 5.2.: Erdamannsdörferstraße 10
+- TOP 5.3.: Betzenweg 44
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget; Antrag des KünstlerSpectrum Pasing e.V. für eine öffentliche Veranstaltung / Ausstellung zur Darstellung künstlerischer Aktivitäten im Rahmen des Leistungsspektrums in der Zeit vom 29.05. mit 08.06.2008
+- TOP 10.: Anhörungen
+- TOP 10.1.: Neufeldstraße 13, Anordnung eines absoluten Haltverbots
+- TOP 10.2.: Neufeldstraße / Paul-Hösch-Straße, Anordnung eines absoluten Haltverbots
+- TOP 10.3.: Neufeldstraße / westlich Otilostraße, Anordnung eines absoluten Haltverbots
+- TOP 10.4.: Omptedastraße, Anordnung eines absoluten Haltverbots
+- TOP 10.5.: Neufeldstraße in Höhe Hausnr. 5, Anordnung eines absoluten Haltverbots
+- TOP 10.6.: Gräfstraße 125, Neubau eines Doppelhauses, Tektur
+- TOP 10.7.: Errichtung einer Werbeanlage am Standort Lortzingstraße / Haberlandstraße 1
+- TOP 10.8.: Bauleitplanung der Gemeinde Gräfelfing; Flächennutzungsplan - Änderung Nr. 5
+- TOP 10.9.: Schaffung von Einkaufsmöglichkeiten in Obermenzing - An der Schäferwiese; Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 10.10.: Bauleitplanung der Gemeinde Karlsfeld; Bebauungsplan Nr. 83 neu Neue Ortsmitte Karlsfeld
+- TOP 10.11.: Steinerweg 5, Neubau einer Kindertagesstätte mit 3 Gruppen
+- TOP 10.12.: Elly-Ney-Weg, Neubau eines Mehrfamilienhauses mit 6 Stellplätzen
+- TOP 11.: Anträge und Anfragen
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Baufälle im Stadtbezirk (Listen vom 26.11.-02.12.07, v. 03.12.-09.12.07, v. 10.12.-16.12.07)
+- TOP 12.2.: Vollzug der Baumschutzverordnung, Fällungsanträge (Listen vom 26.11.-02.12.07, v. 03.12.-09.12.07, v. 10.12.-16.12.07)
+- TOP 12.3.: Amtsblatt Nr. 33, 34, Sondernr. 3
+- TOP 12.4.: Baumaßnahmen der Stadtwerke (Stichtage: 03.12.07, 10.12.07, 17.12.07)
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Ausschuss für Stadtplanung und Bauordnung vom 05.12.2007 - Verlängerung der U-Bahn vom Laimer Platz zum Pasinger Bahnhof (Empfehlung Nr. 00708 der Bürgerversammlung des 21. Stadtbezirkes am 03.05.2007) - Externes Gutachten für die zur Fällung beantragten Bäume auf dem Riemerschmid-Anwesen
+- TOP 13.2.: Kinder- und Jugendhilfeausschuss vom 04.12.2007 - Konzept zur Umsetzung des Teilplan 4 - Tageseinrichtungen, Tagespflege; Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive -
+- TOP 13.3.: Vollversammlung des Stadtrates vom 19.12.2007 - Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München, Ersteinschätzung und weiteres Vorgehen
+- TOP 13.4.: Sportausschuss des Stadtrates vom 18.12.2007 - Investitionsprogramm für die städtischen Freisportanlagen, Jahresbericht 2007
+- TOP 13.5.: Bauausschuss vom 11.12.2007 - Naherholungsgebiet "Langwieder Seen", Fuß- und Radwegerschließung Route 2 (Paul-Ehrlich-Weg - Müllerstadelstraße); Erster Bauabschnitt
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Direktorium - Zuwendung aus dem BA-Budget, hier: Antrag der Hauptschule an der Peslmüllerstraße vom 21.05.2007 auf Gewährung eines Zuschusses für die Gestaltung des Schulgartens - Aufstellen der wieder aufgetauchten, ursprünglich an der Brunnenanlage Wensauerplatz im 21. Stadtbezirk Pasing-Obermenzing angebrachten Bismarckfigur; Festlegung des Ältestenrates des Stadtrates
+- TOP 14.2.: Kreisverwaltungsreferat - Radweglückenschluss Frauendorfer- / Verdistraße durch Beschilderung auf dem Gehweg (BA-Antrag Nr. 01906 vom 06.03.2007) - Sperrung der Lochhausener Straße für LKW über 3,5 t; Stellungnahme zu einem Bürgerschreiben - Eingeschränktes Haltverbot vor dem Anwesen Atterseestraße 6 - Verlegung der Haltestelle Dachstraße in der Maria-Eich-Straße (Linie 160 Richtung Steinkirchen und Linie 162 Richtung Stadtgrenze Maria-Eich-Straße)
+- TOP 14.3.: Baureferat - Entfernen von Spielgeräten oder Freizeiteinrichtungen; Geräteabbau aus Sicherheitsgründen - Öffnung der Feichthofstraße hin zur Meyerbeerstraße - Aufstellen von Fahrradständern für die Bushaltestellen im Kreuzungsbereich Planegger Straße / Blumenauer Straße / Weinbergerstraße (Linien 56, 57, 161) - Ausbesserung der Markierung im Bereich der Tramschleife an der Amalienburgstraße (Anfrage aus der Bürgerversammlung des 21. Stadtbezirkes, Bezirksteil Obermenzing, am 23.10.2007) - Nutzung eines zum Anwesen Haidelweg 5 gehörenden Grundstücksstreifen
+- TOP 14.4.: Schul- und Kultusreferat - Kindertageseinrichtung Badenburgstraße 10, Bescheid über die Anerkennung von Plätzen
+- TOP 14.5.: Referat für Stadtplanung und Bauordnung - Sachstand zur Nordumgehung Pasing im Bereich Bahnhof Pasing; Straßenbahnverlängerung zum Bahnhof Pasing; Rechtsform bzw. rechtliche Grundlage des Vollzugs des Verkehrskonzepts Pasing (Zwischenmitteilung zur BA-Anfrage aus der Sitzung vom 06.11.2007) - Vorgesehene Baumfällungen auf einem städt. Grundstück in der Mark-Twain-Straße infolge eines geplanten Neubaus in der Barystraße 10 - Döbereinerstraße 21, Dachgeschossausbau mit baulichen Änderungen - Bebauung des Geländes Menzinger Straße 85 / Amalienburgstraße 2-4; Bauvorhaben LIDL und Basic - Einwohnerversammlung vom 28.06.2007 zum Thema "Nordumgehung Pasing / Schallschutzwände"; Fassaden an der Südseite
+- TOP 14.6.: Kulturreferat - Veranstaltungen / Kooperationen im Dezember 2007
+- TOP 14.7.: Referat für Arbeit und Wirtschaft - 850. Stadtgeburtstag, Protokoll des 7. Treffens der Bezirksausschussmitglieder am 27.11.2007
+- TOP 14.8.: Stadtkämmerei - Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2008
+- TOP 14.9.: Referat für Gesundheit und Umwelt - Vollzug der Wassergesetze; Planfeststellungsbeschluss für die Umgestaltung der Würm im Bereich Mergenthalerstraße zwischen Flusskilometer 13.750 und Klusskilometer 14.000
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: Münchner Mieterverein e.V. - Gemeinsame Unterschriftenaktion der Mieterorganisationen "Stoppt die Umwandlung von Mietshäusern in Erhaltungssatzungsgebieten"; dazu: Antrag des BA 4 Schwabing-West "Umwandlungsverbot von Miet- und Eigentumswohnungen in Erhaltungssatzungsgebieten"
+- TOP 14.2.: Polizeiinspektion 45 München (Pasing) - Verkehr Mergenthalerstraße im verkehrsberuhigten Bereich - Verkaufsstelle für gebrauchte Waren im Bereich der Zufahrt zur städtischen Pasinger Fabrik GmbH, August-Exter-Straße 1
+- TOP 14.3.: BA 1 Altstadt-Lehel - Anhörungsrecht der Bezirksausschüsse bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen
+- TOP 14.4.: VdK Ortsverband Pasing - Umbau der sanitären Einrichtungen in der Gaststätte "Bayerisches Schnitzel- & Hendlhaus" (vormals "Wienerwald") in der Landsberger Straße 499; Anfrage wegen finanzieller Unterstützung
+- TOP 14.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6.: BA 13 Bogenhausen - Kosten / Gebühren zur 850-Jahrfeier der Landeshauptstadt München; Erhöhung der Mittel zur eigenen Verwendung des BA-Budgets
+- TOP 14.7.: BA 1Altstadt-Lehel - Aufhebung des Taxistandplatzes in der Prälat-Zistl-Straße
+- TOP 15.: Verschiedenes
+- TOP 15.1.: Nächste Sitzungen des BA 21 am 12.02.2008 und am 04.03.2008 jeweils um 19.00 Uhr im Alten- und Service-Zentrum Obermenzing, Packenreiterstraße 48
+- TOP 15.2.: Termine 2008: Sitzungen des BA 21 und Bürgerversammlungen des 21. Stadtbezirkes
