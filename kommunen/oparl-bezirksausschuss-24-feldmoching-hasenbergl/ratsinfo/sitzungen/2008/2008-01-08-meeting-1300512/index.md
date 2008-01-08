@@ -1,0 +1,59 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2008-01-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1300512
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1300512
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Kath. Pfarrei St. Agnes, Festschrift zum 50-jährigen Jubiläum am 15./16.09.2007
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Evangeliumskirche, Personalkosten für die Konzerte 2007
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: Elternbeirat der GS Lerchenauer Str., Verschönerung des Pausenhofes
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: SpVgg Feldmoching e.V., 75-jähriges Vereinsjubiläum vom 27.-29.07.2007
+- TOP 2.5.: Gewährung eines Zuschusses aus dem BA-Budget: Freizeittreff Lerchenauer, Mobile Spielaktion im August 2007
+- TOP 2.6.: Gewährung eines Zuschusses aus dem BA-Budget: Städtische Willy-Brandt-Gesamtschule, Projekt "Leben lernen" im Schuljahr 2007/2008
+- TOP 3.1.: Verkehrssituation Dülferstr. / Raheinstr. in Höhe des Aldiparkplatzes (MABL e.V. Sabine Baysel-Balint)
+- TOP 3.2.: Antrag für eine Signalanlage in der Aschenbrennerstraße - Ecke Schleißheimer Straße (Daniela Lembcke)
+- TOP 3.3.: Straßenplanung der Waldmeisterstraße in der Lerchenau
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Verkauf einer städtischen Immobilie; Auf den Schrederwiesen (Grundstück)
+- TOP 5.2.: Vollzug der Baumschutzverordnung, Bauvorhaben, Dachauer Str. 570
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die Bay BO - Novelle 2007
+- TOP 6.2.: Bündnis für Ökologie, Leitprojekt 2: Mehr Platz für den Umweltverbund Teilprojekt Stadtviertelkonzept Nahmobilität für den 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt
+- TOP 6.3.: Verordnung der Landeshauptstadt München zur Aufhebung des §2 Abs.2 Nr. 1 und 2 und des §2 Abs.3 der Verordnung der LHS München über Mindestabstandsflächen, Höhenlage von Gebäuden, Gestaltung von Dächern und von unbebauten Flächen bebauter Grundstücke in besonderen Siedlungsgebieten vom 14.12.1979, MüABl. Sondernummer 5 vom 18.12.1979 (GVO)
+- TOP 6.4.: Konzept zur Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive -
+- TOP 6.5.: Bevölkerungsprognose 2007 der Landeshauptstadt München
+- TOP 6.6.: Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München - ersteinschätzung und weiteres Vorgehen
+- TOP 6.7.: Schleißheimer Straße (Westseite) zwischen Weitlstraße und Augustin-Rösch-Straße im 24. Stadtbezirk Feldmoching - Hasenbergel
+- TOP 6.8.: Nordwest Sammelkanal, VI. Abschnitt Los 1.3; Projektgenehmigung
+- TOP 6.9.: Bebauungsplan mit Grünordnung Nr. 1688 b Schittgablerstraße (nördlich), Löwenzahnweg (südlich); Beteiligung der Öffentlichkeit
+- TOP 6.10.: Planungsgespräch Nordheide, Protokoll
+- TOP 6.11.: Mitteilung über ein Grundstücksgeschäft
+- TOP 6.12.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 6.13.: Unveränderte Fortführung eines Gaststättenbetriebes SSW "Discount Gaststätte", Aschenbrennerstr. 8
+- TOP 6.14.: Änderung der BA - Satzung, Schreiben des BA 1Altstadt - Lehel
+- TOP 6.15.: Kosten/Gebühren zur 850-Jahrfeier der LHS München, Schreiben des BA 13 Bogenhausen
+- TOP 6.16.: Umwandlungsverbot von Miet- in Eigentumswohnungen, Schreiben des BA 4 Schwabing - West
+- TOP 6.17.: BA-Sitzungstermine und BV-Termine 2008
+- TOP 6.18.: Stadtteilfeste attraktiv gestalten, Schreiben von "Der Matrosen-Chor"
+- TOP 6.19.: Baumaßnahmen der Stadtwerke München
+- TOP 6.20.: Listen der Fällungsanträge
+- TOP 6.21.: Meldelisten Bauvorhaben
+- TOP 6.22.: Bundesautobahn A99 Autobahnring München, Nordabschnitt: Verkehrszählungen (Schreiben der Autobahndirektion Südbayern)
+- TOP 7.: Berichte
+- TOP 7.1.: Sanierung der Lerchenstraße zwischen Herberg- und Josef-Frankl-Straße (Schreiben des Baureferates)
+- TOP 7.2.: Schaffung einer entsprechenden Anzahl von PKW-Stellplätzen im Bereich der Schleißheimer Straße, für die auf dem Dülferanger weggefallenen Parkplätze (BA-Antrag Nr. 02-08/B01894 des Bezirksausschusses 24 Feldmoching - Hasenbergl vom 06.03.2007)
+- TOP 7.3.: S-Bahnhof Fasanerie: Schaffung weiterer Fahrradabstellplätze (BA-Antrags-Nr. 02-08/B2373 des Bezirksausschusses 24 Feldmoching - Hasenbergl vom 11.09.2007)
+- TOP 7.4.: Bundesautobahn A99 Autobahnring München, Nordabschnitt; Verkehrszählungen (Schreiben der Autobahndirektion Südbayern)
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
