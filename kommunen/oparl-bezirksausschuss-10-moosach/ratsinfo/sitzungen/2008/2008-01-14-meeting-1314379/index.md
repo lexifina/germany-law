@@ -1,0 +1,75 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2008-01-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1314379
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1314379
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Nachbesetzung im Unterausschuss Jugend, Soziales, Schule, Kultur - <div>Nachfolger wird Herr Lampersberger </div>
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Errichtung einer Ampelanlage am Wintirchring auf Höhe In den Kirschen
+- TOP 2.2.: Vorstellung der REGSAM-Mitarbeiterinnen für den 10. Stadtbezirk
+- TOP 2.3.: Ausweisung von Parkflächen in der Trinkl-Siedlung
+- TOP 2.4.: Aufstellung eines Recycling-Containers in der Trinkl-Siedlung
+- TOP 2.5.: Straßenbeschilderung in der Trinkl-Siedlung
+- TOP 2.6.: Fahrplanwechsel Buslinien 162 / 163 zum 07.12.2007
+- TOP 2.7.: Anbringung von "Grünen Pfeilen" an der Einmündung Nederlinger- / Baldurstraße
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Runder Tisch Dillinger Straße / Lauinger Straße
+- TOP 4.2.: Kleinfeld-Fußballplätze des DFB
+- TOP 4.3.: Planungsstand Wiederherstellung und Neugestaltung Memminger Platz
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 4.1.: Verhinderung des wilden Parkens in dem Grünstreifens der Rad-Fußweg-Verbindung zwischen Feldmochinger- und Bingener Straße
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10; Gesamtverein Moosach: Kauf einer Spülmaschine und einer Wandtafel, Künstlerhonorare - <div>nach Antrag</div>
+- TOP 5.2.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund: Franz-Marc-Str. 10 - <div>nach Antrag</div>
+- TOP 6.: Anhörungen
+- TOP 6.1.: Antrag auf Errichtung und Betrieb einer Lackieranlage zur Beschichtung von Fahrzeugteilen und Fahrzeugen (Halle 22) Untermenzinger Str. 1
+- TOP 6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.: Antrag auf Fällung und Baumveränderung auf dem Grünstreifen entlang der Lauterbachstraße und der Lechelstraße
+- TOP 6.4.: Straßenverbindung Angerlohstraße - Ludwigsfelder Straße - Krauss-Maffei
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Maß der Bebauung in der Netzerstraße 70/72 (entspricht dem Bebauungsplan)
+- TOP 7.2.: LKW-Problem im Bereich Leipziger Straße / Jenaer Straße / Chemnitzer Platz (Lt. KVR Parkverbot für LKW's nicht erforderlich)
+- TOP 7.3.: Umwandlung eines reinen Fußweges in einen kombinierten Rad- und Fußweg zwischen Magdalena-Bräu-Wg 63 und 83 (versuchsweise Änderung der Beschilderung wie beantragt)
+- TOP 7.4.: Überprüfung der Ampelschaltung Dachauer- / Hugo-Troendle-Straße
+- TOP 7.5.: Reinigung der Bike- und Ride Anlage Olympiaeinkaufszentrum
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldelisten Bauvorhaben
+- TOP 8.3.: Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München
+- TOP 8.4.: Umwandlungsverbot (Schreiben des BA 4 Schwabing-West)
+- TOP 8.5.: Kosten / Gebühren zur 850. Jahrfeier der LH MÜnchen (Schreiben des BA 13 Bogenhausen)
+- TOP 8.6.: Anhörungsrecht der Bezirksausschüsse bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen (Schreiben des BA 1 Altstadt-Lehel)
+- TOP 8.7.: Erweiterung der BA-Kompetenzen am Beispiel Taxistandplätze (Schreiben des BA 1 Altstadt-Lehel)
+- TOP 8.8.: Bewohnertreff Moosach
+- TOP 8.9.: Zweckentfremdung von Wohnraum: Josef-Knogler-Straße
+- TOP 8.10.: Grundstücksgeschäft Gärntnerstraße
+- TOP 8.11.: Mobilfunk: Suchkreismeldungen
+- TOP 8.12.: Bunzlauer Straße / Bunzlauer Platz; Oberflächenwiederherstellung nach U-Bahnbau und Umbau
+- TOP 8.13.: Konzept zur Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege (Neufassung 29.11.2007)
+- TOP 8.14.: Buslinie 175, Haltestelle Oskar-Barnack-Straße
+- TOP 8.15.: Bündnis für Ökologie; Leitprojekt 2: Mehr Platz für den Umweltverbund
+- TOP 8.16.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007
+- TOP 8.17.: 850. Stadtgeburtstag; 7. Treffen der Bezirksausschussmitglieder
+- TOP 8.18.: BA-Sitzungstermine und BV-Termine 2008
+- TOP 8.19.: Bürgerprojekte / Beteiligungsprojekte zum 850. Stadtgeburtstag
+- TOP 8.20.: Bekanntgabe zum EU-Projekt MILUnet
+- TOP 8.21.: Bevölkerungsprognose 2007 der Landeshauptstadt München
+- TOP 8.22.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2008 (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 4: Anträge
