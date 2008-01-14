@@ -1,0 +1,91 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2008-01-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1307151
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1307151
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verbindungsweg zwischen Einkaufszentrum Haderner Stern und Stiftsbogen
+- TOP 1.2.: Bemühungen des BA bezüglich Lärmbelästigung durch BAB München-Lindau
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Kurparkstr. 33, 1 Weide
+- TOP 3.2.: Großhaderner Str. 17, 1 Tanne
+- TOP 3.3.: Wilhelm-Weitling-Straße, gem. Baumbestandsplan Nr. 77469
+- TOP 3.4.: Am Wiesenbach 3, gem. Baumbestandsplan Nr. 75782
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: Gemeinsame UA-Sitzung UA Ki/Sch/Sp und UA Jugend/Soziales am 29.11.07
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag der IG "Weihnachtsbaum" auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 600,- ? (Direktorium, 19.12.07)
+- TOP 7.: Anhörungsfälle
+- TOP 7.1.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz - Haderner Dorffest vom 18.04. - 04.05.08 (Kreisverwaltungsreferat, 11.12.07)
+- TOP 7.2.: Gemeinde Gräfelfing, Flächennutzungsplan - Änderung Nr. 5 (Referat für Stadtplanung und Bauordnung, 10.12.07)
+- TOP 7.3.: Zweckentfremdung von Wohnraum, Bramburgstr. 5 (Sozialreferat, 30.11.07)
+- TOP 7.4.: Rückbau der Tramtrasse zum Lorettoplatz (Kreisverwaltungsreferat, 27.12.07)
+- TOP 7.5.: Verkehrsrechtliche Anordnung, Bushaltestelle Flemischweg in der Wastl-Witt-Straße, Ausdehnung des Haltestellenbereichs (Kreisverwaltungsreferat, 28.12.07)
+- TOP 7.6.: Gemeinde Planegg, Bebauungsplan Nr. 46 (Referat für Stadtplanung und Bauordnung, 04.01.08)
+- TOP 7.7.: Wastl-Witt-Str. 7: Feuerwerk (Kreisverwaltungsreferat, 10.01.08)
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Verkehrsrechtliche Anordnung, Senftenauerstr. 181 Seite Brunellenweg eingeschränktes Haltverbot (Kreisverwaltungsreferat, 26.11.07)
+- TOP 8.2.: Bürgerprojekte / Beteiligungsprojekte zum 850. Stadtgeburtstag (Kreisverwaltungsreferat, 28.11.07)
+- TOP 8.3.: 850. Stadtgeburtstag; 7. Treffen der Bezirksausschussmitglieder (Referat für Arbeit und Wirtschaft, 11.12.07)
+- TOP 8.4.: Baumaßnahmen der Stadtwerke München (Liste der SWM vom 17.12.07, 20.12.07)
+- TOP 8.5.: Öffentlicher Spielplatz am Fürstenrieder Wald (Baureferat, 19.12.07)
+- TOP 8.6.: Zweckentfremdung von Wohnraum, Eichenstr. 43 (Sozialreferat, 17.12.07)
+- TOP 8.7.: Verkehrsrechtliche Anordnung, Haltverbot Pfundmayerstraße (Kreisverwatlungsreferat, 26.11.07)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Verkehr in der Willibaldstraße (Kreisverwaltungsreferat, 30.11.07)
+- TOP 9.2.: Einführung einer Buslinie über die Haderunstraße zum Hedernfeld mit Anbindung an die U-Bahnlinie U 6 durch einen Minibus (Referat für Arbeit und Wirtschaft, 28.11.07)
+- TOP 9.3.: Fahrradwegweiser in der Großhaderner Straße (Baureferat, 29.11.07)
+- TOP 9.4.: Umwandlung der Sprachförderschule an der Droste-Hülshoff-Straße (Schul- und Kultusreferat, 12.12.07)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Zuwendung aus dem Budget der Bezirksausschüsse, Sommerfest am 29. / 30.06.07, Schreiben der Amadeus-Apotheke
+- TOP 11.2.: Gebäude-Energiepass (Antwort des BA 17, 21.11.07)
+- TOP 11.3.: Antrag zum Sonderpädagogischen Förderzentrum (BA 19, 07.12.07)
+- TOP 11.4.: Kosten/Gebühren zur 850. Jahrfeier der LH München; Erhöhung der Mittel zur eigenen Verwendung des BA-Budgets (Antrag BA 13, 13.12.07)
+- TOP 11.5.: Umwandlungsverbot von Miet- in Eigentumswohnungen (Antrag BA 4, 05.12.07)
+- TOP 11.6.: Aufhebung des Taxistandplatzes in der Prälat-Zistl-Straße (BA 1, 07.12.07)
+- TOP 11.7.: Ehemaliges Postgrundstück Terofalstr. 25 (WO REAL ESTATE, 19.12.07)
+- TOP 11.8.: Krähen-Plage
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 28.11.2007: Änderung der BA-Satzung, Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung des Kommunalreferates
+- TOP 12.2.: vom 04.10.2007: Erfahrungen und Erkenntnisse über das Pilotprojekt "NPO - Vereinsdatenbanken und Stadtteilseiten"
+- TOP 12.1.: vom 19.12.2007: Bündnis für Ökologie, Leitprojekt 2: Mehr Platz für den Umweltverbund, Teilprojekt Stadtviertelkonzept Nahmobilität für den 2. Stadtbezirk Ludwigvorstadt - Isarvorstadt
+- TOP 12.2.: vom 19.12.2007: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO - Novelle 2007
+- TOP 12.3.: vom 19.12.2007: Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München - Ersteinschätzung und weiteres Vorgehen
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007: Novelle Bayerische Bauordnung 2008, Darstellung und erste Bewertung der Neuregelungen
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses vom 04.12.2007: Haushaltsplan 2008, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses vom 04.12.2007: Haushaltsplan 2008, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 12.4.: Beschluss des Sozialausschusses vom 06.12.2007: Verbot der Zweckentfremdung von Wohnraum , Antrag auf Genehmigung einer Nutzungsänderung im Anwesen Terofalstr. 103, Erdgeschoss links für den Verein "Generationsgerechtes Wohnen mit der Wohngenossenschaft München-West e.G." zur Nutzung als Nachbarschaftstreff (soziale Begegnungsstätte): Dem Antrag wurde zugestimmt.
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2007: Planungen zur Staatsstraße St 2063 neu: Der Bau der Straße nördlich der A 96 wird vom Stadtrat abgelehnt.
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 04.12.2007: Haushaltsplan 2008 - Einzelplan 4 des Sozialreferates
+- TOP 12.2.: Beschluss des Ausschuss für Stadtplanung und Bauordnung vom 05.12.2007: Verordnung der Landeshauptstadt München zur Aufhebung des § 2 Abs. 2 Nummern 1, 2 und des § 2 Abs. 3 der Verordnung der Landeshauptstadt München über Mindestabstandsflächen, Höhenlage von Gebäuden, Gestaltung von Dächern und von unbebauten Flächen bebauter Grundstücke in besonderen Siedlungsgebieten vom 14.12.1979
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 04.12.2007: Konzept zur Umsetzung des Teilplan 4, Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive -
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007: PERSPEKTIVE MÜNCHEN - Bilanz, Evaluierungsbericht 2007
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.11.2007: Beschlussvollzugskontrolle (BVK); 5. Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2005 bis 30.06.2007
+- TOP 12.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2007: Bevölkerungsprognose 2007 der Landeshauptstadt München (vertagt)
+- TOP 12.4.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2007: Bekanntgabe zum EU-Projekt MILUnet, Ergebnisse der Beteiligung der Landeshauptstadt München am EU-Projekt MILUnet 2004 - 2007
+- TOP 12.5.: Bekanntgabe im Sportausschuss vom 18.12.2007: Investitionsprogramm für die städtischen Freisportanlagen, Jahresbericht 2007, insbesondere zum Neubau eines Kunstrasenplatzes (Kosten 800.000,- ?, Priorität B = an 15. Stelle) und zur Errichtung einer Lärmschutzwand am Wolkerweg 17 (Kosten 340.000,- ?, Priorität C = an letzter Stelle)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
