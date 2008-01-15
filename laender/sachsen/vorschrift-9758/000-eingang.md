@@ -1,0 +1,3 @@
+# Verordnung des Regierungspräsidiums Dresden zur Festsetzung des Naturschutzgebietes „Grenzwiesen Fürstenau und Fürstenauer Heide“
+Vom 29. November 2007
+Auf Grund von §§ 16, 22a und § 50 Abs. 1 Nr. 2 des Sächsischen Gesetzes über Naturschutz und Landschaftspflege (Sächsisches Naturschutzgesetz – SächsNatSchG) in der Fassung der Bekanntmachung vom 3. Juli 2007 (SächsGVBl. S. 321) und § 32 Abs. 1 des Sächsischen Landesjagdgesetzes (SächsLJagdG) vom 8. Mai 1991 (SächsGVBl. S. 67), das zuletzt durch Artikel 3 des Gesetzes vom 23. April 2007 (SächsGVBl. S. 110, 125) geändert worden ist, wird im Einvernehmen mit der Jagdbehörde verordnet:
