@@ -1,0 +1,3 @@
+# Verordnung des Regierungspräsidiums Dresden zur Festsetzung des Naturschutzgebietes „Rutschung P“
+Vom 3. Dezember 2007
+Aufgrund von § 16 und § 50 Abs. 1 Nr. 2 des Sächsischen Gesetzes über Naturschutz und Landschaftspflege (Sächsisches Naturschutzgesetz – SächsNatSchG) in der Fassung der Bekanntmachung vom 3. Juli 2007 (SächsGVBl. S. 321) und § 32 Abs.1 des Sächsischen Landesjagdgesetzes (SächsLJagdG) vom 8. Mai 1991 (SächsGVBl. S. 67), das zuletzt durch Artikel 3 des Gesetzes vom 23. April 2007 (SächsGVBl. S. 110, 125) geändert worden ist, wird im Einvernehmen mit der höheren Jagdbehörde verordnet:
