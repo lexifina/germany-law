@@ -1,0 +1,55 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2008-01-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1332593
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1332593
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift
+- TOP 1.: Planungsangelegenheiten (Unterausschuss Planung)
+- TOP 2.: Gaststättenangelegenheiten und Gewerbe
+- TOP 2.0: Fragen an die Bezirksinspektion
+- TOP 2.1.1.: (E) Lärmbelästigungen durch die Diskotheken am Maximiliansplatz
+- TOP 2: (E) Getränkeanlieferung erst nach 6 Uhr
+- TOP 3.: Verkehrsangelegenheiten (UA Verkehr)
+- TOP 3.0: Fragen an die Polizeiinspektion
+- TOP 1: (E) Ergänzung der Haltverbotsschilder bei den Bäumen in der Schwindstraße
+- TOP 2: (E) Änderung der Verkehrsregelung in der Adalbertstraße
+- TOP 4.: Umwelt und Baumschutz
+- TOP 5.: Soziale Angelegenheiten (UA Soziales)
+- TOP 6.: Kultur (UA Kultur)
+- TOP 7.: BA-Angelegenheiten und Termine
+- TOP 8.: Sonstiges
+- TOP 0: Vorgesehene Tagesordnung
+- TOP 1.1: Anträge (1)
+- TOP 1.2: Entscheidungen und Anhörungen (1)
+- TOP 1.3: Unterrichtungen und Berichte (1)
+- TOP 1.4: Aktuelle Sachstandsberichte (1)
+- TOP 2.1: Entscheidungen und Anhörungen (2)
+- TOP 2.2: Unterrichtungen und Berichte (2)
+- TOP 2.3: Aktuelle Sachstandsberichte (2)
+- TOP 3.1: Anträge (2)
+- TOP 3.2: Entscheidungen und Anhörungen (3)
+- TOP 3.3: Unterrichtungen und Berichte (3)
+- TOP 3.4: Aktuelle Sachstandsberichte (3)
+- TOP 4.1: Anträge (3)
+- TOP 4.2: Entscheidungen und Anhörungen (4)
+- TOP 4.3: Unterrichtungen und Berichte (4)
+- TOP 4.4: Aktuelle Sachstandsberichte (4)
+- TOP 5.1: Anträge (4)
+- TOP 5.2: Entscheidungen und Anhörungen (5)
+- TOP 5.3: Unterrichtungen und Berichte (5)
+- TOP 5.4: Aktuelle Sachstandsberichte (5)
+- TOP 6.1: Anträge (5)
+- TOP 6.2: Entscheidungen und Anhörungen (6)
+- TOP 6.3: Unterrichtungen und Berichte (6)
+- TOP 6.4: Aktuelle Sachstandsberichte (6)
