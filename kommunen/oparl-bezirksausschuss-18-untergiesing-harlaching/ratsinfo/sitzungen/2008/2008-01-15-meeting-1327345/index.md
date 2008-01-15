@@ -1,0 +1,88 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2008-01-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1327345
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1327345
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Reinigung und Pflege des Grünstreifens Griechenstraße; Schreiben der Verwaltungsgesellschaft für Haus- u. Grundbesitz vom 14.12.2007 - <div>Weiterleitung Baureferat</div>
+- TOP 2.2.: Parkplätze Lohstraße / Cannabichstraße; Bürgerschreiben vom 13.12.2007 - <div>Nachfrage KVR / Baureferat</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Parkplätze Lohstraße - <div>zurückgezogen</div>
+- TOP 3.6.: Verbesserung der Verkehrssicherheit für Fußgänger-Unterführungen Sachsenstraße / Teutoburger Straße und Freibadstraße / Hans-Mielich-Platz - <div>nach Antrag</div>
+- TOP 3.1.: Parkraummanagement in München - Festlegung der 3. und 4. Priorität und Projektfortschrittsbericht 2007 a) Festlegung Umsetzungsreihenfolge des III. und IV. Sektors b) Projektfortschrittsbericht 2007 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung" Zuleitung des Referates für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme bis spätestens 09.02.2008 - <div>mehrheitlich zugestimmt</div>
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Vollzug der Wassergesetze, Isar-Plan, Verbesserung des Hochwasserschutzes und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung im Bereich der Wittelsbacher Brücke in München, Planungsabschnitt III, Bauabschnitt Mitte, Los 1 Fkm 149+520 bis 149+240; Az.: 641-301-2/2; Bescheid des Referates für Gesundheit und Umwelt vom 29.11.2007 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Investitionsprogramm für die städtischen Freisportanlagen; Jahresbericht 2007; Sitzungsvorlage Nr. 02-08/V 11088; Bekanntgabe im Sportausschuss des Stadtrates vom 18.12.2007 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Umwandlungsverbot von Miet- in Eigentumswohnungen; Antrag des BA 4 vom 05.12.2007 - <div>gemeinsam mit Antrag von Frau Kieweg behandelt; Zustimmung</div>
+- TOP 3.3.: Umwandlungsverbot von Miet- in Eigentumswohnungen - <div>nach Antrag</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen an der Hochleite; Anhörung vom 20.12.2007 - <div>Zustimmung</div>
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Antrag auf 2 Warenstellagen vor dem Ladengeschäft "Bambi's Schnäppchenmarkt", Humboldtstraße; Schreiben des BA 18 vom 01.10.2007; Antwortschreiben des KVR vom 26.11.2007 - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Baufälle im 18. Stadtbezirk - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW "Wirtshaus zum Schönhof", Schönstraße; Mitteilung vom 05.12.2007 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Wohnungsmarkt München; Expertenbefragung 2007; Sitzungsvorlagen Nr. 02-08 / V 11316; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.01.2008 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Kosten/Gebühren zur 850. Jahrfeier der LH München; Erhöhung der Mittel zur eigenen Verwendung des BA-Budgets; Antrag des BA 13 Bogenhausen vom 11.12.2007 - <div>nach Antrag</div>
+- TOP 3.2.: Dauernutzung des Christbaumfundaments im Rahmen der "Kunst im öffentlichen Raum" - <div>nach Antrag</div>
+- TOP 3.1.: 850. Stadtgeburtstag; 7. Treffen der Bezirksausschussmitglieder; Protokoll der Sitzung vom 27.11.2007 mit der Bitte um Kenntnisnahme und ggf. Rückmeldung von Änderungswünschen; Zuleitung des Referats für Arbeit und Wirtschaft vom 11.12.2007 - <div>zur Kenntnis genommen</div>
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München - Ersteinschätzung und weiteres Vorgehen; Sitzungsvorlagen Nr. 02-08 / V 11332; Beschluss der Vollversammlung des Stadtrates vom 19.12.2007 zu TOP 4.5.1 Hinweis / Ergänzung zum Beschluss der Vollversammlung des Stadtrates vom 19.12.2007 - <div>Nichtbefassung; fehlender Stadtteilbezug</div>
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
