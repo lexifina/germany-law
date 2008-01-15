@@ -1,0 +1,96 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2008-01-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1317763
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1317763
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Mütter-Väter-Zentrum Neuhausen e.V. (Az.: 01/08 - 3.4.1): Zuschuss in Höhe von 400 ? für ein Familienfest am 30.06.07
+- TOP 2.3.2.: Antrag Initiative "Künstlerhof" (Az.: 01/08 - 3.6.1): Zuschuss in Höhe von 1100 ? für eine Ausstellung vom 29.02. - 02.03.08
+- TOP 2.3.3.: Antrag Initiative "Neuland" (Az.: 01/08 - 3.6.2): Zuschuss in Höhe von 1800 ? für eine Ausstellung vom 18.04. - 27.04.08
+- TOP 2.3.4.: Antrag Grundschule Maria-Ward-Straße (Az.: 08/06 - 3.6.1): Zuschuss in Höhe von 7959,50 ? für ein Projekt zur 850-Jahr-Feier
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: Beschlussvorlage Baureferat (Az.: 10/96 - 3.2.13): Vollzug des Bayerischen Straßen- und Wegegesetzes; Widmung der Gesamtstrecke des Rainer-Werner-Fassbinder-Platzes
+- TOP 2.4.2.: Beschlussvorlage Baureferat (Az.: 10/96 - 3.2.13): Vollzug des Bayerischen Straßen- und Wegegesetzes; Einziehung folgender Straßenstrecken: Birketweg (Teilstrecke-Ortsstraße), Birketweg (Gesamtstrecke-Eigentümerweg)
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürgeranliegen: Verkehrssituation Ecke Nederlinger Straße / Klugstraße
+- TOP 3.2.: Antrag Bündnis 90 / Die Grünen: Instandsetzung des Schulwegs zur Gertrud-Bäumer-Grundschule
+- TOP 3.3.: =&gt; dazu: KVR: Schwere-Reiter-Straße / Stichstraße zur Tierklinik; Verkehrliche Maßnahmen auf dem Schulweg zur Gertrud-Bäumer-Straße
+- TOP 3.4.: Bezirksausschuss 1 Altstadt-Lehel: Aufhebung des Taxistandplatzes in der Prälat-Zistl-Straße
+- TOP 3.5.: KVR: Einrichtung eines Verkehrshelferübergangs am Dom-Pedro-Platz nördlich St.-Galler-Straße
+- TOP 3.6.: Baumaßnahmen der Stadtwerke im Dezember 2007
+- TOP 3.8.: Kommunalreferat: Verbesserung der Hausnummerierung in der Blutenburgstraße, insbesondere Hausnr. 87 (Anfrage aus der Bürgerversammlung vom 22.11.07)
+- TOP 3.9.: Bürgeranliegen: Mangelhafte Straßenbeläge im 9. Stadtbezirk
+- TOP 3.10.: Beschluss der Vollversammlung des Stadtrats vom 19.12.07: Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München - Ersteinschätzung und weiteres Vorgehen
+- TOP 3.11.: =&gt; dazu: Hinweis/Ergänzung vom 14.12.07
+- TOP 3.12.: Elternbeirat der Samuel-Heinicke-Schule für Schwerhörige: Errichtung einer Ampelanlage am Wintrichring in Höhe In den Kirschen
+- TOP 3.13.: Bürgeranliegen: Ablehnung der Parkraumlizensierung für Neuhausen
+- TOP 3.14.: Bürgeranliegen: Kostenfreie Tagesparkscheine für Anwohner in den Parklizenzgebieten in Neuhausen
+- TOP 3.15.: KVR: Änderung der Ampelschaltung an der Dachauer Straße (Antrag BA 9 Nr. 2586 vom 20.11.07)
+- TOP 3.16.: MVG: Trambahnen Dachauer Straße (Schreiben BA 9 vom 20.11.07)
+- TOP 3.17.: KVR: Radfahren am Rotkreuzplatz; Ortstermin am 25.09.07 (Antrag BA 9 Nr. 1624 vom 21.11.06 und Schreiben vom 15.05.07) Wiedervorlage aus der Sitzung vom 18.12.07
+- TOP 3.18.: Beschluss des Bauausschusses vom 11.12.07: Instandsetzung der Friedenheimer Brücken Nord und Süd, Ausführungsgenehmigung
+- TOP 3.19.: Beschlussvorlage Baureferat : Vollzug des Bayerischen Straßen- und Wegegesetzes; Widmung der Gesamtstrecke des Rainer-Werner-Fassbinder-Platzes
+- TOP 3.20.: Beschlussvorlage Baureferat: Vollzug des Bayerischen Straßen- und Wegegesetzes; Einziehung folgender Straßenstrecken: Birketweg (Teilstrecke-Ortsstraße), Birketweg (Gesamtstrecke-Eigentümerweg)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Planungsreferat: Bautennachweise vom 03.12. - 09.12. und 10.12. - 16.12.07
+- TOP 3.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.01.08: Wohnungsmarkt München, Expertenbefragung 2007
+- TOP 3.3.: Antrag BA 4 Schwabing-West: Umwandlungsverbot von Miet- in Eigentumswohnungen
+- TOP 3.5.: Planungsreferat: Bauvorhaben Zeno-Diemer-Str. 8, Neubau eines Doppelhauses mit Garagen, Vorbescheid
+- TOP 3.6.: Planungsreferat: Bebauungsplan mit Grünordnung Nr. 1926 b Wilhelm-Hale-Straße (westlich), Schloßschmidstraße (nördlich) und Hirschgarten (östlich); Billigungsbeschluss; Öffentliche Auslegung vom 19.12.07 - 21.01.08
+- TOP 3.7.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.01.08: Bebauungspläne mit Grünordnung Nr. 1925 "Nymphenburg Süd" und Nr. 1894 a "Laimer Knoten"; Ergebnisse der konkurrierenden Planungsverfahren
+- TOP 3.8.: Bauvorhaben Menzinger Str. 44: Erweiterung der Pflegestationen Nord im Klinikum Dritter Orden; hier: Baumfällungen
+- TOP 3.9.: Zweckentfremdung:
+- TOP 3.10.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Bernabeistraße
+- TOP 3.11.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Schulstraße
+- TOP 3.12.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Blutenburgstraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Prinzenstr. 8: Fällung von 1 Walnussbaum
+- TOP 3.3.: Antrag DacG / Die Grünen: Verbot von Gasheizstrahlern auf Freischankflächen
+- TOP 3.4.: Bürgeranliegen: Nutzung des Von-Goebel-Platzes (Wiedervorlage aus der Sitzung vom 18.12.07)
+- TOP 3.5.: Bürgeranliegen: Nymphenburger Kanal - Vorschlag zur dauerhaften Verbesserung der Wasserqualität
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Antrag Mütter-Väter-Zentrum Neuhausen e.V.: Zuschuss in Höhe von 400 ? für ein Familienfest am 30.06.07
+- TOP 3.2.: Antrag Bündnis 90 / Die Grünen: Erweiterung des Sportangebots der Vereine für Mädchen
+- TOP 3.3.: Bekanntgabe im Sportausschuss des Stadtrats vom 18.12.07: Investitionsprogramm für die städtischen Freisportanlagen, Jahresbericht 2007
+- TOP 3.5.: Sportplatz Schule Alfonsstraße (Wiedervorlage aus der Sitzung vom 18.12.07)
+- TOP 3.6.: Beschluss des Kinder- und Jugendhilfeausschusses vom 04.12.07: Konzept zur Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive - ; Neufassung und Ergänzung
+- TOP 3.7.: Direktorium: Zuwendung aus dem Budget der Bezirksausschüsse; hier: Antrag Arbeiterwohlfahrt Gern
+- TOP 3.8.: Direktorium: Zuwendung aus dem Budget der Bezirksausschüsse; hier: Seniorentreff Neuhausen
+- TOP 3.9.: Sozialreferat: Beschluss "Produkt- und zielorientierte Ansätze für den Bereich Förderung freier Träger des Stadtjugendamts" (Schreiben BA 9 vom 20.11.07)
+- TOP 3.10.: Direktorium: Zuwendung aus dem Budget der Bezirksausschüsse; hier: Haus der Familie
+- TOP 3.11.: Antrag SPD: Frischküche im neuen Haus Heilig Geist
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.1.: Antrag Initiative "Künstlerhof": Zuschuss in Höhe von 1100 ? für eine Ausstellung vom 29.02. - 02.03.08
+- TOP 3.2.: Antrag Initiative "Neuland": Zuschuss in Höhe von 1800 ? für eine Ausstellung vom 18.04. - 27.04.08
+- TOP 3.3.: Bürgeranliegen: Stadtteil-Feste attraktiv gestalten
+- TOP 3.4.: Kulturreferat: Veranstaltungen im Dezember 2007
+- TOP 3.6.: Baureferat: Gedenkstein vor dem Anwesen Jagdstr. 14 (Schreiben BA 9 vom 20.11.07)
+- TOP 3.7.: Antrag Grundschule Maria-Ward-Straße: Zuschuss in Höhe von 7959,50 ? für ein Projekt zur 850-Jahr-Feier
+- TOP 3.8.: Referat für Arbeit und Wirtschaft: 850. Stadtgeburtstag; 7. Treffen der Bezirksausschussmitglieder
+- TOP 3.9.: BA 13 Bogenhausen: Kosten/Gebühren zur 850-Jahrfeier; Erhöhung der Mittel zur eigenen Verwendung des BA-Budgets
+- TOP 3.10.: Projekt "Bürgerinnen und Bürger gestalten ihre Stadt" - Aktuelles
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: KVR: Holsteiner Friesenmarkt auf dem Rotkreuzplatz vom 07.03.-09.03.08 und 12.09.-14.09.08
+- TOP 4.2.: KVR: Verkehrsaufklärung der Verkehrspolizeiinspektion auf dem Rotkreuzplatz am 06.08.08
+- TOP 4.3.: KVR: Gaststätte "Cafe Endlos", Schlörstr. 4; Pächterwechsel
+- TOP 4.4.: Direktorium: BA-Sitzungstermine und BV-Termine 2008
+- TOP 4.5.: Deutsche Post: Acht neue Postpoints für München - Pilotprojekt erfolgreich gestartet
+- TOP 4.6.: BA 1 Altstadt-Lehel: Änderung der BA-Satzung; Anhörungsrecht der Bezirksausschüsse bei allen Veränderungen und Sondernutzungen in Park- und Grünanlagen
+- TOP 4.7.: KVR: Freischankflächenantrag "Freiheizhalle", Rainer-Werner-Fassbinder-Platz 1; hier: Heizstrahler (Wiedervorlage aus der Sitzung vom 18.12.07)
+- TOP 4.8.: Zuschuss aus dem Budget des BA 9; hier: Verwendungsnachweis Verein der Freunde Neuhausens
+- TOP 5.: Verschiedenes
+- TOP 3.5.: Projekt Sozialkunde in der gymnasialen Oberstufe (Wiedervorlage aus der Sitzung vom 18.12.07)
