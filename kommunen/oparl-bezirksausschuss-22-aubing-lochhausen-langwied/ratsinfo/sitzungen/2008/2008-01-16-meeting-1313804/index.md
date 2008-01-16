@@ -1,0 +1,77 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2008-01-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1313804
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1313804
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Entfernung des Zeichens 301 "Vorfahrt nur an dieser Kreuzung" an der Kreuzung Eichenauer Straße/ Wildenrother Straße
+- TOP 4.2.: Kleidercontainer am Wertstoffcontainerplatz in der Hornberger Straße
+- TOP 4.3.: Ausbau der Kastelburgstraße zwischen Kronwinkler Straße und Mariabrunner Straße
+- TOP 4.4.: Streetwork Bus
+- TOP 4.5.: Ausbau der Kronwinklerstraße zwischen Kastelburgstraße und Bergsonstraße
+- TOP 4.6.: Änderung der Ampelphasen an der Bodenseestraße/Ehrenbürgstraße und Bodenseestraße/Wiesentfelser Straße/Anton-Böck-Straße
+- TOP 4.7.: Beseitigung der zwei Parkbänke und den Papierkorb in der Grünfläche der Kronwinkler Straße zwischen Kastelburgstraße nach Rondell und Aubing-Ost-Straße
+- TOP 4.8.: Barrierefreier Zugang zum Saal im Bayy. Schnitzel- und Hendlhaus (ehem. Wienerwald) an der Limesstr. 63
+- TOP 4.9.: Erlass einer Außenbereichssatzung für den Bereich : Lochhausener Straße / Bahnhlinie München-Augsburg und Erlbach östlich / Baugrenze Lochhausen
+- TOP 4.10.: Friedhof Lochhausen; Baumaßnahmen
+- TOP 4.11.: Bauarbeiten der SWM an der Industriestraße / Ecke Kastelburgstraße
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: Erhaltung des Bahnübergangs "Am Waldweg" zwischen Moosschwaiggebiet und Aubinger Lohe
+- TOP 6.3.: Keine Schließung des Bahnübergangs an der Aubinger Lohe
+- TOP 6.4.: Bahnübergang Waldweg, Bahn-km 12,6 der Bahnstrecke Nr. 5520 München - Buchloe (vertagt aus 12/07)
+- TOP 6.5.: Gemeinde Karlsfeld, Bebauungsplan Nr. 83, Neue Ortsmitte
+- TOP 6.6.: Gleisdreieck Pasing; Straßenplanung zur Erschließung des Bebauungsplanes 1907
+- TOP 6.7.: Gemeinde Karlsfeld, Bebauungsplan Nr. 91 Rothschwaige Süd/ zwischen Münchner Straße und Wehrstandenbach
+- TOP 6.8.: Zweckentfremdung von Wohnraum, Lochhausener Str. 162
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Mitteilung über ein Grundstücksgeschäft, hier: Nähe Bodenseestraße Flst. 3526/5, Schr. Kommunalreferat vom 13.12.07
+- TOP 7.2.: Baumaßnahmen der Stadtwerke München GmbH, Stichtag: 17.12.07, 20.12.07
+- TOP 7.3.: Zweckentfremdung von Wohnraum, Rohrsängerplatz 4, Schr. Sozialreferat vom 13.12.07
+- TOP 7.4.: Baufälle im 22. Stadtbezirk (v. 10.-16.12.07, v. 17.-23.12.07), Schr. Planungsreferat vom 17.12.07, 07.01.08
+- TOP 7.5.: Wirtschafts-Info Nr. 11/07
+- TOP 7.6.: Gewerbeentwicklung Freiham; Vergabe von städtischen Gewerbeflächen, Schr. Ref. f. Arbeit u. Wirtschaft vom 21.12.07
+- TOP 7.7.: Veranstaltungen / Kooperationen im Januar 2008, Schr. Kulturreferat vom 02.01.08
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Anbringung von Abfallkörben an der Grünanlage Gothardstraße, Schr. Baureferat vom 17.12.07
+- TOP 8.2.: Baugebiet Schussenrieder Straße / Schubinweg, Bebauungsplan Nr. 1703, Schr. Planungsreferat vom 17.12.07
+- TOP 8.3.: Entwässerung der Grundstücke beiderseits der Langwieder Hauptstraße, Schr. Baureferat vom 17.12.07
+- TOP 8.4.: Benachteiligung bei der Einschreibung von Kindern des 22. Stadtbezirkes an der Städt. Realschule an der Blutenburg, Schr. Schul- und Kultusreferat vom 17.12.07
+- TOP 8.5.: Einzelhandelskonzept für den 22. Stadtbezirk, Schr. Planungsreferat vom 19.12.07
+- TOP 8.6.: 1. Beendigung der Umberatung der Schüler des 22. Stadtbezirkes bei der Einschreibung in die Realschule an der Blutenburg; 2. Errichtung einer Realschule in Freiham, Schr. Schul- und Kultusreferat vom 19.12.07
+- TOP 8.7.: Bücherbushaltestelle an der Schussenrieder Straße, Schr. KVR vom 28.12.07
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Sportausschuss vom 18.12.07 - Investitionsprogramm für die städtischen Freisportanlagen, Jahresbericht 2007
+- TOP 9.2.: Vollversammlung vom 19.12.07 - Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München
+- TOP 9.3.: Kinder- und Jugendhilfeausschuss vom 04.12.07 - Haushaltsplan 2008, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" - Haushaltsplan 2008 - Einzelplan 4 des Sozialreferates
+- TOP 9.4.: Ausschuss für Stadtplanung und Bauordnung vom 05.12.07 - Planungen zur Staatsstraße St 2063 neu
+- TOP 9.5.: Ausschuss für Stadtplanung und Bauordnung vom 09.01.08 - Wohnungsmarkt München, Expertenbefragung 2007 - Initiative "Magistrale für Europa", Vereinbarung zur gemeinsamen Finanzierung der Geschäftsstelle
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Aufhebung des Taxistandplatzes in der Prälat-Zistl-Straße, Schr. BA 1 vom 07.12.07
+- TOP 10.2.: Kosten/Gebühren zur 850. Jahrfeier der LH München; Erhöhung der Mittel zur eigenen Verwendung des BA-Budgets, Antrag des BA 13 vom 13.12.07
+- TOP 10.3.: Umwandlungsverbot von Miet- in Eigentumswohnungen, Antrag BA 4 vom 05.12.07
+- TOP 10.4.: Zulassung von Zweirichtungs-Radverkehr in Einbahnstraßen, Schr. ADFC vom 03.01.08
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 20.02.2008, Gaststätte "Bayerisches Schnitzel- und Hendlhaus", Limesstr. 63
