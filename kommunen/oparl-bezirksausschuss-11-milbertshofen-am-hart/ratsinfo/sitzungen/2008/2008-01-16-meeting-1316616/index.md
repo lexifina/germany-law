@@ -1,0 +1,67 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2008-01-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1316616
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1316616
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Berichte aus dem Stadtrat
+- TOP 3.: Berichte der Polizei
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1.: Planungsgespräch Nordheide, Protokoll der Besprechung vom 19.11.2007
+- TOP 4.4.5: Sonstige Berichte, Termine
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 6.1.: Sportfreunde Harteck München e.V., Jugendleiterausbildung am 19./20.01.2008
+- TOP 6.6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.: Anträge
+- TOP 7.1.: Antrag auf Beteiligung des BA 11 am Aktionstag 2008 sowie auf Anbringung von 2 Straßenbannern und Genehmigung zur Fahrt eines Zuges wie im letzten Jahr (Karl Wagner, Milbertshofen in aktion e.V.)
+- TOP 7.1.: Zirkus Milbertini am Bolzplatz in der Schmalkaldener Straße (Marion Schreiber)
+- TOP 8.: Anhörungen
+- TOP 8.1.: Faschingsveranstaltung "OlympiaLust 2008" am 31.01./01.02./02.02. und 04.02.2008
+- TOP 8.1.: Sommer Tollwood 2008, Nutzung einer neuen Grünfläche am Olympiaberg für Theater
+- TOP 8.2.: Schleißheimer Straße - Platz am Einkaufszentrum (Nordheide)
+- TOP 8.1.: Umwandlungsverbot von Miet- in Eigentumswohnungen, Schreiben des Bezirksausschusses 4 Schwabing - West
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 9.1.: Zuwendung aus dem Budget des Bezriksausschusses: a) Kulturhaus-Akrobaten, Show am 23.11.2007, Bewilligung 1110,00? b) Kath. Pfarramt St. Lanpert, Lantperter Orgelherbst, Bewilligung 560,00? c) Kath. Pfarramt St. Georg Kinderchor, Kindermusical, Bewilligung 1800,00?
+- TOP 9.2.: Zuwendung aus dem Budget des Bezirksausschusses, Schreiben des Direktoriums
+- TOP 9.3.: BA-Sitzungstermine und BV-Termine 2008, Schreiben des Direktoriums
+- TOP 9.4.: Haushaltsplan 2008 (Beschluss der Vollversammlung des Stadtrates vom 19.12.2007)
+- TOP 9.5.: Bürgerprojekte/Beteiligungsprojekte zum 850. Stadtgeburtstag, Merkblatt
+- TOP 9.6.: 850. Stadtgeburtstag, Schreiben des Bezirksausschusses 13 Bogenhausen
+- TOP 9.7.: Änderung der BA-Satzung, Schreiben des Bezirksausschusses 1 Altstadt - Lehel
+- TOP 9.8.: Aufhebung eines Taxistandplatzes, Schreiben des Bezirksausschusses 1 Altstadt - Lehel
+- TOP 9.1.: Planfeststellungsverfahren für eine dritte Start- und Landebahn am Verkehrsflughafen München (Beschluss der Vollversammlung des Stadtrates vom 19.12.2007 mit Ergänzungen vom 14.12.2007)
+- TOP 9.2.: Schleißheimer Straße (Weststeite) zwischen Weitlstraße und Augustin-Rösch-Straße im 24. Stadtbezirk Feldmoching - Hasenbergl (Beschluss des Bauausschusses vom 11.12.2007)
+- TOP 9.3.: Bekanntgabe zum EU-Projekt MILUnet (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2007)
+- TOP 9.4.: Bevölkerungsprognose 2007 der Landeshauptstadt München (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2007)
+- TOP 9.5.: Wohnungsmarkt München, Expertenbefragung 2007 (Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.01.2008)
+- TOP 9.6.: Mobilfunksendeanlage, Baubeginnanzeige - nicht öffentlich -
+- TOP 9.7.: Gefahrenbäume
+- TOP 9.8.: Vollzug der Baumschutzverordnung, Fällungsanträge
+- TOP 9.9.: Baumaßnahmen der Stadtwerke München
+- TOP 9.10.: Meldelisten Bauvorhaben
+- TOP 9.1.: Unveränderte Fortführung von Gaststättenbetrieben: a) KG "Olympia-Imbiss", Helene-Mayer-Ring 6 b) VW "Vereinsgaststätte des Kleingartenvereins Nord-Ost 171", Bad-Soden-Str.16a c) SSW "Wenzelstube", Wenzelstr. 2 d) SSW " Bistro Monte Frankfurter Ring GmbH", Frankfurter Ring 83 e) VW "Fit Speisebar", Hans-Denzinger-Str. 2 f) SSW "Tannenstüberl", Rathenaustr. 130
+- TOP 9.2.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 9.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum - nicht öffentlich -
+- TOP 9.4.: Schaffung einer Vollzeit-Stelle für die Betreuung der Bewohnerinnen und Bewohner des Kompro-Hauses in der Moosacher Straße (Empfehlung Nr. 02-08/E00805 der Bürgerversammlung des 11. Stadtbezirkes Milbertshofen - Am Hart am 28.06.2007) (Beschluss des Sozialausschusses vom 10.01.2008)
+- TOP 9.1.: Kritik an neuer Bushaltestelle 173 Olympiazentrum, Schreiben von Karin Streibel
+- TOP 9.2.: Buslinie 173, Schreiben von Erika Raab-Storfner
+- TOP 9.3.: Verkehrsrechtliche Anordnung nach §45 StVO
+- TOP 10.: Sonstiges
+- TOP 9.9.1: Plenum
+- TOP 9.9.2: Bau / Umwelt
+- TOP 9.9.3: Kultur / Soziales
+- TOP 9.9.4: Verkehr
+- TOP 8.8.2: Bau/Umwelt
