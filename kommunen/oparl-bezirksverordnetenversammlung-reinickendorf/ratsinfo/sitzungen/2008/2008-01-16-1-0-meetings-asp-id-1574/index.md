@@ -1,0 +1,67 @@
+# 15. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2008-01-16T17:00:00+01:00
+- Ende: 2008-01-16T22:18:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1574
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1574
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=36476
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - im Ausschuss abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Rechtsextreme Straftaten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Grüne-Welle - Berliner Straße - Seidelstraße - Kurt-Schumacher-Platz - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Mehr Sicherheit für Fußgänger am Zeltinger Platz und Ludolfinger Platz in Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Persönliches Budget - vom Modellprojekt zum Rechtsanspruch (SGB IX § 17) - vertagt
+- TOP 6.2: Spenden an die Bezirksbürgermeisterin - beantwortet
+- TOP 6.2.1: Dienstanweisung zum Umgang mit Zuwendungen - überwiesen
+- TOP 6.3: Tourismusförderung in Reinickendorf: Wie man gegen den Berliner Trend mit viel Geld Misserfolge produziert - vertagt
+- TOP 6.4: Netzwerk bringt Jugendliche in Arbeit - überwiesen
+- TOP 6.5: Intensivtäter in Reinickendorf - vertagt
+- TOP 6.6: Nichtraucherschutz in Reinickendorfer Gaststätten - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Neuwahl der Mitglieder des Beirates in Sozialhilfeangelegenheiten und deren Stellvertreter - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Mehr Sicherheit durch mehr Video-Überwachung - mit Änderungen in der BVV beschlossen
+- TOP 8.2: Konzept zur Schärfung des Bewusstseins für die Belange von Schwulen und Lesben im Bezirk entwickeln - vertagt
+- TOP 8.3: Spielplatz für Ältere in Reinickendorf - vertagt
+- TOP 8.4: Kooperation des Namibia-Kunstprojektes mit Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: "AIDA-Projekt" auch in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: BVG-Wartehäuschen in Frohnau - in der BVV abgelehnt
+- TOP 8.7: Aufklärung und Schutz - Kondomautomaten in Reinickendorfer Oberschulen und Jugendfreizeiteinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 8.8: Hausordnungen an Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Bebauungsplan 12-16 für Teilflächen der Grundstücke Garielenstraße 13 und 15/25 ... - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Weiterführung der Europaschule - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Warnstreik Aufruf durch Personalratsmitlglieder - überwiesen
+- TOP 10.2: Rechtsextremistische Aktivitäten in Reinickendorf früher erkennen - überwiesen
+- TOP 10.3: Mehr Schulstationen - überwiesen
+- TOP 10.4: Mittelstreifen auf der Residenzstraße kostenlos verschönern - vertagt
+- TOP 10.5: Verkehrssituation in der Cité Foch verbessern - überwiesen
+- TOP 10.6: Eckpunkte für zukünftige Reinickendorfer Umwelttage - überwiesen
+- TOP 10.7: Sanierung und Umbau Cyclopstraße - überwiesen
+- TOP 10.8: Verkehrsgefährdung an der Kreuzung Waidmannsluster Damm / Jean-Jaurès-Straße - überwiesen
+- TOP 10.9: Straßenbeleuchtung in der Cité Foch - überwiesen
+- TOP 10.10: Sozialräumliche Stadtentwicklung - überwiesen
+- TOP 10.11: Umfrage zur "Flexiblen Eingangsphase" an Reinickendorfer Grundschulen - überwiesen
+- TOP 10.12: MAE für Sportvereine zulassen - überwiesen
+- TOP 10.13: Dringende Brandschutzmaßnahmen in bezirklichen Gebäuden darstellen! - überwiesen
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Mehr Musik in den Kitas - Kooperation zwischen Kitas und Musikschule - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Verlängerte Öffnungszeiten für das öffentliche WC am Schäfersee - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Kürzung bei der Wasserschutzpolizei auf Kosten der Sicherheit bei Reinickendorfer Wasserflächen und im Uferbereich - überwiesen
+- TOP 12: Senkung der Kosten des Schulessens - vertagt
+- TOP 13: MAE-Kräfte an Schulen - überwiesen
+- TOP 14: Bewegungsangebote auf Schulhöfen - überwiesen
+- TOP 15: Busverbindung Quickborner Straße - überwiesen
