@@ -1,0 +1,58 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-01-22T17:00:00+01:00
+- Ende: 2008-01-22T00:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2223
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2223
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096785.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096785.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096785.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Werkstattverf. Gerresheim Süd
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Verwendung von Haushaltsmitteln
+- TOP 7: Pillebach in Flammen
+- TOP 8: Würdigung des Jüdischen Friedhofes an der Quadenhofstraße
+- TOP 9: Jüdischer Friedhof an der Quadenhofstraße im Friedhofswegweiser
+- TOP 10: Restaurierung des Sowjetischen Gedenksteins
+- TOP 11: Reiterhof an der Bergischen Landstraße Ludenberg
+- TOP 12: Verkehrsinseln Bergische Landstraße
+- TOP 13: Behindertengerechte Ausstattung des S-Bahnhofs Gerresheim
+- TOP 14: Querung Gerricusstraße in Höhe des Gerricusstiftes
+- TOP 15: Video-Überwachung am S-Bahnhof Gerresheim
+- TOP 16: Beteiligung Neuanlage Bolzplatz Wildpark
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Beleuchtung Pfeifferstraße / Sonnbornstraße
+- TOP 19: Quartiersgarage von-Gahlen-Straße
+- TOP 20: Appell an die Fraktionen des Landtags
+- TOP 21: Gefahrenabwehrplan zur Bayer-CO-Pipeline
+- TOP 22: Haushalt 2008
+- TOP 23: Glashüttenstraße
+- TOP 24: Bauvorhaben Gerresheimer Krankenhaus Bauvorhaben Gerresheimer Krankenhaus
+- TOP 25: Weg der Befreiung
+- TOP 26: Aufstellung über Spiel- und Bolzplätze im Stadtbezirk 7
+- TOP 27: Düsseldorf Marathon 2008
+- TOP 28: Zeitplan L 404n
+- TOP 29: Sturmschäden Kyrill
+- TOP 30: Schulwegsicherung
+- TOP 31: Ausschreibung KT Von-Gahlen- Straße
+- TOP 32: Ringofen Bergische Landstraße
+- TOP 33: Barrierefreier Zugang zur Aula des Gerresheimer Gymnasiums
+- TOP 34: Werkstattverfahren Gerresheim-Süd -Altlasten-
+- TOP 35: Vergabe der Turn- und Sporthallen durch den Stadtsportbund e.V.
+- TOP 36: Straßenbeleuchtung an der 4-fach-Sporthalle in Gerresheim
+- TOP 37: Vorabinformation über ein späteres Beitragsverfahren nach § 8 KAG
+- TOP 38: Ergebnisse der Haushaltsberatungen 2008
+- TOP 39: Baugebiet "Am Quellenbusch"
+- TOP 40: Entente Florale Europe 2008
+- TOP 41: Rotthäuser Bachtal
