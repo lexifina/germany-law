@@ -1,0 +1,104 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2008-01-23T17:10:00+01:00
+- Ende: 2008-01-23T21:35:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=539
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=539
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl einer Schiedsfrau für den Schiedsamtsbezirk Neukölln 5 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Benennung eines Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Neue Mitglieder in den Beirat für Migrationsangelegenheiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Aufnahme in das Vivantes-Klinikum Neukölln - beantwortet
+- TOP 9.2: Influenza A auch im Anmarsch auf Neukölln? - beantwortet
+- TOP 9.3: Pachtvertrag Café in der Galerie am Körnerpark - beantwortet
+- TOP 9.4: Wachschutz - beantwortet
+- TOP 9.5: Integrationskonzept für männliche Jugendliche mit Migrationshintergrund - beantwortet
+- TOP 9.6: Zusätzliche Aufgaben des Ordnungsamtes - beantwortet
+- TOP 9.7: Onkel Thilos Märchenstunde - schriftlich beantwortet
+- TOP 9.8: Sperrung der Silbersteinstraße für LKW - schriftlich beantwortet
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Ampelschaltung am U-Bahnhof Karl-Marx-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Lerntagebücher sichern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Zwangsarbeiterlager - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Gegen einen verwahrlosten Lieselotte-Berger-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Netzwerk Kinderschutz mit Leben ausfüllen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Mehr Licht: Mehr Sicherheit für die Bürger! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Mehr Raum für die Albrecht-Dürer-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Gefahrenabwehrende Maßnahmen für die Fußgänger in der Treptower Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Lichtzeichenanlagen Autobahntunnel Britz - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Zusätzliches Abbiegen aus der rechten Mittelspur in die Grenzallee - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Bürgersteigabsenkung vor dem Haupteingang "Casa Reha" - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Verlängerung des Haltverbotes Karl-Marx-Straße 204-208 - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Kinder in Bedarfsgemeinschaften - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Querungshilfe Prierosser Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Mit neuer Energie zum neuen Kulturstandort - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Weitere Schließungen von Polizeiabschnitten in Neukölln - beantwortet
+- TOP 11.2: Grundstücke für Baugemeinschaften und Baugruppen - beantwortet
+- TOP 11.3: Ärzteflucht aus Neukölln! - beantwortet
+- TOP 11.4: Rundfunkgebührenbefreiung für Menschen, die keine öffentlichen Leistungen erhalten - beantwortet
+- TOP 11.5: Ehrenamt in Neukölln - beantwortet
+- TOP 11.6: Babybegrüßungsdienst - beantwortet
+- TOP 11.7: Jugendgewalt - beantwortet
+- TOP 11.8: Infektionsschutz für Kinder - beantwortet
+- TOP 11.9: Jobcenter - beantwortet
+- TOP 11.10: Linke Straftaten in Britz - beantwortet
+- TOP 11.11: Tariftreue der Vertragspartner des Bezirkes Neukölln - beantwortet
+- TOP 12: Große Anfragen - schriftlich - erledigt
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Schließungsplänen von Polizeiabschnitten entgegen treten - in der BVV abgelehnt
+- TOP 13.2: Befreiung von Rundfunkgebühren - überwiesen
+- TOP 13.3: Kassenärztliche Vereinigung auflösen? - überwiesen
+- TOP 13.4: Babybegrüßungsdienst - überwiesen
+- TOP 13.5: Flexible Schulanfangsphase auf freiwilliger Basis - mit Änderungen in der BVV beschlossen
+- TOP 13.6: 650 Jahre Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Estrel-Parc mit Sonnenenergie in die Sonnenallee - überwiesen
+- TOP 13.8: Hygiene bei der Hortbetreuung - überwiesen
+- TOP 13.9: Umweltfreundliche Fahrzeuge - überwiesen
+- TOP 13.10: Postzustellung für Bezirksverordnete - überwiesen
+- TOP 13.11: Straßenbelag Kopfsteinpflaster - überwiesen
+- TOP 13.12: Alternativen zum Einsatz privater Sicherheitsdienste an Neuköllner Schulen - überwiesen
+- TOP 13.13: I-Planung und Bürgerbeteiligung - überwiesen
+- TOP 13.14: Kleingartenkolonien planungsrechtlich sichern - überwiesen
+- TOP 13.15: Sport um Mitternacht statt Gewalt - überwiesen
+- TOP 13.16: Ein Denkmalbeirat für Neukölln - überwiesen
+- TOP 13.17: Parkverbot am Britzer Damm vor ehemaligem Polizeiabschnitt 54 - überwiesen
+- TOP 13.18: Ausbildungsatlas Neukölln - überwiesen
+- TOP 13.19: Namensschilder für das Ordnungsamtspersonal - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Beschleunigte Prüfung von Wohnungsanträgen im Jobcenter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Buckower Dorfteich vor "Verlandung" retten! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Verbesserung der Zusammenarbeit zwischen den Mütterkursen und den Grundschulen in Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.4: Sicherung der Kleingartenkolonie Neuhofer Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.5: Verkehrsmaßnahmen im Bereich Gielower Straße/Buschkrugallee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.6: Integrationspreis der BVV Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.7: Verhinderung von Parkplatzsuchverkehr im Bereich der Neukölln-Arcaden - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.8: Änderung der Ampelschaltung Karl-Marx-Straße/Kirchhofstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: BVG-Behälter für Zigarettenkippen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Mehr Museum für Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Mehr Fahrradstellplätze am U-Bahnausgang Britz-Süd - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Fahrradverkehr in Neukölln verbessern II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Schulentlassungsuntersuchungen gem. § 22 (3) GDG - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Estrel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Erweiterung des Estrel Hotels ermöglichen und nicht behindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Psychosoziale Beratung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Saubere Bahnanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Interkulturelles Begegnungs- und Mehrgenerationenhaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Lokaler Aktionsplan des Bezirkes Neukölln "Jugend für Vielfalt, Toleranz und Demokratie gegen Rechtsextremismus, Fremdenfeindlichkeit und Antisemitismus" - mit Abschlussbericht zur Kenntnis genommen
