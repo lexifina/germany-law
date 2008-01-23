@@ -1,0 +1,65 @@
+# 15. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2008-01-23T17:00:00+01:00
+- Ende: 2008-01-23T19:52:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1168
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1168
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Wildschweinplage nicht eingedämmt - beantwortet
+- TOP 3.2: Gemeinschaftlich Wohnen und Altwerden GbR im "Bunten Haus" - beantwortet
+- TOP 3.3: Geplante Schließung der Wache 3 der Wasserschutzpolizei auf der Insel Schwanenwerder - beantwortet
+- TOP 3.4: Polizeiwache der Wasserschutzpolizei in Schwanenwerder vor dem Aus? - beantwortet
+- TOP 3.5: Bürgerfreundliches Bürgeramt? - beantwortet
+- TOP 3.6: Mehrgenerationenhaus Floyd - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.1.1: Bebauungsplan X-26-1 Wohnungsbebauung Johannesstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.2: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Entlastung der Hildburghauser Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Verbesserung der Buslinie M 11 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.3: Querungshilfen für den Georg-Steger-Weg - erledigt
+- TOP 4.2.4: Nur Dienstfahrzeuge aus Europa im Bezirk einsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.5: Bürgerfreundliches Rathaus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.6: Schuleinzugsbereiche verändern - Elterninteresse folgen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.7: Modernisierung der defekten Gaslaternen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.8: Den Bereich rund um das Forum Zehlendorf attraktiv erhalten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.9: Tempo 30 vor der Kita McNair - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.10: Aufhebung der Radwegebenutzungspflicht Dahlemer Weg / Mühlenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.11: Schildbürgerstreich vor der Kennedy-Schule beenden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.12: Klassenraumrenovierung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.13: Fahrradabstellanlagen an Bahnhöfen der U- und S-Bahn - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Verkauf des Seniorenwohnhauses Biesestraße 7/9 in Berlin-Zehlendorf durch den Liegenschaftsfonds an den Erwerber des ehemals bezirklichen Seniorenheimes in der Johannesstraße 16-19 und des Seniorenwohnhauses in der Johannesstraße 21/22 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - - erledigt
+- TOP 5.1: Dringlichkeitsanträge - erledigt
+- TOP 5.1.1: Wiederaufnahme des Spielbetriebs im Schloßparktheater - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Bürgerfreundliche Verwaltung in Steglitz-Zehlendorf - Bürger als Verwaltungskunde - überwiesen
+- TOP 5.2.2: Spielplatzpatenschaften - überwiesen
+- TOP 5.2.3: Erhalt der Wasserschutzpolizei Wache 3 in Schwanenwerder! - überwiesen
+- TOP 5.2.4: Schlossparktheater wiederbeleben - überwiesen
+- TOP 5.2.5: Skatepark im Bezirk - überwiesen
+- TOP 5.2.6: Ausstattung der Mitarbeiter des Ordnungsamtes mit Pfefferspray - überwiesen
+- TOP 5.2.7: Mittagessen an gebundenen Ganztagsschulen - überwiesen
+- TOP 5.2.8: Den Bereich rund um die Lankwitz-Kirche attraktiver gestalten! - überwiesen
+- TOP 5.2.9: Fahrgastinformation auf dem Fernbahnhof Wannsee - überwiesen
+- TOP 5.2.10: Gittertore für die Ladenstraße - überwiesen
+- TOP 5.2.11: Energieeinsparung - überwiesen
+- TOP 5.2.12: Verkehrskonzept Schloßstraße - überwiesen
+- TOP 5.2.13: Holzhackschnitzelherstellung - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Zukunft Schwimmbad Finckensteinallee - beantwortet
+- TOP 6.2: Lokales Bündnis für Familie - beantwortet
+- TOP 6.2.1: Einfluss des Bezirks auf die Arbeit des Jobcenters - Teil I - erledigt
+- TOP 6.2.2: Einfluss des Bezirks auf die Arbeit des Jobcenters - Teil II - erledigt
+- TOP 7: Schlusswort des BVVorstehers - erledigt
