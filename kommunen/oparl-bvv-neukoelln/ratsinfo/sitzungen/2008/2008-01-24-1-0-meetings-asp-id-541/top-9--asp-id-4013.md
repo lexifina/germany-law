@@ -1,0 +1,7 @@
+# TOP 9: Nächste Sitzung: 06.03.2008
+
+- Sitzung: 12. öffentliche Sitzung des Ausschusses für Naturschutz und Grünflächen (2008-01-24)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=4013
+- Ergebnis: erledigt
