@@ -1,0 +1,64 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-01-24T16:00:00+01:00
+- Ende: 2008-01-24T18:55:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2215
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2215
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096738.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096738.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096738.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift vom 06.12.2007 - zur Kenntnis genommen
+- TOP 3: Sicherheitskonzept der Deutschen Bahn AG - zur Kenntnis genommen
+- TOP 4: Entente Florale Europe 2008 - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Bauunterhaltungsmaßnahmen - einstimmig beschlossen
+- TOP 7: Zuschuss Arbeitskreis Kultur im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 8: Etat Ausstellungen und Veranstaltungen Kulturbahnhof Eller - einstimmig beschlossen
+- TOP 9: Schloßallee - Verlängerung des Bussonderfahrstreifen - einstimmig beschlossen
+- TOP 10: Trödelmarkt auf dem OBI-Parkplatz, Königsberger Straße 87, am 16.03.2008 - einstimmig beschlossen
+- TOP 11: Trödelmarkt auf dem Gertrudisplatz im Jahre 2008 - einstimmig beschlossen
+- TOP 12: Verkehrsführung Bebelstraße - einstimmig beschlossen
+- TOP 13: Peter-Härtling-Schule - zur Kenntnis genommen
+- TOP 14: Schulgebäude Bernburger Straße - zur Kenntnis genommen
+- TOP 15: Kindertageseinrichtungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 16: Grundstück Am Stufstock - zur Kenntnis genommen
+- TOP 17: Jugendfreizeitstätte Kuthsweg - zur Kenntnis genommen
+- TOP 18: Graffitibeseitigung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 19: Öffnung der Schulhöfe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 20: Baumpflanzungen und -fällungen - zur Kenntnis genommen
+- TOP 21: Carl-Sonnenschein-Schule, Gerresheimer Landstraße 89 - einstimmig beschlossen
+- TOP 22: Brorsstraße - mehrheitlich beschlossen
+- TOP 23: Pavillons Lore-Lorentz-Schule - einstimmig beschlossen
+- TOP 24: Ausbau Rathelbeckstraße - einstimmig beschlossen
+- TOP 25: Lärmschutz A46 - einstimmig beschlossen
+- TOP 26: Schulhof Kempgensweg - einstimmig beschlossen
+- TOP 27: Gehweg Am Stufstock - einstimmig beschlossen
+- TOP 28: Beleuchtung St. Gertrud - einstimmig beschlossen
+- TOP 29: Schloss Eller - mehrheitlich abgelehnt
+- TOP 30: Auftragsvergabe der Stadt Düsseldorf - mehrheitlich abgelehnt
+- TOP 31: Verkehrslenkung bei größeren Baustellen - zur Kenntnis genommen
+- TOP 32: Ampelschaltung Gerresheimer Landstraße / Millrather Weg - zur Kenntnis genommen
+- TOP 33: Ampelschaltung Rothenbergstraße / Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 34: Schulwegsicherung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Bolzplatz Peter-Richarz-Straße - zur Kenntnis genommen
+- TOP 36: Mobile Geschwindigkeitsanzeige im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 37: Bürgersteig Gumbertstraße im Bereich Gertrudisplatz - zur Kenntnis genommen
+- TOP 38: Radweg Annweiler Straße - zur Kenntnis genommen
+- TOP 39: Bürgersteigabsenkung Brinellstraße - zur Kenntnis genommen
+- TOP 40: Baumfällungen Rothenbergstraße - zur Kenntnis genommen
+- TOP 41: Parkmarkierung Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 42: Mobile Grünschnittsammlung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 43: Hasseler Richtweg - zur Kenntnis genommen
+- TOP 44: Kunst gegen Schmierereien am S-Bahnhof Eller-Mitte - zur Kenntnis genommen
+- TOP 45: Öffnung von Schulhöfen und deren Nutzung als Spielhöfe an Nachmittagen, Wochenenden, Feiertagen und in den Schulferien - zur Kenntnis genommen
+- TOP 46: Bahnunterführung Vennhauser Allee Höhe S-Bahnhof - zur Kenntnis genommen
+- TOP 47: Bahnunterführungen S-Bahnhöfe Eller-Mitte und Eller-Süd - zur Kenntnis genommen
