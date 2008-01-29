@@ -1,0 +1,54 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-01-29T16:00:00+01:00
+- Ende: 2008-01-29T18:39:00+01:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2267
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2267
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126197.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126197.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126197.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift 9/2007 - zur Kenntnis genommen
+- TOP 3: Deiche im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Umgestaltung der Einmündungen Kaiserswerther Straße / Irmerstraße und Kaiserswerther Straße / Ganghoferstraße - Planungsbeschluss - - zur Kenntnis genommen
+- TOP 7: Verlagerung Bogensportverein Wilhelm Tell - zur Kenntnis genommen
+- TOP 8: Trödelmärkte Messeparkplatz P1 im 1. Halbjahr 2008 - zur Kenntnis genommen
+- TOP 9: Weinblütenfest in Kaiserswerth 2008 - zur Kenntnis genommen
+- TOP 10: Sitzungstermine 2008 - zur Kenntnis genommen
+- TOP 11: Friedhof Angermund - Urnengrabfeld - zur Kenntnis genommen
+- TOP 12: Historischer Stadtkern Kaiserswerth - Illumination - zur Kenntnis genommen
+- TOP 13: Arnheimer Straße - Parkplatz Gutshof - zur Kenntnis genommen
+- TOP 14: Schulbus Am Kehrbesen - zur Kenntnis genommen
+- TOP 15: Rahmer Straße - Querungshilfe - zur Kenntnis genommen
+- TOP 16: Parksituation Einbrungen - zur Kenntnis genommen
+- TOP 17: Fünf -Minuten -Takt U79 Wittlaer zwischen 7.00 Uhr und 8.00 Uhr Mo-Fr - zur Kenntnis genommen
+- TOP 18: Radwege und Distanzschilder im Bezirk 05 - zur Kenntnis genommen
+- TOP 19: Radständer Wittlaer U79 - zur Kenntnis genommen
+- TOP 20: Baumfällungen in den Rheinauen - zur Kenntnis genommen
+- TOP 21: Klemensplatz - blindengerechte LSA - zur Kenntnis genommen
+- TOP 22: Einbrungen - Beleuchtung Grüne Mitte - zur Kenntnis genommen
+- TOP 23: Mobiles Geschwindigkeits-Anzeigesystem Stb. 5 - zur Kenntnis genommen
+- TOP 24: Bolzplatz Einbrungen - Aufstelleung eines zweiten Tores - zur Kenntnis genommen
+- TOP 25: Entwicklungskonzept Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 26: Kinderspielplatz Hoppengarten - zur Kenntnis genommen
+- TOP 27: Einbrunger Straße / Friederike-Fliedner-Weg - Zebrastreifen - zur Kenntnis genommen
+- TOP 28: Wallgang und Beleuchtung der Festungsmauer - zur Kenntnis genommen
+- TOP 29: Schaffung von Parkraum in Einbrungen - zur Kenntnis genommen
+- TOP 30: Bockumer Straße - Geschwindigkeitskontrolle - zur Kenntnis genommen
+- TOP 31: Klemensplatz - Geruchsbelästigung - zur Kenntnis genommen
+- TOP 32: Stellungnahmen und Mitteilungen - zur Kenntnis genommen
+- TOP 33: Entente Florale Europe 2008 - zur Kenntnis genommen
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: "Ostermarkt" in Kaiserswerth am 09.03.2008 - zur Kenntnis genommen
