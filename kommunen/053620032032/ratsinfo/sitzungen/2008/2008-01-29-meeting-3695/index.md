@@ -1,0 +1,52 @@
+# Stadtrat (Einbringung Haushalt 2008) (25. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2008-01-29T17:03:00+01:00
+- Ende: 2008-01-29T20:05:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXat5qQpIgbnD3o1R0tnV_s
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/3695
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVbvb3ur8jTVhokcL8OxI9IQ7DWuL8qb0ZqMi2bxeE22/Bekanntmachung_Stadtrat_29.01.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZXSyexGcu-178kbMhG7mAc4ok3kd95e0fzOH3jtFNilx/Oeffentliche_Niederschrift_Stadtrat_29.01.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einbringung der Haushaltssatzung für das Jahr 2008
+- TOP 2.: Neuwahl der Delegierten der Stadt Kerpen für den Erftverband
+- TOP 3.: Neue MigrantInnenvertretung
+- TOP 4.: Stadtentwicklung und Bauleitplanung
+- TOP 4.1: 59. Änderung des Flächennutzungsplanes "Westliche Regengasse" im Stadtteil Kerpen; hier: Beschluss zur Aufstellung gem. § 2(1) BauGB
+- TOP 4.2: Bebauungsplan BA 325 "Am Kapellchen" Stadtteil Balkhausen hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 5.: Verbesserung der Ordnungspartnerschaft zwischen den Schulen der Stadt Kerpen, der Polizei und der Staatsanwaltschaft Köln; hier: Resolution an das Justizministerium NRW
+- TOP 6.: Stromliefer-Sonderverträge
+- TOP 6a.: Sachstand Hochhaus Maastrichter Straße
+- TOP 7.: Bekanntgabe der unerheblichen über- und außerplanmäßigen Ausgaben gem. § 82 Abs. 1 GO NW in der Zeit vom 01.10. bis 31.12.2007
+- TOP 8.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 9.: Mitteilungen
+- TOP 9.1: Abgabenbescheide 2008
+- TOP 10.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 10.1: Beleuchtungssituation an Fußgängerüberwegen in Horrem
+- TOP 10.2: Aussagen des Stadtverordneten Scharping zum Besuch einer Kerpener Delegation in Oswiecim
+- TOP 10.3: Flächennutzungsplanänderung "Westliche Regengasse"
+- TOP 10.4: Einwendungen der Stadt Bedburg zum Projekt Falder/Bürrig
+- TOP 10.5: Missstände am Sindorfer Bahnhof
+- TOP 10.6: Bushaltestelle Bendenstraße
+- TOP 10.7: Bushaltestelle Nußbaumallee
+- TOP 10.8: Abwasserkanäle in Türnicher Landschaftsschutzgebiet
+- TOP 10.9: Finanzkrise der WestLB
+- TOP 11.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 12.: Prüfungsbericht des Gemeindeprüfungsamtes des Rhein-Erft-Kreises über die überörtliche Prüfung des Haushalts-, Kassen- und Rechnungswesens der Stadt Kerpen, Haushaltsjahre 1996, 1997 und 1998 vom 21.08.2000 - Beendigung des Ausräumungsverfahrens am 06.06.2005 -
+- TOP 13.: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 13.1: Ergänzung des Forderungskaufvertrages zwischen der Stadt Kerpen und der WestGkA sowie Zahlung eines Teilbetrages
+- TOP 13a.: Sachstand Hochhaus Maastrichter Straße
+- TOP 14.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NW
+- TOP 15.: Mitteilungen
+- TOP 16.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 16.1: Sachstand Hochhaus Maastrichter Straße
+- TOP 16.2: Verspätete Zustellung von Unterlagen hier: Anfrage der CDU-Fraktion
+- TOP 17.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
