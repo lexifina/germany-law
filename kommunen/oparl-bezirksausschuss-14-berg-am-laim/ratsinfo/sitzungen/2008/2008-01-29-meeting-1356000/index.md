@@ -1,0 +1,89 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2008-01-29T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1356000
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1356000
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Kreillerstraße ? Aufstellung einer Verkaufseinrichtung auf öffentlichem Grund
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Friedenstraße 10 ? Umbau und Umbenennung der Halle A in ?Alabamahalle / Millennium?
+- TOP 3.2.: Friedenstraße 10 ? Genehmigungsverlängerung des Clubs ?Drei Türme? bis 31.12.2010
+- TOP 3.3.: Friedenstraße 10 ? Nutzungsänderung Ausstellungsfläche in Imbiss
+- TOP 3.4.: Hachinger-Bach-Straße ? Neubau einer griechischen Schule
+- TOP 3.5.: Berg-am-Laim-Str. ? Neubau eines Wohnhauses mit Ladenfläche
+- TOP 3.1.: Parkraummanagement in München ? Festlegung der 3. und 4. Priorität und Projektfortschrittsbericht 2007 a) Festlegung Umsetzungsreihenfolge des III. Und IV. Sektors b) Projektfortschrittsbericht 2007 zum Projekt ?Parkraummanagement in München ? Beschleunigung der Umsetzung
+- TOP 3.2.: Stadtteilverträgliche Umgestaltung des Innsbrucker Rings; Verkehrsbeziehungen auf dem ?Deckel? des Ringes im Bereich Ampfingstraße ordnen
+- TOP 3.1.: Beteiligung beim Tag des Offenen Denkmals 2008
+- TOP 3.2.: Fotoprojekt zum Stadtgeburtstag ?850 Gesichter Münchens?
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: AK LehmZiegelStadt ? Ausstellungsprojekt zur Geschichte der Ziegeleien im Osten Münchens 2008 ? Antrag auf Gewährung eines Zuschusses aus dem BA-Budget
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Berg-am-Laim-Str. ? Antrag auf Baumfällung
+- TOP 3.2.: Levelingstraße ? Antrag auf Baumfällung
+- TOP 3.3.: St.-Veit-Straße ? Antrag auf Baumfällung
+- TOP 3.4.: Thomas-Hauser-Str. ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtungen über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Werbeanlage in der Siegsdorfer Straße
+- TOP 4.3.: Wohnungsmarkt München ? Expertenbefragung 2007
+- TOP 4.1.: Josephsburgstraße östlich Else-Rosenfeld-Straße ? Einrichtung einer Halteverbotszone
+- TOP 4.2.: Friedenstraße 17a ? Einrichtung einer Halteverbotszone
+- TOP 4.3.: Innsbrucker Ring ? U-Wende in der Bad-Schachner-Straße
+- TOP 4.4.: Parkregelung an der Waldstraße
+- TOP 4.5.: Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München - Ersteinschätzung und weiteres Vorgehen
+- TOP 4.6.: FDP-Antrag ? Erweiterung der Buslinie 187 auf dem Prüfstand
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Freizeitnutzung von schulischen Außensportanlagen ? sachliche Zuständigkeit
+- TOP 4.2.: Investitionsprogramm für die städtischen Freisportanlagen ? Jahresbericht 2007
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Erhöhung der Mittel zur eigenen Verwendung des BA-Budgets
+- TOP 4.2.: Eltern-Kind-Initiative Ali Baba e.V. ? Zuwendungsbescheid
+- TOP 4.3.: Elternbeirat Berg-am-Laim-Schule ? Zuwendungsbescheid
+- TOP 4.4.: Berg am Laimer Tafel ? Zuwendungsbescheid
+- TOP 4.5.: Freiräume e.V. ? Zuwendungsbescheid
+- TOP 4.6.: ESV München-Ost ? Zuwendungsbescheid
+- TOP 4.7.: Bürgerkreis Berg am Laim ? Zuwendungsbescheid
+- TOP 4.8.: Soziale Dienste ? Zuwendungsbescheid
+- TOP 4.9.: Kultikids - Verwendungsnachweis
+- TOP 4.10.: ESV - Dankesschreiben
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: 850. Stadtgeburtstag ? 7. Treffen der Bezirksausschussmitglieder
+- TOP 4.2.: Erwerb einer Grünfläche zum Ausbau des Hachinger Baches Verkauf einer Erschließungsfläche bzw. Parkplatzfläche
+- TOP 4.3.: Initative "Magistrale für Europa" Vereinbarung zur gemeinsamen Finanzierung der Geschäftsstelle
+- TOP 4.4.: Bauvorhaben der Stadtwerke
+- TOP 4.5.: Umzug der Alabamahalle in das Optimolgelände, Stellungnahme der BI Ost
+- TOP 4.1.: Unterrichtung über das Fällen von Gefahrenbäumen auf öffentlichem Grund
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
