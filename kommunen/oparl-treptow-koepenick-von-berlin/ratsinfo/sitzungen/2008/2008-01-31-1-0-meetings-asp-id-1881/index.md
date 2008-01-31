@@ -1,0 +1,86 @@
+# 15. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2008-01-31T16:30:00+01:00
+- Ende: 2008-01-31T20:15:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1881
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1881
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=57551
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Trinkwasserqualität an Schulen sichern - vertagt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-13 und VI-14 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8.2: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Soziales und Gesundheit - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Entwicklung des Bahnverkehrs in Treptow-Köpenick - beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 802) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 803) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für abw - arbeit, bildung, wohnen e. V. (SM 808) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Tourismusverein Berlin Treptow-Köpenick e. V. (SM 801) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Bezirkshaushaltsrechnung 2005 - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Stand Städtepartnerschaften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Neue Krugallee für Kraftfahrzeuge über 7,5 t sperren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Bahnanbindung Ost des Flughafens BBI - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Fahrbahnmarkierung Schnellerstraße / Ecke Fennstraße in 12439 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Sichere Querung der Schnellerstraße Höhe Köllnische Straße ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Grünauer Schleife in die Investitionsplanung - vertagt
+- TOP 12.8: Denkmalschutz bei Bauvorhaben von Silicon Sensor beachten - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Gehwegausbau gegenüber Bushaltestelle Mahonienweg und Beleuchtung - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Lärmschutzmaßnahmen an der Bahnstrecke Berlin Ostbahnhof - Erkner, Ortslage Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Park-and-Ride-Plätze am S-Bahnhof Rahnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Park-and-Ride am S-Bahnhof Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Parken am Grünau-Hotel - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Versorgung mit Augenärzten in Friedrichshagen sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Nutzungskonzept für Köpenicker Mittelpunktbibliothek - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Park-and-Ride-Konzeption für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Verbesserung der fachärztlichen Versorgung im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Begrüßungspaket auch für sich nur ummeldende junge Erwachsene - im Ältestenrat zurückgezogen
+- TOP 12.19: Heimatmuseum nicht verstecken - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Namensschilder für das Ordnungsamtspersonal - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Informationen auf Internetseiten des Stadtplanungs- und Tiefbauamtes - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Illegale Zigarettenverkäufe im Bezirk Treptow-Köpenick stoppen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.23: Fahrradwege in Kreuzungsbereichen auf Schulwegen - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Uferweg in Oberschöneweide vervollständigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Bebauungsplan XVI-37 ("Spreeknie Oberschöneweide") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.26: Tempo 50 am bewohnten Teil des Adlergestells - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Benennung der im Bezirk Treptow-Köpenick, Ortsteil Köpenick liegenden Straße D 18 in "Zum Wuhleblick" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Benennung der 09. Schule (Realschule), Dahmestr. 45, 12526 Berlin mit dem Namen Fritz-Kühn-Schule (Realschule) Herstellen des Einvernehmens mit der zuständigen Schulbehörde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Bebauungsplan XV-48 ("Am Görlitzer Bahndamm") im Bezirk Treptow-Köpenick, Ortsteil Treptow hier: Änderungsbeschluss zum BA-Beschluss Nr. 120/94 vom 06.09.1994 - überwiesen
+- TOP 13.4: Friedhofsschließung/Friedhofsteilschließungen - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Gedenktafel für Opfer des Flugzeugunglücks vom 12.12.1986 nahe Bohnsdorf - überwiesen
+- TOP 14.2: Termin- und Ablaufplan Hirschgartendreieck - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Polizeibestreifung - überwiesen
+- TOP 14.4: Heimatmuseum Köpenick - überwiesen
+- TOP 14.5: Verbleib von Privatschülern nach Schulwechsel - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Internationales Jahr der Astronomie 2009 - überwiesen
+- TOP 14.7: Sperrung der Mentelinstraße für Kraftfahrzeuge über 7,5 Tonnen - überwiesen
+- TOP 14.8: Sauberkeit in den Parkanlagen - überwiesen
+- TOP 14.9: Schutz von Reisepässen - überwiesen
+- TOP 14.10: Alice-Archenhold-Weg - überwiesen
+- TOP 14.11: Mahlower Weg zur Grünauer Straße verlängern - überwiesen
+- TOP 14.12: Schwimmhallen erhalten - überwiesen
+- TOP 14.13: S-Bahn zum BBI Business Park Berlin - überwiesen
+- TOP 14.14: Vereinheitlichung der statistischen Erhebungen - überwiesen
+- TOP 14.15: Tram-Linie 21 mit Niederflurbahnen - überwiesen
+- TOP 14.16: Ziele der Städtepartnerschaft mit Cajamarca - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Kita-Eigenbetrieb Berlin Südost - beantwortet
+- TOP 15.2: Widerspruchsverfahren gegen Bescheide über ALG II im Bezirk - beantwortet
