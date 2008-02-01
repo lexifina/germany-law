@@ -1,3 +1,5 @@
 ## Teil 6 Schlussbestimmungen
 # § 23a Übergangsbestimmung
-Für Schüler und Schülerinnen im Sinne von § 70 Abs. 1 des Schulgesetzes gelten die Bestimmungen der §§ 10 und 12 in der bis zum 31. Juli 2004 geltenden Fassung.
+(1) Für Schüler und Schülerinnen im Sinne von § 70 Abs. 1 des Schulgesetzes gelten die Bestimmungen der §§ 10 und 12 in der bis zum 31. Juli 2004 geltenden Fassung.
+(2) Wird ein Schüler oder eine Schülerin am Ende der Jahrgangsstufen 5 bis 10 des noch neunjährigen Bildungsgangs des Gymnasiums, der dem achtjährigen Bildungsgang unmittelbar vorausgeht, nicht versetzt, wird er oder sie der nachfolgenden Jahrgangsstufe des achtjährigen Bildungsgangs zugewiesen. In der Gymnasialen Oberstufe muss der Schüler oder die Schülerin im Falle der Nichtversetzung am Ende der Einführungsphase des neunjährigen Bildungsgangs die Einführungsphase des achtjährigen Bildungsgangs wiederholen.
+(3) § 13 in der am 1. August 2008 vorgeschriebenen Fassung gilt bis zum 31. Juli 2009 nur in Schulen, die von § 9 Abs. 6 der Verordnung zur Regelung der Gymnasialen Oberstufe in der bis zum 31. Juli 2008 geltenden Fassung Gebrauch machen. Für alle anderen Schulen gilt § 13 in der bis zum 31. Juli 2008 wirksamen Fassung weiter bis zum 31. Juli 2009.
