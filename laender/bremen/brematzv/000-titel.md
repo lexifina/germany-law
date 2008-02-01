@@ -1,1 +1,1 @@
-# Verordnung über die Gewährung von Altersteilzeit vom 18. Juni 2002
+# Verordnung über die Gewährung eines Zuschlags bei Altersteilzeit (Bremische Altersteilzeitzuschlagsverordnung - BremATZV -) vom 13. Mai 2008

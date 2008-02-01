@@ -1,3 +1,3 @@
 # Eingangsformel
-Aufgrund des § 71b des Bremischen Beamtengesetzes in der Fassung der Bekanntmachung vom 15. September 1995 (Brem.GBl. S. 387 - 2040-a-1), das zuletzt durch Gesetz vom 18. Dezember 2001 (Brem.GBl. S. 465) geändert worden ist, verordnet der Senat:
+Aufgrund des § 12 Abs. 2 des Bremischen Besoldungsgesetzes in der Fassung der Bekanntmachung vom 22. April 1999 (Brem.GB1. S. 55, 152, 179 - 2042-a-2), das zuletzt durch Artikel 3 des Gesetzes vom 15. April 2008 (Brem.GBI. S. 73) geändert worden ist, verordnet der Senat:
 Einzelansicht Seitenanfang
