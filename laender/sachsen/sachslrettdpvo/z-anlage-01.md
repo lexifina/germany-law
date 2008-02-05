@@ -22,7 +22,3 @@ Sonstige Schädigungen mit Wirkung auf die Vitafunktionen | schwere Verletzung, 
 11. Geiselnahme und sonstige Verbrechen mit unmittelbarer Gefahr für Menschenleben
 12. unmittelbar einsetzende oder stattgefundene Geburt
 13. Vergiftungen
-## Anlage 2 (zu § 8 Abs. 2)
-## Anlage 3 (zu § 8 Abs. 2)
-## Anlage 4 (zu § 8 Abs. 2)
-## Anlage 5 (zu § 8 Abs. 2)
