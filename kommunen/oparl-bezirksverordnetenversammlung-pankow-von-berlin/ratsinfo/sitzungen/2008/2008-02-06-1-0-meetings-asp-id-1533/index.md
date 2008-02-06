@@ -1,0 +1,90 @@
+# 13. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2008-02-06T17:30:00+01:00
+- Ende: 2008-02-06T22:02:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1533
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1533
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=29535
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Bürgerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Grüne Stadt: Steuerungsvorbehalte zurücknehmen - vereinbarte sozialverträgliche Umstrukturierung ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfragen - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Geschäftsordnung mit qualifizierter Mehrheit beschließen - in der BVV abgelehnt
+- TOP 1.9: Geschäftsordnung der Bezirksverordnetenversammlung Pankow von Berlin für die VI. Wahlperiode - mit Änderungen in der BVV beschlossen
+- TOP 1.10: Wahl eines Bürgerdeputierten bzw. stv. Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Beschluss gemäß § 6 Abs. 3 AGBauGB in Verbindung mit § 12 Abs. 2 Nr. 11 und ge-mäß § 12 Abs. 2 Nr. 4 BezVG für den Bebauungsplan XVIII-24-3 vom 01.08.2006 zur Änderung des Bebauungsplans XVIII-24 für das Gebiet zwischen Stadtrandsiedlung Karow / AmKappgraben, Landesgrenze, Siverstorpstraße, Strömannstraße, der südli-chen Grenze des Grundstücks Alt-Karow 30, den Straßen Alt-Karow und Bucher Chaussee sowie für die Siverstorpstraße und einen Abschnitt der Strömannstraße mit Ausnahme des Geländes - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Gründung einer Grundschule am Standort Gudvanger Straße 16 / Erich-Weinert-Straße 70 in 10439 Berlin für die Teilnahme am Schulversuch Gemeinschaftsschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: BVV in Projektauswahl einbeziehen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Ehe-Ausstellung im Schloss Schönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Alkoholverbot auf Pankower Spielplätzen - in der BVV abgelehnt
+- TOP 1.16: Mauer um das Schloss Schönhausen öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Aufsuchenden Kinderschutz verstärken - Ausweitung der präventiven herausreichenden Elternarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Verringerung des Verkehrslärms in der Diesterwegstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Generationsübergreifender Spielplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Ruhender Verkehr im Ortsteil Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Radfahrverbot auf der Fußgängerbrücke zwischen Sonnenburger Straße und Dänenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Erneuerung der Brücke am Bürgerpark - in der BVV abgelehnt
+- TOP 1.23: Informationen zur Tätigkeit von Scientology in Pankow - beantwortet
+- TOP 1.24: Bezirklicher Beauftragter Jobcenter - überwiesen
+- TOP 1.25: Verkehrsprojekte in Sanierungsgebieten - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Tiefbaumaßnahmen Kollwitzstraße - zurückgezogen
+- TOP 1.27: Aufhebung eines BA-Beschlusses - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Verfahren für eine bessere Beteiligung des Ausschusses Öffentliche Ordnung, Verkehr und Verbraucherschutz bei Tiefbaumaßnahmen in Sanierungsgebieten - zurückgezogen
+- TOP 1.29: Verfahrensweg - vertagt
+- TOP 1.30: Erinnerung an die Sprengung der Gasometer - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Beauftragung von Planungsarbeiten nach der Honorarordnung für Architekten und Ingenieure (HOAI) bei allen Baumaßnahmen im Be-zirk Pankow - überwiesen
+- TOP 1.32: Verfahren zur Erstellung der Kosten- und Finanzierungsübersichten sowie Maßnahmen- und Prioritätenlisten in den Gebietskulissen des Bezirks - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Klimaschutz-Projekte an Pankower Schulen weiterentwickeln! - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Entwicklung der Immobilienkosten des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Keine Unterbringung von Menschen in der Zentralen Aufnahmeeinrichtung Motardstr. 101 - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Fußgängerüberweg Dietzgenstraße - überwiesen
+- TOP 1.37: Mädchen- und Frauensport differenziert fördern - überwiesen
+- TOP 1.38: Zug der Erinnerung - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Fahrradverbindung zwischen Falkplatz und Arnimplatz - überwiesen
+- TOP 1.40: Unfälle mit Fahrradfahrern präventiv verhindern - in der BVV abgelehnt
+- TOP 1.41: Böllerverbot ab 2008 in Berlin - in der BVV abgelehnt
+- TOP 1.42: Spielplatz Raabestraße - mit Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Zukunft der kommunalen Märkte in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Erlass einer Umstrukturierungssatzung für das Quartier der "Grünen Stadt" und Einleitung eines Sozialplanverfahrens - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Erwerb des Grundstückes und aufstehende Gebäude Bizetstraße 27, 13089 Berlin, durch das Land Berlin und Ausbau zu einem abteilungsübergreifenden Bildungsstandort unter Einsatz von Fördermitteln der Senatsverwaltung für Stadtentwicklung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Stellplätze für Car-Sharing-Unternehmen in Sanierungsgebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Aufarbeitung der Altakten in den Fachbereichen SozS, SozG, SozE im Jahr 2007 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Neue Impulse für den Agendaprozess in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Botanischer Volkspark Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Denkmalschutzbericht erstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Erhaltung und Ausbau des Straßenbahnnetzes im Bezirk Pankow - vertagt
+- TOP 2.10: Sozialverträglichen Ablauf von Modernisierungen im denkmalgeschützten Teil der Grünen Stadt sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Kinderschutz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Vernachlässigungen erkennen - Lehrer unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Evangelische Friedhöfe entlang der Heinrich-Roller-Straße - vertagt
+- TOP 2.14: Weniger Ärger und Stress beim morgendlichen S-Bahn-Fahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Zugang zum Garibalditeich - vertagt
+- TOP 2.16: Fußweg Rosenthaler Weg - vertagt
+- TOP 2.17: Geh- u. Radwege am Pankower Rathaus - vertagt
+- TOP 2.18: Licht und Sicherheit in der Durchwegung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Erhaltung der Oderberger Straße - vertagt
+- TOP 2.20: "Lokales Bündnis für Familie Pankow" unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Errichtung und Betrieb von kabellosen Zugängen in den Bürgerämtern ausschreiben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Auflösung der bezirklichen Einrichtungen Stadtteilbibliotheken Esmarchstr.18 (Kurt-Tucholsky-Bibliothek) und Senefelderstr. 6 (Bibliothek im Eliashof) - vertagt
+- TOP 2.23: Qualitative Forderungen des Berliner Bildungsplanes an Kitas in der Personalausstattung berücksichtigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Schwimmhalle Pankow: Tür offenhalten - Moratorium beantragen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Fördermittel für die Bizetstraße 27 nicht verfallen lassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Erhalt des Klinikums Vivantes Prenzlauer Berg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Bebauungsplan 3-17 für eine Teilfläche des Friedhofs St. Nikolai und St. Marien II an der Heinrich-Roller-Straße (Flurstück 349) im Bezirk Pankow, Ortsteil Prenzlauer Berg - vertagt
+- TOP 2.28: Bebauungsplan XIX-48 für das Gelände zwischen Ludwig-Quidde-Straße, südlich der Kleingartenan-lage "Gravenstein", westlich der Kleingartenanlagen "Pankegrund" und "Pan-kepark" bis Ludwig-Quidde-Straße 34 und die Grundstücke Ludwig-Quidde-Straße 33,39, 41 sowie zwischen Parkgraben, nördlich Bahnhofstraße 7, Bahnhofstraße, Berliner Straße einschließlich Dr.-Markus-Straße und Edda-straße bis Eddastraße 12 sowie Teilflächen der Grundstücke Berliner Straße 38, Dr.-Markus-Straße 1 ... - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Bebauungsplan XVIII-24-3 vom 01.08.2006 zur Änderung des Bebauungs-plans XVIII-24 für das Gebiet zwischen Stadtrandsiedlung Karow / Am Kappgra-ben, Landesgrenze, Siverstorpstraße, Strömannstraße, der südlichen Grenze des Grundstücks Alt-Karow 30, denStraßen Alt-Karow und Bucher Chaussee sowie für die Siverstorpstraße und einen Abschnitt der Strömannstraße mit Aus-nahme des Geländes zwischen der öffentlichen Parkanlage am Hofzeichen-damm, Ingwäonenweg, Siverstorpstraße, Gatterweg und ... - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Aufgabenwahrnehmung gemäß Jugendschutzgesetz - mit Abschlussbericht zur Kenntnis genommen
