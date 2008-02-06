@@ -4,4 +4,28 @@
 (3) Die Schulnetzpläne sind im Benehmen mit den Gemeinden und den übrigen Trägern der Schulen des Gebietes aufzustellen. Die Pläne sind mit benachbarten Landkreisen und Kreisfreien Städten abzustimmen.
 (4) Die Schulnetzpläne bedürfen der Genehmigung der obersten Schulaufsichtsbehörde. Diese überprüft die Rechtmäßigkeit und Vereinbarkeit der Pläne mit den schulpolitischen und den sich aus dem Staatshaushaltsplan ergebenden Maßnahmen, insbesondere um zu gewährleisten, dass die personelle Ausstattung der Schulen im Rahmen der Bedarfs- und Finanzplanung des Freistaates Sachsen möglich ist. Die Genehmigung ist zu versagen, wenn die Schulnetzplanung mit den in den Absätzen 1 bis 3 genannten Anforderungen nicht übereinstimmt oder einer den Maßgaben des Freistaates Sachsen entsprechenden ordnungsgemäßen Gestaltung des Unterrichts entgegensteht.
 (5) Beschlüsse des Schulträgers und Entscheidungen des Staatsministeriums für Kultus nach § 24 erfolgen auf der Grundlage eines genehmigten Schulnetzplanes.
-(6) Das Staatsministerium für Kultus wird ermächtigt, das Nähere zur Aufstellung, Fortschreibung und Genehmigung der Schulnetzpläne durch Rechtsverordnung im Einvernehmen mit dem Staatsministerium des Innern zu regeln.
+(6) Das Staatsministerium für Kultus wird ermächtigt, das Nähere zur Aufstellung, Fortschreibung und Genehmigung der Schulnetzpläne durch Rechtsverordnung im Einvernehmen mit dem Staatsministerium des Innern zu regeln. Die Rechtsverordnung kann auch vorsehen:
+1. die Verpflichtung der Landkreise und Kreisfreien Städte, zum Zwecke der Schulnetzplanung Statistiken für bestimmte oder alle öffentlichen Schulen und Schulen in freier Trägerschaft ihres Gebiets durchzuführen, insbesondere mit folgenden Merkmalen:
+a)
+Träger der Schule;
+b)
+Schulart und Bildungsgänge;
+c)
+Zahl der Schüler je Bildungsgang;
+d)
+Wohnorte der Schüler;
+e)
+Art, Anzahl, Größe, sächliche Ausstattung, Nutzung und Nutzungseignung von Gebäuden, Räumen und Außenanlagen;
+f)
+Mehrfachnutzung von Gebäuden, Räumen und Außenanlagen;
+g)
+Angaben gemäß den Buchstaben a bis d für alle durch die Schule genutzten Gebäude;
+2. zu den Statistiken und Merkmalen gemäß Nummer 1:
+a)
+Auskunftspflichten für öffentliche und freie Schulträger;
+b)
+eine Erfassung und Verarbeitung nach einheitlichen Vorgaben;
+c)
+eine regelmäßige oder fortlaufende Aktualisierung;
+d)
+eine Verpflichtung der Landkreise und Kreisfreien Städte zur Übermittlung, auch im elektronischen Datenverkehr, an Behörden des Freistaates Sachsen einschließlich der Sächsischen Aufbaubank zum Zwecke der Genehmigung von Schulnetzplänen, der Wahrnehmung der Schulaufsicht oder der Durchführung von Förderprogrammen.
