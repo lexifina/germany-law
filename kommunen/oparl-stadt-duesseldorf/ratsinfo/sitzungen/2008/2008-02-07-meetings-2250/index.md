@@ -1,0 +1,53 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-02-07T14:06:00+01:00
+- Ende: 2008-02-07T19:12:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2250
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2250
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167426.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167426.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167426.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Akt. Anfr. SPD: Teilnahme am Konvent der Bürgermeister - zur Kenntnis genommen
+- TOP 5: Anfragen - zur Kenntnis genommen
+- TOP 6: Anfr: CDU: Jugendschutz - beantwortet
+- TOP 7: Anfr. CDU: LED-Leuchten - beantwortet
+- TOP 8: Anfrage SPD Ratsfr.: Absetzung Hafenfest - beantwortet
+- TOP 9: Anfrage Bü90/Grü: ARGE in Düsseldorf - schriftlich beantwortet
+- TOP 10: Anfrage Bü90/Grü: Widersprüche + Klagen gegen Bescheide d. ARGE - schriftlich beantwortet
+- TOP 11: Anfrage d. Ratsh. Karen-Jungen: Tonhallenterrasse - schriftlich beantwortet
+- TOP 12: Anfrage Rfr. Deilmann: Videoüberwachung Schulen Rather Kreuzweg - schriftlich beantwortet
+- TOP 13: Anfrage d. FDP-Ratsfraktion: Beschlusskontrolle - schriftlich beantwortet
+- TOP 14: Entscheidung über die Zulässigkeit des Bürgerbegehrens Jan-Wellem-Platz - mehrheitlich beschlossen
+- TOP 15: ÄA SPD u. Bü90: Bürgerbegehren Jan-Wellem-Platz - mehrheitlich abgelehnt
+- TOP 16: Anträge - zur Kenntnis genommen
+- TOP 17: Antrag d. SPD-Ratsfr.: Haushaltsberatung 2009 im NKF - mehrheitlich abgelehnt
+- TOP 18: ÄA CDU/FDP: Haushaltsberatung 2009 im Neuen Kommunalen Finanzmana-gement (NKF) - mehrheitlich beschlossen
+- TOP 19: Antr. CDU/FDP: Thermographie-Aufnahmen - mehrheitlich beschlossen
+- TOP 20: Antrag Bü90/Grü: atmosfair - zur Kenntnis genommen
+- TOP 21: Antrag Bü90/Grü: Diversity Charta - mehrheitlich abgelehnt
+- TOP 22: Antrag SPD: No Nokia - mehrheitlich abgelehnt
+- TOP 23: Antrag SPD: Sozialtarife Strom und Gas - mehrheitlich abgelehnt
+- TOP 24: ÄA Bü90: Stromtarife - mehrheitlich abgelehnt
+- TOP 25: Antrag FDP: Vertr. Bürgerkommunikation b. der Stv. - einstimmig beschlossen
+- TOP 26: Üpl u. Apl. Ausgaben für das Haushaltsjahr 2007 - einstimmig beschlossen
+- TOP 27: Sanierung Tonhalle 2. Bauabschnitt - Bau-und Finanzierungsbeschluss - - mehrheitlich beschlossen
+- TOP 28: Redinghovenstraße 20 - Mehrkostenbeschluss - - mehrheitlich beschlossen
+- TOP 29: Kaiserswerther Str. 380/ Aquazoo Dachsanierung - einstimmig beschlossen
+- TOP 30: Gen. 60er-Beschluss: Prof. Schwippert-Str. - mehrheitlich beschlossen
+- TOP 31: 53. Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 32: ÄA SPD Ratsfr:: Hauptsatzung - mehrheitlich abgelehnt
+- TOP 33: Änderung verfassungsrechtlicher Vorschriften - einstimmig beschlossen
+- TOP 34: Änderung der Bestimmungen über die Verleihung des Heine-Preises der Landeshauptststadt Düsseldorf - einstimmig beschlossen
+- TOP 35: Diversity als Chance - die Charta der Vielfalt - einstimmig beschlossen
+- TOP 36: Reihenfolge Allgemeiner Vertreter - einstimmig beschlossen
