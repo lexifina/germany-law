@@ -1,0 +1,96 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2008-02-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1307213
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1307213
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Fußweg und Bordstein in der Würmtalstraße
+- TOP 1.2.: Taubenfütterung Waldwiesenstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfällanträge / Baumbestandspläne
+- TOP 3.1.: Haseneystr. 26, 1 Blautanne
+- TOP 3.2.: Sonnblickstr. 4, 3 Rotfichten
+- TOP 3.3.: Leostr. 11, gem. Baumbestandsplan Nr. 1000
+- TOP 3.3.2: Fällung von Gefahrenbäumen
+- TOP 3.1.: Waldfriedhof, 2 Bäume (Baureferat, 17.01.08)
+- TOP 3.3.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 3.3.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 4.: Ausschussberichte
+- TOP 4.1.: UA Budget
+- TOP 4.2.: UA Verkehr
+- TOP 4.3.: UA Bau und Umwelt
+- TOP 5.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Entscheidungsfälle
+- TOP 6.1.: Antrag der SG Hadern St. Peter e.V. Bezirkssportanlage Am Hedernfeld auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 2.700,- ? (Direktorium, 16.01.08)
+- TOP 6.2.: Antrag der Volksschule München, Hauptschule auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 3.190,- ? (Direktorium, 16.01.08)
+- TOP 7.: Anhörungsfälle
+- TOP 7.1.: Zweckentfremdung von Wohnraum, Bramburgstr. 5 (Sozialreferat, 30.11.07) (vertagt aus 01/08)
+- TOP 7.2.: Verkehrsrechtliche Anordnung; Bushaltestelle Flemischweg in der Wastl-Witt-Straße, Ausdehnung des Haltestellenbereiches (Kreisverwaltungsreferat, 28.12.07) (vertagt aus 01/08)
+- TOP 7.3.: Budget der Bezirksausschüsse; Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008 (Direktorium, 10.01.08)
+- TOP 7.4.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz - Zirkus Baldoni vom 16.05.08 - 26.05.08 (Kreisverwaltungsreferat, 15.01.08)
+- TOP 7.5.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz - Zirkus Roberto vom 31.03.08 - 06.04.08 (Kreisverwaltungsreferat, 15.01.08)
+- TOP 7.6.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz - Festival der Marionetten vom 11.11.08 - 25.11.08 (Kreisverwaltungsreferat, 11.01.08)
+- TOP 7.7.: Sonderflughafen Oberpfaffenhofen, Antrag auf Teilrücknahme vom 30.11.2007 (Referat für Stadtplanung und Bauordnung, 17.01.08)
+- TOP 7.8.: Veranstaltung in einer städtischen Grünanlage, hier: Flohmarkt des Kindergartens Ludwig-Wörl-Weg auf dem Max-Lebsche-Platz am 11.04.08 (Kreisverwaltungsreferat, 24.01.08)
+- TOP 7.9.: Erinnerungsverfahren: Waldesruhe 1 a (Baureferat, 22.01.08)
+- TOP 7.10.: Beschlussvorlage zur Stärkung der Stadtteilkultur (Kulturreferat, 23.01.08)
+- TOP 7.11.: Errichtung einer Werbeanlage, Fürstenrieder Str. 220 (Referat für Stadtplanung und Bauordnung, 24.01.08)
+- TOP 7.12.: Veranstaltung in einer städtischen Grünanlage, hier: Flohmarktveranstaltungen am 05.04. / 31.05. / 07.06. / 05.07. / 02.08. / 13.09. / 11.10.08 auf dem Max-Lebsche-Platz
+- TOP 7.13.: Planung der Münchner Sommer SpielAktion (Spielen in der Stadt, 07.02.08)
+- TOP 7.14.: Veranstaltungen sowie Sondernutzungen auf öffentlichem Verkehrsgrund, neue Veranstaltungsrichtlinien (Kreisverwaltungsreferat, 08.02.08)
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Vollzug der Wassergesetze; Bachräumungstermine 2008 für die Stadt- bzw. Stadtrandbäche (Baureferat, 14.01.08)
+- TOP 8.2.: Wertstoffinsel Guardinistraße 59 (AWM, 10.01.08)
+- TOP 8.3.: Finanzplan 2007 - 2011 (Stadtkämmerei, 17.01.08)
+- TOP 8.4.: Unveränderte Fortführung, Gräfelfinger Str. 119 "Tulipano" (Kreisverwaltungsreferat, 21.01.08)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Platz an der Kreuzung Pfingstrosenstraße / Sonnenblumenstraße / Schachblumenweg - Verkehrsführung (Baureferat, 15.01.08)
+- TOP 9.2.: Buslinie 167 (MVG, 09.01.08)
+- TOP 9.3.: Notfallplan für Kindergärten und Schulen bei auftretenden Infektionskrankheiten (Referat für Gesundheit und Umwelt, 16.01.08)
+- TOP 9.4.: Wiederinstallation der Umlaufsperre Haderner Steg / Einmündung Willibaldstraße (Baureferat, 07.01.08)
+- TOP 9.5.: Wochenmarkt Blumenau (Kommunalreferat, 10.01.08)
+- TOP 9.6.: Markierung in der Parkbucht der Haltestelle Wolkerweg der Buslinie 167 (Kreisverwaltungsreferat, 28.12.07)
+- TOP 9.7.: Nutzung des Grundstückes Terofalstr. 25 (Sozialreferat, 04.01.08)
+- TOP 9.8.: Verkehrsrechtliche Anordnung, Haltverbot Am Ährenfeld (Kreisverwaltungsreferat, 17.12.07)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Zulassung von Zweirichtungs-Radverkehr in Einbahnstraßen (Schreiben des ADFC vom 03.01.08)
+- TOP 11.2.: Einführung einer Buslinie über die Haderunstraße zum Hedernfeld mit Anbindung an die U-Bahnlinie U6 durch einen Minibus
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 19.12.2007: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007
+- TOP 12.2.: vom 19.12.2007: Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München - Ersteinschätzung und weiteres Vorgehen
+- TOP 12.3.: vom 19.12.2007: Bündnis für Ökologie Leitprojekt 2: Mehr Platz für den Umweltverbund Teilprojekt Stadtviertelkonzept Nahmobilität für den 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.01.2008: Initiative "Magistrale für Europa", Vereinbarung zur gemeinsamen Finanzierung der Geschäftsstelle (vertagt)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.01.2008: Verordnung der Landeshauptstadt München zur Aufhebung des § 2 Abs. 2 Nr. 1,2 und des § 2 Abs. 3 der Verordnung der Landeshauptstadt München über Mindestabstandsflächen, Höhenlage von Gebäuden, Gestaltung von Dächern und von unbebauten Flächen bebauter Grundstücke in besonderen Siedlungsgebieten vom 14.12.1979
+- TOP 12.1.: Beschluss des Sozialausschusses vom 10.01.2008: Initiative zur Mietrechtsänderung: Die Situation der Münchner Mieterschaft wird im Deutschen Städtetag eingebracht und diskutiert.
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.01.2008: Wohnungsmarkt München, Expertenbefragung 2007
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.01.2008: Bevölkerungsprognose 2007 der Landeshauptstadt München
+- TOP 12.3.: Bekanntgabe im Schulausschuss vom 30.01.2008: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städtischen Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2007/2008, insbesondere der Grundschulen Am Hedernfeld, an der Blumenauer Straße, am Canisiusplatz, an der Großhaderner Straße, an der Guardinistraße und an der Senftenauerstraße sowie der Hauptschulen an der Blumenauer Straße und an der Guardinistraße sowie der Tagesheime Am Hedernfeld und an der Großhaderner Straße
+- TOP 12.4.: Bekanntgabe im Schulausschuss vom 30.01.2008: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2007/2008, Stand: 20.10.2007
+- TOP 12.5.: Bekanntgabe im Schulausschuss vom 30.01.2008: Schüler- und Klassenzahlen an den städtischen Realschulen, an den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2007/2008
+- TOP 12.6.: Bekanntgabe im Schulausschuss vom 30.01.2008: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2007/2008, insbesondere am Erasmus-Grasser-Gymnasium und Ludwigsgymnasium
+- TOP 12.7.: Bekanntgabe im Schulausschuss vom 30.01.2008: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2007/2008, insbesondere in Hadern mit einer effektiven Gesamtbelegung von 1.136 Kindergartenplätzen (genehmigt 1.177, frei geblieben 41, Vormerkungen 294)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
