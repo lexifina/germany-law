@@ -1,0 +1,65 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2008-02-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1275653
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1275653
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Parkraummanagement in München
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Bewohnertreff Theresienhöhe
+- TOP 3.2.: Projekte quartierbezogener Bewohnerarbeiten; Einrichtung eines Bewohnertreffs auf der Theresienhöhe
+- TOP 3.3.: Förderung freier Träger; Haushaltsplan 2008
+- TOP 4.: Schulreferat
+- TOP 4.1.: (E) Bezirkssportanlage an der Demleitnerstr. 2 Modernisierung der Freisportflächen 6. Stadtbezirk Sendling Projektkosten (Kostenobergrenze): 1.025.000 ? (netto) 1. Genehmigung des Bedarfsprogrammes 2. Projektauftrag - <div>nach Antrag</div>
+- TOP 5.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Ziele und Grundsätze Sendlinger Verkehrspolitik
+- TOP 6.2.: Haltverbot Neuhauser Weg
+- TOP 6.3.: Erweiterung Haltverbot Spitzwegstraße 15
+- TOP 6.4.: Parkverbot im Bereich Ganghoferstraße 17 - 19
+- TOP 6.5.: Rückbau der Abbiegespur von der Plinganserstraße in die Lindenschmitstraße - <div>Kenntnisnahme</div>
+- TOP 6.6.: Meldeliste Bauvorhaben Stadtwerke München
+- TOP 6.7.: Fernwämebauvorhaben Aberlestraße 6 bis 12a
+- TOP 6.8.: Warenstellage Implerstraße 14
+- TOP 7.1.: Budgetantrag des Mütterzentrum Sendling e. V., Druck eines Familienstadtplans für Sendling; ? 622,61
+- TOP 7.2.: Budgetantrag Sendlinger Kulturschmiede, Jahresprogramm 2008 Historische Lernorte Sendling; ? 6320,-
+- TOP 7.3.: Sendlinger Kulturschmiede e.V., Konzept Fotoprojekt Isarbrücken, 850 Jahre München; ? 3100,-
+- TOP 7.4.: Budetantrag Historische Lernorte Sendling, "Koffer weiß"; ? 6970,-
+- TOP 7.5.: BA-Budget; Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008
+- TOP 7.6.: Sendlinger Maibaum
+- TOP 7.7.: Bürgerfest Sendling; Stornierung der Beschilderungskosten
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Thalkirchner Str. 131
+- TOP 8.3.: Bauvorhaben Oberländerstr. 14
+- TOP 8.4.: Bauvorhaben Danklstr. 1
+- TOP 8.5.: Bauvorhaben Lindwurmstr. 122 - 124
+- TOP 8.6.: Bauvorhaben Implerstr. 10
+- TOP 8.7.: Bauvorhaben Plinganserstr. 120
+- TOP 8.8.: Bauvorhaben Kidlerstraße 18
+- TOP 8.9.: 2. S-Bahn-Stammstrecke München
+- TOP 8.10.: Initiative "Magistrale für Europa"
+- TOP 9.: Baureferat
+- TOP 9.1.: Errichtung von zwei Ruhebänken am Sendlinger Kirchplatz aus Mitteln des BA-Budgets
+- TOP 9.2.: Informationsveranstaltung Quartiersplatz Bahndeckel am 05.03.2008
+- TOP 9.3.: Gestaltung des Margaretenplatzes nach Fertigstellung der Bauarbeiten am Pfarrheim, Plinganserstraße 22
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Lindwurmstraße 122 - 124
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 11.1.: Zustand und Sauberkeit der Radwege; Verkehrsgefährdung an der Eisenbahnunterführung Lindwurmstraße - <div>vertagt</div>
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Stärkung der Stadtteilkultur
+- TOP 13.2.: 850. Stadtgeburtstag
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
