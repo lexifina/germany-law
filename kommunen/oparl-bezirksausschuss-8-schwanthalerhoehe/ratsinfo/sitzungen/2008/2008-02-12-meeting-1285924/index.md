@@ -1,0 +1,103 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2008-02-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1285924
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1285924
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Straßensanierungs- und Verkehrskonzept Bergmannstraße und Westend allgemein
+- TOP 3.2.: 850 Gesichter Münchens
+- TOP 3.3.: Parkplatzproblem Geroltstraße
+- TOP 3.4.: Beantragung von ca. 3 offenen Papierkörben um den Bereich Ganghofer/Ecke Schwanthalerstraße
+- TOP 3.5.: Wiedereinsetzung der Theresienhöhe als Start- und Zielort der Blade Night
+- TOP 3.6.: WEG Theresiengarten Carlamaria-Heim-Straße 3 und 5, August-Kühn-Straße 10, 80339 München Anschaffung / Errichtung von überdachten Fahrradständern
+- TOP 3.7.: Koordination Straßenbau und Fernwärme
+- TOP 3.8.: Anfrage Gollierplatz
+- TOP 3.9.: Stadtteiltage 2008
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Erweiterungsantrag Warenstellage Ganghoferstr. 3
+- TOP 5: Anhörungen
+- TOP 5.1.: Hausgemeinschaft Sandtnerhof Flohmärkte 2008
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Quartiersplatz Bahndeckel Theresienwiese
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Bildung nach Maß
+- TOP 6.2.2.: Investitionskostenförderung gem. Art 27 BayKiBiG Haus für Kinder Schwanthalerstraße 111 mit 60 Kinderkrippenplätzen und 23 Kindergartenplätzen Umbau bestehender Räume VorlagenNr. 02-08/V11333
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.3.1.: Stärkung der Stadtteilkultur Bitte um Stellungnahme
+- TOP 6.3.2.: Spielfläche und Garten der IG-Feuerwache
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Baumfällung Theresienhöhe 3 Anhörung
+- TOP 6.4.2.: Baumfällung Guldeinstraße 30 Anhörung
+- TOP 6.4.3.: Baumfällung Kazmairstr. 46
+- TOP 6.4.4.: Baumfällung Kazmairstr. 44
+- TOP 6.4.5.: Baumfällung Kazmairstr. 38b
+- TOP 6.4.6.: Standorte Parkscheinautomaten
+- TOP 6.4.7.: Grünflächenoptimierung: Vorschläge aus dem BA erneute Behandlung aus 01/08
+- TOP 6.4.8.: Alternative Standorte Wertstoffinseln erneute Behandlung 01/08
+- TOP 6.4.9.: Zulassung von Zweirichtungs-Radverkehr in Einbahnstraßen
+- TOP 6.4.10.: Bauvorhaben im 8.Stadtbezirk
+- TOP 6.4.11.: Bürgerschreiben zum Thema Parkraummanagment Westend/Schwanthalerhöh`
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Verwendungsnachweis Wendo-Kurs im Hort
+- TOP 6.5.2.: Budget der Bezirksausschüsse Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahre 2008
+- TOP 6.5.3.: Gartenbereich und IG Feuerwache
+- TOP 6.5.4.: Gewährung eines Zuschusses aus Budgetmitteln DÜKKAN Kulturplanungsbüro e. V.
+- TOP 6.5.5.: Finanzplan 2007 - 2011
+- TOP 6.5.6.: Gewährung eines Zuschusses aus Budgetmitteln Init. Open Westend
+- TOP 7: Erledigungen
+- TOP 7.1.: Genehmigungspraxis bei Sitzbagatellen
+- TOP 7.2.: Ganghoferstr.6 Anfrage des Bezirksausschuss 8 bezüglich Betrieb einer Klimaanlage im Innenhof des Anwesens Ganghoferstr. 6,8 und 10
+- TOP 7.3.: Nutzungsanfragen der Theresienwiese 2008
+- TOP 7.4.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten, Anderungsantrag vom 28.11.1007
+- TOP 7.5.: Hauptzollamt Landsberger Straße BA-Anträge Nr. 02-08 / b 02077 und 02464 des Bezirksausschusses des Stadtbezirkes 08 von 08.05 und 09.10.2007
+- TOP 7.6.: Parkverbot im Bereich Ganghoferstr. 17-19
+- TOP 7.7.: Projekte quartierbezogener Bewohnerarbeit Einrichtung eines Bewohnertreffs auf der Theresiehöhe 2
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Baumaßnahmen mit provisorischen Oberflächen Bayerstraße, Teil 1
+- TOP 9.2.: Meldeliste 17.12. - 23.12.07 Erstantragsverfahren a) Ridlerstr. 13 b) Guldeinstr. 43 c) Heimeranstr. 49 d) Schwanthalerstr. 111 e) Landsberger Str. 108
+- TOP 9.3.: Meldeliste 07.01. - 13.01.08 Erstantragsverfahren a) Grasserstraße 1
+- TOP 9.4.: Meldeliste 14.01. - 20.01.08 Erstantragsverfahren a) Ligsalzstraße 18
+- TOP 9.5.: Meldeliste 17.12. - 23.12.07 Änderungsverfahren a) Heimeranstr. 31
+- TOP 9.6.: Meldeliste 31.12. - 06.01.08 Änderungsverfahren a) Ridlerstraße 5
+- TOP 9.7.: Meldeliste 07.01. - 13.01.08 Änderungsverfahren a) Landsberger Straße 143 b) Gollierstraße 25
+- TOP 9.8.: Meldeliste 21.01. - 27.01.08 Änderungsverfahren a) Heimeranstraße 35
+- TOP 9.9.: Meldeliste 17.12. - 23.12.07 Vorbescheid a) Ridlerstr. 75
+- TOP 9.10.: Meldeliste 24.12. - 30.12.07 Vorbescheid a) Kazmairstr. 66 b) Ridlerstr. 75
+- TOP 9.11.: Meldeliste 14.01. - 20.01.08 Vorbescheid a) Kazmairstr. 66
+- TOP 9.12.: Bauvorhaben der SWM Stichtag 20.12.2007
+- TOP 9.13.: Bauvorhaben der SWM Stichtag 14.01.2008
+- TOP 9.14.: Bauvorhaben der SWM Stichtag 21.01.2008
+- TOP 9.15.: Bauvorhaben der SWM Stichtag 28.01.2008
+- TOP 10: Verschiedenes
+- TOP 10.1.: 850. Stadtgeburtstag
+- TOP 10.2.: Antrag an den BA 20 Hadern
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Protokoll 11/07
+- TOP 11.2.: Protokoll 12/07
+- TOP 11.3.: Schriftverkehr 11/07
+- TOP 11.4.: Wohnungsmarkt München Expertenbefragung 2007 VorlagenNr. 02-08/V11316
+- TOP 11.5.: Investitionsprogramm im Sportausschuss für die städtischen Freisportanlagen Jahresbericht 2007 VorlagenNr. 02-08/V11088
+- TOP 11.6.: Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München -Ersteinschätzung und weiteres Vorgehen VorlagenNr. 02-08/V11332
+- TOP 11.7.: Initiative "Magistrale für Europa" Vereinbarung zur gemeinsamen Finanzieerung der Geschäftsstelle VorlagenNr. 02-08/V11437
+- TOP 11.8.: Zuwendungsbescheid vom 07.01.2008 für Generationsgerechtes Wohnen Budgetantrag 19.10.2007
+- TOP 11.9.: 2.S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Abs.1 Allgemeines Eisenbahngesetz
+- TOP 11.10.: Schüler und Klassenzahlen an den städtischen Gymnasien VorlagenNr. 02-08/V11211
+- TOP 11.11.: Schüler und Klassenzahlen an den städtischen Realschulen VorlagenNr. 02-08/V11324
+- TOP 11.12.: Schüler und Klassenzahlen an den öffentlichen Grund-, Haupt- und Förderschulen VorlagenNr. 02-08/V11361
+- TOP 11.13.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2007/2008 VorlagenNr. 02-08/V11340
+- TOP 11.14.: Schüler und Klassenzahlen an den Beruflichen Schulen der Landeshauptstadt München 2007/2008 VorlagenNr. 02-08/V11270
+- TOP 11.15.: Unveränderte Fortführung von Gaststätten Parkstr. 30
+- TOP 11.16.: Absenkung von Bordsteinen im Rahmen von Baumaßnahmen Ziffer 2 des Antrags VorlagenNr. 02-08/V11078
