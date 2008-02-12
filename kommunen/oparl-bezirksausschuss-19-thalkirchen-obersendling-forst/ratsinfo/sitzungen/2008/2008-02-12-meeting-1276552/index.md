@@ -1,0 +1,54 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2008-02-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1276552
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1276552
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 08.01.08
+- TOP 2: Anträge
+- TOP 2.1.: Erstaufnahmeeinrichtung Baierbrunner Str. 14; Maßnahmen zur Reduzierung der Probleme
+- TOP 2.2.: 850-Jahr-Feier München; Ausstellung "850-Gesichter Münchens"
+- TOP 2.3.: Aufstellung von Straßenlaternen am Parkplatz Surheimer Weg
+- TOP 2.4.: Flüsterasphalt auf die Autobahn A95 (München-Garmisch)
+- TOP 2.5.: Straßenlaterne an der Forstenrieder Allee 84
+- TOP 2.6.: Wohnungen für den Sozialdienst Katholischer Frauen (SKF) am ehemaligen Thalkirchner Bahnhof
+- TOP 2.7.: Nachnutzung Schwimmbad Samberger Schule
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: FKM Forstenried Konzerte München
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Sonderflughafen Oberpfaffenhofen (Antrag auf Teilrücknahme vom 30.11.07)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrssituation Höglwörther Straße
+- TOP 5.2.: Radweg Stäblistraße (nördlich)
+- TOP 5.3.: Haltverbot Meglingerstraße Ecke Munckerstraße
+- TOP 5.4.: Einrichtung einer Parkscheibenregelung Herterichstraße (nördlich) zwischen Schuchstraße und Sambergerstraße
+- TOP 5.5.: Sanierung Kistlerhofstraße zwischen Rohrauerstraße und Münsinger Straße
+- TOP 5.6.: Verschiedene "Erinnerungsverfahren"
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Änderung Flächennutzungsplan und Bebauungsplan ehem. "Thalkirchner Bahnhof"
+- TOP 7: Entscheidungsfälle
+- TOP 7.1.: Freischankfläche "Kyano"
+- TOP 7.2.: Taxistand am Sollner Bahnhof
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Kosten/Gebühren zur 850-Jahrfeier; Erhöhung der Mittel zur eigenen Verwendung des BA-Budgets
+- TOP 8.2.: Zuschuss zur Errichtung eines Billardsportzentrums an der Kistlerhofstr. 70
+- TOP 8.3.: Stärkung der Stadtteilkultur
+- TOP 8.4.: Gaststättenpächterwechsel "Rizzo"
+- TOP 8.5.: Gaststättenpächterwechsel "Ristorante Pizzeria Marcello"
+- TOP 8.6.: Gaststättenpächterwechsel " Fu- Guei"
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
