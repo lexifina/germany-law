@@ -1,0 +1,119 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2008-02-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1312174
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1312174
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Öffnungszeiten der Gaststätte "Szymanskis"
+- TOP 2.2.: Verkehrssicherheit im Kreuzungsbereich Orthstraße / Sibeliusstraße / Mendelssohnstraße / Anton-Meindl-Straße
+- TOP 2.3.: Bebauungsplan-Entwurf Nr. 1992 Stahlstraße, Hans-Goltz-Weg, Pasinger Heuweg
+- TOP 2.4.: Parksituation im Bereich des Berufsbildungszentrums an der Bergsonstraße
+- TOP 2.5.: Schließung der Eisbahn West
+- TOP 2.6.: Unrat an der Haltestelle "Stadtgrenze Maria-Eich-Straße"
+- TOP 2.7.: Feichthofstraße 155; Zufahrt über die Grünanlage Feichthofstraße
+- TOP 2.8.: Baumfällungen auf verschiedenen Anwesen im Stadtbezirk
+- TOP 2.9.: Fußballspielen auf der Grünanlage an der Von-Frays-/Bärmannstraße
+- TOP 2.10.: "Homosexuellenstrich" im Bereich Tannenweg (zum Teil Stadtbezirk 21) und Schragenhofstraße (Stadtbezirk 10 Moosach)
+- TOP 2.11.: Bauvorhaben Heerstraße 12e; Rodung des Grundstücks
+- TOP 2.12.: Lärmschutzmaßnahme Freseniusstraße
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Pasinger Bahnhofsplatz (Pasing Arcaden), Baumbestandsplan Nr. 07-035418
+- TOP 3.2.: Rubensstraße 5, 1 Douglasie, 1 Birke, 1 3-stämmige Esche
+- TOP 3.3.: Am Stadtpark 47 c, 2 Eschen
+- TOP 3.4.: Paul-Gerhardt-Allee 51, 1 Linde
+- TOP 3.5.: Marschnerstraße 14, Baumbestandsplan Nr. 07-78715
+- TOP 3.6.: Scapinellistraße 16, Baumbestandsplan Nr. 07-78894
+- TOP 3.7.: Hofmillerstraße, Baumbestandsplan Nr. 07-78979
+- TOP 3.8.: Feichthofstraße 127, 1 Weide
+- TOP 3.9.: Feichthofstraße, Baumbestandsplan Nr. 07-78809
+- TOP 3.10.: Menterstraße, Baumbestandsplan Nr. 07-78810
+- TOP 3.3.2: Gefahrenbäume
+- TOP 3.1.: Mitteilungen des Baureferates vom 02.10.2007 (Eingang 08.01.2008) und vom 15.01.2008
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Korfiz-Holm-Straße 18
+- TOP 5.2.: Alte Allee 92
+- TOP 5.3.: Thaddäus-Eck-Straße 13
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Entscheidung über die Einrichtung / Änderung / Aufhebung eines Taxistandplatzes gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, hier: Taxistandplatz Gottfried-Keller-Straße, Verlegung des Nachrückplatzes in der August-Exter-Straße von der Westseite an die Ostseite
+- TOP 9.2.: Gewährung eines Zuschusses aus dem Budget des BA 21; Antragsteller: Kulturforum München-West e.V. für die Veranstaltung im Rahmen des 850. Stadtgeburtstages - Offene Ateliers Pasing / Obermenzing von Mai bis September 2008
+- TOP 3: (E) Entfernung des Zusatzschildes ?Radfahrer frei? am Weg parallel zum Nymphenburger Kanal zwischen Frauendorferstraße und Meyerbeerstraße Empfehlung Nr. 02-08 / E 00879 der Bürgerversammlung des Stadtbezirkes 21 Pasing - Obermenzing am 23.10.2007 - <div>nach Antrag</div>
+- TOP 4: (E) Verkehrsentlastung für die Verdistraße durch Umleitung der Verkehrsströme; Veränderung der Beschilderung; Empfehlung Nr. 02-08 / E 00575 der Bürgerversammlung des 21. Stadtbezirkes- Pasing-Obermenzing, Bez.teil Obermenzing- am 26.10.2006
+- TOP 10.: Anhörungen
+- TOP 10.1.: Gottfried-Keller-Straße; Errichtung eines Gebäudes mit Tiefgarage, Vorbescheid (vertagt aus der BA-Sitzung vom 08.01.2008)
+- TOP 10.2.: Landsberger Straße 388, Neubau eines Lebensmittel-Einzelhandelsgeschäfts mit 2 darüberliegenden Parkdecks
+- TOP 10.3.: Thaddäus-Eck-Straße 13, Neubau eines Einfamilienhauses mit Garagen
+- TOP 10.4.: Budget der Bezirksausschüsse; Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008
+- TOP 10.5.: Verlängerung des bestehenden Haltverbots auf der Südseite der Münchhausenstraße bis zur Einfahrt Freseniusstraße 4
+- TOP 10.6.: Tonnagebeschränkung Wöhlerstraße
+- TOP 10.7.: Sonderflughafen Oberpfaffenhofen; Antrag auf Teilrücknahme vom 30.11.2007
+- TOP 10.8.: Alte Allee / An der Schäferwiese / Peter-Kreuder-Straße, Neubau einer Wohnanlage (Haus 8 - 15, 64 WE) mit Tiefgarage (105 Stpl.) und 2 Läden
+- TOP 10.9.: Verkehrskonzept Pasing; Erhalt der Einzelhandelsflächen in der Bäckerstraße, Gleichmannstraße und Landsberger Straße (Empfehlung Nr. 02-08 / E 00721 der Bürgerversammlung des 21. Stadtbezirks Pasing-Obermenzing, Bezirksteil Pasing, am 03.05.2007)
+- TOP 10.10.: Verkauf der städt. Immobilie Flur-Nr. 735 u.a., Gemarkung Pasing, an der Gottfried-Keller-Straße / Offenbachstraße (ehem. Weyl-Gelände)
+- TOP 10.11.: Stärkung der Stadtteilkultur; Entwurf einer Beschlussvorlage für den Kulturausschuss
+- TOP 10.12.: Absolutes Haltverbot Josef-Retzer-Straße, Ostseite zwischen Weinbergerstraße und 18 m nördlich
+- TOP 10.13.: Marschnerstraße 14, Neubau eines Einfamilienhauses
+- TOP 10.14.: Menterstraße, Neubau eines Einfamilienhauses (8 WE)
+- TOP 10.15.: Neubau eines Mehrfamilienhauses (10 WE) mit Tiefgarage
+- TOP 10.16.: Parkscheibenzone Steinerweg
+- TOP 10.17.: Pasinger Bahnhofsplatz, Neubau eines Einkaufszentrums mit 80 Wohnungen, Tiefgarage (Pasing Arcaden) und eines Nebengebäudes mit 2 Verkaufsgeschossen und Kellergeschoss (Terminalgebäude) - Tektur
+- TOP 10.18.: Schlehbuschstraße 2, Neubau eines Einfamilienhauses mit Einliegerwohnung
+- TOP 11.: Anträge und Anfragen
+- TOP 11.1.: SPD: Antrag: Entmüllung rund um den Bürklein-Bahnhof
+- TOP 11.2.: SPD: Anfrage: Haltestellentafel in der Kaflerstraße stadteinwärts
+- TOP 11.3.: SPD: Antrag: Gefahrloses Überqueren der Planegger Straße für Fußgänger, insbesondere im Bereich des ehemaligen Technozell-Geländes, sicherstellen; Einrichtung einer Fußgängerampel in Höhe der Bushaltestelle "Siedlung am Haidelweg"
+- TOP 11.4.: SPD: Antrag: Raumsituation Realschule an der Blutenburg, Grundsschule Grandlstraße, Grundschule Oselstraße
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Amtsblatt Nrn. 1/08, 2/08, Sondernr. 2/08
+- TOP 12.2.: Baufälle im Stadtbezirk (Listen vom 07.01.-13.01.08, v. 14.01.-20.01.08, v. 21.01.-27.01.08
+- TOP 12.3.: Vollzug der Baumschutzverordnung, Fällungsanträge im Stadtbezirk (Listen vom 07.01.-13.01.08, v. 14.01.-20.01.08
+- TOP 12.4.: Baumaßnahmen der Stadtwerke München GmbH (Aufstellung vom 14.01.08, 21.01.08, 28.01.08
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Vollversammlung des Stadtrats vom 19.12.007 - Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007 - Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München; Einschätzung und weiteres Vorgehen - Bündnis für Ökologie; Leitprojekt 2: Mehr Platz für den Umweltverbund, Teilprojekt Stadtviertelkonzept Nahmobilität für den 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt
+- TOP 13.2.: Ausschuss für Stadtplanung und Bauordnung vom 09.01.2008 - Initiative "Magistrale für Europa"; Vereinbarung zur gemeinsamen Finanzierung der Geschäftsstelle
+- TOP 13.3.: Vollversammlung des Stadtrates vom 23.01.2008 - 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG) a) Sach- und Verfahrensstand; ergänzende Informationen b) Weiteres Vorgehen c) Anträge und Empfehlungen
+- TOP 13.4.: Schulausschuss des Stadtrats vom 30.01.2008 - Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2007 / 2008 (Bakanntgabe) - Schlürer/innen und Klassenstand der beruflichen Schulen der Landeshauptstadt München im Schuljahr 2007 / 2008 mit Stand 20.10.2007 (Bekanntgabe) - Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule im Schuljahr 2007 / 2008 (Bekanntgabe) - Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2007 / 2008 (Bekanntgabe)
+- TOP 13.5.: Bauausschuss vom 12.02.2008 - Absenkung von Bordsteinen im Rahmen von Baumaßnahmen
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Direktorium - Gewährung eines Zuschusses aus dem Budget des BA 21, hier: Bewilligungsbescheid vom 22.01.2008 an die Initiative "Fabrikspatzen" sowie Änderungsbescheid vom 28.01.2008 - Gewährung eines Zuschusses aus dem Budget des BA 21, hier: Bewilligungsbescheid vom 22.01.2008 an die Geschichtswerkstatt "Jüdisches Leben in Pasing und Obermenzing" - Gewährung eines Zuschusses aus dem Budget des BA 21, hier: Bewilligungsbescheid vom 22.01.2008 an den Verein Künstler Spectrum Pasing e.V.
+- TOP 14.2.: Baureferat - Bahnhof Pasing; Beleuchtung der Fahrradabstellanlage an der Südseite des Bahnhofs - Vollzug der Wassergesetze; Bachräumungstermine 2008 für die Stadt- bzw. Stadtrandbäche - Beleuchtung der Fahrradabstellanlage auf der Südseite des Bahnhofs Pasing; Ergebnis des Ortstermins vom 15.01.2008 - Aufstellen der wiederaufgetauchten Bismarckfigur im Pasinger Rathaus
+- TOP 14.3.: Referat für Gesundheit und Umwelt - Hildachstraße 39, Nutzungsänderung eines ehem. Bahngrundstücks in einen Lagerplatz für leere und befüllte Container
+- TOP 14.4.: Kreisverwaltungsreferat - Gehweg in Verlängerung der Eisenhartstraße - "Radfahrer frei"; Verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO - Personenbezogener Sonderparkplatz im Bereich Bodenstedtstraße 10 - Eingeschränktes Haltverbot in der Josef-Retzer-Straße 47 - Vorschlag zur Verbesserung / Ergänzung der Sackgassenbeschilderung für den Haidelweg
+- TOP 14.5.: Kommunalreferat - Lagerung von Aushubmaterial für den Ausbau des Mittleren Ring Süd-West auf einer Landwirtschaftsfläche an der Blumenauer Straße - Verkauf eines städt. Grundstücks an der Mallnitzer Straße
+- TOP 14.6.: Schul- und Kultusreferat - Broschüre "Bildung nach Maß. Der Münchner Weg" - Räumliche Situation am Staatl. Karlsgymnasium
+- TOP 14.7.: Referat für Stadtplanung und Bauordnung - Nußhäherstraße 3, Neubau eines Einfamilienhauses mit Doppelgarage - Tektur - Einwohnerversammlung vom 28.06.2007 zum Thema "Nordumgehung Pasing / Schallschutzwände", hier: Führung der Nordumgehung Pasing im Bereich des Bahnhofs Pasing - Brauereistandort Langwied - Unterschutzstellung einer Eiche in der Kleingartenanlage Maria-Eich-Straße 119 als Naturdenkmal - Bebauungsplan mit Grünordnung Nr. 1992 Stahlstraße (südlich), Hans-Goltz-Weg (westlich) und Pasinger Heuweg (östlich) - Erhaltung des gartenstadtähnlichen Charakters von Obermenzing; Park- & Ride Parkplatz auf dem Weyl-Gelände; Bebauung Pasinger Bahnhof (Anfrage aus der Bürgerversammlung des 21. Stadtbezirks Pasing-Obermenzing, Bezirksteil Obermenzing, am 23.10.2007) - Bahnhof Pasing; Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 Abs. 2 AEG; Barrierefreier Ausbau der S-Bahnsteige München; Errichtung von Fahrradstellplätzen; Erhöhung der Bahnsteige u.v.m.
+- TOP 14.8.: Sozialreferat - Jugendtreff für Obermenzing (Empfehlung Nr. 76 der Bürgerversammlung des 21. Stadtbezirks am 28.04.2005)
+- TOP 14.9.: Stadtkämmerei - Finanzplan 2007 - 2011
+- TOP 14.10.: Referat für Arbeit und Wirtschaft - 850. Stadtgeburtstag; 8. Treffen der Bezirksausschussmitglieder am 24.01.2008 sowie Protokoll hierzu
+- TOP 14.11.: Stadtwerke München GmbH, MVG - Wartehäuschen an der Bushaltestelle Wöhlerstraße, stadteinwärts (Linien 143 und 162)
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: Sozialpolitisches Forum München e.V. - Einladung zur Diskussionsveranstaltung "Bielefelder Modell - Im vertrauten Stadtviertel alst werden und selbtsbestimmt wohnen mit Versorgungssicherheit" am 14.02.2008 um 18.30 Uhr in der Evangelischen Stadtakademie München, Herzog-Wilhelm-Straße 24
+- TOP 14.2.: Baugenossenschaft der Verkehrsbeamten Obermenzing e.G. - Stellungnahmen zur öffentlichen Veranstaltung der CSU Obermenzing vom 10.01.2008 im Zusammenhang mit einem Grundstückskauf durch die Baugenossenschaft der Verkehrsbeamten Obermenzing e.G.
+- TOP 14.3.: Maria-Ward-Schulen Nymphenburg - Ausstellung "Die Weiße Rose - Gesichter einer Freundschaft" von Ende Januar 2008 bis 14.03.2008 in den Maria-Ward-Schulen, Maria-Ward-Straße 5; Einladung zur Ausstellungseröffnung am 30.01.2008 um 19.30 Uhr in der Kirche zur Hl. Dreifaltigkeit, Maria-Ward-Straße 11
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5.: Bezirksausschuss 20 Hadern - Abschaffung oder zumindest deutliche Reduzierung der Nutzungsgebühr, die Sportvereine seit 2004 für Schulturnhallen entrichten müssen
+- TOP 14.6.: Kreisjugendring München-Stadt - Vernissage der Galerie 90 "Komm doch mit nach Indien" am 15.02.2008 um 15.00 Uhr in der Paul-Heyse-Straße 22
+- TOP 14.7.: Verein für Volksmusik und Volkstanz "D`Blutenburgler" e.V. - Zuwendung aus dem Budget des BA 21; Verwendungsnachweis für die Jubiläumsfeier am 16.09.2007
+- TOP 14.8.: Regierung von Oberbayern - Bauvorhaben Feichthofstraße 155
+- TOP 15.: Verschiedenes
+- TOP 15.1.: Nächste Sitzungen des BA 21 am 04.03.2008 um 19.00 Uhr im Alten- und Service-Zentrum Obermenzing, Packenreiterstraße 48, sowie letzte Sitzung der Wahlperiode 2002 bis 2008 am 01.04.2008 um 19.00 Uhr im Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Straße 486
