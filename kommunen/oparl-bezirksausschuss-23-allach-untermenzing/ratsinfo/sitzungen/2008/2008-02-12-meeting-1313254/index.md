@@ -1,0 +1,75 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2008-02-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1313254
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1313254
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Neue Nachtlinie
+- TOP 1.2.: Wunsch nach einem Spielplatz in der Nähe des Kiesweges
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 3.1.: Realisierung der Planungen und der Fertigstellung des 4-gruppigen Hortes an der Schöllstraße in 2008
+- TOP 4.: Entscheidungen
+- TOP 5.: Anhörungen
+- TOP 5.1.: Straßenverbindung Angerlohstraße - Ludwigsfelder Straße - Krauss-Maffei -Schaffung einer Verbindung (Unterführung oder Straße an der Krauss-Maffei-Straße) von Allach nach Untermenzing ( Teilnahme eines Vertreters des Planungsreferates und eines Vertreters der Firma Krauss-Maffei)
+- TOP 5.2.: Budget der Bezirksausschüsse; Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008 Erhöhung der Mittel zur eigenen Verwendung des BA-Budgets
+- TOP 5.3.: Sonderflughafen Oberpfaffenhofen Antrag auf Teilrücknahme vom 30.11.2007
+- TOP 5.4.: Eröffnung eines Lebensmittelgeschäftes auf dem Diamaltgelände
+- TOP 5.5.: Zulassung des Radverkehrs in der St. - Johann - Straße
+- TOP 5.6.: Veranstaltung auf Privatgrund: Geschicklichkeitsturnier am 06.04.08, Dachauer Straße 665
+- TOP 5.7.: Stärkung der Stadtteilkultur
+- TOP 5.8.: Verkehrsrechtl. Anordnung nach § 45 StVO, Gustav-Otto-Bogen
+- TOP 5.9.: Verkehrsrechtl. Anordnung nach § 45 StVO, Karl-Gayer-Straße
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Ablehnungsbescheid einer beantragten Zuwendung aus Budgetmittel; Antragsteller: Verein zur Förderung der Jugendarbeit Allach
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Beleuchtung der Stieglstraße; Sanierung der Naßlstraße; Sanierung der Würmbrücke Paul-Ehrlich-Weg; Sanierung Kreuzungsbereich Silber-/Kleselstraße (Ziffer 1-4 des Antrages)
+- TOP 9.2.: Ausbau der Ludwigsfelder Straße
+- TOP 9.3.: Vollzug der Wassergesetze; Bachräumungstermine 2008 für die Stadt- bzw. Stadtrandbäche
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Absolutes Haltverbot (Z 283) in der Reinhard-von-Frank-Straße
+- TOP 10.2.: Z 250 Stieglstraße, mit Zusatz "Privatstraße - Benutzung auf eigene Gefahr" Anordnung nach § 45 Abs. 3 StVO
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Bauanträge (v. 17.12.-23.12.07; 07.01.-13.01.08; 14.01.-20.01.08; 21.01.-27.01.08 )
+- TOP 11.2.: - Liste der beantragten Baumfällungen (v. 17.-23.12.07; 14.01.-20.01.08; 21.01.-27.01.08)
+- TOP 11.3.: Vollzug der Baumschutzverordnung - Angerlohstraße 30, s. Baumbestandsplan Nr. 2007-73320 - Angerlohstraße 30, s. Baumbestandsplan Nr. 2007-73322
+- TOP 11.4.: Vollzug der Baumschutzverordnung - Korbinian-Beer-Straße, s. Baumbestandsplan Nr. 2007-78622 - Waldhornstr., s. Baumbest.plan Nr. 2007-78745
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: Bildung nach Maß
+- TOP 13.2.: Neue Kindertageseinrichtung am Pasinger Heuweg 58
+- TOP 14: Schreiben des Sozialreferates
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 19.1.: Finanzplan 2007 - 2011
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: Antrag des BA 20: Hadern Abschaffung bzw. Reduzierung der Nutzungsgebühr für Schulturnhallen
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.01.2008 - Initiative "Magistrale für Europa", Vereinbarung zur gemeinsamen Finanzierung der Geschäftsstelle - Verordnung der Landeshauptstadt München zur Aufhebung des § 2 Absatz 2 Nummer 1 und 2 und des § 2 Abs. 3 der Verordnung der Landeshauptstadt München über Mindestabstandsflächen, Höhenlage von Gebäuden, Gestaltung von Dächern und von unbebauten Flächen bebauter Grundstücke in besonderen Siedlungsgebieten vom 14.12.1979, MüABI. Sondernummer 5 vom 18.12.1979 (GVO)
+- TOP 22.2.: Bekanntgabe im Schulausschuss des Stadtrates vom 30.01.2008 - Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2007/2008 - Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2007/2008 - Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2007/2008 - Schüler/innen und Klassenstand; Berufliche Schulen der Landeshauptstadt München im Schuljahr 2007/2008; Stand 20.10.2007 - Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2007/2008
+- TOP 22.3.: Beschluss des Kinder- und Jugendhilfeausschusses vom 08.01.2008 - Investitionskostenförderung gem. Art. 27 BayKiBiG, Kinderkrippe Willi-Wien-Str. 28 (Daycare gGmbH) mit 24 Kinderkrippenplätzen; Umbau bestehender Räume
+- TOP 22.4.: Beschluss des Bauausschusses vom 12.02.2008 - Absenkung von Bordsteinen im Rahmen von Baumaßnahmen, Ziffer 2 des Antrages - Allacher Straße; zwischen Ernst-von-Beling-Straße und Von-Reuter-Straße im 23. Stadtbezirk Allach - Untermenzing; Erstmalige Herstellung
+- TOP 23: Verschiedenes
+- TOP 23.1.: Vorstellung der Planungen zum Spielplatz Servetstraße/Würm durch das Baureferat - Gartenbau
+- TOP 23.2.: Schreiben des ADFC Zulassung von Zweirichtungs-Radverkehr in Einbahnstraßen
+- TOP 23.3.: Sozialpolitisches Forum München e.V.: Einladung zur Podiumsdiskussion "Bielefelder Modell" am 14.02.2008
+- TOP 23.4.: Schreiben des Bayer. Roten Kreuzes wegen Kostenübernahme eines Hinweisschildes und der Bitte um Hilfe bei der Suche einer Halle zur Unterstellung von Fahrzeugen
+- TOP 23.5.: Vorstellung des Projektes "Münchner Krautgärten" am 04.03.08 um 19.00 Uhr im Vereinsheim, Eversbuschstr. 161
