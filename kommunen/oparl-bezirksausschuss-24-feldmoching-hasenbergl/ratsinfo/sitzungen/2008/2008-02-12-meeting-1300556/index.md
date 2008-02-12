@@ -1,0 +1,66 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2008-02-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1300556
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1300556
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Gesamtverein Feldmoching, Dorffasching am 03.02.2008
+- TOP 3.1.: Antrag auf eine Signalanlage Ecke Aschenbrenner- / Schleißheimer Str.
+- TOP 3.2.: Sicherer Schulweg zur Grundschule an der Lerchenauer Str. 322
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Umbau der Kreuzung Aschenbrenner- / Schleißheimer Str.
+- TOP 5.2.: Bebauungsplan mit Grünordnung Nr. 1688 b Schittgablerstraße (nördlich), Löwenzahnweg (südlich)
+- TOP 5.3.: Schleißheimer Straße - Platz am Einkaufszentrum (Nordheide)
+- TOP 5.4.: Gemeinde Oberschleißheim; Flächennutzungsplan-Änderung Nr. 19
+- TOP 5.5.: Zirkusveranstaltungen Dülferanger vom 24.-30.03.2008
+- TOP 5.6.: Zirkusveranstaltungen Dülferanger vom 30.05.-09.06.2008
+- TOP 5.7.: Gemeinde Karlsfeld Bebauungsplan 83 neu; Neue Mitte Karlsfeld
+- TOP 5.8.: Mittelpunktsbibliothek für die Blodigstraße; Überprüfung der Planung für das Schulzentrum an der Nordheide
+- TOP 5.9.: Budget der Bezirksausschüsse Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Beschilderung Sperrengeschoss im U- und S-Bahnhof Feldmoching (BA-Antrag Nr. 2534 vom 06.11.2007)
+- TOP 6.2.: Bepflanzung des Grünzugs B - Feldmochinger Anger (Ba-Antrag Nr. 2454 vom 09.10.2007)
+- TOP 6.3.: Behebung der Gehsteigverengung vor dem Gebäude Lerchenauer Straße 230 (BA-Antrag Nr. 2452 vom 09.10.2007)
+- TOP 6.4.: Taxistand in der Schleißheimer Straße im Bereich des neu entstehenden Einkaufszentrums MIRA (BA-Antrag Nr. 2630 vom 04.12.2007)
+- TOP 6.5.: Schaffung der planungsrechtlichen Voraussetzungen für die Erweiterung der städtischen Sportanlage an der Georg-Zech-Allee (BA-Antrag Nr. 2453 vom 09.10.2007)
+- TOP 6.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7.: Mitteilungen über Grundstücksgeschäfte
+- TOP 6.8.: Zweckentfremdung von Wohnraum
+- TOP 6.9.: Unveränderte Fortführung eines Gaststättenbetriebes: a) "Cafe Amadeus", Feldmochinger Str. 214 b) "Indien Village", Feldmochinger Str. 226
+- TOP 6.10.: Verkehrsrechtlich Anordnungen a) Aufhebung des personenbezogen Behindertenparkplatz in der Stüdlstraße 7 b) Einrichtung von Haltverboten in der Thelottstraße c) Verkürzung des Halteverbots in der Waldmeisterstraße d) Verkehrsberuhigter Bereich Reigersbachstraße e) Absolutes Halteverbot im Wendehammer Auf den Schrederwiesen f) Verkehrsberuhigter Bereich Kletterrosenweg g) Stanigplatz/Blodigstraße, Anbringung gelber Blinklichter
+- TOP 6.11.: Meldelisten Bauvorhaben
+- TOP 6.12.: Meldelisten - Baumfällungsanträge
+- TOP 6.13.: Meldelisten - Baumaßnahmen der Stadtwerke
+- TOP 6.14.: Finanzplan 2007 - 2011
+- TOP 6.15.: Vollzug der Wassergesetze; Bachräumungstermine 2008 für die Stadt- bzw. Stadtrandbäche
+- TOP 6.16.: Schaffung von P-R-Plätzen am Bahnhof Feldmoching (BV-Empfehlung Nr. 736 vom 22.05.2007)
+- TOP 6.17.: Bekanntgabe zum EU-Projekt MILUnet Ergebnisse der Beteiligung der Landeshauptstadt München am EU-Projekt MILUnet (Multifunctional Intensive Land Use Network)
+- TOP 6.18.: Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München - Ersteinschätzung und weiteres Vorgehen (Hinweis und Ergänzung vom 14.12.2007)
+- TOP 6.19.: Beteiligung der Öffentlichkeit Frühzeitige Unterrichtung Bebauungsplan mit Grünordnung Nr. 1688 b Schittgablerstraße (nördlich), Löwenzahnweg (südlich)
+- TOP 6.20.: Wohnungsmarkt München Expertenbefragung 2007
+- TOP 6.21.: Initiative "Magistrale für Europa" Vereinbarung zur gemeinsamen Finanzierung der Geschäftsstelle
+- TOP 6.22.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2007/2008
+- TOP 6.23.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2007/2008
+- TOP 6.24.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2007/2008
+- TOP 6.25.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2007/2008 Stand 20.12.2007
+- TOP 6.26.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2007/2008
+- TOP 6.27.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1933 Trollblumenstraße (südlich), Blaukissenweg (beidseitig) und Bahnlinie München - Regensburg (westlich)
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2.: Informationsveranstaltungen im Schulreferat
+- TOP 7.3.: Runder Tisch - Ludwigsfeld
+- TOP 7.4.: Runder Tisch - Dauerhafte Einrichtung von Ganztagsklassen an der Grundschule an der Thelottstraße
+- TOP 7.5.: Unterausschuss Jugend, Soziales, Schule, Kultur
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
