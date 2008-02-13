@@ -1,0 +1,53 @@
+# 28. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-02-13T17:40:00+01:00
+- Ende: 2008-02-13T19:55:00+01:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6249
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6249
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00260744.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 7.1: Erhöhung der Haushaltsmittel für die Sanierung der Spielplätze im Stadtbezirk Mitte - verwiesen
+- TOP 8: Anregungen des Ausländerbeirates
+- TOP 9: Bürgerbegehren "Keine städtische Finanzierung einer "Kultur- und Kongresshalle" (Musikhalle) auf dem
+- TOP 9.1: Bürgerbegehren - einstimmig beschlossen
+- TOP 9.2: Bürgerbegehren "Keine städtische Finanzierung einer "Kultur- und Kongresshalle" (Musikhalle) auf dem - mehrheitlich beschlossen
+- TOP 10: Kooperation zwischen der Stadtwerke Münster GmbH und der Stadtwerke Osnabrück AG - einstimmig beschlossen
+- TOP 11: Beförderungsentgelte und -bedingungen für die von der Stadt Münster zugelassenen Taxen - einstimmig beschlossen
+- TOP 12: Gewährung von Kleingartendarlehen an den Stadt- und Bezirksverband der Kleingärtner e.v. - einstimmig beschlossen
+- TOP 13: Bauleitplanung
+- TOP 13.1: Stadtbezirk Münster-Hiltrup
+- TOP 13.1.1: Bebauungsplan Nr. 137 II, 4. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 14: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 15: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 15.1: Kinderschutzarbeit als Präventionsaufgabe - verwiesen
+- TOP 15.2: Internationalen Studenten und Wissenschaftlern den Start in Münster erleichtern - verwiesen
+- TOP 15.3: Ein sicherer Start in´s Kinderleben! - verwiesen
+- TOP 15.4: Chance Ganztagsschule - Positive Auswirkungen der gebundenen Ganztagsgrundschule - verwiesen
+- TOP 15.5: Zu: Einrichten einer Umweltzone in Münster "Innerstädtische Feinstaubbelastung senken" - verwiesen
+- TOP 15.6: "Stadtbild verschönern" - verwiesen
+- TOP 15.7: Soziale Verantwortung in der öffentlichen Daseinsvorsorge: - verwiesen
+- TOP 15.8: Transparenz bei der Energiepreisgestaltung - verwiesen
+- TOP 15.9: Ausbildung geht vor! - verwiesen
+- TOP 15.10: Hindenburgplatz: Rückbenennung in Neuplatz - verwiesen
+- TOP 15.11: Integration vor Aussonderung - verwiesen
+- TOP 15.12: OSMO-Gelände: Vorkaufsrecht ausüben! - verwiesen
+- TOP 15.13: Elementarbildung braucht genug Personal - - verwiesen
+- TOP 15.14: Eltern stärken - Kinder schützen! Aktionsplan für einen besseren Schutz von Kindern in Münster - verwiesen
+- TOP 15.15: Die Preisgünstigen Wohnungsbestand in Münster sichern: WGM- und GWN-Wohnungen im Stadtgebiet erwerbe - verwiesen
+- TOP 16: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 17: Verschiedenes
