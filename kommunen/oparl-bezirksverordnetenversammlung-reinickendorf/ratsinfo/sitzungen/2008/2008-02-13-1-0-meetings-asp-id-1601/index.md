@@ -1,0 +1,90 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2008-02-13T17:06:00+01:00
+- Ende: 2008-02-13T21:58:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1601
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1601
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=36858
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - im Ausschuss abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Feststellungen - (offen)
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gem. § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Straßenbeleuchtung auf dem Zabel-Krüger-Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Sicherheit in der Cité Foch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Das ausnahmslose Rauchverbot in öffentlichen Gebäuden vorbereiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Gastankstellenverzeichnis in Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.5: Inventar des Centre Bagatelle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Kontaktstelle der Polizei für Reinickendorf-Ost erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Linksabbiegerspur Kreuzung Oranienburger Str. / Eichborndamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Anpassung des Jagdrechts - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.9: Beschilderung im Wald - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.10: Reitwege im Wald - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.11: Entwurf des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2008 und 2009 (Doppelhaushalt) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.12: Agendabeirat - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.13: Baustelleninformationen im Internet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.14: Mobiles Bürgerbüro zur Unterstützung des Volksbegehrens einsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.15: Erlass der Verordnung über die Veränderungssperre 12-18B/44 für das Grundstück Ernststraße 7 im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 6.16: Aufstellung des Bebauungsplanes 12-19 für die Grundstücke Tegeler Straße 2-12, Berliner Straße 137-145, Robinienweg 1-5 sowie für den Robinienweg im Bezirk Reinickendorf, Ortsteil Hermsdorf im Bezirk Reinickendorf - überwiesen
+- TOP 6.17: Bebauungsplanentwurf XX-288 für die Tegeler Hafeninsel, das Grundstück Karolinenstraße 21 u. a. im Bezirk Reinickendorf, Ortteil Tegel - überwiesen
+- TOP 6.18: Aufstellung des Bebauungsplanes 12-20 für eine Teilfläche des Grundstücks Wilhelmsruher Damm 114/126, Senftenberger Ring 2/32, Wesendorfer Straße 1 und Treuenbrietzener Straße 1/15 sowie einen Abschnitt des Wilhelmsruher Damms im Bezirk Reinickendorf, Ortsteil Märkisches Viertel - überwiesen
+- TOP 6.19: Entwurf des Bebauungsplanes 12-15 vom 29. Mai 2007, für das Grundstück Alter Bernauer Heerweg 41-45 (Siedlung Rathenow) im Bezirk Reinickendorf, Ortsteil Lübars. - überwiesen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Nachbarschaftshilfe für Sicherheit in Reinickendorf - beantwortet
+- TOP 7.2: Gesundheitskonferenz 2008 - vertagt
+- TOP 7.3: Jugendgerichtshilfe - vertagt
+- TOP 7.4: Früherkennungsuntersuchungen - vertagt
+- TOP 7.5: Warum beschädigt der stellvertretende Bürgermeister die Beziehung zu großzügigen Geldgebern des Bezirks? - vertagt
+- TOP 7.6: Ankündigungs-Luftblase: Senkung der Kosten des Schulessens - Versagen des Senats seit Monaten - vertagt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Neuwahl zu Schiedspersonen - gewählt
+- TOP 8.2: Aufstellung der Vorschlagsliste für die Wahl der ehrenamtlichen Richter beim Oberverwaltungsgericht Berlin-Brandenburg für die Amtsperiode ab 19.08.2008 bis 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Längerfristige Perspektiven Schulstandorte - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Für ein offenes und tolerantes Miteinander in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Mieterhöhungen der Gesobau - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Soziale Problemgruppen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Alternative Wohnformen für Ältere - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Öffentliches Grün in Reinickendorf - erledigt
+- TOP 9.7: Seniorenvertretung räumlich unterstützen - erledigt
+- TOP 9.8: Hochbegabtenförderung in Reinickendorf ausbauen - erledigt
+- TOP 9.9: Schulsekretariate - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Schließzeit in der Betreuung an Ganztagsschulen - erledigt
+- TOP 9.11: Stunden für individuellen Förderbedarf - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Schulessen und Schulmaterial für Schulkinder aus sozial schwachen Familien - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Rufumleitung von den Schulen in den Hort - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Rettung der Wiesen in Lübars - überwiesen
+- TOP 9.15: Dienstanweisung zum Umgang mit Zuwendungen - vertagt
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Reinickendorf zeigt Flagge - Regenbogenfahne wird ab 2008 gehisst! - ohne Änderungen in der BVV beschlossen
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Musikbetonte Grundschulen in Reinickendorf - überwiesen
+- TOP 11.2: Konzept anlässlich des 40-jährigen Bestehens der Graphothek - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Energetische Sanierung des Rathauses - überwiesen
+- TOP 11.4: Kostenübernahme bei Heimpflege - überwiesen
+- TOP 11.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.6: Verkehrsberuhigung Frohnau - überwiesen
+- TOP 11.7: Trinkwasserspender an Schulen - überwiesen
+- TOP 11.8: Finanzierungskonzept für die Serenade am See 2008 - vertagt
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: S-Bahnhof Wilhelmsruh "barrierefrei" - ohne Änderungen in der BVV beschlossen
+- TOP 13: Senkung der Kosten des Schulessens - vertagt
+- TOP 14: Persönliches Budget - vom Modellprojekt zum Rechtsanspruch (SGB IX § 17) - überwiesen
+- TOP 15: Tourismusförderung in Reinickendorf: Wie man gegen den Berliner Trend mit viel Geld Misserfolge produziert - vertagt
+- TOP 16: Intensivtäter in Reinickendorf - beantwortet
+- TOP 17: Nichtraucherschutz in Reinickendorfer Gaststätten - beantwortet
+- TOP 17.1: Nichtraucherschutz in Reinickendorfer Gaststätten - überwiesen
+- TOP 18: Konzept zur Schärfung des Bewusstseins für die Belange von Schwulen und Lesben im Bezirk entwickeln - erledigt
+- TOP 18.1: Konzept zur Schärfung des Bewusstseins für die Belange von Schwulen und Lesben im Bezirk entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 19: Spielplatz für Ältere in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 20: Mittelstreifen auf der Residenzstraße kostenlos verschönern - zurückgezogen
