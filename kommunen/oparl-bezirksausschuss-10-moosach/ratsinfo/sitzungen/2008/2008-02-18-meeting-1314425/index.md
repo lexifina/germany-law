@@ -1,0 +1,92 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2008-02-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1314425
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1314425
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Gehsteigführung Leipziger Straße / Siegmund-Schacky-Straße
+- TOP 2.2.: Vorstellung der REGSAM-Moderatorinnen
+- TOP 2.3.: Wohngebiet Dillinger- / Lauinger Straße
+- TOP 2.4.: Parkplatz beim Post SV
+- TOP 2.5.: Gehsteigparken in Moosach
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Informationen des Schulreferates für die BA's
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Haylerstraße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Ergänzende Qualifizierungsmaßnahme Hauptschulabschluss
+- TOP 4.2.: Führungen in Naturgebieten
+- TOP 4.3.: Biotopkartierung des Rangierbahnhofgeländes
+- TOP 4.4.: DHL-Packstation an der Triebstraße 39
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Kreuzweg St. Raphael - <div>Es soll noch eine Erläuterung durch die Pfarrgemeinde erfolgen</div>
+- TOP 4.2.: Kurzstreckentarif für Kinder
+- TOP 4.3.: Bolzplatz Dillinger Straße - <div>Der Reinigungszyklus wird telefonisch erfragt. </div>
+- TOP 4.4.: Radfahren am Moosacher St. Martins-Platz - <div>zurückgezogen </div>
+- TOP 4.5.: Zustand der Wege im Westfriedhof
+- TOP 4.6.: Nachfolgenutzung Sport Experts
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 10: Jugend St. Martin Moosach: Fastenlauf am 18.02.2008 - <div>Aus rechtlichen Gründen abgelehnt </div>
+- TOP 5.2.: Sondernutzungserlaubnis Pelkovenstr. Ecke Hanauer Straße - <div>vertagt</div>
+- TOP 5.3.: Entscheidung über dioe Einrichtung/Änderung/Aufhebung eines Taxistandes an der Südwestseite der Dachauer Straße vor Anwesen 421 (Hotel Mayerhof)
+- TOP 6.: Anhörungen
+- TOP 6.1.: Umstufung einer Teilstrecke des Weiherweges
+- TOP 6.2.: Budget der Bezirksausschüsse; Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008 (Antrag des BA 13 Bogenhausen)
+- TOP 6.3.: Stärkung der Stadtteilkultur
+- TOP 6.4.: Städtische Kindertagesstätte an der Alfred-Drexel-Str. 11 a; Kooperation mit der Stadtsparkasse München; Errichtung und Ausstattung eines kindergartens mit 50 Plätzen
+- TOP 6.5.: Verkauf einer städtischen Immobilie: Gneisenaustraße
+- TOP 6.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Zusammenlegung und Modernisierung der Verkehrszentrale und der technischen Betriebszentrale in der Schragenhofstraße (Beantwortung der Fragen des BA 10)
+- TOP 7.2.: Einsatz mobiler Geschwindigkeitsanzeigen zur aktiven Verkehrserziehung (abgelehnt)
+- TOP 7.3.: Gebundene Ganztagsschule für die Hauptschule an der Leipziger Staße (Entscheidung liegt in der Zuständigkeit des Bayer. Staatsministeriums für Unterricht und Kultus)
+- TOP 7.4.: Halteverbot am westlichen Ende des Glogauer Platzes (wurde angeordnet)
+- TOP 7.5.: Geschwindigkeits- und Parkkontrollen in der Schegastraße (wird bereits durchgeführt - Beanstandungen unter dem Durchschnitt)
+- TOP 7.6.: Beleuchtung des Rad- / Fußweges "Am Kapuzinerhölzl" (wird installiert)
+- TOP 7.7.: Errichtung einer Ampelanlage am Wintrichring auf Höhe In den Kirschen (ist beschlossen)
+- TOP 7.8.: Runder Tisch Dillinger - / Lauinger Straße (wird aufgegriffen)
+- TOP 7.9.: Radwege am Rangierbahnhof München-Nord (Unterhalt künftig durch die Stadt)
+- TOP 7.10.: Reinigung der Bike & Ride Anlage Olympiaeinkaufszentrum (häufigere Reinigung erfolgt)
+- TOP 7.11.: Straßennamenbeschilderung Trinklsiedlung (wurde durchgeführt)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Bachräumungstermine 2008 für die Stadt- bzw. Stadtrandbäche
+- TOP 8.4.: Abschaffung der Nutzungsgebühr für Schulturnhallen (Antrag des BA 20 Hadern)
+- TOP 8.5.: Aufhebung des Bebauungsplanes Nr. 904 Wildermuthstraße, Dachauer Straße, Güterumgehungsbahn München-Nord und Bahnlinie München-Landshut
+- TOP 8.6.: Bebauungsplan mit Grünordnung Nr. 1940 a: Bunzlauer Platz, Bauberger Str. und Bahnlinie München-Regensburg
+- TOP 8.7.: Ausländerbeirat zur Diskussion um Jugendgewalt
+- TOP 8.8.: Wohnungsmarkt München; Expertenbefragung 2007
+- TOP 8.9.: Lärmminderungsplan für München
+- TOP 8.10.: Initiative "Magistrale für München"
+- TOP 8.11.: 850. Stadtgeburtstag: Meldeformulare
+- TOP 8.12.: 850. Stadtgeburtstag: 8. Treffen der Bezirksausschüsse
+- TOP 8.13.: 850 Gesichter Münchens (Kunstprojekt)
+- TOP 8.14.: Übertragung der Restmittel des BA 17 aus dem Budgetanteil für BA-eigene Veranstaltungen des Jahres 2006 in das Jahr 2008 zur Finanzierung der Veranstaltungen im Rahmen des 850. Stadtgeburtstages
+- TOP 8.15.: Information über das Betriebskonzept während der Kabelarbeiten am Petuelring
+- TOP 8.16.: Projekt Pelkovenstraße zwischen Feldmochinger Straße und Ehrenbreitsteiner Straße
+- TOP 8.17.: Absenkung von Bordsteinen im Rahmen von Baumaßnahmen
+- TOP 8.18.: Grundstückserwerb In den Kirschen
+- TOP 8.19.: Errichtung einer Halteverbotszone Hanauer Straße Ecke Dessauer Straße
+- TOP 8.20.: BA-Anträge auf Zulassung von Zweirichtungs-Radverkehr in Einbahnstraßen (Schreiben des ADFC)
+- TOP 8.21.: Finanzplan 2007-2011
+- TOP 8.22.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art
+- TOP 8.23.: Schüler/innen und Klassenstand Berufliche Schulen
+- TOP 8.24.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt und Förderschulen, der städt. Tagesheime und Heimpädagogischen Tagesstätten
+- TOP 8.25.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule
+- TOP 8.26.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2007/2008
+- TOP 4: Anträge
