@@ -1,0 +1,153 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2008-02-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1317826
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1317826
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Münchner Forum e.V. (Az.: 08/06 - 3.6.1): Zuschuss in Höhe von 5000 ? für die Ausstellung "Münchner Maßstäbe" zur 850-Jahr-Feier der LH München
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürgeranliegen: Verkehrssituation an den Schulen rund um die Albrechtstraße; hier: Verlegung eines Zebrastreifens
+- TOP 3.2.: Antrag SPD: Freigabe für das Fahren auch in Gegenrichtung auf den beidseitigen Radwegen der Waisenhaus-/Dantestraße ab St. Galler-Straße und Nördliche Auffahrtsallee bis zur Baldurstraße
+- TOP 3.3.: ADFC: Zulassung von Zweirichtungs-Radverkehr in Einbahnstraßen
+- TOP 3.4.: Gleiserneuerung am Leonrodplatz und in der Dachauer Straße / Vorstellung durch die MVG
+- TOP 3.5.: Baumaßnahmen der Stadtwerke im Januar 2008
+- TOP 3.6.: Referat für Arbeit und Wirtschaft: Endhaltestelle der Buslinie 132 (Anfrage aus der Bürgerversammlung vom 22.11.07)
+- TOP 3.7.: Baureferat: Sanierung der Blutenburgstraße ( Anfrage aus der Bürgerversammlung vom 22.11.07 )
+- TOP 3.8.: KVR: Verkehrsrechtliche Anordnung: Feuerwehrzufahrt Rainer-Werner-Fassbinder-Platz
+- TOP 3.9.: Beschluss des Bauausschusses vom 12.02.08: Absenkung von Bordsteinen im Rahmen von Baumaßnahmen
+- TOP 3.10.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.01.08: Initiative "Magistrale für Europa", Vereinbarung zur gemeinsamen Finanzierung der Geschäftsstelle
+- TOP 3.11.: Beschluss der Vollversammlung des Stadtrats vom 19.12.07: Bündnis für Ökologie; Leitprojekt 2: Mehr Platz für den Umweltverbund, Teilprojekt Stadtviertelkonzept Nahmobilität
+- TOP 3.12.: Planungsreferat: MOBINET-Auftrag zu Anwohnertiefgaragen; hier: Dom-Pedro-Straße (Schreiben BA 9 vom 14.12.07)
+- TOP 3.14.: KVR: Bürgeranliegen: Öffnung der Durchfahrt von der Braganzastraße zur Johann-Schmaus-Straße / Änderung der Haltverbotszeiten auf dem Baustellenbetrieb am Dom-Pedro-Platz (Schreiben BA 9 vom 20.11.07)
+- TOP 3.15.: KVR: Verkehrsrechtliche Anordnung: Absolutes Haltverbot Nordseite Sprunerstraße gegenüber Dachauer Str. 223/227
+- TOP 3.16.: KVR: Mangelhafte Straßenbeläge im 9. Stadtbezirk; hier: Klugstraße (Schreiben BA 9 vom 18.12.07)
+- TOP 3.17.: Beschluss der Vollversammlung des Stadtrats vom 19.12.07: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007
+- TOP 3.18.: Bürgeranliegen: Entfall der Linie 151
+- TOP 3.19.: Beschluss der Vollversammlung des Stadtrats vom 19.12.07: Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München - Ersteinschätzung und weiteres Vorgehen
+- TOP 3.20.: KVR: Rad-/Fußweg Canalettostraße - Kuglmüllerstraße: Konfliktsituation zwischen Fußgängern und Radfahrern (Antrag Nr. 2182 des BA 9 vom 19.06.07)
+- TOP 3.21.: =&gt; dazu: Bürgeranliegen: Zustand des Fuß- und Radwegs an der Canalettostraße zwischen Dante- und Ponzonestraße (Wiedervorlage aus der Sitzung vom 19.06.07)
+- TOP 3.22.: KVR: Errichtung einer Ampelanlage am Wintrichring in Höhe In den Kirschen (Schreiben BA 9 vom 15.01.08)
+- TOP 3.23.: =&gt; dazu: Antrag von Frau Stadträtin Schosser aus der Rathaus-Umschau: Vorgezogener Bau einer Fußgängerampel und evtl. einer Bushaltestelle an der Kreuzung In den Kirschen / Wintrichring
+- TOP 3.24.: Fußgängerbrücke Wintrichring / In den Kirschen
+- TOP 3.25.: Baureferat: Markierung der Parkscheinautomaten im Sektor II Neuhausen
+- TOP 3.26.: Planungsreferat: Parkraummanagement in Neuhausen; zeitlich befristete Parklizenz (Schreiben BA 9 vom 17.01.08)
+- TOP 3.27.: Beschluss der Vollversammlung des Stadtrats vom 23.01.08: 2. S-Bahn-Stammstrecke München; Sach- und Verfahrensstand; ergänzende Informationen; weiteres Vorgehen
+- TOP 3.28.: Planungsreferat: Neuer Busbahnhof Arnulfstraße - Vermeidung von Belastungen für Anwohner auf den Anfahrtsrouten (Schreiben BA 9 vom 18.12.07)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Planungsreferat: Bautennachweise vom 17.12. - 23.12., 24.12. - 30.12.07, 31.12.07 - 06.01.08, 07.01. - 13.01., 14.01. - 20.01. und 21.01. - 27.01., 28.01. - 03.02. und 01.01. - 27.01.08
+- TOP 3.2.: Bauvorhaben Hanebergstraße, WA 3: Baumfällungen
+- TOP 3.3.: Planungsreferat: Errichtung einer Werbeanlage, Menzinger Str. 38
+- TOP 3.4.: Kommunalreferat: Mitteilung über ein Grundstücksgeschäft; hier: In den Kirschen
+- TOP 3.5.: Die GBW Gruppe informiert
+- TOP 3.6.: Bauvorhaben Nymphenburger Str. 191: Neubau des Dachgeschosses und Sanierung des Wohn- und Geschäftshauses
+- TOP 3.7.: Bauvorhaben Hanebergstraße, WA 2: Neubau einer Wohnanlage (54 WE) mit Tiefgarage
+- TOP 3.8.: Bauvorhaben Richildenstr. 62: Neubau eines Mehrfamilienhauses, Vorbescheid
+- TOP 3.9.: Bauvorhaben Dall'Armistr. 36: Bebauung der Grundstücke Dall'Armistr. 36-42, Vorbescheid
+- TOP 3.11.: Sachbericht zur Gewährung eines Zuschusses aus dem Budget des BA 9; hier: Ausstellung "Münchner Kleinode"
+- TOP 3.12.: Bauvorhaben Hertha-/Wotanstraße: Neubau eines Wohngebäudes mit 131 WE und Tiefgarage, Tektur
+- TOP 3.13.: Planungsreferat: Beschlussvorlage: Dachauer Str. 110-114 und Luitpold-Kaserne, Leonrodplatz, Dachauer Straße (östlich), Schwere-Reiter-Straße (südlich), Infanteriestraße (westlich); Grundsatz- und Eckdatenbeschluss
+- TOP 3.14.: =&gt; dazu: Stellungnahme BA 4 Schwabing-West
+- TOP 3.15.: Freie Turnerschaft München-Gern e.V. Sportanlage Hanebergstraße/Braganzastraße 9. Stadtbezirk (Neuhausen-Nymphenburg) Erweiterung des vereinseigenen Umkleide- gebäudes mit Vereinsheim auf der Sportan- lage Hanebergstraße durch die Freie Turnerschaft München-Gern e.V. Gewährung von Zuwendungen
+- TOP 3.16.: Bürgeranliegen: Bauvorhaben Wohnblock Romanstr. 47
+- TOP 3.17.: Bauvorhaben Birketweg 2-14: Abgrabung der antrophogenen Auffüllung im Zuge der Baufeldfreimachung
+- TOP 3.18.: Bürgeranliegen: Denkmal für Alfred Andersch am Trafo
+- TOP 3.19.: Direktorium: Kommission Kunst am Bau; Stimmrecht des BA 9 (Schreiben BA 9 vom 18.12.07)
+- TOP 3.20.: Beschluss des Schulausschusses vom 30.01.08: Errichtung einer Kooperationseinrichtung; Entfernung der Altlasten
+- TOP 3.21.: Zweckentfremdung:
+- TOP 3.22.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Döllingerstraße
+- TOP 3.23.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Dall'Armistraße
+- TOP 3.24.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Blutenburgstraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Nymphenburger Str. 98: Fällung von 2 Eschen
+- TOP 3.2.: Baureferat: Fällung von 2 Ahorn in der Dachauer Str. 110 d / e
+- TOP 3.3.: Baureferat: Unterrichtung über das Fällen von Gefahrenbäumen im 9. Stadtbezirk
+- TOP 3.4.: Baureferat: Bachräumungstermine 2008 für die Stadt- bzw. Stadtrandbäche
+- TOP 3.5.: Planungsreferat: Fällungsgenehmigung Thorwaldsenstr. 19
+- TOP 3.6.: Antrag DacG / Die Grünen: Der BA 9 spricht sich grundsätzlich gegen das Aufstellen von Gasheizstrahlern auf öffentlichem Grund aus
+- TOP 3.7.: Baureferat: Verschmutzte und beschädigte Sitzbänke an der Südlichen Auffahrtsallee (Nymphenburger Kanal) und am Nymphenburg-Biedersteiner-Kanal (Antrag Nr. 2463 BA 9 vom 16.10.07)
+- TOP 3.8.: Umgestaltung des Nord-Ost Eingangs (Wilhelm-Hale-Straße/Arnulfstraße) zum Hirschgarten / Vorstellung durch das Baureferat
+- TOP 3.9.: Bürgeranliegen: Nochmalige Überprüfung der Entfernung der Wertstoffcontainer Irnfried-/Herthastraße
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Antrag SPD: Projekt "Wohnen im Viertel" für Neuhausen
+- TOP 3.2.: Antrag SPD: Jedem Kind ein Instrument
+- TOP 3.3.: Anfrage CSU: Empfehlung zum Schulwechsel für Schülerinnen und Schüler der 10. Klasse des Adolf-Weber-Gymnasiums
+- TOP 3.4.: Kreisjugendring: Kindern und Jugendlichen Spiel und Bewegung ermöglichen !
+- TOP 3.5.: BA 20 Hadern: Abschaffung der Nutzungsgebühren für Schulturnhallen für Sportvereine
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.9.: Anfrage an Sozialreferat: Besetzung der Streetworkerstelle
+- TOP 3.10.: Einladung zur Sitzung der PSAG West am 14.02.08
+- TOP 3.11.: Einladung zur Sitzung der ÖAG "Alte Menschen" am 25.02.08
+- TOP 3.12.: Schulreferat: Broschüre "Bildung nach Maß. Der Münchner Weg"
+- TOP 3.13.: Bekanntgabe im Schulausschuss vom 30.01.08: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2007/2008
+- TOP 3.14.: Bekanntgabe im Schulausschuss vom 30.01.08: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2007/2008
+- TOP 3.15.: Bekanntgabe im Schulausschuss vom 30.01.08: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2007/2008
+- TOP 3.16.: Bekanntgabe im Schulausschuss vom 30.01.08: Schüler/innen und Klassenstand Berufliche Schulen im Schuljahr 2007/2008
+- TOP 3.17.: Bekanntgabe im Schulausschuss vom 30.01.08: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2007/2008
+- TOP 3.18.: Anfrage Bündnis 90 / Die Grünen: Erweiterung des Sportangebots der Vereine für Mädchen
+- TOP 3.19.: Bezirk Oberbayern: Zuständigkeitswechsel bei der Eingliederungshilfe für Menschen mit Behinderung (Schreiben BA 9 vom 18.12.07)
+- TOP 3.20.: Projekt Sozialkunde in der gymnasialen Oberstufe / Vorschläge der UA's Verkehr, Bau und Kultur
+- TOP 3.21.: Sportplatz Schule Alfonsstraße (Wiedervorlage aus der Sitzung vom 15.01.08)
+- TOP 3.22.: Grundschule Südl. Auffahrtsallee: Modellprojekt "Soziale Beratung"
+- TOP 3.23.: Evangelische Jugend München: Mobiles Spielangebot in der Siedlung Nederling / Einstellung des Jugendwohnens / Schulsozialarbeit an der Hauptschule Winthirplatz (Schreiben BA 9 vom 20.11. und 18.12.07)
+- TOP 3.24.: Schulreferat: Zukunft der Grundschule an der Maria-Ward-Straße (Schreiben BA 9 vom 20.11.07)
+- TOP 3.25.: Sozialreferat: Neue Wege in der Wohnraumversorgung für ältere Bürgerinnen und Bürger (Schreiben BA 9 vom 20.11.07)
+- TOP 3.26.: BA-Kinderfest am 08.06.08
+- TOP 3.27.: Sozialreferat: Ausbau des Gemeinschaftszentrums Integriertes Wohnen II zum quartiersbezogenen Begegnungszentrum (Antrag BA 9 Nr. 2183 vom 19.06.07)
+- TOP 3.28.: Verwendungsnachweis für einen Zuschuss aus dem Budget; hier: Sozialpsychiatrische Dienste Neuhausen
+- TOP 3.29.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.30.: Schulreferat: Ganztagsschulen im 9. Stadtbezirk; Errichtung der Grundschule Nymphenburg Süd als Ganztagsschule (Schreiben BA 9 vom 20.11.07)
+- TOP 3.31.: Schulreferat: Grundschule Gertrud-Bäumer-Str. 19 / Schulfreisportanlage (Schreiben BA 9 vom 18.12.07)
+- TOP 3.32.: Liste Mehrjahresinvestitionsprogramm für die Jahre 2007-2011, Sozialbereich (Wiedervorlage aus der Sitzung vom 19.06.07)
+- TOP 3.33.: Mehrgenerationen-Haus am Reinmarplatz; Vorstellung durch Wogeno eG
+- TOP 3.34.: Antrag CSU: Umgehende Errichtung der Grundschule im Neubaugebiet Nymphenburg Süd
+- TOP 3.35.: =&gt; dazu: Schulreferat: Schnellstmögliche Planung und Bau der Grundschule Nymphenburg Süd (Empfehlung Nr. 971 der Bürgerversammlung vom 22.11.07) - Zwischennachricht
+- TOP 3.36.: =&gt; dazu: Bürgeranliegen: Aktueller Stand zur Schulplanung Nymphenburg Süd
+- TOP 3.37.: Bekanntgabe in der Sitzung des Schulausschusses vom 09.01.08: Realisierungswettbewerb; Neubau einer 3zügigen Grundschule mit 6gruppigem Tagesheim, Einfachsporthalle und Freisportanlage am Arnulfpark; Bekanntgabe des Ergebnisses
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.1.: Stellungnahme des Ausländerbeirates zur aktuellen Diskussion um Jugendgewalt
+- TOP 3.2.: Sozialreferat: Förderprogramm HIPPY (Home Instruction for Parents of Preschool Youngsters)
+- TOP 3.3.: Schließung der Gemeinschaftsunterkünfte Emma-Ihrer-Straße und Rosa-Luxemburg-Platz (Antwort Sozialreferat auf eine Anfrage von Frau Stadträtin Schmucker)
+- TOP 3.4.: Direktorium: Zuwendung aus dem Budget des BA 9; hier: Münchner Gärten der Kulturen e.V.
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.1.: Kulturreferat: Beschlussvorlage "Stärkung der Stadtteilkultur"
+- TOP 3.2.: Kulturreferat: Veranstaltungen im Februar 2008
+- TOP 3.4.: Kulturreferat: Beschlussvorlage "Änderung der Öffnungszeiten bei den Stadtbibliotheken Neuhausen und Nymphenburg" (Antrag BA 9 Nr. 2587 vom 20.11.07)
+- TOP 3.5.: Sachbericht zu einem Zuschuss aus dem Budget; hier: realitaets büro
+- TOP 3.6.: Direktorium:Budget des BA 9; hier: Initiative Kultüren
+- TOP 3.7.: Baureferat: Gedenkstein vor dem Anwesen Jagdstr. 14 (Schreiben BA 9 vom 20.11.07)
+- TOP 3.8.: Antrag Münchner Forum e.V.: Zuschuss in Höhe von 5000 ? für die Ausstellung "Münchner Maßstäbe" zur 850-Jahr-Feier der LH München
+- TOP 3.9.: Referat für Arbeit und Wirtschaft: 850. Stadtgeburtstag; 8. Treffen der Bezirksausschüsse am 24.01.08
+- TOP 3.10.: Bürgeranliegen: 850 Gesichter Münchens (Projekt zum 850. Stadtgeburtstag)
+- TOP 3.11.: Beschlus der Vollversammlung des Stadtrats vom 19.12.07: Bauträgerauswahl für ein Baugrundstück im Rahmen des Kommunalen Wohnungsbauprogramms
+- TOP 3.12.: Projekt "Bürgerinnen und Bürger gestalten ihre Stadt" / Aktuelles
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Bürgeranliegen: Aufstellen einer Schautafel der Stephanuskirche am Rotkreuzplatz
+- TOP 4.2.: Freunde der Freiwilligen Feuerwehr München: Vorabinformation zum Budgetantrag für die Beschaffung von Navigationsgeräten
+- TOP 4.3.: Direktorium: Budget der Bezirksausschüsse; Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008
+- TOP 4.4.: Stadtkämmerei: Finanzplan 2007 - 2011
+- TOP 4.5.: Voranfrage für eine Freischankfläche in einer Grünfläche für eine Bäckerei in der Elvirastr. 17 a
+- TOP 4.6.: KVR: "Bavaria Billard Sport Bar", Landshuter Allee 87; Neuerrichtung
+- TOP 4.7.: KVR: "Kumasan", Blutenburgstr. 31; Pächterwechsel
+- TOP 4.8.: KVR: Stadt-Triathlon im Olympiapark und in der Ackermannstraße am 18.05.08
+- TOP 4.9.: Bürgeranliegen: Holsteiner Friesenmarkt
+- TOP 4.10.: Beschluss des Bauausschusses vom 12.02.08: Anerkennung der Turmuhr der Stephanuskirche als öffentliche Uhr
+- TOP 4.11.: KVR: Absage der Marktschreiertage am Rotkreuzplatz vom 30.05. - 01.06.08
+- TOP 5.: Verschiedenes
+- TOP 3.3.: Projekt Sozialkunde in der gymnasialen Oberstufe / Vorschläge des UA
