@@ -1,0 +1,88 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2008-02-20T17:00:00+01:00
+- Ende: 2008-02-20T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1174
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1174
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Lesbarkeit von Straßenschildern - beantwortet
+- TOP 3.2: Unternehmensansiedlung Audi - beantwortet
+- TOP 3.3: Schwarzer Weg, schwarzes Loch - beantwortet
+- TOP 3.4: Verlagerung der Kita- und Hort-Gutschein-Anmeldung - beantwortet
+- TOP 3.5: Chemikalien auf der Rehwiese - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten: Dringlichkeitsfeststellungen - erledigt
+- TOP 4.1.1: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.2: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2006 - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Entwürfe der Bebauungspläne X-12-2, X-31-1, X-134 und X-B 1b - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3.2: Bebauungsplan X-184 Neubau JVA Düppel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3.3: Bebauungsplan 6-15 "Curtiusstraße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3.4: Landschaftsplan XII-L-6 Steglitz-Zentrum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3.5: Bebauungsplan XII - 282 (Kleingartenanlage Weinviertel) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Grünzug Buschgraben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Seniorenwohnhaus Dr. Peter Bloch - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Einrichtung von zusätzlichen Taxi-Haltestellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Erste Schritte zu einem Bürgerhaushalt in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Klare Verantwortlichkeit für Errichtung und Reparatur der Gedenktafeln bei der SE Immobilien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Gedenktafeln in der Treitschkestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Spätsprechstunde in den Abteilungen des Bereiches Bauen, Stadtplanung und Naturschutz mit Publikumsverkehr - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Nutzung der Schulsporthallen durch die Schulen - in der BVV abgelehnt
+- TOP 4.5.6: Umweltschädliche Heizpilze - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Räume für Hortbetreuung an der Biesalski-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Gedenktafel Fliegeberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: "Fair geht vor!" - die Anti-Doping-Kampagne des Bezirksamtes und der Sportvereine in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.5.10: Präventive Schuldnerberatung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Umbenennung des U-Bahnhofes "Thielplatz" in "Freie Universität" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Schulen in freier Trägerschaft - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.13: Fahrbahnerneuerung im Dahlemer Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.14: Verkehrskonzept für den Standort "Ausflugslokal Alte Fischerhütte" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.15: Alt-CDs - Für die Mülltonne zu wertvoll! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.16: Öffnungszeiten der Bürgerämter bürgerfreundlich gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.17: Gittertore für die Ladenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.18: Fahrgastinformation auf dem Fernbahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.19: Verkehrskonzept Schloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - - erledigt
+- TOP 5.1: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Aufstellung der Vorschlagsliste für ehrenamtliche Richter für das Oberverwaltungsgericht Berlin-Brandenburg für die Geschäftsjahre 2009 bis 2013 - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Aktiven Umwelt- und Klimaschutz im Bezirk - überwiesen
+- TOP 5.2.2: Ausschalten von Ampelanlagen - überwiesen
+- TOP 5.2.3: Zug der Erinnerung - überwiesen
+- TOP 5.2.4: Zug der Erinnerung - überwiesen
+- TOP 5.2.5: Betreuungsangebote für Kinder und Jugendliche mit Behinderungen bedarfsgerecht ausbauen - überwiesen
+- TOP 5.2.6: Verwendung der Mittel für Erinnerungsarbeit - überwiesen
+- TOP 5.2.7: Qualitätsmanagement in der Einzelfallhilfe - überwiesen
+- TOP 5.2.8: Barrierefreie Tafeln - überwiesen
+- TOP 5.2.9: Schulanfang auf neuen Wegen - überwiesen
+- TOP 5.2.10: Tempo 30 in der Riemeisterstraße - überwiesen
+- TOP 5.2.11: Qualitätskriterien für die Einzelfallhilfe für Menschen mit Behinderung - überwiesen
+- TOP 5.2.12: Vergabe des Namens "Wonnegausteig" für den Gehweg zwischen dem Westhofener Weg und der Krottnaurerstraße - überwiesen
+- TOP 5.2.13: Fahrbahnmarkierungschaos beseitigen - überwiesen
+- TOP 5.2.14: "Mitternachtssport" auch in Steglitz-Zehlendorf möglich? - überwiesen
+- TOP 5.2.15: Bessere Qualität des Schulessens - überwiesen
+- TOP 5.2.16: Fußgängerüberweg sicherer gestalten - überwiesen
+- TOP 5.2.17: Säuberung der Schneckenbrücke - überwiesen
+- TOP 5.2.18: Zehlendorf besser an den ÖPNV anbinden - überwiesen
+- TOP 5.2.19: Verlängerung der Buslinie 218 - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Den Toten keine Ruhe, den Lebenden keine Würde? - beantwortet
+- TOP 7: Ausschussanträge - erledigt
+- TOP 7.1: Fahrspuraufteilung Schloßstraße - überwiesen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Lukrativer Verkauf von Namensrechten für Sportplätze auch in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 8.2: Schulstationen sichern! - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Schlusswort des Vorstehers - erledigt
