@@ -1,0 +1,93 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2008-02-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1313855
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1313855
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.1.: Vorstellung der Bauvorhaben in Lochhausen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Tempo 30 in der Bergsonstr. 101
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Änderung der Ampelphasen an der Bodenseestraße / Ehrenbürgstraße und Bodenseestraße / Wiesentfelser Straße / Anton-Böck-Straße (Vertagung aus der BA-Sitzung vom 16.01.08)
+- TOP 4.2.: Weitere Radwegroute 4 zum Seengebiet Langwieder- Luss- und Birkensee, Aufwertung des Geländes der städtischen Baumschule Müllerstadel
+- TOP 4.3.: Besetzung der Bezirksinspektion in der Limesstr. 1 bei Wahlen oder Bürgerentscheiden
+- TOP 4.4.: Ausbau der Bahnunterführungen in der Bodenseestraße auf eine Durchfahrtshöhe von 4,5 m
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: ARGE Streuwiese Erlbach-Krähennest e.V.
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz, Anhörungen zu Baumfällungen
+- TOP 6.2.: Budget der Bezirksausschüsse, Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008, Schr. Direktorium vom 10.01.08
+- TOP 6.3.: Veranstaltung in einer städtischen Grünanlage, hier: Stadtteilwoche Aubing-Lochhausen-Langwied, Grünanlage Nonnenhornstraße vom 04. - 11.07.08, Schr. KVR vom 14.01.08
+- TOP 6.4.: Sonderflughafen Oberpfaffenhofen, Antrag auf Teilrücknahme vom 30.11.07, Schr. Planungsreferat vom 17.01.08
+- TOP 6.5.: Bodenseestraße gegenüber Hs-Nr. 102, Errichtung einer Werbeanlage, Schr. Planungsreferat vom 21.01.08
+- TOP 6.6.: Beschlussvorlage zur Stärkung der Stadtteilkultur, Schr. Kultureferat vom 23.01.08
+- TOP 6.7.: Baugebiet Schussenrieder Straße / Schubinweg, Bebauungsplan 1703 (Vertagung aus der BA-Sitzung vom 21.11.07)
+- TOP 6.8.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/21 und vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 1907, Bodenseestraße (südlich), Bahnlinie München-Herrsching (südlich), Bahnlinie München-Mittenwald (westlich), Paosostraße (nördlich) - Gleisdreieck Pasing - (Teiländerung des Bebauungsplanes Nr. 1094), Schr. Planungsreferat vom 31.01.08
+- TOP 6.9.: Antrag auf Erlaubnis der Nutzung des Flurstückes 161 1/2 Tlfl. an der Kastelburgstr. 22 vom 06.03.-09.03.08 durch die Puppenbühne Stoßberger
+- TOP 6.10.: Ruhe am Himmel - Sanktionierung ungesetzlicher Tiefflüge; Einschränkung bzw. Verbot von Sightseeingflügen über der Innenstadt, Beschluss des Umweltausschusses vom 27.05.08
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Zweckentfremdung von Wohnraum, Altostr. 20, Schr. Sozialreferat vom 14.01.08
+- TOP 7.2.: Baumaßnahmen der Stadtwerke München GmbH, Stichtag: 14.01.08, 21.01.08, 28.01.08, 04.02.08, 11.02.08
+- TOP 7.3.: Baufälle im 22. Stadtbezirk (v. 07.-13.01.08, v. 14.-20.01.08, v. 21.-27.01.08, v. 28.01.-03.02.08, v. 04.-11.02.08), Schr. Planungsreferat vom 14.01.08, 28.01.08, 04.02.08, 11.02.08
+- TOP 7.4.: Vollzug der Wassergesetze; Bachräumungstermine 2008 für die Stadt- bz. Stadtrandbäche, Schr. Baureferat vom 14.01.08
+- TOP 7.5.: Finanzplan 2007 - 2011, Schr. Stadtkämmerei vom 17.01.08
+- TOP 7.6.: Gewerbeentwicklung Freiham; Vergabe von städtischen Gewerbeflächen, Wirtschaftsausschuss 15.01.08, Schr. Referat für Arbeit und Wirtschaft vom 29.01.08
+- TOP 7.7.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18 b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG) für den Einbau der Weichen 410 und 411 mit Weichenverbindung, Weichenaustausch 414 (Instandhaltungswerk Pasing), Schr. Planungsreferat vom 29.01.08
+- TOP 7.8.: Ergebnisprotokolle aus den Sitzungen der Arbeitsgruppe Wohnungslosigkeit vom 08.05.07 und 13.11.07, Schr. Sozialreferat vom 31.01.08
+- TOP 7.9.: Beteiligung der Öffentlichkeit, Frühzeitige Unterrichtung gem. § 3 Abs. 1 des BauGB, Planungsgebiet: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/21 und vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 1907, Bodenseestraße (südlich), Bahnlinie München-Herrsching (südlich), Bahnlinie München-Mittenwald (westlich), Paosostraße (nördlich) - Gleisdreieck Pasing - (Teiländerung des Bebauungsplanes Nr. 1094), Planungsdarlegung v. 04.02.-04.03.08, Schr. Planungsreferat vom 24.01.08
+- TOP 7.10.: Öffentliche Erörterung gem. § 3 Abs. 1 BauGB am 05.03.08, Bodenseestraße (südlich), Bahnlinie München-Herrsching (südlich), Bahnlinie München-Mittenwald (westlich), Paosostraße (nördlich) - Gleisdreieck Pasing - Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 1907, Schr. Planungsreferat vom 01.02.08
+- TOP 7.11.: Beteiligung der Öffentlichkeit, Frühzeitige Unterrichtung über die Bauleitplanung gem. § 3 Abs. 1 BauGB / Presseveröffentlichung, Schr. Planungsreferat vom 25.01.08
+- TOP 7.12.: Wirtschafts-Info Nr. 01/2008, Mitteilung Referat für Arbeit und Wirtschaft vom 01.02.2008
+- TOP 7.13.: Protokoll der Informationsveranstaltung des Sozialreferates vom 26.11.07, Schr. Sozialreferat vom 01.02.08
+- TOP 7.14.: Informationsveranstaltung am 05.07.07 im Ratskeller, Schr. Bürgermeisterin Strobl vom 21.01.08
+- TOP 7.15.: Budget der Bezirksausschüsse, Erfahrungsbericht 2007, Schr. Direktorium vom 01.02.08
+- TOP 7.16.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Apollon", Pretzfelder Str. 22, Schr. KVR vom 07.02.08
+- TOP 7.17.: Verkehrsrechtliche Anordnung, Neue Bushaltestellen "Möbel Höffner" (Sonderlinie "Höffner-Shuttle), Schr. KVR vom 11.02.08
+- TOP 7.18.: Anmeldung eines Aufzuges mit Auftakt-, Zwischen- und/oder Schlusskundgebung, hier: Warnstreik am 21.02.08, Reichenaustr. 2, Schr. KVR vom 13.02.08
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Widmung des Bahnübergangs "Am Waldrand" in der Aubinger Lohe als öffentlicher Weg, Schr. Baureferat vom 14.01.08
+- TOP 8.2.: Antrag auf Vorbescheid, Lochhausener Str. 203, Neubau, Gewerbegebäude mit Werkstätten, Stellungnahme des BA 22 vom 19.12.07, Schr. Planungsreferat vom 15.01.08
+- TOP 8.3.: Heimagsiedlung; hier: Haltverbot bei TG-Ausfahrt Altostr. 67, Schr. KVR, 15.01.08
+- TOP 8.4.: Erneuerung der Bergsonstraße bzw. Reparatur des Straßenbelages zwischen Industriestraße und Kronwinklerstraße in Aubing, Schr. Baureferat vom 16.01.08
+- TOP 8.5.: Fehlende Beschilderung an der Einmündung / Kreuzung Bodenseestr. mit Sportlerweg und Ehrenbürgstr., Schr. des Baureferates vom 23.01.08
+- TOP 8.6.: Erhalt und Wiedereröffnung einer Außenstelle Aubing der Münchner Volkshochschule GmbH, BA-Antrag 2468, Schr. Kulturreferat vom 16.01.08
+- TOP 8.7.: Sichere Überquerung der Kreuzung Lochhausener Str./ Freilandstr./ Am Langwieder Bach, Schr. KVR vom 24.01.08
+- TOP 8.8.: Einzelhandelskonzept für den 22. Stadtbezirk, Schr. Planungsreferat vom 19.12.07 (Vertagung aus der BA-Sitzung vom 16.01.08)
+- TOP 8.9.: Staatsstraße 2063 Pasing - Starnberg; Verlegung bei Gräfelfing und Planegg, Schr. Planungsreferat vom 31.01.07
+- TOP 8.10.: Umbenennung des Kindergartens Rieneckerstraße in "Kindergarten am (Aubinger) Wasserturm", Schr. Schul- und Kultusreferat vom 28.01.08
+- TOP 8.11.: Erwerb eines Grundstückes Überlinger Weg - Thuisbrunner Straße, Schr. Baureferat vom 05.02.08
+- TOP 8.12.: Umbau der Entwässerungsrinne südlich des Tunnels der A 99, Schr. Baureferat vom 29.01.08
+- TOP 8.13.: Lärmreduzierung in der Bergsonstraße ab der Kreuzung Bergson-/ Negrellistr. / an der Langwieder Haide bis zur Ruppert-Bodner-Straße, Schr. KVR vom 07.12.07
+- TOP 8.14.: Resolution in Sachen Taktverbesserung der S-Bahn in den Abend- und Nachtstunden, Schr. Gem. Puchheim vom 13.02.08
+- TOP 8.15.: HIT-Markt, Stockacher Str. 5, Müllentsorgung und Parkplatzsituation, Schr. KVR vom 13.02.08
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Vollversammlung vom 19.12.07 - Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO-Novelle 2007 - Planfeststellungsverfahren für eine 3. Start- und Landebahn am Verkehrsflughafen München - Ersteinschätzung und weiteres Vorgehen - Bündnis für Ökologie; Leitprojekt 2: Mehr Platz für den Umweltverbund; Teilprojekt Stadtviertelkonzept Nahmobilität für den 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt
+- TOP 9.2.: Vollversammlung vom 23.01.08 - 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG) - Konzept zur Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege, Teil B Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive -
+- TOP 9.3.: Ausschuss für Stadtplanung und Bauordnung vom 09.01.08 - Bekanntgabe zur Bevölkerungsprognose 2007 der Landeshauptstadt München - Bekanntgabe zum Wohnungsmarkt München, Expertenbefragung 2007
+- TOP 9.4.: Schulausschuss vom 30.01.08 - Bekanntgabe zu Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2007/2008 - Bekanntgabe zu Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2007/2008, Stand: 20.10.2007 - Bekanntgabe zum Bereinigten Einschreibeergebnis für das Tageseinrichtungsjahr 2007/2008 - Bekanntgabe zu Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2007/2008 - Bekanntgabe zu Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2007/2008
+- TOP 9.5.: Ausschuss für Stadtplanung und Bauordnung vom 30.01.08 - Bebauungsplan mit Grünordnung Nr. 1955, Colmdorfstraße (östlich), Banlinie München - Buchloe (südlich), Pretzfelder Straße (nördlich)
+- TOP 9.6.: Bauausschuss vom 12.02.08: - Absenkung von Bordsteinen im Rahmen von Baumaßnahmen
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Nutzungsgebühr für Schulturnhallen, Antrag BA 20 vom 14.01.08
+- TOP 10.2.: Planung der Münchner Sommer SpielAktion, Schr. Spielen in der Stadt vom 07.02.08
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 19.03.2008, Gaststätte "Bayerisches Schnitzel- und Hendlhaus", Limesstr. 63
