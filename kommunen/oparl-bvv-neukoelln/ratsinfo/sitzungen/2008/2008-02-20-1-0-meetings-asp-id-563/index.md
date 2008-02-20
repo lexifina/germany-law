@@ -1,0 +1,94 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2008-02-20T17:10:00+01:00
+- Ende: 2008-02-20T23:00:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=563
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=563
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - erledigt
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 6.1: Bebauungsplan 8-19a - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Berufung eines stellv. beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 8: Mündliche Anfragen - erledigt
+- TOP 8.1: Deponie Großziethen - beantwortet
+- TOP 8.2: Bewegung an Neuköllner Grundschulen - beantwortet
+- TOP 8.3: Weniger Lehrer für Neuköllner Grundschulen? - beantwortet
+- TOP 8.4: Auswahlverfahren bei der Suchtberatung - beantwortet
+- TOP 8.5: Weiterbildungsoffensive zum Umgang mit gewalttätigen Schülerinnen und Schülern - beantwortet
+- TOP 8.6: Elterngeld - beantwortet
+- TOP 8.7: Jahndenkmal in der Hasenheide - beantwortet
+- TOP 8.8: Frauenbörse - beantwortet
+- TOP 8.9: FM-Erfahrungswerte - schriftlich beantwortet
+- TOP 8.10: Sponsoring für Spielplätze - schriftlich beantwortet
+- TOP 8.11: Shoa-Comic auch im Neuköllner Geschichtsunterricht? - schriftlich beantwortet
+- TOP 8.12: Anteil an Behinderten im Stellenpool - schriftlich beantwortet
+- TOP 8.13: Einbeziehung der Beauftragten für Menschen mit Behinderung - schriftlich beantwortet
+- TOP 9: Beschlussempfehlungen - erledigt
+- TOP 9.1: Studentifizierung Neuköllns - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Ungewünschte Nutzung des Robin-Hood-Spielplatzes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Gefährliche Einmündung Hobrechtstraße/Sonnenallee entschärfen - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Spielstraße am Schierker Platz - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Namensschilder für das Ordnungsamtspersonal - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Zukunft des Krankenhauses Neukölln - beantwortet
+- TOP 10.2: Ordnungsamt - beantwortet
+- TOP 10.3: Qualität der Neuköllner Schulempfehlungen mangelhaft? - beantwortet
+- TOP 10.4: Investitionen in Berliner Krankenhäusern - beantwortet
+- TOP 10.5: Bürgerbeteiligung ernst nehmen! - beantwortet
+- TOP 10.6: Besuche bei Neugeborenen - beantwortet
+- TOP 10.7: Schulschwänzer - beantwortet
+- TOP 10.8: Integration in Neukölln - beantwortet
+- TOP 10.9: Kommunale Suchtberatung - beantwortet
+- TOP 10.10: Nichtraucherschutzgesetz in Neuköllner Gaststätten - beantwortet
+- TOP 10.11: Jahresabschluss 2006 des Kita-Eigenbetriebes SüdOst - beantwortet
+- TOP 11: Große Anfragen - schriftlich - (offen)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Kooperation zwischen Jobcenter und Jugendamt - überwiesen
+- TOP 12.2: Jedem Kind ein Instrument - überwiesen
+- TOP 12.3: Ruhegemeinschaften auf städtischen Friedhöfen - ohne Änderungen im Ausschuss beschlossen
+- TOP 12.4: Durchfahrtverbot für LKW über 3,5 Tonnen - überwiesen
+- TOP 12.5: 100 Jahre Rathaus Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Sichere Überquerung am S-Bahnhof Neukölln - überwiesen
+- TOP 12.7: Eltern von Schulschwänzern bekommen Stopp-Schild - überwiesen
+- TOP 12.8: Haltverbot Britzer Damm/Hannemannstraße - überwiesen
+- TOP 12.9: Einführung eines Schülerregisters - überwiesen
+- TOP 12.10: Unterstützung Neuköllner Gastronomiebetriebe bei der Umsetzung des Nichtraucherschutzgesetzes - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Cop4U - Ein Polizist für dich - überwiesen
+- TOP 12.12: Soziale Berichterstattung - überwiesen
+- TOP 12.13: Unterstützung der Kampagne für ein kommunales Wahlrecht für Migrantinnen und Migranten - überwiesen
+- TOP 12.14: Im Sprachcamp zum Sprachchamp - überwiesen
+- TOP 12.15: Von der Straße ins Lehrinternat - überwiesen
+- TOP 12.16: Getrennte Schulen - in der BVV abgelehnt
+- TOP 12.17: Bürgervorschläge aufgreifen - in der BVV abgelehnt
+- TOP 12.18: Informationen an die Quartiersmanagements - überwiesen
+- TOP 12.19: Gedenken an den Beginn der Luftbrücke - in der BVV abgelehnt
+- TOP 12.20: Sozialräumlicher Einsatz von Instrumenten der Arbeitsmarktpolitik - überwiesen
+- TOP 12.21: Gewaltmonopol des Staates - in der BVV abgelehnt
+- TOP 12.22: Kinderschutz - in der BVV abgelehnt
+- TOP 12.23: Die Riester-Lüge - in der BVV abgelehnt
+- TOP 12.24: Jugendkriminalität - in der BVV abgelehnt
+- TOP 12.25: Kriminalstatistik - in der BVV abgelehnt
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: Ausbildungsatlas Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Nachnutzung des Flughafens Tempelhof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Schulwegsicherung für die Grundschule am Teltowkanal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Korrekturen der Namensgebungen im Frauenviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Nachnutzung des Flughafens Tempelhof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Sozialarbeiter an Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Boule-Bahn im Carl-Weder-Park - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Ausstellung "Das hat's bei uns nicht gegeben - Antisemitismus in der DDR" in Neukölln zeigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Wiedereinsetzung der Buslinie 735 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Straßenschäden per Internet melden - mit Abschlussbericht zur Kenntnis genommen
