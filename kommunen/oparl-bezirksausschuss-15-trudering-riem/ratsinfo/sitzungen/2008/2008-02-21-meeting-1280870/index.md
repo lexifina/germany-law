@@ -1,0 +1,117 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2008-02-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1280870
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1280870
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 2.1.: Antrag auf Errichtung von absolutem Halteverbot im Bereich der Grundschule am Lehrer-Götz-Weg
+- TOP 2.2.: Seniorenwohnen in Trudering
+- TOP 2.3.: Mutter-Kind-Turnen in der Turnhalle Lehrer-Wirth-Straße
+- TOP 2.4.: Zugangshürden für die Kandidatur zum Bezirksausschuss senken
+- TOP 2.5.: Geothermie in Waldtrudering
+- TOP 2.6.: Neubau einer Sporthalle in Kirchtrudering an der Josef-Hagn-Straße
+- TOP 2.7.: RAMADAMA in Trudering
+- TOP 3.1.: Änderung der Gemeindeordnung Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung (Top 9.2/12/07)
+- TOP 3.2.: Einführung der Umweltzone - wie fit ist der städtische Fuhrpark?, Antrag Nr. 02-08 / B 02487
+- TOP 3.3.: Ausbesserung des Straßenbelages In der Heuluss, Antrag Nr. 02-08 / B 02690
+- TOP 3.4.: Wagenburg / Wohnwagenproblematik in der Heltauerstraße, Antrag Nr. 02-08 / B 01293
+- TOP 3.5.: Behindertengerechte Ausstattung des Truderinger Bahnhofs, Antrag Nr. 02-08 / B 02681
+- TOP 3.6.: Rauchverbot auf Spielplätzen im Stadtbezirk 15 Trudering-Riem, Antrag Nr. 02-08 / B 02304
+- TOP 3.7.: Toilette im Riemer Friedhof (alter Teil) wieder öffnen, Antrag Nr. 02-08 / B 02563
+- TOP 3.8.: Straßenbenennung im 15. Stadtbezirk Trudering-Riem, Beschlussvorlage für die Vollversammlung des Stadtrates vom 23.01.2008
+- TOP 3.9.: Reinigung unbebauter Grundstücke in der Messestadt, Antrag Nr. 02-08 / B 02685
+- TOP 3.10.: Praxisgerechte Haltemöglichkeiten für Seniorenfahrdienste und Pflegedienste vor dem ASZ-Riem, Antrag Nr. 02-08 / B 02490
+- TOP 3.11.: Künftige Nutzung des Grundstückes an der Heinrich-Wieland-Straße / Zehntfeldstraße, Antrag Nr. 02-08 / B 02570
+- TOP 3.12.: 10-Minuten-Takt auf der S2 Ost - nächstes Kapitel, Antrag Nr. 02-08 / B 02496
+- TOP 3.13.: Mittagsbetreuung Grundschule Markgrafenstraße, Antrag Nr. 02-08 / B 02673
+- TOP 3.14.: Fluktuation in EOF gefördertem Wohnungsbestand, Antrag Nr. 02-08 / B 02492
+- TOP 3.15.: Umbau der Wohncontainer an der Wasserburger Landstraße für Studenten, Antrag Nr. 02-08 / B 02558
+- TOP 3.16.: Behindertengerechter Zugang zu den Riem Arcaden, Antrag Nr. 02-08 / B 02682
+- TOP 3.17.: Durchfahrende Kfz in der Messestadt Riem, Antrag Nr. 02-08 / B 02387
+- TOP 3.18.: Beleidigungsbeschuldigung; Wertstoffhof Trudering, Antrag Nr. 02-08 / B 02671
+- TOP 3.19.: Werner-Eckert-Straße 1 Nutzungsänderung der ehemaligen Kassenhalle in eine Halle für nicht-öffentliche Einzelveranstaltungen (Top 7.2.3/01/08)
+- TOP 3.20.: Hilfen beim Berufsstart, Antrag Nr. 02-08 / B 02307
+- TOP 3.21.: Wildes Parken und Vermüllung an der Riemer Straße unterbinden, Antrag Nr. 02-08 / B 02695
+- TOP 4.1.: Antrag auf Errichtung eines Halteverbots in der St.-Augustinus-Straße
+- TOP 4.2.: Rampe für Rollstuhlfahrer im Riemer Park
+- TOP 4.3.: Aufstockung der Anzahl der Hundekotbeutel in Trudering-Riem
+- TOP 4.4.: Öffentlich geförderte Räume für demokratische Parteien auch im Wahlkampf
+- TOP 4.5.: Anpassung der sozialen Infrastruktur auch personell
+- TOP 4.6.: Betriebliche Perspektiven für das Clearinghaus
+- TOP 4.7.: Dauerhafter Verzicht auf den 10-Minuten-Takt auf allen S-Bahn-Linien im Münchner Osten
+- TOP 4.8.: Mehr Aufmerksamkeit für das Gewerbegebiet Messestadt-Ost
+- TOP 4.9.: Ewiges Warten auf "Betreutes Wohnen daheim" in Trudering-Riem
+- TOP 4.10.: Benachteiligung der KiTa Stieglitzweg beseitigen
+- TOP 4.11.: RatsInformationsSystem (RIS) für BAs endlich vollenden
+- TOP 4.12.: Dubioser Bodenaustausch im Grünzug Haffstraße
+- TOP 5.1.: Verkauf einer städtischen Immobilie Anhörung der Bezirksausschüsse gemäß § 3 der Bezirksausschusssatzung, FlurNr.: 1580, 1738/11, Mittbacher Straße, Gemarkung Trudering (Anhörung, Frist: sofort)
+- TOP 5.2.: Anzeige für öffentliche Vergnügungsveranstaltungen Kultur & Spielraum e.V., Termin: 20. und 21.09.08 von 12.00 Uhr bis 17.00 Uhr (Anhörung, Frist: sofort)
+- TOP 5.3.: TSV Haar Jedermann-Triathlon im Riemer Park am 19.07.08 von 08.00 Uhr bis 10.00 Uhr (Anhörung, Frist: sofort)
+- TOP 5.4.: Halteverbot Damaschkestraße Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO (Frist: sofort)
+- TOP 5.5.: Untergrundsammelanlage für Wertstoffe, eingeschränktes Halteverbot Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO (Frist: sofort)
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.1.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2007/2008, Bekanntgabe im Schulausschuss des Stadtrates vom 30.01.2008
+- TOP 7.2.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2007/2008, Bekanntgabe im Schulausschuss des Stadtrates vom 30.01.2008
+- TOP 7.3.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2007/2008, Bekanntgabe im Schulausschuss des Stadtrates vom 30.01.2008
+- TOP 7.7.2: UA Planung:
+- TOP 7.1.: Gemeinde Aschheim Bebauungsplan Aschheim Südwest-nördl.verläng. Uttastraße, südl. der Bebauung an der Keltenstraße, nördl. Uttastraße, südl. Flurstraße (Anhörung, Frist: sofort)
+- TOP 7.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/15, Schwablhofstraße (westlich), Wasserburger Landstraße (nördlich), Bahnlinie München - Rosenheim (südlich); Billigungbeschluss und vorbehaltlich endgültiger Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.01.2008
+- TOP 7.3.: Bebauungsplan mit Grünordnung Nr. 1976 Schwablhofstraße (westl.), Wasserburger Landstraße (nördl.), Bahnlinie München - Rosenheim (südl.), Antrag Nr. 02-08 / B 02150
+- TOP 7.4.: Gemeinde Aschheim Bebauungsplan Dornach, Parkplatz (zeitlich befristet bis 2017) nordöstl. O/W-Ohmstraße (Anhörung, Frist: sofort)
+- TOP 7.5.: Vollzug von § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2 Anhörung im Einzelfall auf Anforderung - hier: Wasserburger Landstraße 44, Nutzungsänderung eines Telekom-Ladens zu 4 Automaten-Spielstätten und einem T-Punkt-Shop (Anhörung; Frist: sofort)
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.1.: Finanzplan 2007 - 2011
+- TOP 7.2.: Budget der Bezirksausschüsse - Erfahrungsbericht 2007
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 8.1.: Mitteilung über bereits durchgeführte Baumfällungen:
+- TOP 8.2.: Florastraße 27 a
+- TOP 8.3.: Phantasiestraße 42
+- TOP 8.4.: Pfennigweg 12
+- TOP 8.5.: Heinrich-Wieland-Straße / Zehntfeldstraße
+- TOP 8.6.: Böcklerweg 18
+- TOP 8.7.: Marmolatastraße 10
+- TOP 8.8.: Leonhardiweg 64
+- TOP 8.9.: Gerstäckerstraße 101
+- TOP 9.1.: Termine und Mitteilungen
+- TOP 9.2.: Protokoll der Informationsveranstaltung des Sozialreferates vom 26.11.2007
+- TOP 9.3.: Information über das Betriebskonzept während der Schienenschleifarbeiten der U2 Ost
+- TOP 9.4.: 850. Stadtgeburtstag; Informationsveranstaltung für die BA-Vorsitzenden
+- TOP 9.5.: Budget der Bezirksausschüsse Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008 - Stellungnahme des Direktoriums
+- TOP 9.6.: Antrag an den Bezirksausschuss 20 Hadern - Reduzierung der Gebühren für Vereine bei Anmietung städtischer Schulturnhallen
+- TOP 9.7.: Sponsoring bei der Landeshauptstadt München - Rundschreiben
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 01.01.08 bis 10.02.08 (zuzüglich Anschreiben zur Anforderung von Unterlagen zur Anhörung)
+- TOP 10.2.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - BET 3000, Graf-Lehndorff-Straße 36
+- TOP 10.3.: Zuwendungsbewilligung aus dem Budget des BA 15 i.H.v. 2.500,00 Euro für den Christopherus-Schulverein München e.V.
+- TOP 10.4.: Absenkung von Bordsteinen im Rahmen von Baumaßnahmen Ziffer 2 des Antrages, Empfehlung Nr. 02-08 / E 00628 der BV des Stadtbezirkes 2 Ludwigsvorstadt - Isarvorstadt am 16.11.2006; Beschluss des Bauausschusses vom 12.02.2008
+- TOP 10.5.: Stärkung der Stadtteilkultur zuzüglich Stellungnahme des BA-Vorsitzenden (Eilentscheidung)
+- TOP 10.6.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung im Bereich der Bahnstrecke der S 8 Ost (Daglfing, Englschalking, Johanneskirchen) zwischen der Bahnstrecke München-Rosenheim im Süden und der Stadtgrenze zu Unterföhring im Norden, Beschluss der Vollversammlung des Stadtrates vom 19.12.2007
+- TOP 10.7.: 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG); Beschluss der Vollversammlung des Stadtrates vom 23.01.2008
+- TOP 10.8.: Errichtung einer Kindertagesstätte mit 2 Kindergartengruppen an der Thomas-Hauser-Straße; Beschluss des Schulausschusses des Stadtrates vom 30.01.2008
+- TOP 10.9.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule, Schuljahr 2007/2008; Bekanntgabe im Schulausschuss des Stadtrates vom 30.01.2008
+- TOP 10.10.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2007/2008 Stand 20.10.2007; Bekanntgabe im Schulausschuss des Stadtrates vom 30.01.2008
+- TOP 10.11.: Zweckentfremdung von Wohnraum - St.-Augustinus-Straße 66
+- TOP 10.12.: Zweckentfremdung von Wohnraum - Oberhuberstraße 2
+- TOP 10.13.: Konzept zur Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive - ; Beschluss der Vollversammlung des Stadtrates vom 23.01.2008
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
