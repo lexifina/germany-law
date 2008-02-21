@@ -1,0 +1,119 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2008-02-21T17:30:00+01:00
+- Ende: 2008-02-21T23:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1624
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1624
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=62760
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Publikation zum Sanierungsgebiet Spandauer Vorstadt - beantwortet
+- TOP 5.2: Hochbegabtenprojekt in Wedding? - beantwortet
+- TOP 5.3: Hertha Domizil und Grundstück - beantwortet
+- TOP 5.4: Vorfahrt für Familien in Mitte - 2 - beantwortet
+- TOP 5.5: Ausweitung der Parkraumbewirtschaftung in Mitte - beantwortet
+- TOP 5.6: Baumfällungen in der Invalidenstraße - beantwortet
+- TOP 5.7: Umsetzung des Rauchverbotes - schriftlich beantwortet
+- TOP 5.8: Minigolfplatz Petersallee an der Rehberge - schriftlich beantwortet
+- TOP 5.9: Stand der Umsetzung der Drs.-Nr. 0554/III durch das Bezirksamt - schriftlich beantwortet
+- TOP 5.10: Bauwagen Schillerpark - schriftlich beantwortet
+- TOP 5.11: "Haus der Weisheit" in Berlin-Moabit (2) - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Vom Hexenkesseltheater mit Strandbaranschluss zur Outdoor-Eventkneipe mit Liegestuhlfläche? - beantwortet
+- TOP 7.2: Zug der Erinnerung in Mitte - beantwortet
+- TOP 7.3: Die Welt ist eine Bühne, aber die Rollen sind schlecht verteilt - beantwortet
+- TOP 7.4: Islamische Kita in der Brunnenstraße (2) - beantwortet
+- TOP 7.5: Die Ausweise bitte! - schriftlich beantwortet
+- TOP 7.6: Vermittlung von Vertretungslehrern zur Vermeidung von Unterrichtsausfall - schriftlich beantwortet
+- TOP 7.7: Was läuft falsch im Soldiner Kiez? - schriftlich beantwortet
+- TOP 7.8: Bürgerhaushalt Mitte: Von BVV beschlossen, vom Bezirksamt ignoriert? (II) - schriftlich beantwortet
+- TOP 7.9: Verhindert das Bezirksamt die Freilichtbühne Rehberge? - schriftlich beantwortet
+- TOP 7.10: Schulschließungen statt Soziale Stadt? - schriftlich beantwortet
+- TOP 7.11: Werden Jungen in ihrem Entwicklungsprozess allein gelassen? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplan 1-37 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-37 - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bebauungsplan 1-20 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-20 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Hexenkessel nicht gefährden - BVV-Beschlüsse anerkennen!!! - in der BVV abgelehnt
+- TOP 11.2: Treffpunkt im Kiez e.V. retten! - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Missbilligung des stellvertretenden Bezirksbürgermeister und Bezirksstadtrat für Wirtschaft, Immobilien und Ordnungsamt Joachim Zeller - vertagt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Gutachten zur möglichen Übertragung von bezirklichen Grundstücken und Gebäuden in das SILB - überwiesen
+- TOP 12.2: Keine schrittweise Entmachtung der Bezirke durch die Hintertür - keine schrittweise Entmachtung durch die Änderung der Landeshaushaltsordnung - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Energiesparcontracting beim Kita-Eigenbetrieb City - überwiesen
+- TOP 12.4: Grenzenüberschreitendes Parken - überwiesen
+- TOP 12.5: Verkehrssituation in Mitte verbessern - überwiesen
+- TOP 12.6: Benennung nach Dr. Magnus Hirschfeld - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Wovon man nicht sprechen kann, davon muss man schweigen - in der BVV abgelehnt
+- TOP 12.8: Lage des Nachtbusknotens - überwiesen
+- TOP 12.9: Schließung der Willy-Brandt-Gesamtschule verhindern - mit Änderungen in der BVV beschlossen
+- TOP 12.10: Rauchmelder in Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Breite Straße muss breite Straße bleiben! - in der BVV abgelehnt
+- TOP 12.12: Sozialräumlicher Einsatz von Instrumenten der Arbeitsmarktpolitik - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Berlin Festival ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Keine Verkaufsräume für "Thor Steinar" in Berlin-Mitte und anderswo! - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Mieterberatung bei außergewöhnlichen Bauvorhaben - in der BVV abgelehnt
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Zentrales Mahnmal und Platz des 17. Juni 1953 in Mitte - in der BVV abgelehnt
+- TOP 13.2: Mehr "Grün" in Mitte! - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Kampagne zur Impfung von Mädchen gegen HPV - Humane Papillomaviren - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Einsatz von Dialogdisplays - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Grünflächenpflege im Bezirk stärken - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Keine Schließung der Jerusalem-Bibliothek - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Vorfahrt für Kinder - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Positivliste zur Sondernutzung öffentlichen Straßenlandes erstellen und mit anderen Bezirken abstimmen - in der BVV abgelehnt
+- TOP 13.9: Keine weitere Einzäunung am Plötzensee - in der BVV abgelehnt
+- TOP 13.10: Brüsseler Kiez als neues Sanierungsgebiet - ohne Änderungen in der BVV beschlossen
+- TOP 13.11: Zwischenlösung für den Wochenmarkt vor dem Roten Rathaus ermöglichen! - ohne Änderungen in der BVV beschlossen
+- TOP 13.12: Keine Anrechnung von Geldgeschenken Jugendlicher in Bedarfsgemeinschaft mit Hartz IV - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Zebrastreifen in der Kirchstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Sicherung der Kleingartenkolonie Wiesengrund - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Wartezeiten in den Bürgerämtern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.4: Public-Private-Partnership bei der Sanierung von Schulen und Sporthallen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Rahmenkonzept zur Weiterführung der Weihnachtsmärkte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Jobcenter Mitte: Qualifizierte Angebote für junge Menschen schaffen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.7: Ombudsstelle für Hartz IV-Betroffene einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.8: Portrait des Bundespräsidenten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.9: Öffentlicher Beschäftigungssektor - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Bezirkswerbung auf der ITB mit eigenem Messestand - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.11: Kennzeichnung von Mitarbeiterinnen und Mitarbeitern des Ordnungsamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Personalentwicklung im Bezirk Mitte / Mindeststandards der Personal und Finanzausstattung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.13: August-Bebel-Platz - Die Würde des Ortes wahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.14: Transparenz bei der Sanierung von öffentlichen Denkmalen im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.15: Bürger gestalten die städtebauliche Entwicklung der Bürgerstadt mit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: Mobile Bürgerämter - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.17: Ausbildungsoffensive 2007 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.18: Würdiges Mahnmal für den nationalsozialistischen Massenmord an Behinderten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.19: Bus 147 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.20: Alkoholverbot auf Spiel- und Bolzplätzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.21: Anhörung zur Übertragung der bezirklichen Immobilien an die BIM GmbH - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.22: Beschluss über die Weiterführung des Verfahrens zum Bebauungsplan 1-39 auf der Grundlage des § 13a des Baugesetzbuches als beschleunigtes Verfahren ohne Durchführung einer Umweltprüfung nach § 2 Abs. 4 des Baugesetzbuches - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.23: Benennung von öffentlichem Straßenland in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.24: Programmmittel "Soziale Stadt" 2007 - 2009 der Quartiersmanagementgebiete Reinickendorfer-/Pankstraße, Moabit West, Magdeburger Platz, Soldiner Straße und Sparrplatz sowie der Stadtteilmanagementgebiete Brunnenviertel - Ackerstraße und Brunnenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.25: Ergebnis der frühzeitigen Behördenbeteiligung gem. §4 Abs. 1 Baugesetzbuch (BauGB), das Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB, das Ergebnis der Behördenbeteiligung gem. § 4 Abs. 2 BauGB, die Durchführung der öffentlichen Auslegung zum Bebauungsplanentwurf I-26 gem. § 3 Abs. 2 BauGB sowie die Weiterführung des Bebauungsplanverfahrens auf der Grundlage des § 13a des Baugesetzbuches (BauBG) als beschleunigtes Verfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.26: Einschränkung des Geltungsbereiches des Bebauungsplanes II-180 im Bezirk Mitte, Ortsteil Moabit. die Weiterführung des Bebauungsplanverfahrens mit geänderten Planinhalten, die Weiterführung des Bebauungsplanverfahrens auf der Grundlage des § 13a desBaugesetzbuches (BauGB) als beschleunigtes Verfahren, die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 BauGB und der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.27: Liegenschaftsfonds (Drs.-Nr. alt: 32/I) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.28: Übernahme der Bearbeitung von Ordnungswidrigkeitenverfahren auf dem Gebiet des Jugendschutzgesetzes durch das LuV Ordnung und Gewerbe des Bezirksamtes Mitte von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.29: Bestätigung der Entscheidung des LOS-Begleitausschusses für die 5. Förderperiode zur Förderung von Mikroprojekten in der Zeit vom 01.01.2008 bis 30.06.2008 im Rahmen des Bundesmodellprogramms Lokales Kapital für Soziale Zwecke (LOS) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.30: Zulässigkeit des Bürgerbegehrens gegen die Ausweitung der Parkraumbewirtschaftung in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.31: Reduzierung der Geltungsbereiche der Bebauungspläne II-184 und II-185 im Bezirk Mitte, Ortsteil Moabit, die Korrektur der Geltungsbereichsgrenzen an der Quitzowstraße und die Durchführung der Beteiligung der Behörden und sonstigen Träger öffentlicherBelange gem. § 4 Abs. 2 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.32: Neuregelung des Bezirksabstimmungsleiters und seines Stellvertreters für den Verwaltungsbezirk Mitte von Berlin für das Volksbegehren "Tempelhof bleibt Verkehrsflughafen!" sowie für die weiteren zukünftig durchzuführenden Volksbegehren, Volksentscheide, Volksinitiativen oder Bürgerbegehren und Bürgerentscheide bis zur Ernennung der Bezirkswahlleitung für die Berliner Wahlen der 16. Wahlperiode - mit Abschlussbericht zur Kenntnis genommen
