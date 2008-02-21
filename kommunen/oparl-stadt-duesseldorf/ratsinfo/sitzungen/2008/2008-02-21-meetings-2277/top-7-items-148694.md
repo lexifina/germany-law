@@ -1,0 +1,7 @@
+# TOP 7: Antrag Grundstücksvergabe im Bereich des Jan-Wellem-Platzes Antrag der SPD Ratsfraktion
+
+- Sitzung: Ausschuss für Wirtschaftsförderung, Tourismus und Liegenschaften (2008-02-21)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/148694
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/42708
