@@ -1,0 +1,55 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2008-02-21T16:00:00+01:00
+- Ende: 2008-02-21T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWZlAeG4EvdLjdPqZ0lnOF4
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3308
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRKXNCtrc5gsDyz9ElbBaEY7Lif4fedLvwtLfCgl4viE/Oeffentliche_Niederschrift_Rat_21.02.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Anfrage der Fraktion Bündnis 90/Die Grünen - offene Liste vom 11.02.2008
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll
+- TOP 4: Protokoll
+- TOP 5: Umbesetzung von Ausschüssen und Gremien
+- TOP 6: Mitgliederversammlung 2008 des Städtetages Nordrhein-Westfalen
+- TOP 7: Teilnahme an KGSt-Forum und KGSt-Mitgliederversammlung
+- TOP 8: Neufassung der Hauptsatzung der Stadt Solingen
+- TOP 9: Neufassung der Geschäftsordnung für den Rat der Stadt Solingen, seine Ausschüsse und die Bezirksvertretungen
+- TOP 10: Änderung des Ressortverteilungsplans
+- TOP 11: Wahl eines Beigeordneten für das Ressort "Jugend, Schule, Bildung, Kultur, Sport und Integration"
+- TOP 12: Widerruf der Bestellung des Beigeordneten Ernst Schneider als Stadtkämmerer
+- TOP 13: Wahl eines Beigeordneten für das Finanzressort unter gleichzeitiger Bestellung als Stadtkämmerer
+- TOP 14: Ausschreibung der Stelle des Beigeordneten für das Ressort "Bürgerservice, Recht, Soziales, Sicherheit und Ordnung"
+- TOP 15: WestLB – Konsequenzen für die Stadt
+- TOP 16: Frauenförderplan 2007
+- TOP 17: Änderung des Busfahrplans
+- TOP 18: Änderung des Busfahrplans
+- TOP 19: I. Satzung zur Änderung der Satzung über die Leistungen der Feuerwehr der Stadt Solingen sowie über die Erhebung von Kostenersatz (Feuerwehrsatzung)
+- TOP 20: Verkaufsoffene Sonntage im Jahre 2008
+- TOP 21: Jagdbeirat bei der Unteren Jagdbehörde
+- TOP 22: Sofortmaßnahmen "Armut bekämpfen"
+- TOP 23: Fortsetzung Streetwork - Freigabe der Mittel
+- TOP 24: Rechenschaftsbericht und Haushaltsrechnung 2006 der Eheleute-Carl-Ruß-Stiftung
+- TOP 25: Nutzung des Areals Schellberg im Hinblick auf Jugendförderung, Touristik und Freizeit
+- TOP 26: Aktionsprogramm "Nachhaltige Entwicklung in Solingen"
+- TOP 27: Aktionsprogramm "Nachhaltige Entwicklung in Solingen"
+- TOP 28: Bürokratieabbaugesetze I und II
+- TOP 29: Personalstruktur im Konzern Stadt Solingen
+- TOP 30: Über- und außerplanmäßige Ausgaben 4. Quartal 2007
+- TOP 31: Verschiedenes
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Protokoll
+- TOP 4: Verschiedenes
+- TOP 5: Wahl eines Beigeordneten für das Ressort "Jugend, Schule, Bildung, Kultur, Sport und Integration"
+- TOP 6: Wahl eines Beigeordneten für das Finanzressort unter gleichzeitiger Bestellung als Stadtkämmerer
+- TOP 7: Derivatgeschäfte
