@@ -1,0 +1,92 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2008-02-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1356073
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1356073
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Nachverdichtung an der Aßlinger Straße
+- TOP 3.2.: Neubau einer Wohnanlage Auf dem Wasen
+- TOP 3.3.: Neumarkter Straße 92 - 94 ? Neubau eines Wohn- und Geschäftshauses
+- TOP 3.4.: Friedenstraße 10 ? Umbau ehem. ?Milchbar?
+- TOP 3.5.: Friedenstraße 26 / Mühldorfstr. 4 + 8 ? Arrondierung Bildungszentrum der Handwerks-kammer, Modernisierung Gebäude B (Handwerkerhof Achse 1 ? 5) inkl. Teilabbruch
+- TOP 3.6.: Erweiterung der S-Bahn Abstellanlage München-Steinhausen; Planfeststellung nach § 18 AEG
+- TOP 3.1.: Innsbrucker Ring / Bad-Schachener-Straße Linksabbiegemöglichkeit ? U-Wende in der Bad-Schachener-Straße
+- TOP 3.2.: Zulassung von Zweirichtungs-Radverkehr in Einbahnstraßen
+- TOP 3.3.: Schwierige Einsehbarkeit der Straßensituation Neumarkter Straße
+- TOP 3.1.: Stärkung der Stadtteilkultur
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Wohngrün ? Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.2.: Kinderfest 2008 ? Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.3.: 850-Jahrfeier ? Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.4.: Caritas-Sozialdienst ? Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Sponsoring bei der Landeshauptstadt München
+- TOP 3.2.: Festwiese St.-Veit-Straße ? Festival der Marionetten
+- TOP 3.3.: Festwiese St.-Veit-Straße ? Gastspiel Puppentheater
+- TOP 3.1.: Ellingerweg ? Antrag auf Baumfällung
+- TOP 3.2.: Gustav-Schwab-Str. ? Antrag auf Baumfällung
+- TOP 3.3.: Hachinger-Bach-Str. ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 1956 - Haidenauplatz (nordöstlich und südwestlich), Bahnlinie München-Rosenheim (nordwestlich) zwischen Leuchtenbergring und Ostbahnhof (Teiländerung des Bebauungsplans Nr. 491) - Erweiterung des Aufstellungsbeschluss Nr. 1956 vom 28.07.2004 - Stadtbezirk 5 Au-Haidhausen
+- TOP 4.3.: Baugenehmigung Kreillerstraße
+- TOP 4.1.: München-Triathlon am 27.07.08
+- TOP 4.2.: Absenkung von Bordsteinen im Rahmen von Baumaßnahmen
+- TOP 4.3.: Parkscheibenzone in der Ampfingstraße / Ecke Mühldorfstr. 25
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Konzept zur Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive- Kindertagesbetreuungs-Plan: Darstellung und Weiterentwicklung - Antrag Nr. 02-08 / A 03182 Verfahren zur Ermittlung des örtlichen Bedarfs an Kinderbetreuungsplätzen gemäß BayKiBiG und SGB VIII - Antrag Nr. 02-08 / A 03628
+- TOP 4.2.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2007/2008
+- TOP 4.3.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2007/2008
+- TOP 4.4.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 07/08
+- TOP 4.5.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2007/2008
+- TOP 4.6.: Schüler- und Klassenzahlen an den Beruflichen Schulen der Landeshauptstadt München im Schuljahr 2007/2008 - Stand 20.10.2007
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Schließung des Reserve-Notquartiers für Wohnungslose an der Neumarkter Straße
+- TOP 4.2.: Protokoll der Informationsveranstaltung des Sozialreferates vom 26.11.2007
+- TOP 4.1.: Budget der Bezirksausschüsse ? Erfahrungsbericht 2007
+- TOP 4.2.: Schriftverkehr Maibaumverein
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Anwohnerproteste im Kustermannpark zur Genehmigung der Alabamahalle
+- TOP 4.2.: Unerlaubte bauliche Erweiterung in der Grafinger Straße
+- TOP 4.3.: Naturdenkmal im Behrpark
+- TOP 4.4.: Abbruchanzeige Kampenwandstraße
+- TOP 4.5.: Umorganisation in der Abteilung II/V des Direktoriums
+- TOP 4.6.: Zuständigkeitsänderung bei Erteilung von Sondernutzungserlaubnissen
+- TOP 4.7.: 850. Stadtgeburtstag ? 8. Treffen der Bezirksausschüsse
+- TOP 4.8.: Baumängelbeseitigung am U-Bahnhof Josephsburg
+- TOP 4.9.: Finanzplan 2007 - 2011
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
