@@ -1,0 +1,60 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2008-02-27T15:00:00+01:00
+- Ende: 2008-02-27T22:00:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1094
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1094
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022195.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022195.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022195.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Kenntnisnahme
+- TOP 2: Schlussbericht zur Jahresrechnung 2006 - Mit Stimmenmehrheit beschlossen
+- TOP 3: Stadtbezirke - Zur Kenntnis genommen
+- TOP 4: Einteilung des Gebietes d Stadt MG in Stadtbezirke - Mit Stimmenmehrheit beschlossen
+- TOP 5: Reduzierung der Anzahl der Stadtbezirke - Zur Kenntnis genommen
+- TOP 6: Reduzierung der Anzahl/Neueinteilung Stadtbezirke - Zur Kenntnis genommen
+- TOP 7: Einteilung des Stadtgebietes in Bezirke - Zur Kenntnis genommen
+- TOP 8: Reduzierung der Zahl der Stadtbezirke - Zur Kenntnis genommen
+- TOP 9: Einteilung des Gebietes der Stadt Mönchengladbach - Zur Kenntnis genommen
+- TOP 10: Neueinteilung Stadtbezirke - Zur Kenntnis genommen
+- TOP 11: Verbesserung des Bürgerservice - Zur Kenntnis genommen
+- TOP 12: Pahlke-Bad Pahlke-Bad - Zur Kenntnis genommen
+- TOP 13: Aufnahme des Badebetriebes im Stadtbad Rheydt - Mit Stimmenmehrheit abgelehnt
+- TOP 14: Pahlke-Bad: Notwendige Baumaßnahmen - Mit Stimmenmehrheit abgelehnt
+- TOP 15: Mitgliederversammlung Städtetag - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 16: Ehrenamtskarte - Kenntnisnahme
+- TOP 17: Verbandsversammlung - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 18: Vorschläge für die Neuwahl des Verbandsrates Niers - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 19: Ausschussumbesetzung - Einstimmiger Beschluss
+- TOP 20: Vertretung der Stadt Mönchengladbach - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 21: Ordnungsbehördliche Verordnung 6. April 2008 - Mit Stimmenmehrheit beschlossen
+- TOP 22: Mandatsverlust eines Ratsmitgliedes - Einstimmiger Beschluss
+- TOP 23: Mitglieder mit beratender Stimme - Einstimmiger Beschluss
+- TOP 24: Fortschreibung Rahmenkonzept - Mit Stimmenmehrheit beschlossen
+- TOP 25: Elternbeiträge fürInanspruchnahme ofener Ganztags - Ohne Abstimmung
+- TOP 26: Genehmigung einer Dringlichkeitsentscheidung - Zur Kenntnis genommen
+- TOP 27: 15. NT Hauptsatzung u. 13.NT Zuständigkeitsordnung - Einstimmiger Beschluss
+- TOP 28: Erster Nachtrag Elternbeitragssatzung15.06.06 - Mit Stimmenmehrheit beschlossen
+- TOP 29: 1. Nachtrag zur Elternbeitragssatzung vom 14.06.07 - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 30: Umsetzung Kinderbildungsgesetz - Zur Kenntnis genommen
+- TOP 31: Bebauungsplan Nr.651/IX - Einstimmiger Beschluss
+- TOP 32: Bebauungsplan Nr. 663/VII - Mit Stimmenmehrheit beschlossen
+- TOP 33: Umbenennung von Bahnhöfen - Einstimmiger Beschluss
+- TOP 34: Um- und Neubenennung von Teilbereichen der "Lockhü - An den Rat verwiesen
+- TOP 35: Hockey Arena - Zahlungspflichtaufhebung - Vom Antragsteller zurückgezogen
+- TOP 36: Widmung Weg Flur 16 Nr. 372 - Verweisung in zuständige Fachausschüsse
+- TOP 37: Erweiterung des Gesamtschulangebots - Mit Stimmenmehrheit abgelehnt
+- TOP 38: Umbesetzungen - Einstimmiger Beschluss
+- TOP 39: Lagerung von Grabaushub in Transportmulden - Einstimmiger Beschluss
+- TOP 40: Sozialticket in Mönchengladbach - Zur Kenntnis genommen
+- TOP 41: Besetzungsverfahren in städtischen Gesellschaften - Zur Kenntnis genommen
+- TOP 42: Förderung der Beschäftigung und der Ausbildungsbet - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 43: Anfragen - Zur Kenntnis genommen
