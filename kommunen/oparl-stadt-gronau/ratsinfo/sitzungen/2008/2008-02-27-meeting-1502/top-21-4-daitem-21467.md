@@ -1,0 +1,6 @@
+# TOP 21.4: Brandschaden an der Sporthalle der Eilermarkschule (RM Krause)
+
+- Sitzung: Rat (35. Sitzung) (2008-02-27)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/21467
