@@ -1,0 +1,94 @@
+# 16. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2008-02-28T16:30:00+01:00
+- Ende: 2008-02-28T21:50:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1920
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1920
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=58120
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-15 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorschlagsliste für die Wahl von ehrenamtlichen Richtern für das Oberverwaltungsgericht - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Grünauer Schleife in die Investitionsplanung - ohne Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Evangelische Schule Köpenick (SM 806) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sondermittel für Evangelische Schule Köpenick (SM 807) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Sondermittel für Selbsthilfegruppe "Lichtblick" (SM 811) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Sondermittel für Förderverein Lokale Agenda 21 Treptow-Köpenick e. V. (SM 812) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Kulturverein Brücke 7 e. V. (SM 813) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Sondermittel für Tausendfüßler e. V. (SM 816) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für Initiative "Zug der Erinnerung - Haltestelle Berlin" (SM 819) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für SV Empor Köpenick e. V. (SM 814) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Strukturplan der Stadtbibliothek Treptow-Köpenick 2008 ff - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Vom Wuhlewanderweg in die Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Wiederöffnung des Überganges über die Görlitzer Bahn - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Durchfahrung der Köpenicker Altstadt - in der BVV zurückgezogen
+- TOP 12.4: Poller als Gefahrstelle beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Nutzung von Sportanlagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Friedhofsschließung/Friedhofsteilschließungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Alice-Archenhold-Weg - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Internationales Jahr der Astronomie 2009 - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Mahlower Weg zur Grünauer Straße verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Schwimmhallen erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Tram-Linie 21 mit Niederflurbahnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Sprachlerntagebücher - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Benennung des im Zuge des Bauvorhabens "Stadtplatz am Kaisersteg" ausgebauten Geh- und Radweges (Flurstück 165 und 208), im Ortsteil Oberschöneweide zwischen Wilhelminenhofstraße 79 und 82 unmittelbar unter dem technischen Denkmal "Krahnbahn" gelegen, in "Unter der Kranbahn" - überwiesen
+- TOP 13.2: Benennung des im Zuge des Bauvorhabens "Stadtplatz am Kaisersteg" ausgebauten Platzes, im Ortsteil Oberschöneweide zwischen Laufener Straße, dem Geh- und Radweg "Unter der Kranbahn" und der Fußgängerbrücke "Kaisersteg" gelegen, in "Platz am Kaisersteg" - überwiesen
+- TOP 13.3: Benennung des neu gebauten Straßenabschnitts, in den Ortsteilen Johannisthal und Adlershof zwischen dem Groß-Berliner Damm 85 und der Rudower Chaussee gelegen, in "Groß-Berliner Damm" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Benennung der Straße 565 im Ortsteil Rahnsdorf, zwischen der Straße 565 und der Straße 567a liegend, in "Aalstieg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Benennung der Straße 566 im Ortsteil Rahnsdorf, zwischen der Straße 562 und der Straße 565 liegend, in "Forellensprung" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Benennung der Straße 564 im Ortsteil Rahnsdorf, von der Straße 562 abgehend, in "Lachsfang" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Benennung der Straße 655 im Ortsteil Müggelheim zwischen "Hirseländer Weg" und "Tongrubenweg" gelegen, in "Am Wildbusch" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.8: Benennung der Straße 695, im Ortsteil Müggelheim zwischen "Tongrubenweg" und "Hirseländer Weg" liegend, in "Zum Rehwinkel" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Benennung der Straße 691, im Ortsteil Müggelheim zwischen "Darsteiner Weg" und einem nicht öffentlichen Weg an der KGA "Gosener Damm" liegend, in "Zur Großen Krampe" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.10: Benennung der Straße 659, im Ortsteil Müggelheim zwischen "Neuhelgoländer Weg" bzw. "Odernheimer Straße" und "Hirseländer Weg" gelegen, in "Hinter der Düne" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.11: Benennung der Straße 670 a, im Ortsteil Müggelheim zwischen "Duchrother Straße" und einem nicht öffentlichen Weg an dem Waldstück "Die Saugärten" gelegen, in "Wollgrasweg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.12: Benennung der Straße 686, im Ortsteil Müggelheim zwischen "Becherbacher Straße" und "Geinsheimer Weg" gelegen, in "Am Bauernwäldchen" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.13: Benennung der im Ortsteil Köpenick gelegenen Straße 299 in "Azaleenstraße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.14: Benennung der Straße 605, im Ortsteil Müggelheim zwischen "Am Müggelberg" und "Ludwigshöheweg" gelegen, in "Pfalz-Zweibrücker Weg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.15: Benennung der Straße 646, im Ortsteil Müggelheim zwischen "Kallbacher Straße" und "Den breiten Stücken" gelegen, in "Steinbrechgang" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.16: Benennung der Straße 647, im Ortsteil Müggelheim zwischen "Kallbacher Straße" und "Den breiten Stücken" gelegen, in "Zur Drachenwiese" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.17: Benennung der Straße 652, im Ortsteil Müggelheim zwischen einer nicht öffentlichen Fläche parallel zur "Straße 653" und einem nicht öffentlichen Weg an "Den breiten Stücken" gelegen, in "Zum Kiesgrund" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.18: Benennung der Straße 653, im Ortsteil Müggelheim zwischen "Hirseländer Weg" und Berliner Stadtwald gelegen, in "Zur Bürgerheide" zur Kenntnis nehmen. - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.19: Benennung der Straße 696, im Ortsteil Müggelheim zwischen "Tongrubenweg und "Hirseländer Weg" liegend, in "An der Himmelswiese" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.20: Benennung der Straße 611, im Ortsteil Müggelheim zwischen "Hornbacher Weg" und "Enkenbacher Weg" gelegen, in "Wolfsteiner Weg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Gedenkstele für Otto Wels - überwiesen
+- TOP 14.2: Lärmbelastung zur ILA vermindern - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Keine Formationstiefflüge zur ILA über Berliner Gebiet - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Trinkwasserqualität an Schulen sichern - überwiesen
+- TOP 14.5: Prioritäten für Ampeln im Bezirk beachten - überwiesen
+- TOP 14.6: Benennung der Sportanlage Friedrichshagen in "Otto-Wels-Sportanlage" - überwiesen
+- TOP 14.7: Baulicher Zustand der Turnhallen - überwiesen
+- TOP 14.8: Einrichtung einer Tempo-30-Zone in der Grünauer Str. und der Rudower Str. in Altglienicke - überwiesen
+- TOP 14.9: Radverkehr Josef-Nawrocki-Straße - überwiesen
+- TOP 14.10: Fütterungsverbot für Wasservögel am Müggelpark - überwiesen
+- TOP 14.11: Cajamarcaplatz - überwiesen
+- TOP 14.12: Angebote des Bürgerhauses Grünau sichern! - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Tempo-30-Zone Ewaldstr./Grünbergallee - überwiesen
+- TOP 14.14: Pläne zur A 100 Verlängerung ortsnah auslegen - überwiesen
+- TOP 14.15: Beteiligung bei Straßen- und Platzbenennung in Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Parken am Bürgerhaus Grünau - überwiesen
+- TOP 14.17: Sichere Querung der Grünbergallee im Bereich des S-Bahnhofes - überwiesen
+- TOP 14.18: Amtliche Benennung von Zeitschriften - überwiesen
+- TOP 14.19: Erinnerung an Mauerfall und 20 Jahre Deutsche Einheit - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Schaukästen - überwiesen
+- TOP 14.21: Behindertengerechter Zugang zum Ratskeller – Umsetzung noch 2008 - überwiesen
+- TOP 15: Große Anfragen - (offen)
