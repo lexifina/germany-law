@@ -1,0 +1,7 @@
+# TOP 9: Bolzplatz Peter-Richarz-Straße
+
+- Sitzung: Anregungs- und Beschwerdeausschuss (2008-02-28)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/149244
+- Ergebnis: zur Kenntnis genommen
