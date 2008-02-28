@@ -1,0 +1,56 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-02-28T16:00:00+01:00
+- Ende: 2008-02-28T18:20:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2216
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2216
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096790.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096790.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096790.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 24.01.2008 - einstimmig beschlossen
+- TOP 3: Umgestaltung Unterbacher See - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Verkehrsregelung Ludwigshafener Straße - einstimmig beschlossen
+- TOP 6: Trödelmärkte auf dem Gertrudisplatz im Jahre 2008 - einstimmig beschlossen
+- TOP 7: Jahrmärkte in Eller auf dem Gertrudisplatz im Jahre 2008 - einstimmig beschlossen
+- TOP 8: Werstener Feld - Radweg - einstimmig beschlossen
+- TOP 9: Bezirksbezogene Bauunterhaltungsmaßnahmen 2008 - einstimmig beschlossen
+- TOP 10: Entente Florale 2008 - Bericht des Bezirksvorstehers - zur Kenntnis genommen
+- TOP 11: Lärmschutz entlang der Rothenbergstraße - zur Kenntnis genommen
+- TOP 12: Kinderspielplatz Gertrudisplatz - zur Kenntnis genommen
+- TOP 13: Gaslaternen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 14: Integrationsagenturen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 15: Lärmschutz von Abfahrt A 46 bis zur Karl-Geusen-Straße / Erkrather Straße - zur Kenntnis genommen
+- TOP 16: 700 Jahre Schloss Eller - zur Kenntnis genommen
+- TOP 17: Sportanlage Tannenhofweg - zur Kenntnis genommen
+- TOP 18: Bauarbeiten Werstener Feld - zur Kenntnis genommen
+- TOP 19: Grundstücke neben Kleingartenanlage Vennhauser Allee - zur Kenntnis genommen
+- TOP 20: Grundstück Posener Straße 176 - zur Kenntnis genommen
+- TOP 21: Bürgerhaus Eller - zur Kenntnis genommen
+- TOP 22: Parksituation Teplitzer Straße - einstimmig beschlossen
+- TOP 23: Graffiti-Beseitigung im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 24: Renaturierung Sportplatz Tannenhofweg - einstimmig beschlossen
+- TOP 25: Joggingstrecke am Unterbacher See - mehrheitlich abgelehnt
+- TOP 26: Grünkonzept für den Stadtbezirk 8 - einstimmig beschlossen
+- TOP 27: Grünweg Josef-Wilbert-Sraße - Vennhauser Allee - einstimmig beschlossen
+- TOP 28: Fahrbahnsanierung Gatherweg und Posener Straße - einstimmig beschlossen
+- TOP 29: Farbcode-System an der Haltestelle Schlesische Straße - einstimmig beschlossen
+- TOP 30: Fahrbahnaufpflasterung Ludwigstraße - einstimmig beschlossen
+- TOP 31: Parkplätze Gumbertstraße - zur Kenntnis genommen
+- TOP 32: Sachstand CKW-Grundwasserverunreinigungen im Stadtteil Gerresheim in Verbindung mit Neuordnungsgebieten - zur Kenntnis genommen
+- TOP 33: Masterplan Schulen - Programm 2008 - zur Kenntnis genommen
+- TOP 34: Haltverbot Waagenstraße / Wormser Weg - zur Kenntnis genommen
+- TOP 35: Nachtnetz der Rheinbahn - zur Kenntnis genommen
+- TOP 36: Zaun Wasserspielplatz Schlosspark Eller - zur Kenntnis genommen
+- TOP 37: Öffnung von Lehrerparkplätzen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 38: Radweg Ludwigshafener Straße - zur Kenntnis genommen
+- TOP 39: Beleuchtung St. Gertrud - zur Kenntnis genommen
