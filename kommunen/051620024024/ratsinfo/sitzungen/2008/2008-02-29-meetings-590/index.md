@@ -1,0 +1,52 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2008-02-29T16:03:00+01:00
+- Ende: 2008-02-29T20:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/590
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/590
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Wassersportzentrum am Sandhofsee (SP210208-06168.doc)
+- TOP 3: Genehmigung der Dringlichkeitsentscheidung Nr. 92, hier: Public TV in Neuss zur Fußball-Europameisterschaft 2008 (RAT290208-06078.doc)
+- TOP 4: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 5: Einwohnerfragestunde
+- TOP 6: Kommunales Wahlrecht für Migrantinnen und Migranten (HA240108-06058.doc)
+- TOP 7: Genehmigung der Tagesordnung
+- TOP 8: Gedenktafel zur Erinnerung an die Zwangsarbeiter und Zwangsarbeiterinnen (RAT290208-06252.doc)
+- TOP 9: Umsetzung des Bahnhofsentwicklungsprogramms - Vorentwurfsplanung (Module 1 bis 4 und 6)
+- TOP 10: Aufstellung eines Bebauungsplans im Bereich Batteriestraße/Cretschmar-Hallen - Grundsatzbeschluss - informelle Unterrichtung der Öffentlichkeit und Beteiligung der für die Umweltprüfung maßgeblichen Behörden und sonstigen Träger öffentlicher Belange
+- TOP 11: Flächennutzungsplanänderung Nr. 115 - Grimlinghausen-Südost - - Aufstellungsbeschluss - Entwurfsvorlage Rahmenplan Grimlinghausen-Südost - frühzeitige Bürger-/Trägerbeteiligung
+- TOP 12: Bebauungsplan Nr. 201/3 - Stadionviertel, Maastrichter Straße - - Entwurfsvorlage - Aufstellungsbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 13: Änderung der Hauptsatzung (HA240108-06057.doc)
+- TOP 14: Bebauungsplan Nr. 405/1 - Allerheiligen, Am Kirchenmorgen - - Aufstellungsbeschluss
+- TOP 15: Ausbau Bonner Straße in Höhe Kasterstraße (Straßenbau, Beleuchtung) - Planvorlage, Ausbauprogramm - (BA200208-06117.doc)
+- TOP 16: Lärmschutzwände entlang der DB-Strecke Krefeld-Neuss-Köln im Bereich des S-Bahn-Haltepunktes Allerheiligen - Planvorlage und Ausbauprogramm- (BA200208-06160.doc)
+- TOP 17: Antrag des City Treff Neuss e.V. auf Erlass einer Ordnungsbehördlichen Verordnung zur Öffnung der Geschäfte in der Innenstadt an vier Sonntagen im Jahr 2008 (HA240108-06053.doc)
+- TOP 18: Bebauungsplan Nr. 453 - Pomona, Jülicher Landstraße - - Entwurfsvorlage - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 19: Landesprogramm „Kein Kind ohne Mahlzeit“ (SCH300108-06067.doc)
+- TOP 20: Erweiterter Ganztagsbetrieb an der Geschwister-Scholl-Schule – Städtische Gemeinschaftshauptschule (SCH300108-06070.doc)
+- TOP 21: Benennung der Teilnehmer für die Mitgliederversammlung 2008 des Städtetages Nordrhein-Westfalen (RAT290208-06171.doc)
+- TOP 22: Zweite Wiederwahl eines Beigeordneten (HA240108-05997.doc)
+- TOP 23: Sachstand Rennbahn: (keine) Verwirklichung der Variante B+ mit der Firma HBM (RAT290208-06206.doc)
+- TOP 24: Erftverband hier: Delegiertenwahl 2008 (RAT290208-06207.doc)
+- TOP 25: Übernahme Trägerschaft Kindertageseinrichtung Kivitzbusch II (JHA070208-06049.doc)
+- TOP 26: Sport und Gesundheit in Neuss Ausbau u. Modernis. d. Ludwig-Wolker-Sportanl. u. d. Bezirkssportanl.Stadtwald mit Verlagerung des Fußball- und Leichtathletik-Sportbetriebs aus dem Stadion Jahnstraße auf diese Sportanlagen
+- TOP 27: Änderung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Tageseinrichtungen für Kinder in der Stadt Neuss (JHA070208-06113-KiBizElternbeiträge2.doc)
+- TOP 28: Befreiuung vom Essensgeld in Kindertagesstätten der Stadt Neuss für beitragsbefreite Familien (JHA070208-06146.doc)
+- TOP 29: Krematorium im Bereich des Südfriedhofs? (RAT290208-06196.doc)
+- TOP 30: Namensgebung der Grundschule Grefrath - katholische Bekenntnisgrundschule - (BHZ061207-05929.doc)
+- TOP 31: Flächennutzungsplanänderung Nr. 113 - Allerheiligen, Bau-/Heimwerker- und Gartenmarkt - - Beschluss über die Stellungnahmen - Beschluss über die FNP-Änderung - Einholung der Genehmigung
+- TOP 32: Einwohnerfragestunde
+- TOP 33: Änderung der Geschäftsordnung des Rates (RAT29022008-06204.doc)
+- TOP 34: Bürgerfreundliche Ausgestaltung des „Bürokratieabbaugesetzes II“ (SR290208-05992.doc)
+- TOP 35: Sanierung und Modernisierung des ehemaligen Huma- Einkaufscenters, Breslauer Straße (RAT290208-06197.doc)
+- TOP 36: „Stimmzettel statt Wahlcomputer?“ (RAT290208-06213.doc)
+- TOP 37: Festschreibung der VRR-Umlage für die Rheinbahnbedienung (RAT290208-06212.doc)
+- TOP 38: Neubau Musikschule / VHS Vorbereitung des Vergabeverfahrens und Durchführung (RAT 290208-06237.doc)
