@@ -1,0 +1,51 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2008-03-03T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1275715
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1275715
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Zustand und Sauberkeit der Radwege; Verkehrsgefährdung an der Eisenbahnunterführung Lindwurmstraße - <div>qualifizierte Vertagung</div>
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Stoppt die Umwandlung von Mietshäusern in Erhaltungssatzungsgebieten (Antrag des Mietervereins München e. V.,des Mieterbeirats der Landeshaptstadt München und des Vereins Mieter helfen Mieter)
+- TOP 3.2.: Projekte quartierbezogener Bewohnerarbeit; Einrichtung eines Bewohnertreffs auf der Theresienhöhe
+- TOP 3.3.: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 26.11.2007
+- TOP 4.: Schulreferat
+- TOP 4.1.: Frühere Entscheidung bei der Vergabe von Hortplätzen (BV-Empf. Nr. 828 vom 12.07.07)
+- TOP 4.2.: Kindertagesstätte freigemeinnütziger Träger; Kindertageseinrichtung "St. Margaret" an der Plinganserstraße 22
+- TOP 5.1.: Freischankfläche Gastsätte Bussone; Thalkirchner Straße 129
+- TOP 6.1.: Warenstellage Implerstraße 52
+- TOP 6.2.: Warenstellage Implerstraße 14
+- TOP 6.3.: Veranstaltungen und Sondernutzungen auf öffentlichem Verkehrsgrund, neue Veranstaltungsrichtlinien
+- TOP 6.4.: Veranstaltung anl. 850-Jahrfeier; Steinerstraße 20a
+- TOP 6.5.: Meldeliste Bauvorhaben SWM
+- TOP 6.6.: Umstellung der Parkmarkierungen in der Ganghoferstraße zwischen Kraelerstraße und Baumgartnerstraße auf Senkrechtparken - <div>Zur Kenntnis genommen</div>
+- TOP 7.1.: Budgetantrag 30 Jahre Sendlinger Kulturschmiede; ? 6500,-
+- TOP 7.2.: Zuständigkeiten für Sondernutzungen im öffentlichen Raum
+- TOP 7.3.: Budget der Bezirksausschüsse, Erfahrungsbericht 2007
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 9.: Baureferat
+- TOP 9.1.: Absenkung von Bordsteinen im Rahmen von Baumaßnahmen
+- TOP 9.2.: Wasserablauf nach Regenfällen am Fußgängerüberweg an der Plinganserstraße / Lindenschmitstraße - <div>zustimmende Kenntnisnahme</div>
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Reichersbeurer Straße 9
+- TOP 10.2.: Baumfällung Plinganserstraße 114a, eine Hainbuche, vier Ahorn
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 12.1.: Sauberkeit der Wackersbergerstraße - Aufstellung von weiteren Abfallkörben
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Entlastung der Fußgängerzone; Abbau der Vitrinen; Durchführung der Tombola "Für München"
+- TOP 13.2.: Überfliegen des Stadtgebietes
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
