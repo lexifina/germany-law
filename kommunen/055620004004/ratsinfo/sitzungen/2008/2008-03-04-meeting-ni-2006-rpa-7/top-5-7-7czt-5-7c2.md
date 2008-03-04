@@ -1,0 +1,6 @@
+# TOP 5: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 7. Sitzung des Rechnungsprüfungsausschusses (2008-03-04)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: nein
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-RPA-7%7Czt_5%7C2
