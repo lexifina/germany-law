@@ -1,0 +1,100 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2008-03-04T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1302673
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1302673
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: LKW-Parken im Bereich Hogenbergplatz
+- TOP 1.2.2.: Tiefgaragenausfahrt an den Agnes-Bernauer-Arkaden
+- TOP 1.2.3.: Verunreinigungen Gehweg und Straße / Veit-Stoß-Straße
+- TOP 1.2.4.: Grünanlage an der Agnes-Bernauer-Straße / Aldegreverstraße
+- TOP 1.2.5.: Elterninitiative "Die Bärchen" von Schließung bedroht
+- TOP 1.2.6.: Fußgängerunterführung Nordende Laimer Unterführung
+- TOP 1.0: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anträge
+- TOP 2.1.: SPD-Fraktion: Nächtliche Beleuchtung des Büro- und Geschäftsgebäudes Landsberger Str. 374
+- TOP 2.2.: Unterausschuss Kinder / Jugend: Bau eines weiteren Kindertageszentrums in Laim
+- TOP 2.3.: Unterausschuss Kinder / Jugend: Dauerhafte Raumlösung für die Schule der Phantasie
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage KVR: Änderung der Ampelschaltung an der Kreuzung Landsberger Straße / Friedenheimer Straße (Ziffer 1 des Antrages) (Empfehlung Nr. 02-08 / E 00919 der Bürgerversammlung vom 08.11.07)
+- TOP 3.2.: Beschlussvorlage KVR: Wiederaufstellung der Fahrradampel am Fußgängerübergang vor der Grundschule an der Senftenauerstr. 21(Empfehlung Nr. 02-08 / E 00929 der Bürgerversammlung vom 08.11.07) - <div>Abweichung von Referentenvorl.</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 08.02.08: Veranstaltungen sowie Sondernutzungen auf öffentlichem Verkehrsgrund, neue Veranstaltungsrichtlinien
+- TOP 4.2.: Schreiben Referat für Gesundheit und Umwelt vom 11.02.08: Beschlussvorlage für den Umweltausschuss am 27.05.08; Überfliegen des Stadtgebietes
+- TOP 4.3.: Schreiben KVR vom 08.02.08: Flohmarkt am 15.03.08 in der Grünanlage Burgkmairstraße
+- TOP 4.4.: Schreiben KVR vom 12.02.08: Osterfeuer am 23.03.08 auf dem Laimer Anger
+- TOP 4.5.: Schreiben KVR vom 19.02.08: Flohmarkt am 12.04.08 auf dem Spielplatz Von-der-Pfordten-Straße / Valpichlerstraße
+- TOP 4.6.: Schreiben KVR vom 08.02.08: Veranstaltung (Kostenloser Hörtest) am 14.04.08 auf dem Laimer Anger
+- TOP 4.7.: Schreiben KVR vom 19.02.08: Flohmarkt am 26.04. und 07.06.08 auf dem Spielplatz Von-der-Pfordten-Straße
+- TOP 4.8.: Schreiben KVR vom 23.01.08: Flohmarkt auf dem Hogenbergplatz am 17.05.08
+- TOP 4.9.: Schreiben KVR vom 12.02.08: Fronleichnamsprozession am 25.05.08 auf dem Laimer Anger
+- TOP 4.10.: Schreiben KVR vom 12.02.08: Veranstaltung "Licht in der Nacht, Christen beten miteinander für Laim" am 24.06.08 auf dem Laimer Anger
+- TOP 4.11.: Schreiben KVR vom 12.02.08: Veranstaltung "Kasperles Märchenwelt" vom 07.-12.10.08 auf dem Laimer Anger
+- TOP 5: Baumfällungen
+- TOP 5.1.: Bauvorhaben Reutterstr. 62: Neubau eines Mehrfamilienhauses (6WE) mit TG (6Stpl.); hier: Baumfällungen
+- TOP 6: Bauvorhaben
+- TOP 7: Sonstiges
+- TOP 8: Protokolle
+- TOP 8.1.: BA-Sitzung vom 29.01.08
+- TOP 8.2.: Sitzung des UA Kinder / Jugend vom 12.02.08
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Bürgermeisterin Christine Strobl vom 21.01.08: Informationsveranstaltung am 05.07.07
+- TOP 9.2.: Schreiben Direktorium vom 21.01.08: Zuwendung aus dem Budget; Antrag vom 13.10.06 für Kunstprojekt 2006/2007; Antragsteller: Grundschule Schrobenhausener Str. 15
+- TOP 9.3.: Schreiben Direktorium vom 01.02.08: Budget der Bezirksausschüsse, Erfahrungsbericht 2007
+- TOP 9.4.: Schreiben Direktorium vom 15.02.08: Verwendungsnachweis über einen Zuschuss aus dem Budget; Antragsteller: REGSAM 8/25
+- TOP 9.5.: Schreiben Direktorium vom Februar 08: Jahresbericht 2007 mit Jahresvorschau 2008
+- TOP 9.6.: Schreiben Baureferat vom 17.01.08: Mehr Radl-Abstell-Plätze am Laimer Kreisel (BA-Antrag Nr. 02-08 / B 02531)
+- TOP 9.7.: Schreiben Baureferat vom 13.02.08: Neuer Kinderspielplatz am Käthe-Bauer-Weg (Schreiben BA vom 07.02.08)
+- TOP 9.8.: Schreiben Baureferat vom 14.02.08: Generalinstandsetzungsmaßnahme und Errichtung eines Abenteuerspielplatzes Jugendtreff Laim, von-der-Pfordten-Str. 59; verwaltungsinterne Projektgenehmigung
+- TOP 9.9.: Schreiben PI 41 vom 18.01.08: Parksituation Camerloher Str. 110
+- TOP 9.10.: Schreiben KVR vom 16.10.07: Busspur in der Fürstenrieder Straße zwischen Gotthard- und Landsberger Straße; Änderung der zeitlichen Geltungsdauer
+- TOP 9.12.: Schreiben KVR vom 17.01.08: Gaststätte "Straubinger Wirtshaus Cafe Bar", Straubinger Str. 9; Antrag auf Neuerrichtung
+- TOP 9.13.: Schreiben KVR vom 29.10.07: Taxistandplatz Landsberger Str. 185 (Nachtwerk); Zeitweise Verlängerung
+- TOP 9.14.: Schreiben KVR vom 17.12.07: Schulbushaltestelle Schrobenhausener Straße; Änderung des Zeitzusatzes am Haltverbot
+- TOP 9.15.: Schreiben KVR vom 19.02.08: Anmeldung einer stationären Versammlung unter freiem Himmel am 21.02.08; Heilpädagogische Tagesstätte Laim, Mergentheimer Str. 6
+- TOP 9.16.: Schreiben Schulreferat vom 18.01.08: Erweiterung der Kindertageseinrichtung Camerloherstr. 108
+- TOP 9.17.: Schreiben Sozialreferat vom 31.01.08: Ergebnisprotokolle der Sitzungen der Arbeitsgruppe Wohnungslosigkeit vom 08.05.07 und 13.11.07
+- TOP 9.18.: Schreiben Sozialreferat vom 01.02.08: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 26.11.07
+- TOP 9.19.: Schreiben Stadtkämmerei vom 17.01.08: Finanzplan 207-2011
+- TOP 9.20.: Schreiben Kulturreferat vom 15.02.08: Stadtteilwoche Laim (Schreiben BA vom 07.02.08)
+- TOP 9.21.: Schreiben Referat für Arbeit und Wirtschaft am 04.02.08: Bus- und Tramhaltestelle Westendstraße; Verbesserungsvorschläge (Antrag Nr. 02-08 / B 2527 vom 02.10.07)
+- TOP 9.22.: Schreiben MVG vom 11.02.08: Bushaltestelle Laimer Platz (Schreiben BA vom 16.01.08)
+- TOP 9.23.: Bautenliste vom 14.01.-20.01.08 1. Erstantragsverfahren a) Landsberger Str. 336 b) Schäufeleinstr. 20 2. Änderungsverfahren a) Lautensackstr. 23 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Fürstenrieder Str. 82
+- TOP 9.24.: Bautenliste vom 21.01.-27.01.08 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Fürstenrieder Str. 147
+- TOP 9.25.: Bautenliste vom 28.01.-03.02.08 1. Erstantragsverfahren a) Haslangstr. 7 b) Camerloherstr. 199 2. Änderungsverfahren a) Agnes-Bernauer-Str. 74 b) Straubinger Str. 28 3. Abbruchanzeigen a) Landsberger Str. 191
+- TOP 9.26.: Bautenliste vom 04.02.-10.02.08 1. Änderungsverfahren a) Agnes-Bernauer-Str. 53 b
+- TOP 9.27.: Bautenliste vom 11.02.-17.02.08 1. Erstantragsverfahren a) Schäufeleinstr. 2
+- TOP 9.28.: Schreiben Planungsreferat vom 04.02.08: Unterrichtung von eingereichten Bauanträgen und Anträgen auf Vorbescheid vom 01.01.-27.01.08 1. Erstantragsverfahren a) Ludwig-Richter-Str. 8 b) Weiß-Ferdl-Str. 31 c) Perhamerstr. 2 d) Stadtloher Str. 5 e) Isbertstr. 8
+- TOP 9.29.: Schreiben Planungsreferat vom 28.01.08: Liste der beantragten Baumfällungen vom 14.01.-20.01.08
+- TOP 9.30.: Schreiben Planungsreferat vom 28.01.08: Liste der beantragten Baumfällungen vom 21.01.-27.01.08
+- TOP 9.31.: Schreiben Planungsrefert vom 04.02.08: Liste der beantragten Baumfällungen
+- TOP 9.32.: Schreiben Planungsreferat vom 11.02.08: Liste der beantragten Baumfällungen
+- TOP 9.33.: Schreiben Stadtwerke München GmbH vom 21.01.08: Baumaßnahmen der Stadtwerke München; Stichtag: 21.01.08
+- TOP 9.34.: Schreiben Stadtwerke München GmbH vom 28.01.08: Baumaßnahmen der Stadtwerke; Stichtag: 28.01.08
+- TOP 9.35.: Schreiben Stadtwerke München GmbH vom 04.02.08: Baumaßnahmen der Stadtwerke; Stichtag: 04.02.08
+- TOP 9.36.: Schreiben Stadtwerke München GmbH vom 11.02.08: Baumaßnahmen der Stadtwerke München; Stichtag: 11.02.08
+- TOP 9.37.: Schreiben Stadtwerke München GmbH vom 18.02.08: Baumaßnahmen der Stadtwerke; Stichtag: 18.02.08
+- TOP 9.38.: Beschluss der Vollversammlung vom 23.01.08: 2. S-Bahn-Stammstrecke München; Planfeststellungsverfahren nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG) (Sitzungsvorlagen Nr. 02-08 / V 11201)
+- TOP 9.39.: Beschluss der Vollversammlung vom 23.01.08: Konzept zur Umsetzung vom Teilplan 4, Tageseinrichtungen, Tagespflege, Teil B, Bedarfsplanung Kinderbetreuung - Ausbauoffensive - (Sitzungsvorlagen Nr. 02-08 / V 10593)
+- TOP 9.40.: Bekanntgabe im Schulausschuss vom 30.01.08: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2007/2008 (Sitzungsvorlagen Nr. 02-08 / V 11340)
+- TOP 9.41.: Bekanntgabe im Schulausschuss vom 30.01.08: Berufliche Schulen der LH München im Schuljahr 2007/2008; Stand: 20.10.07 (Sitzungsvorlagen Nr. 02-08 / V 11270)
+- TOP 9.42.: Bekanntgabe im Schulausschuss vom 30.01.08: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städtischen Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2007/2008 (Sitzungsvorlagen Nr. 02-08 / V 11361)
+- TOP 9.43.: Bekanntgabe im Schulausschuss vom 30.01.08: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen der besonderen Art im Schuljahr 2007/2008 (Sitzungsvorlagen Nr. 02-08 / V 11211)
+- TOP 9.44.: Bekanntgabe im Schulausschuss vom 30.01.08: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2007/2008 (Sitzungsvorlagen Nr. 02-08 / V 11324)
+- TOP 9.45.: Beschluss des Bauausschusses vom 12.02.08: Absenkung von Bordsteinen im Rahmen von Baumaßnahmen (Sitzungsvorlagen Nr. 02-08 / V 11078)
+- TOP 9.46.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 27.02.08: Bebauungsplan mit Grünordnung Nr. 1771, Zschokkestraße (südlich) zwischen Westend- und Hans-Thonauer-Straße (Straßenbahnbetriebshof); a) Ergebnis des städtebaulichen und landschaftsplanerischen Realisierungswettbewerbes, b) weiteres Vorgehen (Sitzungsvorlagen Nr. 02-08 / V 11617)
+- TOP 9.47.: Schreiben BA 8 Schwanthalerhöhe vom 19.02.08: Stärkung der Stadtteilkultur
+- TOP 9.48.: Schreiben BA 15 Trudering-Riem vom 17.02.08: Stärkung der Stadtteilkultur
+- TOP 9.49.: Schreiben BA 20 Hadern vom 14.01.08: Abschaffung der Nutzungsgebühren für Schulturnhallen
+- TOP 9.50.: Schreiben Mieterverein München e.V., Mieterbeirat und Verein Mieter helfen Mietern vom 18.02.08: Unterstützung der Kampagne "Stoppt die Umwandlung von Mietshäusern in Erhaltungssatzungsgebieten, kein Ausverkauf der Wohnungen in Münchner Erhaltungssatzungsgebieten"
+- TOP 9.51.: Schriftverkehr aus der BA-Sitzung vom 29.01.08
+- TOP 1.2: Bürgerpost an den BA
