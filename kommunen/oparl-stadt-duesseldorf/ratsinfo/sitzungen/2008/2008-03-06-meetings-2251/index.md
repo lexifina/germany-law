@@ -1,0 +1,62 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-03-06T14:00:00+01:00
+- Ende: 2008-03-06T00:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2251
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2251
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167323.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167323.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167323.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 3: Akt. Anfr. SPD: Hafenfest - beantwortet
+- TOP 4: Akt. Anf. Bü90: Tuchtinsel - beantwortet
+- TOP 5: Akt. Anfr. Rf Kahl: Oronto - beantwortet
+- TOP 6: Akt. Anfr. Lbbg: Kriminalstatistik - beantwortet
+- TOP 7: Anfragen - zur Kenntnis genommen
+- TOP 8: Anfr. SPD: Konvent Bürgermeister - beantwortet
+- TOP 9: Anfr. CDU: Aufbau Ost - beantwortet
+- TOP 10: Anfr.Ratsfrau Kahl: CO-Pipeline - beantwortet
+- TOP 11: Anfrage d. Ratsfrau Kahl: Schloß Eller - beantwortet
+- TOP 12: Anfr. d. Ratsherrn Laubenburg: WestLB-Krise - beantwortet
+- TOP 13: Anfr. d. Ratsherrn Laubenburg: SSK Düsseldorf - schriftlich beantwortet
+- TOP 14: Anträge - zur Kenntnis genommen
+- TOP 15: Antrag d. Ratsfr. Bü90/Grü: Umweltzone - mehrheitlich abgelehnt
+- TOP 16: ÄA CDU/FDP: Umweltzone - mehrheitlich abgelehnt
+- TOP 17: Antrag d. Ratsfr. Bü90/Grü: Alkoholkonsum v. Kindern u. Jugendlichen - einstimmig beschlossen
+- TOP 18: Antrag Bü90/Grü: Masterplan Klimaschutz - mehrheitlich abgelehnt
+- TOP 19: Antrag d. SPD: Bessere Bedingungen für Bürgerentscheide - zur Kenntnis genommen
+- TOP 20: Antrag d. SPD: Unterstützung für Kleingartenvereine - verwiesen
+- TOP 21: Antrag d. SPD: Fußball-EM 2008 - mehrheitlich abgelehnt
+- TOP 22: Antrag Bü90/GRü u. SPD: Tonhallenterrasse - zurückgezogen
+- TOP 23: Dringlicher Antr. FDP: Marie Curie - mehrheitlich beschlossen
+- TOP 24: Bürgerentscheid "Rettet den Golzheimer Friedhof" - einstimmig beschlossen
+- TOP 25: Kämmererliste - mehrheitlich beschlossen
+- TOP 26: Jahresabschluss- und Lagebericht 2006 des Stadtbetriebs Zentrale Dienste - einstimmig beschlossen
+- TOP 27: Maßnahmenprogramm Klimaschutz - zur Kenntnis genommen
+- TOP 28: Grundschulen Im Dahlacker / Fleher Straße 70, Umbau für die Erweiterung der Offenen Ganztagsschule Bau- und Finanzierungsbeschluss. - einstimmig beschlossen
+- TOP 29: KGS Einsiedelstraße 25, Neubau für die Einrichtung der Offenen Ganztagsschule, der Räumlichkeiten für die Verwaltung sowie eines Klassenraumes - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 30: Neubau der Feuer- und Rettungswache Nord Mitteilung über die Durchführung einer Generalunternehmervergabe für o.a. BV - Information - - einstimmig beschlossen
+- TOP 31: Erweiterung des Sirenensystems für die verbleibenden Stadtgebiete Düsseldorfs - einstimmig beschlossen
+- TOP 32: Umbesetzungen - einstimmig beschlossen
+- TOP 33: Mitgliederversammlung Städtetag - einstimmig beschlossen
+- TOP 34: Vertretung in der Verbandsversammlung ITKR - einstimmig beschlossen
+- TOP 35: Abberufung - einstimmig beschlossen
+- TOP 36: Wiederwahl der Schiedsfrau Monika Scholl - einstimmig beschlossen
+- TOP 37: Satzung über Kindergartenbeiträge - mehrheitlich beschlossen
+- TOP 38: ÄA. LL: Elternbeitragssatzung - mehrheitlich abgelehnt
+- TOP 39: Richtlinien für die Förderung von selbstgenutztem Wohneigentum - einstimmig beschlossen
+- TOP 40: Berschlusskontrolle Rat - einstimmig beschlossen
+- TOP 41: Bildungsoffensive II - Offene Ganztagsschule in Düsseldorf - einstimmig beschlossen
+- TOP 42: Schulorganisatorische Maßnahme an der Pestalozzi-Schule, Städtische Katholische Grundschule Pestalozzistraße - Grundschulverbund mit der Heinrich-Heine-Schule, Städtische Gemeinschaftsgrundschule Heerdter Landstraße - - einstimmig beschlossen
+- TOP 43: Schließung Kita Hördtweg 4 - einstimmig beschlossen
+- TOP 44: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 45: B-Plan Nr. 5478/063 - ERGO - mehrheitlich beschlossen
