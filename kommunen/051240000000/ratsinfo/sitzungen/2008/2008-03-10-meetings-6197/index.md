@@ -1,0 +1,75 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2008-03-10T16:05:00+01:00
+- Ende: 2008-03-10T18:56:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6197
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6197
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung - Stand: 07.03.2008 - 08.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00091414.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00091644.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Festlegung der Geschäftskreise der Beigeordneten gem. § 73 Abs. 1 GO NW - ungeändert beschlossen
+- TOP 1.2: Wiederwahl eines Beigeordneten - ungeändert beschlossen
+- TOP 1.3: Wahl eines Beigeordneten für den Geschäftsbereich "Bildung, Kultur und Sport"
+- TOP 1.4: Wahl einer/eines Beigeordneten für den Geschäftsbereich "Stadtentwicklung, Planung und Bauen"
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Zuschüsse zum Schulmitagessen - abgesetzt
+- TOP 2.1.1: Antwort zur Anfrage der Ratsfraktion DIE LINKE vom 23. Januar 2008 "Zuschüsse zum Schulmittagessen" - abgesetzt
+- TOP 2.2: Bau eines EBS-Kraftwerks in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Bau eines EBS-Kraftwerkes in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.3: Islamische Gemeinde Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Inslamische Gemeinde Wuppertal - Anfrage der Ratsgruppe Die Republikaner v. 18.02.2008 - abschließend zur Kenntnis genommen
+- TOP 2.4: ARGE Wuppertal: Praxis der Fahrtkostenerstattung, Beschäftigungen im öffentlichen Raum und Anzahl und Auswirkungen von Sanktionen - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Beantwortung der Anfrage der Fraktion DIE LINKE vom 19.02.2008 - abschließend zur Kenntnis genommen
+- TOP 2.5: West LB - Konsequenzen für die Stadt - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Beantwortung der Anfrage WestLB - Konsequenzen für die Stadt VO/0139/08 der Fraktion Bündnis 90/DIE GRÜNEN - abschließend zur Kenntnis genommen
+- TOP 2.6: Absicherung von Kreditzinsen - abschließend zur Kenntnis genommen
+- TOP 2.6.1: Beantwortung der Anfrage der Fraktion DIE LINKE - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Kommunen ohne genehmigten Haushalt bei Förderprogrammen stärken - ungeändert beschlossen
+- TOP 4.2: Schulentwicklungsplanung - ungeändert beschlossen
+- TOP 4.3: Umgehende Planung einer 6. Gesamtschule - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.4: Ergänzungsantrag zu VO/0119/09, - abgelehnt
+- TOP 4.5: Wird unter TOP 2.5 behandelt.
+- TOP 4.6: Umbenennung der Lettow-Vorbeck-Straße in Wuppertal-Vohwinkel - Nichtbefassung beschlossen
+- TOP 4.7: Verbote des OB im Zusammenhang mit der Ausstellung "Vom Polizeigriff zum Übergriff" - abgelehnt
+- TOP 4.8: Jahresöffnungszeit der städtischen Freibäder im April, September und Oktober - zur Vorberatung verwiesen
+- TOP 4.9: Einführung eines Sozialtickets durch die WSW mobil GmbH - abgelehnt
+- TOP 4.10: Verbesserung des Haushaltsergebnisses mit externer Hilfe - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Babybegrüßungspaket für Wuppertal - abgesetzt
+- TOP 5.2: Kommunales Wahlrecht für Nicht-EU-BürgerInnen - in der Sache erledigt
+- TOP 5.3: Dringlichkeitsantrag "Fuhlrott-Museum" - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: Zweite Änderungssatzung zur Satzung über die Erhebung von Elternbeiträgen - ungeändert beschlossen
+- TOP 6.2: Änderung der Straßenordnung - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Kategorisierung und Priorisierung der im Doppelhaushalt 2008/2009 für 2008 vorgesehenen Investitionen - ungeändert beschlossen
+- TOP 7.2: Bewirtschaftungsrichtlinien gemäß § 21 Gemeindehaushaltsverordnung NRW - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 9: Planverfahren
+- TOP 9.1: Sammelbeschluss zur Aufhebung überholter Planverfahren im Stadtbezirk Uellendahl-Katernberg (Satzungsbeschlüsse) - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 1066 - Engineering Park Wuppertal - (Bebauungsplan und 8. FNP-Änderung) - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Errichtung eines Ersatzbaus für die dreigruppige städtische Tageseinrichtung für Kinder An der Blutfinke 4 - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Freundschaftsvertrag mit der Stadt Qingdao (Volksrepublik China) - ungeändert beschlossen
+- TOP 11.2: Gremientätigkeiten von Herrn Oberbürgermeister Peter Jung - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bestellung eines Mitglieds für den Aufsichtsrat der Hotel AG - geändert beschlossen
+- TOP 12.2: Wahl der Beisitzerinnen und Beisitzer des Wahlausschusses für die Kommunalwahl 2009 - geändert beschlossen
+- TOP 12.3: Mitgliederversammlung des Städtetages Nordrhein-Westfalen am 17. Juni 2008 in Wuppertal - geändert beschlossen
+- TOP 12.4: Umbesetzung im Betriebsausschuss Alten- und Altenpflegeheime - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.6: TOP 12: Gremienbesetzung / Benennungen - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.8: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen
