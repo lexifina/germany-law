@@ -1,0 +1,84 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2008-03-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1307276
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1307276
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Verkehr
+- TOP 3.3.: UA Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Antrag der Volksschule München, Hauptschule Guardinistr. 60 auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 3.190,- ? (Direktorium, 16.01.08) (vertagt aus 02/08)
+- TOP 5.2.: Antrag des VdK - OV Hadern, Landesverband Bayern e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.200,- ? (Direktorium, 11.02.08)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Veranstaltungen sowie Sondernutzungen auf öffentlichem Verkehrsgrund, neue Veranstaltungsrichtlinien (Kreisverwaltungsreferat, 08.02.08) (vertagt aus 02/08)
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO; hier: Festzug zum 25. Vereinsjubiläum am 04.05.08 der SG Hadern St. Peter (Kreisverwaltungsreferat, 13.02.08)
+- TOP 6.3.: Veranstaltung in einer städtischen Grünanlage, hier: Kasperletheater Stossberger vom 13.06. - 22.06.08 auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 11.02.08)
+- TOP 6.4.: Anhörung des Bezirksausschusses zu Bürgerversammlungsempfehlungen: - Ruhe am Himmel - Sanktionierung ungesetzlicher Tiefflüge (BV-Empfehlung Nr. 948 der Bürgerversammlung des Stadtbezirkes 2 am 15.11.07) - Einschränkung bzw. Verbot von Sightseeingflügen über der Innenstadt (BV-Empfehlung Nr. 961 der Bürgerversammlung des Stadtbezirkes 1 vom 20.11.07)
+- TOP 6.5.: Lärmschutz an der BAB A 96: Einhausung zwischen Burgfrieden und Forstenrieder Straße, Lärmschutzwände bzw. -fenster; Verminderung des Verkehrslärms, Verlängerung des Lärmschutzwalls bis zum Schlagweg, Tieferlegen der A 96, Autobahnringschluss im Südwesten (Referat für Gesundheit und Umwelt, 22.02.08)
+- TOP 6.6.: Vollzug des Sprengstoffgesetzes, hier: Feuerwerk zum Dorffest auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 28.02.08)
+- TOP 6.7.: Veranstaltung in einer städtischen Grünanlage, hier: Falknershow am 17.04.08 auf der Fußballwiese zwischen Waldheim und Waldgartenstraße, Wolfgang Schreyer mit Städt. Kindertagesstätte Heiglhofstraße 68 (Kreisverwaltungsreferat, 04.03.08)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Großhaderner Str. 47, 1 Kastanie
+- TOP 7.2.: Großhaderner Str., gem. Baumbestandsplan Nr. 2474
+- TOP 7.3.: Würmtalstr. 155, 1 Birke
+- TOP 7.4.: Stahleckstr. 1 a, gem. Baumbestandsplan Nr. 1155
+- TOP 7.5.: Immastr. 1, gem. Baumbestandsplan Nr. 3009
+- TOP 7.6.: Waldesruhe 22, gem. Baumbestandsplan Nr. 4050
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Waldwiesenstr., 2 Bäume (Baureferat, 24.01.08)
+- TOP 7.2.: Waldfriedhof, 2 Bäume (Baureferat, 18.02.08)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Protokolle aus den Sitzungen der Arbeitsgruppe Wohnungslosigkeit vom 08.05.2007 und 13.11.2007 (Sozialreferat, 31.01.08)
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München (Liste der SWM vom 04.02.08)
+- TOP 8.3.: Straßenbahnlinie am Lorettoplatz / Kriegerheimerstraße / Würmtalstraße (SWM, 28.01.08)
+- TOP 8.4.: 850. Stadtgeburtstag; 8. Treffen der Bezirksausschüsse (Referat für Arbeit und Wirtschaft, 29.01.08)
+- TOP 8.5.: Protokoll der Informationsveranstaltung des Sozialreferates vom 26.11.07 (Sozialreferat, 01.02.08)
+- TOP 8.6.: Städtische Kindertageseinrichtung Prälat-Wellenhofer-Str. 32 a (Schul- und Kultusreferat, 04.02.08)
+- TOP 8.7.: Budget der Bezirksausschüsse, Erfahrungsbericht 2007 (Direktorium, 01.02.08)
+- TOP 8.8.: Informationsveranstaltung am 05.07.2007 im Ratskeller (Bürgermeisterin Strobl, 21.01.08)
+- TOP 8.9.: Unveränderte Fortführung der Aral-Tankstelle Andrea Hermann, Waldwiesenstr. 31(Kreisverwaltungsreferat, 07.02.08)
+- TOP 8.10.: Zweckentfremdung von Wohnraum, Toemlingerstr. 33 (Sozialreferat, 07.02.08)
+- TOP 8.11.: Zweckentfremdung von Wohnraum, Waldesruhe 2 (Sozialreferat, 07.02.08)
+- TOP 8.12.: Zweckentfremdung von Wohnraum, Hohenklingenstr. 17 (Sozialreferat, 18.02.08)
+- TOP 8.13.: Um- bzw. Neuorganisation bei HA II des Direktoriums; Verwaltungsabteilung (Direktorium, 15.02.08)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Notfallplan für Kindergärten und Schulen bei auftretenden Infektionskrankheiten (Referat für Gesundheit und Umwelt, 16.01.08) (vertagt aus 02/08)
+- TOP 9.2.: Antrag des Kontaktkreises Kindergesundheit und Bewegung in Hadern auf kindgerechte Umgestaltung der Grünfläche Lorettoplatz (Baureferat, 01.02.08)
+- TOP 9.3.: Fahrradwegweiser in der Großhaderner Str. (Baureferat, 14.02.08)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Nutzungsgebühr für Schulturnhallen (Schreiben des BA 23 und des BA 13)
+- TOP 11.2.: Einladung zum Regionalgespräch in der Lokalbaukommission (Referat für Stadtplanung und Bauordnung, 25.02.08)
+- TOP 11.3.: Informationsveranstaltung der SWM am 02.04.08 um 18:00 Uhr (SWM, 28.02.08)
+- TOP 11.4.: Aufstellung der Vorschlagsliste zur Auswahl der ehrenamtlichen Schöffinnen und Schöffen für die Gerichtsperiode 2009 - 2013 (Kreisverwaltungsreferat, 04.03.08)
+- TOP 11.5.: Öffentlichkeitsbeteiligung bei der Umgebungslärmrichtlinie - Rundfahrt zum Lärm (Gesundheitsladen München e.V. 02.03.08)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.1.: vom 23.01.2008: Konzept zur Umsetzung des Teilplan 4, Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Ausbauoffensive -, insbesondere zur Kinderkrippe an der Marchioninistraße 3-5 (Kosten 2.150.000,- ?) und zu den Kooperationseinrichtungen an der Großhaderner Straße 40 (Baubeginn im August 2007) und am "Stiftsbogen I" (Baubeginn im August 2008)
+- TOP 12.2.: vom 23.01.2008: Verordnung der Landeshauptstadt München zur Aufhebung des § 2 Abs. 2 Nummern 1 und 2 und des § 2 Abs. 3 der Verordnung der Landeshauptstadt München über Mindestabstandsflächen, Höhenlage von Gebäuden, Gestaltung von Dächern und von unbebauten Flächen bebauter Grundstücke in besonderen Siedlungsgebieten vom 14.12.1979 (die aufgehobenen Bestimmungen waren nichtig, Entscheidung des Bayerischen Verfassungsgerichtshofs vom 12.05.2004 Nr. "Vf. 7-VII-02")
+- TOP 12.3.2: Referentenanträge
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.01.2008: Initiative "Magistrale für Europa", Vereinbarung zur gemeinsamen Finanzierung der Geschäftsstelle (jährliche Kosten 6.000,- ?. Die Schnellbahnstrecke führt von Paris über München nach Budapest)
+- TOP 12.2.: Beschluss des Sozialausschusses vom 10.01.2008: Initiative zur Mietrechtsänderung (Die Situation wird im Deutschen Städtetag eingebracht und diskutiert)
+- TOP 12.3.: Beschluss des Bauausschusses vom 12.02.2008: Absenkung von Bordsteinen im Rahmen von Baumaßnahmen (auf Antrag des BA 2)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 27.02.2008: Beschlussvollzugskontrolle (BVK); Halbjährlicher Sachstandsbericht des Planungsreferates für den Zeitraum 01.07. - 31.12.2007
+- TOP 13: Nichtöffentliche Sitzung
