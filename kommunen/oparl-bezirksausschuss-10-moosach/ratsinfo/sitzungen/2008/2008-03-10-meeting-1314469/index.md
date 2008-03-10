@@ -1,0 +1,68 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2008-03-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1314469
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1314469
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Geschwindigkeitsübertretungen Brieger Straße - <div>Vermehrte Geschwindigkeitskontrollen werden gefordert </div>
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Fuß- und Radweg Ernst-Platz-Straße / Allacher Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Kulturpfad für Moosach
+- TOP 3.2.: Moosacher Brettl
+- TOP 3.3.: Wahlergebnisse
+- TOP 3.4.: Schlüssel für Schaukasten Borstei
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Rasengleise für die Tram zwischen Hugo-Troendle-Straße und Pelkovenstraße - <div>nach Antrag</div>
+- TOP 4.2.: Busabwicklung und Verkehrsführung während der Wiederherstellung der Pelkovenstraße und Bunzlauer Straße - <div>nach Antrag</div>
+- TOP 4.3.: Bürgerentscheid Transrapid - <div>nach Antrag</div>
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Kreuzweg St. Raphael - <div>nach Antrag</div>
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Sondernutzungserlaubnis Pelkovenstr. Ecke Hanauer Straße (vertagt aus der Sitzung am 18.02.08) - <div>nach Antrag</div>
+- TOP 5.2.: Parkscheinautomaten Borstei - <div>nach Antrag</div>
+- TOP 5.3.: Budget Amphionschule - <div>nach Antrag</div>
+- TOP 5.4.: Fahrradständer vor Naturkostladen Dachauer Str. 262 - <div>nach Antrag</div>
+- TOP 5.5.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 10 Moosach Widmung verschiedener Wege in der Trinklsiedlung - Goldnesselweg (Gesamtstrecke) - Bärlauchweg (Gesamtstrecke) - Haselwurzweg (Gesamtstrecke) - Perlgrasweg (Gesamtstrecke) - Mondscheinweg (Teilstrecke 2 x)
+- TOP 6.: Anhörungen
+- TOP 6.1.: Sanktionierung ungesetzlicher Tiefflüge / Verbot von Sightseeingflügen über der Innenstadt (Empfehlungen der Bürgerversammlungen der Stadtbezirke 1 und 2)
+- TOP 6.2.: Tag des offenen Denkmals am 14.09.2008
+- TOP 6.3.: Veranstaltungen und Sondernutzungen auf öffentlichem Verkehrsgrund: Neue Veranstaltungsrichtlinien
+- TOP 6.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5.: Spielhalle Gärtnerstr. 39
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Ausweisung von Parkflächen in der trinkl-Siedlung (nicht möglich)
+- TOP 7.2.: Aufstellung eines Recycling-Containers in der Trinkl-Siedlung (Zwischennachricht)
+- TOP 7.3.: Neue Bushaltestelle In den Kirschen / Wintrichring (erst nach Errichtung der Ampelanlage möglich)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Um- bzw. Neuorganisation bei HA II des Direktoriums; Verwaltungsabteilung
+- TOP 8.4.: Beschluss des Bezirksausschusses 10 Moosach vom 10.12.2007 zum Volksbegehren "Für Bayern - Nein zum Transrapid" (Schreiben des OB)
+- TOP 8.5.: Pächterwechsel "Osteria da Mimmo", Dresdner Str. 58
+- TOP 8.6.: Beschlussvollzugskontrolle (BVK)
+- TOP 8.7.: Zweckentfremdung von Wohnraum: Lechelstraße
+- TOP 8.8.: Verkehrsrechtliche Anordnung: Hünefeldstraße / Gärtnerstraße - Haltverbote im Einmündungsbereich
+- TOP 8.9.: Verkehrsrechtliche Anordnung: Absolutes Halverbot am Glogauer Platz
+- TOP 8.10.: Verkehrsrechtliche Anordnung: Haltverbot im Bereich Dessauer Straße und Gärtnerstraße zur Freihaltung von Fahrtsstrecken für Linienbusse
+- TOP 8.11.: Verkehrsrechtliche Anordnung: Pelkovenstraße 42 - Kurzparkzone
+- TOP 8.12.: Ausbau der Ludwigsfelder Straße zwischen Spiegelbergstraße und ca. 250 m westlich Am Neubruch
+- TOP 8.13.: Bebauungsplan mit Grünordnung Nr. 1940 a: Bunzlauer Platz, Bauberger Str. und Bahnlinie München-Regensburg
+- TOP 8.14.: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 26.11.07 im Sozialreferat
+- TOP 8.15.: Clearinghaus Pippinger Str.
+- TOP 8.16.: Gleisneuverlegung Tramlinie 20
+- TOP 4: Anträge
