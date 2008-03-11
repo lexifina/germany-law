@@ -1,0 +1,8 @@
+# TOP 3.1.: Lärmbelästigung durch Buslinie 175
+
+- Sitzung: BA 24 - Vollgremium (2008-03-11)
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/99285
+- Ergebnis: <div>Ablehnung, einstimmig</div>
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/99285
