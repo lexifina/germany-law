@@ -1,0 +1,59 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2008-03-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1300596
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1300596
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: TSV München 54 e. V.; Juniorenhallenturnier am 08.03.2008 - <div>Zustimmung, einstimmig</div>
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Kath. Pfarramt Mariä Sieben Schmerzen; Konzerte im März und Mai 2008 - <div>Zustimmung, einstimmig</div>
+- TOP 3.1.: Lärmbelästigung durch Buslinie 175 - <div>Ablehnung, einstimmig</div>
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Überfliegen des Stadtgebietes - <div>Zustimmung, einstimmig</div>
+- TOP 5.2.: Schallschutz an den Autobahnen und Gleisen im 24. Stadtbezirk (BV-Empfehlung Nr. 735 vom 22.05.2007) - <div>Zustimmung, einstimmig</div>
+- TOP 5.3.: Neue Veranstaltungsrichtlinien für Veranstaltungen sowie Sondernutzung auf öffentlichen Verkehrsgrund - <div>Vertagung</div>
+- TOP 5.4.: Fahrradrallye mit Abschlussveranstaltung am 24.05.2008 - <div>Zustimmung, einstimmig</div>
+- TOP 5.5.: Osterfeuer, Grünanlage Gustav-Schiefer-Str. am 23.03.2008 - <div>Zustimmung, einstimmig</div>
+- TOP 5.6.: Verkehrshelferübergang Waldmeisterstraße 38 - <div>Zustimmung, einstimmig</div>
+- TOP 5.7.: Naturerfahrungsraum an der Eberwurzstraße - <div>Zustimmung, einstimmig</div>
+- TOP 5.8.: Baumschutzverordnung a) Frauenschuhstr. 3 b) Dachauer Str. 570 c) Hainbuchenstr. 12 d) Grashofstr.77 a - <div>Zustimung, einstimmig - mit Ersatzpflanzung</div>
+- TOP 5.9.: Teilnahme am Tag des offenen Denkmals - <div>Vertagung</div>
+- TOP 5.10.: Sprengeländerung der Grundschule Feldmochinger Straße und Toni-Pfülf-Straße - <div>Zustimmung, einstimmig</div>
+- TOP 5.11.: Sonnenwendfeuer am 21.06.2008 und Gartenfest vom 04.-06.07.2008 Lerchenauer Straße 250 - <div>Zustimmung, einstimmig</div>
+- TOP 5.12.: Bebauungsplan mit Grünordnung Heinrich-Braun-Weg (Teiländerung der Bebauungspläne Nr. 808 und Nr. 1571) - <div>Zustimmung, einstimmig</div>
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Straßenplanung Waldmeisterstraße (BA-Antrag Nr. 2749 vom 08.01.2008) - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Querungshilfe in der Dülferstraße (BA-Antrag Nr. 2533 vom 06.11.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Schleißheimer Straße, Absprerrmaßnahmen auf der ehemaligen Trambahnstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.4.: Meldelisten Bauvorhaben - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Meldelisten Baumfällungsanträge - <div>zur Kenntnis genommen</div>
+- TOP 6.6.: Meldelisten Baumaßnahmen der Stadtwerke - <div>zur Kenntnis genommen</div>
+- TOP 6.7.: Baumschutz Bauvorhaben a) Dahlienstraße b) Dachauer Str. 570 - <div>zur Kenntnis genommen</div>
+- TOP 6.8.: Absenkung von Bordsteinen im Rahmen von Baumaßnahmen - <div>zur Kenntnis genommen</div>
+- TOP 6.9.: Verkehrsrechtliche Anordnung a) Tagetesstraße: Einrichtung von Halteverboten b) Schulbushaltestelle Eduard-Spranger-Straße; Mitnutzung als Bücherbushaltestelle c) Umwidmung Feldweg nördlich Heppstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Anerkennung von Betreuungsplätzen in der Kindertageseinrichtung Wintersteinstraße 16 - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Budget der Bezirksausschüsse - Erfahrungsbericht 2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Informationen zum Thema "Sondernutzung" - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Zweckentfremdung von Wohnraum - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1933 Trollblumenstraße (südlich), Blaukissenweg (beidseitig) und Bahnlinie München - Regensburg (westlich) - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Bebauungsplan mit Grünordnung Nr. 1939 a Schleißheimer Straße (östlich), bestehendes BMW Forschungs- und Innovationszentrum (BMW FIZ) (nördlich) - BMW FIZ Erweiterung Nord - - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/33 Schleißheimer Straße (östlich), bestehendes BMW Forschungs- und Innovationszentrum (BMW FIZ) (nördlich) - BMW FIZ Erweiterung Nord - - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Beschlussvollzugskontrolle (BVK) Halbjährlicher Sachstandsbericht des Planungsreferates für den Zeitraum 01.07. - 31.12.2007 - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Radwege am Rangierbahnhof München Nord (Antwortschreiben an den BA 10) - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Soziale Stadt Ludwigsfeld (Antrag der Frau Stadträtin Mechthilde Wittmann) - <div>zur Kenntnis genommen</div>
+- TOP 6.20.: Um- bzw. Neuorganisation bei HA II des Direktoriums; Verwaltungsabteilung - <div>zur Kenntnis genommen</div>
+- TOP 6.21.: Informationsveranstaltung Sozialreferat - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Jugend, Soziales, Schule, Kultur
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
