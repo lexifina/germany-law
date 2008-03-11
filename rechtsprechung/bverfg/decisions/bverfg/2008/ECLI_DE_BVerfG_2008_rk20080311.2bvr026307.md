@@ -1,0 +1,155 @@
+---
+ecli: "ECLI:DE:BVerfG:2008:rk20080311.2bvr026307"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 263/07"
+decided: "2008-03-11"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 1. Kammer des Zweiten Senats vom 11. März 2008\n- 2 BvR 263/07 -, Rn. 1-12,\n                    https://www.bverfg.de/e/rk20080311_2bvr026307"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2008/03/rk20080311_2bvr026307.html"
+corpus_doc_id: "BVerfG_2008-03-11_K_2_BvR_0263_07_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0003.md", "germany/bund/acts/bverfgg/0090.md", "germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/grundgesetz/artikel/033.md", "germany/bund/acts/sgb_9_2018/0002.md", "germany/bund/acts/sgb_9_2018/0124.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 263/07 vom 2008-03-11
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 2 BVR 263/07 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+des Herrn G... ,
+....
+
+gegen 1. a) den Beschluss des Bayerischen Verwaltungsgerichtshofs vom 15. Januar 2007 - 3 ZB 06.651 -,
+
+         b) das Urteil des Bayerischen Verwaltungsgerichts Augsburg vom 12.
+            Dezember 2005 - Au 2 K 03.1105 -,
+
+         c) den Widerspruchsbescheid der Präsidentin des Oberlandesgerichts
+            München vom 25. Juli 2003 - III p - Gr 232 -,
+
+       2. a) den Beschluss des Bayerischen Verwaltungsgerichtshofs vom 2. Januar 2007 - 3 ZB 05.2281 -,
+
+         b) das Urteil des Bayerischen Verwaltungsgerichts Augsburg vom 11.
+            April 2005 - Au 2 K 03.408 -,
+
+         c) den Widerspruchsbescheid der Präsidentin des Oberlandesgerichts
+            München vom 6. März 2003 - lll p - Gr 232 -
+
+hat die 1. Kammer des Zweiten Senats des Bundesverfassungsgerichts durch
+                                den Vizepräsidenten Hassemer,
+                                die Richter Di Fabio
+                                und Landau
+
+gemäß § 93b in Verbindung mit § 93a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 11. März 2008 einstimmig beschlossen:
+
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+
+                                    Gründe:
+ Die Verfassungsbeschwerde betrifft die Frage, ob ein Gerichtsvollzieher aus der     1
+Fürsorgepflicht des Dienstherrn einen Anspruch auf Ausgleich von Mehrarbeit und
+auf Beseitigung einer Geschäftsüberlastung herleiten kann.
+
+                                        I.
+ 1. Der Beschwerdeführer steht als Obergerichtsvollzieher im Dienst des Freistaats   2
+Bayern und ist im Gerichtsbezirk des Amtsgerichts Augsburg tätig. Ende 2002 bean-
+
+
+
+                                        1/5
+
+tragte er den Ausgleich von Mehrarbeit, die er in den Jahren 1999 bis 2001 geleistet
+habe. Wenig später stellte der Beschwerdeführer, der gemäß § 2 Abs. 3 SGB IX einem schwerbehinderten Menschen gleichgestellt ist, einen Antrag auf Freistellung
+von Mehrarbeit gemäß § 124 SGB IX. Diese Anträge wurden durch den Dienstherrn
+abschlägig beschieden. Die hiergegen gerichteten Klagen des Beschwerdeführers
+blieben vor den Verwaltungsgerichten ohne Erfolg.
+
+  2. Mit der Verfassungsbeschwerde rügt der Beschwerdeführer Verstöße gegen              3
+Art. 3 Abs. 1 und Art. 33 Abs. 5 GG. Er habe aufgrund der Einteilung der Gerichtsvollzieherbezirke in den Jahren 1999 bis 2003 im Durchschnitt 1,5 Pensen abgearbeitet.
+Wenn nach dem Pensenschlüssel 1,0 Pensen einer 40 Stundenwoche entsprächen,
+so habe er allein aufgrund seiner Pensenbelastung 60 Stunden pro Woche gearbeitet. Hinzu komme, dass er aufgrund einer Anordnung des Präsidenten des Amtsgerichts Augsburg wöchentliche Sprechzeiten im Umfang von fünf Stunden abhalten
+müsse, während in anderen Amtsgerichtsbezirken Sprechzeiten von zwei oder drei
+Stunden pro Woche üblich seien. Insgesamt sei er also über Jahre hinweg einer Arbeitsbelastung von 65 Stunden pro Woche ausgesetzt gewesen. Vor diesem Hintergrund verstoße es gegen die Fürsorgepflicht, wenn der Dienstherr sich weigere, seine     Mehrarbeit     durch     Dienstbefreiung   oder    die    Gewährung      einer
+Mehrarbeitsvergütung auszugleichen. Dem könne der Dienstherr mit Erfolg auch
+nicht entgegen halten, dass seine Mehrarbeit nicht messbar und daher nicht ausgleichbar sei. Mit dem „Bad Nauheimer Pensenschlüssel“ stehe ein verlässliches Regelwerk zur Bemessung der Arbeitsbelastung eines Gerichtsvollziehers zur Verfügung. Auch könne sich der Dienstherr nicht darauf berufen, dass die von ihm
+geleistete Mehrarbeit nicht angeordnet oder genehmigt worden sei. Dem Präsidenten
+des Amtsgerichts Augsburg sei bekannt gewesen, dass er - der Beschwerdeführer -
+weit über 1,0 Pensen belastet sei. Dennoch sei er auch auf Antrag nicht entlastet
+worden. Eine Berufung auf die fehlende Mehrarbeitsanordnung sei daher treuwidrig.
+Schließlich verstoße es gegen den Gleichbehandlungsgrundsatz, wenn ihm als Gerichtsvollzieher - anders als jedem anderen Beamten im mittleren Dienst - ein Ausgleich von Mehrarbeit verweigert werde.
+
+                                          II.
+  Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen. Die Voraussetzungen des § 93a Abs. 2 BVerfGG liegen nicht vor. Der Verfassungsbeschwerde kommt weder grundsätzliche verfassungsrechtliche Bedeutung zu noch ist
+ihre Annahme zur Durchsetzung der in § 90 Abs. 1 BVerfGG genannten Rechte angezeigt. Sie hat keine hinreichende Aussicht auf Erfolg (vgl. BVerfGE 90, 22 <24 ff.>;
+96, 245 <248>).
+
+ Die Verfassungsbeschwerde ist unbegründet.                                              5
+
+ Die angegriffenen behördlichen und gerichtlichen Entscheidungen verletzen den           6
+Beschwerdeführer nicht in seinen verfassungsmäßigen Rechten.
+
+
+
+                                          2/5
+
+ 1. Die angegriffenen Entscheidungen verstoßen nicht gegen Art. 33 Abs. 5 GG. Die          7
+Fürsorgepflicht des Dienstherrn, die zu den hergebrachten Grundsätzen des Berufsbeamtentums im Sinne des Art. 33 Abs. 5 GG zählt (stRspr; vgl. BVerfGE 8, 332
+<356 f.>; 43, 154 <165>), gebietet im Falle des Beschwerdeführers weder den Ausgleich von in der Vergangenheit geleisteter Mehrarbeit noch erfordert sie eine (weitere) Reduzierung seiner Geschäftsbelastung für die Zukunft.
+
+ Die Fürsorgepflicht des Dienstherrn mag zwar eine zeitliche Inanspruchnahme des           8
+Beamten über seine physischen und psychischen Kräfte hinaus verbieten (vgl.
+BVerwGE 38, 191 <196>). Eine solche übermäßige Inanspruchnahme liegt im Falle
+des Beschwerdeführers indes nicht vor. Die (möglicherweise) bestehende Geschäftsüberlastung verpflichtet den Beschwerdeführer nicht zu einer die regelmäßige
+Arbeitszeit übersteigenden Dienstleistung.
+
+  Gerichtsvollzieher sind als Organ der Rechtspflege nicht in eine konkrete Arbeitszeitregelung eingebunden. Vielmehr können sie ihren Geschäftsbetrieb nach eigenem pflichtgemäßen Ermessen regeln. Dabei wird zugleich durch das System der
+Beteiligung an den Gebühren ein gewisser Anreiz dafür geschaffen, dass der Gerichtsvollzieher seinen Aufgaben auch außerhalb festgelegter Arbeitszeiten und üblicher Dienststunden nachgeht. Dies mag dazu führen, dass der einzelne Gerichtsvollzieher sich veranlasst sieht, die ihm erteilten Aufträge möglichst zeitnah unter
+Aufwendung von Arbeitszeiten zu erledigen, die weit über die sonst üblichen Dienstzeiten der Beschäftigten im öffentlichen Dienst hinausgehen. Verpflichtet ist er hierzu
+indes nicht. Vielmehr kann er eigenverantwortlich entscheiden, in welchem Umfang
+er „Mehrarbeit“ zu leisten bereit ist.
+
+  Im Falle einer dauerhaften Geschäftsüberlastung ist der Gerichtsvollzieher gehalten, seine Aufträge nach ihrer Dringlichkeit zu ordnen und im Rahmen des Möglichen
+planvoll abzuarbeiten. Soweit dies innerhalb der regelmäßigen Arbeitszeit nicht gelingt, ist der Gerichtsvollzieher berechtigt, seinen Geschäftsbereich anwachsen zu
+lassen und verpflichtet, dies anzuzeigen. Für die hieraus folgenden Verzögerungen
+und die sonstigen Erschwernisse für den Dienstbetrieb kann er nicht verantwortlich
+gemacht werden. Die Folgen der Überlastung dürfen weder zum Anlass für disziplinarische Maßnahmen genommen werden noch dürfen sie sich bei sonstigen dienstlichen Maßnahmen - etwa bei Beurteilungen oder Beförderungen - zum Nachteil des
+betroffenen Gerichtsvollziehers auswirken. Es ist Sache des Dienstherrn, durch geeignete Organisationsmaßnahmen dafür Sorge zu tragen, dass für die zu bewältigenden Aufgaben in ausreichendem Maße Personal und sachliche Mittel zur Verfügung
+stehen (vgl. zum Ganzen VG Sigmaringen, Urteil vom 3. Dezember 1975 - III 952/74 -
+, ZBR 1976, S. 157 ff.; VG Stuttgart, Urteil vom 15. Oktober 1992 - 1 K 5/91 -, DGVZ
+1993, S. 94 f.; VG Oldenburg, Urteil vom 29. März 2000 - 6 A 2138/99 -, juris).
+
+ 2. Von einer weiteren Begründung der Entscheidung wird gemäß § 93d Abs. 1 Satz           11
+3 BVerfGG abgesehen.
+
+
+
+
+                                          3/5
+
+Diese Entscheidung ist unanfechtbar.                   12
+
+            Hassemer               Di Fabio   Landau
+
+
+
+
+                                       4/5
+
+Bundesverfassungsgericht, Beschluss der 1. Kammer des Zweiten Senats vom
+11. März 2008 - 2 BvR 263/07
+
+Zitiervorschlag BVerfG, Beschluss der 1. Kammer des Zweiten Senats vom
+                11. März 2008 - 2 BvR 263/07 - Rn. (1 - 12), http://www.bverfg.de/e/
+                rk20080311_2bvr026307.html
+
+ECLI             ECLI:DE:BVerfG:2008:rk20080311.2bvr026307
+
+
+
+
+                                        5/5
