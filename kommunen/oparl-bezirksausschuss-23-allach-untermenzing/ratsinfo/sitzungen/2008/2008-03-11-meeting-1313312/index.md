@@ -1,0 +1,71 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2008-03-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1313312
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1313312
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.: Vorstellung des Projekts "LiLaLu"
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Erweiterung Grundschule Eversbuschstraße
+- TOP 1.2.: Verkehrssituation Karl-von-Roth-Straße
+- TOP 1.3.: Bitte um Aufbau eines Zaunes am Spielplatz Manzostraße, Ecke Hitlstraße bzw. Josef-Führer-Straße, Ecke Hitlstraße
+- TOP 1.4.: Ausbau bzw. Sanierung der Allacher Straße
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 3.1.: Stromleitung entlang der Eversbuschstraße
+- TOP 3.2.: Weitere Radwegroute 4 zum Seengebiet Langwieder-Luss- und Birkensee Aufwertung des Geländes der aufgelösten städtischen Baumschule Müllerstadel
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses von dem Kulturverein Freunde Obermenzing e.V.
+- TOP 5.: Anhörungen
+- TOP 5.1.: - Ruhe am Himmel - Sanktionierung ungesetzlicher Tiefflüge, Empf.Nr. 948 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 15.11.07 - Einschränkung bzw. Verbot von Sightseeingflügen über der Innenstadt (Ziffer 2 des Antrags), Empf. Nr. 961 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 20.11.07
+- TOP 5.2.: Fahrplan Bus-S-Bahn
+- TOP 5.3.: Anbindung Bus 162; S-Bahn Untermenzing
+- TOP 5.4.: Solarkollektoren; Beseitigung von hinderlichen Verwaltungsvorschriften
+- TOP 5.5.: Veranstaltungen sowie Sondernutzungen auf öffentlichem Verkehrsgrund, neue Veranstaltungsrichtlinien
+- TOP 5.6.: Bauvorhaben Eversbuschstraße 138 Neubau einer Wohnanlage (6 WE) mit Tiefgarage; Abbruch Nebengebäude - VORBESCHEID
+- TOP 5.7.: City Bike Marathon am 20.04.2008, Start- und Zielbereich Olympiastadion München, Teil 1
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Jahresbericht 2007 mit Jahresvorschau 2008
+- TOP 8.2.: Um- bzw. Neuorganisation bei HA II des Direktoriums; Verwaltungsabteilung
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Lärmschutzwand in der Von-Kahr-Str.
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Absolutes Haltverbot auf der Südseite der Karl-Gayer-Straße im Bereich der Hausnummern 19-25
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: - Bauanträge (v. 04.-11.02.08; v. 11.-17.02.08, v. 18.-24.02.08)
+- TOP 11.2.: - Liste der beantragten Baumfällungen (v. 04.-10.02.08; v. 11.-17.02.08; v. 18.-24.02.08)
+- TOP 11.3.: Vollzug der BaumschutzVO - Gerlachweg 11; s. Baumbest.plan Nr. 2824 - Schöllstr. 2; s. Baumbest.plan Nr. 1250 - Nußhäherstr. 27; s. Baumbest.plan Nr. 1191 - Krautheimstr. 42; s. Baumbest.plan Nr. 78703 - Baumstänglstr.; s. Baumbest.plan Nr. 76955 - Eversbuschstr. 136; s. Baumbest.plan Nr. 76958 - Eversbuschstr. 138; s. Baumbest.plan Nr. 76959
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Zweckentfremdung von Wohnraum; Hintermeierstr. 3
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 20.1.: BA1 - Altstadt-Lehel: Entscheidungsrechte für die Beziksausschüsse bei Taxistandplätzen
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.01.08 - Initiative "Magistrale für Europa" Vereinbarung zur gemeinsamen Finanzierung der Geschäftsstelle
+- TOP 22.2.: Beschluss des Bauausschusses vom 12.02.08 - Allacher Straße zwischen Ernst-von-Beling-Straße und Von-Reuter-.Straße im 23. Stadtbezirk Allach-Untermenzing - Absenkung von Bordsteinen im Rahmen von Baumaßnahmen Ziffer 2 des Antrags
+- TOP 22.3.: Beschluss der Vollversammlung des Stadtrates vom 20.02.08 - Stärkung der Stadtteilkultur
+- TOP 22.4.: Beschluss des Kinder- und Jugendhilfeausschusses vom 26.02.08 - Investionskostenförderung gem. Art. 27 BayKiBiG Kinderkrippe Eversbuschstr. 121 a (Rudolf Poschenrieder) mit 24 Kinderkrippenplätzen Umbau bestehender Räume
+- TOP 22.5.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 27.02.2008 - Beschlussvollzugskontrolle (BVK); Halbjährlicher Sachstandsbericht des Planungsreferates für den Zeitraum 01.07. - 31.12.2007
+- TOP 22.6.: Beschluss des Bauausschusses vom 04.03.2008 - Ausbau der Ludwigsfelder Straße zwischen Spiegelbergstraße und ca. 250 m westlich Am Neubruch
+- TOP 23: Verschiedenes
+- TOP 23.1.: Schreiben des Mietervereins München e.V. - Bitte um Unterstützung für die Kampagne des Mietervereins München e.V., Mieterbeirates und Vereines Mieter helfen Mietern
