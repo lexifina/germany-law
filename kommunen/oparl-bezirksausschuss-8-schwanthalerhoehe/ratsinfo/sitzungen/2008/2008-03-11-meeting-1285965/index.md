@@ -1,0 +1,96 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2008-03-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1285965
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1285965
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Gefahrenzone Umspannwerk am Bavariapark
+- TOP 3.2.: Bitte um Unterstützung für die Ausstellung "under the bridge" in den Otto Steidle Ateliers
+- TOP 3.3.: Baustelle in der Barthstrasse
+- TOP 3.4.: Lärmbelästigung durch Aldi, Heimeranstraße
+- TOP 3.5.: Bitte um Unterstützung für die Kampagne "Stoppt die Umwandlung von Mietshäusern in Erhaltungssatzgebieten"
+- TOP 3.6.: Chor Voices in Peace
+- TOP 3.7.: Fahrradstellplätze Carlamaria-Heim-Straße
+- TOP 3.8.: Pflanzenbeete Schwanthaler/ Ecke Ganghoferstraße und fehlende Papierkörbe
+- TOP 3.9.: Begrünung der Fläche hinter dem Verkehrszentrum
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Genehmigung einer Freischankfläche
+- TOP 5: Anhörungen
+- TOP 5.1.: Veranstaltungen sowie Sondernutzungen auf öffentlichem Verkehrsgrund Neue Veranstaltungsrichtlinien
+- TOP 5.2.: Ruhe am Himmel-Sanktionierung ungesetzlicher Tiefflüge
+- TOP 5.3.: Flohmarkt am Bavariapark
+- TOP 5.4.: Anhörung Festumzug zum Münchner Frühlingsfest Termin 25.03.2008
+- TOP 5.5.: Nutzungsanfrage für die Theresienwiese
+- TOP 5.6.: Festival der Marionetten auf der Grünanlage zwischen Martin-Greif-Strasse und Theresienhöhe
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Protokoll Treffen des Sozialreferates mit den BAs vom 26.11.2007
+- TOP 6.2.2.: Empfehlungen der AG Wohnungslosigkeit
+- TOP 6.2.3.: LILALU als pädagogisches Projekt für Kinder mit Migrationshintergrund
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.3.1.: Ausländerbeirat München Infobrief 16
+- TOP 6.3.2.: IG-Feuerwache
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.3.: Baumfällung Ridlerstr. 5
+- TOP 6.4.4.: Baumfällung i.V.m. Bauarbeiten Theresienhöhe
+- TOP 6.4.5.: Parkraummanagement - Sektor II, Pläne für den BA 8 Beschlussexemplar
+- TOP 6.4.6.: Baumfällung Gollierstr. 46
+- TOP 6.4.7.: Baumfällung Gollierstr. 52
+- TOP 6.4.8.: Baumfällung Gerolstr. 7
+- TOP 6.4.9.: Baumfällung Ridlerstr. 57
+- TOP 6.4.10.: Baumfällung Landsberger Str. 143
+- TOP 6.4.11.: Geplante Anlage eines Weges im Bavariapark
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Budget der Bezirksausschüsse Erfahrungsbericht 2007
+- TOP 6.5.2.: Antrag auf Zuschuss zur Mitarbeiter-Qualifizierung für das Westend-Zeltlager 2008
+- TOP 7: Erledigungen
+- TOP 7.1.: Parkstr. 31/31a Hotelanfahrtszone
+- TOP 7.2.: Koordination von Baumaßnahmen im Westend
+- TOP 7.3.: Grünanlage Georg Freundorfer Platz, Märchenzelt
+- TOP 7.4.: Sanierung des MKJZ und der Stadtteilbibliothek AntragNr. 02-08 /B02661
+- TOP 7.5.: Quartiersplatz "Bahndeckel" Theresienhöhe VorlagenNr. 02-08/V11707
+- TOP 7.6.: Stärkung der Stadtteilkultur VorlagenNr. 02-08/V11628
+- TOP 7.7.: Fällgenehmigung Theresienhöhe 3
+- TOP 7.8.: Koordination Straßenbau und Fernwärme EmpfehlungNr. 02-08/E00697 des BA 8 aus der BV 19.04.07
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Bauvorhaben der SWM Stichtag 11.02.2008
+- TOP 9.2.: Bauvorhaben der SWM Stichtag 18.02.2008
+- TOP 9.3.: Bauvorhaben der SWM Stichtag 25.02.2008
+- TOP 9.4.: Meldeliste 04.02. - 10.02.08 Erstantragsverfahren a) Philipp-Loewenfeld-Str.
+- TOP 9.5.: Meldeliste 11.02. - 17.02.08 Erstantragsverfahren a) Theresienhöhe b) Westendstraße 19 c) Astallerstr. 9
+- TOP 9.6.: Meldeliste 18.02. - 24.02.08 Erstantragsverfahren a) Ligsalzstr.8
+- TOP 9.7.: Fällungsanträge 25.02. - 02.03.2008
+- TOP 9.8.: Baumaßnahmen der SWM Stichtag 03.03.2008
+- TOP 9.9.: Meldeliste 25.02. - 02.03.2008 Erstantragsverfahren
+- TOP 10: Verschiedenes
+- TOP 10.1.: Informationsveranstaltung der SWM
+- TOP 10.2.: Kurzstreckentarif für Kinder Antrag des BA 10
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Protokoll 02/08
+- TOP 11.2.: Unveränderte Fortführung von Gaststätten Gollierstr. 39
+- TOP 11.3.: Entlastung der Fußgängerzone Abbau der Vitrinen Durchführung der Tombola für München
+- TOP 11.4.: Gestaltung Fußgängerzone
+- TOP 11.5.: Jahresbericht 2007 mit Jahresvorschau 2008
+- TOP 11.6.: Zuwendungsbescheid vom 25.06.07 Jugendseelsorge im Pfarrverband Westend Antrag vom 11.04.07
+- TOP 11.7.: Halbjährlicher Sachstandsbericht des Planungsreferates für den Zeitraum 01.07. - 31.12.2007 VorlagenNr. 02-08/V11620
+- TOP 11.8.: Wohnhaus zur Abklärung der Wohnperspektive - Clearinghaus Pippinger Straße Betriebskostenanmeldung VorlagenNr. 02-08/V11500
+- TOP 11.9.: Um- bzw. Neuorganisation bei HA II des Direktoriums; Verwaltungsabteilung
+- TOP 11.10.: Zuwendungsbescheid Initiative Open Westend Antrag vom 13.01.2008
+- TOP 11.11.: WirtschaftsInfo 2/2008
+- TOP 11.12.: München - Wirtschaftsstandort Fakten und Zahlen 2008
+- TOP 11.13.: Daten Kinderkrippen Stand 01.01.2008
+- TOP 11.14.: Parkraummanagement Festlegung der 3. und 4. Priorität Projektfortschritssbericht 2007 VorlagenNr. 02-08/V11349
+- TOP 6.4.2.: Baumfällung in Verbindung mit Bauarbeiten Philipp-Loewenfeld-Str.
