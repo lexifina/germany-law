@@ -1,0 +1,63 @@
+# 27. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-03-12T17:02:00+01:00
+- Ende: 2008-03-12T21:17:00+01:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6257
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6257
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00261883.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Internationalen Studenten und Wissenschaftlern den Start in Münster erleichtern - einstimmig beschlossen
+- TOP 2.2: Antrag der SPD-Fraktion Nr. A-R/0053/2007 "Nachts Tempo 100 auf den Autobahnen" - einstimmig geändert beschlossen
+- TOP 2.3: Antrag der SPD-Fraktion Nr. A-R/0006/2008 - Transparenz bei der Energiepreisgestaltung - einstimmig beschlossen
+- TOP 2.4: Straßenausbaubeiträge senken - mehr Abgabengerechtigkeit in Münster schaffen - mehrheitlich beschlossen
+- TOP 2.5: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat vom 28.11.2007 "Verkehrsprobleme im Hafen lösen - Erschließung voranbringen - Belastungen für Anwohner senken" - einstimmig beschlossen
+- TOP 3: Zentrumserweiterung Nienberge - einstimmig geändert beschlossen
+- TOP 4: Jahresrechnung des Bühnenbewirtschaftungsplanes 2006/2007 - zur Kenntnis genommen
+- TOP 5: Münster für alle. Jugendarbeitslosigkeit zielgerecht bekämpfen - Jugendliche unterstützen - mehrheitlich beschlossen
+- TOP 6: Förderungsprojekte Stiftung Magdalenenhospital
+- TOP 6.1: Investitionskostenzuschuss der Stiftung Magdalenenhospital für den Umbau und die Erweiterung des Hospizes lebensHaus - einstimmig beschlossen
+- TOP 6.2: Stiftung Magdalenenhospital, weitere Herausgabe der Fachzeitschrift Geronymus - einstimmig beschlossen
+- TOP -: Etat 2008
+- TOP -: Vorberatung von Ratsentscheidungen zum Haushalt
+- TOP 7: Einrichtung integrativer Lerngruppen an der Droste-Hauptschule Roxel ab dem Schuljahr 2008/2009 - einstimmig beschlossen
+- TOP 8: Umwandlung der Hauptschule Wolbeck in eine erweiterte Ganztagsschule mit einem Ganztagszug zum Schul - einstimmig beschlossen
+- TOP 9: Wirtschaftsplan Spielzeit 2008/2009 der Städtischen Bühnen - einstimmig beschlossen
+- TOP 10: Benutzungs- und Gebührensatzung der Lehranstalt für pharmazeutisch-technische Assistenten/innen - ohne Beschlussfassung geschoben
+- TOP 11: NRW-Sportschule - ohne Beschlussfassung geschoben
+- TOP 12: Künftige Nutzung des ehemaligen Freibades Nienberge und des Hallenbades Amelsbüren - ohne Beschlussfassung geschoben
+- TOP 13: Umsetzung des Kinderbildungsgesetzes in Münster - finanzielle Gesamtentwicklung - einstimmig beschlossen
+- TOP 14: Kinderhorte - ein Förderangebot der Jugendhilfe für Schulkinder - einstimmig beschlossen
+- TOP 15: "Kinderhort Berg Fidel" - Weiterführung des Hortes der AWO im Stadtteil Berg-Fidel - einstimmig beschlossen
+- TOP 16: Umsetzung des Kinderbildunggesetzes - Personalentwicklung für die städtischen Kindertageseinrichtungen - einstimmig beschlossen
+- TOP 17: Soziale Stadt Kinderhaus-Brüningheide: Programmverlängerung bis 2010 - einstimmig beschlossen
+- TOP 18: Fortschreibung des Klimaschutzprogrammes und des Klimaschutzzieles der Stadt Münster bis 2020 - ohne Beschlussfassung geschoben
+- TOP 19: Park Sentmaring - einstimmig beschlossen
+- TOP 20: Satzung für die Benutzung der Friedhöfe der Stadt Münster - einstimmig beschlossen
+- TOP 21: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2008 - ohne Beschlussfassung geschoben
+- TOP -: Vorberatung sonstiger Ratsentscheidungen
+- TOP 22: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im Stadtbezirk - einstimmig beschlossen
+- TOP 23: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 4. Vierteljahr 2007 - zur Kenntnis genommen
+- TOP 24: Ergänzung der Leitlinie zur Genehmigungspraxis bei der Freigabe von Verkaufssonntagen nach dem Laden - ohne Beschlussfassung geschoben
+- TOP 25: Neufassung "Allgemeine Bedingungen für den Besuch der Tageseinrichtungen für - einstimmig beschlossen
+- TOP 26: Umwandlung von städtischen Förderschulen in Kompetenzzentren für sonderpädagogische Förderung - ohne Beschlussfassung geschoben
+- TOP 27: Modellprojekt "Wohnen für Hilfe" - Wohnpartnerschaften zwischen älteren und jungen Menschen - - ohne Beschlussfassung geschoben
+- TOP 28: Bauleitplanung
+- TOP 28.1: Stadtbezirk West
+- TOP 28.1.1: Bebauungsplan Nr. 516 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 28.1.2: 1. Änderung des Bebauungsplanes Nr. 306: Nienberge - einstimmig beschlossen
+- TOP 28.2: Stadtbezirk Nord
+- TOP 28.2.1: Bebauungsplan Nr. 277 - 1. Änderung - Beschluss zur Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 29: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP -: nachgereichter Beschlusspunkt des Hauptausschusses
+- TOP 30: Weiterführung der Stadtbücherei Hansaplatz mit Freiwilligen - einstimmig geändert beschlossen
+- TOP 31: Verschiedenes
