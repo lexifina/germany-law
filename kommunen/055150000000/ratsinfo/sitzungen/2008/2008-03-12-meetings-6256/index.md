@@ -1,0 +1,65 @@
+# 29. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-03-12T17:48:00+01:00
+- Ende: 2008-03-12T21:18:00+01:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6256
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6256
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00262168.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP -: Etat 2008
+- TOP -: Beschlusspunkte zum Haushalt
+- TOP 8: Einwendungen gemäß § 80 Abs. 3 GO NW gegen den Entwurf der Haushaltssatzung 2008 - mehrheitlich beschlossen
+- TOP 9: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2008 - mehrheitlich beschlossen
+- TOP 10: Eröffnungsbilanz der Stadt Münster zum 01.01.2008 (vorläufig) - einstimmig beschlossen
+- TOP 11: Einrichtung integrativer Lerngruppen an der Droste-Hauptschule Roxel ab dem Schuljahr 2008/2009 - einstimmig beschlossen
+- TOP 12: Umwandlung der Hauptschule Wolbeck in eine erweiterte Ganztagsschule mit einem Ganztagszug zum Schul - einstimmig beschlossen
+- TOP 13: Wirtschaftsplan Spielzeit 2008/2009 der Städtischen Bühnen - einstimmig beschlossen
+- TOP 14: Benutzungs- und Gebührensatzung der Lehranstalt für pharmazeutisch-technische Assistenten/innen - mehrheitlich beschlossen
+- TOP 15: NRW-Sportschule - einstimmig geändert beschlossen
+- TOP 16: Künftige Nutzung des ehemaligen Freibades Nienberge und des Hallenbades Amelsbüren - einstimmig beschlossen
+- TOP 17: Umsetzung des Kinderbildungsgesetzes in Münster - finanzielle Gesamtentwicklung - einstimmig beschlossen
+- TOP 18: Kinderhorte - ein Förderangebot der Jugendhilfe für Schulkinder - einstimmig beschlossen
+- TOP 19: "Kinderhort Berg Fidel" - Weiterführung des Hortes der AWO im Stadtteil Berg-Fidel - einstimmig beschlossen
+- TOP 20: Umsetzung des Kinderbildunggesetzes - Personalentwicklung für die städtischen Kindertageseinrichtungen - einstimmig beschlossen
+- TOP 21: Soziale Stadt Kinderhaus-Brüningheide: Programmverlängerung bis 2010 - einstimmig beschlossen
+- TOP 22: Fortschreibung des Klimaschutzprogrammes und des Klimaschutzzieles der Stadt Münster bis 2020 - mehrheitlich beschlossen
+- TOP 23: Park Sentmaring - einstimmig beschlossen
+- TOP 24: Satzung für die Benutzung der Friedhöfe der Stadt Münster - einstimmig beschlossen
+- TOP -: Sonstige Beschlusspunkte
+- TOP 25: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im Stadtbezirk - mehrheitlich beschlossen
+- TOP 26: Über- und außerplanmäßige Mittelbereitstellungen und Verpflichtungsermächtigungen im 4. Vierteljahr 2007 - zur Kenntnis genommen
+- TOP 27: Ergänzung der Leitlinie zur Genehmigungspraxis bei der Freigabe von Verkaufssonntagen nach dem Laden - mehrheitlich beschlossen
+- TOP 28: Neufassung "Allgemeine Bedingungen für den Besuch der Tageseinrichtungen für - einstimmig beschlossen
+- TOP 29: Umwandlung von städtischen Förderschulen in Kompetenzzentren für sonderpädagogische Förderung - einstimmig beschlossen
+- TOP 30: Modellprojekt "Wohnen für Hilfe" - Wohnpartnerschaften zwischen älteren und jungen Menschen - - zur Kenntnis genommen
+- TOP 31: Bauleitplanung
+- TOP 31.1: Stadtbezirk Münster-West
+- TOP 31.1.1: Bebauungsplan Nr. 516 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 31.1.2: 1. Änderung des Bebauungsplanes Nr. 306: Nienberge - einstimmig beschlossen
+- TOP 31.2: Stadtbezirk Münster-Nord
+- TOP 31.2.1: Bebauungsplan Nr. 277 - 1. Änderung - Beschluss zur Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 32: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 34: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 34.1: Bürgernähe stärken, einheitliche Behördenrufnummer 115 zügig vorbereiten - verwiesen
+- TOP 34.2: Münster für Alle: Münsterpass wieder auflegen! - verwiesen
+- TOP 34.3: "Neuausrichtung der kommunalen Altenpolitik: - verwiesen
+- TOP 34.4: Kinder fördern, Eltern entlasten: Das letzte Kindergartenjahr wird beitragsfrei - verwiesen
+- TOP 34.5: Hürden für Betreuungsangebote abbauen -Mehr Bildungschancen durch kostenloses Mittagessen für Kinder aus einkommensschwachen Familien - verwiesen
+- TOP 34.6: Münster in Bewegung - Neue Sportangebote für Familien und Jugendliche schaffen - verwiesen
+- TOP 34.7: Planung für III. Nordtangente einstellen - verwiesen
+- TOP 35: Verschiedenes
