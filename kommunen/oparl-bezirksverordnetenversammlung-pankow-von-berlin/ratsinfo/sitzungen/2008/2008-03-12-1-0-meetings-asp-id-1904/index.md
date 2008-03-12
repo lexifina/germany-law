@@ -1,0 +1,82 @@
+# 14. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2008-03-12T17:30:00+01:00
+- Ende: 2008-03-12T22:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1904
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1904
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=30054
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde zum Thema "Entwicklung der Kultur im Bereich des Zentrums von Alt-Pankow" auf Antrag der Fraktion Bündnis 90/Die Grünen - erledigt
+- TOP 1.5: Dringlichkeitsanträge - (offen)
+- TOP 1.5.1: Erhalt des Klinikums Prenzlauer Berg als Standort stationärer Krankenversorgung - ohne Änderungen in der BVV beschlossen
+- TOP 1.6: Mündliche Anfragen - erledigt
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.9: Neubau der Blankenburger Straße von der Dietzgenstraße bis zur Pasewalker Straße, Ortsteile Niederschönhausen und Französisch Buchholz hier: 1. Bauabschnitt von der Dietzgenstraße bis zur Siegfriedstraße, Ortsteil Niederschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Gründung einer Grundschule im Ortsteil Wilhelmsruh - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Errichtung der bezirklichen Einrichtung Kurt-Tucholsky-Bibliothek, Esmarchstr. 18, und Übertragung an den Verein Pro Bötzowviertel e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Weiterbetrieb Kurt-Tucholsky-Bibliothek - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Konzept zum Abbau des kumulierten Verlustvortrages - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Fußgängerüberweg Dietzgenstraße - in der BVV abgelehnt
+- TOP 1.14: Fahrradverbindung zwischen Falkplatz und Arnimplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Life Science Center Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.15.1: Life-Science-Center Buch - gegenstandslos
+- TOP 1.15.2: Life-Science-Center Buch - gegenstandslos
+- TOP 1.16: Gentechnik-freie Region Pankow - vertagt
+- TOP 1.17: Behutsame Entwicklung im Sanierungsgebiet Kollwitzplatz Süd - vertagt
+- TOP 1.18: Gesetz zum Schutz vor den Gefahren des Passivrauchens in der Öffentlichkeit - vertagt
+- TOP 1.19: Neue Schulen für den Kiez - überwiesen
+- TOP 1.20: Gentechnikfreie Kantinen! - vertagt
+- TOP 1.22: Erhalt der Schwimmhalle in der Thomas-Mann-Straße im Ortsteil Prenzlauer Berg - vertagt
+- TOP 1.22.1: Schwimmhalle Thomas-Mann-Str. erhalten - zurückgezogen
+- TOP 1.23: Erhöhung der Verkehrssicherheit im Bereich der Straßenbahnhaltestellen der Schönhauser Allee - überwiesen
+- TOP 1.24: Interkulturellen Garten unterstützen! - vertagt
+- TOP 1.25: Sonnenburger Platz ermöglichen - überwiesen
+- TOP 1.26: Lichtsignalanlagen im Bezirk - vertagt
+- TOP 1.27: Rauchverbot in Berliner Eckkneipen wieder aufheben - vertagt
+- TOP 1.28: Verfahrensweg - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Mehr Reitwege für Blankenfelde - vertagt
+- TOP 1.30: Internetseiten des Bezirkes und ihre Inhalte - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: EU-Bericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Trägerschaft Life Science Center Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Rauchfreier Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Gestaltung der Besprechungsräume Nr. 227 im Haus 6 und Nr. 411 im Haus 9 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Tag der Spielplätze in Pankow einführen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Kommunaler Klimaschutz (1): Bezirkliches Klimaschutzziel definieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Ausbildungspaten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Erhaltung und Ausbau des Straßenbahnnetzes im Bezirk Pankow - vertagt
+- TOP 2.9: Nachhaltige Verkehrslösung für Buch - vertagt
+- TOP 2.10: Sichtbare Öffnungszeiten an Sport- und Freizeitstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Evangelische Friedhöfe entlang der Heinrich-Roller-Straße - vertagt
+- TOP 2.12: Entwurf des Doppelhaushaltsplans 2008/2009 für den Bezirk Pankow (einschließlich Vorbericht, Stellenplan und produktorientierten Haushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Zugang zum Garibalditeich - vertagt
+- TOP 2.14: Fußweg Rosenthaler Weg - vertagt
+- TOP 2.15: Geh- u. Radwege am Pankower Rathaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Erhaltung der Oderberger Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Mehr Sicherheit in der Triftstraße (Französisch Buchholz) - vertagt
+- TOP 2.18: Auflösung der bezirklichen Einrichtungen Stadtteilbibliotheken Esmarchstr.18 (Kurt-Tucholsky-Bibliothek) und Senefelderstr. 6 (Bibliothek im Eliashof) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Verkehrsregelung Straße 42 in 13125 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Eine Gemeinschaftsschule für Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Potentiale in Buch als Standort für Innovationen nutzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Angebote für Präsentationsmöglichkeiten örtlicher Verlage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Aufhebung eines BA-Beschlusses - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Bebauungsplan 3-17 für eine Teilfläche des Friedhofs St. Nikolai und St. Marien II an der Heinrich-Roller-Straße (Flurstück 349) im Bezirk Pankow, Ortsteil Prenzlauer Berg - vertagt
+- TOP 2.25: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Bebauungsplan 3-14 für die Grundstücke Straßburger Straße14 / Saarbrücker Straße und Saarbrücker Straße 8, 9 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Bericht aus dem Verwaltungsrat des Eigenbetriebes "Kindergärten NordOst" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Schulentwicklungsplan 2008 - Fortschreibung Grundschulen - vertagt
+- TOP 2.29: Bericht über den Stand der Abarbeitung der in der BA - Vorlage VI-0120/2007 "Präzisierung des Sanierungsziels für den öffentlichen Straßenraum und Verkehr" festgeschriebenen Maßnahmen und Prüfaufträge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Aufteilung der Mittel für die ehrenamtliche Arbeit der Bürgerinnen und Bürger zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB für das Gebiet "Grüne Stadt" zwischen Greifswalder Straße, Anton-Saefkow-Straße, Kniprodestraße und John-Schehr-Straße im Bezirk Pankow, OT Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
