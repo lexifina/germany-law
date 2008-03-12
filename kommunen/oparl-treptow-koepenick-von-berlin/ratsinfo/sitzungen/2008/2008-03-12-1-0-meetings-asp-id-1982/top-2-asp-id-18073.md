@@ -1,0 +1,7 @@
+# TOP 2: Altstadtlauf - nicht mehr in der Altstadt?
+
+- Sitzung: 13. (öfftl.) Sitzung des Ausschusses für Sport (2008-03-12)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=18073
+- Ergebnis: erledigt
