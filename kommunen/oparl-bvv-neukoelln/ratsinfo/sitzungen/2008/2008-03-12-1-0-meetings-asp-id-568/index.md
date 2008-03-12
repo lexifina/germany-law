@@ -1,0 +1,62 @@
+# 15. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2008-03-12T17:40:00+01:00
+- Ende: 2008-03-12T20:40:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=568
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=568
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - erledigt
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Vorschlagsliste für die Wahl zu ehrenamtlichen Richtern beim Oberverwaltungsgericht Berlin-Brandenburg - Amtsperiode ab 19.08.2008 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Vorschlagsliste für die Wahl zu ehrenamtlichen Richtern beim Verwaltungsgericht Berlin - Amtsperiode ab 1. Januar2009 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Kita-Betreuungszeiten - beantwortet
+- TOP 8.2: Wachschutz als Schulwegbegleiter - beantwortet
+- TOP 8.3: Befreiung vom Sportunterricht - beantwortet
+- TOP 8.4: Entwicklung des Gutshofes Britz mit dem Bürgerverein Britz - beantwortet
+- TOP 8.5: Wirtschaftsplan des Kita-Eigenbetriebes SüdOst - beantwortet
+- TOP 8.6: Bauliche Sicherheitsbegehung in Neuköllner Schulen - beantwortet
+- TOP 8.7: Frauenball - beantwortet
+- TOP 8.8: Saalbau Neukölln - beantwortet
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Kooperation zwischen Jobcenter und Jugendamt - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Kooperation zwischen Schule und Jugendhilfe - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Ultima ratio: Geschlossenes Heim - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Sport um Mitternacht statt Gewalt - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Monitoring Soziale Stadtentwicklung - beantwortet
+- TOP 10.2: Musikschule Neukölln - beantwortet
+- TOP 10.3: Ein Jahr QM-Rollbergviertel - beantwortet
+- TOP 10.4: Jugendsozialarbeit - beantwortet
+- TOP 11: Große Anfragen - schriftlich - erledigt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Anlieferungen für die Deponie Großziethen über die Schiene - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Hilfe für das Frauenviertel in der Gartenstadt - überwiesen
+- TOP 12.3: Jahn-Denkmal in der Hasenheide - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Anpassung der LZA Johannisthaler Chaussee/Rudower Straße - mit Änderungen in der BVV beschlossen
+- TOP 12.5: 30 km/h in der Groß-Ziethener Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Autofreier Sonntag am 1. Juni 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: 30 km/h im Neudecker Weg - überwiesen
+- TOP 12.8: Mitarbeiterrotation im Jobcenter und der Agentur für Arbeit - überwiesen
+- TOP 12.9: Neuverhandlung mit der Kassenärztlichen Vereinigung - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Stadtteilväter - überwiesen
+- TOP 12.11: Steigerung der Attraktivität des Britzer Damms - überwiesen
+- TOP 12.12: Nachnutzung Flughafengelände - ohne Änderungen in der BVV beschlossen
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: Neukölln wird GreenBuilding-Partner - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Keine Zentralisierung der Bibliotheken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Ausstellung "11.000 Kinder - Mit der Reichsbahn in den Tod" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Gedenktafel für Opfer der Haft- und Folterkeller der sowjetischen Geheimdienste in Neukölln - mit Abschlussbericht zur Kenntnis genommen
