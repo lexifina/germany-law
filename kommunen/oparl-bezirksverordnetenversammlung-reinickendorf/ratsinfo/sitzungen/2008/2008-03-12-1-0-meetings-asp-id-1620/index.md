@@ -1,0 +1,90 @@
+# 17. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2008-03-12T17:00:00+01:00
+- Ende: 2008-03-12T22:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1620
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1620
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=37090
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - überwiesen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Feststellungen - (offen)
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gem. § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Kleine Hermsdorfer Synagoge - Falkentaler Steig 16 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Ringbuslinie in Konradshöhe und Heiligensee einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.3: Gesundheitstag 2007 in Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.4: Patenschaften von Zahnärztinnen und Zahnärzten mit Kitas und Grundschulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.5: Benennung eines Paul-Poser-Platzes in Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.6: Fußgängerüberweg an der Welfenallee in Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Mahnmal in Frohnau/Glienicke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Vermeidung von Wurzeldruck - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.9: Entwurf des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2008 und 2009 (Doppelhaushalt) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.10: Senat soll Krebsvorsorge unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.11: Bebauungsplanentwurf XX-247-1 für das Grundstück Gertrudstraße 16G, im Bezirk Reinickendorf, Ortsteil Hermsdorf - überwiesen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Tourismus im grünen Norden - vertagt
+- TOP 7.2: War der Kahlschlag ein Erfolg? - vertagt
+- TOP 7.3: Migration - in Reinickendorf kein Thema - vertagt
+- TOP 7.4: Wasserschäden in Heiligensee - vertagt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Wahl der Vertrauenspersonen für den beim Amtsgericht Wedding zu bildenden Ausschuss (Schöffenwahlausschuss) gem. § 40 Gerichtsverfassungsgesetz (GVG) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Aufgabe der Einrichtung für wohnungslose Familien in der Wittenauer Straße - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Einsatzkonzept 06 der Berliner Feuerwehr - in der BVV abgelehnt
+- TOP 9.2: Fahrradrouten, Tourismusförderung - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Schuldnerberatung an Reinickendorfer Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Schuldenfalle bei Jugendlichen - vertagt
+- TOP 9.5: Tempo 30 rund um den Falkenplatz - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Überarbeitung der Lehrpläne im Fach Geschichte - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Schäden auf dem Fußweg des Kiefheider Weges beseitigen - erledigt
+- TOP 9.8: Alkoholverbot auf Spielplätzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Reaktivierung der Heidekrautbahn - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: MAE-Kräfte an Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Bewegungsangebote auf Schulhöfen - überwiesen
+- TOP 9.12: Busverbindung Quickborner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Verkehrsgefährdung an der Kreuzung Waidmannsluster Damm / Jean-Jaurès-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Umfrage zur "Flexiblen Eingangsphase" an Reinickendorfer Grundschulen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Anträge - (offen)
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Projekt "Denkzeit" in Reinickendorf gegen Jugendaggression - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Projekt "Der Bewegte Spielplatz" in Reinickendorf umsetzen - überwiesen
+- TOP 11.3: "Boys Day" in Reinickendorf - überwiesen
+- TOP 11.4: Nachbarschaftshilfe Frohnau - überwiesen
+- TOP 11.5: Geschlossene Waldparkplätze Konradshöher Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Altenhilfeplanung Reinickendorf - Konzeption für die zukünftige Altenhilfe im Bezirk Berlin-Reinickendorf - überwiesen
+- TOP 11.7: Jährlicher Bericht des Behindertenbeauftragten - vertagt
+- TOP 11.8: Stärkere Unterstützung für Impfkampagne - überwiesen
+- TOP 11.9: Seniorenpflegezentrum verhindern - vertagt
+- TOP 11.10: Einzelhandel in der Heinsestraße schützen - vertagt
+- TOP 11.11: Bauvorhaben Unionhilfswerk am S-Bahnhof Hermsdorf - vertagt
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Steigendes Grundwasser in Heiligensee - vertagt
+- TOP 12.2: Tempo 30 auf der "Roten Chaussee" im Forst Tegel - überwiesen
+- TOP 13: Senkung der Kosten des Schulessens - beantwortet
+- TOP 13.1: Subventionierung des Schulessens - überwiesen
+- TOP 13.2: Freistellung von den Kosten für Schulmittagessen - überwiesen
+- TOP 13.3: Kostenloses Schulessen anbieten - überwiesen
+- TOP 13.4: Kostengünstige und verlässliche Essensversorgung an Schulen - überwiesen
+- TOP 14: Tourismusförderung in Reinickendorf: Wie man gegen den Berliner Trend mit viel Geld Misserfolge produziert - beantwortet
+- TOP 15: Gesundheitskonferenz 2008 - überwiesen
+- TOP 15.1: Umsetzung der Anträge der Reinickendorfer Gesundheitskonferenz zum Schuljahr 2008/2009 - überwiesen
+- TOP 16: Jugendgerichtshilfe - vertagt
+- TOP 17: Früherkennungsuntersuchungen - beantwortet
+- TOP 17.1: Stärkung des Kinderschutzes I: Verpflichtende Vorsorgeuntersuchungen - überwiesen
+- TOP 17.2: Stärkung des Kinderschutzes II: Mehr Kinderärzte und Sozialarbeiter - überwiesen
+- TOP 18: Warum beschädigt der stellvertretende Bürgermeister die Beziehung zu großzügigen Geldgebern des Bezirks? - zurückgezogen
+- TOP 19: Ankündigungs-Luftblase: Senkung der Kosten des Schulessens - Versagen des Senats seit Monaten - beantwortet
+- TOP 20: Dienstanweisung zum Umgang mit Zuwendungen - ohne Änderungen in der BVV beschlossen
+- TOP 21: Finanzierungskonzept für die Serenade am See 2008 - ohne Änderungen in der BVV beschlossen
