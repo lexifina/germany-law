@@ -1,0 +1,59 @@
+# 17. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2008-03-12T17:00:00+01:00
+- Ende: 2008-03-12T19:00:00+01:00
+- Ort: Schloßstr. 37, 12163 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1211
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1211
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Evangelische Schule - BVV-Beschluss Nr. 334 - schriftlich beantwortet
+- TOP 3.2: Unverzügliche Veröffentlichung des Bezirkshaushalts - beantwortet
+- TOP 3.3: Brunnen am Mexikoplatz - beantwortet
+- TOP 3.4: Tätigkeit der Zentralen Anlauf- und Koordinierungsstelle (ZAK) - beantwortet
+- TOP 3.5: S-Bahnbrücke Teltower Damm - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufungen - erledigt
+- TOP 4.1.1: Abberufung eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl eines stellv. Bürgerdeputierten im Ausschuss für Stadtplanung und Naturschutz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahlen: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Aufstellung der Vorschlagsliste für ehrenamtliche Richter für das Oberverwaltungsgericht Berlin-Brandenburg für die Geschäftsjahre 2009 bis 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.4.1: Sondermittel der BVV für die Evangelische Dreifaltigkeitskirchengemeinde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Anträge - erledigt
+- TOP 4.5.1: Hahn-Meitner-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Hänsel und Gretel im Grunewald - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Wall-Gedenktafel Guernica-Platz/Spanische Allee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: 3.000 Schritte extra - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.3: Einführung von Bürgergutachten prüfen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.4: Schmarjestraße 14 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.5: Holzverwertung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - - erledigt
+- TOP 5.1: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 5.1.1: Sondermittel der BVV für den Freundeskreis der Musikschule Steglitz-Zehlendorf e. V. - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Behindertenparkplätze an der neuen Toilette am Kranold-Markt - überwiesen
+- TOP 5.2.2: Qualifizierung der Erzieherinnen und Erhöhung des Personalschlüssels - überwiesen
+- TOP 5.2.3: Attraktiver Wochenmarkt für Zehlendorf Mitte - überwiesen
+- TOP 5.2.4: Winterdienst in der S-Bahn-Unterführung Osdorfer Straße verbessern - überwiesen
+- TOP 5.2.5: Friedhofsnutzung - überwiesen
+- TOP 5.2.6: Stadion Wannsee - überwiesen
+- TOP 5.2.7: Öffentlicher Beschäftigungssektor in Steglitz-Zehlendorf - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Jugendschutz - Kein Thema für das Jugendamt? - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Interkulturelle Kompetenz des Bürgeramtes stärken - in der BVV abgelehnt
+- TOP 8.2: Schloßparktheater wiederbeleben - zurückgezogen
+- TOP 8.3: Wiederaufnahme des Spielbetriebs im Schloßparktheater - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Schlusswort des BVVorsteher - erledigt
