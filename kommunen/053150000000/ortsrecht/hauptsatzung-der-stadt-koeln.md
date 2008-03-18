@@ -1,27 +1,22 @@
-# Hauptsatzung der Stadt Köln
+# HAUPTSATZUNG DER STADT KÖLN
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2007-10-29 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung2007-10-29.pdf
+- Datum: 2008-03-18 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung2008-03-18.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Hauptsatzung der Stadt Köln vom 13.August 2007
-in der Fassung der 1. Änderungssatzung der Hauptsatzung der Stadt Köln vom 29. Oktober 2007
+HAUPTSATZUNG DER STADT KÖLN VOM 13.AUGUST 2007
+in der Fassung der 2. Änderungssatzung der Hauptsatzung der Stadt Köln vom 18. März 2008
 Inhaltsverzeichnis
 I. Allgemeines ........................................................................................................ 3 § 1 Stadtgebiet und Stadtbezirke (§§ 15, 35 GO).............................................. 3 § 2 Siegel, Wappen und Flagge (§ 14 GO) ....................................................... 4 § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger (§§ 36, 40, 67 GO) .............................................................................................. 4 § 4 Amtszeichen ................................................................................................. 4 § 5 Verpflichtung der Mitglieder des Rates, der Ausschüsse und der Bezirksvertretungen (§ 36 Abs. 3, § 58 Absätze 1 bis 4, § 67 Abs. 3 GO) ......... 5 § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger (§ 43 Abs. 3 GO, § 17 Korruptionsbekämpfungsgesetz) ..................................... 5 § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln (§ 47 Abs. 2, § 36 Abs. 5 GO) ............................................................................. 6 § 8 Öffentliche Bekanntmachungen (§ 7 Abs. 4, § 48 Abs. 1, § 52 Abs. 3 GO; BekanntmachungsVO) ...................... 6 § 9 Zuständigkeitsordnung (§ 41 Absätze 2 und 3 GO)..................................... 7 § 10 Dringlichkeitsentscheidungen (§ 60 Abs. 1 Satz 2, § 60 Abs. 2 Satz 1, § 36 Abs. 5 Satz 2 GO)........................ 7 § 11 Genehmigungspflicht für Verträge (§ 41 Abs. 1 Satz 2 lit. r GO) ............... 7 § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes (§ 29 GO) ............................................................................................................ 8
 II. Bürgerbeteiligung ............................................................................................. 9 § 13 Unterrichtung der Einwohnerinnen und Einwohner über allgemein bedeutsame Angelegenheiten (§ 23 GO) ........................................................... 9 § 14 Anregungen und Beschwerden (§ 24 GO) ................................................ 9 § 15 Einwohnerantrag (§ 25 GO) .................................................................... 12 § 16 Bürgerbegehren (§ 26 Absätze 1 bis 6 und 9 GO) .................................. 13 § 17 Bürgerentscheid (§ 26 Absätze 6, 7 GO)................................................. 14
-III. Bezirksvertretungen ...................................................................................... 16 § 18 Allgemeines (§§ 36, 37 GO) .................................................................... 16 § 19 Aufgaben der Bezirksvertretungen (Entscheidungs- und Mitwirkungsrechte, § 37 GO) ........................................... 16
+III. Bezirksvertretungen ...................................................................................... 16 § 18 Allgemeines (§§ 36, 37 GO) .................................................................... 16
 Seite 1 von 27
 
-IV. Ausschüsse ................................................................................................... 18 § 20 Hauptausschuss (§ 57 Absätze 2 und 3, § 59 Abs. 1 GO) ...................... 18 § 21 Sachkundige Bürger und Einwohner (§ 58 GO) ...................................... 18
-V. Beiräte ............................................................................................................. 19 § 22 Integrationsrat (§§ 27 i.V.m. 126 GO)...................................................... 19 § 23 Seniorenvertretung und Arbeitsgemeinschaften Seniorenpolitik .............. 20 § 23 a Stadtarbeitsgemeinschaft Behindertenpolitik......................................... 20 § 23 b Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender (LST).... 21
-VI. Finanzielle Entschädigungen für Mandatsträgerinnen/Mandatsträger..... 22 § 24 Ersatz des Verdienstausfalles (§ 45 Absätze 1 und 2, § 27 Abs. 7 GO)............................................................ 22 § 25 Allgemeine Aufwandsentschädigungen (§ 45 Absätze 3 bis 5, § 27 Abs. 7 GO) ............................................................. 22 § 26 Sonderaufwandsentschädigungen (§ 36 Abs. 4 GO) .............................. 23
-VII. Verwaltung .................................................................................................... 24 § 27 Gleichstellung von Frau und Mann (§ 5 GO) ........................................... 24 § 28 Personalangelegenheiten (§ 74 Abs. 1 Sätze 2 und 3 GO)..................... 25 § 29 Teilnahme der Verwaltung an Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen (§ 69, § 36 Abs. 7 GO) ....................................... 25 § 30 Zahl der Beigeordneten (§ 71 Abs. 1 GO) ............................................... 26 § 31 Inkrafttreten der Hauptsatzung (§ 7 Abs. 4 GO) ...................................... 26
-Anlage zu § 1 der Hauptsatzung der Stadt Köln............................................... 27
-Der Rat der Stadt Köln hat in seiner Sitzung am 19. Juni 2007 auf Grund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NW) vom 14. Juli 1994 (GV NRW S.666/SGV NRW 2023) in der bei Erlass dieser Satzung geltenden Fassung diese Hauptsatzung beschlossen:
+§ 19 Aufgaben der Bezirksvertretungen (Entscheidungs- und Mitwirkungsrechte, § 37 GO)............................................................................. 16 IV. Ausschüsse ................................................................................................... 18 § 20 Hauptausschuss (§ 57 Absätze 2 und 3, § 59 Abs. 1 GO) ...................... 18 § 21 Sachkundige Bürger und Einwohner (§ 58 GO) ...................................... 18 V. Beiräte ............................................................................................................. 19 § 22 Integrationsrat (§§ 27 i.V.m. 126 GO)...................................................... 19 § 23 Seniorenvertretung und Arbeitsgemeinschaften Seniorenpolitik .............. 20 § 23 a Stadtarbeitsgemeinschaft Behindertenpolitik......................................... 20 VI. Finanzielle Entschädigungen für Mandatsträgerinnen/Mandatsträger..... 22 § 24 Ersatz des Verdienstausfalles (§ 45 Absätze 1 und 2, § 27 Abs. 7 GO)............................................................ 22 § 25 Allgemeine Aufwandsentschädigungen (§ 45 Absätze 3 bis 5, § 27 Abs. 7 GO) ............................................................. 22 § 26 Sonderaufwandsentschädigungen (§ 36 Abs. 4 GO) .............................. 23 VII. Verwaltung .................................................................................................... 24 § 27 Gleichstellung von Frau und Mann (§ 5 GO) ........................................... 24 § 28 Personalangelegenheiten (§ 74 Abs. 1 Sätze 2 und 3 GO)..................... 25 § 29 Teilnahme der Verwaltung an Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen (§ 69, § 36 Abs. 7 GO) ............. 25 § 30 Zahl der Beigeordneten (§ 71 Abs. 1 GO) ............................................... 26 Anlage zu § 1 der Hauptsatzung der Stadt Köln............................................... 27
 Seite 2 von 27
 
 I. Allgemeines
@@ -31,9 +26,9 @@ I. Allgemeines
 (2) Das Stadtgebiet ist in folgende 9 Stadtbezirke eingeteilt:
 • Stadtbezirk 1 (Innenstadt) Altstadt/Nord, Altstadt/Süd, Deutz, Neustadt/Nord, Neustadt/Süd
 • Stadtbezirk 2 (Rodenkirchen) Bayenthal, Godorf, Hahnwald, Immendorf, Marienburg, Meschenich, Raderberg, Raderthal, Rodenkirchen, Rondorf (Hochkirchen, Höningen, Konraderhöhe und Rondorf), Sürth, Weiß, Zollstock
-• Stadtbezirk 3 (Lindenthal) Braunsfeld, Junkersdorf (Horbell, Junkersdorf und Marsdorf), Klettenberg, Lindenthal, Lövenich, Müngersdorf, Sülz, Weiden, Widdersdorf
+• Stadtbezirk 3 (Lindenthal) Braunsfeld, Junkersdorf (Horbell, Junkersdorf und Marsdorf), Klettenberg, *Lindenthal, Lövenich, Müngersdorf, Sülz, Weiden, Widdersdorf
 • Stadtbezirk 4 (Ehrenfeld) Bickendorf, Bocklemünd/Mengenich, Ehrenfeld, Neuehrenfeld, Ossendorf, Vogelsang
-• Stadtbezirk 5 (Nippes) *Bilderstöckchen, Longerich, Mauenheim, Niehl, Nippes, Riehl, Weidenpesch
+• Stadtbezirk 5 (Nippes) Bilderstöckchen, Longerich, Mauenheim, Niehl, Nippes, Riehl, Weidenpesch
 • Stadtbezirk 6 (Chorweiler) Blumenberg (Blumenberg, Broich und Kreuzfeld), Chorweiler (Chorweiler und Hoven), Esch/Auweiler, Fühlingen, Heimersdorf, Lindweiler, Merkenich (Feldkassel, Kasselberg, Langel, Merkenich und Rheinkassel), Pesch, Roggendorf/Thenhoven, Seeberg (Bergheimerhöfe und Seeberg), Volkhoven/Weiler, Worringen
 • Stadtbezirk 7 (Porz) Eil, Elsdorf, Ensen, Finkenberg, Gremberghoven, Grengel (Grengel und Flughafen), Langel, Libur, Lind, Poll, Porz, Urbach, Wahn, Wahnheide, Westhoven, Zündorf
 • Stadtbezirk 8 (Kalk) Brück, Höhenberg, Humboldt/Gremberg, Kalk, Merheim, Neubrück, Ostheim, Rath/Heumar, Vingst
@@ -59,7 +54,8 @@ Seite 4 von 27
 
 §5 Verpflichtung der Mitglieder des Rates, der Ausschüsse und der
 Bezirksvertretungen (§ 36 Abs. 3, § 58 Absätze 1 bis 4, § 67 Abs. 3 GO)
-(1) Bei der Einführung werden die Bürgermeisterinnen/Bürgermeister, die Mitglieder des Rates, die Bezirksvorsteherinnen/Bezirksvorsteher, deren Stellvertreterinnen/ Stellvertreter und die Mitglieder der Bezirksvertretungen mit folgender Erklärung verpflichtet: "Ich verpflichte Sie, Ihre Aufgabe als ....... nach bestem Wissen und Können wahrzunehmen, das Grundgesetz, die Verfassung des Landes Nordrhein-Westfalen und die Gesetze zu beachten und Ihre Pflichten zum Wohle der Stadt Köln zu erfüllen."
+(1) Bei der Einführung werden die Bürgermeisterinnen/Bürgermeister, die Mitglieder des Rates, die Bezirksvorsteherinnen/Bezirksvorsteher, deren Stellvertreterinnen/ Stellvertreter und die Mitglieder der Bezirksvertretungen mit folgender Erklärung verpflichtet:
+"Ich verpflichte Sie, Ihre Aufgabe als ....... nach bestem Wissen und Können wahrzunehmen, das Grundgesetz, die Verfassung des Landes Nordrhein-Westfalen und die Gesetze zu beachten und Ihre Pflichten zum Wohle der Stadt Köln zu erfüllen."
 (2) Sachkundige Bürgerinnen/Bürger und sachkundige Einwohnerinnen/Einwohner werden von der/dem Vorsitzenden des Ausschusses, zu dessen Mitgliedern sie gem. § 58 Absätze 1, 3 oder 4 GO bestellt werden, entsprechend Absatz 1 verpflichtet.
 §6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger
 (§ 43 Abs. 3 GO, § 17 Korruptionsbekämpfungsgesetz)
@@ -139,7 +135,8 @@ Entscheidung ist nicht zulässig. Satz 1 gilt entsprechend für Anregungen und B
 (9) Ist ein Ausschuss oder die Oberbürgermeisterin/der Oberbürgermeister entscheidungsbefugt und macht der Rat von seinem Rückholrecht trotz Anregung des Ausschusses für Anregungen und Beschwerden bzw. der Bezirksvertretung keinen Gebrauch, so kann der Ausschuss bzw. die Bezirksvertretung der zuständigen Stelle die Anregungen und Beschwerden mit einer Empfehlung überweisen.
 (10) Ist eine Bezirksvertretung gem. § 19 Abs. 1 dieser Hauptsatzung zuständig, hat die Antragstellerin/der Antragsteller ihr/sein Anliegen aber an den Rat gerichtet, leitet die Geschäftsstelle die Anregungen und Beschwerden unmittelbar an die zuständige Bezirksvertretung zur Entscheidung weiter. Eine Vorberatung im Ausschuss für Anregungen und Beschwerden erfolgt nur auf Wunsch der Antragstellerin/des Antragstellers.
 (11) In den Fällen der Absätze 6, 8, 9 und 10 teilen die Stellen, die die abschließende Entscheidung getroffen haben, das Ergebnis der Geschäftsstelle zur Unterrichtung des Ausschusses für Anregungen und Beschwerden bzw. der Bezirksvertretung mit.
-(12) Den Beschluss des Rates über die Anregungen und Beschwerden teilt die Oberbürgermeisterin/der Oberbürgermeister, den Beschluss des Ausschusses für Anregungen und Beschwerden in den Fällen der Absätze 9 und 10 die/der Ausschussvorsitzende und den Beschluss der Bezirksvertretung - auch in den Fällen der
+(12) Den Beschluss des Rates über die Anregungen und Beschwerden teilt die
+Oberbürgermeisterin/der Oberbürgermeister, den Beschluss des Ausschusses für Anregungen und Beschwerden in den Fällen der Absätze 9 und 10 die/der Ausschussvorsitzende und den Beschluss der Bezirksvertretung - auch in den Fällen der
 Seite 11 von 27
 
 Absätze 8 und 9 – die Bezirksvorsteherin/der Bezirksvorsteher der Antragstellerin/dem Antragsteller mit.
@@ -260,9 +257,10 @@ Seite 24 von 27
 
 (5) Die Gleichstellungsbeauftragte kann die Öffentlichkeit über Angelegenheiten ihres Aufgabenbereichs unterrichten.
 § 28 Personalangelegenheiten (§ 74 Abs. 1 Sätze 2 und 3 GO)
-(1) Abweichend von § 74 Abs. 1 Satz 2 GO bedarf die Oberbürgermeisterin/der Oberbürgermeister für die Einstellung, Beförderung und Entlassung von Beamtinnen/Beamten des höheren Dienstes der Zustimmung des Ausschusses Allgemeine Verwaltung und Rechtsfragen. Dies gilt nicht bei Entlassungen auf eigenen Antrag sowie bei Entscheidungen, die durch das Gesetz zwingend vorgeschrieben sind.
-(2) Bei Beschäftigten, die nach Entgeltgruppe 14 TVöD oder höher vergütet werden, bedarf die Oberbürgermeisterin/der Oberbürgermeister für die Einstellung und ordentliche Kündigung ebenfalls abweichend von § 74 Abs. 1 Satz 2 GO der Zustimmung des Ausschusses Allgemeine Verwaltung und Rechtsfragen. Im Fall einer außerordentlichen Kündigung informiert die Oberbürgermeisterin/der Oberbürgermeister den Ausschuss Allgemeine Verwaltung und Rechtsfragen in der nächsten Sitzung.
-(3) In den Fällen der Absätze 1 und 2 tritt bei Eigenbetrieben und eigenbetriebsähnlichen Einrichtungen der jeweils zuständige Betriebsausschuss an die Stelle des Ausschusses für Allgemeine Verwaltung und Rechtsfragen.
+(1) Der Oberbürgermeister trifft die dienstrechtlichen und arbeitsrechtlichen Entscheidungen, soweit gesetzlich oder in dieser Satzung nichts anderes bestimmt ist.
+(2) Für Bedienstete in Führungsfunktionen sind Entscheidungen, die das beamtenrechtliche Grundverhältnis oder das Arbeitsverhältnis des Bediensteten zur Stadt Köln verändern, durch den Hauptausschuss im Einvernehmen mit dem Oberbürgermeister zu treffen. Dies gilt nicht bei Entlassungen auf eigenen Antrag sowie für Entscheidungen, für die gesetzlich etwas anderes bestimmt ist.
+(3) Kommt ein Einvernehmen nicht zu Stande, kann der Rat die Entscheidung mit einer Mehrheit von zwei Dritteln der gesetzlichen Zahl der Ratsmitglieder treffen. Bei diesen Entscheidungen stimmt der Oberbürgermeister nicht mit. Wird diese Mehrheit nicht erreicht, gilt Absatz 1.
+(4) Bedienstete in Führungsfunktionen sind Leiterinnen/Leiter von Organisationseinheiten, die dem Hauptverwaltungsbeamten oder einer anderen Wahlbeamtin/Wahlbeamten oder dieser/diesem in der Führungsfunktion vergleichbaren Bediensteten unmittelbar unterstehen, mit Ausnahme von Bediensteten mit Aufgaben einer persönlichen Referentin/eines persönlichen Referenten oder einer Pressereferentin/eines Pressereferenten.
 § 29 Teilnahme der Verwaltung an Sitzungen des Rates, der Ausschüsse und der
 Bezirksvertretungen (§ 69, § 36 Abs. 7 GO)
 (1) Die Teilnahme der Oberbürgermeisterin/des Oberbürgermeisters und der Beigeordneten an den Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen richtet sich nach § 69 und § 36 Abs. 7 GO. Leitende Dienstkräfte i.S.d. § 36 Abs. 7 Satz 2 GO sind die Amtsleiterinnen und Amtsleiter.
@@ -274,16 +272,15 @@ Seite 25 von 27
 § 30 Zahl der Beigeordneten
 (§ 71 Abs. 1 GO)
 Die Zahl der zu wählenden Beigeordneten wird auf höchstens 7 festgesetzt. In dieser Zahl sind die allgemeine Vertreterin/der allgemeine Vertreter der Oberbürgermeisterin/des Oberbürgermeisters, die/der die Amtsbezeichnung "Stadtdirektorin/Stadtdirektor" führt, und die Stadtkämmerin/der Stadtkämmerer inbegriffen.
-§ 31 Inkrafttreten der Hauptsatzung
-(§ 7 Abs. 4 GO)
+§ 31 Inkrafttreten der Hauptsatzung (§ 7 Abs. 4 GO)
 Diese Hauptsatzung tritt am Tage nach der öffentlichen Bekanntmachung in Kraft. Gleichzeitig tritt die bisher geltende Hauptsatzung vom 01.02.2005 außer Kraft.
 Vorstehende Satzung wird hiermit öffentlich bekannt gemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
 
-Köln, den 29.10.2007
+Köln, den 18.03.2008
 
 Der Oberbürgermeister gez. Schramma
 
-ABl StK 2007 S. 375 ff, S. 537
+ABl StK 2007 S. 375 ff, S. 537, 2008 S. 199
 
 Seite 26 von 27
 
