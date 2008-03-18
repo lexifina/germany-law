@@ -1,0 +1,103 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2008-03-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1327583
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1327583
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Entfernen des runden Betonsockels (Fundament für wechselnde Kunst) am Hans-Mielich-Platz; Bürgerantrag vom 10.02.2008
+- TOP 2.2.: Naupliastraße auf Höhe der Armanspergerstraße / Laurinplatz; Einrichtung eines Zebrastreifens; Bürgerschreiben vom 04.03.2008 - <div>abgelehnt</div>
+- TOP 2.3.: LILALU - kostenlose Teilnahme an "Workshops" für Kinder mit Migrationshintergrund; Schreiben der Projektleitung LILALU Festival und Events - <div>ohne Entscheidung</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.: AntragstellerIn: Initiative "Weihnachtsmarkt", für die Maßnahme: Weihnachtsmarkt vom 30.11. - 02.12.2007 am Mangfallplatz; Antragssumme: 752,79 ?; Beschlussvorlage des Direktoriums vom 18.02.2008
+- TOP 3.2.: AntragstellerIn: Carpe Diem e.V., für die Maßnahme: Wasseranschluss für die Küchenzeile im Betreuungsgruppenraum für Demenzkranke; Antragssumme: 1.794,-- ?; Beschlussvorlage des Direktoriums vom 18.02.2008
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: TSV Turnerbund e.V., für die Maßnahme: 50 Jahre Tischtennis - Turnier u. Feier am 03.05.2008; Antragssumme: 1.132,- ?; Antrag vom 25.02.2008
+- TOP 3.2.: AntragstellerIn: Münchner Konzertchor e.V., für die Maßnahme: Aufführung der Johannespassion am Karfreitag in der Emmauskirche; Antragssumme: 1.500,-- ?; Antrag vom 02.02.2008
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.: Budget der Bezirksausschüsse; Erfahrungsbericht 2007; Zuleitung des Direktoriums vom 01.02.2008
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Kurzstreckentarif für Kinder im MVV; Antrag des BA 10 - Moosach mit der Bitte um Weitergabe an alle BA's
+- TOP 3.1.: Neue Fahrradabstellmöglichkeiten im Bereich der (neuen) Straßenbahnhaltestelle der Linien 15 / 25 am Tiroler Platz, Fahrtrichtung stadteinwärts; Antrag-Nr. 02-08 / B 02728 des BA 18 vom 16.10.2007; Antwortschreiben des Baureferats vom 25.02.2008
+- TOP 3.2.: Verbesserung der Verkehrssicherheit für Fußgänger-Unterführungen Sachsenstraße / Teutoburger Straße und Freibadstraße / Hans-Mielich-Platz; Antrag-Nr. 02-08 / B 02757 des BA 18 vom 15.01.2008; Antwortschreiben des Baureferats vom 25.02.2008
+- TOP 3.1.: Parkraummanagement in München - Festlegung der 3. und 4. Priorität und Projektfortschrittsbericht 2007 a) Festlegung Umsetzungsreihenfolge des III. und IV. Sektors b) Projektfortschrittsbericht 2007 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung" Sitzungsvorlagen Nr. 02-08 / 11349 Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsausschusses vom 05.03.2008 (SB)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Anhörung des Bezirksausschusses zu Bürgerversammlungsempfehlungen gem. § 13 Abs. 3 der Bezirksausschusssatzung; Ruhe am Himmel - Sanktionierung ungesetzlicher Tiefflüge; Empfehlung Nr. 02-08 / E 00948 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigvorstadt-Isarvorstadt am 15.11.2007; Einschränkung bzw. Verbot von Sightseeingflügen über der Innenstadt (Ziffer 2 des Antrags); Empfehlung Nr. 02-08 / E 00961 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 20.11.2007; Zuleitung des RGU vom 11.02.2008 mit der Bitte um Stellungnahme
+- TOP 3.1.: Gärtnerische Gestaltung des Wörnbrunner Platzes: Zuschnitt der Himbeersträucher und Schaffung einer Sichtachse zwischen Kleinkinderbereich und Schulkinderbereich; BA-Antrag-Nr. 02-08 / B 02730 des BA 18 vom 20.11.2007; Antwortschreiben des Baureferats vom 12.02.07
+- TOP 3.2.: Verschmutzung der Bushaltestelle Theodolindenplatz im 18. Stadtbezirk Untergiesing-Harlaching durch Silvesterknaller; Schreiben des BA 18 vom 06.02.2008; Antwortschreiben der MVG vom 19.02.2008
+- TOP 3.3.: WEG St.-Magnus-Straße 20-32, Griechenstraße 13-15, Noldinstraße 3-5 in 81545 München; Pflege des öffentlichen Grünstreifens; Schreiben des BA 18 vom Januar 2008; Antwortschreiben des Baureferats vom 29.02.2008
+- TOP 3.1.: Isar-Plan Bauabschnitt Mitte, Los 1; Einladung zum Expertengespräch und Protokoll zum Expertengespräch vom 21.06.2007; Zuleitung des Wasserwirtschaftsamtes München vom 14.02.2007
+- TOP 3.3.4: UA Soziales
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Änderung des Flächennutzungsplans; Umwidmung der allgemeinen Grünfläche (Gartenbaustützpunkt) am Hollerbusch in eine Sportfläche bzw. Grünfläche mit Sportnutzung; Existenzsicherung des FC Alemannia München - <div>nach Antrag</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Verkauf Flst. 12911/247 Sekt. VII; Karolingerallee / Ecke Haselburgstraße, 18. Stadtbezirk; Schreiben des BA 18 vom 22.01.2008; Antwortschreiben des Kommunalreferats vom 11.02.2008
+- TOP 3.2.: Verkauf Flst. 12895 (Tlfl.) Sekt. VII, Meraner Straße, 18. Stadtbezirk; Schreiben des BA 18 vom 12.10.2007; Antwortschreiben des Kommunalreferats vom 14.02.2008
+- TOP 3.1.: Hans-Mielich-Platz; Neugestaltung des Platzbereiches und der Anschlussbereiche zu den umliegenden Straßen Gerhard-, Hans-Mielich-, Kühbach- und Teutoburger Straße im 18. Stadtbezirk Untergiesing-Harlaching; Verbesserung; Projektkosten (Kostenobergrenze): 2.250.000 ?; Bedarfs- und Konzeptgenehmigung; Sitzungsvorlage Nr. 02-08 / V 11142; Beschluss des gemeinsamen Bauausschusses und des Ausschusses für Stadtplanung und Bauordnung vom 05.03.2008 (SB)
+- TOP 3.2.: Baufälle im 18. Stadtbezirk
+- TOP 3.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.3.1 SSW "Cirlei's", Grünwalder Straße; Mitteilung vom 04.03.2008
+- TOP 3.4.: Absenkung von Bordsteinen im Rahmen von Baumaßnahmen; Ziffer 2 des Antrages; Empfehlung Nr. 02-08 / E 00628 der Bürgerversammlung des Stadtbezirkes 2 Ludwigvorstadt - Isarvorstadt am 16.11.2006; Sitzungsvorlage Nr. 02-08 / V 11078; Beschluss des Bauausschusses vom 12.02.2008 (SB)
+- TOP 3.5.: Hans-Mielich-Platz; Abstimmung im Ausschuss für Stadtplanung u. Bauordnung des Stadtrates - <div>nach Antrag</div>
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung in einer städtischen Grünanlage vom 01.10.2008 - 14.10.2008; hier: Vollmarkpark - Zirkus Baldoni; Anhörung des KVR vom 21.02.2008 mit der Bitte um Stellungnahme bis 07.04.2008
+- TOP 3.2.: Veranstaltungen sowie Sondernutzungen auf öffentlichem Verkehrsgrund; neue Veranstaltungsrichtlinien; Zuleitung des KVR vom 04.02.2008 mit der Bitte um Stellungnahme bis 31.03.2008 - <div>vertagt</div>
+- TOP 3.1.: Kunst am Hans-Mielich-Platz; Beschluss des BA 18 vom 15.01.2008 (Fundament als Standort für wechselnde Kunst); Zwischennachricht des Baureferates vom 13.02.2008
+- TOP 3.1.: Informationsveranstaltung am 05.07.2007 im Ratskeller zum Thema "Sondernutzungen"; Az.: HAII/V 1; Schreiben der 2. Bürgermeisterin vom 21.01.2008
+- TOP 3.2.: Tag des offenen Denkmals - "Vergangenheit aufgedeckt" - Archäologie und Bauforschung - am 14.09.2008; Informationen der Deutschen Stiftung Denkmalschutz
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Um- bzw. Neuorganisation bei HA II des Direktoriums; Verwaltungsabteilung; Schreiben des Direktoriums vom 15.02.2008
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
