@@ -1,0 +1,130 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2008-03-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1317889
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1317889
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.5.: Antrag Freunde der Freiwilligen Feuerwehr: Zuschuss in Höhe von 1 495 ? für die Beschaffung von 5 Navigationsgeräten
+- TOP 2.4: Beschlussvorlagen
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürgeranliegen: Mögliche Angebotseinschränkung der Tram 20/21
+- TOP 3.2.: Bürgeranliegen: Halt der Buslinie "N99" auch an der Haltestelle Steubenplatz
+- TOP 3.3.: KVR: Öffnung der Winfriedstraße für Radfahrer
+- TOP 3.4.: KVR: Verkehrsregelnde Maßnahmen im Gelände der Wehrbereichsverwaltung, Dachauer Str. 128
+- TOP 3.5.: Stadtwerke: Informationsveranstaltung für die Bezirksausschüsse am 02.04.2008
+- TOP 3.6.: Stadtwerke: Fernwärmeprojekt Gern / Neuhausen
+- TOP 3.7.: Baumaßnahmen der Stadtwerke im Februar
+- TOP 3.8.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 27.02.08: Beschlussvollzugskontrolle; Halbjährlicher Sachstandsbericht für den Zeitraum 01.07. - 31.12.07
+- TOP 3.9.: 3 Tunnels für München ein voller Erfolg - daher jetzt Verlängerung des Tunnels an der Landshuter Allee zwischen Donnersbergerbrücke und Dachauer Straße planen ! (Antrag Herr Stadtrat Schmid aus der Rathaus Umschau)
+- TOP 3.10.: KVR: Bürgeranliegen: 30 km/h-Schild Renata-/Arnulfstraße (Schreiben BA 9 vom 20.11.07)
+- TOP 3.11.: Bürgeranliegen: Maßnahmen zur Einschränkung des Verkehrs in der Dall´Armistraße
+- TOP 3.12.: Beschluss des Bauausschusses vom 12.02.08: Instandsetzung der Überführung der Dachauer Straße über den Nymphenburg-Biedersteiner-Kanal
+- TOP 3.13.: MVG: Ampelanlage In den Kirschen / Wintrichting; Neue Haltestelle für die Buslinien 51 und 143
+- TOP 3.14.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Kreisverwaltungsausschusses und Bauausschusses vom 05.03.08: Parkraummanagement in München - Sektor II (Empfehlung Nr. 975 der Bürgerversammlung vom 22.11.07)
+- TOP 3.15.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsausschusses vom 05.03.08: Parkraummanagement in München - Festlegung der 3. und 4. Priorität und Projektfortschrittsbericht 2007
+- TOP 3.16.: KVR: Parkraummanagement in Neuhausen; Ausstellung einer zeitlich befristeten Parklizenz (Schreiben BA 9 vom 15.01.08)
+- TOP 3.17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.18.: Anfrage / Nachfrage CSU: Bebauung Arnulfpark, Richelstraße, Birketweg, Winfriedstraße: Planung und Errichtung von quartiersbezogenen Straßen
+- TOP 3.19.: KVR: Radfahren am Rotkreuzplatz, Ortstermin am 25.09.07 (Antrag BA 9 Nr. 1624)
+- TOP 3.20.: =&gt; dazu: Antrag CSU: Radwegmarkierung Furt Rotkreuzplatz (Wiedervorlage aus der Sitzung vom 16.10.07)
+- TOP 3.21.: Beschluss der Vollversammlung des Stadtrats vom 23.01.08: 2. S-Bahn-Stammstrecke; Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG)
+- TOP 3.22.: KVR: Verkehrsrechtliche Anordnung für die Zeit von 03.03. - 04.10.08 an der Friedenheimer Brücke (Brückeninstandsetzung)
+- TOP 3.23.: BA 25 Laim: S-Bahn-Haltepunkt Friedenheimer Brücke / Umbenennung
+- TOP 3.24.: Anfrage CSU: City-Logistikzentrum / Verkehrskonzept
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Planungsreferat: Bautennachweise vom 04.02. - 10.02., 11.02. - 17.02., 18.02. - 24.02. und 25.02. - 02.03.08
+- TOP 3.2.: Vorstellung von Umbau und Neubau der Christkönig - Kirche
+- TOP 3.3.: Planungsreferat: Regionalgespräche bei der Lokalbaukommission für die Bezirksausschüsse am 03.06.08
+- TOP 3.4.: Referat für Arbeit und Wirtschaft: Entlastung und Sanierung der Fußgängerzone
+- TOP 3.5.: Bauvorhaben Von-Goebel-Platz: Neubau eines Einfamilienhauses mit Garage, Vorbescheid
+- TOP 3.6.: Bauvorhaben Lazarettstr. 7-17: Aufstockung (Nicht-Vollgeschoss), Vorbescheid
+- TOP 3.7.: Bauvorhaben Blutenburgstr. 37: Sanierung und Umbau des Dachgeschosses mit Einbau einer Dachterrasse (denkmalgeschütztes Wohngebäude)
+- TOP 3.8.: Mieterverein: Stoppt die Umwandlung von Mietshäusern in Erhaltungssatzungsgebieten
+- TOP 3.9.: Bürgeranliegen: Gemeinschaftsunterkünfte Emma-Ihrer-Straße
+- TOP 3.10.: Planungsreferat: Bürgeranliegen: Rückwärtiger Anbau Richildenstr. 21 (Schreiben BA 9 vom 19.06.07)
+- TOP 3.11.: Bauvorhaben Bernabeistr. 6: Neubau eines Wohnhauses (6 WE) mit Tiefgarage, Tektur
+- TOP 3.12.: Planungsreferat: Bürgeranliegen: Werbeanlage Dachauer Str. 124 a (Schreiben BA 9 vom 21.11.06)
+- TOP 3.13.: Planungsreferat: Beschlussvorlage: Dachauer Str. 110-114 und Luitpold-Kaserne, Leonrodplatz, Dachauer Straße (östlich), Schwere-Reiter-Straße (südlich), Infanteriestraße (westlich); Grundsatz- und Eckdatenbeschluss (Wiedervorlage aus der Sitzung vom 19.02.08)
+- TOP 3.14.: =&gt; dazu: Beschluss BA 4 Schwabing-West
+- TOP 3.15.: Bauvorhaben Baldurstr. 39: Neubau eines Wohngebäudes mit Büroräumen im EG, eines Rückgebäudes mit Büro- und Verabschiedungsräumen sowie Wohnungen im 1. OG einschließlich zweier Tiefgaragen
+- TOP 3.16.: Bauvorhaben Volksgartenstr. 2: Neubau einer Wohnanlage (36 WE) mit Tiefgarage in eine teilabzubrechende Bunkeranlage, Vorbescheid
+- TOP 3.17.: Bauvorhaben Klugstr. 30: Umbau und Sanierung, Tektur
+- TOP 3.18.: Bauvorhaben Blutenburgstr. 75: Umbau und Sanierung eines Wohngebäudes
+- TOP 3.19.: Verein für Volkswohnungen: "Hier entsteht 174 mal genossenschaftliches Wohnen" - unser Bauvorhaben in der Andree- und Renatastraße
+- TOP 3.20.: Bauvorhaben Birketweg 2-14: Abgrabung der antrophogenen Auffüllung im Zuge der Baufeldfreimachung - Wall zum Hirschgarten
+- TOP 3.21.: Kulturreferat: Neuhauser Trafo, Neubau (Antrag BA 9 Nr. 2701 vom 18.12.07)
+- TOP 3.22.: Baureferat: Kommission für Kunst am Bau; Stimmrecht des Bezirksausschusses 9 (Schreiben BA 9 vom 17.12.07)
+- TOP 3.23.: Bürgeranliegen: Denkmal für Alfred Andersch am Trafo (Wiedervorlage aus der Sitzung vom 19.02.08)
+- TOP 3.24.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.02.08: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung Zentrale Bahnflächen Teilgebiet Birketweg zwischen Hirschgarten (östlich), Wilhelm-Hale-Straße (westlich) und Arnulfstraße (südlich); Endgültiger Beschluss
+- TOP 3.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.02.08: Bebauungsplan mit Grünordnung Nr. 1926 b Wilhelm-Hale-Straße (westlich), Schloßschmidstraße (nördlich) und Hirschgarten (östlich); Satzungsbeschluss
+- TOP 3.26.: Workshopverfahren Arnulfpark MK 3 / MK 4
+- TOP 3.27.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Volkartstraße
+- TOP 3.28.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Kemnatenstraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Arnulfstr. 295: Fällung von 1 Esche
+- TOP 3.2.: Postillonstr. 3: Fällung von 1 Pappel und Baumveränderung an 9 Pappeln
+- TOP 3.3.: Minerviusstr. 6: Fällung von 3 Birken
+- TOP 3.4.: Planungsreferat: Fällung von 1 Rotbuche als Gefahrenbaum in der Gerner Str. 1
+- TOP 3.5.: Referat für Gesundheit und Umwelt: Beschlussvorlage "Überfliegen des Stadtgebietes"
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Planungsreferat: Fällungsgenehmigung Nymphenburger Str. 98
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.9.: Umgestaltung des Nord-Ost Eingangs (Wilhelm-Hale-Straße/Arnulfstraße) zum Hirschgarten / Vorstellung durch das Baureferat
+- TOP 3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.2.: Bürgeranliegen: Kostenzuschuss für Mittagsbetreuung "Pfiffikus!"; Überprüfen der Einkommensgrenzen für Zuschüsse der Eltern von der wirtschaftlichen Jugendhilfe
+- TOP 3.3.: BA 10 Moosach: Kurzstreckentarif für Kinder
+- TOP 3.4.: Sozialreferat: Nächste Sitzung der AG Ehrenamtliche Kinderbeauftragte im Juli
+- TOP 3.5.: Beschluss des Sozialausschusses vom 28.02.08: Wohnhaus zur Abklärung der Wohnperspektive - Clearinghaus
+- TOP 3.6.: Sozialreferat: Ergebnisprotokolle aus den Sitzungen der Arbeitsgruppe Wohnungslosigkeit vom 08.05. und 13.11.07
+- TOP 3.7.: Bewohnertreff Arnulfpark: Bewohnertreff / Angebote für Jugendliche
+- TOP 3.8.: Staatliches Schulamt: Schüler- und Klassenzahlen an den staatlichen Gymnasien im Schuljahr 2007 / 2008
+- TOP 3.9.: Evangelische Jugend München: Mobiles Spielangebot in der Siedlung Nederling / Einstellung des Jugendwohnens / Schulsozialarbeit an der Hauptschule Winthirplatz (Schreiben BA 9 vom 20.11. und 18.12.07) Wiedervorlage aus der Sitzung vom 19.02.08
+- TOP 3.10.: Sozialreferat: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 26.11.07
+- TOP 3.11.: Direktorium: Zuwendung aus dem Budget der BAs; hier: Backstage
+- TOP 3.12.: Schulreferat: Beschlussvorlage "Brandschutzsanierung und Umbau Grund- und Hauptschule Alfonsstr. 8"
+- TOP 3.13.: Wogeno München eG: Mehrgenerationenhaus Reinmarplatz
+- TOP 3.14.: Sozialreferat: Bauvorhaben Neuhauser Trafo (Schreiben BA 9 vom 18.12.07)
+- TOP 3.15.: Beschluss des Schulausschusses vom 27.02.08: Realisierungswettbewerb, Neubau einer 5-zügigen Grundschule mit 8-gruppigem Tagesheim und 4-gruppiger Mittagsbetreuung im Siedlungsgebiet Nymphenburg Süd (Empfehlung Nr. 971 der Bürgerversammlung vom 22.11.07)
+- TOP 3.16.: Sozialreferat: Neuerrichtung eines ASZ in Nymphenburg (Antrag BA 9 Nr. 2699 vom 18.12.07)
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.3.: Projekt Sozialkunde in der gymnasialen Oberstufe / Vorschläge des UA (Wiedervorlage aus der Sitzung vom 19.02.08)
+- TOP 3.4.: Kulturreferat: Beschlussvorlage "Änderung der Öffnungszeiten bei den Stadtbibliotheken Neuhausen und Nymphenburg" (Antrag BA 9 Nr. 2587 vom 20.11.07) Wiedervorlage aus der Sitzung vom 19.02.08
+- TOP 3.5.: Bürgeranliegen: Denkmal für Alfred Andersch am Trafo
+- TOP 3.6.: Projekt "Bürgerinnen und Bürger gestalten ihre Stadt" / Aktuelles
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.2.: Bürgeranliegen: Lärmbelästigung durch das Theaterfestivalgelände und an der Ackermannstraße
+- TOP 4.3.: Bürgeranliegen: Lärmbelästigung vom Kongresszentrum der Hanns-Seidel-Stiftung
+- TOP 4.4.: Bürgeranliegen: Genehmigung für ein "Eis-Dreiradl" im Hirschgarten
+- TOP 4.5.: Eisenrieder GmbH: Antrag auf Erweiterung des Christkindlmarkts am Rotkreuzplatz
+- TOP 4.6.: Direktorium: Budget der Bezirksausschüsse, Erfahrungsbericht 2007
+- TOP 4.7.: Direktorium: Informationsveranstaltung am 05.07.07 / Sondernutzungserlaubnisse auf öffentlichem Grund
+- TOP 4.8.: =&gt; dazu: KVR: Veranstaltungen sowie Sondernutzungen auf öffentlichem Verkehrsgrund, neue Veranstaltungsrichtlinien
+- TOP 4.9.: KVR: Freischankflächenantrag "Backspielhaus", Südliche Auffahrtsallee 77
+- TOP 4.10.: KVR: Gaststätte "GourVin", Hirschbergstr. 1; Neuerrichtung
+- TOP 4.11.: KVR: Kundgebung von Falun Gong am 24.02., 23.03. und 06.04.08 gegenüber dem chinesischen Konsulat in der Hirschgartenallee
+- TOP 4.12.: KVR: Jugendkreuzweg am 18.03.08 in der Klara-, Elvira-, Blutenburg-, Adam-, Nymphenburger- und Loristraße
+- TOP 4.13.: KVR: Fronleichnamsprozession am 25.05.08 von der Notburgastr. 17 über Südl. Auffahrtsallee und Südl. Schlossrondell zum Schloss Nymphenburg, über Nördl. Schlossrondell und Nördl. Auffahrtsallee zurück zur Christkönigkirche
+- TOP 4.14.: KVR: "Major League Baseball Roadschow" am 16.07.08 am Rotkreuzplatz
+- TOP 4.15.: Antrag Freunde der Freiwilligen Feuerwehr: Zuschuss in Höhe von 1 495 ? für die Beschaffung von 5 Navigationsgeräten
+- TOP 4.16.: Parkscheinautomaten in Neuhausen trotz Ablehnung durch Bürgerversammlung
+- TOP 5.: Verschiedenes
+- TOP 3.1.: Antrag Lilalu e.V.: Zuschuss in Höhe von 13 000 ? für das Zirkusfestival Lilalu
+- TOP 3.1.: Antrag realitaetsbüro Kulturprojekt Neuland: Zuschuss in Höhe von 800 ? für Bau einer Arche im Mai 2008
+- TOP 3.2.: Antrag Volkschor München-Neuhausen: Zuschuss in Höhe von 185 ? für den 20. Hoagart'n am 29.03.08 in der Christuskirche
+- TOP 4.1.: Antrag Schützenliesl München-Neuhausen: Zuschuss in Höhe von 500 ? für die 100-Jahr-Feier am 05.07.08
