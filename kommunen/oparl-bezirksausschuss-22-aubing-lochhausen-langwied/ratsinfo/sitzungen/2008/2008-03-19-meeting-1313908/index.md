@@ -1,0 +1,104 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2008-03-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1313908
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1313908
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Fuß- und Radweg Berglwiesenstraße zwischen den Straßen "An der Langwieder Haide" und "Mühlangerstraße"
+- TOP 2.2.: Geschützter Landschaftsbestandteil "Langwieder Haide"
+- TOP 2.3.: Müllentsorgung und Parkplatzsituation am HIT-Markt, Stockacher Str. 5
+- TOP 2.4.: Flaschencontainer Aufsesserplatz
+- TOP 2.5.: Entfernen der Plakatständer
+- TOP 3: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4: Anträge
+- TOP 4.1.: Müllcontainer auf Höhe des Anwesens Bodenseestr. 198
+- TOP 4.2.: Salzverbot auf Geh- und Radwegen
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: BRK Wasserwacht
+- TOP 5.2.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Grundschule an der Wiesentfelser Straße
+- TOP 5.3.: Benennung der Stichstraße zwischen Germeringer Weg und Georg-Böhmer-Straße, Höhe Belandwiese, in "Belandweg" - ABGESETZT -
+- TOP 5.4.: Aufhebung des Haltverbots beim Einkaufszentrum Westkreuz nach Verlegung der Bushaltestelle der Linie 57 (Ziffer 2 des Antrags)
+- TOP 5.5.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Floriansfreunde der Freiwilligen Feuerwehr
+- TOP 6: (E) Großbaustelle an der Schussenrieder Straße; Schaffung einer eigenen Baustellenzufahrt und Sperrung der Gündinger Straße und der Straße Am Lochhauser Hügel (Ziffer 1 und 2 des Antrages) (vertagt aus 10/07) Empfehlung Nr. 02-08 / E 00756 der Bürgerver- sammlung des Stadtbezirkes 22 Aubing-Lochhausen- Langwied vom 28.06.2007 Bebauungsplan 1703 Schreiben des Bezirksausschusses 22 Aubing- Lochhausen-Langwied
+- TOP 6: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/21 und vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1907, Bodenseestr. (südlich), Bahnlinie München-Herrsching (südlich), Bahnlinie München-Mittenwald (westlich), Paosostr. (nördlich) - Gleisdreieck Pasing - (Teiländerung des Bebauungsplanes Nr. 1094) (vertagt aus Sitzung 02/08)
+- TOP 6.3.: Ruhe am Himmel - Sanktionierung ungesetzlicher Tiefflüge; Einschränkung bzw. Verbot von Sightseeingflügen über der Innenstadt; Beschluss des Umweltausschusses vom 27.05.08 (vertagt aus Sitzung 02/08)
+- TOP 6.4.: Einziehung einer Teilstrecke der Straße "Waidachanger"
+- TOP 6.5.: Bauvorhaben Bergsonstraße, Errichtung einer Betonzentrale - Vorbescheid
+- TOP 6.6.: Bauvorhaben Maganusweg, Errichtung einer Kleingartenanlage
+- TOP 6.7.: Planfeststellung gem. § 18 AEG, Flächenfreisetzung des AW Neuaubing, Strecke München-Aubing, AW München Neuaubing (5508, Bahn-km 3,300 - 3,500 und Strecke München - Herrsching i.d.B. (5541), Bahn-km 3,300 - 3,800
+- TOP 6.8.: Freiham - Öffentliche Grün- und Ausgleichsflächen, Bebauungsplan mit Grünordnung Nr. 1916 a, Bauteil 1: Öffentliche Grünfläche Kiefernhain - Gewerbegebiet Freiham Süd
+- TOP 6.9.: Antrag auf Genehmigung eines Feuerwerkes, Gelände Birkenrieder Str. 6 am 02.05.08 von 22.00-22.30 Uhr
+- TOP 6.10.: Bebauungsplan Nr. 5 A, Gemeinde Gräfelfing, Gewerbe- und Sondergebiet beidseits des Lochhamer Schlags - Teil Ost
+- TOP 6.11.: Bebauungsplan Nr. 1 L der Gemeinde Gräfelfing, Gebiet zwischen der A 96 und der Rudolf-Diesel-Str. sowie zwischen der Siedlerstr. und dem Beb.pl. Nr. 21 B
+- TOP 7: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Verkehrsrechtliche Anordnung, Feld- und Waldweg zwischen Eichenauer Straße und Moosschwaiger Weg, Schr. KVR vom 03.01.08
+- TOP 7.2.: Baumaßnahmen der Stadtwerke München GmbH, Stichtag: 18.02.08, 25.02.08, 03.03.08, 10.03.08
+- TOP 7.3.: Baufälle im 22. Stadtbezirk (v. 11.-17.02.08, v. 18.-24.04.08, v. 25.02.-02.03.08, 03.-09.03.08), Schr. Planungsreferat vom 18.02.08, 25.02.08, 04.03.08, 10.03.08
+- TOP 7.4.: Verkauf eines Grundstückes, Flst. 3511/3 Aubing, Franz-Delonge-Str., GE 24, Schr. Kommunalreferat vom 20.02.08
+- TOP 7.5.: Um- bzw. Neuorganisation bei HA II des Direktoriums; Verwaltungsabteilung, Schr. Direktorium vom 15.02.08
+- TOP 7.6.: Verkehrsrechtliche Anordnung, Eingeschränktes Haltverbot Aubinger Str. 51, Schr. KVR vom 18.12.07
+- TOP 7.7.: Wirtschafts-Info 02/08 vom 29.02.08
+- TOP 7.8.: Festzug am Pfingstsonntag, 12.05.08, Ubostr., Kirche St. Quirin, Schr. KVR vom 28.02.08
+- TOP 7.9.: Zweckentfremdung von Wohnraum, Sulzemooser Str. 15, Schr. Sozialreferat vom 04.03.08
+- TOP 7.10.: Daten Kinderkrippen , Stand: 01.01.08, Schr. Sozialreferat vojm 04.03.08
+- TOP 7.11.: Mitteilung über ein Grundstücksgeschäft; hier Verkauf Georg-Maurer-Str. GE 25, Flst. 3511/4 Aubing, Schr. Kommunalreferat vom 01.03.08
+- TOP 7.12.: Veranstaltungen/ Kooperationen im März 2008, Schr. Kulturreferat vom 05.03.08
+- TOP 7.13.: Genehmigung der Arbeitsvergabe für die Baumaßnahme am Waidachanger, Schr. Baureferat vom 10.03.08
+- TOP 7.14.: Stärkung der Stadtteilkultur, Schr. Kulturreferat vom 06.03.08
+- TOP 8: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Taktverdichtung und Taktverbesserung auf den Münchner S-Bahn-Linien der S 4 und S 8, Schr. Planungsreferat vom 20.02.08
+- TOP 8.2.: Erlass einer Außenbereichsatzung für den Bereich Lochhausener Straße / Bahnlinie München-Augsburg sowie Erlbach östlich / Baugrenze Lochhausen, Schr. Planungsreferat vom 20.02.08
+- TOP 8.3.: Barrierefreier Zugang zum Saal im Bay. Schnitzel- und Hendlhaus (ehem. Wienerwaldsaal) an der Limesstr. 63, Schr. Kulturreferat vom 14.02.08
+- TOP 8.4.: Ortsbesichtigung von Rad- und Fußweg entlang der Eichenauer Straße, Schr. Baureferat vom 18.02.08
+- TOP 8.5.: Neugestaltung von Spielplatzen in der HEIMAG-Siedlung an der Gilchinger- und Wildenrother Straße, Schr. Planungsreferat vom 15.02.08
+- TOP 8.6.: Sauberhaltung von Bushaltestellen im 22. Stadtbezirk, Schr. SWM vom 19.02.08
+- TOP 8.7.: Errichtung einer Querungshilfe an der Aubinger Straße in Höhe der Haßfurter Straße, Schr. Baureferat vom 25.02.08
+- TOP 8.8.: Streetwork-Bus, Schr. Sozialreferat vom 24.02.08
+- TOP 8.9.: Sperrung des Grasgartenweges für den Durchgangsverkehr, Schr. KVR vom 25.02.08
+- TOP 8.10.: Bauliche Veränderungen in der Bodenseestr. 212 und 234, Schr. Planungsreferat vom 26.02.08
+- TOP 8.11.: Bauliche Veränderungen in der Limesstr. 117, Schr. Planungsreferat vom 26.02.08
+- TOP 8.12.: Lagerungen auf dem Grundstück Weißensteinstr. 2, Schr. Ref. f. Gesundheit u. Umwelt vom 05.03.08
+- TOP 8.13.: Sanierung der Kindertagesstätte an der Schussenrieder Straße, Schr. Schul- u. Kultusreferat vom 20.02.08
+- TOP 8.14.: Generalsanierung des städt. Anwesens Altostr. 16 und Prüfung von Nutzungsänderungen, Schr. Kommunalreferat vom 03.03.08
+- TOP 8.15.: Ausbesserung der Fahrbahn Sponeckplatz, Schr. Baureferat vom 29.02.08
+- TOP 8.16.: Wertstoffcontainerplatz Hornberger Straße / Ecke Aubing-Ost-Straße; Erneuerung bzw. Reparatur des Kleidercontainers , Schr. AWM (Ziffer 1 des Antrages)
+- TOP 8.17.: Busverkehr Pretzfelder Straße, Buslinie 43, Ein- und Ausrückfahrten von fremden Bussen, Schr. KVR vom 07.03.08
+- TOP 9: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Ausschuss für Stadtplanung und Bauordnung vom 27.02.08 - Beschlussvollzugskontrolle (BVK); Halbjähriger Sachstandsbericht des Planungsreferates für den Zeitraum 01.07.-31.12.07 - Verkehrsplanung Pasing-Zentrum - Erhalt und Ausbau von Grünflächen zur Naherholung
+- TOP 9.5.: Vollversammlung vom 12.03.08 - Hinweis auf Suchtgefahren durch verschiedene Maßnahmen
+- TOP 9.3.: Ausschuss für Stadtplanung und Bauordnung vom 30.01.08 - Initiative "Magistrale für Europa", Vereinbarung zur gemeinsamen Finanzierung der Geschäftsstelle
+- TOP 9.4.: Bauausschuss vom 12.02.08 - Absenkung von Bordsteinen im Rahmen von Baumaßnahmen
+- TOP 9.6.: Kinder- und Jugendhilfeausschuss vom 26.02.08 - Kindertagesstätten gemeinnütziger Träger; Kindertageseinrichtung an der Ziegeleistr. 10 im 22. Stadtbezirk
+- TOP 9.7.: Vollversammlung vom 20.02.08 - Stärkung der Stadtteilkultur
+- TOP 9.8.: Schulausschuss vom 27.02.08 - Kindertagesstätte gemeinnütziger Träger; Kindertageseinrichtung an der Ziegeleistr. 10
+- TOP 9.9.: Verwaltungs- und Personalausschuss vom 05.03.08 - Ablauf von Bürgerversammlungen; Übersetzung in Gebärdensprache - Budget der BA`s, Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008
+- TOP 10: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Terminvorschläge der Lokalbaukommission für Regionalgespräch, Schr. Planungsreferat vom 25.02.08
+- TOP 10.2.: Entscheidungsrechte für BA's bei Taxistandplätzen, Schr. BA 1 vom 27.02.08
+- TOP 10.3.: Kurzstreckentarif für Kinder, Antrag des BA 10 vom 29.02.08
+- TOP 10.4.: Aufstellung der Vorschlagsliste zur Auswahl der ehrenamtlichen Schöffen für die Gerichtsperiode 2009-2013, Schr. KVR vom 04.03.08
+- TOP 10.5.: Informationsveranstaltung der SWM am 02.04.08 um 18.00Uhr in der Emmy-Noether-Str. 2, Schr. SWM vom 28.02.08
+- TOP 10.6.: Dank für Unterstützung bei Lebensmittel-Sammelaktion der Caritas, Schr. Caritas vom 25.02.08
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 23.04.08, Gaststätte "Bayerisches Schnitzel- und Hendlhaus", Limesstr. 63
