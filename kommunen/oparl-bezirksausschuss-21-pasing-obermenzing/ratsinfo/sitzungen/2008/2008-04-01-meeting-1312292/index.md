@@ -1,0 +1,111 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2008-04-01T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1312292
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1312292
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Arbeiten an der S-Bahn-Stammstrecke
+- TOP 2.2.: Lützowstraße 11, Begutachtung Baumbestand Riemerschmid-Villa
+- TOP 2.3.: Befristete Haltverbotszone in der Landsberger Straße 480 bis 482
+- TOP 2.4.: Grünanlage Von-Frays-Straße / Bärmannstraße
+- TOP 2.5.: Baumfällung auf einem Grundstück in der Frihindorfstraße
+- TOP 2.6.: Kreuzung Weinbergerstraße / Josef-Retzer-Straße; bauliche Veränderung mit Einrichtung einer Lichtzeichenanlage
+- TOP 2.7.: Neueröffnung im ehemaligen Plus-Markt in der Gräfstraße 109
+- TOP 2.8.: Baumbestand Lützowstraße 11 (Riemerschmid-Villa)
+- TOP 3.: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Wilhelm-Hey-Straße 15, Baumbestandsplan Nr. 08-3536
+- TOP 3.2.: Frauendorferstraße 75, 1 Birke
+- TOP 3.3.: Schubaurstraße 11a, 1 Ahorn
+- TOP 3.4.: Polkostraße 40, Baumbestandsplan 08-1770
+- TOP 3.5.: Paul-Gerhardt-Allee 30 - 32, Baumbestandsplan Nr. 08-3523
+- TOP 3.6.: Menzinger Straße 139, Baumbestandsplan Nr. 08-4569
+- TOP 3.7.: Anton-Meindl-Straße 42, Baumbestandsplan Nr. 07-78973
+- TOP 3.8.: Institutstraße 1, 2 Eiben
+- TOP 3.9.: Paul-Hösch-Straße 50, Baumbestandsplan Nr. 08-1042
+- TOP 3.10.: Elly-Ney-Weg, Baumbestandsplan Nr. 08-6570
+- TOP 3.3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Verdistraße 21
+- TOP 5.2.: Anton-Meindl-Straße 42
+- TOP 5.3.: Herzog-Johann-Straße 4
+- TOP 5.4.: Pläntschweg 20
+- TOP 5.5.: Pfeivestlstraße 59
+- TOP 6.: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 9.1.: Gewährung eines Zuschusses aus dem Budget des BA 21; Antragsteller: LILALU e.V. für das 10. LILALU Festival "Umsonst & Draußen" vom 15.08.-31.08.2008 (vertagt aus der Ba-Sitzung vom 04.03.2008)
+- TOP 2: (E) Ausbau des Wertstoffhofes in der Lochhausener Straße Empfehlung Nr. 02-08 / E 00881 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing am 23.10.2007 - <div>Abweichung von Referentenvorl.</div>
+- TOP 3: (E) Einrichtung eines Fußgängerüberweges/ Zebrastreifens in Höhe der Busumkehrschleife der Endhaltestelle der Buslinie 162 in der Maria-Eich-Straße Empfehlung Nr. 02-08 / E 00888 der Bürger- versammlung des 21. Stadtbezirkes - Pasing-Obermenzing am 23.10.2007 - <div>Abweichung von Referentenvorl.</div>
+- TOP 3.4.: Gewährung eines Zuschusses aus dem Budget des BA 21, Antragsteller: Evang.-Luth. Kirchengemeinde Himmelfahrtskirche Pasing für die Anschaffung dringend benötigter Materialien für den Kindergarten
+- TOP 3.5.: Gewährung eines Zuschusses aus dem Budget des BA 21; Antragsteller: Trachtenverein D`Würmtaler-Stamm e.V. für das Aufstellen eines Maibaums und anschließendem Maibaumfest auf dem Grundstück des Bachbauernhofes, Manzingerweg 6
+- TOP 3.6.: Gewährung eines Zuschusses aus dem Budget des BA 21; Antragsteller: aquarium, Kreisjugendring für die Maßnahme: Vorbereitungskurs für die Mittlere Reife vom 17. - 29.03.2008
+- TOP 3.7.: Gewährung eines Zuschusses aus dem Budget des BA 21; Antragsteller: aquarium, Kreisjugendring für die Maßnahme: Quali-Vorbereitungskurs vom 13. - 24.05.2008
+- TOP 10.: Anhörungen
+- TOP 10.1.: Krippenplatzgebühren senken; Beschlussentwurf zur Behandlung der Empfehlung Nr. 02-08 / E 00891 der Bürgerversammlung des 21. Stadtbezirks, Bezirksteil Obermenzing, am 23.10.2007 (vertagt aus der BA-Sitzung vom 04.03.2008)
+- TOP 10.2.: Veranstaltungen sowie Sondernutzungen auf öffentlichem Verkehrs-grund, neue Veranstaltungsrichtlinien ( vertagt aus den BA-Sitzungen am 12.02.2008 und 04.03.2008)
+- TOP 10.3.: Anhörung im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Steinerweg 5, Klinikgelände, Personalwohngebäude IV (vertagt aus der BA-Sitzung vom 04.03.2008)
+- TOP 10.4.: Anhörung im Vollzug der Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Kaflerstraße 22 (vertagt aus der BA-Sitzung vom 04.03.2008)
+- TOP 10.5.: Bodenseestraße 86 / Heimburgstraße 2; Neubau von 21 Wohneinheiten mit Tiefgarage, Tektur (vertagt aus der BA-Sitzung vom 04.03.2008)
+- TOP 10.6.: Paul-Gerhardt-Allee 30 - 32, Errichtung eines Einzelhandelsbetriebs mit Tiefgarage
+- TOP 10.7.: Polkostraße, Neubebauung mit Einfamilienhäusern (Polkostr. / Greinzstr.) - Vorbescheid
+- TOP 10.8.: Menzinger Straße 139, Neubau eines Kinderhauses mit Kinderkrippe und Kindergarten
+- TOP 10.9.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Bäckerstraße vor Anwesen Haus-Nr. 52
+- TOP 10.10.: Fritz-Reuter-Straße 30, Anbau an ein denkmalgeschütztes Einfamilienhaus mit Doppelgarage
+- TOP 10.11.: Chopinstraße 8, Neubau eines Einfamilienhauses mit Garage, Abbruch und Neuerrichtung Garage
+- TOP 10.12.: Bauleitplanung der Gemeinde Gräfelfing; Bebauungsplan Nr. 1 L, Gebiet zwischen der A 96 und Rudolf-Diesel-Straße sowie zwischen der Siedlerstraße und dem Bebauungsplangebeit Nr. 21 B
+- TOP 10.13.: Bauleitplanung der Gemeinde Gräfelfing; Bebauungsplan Nr. 5 A, Gewerbe- und Sondergebiet beiderseits des Lochhamer Schlags - Teil Ost
+- TOP 10.14.: Verdistraße 75, Neubau eines Lebensmittelmarktes mit Tiefgarage - Vorbescheid
+- TOP 10.15.: An der Schäferwiese 3 - 5, Errichtung eines Kindergartens (3 Gruppen) und einer offenen Einrichtung (Jugendtreff) auf dem Gelände der Grundschule
+- TOP 10.16.: An der Schäferwiese 5; Erweiterung der Grundschule mit Tagesheim um 4 Klassen, 4 TH-Gruppen und 1 Mittagsbetreuungsgruppe einschließlich Erweiterung und Umbau der TH-Küche, Abbruch der Gebäudeteile Gartenhaus mit Werkhof und Treppenhaus West
+- TOP 10.17.: Anträge zur Aufstellung von Sammelhinweisanlagen auf öffentlichem Grund, hier: Haberland- / Lortzingstraße (2 Standorte) sowie Lortzing- / Kaflerstraße
+- TOP 11.: Anträge und Anfragen
+- TOP 12.: Unterrichtungen
+- TOP 12.1.: Baumaßnahmen der Stadtwerke München GmbH (Aufstellung mit Stichtagen: 03.03.08, 10.03.08, 14.03.08
+- TOP 12.2.: Vollzug der Baumschutzverordnung, Fällungsanträge im Stadtbezirk 21 (Listen vom 25.02.-02.03.08, v. 03.03.-09.03.08
+- TOP 12.3.: Baufälle im Stadtbezirk 21 (Listen vom 25.02.-02.03.08, 03.03.-09.03.08
+- TOP 12.4.: Amtsblatt Nr. 6/08, 7/08
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Ausschuss für Stadtplanung und Bauordnung vom 27.02.2008 - Verkehrsplanung Pasing-Zentrum; Anträge und Empfehlungen - Schaffung von Einkaufsmöglichkeiten in Obermenzing - An der Schäferwiese
+- TOP 13.2.: Verwaltungs- und Personalausschuss vom 05.03.2008 - Budget der Bezirksausschüsse; Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008
+- TOP 13.3.: Bauausschuss vom 04.03.2008 - Nordumgehung Pasing, Projektteil A: Verkehrsanlagen und Ingenieurbauwerke zwischen den Knoten Landsberger Straße / Am Knie und Bodensee- / Lortzingstraße ohne den Bereich Bahnhof Pasing (Baukilometer 0 bis 0 + 780 und 1 + 080 bis 2 + 200); Ausführungsgenehmigung
+- TOP 13.4.: Kinder- und Jugendhilfeausschuss und Sozialausschuss in gemeinsamer Sitzung vom 01.04.2008 - Zuschussnehmerdatei 2008; Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale - Zuschussnehmerdatei 2008; Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Amtes für soziale Sicherung - Zuschussnehmerdatei 2008; Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Stadtjugendamtes - Zuschussnehmerdatei 2008; Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 13.5.: Umweltschutzausschuss vom 01.04.2008 - Lärmsanierung an bestehenden Schienenwegen des Bundes
+- TOP 14.: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Direktorium - Zuwendung aus dem Budget des BA 21, hier: Bewilligungsbescheid vom 28.02.2008 an den Verein Kulturforum West e.V. - Zuwendung aus dem Budget des BA 21, hier: Bewilligungsbescheid vom 12.03.2008 an Condrobs e.V. Suchthilfe Prävention - Zuwendung aus dem Budget des BA 21, hier: Bewilligungsbescheid vom 12.03.2008 an den Kulturverein Freunde Obermenzing e.V. - Entscheidungsrechte der Bezirksausschüsse gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, hier: Lärmschutzmaßnahme Freseniusstraße
+- TOP 14.2.: Baureferat - Austausch von Hundekottüten aus Plastik gegen Hundekotschäufelchen mit Beutel aus Papier - Straßenbaumaßnahme Nordumgehung Pasing; Runder Tisch am 17.03.2008 um 16.00 Uhr im Bürgerzentrum Rathaus Pasing, großer Sitzungssaal
+- TOP 14.3.: Referat für Gesundheit und Umwelt - Überschwemmungsgebiet an der Würm; Festsetzungsverfahren, Bekanntmachung und vorläufige Sicherung - Abfallentsorgungsanlage am Standort Baumbachstraße 5, Block T; Bescheid der Landeshauptstadt München zum Antrag auf erneute Erteilung einer immissionsschutzrechtlichen Genehmigung vom 24.10.2006
+- TOP 14.4.: Kreisverwaltungsreferat - Aufstellung der Vorschlagsliste zur Auswahl der ehrenamtlichen Schöffinnen und Schöffen für die Gerichtsperiode 2009 - 2013 - Nächtliche Abschaltung von Ampelanlagen - Kleintierfriedhof Obermenzing; Hinweisbeschilderung - Veranstaltung von Green City e.V. am 02.04.2008; Umzug der Wanderbaumallee
+- TOP 14.5.: Kulturreferat - Veranstaltungen / Kooperationen im März 2008 - Stärkung der Stadtteilkultur, Beschluss der Vollversammlung am 20.02.2008; Schreiben des Kulturreferenten
+- TOP 14.6.: Referat für Stadtplanung und Bauordnung - Heerstraße 12 e, Rodung des Grundstücks und vorgesehene dichte Bebauung - Sachstand zur Nordumgehung Pasing im Bereich Bahnhof Pasing; Straßenbahnverlängerung zum Bahnhof Pasing; Rechtsform bzw. rechtliche Grundlage des Vollzugs des Verkehrskonzepts Pasing
+- TOP 14.7.: Sozialreferat - Daten Kinderkrippen mit Stand 01.01.2008 - Gültigkeit des neuen Familienpasses des Sozialreferates auch für das Westbad
+- TOP 14.8.: Stadtwerke München GmbH - Baustellen im Stadtgebiet mit einem mehrstufigen Konzept; Informationsveranstaltung der SWM am 02.04.2008 um 18.00 Uhr in der SWM-Zentrale Emmy-Noether-Straße 2 - Abbau Haltestellentafel in der Kaflerstraße, stadteinwärts
+- TOP 14.9.: Münchner Verkehrsgesellschaft mbH (MVG) - Bushaltestelle an der Maria-Eich-Straße, Dachstraße, Linie 160 und 162 sowie Einsatzbusse während der Schulzeiten - Vorübergehende Verlegung von Bushaltestellen am Pasinger Bahnhof wegen Abbruch des Postgebäudes
+- TOP 14.10.: Referat für Arbeit und Wirtschaft - Broschüre "München. Der Wirtschaftsstandort. Fakten und Zahlen 2008"
+- TOP 14.11.: Schul- und Kultusreferat - Bescheid über die Anerkennung von Kindergartenplätzen, hier: Kindertageseinrichtung Engelbertstraße 11
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: Gesundheitsladen München e.V. Veranstaltungen anlässlich des "Tag gegen den Lärm" am 16.04.2008
+- TOP 14.2.: Bezirksausschuss 10 Moosach - Kurzstreckentarif für Kinder
+- TOP 14.3.: Kulturforum München-West e.V. - Dank für finanzielle Unterstützung des Projekts "Brücken zwischen Kunst und Orten des Gebets" in Pasing und Obermenzing zum 850. Stadtgeburtstag 2008
+- TOP 14.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.: Verschiedenes
+- TOP 15.1.: Bürgerversammlung des 21. Stadtbezirks Pasing-Obermenzing, Bezirksteil Pasing, am 29.04.2008 um 19.00 Uhr in der Gaststätte "Zur Post", Bodenseestraße 4
+- TOP 15.2.: Nächste BA-Sitzungen: - 06.05.2008, 19.00 Uhr im Bürgerzentrum Rathaus Pasing, großer Sitzungssaal: Konstituierende Sitzung des BA 21 für die Wahlperiode 2008 bis 2013 - 03.06.2008, 19.00 Uhr im Bürgerzentrum Rathaus Pasing, großer Sitzungssaal
