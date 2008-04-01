@@ -1,0 +1,106 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2008-04-01T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1356146
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1356146
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Neumarkter Straße 66 - 68 ? Nutzungsänderung zu Entertainmentcenter
+- TOP 3.2.: Berg-am-Laim-Str. 77 ? Nutzungsänderung eines Ladens in ein Bistro/Café
+- TOP 3.3.: Friedenstraße 26 ? Stellplatznachweis
+- TOP 3.4.: Friedenstraße 10 ? Alabamahalle (Tektur)
+- TOP 3.5.: Friedenstraße 10 ? Brandschutzbestimmungen
+- TOP 3.6.: Friedenstraße 10 ? Genehmigungsverlängerung ?Harry Klein?
+- TOP 3.7.: Friedenstraße 10 ? Genehmigungsverlängerung ?Mojito Bar?
+- TOP 3.8.: Friedenstraße 10 ? Genehmigungsverlängerung ?Do Brasil?
+- TOP 3.9.: Friedenstraße 10 ? Genehmigungsverlängerung ?Spiegelzelt?
+- TOP 3.10.: Friedenstraße 10 ? Genehmigungsverlängerung ?Imbiss Arabisch?
+- TOP 3.11.: Friedenstraße 10 ? Genehmigungsverlängerung ?Fritty Woman?
+- TOP 3.12.: Friedenstraße 10 ? Genehmigungsverlängerung ?Luis im Bogen?
+- TOP 3.13.: Friedenstraße 10 ? Genehmigungsverlängerung ?Luis I.?
+- TOP 3.14.: Friedenstraße 10 ? Genehmigungsverlängerung Verkaufscontainer
+- TOP 3.15.: Friedenstraße 10 ? Genehmigungsverlängerung Elektrotankstelle mit Imbiss
+- TOP 3.1.: Linksabbieger am Innsbrucker Ring in die Bad-Schachener-Straße
+- TOP 3.2.: Linksabbiegeregelung an der Kreuzung Kreillerstr. / Berg-am-Laim-Str. / Baumkirchner Straße ? Antrag Nr. 2639 des Bezirksausschuss 14
+- TOP 3.3.: Antrag Zufahrtsregelung Baumkirchner Platz / Behrpark
+- TOP 3.1.: Einschränkung von Sightseeingflügen über der Innenstadt
+- TOP 3.1.: Tag des Offenen Denkmals
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Ganztagesgrundschule an der Grafinger Straße ? Antwort des Kultusministeriums
+- TOP 3.2.: Freizeitnutzung von schulischen Außensportanlagen
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Berg-am-Laim-Straße ? Anträge zur Aufstellung von Sammelhinweisanlagen
+- TOP 3.2.: Kinderfest am Piusplatz ? Voranfrage
+- TOP 3.3.: Aufstellung der Vorschlagsliste zur Auswahl der ehrenamtlichen Schöffen
+- TOP 3.4.: Verschmutzung Grafinger Straße - Bürgerschreiben
+- TOP 3.5.: Hundekottütenspender an der ehem. Baumschule ? Bürgerschreiben
+- TOP 3.1.: Neumarkter Straße?Antrag auf Baumfällung
+- TOP 3.5.: Geigelsteinstraße ? Antrag auf Baumfällung
+- TOP 3.6.: Ellingerweg ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Planfeststellung S-Bahnabstellanlage Steinhausen
+- TOP 4.3.: Beschlussvollzugskontrolle (BVK) Halbjährlicher Sachstandsbericht des Planungsreferates für den Zeitraum 01.07. - 31.12.2007 -Bekanntgabe-
+- TOP 4.4.: Levelingstraße ? Klage auf Erteilung eines Vorbescheides
+- TOP 4.5.: Heinrich-Wieland-Straße ? Neubau eines Getränkemarktes
+- TOP 4.1.: Erweiterung der Buslinie 187 auf dem Prüfstand ? Beschlussvorlage
+- TOP 4.1.: Lärmsanierung an den Schienenwegen in Trudering
+- TOP 4.1.: Stärkung der Stadtteilkultur ? a) Beschluss der Vollversammlung b) Zuwendungsantrag aus Kulturförderungsmitteln der Landeshauptstadt München
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Michaeli-Gymnasium ? Lieferzufahrt
+- TOP 4.2.: Stellenwert und Akzeptanz der städtischen Schulsozialarbeit an Städtischen Haupt- und Förderschulen Ergebnisse einer unabhängigen Schülerinnen-/Schüler- und Lehrerinnen-/Lehrerbefragung
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Alt werden im eigenen Wohnviertel mit Versorgungssicherheit Umsetzung des Bielefelder Modells in München
+- TOP 4.2.: Zuschussnehmerdatei 2008 Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale
+- TOP 4.1.: AK Lehm ZiegelStadt ? Zuwendungsbescheid
+- TOP 4.2.: Caritas-Sozialdienst ? Zuwendungsbescheid
+- TOP 4.3.: Wohngrün ? Zuwendungsbescheid
+- TOP 4.4.: Bürgerkreis ? Schriftverkehr
+- TOP 4.5.: BA-Kinderfest ? Schriftverkehr
+- TOP 4.6.: Tag der Bürger ? Schriftverkehr
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Bürgerversammlung am 17.04.2008
+- TOP 4.2.: Um- bzw. Neuorganisation der Verwaltungsabteilung des Direktoriums
+- TOP 4.3.: Großvenedigerstraße - Abbruchanzeige
+- TOP 4.4.: Diskothek ?Koi? - Kultfabrik ? Unveränderte Fortführung
+- TOP 4.5.: Diskothek ?Traumraum? (ehemals Natraj Tempel) ? Unveränderte Fortführung
+- TOP 4.6.: Gaststätte ?Mr. Hai?? Unveränderte Fortführung
+- TOP 4.7.: Broschüre ?München ? Der Wirtschaftsstandort?
+- TOP 4.8.: Jahresbericht 2007 mit Jahresvorschau 2008
+- TOP 4.1.: Fällungsantrag St.-Veit-Str.
+- TOP 4.2.: Halserspitzstraße - Gefahrenbaumbeseitigung
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
+- TOP 3.4.: Großvenedigerstr. ? Antrag auf Baumfällung
