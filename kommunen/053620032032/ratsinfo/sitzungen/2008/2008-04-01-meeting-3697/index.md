@@ -1,0 +1,64 @@
+# Haupt- und Finanzausschuss (Haushalt 2008) (22. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2008-04-01T17:04:00+02:00
+- Ende: 2008-04-01T23:04:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZtASVJFgxHtMp10SFDLTPA
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/3697
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZX5xZnj3bOJnUhSbuPqYIVRYF-QPeFOkLm2o1FjYiYwX/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_01.04.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der Sitzung vom 04.12.2007
+- TOP 2.: Anregungen und Beschwerden gem. § 24 Gemeindeordnung NRW
+- TOP 2.1: Anregung und Beschwerde gem. § 24 GO NW hier: Erschließung der Stadtteile Kerpen und Neu-Manheim durch eine S-Bahn-Trasse ("Das Kerpener C")
+- TOP 2.2: Anregung und Beschwerde gem. § 24 GO NW hier: Planfeststellung zur Verlegung der A 4
+- TOP 3.: Schiedsamtsangelegenheiten hier: Wiederwahl einer Schiedsperson
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: Satzung zur Festlegung der Zahl der in den Rat der Stadt Kerpen zu wählenden Vertreter/innen
+- TOP 4.2: Hauptsatzung der Stadt Kerpen
+- TOP 4.2.1: Antrag der Fraktion Bündnis 90/Die Grünen auf Änderung der Hauptsatzung bezüglich Stadtbezirken, Orten und Ortsvorstehern/innen
+- TOP 4.2.2: 10. Satzung zur Änderung der Hauptsatzung der Stadt Kerpen
+- TOP 4.3: 1. Änderung der Geschäftsordnung für den Rat der Stadt Kerpen und seine Ausschüsse
+- TOP 4.4: 7. Änderung der Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Kerpen
+- TOP 4.5: Neufassung der Vergnügungssteuersatzung der Stadt Kerpen
+- TOP 4.6: 2. Satzung zur Änderung der Satzung über die Erhebung von Kostenersatz und Gebühren für die Dienstleistungen der Freiwilligen Feuerwehr der Stadt Kerpen (Feuerwehrsatzung)
+- TOP 4.7: Satzung der Stadt Kerpen über die Erhebung von Elternbeiträgen für die Förderung von Kindern in Tageseinrichtungen und Tagespflege, die Benutzung der Kindertageseinrichtungen in der Trägerschaft der Stadt Kerpen und die Förderung der Tagespflege in der Stadt Kerpen
+- TOP 4.8: Änderung der Satzung über die Erhebung von Gebühren für die Benutzung von Einrichtungen der Stadt Kerpen für kulturelle Zwecke
+- TOP 5.: Neufassung der Richtlinien für die Gewährung von Zuschüssen an Kultur- und Sportvereine
+- TOP 6.: Gebührenbefreiung für Karnevalsumzüge und Schützenfeste
+- TOP 7.: Maßnahmen gegen Hundekot Antrag der SPD-Fraktion vom 21.02.2008
+- TOP 8.: Zustand der Mehrzweckhalle in Sindorf
+- TOP 9.: Prüf- und Machbarkeitsuntersuchung für eine zweite Anbindung der Industriegebiete Türnich II und III hier: Einstellung von Haushaltsmitteln
+- TOP 10.: Attraktivierung der Erftlagune
+- TOP 11.: Tarifstrukturänderung in der Erftlagune
+- TOP 12.: Schwallwassertank im Freibad Türnich
+- TOP 13.: Alternativvorschlag für ein Vordach am Kiosk der Realschule
+- TOP 14.: Abriss der Treppenanlage in Kerpen-Horrem "Im Bendchen"
+- TOP 15.: Klimaschutz in Kerpen
+- TOP 15.1: Bestellung eines Klimaschutzbeauftragten
+- TOP 15.2: Klimaschutz durch Energieeinsparmaßnahmen in und an städtischen Immobilien
+- TOP 16.: Erhöhung des Haushaltsansatzes für die Prämierung von Verbesserungsvorschlägen Antrag der Fraktion Bündnis 90/ Die Grünen vom 03.03.2008
+- TOP 17.: Organisations- und Personalvorlage 2008
+- TOP 18.: Beratung des Entwurfs der Haushaltssatzung für das Haushaltsjahr 2008
+- TOP 19.: Haushaltsangelegenheiten
+- TOP 19.1: Genehmigung überplanmäßiger Haushaltsmittel für den Weihnachtsmarkt 2007
+- TOP 19.2: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen IV. Quartal 2007
+- TOP 19.3: Bürgerhaushalt 2009
+- TOP 19.4: Festlegung von Zielen und Kennzahlen für das NKF-Buch 2009
+- TOP 20.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 20.1: Übernahme der kath. Kindertageseinrichtung Herz Jesu zum 01.08.2008 in Trägerschaft der Stadt Kerpen
+- TOP 21.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 21.1: Wassertemperatur im Manheimer Lehrschwimmbecken
+- TOP 22.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 23.: Vergabe Dachsanierung Erftlagune
+- TOP 24.: Abschluss eines Erbbaurechtsvertrages mit der Kath. Kirchengemeinde St. Kunibert Blatzheim
+- TOP 25.: Grundstücksangelegenheiten in der Gemarkung Kerpen
+- TOP 26.: Mitteilungen
+- TOP 27.: Anfragen gem. § 18 Geschäftsordnung
