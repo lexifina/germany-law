@@ -1,0 +1,6 @@
+# TOP 8: Beratung und Beschlussfassung zur Richtlinie zur Förderung der Denkmalpflege im Landkreis Märkisch-Oderland
+
+- Sitzung: 32. Sitzung des Kreistages Märkisch-Oderland (2008-04-02)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=76
