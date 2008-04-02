@@ -1,0 +1,6 @@
+# TOP 11.4: Wall am Lerchenweg (RM Buchholz)
+
+- Sitzung: Rat (36. Sitzung) (2008-04-02)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/21592
