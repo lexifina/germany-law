@@ -1,0 +1,7 @@
+# TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: 16. (öfftl.) Sitzung des Ausschusses für Kultur, Wirtschaftsförderung und Tourismus (2008-04-03)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=18154
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
