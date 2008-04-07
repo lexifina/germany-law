@@ -1,0 +1,55 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2008-04-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1346596
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1346596
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 4.: Schulreferat
+- TOP 4.1.: Frühere Entscheidung bei der Vergabe von Hortplätzen (BV-Empf. Nr. 828 vom 12.07.07)
+- TOP 4.2.: Bezirkssportanlage Dietramszeller Str. 9; Großinstandsetzung des Kunstrasenplatzes
+- TOP 5.1.: Freischankfläche Gaststätte Felice Bussone; Thalkirchner Str. 129
+- TOP 5.2.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Warenstellage Implerstraße 14
+- TOP 6.2.: Warenstellage Implerstraße 52
+- TOP 6.3.: Sammelhinweisanlage Engelhard- / Plinganserstraße
+- TOP 6.4.: Neue Richtlinien für Veranstaltungen sowie Sondernutzungen auf öffentl. Verkehrsgrund
+- TOP 6.5.: Meldeliste Bauvorhaben SWM
+- TOP 7.1.: Budgetantrag Sendlinger Kulturschmiede e. V., Fotoprojekt "Die Höfe der Daiserstraße"; ? 6500,-
+- TOP 7.2.: Budgetantrag Sendlinger Kulturschmiede e. V., Jubiläumsstraßenfest am 26.07.08; ? 3160,-
+- TOP 7.3.: Ablauf von Bürgerversammlung; Übersetzung in Gebärdensprache
+- TOP 7.4.: BA-Budget; Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008
+- TOP 7.5.: Neuauflage der Sendlinger Stadtbezirksbroschüre
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Meindlstraße 12
+- TOP 8.3.: Bauvorhaben Aberlestraße 31
+- TOP 8.4.: Bauvorhaben Hockey-Club Wacker e. V.; Demleitnerstraße
+- TOP 8.5.: E-Center Implerstraße; Vermeitung von Tiefgaragenstellplätzen
+- TOP 8.6.: Umwandlungsverbot in Erhaltungssatzungsgebieten
+- TOP 8.7.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung von Städten
+- TOP 9.: Baureferat
+- TOP 9.1.: Errichtung einer Lichtzeichenanlage an der Kreuzung Plinganserstraße / Zechstraße
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen Bauvorhaben Meindlstraße 12
+- TOP 10.2.: Baumfällungen Bauvorhaben Aberlestraße 31
+- TOP 10.3.: Baumfällung Kidlerstraße 39; eine Fichte
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Ehrenamtliche Schöffinnen und Schöffen für die Gerichtsperiode 2009 - 2013
+- TOP 13.2.: Entlastung der Fußgängerzone; Abbau der Vitrinen, Durchführung der Tombola "Für München"
+- TOP 13.3.: Benennung der Flaucherinseln
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
