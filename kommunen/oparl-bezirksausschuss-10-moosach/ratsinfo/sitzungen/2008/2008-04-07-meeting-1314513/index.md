@@ -1,0 +1,81 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2008-04-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1314513
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1314513
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Kaputte bzw. abgestellte Fahrräder an der S-Bahn Moosach - <div>Weitergabe an die zuständigen Stellen </div>
+- TOP 2.2.: Gehwegparken in der Rathgeberstraße und Zur Grünen Eiche - <div>Keine Verwarnungen durch die Polizei</div>
+- TOP 2.3.: Erhalt der Straßenquerung Dachauer Straße
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Runder Tisch Gebiet Dillinger-/Lauingerstraße
+- TOP 3.2.: Stärkung der Stadtteilkultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Postsportverein
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Servicezentrum Schragenhofstraße
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Schaffung von senioren- und behindertengerechtem Wohnraum
+- TOP 4.2.: Neuanlage der Grünflächen zwischen Brieger Straße und Lauinger Straße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 10: OSC München e.V.: Sportangebot im März in der Wohnparkanlage an der Merseburger Straße
+- TOP 5.2.: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 10: "Miteinander Leben in Moosach": Kauf von 4 Kombi-Mikrowellen für die Unterkunft Franz-Mader-Straße
+- TOP 6.: Anhörungen
+- TOP 6.1.: Vollzug der Baumschutzverordnung:
+- TOP 6.2.: Projekt "Mini-Spielfelder"
+- TOP 6.3.: Radwegkreuzung Jakob-Hagenbucher-Str. / Liegnitzer Straße
+- TOP 6.4.: Jugendspieleinrichtungen im Grünanlage an der Brieger Straße
+- TOP 6.5.: Hanauer Straße 89: Spielothek
+- TOP 6.6.: Zweckentfremdung Feldmochinger Straße
+- TOP 6.7.: Sondergenehmigung zum Betrieb einer Kindergruppe, Goldnesselweg 3
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Jugendspieleinrichtungen im Grünzug an der Briegerstraße (wird voraussichtlich durchgeführt)
+- TOP 7.2.: DHL-Packstation in der Triebstr. 39 (Zusatz bei Benachrichtigungen: bei ATU-Werkstatt)
+- TOP 7.3.: Kurzstreckentarif für Kinder (nicht möglich)
+- TOP 7.4.: Vollzug der Baumschutzverordnung: Esche an der Dachauer Str. 250-254 (Eigentümer wird aufgefordert, die Esche zu schützen)
+- TOP 7.5.: Fahrplanangebot auf der Linie 20/21 (keine Änderungen derzeit)
+- TOP 7.6.: Fluglärm im Stadtgebiet München (Verbesserung nicht möglich)
+- TOP 7.7.: Entschärfung der gefährlichen Radwegkreuzung Jakob-Hagenbucher-Straße / Liegnitzer Straße (derzeit nicht möglich)
+- TOP 7.8.: Nutzung der Schulsportanlage durch Vereine (wird noch geprüft)
+- TOP 7.9.: --
+- TOP 7.10.: Runder Tisch Lauinger- / Dillinger Straße
+- TOP 7.11.: Obststand Ehrenbreitsteiner- / Pelkovenstraße
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldelisten Bauvorhaben
+- TOP 8.3.: Budget der Bezirksausschüsse; Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008
+- TOP 8.4.: Ablauf von Bürgerversammlungen; Übersetzung in Gebärdensprache
+- TOP 8.5.: Neubau einer Fuß- und Radwegbrücke im 10. Stadtbezirk
+- TOP 8.6.: Parkraummangement in München - Sektor II (Borstei)
+- TOP 8.7.: Parkraummanagement in München - Festlegung der 3. und 4. Priorität und Projektfortschrittsbericht 2007
+- TOP 8.8.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte
+- TOP 8.9.: Umwandlungsverbot in Erhaltungssatzungsgebieten
+- TOP 8.10.: Ausbau der Ludwigsfelder Straße zwischen Spiegelbergstraße und ca. 250 m westlich Am Neubruch
+- TOP 8.11.: Änderungsgenehmigung für Erweiterung der Betriebsfläche einer Abfallentsorgungsanlage in der Dachauer Straße
+- TOP 8.12.: Lärmsanierung an bestehenden Schienenwegen des Bundes
+- TOP 8.13.: Aktuelle Grundwasserwerte
+- TOP 8.14.: Veranstaltungen Kulturreferat im März
+- TOP 8.15.: Zuschussnehmerdatei 2008; Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale
+- TOP 8.16.: Zuschussnehmerdatei 2008; Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Amtes für soziale Sicherung
+- TOP 8.17.: Zuschussnehmerdatei 2008; Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.18.: Zuschussnehmerdatei 2008; Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 8.19.: Daten Kinderkrippen, Stand 01.01.2008
+- TOP 8.20.: München. Der Wirtschaftsstandort. Fakten und Zahlen 2008
+- TOP 8.21.: Infobrief des Ausländerbeirats
+- TOP 8.22.: Münchner Statistik
+- TOP 8.23.: Transparenz in Sachen "Qualität von Medizin und Pflege"
+- TOP 4: Anträge
