@@ -1,0 +1,73 @@
+# Stadtrat (Verabschiedung Haushalt 2008) (26. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2008-04-08T17:02:00+02:00
+- Ende: 2008-04-08T22:28:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZV9KxzBQsyyHCnmkjwGAadY
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/3696
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZS-MfA2yQtGLctN_FUOV4SdaiJXoJitJAUSQ_MOxDVhj/Bekanntmachung_Stadtrat_08.04.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZfod6TtfDRNBpIH5X-NJze_hJX8rDr6-KDfHy9eVAp6/Oeffentliche_Niederschrift_Stadtrat_08.04.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Schiedsamtsangelegenheiten hier: Wiederwahl einer Schiedsperson
+- TOP 2.: Umbesetzung von Ausschüssen und Gremien
+- TOP 2.1: Umbesetzung des Ausschusses für Sport, Freizeit und Kultur; hier. Antrag der BBK-Fraktion
+- TOP 2.2: Umbesetzung des Ausschusses für Soziales und Integration; hier: Antrag der CDU-Fraktion
+- TOP 2.3: Umbesetzung des Jugendhilfeausschusses; hier: Beratende Vertretung der katholischen Kirche
+- TOP 2.4: Umbesetzung von Ausschüssen und Gremien; hier: Antrag der SPD-Fraktion
+- TOP 2.5: Umbesetzung von Ausschüssen; hier: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 2.6: Vertreter der Stadt Kerpen in der Gesellschafterversammlung der Erftland; hier: Antrag der UWG-Fraktion
+- TOP 3.: Erlass von Ortsrecht
+- TOP 3.1: Satzung zur Festlegung der Zahl der in den Rat der Stadt Kerpen zu wählenden Vertreter/innen
+- TOP 3.1.1: Wahlbezirkseinteilung für die Kommunalwahl 2009; hier: Antrag der CDU-Fraktion vom 17.03.2008
+- TOP 3.2: 10. Satzung zur Änderung der Hauptsatzung der Stadt Kerpen
+- TOP 3.3: 1. Änderung der Geschäftsordnung für den Rat der Stadt Kerpen und seine Ausschüsse
+- TOP 3.4: 7. Änderung der Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Kerpen
+- TOP 3.5: Neufassung der Vergnügungssteuersatzung der Stadt Kerpen
+- TOP 3.6: Änderung der Satzung über die Erhebung von Gebühren für die Benutzung von Einrichtungen der Stadt Kerpen für kulturelle Zwecke
+- TOP 3.7: 2. Satzung zur Änderung der Satzung über die Erhebung von Kostenersatz und Gebühren für die Dienstleistungen der Freiwilligen Feuerwehr der Stadt Kerpen (Feuerwehrsatzung)
+- TOP 3.8: Satzung der Stadt Kerpen über die Erhebung von Elternbeiträgen für die Förderung von Kindern in Tageseinrichtungen und Tagespflege, die Benutzung der Kindertageseinrichtungen in der Trägerschaft der Stadt Kerpen und die Förderung der Tagespflege in der Stadt Kerpen
+- TOP 4.: Neufassung der Richtlinien für die Gewährung von Zuschüssen an Kultur- und Sportvereine
+- TOP 4 a.: Regenrückhaltebecken im Gewerbegebiet Türnich 3
+- TOP 5.: Haushaltssatzung für das Haushaltsjahr 2008 einschließlich des Stellenplanes
+- TOP 5 a.: Treppenanlage in Kerpen-Horrem "Im Bendchen"
+- TOP 6.: Stadtentwicklung und Bauleitplanung
+- TOP 6.1: Bebauungsplan BL 270/1. Änderung "Am Lechenicher Weg", Stadtteil Blatzheim hier: Offenlegungsbeschluss
+- TOP 6.2: 58. Änderung des Flächennutzungsplanes "Immissionsschutzwall Buir" im Stadtteil Buir hier: Beschluss zur Offenlage
+- TOP 6.3: Bebauungsplan BU 326 "Immissionsschutzwall Buir", Stadtteil Buir hier: Beschluss zur Offenlage
+- TOP 6.4: Bebauungsplan HO 296, 1. Änderung „Gleisdreieck“, Stadtteil Horrem hier : Offenlegungsbeschluß
+- TOP 6.5: Bebauungsplan HO 294, 1. Änderung „ZOB Bahnhof“ Stadtteil Horrem hier: Offenlegungsbeschluss
+- TOP 6.6: 57. Änderung des Flächenutzungsplanes "Verlängerung der Karl-Ferdinand-Braun-Straße", Stadtteil Sindorf hier: Wirksamkeitsbeschluss
+- TOP 6.7: Bebauungsplan SI 245/1. Änderung "Verlängerung der Karl-Ferdinand-Braun-Straße", Stadtteil Sindorf hier: Satzungsbeschluss
+- TOP 6.8: Bebauungsplan SI 323 "Ausbau der Hüttenstraße/K39", Stadtteil Sindorf hier: Satzungsbeschluss
+- TOP 6.9: Bebauungsplan SI 257 "Bolzplatz Vogelrutherfeld", Stadtteil Sindorf hier: Aufstellungsbeschluss
+- TOP 6.10: 56. Änderung des Flächennutzungsplanes "Am Falder/ Auf dem Bürrig", Stadtteil Kerpen hier: Beschluss zur erneuten Offenlage
+- TOP 6.11: Bebauungsplan KE 321 "Am Falder/ Auf dem Bürrig", Stadtteil Kerpen hier: Beschluss zur erneuten Offenlage
+- TOP 6.12: Bebauungsplan Nr. KE 329 "Sondergebiet SB-Warenhaus Sindorfer Straße", Stadtteil Kerpen hier: Beschluss zur Offenlage gemäß § 3 (2)
+- TOP 7.: Prozesskostenhilfe für den BUND und die Aktion "Buirer für Buir"; hier. Antrag der UWG-Fraktion
+- TOP 8.: Haushaltsangelegenheiten
+- TOP 8.1: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen IV. Quartal 2007
+- TOP 8.2: Genehmigung überplanmäßiger Haushaltsmittel für den Weihnachtsmarkt 2007
+- TOP 8.3: Beschluss des Stadtrates über die vom Rechnungsprüfungsausschuss geprüfte Jahresrechnung für das Haushaltsjahr 2006 und die Entlastung der Bürgermeisterin gem. § 94 Abs. 1 GO NW (alt)
+- TOP 9.: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 9.1: Übernahme der kath. Kindertageseinrichtung Herz Jesu zum 01.08.2008 in Trägerschaft der Stadt Kerpen
+- TOP 10.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 11.: Mitteilungen
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 12.1: Sachstand Sanierung Schloss Türnich; hier. Anfrage des Ortsvorstehers Wolfgang Zimball
+- TOP 12.2: Wassertemperatur im Manheimer Bad
+- TOP 13.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 14.: Erftland Kommunale Wohnungsgesellschaft mbH
+- TOP 14.1: Situation der Erftland Kommunale Wohnungsgesellschaft mbH
+- TOP 14.2: Erftland Kommunale Wohnungsgesellschaft mbH; hier:Bindung des Vertreters der Stadt Kerpen in der Gesellschafterversammlung an einen Beschluss des Rates
+- TOP 15.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 16.: Mitteilungen
+- TOP 17.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
