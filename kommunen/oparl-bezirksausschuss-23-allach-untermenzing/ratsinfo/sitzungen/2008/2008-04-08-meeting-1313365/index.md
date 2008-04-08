@@ -1,0 +1,69 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2008-04-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1313365
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1313365
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Vollzug des Bayer. Straßen- und Wegegesetzes im Stadtbezirk 23 Allach-Untermenzing; - Widmung einer Teilstrecke der Hitlstraße
+- TOP 4.2.: Beendigung des Jagdverbotes auf Rabenkrähen
+- TOP 4.3.: Gehsteig- und Parkplatzstellflächenerweiterung vor den Häusern Eversbuschstraße 77 und 79
+- TOP 4.4.: Vollzug des Bayer. Straßen- und Wegegesetzes im Stadtbezirk 23 Allach-Untermenzing Einziehung und Widmung -Peter-Müller-Str. - Spiegelbergstr.
+- TOP 5.: Anhörungen
+- TOP 5.1.: Schließung von Lebensmittelversorgern in der Gerberau
+- TOP 5.2.: Bauvorhaben: Ganzenmüllerstr. 21, Neubau eines Einfamilienhauses mit Doppelgarage
+- TOP 5.3.: Anträge zur Aufstellung von Sammelhinweisanlagen der Interwerbung GmbH auf öffentlichem Grund der Landeshauptstadt
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Übertragung von Entscheidungsrechten auf die Bezirksausschüsse nach Art. 60 Abs. 2 Satz 2 GO; Erfahrungsaustausch
+- TOP 8.2.: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Kulturverein Freunde Obermenzing e.V.
+- TOP 8.3.: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: BRK In- und Auslandshilfe, Transport
+- TOP 9: Schreiben des Baureferates
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Gefährdung des Fußgängerverkehrs auf dem westlichen Gehweg auf der Georg-Reismüller-Straße vor Sport-Bittl
+- TOP 10.2.: Unveränderte Fortführung des Gaststättenbetriebes "Da Vito" Prof.-Eichmann-Str. 11
+- TOP 10.3.: Unveränderte Fortführung des Gaststättenbetriebes Cafe "Papaya" Eversbuschstraße 7
+- TOP 10.4.: Gustav-Otto-Bogen - Haltverbot in den Einmündungs- und Kurvenbereichen
+- TOP 10.5.: Absolute Haltverbote in der Kleselstraße ggü. der Zufahrt zu Anwesen 35-39 sowie im Kurvenbereich zur Parrotstraße
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Bauanträge (v. 03.03.-09.03.08, 10.03.-16.03.08)
+- TOP 11.2.: Vollzug der Baumschutzverordnung: - Zum Schwabenbächl 31, s. Baumbest.plan Nr. 2008-3122
+- TOP 11.3.: Liste der beantragten Baumfällungen (v. 10.03.-16.03.08)
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: Bescheid über die Anerkennung von Plätzen in den Kindertageseinrichtungen: - Franz-Nißl-Str. 50 - Kindergartenweg 4
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Zweckentfremdung von Wohnraum: - Bergetstr. 25 - Nußhäherstr. 27 - Haldenbergerstr. 49
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Überschwemmungsgebiet an der Würm; Festsetzungsverfahren, Bekanntmachung und vorläufige Sicherung, Unterrichtung gem. § 14 Bezirksausschuss-Satzung
+- TOP 15.2.: Lärmschutzwand in der Von-Kahr-Straße
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 17.1.: Stärkung der Stadtteilkultur Beschluss der Vollversammlung am 20.02.08
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Beschluss des Bauausschusses vom 04.03.2008 - Ausbau der Ludwigsfelder Straße zwischen Spiegelbergstraße und ca. 250 m westlich Am Neubruch
+- TOP 22.2.: Beschluss des Verwaltungsausschusses vom 05.03.2008 - Ablauf von Bürgerversammlungen; Übersetzung in Gebärdensprache - Budget der Bezirksausschüsse; Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008
+- TOP 22.3.: Beschluss des Umweltschutzausschusses vom 01.04.2008 - Schallschutz an den Autobahnen und Gleisen im 24. Stadtbezirk (Ziff. 1 und 2) - Lärmsanierung an bestehenden Schienenwegen des Bundes
+- TOP 22.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.04.08 - Zuschussnehmerdatei 2008 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale - Zuschussnehmerdatei 2008 Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, des Stadtjugendamtes, des Amtes für Wohnen und Migration und des Sozialreferates/Zentrale
+- TOP 22.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.04.2008 - Eröffnung eines Lebensmittelgeschäftes auf dem Diamaltgelände - Umwandlungsverbot in Erhaltungssatzungsgebieten - Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"; Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB
+- TOP 23: Verschiedenes
+- TOP 23.1.: Schreiben der Freiwilligen Feuerwehr München, Bereich West - Behringstraße / Ecke Nigglstraße
