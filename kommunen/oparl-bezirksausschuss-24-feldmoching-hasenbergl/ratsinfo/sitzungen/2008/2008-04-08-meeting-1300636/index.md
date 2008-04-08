@@ -1,0 +1,69 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2008-04-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1300636
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1300636
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Am Schnepfenweg zw. Reigersbachstraße und HausNr. 116 Erstmalige Herstellung (Projekt-Nr. 100337)
+- TOP 2.2.: Reigersbachstraße (Beb.Plan Nr. 1503 b) zw. Am Blütenanger und Am Schnepfenweg (Projekt-Nr. 100307)
+- TOP 2.3.: Kerbelweg (Beb.Plan 1503 b) (Projekt-Nr.: 5361)
+- TOP 2.4.: (E) Münchner Sportclub e.V.; Erneuerung des Kunstrasen-Hockeyplatzes an der Eberwurzstraße 28
+- TOP 3.1.: Verlegung der Bushaltestelle an der Schittgablerstraße an die Ecke Lerchenauer Straße
+- TOP 3.2.: Freigabe der Hainbuchenstraße für den Fahrradgegenverkehr
+- TOP 3.3.: Antrag auf Aufhebung der Veränderungssperre im Bereich Paul-Preuß-Straße - Paul-Huml-Bogen, Aufnahme der Planungen zur Errichtung der Kindertagesstätte und Bereitstellung der dafür nötigen Haushaltsmittel
+- TOP 3.4.: Aufnahme der Schleißheimer Straße in das Ausbauprogramm im Bereich zwischen Dülfer- und Weitlstraße
+- TOP 3.5.: Antrag auf Einrichtung einer zusätzlichen Hortgruppe in der Grundschule Lerchenauer Straße 322
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Maifest, Grünanlage Goldschmiedplatz am 03.05.2008
+- TOP 5.2.: Circus Roberto, Grünanlage Dülferstraße, in der Zeit von 07.07. bis 19.07.2008
+- TOP 5.3.: Vollzug des Magnetschwebebahnplanungsgesetzes (MBPIG); Planfeststellung nach § 1 MBPIG i.V.m. §§ 73 ff. VwVfG für den Bau einer Magnetschwebebahnverbindung München Hauptbahnhof - Flughafen, Planänderungen im Planfeststellungsabschnitt 11 "Landeshauptstadt München"; Abschnitte P 11.1 - P 11.5
+- TOP 5.4.: Teilnahme am Tag des offenen Denkmals
+- TOP 5.5.: Neue Veranstaltungsrichtlinien für Veranstaltungen sowie Sondernutzung auf öffentlichen Verkehrsgrund
+- TOP 5.6.: Geschwindigkeitsbeschränkung auf 30 km/h in der Aschenbrennerstraße
+- TOP 5.7.: Sommerfest, Grünanlage Goldschmiedplatz vom 09.05. bis 12.05.2008
+- TOP 5.8.: 50-Jahr-Feier, TSV Ludwigsfeld, Sportplatz Karlsfelder Straße vom 11.07. bis 13.07.2008
+- TOP 5.9.: Baumschutzverordnung a) Barbinger Weg
+- TOP 5.10.: Bauvorhaben:Würmhölzlstraße
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Verlegung des Kriegerdenkmals Fasanerie auf eine städtische Grünfläche (BA-Antrag Nr. 2628 vom 04.12.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Machbarkeitsstudie für die Höhenfreimachung des Bahnübergangs Fasanerie, Feldmochinger Straße - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Anträge aus der Kindersprechstunde - mehr Beleuchtung -
+- TOP 6.4.: Taxistand Blodigstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Baumaßnahme Aschenbrennerstraße / Schleißheimer Straße - <div>zur Kenntnis genommen</div>
+- TOP 6.6.: Stärkung der Stadtteilkultur Beschluss der Vollversammlung am 20.02.2008 Schreiben des Kulturreferenten - <div>zur Kenntnis genommen</div>
+- TOP 6.7.: Meldelisten Bauvorhaben - <div>es werden Unterlagen angefordert</div>
+- TOP 6.8.: Meldelisten - Baumfällungsanträge - <div>zur Kenntnis genommen</div>
+- TOP 6.9.: Meldelisten - Baumaßnahmen Stadtwerke - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Daten der Kinderkrippen mit Stand 01.01.2008 - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Mitteilung über ein Grundstücksgeschäft - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Unveränderte Fortführung eines Gaststättenbetriebes: a) SSW "Kuckuck", Weitlstraße 115 b) "Werners Treff", Granatstr. 8 - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Zuschussnehmerdatei 2008 Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Zuschussnehmerdatei 2008 Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Zuschussnehmerdatei 2008 Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Stadtjugendamtes - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Zuschussnehmerdatei 2008 Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Änderung im Filialnetz der Deutschen Post - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Bebauungsplan mit Grünordnung Nr. 1939 a Schleißheimer Straße (östlich), bestehendes BMW Forschungs- und Innovationszentrums (BMW FIZ) (nördlich) - BMW FIZ Erweiterung Nord - Bekanntgabe des Termins der öffentliche Auslegung - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Platz an der Schleißheimer Straße (Nordheide) und Umbau der Schleißheimer Straße zwischen Sandbienenweg und Neuherbergstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.20.: Schallschutz an den Autobahnen und Gleisen im 24. Stadtbezirk - <div>zur Kenntnis genommen</div>
+- TOP 6.21.: Lärmsanierung an bestehenden Schienenwegen des Bundes - <div>zur Kenntnis genommen</div>
+- TOP 6.22.: Ablauf von Bürgerversammlungen; Übersetzung in Gebärdensprache - <div>zur Kenntnis genommen</div>
+- TOP 6.23.: Budget der Bezirksausschüsse Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008 - <div>zur Kenntnis genommen</div>
+- TOP 6.24.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug - <div>zur Kenntnis genommen</div>
+- TOP 6.25.: Verkehrsplanung im Münchner Norden Behandlung von Bürgerversammlungsempfehlungen und einem Stadtratsantrag - <div>zur Kenntnis genommen</div>
+- TOP 6.26.: Umwandlungsverbot in Erhaltungssatzungsgebieten - <div>zur Kenntnis genommen</div>
+- TOP 6.27.: München. Der Wirtschaftsstandort. Fakten und Zahlen 2008 - <div>zur Kenntnis genommen</div>
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Jugend, Soziales, Schule und Kultur
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
