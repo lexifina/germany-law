@@ -1,0 +1,77 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2008-04-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1286003
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1286003
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Straßenbelag Gerolt-, Bergmann- und Fäustlestraße; Fernwärme
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Genehmigung einer Freischankfläche Kazmairstr. 37
+- TOP 4.2.: Genehmigung einer Freischankfläche Parkstr. 2
+- TOP 4.3.: Aufstellung neuer Verkaufseinrichtungen auf öffentlichem Grund Landsberger Str. 115
+- TOP 4.4.: Projektauftrag Theresienhöhe Bereich Alte Feuerwache Ganghoferstraße Neubau einer Grünanlage mit Bolzplatz und Rad- und Fußweg
+- TOP 4.5.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 8 Schwanthalerhöhe Widmung von Straßenstrecken - Am Bavariapark (Gesamtstrecke) - Theresienhöhe (Teilstrecke) - Theresienhöhe (Teilstrecke)
+- TOP 5: Anhörungen
+- TOP 5.1.: Busparken beim Verkehrsmuseum Theresienhöhe 14
+- TOP 5.2.: "Oben Ohne" des KJR Bavariapark, 26.07.2008
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Neubau und Sanierung des Kinderhauses St. Rupert Kazmairstr. 66
+- TOP 6.1.2.: Neubau eines Verwaltungsgebäudes mit Läden und TG - TEKTUR zu 2008/2642 Philipp-Loewenfeld-Straße
+- TOP 6.1.3.: Umwandlungsverbot in Erhaltungssatzungsgebieten
+- TOP 6.1.4.: Heimeranstr. 49 DG-Ausbau und Erweiterung mit Lifteinbau eines Wohn- und Geschäftsgebäudes mit Teilabbruch des EG-Rückgebäudes
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Zuschussnehmerdatei 2008 Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" - des Sozialreferates / Zentrale - des Amtes für Soziale Sicherung - des Stadtjugendamtes - des Amtes Wohnen und Migration
+- TOP 6.2.2.: ARGE wird Jobcenter?
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.3.1.: Infobrief Ausländerbeirat 17/2008
+- TOP 6.3.2.: Stärkung der Stadtteilkultur Schreiben des Kulturreferenten
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Vollzug des Magnetschwebebahnplanungsgesetzes (MBPIG): Planfeststellung für den Bau einer Magnetschwebebahnverbindung München Hbf - Flughafen Planänderungen im Planfeststellungsabschnitt 11 " LH München" Abschnitte P 11.1 - 11.5
+- TOP 6.4.2.: Begutachtung PSA-Standort Ridlerstraße 28
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Budgetantrag Jugendseelsorge Westend
+- TOP 7: Erledigungen
+- TOP 7.1.: Abschaffung der Kunst- und Dosenmülltonnen zu Gunsten der Entsorgungsinsel 02-08/E 696 der BV das BA 8 vom 19.04.2007 01/08 - T 7.3
+- TOP 7.2.: Hotalanfahrtszone Parkstr. 31/31a
+- TOP 7.3.: Weihnachtsleuchtfigur an der Theresienwiese Antrag Nr. 02-08/B02917 vom 13.1.2.2007
+- TOP 7.4.: Bergmannstraße zwischen Kazmair- und Ridlerstraße 12/07/T 3
+- TOP 7.5.: Klimaanlage Ganghoferstr. 6
+- TOP 7.6.: Teilbaugenehmigungen Philipp-Loewenfeld-Straße
+- TOP 7.7.: Budget der BAs Erhöhung des maximal jährlichen Anteils für eigene Veranstaltungen im Jahr 2008
+- TOP 7.8.: Öffnung des Schulschwimmbades Ridlerschule für Einrichtungen des Stadtbezirkes 8 01/08
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Meldelisten 03.03. - 09.03.08 Erstantrag a) Heimeranstr. 49
+- TOP 9.2.: Meldelisten 03.03. - 09.03.08 Änderungsverfahren a) Heimeranstr.
+- TOP 9.3.: Baumaßnahmen der SWM Stichtag 10.03.2008
+- TOP 9.4.: Meldeliste 10.03 - 16.03.2008 Änderungsverfahren a) Philipp-Loewenfeld-Str. b) Philipp-Loewenfeld-Str.
+- TOP 9.5.: Baumaßnahmen der SWM Stichtag 14.03.2008
+- TOP 9.6.: Meldeliste 17.03. - 23.03.2008 Erstanträge a) Schießstättstr. 18 b) Westendstr. 17
+- TOP 9.7.: Baußmaßnahmen der SWM Stichtag 25.03.2008
+- TOP 9.8.: Meldeliste 24.03. - 30.03.2008 Änderungen a) Landsberger Str. 43
+- TOP 9.9.: Baumaßnahmen der SWM Stichtag 31.03.2008
+- TOP 9.10.: Meldeliste 24.03. - 30.03.2008 Erstantragsverfahren a) Westendstr. 63
+- TOP 10: Verschiedenes
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Schriftverkehr 02/08
+- TOP 11.2.: Unveränderte Fortführung von Gaststätten Schwanthalerstr. 152
+- TOP 11.3.: Münchner Statistik 2/2007
+- TOP 11.4.: Quartiersplatz Bahndeckel+ Teilprojekt 1: Instandsetzung "Bahndeckel" Theresienhöhe VorlagenNr. 02-08/V11707
+- TOP 11.5.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des §13a Abs. 1 Satz 1 Nr. 1 und Nr. 2 BauGB
+- TOP 11.6.: Lärmsanierung an bestehenden Schienenwegen des Bundes
+- TOP 11.7.: Ablauf von Bürgerversammlungen; Übersetzung in Gebärdensprache Empfehlung Nr. 931der BV des BA 25
+- TOP 11.8.: Verwendungsnachweis REGSAM Internat. Stadtteilfest
+- TOP 11.9.: Filmaufnahmen auf öffentl. Verkehrsgrund Tatort Westendstr. 74, 10.04./ 11.04.2008
+- TOP 11.10.: Verwendungsbericht Innere Mission Theke Treffam
