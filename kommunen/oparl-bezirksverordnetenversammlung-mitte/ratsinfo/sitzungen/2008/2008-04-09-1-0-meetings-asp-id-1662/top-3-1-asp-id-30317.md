@@ -1,0 +1,7 @@
+# TOP 3.1: a) Mitteilungen der Vorsitzenden / des Bezirksamtes
+
+- Sitzung: 16. öffentliche Sitzung des Ausschusses für Bildung und Kultur (2008-04-09)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=30317
+- Ergebnis: erledigt
