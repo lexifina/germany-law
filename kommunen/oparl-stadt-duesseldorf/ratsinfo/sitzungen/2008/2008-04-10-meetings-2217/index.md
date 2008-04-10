@@ -1,0 +1,65 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-04-10T16:00:00+02:00
+- Ende: 2008-04-10T19:35:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2217
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2217
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096792.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096792.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096792.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 28.02.2008 - einstimmig beschlossen
+- TOP 3: B-Plan Nr. 6372/002 - Elbsee - mehrheitlich beschlossen
+- TOP 4: FNP-Ä 48 (Entwurf) - Am Kleinforst - Öffentlichkeitsbeteiligung - einstimmig beschlossen
+- TOP 5: B-Plan Nr. 6073/025 - Am Kleinforst - mehrheitlich beschlossen
+- TOP 6: Polizeistatistik und Kriminalitätsentwicklung 2007 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 7: Freigabe verkaufsoffener Sonntage im Jahre 2008 - mehrheitlich beschlossen
+- TOP 8: Bauunterhalt an städtischen Einrichtungen - einstimmig beschlossen
+- TOP 9: Zuschüsse zu kulturellen Veranstaltungen im Stadtbezirk 8, hier: Evangelische Markus - Kirchengemeinde - einstimmig beschlossen
+- TOP 10: Verunreinigungen Eselsbach - zur Kenntnis genommen
+- TOP 11: Verunreinigungen Eselsbach - zur Kenntnis genommen
+- TOP 12: Sicherheitssituation auf den Friedhöfen in Eller und Unterbach - zur Kenntnis genommen
+- TOP 13: Sicherheitssituation Friedhof Eller - zur Kenntnis genommen
+- TOP 14: Ausgleichsmaßnahmen Elbsee - zur Kenntnis genommen
+- TOP 15: Grundstück Festenbergstraße - zur Kenntnis genommen
+- TOP 16: Spielplatz Coburger Weg - zur Kenntnis genommen
+- TOP 17: Kriminalstatistik und Verkehrsbericht 2007 - zur Kenntnis genommen
+- TOP 18: Lichtzeichenanlage Am Zault / Gerresheimer Landstraße - zurückgezogen
+- TOP 19: Regionaler- und Biomarkt auf dem Freiheitplatz - mehrheitlich abgelehnt
+- TOP 20: Flüsterasphalt in Eller und Lierenfeld - einstimmig beschlossen
+- TOP 21: Dachsanierung GGS Vennhauser Allee - einstimmig beschlossen
+- TOP 22: Bürgerhaus Eller - einstimmig beschlossen
+- TOP 23: Pausenhofdach GGS Gumbertstraße - einstimmig beschlossen
+- TOP 24: Bordsteinabsenkung Anhalterstraße - zurückgezogen
+- TOP 25: Containerstation Bernburger Straße - einstimmig beschlossen
+- TOP 26: Schloss Eller - mehrheitlich abgelehnt
+- TOP 27: Parksituation Hasseler Richtweg - mehrheitlich beschlossen
+- TOP 28: Gefahrenabwehrplan CO-Pipeline - mehrheitlich beschlossen
+- TOP 29: Radweg Eller Kamp / Vennhauser Allee - einstimmig beschlossen
+- TOP 30: Fahrradständer Vennhauser Allee - zurückgezogen
+- TOP 31: Abpollerung Vennhauser Allee / Lasallestraße - einstimmig beschlossen
+- TOP 32: St. Michael Schule, Kempgensweg - einstimmig beschlossen
+- TOP 33: Bushaltestelle Freiheitplatz - einstimmig beschlossen
+- TOP 34: Grundstück Büllenkothenweg / Am Pflanzkamp - vertagt
+- TOP 35: Haltestellen Am Hackenbruch und Jägerstraße - zur Kenntnis genommen
+- TOP 36: Gehweg Am Stufstock - zur Kenntnis genommen
+- TOP 37: Lärmschutz entlang der Rothenbergstraße - zur Kenntnis genommen
+- TOP 38: Peter-Härtling-Schule, Städtische Förderschule, Fö - zur Kenntnis genommen
+- TOP 39: Zufahrt von der Jägerstraße zum Parkplatz Gumbertstraße - zur Kenntnis genommen
+- TOP 40: Schlossparkkonzerte 2008 - zur Kenntnis genommen
+- TOP 41: Mobile Geschwindigkeitsanzeige im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 42: Ausbau Rathelbeckstraße - zur Kenntnis genommen
+- TOP 43: Schulhof Kempgensweg - zur Kenntnis genommen
+- TOP 44: Fahrbahnsanierung Gather Weg und Posener Straße - zur Kenntnis genommen
+- TOP 45: Öffnung von Schulhöfen und deren Nutzung als Spielhöfe an Nachmittagen, Wochenenden, Feiertagen und in den Schulferien - zur Kenntnis genommen
+- TOP 46: Schloss Eller - zur Kenntnis genommen
+- TOP 47: Toilettenanlage Carl-Sonnenschein-Schule - zur Kenntnis genommen
+- TOP 48: Graffiti - Beseitigung im Stadtbezirk 8 - zur Kenntnis genommen
