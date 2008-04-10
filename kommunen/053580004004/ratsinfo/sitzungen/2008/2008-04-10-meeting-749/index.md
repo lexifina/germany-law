@@ -1,0 +1,52 @@
+# Gemeinderat
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2008-04-10T18:00:00+02:00
+- Ende: 2008-04-10T20:00:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZeFp3ElLVz4B_DGl_DuKf7M
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/749
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWKSePOa4ep5npIBJl5NY6ZYOPF22vMOaIt1aN5DEUEH/Oeffentliche_Niederschrift_Gemeinderat_10.04.2008.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 14.02.2008 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1.: Bauleitplanung a) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 1. Änderung des Bebauungsplanes 32 S - IPEM - b) Aufstellungsbeschluss gem. § 2 BauGB zur 1. Änderung des Bebauungsplanes 32 S - IPEM - c) Beschluss über die Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB sowie die Unterrichtung der Behörden und sonstiger Träger öffentlicher Belange gem. § 4 Abs. 1 BauBG - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 4.1.: Gesellschafterversammlung der Gesellschaft für Wirtschafts- und Strukturförderung im Kreis Düren (GWS); hier: Wahl eines stellvertretenden Mitgliedes - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Neubesetzung von Gremien
+- TOP 5.1.: Entsendung eines/r Delegierten zur Verbandsversammlung des Wasserverbandes Eifel-Rur - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2.: Ergebnisse der überörtlichen Prüfung durch die Gemeindeprüfungsanstalt NRW hier: Bildung und Besetzung eine Kommission - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Finanzen, Haushalt
+- TOP 6.1.: Verabschiedung des Haushaltes 2008 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2.: Stellenplan 2008 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Satzungen, Ortsrecht
+- TOP 7.1.: Einführung der getrennten Gebührenmaßstäbe und Gebührensätze jeweils für die Beseitigung des Schmutzwassers und des Regenwassers zum 01.01.2009 und Erlaß der 2. Änderungssatzung der Satzung über die Erhebung von Kanalanschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse (Entwässerungsgebührensatzung) - Einstimmig, 0 Enthaltung(en)
+- TOP 7.2.: Satzung über die Verringerung der Zahl der zu wählenden Mitglieder in den Wahlbezirken und aus den Reservelisten der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Verleihung der Feuerwehr-Ehrennadel der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Erhebung von Anliegerbeiträgen für die Erneuerung der Beleuchtungseinrichtungen in Aldenhoven, Gemarkung Siersdorf, "Altenbiesenstraße" a) Festlegung der Grenze des Abrechnungsgebietes b) Beitragserhebung im Wege der Kostenspaltung - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Wahl der Haupt- und Hilfsschöffen für die Geschäftsjahre 2009 - 2013 hier: Aufnahme von Bewerbern in die Vorschlagsliste. - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Bestellung des stellvertretenden Wehrführers der Freiwilligen Feurwehr der Gemeinde Aldenhoven. - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Mitteilungen und Anfragen.
+- TOP 13.: Verschiedenes.
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 14.02.2008 -nichtöffentlicher Teil-.
+- TOP 2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.1.: Antrag der Firma Beton- und Asphaltmischwerke GmbH & Co KG, Max-Planck-Str. 1-3, 52511 Geilenkirchen, auf Sondernutzungserlaubnis für die Abgrabung des gemeindeeigenen Wirtschaftsweges Gemarkung Aldenhoven, Flur 22, Flurstück 16 - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Auftragsvergaben
+- TOP 3.1.: Anschaffung neuer Kopiergeräte im Rathaus - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2.: Anschaffung neuer Kopiergeräte im Rathaus
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.: Beförderungen - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Einführung der getrennten Gebührenmaßstäbe für die Beseitigung des Schmutzwassers und des Regenwassers zum 01.01.2009; Beauftragung von Büros zur Durchführung des Gebührensplittings - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Entschädigung für die Inanspruchnahme von Wirtschaftswegen zur Errichtung von Windenergieanlagen - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Ausbau des Radweges R 20 von Alsdorf Richtung Jülich (ehemalige Bahntrasse); Auftragserteilung Tiefbauarbeiten - Einstimmig, 0 Enthaltung(en)
+- TOP 7.1.: Ausbau des Radweges R 20 von Alsdorf Richtung Jülich (ehemalige Bahntrasse); Auftragserteilung Tiefbauarbeiten
+- TOP 8.: Mitteilungen und Anfragen.
+- TOP 9.: Verschiedenes.
