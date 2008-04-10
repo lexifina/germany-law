@@ -1,0 +1,14 @@
+# Beschwerdeausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2008-04-10T17:00:00+02:00
+- Ende: 2008-04-10T00:00:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/486
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/486
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
