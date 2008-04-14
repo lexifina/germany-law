@@ -1,0 +1,102 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2008-04-14T17:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1307335
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1307335
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Sicherer Fußgänger-Übergang an der Kreuzung Würmtalstr. / Kornwegerstr. / Kriegerheimstr.
+- TOP 1.2.: Straßenbeleuchtung Tratzbergstraße
+- TOP 1.3.: Parkplatzsituation Heiglhofstr.
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Bau und Umwelt
+- TOP 3.3.: UA Verkehr
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Steigerung der Sicherheit von Kindern in der S-Bahn
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag des Kindergartens Zauberwald auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 4.166,13 ? (Direktorium, 19.03.08)
+- TOP 5.2.: Projekt Willibaldstr. / Krokusstr. (Gehwegnasen) (Baureferat, 27.03.08)
+- TOP 6.: Anhörungsfälle
+- TOP 6.1.: Gemeinde Gräfelfing; Bebauungsplan Nr. 5 A Gewerbe- und Sondergebiet beidseits des Lochhamer Schlags - Teil Ost (Referat für Stadtplanung und Bauordnung, 10.03.08)
+- TOP 6.2.: Gemeinde Gräfelfing; Bebauungsplan Nr. 1 L zwischen A 96 und Rudolf-Diesel-Straße sowie zwischen Siedlerstraße und Beb.pl. Nr. 21 B (Referat für Stadtplanung und Bauordnung, 10.03.08)
+- TOP 6.3.: Immastr. 1, Neubau eines Wohn- und Geschäftshauses mit EG-Erweiterung und Garagenneubau (Referat für Stadtplanung und Bauordnung, 14.03.08)
+- TOP 6.4.: Canisiusplatz 2, Erweiterung eines Schulgebäudes - VORBESCHEID (Referat für Stadtplanung und Bauordnung, 20.03.08)
+- TOP 6.5.: Vollzug des Sprengstoffgesetzes - SprengG - Feuerwerk der Canisiusschule am 20.06. oder 04.07.08
+- TOP 6.6.: Würmtalstr. 30 - 32, Neubau zweier Einfamilienhäuser mit gemeinsamer Tiefgarage sowie unterirdischem Gemeinschafts-Schwimmbad (Referat für Stadtplanung und Bauordnung, 18.03.08)
+- TOP 6.7.: Erinnerungsverfahren, Stolzenfelsstr. 1 zwischen Neufriedenheimer Straße und Fürstenrieder Straße (Baureferat, 19.03.08)
+- TOP 6.8.: Zweckentfremdung von Wohnraum, Windeckstr. 81 (Sozialreferat, 26.03.08)
+- TOP 6.9.: Würmtalstr. 2 b, Neubau einer Wohnanlage (40 WE) mit 2 Läden und einer Tiefgarage (42 Stpl.) (Referat für Stadtplanung und Bauordnung, 01.04.08)
+- TOP 6.10.: Veranstaltung auf Privatgrund, hier: Haderner Dorffest auf dem Max-Lebsche-Platz vom 18.04. - 04.05.08 (Kreisverwaltungsreferat, 03.04.08)
+- TOP 6.11.: Erinnerungsverfahren Sonnenblumenstr. 20 und Pfingstrosenstr. (Baureferat, 02.04.08)
+- TOP 7.: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Hochwaldstr. 26, 1 Zeder
+- TOP 7.2.: Würmtalstr. 2 b, gem. Baumbestandsplan Nr. 4298
+- TOP 7.3.: Hallgartenstr. 9, 1 Birke
+- TOP 7.4.: Pelargonienweg 46, 1 Tanne
+- TOP 7.5.: Myrtenstr. 4, gem. Baumbestandsplan Nr. 3899
+- TOP 7.6.: Canisiusplatz 2, gem. Baumbestandsplan Nr. 5805
+- TOP 7.7.: Amarellenweg 7, 1 Lärche und 1 Kiefer
+- TOP 7.8.: Pfingstrosenstr. 4, 2 Linden
+- TOP 7.9.: Georginenstr. 13, 1 Fichte
+- TOP 7.10.: Waldhüterstr. 19, 1 Birke
+- TOP 7.11.: Eichenstr. 20, 1 Weißtanne
+- TOP 7.12.: Wilhelm-Weitling-Str. 18, 1 mehrstämmiger Ahornbaum
+- TOP 7.13.: Platanenstr. 48, 2 Fichten
+- TOP 7.14.: Wolkerweg 15, gem. Baumbestandsplan Nr. 7135
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Verkehrsrechtliche Anordnung, Prälat-Wellenhofer-Str.; neuer Standort des eingeschränkten Haltverbots (Kreisverwaltungsreferat, 07.02.08)
+- TOP 8.2.: Unveränderte Fortführung, Viet Wok Fürstenrieder Str. 272 a
+- TOP 8.3.: Baumaßnahmen der Stadtwerke München (Liste der SWM vom 03.03.08)
+- TOP 8.4.: München. Der Wirtschaftsstandort. Fakten und Zahlen 2008 (Referat für Arbeit und Wirtschaft, 04.03.08)
+- TOP 8.5.: Daten Kinderkrippen, Stand: 01.01.08 (Sozialreferat, 04.03.08)
+- TOP 8.6.: Unveränderte Fortführung "Casino Club Novoline", Ossingerstr. 4 (Kreisverwaltungsreferat, 05.03.08)
+- TOP 8.7.: Zweckentfremdung von Wohnraum, Leostr. 11 (Sozialreferat, 07.03.08)
+- TOP 8.8.: Unveränderte Fortführung "Zum Erdinger Weißbräu", Heiglhofstr. 13 (Kreisverwaltungsreferat, 12.03.08)
+- TOP 8.9.: Zweckentfremdung von Wohnraum, Kurparkstr. 30 (Sozialreferat, 19.03.08)
+- TOP 8.10.: Bücherflohmarkt auf dem Wochenmarkt in der Guardinistr. am 14.06.08 (Kommunalreferat, 27.03.08)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Anschaffung weiterer Streetwork-Busse (Sozialreferat, 26.02.08)
+- TOP 9.2.: Wiederaufstellung Rohr Nebenfahrbahn Würmtalstraße (Baureferat, 27.02.08)
+- TOP 9.3.: Nutzung des Grundstückes Terofalstraße 25, Zwischenbericht (Sozialreferat, 06.03.08)
+- TOP 9.4.: Erneuerung des Übergangs in den Gehweg am Waldfriedhof (Baureferat, 10.03.08)
+- TOP 9.5.: Taubenfütterung in der Waldwiesenstraße (Referat für Gesundheit und Umwelt, 19.03.08)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Nutzungsgebühr für Schulturnhallen, Schr. BA 1, 15 und 22
+- TOP 11.2.: Entscheidungsrechte für BAs bei Taxistandplätzen, Schr. BA 1
+- TOP 11.3.: Kurzstreckentarif für Kinder, Antrag des BA 10
+- TOP 11.4.: Stärkung der Stadtteilkultur, Schreiben des Kulturreferenten (Kulturreferat, 06.03.08)
+- TOP 11.5.: Information über das Betriebskonnzept der U3 / U6 während der Arbeiten im Stellwerk Implerstraße (MVG, 04.04.08)
+- TOP 11.6.: Sanierungsmaßnahme der A 95, Einbau eines lärmmindernden Belages (Baureferat, 11.04.08)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 20.02.2008: Stärkung der Stadtteilkultur (Nach mehrheitlicher Zustimmung des BA Hadern am 11.02.2008)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Verwaltungs- und Personalausschusses vom 05.03.2008: Ablauf von Bürgerversammlungen; Übersetzung in Gebärdensprache (vertagt)
+- TOP 12.2.: Beschluss des Verwaltungs- und Personalausschusses vom 05.03.2008: Budget der Bezirksausschüsse, Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008 (Der BA Hadern hat am 11.02.2008 einer einmaligen Erhöhung zugestimmt.)
+- TOP 12.1.: Beschluss des Sozialausschusses vom 28.02.2008 in nichtöffentlicher Sitzung: Wohnhaus zur Abklärung der Wohnperspektive - Clearinghaus Pippinger Straße (Gesamtkosten 4.749.105,- ?, wovon 2.949.105,25 ? = 62,1 % als Baukostenzuschuss auf die Stadt entfallen. Bei einer Wohnungsfläche von 1.246 m² sind das 2.366,68 ? / m².)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und Sozialausschusses in der gemeinsamen Sitzung vom 01.04.2008: Zuschussnehmerdatei 2008, Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale
+- TOP 12.3.: Beschluss des Schulausschusses vom 02.04.2008: Abriss und Neubau einer Kindertageseinrichtung mit 6 Gruppen Senftenauerstr. 25 (Kosten 3.638.000,- ?)
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.04.2008: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007", Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.04.2008: Umwandlungsverbot in Erhaltungssatzungsgebieten
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 27.02.2008: Beschlussvollzugskontrolle (BVK); Halbjährlicher Sachstandsbericht des Planungsreferates für den Zeitraum 01.07. - 31.12.2007
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
