@@ -1,0 +1,104 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2008-04-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1340437
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1340437
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Parksituation rund um den Tierpark; Bürgerschreiben vom 29.03.2008
+- TOP 2.2.: Skulptur am Hans-Mielich-Platz; Bürgerschreiben vom 01.02.2008
+- TOP 2.3.: Kunstwerk am Hans-Mielich-Platz; Bürgerschreiben vom 18.03.2008
+- TOP 2.4.: Kunstobjekt am Hans-Mielich-Platz; Bürgerschreiben vom 14.03.2008
+- TOP 2.5.: Hans-Mielich-Platz; Kunstobjekt und neuester Stand der Planungen; Bürgerschreiben
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.: AntragstellerIn: Münchner Konzertchor e.V., für die Maßnahme: Aufführung der Johannespassion am 21.03.2008; Antragssumme: 1.500,-- ?; Beschlussvorlage des Direktoriums vom 04.03.2008
+- TOP 3.2.: AntragstellerIn: TSV Turnerbund e.V., für die Maßnahme: 50-Jahrfeier der Tischtennisabteilung am 03.05.2008; Antragssumme: 1.132,-- ?; Beschlussvorlage des Direktoriums vom 07.03.2008
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: LILALU e.V., für die Maßnahme: Finanzierung von 30 Workshopplätzen für das Sommerprogramm 2008; Antragssumme: 3.750,--?; Antrag vom 25.03.2008
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.: Budget der Bezirksausschüsse; Erhöhung des maximalen jährlichen Anteils für eigene Veranstaltungen im Jahr 2008; Erhöhung der Mittel zur eigenen Verwendung des BA-Budgets; BA-Antrags-Nr. 02-08 / B 02667 des Bezirksausschusses des Stadtbezirkes 13- Bogenhausen vom 11.12.2007 (ED 17.12.2007) Übertragung der Restmittel des BA 17 aus dem Budgetanteil für BA-eigene Veranstaltungen des Jahres 2006 in das Jahr 2008 zur Finanzierung der Veranstaltungen im Rahmen des 850. Stadtgeburtstages (Buchstabe b) des Antrags) BA-Antrags-Nr. 02-08 / B 02504 des Bezirksausschusses des Stadtbezirkes 17 - Obergiesing vom 09.10.2007 (ED 30.10.2007); Sitzungsvorlage Nr. 02-08 /V 11760; Beschluss des Verwaltungs- und Personalausschusses vom 05.03.2008 (SB)
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Tempo-30-Zone in der Hans-Mielich-Straße; BA-Antrags-Nr. 02-08 / B 02754 des BA 18 vom 15.01.2008; Antwortschreiben des KVR vom 19.03.2008
+- TOP 3.2.: Claude-Lorrain-Straße; Tempo-30-Zone ab Höhe Schyrenstraße; BA-Antrags-Nr. 02-08 / B 02755 des BA 18 vom 15.01.2008; Antwortschreiben des KVR vom 19.03.08
+- TOP 3.3.: Erhalt / Wiederherstellung von Parkplätzen in der Loh- / Cannabichstraße; E-Mail vom 29.01.2008; Antwortschreiben des KVR vom 19.03.2008
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Reinigung und Pflege des Grünstreifens Griechenstraße; Abfalleimer vor REWE St.-Magnus-Straße; Antwortschreiben des Baureferats-Gartenbau vom 01.04.2008 zur Stellungnahme des BA 18 vom 25.03.2008
+- TOP 3.1.: Lärmsanierung an bestehenden Schienenwegen des Bundes; Lärmsanierung an den Schienenwegen in Trudering (3 Bürgerschreiben); BA-Antrag Nr. 02-08 / B 01791 des Bezirksausschusses des Stadtbezirkes 15 - Trudering-Riem vom 25.01.2007; Schienenlärmsanierung - aber bitte mit Hand und Fuß; BA-Antrag Nr. 02-08 / B 01801 des Bezirksausschusses des Stadtbezirkes 15 - Trudering-Riem vom 25.01.2007; Sitzungsvorlage Nr. 02-08 / V 11764; Beschluss des Umweltausschusses vom 01.04.2008 (SB) - <div>vertagt</div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Zuschussnehmerdatei 2008; Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" 3.4.6.1.1 des Sozialreferates / Zentrale; Sitzungsvorlage Nr. 02-08 / V 11754; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.04.2008 (SB) 3.4.6.1.2 des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 02-08 / V 11697; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.04.2008 (SB) 3.4.6.1.3 des Stadtjugendamtes; Sitzungsvorlage Nr. 02-08 / V 11669; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.04.2008 (sB) 3.4.6.1.4 des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 02-08 / V 11671; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.04.2008 (SB)
+- TOP 3.2.: Vollzug des BayKiBiG; Bescheid des Schul- und Kultusreferates vom 29.02.2008 über die Anerkennung von Plätzen in der Kindertageseinrichtung Theodolindenstraße
+- TOP 3.3.: Neubau einer Kooperationseinrichtung mit 4 Kindergarten- und 4 Kinderkrippengruppen an der Säbener Straße 61 im 18. Stadtbezirk Untergiesing-Harlaching; Projektkosten (Kostenobergrenze einschl. Prognose) 4.892.400 ? (davon Ersteinrichtungskosten 296.000 ?) Altlastensanierung 448.000 ?; Ausführungsgenehmigung; Sitzungsvorlage Nr. 02-08 / V 11818; Beschluss des Schulausschusses des Stadtrates vom 02.04.2008 (SB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Anwesen in der Claude-Lorrain-Straße; Zuleitung des KVR vom 12.03.08; Beschluss des BA 18 vom 15.04.08
+- TOP 3.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Anwesen in der Hans-Mielich-Straße; Zuleitung des KVR vom 12.03.08; Beschluss des BA 18 vom 15.04.08
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Trink- und Imbisskiosk in der Teutoburger Str.; Antrag auf Alkoholausschank zum Verzehr an Ort und Stelle; Zuleitung des KVR vom 17.03.2008 mit der Bitte um Stellungnahme
+- TOP 3.2.: Anträge zur Aufstellung von Sammelhinweisanlagen der Interwerbung GmbH auf öffentlichem Grund der Landeshauptstadt München; Standort: Schyrenstraße / Schyrenplatz; Zuleitung des KVR vom 18.03.2008 mit der Bitte um Stellungnahme
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: zwei Bauvorhaben in der Kriegerstraße; Anhörung vom 05.03.2008 (vertagt aus der Sitzung vom 18.04.2008)
+- TOP 3.2.: Anwesen im Schilcherweg; Anhörung vom 14.03.2008 (vertagt aus der Sitzung vom 18.03.2008)
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Einebnung der Stufen vor dem Kiosk an der U-Bahn Wettersteinplatz; BA-Antrag Nr. 02-08 / B 02753 des BA 18 vom 15.01.2008; Antwortschreiben des Kommunalreferats vom 11.03.2008
+- TOP 3.1.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"; Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug; Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB; Sitzungsvorlagen Nr. 02-08/V11037; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.04.2008 (SB)
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 Kleingaststätte "Marende", Naupliastraße; Mitteilung vom 25.03.2008 3.5.6.2.2 Kleingaststätte "Flößerstüberl", Ludmillastraße; Mitteilung vom 12.03.2008
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Baufälle im 18. Stadtbezirk
+- TOP 3.5.: Mitteilung des Kommunalreferats vom 06.02.2008 über ein Grundstücksgeschäft; Karolingerallee / Ecke Haselburgstraße; Az.: 912/48/O/03/Ab.; Flst. 12911/247 Sekt. VII
+- TOP 3.6.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Anwesen in der Kriegerstraße; Mitteilung des Sozialreferats vom 13.03.2008 mit der Bitte um Kenntnisnahme
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltungen sowie Sondernutzungen auf öffentlichem Verkehrsgrund; neue Veranstaltungsrichtlinien; Zuleitung des KVR vom 04.02.2008 mit der Bitte um Stellungnahme bis 30.05.2008 (vertagt aus der Sitzung vom 18.03.2008)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Ablauf von Bürgerversammlungen; Übersetzung in Gebärdensprache; Empfehlung Nr. 02-08 / E 00931 der Bürgerversammlung des Stadtbezirkes 25 Laim am 08.11.2007; Sitzungsvorlage Nr. 02-08 / V 11652; Beschluss des Verwaltungs- und Personalausschusses vom 058.03.2008 (SB)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
