@@ -1,0 +1,51 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-04-15T16:00:00+02:00
+- Ende: 2008-04-15T18:46:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2308
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2308
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126238.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126238.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126238.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift - zur Kenntnis genommen
+- TOP 3: Bericht Kindertagesstätten und Jugendeinrichtungen - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Busschleuse Am Roten Haus, Verkehrsbelastungsanalyse - zur Kenntnis genommen
+- TOP 9: Umbau des Knotenpunktes Angermunder Straße / Ginsterweg zu einem Kreisverkehr - Planungsbeschluss - zur Kenntnis genommen
+- TOP 10: Verlängerung des Rechtsabbiegestreifens auf der Danziger Straße (B8) vor der Auffahrt auf die A44 in Richtung Flughafen/Velbert - zur Kenntnis genommen
+- TOP 11: B-Plan Nr. 5282/018 - Niederrheinstraße - zur Kenntnis genommen
+- TOP 12: Freigabe verkaufsoffener Sonntage im Jahre 2008 - zur Kenntnis genommen
+- TOP 13: Bezirksbezogene Bauunterhaltungsmaßnahmen 2008 - zur Kenntnis genommen
+- TOP 14: Nagelsweg 115 - Sportanlage ISD - zur Kenntnis genommen
+- TOP 15: Shared-Space-Projekt im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 16: Alte Landstraße/Höhe Kittelbachbrücke - Bürgersteige - zur Kenntnis genommen
+- TOP 17: Stadtbildpflege - Schalterhaus An St. Swidbert - zur Kenntnis genommen
+- TOP 18: Arnheimer Straße - Parkplatz Gutshof - zur Kenntnis genommen
+- TOP 19: An St. Swidbert südlich Kuhtor - zur Kenntnis genommen
+- TOP 20: Hochbahnsteige U 79 - zur Kenntnis genommen
+- TOP 21: Angermunder Straße - Neuplanung - zur Kenntnis genommen
+- TOP 22: Angermunder Straße/Im Großen Winkel/Bahnhofstraße - Platzgestaltung - zur Kenntnis genommen
+- TOP 23: Kreuzbergstraße - Gehweg - zur Kenntnis genommen
+- TOP 24: Spielberger Weg - Herrichtung des Gehweges - zur Kenntnis genommen
+- TOP 25: Grundschule Angermund - Parkplatz - zur Kenntnis genommen
+- TOP 26: Neugestaltung Angermund - zur Kenntnis genommen
+- TOP 27: Flughafenstraße - Erneuerung der Fahrbahndecke - zur Kenntnis genommen
+- TOP 28: Radweg Niederrheinstraße - zur Kenntnis genommen
+- TOP 29: Fuß- und Radwegeausbau Kalkumer Schloßallee/Brückenrampen - zur Kenntnis genommen
+- TOP 30: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 31: Verkehrsversuch Niederrheinstraße / Freiligrathplatz - zur Kenntnis genommen
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Umbenennung der KGS Im Grund 78 - zur Kenntnis genommen
