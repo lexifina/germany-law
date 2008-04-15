@@ -1,0 +1,117 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2008-04-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1317958
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1317958
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Montessori-Schule Olympiapark (Az.: 04/08 - 3.4.1): Zuschuss in Höhe von 570 ? für ein Präventionstheaterprojekt von Mai ? Juli 2008
+- TOP 2.3.2.: Antrag Clean Projekt Neuhausen e.V. (Az.: 04/08 ? 3.4.2): Zuschuss in Höhe von 10 000 ? für die Ersatzanschaffung von Fitnessgeräten
+- TOP 2.3.3.: Antrag Elternbeirat der Dom-Pedro-Schule (Az.: 04/08 ? 3.4.3: Zuschuss in Höhe von 4 687,50 ? für eine Projektwoche vom 14. - 18.07.08 anläßlich der 850-Jahrfeier
+- TOP 2.3.4.: Antrag Jazzmusikerinitiative München e.V. (Az.: 04/08 - 3.6.1): Zuschuss in Höhe von 10 800 ? für das Jazzfest 2008
+- TOP 2.3.5.: Antrag Geschichtswerkstatt Neuhausen e.V. (Az.: 04/08 - 3.6.2): Zuschuss in Höhe von 1 000 ? für die Herausgabe des historischen Kalenders 2009
+- TOP 2.4: Beschlussvorlagen
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Beschluss des Bauausschusses vom 08.04.08: Umbau des Knotens Allacher Straße / Wintrichring
+- TOP 3.2.: Beschluss des Umweltschutzausschusses vom 01.04.08: Lärmsanierung an bestehenden Schienenwegen des Bundes
+- TOP 3.3.: Baumaßnahmen der Stadtwerke, März 2008
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Bürgeranliegen: Fahrradfahren in der Waisenhaus- und Dantestraße auf einem Radweg in beiden Richtungen
+- TOP 3.6.: Baureferat: Instandsetzung des Schulwegs zur Gertrud-Bäumer-Grundschule (Antrag BA 9 Nr. 2756 vom 15.01.08 - Abgabenachricht)
+- TOP 3.7.: KVR: Verkehrsrechtliche Anordnung: Einbeziehung der Donnersbergerstraße in die Tempo-30-Zone
+- TOP 3.8.: Baureferat: Mangelhafte Straßenbeläge im 9. Stadtbezirk (Schreiben BA 9 vom 20.11.07)
+- TOP 3.9.: KVR: Verbesserung der Parksituation in der Karl-Schurz-Straße (Schreiben BA 9 vom 19.12.07)
+- TOP 3.10.: MVG: Entfall der Linie 151 (Schreiben BA 9 vom 19.02.08)
+- TOP 3.11.: Anfrage / Nachfrage CSU: Bebauung Arnulfpark, Richelstraße, Birketweg, Winfriedstraße: Planung und Errichtung von quartiersbezogenen Straßen (Wiedervorlage aus der Sitzung vom 18.03.08)
+- TOP 3.12.: Planungsreferat: Neuer S-Bahn-Haltepunkt Friedenheimer Brücke; Namensänderung
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Planungsreferat: Bautennachweise vom 03.03. - 09.03., 10.03. - 16.03., 17.03. - 23.03. und 24.03. - 30.03.08
+- TOP 3.2.: KVR: Aufstellung von Sammelhinweisanlagen in der Südlichen Auffahrtsallee / Notburgastraße und Menzinger Straße / Maria-Ward-Straße
+- TOP 3.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.04.08: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"; Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug
+- TOP 3.4.: Bauvorhaben Lilli-Palmer-Straße: Neubau eines Wohn- und Bürogebäudes (55 WE / 6 Büroeinheiten) mit Tiefgarage
+- TOP 3.5.: Bauvorhaben Arnulfstraße / Luise-Ullrich-Straße, MK 9: Neubau eines Bürogebäudes mit Tiefgarage
+- TOP 3.6.: Bauvorhaben Rosa-Bavarese-Straße / Wotanstraße, MK 1: Neubau 2er Gebäude mit Tiefgarage, Wohn- und Gewerbenutzung , Vorbescheid
+- TOP 3.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.04.08: Umwandlungsverbot in Erhaltungssatzungsgebieten
+- TOP 3.8.: Planungsreferat: Werbung im öffentlichen Raum (Antrag BA 9 Nr. 2700 vom 18.12.07)
+- TOP 3.9.: Freistaat Bayern: Nachnutzung des Geländes Rosa-Luxemburg-Platz / Emma-Ihrer-Straße (Schreiben BA 9 vom 18.12.07)
+- TOP 3.10.: =&gt; dazu: Bürgeranliegen
+- TOP 3.11.: Bau Collection AG: Neubau eines Mehrfamilienhauses; hier: Fällung einer Kastanie
+- TOP 3.12.: Bauvorhaben Baldurstr. 39: Neubau eines Wohngebäudes mit Büroräumen und Tiefgarage; hier: Baumfällungen
+- TOP 3.13.: Beschlussvorlage Sportamt: Freie Turnerschaft München-Gern e.V., Sportanlage Hanebergstraße/Braganzastraße; Erweiterung des vereinseigenen Umkleidegebäudes mit Vereinsheim auf der Sportanlage Hanebergstraße durch die FreieTurnerschaft München-Gern e.V.;Gewährung von Zuwendungen
+- TOP 3.14.: Beschlussvorlage Baureferat: ?Grüne Fugen? am Hirschgarten; Neubau von drei öffentlichen Grünflächen
+- TOP 3.15.: Zweckentfremdung:
+- TOP 3.16.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Volkartstraße
+- TOP 3.17.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Baldurstraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Pfänderstr. 2: Fällung von 1 Robinie
+- TOP 3.2.: Schachenmeierstr. 34: Fällung von 1 Birke
+- TOP 3.3.: Schachenmeierstr. 42: Fällung von 1 Birke
+- TOP 3.4.: Hilblestr. 29: Fällung von 1 Birke
+- TOP 3.5.: Elvirastr. 20: Fällung von 2 Ahorn
+- TOP 3.6.: Walhallastr. 7: Fällung von 1 Rosskastanie
+- TOP 3.7.: Fafnerstr. 38: Fällung von 1 Lebensbaum
+- TOP 3.8.: Lierstr. 11: Fällung von 1 Erle
+- TOP 3.9.: Herderstr. 2 - 4 d: Fällung von 1 Linde
+- TOP 3.10.: Bolivarstr. 12: Fällung von 1 Ahorn
+- TOP 3.11.: Prinzenstr. 39: Fällung von 1 Birke und 1 Fichte
+- TOP 3.12.: Romanstr. 46 a: Fällung von 1 Birke
+- TOP 3.13.: Prinzenstr. 14: Fällung von 1 Traubenkirsche
+- TOP 3.14.: Hubertusstr. 25: Fällung von 1 Birke
+- TOP 3.15.: Baureferat: Fällung von 1 Ahorn als Gefahrenbaum im Dantestadion
+- TOP 3.16.: Planungsreferat: Fällung von 1 Fichte als Gefahrenbaum in der Romanstr. 48
+- TOP 3.17.: Planungsreferat: Fällgenehmigung für einen gesunden Baum ? (Montenstr. 8)
+- TOP 3.18.: KVR: Aufstellen von Heizstrahlern (Antrag BA 9 Nr. 2895 vom 19.02.08)
+- TOP 3.19.: Bürgeranliegen: Umgestaltung Hirschgarten am Eingang Steubenplatz
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Antrag Montessori-Schule Olympiapark: Zuschuss in Höhe von 570 ? für ein Präventionstheaterprojekt von Mai ? Juli 2008
+- TOP 3.2.: Antrag Clean Projekt Neuhausen e.V.: Zuschuss in Höhe von 10 000 ? für die Ersatzanschaffung von Fitnessgeräten
+- TOP 3.3.: Antrag Elternbeirat der Dom-Pedro-Schule (Az.: 04/08 ? 3.4.3): Zuschuss in Höhe von 4 687,50 ? für eine Projektwoche vom 14. - 18.07.08 anläßlich der 850-Jahrfeier
+- TOP 3.4.: Bürgeranliegen: Münchner Elterninitiative "Die Bärchen" von Schließung bedroht
+- TOP 3.5.: Einladung zur Sitzung der PSAG West am 03.04.08
+- TOP 3.6.: Einladung zur ÖAG "Alte Menschen" am 08.04.08
+- TOP 3.7.: Beschluss des Sozialausschusses vom 01.04.08: Rechtsfähige "Waisenhaus-Stiftung München"; Bereitstellung überplanmäßiger Ausgaben zur Sanierung des Dachstuhls im Nordflügel
+- TOP 3.8.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.04.08: Zuschussnehmerdatei 2008; Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" a) des Sozialreferates / Zentrale b) des Amtes für Soziale Sicherung c) des Stadtjugendamts d) des Amtes für Wohnen und Migration
+- TOP 3.9.: Sozialreferat: Daten Kinderkrippen zum 01.01.08
+- TOP 3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.11.: Sozialreferat: Besetzung der Streetworkerstelle (Schreiben BA 9 vom 19.02.08)
+- TOP 3.12.: Schulreferat: Bekanntgabe im Schulausschuss vom 30.01.08: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2007/2008 (Schreiben BA 9 vom 19.02.08)
+- TOP 3.13.: BA 4 Schwabing-West: Erweiterung des Sportangebots für Kinder und Jugendliche (Schreiben BA 9 vom 15.01.08)
+- TOP 3.14.: Erweiterung der Sportangebote für Mädchen: Rückantwort ESV München und Postsportverein
+- TOP 3.15.: Baureferat: Sportplatz Schule Alfonsstraße (Schreiben BA 9 vom 19.02.08)
+- TOP 3.16.: Sozialreferat: Schulsozialarbeit in Grundschulen / Modellprojekt "Soziale Beratung" (Antrag BA 9 Nr. 2702 vom 18.12.07)
+- TOP 3.17.: Beschluss des Schulausschusses vom 02.04.08: Brandschutzsanierung und Umbau der Grund- und Hauptschule Alfonsstraße mit Interimsmaßnahme Aufstellung mobiler Schulraumeinheiten
+- TOP 3.18.: Beschluss des Schulausschusses vom 02.04.08: Neubau einer Kooperationseinrichtung mit 3 Kindergarten- und 3 Krippengruppen, Birketweg-West II
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.1.: Bekanntgabe im Schulausschuss vom 30.01.08: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2007/2008 (Verweisung aus dem UA Schule und Soziales)
+- TOP 3.2.: Bekanntgabe im Schulausschuss vom 30.01.08: Schüler/innen und Klassenstand Berufliche Schulen der LH München im Schuljahr 2007 / 2008 (Verweisung aus dem UA Schule und Soziales)
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.1.: Antrag Jazzmusikerinitiative München e.V.: Zuschuss in Höhe von 10 800 ? für das Jazzfest 2008
+- TOP 3.2.: Antrag Geschichtswerkstatt Neuhausen e.V.: Zuschuss in Höhe von 1 000 ? für die Herausgabe des historischen Kalenders 2009
+- TOP 3.3.: Kulturreferat: Veranstaltungen im März 2008
+- TOP 3.4.: Kulturreferat: Stärkung der Stadtteilkultur
+- TOP 3.5.: Kulturreferat: Vorrangige Berücksichtigung der kulturellen Belange beim zweiten Bauabschnitt auf dem Gelände des "Neuhauser Trafo" (Antrag BA 9 Nr. 2703 vom 18.12.07)
+- TOP 3.6.: Projekt "Bürger gestalten ihre Stadt": Abschlussbericht von Kulturvergnügen
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Bürgeranliegen: Ruhestörung durch Anlieferung Schluderstr. 2
+- TOP 4.2.: BVG Verwaltung GmbH: Standort Vinzenz Murr am Rotkreuzplatz 2 a
+- TOP 4.3.: Direktorium: Informationsveranstaltungen für neu gewählte Bezirksausschuss-Mitglieder
+- TOP 4.4.: KVR: Freischankflächenantrag Bäckerei Ziegler, Volkartstr. 30
+- TOP 4.5.: KVR: Freischankflächenantrag Bäckerei Ziegler, Leonrodstr. 81
+- TOP 4.6.: KVR: Gaststätte "Spatzenstüberl", Hirschbergstr. 7; Pächterwechsel
+- TOP 4.7.: KVR: Gaststätte "Bavaria Billard Bar", Landshuter Allee 87; Pächterwechsel
+- TOP 4.8.: KVR: Gaststätte "Greenleaves", Blücherstr. 1; Pächterwechsel
+- TOP 4.9.: KVR: Spielfest im Hirschgarten am 11.05.08
+- TOP 4.10.: KVR: Magdalenenfest im Hirschgarten vom 12.07. - 20.07.08
+- TOP 5.: Verschiedenes
