@@ -1,0 +1,7 @@
+# TOP 12: Zielvereinbarung für das LUV Jugend
+
+- Sitzung: 23. (öfftl.) Sitzung des Jugendhilfeausschusses (2008-04-16)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=18316
+- Ergebnis: (offen)
