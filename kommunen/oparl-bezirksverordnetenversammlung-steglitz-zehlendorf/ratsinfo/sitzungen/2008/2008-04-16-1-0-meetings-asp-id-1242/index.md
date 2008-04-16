@@ -1,0 +1,97 @@
+# 18. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2008-04-16T17:00:00+02:00
+- Ende: 2008-04-16T21:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1242
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1242
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Finanzielles Defizit beim Eigenbetrieb Südwest - beantwortet
+- TOP 3.2: Kinderspielplätze im Ortsteil Wannsee - beantwortet
+- TOP 3.3: Fehlförderung der AWO - beantwortet
+- TOP 3.4: Baumfällarbeiten Hartmannsweilerweg / Sven-Hedin-Straße - beantwortet
+- TOP 3.5: Was geschieht mit dem Areal der ehemaligen Lungenklinik Heckeshorn? - beantwortet
+- TOP 3.6: Aggressive und angriffslustige Bachen - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Feststellungen - erledigt
+- TOP 4.1.1: Feststellung gem. § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen - erledigt
+- TOP 4.2.1: Wahl eines stellv. Bürgerdeputierten im Ausschuss für Wirtschaft und Verkehr - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Wahl eines stellv. Bürgerdeputierten im Ausschuss für Bildung, Kultur und Bürgerdienste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.3: Wahl eines stellv. Bürgerdeputierten im Ausschuss für Personal und Verwaltung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.3.1: Sondermittel der BVV für das Projekt "Neusee trifft Schlachtenkölln" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungspläne - erledigt
+- TOP 4.4.1: Bebauungsplan X-189 Wohnungsbau Otto-Appel-Straße/Edwin-Redslob-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Bebauungsplan XII-6-2 B Gewerbegebiet Siemensstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Bebauungsplan Robert-Lück-Straße zwischen Südendstraße und Bergstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Konzept zur bezirklichen Erinnerungskultur für Steglitz-Zehlendorf "Erinnern für die Zukunft - Geschichte in Steglitz-Zehlendorf" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Schaukästen auch für die Seniorenvertretung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Erhalt der Wasserschutzpolizei Wache 3 in Schwanenwerder! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Den Bereich rund um die Lankwitz-Kirche attraktiver gestalten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Spielplatzpatenschaften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Skatepark im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Ausschalten von Ampelanlagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Betreuungsangebote für Kinder und Jugendliche mit Behinderungen bedarfsgerecht ausbauen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Fahrbahnmarkierungschaos beseitigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Fußgängerüberweg sicherer gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Säuberung der Schneckenbrücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.13: Qualitätskriterien für die Einzelfallhilfe für Menschen mit Behinderung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.14: Zug der Erinnerung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.15: Tempo 30 in der Riemeisterstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.16: Zehlendorf besser an den ÖPNV anbinden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.17: Verlängerung der Buslinie 218 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.18: Winterdienst in der S-Bahn-Unterführung Osdorfer Straße verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.19: Attraktiver Wochenmarkt für Zehlendorf Mitte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - - erledigt
+- TOP 5.1: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.1.1: Aufstellung der Vorschlagsliste für ehrenamtliche Richter für das Verwaltungsgericht Berlin für die Geschäftsjahre 2009 bis 2013 - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Investitionsförderung im Bezirk - überwiesen
+- TOP 5.2.2: Auflösung der pauschalen Minderausgaben im Kapitel 3340, Titel 462 01 - überwiesen
+- TOP 5.2.3: Gedenkstele für einen desertierten Soldaten - überwiesen
+- TOP 5.2.4: Überprüfung der Wirksamkeit der Verkehrsschilder - überwiesen
+- TOP 5.2.5: Wendeschleife in der Züricher Straße! - überwiesen
+- TOP 5.2.6: Auflösung pauschaler Minderausgaben: Abteilung Soziales - überwiesen
+- TOP 5.2.7: Sanktionen des Jobcenters / Sozialamtes - überwiesen
+- TOP 5.2.8: Kein Sparen auf Kosten der Schulen - überwiesen
+- TOP 5.2.9: Bake in der Harry-S.-Truman-Allee - überwiesen
+- TOP 5.2.10: Sanierung der S-Bahnbrücke in Zehlendorf-Mitte - überwiesen
+- TOP 5.2.11: Das Gutshaus Steglitz den Schulen zeitweise kostenlos zur Verfügung stellen - überwiesen
+- TOP 5.2.12: Keine LKWs im Nieritzweg - überwiesen
+- TOP 5.2.13: Halbseitiges Parken auf dem Gehweg in der Brucknerstraße - überwiesen
+- TOP 5.2.14: Verbot für Motorräder in einer Kleingartenkolonie! - überwiesen
+- TOP 5.2.15: Erinnerungspolitik - Von der Theorie zur Tat I - überwiesen
+- TOP 5.2.16: Erinnerungspolitik - Von der Theorie zur Tat II - überwiesen
+- TOP 5.2.17: Erinnerungspolitik - Von der Theorie zur Tat III - überwiesen
+- TOP 5.2.18: Erinnerungspolitik - Von der Theorie zur Tat IV - überwiesen
+- TOP 5.2.19: Erinnerungspolitik - Von der Theorie zur Tat V - überwiesen
+- TOP 5.2.20: Gedenktafel für den unbekannten Deserteur in Steglitz - überwiesen
+- TOP 5.2.21: Festtage der Demokratie - überwiesen
+- TOP 5.2.22: "Active Kids" in Steglitz-Zehlendorf - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringende Große Anfragen - erledigt
+- TOP 6.1.1: Kündigung der Hausmeisterverträge - beantwortet
+- TOP 6.2: Dringlichkeitsanträge - erledigt
+- TOP 6.2.1: Flagge zeigen und die Wahrung der Menschenrechte in Tibet einfordern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Unterliegt das Ordnungsamt dem Diktat des rot-roten Senates? - beantwortet
+- TOP 7.2: Pauschale Minderausgaben im LuV Soziales - vertagt
+- TOP 7.3: Korruptionsprävention auch in Steglitz-Zehlendorf? - beantwortet
+- TOP 7.4: Korruptionsprävention im Bezirksamt Steglitz-Zehlendorf - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Benennung des Platzes am Märchenbrunnen in "Sderot Platz" - vertagt
+- TOP 8.2: Schutzhüllen für biometrische Reisepässe - überwiesen
+- TOP 8.3: Verwendung der Mittel für Erinnerungsarbeit - in der BVV abgelehnt
+- TOP 8.4: Fahrspuraufteilung Schloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Schlusswort des Bezirksverordnetenvorstehers - erledigt
