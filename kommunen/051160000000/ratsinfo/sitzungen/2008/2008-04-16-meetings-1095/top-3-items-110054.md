@@ -1,0 +1,8 @@
+# TOP 3: Genehmigung der Bestellung / Sparkasse
+
+- Sitzung: Rat (2008-04-16)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/110054
+- Ergebnis: Einstimmiger Beschluss mit Enthaltung/en
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/7763
