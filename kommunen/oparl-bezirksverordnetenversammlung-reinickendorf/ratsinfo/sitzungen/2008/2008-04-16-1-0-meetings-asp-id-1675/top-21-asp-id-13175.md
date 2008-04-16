@@ -1,0 +1,8 @@
+# TOP 21: Einzelhandel in der Heinsestraße schützen
+
+- Sitzung: 18. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf (2008-04-16)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=13175
+- Ergebnis: überwiesen
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=13175
