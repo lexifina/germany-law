@@ -1,0 +1,85 @@
+# 18. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2008-04-16T17:10:00+02:00
+- Ende: 2008-04-16T21:45:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1675
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1675
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=37313
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 1.1: Wahl eines/einer neuen Schriftführers/Schriftführerin - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Antrag auf Durchführung einer Einwohnerversammlung gemäß § 42 Bezirksverwaltungsgesetz - im Ausschuss abgelehnt
+- TOP 4: Konsensliste - vertagt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Bebauungsplanverfahren - überwiesen
+- TOP 6.2: Nutzung der Graphothek im Bewusstsein der Öffentlichkeit intensiver verankern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.3: Senat soll Lehrerinnen- und Lehrermangel entgegenwirken - vertagt
+- TOP 6.4: Rathausgalerie für couragiertes Eintreten gegen Gewalt gegenüber schwulen Männern nutzen! - vertagt
+- TOP 6.5: Schulhöfe für alle Kinder und Jugendlichen öffnen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.6: Waschbärenpopulation auf der Insel Scharfenberg reduzieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.7: Brandschutz im Rathaus Reinickendorf endlich umsetzen - überwiesen
+- TOP 6.8: Verlängerte Öffnungszeiten für das öffentliche WC am Schäfersee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.9: S-Bahnhof Wilhelmsruh "barrierefrei" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.10: Erfahrungsbericht des Patientenfürsprechers des Krankenhauses Reinickendorf in der Vivantes GmbH - ö. B. Humboldt-Krankenhaus - für das Jahr 2007 - überwiesen
+- TOP 6.11: Bericht über das Ergebnis der frühzeitigen Bürger- und Behördenbeteiligung gemäß § 3 Abs. 1 bzw. § 4 Abs. 1 BauGB am Entwurf des Bebauungsplanes 12-17 - überwiesen
+- TOP 6.12: Bericht über das Ergebnis der Beteiligung der Träger öffentlicher Belange gemäß § 4 Abs. 2 Baugesetzbuch (BauGB) am Entwurf des Bebauungsplanes XX-240b-1 - überwiesen
+- TOP 6.13: Umweltpreis 2008 des Bezirksamtes Reinickendorf für Reinickendorfer Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Sprachstandsuntersuchung - vertagt
+- TOP 7.2: Werden leitende Beamte des Bezirks öffentlich rehabilitiert? - vertagt
+- TOP 7.3: Wundersame Altlastensanierung auf Gewobag-Gelände - vertagt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Vorschlagsliste für die Wahl der ehrenamtlichen Richter und Richterinnen beim Verwaltungsgericht Berlin für die Amtsperiode 2009 bis 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Verpflichtende Früherkennungsuntersuchungen für alle Kinder - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Anti-Gewalt-Training in den Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Rettung der Wiesen in Lübars - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Straßenbeleuchtung in der Cité Foch - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Verkehrssituation in der Cité Foch verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Verkehrsberuhigung Frohnau - in der BVV abgelehnt
+- TOP 9.7: Musikbetonte Grundschulen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Aufgabe der Einrichtung für wohnungslose Familien in der Wittenauer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Mehr Schulstationen - vertagt
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Berücksichtigung des Gender Mainstreamings in den Sportanlagen-Nutzungsvorschriften (SPAN) - überwiesen
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Jugendfreizeiteinrichtung Ameisenburg - überwiesen
+- TOP 11.2: Veranstaltungen in der Stadtbibliothek im Fontanehaus - überwiesen
+- TOP 11.3: Computerzeitalter in Reinickendorf - Drucksachen in elektronischer Form - überwiesen
+- TOP 11.4: Planmäßige Stelle im Büro der Bezirksverordnetenversammlung besetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Ordnungsplan 2009/2010 mit Schwerpunkten vorlegen - überwiesen
+- TOP 11.6: Keine Gebetsräume an Reinickendorfer Schulen - in der BVV zurückgezogen
+- TOP 11.7: Teleheimarbeitsplätze im Bezirksamt - überwiesen
+- TOP 11.8: Namensgebung für Partnerstadt Antony - vertagt
+- TOP 11.9: Kulturelle Bildung für Schülerinnen und Schüler und Jugendliche - vertagt
+- TOP 11.10: Einrichtung von Pflegestützpunkten - überwiesen
+- TOP 11.11: Einzäunung der Müllcontainer der Bettina-von-Arnim-Schule - überwiesen
+- TOP 11.12: Einbahnstraßenregelung im Bocholter Weg - vertagt
+- TOP 11.13: Solidarität mit der Bevölkerung von Tibet - vertagt
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Regenwasserableitung an der Kreuzung Bekassinenweg/Wildganssteig - überwiesen
+- TOP 12.2: Französisch an Grundschulen - überwiesen
+- TOP 12.3: Ausstellung "DIE BRAUNE FALLE" in Reinickendorf zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Jugendgerichtshilfe - beantwortet
+- TOP 14: Tourismus im grünen Norden - beantwortet
+- TOP 15: War der Kahlschlag ein Erfolg? - vertagt
+- TOP 16: Migration - in Reinickendorf kein Thema - beantwortet
+- TOP 16.1: Einsatz eines Ausschusses für Migration - überwiesen
+- TOP 16.2: Integrationspreis der BVV-Reinickendorf - überwiesen
+- TOP 17: Wasserschäden in Heiligensee - vertagt
+- TOP 18: Schuldenfalle bei Jugendlichen - in der BVV abgelehnt
+- TOP 19: Jährlicher Bericht des Behindertenbeauftragten - überwiesen
+- TOP 20: Seniorenpflegezentrum verhindern - überwiesen
+- TOP 21: Einzelhandel in der Heinsestraße schützen - überwiesen
+- TOP 22: Bauvorhaben Unionhilfswerk am S-Bahnhof Hermsdorf - überwiesen
+- TOP 23: Steigendes Grundwasser in Heiligensee - vertagt
