@@ -1,0 +1,51 @@
+# Sozial- und Gesundheitsausschuss
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2008-04-17T15:00:00+02:00
+- Ende: 2008-04-17T17:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUhSmNDxqfZhZBxWRb-cM08
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/651
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWsgaATikCBOkfk7XR_vwer1Y2E_Di9KrjL3mfeaReNT/Einladung_Sozial-_und_Gesundheitsausschuss_17.04.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Sozial- und Gesundheitsausschuss) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYfKbWLR_9GRgM3-WSJj_UJMb7aZIBawCpZh7IHzZOPa/Oeffentliche_Niederschrift_Sozial-_und_Gesundheitsausschuss_17.04.2008.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 1.1: Vergabe von Zuwendungen an Selbsthilfegruppen und Initiativen - Sozialamt - - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 1.2: Verteilung von Zuschüssen an Selbsthilfegruppen im Gesundheitsbereich, - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 1.3: Heizkostenmoratorium - Richtlinie zur Ermittlung "angemessener Heizkosten" Anlage 5 zu T 29 - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 2: Beschlussvorschläge für den Haupt- und Finanzausschuss
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: Beschlussvorschläge für den Rat
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Anträge
+- TOP 6.1: Bochumer Vergünstigungsausweis - Der Antrag wird zurückgezogen.                                                                      
+- TOP 7: Mitteilungen
+- TOP 7.1: Persönliches Budget im Rahmen der Eingliederungshilfe für behinderte Menschen gem. § 17 SGB IX - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.2: Geschäftsbericht Personalkostenbudgetierung im Dezernat V - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.3: Sozialbericht Bochum (2008) - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.4: Basisgesundheitsbericht Bochum (2008) - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.5: Runder Tisch Prostitution - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.6: Kommunale Gesundheitskonferenz, hier: Verzeichnis der aktuellen Mitglieder, Stand: 10.03.2008 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.7: "Gesamtkonzept Frühe Hilfen für Bochumer Familien" - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8: Anfragen
+- TOP 8.1: Situation von Studenten nach Einführung der Studiengebühren - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 8.2: Ausbau von Pflegestützpunkten - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Beschlussvorschläge für den Haupt- und Finanzausschuss
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Beschlussvorschläge für den Rat
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Anträge
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Mitteilungen
+- TOP 10: keine Tagesordnungspunkte
+- TOP 11: Anfragen
+- TOP 12: keine Tagesordnungspunkte
