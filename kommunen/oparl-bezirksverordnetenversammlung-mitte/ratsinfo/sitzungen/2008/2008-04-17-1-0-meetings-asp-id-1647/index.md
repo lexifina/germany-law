@@ -1,0 +1,133 @@
+# 15. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2008-04-17T17:30:00+02:00
+- Ende: 2008-04-17T23:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1647
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1647
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=63709
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - (offen)
+- TOP 4.1: Verkauf der Arminiusmarkthalle: Was wusste das Bezirksamt? - beantwortet
+- TOP 4.2: Zukunft der Arminiusmarkthalle - in der BVV abgelehnt
+- TOP 4.3: Markthallen-Verkauf in Moabit / Arminius-Halle sichern - mit Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Interessenbekundungsverfahren für Kultur im Monbijoupark - beantwortet
+- TOP 5.2: Scientology-Aktivitäten in den Bereichen Schule und Erziehung - auch in Mitte? - beantwortet
+- TOP 5.3: Großes Theater im Monbijoupark - beantwortet
+- TOP 5.4: Mehr Konfusion als Koordination im Bezirksamt? - beantwortet
+- TOP 5.5: Vorbereitung zum 1. Mai 2008 - schriftlich beantwortet
+- TOP 5.6: Alte Platane - schriftlich beantwortet
+- TOP 5.7: Dialogkonferenz in Mitte - schriftlich beantwortet
+- TOP 5.8: Viel Theater im Monbijoupark? - schriftlich beantwortet
+- TOP 5.9: Knick in der Umweltzone - schriftlich beantwortet
+- TOP 5.10: Touristisches Leitsystem - schriftlich beantwortet
+- TOP 5.11: Zustand der Grünflächen in der Ebertstraße - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Lützowplatz: Abriss und Abholzungen vor BVV-Entscheidung?! (Lützowufer 20-23, Lützowplatz 2-18 sowie Wichmannstraße 1 u. 2) - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Haushaltswirtschaft - beantwortet
+- TOP 7.2: Schleppende Bearbeitung gefährdet Instandsetzung der Siegessäule - schriftlich beantwortet
+- TOP 7.3: Kooperationen des Bezirkes mit dem IZDB, IGD bzw. IGMG - schriftlich beantwortet
+- TOP 7.4: Kleine Anfrage KA 0176/III - Kahlschlag in der Invalidenstraße Ist das Bezirksamt nicht kopetent genug zu antworten? - schriftlich beantwortet
+- TOP 7.5: Der Bürger muss rennen, das Bezirksamt darf pennen! - schriftlich beantwortet
+- TOP 7.6: Kostet nichts ist nichts wert - oder: zu stolz sich helfen zu lassen? - schriftlich beantwortet
+- TOP 7.7: Aufgaben ÖGD - schriftlich beantwortet
+- TOP 7.8: Qualitätsverlust an den Schulen in Berlin-Mitte? - schriftlich beantwortet
+- TOP 7.9: Wie weiter mit dem Poststadion? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Wahl der ehrenamtlichen Richter für das Oberverwaltungsgericht Berlin-Brandenburg für die Amtsperiode ab 19. August 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Wahl der ehrenamtlichen Richter für das Verwaltungsgericht Berlin für die Amtsperiode ab 01. Januar 2009 - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Schulnetzveränderungen (1) - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Schulnetzveränderungen (2) - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplan 1-12 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-12 - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Vorhabenbezogener Bebauungsplanentwurf 1-41VE sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplan 1-41VE - überwiesen
+- TOP 9.3: Bebauunsplanentwurf 1-42B sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-42B - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Projekt "TanzMitte" als Modellprojekt musischer Bildung - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Umweltentlastungsprogramm endlich auch in Mitte nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Pflegestützpunkte - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Missbilligung des stellvertretenden Bezirksbürgermeister und Bezirksstadtrat für Wirtschaft, Immobilien und Ordnungsamt Joachim Zeller - in der BVV zurückgezogen
+- TOP 12.2: Qualitätssicherung berufsfördernder Maßnahmen im Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Innovationspark Humboldthain - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Mehr Bäume - mehr Freunde, wie viel Freunde braucht Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Interkulturelle Schulung - JobCenter I - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Fahrradabstellanlage am Bahnhof Friedrichstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Parkraumbewirtschaftung als AnwohnerInnen-freundliches Instrument stärken - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Öffnungszeiten der Bürgerämter bürgerfreundlicher gestalten - überwiesen
+- TOP 12.10: Qualifikationen - JobCenter II - überwiesen
+- TOP 12.11: Gesunder Bezirk Mitte (3) - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Statistik / Evaluation - JobCenter III - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Keine Akzeptanz des wilden Plakatieren in der Innenstadt! - in der BVV abgelehnt
+- TOP 12.14: Solidarität mit dem tibetischen Volk - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Außeneinstellung im Ordnungsamt Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Knappe Kassen in den Bezirken: Vermarktung von Großflächenwerbung jetzt! - überwiesen
+- TOP 12.17: Finanzierung von Schulen den lokalen Bedürfnissen anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Verlängerung von Schutzfristen für Kleingartenanlagen - überwiesen
+- TOP 12.19: Charta der Vielfalt - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Sicherung der sportpolitischen Zielvorgaben des Bezirks Mitte - überwiesen
+- TOP 12.21: Bessere Ausschilderung des Festplatzes - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Eigentümer-Nutzer-Modell im Bezirk realisieren und in der KLR abbilden - überwiesen
+- TOP 12.23: Halteverbot für LKWs über 7,5 Tonnen - überwiesen
+- TOP 12.24: Autofreier Sonntag am 1. Juni 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Ausnahmegenehmigungen zum Befahren der Umweltzone nicht nur für ein Jahr erteilen - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Ausstellung "Spandauer Vorstadt 1993 - 2008" - ohne Änderungen in der BVV beschlossen
+- TOP 12.27: Parkraumbewirtschaftung als anwohnerfreundliches Instrument stärken - in der BVV zurückgezogen
+- TOP 12.28: Schulweg sicher gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.29: Wilhelmstraße - innerstädtisches Wohnen sichern - überwiesen
+- TOP 12.30: Baugruppe Dortmunder Straße 1 - ohne Änderungen in der BVV beschlossen
+- TOP 12.31: Denkmal für Georg Elser - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Eltern bei der Schulwahl nicht benachteiligen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Lerntagebücher sichern - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Klimaschutz und Kostensenkung: Endlich den Ballast Iranische Str. 3 abwerfen! - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Krankenhäuser machen Schule - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Mitte braucht einen Denkmalbeirat - in der BVV abgelehnt
+- TOP 13.6: Freie Schulwahl in Berlin-Mitte - Schuleinzugsbereiche auflösen, Elterninteresse folgen! - in der BVV abgelehnt
+- TOP 13.7: Beachtung der Barrierefreiheit bei B-Plänen im Vorfeld - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Transparenz bei Vergabeverfahren - vertagt
+- TOP 13.9: Schulhofnutzung als Spielplatz und Bewegungsfläche - vertagt
+- TOP 13.10: Patenschaften für Spielplätze - vertagt
+- TOP 13.11: Energiesparcontracting beim Kita-Eigenbetrieb City - vertagt
+- TOP 13.12: Grenzenüberschreitendes Parken - vertagt
+- TOP 13.13: Lage des Nachtbusknotens - vertagt
+- TOP 13.14: Verkehrssituation in Mitte verbessern - vertagt
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Sicherung des Energieeinsparpotentials bei der Gebäudesanierung im Zusammenhang mit der Wärmedämmung - vertagt
+- TOP 14.2: Alle Jahre wieder: Zeitliche Erweiterung Ökomarkt Hackescher Markt (vergl.: BVV-Beschluss Drs.-Nr. 1637/II vom 20.01.2005) - vertagt
+- TOP 14.3: Aufnahmeheim Osloer Straße 80 - vertagt
+- TOP 14.4: Verkaufsverhandlungen für das Objekt Osloer Straße 80 - vertagt
+- TOP 14.5: Umweltladen Mitte erhalten - vertagt
+- TOP 14.6: Fortgang des Hilfs-Projektes in Sri Lanka - vertagt
+- TOP 14.7: Öffentliche Quartiersräte / Vergabebeiräte - vertagt
+- TOP 14.8: Stärkung der Kindertagesstätten als Bildungseinrichtungen - vertagt
+- TOP 14.9: Anhörung zur Übertragung der bezirklichen Immobilien an die BIM GmbH - vertagt
+- TOP 14.10: Übertragung von bezirklichen Jugenderholungsstätten in freie Trägerschaft - vertagt
+- TOP 14.11: Jahresbericht 2006 - vertagt
+- TOP 14.12: Aufstellung des Bebauungsplans 1-47 im Bezirk Mitte, Ortsteil Wedding, die Durchführung der Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) und die Durchführung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 BauGB - vertagt
+- TOP 14.13: Parkraumbewirtschaftung Dorotheenstadt, Friedrich-Wilhelm-Stadt, Parlaments- und Regierungsviertel, Hauptbahnhof (Zillesiedlung), Parkzonen 34 und 35 - vertagt
+- TOP 14.14: Integrierte Handlungs- und Entwicklungskonzepte der Quartiersmanagement-Gebiete Moabit West, Magdeburger Platz, Reinickendorfer-/Pankstraße, Soldiner Straße und Sparrplatz sowie der Stadtteilmanagement-Gebiete Brunnenviertel-Ackerstraße und Brunnenviertel-Brunnenstraße - Fortschreibung 2008 - vertagt
+- TOP 14.15: Beschluss zur Fortführung des vorhabenbezogenen Bebauungsplanes 1-16 VE in Berlin-Mitte, Ortsteil Moabit, mit einem neuen Vorhabenträger, die Wiederholung der Durchführung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. §4 Abs. 2 Baugesetzbuch (BauGB) und die Wiederholung der Öffentlichkeitsbeteiligung gem. § 3 Abs. 2 BauGB - vertagt
+- TOP 14.16: Weiterführung der Bebauungsplanentwürfe zur Sicherung des Wohnens in der Spandauer Vorstadt I-B5a, b und m, I-B5e und t, I-B5u und I-B5c, f, g, h, i, k, l, n, o, p, q, r, s, v sowie I-B24b, I-2 und I-29 auf der Grundlage der Ergebnisse der rechtlichen Überprüfung der Senatsverwaltung für Stadtentwicklung der von der BVV am 20.09.2007 beschlossenen Bebauungsplanentwürfe I-B5a, b, m, e und t im Bezirk Mitte, Ortsteil Mitte und die Einbringung einer Vorlage bei der Bezirksverordnetenversammlung - vertagt
+- TOP 14.17: Entwicklung und Verwendung von Stiftungsmitteln der Erika-Heß-Stiftung im Haushaltsjahr 2007 - vertagt
+- TOP 14.18: Einteilung der Stimmbezirke im Verwaltungsbezirk Mitte für die Durchführung von Volksentscheiden und Bürgerentscheiden - vertagt
+- TOP 14.19: Schulnetzveränderungen (3) - vertagt
+- TOP 14.20: Schulnetzveränderungen (4) - vertagt
+- TOP 14.21: Schulnetzveränderungen (5) - vertagt
