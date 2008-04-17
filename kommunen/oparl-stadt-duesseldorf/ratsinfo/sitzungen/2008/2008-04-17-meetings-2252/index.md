@@ -1,0 +1,80 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-04-17T14:00:00+02:00
+- Ende: 2008-04-17T19:59:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2252
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2252
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167240.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167240.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167240.pdf
+
+## Tagesordnung
+
+- TOP 1: Ehrenringe - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Anfr. aus akt. Anlass des Ratsh. Lemmer: Kosten des Bürgerbegehrens - beantwortet
+- TOP 6: Anfr. aus aktuellem Anlass des Ratsh. Lemmer: Beteiligung d. NPD zur Kommunalwahl - beantwortet
+- TOP 7: Anfr. aus aktuellem Anlass des Rh. Laubenburg: Aktivitäten d. NPD in D`dorf - beantwortet
+- TOP 8: Anfrage ausu aktuellem Anlass d. Ratsfrau Kahl: Höhere Wohnungsmieten zurückweisen - beantwortet
+- TOP 9: Anfrage aus akt. Anlass d. Ratsherrn Laubenburg: ARGE - beantwortet
+- TOP 10: Anfrage a. akt. Anlass von Bü90/Grü: Auftrag an die städtische Wohnungsgesellschaft - schriftlich beantwortet
+- TOP 11: Anfragen - zur Kenntnis genommen
+- TOP 12: Anfrage d. Ratsfr. Bü90/Grü: Verspätete Nachtlandungen Flughafen - beantwortet
+- TOP 13: Anfrage d. Ratsfr. Bü90/Grü: Haupbahnhof - beantwortet
+- TOP 14: Anfrage Ratsherr Czerwinski: Wehrhahn-Linie - beantwortet
+- TOP 15: Anfrage d. Ratsfrau Frey: Beirat für die SANA-Kliniken - beantwortet
+- TOP 16: Anfrage d. Ratsfrau Frey: Behindertenbeirat u. Behindertenkoordination Einrichtung eines Behindertenbeirats - schriftlich beantwortet
+- TOP 17: Anfr. Krüger/Reichert: Burgplatz - schriftlich beantwortet
+- TOP 18: Anfr. Krüger/Reichert: Demographie - schriftlich beantwortet
+- TOP 19: Anfr. Rf vA: Tibet-Flagge - schriftlich beantwortet
+- TOP 20: Anfrage d. SPD: Städtische Informationsbroschüren - schriftlich beantwortet
+- TOP 21: Anfrage SPD: Sozialtarife bei den Energiekosten - schriftlich beantwortet
+- TOP 22: Anfr. Rh Lb: Managergehälter - schriftlich beantwortet
+- TOP 23: Anfr. Rh.Lb.: Ethylen - schriftlich beantwortet
+- TOP 24: Anträge - zur Kenntnis genommen
+- TOP 25: Antrag d. Ratsfraktion Bü90/Grü: Vergabekonzept für Veranstaltungen - mehrheitlich abgelehnt
+- TOP 26: Antrag d. Ratsfr. Bü90/Grü: Verkehrskonzept Altstadt - mehrheitlich abgelehnt
+- TOP 27: Antrag d. Ratsfr. Bü90/Grü.: Europapolitik - verwiesen
+- TOP 28: Antrag Ratsfr. Bü90/Grü: Logistikkonzept - mehrheitlich abgelehnt
+- TOP 29: Antrag d. SPD: Personalkostenbudget erhöhen..... - mehrheitlich abgelehnt
+- TOP 30: Ergantr. LL: Personalkostenbudget - mehrheitlich abgelehnt
+- TOP 31: Antrag d. SPD: Armut und Reichtum in Düsseldorf - mehrheitlich abgelehnt
+- TOP 32: Antrag d. SPD: Gegen Schmierereien in der Stadt - mehrheitlich abgelehnt
+- TOP 33: Antr. CDU/FDP: Familienkarte - einstimmig beschlossen
+- TOP 34: Kämmererliste (2007) - mehrheitlich beschlossen
+- TOP 35: Kämmererliste (2008) - mehrheitlich beschlossen
+- TOP 36: Kitasatzung - einstimmig beschlossen
+- TOP 37: ÄA LL: Kitabeitragssatzung - mehrheitlich abgelehnt
+- TOP 38: Erg.antr. SPD: Kitabeiträge - mehrheitlich abgelehnt
+- TOP 39: Klimabündnis europäischer Städte - einstimmig beschlossen
+- TOP 40: EA LL: Klimabündnis - mehrheitlich abgelehnt
+- TOP 41: Quadriennale06 - Dokumentation und Bilanz - einstimmig beschlossen
+- TOP 42: World Games 2013 - zur Kenntnis genommen
+- TOP 43: Brandschutzmaßnahmen im Aquazoo - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 44: Peter-Härtling-Schule, Städtische Förderschule, Fö - einstimmig beschlossen
+- TOP 45: Birkenstraße - Umgestaltung zwischen Ackerstraße und Dorotheenstraße - einstimmig beschlossen
+- TOP 46: Umbesetzung von Ausschüssen u. sonst. Gremien - einstimmig beschlossen
+- TOP 47: Ersatzwahl von stv. Mitrgliedern im Bereich Jugendamt - einstimmig beschlossen
+- TOP 48: Jugendamtssatzung / GeschO Rat - einstimmig beschlossen
+- TOP 49: Bestellung Jugendratsmitglieder in Ausschüsse - einstimmig beschlossen
+- TOP 50: AR Regiobahn - Neuwahl - - einstimmig beschlossen
+- TOP 51: AR Neue Schauspiel - Neuwahl - - einstimmig beschlossen
+- TOP 52: AR der Neuss-D´dorfer Häfen - Neuwahl - - einstimmig beschlossen
+- TOP 53: Neubesetzung Gremien Riehl-Kolleg - einstimmig beschlossen
+- TOP 54: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 55: Annahme einer Schenkung - einstimmig beschlossen
+- TOP 56: Förderpreis Engagement - einstimmig beschlossen
+- TOP 57: Freigabe verkaufsoffener Sonntage im Jahre 2008 - mehrheitlich beschlossen
+- TOP 58: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 59: FNP-Ä 32-Prinzen/Hansaallee-Stell.;Plan - einstimmig beschlossen
+- TOP 60: FNP-Änderung Nr. 116 - Hafen - Stellungnahmen; Plan - mehrheitlich beschlossen
+- TOP 61: ÄA Bü90/Grü: Flächennutzungsplanänderung Nr. 116 (Entwurf) - Hafen - - mehrheitlich abgelehnt
+- TOP 62: ÄA LL: FNP Hafen - mehrheitlich abgelehnt
+- TOP 63: Ergebnis Bürgerentscheid Jan-Wellem-Platz - einstimmig beschlossen
