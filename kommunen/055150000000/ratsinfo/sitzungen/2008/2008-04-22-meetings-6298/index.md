@@ -1,0 +1,51 @@
+# 37. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-04-22T17:06:00+02:00
+- Ende: 2008-04-22T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6298
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6298
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00263633.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Prinz-Eugen- - einstimmig beschlossen
+- TOP 4.2: Umsetzung Kinderbildungsgesetz - Einzelmaßnahme im Ev. Sternkindergarten, Sternstraße 8 -10, Ausbau des Kindertagesbetreuungsangebotes für Kinder unter drei Jahren, Investitionskostenzuschuss - einstimmig beschlossen
+- TOP 4.3: Umsetzung des Kinderbildungsgesetzes - Einzelmaßnahme in der Kindertagesstätte Kinderhäuschen , Salzmannstr. 53, 48147 Münster, Ausbau des Kindertagesbetreuungsangebotes für Kinder unter drei Jahren, Investitionskostenzuschuss - einstimmig beschlossen
+- TOP 4.4: 1. Sanierung des Spielplatzes an der Thomas-Morus-Schule 2. Schulhofumgestaltung Thomas-Morus-Schule - einstimmig beschlossen
+- TOP 4.5: Kindertagesstätte am Inselbogen, Neuordnung der Erschließung - von der Tagesordnung abgesetzt
+- TOP 5: Anhörungen
+- TOP 5.1: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am 1. Adventssonntag im Stadtbezirk Münster-Mitte, -Innenstadtbereich "Altstadt/Bahnhofsviertel" - für die Jahre 2008 bis 2010 - mehrheitlich abgelehnt
+- TOP 5.2: Grevener Straße 31 / 33 - mehrheitlich geändert beschlossen
+- TOP 5.3: 2. Nahverkehrsplan Stadt Münster - Erfahrungsbericht und Entscheidung - einstimmig beschlossen
+- TOP 5.4: SPD-Antrag: "Das Osttor zu Münsters Innenstadt aufwerten ..." - einstimmig beschlossen
+- TOP 5.5: Kanalsanierung Dieckstraße - einstimmig beschlossen
+- TOP 5.6: Kanalsanierung Prinz-Eugen-Straße - einstimmig beschlossen
+- TOP 5.7: Sanierungsmaßnahmen Aasee 2008 - einstimmig beschlossen
+- TOP 5.8: Anregungen gem. § 24 GO NRW, Nrn. 88, 89, 90, 93, 94 und 99/ 2007, " Nummerierung von Parkbänken" - mehrheitlich geändert beschlossen
+- TOP 6: Berichte
+- TOP 6.1: Neugestaltung des Platzes am Graphikmuseum Pablo Picasso / Königsstraße - zur Kenntnis genommen
+- TOP 6.2: Baukostenzuschüsse an die Mitgliedsvereine des Stadtsportbund Münster e. V. - zur Kenntnis genommen
+- TOP 7: Anträge/Anregungen und Anfragen
+- TOP 7.1: Neu-/Umgestaltung des Nordplatzes - eingebracht
+- TOP 7.2: Parkende Fahrzeuge auf dem Adolph-Kolping-Platz - eingebracht
+- TOP 7.3: Engstelle für Busse und Fußgänger in der Hörsterstraße - zur Kenntnis genommen
+- TOP 7.4: Planungen für das Grundstück zwischen Schifffahrter Damm und Dortmund-Ems-Kanal, nördlich Mauritzheide - zur Kenntnis genommen
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Verkehrsabläufe im Bereich Friedrich-Ebert-Straße/Hafenstraße verdeutlichen - zur Kenntnis genommen
+- TOP 8.2: Verkehrsspiegel an der Einmündung Sibeliusstraße / Hoher Heckenweg - zur Kenntnis genommen
+- TOP 8.3: Baumaßnahme Ludgerikreisel - Hafenstraße - zur Kenntnis genommen
+- TOP 8.4: Erfahrungsbericht Umgestaltung des Geistmarktes - zur Kenntnis genommen
+- TOP 8.5: Entsorgung der Gelben Säcke im Stadtbezirk Mitte - zur Kenntnis genommen
+- TOP 8.6: Neue Pflasterung von Gehwegen und Einfahrten an der Hammer Straße - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
