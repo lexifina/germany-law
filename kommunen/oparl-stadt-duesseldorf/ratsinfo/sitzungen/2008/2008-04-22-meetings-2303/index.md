@@ -1,0 +1,72 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-04-22T17:00:00+02:00
+- Ende: 2008-04-22T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2303
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2303
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126243.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126243.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126243.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Sportinvestitionsmaßnahmen im Stadtbezirk 7
+- TOP 4: Gerricusstraße 14 - 16
+- TOP 5: Freigabe verkaufsoffener Sonntage im Jahre 2008
+- TOP 6: Freigabe verkaufsoffener Sonntage im Jahre 2008
+- TOP 7: "Home & Garden" auf der Galopprennbahn Grafenberg im Jahre 2008
+- TOP 8: Staufenplatz 10, Erneuerung Beläge
+- TOP 9: Zuschuss an den Tennisclub 1904 Blau-Schwarz e.V.
+- TOP 10: Bezirksbezogener Bauunterhalt für das Jahr 2008
+- TOP 11: Verkehrssicherheit - Kröten
+- TOP 12: Anmeldeverfahren zu den weiterführenden Schulen
+- TOP 13: Dealen an der Düssel
+- TOP 14: Jugend im Zipfel
+- TOP 15: Ethikverlust im Gerresheimer Krankenhaus
+- TOP 16: Fußweg Düssel
+- TOP 17: Halteverbotsschild Dreherstraße
+- TOP 18: Graffiti an öffentlichen Gebäuden und Schulen
+- TOP 19: GGS Knittkuhl
+- TOP 20: Fußweg zwischen Heckteichstraße und Kamper Weg
+- TOP 21: Gespräch DB S-Bahnhof Gerresheim
+- TOP 22: Baumpflanzungen Benderstraße/Bergische Landstraße
+- TOP 23: Toni-Kryn-Weg
+- TOP 24: Querung Eisenbahnschienen im Bereich S-Bahnhof Gerresheim
+- TOP 25: Sachstandsbericht Baugebiet Marie-Curie-Straße
+- TOP 26: Zebrastreifen Torfbruchstraße
+- TOP 27: Schulhof GGS Knittkuhl
+- TOP 28: Verwaltungsstruktur in Gerresheim-Süd
+- TOP 29: Angebote für Senioren in "Gerresheim südlich der Bahn"
+- TOP 30: Kleingartenanlage zwischen Pfeffergäßchen und Neunzigstraße
+- TOP 31: Gerresheim südlich der Bahn
+- TOP 32: Vernetzte Jugendarbeit
+- TOP 33: Aufstellung von Wertstoffcontainern
+- TOP 34: Fußweg zwischen Kamper Weg und Heckteichstraße
+- TOP 35: Transparenz Werkstattverfahren
+- TOP 36: Neues Gewerbegebiet Nach den Mauresköthen
+- TOP 37: Verkehrserschließung Lager 61/Nach den Mauresköthen
+- TOP 38: Überregionale Rohrleitungen mit Gefahrgut im Stadtbezirk 7
+- TOP 39: Verkauf des städtischen Glashüttengeländes
+- TOP 40: Planungen für den Bahnhof Gerresheim
+- TOP 41: Heyestraße
+- TOP 42: Neues Gewerbegebiet Nach den Mauresköthen
+- TOP 43: Angebote für Jugendliche in "Gerresheim südlich der Bahn"
+- TOP 44: Stand der Planung für die Unterführung am Gerresheimer Bahnhof
+- TOP 45: Privilegierte Bauvorhaben im Aussenbereich
+- TOP 46: Grünschnitt Zweibrückenstraße
+- TOP 47: Restaurierung des Sowjetischen Gedenksteins auf dem Gerresheimer Waldfriedhof
+- TOP 48: Gebäude Kantine Glashütte
+- TOP 49: Widmung von Straßen
+- TOP 50: Vorabinformation über ein Beitragsverfahren
+- TOP 51: Wegweisung zur neuen Vierfach-Turnhalle
+- TOP 52: Verkehrsinseln Bergische Landstraße
+- TOP 53: Vertagung von Anträgen
+- TOP 54: Jüdischer Friedhof Quadenhofstraße
+- TOP 55: Beleuchtungserweiterung Pfeifferstraße/Sonnbornstraße
