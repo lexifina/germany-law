@@ -1,0 +1,87 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2008-04-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1329473
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1329473
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Müllentsorgung und Parkplatzsituation am HIT-Markt, Stockacher Str. 5 (2 Schreiben) (vertagt aus 03/08)
+- TOP 2.2.: Flaschencontainer Aufsesserplatz (vertagt aus 03/08)
+- TOP 2.3.: Kinderfaschingsball am 03.02.08 im Bay. Schnitzel- und Hendlhaus
+- TOP 2.4.: Kündigung der Flächen der Kleintierzuchtanlage
+- TOP 2.5.: ÖPNV-Optimierung im S-Bahnverkehr
+- TOP 2.6.: Sperrpfosten auf dem Fuß- und Radweg Berglwiesenstraße zwischen Mühlangerstr. und An der Langwieder Haide
+- TOP 2.7.: Straßenzustand Altostraße
+- TOP 2.8.: Bezuschussung für Kultur am Westkreuz e.V. für Veranstaltung zu 850-Jahrfeier München
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4.: Anträge
+- TOP 4.1.: Parkplatz Eichenauer Straße
+- TOP 4.2.: Weg von der Pretzfelder Straße zum S-Bahnhof Aubing
+- TOP 4.3.: Einhaltung der Vorgartensatzung in der Altostr. 11, Stadtsparkasse München
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Aubinger Archiv e.V.
+- TOP 6.: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörungen zu Baumfällungen
+- TOP 6.2.: Antrag auf Veranstaltung in einer städt. Grünanlage, hier: Dorffest, Grünanlage Waidachanger 7a (bei der Marienkapelle) am 01.06.08
+- TOP 6.3.: Veranstaltung auf Privatgrund, hier: Aubinger Traubenfest am 25./26.07.08 Ubostr. 5
+- TOP 6.4.: Antrag auf Erlaubnis der Nutzung des Flurstückes 1611/2 Tlfl. an der Kastelburgstr. für Zirkus Baldoni vom 24.04.-28.04.08
+- TOP 6.5.: Bauvorhaben Stockacher Str. 5, Flurstück 424/3, Umbau und Nutzungsänderung, Vorbescheid
+- TOP 6.6.: Bauprojekt Gleisdreieck Pasing
+- TOP 6.7.: Gemeinde Gräfelfing, Bebauungsplan Nr. 14a Gewerbegebiet an der Bussardstraße
+- TOP 6.8.: Errichtung einer Werbeanlage, Bodenseestr., Fl.Nr. 3537/79
+- TOP 7.: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Abriss und Neubau des Kinderhauses am Westkreuz; Aubinger Str. 59, Träger: Spiellandschaft Stadt e.V., Verwaltungsinterne Projektgenehmigung, Schr. Baureferat
+- TOP 7.2.: Baumaßnahmen der Stadtwerke München GmbH, Stichtag: 14.03.08, 25.03.08, 31.03.08, 07.04.08, 14.04.08
+- TOP 7.3.: Baufälle im 22. Stadtbezirk (v. 10.-16.03.08, v. 24.-30.03.08, 31.03.-06.04.08, 07.-13.04.08), Schr. Planungsreferat vom 26.03.08, 31.03.08, 07.04.08, 14.04.08
+- TOP 7.4.: Zweckentfremdung von Wohnraum, Neidensteiner Str. 16, Schr. Sozialreferat vom 25.03.08
+- TOP 7.5.: Verkauf eines Grundstückes, Hans-Stützle-Straße, Flst. 3508/30,/29 (je Tfl.) Aubing, Schr. Kommunalreferat vom 18.03.08
+- TOP 7.6.: Vollzug der Wassergesetze; Allgemeinverfügung für das Tauchen mit Atemgerät im Langwieder See, Schr. Referat f. Gesundheit u. Umwelt vom 31.03.08
+- TOP 7.7.: Kanalbau im Umgriff d. Bebauungsplanes Nr. 1953 Am Kiefernwald, Projektgenehmigung, Schr. Münchner Stadtentwässerung vom 14.03.08
+- TOP 7.8.: Wirtschafts-Info 03/2008, Mitteilung Referat für Arbeit und Wirtschaft vom 31.03.08
+- TOP 7.9.: Information der BA's; Neue Bädereintrittspreise und neue Preisstruktur in der Olympia-Schwimmhalle, Schr. SWVM vom 03.04.08
+- TOP 7.10.: Zweckentfremdung von Wohnraum, Ostermoosstr. 2 a, Schr. Sozialreferat vom 07.04.08
+- TOP 7.11.: Bürgerversammlung am 03.07.08 des 22. Stadtbezirkes in der Grund- und Hauptschule an der Wiesentfelser Str. 53, Schr. Schul- und Kultusreferat vom 08.04.08
+- TOP 7.12.: Entschlammung des Weihers an der Henschelstraße, Schr. Baureferat vom 11.04.08
+- TOP 8.: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Beseitigung der zwei Parkbänke und des Papierkorbs in der Grünfläche an der Kronwinkler Straße zwischen Kastelburgstraße und Aubing-Ost-Straße, Schr. Baureferat vom 10.03.08
+- TOP 8.2.: Neugestaltung von Spielplatzen in der HEIMAG-Siedlung an der Gilchinger- und Wildenrother Straße, Schr. Planungsreferat vom 17.03.08
+- TOP 8.3.: Entwicklung Gewerbegebiet an der Lochhausener Str. südlich, Schr. Planungsreferat vom 17.03.08
+- TOP 8.4.: HIT-Markt in der Stockacher Straße, Müllentsorgung und Einbruchsversuche; Verkehrssituation im Bereich Aubinger Straße / Stockacher Straße, Schr. PI 45 vom 21.01.08
+- TOP 8.5.: Wertstoffcontainerplatz Hornberger Straße / Ecke Aubing-Ost-Straße, Erneuerung bzw. Reparatur des Kleidercontainers, Schr. Kommunalreferat vom 13.03.08 BA-Antrag Nr. 02-08 / B 02785
+- TOP 8.6.: Busverkehr Pretzfelder Straße, Buslinie 143, Ein- und Ausrückfahrten von fremden Bussen, Schr. MVG vom 20.03.08
+- TOP 8.7.: Ausbau der Kastelburgstraße zwischen Kronwinkler Straße und Mariabrunner Straße, Schr. Baureferat vom 26.03.08
+- TOP 8.8.: Umbau der Entwässerungsrinne südlich des Tunnels der A 99, Schr. Baureferat vom 19.03.08
+- TOP 8.9.: Friedhof Lochhausen; Baumaßnahmen, Schr. Friedhofsverwaltung vom 28.03.08
+- TOP 8.10.: Ampelphasen an den Ampelanlagen Bodenseestr. / Ehrenbürgstr. und Bodenseestr. / Wiesentfelser Str. / Anton-Böck-Str.; Überprüfung der Verkehrssituation Einmündungen Bodenseestr. / Hans-Steinkohl-Str. und Bodenseestr. / Freihamer Weg, Schr. KVR vom 31.03.08
+- TOP 8.11.: Generalsanierung des Kinderhauses Lochhausen, Anwesen Ziegleistr. 10, Schr. Kommunalreferat vom 31.03.08
+- TOP 8.12.: Freilegung des Entwässerungsgraben an der Moospfarrerstraße sowie Wiederherstellung des ursprünglichen Zustandes, Schr. Planungsreferat vom 07.04.08
+- TOP 8.13.: Haltestellen der Buslinie 830 an der Pirolstraße und am Krähenweg, Schr. Referat f. Arbeit u. Wirtschaft vom 09.04.08
+- TOP 8.14.: Entschärfung der für Radfahrer gefährlichen Situation in der Limes- Alto- Unterführung in nördlicher Richtung, Schr. KVR vom 11.04.08
+- TOP 9.: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 01.04.08 - Zuschussnehmerdatei 2008, Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger"
+- TOP 9.2.: Umweltschutzausschuss vom 01.04.08 - Lärmsanierung an bestehenden Schienenwegen des Bundes
+- TOP 9.3.: Ausschuss für Stadtplanung und Bauordnung vom 02.04.08 - Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007", Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug - Naherholungsgebiet am Gleisdreieck Pasing dauerhaft sichern und pflegen - Umwandlungsverbot in Erhaltungssatzungsgebieten
+- TOP 9.4.: Bauausschuss vom 08.04.08 - Freiham - Öffentliche Grün- und Ausgleichsflächen, Bebauungsplan mit Grünordnung Nr. 1916 a
+- TOP 9.5.: Ausschuss für Stadtplanung und Bauordnung vom 09.04.08 - Bebauungsplan mit Grünordnung Nr. 2005 Industriestr. (zwischen Bergson- und Lidelstr.), Bergsonstr. (östlich Industriestr.), Huisler-, Hohenrechbergstr. und Mariabrunner Str. (zwischen Bergson- und Huislerstr. sowie nördlich Kastelburgstr.) - Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 10.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Infoflyer "Baumaßnahmen der SWM", 1. Halbjahr 2008 für den BA 22
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 28.05.08, Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
