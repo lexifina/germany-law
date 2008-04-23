@@ -1,0 +1,98 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2008-04-23T17:10:00+02:00
+- Ende: 2008-04-23T21:50:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=613
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=613
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 6.1: Wahl von Vertrauenspersonen als Beisitzer für den beim Amtsgericht Neukölln zu bildenden Ausschuss für die Auswahl der Schöffen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7.1: Zustimmung zur Entscheidung über den Neubau der Lahnstraße im Abschnitt zwischen Karl-Marx-Straße und Neuköllnische Brücke - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Bebauungsplan XIV-153a vom 16.01.2007 (Druckerkehre) - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 8.1: Neue Fraktion in der BVV Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Berichte der Patientenfürsprecher - beantwortet
+- TOP 9.2: Feiger Anschlag im Blumenviertel - beantwortet
+- TOP 9.3: Brandanschlag in Rudow - beantwortet
+- TOP 9.4: Denkmal zur Städtepartnerschaft auf dem Bat-Yam-Platz - beantwortet
+- TOP 9.5: Übergriffe auf öffentliche Bedienstete - beantwortet
+- TOP 9.6: Gastspiel des Berliner Ensembles - beantwortet
+- TOP 9.7: Aktion "Saubere Hände" - beantwortet
+- TOP 9.8: Eile mit Weile? - beantwortet
+- TOP 9.9: Öffentliche Stellenausschreibung für Ordnungsämter - beantwortet
+- TOP 9.10: Verprasst die AWO Spendengelder für Flughafen-Kampagne? - beantwortet
+- TOP 9.11: Sanierung der Berliner Schwimmbäder - beantwortet
+- TOP 9.12: Betreuung mit Wischmob und Pömpel - beantwortet
+- TOP 9.13: Mobbing der Schülerhilfe? - beantwortet
+- TOP 9.14: Straßenausbaubeitragsgesetz - schriftlich beantwortet
+- TOP 9.15: Einheitsschule "light" in Neukölln - schriftlich beantwortet
+- TOP 9.16: Aus für Gaslaternen in Neukölln - schriftlich beantwortet
+- TOP 9.17: Gebetsräume in Neuköllner Schulen? - schriftlich beantwortet
+- TOP 9.18: Grundständige Gymnasien in Neukölln - schriftlich beantwortet
+- TOP 10: Beschlussempfehlungen - erledigt
+- TOP 10.1: Alkoholmissbrauch eindämmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Sprechzeiten für "in Maßnahme befindliche" Erwerbslose - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Neukölln isst gesund? - Lebens(mittel)qualität verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Generationsübergreifendes Wohnen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Columbia livia forma urbana ? die gemeine Straßentaube - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Kostenloser HIV-Test für junge Erwachsene - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Politikverdrossenheit entgegenwirken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Ergebnisse der Kinderkonferenz nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Hygiene bei der Hortbetreuung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.10: Straßenbelag Kopfsteinpflaster - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Parkverbot am Britzer Damm vor ehemaligem Polizeiabschnitt 56 - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Befreiung von Rundfunkgebühren - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Estrel-Parc mit Sonnenenergie in die Sonnenallee - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Jedem Kind ein Instrument - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.15: Durchfahrtverbot für LKW über 3,5 Tonnen - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Sichere Überquerung am S-Bahnhof Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: 30 km/h im Neudecker Weg - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - erledigt
+- TOP 11.1: Niedriglöhne im Bezirksamt - beantwortet
+- TOP 11.2: Wie verloren ist Nord-Neukölln? - beantwortet
+- TOP 11.3: Lehrerfortbildung zu DDR-Unrecht in Neukölln - beantwortet
+- TOP 11.4: Kooperationsvereinbarungen zwischen Schule und Polizei - beantwortet
+- TOP 11.5: Kinderschutz - beantwortet
+- TOP 12: Große Anfragen - schriftlich - erledigt
+- TOP 12.1: Reagieren auf Häußermann-Studie "Soziale Stadtentwicklung" - schriftlich beantwortet
+- TOP 13: Anträge - erledigt
+- TOP 13.1: Babybegrüßungsdienst - "Mütter helfen Müttern" - überwiesen
+- TOP 13.2: Europas schönster Wochenmarkt vielleicht bald in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Radwegemarkierung in der Hermannstraße - überwiesen
+- TOP 13.4: Meine Deine Unsere GeschichteN - in der BVV abgelehnt
+- TOP 13.5: Pläne zur A 100 Verlängerung auch in Neukölln auslegen - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Berliner Bezirke erhalten! - 200 Jahre kommunale Selbstverwaltung - überwiesen
+- TOP 13.7: Gedenkveranstaltung zur Bücherverbrennung vor 75 Jahren - in der BVV abgelehnt
+- TOP 13.8: Therapeutische Versorgung - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Photovoltaik-Anlagen fördern - überwiesen
+- TOP 13.10: Rote Stolpersteine gegen das Vergessen - in der BVV abgelehnt
+- TOP 13.11: Gentechnikfreie Kantinen - überwiesen
+- TOP 14: Mitteilungen - erledigt
+- TOP 14.1: Müll nach Markttagen am Maybachufer - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Schulverweigerern eine Chance geben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Haltverbot Britzer Damm/Hannemannstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 15.1: Bebauungsplan XIV-91c ("Industrie-/Gewerbegebiet Gradestraße") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Bebauungsplan XIV-91d ("Industrie-/Gewerbegebiet Gradestraße") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Verkehrskonzept südwestliches Rudow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Ökologisch bauen in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Umsetzung der Energieeinsparverordnung (EnEV) kontrollieren - Klimaschutz verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Raser im Benatzkyweg?! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Neues Konzept für ehemaligen Wal-Mart-Parkplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Bebauungsplan 8-25 vom 13.07.2007 ("Waldkraiburger Straße") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Zusätzliches Abbiegen aus der rechten Mittelspur in die Grenzallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Interkulturelle Öffnung der Altenhilfe - mit Abschlussbericht zur Kenntnis genommen
