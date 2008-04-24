@@ -1,0 +1,97 @@
+# 18. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2008-04-24T16:30:00+02:00
+- Ende: 2008-04-24T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1922
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1922
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=60077
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-16 und VI-17 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Neuwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Bebauungsplan 9-25 VE („Fuststraße“) im Bezirk Treptow-Köpenick von Berlin, Ortsteil Oberschöneweide - Entwurf des vorhabenbezogenen Bebauungsplans 9-25 VE - Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan 9-25 VE - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Grenzläufte Treptow e. V. (SM 815) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Zustimmung zur Ausbauvariante für den Ausbau des Groß-Berliner Damms im Abschnitt zwischen Sterndamm und Segelfliegerdamm - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Reha-Zentrum Fürstenwalder Damm 432 gGmbH (SM 817) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Sondermittel für GEBEWO - Gemeinnützige Gesellschaft zur Betreuung Wohnungsloser und sozial Schwacher mbH (SM 831) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für PSV Olympia Berlin e. V. (SM 830) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für Adlershofer Ballspiel-Club 1908 e. V. (SM 804) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für SSV Köpenick-Oberspree e. V. (SM 821) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Regenwasserablauf unter der Bahnbrücke Bahnhofstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Straßenabfluss verstopft - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sozialdetektive sinnvoll einsetzen! - überwiesen
+- TOP 12.4: Aufstellung öffentlicher Toiletten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Benennung von Ortsteil-Ansprechpartnern im Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Bibliotheksangebote öffentlich machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Schutz vor Lärm- und Feinstaubbelastung - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Bebauungsplan XV-48 ("Am Görlitzer Bahndamm") im Bezirk Treptow-Köpenick, Ortsteil Treptow hier: Änderungsbeschluss zum BA-Beschluss Nr. 120/94 vom 06.09.1994 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Gedenktafel für Opfer des Flugzeugunglücks vom 12.12.1986 nahe Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Vereinheitlichung der statistischen Erhebungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Schutz von Reisepässen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Prioritäten für Ampeln im Bezirk beachten - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Gedenkstele für Otto Wels - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Pläne zur A 100 Verlängerung ortsnah auslegen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Einrichtung einer Tempo-30-Zone in der Grünauer Str. und der Rudower Str. in Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Tempo-30-Zone Ewaldstr./Grünbergallee - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Parken am Bürgerhaus Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Sichere Querung der Grünbergallee im Bereich des S-Bahnhofes - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Schaukästen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XVI-54 ("Schmöckwitz-Werder (Nord), OT Schmöckwitz") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.2: Benennung der Straße 562 im Ortsteil Rahnsdorf, von der Hechtstraße abgehend, teilweise in "Quappenzeile" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Nutzungs- und Gestaltungskonzept für das Strandbad Müggelsee - überwiesen
+- TOP 13.4: Besetzung des repräsentativen Gremiums zur Beratung der Auswahl der jährlich bis zu 5 Empfängerinnen/Empfänger des bezirklichen Ehrenzeichens "Bürgermedaille des Bezirkes" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Bebauungsplan 9-38 VE ("Schnellerstraße 74") hier Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.6: Beteiligung der Abteilungen des Bezirksamtes an der Organisation der Veranstaltungen zum Jubiläum "800 Jahre Köpenick" im Jahr 2009 - überwiesen
+- TOP 13.7: Bebauungsplan 9-25 VE („Fuststraße“) hier: Planreife für das Grundstück Rummelsburger Straße/Edisonstraße 35/Fuststraße 27, 49 im Bezirk Treptow-Köpenick, Ortsteil Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Bebauungsplan 9-41 ("Kohlebahnhof") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.9: Benennung der Straße 538, im Ortsteil Rahnsdorf vom Plutoweg abgehend, in "Schleiengang" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.10: Verleihung des Ehrenzeichens ''Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin'' - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Grundschule am Altglienicker Wasserturm - überwiesen
+- TOP 14.2: Grundschulversorgung in Altglienicke - überwiesen
+- TOP 14.3: Mittagessen an den Ganztagsgrundschulen - überwiesen
+- TOP 14.4: GreenBuilding-Programm - überwiesen
+- TOP 14.5: Rote Stolpersteine gegen das Vergessen - in der BVV abgelehnt
+- TOP 14.6: Standort Wendenschloßstraße 114 für Volkshochschulangebote erhalten - überwiesen
+- TOP 14.7: "Köpenicker Altstadtlauf" - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Sicherung der Kleingartenanlagen - überwiesen
+- TOP 14.9: Einfädelung Oberspreestraße zur TVO - überwiesen
+- TOP 14.10: Verkehrsberuhigung und Baumschutz am Brandenburgplatz - überwiesen
+- TOP 14.11: Benennung von öffentlichem Straßenland in Oberschöneweide - überwiesen
+- TOP 14.12: Spielstätte an der Alten Försterei - überwiesen
+- TOP 14.13: Geschwindigkeitsreduzierung Fürstenwalder Damm - überwiesen
+- TOP 14.14: Haltestelle „Waldschänke“ Buslinie 161 - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Umgang mit dem StrABG - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Tempo 30 Gosener Damm - überwiesen
+- TOP 14.17: Kurzzeitparkplätze Postamt Rinkartstraße - mit Änderungen in der BVV beschlossen
+- TOP 14.18: Beschilderung der Dahme-Mündung in Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Erweiterung Schulwegsicherung Odernheimer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Treptow-Köpenick übt Solidarität mit Tibet - ohne Änderungen in der BVV beschlossen
+- TOP 14.21: Informationsveranstaltung zur denkmalgerechten Sanierung der Scharnweberstraße in Friedrichshagen - vertagt
+- TOP 14.22: Angebote des Freiwilligenzentrums im Jobcenter veröffentlichen - im Ältestenrat zurückgezogen
+- TOP 14.23: Vorplatzgestaltung Friedenskirche Grünau - vertagt
+- TOP 14.24: Straßenbenennung Lutz-Schmidt-Straße - überwiesen
+- TOP 14.25: Erlass von Gebühren bei Straßenbenennungen - überwiesen
+- TOP 14.26: Erweiterung der Buslinie 163 zum Krankenhaus Hedwigshöhe - überwiesen
+- TOP 14.27: Böschung der Spindlersfelder Straße sichern - überwiesen
+- TOP 14.28: Tarifzone C Flughafen Schönefeld - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: GBM - "Gesellschaft zum Schutz von Bürgerrechten und Menschenwürde" - vertagt
