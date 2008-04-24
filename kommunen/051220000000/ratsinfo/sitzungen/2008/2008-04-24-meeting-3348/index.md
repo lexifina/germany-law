@@ -1,0 +1,60 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2008-04-24T16:00:00+02:00
+- Ende: 2008-04-24T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZUpAeaRg7EpYaDJTNO0SqvU
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3348
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZebqhMjMn_UYnqpnvwE83L5EspThy9q6d1ulWwyJr0VH/Oeffentliche_Niederschrift_Rat_24.04.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Protokoll
+- TOP 4: Umbesetzung von Ausschüssen und Gremien
+- TOP 5: Wahl eines Beigeordneten für das Ressort "Bürgerservice, Recht, Soziales, Sicherheit und Ordnung"
+- TOP 6: II. Änderung der Zuständigkeiten der Ausschüsse der Stadt Solingen
+- TOP 7: Wahl von Vertrauenspersonen und Stellvertretern als Beisitzer für den Schöffenwahlausschuss beim Amtsgericht Solingen
+- TOP 8: Namensgebung für das städtische Kunstmuseum (Museum Baden)
+- TOP 9: Jahresrechnung und Entlastung für das Haushaltsjahr 2006
+- TOP 10: Kooperation der Stadtwerke Solingen GmbH sowie ihrer Tochtergesellschaften
+- TOP 11: Kooperation der Stadtwerke Solingen GmbH sowie ihrer Tochtergesellschaften
+- TOP 12: Kooperation der Stadtwerke Solingen GmbH sowie ihrer Tochtergesellschaften
+- TOP 13: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 1 Gemeindeordnung NRW
+- TOP 14: Mittel- bis langfristiger Ausstieg der Stadt Solingen aus Derivatgeschäften
+- TOP 15: Umwandlung der Organisationsform der Städtischen Altenzentren in eine eigenständige Rechtsform
+- TOP 16: Offene Ganztagsschulen im Primarbereich
+- TOP 17: Abschluss eines Kooperationsvertrages it dem Land NRW zur Weiterentwicklung eines Bildungsnetzwerkes in der Bildungsregion Solingen
+- TOP 18: Bauleitplanung Birker Straße, Werwolf
+- TOP 19: Bauleitplanung Focher Straße/Dahler Straße
+- TOP 20: Bauleitplanung Siebels
+- TOP 21: Bauleitplanung Friedrich-Ebert-Straße (“Roter Esel”)
+- TOP 22: Bauleitplanung Friedrich-Ebert-Straße (“Roter Esel”)
+- TOP 23: Bauleitplanung Heukämpchenstraße/Wiesenstraße
+- TOP 24: Bauleitplanung Nümmener Feld/Hegelring
+- TOP 25: Antrag zur Abschaffung der Baumschutzsatzung
+- TOP 26: Verschiedenes
+- TOP 27: Kosten für den Karnevalszug
+- TOP 28: Kassenkredite der Stadt Solingen
+- TOP 29: Umbaukosten in Verwaltungsgebäuden im Zusammenhang mit dem
+- TOP 30: Weiterentwicklung des "Chemischen Veterinäruntersuchungsamtes Rhein Ruhr Wupper (CVUA-RRW)"
+- TOP 31: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Quartal 2008
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Protokoll
+- TOP 4: Kooperation der Stadtwerke Solingen GmbH sowie ihrer Tochtergesellschaften
+- TOP 5: Kooperation der Stadtwerke Solingen GmbH sowie ihrer Tochtergesellschaften
+- TOP 6: Verschiedenes
+- TOP 7: Geschäftsverbindungen der Stadt Solingen mit der Sinas AG
+- TOP 8: Wahl eines Beigeordneten für das Ressort "Bürgerservice, Recht, Soziales, Sicherheit und Ordnung"
+- TOP 9: Bauleitplanung Focher Straße/Dahler Straße
+- TOP 10: Bauleitplanung Siebels
+- TOP 11: Bauleitplanung Friedrich-Ebert-Straße (“Roter Esel”)
+- TOP 12: Bauleitplanung Heukämpchenstraße/Wiesenstraße
