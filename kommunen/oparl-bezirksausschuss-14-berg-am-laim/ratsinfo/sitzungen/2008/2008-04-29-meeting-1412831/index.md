@@ -1,0 +1,100 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2008-04-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1412831
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1412831
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Überseeplatz 15 ? Neubau einer Wohnanlage
+- TOP 3.1.1.2.: Friedenstraße 10 ? Antrag auf Genehmigungsverlängerung ?Choice Club?
+- TOP 3.1.1.3.: Friedenstraße 10 ? Antrag auf Genehmigungsverlängerung ?Salon Erna?
+- TOP 3.1.1.4.: Friedenstraße 10 ? Antrag auf Genehmigungsverlängerung ?Club 4?
+- TOP 3.1.1.5.: Friedenstraße 10 ? Antrag auf Genehmigungsverlängerung eines Imbisswagens
+- TOP 3.1.1.6.: Gestaltung Baumkirchner Str. / Grüner Markt
+- TOP 3.1.2.1.: Stadtteilverträgliche Umgestaltung des Innsbrucker Rings; Verkehrsbeziehungen auf dem ?Deckel? des Ringes im Bereich Ampfingstraße ordnen.
+- TOP 3.1.2.2.: Verkehrsrechtliche Anordnungen im Umfeld des Technischen Rathauses
+- TOP 3.1.2.3.: Josephsburgstraße östlich Else-Rosenfeld-Straße ? Einrichtung einer Haltverbotszone
+- TOP 3.1.2.4.: Josephsburgstraße / Schildensteinstraße ? Bürgerschreiben zur Wendeschleife
+- TOP 3.1.2.5.: Umsteigesituation an den Bushaltestellen in der Baumkirchner Straße
+- TOP 3.2.1.: Tag des Offenen Denkmals ? Einsendeschluss 31. Mai
+- TOP 3.2.2.: Schulversorgung in Berg am Laim - Grundsatzbeschluss
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Errichtung einer Kindertagesstätte mit vier Kindergartengruppen an der Grafinger Str.
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Kinder- und Familienfest am Piusplatz ? Antrag auf Gewährung eines Budgetzuschusses
+- TOP 3.6: Sonstiges
+- TOP 3.6.1.: Kinderfest am Wendebereich St.-Michael-Straße
+- TOP 3.6.2.: Kinderfest am Piusplatz
+- TOP 3.7.1.: Praschlerstraße ? Antrag auf Baumfällung
+- TOP 3.7.2.: Josef-Ritz-Weg ? Antrag auf Baumfällung
+- TOP 3.7.3.: Josephsburgstr. ? Antrag auf Baumfällung
+- TOP 3.7.4.: St.-Michael-Str. ? Antrag auf Baumfällung
+- TOP 3.7.5.: Wildenwarterstr. ? Antrag auf Baumfällung
+- TOP 3.7.6.: Loferer Straße ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben
+- TOP 4.1.1.2.: Sozialer Wohnungsbau ? Projekte in Berg am Laim
+- TOP 4.1.1.3.: Gesetz zur Erleichterung von Planungsvorhaben für Innenentwicklung der Städte "BauGB 2007" Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug Beschluss über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13 a BauGB
+- TOP 4.1.1.4.: Umwandlungsverbot in Erhaltungssatzungsgebieten
+- TOP 4.1.1.5.: Einstellung der Planfeststellungsverfahren zur Magnetschwebebahn München
+- TOP 4.1.2.1.: Linksabbiegeregelung an der Krezung Kreillerstr./Berg-am-Laim-Str./Baumkirchner Str. - Kombinierte Rotlicht- und Geschwindigkeitsüberwachung
+- TOP 4.1.2.2.: Bürgerschreiben zur Buslinie 185
+- TOP 4.1.3.1.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Erweiterung / Instandsetzung der Kindertagesstätte Berg-am-Laim-Str. 126 im 14. Stadtbezirk Berg am Laim Baukosten (Kostenobergrenze einschl.Prognose) 2.942.000 ? (davon Ersteinrichtungskosten 132.000 ?) Ausführungsgenehmigung
+- TOP 4.3.2.: Planungsdaten des Schulreferats im Schul- und Kindertagesstättenbereich
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Geplante Schließungen von Gemeinschaftsunterkünften der Regierung in München
+- TOP 4.4.2.: Zuschussnehmerdatei 2008 ? Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale
+- TOP 4.4.3.: Zuschussnehmerdatei 2008 ? Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 4.4.4.: Zuschussnehmerdatei 2008 ? Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 4.4.5.: Zuschussnehmerdatei 2008 ? Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 4.4.6.: Schulsozialarbeit an der Hauptschule am Echardinger Grünstreifen
+- TOP 4.5.1.: ESV München-Ost ? Schriftverkehr
+- TOP 4.5.2.: Bürgerkreis Berg am Laim ? Schriftverkehr
+- TOP 4.5.3.: Bürgerkreis Berg am Laim ? Verwendungsnachweis
+- TOP 4.5.4.: Kultikids ? Verwendungsnachweis
+- TOP 4.5.5.: Ali-Baba e.V. ? Sachbericht
+- TOP 4.6: Sonstige
+- TOP 4.6.1.: Gaststätte ?Zum Braumeister? - Unveränderte Fortführung
+- TOP 4.6.2.: Neuer Ansprechpartner bei der Straßenplanung im Planungs- und Baubezirk Ost
+- TOP 4.7.1.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
