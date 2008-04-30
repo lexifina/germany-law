@@ -1,0 +1,96 @@
+# 15. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2008-04-30T17:30:00+02:00
+- Ende: 2008-04-30T21:25:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1917
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1917
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=30491
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde zum Thema "Bäume in Pankow" auf Antrag der Fraktion Bündnis 90/Die Grünen - erledigt
+- TOP 1.5: Dringlichkeitsanträge - (offen)
+- TOP 1.5.1: Schändung des Jüdischen Friedhofs in Weißenseee - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.6: Mündliche Anfragen - erledigt
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.9: Durch Rücktritt bedingte Nachberufung der beratenden Mitglieder des Kinder- und Jugendhilfeausschusses der BVV für die VI. Wahlperiode - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.10: Aufstellung der Vorschlagsliste zur Wahl der ehrenamtlichen Richter beim Oberverwaltungsgericht Berlin - Brandenburg für die Geschäftsjahre 2008 -2013 - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Aufstellung der Vorschlagsliste zur Wahl der ehrenamtlichen Richter beim Verwaltungsgericht Berlin für die Geschäftsjahre 2009 - 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Beschluss über den Bebauungsplan 3-14 vom 28. September 2007 für die Grundstücke Straßburger Straße 14 / Saarbrücker Straße und Saarbrücker Straße 8, 9 im Bezirk Pankow, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.13: Zusammenlegung der Karl-Friedrich-Schinkel-Oberschule (Realschule) in der Gudvanger Straße 16 / Erich-Weinert-Straße 70 in 10439 Berlin mit der Archimedes-Oberschule (Realschule) in der Heinersdorfer Straße 200 in 13129 Berlin - überwiesen
+- TOP 1.14: Orte des Gedenkens an Freiheit und Einigkeit im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Beauftragung von Planungsarbeiten nach der Honorarordnung für Architekten und Ingenieure (HOAI) bei allen Baumaßnahmen im Be-zirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Sonnenburger Platz ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Neue Schulen für den Kiez - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Pankow, ein Ort der Vielfalt - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Bäume und Bauvorhaben - beantwortet
+- TOP 1.20: Lebensmittelhygiene in Pankow - beantwortet
+- TOP 1.21: Änderung der Bauplanung Straße Alt-Blankenburg - überwiesen
+- TOP 1.22: Straßenbäume im Bezirk - beantwortet
+- TOP 1.23: Schließung Ibsenstraße - überwiesen
+- TOP 1.24: Spielplatzplanung Sredzki-/Rykestraße (Bebauungsplan IV-29) - vertagt
+- TOP 1.25: Flagge zeigen und Wahrung der Menschenrechte in Tibet einfordern! - vertagt
+- TOP 1.25.1: Menschenrechte sind unteilbar - Flagge zeigen für Tibet - zurückgezogen
+- TOP 1.26: Zukunftstag für Jungen - überwiesen
+- TOP 1.27: Kochgelegenheiten in Jugendfreizeiteinrichtungen - überwiesen
+- TOP 1.28: Entwicklung im Ortskern von Französisch-Buchholz: Neubau der Sporthalle der 33. Grundschule - vertagt
+- TOP 1.29: Café Garbáty - Komplex ehemaliges Kulturhaus Pankow - vertagt
+- TOP 1.30: Zebrastreifen in der Neumannstraße - überwiesen
+- TOP 1.31: Süßwaren aus dem Kassenbereich der Supermärkte entfernen - vertagt
+- TOP 1.32: Eigentümer-Nutzer-Modell für die bezirklichen Immobilien - vertagt
+- TOP 1.33: Lärmschutz entlang der Stettiner Eisenbahn - vertagt
+- TOP 1.34: Beschilderung für BA-Gelände Fröbelstraße - vertagt
+- TOP 1.35: Pauschale Minderausgaben im Personalbereich - überwiesen
+- TOP 1.36: Baumbilanz für Pankow - überwiesen
+- TOP 1.37: Mehr Reitwege für Blankenfelde - vertagt
+- TOP 1.38: Neuer Standort für Weissenseer Blumenfest - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bauliche Mängel in der Kita "La Cigale" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - vertagt
+- TOP 2.2.1: Expertise von Nichtregierungsorganisationen im Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - vertagt
+- TOP 2.3: Hartz IV - Verteilung der Eingliederungsmittel - vertagt
+- TOP 2.4: Interkulturelles Fest "Gemeinsam leben in Pankow" - vertagt
+- TOP 2.5: Mehr Bürgerdemokratie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Bezirksamtsbeschlüsse und Auswirkungen für MigrantInnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Keine Einstellung von Straßenbahnlinien im Bezirk Pankow - vertagt
+- TOP 2.8: Verkehrskonzept des Bezirkes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8.1: Verkehrsberuhigungskonzept - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Aufarbeitung der Altakten in den Fachbereichen SozS, SozG, SozE im Jahr 2007 - vertagt
+- TOP 2.10: Bezirksname - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Gestaltung der Besprechungsräume Nr. 227 im Haus 6 und Nr. 411 im Haus 9 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Zusammenleben im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Kampagne zu Lebensformen entwickeln - vertagt
+- TOP 2.14: Ausstellung "Das hat's bei uns nicht gegeben. Antisemitismus in der DDR" in Pankow zeigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Fortschreibung Sportentwicklungsplan - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Verbesserung der Bedingungen des Fahrradfahrens in der Kastanienallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Umfassende Reform des jetzigen Zuweisungssystem der Senatsverwaltung für Finanzen für die bezirklichen Haushaltsmittel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Neue Mensa für die Rosa-Luxemburg-Oberschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Jobcenter-Modellprojekte - Von der Ich-AG zur Wir-AG - vertagt
+- TOP 2.20: BVV in Projektauswahl einbeziehen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Licht und Sicherheit in der Durchwegung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Charta der Vielfalt beitreten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Errichtung und Betrieb von kabellosen Zugängen in den Bürgerämtern ausschreiben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Qualitative Forderungen des Berliner Bildungsplanes an Kitas in der Personalausstattung berücksichtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Allgemeines Verfahren zum Umgang mit Straßenbäumen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Aufsuchenden Kinderschutz verstärken - Ausweitung der präventiven herausreichenden Elternarbeit - vertagt
+- TOP 2.27: Schwimmhalle Pankow: Tür offenhalten - Moratorium beantragen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.28: Verringerung des Verkehrslärms in der Diesterwegstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Erhalt des Klinikums Vivantes Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Verfahrensweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Keine Unterbringung von Menschen in der Zentralen Aufnahmeeinrichtung Motardstr. 101 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.32: Bebauungsplan IV-29 für die Grundstücke Rykestraße 20, 21, Sredzkistraße 61 und Sredzkistraße 57, 59 im Bezirk Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Aufstellung einer Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 Baugesetzbuch (BauGB) für das Gebiet "Humannplatz" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Weitere Umsetzung des Lokalen Aktionsplanes Pankow "Für Demokratie und Toleranz - gegen Rechtsextremismus, Fremdenfeindlichkeit und Antisemitismus" - Abschlussbericht zur Umsetzung der Zielvereinbarung 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Teilschließung städtischer Friedhöfe gemäß Friedhofsentwicklungsplan - vertagt
+- TOP 2.36: Abschluss von Mietverträgen zur Errichtung von Photovoltaikanlagen - vertagt
+- TOP 2.37: Benennung einer privaten Erschließungsstraße - Planstraße C - im Ortsteil Französisch Buchholz in Martha-Fontane-Straße - mit Abschlussbericht zur Kenntnis genommen
