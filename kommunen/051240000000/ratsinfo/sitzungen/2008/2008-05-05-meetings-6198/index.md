@@ -1,0 +1,67 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2008-05-05T16:00:00+02:00
+- Ende: 2008-05-05T18:57:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6198
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6198
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung des Rates - Stand: 02.05.08 - 07.33 Uhr - http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00093722.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00093928.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Ablauf und Folgen der Wahl des Dezernenten für Schule, Kultur und Sport - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Beantwortung der Großen Anfrage des Stv. Christop Grüneberg und der Stv. Christa Aulenbacher zum Ablauf und Folgen der Wahl des Dezernenten für Schule, Kultur und Sport (VO/0370/08). - abschließend zur Kenntnis genommen
+- TOP 2.2: Geplante Hühnerfarm Fettenberger Weg - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Antwort der Verwaltung auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN zum Bau einer Hühnerfarm am Fettenberger Weg - abschließend zur Kenntnis genommen
+- TOP 2.2.2: ANtwort der Verwaltung auf die Große Anfrage der Fraktion BÜNDNIS90/DIE GRÜNEN zum Bau einer Hühnerfarm am Fettenberger Weg - abschließend zur Kenntnis genommen
+- TOP 2.3: Umgang mit den Ausstellungen und Exponaten des Fuhlrott-Museums - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Umgang mit den Ausstellungen und Exponaten des Fuhlrott-Museums - abschließend zur Kenntnis genommen
+- TOP 2.4: Landschaftsumlage des Landschaftsverbandes Rheinland (LVR) - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Landschaftsumlage an den Landschaftsverband Rheinland (LVR); Anfrage der Ratsgruppe DIE REPUBLIkANER vom 25.04.08, VO/0403/08 - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Ermäßigter Eintritt für Wuppertal-Pass-InhaberInnen für Theater und Konzert
+- TOP 4.2: Umbenennung der Lettow-Vorbeck-Straße in Vohwinkel
+- TOP 4.3: Resolution Keine Gebühren für Zug der Erinnerung - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.3.1: Resolution Keine Gebühren für die Ausstellung "Zug der Erinnerungen" - ungeändert beschlossen
+- TOP 4.4: Zuwendungen an Fraktionen, Gruppen und Einzelmitglieder im Rat der Stadt Wuppertal
+- TOP 4.5: Gemeindefremde Kinder in Tageseinrichtungen - in der Sache erledigt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Jahresöffnungszeit der städtischen Freibäder im April, September und Oktober
+- TOP 5.2: Verbesserung des Haushaltsergebnisses mit externer Hilfe - abgelehnt
+- TOP 6: Ortsrecht
+- TOP 6.1: 14. Änderungssatzung zur Benutzungsgebührensatzung in Übergangseinrichtungen - ungeändert beschlossen
+- TOP 6.2: Satzung über die Benutzung des Stadions am Zoo - Neufassung - ungeändert beschlossen
+- TOP 6.3: Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der Offenen Ganztagsschule im Primarbereich der Stadt Wuppertal (Elternbeitragssatzung OGS) - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan GMW 2008 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren 1110 - Samoastraße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Schulentwicklungsplanung für die weiterführenden Schulen 2007 - 2013 - ungeändert beschlossen
+- TOP 11.1.1: VO 0204/08, Schulentwicklungsplan weiterführende Schulen - abgelehnt
+- TOP 11.1.2: Änderungsantrag zu Drs. VO/0204/08 Schulentwicklungsplan für die weiterführenden Schulen 2007 - 2013 - abgelehnt
+- TOP 11.1.3: Keine Schulschließungen - abgelehnt
+- TOP 11.2: Vorzeitige endgültige Schließung der städt. Gemeinschaftsgrundschule Cronenberger Str. - ungeändert beschlossen
+- TOP 11.3: Schließung der Dependance Ronsdorf des städtischen Gymnasiums Siegesstr. (Schulnr.: 165 463) zum 31.07.2008 - ungeändert beschlossen
+- TOP 11.4: Antrag auf Genehmigung zur Errichtung bzw. Änderung des Aufbaubildungsganges " Bildung, Erziehung und Betreuung von Kindern unter drei Jahren" - ungeändert beschlossen
+- TOP 11.5: Antrag auf Genehmigung zur Errichtung bzw. Änderung eines Bildungsganges am Berufskolleg Kohlstr. - ungeändert beschlossen
+- TOP 11.6: Einrichtung der Wuppertaler Kinder- und Jugenduniversität - ungeändert beschlossen
+- TOP 11.7: Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen den Städten Remscheid und Wuppertal zur Übernahme der Verwaltung der Wohnungsbau- und Arbeitgeberdarlehen der Stadt Remscheid durch die Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.8: Erlass einer neuen Rechnungsprüfungsordnung und einer neuen Geschäftsanweisung für die örtliche Rechnungsprüfung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.9: Ergebnisse der Kommission "Für eine Kultur des Erinnerns" - ungeändert beschlossen
+- TOP 11.9.1: Umbenennung der Lettow-Vorbeck-Straße - erledigt durch Beschluss zu einem anderen TOP
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Umbesetzung im Jugendhilfeausschuss und Ausschuss für Soziales, Gesundheit und Familie - ungeändert beschlossen
+- TOP 12.2: Wahl der Vertrauenspersonen als Beisitzer/innen des Schöffenwahlausschusses - geändert beschlossen
+- TOP 12.3: Entsendung von Delegierten als Vertreter der Stadt Wuppertal in die Wupperverbandsversammlung - geändert beschlossen
+- TOP 12.4: Umbesetzung von Gremien - vertagen
