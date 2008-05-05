@@ -1,0 +1,59 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2008-05-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1307392
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1307392
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Parksituation im Bereich der Alpenveilchenstr. / Klematisstr.
+- TOP 1.2.: Lagerung von Aushubmaterial an der Blumenauer Str.
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte
+- TOP 3.1.: UA Kinder/Schule/Sport
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 6.1.: Gemeinde Gräfelfing, Bebauungsplan Nr. 14a Gewerbegebiet an der Bussardstraße (Referat für Stadtplanung und Bauordnung, 09.04.08)
+- TOP 6.2.: Veranstaltungen sowie Sondernutzungen auf öffentlichem Verkehrsgrund, neue Veranstaltungsrichtlinien (Kreisverwaltungsreferat, 08.02.08) (vertagt aus 02/08)
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest Neufriedenheimer Straße am 05.07.2008 (Kreisverwaltungsreferat, 21.04.08)
+- TOP 6.4.: Veranstaltung in einer städt. Grünanlage, hier: Zirkus Baldoni auf dem Max-Lebsche-Platz, Änderung des Veranstaltungszeitraumes (Kreisverwaltungsreferat, 23.04.08)
+- TOP 7.: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Gräfelfinger Str. 96 - 98, 1 Weide und 1 Birke
+- TOP 7.2.: Terofalstr. 27 - 43, 47 - 53, 1 Eberesche, 5 Scheinakazien und 1 Bergahorn
+- TOP 7.3.: Marchioninistr. 15, gem. Baumbestandsplänen
+- TOP 7.4.: Waldgartenstr. 75, gem. Baumbestandsplan und Freiflächengestaltungsplan Nr. 7700
+- TOP 7.5.: Wildanger 25, gem. Baumbestandsplan Nr. 6159
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Information der Bezirksausschüsse; Neue Bädereintrittspreise und neue Preisstruktur in der Olympia-Schwimmhalle (SWM, 03.04.08)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, Waldgartenstr. 75 (Sozialreferat, 15.04.08)
+- TOP 8.3.: Münchner Sommer SpielAktion 2008 (Spielen in der Stadt, 15.04.08)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Beleuchtung Ecke Eichenstraße / Am Sommerfeld (Baureferat, 08.04.08)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.04.2008: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007 ", Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug (vertagt)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.04.2008: Umwandlungsverbot in Erhaltungssatzungsgebieten
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.04.2008: Zuschussnehmerdatei 2008, Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale
+- TOP 12.4.: Beschluss des Schulausschusses vom 02.04.2008: Neubau von 3 Kindertagesstätten in Systembauweise Serie 2: Errichtung einer Kooperationseinrichtung mit 2 Kindergarten- und 3 Krippengruppen am Stiftsbogen I (Kosten 2.862.000,- ?) Errichtung einer Kindertagesstätte mit 3 Kindergartengruppen und 2 Hortgruppen am Stiftsbogen II (Kosten 3.018.000,- ?, jeweils Ausführungsgenehmigung)
+- TOP 12.5.: Beschluss des Schulausschusses vom 02.04.2008: Abriss und Neubau einer Kindertageseinrichtung mit 6 Gruppen Senftenauerstr. 25 (Ausführungsgenehmigung, Kosten 3.638.000,- ?)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.04.2008: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München (vertagt)
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
