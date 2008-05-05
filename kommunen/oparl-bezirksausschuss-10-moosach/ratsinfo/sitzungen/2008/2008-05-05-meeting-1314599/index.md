@@ -1,0 +1,60 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2008-05-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1314599
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1314599
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Halteverbot Ehrenbreitsteiner - / Pelkovenstraße
+- TOP 2.2.: Situation Meggendorfer- / Pelkovenstraße
+- TOP 2.3.: Zugang zu den Containern am Chemnitzer Platz
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Wiedereröffnung Bewohnertreff Karlingerstraße
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Umbau Knoten Allacher Straße / Wintrichring
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Pläne Schragenhofstraße
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Ausbau der Gärtner-, Dürr-, Messerschmitt-, Dessauer- und Hans-Bunte-Straße - <div>nach Antrag</div>
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.3: Anträge der ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 10 Moosach Umstufung einer Teilstrecke des Weiherweges - <div>nach Antrag</div>
+- TOP 6.: Anhörungen
+- TOP 6.1.: Entwicklungsplanung Olympiapark 2018
+- TOP 6.2.: Anfahrtszone Kindergarten Dillinger Straße
+- TOP 6.3.: Errichtung eines Brunnens im Bereich des Platzes Bauberger- / Dachauer- / Pelkovenstraße; Erstellung eines Wasserbassins vor dem Pelkovenschlössl
+- TOP 6.4.: Entwurf zum KulturGeschichtsPfad Moosach
+- TOP 6.5.: Parkregelung Dillinger Straße
+- TOP 6.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7.: Neue Richtlinien für Veranstaltungen und Sondernutzungen auf öffentlichem Verkehrsgrund
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Höhere Priorität für die bauliche Erstellung der Haylerstraße zwischen Dachauer Straße und Josef-Knogler-Straße (voraussichtlicher Baubeginn 2010)
+- TOP 7.2.: Prüfung möglicher Standorte für einen Wochenmarkt im Quartierszentrum Moosach
+- TOP 7.3.: Freigabe des Verbindungsweges von der Ernst-Platz-Straße zur Allacher Straße auch für Radfahrer (wird entsprechend beschildert)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Baumaßnahmen der Stadtwerke
+- TOP 8.3.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 8.4.: Ablauf von Bürgerversammlungen; Übersetzung in Gebärdensprache
+- TOP 8.5.: Pächterwechsel "Alter Wirt", Dachauer Straße 274
+- TOP 8.6.: Umbau des Knotens Allacher Straße / Wintrichring
+- TOP 8.7.: Information über das Betriebskonzept der U3/U6 während der Arbeiten im Stellwerk Implerstraße
+- TOP 8.8.: Neue Bädereintrittspreise und neue Preisstruktur in der Olympia-Schwimmhalle
+- TOP 8.9.: Tag des offenen Denkmals
+- TOP 8.10.: Straßenverbindung Angerlohstraße - Ludwigsfelder Straße - Krauss-Maffei
+- TOP 8.11.: nicht öffentlich
+- TOP 8.12.: Kurzstreckentarif für Kinder (Schreiben des BA 20 Hadern)
+- TOP 4: Anträge
