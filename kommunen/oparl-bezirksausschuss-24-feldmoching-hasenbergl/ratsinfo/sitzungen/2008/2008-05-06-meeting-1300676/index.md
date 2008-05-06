@@ -1,0 +1,53 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2008-05-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1300676
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1300676
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Konstituierende Sitzung
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anträge
+- TOP 3.1.: Bahnübergang Bahnhof Fasanerie - <div>vertagt</div>
+- TOP 3.2.: Unzumutbarer Buslärm im Bereich Weitl.-/Ittlinger Straße - <div>vertagt</div>
+- TOP 3.3.: Einwände zum möglichen Ausbau der Bahnstrecke S1 - <div>vertagt</div>
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Sommerfest, Grünanlage Stösserstraße am 11.07.2008 - <div>Zustimmung, einstimmig</div>
+- TOP 5.2.: Standort für Errichtung eines Gymnasiums im Münchner Norden - <div>Zustimmung, einstimmig</div>
+- TOP 5.3.: Verkauf einer städtischen Immoblie FlurNr.: 1854/1, 1989; Gemarkung Feldmoching, Müllritterstraße - <div>Zustimmung, einstimmig</div>
+- TOP 5.4.: Bauleitplanung Knorr-Bremse - <div>vertagt</div>
+- TOP 5.5.: Kinderfest auf dem Walter-Sedlmayr-Platz am 14.06.2008 - <div>Zustimmung, einstimmig</div>
+- TOP 5.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Bei der Umsetzung des Bebauungsplanes Nr. 1763 j, Grohmann-/Aschenbrenner-/Paulkestraße sollen für die wegfallenden Parkplätze preisgünstige Ersatzparkplätze geschaffen werden. (BA-Antrag Nr. 2629 vom 04.12.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Errichtung der gymnasialen Oberstufe an der Städt. Willy-Brandt-Gesamtschule (BA-Antrag Nr. 2032 vom 17.04.2007) - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Parken im Mittelstreifen der Schleißheimer Straße - <div>zur Kenntnis genommen</div>
+- TOP 6.4.: Schallschutz im 24. Stadtbezirk - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Zweckentfremdung von Wohnraum - <div>zur Kenntnis genommen</div>
+- TOP 6.6.: Vollzug der Baumschutzverordnung: Barbinger Weg - <div>zur Kenntnis genommen</div>
+- TOP 6.7.: Verkehrsrechtliche Anordnung: Haltebereich für einen Streetworkerbus in der Weitlstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.8.: Meldelisten Baumaßnahmen - <div>zur Kenntnis genommen</div>
+- TOP 6.9.: Meldelisten Baumfällungen - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Baumaßnahmen der Stadtwerke - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/33 Schleißheimer Straße (östlich), bestehendes BMW Forschungs- und Innovationszentrum (BMW FIZ) (nördlich) - BMW FIZ Erweiterung Nord - - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Verkehrsplanung im Münchner Norden - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Umwandlungsverbot in Erhaltungssatzungsgebieten - <div>zur Kenntnis genommen</div>
+- TOP 6.15.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Realisierungswettbewerb zum Neubau der zentralen Kanalbetriebsstation der Münchner Stadtentwässerung - <div>zur Kenntnis genommen</div>
+- TOP 6.17.: Ablauf von Bürgerversammlungen; Übersetzung in Gebärdensprache - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Information der Bezirksausschüsse; Neue Bädereintrittspreise und neue Preisstruktur in der Olympia-Schwimmhalle - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Münchner Sommer SpielAktion 2008 - <div>zur Kenntnis genommen</div>
+- TOP 6.20.: Raumsituation an der GS Lerchenauer Straße 322, Schreiben des Lehrerkollegiums z. K. - <div>zur Kenntnis genommen</div>
+- TOP 7: Berichte
+- TOP 7.1.: 2. Kinder- und Jugendsprechstunde am 18.04.2008
+- TOP 8: Verschiedenes
