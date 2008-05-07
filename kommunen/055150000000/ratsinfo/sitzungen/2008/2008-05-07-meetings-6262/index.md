@@ -1,0 +1,55 @@
+# 30. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-05-07T17:37:00+02:00
+- Ende: 2008-05-07T19:51:00+02:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6262
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6262
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00264296.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmtigleides
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Ausländerbeirates
+- TOP 9: Wiederwahl des Beigeordneten Stadtdirektor Hartwig Schultheiß - mehrheitlich beschlossen
+- TOP 10: Öffentlich-rechtliche Vereinbarung Zuständigkeit Haus Heidhorn - einstimmig beschlossen
+- TOP 11: Ordnungsbehördliche Verordnungen
+- TOP 11.1: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am 1. Adventssonntag im Stadtbezirk Münster-Mitte, -Innenstadtbereich "Altstadt/Bahnhofsviertel" - für die Jahre 2008 bis 2010 - mehrheitlich abgelehnt
+- TOP 11.2: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen am 31.08.2008 und 28.12.2008 im Stadtbezirk Münster-Hiltrup und am 09.11.2008 im Stadtbezirk Münster-Nord - mehrheitlich geändert beschlossen
+- TOP 11.3: Ordnungsbehördliche Verordnung zur Aufhebung der ordnungsbehördlichen Verordnung über das Offenhalten der Verkaufsstellen am 01.06.2008 zu der Veranstaltung "6. Gremmendorfer Straßenfest" - einstimmig beschlossen
+- TOP 12: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01. August 2008 - mehrheitlich beschlossen
+- TOP 13: Erweiterung Zentrum Kinderhaus - von der Tagesordnung abgesetzt
+- TOP 14: Erneuerung des Hauptbahnhofs Münster, Bereitstellung der städtischen Finanzierungsbeteiligung - mehrheitlich beschlossen
+- TOP 15: NRW-Sportschule - zur Kenntnis genommen
+- TOP 16: Bauleitplanung
+- TOP 16.1: Stadtbezirk Münster-Mitte
+- TOP 16.1.1: Bebauungsplan Nr. 137 I, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.1.2: Bebauungsplan Nr. 137 IV, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.2: Stadtbezirk Münster-Nord
+- TOP 16.2.1: Bebauungsplan Nr. 515 - Beschluss zur Aufstellung - von der Tagesordnung abgesetzt
+- TOP 16.3: Stadtbezirk Münster-Südost
+- TOP 16.3.1: 32. Änderung des Flächennutzungsplanes der Stadt Münster für den Bereich Ratio - einstimmig beschlossen
+- TOP 16.3.2: Bebauungsplan Nr. 517 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 16.3.3: 11. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - von der Tagesordnung abgesetzt
+- TOP 16.3.4: Bebauungsplan Nr. 182, 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 17: Wahl von Beisitzerinnen und Beisitzern in den beim Amtsgericht zu bildenden Schöffenwahlausschuss - einstimmig geändert beschlossen
+- TOP 18: Anhörung zur Bestellung eines Mitgliedes des Gutachterausschusses für Grundstückswerte in der Stadt Münster
+- TOP 19: Umbesetzung in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 20: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 21: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 21.1: Eigenbeteiligung bei Fahrtendienst für Menschen mit Behinderung abschaffen - verwiesen
+- TOP 21.2: Teilhaben: Vergünstigungspass "Münster für alle" Bühnen - Bäder - Bären - verwiesen
+- TOP 21.3: "Münster als Stadt des Friedens weiter profilieren" - verwiesen
+- TOP 21.4: Schulraumbedarf in Hiltrup-West decken - verwiesen
+- TOP 21.5: Städtische Verwaltung familienfreundlich weiterentwickeln - verwiesen
+- TOP 22: Verschiedenes
