@@ -1,0 +1,55 @@
+# 28. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-05-07T17:00:00+02:00
+- Ende: 2008-05-07T00:00:00+02:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6261
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6261
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00264095.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der CDU-Fraktion Nr. A-R/0014/2008 vom 20.02.2008 "Bürgernähe stärken, einheitliche Behördenrufnummer 115 zügig vorbereiten" - einstimmig beschlossen
+- TOP 2.2: Antrag der SPD-Fraktion Nr.: A-R/0020/2008 vom 05.03.2008 "Planung für die III. Nordtangente einstellen" - einstimmig beschlossen
+- TOP 2.3: Antrag der SPD Fraktion Nr. A-R/0045/2007 "Münster für alle: Ein Instrument für jedes Kind" - einstimmig beschlossen
+- TOP 2.4: Antrag der FDP-Fraktion an den Rat Nr. A-R/0002/2008 "Chance Ganztagsschule - Positive Auswirkungen der gebundenen Ganztagsgrundschule auf den Bildungserfolg von Kindern untersuchen" - einstimmig beschlossen
+- TOP 2.5: Antrag der SPD-Fraktion an den Rat Nr. A-R/0017/2008 "Kinder fördern, Eltern entlasten: Das letzte Kindergartenjahr wird beitragsfrei" - einstimmig beschlossen
+- TOP 2.6: Antrag der Fraktion "Bündnis 90/Die Grünen/GAL" an den Rat (A-R/0011/2008) - mehrheitlich beschlossen
+- TOP 2.7: Antrag der Faktion Bündnis 90/Die Grünen/GAL an den Rat Nr. A-R/0016/2008 vom 04.03.2008 "Neuausrichtung der kommunalen Altenpolitik" - einstimmig beschlossen
+- TOP 2.8: Einrichten einer Umweltzone in Münster "Innerstädtische Feinstaubbelastung senken" - einstimmig beschlossen
+- TOP 2.9: Antrag der SPD-Fraktion an den Rat Nr. A-R 0013/2008 vom 05.02.2008 "Preisgünstigen Wohnungsbestand in Münster sichern: WGM- und GWN-Wohnungen im Stadtgebiet erwerben!" - einstimmig beschlossen
+- TOP 3: Neubau des Feuerwehrgerätehauses für den Löschzug Gievenbeck der Freiwilligen Feuerwehr Münster - einstimmig beschlossen
+- TOP 4: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Institutionelle Förderung und Projektförderung 2008) - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Wiederwahl des Beigeordneten Stadtdirektor Hartwig Schultheiß - ohne Beschlussfassung geschoben
+- TOP 6: Öffentlich-rechtliche Vereinbarung Zuständigkeit Haus Heidhorn - einstimmig beschlossen
+- TOP 7: Ordnungsbehördliche Verordnungen
+- TOP 7.1: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am 1. Adventssonntag im Stadtbezirk Münster-Mitte, -Innenstadtbereich "Altstadt/Bahnhofsviertel" - für die Jahre 2008 bis 2010 - ohne Beschlussfassung geschoben
+- TOP 7.2: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen am 31.08.2008 und 28.12.2008 im Stadtbezirk Münster-Hiltrup und am 09.11.2008 im Stadtbezirk Münster-Nord - ohne Beschlussfassung geschoben
+- TOP 7.3: Ordnungsbehördliche Verordnung zur Aufhebung der ordnungsbehördlichen Verordnung über das Offenhalten der Verkaufsstellen am 01.06.2008 zu der Veranstaltung "6. Gremmendorfer Straßenfest" - einstimmig beschlossen
+- TOP 8: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01. August 2008 - ohne Beschlussfassung geschoben
+- TOP 9: Erweiterung Zentrum Kinderhaus - von der Tagesordnung abgesetzt
+- TOP 10: Erneuerung des Hauptbahnhofs Münster, Bereitstellung der städtischen Finanzierungsbeteiligung - einstimmig beschlossen
+- TOP 11: NRW-Sportschule - ohne Beschlussfassung geschoben
+- TOP 12: Bauleitplanung
+- TOP 12.1: Stadtbezirk Hiltrup
+- TOP 12.1.1: Bebauungsplan Nr. 137 I, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 12.1.2: Bebauungsplan Nr. 137 IV, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 12.2: Stadtbezirk Nord
+- TOP 12.2.1: Bebauungsplan Nr. 515 - Beschluss zur Aufstellung - von der Tagesordnung abgesetzt
+- TOP 12.3: Stadtbezirk Südost
+- TOP 12.3.1: 32. Änderung des Flächennutzungsplanes der Stadt Münster für den Bereich Ratio - einstimmig beschlossen
+- TOP 12.3.2: Bebauungsplan Nr. 517 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 12.3.3: 11. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - von der Tagesordnung abgesetzt
+- TOP 12.3.4: Bebauungsplan Nr. 182, 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 13: Wahl von Beisitzerinnen und Beisitzern in den beim Amtsgericht zu bildenden Schöffenwahlausschuss - einstimmig geändert beschlossen
+- TOP 14: Anhörung zur Bestellung eines Mitgliedes des Gutachterausschusses für Grundstückswerte in der Stadt Münster
+- TOP 15: Umbesetzung in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 16: Verschiedenes
