@@ -1,0 +1,66 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2008-05-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1346984
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1346984
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Dachbegrünung Gollierstr. 86
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Freischankfläche Kazmairstr. 79
+- TOP 4.2.: Freischankfläche Landsberger Str. 15
+- TOP 4.3.: Aufstellung von Verkaufseinrichtungen auf öffentlichem Grund Warenstellage Westendstr. 87
+- TOP 5: Anhörungen
+- TOP 5.1.: Instandsetzung von Pflasterstraßen im Bezirksausschuss Schwanthalerhöh Stellungnahme bis 09.05.2008
+- TOP 5.2.: Straßenfest Bergmannstraße am 31.05.2008
+- TOP 5.3.: Straßenfest Gollierstraße am 07.06.2008
+- TOP 5.4.: Straßenfest Westendstraße am 07.06.2008
+- TOP 5.5.: Errichtung einer Werbeanlage Landsberger Str. 3
+- TOP 5.6.: Leistungsprogramm 2009 der MVG Fahrplanwechsel Dezember 2008
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: BPlan mit GrünO Nr. 1819b ehem. Messegelände Südteil Innere Erschließung - Messe Südteil
+- TOP 6.1.2.: Neubau und Sanierung Kinderhaus St. Rupert Kazmairstr. 66 z.K.
+- TOP 6.1.3.: Max-Friedlaender-Bogen, Bauabschnitt 2 - West
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Hauptschule Ridlerstraße Aufnahmekapazität
+- TOP 6.2.2.: Kinderkrippe Ridler Minis Vorstellung neues Konzept
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Bürgerinnen und Bürger gestalten ihre Stadt "Verkehrskonzept Westend"
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 7: Erledigungen
+- TOP 7.1.: Anfrage bzgl. der unzureichenden Absicherung der Baustelle und Lagerung von Unrat auf dem Grundstück Schwanthalerstr. 168
+- TOP 7.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.: Thersienhöhe WA 5 Stellplatznachweis in der Tiefgarage der Alten Messe 02/08-T3
+- TOP 7.4.: Carlamaria-Heim-Str. 3, 5 und August-Kühn-Str. 10 Anfrage bzgl. der Errichtung von überdachten Fahrradständern
+- TOP 7.5.: PSA Standort Ridlerstr. 28
+- TOP 8: Anträge
+- TOP 8.1.: Öffentliche Förderung für das Zentrum für kindliche Mehrsprachigkeit e.V. (ZKM e.V.)
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Meldeliste 31.03. - 06.04.2008 Erstantrag a) Barthstr. 17
+- TOP 9.2.: Baumaßnahmen der SWM Stichtag 14.04.2008
+- TOP 9.3.: Meldeliste 14.04. - 20.04.2008 Änderungsverfahren a) Phillipp-Loewenfeld-Str. b) Gollierstraße 35
+- TOP 9.4.: Meldeliste 21.04. - 27.04.2008 Erstantragsverfahren a) Bergmannstr. 13
+- TOP 9.5.: Meldeliste Änderungsverfahren 21.04. - 27.04.08 a) Westendstr. 17 b) Guldeinstr. 26
+- TOP 10: Verschiedenes
+- TOP 10.1.: Infos zur Nutzung des Servicezentrums Theresienwiese durch das BRK; Teilweise Absperrung der Thersienwiese während der Auf- und Abbauzeiten zum Oktoberfest 2008
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Protokoll 04/08
+- TOP 11.2.: Unveränderte Fortführung von Gaststätten Westendstr. 136
+- TOP 11.3.: Unveränderte Fortführung von Gaststätten Schnaderböckstr. 6
+- TOP 11.4.: Unveränderte Fortführung von Gaststätten Trappentreustr. 2
+- TOP 11.5.: Filmaufnahmen auf öffentlichem Grund Schießstättstr. 10, 12 Donnersberger Brücke, Westseite
+- TOP 11.6.: Info der SWM Neue Bädereintrittspreise und Preisstruktur in der Olympia-Schwimmhall
+- TOP 11.7.: Sicherung der Biotop- und Landschaftspflege in der LH München VorlagenNr. 02-08/V11878
+- TOP 11.8.: Unveränderte Fortführung von Gaststätten Trappentreustr. 33
