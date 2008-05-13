@@ -1,0 +1,7 @@
+# TOP 8: Berichte und Mitteilungen
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Barmen (2008-05-13)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/37452
+- Ergebnis: Kenntnis genommen
