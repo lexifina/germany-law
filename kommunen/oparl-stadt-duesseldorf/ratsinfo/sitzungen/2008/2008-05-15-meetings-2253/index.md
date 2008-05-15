@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-05-15T14:00:00+02:00
+- Ende: 2008-05-15T17:43:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2253
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2253
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167112.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167112.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167112.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Anfragen - zur Kenntnis genommen
+- TOP 5: Anfr. CDU: Stiftungswesen - beantwortet
+- TOP 6: Anfr. CDU: Mehr-Generationen-Flächen - beantwortet
+- TOP 7: Anfr. Rh. Conzen: Drehort Düsseldorf - beantwortet
+- TOP 8: Anfrage Bü90/Grü: Unterbringung von Flüchtlingen - beantwortet
+- TOP 9: Anfrage Bü90/Grü: Elbsee - schriftlich beantwortet
+- TOP 10: Anfr. Rh L`burg: Leiharbeit bei der Stadt Düsseldorf - schriftlich beantwortet
+- TOP 11: Anfr. Rfr. Kahl: Sachstand Kiefernstraße - schriftlich beantwortet
+- TOP 12: Anfr. Rfr. Kahl: Verfolgte Stadtverordnete - schriftlich beantwortet
+- TOP 13: Anträge - zur Kenntnis genommen
+- TOP 14: Interfr. Antrag: Katastrophenhilfe - einstimmig beschlossen
+- TOP 15: Antrag Bü90/Grü: Resolution zu Menschenrechte in China - mehrheitlich abgelehnt
+- TOP 16: ÄA LL: Resolution „Menschenrechte in China - mehrheitlich abgelehnt
+- TOP 17: Antr. SPD: Stadtteilschwimmbad Gerresheim-Süd - mehrheitlich abgelehnt
+- TOP 18: Kämmererliste - mehrheitlich beschlossen
+- TOP 19: Jahresabschluss 2007 SSK - mehrheitlich beschlossen
+- TOP 20: Änderungsantrag Bü90/Grü: Jahresabschluss SSK Düsseldorf - mehrheitlich abgelehnt
+- TOP 21: Kunstrasen Rather SV - einstimmig beschlossen
+- TOP 22: Sportpark Niedeheid Nebau 2. Kunstrasen - einstimmig beschlossen
+- TOP 23: Modernisierung der Sportanlage Fleher Straße 220d (SV Grün-Weiß-Rot e.V.) - einstimmig beschlossen
+- TOP 24: BSA Franz-Rennefeld Kunstrasen - einstimmig beschlossen
+- TOP 25: Umkleidegebäude für die Vereins- und Schulsportanlage Kikweg - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 26: Handlungskonzept "Zukunftsaufgabe Wohnen im Alter" - einstimmig beschlossen
+- TOP 27: Erg. Antrag Bü90/Grü: Wohnen im Alter - mehrheitlich abgelehnt
+- TOP 28: Erg.Antrag d. SPD-Ratsfraktion: Wohnen im Alter - mehrheitlich abgelehnt
+- TOP 29: Förderung von baulichen Maßnahmen zur Reduzierung von Barrieren im Wohnungsbestand - einstimmig beschlossen
+- TOP 30: Bauherrenvorlage für die Errichtung der Kleingartenanlage Nördlich Aderdamm (Neufassung zu Vorlage 70/21/2008) - einstimmig beschlossen
+- TOP 31: Umbesetzung von Ausschüssen u- sonstigen Gremien - zur Kenntnis genommen
+- TOP 32: Umbesetzung von Ausschüssen u. sonstigen Gremien - einstimmig beschlossen
+- TOP 33: Vertrauenspersonen Schöffenwahlausschuss - einstimmig beschlossen
+- TOP 34: AR DMT - einstimmig beschlossen
+- TOP 35: Bestellung sachverständiger Bürgerinnen und Bürger für die Teilnahme an Beratungen des Kulturausschusses über Aufgaben nach dem Denkmalschutzgesetz - einstimmig beschlossen
+- TOP 36: Wiederwahl der Schiedsfrau Brigitte Schmidt-Weber - einstimmig beschlossen
+- TOP 37: GeschO Beirat Behinderte Infovorlage - einstimmig beschlossen
