@@ -1,0 +1,107 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2008-05-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1340557
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1340557
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Begrüßung, Beschluss- / Wahlfähigkeit, Entschuldigungen
+- TOP 1.2: Bestimmung einer Sitzungsleitung, § 8 Abs. 1 BA-Geschäftsordnung
+- TOP 1.3: Beschluss über die Tagesordnung, § 8 Abs. 3 BA-Geschäftsordnung
+- TOP 1.4: Hinweise zur Stimmabgabe und zum Wahl-Procedere, § 8 Abs. 2 BA-Satzung, § 14 Abs
+- TOP 2: Wahl des BA-Vorstandes (§ 19 Abs. 1 Ba-Satzung i.V.m. § 14 Abs. 1 - 3 BA-GeschO)
+- TOP 2.1: Wahl der / des BA-Vorsitzenden
+- TOP 2.2: Vereidigung von noch nicht vereidigten BA-Mitgliedern
+- TOP 2.2: Wahl der / des 1. Stellvertreterin / Stellvertreters
+- TOP 2.3: Wahl der / des 2. Stellervertreterin / Stellvertreters
+- TOP 2.4: Beschlussfassung über die weitere Zusammensetzung des Vorstandes
+- TOP 2.5: ggf. Wahl der weiteren Vorstandsmitglieder
+- TOP 3: Bildung der Unterausschüsse (§ 22 Abs. 1-3 BA-Satzung i.V.m. § 14 Abs. 1-4 BA-Ge
+- TOP 3.1: Beschlussfassung über Anzahl, Ressortverteilung und Größe der Unterausschüsse
+- TOP 3.2: Wahl der Unterausschussvorsitzenden
+- TOP 3.4: Berufung der Unterausschussmitglieder
+- TOP 4: Berufung der Beauftragten
+- TOP 4.1: Beschlussfassung über Anzahl und Ressortverteilung der Beauftragten
+- TOP 4.2: Wahl einer/eines Kinderbeauftragten (§ 23 Abs. 1 BA-Satzung)
+- TOP 4.3: Berufung weiterer Beauftragter (offene Abstimmung)
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Malaktion Kunstwerk Hans-Mielich-Platz; Bürgerschreiben vom 14.04.2008
+- TOP 2.2.: Frage zur Sicherheit der Peter-Auzinger-Straße; Bürgerschreiben vom 22.04.08 und 23.04.08
+- TOP 2.3.: Grünanlage "Am Hohen Weg"; keine Ausweisung als Radl-Route; Abfalleimer mit Deckel; Aufstellung von Hundekottütenspendern; Straßenreinigung Rotbuchenstraße
+- TOP 2.4.: Hinweisbeschilderung zur Pfarrei Hl. Familie im U-Bahnhof Mangfallplatz; Korrespondenz der Pfarrei mit der MVG (vertagt aus der Sitzung vom 15.04.2008)
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Säbener Straße zwischen Wettersteinplatz und Schellenbergstraße, Parken entlang der "Baumnasen" in "zweiter Reihe"; Antwortschreiben des Kreisverwaltungsreferates vom 08.04.2008
+- TOP 3.1.: Parkmöglichkeit für Besucher des FC Sportfreunde München e.V. in der Tiefgarage des FC Bayern München; Empfehlung Nr. 02-08/E01000 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching - am 25.10.2007; Sitzungsvorlage Nr. 02-08/V11663; Beschluss des Sportausschusses des Stadtrates vom 15.04.2008 (SB)
+- TOP 3.2.: Fußgängerüberweg Peter-Auzinger- / Tegernseer Landstraße; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München; Sitzungsvorlagen Nr. 02-08/V 11878; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.04.08 (VB)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: 4-F-circle-Bewegungsinseln; Befürwortung seitens des Bezirksausschusses; Eignung der Standortvorschläge; Antwortschreiben des Baureferats vom 16.04.08
+- TOP 3.1.: Danke für die gute Zusammenarbeit; Schreiben des Kreisjugendringes an alle BA-Mitglieder vom 17.04.08
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Genehmigung einer Kleinst-Freischankfläche in der Waltramstraße; Beschluss des BA 18 vom 20.05.2008
+- TOP 3.1.: Erinnerungsverfahren Fliederweg und Geiselgasteigstraße; Zuleitung des Baureferats vom 02.04.08 mit der Bitte um Stellungnahme
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.2.1 Anwesen in der Bezoldstraße; Unterrichtung vom 03.04.08
+- TOP 3.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.3.1 SSW "Piccola Ambasciata da Fausto", Schönstraße 106; Mitteilung vom 28.04.08 3.5.6.3.2 Café "Imbißcafé Tierparkstraße, Tierparkstraße; Mitteilung vom 28.04.08
+- TOP 3.1.: neuer Ansprechpartner bei der Straßenplanung im Planungs- und Baubezirk Ost; Mitteilung des Baureferats -Tiefbau vom 14.04.08
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Ausstellungsprojekt "Braunauer Eisenbahnbrücke"; Konzept und Kostenkalkulation des Vereins "Freunde Giesings e.V." vom 07.01.2008 (verwiesen aus der Sitzung vom 15.01.2008)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Tag des offenen Denkmals am Sonntag, 14. September 2008; Meldebogen; Schreiben des Bayerischen Landesamtes für Denkmalpflege vom 01.04.2008
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Anwesen in der Söltlstraße; 1 Kastanie; Anhörung vom 07.04.08
+- TOP 4.2.: Anwesen in der Fromundstraße; 1 Lärche; Anhörung vom 07.04.08
+- TOP 4.3.: Anwesen in der Lindenstraße; 3 Fichten; Anhörung vom 07.04.08
+- TOP 4.4.: Anwesen in der Harlachinger Straße; 1 Birke; Anhörung vom 07.04.08
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Aufstellung einer Ruhebank im U-Bahnhof Mangfallplatz, Nordkopf; BA-Antrags-Nr. 02-08 / B 02731 vom 20.11.2007; Zwischennachricht des Referats für Arbeit und Wirtschaft vom 09.04.08
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Information der Bezirksausschüsse; neue Bädereintrittspreise und neue Preisstruktur in der Olympia-Schwimmhalle; Schreiben der SWM vom 03.04.08
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 7: Nichtöffentlicher Teil
