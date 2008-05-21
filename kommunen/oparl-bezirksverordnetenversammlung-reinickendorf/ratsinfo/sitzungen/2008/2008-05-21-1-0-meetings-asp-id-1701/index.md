@@ -1,0 +1,78 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2008-05-21T17:07:00+02:00
+- Ende: 2008-05-21T22:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1701
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1701
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=37446
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - im Ausschuss abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: ALBA Basketball AG an Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Mieterhöhungen der Gesobau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Soziale Problemgruppen in Reinickendorf - vertagt
+- TOP 5.4: Alternative Wohnformen für Ältere - überwiesen
+- TOP 5.5: Schuldnerberatung an Reinickendorfer Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Radfahrstreifen - überwiesen
+- TOP 5.7: Finanzierungskonzept für die Serenade am See 2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Änderung des Geltungsbereiches des Bebauungsplanentwurfs XX-277a für eine Teilfläche der Cité Foch ... - überwiesen
+- TOP 5.9: Verkleinerung des Geltungsbereiches des Bebauungsplanentwurfs XX-277c für eine Teilfläche der Cité Foch ... - überwiesen
+- TOP 5.10: Aufstellung des Bebauungsplanes 12-21 für eine Teilfläche der Cité Foch südlich des Packereigrabens ... - überwiesen
+- TOP 5.11: Entwurf des Bebauungsplanes 12-20 für eine Teilfläche des Grundstücks Wilhelmsruher Damm 114/126 ... - überwiesen
+- TOP 5.12: Aufstellung des Bebauungsplanes 12-22 für eine Teilfläche der Cité Foch, Grundstücksfläche Place Molière 1-4 ... - überwiesen
+- TOP 5.13: Einstellung des Bebauungsplanentwurfs XX-277b für eine Teilfläche der Cité Foch ... - überwiesen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Korruptionsbekämpfung in Reinickendorf "ganz unten"? - vertagt
+- TOP 6.2: Radverkehrskonzept? - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Wahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Aufstellen der Vorschlagsliste für die Wahl der Schöffen für das Amtsgericht und das Landgericht Berlin für die Geschäftsjahre 2009 bis 2013 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Umweltzonen - für Anrainer und die Wirtschaft flexibel gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Strandbäder in Regie des Bezirks - erledigt
+- TOP 8.3: Bezirkliche Beratungs-Gremien - Aufwandsersatz - - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Beiräte im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: "Strahlende Aussichten" - Mobilfunkanlagen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Kein Braunkohlenstaub-Heizkraftwerk im MV! - vertagt
+- TOP 8.7: Eckpunkte für zukünftige Reinickendorfer Umwelttage - vertagt
+- TOP 8.8: MAE für Sportvereine zulassen - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: "Boys Day" in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Antisemitischer und rassistischer Stimmung auf dem Fußballplatz entgegnen - überwiesen
+- TOP 9.2: Unterstützung des Volksbegehrens "Kitakinder und Bildung von Anfang an = ein Gewinn für Berlin" - vertagt
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Beitritt der Initiative "Charta der Vielfalt" - vertagt
+- TOP 10.2: Charta der Vielfalt beitreten - vertagt
+- TOP 10.3: Antisemitischer und ausländerfeindlicher Stimmung auf dem Fußballplatz entgegnen - überwiesen
+- TOP 10.4: Charta der Vielfalt unterzeichnen - vertagt
+- TOP 10.5: Ferienangebote auf der Homepage des Bezirksamtes - überwiesen
+- TOP 10.6: Festtage der Demokratie - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Personelle und publikumswirksame Auswirkungen zum Volksentscheid im Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Ausschreibungsgestaltung - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Bezirkliche Eigenverantwortung im Facility Management stärken! - überwiesen
+- TOP 10.10: Lesepatenschaften an Reinickendorfer Grundschulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Radverkehr Tegel: Lösungsvorschlag Nr. 5 Einzelhandelsfreundliche Umgestaltung der Berliner Straße - vertagt
+- TOP 10.12: Aufklärung über die Aktenmanipulationen bei den Spendenakten im Bereich Senftleben - vertagt
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Schulhelfer - überwiesen
+- TOP 11.2: Generelles Rauch- und Alkoholverbot auf Spielplätzen - überwiesen
+- TOP 11.3: Umzug des Polizeiabschnittes 11 zum Abschnitt 14 - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Detaillierte Erfassung von Unterrichtsausfall an den Schulen - vertagt
+- TOP 11.5: Tarifzonen zum Flughafen Schönefeld ändern - vertagt
+- TOP 12: Werden leitende Beamte des Bezirks öffentlich rehabilitiert? - beantwortet
+- TOP 13: Würdigung der Drucksache Nr. 0489/XVIII durch das Rechtsamt - ohne Änderungen in der BVV beschlossen
+- TOP 14: Wundersame Altlastensanierung auf Gewobag-Gelände - beantwortet
+- TOP 14.1: ehemaliges Gelände des Gaswerks Tegel - überwiesen
+- TOP 15: Namensgebung für Partnerstadt Antony - zurückgezogen
+- TOP 16: Kulturelle Bildung für Schülerinnen und Schüler und Jugendliche - überwiesen
+- TOP 17: Solidarität mit der Bevölkerung von Tibet - zurückgezogen
