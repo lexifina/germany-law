@@ -1,0 +1,77 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2008-05-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1356859
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1356859
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Bebauungsplan mit Grünordnung Nr. 1980 Hansjakobstraße (nördlich), Roßsteinstraße (östlich), Hohenburgstraße (südlich) ? Frühzeitige Bürgerunterrichtung und Beteiligung der Träger öffentlicher Belange gemäß § 3 Abs. 1 und § 4 Abs. 2 BauGB
+- TOP 3.1.1.2.: Bebauungsplan mit Grünordnung Nr. 1980 ? Öffentliche Erörterung gemäß § 3 Abs. 1 BauGB am 28.05.08 um 19 Uhr im Pfarrsaal St. Michael (1.OG), Baumkirchner Str. 26
+- TOP 3.1.1.3.: Neumarkter Straße 19, Fl.-Nr. 148/22 ? Aufstellung von drei Werbetafeln
+- TOP 3.1.2.1.: Leistungsprogramm 2009 der MVG ? Fahrplanwechsel Dezember 2008
+- TOP 3.1.2.2.: Verkehrskonzept für die Kreuzung Kreiller-/ St.-Veit-Straße
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Ganztagsklassen an Grundschulen ? Schreiben der Bürgermeisterin
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Instandsetzung des denkmalgeschützten Wegkreuzes an der Berg-am-Laim-Straße
+- TOP 3.5.2.: Münchner SommerSpielAktion 2008 ? Anfrage über mögliche Bezuschussung
+- TOP 3.6: Sonstiges
+- TOP 3.6.1.: Antrag - Public Viewing auf dem Dach des Telekom-Hochhauses während der Fußball-EM
+- TOP 3.6.2.: Filmvorführungen auf der Veranstaltungsfläche in der Kultfabrik
+- TOP 3.7.1.: Neumarkter Straße ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk 14 ? Berg am Laim
+- TOP 4.1.1.2.: Verwendung des stadteigenen Anwesens Neumarkter Straße 47 ? Zwischennachricht
+- TOP 4.1.2.1.: Kreuzung Kreillerstr. / Berg-am-Laim-Str. / Baumkirchner Str. - Rotlichtüberwachungsanlage
+- TOP 4.1.2.2.: Keine Bahnprivatisierung gegen die Interessen der Kommunen
+- TOP 4.2.1.: Michaeliburgstraße ein Denkmal für historischen Straßenverlauf
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Modellprojekt ?Gebundene Ganztagsgrundschule? - Wissenschaftliche Begleitung durch das Staatsinstitut für Schulqualität und Bildungsforschung - Zwischennachricht
+- TOP 4.3.2.: Unterbringung der Hortgruppen während der Baumaßnahmen an der Grafinger Str. 69-71
+- TOP 4.3.3.: Schreiben des Kreisjugendrings München-Stadt
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Regsam-Fachbasis-West - Zuwendungsbescheid
+- TOP 4.5.2.: Freiräume e.V. - Kurzbericht über die Verwendung der Bezuschussung
+- TOP 4.5.3.: Bürgerkreis Berg am Laim e.V. - Verwendungsnachweis
+- TOP 4.6: Sonstige
+- TOP 4.6.1.: Mehrjahresinvestitionsprogramm für die Jahre 2008 ? 2012
+- TOP 4.6.2.: Abbruchanzeige Baumkirchner Straße
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
