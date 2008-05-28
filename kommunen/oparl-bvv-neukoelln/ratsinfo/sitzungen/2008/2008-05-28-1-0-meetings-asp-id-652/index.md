@@ -1,0 +1,85 @@
+# 17. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2008-05-28T17:00:00+02:00
+- Ende: 2008-05-28T22:45:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=652
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=652
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl einer stellvertretenden Bürgerdeputierten in den Jugendhilfeausschuss - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl der Mitglieder des Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Schrittweise Umsetzung des Friedhofsentwicklungsplanes (FEP) für die landeseigenen Friedhöfe in Berlin-Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Veränderungssperre XIV-60/18 für das Grundstück Mohriner Allee 21 im Bezirk Neukölln, Ortsteil Britz, im Geltungsbereich des Bebauungsplanentwurfes XIV-60 ("Mohriner Allee/Buckower Damm") - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Vorschlagsliste für die Wahl der Schöffen für die Jahre 2009 bis 2013 - mit Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorzeitige Beendigung eines stellvertretenden beratenden Mitgliedes im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Förderprogramm "Aktive Stadt- und Ortsteilzentren" - beantwortet
+- TOP 8.2: Sitzenbleiben abgeschafft? - beantwortet
+- TOP 8.3: Fixerspritzen auf Neuköllner Spielplatz - beantwortet
+- TOP 8.4: Nachhaltigkeit bei den Vermittlungen der Agentur für Arbeit und des Jobcenters in den 1. versicherungspflichtigen Arbeitsmarkt - schriftlich beantwortet
+- TOP 8.5: Brennöfen in der Keramikwerkstatt des Gemeinschaftshauses - beantwortet
+- TOP 8.6: Antisemitismus auf Neuköllns Fußballplätzen? - beantwortet
+- TOP 8.7: Projekt "Kids in die Clubs" - beantwortet
+- TOP 8.8: Wie lange können wir noch heizen? - beantwortet
+- TOP 8.9: 10.000 Arbeitsplätze in Neukölln - beantwortet
+- TOP 8.10: Werbeverbot für Alkohol und Zigaretten - beantwortet
+- TOP 8.11: Baumängel an Neuköllner Schulen und Sportstätten - beantwortet
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Cop4U - Ein Polizist für dich - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Im Sprachcamp zum Sprachchamp - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Klassenkampf um die Grundständigkeit? - beantwortet
+- TOP 10.2: Keine Zukunft für Kleinbetriebe am Campus Rütli - beantwortet
+- TOP 10.3: Sonstige weitere Leistungen - beantwortet
+- TOP 10.4: Sicherheit in Neuköllner Bädern - beantwortet
+- TOP 10.5: Schnelle Urteile? - beantwortet
+- TOP 11: Große Anfragen - schriftlich - erledigt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Diebstahl eines Tonbandmitschnitts der außerordentlichen Sitzung des Ausschusses für Bürgerdienste und Gesundheit vom 22. April 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Einrichtung eines Untersuchungsausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Abberufung eines Bezirksamtsmitgliedes - vertagt
+- TOP 12.4: Übertragung von öffentlichem Straßengrün an Wohnungsbaugesellschaft - überwiesen
+- TOP 12.5: Inhabergeführte Einraumeckkneipen vom Rauchverbot ausnehmen - überwiesen
+- TOP 12.6: NIC-Kontakt für Internetnutzer erleichtern - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Schausteller von Gebührenlast befreien - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Internetseiten des Gartenkulturpfades Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Flagge zeigen für Tibet - mit Änderungen in der BVV beschlossen
+- TOP 12.10: Plakate entfernen - in der BVV zurückgezogen
+- TOP 12.11: Bessere Überquerung der Fahrbahn am zweiten U-Bahnausgang Rudow - überwiesen
+- TOP 12.12: Konsequenzen aus der ELEMENT-Studie ziehen - überwiesen
+- TOP 12.13: Flagge zeigen für Tibet - in der BVV zurückgezogen
+- TOP 12.14: Anpassung des Nichtraucherschutzes in der Gastronomie - überwiesen
+- TOP 12.15: Nord-Neukölln zum QM-Gebiet erklären - mit Änderungen in der BVV beschlossen
+- TOP 12.16: Zügige Weiterentwicklung des "Konzepts Mütterkurse" - überwiesen
+- TOP 12.17: Grundwasserspiegel in Rudow - überwiesen
+- TOP 12.18: Wahrheit und Klarheit der Haushaltsplanung - überwiesen
+- TOP 12.19: Sicherheit bei Schulbussen - in der BVV abgelehnt
+- TOP 12.20: Verzicht auf W-LAN in Kinder- und Jugendeinrichtungen - überwiesen
+- TOP 12.21: Besoldung der unteren Tarifgruppen - überwiesen
+- TOP 12.22: Pflegestützpunkte - überwiesen
+- TOP 12.23: Ausstellung zum Thema "Deutsche Kolonialgeschichte" - überwiesen
+- TOP 12.24: Die Schuldenfalle - in der BVV abgelehnt
+- TOP 12.25: Kostenfreie Service-Nummer Jobcenter - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Ich geh' zur U! und du? - ohne Änderungen in der BVV beschlossen
+- TOP 12.27: "Fliegende Händler" - überwiesen
+- TOP 12.28: Busdurchfahrverbot - überwiesen
+- TOP 13: Mitteilungen - erledigt
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Sauberer Bürgersteig unter der S-Bahnbrücke Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Arabische Bibliothek - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Ampelschaltung am U-Bahnhof Karl-Marx-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Bebauungsplan XIV-157e vom 22.08.2006 mit dem Deckblatt vom 24.11.2006 - Töpchiner Dreieck - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Sozialdetektive sinnvoll einsetzen - mit Abschlussbericht zur Kenntnis genommen
