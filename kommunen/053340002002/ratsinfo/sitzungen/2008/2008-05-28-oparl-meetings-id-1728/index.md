@@ -1,0 +1,58 @@
+# öffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2008-05-28T17:00:00+02:00
+- Ende: 2008-05-28T18:20:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1728
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1728
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt am 09.04.2008; die Niederschrift über die Sitzung des Rates der Stadt wurde inzwischen übersandt.
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Über- und außerplanmäßige Aufwendungen/Auszahlungen / Verpflichtungsermächtigungen -Haushaltsjahr 2008-PSK 150 010 010 - 5318000/7318000 Beitrag zu den Kosten Büro "Regio Aachen e.V." - ungeändert beschlossen
+- TOP 4.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen -Haushaltsjahr 2008-Auftragssachkonto B 120 105 00 785 2500 -Sportpark Soers, Vorplatz Stadion - ungeändert beschlossen
+- TOP 5: 1. Wirtschaftsplan von Stadttheater und Musikdirektion Aachen 2008/20092. Vorläufiger Wirtschaftsplan von Stadttheater und Musikdirektion Aachen 2009/2010 - ungeändert beschlossen
+- TOP 6: Namensänderung der Öffentlichen Bibliothek der Stadt Aachen in Stadtbibliothek Aachen - ungeändert beschlossen
+- TOP 7: Bebauungsplan Nr. 871 - Gewerbegebiet Neuenhofstraße Süd, Teil 2 - hier: Satzungsbeschluss gemäß § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 8: IX. Änderung des Bebauungsplanes Nr. 613 - Eilendorf - Süd -hier: Satzungsbeschluss gemäß § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 9: Satzung über ein besonderes Vorkaufsrecht für den Bereich im Stadtbezirk Aachen-Haaren, Ortszentrum Haaren zwischen Alt-Haarener-, Friedenstraße und Wurm - ungeändert beschlossen
+- TOP 10: Satzung über eine Veränderungssperre für den Planbereich im Stadtbezirk Aachen-Mitte, Moltkestraße - ungeändert beschlossen
+- TOP 11: Verlängerung der Satzung über eine Veränderungssperre für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Diepenbenden - ungeändert beschlossen
+- TOP 12: Satzung über eine Veränderungssperre für den Bereich im Stadtbezirk Aachen-Mitte, An den Frauenbrüdern 1hier: erneute Beschlussfassung - ungeändert beschlossen
+- TOP 13: Bebauungsplan Nr. 887 - Eulersweg/ Soerser Weg - Änderung Nr. 101 des Flächennutzungsplanes 1980 der Stadt Aachenhier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB zum BebauungsplanÄnderungsbeschluss zum FNP - ungeändert beschlossen
+- TOP 14: Bildung eines Schulverbundeshier: KGS Alfred-von-Reumont-Schule und GGS Montessori - Schule Reumontstraße gem. § 82 Abs. 3 Schulgesetz (SchulG) - ungeändert beschlossen
+- TOP 15: Vorschlagsliste für die Wahl der ehrenamtlichen VerwaltungsrichterInnen beim Verwaltungsgericht Aachen - vertagt
+- TOP 15.1: Vorschlagsliste für die Wahl der ehrenamtlichen VerwaltungsrichterInnen beim Verwaltungsgericht Aachen - vertagt
+- TOP 16: Wahl des Ausschusses beim Amtsgericht, der die Schöffinnen und Schöffen für die Amtsperiode 2009 - 2013 aus der Vorschlagsliste wählt und der über etwaige Einsprüche gegen die Vorschlagsliste zu entscheiden hat. - ungeändert beschlossen
+- TOP 17: Wahl des Wahlausschusses für die Städteregionswahl 2009 - ungeändert beschlossen
+- TOP 18: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 18.1: Umbesetzung von Gremien;Bestellung von zwei Mitgliedern in der Veranstaltergemeinschaft für Lokalfunk in der kreisfreien Stadt Aachen e.V. - ungeändert beschlossen
+- TOP 18.2: Umbesetzung auf Vorschlag der Fraktion der CDU
+- TOP 19: Anfragen
+- TOP 20: Mitteilungen der Verwaltung
+- TOP 21: 3. Nachtrag zur Vergnügungssteuersatzung der Stadt Aachen - ungeändert beschlossen
+- TOP 22: Vorzeitige Übertragung von Aufgaben des Artenschutzes auf den Kreis Aachen - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
