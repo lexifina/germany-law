@@ -1,0 +1,99 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2008-05-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1396670
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1396670
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Lkw-Durchfahrtsverbot in der Kastelburgstraße
+- TOP 2.2.: Containerstandort Hornberger Str. / Ecke Aubing-Ost-Str.
+- TOP 2.3.: Bezuschussung für Kultur am Westkreuz e.V. für Veranstaltung zur 850-Jahrfeier München (vertagt aus Sitzung 04/08)
+- TOP 2.4.: Straßenzustand in der Kastelburgstraße
+- TOP 2.5.: Fördermöglichkeiten für Grundschule am Ravensburger Ring
+- TOP 3: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4: Anträge
+- TOP 4.1.: Pfütze S-Bahnhof Leienfelsstraße
+- TOP 4.2.: Abrechnung Sitzungsgelder
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Münchner Kinder- und Jugendfarm e.V.
+- TOP 5.2.: Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Reiten bei Freunden e.V.
+- TOP 5.3.: Entscheidung über die Projektplanung, Projektname: Mariabrunner Straße, zwischen Kastelburgstraße und ca. 75 m nördlich, Projekt-Nr.: 5376
+- TOP 6: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörung zu Baumfällungen
+- TOP 6.2.: Veranstaltung auf Privatgrund, hier: Sommerfest Kaninchenzuchtverein, Reußensteinstr. 14 am 05.-/06.07.08
+- TOP 6.3.: Herstellung der Mariabrunner Straße
+- TOP 6.4.: Bauvorhaben Stockacher Str. 5, Flurstück 424/3, Umbau und Nutzungsänderung, Vorbescheid (vertagt aus Sitzung 04/08)
+- TOP 6.5.: Gemeinde Gräfelfing, Bebauungsplan Nr. 2 Gewerbegebiet zwischen der BAB 96 und der Großhaderner Str., sowie zwischen der Pasinger Straße und dem Lochhamer Schlag
+- TOP 6.6.: Leistungsprogramm 2009 der MVG (Fahrplanwechsel Dezember 2008)
+- TOP 6.7.: Industriestr. 26; Nutzungsänderung mit geringen Umbauten: Gewerbe-Bürofläche zu Intensiv-Pflegeeinrichtung für Kinder
+- TOP 6.8.: Stockacher Str., Neubau eines Lebensmittel-Discounters, eines Lebensmittel-Vollsortimenters, eines Fachmarktes für Betten und Teppiche oder Matratzen (Gebäude Süd); Neubau eines Fachmarktes für Fahrräder (Gebäude Nord), Vorbescheid
+- TOP 6.9.: verkehrsrechtliche Anordnung, Einrichtung einer Haltverbotszone im Kurvenbereich, Wiesentfelser Straße
+- TOP 6.10.: Antrag auf Genehmigung eines Feuerwerkes am 24.05.08 um ca. 21.30 - 22.00 Uhr beim Gasthaus Deutsche Eiche, Ranertstr. 1
+- TOP 6.11.: Antrag auf Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest der Siedlervereinigung der Dornier-Eigenheimer Neuaubing in der Dierichsteinstr. 7 am 19.07.08
+- TOP 6.12.: Siedlungsschwerpunkt Freiham, Freiham Nord a) Neugestaltung des Sportlerweges
+- TOP 6.13.: b) Überplanung im Rahmen der Bebauungsplanung Freiham-Nord von Teilen der Bodenseestraße und Ehrenbürgstraße in Neuaubing
+- TOP 6.14.: c) Klärung der Baurechtssituation Ehrenbürgstr. 9
+- TOP 6.15.: d) Freiham Nord; Überplanung des Grüngürtels
+- TOP 6.16.: Zweckentfremdung von Wohnraum, Wiesentfelser Str. 13 a Erdgeschoss rechts
+- TOP 7: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Planfeststellung gem. § 18 AEG, Flächenfreisetzung des AW Neuaubing, Strecke München-Aubing, AW München Neuaubing (5508, Bahn-km, 3,300 - 3,500 und Strecke München - Herrsching i.d.B. (5541), Bahn-km 3,300 -3,800, Schr. Planungsreferat vom 22.04.08
+- TOP 7.2.: Zweckentfremdung von Wohnraum, Streitbergstr. 39/39 a, Schr. Sozialreferat vom 22.04.08
+- TOP 7.3.: Baumaßnahmen der Stadtwerke München GmbH, Stichtag: 21.04.08, 28.04.08, 05.05.08, 09.05.08, 19.05.08
+- TOP 7.4.: Mitteilung über ein Grundstücksgeschäft, hier: Verkauf Flst. 3511/22, Franz-Delonge-Str. GE 24, Schr. Kommunalreferat vom 21.04.08
+- TOP 7.5.: Mitteilung über ein Grundstücksgeschäft, hier: Verkauf Flst. 3509/23, Jakob-Baumann-Straße, Schr. Kommunalreferat vom 22.04.08
+- TOP 7.6.: Baumaßnahmen der SWM, Stromprojekt Bodenseestraße, Schr. SWM vom 24.04.08
+- TOP 7.7.: Baufälle im 22. Stadtbezirk (v. 21.-27.04.08, v. 28.04.-04.05.08, v. 05.-11.05.08, v. 12.-18.05.08), Schr. Planungsreferat vom 28.04.08, 05.05.08, 19.05.08
+- TOP 7.8.: Mitteilung über ein Grundstücksgeschäft, hier: Verkauf Flst. 3508/68, Clarita-Bernhard-Straße (GE 4), Schr. Kommunalreferat vom 24.04.08
+- TOP 7.9.: Mehrjahresinvestitionsprogramm für die Jahre 2008-2012, Schr. Stadtkämmerei vom 29.04.08
+- TOP 7.10.: Wirtschafts-Info 04/2008, Schr. Ref. f. Arbeit u. Wirtschaft vom 30.04.08
+- TOP 7.11.: Zweckentfremdung von Wohnraum, Grafrather Str. 14, Schr. Sozialreferat vom 29.04.08
+- TOP 7.12.: Radwegbeleuchtung Lochhausener Straße - Olchinger Straße, Schr. Baureferat vom 06.05.08
+- TOP 7.13.: Widmung Waidachanger, Schr. Baureferat vom 16.05.08
+- TOP 7.14.: Bescheid über die Anerkennung von Plätzen, hier: Kindertageseinrichtung Aubinger Str. 63 c, 75 Plätze für 3-Jährige bis zur Einschulung, Schr. Schul- und Kultusreferat vom 14.05.08
+- TOP 7.15.: Mitteilung über ein Grundstücksgeschäft, hier: Kauf, Am Aubinger Wasserturm, Flst. 1385/13, -15, 1418 Aubing, Schr. Kommunalreferat vom 14.05.08
+- TOP 7.16.: Unveränderte Fortführung der Schank- und Speisegaststätte "Ducale", Bodenseestr. 228, Schr. KVR vom 15.05.08
+- TOP 8: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Beleuchtung von Fußwegen
+- TOP 8.2.: Besetzung der Bezirksinspektion in der Limesstr. 1 bei Wahlen oder Bürgerentscheiden, Schr. KVR vom 28.04.08
+- TOP 8.3.: Einrichtung einer weiteren Zufahrt für das Feuerwehrgerätehaus an der Ubostr. für die Freiwillige Feuerwehr, Abt. Aubing, Schr. Branddirektion vom 05.05.08 zum BA-Antrag Nr. 1729 vom 20.12.06
+- TOP 8.4.: Kindergarten am Aubinger Wasserturm; Sicherung der Steinmauer, die den Terassenbereich vom übrigen Freiglände abgrenzt, Schr. Schul- u. Kultusreferat vom 07.05.08
+- TOP 9: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Sportausschuss vom 15.04.08 - Parkmöglichkeit für Besucher des FC Sportfreunde München e.V. in der Tiefgarage des FC Bayern München
+- TOP 9.2.: Verwaltungs- und Personalausschuss vom 09.04.08 - Ablauf von Bürgerversammlungen; Übersetzung in Gebärdensprache
+- TOP 9.3.: Vollversammlung vom 07.05.08 - Keine Bahnprivatisierung gegen die Interessen der Kommunen
+- TOP 9.4.: Vollversammlung vom 16.04.08 - Naherholungsgebiet im Gleisdreieck Pasing dauerhaft sichern und pflegen
+- TOP 9.5.: Gesundheitsausschuss, Kinder- und Jugendhilfeausschuss und Schulausschuss vom 27.05.08 - Prävention gegen Alkoholmissbrauch und andere Suchtmittel bei Jugendlichen
+- TOP 9.6.: Sozialausschuss vom 29.05.08 - Verbot der Zweckentfremdung von Wohnraum, hier: Nutzungsänderung im Anwesen Wiesentfelser Str. 68, 1 OG - Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2008-2012, Einzelplan 4 / Sozialbereich
+- TOP 9.7.: Sozialausschuss in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Schulausschusses vom 01.04.08 - Zuschussnehmerdatei 2008, Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger"
+- TOP 9.8.: Ausschuss für Stadtplanung und Bauordnung vom 28.05.08 - Sicherung der Biotop- und Landschaftspflege in der LH München - Baugebiet Schussenrieder Straße / Schubinweg, Bebauungsplan 1703 - Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007", Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2008-2012 - Mehrjahresinvestitionsprogramm für die Jahre 2008-2012
+- TOP 9.9.: Bauausschuss vom 03.06.08 - Naherholungsgebiet "Langwieder Seen", Fuß- und Radwegerschließung Route 3 (Eschenrieder Straße)
+- TOP 9.10.: Schul- und Sportausschuss vom 28.05.08 - Mehrjahresinvestitionsprogramm 2008-2012
+- TOP 9.11.: Kinder- und Jugendhilfeausschuss vom 27.05.08 - Entwurf des Mehrjahresinvestitionsprogramms 2008-2012, Einzelplan 4 / Jugendamtsbereich
+- TOP 10: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Dank für gute Zusammenarbeit, Schr. Kreisjugendring München vom 17.04.08
+- TOP 10.2.: Öffentlichkeitskampagne zur Steigerung der Sauberkeit im öffentlichen Raum "Rein. Und Sauber", Schr. Baureferat vom 23.04.08
+- TOP 10.3.: Bürgerversammlung am 03.07.08 um 19.00 Uhr in der Grund- und Hauptschule an der Reichenauestr. 3
+- TOP 10.4.: Einladung zu einem Kennenlern-Treffen mit der Nachbarschaft in den "Kastelburger Höfen", Kronwinkler Str. 27-27 n am 27.05.08 um 18.00 Uhr
+- TOP 10.5.: Landtags- und Bezirkswahl am 28.09.08; Meldung ehrenamtlicher Wahlhelfer, Schr. KVR vom 16.05.08
+- TOP 10.6.: Regionalgespräch zwischen Lokalbaukommission und den BA's, Regionalgespräch West am 30.07.08 um 17.00Uhr im Raum 614, Blumenstr. 19, Schr. Planungsreferat vom 19.05.08
+- TOP 10.7.: Standkonzert und Festzug anlässlich des Aubinger Herbstfestes am Donnerstag, den 11.09.08, Schr. Hr. Pfundstein vom 09.05.08
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am Mittwoch, den 18.06.2008, Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
