@@ -1,0 +1,7 @@
+# TOP 5: Bauleitplanung Schaberger Straße/Krahenhöher Weg
+
+- Sitzung: Bezirksvertretung Burg/Höhscheid (2008-05-29)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/25476
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/9446
