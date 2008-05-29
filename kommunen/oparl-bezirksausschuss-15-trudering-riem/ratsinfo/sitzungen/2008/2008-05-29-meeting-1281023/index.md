@@ -1,0 +1,118 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2008-05-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1281023
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1281023
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Konstituierende Sitzung
+- TOP 0: TOP 0
+- TOP 0: Allgemeines
+- TOP 0.1.: Eröffnung der Sitzung und Begrüßung; Entschuldigungen
+- TOP 0.2.: Bestimmung einer Sitzungsleiterin / eines Sitzungsleiters gemäß § 8 Abs. 1 BA-Geschäftsordnung
+- TOP 0.3.: Übergabe der Sitzungsleitung
+- TOP 0.4.: Feststellung der ordnungsgemäßen Ladung, Beschluss- und Wahlfähigkeit
+- TOP 0.5.: Änderung der vorläufigen Tagesordnung
+- TOP 0.6.: Information über den Wahlablauf gemäß § 8 Abs. 2, § 14 Abs. 2 und 3 der BA-Geschäftsordnung
+- TOP 0: Wahl des Vorstandes ( § 19 Abs. 1 BA-Geschäftsordnung )
+- TOP 0.1.: Beschluss über die Zusammensetzung des Vorstandes, Wahl des Vorstandes (§19 Abs. 1 BA-Geschäftsordnung)
+- TOP 0.2.: Wahl der / des Vorsitzenden
+- TOP 0.3.: Übergabe der Sitzungsleitung an die/den Vorsitzende/n
+- TOP 0.4.: Vereidigung noch nicht vereidigter Mitglieder
+- TOP 0.5.: Wahl der 1. Stellvertreterin / des 1. Stellvertreters
+- TOP 0.6.: Wahl der 2. Stellvertreterin / des 2. Stellvertreters
+- TOP 0.7.: Wahl eines oder zweier Beisitzerinnen / Beisitzer
+- TOP 0.8.: Wahl einer Kassiererin / eines Kassiers
+- TOP 0: Bildung der Unterausschüsse (§ 22 Abs. 1 bis 3 BA-Satzung)
+- TOP 0.1.: Beschluss über die Bildung, Anzahl und Zuständigkeit der Unterausschüsse
+- TOP 0.2.: Beschluss über die Größe und die Verteilung der Sitze in den Unterausschüssen
+- TOP 0.3.: Wahl der Unterausschussvorsitzenden und ihrer Stellvertreter/-innen
+- TOP 0.4.: Berufung der Unterausschussmitglieder gem. § 14 Abs. 4 der BA-Geschäftsordnung
+- TOP 0.5.: Berufung der stellvertretenden Unterausschussmitglieder
+- TOP 0: Wahl der/des Kinderbeauftragten (§ 23 der BA-Satzung)
+- TOP 0.1.: Wahl der/des Kinderbeauftragten und des/der Stellvertreters/-in
+- TOP 0: Bestellung von Beauftragten des Bezirksausschusses
+- TOP 0.1.: Beschluss über die Anzahl und Zuständigkeit der Beauftragten
+- TOP 0.2.: Berufung/Bestellung weiterer Beauftragter
+- TOP 0: Verschiedenes / Sonstiges
+- TOP 0.1.: nach Mitteilung des/der Vorsitzenden
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Hundehalter im Riemer Park
+- TOP 2.2.: Hundekot am Achenseeplatz (BA-Antrag Nr. 02-08 / B 02979)
+- TOP 2.3.: Wegebau auf der Grünanlage Graf-Spee-Platz - Hat die Stadt zuviel Geld? - Bitte um nochmalige Befassung -
+- TOP 2.4.: Entfernung des Verkehrszeichens 325 / 326 - Tangastraße 80 und 82
+- TOP 2.5.: Bewerbung zum Bau der Sporthalle an der Josef-Hagn-Straße (BA-Antrag Nr. 02-08 / B 02904)
+- TOP 2.6.: Wiedereinführung der dezentralen Gesundheitsuntersuchung zur Einschulung
+- TOP 2.7.: Zebrastreifen Truderinger Straße / Lehrer-Götz-Weg
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Mehr Aufmerksamkeit für das Gewerbegebiet Messestadt Ost, Antrag Nr. 02-08 / B 02911
+- TOP 3.2.: Antrag auf Errichtung eines absoluten Halteverbots im Bereich der Grundschule am Lehrer-Götz-Weg, Antrag Nr. 02-08 / B 02899
+- TOP 3.3.: Dreifachturnhalle für Trudering, Antrag Nr. 02-08 / B02806
+- TOP 3.4.: Durchfahrende Kfz in der Messestadt Riem, Antrag Nr. 02-08 / B 02387
+- TOP 3.5.: Dubioser Bodenaustausch im Grünzug Haffstraße; Antrag Nr. 02-08 / B 02915 (Zwischennachricht)
+- TOP 3.6.: Zirkustiere in Not - Zirkus "Kaiser" in Trudering bitte nicht mehr; Antrag Nr. 02-08 / B 02982
+- TOP 3.7.: Befestigung der Jugendtore auf Schulsportanlagen, Antrag Nr. 02-08 / B 02300
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 5.1.: Riemer Park und weitere Grünanlagen in Riem (Frist: 30.05.08)
+- TOP 5.2.: 4. München Triathlon am 27.07.08 (Frist: 02.06.08)
+- TOP 5.3.: Straßenfest auf dem Platz der Menschenrechte am 08.06.08 (Frist: 30.05.08)
+- TOP 5.4.: Zonenhalteverbot im Gebiet um die Helsinkistraße (Frist: 6 Wochen)
+- TOP 5.5.: Gemeinde Aschheim Bebauungsplan Gewerbegebiet Aschheim Südost, südlich St 2082, westlich der Anschlussstelle Kirchheim / Aschheim-Süd, nördlich der Eichendorffstraße (Frist: nach Sitzung)
+- TOP 5.6.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO; Hier: 15. Int. Wandertag der Wanderfreunde Edelweiß e.V. am 19.07.08 und 20.07.08
+- TOP 5.7.: Gemeinde Aschheim; Flächennutzungsplan - Änderung Nr. 22
+- TOP 5.8.: Städt. Fllst. 1408/104 Gem. Trudering Olof-Palme-Straße/Edinburghplatz, Dinner Show im Zelt
+- TOP 5.9.: Halteverbot Von-Erckert-Straße 50; Anhörung gem. § 13 der BA-Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 5.10.: Sicherheitszone vor dem Polizeidienstgebäude (PI 25) Werner-Erckert-Straße 10-12; Anhörung gem. § 13 der BA-Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 5.11.: Antrag auf Public Viewing durch den Franziskanergarten, Friedenspromenade 45
+- TOP 5.12.: 12. Sommerfest des Corvette Club Bayern (CCB) am 28.06.2008
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA K, Sch, S:
+- TOP 7.1.: Informationstreffen zum Übergang vom Kindergarten in die Schule
+- TOP 7.7.2: UA Planung:
+- TOP 7.1.: Bauvorhaben Schwarzkopfstraße 10, Flurstück 314/89, Stadtbezirk 15, Neubau eines Wohnhauses (2WE) mit Carport (Anhörung, Frist: 02.06.08)
+- TOP 7.2.: Bauvorhaben Schwanenweg 11, Flurstück 441/13, Neubau eines Einfamilienhauses mit Garage (Anhörung; Frist: 30.05.08)
+- TOP 7.3.: Bauvorhaben Plenklweberweg 2, Flurstück 55/2, Stadtbezirk 15, Neubau eines Wohn- und Geschäftshauses
+- TOP 7.7.3: UA Bau und Verkehr:
+- TOP 7.7.4: UA Allgemeines:
+- TOP 7.1.: Verwendungsnachweis / Kurzbericht zum "Großen Truderinger Neujahrskonzert"
+- TOP 7.2.: Verwendungsnachweis / Kurzbericht zur Anschaffung von 2 Jugendtoren
+- TOP 7.7.5: UA Umwelt:
+- TOP 7.7.6: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: Mitteilung über bereits durchgeführte Baumfällungen: Josef-Hagn-Straße, Kathreinweg
+- TOP 8.2.: Waldschulstraße 63
+- TOP 8.3.: St.-Augustinus-Straße 58
+- TOP 8.4.: Säntisstraße 49 - 51
+- TOP 8.5.: Möwestraße 32
+- TOP 8.6.: Riemer Straße 338
+- TOP 8.7.: Dar-es-Salaam-Straße 3
+- TOP 8.8.: Schwedensteinstraße 3
+- TOP 8.9.: Helgastraße 5
+- TOP 8.10.: Heilwigstraße 8
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine und Mitteilungen:
+- TOP 9.2.: Erinnerungsverfahren des Baureferats § 6.1 AufgrO - Westermeierstraße
+- TOP 9.3.: Öffentlichkeitskampagne zur Steigerung der Sauberkeit im öffentlichem Raum "Rein Und Sauber"
+- TOP 9.4.: Änderung der kürzlichen Mitteilung vom 12.02.08 - Neue Kindertageseinrichtung an der Marianne-Plehn-Straße 69: Wechsel vermutlich ab Mai 2008
+- TOP 9.5.: Münchner Sommer SpielAktion 2008 - Spielen in der Stadt
+- TOP 9.6.: Kreisjugendring München-Stadt - Dank für die gute Zusammenarbeit
+- TOP 9.7.: Schreiben des Sozialreferats an die neu gebildeten Bezirksausschüsse zu Händen der Kinder- und Jugendbeauftragten im BA zuzügl. Anlagen
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 14.04.08 bis 20.04.08
+- TOP 10.2.: Zuwendungsbewilligung aus dem Budget des BA 15 für das Bürgerzentrum Trudering e.V. in Höhe von 4.080,00 Euro
+- TOP 10.3.: Zweckentfremdung von Wohnraum - Anechostraße
+- TOP 10.4.: Zweckentfremdung von Wohnraum - Dorotheenstraße
+- TOP 10.5.: Anmeldung einer stationären Versammlung unter freiem Himmel (§ 14 VersammlG) am 10.05.08 auf dem Platz der Menschenrechte
+- TOP 10.6.: Bebauungsplan mit Grünordnung Nr. 2020 Messestadt Riem Grundschule an der Helsinkistraße, Zentraler Grünzug westlich, Promenade südlich, Riemer Park nördlich; Beschluss des Riem-Ausschusses vom 02.04.2008
