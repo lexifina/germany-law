@@ -1,0 +1,76 @@
+# 19. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2008-05-29T16:30:00+02:00
+- Ende: 2008-05-29T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1923
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1923
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=66628
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-18 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl von 7 Vertrauenspersonen als Beisitzer im Schöffenwahlausschuss - gewählt
+- TOP 8.2: Vorschlagsliste für die Wahl der ehrenamtlichen Schöffinnen und Schöffen für die Amtsperiode 2009-2013 - im Ältestenrat zurückgezogen
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Informationsveranstaltung zur denkmalgerechten Sanierung der Scharnweberstraße in Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Vorplatzgestaltung Friedenskirche Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: GBM - "Gesellschaft zum Schutz von Bürgerrechten und Menschenwürde" - beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Ortsverein Schmöckwitz e. V. (SM 826) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Bürgerverein Wilhelmshagen-Rahnsdorf e. V. (SM 827) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Stephanus-Stiftung (SM 828) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Sondermittel für Bürgerkomitee Plänterwald (SM 832) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Stephanus-Stiftung (SM 833) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Sondermittel für KGA Am Adlergestell e. V. (SM 835) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für SV Flatow Köpenick e. V. (SM 836) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für Kulturring in Berlin e. V. (SM 840) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Sozialdetektive sinnvoll einsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Einhaltung des Flächennutzungsplans (FNP) für Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: GreenBuilding-Programm - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Spielstätte an der Alten Försterei - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Gesunde Kinder: Sport-Gutscheine für Erstklässler! - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Grundschulversorgung in Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Grundschule am Altglienicker Wasserturm - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Fortschreibung der Schulentwicklungsplanung (SEP) für die Jahre 2008 bis 2012 - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Investitionsvorhaben Mercedes Benz - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Mahnung an Bücherverbrennung - überwiesen
+- TOP 14.3: Wartehäuschen Mahonienweg - überwiesen
+- TOP 14.4: Bürgernaher Online-Auftritt des Bezirkes - überwiesen
+- TOP 14.5: Direkte Busverbindung von Müggelheim zur Köpenicker Altstadt - überwiesen
+- TOP 14.6: Ehrengrab für Bürgermeister Gustav Borgmann - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Einrichtung einer zentralen Anlaufstelle für Touristen im künftigen Flughafen BBI - überwiesen
+- TOP 14.8: Mietspiegel - überwiesen
+- TOP 14.9: Verkehrsberuhigung des Schlichtingsheimer Weges - überwiesen
+- TOP 14.10: Monatsbericht zum Baummanagement - überwiesen
+- TOP 14.11: Variantenabwägung zur Ostanbindung des Schienenverkehrs an den Flughafen Schönefeld - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Fußgängerüberweg Müggelheim - überwiesen
+- TOP 14.13: Regenbogenflagge - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Kurzzeitparkplätze vor der Kita "Buntzelzwerge" in der Buntzelstraße - überwiesen
+- TOP 14.15: Weg zwischen Aßmannstraße und Fürstenwalder Damm für den Radverkehr freigeben - überwiesen
+- TOP 14.16: Rauchfreie Spielplätze – den Treptow-Köpenicker Kindern zuliebe - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Bessere Verkehrsanbindung für die Bewohner am Landschaftspark Johannisthal - überwiesen
+- TOP 14.18: Anordnung eines Angebotsstreifens für den Radverkehr im Fürstenwalder Damm - überwiesen
+- TOP 14.19: Restaurierung Raum 106 im Rathaus Köpenick - überwiesen
+- TOP 14.20: Haltestelle Haushoferstraße - überwiesen
+- TOP 14.21: Behindertengerechte Toilette für die Altstadt - im Ältestenrat zurückgezogen
+- TOP 14.22: Sicherheit für Radfahrer auf der Brücke nach Wernsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 14.23: Ausschilderung Kinder- und Jugendgesundheitsdienst - ohne Änderungen in der BVV beschlossen
+- TOP 14.24: Keine übereilten Grundstücksverkäufe auf dem Strandbad-Gelände - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Zukunftsperspektiven des Tourismus in Treptow-Köpenick - beantwortet
