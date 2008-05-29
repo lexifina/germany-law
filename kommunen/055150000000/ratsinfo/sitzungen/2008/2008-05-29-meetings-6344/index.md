@@ -1,0 +1,57 @@
+# 38. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-05-29T17:00:00+02:00
+- Ende: 2008-05-29T20:48:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6344
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6344
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00265143.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen
+- TOP 3.1: "Ein-Euro-Jobber im Stadtbezirk West" - zur Kenntnis genommen
+- TOP 4: Berichte
+- TOP 4.1: Besuch der Oxford-Kaserne in Gievenbeck am 08./09.04.2008 - zur Kenntnis genommen
+- TOP 4.2: Bebauungsplan Nr. 473 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 4.3: Bebauungsplan Nr. 508 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 4.4: Verkehrssicherheit an der Kreuzung Dingbängerweg / Mecklenbecker Straße - zur Kenntnis genommen
+- TOP 4.5: Bürgerradweg Hohenholter Straße - zur Kenntnis genommen
+- TOP 4.6: Bebauungsplan Nr. 516 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 4.7: Abschluss des Modellprojektes "Selbstständige Schule" - zur Kenntnis genommen
+- TOP 4.8: Baukostenzuschüsse an Mitgliedsvereine des Stadtsportbund Münster e. V. - zurückgezogen
+- TOP 5: Entscheidungen
+- TOP 5.1: Gewährung eines Zuschusses an die Theresienschule, - kath. Grundschule - - einstimmig beschlossen
+- TOP 5.2: Fahrbahnteiler im Einmündungsbereich Havixbecker Straße/Annette-von-Droste-Hülshoff-Straße - A-W/0024/2007 der CDU-Fraktion vom 27.08.2008 - einstimmig beschlossen
+- TOP 5.3: Verzicht auf die Benennung einer Stichstraße der Straße Borkenfeld - einstimmig beschlossen
+- TOP 5.4: Neubau Schulmensa Droste-Hauptschule und Augustin-Wibbelt-Schule - einstimmig beschlossen
+- TOP 6: Anhörungen
+- TOP 6.1: Standortuntersuchung für innenstadtnahe Aufstellplätze für Wohnmobil-Touristen - einstimmig beschlossen
+- TOP 6.2: 18. Änderung FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.3: Bebauungsplan Nr. 484 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 6.4: Bebauungsplan Nr.: 488: Roxel-Nord II - Havixbecker Straße / Stodtbrockweg / Nordumgehung / Brockkamp - mehrheitlich beschlossen
+- TOP 6.5: Fußgängerlichtsignalanlage Roxeler Straße in Höhe der Schmeddingstraße/Niedenstiege - einstimmig beschlossen
+- TOP 6.6: Umbau des Knotenpunktes Weseler Straße / B51 - einstimmig beschlossen
+- TOP 6.7: Zentrumserweiterung Mecklenbeck - vertagt
+- TOP 6.8: Zentrumserweiterung Nienberge
+- TOP 6.9: Auswertung des Modellprojektes "Bildung eines Jugendrates in der Stadt Münster" - einstimmig beschlossen
+- TOP 6.10: Umwandlung des Halbtagszuges mit gemeinsamen Unterricht für behinderte und nichtbehinderte Kinder an der Wartburgschule (ev. Grundschule) in einen gebundenen Ganztagszug mit gemeinsamem Unterricht zum Schuljahr 2008/2009 - einstimmig beschlossen
+- TOP 6.11: Migrationsleitbild der Stadt Münster - einstimmig beschlossen
+- TOP 7: Vorschläge und Anregungen
+- TOP 7.1: Überwachung des Durchfahrverbots "Rottkamp / Wierling" in Münster-Albachten - verwiesen
+- TOP 7.2: Landesstraße L 529, Abschnitt Nienberge/Häger - zur Kenntnis genommen
+- TOP 7.3: Reinigungsteam für den Stadtbezirk Münster-West - zur Kenntnis genommen
+- TOP 7.4: Fahrradständer an Bushaltestellen - eingebracht
+- TOP 7.5: Skaterpark Mecklenbeck - eingebracht
+- TOP 7.6: Kita Michael II - Unterstellmöglichkeit für Müll- und Recyclingtonnen - eingebracht
+- TOP 7.7: Landschaftsplan Roxel-Riedel - eingebracht
+- TOP 7.8: Bundesrechnungshof rügt Missbrauch von sog. Ein-Euro-Jobs - eingebracht
+- TOP 7.9: Sichere Wege zwischen den Studentenwohnheimen - eingebracht
+- TOP 8: Verschiedenes - zur Kenntnis genommen
