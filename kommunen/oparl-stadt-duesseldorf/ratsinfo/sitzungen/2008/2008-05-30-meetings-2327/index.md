@@ -1,0 +1,55 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-05-30T17:00:00+02:00
+- Ende: 2008-05-30T00:00:00+02:00
+- Ort: Gräulinger Straße 120, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2327
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2327
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126290.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126290.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126290.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Am Quellenbusch - Vorstellung der Grünplanung
+- TOP 4: Sonderzuschuss an den Düsseldorfer Sportclub 1899 e.V.
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Gerricusstraße 14 - 16
+- TOP 8: Wiederwahl des Schiedsmannes Klaus Heyer
+- TOP 9: Nutzung des Gerresheimer Bahnhofs
+- TOP 10: Baustopp der CO-Pipeline und Rücknahme des Enteignungsgesetzes
+- TOP 11: Restaurierung der Einfassung des Jüdischen Friedhofes an der Quadenhofstraße
+- TOP 12: CO und die Sauerstoffüberdrucktherapie (HBO) zur Rettung der Bürger von Hubbelrath
+- TOP 13: Miet-Räder in Gerresheim
+- TOP 14: BAYER-Sirenen im Stadtbezirk
+- TOP 15: Sicherung des Gerresheimer Bahnhofes
+- TOP 16: Unterstützung der I-Dötze von Hartz-IV-Empfängern
+- TOP 17: Schulsportanlage Peckhausweg als öffentliche Sportanlage ausweisen
+- TOP 18: Schulsportanlage Peckhausweg
+- TOP 19: S-Bahnhof Gerresheim
+- TOP 20: Blaue Tonne
+- TOP 21: Bunker Apostelplatz, Benderstraße
+- TOP 22: Bergische Kaserne
+- TOP 23: Einsatz von Streetworkern in Gerresheim südlich der Bahn
+- TOP 24: Nachbarschaftswohnung
+- TOP 25: Denkmalschutz für den Gerresheimer Bahnhof
+- TOP 26: Sachstandsbericht zur Pflegesituation (stationär) im SB 7
+- TOP 27: Aloys-Odenthal-Platz / Bürgerhaus
+- TOP 28: Parkraumbewirtschaftung Benderstraße
+- TOP 29: Pipelines mit Gefahrgut im Stadtbezirk 7
+- TOP 30: Denkmalschutz des Gerresheimer Bahnhofes
+- TOP 31: Wartehäuschen an der Haltestelle Morper Straße - Torfbruchstraße
+- TOP 32: Grundstück Brölweg 21
+- TOP 33: Rheinbahnhaltestelle Gerresheim Rathaus
+- TOP 34: Behindertengerechte Ausstattung des S-Bahnhofs Gerresheim
+- TOP 35: Kinder- und Jugendeinrichtungen Am Quellenbusch
+- TOP 36: Gefahrenabwehrplan zur Bayer-CO-Pipeline
+- TOP 37: Videoüberwachung am S-Bahnhof Gerresheim
+- TOP 38: Beleuchtung Grünanlage Otto-Götzen-Weg/Bruno-Recht-Weg
