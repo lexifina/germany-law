@@ -1,0 +1,127 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2008-06-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1312410
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1312410
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Benennung einer/eines Internetbeauftragten
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Schlechter Zustand der Mülleimer im Umfeld von Schloss Blutenburg und im Durchblickpark / Austausch der Abfallbehälter im Durchblickpark (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 2.2.: Planungen zum Altbau des Seniorenheims an der Agnes-Bernauer-Straße / Fischer-von-Erlach-Straße (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 2.3.: Lichteinstrahlung durch Straßenlaternen und Außenbeleuchtung der Häuser im "Österreicherviertel" (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 2.4.: Verkehrsplanung für Pasing (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 2.5.: KFZ-Umschlagplatz eines Autovermieters zwischen Beginn Alte Allee und Lützowstraße (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 2.6.: Verteilung eines Anzeigenblattes (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 2.7.: Standort des künftigen Jugendzentrums an der Schäferwiese sowie Planungsstand für die Bebauung nördlich Bahnhof Pasing (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 2.8.: Einschränkung von Gehwegen durch Hecken-Überwuchs; Rampe Nordseite Bahnhof Pasing; Handläufe bzw. Haltegriffe an Stufen von Geschäfts- und Bürogebäuden; Winterdienst (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 2.9.: Parkmöglichkeiten am Bahnhof Pasing; Verbesserungen in Bezug auf die Mitnahme von Fahrrädern (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 2.10.: Einkaufsmöglichkeiten im Bereich Alte Allee (vertagt aus der Sitzung von 06.05.2008)
+- TOP 2.11.: Baumfällungen auf dem Anwesen Lützowstraße 11 (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 2.12.: Betrieb einer Autowaschanlage in der Landsberger Straße an Sonn- und Feiertagen über den zulässigen Rahmen hinausgehend (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 2.13.: Jugendtreff Spielplatz Megerlestraße
+- TOP 2.14.: Grünanlage Bärmannstraße / Von-Frays-Straße
+- TOP 2.15.: Sperrung des Radwegs "Hermann-Hesse-Weg" aufgrund von Baumaßnahmen zur Nordumgehung Pasing
+- TOP 2.16.: Ladenzentrum Schrämel-/Menterstraße
+- TOP 2.17.: Begrünung der Bodenseestraße im Rahmen der Nordumgehung Pasing
+- TOP 2.18.: Einkaufszentrum Schrämelstraße / Menterstraße
+- TOP 2.19.: Sperrung Alte Allee und Bergsonstraße, östlich zwischen An der Langwieder Haide und Bertha-von-Suttner-Weg für den LKW-Durchgangsverkehr; Entfernung des Verkehrszeichens "Anlieger frei" von der Einfahrt zur Bergsonstraße an der neuen Kreuzung An der Langwieder Haide / Bergsonstraße westlich
+- TOP 2.20.: Verkehrsprobleme
+- TOP 2.21.: Sanierungsmaßnahme Alte Allee
+- TOP 3: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Steinerweg 5, Baumbestandsplan Nr. 08-5063 (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 3.2.: Passionistenstraße 12, 2 Linden (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 3.3.: Korfiz-Holm-Straße 28, 1 Haselnussbaum (vertagt aus der Sitzung vom 03.06.2008)
+- TOP 3.4.: Rodenstockplatz 1 b, Baumbestandsplan Nr. 08-9342 (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 3.5.: Bodenseestraße 15, Baumbestandsplan nr. 08-8854 (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 3.6.: Eugen-Papst-Straße 16, 1 Linde (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 3.7.: Fasanenstraße 8, Baumbestandsplan Nr. 08-9185
+- TOP 3.8.: Planegger Straße 89 - 99, 2 Robinien
+- TOP 3.9.: Steffanistraße 21, 1 Birke
+- TOP 3.10.: Am Stadtpark 38c, Baumbestandsplan nr. 08-11584
+- TOP 3.11.: Kaflerstraße 2, Baumbestandsplan Nr. 08-6094
+- TOP 3.12.: Oldenbourgstraße 15 - Baumbestandsplan Nr. 08-10005
+- TOP 3.3.2: Gefahrenbäume
+- TOP 4: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Fasanenstraße 8
+- TOP 6: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9: Entscheidungen
+- TOP 9.1.: Entscheidung über die Gewährung eines Zuschusses aus dem BA-Budget, hier: Antrag des Trachtenvereins D`Würmtaler-Stamm e.V. für die Veranstaltung: Aufstellen eines Maibaums mit anschließender Feier
+- TOP 2: (E) Verbesserung der Verkehrssituation in der Rathochstraße Empfehlung Nr. 02-08 / E 00890 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 23.10.2007 - <div>nach Antrag</div>
+- TOP 3: (E) Errichtung einer Fußgängerbedarfsampel oder eines Zebrastreifens in der Nusselstraße in Höhe der Josef-Lang-Straße Empfehlung Nr. 02-08 / E 00880 der Bürger- versammlung des Stadtbezirkes 21 - Pasing-Obermenzing vom 23.10.2007 - <div>nach Antrag</div>
+- TOP 3.4.: Entscheidung über die Gewährung eines Zuschusses aus dem BA-Budget, hier: Antrag des Vereins Lilalu e.V. für das Spielprogramm "Umsonst und Draußen" vom 15. bis 31.08.2008
+- TOP 3.5.: Entscheidung über die Gewährung eines Zuschusses aus dem BA-Budget, hier: Antrag des Kinderhaus Obermenzing für die Anschaffung eines Spielhäuschens und einer Vogelnestschaukel
+- TOP 3.6.: Entscheidung über die Gewährung eines Zuschusses aus dem BA-Budget; Antragsteller: Evang-Luth. Kirchengemeinde, Kindergarten der Himmelfahrtskirche Pasing für die Anschaffung von Materialien für den Kindergarten (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 3.7.: Vollzug des Bayerischen Straßen- und Wegegesetzes; Abstufung einer Teilstrecke des Pasinger Heuwegs (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 10: Anhörungen
+- TOP 10.1.: Fasanenstraße 8, Neubau einer Wohnanlage mit Tiefgarage
+- TOP 10.2.: Am Schützeneck 5, Neubau eines Büro- und Verwaltungsgebäudes mit TG
+- TOP 10.3.: Oldenbourgstraße 15, Neubau eines Doppelhauses mit Garagen
+- TOP 10.4.: Pasinger Vorwiesn vom 31.07.-05.08.08
+- TOP 10.5.: Einrichtung von Haltverboten in der Beer-Walbrunn-Straße
+- TOP 10.6.: Siedlungsschwerpunkt Freiham; Entwurf des Eckdatenbeschlusses
+- TOP 10.7.: Kaflerstraße 2, Neubau eines Büro- und Geschäftshauses (Kaflerstraße / Pasinger Bahnhofsplatz)
+- TOP 10.8.: Sommer-/Kinderfest am 12.07.2008 in der Kleingartenanlage SW 70, Maria-Eich-Straße 119
+- TOP 10.9.: Radfahrstreifen Landsberger Straße, Südseite zwischen Bäckerstraße und Anwesen Nr. 509
+- TOP 10.10.: Apfelallee, Neubau einer Doppelhaushälfte mit Garage (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 10.11.: Bauleitplanung der Gemeinde Gräfelfing, hier: Bebauungsplan Nr. 2 Gewerbegebiet zwischen der BAB 96 und der Großhaderner Straße sowie zwischen der Pasinger Straße (St 2063) und dem Lochhamer Schlag (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 10.12.: Bäckerstraße 6, Nutzungsänderung 2. OG zur Spielothek II, zusammenhängend mit Bistro und Spielothek im 1. OG (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 10.13.: Bodenseestraße 15, P 185: Neubau einer Wohnanlage (Haus 1 + 2, 32 WE), einer Tiefgarage (36 Stpl.) und einer Garage (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 10.14.: Steinerweg 5, Klinikum München-Pasing; Sanierung und Erweiterung (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 10.15.: Leistungsprogramm 2009 der MVG (Fahrplanwechsel Dezember 2008) (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 10.16.: Menterstraße 10, Neubau eines Mehrfamilienhauses (8 WE), Tektur (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 11: Anträge und Anfragen
+- TOP 11.1.: Bündnis 90 / Die Grünen: Antrag: SchulwegbegleiterInnen entsprechend dem Nürnberger Projekt "Coolrider" für die Haltestellen im Pasinger Zentrum (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 11.2.: FDP: Antrag: Eigener Radweg am Nymphenburger Kanal (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 12: Unterrichtungen
+- TOP 12.1.: Baufälle im Stadtbezirk (Listen vom 28.04.-04.05.08, v. 05.05.-11.05.08, v. 12.05.-18.05.08)
+- TOP 12.2.: Vollzug der Baumschutzverordnung, Fällungsanträge im Stadtbezirk (Listen vom 28.04.-04.05.08, v. 05.05.-11.05.08, v. 12.05.-18.05.08)
+- TOP 12.3.: Baumaßnahmen der Stadtwerke München GmbH (Aufstellungen zum 05.05.08, 09.05.08, 19.05.08)
+- TOP 12.4.: Amtsblatt Nr. 12, 13
+- TOP 12.5.: Unveränderte Fortführung von Gaststättenbetrieben - Vereinswirtschaft ESV München e.V., Haberlandstraße 6 - Schank- und Speisewirtschaft "Sidhartha" (vormals Vecchio Mulino), Zehentstadelweg 12
+- TOP 13: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Vollversammlung des Stadtrates vom 07.05.2008 - Keine Bahnprivatisierung gegen die Interessen der Kommunen
+- TOP 13.2.: Kinder- und Jugendhilfeausschuss vom 27.05.2008 - Kinderkrippenplatzgebühren senken - Entwurf des Mehrjahresinvestitionsprogramms 2008 bis 2012; Einzelplan 4 / Jugendamtsbereich
+- TOP 13.3.: Ausschuss für Stadtplanung und Bauordnung vom 28.05.2008 - Gesetzt zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"; Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug; Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB - Mehrjahresinvestitionsprogramm für die Jahre 2008 bis 2012; Gliederungsziffern 3601 Natur- und Denkmalschutz, 6100 Referat für Stadtplanung und Bauordnung, 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6130 Stadtplanung, 6150 Städtebauförderung, 6200 Wohnungsbauförderung, Wohnungsfürsorge - Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2008 bis 2012
+- TOP 13.4.: Schul- und Sportausschuss des Stadtrates vom 28.05.2008 - Mehrjahresinvestitionsprogramm 2008 bis 2012; 1. Investitionsmaßnahmen für Schulen und Kindertageseinrichtungen, 2. verfahrenstechnische Neuerungen, 3. Stellungnahmen der Bezirksausschüsse
+- TOP 13.5.: Sozialausschuss vom 29.05.2008 - Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2008 - 2012, Einzelplan 4 / Sozialbereich
+- TOP 13.6.: Bauausschuss vom 03.06.2008 - Naherholungsgebiet "Langwieder Seen" Fuß- und Radwegerschließung Route 3 (Eschenrieder Straße)
+- TOP 14: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Oberbürgermeister - Ladenzentrum Ecke Menterstraße / Schrämelstraße
+- TOP 14.2.: Direktorium - Zwischenlagerung von Aushubmaterial auf dem Gebiet des Landschaftsparks Pasing-Laim-Blumenau-Hadern an der Blumenauer Straße (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 14.3.: Friedhofverwaltung - Anpassung der Zeiten von Sterbegottesdiensten und Bestattungen
+- TOP 14.4.: Baureferat - Radweg Landsberger Straße, stadtauswärts, Ecke Offenbachstraße - Mülleimersituation rund um Schloss Blutenburg und Durchblickpark - Skaterplatz für Jugendliche; Anfrage aus der Bürgerversammlung des 21. Stadtbezirks am 29.04.2008 - Ausbau Radweg Würm; Anfrage aus der Bürgerversammlung des 21. Stadtbezirks am 29.04.2008 - Abfalleimer vor dem Bahnhof Pasing; Anfrage aus der Bürgerversammlung des 21. Stadtbezirkes am 29.04.2008 - Nordumgehung Pasing - Verkehrsanlagen; Anliegerinformation (vertagt aus der Sitzung vom 06.05.2008) - Rückbau Donizettiweg einschließlich Änderung bei der Geschwindigkeitsregelung Tempo 30 km/h (vertagt aus der Sitzung vom 06.05.2008) - Plangutachten Pasing / Zentrum; Todesmarschdenkmal
+- TOP 14.5.: Kommunalreferat - Anfrage aus der Bürgerversammlung vom 29.04.2008 zum Anwesen Pippinger Straße 22 - Mitteilung über ein Grundstücksgeschäft; unentgeltliche Abtretung einer Teilfläche aus dem Grundstück Flurnr. 747/6, Gemarkung Obermenzing (Pippinger Straße 103)
+- TOP 14.6.: Kreisverwaltungsreferat - Nächtliche Abschaltung von Ampelanlagen; ergänzender Beschluss des BA 21 vom 01.04.2008 - Fahrbahnsanierung Alte Allee zwischen Bergsonstraße und Marschnerstraße; Verkehrsrechtliche Anordnung - Haltverbot in der Haberlandstraße zwischen Volm- und Lortzingstraße; Verkehrsrechtliche Anordnung - Verkürzung der Haltverbotszone an der Bushaltestelle "Engelbertstraße" in der Planegger Straße - Landtags- und Bezirkswahl am 28.09.2008; Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer - Kleintierfriedhof in Obermenzing, Hinweisbeschilderung (vertagt aus der Sitzung vom 06.05.08) - Behindertenparkplätze für Besucherinnen und Besucher der Stadtbibliothek Pasing auf dem Parkplatz zwischen Bürgerzentrum Rathaus Pasing und Pasinger Viktualienmarkt
+- TOP 14.7.: Kulturreferat - Stärkung der Stadtteilkultur (vertagt aus der Sitzung vom 06.05.2008) - Monatliche Mitteilungen über Veranstaltungen / Kooperationen
+- TOP 14.8.: Referat für Stadtplanung und Bauordnung - Regionalgespräch zwischen Lokalbaukommission und den Bezirksausschüssen am 30.07.2008 um 17.00 Uhr im Planungsreferat, Blumenstraße 19, Zimmer 614 - Verlegung der Staatsstraße 2063 in Höhe Grafing; Anfrage aus der Bürgerversammlung des 21. Stadtbezirks am 29.04.2008 - Böcksteiner Straße, Neubau von vier Reihenhäusern und vier Garagen (vertagt aus der Sitzung vom 06.05.2008) - Planfeststellung nach § 18 Allgemeines Eisenbahngesetzt (AEG), Errichtung eines Terminalbauwerks im Bahnhof München-Pasing (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 14.9.: Schul- und Kultusreferat - Bescheide über die Anerkennung von Plätzen in dernKindertageseinrichtungen Badenburgstraße 10 und Engelbertstraße 11
+- TOP 14.10.: Sozialreferat - Flyer zur Münchner Sozialstiftung - der Jubiläumsstiftung zum 850. Stadtgeburtstag Münchens
+- TOP 14.11.: Referat für Arbeit und Wirtschaft - Wirtschafts-Info 04/2008 - S-Bahn-Stammstrecke: Immer noch Stillstand statt Fortschritt (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: Polizeipräsidium München - Geschwindigkeitsüberwachung in den Straßen Alte Allee und Bergsonstraße
+- TOP 14.2.: Condrobs e.V. - ConNews - Nachrichten von Condrobs e.V.
+- TOP 14.3.: Arbetisgruppe "Gedenkveranstaltung zum 9. November" - Namenslesung der während der NS-Zeit ermordeten Münchner Juden anlässlich des 70. Jahrestages der sogenannten "Reichskristallnacht"
+- TOP 14.4.: Regierung von Oberbayern - Vollzug der Straßenverkehrs-Ordnung, hier: Staatsstraße 2063, Geschwindigkeitsbeschränkung (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 14.5.: Kulturverein Freunde Obermenzing e.V. - Umbenennung des TEilstücks der Grandlstraße zwischen Kirche Leiden Christi und Schulgebäude (oder auch großräumiger) in "Obermenzinger Pfarrplatz" (vertagt aus der Sitzung vom 06.05.2008)
+- TOP 15: Verschiedenes
+- TOP 15.1.: Stadlfest des Burschenverein Obermenzing e.V. am 14.06.2008 ab 14.Uhr auf dem Hof der Familie Fenzl , Dorfstraße 37
+- TOP 15.2.: Nächste BA-Sitzungen: 01.07.2008 und 29.07.2008 jeweils um 19.00 Uhr im Großen Sitzungssaal des Bürgerzentrums Rathaus Pasing, Landsberger Straße 486
