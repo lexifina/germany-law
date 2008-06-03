@@ -1,0 +1,123 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2008-06-03T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1314557
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1314557
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.0.1.: Beschlussfassung über Anzahl, Ressortverteilung und Größe der Unterausschüsse
+- TOP 1.0.2.: Wahl der Vorsitzenden der Unterausschüsse
+- TOP 1.0.3.: Berufung der weiteren Mitglieder sowie stellvertretenden Mitglieder der Unterausschüsse
+- TOP 1.0.4.: Wahl eines / einer Kinderbeauftragten
+- TOP 1.2.1.: Laimer Fußgänger- und Radlerunterführung
+- TOP 1.2.2.: Gefährliche offene Treppe in der Stadtbibliothek Laim
+- TOP 1.2.3.: Straßenführung Ausfahrt Laim-Ammerseestraße
+- TOP 1.2.4.: Gaststätte "Nachtwerk", Landsberger Str. 185
+- TOP 1.2.5.: Neuer S-Bahn-Halt Friedenheimer Brücke
+- TOP 1.2.6.: Hortplätze im Stadtteil Laim
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 1: Beschlussvorlage KVR: Einrichtung eines geschützten Fußgänger- übergangs über die Agnes-Bernauer-Straße vom Riegerhofweg zur Lutzstraße (Ziffer 2 des Antrages) Empfehlung Nr. 02-08 / E 00939 der Bürger- versammlung des Stadtbezirkes 25 - Laim vom 08.11.2007 - <div>nach Antrag</div>
+- TOP 1.2.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 über Antrag auf Errichtung eines mobilen Fahrradständers vor einem Einzelhandelsgeschäft; Landsberger Str. 203
+- TOP 3: Beschlussvorlage Baureferat: Verbesserung der Beleuchtung des Fußweges an der Agnes-Bernauer-Straße (Ziffer 4 des Antrages) Empfehlung Nr. 02-08 / E 00943 der Bürgerversammlung des Stadtbezirkes 25 Laim am 08.11.2007 - <div>nach Antrag</div>
+- TOP 3.4.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget in Höhe von 2.735 Euro für das Laimer Stadtteilfest am 28.06.08; Antragsteller: Regsam-Facharbeitskreis Kinder und Jugend in Laim
+- TOP 3.5.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget in Höhe von 1.080 Euro für den Spielbus "Artmobil" vom 07.07.-09.07.08; Antragsteller: Pädagogische Aktion/ Spielen in der Stadt e.V.
+- TOP 3.6.: Beschlussvorlage KVR: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 über Sondernutzungserlaubnis (Freischankfläche), Friedenheimer Str. 33
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 10.04.08: Absolutes Haltverbot Landsberger Straße südliche Ortsfahrbahn, westlich Friedenheimer Straße
+- TOP 4.2.: Schreiben Stadtwerke München GmbH vom 24.04.08: Fahrleitungsmodernisierung der Linie L 18-West, Siglstraße und Einmündung Zschokkestraße
+- TOP 4.3.: Schreiben KVR vom 24.04.08: Josef-Schick-Straße; Haltverbot
+- TOP 4.4.: Schreiben Direktorium vom 29.04.08: Budget des Bezirksausschusses; Antrag des Kindergartens Laimer Strolche e.V. vom 18.07.07 wegen Umbau und Ausstattung der neuen Räume
+- TOP 4.5.: Schreiben MVG vom 29.04.08: Leistungsprogramm 2009 der MVG (Fahrplanwechsel Dezember 2008)
+- TOP 4.6.: Schreiben KVR vom 06.05.08: Straßenfest Fachnersiedlung am Weißenfelderplatz am 12.07.08
+- TOP 4.7.: Schreiben KVR vom 13.05.08: Laimer Fischtage vom 30.05.-08.06.08 auf dem Laimer Anger
+- TOP 4.8.: Schreiben KVR vom 13.05.08: Gegenläufige Radwege in der Fürstenrieder Straße beidseitig in Höhe Überführung über die Ammerseestraße
+- TOP 4.9.: Schreiben Planungsreferat vom 16.05.08: Planänderung zur Planfeststellung nach § 18 AEG für das Vorhaben "Neubau des S-Bahn-Haltepunktes Friedenheimer Brücke", Bahnstrecke 5540 München Hbf (Tunnelbahnhof)-Gauting km 2,5 + 39 bis 3,2 +
+- TOP 5: Baumfällungen
+- TOP 6: Bauvorhaben
+- TOP 6.1.: Geßlerstr. 23: Anbau an eine DHH; hier: Baupläne
+- TOP 6.2.: Von-der-Pfordten-Str. 59: Generalsanierung Jugendzentrum " Das Laimer"; hier: Baupläne und Baumfällungen
+- TOP 6.3.: Von-der-Pfordten-Str. 59: Errichtung eines Container-Provisoriums während der Zeit der Generalsanierung einer Kinder- und Jugendfreizeitstätte; hier: Baupläne und Baumfällungen
+- TOP 7: Sonstiges
+- TOP 7.1.: Schreiben Planungsreferat vom 19.05.08: Regionalgespräch zwischen Lokalbaukommission und den Bezirksausschüssen am 04.06.08
+- TOP 8: Protokolle
+- TOP 8.1.: Protokoll der BA-Sitzung vom 01.04.08
+- TOP 8.2.: Protokoll der BA-Sitzung vom 06.05.08
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Baureferat vom 01.04.08: Grünanlage am Weißenfelderplatz und Steinbeisplatz (Schreiben BA vom 07.02.08)
+- TOP 9.2.: Schreiben Baureferat vom 23.04.08: Öffentlichkeitskampagne zur Steigerung der Sauberkeit im öffentlichen Raum "Rein. Und Sauber"
+- TOP 9.3.: Schreiben Baureferat vom 08.05.08: Reinigung der Laimer Unterführung
+- TOP 9.4.: Schreiben Baureferat vom 08.05.08: Neuprofilierung der Agnes-Bernauer-Straße zwischen Fürstenrieder Straße und Riegerhofweg (Schreiben BA vom 16.04.und 14.03.08)
+- TOP 9.5.: Schreiben Baureferat vom 19.05.08: Fußgängerunterführung Nordende Laimer Unterführung (Schreiben BA vom 14.03.08)
+- TOP 9.6.: Schreiben Direktorium vom 16.04.08: Zuwendung aus dem Budget des BAs; Laimer Stadtteilfest am 23.06.07
+- TOP 9.7.: Schreiben Direktorium vom 21.04.08: Verwendungsnachweis über Budgetzuschuss; Antragsteller: Familienzentrum Laim
+- TOP 9.8.: Schreiben Direktorium vom 07.05.08: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Laimer Maibaumfreunde e.V.
+- TOP 9.9.: Schreiben Direktorium vom 07.05.08: Bewilligung einer Zuwendung aus dem Budget; Antragsteller: Lilalu e.V.
+- TOP 9.10.: Schreiben Direktorium vom 08.05.08: Broschüre "Das Direktorium stellt sich vor"
+- TOP 9.11.: Schreiben Planungsreferat vom 15.04.08: Planfeststellungsverfahren Magnetschwebebahn München Hauptbahnhof - Flughafen mit Planänderung; Einstellung des Verfahrens
+- TOP 9.12.: Schreiben Planungsreferat vom 09.05.08: Bauvorhaben Agnes-Bernauer-Str. 53 b-57; Neubau dreier Mehrfamilienhäuser mit TG
+- TOP 9.13.: Schreiben Planungsreferat vom 09.05.08: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18 b AEG i.V. m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG) für das Bauvorhaben Ertüchtigung der Wärmeversorgungsanlage im Heizkraftwerk ICE - Betriebswerk München Hbf (Landsberger Str. 158); hier: Brandschutz
+- TOP 9.14.: Schreiben KVR vom 26.03.08: Gaststätte "Löwenstüberl", Willibaldstr. 19; unveränderte Fortführung
+- TOP 9.15.: Schreiben KVR vom 08.04.08: Gaststätte " Uschi`s Zufall", Fürstenrieder Str. 6; unveränderte Fortführung
+- TOP 9.16.: Schreiben KVR vom 14.05.08: Gaststätte "Zebras", Fürstenrieder Str. 8; unveränderte Fortführung
+- TOP 9.17.: Schreiben KVR vom 14.05.08: Gaststätte "Club Santa Fee", Fürstenrieder Str. 8; unveränderte Fortführung
+- TOP 9.18.: Schreiben KVR vom 11.04.08: Stögerstraße; Aufhebung der Einbahnregelung
+- TOP 9.19.: Schreiben KVR vom 16.05.08: Landtags- und Bezirkswahl am 28.09.08; Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 9.20.: Schreiben Sozialreferat vom April 08: Unser Flyer zur Münchner Sozialstiftung - der Jubiläumsstiftung zum 850. Stadtgeburtstag München
+- TOP 9.21.: Schreiben Sozialreferat vom 22.04.08: Kinder- und Jugendbeauftragte in den Bezirksausschüssen
+- TOP 9.22.: Schreiben Referat für Arbeit und Wirtschaft vom 28.04.08: Treppenaufgang zum Laimer DB-Stellwerk (Antrag Nr. 02-08 / B 02849 vom 29.01.08)
+- TOP 9.23.: Schreiben Stadtkämmerei vom 29.04.08: Mehrjahresinvestitionsprogramm für die Jahre 2008-2012
+- TOP 9.24.: Schreiben Schul- und Kultusreferat vom 14.05.08: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Agnes-Bernauer-Platz 8
+- TOP 9.25.: Bautenlisten vom 10.03.-16.03.08 und 17.03.-23.03.08 1. Erstantragsverfahren a) Von-der-Pfordten-Str. 59 b) Friedenheimer Str. 10 c) Fürstenrieder Str. 48
+- TOP 9.26.: Bautenliste vom 24.03.-30.03.08 1. Erstantragsverfahren a) Rattenhuberstr. 9
+- TOP 9.27.: Bautenliste vom 31.03.-06.04.08 1. Änderungsverfahren a) Fürstenrieder Str. 39 b) Fürstenrieder Str. 38
+- TOP 9.28.: Bautenliste vom 07.04.-13.04.08 1. Erstantragsverfahren a) Geßlerstr. 23 b) Hohenwarter Str. 9 c) Elsenheimerstr. 61
+- TOP 9.29.: Bautenliste vom 14.04.-20.04.08: 1. Erstantragsverfahren a) Hörkherstr. 9 b) Rilkestr. 2 c) Reutterstr. 49a 2. Änderungsverfahren a) Camerloherstr. 110
+- TOP 9.30.: Bautenliste vom 21.04.-27.04.08: 1. Erstantragsverfahren a) Ossietzkystr. 3 b) Flotowstr. 30 c) Ossietzkystr. 3 d) Hörkherstr. 9 e) Von-der-Pfordten-Str. 59 f) Stöberlstr. 46 2. Änderungsverfahren a) Camerloherstr. 69 b) Rechpachstr. 12 c) Zschokkestr. 70
+- TOP 9.31.: Bautenliste vom 28.04.-04.05.08 1. Änderungsverfahren a) Stadtlohner Str. 5
+- TOP 9.32.: Bautenliste vom 05.05.-11.05.08: 1. Erstantragsverfahren a) Friedberger Str. 15 2. Änderungsverfahren a) Schäufeleinstraße
+- TOP 9.33.: Schreiben Planungsreferat vom 26.03.08: Liste der beantragten Baumfällungen
+- TOP 9.34.: Schreiben Planungsreferat vom 31.03.08: Liste der beantragten Baumfällungen
+- TOP 9.35.: Schreiben Planungsreferat vom 07.04.08: Liste der beantragten Baumfällungen
+- TOP 9.36.: Schreiben Planungsreferat vom 14.04.08: Liste der beantragten Baumfällungen
+- TOP 9.37.: Schreiben Planungsreferat vom 21.04.08: Liste der beantragten Baumfällungen
+- TOP 9.38.: Schreiben Planungsreferat vom 28.04.08: Liste der beantragten Baumfällungen
+- TOP 9.39.: Schreiben Planungsreferat vom 19.05.08: Liste der beantragten Baumfällungen (05.05.-11.05.08)
+- TOP 9.40.: Schreiben Planungsreferat vom 19.05.08: Liste der beantragten Baumfällungen (12.05.-18.05.08)
+- TOP 9.41.: Schreiben Planungsreferat vom 20.03.08: Kirchmairstr. 17; Gefahrenbaumbescheinigung
+- TOP 9.42.: Schreiben Stadtwerke München GmbH vom 25.03.08: Baumaßnahmen der Stadtwerke München; Stichtag: 25.03.08
+- TOP 9.43.: Schreiben Stadtwerke München GmbH vom 31.03.08: Baumaßnahmen der Stadtwerke München; Stichtag: 31.03.08
+- TOP 9.44.: Schreiben Stadtwerke München GmbH vom 07.04.08: Baumaßnahmen der Stadtwerke München; Stichtag: 07.04.08
+- TOP 9.45.: Schreiben Stadtwerke München GmbH vom 14.04.08: Baumaßnahmen der Stadtwerke München; Stichtag: 14.04.08
+- TOP 9.46.: Schreiben Stadtwerke München GmbH vom 21.04.08: Baumaßnahmen der Stadtwerke München; Stichtag: 21.04.08
+- TOP 9.47.: Schreiben Stadtwerke München GmbH vom 28.04.08: Baumaßnahmen der Stadtwerke München; Stichtag: 28.04.08
+- TOP 9.48.: Schreiben Stadtwerke München GmbH vom 05.05.08: Baumaßnahmen der Stadtwerke; Stichtag: 05.05.08
+- TOP 9.49.: Schreiben Stadtwerke München GmbH vom 09.05.08: Baumaßnahmen der Stadtwerke; Stichtag: 09.05.08
+- TOP 9.50.: Schreiben Stadtwerke München GmbH vom 19.05.08: Baumaßnahmen der Stadtwerke; Stichtag: 19.05.08
+- TOP 9.51.: Schreiben Stadtwerke München GmbH vom 03.04.08: Information der BAs; Neue Bädereintrittspreise und neue Preisstruktur in der Olympia-Schwimmhalle
+- TOP 9.52.: Schreiben Stadtwerke München GmbH vom 08.04.08: Informationsflyer "Baumaßnahmen der SWM"; 1. Halbjahr 2008 für den BA 25
+- TOP 9.53.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.04.08: Zuschussnehmerdatei 2008, Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlage Nr. 02-08 / V 11669)
+- TOP 9.54.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.04.08: Umwandlungsverbot in Erhaltungssatzungsgebieten (Sitzungsvorlagen Nr. 02-08 / V 11771)
+- TOP 9.55.: Beschluss des Verwaltungs- und Personalausschusses vom 09.04.08: Ablauf von Bürgerversammlungen; Übersetzung in Gebärdensprache (Empfehlung Nr. 02-08 / E 00931 der Bürgerversammlung vom 08.11.07) (Sitzungsvorlagen Nr. 02-08 / V 11652)
+- TOP 9.56.: Beschluss der Vollversammlung vom 07.05.08: Keine Bahnprivatisierung gegen die Interessen der Kommunen (Sitzungsvorlagen Nr. 02-08 / V 11995 bzw. Nr. 08-14 / V 00090)
+- TOP 9.57.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.08: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2008-2012 (Sitzungsvorlagen Nr. 08-14 / V 00183)
+- TOP 9.58.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.08: Mehrjahresinvestitionsprogramm für die Jahre 2008-2012 (diverse Gliederungsziffern) (Sitzungsvorlagen Nr. 08-14 / V 00182)
+- TOP 9.59.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.08: Sicherung der Biotop- und Landschaftspflege in der LH München (Sitzungsvorlagen Nr. 02-08 / V 11878)
+- TOP 9.60.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.08: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007", Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug, Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13 a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB (Sitzungsvorlagen Nr. 02-08 / V 11037)
+- TOP 9.61.: Schreiben BA 9 Neuhausen-Nymphenburg vom 18.03.08: S-Bahn-Haltepunkt Friedenheimer Brücke
+- TOP 9.62.: Schreiben Innere Mission München / Treffpunkt Familie International vom 17.03.08: Zuschuss des BA 25 zur Renovierung der Theke im Eltern-Kind-Café, Qualifizierungs- und Beschäftigungsprojekt in TREFFAM
+- TOP 9.63.: Schreiben FamilienZentrum Laim vom 03.04.08: Zuwendung aus dem Budget des BAs, Antrag vom 10.08.07; Flyer "Rund um die Geburt"
+- TOP 9.64.: Schreiben Spielen in der Stadt vom 15.04.08: Münchner Sommer SpielAktion 2008
+- TOP 9.65.: Schreiben Kreisjugendring München-Stadt vom 17.04.08: Dank für die gute Zusammenarbeit
+- TOP 9.66.: Schreiben Faschingsclub Laim e.V. vom 29.04.08: Faschingstreiben 2008
+- TOP 9.67.: Schriftverkehr aus der BA-Sitzung vom 01.04.08
+- TOP 1.0: Organisatorisches
+- TOP 1.2: Bürgerpost an den BA
