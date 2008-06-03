@@ -1,0 +1,58 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2008-06-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1296729
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1296729
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeiner Teil
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung der Protokolle vom 06.05.08
+- TOP 1.6.: Bestellung von Ersatzmitgliedern in den Unterausschüssen
+- TOP 2: Anträge
+- TOP 2.1.: Verkaufsoffener Sonntag in Solln
+- TOP 2.2.: Wochenmarkt Schweizer Platz
+- TOP 2.3.: Weiterer Zugang Bad Maria Einsiedel
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Kirchenstiftung St. Joachim
+- TOP 3.2.: Schwemmlein-Kindergarten e.V.
+- TOP 3.3.: Grundschule Herterichstraße
+- TOP 3.4.: Innere Mission München
+- TOP 3.5.: Mütterzentrum Sendling e.V.
+- TOP 3.6.: Weißblauer Bumerang
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Umwelt
+- TOP 4.3.: Gefährdung und Belästigung durch Flüge über Ballungsräume
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrsgefährdung Gerblweg
+- TOP 5.2.: Kurzparkzonen Wolfratshauser Str. 153
+- TOP 5.3.: Parksituation Wolfratshauser Str. 244-246
+- TOP 5.4.: Anhänger Basler Straße
+- TOP 5.5.: Verkehrsberuhigung Sollner Straße
+- TOP 5.6.: Verkehrssituation Steinkirchner Straße
+- TOP 5.7.: Wohnanhänger Forst-Kasten-Allee
+- TOP 5.8.: MVG Leistungsprogramm 2009
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Bebauungsplan ehem. Thalkirchner Bahnhof
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Lärmbelästigung Sportplatz Begasweg
+- TOP 7: Entscheidungsfälle
+- TOP 8: Anhörungen und Unterrichtungen
+- TOP 8.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.: Werbeanlage Kistlerhofstr. 70
+- TOP 8.3.: Sommerfest Kleingartenanlage SW 58, Filchnerstraße
+- TOP 8.4.: Antrag auf Zweckentfremdung Noestr. 11
+- TOP 8.5.: Betreutes Wohnen im Stadtbezirk 19
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
