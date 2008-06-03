@@ -1,0 +1,64 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2008-06-03T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1300716
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1300716
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Freizeittreff Lerchenauer; Mobile Spielaktion vom 04.08. bis 03.06.2008
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Städt. Erich-Kästner-Realschule; Gesundheitswoche vom 21.07. bis 25.07.2008
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: Feldmochinger Rossler e. V.; Rosstag am 12.10.2008
+- TOP 3.1.: Unzumutbarer Buslärm im Bereich Weitl. / Ittlinger Straße (vertagt in der Sitzung am 06.05.2008)
+- TOP 3.2.: Antrag auf Einrichtung eines HAlteverbots in der Reginoltstraße gegenüber der Garagenausfahrt der Hausnummer 32 (vertagt in der Sitzung am 06.05.2008)
+- TOP 3.3.: Antrag auf Einrichtung von Halteverboten auf der westlichen Seite der Reginoltstraße und nördlichen Seite Stabelerstraße, sowie Markierung von Parkülätzen auf der südlichen Seite der Stabelerstraße (vertagt in der Sitzung am 06.05.2008)
+- TOP 3.4.: Aufstellung eines Geldautomaten und eines Serviceterminals im Bereich der ehemaligen Stadtsparkasse am Hasenbergl
+- TOP 3.5.: Zustände in der Geinschaftunterkunft an der Waldmeisterstraße (vertagt in der Sitzung am 06.05.2008)
+- TOP 3.6.: Anträge aus der Kindersprechstunde
+- TOP 3.7.: Anbringung eines Verkehrsspiegels bei der Tiefgaragenausfahrt Lahntahlstraße
+- TOP 3.8.: Bahnübergang Bahnhof Fasanerie (vertagt in der Sitzung am 06.05.2008)
+- TOP 3.9.: Umgestaltung des Verkehrsknotenpunkts südlich des Bahnübergangs S-Bahnhof Fasanerie Nord (vertagt in der Sitzung am 06.05.2008)
+- TOP 3.10.: Machbarkeitsstudie zur Verkehrsgestaltung der Kreuzung von Bahnübergang S-Bahnhof Fasanerie und Feldmochinger Straße (vertagt in der Sitzung am 06.05.2008)
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauleitplanung Knorr-Bremse
+- TOP 5.2.: Anhörung im Einzelfall auf Anforderung: a) Bauvorhaben Lerchenstraße 59 b) Bauvorhaben Lerchenauer Straße 317
+- TOP 5.3.: Baumaßnahme Aschenbrenner / Schleißheimer Straße
+- TOP 5.4.: Vollzug der Baumschutzverordnung: a) Petrarcastr. b) Blaukissenweg
+- TOP 5.5.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Linkstraße südlich von Anwesen Haus-Nr. 1
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Raumnot an der Grundschule an der Waldmeisterstraße (BA-Antrag Nr. 2971 vom 11.03.2008)
+- TOP 6.2.: Feldmochinger Straße, Beseitigung des höhengleichen Bahnübergangs am S-Bahnhof Fasanerie (Sachstandsmitteilung zur BV-Empfehlung Nr. 738 vom 22.05.2008)
+- TOP 6.3.: Meldelisten Bauvorhaben
+- TOP 6.4.: Meldelisten Baumfällungen
+- TOP 6.5.: Baumaßnahmen Stadtwerke
+- TOP 6.6.: Unveränderte Fortführung eines Gaststättenbetriebes a) "Hexeneck", Irisstraße b) "Restaurant Seehaus Feldmoching, Ferchenbachstraße 209
+- TOP 6.7.: Verkehrsrechtliche Anordnung: a) Verkehrsberuhigter Bereich Paul-Huml-Bogen / Paul-Preuß-Straße
+- TOP 6.8.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 6.9.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2008 - 2012
+- TOP 6.10.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 Bau GB (Hinweis/Ergänzung vom 02.04.2008)
+- TOP 6.11.: Keine Bahnprivatisierung gegen die Interessen der Kommunen
+- TOP 6.12.: Leistungsprogramm der MVG (Fahrplanwechsel Dezember 2008)
+- TOP 6.13.: Vollzug des Bundes-Immissionsschutzgesetzes; Dachauer Straße 665 Prüfstandanlage 2/Geb. 006
+- TOP 6.14.: Mehrjahresinvestitionsprogramm für die Jahr 2008 - 2012 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplan 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge
+- TOP 6.15.: Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012
+- TOP 6.16.: Information zur Sanierung im Fahrbahnbereich in der Fortnerstraße
+- TOP 6.17.: Öffentlichkeitskampagne zur Steigerung der Sauberkeit im öffentlichen Raum "Rein und Sauer"
+- TOP 6.18.: Verlegung der Bushaltestelle an der Schittgablerstraße an die Ecke Lerchenauer Straße (BA-Antrag Nr. 3035 vom 08.04.2008)
+- TOP 6.19.: Aufstellung von zusätzlichen Fahrradständern im Bereich der Skater-Anlage am Fasaneriesee
+- TOP 6.20.: Aufnahme der Schleißheimer Straße im Bereich zwischen Augustin-Rösch-Straße und Goldschmiedplatz in das Ausbauprogramm (BA-Antrag Nr. 3038 vom 08.04.2008)
+- TOP 6.21.: Feldmoching - Park+Ride-Anlage
+- TOP 7.: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr, Umwelt
+- TOP 7.2.: Unterausschuss Schule, Sport, Soziales
+- TOP 7.3.: Unterausschuss Kultur, Budget
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
