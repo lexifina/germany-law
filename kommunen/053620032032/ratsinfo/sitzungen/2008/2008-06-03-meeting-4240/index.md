@@ -1,0 +1,65 @@
+# Ausschuss für Stadtplanung und Verkehr (28. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2008-06-03T17:00:00+02:00
+- Ende: 2008-06-03T21:50:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXsFb3kME923U0uyU-1D2W0
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/4240
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQc5jYRs-DFTXTsq-M3NS_ao5nhIe1AnS2NE7zQGjB-P/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_03.06.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht der Verwaltung über die Ausführung von Beschlüssen/Aufträgen/Empfehlungen aus der Sitzung am 11.03.2008
+- TOP 2.: Umsiedlung Manheim
+- TOP 2.1: Niederschrift der 13. Sitzung des Bürgerbeirates Manheim
+- TOP 2.2: Niederschrift der 14. Sitzung des Bürgerbeirates Manheim
+- TOP 2.3: Bericht der Verwaltung
+- TOP 2.4: Niederschrift der 12. Sitzung des Bürgerbeirates Manheim
+- TOP 3.: Fachmarktzentrum Falder/Bürrig
+- TOP 3.1: 1. Änderung Einzelhandelskonzept der Stadt Kerpen
+- TOP 3.2: 1. Änderung zum Vergnügungsstättenkonzept der Stadt Kerpen
+- TOP 3.3: Sachstandsbericht zum Erschließungsvertrag zum BK KE Nr. 321 "Am Falder / Auf dem Bürrig"
+- TOP 3.4: Errichtung einer Fachhochschule am Standort Falder/Bürrig
+- TOP 3.5: 56. Änderung des Flächennutzungsplanes "Am Falder/ Auf dem Bürrig", Stadtteil Kerpen hier: Wirksamkeitsbeschluss
+- TOP 3.6: Bebauungsplan KE 321 "Am Falder/ Auf dem Bürrig", Stadtteil Kerpen hier: Satzungsbeschluss
+- TOP 3.7: Gestaltungssatzung zum Bebauungsplan KE 321 "Am Falder/Auf dem Bürrig" im Stadtteil Kerpen
+- TOP 3.8: Unfallschwerpunkt Erfttalstraße / Knotenpunkt A4
+- TOP 4.: Stadtentwicklung
+- TOP 4.1: Erweiterung des Naturparks Rheinland
+- TOP 4.2: Nutzungskonzept für das Gelände der alten Grundschule in Buir
+- TOP 4.3: Anregung und Beschwerde gem. § 24 GO NW hier: Erschließung der Stadtteile Kerpen und Neu-Manheim durch eine S-Bahn-Trasse ("Das Kerpener C")
+- TOP 5.: Bauleitplanung
+- TOP 5.1: Bebauungsplan SI 252 "Lammertsheck", Stadtteil Sindorf hier: Offenlegungsbeschluss gem § 3 (2) BauGB
+- TOP 5.2: Bebauungsplan SI 331 "Kerpener Straße/Goethestraße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.3: Veränderungssperre BP SI 331 "Kerpener Straße/Goethestraße", Stadtteil Sindorf
+- TOP 5.4: Bebauungsplan BL 330 "Kunibertusstraße/Giffelsberger Weg ", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.5: Bebauungsplan BL 270/1. Änderung "Am Lechenicher Weg", Stadtteil Blatzheim hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 5.6: Vorhabenbezogener Bebauungsplan KE Nr. 272 B "Eindhovener Straße" Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 5.7: Bebauungsplan BU 326 "Immissionsschutzwall Buir", Stadtteil Buir hier: Satzungsbeschluss
+- TOP 5.8: 58. Änderung des Flächennutzungsplanes "Immissionsschutzwall Buir", Stadtteil Buir hier Wirksamkeitsbeschluss
+- TOP 5.9: Bebauungsplan TÜ Nr. 246/ 3. Änderung "Gewerbe-/Industriegebiet Ville" Stadtteil Kerpen- Türnich hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 6.: Verkehrsplanung
+- TOP 6.1: Öffnung der Breite Straße im Stadtteil Sindorf hier: Anträge der CDU-Fraktion vom 18.10.2007 (446.07) und vom 05.03.2008 (129.08)
+- TOP 6.2: Widmung von Straßen
+- TOP 6.3: Benennung von Straßen im Stadtteil Sindorf
+- TOP 6.4: Benennung einer Straße im Stadtteil Horrem
+- TOP 6.5: Anregung und Beschwerde gem. § 24 GO NW hier: Planfeststellung zur Verlegung der A 4
+- TOP 7.: Mitteilungen
+- TOP 8.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 8.1: Verlegung der Hochspannungsleitung nördlich von Buir/Manheim
+- TOP 8.2: Sicherheit am Fußgängerüberweg Rathausstraße in Horrem
+- TOP 8.3: Verbesserter Lärmschutz an der geplanten A4 in Buir
+- TOP 8.4: ÖPNV-Anbindung Vogelruther Feld hier: Gestaltung und Realisierung
+- TOP 8.5: Verbesserte Anbindung des Marienfeldes an den ÖPNV
+- TOP 9.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 10.: Umsiedlung Manheim
+- TOP 10.1: Niederschrift der 12.SItzung des Bürgerbeirates Manheim
+- TOP 11.: Städtebauliche Entwicklungsmaßnahme Kerpen-Sindorf "Vogelrutherfeld" hier: Abschluss eines Grundstücksvertrages
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
