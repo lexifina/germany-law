@@ -1,0 +1,8 @@
+# TOP 10: Maßnahmenvorschläge der Stadt Wuppertal für den Nahverkehrsplan des VRR
+
+- Sitzung: öffentliche Sitzung des Ausschusses für Verkehr (2008-06-04)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/37564
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/17891
