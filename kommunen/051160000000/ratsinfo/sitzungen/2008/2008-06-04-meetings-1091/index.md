@@ -1,0 +1,54 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2008-06-04T16:10:00+02:00
+- Ende: 2008-06-04T19:45:00+02:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1091
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1091
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Kenntnisnahme
+- TOP 3: Verleihung der Stadtplakette - Einstimmiger Beschluss
+- TOP 4: Dienstreise der Vorsitzenden - Einstimmiger Beschluss
+- TOP 5: Jahresrechnung 2007 - Mit Stimmenmehrheit beschlossen
+- TOP 6: Vermögens- und Schuldenübersicht NKF - Kenntnisnahme
+- TOP 7: Zustimmung zur Inangriffnahme - Zur Kenntnis genommen
+- TOP 8: Zustimmung zur Inangriffnahme Förderschule Dahlene - Zur Kenntnis genommen
+- TOP 9: Zustimmung zur Inangriffnahme Sanierung Talstraße - Zur Kenntnis genommen
+- TOP 10: Zustimmung zur Inangriffnahme Eickener Straße - Zur Kenntnis genommen
+- TOP 11: Zustimmung zur Inangriffnahme RFID-Technik - Zur Kenntnis genommen
+- TOP 12: Über- und außerplanmäßige Ausgaben - Einstimmiger Beschluss
+- TOP 13: Außenwerberechte der Stadt Mönchengladbach - Kenntnisnahme
+- TOP 14: Kleingartendarlehen 2008 - Einstimmiger Beschluss
+- TOP 15: Einführung der Papiertonne/ Satzungsänderung - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 16: Beirat bei der Unteren Landschaftsbehörde - Einstimmiger Beschluss
+- TOP 17: Bildung eines Wahlausschusses - Einstimmiger Beschluss
+- TOP 18: Weihnachtsmärkte in Mönchengladbach - Zur Kenntnis genommen
+- TOP 19: VO Offenhalten Verkaufsstellen 2.11. u. 14.12.08 - Einstimmiger Beschluss
+- TOP 20: Verkaufsoffene Sonntage - Mit Stimmenmehrheit beschlossen
+- TOP 21: Schulentwicklungsplan (SEP) 5 - Sonderpäd. Förd. - Mit Stimmenmehrheit beschlossen
+- TOP 22: Schulentwicklungsplan (SEP) 5 - Sekundarstufe I - Mit Stimmenmehrheit beschlossen
+- TOP 23: Fortschreibung Rahmenkonzept OGata- Angebotsausbau - Einstimmiger Beschluss
+- TOP 24: Schuleinzugsbereiche Förderschulen - Einstimmiger Beschluss
+- TOP 25: Neue erweiterte Ganztagshauptschulen - Mit Stimmenmehrheit beschlossen
+- TOP 26: 5. Nachtrag zur Benutzungsordnung Stadtbibliothek - Einstimmiger Beschluss
+- TOP 27: Brandschutzsanierung Stadthalle RY / Theater MG - Zur Kenntnis genommen
+- TOP 28: Konzeption "Giesenkirchen 2015" - Mit Stimmenmehrheit beschlossen
+- TOP 29: Schiedsamtswahl Bezirk Hardt - Einstimmiger Beschluss
+- TOP 30: Schiedsamtsstellvertreterwahl III/1-Stadtmitte - Einstimmiger Beschluss
+- TOP 31: Schöffenwahlausschuss - Einstimmiger Beschluss
+- TOP 32: Auslobungsverfahren HDZ - Kenntnisnahme
+- TOP 33: Bebauungsplan Nr. 636/VIII - Einstimmiger Beschluss
+- TOP 34: Bebauungsplan Nr. 668/X - Mit Stimmenmehrheit beschlossen
+- TOP 35: Bebauungsplan Nr. 678/I - Stadtbezirk Rheindahlen - Einstimmiger Beschluss
+- TOP 36: Veränderungssperre Landscheidung - Einstimmiger Beschluss
+- TOP 37: Sonderbeitragssatzung Stegesstr.bis Bismarckstr. - An den Rat verwiesen
+- TOP 38: Jahresabschluss 2007 - Mit Stimmenmehrheit beschlossen
+- TOP 39: Städtenetzwerk Innenstadt NRW - Einstimmiger Beschluss
+- TOP 40: INTERREG IV-B-Projekt "RoCK" - Einstimmiger Beschluss
+- TOP 41: Anfragen - Zur Kenntnis genommen
