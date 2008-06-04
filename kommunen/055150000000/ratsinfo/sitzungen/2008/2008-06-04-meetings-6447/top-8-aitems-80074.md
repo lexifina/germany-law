@@ -1,0 +1,8 @@
+# TOP 8: Projekt "Gesund aufwachsen in ... Berg Fidel"
+
+- Sitzung: 28. Sitzung des Ausschusses für Kinder, Jugendliche und Familien (2008-06-04)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/80074
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/39077
