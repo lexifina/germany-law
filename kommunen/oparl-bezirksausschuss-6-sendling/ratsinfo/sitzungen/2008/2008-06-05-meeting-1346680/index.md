@@ -1,0 +1,56 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2008-06-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1346680
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1346680
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Fortführung des Bewohnertreffs 1 auf der Theresienhöhe Süd mit sozialpäd. Fachkraft; Erweiterung der Planstelle auf eine ganze SozialpädagogInnen-Stelle - <div>vertagt</div>
+- TOP 4.: Schulreferat
+- TOP 4.1.: Umzug des Elterninitiativhorts "Die Buntstifte e. V."
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Einrichtung eines Haltverbots an der Ramungstr. / Alois-Gilg-Weg
+- TOP 6.2.: Verländerung des Taxistandplatzes Brudermühlstr. / Thalkirchnerstr., Aufhebung des Taxistandplatzes an der Kochelseestr.
+- TOP 6.3.: Konzert auf dem Sendlinger Kirchplatz am 21.06.2008
+- TOP 6.4.: Straßenfest in der Valleystraße am 12.07.2008
+- TOP 6.5.: Schaltung der Fußgängerampel an der Plinganserstraße / Neuhofener Anlagen; Sanierungsbedürftigkeit der Fallstraße
+- TOP 6.6.: Meldelisten Bauvorhaben SWM
+- TOP 6.7.: Leistungsprogramm 2009 der MVG
+- TOP 6.8.: Warenstellage Implerstraße 23; Anstehende Verlängerung der Sondernutzungserlaubnis - <div>Abweichung von Referentenvorl.</div>
+- TOP 7.1.: Budgetantrag Sendlinger Kulturschmiede, "Die Höfe der Daiserstr."; ? 6500,-
+- TOP 7.2.: Budgetantrag Elternbeirat Pfeuferschule, Projekt "Tanz und Schule";? 2370,-
+- TOP 7.3.: Budgetantrag Mütterzentrum Sendling, Flyer "Rund um die Geburt"; ? 186,37
+- TOP 7.4.: Budgetantrag IG Lebenswege, Ausstellung im Rahmen des 850. Stadtgeburtstages; ? 300,-
+- TOP 7.5.: Budgetantrag des hausgemacht e. V., Tanzprojekt "hydrophil"; ? 800,-
+- TOP 7.6.: Wahlhelfer für die Landtags- und Bezirkstagswahl am 28.09.2008
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Schanzenbachstr. 9
+- TOP 8.3.: Bebauungsplan Stemmerhof
+- TOP 8.4.: Keine Bahnprivatisierung gegen die Interessen der Kommunen
+- TOP 8.5.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen
+- TOP 8.6.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte
+- TOP 9.: Baureferat
+- TOP 9.1.: Neugestaltung der öffentlichen Flächen rund um die Kirche St. Margaret und des Margaretenplatzes - <div>Zur Kenntnis genommen</div>
+- TOP 9.2.: Realisierungswettbewerb zur Neugestaltung der Platzfläche "Am Harras"
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Spitzwegstr. 3a
+- TOP 10.2.: Fällung von Gefahrenbäumen Neuhofen Süd
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Mehrjahresinvestitionsprogramm 2008 - 2012
+- TOP 13.2.: Mobilfunksendeanlage Pfeuferstr.
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
