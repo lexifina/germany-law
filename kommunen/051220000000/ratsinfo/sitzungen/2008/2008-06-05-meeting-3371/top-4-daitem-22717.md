@@ -1,0 +1,6 @@
+# TOP 4: Öffnung des Klingenbades während der Sommerferien
+
+- Sitzung: Bezirksvertretung Mitte (2008-06-05)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/22717
