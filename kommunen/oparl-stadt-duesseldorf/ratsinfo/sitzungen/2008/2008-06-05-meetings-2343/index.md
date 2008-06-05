@@ -1,0 +1,52 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-06-05T15:00:00+02:00
+- Ende: 2008-06-05T16:43:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2343
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2343
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126255.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126255.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126255.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift 3/2008 vom 15.04.2008 - zur Kenntnis genommen
+- TOP 3: Jugendrat BV 5 - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Quartiersplatz Einbrungen am Hermann-Schauten-Weg
+- TOP 11: Sanierung der Hochwasserschutzanlage Burgallee in Kaiserswerth - Grundsatzbeschluss - - zur Kenntnis genommen
+- TOP 12: Zuschüsse an den Verein Bogensport Wilhelm Tell Düsseldorf e.V. - zur Kenntnis genommen
+- TOP 13: Sonderzuschuss an den Verein TC Kaiserswerth e.V. - zur Kenntnis genommen
+- TOP 14: Sporthalle Wittlaer - zur Kenntnis genommen
+- TOP 15: Tütenspender für Hundekot im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 16: Lärmschutz DB-Trasse Angermund - zur Kenntnis genommen
+- TOP 17: Einrichtungen für Jugendliche im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 18: Betrieb offener Kamine und Kaminöfen - zur Kenntnis genommen
+- TOP 19: Verkehrsführung Zeppenheimer Straße / E-B-Straße - zur Kenntnis genommen
+- TOP 20: Grünanlage Kittelbach - zur Kenntnis genommen
+- TOP 21: Leuchtenberger Kirchweg - Umbau/verkehrslenkende Maßnahmen - zur Kenntnis genommen
+- TOP 22: Freiheitshagen - Ausbau - zur Kenntnis genommen
+- TOP 23: Kinderspielplatz Kalkum - zur Kenntnis genommen
+- TOP 24: Klimaschutz in Schulen: Grundschule Fliednerstraße - zur Kenntnis genommen
+- TOP 25: TVA - Herrichtung der Außenanlage - zur Kenntnis genommen
+- TOP 26: Kalkumer Schloßallee - Anlage einer weiteren Fahrspur - zur Kenntnis genommen
+- TOP 27: Klemensplatz-West - Uhr - zur Kenntnis genommen
+- TOP 28: Sportanlage Freiheitshagen - Errichtung einer Skateranlage - zur Kenntnis genommen
+- TOP 29: Einrichtungen für Jugendliche im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 30: Lärmmessung Angermund entlang der DB-Trasse - zur Kenntnis genommen
+- TOP 31: Flughafen - Baumaßnahmen - zur Kenntnis genommen
+- TOP 32: Stellungnahmen und Mitteilungen - zur Kenntnis genommen
+- TOP 33: Umrüstung von Gasbeleuchtung auf LED Beleuchtung in Lohausen - zur Kenntnis genommen
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Abbruchantrag Niederrheinstraße 129 - Abbruch eines Einfamilienhauses mit Scheune - zur Kenntnis genommen
