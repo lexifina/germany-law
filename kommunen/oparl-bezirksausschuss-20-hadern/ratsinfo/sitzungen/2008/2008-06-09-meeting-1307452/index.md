@@ -1,0 +1,106 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2008-06-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1307452
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1307452
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Absenkung des Bordsteins an der Einmündung Ellen-Ammann-Weg in die Willibaldstr.
+- TOP 1.2.: Füchse in Hadern
+- TOP 1.3.: Erschließungsmaßnahme "Am Stiftsbogen", hier: Einfahrt der Großbaustelle gegenüber Haus Nr. 33
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Wohnen, Bau und Umwelt
+- TOP 3.3.: UA Kinder/Jugend/Schule/Sport
+- TOP 3.4.: UA Verkehr
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag der Grundschule an der Großhaderner Str. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 2.700,- ? (Direktorium, 05.05.08)
+- TOP 5.2.: Antrag der Hauptschule an der Blumenauer Str. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.110,- ? (Direktorium, 28.04.08)
+- TOP 5.3.: Antrag des Elternbeirats der Grundschule an der Blumenauer Str. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 600,- ? (Direktorium, 28.04.08)
+- TOP 5.4.: zusätzliche Beleuchtung in der Tratzbergstr. 5 (Baureferat, 15.05.08)
+- TOP 5.5.: Entscheidung über Sondernutzungserlaubnis, Heiglhofstr. 3 - 5 (Kreisverwaltungsreferat, 19.05.08)
+- TOP 5.6.: Antrag des KJR, Kinderhaus Wolkerweg auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 5.000,- ? (Direktorium, 23.05.08)
+- TOP 5.7.: Entscheidung über Sondernutzungserlaubnis, Sauerbruchstr. / Ecke Pfingstrosenstr. (Kreisverwaltungsreferat, 21.05.08)
+- TOP 6.: Anhörungsfälle
+- TOP 6.1.: Heiglhofstr. 4, Umbau, Sanierung und Erweiterung eines Einzelhandels und Aufstockung des Bestandes für Büros (Heiglhofstr. 4 / Würmtalstr. 117) Bauteil A (Referat für Stadtplanung und Bauordnung, 25.04.08)
+- TOP 6.2.: Gemeinde Gräfelfing, Bebauungsplan Nr. 2 Gewerbegebiet zwischen der BAB 96 und der Großhaderner Str., sowie zwischen der Pasinger Str. und dem Lochhamer Schlag (Referat für Stadtplanung und Bauordnung, 24.04.08)
+- TOP 6.3.: Leistungsprogramm 2009 der MVG (Fahrplanwechsel Dezember 2008) (MVG, 29.04.08)
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest in der Rolandseckstr. 8 a am 05.07.08 (Kreisverwaltungsreferat, 13.05.08)
+- TOP 6.5.: Erinnerungsverfahren Pfingstrosenstr. 54 (Baureferat, 14.05.08)
+- TOP 6.6.: Verkehrsrechtliche Anordnung, hier: Gegenläufige Radwege in der Fürstenrieder Straße beidseitig in Höhe Überführung über die Ammerseestraße (Kreisverwaltungsreferat, 13.05.08)
+- TOP 7.: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Gräfelfinger Str. 102 a - 104, 1 Linde und 1 Eiche
+- TOP 7.2.: Saalburgstr. 4 a, 1 Spitzahorn
+- TOP 7.3.: Nothkaufstr. 2, 1 Birke
+- TOP 7.4.: Terofalstr. 103 - 125, gem. Baumbestandsplan und Freiflächengestaltungsplan
+- TOP 7.5.: Eichenstr. 1 a, 1 Konifere
+- TOP 7.6.: Drozzaweg 10, 2 Silbertannen
+- TOP 7.7.: Wilhelm-Weitling-Str. 6, gem. Baumbestandsplänen Nr. 10398 und 10400
+- TOP 7.8.: Windeckstr. 81, gem. Baumbestandplan Nr. 9106
+- TOP 7.9.: Heiglhofstr. 37 - 51, 1 Ahorn
+- TOP 7.10.: Kleinhaderner Str. 24, 2 Fichten
+- TOP 7.11.: Kurparkstr. 30, gem. Baumbestandplan Nr. 12714
+- TOP 7.12.: Hosigaustr. 7 - 7b, 1 Ahorn
+- TOP 7.13.: An der Rehwiese 5, 1 Douglasie
+- TOP 7.14.: Hochwaldstr. 3 a, 1 Tanne
+- TOP 7.15.: Waldesruhe 47, gem. Baumbestandplan Nr. 12351
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Hochwaldstr. 3 a, 1 Fichte (Referat für Stadtplanung und Bauordnung, 30.05.08)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Öffentlichkeitskampagne zur Steigerung der Sauberkeit im öffentlichen Raum "Rein. Und sauber" (Baureferat, 23.04.08)
+- TOP 8.2.: Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012 (Stadtkämmerei, 29.04.08)
+- TOP 8.3.: Unser Flyer zur Münchner Sozialstiftung - der Jubiläumsstiftung zum 850. Stadtgeburtstag Münchens (Sozialreferat, 07.05.08)
+- TOP 8.4.: Präsentation der Autobahndirektion zur Sanierung der Autobahn Garmisch (Baureferat, 05.05.08)
+- TOP 8.5.: Broschüre "Das Direktorium stellt sich vor" (Direktorium, 08.05.08)
+- TOP 8.6.: Information über die Sanierung und Modernisierung des U-Bahnhofs "Münchner Freiheit" (MVG, 04.04.08)
+- TOP 8.7.: Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Prälat-Wellenhofer-Str. 5 (Schul- und Kultusreferat, 14.05.08)
+- TOP 8.8.: Erlaubnisbescheid: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest in der Neufriedenheimer Str. am 05.07.08 (Kreisverwaltungsreferat, 27.05.08)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Haltverbotzeichen an der Bushaltestelle Wolkerweg (Kreisverwaltungsreferat, 25.04.08)
+- TOP 9.2.: Neugestaltung des Kinderspielplatzes auf der Grünfläche an der Kornwegerstraße (Baureferat, 30.04.08)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Container in der Kurparkstraße im Stadtbezirk 20 Hadern (Bayerisches Staatsministerium der Finanzen, 23.04.08)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Dank des VdK Ortsverbandes Hadern-Neuried für Zuschuss aus dem BA-Budget
+- TOP 11.2.: Zentrale Namenslesung der während der NS-Zeit ermordeten Münchner Juden anlässlich des 70. Jahrestages der sogenannten "Reichskristallnacht" (Arbeitsgruppe "Gedenkveranstaltung zum 9. November", 15.05.08)
+- TOP 11.3.: Landtags- und Bezirkswahl am 28.09.2008; Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer (Kreisverwaltungsreferat, 16.05.08)
+- TOP 11.4.: Regionalgespräch zwischen Lokalbaukommission und den Bezirksausschüssen (Referat für Stadtplanung und Bauordnung, 19.05.08)
+- TOP 11.5.: Ökumenischer Gottesdienst zum Stadtgründungsfest (Arbeitsgemeinschaft Christlicher Kirchen, 26.05.08)
+- TOP 11.6.: Sanierung und Erweiterung Schulgebäude Canisiusplatz 2, Elterninformationsabend (Schul- und Kultusreferat, 06.06.08)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 07.05.2008: Keine Bahnprivatisierung gegen die Interessen der Kommunen
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Sportausschusses vom 15.04.2008: Projekt "Mini-Spielfelder", Bewerbung beim Deutschen Fußball-Bund, insbesondere an der Willibald- / Senftenauerstr.
+- TOP 12.2.: Beschluss des Verwaltungs- und Personalausschusses vom 09.04.2008: Ablauf von Bürgerversammlungen; Übersetzung in Gebärdensprache
+- TOP 12.3.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 08.04.2008: Kurzstreckentarif für Kinder im MVV
+- TOP 12.4.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses am 01.04.2008: Zuschussnehmerdatei 2008, Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Amtes für Soziale SIcherung
+- TOP 12.1.: Beschluss des Umweltschutzausschusses vom 27.05.2008: Lärmschutz an der BAB 96: Einhausung zwischen Burgfrieden und Fürstenrieder Straße, Lärmschutzwände bzw. -fenster; Verminderung des Verkehrslärms, Verlängerung des Lärmschutzwalles bis zum Schlagweg, Tieferlegung der A 96, Autobahnringschluss im Südwesten (BV-Empfehlung Nr. 848 vom 25.09.2007) Die Empfehlung wird an die Autobahndirektion weitergeleitet. Diese will im Herbst einen zweiten "Runden Tisch" abhalten und einen "lärmarmen Asphalt" prüfen.
+- TOP 12.2.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.2008: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.2008: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.2008: Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012 (Hadern nicht betroffen)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.2008: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2008 - 2012, insbesondere des Freistaates Bayern und der "GAGFAH Klaus BBIGK" am Stiftsbogen / Schröfelhofstr. (932 Wohnungen, Fertigstellung bis 2010) (Anlage 1, Seite 7)
+- TOP 12.4.: Beschluss des Sozialausschusses vom 29.05.2008: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2008 - 2012, Einzelplan 4 / Sozialbereich, insbesondere zum BA-Antrag vom 08. / 10.10.2007 (Seite 18-19 und Anlage 9)
+- TOP 12.5.: Beschluss des Kinder- und Jugendhilfeausschusses vom 27.05.2008: Entwurf des Mehrjahresinvestitionsprogramms (MIP) 288 - 2012, Einzelplan 4 / Jugendamtsbereich, insbesondere zum BA-Antrag vom 08. / 10.10.2007 (Seite 18 und Anlage 9)
+- TOP 12.6.: Beschluss des Schul- und Sportausschusses vom 28.05.2008: Mehrjahresinvestitionsprogramm (MIP) 2008 - 2012 1. Investitionsmaßnahmen für Schulen und Kindertageseinrichtungen 2. verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse, insbesondere vom 08. / 10.10.2007 (Seite 18-20)
+- TOP 12.7.: Beschluss des Schul- und Sportausschusses vom 28.05.2008: Mehrjahresinvestitionsprogramm (MIP) 2008 - 2012 1. Investitionsmaßnahmen für Sportanlagen 2. Stellungnahmen der Bezirksausschüsse, insbesondere vom 08. / 10.10.2007 (Seite 4-5)
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
