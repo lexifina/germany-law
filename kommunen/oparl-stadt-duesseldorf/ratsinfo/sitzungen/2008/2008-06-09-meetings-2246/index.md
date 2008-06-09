@@ -1,0 +1,52 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-06-09T15:00:00+02:00
+- Ende: 2008-06-09T15:45:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2246
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2246
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096810.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096810.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096810.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Kämmererliste - einstimmig beschlossen
+- TOP 4: Kämmererliste - einstimmig beschlossen
+- TOP 5: Finanzcontrollingbericht - einstimmig beschlossen
+- TOP 6: Üpl Straßenbeleuchtung Bonner Straße - einstimmig beschlossen
+- TOP 7: Verlängerung Linie 701 - zurückgezogen
+- TOP 8: Gründung ITAD - passieren lassen
+- TOP 9: Umwidmung von Mitteln des Jan-Wellem-Jahres - einstimmig beschlossen
+- TOP 10: Fahrradstation Bertha-von-Suttner-Platz - Bau und Finanzierungsbeschluss - - passieren lassen
+- TOP 11: Dachsanierung und Brandschutzertüchtigung des Kunstmuseums/ Ehrenhof 5 - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 12: Sanierung der Hochwasserschutzanlage Burgallee in Kaiserswerth - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 13: ÖPNV-Beschleunigung Graf-Adolf-Straße - passieren lassen
+- TOP 14: Kesselstraße 1. BA - Straßenneubau - Bau- und Finanzierungsbeschluss - passieren lassen
+- TOP 15: Kreisverkehr Angermunder Straße / Rahmer Straße - Bau- und Finanzierungsbeschluss - passieren lassen
+- TOP 16: Wildenbruchstraße - passieren lassen
+- TOP 17: Umrüstung von Gasbeleuchtung auf LED Beleuchtung in Lohausen - passieren lassen
+- TOP 18: Benennung Vertreter d. Stadt D`dorf Vorstand Berg.-Rhein. Wasserverband - einstimmig beschlossen
+- TOP 19: Ersatzwahl JHA - einstimmig beschlossen
+- TOP 20: Neuwahl einer Schiedsfrau - einstimmig beschlossen
+- TOP 21: Verleihung der Förderpreise für bildende Kunst, Musik, Literatur und darstellende Kunst 2008 - einstimmig beschlossen
+- TOP 22: Änderung der Benutzungsordnung für die Tonhalle der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 23: Bericht des Instituts für Denkmalschutz und Denkmalpflege über das Jahr 2007 - einstimmig beschlossen
+- TOP 24: Unterstützung Fam. m. arbeitslosen Jugendl. - einstimmig beschlossen
+- TOP 25: Demographiebericht - einstimmig beschlossen
+- TOP 26: Planungsmaßnahmen
+- TOP 27: Entwicklungskonzept Innenstadt Süd-Ost - passieren lassen
+- TOP 28: Pl 5373/050-Östl.Aachener Str.-VÄ - passieren lassen
+- TOP 29: Brücke Pariser Straße - Planungskosten - einstimmig beschlossen
+- TOP 30: Franz-Vaahsen-Schule, KGS Grenzweg 12, Neubau von Klassenräumen und Räumlichkeiten für die OGATA - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 31: Sanierung der Natursteinfassade Burgplatz1- Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 32: KGS Citadellstraße 2B, Ausbau des Dachgeschosses für die Erweiterung der Offenen Ganztagsschule - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 33: Zweckverband IT - Kooperation Rheinland - einstimmig beschlossen
+- TOP 34: Verwaltungsrat Werkstatt für angepasste Arbeit - einstimmig beschlossen
+- TOP 35: Aufsichtsrat "Zukunftswerkstatt" - einstimmig beschlossen
