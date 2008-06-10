@@ -1,0 +1,80 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2008-06-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1297210
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1297210
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Dachbegrünung Gollierstr. 86
+- TOP 3.2.: Fluglärm an Sonn- und Feiertagen Laubbläser-Einsätze bei der Straßenreinigung
+- TOP 3.3.: Radspur Donnersberger Brücke
+- TOP 4: Beschlüsse des BA 8
+- TOP 5: Anhörungen
+- TOP 5.1.: Budget es BA 8 Antrag Kulturkeller Schwanthalerhöh für Stadtteiltage 2008 Antrag vom 01.04.2008
+- TOP 5.2.: Erweiterungsantrag für eine Warenstellage Landsberger Str. 115
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.2.: Neubau eines Wohngebäudes mit TG (Schießstättstr. 22), unterird. Anschlussarbeiten zur TG Schießstättstr. 20 und Teilsanierung der TG Schießstättstr. 18+20
+- TOP 6.1.3.: Neubau eines Verwaltungsgebäudes mit Läden und TG - Tektur (MK 2) Philipp-Loewenfeld-Straße
+- TOP 6.1.4.: Um- und Neugestaltung ds Areals zw. Garmischer Str. (östl) und Ridlerstr. (südl), Ridlerstr. 37 (Teiländerung BPlan Nr. 1370) Grundsatzbeschluss und weiteres Vorgehen Stellungnahme bis 23.06.2008
+- TOP 6.1.5.: BPlan mit GrünONr. 1819b - Ehemaliges Messgelände Südteil in den Stadtbezirken 6 und 8 Innere Erschließung - Messe Südteil
+- TOP 6.1.6.: Max-Friedlaender-Bogen, Bauabschnitt 2 - West Straßenbauarbeiten
+- TOP 6.1.7.: Errichtung einer Werbeanlage Westendstr. 100
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Bescheid über die Anerkennung von Kindertagesplätzen Kazmairstr. 66
+- TOP 6.2.2.: Zuschussnehmerdatei 2008 Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" - des Amtes für Soziale Sicherung / VorlagenNr. 02-08/V11697 - des Stadtjugendamtes / VorlagenNr. 02-08/11669 - des Amtes Wohnen und Migration / VorlagenNr. 02-087V11671
+- TOP 6.2.3.: Neubau und Sanierung Kinderhaus St. Rupert Kazmairstr. 66 z.K.
+- TOP 6.2.4.: Hauptschule Ridlerstraße Aufnahmekapazität BA-Schreiben vom 12.03.2008
+- TOP 6.2.5.: Kinderkrippe Ridlerminis
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Geplante Wegführung im Bavariapark
+- TOP 6.4.2.: Theresienhöhe WA 5 Stellplatznachweis in der TG der Alten Messe 02/08 - T 3 Erneute Behandlung aus 05/08
+- TOP 6.4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.4.: Bürgerinnen und Bürger gestalten ihre Stadt "Verkehrskonzept Westend"
+- TOP 6.4.5.: Leistungsprogramm der MVG Fahrplanwechsel
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: MIP - Entwurf 2008 - 2010
+- TOP 6.5.2.: Budgetantrag Evangelisches Migrationszentrum Internat. Stadtteilfest am 05.07.2008
+- TOP 6.5.3.: Budgetantrag LiLaLu e.V. Spielprogramm Umsonst und Draußen 15.-31.08.2008
+- TOP 6.5.4.: Budgetantrag KJR OBEN OHNE OpenAir am 26.07.2008
+- TOP 6.5.5.: Verwendungsnachweis Jahresempfang 2008
+- TOP 7: Erledigungen
+- TOP 7.1.: Erstellung Grünflächenoptimierungsplan für den 8. Stadtbezirk Abgabenachricht
+- TOP 7.2.: Adäquate Ersatzpflanzungen im 8. Stadtbezirk BA-Antrag Nr. 02-08/B2983 vom 12.02.2008
+- TOP 7.3.: Baugenehmigung für Werbeanlage Heimeranstraße Nähe HsNr. 31
+- TOP 7.4.: Aktion Saubere Stadt - Müllbehälter im Westend 04/07 - T 7.8 // 07/07 - T7.1 Papierkörbe im Bereicht Ganghofer- / Schwanthalerstraße 02/08 - T 3.4
+- TOP 7.5.: Abschaffung der Kunst- und Dosenmülltonnen zu Gunsten der Entsorgungsinsel 02-08/E00696 der BV des BA 8 vom 19.04.2007 01/08 - T 7.3 // 04/08 - T 7.1
+- TOP 7.6.: Theresienhöhe, Bereiche Alte Feuerwache Ganghoferstraße Neubau einer öffentlichen Grünanlage mit Bolzplatz und Rad- und Fußweg
+- TOP 7.7.: Lärmbelästigung durch die BladeNight
+- TOP 8: Anträge
+- TOP 8.1.: Öffentliche Förderung für KIKUS und ZKM e.V. seitens der LH München
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Baumaßnahmen der SWM Stichtag 09.05.2008
+- TOP 9.2.: Meldeliste Erstantragsverfahren 05.05. - 11.05.2008 a) Ganghoferstr. 4
+- TOP 9.3.: Baumaßnahmen der SWM Stichtag 19.05.2008
+- TOP 9.4.: Baumaßnahmen der SWM Stichtag 26.05.2008
+- TOP 10: Verschiedenes
+- TOP 10.1.: Regionalgespräche zwischen der Lokalbaukommission und den Bezirksausschuss 04.06.2008, 17.00 Uhr
+- TOP 10.2.: Landtags- und Bezirkswahl am 28.09.2008; Meldung ehrenamtlicher Wahlhelfer/Innen
+- TOP 10.3.: Rohrkanalsanierung Schwanthalerhöh Vorinformation
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Protokoll 03/08 Protokoll konst. 05/08
+- TOP 11.2.: Keine Bahnprivatisierung gegen die Interessen der Kommunen Sitzungsvorlagen Nrn. 02-08/V11995, 08-14/V00090
+- TOP 11.3.: Zuwendungsbescheid Budget vom 06.05.2008 Kath. Jugendseelsorge Antrag vom 27.02.2008
+- TOP 11.4.: MIP 2008 - 2012 Investitionnsvorhaben des Planungsreferates
+- TOP 11.5.: Fortschreibung MIP 2008 - 2012 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2008 - 2012
+- TOP 11.6.: Sicherung der Biotop- und Landschaftspflege in der LH München VorlagenNr. 02-08/V11878
+- TOP 11.7.: Gesetz zur Erleichterung von Planungsvorhaben für die Innentwicklung der Städte "BauGB 2007" Bericht über die die Inhalte und Auswirkungen für den Verwaltungsvollzug Hinweis / Ergänzung zum 02.04.2008 VorlagenNr. 02-08 / V 11037
+- TOP 11.8.: Keine Privatisierung gegen die Interessen der Kommunen VorlagenNr. 02-08/V11995 // 08-14/V00090
