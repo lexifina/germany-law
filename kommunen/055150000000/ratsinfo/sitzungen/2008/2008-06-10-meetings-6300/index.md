@@ -1,0 +1,53 @@
+# 39. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-06-10T17:07:00+02:00
+- Ende: 2008-06-10T20:04:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6300
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6300
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00265983.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Ausbau Bernhard-Ernst-Straße - Offenlegung nach KAG und Planungsbeschluss - einstimmig beschlossen
+- TOP 4.2: Inselbogen, Ausbau der Stichstraße - Baubeschluss - einstimmig beschlossen
+- TOP 4.3: Kindertagesstätte am Inselbogen, Neuordnung der Erschließung - einstimmig abgelehnt
+- TOP 5: Anhörungen
+- TOP 5.1: Weiterentwicklung der Bäderlandschaft in Münster - einstimmig beschlossen
+- TOP 5.2: Erweiterung der Albert-Schweitzer-Schule, Manfred-von-Richthofen-Straße 49 - einstimmig beschlossen
+- TOP 5.3: Vollsignalisierung des Knotenpunktes Kanalstraße / Wibbeltsraße - einstimmig beschlossen
+- TOP 5.4: Kanalstraße K 13 / Wibbeltstraße - einstimmig beschlossen
+- TOP 5.5: Umbau des Knotenpunktes Weseler Straße / B51 - mehrheitlich beschlossen
+- TOP 5.6: EU-weite Ausschreibung der städtischen Grundstücksflächen Yorkring/Steinfurter Straße - "ehem. TÜV-Areal" - mehrheitlich beschlossen
+- TOP 5.7: Bebauungsplan Nr. 520 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 5.8: Auswertung des Modellprojektes "Bildung eines Jugendrates in der Stadt Münster" - einstimmig beschlossen
+- TOP 5.9: Baukostenzuschüsse für Mitgliedsvereine des Stadtsportbund Münster e. V. - einstimmig beschlossen
+- TOP 5.10: Bebauungsplan Nr. 518 - Beschluss zur Aufstellung - einstimmig abgelehnt
+- TOP 6: Berichte
+- TOP 6.1: Bebauungsplan Nr. 518 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.2: Weiterentwicklung der Bäderlandschaft in Münster - zur Kenntnis genommen
+- TOP 6.3: Abschluss des Modellprojektes "Selbstständige Schule" - zur Kenntnis genommen
+- TOP 7: Anregungen/Anträge und Anfragen
+- TOP 7.1: Umbenennung der Elisabeth-Ney-Straße in Elisabet-Ney-Straße - eingebracht
+- TOP 7.2: Erschließung der Kindertagesstätte am Inselbogen - eingebracht
+- TOP 7.3: Beleuchtung der Wiese im Bereich Weseler Straße/Aegidiistraße - eingebracht
+- TOP 7.4: Instandsetzung der Grünfläche im Inneren des Ludgerikreisel - zur Kenntnis genommen
+- TOP 7.5: Parksituation nach Abriss des Südbades - eingebracht
+- TOP 7.6: Verkehrsüberwachung auf der Straße Gut Insel - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Neu-/Umgestaltung des Nordplatzes - zur Kenntnis genommen
+- TOP 8.2: Planung und Verwendung des Gebäudes Verspoel 7-8 - zur Kenntnis genommen
+- TOP 8.3: Glascontainer Geistmarkt
+- TOP 8.3.1: Glascontainer durch Unterflurcontainer auf dem Geistmarkt ersetzen - zur Kenntnis genommen
+- TOP 8.3.2: Geistmarkt - Neuer Standort für Glascontainer - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
