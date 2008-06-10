@@ -1,0 +1,7 @@
+# TOP 5.: Maßnahmen der Wirtschaftsförderung
+
+- Sitzung: Finanz- und Wirtschaftsförderungsausschuss (10. Sitzung) (2008-06-10)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/8598
+- Beratung: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/2078
