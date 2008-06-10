@@ -1,0 +1,8 @@
+# TOP 4.1: Uppenbergschule, städt. Förderschule, Förderschwerpunkt Lernen und emotionale und soziale Entwicklung, Bröderichweg 36, 48159 Münster
+
+- Sitzung: Sitzung (2008-06-10)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/79422
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/39289
