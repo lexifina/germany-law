@@ -1,0 +1,80 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2008-06-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1313476
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1313476
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1: Bürgersprechstunde
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Antrag zur Verkehrsberuhigung in der Nätherstraße
+- TOP 1.2.2.: Anfrage zum Verkehrsaufkommen der Allacher Straße
+- TOP 1.2.3.: Jugendtreff Spielplatz Megerlestr.
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Antrag auf Zuschuss aus dem Budget in Höhe von 2640,00 Euro; Antragsteller: TSV Allach 09 Turnen- und Handball e.V.
+- TOP 4.2.: Antrag auf Zuschuss aus dem Budget in Höhe von 5000 Euro; Antragsteller :Lilalu e.V.
+- TOP 4.3.: Straßenbenennung im 23. Stadtbezirk Allach-Untermenzing Name der Stichstraße zur Allacher Mühle
+- TOP 5.: Anhörungen
+- TOP 5.1.: Dachauer Str. 667, MAN Nutzfahrzeuge AG, Fahrerhauslackieranlage in Halle F6, hier: Durchsatzsteigerung von 240 auf 290 Fahrerhäuser
+- TOP 5.2.: Planfeststellung gem. § 18 Allgemeines Eisenbahngesetz (AEG); Rangierbahnhof München Nord - Eingrenzung Dammfuss Bahnkörper, Strecke 5523, Bahn-km 7,53-7,62
+- TOP 5.3.: Realisierung einer 4gruppigen Kinderkrippe mit 48 Langzeitplätzen Projektauftrag Kinderkrippe Gruithuisenstr.
+- TOP 5.4.: Errichtung einer Werbeanlage, Georg-Reismüller-Str. 24
+- TOP 6.: Schreiben des Oberbürgermeisters
+- TOP 7: Schreiben der 2. Bürgermeisterin
+- TOP 8.: Schreiben des Direktoriums
+- TOP 8.1.: Broschüre "Das Direktorium stellt sich vor"
+- TOP 9: Schreiben des Baureferates
+- TOP 9.1.: Baumaßnahme Zwiedineckstraße vom 13.05.08 bis voraussichtlich 11.07.08
+- TOP 9.2.: Weitere Radwegroute 4 zum Seengebiet Langwieder- Luss- und Birkensee Aufwertung des Geländes der aufgelösten städtischen Baumschule Müllerstadel
+- TOP 10: Schreiben des Kreisverwaltungsreferates
+- TOP 10.1.: Z 206 Krautheimstr. / Einmündung Karl-von-Roth-Straße
+- TOP 10.2.: Manzostraße Ecke Von-Reuter-Str.: Einrichtung einer Haltverbotszone
+- TOP 10.3.: Genehmigung Münchner Blade Night 2008 vom 28.04.2008 bis einschließlich 08.09.2008
+- TOP 10.4.: Landtags- und Bezirkswahl am 28.09.08; Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 10.5.: Absolutes Haltverbot in der Hausmannstraße
+- TOP 10.6.: Aufhebung des personenbezogenen Behindertenparkplatzes in der Eduard-Schwartz-Straße 2
+- TOP 10.7.: Teilast der Peter-Müller-Straße (zwischen Straßenknick der Ortsstraße und Ludwigsfelder Straße): Gehweg mit dem Zusatz "Radfahrer frei"
+- TOP 10.8.: Ermöglichung der Durchfahrt für Radfahrer in der St.-Johann-Straße
+- TOP 11: Schreiben des Planungsreferates
+- TOP 11.1.: Vollzug der BaumschutzVO - Willstätterstr. s. Baumbest.plan Nr. 2008-7452 - Dachauer Str. 667 s. Baumbest.plan Nr. 2008-4301
+- TOP 11.2.: Bauanträge (21.-27.04.; v. 28.04.-04.05., v. 05.05.-11.05.; 12.05-18.05.; 19.-25.05.08)
+- TOP 11.3.: Liste der beantragten Baumfällungen (28.04.-04.05., 05.05.-11.05.; 12.05.-18.05.08)
+- TOP 11.4.: Regionalgespräch zwischen Lokalbaukommission und den Bezirksausschüssen
+- TOP 12: Schreiben des Kommunalreferates
+- TOP 13: Schreiben des Schulreferates
+- TOP 13.1.: Bescheid über die Annerkennung von 75 Plätzen in der Kindertageseinrichtung Bauschweg 2
+- TOP 14: Schreiben des Sozialreferates
+- TOP 14.1.: Zweckentfremdung von Wohnraum: Curiestr. 4a
+- TOP 14.2.: Zweckentfremdung von Wohnraum: Auenbruggerstr. 37
+- TOP 14.3.: Zweckentfremdung von Wohnraum: Pasinger Heuweg 87
+- TOP 15: Schreiben des Referates für Gesundheit und Umwelt
+- TOP 15.1.: Dachauer Str. 665; Aktualisierung der Prüfstandsgenehmigungen unter Anpassung an die aktuellen betrieblichen Anforderungen
+- TOP 15.2.: Einladung zum Fachforum "Saubere Holz- und Pelletheizungen" (10. Juni) "EneV-Software zur energetischen Bewertung von Nichtwohngebäuden" (6. + 20. Juni) "Simulationssoftware für thermische Solaranlagen" (11. Juli)
+- TOP 16: Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 17: Schreiben des Kulturreferates
+- TOP 18: Schreiben des Personal - und Organisationsreferates
+- TOP 19: Schreiben der Stadtkämmerei
+- TOP 19.1.: Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012
+- TOP 20: Schreiben anderer Bezirksausschüsse
+- TOP 21: Schreiben der Stadtwerke München GmbH
+- TOP 21.1.: Baumaßnahmen
+- TOP 22: Stadtrats-und Ausschussbeschlüsse
+- TOP 22.1.: Kinder- und Jugendhilfeausschusses und Sozialausschuss vom 01.04.08 - Zuschussnehmerdatei 2008 Vollzug des Haushaltsplanes 2008 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 22.2.: Vollversammlung des Stadtrates vom 07.05.08 - Keine Bahnprivatisierung gegen die Interessen der Kommunen
+- TOP 22.3.: Ausschusses für Stadtplanung und Bauordnung vom 28.05.08 - Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug - Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München - Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012 - Festsetzung der Reihefolge großer Siedlungsmaßnahmen für die Jahre 2008-2012
+- TOP 22.4.: Beschluss des Schul- und Sportausschusses vom 28.05.2008 - Mehrjahresinvestitionsprogramm (MIP) 2008-2012; 1. Investitionsmaßnahmen für Schulen und Kindertageseinrichtungen; 2. verfahrenstechnische Neuerungen; 3. Stellungnahmen der Bezirksausschüsse
+- TOP 22.5.: Beschluss des Bauausschusses vom 03.06.2008 - Naherholungsgebiet "Langwieder Seen"; Fuß- und Radwegerschließung; Route 3 (Eschenrieder Straße) im 22. Stadtbezirk Aubing-Lochhausen-Langwied
+- TOP 23: Verschiedenes
+- TOP 23.1.: Schreiben der MVG - Leistungsprogramm 2009 der MVG (Fahrplanwechsel Dezember 2008)
+- TOP 23.2.: Schreiben der Arbeitsgruppe "Gedenkveranstaltung zum 9. November" - Zentrale Namenslesung der während NS-Zeit ermordetet Münchner Juden anlässlich des 70. Jahrestages der sogenannten "Reichskristallnacht"
+- TOP 23.3.: Nachträge zur Sitzung: - Anhörung: Straßenfest der Anwohner der Waldkolonie am 26.07.08 (Ersatztermin: 02.08.08) in der Listerstr. - Schreiben des Kreisverwaltungsreferates - Einrichtung einer Fahrradstraße in der Goteboldstraße zwischen Müllerstadelstraße und parkplatzzufahrt zum Lußsee - Haltverbot an der Behringstraße/Nigglstraße - Schreiben des Referates für Stadtplanung und Bauordnung - Vollzug der BaumschutzVO Sickenbergerstr. 17 s. Baumbestands.plan Nr. 2008-12781 - Bauanträge ( 26.05 - 01.06.08) - Liste der beantragten Baumfällungen (26.05. - 01.06.08) - Schreiben der Stadtwerke Baumaßnahmen - Schreiben des Referates für Arbeit und Wirtschaft Wirtschafts-Info 05/2008 - Schreiben des Referates für Gesundheit und Umwelt - Leitlinie Gesundheit; Öffentlichkeitsphase - Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen - Stadtrats- und Ausschussbeschlüsse - Beschluss des Kinder- und Jugendhilfeausschusses vom 27.05.08 Mehrjahresinvestitionsprogramm (MIP) 2008 - 2012 1. Investitionsmaßnahmen für Schulen und Kindertageseinrichtungen 2. verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse
