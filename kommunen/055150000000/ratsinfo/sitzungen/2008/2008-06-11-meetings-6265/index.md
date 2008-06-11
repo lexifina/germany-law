@@ -1,0 +1,59 @@
+# 33. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-06-11T17:10:00+02:00
+- Ende: 2008-06-11T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6265
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6265
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00265734.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit der Vorlagenersteller/innen zur Berichterstattung erforderlich ist.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 3.1: Ständige Berichterstattung Dortmund-Ems-Kanal
+- TOP 3.2: Hauptbahnhof - Verkehrsstation, hier: Zugang zu den Bahnsteigen
+- TOP 4: Bekanntgabe von Eingaben und Anträgen
+- TOP 5: Stadtentwicklung, Stadterneuerung, Wohnen
+- TOP 5.1: Projekt Schulstraße:
+- TOP 5.2: Städtisches Preußenstadion - einstimmig beschlossen
+- TOP 5.3: 11. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 5.4: Standortuntersuchung für innenstadtnahe Aufstellplätze für Wohnmobil-Touristen - einstimmig beschlossen
+- TOP 5.5: Städtenetzwerk Innenstadt NRW, Beitritt der Stadt Münster - einstimmig beschlossen
+- TOP 5.6: Geschäftsbericht des Amtes für Wohnungswesen - zur Kenntnis genommen
+- TOP 5.7: Modellprojekt "Wohnen für Hilfe" - zur Kenntnis genommen
+- TOP 5.8: Soziale Stadt Kinderhaus-Brüningheide, Jahresbericht 2007/2008 - zur Kenntnis genommen
+- TOP 5.9: Stadtregionale Bürgerumfrage 2006 zum Wohnen - "Auswertung der Münsteraner Ergebnisse" - zur Kenntnis genommen
+- TOP 5.10: Sehstationen - zur Kenntnis genommen
+- TOP 6: Stadtplanung
+- TOP 6.1: EU-weite Ausschreibung der städtischen Grundstücksflächen Yorkring/Steinfurter Straße - "ehem. TÜV-Areal" - mehrheitlich beschlossen
+- TOP 6.2: Bebauungsplan Nr. 520 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 6.3: Bebauungsplan Nr. 518 - Beschluss zur Aufstellung - mehrheitlich abgelehnt
+- TOP 6.4: Bebauungsplan Nr. 518 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.5: Vorhabenbezogener Bebauungsplan Nr. 521 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.6: 18. Änderung FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.7: Bebauungsplan Nr. 473 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.8: Zentrumserweiterung Mecklenbeck - südlich der St. Anna Kirche - einstimmig beschlossen
+- TOP 6.9: Bebauungsplan Nr.: 488: Roxel-Nord II - Havixbecker Straße / Stodtbrockweg / Nordumgehung / Brockkamp - mehrheitlich beschlossen
+- TOP 6.10: Bebauungsplan Nr. 508 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.11: Bebauungsplan Nr. 416, 1. Änderung - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 7: Verkehr
+- TOP 7.1: Information über die geplante Betrauung der Stadtwerke Münster mit der Erbringung von ÖPNV-Leistungen - einstimmig beschlossen
+- TOP 7.2: Bebauungsplan Nr. 516 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 7.3: Bebauungsplan Nr. 484 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 7.4: Vollsignalisierung des Knotenpunktes Kanalstraße / Wibbeltstraße - einstimmig geändert beschlossen
+- TOP 7.5: Hessenweg - Planung eines gemeinsamen Geh- und Radweges zwischen Schifffahrter Damm und Dortmund-Ems-Kanal (DEK)- Brücke - einstimmig beschlossen
+- TOP 7.6: Fußgängerlichtsignalanlage Roxeler Straße in Höhe der Schmeddingstraße/Niedenstiege - einstimmig beschlossen
+- TOP 7.7: Umbau des Knotenpunktes Weseler Straße / B51 - mehrheitlich beschlossen
+- TOP 7.8: Dorbaumstraße - Verbesserung der Querungssituation zwischen dem Kreisverkehr und der Immelmannstraße - einstimmig beschlossen
+- TOP 7.9: Mondstraße - Bauliche Verkehrsberuhigungsmaßnahmen im Einmündungsbereich Haus-Kleve-Weg - einstimmig beschlossen
+- TOP 7.10: ÖPNV-Sondermaßnahmen in der Vorweihnachtszeit 2008 - zur Kenntnis genommen
+- TOP 7.11: Sachstandsbericht zur Nutzung der Parkpalette Georgskommende - zur Kenntnis genommen
+- TOP 7.12: Bürgerradweg Hohenholter Straße - zur Kenntnis genommen
+- TOP 8: Verschiedenes
