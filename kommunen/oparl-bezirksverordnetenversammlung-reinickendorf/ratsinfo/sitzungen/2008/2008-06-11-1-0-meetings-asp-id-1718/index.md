@@ -1,0 +1,94 @@
+# 20. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2008-06-11T17:05:00+02:00
+- Ende: 2008-06-11T22:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1718
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1718
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=37946
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - im Ausschuss abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Mehr Sicherheit durch mehr Video-Überwachung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Beeinträchtigungen durch Gewerbegebiet Lübarser Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.3: Busverbindung Quickborner Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Dienstanweisung zum Umgang mit Zuwendungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.5: Konzept anlässlich des 40-jährigen Bestehens der Graphothek - überwiesen
+- TOP 5.6: Geschlossene Waldparkplätze Konradshöher Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Entwurf des Bebauungsplanes 12-19 für die Grundstücke Tegeler Straße 2-12, Berliner Straße 137-145, Robinienweg 1-5 sowie für den Robinienweg im Bezirk Reinickendorf. Ortsteil Hermsdorf - überwiesen
+- TOP 5.8: Jahresbericht des Patientenfürsprechers des Krankenhauses Reinickendorf in der Vivantes GmbH - ö. B. Humboldt-Krankenhaus - für das Jahr 2007 bis April 2008 - überwiesen
+- TOP 5.9: Bezirkliche Beratungs-Gremien - Aufwandsersatz - - vertagt
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Für den Erhalt der Jugendarbeit im Herzen Tegels - vertagt
+- TOP 6.2: Immer Wirtschaft mit der Gesundheitswirtschaft - vertagt
+- TOP 6.3: Ist Bürgerfreundlichkeit für das Bezirksamt Reinickendorf ein Fremdwort? - vertagt
+- TOP 6.4: Lebensretter Feuerwehr - an schnellen Einsätzen in Reinickendorf gehindert? - vertagt
+- TOP 6.5: Pflegemissstände in Reinickendorf - vertagt
+- TOP 6.6: Schlampige Aktenführung im Bezirksamt - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Übertragung einer Jugendfreizeitstätte an einen Freien Träger - vertagt
+- TOP 7.4: Wahl einer Bürgerdeputierten in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Anzahl der polizeilichen Präventionsbeauftragten nicht reduzieren - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Bericht über Ideen und Planungen eines "freiwilligen Ordnungsdienstes" - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Welche Positionen sucht der Bezirk im Stellenpool - erledigt
+- TOP 8.4: Einrichtung von Quartiersmanagement in den Gebieten Reinickendorf-Ost, Reinickendorf-West und dem Märkischen Viertel - vertagt
+- TOP 8.5: Sozialräumliche Stadtentwicklung - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Energetische Sanierung des Rathauses - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Nachbarschaftshilfe Frohnau - vertagt
+- TOP 8.8: Computerzeitalter in Reinickendorf - Drucksachen in elektronischer Form - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Zur Verfügungsstellung der Berichte des Rechnungshofs und der SE Finanzen - vertagt
+- TOP 9: Anträge - (offen)
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Förderung der Graphothek - vertagt
+- TOP 10.2: Den bezirklichen Haushaltsgewinn richtig nutzen - Präventionsprojekte fördern - vertagt
+- TOP 10.3: Arbeitsgrundlagen für die BVV: hier Spendenbericht - vertagt
+- TOP 10.4: Bereitschaftsdienste der Schulhausmeister langfristig sichern - überwiesen
+- TOP 10.5: Tourismuskonzept vorlegen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Maßregelvollzugs-Insassen in öffentlichen Wohneinrichtungen - überwiesen
+- TOP 10.7: Fahrbahnmarkierungen auf der Frohnauer Straße - überwiesen
+- TOP 10.8: Radfahrangebotsstreifen Hermsdorfer Straße - Triftstraße - Holzhauser Straße - überwiesen
+- TOP 10.9: Drucksache 0427/XVIII und Drucksache 0370/XVIII aufheben - vertagt
+- TOP 10.10: Angemessenes Gedenken für Bürgermeister und BVV-Vorsteher des Bezirks Reinickendorf - überwiesen
+- TOP 10.11: Förderung von Zivilcourage - überwiesen
+- TOP 10.12: Radfahrangebotsstreifen Oranienburger Straße - vertagt
+- TOP 10.13: Geschichtsbewusstsein in Reinickendorfer Schulen fördern - Veranstaltungen der BStU in Reinickendorf - überwiesen
+- TOP 10.14: Baumpflegemaßnahmen - überwiesen
+- TOP 10.15: Sponsoring zur Instandhaltung von Kinderspielplätzen und Spielgeräten - überwiesen
+- TOP 10.16: Schulgebäude - überwiesen
+- TOP 10.17: Aktion "Kinder lernen helfen" - überwiesen
+- TOP 10.18: Zuschüsse zur Brille - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Bericht über die Berliner Schulinspektionen - vertagt
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Notrufnummern auf den Schülerausweis! - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Radverkehr Tegel: Lösungsvorschlag Nr. 4 - überwiesen
+- TOP 11.3: Ganztagsschulprogramm fortsetzen - überwiesen
+- TOP 11.4: Fachärztemangel in Altenheimen - vertagt
+- TOP 11.5: Weitere Unfälle an der Bahnbrücke Klemkestraße vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Mehr grundständige Gymnasien in Reinickendorf - überwiesen
+- TOP 12: Soziale Problemgruppen in Reinickendorf - überwiesen
+- TOP 13: Korruptionsbekämpfung in Reinickendorf "ganz unten"? - beantwortet
+- TOP 13.1: Richtlinien zur Korruptionsbekämpfung umsetzen - überwiesen
+- TOP 14: Radverkehrskonzept? - überwiesen
+- TOP 14.1: Fahrradbeauftragter - überwiesen
+- TOP 15: Radverkehr Tegel: Lösungsvorschlag Nr. 5 Einzelhandelsfreundliche Umgestaltung der Berliner Straße - überwiesen
+- TOP 16: Kein Braunkohlenstaub-Heizkraftwerk im MV! - in der BVV abgelehnt
+- TOP 17: Eckpunkte für zukünftige Reinickendorfer Umwelttage - ohne Änderungen in der BVV beschlossen
+- TOP 18: Unterstützung des Volksbegehrens "Kitakinder und Bildung von Anfang an = ein Gewinn für Berlin" - überwiesen
+- TOP 19: Beitritt der Initiative "Charta der Vielfalt" - ohne Änderungen in der BVV beschlossen
+- TOP 20: Charta der Vielfalt beitreten - ohne Änderungen in der BVV beschlossen
+- TOP 21: Charta der Vielfalt unterzeichnen - ohne Änderungen in der BVV beschlossen
+- TOP 22: Aufklärung über die Aktenmanipulationen bei den Spendenakten im Bereich Senftleben - ohne Änderungen in der BVV beschlossen
+- TOP 23: Detaillierte Erfassung von Unterrichtsausfall an den Schulen - überwiesen
+- TOP 24: Tarifzonen zum Flughafen Schönefeld ändern - überwiesen
