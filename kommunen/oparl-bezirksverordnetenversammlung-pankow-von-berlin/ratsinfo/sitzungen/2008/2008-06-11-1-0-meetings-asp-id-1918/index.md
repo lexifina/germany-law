@@ -1,0 +1,86 @@
+# 16. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2008-06-11T17:30:00+02:00
+- Ende: 2008-06-11T21:45:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1918
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1918
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=31010
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfragen - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Ausschussbildung - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Nachwahl von stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.10: Wahl der Vertrauenspersonen für den Schöffenwahlausschuss zur Schöffenwahl für die Geschäftsjahre 2009 -2013 - gewählt
+- TOP 1.11: Aufstellung der Vorschlagsliste zur Wahl der Schöffen für die Geschäftsjahre 2009 -2013 - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Nachwahl eines stimmberechtigten Mitglieds im Integrationsbeirat Pankow für die VI. Wahlperiode - gewählt
+- TOP 1.13: Bezirklicher Beauftragter Jobcenter - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Mädchen- und Frauensport differenziert fördern - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Lichtsignalanlagen im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Erhöhung der Verkehrssicherheit im Bereich der Straßenbahnhaltestellen der Schönhauser Allee - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Pauschale Minderausgaben im Personalbereich - in der BVV abgelehnt
+- TOP 1.18: Eigentümer-Nutzer-Modell für die bezirklichen Immobilien - vertagt
+- TOP 1.19: Die Gutachtenpraxis des Bezirksamts Pankow - beantwortet
+- TOP 1.20: Auswirkungen von weiteren Einsparungen in Pankow - beantwortet
+- TOP 1.21: Stellenzusage für Kinderschutz umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: HipHop-Konzert im Mauerpark - beantwortet
+- TOP 1.23: Bürgerbeteiligung in den Sanierungsgebieten nachhaltig fördern - in der BVV abgelehnt
+- TOP 1.24: Lebensmittelhygiene in Pankower Schulen - beantwortet
+- TOP 1.25: Regenbogenflaggen über Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Sanierungsziele langfristig planungsrechtlich sichern - überwiesen
+- TOP 1.27: Hundeboxen (Tüten) in Grünanlagen des Bezirkes - überwiesen
+- TOP 1.28: Unterstützung für das Volksbegehren "Kitakinder + Bildung von Anfang an = Gewinn für Berlin" - mit Änderungen in der BVV beschlossen
+- TOP 1.29: Tempo 30 in der Schönhauser Straße in Französisch-Buchholz - überwiesen
+- TOP 1.30: Verabschiedung der Olympioniken - mit Änderungen in der BVV beschlossen
+- TOP 1.31: Mehr Sicherheit an der Bahntrasse entlang von Pankow-Heinersdorf - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Kommunales Wahlrecht für Nicht-EU-Bürgerinnen und Bürger! - überwiesen
+- TOP 1.33: Heidekrautbahn an das Fern-, Regional- und Schnellbahnnetz anschließen und das ÖPNV-Angebot im Nordostraum entwickeln! - überwiesen
+- TOP 1.34: Sicherung und Qualifizierung der Arbeit der Schülerclubs - überwiesen
+- TOP 1.35: Technische Voraussetzungen für eine hörbare Debatte in der BVV schaffen! - zurückgezogen
+- TOP 1.36: Jeder Schule ein/e Sozialarbeiter/in - überwiesen
+- TOP 1.37: Biodiversitätskonvention - Bezirk Pankow soll dem "Countdown 2010" beitreten - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Mitternachtssport - überwiesen
+- TOP 1.39: Shared Space - überwiesen
+- TOP 1.40: Kinderschutz - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Zukunft der Schullandheime und Einrichtungen der Kinder- und Jugenderholung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Leerstand beseitigen - den Ratskeller Pankow öffentlich nutzbar machen - vertagt
+- TOP 2.3: Tourismusmarketingkonzept für den Bezirk Pankow - vertagt
+- TOP 2.4: Tag der Spielplätze in Pankow einführen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Beschilderung der Bezirksamtsgebäude endlich an Bezirksnamen anpassen - vertagt
+- TOP 2.6: Generationsübergreifende Nutzung kommunaler Einrichtungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Kinderschutz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Neue Mensa für die Rosa-Luxemburg-Oberschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Interaktiver Kinder- und Jugendstadtplan - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Mauer um das Schloss Schönhausen öffnen - vertagt
+- TOP 2.11: Generationsübergreifender Spielplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Ruhender Verkehr im Ortsteil Buch - vertagt
+- TOP 2.13: Radfahrverbot auf der Fußgängerbrücke zwischen Sonnenburger Straße und Dänenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Keine Unterbringung von Menschen in der Zentralen Aufnahmeeinrichtung Motardstr. 101 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Zug der Erinnerung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Spielplatz Raabestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Behutsame Entwicklung im Sanierungsgebiet Kollwitzplatz Süd - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Interkulturellen Garten unterstützen! - vertagt
+- TOP 2.19: Pankow, ein Ort der Vielfalt - vertagt
+- TOP 2.20: Information zum Jahresabschlussergebnis 2007 des Bezirks Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Benennung einer privaten Erschließungsstraße im Ortsteil Weißensee in "Zur Ringallee" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Nutzungsentgelterhöhung für zu Erholungszwecken und für zu Wohnzwecken genutzte Parzellen in der Anlage "Gravenstein" - vertagt
+- TOP 2.23: Wirtschaftsplan des Eigenbetriebes "Kindergärten NordOst" für das Jahr 2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Bebauungsplan IV-34 für die Grundstücke Hans-Otto-Straße 10 und Hans-Otto-Straße 8 im Bezirk Prenzlauer Berg - vertagt
+- TOP 2.25: Aufstellung des Bebauungsplans 3-13 für das Gelände zwischen Lerchengraben, Piesporter Straße, Feldtmannstraße und Berliner Allee im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Untersetzung der pauschalen Minderausgaben für Personalausgaben für das Haushaltsjahr 2009 gemäß Doppelhaushalt 2008/ 2009 - vertagt
+- TOP 2.27: Entwicklungskonzepte für das Bewerbungsverfahren zur Teilnahme am Bund-Länder-Förderprogramm "Aktive Stadtzentren" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Bebauungsplan 3-20 für die Grundstücke Straßburger Straße 6, 8 und 9, Saarbrücker Straße 31-35 und die Grundstücke Grundbuchblatt 267 N der Flur 18, Flurstücke 81, 82, 84, 86, 88 und 90 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Vorschlag für die Bestellung eines Mitgliedes für den Vorstand der "Stiftung Schönholzer Heide" sowie einer Vertretung für den Fall der Verhinderung - mit Abschlussbericht zur Kenntnis genommen
