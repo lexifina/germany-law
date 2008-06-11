@@ -1,0 +1,56 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2008-06-11T15:00:00+02:00
+- Ende: 2008-06-11T20:45:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1096
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1096
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022197.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022197.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022197.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift
+- TOP 2: Leitbild MG 2030-plus - Mit Stimmenmehrheit abgelehnt
+- TOP 3: EGN-Regionalbeirat Entsorgung - Zur Kenntnis genommen
+- TOP 4: Nebentätigkeiten OB - Kenntnisnahme
+- TOP 5: Jahresrechnung 2007 - Zur Kenntnis genommen
+- TOP 6: Vermögens- und Schuldenübersicht NKF - Kenntnisnahme
+- TOP 7: Über- und außerplanmäßige Ausgaben des HJ 2007 - Einstimmiger Beschluss
+- TOP 8: Kleingartendarlehen 2008 - Einstimmiger Beschluss
+- TOP 9: Bekanntgabe des Abschlussergebnisses - Einstimmiger Beschluss
+- TOP 10: Entlastung der Sparkassenorgane - Einstimmiger Beschluss
+- TOP 11: Resolution SpkG - Zur Kenntnis genommen
+- TOP 12: Einführung der Papiertonne/ Satzungsänderung - Einstimmiger Beschluss
+- TOP 13: Beirat bei der Unteren Landschaftsbehörde - Einstimmiger Beschluss
+- TOP 14: Bildung eines Wahlausschusses - Einstimmiger Beschluss
+- TOP 15: VO Offenhalten Verkaufsstellen 2.11. u. 14.12.08 - Zur Kenntnis genommen
+- TOP 16: Verkaufsoffene Sonntage - Zur Kenntnis genommen
+- TOP 17: Schulentwicklungsplan (SEP) 5 - Sonderpäd. Förd. - Zur Kenntnis genommen
+- TOP 18: Schulentwicklungsplan (SEP) 5 - Sekundarstufe I - Zur Kenntnis genommen
+- TOP 19: Fortschreibung Rahmenkonzept OGata- Angebotsausbau - Einstimmiger Beschluss
+- TOP 20: Schuleinzugsbereiche Förderschulen - Einstimmiger Beschluss
+- TOP 21: Neue erweiterte Ganztagshauptschulen - Zur Kenntnis genommen
+- TOP 22: 5. Nachtrag zur Benutzungsordnung Stadtbibliothek - Zur Kenntnis genommen
+- TOP 23: Sanierung / Neubau Stadtbad Rheydt - Kenntnisnahme
+- TOP 24: Konzeption "Giesenkirchen 2015" - Zur Kenntnis genommen
+- TOP 25: Resolution des Integrationsrates - Zur Kenntnis genommen
+- TOP 26: Schiedsamtswahl Bezirk Hardt - Einstimmiger Beschluss
+- TOP 27: Schiedsamtsstellvertreterwahl III/1-Stadtmitte - Einstimmiger Beschluss
+- TOP 28: Schöffenwahlausschuss - Einstimmiger Beschluss
+- TOP 29: Bebauungsplan Nr. 636/VIII - Einstimmiger Beschluss
+- TOP 30: Bebauungsplan Nr. 668/X - Mit Stimmenmehrheit beschlossen
+- TOP 31: Bebauungsplan Nr. 678/I - Stadtbezirk Rheindahlen - Zur Kenntnis genommen
+- TOP 32: Veränderungssperre Landscheidung - Einstimmiger Beschluss
+- TOP 33: Sonderbeitragssatzung Stegesstr.bis Bismarckstr. - Zur Kenntnis genommen
+- TOP 34: Jahresabschluss 2007 - Zur Kenntnis genommen
+- TOP 35: Städtenetzwerk Innenstadt NRW - Einstimmiger Beschluss
+- TOP 36: INTERREG IV-B-Projekt "RoCK" - Einstimmiger Beschluss
+- TOP 37: Resolution gegen den zugelassenen Probebetrieb - Zur Kenntnis genommen
+- TOP 38: Städtische Friedhöfe Städtische Friedhöfe - Mit Stimmenmehrheit beschlossen
+- TOP 39: Anfragen - Zur Kenntnis genommen
