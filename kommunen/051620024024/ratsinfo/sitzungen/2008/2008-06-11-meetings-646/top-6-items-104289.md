@@ -1,0 +1,6 @@
+# TOP 6: Skihalle: Antrag auf Einleitung eines VEP-Satzungsverfahrens zur Ausweisung von Flächen mit der Zweckbestimmung Hotel, Freizeit, Sport + Erholung und auf Änderung des Flächennutzungsplans sowie auf Aufhebung der Gestaltungssatzung
+
+- Sitzung: Bezirksausschuss Holzheim (2008-06-11)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/104289
