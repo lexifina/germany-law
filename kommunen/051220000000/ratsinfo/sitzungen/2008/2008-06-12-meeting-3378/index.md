@@ -1,0 +1,58 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2008-06-12T15:00:00+02:00
+- Ende: 2008-06-12T16:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZR-16FWDDzJXUrER3qVVaD4
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3378
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZceqBvILEXrqhbWpMCRhv_zzR1Scn5Wkt1x73STsKn5l/Oeffentliche_Niederschrift_Rat_12.06.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Umbesetzung von Ausschüssen
+- TOP 4: Genehmigung der Wiederbestellung eines Mitglieds des Vorstandes der Stadt-Sparkasse Solingen
+- TOP 5: Wahl eines Verwaltungsratsmitglieds und zweier stellvertretender Verwaltungsratsmitglieder
+- TOP 6: Neufassung der Hauptsatzung der Stadt Solingen
+- TOP 7: Neufassung der Hauptsatzung der Stadt Solingen
+- TOP 8: Neufassung der Geschäftsordnung für den Rat der Stadt Solingen, seine Ausschüsse und die Bezirksvertretungen
+- TOP 9: Sicherung von verbliebenen Regionalemitteln
+- TOP 10: Soziale Stadt: Gebiet Nordstadt
+- TOP 11: Zentraler Betriebsausschuss
+- TOP 12: Vertretung des Oberbürgermeisters
+- TOP 13: Jahresabschluss 2007 und Schlussbilanz des Vermögensbetriebes der Stadt Solingen
+- TOP 14: Projekt Strategische Neuausrichtung des Vermögensbetriebes der Stadt Solingen (VBS)
+- TOP 15: I. Änderungssatzung zur Satzung über die Erhebung von Elternbeiträgen
+- TOP 16: I. Änderungssatzung zur Satzung über die Erhebung von Elternbeiträgen
+- TOP 17: Sofortmaßnahmen: Armut bekämpfen
+- TOP 18: Fachliche Abgrenzung des Berufskollegs
+- TOP 19: Offene Ganztagsschule im Primarbereich (oGS)
+- TOP 20: Bauleitplanung Graf-Wilhelm-Platz/ Neumarkt
+- TOP 21: Bauleitplanung Graf-Wilhelm-Platz/ Neumarkt
+- TOP 22: Bauleitplanung Schaberger Straße/Krahenhöher Weg
+- TOP 23: Verschiedenes
+- TOP 24: Ganztagsplätze für Kindertagesstätten
+- TOP 25: Berücksichtigung der Warmwasserkosten im Rahmen der Leistungen nach SGB II
+- TOP 26: Bericht des Seniorenbeirates der Stadt Solingen
+- TOP 27: Neugliederung der Ressorts
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Gründung einer Energiedienstleistungsgesellschaft als Tochterunternehmen der Stadtwerke Solingen GmbH
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll
+- TOP 4: Verleihung des Ehrenpreises der Stadt Solingen "Die Schärfste Klinge" 2008
+- TOP 5: Wahl der Haupt- und Hilfsschöffinnen und -schöffen
+- TOP 6: Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 7: Wirtschaftsförderung Solingen GmbH & Co. KG - Wertabschöpfungsklausel Piepersberg
+- TOP 8: Beteiligung der Städtisches Klinikum Solingen gemeinnützige GmbH an der solimed – Unternehmen Gesundheit GmbH & Co. KG
+- TOP 9: Gründung einer Energiedienstleistungsgesellschaft als Tochterunternehmen der Stadtwerke Solingen GmbH
+- TOP 10: Gründung einer Energiedienstleistungsgesellschaft als Tochterunternehmen der Stadtwerke Solingen GmbH
+- TOP 11: Verschiedenes
+- TOP 12: Anfrage von RM Knoche in der Sitzung des Rates am 24.04.2008
+- TOP 13: Bauleitplanung Graf-Wilhelm-Platz/ Neumarkt
+- TOP 14: Bauleitplanung Schaberger Straße/Krahenhöher Weg
