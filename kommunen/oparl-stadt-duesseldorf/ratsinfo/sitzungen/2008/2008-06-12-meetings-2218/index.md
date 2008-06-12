@@ -1,0 +1,75 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-06-12T16:00:00+02:00
+- Ende: 2008-06-12T17:33:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2218
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2218
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096796.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096796.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096796.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 10.04.2008 - einstimmig beschlossen
+- TOP 3: Bestellung eines beratenden Mitglieds des Jugendrates in der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 4: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 2. Halbjahr 2008 - einstimmig beschlossen
+- TOP 5: Ludwigstraße, Aufpflasterung - einstimmig beschlossen
+- TOP 6: Zuschüsse der Bezirksvertretung 8 im Jahre 2008 - mehrheitlich beschlossen
+- TOP 7: Zuschüsse zu kulturellen Veranstaltungen im Stadtbezirk 8, hier: Evangelische Markus - Kirchengemeinde - einstimmig beschlossen
+- TOP 8: Bauunterhalt an städtischen Einrichtungen - einstimmig beschlossen
+- TOP 9: Amphitheater Unterbacher See - zur Kenntnis genommen
+- TOP 10: Umgestaltung Unterbacher See - zur Kenntnis genommen
+- TOP 11: Grundwassersituation in Vennhausen - zur Kenntnis genommen
+- TOP 12: Grundwasserstand in Vennhausen - zur Kenntnis genommen
+- TOP 13: Sicherheitskonzepte für den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 14: Renaturierung Südliche Düssel - zur Kenntnis genommen
+- TOP 15: Seniorenpflegeeinrichtungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 16: Pflegeplätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 17: Postdienstleistungen in Vennhausen - zur Kenntnis genommen
+- TOP 18: Grünstreifen Am Stufstock - zur Kenntnis genommen
+- TOP 19: Monckartzhofweg - zur Kenntnis genommen
+- TOP 20: Blaue Tonne im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 21: Gleisbauarbeiten Erkrather Straße / Reisholzer Straße - einstimmig beschlossen
+- TOP 22: Grundstück Büllenkothenweg / Am Pflanzkamp - zur Kenntnis genommen
+- TOP 23: Fuß- und Radwegbrücke Am Kleinforst - einstimmig beschlossen
+- TOP 24: Feuerwehrzufahrt - einstimmig beschlossen
+- TOP 25: Sicherung der Uferzonen im Elbsee - einstimmig beschlossen
+- TOP 26: Anmeldeverfahren für weiterführende Schulen - zur Kenntnis genommen
+- TOP 27: Mieträder im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 28: Unterstützung der Erstklässler im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 29: Seniorenangebote im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 30: Parkplatzhinweisschilder Posener Straße - mehrheitlich beschlossen
+- TOP 31: Verkehrsüberwachung An der Schützenwiese - einstimmig beschlossen
+- TOP 32: Fuß- / Radweg Karlsruher Straße - S-Bahnhof Eller-Süd - einstimmig beschlossen
+- TOP 33: Streckenführung Linie 715 - einstimmig beschlossen
+- TOP 34: Fahrbahnsanierungen und Wegereparaturen - einstimmig beschlossen
+- TOP 35: Kinderspielplatz Gertrudisplatz - einstimmig beschlossen
+- TOP 36: Schulleiterstellen und Religionsunterricht an Grundschulen im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 37: Parkregelung Veehstraße - einstimmig beschlossen
+- TOP 38: Jugendtreff Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 39: Sachstand Sanierung der CKW-Grundwasserverunreinigung Eller/Bilk-Waagenstraße - zur Kenntnis genommen
+- TOP 40: Verkehrliche Maßnahmen im Bereich Heinrich-Heine-Platz und Kasernenstraße - zur Kenntnis genommen
+- TOP 41: Parksituation Teplitzer Straße - zur Kenntnis genommen
+- TOP 42: Lärmschutz A 46 - zur Kenntnis genommen
+- TOP 43: Flüsterasphalt in Eller und Lierenfeld - zur Kenntnis genommen
+- TOP 44: Deutzer Straße / Am Schönenkamp, Buslinie 785 - zur Kenntnis genommen
+- TOP 45: St. Michael Schule, Kempgensweg - zur Kenntnis genommen
+- TOP 46: Auswirkungen des Kinderbildungsgesetzes auf die Kindertageseinrichtungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 47: Radweg Eller Kamp / Am Kleinforst - zur Kenntnis genommen
+- TOP 48: Abpollerung Vennhauser Allee / Lasallestraße - zur Kenntnis genommen
+- TOP 49: Containerstation Bernburger Straße - zur Kenntnis genommen
+- TOP 50: Mobile Geschwindigkeitsanzeige im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 51: Grünweg Josef-Wilbert-Straße - Vennhauser Allee - zur Kenntnis genommen
+- TOP 52: Dachsanierung GGS Vennhauser Allee - zur Kenntnis genommen
+- TOP 53: Kunstwerk Gertrudisplatz - zur Kenntnis genommen
+- TOP 54: Gefahrenabwehrplan CO - Pipeline - zur Kenntnis genommen
+- TOP 55: Grünkonzept für den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 56: Bolzplatz Peter-Richarz-Straße - zur Kenntnis genommen
+- TOP 57: Carl-Sonnenschein-Schule, Gerresheimer Landstraße 89 - zur Kenntnis genommen
+- TOP 58: Standort Dreifachturnhalle Unterbach - zur Kenntnis genommen
