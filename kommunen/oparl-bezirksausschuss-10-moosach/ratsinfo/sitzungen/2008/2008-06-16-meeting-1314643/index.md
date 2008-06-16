@@ -1,0 +1,88 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2008-06-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1314643
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1314643
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Umwandlung der Kreuzung Eggmühler Str., Hayler Str. in eine verkehrsberuhigte Zone
+- TOP 2.2.: Verstellte Bürgersteige an der Dachauer Straße zwischen Eininger Straße und Paula-Ludwig-Weg - <div>Die betreffenden Läden werden angeschrieben</div>
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Lesung zur Progromnacht
+- TOP 3.2.: Sommerferienprogramm für Moosacher Kinder - <div>nach Antrag</div>
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Parksituation Siegmund-Schacky-Straße
+- TOP 3.2.: Bericht Ortstermin Allacher- Straße / Wintrichring
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Vorstellung der Gestaltung der beiden neuen U-Bahnhöfe
+- TOP 3.2.: Technische Betriebszentrale in der Schragenhofstraße
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4: Anträge
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Rad-/ Fußweg Kapuzinerhölzl - In den Kirschen
+- TOP 4.2.: Fortführung des "Treffs Lauinger 23"
+- TOP 4.3.: Stadtteillauf
+- TOP 4.4.: Bauzustand des Hauses Feldmochinger Straße 38
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Bushaltestelle Ehrenbreitsteiner Straße
+- TOP 4.2.: Serviceverbesserung an den Münchner Wertstoffhöfen
+- TOP 4.3: Anräge der ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 4.4.1.: Contentmanagement-System für die Internetseiten der Stadt München
+- TOP 4.4.2.: Linienführung der Buslinie 51 - <div>abgelehnt </div>
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10; Initiative "Art Temple": Ausstellung
+- TOP 5.2.: Zuschuss aus dem Budget des BA 10; REGSAM Moosach: Veranstaltung im Rahmen der 12. Moosacher Stadtteilkulturtage
+- TOP 5.3.: Zuschuss aus dem Budget des BA 10; Nachbarschaftstreff Karlingerstraße: Musikinstrumente für das Musikprojekt Karlingerstraße
+- TOP 5.4.: Zuschuss aus dem Budget des BA 10; Kulturverein Linie 1: "Moosach macht Oper"
+- TOP 5.5.: Zuschuss aus dem Budget des BA 10; Kirchenstiftung St. Raphael: Aufstellen einer Kreuzwegstation
+- TOP 5.6.: Zuschuss aus dem Budget des BA 10; Grundschule Dieselstraße: Schulklassenmusikprojekt
+- TOP 5.7.: (E) U-Bahn-Linie 3-Nord Baulos 2 und 3 Architektonische Gestaltung des U-Bahnhofes Moosach
+- TOP 5.8.: (E) U-Bahn-Linie 3-Nord Baulos 2 Architektonische Gestaltung des U-Bahnhofes Moosacher St.-Martins-Platz
+- TOP 6: Anhörungen
+- TOP 6.1.: Leistungsprogramm 2009 der MVG (Fahrplanwechsel Dezember 2008)
+- TOP 6.2.: Einbeziehung von Vertretern des Naturschutzes und Anwohnern des Olympiadorfes in die Entwicklungsplanung Olympiapark 2018
+- TOP 6.3.: Verkauf einer städtischen Immobilie
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Geschwindigkeitskontrollen in der Brieger Straße (Beanstandungsquote über dem Durchschnitt; daher Aufnahme in das regelmäßige Messprogramm)
+- TOP 7.2.: Verlegung der Feuerwache 7 "Moosach" (noch keine konkreten Aussagen möglich)
+- TOP 7.3.: Bürgerentscheid Transrapid am 13.04.08 (ist entfallen)
+- TOP 7.4.: Baustellenabwicklung und Busverkehr Moosacher Bahnhof (Änderungen der Haltestellen bei den Linien 50, 51, 176 und 710)
+- TOP 7.5.: Situation an der Fahrradtiefgarage U-Bahnhof OEZ (Verbesserung der Hinweise)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldelisten Bauvorhaben
+- TOP 8.3.: Sanierung und Modernisierung des U-Bahnhofes ?Münchner Freiheit?
+- TOP 8.4.: Überfliegen des Stadtgebietes
+- TOP 8.5.: Keine Bahnprivatisierung gegen die Interessen der Kommunen (Antrag der Stadtratsfraktion Bündnis 90/Die Grünen - RL)
+- TOP 8.6.: Kindertageseinrichtung Lechelstr. 41: Bescheid über die Anerkennung von Plätzen
+- TOP 8.7.: Erweiterung/Umbau/Instandsetzung der Grundschule Am Amphionpark an der Welzenbachstr. 12, Neubau der Kindertagesstätte Nanga-Parbat-Str. 105
+- TOP 8.8.: Pächterwechsel "Blue Bavaria", Bingener Str. 13
+- TOP 8.9.: Entwicklungsplanung Olympiapark 2018
+- TOP 8.10.: Borkenkäfer-Bescheinigung: 1 Fichte, Siegmund-Schacky-Str. 4
+- TOP 8.11.: Schreiben des Kreisjugendrings München-Stadt
+- TOP 8.12.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007";
+- TOP 8.13.: Mehrjahresinvestitionsprogramm des Referates für Stadtplanung und Bauordnung
+- TOP 8.14.: Mehrjahresinvestitionsprogramm des Schureferates: Investitionsmaßnahmen für Sportanlagen
+- TOP 8.15.: Mehrjahresinvestitionsprogramm des Schulreferates: Investitionsmaßnahmen für Schulen und Kindertageseinrichtungen
+- TOP 8.16.: Mehrjahresinvestitionsprogramm des Sozialreferates: Einzelplan 4, Jugendamtsbereich
+- TOP 8.17.: Leitlinie Gesundheit; Öffentlichkeitsphase
+- TOP 8.18.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2008 - 2012
+- TOP 8.19.: Wiederherstellung Pelkovenstraße zwischen Feldmochinger- und Ehrenbreitsteiner Straße, 1. Bauabschnitt, Projektkosten
+- TOP 8.20.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 8.21.: nicht öffentlich
+- TOP 8.22.: Rangierbahnhof München Nord - Eingrenzung Dammfuß Bahnkörper
+- TOP 8.23.: Fernwärmebauvorhaben "Darmstädter Straße"; Baumfällung auf dem Privatgrundstück Darmstädter Str. 11
+- TOP 8.24.: Bebauungsplan mit Grünordnung Nr. 2022: Trieb-, Hanauer Straße, Pelkoven- und Ehrenbreitsteiner Straße sowie Pelkoven-, Ries-, Gärtner-, Gneisenau-, Dürr-, Gärtner-, Hans-Bunte-Straße, Georg-Brauchle-Ring und Hanauer Straße
+- TOP 8.25.: Mehrjahresinvestitionsprogramm der Stadtkämmerei
+- TOP 8.26.: Vorfahrtsregelung Hugo-Troedle- / Welzenbachstraße
