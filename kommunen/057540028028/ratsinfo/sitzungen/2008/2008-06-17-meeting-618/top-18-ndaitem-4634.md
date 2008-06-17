@@ -1,0 +1,7 @@
+# TOP 18: Veräußerung eines Gewerbegrundstücks
+
+- Sitzung: Ausschuss für Grundstücke und Gebäude (13. Sitzung) (2008-06-17)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/4634
+- Ergebnis: Einstimmig
