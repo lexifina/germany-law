@@ -1,0 +1,142 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2008-06-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1318104
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1318104
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Verein für Stadtteilarbeit e.V. (Az.: 06/08 - 3.4.1): Zuschuss in Höhe von 500 ? für ein Sommerfest im Arnulfpark am 12.07.08
+- TOP 2.3.2.: Antrag AG Kunstprojekt (Az.: 06/08 ? 3.4.2): Zuschuss in Höhe von 300 ? für ein Kunstprojekt mit Schülern der Hauptschule Winthirplatz im Juni 2008
+- TOP 2.3.3.: Antrag AG Kinderfest (Az.: 06/08 ? 3.4.3): Zuschuss in Höhe von 1 000 ? für das BA-Kinderfest am 01.06.08
+- TOP 2.3.4.: Antrag Initiative ?Serenade im Park? (Az.: 06/08 - 3.5.1): Zuschuss in Höhe von 5 600 ? für das Klassikkonzert Open-Air am 26.07.08
+- TOP 2.3.5.: Antrag Bayerisches Rotes Kreuz (Az.: 06/08 ? 4.1): Zuschuss in Höhe von 3 500 ? für die 75-Jahr-Feier vom 01. - 04.05.08
+- TOP 2.3.6.: Antrag Dauerkleingartenanlage NW 1 (Az.: 06/08 ? 4.2): Zuschuss in Höhe von 400 ? für das Bürgerfest am 19.07.08
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: Beschlussvorlage KVR (Az.: 06/08 ? 4.3): Genehmigung einer Freischankfläche für die Hofpfisterei, Nibelungenstr. 4
+- TOP 2.4.2.: Beschlussvorlage KVR (Az.: 06/08 ? 4.4): Genehmigung einer Freischankfläche für die Gaststätte ?GourVin?, Hirschbergstr. 1
+- TOP 2.4.3.: Beschlussvorlage KVR (Az.: 06/08 ? 4.5): Genehmigung einer Freischankfläche für die Gaststätte ?Terrazza Mare?, Dachauer Str. 189
+- TOP 2.4.5.: Beschlussvorlage KVR (Az.: 06/08 ? 4.7): Genehmigung einer Freischankfläche für eine Bäckerei, Heideckstr. 4
+- TOP 2.4.6.: Beschlussvorlage KVR (Az.: 06/08 ? 4.8): Genehmigung einer Freischankfläche für die Bäckerei ?Sedlmayr?, Aldrianstr. 1
+- TOP 2.4.7.: Beschlussvorlage KVR (Az.: 06/08 ? 4.9): Genehmigung einer Freischankfläche für Vinzenz Murr, Rotkreuzplatz 2 a
+- TOP 8: (E) Verhinderung des Falschparkens an der Südlichen Auffahrtsallee im Bereich der Ferdinand-Maria-Straße Empfehlung Nr. 02-08 / E 00970 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen - Nymphenburg am 22.11.2007
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Beschlussvorlage Baureferat: Verhinderung des Falschparkens an der Südlichen Auffahrtsallee im Bereich der Ferdinand-Maria-Straße (Empfehlung Nr. 970 der Bürgerversammlung vom 22.11.07)
+- TOP 3.2.: Bürgeranliegen: Radspur Donnersbergerbrücke
+- TOP 3.3.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes am Christoph-Rapparini-Bogen 16
+- TOP 3.4.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Winfriedstr. 7
+- TOP 3.5.: KVR: Aufhebung eines personenbezogenen Behindertenparkplatzes in der Merianstr. 11
+- TOP 3.6.: KVR: Verkehrsrechtliche Anordnung wegen Fernwärmearbeiten Arnulfstr. 195 bis Schäringerstraße vom 29.05. - 30.09.08
+- TOP 3.7.: Baureferat: Erweiterung der bestehenden Querungsmöglichkeit für Radfahrer in der Nymphenburger Straße / Bauarbeiten vom 13.05. - 06.06.08
+- TOP 3.8.: Referat für Gesundheit und Umwelt: Ausnahmezulassung für den Betrieb eines Kompressors in der Birker-/Weiglstraße vom 27. -28.05.08
+- TOP 3.9.: Stadtwerke: Baumaßnahmen Wasserprojekt Gudrunstraße
+- TOP 3.10.: Baumaßnahmen der Stadtwerke im Mai 2008
+- TOP 3.11.: Fahrradständer am Leonrodplatz Fahrradständer an der Dall'Armistraße/Menzinger Straße Zebrastreifen Nederlinger-/Mettenstraße
+- TOP 3.12.: Baureferat: Fassadenverschmutzung Gaßnerstr. 15
+- TOP 3.13.: Baureferat: Instandsetzung von Pflasterstraßen, hier: Gudrunstraße (Schreiben BA 9 vom 20.05.08)
+- TOP 3.14.: Beschluss der Vollversammlung des Stadtrats vom 07.05.08: Keine Bahnprivatisierung gegen die Interessen der Kommunen
+- TOP 3.15.: MVG: Mögliche Angebotseinschränkungen der Tram 20/21 (Schreiben BA 9 vom 18.03.08)
+- TOP 3.16.: KVR: Öffnung der Winfriedstraße für Radfahrer, verkehrsrechtliche Anordnung
+- TOP 3.17.: Anträge der Stadtratsfraktionen der CSU, SPD und den Grünen: Untertunnelung der Landshuter Allee / Verbesserung des Lärmschutzes
+- TOP 3.18.: KVR: Freigabe für das Fahren auch in Gegenrichtung auf den beidseitigen Radwegen der Waisenhaus-/Dantestraße ab St.-Galler-Straße und Nördliche Auffahrtsallee bis zur Baldurstraße (Antrag BA 9 Nr. 2896 vom 19.02.08)
+- TOP 3.19.: =&gt; dazu: Bürgeranliegen (Wiedervorlage aus der Sitzung vom 15.04.08)
+- TOP 3.20.: MVG: Gleiserneuerung Dachauer Straße
+- TOP 3.21.: KVR: Verkehrssituation Ecke Nederlinger-/Klugstraße (Schreiben BA 9 vom 15.01.08)
+- TOP 3.22.: Bürgeranliegen: Verkehrssicherheit Kreuzung Wintrichring / Frauenwörther Straße / In den Kirschen
+- TOP 3.23.: Planungsreferat: Planänderung zur Planfeststellung für das Vorhaben "Neubau des S-Bahn-Haltepunktes Friedenheimer Brücke"
+- TOP 3.24.: BA 25 Laim: Neuer S-Bahn-Haltepunkt Friedenheimer Brücke
+- TOP 3.25.: Stadtwerke: Baumaßnahme Fernwärmeprojekt Erschließung Birketweg, Bauabschnitt Arnulfstraße
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 05.05. - 11.05., 12.05. - 18.05., 19.05. - 25.05. und 26.05. - 01.06.08
+- TOP 3.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.08: Mehrjahresinvestitionsprogramm für die Jahre 2008-2012
+- TOP 3.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.08: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2008-2012
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Bauvorhaben Amperstr. 10: Neubau eines Einfamilienhauses, Vorbescheid
+- TOP 3.6.: Bauvorhaben Scherrstr. 7: Neubau eines Mehrfamilienhauses mit Tiefgarage, Vorbescheid; hier: Baumfällungen
+- TOP 3.7.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.08: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"; Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug
+- TOP 3.8.: Planungsreferat: Regionalgespräch zwischen der LBK und den BAs am 04.06.08 / Bericht
+- TOP 3.9.: Beschlussvorlage Planungsreferat: Einbeziehung von Vertretern des Naturschutzes und Anwohner des Olympiadorfes in die Entwicklungsplanung Olympiapark 2018
+- TOP 3.10.: Beschluss der Vollversammlung des Stadtrats vom 07.05.08: Entwicklungsplanung Olympiapark 2018
+- TOP 3.11.: Kulturreferat: Neuhauser Trafo; Neubau (Antrag BA 9 Nr. 2701 vom 18.12.07)
+- TOP 3.12.: Baureferat: Kommission für Kunst am Bau; Stimmrecht des BA 9 (Schreiben BA 9 vom 17.12.07, Wiedervorlage aus der Sitzung vom 18.03.08)
+- TOP 3.13.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Hanfstaenglstraße
+- TOP 3.14.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Hirschgartenallee
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Marsstr. 78: Fällung von 1 Esche und 7 Thujen
+- TOP 3.2.: Klarastr. 19: Fällung von 5 Pappeln und 4 Buchen
+- TOP 3.3.: Blücherstr. 5: Fällung von 1 Fichte
+- TOP 3.4.: Frundsbergstr. 37: Fällung von 1 Kastanie
+- TOP 3.5.: Bothmerstr. 1: Fällung von 1 Weide und 1 Ahorn
+- TOP 3.6.: Aiblingerstr. 9: Fällung von 1 Blaufichte und Kürzung von 1 Hainbuche und 1 Buche
+- TOP 3.7.: Kratzerstr. 40: Fällung von1 Fichte
+- TOP 3.8.: Fuststr. 12: Fällung von 1 Weide und 1 Thuje
+- TOP 3.9.: Baureferat: Fällung von 1 Fichte als Gefahrenbaum in der Pagodenburgstr. 1
+- TOP 3.10.: Abfallwirtschaftsbetrieb: Neuer Wertstoffcontainerstandort Albrechtstraße / Horemansstraße
+- TOP 3.11.: =&gt; dazu: Schreiben Remondis: Standplatzverlegung Container Albrecht-/Leonrodstraße
+- TOP 3.12.: Referat für Gesundheit und Umwelt: Einladung zu Fachforen "Saubere Holz- und Pelletheizungen" am 10.06.08, "EneV-Software zur energetischen Bewertung von Nichtwohngebäuden" am 06. und 20.06.08, "Simulationssoftware für thermische Solaranlagen" am 11.07.08
+- TOP 3.13.: Baureferat: Öffentlichkeitskampagne zur Steigerung der Sauberkeit im öffentlichen Raum "Rein. Und Sauber" (Wiedervorlage aus der Sitzung vom 20.05.08)
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Antrag Verein für Stadtteilarbeit e.V.: Zuschuss in Höhe von 500 ? für ein Sommerfest im Arnulfpark am 12.07.08
+- TOP 3.2.: Antrag AG Kunstprojekt: Zuschuss in Höhe von 300 ? für ein Kunstprojekt mit Schülern der Hauptschule Winthirplatz im Juni 2008
+- TOP 3.3.: Antrag AG Kinderfest: Zuschuss in Höhe von 1 000 ? für das BA-Kinderfest am 01.06.08
+- TOP 3.4.: Elterninitiative Kolibri: Finanzierung des Umzugs
+- TOP 3.5.: Vorstellung der Planungen für den Jugendspielplatz Donnersbergerbrücke durch das Baureferat
+- TOP 3.6.: Schulreferat: Bescheid über die Anerkennung von 75 Plätzen in der Kindertageseinrichtung Hohenlohestr. 41
+- TOP 3.7.: Einladung zur nächsten Sitzung der ÖAG Alte Menschen am 17.06.08
+- TOP 3.8.: Bürgeranliegen: Klassenbildung Adolf-Weber-Gymnasium für 2008/2009
+- TOP 3.9.: Planungsreferat: Richelstr. 19, Umbau des ehemaligen Stellwerks in einen Kindergarten (Schreiben BA 9 vom 15.04.08)
+- TOP 3.10.: Verein Erholungspark für Kriegs- und Körperbeschädigte München e.V.: Kündigung des Pachtvertrags
+- TOP 3.11.: Schreiben Lilalu e.V.
+- TOP 3.12.: Sozialreferat: Bewohnertreff Arnulfpark / Angebote für Jugendliche: Vorläuferprojekt (Antrag BA 9 Nr. 2898 vom 19.02.08)
+- TOP 3.13.: Sozialreferat: Besetzung der Streetworkerstelle (Schreiben BA 9 vom 15.04.08)
+- TOP 3.14.: Schulreferat: Sportplatz Schule Alfonsstraße, Sanierung des Ballfangzauns (Schreiben BA 9 vom 19.02.08)
+- TOP 3.15.: Bürgeranliegen: Grund- und Hauptschule Alfonsstr. 8, Aktivitäten auf der Schulsportanlage (Wiedervorlage aus der Sitzung vom 20.05.08)
+- TOP 3.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.17.: Beschluss des Schul- und Sportausschusses vom 28.05.08: Städtisches Käthe-Kollwitz-Gymnasium; Brandschutzmaßnahmen und Generalinstandsetzung
+- TOP 3.18.: Beschluss des Sozialausschusses vom 29.05.08: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2008-2012, Einzelplan 4 / Sozialbereich
+- TOP 3.19.: Beschluss des Kinder- und Jugendhilfeausschusses vom 27.05.08: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2008-2012, Einzelplan 4 / Jugendamtsbereich
+- TOP 3.20.: Beschluss des Schul- und Sportausschusses vom 28.05.08: Mehrjahresinvestitionsprogramm 2008-2012; Investitionsmaßnahmen für Schulen und Kindertageseinrichtungen; verfahrenstechnische Neuerungen; Stellungnahme der Bezirksausschüsse
+- TOP 3.21.: Schulreferat: "Das Schulreferat trifft die Bezirksausschüsse" / Treffen BA 9 am 10.07.08 (Wiedervorlage aus der Sitzung vom 18.09.07)
+- TOP 3.22.: Antrag SPD: Ersatz des bisherigen Systems der Studiengebühren durch nachgelagerte Gebühren zum Wintersemester 2008/09
+- TOP 3.23.: KJR: Jugendcamp Kapuzinerhölzl geöffnet vom 06.06. - 13.10.08
+- TOP 3.24.: Beschluss des Kinder- und Jugendhilfeausschusses vom 27.05.08: Neuhauser Trafo 2. Bauabschnitt Aldringenstraße, Realisierung einer viergruppigen Kinderkrippe
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.1.: Antrag Initiative ?Serenade im Park?: Zuschuss in Höhe von 5 600 ? für das Klassikkonzert Open-Air am 26.07.08
+- TOP 3.2.: Werbegemeinschaft Rotkreuzplatz: Neuhauser-Nymphenburger Fotomeile 2008
+- TOP 3.3.: Einladung zum Sommerfest der Bayerischen Architektenkammer am 27.06.08
+- TOP 3.4.: Kulturreferat: Veranstaltungen im Mai 2008
+- TOP 3.5.: Kulturreferat: Veranstaltungshinweise April 2008 (Schreiben BA 9 vom 20.05.08)
+- TOP 3.6.: Verwendungsnachweis- und Bericht über eine Bewilligung aus dem Budget des BA 9; hier: Volkschor München-Neuhausen
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Projekt Bürger gestalten ihre Stadt; Einladung / Kulturverein / Vereine: wann ?
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Antrag Bayerisches Rotes Kreuz: Zuschuss in Höhe von 3 500 ? für die 75-Jahr-Feier vom 01. - 04.05.08
+- TOP 4.2.: Antrag Dauerkleingartenanlage NW 1: Zuschuss in Höhe von 400 ? für das Bürgerfest am 19.07.08
+- TOP 4.3.: Beschlussvorlage KVR: Genehmigung einer Freischankfläche für die Hofpfisterei, Nibelungenstr. 4
+- TOP 4.4.: Beschlussvorlage KVR: Genehmigung einer Freischankfläche für die Gaststätte ?GourVin?, Hirschbergstr. 1
+- TOP 4.5.: Beschlussvorlage KVR: Genehmigung einer Freischankfläche für die Gaststätte ?Terrazza Mare?, Dachauer Str. 189
+- TOP 4.7.: Beschlussvorlage KVR: Genehmigung einer Freischankfläche für eine Bäckerei, Heideckstr. 4
+- TOP 4.8.: Beschlussvorlage KVR: Genehmigung einer Freischankfläche für die Bäckerei ?Sedlmayr?, Aldrianstr. 1
+- TOP 4.9.: Beschlussvorlage KVR: Genehmigung einer Freischankfläche für Vinzenz Murr, Rotkreuzplatz 2 a
+- TOP 4.10.: KVR: Pächterwechsel a) Schlossgaststätte zur Schwaige, Schloss Nymphenburg, Eingang 30 b) Lukulion, Andreestr. 10 c) Rotkreuzstüberl, Schulstr. 2 d) Locanda Trevisana, Schulstr. 41
+- TOP 4.11.: KVR: Infoveranstaltung der Verkehrspolizeiinspektion am 04.07.08 auf dem Rotkreuzplatz
+- TOP 4.12.: Stadtkämmerei: Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012 (Wiedervorlage aus der Sitzung vom 20.05.08)
+- TOP 4.13.: MVG: Bürgerbeschwerde Party-Tram (Schreiben BA 9 vom 20.03.08) Wiedervorlage aus der Sitzung vom 20.05.08
+- TOP 4.14.: =&gt; dazu: BA 4 Schwabing-West: Belästigung an der Olympiaparkwendeschleife, Party-Tram
+- TOP 4.15.: KVR: Ausnahmebewilligung für ein Eisdreirad im Hirschgarten vom 01.05. - 30.09.08
+- TOP 4.16.: KVR: Veranstaltungen sowie Sondernutzungen auf öffentlichem Verkehrsgrund, neue Veranstaltungsrichtlinien (Wiedervorlage aus der Sitzung vom 20.05.08)
+- TOP 4.17.: Direktorium: Änderung Art. 60 GO, Übertragung laufender Angelegenheiten des Oberbürgermeisters in die Bezirksausschüsse; Erfahrungsaustausch mit den BA-Vorsitzenden vom 02.04.08
+- TOP 5.: Verschiedenes
+- TOP 4.6.: Beschlussvorlage KVR (Az.: 06/08 ? 4.6): Genehmigung einer Freischankfläche für die Konditorei ?Hölzl?, Helene-Weber-Allee 13
