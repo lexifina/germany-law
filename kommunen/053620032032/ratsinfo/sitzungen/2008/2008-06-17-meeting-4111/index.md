@@ -1,0 +1,71 @@
+# Stadtrat (27. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2008-06-17T17:02:00+02:00
+- Ende: 2008-06-17T21:27:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZbX8KCnSSuYagC_RmtGVXTk
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/4111
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZwB2joWKHUnokxOKw80nlWi-X13s6BjlQ1e9cYaMhdp/Bekanntmachung_Stadtrat_17.06.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZcTyk6JU_d0csAoWo4fqO3rRrXRq7pvXe5YmI-X0v9ez/Oeffentliche_Niederschrift_Stadtrat_17.06.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Schiedsamtsangelegenheiten hier: Wiederwahl einer Schiedsperson
+- TOP 2.: Besetzung bzw. Umbesetzung von Ausschüssen und Gremien
+- TOP 2.1: Wahl von sachkundigen Einwohnern/innen; hier: Antrag des Seniorenbeirates
+- TOP 2.2: Besetzung der Räte der Kindertageseinrichtungen Esperantostr. in Manheim, Habbelrather Str. in Neu-Bottenbroich, Kerpener Weg in Blatzheim und Platanenallee in Türnich
+- TOP 2.3: Umbesetzung des Umweltausschusses; hier: Anträge der Fraktionen von SPD und FDP
+- TOP 2.4: Umbesetzung des Schulausschusses hier: Antrag der CDU-Fraktion
+- TOP 3.: Erlass von Ortsrecht
+- TOP 3.1: Änderung der Benutzungs- und Entgeltsatzung für die Offenen Ganztagsschulen im Stadtgebiet Kerpern
+- TOP 4.: Stadtentwicklung und Bauleitplanung
+- TOP 4.1: Fachmarktzentrum Falder/Bürrig, Stadtteil Kerpen
+- TOP 4.1.1: 1. Änderung zum Vergnügungsstättenkonzept der Stadt Kerpen
+- TOP 4.1.2: 1. Änderung Einzelhandelskonzept der Stadt Kerpen
+- TOP 4.1.3: Grundstücksangelegenheiten im Bereich Falder/Bürrig sowie Gewährung eines Investitionskostenzuschusses zur Errichtung der äußeren Erschließung
+- TOP 4.1.4: Abschluss eines Erschließungsvertrages zum BP KE NR. 321 "Am Falder / Auf dem Bürrig"
+- TOP 4.1.5: Errichtung einer Fachhochschule am Standort Falder/Bürrig
+- TOP 4.1.6: 56. Änderung des Flächennutzungsplanes "Am Falder/ Auf dem Bürrig", Stadtteil Kerpen hier: Wirksamkeitsbeschluss
+- TOP 4.1.7: Bebauungsplan KE 321 "Am Falder/ Auf dem Bürrig", Stadtteil Kerpen hier: Satzungsbeschluss
+- TOP 4.1.8: Gestaltungssatzung zum Bebauungsplan KE 321 "Am Falder/Auf dem Bürrig" im Stadtteil Kerpen
+- TOP 4.2: Vorhabenbezogener Bebauungsplan KE Nr. 272 B "Eindhovener Straße" Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 4.3: Bebauungsplan BL 270/1. Änderung "Am Lechenicher Weg", Stadtteil Blatzheim hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 4.4: Bebauungsplan BL 330 "Kunibertusstraße/Giffelsberger Weg ", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 4.5: 58. Änderung des Flächennutzungsplanes "Immissionsschutzwall Buir", Stadtteil Buir hier Wirksamkeitsbeschluss
+- TOP 4.6: Bebauungsplan BU 326 "Immissionsschutzwall Buir", Stadtteil Buir hier: Satzungsbeschluss
+- TOP 4.7: Bebauungsplan SI 252 "Lammertsheck", Stadtteil Sindorf hier: Offenlegungsbeschluss gem § 3 (2) BauGB
+- TOP 4.8: Bebauungsplan SI 331 "Kerpener Straße/Goethestraße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 4.9: Veränderungssperre BP SI 331 "Kerpener Straße/Goethestraße", Stadtteil Sindorf
+- TOP 4.10: Bebauungsplan TÜ Nr. 246/ 3. Änderung "Gewerbe-/Industriegebiet Ville" Stadtteil Kerpen- Türnich hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 4.11: Erweiterung des Naturparks Rheinland
+- TOP 4.12: Rahmenbetriebsplan mit UVP gem. § 52 Abs. 2a BBergG für die Gewinnung von Quarzsand u. Quarzkies „Tagebau Forster Feld" im Stadtteil Manheim
+- TOP 5.: Prozesskostenhilfe für den BUND und die Aktion "Buirer für Buir"; hier. Antrag der UWG-Fraktion
+- TOP 6.: Grundschule Vogelrutherfeld, Stadtteil Sindorf
+- TOP 7.: Projekt "Quartiermanagement Buchenhöhe"
+- TOP 8.: Funktion des Kämmerers der Stadt Kerpen und Änderung des Stellenplanes
+- TOP 9.: Erhöhung von Stundenanteilen für die Durchführung von Sprachfördermaßnahmen in Kindertageseinrichtungen
+- TOP 9a: Personalbedarf infolge der Umsetzung des Kinder- und Bildungsgesetzes zum 01.08.2008
+- TOP 10.: Einführung der Kosten- und Leistungsrechnung im Baubetriebshof
+- TOP zu TOP 10: Einführung der Kosten- und Leistungsrechnung im Baubetriebshof hier: Aufhebung eines "kw-Vermerkes" im Stellenplan 2008
+- TOP 11.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 13.1: Grünstreifen entlang der Gebäudewand der Pferdeklinik in Buir
+- TOP 14.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 15.: Situation der Erftland Kommunale Wohnungsgesellschaft mbH;
+- TOP 16.: Vorschlagliste für die Wahl der Schöffinnen und Schöffen für die Amtszeit vom 01.01.2009 bis 31.12.2013
+- TOP 17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.1: Bestellung eines Stadtamtmanns zum Verwaltungsprüfer
+- TOP 17.2: Ernennung eines Stadtverwaltungsdirektors zum Ltd. Stadtverwaltungsdirektor
+- TOP 18.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 18.1: Außerplanmäßige Bereitstellung von Mitteln für den Fahrbahnkreisel B 264 / L 163 (Heerstraße)
+- TOP 19.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 20.: Mitteilungen
+- TOP 21.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 22.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
