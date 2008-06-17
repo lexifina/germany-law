@@ -1,0 +1,51 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-06-17T16:00:00+02:00
+- Ende: 2008-06-17T19:45:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2358
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2358
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126293.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126293.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126293.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift - zur Kenntnis genommen
+- TOP 3: Schiedsmänner - zur Kenntnis genommen
+- TOP 4: Jugendschutz- Sekten
+- TOP 5: Soziale Stadt NRW - zur Kenntnis genommen
+- TOP 6: Werdener Straße (Innerer Ring 4. Bauabschnitt)
+- TOP 7: 5677/048 - zur Kenntnis genommen
+- TOP 8: Düsseldorf in Zahlen ab 1992 - zur Kenntnis genommen
+- TOP 9: Sohnstraße II - zur Kenntnis genommen
+- TOP 10: Sohnstraße II - zur Kenntnis genommen
+- TOP 11: Heinrichstraße - Ausbau - zur Kenntnis genommen
+- TOP 12: Mendelssohnstraße - zur Kenntnis genommen
+- TOP 13: Mendelssohnstraße - zur Kenntnis genommen
+- TOP 14: Rembrandtstraße - zur Kenntnis genommen
+- TOP 15: S-Bahnhöfe im Stadtbezirk 2 - zur Kenntnis genommen
+- TOP 16: Höherweg 100 - zur Kenntnis genommen
+- TOP 17: Flinger Broich 87 - Fortuna 95 - zur Kenntnis genommen
+- TOP 18: Abfallbeseitigung Duales System II - zur Kenntnis genommen
+- TOP 19: Hermannstraße - zur Kenntnis genommen
+- TOP 20: Sohnstraße II - zur Kenntnis genommen
+- TOP 21: Eythstraße - zur Kenntnis genommen
+- TOP 22: Sohnstraße II - zur Kenntnis genommen
+- TOP 23: Flinger Broich - Radwege u.... - zur Kenntnis genommen
+- TOP 24: Flinger Broich - Radwege u..... - zur Kenntnis genommen
+- TOP 25: Rethelstraße - zur Kenntnis genommen
+- TOP 26: Hohenzollernallee u.a. - zur Kenntnis genommen
+- TOP 27: GBA 300 - zur Kenntnis genommen
+- TOP 28: Gerresheimer Str. / Behrenstr. - zur Kenntnis genommen
+- TOP 29: GBA versch. Hausnummern II - zur Kenntnis genommen
+- TOP 30: Rheinbahn - zur Kenntnis genommen
+- TOP 31: Rheinbahn - zur Kenntnis genommen
+- TOP 32: Umweltschutz V - zur Kenntnis genommen
+- TOP 33: Abfallbeseitigung Duales System II - zur Kenntnis genommen
+- TOP 34: Lindenstr. 102 - zur Kenntnis genommen
