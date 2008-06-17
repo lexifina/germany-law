@@ -1,0 +1,177 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2008-06-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1327944
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1327944
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.2.1.: Krämermühle; Dokumentation von Bedeutung und Funktion; Bürger-E-Mail vom 09.05.2008
+- TOP 2.1.2.2.: Harlachinger Straße und Hoher Weg; Verkehrs- und Straßensituation; Bürgerschreiben vom 29.04.2008
+- TOP 2.1.2.3.: Projekt "Bank&Baum" in der Fromundstraße / Otkerstraße; Schreiben von Green City e.V. vom 03.06.2008
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht (1)
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 3.1.2.1.: AntragstellerIn: TSV Turnerbund e.V., für die Maßnahme: 40-Jahr-Feier der Trampolinabteilung am 18.10.2008; Antragssumme: 600,- ?; Beschlussvorlage des Direktoriums vom 03.04.2008 (vertagt aus der Sitzung vom 15.04.2008)
+- TOP 3.1.2.2.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Ferienspielaktion vom 26.08. - 06.09.08; Antragssumme: 3.950,-- ?; Beschlussvorlage des Direktoriums vom 20.05.2008
+- TOP 3.1.2.3.: AntragstellerIn: Lilalu e.V., für die Maßnahme: 30 Workshopplätze im Spielprogramm Umsonst & Draußen; Antragssumme: 3.750,-- ?; Beschlussvorlage des Direktoriums vom 03.04.2008
+- TOP 3.1.2.4.: AntragstellerIn: Maibaum Untergiesing e.V., für die Maßnahme: 30 Jahre Maibaum Untergiesing; Antragssumme: 4.215,-- ?; Beschlussvorlage des Direktoriums vom 28.04.2008
+- TOP 3.1.2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.2.6.: AntragstellerIn: Grundschule am Agilolfingerplatz, für die Maßnahme: Aufstellung einer Skulptur am Hans-Mielich-Platz; Antragssume 520,-- ?; Beschlussvorlage des Direktoriums vom 15.05.2008
+- TOP 3.1.3: Anträge (1)
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.3.1.1.: AntragstellerIn: Jugend der Pfarrei Maria Immaculata, für die Maßnahme: Kinder- u. Jugendfreizeit nach Oberstdorf vom 11.05. - 17.05.2008; Antragssumme: 782,50 ?; Antrag vom 08.05.2008
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen (1)
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 3.1.7: Sonstiges (1)
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1: Bericht (2)
+- TOP 3.2.1.1.: Frage zur Sicherheit der Peter-Auzinger-Straße; Bürgerschreiben vom 22.04.2008 und 23.04.2008 (vertagt aus der Sitzung vom 20.05.2008)
+- TOP 3.2.1.2.: Grünanlage "Am Hohen Weg"; keine Ausweisung als Radl-Route; Abfalleimer mit Deckel; Aufstellung von Hundekottütenspendern; Straßenreinigung Rotbuchenstraße; Bürgerschreiben vom 15.04.2008 (vertagt aus der Sitzung vom 20.05.2008)
+- TOP 3.2.1.3.: Hinweisbeschilderung zur Pfarrei Hl. Familie im U-Bahnhof Mangfallplatz; Korrespondenz der Pfarrei mit der MVG (vertagt aus den Sitzungen vom 15.04.08 u. 20.05.08)
+- TOP 3.2.1.4.: Tempo-30-Zone in der Hans-Mielich-Straße; BA-Antrags-Nr. 02-08 / B 02754 des BA 18 vom 15.01.2008; Claude-Lorrain-Straße; Tempo 30 Zone ab Höhe Schyrenstraße; BA-Antrags-Nr. 02-08 / B 02755 des BA 18 vom 15.01.2008; Antwortschreiben des KVR vom 19.03.08 (vertagt aus den Sitzungen vom 15.04.08 und 20.05.08)
+- TOP 3.2.1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 1.2.: Fahrradständer im Bereich der Straßenbahnhaltestelle "Krankenhaus Harlaching"; Empfehlung Nr. 02-08 / E 00995 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 25.10.2007; Sitzungsvorlage Nr. 08-14 / V 00370; Beschluss des Bezirksausschusses des Stadtbezirkes 18 Untergiesing-Harlaching vom 17.06.2008 - <div>nach Antrag</div>
+- TOP 3.2.3: Anträge (2)
+- TOP 3.2.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.2.: Verkehrszeichen (Zeichen 209 - vorgeschriebene Fahrtrichtung rechts) an der Kreuzung Aretinstraße / Karolingerallee - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen (2)
+- TOP 3.2.4.1.: eingeschränktes Haltverbot Klara-Heese-Straße 5; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 08.04.08 mit der Bitte um Stellungnahme innerhalb 6 Wochen (vertagt aus der Sitzung vom 15.04.2008)
+- TOP 3.2.4.2.: Leistungsprogramm 2009 der MVG (Fahrplanwechsel Dezember 2008); Zuleitung der MVG vom 29.04.2008
+- TOP 3.2.4.3.: Neue Radverkehrsroute für Untergiesing-Obergiesing-Harlaching durch den Giesinger Freizeitpark; Empfehlung Nr. 02-08 / E 00812 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing am 21.06.2007; Sitzungsvorlage Nr. 08-14 / V 00078; Beschluss des Bauausschusses vom 08.07.2008 (SB); Zuleitung des Baureferates vom 28.05.2008 mit der Bitte um Stellungnahme
+- TOP 3.2.4.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Straße Birkenau, gegenüber dem Anwesen Haus-Nr. 17; Zuleitung des KVR vom 15.05.2008 mit der Bitte um Stellungnahme bis 25.06.2008
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen (1)
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 3.2.6.1.: Klara-Heese-Straße östlich Herzog-Garibald-Straße; Haltverbot; Mitteilung des KVR vom 05.05.2008
+- TOP 3.2.7: Sonstiges (2)
+- TOP 3.3: UA Umwelt
+- TOP 3.3.1: Bericht (3)
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 3.3.3: Anträge (3)
+- TOP 3.3.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.3.2.: Verunreinigung durch Fäkalien im Bereich des Straßenbahnwendepunkt / Haltestelle Großhesseloher Brücke
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen (1)
+- TOP 3.3.4.1.: Leitlinie Gesundheit; Öffentlichkeitsphase; Zuleitung des Referats für Gesundheit u. Umwelt vom 16.05.2008 mit der Bitte um Rückmeldung bis Ende Juli
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen (2)
+- TOP 3.3.5.1.: Vollzug des Bayerischen Naturschutzgesetzes u. der Baumschutzverordnung (BaumschutzV); genehmigungspflichtige Maßnahmen am Baumbestand auf dem Grundstück Seybothstraße; Az.: 9.41-2008-11759-5; Schreiben des BA 18 vom 06.05.2008; Antwortschreiben der Unteren Naturschutzbehörde vom 19.05.2008
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 3.3.6.1.: Lärmsanierung an bestehenden Schienenwegen des Bundes; Lärmsanierung an den Schienenwegen in Trudering (3 Bürgerschreiben); BA-Antrag Nr. 02-08 / B 01791 des Bezirksausschusses des Stadtbezirkes 15 - Trudering-Riem vom 25.01.2007; Schienenlärmsanierung - aber bitte mit Hand und Fuß; BA-Antrag Nr. 02-08 / B 01801 des Bezirksausschusses des Stadtbezirkes 15 - Trudering-Riem vom 25.01.2007; Sitzungsvorlage Nr. 02-08 / V 11764; Beschluss des Umweltausschusses vom 01.04.2008 (SB) - (vertagt aus der Sitzung vom 15.04.2008)
+- TOP 3.3.6.2.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung / - bestandteil; Unterrichtung über das Fällen von Gefahrenbäumen; Mitteilung der Unteren Naturschutzbehörde vom 24.04.2008
+- TOP 3.3.6.3.: Mobilfunk; Suchkreismeldung München-Giesing 555520; Zuleitung des Referats für Gesundheit und Umwelt vom 28.04.2008
+- TOP 3.3.6.4.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 3.3.6.4.1 Anwesen in der Weyarner Straße; Bescheid vom 05.05.2008 3.3.6.4.2 Anwesen in der Söltlstraße; Bescheid vom 21.05.2008
+- TOP 3.3.7: Sonstiges (3)
+- TOP 3.4: UA Soziales
+- TOP 3.4.1: Bericht (4)
+- TOP 3.4.1.1.: 4-F-circle-Bewegungsinseln; Befürwortung seitens des Bezirksausschusses; Eignung der Standortvorschläge; Antwortschreiben des Baureferats vom 16.04.2008 (vertagt aus der Sitzung vom 20.05.2008)
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (3)
+- TOP 3.4.3: Anträge (4)
+- TOP 3.4.3.1.: Errichtung eines Kinderspielplatzes in Untergiesing - Lohstraße - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen (2)
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen (3)
+- TOP 3.4.5.1.: Einplanung eines Sozialbürgerhauses auf dem ehemaligen AGFA-Gelände an der Tegernseer Landstraße; BA-Antrag-Nr. 02-08 / B 03001 vom 19.02.08; Antwortschreiben des Sozialreferates vom 20.05.2008
+- TOP 3.4.5.2.: Umgestaltung des Platzes unter dem Mittleren Ring / Lohstraße; Nutzung als Freifläche für den Jugendtreff AKKU; Antrag-Nr. 02-08 / B 02727 des BA 18 vom 16.10.2007; Antwortschreiben des Baureferats vom 05.05.2008
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 3.4.6.1.: Bericht zum Projekt "Häusliche Versorgung für ältere Menschen mit Hilfebedarf unterhalb der Schwelle zur Pflegeversicherung"; Zuleitung von REGSAM vom Mai 2008
+- TOP 3.4.6.2.: Neubau eines 6-gruppigen Hortes mit Vorabmaßnahmen; Abbruch Bestand und Interimscontainer für 5 Gruppen, Rotbuchenstraße 79 b im 18. Stadtbezirk Untergiesing-Harlaching; Projektkosten (Kostenobergrenze) 4.438.000,-- ? (davon Einrichtungskosten 225.000,-- ?) (davon Abbruch 171.000,-- ?) (davon Interimscontainer 637.000,-- ?) 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag 3. Projektgenehmigung 4. Ausführungsgenehmigung für Abbruch und Interimscontainer Sitzungsvorlage Nr.: 08 - 14 / V 00016; Beschluss des Schul- und Sportausschusses des Stadtrates vom 28.05.2008 (SB)
+- TOP 3.4.6.3.: Mehrjahresinvestitionsprogramm (MIP) 2008 - 2012 1. Investitionsmaßnahmen für Schulen und Kindertageseinrichtungen 2. verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse Sitzungsvorlage Nr. 08 - 14 / V 00071 Beschluss des Schul- und Sportausschusses des Stadtrates vom 28.05.2008 (VB)
+- TOP 3.4.7: Sonstiges (4)
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.1: Bericht (5)
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (4)
+- TOP 3.5.2.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Freischankflächenantrag Winterstraße; Zuleitung des KVR vom 28.04.2008; Beschluss des BA 18 vom 17.06.2008
+- TOP 3.5.3: Anträge (5)
+- TOP 3.5.3.1.: Agilolfingerplatz bzw. Agilolfingerstraße; Sanieren des Belags in der Agilolfingerstraße; Neugestaltung des Agilolfingerplatzes und Zusammenfassung der Parkplätze
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen (3)
+- TOP 3.5.4.1.: Erinnerungsverfahren Thelemannstraße und Bruggsperger Straße; Zuleitung des Baureferats vom 08.05.2008 mit der Bitte um Stellungnahme
+- TOP 3.5.4.2.: Kleingaststätte "Bar Bajanni", PIlgersheimer Straße; Antrag auf Sperrzeitfestsetzung; Zuleitung des KVR vom 26.05.2008 mit der Bitte um Stellungnahme
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Anwesen in der Säbener Straße; Anhörung vom 30.04.2008 (vertagt aus der Sitzung vom 20.05.2008)
+- TOP 3.5.4.1.2.: Anwesen in der Birkenleiten; Anhörung vom 13.05.2008 (vertagt aus der Sitzung vom 20.05.2008)
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.5.4.2.1.: Anwesen in der Rabenkopfstraße; Anhörung vom 05.05.08 (vertagt aus der Sitzung vom 20.05.2008)
+- TOP 3.5.4.2.2.: Anwesen in der Delpstraße; Anhörung vom 05.05.2008 (vertagt aus der Sitzung vom 20.05.2008)
+- TOP 3.5.4.2.3.: Anwesen im Schilcherweg; Anhörung vom 29.05.2008
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen (4)
+- TOP 3.5.5.1.: Pilgersheimer Straße; Umbau einer Arztpraxis in einen Tagesaufenthalt für Obdachlose; Antrag des BA 18 auf Anhörung im Einzelfall gem. Ziffer 7.2; Genehmigungsbescheid der Lokalbaukommission vom 30.04.2008 zur nachträglichen Kenntnisnahme.
+- TOP 3.5.5.2.: Konradinstraße; Nutzungsänderung: Hobbyraum zu Wohnung (DG) bzw. Trockenräume zu Wohnen; Stellungnahme des BA 18 vom 25.02.2008; Abdruck des Bescheides der Lokalbaukommission vom 05.05.2008 zur Kenntnisnahme
+- TOP 3.5.5.3.: Schyrenplatz, Fl.Nr. 12130/0, Gemarkung München Sektion VII "Das älteste Würstlstandl von München"; Antrag des Pächters auf einen stabilen Anbau, einen dauerhaften Pkw-Stellplatz, zusätzliche Stehtische und Sitzplätze sowie feste Blumentröge; Az.: 5.1-2007-61830-33; Schreiben des BA 18 vom 29.06.2007; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 14.05.2008
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben (3)
+- TOP 3.5.6.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.5.6.2.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2008 - 2012; Sitzungsvorlagen Nr. 08-14 / V 00183; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.2008 (VB)
+- TOP 3.5.6.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Anwesen in der Säbener Straße; Unterrichtung vom 09.05.2008 3.5.6.3.2 Anwesen in der Vierheiligstraße; Unterrichtung vom 26.05.2008
+- TOP 3.5.6.4.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.4.1 Café "Imbißcafé im Tierpark", Tieparkstraße; Mitteilung vom 28.04.2008 3.5.6.4.2 SSW "Piccola Ambasciata da Fausto", Schönstraße; Mitteilung vom 28.04.2008
+- TOP 3.5.6.5.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"; Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug; Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des §13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB; Sitzungsvorlagen Nr. 02-08/V11037; Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.2008 (SB)
+- TOP 3.5.6.6.: Mitteilung des Kommunalreferats vom 02.05.2008 über ein Grundstücksgeschäft; Az.: 912/53/S/02/BI; Flst. 12545 Sektion VII; 18. Stadtbezirk, Untere Weidenstraße
+- TOP 3.5.6.7.: Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012; Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Stellungnahme zu den Anträgen der Bezirksausschüsse 2, 4 und 11; Sitzungsvorlagen Nr. 08-14 / V 00182; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.2008 (VB)
+- TOP 3.5.7: Sonstiges (5)
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 3.6.1: Bericht (6)
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 3.6.3: Anträge (6)
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen (4)
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen (5)
+- TOP 3.6.5.1.: Kunst am Hans-Mielich-Platz; Abgabenachricht des Kulturreferats vom 21.05.2008 an das Baureferat
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben (4)
+- TOP 3.6.6.1.: Tag des offenen Denkmals am Sonntag, 14. September 2008; Meldebogen; Schreiben des Bayerischen Landesamtes für Denkmalpflege vom 01.04.2008 (vertagt aus der Sitzung vom 20.05.2008)
+- TOP 3.6.7: Sonstiges (6)
+- TOP 4: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Zugang des Wahllokals Agilolfinger Schule für Menschen mit Behinderung - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 4.2.2.: Erweiterung der Flutlichtanlage an der Bezirkssportanlage an der Agilolfingerstraße - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.1.: keine Bahnprivatisierung gegen die Interessen der Kommunen; Antrag Nr. 02-08 / A 04346 der Stadtratsfraktion Bündnis 90/Die Grünen - Rosa Liste vom 15.04.2008; Sitzungsvorlagen Nr. 02-08 / V 11995; Sitzungsvorlagen Nr. 08-14 / V 00090; Beschluss der Vollversammlung des Stadtrates vom 07.05.2008
+- TOP 4.5.2.: Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012; Zuleitung der Stadtkämmerei vom 29.04.2008
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Ausländer /-innen
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 1: (E) Fahrradständer im Bereich der Straßenbahnhaltestelle "Krankenhaus Harlaching" Empfehlung Nr. 02-08 / E 00995 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 25.10.2007 - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 3: Freigabe des (Lehrer-).... - <div></div>
