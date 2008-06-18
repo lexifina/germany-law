@@ -1,0 +1,87 @@
+# 20. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2008-06-18T17:15:00+02:00
+- Ende: 2008-06-18T22:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1288
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1288
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Wildschweine auf dem Waldfriedhof Zehlendorf - beantwortet
+- TOP 3.2: Schule-Wirtschaft-Kooperationen in Steglitz-Zehlendorf - beantwortet
+- TOP 3.3: Prügeleien auf der Badewiese am Schlachtensee - beantwortet
+- TOP 3.4: Fahrradständer am S-Bahnhof Rathaus Steglitz - beantwortet
+- TOP 3.5: Pflegestützpunkte für Steglitz-Zehlendorf - beantwortet
+- TOP 3.6: Ambrosia, nein danke? - beantwortet
+- TOP 3.7: Beschämender Zustand von Kriegsopfergräbern in Steglitz-Zehlendorf - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.1.1: Wahl eines stellv. Bürgerdeputierten im Umweltausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Aufstellung der Vorschlagsliste für ehrenamtliche Richter für das Verwaltungsgericht Berlin für die Geschäftsjahre 2009 bis 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2: Sondermittel der BVV für den Bezirksjugendring Steglitz-Zehlendorf e. V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungspläne: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 4.4.1: Bebauungsplan X - 189 Wohnungsbau Otto-Appel-Straße / Edwin-Redslob-Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.5: Anträge - erledigt
+- TOP 4.5.1: Alfred-Grenander-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Ferienangebote auf der Homepage des Bezirksamts - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Fahrradbügel an U-Bahnhöfen der BVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Parlamentarische Ferien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Barrierefreie Tafeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Auflösung der pauschalen Minderausgaben im Kapitel 3340, Titel 462 01 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.3: Auflösung pauschaler Minderausgaben: Abteilung Soziales - in der BVV abgelehnt
+- TOP 4.6.4: Halbseitiges Parken auf dem Gehweg in der Brucknerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.5: Unternehmen über Scientology aufklären - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.6: Mehr Durchblick für die Kurze Straße! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.7: Keine teuren 0180er-Nummern im Jobcenter - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Mehr Kapazitäten für das Arndt-Gymnasium - überwiesen
+- TOP 5.1.2: Verkehrskonzept Kreuzung Argentinische Allee, Waltrautstraße, Am Waldfriedhof - überwiesen
+- TOP 5.1.3: Halbseitiges Parken in der "Krumme Straße" erlauben - überwiesen
+- TOP 5.1.4: Finanzielle Absicherungen nach Tarifverhandlungen seitens des Senats! - überwiesen
+- TOP 5.1.5: Vorfahrtsregelung in der Winfriedstraße - überwiesen
+- TOP 5.1.6: Mehr Durchblick bei der Ausfahrt aus dem Siepesteig - überwiesen
+- TOP 5.1.7: Postfilialen und -agenturen in Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.8: Lebendige Schule fördern - überwiesen
+- TOP 5.1.9: Mehr Verkehrssicherheit in Wannsee - überwiesen
+- TOP 5.1.10: Kein Hindernislauf mehr im Sozialmedizinischen Dienst - überwiesen
+- TOP 5.1.11: Zugzielanzeiger auf den S-Bahnhöfen - überwiesen
+- TOP 5.1.12: Rechte Sitzbank am Bahnhof Lichterfelde-Ost abmontieren - überwiesen
+- TOP 5.1.13: Bushaltestelle "Steglitz-Museum" - überwiesen
+- TOP 5.1.14: Einrichtung einer Sommerakademie für hochbegabte Schülerinnen und Schüler - überwiesen
+- TOP 5.1.15: Wettbewerb um familienfreundlichsten Betrieb in Steglitz-Zehlendorf initiieren - überwiesen
+- TOP 5.1.16: Weitere Kurse für hochbegabte Schülerinnen und Schüler - überwiesen
+- TOP 5.1.17: BVV-Sondermittel - überwiesen
+- TOP 5.2: Ausschussanträge - erledigt
+- TOP 5.2.1: Jugendmigrationsdienst für Steglitz-Zehlendorf - überwiesen
+- TOP 6: Wahlen - erledigt
+- TOP 6.1: Vorlagen zur Beschlussfassung - erledigt
+- TOP 6.1.1: Besetzung eines Aufgabengebietes der / des Bezirksbehindertenbeauftragten - Vgr. IVa BAT - in der Abteilung Soziales und Sport - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Sicherheit an der Liegewiese - beantwortet
+- TOP 7.2: Neuregelungen nach Kündigung der Bereitschaftsdienste für Hausmeister - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Investitionsförderung im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Erinnerungspolitik - Von der Theorie zur Tat I - in der BVV abgelehnt
+- TOP 8.3: Kein Sparen auf Kosten der Schulen - in der BVV abgelehnt
+- TOP 8.4: Europa (er-)leben - Maßnahmen für ein europapolitisches Kommunikationskonzept - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Dringl. Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Umbau der Hildburghauser Straße von Bezirksgrenze bis Blanckertzweg und des Blanckertzweges - in der BVV abgelehnt
+- TOP 10: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 10.1: Namensschilder für Ordnungsamtsmitarbeiter - vertagt
+- TOP 11: Anträge - erledigt
+- TOP 11.1: Benennung des Platzes vor dem U-Bahnhof Krumme Lanke in Alfred-Grenander-Platz - im Ältestenrat zurückgezogen
+- TOP 11.2: Alfred Grenander durch Platzbenennung würdigen - im Ältestenrat zurückgezogen
+- TOP 12: Schlusswort des Vorstehers - erledigt
