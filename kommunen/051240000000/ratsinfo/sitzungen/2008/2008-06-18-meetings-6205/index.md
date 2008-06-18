@@ -1,0 +1,78 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2008-06-18T17:05:00+02:00
+- Ende: 2008-06-18T17:29:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6205
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6205
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 05.06.2008 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00094996.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00095828.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00095480.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Platzverbote am 12. April 2008 - zurückgezogen
+- TOP 2.2: Hausbesuche von Arge-MitarbeiterInnen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Energetische Gebäudesanierung fördern - denkmalgeschützte Bausubstanz besonders berücksichtigen - ungeändert beschlossen
+- TOP 4.1.1: Energetische Gebäudesanierung zusammen mit Energieagentur NRW fördern - in der Sache erledigt
+- TOP 4.2: Informationskampagne für Erstwählerinnen und -wähler - ungeändert beschlossen
+- TOP 4.3: Zügige Umsetzung des Luftreinhalteplans - abgelehnt
+- TOP 4.4: Erweiterung der Gesamtschulen - abgelehnt
+- TOP 4.5: Datenerhebung zu den Familiensprachen Wuppertaler Schülerinnen und Schüler
+- TOP 4.6: Zügigkeit an Gesamtschulen - abgelehnt
+- TOP 4.7: Qualifizierungs- und Beschäftigungsprojekt der drei bergischen ARGE Solingen, - ungeändert beschlossen
+- TOP 4.8: Die Lebenssituation von Kindern, Jugendlichen und Familien verbessern - - ungeändert beschlossen
+- TOP 4.8.1: Appell an Bund und Land zur Erhöhung der Regelsätze - in der Sache erledigt
+- TOP 4.9: Verleihung des Ehrenrings der Stadt Wuppertal an Tony Cragg - ungeändert beschlossen
+- TOP 4.10: Resolution Kommunales Wahlrecht für MigrantInnen - in der Sache erledigt
+- TOP 4.11: Europäische Woche der Mobilität - abgelehnt
+- TOP 4.12: Erstausstattung für ErstklässlerInnen - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Ermäßigter Eintritt für Wuppertal-Pass-InhaberInnen für Theater und Konzert - in der Sache erledigt
+- TOP 5.1.1: Ermäßigungen für Inhaberinnen und Inhaber des Wuppertal-Passes - ungeändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Gesetz zur Gleichstellung von Menschen mit Behinderung in Nordrhein-Westfalen vom 11.12.2003 - Umsetzung - ungeändert beschlossen
+- TOP 6.2: Satzung über die Abweichung von den Merkmalen der endgültigen Herstellung der Straße Wilhelmring zwischen der Hahnerberger Straße und der Einmündung des Stichwegs bei den Grundstücken Wilhelmring 38 und 42 - ungeändert beschlossen
+- TOP 6.3: Änderung der Verleih- und Nutzungsordnung für das Medienzentrum der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.4: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.06.2008 bis zum 30.06.2010 - ungeändert beschlossen
+- TOP 6.5: Satzung über die Erhebung von Elternbeiträgen für Betreuungsangebote in Tageseinrichtungen für Kinder in der Stadt Wuppertal (Elternbeitragssatzung - ES) - ungeändert beschlossen
+- TOP 6.6: Neufassung der Elternbeitragssatzung aus formalen Gründen - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln für 2007 und 2008 - ungeändert beschlossen
+- TOP 7.2: Mehrkosten im Bereich der Lernmittelfreiheit - ungeändert beschlossen
+- TOP 7.3: Sanierung der Kohlfurther Brücke - Erhöhung der Baukosten, Priorisierung - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2007 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan 2008 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss der Kinder- und Jugendwohngruppen der Stadt Wuppertal für das Geschäftsjahr 2007 - Entgegennahme ohne Beschluss
+- TOP 8.4: Entlastung des Betriebsausschusses KIJU für das Geschäftsjahr 2007 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren 1111 - Moritzstraße / Friedrich-Ebert-Straße - - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 1113 - südlich Theishahn - - ungeändert beschlossen
+- TOP 9.3: Bauleitplanverfahren Nr. 1070 V - Einkaufszentrum Unterkirchen - - vertagen
+- TOP 9.4: Durchführungsplan Nr. 32 - Umgebung des Rathauses Cronenberg - - ungeändert beschlossen
+- TOP 9.5: Städtebaulicher Vertrag zum Bauleitplanverfahren Nr. 1066 - EngineeringPark Wuppertal - ungeändert beschlossen
+- TOP 9.6: Aufhebung von überholten Planverfahren im Stadtbezirk Elberfeld-West - ungeändert beschlossen
+- TOP 9.7: Landschaftsplanverfahren - Landschaftsplan Wuppertal-Nord Offenlegungsbeschluss - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Abriss Bunker und Neugestaltung Platz der Republik - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Stadtentwässerung - Maßnahmenkatalog 2009/Katalogentwurf 2010 - ungeändert beschlossen
+- TOP 11.2: Stadtumbau West: Städtebauliches Entwicklungskonzept Wuppertal - ungeändert beschlossen
+- TOP 11.3: Entwicklung der Offene Ganztagsschule im Primarbereich zum Schuljahr 2008 / 2009 - ungeändert beschlossen
+- TOP 11.4: Mehrwertzuwachsausgleich für Wuppertal bei der Ausweisung von Bauland - Stellungnahme der Verwaltung - ungeändert beschlossen
+- TOP 11.5: Verlagerung des Angebotes der Bergischen Volkshochschule aus dem Gebäude Wiesenstraße 105 in das Gebäude Cronenberger Str. 375 - ungeändert beschlossen
+- TOP 11.6: Verkauf des städtischen Grundstückes Ohligsmühle im Rahmen eines EU-weiten Ausschreibungsverfahrens - ungeändert beschlossen
+- TOP 11.7: Skaterhalle/ Jugendverkehrsschule - vertagt auf Rat
+- TOP 11.8: Kommunales Handlungskonzept Interkultur - geändert beschlossen
+- TOP 11.9: Sicherung von verbliebenen Regionale-Mitteln - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Umbesetzung von Gremien - zurückgezogen
