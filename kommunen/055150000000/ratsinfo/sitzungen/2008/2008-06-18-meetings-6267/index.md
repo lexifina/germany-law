@@ -1,0 +1,81 @@
+# 31. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-06-18T18:13:00+02:00
+- Ende: 2008-06-18T22:27:00+02:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6267
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6267
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00266504.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Sicherheitsbefragung für Menschen mit ausländischer Herkunft
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Mitführen von Fahrrädern auf Wochenmärkten - verwiesen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 7.1: Ergänzender Antrag zum Migrationsleitbild
+- TOP 8: 4. Entwicklungspolitischer Nord-Süd-Preis der Stadt Münster / bürger:sinn:stiftung 2008 - zur Kenntnis genommen
+- TOP 9: Überführung der Städtischen Bühnen Münster in eine eigenbetriebsähnliche Einrichtung - mehrheitlich beschlossen
+- TOP 10: Aktuelle Haushaltsentwicklung 2008 - zur Kenntnis genommen
+- TOP 11: Änderung des Tarifes für die Wasserversorgung der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 12: Städtisches Preußenstadion - mehrheitlich beschlossen
+- TOP 13: EU-weite Ausschreibung der städtischen Grundstücksflächen Yorkring/Steinfurter Straße - "ehem. TÜV-Areal" - mehrheitlich beschlossen
+- TOP 14: Zentrumserweiterung Mecklenbeck - einstimmig beschlossen
+- TOP 15: Information über die geplante Betrauung der Stadtwerke Münster mit der Erbringung von ÖPNV-Leistungen - zur Kenntnis genommen
+- TOP 16: Abschluss des Modellprojektes "Selbstständige Schule" - zur Kenntnis genommen
+- TOP 17: Weiterentwicklung eines Bildungsnetzwerkes in der Bildungsregion Stadt Münster - einstimmig beschlossen
+- TOP 18: Änderung der Entgeltordnung "Förder- und Betreuungsangebote für Schülerinnen und Schüler an Grund- und Förderschulen und an offenen Ganztagsschulen im Primarbereich (einschl. der Klassen 5 und 6 an Förderschulen)" - einstimmig geändert beschlossen
+- TOP 19: Übernahme des Eigenanteils für Lernmittel (Schulbücher) ab dem Schuljahr 2009/10 - einstimmig geändert beschlossen
+- TOP 20: Umwandlung des Halbtagszuges mit gemeinsamen Unterricht für behinderte und nichtbehinderte Kinder an der Wartburgschule (ev. Grundschule) in einen gebundenen Ganztagszug mit gemeinsamem Unterricht zum Schuljahr 2008/2009 - einstimmig beschlossen
+- TOP 21: Auswertung des Modellprojektes "Bildung eines Jugendrates in der Stadt Münster" - einstimmig beschlossen
+- TOP 22: Frühe Hilfen für Familien- Gesamtstädtisches Präventionskonzept - einstimmig beschlossen
+- TOP 23: Mittelverlagerung zwischen den Produktgruppen 0605 "Erzieherische und wirtschaftliche Hilfen für Familien" und 0603 "Förderung von benachteiligten jungen Menschen" im Rahmen der Abschlussarbeiten zur Umstellung auf das Neue Kommunale Finanzmanagement - einstimmig beschlossen
+- TOP 24: Sport als Marketingfaktor für die Stadt Münster - einstimmig beschlossen
+- TOP 25: Migrationsleitbild der Stadt Münster - einstimmig beschlossen
+- TOP 26: Handlungskonzept, demografischer Wandel in Münster: - eingebracht
+- TOP 27: Soziale Stadt Kinderhaus-Brüningheide, Jahresbericht 2007/2008 - zur Kenntnis genommen
+- TOP 28: Stiftung Magdalenenhospital - Förderungen zum Aufbau und zur Vernetzung ambulanter Angebote der Palliativversorgung - einstimmig beschlossen
+- TOP 29: Modellprojekt "Wohnen für Hilfe" - zur Kenntnis genommen
+- TOP 30: Feststellung von Jahresabschlüssen
+- TOP 30.1: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2007 - einstimmig beschlossen
+- TOP 30.2: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2007 - einstimmig beschlossen
+- TOP 30.3: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2007 - einstimmig beschlossen
+- TOP 30.4: Feststellung der Jahresabschlüsse der Stiftungen für das Wirtschaftsjahr 2007 - einstimmig beschlossen
+- TOP 31: Bauleitplanung
+- TOP 31.1: Stadtbezirk Münster-Mitte
+- TOP 31.1.1: Bebauungsplan Nr. 520 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 31.1.2: Bebauungsplan Nr. 518 - Beschluss zur Aufstellung - einstimmig abgelehnt
+- TOP 31.2: Stadtbezirk Münster-West
+- TOP 31.2.1: 18. Änderung FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 31.2.2: Bebauungsplan Nr. 484 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 31.2.3: Bebauungsplan Nr.: 488: Roxel-Nord II - Havixbecker Straße / Stodtbrockweg / Nordumgehung / Brockkamp - mehrheitlich beschlossen
+- TOP 31.3: Stadtbezirk Münster-Hiltrup
+- TOP 31.3.1: Bebauungsplan Nr. 416, 1. Änderung - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 31.4: Stadtbezirk Münster-Nord
+- TOP 31.4.1: Vorhabenbezogener Bebauungsplan Nr. 521 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 31.4.2: Bebauungsplan Nr. 515 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 31.4.3: Erweiterung Zentrum Kinderhaus - mehrheitlich beschlossen
+- TOP 31.5: Stadtbezirk Münster-Südost
+- TOP 31.5.1: 11. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 32: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 33.1: Hallenbad Handorf - Verbleib in städtischer Trägerschaft! - mehrheitlich abgelehnt
+- TOP 33.2: Münster braucht die Arbeitslosenberatung und die Arbeitslosenzentren - Weiterarbeit gewährleisten! - einstimmig geändert beschlossen
+- TOP 34: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 34.1: Baustein Betriebskindergärten - Familienfreundlichkeit in Münster ausbauen - verwiesen
+- TOP 34.2: Solarsiedlung Twenhövenweg - verwiesen
+- TOP 34.3: Biogas-Anlagen - verwiesen
+- TOP 34.4: Wunsch der Eltern nach Früh- und Spätöffnungszeiten ermitteln - Konzepte zur flexibleren Kinderbetreuung entwickeln - verwiesen
+- TOP 34.5: Mittelhafen: Strukturwandel planerisch gestalten - verwiesen
+- TOP 34.6: Münster für alle - verwiesen
+- TOP 34.7: Münster für alle - verwiesen
+- TOP 35: Verschiedenes
