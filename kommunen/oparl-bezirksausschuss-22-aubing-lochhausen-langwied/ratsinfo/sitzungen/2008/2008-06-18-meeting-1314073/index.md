@@ -1,0 +1,102 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2008-06-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1314073
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1314073
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Fuß- und Radweg Berglwiesenstraße - Forderung nach Sperrpfosten, Mieter des Anwesens Berglwiesenstr. 55
+- TOP 2.2.: Ausbau der Kronwinkler Straße und der Industriestraße
+- TOP 3: Berichte der Beauftragten
+- TOP 3.3.1: Baumschutzbeauftragte/r
+- TOP 3.3.2: Regsam-Beauftragte/r
+- TOP 3.3.3: Kinder- und Jugendbeauftragte/r
+- TOP 3.3.4: Seniorenbeauftragter
+- TOP 4: Anträge
+- TOP 4.1.: Prüfung der Errichtung eines Vereinsheimes im Stadtbezirksteil Lochhausen
+- TOP 4.2.: Änderung des Standortes der Telefonzelle an der S-Bahn-Haltestelle Leienfelsstraße, S 8
+- TOP 4.3.: Überprüfung der gewerblichen Nutzung öffentlichen Verkehrsraums Überlinger Weg / Mainaustraße
+- TOP 4.4.: Überquerung der Wiesentfelser Straße
+- TOP 4.5.: Planungen zum Erlebnis-/Waldlehrpfad
+- TOP 4.6.: Anbringung eines Grünen Pfeils an der Ampel Ehrenbürgstraße
+- TOP 4.7.: Rückschnitt der Sträucher westlich der Parkplätze am Freihamer Weg
+- TOP 4.8.: Änderung der Straßenmarkierung Kreuzung Anton-Böck-Straße / Bodenseestraße
+- TOP 4.9.: Bauliche Anordnung für Radfahrer und Fußgänger in der Hans-Steinkohl-Straße
+- TOP 4.10.: Parkplatz Eichenauer Straße
+- TOP 4.11.: Erneuerung des Fußweges nördlich hinter der Häuserreihe der Dietrichsteinstraße
+- TOP 4.12.: Überquerung der Limesstraße
+- TOP 4.13.: Nutzung der früheren Horträume an der Wiesentfelser Straße 68 für die Kinder des rythmisierten Ganztageszuges der Hauptschule an der Wiesentfelser Straße
+- TOP 4.14.: Zebrastreifen oder Bedarfsampel statt Lotsenfurt an der Kreuzung Pretzfelder-/ Streitberg- und Colmdorfstraße
+- TOP 4.15.: Zufahrt und Parkplatz an der Kindertagesstätte Teckstraße, Aubing-Ost
+- TOP 4.16.: Markierungen erneuern
+- TOP 4.17.: Gesicherter Schulwegübergang an der Lotsenfurche Pretzfelder Str. / Colmdorfstr.
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Entscheidung über die Projektplanung, Projektname: Mariabrunner Straße zwischen Kastelburgstraße und ca. 75 m nördlich, Projekt-Nr. :5376 (vertagt aus 05/08)
+- TOP 5.2.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Hauptschule Wiesentfelser Straße
+- TOP 5.3.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Jugendtreff Neuaubing
+- TOP 6: Anhörungen/ Stellungnahmen
+- TOP 6.1.: Baumschutz; Anhörung zu Baumfällungen
+- TOP 6.2.: Herstellung der Mariabrunner Straße (vertagt aus 05/08)
+- TOP 6.3.: Verkehrsrechtliche Anordnung, Einrichtung einer Haltverbotszone im Kurvenbereich, Wiesentfelser Straße (vertagt aus 05/08)
+- TOP 6.4.: Siedlungsschwerpunkt Freiham, Freiham Nord (vertagt aus 05/08) a) Neugestaltung des Sportlerweges
+- TOP 6.5.: b) Überplanung im Rahmen der Bebauungsplanung Freiham-Nord von Teilen der Bodenseestraße und Ehrenbürgstraße in Neuaubing
+- TOP 6.6.: c) Klärung der Baurechtssituation Ehrenbürgstr. 9
+- TOP 6.7.: d) Freiham Nord; Überplanung des Grüngürtels
+- TOP 6.8.: Veranstaltung auf Privatgrund, hier: "Labyrinth im Maisfeld", Maisfeld an der Lochhausener Str. vom 06.07.-30.09.08
+- TOP 6.9.: Antrag auf Genehmigung eines Feuerwerkes, hier: auf dem Gelände des Hotels "Langwieder See", Kreuzkapellenstr. 89 am 14.06.08
+- TOP 6.10.: Veranstaltung auf Privatgrund, hier: Aubinger Traubenfest, Freifläche am Germeringer Weg am 25./26.07.08
+- TOP 6.11.: Aubinger Str. 57, Neubau Spielhaus am Westkreuz als offene Einrichtung für 5-12 Jährige und eines Nebengebäudes mit Garage und Lagerräumen
+- TOP 6.12.: Planfeststellung nach § 18 AEG, 2. S-Bahn-Stammstrecke München, Planfeststellungsabschnitt 2 - Planänderungen Umwelt -
+- TOP 6.13.: Industriestr. 26, Nutzungsänderung mit geringen Umbauten: Gewerbe-Büroflächen zu Intensiv-Pflege-Einrichtung für Kinder
+- TOP 6.14.: Veranstaltung in einer städt. Grünanlage, hier: Standkonzert, Fackelzug und Johannisfeuer, Grünanlage Sipplinger Str. am 27.06.08
+- TOP 6.15.: Verkehrliche Beurteilung der Lichtzeichenanlage Lochhausener Str. / Rohrsängerplatz
+- TOP 7: Unterrichtungen / Bekanntgaben
+- TOP 7.1.: Verkehrsrechliche Anordnung, Einrichtung einer Fahrradstraße in der Goteboldstraße zwischen Müllerstadelstraße und Parkplatzzufahrt zum Lußsee, Schr. KVR vom 27.05.08
+- TOP 7.2.: Wirtschafts-Info 05/2008, Mitteilung Ref. f. Arbeit u. Wirtschaft vom 30.05.08
+- TOP 7.3.: Baumaßnahmen der Stadtwerke München GmbH, Stichtag: 26.05.08, 02.06.08, 09.06.08
+- TOP 7.4.: Bürgerversammlung des 22. Stadtbezirkes am 03.07.08, Multi-Media-Präsentation, Schr. Direktorium vom 21.05.08
+- TOP 7.5.: Baufälle im 22. Stadtbezirk (v. 19.-25.05.08, v. 26.05.-01.06.08, 02.06.-08.06.08), Schr. Planungsreferat vom 26.05.08, 02.06.08, 09.06.08
+- TOP 7.6.: Ablehnung für Errichtung einer Werbeanlage, Bodenseestr. Fl.Nr. 3537/79, Schr. Planungsreferat vom 15.05.08
+- TOP 7.7.: Genehmigungsbescheid zur Erweiterung der Abfallentsorgungsanlage (Bodenbörse) der Fa. Süderde am Standort FlNr. 969 und 978/2 (Bestand) sowie FlNr. 968 (Erweiterung) an der Lochhausener Straße, Schr. Ref. f. Gesundheit u. Umwelt vom 29.05.08
+- TOP 7.8.: Baumaßnahmen der SWM, Stromprojekt Kastelburgstraße, Schr. SWM vom 05.06.08
+- TOP 7.9.: Zweckentfremdung von Wohnraum, Hellensteinstr. 52, Schr. Sozialreferat vom 09.06.08
+- TOP 8: Antworten der Stadt / Sonstige Antworten
+- TOP 8.1.: Besetzung der Bezirksinspektion in der Limesstr. 1 bei Wahlen oder Bürgerentscheiden, Schr. KVR vom 28.04.08 (vertagt aus 05/08)
+- TOP 8.2.: Weitere Radwegroute 4 zum Seengebiet Langwieder-, Luss- und Birkensee, Aufwertung des Geländes der städt. Baumschule Müllerstadel, Schr. Baureferat vom 26.05.08
+- TOP 8.3.: Zustand des S-Bahnhofes Westkreuz, hier: nähere Umgebung des Bahnhofs - desolater Zustand, Schr. Baureferat vom 04.06.08
+- TOP 8.4.: Umbenennung des 22. Stadtbezirkes
+- TOP 8.5.: Umbenennung des 22. Stadtbezirkes, Schr. Direktorium vom 10.06.08
+- TOP 8.6.: Stockacher Straße; Neubau eines Lebensmittel-Discounters, eines Lebensmittel-Vollsortimenters, eines Fachmarktes für Betten und Teppiche oder Matratzen (Gebäude Süd), Neubau eines Fachmarktes für Fahrräder (Gebäude Nord), Vorbescheid, Schr. Planungsreferat vom 11.06.08
+- TOP 8.7.: Straßenzustand Altostraße, Schr. Baureferat vom 10.06.08
+- TOP 8.8.: Ausbau der Bahnunterführungen in der Bodenseestr. auf eine Durchfahrtshöhe von 4,5 m, Schr. Planungsreferat vom 10.06.08
+- TOP 9: Stadtrats- und Ausschussbeschlüsse/Bekanntgaben im Stadtrat
+- TOP 9.1.: Ausschuss für Stadtplanung und Bauordnung vom 28.05.08 - Sicherung der Biotop- und Landschaftspflege in der LH München (vertagt aus 05/08) - Baugebiet Schussenrieder Straße / Schubinweg, Bebauungsplan 1703 (vertagt aus 05/08) - Berichtigung zu Mehrjahresinvestitionsprogramm für die Jahre 2008-2012 - Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007", Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2008-2012
+- TOP 9.2.: Kinder- und Jugendhilfeausschuss vom 27.05.08 - Mehrjahresinvestitionsprogramm 2008-2012 - Entwurf des Mehrjahresinvestitionsprogramms 2008-2012, Einzelplan 4 / Jugendamtsbereich
+- TOP 9.3.: Gemeinsamer Gesundheitsausschuss, Kinder- und Jugendhilfeausschuss und Schul- und Sportausschuss vom 27.05.08 - Prävention gegen Alkoholmissbrauch und andere Suchtmittel bei Jugendlichen
+- TOP 9.4.: Schul- und Sportausschuss vom 28.05.08 - Mehrjahresinvestitionsprogramm 2008-2012
+- TOP 9.5.: Vollversammlung vom 11.06.08 - Sicherung der Biotop- und Landschaftspflege in der LH München
+- TOP 9.6.: Ausschuss für Stadtplanung und Bauordnung vom 18.06.08 - Perspektive München - Leitlinien, Konzepte, Programme, Handlungskonzept: Herausforderungen des soziodemografischen Wandels für die Stadtentwicklung - Neubestellung des Heimatpflegers der LH München und seines Stellvertreters - Olympia - München 2018, ökologisch - nachhaltig - fair
+- TOP 9.7.: Verwaltungs- und Personalausschuss vom 04.06.08 - Ablauf von Bürgerversammlungen; Zulassung unterstützender Multimedia-Darstellungen zu Anträgen
+- TOP 9.8.: Gemeinsamer Gesundheitsausschuss und Umweltausschuss vom 05.06.08 - Mehrjahresinvestitionsprogramm für die Jahre 2008-2012 mit verbindlicher Planung für 2013
+- TOP 9.9.: Stadtentwässerungsausschuss vom 03.06.08 - Zweckvereinbarung zwischen der Münchner Stadtentwässerung und dem Amperverband zur abwassertechnischen Erschließung von zwei Anwesen an der Straße "Am Zillerhof"
+- TOP 9.10.: Bauausschuss vom 03.06.08 - Mehrjahresinvestitionsprogramm für die Jahre 2008-2012 mit verbindlicher Planung für 2013; Entwurf für das Baureferat - Naherholungsgebiet "Langwieder Seen", Fuß- und Radwegerschließung Route 3 (Eschenrieder Straße)
+- TOP 10: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 10.1.: Regionalgespräch zwischen Lokalbaukommission und den BA's, Regionalgespräch West am 30.07.08 um 17.00 Uhr im Raum 614, Blumenstr. 19, Schr. Planungsreferat vom 19.05.08 (vertagt aus 05/08)
+- TOP 10.2.: Zentrale Namenslesung der während der NS-Zeit ermordeten Münchner Juden anlässlich des 70. Jahrestages der sog. "Reichskristallnacht", Schr. Arbeitsgruppe "Gedenkveranstaltung zum, 09.November" vom 26.05.08
+- TOP 10.3.: Ansprechpartner der MVG, Schr. MVG vom 02.06.08
+- TOP 10.10.1: Nächste BA-Sitzung
+- TOP 10.1.: Nächste BA-Sitzung am MIttwoch, den 16.07.08, Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
