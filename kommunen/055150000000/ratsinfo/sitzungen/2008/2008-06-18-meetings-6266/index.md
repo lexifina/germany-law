@@ -1,0 +1,75 @@
+# 29. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-06-18T17:05:00+02:00
+- Ende: 2008-06-18T22:24:00+02:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6266
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6266
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00267140.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Interfraktioneller Antrag an den Rat A-R/0023/2008 "Münster als Stadt des Friedens weiter profilieren" - einstimmig beschlossen
+- TOP 2.2: Antrag der SPD-Fraktion "Gesundheitsstadt Münster- Keine Gentechnik in der Münsteraner Landwirtschaft" - einstimmig geändert beschlossen
+- TOP 2.3: Antrag der SPD-Fraktion Nr.A-R 0018/2008 an den Rat "Hürden für Betreuungsangebote abbauen - mehr Bildungschancen durch kostenloses Mittagessen für Kinder aus einkommensschwachen Familien" - einstimmig beschlossen
+- TOP 2.4: Antrag der SPD-Fraktion an den Rat Nr. A-R/0024/2008 vom 28.04.2008 - einstimmig beschlossen
+- TOP 2.5: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. A-R/0009/2008 "Integration vor Aussonderung" - einstimmig beschlossen
+- TOP 3: Bericht über die Beschäftigung schwerbehinderter Menschen und schwerbehinderten Menschen Gleichgestellte bei der Stadt Münster - zur Kenntnis genommen
+- TOP 4: Mitgliedschaft im Verein "Das Münsterland - Die Gärten und Parks" - einstimmig beschlossen
+- TOP 5: Standortuntersuchung für innenstadtnahe Aufstellplätze für Wohnmobil-Touristen - einstimmig beschlossen
+- TOP 6: Städtenetzwerk Innenstadt NRW, Beitritt der Stadt Münster - einstimmig beschlossen
+- TOP 7: Geschäftsbericht des Amtes für Kinder, Jugendliche und Familien für das Jahr 2007 - zur Kenntnis genommen
+- TOP 8: Stiftung Bürgerwaisenhaus - Aktiv für junge Leute (Antrag der Fraktionen der CDU und FDP vom 31.05.2008 in der Sitzung der Stiftungskommission vom 05.06.2008) - von der Tagesordnung abgesetzt
+- TOP 9: Anregungen gem. § 24 GO NRW, Nrn. 88, 89, 90, 93, 94 und 99/ 2007, " Nummerierung von Parkbänken" - mehrheitlich beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 10: 4. Entwicklungspolitischer Nord-Süd-Preis der Stadt Münster / bürger:sinn:stiftung 2008 - zur Kenntnis genommen
+- TOP 11: Überführung der Städtischen Bühnen Münster in eine eigenbetriebsähnliche Einrichtung - mehrheitlich beschlossen
+- TOP 12: Aktuelle Haushaltsentwicklung 2008 - zur Kenntnis genommen
+- TOP 13: Änderung des Tarifes für die Wasserversorgung der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 14: Städtisches Preußenstadion - ohne Beschlussfassung geschoben
+- TOP 15: EU-weite Ausschreibung der städtischen Grundstücksflächen Yorkring/Steinfurter Straße - "ehem. TÜV-Areal" - ohne Beschlussfassung geschoben
+- TOP 16: Zentrumserweiterung Mecklenbeck - ohne Beschlussfassung geschoben
+- TOP 17: Information über die geplante Betrauung der Stadtwerke Münster mit der Erbringung von ÖPNV-Leistungen - zur Kenntnis genommen
+- TOP 18: Abschluss des Modellprojektes "Selbstständige Schule" - zur Kenntnis genommen
+- TOP 19: Weiterentwicklung eines Bildungsnetzwerkes in der Bildungsregion Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 20: Änderung der Entgeltordnung "Förder- und Betreuungsangebote für Schülerinnen und Schüler an Grund- und Förderschulen und an offenen Ganztagsschulen im Primarbereich (einschl. der Klassen 5 und 6 an Förderschulen)" - ohne Beschlussfassung geschoben
+- TOP 21: Übernahme des Eigenanteils für Lernmittel (Schulbücher) ab dem Schuljahr 2009/10 - einstimmig geändert beschlossen
+- TOP 22: Umwandlung des Halbtagszuges mit gemeinsamen Unterricht für behinderte und nichtbehinderte Kinder an der Wartburgschule (ev. Grundschule) in einen gebundenen Ganztagszug mit gemeinsamem Unterricht zum Schuljahr 2008/2009 - einstimmig beschlossen
+- TOP 23: Auswertung des Modellprojektes "Bildung eines Jugendrates in der Stadt Münster" - einstimmig beschlossen
+- TOP 24: Frühe Hilfen für Familien- Gesamtstädtisches Präventionskonzept - einstimmig beschlossen
+- TOP 25: Mittelverlagerung zwischen den Produktgruppen 0605 "Erzieherische und wirtschaftliche Hilfen für Familien" und 0603 "Förderung von benachteiligten jungen Menschen" im Rahmen der Abschlussarbeiten zur Umstellung auf das Neue Kommunale Finanzmanagement - einstimmig beschlossen
+- TOP 26: Sport als Marketingfaktor für die Stadt Münster - einstimmig beschlossen
+- TOP 27: Migrationsleitbild der Stadt Münster - einstimmig beschlossen
+- TOP 28: Soziale Stadt Kinderhaus-Brüningheide, Jahresbericht 2007/2008 - zur Kenntnis genommen
+- TOP 29: Stiftung Magdalenenhospital - Förderungen zum Aufbau und zur Vernetzung ambulanter Angebote der Palliativversorgung - ohne Beschlussfassung geschoben
+- TOP 30: Modellprojekt "Wohnen für Hilfe" - ohne Beschlussfassung geschoben
+- TOP 31: Feststellung von Jahresabschlüssen
+- TOP 31.1: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2007 - einstimmig beschlossen
+- TOP 31.2: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2007 - einstimmig beschlossen
+- TOP 31.3: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2007 - einstimmig beschlossen
+- TOP 31.4: Feststellung der Jahresabschlüsse der Stiftungen für das Wirtschaftsjahr 2007 - einstimmig beschlossen
+- TOP 32: Bauleitplanung
+- TOP 32.1: Stadtbezirk Mitte
+- TOP 32.1.1: Bebauungsplan Nr. 520 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 32.1.2: Bebauungsplan Nr. 518 - Beschluss zur Aufstellung - einstimmig abgelehnt
+- TOP 32.2: Stadtbezirk West
+- TOP 32.2.1: 18. Änderung FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 32.2.2: Bebauungsplan Nr. 484 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 33: Bebauungsplan Nr.: 488: Roxel-Nord II - Havixbecker Straße / Stodtbrockweg / Nordumgehung / Brockkamp - mehrheitlich beschlossen
+- TOP 33.1: Stadtbezirk Hiltrup
+- TOP 33.1.1: Bebauungsplan Nr. 416, 1. Änderung - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 33.2: Stadtbezirk Nord
+- TOP 33.2.1: Vorhabenbezogener Bebauungsplan Nr. 521 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 33.2.2: Bebauungsplan Nr. 515 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 33.2.3: Erweiterung Zentrum Kinderhaus - mehrheitlich beschlossen
+- TOP 33.3: Stadtbezirk Südost
+- TOP 33.3.1: 11. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - ohne Beschlussfassung geschoben
+- TOP 34: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 35: Verschiedenes
