@@ -1,0 +1,21 @@
+# Verzicht auf eigene Jugendämter bei kreisangehörigen Städten im Kreis Gütersloh durch die Begrenzung der "Jugendamtsumlage" - Erhalt der Solidargemeinschaft Jugendhilfe -
+
+- Körperschaft: Gemeinde Steinhagen
+- Drucksache/Vorlage: VL-492-2004/2009 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2008-06-18
+- Ratsinformationssystem: https://ratsinfo.steinhagen.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZVxprJxfu5ioSdR6WRoFxJM
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/paper/738
+- Quelle: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Verzicht auf eigene Jugendämter bei kreisangehörigen Städten im Kreis Gütersloh durch die Begrenzung der "Jugendamtsumlage" 
+- Erhalt der Solidargemeinschaft Jugendhilfe -) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbMV2IrtSkU0ij964w4iYX2mt0ryEJTrN2RL8iL9VYGy/Beschlussvorlage_VL-492-2004-2009_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-492-2004/2009) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXYs9AenzVISnkdVAfCEarMpK8zwx1WC0pDU_1rV8lzC/Anlage_zur_Beschlussvorlage_VL-492-2004-2009.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-492-2004/2009) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc-CjIImu4JWteUuKSFtfirW_TjMqIWWJ1A_Yx6dJVAv/Anlage_zur_Beschlussvorlage_VL-492-2004-2009.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-492-2004/2009) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYB4yJd_y91xCESJYA_PNNHiIncVIga_2_EgfgHQ79dw/Anlage_zur_Beschlussvorlage_VL-492-2004-2009.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-492-2004/2009) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZjCXVNd5BTJgOduwNmpJCZbcKsSec_FRxzPImey4aEb/Anlage_zur_Beschlussvorlage_VL-492-2004-2009.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-492-2004/2009) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcoc-eQRNUim7zYGElvhMG1GIAkQq9GqGIszumWOgl_Y/Anlage_zur_Beschlussvorlage_VL-492-2004-2009.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-492-2004/2009) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdywMQOooH_QE-3rlQA3OtE5FTJ9cQApKsLmy4nWd-dM/Anlage_zur_Beschlussvorlage_VL-492-2004-2009.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-492-2004/2009) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeiw1f4Wc8KaxiWgM70AIqpNl8zSssNBu9Ylzt9Gr40f/Anlage_zur_Beschlussvorlage_VL-492-2004-2009.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-492-2004/2009) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYrBMh6zrf3IJYnOg_aHUGGve5n9swbjSjZ2dpTdPkdO/Anlage_zur_Beschlussvorlage_VL-492-2004-2009.pdf
+- Beratung:  https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/meeting/434 https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/1-9
+- underDirectionOf: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/3-184
