@@ -1,0 +1,65 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-06-19T14:08:00+02:00
+- Ende: 2008-06-19T16:02:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2254
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2254
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166999.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166999.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166999.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Kämmererliste - mehrheitlich beschlossen
+- TOP 4: Kämmererliste - mehrheitlich beschlossen
+- TOP 5: Üpl Straßenbeleuchtung Bonner Straße - einstimmig beschlossen
+- TOP 6: Brücke Pariser Straße - Planungskosten - einstimmig beschlossen
+- TOP 7: Gründung ITAD - mehrheitlich beschlossen
+- TOP 8: Umwidmung von Mitteln des Jan-Wellem-Jahres - einstimmig beschlossen
+- TOP 9: Fahrradstation Bertha-von-Suttner-Platz - Bau und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 10: Franz-Vaahsen-Schule, KGS Grenzweg 12, Neubau von Klassenräumen und Räumlichkeiten für die OGATA - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 11: Dachsanierung und Brandschutzertüchtigung des Kunstmuseums/ Ehrenhof 5 - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 12: Sanierung der Natursteinfassade Burgplatz1- Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 13: Sanierung der Hochwasserschutzanlage Burgallee in Kaiserswerth - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 14: KGS Citadellstraße 2B, Ausbau des Dachgeschosses für die Erweiterung der Offenen Ganztagsschule - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 15: ÖPNV-Beschleunigung Graf-Adolf-Straße - mehrheitlich beschlossen
+- TOP 16: ÄA Bü90/Grü: ÖPNV-Beschleunigung - mehrheitlich abgelehnt
+- TOP 17: Kesselstraße 1. BA - Straßenneubau - Bau- und Finanzierungsbeschluss - einstimmig beschlossen
+- TOP 18: Kreisverkehr Angermunder Straße / Rahmer Straße - Bau- und Finanzierungsbeschluss - einstimmig beschlossen
+- TOP 19: Wildenbruchstraße - einstimmig beschlossen
+- TOP 20: Umrüstung von Gasbeleuchtung auf LED Beleuchtung in Lohausen - zurückgezogen
+- TOP 21: Umbesetzungen - einstimmig beschlossen
+- TOP 22: Benennung Vertreter d. Stadt D`dorf Vorstand Berg.-Rhein. Wasserverband - einstimmig beschlossen
+- TOP 23: Ersatzwahl JHA - einstimmig beschlossen
+- TOP 24: Zweckverband IT - Kooperation Rheinland - einstimmig beschlossen
+- TOP 25: Verwaltungsrat Werkstatt für angepasste Arbeit - einstimmig beschlossen
+- TOP 26: Aufsichtsrat "Zukunftswerkstatt" - einstimmig beschlossen
+- TOP 27: Nachbesetzung des Beirates - einstimmig beschlossen
+- TOP 28: AR Flughafen - Ersatzwahl - - einstimmig beschlossen
+- TOP 29: VR SSK - einstimmig beschlossen
+- TOP 30: Genehmigung nach § 60 GO NRW - einstimmig beschlossen
+- TOP 31: 60er: Umbesetzung Gesellschaftsgremien - einstimmig beschlossen
+- TOP 32: Bestellung eines Prüfers des Rechnungsprüfungsamtes - einstimmig beschlossen
+- TOP 33: Neuwahl einer Schiedsfrau - einstimmig beschlossen
+- TOP 34: Verleihung der Förderpreise für bildende Kunst, Musik, Literatur und darstellende Kunst 2008 - einstimmig beschlossen
+- TOP 35: Änderung der Benutzungsordnung für die Tonhalle der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 36: Bericht des Instituts für Denkmalschutz und Denkmalpflege über das Jahr 2007 - zur Kenntnis genommen
+- TOP 37: Unterstützung Fam. m. arbeitslosen Jugendl. - zur Kenntnis genommen
+- TOP 38: Demographiebericht - zur Kenntnis genommen
+- TOP 39: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 40: Entwicklungskonzept Innenstadt Süd-Ost - einstimmig beschlossen
+- TOP 41: ÄA Bü90/Grü: - zur Kenntnis genommen
+- TOP 42: Pl 5373/050-Östl.Aachener Str.-VÄ - einstimmig beschlossen
+- TOP 43: Genehigung 60er: Umbesetzung Gesellschaftsgremien II - einstimmig beschlossen
+- TOP 44: AR Flughafen MG - Ersatzwahl - - einstimmig beschlossen
+- TOP 45: AR Bäderges. mbH AR der Bädergesellschaft Düsseldorf mbH - Ersatzwahl - AR der Bädergesellschaft Düsseldorf mbH - Ersatzwahl - AR der Bädergesellschaft Düsseldorf mbH - Ersatzwahl - AR der Bädergesellschaft Düsseldorf mbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 46: AR Multifunktionsarena - einstimmig beschlossen
+- TOP 47: AR Neuss-Düsseldorfer Häfen - einstimmig beschlossen
+- TOP 48: Bestellung beratender Mitglieder in Ausschüsse - einstimmig beschlossen
