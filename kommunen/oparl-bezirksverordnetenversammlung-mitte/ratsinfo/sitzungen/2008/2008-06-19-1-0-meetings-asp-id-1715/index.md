@@ -1,0 +1,119 @@
+# 17. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2008-06-19T17:45:00+02:00
+- Ende: 2008-06-19T22:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1715
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1715
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=65035
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - (offen)
+- TOP 4.1: Türkisch-Unterricht in den Schulen im Bezirk Mitte - beantwortet
+- TOP 4.2: Integration als Querschnittsaufgabe (2) - in der BVV zurückgezogen
+- TOP 4.3: Wie multikulturell ist Mittes Verwaltung? - in der BVV zurückgezogen
+- TOP 4.4: Umweltbildung als wichtiger Baustein zur Integration - in der BVV zurückgezogen
+- TOP 4.5: Kultursensible Altenpflege - in der BVV zurückgezogen
+- TOP 4.6: Der lange Weg zum Integrationsbericht - beantwortet
+- TOP 4.7: Vielfalt fördern - Zusammenhalt stärken - Fortsetzung des interreligiösen Dialogs - ohne Änderungen in der BVV beschlossen
+- TOP 4.8: Kultursensible Pflege (Qualifizierungsoffensive) - ohne Änderungen in der BVV beschlossen
+- TOP 4.9: Einrichtung einer Deutsch-Türkischen Europaschule im Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 4.10: Tag der Kulturen der Welt an den Bibliotheken - in der BVV abgelehnt
+- TOP 4.11: "Abziehen ist Raub" Stop Tokat! - ohne Änderungen in der BVV beschlossen
+- TOP 4.12: Frühkindliche Integration durch Kita-Besuch - in der BVV abgelehnt
+- TOP 4.13: Die Welt zu Hause in Mitte: Mehrsprachiges Internetangebot des Bezirksamtes - in der BVV abgelehnt
+- TOP 4.14: Mittes Schulen werden zu "Schulen ohne Rassismus - Schulen mit Courage!" - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Bleibt die Märchenhütte beim Hexenkesselhoftheater? - beantwortet
+- TOP 5.2: Märchenhütte Monbijou 2: "Die tollkühnen Männer in ihren fliegenden Bauten" - beantwortet
+- TOP 5.3: Informationsschreiben: Einhaltung von sozialen Leistungen? - beantwortet
+- TOP 5.4: Kinderspielplatz "Spielstraße" im Schillerpark - beantwortet
+- TOP 5.5: Aktueller Stand der Einbürgerungsanträge - schriftlich beantwortet
+- TOP 5.6: Hekticket auf dem Alexanderplatz - schriftlich beantwortet
+- TOP 5.7: Sprachliche Qualifikation im Gesundheitsdienst - in der BVV zurückgezogen
+- TOP 5.8: Schäden nach Baumaßnahmen - schriftlich beantwortet
+- TOP 5.9: IZDB und islamisch-fundamentalistische Kita - schriftlich beantwortet
+- TOP 5.10: Inanspruchnahme des Gesundheitsdienstes durch MigrantInnen - in der BVV zurückgezogen
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Bearbeitung der Anwohneranträge in den neuen Parkraumbewirtschaftungszonen II - beantwortet
+- TOP 6.2: Abriss IBA-Ungers-Bauten am Lützowplatz: Test the Asbest? - beantwortet
+- TOP 6.3: Kein Respekt in Mitte vor den homosexuellen Opfern des Nationalsozialismus? - beantwortet
+- TOP 6.4: Schließung des Hallenbades Seydlitzstraße während der Sommerferien - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Keine Kontrolle des Jugendschutzes in Mitte? - beantwortet
+- TOP 7.2: "White Cube" oder "Black Box"? - schriftlich beantwortet
+- TOP 7.3: Wie weiter mit dem KIZ? - schriftlich beantwortet
+- TOP 7.4: Maßnahmen gegen Schuldistanz - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Wahl der ehrenamtlichen Richter für das Verwaltungsgericht Berlin für die Amtsperiode ab 01. Januar 2009 - Nachtrag - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Genehmigung der im Haushaltsjahr 2007 zugelassenen übe- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Beitragspflichtige Erneuerung der Monbijoustraße von der Monbijoubrücke bis zur Oranienburger Straße - überwiesen
+- TOP 9.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 8 - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Sicheres Fahrradfahren auf dem Weinbergsweg/Kastanienallee - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Straßenbenennung - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Unterstützung des Volksbegehrens Kitakinder + Bildung von Anfang an = Gewinn für Berlin - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Radio Multikulti muss erhalten werden! - vertagt
+- TOP 11.5: Werbung für Volksfeste auf dem Zentralen Festplatz - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Gulliver nur im Bieterverfahren - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: BVV Mitte: Auch weiterhin Vorfahrt für die Anwohner in den Gebieten mit hohem Parkdruck - in der BVV abgelehnt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Kontrolle des Jugendschutzes in Mitte - überwiesen
+- TOP 12.2: Liegenschaft Gerichtstr. 37 - überwiesen
+- TOP 12.3: Gründe für den Wechsel - überwiesen
+- TOP 12.4: Moderne Freizeitform für junge Menschen in Mitte etablieren - überwiesen
+- TOP 12.5: Ab in die Tonne! - überwiesen
+- TOP 12.6: Jährlicher Energiebericht - mit Änderungen in der BVV beschlossen
+- TOP 12.7: Verlängerung der Lünebuger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Informationsarbeit über offene ÖBS-Stellen in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Vielfalt der Schulsysteme für leistungsstarke Schüler erhalten und ausbauen - überwiesen
+- TOP 12.10: Tagung "Strategien gegen Armut im Bezirk Mitte" - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Denkmalsubstanz Warenhaus Jandorf erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Schulpatenschaften für Grünflächen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Mitwirkung von Betroffenen in Untersuchungsgebieten für zukünftige Untersuchungs- und Sanierungsgebiete im Bezirk Mitte sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Besetzung des Ausschusses für Wirtschaft und Arbeit - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Besetzung des Ausschusses für Gesundheit - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 13.1: Tempo 30 - Sicherheit für Parkbesucher - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Keine finanzielle Förderung von Einrichtungen die verfassungsfeindlichen Organisationen nahe stehen! - in der BVV abgelehnt
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Obligatorische Ganztagsbetreuung für Kinder mit Sprachförderbedarf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Mittagessen in der Werkstatt für Behinderte Menschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Umsetzung der Maßnahmeplanung 2006 der Leitlinien zur SeniorInnen-Politik in Mitte 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Bezirkswerbung auf der ITB mit eigenem Messestand - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Fallmanagement Eingliederungshilfe II - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.6: Freizeitsport im Bezirk Mitte - Laufstrecken-Markierung / Laufstrecken-Wegweiser - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Nachbesserung des Seniorenmitwirkungsgesetzes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.8: Öffentlicher Beschäftigungssektor - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Konzeption für die Aufgabenbereiche Prüfdienst und Kosteneinziehung in der Abteilung Soziales und Bürgerdienste - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Kinder schützen, Krausnick- und Monbijoupark stärken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.11: Mehr "Grün" in Mitte! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Keine Verschwendung von Steuermitteln beim Bau der Planstraße zwischen Beusselstraße und Perleberger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: Entwicklung eines Berufsbildungskonzeptes für sozial benachteiligte junge Menschen mit hohem sozialpädagogischem Betreuungsbedarf (inklusive einer Finanzierung durch das JobCenter Mitte und die Abteilung Jugend und Finanzen des Bezirksamtes Mitte) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.14: Installation von solarthermischen Anlagen und Brauchwasseranlagen bei Neu- und Umbauten grundsätzlich prüfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.15: Vorfahrt für Kinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: Frau braucht Zukunft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.17: Veräußerung des Grundstücks Rückerstr. 3 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.18: Berlin Festival ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.19: Bessere Ausschilderung des Festplatzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.20: Autofreier Sonntag am 1. Juni 2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.21: Ausnahmegenehmigungen zum Befahren der Umweltzone nicht nur für ein Jahr erteilen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.22: Strukturen für einen "Gesunden Bezirk" Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.23: Liegenschaftsfonds - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.24: Sachmittel für die Unterstützung der ehrenamtlichen Arbeit der Bügerinnen und Bürger zur Verbesserung der öffentlichen Infrastruktur im Jahre 2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.25: Zustandekommen des Bürgerbegehrens gegen die Ausweitung der Parkraumbewirtschaftung in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.26: Beschluss zur Reduzierung des Geltungsbereiches des Bebauungsplanes I-2 im Bezirk Mitte, Ortsteil Mite, und über die Erweiterung des Geltungsbereiches des Bebauungsplanes I-B 5p im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
