@@ -1,0 +1,6 @@
+# TOP 7: Betrauung der das Neusser Stadtgebiet bedienenden Verkehrsunternehmen Konkretisierung der gemeinwirtschaftlichen Verpflichtungen zur Durchführung des öffentlichen straßengebundenen Personennahverkekehrs in der Stadt Neuss (HA120608-06539.doc)
+
+- Sitzung: Rat der Stadt Neuss (2008-06-20)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/111847
