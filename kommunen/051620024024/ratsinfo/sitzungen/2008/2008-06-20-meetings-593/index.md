@@ -1,0 +1,61 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2008-06-20T16:08:00+02:00
+- Ende: 2008-06-20T20:39:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/593
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/593
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Umgestaltung des Rennbahnareals zum ObertorPark - Grundsatzbeschluss
+- TOP 6: Anpassung der Satzung für die Feuerwehr der Stadt Neuss (HA120608-06538.doc)
+- TOP 7: Betrauung der das Neusser Stadtgebiet bedienenden Verkehrsunternehmen Konkretisierung der gemeinwirtschaftlichen Verpflichtungen zur Durchführung des öffentlichen straßengebundenen Personennahverkekehrs in der Stadt Neuss (HA120608-06539.doc)
+- TOP 8: Gewährung von Zuschüssen an die politischen Jugendorganisationen in 2008 (HA120608-06571.doc)
+- TOP 9: Bebauungsplan Nr. 139/3 - Batteriestraße (Cretschmarhalle) - - Beschluss über die Stellungnahmen aus der frühzeitigen Öffentlichkeits- und Behörden-/Trägerbeteiligung - Entwurfsvorlage - Aufstellungsbeschluss - Vorbereitung der Auslegung
+- TOP 10: Flächennutzungsplanänderung Nr. 114 - Vogelsang, Niederdonker Weg - - Beschluss über die Stellungnahmen aus der frühzeitigen Öffentlichkeits- und Behörden-/Trägerbeteiligung - Auslegungsbeschluss
+- TOP 11: Erschließungssituation Gewerbegebiet Raiffeisenstraße - Grundsatzbeschluss
+- TOP 12: Umsetzung Prioritätenliste Haltestellendatenbank - Haltestelle Böhmerstraße
+- TOP 13: Ausbau der Keltenstraße ab Further Straße (Straßenbau, Beleuchtung) – Planvorlage, Ausbauprogramm (BA110508-06535.doc)
+- TOP 14: Ausbau der Keltenstraße (Kanalbau) (BA110608-06585.doc)
+- TOP 15: Plankstraße – Umbau der Haltestelle Alemannenstraße (Straßenbau) -Planvorlage, Ausbauprogramm- (BA110608-06536.doc)
+- TOP 16: Umbau BPL 451 – Augustinusviertel/Nordkanalallee – (Straßenbau, Beleuchtung) - Planvorlage, Ausbauprogramm - (BA110608-06537.doc)
+- TOP 17: Erneuerung Regenwasserkanal Nordkanalallee zwischen Selikumer Weg und Alexianerplatz (BA110608-06577.doc)
+- TOP 18: Fußwegeverbindung vom Konrad-Adenauer-Ring zum Jahnstadion (AUG060508-06326.doc)
+- TOP 19: Aufstellung eines Bebauungsplans zur Ausweisung eines Kraftwerkstandorts An der Lausward - Stellungnahme der Stadt Neuss zur Planung der Stadt Düsseldorf
+- TOP 20: Verlegung und barrierefreier Ausbau der Haltestelle Stephanusstraße in Grefrath
+- TOP 21: Skihalle: Antrag auf Einleitung eines VEP-Satzungsverfahrens zur Ausweisung von Flächen mit der Zweckbestimmung Hotel, Freizeit, Sport + Erholung und auf Änderung des Flächennutzungsplans sowie auf Aufhebung der Gestaltungssatzung
+- TOP 22: Antrag auf Einleitung eines Satzungsverfahrens für einen vorhabenbezogenen Bebauungsplan zur Errichtung von Wohngebäuden in Norf ( Wohnanger Grupellostraße ) und auf Änderung des Flächennutzungsplans
+- TOP 23: Vergrößerung des Mischwasserkanals in der Ulmenallee (BA300408-06347.doc)
+- TOP 24: Freianlagen St. Andreas-Schule incl. Offene Ganztagsschule (OGS), Neuss-Norf (SCH150408-06329.doc)
+- TOP 25: Flächennutzungsplanänderung Nr. 109 - Allerheiligen, Schule und Begegnungsstätte - - Beschluss über die Stellungnahmen aus der frühzeitigen Öffentlichkeits- und Behörden-/Trägerbeteiligung Auslegungsbeschluss
+- TOP 26: Bebauungsplan Nr. 445 - Allerheiligen, Schule und Begegnungsstätte - - Beschluss über die Stellungnahmen aus der frühzeitigen Öffentlichkeits- und Behörden-/Trägerbeteiligung - Auslegungsbeschluss
+- TOP 27: Antrag auf Einleitung eines Satzungsverfahrens für einen vorhabenbezogenen Bebauungsplan (Vorhaben- und Erschließungsplan) für den Bereich des Baggersees südöstlich der A46 (Freizeitanlage)
+- TOP 28: Ausbau der Straße „Am Blankenwasser“, Bebauungsplan Nr. 457 (Straßenbau, Beleuchtung) - Planvorlage, Ausbauprogramm – (BA110608-06553.doc)
+- TOP 29: Ausbau der Straße „Am Blankenwasser“, Bebauungsplan Nr. 457 (Kanalbau) (BA110608-06586.doc)
+- TOP 30: Wahl einer/s Delegierten und einer/s Ersatzdelegierten für die Mitgliederversammlung der LAGA NRW (IR030608-04620.doc)
+- TOP 31: Wahl einer/s Ersatzdelegierten für den Hauptausschuss der LAGA NRW (IR030608-06421.doc)
+- TOP 32: Tagesbetreuung von Kindern – Fortschreibung der Bedarfsplanung im Hinblick auf das Gesetz zur frühern Förderung von Kindern – KinderBildungsgesetz (KiBiz) (JHA130508-06376.doc)
+- TOP 33: Weiterentwicklung zum Familienzentrum im Kindergartenjahr 2008/09 (JHA130508-06377)
+- TOP 34: Ausbau Plätze unter drei Jahren (JHA130508-06380.doc)
+- TOP 35: Elternbeiträge Kindertagespflege ab 01.08.2008 (JHA130508-06487.doc)
+- TOP 36: Diakoniewerk Neuss-Süd e.V., Provisorische Kindertageseinrichtung Hüttenstraße, Neuss-Weckhoven (JHA130508-06506.doc)
+- TOP 37: Ausbauplanung Kinderspielplatzprogramm 2008 (UK 270208-06191.doc)
+- TOP 38: Zuschuss zum Geschäftsbedarf der Ratsfraktion Unabhängige/Die Linke (RAT200608-06615)
+- TOP 39: Bestellungsbeschlüsse für beratende Mitglieder der Fraktion Unabhängige/Die Linke in Ausschüssen (RAT200608-06627)
+- TOP 40: Machbarkeitsstudie Aufbau einer eigenen Energieversorgung in Neuss Geothermiekraftwerk für die Stadt Neuss (RAT200608-06644.doc)
+- TOP 41: Gebührenfreies Bildungsangebot in Kindertageseinrichtungen ist überfällig (RAT200608-06645.doc)
+- TOP 42: Washingtoner Konferenz über Vermögenswerte aus der Zeit des Holocaust (RAT200608-06613.doc)
+- TOP 43: Schwierige Verkehrssituation im Neusser Süden (RAT200608-06639.doc)
+- TOP 44: Wachsende Fragwürdigkeit einer eingleisigen Straßenbahn im Innenstadtstraßenzug (RAT200608-06654.doc)
+- TOP 45: Projekt „Neuss 2030 – Stadt im Wandel“ (RAT200608-06655.doc)
+- TOP 46: Kenntnisnahme üpl/apl Aufwendungen/Auszahlungen IV./2007
+- TOP 47: Einwohnerfragestunde
