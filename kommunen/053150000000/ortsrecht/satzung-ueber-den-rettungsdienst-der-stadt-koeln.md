@@ -1,8 +1,8 @@
 # Satzung über den Rettungsdienst der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2003-12-19 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/rettungsdienstsatzung2003-12-19.pdf
+- Datum: 2008-06-23 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/rettungsdienstsatzung2008-06-23.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,8 +10,8 @@
 
 Satzung über den Rettungsdienst der Stadt Köln
 vom 04. Dezember 2001
-in der Fassung der 2. Satzung zur Änderung der Satzung über den Rettungsdienst der Stadt Köln
-vom 19. Dezember 2003
+in der Fassung der 3. Satzung zur Änderung der Satzung über den Rettungsdienst der Stadt Köln
+vom 23. Juni 2008
 Der Rat der Stadt Köln hat in seiner Sitzung vom 22.11.2001 aufgrund der §§ 2, 6, 13 und 14 des Gesetzes über den Rettungsdienst sowie die Notfallrettung und den Krankentransport durch Unternehmen (RettG) vom 24.11.1992 (SGV NW 215) der §§ 4, 5 und 6 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen vom 21.10.1969 (SGV NW 610 und der §§ 7 und 76 Abs. 1 der Gemeindeordnung für das land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14.07.1994 (SGV NW 2023) – jeweils in der bei Erlass dieser Satzung geltenden Fassung – diese Satzung beschlossen:
 §1 Umfang und Aufgaben des Rettungsdienstes
 (1) Die Stadt Köln unterhält einen Rettungsdienst im Sinne des Gesetzes über den Rettungsdienst sowie die Notfallrettung und den Krankentransport durch Unternehmen (RettG NRW) vom 24.11.1992.
@@ -71,40 +71,37 @@ Seite 5 von 7
 Gebührentarif zur Satzung über den Rettungsdienst der Stadt Köln
 vom 04. Dezember 2001
 
-1. 1.1 1.2 1.3
-2. 2.1 2.1.1 2.1.2
-3.
-4
+1. Gebühren für Transporte
 
-Gebühren für Transporte
+1.1 mit Rettungswagen (RTW), innerhalb des Stadtgebietes bei Beförderung einer Person
 
-mit Rettungswagen (RTW), innerhalb des Stadtgebietes bei Beförderung einer Person
+269,00 €
 
-251,00 €
+1.2 mit Rettungswagen außerhalb des Stadtgebietes pro Kilometer
 
-mit Rettungswagen außerhalb des Stadtgebietes pro Kilometer zusätzlich zu Ziffer 1.1
+zusätzlich zu Ziffer 1.1
 
-4,70 €
+5,00 €
 
-Transport mehrerer Personen
+1.3 Transport mehrerer Personen
 
 Bei gleichzeitige Beförderung mehrerer Personen in einem Fahrzeug erhöht sich die gem. Ziff. 1.1 und 1.2 berechnete Gebühr um 25 %.
 
 Diese Gebühr wird von den beförderten Personen anteilig erhoben.
 
-Gebühren für notärztliche Leistungen
+2. Gebühren für notärztliche Leistungen
 
-Notarztgebühr einschließlich einer ärztlich begleiteten Verlegungsfahrt
+2.1 Notarztgebühr einschließlich einer ärztlich begleiteten Verlegungsfahrt
 
-bei Untersuchung/Begleitung einer Person
+2.1.1 bei Untersuchung/Begleitung einer Person
 
-240,00 €
+262,00 €
 
-Bei Untersuchung/Begleitung mehrerer Personen an einer Einsatzstelle/in einem Fahrzeug erhöht sich die Gebühr gem. Ziff. 2.1.1 um 50 %.
+2.1.2 Bei Untersuchung/Begleitung mehrerer Personen an einer Einsatzstelle/in einem Fahrzeug erhöht sich die Gebühr gem. Ziff. 2.1.1 um 50 %.
 
 Diese Gebühr wird von den untersuchten/beförderten Personen anteilig erhoben.
 
-Bestelltes Bereithalten eines Rettungswagens ohne Benutzung
+3. Bestelltes Bereithalten eines Rettungswagens ohne Benutzung
 
 Mindestgebühr für maximal eine Stunde Bereitstellungszeit
 
@@ -114,7 +111,7 @@ jede weitere angefangene halbe Stunde
 
 halbe Gebühr gem. Ziff. 1.1
 
-Bestelltes Bereithalten einer/eines Notärztin/Notarztes ohne Tätigwerden
+4 Bestelltes Bereithalten einer/eines Notärztin/Notarztes ohne Tätigwerden
 
 Mindestgebühr für maximal eine Stunde Bereitstellungszeit
 
@@ -124,23 +121,20 @@ Seite 6 von 7
 
 jede weitere angefangene halbe Stunde
 
-5.
-
-Einsatz eines Rettungswagens ohne Benutzung oder
-
-einer/eines Notärztin/Notarztes ohne Tätigwerden
-
-6.
-
-Materialtransport
-
-7.
-
-Vorsätzliche Fehlalarmierung
-
 halbe Gebühr gem. Ziff. 2.1.1
-halbe Gebühr gem. Ziff.1 und 2
+
+5. Einsatz eines Rettungswagens ohne Benutzung oder einer/eines halbe Gebühr
+
+Notärztin/Notarztes ohne Tätigwerden
+
+gem.Ziff.1 und 2
+
+6. Materialtransport
+
 volle Gebühr gem. Ziff.1
+
+7. Vorsätzliche Fehlalarmierung
+
 volle Gebühr gem. Ziff.1 und 2
 
 Vorstehende Satzung wird hiermit öffentlich bekanntgemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.
@@ -149,6 +143,6 @@ Köln, den 04.12.2001
 
 gez.: Schramma Der Oberbürgermeister
 
-- ABl StK 2001, S. 530, 2002, S. 458, 2003, S. 722 -
+- ABl StK 2001, S. 530, 2002, S. 458, 2003, S. 722, 2008, S. 433 -
 
 Seite 7 von 7
