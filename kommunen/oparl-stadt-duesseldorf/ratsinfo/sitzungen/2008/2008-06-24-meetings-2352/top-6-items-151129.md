@@ -1,0 +1,8 @@
+# TOP 6: Teilnahme des Jugendrates an öffentlichen Sitzungen der BV 10
+
+- Sitzung: Bezirksvertretung 10 (2008-06-24)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/151129
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/44240
