@@ -1,0 +1,55 @@
+# Rat der Stadt Rheda-Wiedenbrück (27. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2008-06-24T17:00:00+02:00
+- Ende: 2008-06-24T18:36:00+02:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZT5T9-N-4g_acWhg_ACf1pU
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/646
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcUtJcrMfsKVRTY2rU4YoE0LoHr8nVZo9PNoB-Ng7ZJn/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_24.06.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSZ5pm74cqKNManmevn5_0-AmhNYVF4mUJm-kAR5_NRV/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_24.06.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Verabschiedung des durch Niederlegung des Ratsmandates ausgeschiedenen Ratsmitgliedes Elisabeth Frenser
+- TOP 3: Einführung und Verpflichtung des nachrückenden Ratsmitgliedes Barbara Völzke-Weidlich
+- TOP 4: Erklärung von Ausschließungsgründen
+- TOP 5: Einwohnerfragestunde
+- TOP 6: Umbesetzung in den Ausschüssen des Rates sowie Organen - Einstimmig
+- TOP 7: Nachtragsstellenplan 2008 - Einstimmig
+- TOP 8: Abschlussbericht zum Hilfsprojekt Waisenhaus Matale - Einstimmig
+- TOP 9: Aufhebung der Rechtsverordnungen über die Bildung von Schulbezirken und Schuleinzugsbereichen für die Schulen der Stadt Rheda-Wiedenbrück - 29 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 10: Bekanntgabe der für das Jahr 2007 gem. § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Auszahlungen seit September 2007 - Kenntnisnahme
+- TOP 11: Zustimmung zur Leistung überplanmäßiger Aufwendungen und Auszahlungen gemäß § 83 Abs. 2 GO NRW zur Wegesanierung im Park der Flora Westalica - Einstimmig
+- TOP 12: Einleitung vorbereitender Untersuchungen gem. § 141 (3) BauGB für den Bereich des Bebauungsplans "Anekabel" und dessen Umgebung - 27 Ja-Stimme(n), 2 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 13: Bebauungsplan Nr. 369/2 "AUREA" der Stadt Rheda-Wiedenbrück 1. Beratung und Beschluss über Anregungen aus der Planoffenlage gem. § 3 (2) BauGB 2. Satzungsbeschluss - 27 Ja-Stimme(n), 3 Nein-Stimme(n)
+- TOP 14: Bebauungsplan Nr. 372 "Woermannstraße"; hier: Erste Änderungssatzung vom 2008 zur Verlängerung der Satzung über die Anordnung einer Veränderungssperre in der Stadt Rheda-Wiedenbrück für den Geltungsbereich des in Aufstellung befindlichen Bebauungsplanes Nr. 372 "Woermannstraße" - Einstimmig
+- TOP 15: Bebauungsplan Nr. 378 "Amselweg-Süd"; a) Abwägung über während der Offenlegung eingegangene Anregungen b) Satzungsbeschluss - Absetzung
+- TOP 16: Prüfung des Jahresabschlusses zum 31.12.2006 des Eigenbetriebes Abwasser Hier: Bericht der Mittelrheinischen Treuhand GmbH, Essen - Einstimmig
+- TOP 17: Aktualisierung des Abwasserbeseitigungskonzeptes der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 18: Straßenbenennung im Bereich des Bebauungsplanes Nr. 367 "Batenhorst - An der Kirche" - Absetzung
+- TOP 19: Straßenbenennung im Bereich der Wiedenbrücker Schule – Stichweg zum Museum - Einstimmig
+- TOP 20: Benennung einer Fußgängerbrücke nach dem Wiedenbrücker Bürger Josef Surmann - Einstimmig
+- TOP 21: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 22: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 22.1: Stadthaus Wiedenbrück – Energetische Ertüchtigung und Grundsanierung - Kenntnisnahme
+- TOP 22.2: Mündlicher Bericht zur Anfrage der SPD-Fraktion betreffend Altpapierentsorgung
+- TOP 23: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 24: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 25: Erklärung von Ausschließungsgründen
+- TOP 26: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 27: Mündlicher Bericht über Untersuchungskonzepte zur Stadtentwicklung
+- TOP 28: Sachstandsbericht zum Reethus-Sponsoring - Kenntnisnahme
+- TOP 29: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Schöffenwahlangelegenheit - Einstimmig
+- TOP 34: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 35: Dringende Anfragen und Anregungen
