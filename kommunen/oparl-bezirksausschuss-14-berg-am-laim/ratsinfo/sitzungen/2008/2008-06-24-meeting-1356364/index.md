@@ -1,0 +1,89 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2008-06-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1356364
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1356364
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Gestaltung der Bebauung an der Hansjakobstr./ Roßsteinstr.
+- TOP 3.1.1.2.: Beeinträchtigungen des Kustermannparks durch die Vergnügungsbetriebe entlang der Rosenheimer Straße ? Bürgerschreiben
+- TOP 3.1.2.1.: Haltverbot in der Sonnwendjochstraße ? Anhörung
+- TOP 3.1.2.2.: Parkverbot in der Josephsburgstraße
+- TOP 3.1.2.3.: Fußgängerüberweg Josephsburgstraße
+- TOP 3.1.2.4.: Wendemöglichkeit Buslinie 185
+- TOP 3.1.2.5.: Taxistandplatz Kreillerstraße
+- TOP 3.1.3.1.: Leitlinie Gesundheit ? Öffentlichkeitsphase
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.3.: Projekt Quality & Work im Rahmen v. Soziale Stadt ? Antrag auf Zuschussgewährung
+- TOP 3.5.4.: Arbeiterwohlfahrt Berg am Laim ? Antrag auf Zuschussgewährung
+- TOP 3.5.5.: LILALU e.V. ? Antrag auf Zuschussgewährung
+- TOP 3.5.6.: Zeitgerechte Bestückung der Schaukästen des BA 14 mit aktuellen Informationen ? Bürgerversammlungsempfehlung vom 17.04.2008
+- TOP 3.6: Sonstiges
+- TOP 3.7.1.: Kreillerstraße 77 ? Baumbestandsplan zum Bauvorhaben Gewerbebau mit Einzelhandel
+- TOP 3.7.2.: Streitfeldstraße 15 ? 17 ? Baumbestandsplan zum Bauvorhaben Wohnanlage mit TG
+- TOP 3.7.3.: Kainzenbadstraße 2 ? 6 u.a. ? Antrag auf Baumfällungen
+- TOP 3.7.4.: Berg-am-Laim-Str. 66 ? Antrag auf Baumfällung
+- TOP 3.7.5.: Gratlspitzstraße 1 ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: PERSPEKTIVE MÜNCHEN ? Leitlinien, Konzepte, Programme. Handlungskonzept: Herausforderungen des soziodemographischen Wandels für die Stadtentwicklung
+- TOP 4.1.1.3.: Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012 ? Fortschreibung der Investitionsvorhaben des Planungsreferates
+- TOP 4.1.1.4.: Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012 ? Entwurf für das Baureferat (mit verbindlicher Planung für 2013)
+- TOP 4.1.1.5.: Gesetz zur Erleichterung von Planungsvorhaben für Innenentwicklung der Städte "BauGB 2007" Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug Beschluss über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13 a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB
+- TOP 4.1.1.6.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2008 ? 2012
+- TOP 4.1.1.7.: Olympia ? München 2018 ? ökologisch ? nachhaltig - fair
+- TOP 4.1.1.8.: Gaststätte Trausnitzstraße 17 ? Unveränderte Fortführung
+- TOP 4.1.1.9.: Kranzhornstraße ? Abbruchanzeige
+- TOP 4.1.2.1.: Neumarkter Straße 59 - 63 ? Ausfahrt / Einfahrt Tiefgarage
+- TOP 4.1.2.2.: Hultschiner Straße (Bebauungsplan Nr. 1931 ? Süddeutscher Verlag) ? Straßenumbau
+- TOP 4.2.1.: Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Kindertagesstätte freigemeinnütziger Träger; Kindertagesstätte "St. Michael" Katholische Pfarrkirchenstiftung St. Michael Baumkirchner Straße 26 ? Leistung eines Baukostenzuschusses nach dem BayKiBiG
+- TOP 4.3.2.: Mehrjahresinvestitionsprogramm (MIP) 2008 - 2012 1. Investitionsmaßnahmen für Schulen und Kindertageseinrichtungen 2. verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Instandsetzung eines Wegekreuzes - Zuwendungsbescheid
+- TOP 4.5.2.: Kinderfest am Piusplatz ? Verwendungsnachweis, Abschlussbericht und Dank
+- TOP 4.5.3.: Mutter-Kind-Gruppe im städt. Wohnheim Englmannstr. - Abschlussbericht und Dank
+- TOP 4.5.4.: Ablauf von Bürgerversammlungen; Zulassung unterstützender Multimedia-Darstellungen zu Anträgen
+- TOP 4.6: Sonstige
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.5.2.: Elternbeirat Hauptschule Echardinger Grünstreifen ? Antrag auf Zuschussgewährung
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
