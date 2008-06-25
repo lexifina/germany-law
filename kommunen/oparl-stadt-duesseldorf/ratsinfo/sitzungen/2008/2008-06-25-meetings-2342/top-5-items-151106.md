@@ -1,0 +1,7 @@
+# TOP 5: Hochbahnsteige im Stadtbezirk 4 - Bericht der Verwaltung
+
+- Sitzung: Bezirksvertretung 4 (2008-06-25)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/151106
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/44040
