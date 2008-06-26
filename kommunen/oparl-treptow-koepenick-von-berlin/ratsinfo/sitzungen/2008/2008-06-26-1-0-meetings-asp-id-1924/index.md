@@ -1,0 +1,88 @@
+# 20. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2008-06-26T16:30:00+02:00
+- Ende: 2008-06-26T21:25:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1924
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1924
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-19 - (offen)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl einer Vertrauensperson als Beisitzerin/Beisitzer im Schöffenwahlausschuss - vertagt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des Bebauungsplans XVI-85 nebst Begründung - Entwurf der Rechtsverordnung über die Festsetzung zum Bebauungsplan XVI-85 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Grünau - überwiesen
+- TOP 11.2: - Bebauungsplans 9-3 ("Reinbeckhallen") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Oberschöneweide - Entwurf des Bebauungsplans 9-3 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan 9-3 - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Adlershofer Bürgerverein Cöllnische Heide e. V. (SM 825) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für KSV Johannisthal 1980 e. V. (SM 838) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Freundeskreis der Waldkapelle Hessenwinkel (SM 839) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für FiPP e. V., Abenteuerspielplatz Waslala (SM 843) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für Behindertenverein Köpenick e. V. (SM 844) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für Young Voices Germany (SM 846) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondermittel für Alte Möbelfabrik e. V. (SM 851) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Zustimmung zur Ausbauvariante für den Ausbau der Mozartstraße im Abschnitt von der Hämmerlingstraße bis zur Wuhle Fußgängerbrücke - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Radverkehr Josef-Nawrocki-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Behindertengerechter Zugang zum Ratskeller – Umsetzung im Jahr 2009 - mit Änderungen in der BVV beschlossen
+- TOP 12.4: Bebauungsplan XVI-54 ("Schmöckwitz-Werder (Nord), OT Schmöckwitz") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Benennung von öffentlichem Straßenland in Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Bebauungsplan 9-38 VE ("Schnellerstraße 74") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Beteiligung der Abteilungen des Bezirksamtes an der Organisation der Veranstaltungen zum Jubiläum "800 Jahre Köpenick" im Jahr 2009 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Sicherung der Kleingartenanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Einfädelung Oberspreestraße zur TVO - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Verkehrsberuhigung und Baumschutz am Brandenburgplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Geschwindigkeitsreduzierung Fürstenwalder Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Tempo 30 Gosener Damm - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Straßenbenennung Lutz-Schmidt-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Erlass von Gebühren bei Straßenbenennungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Erweiterung der Buslinie 163 zum Krankenhaus Hedwigshöhe - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Böschung der Spindlersfelder Straße sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Bebauungsplan 9-41 ("Kohlebahnhof") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Bürgernaher Online-Auftritt des Bezirkes - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Keine übereilten Grundstücksverkäufe auf dem Strandbad-Gelände - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.20: Wartehäuschen Mahonienweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Anordnung eines Angebotsstreifens für den Radverkehr im Fürstenwalder Damm - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Fußgängerüberweg Müggelheim - ohne Änderungen in der BVV beschlossen
+- TOP 12.23: Standort Wendenschloßstraße 114 für Volkshochschulangebote erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XVI-30 („Waldowplatz“) hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.2: Bebauungsplan 9-42 („Dörpfeldstraße/Ecke Adlergestell“) hier: - Aufstellungsbeschluss - überwiesen
+- TOP 13.3: Bebauungsplan XVI-36 ("Kaufhalle Siemensstraße und Umgebung") hier: Änderungsbeschluss - überwiesen
+- TOP 13.4: Bebauungsplan 9-39 G ("Ausschluss Einzelhandel Teilbereich Alt-Treptow") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.5: Weiteres Verfahren mit der Grundschule am Altglienicker Wasserturm für das Schuljahr 2009/2010 als Konkretisierung der Schulentwicklungsplanung Treptow-Köpenick - überwiesen
+- TOP 13.6: Bebauungsplan 9-3 ("Reinbeckhallen") hier: Planreife für die Grundstücke Wilhelminenhofstraße 80 und 81 (teilweise) im Bezirk Treptow-Köpenick, Ortsteil Oberschöneweide - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Einstellung der Zusammenarbeit mit der GBM - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Konzept bezirklicher Wirtschaftsförderung - überwiesen
+- TOP 14.3: Ausstattung der Schulsekretariate - überwiesen
+- TOP 14.4: Denkzeichen Zwangsarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Beitragspflicht für den Ausbau der Mozartstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Behindertenparkplatz Ärztehaus Freiheit 1 - überwiesen
+- TOP 14.7: Schulhorte in öffentlicher Trägerschaft belassen - überwiesen
+- TOP 14.8: Fahrstreifentafel Köpenicker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Radverkehrsabstellanlagen am S-Bahnhof Köpenick - überwiesen
+- TOP 14.10: Entwidmung und Teileinziehung von öffentlichem Straßenland - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: BVV-Beteiligung beim Strandbad Rahnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Parken am Treptower Park - überwiesen
+- TOP 14.13: Qualitätsmaximierung der Bezirksfeste - überwiesen
+- TOP 14.14: Nutzung der öffentlichen Toiletten im Krematorium Baumschulenweg - überwiesen
+- TOP 14.15: Haltestelle Betriebshof Köpenick stadteinwärts - überwiesen
+- TOP 14.16: Tempo 30 am Sportplatz Segelfliegerdamm - überwiesen
+- TOP 14.17: Schulwegsicherung - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Mellowpark am Standort Paul-Zobel-Sportanlage sichern - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Mellowpark - beantwortet
+- TOP 16: nicht öffentlicher Tagesordnungspunkt
