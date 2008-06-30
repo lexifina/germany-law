@@ -1,0 +1,10 @@
+#### Alternative 1 zu § 9a:
+# § 9a Grundgebühr
+(1) Die Grundgebühr wird nach dem Nenndurchfluss der verwendeten Wasserzähler berechnet.
+Befinden sich auf einem Grundstück nicht nur vorübergehend mehrere Wasseranschlüsse, so wird die Grundgebühr nach der Summe des Nenndurchflusses der einzelnen Wasserzähler berechnet.
+Soweit Wasserzähler nicht eingebaut sind, wird der Nenndurchfluss geschätzt, der nötig wäre, um die mögliche Wasserentnahme messen zu können.
+(2) Die Grundgebühr beträgt bei der Verwendung von Wasserzählern mit Nenndurchfluss
+bis | 2,5 | m³/h | ……………… €/Jahr
+bis | 6 | m³/h | ……………… €/Jahr
+bis | 10 | m³/h | ……………… €/Jahr
+über | 10 | m³/h | ……………… €/Jahr.
