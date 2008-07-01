@@ -1,0 +1,59 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2008-07-01T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1296782
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1296782
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeiner Teil
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 03.06.08
+- TOP 2: Anträge
+- TOP 2.1.: Stadtteilwoche 2009 in Fürstenried Ost
+- TOP 2.2.: Anfrage zum Einkaufszentrum (EKZ)
+- TOP 2.3.: Beleuchtung S-Bahnhof Siemenswerke
+- TOP 3: Unterausschuss Budget und Veranstaltungen
+- TOP 3.1.: Weißblauer Bumerang
+- TOP 3.2.: Grundschule Forstenrieder Allee
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Gefährdung und Belästigung durch Flüge über Ballungsräume
+- TOP 4.3.: Rauchimmissionen im Gebiet Tessiner Straße
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Faustnerweg
+- TOP 5.2.: Einbahnregelung Sollner Straße
+- TOP 5.3.: Alkorwerk; Parksituation Lkw
+- TOP 5.4.: Sehbehinderten-Ampelanlage Aidenbach-/ Kistlerhofstraße
+- TOP 5.5.: Kurzparkregelung Tölzer Str. 30
+- TOP 5.6.: Kurzparkzone Scheidegger Straße
+- TOP 5.7.: Verkehrssituation Reinhard-Wallbrecher-Schule
+- TOP 5.8.: Haltverbot Ludwig-Krafft-Str. 10
+- TOP 5.9.: Fraunbergstraße; Tempo 30 und Umleitung
+- TOP 5.10.: Parksituation Wolfratshauser Str. 199
+- TOP 5.11.: Radweg ehem. Isartalbahn
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 7: Unterausschuss Soziales
+- TOP 7.2.: Betreutes Wohnen im 19. Stadtbezirk
+- TOP 7.3.: Erweiterung der Mittagsbetreuung Grundschule Berner Straße
+- TOP 7.4.: Mittagsbetreuung Grundschule Walliser Straße
+- TOP 7.5.: Hauptschule Walliser Straße; Einrichtung von Schulsozialarbeit
+- TOP 7.6.: Sozialprojekt Thomas-Mann-Gymnasium
+- TOP 8: Entscheidungsfälle
+- TOP 8.1.: "Einsickern" von Punks im U-Bahnhof Thalkirchen und Flaucher
+- TOP 8.2.: Verlängerung des Lärmschutzwalles an der A95
+- TOP 8.3.: Geschwindigkeitsbegrenzung zwischen 22.00 und 6.00 Uhr auf der A95
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Isarschwimmen 2008 des DLRG Mchn.
+- TOP 9.2.: Zweckentfremdung Geisenbrunner Straße 54
+- TOP 10: Mitteilungen, Verschiedenes, Berichte
