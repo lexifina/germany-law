@@ -20,20 +20,22 @@ ________________________________________________________________________________
 den gesamten | einen Teil des keinen(*)
 Bitte entsprechendes Feld ankreuzen
 Abfall(s) in den Hafenauffangeinrichtungen?
-9. Art und Menge der zu entladenden und/oder an Bord verbleibenden Schiffsabfälle und Ladungsrückstände und Prozentsatz der maximalen Lagerkapazität.
+9. Art und Menge der zu entladenden und/oder an Bord verbleibenden Schiffsabfälle und Ladungsrückstände und Prozentsatz der maximalen Lagerkapazität:
 Bei Entsorgung des gesamten Abfalls bitte die zweite Spalte entsprechend ausfüllen.
 Wird der Abfall nicht oder nur teilweise entsorgt, bitte alle Spalten ausfüllen.
-Art | zu entsorgender Abfall (m3) | max. Lagerkapazität (m3) | Menge des an Bord verbleibenden Abfalls (m3) | Hafen, in dem der verbleibende Abfall entladen wird | Geschätzte Abfallmenge, die zwischen Meldung und nächstem Anlaufhafen anfällt (m3)
-Rückstandsöle |  |  |  |  | 
+1 | 2 | 3 | 4 | 5 | 6
+Typ | Zu entsorgender Abfall m3 | Maximale Lagerkapazität m3 | Menge des an Bord verbleibenden Abfalls m3 | Hafen, in dem der verbleibende Abfall entladen wird | Abfallmenge, die zwischen Meldung und nächstem Anlaufhafen anfällt m3
+Altöl |  |  |  |  | 
 Schlamm |  |  |  |  | 
 Bilgenwasser |  |  |  |  | 
-Sonstige (entsprechende Angabe) |  |  |  |  | 
+Sonstige (Bitte angeben) |  |  |  |  | 
 Müll |  |  |  |  | 
-Küchenabfall |  |  |  |  | 
+Lebensmittelabfälle |  |  |  |  | 
 Kunststoff |  |  |  |  | 
 Sonstige |  |  |  |  | 
-Ladungsbedingte Abfälle(1)(entsprechende Angabe) |  |  |  |  | 
-Ladungsrückstände(1)(entsprechende Angabe) |  |  |  |  | 
+Abwasser1) |  |  |  |  | -
+Ladungsbedingte Abfälle2) (Genaue Angabe) |  |  |  |  | 
+Ladungsrückstände2) (Genaue Angabe) |  |  |  |  | 
 Auch Schätzwerte sind zulässig.
 Achtung:
 1. Diese Angaben können für die Zwecke der Hafenstaatkontrolle und anderer Überprüfungen verwendet werden.
@@ -46,6 +48,7 @@ Datum: __________
 Uhrzeit: __________
 Unterschrift: ________
 Fußnoten
+1) Gemäß Anlage IV des MARPOL-Übereinkommens 73/78, Regel 11, kann Abwasser auf See eingeleitet werden. Die entsprechenden Kästchen müssen nicht ausgefüllt werden, wenn eine genehmigte Einleitung auf See beabsichtigt wird.
+2) Auch Schätzwerte sind zulässig.
+2) Auch Schätzwerte sind zulässig.
 (*) Bitte entsprechendes Feld ankreuzen.
-(1) Bitte entsprechendes Feld ankreuzen.
-(1) Bitte entsprechendes Feld ankreuzen.
