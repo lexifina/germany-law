@@ -1,0 +1,78 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2008-07-01T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1302931
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1302931
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Rad- / Fußweg / Bushaltestellen rund um den Laimer Würfel
+- TOP 1.2.2.: Straßenführung Ausfahrt Laim -Ammerseestraße ( Vertagung aus der BA-Sitzung vom 03.06.08)
+- TOP 1.2.3.: Fehlendes Straßenschild Ecke Landsberger Straße / Friedenheimer Straße
+- TOP 1.2.4.: Stadtbibliothek Laim
+- TOP 1.4: Benennung eines Internetbeauftragten
+- TOP 1.4.1.5: Betreuung der BA-Schaukästen
+- TOP 2: Anträge
+- TOP 2.1.: SPD-Fraktion: Schließung von Postfilialen; Auswirkungen auf den Stadtbezirk Laim
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Gewährung eines Zuschusses aus dem Budget in Höhe von 375 Euro für Jubiläumsfest am 20.06.08; Antragsteller: Bauernmarkt München e.V.
+- TOP 2: Beschlussvorlage KVR: Parksituation Camerloherstr. 110/ Grundschule und Kindergarten Empfehlung Nr. 02-08 / E 00917 der Bürgerversammlung des 25. Stadtbezirkes Laim am 08.11.2007 - <div>nach Antrag</div>
+- TOP 2.3.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Landsberger Str. 317
+- TOP 2.4.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Fürstenrieder Str. 6
+- TOP 2.5.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Gotthardstr. 57
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Baureferat vom 20.05.08: Kreuzung Von-der-Pfordten-Straße / Valpichlerstraße
+- TOP 4.2.: Schreiben KVR vom 24.04.08: Josef-Schick-Straße; Haltverbot (Vertagung aus der BA-Sitzung vom 03.06.08)
+- TOP 4.3.: Schreiben KVR vom 13.05.08: Gegenläufige Radwege in der Fürstenrieder Straße beidseitig in Höhe Überführung über die Ammerseestraße (Vertagung aus der BA-Sitzung vom 03.06.08)
+- TOP 4.4.: Schreiben KVR vom 18.06.08: Straßenfest am 05.07.08 in der Stöberlstraße / Pronner Platz
+- TOP 4.5.: Schreiben Direktorium vom 13.06.08: Änderung von § 21 der Bezirksausschuss-Satzung
+- TOP 5: Baumfällungen
+- TOP 6: Bauvorhaben
+- TOP 6.1.: Fürstenrieder Str. 39: Nutzungsänderung einer Bürofläche in studentisches Wohnen und einer Ausstellungs- in eine Ladenfläche im RGB / Tektur; hier: Baupläne und Baumfällungen
+- TOP 6.2.: Elsenheimer Str. 61-65: Nutzungsänderung eines Verwaltungsgebäudes mit Umbau
+- TOP 6.3.: Von-der-Pfordten-Str. 59: Generalsanierung Jugendzentrum "Das Laimer"; hier: Baumfällungen
+- TOP 7: Sonstiges
+- TOP 7.1.: Schreiben Schulreferat vom 26.05.08: Einladung "Das Schulreferat tirfft die Bezirksausschüsse" am 10.07.08
+- TOP 8: Protokolle
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Kommunalreferat vom 15.05.08: Zustand des ehem. Lehrerparkplatzes an der Agnes-Bernauer-Straße (Schreiben BA vom 30.04.08)
+- TOP 9.2.: Schreiben Kommunalreferat vom 30.05.08: Städtisches FlStr. 47 (Tlfl), an der Agnes-Bernauer-Straße; GS / HS Fürstenrieder Str. 30- Lehrerparkplatz (Schreiben BA vom 30.04.08)
+- TOP 9.3.: Schreiben Kulturreferat vom 11.06.08: Räume für den Historischen Verein Laim (Antrag Nr. 02-08 / B 02851 vom 29.02.08)
+- TOP 9.4.: Schreiben KVR vom 11.06.08: Änderung der Ampelschaltung an der Kreuzung Landsberger- / Friedenheimer Straße (Schreiben BA vom 04.03.08)
+- TOP 9.5.: Schreiben Baureferat vom 03.06.08: Grünanlage Agnes-Bernauer-Straße / Aldegreverstraße (Schreiben BA vom 14.03.08)
+- TOP 9.6.: Schreiben Direktorium vom 29.05.08: Übertragung von Entscheidungsrechten; Protokoll des Erfahrungsaustausches mit den BA-Vorsitzenden
+- TOP 9.7.: Schreiben Direktorium vom 06.06.08: Zuwendungsbewilligung an den Kindergarten Laimer Strolche e.V.; Änderungsbescheid
+- TOP 9.8.: Schreiben Sozialreferat vom 11.06.08: Bau eines weiteren Kindertageszentrums (KITZ) im Stadtbezirk 25 (Antrag Nr. 02-08 / B 02991 vom 04.03.08)
+- TOP 9.9.: Schreiben Referat für Gesundheit und Umwelt vom 16.05.08: Leitlinie Gesundheit; Öffentlichkeitsphase
+- TOP 9.10.: Schreiben Planungsreferat vom 23.05.08: Veit-Stoß-Str. 58-80; Nachverdichtung einer Wohnanlage durch Anbau von 2 Wohngebäuden und Aufstockung des Bestandes mit Penthäusern
+- TOP 9.11.: Schreiben Planungsreferat vom 28.05.08: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18 b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG) für das Bauvorhaben Ertüchtigung der Wärmeversorgungsanlage im Heizkraftwerk ICE-Betriebswerk München Hbf (Landsberger Str. 158)
+- TOP 9.12.: Bautenliste vom 19.05.-25.05.08: 1. Erstantragsverfahren a) Perhamerstr. 78 b) Landsberger Str. 287 b 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Perhamerstr. 78
+- TOP 9.13.: Bautenliste vom 26.05.-01.06.08: 1. Erstantragsverfahren a) Fürstenrieder Str. 147 b) Fürstenrieder Str. 29 c) Fürstenrieder Str. 147
+- TOP 9.14.: Bautenliste vom 02.06.-08.06.08 1. Erstantragsverfahren a) Geßlerstr. 25 b) Perhamerstr. 1 2. Änderungsverfahren a) Fürstenrieder Str. 21
+- TOP 9.15.: Schreiben Planungsreferat vom 02.06.08: Liste der beantragten Baumfällungen vom 26.05.-01.06.08
+- TOP 9.16.: Schreiben Planungsreferat vom 09.06.08: Liste der beantragten Baumfällungen vom 02.06.-08.06.08
+- TOP 9.17.: Schreiben Planungsreferat vom 16.06.08: Liste der beantragten Baumfällungen vom 09.06.-15.06.08
+- TOP 9.18.: Schreiben Stadtwerke München GmbH vom 26.05.08: Baumaßnahmen der Stadtwerke; Stichtag: 26.05.08
+- TOP 9.19.: Schreiben Stadtwerke München GmbH vom 09.06.08: Baumaßnahmen der Stadtwerke; Stichtag: 09.06.08
+- TOP 9.20.: Schreiben Stadtwerke München GmbH vom 16.06.08: Baumaßnahmen der Stadtwerke; Stichtag: 16.06.08
+- TOP 9.21.: Beschluss der Vollversammlung vom 07.05.08: Keine Bahnprivatisierung gegen die Interessen der Kommunen (Sitzungsvorlagen Nr. 02-08 / V 1195 und Nr. 08-14 / V 00090)
+- TOP 9.22.: Beschluss des Umweltausschusses vom 27.05.08: Lärmschutz an der BAB A 96: Einhausung zwischen Burgfrieden und Forstenrieder Straße, Lärmschutzwände bzw. - fenster (Antrag Nr. 2 der Bürgerversammlung); Verminderung des Verkehrslärms, Verlängerung des Lärmschutzwalls bis zum Schlagweg, Tieferlegung der A 96, Autobahnringschluss im Südwesten (Antrag Nr. 3 Ziffern 1-4 der Bürgerversammlung); Empfehlung Nr. 02-08 / E 00848 der Bürgerversammlung des 20. Stadtbezirkes Hadern am 25.09.07 (Sitzungsvorlagen Nr. 08-14 / V 00100)
+- TOP 9.23.: Beschluss des Bauausschusses vom 03.06.08: Pasing Zentrum, Gestaltung von Straße und Plätzen im 21. Stadtbezirk Pasing-Obermenzing (Sitzungsvorlagen Nr. 08-14 / V 00236)
+- TOP 9.24.: Beschluss des Bauausschusses vom 03.06.08: Mehrjahresinvestitionsprogramm für die Jahre 2008-2012 mit verbindlicher Planung für 2013; Entwurf für das Baureferat (Sitzungsvorlagen Nr. 08-14 / V 00209)
+- TOP 9.25.: Beschluss des Verwaltungs- und Personalausschusses vom 04.06.08: Ablauf von Bürgerversammlungen; Zulassung unterstützender Multimedia-Darstellungen zu Anträgen (Sitzungsvorlagen Nr. 08-14 / V 00075)
+- TOP 9.26.: Beschluss des Kulturausschusses vom 05.06.08: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2008-2012 und Stellungnahmen zu den Anregungen der Bezirksausschüsse (Sitzungsvorlagen Nr. 08-14 / V 00280)
+- TOP 9.27.: Beschluss der Vollversammlung vom 11.06.08: Sicherung der Biotop- und Landschaftspflege in der LH München (Sitzungsvorlagen Nr. 02-08 / V 11878)
+- TOP 9.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.08: Neubestellung des Heimatpflegers der LH München und seines Stellvertreters (Sitzungsvorlagen Nr. 08-14 / 00313)
+- TOP 9.29.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.08: Olympia- München 2018, ökologisch-nachhaltig-fair (Sitzungsvorlagen Nr. 02-08 / V 00376)
+- TOP 9.30.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.08: Perspektive München - Leitlinie, Konzepte, Programme; Handlungskonzept: Herausforderungen des soziodemografischen Wandels für die Stadtentwicklung (Sitzungsvorlagen Nr. 08-14 / V 00190)
+- TOP 9.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.08: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007", Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug, Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13 a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB (Sitzungsvorlagen Nr. 02-08 / V 11037)
+- TOP 9.32.: Münchner Statistik; 1. Quartalsheft, Jahrgang 2008
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.3: Vorstellung des Projektes LILALU
