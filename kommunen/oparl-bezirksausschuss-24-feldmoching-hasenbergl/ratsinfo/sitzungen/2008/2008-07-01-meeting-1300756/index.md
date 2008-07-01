@@ -1,0 +1,57 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2008-07-01T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1300756
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1300756
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Zuschuss aus dem Budget des Bezirksuasschusses: Evang.-Luth. Pfarramt Evangeliumskirche, Sommerfest am 20.07.2008
+- TOP 2.2.: Zuschuss aus dem Budget des Bezirksausschusses: Caritas Kinder- und Jugendtreff "Jump in", 4. Mitmach-Zirkusfestival vom 27.-29.06.2008
+- TOP 3.1.: Einrichtung eines Fuß-/Radweges in der Lerchenstraße zwischen Gundermannstraße und Bahnübergang (Bürgerverein Lerchenau, Karola Kennerknecht)
+- TOP 3.2.: Verkehrsregeländerungen an der Kreuzung Dülferstr./Josef-Frankl-Str./Paul-Preuß-Str. (Meryem Gündogdu)
+- TOP 3.3.: Verlegung der Streckenführung Buslinie 176 (Irene Jazenko)
+- TOP 3.4.: Öffentliche Parkplätze in der Tangetesstraße (MIAS GmbH, Dr. Christian Börstler)
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Anhörung im Einzelfall auf Anforderung, hier: Rothwiesenstraße
+- TOP 5.2.: Anhörung im Einzelfall auf Anforderung, hier: Lerchenstr. 19
+- TOP 5.3.: Anhörung im Einzelfall auf Anforderung, hier: Franz-Kötterl-Str. 6
+- TOP 5.4.: Sprengeländerung der Grundschulen Feldmochinger Straße 215 und Toni-Pfülf-Straße 30
+- TOP 5.5.: Vollzug des Baumschutzes, Baumaßnahmen, hier: Rothwiesenstraße
+- TOP 5.6.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen, hier: a) Waldvögeleinstr. 12, ein Ahorn b) Sonnentaustr. 13, eine Kiefer
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Aufhebung der Veränderungssperre im Bereich Paul-Preuß-Straße / Paul-Huml-Bogen zur Errichtung einer Kindertagesstätte (Schreiben des Referates für Stadtplanung und Bauordnung, LBK)
+- TOP 6.2.: Bei der Umsetzung des BPlanes Nr. 1763j, Grohmann-/Aschenbrenner-/Paulkestraße sollen für die wegfallenden Parkplätze preisgünstige ersatzparkplätze geschaffen werden. (BA-Antrag Nr. 02-08/B02629 des Bezirksuasschusses 24 Feldmoching - Hasenbergl vom 04.12.2007) Antwortschreiben des Referates für Stadtplanung und Bauordnung)
+- TOP 6.3.: Gemeinsames Gespräch zur Verlagerung der Mittelpunktsbibliothek in das Einkaufszentrum an der Blodigstraße (Schreiben des Referates für Stadtplanung und Bauordnung)
+- TOP 6.4.: Blodigstr. 11 / Schleißheimer Str. 504, Serviceangebot der Stadtsparkasse München
+- TOP 6.5.: Serviceangebot der Stadtsparkasse, Schreiben des Bewohnerstammtisches Hasenbergl-Nord
+- TOP 6.6.: Leitlinie Gesundheit, Öffentlichkeitsphase
+- TOP 6.7.: Perspektive München - Leitlinien, Konzepte, Programme
+- TOP 6.8.: Bebauungsplan mit Grünordnung Nr. 1688b Schittgablerstraße (nördlich), Löwenzahnweg (südlich) - Billigungsbeschluss -
+- TOP 6.9.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 6.10.: Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters
+- TOP 6.11.: Olympia - München 2018, ökologisch - nachhaltig - fair
+- TOP 6.12.: Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012 - Berichtigung -
+- TOP 6.13.: Vollzug der Baumschutzverordnung, Baumaßnahmen, hier: Rudbeckiastr. 7
+- TOP 6.14.: Vollzug der Baumschutzverordnung, Fällungsanträge
+- TOP 6.15.: Meldelisten Bauvorhaben
+- TOP 6.16.: Baumaßnahmen der Stadtwerke München
+- TOP 6.17.: Mitteilung über Grundstücksgeschäfte
+- TOP 6.18.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.19.: Vollzug des BayKiBiG, Bescheid über Anerkennung von Plätzen
+- TOP 6.20.: Generalinstandsetzung des Sporttraktes der Willy-Brandt-Gesamtschule in der Freudstr. 15
+- TOP 6.21.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Kinderfest am Walter-Sedlmayr-Platz am 14.06.2008
+- TOP 6.22.: Verkehrsrechtliche Anordnungen nach §45 StVO
+- TOP 6.23.: Mehrjahresinvestitionsprogramm für die Jahre 2008-2012 mit verbindlicher Planung für 2013; Entwurf für das Baureferat
+- TOP 7.: Berichte
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
