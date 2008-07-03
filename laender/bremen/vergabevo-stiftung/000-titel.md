@@ -1,1 +1,1 @@
-# Verordnung über die zentrale Vergabe von Studienplätzen (Vergabeverordnung ZVS) vom 2. Mai 2006
+# Verordnung über die zentrale Vergabe von Studienplätzen (Vergabeverordnung ZVS) vom 19. Juni 2008
