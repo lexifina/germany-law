@@ -1,0 +1,70 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2008-07-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1346722
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1346722
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Vorstellung des Arbeitgeberservice Sendling / Westpark
+- TOP 2.2.: Vorstellung des Modellprojektes im Bereich Migration
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Vorstellung von REGSAM
+- TOP 3.2.: Ausschreibung von Trägerschaften; Qualifizierung der Maßnahmen zum Erhalt von Mietverhältnissen
+- TOP 4.: Schulreferat
+- TOP 4.1.: Sachstandsbericht Ganztagesschule Implerstraße
+- TOP 4.2.: Mehrjahresinvestitionsprogramm 2008 - 2012
+- TOP 5.1.: Freischankfläche Gaststätte Großmarkthalle Wallner & Walter GmbH; Kochelseestr. 13 - <div>nach Antrag</div>
+- TOP 5.2.: Freischankfläche Thalkirchner Str. 196 - <div>nach Antrag</div>
+- TOP 5.3.: Mobiler Fahrradständer Oberländerstr. 31 - <div>Abweichung von Referentenvorl.</div>
+- TOP 5.4.: Obstverkaufsstand Herzog-Ernst-Platz
+- TOP 5.5.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 5.6.: Freischankfläche Plinganserstr. 9
+- TOP 6.1.: Öffnung der Berlepschstr. für den Radverkehr entgegen der Einbahnregelung
+- TOP 6.2.: Parkplatz am Isarkanal; Einrichtung eines Lkw-Parkverbotes
+- TOP 6.3.: Schulbushaltestelle Lipowskystr. 15; Aufhebung
+- TOP 6.4.: Kinderlauf zugunsten von Unicef; Reutbergerstr. / Reichertsbeurer Str.
+- TOP 7.1.: Änderung der BA-Satzung; § 21 Fraktionen
+- TOP 7.2.: Budgetantrag Elternbeirat Pfeuferschule, Projekt "Tanz und Schule";? 2370,-
+- TOP 7.3.: Budgetantrag FC Wacker München e. V., Saisonabschlussturnier der Jugend; ? 2412,-
+- TOP 7.4.: Budgetantrag Münchner Stadtbibliothek Sendling, Sommer-Lese-Clubs; ? 280,-
+- TOP 7.5.: Übermittlung der Unterlagen in elektronischer Form
+- TOP 7.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.: Oktoberfest 2008; Resevierung der Ratsboxe für die BAs
+- TOP 7.8.: Neue Stadtteilbroschüre
+- TOP 7.9.: Budgetantrag LILALU; ? 3000,-
+- TOP 7.10.: Budgetantrag Initiative Schul-Kunstprojekt; ? 3862,-
+- TOP 7.11.: Erörterungsveranstaltung Bebauungsplan Gotzinger Platz
+- TOP 7.12.: Verkauf von 292 Wohnungen in der Plinganserstr. und Karwendelstr.; Dringlichkeitsantrag gem. § 20 Abs. 1 BA-Satzung
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bebauungsplan Plinganserstraße (westlich), Jägerwirtstraße (nördlich) - Stemmerhof - (Teiländerung des Bebauungsplanes Nr. 37 e mit beiliegendem Grünstrukturplan gemäß § 13 des Baugesetzbuches) - <div>vertagt</div>
+- TOP 8.3.: Bauvorhaben Engelhardstr. 33
+- TOP 8.4.: Bauvorhaben Implerstr. 49
+- TOP 8.5.: Gesetz zur Erleichtung von Planungsvorhaben für die Innenentwicklung der Städte
+- TOP 8.6.: Olympia - München 2018 - ökologisch - nachhaltig - fair
+- TOP 8.7.: Neubestellung des Heimatpflegers
+- TOP 8.8.: Perspektive München
+- TOP 9.: Baureferat
+- TOP 9.1.: Umgestaltung des Platzes Am Harras; Wettbewerbsergebnis und Bedarfsgenehmigung
+- TOP 9.2.: Isarplan Besichtigungsfahrt
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Neuhofen Süd; Fällung eines Gefahrenbaums
+- TOP 10.2.: Baumfällung Thalkirchner Str. 129a
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 12.1.: Sauberkeit der Wackersbergerstraße - Aufstellung von weiteren Abfallkörben - <div>nach Antrag</div>
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Leitlinie Gesundheit - Öffentlichkeitsphase
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
