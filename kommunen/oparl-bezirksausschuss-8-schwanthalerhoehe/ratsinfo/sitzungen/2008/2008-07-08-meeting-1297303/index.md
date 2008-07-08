@@ -1,0 +1,68 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2008-07-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1297303
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1297303
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes "Ridlerstraße" gemäße Vollmacht des Oberbürgermeisters vom 26.11.2007
+- TOP 5: Anhörungen
+- TOP 5.1.: Anpassung der Tempo 30 Zonenbeschilderung an der Ganghofer-/Kazmairstraße
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Westendstr. 17 Modernisierung eindes denkmalgeschützten Wohnhauses mit Büronutzung im EG sowie DG-Ausbau und Anbei eines Außenlifts Tektur
+- TOP 6.1.2.: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Untersuchung zur zukünftigen Flughafenanbindung
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Leitlinie Gesundheit Öffentlichkeitsphase
+- TOP 6.2.2.: Vorstellung REGSAM
+- TOP 6.2.3.: Münchner Familienpass
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Baumfällung Landsberger Str. 137
+- TOP 6.4.2.: Abgrabungen am Straßenraum Landsberger Str. 143
+- TOP 6.4.3.: Mischparken mit Parscheinautomaten auf der Südseite der Landsberger Straße
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Budgetantrag Romantische Orgelmusik St. Rupert e.V. Feskonzert zum 100-jährigen Jubiläum am 21.09.2008
+- TOP 6.5.2.: MIP 2008-2012 mit verbindl. Vorplanung für 2013 Entwurf für das Baureferat Stellungnahme zur Forderung Sanierung Bergmannstraße VorlagenNr. 08-14/V209
+- TOP 6.5.3.: MIP 2008 - 2012 Erneute Behandlung aus 06/08-T6.5.1
+- TOP 7: Erledigungen
+- TOP 7.1.: Unrat und unzureichende Absicherung Schwanthalerstr. 168 02/08 - T3
+- TOP 7.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.: Öffnung der Westendstraße zwischen Theresienhöhe und Schrenkstraße für den gegenläufigen Radverkehr Verkehrsrechtliche Anordnug
+- TOP 7.4.: Öffnung der Holzapfelstraße zwischen Landsberger- und Schwanthalerstraße für den gegenläufigen Radverkehr Verkehrsrechtliche Anordnug
+- TOP 7.5.: Öffnung der Schwanthalerstraße zwischen Ligsalz- und Schießstättstraße für den gegenläufigen Radverkehr Verkehrsrechtliche Anordnug
+- TOP 7.6.: Öffnung der Ligsalzstraße zwischen Westen- und Kazmairstraße für den gegenläufigen Radverkehr Verkehrsrechtliche Anordnug
+- TOP 7.7.: Schwanthalerstr. 168; Neubau eines Wohn - und Geschäftshauses mit TG Anfrage des BA vom 30.4.2008
+- TOP 7.8.: Lärmbelästigung durch AldiFiliale 03/08-T3.4
+- TOP 7.9.: Carlamaria-Heim-Str. 3, August-Kühn-Str. 10 Anfrage bzgl. der Errichtung von überdachten Fahrradständern
+- TOP 7.10.: Adäquate Ersatzpflanzungen im 8. Stadtbezirk Zwischennachricht
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 10: Verschiedenes
+- TOP 10.1.: Bauarbeiten am Bahndeckel Theresienhöhe Nachtarbeiten
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Protokoll 06/08
+- TOP 11.2.: Schriftverkehr 03/08
+- TOP 11.2.1: Schriftverkehr 04/08
+- TOP 11.3.: Ablauf von BV; Zulassung unterstützender Multimedia-Darstellungen zu Anträgen (Ziff. 2 des Antrages) E 02-08/921 der BV des BA 25 am 08.11.2008
+- TOP 11.4.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" VorlagenNr. 02-08/V11037
+- TOP 11.5.: Olympia - München 2018 ökologisch - nachhaltig - fair VorlagenNr. 02-08/V376
+- TOP 11.6.: Neubestellung eines Heimatpflegers der LH München u seines Stellvertreters VorlagenNr. 08-14/V00313
+- TOP 11.7.: Unveränderte Fortführung von Gaststätten Tulbeckstr. 9
+- TOP 11.8.: MIP 2008 - 2012 Berichtigung Stellungnahme BA 2
+- TOP 11.9.: Perspektive München Leitlinien, Konzepte, Programme VorlagenNr. 08-14/V00190
+- TOP 11.10.: Zuwendungsbescheid KJR München Stadt vom 17.06.2008 OBEN OHNE Open Air am 27.06.2008
+- TOP 11.11.: Zuwendungsbescheid Kulturkeller Schwanthalerhöh' vom 17.06.2008 Stadtteiltage 2008
+- TOP 11.12.: Zuwendungsbescheid Ev. Migrationszentrum vom 17.06.2008 Internationales Stadtteilfest am 05.07.2008
+- TOP 11.13.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug VorlagenNr. 02-087V11037
