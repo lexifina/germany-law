@@ -1,0 +1,63 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2008-07-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1313532
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1313532
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: S-Bahn-Station Untermenzing
+- TOP 1.2.: Carl-Spitzweg-Realschule muss Schüler abweisen
+- TOP 2.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Anträge
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Ausbau Allacher Straße ab 2010: - Fußgängerüberweg (Zebrastreifen) an der Kreuzung Allacher Straße, Von-Reuter-Straße und Karl-von-Roth-Straße (Ziffer 1 des Antrages) - Anbringung eines grünen Rechtsabbiegerpfeils an der Kreuzung Allacher Straße und Von-Kahr-Straße (Ziffer 3 des Antrages)
+- TOP 4.2.: Straßenbenennung im 23. Stadtbezirk Allach-Untermenzing Storchenweg
+- TOP 5.: Anhörungen
+- TOP 5.1.: Errichtung einer Werbeanlage - 2 Plakattafeln, beleutet, Eversbuschstr. 206
+- TOP 5.2.: Änderung von § 21 der Bezirksausschuss-Satzung Antrag Nr. 08-14 / A 00001 der Stadtratsfraktion der FDP vom 02.05.2008
+- TOP 5.3.: Vollzug der BaumschutzVO: - Dachauer Str. 665 s. Baumbest.planNr. 2008-12045
+- TOP 5.4.: Vollzug der BaumschutzVO Willi-Wien-Str. 16 s. Baumbest.plan Nr. 2008-12052
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.2008: a) Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012; BERICHTIGUNG b) Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"; Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug Entscheidungen über die Anwendungen des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1Satz 2Nr. 1 und Nr. 2 BauGB
+- TOP 6.2.: Beschluss des Bauausschusses vom 03.06.2008: Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012 mit verbindlicher Planung für 2013; Entwurf für das Baureferat
+- TOP 6.3.: Beschluss des Verwaltungs- und Personalausschusses vom 04.06.2008: Ablauf von Bürgerversammlungen; Zulassung unterstützender Multimedia-Darstellungen zu Anträgen (Ziffer 2 des Antrags)
+- TOP 6.4.: Beschluss der Vollversammlung des Stadtrates vom 11.06.2008: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 6.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.2008: a) Schließung von Lebensmittelversorgern in der Gerberau b) PERSPEKTIVE MÜNCHEN - Leitlinie, Konzepte, Programme; Handlungskonzept: Herausforderungen des soziodemografischen Wandels für die Stadtentwicklung c) Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"; Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug Entscheidungen über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13 Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB d) Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters e) Olympia - München 2018; ökologisch - nachhaltig - fair
+- TOP 6.6.: 3. Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.06.08: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"; Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB
+- TOP 6.7.: Beschluss der Vollversammlung des Stadtrates vom 02.07.2008: Olympia - München 2018; ökologisch - nachhaltig - fair
+- TOP 6.8.: Beschluss des Sozialausschusses vom 03.07.2008: Ausschreibung von Trägerschaften; Qualifizierung der Maßnahme zum Erhalt von Mietverhältnissen; Trägerschaft Sozialregionsverbund Nord/Süd/West mit 5 Sozialregionen; Trägerschaft Sozialregionsverbund Ost/Mitte mit 5 Sozialwohnungen; Verträge für die Haushaltsjahre 2009 bis 2011
+- TOP 6.9.: Beschluss des Kinder- und Jugendhilfeausschusses vom 08.07.2008: Investitionsförderung gem. Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013; KinderKrippe Manzostr. 37 (Villa Kunterbunt gGmbH) mit 24 Kinderkrippenplätzen Umbau
+- TOP 7: Verschiedenes
+- TOP 8: Umlauf
+- TOP 8.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.: Schreiben der 2. Bürgermeisterin vom 24.06.08: Einladung zum Planungsdialog "Kinder- und familienfreundliches Wohnen
+- TOP 8.3.: Schreiben von Dr. Kronawitter, BA 15, vom 18.06.08: Überfällige Aktualisierung des BA-RIS
+- TOP 8.4.: Schreiben KVR vom 21.05.2008: Absolutes Haltverbot in der Bauschinger Straße
+- TOP 8.5.: Schreiben KVR vom 13.06.08: Antrag auf unveränderte Fortführung der Gaststätte "Zur Deutschen Südseeinsel"
+- TOP 8.6.: Schreiben Planungsreferat vom 09.06.08: Bauanträge (02.06.-08.06)
+- TOP 8.7.: Schreiben Planungsreferat vom 09.06.08: Liste der beantragten Baumfällungen (02.06.-08.06.08)
+- TOP 8.8.: Schreiben Planungsreferat vom 16.06.08: Bauanträge
+- TOP 8.9.: Schreiben Planungsreferat vom 16.06.08: Liste der beantragten Baumfällungen
+- TOP 8.10.: Schreiben Planungsreferat vom 24.06.08: Liste der beantragten Baumfällungen (16.06.-22.06.08)
+- TOP 8.11.: Schreiben Planungsreferat vom 24.06.08: Bauanträge ( 16.06.-22.06.08)
+- TOP 8.12.: Schreiben Stadtwerke München vom 09.06.08: Baumaßnahmen
+- TOP 8.13.: Schreiben der Stadtwerke vom 16.06.08: Baumaßnahmen
+- TOP 8.14.: Schreiben Stadtwerke vom 20.06.08: Baumaßnahmen
+- TOP 8.15.: Schreiben Baureferat vom 03.06.08: Teerarbeiten in der Auenbruggerstraße in Höhe Hausnummer 109
+- TOP 8.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.17.: Schreiben Schul- und Kultusreferat vom 19.05.08: Bescheid über Anerkennung von Plätzen, Schützenstr. 16, 85757 Karlsfeld
+- TOP 8.18.: Schreiben Referat für Gesundheit und Umwelt vom 18.06.08: Einladung zum kostenfreien Fachforum "BHKW-Praxis" am Dienstag, 15.07.2008
+- TOP 8.19.: Schreiben des Direktoriums vom 16.06.08: Oktoberfest 2008, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 8.20.: Schreiben des Sozialreferates vom 20.06.08: Zweckentfremdung von Wohnraum - Angerlohstraße 2
+- TOP 8.21.: Schreiben des Sozialreferates vom 24.06.08: Münchner Familienpass
+- TOP 8.22.: Schreiben des Referates für Arbeit und Wirtschaft vom 26.06.08: Altstadtringfest 19./20. Juli 2008
