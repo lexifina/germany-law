@@ -1,0 +1,104 @@
+# 21. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2008-07-09T17:10:00+02:00
+- Ende: 2008-07-09T22:10:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1743
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1743
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=38205
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Einschulungsbereiche in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Impfung gegen Gebärmutterhalskrebs - vertagt
+- TOP 5.3: Mehr Information für die Eltern - Reinickendorfer Schulprogramme im Internet veröffentlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Gesundheitstag 2007 in Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.5: Entwurf des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2008 und 2009 (Doppelhaushalt) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.6: Geschichte Reinickendorfs als Hörbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Aktion MitmachParcour - KlarSicht - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Schulsekretariate - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Verpflichtende Früherkennungsuntersuchungen für alle Kinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Rufumleitung von den Schulen in den Hort - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.11: Anti-Gewalt-Training in den Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Monitore: Kultur-Info für die Besucher - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: MAE-Kräfte an Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Straßenbeleuchtung in der Cité Foch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.15: Projekt "Denkzeit" in Reinickendorf gegen Jugendaggression - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.16: Einbahnstraßenregelung im Bocholter Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.17: Personelle und publikumswirksame Auswirkungen zum Volksentscheid im Bezirksamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.18: Kostensfreie Kitajahre - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.19: Bebauunsplanentwurf 12-17 für das Seniorenzentrum auf dem Gelände des ehemaligen Güterbahnhofs Hermsdorf im Bezirk Reinickendorf, Ortsteil Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.20: Bebauungsplanentwurf 12-15 vom 30.04.2008, für das Grundstück Alter Bernauer Heerweg 41-45 (Siedlung Rathenow) im Bezirk Reinickendorf, Ortsteil Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.21: Sachstandsbericht zu den Gleichstellungspolitischen Zielsetzungen 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.22: Dienstanweisung zum Umgang mit Zuwendungen - vertagt
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Mobile Bürgerämter - noch mehr Service für die Reinickendorfer Bevölkerung - vertagt
+- TOP 6.2: Zuständigkeitschaos im Bezirksamt Reinickendorf - vertagt
+- TOP 6.3: Spendenbericht - für die BVV geheim? - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: A. Entwurf des Bebauungsplanes XX-247-1 vom 26. Juli 2007 für das Grundstück Gertrudstraße 16G, im Bezirk Reinickendorf, Ortsteil Hermsdorf B. Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-247-1 vom für das Grundstück Gertrudstraße 16G, im Bezirk Reinickendorf, Ortsteil Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - vertagt
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Lerntagebücher sichern - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Dringende Brandschutzmaßnahmen in bezirklichen Gebäuden darstellen! - erledigt
+- TOP 8.3: Trinkwasserspender an Schulen - überwiesen
+- TOP 8.4: Stärkere Unterstützung für Impfkampagne - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Subventionierung des Schulessens - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Freistellung von den Kosten für Schulmittagessen - ohne Änderungen in der BVV beschlossen
+- TOP 8.7: Kostenloses Schulessen anbieten - ohne Änderungen in der BVV beschlossen
+- TOP 8.8: Kostengünstige und verlässliche Essensversorgung an Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Stärkung des Kinderschutzes I: Verpflichtende Vorsorgeuntersuchungen - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Stärkung des Kinderschutzes II: Mehr Kinderärzte und Sozialarbeiter - ohne Änderungen in der BVV beschlossen
+- TOP 8.11: Ferienangebote auf der Homepage des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 8.12: Antisemitischer und rassistischer Stimmung auf dem Fußballplatz entgegnen - vertagt
+- TOP 8.13: Antisemitischer und ausländerfeindlicher Stimmung auf dem Fußballplatz entgegnen - vertagt
+- TOP 8.14: Ehemaliges Gelände des Gaswerks Tegel - vertagt
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Rundweg am Poloplatz I - überwiesen
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Konsequenzen aus Verschmelzung der Justizvollzugsanstalten Heiligensee und Hakenfelde - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Parken im Kasinoweg - überwiesen
+- TOP 10.3: Treffpunkt für Randgruppen - überwiesen
+- TOP 10.4: Mehr Sicherheit auf dem Schulweg zur Hausotter-Grundschule - überwiesen
+- TOP 10.5: Rundweg am Poloplatz II - überwiesen
+- TOP 10.6: Wettbewerb "Fit for Job" an allen Reinickendorfer Schulen bekannt machen - überwiesen
+- TOP 10.7: Radweg Ruppiner Chaussee - überwiesen
+- TOP 10.8: Integration in Sportvereinen - überwiesen
+- TOP 10.9: 100 Jahre Frohnau! - überwiesen
+- TOP 10.10: Öffentliche Spielfläche im Bereich Tegeler Hafen/Humboldt-Bibliothek - überwiesen
+- TOP 10.11: Programm Bildung im Quartier - überwiesen
+- TOP 10.12: Kulturgutscheine für Reinickendorf - überwiesen
+- TOP 10.13: Bessere Terminierung von Gedenkveranstaltungen - überwiesen
+- TOP 10.14: Bessere Werbung für die Graphothek - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Umweltfreundliche Kraftfahrzeuge - überwiesen
+- TOP 10.16: Absolutes Halteverbot in der Thaterstraße - vertagt
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Zwangsverheiratung von Schülerinnen an den Oberschulen - überwiesen
+- TOP 12: Bezirkliche Beratungs-Gremien - Aufwandsersatz - - überwiesen
+- TOP 13: Für den Erhalt der Jugendarbeit im Herzen Tegels - beantwortet
+- TOP 14: Übertragung einer Jugendfreizeitstätte an einen Freien Träger - ohne Änderungen in der BVV beschlossen
+- TOP 15: Immer Wirtschaft mit der Gesundheitswirtschaft - überwiesen
+- TOP 16: Ist Bürgerfreundlichkeit für das Bezirksamt Reinickendorf ein Fremdwort? - beantwortet
+- TOP 16.1: Zentrale Beschwerdestelle einrichten - in der BVV abgelehnt
+- TOP 17: Lebensretter Feuerwehr - an schnellen Einsätzen in Reinickendorf gehindert? - beantwortet
+- TOP 18: Pflegemissstände in Reinickendorf - beantwortet
+- TOP 19: Schlampige Aktenführung im Bezirksamt - beantwortet
+- TOP 20: Einrichtung von Quartiersmanagement in den Gebieten Reinickendorf-Ost und Reinickendorf-West - vertagt
+- TOP 21: Nachbarschaftshilfe Frohnau - vertagt
+- TOP 22: Zur Verfügungsstellung der Berichte des Rechnungshofs und der SE Finanzen - vertagt
+- TOP 23: Förderung der Graphothek - vertagt
+- TOP 24: Den bezirklichen Haushaltsgewinn richtig nutzen - Präventionsprojekte fördern - vertagt
+- TOP 25: Arbeitsgrundlagen für die BVV: hier Spendenbericht - in der BVV zurückgezogen
+- TOP 26: Drucksache 0427/XVIII und Drucksache 0370/XVIII aufheben - vertagt
+- TOP 27: Radfahrangebotsstreifen Oranienburger Straße - vertagt
+- TOP 28: Bericht über die Berliner Schulinspektionen - vertagt
+- TOP 29: Fachärztemangel in Altenheimen - überwiesen
