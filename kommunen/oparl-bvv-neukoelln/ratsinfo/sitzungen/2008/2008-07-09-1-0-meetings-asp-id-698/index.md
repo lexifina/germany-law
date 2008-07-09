@@ -1,0 +1,94 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2008-07-09T17:20:00+02:00
+- Ende: 2008-07-09T22:15:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=698
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=698
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 4.1: Radio Multikulti muss der Region erhalten bleiben! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Wahl - erledigt
+- TOP 5.1: Wahl von ehrenamtlichen Sozialpfleger(n)innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 6.1: Berufung eines stellv. beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Bebauungsplan XIV-117a vom 13.02.2008 - Lipschitzallee - - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Bebauungsplan XIV-185cba vom 13.02.2008 ("Sanierungsgebiet Wederstraße - Erweiterung der Zürich-Grundschule") - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 7.1: Vorzeitige Beendigung des Mandats als Bürgerdeputierter im Ausschuss für Verwaltung und Gleichstellung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Berichte der Patientenfürsprecher - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - erledigt
+- TOP 8.1: Hochzeiten am 08.08.08 - beantwortet
+- TOP 8.2: Autofreie Zone Alt-Rixdorf? - beantwortet
+- TOP 8.3: Personelle Verstärkung der Ordnungsämter - beantwortet
+- TOP 8.4: Berlin stärkt seine Zentren - beantwortet
+- TOP 8.5: LEFFERS-Sportstiftung - in der BVV zurückgezogen
+- TOP 8.6: Erfolglose Ausschreibung beim Ordnungsamt - beantwortet
+- TOP 8.7: Handeln am Tempelhofer Weg? - beantwortet
+- TOP 8.8: Koordinierung der Nord-Neuköllner Verkehrsprojekte - beantwortet
+- TOP 8.9: Einfluss des Arbeitskampfes öffentlich Bediensteter auf die bezirklichen Leistungen - beantwortet
+- TOP 8.10: 2. Hindutempel - beantwortet
+- TOP 9: Beschlussempfehlungen - erledigt
+- TOP 9.1: Weitere Finanzierung erfolgreicher Programme für junge Menschen durch das Job-Center - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Kleingartenkolonien planungsrechtlich sichern - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Von der Straße ins Lehrinternat - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Informationen an die Quartiersmanagements - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Hilfe für das Frauenviertel in der Gartenstadt - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Berliner Bezirke erhalten! - 200 Jahre kommunale Selbstverwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Radwegemarkierung in der Hermannstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Gentechnikfreie Kantinen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Inhabergeführte Einraumeckkneipen vom Rauchverbot ausnehmen - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Anpassung des Nichtraucherschutzes in der Gastronomie - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Zügige Weiterentwicklung des "Konzepts Mütterkurse" - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Verzicht auf W-LAN in Kinder- und Jugendeinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Veranstaltungen in Kitas des Eigenbetriebes Süd-Ost - beantwortet
+- TOP 10.2: Einbürgerungen in Neukölln - beantwortet
+- TOP 10.3: Familien sollen Politik gestalten - beantwortet
+- TOP 10.4: Sanierungsstau an Neuköllner Schulen - beantwortet
+- TOP 10.5: Pflegekinder in Neukölln - beantwortet
+- TOP 11: Große Anfragen - schriftlich - erledigt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Netzwerk "Ehrenamt Neukölln" - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Klimaschutz auf den Stundenplan - überwiesen
+- TOP 12.3: Hinweisschild "Autobahn Hamburg" - überwiesen
+- TOP 12.4: Mehr Sicherheit im Klein-Ziethener Weg - überwiesen
+- TOP 12.5: Mitmachzirkus auch für Jugendeinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Einsatz von "Parkkrallen" - überwiesen
+- TOP 12.7: Konzept für den Schillerkiez - überwiesen
+- TOP 12.8: Geschwindigkeitsbeschränkung am U-Bahnhof Zwickauer Damm - überwiesen
+- TOP 12.9: Veränderung Fahrradroute RR 10 im Bereich Kreuzung Johannisthaler Chaussee - in der BVV abgelehnt
+- TOP 12.10: Abholung von Schulzeugnissen - überwiesen
+- TOP 12.11: Anordnung Tempo 30 km/h in der Johannisthaler Chaussee vor der Grundschule am Regenweiher - überwiesen
+- TOP 12.12: Friedrichsbrunner Straße - überwiesen
+- TOP 12.13: Mitgliedschaft im Weltbürgermeisterrat zum Klimawandel - überwiesen
+- TOP 12.14: Energetische Betrachtungen der bezirklichen Liegenschaften - überwiesen
+- TOP 12.15: Mehr Verkehrssicherheit in Alt-Buckow - überwiesen
+- TOP 12.16: Lärmschutzzone für Alt-Buckow - überwiesen
+- TOP 12.17: Anordnung Tempo 30 km/h in der Johannisthaler Chaussee im Bereich BAB-Aus- und Einfahrt und Rudower Straße - überwiesen
+- TOP 12.18: Einrichtung eines Sonderausschusses "Kieze stärken" - in der BVV abgelehnt
+- TOP 12.19: Kommunales Wahlrecht für Nicht-EU-Bürgerinnen und -Bürger! - in der BVV abgelehnt
+- TOP 12.20: Werbung für gesundheitsschädliche Genussmittel verbieten - überwiesen
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: "Fliegende Händler" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Spielstraße am Schierker Platz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.2: Aufstellung von Fahrradabstellanlagen im Körnerkiez - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Kepler-Oberschule ins QM einbeziehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Bürgersteigabsenkung vor dem Haupteingang "Casa Reha" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Gefährliche Einmündung Hobrechtstraße/Sonnenallee entschärfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Ruhegemeinschaften auf städtischen Friedhöfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Autofreier Sonntag am 1. Juni 2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Anlieferungen für die Deponie Großziethen über die Schiene - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Pläne zur A 100 Verlängerung auch in Neukölln auslegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: NIC-Kontakt für Internetnutzer erleichtern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Flagge zeigen für Tibet - mit Abschlussbericht zur Kenntnis genommen
