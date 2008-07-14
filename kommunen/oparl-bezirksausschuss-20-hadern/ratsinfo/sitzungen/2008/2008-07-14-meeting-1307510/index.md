@@ -1,0 +1,104 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2008-07-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1307510
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1307510
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Parksituation Schachblumenweg 14 - 26
+- TOP 1.2.: blockierte Radlständer am U-Bahnhof Haderner Stern
+- TOP 1.3.: Skateboard-Anlage an Grünfläche Holzapfelkreuther Str.
+- TOP 1.4.: Keine Parkplätze in Großhadern-Dorfkern
+- TOP 1.5.: Lagerung Aushub an der Blumenauer Str.
+- TOP 1.6.: Gründung einer Kinderkrippe
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte
+- TOP 3.1.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.2.: UA Budget
+- TOP 3.3.: UA Wohnen, Bau und Umwelt
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Projektplanung: Grünzug Sauerbruchstr. / Am Fürstenrieder Wald (Baureferat, 19.06.08)
+- TOP 5.2.: Antrag der Geschäftsleute am Haderner Stern und der Mieterinitiative Haderner Stern e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.020,- ? (Direktorium, 26.06.08)
+- TOP 5.3.: Antrag des Familienzentrums Hadern-Blumenau e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 776,69 ? (Direktorium, 26.06.08)
+- TOP 6.: Anhörungsfälle
+- TOP 6.1.: Änderung von § 21 der Bezirksausschuss-Satzung; Antrag der Stadtratsfraktion der FDP (Direktorium, 13.06.08)
+- TOP 6.2.: Leitlinie Gesundheit, Öffentlichkeitsphase (Referat für Gesundheit und Umwelt, 16.05.08)
+- TOP 6.3.: Nachqualifizierung und Revision der Denkmalliste; hier Baudenkmäler (Referat für Stadtplanung und Bauordnung, 25.06.08)
+- TOP 6.4.: Waldgartenstr. 82, Errichtung eines zweigruppigen Waldorfkindergartens - VORBESCHEID (Referat für Stadtplanung und Bauordnung, 26.06.08)
+- TOP 6.5.: PERSPEKTIVE MÜNCHEN - Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung, Grundsatzbeschluss (Referat für Stadtplanung und Bauordnung, 27.06.08)
+- TOP 6.6.: Vollzug des Sprengstoffgesetzes; Feuerwerk in der Ludwig-Hunger-Str. 11 am 12. bzw. 19.07.08 (Kreisverwaltungsreferat, 02.07.08)
+- TOP 7.: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Chrysanthemenstr. 8 a, 2 Rotfichten
+- TOP 7.2.: Wastl-Witt-Str. 14, 3 Birken
+- TOP 7.3.: Senftenauerstr. 93, 1 Fichte
+- TOP 7.4.: Burg-Eltz-Weg 1 - 9, 2 Lärchen
+- TOP 7.5.: Marchioninistr. 15, 1 Ahorn und 2 Pappeln
+- TOP 7.6.: Waldgartenstr. 82, gem. Baumbestandplan Nr. 11494
+- TOP 7.7.: Eichenstr. 30, 4 Fichten
+- TOP 7.8.: Eichenstr. 33, 1 Silberahorn
+- TOP 7.9.: Ehrenpreisstr. 7, 1 Tanne, 2 Sand-Birken
+- TOP 7.10.: Heckenrosenstr. 15, 1 Zypresse
+- TOP 7.11.: Würmtalstr. 139, 2 Eichen, 2 Tannen, 2 Birken und 1 Kiefer
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: 42 Bäume auf dem Waldfriedhof (Baureferat, 23.06.08)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum, Barbierstr. 1 a (Sozialreferat, 18.06.08)
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München (Liste der SWM vom 02.06.08)
+- TOP 8.3.: Information über das Betriebskonzept der U3 / U6 während der Arbeiten im Stellwerk Implerstr. (MVG, 30.05.08)
+- TOP 8.4.: Baumaßnahmen der SWM, Wasserprojekt Pelargonienweg (SWM, 18.06.08)
+- TOP 8.5.: Informationen zum Münchner Familienpass (Sozialreferat, 24.06.08)
+- TOP 8.6.: Sanierung und Erweiterung des Schulgebäudes am Canisiusplatz 2, Informationsbrief zum geplanten Bauvorhaben (Schul- und Kultusreferat, 01.07.08)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Stelle für Schulsozialarbeit an der Grundschule an der Blumenauer Straße
+- TOP 9.2.: Streetwork-Anlaufstelle Blumenau (Sozialreferat, 23.06.08)
+- TOP 9.3.: Entwurmungsaktion für Füchse in Hadern (Referat für Gesundheit und Umwelt, 23.06.08)
+- TOP 9.4.: Überdachter Unterstand für Jugendliche in der Blumenau
+- TOP 9.5.: Kiosk am Gondrellplatz (SWM, 25.06.08)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Oktoberfest 2008; Reservierung der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 11.2.: Altstadtringfest 19. / 20. Juli 2008 (Referat für Arbeit und Wirtschaft, 26.06.08)
+- TOP 11.3.: Einladung zum Planungsdialog "Kinder- und familienfreundliches Wohnen" (Bürgermeisterin Strobl, 24.06.08)
+- TOP 11.4.: 2. Haderner Kulturtag als Straßenfest, Kontrolle des Kreisverwaltungsreferates (Kreisverwaltungsreferat, 24.06.08)
+- TOP 11.5.: Einladung zur Vollversammlung von REGSAM Hadern
+- TOP 11.6.: Infoveranstaltung zu KomPro/B und C (Sozialreferat, 30.06.08)
+- TOP 11.7.: Einladung zum Brückenfest und zum Isar-Brücken-Benefiz-Volkslauf (Einladung des BA 13, 30.06.08)
+- TOP 11.8.: Informationsveranstaltung für die neugewählten Baumschutzbeauftragten der Bezirksausschüsse (Referat für Stadtplanung und Bauordnung, 02.07.08)
+- TOP 11.9.: Gedenkveranstaltung zum 09. November - Protokoll der Vorbesprechung
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: vom 11.06.2008: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 12.2.: vom 07.05.2008: Keine Bahnprivatisierung gegen die Interessen der Kommunen
+- TOP 12.1.: vom 02.07.2008: Olympia - München 2018, ökologisch - nachhaltig - fair
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Verwaltungs- und Personalausschusses vom 04.06.2008: Ablauf von Bürgerversammlungen; Zulassung unterstützender Multimedia-Darstellungen zu Anträgen
+- TOP 12.2.: 1., 2. und 3. Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.06.2008: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007", Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug (qualifizierte Vertagung vom 28.05.2008)
+- TOP 12.1.: Beschluss des Sozialausschusses vom 03.07.2008: Ausschreibung von Trägerschaften, Qualifizierung der Maßnahmen zum Erhalt von Mietverhältnissen, Trägerschaft Sozialregionsverbund Nord / Süd / West mit 5 Sozialregionen, Trägerschaft Sozialregionsverbund Ost / Mitte mit 5 Sozialregionen, Verträge für die Haushaltsjahre 2009 bis 2011
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 27.05.2008: Entwurf des Mehrjahresinvestitionsprogramms (MIP) 2008 - 2012, Einzelplan 4 / Jugendamtsbereich, insbesondere zum Jugendtreff "PfiffTEEN", Wolkerweg 15 (Das Projekt ist seit Februar 2008 genehmigt.) und zum "Neubau" an der Marchioninistr. (Der Planungsauftrag an das Baureferat ist erfolgt.) mit Stellungnahme zum BA-Schreiben vom 10.10.2007 (Die Realisierung einer 3-gruppigen Kinderkrippe mit 36 Krippenplätzen wird geprüft.)
+- TOP 12.2.: Beschluss des Kulturreferates vom 05.06.2008: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2008 - 2012 und Stellungnahme zu den Anregungen der Bezirksausschüsse, insbesondere zur Gestaltung des Max-Lebsche-Platzes (Seite 17, zum BA-Schreiben vom 10.10.2007)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.2008: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2008 - 2012, insbesondere am Stiftsbogen / Schröfelhofstr. (Anlage 1, Seite 7)
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.05.2008: Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012
+- TOP 12.5.: Beschluss des Bauausschusses vom 03.06.2008: Mehrjahresinvestitionsprogramm für die Jahre 2008 - 2012 mit verbindlicher Planung für 2013; Entwurf für das Baureferat, insbesondere Stellungnahme des Baureferats zum Antrag der SPD-Fraktion vom 08.10.2007, Punkt 3 und 5 (Anlagen 18 und 19)
+- TOP 12.6.: Beschluss des Kommunalausschusses vom 05.06.2008: Mehrjahresinvestitionsprogramm 2008 bis 2012; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf, insbesondere Stellungnahme zum BA-Schreiben vom 10.10.2007 (Seite 7)
+- TOP 12.7.: Beschlüsse des Kinder- und Jugendhilfeausschussses vom 27.05.2008 und des Schul- und Sportausschusses vom 28.05.2008: Mehrjahesinvestitionsprogramm (MIP) 2008 - 2012 1. Investitionsmaßnahmen für Schulen und Kindertageseinrichtungen 2. verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse, insbesondere zum BA-Schreiben vom 10.10.2007 (Seite 18 - 20)
+- TOP 12.8.: Beschluss des Schul- und Sportausschusses vom 28.05.2008: Mehrjahresinvestitionsprogramm (MIP) 2008 - 2012 1. Investitionsmaßnahmen für Sportanlagen 2. Stellungnahmen der Bezirksausschüsse, insbesondere zum BA-Beschluss vom 08.10.2007 (Seite 4 - 5)
+- TOP 12.9.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.2008: PERSPEKTIVE MÜNCHEN - Leitlinie, Konzepte, Programme Handlungskonzept: Herausforderungen des soziodemografischen Wandels für die Stadtentwicklung
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.2008: Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.2008: Olympia - München 2018, ökologisch - nachhaltig - fair
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
