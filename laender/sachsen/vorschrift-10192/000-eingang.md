@@ -1,0 +1,3 @@
+# Verordnung des Regierungspräsidiums Dresden zur Festsetzung des Naturschutzgebietes „Jahna-Auenwälder“
+Vom 30. Mai 2008
+Auf Grund von §§ 16, 22a und § 50 Abs. 1 Satz 1 Nr. 2 des Sächsischen Gesetzes über Naturschutz und Landschaftspflege (Sächsisches Naturschutzgesetz – SächsNatSchG) in der Fassung der Bekanntmachung vom 3. Juli 2007 (SächsGVBl. S. 321), das durch Artikel 64 des Gesetzes vom 29. Januar 2008 (SächsGVBl. S. 138, 181) geändert worden ist, und § 32 Abs. 1 des Sächsischen Landesjagdgesetzes (SächsLJagdG) vom 8. Mai 1991 (SächsGVBl. S. 67), das zuletzt durch Artikel 71 des Gesetzes vom 29. Januar 2008 (SächsGVBl. S. 138, 181) geändert worden ist, wird im Einvernehmen mit der Jagdbehörde verordnet:
