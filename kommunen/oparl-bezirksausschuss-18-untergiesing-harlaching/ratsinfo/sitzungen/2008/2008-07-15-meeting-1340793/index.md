@@ -1,0 +1,109 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2008-07-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1340793
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1340793
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Neues Trainingsgelände für den TSV Weißblau-Sechzgerstadion; Schreiben des FC Sportfreunde München e. V. vom 15.06.2008 - <div>nach Antrag</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Ferienspielaktion vom 26.08. - 06.09.08; Antragssumme: 3.950,-- ?; Beschlussvorlage des Direktoriums vom 20.05.2008 (vertagt aus der Sitzung vom 17.06.2008)
+- TOP 3.2.: AntragstellerIn: Kreisjugendring München-Stadt, für die Maßnahme: Ausstellung "Brückenimpressionen" an der Isar vom 24.07. bis 03.08.2008; Antragssumme: 550.- ?; Beschlussvorlage des Direktoriums vom 17.06.2008
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Budgetantrag des Carpe Diem e.V. vom 01.01.2008, beschlossen in der Sitzung am 18.03.2008; für die Maßnahme: Wasseranschluss für die Küchenzeile im Betreuungsgruppenraum für Demenzkranke; Erhöung des Zuschusses von 1.794,-- ? auf 2.436.- ?; Schreiben des Direktoriums vom 18.06.2008 mit der Bitte um Stellungnahme - <div>vertagt</div>
+- TOP 3.1.: TSV Turnerbund; Verwendungsnachweis über den gewährten Zuschuss für die 50-Jahr-Feier (Pokale und Bälle); Schreiben des Direktoriums vom 19.06.2008
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Säbener Straße zwischen Wettersteinplatz und Schellenbergstraße, Parken entlang der ?Baumnasen? in ?zweiter Reihe?; Bürgerschreiben vom 15.05.2008 (vertagt aus der Sitzung am 20.05.2008)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Agilolfingerplatz bzw. Agilolfingerstraße; Sanieren des Belags in der Agilolfingerstraße; Neugestaltung des Agilolfingerplatzes und Zusammenfassung der Parkplätze; Antrag der SPD-Fraktion vom 17.06.2008 (vertagt aus der Sitzung vom 17.06.2008)
+- TOP 3.3.: Entfernung der festinstallierten Radargeräte am McGraw-Graben; Antrag der CSU-Fraktion vom 18.06.2008
+- TOP 3.1.: Eingeschränktes Haltverbot Klara-Heese-Straße; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 08.04.08 mit der Bitte um Stellungnahme (vertagt aus den Sitzungen vom 15.04.08, 20.05.08 und 17.06.08)
+- TOP 3.2.: Krumpterstraße - Schrägparkplätze und Kurzparkzone vor dem Getränkemarkt; Antrag Nr. 02-08 / B 02751 des BA 18 vom 15.01.2008; Schreiben des Kreisverwaltungsreferats vom 06.06.2008 mit der Bitte um Stellungnahme
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Verunreinigung durch Fäkalien im Bereich des Straßenbahnwendepunkt / Haltestelle Großhesseloher Brücke; Bürgerantrag vom 12.06.2008 (verwiesen aus der Sitzung vom 17.06.2008)
+- TOP 3.1.: Müll gehört in den Mülleimer - München endlich sauber machen; Antrag Nr. 08-14 / A 00008 der BIA vom 02.05.2008; Sitzungsvorlage Nr. 08-14 / V 00419; Beschluss des Bauausschusses vom 08.07.2008 (SB)
+- TOP 3.2.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München; Sitzungsvorlage Nr. 02-08 / V 11878; Beschluss der Vollversammlung des Stadtrats vom 11.06.2008
+- TOP 3.3.: Olympia - München 2018; ökologisch, nachhaltig und fair; Antrag Nr. 02-08 / A 03892 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 14.08.2007; Sitzungsvorlage Nr. 02-08 / V 00376; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.2008
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Erhalt des Stadions an der Grünwalder Straße; Antrag der FDP-Fraktion vom 27.06.2008
+- TOP 3.1.: 4-F-circle-Bewegungsinseln; Befürwortung seitens des Bezirksausschusses; Eignung der Standortvorschläge; Antwortschreiben des Baureferats vom 16.04.2008 (vertagt aus den Sitzungen vom 20.05.2008 und 17.06.2008) - <div>vertagt</div>
+- TOP 3.1.: Mehrjahresinvestitionsprogramm (MIP) 2008 bis 2012; 1. Investitionsmaßnahmen für Schulen und Kindertageseinrichtungen, 2. verfahrenstechnische Neuerungen, 2. Stellungnahmen der Bezirksausschüsse; Sitzungsvorlage Nr. 08- 14 / V 00071; Beschluss des Schul- und Sportausschusses des Stadtrats vom 28.05.2008 (VB) (negative Erledigung)
+- TOP 3.2.: Existenzsicherung des FC Alemannia München 1912 e.V. durch einen Vereinsstandort an der Rotbuchenstraße; Umnutzung des Stützpunktes des Baureferates-Gartenbau zu einem dauerhaften Standort, hilfsweise Einrichtung eines Standortes in Containerbauweise in der Grünanlage; Antrag Nr. 02-08 / B 02726 des BA 18 vom 16.10.2007; Beschluss des Sportausschusses des Stadtrats vom 18.06.2008 (neutrale Erledigung)
+- TOP 3.3.: Umgestaltung des Platzes unter dem Mittleren Ring / Lohstraße; Nutzung als Freifläche für den Jugendtreff AKKU; Antrag-Nr. 02-08 / B 02727 des BA 18 vom 16.10.25007; Antwortschreiben des Baureferats vom 05.05.2008 (vertagt aus der Sitzung vom 17.06.2008)
+- TOP 3.1.: Ausschreibung von Trägerschaften; Qualifizierung der Maßnahmen zum Erhalt von Mietverhältnissen; Trägerschaft Sozialregionsverbund Nord/Süd/West mit 5 Sozialregionen; Trägerschaft Sozialregionsverbund Ost/Mitte mit 5 Sozialregionen; Verträge für die Haushaltsjahre 2009 bis 2011; Sitzungsvorlage Nr. 02-08 / V 00384; Beschluss des Sozialausschusses vom 03.07.2008 (SB)
+- TOP 3.2.: Neubau eines 6-gruppigen Hortes mit Vorabmaßnahmen Abbruch Bestand und Interimscontainer für 5 Gruppen, Rotbuchenstr. 79b im 18. Stadtbezirk Untergiesing Harlaching Projektkosten (Kostenobergrenze) 4.438.000 ? (davon Ersteinrichtungskosten 225.000 ?) (davon Abbruch 171.000 ?) (davon Interimscontainer 637.000 ?) 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag 3. Projektgenehmigung 4. Ausführungsgenehmigung für Abbruch und Interimscontainer; Sitzungsvorlage Nr. 08-14 / V 0016; Beschluss des Schul- und Sportausschusses des Stadtrats vom 28.05.2008 (SB)
+- TOP 3.3.: Mehrjahresinvestitionsprogramm (MIP) 2008 bis 2012; 1. Investitionsmaßnahmen für Schulen und Kindertageseinrichtungen, 2. verfahrenstechnische Neuerungen, 3. Stellungnahmen der Bezirksausschüsse; Sitzungsvorlage Nr. 08- 14 / V 00071; Beschluss des Schul- und Sportausschusses des Stadtrats vom 28.05.2008 (VB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag auf Kleinstfreischankfläche in der Sommerstraße; Beschluss des BA 18 vom 15.07.2008 (vertagt aus der Sitzung vom 17.06.2008)
+- TOP 3.2.: Entscheidung über Sondernutzungserlaubnis (Warenstellage) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag auf eine Warenstellage in der Humboldtstraße; Beschluss des BA 18 vom 15.07.2008
+- TOP 3.3.: Entscheidung über Sondernutzungserlaubnis (Erweiterungsantrag für eine Warenstellage) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Warenstellage in der Humboldtstraße; Beschlussvorlage durch das Kreisverwaltungsreferat
+- TOP 3.4.: Entscheidung über Sondernutzungserlaubnis (ambulanter Straßenhandel) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; ambulanter Straßenhandel am Authariplatz, ggü. Authariplatz 15, links neben Litfaßsäule; Beschlussvorlage durch das Kreisverwaltungsreferat
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: 3.5.4.1 Anhörungen zu Bauvorhaben 3.5.4.1.1 Anwesen in der Naupliastraße; Anhörung vom 19.06.2008 3.5.4.1.2 Anwesen in der Methfesselstraße; Anhörung vom 01.07.2008 3.5.4.1.3 Anwesen in der Gabriel-Max-Straße; Anhörung vom 01.07.2008
+- TOP 3.2.: 3.5.4.2 Baumbestandspläne 3.5.4.2.1 Anwesen in der Leitzachstraße; Anhörung vom 25.06.2008 3.5.4.2.2 Anwesen Am Hollerbusch; Anhörung vom 30.06.2008
+- TOP 3.3.: PERSPEKTIVE MÜNCHEN; Fortschreibung des Zentrenkonzeptes, Schwerpunkt Nahversorgung, Grundsatzbeschluss; Anhörung der Bezirksausschüsse zu einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme bis zum 25.08.2008 und Einladung zur Informationsveranstaltung hierzu am 14.07.2008, von 18.00 Uhr bis 21.00 Uhr im Planungsreferat, Blumenstraße 19, Raum 614, VI. Stock
+- TOP 3.1.: Instandsetzung des Fußweges von der Lohstraße zur Lutherkirche; aktueller Sachstand; Schreiben des Baureferats vom 13.06.2008 (neutrale Erledigung)
+- TOP 3.2.: Hans-Mielich-Platz; Abstimmung im Ausschuss für Stadtplanung u. Bauordnung des Stadtrates; Antrag Nr. 02-08 / B 3002 des BA 18 vom 18.03.2008; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 16.06.2008 (neutrale Erledigung)
+- TOP 3.3.: Einkaufszentrum für den täglichen Bedarf im unmittelbaren fußnahen Bereich des Mangfallplatzes; Antrag Nr. 02-08 / B 02999 des BA 18 vom 19.02.2008; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 10.06.2008 (neutrale Erledigung)
+- TOP 3.4.: Änderung des Flächennutzungsplans; Umwidmung der allgemeinen Grünfläche (Gartenbaustützpunkt) am Hollerbusch in eine Sportfläche bzw. Grünfläche mit Sportnutzung; Existenzsicherung des FC Alemannia München; Antrag Nr. 02-08 / B 03006 des BA 18 vom 18.03.2008; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 09.06.2008 (neutrale Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 Kleingaststätte "Humboldt 20, Humboldtstraße; Mitteilung vom 06.06.2008 3.5.6.2.2 Kleingaststätte "Schönstüberl", Schönstraße; Mitteilung vom 18.06.2008
+- TOP 3.3.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"; Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug; Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13 a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB; Sitzungsvorlage Nr. 02-08 / V 11037; 2. Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.2008 (SB)
+- TOP 3.4.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.4.1 Anwesen in der Schlierachstraße; Unterrichtung vom 10.06.2008 3.5.6.4.2 Anwesen in der Prößlstraße; Unterrichtung vom 23.06.2008 3.5.6.4.3 Anwesen in der Meichelbeckstraße; Unterrichtung vom 18.06.2008
+- TOP 3.5.: Perspektive München - Leitlinien, Konzepte, Programme, Handlungskonzept: Herausforderungen des soziodemografischen Wandels für die Stadtentwicklung; Sitzungsvorlage Nr. 08-14 / V 00190; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.2008 (VB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Anhörung durch das Kreisverwaltungsreferat vom 01.07.08 zur beantragten Veranstaltung auf öffentlichem Verkehrsgrund:Stadtteilfest des SPD-Ortsvereins Harlaching am 09.08.08 am Mangfallplatz
+- TOP 3.1.: Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Sitzungsvorlage Nr. 08-14/V 00313; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.2008 (SB)
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Änderung von § 21 der Bezirksausschuss-Satzung; Antrag Nr. 08-14 / A 00001 der Stadtratsfraktion der FDP vom 02.05.2008; Az. D-HA II/V 1 1150/100-08/5; Schreiben des Direktoriums vom 13.06.08 mit der Bitte um Stellungnahme
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Ablauf von Bürgerversammlungen; Zulassung unterstützender Multimedia- Darstellung zu Anträgen (Ziffer 2 des Antrags); Empfehlung Nr. 02-08 / E 00921 der Bürgerversammlung des Stadtbezirks 25 Laim am 08.11.2007; Sitzungsvorlage Nr. 08-14 / V 00075; Beschluss des Verwaltungs- und Personalausschusses vom 04.06.2008
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Mehrjahresinvestitionsprogramm für die Jahre 2008 bis 2012 mit verbindlicher Planung für 2013; Entwurf für das Baureferat; Sitzungsvorlage Nr. 08-14 / V 00209; Beschluss des Bauausschusses vom 03.06.2008 (VB)
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.1.: Informationsveranstaltung / Seminartag des Planungsreferates, Untere Naturschutzbehörde, für die neugewählten Baumschutzbeauftragten der Bezirksausschüsse am 31.07.2008, von 08.30 Uhr - 16.30 Uhr, im Planungsreferat, Blumenstraße 19, Sitzungssaal 614
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 4.6: Anträge gemäß § 7 Abs. 4 BA-GeschO
