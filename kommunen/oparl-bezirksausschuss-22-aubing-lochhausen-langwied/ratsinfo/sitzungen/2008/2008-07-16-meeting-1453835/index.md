@@ -1,0 +1,143 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2008-07-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1453835
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1453835
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 2.: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 22
+- TOP 2.1.: Verlängerung des Fuß- und Radweges an der Westseite der Altostraße (UA Planung/Umwelt/Bau/Verkehr)
+- TOP 2.2.: Vorbescheidsantrag für einen zusätzlichen Baukörper in zweiter Reihe im Anwesen Schwojerstr. 24, Bürgerschreiben vom 11.06.08 (UA Planung/Umwelt/Bau/Verkehr)
+- TOP 2.3.: Parkverbot Goteboldstraße / Kreuzkapellenweg, Bürgerschreiben vom 01.07.08 (UA Planung/Umwelt/Bau/Verkehr)
+- TOP 2.4.: Baugenehmigung für FlurNr. 322/4, Bodenseestr. 230 rückwärtige Fläche, Nutzungsänderung der Fläche zu Parkplatz für Gebrauchtwagenhändler (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.5.: Containerstandplatz an der Georg-Böhmer-Straße (Ziffer 2 der Anfrage aus der Bürgerversammlung vom 03.07.08) (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.6.: Radfahrer auf dem Gehweg in der Fabrikstraße Richtung Altostraße und umgekehrt
+- TOP 2.7.: Baugenehmigung für Bodenseestr. 230, Nutzungsänderung der Fläche zu Parkplatz für Gebrauchtwagenhändler
+- TOP 2.8.: Gründung einer Kinderkrippe (UA Soziales, Bildung, Sport, Kultur)
+- TOP 2.9.: Rennstrecke Limesstraße (UA Planung/Umwelt/Bau/Verkehr)
+- TOP 3.: Anträge
+- TOP 3.1.: Neuanpflanzung eines Baumes (Platane) auf städtischem Grund, Feldmeierbogen in Höhe Hausnr. 15
+- TOP 3.2.: Erweiterung des Flughafens Oberpfaffenhofen
+- TOP 3.3.: Umsetzungsstand der Kneipp-Anlage Langwieder Bach
+- TOP 3.4.: Prüfung der Verkehrssituation in der Straßenunterführung Bergsonstraße am S-Bahnhaltepunkt Langwied
+- TOP 3.5.: Prüfung der Verkehrssituation an der Kreuzung An der Langwieder Haide und Mühlanger Straße
+- TOP 3.6.: Befestigung der Hoflacherstraße einschl. des Grünzuges am Wall der eingehausten A 99 (Tunnel am Tunnel Aubing)
+- TOP 3.7.: Beseitigung der Müllablagerung im Bereich Aubinger Lohe, Schwojerstraße
+- TOP 3.8.: Umgehende Beseitung der Herkulesstaude sowie der artverwandten aber gefährlicheren "Ambrosia" im Bereich des Bahndammes Eichenauer Straße Richtung Puchheim
+- TOP 3.9.: Prüfung der Verkehrssituation im Gleisdreieck an der Bodenseestraße
+- TOP 3.10.: Kinderspielplatz an der Mariabrunnerstraße
+- TOP 3.11.: Prüfung der Umwelt- und Lärmbelastungen im 22. Stadtbezirk durch ein unabhängiges Gutachten
+- TOP 3.12.: Anbringung der BA-Tagesordnung in den Schaukästen sowie Aktualisierung des Internetauftritts des BA 22 auf www.muenchen.de
+- TOP 3.13.: Sanierung der Müllerstadlstraße
+- TOP 3.14.: Einrichtung eines Nachtfahrverbotes in der Mainaustraße für Lkw's über 3,5 t von 22-6 Uhr
+- TOP 3.15.: Restriktive Handhabung von Feuerwerksgenehmigungen und mehr Berücksichtigung des Lärm- und Naturschutzes
+- TOP 3.16.: Vollzug der beschlossenen verkehrsrechtlichen Maßnahmen
+- TOP 3.17.: Ausgabe von Hundekot-Beuteln in der Aubinger Lohe; Fehlen der Abfallbehälter
+- TOP 3.18.: Errichtung eines absoluten Haltverbots in der Federseestraße ab der Henschelstraße bis in den Kurvenbereich
+- TOP 3.19.: Entfernung der Herkulesstaude auf dem städt. Gelände in Aubing, Kronwinklerstr. 41
+- TOP 4.: Entscheidungen
+- TOP 4.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Kultur am Westkreuz e.V. (UA Budget)
+- TOP 4.2.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Elternbeirat Tagesheim Limesschule (UA Budget)
+- TOP 4.3.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Jugendtreff Neuaubing (UA Budget) (vertagt aus 06/08)
+- TOP 4.4.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Lilalu e.V. (UA Budget)
+- TOP 4.5.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Münchner Kinder- und Jugendfarm e.V. (UA Budget)
+- TOP 4.7.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: ESV-Sportfreunde München-Neuaubing e.V.
+- TOP 5.: Berichte der Unterausschüsse
+- TOP 5.5.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 5.1.: Kinder- und Jugendhilfeausschuss vom 08.07.08 - Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Kinderkrippe Rassogasse 7 mit 24 Kinderkrippenplätzen, Umbau Vollversammlung vom 11.06.08 - Prävention gegen Alkoholmissbrauch und andere Suchtmittel bei Jugendlichen Sozialausschuss vom 03.07.08 - Ausschreibung von Trägerschaften, Qualifizierung der Maßnahmen zum Erhalt von Mietverhältnissen Sozialausschuss vom 29.05.08 - Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2008-2012, Einzelplan 4 /Sozialbereich
+- TOP 5.2.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Gemeindefest der Evang.-Luth. Adventskirchengemeinde in der Hohensteinstraße am 13.07.08
+- TOP 5.3.: (Wiederholungs-) Veranstaltung im Rahmen des Aubinger Herbstfestes, hier: Standkonzert und Festzug mit ca. 200 Teilnehmern, Pferdekutsche und ca. 10 Fahnenabordnungen am 11.09.08 am Kriegerdenkmal an der Altostraße
+- TOP 5.4.: Zustände am Parkplatz der Bezirkssportanlage Kronwinkler Straße, Schr. Schul- und Kultusreferat vom 16.06.08
+- TOP 5.5.: Nachqualifizierung und Revision der Denkmalliste, Anhörung des Planungsreferates vom 25.06.08
+- TOP 5.6.: Münchner Familienpass, Schr. Sozialreferat vom 24.06.08
+- TOP 5.7.: Zentrale Namenslesung der während der NS-Zeit ermordeten Münchner Juden anlässlich des 70. Jahrestages der sog. "Reichskristallnacht", Schr. AG "Gedenkveranstaltung zum 9. November" vom 26.05.08
+- TOP 5.8.: Veranstaltungen / Kooperationen Juli 2008, Schr. Kulturreferat vom 03.07.08
+- TOP 5.5.2: UA Budget
+- TOP 5.1.: Bewilligungsbescheid für Zuschuss aus dem Budget des BA 22, Antragsteller: Reiten bei Freunden e.V., Schr. Direktorium vom 16.06.08
+- TOP 5.2.: Zuwendung aus dem Budget des BA 22, Umbau eines Kleintierstalls, Antragsteller: Münchner Kinder- und Jugendfarm e.V., Schr. Direktorium vom 16.06.08
+- TOP 5.5.3: UA Freiham
+- TOP 5.1.: Mitteilung über ein Grundstücksgeschäft, hier: Verkauf Flst. 3509/22, Dietmar-Keese-Bogen GE 19, Schr. Kommunalreferat vom 16.06.08
+- TOP 5.2.: Mitteilung über ein Grundstücksgeschäft, hier: Verkauf Flst. 3511/30, Ludwig-Schmid-Str. GE 26, Schr. Kommunalreferat vom 13.06.08
+- TOP 5.3.: Mitteilung über ein Grundstücksgeschäft, hier: Tausch Flst. 882 Aubing ./. Tlfl. 845 und 3482 Aubing Freiham Nord / Moosschwaige, Schr. Kommunalreferat vom 18.06.08
+- TOP 5.4.: Mitteilung über ein Grundstücksgeschäft, hier: Verkauf Flst. 3511/3, Franz-Josef-Delonge-Straße, Schr. Kommunalreferat vom 30.06.08
+- TOP 5.5.: Siedlungsschwerpunkt Freiham, Freiham Süd (Aufstellungs- und Eckdatenbeschluss), Anhörung Planungsreferat vom 02.07.08)
+- TOP 5.6.: Ausschuss für Stadtplanung und Bauordnung vom 16.07.08 - Siedlungsschwerpunkt Freiham, Freiham Nord hier: Neugestaltung des Sportlerweges
+- TOP 5.7.: Überplanung im Rahmen der Bebauungsplanung Freiham-Nord von Teilen der Bodenseestraße und Ehrenbürgstraße in Neuaubing
+- TOP 5.8.: Klärung der Baurechtssituation Ehrenbürgstr. 9
+- TOP 5.9.: Freiham Nord; Überplanung des Grüngürtels
+- TOP 5.10.: Siedlungsschwerpunkt Freiham, Freiham Nord, Schr. BA 21 vom 02.07.08
+- TOP 5.11.: Mitteilung über ein Grundstücksgeschäft, Verkauf Flst. 3508/32 (Tlfl.) Aubing, Clarita-Bernhard-Straße, Schr. Kommunalreferat vom 04.07.08
+- TOP 5.5.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 5.1.: Baumaßnahmen der Stadtwerke München, Stichtag: 16.08.08, 20.06.08, 30.06.08, 07.07.08
+- TOP 5.2.: Kanalbau im Umgriff d. Bebauungsplanes Nr. 1907, Gleisdreieck Pasing, Schr. Münchner Stadtentwässerung vom 14.03.08
+- TOP 5.3.: Vollversammlung vom 11.06.08 - Sicherung der Biotop- und Landschaftspflege in der LH München Ausschuss für Stadtplanung und Bauordnung vom 18.06.08 - Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007", Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug (Hinweis/Ergänzung) - Perspektive München - Leitlinien, Konzepte, Programme, Handlungskonzept: Herausforderungen des sozialdemografischen Wandels für die Stadtentwicklung Ausschuss für Stadtplanung und Bauordnung vom 25.06.08 - Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1907 Bodenseestr. (südlich), Bahnlinie München-Herrsching (südlich), Bahnlinie München-MIttenwald (westlich), Paosostr. (nördlich) (Teiländerung des Beb.Pl. Nr. 1094) - Gleisdreieck Pasing - - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/21 Bodenseestr. (südlich), Bahnlinie München-Herrsching (südlich), Bahnlinie München-Mittenwald (westlich), Paosostr. (nördlich) - Gleisdreieck Pasing - Bauausschuss vom 08.07.08 - Müll gehört in den Mülleimer - München endlich sauberer machen Ausschuss für Stadtplanung und Bauordnung vom 16.07.08 - "Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern!" - Realisierungswettbewerbe "Innovativer Wohnungsbau Hasenbergl", Modellvorhaben e% - Energieeffizienter Wohnungsbau
+- TOP 5.4.: Verkehrsrechtliche Anordnung, hier: Z 101 an der Langwieder Haide, Schr. KVR vom 29.05.08
+- TOP 5.5.: Unterrichtung über das Fällen von Gefahrenbäumen, hier: Friedhof Obermenzing, 1 Fichte, Schr. Baureferat vom 04.06.08
+- TOP 5.6.: Weg von der Pretzfelder Straße zum S-Bahnhof Aubing, Schr. Baureferat vom 12.06.08
+- TOP 5.7.: Bauvorhaben Stockacher Straße, Neubau eines Lebensmittel-Discounters, eines Lebensmittel-Vollsortimenters, eines Fachmarktes für Betten und Teppiche oder Matratzen (Gebäude Süd); Neubau eines Fachmarktes für Fahrräder (Gebäude Nord), Vorbescheid
+- TOP 5.8.: Baumaßnahme Stromprojekt Bodenseestraße, Schr. SWM vom 12.06.08
+- TOP 5.9.: Teileinziehung der Widmung Waidachanger, Schr. Baureferat vom 12.06.08
+- TOP 5.10.: Öffnung der Ostermoosstraße zwischen Bergsonstraße und Industriestraße für den gegenläufigen Radverkehr, Anhörung KVR vom 16.06.08
+- TOP 5.11.: Baufälle im 22. Stadtbezirk (v. 09.-15.06.08, v. 16.-22.06.08, v. 23.06.-29.06.08, 30.06.-06.07.08), Schr. Planungsreferat vom 16.06.08, 24.06.08, 30.06.08, 07.07.08
+- TOP 5.12.: Neubau einer Lichtzeichenanlage in der Bodenseestraße / Gleisdreieck Pasing, Schr. KVR vom 18.06.08
+- TOP 5.13.: Sperrung Alte Allee und Bergsonstraße, östlich zwischen An der Langwieder Haide und Bertha-von-Suttner-Weg für den Lkw-Durchgangsverkehr, Schr. BA 21 vom 17.06.08
+- TOP 5.14.: Bauvorhaben Bodenseestr. 234, Errichtung eines Autohandels
+- TOP 5.15.: Genehmigung der Abfallentsorgungsanlage (Lagerung und Behandlung von Akten und Datenträgern) der Fa. REMONDIS DATA Office GmbH auf dem Anwesen Rupert-Bodner-Str. 25
+- TOP 5.16.: Zweckentfremdung von Wohnraum, Roggensteiner Weg 1, Schr. Sozialreferat vom 30.06.08
+- TOP 5.17.: Bauvorhaben Ubostr. 32-34, Neubau von 9 Reihenhäusern mit TG; Sanierung bzw. Nutzungsänderung einer Metzgerei
+- TOP 5.18.: Perspektive München, Fortschreibung des Zentrenkonzepts, Schwerpunkt Nahversorgung, Anhörung des Planungsreferates vom 27.06.08
+- TOP 5.19.: Wiesentfelser Straße, Einrichtung einer Haltverbotszone im Kurvenbereich (vertagt aus Sitzung 06/08)
+- TOP 5.20.: Bürgersteige für die Mariabrunner Str. 67 (vertagt aus 06/08)
+- TOP 5.21.: Verkehrliche Beurteilung der LZA Lochhausener Str. / Rohrsängerplatz (vertagt aus 06/08)
+- TOP 5.22.: Ausbau der Bahnunterführungen in der Bodenseestr. auf eine Durchfahrtshöhe von 4,5 m, Schr. Planungsreferat vom 10.06.08 (vertagt aus 06/08)
+- TOP 5.23.: Bauvorhaben Bodenseestr. 212, Nutzungsänderung der Fläche als Parkplatz für Gebrauchtwagenhändler
+- TOP 5.24.: Taktverdichtung S-Bahn, Treffen mit Bürgermeister Kränzlein (Gem. Puchheim)
+- TOP 5.25.: Bericht zum Ortstermin "Rad- und Fußweg entlang der Eichenauer Straße" (BA-Antrag Nr. 2600 vom 21.11.07)
+- TOP 5.26.: Baumaßnahmen der SWM, Stromprojekt Rupert-Bodner-Straße, Schr. SWM vom 03.07.08
+- TOP 5.27.: Verkehrsentlastung Alte Allee/Bersonstraße, hier: Entfernung der Hinweisbeschilderung, Anhörung des KVR vom 08.07.08
+- TOP 5.28.: Ausbau der Kronwinkler Straße zwischen Kastelburgstraße und Bergsonstraße, Schr. Baureferat vom 08.07.08
+- TOP 5.29.: Bauvorhaben Colmdorfstr., Neubau einer Wohnanlage (73 WE / Haus 11-17) mit TG (90 Stpl.) und e.Kindertagesstätte (Colmdorf-/Pretzfelder Str.)
+- TOP 6.: Berichte der Beauftragten und Beiräte
+- TOP 6.6.1: Baumschutzbeauftragte
+- TOP 6.1.: Baumfällungsanträge - Ubostr. 32-34, gem. Baumbestandspl. Nr. 2008-14329 - Industriestr. 34, gem. Baumbestandspl. Nr. 2008-13386 - Bergsonstr., gem. Baumbestandspl. Nr. 2008-16565 - Colmdorfstr., Baumbestandspl. Nr. 2008-13450 - Wertheimer Str. 1 a, 1 Schwarzkiefer - Sipplinger Str. 8-20, 3 Ahorn - Osterangerstr. 52, 2 Tannen, 2 Akazien, 1 BIrke - Hellensteinstr. 50, Baumbestandspl. Nr. 2008-16641
+- TOP 6.6.2.: Regsam-Beauftragte
+- TOP 6.6.3: Kinderbeauftragte
+- TOP 6.6.4: Jugendbeauftragte
+- TOP 6.6.5: Seniorenbeirat
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Änderung von § 21 der BA-Satzung
+- TOP 7.2.: Antrag auf Genehmigung eines Feuerwerkes am 09.07.08 auf dem Grundstück Gasthof "Zur Eiche", Ranertstr. 1
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung der Schank- und Speisewirtschaft "La Torre" (bisher: Villa Conte), Bodenseestr. 222, Schr. KVR vom 18.06.08
+- TOP 8.2.: Wirtschafts-Info 06/2008, Schr. Ref. f. Arbeit u. Wirtschaft vom 30.06.08
+- TOP 8.3.: Werbetafeln im öffentlichen Raum; "Kundenstopper", Schr. KVR vom 30.06.08
+- TOP 8.4.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Budapest Hungaria" (bisher: Globus), Henschelstr. 3, Schr. KVR vom 09.07.08
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Vollversammlung vom 11.06.08 - Zweckvereinbarung zwischen der Münchner Stadtentwässerung und dem Amperverband zur abwassertechnischen Erschließung von zwei Anwesen an der Straße "Am Zillerhof"
+- TOP 10.2.: Ausschuss für Stadtplanung und Bauordnung vom 18.06.08 - Neubestellung des Heimatpflegers der LH München und seines Stellvertreters - Olympia - München 2018, ökologisch - nachhaltig - fair
+- TOP 10.3.: Vollversammlung vom 02.07.08 - Olympia - München 2018, ökologisch - nachhaltig - fair
+- TOP 10.4.: Ausschuss für Stadtplanung und Bauordnung vom 16.07.08 - Europaarbeit des Referats für Stadtplanung und Bauordnung und aktuelle Entwicklungen der "städtischen Dimension" auf europäischer Ebene
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Oktoberfest 2008; Reservierung in der Ratsboxe für die Münchner BA's, Schr. Direktorium vom 16.06.08
+- TOP 11.2.: Infoveranstaltung zum KomPro/B und C des Amtes für Wohnen und Migration am 13.11.08, Schr. Sozialreferat vom 30.06.08
+- TOP 11.3.: Infoveranstaltung für die neugewählten Baumschutzbeauftragten der BA's am 31.07.08 im Planungsreferat, Blumenstr. 19, Sitzungssaal 614, Schr. Planungsreferat vom 02.07.08
+- TOP 11.4.: Regionalgespräch zwischen Lokalbaukommission und den BA's, Regionalgespräch West am 30.07.08 um 17.00 Uhr im Raum 614, Blumenstr. 19
+- TOP 12.: Nächste BA-Sitzung
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 17.09.08 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 9.1.: Umbenennung des 22. Stadtbezirkes, Schr. Direktorium vom 10.06.08 (vertagt aus 06/08)
+- TOP 9.2.: Umbenennung des 22. Stadtbezirkes, Schr. Direktorium vom 10.06.08 (vertagt aus 06/08)
