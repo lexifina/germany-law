@@ -1,0 +1,90 @@
+# 21. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2008-07-17T16:30:00+02:00
+- Ende: 2008-07-17T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1925
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1925
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - (offen)
+- TOP 2: Dringlichkeiten und Tagesordnung - (offen)
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers VI-20 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl einer Vertrauensperson als Beisitzerin/Beisitzer im Schöffenwahlausschuss - vertagt
+- TOP 8.2: Vorschlagsliste für die Wahl der ehrenamtlichen Schöffinnen und Schöffen für die Amtsperiode 2009-2013 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Vorschlagsliste für die Wahl von ehrenamtlichen Richterinnen und Richtern für das Verwaltungsgericht von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Bebauungsplan XV-70 a "Bohnsdorf West" im Bezirk Treptow-Köpenick von Berlin, Ortsteile Bohnsdorf und Altglienicke - Zustimmungsverfahren nach § 125 Abs. 2 BauGB für die Herstellung von Erschließungsanlagen im Geltungsbereich des B-Plans XV-70 a / 1.Erschließungsabschnitt (1. EA) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Zustimmung zur Ausbauvariante für den Ausbau des Glienicker Weges zwischen Adlergestell und Ortsteilgrenze Adlershof/Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für den Umweltkreis in der evangelischen Kirchengemeinde Berlin-Müggelheim (SM 837) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Kulturring in Berlin e. V. (SM 847) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für die Jugendfeuerwehr Oberschöneweide (SM 848) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Verband Christlicher Pfadfinderinnen und Pfadfinder (SM 852) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für windworkers e. V. (SM 853) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für den Tourismusverein Berlin Treptow-Köpenick e. V. (SM 855) - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 11.9: Sondermittel für Treptower Teufel TC e. V. (SM 856) - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sondermittel für Breitenkunst e. V. (SM 857) - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Sondermittel für den Bürgerverein Baumschulenweg e. V. (SM 859) - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Sondermittel für ajb gmbh, Betreutes Wohnen in Treptow (SM 849) - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Sondermittel für Kiez-AG Baumschulenweg (SM 858) - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Sondermittel für Albatros e. V. (SM 842) - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Sondermittel für den ESV LOK Schöneweide e. V. (SM 854) - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Sondermittel für Seglergemeinschaft am Müggelsee e.V. (SM 823) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Fütterungsverbot für Wasservögel am Müggelpark - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Nutzungs- und Gestaltungskonzept für das Strandbad Müggelsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Monatsbericht zum Baummanagement - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Einrichtung einer zentralen Anlaufstelle für Touristen im künftigen Flughafen BBI - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Bessere Verkehrsanbindung für die Bewohner am Landschaftspark Johannisthal - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Haltestelle Haushoferstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: - Entwurf des Bebauungsplans XVI-85 nebst Begründung - Entwurf der Rechtsverordnung über die Festsetzung zum Bebauungsplan XVI-85 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Bebauungsplan XVI-30 („Waldowplatz“) hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Bebauungsplan 9-42 („Dörpfeldstraße/Ecke Adlergestell“) hier: - Aufstellungsbeschluss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Bebauungsplan XVI-36 ("Kaufhalle Siemensstraße und Umgebung") hier: Änderungsbeschluss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Nutzung der öffentlichen Toiletten im Krematorium Baumschulenweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Bebauungsplan 9-39 G ("Ausschluss Einzelhandel Teilbereich Alt-Treptow") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Konzept bezirklicher Wirtschaftsförderung - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Fortschreibung der Schulentwicklungsplanung (SEP) für die Jahre 2008 bis 2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Schulhorte in öffentlicher Trägerschaft belassen - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Ausstattung der Schulsekretariate - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Weiteres Verfahren mit der Grundschule am Altglienicker Wasserturm für das Schuljahr 2009/2010 als Konkretisierung der Schulentwicklungsplanung Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Ortsteilwappen am Stadtplatz - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XV-70 („Bohnsdorf West“), Ortsteile Bohnsdorf und Altglienicke hier: - Auswertung der frühzeitigen Beteiligung der Öffentlichkeit, Auswertung der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange,Auswertung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange - Änderung des Geltungsbereichs zum Bezirksamtsbeschluss Nr. 24/98 vom 21.04.1998 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Benennung des im Bezirk Treptow-Köpenick, im Ortsteil Grünau vor der Friedenskirche liegenden Platzes in "Don-Ugoletti-Platz" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Benennung der Straße 208 im Ortsteil Johannisthal, zwischen Springbornstraße und Hederichweg gelegen, in "Ginkgoweg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Kiezbüro - überwiesen
+- TOP 14.2: Flatrate-Partys verbieten - überwiesen
+- TOP 14.3: Stadion Altglienicke - überwiesen
+- TOP 14.4: Lärmminderung am Müggelseedamm - überwiesen
+- TOP 14.5: Straßenbenennung nach Minna Todenhagen - überwiesen
+- TOP 14.6: Stärkung der Kindertagesstätten als Bildungseinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Maßnahmenplan für Schöneweide - überwiesen
+- TOP 14.8: Straßenbenennung - überwiesen
+- TOP 14.9: Spreepark - überwiesen
+- TOP 14.10: Tag der Offenen Tür beim Ordnungsamt im Jahr 2009 - überwiesen
+- TOP 14.11: Wasserwerk Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Sicheres Einordnen in den Kreuzungsbereich - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Verkehrssicherheit am Treptower Park erhöhen - überwiesen
+- TOP 14.14: Höchstparkdauer in der Köpenicker Altstadt - überwiesen
+- TOP 14.15: Ausschilderung Katzengrabensteg - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Sicheres Geradeausfahren - überwiesen
+- TOP 14.17: Finanzmittel für das Jubiläum "800 Jahre Köpenick" - überwiesen
+- TOP 14.18: Weltkulturerbe Gartenstadt Falkenberg - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Barrierefreies Treptow-Köpenick - beantwortet
+- TOP 15.2: Handreichung "Handlungs-Räume" der Mobilen Beratung gegen Rechtsextremismus Berlin (MBR), zu einem Fachgespräch und zur MBR - beantwortet
+- TOP 15.3: Umsetzung des Nichtraucherschutzgesetzes - beantwortet
