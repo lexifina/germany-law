@@ -15,5 +15,8 @@ Teil 2 Maßnahmen zur Gleichstellung behinderter Menschen
 § 11 | Gestaltung von Bescheiden und Vordrucken
 § 12 | Verbandsklagerecht
 § 13 | Berichterstattung
-Teil 3 Übergangsbestimmungen
-§ 14 | Übergangsbestimmungen
+Teil 3 Beauftragte oder Beauftragter des Landes für die Belange behinderter Menschen
+§ 14 | Amt der oder des Landesbehindertenbeauftragten
+§ 15 | Aufgaben und Befugnisse
+Teil 4 Schlussvorschriften
+§ 16 | Außerkrafttreten
