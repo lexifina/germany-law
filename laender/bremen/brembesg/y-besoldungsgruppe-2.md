@@ -2,6 +2,7 @@
 # Besoldungsgruppe 2
 Besoldungsgruppe 2
 Direktor der Staats- und Universitätsbibliothek
+Landesbehindertenbeauftragter
 Leitender Branddirektor
 - als Leiter der Feuerwehr Bremen
 Leitender Regierungsdirektor, soweit nicht in Besoldungsgruppe B 3
