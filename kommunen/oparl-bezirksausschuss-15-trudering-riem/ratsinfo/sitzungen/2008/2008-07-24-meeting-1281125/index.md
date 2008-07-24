@@ -1,0 +1,160 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2008-07-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1281125
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1281125
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1.1.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses 15 Trudering-Riem durch das Kreativ Musikforum i.H.v. 465,00 Euro für ein Sommerkonzert
+- TOP 1.2.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses 15 Trudering-Riem durch die Freunde der Abteilung Waldtrudering der Freiwilligen Feuerwehr e.V. i.H.v. 965,66 Euro für den Kauf eines Beamers
+- TOP 1.3.: Verkauf des Flst. 412, Trudering, Helgastraße 8 - erneute Befassung (Az.: 912/273/O/99/Si.)
+- TOP 1.4.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses 15 durch die Kath. Kirchenstiftung Christi Himmelfahrt i.H.v. 1.200,00 für ein Festkonzert
+- TOP 1.5.: WV Top 1.12/06/08: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses 15 Trudering-Riem durch die Freunde und Förderer der Musik in der Pfarrei St.-Augustinus i.H.v. 700,00 Euro
+- TOP 1.6.: WV Top 1.8/06/08: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses 15 Trudering-Riem durch die Freunde und Förderer der Musik in der Pfarrei St.-Augustinus i.H.v. 1.500,00 Euro
+- TOP 1.7.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses 15 Trudering-Riem durch die FFW Riem 1874 e.V. i.H.v. 1.180,00 Euro
+- TOP 2.1.: Generierung lukrativer Aufträge am Graf-Spee-Platz
+- TOP 2.2.: Bedarf für eine Buslinie Gronsdorf - Waldtrudering
+- TOP 2.3.: Hortsituation in Waldtrudering - Möglichkeit der Errichtung zusätzlicher Kindergartenplätze
+- TOP 2.4.: Überprüfung Bahnstraße: Erhöhung des Bordsteins oder Anbringung von Pfosten
+- TOP 3.1.: Werbefreiheit der Homepage der Landeshauptstadt München, Antrag Nr. 08-14 / B 00008
+- TOP 3.2.: Hundeprobleme im Riemer Park - Protokoll der Besprechung vom 11.06.08, Anträge Nr. 02-08 / B 02980 und 08-14 / B 00005
+- TOP 3.3.: Instandsetzung des alten Fußweges entlang der Isarlandstraße, Antrag Nr. 08-14 / B 00020
+- TOP 3.4.: Fahrradwegergänzung in der St.-Augustinus-Straße ab Kreuzung Damaschkestraße bis Kreuzung Eigerstraße, Antrag Nr. 02-08 / B 02486
+- TOP 3.5.: Gestaltung der Plätze in der Messestadt - 3.Bauabschnitt, hier: Platz in der Selma-Lagerlöf-Straße, Antrag Nr. 08-14 / B 00001
+- TOP 3.6.: Mehr Aufmerksamkeit für das Gewerbegebiet Messestadt-Ost, Antrag Nr. 02-08 / B 02911
+- TOP 3.7.: Dubioser Bodenaustausch im Grünzug Haffstraße, BA-Antrag Nr. 02-08 / B 02915
+- TOP 3.8.: Verkauf einer städtischen Immobilie FlurNr.: 1612/1, Gemarkung: Perlach, Adresse: Heinrich-Wieland-Straße (Top 5.1/06/08)
+- TOP 3.9.: Nach dem Düsseldorfer Justiz-Spruch: Was bedeutet das für die Abgabe städtischer Grundstücke in Trudering-Riem, Antrag Nr. 02-08 / B 02568
+- TOP 3.10.: Unfallträchtige Kreuzung Messestadt (Ottendichler Straße / De-Gasperi-Bogen / Paul-Henri-Spaak-Straße), Antrag Nr. 08-14 / B 00006
+- TOP 3.11.: Buskonzept für die Messestadt; Lärmbelästigung durch die Buslinie 190, Antrag Nr. 02-08 / B 02798
+- TOP 3.12.: Regenwasserversickerungsanlagen, Haffstraße 138 - Antrag Nr. 08-14 / B 00003
+- TOP 3.13.: Planungen für das Gymnasium Trudering, Antrag Nr. 02-08 / B 02990
+- TOP 3.14.: Bitte um Einsatz von Schulbusbegleiterinnen / Schulbusbegleitern, Antrag Nr. 02-08 / B 02555
+- TOP 3.15.: Neuer Anlauf für eine Bushaltestelle Jagdhornstraße, Antrag Nr. 08-14 / B 00016
+- TOP 3.16.: BRK-Rettungswache, Truderinger Straße 288
+- TOP 3.17.: Tempo 30 Zone Truderinger Straße (Top 7.4.2/06/08)
+- TOP 3.18.: Spiel ohne Grenzen - Projekt Crossover, Antrag Nr. 08-14 / B 00014
+- TOP 4.1.: Niveauerhöhung des Rad- und Fußweges in der Unterführung Schwablhofstraße
+- TOP 4.2.: Standards erarbeiten für Straßeninstandsetzungen nach Aufgrabungen
+- TOP 4.3.: Panoramaweg Isar-Inn
+- TOP 4.4.: Ballspielen auf dem Halligenplatz
+- TOP 4.5.: Gebrauchtwagenhändler / Autoverkaufplätze in der Truderinger Straße
+- TOP 4.6.: Beidseitiges Halteverbot in der Karpfenstraße
+- TOP 4.7.: Halteverbot in der Truderinger Straße
+- TOP 4.8.: Beseitigung des Unkrauts im Riemer Park
+- TOP 4.9.: Grünpfeil an der Kreuzung Am Mitterfeld / Joseph-Wild-Straße
+- TOP 4.10.: Bauwagen im Riemer Park
+- TOP 4.11.: Polizeipräsenz in der Messestadt
+- TOP 4.12.: Verbesserung der Parksituation am Kulturzentrum Trudering für Nutzer und Anwohner
+- TOP 4.13.: Shared Space als Lösung für das Ortszentrum Strasstrudering
+- TOP 4.14.: Feinstaub durch Planungspfusch
+- TOP 4.15.: Warum mussten die Alleebäume an der Bushaltestelle Drosselweg verschwinden
+- TOP 4.16.: Nach dem Hortneubau an der Turnerschule den Kindergarten Waldschulstraße ausbauen
+- TOP 4.17.: Freies Rederecht für Leitungen städtischer Kindertageseinrichtungen in örtlichen Gremien
+- TOP 4.18.: Riemer See: Stromverbrauch für die Grundwasserspeisung, Wasserqualität und Wasservögelpopulation
+- TOP 5.1.: Vollzug von § 13 der BA-Satzung Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen), Kreillerstraße 198 u. 204, Fl.Nr. 357/13 357/15, Gemarkung Trudering, 8 Plakattafeln am Bauzaun
+- TOP 5.2.: O2 World on Tour, Städt. Fllst. 1408/18 Gem. Trudering, Towergrundstück an der Olof-Palme-Straße
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: Arbeitsgruppe "Gedenkveranstaltung am 09. November", Ergebnisprotokoll vom 03.06.2008
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Vollzug des Bundes-Immissionsschutzgesetztes (BImschG): Ottendichler Straße 30, Kieswerk Obermyr GmbH & Co. KG (Anhörung)
+- TOP 7.2.: Ökologische Ausgleichsflächen mit Grünzug und Spielplatz östlich der Bebauung Haffstraße im Umgriff des Bebauungsplans mit Grünordnung Nr. 1928 a (Entscheidung gem. Vollmacht des Oberbürgermeisters)
+- TOP 7.3.: Bebauungsplan Nr. 1958 a Haffstraße - Übersendung der vollständigen Unterlagen zuzüglich Satzungsbeschluss vom 27.04.05 durch das Referat für Stadtplanung und Bauordnung
+- TOP 7.4.: Bauvorhaben Schwanenweg 11, Flurstück 441/13, Stadtbezirk 15: Neubau eines Einfamilien- und eines Doppelhauses einschl. Garage
+- TOP 7.5.: Bauvorhaben Solalindenstraße 78, Flurstück 902/0, Stadtbezirk 15: Neubau einer Doppelhaushälfte mit Garage (DHH 1)
+- TOP 7.6.: Bauvorhaben Solalindenstraße 78, Flurstück 902/0 Stadtbezirk 15: Neubau einer Doppelhaushälfte mit Garage (DHH 2)
+- TOP 7.7.: Bauvorhaben Wasserturmstraße 9, Flurstück 424/2, Stadtbezirk 15: Neubau von vier Stadthäusern mit Garage
+- TOP 7.8.: Bauvorhaben Böcklerweg 18, Flurstück 350/55, Stadtbezirk 15: Neubau zweier Mehrfamilienhäuser mit TG
+- TOP 7.9.: Bauvorhaben Schwanenweg 11, Flurstück 441/13, Stadtbezirk 15: Neubau eines Einfamilien- un eines Doppelhauses einschl. Garage, hier: Haus 3 (DHH)
+- TOP 7.10.: Bauvorhaben Heilwigstraße 10, Flurstück 939/0, Stadtbezirk 15: Neubau einer Doppelhaushälfte
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Zustand Kreuzungspunkt Hugo-Lang-Bogen / Zehntfeldstraße, Antrag Nr. 08-14 / B 00002
+- TOP 7.2.: Grünanlage Bajuwarenstraße Ost, Stellungnahme zum Protokoll (Top 7.4.5/06/08)
+- TOP 7.3.: Bushäuschen an der Haltestelle Halligenplatz, Antrag Nr. 02-08 / B 02678
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Zuwendung aus dem Budget der Bezirksausschüsse - Angemessener Einsatz von Eigenmitteln im Zusammenhang mit Art. 60 GO (Top 7.4.4/04/08)
+- TOP 7.2.: Änderung von § 21 der Bezirksausschuss-Satzung; Antrag Nr. 08-14 / A 00001 der Stadtratsfraktion der FDP vom 02.05.2008
+- TOP 7.3.: Verwendungsnachweis SOS Kinderdorf / Fördermaterialien i.H.v. 2.500,00 Euro
+- TOP 7.4.: Verwendungsnachweis Truderinger Musikverein / i.H.v. 2.337,04 Euro
+- TOP 7.5.: Verwendungsnachweis Truderinger Burschenverein / Zeltkauf i.H.v. 2.500,00 Euro
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8.1.: Mitteilung über bereits durchgeführte Baumfällungen: Gottschalkstraße 20, Max-Beckmann-Straße 51, Iltisstraße 61
+- TOP 8.2.: Hoferichterweg 25
+- TOP 8.3.: Kilihofstraße 32
+- TOP 8.4.: Eisvogelweg 30
+- TOP 8.5.: Gundelstraße 1
+- TOP 8.6.: Fauststraße 72
+- TOP 8.7.: Fauststraße 32
+- TOP 8.8.: Damaschkestraße 52
+- TOP 8.9.: Sansibarstraße 4 - 4 a
+- TOP 8.10.: Toni-Schmid-Straße 45
+- TOP 8.11.: Markgrafenstraße 22 b
+- TOP 8.12.: Florastraße 29
+- TOP 8.13.: Am Oberfeld 2
+- TOP 8.14.: Ickelsamerstraße 5 a
+- TOP 9.1.: Termine und Mitteilungen: - Einladung zum Planungsdialog "Kinder- und familienfreundliches Wohnen" am 24.07.08 von 09.00 bis 12.00 Uhr, Rathaus - großer Sitzungssaal - 8. Münchner Wohnprojekttag am 01.08.08 von 16.00 bis 20.00 Uhr, Straßenbauamt - Informationsveranstaltung für die neugewählten Baumschutzbeauftragten der Bezirksausschüsse am 31.07.08 von 08.30 bis 16.30 Uhr, Planungsreferat Blumenstraße 19, Sitzungssaal 614 - 850 Jahre München: Brückenfest Bogenhausen und weitere Veranstaltungen
+- TOP 9.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3.: Oktoberfest 2008, Reservierung in der Ratsboxe für die Müchner Bezirksausschüsse
+- TOP 9.4.: Müll gehört in den Mülleimer - München endlich sauberer machen; Beschluss des Bauausschusses vom 08.07.08
+- TOP 9.5.: Werbetafeln im öffentlichen Raum - Kundenstopper
+- TOP 9.6.: PERSPEKTIVE MÜNCHEN - Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung, Grundsatzbeschluss
+- TOP 9.7.: Neubau einer Kooperationseinrichtung mit 3 Kindergarten- und 4 Krippengruppen, eines 4-gruppigen Hortes sowie einer Amtsmeisterwohnung an der Feldbergstraße 85 im 15.ten Stadtbezirk Trudering-Riem, Stellungnahme des BA 15 (Dringlichkeitsentscheidung gem. § 20 Abs. 1 BA-Satzung)
+- TOP 9.8.: Münchner Familienpass - Angebote der Jugendhilfe
+- TOP 9.9.: 18.jetzt - Fest junger Erwachsener, Teilnahme der Bezirksausschüsse
+- TOP 9.10.: Anmeldung einer stationären Versammlung unter freiem Himmel am 29.07.2008 durch ver.di, Olof-Palme-Straße am Gehweg
+- TOP 9.11.: Mitteilung der Änderung der Vorstandschaft des Turn- und Sportvereins Trudering e.V.
+- TOP 9.12.: Erdinger Ringschluss - Verbesserung der Schienenanbindung des Flughafens München (Mitteilung des bayerischen Staatsministeriums für Wirtschaft, Verkehr und Technologie)
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 09.06.2008 bis 13.07.2008
+- TOP 10.2.: Zuwendungsbewilligung aus dem Budget des BA 15 für die Kath. Kirchenstiftung Christi Himmelfahrt i.H.v. 950,00 Euro
+- TOP 10.3.: Zuwendungsbewilligung aus dem Budget des BA 15 für die BRK Wasserwacht München Riem i.H.v. 600,75 Euro
+- TOP 10.4.: Zuwendungsbewilligung aus dem Budget des BA 15 für das Bürgerzentrum Trudering e.V. i.H.v. 250,00 Euro
+- TOP 10.5.: Zuwendungsbewilligung aus dem Budget des BA 15 für das Sonderpädagogische Förderzentrum München-Ost i.H.v. 940,00 Euro
+- TOP 10.6.: Zuwendungsbewilligung aus dem Budget des BA 15 für das Kreativ Musikforum i.H.v. 225,00 Euro
+- TOP 10.7.: Zweckentfremdung von Wohnraum - Schwanenweg 19
+- TOP 10.8.: Zweckentfremdung von Wohnraum - Helenenstraße 30
+- TOP 10.9.: Zweckentfremdung von Wohnraum - Wasserturmstraße 9
+- TOP 10.10.: Zweckentfremdung von Wohnraum - In der Heuluss 36
+- TOP 10.11.: Mitteilung über ein Grundstücksgeschäft - Verkauf des Flst. 1408/110 (Tlfl.) Werner-Eckert-Straße
+- TOP 10.12.: Mitteilung über ein Grundstücksgeschäft - Verkauf Flst. 596/51 Schwedensteinstraße
+- TOP 10.13.: Mitteilung über ein Grundstücksgeschäft - Kauf Flst. 1257, MEA an 1257/1 und 204/20 Dompfaffweg
+- TOP 10.14.: Baumaßnahmen der SWM - Fernwärmeprojekt Neu-Riem, Elisabeth-Mann-Borgese-Straße
+- TOP 10.15.: Vollzug der Straßenverkehrsordnung (StVO), Veranstaltung auf öffentlichem Verkehrsgrund - hier: Solidaritätslauf für die Kinder von Tschernobyl
+- TOP 10.16.: Vollzug des Art. 19 des Landesstraf- und Verordnungsgesetztes (LStVG); Jack-Johnson-Konzert am 11.07.08 in der Olympia-Reitanlage
+- TOP 10.17.: Vollzug des Art. 19 des Landesstraf- und Verordnungsgesetzes (LStVG); Neilly-Furtado-Konzert am 08.07.08 in der Olympia-Reitanlage
+- TOP 10.18.: Öffentliche Grünanlage an der Graf-Lehndorff-Straße im Umgriff des Bebauungsplanes mit Grünordnung Nr. 1417 a, Beschluss des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 24.04.2008
+- TOP 10.19.: Instandsetzung der Fußballwiese an der Unnütz-/Bajuwarenstraße, Beschluss des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 26.06.2008
+- TOP 10.20.: Bebauungsplan mit Grünordnung Nr. 1976 Schwablhofstraße (westlich), Wasserburger Landstraße (nördlich), Bahnlinie München-Rosenheim (südlich), Beschluss des Bauausschusses vom 08.07.2008
+- TOP 10.21.: Veranstaltungen des Kulturreferats für Juli 2008
+- TOP 10.22.: Nachqualifizierung und Revision der Denkmalliste des Bayerischen Landesamt für Denkmalpflege
+- TOP 10.23.: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Untersuchung zur künftigen Flughafenanbindung A. Projektbeendigung - Einstellung des Planfeststellungsverfahrens MSB B. Verbesserung der Schienenanbindung des Flughafens München C. Anträge und Empfehlungen
+- TOP 10.24.: Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008
+- TOP 10.25.: Urteil des Bayerischen Verwaltungsgerichtshofes (BayVGH) vom 31.10.2007 in Sachen Normenkontrollverfahren gegen die Verordnung der Landeshauptstadt München über den Schutz des Landschaftsbestandteils "Am Hochacker" in München-Trudering (Biotop Nr. M-218) vom 05.05.1993 sowie die Verordnung der Landeshauptstadt München über den Schutz des Landschaftsbestandteils "Am Hochacker Teilfläche d" in München Trudering (Biotop Nr. M-218 d) vom 05.02.2005; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008
+- TOP 10.26.: Bebauungsplan mit Grünordnung Nr. 1976 Schwablhofstraße (westlich), Wasserburger Landstraße (nördlich), Bahnlinie München-Rosenheim (südlich), Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008
+- TOP 10.27.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/15 Schwablhofstraße (westlich), Wasserburger Landstraße (nördlich), Bahnlinie München-Rosenheim (südlich), Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008
+- TOP 10.28.: Strukturkonzept für das Gelände des Münchner Trabrenn- und Zuchtvereins (MTZV) sowie das westlich anschließende Gebiet bis zur Bahntrasse Zamdorf - Johanneskirchen, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008
+- TOP 10.29.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" - Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug, 3. Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.06.2008
+- TOP 10.30.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München, Beschluss der Vollversammlung des Stadtrates vom 11.06.2008
+- TOP 10.31.: Vollzug des BayKiBiG; Bescheide über die Anerkennung von Plätzen in der Kindertageseinrichtung Kreuzerweg 28
+- TOP 10.32.: Ausschreibung von Trägerschaften Qualifizierung der Maßnahmen zum Erhalt von Mietverhältnissen, Trägerschaft Sozialregionsverbund Nord/Süd/West mit 5 Sozialregionen, Trägerschaft Sozialregionsverbung Ost/Mitte mit 5 Sozialregionen, Verträge für die Haushaltsjahre 2009 bis 2011, Beschluss des Sozialausschusses vom 03.07.2008
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
