@@ -1,0 +1,102 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2008-07-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1314943
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1314943
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Vorstellung von LILALU - <div>bekannt gegeben</div>
+- TOP 2.2.: Verhinderung des Gehsteigparkens im Bereich Werner-Friedmann-Bogen / Riesstraße - <div>Verweisung an UA Verkehr</div>
+- TOP 2.3.: Verkehrsplanungen anlässlich der Bebauung des Meillergeländes - <div>nach Antrag</div>
+- TOP 2.4.: Präsentation des REGSAM-Sozialführers - <div>bekannt gegeben</div>
+- TOP 2.5.: Behinderungen am Gehweg vor Dachauer Str. 334 a - <div>Verweisung an UA Verkehr</div>
+- TOP 2.6.: Erweiterung der Skateanlage Triebstraße / Bingener Straße - <div>nach Antrag</div>
+- TOP 2.7.: Fahrradständer vor SANI-Plus Apotheke - <div>nach Antrag</div>
+- TOP 2.8.: Verkehrsprobleme im Bereich der Bauberger Straße - <div>In der Sitzung beantwortet</div>
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Gedenkveranstaltung zum 09. November
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine
+- TOP 3.2.: Kulturgeschichtspfad
+- TOP 3.3.: Parksituation Moosacher Bahnhof
+- TOP 3.4.: Parksituation Post SV
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Errichtung von 2 Buswartehallen in der Dachauer Straße
+- TOP 4.2.: Sicherheit auf dem Gehweg in der Schragenhofstraße - <div>nach Antrag</div>
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Errichtung einer Wartehalle an der Bushaltestelle Gröbenzeller Straße (in Höhe Tengelmann)
+- TOP 4.2.: Fuß- / Radwegverbindung über die Triebstraße
+- TOP 4.3: Anträge der ÖDP
+- TOP 4.3.3.: Geschwindigkeitsüberwachung Allacher Straße
+- TOP 4.3.4.: Verringerung der Höchstgeschwindigkeit Baubergerstraße / Am Kapuzinerhölzl - <div>abgelehnt</div>
+- TOP 4.3.5.: Aufstellen von zwei Abfallbehältern in der Franz-Mader-Straße
+- TOP 4.4: Anträge der FDP
+- TOP 4.4.1.: Aufhebung des Radwegs auf der Nordseite der Triebstraße
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10; Lilalu e.V.: Spielprogramm Umsonst und Draußen
+- TOP 6.: Anhörungen
+- TOP 6.1.: nicht - öffentlich
+- TOP 6.2.: Nachqualifizierung und Revision der Denkmalliste
+- TOP 6.3.: Änderung der BA-Satzung: § 21 Fraktionen
+- TOP 6.4.: Fortschreibung des Zentrenkonzepts, Schwerpunkt Nahversorgung
+- TOP 6.5.: Aufhebung der Einbahregelung für den Radverkehr in der Rigaer Straße zwischen Hugo-Troendle-Str. und Leidingerplatz
+- TOP 6.6.: Baumfällungen Schule am Amphionpark
+- TOP 6.7.: Behindertenparkplatz Pfeilschifterstraße
+- TOP 6.8.: Zeitliche Änderung des Halteverbotes im Bereich Hünefeld- / Gärtnerstraße
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Schaffung von mehr senioren- und behindertengerechtem Wohnraum
+- TOP 7.2.: Ausbau der Gärtner-, Dürr-, Messerschmitt-, Dessauer- und Hans-Bunte-Straße
+- TOP 7.3.: Zustand der Wege im Westfriedhof
+- TOP 7.4.: Neuanlage der Grünflächen zwischen Brieger Straße und Lauinger Straße
+- TOP 7.5.: Erweiterung des Halteverbotes Ehrenbreitsteiner Straße / Pelkovenstraße
+- TOP 7.6.: Erhalt der Straßenquerung Dachauer Straße
+- TOP 7.7.: Biotopkartierung des Rangierbahnhofgeländes
+- TOP 7.8.: Parksituation in der Franz-Mader-Straße
+- TOP 7.9.: Sträucherrückschnitt Am Kapuzinerhölzl
+- TOP 7.10.: Rasengleise Tram 20
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München
+- TOP 8.3.: Werbetafeln im öffentlichen Raum; "Kundenstopper"
+- TOP 8.4.: Gewährung von Zuwendungen für die Erweiterung der Tanzräume in der Gneisenaustraße 16
+- TOP 8.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6.: Parkordnung in der Dillinger Straße zwischen Pfeilschifterstraße und Simrockstraße
+- TOP 8.7.: Anfahrtszone Kindergarten Dillinger Straße
+- TOP 8.8.: Olympia - München 2018; ökologisch - nachhaltig - fair (Stadtratsantrag)
+- TOP 8.9.: Müll gehört in den Mülleimer - München endlich sauberer machen (Stadtratsantrag)
+- TOP 8.10.: Baukostenzuschuss Kinderkrippe Bingener Str. 30
+- TOP 8.11.: Ausschreibung von Trägerschaften; Qualifizierung der Maßnahmen zum Erhalt von Mietverhältnissen, Trägerschaft Sozialregionsverbund Nord/Süd/West mir 5 Sozialregionen; Trägerschaft Sozialregionsverbund Ost/Mitte mit 5 Sozialregionen
+- TOP 8.12.: Perspektive München - Leitlinien, Konzepte, Programme
+- TOP 8.13.: Neubestellung des Heimatpflegers
+- TOP 8.14.: Ablauf von Bürgerversammlungen; Zulassung unterstützender Multimedia-Darstellungen zu Anträgen
+- TOP 8.15.: Genehmigung einer Anlage zur Lagerung, Behandlung und zum Umschlag von Abfällen; Triebstraße 41
+- TOP 8.16.: Pächterwechsel "Taverna Romana", Bingener Str. 43
+- TOP 8.17.: Information über das Betriebskonzept der U3/U6 während der Arbeiten im Stellwerk Implerstraße
+- TOP 8.18.: Stadtentwässerung: Bedarfs- und Projektgenehmigung Einstiegsschacht Hanauer Straße
+- TOP 8.19.: Umbaumaßnahme Wintrichring / In den Kirschen
+- TOP 8.20.: Straßenbaumaßnahme Emmy-Noether-Straße und Agnes-Pockels-Bogen
+- TOP 8.21.: Sanierung der Pelkovenstraße zwischen Feldmochinger Straße und Claudiusplatz
+- TOP 8.22.: Verlängerung der Ausnahmebewilligung für den Schluckbrunnen an der Pelkovenstraße / Oskar-Barnack-Straße
+- TOP 8.23.: Baugenehmigung für die Errichtung einer Informationssäule Hanauer Straße 70
+- TOP 8.24.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 8.25.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"
+- TOP 8.26.: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen
+- TOP 8.27.: Einbeziehung von Vertretern des Naturschutzes und der Anwohner des Olympiadorfes in die Entwicklungsplanung Olympiapark 2018
+- TOP 8.28.: Realisierungswettbewerbe "Innovativer Wohnungsbau Hasenbergl"
+- TOP 8.29.: "Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern" (Stadtratsantrag)
+- TOP 8.30.: Europaarbeit des Referats für Stadtplanung und Bauordnung und aktuelle Entwicklung der "städtischen Dimension" auf europäischer Ebene
+- TOP 8.31.: Mehrjahresinvestitionsprogramm 2008 bis 2012; Maßnahmen im Bereich des Kommunalreferates
+- TOP 8.32.: Mehrjahresinvestitionsprogramm für die Jahre 2008 bis 2012 mit verbindlicher Planung für 2013; Entwurf für das Baureferat
+- TOP 4: Anträge
