@@ -1,0 +1,93 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2008-07-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1356440
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1356440
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Friedenstraße (Ostbahnhof) ? Taxistandplatzverlegung
+- TOP 2.2.: St.-Veit-Straße - Taxistandplatzverlängerung
+- TOP 2.3.: Rosenheimer Straße 143b ? 145 ? Taxistandplatzverkürzung
+- TOP 2.4.: Anzinger Straße 15 ? Taxistandplatzaufhebung
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: PERSEPEKTIVE MÜNCHEN ? Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung - Grundsatzbeschluss
+- TOP 3.1.1.2.: Grafinger Straße 6 ? Werk 9 ? Nutzungsänderung eines vormals stillgelegten bereichs in einen Lagerbereich, Einbau von nichttragenden Wänden
+- TOP 3.1.1.3.: Streitfeldstraße 15 ? 17 ? Neubau einer Wohnanlage (116 WE) mit Tiefgarage (116 Stpl.)
+- TOP 3.1.1.4.: Else-Rosenfeld-Straße ? Neubau eines Wohnhauses mit Gewerbeflächen und Tiefgarage
+- TOP 3.1.1.5.: Berg-am-Laim-Str. 125
+- TOP 3.1.2.1.: Annabrunner Straße / Innsbrucker Ring
+- TOP 3.1.2.2.: Verkehrsberuhigung Schüleinplatz
+- TOP 3.1.2.3.: 23. München Marathon am 12.10.2008 - Anhörung
+- TOP 3.1.3.1.: Ameisenplage besonders an den Kinderspielplätzen
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.6: Sonstiges
+- TOP 3.7.1.: Weihenstephaner Straße 32 ? Baumbestandsplan
+- TOP 3.7.2.: Krumbadstraße ? Freiflächengestaltungsplan / Baumbestandsplan
+- TOP 3.7.3.: Fehwiesenstraße ? Freiflächengestaltungsplan / Baumbestandsplan
+- TOP 3.7.4.: Hansjakobstraße ? Antrag auf Baumfällungen
+- TOP 3.7.5.: Praschlerstraße 5 ? Antrag auf Baumfällung
+- TOP 3.7.6.: Rosenheimer Str. 143 ? Antrag auf Baumfällung
+- TOP 3.7.7.: Hohenbrunner Str. ? Antrag auf Baumfällung
+- TOP 3.7.8.: Waldstraße ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Erörterungsprotokoll zur Veranstaltung zum Bebauungsplan Hansjakobstraße
+- TOP 4.1.1.3.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte - ?BauGB 2007? - Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug - Entscheidung über die Anwendung des beschleunigten Verfahrens (§ 13a BauGB)
+- TOP 4.1.1.4.: Berg-am-Laim-Straße ? Unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.2.1.: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof ? Flughafen; Untersuchungen zur künftigen Flughafenanbindung A. Projektbeendigung ? Einstellung des Planfeststellungsverfahrens MSB B. Verbesserung der Schienenanbindung des Flughafens Münchens C. Anträge und Empfehlung
+- TOP 4.1.2.2.: Erdinger Ringschluss ? Verbesserung der Schienenanbindung des Flughafen Münchens
+- TOP 4.1.2.3.: Sommerfest der Kindertagesstätte Ali Baba im Behrpark
+- TOP 4.1.2.4.: Josef-Ritz-Weg ? Gehbahnerstherstellung
+- TOP 4.1.2.5.: Werbetafeln im öffentlichen Raum; ?Kundenstopper?
+- TOP 4.1.3.1.: Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern
+- TOP 4.1.3.2.: Müll gehört in den Mülleimer ? München endlich sauberer machen!
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Ausschreibung von Trägerschaften Qualifizierung der Maßnahmen zum Erhalt von Mietverhältnissen Trägerschaft Sozialregionsverbund Nord/Süd/West mit 5 Sozialregionen Trägerschaft Sozialregionsverbund Ost/Mitte mit 5 Sozialregionen Verträge für die Haushaltsjahre 2009 bis 2011
+- TOP 4.4.2.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsfinanzierung? 2008-2013 - Kinderkrippe Neumarkter Straße 59 (Zukunft Kinderkrippe GmbH) mit 36 Kinderkrippenplätzen - Umbau - Baukostenzuschuss in Höhe von 267.665 Euro
+- TOP 4.5.1.: Hauptschule am Echardinger Grünstreifen ? Schriftverkehr
+- TOP 4.5.2.: Ludwig-Thoma-Realschule ? Verwendungsnachweis
+- TOP 4.5.3.: Initiative Regsam-Fachbasis Berg am Laim West ? Verwendungsnachweis
+- TOP 4.5.4.: Berg am Laimer Tafel ? Verwendungsnachweis
+- TOP 4.5.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.6.: Änderung von § 21 der Bezirksausschuss-Satzung
+- TOP 4.6: Sonstige
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
