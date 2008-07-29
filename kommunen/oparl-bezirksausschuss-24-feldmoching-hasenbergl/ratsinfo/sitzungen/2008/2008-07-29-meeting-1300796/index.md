@@ -1,0 +1,73 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2008-07-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1300796
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1300796
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Zuschuss aus dem Budget des Bezirksausschusses: Musikschule Bilan, T-Shirts für das Jugend-Orchester
+- TOP 2.2.: Zuschuss aus dem Budget des Bezirksausschusses: Evang.-Luth. Pfarramt Kapernaumkirche, Sommerfest am 19.07.2008
+- TOP 2.3.: Zuschuss aus dem Budget des Bezirksausschusses: Lilalu e. V., Spielprogramm Umsonst und Draußen vom 15. - 31.08.2008
+- TOP 2.4.: Zuschuss aus dem Budget des Bezirksausschusses: Schützengesellschaft Hubertus-Feldmoching e.V., 50jähriges Vereinsjubiläum am 01.06.2008
+- TOP 3.1.: Verkehrsregeländerungen an der Kreuzung Dülferstraße/ Josef-Frankl-Straße/ Paul-Preuß-Straße (Meryem Gündogdu) Vertagt aus der Sitzung vom 01.07.2008
+- TOP 3.2.: Einrichtung eines Modellprojektes zur Ganztagsbetreuung an der GS Thelottstraße (CSU-Fraktion im BA 24) Vertagt aus der Sitzung vom 01.07.2008
+- TOP 3.3.: Antrag auf Erweiterung der rhythmisierten Ganztagesschule gemäß dem Konzept Innovatives Schulprojekt (IPS) der Landeshauptstadt München an der Grundschule an der Thelottstraße auf alle Klassen (SPD-Fraktion im BA 24)
+- TOP 3.4.: Antrag auf Verlegung und Neugestaltung eines vorhandenen Spielplatzes (nicht des Bolzplatzes) an der Toni-Pfülf-Str. in das Parkgelände Hans-Böckler-Str. / Ecke Toni-Pfülf-Str. (U. Hirschmann)
+- TOP 3.5.: Antrag auf Neugestaltung des Spielplatzes an der Toni-Pfülf-Straße für Schulkinder und Jugendliche (SPD-Fraktion im BA 24)
+- TOP 3.6.: Antrag auf Aufstellung eines Schaukastens des BA bei den Kirchen am Stanigplatz (Helmut Faul)
+- TOP 3.7.: Antrag, den Grünstreifen im Anschluss an die Grundstücke Gutmannstraße in Richtung Fasanerie-See, wie früher zu bebauen (Margit Göttfried)
+- TOP 3.8.: Antrag zur Ausstattung des Fasaneriesees mit Tischen und Bänken (Margit Göttfried)
+- TOP 3.9.: Antrag auf automatische Schaltung der Ampeln an der Feldmochinger Straße, Wohngebiet Fasanerie und Feldmoching (Margit Göttfried)
+- TOP 3.10.: Antrag eines Schallschutzes entlang des Rangierbahnhofes München Nord (Margit Göttfried)
+- TOP 3.11.: Verschmutzung und Ruhestörung Fasanerie-See, München Fasanerie (Margit Göttfried)
+- TOP 3.12.: Antrag auf Einrichtung eines Zebrastreifens auf der Feldmochinger Straße in der Fasanerie (Margit Göttfried)
+- TOP 3.13.: Antrag auf Ausweisung des Mehlprimelweges als verkehrsberuhigter Bereich - Anwohnerversammlung (SPD-Fraktion im BA 24)
+- TOP 3.14.: Sanierung der Lerchenstraße zwischen Herberg- und Josef-Frankl-Straße (J. Parzefall, R. Hettler, K. Hettler)
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Durchführung einer Nachqualifizierung und Revision der Denkmalliste durch das Bayerische Landesamt für Denkmalpflege (BayLfD); Information des BayLfD an das Referat für Stadtplanung und Bauordnung am 08.05.2008 über das Ergebnis der Überarbeitung
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Unzumutbare Situation am Fasaneriesee (Antwortschreiben des Sozialreferates)
+- TOP 6.2.: Gemeinschaftsunterkunft für Asylbewerber München Waldmeisterstraße 98; Spielgeräte für den Garten (Antwortschreiben der Regierung von Oberbayern)
+- TOP 6.3.: Veranstaltung in einer städtischen Grünanlage, hier: Bowl Meisterschaft, Skatepark Feldmochinger Str. am 26.07.2008 Vorabzustimmung
+- TOP 6.4.: Veranstaltung in einer städtischen Grünanlage, hier: Sommerfest, Lerchenauer See am 10.07.2008 Vorabzustimmung
+- TOP 6.5.: Veranstaltung auf Privatgrund, hier: 50-Jahr-Feier, Waldmeisterstr. 38 am 24., 25.07.2008 Vorabzustimmung
+- TOP 6.6.: Veranstaltung in einer städtischen Grünanlage, hier: Spielaktionen Grünanlage Reinachstraße vom 04. - 08.08.2008 und Grünanlage Skabiosenplatz vom 11. - 14.08.2008 Vorabzustimmung
+- TOP 6.7.: FC Fasanerie Nord e.V. und die SpVgg Feldmoching e.V. Lösungsmöglichkeiten zur Verbesserung des Sportbetriebes (Schreiben des Schul- und Kultusreferates)
+- TOP 6.8.: Ausschreibung von Trägerschaften Qualifizierung der Maßnahmen zum Erhalt von Mietverhältnissen Trägerschaft Sozialregionsverbund Nord/Süd/West mit 5 Sozialregionen Trägerschaft Sozialregionsverbund Ost/Mitte mit 5 Sozialregionen Verträge für die Haushaltsjahre 2009 bis 2011
+- TOP 6.9.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB
+- TOP 6.10.: Schwarzhölzlstraße und Nebenstraßen im Bereich des Bebauungsplanes Nr. 601 a - Schwarzhölzlsiedlung im 24. Stadtbezirk Feldmoching - Hasenbergl
+- TOP 6.11.: Spielen auf Straßen in Wohngebieten Mehlprimelweg
+- TOP 6.12.: Zirkusprojekt für Münchner Kinder im Hasenbergl Einladung zur Galavorstellung am 09. August um 15 Uhr
+- TOP 6.13.: Grundsätze zur Zusammenarbeit der Bezirksausschuss-Geschäftsstellen mit den Bezirksausschuss-Vorsitzenden und Bezirksausschuss-Mitgliedern
+- TOP 6.14.: Werbetafeln im öffentlichen Raum; "Kundenstopper"
+- TOP 6.15.: Müll gehört in den Mülleimer - München endlich sauberer machen !
+- TOP 6.16.: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Untersuchungen zur künftigen Flughafenanbindung A. Projektbeendigung - Einstellung des Planfeststellungsverfahrens MSB B. Verbesserung der Schienenanbindung des Flughafens München C. Anträge und Empfehlung
+- TOP 6.17.: PERSPEKTIVE MÜNCHEN Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung Grundsatzbeschluss
+- TOP 6.18.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/35 Moosacher Straße (nördlich), Bahngleisbogen München-Feldmoching - München-Milbertshofen (östlich), Schittgablerstraße (südlich), Lerchenauer Straße (westlich) - Knorr-Bremse AG
+- TOP 6.19.: Bebauungsplan mit Grünordnung Nr. 1947 Moosacher Straße (nördlich), Bahngleisbogen München-Feldmoching - München-Milbertshofen (östlich), Schittgablerstraße (südlich), Lerchenauer Straße (westlich) (Teiländerung des Bebauungsplanes Nr. 1688a) - Knorr-Bremse AG -
+- TOP 6.20.: Realisierungswettbewerbe "Innovativer Wohnungsbau Hasenbergl" Modellvorhaben e% - Energieeffizienter Wohnungsbau
+- TOP 6.21.: Bebauungsplan mit Grünordnung Nr. 2025 Heinrich-Braun-Weg (Teiländerung der Bebauungspläne Nr. 808 und Nr. 1571)
+- TOP 6.22.: "Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern!"
+- TOP 6.23.: Europaarbeit des Referats für Stadtplanung und Bauordnung und aktuelle Entwicklungen der "städtischen Dimension" auf europäischer Ebene
+- TOP 6.24.: Parkerleichterung für Schwerbehinderte; personenbezogener Sonderparkplatz im Bereich Linkstraße 1
+- TOP 6.25.: Infoveranstaltung zum Kommunalen Wohnungsbau Programm/B und C
+- TOP 6.26.: Vollzug der Baumschutzverordnung, Baumaßnahmen, hier: Blodigstr. 4
+- TOP 6.27.: Vollzug der Baumschutzverordnung, Fällungsanträge
+- TOP 6.28.: Meldelisten Bauvorhaben
+- TOP 6.29.: Baumaßnahmen der Stadtwerke München
+- TOP 6.30.: Mitteilung über ein Grundstücksgeschäft
+- TOP 6.31.: Schwarzhölzlsiedlung Ausbau der Nebenstraßen
+- TOP 6.32.: Bebauungsplan mit Grünordnung Nr. 1688 b Schittgablerstraße (nördlich), Löwenzahnweg (südlich)
+- TOP 7.: Berichte
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
