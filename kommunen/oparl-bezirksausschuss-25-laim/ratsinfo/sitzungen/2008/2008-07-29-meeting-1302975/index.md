@@ -1,0 +1,89 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2008-07-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1302975
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1302975
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Umgestaltung des Grünstreifens Ecke Friedenheimer- / Zschokkestraße
+- TOP 2.2.: Bündnis 90 / Die Grünen: Bebauung Zschokkestraße
+- TOP 2.3.: SPD: Hortbetreuung Camerloher Straße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget in Höhe von 182 Euro für 3 Aufführungen "Der Blaue Kurfürst" am 16./17.06.08; Antragsteller: Le Nuove Musiche e.V.
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget in Höhe von 270 Euro für den Sommer-Leseclub, Abschlussveranstaltung am 19.09.08; Antragsteller: Münchner Stadtbibliothek Laim
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget in Höhe von 500 Euro für Sommerfest am 13.07.08; Antragsteller: Kath. Pfarramt zu den hl. zwölf Aposteln
+- TOP 3.4.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Lautensackstr. 2a
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Planungsreferat vom 27.06.08: Perspektive München; Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung
+- TOP 4.2.: Schreiben KVR vom 11.07.08: Anwohnerstraßenfest in der Straubinger Straße am 15.08.08
+- TOP 4.3.: Schreiben KVR vom 01.07.08: Informationsveranstaltung mit Hörtest am Laimer Anger am 02.09.08
+- TOP 4.4.: Schreiben KVR vom 01.07.08: Flohmarkt am Spielplatz Von-der-Pfordten-Straße / Valpichlerstraße am 27.09.08
+- TOP 5: Baumfällungen
+- TOP 6: Bauvorhaben
+- TOP 6.1.: Laimer Platz: Errichtung einer Werbeanlage (Informationssäule)
+- TOP 6.2.: Camerloherstr. 199: Umbau eines Doppelhauses und Einbau zweier Dachgauben; hier: Baumfällungen
+- TOP 7: Sonstiges
+- TOP 7.1.: Schreiben Planungsreferat vom 02.07.08: Informationsveranstaltung für die neugewählten Baumschutzbeauftragten der Bezirksausschüsse am 31.07.08
+- TOP 7.2.: Schreiben Gegen Vergessen-für Demokratie e.V. vom 06.07.08: Gedenkveranstaltung zum 09.November 2008
+- TOP 7.3.: Schreiben Direktorium vom 09.07.08: 18.jetzt - Fest junger Erwachsener im Rathaus am 25.10.08
+- TOP 7.4.: Schreiben MVG vom 15.07.08: Einladung zum Ortstermin am 29.07.08 / Bus- und Trambahnhaltestelle Westendstraße
+- TOP 8: Protokolle
+- TOP 8.1.: Protokoll der BA-Sitzung vom 03.06.08
+- TOP 8.2.: Sitzung UA Umwelt und Verkehr vom 20.06.08
+- TOP 8.3.: Protokoll der BA-Sitzung vom 01.07.08
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Markthallen München GmbH vom 12.06.08: Bauernmarkt Agnes-Bernauer-Straße
+- TOP 9.2.: Schreiben Baureferat vom 19.06.08: Ausfahrt aus der Tiefgarage der Laimer Arkaden, Agnes-Bernauer-Straße (Schreiben BA vom 30.04.08)
+- TOP 9.3.: Schreiben Baureferat vom 19.06.08: Projekt Landsberger Straße östlich Wotanstraße (Schreiben BA vom 30.04.08)
+- TOP 9.4.: Schreiben Baureferat vom 26.06.08: Radl-Aufstellflächen sichern (Antrag Nr. 02-08 / B 02530 vom 06.11.07 bzw. Schreiben vom 30.04.08)
+- TOP 9.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6.: Schreiben Direktorium vom 17.06.08: Bewilligung eines Zuschusses aus dem Budget; Antragsteller: Regsam, Facharbeitskreis Kinder und Jugend in Laim
+- TOP 9.7.: Schreiben Direktorium vom 03.07.08: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Pädagogische Aktion/ Spielen in der Stadt e.V.
+- TOP 9.8.: Schreiben Direktorium vom 24.06.08: Grundsätze zur Zusammenarbeit der BA-Geschäftsstellen mit den BA-Vorsitzenden und den BA-Mitgliedern
+- TOP 9.9.: Schreiben KVR vom 26.06.08: Gaststätte "Lennox Coffee Shop", Elsenheimer Str. 61; unveränderte Fortführung
+- TOP 9.10.: Schreiben KVR vom 30.06.08: Gaststätte "Prikthai", Landsberger Str. 326; unveränderte Fortführung
+- TOP 9.11.: Schreiben KVR vom 04.07.08: Gaststätte "Nachtgalerie", Landsberger Str. 185; Stellungnahme der BI West (Schreiben BA vom 26.06.08)
+- TOP 9.12.: Schreiben KVR vom 30.06.08: Werbetafeln im öffentlichen Raum "Kundenstopper"
+- TOP 9.13.: Schreiben KVR vom 01.07.08: Aufhebung personenbezogener Behindertenparkplatz Siglstraße
+- TOP 9.14.: Schreiben Planungsreferat vom 23.06.08: Planänderung zur Planfeststellung nach § 18 AEG für das Vorhaben "Neubau des S-Bahn-Haltepunktes Friedenheimer Brücke" Bahnstrecke 5540 München Hbf (Tunnelbahnhof) - Gauting km 2,5 + 39 bis 3,2 +
+- TOP 9.15.: Schreiben Planungsreferat vom 11.07.08: Fürstenrieder Str. 147; Nutzungsänderung Verkaufsladen / Bank zu Spielothek "Hellas"
+- TOP 9.16.: Schreiben Sozialreferat vom 24.06.08: Münchner Familienpass
+- TOP 9.17.: Schreiben Sozialreferat vom 25.06.08: Dokumentation "Auf die Perspektive kommt es an! Münchner Kinder mischen mit. Der Einsatz des Kinder-Aktions-Koffers in Laim"
+- TOP 9.18.: Schreiben Sozialreferat vom 30.06.08: Infoveranstaltung zu KomPro/ B und C am 13.11.08
+- TOP 9.19.: Bautenliste vom 16.06.-22.06.08 1. Erstantragsverfahren a) Landsberger Str. 234 2. Änderungsverfahren a) Stroblstr. 25
+- TOP 9.20.: Bautenliste vom 23.06.-29.06.08 1. Erstantragsverfahren a) Schäufeleinstr. 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Perhamerstr. 80
+- TOP 9.21.: Bautenliste vom 30.06.-06.07.08 1. Erstantragsverfahren a) Ilmmünsterstr. 33 b) Hohenwarter Str. 9 c) Flotowstraße d) Agricolastr. 94 e) Agnes-Bernauer-Platz 8 f) Landsberger Straße g) Baudererstr. 7 2. Änderungsverfahren a) Perhamerstr. 78 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Berchemstr. 67
+- TOP 9.22.: Bautenliste vom 07.07.-13.07.08 1. Erstantragsverfahren a) Stadtlohner Str. 2 b) Agricolastr. 55
+- TOP 9.23.: Schreiben Planungsreferat vom 30.06.08: Liste der beantragten Baumfällungen vom 23.06.-29.06.08
+- TOP 9.24.: Schreiben Planungsreferat vom 14.07.08: Liste der beantragten Baumfällungen vom 07.07.-13.07.08
+- TOP 9.25.: Schreiben Stadtwerke München GmbH vom 20.06.08: Baumaßnahmen der Stadtwerke; Stichtag: 20.06.08
+- TOP 9.26.: Schreiben Stadtwerke München GmbH vom 30.06.08: Baumaßnahmen der Stadtwerke; Stichtag: 30.06.08
+- TOP 9.27.: Schreiben Stadtwerke München GmbH vom 07.07.08: Baumaßnahmen der Stadtwerke München; Stichtag: 07.07.08
+- TOP 9.28.: Schreiben Stadtwerke München GmbH vom 14.07.08: Baumaßnahmen der Stadtwerke München; Stichtag: 14.07.08
+- TOP 9.29.: Beschluss der Vollversammlung vom 11.06.08: Pasing Zentrum; Gestaltung von Straßen und Plätzen (Sitzungsvorlagen Nr. 08-14 / V 00236)
+- TOP 9.30.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.08: Perspektive München - Leitlinien, Konzepte, Programme; Handlungskonzept: Herausforderungen des sozialdemografischen Wandels für die Stadtentwicklung (Sitzungsvorlagen Nr. 08-14 / V 00190)
+- TOP 9.31.: 3. Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.06.08: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007", Bericht über die Inhalte und Auswirkungen auf den Verwaltungsvollzug; Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13 a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB (Sitzungsvorlagen Nr. 02-08 / V 11037)
+- TOP 9.32.: Beschluss der Vollversammlung des Stadtrates vom 02.07.08: Olympia - München 2018, ökologisch - nachhaltig - fair (Sitzungsvorlagen Nr. 02-08 / V 00376)
+- TOP 9.33.: Beschluss des Sozialausschusses vom 03.07.08: Ausschreibung von Trägerschaften, Qualifizierung von Maßnahmen zum Erhalt von Mietverhältnissen, Trägerschaft Sozialregionsverbund Nord/Süd/West mit 5 Sozialregionen, Trägerschaft Sozialregionsverbund Ost/Mitte mit 5 Sozialregionen, Verträge für die Haushaltsjahre 2009 bis 2011 (Sitzungsvorlagen Nr. 08-14 / V 00384)
+- TOP 9.34.: Beschluss des Bauausschusses vom 08.07.08: Müll gehört in den Mülleimer - München endlich sauberer machen! (Sitzungsvorlagen Nr. 04-18 / V 00419)
+- TOP 9.35.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 24.06.08: Rasengleise bei Neubau und Sanierung von Straßenbahntrassen; Tram-Gleis wird wieder Grüngleis (Antrag Nr. 02-08 / B 02852 vom 29.01.08) (Sitzungsvorlagen Nr. 08-14 / V 00166)
+- TOP 9.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.08: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Untersuchung zur künftigen Flughafenanbindung (Sitzungsvorlagen Nr. 08-14 / V 00452)
+- TOP 9.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.08: Europaarbeit des Referates für Stadtplanung und Bauordnung und aktuelle Entwicklung der "städtischen Dimension" auf europäischer Ebene (Sitzungsvorlagen Nr. 08-14 / V 00278)
+- TOP 9.38.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 16.07.08: Realisierungswettbewerbe "Innovativer Wohnungsbau Hasenbergl", Modellvorhaben e% - Energieeffizienter Wohnungsbau (Sitzungsvorlagen Nr. 08-14 / V 00417)
+- TOP 9.39.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.08: Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern (Sitzungsvorlagen Nr. 08-14 / V 00565)
+- TOP 9.40.: Schreiben LILALU vom 24.06.08: LILALU Sommerfestival 2008 - 10 Jahre LILALU
+- TOP 9.41.: Schreiben Innere Mission München vom 04.07.08: Sachbericht zur neuen Theke im TREFFAM; Zuschuss aus dem Budget des BA 25
+- TOP 9.42.: Schreiben LILALU vom 11.07.08: Freie Plätze für Kinder mit Migrationshintergund
+- TOP 9.43.: Schriftverkehr aus der BA-Sitzung vom 03.06.08
+- TOP 9.44.: Schriftverkehr aus der BA-Sitzung vom 01.07.08
+- TOP 9.45.: Schreiben der Hauptschule an der Schrobenhausener Str. 15: Programm zur Festveranstaltung "Schule - Brücke zum Leben" im Rahmen von 850 Jahre München
+- TOP 1.2: Bürgerpost an den BA
