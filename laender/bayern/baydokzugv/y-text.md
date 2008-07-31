@@ -1,0 +1,1 @@
+Auf Grund des Art. 12 Abs. 2 des Bayerischen Gesetzes zur Gleichstellung, Integration und Teilhabe von Menschen mit Behinderung (Bayerisches Behindertengleichstellungsgesetz – BayBGG) vom 9. Juli 2003 (GVBl S. 419, BayRS 805-9-A) erlässt die Bayerische Staatsregierung folgende Verordnung:
