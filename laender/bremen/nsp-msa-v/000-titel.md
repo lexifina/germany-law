@@ -1,0 +1,1 @@
+# Verordnung über die Prüfung für Schülerinnen und Schüler nicht anerkannter Ersatzschulen und für Nichtschülerinnen und Nichtschüler zur Erlangung des Mittleren Schulabschlusses (NSP-MSA-V -) vom 20. Juni 2008
