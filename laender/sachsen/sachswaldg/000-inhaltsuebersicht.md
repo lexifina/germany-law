@@ -44,7 +44,7 @@ Siebenter Teil Forstorganisation
 § 35 Forstbehörden
 § 36 (aufgehoben)
 § 37 Aufgaben und Zuständigkeit der Forstbehörden
-§ 38 Beratung und Unterstützung Dritter bei landschaftsbezogenen Maßnahmen
+§ 38 (aufgehoben)
 § 39 Landesforstwirtschaftsrat
 § 40 Forstaufsicht
 § 41 Polizeibehörde, Polizeiverordnung
