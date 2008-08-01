@@ -6,7 +6,7 @@ Teil 1 Ausbildung
 § 3 | Dauer und Organisation der Ausbildung
 § 4 | Unterrichtsfächer und Stundentafeln
 § 5 | Voraussetzungen für die Zulassung
-§ 6 | Zulassungsverfahren für Bewerberinnen und Bewerber nicht deutscher Herkunftssprache
+§ 6 | Verfahren zum Nachweis deutscher Sprachkenntnisse für Bewerberinnen und Bewerber nicht deutscher Herkunftssprache
 § 7 | Zulassung
 Teil 2 Prüfung
 § 8 | Allgemeines
@@ -19,7 +19,8 @@ Teil 2 Prüfung
 § 15 | Vornoten der Prüfungsfächer
 § 16 | Erste Prüfungskonferenz
 § 17 | Schriftliche Prüfung
-§ 18 | Projektarbeit
+§ 17a | Prüfungsaufgaben für die Zentrale Prüfung und die Gemeinsame Prüfung
+§ 18 | Projektprüfung
 § 19 | Besondere Lernleistung
 § 20 | Zweite Prüfungskonferenz
 § 21 | Mündliche Prüfung
