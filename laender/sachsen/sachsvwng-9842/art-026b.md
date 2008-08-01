@@ -1,0 +1,2 @@
+# Artikel 26b Änderung des Sächsischen Ausländerrechtszuständigkeitsgesetzes
+In § 2 Abs. 1 Nr. 2 des Gesetzes über die Zuständigkeiten zur Ausführung des Aufenthaltsgesetzes und ausländerrechtlicher Bestimmungen in anderen Gesetzen im Freistaat Sachsen (Sächsisches Ausländerrechtszuständigkeitsgesetz – SächsAuslZuG) vom 25. Juni 2007 (SächsGVBl. S. 190) wird das Wort „Regierungspräsidien“ durch das Wort „Landesdirektionen“ ersetzt.
