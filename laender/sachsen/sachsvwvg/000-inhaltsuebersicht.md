@@ -1,4 +1,4 @@
-# Inhaltsübersicht
+Inhaltsübersicht
 Erster Teil Allgemeine Vorschriften
 § 1 Geltungsbereich
 § 2 Allgemeine Voraussetzungen der Verwaltungsvollstre- ckung
@@ -35,5 +35,5 @@ Dritter Teil Vollstreckung sonstiger Verwaltungsakte
 § 27 Wegnahme
 Vierter Teil Schlussvorschriften
 § 28 Einschränkung von Grundrechten
-§ 29 (aufgehoben)
+§ 29 Übergangsregelungen
 § 30 (In-Kraft-Treten)
