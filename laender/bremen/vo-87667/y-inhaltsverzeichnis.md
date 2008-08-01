@@ -18,8 +18,9 @@ Teil 2 Prüfung
 § 14 | Vornoten der Prüfungsfächer
 § 15 | Erste Prüfungskonferenz
 § 16 | Schriftliche Prüfung
+§ 16a | Prüfungsaufgaben für die Zentrale Prüfung und die Gemeinsame Prüfung
 § 17 | Erwerb der Allgemeinen Hochschulreife
-§ 18 | Projektarbeit
+§ 18 | Projektprüfung
 § 19 | Besondere Lernleistung
 § 20 | Zweite Prüfungskonferenz
 § 21 | Mündliche Prüfung
