@@ -52,5 +52,6 @@ Elfter Abschnitt Gemeinsame Vorschriften, Verfahren und Inkrafttreten
 § 33 Mitwirkungspflichten
 § 34 Beirat
 § 35 Verjährung
+§ 35a Übergangsregelungen
 § 36 Inkrafttreten
 Anlage
