@@ -1,4 +1,3 @@
-## Sächsisches Gesetz zur Förderung von Kindern in Tageseinrichtungen (Gesetz über Kindertageseinrichtungen – SächsKitaG)
 # Inhaltsübersicht
 Abschnitt 1 Begriffe, Aufgaben und Grundsätze
 § 1 Geltungsbereich, Begriffsbestimmungen
@@ -11,7 +10,7 @@ Abschnitt 1 Begriffe, Aufgaben und Grundsätze
 Abschnitt 2 Planung und Betrieb
 § 8 Bedarfsplanung
 § 9 Trägerschaft
-§ 10 Erlaubnis für den Betrieb einer Einrichtung
+§ 10 (aufgehoben)
 § 11 Räumliche Anforderungen
 § 12 Personal
 Abschnitt 3 Finanzierung
