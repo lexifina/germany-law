@@ -1,10 +1,10 @@
-# Anlage - Rahmenstundentafel für doppelqualifizierende Bildungsgänge der Berufsfachschule für Assistenten mit dem Abschluss der Fachhochschulreife
+# Anlage - Rahmenstundentafel für den doppelqualifizierenden Bildungsgang der Berufsfachschule für Assistenten mit dem Abschluss der Fachhochschulreife
 Anlage
-(zu § 4 Abs.1)
-Rahmenstundentafel für doppelqualifizierende Bildungsgänge der Berufsfachschule für Assistenten mit dem Abschluss der Fachhochschulreife
- | Unterrichtsstunden pro Jahr |  | 
- | 1. | 2. | 3.
- |  | Schuljahr | 
+(zu § 4 Absatz 1)
+Rahmenstundentafel für den doppelqualifizierenden Bildungsgang der Berufsfachschule für Assistenten mit dem Abschluss der Fachhochschulreife
+ | Unterrichtsstunden pro Jahr
+Fächer | 1. | 2. | 3.
+ |  | Ausbildungsjahr | 
 Berufsübergreifender Lernbereich |  |  | 
 Deutsch |  |  | 
 Politik |  |  | 
@@ -14,9 +14,9 @@ Naturwissenschaft |  |  |
 Sport |  |  | 
  | 560 | 560 | 560
 Beruflicher Lernbereich |  |  | 
-Fachtheorie | 440 | 360 bis 400 | 320 bis 360
-Fachpraxis | 440 | 480 bis 520 | 520 bis 560
+Fachtheoretischer Bereich | 440 | 360 bis 400 | 320 bis 360
+Fachpraktischer Bereich | 440 | 480 bis 520 | 520 bis 560
  | 880 | 880 | 880
-Gesamtstunden Schülerinnen/Schüler | 1440 | 1440 | 1440
-Gesamtstunden Lehrerinnen/Lehrer | 1440 | 1440 | 1440
+Gesamtstunden Schülerinnen und Schüler | 1 440 | 1 440 | 1 440
+Gesamtstunden Lehrerinnen und Lehrer | 1 440 | 1 440 | 1 440
 Teilung | 440 | 520 | 520

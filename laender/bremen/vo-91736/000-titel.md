@@ -1,1 +1,1 @@
-# Verordnung über doppelqualifizierende Bildungsgänge der Berufsfachschule für Assistenten mit dem Abschluss der Fachhochschulreife (Assistenten-Fachhochschulreife-Verordnung) vom 11. Dezember 1996
+# Verordnung über den doppelqualifizierenden Bildungsgang der Berufsfachschule für Assistenten mit dem Abschluss der Fachhochschulreife vom 31. August 2009

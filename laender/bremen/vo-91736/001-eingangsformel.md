@@ -1,2 +1,2 @@
 # Eingangsformel
-Aufgrund des § 31, des § 33 Abs. 1, des § 40 Abs. 8 und des § 49 in Verbindung mit § 67 des Bremischen Schulgesetzes vom 20. Dezember 1994 (Brem.GBl. S. 327, 1995 S. 129 - 223-a-5) wird verordnet:
+Aufgrund des § 31, des § 33 Absatz 1, des § 40 Absatz 8 und des § 49 in Verbindung mit § 67 des Bremischen Schulgesetzes in der Fassung der Bekanntmachung vom 28. Juni 2005 (Brem.GBl. S.260, 388, 398 -223-a-5), das zuletzt durch Artikel 1 des Gesetzes vom 23. Juni 2009 (Brem.GBl. S. 237) geändert worden ist, wird verordnet:
