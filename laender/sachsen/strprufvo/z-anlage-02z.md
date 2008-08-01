@@ -38,5 +38,5 @@ bis | 5 000 | 48 | 71 | 95 | 119 | 149
  | 25 000 000 | 43 269 | 64 904 | 86 538 | 108 173 | 135 576
 anrechenbare Kosten EUR | Mit dem Tausendstel der anrechenbaren Kosten zu vervielfältigender Gebührensatz in der Bauwerksklasse
 1 | 2 | 3 | 4 | 5
-über |  |  |  |  |  | 
- | 25 000 000 | 1,731 | 2,596 | 3,462 | 4,327 | 5,423“
+über |  |  |  |  | 
+25 000 000 | 1,731 | 2,596 | 3,462 | 4,327 | 5,423
