@@ -16,9 +16,11 @@ Abschnitt 2 Bestimmungen für den Unterricht
 § 12 | Leistungsbewertung und schriftliche Arbeiten
 § 13 | Regelungen für das Fach Sport
 § 14 | Praktikum
+Abschnitt 3 Erwerb der Fachhochschulreife (schulischer Teil)
 § 15 | Belegungsauflagen für den bilingualen Bildungsgang
-Abschnitt 3 Weitere Bestimmungen
-§ 16 | Wiederholen
+Abschnitt 4 Weitere Bestimmungen
+§ 16 | Wiederholung
 § 17 | Aufhebung bisheriger Vorschriften/Übergangsbestimmungen
 § 18 | Außer-Kraft-Treten
-Anlage zu § 7 Abs. 3 und § 13 Abs. 1 | Verzeichnis der Fächer und Sportarten
+Anlage - | Verzeichnis der Fächer (Aufgabenfelder)
+Anlage - | Stundentafel für die Einführungsphase
