@@ -4,8 +4,9 @@ I. Abschnitt Aufgabe und Gegenstand von Denkmalschutz und Denkmalpflege
 § 2 Gegenstand des Denkmalschutzes
 II. Abschnitt Organisation des Denkmalschutzes
 § 3 Denkmalschutzbehörden
+§ 3a Denkmalfachbehörden
 § 4 Zuständigkeit der Denkmalschutzbehörden
-§ 5 Zuständigkeit bei Kulturdenkmalen in staatlichem oder kommunalem Eigentum
+§ 5 (aufgehoben)
 § 6 Denkmalrat
 § 7 Ehrenamtliche Beauftragte für Denkmalpflege
 III. Abschnitt Schutzvorschriften
@@ -40,8 +41,8 @@ IV. Abschnitt Schatzregal, Entschädigung, Enteignung
 V. Abschnitt Straftaten und Ordnungswidrigkeiten
 § 35 Straftaten
 § 36 Ordnungswidrigkeiten
-VI. Abschnitt Schlußbestimmungen
-§ 37 aufgehoben
+VI. Abschnitt Schlussbestimmungen
+§ 37 (aufgehoben)
 § 38 Übergangsbestimmungen
 § 39 Aufhebung von Vorschriften
 § 40 Inkrafttreten
