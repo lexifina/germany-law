@@ -1,3 +1,4 @@
 # Verordnung der Sächsischen Staatsregierung über Zuständigkeiten nach dem Gesetz vom 20. Juli 1981 zur Ausführung des Europäischen Übereinkommens vom 24. November 1977 über die Zustellung von Schriftstücken in Verwaltungssachen im Ausland und des Europäischen Übereinkommens vom 15. März 1978 über die Erlangung von Auskünften und Beweisen in Verwaltungssachen im Ausland
 Vom 5. August 1992
+Rechtsbereinigt mit Stand vom 1. August 2008
 Aufgrund von § 1 Satz 1, § 3 Satz 1 und § 7 Satz 1 des Gesetzes zur Ausführung des Europäischen Übereinkommens vom 24. November 1977 über die Zustellung von Schriftstücken in Verwaltungssachen im Ausland und des Europäischen Übereinkommens vom 15. März 1978 über die Erlangung von Auskünften und Beweisen in Verwaltungssachen im Ausland vom 20. Juli 1981 (BGBl. 1 S. 665) wird verordnet:
