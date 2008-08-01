@@ -1,4 +1,4 @@
-Anhang 3
+# Anhang 3
 Eigenkontrolle von Anlagen, die der Abwasser- und Schlammbehandlung und/oder der Rückgewinnung wertvoller Abwasserinhaltsstoffe nach physikalischen, chemischen oder physikalisch-chemischen Verfahren dienen
 1 Geltungsbereich Die Eigenkontrolle nach Anhang 3 bezieht sich auf die Betriebsvorgänge und die eingesetzten Stoffe sowie auf die daraus resultierende Menge und Beschaffenheit der entstehenden Abwässer und der bei der Abwasserbehandlung anfallenden Rückstände, wenn physikalische, chemische oder kombinierte Verfahren zur Abwasser- und Schlammbehandlung angewendet werden, soweit sie nicht unter Anhang 2 fallen. Die Regelungen gelten auch für Abwasserteilströme. Außerdem kann der Abwasserabfluß nach Abwasserarten, wie Produktionsabwasser, Spülwasser, Kühlwasser, Sanitär- und Sozialabwasser, Niederschlagswasser in die Kontrolle einbezogen werden. Insbesondere gilt Anhang 3 für folgende Abwasserbehandlungsanlagen und -verfahren:
 a)
