@@ -29,7 +29,7 @@ Abschnitt 3 Ausführung der Verwaltungsgerichtsordnung
 § 24 Normenkontrollverfahren
 § 25 Zuständigkeit des Sächsischen Oberverwaltungsgerichts im ersten Rechtszug
 § 26 Widerspruchsbehörde bei Verwaltungsakten einer Polizeidienststelle
-§ 27 Widerspruchsbehörde bei Verwaltungsakten einer Gemeinde, eines Verwaltungsverbandes oder eines Zweckverbandes
+§ 27 Widerspruchsbehörde bei Verwaltungsakten in Selbstverwaltungsangelegenheiten sowie im Vermessungs- , Aufstiegsfortbildungsförderungs-, sozialen Entschädigungs- und Umweltrecht
 Abschnitt 4 Ausführung des Arbeitsgerichtsgesetzes
 § 28 Oberste Landesbehörde
 § 29 Dienstaufsicht
@@ -63,8 +63,7 @@ Abschnitt 2 Erteilung von Unschädlichkeitszeugnissen
 § 51 Verfahren
 § 52 Rechtsbehelfe
 § 53 Wirksamkeit, Grundbuchvollzug
-Abschnitt 3 Genehmigungspflichtiger Grundstücksverkehr
-§ 54 Freigrenzen
+Abschnitt 3 (aufgehoben)
 Teil 5 Ausführung des Vereinsrechts des Bürgerlichen Gesetzbuchs
 § 55 Landesrechtliche Zuständigkeiten
 § 56 Bekanntmachung
@@ -92,3 +91,4 @@ Teil 8 Schlussvorschriften
 § 72 Einschränkung von Grundrechten
 § 73 Änderung und Aufhebung anderer Rechtsvorschriften
 § 74 In-Kraft-Treten, Außer-Kraft-Treten
+Anlage (zu § 1 Abs. 4)
