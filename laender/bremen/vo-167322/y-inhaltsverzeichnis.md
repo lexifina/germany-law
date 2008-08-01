@@ -5,6 +5,8 @@ Teil 1 Ausbildung
 § 2 | Unterrichtsgrundsätze
 § 3 | Organisation, Dauer und förderungsrechtliche Einstufung der Ausbildung
 § 4 | Unterrichtsfächer und Stundentafeln
+§ 4a | Belegungsverpflichtungen für die Qualifikationsphase
+§ 4b | Praktikum
 § 5 | Leistungsbewertung
 § 6 | Voraussetzungen für die Zulassung, Zulassung
 Teil 2 Prüfungen
