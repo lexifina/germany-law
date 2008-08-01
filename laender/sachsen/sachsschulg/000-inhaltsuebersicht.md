@@ -30,6 +30,7 @@
 § 21 Grundsätze
 § 22 Schulträger
 § 23 Aufgaben des Schulträgers
+§ 23a Schulnetzplanung
 § 24 Einrichtung, Änderung und Aufhebung von Schulen
 § 25 Schulbezirk und Einzugsbereich
 3. Teil Schulpflicht
