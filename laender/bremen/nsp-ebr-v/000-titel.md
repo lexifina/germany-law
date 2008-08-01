@@ -1,0 +1,1 @@
+# Verordnung für die Prüfung für Schülerinnen und Schüler nicht anerkannter Ersatzschulen und für Nichtschülerinnen und Nichtschüler zur Erlangung der Erweiterten Berufsbildungsreife (NSP-EBR-V -) vom 20. Juni 2008
