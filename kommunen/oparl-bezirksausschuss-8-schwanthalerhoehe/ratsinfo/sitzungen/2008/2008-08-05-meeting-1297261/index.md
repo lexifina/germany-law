@@ -1,0 +1,82 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2008-08-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1297261
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1297261
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Absolute Halteverbotsschilder und Zufahrt nur für Anwohner während der Wiesnzeit für den Max-Friedlaender-Bogen
+- TOP 3.2.: Schließzeiten Kazmair-Wiese
+- TOP 3.3.: Absperrgitter auf der Theresienwiese
+- TOP 3.4.: Bebauung Thersienhöhe, Baugebiet MK 1, ehem. HVB-Baugrube
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Budgetantrag Kulturladen Westend / Bobsy e.V. vom 10.06.2008 für den Kauf einer Archivsoftware-Lizenz
+- TOP 4.2.: Entscheidung über die Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des OBs vom 26.11.2007 Erweiterung einer Freischankfläche Gollierstr. 39
+- TOP 4.3.: Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes ?Westend? gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007
+- TOP 4.4.: Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes ?Schwanthalerhöhe? gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007
+- TOP 4.5.: Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes ?Theresienhöhe? gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007
+- TOP 4.6.: Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes ?Ridlerstraße? gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007
+- TOP 4.7.: Entscheidung über die Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht de Oberbürgermeisters vom 26.11.2006 Freischankflächenantrag Gollierstr. 54
+- TOP 4.8.: Budgetantrag Initiative Mieterfest am 18.07.2008 Antrag vom 20.06.2008
+- TOP 4.9.: Entscheidung über die Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des OBs vom 26.11.2007 Genehmigung einer Freischankfläche
+- TOP 5: Anhörungen
+- TOP 5.1.: Familienfest St. Rupert am 19.10.2008, Gollierstr. 61
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Perspektive München Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung Grundsatzbeschluss Anhörung bis 25.08.2008 Termin Informationsrunde für BAs 6, 7, 8 und 9 am 25.08.2008, 18-21 Uhr
+- TOP 6.1.2.: Schießstättstr.2 Beschwerden der Bewohner zum nachbarschaftlichen Verhältnis
+- TOP 6.1.3.: Um- und Neugestaltung des Areals zwischen Garmischer Straße (östlich) und Ridlerstraße (südlich), Ridlerstr. 37 (Teiländerung BPlanNr 1370) -Grundsatzbeschluss und weiteres Vorgehen- VorlagenNr. 08-14/V00553
+- TOP 6.1.4.: Bauvorhaben Landsberger Str. 80
+- TOP 6.1.5.: Fernwärme-Gutachten Leitung Bergmannstraße
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Belegungsplan Schwimmbad Ridlerschule
+- TOP 6.2.2.: Gründung einer Kinderkrippe
+- TOP 6.2.3.: 18.jetzt Fest junger Erwachsener im Rathaus am 25. Oktober 2008
+- TOP 6.2.4.: neue Ausgabe des SHZ-Rundbriefes einBlick download unter http://www.shz-muenchen.de/downloadseinblick-2008-2-01.pdf
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.3.1.: Infobrief Ausländerbeirat Nr. 18
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Halteverbotsverlängerung Westendstraße erneute Vorlage, Stellgnahme des BA aus 2007 fehlt in Unterlagen
+- TOP 6.4.2.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Bericht Treffam Budgetantrag neue Theke
+- TOP 7: Erledigungen
+- TOP 7.1.: Sanierung des MKJZ in der Westendstr. 66a
+- TOP 7.2.: Oben Ohne des KJR am 26.07.2008 Anhörung vom 10.07.2008 Zustimmung durch den Vorsitzenden
+- TOP 7.3.: Umspannwerk Bavariapark
+- TOP 7.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5.: Taubenplage und Verschmutzung durch Sperrmüll in der Schießstättstraße 2
+- TOP 7.6.: Winterspiele 2018 Unterbringung der Sportler Schreiben des BA 03/08-T6.1.1
+- TOP 7.7.: Umgehende Instandsetzung der Rolltreppe am Bahnhof Heimeranplatz AntragNr. 02-087B03053 vom 08.04.08 des BA 9
+- TOP 7.8.: Bavariapark Stärkere Kontrollen
+- TOP 7.9.: Umgehende Instandsetzung der Rolltreppe am Bahnhof Heimeranplatz AntragNr. 02-08/B03053 des BA 8 vom 08.04.2008
+- TOP 8: Anträge
+- TOP 8.1.: Aufstellung eines Briefkastens Karl-Spengler-Str. / Carlamaria-Heim-Str.
+- TOP 9: Unterrichtungen
+- TOP 10: Verschiedenes
+- TOP 10.1.: Werbetafeln im öffentlichen Raum; "Kundenstopper"
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Protokoll 06/08 Protokoll 07/08
+- TOP 11.2.: Schriftverkehr 06/08 Schriftverkehr 07/08
+- TOP 11.3.: Unveränderte Fortführung von Gaststätten Schwanthalerstr. 152
+- TOP 11.4.: Unveränderte Fortführung von Gaststätten Westendstr. 21
+- TOP 11.5.: Ausschreibung von Trägerschaften; Qualifizierung der Maßnahmen zum Erhalt von Mietverhältnissen Trägerschaft Sozialregionsverbund Nord/Süd/West mit 5 Sozialregionen Trägerschaft Sozialregionsvebund Ost/Mitte mit 5 Sozialregionen Verträge ür die Haushaltsjahre 2009 - 2011 VorlagenNr. 08-14/V00384
+- TOP 11.6.: Olympia - München 2018 ökologisch - nachhaltig - fair VorlagenNr. 02-08/V00376
+- TOP 11.7.: Zuwendungsbescheid Lilalu e.V. für Umsonst und Draußen vom 17.06.2008
+- TOP 11.8.: Müll gehört in den MÜlleimer - München endlich sauberer machen AntragNr. 08-14/A00008 der BIA
+- TOP 11.9.: Perspektive München Leitlinien, Konzepte, Programme Handlungskonzept: Herausforderungen des soziodemografischen Wandels für die Stadtentwicklung VorlagenNr. 08-14/V00190
+- TOP 11.10.: Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern VorlagenNr. 08-14/V00565
+- TOP 11.11.: Realisierungswettbewerbe "Innovativer Wohnungsbau Hasenbergl" Modellvorhaben e% - Energieeffizienter Wohnungsbau VorlagenNr. 08-14/V00417
+- TOP 11.12.: Europaarbeit des Referates für Stadtplanung und Bauordnung und aktuelle Entwicklungen der "städtischen Dimension" auf europäischer Ebene VorlagenNr. 08-14/V00278
+- TOP 11.13.: Müll gehört in den Mülleimer - München endlich sauberer machen Vorlagen Nr. 08-14/V00008
+- TOP 11.14.: Initiative Europäische Metropolregion München Sachstandsbericht VorlagenNr. 08-14/V00483
