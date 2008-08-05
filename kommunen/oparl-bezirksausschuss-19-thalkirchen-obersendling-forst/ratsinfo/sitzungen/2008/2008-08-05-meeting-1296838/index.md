@@ -1,0 +1,51 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2008-08-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1296838
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1296838
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 01.07.08
+- TOP 2: Anträge
+- TOP 2.1.: "Jeder Mensch hat einen Namen"
+- TOP 2.2.: "Bestandsverpflanzung" - Resolution
+- TOP 2.3: Unterausschuss Budget und Veranstaltungen
+- TOP 2.3.: Intermezzo Spectaculum Mundi
+- TOP 2.4.: Kath. Kirchenstiftung St. Borromäus
+- TOP 2.5.: "miteinander leben in Fürstenried e.V.
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: St.-Maria-Thalkirchen
+- TOP 5.2.: Baumaßnahmen Drygalski-Allee/Herterichstraße
+- TOP 5.3.: Limmatstr.; einschränktes Haltverbot
+- TOP 5.4.: BOB-Haltestelle Solln auch an Werktagen
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Perspektive München; Fortschreibung des Zentrenkonzeptes
+- TOP 6.3.: Denkmal- und Ensembleschutz Dorfkerne
+- TOP 6.7: Unterausschuss Soziales
+- TOP 6.4.: Erweiterung der Mittagsbetreuung Grundschule Berner Straße
+- TOP 6.5.: Mittagsbetreuung Grundschule Walliser Straße
+- TOP 6.6.: Sozialprojekt Thomas-Mann-Gymnasium
+- TOP 6.7.: förderung "treff und tee"
+- TOP 6.8: Entscheidungen
+- TOP 6.9: Anhörungen und Unterrichtungen
+- TOP 6.9.: Feuerstutzenschießen "Haupt"
+- TOP 6.10.: Antrag auf Zweckentfremdung Höglwörther Str. 386
+- TOP 6.11.: Satzungsänderung - Fraktionsstärke; Antrag der Stadtratsfraktion der FDP
+- TOP 6.12.: Antrag auf Zweckentfremdung Buchendorfer Str.27/Hadorfer Str. 10
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
