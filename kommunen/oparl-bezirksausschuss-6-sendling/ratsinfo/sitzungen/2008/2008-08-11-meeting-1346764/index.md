@@ -1,0 +1,61 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2008-08-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1346764
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1346764
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 4: Schulreferat
+- TOP 4.1.: Veranstaltung Kunst in Sendling vom 16.10. bis 19.10.2008
+- TOP 4.2.: Zusammenlegung der dritten Klassen an der Grundschule an der Implerstraße
+- TOP 5: Gaststättenangelegenheiten
+- TOP 5.1.: Freischankfläche Gotzinger Str. 54
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6: Verkehrsangelegenheiten
+- TOP 6.1.: Bericht aus dem Unterausschuss Verkehr vom 29.07.2008
+- TOP 6.2.: Greinerberg 17; Aufhebung des absoluten Haltverbots
+- TOP 6.3.: Haltverbot vor der Hotelanfahrtszone Albert-Roßhaupter-Straße 4
+- TOP 6.4.: Radverkehr - Öffnung von Einbahnstraßen für den Radverkehr entgegen der Einbahnregelung; Schmied-Kochel-Straße und Wackersberger Straße zwischen Esswurmstraße und Implerstraße
+- TOP 6.5.: Berlepschstr. 10; Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 6.6.: Werbetafeln im öffentlichen Raum; "Kunststopper"
+- TOP 6.7.: Vorübergehende Einrichtung eines Parkplatzes auf der Nordwestseite der Margaretenkirche für die Dauer des Neubaus des Pfarrzentrums - <div>Zur Kenntnis genommen</div>
+- TOP 6.8.: Schullauf der Maria-Probst-Realschule, bei der Gaststätte "Flaucher" am 28.07.08
+- TOP 6.9.: Fernwärmebauvorhaben
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 7.1.: Nachbesetzung / Nachbenennung der/des Integrationsbeauftragte/-n bzw. der Mitglieder / Ersatzmitglieder in den Unterausschüssen
+- TOP 7.2.: Neue Stadtteilbroschüre
+- TOP 7.3.: Fest junger Erwachsener am 25.10.2008
+- TOP 7.4.: Gedenkveranstaltung zum 9. November; Namenslesungen in den einzelnen Stadtbezirken
+- TOP 7.5.: Budgetantrag Caritas-Beratungsstelle, Erziehungsberatung; ? 627,-
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bebauungsplan Türkisch-Islamisches-Kulturzentrum; Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2004 Gotzinger Platz / Thalkirchner Str. (östl.) zwischen Kochesee- und Königsdorfer Str.
+- TOP 8.3.: Bebauungsplan Plinganserstraße (westlich), Jägerwirtstraße (nördlich) - Stemmerhof - (Teiländerung des Bebauungsplanes Nr. 37 e mit beiliegendem Grünstrukturplan gemäß § 13 des Baugesetzbuches) - <div>vertagt</div>
+- TOP 8.4.: Nachqualifizierung und Revision der Denkmalliste
+- TOP 8.5.: Bauvorhaben Bruderhofstr. 3
+- TOP 8.6.: Europaarbeit des Referates für Stadtgestaltung und Bauordnung
+- TOP 8.7.: Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern
+- TOP 8.8.: Realisierungswettbewerb "Innovativer Wohnungsbau Hasenbergl"
+- TOP 8.9.: Aufgabe des Vorhabens Magnetschwebebahn
+- TOP 8.10.: Initiative Europäische Metropolregion München
+- TOP 9: Baureferat
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Würzstraße 1
+- TOP 10.2.: Baumfällungen Sylvensteinstraße 4 - 10 und Bavariastraße 17
+- TOP 10.3.: Fachhearing zum Thema Baumschutz am 16.10.2008
+- TOP 10.4.: Belästigung durch Grillen und Feuer am Flaucher
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Implerstraße 69; Vermietung städtischer Räumlichkeiten
+- TOP 13.2.: Postfiliale Kochelseestraße
