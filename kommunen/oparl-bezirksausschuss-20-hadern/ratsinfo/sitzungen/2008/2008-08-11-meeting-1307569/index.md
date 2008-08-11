@@ -1,0 +1,90 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2008-08-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1307569
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1307569
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Veranstaltung eines Flohmarktes am 26.09.08 durch den Elternbeirat "Spielkiste Blumenau e.V." in der Senftenauerstr. 185
+- TOP 1.2.: Ausweisung einer Kurzparkzone auf dem Platz vor der St. Kosmas Apotheke am Holzapfelkreuth
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.2.: UA Budget
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Höchstgeschwindigkeit von 60 km/h auf allen örtlichen Bundesautobahnen (2 Anträge) (SPD-Fraktion)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Wiedereröffnung der Toilettenanlage am Lorettoplatz (abgelehnt), BV-Empfehlung Nr. 1054 des 19. Stadtbezirkes (Kommunalreferat, 21.07.08)
+- TOP 5.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des OB, Heiglhofstr. 11 "Cafe Widmann" (Kreisverwaltungsreferat, 18.07.08)
+- TOP 5.3.: Antrag der Caritas-Beratungsstelle, Erziehungsberatung auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 627,- ? (Direktorium, 22.07.08)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: PERSPEKTIVE MÜNCHEN - Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung (Referat für Stadtplanung und Bauordnung, 27.06.08) (vertagt aus 07/08)
+- TOP 6.2.: Stadtjugendamt / Förderung freier Träger, Projekt: Nachbarschaft Neuhadern, Bewohnertreff (Sozialreferat, 16.07.08)
+- TOP 6.3.: Erinnerungsverfahren, Fürstenrieder Str. 207, Jet-Tankstelle (Baureferat, 24.07.08)
+- TOP 6.4.: Erinnerungsverfahren, Fürstenrieder Str. 210, Allguth-Tankstelle (Baureferat, 24.07.08)
+- TOP 6.5.: Erinnerungsverfahren, Kruckenburgstr. 7-9 (Baureferat, 25.07.08)
+- TOP 6.6.: Erinnerungsverfahren, Großhaderner Str. 4 (Baureferat, 05.08.08)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Gräfelfinger Str. 163, 1 Lärche
+- TOP 7.2.: Leostr. 2, gem. Baumbestandsplan Nr. 17580
+- TOP 7.3.: Steinpilzweg 6 a, gem. Baumbestandsplan Nr. 17643
+- TOP 7.4.: Am Waldrand 38 a, gem. Baumbestandsplan Nr. 17726
+- TOP 7.5.: Rudi-Seibold-Str. 39-41, 2 Scheinakazien
+- TOP 7.6.: Pfundmayerstr. 16, 1 Kiefer, 1 Birke
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Werbetafeln im öffentlichen Raum; "Kundenstopper" (Kreisverwaltungsreferat, 30.06.08)
+- TOP 8.2.: Baumaßnahmen der SWM, Stromprojekt Stiftsbogen (SWM, 03.07.08)
+- TOP 8.3.: Unveränderte Fortführung, "Schienhammer", Großhaderner Str. 47 (Kreisverwaltungsreferat, 11.07.08)
+- TOP 8.4.: Die Bürgerversammlung wieder den Bürgern! Begrenzung der Redezeit von Amtsträgern und Stadtvertretern auf maximal 1,5 Stunden, Antrag der Freien Wähler vom 30.06.08 (Schreiben des Oberbürgermeisters, 16.07.08)
+- TOP 8.5.: Fortbildung der neuen Bezirksausschussmitglieder zu Themen des Planungsreferates, mit denen der Bezirksausschuss befasst ist (Referat für Stadtplanung und Bauordnung, 15.07.08)
+- TOP 8.6.: Daten Kinderkrippen, Stand: 01.07.2008 (Sozialreferat, 22.07.08)
+- TOP 8.7.: Information über das Betriebskonzept der U3 / U6 während der Arbeiten im U-Bahnhof Münchner Freiheit und im Stellwerk Implerstraße (MVG, 16.07.08)
+- TOP 8.8.: Wahl der Seniorenvertretung 2009, Vorstellungsrunden der Kandidatinnen und Kandidaten (Sozialreferat, 21.07.08)
+- TOP 8.9.: Gleissperrung Tram vom 04.08. mit 15.09.08 (MVG, 24.07.08)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Verstopfte Gullys in der Tischlerstr. (Münchner Stadtentwässerung, 04.07.08)
+- TOP 9.2.: Reparatur des Zauns am Phantasiegarten (Baureferat, 10.07.08)
+- TOP 9.3.: Entwurmungsaktion für Füchse in Hadern (Kreisverwaltungsreferat, 17.07.08)
+- TOP 9.4.: Streetwork-Anlaufstelle in Hadern - Blumenau (Sozialreferat, 21.07.08)
+- TOP 9.5.: Bordsteinabsenkungen Autobahnübergang Blumenau (Baureferat, 28.07.08)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: REWE-Geschäft in der Pfingstrosenstraße (REWE-Group, 23.07.08)
+- TOP 11: Verschiedenes
+- TOP 11.1.: 18. jetzt - Fest junger Erwachsener im Rathaus am 25.10.2008 (Direktorium, 09.07.08)
+- TOP 11.2.: Landschaftspark Laim-Hadern-Pasing; Ablagerung von Abraum (Schreiben des BA 25, 16.07.08)
+- TOP 11.3.: Dokumentation des Projekts Push an der Hauptschule an der Guardinistraße
+- TOP 11.4.: Ergänzung der Autobahnhinweisschilder an der Kreuzung Krokusstr. / Silberdistelstr. mit einem Hinweis auf die A 99 und zur Autobahn in Richtung Stuttgart (Schr. BA 21, 16.07.08)
+- TOP 11.5.: Geschäftsbericht der Unfallkasse München, Geschäftsjahr 2007 (Unfallkasse München, 09.07.08)
+- TOP 11.6.: Fachhearing zum Thema Baumschutz und Vollzug der BaumschutzVO am 16.10.08 um 16.00 Uhr im Großen Sitzungssaal des Neuen Rathauses (Baureferat, 22.07.08)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.1.: Beschluss vom 02.07.2008: Neubestellung des Heimatpflegers der Landeshauptstadt München (Gert F. Joergens) und seines Vertreters (Heinrich Maluche)
+- TOP 12.2.: Beschluss vom 02.07.2008: Olympia - München 2018, ökologisch - nachhaltig - fair
+- TOP 12.3.2: Referentenanträge
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.06.2008: Änderung des aktuellen Verkehrsentwicklungsplans: Herausnahme des Tram-Streckenasts vom Waldfriedhof zum Lorettoplatz, BA-Antrag Nr. 2975 vom 10.03.2008 mit Stellungnahmen des Referates für Arbeit und Wirtschaft (Seite 4) und des Planungsreferates (Anlage 6): Einer späteren Realisierung des Tram-Abzweigs von der Westtangente zum Lorettoplatz darf Nichts entgegenstehen.
+- TOP 12.2.: Beschluss des Sozialausschusses vom 03.07.2008: Ausschreibung von Trägerschaften, Qualifizierung der Maßnahmen zum Erhalt von Mietverhältnissen Trägerschaft Sozialregionsverbund Nord / Süd / West mit 5 Sozialregionen Trägerschaft Sozialregionsverbund Ost / Mitte mit 5 Sozialregionen, Verträge für die Haushaltsjahre 2009 bis 2011
+- TOP 12.3.: Beschluss des Bauausschusses vom 08.07.2008: Müll gehört in den Mülleimer - München endlich sauberer machen!
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008: "Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern!", insbesondere zu den "Münchner Krautgärten" (Seite 17)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008: Europaarbeit des Referats für Stadtplanung und Bauordnung und aktuelle Entwicklungen der "städtischen Dimension" auf europäischer Ebene
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.2008: PERSPEKTIVE MÜNCHEN - Leitlinie, Konzepte, Programme Handlungskonzept: Herausforderungen des soziodemografischen Wandels für die Stadtentwicklung (vertagt)
+- TOP 12.2.: Beschluss des Sozialausschusses vom 29.05.2008: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2008 - 2012, Einzelplan 4 / Sozialbereich, insbesondere zum ASZ am Stiftsbogen (Seite 18 - 19 + Anlage 9)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008: Realisierungswettbewerbe "Innovativer Wohnungsbau Hasenbergl" Modellvorhaben e% - Energieeffizienter Wohnungsbau
+- TOP 12.2.: Bekanntgabe in der Sitzung der Vollversammlung vom 23.07.2008: Initiative Europäische Metropolregion München, Sachstandsbericht
+- TOP 13: Nichtöffentliche Sitzung
