@@ -1,0 +1,8 @@
+# TOP 11.: Antrag des Schützenvereins Wehdem auf Gewährung eines Zuschusses aus allgemeinen Haushaltsmitteln 2009 für den Einbau einer Drehscheibenanlage auf dem Schießstand
+
+- Sitzung: Jugend-, Sozial- und Sportausschuss (8. Sitzung) (2008-08-13)
+- Körperschaft: Gemeinde Stemwede
+- Öffentlich: ja
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/3954
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
+- Beratung: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/1732
