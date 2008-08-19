@@ -1,0 +1,6 @@
+# TOP 5.: Erwerb von beweglichem Vermögen für den städt. Bauhof hier: Beschaffung von 2 Streuautomaten und 2 Schneepflügen
+
+- Sitzung: Bau- und Feuerwehrausschuss (21. Sitzung) (2008-08-19)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/6411
