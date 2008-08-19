@@ -1,0 +1,153 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2008-08-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1318232
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1318232
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Evang.-Luth. Stephanuskirche (Az.: 08/08 - 3.4.1): Zuschuss in Höhe von 4873 ? für die Sanierung des Spielplatzes des Kindergartens
+- TOP 2.3.2.: Antrag Verein der Freunde Neuhausens (Az.: 08/08 - 4.1): Zuschuss in Höhe von 300 ? für die Maifeier am 03.05.08
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: Beschlussvorlage KVR (Az.: 04/04 - 3.1.5): Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes "Heßstraße"
+- TOP 2.4.2.: Beschlussvorlage KVR (Az.: 04/04 - 3.1.5): Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes "Kasernenviertel"
+- TOP 2.4.3.: Beschlussvorlage KVR (Az.: 04/04 - 3.1.5): Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes "Volkartstraße"
+- TOP 2.4.4.: Beschlussvorlage KVR (Az.: 04/04 - 3.1.5): Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes "Ebenau"
+- TOP 2.4.5.: Beschlussvorlage KVR (Az.: 08/08 - 4.2): Entscheidung über eine Freischankfläche, Bäckerei Elvirastr. 17 a
+- TOP 2.4.6.: Beschlussvorlage KVR (Az.: 08/08 - 4.3): Entscheidung über eine Freischankfläche, "Alis Südfrüchte", Blutenburgstr. 90
+- TOP 2.4.7.: Beschlussvorlage KVR (Az.: 08/08 - 4.4): Entscheidung über eine Freischankfläche, Einzelhandelsgeschäft, Blutenburgstr. 98
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürgeranliegen: Freiheizhalle und Rainer-Werner-Fassbinder-Platz (Parken und Ruhestörung)
+- TOP 3.2.: Bürgeranliegen: Parksituation vor der Bestrahlungspraxis in der Franz-Schrank-Str. 2
+- TOP 3.3.: KVR: Zeitlich beschränktes Haltverbot Yorck-/Taxisstraße
+- TOP 3.4.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Gabrielenstraße, östlich des Anwesens Blutenburgstr. 55
+- TOP 3.5.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Lorschstr. 3
+- TOP 3.6.: KVR: Anhörung zum 23. München Marathon am 12.10.08
+- TOP 3.7.: Baumaßnahmen der Stadtwerke im Juli 08
+- TOP 3.8.: KVR: Verkehrsrechtliche Anordnung vom 24.07. - 30.09.08 in der Arnulfstraße zwischen Hausnr. 195 und der Wilhelm-Hale-Straße wegen Fernwärmearbeiten
+- TOP 3.9.: KVR: Bürgeranliegen Lichtzeichenanlage Arnulfstraße / Landshuter Allee (Schreiben BA 9 vom 15.07.08)
+- TOP 3.10.: Baureferat: Bürgeranliegen: Straßenzustand in der Merianstraße (Schreiben BA 9 vom 15.07.08)
+- TOP 3.11.: KVR: Verkehrsrechtliche Anordnung: Absolutes Haltverbot in der Kratzerstraße
+- TOP 3.12.: Bürgeranliegen: Baumaßnahmen im Umkreis Renatastraße kosten Parkplätze
+- TOP 3.13.: MVG: Gleissperrung der Tramlinien 20/21/17/18 vom 04.08. - 15.09.08
+- TOP 3.14.: Stadtwerke: SWM informieren Vertreter der Bezirksausschüsse am 02.04.08 über Baustellen im Versorgungsnetz
+- TOP 3.15.: KVR: Aufhebung des personenbezogenen Behindertenparkplatzes in der Landshuter Allee 148
+- TOP 3.16.: Sozialreferat: Barrierefreie Ausgestaltung der Fußgängerunterführung unter der Landshuter Allee (Antrag BA 9 Nr. 1625 vom 21.11.06)
+- TOP 3.17.: KVR: Neubau einer Lichtsignalanlage an der Kreuzung Wintrichring / In den Kirschen
+- TOP 3.18.: Beschlussvorlage KVR: Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes "Heßstraße"
+- TOP 3.19.: Beschlussvorlage KVR: Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes "Kasernenviertel"
+- TOP 3.20.: Beschlussvorlage KVR: Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes "Volkartstraße"
+- TOP 3.21.: Beschlussvorlage KVR: Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes "Ebenau"
+- TOP 3.22.: Bürgeranliegen: Zuweisung von 20 Parklizenzen für Mitglieder der Kleingartenanlage NW 8 in der Lazarettstr. 57
+- TOP 3.23.: Bürgeranliegen: Kassenautomat vor denkmalgeschützen Anwesen in der Jutastr. 9
+- TOP 3.24.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.08: Verkehrliche Auswirkungen der städtebaulichen Entwicklungsmaßnahme Hauptbahnhof-Laim-Pasing auf Neuhausen-Nymphenburg (Antrag BA 9 Nr. 1715 vom 19.12.06)
+- TOP 3.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.08: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen; Untersuchungen zur künftigen Flughafenanbindung
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 30.06. - 06.07., 07.07. - 13.07., 14.07. - 20.07., 21.07. - 27.07., und 28.07. - 03.08.08
+- TOP 3.2.: Bauvorhaben Franz-Schrank-Str. 10-12: Erweiterung der Betreuungseinrichtung "Atemreich" für 12 Dauer- und 3 Kurzzeitpatienten mit Nutzungsänderung im EG von 12 Schwesternwohnungen in eine Pflegeeinrichtung; hier: Baumfällungen
+- TOP 3.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.08: Realisierungswettbewerbe "Innovativer Wohnungsbau Hasenbergl", Modellvorhaben e% - Energieeffizienter Wohnungsbau
+- TOP 3.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.08: Europaarbeit des Planungsreferates und aktuelle Entwicklungen der "städtischen Dimension" auf europäischer Ebene
+- TOP 3.5.: GEWOFAG - Mieterzentren vor Ort
+- TOP 3.6.: Planungsreferat: Bautennachweise Juni (Schreiben BA 9 vom 15.07.08)
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Entlastung der Fußgängerzone, Umrüstung von Werbesäulen - Vorstellung durch die DSM in der UA-Sitzung
+- TOP 3.9.: Beschluss der Vollversammlung des Stadtrats vom 23.07.08: Dachauer Str. 110-114 und Luitpold-Kaserne, Leonrodplatz, Dachauer Straße (östlich), Schwere-Reiter-Straße (südlich), Infanteriestraße (westlich); Eckdatenbeschluss und weiteres Vorgehen
+- TOP 3.10.: Bauvorhaben Jutastr. 6 - 8: Neubau einer Wohnanlage mit Tiefgarage
+- TOP 3.11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.08: Einbeziehung von Vertretern des Naturschutzes und der Anwohner des Olympiadorfes in die Entwicklungsplanung Olympiapark 2018
+- TOP 3.12.: =&gt; dazu: Grundlagenworkshop Entwicklungsplanung Olympiapark 2018 am 24. und 25.07.08 / Bericht
+- TOP 3.13.: Platzgestaltungswettbewerb für den Rotkreuzplatz (wegen Fahrradweg) - Verweisung aus dem UA Verkehr vom 15.07.08
+- TOP 3.14.: Sitzung der Kommission für Stadtgestaltung am 22.07.08; hier: Rotkreuzplatz 1, Neubau eines Büro- und Geschäftshauses / Bericht
+- TOP 3.15.: Baureferat: Kommission für Kunst am Bau; Stimmrecht des BA 9 (Schreiben BA 9 vom 17.12.07, Wiedervorlage aus der Sitzung vom 15.07.08)
+- TOP 3.16.: Informationsveranstaltung des Planungsreferates am 28.07.08 zur Perspektive München; Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung / Bericht
+- TOP 3.17.: Wilhelmine-Lübke-Haus und Hanebergstraße: Sachstand und weiteres Vorgehen, Teilnahme der GEWOFAG an der UA-Sitzung
+- TOP 3.18.: Bürgeranliegen: Baumfällungen Ysenburgstr. 5 wegen Umbauarbeiten
+- TOP 3.19.: GEWOFAG: Altenheim Heilig Geist, Dom-Pedro-Platz 6, Verbleib des Münchner Kindl und einer Stiftungstafel (Schreiben BA 9 vom 20.05.08, Wiedervorlage aus der Sitzung vom 15.07.08))
+- TOP 3.20.: Bauvorhaben Dom-Pedro-Platz 6: Umbau und Sanierung eines denkmalgeschützten Gebäudes mit Nutzungsänderung vobn Pflegeheim zu Eigentumswohnungen (Wiedervorlage aus der Sitzung vom 15.07.08)
+- TOP 3.21.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.08: Bebauungsplan mit Grünordnung Nr. 1926 a Bereich Birketweg zwischen Hirschgarten, Arnulf-, Schäringer-, Richelstraße, Donnersbergerbrücke und südlich bis Gleisbereich; Auslobung eines Realisierungswettbewerbs für die Teilbereiche MK 3 und MK 4 des Kerngebiets
+- TOP 3.22.: Baureferat: Realisierungswettbewerb für den Neubau einer 5-zügigen Grundschule mit 8-gruppigem Tagesheim und 4-gruppiger Mittagsbetreuung sowie einer weiterführenden Schule in Nymphenburg Süd
+- TOP 3.23.: Planungsreferat: Errichtung einer Werbeanlage an der Waisenhausstr. 17 (Wiedervorlage aus der Sitzung vom 15.07.08)
+- TOP 3.24.: Bauvorhaben Südliches Schlossrondell 21: Teilabbruch, Anbau und Sanierung eines denkmalgeschützten Wohnhauses mit 3 WE, Neubau eines Außenschwimmbads mit Poolhaus; hier: Baumfällungen
+- TOP 3.25.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Artilleriestraße
+- TOP 3.26.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Volkartstraße
+- TOP 3.27.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Blutenburgstraße
+- TOP 3.28.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Lachnerstraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Lazarettstr. 40: Fällung von 3 Ahorn
+- TOP 3.2.: Volpinistr. 29: Fällung von 1 Walnussbaum
+- TOP 3.3.: Volpinistr. 66: Fällung von 1 Pappel
+- TOP 3.4.: Dall'Armistr. 36: Fällung von 2 Fichten
+- TOP 3.5.: Prinzenstr. 59: Fällung von 1 Kiefer
+- TOP 3.6.: Malsenstr. 5: Fällung von 1 Pappel
+- TOP 3.7.: Tizianstr. 12: Fällung von 1 Rotbuche
+- TOP 3.8.: Zamboninistr. 41: Fällung von 1 Baumhasel
+- TOP 3.9.: Tintorettostr. 7: Fällung von 1 Lärche
+- TOP 3.10.: Walhallastr. 32: Fällung von 1 Esche
+- TOP 3.11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.08: "Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern !"
+- TOP 3.12.: Planungsreferat: Informationsveranstaltung für die neugewählten Baumschutzbeauftragten der Bezirksausschüsse am 31.07.08 / Bericht
+- TOP 3.13.: Planungsreferat: Fällungsgenehmigung Montenstr. 2
+- TOP 3.14.: Planungsreferat: Fällungsgenehmigung Biterolfstr. 11
+- TOP 3.15.: Planungsreferat: Fällungsgenehmigung Sustrisstr. 2
+- TOP 3.16.: Aiblingerstr. 9: Fällung von 1 Tanne, 1 Eibe, 1 Buche und 1 Fichte
+- TOP 3.17.: Baureferat: Terminankündigung für ein Fachhearing zum Thema Baumschutz und dem Vollzug der Baumschutzverordnung am 16.10.08
+- TOP 3.18.: Baureferat: Öffentlichkeitskampagne zur Steigerung der Sauberkeit im öffentlichen Raum "Rein. Und Sauber" (Schreiben BA 9 vom 17.06.08) =&gt; dazu: Benennung von Standorten für Müllbehälter durch UA-Mitglieder (Wiedervorlage aus der Sitzung vom 15.07.08)
+- TOP 3.19.: Beschluss der Vollversammlung des Stadtrats vom 02.07.08: Olympia - München 2018 , ökologisch - nachhaltig - fair
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Antrag Evang.-Luth. Stephanuskirche: Zuschuss in Höhe von 4873 ? für die Sanierung des Spielplatzes des Kindergartens
+- TOP 3.2.: Direktorium: 18.jetzt - Fest junger Erwachsener im Rathaus am 25.10.08
+- TOP 3.3.: Sozialreferat: Daten Kinderkrippen Juli 2008
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Bewohnertreff Arnulfpark: Stadtwerke finanzieren Bildungsprojekt für Grundschüler im Arnulfpark
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.9.: Beschluss des Sozialausschusses vom 03.07.08: Ausschreibung von Trägerschaften, Qualifizierung der Maßnahmen zum Erhalt von Mietverhältnissen
+- TOP 3.10.: Sozialreferat: Kinderkrippe Kolibri e.V., Finanzierung des Umzugs (Schreiben BA 9 vom 17.06.08)
+- TOP 3.11.: Planungsgespräch zur Gestaltung des neuen Jugendspielplatzes zwischen der Friedenheimer- und der Donnersbergerbrücke / Bericht
+- TOP 3.12.: Einrichtung einer 3. Eintrittsklasse am Adolf-Weber-Gymnasium (Antrag aus der Rathaus-Umschau)
+- TOP 3.13.: Bayerische Schlösser- und Seenverwaltung: Verein Erholungspark für Kriegs- und Körperbeschädigte in der Taxisstraße (Schreiben BA 9 vom 17.06.08)
+- TOP 3.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.15.: =&gt; dazu: Bürgeranliegen: Grundschule Südliche Auffahrtsallee =&gt; dazu: Schulmisere durch verzögerte Planung der Grundschule im Neubaugebiet Nymphenburg Süd (Antrag aus der Rathaus-Umschau)
+- TOP 3.16.: Bürgeranliegen: Projekt-Seminar "Politik vor Ort; Gestaltung und Nutzung öffentlicher Plätze und Räume in Neuhausen-Nymphenburg" im Käthe-Kollwitz-Gymnasium
+- TOP 3.17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.18.: Bürgeranliegen: Schulsportgelände an der Grundschule Gertrud-Bäumer-Straße / FC Teutonia
+- TOP 3.19.: GEWOFAG: Projekt Wilhelmine-Lübke-Haus (Schreiben BA 9 vom 20.05.08)
+- TOP 3.20.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.06.08: Perspektive München - Leitlinien, Konzepte, Programme; Handlungskonzept; Herausforderungen des soziodemografischen Wandels für die Stadtentwicklung (Wiedervorlage aus der Sitzung vom 15.07.08)
+- TOP 3.21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.22.: Bürgeranliegen: Grundschule Nymphenburg Süd - aktueller Stand
+- TOP 3.23.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.24.: Sozialreferat: Kinder- und Jugendfreizeitstätte im Neubaugebiet Birketweg (Antrag BA 9 Nr. 3013 vom 18.03.08)
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.1.: Kulturreferat: Veranstaltungen im Juli 2008
+- TOP 3.2.: Sozialreferat: Serenade im Park (Schreiben BA 9 vom 17.06.08)
+- TOP 3.3.: Stadtwerke: Bücherinsel Romanplatz für Stadtteilkultur zur Verfügung stellen (Antrag BA 9 Nr. 48 vom 20.05.08) Wiedervorlage aus der Sitzung vom 15.07.08
+- TOP 3.4.: Kulturreferat: Protokoll des 4. Informations- und Arbeitstreffens zur Stadtteilkultur am 04.06.08
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Antrag Verein der Freunde Neuhausens: Zuschuss in Höhe von 300 ? für die Maifeier am 03.05.08
+- TOP 4.2.: Beschlussvorlage KVR: Entscheidung über eine Freischankfläche, Bäckerei Elvirastr. 17 a
+- TOP 4.3.: Beschlussvorlage KVR: Entscheidung über eine Freischankfläche, "Alis Südfrüchte", Blutenburgstr. 90
+- TOP 4.4.: Beschlussvorlage KVR: Entscheidung über eine Freischankfläche, Einzelhandelsgeschäft, Blutenburgstr. 98
+- TOP 4.5.: Bürgeranliegen: Straßenbild Volkartstraße
+- TOP 4.6.: Direktorium: Grundsätze der Zusammenarbeit mit den BA-Geschäftsstellen, BA-Vorsitzenden und BA-Mitgliedern / Treffen der BA-Vorsitzenden am 25.07.08 / Antrag BA 5
+- TOP 4.7.: Planungsreferat: Fortbildung der neuen BA-Mitglieder zu Themen des Planungsreferates
+- TOP 4.8.: KVR: Werbetafeln im öffentlichen Raum; "Kundenstopper"
+- TOP 4.9.: KVR: Cafeteria MAHAG, Albrechtstr. 16; Neuerrichtung des Gaststättenbetriebes
+- TOP 4.10.: KVR: Pächterwechsel a) "La Brasserie", Hirschgartenallee 41 b) "Fasaneriehof", Fasaneriestr. 3 c c) "Il Fiore", Blutenburgstr. 37 d) "Indisches Restaurant "Tulsi", Blutenburgstr. 15
+- TOP 4.11.: KVR: Weinfest auf dem Rotkreuzplatz vom 06. - 07.09.08
+- TOP 4.12.: KVR: Flohmarkt neben Spielplatz im Arnulfpark am 27.09.08
+- TOP 4.13.: Sozialreferat: Wahl der Seniorenvertretung 2009; Vorstellungsrunden der Kandidaten
+- TOP 4.14.: KVR: Änderungsbescheid Holsteiner Friesenmarkt, nun vom 12.09. - 17.09.08 auf dem Rotkreuzplatz
+- TOP 4.15.: Kommunalreferat: Beschluss des Kommunalausschusses vom 05.06.08 zum Mehrjahresinvestitionsprogramm 2008-2012 (Schreiben BA 9 vom 15.07.08)
+- TOP 4.16.: Bekanntgabe in der Sitzung der Vollversammlung des Stadtrats vom 23.07.08: Initiative Europäische Metropolregion München, Sachstandsbericht
+- TOP 5.: Verschiedenes
