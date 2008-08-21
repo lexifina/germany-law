@@ -1,0 +1,76 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-08-21T16:00:00+02:00
+- Ende: 2008-08-21T19:00:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2219
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2219
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096797.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096797.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096797.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Schloss Eller - zur Kenntnis genommen
+- TOP 4: Arbeitskreis Grundwasser - zur Kenntnis genommen
+- TOP 5: S-Bahnhof - Sanierungen in Eller - beantwortet
+- TOP 6: Postagentur Unterbach - beantwortet
+- TOP 7: Ausbau Ronsdorfer Straße - beantwortet
+- TOP 8: Musikprojekt 'Jedem Kind ein Instrument' - beantwortet
+- TOP 9: Erweiterungsbau Vennhauser Allee 248 - beantwortet
+- TOP 10: Baumpflanzung Daneköthen - beantwortet
+- TOP 11: Kanalisation Gerresheimer Landstraße - beantwortet
+- TOP 12: Fahrbahnbelag Kamper Weg - beantwortet
+- TOP 13: Kommunale Beihilfe zur Einschulung - beantwortet
+- TOP 14: Schulsekretäre/Schulsekretärinnen - beantwortet
+- TOP 15: Zerkarienplage am Unterbacher See - beantwortet
+- TOP 16: Straßenbauarbeiten im Stadtbezirk 8 - beantwortet
+- TOP 17: Maßnahmen zur Förderung des Radverkehrs im Stadtbezirk 8 - beantwortet
+- TOP 18: Masterplan Bolzplätze im Stadtbezirk 8 - beantwortet
+- TOP 19: Lichtzeichenanlage Deutzer Straße - beantwortet
+- TOP 20: Toilettenanlage auf dem Gertrudisplatz - beantwortet
+- TOP 21: Schloss Eller - beantwortet
+- TOP 22: Gänse am Unterbacher See - mehrheitlich abgelehnt
+- TOP 23: Mehrgenerationenflächen im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 24: Gaslaternen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 25: Dreifachturnhalle Unterbach - einstimmig beschlossen
+- TOP 26: Lehrerparkplätze GGS Vennhauser Allee und Peter-Härtling-Schule - einstimmig beschlossen
+- TOP 27: Spielplatz Coburger Weg - einstimmig beschlossen
+- TOP 28: Hundeauslaufplatz Am Stufstock - einstimmig beschlossen
+- TOP 29: Querungshilfe Höherweg - mehrheitlich beschlossen
+- TOP 30: Mitteilung von Baumaßnahmen - einstimmig beschlossen
+- TOP 31: Parkplatzbeschilderung Vennhauser Allee - einstimmig beschlossen
+- TOP 32: Sanierung der Fahrbahndecke Kamper Weg - einstimmig beschlossen
+- TOP 33: Sauberkeitsoffensive Eller-Mitte - mehrheitlich beschlossen
+- TOP 34: Kinderspielplatz Am Schwalbenberg - einstimmig beschlossen
+- TOP 35: Gesamtkonzept Unterbacher See, Elbsee und Menzelsee - mehrheitlich abgelehnt
+- TOP 36: Sachstandsbericht zum Lärmaktionsplan - einstimmig beschlossen
+- TOP 37: Schloss Eller - Mietpreise - mehrheitlich abgelehnt
+- TOP 38: Unterführungen der Deutschen Bahn AG im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 39: Fahrtkostenerstattung für Hartz IV-Empfänger zur ARGE - zurückgezogen
+- TOP 40: Gleisbeuarbeiten Erkrather Straße / Reisholzer Straße - zur Kenntnis genommen
+- TOP 41: Bürgerhaus Eller - zur Kenntnis genommen
+- TOP 42: Verunreinigungen Eselsbach - zur Kenntnis genommen
+- TOP 43: Farbcode-System an der Haltestelle Schlesische Straße - zur Kenntnis genommen
+- TOP 44: Friedhofssatzung - zur Kenntnis genommen
+- TOP 45: Streckenführung Linie 715 - zur Kenntnis genommen
+- TOP 46: Parkplatzhinweisschilder Posener Straße - zur Kenntnis genommen
+- TOP 47: Fuß- / Radweg Karlsruher Straße - zur Kenntnis genommen
+- TOP 48: Ludwigstraße, Aufpflasterung - zur Kenntnis genommen
+- TOP 49: Verkehrsüberwachung An der Schützenwiese - zur Kenntnis genommen
+- TOP 50: Fahrbahndeckensanierungen und Wegereparaturen - zur Kenntnis genommen
+- TOP 51: Parksituation Hasseler Richtweg - zur Kenntnis genommen
+- TOP 52: Sicherung der Uferzonen im Elbsee - zur Kenntnis genommen
+- TOP 53: Renaturierung Südliche Düssel - zur Kenntnis genommen
+- TOP 54: Bahnunterführung Gumbertstraße, Taubenabwehrmaßnahme - zur Kenntnis genommen
+- TOP 55: Verkehrsführungen Vennhauser Allee / Eller Kamp und Kamper Weg / Eller Kamp - zur Kenntnis genommen
+- TOP 56: Veehstraße - Haltverbot - zur Kenntnis genommen
+- TOP 57: Bushaltestelle Freiheitplatz - zur Kenntnis genommen
+- TOP 58: Gerresheimer Landstraße - Feuerwehrzufahrt - zur Kenntnis genommen
+- TOP 59: Schulleiterstellen und Religionsunterricht an Grundschulen im Stadtbezirk 8 - zur Kenntnis genommen
