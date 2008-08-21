@@ -3,7 +3,7 @@ Abschnitt 1 Aufgaben und Organisation der Gemeindekasse
 § 1 Aufgaben der Gemeindekasse
 § 2 Fremde Kassengeschäfte
 § 3 Zahlstellen
-§ 4 Handvorschüsse, Einnahmekassen und Zahlungen mit Hilfe von Automaten
+§ 4 Handvorschüsse, Einzahlungskassen und Zahlungen mit Hilfe von Automaten
 § 5 Einrichtung und Geschäftsgang der Gemeindekasse
 § 6 Automatisierte Verfahren
 Abschnitt 2 Kassenanordnungen
@@ -24,35 +24,28 @@ Abschnitt 4 Verwaltung der Kassenmittel und Wertgegenstände
 § 19 Aufbewahrung und Beförderung von Zahlungsmitteln
 § 20 Verwahrung von Wertgegenständen
 § 21 Verwahrung von anderen Gegenständen
-Abschnitt 5 Buchführung
-Unterabschnitt 1 Allgemeines
+Abschnitt 5 Buchführung, Belege und Aufbewahrung
 § 22 Grundsätze für die Buchführung
-§ 23 Form und Sicherung der Bücher
-Unterabschnitt 2 Bücher für Einnahmen und Ausgaben
-§ 24 Zeitliche und sachliche Buchung
+§ 23 Kontenrahmen
+§ 24 Bücher
 § 25 Zeitbuch
-§ 26 Buchungstag
-§ 27 Sachbuch
-§ 28 Buchungen im Sachbuch
-§ 29 Weitere Bücher
-§ 30 Absetzungen von Einnahmen und Ausgaben
-Unterabschnitt 3 Tagesabschluss, Zwischenabschluss und Jahresabschluss
-§ 31 Tagesabschluss
-§ 32 Zwischenabschluss des Zeit- und Sachbuches
-§ 33 Jahresabschluss
-§ 34 Belege
-§ 35 Aufbewahrung der Jahresrechnung, der Bücher und Belege
+§ 26 Buchungen im Zeitbuch
+§ 27 Hauptbuch
+§ 28 Buchungen im Hauptbuch
+§ 29 Absetzungen von Einzahlungen und Auszahlungen sowie von Erträgen und Aufwendungen
+§ 30 Tagesabschluss
+§ 31 Zwischenabschluss
+§ 32 Jahresabschluss
+§ 33 Belege
+§ 34 Aufbewahrung der Eröffnungsbilanz, Jahresabschlüsse, Bücher, Belege und des Inventars
 Abschnitt 6 Besorgung von Kassengeschäften durch Stellen außerhalb der Gemeindeverwaltung
-§ 36 Zahlungsverkehr
-§ 37 Buchführung
-§ 38 Gewährleistung der ordnungsgemäßen Besorgung durch andere Maßnahmen
-Abschnitt 7 Sonderkassen
-§ 39 Allgemeines
-§ 40 Sonderregelung bei kaufmännischer Buchführung
-Abschnitt 8 Begriffsbestimmungen, Übergangs- und Schlussvorschriften
-§ 41 Schriftform
-§ 42 Einheitliche Buchführung für die Gemeindekasse und Sonderkassen
-§ 43 Begriffsbestimmungen
-§ 44 (aufgehoben)
-§ 45 Anwendung auf die Landkreise und andere juristische Personen des öffentlichen Rechts
-§ 46 In-Kraft-Treten und Außer-Kraft-Treten
+§ 35 Zahlungsverkehr durch Dritte
+§ 36 Buchführung durch Dritte
+§ 37 Gewährleistung der ordnungsgemäßen Besorgung durch andere Maßnahmen
+Abschnitt 7 Sonderkassen, Begriffsbestimmungen, Übergangs- und Schlussvorschriften
+§ 38 Sonderkassen
+§ 39 Schriftform
+§ 40 Begriffsbestimmungen
+§ 41 Ersetzung von Begriffen
+§ 42 Anwendungsbereich, Übergangsbestimmungen
+§ 43 Inkrafttreten und Außerkrafttreten
