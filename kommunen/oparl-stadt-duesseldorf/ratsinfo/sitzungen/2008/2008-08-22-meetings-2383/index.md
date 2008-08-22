@@ -1,0 +1,57 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-08-22T14:00:00+02:00
+- Ende: 2008-08-22T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2383
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2383
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126270.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126270.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126270.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung Sachverständige - mehrheitlich beschlossen
+- TOP 4: FNP-Änderung Nr. 125 - Kö-Bogen - mehrheitlich abgelehnt
+- TOP 5: B-Plan Nr. 5477/123 - Kö-Bogen - mehrheitlich abgelehnt
+- TOP 6: Wettbewerbsverfahren Kö-Bogen - mehrheitlich abgelehnt
+- TOP 7: Gutachterverfahren Schwannstraße - einstimmig beschlossen
+- TOP 8: B-Plan Nr. 5579/059 - Schlachthof-Einstellung - einstimmig beschlossen
+- TOP 9: BPl5579/056-Schlösser-Einstellung - einstimmig beschlossen
+- TOP 10: 61/12/1854 - Nördliches Derendofr - Änderung Aufstellung - einstimmig beschlossen
+- TOP 11: Flächennutzungsplanänderung Nr. 144 - einstimmig beschlossen
+- TOP 12: BPl Nr. 5579/062-FH Campus Aufst. ÖB - einstimmig beschlossen
+- TOP 13: Bauvor Andreasstr 4-8 Umnutzung Stadthaus - mehrheitlich beschlossen
+- TOP 14: Neustraße 33 - einstimmig beschlossen
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Straßenverkehrslärmberechnungen - zur Kenntnis genommen
+- TOP 18: Optimierung des ruhenden Verkehrs - zur Kenntnis genommen
+- TOP 19: Wahl einer Schiedsperson
+- TOP 20: Aktion "Blühendes Düsseldorf" - einstimmig beschlossen
+- TOP 21: Park-, Gneisenau-, Goebenstraße - einstimmig beschlossen
+- TOP 22: Schwerlastverkehr Heinrich-Erhardt-Straße/ Ulmenstraße - einstimmig beschlossen
+- TOP 23: Marktplatz - einstimmig beschlossen
+- TOP 24: Jülicher-/Tußmannstraße - einstimmig beschlossen
+- TOP 25: Hofgartenrampe - einstimmig beschlossen
+- TOP 26: Kennedydamm - einstimmig beschlossen
+- TOP 27: Eislaufbahn - einstimmig beschlossen
+- TOP 28: Liesegangstraße - einstimmig beschlossen
+- TOP 29: Pfalz-/Schwerinstraße - einstimmig beschlossen
+- TOP 30: Kasernenstraße - einstimmig beschlossen
+- TOP 31: Kö-Bogen - einstimmig beschlossen
+- TOP 32: Münsterstraße - einstimmig beschlossen
+- TOP 33: Weihnachtsmarkt - einstimmig beschlossen
+- TOP 34: Collenbachstraße - einstimmig beschlossen
+- TOP 35: Kaiserswerther Straße
+- TOP 36: Carlsplatz - zur Kenntnis genommen
+- TOP 37: Tannenstraße - zur Kenntnis genommen
+- TOP 38: Kaiserswerther-/Uerdinger Straße - zur Kenntnis genommen
+- TOP 39: Bekämpfung der Armut - zur Kenntnis genommen
+- TOP 40: Mitteilungen der Verwaltung - zur Kenntnis genommen
