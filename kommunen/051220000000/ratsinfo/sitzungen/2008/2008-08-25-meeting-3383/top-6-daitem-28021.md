@@ -1,0 +1,7 @@
+# TOP 6: Freigabe von Finanzmitteln für Investitionsmaßnahmen im Jahr 2008
+
+- Sitzung: Bezirksvertretung Wald (2008-08-25)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/28021
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/8082
