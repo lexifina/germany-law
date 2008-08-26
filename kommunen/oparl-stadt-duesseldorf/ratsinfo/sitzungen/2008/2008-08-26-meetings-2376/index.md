@@ -1,0 +1,71 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-08-26T17:00:00+02:00
+- Ende: 2008-08-26T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2376
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2376
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126275.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126275.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126275.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Postfiliale Märkische Straße
+- TOP 4: Ursula-Trabalski-Straße 47
+- TOP 5: Friedingstraße 76
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Optimierung des ruhenden Verkehrs
+- TOP 8: Sportanlage Staufenplatz 10 BFB Staufenplatz 10, 2. BA
+- TOP 9: 100 Jahre Gerresheim bei Düsseldorf
+- TOP 10: Umbau des Sitzungssaales Rathaus Gerresheim
+- TOP 11: Verwendung von Haushaltsmitteln
+- TOP 12: Nahversorgung in der Siedlung Knittkuhl
+- TOP 13: Veränderung des Grundwasserspiegels in Gerresheim
+- TOP 14: Theodor-Andresen-Schule bei Wikipedia
+- TOP 15: Zwischennutzungen im Glashüttengelände
+- TOP 16: Überprüfung einer Ampelschaltung
+- TOP 17: Sondergutachten für die Gestaltung S-Bahnhof Gerresheim
+- TOP 18: Bebauungsplan für den Bereich Düsselpark ...
+- TOP 19: Museum für Glas und Stadtteilgeschichte
+- TOP 20: 80.000 m² Gewerbefläche auf dem Glashüttengelände
+- TOP 21: Zufahrten Bergische Landstraße 35 - 43
+- TOP 22: Nutzung von Treppen in Knittkuhl
+- TOP 23: Entfernung Sträucher ARAL-Tankstelle Bergische Landstraße
+- TOP 24: Werkstattverfahren Glashütte
+- TOP 25: Überplanung der Benderstraße
+- TOP 26: Nasse Keller in der Straße Im Eulenthal
+- TOP 27: Verkehrsführung: Brücke an der Rampenstraße
+- TOP 28: Kindergarten in Hubbelrath
+- TOP 29: Fahrtkostenerstattung bei Einladung der ARGE
+- TOP 30: Lärmaktionsplan
+- TOP 31: DB-Unterführungen
+- TOP 32: Jugendfreizeiteinrichtung in Gerresheim
+- TOP 33: Erziehungsberatung, Schulsozialarbeit
+- TOP 34: Versorgungsquote Betreuungsplätze in Tageseinrichtungen
+- TOP 35: Jugendfreizeiteinrichtung in Hubbelrath/Ludenberg
+- TOP 36: Reiterhof Ludenberg, Bergische Landstarße
+- TOP 37: Denkmalschutz auf dem Glashüttengelände
+- TOP 38: Lärmschutz an Sportplätzen
+- TOP 39: Stratenhofsiedlung
+- TOP 40: Anmeldeverfahren zu weiterführenden Schulen
+- TOP 41: Bunker Apostelplatz , Benderstraße
+- TOP 42: Aloys-Odenthal-Platz/Bürgerhaus Aloys-Odenthal-Platz/Bürgerhaus
+- TOP 43: Renaturierung Pillebach
+- TOP 44: Einsatz von Streetworkern in Gerresheim südlich der Bahn
+- TOP 45: Vernetzte Jugendarbeit im Bereich der BV 7
+- TOP 46: Verwaltungsstruktur südlich des S-Bahnhofs Gerresheim
+- TOP 47: Nachbarschaftswohnung
+- TOP 48: Einführung der blauen Tonne in Düsseldorf
+- TOP 49: Moderationsverfahren Benderstraße
+- TOP 50: S-Bahnhof Gerresheim
+- TOP 51: Vorabinformation über ein späteres Beitragsverfahren
+- TOP 52: Zentrum Plus, Senkung der Raumtemperatur
+- TOP 53: Pferdekoppel Nachbarschaftspark Diepenstraße
+- TOP 54: Nahversorgung in der Siedlung Knittkuhl
