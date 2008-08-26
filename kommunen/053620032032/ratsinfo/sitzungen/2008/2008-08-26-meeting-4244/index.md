@@ -1,0 +1,60 @@
+# Ausschuss für Stadtplanung und Verkehr (29. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2008-08-26T17:00:00+02:00
+- Ende: 2008-08-26T20:55:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfokzSDRxhbwBlTp8rfcysA
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/4244
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZWR0qcGQobJg--fRt6kaOR__-2-MX6Ky7SfLGGERAHBs/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_26.08.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht der Verwaltung über die Ausführung von Beschlüssen/Aufträgen/Empfehlungen aus der Sitzung am 03.06.2008
+- TOP 1.1: Umbesetzung von Arbeitskreisen
+- TOP 1.2: Niederschrift des Arbeitskreises Verkehr vom 13.08.2008
+- TOP 2.: Anregungen und Beschwerden gemäß § 24 GO NRW
+- TOP 2.1: Anregung und Beschwerde gemäß § 24 GO NRW hier: Bebauungsplan KE 274 "Neffelweg", Stadtteil Kerpen; s.a. Anträge der Fraktion Bundnis 90/ Die Grünen und der CDU-Fraktion
+- TOP 2.2: Anregung und Beschwerde gemäß § 24 GO NRW hier: Lage des geplanten Bolzplatzes Vogelrutherfeld s. a. Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 3.: Umsiedlung Manheim
+- TOP 3.1: Niederschrift der 15. Sitzung des Bürgerbeirates Manheim
+- TOP 3.2: Umsiedlung Manheim: Abschluss einer Grundsatzvereinbarung mit RWE Power AG
+- TOP 3.3: Bericht der Verwaltung
+- TOP 4.: Stadtentwicklung
+- TOP 4.1: Blockheizkraftwerk für die restlichen Bebauungspläne im Vogelrutherfeld, Stadtteil Sindorf
+- TOP 4.2: Solare Bau- und Stadtplanung
+- TOP 4.3: Ausbau und Verlegung der A4 - Maßnahmen außerhalb des Planfeststellungsbeschlusses
+- TOP 4.4: Bericht zu den Kontrakten „Wohnbaulandentwicklung“, „Bodenpolitik“ und „Familien- und Kinderfreundlichkeitsprüfung in der Bauleitplanung“ in der Stadt Kerpen
+- TOP 4.5: Bericht zum Kontrakt "Einzelhandelskonzept" der Stadt Kerpen
+- TOP 4.6: Ansiedlung eines Discounters im Stadtgebiet Kerpen; hier: Sindorf-West
+- TOP 4.7: Leitlinien für das Leben in Kerpen für Menschen in der zweiten Lebenshälfte
+- TOP 4.8: Wohnbaulandentwicklung in der Stadt Kerpen
+- TOP 4.8.1: 2. Änderung des Kontraktes "Wohnbaulandentwicklung in der Stadt Kerpen"
+- TOP 4.8.2: Wohnbaulandentwicklung im Stadtteil Buir hier: Wohnbaulandentwicklung am Neuen Weg
+- TOP 4.9: Lärmminderungsplan in der Stadt Kerpen
+- TOP 4.10: Antrag auf Zulassung eines Rahmenbetriebsplanes mit UVP gem. § 52 Abs. 2a BBergG für die Gewinnung von Quarzsand u. Quarzkies „Tagebau Forster Feld" im Stadtteil Manheim
+- TOP 4.11: Infrastruktur im Bereich des Bebauungsplangebietes HO 183 "Wahlenpfad", Stadtteil Horrem
+- TOP 4.12: Sachstandsbericht „Marienfeld“
+- TOP 5.: Bauleitplanung
+- TOP 5.1: Bebauungsplan HO 294/1. Änderung "ZOB - Bahnhof" Stadtteil Horrem Satzungsbeschluss
+- TOP 5.2: Bebauungsplan HO 296/1. Änderung "Gleisdreieck", Stadtteil Horrem Satzungsbeschluss
+- TOP 6.: Verkehrsplanung
+- TOP 6.1: Niederschrift des Arbeitskreises Verkehr vom 13.08.2008
+- TOP 6.2: Niederschrift des Arbeitskreises ÖPNV vom 19.08.2008
+- TOP 6.3: Verkehrsführung am Zentralplatz im Stadtteil Sindorf
+- TOP 6.4: Öffnung der Breite Straße im Stadtteil Sindorf hier: Anträge der CDU-Fraktion vom 18.10.2007 (446.07) und vom 05.03.2008 (129.08)
+- TOP 7.: Neufassung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen
+- TOP 8.: Mitteilungen
+- TOP 9.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 9.1: Fördermittel des Landes NRW für den Umbau von Bahnhöfen
+- TOP 9.2: Sachstandsbericht zum Altlastenkataster
+- TOP 9.3: Luftschadstoffmessung in Buir
+- TOP 9.4: Lärmmessung in Buir/Sindorf
+- TOP 10.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 11.: Mitteilungen
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
