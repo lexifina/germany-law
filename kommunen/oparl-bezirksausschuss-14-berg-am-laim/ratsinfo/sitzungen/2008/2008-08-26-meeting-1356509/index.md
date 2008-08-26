@@ -1,0 +1,93 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2008-08-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1356509
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1356509
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Perspektive München ? Fortschreibung des Zentrenkonzeptes ? Schwerpunkt Nahversorgung
+- TOP 3.1.1.2.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen in Berg am Laim
+- TOP 3.1.2.1.: Einrichtung eines Behindertenparkplatzes beim Technischen Rathaus
+- TOP 3.1.2.2.: Parkplatzsituation in der Gotteszeller Straße
+- TOP 3.1.2.3.: Parkverbote in der Sonnwendjochstr. und Wildenwarter Straße
+- TOP 3.1.2.4.: Neueinrichtung eines Taxistandplatzes in der Neumarkter / Weihenstephaner Str.
+- TOP 3.1.2.5.: Straßenfest auf öff. Verkehrsgrund, Baumkirchner Straße
+- TOP 3.1.2.6.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen
+- TOP 3.1.2.7.: Namenserläuterungen an Straßenschildern
+- TOP 3.2.1.: Stadtteilkulturtage 2009 wieder in Berg am Laim ? Antrag des Unterausschusses
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Räumliche Situation des Sonderpädagogischen Förderzentrums am Innsbrucker Ring
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Wahl der Seniorenvertretung 2009 ? Vorstellungsrunden der Kandidaten
+- TOP 3.4.2.: Ansprechpartner für den Behindertenbeauftragten
+- TOP 3.5.1.: Bürgerkreis Berg am Laim ? Bezuschussung des Straßenfestes
+- TOP 3.5.2.: Zeugnerhof - Bezuschussung des Straßenfestes
+- TOP 3.5.3.: Elternbeirat der Grundschule Berg-am-Laim-Str. - Gestaltung von Pausenhofmauern
+- TOP 3.5.4.: Bezuschussung der Ausstellung ?LehmZiegelStadt? im Technischen Rathaus
+- TOP 3.6: Sonstiges
+- TOP 3.7.1.: Pachemstraße ? Baumbestandsplan
+- TOP 3.7.2.: Berg-am-Laim-Str. ? Baumfällungsantrag
+- TOP 3.7.3.: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Kultfabrik Nachtkantine ? Unveränderte Fortführung
+- TOP 4.1.1.3.: Kultfabrik Bar Roses ? Unveränderte Fortführung
+- TOP 4.1.1.4.: Hohenbrunner Straße ? Abbruchanzeige
+- TOP 4.1.1.5.: Überseeplatz ? Abbruchanzeige
+- TOP 4.1.2.1.: Leistungsprogramm der MVG für die Fahrplanperiode 2009
+- TOP 4.1.2.2.: Informationsbroschüre Erdinger Ringschluss ? Ansprechpartner
+- TOP 4.1.2.3.: Bürgerschreiben Buslinie 185
+- TOP 4.1.3.1.: Lärmsituation im Tunnelbauwerk Innsbrucker Ring
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Fachtag ?10 Jahre Quartierbezogene Bewohnerarbeit?
+- TOP 4.4.2.: Interkulturelles Integrationskonzept
+- TOP 4.4.3.: Diakonie Hasenbergl ? Bescheid
+- TOP 4.5.1.: Bezuschussung städtischer Einrichtungen
+- TOP 4.5.4.: Lilalu e.V. ? Bescheid
+- TOP 4.5.5.: Arbeiterwohlfahrt Berg am Laim ? Bescheid
+- TOP 4.5.6.: Bürgerkreis Berg am Laim ? Bescheid
+- TOP 4.5.7.: Echardingerschule ? Verwendungsnachweis
+- TOP 4.5.8.: Grundsätze zur Zusammenarbeit der Bezirksausschuss-Geschäftsstellen mit den Bezirksausschuss-Vorsitzenden und Bezirksausschuss-Mitgliedern
+- TOP 4.5.9.: Die Bürgerversammlungen wieder den Bürgern! - Begrenzung der Redezeit von Amtsträgern und Stadtvertretern auf maximal 1,5 Stunden
+- TOP 4.6: Sonstige
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 4.5.3.: Elternbeirat Echardingerschule ? Bescheid
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
