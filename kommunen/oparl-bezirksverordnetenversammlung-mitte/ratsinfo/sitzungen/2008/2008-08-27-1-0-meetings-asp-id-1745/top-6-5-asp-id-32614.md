@@ -1,0 +1,6 @@
+# TOP 6.5: Aufstellung des vorhabenbezogenen Bebauungsplans II-125-1 VE im Bezirk Mitte, Ortsteil Tiergarten und die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch und die Beteiligung der Behörden gemäß § 4 Abs. 1 und 2 Baugesetzbuch (BauGB) DS 0818/III Vorlage zur Kenntnisnahme BVV 29.05.2008
+
+- Sitzung: 23. öffentliche/nichtöffentliche Sitzung des Ausschusses für Stadtentwicklung, Sanieren, Bauen und Bebauungspläne (2008-08-27)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=32614
