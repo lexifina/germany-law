@@ -1,0 +1,6 @@
+# TOP 6.3: Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB, der Behördenbeteiligung gem. § 4 Abs. 2 BauGB, die Durchführung der öffentlichen Auslegung zum Bebauungsplanentwurf II-169 gem. § 3 Abs. 2 BauGB und die Weiterführung des Verfahrens zum Bebauungsplan II-169 auf der Grundlage des § 13a des Baugesetzbuchs als beschleunigtes Verfahren ohne Durchführung einer Umweltprüfung nach § 2 Abs. 4 des Baugesetzbuches DS 0779/III Vorlage zur Kenntnisnahme BVV29.05.2008
+
+- Sitzung: 23. öffentliche/nichtöffentliche Sitzung des Ausschusses für Stadtentwicklung, Sanieren, Bauen und Bebauungspläne (2008-08-27)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=32612
