@@ -1,0 +1,56 @@
+# 30. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-08-27T17:02:00+02:00
+- Ende: 2008-08-27T19:21:00+02:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6271
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6271
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00268666.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Anregung der BV Nord an den Rat Nr. 2/2008 "Mitführen von Fahrrädern auf Wochenmärkten" - einstimmig beschlossen
+- TOP 2.2: Antrag der SPD-Fraktion Nr. A-R/0007/2008 vom 21.01.2008 "Ausbildung geht vor! - einstimmig beschlossen
+- TOP 2.3: Antrag A-R/0005/2008 der SPD-Fraktion: Soziale Verantwortung in der öffentlichen Daseinsvorsorge - vertagt
+- TOP 2.4: Antrag der Fraktionsgemeinschaft UWG/ödp an den Rat Nr. A-R/0028/2008 - mehrheitlich beschlossen
+- TOP 2.5: Antrag der CDU-Fraktion an den Rat Nr. A-R/0027/2008, "Solarsiedlung Twenhövenweg" - einstimmig beschlossen
+- TOP 2.6: Antrag der Fraktion Bündnis 90 / Die Grünen / GAL an den Rat Nr. A-R/0030/2008 vom 11.06.2008: "Mittelhafen: Strukturwandel planerisch gestalten" - mehrheitlich beschlossen
+- TOP 2.7: Antrag A-R/0034/2008 der SPD-Fraktion vom 11.06.2008 an den Rat "Münster für alle/ Die Stadt generationengerecht entwickeln- Ausbauprogramm für barrierefreie Bushaltestellen" - einstimmig beschlossen
+- TOP 2.8: Anträge a) der Fraktion Bündnis 90/Die Grünen/GAL an den Rat A-R/0015/2008: Münster für Alle: Münsterpass wieder auflegen! und b) der SPD-Fraktion an den Rat A-R/0022/2008: Teilhaben: Vergünstigungspass "Münster für alle" Bühnen - Bäder - Bären - mehrheitlich beschlossen
+- TOP 2.9: Antrag der SPD-Fraktion an den Rat A-R/0033/2008: Münster für alle. In Würde alt werden - Schutz vor Altersarmut wirkungsvoll entfalten. - einstimmig beschlossen
+- TOP 2.10: Antrag der Fraktion Bündnis 90/Die Grünen/GAL "Eigenbeteiligung bei Fahrtendienst für Menschen mit Behinderung abschaffen Nr. A-R/0021-2008 - einstimmig beschlossen
+- TOP 3: Wirtschafts- und Technologiefördrung der Stadt Münster weiterentwickeln - einstimmig geändert beschlossen
+- TOP 4: Geschäftsbericht 2007 des Sozialamtes - zur Kenntnis genommen
+- TOP 5: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2008) - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Jahresrechnung 2007 für den kameralen Haushalt der Stadt Münster einschl. Abschluss für den NKF-Teil des Haushalts - einstimmig beschlossen
+- TOP 7: Entwurf der Eröffnungsbilanz der Stadt Münster zum 01.01.2008 - einstimmig beschlossen
+- TOP 8: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2008 - zur Kenntnis genommen
+- TOP 9: Fortführung der Managementkontrakte und Finanzformeln für die Gesellschaften Halle - einstimmig beschlossen
+- TOP 10: Zentrumserweiterung Nienberge - einstimmig beschlossen
+- TOP 11: Kindertagesbetreuungsbericht 2008 - ohne Beschlussfassung geschoben
+- TOP 12: Umsetzung des § 16 Absatz 3 SGB II bei der Stadt Münster - Arbeitsgelegenheiten mit Mehraufwandsentschädigung - zur Kenntnis genommen
+- TOP 13: Beitritt "Covenant of Mayors -Konvent der Bürgermeister - eine Intitative der EU-Kommission" und der "EUROCITIES - Declaration on Climate Change" - einstimmig beschlossen
+- TOP 14: Fortführung der Teilnahme am European Energy Award - einstimmig beschlossen
+- TOP 15: 4. Entwicklungspolitischer Nord-Süd-Preis der Stadt Münster / bürger:sinn:stiftung 2008 - zur Kenntnis genommen
+- TOP 16: Bauleitplanung
+- TOP 16.1: Stadtbezirk West
+- TOP 16.1.1: Bebauungsplan Nr. 486: Mecklenbeck - verlegte Heroldstraße / neuer DB-Haltepunkt - ohne Beschlussfassung geschoben
+- TOP 16.1.2: 1. Verlängerung der Veränderungssperre Nr. 98 - einstimmig beschlossen
+- TOP 16.2: Stadtbezirk Hiltrup
+- TOP 16.2.1: 24. Änderung FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 16.3: Stadtbezirk Südost
+- TOP 16.3.1: Vorhabenbezogener Bebauungsplan Nr. 514 - Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 16.4: Stadtbezirk Ost
+- TOP 16.4.1: 25. Änderung des Flächennutzungsplanes für den Bereich südlich Wolbecker Straße - ohne Beschlussfassung geschoben
+- TOP 16.4.2: Vorhabenbezogener Bebauungsplan Nr. 506: St. Mauritz - südlich Wolbecker Straße / - ohne Beschlussfassung geschoben
+- TOP 17: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 18: Baustellen pünktlich abschließen - eingebracht
+- TOP 19: Verschiedenes
