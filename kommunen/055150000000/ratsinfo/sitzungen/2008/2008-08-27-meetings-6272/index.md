@@ -1,0 +1,54 @@
+# 32. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-08-27T18:11:00+02:00
+- Ende: 2008-08-27T19:24:00+02:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6272
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6272
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00268795.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 8: Jahresrechnung 2007 für den kameralen Haushalt der Stadt Münster einschl. Abschluss für den NKF-Teil des Haushalts - einstimmig beschlossen
+- TOP 9: Entwurf der Eröffnungsbilanz der Stadt Münster zum 01.01.2008 - einstimmig beschlossen
+- TOP 10: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2008 - zur Kenntnis genommen
+- TOP 11: Fortführung der Managementkontrakte und Finanzformeln für die Gesellschaften Halle - einstimmig beschlossen
+- TOP 12: Zentrumserweiterung Nienberge - einstimmig beschlossen
+- TOP 13: Kindertagesbetreuungsbericht 2008 - einstimmig beschlossen
+- TOP 14: Umsetzung des § 16 Absatz 3 SGB II bei der Stadt Münster - Arbeitsgelegenheiten mit Mehraufwandsentschädigung - zur Kenntnis genommen
+- TOP 15: Beitritt "Covenant of Mayors -Konvent der Bürgermeister - eine Intitative der EU-Kommission" und der "EUROCITIES - Declaration on Climate Change" - einstimmig beschlossen
+- TOP 16: Fortführung der Teilnahme am European Energy Award - einstimmig beschlossen
+- TOP 17: 4. Entwicklungspolitischer Nord-Süd-Preis der Stadt Münster / bürger:sinn:stiftung 2008 - zur Kenntnis genommen
+- TOP 18: Bauleitplanung
+- TOP 18.1: Stadtbezirk Münster-West
+- TOP 18.1.1: Bebauungsplan Nr. 486: Mecklenbeck - verlegte Heroldstraße / neuer DB-Haltepunkt - mehrheitlich beschlossen
+- TOP 18.1.2: 1. Verlängerung der Veränderungssperre Nr. 98 - einstimmig beschlossen
+- TOP 18.2: Stadtbezirk Münster-Hiltrup
+- TOP 18.2.1: 24. Änderung FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 18.3: Stadtbezirk Münster-Südost
+- TOP 18.3.1: Vorhabenbezogener Bebauungsplan Nr. 514 - Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 18.4: Stadtbezirk Münster-Ost
+- TOP 18.4.1: 25. Änderung des Flächennutzungsplanes für den Bereich südlich Wolbecker Straße - mehrheitlich beschlossen
+- TOP 18.4.2: Vorhabenbezogener Bebauungsplan Nr. 506: St. Mauritz - südlich Wolbecker Straße / - mehrheitlich beschlossen
+- TOP 19: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 20: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 20.1: Krebsregister und LIGA in Münster halten - einstimmig beschlossen
+- TOP 21: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 21.1: Klimabonus einführen - Energie effizienter nutzen zum Vorteil von Mietern, Vermietern und der Umwelt - verwiesen
+- TOP 21.2: Frauen für die Feuerwehr begeistern - auch in Münster - verwiesen
+- TOP 21.3: Mehr Platz für Fahrräder in der Innenstadt - verwiesen
+- TOP 21.4: "Raum für alle": Neue Perspektiven zur Gestaltung von Straßen und Plätzen in Münster - verwiesen
+- TOP 21.5: Die richtigen Lehren aus dem NRW-Kulturgutachten ziehen - Stärken im Kulturbereich weiter profilieren - verwiesen
+- TOP 21.6: muenster.de: Upgrade zum Stadtportal - verwiesen
+- TOP 22: Verschiedenes
