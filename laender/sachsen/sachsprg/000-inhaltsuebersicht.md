@@ -44,7 +44,7 @@ Inhaltsübersicht
 § 34 Arbeitsweise und Aufgaben des Geschäftsführers
 § 35 Finanzierung der Landesanstalt
 § 36 Aufsicht über die Landesanstalt
-8. Abschnitt Verbreitung, Weiterverbreitung von Rundfunkprogrammen in Kabelanlagen
+8. Abschnitt Verbreitung, Weiterverbreitung von Rundfunkprogrammen auf Plattformen
 § 37 Zulässigkeit der Weiterverbreitung
 § 38 Verbreitung, Weiterverbreitung
 9. Abschnitt Maßnahmen der Aufsicht
