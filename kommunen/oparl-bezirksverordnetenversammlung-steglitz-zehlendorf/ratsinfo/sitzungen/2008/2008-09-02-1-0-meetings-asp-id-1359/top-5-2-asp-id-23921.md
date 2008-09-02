@@ -1,0 +1,8 @@
+# TOP 5.2: Halbseitiges Parken in der "Krumme Straße" erlauben
+
+- Sitzung: 21. öffentliche Sitzung des Ausschusses für Wirtschaft und Verkehr (2008-09-02)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=23921
+- Ergebnis: zurückgezogen
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=23921
