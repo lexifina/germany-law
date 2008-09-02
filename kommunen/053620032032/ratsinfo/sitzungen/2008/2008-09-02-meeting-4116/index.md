@@ -1,0 +1,52 @@
+# Haupt- und Finanzausschuss (24. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2008-09-02T17:00:00+02:00
+- Ende: 2008-09-02T20:26:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYjMve4XVSX9-LY7p6gpJm0
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/4116
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZFHAT7VCcKESRAQJEnOnTI1DUnT0sTHqE0VxVxHrwof/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_02.09.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 23. Sitzung vom 10.06.2008
+- TOP 2.: Umbesetzung von Arbeitskreisen
+- TOP 3.: Anregungen und Beschwerden gem. § 24 GO NW
+- TOP 3.1: Anregung und Beschwerde gem. § 24 GO NRW; hier: S-Bahnanschluss "Kerpener C" / Realforderung nach einem S-Bahn Haltepunkt "Elsdorf"
+- TOP 4.: Stadtentwicklung
+- TOP 4.1: Bericht zu den Kontrakten „Wohnbaulandentwicklung“, „Bodenpolitik“ und „Familien- und Kinderfreundlichkeitsprüfung in der Bauleitplanung“ in der Stadt Kerpen
+- TOP 4.2: 2. Änderung des Kontraktes "Wohnbaulandentwicklung in der Stadt Kerpen"
+- TOP 4.3: Bericht zum Kontrakt "Einzelhandelskonzept" der Stadt Kerpen
+- TOP 4.4: Finanzierung Vogelrutherfeld
+- TOP 4.5: Umsiedlung Manheim: Abschluss einer Grundsatzvereinbarung mit RWE Power AG
+- TOP 5.: Gesundheitswesen
+- TOP 5.1: Nichtraucherschutzgesetz und seine Umsetzung in der Stadt Kerpen
+- TOP 5.2: Ärztliche Versorgung im Stadtteil Kerpen
+- TOP 6.: Bäder der Stadt Kerpen
+- TOP 6.1: Bericht der Fa. g1 über die Betriebsführung der Bäder
+- TOP 6.2: Attraktivierung Erftlagune - Investition Fa. g1
+- TOP 7.: Haushaltsangelegenheiten
+- TOP 7.1: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen II. Quartal 2008
+- TOP 7.2: Beitritt zum Interkommunalen Kennzahlen - Vergleichssystem (IKVS) Antrag Bündnis 90/Die Grünen vom 16.06.2008
+- TOP 7.3: Bereitstellung außerplanmäßiger Mittel für den Abbruch der alten Turnhalle in Kerpen-Buir, Eichemstrasse 13 - 15, einschl. aller Nebengebäude
+- TOP 7.4: Genehmigung von außerplanmäßigen Haushaltsmitteln für Verkehrssicherungsmaßnahmen am Baumbestand im Bereich Burgpark Bergerhausen
+- TOP 8.: Stellenbesetzungen
+- TOP 8.1: Aufhebung eines Kw.-Vermerks im Baubetriebshof (Friedhofsunterhaltung)
+- TOP 8.2: Auswirkungen Freistellungen nach Personalratswahl 2008 hier: Nachbesetzung Teilfreistellung innerhalb der Abteilung 23.1
+- TOP 8.3: Bereitstellung von Ausbildungsplätzen 2009
+- TOP 9.: Mitteilungen
+- TOP 10.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 11.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 12.: Jahreswirtschaftsbericht 2007 der Wirtschaftsförderung
+- TOP 13.: Ausschreibung von Stromlieferungen hier: Auftragsvergabe
+- TOP 14.: Abschluss eines Nutzungsvertrages mit der Katholischen Kirche St. Martinus, Kerpen
+- TOP 15.: Neufestlegung des Verkaufspreises von städtischen Grundstücken im Bebauungsplangebiet "Schildgenstraße" in Kerpen-Brüggen
+- TOP 16.: Übernahme einer Ausfallbürgschaft für die Aufnahme eines Darlehens durch die Frauenberatungsstelle "Frauen helfen Frauen" Horrem, Hauptstraße 167
+- TOP 17.: Mitteilungen
+- TOP 18.: Anfragen gem. § 18 Geschäftsordnung
