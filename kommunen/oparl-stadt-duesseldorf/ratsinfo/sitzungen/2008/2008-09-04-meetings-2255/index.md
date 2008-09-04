@@ -1,0 +1,56 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-09-04T14:00:00+02:00
+- Ende: 2008-09-04T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2255
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2255
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166928.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166928.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166928.pdf
+
+## Tagesordnung
+
+- TOP 1: Vereidigung OB - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Wahl 1. BM - mehrheitlich beschlossen
+- TOP 5: Wahl 3. BM - mehrheitlich beschlossen
+- TOP 6: AR Flughafen - einstimmig beschlossen
+- TOP 7: AR Flughafen MG - einstimmig beschlossen
+- TOP 8: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 9: Akt. Anfr. Linke: LEG - beantwortet
+- TOP 10: Anfragen - zur Kenntnis genommen
+- TOP 11: Anfr. CDU: Einbruchsprävention - beantwortet
+- TOP 12: Anfr. CDU: Kinderzuschlag - beantwortet
+- TOP 13: Anfr. Bü 90 Umwandlung 1€-Job in sozialversicherungspfl. Beschäftigung? - beantwortet
+- TOP 14: Anfr. Bü 90 Tonhallen-Terrasse - schriftlich beantwortet
+- TOP 15: Anfr. SPD Burgwächter-Castello - schriftlich beantwortet
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Anfr. Linke: Stromsperren - schriftlich beantwortet
+- TOP 18: Etateinbringung 2009 - zur Kenntnis genommen
+- TOP 19: 1. VVZ - zur Kenntnis genommen
+- TOP 20: Anträge - zur Kenntnis genommen
+- TOP 21: Antr. FDP/CDU: Musikkita - mehrheitlich beschlossen
+- TOP 22: ÄA Bü90/Grü: Konzepte zur frühkindlichen Bildung......... - mehrheitlich abgelehnt
+- TOP 23: Antr. CDU/FDP: Sprachförderung - mehrheitlich beschlossen
+- TOP 24: ÄA Bü90/Grü: Qualitätsentwicklung im Bereich der Sprachförderung - mehrheitlich abgelehnt
+- TOP 25: Antr. FDP/CDU: LED-Beleuchtung - mehrheitlich beschlossen
+- TOP 26: ÄA Bü90/Grü: Masterplan LED-Beleuchtung - mehrheitlich abgelehnt
+- TOP 27: Antr. Bü 90 Flächennutzungsplanänderung Hafen - mehrheitlich abgelehnt
+- TOP 28: Antr. Bü 90: Klimaschutz - mehrheitlich abgelehnt
+- TOP 29: Antr. Bü 90 Familienkarte für Klimaschutz - mehrheitlich abgelehnt
+- TOP 30: Antrag CDU + FDP: Stiftung museum kunstpalast - mehrheitlich beschlossen
+- TOP 31: ÄA Bü90/Grü: Stiftung museum kunst palast - mehrheitlich abgelehnt
+- TOP 32: Antrag LINKE: - zur Kenntnis genommen
+- TOP 33: Antrag LINKE: Rückkauf der Anteile an der STWD AG - mehrheitlich abgelehnt
+- TOP 34: Antrag LINKE: Hartz IV - mehrheitlich abgelehnt
+- TOP 35: Antrag LINKE: Kostenlose Kindertagesstätten - mehrheitlich abgelehnt
+- TOP 36: Genehmigung 60er - einstimmig beschlossen
+- TOP 37: Umbesetzung von Ausschüssen.............. - einstimmig beschlossen
+- TOP 38: SSK Wahl Ersatzmitglied - einstimmig beschlossen
+- TOP 39: Benutzungsordnung Bürgerhaus "Df. Arcaden"
