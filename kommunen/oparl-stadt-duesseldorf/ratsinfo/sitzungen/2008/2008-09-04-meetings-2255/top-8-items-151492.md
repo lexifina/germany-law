@@ -1,0 +1,7 @@
+# TOP 8: Aktuelle Anfragen
+
+- Sitzung: Rat (2008-09-04)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/151492
+- Ergebnis: zur Kenntnis genommen
