@@ -1,0 +1,81 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2008-09-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1307627
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1307627
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehrsprobleme Großhadern
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Verkehrsrechtliche Anordnung, Sauerbruchstr. 5 - 9: Kurzparkzone (Kreisverwaltungsreferat, 11.08.08)
+- TOP 6.2.: Beteiligung der Bezirksausschüsse bei Baumfällungen (Direktorium, 05.08.08)
+- TOP 6.3.: Namenserläuterungen an Straßenschildern (Direktorium, 04.08.08)
+- TOP 6.4.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (ehem. Verwaltungsanordnung) (Kreisverwaltungsreferat, 24.07.08)
+- TOP 6.5.: Nachqualifizierung und Revision der Denkmalliste; hier: Baudenkmäler (Referat für Stadtplanung und Bauordnung, 25.06.08) (vertagt aus 07/08)
+- TOP 6.6.: Marchioninistr. 3 - 5, Neubau einer Kinderkrippe (4 Gruppen) unter Einbeziehung eines im Ensemble denkmalgeschützten Doppelhauses - VORBESCHEID (Referat für Stadtplanung und Bauordnung, 18.08.08)
+- TOP 6.7.: Weiterer Ausbau der Schulsozialarbeit an Grund-, Haupt und Förderschulen, Trägerschaftsvergabe für die neuen Standorte, Verwendung von Restmitteln und Umwidmung von Finanzmitteln im Bereich Schulsozialarbeit, Beschlussentwurf (Sozialreferat, 13.08.08)
+- TOP 6.8.: Sonderflughafen Oberpfaffenhofen, Beschlussentwurf (Referat für Stadtplanung und Bauordnung, 29.08.08)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Farnweg 5, 1 Roßkastanie
+- TOP 7.2.: Rolf-Pinegger-Str. 4 - 14, 1 Linde
+- TOP 7.3.: Windeckstr. 81, gem. Baumbestandsplan Nr. 14514
+- TOP 7.4.: Gelbhofstr. 14, gem. Baumbestandsplan Nr. 17849
+- TOP 7.5.: Neufriedenheimer Str., gem. Baumbestandsplan Nr. 20269
+- TOP 7.6.: Rudelsburgstr. 10, 1 Tanne
+- TOP 7.7.: Klematisstr. 13, 1 Lärche
+- TOP 7.8.: Eichenstr. 30 a, 7 Fichten
+- TOP 7.9.: Am Waldrand 1 - 1 a, 1 Buche und 8 Fichten
+- TOP 7.10.: Marchioninistr. 3 - 5, gem. Baumbestandsplan Nr. 20070
+- TOP 7.11.: Gräfelfinger Str. 153, gem. Baumbestandplan Nr. 20604
+- TOP 7.12.: Am Wiesenbach 10, gem. Baumbestandsplänen Nr. 21307, 21313, 21314, 21316
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: 12 Bäume auf dem Waldfriedhof (Liste des Baureferates vom 13.08.08)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Broschüre zum Interkulturellen Integrationskonzept (Sozialreferat, 06.08.08)
+- TOP 8.2.: Verkehrsrechtliche Anordnung, Neufriedenheimer Straße: Versetzung der Fahrradständer und Anpassung der Haltverbotszonen (Kreisverwaltungsreferat, 04.08.08)
+- TOP 8.3.: Information über die Stadtschülervertretung (Stadtschülervertretung München, 20.08.08)
+- TOP 8.4.: Unveränderte Fortführung "Mehlfeld's Schmankerl-Wirtshaus und Biergarten", Guardinistr. 98 a (Kreisverwaltungsreferat, 20.08.08)
+- TOP 8.5.: Unveränderte Fortführung "Cafe Mohr", Guardinistr. 1 (Kreisverwaltungsreferat, 21.08.08)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Sanierung der Schultoiletten in den Schulgebäuden an der Senftenauerstr. 21 und an der Guardinistr. 60 (Schul- und Kultusreferat, 14.08.08)
+- TOP 9.2.: Wahlplakate im Bushaltestellenbereich Waldwiesen- / Ecke Würmtalstr. (Kreisverwaltungsreferat, 18.08.08)
+- TOP 9.3.: Landschaftspark Laim-Hadern-Pasing; Ablagerung von Aushub (Kreisverwaltungsreferat, 30.07.08)
+- TOP 9.4.: Wochenmarkt Hadern Heiglhofstr. (Kommunalreferat, 04.08.08)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Störung der Nachtruhe durch Bewohner/innen der Wohnanlagen in Großhadern des Studentenwerks München (Studentenwerk München, 05.08.08)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Oktoberfest 2008; Reservierung der Ratsboxe: Termin BA 20: Dienstag, 23.09.08 20 Plätze (Direktorium, 12.08.08)
+- TOP 11.2.: Einladung zur REGSAM Geburtstagsparty am 16.10.08
+- TOP 11.3.: Einladung zum Fachtag "Quartierbezogene Bewohnerarbeit" am 16.10.08
+- TOP 11.4.: Vorläufige Einladung zur Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse am 03.12.08 (Sozialreferat, 18.08.08)
+- TOP 11.5.: Namenslesung der während der NS-Zeit ermordeten Münchner Juden anlässlich des 70. Jahrestages der sogenannten "Reichskristallnacht" (Arbeitsgruppe "Gedenkveranstaltung zum 9. November", 20.08.08)
+- TOP 11.6.: Sitzungstermine des BA 20 für 2009
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.1.: Beschluss vom 23.07.2008: Leistungsprogramm der MVG für die Fahrplanperiode 2009, Einführung einer Buslinie über die Haderunstraße zum Hedernfeld mit Anbindung an die U-Bahnlinie U6 durch einen Minibus (6 neue Haltestellen im Hedernfeld, gem. UA-Sitzung am 10.06.2008), BA-Antrag Nr. 2459 vom 08.10.2007, außerdem Bus 268 (neue Haltestelle Platanenstr.) und Bus 56 (Taktverdichtung an Schultagen). Auf die Seiten 5 - 7 der Beschlussvorlage wird hingewiesen.
+- TOP 12.3.2: Referentenanträge
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008: "Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern!"
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008: Europaarbeit des Referates für Stadtplanung und Bauordnung und aktuelle Entwicklungen der "städtischen Dimension" auf europäischer Ebene (Vertagt)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung der Vollversammlung vom 23.07.2008: Initiative Europäische Metropolregion München, Sachstandsbericht
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008: Realisierungswettbewerbe "Innovativer Wohnungsbau Hasenbergl", Modellvorhaben e% - Energieeffizienter Wohnungsbau (Vertagt)
+- TOP 13: Nichtöffentliche Sitzung
