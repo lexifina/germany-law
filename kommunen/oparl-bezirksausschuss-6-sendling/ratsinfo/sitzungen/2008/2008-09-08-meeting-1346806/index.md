@@ -1,0 +1,62 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2008-09-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1346806
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1346806
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Sozialbürgerhaus Meindlstraße 16; Neubau eines Verwaltungsgebäudes
+- TOP 2.2.: Rückgebäude Implerstraße 51; künftiger Betrieb als Notquartier für alleinstehende junge Migranten
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Nachnutzung der städt. Kindertagesstätte Johannes-Timm-Str. 9; Sicherung der Räume für ein Eltern- und kleinkindbezogenes soziales Angebot. Schaffung einer Fachpersonalstelle zum Aufbau des niederschwelligen Angebots für Eltern und Kleinkinder und zur Beratung vor Ort. - <div>Rückfrage an Sozialreferat</div>
+- TOP 3.2.: Mieterbeirat der Landeshauptstadt München
+- TOP 3.3.: Interkulturelles Integrationskonzept
+- TOP 3.4.: Informationsveranstaltung des Sozialreferates für die BAs am 03.12.2008
+- TOP 4.: Schulreferat
+- TOP 4.1.: Stadtschülervertretung der LH München
+- TOP 4.2.: Informationsveranstaltung des Schulreferates für die BAs am 16.10.2008
+- TOP 5.1.: Gaststätte Piccola Italia, Aberlestraße 14; Verlängerung der Betriebszeit für die Freischankfläche
+- TOP 5.2.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Warenstellage Albert-Roßhaupter-Straße 12a
+- TOP 6.2.: Verkehrssicherheit in der Fallstraße
+- TOP 6.3.: Haltverbot Schmied-Kochel-Straße
+- TOP 6.4.: Fernwärmeprojekt Karwendelstraße und Meindlstraße
+- TOP 6.5.: Anordnung einer PKW-Parkzone in der Schäftlarnstraße 126 - 130
+- TOP 7.1.: Budgetantrag H-Team e. V.; Veranstaltung "Soziales trifft Kunst und Kultur"; ? 2388,-
+- TOP 7.2.: Budgetantrag Himmelfahrtskirche, Orgelmusik bei Kerzenschein im November / Dezember 2008; ? 865,-
+- TOP 7.3.: Budgetantrag Himmelfahrtskirche, Weihnachtsoratorium am 13.12.2008; ? 2180,-
+- TOP 7.4.: Budgetantrag Himmelfahrtskirche, Sendlinger Orgelnacht am 31.10.2008; ? 1250,-
+- TOP 7.5.: Budgetantrag Isarbote, Projekt "Der BA stellt sich vor"; ? 7200,-
+- TOP 7.6.: Änderung der BA-Satzung; Namenserläuterungen an Straßenschildern
+- TOP 7.7.: Änderung der BA-Satzung; Beteiligung der BAs bei Baumfällungen
+- TOP 7.8.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der LH München
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Parkhaus Königsdorfer Straße
+- TOP 8.3.: Bauvorhaben Greinerberg 9 - 13
+- TOP 8.4.: Nachqualifizierung und Revision der Denkmalliste
+- TOP 8.5.: Bauvorhaben Daiserstraße 49
+- TOP 8.6.: Bauvorhaben Königsdorfer Straße 13
+- TOP 9.: Baureferat
+- TOP 9.1.: Fachhearing zum Thema Baumschutz und Vollzug der Baumschutzverordnung am 16.10.2008
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen Bauvorhaben Oberländerstr. 18
+- TOP 10.2.: Baumfällungen Bauvorhaben Greinerberg 9 - 13
+- TOP 10.3.: Baumfällung Dudenstraße 11; eine Pappel
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Keine Schließung der Postfiliale in der Kochelseestraße - <div>nach Antrag</div>
+- TOP 2: (E) Die Gastronomiebetriebe im Umfeld des Gotzinger Platzes werden zur Rücknahme und Entsorgung des ausgegebenen Verpackungsmaterials verpflichtet; Regelmäßige Entmüllung des Gotzinger Platzes; Reinigung der weiteren Sendlinger Problemplätze Empfehlung Nr. 02-08 / E 00811 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 12.07.2007 - <div>nach Antrag</div>
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
