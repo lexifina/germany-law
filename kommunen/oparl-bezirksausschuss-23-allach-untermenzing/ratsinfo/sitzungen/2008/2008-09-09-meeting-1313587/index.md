@@ -1,0 +1,99 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2008-09-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1313587
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1313587
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgeranliegen
+- TOP 1.1.1: Bürgersprechstunde
+- TOP 1.1.2: Bürgerpost an den BA
+- TOP 1.1.: Radweg durch die Allee von der Städt. Baumschule Müllerstadel zum Lusssee - Schreiben an Oberbürgermeister zur Kenntnis
+- TOP 1.2.: Abfallbehälter für die Hundekottüten - Kleselstraße/Paul-Ehrlich-Weg
+- TOP 1.3.: Gründung einer Kindergrippe
+- TOP 1.4.: Aufnahme des Weges entlang der Bahntrasse (westlich, von der Von-Kahr-Str. zur Bauseweinallee) in den Wegepflegeplan Aufstellung eines 2. Fahrkartenautomaten am Nordaufgang bzw. -abgang, Bahnhof Untermenzing
+- TOP 1.5.: Parkraummanagement - Bauschingerstraße
+- TOP 1.6.: Schulwegsituation der Grundschule an der Eversbuschstr.
+- TOP 1.7.: Kommerzielle Nutzung des Anwesen an der Weidmannstr. 32
+- TOP 1.8.: Wasserablauf im Buchenweg
+- TOP 2: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Anträge
+- TOP 3.1.: Mängel am Kneipbecken
+- TOP 4: Entscheidungen
+- TOP 4.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget in Höhe von 1700,00 Euro; Antragsteller Kulturverein Allach-Untermenzing e.V.
+- TOP 4.2.: Antrag auf Gewährung eines Zuschusses aus dem Budget in Höhe von 700,40 ?; Antragsteller Spielwerkstatt Allach-Untermenzing
+- TOP 4.3.: Beleuchtung des Fuß- und Radweges Behringstraße im Bereich des Friedhofs Untermenzing zwischen der Von-Kahr-Straße und der Auenbruggerstraße
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anhörungen
+- TOP 5.1.: PERSPEKTIVE MÜNCHEN Fortschreibung des Zentrenkonzeptes; Schwerpunkt Nahversorgung; Grundsatzbeschluss
+- TOP 5.2.: Nachqualifizierung und Revision der Denkmalliste; hier Baudenkmäler
+- TOP 5.3.: Vollzug des Bayerischen Naturschutzgesetzes (BayNatSchG); Verfahren zur endgültigen Unterschutzstellung des Biotops M - 54 "Brachfläche mit Gehölzbestand und Ruderalfluren am Bifanweg" als Landschaftsbestandteil; Beteiligung des Bezirksausschusses gem. Ziffer 10 des Kataloges der Anhörungs- und Unterrichtungsfälle; Aktenzeichen: 9.81-2006-29699-5
+- TOP 5.4.: Neubau eines Büroraumes in Containerbauweise - Paul-Ehrlich-Weg 130
+- TOP 5.5.: Gemeinde Karlsfeld; Bebauungsplan Nr. 99 - Sondergebiet Tierklinik Am Krebsbach
+- TOP 5.6.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (ehem. Verwaltungsanordnung)
+- TOP 5.7.: Namenserläuterungen an Straßenschildern Beschluss Kommunalausschuss vom 14.02.2008 Vollversammlung vom 20.02.2008
+- TOP 5.8.: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 5.9.: Schreiben Kreisverwaltungsreferat vom 13.08.08: - Zusätzliche Schießvorhaben am 12. und 13.09.08 "Der Bund Allach"
+- TOP 5.10.: Weiterer Ausbau der Schulsozialarbeit an Grund-, Haupt- und Förderschulen Trägerschaftsvergabe für die neuen Standorte Verwendung von Restmitteln und Umwigdmung von Finanzmitteln im Bereich Schulsozialarbeit
+- TOP 5.11.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Josef-Führer-Str. 46
+- TOP 5.12.: Entwurf Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich IV/24 und Bebauungsplan mit Grünordnung Nr. 1616b Brieger Straße (östlich), Kleingartenanalage (südöstlich) und Leipheimer Weg (nördlich) (Teiländerung des Beb.Pl.Nr. 1616a)
+- TOP 5.13.: München Marathon am 12.10.08
+- TOP 5.14.: Vollzug des Bundesimmissionsschutzgesetzes; Ludwigsfelder Str. 30 TÜV SÜD Automotive GmbH Teststrecke für Straßenschutzeinrichtungen/Akustikmessstrecke, hier: Genehmigung einer bestehenden Leitplanken- und Akustikmessstrecke mit Aufenthalts- und Lagercontainern
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Sozialausschusses vom 03.07.2008: Ausschreibung von Trägerschaften; Qualifizierung der Maßnahme zum Erhalt von Mietverhältnissen; Trägerschaft Sozialregionsverbund Nord/Süd/West mit 5 Sozialregionen; Trägerschaft Sozialregionsverbund Ost/Mitte mit 5 Sozialregionen; Verträge für die Haushaltsjahre 2009 bis 2011
+- TOP 6.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008: a) Europaarbeit des Referats für Stadtplanung und Bauordnung und aktuelle Entwicklungen der "städtischen Dimensionen" auf europäischer Ebene b) "Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern!" c) Realisierungswettbewerb "Innovativer Wohnungsbau Hasenbergl"; Modellvorhaben e% - Energieeffizienter Wohnungsbau
+- TOP 6.3.: Beschluss der Vollversammlung des Stadtrates vom 02.07.08: a) Olympia - München 2018; ökologisch - nachhaltig - fair b) Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Vertreters
+- TOP 6.4.: Bekanntgabe in der Sitzung der Vollversammlung des Stadtrates vom 23.07.08: -a) Initiative Europäische Metropolregion München - Sachstandsbericht b) Leistungsprogramm der MVG für die Fahrplanperiode 2009
+- TOP 7: Verschiedenes
+- TOP 7.1.: Vorläufige Einladung zur Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Oberbürgermeister vom 16.07.08: Die Bürgerversammlung wieder den Bürgern! Begrenzung der Redezeit von Amtsträgern und Stadtvertretern auf maximal 1,5 Stunden
+- TOP 8.2.: Schreiben Direktorium vom 09.07.08: 18.jetzt - Fest junger Erwachsener im Rathaus am 25. Oktober 2008
+- TOP 8.3.: Schreiben Direktorium vom 05.08.08: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 8.40.: Schreiben Direktorium vom 12.08.08: Oktoberfest 2008; Reservierung für die Bezirksausschüsse
+- TOP 8.5.: Schreiben Schul- und Kultusreferat vom 03.07.08: Aufnahme der Planung für eine weitere Grundschule im Bereich westlich der Würm
+- TOP 8.6.: Schreiben Baureferat vom 04.07.08: Baumaßnahme Prof.-Eichmann-Straße
+- TOP 8.7.: Schreiben Baureferat vom 16.07.08: Baumaßnahme Von-Kahr-Str., südliche FB-Sanierung
+- TOP 8.8.: Schreiben Baureferat vom 18.07.08: Baumaßnahme Zum Schwabenbächl/Vogellohstraße
+- TOP 8.9.: Schreiben Baureferat vom 22.07.08: Terminankündigung Fachhearing zum Thema Baumschutz
+- TOP 8.10.: Schreiben Baureferat vom 30.07.08: Erschließung des Anwesens Ramannstraße 33
+- TOP 8.11.: Vollzug der BaumschutzVO: - Bergetstr. 1 s. Baumbest.plan.Nr. 2008-18677 - Bechtolsheimstr. 18 s. Baumbest.plan.Nr. 2008-10551 - Kunstmannstr. 22 s. Baumbest.plan.Nr. 2008-17449 - Angerlohstr. 62 s. Baumbest.plan.Nr. 2008-16888
+- TOP 8.12.: Schreiben Planungsreferat vom 07.07.08, 14.07.08, 21.07.08, 28.07.08, 04.08.08, 11.08.08, 18.08.08: Liste der beantragten Baumfällungen
+- TOP 8.13.: Schreiben Planungsreferat vom 07.07.08, 14.07.08, 21.07.08, 28.07.08, 04.08.08, 11.08.08, 18.08.08, 25.08.08: Bauanträge
+- TOP 8.14.: Schreiben Planungsreferat vom 15.07.08: Fortbildung der neuen Bezirksausschussmitglieder (BA) zu Themen des Planungsreferates mit denen der Bezirksausschuss befasst ist.
+- TOP 8.15.: Schreiben Planungsreferat vom 18.07.08: Münchner Schulwettbewerb/Einladung zur Prämierung und Ausstellungseröffnung
+- TOP 8.16.: Schreiben Stadtwerke München vom 07.07.08, 14.07.08, 21.07.08, 04.08.08, 11.08.08, 18.08.08, 25.08.08: Baumaßnahmen
+- TOP 8.17.: Schreiben Kreisverwaltungsreferat vom 07.07.08: Genehmigung Straßenfest in der Listerstraße am 26.07.08 (Ersatztermin: 02.08.08)
+- TOP 8.18.: Schreiben Kreisverwaltungsreferat vom 16.07.08: Arbeiten im Straßenraum Von-Kahr-Straße Südseite zwischen Allacher Straße und Eversbuschstraße (Straßenbauarbeiten)
+- TOP 8.19.: Schreiben Kreisverwaltungsreferat vom 08.08.08: Von-Kahr-Straße Südseite zwischen Allacher Straße und Eversbuschstraße - Verkehrsrechtliche Anrodnung
+- TOP 8.20.: Schreiben Kreisverwaltungsreferat vom 23.07.08: Aufhebung des personenbezogenen Behindertenparkplatzes in der Karl-Schmolz-Straße 15
+- TOP 8.21.: Schreiben Kreisverwaltungsreferat vom 30.07.08: Genehmigung Veranstaltung "Tour de Franz", organisierte Radfahrt mit Besichtigung am 03.08.08
+- TOP 8.22.: Schreiben Kreisverwaltungsreferat vom 30.07.08: Unveränderte Fortführung des Gaststättenbetriebes Bistro Anadolu
+- TOP 8.23.: Schreiben Sozialreferat vom 21.07.08: Wahl der Seniorenvertretung 2009; Vorstellungsrunden der kandidatinnen und Kandidaten
+- TOP 8.24.: Schreiben Sozialreferat vom 22.07.08: Daten Kinderkrippen
+- TOP 8.25.: Schreiben Sozialreferat vom 24.07.08: Zweckentfremdung von Wohnraum - Am Lochholz 17
+- TOP 8.26.: Schreiben Sozialreferat vom 28.07.08: Zweckentfremdung von Wohnraum - Willi-Wien-Str. 16
+- TOP 8.27.: Schreiben Sozialreferat vom 07.08.08: Zweckentfremdung von Wohnraum - Sickenbergerstr. 17
+- TOP 8.28.: Schreiben Sozialreferat vom 12.08.08: Zweckentfremdung von Wohnraum - Rudhartstr. 55
+- TOP 8.29.: Schreiben Referat für Arbeit und Wirtschaft vom 01.08.08: Wirtschafts-Info 07/2008
+- TOP 8.30.: Schreiben Arbeitsgruppe "Gedenkveranstaltung zum 9. November" vom 06.07.08: Ergebnisprotokoll
+- TOP 8.31.: Schreiben Bayer. Rote Kreuz vom 07.07.08: Dank für die Unterstützung
+- TOP 8.32.: Schreiben Unfallkasse München vom 09.07.08: Geschäftsbericht der Unfallkasse München; Geschäftsjahr 2007
+- TOP 8.33.: Schreiben der Polizeiinspektion 44, Hr. Hohenwarter, vom 28.07.08: Halteverbot Zeichen 286 StVO Eversbuschstraße 178 - 180
+- TOP 8.34.: Schreiben Kreisverwaltungsreferat vom 12.08.08: Temporäres Parkverbot in der Eversbuschstraße 178-180
+- TOP 8.35.: Schreiben Konzept-Grün GmbH vom 03.08.08: Einladung zum Fachtag "Quartierbezogene Bewohnerarbeit" am 16.10.08 in München
+- TOP 8.36.: Schreiben REGSAM vom 12.08.08: Einladung zur REGSAM Geburtstagsparty
+- TOP 8.37.: Schreiben Baureferat vom 11.08.08 Ausbau der Stieglstraße (Ziffer 1 des Antrages)
+- TOP 8.38.: Beleuchtung Fahrradabstellanlage Station München-Allach
+- TOP 8.39.: Schreiben Kreisverwaltungsreferat vom 12.08.08: Aufhebung Z 286 in der Eversbuschstr. 178-180
+- TOP 8.41.: Information über StadtschülerInnenvertretung
+- TOP 8.42.: Schreiben Kreisverwaltungsreferat vom 29.05.08: Aufhebung der Sperre Stieglstraße
+- TOP 8.43.: Schreiben Stadtwerke München vom 18.08.08: - Baumaßnahmen der SWM Wasserprojekt Angerlohstraße
+- TOP 9: Nachtrag
