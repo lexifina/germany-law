@@ -1,0 +1,67 @@
+# Stadtrat (28. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2008-09-09T17:04:00+02:00
+- Ende: 2008-09-09T20:39:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUDx4UQ_9BL1uifTPF-WADE
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/4112
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVs75N2fAPhVFuLP7XjpVMBWOV6QEEGzs5QdMr7bdX64/Bekanntmachung_Stadtrat_09.09.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZXHaXvPKZVX3iv9f0axPIlObDbfql4YYyiNlFCu0sAZ/Oeffentliche_Niederschrift_Stadtrat_09.09.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung und Verpflichtung der neuen Stadtverordneten Renate Schulz
+- TOP 6.: Kindertagesbetreuung in der Stadt Kerpen
+- TOP 6.1: Erhöhung des Betriebskostenzuschusses in Form von freiwilligen Leistungen der Stadt Kerpen an die Träger der evangelischen Kindertageseinrichtungen
+- TOP 6.2: Neue Kindertagesstätte Blatzheim
+- TOP 6.3: Neubau Kindertageseinrichtung Horrem - Standort/Waldweg
+- TOP 6.4: Personalbemessung in den städtischen Kindertageseinrichtungen nach dem Kinderbildungsgesetz
+- TOP 6.4.1: Statt Personalpool Vertretungskräfte auf Honorarbasis - mehr Eigenverantwortung für die Leiterinnen
+- TOP 2.: Umbesetzung von Ausschüssen und Gremien
+- TOP 2 a.: Verfassung einer Protestnote zur ärztlichen Versorgung in Kerpen
+- TOP 3.: Erlass von Ortsrecht
+- TOP 3.1: Neufassung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen
+- TOP 4.: Stadtentwicklung und Bauleitplanung
+- TOP 4.1: Bericht zu den Kontrakten „Wohnbaulandentwicklung“, „Bodenpolitik“ und „Familien- und Kinderfreundlichkeitsprüfung in der Bauleitplanung“ in der Stadt Kerpen
+- TOP 4.2: 2. Änderung des Kontraktes "Wohnbaulandentwicklung in der Stadt Kerpen"
+- TOP 4.3: Bericht zum Kontrakt "Einzelhandelskonzept" der Stadt Kerpen
+- TOP 4.4: Leitlinien für das Leben in Kerpen für Menschen in der zweiten Lebenshälfte
+- TOP 4.5: Umsiedlung Manheim: Abschluss einer Grundsatzvereinbarung mit RWE Power AG
+- TOP 4.6: Antrag auf Zulassung eines Rahmenbetriebsplanes mit UVP gem. § 52 Abs. 2a BBergG für die Gewinnung von Quarzsand u. Quarzkies „Tagebau Forster Feld" im Stadtteil Manheim
+- TOP 4.7: Ausbau und Verlegung der A4 - Maßnahmen außerhalb des Planfeststellungsbeschlusses
+- TOP 4.8: Bebauungsplan HO 294/1. Änderung "ZOB - Bahnhof" Stadtteil Horrem Satzungsbeschluss
+- TOP 4.9: Bebauungsplan HO 296/1. Änderung "Gleisdreieck", Stadtteil Horrem Satzungsbeschluss
+- TOP 5.: Haushaltsangelegenheiten
+- TOP 5.1: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen II. Quartal 2008
+- TOP 5.2: Beitritt zum Interkommunalen Kennzahlen - Vergleichssystem (IKVS) Antrag Bündnis 90/Die Grünen vom 16.06.2008
+- TOP 5.3: Jahresrechnung 2007
+- TOP 5.4: Bereitstellung außerplanmäßiger Mittel für den Abbruch der alten Turnhalle in Kerpen-Buir, Eichemstrasse 13 - 15, einschl. aller Nebengebäude
+- TOP 5.5: Genehmigung von außerplanmäßigen Haushaltsmitteln für Verkehrssicherungsmaßnahmen am Baumbestand im Bereich Burgpark Bergerhausen
+- TOP 5.6: Bekanntgabe der unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NW in der Zeit vom 01.01. bis 30.06.2008
+- TOP 6.: Kindertagesbetreuung in der Stadt Kerpen
+- TOP 7.: Bereitstellung von Ausbildungsplätzen 2009
+- TOP 8.: Sachstand Hochhaus Maastrichter Straße
+- TOP 9.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 10.: Mitteilungen
+- TOP 11.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 11.1: Abbindung des Postberges im Stadttteil Horrem / Neu-Bottenbroich
+- TOP 11.2: Turnhalle Mater Salvatoris
+- TOP 11.3: Verkehrsuntersuchung K 19n Bergheim-Ahe hier: Bedeutung für die Verkehrsbelastung in Sindorf-Nord.
+- TOP 11.4: Ampelschaltung im Bereich B 264/Maximilianstraße/Heisenbergstraße, Türnich
+- TOP 11.5: Sachstand Grundschule Vogelrutherfeld, Sindorf
+- TOP 11.6: Flurbereinigungsverfahren Frechen III
+- TOP 11.7: Fußweg zu den Einkaufsmärkten Edeka/Norma, Sindorf-Nord
+- TOP 11.8: Sachstand ehemaliger Edeka-Markt, Sindorf
+- TOP 11.9: Sachstand ehemaliger Edeka-Markt, Buir
+- TOP 12.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 13.: Übernahme einer Ausfallbürgschaft für die Aufnahme eines Darlehens durch die Frauenberatungsstelle "Frauen helfen Frauen" Horrem, Hauptstraße 167
+- TOP 14.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 16.: Mitteilungen
+- TOP 17.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
