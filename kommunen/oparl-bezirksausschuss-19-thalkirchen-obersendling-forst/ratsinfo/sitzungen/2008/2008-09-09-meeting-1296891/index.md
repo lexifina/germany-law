@@ -1,0 +1,58 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2008-09-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1296891
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1296891
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeiner Teil
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der Anwesenheit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 05.08.08
+- TOP 2: Anträge
+- TOP 2.1.: Höchstgeschwindigkeit von 60 km/h auf allen innerörtlichen Bundesautobahnen
+- TOP 2.2.: Gleiche Lärmgrenzwerte innerorts für alte und neue Autobahnstrecken
+- TOP 2.3.: Entfernung der Parkbank an der Züricher Straße zwischen Berner- und Basler Straße
+- TOP 2.4.: Stellungnahmen der Landtagskandidaten zu aktuellen Themen im 19. Stadtbezirk
+- TOP 2.5.: Pausenhofgestaltung GS Boschetsrieder Straße
+- TOP 2.6.: Innenhofnutzung GS Berner Straße
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Cafe Intermezzo Spectaculum Mundi
+- TOP 3.2.: Isarbote
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 4.3.: Erhöhung der Wasserführung im Werkkanal
+- TOP 4.4.: Verlegung von Wertstoff-Containern
+- TOP 4.5.: Bericht aus dem Unterausschuss
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Straßenumbau Allmannshausener Straße
+- TOP 5.2.: Hindelangstr. 4; Einrichtung befristetes Parken
+- TOP 5.3.: Bannwaldseestr. 57; Pkw-Positivbeschilderung
+- TOP 5.4.: Bessere Anbindung S-Bahn Siemenswerke
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Bebauungsplan Gde. Pullach; Südl. Hochleite II
+- TOP 7: Unterausschuss Soziales
+- TOP 7.3.: Errichtung einer Kooperationseinrichtung Fritz-Baer-Str. 15
+- TOP 7.4.: Ausbau der Schulsozialarbeit an Grund-, Haupt- und Förderschulen
+- TOP 8: Entscheidungen
+- TOP 8.5.: Projektplanung Drygalski-Allee / Herterichstraße
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.7.: Namenserläuterungen an Straßenschildern
+- TOP 9.8.: Neufassung der Richtlinien für Sondernutzungen an den öffentl. Straßen
+- TOP 9.9.: Veranstaltung am Schweizer Platz
+- TOP 9.10.: Gaststättenpächterwechsel "JANAT"
+- TOP 9.11.: Antrag auf Zweckentfremdung Noestr. 5
+- TOP 9.12.: Antrag auf Zweckentfremdung Rueppstr. 9
+- TOP 9.13.: Antrag auf Zweckentfremdung Kirchbachweg 11
+- TOP 10: Mitteilungen, Verschiedenes, Berichte
