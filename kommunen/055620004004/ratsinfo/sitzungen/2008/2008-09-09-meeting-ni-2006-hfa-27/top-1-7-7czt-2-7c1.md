@@ -1,0 +1,7 @@
+# TOP 1: Demographie im Wandel; Symposium zum demographischen Wandel vom 18.10. - 26.10.08
+
+- Sitzung: Sitzung des Haupt- und Finanzausschusses (2008-09-09)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: ja
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-HFA-27%7Czt_2%7C1
+- Beschluss (Datei): Beschluss - Top 1 https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2006-HFA-27%7Czt_2%7C1
