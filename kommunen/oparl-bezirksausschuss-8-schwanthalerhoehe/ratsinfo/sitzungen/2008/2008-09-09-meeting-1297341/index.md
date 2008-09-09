@@ -1,0 +1,76 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2008-09-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1297341
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1297341
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Antrag auf Nutzungsänderung in Vereinsbüro; Parkstraße 4
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Budgetantrag Intitiative Leseinsel; ? 335,-
+- TOP 4.2.: Budgetantrag Pfarrei St. Rupert, Familienfest am 19.10.2008; ? 1100,-
+- TOP 4.3.: Budgetantrag Isarbote.de, Projekt "Der BA stellt sich vor"; ? 7200,-
+- TOP 4.4.: Genehmigung einer Warenstellage; Gollierplatz 12
+- TOP 4.5.: (E) Vereinslokale im 8. Stadtgebiet a) Darlegung der baurechtlichen Verfahren bzgl. Nutzungsänderungen von Ladenflächen in nichtöffentliche Vereinslokale; Ziffer 1 des Antrags Empfehlung Nr. 08-14 / E 00035 der Bürgerversammlung des Stadtbezirkes 08 -Schwan- thalerhöhe am 19.06.2008 b) Schließung nicht genehmigter Vereinslokale; Ziffer 2 des Antrags Empfehlung Nr. 08-14 / E 00036 der Bürgerversammlung des Stadtbezirkes 08 -Schwan- thalerhöhe am 19.06.2008 - <div>nach Antrag</div>
+- TOP 4.6.: Handhabung des Stellplatznachweises im Neubaugebiet Alte Messe - <div>nach Antrag</div>
+- TOP 4.7.: Genehmigung einer Warenstellage; Kazmairstr. 33
+- TOP 5: Anhörungen
+- TOP 5.1.: Namenserläuterungen an Straßenschildern / Änderung der BA-Satzung
+- TOP 5.2.: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 5.3.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der LH München
+- TOP 5.4.: Veranstaltung Stadtradeln - Städtewettbewerb für Klimaschutz am 14.09.2008
+- TOP 5.5.: Veranstaltung Straßenfest Astallerstraße am 13.09.2008
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Meldelisten Bauvorhaben
+- TOP 6.1.2.: Philipp-Loewenfeld-Str. - Neubau dieser Straße (Ausführungsplanung ) noch ohne Steg
+- TOP 6.1.3.: Um- und Ausbau Donnersberger Brücke - <div>Schreiben an Herrn Oberbürgermeister Ude</div>
+- TOP 6.1.4.: Alte Feuerwache Ganghoferstraße, Jugendspielbereich; Errichtung eines Bolzplatzes mit Ballfanggittern, Basketballkörben und Tischtennisplatten
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Grundsätzlicher Ablauf beim Bewerbungsverfahren um eine Betriebsträgerschaft für einen Kindergarten; hier Kindergarten Hans Fischer-Straße
+- TOP 6.2.2.: Öffnung des Schulschwimmbades Ridlerschule für Einrichtungen des Stadtbezirkes 8
+- TOP 6.2.3.: Einrichtung einer Stadtschülervertretung
+- TOP 6.2.4.: Blade Night und Opern Air "Oben Ohne", Bavariapark
+- TOP 6.2.5.: Lärmbelästigung durch Skater auf dem Georg-Freundorfer-Platz
+- TOP 6.2.6.: Informationsveranstaltung des Sozialreferates am 03.12.2008
+- TOP 6.3: Bericht UA Integration und Kultur
+- TOP 6.3.1.: Interkulturelles Integrationskonzept
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Fällung eines Gefahrenbaums im Gewerbehof Gollierstraße
+- TOP 6.4.2.: Fällung eines Gefahrenbaums in der Bergmannstraße 38
+- TOP 6.4.3.: Fällung einer Scheinakazie in der Astallerstr. 17- 19
+- TOP 6.4.4.: Heimeranplatz; Freigabe für den Radfahrverkehr
+- TOP 6.4.5.: Parksituation Alte Messe; Nachbesserung - Einführung des Parkraummanagements auch in der Alten Messe
+- TOP 6.4.6.: Fernwärmeprojekt "Erschließung Westend Los 2"
+- TOP 6.4.7.: Einziehung einer Teilstrecke der Kazmairstr; Einziehung der Gesamtstrecke der Straße "Gießerweg"
+- TOP 6.4.8.: Widmungserweiterung "Am Bavariapark"
+- TOP 6.4.9.: Buswartehäuschen Gollierplatz
+- TOP 6.4.10.: Absperrung der Theresienwiese für den Aufbau des Oktoberfestes
+- TOP 6.4.11.: Freischankfläche der Gaststätte "Grillys"; Gollierstr. 87
+- TOP 6.4.12.: Sanierung der Bergmannstraße zwischen Westend-, Kazmair- und Anglerstraße
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 7: Erledigungen
+- TOP 7.1.: Verlegung eines Parkscheinautomaten; Schrenkstr. 7
+- TOP 8: Anträge
+- TOP 8.1.: Fußgänger- und Radfahrertunnel Hans-Fischer-Straße
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Unveränderte Frortführung mehrerer Gaststättenbetriebe
+- TOP 9.2.: Leistungsprogramm der MVG für die Fahrplanperiode 2009
+- TOP 10: Verschiedenes
+- TOP 10.1.: Oktoberfest 2008; Reservierung Ratsboxe
+- TOP 10.2.: BA-Sitzungstermine 2009
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Protokoll 08.08
+- TOP 11.2.: Schriftverkehr 08.08
+- TOP 11.3.: Münchner Statistik; 2. Quartalheft
+- TOP 11.4.: Fachforum "Klimatisierung mit Solarenergie" am 23.09.08
