@@ -1,0 +1,84 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2008-09-10T17:10:00+02:00
+- Ende: 2008-09-10T21:55:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1772
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1772
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=38457
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - im Ausschuss abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Anforderungsampel in Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Märkisches Viertel an das U-Bahnnetz anschließen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.3: Tempo 30 rund um den Falkenplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Reaktivierung der Heidekrautbahn - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.5: Verkehrsgefährdung an der Kreuzung Waidmannsluster Damm / Jean-Jaurès-Straße - überwiesen
+- TOP 5.6: Eckpunkte für zukünftige Reinickendorfer Umwelttage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Weitere Unfälle an der Bahnbrücke Klemkestraße vermeiden - überwiesen
+- TOP 5.8: Zuschüsse zur Brille - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Borsighafen in Tegel eine Erfolgsgeschichte - Arbeitsplätze für viele Reinickendorfer Arbeitnehmer - vertagt
+- TOP 6.2: Keine Ausstellung in Reinickendorf über schwulenfeindliche Gewalt - vertagt
+- TOP 6.3: Mehr grundständige Gymnasien in Reinickendorf - vertagt
+- TOP 6.4: Spendenaufarbeitung - in der BVV zurückgezogen
+- TOP 6.5: Ordnungsamt: Immer mehr Aufgaben - und kein ausreichendes Personal - vertagt
+- TOP 6.6: Umzugskonzept - vertagt
+- TOP 6.7: Sonderbericht der Bundesagentur für Arbeit - "Grundsicherung in Deutschland" - vertagt
+- TOP 6.8: Führt die Umweltzone zu mehr Belastung in Reinickendorf? - vertagt
+- TOP 6.9: Großveranstaltungen in Reinickendorf - Pleiten, Pech und Pannen - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Abberufung des Schiedsmannes Lutz Kortmann - ohne Änderungen in der BVV beschlossen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Zentrale Jugendsachbearbeitung erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Tempo 30 auf der "Roten Chaussee" im Forst Tegel - vertagt
+- TOP 8.3: Seniorenpflegezentrum verhindern - in der BVV abgelehnt
+- TOP 8.4: Jugendfreizeiteinrichtung Ameisenburg - vertagt
+- TOP 8.5: Einrichtung von Pflegestützpunkten - ohne Änderungen in der BVV beschlossen
+- TOP 8.6: Radverkehr Tegel: Lösungsvorschlag Nr. 5 Einzelhandelsfreundliche Umgestaltung der Berliner Straße - vertagt
+- TOP 8.7: Unterstützung des Volksbegehrens "Kitakinder und Bildung von Anfang an = ein Gewinn für Berlin" - vertagt
+- TOP 8.8: Tarifzonen zum Flughafen Schönefeld ändern - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Fahrbahnmarkierungen auf der Frohnauer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Radverkehr Tegel: Lösungsvorschlag Nr. 4 - in der BVV abgelehnt
+- TOP 8.11: Fahrradbeauftragter - vertagt
+- TOP 8.12: Einrichtung von Pflegestützpunkten - ohne Änderungen in der BVV beschlossen
+- TOP 8.13: Kostenübernahme bei Heimpflege - vertagt
+- TOP 9: Anträge - (offen)
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Fußgängerüberweg in Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Ausstellung "Weiße Stadt" - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Sozial belastete Kieze - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Erfolge der "Initiative Ausbildungsplatz" für Reinickendorfer Schülerinnen und Schüler ausbauen I - überwiesen
+- TOP 10.5: CO2-Ausgleich - überwiesen
+- TOP 10.6: Erfolge der "Initiative Ausbildungsplatz" für Reinickendorfer Schülerinnen und Schüler ausbauen II - überwiesen
+- TOP 10.7: Umweltschonende und Ressourcen sparende Ausrüstung der bezirkseigenen Kraftfahrzeugflotte - überwiesen
+- TOP 10.8: Dauert es bis zum Eintreffen der Feuerwehr in Reinickendorf immer länger? - überwiesen
+- TOP 10.9: Aktives Stadtzentrum Tegel - überwiesen
+- TOP 10.10: Mehrzweckstreifen Oranienburger Straße - vertagt
+- TOP 10.11: Leichtathletik-Weltmeisterschaft und Partnerschaft - vertagt
+- TOP 10.12: Klimaschutz-Spende am Parkautomat - vertagt
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Gesunde Ernährung - Thema an Reinickendorfer Schulen für Schüler und Eltern - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Schaltung Fahrradampeln Waidmannsluster Damm - überwiesen
+- TOP 11.3: Öffnung der Ruppiner Chaussee bei Umleitung - vertagt
+- TOP 12: Bericht über Ideen und Planungen eines "freiwilligen Ordnungsdienstes" - überwiesen
+- TOP 13: Dienstanweisung zum Umgang mit Zuwendungen - überwiesen
+- TOP 14: Mobile Bürgerämter - noch mehr Service für die Reinickendorfer Bevölkerung - beantwortet
+- TOP 15: Zuständigkeitschaos im Bezirksamt Reinickendorf - beantwortet
+- TOP 16: Spendenbericht - für die BVV geheim? - beantwortet
+- TOP 17: Antisemitischer und rassistischer Stimmung auf dem Fußballplatz entgegnen - ohne Änderungen in der BVV beschlossen
+- TOP 18: Antisemitischer und ausländerfeindlicher Stimmung auf dem Fußballplatz entgegnen - ohne Änderungen in der BVV beschlossen
+- TOP 19: Ehemaliges Gelände des Gaswerks Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 20: Absolutes Halteverbot in der Thaterstraße - überwiesen
+- TOP 21: Verkehrssituation im östlichen Bereich des S-Bahnhofs Hermsdorf - überwiesen
