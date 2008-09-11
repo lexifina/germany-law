@@ -1,0 +1,8 @@
+# TOP 6.2: Zukunftstag für Jungen
+
+- Sitzung: öffentliche Sitzung des Ausschusses für Gleichstellung und Integration (2008-09-11)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=18889
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/consultations.asp?typ=i&id=18889
