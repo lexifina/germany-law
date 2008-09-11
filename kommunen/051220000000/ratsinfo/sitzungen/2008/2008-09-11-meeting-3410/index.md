@@ -1,0 +1,68 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2008-09-11T16:00:00+02:00
+- Ende: 2008-09-11T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZdjj58ZAyYPaqZpSLJoTPek
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3410
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZuCOpux_6EwoPFBtuO0J_SGdMqo9sCGk-8kuwCIjWRq/Oeffentliche_Niederschrift_Rat_11.09.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Umbesetzung von Ausschüssen und Gremien
+- TOP 4: Wiederwahl des Ersten Beigeordneten Hartmut Hoferichter
+- TOP 5: Bürgerbegehren "Solingen gehört uns"
+- TOP 6: Verhinderung von Privatisierungen
+- TOP 7: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2007 mit Gewinn- und Verlustrechnung für das Jahr 2007
+- TOP 8: Jahresabschluss der Stadt-Sparkasse Solingen zum 31. Dezember 2007 mit Gewinn- und Verlustrechnung für das Jahr 2007
+- TOP 9: Bildung der Einigungsstelle gemäß § 67 Abs. 1 Landespersonalvertretungsgesetz Nordrhein-Westfalen
+- TOP 10: Bildung der Einigungsstelle gemäß § 67 Abs. 1 Landespersonalvertretungsgesetz Nordrhein-Westfalen
+- TOP 11: Rheinisch-Bergischer Stadtwerke-Verbund
+- TOP 12: Verzicht auf Doppelhaushalt 2009/2010
+- TOP 13: Entsendung eines Vertreters in den Vorstand des Bergisch-Rheinischen Wasserverbandes sowie Benennung eines Stellvertreters
+- TOP 14: Jahresabschluss 2007 der EntsorgungsBetriebe Solingen
+- TOP 15: Jahresabschluss 2007 der EntsorgungsBetriebe Solingen - Müllheizkraftwerk -
+- TOP 16: Zusammenführung der EntsorgungsBetriebe Solingen und der EntsorgungsBetriebe Solingen - Müllheizkraftwerk - zum 01.01.2009
+- TOP 17: III. Änderungssatzung zur Satzung über die Abfallentsorgung in der Stadt Solingen
+- TOP 18: Neuorganisation der Chemischen und Lebensmitteluntersuchungsämter in Nordrhein-Westfalen
+- TOP 19: Zusammenlegung der Kommunalwahl 2009 und der Wahl zum Zuwanderer- und Integrationsrat
+- TOP 20: Anpassung der Kosten für Unterkunft und Heizung im Bereich SGB II und SGB XII an die Teuerung
+- TOP 21: Sozialticket VRR
+- TOP 22: Jahresabschluss 2007 und Lagebericht der Altenzentren der Stadt Solingen
+- TOP 23: Jahresabschluss 2007 des Zweckverbandes Bergische Volkshochschule
+- TOP 24: Jahresabschluss 2007 des Zweckverbandes Bergische Volkshochschule
+- TOP 25: Planungen zu einem neuen Sportplatz in Solingen-Aufderhöhe
+- TOP 26: Erhalt Freizeitanlage Ittertal
+- TOP 27: Landesarbeitsgemeinschaft der kommunalen Migrantenvertretungen NRW (LAGA)
+- TOP 28: Resolution "Mehr Menschen mit Migrationshintergrund in den Stadtrat"
+- TOP 29: Umsetzung des Ganztags an der Geschwister-Scholl-Gesamtschule Solingen
+- TOP 30: Bauleitplanung Monhofer Feld
+- TOP 31: Bauleitplanung Fürkeltrath I
+- TOP 32: Bauleitplanung Wuppertaler Straße/ Korkenziehertrasse
+- TOP 33: Bauleitplanung Focher Straße
+- TOP 34: Aussprache zum Rathausneubau
+- TOP 35: Verschiedenes
+- TOP 36: Parkraumbewirtschaftung
+- TOP 37: Messpunkte für mobile Geschwindigkeitsüberwachungen
+- TOP 38: Aluminiumbrücken im Zuge der Korkenziehertrasse über die Wuppertaler Straße und Carl-Ruß-Straße
+- TOP 39: Runder Tisch zum Thema Langzeitarbeitslosigkeit
+- TOP 40: Sparbemühungen im Personalbereich
+- TOP 41: Rathausneubau
+- TOP 42: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Quartal 2008
+- TOP 43: SGB II/SGB XII
+- TOP 44: Masterplan BLTM e. V.
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 4: Jahresabschluss 2007 der REGIONALE 2006 Agentur GmbH
+- TOP 5: Gründung der SWS Verkehrsgesellschaft mbH und einer Fahrbetriebsgesellschaft
+- TOP 6: Planungen zu einem neuen Sportplatz in Solingen-Aufderhöhe
+- TOP 7: Verschiedenes
