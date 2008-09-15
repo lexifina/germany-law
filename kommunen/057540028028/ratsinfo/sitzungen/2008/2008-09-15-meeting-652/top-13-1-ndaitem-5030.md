@@ -1,0 +1,7 @@
+# TOP 13.1: Vertragsangelegenheit
+
+- Sitzung: Ausschuss für Soziales, Familie, Jugend und Sport (17. Sitzung) (2008-09-15)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/5030
+- Ergebnis: Einstimmig
