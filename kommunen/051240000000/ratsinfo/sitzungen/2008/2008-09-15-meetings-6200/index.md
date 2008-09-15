@@ -1,0 +1,82 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2008-09-15T16:05:00+02:00
+- Ende: 2008-09-15T21:30:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6200
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6200
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung - Stand: 12.09.08 - 09.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00098247.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00098458.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Bürgerbegehren "Gegen die Schließung der Hauptschule Cronenberg" - ungeändert beschlossen
+- TOP 1.1.1: Bürgerbegehren zur Hauptschule Cronenberg - Kostendeckungsvorschlag - abschließend zur Kenntnis genommen
+- TOP 1.1.1: Anfrage der Ratsfraktion DIE LINKE zum Bürgerbegehren "Gegen die Schließung der Hauptschule Cronenberg - Kostendeckungsvorschlag - abschließend zur Kenntnis genommen
+- TOP 1.1.2: Hauptschule Berghauserstraße 45 - abschließend zur Kenntnis genommen
+- TOP 1.1.3: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen vom 28.07.2008 - abschließend zur Kenntnis genommen
+- TOP 1.2: Beteiligung eines strategischen Partners an der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.3: Entwurf der Eröffnungsbilanz der Stadt Wuppertal zum 01.01.2008 - zur Vorberatung verwiesen
+- TOP 1.4: Weitere Maßnahmen zur Haushaltskonsolidierung - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Wird unter TOP 1.1.2 behandelt
+- TOP 2.2: Bürokratieabbaugesetz II - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Beantwortung der Großen Anfrage der SPD-Fraktion zu den Auswirkungen des Bürokratieabbaugesetzes II und der damit eingeführten Abschaffung des Widerspruchsverfahrens (VO/0640/08) - abschließend zur Kenntnis genommen
+- TOP 2.3: Hösterey - Gelände - ein "Endlager"? - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN zur Fragestunde Rat - abschließend zur Kenntnis genommen
+- TOP 2.4: Eingliederungserfolge erwerbsfähiger Hilfebedürftiger und Arbeitsloser aus dem SGB II in sozialversicherungspflichtige Beschäftigung - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Anfrage der FDP-Fraktion, Drs.-Nr. VO/0722/08 - abschließend zur Kenntnis genommen
+- TOP 2.5: JVA und andere Landeseinrichtungen am Standort Parkstraße/ Erbschlö - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Baustellenbedingter Lkw-Verkehr und andere Fragestellungen in Bezug auf die geplanten Landesvorhaben im Bereich Parkstraße / Erbschlö - abschließend zur Kenntnis genommen
+- TOP 2.6: Vorstandsbezüge WSW/AWG - abschließend zur Kenntnis genommen
+- TOP 2.6.1: Antwort auf die Große Anfrage der Ratsfraktion DIE LINKE: Vorstandsbezüge WSW/AWG - abschließend zur Kenntnis genommen
+- TOP 2.7: Beschluss des Rates zur Errichtung einer 6. Gesamtschule in Wuppertal am 07.02.2008 zu VO/0119/08 - abschließend zur Kenntnis genommen
+- TOP 2.7.1: Antwort zur Anfrage der Ratsfraktion DIE LINKE vom 02.09.2008 "Beschluss des Rates zur Errichtung einer 6. Gesamtschule in Wuppertal" - abschließend zur Kenntnis genommen
+- TOP 2.8: Datenhandel in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.8.1: Datenhandel in Wuppertal; Antwort auf Anfrage der Fraktion Bündnis 90/Die Grünen - abschließend zur Kenntnis genommen
+- TOP 2.9: Entwurf des Luftreinhalteplans Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.9.1: Entwurf des Luftreinhalteplans Wuppertal - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Soziale Folgen explodierender Energiepreise - abgelehnt
+- TOP 4.2: Kommunalen Eigenanteil bei der Finanzierung von Kindergartenplätzen neu regeln - abgelehnt
+- TOP 4.3: Gemeinsamer Wahltermin von Kommunalwahl und Migrationsausschuss - zurückgezogen
+- TOP 4.4: Gemeinsamer Antrag der Fraktionen der CDU und SPD zur Fraktionsfinanzierung - ungeändert beschlossen
+- TOP 4.4.1: Antrag Zuwendungen für Fraktionen, Gruppen und Stadtverordnete - abgelehnt
+- TOP 4.5: Ergänzung zum Luftreinhalteplan - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzung über die Fernwärmeversorgung "Fernwärmeschiene Süd im Bereich Lichtscheid/Erbschlö/Otto-Hahn-Strasse" - ungeändert beschlossen
+- TOP 6.2: Änderung der städtischen Parkgebührenordnung durch Ausweitung des mit Parkscheinautomaten bewirtschafteten Innenstadtparkbereiches in Barmen - ungeändert beschlossen
+- TOP 6.3: Dritte Änderung der Satzung der Stadt Wuppertal für die Durchführung von Einwohneranträgen, Bürgerbegehren und Bürgerentscheiden Gemäß §§ 25 und 26 GO NRW - ungeändert beschlossen
+- TOP 6.4: Änderung des Taxentarifs - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Bericht der Gemeindeprüfungsanstalt Nordrhein-Westfalen über die "Überörtliche Prüfung der Stadt Wuppertal in den Jahren 2007 - 2008" - Entgegennahme ohne Beschluss
+- TOP 7.2: Instandsetzung Brücke Ohligsmühle, Erhöhung der Baukosten - ungeändert beschlossen
+- TOP 7.3: Bereitstellung überplanmäßiger Mittel im Jugend- und Sozialbereich - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2007 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Offene Altenarbeit - - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses der APH für das Geschäftsjahr 2007 - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2007 - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2007 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.5: Vorlage des Beteiligungsberichtes 2006 - Entgegennahme ohne Beschluss
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren Nr. 1070 V - Einkaufszentrum Unterkirchen - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Konkretisierung des Stadterneuerungsprojektes 'Stadtumbau West' für die Anmeldung von Teilprojekten zum Stadterneuerungsprogramm 2008 des Landes NRW auf der Grundlage des Grundförderantrages vom 18.07.05 - ungeändert beschlossen
+- TOP 11.2: Neuorganisation der Chemischen und Lebensmitteluntersuchungsämter in Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 11.3: Zukünftiger Standort der Zulassungsstelle - ungeändert beschlossen
+- TOP 11.4: Umbenennung des Behindertenbeirates - geändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bestellung eines Mitglieds für den Betriebsausschuss des GMW - ungeändert beschlossen
+- TOP 12.2: Wahlvorschlag für den Verbandsrat des Wupperverbandes - geändert beschlossen
+- TOP 12.3: Vertretung der Stadt Wuppertal in Mitgliederversammlung und Vorstand des Schlossbauvereins - ungeändert beschlossen
+- TOP 12.4: Verwaltungsausschuss der Agentur für Arbeit - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.6: TOP 12: Gremienbesetzung / Benennungen - ungeändert beschlossen
