@@ -1,0 +1,53 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-09-15T15:00:00+02:00
+- Ende: 2008-09-15T15:55:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2247
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2247
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096812.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096812.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096812.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Kämmererliste 2008/2007 - einstimmig beschlossen
+- TOP 4: Folgekosten des 1. Halbjahres 2008 aufgrund von B + F - zur Kenntnis genommen
+- TOP 5: Ergänzungsbeschluss zur Erschließung im Neubaugebiet Auf'm Wettsche - einstimmig beschlossen
+- TOP 6: Teilnahme an der Weltausstellung Expo Shanghai 2010 - zur Kenntnis genommen
+- TOP 7: Wohnpark Flehe, Bereitstellung zusätzlicher Etatmittel zur Finanzierung von Straßenbaukosten - einstimmig beschlossen
+- TOP 8: Quadriennale GmbH; Neugründung einer Gesellschaft - passieren lassen
+- TOP 9: BSA Karl-Hohmannstraße Modernisierung Sportanlage - einstimmig beschlossen
+- TOP 10: BSA Pariser Straße Umbau Tennennspielfeld in Kunstrasen - einstimmig beschlossen
+- TOP 11: Schulzentrum Kamper Weg 291, Neubau einer 1-fach Sporthalle mit Räumlichkeiten für die Offene Ganztagsschule und einer Hausmeisterdientswohnung -Bau- und Finanzierungsbeschluss- - einstimmig beschlossen
+- TOP 12: Rather Waldstadion, Wilhelm-Unger-Str. 7, Neubau einer 3-fach Sporthalle - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 13: Sanierung der Feuerwache Frankfurter Str. 245, 1. Bauabschnitt - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 14: Sanierung Hochwasserschutzdeich Kaiserswerth - Bau-und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 15: Friedhof Stoffeln Erweiterung der Kühlzelle im Krematorium - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 16: Erneuerung der Ufermauer an der Itter in Benrath - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 17: Deutsche Oper am Rhein, 2. Bauabschnitt - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 18: GGS Am Mergelsberg 1, Neubau von Mehrzweckräumen und Räumlichkeiten für die Offene Ganztagsschule - einstimmig beschlossen
+- TOP 19: GGS Walther-Rathenau-Straße 15, Erweiterungsbau für die Offene Ganztagsschule an derJugendfreizeiteinrichtung Kamper Straße 17 - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 20: Abenteuerspielplatz Eller, Heidelberger Straße 46 Ersatzneubau des Spielhauses - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 21: Kreuzungsumbau Völklinger Straße / Plockstraße mit "Überflieger" - einstimmig beschlossen
+- TOP 22: Kreuzungsumbau Völklinger Straße / Fährstraße - BuF - einstimmig beschlossen
+- TOP 23: Entsendung von Mitgliedern in den Ausschuss des Deichverbandes "Neue Deichschau Heerdt" für die Amtszeit 01.04.2009 bis 31.03.2015 - einstimmig beschlossen
+- TOP 24: Neufassung zur Vorlage 70/8/2008 Entgeltordnung des Garten-, Friedhofs- und Forstamtes - einstimmig beschlossen
+- TOP 25: Namensänderung Städtisches Cecilien-Gymnasium - einstimmig beschlossen
+- TOP 26: Auflösung der Städtischen Katholischen Grundschule Färberstraße - einstimmig beschlossen
+- TOP 27: Kunstpreisträger/-in in der Landeshaupstadt Düsseldorf 2008 - einstimmig beschlossen
+- TOP 28: Dienstreise Expo Real 2008 - einstimmig beschlossen
+- TOP 29: Genehmigung einer Dienstreise - Mitglieder ArezI - nach Brüssel - einstimmig beschlossen
+- TOP 30: Genehmigung einer Dienstreise - Mitglieder ArezI - nach Den Haag - einstimmig beschlossen
+- TOP 31: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 32: Veränderungssperre Vogelsanger Weg - einstimmig beschlossen
+- TOP 33: FNP-Änderung Nr. 125 - Kö-Bogen - mehrheitlich beschlossen
+- TOP 34: B-Plan Nr. 5481/036 - An der Piwipp - einstimmig beschlossen
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Änderung der Taxentarifordnung - einstimmig beschlossen
