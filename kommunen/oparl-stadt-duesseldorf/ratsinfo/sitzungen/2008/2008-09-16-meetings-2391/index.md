@@ -1,0 +1,52 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-09-16T17:00:00+02:00
+- Ende: 2008-09-16T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2391
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2391
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126312.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126312.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126312.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Kinder- und Jugendfreizeitplan
+- TOP 4: BPl 5976/025-Düssel-Park Gh Süd-ÖB
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Parkplatz Sportanalge Dreherstraße
+- TOP 10: GGS Am Mergelsberg 1, Neubau von Mehrzweckräumen und Räumlichkeiten für die Offene Ganztagsschule
+- TOP 11: Haushaltsplanentwurf 2009
+- TOP 12: Kastanien am Zamenhofweg
+- TOP 13: Suche nach einem Ersatzgrundstück
+- TOP 14: Mülleimer an der Heckteichstraße
+- TOP 15: Luftreinhalteplan
+- TOP 16: Abbiegemöglichkeit Dreherstraße / Unter den Eichen
+- TOP 17: Überweg Unter den Eichen / Heyestraße / Dörpfeldstraße Überweg Unter den Eichen / Heyestraße / Dörpfeldstraße
+- TOP 18: CO-Pipeline: Alarm- und Notfallplan für Hubbelrath
+- TOP 19: Fahrbahnbeläge Flaschen-, Paulinen-, Lippstadtstraße, Alte Insel
+- TOP 20: Lichtzeichenanlage Glashüttenstraße / Gödinghover Weg
+- TOP 21: Wartehäuschen Rheinbahn-Haltestelle Knuppertsbrück Wartehäuschen Rheinbahn-Haltestelle Knuppertsbrück
+- TOP 22: Lärmentwicklung Abriss Glashütte
+- TOP 23: Querung der Gleisanlagen S-Bahnhof Gerresheim
+- TOP 24: Obere Kapelle Waldfriedhof Gerresheim
+- TOP 25: Rheinbahn-Haltestelle "Neuenhaus", Richtung Mettmann
+- TOP 26: Schaukästen Aloys-Odenthal-Platz / Sitzmöglichkeiten
+- TOP 27: Verbindungsweg Heckteichstraße / Düssel ("Matschweg") Kamperweg
+- TOP 28: Stratenhofsiedlung
+- TOP 29: CO-Pipeline
+- TOP 30: Verkehrsführung Glashüttenstraße
+- TOP 31: Erweiterung der Verkaufsflächen des Bauhauses - Nach den Mauresköthen
+- TOP 32: Gebäude S-Bahnhof Gerresheim
+- TOP 33: Mietergärten zwischen Pfeffergässchen und Neunzigstraße
+- TOP 34: Miet-Räder in Gerresheim
+- TOP 35: Abbruchgenehmigung Glashüttengelände, Heyestraße 178
