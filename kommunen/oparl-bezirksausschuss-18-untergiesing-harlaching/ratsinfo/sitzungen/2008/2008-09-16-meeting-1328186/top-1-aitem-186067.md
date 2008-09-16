@@ -1,0 +1,7 @@
+# TOP 1.: Allgemeines
+
+- Sitzung: BA 18 - Vollgremium (2008-09-16)
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/186067
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/186067
