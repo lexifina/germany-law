@@ -1,0 +1,181 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2008-09-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1312587
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1312587
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.0: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Bericht des Vorsitzenden zu den Baustellen im Zentrum von Pasing
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Meyerbeer- / Offenbachstraße; Sicherung der gemeinsamen Verkehrsbewegungen sowie Eindämmung der Schall- und Feinstaubemissionen im Bereich der Überbrückung des äußeren Nymphenburger Kanals
+- TOP 2.2.: Unkrautbefall in der Grünanlage Ecke Karwinskistraße / Pfättendorferstraße
+- TOP 2.3.: Zusammenarbeit Bertolt-Brecht-Gymnasium / BA 21 im Rahmen eines sog. P-Seminars für die Oberstufe des G 8 im Schuljahr 2009/10 (vertagt aus der Sitzung vom 29.07.08)
+- TOP 2.4.: Abgebaute Schranke am Zehentstadelweg in Obermenzing (vertagt aus der Sitzung vom 29.07.08)
+- TOP 2.5.: Straßensituation Menzinger Straße / Ecke Lustheimstraße (vertagt aus der Sitzung vom 29.07.08)
+- TOP 2.6.: 100 Jahre Trambahn in Pasing (vertagt aus der Sitzung vom 29.07.08)
+- TOP 2.7.: Blumenauer Str. 87; Gewerbliche Nutzung eines Lagerplatzes für gartenbauliche Zwecke mit (bestehenden) Nebengebäuden, befristet auf 10 Jahre (vertagt aus der Sitzung vom 29.07.08)
+- TOP 2.8.: Erhalt des historischen Gebäudes der ehemaligen Kuvertfabrik (vertagt aus der Sitzung vom 29.07.08)
+- TOP 2.9.: Fahrradweg Gottfried-Keller-Straße (vertagt aus der Sitzung vom 29.07.08)
+- TOP 2.10.: Josef-Retzer-Straße; Nichteinhaltung des LKW-Durchfahrverbots (vertagt aus der Sitzung vom 29.07.08)
+- TOP 2.11.: Erhalt der Hundewiese hinter dem Westbad (vertagt aus der Sitzung vom 29.07.08)
+- TOP 2.12.: Unterführung an der Verdistraße
+- TOP 2.13.: Stadtbild Pasing
+- TOP 2.14.: Lärmbelästigung Bahn
+- TOP 2.15.: Zuwegung Freseniusstraße zur ICE-Strecke; Ersatzpflanzung für gefällten Baum auf der Grünfläche Ecke Fasanen- / Döbereinerstraße
+- TOP 2.16.: Parken in der Pörtschacherstraße
+- TOP 2.17.: Werkschau "....gezeichnet: Ott"
+- TOP 2.18.: Bauvorhaben Pasing NUP / Planung Zentrale Bushaltestelle / Irmonherplatz
+- TOP 2.19.: Brücken zwischen Kunst und Orten des Gebets
+- TOP 2.20.: Sperrung der Eisenbahnunterführung Bärmannstraße
+- TOP 2.21.: Jugendtreff Spielplatz Megerlestraße
+- TOP 2.22.: Zusätzlicher Radweg im Stadtpark in Richtung Gräfelfing
+- TOP 2.23.: Fehlende Verbindung von 2 Radwegen an der Menzinger / Amalienburgstraße
+- TOP 2.24.: Bereitsstellung von Fahrzeugen
+- TOP 2.25.: Rückschnitt des Straßenbegleitgrüns bei der Unterführung Lortzingstraße / Kaflerstraße
+- TOP 2.26.: Stadtpark Pasing
+- TOP 2.27.: Lkw in der Frauendorfer / Beer-Walbrunn-Straße
+- TOP 2.28.: Ablagerungen auf der Grünfläche Parkplatz der Kleingartenanlage SW 98 e.V. an der Silberdistelstraße (s. auch TOP 14.1.4)
+- TOP 3: Bericht des UA Umwelt + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Nimmerfallstr. 68-84, 1 Baum
+- TOP 3.2.: Strindbergstr. 5, 1 Fichte
+- TOP 3.3.: Paul-Gerhardt-Allee 44, 1 Eberesche und 1 Weide
+- TOP 3.4.: Ossiacher Str. 1, 1 Birke
+- TOP 3.5.: Heimburgstr. 15, Baumbestandsplan Nr. 08-18369 (vertagt aus der Sitzung vom 29.07.08)
+- TOP 3.6.: Franz-Wüllner-Str. 28, 1 Baum (vertagt aus der Sitzung vom 29.07.08)
+- TOP 3.7.: Wöhlerstr. 14, 1 Linde (vertagt aus der Sitzung vom 29.07.08)
+- TOP 3.8.: Marschnerstr. 93a - 93 b, 1 Ahorn (vertagt aus der Sitzung vom 29.07.08)
+- TOP 3.9.: Gerlichstr. 10, 1 Eiche (vertagt aus der Sitzung vom 29.07.08)
+- TOP 3.10.: Fritz-Reuter-Str. 6, 1 Esche (vertagt aus der Sitzung vom 29.07.08)
+- TOP 3.11.: Mendelsohnstr. 23, 1 Fichte (vertagt aus der Sitzung vom 29.07.08)
+- TOP 3.12.: Alte Allee 43, Baumbestandsplan Nr. 2008-16619
+- TOP 3.13.: Klarweinstr. 20, 1 Tuja und 1 Fichte
+- TOP 3.14.: Suessenguthstr. 21, Baumbestandsplan Nr. 2008-18657
+- TOP 3.15.: Meyerbeerstr. 28, Baumbestandsplan Nr. 2008-18389
+- TOP 3.16.: Verdistr. 47, 1 Walnussbaum
+- TOP 3.17.: Josef-Schlicht-Str. 4, 3 Fichten
+- TOP 3.18.: Bausenweinallee 82 a, 1 Douglasie
+- TOP 3.19.: Rathochstr. 82, 3 serbische Fichten
+- TOP 3.20.: Thuillestr. 61, 1 Birke
+- TOP 3.21.: Heinrich-Schütz-Weg 29, 1 Fichte
+- TOP 3.22.: Lohensteinstr. 17, 1 Blaufichte
+- TOP 3.23.: Kunzweg 7, Baumbestandsplan Nr. 2008-18681
+- TOP 3.24.: Schmaedelstr. 19, 1 Traubenkirsche
+- TOP 3.25.: Prangerlstr. 7, 1 Birke
+- TOP 3.26.: Pembaurstr. 28, 1 Blaufichte
+- TOP 3.27.: Fouquestr. 22, 1 Blautanne
+- TOP 3.28.: Eisenhartstr. 26, 3 Fichten
+- TOP 3.29.: Agnes-Bernauer-Str. 181, 3 Robinien
+- TOP 3.30.: Samerhofstr. 12, 1 Lärche
+- TOP 3.31.: Steirerstr. 23, 1 Baum
+- TOP 3.32.: Fritz-Reuter-Str. 17, Baumbestandsplan Nr. 2008-20355
+- TOP 3.3.2: Gefahrenbäume
+- TOP 4: Bericht des UA Planung/Verkehr + Beschlussfassung über Empfehlungen
+- TOP 5: Bericht des UA Wohnungsbau (Zweckentfremdung)/verkehrliche Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 6: Bericht des UA Kultur/Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Jugend/Soziales + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Bericht der Kinderbeauftragten
+- TOP 8: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9: Entscheidungen
+- TOP 1: Renovierung Toilettenanlagen Elsa-Brändström-Gymnasium (Empfehlung Nr. 02-08 / E 00587 der Bürgerversammlung am 26.10.2006) - <div>nach Antrag</div>
+- TOP 1.2.: Bessere Kennzeichnung des gültigen Hundeverbots im Pasinger Stadtpark (Empfehlung Nr. 02-08 / E 01058 der Bürgerversammlung am 29.04.2008) - <div>vertagt</div>
+- TOP 1.3.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget; Antragsteller: Intitiative "dynamo-kunstundbuehne" für Theaterproduktion "Der Schatten eines Fluges" von Oktober 2008 - Februar 2009
+- TOP 1.4.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget; Antragsteller: Isarbote.de für das Projekt "Der BA stellt sich vor"
+- TOP 10: Anhörungen
+- TOP 10.1.: Amalienburgstraße 26, Nutzungsänderung EG: Frühstücksraum zu zwei Pensionszimmern / Büro zu Frühstücksraum; Anbau eines Wintergartens und eines Windfangs
+- TOP 10.2.: PERSPEKTIVE München, Fortschreibung des Zentrenkonzeptes, Schwerpunkt Nahversorgung; Grundsatzbeschluss (vertagt aus der Sitzung vom 29.07.08)
+- TOP 10.3.: Paosostraße 69, Neubau einer Reihenhausanlage (4 Häuserzeilen) - Vorbescheid (vertagt aus der Sitzung vom 29.07.08)
+- TOP 10.4.: Genehmigung für die Abfallentsorgungsanlage (Lagerung und Behandlung von Akten und Datenträgern) der Firma Remondis am Standort Rupert-Bodner-Straße 25 (vertagt aus der Sitzung vom 29.07.08)
+- TOP 10.5.: Kommunales Wohnungsbauförderprogramm; Clearinghaus Pippinger Straße 26; Entwurf einer Beschlussvorlage für die Sitzung des Sozialausschusses; Behandlung von Empfehlungen aus der Bürgerversammlung des 21. Stadtbezirkes vom 29.04.2008
+- TOP 10.6.: Veranstaltung in einer städtischen Grünanlage, Flohmarkt am 26. bzw. 27.09.08 auf dem Spielplatz Ecke Willibald- / Senftenauerstraße
+- TOP 10.7.: Alte Allee 43, Neubau eines Doppelhauses mit Garagen / Vorbescheid
+- TOP 10.8.: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 10.9.: Wartehäuschen an allen Haltestellen von Bus und Tram (Empfehlung Nr. 02-08 / E 01055 der Bürgerversammlung vom 29.04.08)
+- TOP 10.10.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der LH München (ehem. Verwaltungsanordnung)
+- TOP 10.11.: Namenserläuterungen an Straßenschildern
+- TOP 10.12.: Verdistr. 90: 2 Wechselwerbeanlagen auf Monofuß
+- TOP 10.13.: Schladminger Str. 1, Neubau eines Doppelhauses mit Garagen
+- TOP 10.14.: Nutzung der Grundstücke Fl.St. 550/1 an der Frauendorferstraße und Fl.St. 318/84 und 221 an der Otilostraße als Kürbisverkaufsplatz vom 01.09.-31.10.08
+- TOP 10.15.: Fritz-Reuter-Str. 17, Anbau eines Einfamilienhauses mit Einliegerwohnung an ein Gebäude
+- TOP 10.16.: Polkostr. 48, Neubau eines Fünffamilienhauses mit Tiefgarage
+- TOP 10.17.: Dorfstr. 39, Nutzungsänderung mit leichten baulichen Änderungen: Lager / Speicher zu Büro (DG), Werkstätte zu Büro (EG) und Einbau eines Handwerkraums im EG
+- TOP 10.18.: Pfättendorferstr. 21, Umbau eines Einfamilienhauses - Tektur
+- TOP 10.19.: August-Exter-Str. 4, Aufstockung 3. OG / Bauteil E - Tektur
+- TOP 10.20.: Bodenseestr. 6-8, Nutzungsänderung zu einer Sprachenschule
+- TOP 10.21.: Benedikterstr. 10-16, Fassaden-, Dachsanierung, Balkonerneuerung, Neuordnung Müll- / Fahrradanlagen, Fahrradtreppenrampen, Solarbrauchwasserkollektoren
+- TOP 10.22.: August-Exter-Str. 24, Umbau eines denkmalgeschützen Einfamilienhauses mit Anbau
+- TOP 10.23.: Suessenguthstr. 21, Neubau eines EF-Reihenhauses mit TG-Stellplatz (RH 1)
+- TOP 10.24.: Suessenguthstr. 21, Neubau eines Mehrfamilienhauses (8 WE) mit Tiefgarage (12 Stpl.)
+- TOP 10.25.: Klarweinstr. 33, Neubau eines Doppelhauses mit Garagen
+- TOP 10.26.: Wilhelm-Hey-Str. 15, Neubau eines Einfamilienhauses mit Doppelgarage
+- TOP 10.27.: Landsberger Str. 426, Neubau eines Bürogebäudes mit Werkstatthalle und Ausstellungsfläche
+- TOP 10.28.: Freseniusstr. 2b, Neubau von 2 Mehrfamilienhäusern (10 WE) mit Tiefgarage
+- TOP 10.29.: Pfeivestlstr. 59, Errichtung eines Zweifamilienhauses mit Garage / Tektur
+- TOP 10.30.: Städtisches Anwesen Bodenseestr. 1, Laden im EG
+- TOP 10.31.: Überdenken der Planungen im Zentrumsbereich Pasing - vor allem der Nordumgehung Pasing, Realsierung der "Planungsvariante Tunnel" für die Nordumgehung Pasing (Empfehlungen Nr. 02-08 / E 01063 und Nr. 02-08 / E 01070 der Bürgerversammlung vom 29.04.08)
+- TOP 10.32.: Bäckerstr. 10, Nutzungsänderung einer Wohn- in eine Bürofläche als Erweiterung einer Bankfiliale
+- TOP 10.33.: Kunzweg 7, Neubau einer Wohnanlage mit Garagen
+- TOP 10.34.: Longiunusstr. 15, Neubau eines Wohnhauses (8 WE) mit Tiefgarage (8 Stpl.)
+- TOP 10.35.: Sonderflughafen Oberpfaffenhofen
+- TOP 11: Anträge und Anfragen
+- TOP 11.1.: SPD: Antrag: Aufhebung von Park- und Haltverboten in der Verdistraße (vertagt aus der Sitzung vom 29.07.08)
+- TOP 11.2.: SPD: Antrag: U-Bahn und Trambahn nach Pasing (vertagt aus der Sitzung vom 29.07.08)
+- TOP 11.3.: SPD: Antrag: Überprüfung der Vergabepraxis für den Zehentstadl
+- TOP 11.4.: CSU: Antrag: Platzgestaltung Sibeliusstraße / Kaspar-Kerll-Straße
+- TOP 11.5.: CSU: Antrag: Gestaltung zentraler Orte in Obermenzing II
+- TOP 11.6.: CSU: Antrag: Gestaltung zentraler Orte in Obermenzing I
+- TOP 11.7.: CSU: Antrag: Gestaltung "Pippinger Kreisel"
+- TOP 11.8.: CSU: Antrag: Sanierung / Erweiterung Schule an der Grandlstraße
+- TOP 11.9.: CSU: Antrag: Gestaltungsmaßnahmen im Bereich des Obermenzinger Bahnhofs
+- TOP 11.10.: Bündnis 90 / Die Grünen: Antrag: Umbau der Kreuzung Am Knie / Agnes-Bernauer-Straße / Weinbergerstraße / Gräfstraße (vertagt aus der Sitzung vom 29.07.2008)
+- TOP 11.11.: FDP: Antrag: Eigener Radweg am Nymphenburger Kanal (vertagt aus der Sitzung vom 01.07.08)
+- TOP 12: Unterrichtungen
+- TOP 12.1.: Amtsblatt Nr. 21, 22, 23
+- TOP 12.2.: Vollzug der Baumschutzverordnung, Fällungsanträge im Stadtbezirk (Listen vom 28.07.-03.08., v. 04.08.-10.08., 11.08.-17.08., 18.08.-24.08., 25.08.-31.08.)
+- TOP 12.3.: Bauanträge im Stadtbezirk (Listen vom 28.07.-03.08., 04.08.-10.08., 11.08.-17.08., 18.08.-24.08., 25.08.-31.08.)
+- TOP 12.4.: Baumaßnahmen der Stadtwerke München GmbH (Aufstellungen zum 04.08., 11.08., 18.08., 25.08., 01.09.)
+- TOP 12.5.: Unveränderte Fortführungen von Gaststättenbetrieben - "Harveli", Menzinger Str. 103
+- TOP 13: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 15.07.08: - Leistungsprogramm der MVG für die Fahrplanperiode 2009
+- TOP 13.2.: Ausschuss für Stadtplanung und Bauordnung vom 16.07.2008 - Siedlungsschwerpunkt Freiham, Freiham Nord
+- TOP 13.3.: Vollversammlung vom 23.07.08 - Initiative Europäische Metropolregion München; Sachstandsbericht
+- TOP 14: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: OB Ude: - Bürgerversammlung des 21. Stadtbezirkes Pasing-Obermenzing, BT Obermenzing, am 21.10.08
+- TOP 14.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3.: Direktorium - Antrag auf Gewährung eines Zuschussuses aus dem BA-Budget; Bescheide an a) DJK München-Pasing e.V. vom 28.07.08, b) Elsa-Brändström-Gymnasium vom 28.07.08 c) Heimat- und Volkstrachtenverein "D`Würmtaler" Menzing e.V. vom 11.08.08 d) Kinderhaus Obermenzing vom 11.08.08 e) Schützengesellschaft Grabenfleck e.V. vom 11.08.08 f) Arbeitsgemeinschaft Pasinger Vereine e.V. vom 11.08.08 g) Kindergarten St. Leonhard vom 13.08.08 h) Initiative "gezeichnet Ott" vom 27.08.08 - Oktoberfest 2008; Reservierung für die Bezirksausschüsse (Termin für den BA 21: 24.09.08)
+- TOP 14.4.: Baureferat - Weiteres Vorgehen Umgestaltung Pasing; hier: Einberufung des Koordinierungsgremiums zu den Bauarbeiten im Pasinger Zentrum bei Bedarf und Abstimmung mit dem BA 21 (Antrag Nr. 08-14 / B 00084 vom 03.06.08) - Ausbau Diltheyweg - Verbesserung der Übersichtlichkeit der Kreuzung Weinbergerstraße / Josef-Retzer-Straße (Empfehlung Nr. 02-08 / E 01056 der Bürgerversammlung vom 29.04.08) - Grünanlage zwischen Agnes-Bernauer-Straße und Senftenauerstraße, Sitzgelegenheiten, "Sonenbaden" - Projekt Nordumgehung Pasing, Verkehrsanlagen / Infocontainer - Bergsonstraße zw. An der Langwieder Haide und Alten Allee - Verlegung des im Verkehrskonzept Pasing Zentrum momentan in der Landsberger Straße geplanten Abstell- und Überholgleises, Größere Erweiterung des Rathausplatzes als vorgesehen bei der Pasinger Zentrumsplanung, Weiteres Vorgehen bei der Konkretisierung der Ergebnisse des Plangutachtens Verkehrskonzept Pasinger Zentrum (Anträge Nr. 04-14 / B 00082, Nr. 08-14 / B 00083 und Nr. 08-14 / B 00085 vom 03.06.08) - Pippinger Straße; Lärm, Feinstaub - Ersatzpflanzung Weinbergerstr. 56 a - Grünanlage an der Petzetstraße - Lagerung von Gartenabfällen und Aushubmaterial bei der Baumschule an der Silberdistelstraße (s. auch TOP 2.2.28) - Fahrradchaos am Pasinger Bahnhof Nord - Umleitung des Radweges Paul-Eipper-Weg - Pasinger Stadtpark; Entfernung einer Umlaufsperre an der Grenze zu Lochham
+- TOP 14.5.: Referat für Gesundheit und Umwelt - Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen; Antrag auf Genehmigung für Errichtung und Betrieb eienr Anlage zur Vernichtung von Akten und Datenträgern auf dem Anwesen Rupert-Bodner-Str. 25
+- TOP 14.6.: Kommunalreferat - Bitte um Unterstützung bei der Suche von Räumlichkeiten für eine Kindertagesstätte - Flst. 7 Obermenzing, Dorfstr. 34 (Antrag Nr. 08-14 / B 00301 vom 29.07.08))
+- TOP 14.7.: Kreisverwaltungsreferat - Absolutes Haltverbot im Bereich des Zebrastreifens Mendelssohnstraße 7 - Arbeiten im Straßenraum, Alte Allee zwischen Bergsonstraße und Marschnerstraße - Landschaftspark Laim-Hadern-Pasing; Ablagerung von Abraum -Planegger Straße; Umwandlung einer Ladezone in eine Kurzparkzone (gegenüber Bushaltestelle Engelbertstraße) - Schaffung eines gesicherten Fußgängerübergangs im Kreuzungsbereich Offenbach- / Marsopstraße - Offenbachstraße, Einbahnregelung zwischen Peter-Vischer-Straße und Nusselstraße (Straßenbau-Deckensanierung) - Baustelle Offenbachstraße - Arbeiten im Straßenraum, Bergsonstraße zwischen Alte Allee und An der Langwieder Haide, Einbahnregelung Bergsonstraße und Dreillingsweg (Straßenbauarbeiten) - Anmeldung einer stationären Versammlung unter freiem Himmel am 20.08.08 - Arbeiten im Straßenraum, Bärmannstraße Fußgänger- Radfahrerunterführung - S 1 Flughafenanbindung West (Sperre wegen Bauarbeiten) - Radwegsituation Kreuzung Lortzingstraße / Kaflerstraße (Antrag Nr. 08-14 / B 00302 vom 29.07.08) - Umleitung des Radweges Paul-Eipper-Weg
+- TOP 14.8.: Kulturreferat - Veranstaltungen / Kooperationen im August 2008
+- TOP 14.9.: Schul- und Kultusreferat - Fahrradchaos am Pasinger Bahnhof Nord
+- TOP 14.10.: Planungsreferat - Hofmillerstr. 23, Fällungsantrag vom 03.07.08 - Rahmenbedingungen im Vollzug der Baumschutzverordnung der LH München (Antrag Nr. 02-08 / B 01848 vom 06.02.07) - Planfeststellung gem. § 18 Allgemeines Eisenbahngesetz (AEG); Errichtung eines Terminalbauwerkes im Bahnhof München Pasing - Anhörungsverfahren - - Amalienburgstr. 29, Neubau zweier Mehrfamilienhäuser mit Tiefgarage (10 Stpl.) / Vorbescheid
+- TOP 14.11.: Sozialreferat - Bedarfsmeldung Streetworkangebot in Pasing für Erwachsene - Interkulturelles Integrationskonzept - Informationsveranstaltung des Sozialreferates am 03.12.08
+- TOP 14.12.: Stadtwerke München GmbH - 100 Jahre Tram nach Pasing - Terminverschiebung - Planungen zur Verlängerung der Straßenbahnlinie 19 zum Bahnhof Pasing; Einladung zur Fach-Exkursion nach Heilbronn und Straßburg vom 26.-27.09.08
+- TOP 14.13.: Münchner Verkehrsgesellschaft mbH (MVG) - Zusätzliche Bushaltestelle in der Planegger Straße in Höhe des Islamischen Kulturzentrums; Wegfall von Parkplätzen
+- TOP 14.14.: Referat für Arbeit und Wirtschaft - Wirtschaftsinfo 07/2008
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: konzept: grün GmbH (im Auftrag der LH München / Sozialreferat) - Fachtag "Quartierbezogene Bewohnerarbeit / Erfolge, Bestandsaufnahme und Zukunftsperspektiven" am 16.10.08
+- TOP 14.2.: Condrobs - Sachbericht Suchtwoche Pasing
+- TOP 14.3.: REGSAM - Einladung zum 15. Geburtstag von REGSAM am 16.10.08
+- TOP 14.4.: Adis Grundstücksentwicklung - Flyer zur Nachbarschaftsinformation / Ehem. Weyl-Gelände - Königsgarten Pasing
+- TOP 14.5.: BA 20 Hadern - Hundewiese hinter dem Westbad - Autobahnhinsweisschilder an der Kreuzung Krokusstraße / Silberdistelstraße
+- TOP 14.6.: Stadtschülervertretung München - Infoblatt
+- TOP 14.7.: Arbeitsgruppe "Gedenkveranstaltung zum 9. November" - Namenslesung der während der NS-Zeit ermordeten Münchner Juden anlässlich des 70. Jahrestages der sog. "Reichskristallnacht"
+- TOP 15: Verschiedenes
+- TOP 15.1.: Nächste BA-Sitzungen: 07.10. und 04.11.2008 jeweils 19.00 Uhr im Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Straße 486
+- TOP 15.2.: Bürgerversammlung des 21. Stadtbezirkes Pasing-Obermenzing, Bezirksteil Obermenzing, am 21.10.2008 um 19.00 Uhr in der Turnhalle der Schule an der Grandlstraße 5
