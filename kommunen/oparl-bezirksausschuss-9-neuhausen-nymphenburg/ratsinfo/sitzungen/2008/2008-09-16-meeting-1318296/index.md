@@ -1,0 +1,121 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2008-09-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1318296
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1318296
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Evang.-Luth. Stephanuskirche (Az.: 08/08 - 3.4.1): Zuschuss in Höhe von 4 873 ? für die Sanierung des Spielplatzes des Kindergartens (Wiedervorlage aus der Sitzung vom 19.08.08)
+- TOP 2.3.2.: Antrag Verein zur politischen Jugendpartizipation e.V. (Az.:09/08 - 3.4.1): Zuschuss in Höhe von 1 000 ? für das Filmprojekt "Rollstuhl"
+- TOP 2.3.3.: Antrag Eltern-Kind-Initiative Pipi Langstrumpf e.V. (Az.: 09/08 - 3.4.2): Zuschuss in Höhe von 1 353,20 ? für den Kauf von Mobiliar
+- TOP 2.3.4.: Antrag Tanztendenz München e.V. (Az.: 09/08 - 3.5.1): Zuschuss in Höhe von 3 850 ? für Choreografenatelier vom 16.-24.10.08
+- TOP 2.3.5.: Antrag Initiative "Künstlerhof" (Az.: 09/08 - 3.5.2): Zuschuss in Höhe von 1 300 ? für eine Ausstellung vom 24.-26.10.08
+- TOP 2.3.6.: Antrag Isarbote.de (Az.: 09/08 - 4.1): Zuschuss in Höhe von 7 200 ? für das Projekt "Der BA stellt sich vor"
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: Beschlussvorlage Baureferat (Az.: 10/96 - 3.2.13): Vollzug des Bayerischen Straßen- und Wegegesetzes; Widmung einer Teilstrecke der Schloßschmidstraße und der Straße Eisnergutbogen
+- TOP 2.4.2.: Beschlussvorlage KVR (Az.: 09/08 - 4.2a): Entscheidung über eine Freischankfläche, Backspielhaus, Elvirastr. 6-8
+- TOP 2.4.3.: Beschlussvorlage KVR (Az.: 09/08 - 4.2b): Entscheidung über eine Freischankfläche, Backspielhaus, Blutenburgstraße Höhe Hausnr. 70
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürgeranliegen: Verkehrsbelastung in der Richelstraße
+- TOP 3.2.: Bürgeranliegen: Parkplätze für schwer gehbehinderte Gartenmitglieder und Friedhofsbesucher an der Kleingartenanlage Baldurstr. 49a
+- TOP 3.3.: Bürgeranliegen: Sperrung der Eisenbahnunterführung Bärmannstraße zwischen Nymphenburger Schlosspark und Paul-Gerhardt-Allee
+- TOP 3.4.: Antrag SPD: Keine MVV-Preiserhöhungen im Ausbildungstarif
+- TOP 3.5.: KVR: Verkehrsrechtliche Anordnung: Verlegung der Bücherbushaltestelle Albrechtstr. 6 vor Albrechtstr. 2
+- TOP 3.6.: KVR: Verkehrsrechtliche Anordnung: Fuß- und Radwegübergang Nymphenburger Straße / Maillingerstraße
+- TOP 3.7.: Stadtwerke: Stromprojekt Margarethe-Danzi-Straße
+- TOP 3.8.: Baumaßnahmen der Stadtwerke August 08
+- TOP 3.9.: KVR: Genehmigung personenbezogener Behindertenparkplatz in der Gabrielenstraße, östlich des Anwesens Blutenburgstr. 55
+- TOP 3.10.: KVR: Genehmigung eines personenbezogenen Behindertenparkplatzes in der Lorschstr. 3
+- TOP 3.11.: KVR: Bürgeranliegen Parken auf der Südlichen Auffahrtsallee (Schreiben BA 9 vom 11.07.08)
+- TOP 3.12.: =&gt; dazu: Schreiben Polizeiinspektion 42
+- TOP 3.13.: Baureferat: Bürgeranliegen Gehwegeinebnung in der Prinzen-/Eddastraße (Schreiben BA 9 vom 11.07.08)
+- TOP 3.14.: Baureferat: Bürgeranliegen: Straßenzustand in der Merianstraße (Schreiben BA 9 vom 15.07.08) Wiedervorlage aus der Sitzung vom 19.08.08
+- TOP 3.15.: KVR: Absolutes Haltverbot in der Kratzerstraße (Schreiben BA 9 vom 17.07.08)
+- TOP 3.16.: Baureferat: Bürgeranliegen Fahrradständer am Leonrodplatz (Schreiben BA 9 vom 17.06.08)
+- TOP 3.17.: Beschluss der Vollversammlung des Stadtrats vom 23.07.08: Leistungsprogramm der MVG für die Fahrplanperiode 2009
+- TOP 3.18.: MVG: Bürgeranliegen Halt der Buslinie N99 auch an der Haltestelle Steubenplatz (Schreiben BA 9 vom 18.03.08)
+- TOP 3.19.: Sozialreferat: Barrierefreie Ausgestaltung der Fußgängerunterführung unter der Landshuter Allee (Antrag BA 9 Nr. 1625 vom 21.11.06) Wiedervorlage aus der Sitzung vom 19.08.08
+- TOP 3.20.: Bürgeranliegen: Verkehrssituation Fuß-/Radweg Canalettostraße
+- TOP 3.21.: Direktorium: Namenserläuterungen an Straßenschildern
+- TOP 3.22.: MVG: Radfahren am Rotkreuzplatz (Antrag BA 9 Nr. 1624, Schreiben vom 11.07.08)
+- TOP 3.23.: Bürgeranliegen: Kassenautomat vor denkmalgeschützen Anwesen in der Jutastr. 9
+- TOP 3.24.: Beschlussvorlage Baureferat: Vollzug des Bayerischen Straßen- und Wegegesetzes; Widmung einer Teilstrecke der Schloßschmidstraße und der Straße Eisnergutbogen
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 04.08.-10.08., 11.08.-17.08., 18.08.-24.08. und 25.08.-31.08.08
+- TOP 3.2.: Planungsreferat: Bauvorhaben Elvirastr. 17 (Schreiben BA 9 vom 19.08.08)
+- TOP 3.3.: Bauvorhaben Erika-Mann-Straße: Neubau eines Büro- und Verwaltungsgebäudes mit Verbrauchermarkt und Tiefgarage, Tektur
+- TOP 3.4.: Besichtigungsfahrt mit Dr. Merk am 28.07.08 (Wiedervorlage aus der Sitzung vom 19.08.08)
+- TOP 3.5.: Ströer Deutsche Städte Medien GmbH: Entlastung der Fußgängerzone, Umrüstung von Werbesäulen (Schreiben BA 9 vom 19.08.08)
+- TOP 3.6.: Planungsreferat: Bauvorhaben Arnulfstraße/Luise-Ullrich-Straße (Schreiben BA 9 vom 19.08.08)
+- TOP 3.7.: Bauvorhaben Birketweg: Neubau einer Kooperationseinrichtung; hier: Kunst am Bau in den Außenanlagen
+- TOP 3.8.: Protokoll der Kommission für Stadtgestaltung am 22.07.08; hier: Rotkreuzplatz 1, Neubau eines Büro- und Geschäftshauses
+- TOP 3.9.: Planungsreferat: Errichtung einer Werbeanlage in der Notburgastr. 14
+- TOP 3.11.: Planungsreferat: Bauvorhaben Hanebergstraße (Schreiben BA 9 vom 19.08.08)
+- TOP 3.12.: Konkurrierendes Planungsverfahren "Postwiese" östlich des Citylogistikzentrums, Ergänzung des Zwischenprotokolls vom 30.07.08
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Gabrielenstr. 4: Fällung von 1 Birke, Rückschnitt von 1 Haselnuss
+- TOP 3.2.: Rondell Neuwittelsbach 7: Fällung von 1 Ahorn und 1 Buche
+- TOP 3.3.: Sadelerstr. 29: Fällung von 4 Fichten
+- TOP 3.4.: Planungsreferat: Fällung eines Gefahrenbaumes in der Herthastr. 26
+- TOP 3.5.: Verstopfte Regenrinne des Wertstoffhofs Nibelungenstraße
+- TOP 3.6.: Planungsreferat: Fällungsgenehmigung Malsenstr. 5
+- TOP 3.7.: Planungsreferat: Fällungsgenehmigung Tizianstr. 12
+- TOP 3.8.: Planungsreferat: Fällungsgenehmigung Tintorettostr. 7
+- TOP 3.9.: Planungsreferat: Fällungsgenehmigung Walhallastr. 32
+- TOP 3.10.: Abfallwirtschaftsbetrieb: Wertstoffcontainerstandort Albrechtstraße bei Hausnr. 14 (Schreiben BA 9 vom 15.07.08)
+- TOP 3.11.: Baureferat: Öffentlichkeitskampagne zur Steigerung der Sauberkeit im öffentlichen Raum "Rein. Und Sauber" (Schreiben BA 9 vom 17.06.08) =&gt; dazu: Benennung von Standorten für Müllbehälter durch UA-Mitglieder (Wiedervorlage aus der Sitzung vom 19.08.08)
+- TOP 3.12.: Direktorium: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Antrag Verein zur politischen Jugendpartizipation e.V.: Zuschuss in Höhe von 1 000 ? für das Filmprojekt "Rollstuhl"
+- TOP 3.2.: Antrag Eltern-Kind-Initiative Pipi Langstrumpf e.V.: Zuschuss in Höhe von 1 353,20 ? für den Kauf von Mobiliar
+- TOP 3.3.: Information der BAs über die StadtschülerInnenvertretung
+- TOP 3.4.: Vorstellung von REGSAM / Einladung REGSAM wird 15 am 16.10.08
+- TOP 3.5.: Sozialreferat: Vorläufige Einladung zur Informationsveranstaltung des Sozialreferates für die BAs am 03.12.08
+- TOP 3.6.: Gründungsfeier Münchner Bündnis gegen Depression am 10.10.08
+- TOP 3.7.: Einladung zum Fachtag "Quartierbezogene Bewohnerarbeit" am 16.10.08
+- TOP 3.8.: Sozialreferat: Interkulturelles Integrationskonzept
+- TOP 3.9.: Dokumentation zum Fachtag Armut und Migration
+- TOP 3.10.: Antrag Evang.-Luth. Stephanuskirche: Zuschuss in Höhe von 4 873 ? für die Sanierung des Spielplatzes des Kindergartens (Wiedervorlage aus der Sitzung vom 19.08.08)
+- TOP 3.11.: Sozialreferat: Bessere finanzielle Unterstützung für den Bewohnertreff Arnulfpark (Schreiben BA 9 vom 17.06.08)
+- TOP 3.12.: Sachbericht über einen Zuschuss aus dem Budget des BA 9; hier: Kunstprojekt an der Hauptschule Winthirplatz
+- TOP 3.13.: Sozialreferat: Sachstand Wilhelmine-Lübke-Haus (Schreiben BA 9 vom 14.07.08)
+- TOP 3.14.: Pressemitteilung Bayerisches Staatsministerium für Arbeit und Sozialordnung, Familie und Frauen: Lilalu Sommerfestival begeistert Kinder - Freistaat ermöglicht Teilnahme von 300 Kindern mit Migrationshintergrund
+- TOP 3.15.: Sozialreferat: Besetzung der Streetworkerstelle (Schreiben BA 9 vom 14.07.08)
+- TOP 3.16.: Schulreferat: Freisportanlage Schwere-Reiter-Str. 13, Einzäunung und Sanierung des Allwetterplatzes
+- TOP 3.17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.18.: Baumaßnahme Heilig Geist
+- TOP 3.19.: Beschlussvorlage für den Schul- und Sportausschuss: Neubau einer 3-zügigen Grundschule mit 6-gruppigem Tagesheim, Einfachsporthalle und Freisportanlage am Arnulfpark
+- TOP 3.20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.1.: Antrag Tanztendenz München e.V.: Zuschuss in Höhe von 3 850 ? für Choreografenatelier vom 16.-24.10.08
+- TOP 3.2.: Antrag Initiative "Künstlerhof": Zuschuss in Höhe von 1 300 ? für eine Ausstellung vom 24.-26.10.08
+- TOP 3.3.: Wandgestaltung Donnersbergerbrücke / Vorstellung durch den Künstler
+- TOP 3.4.: Geschichtswerkstatt Neuhausen: Wiedererrichtung des Denkmals "Hirschalter" im Hirschgarten
+- TOP 3.5.: Künstlerkreis Neuhausen-Nymphenburg: Finanzielle Unterstützung für eine Ausstellung
+- TOP 3.6.: Kulturreferat: Veranstaltungen im August
+- TOP 3.7.: Arbeitsgruppe "Gedenkveranstaltung zum 9. November": Namenslesung der während der NS-Zeit ermordeten Münchner Juden anlässlich des 70. Jahrestags der sogenannten Reichskristallnacht
+- TOP 3.9.: Raumsituation im geplanten Neubau des Neuhauser Trafo
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Antrag Isarbote.de: Zuschuss in Höhe von 7 200 ? für das Projekt "Der BA stellt sich vor"
+- TOP 4.2.: Beschlussvorlage KVR: Entscheidung über eine Freischankfläche, Backspielhaus, Elvirastr. 6-8
+- TOP 4.3.: Beschlussvorlage KVR: Entscheidung über eine Freischankfläche, Backspielhaus, Blutenburgstraße Höhe Hausnr. 70
+- TOP 4.4.: Datenschutz für BA-Mitglieder
+- TOP 4.5.: KVR: Fahrradbeleuchtungs-und Befragungsaktion auf dem Rotkreuzplatz am 18.10.08
+- TOP 4.6.: KVR: Kundgebung der Ostturkestanischen Union in Europa e.V. zum Thema "Menschenrechtsverletzungen in der VR China" am 01.10.08 in der Romanstr. 107 vor dem Chinesischen Generalkonsulat
+- TOP 4.7.: KVR: Pächterwechsel a) "Ristorante Roma-Pizzeria", Dom-Pedro-Str. 6 b) "Hirschenwirt", Sedlmayrstr. 18 c) "Dipak", Blutenburgstr. 94
+- TOP 4.8.: KVR: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der LH München
+- TOP 5.: Verschiedenes
+- TOP 3.8.: Kulturreferat: Denkmal für Alfred Andersch am Neuhauser Trafo (Antrag BA 9 Nr. 3014 vom 18.03.08)
