@@ -1,0 +1,94 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2008-09-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1300836
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1300836
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Caritas - Beratungsstelle für Flüchtlinge; Errichtung eines Spielplatzes
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Isarbote.de; Projekt "Der BA stellt sich vor"
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: BRK Wasserwacht München Nord; Kauf eines Defibrillators
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: Feldmochinger Rossler e.V.; Feldmochinger Rosstag am 12.10.2008
+- TOP 2.6.: Aschenbrenner- /Schleißheimer Straße (Projekt-Nr. 100340)
+- TOP 2.7.: Öffentliche Grünanlage Am Reigersbach im 24. Stadtbezirk Feldmoching - Hasenbergl
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Antrag auf Unterstützung des Bürgervereins Lerchenau zur Einführung der Geothermie im 24. Stadtbezirk (Bürgerverein Lerchenau)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.9.: Antrag auf Unterstützung für die Bereitstellung von städtischen Räumlichkeiten für kulturelle, Kinder- und Jugendveranstaltungen in der Lerchenau (Bürgerverein Lerchenau)
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: PERSPEKTIVE MÜNCHEN Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorung Grundsatzbeschluss (vertagt in der Sitzung am 29.07.2008)
+- TOP 5.2.: Anhörung im Einzelfall auf Anforderung: Achatstr. 2 - 10
+- TOP 5.3.: Gemeinde Oberschleißheim Bebauungsplan Nr 68; Gewerbegebiet nördlich der Kreuzstraße
+- TOP 5.4.: Gemeinde Oberschleißheim Bebauungsplan Nr. 69; Gewerbegebiet südlich der Schönleutnerstraße
+- TOP 5.5.: Gemeinde Karlsfeld Bebauungsplan Nr. 99; Sondergebiet Tierklinik Am Krebsbach
+- TOP 5.6.: Vollzug der Baumschutzverordnung: Thelottstr. 2 - 14
+- TOP 5.7.: Soziale Stadt Ludwigsfeld Antrag Nr. 02-08 / A 04026 von Frau Stadträtin Mechthilde Wittmann vom 25.10.2007
+- TOP 5.8.: Einrichtung einer Bücherbushaltestelle in der Thelottstraße 20
+- TOP 5.9.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (ehem. Verwaltungsanordnung)
+- TOP 5.10.: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 5.11.: Namenserläuterungen an Straßenschildern
+- TOP 5.12.: Verlegung des Fußgängerüberweges in der Dülferstraße (BA-Antrags-Nr. 02-08 / B 02752 vom 08.01.2008)
+- TOP 5.13.: Anhörung im Einzelfall auf Anforderung: Onyxplatz 5
+- TOP 5.14.: Errichtung von 2 Großflächentafeln, 1-seitig, Feldmochinger Str. Nähe 212a
+- TOP 5.15.: Veranstaltung in einer städtischen Grünanlage, hier: Zirkusveranstaltungen Dülferanger am 16. - 26.10.2008
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Vollzug des Bayer. Straßen- und Wegegesetzes unerlaubtes Abstellen von nicht betriebsbereiten oder nicht zugelassenen Fahrzeugen an der Tagetesstraße 2
+- TOP 6.2.: Öffentliche Widmung des Blausternwegs (BV-Anfrage 08-14 / Q 0009 vom 24.06.2008)
+- TOP 6.3.: Rudbeckiastr. 7, Fl.Nr. 1070/935, Gemarkung Feldmoching Geplante Bebauung
+- TOP 6.4.: Beteiligung des Bezirksausschusses 24 a) Aschenbrennerstraße b) Heppstraße
+- TOP 6.5.: Verkehrssicherheit Neue Siedlung Paul-Preuß-Straße / Antrag Gündoglu
+- TOP 6.6.: Bordsteinabsenkung Weitlstraße Höhe Hausnummer 125 (BA-Antrag Nr. 20 aus der BA-Kinder- und Jugendsprechstunde)
+- TOP 6.7.: Fußgängerbrücke über den Würmkanal (BA-Antrags-Nr. 02-08 / B 01280 vom 20.06.2006) Errichtung einer Brücke über den Würmkanal in Ludwigsfeld (BA-Antrags-Nr. 02-08 / B 02535 vom 06.11.2007)
+- TOP 6.8.: Einrichtung einer zusätzlichen Hortgruppe in der Grundschule Lerchenauer Str. 322 (BA-Antrags-Nr. 02-08 / B 03039 vom 08.04.2008)
+- TOP 6.9.: Kontrolle und Verbesserung der Situation in der Gemeinschaftsunterkunft an der Waldmeisterstraße (BA-Antrags-Nr. 08-14 / B 00072 vom 03.06.2008)
+- TOP 6.10.: Anbringung eines Verkehrsspiegels an der Tiefgaragenausfahrt in der Lahntalstraße (BA-Antrags-Nr. 08-14 / B 00070 vom 03.06.2008)
+- TOP 6.11.: Einwände zum möglichen Ausbau der Bahnstrecke S1 (BA-Antrags-Nr. 08-14 / B 00038 vom 06.05.2008)
+- TOP 6.12.: Einrichtung eines Fuß- /Radweges in der Lerchenstraße zwischen Gundermannstraße und Bahnübergang (BA-Antrags-Nr. 08-14 / B 00198 vom 01.07.2008)
+- TOP 6.13.: Vollzug der Baumschutzverordnung: a) Leberlestr. 7 b) Ponkratzstr. 7 c) Heppstraße
+- TOP 6.14.: Meldelisten Baumfällungsanträge
+- TOP 6.15.: Meldelisten Bauvorhaben
+- TOP 6.16.: Meldelisten Baumaßnahmen der Stadtwerke
+- TOP 6.17.: Olympia - München 2018 ökologisch - nachhaltig - fair
+- TOP 6.18.: Einstiegschacht Feldmochinger Straße
+- TOP 6.19.: Initiative Europäische Metropolregion München Sachstandsbericht
+- TOP 6.20.: Besetzung der Streetworkerstelle im Stadtbezirk 9 Neuhausen - Nymphenburg
+- TOP 6.21.: Die Bürgerversammlungen wieder den Bürgern! Begrenzung der Redezeit von Amtsträgern und Stadtvertretern auf maximal 1,5 Stunden
+- TOP 6.22.: Unterstützung der Wahl der 9. Münchner Seniorenvertretung
+- TOP 6.23.: Daten Kinderkrippen 01.07.2008
+- TOP 6.24.: Grundschule an der Lerchenauer Straße 322 Zuschuss des BA zur Verschönerung des Pausenhofs
+- TOP 6.25.: wir über 60 Magazin des Seniorenbeirates der Landeshauptstadt München
+- TOP 6.26.: Terminankündigung - Fachhearing zum Thema Baumschutz und zum Vollzug der Baumschutzverordnung auf öffentlichen und privaten Flächen
+- TOP 6.27.: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Untersuchungen zur künftigen Flughafenanbindung A. Projektbeendigung - Einstellung des Planfeststellungsverfahrens MSB B. Verbesserung der Schienenanbindung des Flughafens München C. Anträge und Empfehlung
+- TOP 6.28.: Europaarbeit des Referats für Stadtplanung und Bauordnung und aktuelle Entwicklungen der "städtischen Dimension" auf europäischer Ebene
+- TOP 6.29.: Realisierungswettbewerbe "Innovativer Wohnungsbau Hasenbergl" Modellvorhaben e% - Energieeffizienter Wohnungsbau
+- TOP 6.30.: Schleißheimer Straße Zwischen ca. 50m nördlich der Augustin-Rösch-Straße und Pumpwerk nördlich des Schätzweges
+- TOP 6.31.: "Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern!"
+- TOP 6.32.: GWG Jahresbericht 2007
+- TOP 6.33.: Einladung zum Fachtag "Quartierbezogene Bewohnerarbeit" am 16.10.2008 in München
+- TOP 6.34.: Wechsel in der Bezirksleitung des Unterhaltsbezirks Nord - Baureferat Tiefbau
+- TOP 6.35.: Münchner Statistik 2. Quartalsheft, Jahrgang 2008
+- TOP 6.36.: Leistungsprogramm der MVG für die Fahrplanperiode 2009
+- TOP 6.37.: Einladung REGSAM wird 15
+- TOP 6.38.: Interkulturelles Integrationskonzept
+- TOP 6.39.: Oktoberfest 2008; Reservierung für die Bezirksausschüsse
+- TOP 6.40.: Vorläufige Einladung zur Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse
+- TOP 6.41.: Dokumentation des 4. Mitmach-Zirkusfestival 2008 in Ludwigsfeld veranstaltet vom Caritas-Kinder- und Jugendtreff Jump In
+- TOP 6.42.: Verkehrsrechtliche Anordnung: Einrichtung eines beidseitigen absoluten Halteverbots in der Bernhardstraße westlich der Raheinstraße
+- TOP 7.: Berichte
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
