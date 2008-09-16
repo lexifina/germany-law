@@ -1,0 +1,138 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2008-09-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1328186
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1328186
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Neustrukturierung des Hans-Mielich-Platzes; Bürgerschreiben vom 06.08.2008
+- TOP 2.2.: Hans-Mielich-Straße; Freischankfläche der Bäckerei; Bürgerschreiben vom 12.08.2008
+- TOP 2.3.: Trambahnhaltestelle Großhesseloherbrücke; Fahrradständer und Parkplätze für Autos; Bürgeranliegen vom 14.08.2008
+- TOP 2.4.: Zebrastreifen vor der Kindertageseinrichtung Schönstraße 75; Antrag der Leiterin der Kindertageseinrichtung vom 24.07.2008 - <div>Verweisung an Fachausschuss</div>
+- TOP 2.5.: Antrag für eine Gestaltung des Kleinkunstforums Hans-Mielich-Platz mit einer Skulptur (weihnachtliches Motiv) mit der Bitte um Unterstützung
+- TOP 2.6.: Antrag für eine Gestaltung des Kleinkunstforums Hans-Mielich-Platz mit Mosaik
+- TOP 2.7.: Weiterführung des Radweges von der Pilgersheimer Straße in die Krumpterstraße, weiter in die Hans-Mielich-Straße und zum Hans-Mielich-Platz; Bürgerantrag vom 25.08.2008
+- TOP 2.8.: Antrag zu TOP 2.1.2.7 auf Weiterleitung des Schreibens des ADFC an den Bürger
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.4: Anträge gemäß § 7 Abs. 4 BA-GeschO
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Burschenverein Harlaching, für die Maßnahme: Fest der Harlachinger Jugend am 19.07.2008; Antragssumme: 431,-- ?; Beschlussvorlage des Direktoriums vom 05.08.2008
+- TOP 3.2.: AntragstellerIn: Freunde Giesings e.V., für die Maßnahme: Ausstellung "Giesinger Köpfe 2" vom 28.08. - 21.09.08; Antragssumme: 1.611,-- ?; Beschlussvorlage des Direktoriums vom 23.07.2008
+- TOP 3.3.: AntragstellerIn: Kreisjugendring München-Stadt, für die Maßnahme: Kinder- und Jugendfest anlässlich der 850-Jahr-Feier am 25.07.2008; Antragssumme: 530,-- ?; Beschlussvorlage des Direktoriums vom 23.07.2008
+- TOP 3.4.: AntragstellerIn: Lilalu e.V., für die Maßnahme: Spielprogramm Umsonst und Draußen vom 15. - 31.08.2008; Antragssumme: 3.000,-- ?; Beschlussvorlage des Direktoriums vom 23.07.2008
+- TOP 3.5.: Beschlussfassung über die Finanzierung der Informationsveranstaltung des BA 18 "Hans-Mielich-Platz - akuteller Sachstand" am 03.11.2008 aus dem Budgetanteil für BA-eigene Veranstaltungen; Summe: ______,- ?
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Elterninitiative Opodeldoks e.V., für die Maßnahme: Umbauarbeiten in den Räumlichkeiten des Kindergartens; Antragssumme: 1.893,35 ?; Antrag vom 14.08.2008
+- TOP 3.2.: AntragstellerIn: N. Keller, für die Maßnahme: Material für eine Skulptur am Hans-Mielich-Platz; Antragssumme: 555,-- ?; Antrag vom 01.08.2008
+- TOP 3.3.: AntragstellerIn: Jugendtreff Akku, für die Maßnahme: Kinder- und Jugendfest am Candidplatz im Rahmen der 850-Jahr-Feier; Antragssumme: 530,-- ?; Antrag vom 02.07.2008
+- TOP 3.1.: Budgetantrag des Carpe Diem e.V. vom 01.01.2008, beschlossen in der Sitzung am 18.03.2008; für die Maßnahme: Wasseranschluss für die Küchenzeile im Betreuungsgruppenraum für Demenzkranke; Erhöung des Zuschusses von 1.794,-- ? auf 2.436.- ?; Schreiben des Direktoriums vom 18.06.2008 mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 15.07.2008)
+- TOP 3.1.: Budgetmittel der Bezirksausschüsse der Landeshauptstadt München; Ablehnung einer beantragten Zuwendung für den Verein Ukraina-Gesellschaft e.V.; Schreiben des Direktoriums vom 19.08.2008
+- TOP 3.2.: Zuwendung aus dem Budget der Bezirksausschüsse; Antrag vom 01.01.2008 beim BA 18 durch Carpe Diem; Verlegung eines Wasseranschlusses; Antrag auf Erhöhung des Zuschusses; Schreiben des BA 18 vom 28.07.2008; Antwortschreiben des Direktoriums vom 25.08.2008
+- TOP 3.3.2: UA Verkehr
+- TOP 1: (E) Einrichtung eines Fußgängerüberwegs über die Schönstraße in Höhe der Ludmillastraße Empfehlung Nr. 02-08 / E 00996 der Bürgerver- sammlung des 18. Stadtbezirkes Untergiesing- Harlaching am 25.10.2007 - <div>Verweisung an Fachausschuss</div>
+- TOP 1.1.: MVG - Ergebnisse der Spiele bei Fußballwelt- und Europameisterschaften (auch ohne deutsche Beteiligung) auf den elektronischen Anzeigetafeln in den U-Bahnen; Antrag der Fraktion Bündnis 90 / Die Grünen vom 06.07.2008 - <div>nach Antrag</div>
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: neue Radverkehrsroute Untergiesing - Obergiesing - Harlaching durch den Giesinger Freizeitpark; Empfehlung Nr. 02-08 / E 00812 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing am 21.06.2007; Sitzungsvorlage Nr. 08-14 / V 00078; Zuleitung des Baureferats vom 15.07.2008 mit der Bitte um Zustimmung zum Entwurf der Beschlussvorlage für den Bauausschuss vom 30.09.2008
+- TOP 1.2.: Frage zur Sicherheit der Peter-Auzinger-Straße; Bürgeranliegen aus der Sitzung des BA 18 vom 17.06.08; Vorschlag des KVR vom 24.07.2008 mit der Bitte um Rückmeldung
+- TOP 1.3.: Radverkehr; Öffnung von Einbahnstraßen im Stadtbezirk 18 Untergiesing-Harlaching für den Radverkehr entgegen der Einbahnregelung (Oefelestraße, Untere Weidenstraße, Sommerstraße); Zuleitung des KVR vom 28.08.2008 mit der Bitte um Stellungnahme
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: McGraw-Graben - Entfernung der festinstallierten Radargeräte; Antrag der CSU-Fraktion im BA 18 vom 18.06.2008; Antwortschreiben des BA 17 vom 14.07.2008 (negative Erledigung)
+- TOP 1.2.: Befürwortung des Ausbaus des S-Bahn-Südrings und Forderung eines Lärmschutzes am Gleiskörper Braunauer Brücke bis Kolumbusplatz; BA-Antrag Nr. 08-14 / B 00102 vom 17.06.2008; Zwischennachricht des Referates für Stadtplanung u. Bauordnung vom 04.08.2008
+- TOP 1.3.: Harlachinger Straße und Hoher Weg; Verkehrs- und Straßensituation; Bürgerschreiben vom 29.04.2008; Antwortschreiben des Baureferats (HA Gartenbau und HA Tiefbau) vom 11.08.2008 (positve Erledigung)
+- TOP 1.4.: neue Fahrradabstellmöglichkeiten am Candidplatz zwischen Sparkasse und Taxistand; Instandsetzung bzw. Erneuerung des Grünstreifens direkt and en bisherigen Fahrradständern; Ba-Antrag-Nr. 08-14 / B 00097 des BA 18 vom 17.06.2008; Antwortschreiben des Baureferats vom 22.08.08 (positive Erledigung)
+- TOP 1.1.: Leistungsprogramm der MVG für die Fahrplanperiode 2009; U-Bahn-Überlastung konstruktiv bekämpfen; Antrag Nr. 02-08 / A 04280 vom 26.02.08; Bus- und Trambahnhaltestelle Westendstraße; Verbesserungsvorschläge; Antrag Nr. 02-08 / B 02527 des BA 25 vom 02.10.07; Einführung einer Buslinie über die Haderunstraße zum Hedernfeld mit Anbindung an die U-Bahnlinie U 6 durch einen Minibus; Antrag Nr. 02-08 / B 02459 des BA 20 vom 08.10.2007; Abschaffung des 20-Minuten-Takts auf der Buslinie 55 (Anbindung Waldperlachs, insbesondere bis 10 Uhr morgens); Empfehlung Nr. 08-14 / E 00027 der BÜV des Stadtbezirkes 16 vom 22.04.2008; Sitzungsvorlage Nr. 08-14 / V 00494; Beschluss der Vollversammlung des Stadtrates am 23.07.2008
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.3: UA Umwelt
+- TOP 1.1.: Beteiligung der Bezirksausschüsse bei Baumfällungen; Az.: D-II-BA 1150/100-05/11; Schreiben des Direktoriums vom 05.082008 mit der Bitte um Stellungnahme
+- TOP 1.1.: Verlängerung der Lärmschutzeinhausung der Candidauffahrt über die Gerhardstraße hinaus; Antrag Nr. 02-08 / B 02094 des BA 18 vom 17.04.2007; Antwortschreiben des Baureferats vom 08.07.2008 (neutrale Erledigung)
+- TOP 1.2.: Grünanlage "Am Hohen Weg"; keine Ausweisung als Radl-Route; Abfalleimer mit Deckel; Aufstellung von Hundekottütenspendern; Straßenreinigung Rotbuchenstraße; Bürgerschreiben vom 15.04.2008; Schreiben des BA 18 vom 30.06.2008; Antwortschreiben des Baureferates - Gartenbau vom 04.08.2008
+- TOP 1.1.: "Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern!"; Antrag Nr. 1919 der Stadtratsfraktion Bündnis 90 / DIE GRÜNEN / rosa liste vom 26.08.2004; Sitzungsvorlagen Nr. 08-14/V 00565; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 16.07.2008 (SB)
+- TOP 1.2.: Mitteilungen der Unteren Naturschutzbehörde zum Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen in der Wunderhornstraße; Bescheid vom 22.08.2008
+- TOP 1.3.4: UA Soziales
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: 4-F-circle-Bewegungsinseln; Befürwortung seitens des Bezirksausschusses; Eignung der Standortvorschläge; Antwortschreiben des Baureferats vom 16.04.2008 (vertagt aus den Sitzungen vom 20.05., 17.06. und 15.07.2008)
+- TOP 1.2.: weiterer Ausbau der Schulsozialarbeit an Grund-, Haupt- und Förderschulen; Trägerschaftsvergabefür die neuen Standorte; Verwendung von Restmitteln und Umwidmung von Finanzmitteln im Bereich Schulsozialarbeit; Antrag Nr. 02-08 / A 04222 der Stadtratsfraktion Bündnis 90/Die Grünen/Rosa Liste vom 06.02.2008; BA-Antrag Nr. 08-14 / B 00193 es BA 19 vom 01.07.2008; Beschluss des Kinder- und Jugendhilfeausschusses und des Schul- und Sportausschusses in der gemeinsamen Sitzung des Stadtrates vom 23.09.2008 (VB); Zuleitung des Sozialreferats vom 13.08.08 mit der Bitte um Stellungnahme bis 12.09.08
+- TOP 1.1.: Errichtung eines Kinderspielplatzes in Untergiesing - Lohstraße; BA-Antrags-Nr. 08-14 / B 00096 des BA 18 vom 17.06.2008; Antwortschreiben und Vorschlag des Baureferates vom 21.07.08 (negative Erledigung)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: Vollzug des BayKiBiG; Bescheid des Schul- und Kultusreferates vom 30.06.2008 über die Anerkennung von Plätzen in der Kindertageseinrichtung Geiselgasteigstraße
+- TOP 1.2.: Neubau eines 6-gruppigen Hortes an der Rotbuchenstraße; Teilunterkellerung für einen Vereinsstandort zur Sicherung des FC Alemannia München 1912 e.V.; Sitzungsvorlage Nr.: 08-14 / V 00658; Beschluss der Vollversammlung des Stadtrates vom 23.07.2008
+- TOP 1.3.5: UA Bau und Planung
+- TOP 1.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Zuleitungen des KVR; Beschluss des BA 18 vom 16.09.2008 3.5.2.1.1 Kleinstfreischankfläche Pilgersheimer Straße; Zuleitung vom 04.08.2008 3.5.2.1.2 Kleinstfreischankfläche Resedenweg; Zuleitung vom 29.07.2008 3.5.2.1.3 Freischankfläche Öfelestraße; Zuleitung vom 21.07.2008
+- TOP 1.2.: Entscheidung über Sondernutzungserlaubnis (Warenstellage) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Zuleitungen des KVR; Beschluss des BA 18 vom 16.09.2008 3.5.2.2.1 Warenstellage Humboldtstraße; Zuleitung vom 10.07.2008 3.5.2.2.2 Warenstellage Sommerstraße; Zuleitung vom 21.07.2008 3.5.2.2.3 Warenstellage Pilgersheimer Straße; Zuleitung vom 22.07.2008 3.5.2.2.4 Warenstellage Humboldtstraße; Zuleitung vom 10.07.2008
+- TOP 1.3.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, hier: mobiler Fahrradständer in der Humboldtstraße; Zuleitung des KVR vom 10.07.2008; Beschluss des BA 18 vom 16.09.2008
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (ehem. Verwaltungsanordnung); Zuleitung des KVR vom 24.07.2008 mit der Bitte um Stellungnahme bis spätestens 01.10.2008
+- TOP 1.2.: Gemeinde Pullach; Bebauungsplan Nr. 33; südliche Hochleite II; Flächennutzungsplan-Änderung; Zuleitung des Referates für Stadtplanung und Bauordnung vom 20.08.2008 mit der Bitte um Stellungnahme bis 21.09.2008
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.1.: Anwesen Am Hollerbusch; Anhörung vom 05.08.2008 (vorab entschieden; Zustimmung)
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Anwesen in der Josef-Vötter-Straße; Anhörung vom 12.08.2008
+- TOP 1.2.: Anwesen im Schilcherweg; Anhörung vom 16.07.2008 (vorab entschieden nach § 20 Abs. 1 Satz 2 BA-Satzung; Zustimmung)
+- TOP 1.3.: Anwesen in der Gabriel-Max-Straße; Anhörung vom 21.08.2008
+- TOP 1.1.: Trink- und Imbisskiosk Teutoburger Straße; Antwortschreiben des KVR ? Bezirksinspektion Süd vom 27.06.2008 zur Anfrage aus der Sitzung vom 17.06.2008 (vertagt aus der Sitzung vom 15.07.2008)
+- TOP 1.1.: Baufälle im 18. Stadtbezirk
+- TOP 1.2.: Werbetafeln im öffentlichen Raum; "Kundenstopper"; Schreiben des KVR vom 30.06.2008
+- TOP 1.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.3.1 SSW "Café Restaurant Horoskop"; Hans-Mielich-Straße; Mitteilung vom 04.08.2008 3.5.6.3.2 SSW "El Greco", Säbener Straße; Mitteilung vom 03.09.2008
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Krämermühle; Dokumentation von Bedeutung und Funktion; Schreiben des BA 18 vom 23.06.2008; Antwortschreiben des Kulturreferats vom 09.07.2008
+- TOP 1.2.: Ankauf der Krämermühle in Siebenbrunn für soziokulturelle Zwecke; BA-Antrag Nr. 02-08 / B 03000 vom 19.02.08; Antwortschreiben des Kommunalreferats vom 21.07.2008 (negative Erledigung)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Namenserläuterungen an Straßenschildern; Beschluss des Kommunalausschusses vom 14.02.2008; Beschluss der Vollversammlung vom 20.02.2008; Schreiben des Direktoriums vom 04.08.2008 mit der Bitte um Stellungnahme innerhalb der satzungsgemäßen Frist - <div>Verweisung an Fachausschuss</div>
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Erhalt der Post an der Tegernseer Landstraße - Silberhornstraße; Antrag des BA 18 aus der Sitzung vom 17.06.2008; Antwortschreiben der Deutschen Post AG vom 30.06.2008 (neutrale Erledigung) zu TOP 4.4.1 Antwortschreiben des BA 17 vom 14.07.2008 (positive Erledigung)
+- TOP 4.2.: Erweiterung der Flutlichtanlage an der Bezirkssportanlage an der Agilolfingerstraße; BA-Antrags-Nr. 08-14 / B 00092 des BA 18 vom 17.06.2008; Antwortschreiben des Schul- und Kultusreferates vom 07.07.2008 (negative Erledigung)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Grundsätze zur Zusammenarbeit der Bezirksausschuss-Geschäftsstellen mit den Bezirksausschuss-Vorsitzenden und Bezirksausschuss-Mitgliedern; Az.: D-II-BA; Schreiben des Direktoriums vom 24.06.2008
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Bildung von Kommissionen und sonstigen Gremien; Sitzungsvorlage Nr. 08-14 / V 00521; Beschluss der Vollversammlung des Stadtrates vom 02.07.2008
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.1.: Terminankündigung des Baureferates - HA Gartenbau vom 22.07.2008: Fachhearing zum Thema Baumschutz und Vollzug der Baumschutzverordnung auf öffentlichen und privaten Flächen; 16.10.2008 (im Anschluss an den Bauausschuss um 16.00 Uhr) im Großen Sitzungssaal des Neuen Rathauses
+- TOP 6.2.: vorläufige Einladung zur Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse; Mittwoch, 03.12.2008, ab 18.00 Uhr, großer Sitzungssaal am Orleansplatz 11; Mitteilung des Sozialreferates vom 18.08.2008
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
