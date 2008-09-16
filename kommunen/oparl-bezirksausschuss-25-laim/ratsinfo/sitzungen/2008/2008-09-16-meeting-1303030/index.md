@@ -1,0 +1,105 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2008-09-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1303030
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1303030
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Straßenführung Ausfahrt Laim-Ammerseestraße (Vertagung aus der BA-Sitzung vom 01.07.08)
+- TOP 1.2.2.: Umsetzung von Beschlüssen
+- TOP 1.2.3.: Parken von Lkws am Hogenbergplatz
+- TOP 1.2.4.: Laimer Bauernmarkt, Bauvorhaben
+- TOP 1.2.5.: Bauvorhaben Hartelstr. 10
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Wiedereröffnung der städt. Erziehungsberatungsstelle in Laim
+- TOP 2.2.: SPD: Kein Verkauf des Grundstücks des ehem. Bäckerei-Wild-Hauses an der Agnes-Bernauer-Straße
+- TOP 2.3.: Bündnis 90 / Die Grünen: Bebauung ehemaliges Trambahndepot Westendstraße / Zschokkestraße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget in Höhe von 500,25 Euro für Streitschlichterausbildung vom 11. - 14.11.08; Antragsteller: STÜPS - Schule-Beruf e.V.
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget in Höhe von 300 Euro für Gewaltpräventionsprojekt im Schuljahr 2008/2009; Antragsteller: Grundschule an der Fürstenrieder Straße
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget in Höhe von 2.653 Euro für Projekt "Tanz und Schule" von November 2008 bis Februar 2009; Antragsteller: Grundschule an der Camerloherstraße
+- TOP 3.4.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget in Höhe von 750 Euro für Offene Spielaktion für Kinder vom 17.-26.9.2008; Antragsteller: Familienzentrum Laim
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 13.05.08: Gegenläufige Radwege in der Fürstenrieder Straße beidseitig in Höhe Überführung über die Ammerseestraße (Vertagung aus der BA-Sitzung vom 01.07.08)
+- TOP 4.2.: Schreiben Direktorium vom 05.08.08: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 4.3.: Namenserläuterungen an Straßenschildern
+- TOP 4.4.: Schreiben KVR vom 24.07.08: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der LH München (ehem. Verwaltungsanordnung)
+- TOP 4.5.: Schreiben KVR vom 11.08.08: Genovevaweg, Haltverbot
+- TOP 5: Baumfällungen
+- TOP 6: Bauvorhaben
+- TOP 6.1.: Hogenbergstr. 33-35: Neuerrichtung einer Kooperationseinrichtung - Vorbescheid (Varianten 1+2 mit 3 Krippen- und 3 Kindergartengruppen + Veranstaltungssaal / Varianten 3+4 mit 4 Krippen- und 4 Kindergartengruppen); hier: Baupläne
+- TOP 6.2.: Perhamerstr. 78: Neubau eines "Hotel Garni" mit 18 Einheiten + Tiefgarage (10 Stpl.); hier: Baupläne und Baumfällungen
+- TOP 7: Sonstiges
+- TOP 7.1.: Schreiben Direktorium vom 12.08.08: Oktoberfest 2008; Reservierung für die Bezirksausschüsse (Termin für den BA 25: Dienstag, 30.09.08)
+- TOP 7.2.: Sitzungstermine 2008
+- TOP 8: Protokolle
+- TOP 8.1.: Ortstermin des UA Umwelt und Verkehr vom 14.07.08
+- TOP 8.2.: Sitzung UA Kultur am 22.07.08
+- TOP 8.3.: BA-Sitzung vom 29.07.08
+- TOP 8.4.: Sitzung des UA Bau vom 18.08.08
+- TOP 8.5.: Sitzung UA Kultur am 19.08.08
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben OB Ude vom 16.07.08: Die Bürgerversammlung wieder den Bürgern! Begrenzung der Redezeit von Amtsträgern und Stadtvertretern auf maximal 1,5 Stunden (Antrag Nr. 08-14 / A 00111 der FW vom 30.06.08)
+- TOP 9.2.: Schreiben Direktorium vom 16.07.08: Neuer S-Bahn-Haltepunkt Friedenheimer Brücke
+- TOP 9.3.: Schreiben Direktorium vom 01.08.08: Verwendungsnachweis über Budgetzuschuss; Antragsteller: Laimer Maibaumfreunde e.V.
+- TOP 9.4.: Schreiben Direktorium vom 30.07.08: Bewilligung einer Zuwendung aus dem Budget; Antragsteller: Bauernmarkt München e.V.
+- TOP 9.5.: Schreiben Baureferat vom 22.07.08: Terminankündigung; Expertenhearing zum Thema "Baumschutz" am 16.10.08
+- TOP 9.6.: Schreiben Baureferat vom 04.08.08: Gehweg Laimer Würfel (Schreiben BA vom 16.07.08)
+- TOP 9.7.: Schreiben KVR vom 20.06.08: Aufhebung des personenbezogenen Behindertenparkplatzes in der Siglstr. 17
+- TOP 9.8.: Schreiben KVR vom 30.07.08: Landschaftspark Laim-Hadern-Pasing; Ablagerung von Abraum
+- TOP 9.9.: Schreiben KVR vom 30.07.08: Gaststätte "Dillinger", Laimer Platz 2; unveränderte Fortführung
+- TOP 9.10.: Schreiben KVR vom 18.08.08: Gaststätte "Yelken", Senftenauerstr. 50; unveränderte Fortführung
+- TOP 9.11.: Schreiben Schul- und Kultusreferat vom 17.07.08: Hortplätze im Stadtteil Laim
+- TOP 9.12.: Schreiben Schul- und Kultusreferat vom 24.07.07: Beseitigung der Hinterlassenschaften (Hundekot) und sonstiger Verschmutzungen an der Umzäunung der Schule an der Camerloherstraße sowie am U-Bahnausgang Zschokkestraße (BA-Antrag Nr. 02-08 / B 02397 vom 11.09.07)
+- TOP 9.13.: Schreiben Sozialreferat vom 21.07.08: Wahl der Seniorenvertretung 2009; Vorstellungsrunde der Kandidatinnen und Kandidaten
+- TOP 9.14.: Schreiben Sozialreferat vom 22.07.08: Daten Kinderkrippen; Stand: 01.07.08
+- TOP 9.15.: Schreiben Sozialreferat vom 06.08.08: Interkulturelles Integrationskonzept
+- TOP 9.16.: Schreiben Sozialreferat vom 18.08.08: Vorläufige Einladung zur Informationsveranstaltung des Sozialreferates am 03.12.08
+- TOP 9.17.: Schreiben Referat für Arbeit und Wirtschaft vom 24.07.08: Schließung von Postdienststellen; Auswirkungen auf den Stadtbezirk 25 Laim (Antrag Nr. 08-14 / B 00215 vom 01.07.08)
+- TOP 9.18.: Schreiben Planungsreferat vom 15.07.08: Fortbildung der neuen BA-Mitglieder zu Themen des Planungsreferates mit denen der BA befasst ist
+- TOP 9.19.: Schreiben Planungsreferat vom 18.07.08. Bauvorhaben Elsenheimer Str. 61-65
+- TOP 9.20.: Schreiben Planungsreferat vom 31.07.08: Schäufeleinstraße; Neubau von 4 Mehrfamilienhäusern und 2 Tiefgaragen
+- TOP 9.21.: Schreiben Planungsreferat vom 06.08.08: Neuer S-Bahn-Haltepunkt Friedenheimer Brücke; Namensänderung "Hirschgarten"
+- TOP 9.22.: Schreiben Planungsreferat vom 14.08.08: Anforderung Pläne Bauvorhaben Berchemstr. 67
+- TOP 9.23.: Schreiben Planungsreferat vom 14-08-08: Baumbestand auf dem Grundstück Ecke Senftenauerstraße / Guido-Schneble-Straße
+- TOP 9.24.: Schreiben Stadtwerke München GmbH vom 05.08.08: Baumaßnahmen der SWM; Stromprojekt Schrobenhausener Straße
+- TOP 9.25.: Schreiben Stadtwerke München GmbH vom 05.08.08: 100 Jahre Tram nach Pasing - Terminverschiebung
+- TOP 9.26.: Bautenliste vom 14.07.-20.07.08 1. Erstantragsverfahren a) Elsenheimerstr. 15 b) Zschokkestr. 73 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Str. 286
+- TOP 9.27.: Bautenliste vom 21.07.-27.07.08 1. Erstantragsverfahren a) Agricolastr. 51 2. Abbruchanzeige, Zustimmungsverfahren, Vorbescheide a) Lutzstr. 37
+- TOP 9.28.: Bautenliste vom 28.07.-03.08.08 1. Erstantragsverfahren a) Aindorferstr. 93 b) Stöberlstr. 68 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Hogenbergstr. 33
+- TOP 9.29.: Bautenliste vom 04.08.-10.08.08 1. Änderungsverfahren a) Friedberger Str. 15 b) Perhamerstr. 78
+- TOP 9.30.: Bautenliste vom 11.08.-17.08.08: 1. Erstantragsverfahren a) Agricolstraße b) Aindorferstr. 139 c) Landsberger Str. 161 d) Hartelstr. 10 e) Stadtlohner Str. 16 2. Änderungsverfahren a) Landsberger Str. 290 b) Agnes-Bernauer-Str. 152 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Rattenhuberstr. 3
+- TOP 9.31.: Bautenliste vom 18.08.-24.08.08 1. Erstantragsverfahren a) Stöberlstr. 52 b) Ronpeckhstr. 11 c) Friedenheimer Str. 47 d) Elsenheimerstr. 61 e) Friedenheimer Str. 47 f) Ilmmünsterstr. 16 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Hartelstr. 10
+- TOP 9.32.: Bautenliste vom 25.08.-31.08.08 1. Erstantragsverfahren a) Valpichlerstr. 134 b) Joergstr. 6 c) Stadtlohner Str. 9 d) Desingweg 5
+- TOP 9.33.: Schreiben Planungsreferat vom 28.07.08: Liste der beantragten Baumfällungen vom 21.07.-27.07.08
+- TOP 9.34.: Schreiben Planungsreferat vom 18.08.08: Liste der beantragten Baumfällungen vom 11.08.-17.08.08
+- TOP 9.35.: Schreiben Planungsreferat vom 01.09.08: Liste der beantragten Baumfällungen vom 25.08.-31.08.08
+- TOP 9.36.: Schreiben Stadtwerke München GmbH vom 21.07.08: Baumaßnahmen der Stadtwerke; Stichtag: 21.07.08
+- TOP 9.37.: Schreiben Stadtwerke München GmbH vom 04.08.08: Baumaßnahmen der Stadtwerke; Stichtag: 04.08.08
+- TOP 9.38.: Schreiben Stadtwerke München GmbH vom 11.08.08: Baumaßnahmen der Stadtwerke; Stichtag: 11.08.08
+- TOP 9.39.: Schreiben Stadtwerke München GmbH vom 18.08.08: Baumaßnahmen der Stadtwerke; Stichtag: 18.08.08
+- TOP 9.40.: Schreiben Stadtwerke München GmbH vom 25.08.08: Baumaßnahmen der Stadtwerke; Stichtag: 25.08.08
+- TOP 9.41.: Schreiben Stadtwerke München GmbH vom 01.09.08: Baumaßnahmen der Stadtwerke; Stichtag: 01.09.08
+- TOP 9.42.: Beschluss der Vollversammlung vom 02.07.08: Olympia - München 2018 ökologisch - nachhaltig - fair (Sitzungsvorlagen Nr. 02-08 / V 00376)
+- TOP 9.43.: Beschluss des Ausschusses für Arbeit und Wirtschaft am 15.07.08: Leistungsprogramm der MVG für die Fahrplanperiode 2008 (Sitzungsvorlagen Nr. 08-14 / V 00494)
+- TOP 9.44.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.08: Grünflächen und stadtökologische Projekte durch bessere Vernetzung sichern (Sitzungsvorlagen Nr. 08-14 / V 00565)
+- TOP 9.45.: Beschluss der Vollversammlung vom 23.07.08: Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 2001 Bezirkssportanlage Laim, westlich der Riegerhofstraße, südlich der Valpichlerstraße (Teiländerung des Bebauungsplan Nr. 431) - Neubau private evang. Lukas-Schule mit Dreifachsporthalle und Vereinsräumen des ESV Laim - Billigungsbeschluss (Sitzungsvorlagen Nr. 08-14 / V 00632)
+- TOP 9.46.: Bekanntgabe in der Sitzung der Vollversammlung des Stadtrates vom 23.07.08: Initiative Europäische Metropolregion München / Sachstandsbericht (Sitzungsvorlagen Nr. 08-14 / V 00483)
+- TOP 9.47.: Schreiben konzept: grün GmbH vom 03.08.08: 10 Jahre quartierbezogene Bewohnerarbeit; Einladung zum Fachtag "Erfolge, Bestandsaufnahme und Zukunftsperspektiven" am 16.10.08
+- TOP 9.48.: Schreiben REGSAM vom 12.08.08: Einladung zum 15. Geburtstag von REGSAM am 16.10.08
+- TOP 9.49.: Schreiben BA 20 Hadern vom 13.08.08: Ablagerung von Abraum im Landschaftspark Laim-Hadern-Pasing
+- TOP 9.50.: Schreiben Arbeitsgruppe "Gedenkveranstaltung zum 9. November" vom 20.08.08: Namenslesung der während der NS-Zeit ermordeten Münchner Juden anlässlich des 70. Jahrestages der sog. "Reichskristallnacht"
+- TOP 9.51.: Schreiben Stadtschülervertretung München vom 20.08.08: Infoblatt
+- TOP 9.52.: Münchner Statistik, 2. Quartalsheft, Jahrgang 2008
+- TOP 9.53.: Schriftverkehr aus der BA-Sitzung vom 29.07.08
+- TOP 9.54.: Schriftverkehr aus der Sitzung des UA Bau und Planung vom 18.08.08
+- TOP 9.55.: Schreiben Baureferat vom 04.08.08: Kreuzung Fürstenrieder Straße / Agnes-Bernauer-Straße; Ampelanlage, Signaltöne für Blinde (Schreiben BA vom 16.07.08)
+- TOP 1.2: Bürgerpost an den BA
