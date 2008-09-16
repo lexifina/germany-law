@@ -1,0 +1,62 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-09-16T16:00:00+02:00
+- Ende: 2008-09-16T20:41:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2390
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2390
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126310.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126310.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126310.pdf
+
+## Tagesordnung
+
+- TOP 1: Bezirksvertretung Generalien II - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Jugendschutz -Sekten u.a. - zur Kenntnis genommen
+- TOP 5: Werdener Straße (Innerer Ring 4. Bauabschnitt) - zur Kenntnis genommen
+- TOP 6: Neubau der Ortumgehung Oberbilk (1.Ausbaustufe) - mehrheitlich beschlossen
+- TOP 7: Endausbau Flinger Broich zwischen Rosmarinstraße und Vennhauser Straße - einstimmig beschlossen
+- TOP 8: STEK (BVen ua) KG u. Empf.
+- TOP 9: Gutachterverfahren Lacombletstr. - mehrheitlich beschlossen
+- TOP 10: Baumentfernungen u. Baumpflanzungen - einstimmig beschlossen
+- TOP 11: Haushalt 2009 - mehrheitlich beschlossen
+- TOP 12: Verwendung Haushalt 2008 - mehrheitlich beschlossen
+- TOP 13: Albertstraße - einstimmig beschlossen
+- TOP 14: Fahrrad/Garagen/Abstellanlagen - einstimmig beschlossen
+- TOP 15: Schulen - Generalien - einstimmig beschlossen
+- TOP 16: Rapunzelweg - mehrheitlich beschlossen
+- TOP 17: Ackerstraße II GPW - einstimmig beschlossen
+- TOP 18: Liststraße - einstimmig beschlossen
+- TOP 19: Quartiersgaragen - einstimmig beschlossen
+- TOP 20: Holbeinstraße - einstimmig beschlossen
+- TOP 21: Grafenberger Allee verschiedene Hausnummern - einstimmig beschlossen
+- TOP 22: Lindemannstraße 87 - einstimmig beschlossen
+- TOP 23: Lindemannstraße 57 Goethegymn. II - einstimmig beschlossen
+- TOP 24: Hermannplatz-Kinderspielplatz - mehrheitlich beschlossen
+- TOP 25: Senioren - schriftlich beantwortet
+- TOP 26: Mathildenstr. - schriftlich beantwortet
+- TOP 27: Sozialarbeit in Flingern - schriftlich beantwortet
+- TOP 28: Umweltschutz VI - schriftlich beantwortet
+- TOP 29: Werdener Str. "Oronto" - schriftlich beantwortet
+- TOP 30: Quartiersgaragen II - schriftlich beantwortet
+- TOP 31: Lindenstraße - Bunker - schriftlich beantwortet
+- TOP 32: Dorotheenplatz III - zur Kenntnis genommen
+- TOP 33: Flinger Broich 91 - zur Kenntnis genommen
+- TOP 34: Junkersstraße - zur Kenntnis genommen
+- TOP 35: Unfallentwicklung im Stadtbezirk 2 - zur Kenntnis genommen
+- TOP 36: Sohnstr. II - zur Kenntnis genommen
+- TOP 37: Sohnstr. II - zur Kenntnis genommen
+- TOP 38: Flurstraße GPW - zur Kenntnis genommen
+- TOP 39: Zoopark V - zur Kenntnis genommen
+- TOP 40: Mendelssohnstraße - zur Kenntnis genommen
+- TOP 41: Heinrichstraße - Ausbau - zur Kenntnis genommen
+- TOP 42: Flinger Broich - Radwege... - zur Kenntnis genommen
+- TOP 43: Erkrather Straße - zur Kenntnis genommen
+- TOP 44: Optimierung des ruhenden Verkehrs - zur Kenntnis genommen
+- TOP 45: Dorotheenplatz - zur Kenntnis genommen
