@@ -1,0 +1,6 @@
+# TOP 4: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: öffentliche/ nichtöffentliche Sitzung des Planungsausschusses (2008-09-18)
+- Körperschaft: Aachen
+- Öffentlich: nein
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b9370141d8f32e9185ecfbe
