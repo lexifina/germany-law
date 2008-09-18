@@ -1,0 +1,139 @@
+# 18. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2008-09-18T17:30:00+02:00
+- Ende: 2008-09-18T23:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1742
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1742
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=66041
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Stand Neu- bzw. Erweiterungsbau des Kuratoriums für Heimdialyse (KfH) auf dem Gelände Gesundheits- und Sozialzentrum Moabit (GSZM) - beantwortet
+- TOP 5.2: Zukunft des Schultheissareals - beantwortet
+- TOP 5.3: Schultheiss: Neue Perspektiven für Moabit? - beantwortet
+- TOP 5.4: Nichtraucherschutz in Mitte - Wer macht was und macht wer was? - beantwortet
+- TOP 5.5: Grünes Baumsterben in Mitte - schriftlich beantwortet
+- TOP 5.6: Ehrenmal der Bundeswehr - mit oder ohne Bäume? - schriftlich beantwortet
+- TOP 5.7: Hoher Krankenstand im GDM - schriftlich beantwortet
+- TOP 5.8: Schulschwänzen als Gewohnheitsrecht auch in Mitte? - schriftlich beantwortet
+- TOP 5.9: Müllerstraße - Wirtschaftsförderung auf dem besten Wege? - schriftlich beantwortet
+- TOP 5.10: Heiße Luft ist noch keine Energiepolitik - wann folgen den Ankündigungen des Bezirksamtes Taten? - schriftlich beantwortet
+- TOP 5.11: Die Wende kommt zum Ende - Exemplarische Verschmelzung von Ost- und Westberlin beim Projektstart im Diplomatenpark - schriftlich beantwortet
+- TOP 5.12: Bebauungsplanverfahren Schultheiss-Areal: "Hoffnung" auf ein anderes Planungsbüro verzögert Bearbeitung? - schriftlich beantwortet
+- TOP 5.13: Überwacht das Bezirksamt die Umsetzung der Pfandverordnung? - schriftlich beantwortet
+- TOP 5.14: Rechtswidrige Genehmigung - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Hekticket auf dem Alexanderplatz II - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Rheinsberger Str. 17 - beantwortet
+- TOP 7.2: Neue Sanierungsgebiete in Mitte II (incl. Nachfragen zur (Nicht)-Beantwortung der Großen Anfrage Drs.-Nr. 0794/III aus der BVV vom 29.05.08) - beantwortet
+- TOP 7.3: Kinderschutz ohne Kinderschützer? - beantwortet
+- TOP 7.4: Sanierung des Einkaufszentrums am Hansaplatz - beantwortet
+- TOP 7.5: Hertie Standort - schriftlich beantwortet
+- TOP 7.6: Schuleinzugsgebiet - schriftlich beantwortet
+- TOP 7.7: Konfliktfrei Planen und Gestalten - schriftlich beantwortet
+- TOP 7.8: Aktenführung im Stadtplanungsamt Mitte: Hat das Chaos ein Ende gefunden? - schriftlich beantwortet
+- TOP 7.9: 798 000 Euro Minus in dem Kita-Eigenbetrieb! Was nun? - schriftlich beantwortet
+- TOP 7.10: Investive Baumaßnahmen Bund-Länder-Programm Soziale Stadt - schriftlich beantwortet
+- TOP 7.11: Gestaltungssatzung historische Mitte - schriftlich beantwortet
+- TOP 7.12: Änderung des Kindertagesförderungsgesetzes - spricht das Bezirksamt die Sprache der Eltern? - schriftlich beantwortet
+- TOP 7.13: Keine "Kultur des Erinnerns" im Kulturhaus Mitte? - schriftlich beantwortet
+- TOP 7.14: Molkenmarkt: Wer setzt sich durch? - schriftlich beantwortet
+- TOP 7.15: Städtebauliche Gutachten IV Nachfragen zur Beantwortung der Kleinen Anfrage 0092/III - schriftlich beantwortet
+- TOP 7.16: Städtepartnerschaften: Wo bleibt die Partnerschaft des Bezirksamtes mit der Bezirksverordnetenversammlung? - schriftlich beantwortet
+- TOP 7.17: Wiesenstraße 29: Liegenschaftsfonds vs. Genossenschaft - schriftlich beantwortet
+- TOP 7.18: Konzeption Stadtteilarbeit des Bezirksamtes Mitte (II) hier: BVV Beschluss auf dem Weg ins zweite ergebnislose Jahr!? - schriftlich beantwortet
+- TOP 7.19: Bürgerhaushalt Mitte: Von BVV beschlossen, vom Bezirksamt ignoriert? (III) - schriftlich beantwortet
+- TOP 7.20: Kindesvernachlässigung in Mitte - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplanentwurf I-26 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-26 - überwiesen
+- TOP 9.2: Teilweise Aufhebung der Erhaltungsverordnung Huttenkiez im Bezirk Tiergarten von Berlin vom 06. Oktober 1993 (GVBl. S. 585) für den Teil der Zusammensetzung der Wohnbevölkerung gem. § 172 Abs. 1, Satz 1, Nr. 2 BauGB - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Vorhabenbezogener Bebauungsplanentwurf 1-41VE sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplan 1-41VE - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bebauungsplanentwurf 1-42B sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-42B - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Beitragspflichtige Erneuerung der Monbijoustraße von der Monbijoubrücke bis zur Oranienburger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Verlängerung der Schutzfristen für Kleingartenkolonien Sommerglück und Scherbeneck - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Optimierung von Verwaltungsabläufen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Jede Schule für Alle - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Missbilligung der Amtsführung des Bezirksstadtrates für Stadtentwicklung - in der BVV abgelehnt
+- TOP 12.2: Missbilligung der Amtsführung des Bezirksstadtrates für Stadtentwicklung - in der BVV zurückgezogen
+- TOP 12.3: Zuwendungsregister in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Grundschulverordnung legalisieren! - in der BVV zurückgezogen
+- TOP 12.5: Lebendiger Ort für Alle - überwiesen
+- TOP 12.6: Welterbe als Leuchtturm nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Bebauungsplanverfahren 1-39: Planungsziele des Bezirkes sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Das Gelöbnis soll jedes Jahr auf dem Platz der Republik stattfinden! - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Räume für die Geschäftsstelle Landesjugendring - überwiesen
+- TOP 12.10: Kinder ohne Kopftücher - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Erweiterung des Arbeitskreises Antikorruption (AKA) - überwiesen
+- TOP 12.12: Einschulungssprengel gesetzlich ermöglichen - vertagt
+- TOP 12.13: Sanierungsmittel in Diskussion zum Ergänzungsplan 2009 bzw. Haushaltsplan 2010/2011 einbeziehen - vertagt
+- TOP 13: Entschließungen - (offen)
+- TOP 13.1: Radio Multikulti muss erhalten werden! - vertagt
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Eigentümer-Nutzer-Modell im Bezirk realisieren und in der KLR abbilden - vertagt
+- TOP 14.2: Prüfauftrag Hundeauslaufgebiet - vertagt
+- TOP 14.3: Baumschutz transparent gestalten - vertagt
+- TOP 14.4: Liegenschaft Gerichtstr. 37 - vertagt
+- TOP 14.5: Ab in die Tonne! - vertagt
+- TOP 14.6: Vielfalt der Schulsysteme für leistungsstarke Schüler erhalten und ausbauen - vertagt
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Galerie Nord in das touristische Leitsystem aufnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Wartezeiten in den Bürgerämtern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Ein Visum für's Leben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Evangelische Gesamtschule nach Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Übernahme der kommunalen Stimmenmehrheit in der Trägervertretung des Jobcenters Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.6: Naturlehrpfad Moabit in touristisches Leitsystem aufnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Ombudsstelle für Hartz IV-Betroffene einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Zwangsprostitution und Frauenhandel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Anbringung von Erläuterungsschildern - vertagt
+- TOP 15.10: Fallmanagement Eingliederungshilfe II - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.11: Nachbesserung des Seniorenmitwirkungsgesetzes - vertagt
+- TOP 15.12: Mobile Bürgerämter - vertagt
+- TOP 15.13: Lerntagebücher sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Grünflächenpflege im Bezirk stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Beachtung der Barrierefreiheit bei Baugenehmigungen - vertagt
+- TOP 15.16: Keine Schließung der Jerusalem-Bibliothek - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: Arbeitsfördermaßnahmen für Eva's Arche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Keine Bäderschließungen in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.19: Keine Anrechnung von Geldgeschenken Jugendlicher in Bedarfsgemeinschaft mit Hartz IV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.20: Straßenbenennungen - vertagt
+- TOP 15.21: Keine schrittweise Entmachtung der Bezirke durch die Hintertür - keine schrittweise Entmachtung durch die Änderung der Landeshaushaltsordnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.22: Energiesparcontracting beim Kita-Eigenbetrieb City - vertagt
+- TOP 15.23: Benennung nach Dr. Magnus Hirschfeld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.24: Mehr Bäume - mehr Freunde, wie viel Freunde braucht Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.25: Interkulturelle Schulung - JobCenter I - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.26: Statistik / Evaluation - JobCenter III - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.27: Schulweg sicher gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.28: Langfristigen Pachtvertrag am Freibad Plötzensee ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.29: Lärmschutz ist aktiver Gesundheitsschutz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.30: Teilnahme des Bezirks Mitte an der Initiative "Alter schafft Neues" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.31: Kontinuierlichen Spielbetrieb im Hexenkesselhoftheater gewährleisten - vertagt
+- TOP 15.32: Informationsarbeit über offene ÖBS-Stellen in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.33: "Abziehen ist Raub" Stop Tokat! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.34: Mittes Schulen werden zu "Schulen ohne Rassismus - Schulen mit Courage!" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.35: Straßenbenennung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.36: Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB, das Ergebnis der Behördenbeteiligung gem. § 4 Abs. 2 BauGB, die Durchführung der öffentlichen Auslegung zum Bebauungsplanentwurf II-180 gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.37: Benennung der Kreiswahlleiterin und ihres Stellvertreters für den Wahlkreis 76 - Berlin-Mitte für die Wahl zum Deutschen Bundestag im Herbst 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.38: Benennung der Bezirkswahlleiterin und ihres Stellvertreters für den Verwaltungsbezirk Mitte von Berlin für die Wahl der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland - Europawahl 2009 - am 07. Juni 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.39: Benennung von öffentlichem Straßenland in Berlin-Mitte - vertagt
+- TOP 15.40: Durchführung des Bürgerentscheides "gegen die Ausweitung der Parkraumbewirtschaftung in Berlin Mitte" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.41: Übertragung der Kontrolle der Einhaltung des Jugendschutzgesetzes auf das LuV Ordnung und Gewerbe des Bezirksamtes Mitte von Berlin - vertagt
+- TOP 15.42: Benennung von öffentlichem Straßenland in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
