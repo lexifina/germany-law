@@ -1,0 +1,206 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2008-09-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1281176
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1281176
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering - Riem Widmung der Gesamtstrecke der Oslostraße
+- TOP 2: (E) Schrammingerweg - Keine Fahrradstraße (Ziffer 1 des Antrages) Empfehlung Nr. 02-08 / E 00650 der Bürger- versammlung des 15. Stadtbezirkes - Trudering-Riem am 07.12.2006 Schrammingerweg; Keine Sperre für Kraftfahrzeuge, zumindest Offenhaltung für Anlieger; Sanierung / Instandsetzung Empfehlung Nr. 02-08 / E 00651 der Bürgerver- sammlung des Stadtbezirkes 15 - Trudering-Riem am 07.12.2006
+- TOP 2.3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007
+- TOP 2.4.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses 15 Trudering-Riem durch den Isarbote.de i.H.v. 7.200,00 Euro
+- TOP 2.5.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem; Widmung der Gesamtstrecke der Straße ?Sigmund-Riefler-Bogen?
+- TOP 2.1.: Hollerithstraße 7-8, Neubau eines Gewerbe- und Büroparks mit Parkhaus und Tiefgarage
+- TOP 2.2.: Fußgängerampel für die Haltestelle "Halligenplatz"
+- TOP 2.3.: Antrag auf Untersagung von lärmbelästigenden Großveranstaltungen im Riemer Reitstadion
+- TOP 2.4.: Großveranstaltungen auf der Galopprennbahn bzw. Olympia-Reitanalge Riem, Verkehrssituation in Alt-Riem
+- TOP 2.5.: Kreuzung Schatzbogen - Alte Riemer Straße; Gefahr für linksabbiegende Radfahrer
+- TOP 2.6.: Buslinie 146 - Verkehrsaufkommen Florastraße
+- TOP 2.7.: Neue Parkplatzregelung in der Messestadt
+- TOP 2.8.: Prekäre Parkplatzsituation Riemer Straße 291 ff.
+- TOP 2.9.: Abriss Kinderspielgeräte in der Haffstraße
+- TOP 2.10.: Weitere Beachvolleyballfelder am Ostufer des Riemer Sees
+- TOP 2.11.: München Triathlon 2008
+- TOP 2.12.: Rettungswache Trudering
+- TOP 2.13.: Verein zur Mittagsbetreuung für die Grundschüler der Feldbergschule - Dankschreiben
+- TOP 2.14.: Lärmbelästigung durch Skateboardfahren in der Astrid-Lindgren-Straße
+- TOP 2.15.: Warum hält die S-Bahn in Trudering nicht vollständig im Dachbereich an?
+- TOP 2.16.: Unterstützung gegen geplantes Bauvorhaben Friedenspromenade 9, FlurNr. 725, Gemarkung Trudering
+- TOP 3.1.: Verbesserte telefonische Erreichbarkeit der Stadt München, Antrag Nr. 02-08 / B 02814
+- TOP 3.2.: Autos auf dem östlichen Grünzug, Antrag Nr. 08-14 / B 00149
+- TOP 3.3.: Hundeschulen auf öffentlichen Grünflächen, Antrag Nr. 08-14 / B 00027
+- TOP 3.4.: Wiederöffnung der Straße Am Vogelsang für Fußgänger und Radfahrer, Antrag Nr. 08-14 / B 00019
+- TOP 3.5.: Zusätzliche Sitzbänke am Spielplatz südlich der Mutter-Teresa-Straße, Antrag Nr. 08-14 / B 00015 (s. auch Top 7.4.2/09/08)
+- TOP 3.6.: Straßenrandreinigung verbessern, Antrag Nr. 02-08 / B 02693
+- TOP 3.7.: Behindertengerechte Ausstattung des Truderinger Bahnhofs, Antrag Nr. 02-08 / B 02681
+- TOP 3.8.: Rampe für Rollstuhlfahrer im Riemer Park, Antrag Nr. 02-08 / B 02905
+- TOP 3.9.: Scherben am Ufer des BUGA-Sees / Riemer Sees, Antrag Nr. 08-14 / B 00145
+- TOP 3.10.: Spielplatz in Waldtrudering, Antrag Nr. 08-14 / B 00007
+- TOP 3.11.: Errichtung von zwei Abfallkörben am Horst-Salzmann-Weg, Antrag Nr. 08-14 / B 00157
+- TOP 3.12.: Grünanlage Halligenplatz - Entfernung der Verbotsschilder, Aufstellung von Hunde-Pollern (Antwort des Baureferats auf ein Bürgerschreiben vom 15.06.2008)
+- TOP 3.13.: Graffiti am Glockenturm im Neuen Riemer Friedhof, Antrag Nr. 08-14 / B 00012
+- TOP 3.14.: Keine Verschandelung von Grünanlagen durch ungepflegte Trafohäuschen, Antrag Nr. 08-14 / B 00021 zuzüglich Schreiben der SWM
+- TOP 3.15.: Friedhof Riem Alter Teil - Wiederöffnung der Toilette, Antrag Nr. 02-08 / B 02563
+- TOP 3.16.: Wiedereinführung der dezentralen Gesundheitsuntersuchung zur Einschulung, Antrag Nr. 08-14 / B 00053
+- TOP 3.17.: Wasserschutzgebiete in Trudering-Riem, Antrag Nr. 08-14 / B 00011
+- TOP 3.18.: Beendigung der Krautgarten-Verpachtung an der Markgrafenstraße zum Jahresende 2008, Antrag Nr. 08-14 / B 00150
+- TOP 3.19.: Demontage der P+R-Wegweiser an der Wasserburger Landstraße, Antrag Nr. 02-08 / B 02311
+- TOP 3.20.: Grünpfeil an der Kreuzung Am Mitterfeld / Joseph-Wild-Straße, Antrag Nr. 08-14 / B 00266
+- TOP 3.21.: Zustand Kreuzungspunkt Hugo-Lang-Bogen / Zehntfeldstraße, Antrag Nr. 08-14 / B 00002
+- TOP 3.22.: Ergebnisse der Geschwindigkeitsüberwachungsmaßnahmen in der Von-Erckert-Straße und Tangastraße, Antrag Nr. 02-08 / B 02381
+- TOP 3.23.: mirbau'n in der Messestadt Riem, Antrag Nr. 02-08 / B 02988 und Panorama-Tafelelemente der Alpenkette, Antrag Nr. 02-08 / B 02989
+- TOP 3.24.: Aktuelle Fragen zur Verkehrsentwicklung in Trudering-Riem, Antrag Nr. 02-08 / B 02547
+- TOP 3.25.: Verkehrskonzept für das neue Gymnasium in Trudering, Antrag Nr. 02-08 / B 02986
+- TOP 3.26.: Wie stark wächst die Bevölkerung und die S-Bahnauslastung im Münchner Osten bis 2020, Antrag Nr. 02-08 / B 02987
+- TOP 3.27.: Wasserburger Landstraße 214 - Aufhebung der Kundenparkplätze auf dem Gehweg, Antrag Nr. 02-08 / B 02984
+- TOP 3.28.: Bebauungsplan Nr. 1958 b, Haffstraße, Wasserburger Landstraße, St.-Augustinus-Straße (Top 7.3.3/07/08)
+- TOP 3.29.: Vergleich von Kindergarten-Betriebskosten in Trudering-Riem, Antrag Nr. 08-14 / B 00023
+- TOP 3.30.: Nachhaltige Sanierung der Grund- und Hauptschule an der Lehrer-Wirth-Straße, Antrag Nr. 02-08 / B 02817
+- TOP 3.31.: Aktuelle Situation in der Grund- und Hauptschule an der Lehrer-Wirth-Straße, Antrag Nr. 08-14 / B 000024
+- TOP 3.32.: Errichtung einer Kindertagesstätte mit 2 Kindergartengruppen an der Thomas-Hauser-Straße (Stellungnahme zum Schreiben des BA 15 v. 03.07.2008)
+- TOP 3.33.: Schreiben des SV Gartenstadt Trudering e.V. an das Schul- und Kultusreferat mit der Bitte um Zuschusszahlungen für den Unterhalt vereinseigener Sportanlagen, Antrag Nr. 08-14 / B 00146
+- TOP 3.34.: Außerschulische Beaufsichtigung; Mittagsbetreuung - Raumüberlassung für die Grundschule an der Feldbergstraße 85, Antrag Nr. 08-14 / B 00144
+- TOP 3.35.: Planungen für das Gymnasium Trudering, Antrag Nr. 02-08 / B 02990
+- TOP 3.36.: Neubau einer Kooperationseinrichtung mit 3 Kindergarten- und 4 Krippengruppen, eines 4-gruppigen Hortes sowie einer Amtsmeisterwohnung an der Feldbergstraße 85 (Antwort auf Stellungnahme des BA's vom 02.07.2008)
+- TOP 3.37.: Kooperation statt Boykott, Antrag Nr. 08-14 / B 00028
+- TOP 3.38.: StadtQuartier Riem Arcaden in der Messestadt - Sauberkeit auf dem Bürgersteig vor dem ASZ, Antrag Nr. 08-14 / B 00143
+- TOP 3.39.: Auskunft über das Angebot von Integrations- und Deutschkursen im 15.ten Stadtbezirk, Antrag Nr. 08-14 / B 00013
+- TOP 3.40.: Angemessener Mix innerhalb EOF-Wohnungen, Antrag Nr. 08-14 / B 00156
+- TOP 3.41.: Weitere Nutzung der temporären Gebäude an der Wasserburger Landstraße, Antrag Nr. 08-14 / B 00025
+- TOP 3.42.: Seniorenwohnen in Trudering, Antrag Nr. 02-08 / B 02900
+- TOP 3.43.: Verkaufskiosk auf dem S-Bahnsteig Gronsdorf mit oder ohne Schutzraum für Fahrgäste, Antrag Nr. 02-08 / B 02799
+- TOP 3.44.: Dauerhafter Verzicht auf den 10-Minuten-Takt auf allen S-Bahn-Linien im Münchner Osten, Antrag Nr. 02-08 / B 02910
+- TOP 3.45.: Barrierefreier Zugang zum S-Bahnsteig Riem, Antrag Nr. 08-14 / B 00022
+- TOP 3.46.: Bessere Orientierungsmöglichkeiten für die Messestadt West, Antrag Nr. 08-14 / B 00153
+- TOP 3.47.: Messestadt West - was geschieht mit der Projektionsanlage im U-Bahnhof, Antrag Nr. 08-14 / B 000154
+- TOP 3.48.: Besseren ÖV-Anschluss bei Großveranstaltungen im Riemer Reitstadion, Antrag Nr. 08-14 / B 000159
+- TOP 3.49.: Verbesserte Busanbindung an die Grundschule an der Markgrafenstraße, Antrag Nr. 08-14 / B 00026
+- TOP 3.50.: Bushaltestelle zwischen der Lehrer-Wirth-Straße und der Helsinkistraße, Antrag Nr. 02-08 / B 02800
+- TOP 3.51.: Verlegung der Bushaltestelle St.-Augustinus-Straße, Antrag Nr. 02-08 / B 02678 (Top 3.25/06/08, 7.4.3/07/08); Stellungnahme SWM und MVG
+- TOP 3.52.: Mutter-Kind-Turnen in der Turnhalle Lehrer-Wirth-Straße (3 Bürgerschreiben), Antrag Nr. 02-08 / B 02901
+- TOP 3.53.: Bauinformation - Instandsetzung der Straßen
+- TOP 3.54.: Badeinsel im Riemer See, Antrag Nr. 08-14 / B 00148
+- TOP 3.55.: Warum mussten die Alleebäume an der Bushaltestelle Drosselweg verschwinden, Antrag Nr. 08-14 / B 00270
+- TOP 3.56.: Panoramaweg Isar-Inn, Antrag Nr. 08-14 / B 00263
+- TOP 3.57.: Shared Space als Lösung für das Ortszentrum Strasstrudering, Antrag Nr. 08-14 / B 00268
+- TOP 4.1.: Grünfläche am Horst-Salzmann-Weg unter Naturschutz stellen oder als Flora-/Fauna-Habitat ausweisen
+- TOP 4.2.: Wie ist die Abholung von Kunststoffen, Papier und Sondermüll im Bereich der Truderinger-Riemer Schulen am Beispiel der Lehrer-Wirth-Schule geregelt?
+- TOP 4.3.: Abenteuerspielplatz für die Messestadt
+- TOP 4.4.: Behindertenparkplatz für das Kulturzentrum Trudering
+- TOP 4.5.: Adäquate Erhöhung der Aufwands- und Verdienstausfallentschädigung sowie Freifahrttickets für die MVG
+- TOP 4.6.: Zweirad-Stellplätze für die Messestadt
+- TOP 4.7.: Graffiti legal
+- TOP 4.8.: Kfz-Dichte in der Messestadt
+- TOP 4.9.: Gestaltungswettbewerb für den Ortskern Trudering
+- TOP 4.10.: Verlagerung der BMW-Niederlassung an der Wasserburger Landstraße
+- TOP 5.1.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (ehem. Verwaltungsanordnung)
+- TOP 5.2.: Vollzug der Grünanlagensatzung, hier: Modellsegeln
+- TOP 5.3.: Hanns-Schwindt-Straße - Halteverbot
+- TOP 5.4.: Erläuterungstexte für die Kolonialstraßen im 15. Stadtbezirk Trudering-Riem
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Vergleich von Kindergarten-Betriebskosten in Trudering-Riem zuzüglich Iska-Analyse und -Bericht, Antrag Nr. 08-14 / B 00023
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: Spiel ohne Grenzen - Projekt Crossover
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: PERSPEKTIVE MÜNCHEN - Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung, Grundsatzbeschluss (Top 9.6/07/08)
+- TOP 7.2.: Tempo 30 Zone Truderinger Straße (Top 7.4.2/06/08, 3.17/07/08)
+- TOP 7.3.: Gemeinde Aschheim, Flächennutzungsplan-Änderung Nr. 22
+- TOP 7.4.: Gemeinde Putzbrunn, Bebauungsplan Nr. 60 (Erweiterung Gewerbegebiet-Ost)
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Vorfall als Radfahrer / Bus am 27.06.2008 am Truderinger Bahnhof
+- TOP 7.2.: Zusätzliche Sitzbänke am Spielplatz südlich der Mutter-Teresa-Straße, Antrag Nr. 08-14 / B 00015 (s. auch Top 3.5/09/08)
+- TOP 7.3.: Grünanlage Bajuwarenstrasse - Eröffnung am 19.09.2008
+- TOP 7.4.: Unkraut im Riemer Park (Top 4.8/07/08)
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Verwendungsnachweis des Münchner Bildungswerks i.H.v. 950,00 Euro
+- TOP 7.2.: Verwendungsnachmweis des Vereins der Freunde und Förderer der Musik i.H.v. 200,00 Euro
+- TOP 7.3.: Verwendungsnachweis Pfarrei Christi Himmelfahrt i.H.v. 527,00 Euro
+- TOP 7.4.: Verwendungsnachweis Pfarrei Christi Himmelfahrt i.H.v. 180,00 Euro
+- TOP 7.5.: Verwendungsnachweis Kreativ Musikforum i.H.v. 225,00 Euro
+- TOP 7.6.: Rechnung für die doppelseitige Erklärungsbeschilderung an der Lehrer-Wirth-Straße
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.1.: Terminankündigung - Fachhearing zum Thema Baumschutz am 16.10.2008 um 16.00 Uhr im Großen Sitzungssaal des Neuen Rathauses
+- TOP 7.2.: Beteiligung der Bezirksausschüsse bei Baumfällungen - Änderung der Bezirksausschuss-Satzung
+- TOP 7.7.7: Ortstermine
+- TOP 8.1.: Mitteilung über bereits durchgeführte Baumfällungen (Ergebnisse UA Umwelt August): Reschstr. 5, Unnützstr. 9, Schanderlweg 4, Florastr. 2, Hochkönigstr. 16, Waldschulstr. 77, Ernastr. 21, Spertentalstr. 10, Bahnstr. 2, Eigerstr. 22, Von-Erckert-Str. 18, Hippelstr. 39, Ottilienstr. 53 a, Wasserburger Landstr. 232, Linnenbrüggerstr. 17 + 19, Reherweg 14 a + 16, Spertentalstraße 10
+- TOP 8.2.: Kirchtruderinger Straße 20
+- TOP 8.3.: Florastraße 49 b
+- TOP 8.6.: Elfriedenstr. 29
+- TOP 8.7.: Waldschulstr. 62
+- TOP 8.8.: Adelmannstr. 20
+- TOP 8.9.: Adelmannstr. 18
+- TOP 8.10.: Groß-Nabas-Str. 16
+- TOP 8.11.: Zehntfelstr. 104
+- TOP 8.12.: Usambarastr. 9
+- TOP 8.13.: Lehrer-Götz-Weg 21 a
+- TOP 8.14.: Xaver-Weismor-Straße 4
+- TOP 8.15.: Adelmannstraße 15
+- TOP 8.16.: Hochalmstraße 20 a
+- TOP 8.17.: Matterhornstraße 22
+- TOP 9.1.: Termine und Mitteilungen: - Entwurf "Leitlinie Bildung" - Öffentlichkeitsphase, 30.09.08, 15.30 Uhr, Schul- und Kultusreferat, Raum 535 - Fachtag 10 Jahre Quartierbezogene Bewohnerarbeit, 16.10.08, Kulturhaus Milbertshofen - Leitlinie Bildung im Gespräch vor Ort, 13.11.08, Kulturzentrum Trudering - Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse, 03.12.08, 18.00 Uhr, Sozialreferat Orleansplatz, großer Sitzungssaal - Einladung zur Eröffnung des neuen Müller Trimm Dich-Parcours am 13.09.2008, 12.00 Uhr bis 18.00 Uhr - nach Mitteilung der Vorsitzenden
+- TOP 9.2.: Die Bürgerversammlung wieder den Bürgern! Begrenzung der Redezeit von Amtsträgern und Stadtvertretern (Stellungnahme des Oberbürgermeisters)
+- TOP 9.3.: Grundsätze zur Zusammenarbeit der Bezirksausschuss-Geschäftsstellen mit den Bezirksausschuss-Vorsitzenden und Bezirksausschuss-Mitgliedern
+- TOP 9.4.: Kinderarbeit für Pflaster der Riem Arcaden (Antrag zuzüglich Stellungnahme MRG und Büro des 3.ten Bürgermeisters)
+- TOP 9.5.: Munic Heli Masters - RC-Flugmodellsportveranstaltung in der Olympia-Reitanlage Riem vom 05.09.08 - 07.09.08
+- TOP 9.6.: Fortbildung der neuen Bezirksausschussmitglieder (BA) zu Themen des Planungsreferates mit denen der Bezirksausschuss befasst ist
+- TOP 9.7.: Vollzug § 13 der BA-Satzung, Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen), Bajuwarenstraße 25, Fl.Nr. 282/30 u 66, Germarkung Berg am Laim
+- TOP 9.8.: Allgemeines Eisenbahngesetz (AEG), Plangenehmigung nach § 18, 18 b AEG i.V.m. § 76 Abs. 6 VwVfg; Lärmschutzsanierung an Schienenwegen des Bundes Abschnitt München-Trudering Strecke München-Rosenheim (Nr. 5510), Bahn-km 15,4 -16,1
+- TOP 9.9.: Schreiben des SV Gartenstadt Trudering e.V. an das Schul- und Kultusreferat mit der Bitte um Zuschusszahlungen für den Unterhalt vereinseigener Sportanlagen (Antrag Nr. 08-14 / B 000146 des BA 16)
+- TOP 9.10.: Vollzug des BayKiBiG Bescheid über die Anerkennung von 50 Plätzen für 3-Jährige bis zur Einschulung in der Kindertageseinrichtung Kreuzerweg 28
+- TOP 9.11.: Mitteilung über die Bildung einer Stadtschülervertretung (SSV) ab Oktober 2008
+- TOP 9.12.: GEWOFAG - Mieterzentren vor Ort
+- TOP 9.13.: Information über das Betriebskonzept während der Schienenschleifarbeiten der U2 und U3/U6 im Abendverkehr
+- TOP 9.14.: Vollzug des BayKiBiG Bescheid über die Anerkennung von 100 Plätzen für 3-Jährige bis zur Einschulung in der Kindertageseinrichtung Hugo-Weiss-Straße 7
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 14.07.08 - 31.08.08
+- TOP 10.2.: Namenserläuterung an Straßenschildern; Stellungnahme des Direktoriums (s. auch Beschluss der Vollversammlung des Stadtrates vom 20.02.2008)
+- TOP 10.3.: Zuwendungsbewilligung aus dem Budget des BA 15 für die Freunde der Freiwilligen Feuerwehr Riem von 1874 e.V. i.H.v. 980,00 Euro
+- TOP 10.4.: Zuwendungsbewilligung aus dem Budget des BA 15 für den Verein der Freunde und Förderer der Musik i.d. Pfarrei St.-Augustinus e.V. i.H.v. 1.500,00 Euro
+- TOP 10.5.: Zuwendungsbewilligung aus dem Budget des BA 15 für die Kath. Kirchenstiftung Christi Himmelfahrt i.H.v. 1.200,00 Euro
+- TOP 10.6.: Zuwendungsbewilligung aus dem Budget des BA 15 für die Freunde der Abteilung Waldtrudering der Freiwilligen Feuerwehr e.V. i.H.v. 965,66 Euro
+- TOP 10.7.: Zuwendungsbewilligung aus dem Budget des BA 15 für das Kreativ Musikforum i.H.v. 465,00 Euro
+- TOP 10.8.: Zweckentfremdung von Wohnraum - Am Oberfeld
+- TOP 10.9.: Zweckentfremdung von Wohnraum - Schwanenweg
+- TOP 10.10.: Zweckentfremdung von Wohnraum - Solalindenstraße
+- TOP 10.11.: Mitteilung über ein Grundstücksgeschäft - Verkauf Flst. 1408/2 (Tlfl.), Gemarkung Trudering, Otto-Perutz-Straße
+- TOP 10.12.: Mitteilung über ein Grundstücksgeschäft - Verkauf Flst. 1408/2 (Tlfl.), Gemarkung Trudering, Sigmund-Riefler-Bogen
+- TOP 10.13.: Mitteilung über ein Grundstücksgeschäft - Kauf Flst. 309/11, Gemarkung Trudering, Wasserburger Landstraße
+- TOP 10.14.: Informationen zur Grundstücksvermietung in Riem "Amazonas Killershow" durch das Kommunalreferat
+- TOP 10.15.: Verkehrsrechtliche Anordnung nach § 45 StVO: Errichtung eines absoluten Halteverbots nach Zeichen 283 StVO in der Kameruner Straße
+- TOP 10.16.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Snack Lounge, Stahlgruberring 53
+- TOP 10.17.: Vollzug des Art. 19 des Landesstraf- und Verordnungsgesetzes (LStVG); Energy in the Park, 02.08.2008, Graf-Lehndorff-Straße 36
+- TOP 10.18.: Vollzug der Straßenverkehrsordnung (StVO), Veranstaltung auf öffentlichem Verkehrsgrund - hier: 4. München Triathlon am 27.07.2008
+- TOP 10.19.: Vollzug des Art. 19 des Landesstraf- und Verordnungsgesetzes (LStVG); Greenfields Open-Air, 20.07.2008, Galopprennbahn Riem
+- TOP 10.20.: Vollzug der Straßenverkehrsordnung (StVO), Veranstaltung auf öffentlichem Verkehrsgrund - Open Air Musikfestival auf dem Willy-Brandt-Platz, 16.08.2008
+- TOP 10.21.: Vollzug der Straßenverkehrsordnung (StVO), Veranstaltung auf öffentlichem Verkehrsgrund - 15. Internationale Wandertage zugunsten der Mukoviszidose Stiftung, 19.07.2008 + 20.07.2008
+- TOP 10.22.: Vollzug der Grünanlagensatzung vom 12.08.1991: Baustelleneinrichtung an der Promenade Riem
+- TOP 10.23.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/15, Schwablhofstraße (westlich), Wasserburger Landstraße (nördlich), Bahnlinie München - Rosenheim (südlich) Unterrichtung über die Auslegung gemäß § 3 Abs. 2 des Baugesetzbuches
+- TOP 10.24.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/15, Schwablhofstraße (westlich), Wasserburger Landstraße (nördlich), Bahnlinie München - Rosenheim (südlich); Beschluss der Vollversammlung des Stadtrates vom 23.07.2008
+- TOP 10.25.: Strukturkonzept für das Gelände des Münchner Trabrenn- und Zuchtvereins (MTZV) sowie das westlich anschließende Gebiet bis zur Bahnstrasse Zamdorf - Johanneskirchen; Beschluss der Vollversammlung des Stadtrates vom 23.07.2008
+- TOP 10.26.: Bebauungsplan Nr. 1976 Schwablhofstraße (westlich), Wasserburger Landstraße (nördlich), Bahnlinie München - Rosenheim (südlich), Antrag Nr. 02-08 / B 00004; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008
+- TOP 10.27.: Neubau einer Kooperationseinrichtung mit 3 Kindergarten- und 4 Krippengruppen, eines 4-gruppigen Hortes sowie einer Amtsmeisterwohnung an der Feldbergstr. 85; Beschluss des Schul- und Sportausschusses gemeinsam mit dem Kinder- und Jugendhilfeausschuss vom 16.07.2008
+- TOP 10.28.: Realisierungswettbewerbe "Innovativer Wohnungsbau Hasenbergl", Modellvorhaben e% - Energieeffizienter Wohnungsbau; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung
+- TOP 10.29.: Initiative Europäische Metropolregion München - Sachstandbericht; Bekanntgabe in der Sitzung der Vollversammlung des Stadtrates vom 23.07.2008
+- TOP 10.30.: Europaarbeit des Referats für Stadtplanung und Bauordnung und aktuelle Entwicklungen der "städtischen Dimension" auf europäischer Ebene; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2008
+- TOP 10.31.: Leistungsprogramm der MVG für die Fahrplanperiode 2009; Beschluss der Vollversammlung des Stadtrates vom 23.07.2008
+- TOP 10.32.: Schaffung einer Fußwegverbindung von der Haff- zur Feldbergstraße, Empfehlung Nr. 02-08 / E 01003 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 27.11.2007; Beschluss des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 26.06.2008
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
+- TOP 8.5.: Sonnenspitzstr. 4
