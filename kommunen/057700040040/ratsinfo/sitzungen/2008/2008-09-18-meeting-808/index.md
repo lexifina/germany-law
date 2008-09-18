@@ -1,0 +1,55 @@
+# Rat (27. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2008-09-18T16:00:00+02:00
+- Ende: 2008-09-18T19:25:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfBb_c8Q_2Ekql-Jg-uVeL8
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/808
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXIMq-SZl-7HQOhM60AqaXS0KjMIIbdr8Sb51S4kZ_YM/Oeffentliche_Niederschrift_Rat_18.09.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 3.: 3. Änderung des Bebauungsplanes Nr. 8 "Am Krankenhaus" der Stadt Rahden zur Schaffung der planungsrechtlichen Voraussetzungen für den Neubau des Krankenhauses; hier: a) Beratung und Beschlussfassung über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 3 Abs. 2 Baugesetzbuch (BauGB) b) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 4.: 4. Änderung des Bebauungsplanes Nr. 4 "Alter Markt/Nördliches Ahlfeld - Neuaufstellung -" im Bereich des Deerberg-Hauses; hier: a) Beratung und Beschlussfassung über die Änderung des Bebauungsplanes im Ver- fahren gemäß § 13a Baugesetzbuch (BauGB) und über die Durchführung der früh- zeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB b) Beratung und Beschlussfassung über den Entwurf und über die öffentliche Ausle- gung der 4. Änderung des Bebauungsplanes Nr. 4 "Alter Markt/Nördliches Ahlfeld - Neuaufstellung" gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB und über die Beteili- gung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB - Einstimmig, 3 Enthaltungen
+- TOP 5.: Schaffung der planungsrechtlichen Genehmigungsvoraussetzungen für die Umsetzung verschiedener Einzelhandelsvorhaben 8. Änderung des Bebauungsplanes Nr. 35 "Gerichtsstraße/Gartenstraße/Lange Straße"; hier: a) Beratung und Beschlussfassung über die Änderung des Bebauungsplanes im Verfahren gemäß § 13a Baugesetzbuch (BauGB) und über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB b) Beratung und Beschlussfassung über den Entwurf und über die öffentliche Aus- legung der 8. Änderung des Bebauungsplanes Nr. 35 "Gerichtsstraße/Garten- straße/Lange Straße" gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB und über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB Erteilung einer Befreiung von den Festsetzungen des Bebauungsplanes Nr. 4 "Alter Markt/Nördliches Ahlfeld" für die Errichtung eines Lidl-Marktes an der Eisenbahnstraße - Einstimmig, 3 Enthaltungen
+- TOP 6.: 1. vereinfachte Änderung des Bebauungsplanes Nr. 68 "Nördlicher Bauerbrink"; hier: a) Beratung und Beschlussfassung über die während der Beteiligung der Öffentlichkeit und der berührten Behörden und sonstigen Träger öffentlicher Belange vorgebrachten Anregungen gem. § 13 Abs. 2 i.V.m. § 3 Abs. 2 und § 4 Abs. 2 BauGB b)Satzungsbeschluss gem. §§ 10 und 13 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 7.: Bahnhof Rahden - 22 Stimmen dafür, 2 dagegen, 5 Enthaltungen
+- TOP 8.: Krankenhaus Rahden; hier: Anhörung der Stadt Rahden zur Fortschreibung des Krankenhausplanes gemäß § 14 Krankenhausgestaltungsgesetz NRW - Einstimmig, 0 Enthaltungen
+- TOP 9.: Neubau des Feuerwehrgerätehauses Rahden - Einstimmig, 0 Enthaltungen
+- TOP 10.: Vergabe eines Straßennamens im neuen Baugebiet „An der Mühle“ in Tonnenheide - Einstimmig, 0 Enthaltungen
+- TOP 11.: Antrag der Basket's 96 Rahden auf Errichtung eines Sozialraumes in der Dreifachsporthalle - Ohne Abstimmung
+- TOP 12.: Anfrage der SPD-Fraktion zu einem Touristikkonzept für die Stadt Rahden - Ohne Abstimmung
+- TOP 13.: Bekanntgaben
+- TOP 13.1: UMTS-Versorgung in Rahden
+- TOP 13.2: 975 Jahre Rahden - Schlussveranstaltung
+- TOP 13.3: Vorstellung des Buches zum Stadtjubiläum
+- TOP 14.: Verschiedenes
+- TOP 14.1: Erneuerung von Brücken über Gemeindestraßen
+- TOP 14.2: "Swap-Geschäfte" des Kreises
+- TOP 14.3: Irritationen durch Hausnummern an der Tonnenheider Straße
+- TOP 14.4: Neubau der Mensa im Schulzentrum - Zeitplan
+- TOP 14.5: DSL-Ausbau in Rahden
+- TOP 14.6: Verkehrssicherheit an der Kreuzung / Einmündung Langer Damm / Varlheider Straße
+- TOP 14.7: Innenstadtgutachten (endgültige Fassung)
+- TOP 14.8: Verkehrsschau im Jahre 2008
+- TOP 14.9: Fortschreibung des Nahverkehrsplanes
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 15.: Bekanntgabe der im II. Quartal 2008 abgeschlossenen Grundstücksverträge - Einstimmig, 0 Enthaltungen
+- TOP 16.: Festlegung des Verkaufspreises für das Baugebiet "Tonnenheide-An der Mühle" - Einstimmig, 1 Enthaltungen
+- TOP 17.: Neubau des Feuerwehrgerätehauses Rahden; hier: Vergabe der Aufträge für die Erstellung der Tragwerksplanung (Statik), Schall- und Wärmeschutznachweise - Einstimmig, 0 Enthaltungen
+- TOP 18.: Genehmigung des Beschlusses des Verwaltungsrates der Stadtsparkasse Rahden über die Wiederbestellung eines Vorstandsmitgliedes - Einstimmig, 0 Enthaltungen
+- TOP 19.: Bekanntgaben
+- TOP 19.1: Gerätewagen für Feuerwehr-Löschgruppe Tonnenheide
+- TOP 20.: Verschiedenes
+- TOP 20.1: Überprüfung der Abwasserleitungen
+- TOP 20.2: Abwassergebührensatzung (Regenentwässerung)
+- TOP 20.3: Erweiterung des Gewerbegebietes Süd
+- TOP 20.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20.5: Durchführung von Mäharbeiten auf den Sport-, Kinderspielplätzen und anderen Grünanlagen
