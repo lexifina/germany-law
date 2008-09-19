@@ -1,0 +1,59 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2008-09-19T16:44:00+02:00
+- Ende: 2008-09-19T21:09:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/594
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/594
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Verfahrensstand Initiative Pro straßenbahnfreier Hauptstraßenzug
+- TOP 3: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Genehmigung der Dringlichkeitsentscheidung Nr. 114: Dienstreisegenehmigung – Vertragsunterzeichnung in Nevsehir (RAT190908-06769.doc)
+- TOP 6: Sportstättenplanungen Stadion Jahnstraße und Sportpark Konrad-Adenauer-Ring hier: Beschlussempfehlung des Sportausschusses vom 10.09.2008 (SP100908-06901.doc)
+- TOP 7: Genehmigung der Tagesordnung
+- TOP 8: Weitergabe von Daten von Bürgerinnen und Bürgern durch die Meldebehörde (RAT190908-06902.doc)
+- TOP 9: - Bebauungsplan Nr. 163/0/1 - Hafen, Radweganschluss (Hochwassersperrwerk-/Notgleis-Projekt) - - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 10: Bebauungsplan Nr. 187/4 - Weckhoven, Franz-Leuninger-Straße - - Entwurfsvorlage - Aufstellungsbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigenTräger öffentlicher Belange
+- TOP 11: Flächennutzungsplanänderung Nr. 116 - Stadionviertel, Preußenstraße (Marianum) - - Beschluss über die Stellungnahmen - Beschluss über die FNP-Änderung - Einholung der Genehmigung
+- TOP 12: Bebauungsplan Nr. 454 - Stadionviertel, Preußenstraße (Marianum) - - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 13: Vorhaben- und Erschließungsplan Nr. V447 - Holzheim, Blausteinsweg (Süd) - (vorhabenbez. Bebauungsplan) - Entwurfsvorlage - Einleitungsbeschluss - Vorgaben für den Durchführungsvertrag - frühzeitige Öffentlichkeits- und Behörden-/Trägerbeteiligung
+- TOP 14: Gewährung eines zweckgebundenen Zuschusses für die Neusser-Eine-Welt-Initiative NEWI zur Übernahme von Geschäftskosten (AUG180908-06809.doc)
+- TOP 15: Dienstreisegenehmigung für Stadtverordnete zur Expo Real in München 2008 (AWL200808-06741.doc)
+- TOP 16: Flächennutzungsplanänderung Nr. 117 - Uedesheim, Am Blankenwasser - - Beschluss über die Stellungnahmen aus den frühzeitigen Beteiligungen - Auslegungsbeschluss
+- TOP 17: Bebauungsplan Nr. 8/6 - Holzheim, Münchener Straße / Hindenburgplatz - - Entwurfsvorlage - Aufstellungsbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 18: Verkehrliche Entlastung Preußenstraße
+- TOP 19: Eröffnungsbilanz der Stadt Neuss zum 01.01.2007 (Rat190908-06810.doc)
+- TOP 20: Sitzungskalender 2009 (RAT190908-06773.doc)
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Fraktionszuwendungen - Personalkostenzuschuss - für die Ratsfraktion Unabhängige/ Die Linke (RAT190908-06893.doc)
+- TOP 23: Festsetzung der Tagesordnung: Landschaftsschutz für das Gelände der Rennbahn (RAT190908-06859.doc)
+- TOP 24: „Sport und Gesundheit in Neuss“, hier: Werkstattverfahren (RAT190908-06858.doc)
+- TOP 25: Werkstattverfahren bleibt unverzichtbare Voraussetzung für eine neue Nutzungskonzeption für das Stadion Jahnstraße (RAT190908-06873.doc)
+- TOP 26: Änderung der städtischen Richtlinie I 2.3 Hier: Erhöhung des Betreuerschlüssels bei Jugenderholungsmaßnahmen (JHA110908-06835.doc)
+- TOP 27: Haushalt 2009 Vorlage des Entwurfes der Haushaltssatzung der Stadt Neuss mit Anlagen für das Haushaltsjahr 2009 (RAT190908-06764.doc)
+- TOP 28: Feststellung des Jahresabschlusses zum 31.12.2007 der Städtischen Friedhöfe Neuss und Beschluss über die Verwendung des Jahresgewinns (AUG180908-06733.doc)
+- TOP 29: Finanzierung der Arbeitslosenberatungsstelle Neuss (RAT190908-06897.doc)
+- TOP 30: Festsetzung der Tagesordnung: Flächennutzungsplanänderung und Bebauungsplan Marianum, Preußenstraße (RAT190908-06898.doc)
+- TOP 31: Stimmenbündelung in der Verbandsversammlung der ITK-Rheinland (RAT190908-06656.doc)
+- TOP 32: „Bedarfshaltestelle“ am neuen Norfer Friedhof (RAT190908-06876.doc)
+- TOP 33: Einführung einer landesweiten Ehrenamtskarte (RAT190908-06671.doc)
+- TOP 34: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen (RAT190908-06890.doc)
+- TOP 35: Stellungnahme zum Antrag der FDP-Fraktion „Stimmzettel statt Wahlcomputer?“ (WA190608-06620.doc)
+- TOP 36: Einwohnerfragestunde
+- TOP 37: Bebauungsplan Nr. 345/1 - Uedesheim, Gotteslinde (Ausgleichsfläche) - - Beschluss über die Stellungnahmen aus den frühzeitigen Beteiligungen - Auslegungsbeschluss
+- TOP 38: Einsatz eines/einer Kommunikationsberaters/beraterin bei Planungsverfahren (RAT190908-06891.doc)
+- TOP 39: Neuausrichtung der Planungen im Hammfeld II (RAT190908-06892.doc)
+- TOP 40: Geschwindigkeitsbegrenzungen auf Kreisstrassen innerhalb des Stadtgebietes Neuss (RAT190908-06843.doc)
+- TOP 41: Bedauerliche äußere „Stadtansichten“ im Stadtgebiet Neuss (RAT190908-06877.doc)
+- TOP 42: Festsetzung der Tagesordnung: Sportstättenplanung Stadion Jahnstraße und Sportpark Konrad-Adenauer-Ring (RAT190908-06889.doc)
+- TOP 43: Antrag zur Durchführung eines „Planspiels Jugendstadtrat“ (RAT190908-06896.doc)
+- TOP 44: Kenntnisnahme üpl/apl 2. Quartal 2008
+- TOP 45: Bebauungsplan Nr. 457 - Uedesheim, Am Blankenwasser (Straße) - - Beschluss über die Stellungnahmen aus den frühzeitigen Beteiligungen - Auslegungsbeschluss
