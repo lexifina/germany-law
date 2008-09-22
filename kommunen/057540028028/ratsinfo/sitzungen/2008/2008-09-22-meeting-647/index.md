@@ -1,0 +1,52 @@
+# Rat der Stadt Rheda-Wiedenbrück (28. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2008-09-22T17:00:00+02:00
+- Ende: 2008-09-22T18:24:00+02:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUOrPHnD_uObQjvp5Q-8F94
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/647
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU3Zi3BRv4LVpqzkMvzu0L76X5H8ds7RTY3Jdf_SPYhG/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_22.09.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXgwYnfvAyWfDbrralEZm55X5bNicsjwmDE5PFJz6epC/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_22.09.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 1.1: Antrag der SPD-Fraktion vom 10.09.2008 betreffend Auflösung der "Eigenbetriebsähnlichen Einrichtung Bauhof" - Kenntnisnahme
+- TOP 2: Verabschiedung des durch Niederlegung des Ratsmandates ausgeschiedenen Ratsmitgliedes Michael Splietker
+- TOP 3: Einführung und Verpflichtung des nachrückenden Ratsmitgliedes Jörg Pohlmann
+- TOP 4: Erklärung von Ausschließungsgründen
+- TOP 5: Einwohnerfragestunde
+- TOP 6: Südringschluss; Antrag der Fraktion Bündnis ´90/Die Grünen vom 28.08.2008 bezüglich einer Gesamtüberprüfung der Planung und Ausweitung der Lärmminderungsplanung auf weniger bedeutende Straßen - 30 Ja-Stimme(n), 3 Nein-Stimme(n)
+- TOP 7: Umbesetzung in den Ausschüssen des Rates - Einstimmig
+- TOP 8: Änderung der Zuständigkeitsordnung des Rates der Stadt Rheda-Wiedenbrück für die Fachausschüsse - Einstimmig
+- TOP 9: Betriebssatzung für den Eigenbetrieb Abwasser der Stadt Rheda-Wiedenbrück; Zuständigkeit des Betriebsausschusses - 32 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 10: Wiederbesetzungssperre - 32 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 11: Antrag der FDP-Fraktion vom 09.07.2008 auf Errichtung zwei weiterer Gärtnerstellen im Betrieb Bauhof - 31 Ja-Stimme(n), 1 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 12: Ganztagsbetrieb an den Schulen der Stadt Rheda-Wiedenbrück a) Umwandlung städtischer Gymnasien und Realschulen in gebundene Ganztagsschulen b) Raumprogramm für den gebundenen Ganztagsbetrieb bzw. die "Über- Mittag-Betreuung" - 31 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 13: Genehmigung von Dringlichkeitsentscheidungen zu überplanmäßigen Mittelbereitstellungen - Einstimmig
+- TOP 14: Erweiterung des Erschließungsvertrages zwischen der Stadt Rheda-Wiedenbrück, der Stadt Oelde und der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH - 31 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 15: Gewerbepark AUREA - Erschließung mit Telekommunikationsanlagen (Vorwahl) - Einstimmig
+- TOP 16: 4. Änderung des Bebauungsplans Nr. 206 "Am Rott" im vereinfachten Ver- fahren nach § 13 BauGB; hier: a)Ergebnisse der Offenlage nach § 13 Abs. 2 Nr. 2 BauGB i. V. m. § 3 Abs. 2 BauGB und der Trägerbeteiligung nach § 13 Abs. 2 Nr. 3 BauGB i. V. m. § 4 Abs. 2 BauGB b)Satzungsbeschluss - Einstimmig
+- TOP 17: Straßenbenennung im Bereich des Bebauungsplanes Nr. 367 "Batenhorst - An der Kirche" - Einstimmig
+- TOP 18: Straßenbenennung im Bereich des Bebauungsplanes Nr. 369/2 "AUREA" - Einstimmig
+- TOP 19: Straßenbenennung im Bereich des Bebauungsplanes Nr. 373 "Braunholzstraße/Rietberger Straße" - Einstimmig
+- TOP 20: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 21: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 22: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 23: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 24: Erklärung von Ausschließungsgründen
+- TOP 25: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 26: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 27: Steuerrechtliche Bewertung eines Sponsorings betreffend Bau und Finanzierung der neuen Stadthalle Reethus - Absetzung
+- TOP 28: Genehmigung einer Dringlichkeitsentscheidung - Einstimmig
+- TOP 29: Genehmigung einer Dringlichkeitsentscheidung - Einstimmig
+- TOP 30: Laufender Zuschuss für den Förderverein Domhof e. V. - Einstimmig
+- TOP 31: Jahresabschluss der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für das Wirtschaftsjahr 2007 - Einstimmig
+- TOP 32: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 33: Dringende Anfragen und Anregungen
