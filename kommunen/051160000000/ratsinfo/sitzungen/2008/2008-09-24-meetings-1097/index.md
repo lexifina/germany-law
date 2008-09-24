@@ -1,0 +1,55 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2008-09-24T15:00:00+02:00
+- Ende: 2008-09-24T19:25:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1097
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1097
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022198.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022198.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022198.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Kenntnisnahme
+- TOP 2: Ehrenamtskarte - Von Verwaltung zurückgezogen
+- TOP 3: Offinso - Einstimmiger Beschluss
+- TOP 4: Üpl. und apl. Ausgaben des HJ 2008 - Einstimmiger Beschluss
+- TOP 5: Resolution Telekom - Einstimmiger Beschluss
+- TOP 6: Einbringung des Etatentwurfs 2009 - Kenntnisnahme
+- TOP 7: Vertretung der Stadt in Organen von Gesellschaften - Zur Kenntnis genommen
+- TOP 8: Genehmigung einer Dringlichkeitsentscheidung - Zur Kenntnis genommen
+- TOP 9: Erhöhung derZahl der Mitglieder des Beirates - Einstimmiger Beschluss
+- TOP 10: 2. NT Vergnügungssteuersatzung vom 19.12.2002 - Einstimmiger Beschluss
+- TOP 11: Beteiligung der NVV AG an der Niederrheinwerke Gmb - Einstimmiger Beschluss
+- TOP 12: Beteiligung der NVV AG an der Niederrheinwerke Gmb - Einstimmiger Beschluss
+- TOP 13: Gesellschaftsvertrag STANDORT NIEDERRHEIN GmbH - Einstimmiger Beschluss
+- TOP 14: Dringlichkeitsentscheidung vom 14.08.08 - Einstimmiger Beschluss
+- TOP 15: Ausstellung "End" von Gregor Schneider - Zur Kenntnis genommen
+- TOP 16: Wahl zum Beirat der Unteren Landschaftsbehörde - Von Verwaltung zurückgezogen
+- TOP 17: Verkaufsoffener Sonntag Neuwerk am 12.10.2008 - Zur Kenntnis genommen
+- TOP 18: Neunter Nachtrag Musikschulordnung - Zur Kenntnis genommen
+- TOP 19: Benennung eines sachkundigen Einwohner - Einstimmiger Beschluss
+- TOP 20: Berufung von beratenden Mitgliedern in den SchuBiA - Einstimmiger Beschluss
+- TOP 21: Modernisierung der Bezirkssportanlage Bergerfeld - Zur Kenntnis genommen
+- TOP 22: Sanierung / Neubau Stadtbad Rheydt - Einstimmiger Beschluss
+- TOP 23: Schiedsamtswahl Odenkirchen - Einstimmiger Beschluss
+- TOP 24: Schiedsamtswahl Rheydt-West - Einstimmiger Beschluss
+- TOP 25: HDZ -Eckpunkte des Vergabeverfahrens - - Zur Kenntnis genommen
+- TOP 26: Giesenkirchen 2015 - Zur Kenntnis genommen
+- TOP 27: Innenstadtkonzept Rheydt - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 28: Innenstadtkonzept Rheydt (Vorlage VII/3566) - Mit Stimmenmehrheit abgelehnt
+- TOP 29: 1. Änderung des Bebauungsplanes M Nr. 229 - Einstimmiger Beschluss
+- TOP 30: 1. Änderung des Bebauungsplanes Nr. 439/V - Einstimmiger Beschluss
+- TOP 31: Teileinziehung - Einstimmiger Beschluss
+- TOP 32: 1. Verlängerung Veränderungssperre Waldnieler Str. - Einstimmiger Beschluss
+- TOP 33: Straßenbenennung im Bereich - Einstimmiger Beschluss
+- TOP 34: Benennung von Straßen, Einrichtungen und Plätzen - Mit Stimmenmehrheit abgelehnt
+- TOP 35: Sach- u Geschäftsordnungsanträge von Ratsmitglied - Zur Kenntnis genommen
+- TOP 36: Nachnutzung JHQ nach Abzug britischer Streitkräfte - Einstimmiger Beschluss
+- TOP 37: Frauen-Fussball- WM - Zur Kenntnis genommen
+- TOP 38: Anfragen - Zur Kenntnis genommen
