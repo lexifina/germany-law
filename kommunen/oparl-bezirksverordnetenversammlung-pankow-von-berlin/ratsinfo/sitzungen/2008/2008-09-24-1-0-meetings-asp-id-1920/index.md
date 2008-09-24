@@ -1,0 +1,88 @@
+# 18. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2008-09-24T17:30:00+02:00
+- Ende: 2008-09-24T21:45:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1920
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1920
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfragen - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Ergänzungsplan des Bezirks Pankow zum Doppelhaushaltsplan 2008/2009 hier: Haushaltsjahr 2009 - überwiesen
+- TOP 1.9: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2007 - überwiesen
+- TOP 1.10: Überarbeitung der Entwurfsplanung für die Oderberger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Verlängerung der Veränderungssperre 3-12/2 im Bezirk Pankow, Ortsteil Weißensee für die Grundstücke Berliner Allee 301/311 sowie eine Teilfläche des Grundstücks Berliner Allee 313 und 315 (Flurstücke 76 und 77) - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Ausbau der Blankenburger Chaussee von der Sellheimbrücke bis ca. 50 m vor den Knotenpunkt Bahnhofstraße / Alt Karow / Straße 52 (Ortsteil Karow) hier: 2. Bauabschnitt von der Tarnowitzer Straße bis ca. 50 m vor den Knotenpunkt Bahnhofstraße / Alt Karow / Straße 52 - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Ausbau der Kastanienallee von der Hauptstraße bis zur Friedrich-Engels-Straße, Ortsteil Rosenthal. - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Übergang über die Prenzlauer Promenade Höhe Binzstraße - in der BVV abgelehnt
+- TOP 1.15: Mitternachtssport - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Jeder Schule ein/e Sozialarbeiter/in - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Tempo 30 in der Schönhauser Straße in Französisch-Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Heidekrautbahn an das Fern-, Regional- und Schnellbahnnetz anschließen und das ÖPNV-Angebot im Nordostraum entwickeln! - in der BVV abgelehnt
+- TOP 1.19: Hundeboxen (Tüten) in Grünanlagen des Bezirkes - zurückgezogen
+- TOP 1.20: Kastellanhaus - zurückgezogen
+- TOP 1.21: Nachweis der im Haushaltsjahr 2007 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Sicheres Queren der Blankenburger Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Fußgängerampel Dietzgenstr. - überwiesen
+- TOP 1.24: Lebensqualität für alle im südlichen Prenzlauer Berg - beantwortet
+- TOP 1.25: Produktkatalog den Bezirksverordneten zugänglich machen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Wann kommt die Oberschulentwicklungsplanung? - beantwortet
+- TOP 1.27: Brandsicherheit an Pankower Schulen - vertagt
+- TOP 1.28: Smiley-Aktion stoppen. - vertagt
+- TOP 1.29: Zukunft der Janusz-Korczak-Bibliothek - vertagt
+- TOP 1.30: Kostenfreie Hotline für das JobCenter einrichten! - vertagt
+- TOP 1.31: Baulicher Unterhalt der Pankower Schulen - vertagt
+- TOP 1.32: Aufgaben des Veterinär- und Lebensmittelaufsichtsamtes - vertagt
+- TOP 1.33: Wisbyerstr. Tempo 30 wieder aufheben... - vertagt
+- TOP 1.34: Modell zur Zumessung für Hilfen zur Erziehung - überwiesen
+- TOP 1.35: Brache aus dem Straßenreinigungsverzeichnis nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Datenschutzskandal: Handel mit Melderegisterdaten - vertagt
+- TOP 1.37: P+R Platz - vertagt
+- TOP 1.38: Umsetzung des Gleichstellungspolitischen Rahmenprogramms - bezirklicher Masterplan - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Übergang Berliner Allee Höhe Parkstraße sichern! - überwiesen
+- TOP 1.40: 20. Jahrestag der "Maueröffnung" im Bezirk Pankow - vertagt
+- TOP 1.41: Parkraumbewirtschaftung in der Berliner Allee - vertagt
+- TOP 1.42: Benennung von Grünanlagen, öffentlichen Orten, Plätzen und Einrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.43: Solaranlagen auch auf denkmalgeschützte bezirkseigene Gebäude - überwiesen
+- TOP 1.44: Ratskeller Pankow - Zwischennutzung - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Hartz IV - Verteilung der Eingliederungsmittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Neue Impulse für den Agendaprozess in Pankow - vertagt
+- TOP 2.3: Lichtsignalanlagen im Bezirk - vertagt
+- TOP 2.4: Erhöhung der Verkehrssicherheit im Bereich der Straßenbahnhaltestellen der Schönhauser Allee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Life Science Center Buch - vertagt
+- TOP 2.6: Lärmschutz entlang der Stettiner Eisenbahn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Öffnungszeiten der Seniorenfreizeitstätten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Pflegestützpunkte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Regenbogenflaggen über Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Verabschiedung der Olympioniken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Mehr Sicherheit an der Bahntrasse entlang von Pankow-Heinersdorf - vertagt
+- TOP 2.12: Stellenzusage für Kinderschutz umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Einstellung der Zusammenarbeit mit der GBM - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Bebauungsplan 3-19 für das Grundstück Straßburger Straße 56 sowie eine angrenzende Teilfläche des Grundstücks Schönhauser Allee 9 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Eckwertebeschluss zum Ergänzungsplan 2009 - vertagt
+- TOP 2.16: Benennung einer privaten Erschließungsstraße im Ortsteil Prenzlauer Berg in "Marthashof" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Benennung einer privaten Erschließungsstraße im Ortsteil Pankow in "Killisch-von-Horn-Weg" - vertagt
+- TOP 2.18: Förderprogramm Stadtumbau Ost - vorläufige Vorschlagsliste für die Programmplanung 2009 im Rahmen der Kontingentplanung - vertagt
+- TOP 2.19: Abschluss von Mietverträgen zur Errichtung von Photovoltaikanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Bebauungsplan IV-29 für die Grundstücke Rykestraße 21, Rykestraße 20 / Sredzkistraße 61 und Sredzkistraße 59 / Rykestraße im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Verordnung über die Veränderungssperre 3-12/2 im Bezirk Pankow, Ortsteil Weißensee für die Grundstücke Berliner Allee 301/311 sowie einer Teilfläche des Grundstücks Berliner Allee 313 und 315 (Flurstücke 76 und 77) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Bebauungsplan 3-14 vom 28. September 2007 für die Grundstücke Straßburger Straße 14 / Saarbrücker Straße und Saarbrücker Straße 8, 9 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Auswertung der "Ausbildungsoffensive Pankow" 2007 bis 2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Aktualisierung des Rahmenplans und Präzisierung von Sanierungszielen auf einzel-nen Grundstücken im Sanierungsgebiet Weißensee-Komponistenviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Migration der Systemumgebung im Bezirksamt Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Nachweis der im 1. Halbjahr 2008 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Abschluss von Mietverträgen zur Errichtung von Photovoltaikanlagen - mit Abschlussbericht zur Kenntnis genommen
