@@ -1,0 +1,6 @@
+# TOP 5: Ganztagsoffensive Sekundarstufe I Umwandlung der Realschule Südstadt und des Alexander-von-Humboldt-Gymnasiums in eine gebundene Ganztagsrealschule und ein gebundenes Ganztagsgymnasium (SCH240908-06851)
+
+- Sitzung: Schulausschuss (2008-09-24)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/113355
