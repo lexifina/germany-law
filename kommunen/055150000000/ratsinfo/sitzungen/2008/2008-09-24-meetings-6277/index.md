@@ -1,0 +1,53 @@
+# 33. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-09-24T18:17:00+02:00
+- Ende: 2008-09-24T22:01:00+02:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6277
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6277
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00270229.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 7.1: Sicherheitsrechtliche Befragung zur Klärung von Bedenken gegen den weiteren Aufenthalt in der Bundesrepublik Deutschland (Sog. Sicherheitsbefragung) - einstimmig beschlossen
+- TOP 8: Entlastung für die Jahresrechnung 2007 - einstimmig beschlossen
+- TOP 9: OrdnungsbehördlicheVerordnung über das Offenhalten der Verkaufsstellen am 28.12.2008 im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel - mehrheitlich beschlossen
+- TOP 10: Bürgerinnen und Bürger einfach zum Recht verhelfen - Bürgerfreundliches Verwaltungsverfahren auch in Zukunft sicher stellen! - einstimmig beschlossen
+- TOP 11: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland - mehrheitlich beschlossen
+- TOP 12: "Die Familienhebamme am Gesundheitsamt der Stadt Münster": Weiterführung des Modellprojekts - einstimmig beschlossen
+- TOP 13: Feststellung des Jahresabschlusses der Altenzentrum Klarastift gGmbH für das Wirtschaftsjahr 2007 - einstimmig beschlossen
+- TOP 14: Feststellung des Jahresabschlusses der Klarastift Service GmbH für das Wirtschaftsjahr 2007 - einstimmig beschlossen
+- TOP 15: Bauvorhaben Stubengasse 22 / Umbau und Umnutzung des Parkhauses - mehrheitlich geändert beschlossen
+- TOP 16: Städtisches Preußenstadion - einstimmig beschlossen
+- TOP 17: Bauleitplanung
+- TOP 17.1: Stadtbezirk Münster-West
+- TOP 17.1.1: Bebauungsplan Nr. 323, 1. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 17.1.2: Bebauungsplan Nr. 488 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 17.2: Stadtbezirk Münster-Nord
+- TOP 17.2.1: 31. Änderung FNP - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 17.2.2: Bebauungsplan Nr. 227, 3. Änderung - Neuer Änderungsbeschluss - einstimmig beschlossen
+- TOP 17.3: Stadtbezirk Münster-Ost
+- TOP 18: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 18.1: Ambulante Kinder- und jugendpsychiatrische Versorgung auch weiterhin sicherstellen! - zurückgezogen
+- TOP 19: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 19.1: Familien mit Kindern Grunderwerb in Innenstadtlagen ermöglichen - verwiesen
+- TOP 19.2: Haltepunkt Handorf planen - Eisenbahnstrecke Münster-Warendorf beschleunigen - verwiesen
+- TOP 19.3: Entwicklung eines Verkehrsberuhigungkonzeptes für Handorf - verwiesen
+- TOP 19.4: Kindertagesbetreuung: weitere untere Einkommensgruppen von Elternbeiträgen befreien - verwiesen
+- TOP 19.5: Klimaschutz bereits bei der Stadtplanung beginnen - - verwiesen
+- TOP 19.6: Stadtplanung für alle Bürger öffnen - - verwiesen
+- TOP 19.7: Soziale und ökologische Tarifreform bei Energie - - verwiesen
+- TOP 19.8: Neue Wege im Radwegebau - Unterstützung von Bürgerradwegen - verwiesen
+- TOP 19.9: Mit Hybrid-Bussen Münsters Straßen sauberer machen - verwiesen
+- TOP 20: Verschiedenes
