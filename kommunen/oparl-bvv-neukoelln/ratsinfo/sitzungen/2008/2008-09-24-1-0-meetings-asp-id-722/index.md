@@ -1,0 +1,107 @@
+# 20. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2008-09-24T17:00:00+02:00
+- Ende: 2008-09-24T22:30:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=722
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=722
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2007 - überwiesen
+- TOP 7.2: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2007 - überwiesen
+- TOP 7.3: Zustimmung zur Entscheidung über den Neubau der Radwege Buschkrugallee im Abschnitt zwischen Blaschkoallee und Grüner Weg - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Veränderungssperre XIV-60/19 für das Grundstück Buckower Damm 30 im Bezirk Neukölln, Ortsteil Britz, im Geltungsbereich des Bebauungsplanentwurfes XIV-60 ("Mohriner Allee/Buckower Damm") - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Mandats als Bürgerdeputierter im Ausschuss für Verwaltung und Gleichstellung und im Ausschuss für Stadtentwicklung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.3: Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.4: Benennung eines Bezirksverordneten als stellvertretendes Mitglied in den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.5: Mitteilung von über- und außerplanmäßigen Ausgaben im 1. Halbjahr 2008 - überwiesen
+- TOP 8.6: Rechtliche Prüfung zur Nutzung von Vereinsheimen und Gemeinschaftsflächen in Kleingartenkolonien im Bezirk Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Buch "Nord-Neukölln, Frontbericht aus dem Klassenzimmer" - beantwortet
+- TOP 9.2: Konsequenzen aus dem Urteil des Bundesverwaltungsgerichtes - beantwortet
+- TOP 9.3: Organisationsgutachten - beantwortet
+- TOP 9.4: Beschwerden und Wartezeiten im Vivates Klinikum Neukölln - beantwortet
+- TOP 9.5: Gleichbehandlung - beantwortet
+- TOP 9.6: Integrationskinder in Kindertagesstätten - beantwortet
+- TOP 9.7: Lehrerausstattung an Neuköllner Schulen zum Schuljahresanfang - Teil I - beantwortet
+- TOP 9.8: Lehrerausstattung an Neuköllner Schulen zum Schuljahresanfang - Teil II - schriftlich beantwortet
+- TOP 9.9: Gewerbeansiedlungen rund um Schulen - schriftlich beantwortet
+- TOP 9.10: Sprachstandserhebungen - schriftlich beantwortet
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Änderung der Geschäftsordnung - Teil I - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Änderung der Geschäftsordnung - Teil II - in der BVV abgelehnt
+- TOP 10.3: Umweltfreundliche Fahrzeuge - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Pflegestützpunkte - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Energetische Betrachtungen der bezirklichen Liegenschaften - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Mehr Verkehrssicherheit in Alt-Buckow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Werbung für gesundheitsschädliche Genussmittel verbieten - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Internationale Aktivitäten der Neuköllner Musikschule - beantwortet
+- TOP 11.2: Auch Baustellen brauchen Integration - beantwortet
+- TOP 11.3: Klagen gegen das Jobcenter - beantwortet
+- TOP 11.4: Sozialhilfebetrug durch Scheinvaterschaft - beantwortet
+- TOP 11.5: Verkauf von landeseigenen Grundstücken von Kindertagesstätten an freie Träger - beantwortet
+- TOP 11.6: Zukunft der Oberschulen in Neukölln - beantwortet
+- TOP 11.7: Regionale Soziale Dienste - beantwortet
+- TOP 12: Große Anfragen - schriftlich - erledigt
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Internationaler-Hindemith-Wettbewerb - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Nordneuköllner Straßenbauprojekte zu Gesamtkonzept integrieren - überwiesen
+- TOP 13.3: Parkbenennung nach Dora Mendler - überwiesen
+- TOP 13.4: Fahrbahnmarkierung für Radfahrer - überwiesen
+- TOP 13.5: Haltverbot in der Bergiusstraße - überwiesen
+- TOP 13.6: Radrouten finden - überwiesen
+- TOP 13.7: Ausstellung der Preisträger "Alzheimer & You - zeig Dein Engagement" - überwiesen
+- TOP 13.8: Kreuzung vor der Hobrechtbrücke - überwiesen
+- TOP 13.9: Berliner Mauerweg besser mit Neukölln verbinden - überwiesen
+- TOP 13.10: Namibia-Wanderausstellung - überwiesen
+- TOP 13.11: Gehwege erhalten - überwiesen
+- TOP 13.12: Saalbau Neukölln - in der BVV zurückgezogen
+- TOP 13.13: Keine Bebauung an der Oderstraße - überwiesen
+- TOP 13.14: Schulstationen - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Ein Denkmalbeirat für Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Grundwasserspiegel in Rudow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Besoldung der unteren Tarifgruppen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.4: Busdurchfahrverbot - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.5: Übertragung von öffentlichem Straßengrün an Wohnungsbaugesellschaft - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.6: Bessere Überquerung der Fahrbahn am zweiten U-Bahnausgang Rudow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.7: Anordnung Tempo 30 km/h in der Johannisthaler Chaussee vor der Grundschule am Regenweiher - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.8: Mitgliedschaft im Weltbürgermeisterrat zum Klimawandel - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.9: Hinweisschild "Autobahn Hamburg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.10: Geschwindigkeitsbeschränkung am U-Bahnhof Zwickauer Damm - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Umbau des Richardplatzes, 12055 Berlin-Neukölln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.2: Öffnung der Brücke am Hafen Britz-Ost - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Bebauungsplan 8-19a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Verlängerung des Haltverbotes Karl-Marx-Straße 204-208 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Querungshilfe Prierosser Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Mit neuer Energie zum neuen Kulturstandort - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Sanierung Rathaus Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Flexible Schulanfangsphase auf freiwilliger Basis - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Straßenbelag Kopfsteinpflaster - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Sport um Mitternacht statt Gewalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Parkverbot am Britzer Damm vor ehemaligem Polizeiabschnitt 56 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Sichere Überquerung am S-Bahnhof Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Informationen an die Quartiersmanagements - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Bebauungsplan 8-19a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Radwegemarkierung in der Hermannstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.16: Schausteller von Gebührenlast befreien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: Kostenfreie Service-Nummer Jobcenter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Veränderungssperre XIV-60/18 für das Grundstück Mohriner Allee 21 im Bezirk Neukölln, Ortsteil Britz, im Geltungsbereich des Bebauungsplanentwurfes XIV-60 ("Mohriner Allee/Buckower Damm") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.19: Netzwerk "Ehrenamt Neukölln" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.20: Mitmachzirkus auch für Jugendeinrichtungen - mit Abschlussbericht zur Kenntnis genommen
