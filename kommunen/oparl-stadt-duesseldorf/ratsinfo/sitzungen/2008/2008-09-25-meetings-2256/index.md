@@ -1,0 +1,90 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-09-25T14:00:00+02:00
+- Ende: 2008-09-25T18:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2256
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2256
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166844.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166844.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166844.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 3: Akt. Anf. Linke: Cross-Border - beantwortet
+- TOP 4: Anfragen - zur Kenntnis genommen
+- TOP 5: Anfrage Bü90/Grü: Einbürgerungstest / Einbürgerungskurse - beantwortet
+- TOP 6: Anfr. CDU: Termografie-Aufnahmen - beantwortet
+- TOP 7: Anfrage Bü90/Grü: Finanzierung von Schulbeihilfen aus den Bezirksfonds - beantwortet
+- TOP 8: Anfr. Linke: Schulübergang - schriftlich beantwortet
+- TOP 9: Benutzungsordnung Bürgerhaus "Df. Arcaden" - einstimmig beschlossen
+- TOP 10: Anträge - zur Kenntnis genommen
+- TOP 11: Antr. Linke: Behindertengerechte Toiletten - mehrheitlich abgelehnt
+- TOP 12: Antr. Linke: Sponsoringbericht - mehrheitlich abgelehnt
+- TOP 13: ÄA SPD: Sponsoringbericht - mehrheitlich abgelehnt
+- TOP 14: Antrag der SPD - Wohnortnahe Hilfe für Seniorinnen und Senioren. - mehrheitlich abgelehnt
+- TOP 15: Antrag SPD: Dezentrale Nahwärmenetze - verwiesen
+- TOP 16: Antrag Bü90/Grü: Recyclingpapier - verwiesen
+- TOP 17: Antr. Linke: Sparkassen - mehrheitlich abgelehnt
+- TOP 18: Kämmererliste 2008/2007 - mehrheitlich beschlossen
+- TOP 19: Ergänzungsbeschluss zur Erschließung im Neubaugebiet Auf'm Wettsche - einstimmig beschlossen
+- TOP 20: Teilnahme an der Weltausstellung Expo Shanghai 2010 - zur Kenntnis genommen
+- TOP 21: Teilnahme an der Weltausstellung Expo Shanghai 2010 (geänderte Fassung zur Vorlage 23/ 82/2008) - mehrheitlich beschlossen
+- TOP 22: Wohnpark Flehe, Bereitstellung zusätzlicher Etatmittel zur Finanzierung von Straßenbaukosten - einstimmig beschlossen
+- TOP 23: Quadriennale 2010 - Programm - einstimmig beschlossen
+- TOP 24: Quadriennale GmbH; Neugründung einer Gesellschaft - vertagt
+- TOP 25: ÄA Bü90: Quadriennale - zur Kenntnis genommen
+- TOP 26: BSA Karl-Hohmannstraße Modernisierung Sportanlage - einstimmig beschlossen
+- TOP 27: BSA Pariser Straße Umbau Tennennspielfeld in Kunstrasen - einstimmig beschlossen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Tour de France 2010 - zurückgezogen
+- TOP 30: Schulzentrum Kamper Weg 291, Neubau einer 1-fach Sporthalle mit Räumlichkeiten für die Offene Ganztagsschule und einer Hausmeisterdientswohnung -Bau- und Finanzierungsbeschluss- - einstimmig beschlossen
+- TOP 31: Rather Waldstadion, Wilhelm-Unger-Str. 7, Neubau einer 3-fach Sporthalle - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 32: Sanierung der Feuerwache Frankfurter Str. 245, 1. Bauabschnitt - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 33: Sanierung Hochwasserschutzdeich Kaiserswerth - Bau-und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 34: Friedhof Stoffeln Erweiterung der Kühlzelle im Krematorium - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 35: Erneuerung der Ufermauer an der Itter in Benrath - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 36: Deutsche Oper am Rhein, 2. Bauabschnitt - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 37: GGS Am Mergelsberg 1, Neubau von Mehrzweckräumen und Räumlichkeiten für die Offene Ganztagsschule - einstimmig beschlossen
+- TOP 38: EA Linke: Mergelsberg - mehrheitlich abgelehnt
+- TOP 39: GGS Walther-Rathenau-Straße 15, Erweiterungsbau für die Offene Ganztagsschule an derJugendfreizeiteinrichtung Kamper Straße 17 - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 40: Abenteuerspielplatz Eller, Heidelberger Straße 46 Ersatzneubau des Spielhauses - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 41: Änderung der Taxentarifordnung - einstimmig beschlossen
+- TOP 42: EA SPD Taxentarif - mehrheitlich abgelehnt
+- TOP 43: Kreuzungsumbau Völklinger Straße / Fährstraße - BuF - einstimmig beschlossen
+- TOP 44: Kreuzungsumbau Völklinger Straße / Plockstraße - einstimmig beschlossen
+- TOP 45: Wahlprüfungsausschuss - einstimmig beschlossen
+- TOP 46: Umbesetzungen - zur Kenntnis genommen
+- TOP 47: Umbesetzung Ausschüsse (Neufassung) - einstimmig beschlossen
+- TOP 48: Kuratorium der Stiftung "Kunstsammlung Nordrhein-Westfalen - einstimmig beschlossen
+- TOP 49: Kuratorium des NRW-Forum Kultur und Wirtschaft e.V. - einstimmig beschlossen
+- TOP 50: Gen. 60er: Regionalrat - mehrheitlich beschlossen
+- TOP 51: 60er: Regionalrat - mehrheitlich beschlossen
+- TOP 52: Entsendung von Mitgliedern in den Ausschuss des Deichverbandes "Neue Deichschau Heerdt" für die Amtszeit 01.04.2009 bis 31.03.2015 - einstimmig beschlossen
+- TOP 53: Wiederwahl der Schiedsfrau Gertrud Krug - einstimmig beschlossen
+- TOP 54: Wiederwahl des Schiedsmannes Klaus Heyer - einstimmig beschlossen
+- TOP 55: Neufassung zur Vorlage 70/8/2008 Entgeltordnung des Garten-, Friedhofs- und Forstamtes - mehrheitlich beschlossen
+- TOP 56: Namensänderung Städtisches Cecilien-Gymnasium - einstimmig beschlossen
+- TOP 57: Auflösung der Städtischen Katholischen Grundschule Färberstraße - einstimmig beschlossen
+- TOP 58: Kunstpreisträger/-in in der Landeshaupstadt Düsseldorf 2008 - einstimmig beschlossen
+- TOP 59: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 60: Veränderungssperre Vogelsanger Weg - einstimmig beschlossen
+- TOP 61: FNP-Änderung Nr. 125 - Kö-Bogen - mehrheitlich beschlossen
+- TOP 62: B-Plan Nr. 5481/036 - An der Piwipp - einstimmig beschlossen
+- TOP 63: Ersatzbestellung Zweckverband Unterb. See - einstimmig beschlossen
+- TOP 64: AR Oper - einstimmig beschlossen
+- TOP 65: AR DC - einstimmig beschlossen
+- TOP 66: AR DMT - einstimmig beschlossen
+- TOP 67: AR GEG - einstimmig beschlossen
+- TOP 68: AR IDR - einstimmig beschlossen
+- TOP 69: AR Arena - vertagt
+- TOP 70: Gremienbesetzung STadtwerke - einstimmig beschlossen
+- TOP 71: Gen. 60er: Schauspiel Gesellschaft - einstimmig beschlossen
+- TOP 72: 60er-Beschluss: Bestellung von OB Elbers zum Mitglied d. Neuen Schauspiel-Ges. mbh D`dorf - einstimmig beschlossen
+- TOP 73: AR Messe - einstimmig beschlossen
