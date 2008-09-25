@@ -37,7 +37,8 @@ Kostenverzeichnis Finanz- und Steuerverwaltung
 903.00 | Abschlussprüfung in einem anerkannten Ausbildungsberuf für Prüfungsteilnehmer/innen, die nach § 40 Abs. 2 Berufsbildungsgesetz zur Abschlussprüfung zugelassen wurden und nicht in der bremischen Verwaltung beschäftigt sind. | 35,00 Euro | 
 903.01 | Meisterprüfung für Prüfungsteilnehmer/innen, die nicht in der bremischen Verwaltung beschäftigt sind. | 40,00 Euro | 
 904 | Sonstiges |  | 
-904.00 | Mahngebühr (§ 2 Abs. 3 des Bremischen Gesetzes über die Vollstreckung von Geldforderungen im Verwaltungswege) | je Mahnung 2,50 Euro | 
+904.00 | Mahngebühr (§ 2 Abs. 3 des Bremischen Gesetzes über die Vollstreckung von Geldforderungen im Verwaltungswege) | je Mahnung 3,00 Euro | 
+904.01 | Prüfung und Testierung von Finanzberichten gemäß Artikel 38 Abs. 1 der Verordnung (EG) Nr. 1260/99 des Europäischen Parlaments und des Rates der Kommission vom 21. Juni 1999 über die Allgemeine Strukturfondsverordnung und der Durchführungs-VO (EG) Nr. 438/01 | nach Zeitaufwand | 
 91 | Steuerverwaltung |  | 
 910.00 | Abstemplung nach dem Vergnügungssteuergesetz | je Abstemplung 0,03 Euro | 
 910.01 | Steuerliche Unbedenklichkeitsbescheinigungen für die Vergabe öffentlicher Aufträge | gebührenfrei | 
