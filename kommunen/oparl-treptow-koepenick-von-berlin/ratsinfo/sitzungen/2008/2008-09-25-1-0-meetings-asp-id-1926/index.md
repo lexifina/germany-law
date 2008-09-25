@@ -1,0 +1,70 @@
+# 22. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2008-09-25T16:30:00+02:00
+- Ende: 2008-09-25T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1926
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1926
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=62123
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl einer Bürgerdeputierten - gewählt
+- TOP 8.3: Wahl einer Vertrauensperson als Beisitzerin/Beisitzer im Schöffenwahlausschuss - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Förderverein Lokale Agenda 21 e. V. (SM 864) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Seniorenverein Wuhlheide e. V. (SM 867) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Zustimmung zur Ausbauvariante für den Ausbau des Eisenhutweges im Abschnitt zwischen Stubenrauchstraße und Akeleiweg - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Genehmigung der im Haushaltsjahr 2007 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Barrierefreier Zugang "Alte Schule" Adlershof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Vernetzung Schul- und Bezirksbibliotheken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Prioritäten für Ampeln im Bezirk beachten - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Restaurierung Raum 106 im Rathaus Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Mahnung an Bücherverbrennung - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Tempo 30 am Sportplatz Segelfliegerdamm - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Haltestelle Betriebshof Köpenick stadteinwärts - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Radverkehrsabstellanlagen am S-Bahnhof Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Tag der Offenen Tür beim Ordnungsamt - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Straßenbenennung - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Verkehrssicherheit am Treptower Park erhöhen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Sicheres Geradeausfahren - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Weltkulturerbe Gartenstadt Falkenberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Qualitätsmaximierung der Bezirksfeste - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XVI-14 ("Forum Köpenick") hier: Reduzierung des Geltungsbereiches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Vorhabenbezogener Bebauungsplan 9-44 VE ("Wuhlepassage") hier: Einleitungsbeschluss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.3: Bebauungsplan 9-12 („östliche Schnellerstraße“) im Bezirk Treptow-Köpenick, Ortsteil Niederschöneweide hier: - Änderung des Planverfahrens, Weiterführung nach § 13a BauGB - überwiesen
+- TOP 13.4: Schaffung der Voraussetzungen für die Nutzung des Grundstückes An der Wuhlheide 250-270 für den Mellowpark - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Fußgängerquerung Gartenstadt Falkenberg - überwiesen
+- TOP 14.2: Aufnahme der Gedenkstätte "Köpenicker Blutwoche Juni 1933" in die Gedenkstättenkonzeption des Bundes - überwiesen
+- TOP 14.3: Schulhausmeister - überwiesen
+- TOP 14.4: Beschilderung der realen Verkehrssituation anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Steganlage im Frauentog - in der BVV abgelehnt
+- TOP 14.6: Entfernung alter Tourismushinweisschilder - überwiesen
+- TOP 14.7: Sichere Querungsmöglichkeit in der Richterstraße - überwiesen
+- TOP 14.8: Radverkehr im Schwalbenweg - überwiesen
+- TOP 14.9: Änderung des § 34 "Beratung" Abs. 2 der Geschäftsordnung der Bezirksverordnetenversammlung Treptow-Köpenick von Berlin vom 22. November 2007 - überwiesen
+- TOP 14.10: Straßenbenennungen im B-Plan-Gebiet XV-70 a ("Bohnsdorf West") - überwiesen
+- TOP 14.11: Seniorenzentrum - Müggelspree - überwiesen
+- TOP 14.12: Bildung eines Ausschusses Mellowpark - in der BVV zurückgezogen
+- TOP 14.13: Unterstützung des "Denkmalpflege-Verein Nahverkehr Berlin e.V." nach Brandkatastrophe in Schmöckwitz - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Lottokioske im Bezirk – Trennung der Bereiche Glückspielangebot von Süßwaren - überwiesen
+- TOP 14.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Große Anfragen - (offen)
