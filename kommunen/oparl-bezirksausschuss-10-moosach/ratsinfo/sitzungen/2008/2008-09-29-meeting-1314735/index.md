@@ -1,0 +1,93 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2008-09-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1314735
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1314735
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Zunehmender Verkehr auf dem Wintrichring
+- TOP 2.2.: Separate Unterführung für Fußgänger an der Dachauer Straße
+- TOP 2.3.: Schrottfahrzeug Dietrichstraße - <div>Lt. Polizei ist das KVR zuständig; das Motorrad wird entfernt</div>
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Benefizprojekte
+- TOP 3.2.: Namenslesung zum 70. Jahrestag der sog. "Reichskristallnacht"
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Dachauer Str. 334 a
+- TOP 3.2.: Gehwegparken Werner-Friedmann-Bogen / Riesstraße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Informationsveranstaltung Baumschutz
+- TOP 3.2.: Wahl der Seniorenvertretung 2009
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Verkehrsuntersuchung Brieger Straße und Vorstellung des Verkehrskonzeptes - <div>nach Antrag</div>
+- TOP 4.2.: Anbringung von Mülleimern mit Aschenbechern an den Abgängen zu den U-Bahnhöfen - <div>nach Antrag</div>
+- TOP 4.3.: Ersatz der offenen Mülleimer durch abgedeckte Modelle
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Reinigung Gehweg Netzerstraße durch die Grundstrückseigentümer
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.1.: Solarenergie auf Dachflächen der Betriebszentrale Schragenhofstraße - <div>zurückgezogen </div>
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: Parklizenzbereich Borstei; Festlegung der Ladezonen und Standorte der Beschilderung
+- TOP 5.2.: Zuschuss aus dem Budget des BA 10; Verein für Soziale Aufgaben München Moosach: Erstellung eines Spielplatzes mit Geräten
+- TOP 5.3.: Zuschuss aus dem Budget des BA 10; Initiative "Art Temple": Ausstellung
+- TOP 5.4.: Zuschuss aus dem Budget des BA 10; AG Buhlstraße e.V.: Sommerferienprogramm
+- TOP 5.5.: Zuschuss aus dem Budget des BA 10; Wohnforum München Lauinger 23: Sommerfest
+- TOP 5.6.: Zuschuss aus dem Budget des BA 10; The Tent: Basketballkorb inkl. Fundament
+- TOP 5.7.: Sondernutzungserlaubnis Franz-Marc-Str. 4
+- TOP 6.: Anhörungen
+- TOP 6.1.: Nachqualifizierung und Revision der Denkmalliste
+- TOP 6.2.: Perspektive München; Fortschreibung des Zentrenkonzeptes
+- TOP 6.3.: Vollzug der Baumschutzverordnung: Pelkovenstraße 85 - 89
+- TOP 6.4.: Bebauungsplan mit Grünordnung 1616 b Brieger Straße (östlich), Kleingartenanlage (südöstlich), Leipheimer Weg (nördlich)
+- TOP 6.5.: Namenserläuterungen an Straßenschildern
+- TOP 6.6.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München
+- TOP 6.7.: Erstmalige Erstellung der Straßen um den Uptown München
+- TOP 6.8.: Beteiligung der Bezirksausschüsse bei Baumfällungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Denkmalgeschütztes Gebäude Pelkovenstr. 86 (Sanierung wurde zugesagt)
+- TOP 7.2.: Aufstellung von Fahrradständern Ecke Hanauer Straße / Pelkovenstraße vor der Apotheke (werden aufgestellt)
+- TOP 7.3.: Serviceverbesserung an den Münchner Wertstoffhöfen (Einstellung von MAW-Beschäftigten nicht möglich)
+- TOP 7.4.: Rad-/Fußweg Kapuzinerhölzl - In den Kirschen (Verkehrssicherne Maßnahmen sind nicht erforderlich)
+- TOP 7.5.: Rasengleise für die Tramtrasse zwischen Hugo-Troendle- und Pelkovenstraße (nicht möglich)
+- TOP 7.6.: Fuß- / Radwegverbindung über die Triebstraße (kein neuer Sachstand)
+- TOP 7.7.: Gehsteigparken im Bereich der Plauener Straße (auf der Westseite wird ein absolutes Halteverbot angeordnet)
+- TOP 7.8.: Planungsstand Wiederherstellung und Neugestaltung Memminger Platz
+- TOP 7.9.: Aufstellung eines Verkehrsschildes "Vorsicht spielende Kinder" in der Eggmühler Straße auf Höhe der Haylerstraße (abgelehnt)
+- TOP 7.10.: Spielplatz Eggmühler Straße Ecke Haylerstraße (keine Einzäunung erforderlich)
+- TOP 7.11.: Ausbau der Eggmühler Straße (weder kurz- noch mittelfristig vorgesehen)
+- TOP 7.12.: Leistungsprogramm der MVG für die Fahrplanperiode 2009 (Antworten auf die Forderungen des BA 10)
+- TOP 7.13.: Fuß- und Radweg Moosacher Bahnhof - Hartmannshofen (Vertragsverhandlungen über Dienstbarkeit laufen)
+- TOP 7.14.: Selfstorage-Anlage Dachauer Straße (Einwände des BA wurden geprüft)
+- TOP 7.15.: Erweiterung der Skateanlage Triebstraße / Bingener Straße (Realisierung voraussichtlich 2009)
+- TOP 7.16.: Bushaltestelle Ehrenbreitsteiner Straße (Wetterschutz ist aus Platzgründen nicht möglich, Drahtsitzbank wird jedoch aufgestellt)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Weiterer Ausbau der Schulsozialarbeit an Grund-, Haupt- und Förderschulen; Trägerschaftsvergabe für die neuen Standorte
+- TOP 8.4.: Information über Betriebskonzept während der Schienenschleifarbeiten der U2 und U3/U6 im Abendverkehr
+- TOP 8.5.: Gleissperrung Tram vom 04.08.08 bis 15.09.08
+- TOP 8.6.: Investitionskostenförderung Kinderkrippe Bingener Str. 30
+- TOP 8.7.: Daten Kinderkrippen 01.07.2008
+- TOP 8.8.: Suchkreismeldung Mobilfunk
+- TOP 8.9.: Zweckentfremdung von Wohnraum: - Feldmochinger Str. - Günzburger Str. - Eininger Straße
+- TOP 8.10.: Errichtung einer Linksabbiegespur vor Dachauer Str. 457 für einen neu gebauten Lebensmittelmarkt
+- TOP 8.11.: Wechsel der Leitung beim Straßenunterhaltsbezirk Nord
+- TOP 8.12.: Bestellung von Beiräten im Stadtrat
+- TOP 8.13.: Initiative Europäische Metropolregion München; Sachstandsbericht
+- TOP 8.14.: Schulbushaltestelle in der Merseburger Straße: Änderung des Zeitzusatzes
+- TOP 8.15.: Absolutes Halteverbot auf einer Länge von 150 Metern in der Ehrenbreitsteiner Straße Ecke Pelkovenstraße
+- TOP 8.16.: Schulbushaltestelle Welzenbachstraße 12; Änderung des Zeitzusatzes
+- TOP 8.17.: Wohnen in München IV
+- TOP 8.18.: Wildes Plakatieren, Ansprechpartner der Stadt, Einleiten rechtlicher Schritte
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
