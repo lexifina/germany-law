@@ -1,0 +1,83 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2008-09-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1356580
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1356580
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.2.: Entscheidung über die Einrichtung / Änderung / Aufhebung eines Taxistandplatzes gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 ? Neumarkter Straße
+- TOP 2.3.: Entscheidung über die Einrichtung / Änderung / Aufhebung eines Taxistandplatzes gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 ? Kreillerstraße Aufhebung des Taxistandplatzes und Einrichtung einer Kurzparkzone
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Berg-am-Laim-Straße 117 - 123 ? Neubau eines Lagergebäudes mit Supermarkt und TG
+- TOP 3.1.1.2.: Seebrucker Straße 4, 12, 20 ? Neubau dreier Wohngebäude, einer Tiefgarage und zwei überdachten TG-Zu-/-Ausfahrtsgebäuden
+- TOP 3.1.1.3.: Thomas-Hauser-Straße 6 - 8 ? Errichtung einer Tankstelle für Biodiesel, Pflanzenöl- und Diesel-Kraftstoffe
+- TOP 3.1.1.4.: Grafinger Straße 6 ? Club Matador ? Umbau bestehender Überdachung zur Dachterrasse
+- TOP 3.1.1.5.: Hachinger-Bach-Straße ? Errichtung eines Rodelhügels in der Grünanlage
+- TOP 3.1.2.1.: Schaltzeiten von Fuß- und Radüberwegen an Schlüsselberg- und Kreillerstraße
+- TOP 3.1.2.2.: Antrag auf einseitiges absolutes Parkverbot in der Sonnwendjochstraße (3.1.2.3./08/08)
+- TOP 3.1.3.1.: Ameisenplage besonders an den Kinderspielplätzen ? Antwortschreiben des Baureferats
+- TOP 3.1.3.2.: Ameisenplage auf dem Spielplatz Fehwiesenstraße ? Bürgerschreiben
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Sicherung der finanziellen Grundlagen für die Fortführung des Modellversuchs Ganztagsschule an der Grundschule Grafinger Straße sowie an den beiden anderen Standorten in Verhandlung mit dem Freistaat Bayern ? Empfehlung Nr. 14 der Bürgerversammlung Berg am Laim vom 17.04.2008
+- TOP 3.4: Bereich Soziales
+- TOP 3.6: Sonstiges
+- TOP 3.7.3.: Loferer Straße ? Antrag auf Erteilung einer Fällgenehmigung
+- TOP 3.7.4.: Hochriesstraße ? Antrag auf Erteilung einer Fällgenehmigung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Wohnen in München IV - Erfahrungsbericht für das Jahr 2007 mit Ergänzungen
+- TOP 4.1.1.3.: Wildes Plakatieren ? Ansprechpartner der Stadt; Einleiten rechtlicher Schritte
+- TOP 4.1.2.1.: Straßenfest des Bürgerkreises Berg am Laim in der Baumkirchner Str. - Erlaubnisbescheid
+- TOP 4.1.2.2.: Gastspiel des Zirkus Roberto auf der St.-Veit-Wiese - Veranstaltungsanzeige
+- TOP 4.1.3.1.: Siegsdorfer Straße ? Beeinträchtigung durch Leuchtreklame ? Antwortschreiben RGU
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Kindertageseinrichtung Anzinger Str. 35 ? Bescheid über die Anerkennung von Plätzen
+- TOP 4.3.2.: Kindertageseinrichtung St.-Michael-Str. 77 ? Bescheid über die Anerkennung von Plätzen
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Förderkreis der Grundschule an der Grafinger Straße ? Bewilligungsbescheid
+- TOP 4.5.2.: ESV München Ost ? Bewilligungsbescheid
+- TOP 4.5.3.: Termine für BA-Sitzungen 2009
+- TOP 4.6: Sonstige
+- TOP 4.7.1.: Fällungsentscheidung entgegen der BA-Empfehlung: Mutschellestraße
+- TOP 4.7.2.: Baumfällungen Schlüsselbergstraße / Berg-am-Laim-Straße
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 5.3.1.: Ermöglichung des Linksabbiegens von der Oedkarspitzstraße zur Bad-Schachener-Straße- Empfehlung Nr. 15 der Bürgerversammlung Berg am Laim vom 17.04.2008
+- TOP 3.7.2.: St.-Veit-Straße ? Antrag auf Erteilung einer Fällgenehmigung
+- TOP 3.7.6.: Hachinger-Bach-Straße ? Antrag auf Erteilung einer Fällgenehmigung
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
