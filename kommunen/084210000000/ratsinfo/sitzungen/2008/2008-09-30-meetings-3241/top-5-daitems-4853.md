@@ -1,0 +1,8 @@
+# TOP 5: Anerkennung des Vereins Familienplanung e.V. mit der Beratungsstelle für Schwangerschaftsfragen und Familienplanung als Träger der freien Jugendhilfe
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2008-09-30)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/4853
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/544
