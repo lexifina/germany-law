@@ -1,0 +1,1 @@
+Auf Grund des Art. 33 Abs. 2 des Bayerischen Wassergesetzes (BayWG) in der Fassung der Bekanntmachung vom 19. Juli 1994 (GVBl S. 822, BayRS 753-1-U), zuletzt geändert durch § 6 des Gesetzes vom 27. Dezember 1999 (GVBl S. 532), erlässt das Bayerische Staatsministerium für Landesentwicklung und Umweltfragen folgende Verordnung:
