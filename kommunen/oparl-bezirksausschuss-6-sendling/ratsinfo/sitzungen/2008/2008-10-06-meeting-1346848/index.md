@@ -1,0 +1,52 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2008-10-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1346848
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1346848
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Fortführung des Bewohnertreffs 1 auf der Theresienhöhe Süd mit sozialpäd. Fachkraft; Erweiterung der Planstelle auf eine ganze SozialpädagogInnen-Stelle - <div>Kenntnis genommen</div>
+- TOP 3.2.: Mieterbeirat der Landeshauptstadt München
+- TOP 4.: Schulreferat
+- TOP 4.1.: Klassenbildung an der Grundschule an der Implerstraße
+- TOP 5.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 5.2.: Freischankfläche Plinganserstraße 9
+- TOP 6.1.: Neue Richtlinien für Sondernutzungen auf den öffentlichen Straßen der Landeshauptstadt München
+- TOP 6.2.: Zustand und Sauberkeit der Radwege;Verkehrsgefährdung an der Eisenbahnunterführung Lindwurmstraße BV-Empfehlung Nr. 826 vom 12.07.2007
+- TOP 6.3.: 30 km/h-Geschwindigkeitsbeschränkung in Höhe der Grundschule Pfeuferstr. 1
+- TOP 6.4.: Personenbezogener Behindertenparkplatz in der Implerstr. 67b
+- TOP 6.5.: Fahrradabstellanlagen abseits von U-Bahnhof-Aufgängen
+- TOP 6.6.: Meldeliste Bauvorhaben SWM
+- TOP 7.1.: Anhörungsrecht für Bezirksausschüsse bei Dreharbeiten und Baugenehmigungen
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Nachqualifizierung und Revision der Denkmalliste in München
+- TOP 8.3.: Bauvorhaben Sozialbürgerhaus Meindlstraße 16
+- TOP 8.4.: Bauvorhaben Oberländerstr. 16
+- TOP 8.5.: Wildes Plakatieren
+- TOP 8.6.: Wohnen in München
+- TOP 9.: Baureferat
+- TOP 9.1.: Wiederherstellung der Baumgräben in der Alram- und Aberlestraße - <div>Zustimmend zur Kenntnis genommen </div>
+- TOP 9.2.: Sauberkeit der Wackersbergerstraße; Aufstellung von weiteren Abfallkörben - <div>Zustimmend zur Kenntnis genommen </div>
+- TOP 9.3.: Straßenbaumaßnahmen Greiner Berg
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Verbot von Coffee to go in Landschaftsschutzgebieten; Gaststätte Schinderstadl, Isarauen - <div>Zustimmend zur Kenntnis genommen</div>
+- TOP 10.2.: Baumfällung Karwendelstr. 11 - 17a;
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Gedenkveranstaltung zum 9ten November
+- TOP 13.2.: Mehrjahresinvestitionsprogramm 2009 - 2013
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
