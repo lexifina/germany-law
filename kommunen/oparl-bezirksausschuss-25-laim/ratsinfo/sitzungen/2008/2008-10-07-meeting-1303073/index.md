@@ -1,0 +1,57 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2008-10-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1303073
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1303073
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Verkehrskontrolle mit Polizei und Kindern zur Sensibilisierung der Autofahrer im Bezirksgebiet
+- TOP 2.2.: SPD-Fraktion: Errichtung einer größeren Einrichtung zur Kinderbetreuung auf dem Gelände Siglstr. 19 und 21
+- TOP 2.3.: Bündnis 90 / Die Grünen: Städtische Grundstücke / Liegenschaften in Laim
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Stadtkämmerei vom 12.09.08: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2009-2013; Anhörungsverfahren
+- TOP 4.2.: Schreiben Direktorium vom 15.09.08: Anhörungsrecht für Bezirksausschüsse bei Dreharbeiten und Baugenehmigungen
+- TOP 4.3.: Schreiben Planungsreferat vom 24.09.08: Bebauungsplan mit Grünordnung Nr. 2027 Zschokkestraße (südlich) zwischen Westend- und Hans-Thonauer-Straße (Straßenbahnbetriebshof)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Joergstr. 6: Neubau eines Mehrfamilienhauses mit Tiefgarage; hier: Baumfällungen
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung des UA Soziales, Schule, Sport vom 21.07.08
+- TOP 7.2.: BA-Sitzung vom 16.09.08
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Baureferat vom 08.09.08: Gehweg am Laimer Würfel (Schreiben BA vom 16.07.08)
+- TOP 8.2.: Schreiben Baureferat vom 10.09.08: Projekt Pronnerplatz (Bushaltestelle)
+- TOP 8.3.: Schreiben Baureferat vom 15.09.08: Neuprofilierung der Agnes-Bernauer-Straße zwischen Fürstenrieder Straße und Riegerhofweg
+- TOP 8.4.: Schreiben KVR vom 20.02.08: Westendstraße / Ecke Barmerstraße; Maßnahme gegen die Verparkung des Einmündungsbereichs
+- TOP 8.5.: Schreiben Schulreferat vom 15.09.08: Personalnotstand im Städtischen Kinderhort an der Camerloherstraße 108 (Antrag Nr. 08-14 / B 00289 vom 29.07.08)
+- TOP 8.6.: Schreiben Direktorium vom 16.09.08: Bewilligung einer Zuwendung aus dem BA-Budget; Antragsteller: Le Nuove Musiche e.V.
+- TOP 8.7.: Schreiben Direktorium vom 16.09.08: Bewilligung einer Zuwendung aus dem BA-Budget; Antragsteller: Münchner Stadtbibliothek Laim
+- TOP 8.8.: Schreiben Planungsreferat vom 28.08.08: Fürstenrieder Str. 27; Errichtung einer Plakattafel
+- TOP 8.9.: Schreiben Planungsreferat vom 22.09.08: Laimer Platz, Errichtung einer Werbeanlage (1 Informationssäule)
+- TOP 8.10.: Bautenliste vom 08.09.-14.09.08 1. Erstantragsverfahren a) Gutzkowstr. 13 b) Friedenheimer Str. 2 c) Geßlerstr. 5 2. Änderungsverfahren a) Agricolastr. 94 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Riegerhofstr. 20
+- TOP 8.11.: Bautenliste vom 15.09.-21.09.08 1. Erstantragsverfahren a) Agricolastr. 57 b) Stöberlstr. 88 c) Stöberlstr. 87 d) Landsberger Str. 185 e) Riegerhofstr. 20 f) Schrobenhausener Str. 15 g) Elsenheimerstr. 61
+- TOP 8.12.: Schreiben Planungsreferat vom 08.09.08: Liste der beantragten Baumfällungen vom 01.09.-07.09.08
+- TOP 8.13.: Schreiben Planungsreferat vom 22.09.08: Liste der beantragten Baumfällungen vom 15.09.-21.09.08
+- TOP 8.14.: Schreiben Stadtwerke München GmbH vom 08.09.08: Baumaßnahmen der Stadtwerke; Stichtag: 08.09.08
+- TOP 8.15.: Schreiben Stadtwerke München GmbH vom 15.09.08: Baumaßnahmen der Stadtwerke; Stichtag: 15.09.08
+- TOP 8.16.: Schreiben Stadtwerke München GmbH vom 22.09.08: Baumaßnahmen der Stadtwerke München; Stichtag: 22.09.08
+- TOP 8.17.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.08: Wildes Plakatieren - Ansprechpartner der Stadt; Einleiten rechtlicher Schritte (Sitzungsvorlagen Nr. 02-08 / V 00872)
+- TOP 8.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.08: Wohnen in München IV; A) Erfahrungsbericht für das Jahr 2007 mit Ergänzungen (Bekanntgabe), B) Beschlussteil: 1. Belegrechtsprogramm - Förderrichtlinien, 2. Kinderkomponent beim KomProA, 3. Mischfinanzierung KomPro A / EOF, 4. Verlängerung der Bindungsdauer (München Modell - Eigentum, SoBoN-Eigentum), 5. Anwendung der Wohnraumförderungsbestimmungen für das München Modell - Eigentum, 6. Stellplatzschlüssel für Vorhaben im geförderten Wohnungsbau (Sitzungsvorlagen Nr. 08-14 / V 00877)
+- TOP 8.19.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.08: Aufgabe des Vorhabens Magnetschwebebahn München-Hauptbahnhof-Flughafen (MSB); Untersuchung zur künftigen Flughafenanbindung (Sitzungsvorlagen Nr. 08-14 / V 00890)
+- TOP 8.20.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.08: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2008- 30.06.2008 (Sitzungsvorlagen Nr. 08-14 / V 00957)
+- TOP 8.21.: Beschluss des Bauausschusses vom 30.09.08: Bessere Kennzeichung der Automaten in den jeweiligen Parklizenzgebieten (Sitzungsvorlagen Nr. 08-14 / V 00871)
+- TOP 8.22.: Bekanntgabe in der Sitzung des Bauausschusses vom 30.09.08: Ausbau des Mittleren Rings ( B 2 R) - Südwest - Luise-Kiesselbach-Platz (Sitzungsvorlagen Nr. 08-14 / V 00827)
+- TOP 8.23.: Schreiben Maibaumfreunde e.V. vom 29.08.08: Dank für die Unterstützung zum Fest am 01.05.08; Sachbericht
+- TOP 8.24.: Schreiben Bayerischer Landesdenkmalrat vom 11.09.08: Nachqualifizierung und Revision der Denkmalliste in München - Beteiligung des Landesdenkmalrates
+- TOP 8.25.: Schriftverkehr aus der BA-Sitzung vom 16.09.08
+- TOP 1.2: Bürgerpost an den BA
