@@ -1,0 +1,56 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2008-10-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1296946
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1296946
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der Anwesendheit
+- TOP 1.4.: Feststellung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 09.09.08 und 17.09.08
+- TOP 2: Anträge
+- TOP 2.1.: Kinderkrippe St. Gabriel, Wolftratshauser Str. 350,
+- TOP 2.2.: Lärmschutz A 95
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Deutsche Schäferhunde Verein
+- TOP 3.2.: Bestandsverpflanzung
+- TOP 3.3.: Fürstenrieder Konzerte
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Mülleimer Kanalbrücke
+- TOP 4.2.: Rauchimmissionen
+- TOP 4.3.: Sonderflughafen Oberpfaffenhofen
+- TOP 4.4.: Baumschutzliste
+- TOP 4.5.: Bericht aus dem Umweltausschuss
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Bessere Kennzeichnung der Automaten in Parklizenzgebieten
+- TOP 5.2.: Münsinger Str. ? Geschwindigkeitsüberschreitungen
+- TOP 5.3.: Lichtzeichenanlage Kistlerhofstr. / Meglinger Str.
+- TOP 5.4.: Seumestraße ; Mißbrauch von Straßen-/Parkraum
+- TOP 5.5.: Sohnkestraße; Gehwegparken
+- TOP 5.6.: Basler- Züricher Str. Halteverbot
+- TOP 5.7.: Kistlerhofstr / Leutstettener Str.
+- TOP 5.8.: Sollner Straße / Gehwegparken
+- TOP 5.9.: Thalkirchner Bahnhof / Buslinie 135
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Kita St. Joachim
+- TOP 7.2.: Kindergarten ABU Baierbrunner Straße
+- TOP 7.3.: Mittagsbetreuung in der Bernerschule
+- TOP 7.4.: MIP 2009-2013 des Sozialreferates
+- TOP 8: Entscheidungen
+- TOP 8.1.: Freischankfläche Aidenbachstraße
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: BA-Satzungsänderungen
+- TOP 9.2.: Zweckentfremdung Stäblistraße 17
+- TOP 10: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
