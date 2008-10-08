@@ -1,0 +1,111 @@
+# 23. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2008-10-08T17:05:00+02:00
+- Ende: 2008-10-08T22:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1798
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1798
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=39418
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - in der BVV abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - in der BVV abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Kooperationsverträge von Schulen und Sportvereinen mit der Polizei - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.2: Feuerwehren im Bezirk Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 5.3: Ringbuslinie in Konradshöhe und Heiligensee einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Anzahl der polizeilichen Präventionsbeauftragten nicht reduzieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Aufklärung und Schutz - Kondomautomaten in Reinickendorfer Oberschulen und Jugendfreizeiteinrichtungen - vertagt
+- TOP 5.6: Entwurf des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2008 und 2009 (Doppelhaushalt) - vertagt
+- TOP 5.7: Ortsteil Tegel mit dem Fernbahnhof Spandau besser verbinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Stunden für individuellen Förderbedarf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.9: Alkoholverbot auf Spielplätzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.10: Mehr Schulstationen - überwiesen
+- TOP 5.11: MAE für Sportvereine zulassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.12: Nachbarschaftshilfe Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.13: Stärkung des Kinderschutzes I: Verpflichtende Vorsorgeuntersuchungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.14: Ausstellung "DIE BRAUNE FALLE" in Reinickendorf zeigen - überwiesen
+- TOP 5.15: Umzug des Polizeiabschnittes 11 zum Abschnitt 14 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.16: Lesepatenschaften an Reinickendorfer Grundschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.17: Aufklärung über die Aktenmanipulationen bei den Spendenakten im Bereich Senftleben - überwiesen
+- TOP 5.18: Fahrbahnmarkierungen auf der Frohnauer Straße - überwiesen
+- TOP 5.19: Jahresbericht des Patientenfürspreches im Krankenhaus für den Maßregelvollzug in Reinickendorf für den Zeitraum 2006 bis 2007 - überwiesen
+- TOP 5.20: Personelle Nachbesetzung der Trägervertretung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Verleihung des Umweltpreises in Reinickendorf - vertagt
+- TOP 6.2: Spielstätten - jedes Jahr ein neues Konzept? - vertagt
+- TOP 6.3: Borsighafen in Tegel eine Erfolgsgeschichte - Arbeitsplätze für viele Reinickendorfer Arbeitnehmer - vertagt
+- TOP 6.4: Jahresergebnis des Kita-Eigenbetriebes - vertagt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bezirkshaushaltsrechnung Reinickendorf für das Haushaltsjahr 2007 - überwiesen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 8.1: Mehr Sicherheit in den Abendstunden in Alt-Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Kein Radfahren auf den Fußwegen in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Radfahrverkehr Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 8.4: Barrierefreier Zugang der Gustav-Dreyer-Schule - vertagt
+- TOP 8.5: Bewegungsangebote auf Schulhöfen - erledigt
+- TOP 8.6: Warnstreik Aufruf durch Personalratsmitlglieder - erledigt
+- TOP 8.7: Trinkwasserspender an Schulen - erledigt
+- TOP 8.8: Altenhilfeplanung Reinickendorf - Konzeption für die zukünftige Altenhilfe im Bezirk Berlin-Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.9: Umsetzung der Anträge der Reinickendorfer Gesundheitskonferenz zum Schuljahr 2008/2009 - ohne Änderungen in der BVV beschlossen
+- TOP 8.10: Einzelhandel in der Heinsestraße schützen - ohne Änderungen in der BVV beschlossen
+- TOP 8.11: Veranstaltungen in der Stadtbibliothek im Fontanehaus - ohne Änderungen in der BVV beschlossen
+- TOP 8.12: Französisch an Grundschulen - ohne Änderungen in der BVV beschlossen
+- TOP 8.13: Integrationspreis der BVV-Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.14: Schulhelfer - ohne Änderungen in der BVV beschlossen
+- TOP 8.15: Detaillierte Erfassung von Unterrichtsausfall an den Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 8.16: Ganztagsschulprogramm fortsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 8.17: Förderung von Zivilcourage - vertagt
+- TOP 8.18: Schulgebäude - in der BVV abgelehnt
+- TOP 8.19: Bereitschaftsdienste der Schulhausmeister langfristig sichern - ohne Änderungen in der BVV beschlossen
+- TOP 8.20: Förderung der Graphothek - erledigt
+- TOP 8.21: Geschichtsbewusstsein in Reinickendorfer Schulen fördern - Veranstaltungen der BStU in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.22: Aktion "Kinder lernen helfen" - ohne Änderungen in der BVV beschlossen
+- TOP 8.23: Mehr grundständige Gymnasien in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.24: Richtlinien zur Korruptionsbekämpfung umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 8.25: Öffentliche Spielfläche im Bereich Tegeler Hafen/Humboldt-Bibliothek - erledigt
+- TOP 8.26: 100 Jahre Frohnau! - erledigt
+- TOP 8.27: Förderung der Graphothek - ohne Änderungen in der BVV beschlossen
+- TOP 8.28: Förderung der Graphothek - ohne Änderungen in der BVV beschlossen
+- TOP 9: Anträge - (offen)
+- TOP 9.1: BVV-Strukturen für QM-Prozesse schaffen - erledigt
+- TOP 9.1.1: BVV-Strukturen für QM-Prozesse schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Ersuchen - (offen)
+- TOP 10.1: Pflege-Patenschaften für Stolpersteine - überwiesen
+- TOP 10.2: VHS-Kurse - überwiesen
+- TOP 10.3: Höhenbegrenzer an der Brücke Klemkestraße einsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Partizipationsprojekte für Kinder und Jugendliche - überwiesen
+- TOP 10.5: Vorhandene Mittel für Schulstationen verwenden! - vertagt
+- TOP 10.6: Gesundheitliche Vorsorge bei Ausländern und MigrantInnen - überwiesen
+- TOP 10.7: Pflegestützpunkt für Reinickendorf - vertagt
+- TOP 10.8: Sprachtest bei Kindern, die keine Kita besuchen (Nicht-Kita Kinder) - vertagt
+- TOP 10.9: Broschüre: EU erlebbar machen - vertagt
+- TOP 11: Empfehlungen - (offen)
+- TOP 11.1: Schulhelfer für schwerbehinderte und autistische Kinder - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Hinweisschild an der Mark-Twain-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Schulhelfer - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Mehr Sicherheit für die Fußgänger im Bereich Provinzstraße - vertagt
+- TOP 11.5: Mehr Verkehrssicherheit am Ludolfinger Platz in Frohnau - überwiesen
+- TOP 11.6: Ausbau des Netzwerks Kinderschutz - überwiesen
+- TOP 11.7: Sichere Fußgängerführung am Zeltinger Platz in Frohnau - überwiesen
+- TOP 12: Führt die Umweltzone zu mehr Belastung in Reinickendorf? - beantwortet
+- TOP 13: Großveranstaltungen in Reinickendorf - Pleiten, Pech und Pannen - beantwortet
+- TOP 14: Tempo 30 auf der "Roten Chaussee" im Forst Tegel - in der BVV abgelehnt
+- TOP 15: Jugendfreizeiteinrichtung Ameisenburg - ohne Änderungen in der BVV beschlossen
+- TOP 15.1: Suchtpräventive Maßnahmen für Kinder und Jugendliche - überwiesen
+- TOP 16: Radverkehr Tegel: Lösungsvorschlag Nr. 5 Einzelhandelsfreundliche Umgestaltung der Berliner Straße - vertagt
+- TOP 17: Unterstützung des Volksbegehrens "Kitakinder und Bildung von Anfang an = ein Gewinn für Berlin" - vertagt
+- TOP 18: Fahrradbeauftragter - vertagt
+- TOP 19: Kostenübernahme bei Heimpflege - vertagt
+- TOP 20: Mehrzweckstreifen Oranienburger Straße - vertagt
+- TOP 21: Leichtathletik-Weltmeisterschaft und Partnerschaft - überwiesen
+- TOP 22: Klimaschutz-Spende am Parkautomat - überwiesen
+- TOP 23: Öffnung der Ruppiner Chaussee bei Umleitung - ohne Änderungen in der BVV beschlossen
+- TOP 24: Drucksache 0427/XVIII und Drucksache 0370/XVIII aufheben - zurückgezogen
