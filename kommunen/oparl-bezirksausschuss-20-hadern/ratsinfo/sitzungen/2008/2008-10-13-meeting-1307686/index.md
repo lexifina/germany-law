@@ -1,0 +1,87 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2008-10-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1307686
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1307686
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Anregung zur Stauvermeidung in der Waldwiesenstr.
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Soziales
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag des Stüps, schule-beruf e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 505,- ? (Direktorium, 29.08.08)
+- TOP 5.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des OB, Lorettoplatz 2 (Kreisverwaltungsreferat, 22.09.08)
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des OB, Lorettoplatz 5 - 6 (Kreisverwaltungsreferat, 22.09.08)
+- TOP 6.: Anhörungsfälle
+- TOP 6.1.: Erinnerungsverfahren Großhaderner Str. 34, Kindergarten (Baureferat, 11.09.08)
+- TOP 6.2.: Erinnerungsverfahren Lorettoplatz 7 (Baureferat, 11.09.08)
+- TOP 6.3.: Errichtung einer Werbeanlage, Würmtalstr. 30 - 32 (Referat für Stadtplanung und Bauordnung, 18.09.08)
+- TOP 6.4.: Anhörungsrecht für Bezirksausschüsse bei Dreharbeiten und Baugenehmigungen (Direktorium, 15.09.08)
+- TOP 6.5.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2009 - 2013; Anhörungsverfahren (Stadtkämmerei, 12.09.08)
+- TOP 7.: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Konrad-Dreher-Str. 5, 1 Zierkirsche
+- TOP 7.2.: Senftenauerstr. 163, 1 Birke
+- TOP 7.3.: Am Heidebruch 13 c, 1 Kiefer und 1 Douglasie
+- TOP 7.4.: Auf der Vogelwiese 1, 1 Zeder
+- TOP 7.5.: Gräfelfinger Str. FlNr. 79/83, 2 Sand-Birken
+- TOP 7.6.: Eichenstr. 1 a, 1 Blaufichte
+- TOP 7.7.: Voglmaierstr. 8, 1 Vogelbeere
+- TOP 7.8.: Konrad-Dreher-Str. 26 - 36, 1 Ahorn
+- TOP 7.9.: Konrad-Dreher-Str. 27 - 35, 2 Scheinakazien
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Sanierung der Stockbahnen im Bereich der Baumschule, Spielplatz Senftenauerstr. / Ecke Willibaldstr. (Baureferat, 08.09.08)
+- TOP 8.2.: Information über Betriebskonzept während der Schienenschleifarbeiten der U2 und U3 / U6 im Abendverkehr (MVG, 01.09.08)
+- TOP 8.3.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Kindergartenplätzen, Neufriedenheimer Str. 79 (Schul- und Kultusreferat, 29.08.08)
+- TOP 8.4.: Unveränderte Fortführung, Cafe Aydos, Ossingerstr. 4 (Kreisverwaltungsreferat, 02.09.08)
+- TOP 8.5.: Informationsflyer "Baumaßnahmen der SWM" für den Bezirksausschuss 20 - Hadern (SWM, 12.09.08)
+- TOP 8.6.: Nachqualifizierung und Revision der Denkmalliste in München - Beteiligung des Landesdenkmalrats (Vorsitzender des Bayerischen Landesdenkmalrats, 11.09.08)
+- TOP 8.7.: Städtischer Kindergarten Saherrstr. 60 (Schul- und Kultusreferat, 24.09.08)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Verkehrsrechtliche Anordnung, Prälat-Wellenhofer-Str., neuer Standort des eingeschränkten Haltverbots (Kreisverwaltungsreferat, 08.09.08)
+- TOP 9.2.: Straßenbegleitgrün am Fahrradweg Tischlerstr. (Baureferat, 25.08.08)
+- TOP 9.3.: Mehr Sicherheit für Kinder in der S-Bahn (Referat für Arbeit und Wirtschaft, 10.09.08)
+- TOP 9.4.: Freigabe des linken Geh-/Radweges für beide Fahrtrichtungen in der Tischlerstr. zwischen Waldheim und Forst-Kasten-Allee (Kreisverwaltungsreferat, 04.09.08)
+- TOP 9.5.: Trainingsbedingungen des TSV Großhadern (Bürgermeisterin Strobl, 18.09.08)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Abschlussbericht des Haderner Bewegungskindergartens
+- TOP 11.2.: Bericht zum Workshop "Erlebnispädagogik in der Turnhalle" beim Projekt "PUSH" (Hauptschule an der Guardinistr., 16.09.08)
+- TOP 11.3.: Anträge der Caritas-Beratungsstelle für Eltern, Kinder und Jugendliche in der Sozialregion Sendling/Sendling-Westpark an das BA-Budget (Schr. BA 6 vom 10.09.08 an das Sozialreferat)
+- TOP 11.4.: Gedenkveranstaltung am 09. November
+- TOP 11.5.: Straßenführung A 96 / Ausfahrt Laim - Ammerseestr. (Schr. BA 25, 24.09.08)
+- TOP 11.6.: Haderner Christkindlmarkt 2008
+- TOP 11.7.: Wahl der 9. Münchner Seniorenvertretung - Aufruf zur Kandidatur (Sozialreferat, 29.09.08)
+- TOP 11.8.: Vortrag: 10 Jahre Bayerische Oberlandbahn am 08.11.08 um 11.00 Uhr (Pro Bahn Oberbayern, Gemeinnütziger Fahrgastverband)
+- TOP 11.9.: Informationsveranstaltung des KVR für die Bezirksausschüsse; Übertragung von Entscheidungsrechten des Oberbürgermeisters; Rechts- und Entscheidungsgrundlagen bei Sondernutzungen Termin: 05.11.08 um 18.00 Uhr im KVR (Direktorium, 07.10.08)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008: Wildes Plakatieren Ansprechpartner der Stadt; Einleiten rechtlicher Schritte
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2007 mit Ergänzungen (Bekanntgabe) B) Beschlussteil 1. Belegrechtsprogramm - Förderrichtlinien 2. Kinderkomponente beim KomPro A 3. Mischfinanzierung KomPro A/EOF, insbesondere zur Krokusstr. / IBS Stark mit 12 WE (Anlage 1) 4. Verlängerung der Bindungsdauer (München Modell - Eigentum, SoBoN-Eigentum) 5. Anwendung der Wohnraumförderungsbestimmungen für das München Modell - Eigentum 6. Stellplatzschlüssel für Vorhaben im geförderten Wohnungsbau
+- TOP 12.3.: Beschluss des Bauausschusses vom 30.09.2008: Bessere Kennzeichnung der Automaten in den jeweiligen Parklizenzgebieten
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.10.2008: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Sachstand Konsolidierung 2008 - Feinkonzept 2009 - Grobkonzept 2010 - 2011
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Untersuchungen zur zukünftigen Flughafenanbindung
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Schul- und Sportausschusses in der gemeinsamen Sitzung am 23.09.2008: Weiterer Ausbau der Schulsozialarbeit an Grund-, Haupt- und Förderschulen, Trägerschaftsvergabe für die neuen Standorte, Verwendung von Restmitteln und Umwidmung von Finanzmitteln im Bereich Schulsozialarbeit
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.08: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2008 - 30.06.2008
+- TOP 12.2.: Bekanntgabe in der Sitzung des Bauausschusses vom 30.09.2008: Ausbau des Mittleren Ringes (B 2 R)-Südwest - Luise-Kiesselbach-Platz - im 7. Stadtbezirk Sendling-Westpark, Sachstandsbericht zur Öffentlichkeitsarbeit
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
