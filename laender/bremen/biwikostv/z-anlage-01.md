@@ -52,6 +52,13 @@ Kostenverzeichnis der Bildungs- und Wissenschaftsverwaltung:
 203.08 | Bescheinigung zur Erlangung der Umsatzsteuerfreiheit gem. § 4 Nr. 21 lit. b) des Umsatzsteuergesetzes | 101,00 Euro bis 412,00 Euro | 
 203.09 | Bewertung eines ausländischen Bildungsnachweises | gebührenfrei | 
 203.10 | Bescheinigung zur Erlangung der Grundsteuerbefreiung gem. § 4 Nr. 5 des Gesetzes zur Reform des Grundsteuerrechts für Grundbesitz, der für Zwecke der Wissenschaft, des Unterrichts oder der Erziehung benutzt wird. | 128,00 Euro bis 191,00 Euro | 
+203.11 | Bewertung ausländischer Hochschulabschlüsse mit Ausnahme von Lehramtsabschlüssen |  | 
+ | Ausstellung der Bescheinigung für die erste Qualifikation | 100,00 | Euro
+ | Für jede weitere Qualifikation | 50,00 | Euro
+203.12 | Erneute Ausstellung einer Bescheinigung nach Ziff. 203.11 (z.B. bei Verlust) | 50,00 | Euro
+ | Hinweis zu den Ziffern 203.11 und 203.12: |  | 
+ | Gebührenbefreiung wird nicht erteilt.“ |  | 
+203.13 | Vorbeglaubigung von Urkunden zur Verwendung im Ausland zum Zwecke der Legalisation. | 15,00 | Euro
 204 | Ausbildung von Ausbildenden |  | 
 204.00 | Widerrufliche Zuerkennung der fachlichen Eignung zum Ausbilden von Auszubildenden im Handwerk (§ 22 Abs. 3 der Handwerksordnung in der Fassung des § 100 des Berufsbildungsgesetzes) | 40,00 Euro bis 107,50 Euro | 
  | Gebührenfrei bis 1.8.2008 |  | 
