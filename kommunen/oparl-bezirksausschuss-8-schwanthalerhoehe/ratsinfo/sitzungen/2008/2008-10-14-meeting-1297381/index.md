@@ -1,0 +1,59 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2008-10-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1297381
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1297381
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Standortgenehmigung für Parkscheinautomaten; verschiedene Standorte in der Landsbergerstraße
+- TOP 4.2.: Gaststätte "Camps Bay" Bergmannstraße 28; Erweiterung der Freischankfläche
+- TOP 4.3.: Warenstellage Ganghoferstr. 6 - 10
+- TOP 5: Anhörungen
+- TOP 5.1.: Anhörungsrecht für Bezirksausschüsse bei Dreharbeiten und Baugenehmigungen
+- TOP 5.2.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München
+- TOP 5.3.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2009 - 2013
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Meldelisten Bauvorhaben
+- TOP 6.1.2.: Sanierung Westendstraße 66 - Stadtbibliothek und Multikulturelles Jugendzentrum
+- TOP 6.1.3.: Nachqualifizierung und Revision der Denkmalliste in München - Beteiligung des Landesdenkmalrats
+- TOP 6.1.4.: Bahndeckel an der Theresienhöhe; Ausnahmezulassung für nächtliche Bauarbeiten
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Kinderhaus / Kinderzentrum Medienfabrik Ganghoferstr.; 32 Krippenplätze, 16 Kindergartenplätze
+- TOP 6.2.2.: Kinderkrippe Kazmairstr. 21 mit 12 Kinderkrippenplätzen; Investitionskostenförderung
+- TOP 6.2.3.: Veranstaltung auf öffentl. Verkehrsgrund; hier "Oben Ohne" am Bavariapark, Planungen für 2009
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Einführung des Parkraummanagements im Neubaugebiet Alte Messe
+- TOP 6.4.2.: Widmung des Durchgangs zwischen Kazmair- und Heimeranstr.
+- TOP 6.4.3.: "Wiesnbeschilderung" für den Max-Friedländer-Bogen
+- TOP 6.4.4.: Verschiebung mehrerer Parkscheinautomaten
+- TOP 6.4.5.: Meldeliste Bauvorhaben SWM
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 7: Erledigungen
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Bessere Kennzeichnung der Automaten in den jeweiligen Parklizenzgebieten
+- TOP 9.2.: Um- und Neugestaltung des Areals zwischen Garmischer Straße (östlich) und Ridlerstraße (südlich) Ridlerstraße 37
+- TOP 9.3.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 10: Verschiedenes
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Protokoll der Sitzung vom 09.09.2008
+- TOP 11.2.: Schriftverkehr der Sitzung vom 09.09.2008
+- TOP 11.3.: Wildes Plakatieren; Ansprechpartner der Stadt / Einleitung rechtlicher Schritte
+- TOP 11.4.: Ausweisung neuer Gewerbeflächen
+- TOP 11.5.: Beschlussvollzugskontrolle
+- TOP 11.6.: Wohnen in München
+- TOP 11.7.: Ausbau des Mittleren Rings; Sachstandsbericht
+- TOP 11.8.: Haushaltskonsolidierung
