@@ -1,0 +1,71 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2008-10-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1300876
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1300876
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: BRK Wasserwacht München Nord; Kauf eines Defibrillators (vertagt in Sitzung am 16.09.2008)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Beleuchtung für die Fußgängerunterführung an der Herbergstrasse sowie der Zuwegung von Osten/ Westen (Unterausschuss Planung, Verkehr und Umwelt des Bezirksausschusses 24)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Antrag auf Erstellung eines Stadtteilführers für den 24. Stadtbezirk im Rahmen von "Kulturgeschichtspfade" für das Jahr 2010 (Unterausschuss Kultur und Budget des Bezirksausschusses 24)
+- TOP 3.6.: Verkehrslage Lerchenstr. 14; Antrag auf Beschilderung / Einrichtung einer Tempo-30-Zone (Internationale Montessori-Schule München)
+- TOP 3.7.: Parkboller o.ä. im Edith-Stein-Weg (Frau da Costa Carballo)
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Verlegung des Fußgängerüberweges in der Dülferstraße (BA-Antrags-Nr. 02-08 / B 02752 vom 08.01.2008) (vertagt in Sitzung am 16.09.2008)
+- TOP 5.2.: Vollzug der Baumschutzverordnung: a) Joseph-Seifried-Str. 10 - 38 b) Windröschenstraße
+- TOP 5.3.: Anhörungsrecht für Bezirksausschüsse bei Dreharbeiten und Baugenehmigungen
+- TOP 5.4.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2009 - 2013; Anhörungsverfahren
+- TOP 5.5.: Weihnachtsmarkt, Grünanlage auf dem Dülferanger vom 05.-21.12.2008
+- TOP 5.6.: Rainfarnstraße: Beschränkung des Parkens auf PKW an der Einmündung Gundermannstr.
+- TOP 5.7.: Sperrung der Straße Auf den Schrederwiesen für Kraftfahrzeuge (ausgenommen Linienbusse) im Bereich der Wendeschleife
+- TOP 5.8.: Vollzug der Baumschutzverordnung: Gutmannstr. 20
+- TOP 5.9.: Anhörung im Einzelfall auf Anforderung: a) und b) Rothwiesenstraße
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Tischgruppen am Fasaneriesee (BA-Antrag Nr. 08-14 / B 00309 vom 29.07.2008)
+- TOP 6.2.: Verbesserung der Parksituation in der Reginolstraße (BA-Antrag Nr. 08-14 / B 00069 vom 03.06.2008)
+- TOP 6.3.: Straßenausbau in der Schwarzhölzlsiedlung (BA-Antrag Nr. 08-14 / B 00234 vom 01.07.2008)
+- TOP 6.4.: Frei zugängliche Sportanlage für Jugendliche in Ludwigsfeld mit Treffpunkt (BA-Antrag Nr. 08-14 / B 00200 vom 01.07.2008)
+- TOP 6.5.: Öffnung der Hainbuchenstraße für den gegenläufigen Radverkehr (BA-Antrag Nr. 02-08 / B 03036 vom 08.04.2008)
+- TOP 6.6.: Feldmochinger See; Nichtschwimmerzone und Badepontons
+- TOP 6.7.: Geschwindigkeitsüberwachung in der Ponkratzstraße zwischen Lerchenstraße und Luitfriedstraße (Anfrage aus der Bürgerversammlung des 24. Stadtbezirks am 24.06.2008)
+- TOP 6.8.: E-Mails des FC Fasanerie Nord e.V.; Antwortschreiben des Schul- und Kultusreferates
+- TOP 6.9.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; Hier: Feldmochinger Rosstag am 12.10.2008 Vorabzustimmung
+- TOP 6.10.: Vollzug des BayKiBiG; Bescheid über Anerkennung von Plätzen
+- TOP 6.11.: Nachqualifizierung und Revision der Denkmalliste in München - Beteiligung des Landesdenkmalrats
+- TOP 6.12.: Verkehrsmaßnahmen im Bereich Sandbienenweg
+- TOP 6.13.: Schleißheimer Straße (Ostseite) zw. Sandbienenweg und Goldschmiedplatz; Projekt-Nr.: 20029
+- TOP 6.14.: Mitteilung über ein Grundstücksgeschäft
+- TOP 6.15.: Verkehrsaufsichtliche Erlaubnis; Lerchenauer Str. 305
+- TOP 6.16.: Vollzug der Baumschutzverordnung: Karlsfelder Str. 262
+- TOP 6.17.: Meldelisten Baumfällungsanträge
+- TOP 6.18.: Meldelisten Bauvorhaben
+- TOP 6.19.: Meldelisten Baumaßnahmen der Stadtwerke
+- TOP 6.20.: Hilfen für suchtkranke Menschen im öffentlichem Raum Bewilligung der Förderung von zwei Streetworkprojekten ab 2009 i.H.v. ? 38.400
+- TOP 6.21.: Wildes Plakatieren Ansprechpartner der Stadt; Einleiten rechtlicher Schritte
+- TOP 6.22.: Heideflächenverein Münchner Norden e.V. Verein Dachauer Moos e.V. Erhöhung der Mitgliedsbeiträge für die Landeshauptstadt München
+- TOP 6.23.: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2007 mit Ergänzungen (Bekanntgabe) B) Beschlussteil 1. Belegrechtsprogramm - Förderrichtlinien 2. Kinderkomponente beim KomPro A 3. Mischfinanzierung KomPro A/EOF 4. Verlängerung der Bindungsdauer (München Modell - Eigentum, SoBoN-Eigentum) 5. Anwendung der Wohnraumförderungsbestimmungen für das München Modell - Eigentum 6. Stellplatzschlüssel für Vorhaben im geförderten Wohnungsbau
+- TOP 6.24.: Ausweisung neuer Gewerbeflächen Berichtsjahr 2007
+- TOP 6.25.: Bedarfslage von "Wohnungsflüchtern" Kosten- und Wirksamkeitsanalyse entsprechender Hilfeangebote Ergebnisse einer Untersuchung des Süddeutschen Instituts für empirische Sozialforschung (sine e.V.)
+- TOP 6.26.: Bessere Kennzeichnung der Automaten in den jeweiligen Parklizenzgebieten
+- TOP 6.27.: Gedenken zum 9. November
+- TOP 6.28.: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Untersuchungen zur künftigen Flughafenanbindung A. Projektbeendigung - Einstellung des Planfeststellungsverfahrens MSB B. Verbesserung der Schienenanbindung des Flughafens München C. Anträge und Empfehlung
+- TOP 6.29.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2008 - 30.06.2008
+- TOP 6.30.: Weiterer Ausbau der Schulsozialarbeit an Grund-, Haupt- und Förderschulen Trägerschaftsvergabe für die neuen Standorte Verwendung von Restmitteln und Umwidmung von Finanzmitteln im Bereich Schulsozialarbeit
+- TOP 6.31.: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Sachstand Konsolidierung 2008 - Feinkonzept 2009 - Grobkonzept 2010 - 2011
+- TOP 6.32.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching - Hasenbergl Widmungserweiterung einer Teilstrecke des "Weg - ohne eigenen Namen - nördlich der Heppstraße" - "+landwirtschaftlicher Verkehr frei"
+- TOP 7.: Berichte
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
