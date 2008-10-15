@@ -1,0 +1,105 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2008-10-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1483986
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1483986
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1.: Erschließungsmaßnahme Scharinenbach- / Wichnantstr. (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.2.: Parkplatz am S-Bahnhof Langwied (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.3.: Winterdienst in der Wertheimer Str. (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.4.: Gefahrenzone für Radfahrer in der Wichnantstr. (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungsanträge: - Altostr., gem Baumbestandspl. und Freiflächengestaltungspl. Nr. 2008-21517 - Im Stocket 9 a, 1 Silberahorn - Bodenseestr. 254 a, 1 Walnuss und 1 Birke - Bienenheimstr. 11, 1 Kastanie - Teufelsbergstr. 12, gem. Baumbestandspl. Nr. 2008-21796 - Hoheneckstr. 105, gem. Baumbestandspl. Nr. 2008-23251
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Seniorenbeirat
+- TOP 4.: Anträge
+- TOP 4.1.: Anfrage zur zukünftigen Planung auf dem Bahngelände östliche des Bahnhofs Aubing zwischen Gleis und Georg-Böhmer-Str. (vertagt aus 08/08)
+- TOP 4.2.: Verwirklichung eines Fuß- und Radweges auf der ehemaligen Gotthardtrasse im Bereich Pasing-Neuaubing-Aubing-Lochhausen-Langwied (vertagt aus 08/08)
+- TOP 4.3.: Geländer für Freitreppe im Einkaufszentrum Radolfzeller Str.
+- TOP 4.4.: Verkehrssicherungspflicht des öffentlichen Feld- und Waldweges, FlNr. 8/5 Gemarkung Aubing
+- TOP 4.5.: Absperrgitter vor dem städtischen Kindergarten Ubostr. neben dem Zebrastreifen
+- TOP 4.6.: Leinenpflicht für die städtischen Anlagen am Westkreuz
+- TOP 4.7.: Anfrage zur Ablagerung von Kies oder ähnlichem Abraum am Imkerweg
+- TOP 4.8.: Rampe am S-Bahnhof Aubing
+- TOP 4.9.: Vermessungen in Neuaubing im Bereich Wiesentfelser-, Riesenburg-, Pretzfelderstr.
+- TOP 4.10.: Erschließung des Gut Freiham
+- TOP 4.11.: Radwegverbindung zu den Böhmer Weihern und Puchheim, Radwegverlängerung Eichenauer Str.
+- TOP 4.12.: Parkplatz für die Aubinger Lohe an der Eichenauer Str.
+- TOP 4.13.: Verschmutzung des Bahnhofs Westkreuz
+- TOP 4.14.: Betreutes Wohnen in Aubing
+- TOP 4.15.: Verkehrssituation an der Einmündung Ubostr. / Rassogasse
+- TOP 5.: Entscheidungen
+- TOP 5.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes, hier: Widmung einer Teilstrecke der Mariabrunnger Str. (UA Planung,Umwelt, Bau und Verkehr)
+- TOP 5.2.: Entscheidung gem. Vollmacht des OB: Projektplanung Baugebiet Scharinenbachstr. (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 6.1.: Plätze an weiterführenden Schulen im Münchner Westen, Anhörung Schul- und Kultusreferat vom 07.10.08
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 6.1.: Gedenken zum 9. November
+- TOP 6.2.: Kinder- und Jugendhilfeausschuss und Schul- und Sportausschuss in der gemeinsamen Sitzung am 23.09.08: Weiterer Ausbau der Schulsozialarbeit an Grund-, Haupt- und Förderschulen, Trägerschaftsvergabe für die neuen Standorte, Verwendung von Restmitteln und Umwidmung von Finanzmitteln im Bereich Schulsozialarbeit
+- TOP 6.3.: Nachqualifizierung und Revision der Denkmalliste in München - Beteiligung des Landesdenkmalrats, Schr. Vorsitzender des Bayersichen Landesdenkmalrats vom 11.09.08
+- TOP 6.4.: München macht Raum für Familien, Broschüre in der Reihe "PERSPEKTIVE MÜNCHEN" - Analyse, Münchner Beitrag zum 7. Familienbericht der Bundesregierung, Schr. Planungsreferat vom 25.09.08
+- TOP 6.5.: Schul- und Sportausschuss vom 24.09.08: Nutzungsgebühr für Schulturnhallen
+- TOP 6.6.: Interkulturelles Integrationskonzept und Statistikbroschüre , Schr. Sozialreferat vom 06.08.08 (vertagt aus 08/08)
+- TOP 6.7.: Veranstaltungen / Kooperationen, Oktober 2008, Schr. Kulturreferat vom 01.10.08
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Dank des Tagesheimes an der Limesstr. für den Zuschuss für die Anschaffung von Fußball-Trikots
+- TOP 6.6.3: UA Freiham
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Bauvorhaben Wiesentfelser Str. 15, Neubau von 12 Wohneinheiten, Anhörung Planungsreferat vom 11.09.08
+- TOP 6.2.: Bauvorhaben Bodenseestr. 285, Nutzungsänderung: Groß- und Einzelhandel zu Einzelhandel + Lager, Anhörung Planungsreferat vom 11.09.08
+- TOP 6.3.: Bauvorhaben Bodenseestr. 279, Neubau eines Fachmarktes (Bodenseestr. 279, 281 + 285), Anhörung Planungsreferat vom 11.09.08
+- TOP 6.4.: Sonderflughafen Oberpfaffenhofen, Beschlussvorlage, Anhörung Planungsreferat vom 29.08.08 (vertagt aus 08/08)
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 08.08.09.-14.09.08, v. 15.09.-21.09.08, v. 22.09.-28.09.08, v. 29.09-05.10.08), Schr. Planungsreferat vom 15.09.08, 22.09.08, 29.09.08, 07.10.08
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 15.09.08, 22.09.08, 29.09.08, 06.10.08
+- TOP 6.3.: Zweifahrtrichtung für Radfahrer in der Mundesgasse, Schr. KVR vom 15.09.08
+- TOP 6.4.: Informationsflyer "Baumaßnahmen der SWM" für den Bezirksausschuss 22, Schr. SWM vom 12.09.08
+- TOP 6.5.: Ausschuss für Stadtplanung und Bauordnung vom 24.09.08: - Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Untersuchungen zur künftigen Flughafenanbindung
+- TOP 6.6.: Salzverbot auf Geh- und Radwegen, Schr. Baureferat vom 12.09.08
+- TOP 6.7.: Überprüfung der gewerblichen Nutzung öffentlichen Verkehrsraums Überlinger Weg / Mainaustraße, Schr. KVR vom 18.09.08
+- TOP 6.8.: Situation Kastelburgstr., Schr. KVR vom 09.09.08
+- TOP 6.9.: Ausschuss für Stadtplanung und Bauordnung vom 24.09.08: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2007 mit Ergänzungen B) Beschlussteil 1. Belegrechtsprogramm - Förderrichtlinien 2. Kinderkomponente beim KomPro A 3. Mischfinanzierung KomPro A/EOF 4. Verlängerung der Bindungsdauer (München Modell - Eigentum, SoBoN-Eigentum) 5. Anwendung der Wohnraumförderungsbestimmungen für das München Modell - Eigentum 6. Stellplatzschlüssel für Vorhaben im geförderten Wohnungsbau
+- TOP 6.10.: Stadteigenes Flurstück 705/6, Am Rohrdommelweg, umfassende Pflege durch das Baureferat Gartenbau im Oktober 08, Schr. Kommunalreferat vom 23.09.08
+- TOP 6.11.: Bauausschuss vom 30.09.08: Naherholungsgebiet "Langwieder Seen", Fuß- und Radwegerschließung Route 2 (Paul-Ehrlich-Weg - Müllerstadelstr.)
+- TOP 6.12.: Änderung der Straßenmarkierung Kreuzung Anton-Böck-Straße / Bodenseestraße, Schr. KVR vom 21.07.08 (vertagt aus 08/08)
+- TOP 6.13.: Bebauungsplan mit Grünordnung Nr. 1998, Bahnlinie München-Herrsching (südlich), Kravogelstr. (westlich), Stadtgrenze (nördlich), ehemaliges Gleislager (östlich) hier: Herstellung und Widmung der Papinstr., Schr. Planungsreferat vom 23.09.08
+- TOP 6.14.: Radfahrer auf dem Gehweg in der Fabrikstr. Richtung Altostr. und umgekehrt, Schr. KVR vom 29.09.08
+- TOP 6.15.: Bauausschuss vom 16.10.08: Verwendung flacherer, gerundeter Randsteine; Entschärfung bisheriger scharfer und hoher Randsteine
+- TOP 6.16.: Ausschuss für Stadtplanung und Bauordnung vom 15.10.08: Schutz der Münchner Vorgärten a) Förmliche Aufhebung des § 3 der Satzung der Landeshauptstadt München über Einfriedungen und Vorgärten (Vorgartensatzung) b) Planungsrechtliche Situation der Münchner Vorgärten c) Weiteres Vorgehen zum Schutz der Münchner Vorgärten d) Zulassung von Carports in offener Bauweise vor bestehenden Garagenzufahrten
+- TOP 6.17.: Ergebnis der ADFC-Aktion "Die 3 dringendsten Radlerwünsche an den neuen Stadtrat", Schr. ADFC vom 30.09.08
+- TOP 7.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2009 - 2013, Anhörung Stadtkämmerei vom 12.09.08
+- TOP 7.2.: Anhörungsrecht für Bezirksausschüsse bei Dreharbeiten und Baugenehmigungen, Anhörung Direktorium vom 15.09.08
+- TOP 8.1.: Wirtschafts-Info 09/2008, Schr. Referat für Arbeit und Wirtschaft vom 01.10.08
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.08: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.08 - 30.03.08
+- TOP 10.2.: Bauausschuss vom 30.09.08: Bessere Kennzeichnung der Automaten in den jeweiligen Parklizenzgebieten
+- TOP 10.3.: Ausschuss für Stadtplanung und Bauordnung vom 24.09.08: Wildes Plakatieren, Ansprechpartner der Stadt; Einleiten rechtlicher Schritte
+- TOP 10.4.: Kinder- und Jugendhilfeausschuss und Sozialausschuss in der gemeinsamen Sitzung vom 14.10.08: - Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) Sachstand Konsolidierung 2008 Feinkonzept 2009 Grobkonzept 2010 - 2011 - Haushaltsplan 2009, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale - Haushaltsplan 2009, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 10.5.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.10.2008: PERSPEKTIVE MÜNCHEN - Leitlinine, Konzepte, Programme Handlungskonzept: Herausforderungen des soziodemografischen Wandels für die Stadtentwicklung
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Einladung zum 7. Fachgespräch der Münchner Wohnungswirtschaft und zum anschließenden Passivhaus-Hearing am Dienstag, 28.10.08 im Bauzentrum München
+- TOP 11.2.: Wahl der 9. Münchner Seniorenvertretung - Aufruf zur Kandidatur, Schr. Sozialreferat vom 29.09.08
+- TOP 11.3.: Informationsveranstaltung des KVR für die Bezirksausschüsse; Übertragung von Entscheidungsrechten des Oberbürgermeisters; Rechts- und Entscheidungsgrundlagen bei Sondernutzungen Termin: 05.11.08 um 18.00 Uhr im KVR, Schr. Direktorium vom 07.10.08
+- TOP 11.4.: Vortrag: 10 Jahre Bayerische Oberlandbahn am 08.11.08 um 11.00 Uhr, Schr. Pro Bahn Oberbayern, Gemeinnütziger Fahrgastverband
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 19.11.08 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13.: Nichtöffentliche Sitzung
