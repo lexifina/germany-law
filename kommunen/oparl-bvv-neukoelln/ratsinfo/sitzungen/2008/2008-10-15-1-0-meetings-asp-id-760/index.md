@@ -1,0 +1,91 @@
+# 21. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2008-10-15T17:15:00+02:00
+- Ende: 2008-10-15T20:55:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=760
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=760
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Erhaltungsverordnung "Krugpfuhlsiedlung" - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Erhaltungsverordnung "Ortskern Rudow" - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Benennung einer Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Vorzeitige Beendigung des Mandats als Bürgerdeputierter im Ausschuss für Verkehr und Tiefbau - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.3: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.4: Vorzeitige Beendigung des Mandats als stellvertretender Bürgerdeputierter im Wirtschaftsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.5: Einzelbericht des Bezirksamtes Neukölln zum neunten Bericht über die Umsetzung des Berliner Landesgleichstellungsgesetzes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Nachwuchsmangel bei Hilfsorganisationen - beantwortet
+- TOP 9.2: Streik in Bürgerämtern - beantwortet
+- TOP 9.3: Ehemaliges Eternitgelände - beantwortet
+- TOP 9.4: "Praktisch erlebter Berufsalltag" als Unterrichtsfach an Neuköllner Schulen - beantwortet
+- TOP 9.5: Schädlingsbefall - beantwortet
+- TOP 9.6: Drogenhandel im U-Bahnhof Schönleinstraße - schriftlich beantwortet
+- TOP 9.7: Wo bleibt die Verstärkung der Feuerwache Rudow? - schriftlich beantwortet
+- TOP 9.8: Parkraumbewirtschaftung und Ausnahmeregelungen - beantwortet
+- TOP 9.9: Einbürgerungstests - beantwortet
+- TOP 9.10: Unternehmen pflegen Bäume - schriftlich beantwortet
+- TOP 9.11: Baumschutz - schriftlich beantwortet
+- TOP 9.12: Kriminalität - schriftlich beantwortet
+- TOP 9.13: Offene Ausbildungsstellen - schriftlich beantwortet
+- TOP 9.14: Lernen in altersgemischten Gruppen - schriftlich beantwortet
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Fortschreibung des Lokalen Aktionsplans des Bezirkes Neukölln "Jugend für Vielfalt, Toleranz und Demokratie gegen Rechtsextremismus, Fremdenfeindlichkeit und Antisemitismus" - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Konsequenzen aus der ELEMENT-Studie ziehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Mehr Sicherheit im Klein-Ziethener Weg - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Zufahrt zum Mercedes-Servicecenter in Rudow - beantwortet
+- TOP 11.2: Soldaten an die Rettungsfront nach Neukölln? - beantwortet
+- TOP 11.3: Wohnungsbordelle zulässig? - beantwortet
+- TOP 11.4: Frühzeitige Einschulung - beantwortet
+- TOP 11.5: Zukunft des Kindl-Geländes - beantwortet
+- TOP 12: Große Anfragen - schriftlich - erledigt
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Zufahrt zum Mercedes-Servicecenter in Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Wohnungsbordelle eindämmen - überwiesen
+- TOP 13.3: Abknickende Vorfahrt Kölner Damm Ecke Lipschitzallee - überwiesen
+- TOP 13.4: Parkraumbewirtschaftung vor dem Mutter- und Kindzentrum - überwiesen
+- TOP 13.5: Fußgängerüberweg Fulhamer Allee/Parchimer Allee - überwiesen
+- TOP 13.6: Konversion des Flugfelds Tempelhof im Team gestalten - überwiesen
+- TOP 13.7: Neue Sicherheitssysteme der BVG auch nach Neukölln - überwiesen
+- TOP 13.8: Gewalt an der Schule? Gewaltprävention an der Uni! - überwiesen
+- TOP 13.9: Fahrradleichen - überwiesen
+- TOP 13.10: Obdachlosenunterkunft - ohne Änderungen in der BVV beschlossen
+- TOP 13.11: Ehemaligen Parkplatz für Behinderte wieder einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 13.12: Amt des Migrationsbeauftragten - in der BVV abgelehnt
+- TOP 13.13: Fußgängerüberweg Buschkrugallee - überwiesen
+- TOP 13.14: Informationspflicht einfordern - mit Änderungen in der BVV beschlossen
+- TOP 13.15: Bebauung des Tempelhofer Feldes - überwiesen
+- TOP 13.16: Freiflächen öffnen - überwiesen
+- TOP 13.17: Ausstellung - ohne Änderungen in der BVV beschlossen
+- TOP 13.18: Offensive Klimaschutz für Neukölln 1 - überwiesen
+- TOP 13.19: Offensive Klimaschutz für Neukölln 2 - überwiesen
+- TOP 13.20: Zufluchtswohnungen für Männer - überwiesen
+- TOP 13.21: Offensive Klimaschutz für Neukölln 3 - überwiesen
+- TOP 13.22: Offensive Klimaschutz für Neukölln 4 - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Einführung eines Schülerregisters - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Klimaschutz auf den Stundenplan - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Friedrichsbrunner Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Zwangsarbeiterlager - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.2: Columba livia forma urbana ? die gemeine Straßentaube - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Kinder in Bedarfsgemeinschaften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Ergebnisse der Kinderkonferenz nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Kooperation zwischen Jobcenter und Jugendamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Inhabergeführte Einraumeckkneipen vom Rauchverbot ausnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Anpassung des Nichtraucherschutzes in der Gastronomie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Weitere Finanzierung erfolgreicher Programme für junge Menschen durch das Job-Center - mit Abschlussbericht zur Kenntnis genommen
