@@ -1,0 +1,90 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2008-10-15T17:00:00+02:00
+- Ende: 2008-10-15T21:47:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1290
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1290
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Schulbegleitende Sprachprogramme - beantwortet
+- TOP 3.2: Schulhausmeisterproblematik für die Musikschule Steglitz-Zehlendorf - beantwortet
+- TOP 3.3: Wird die Max-von-Laue-Oberschule aufgelöst? - beantwortet
+- TOP 3.4: IBM-Klub Berlin e.V. - beantwortet
+- TOP 3.5: Restaurierung des Hauses der Musikschule Steglitz-Zehlendorf in der Grabertstraße - beantwortet
+- TOP 3.6: Naturschutz in Steglitz-Zehlendorf - beantwortet
+- TOP 3.7: Freizeitstätte Nentershausen - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Aus der letzten BVV vertagte Drucksachen: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.1.1: B-Plan Curtiusstraße II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.2.1: Sondermittel der BVV für den DLRG Landesverband Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2007 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Bebauungsplan 6 - 13 (Karstadt / Wertheim, Schloßstraße) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.5: Anträge - erledigt
+- TOP 4.5.1: Barrierefreier Zugang zum U-Bahnhof Schloßstraße! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Schutzhüllen für biometrische Reisepässe - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Sanktionen des Jobcenters - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.3: Jugendmigrationsdienst für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.4: Finanzielle Absicherungen nach Tarifverhandlungen seitens des Senats! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.5: Einrichtung einer Sommerakademie für hochbegabte Schülerinnen und Schüler - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.6: Lebendige Schule fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.7: Weitere Unfälle vermeiden! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.8: Verkehrsberuhigung der Lausanner Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.9: Grüner Pfeil LSA Birkbusch-/Siemensstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.10: Fahrradangebotsstreifen in der Birkbuschstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.11: Verkehrsberuhigte Zone in der Lüdeckestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.12: Maßnahmen zur Verkehrsberuhigung in der Niklasstraße und der Wolzogenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Aus der letzten BVV vertagte Drucksachen: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.1.1: B-Plan Curtiusstraße III - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Ausweisung von Parkflächen im Kastanienhof an der Clayallee - überwiesen
+- TOP 5.2.2: Aktive Stadtzentren I - überwiesen
+- TOP 5.2.3: Zebrastreifen für Fußgängerüberweg in der Onkel-Tom-Straße - überwiesen
+- TOP 5.2.4: S-Bahnhof Nikolassee kundenfreundlicher gestalten - überwiesen
+- TOP 5.2.5: Schulbegleitende Sprachprogramme - überwiesen
+- TOP 5.2.6: Aktive Stadtzentren II - überwiesen
+- TOP 5.2.7: Wirtschaftliche Konsequenzen einer Null-Lösung Curtiusstraße - überwiesen
+- TOP 5.2.8: Mehr Fahrradständer im Bahnhof und überdachte Fahrradabstellplätze vor dem Bahnhof Lichterfelde-Ost - überwiesen
+- TOP 5.2.9: Verkehrssicherheit an der Kreuzung Argentinische Allee/Ecke Poßweg verbessern - überwiesen
+- TOP 5.2.10: Endlich Transparenz der bezirklichen Rücklagen - überwiesen
+- TOP 5.2.11: Lauenburger Straße als Fahrradstraße - überwiesen
+- TOP 5.2.12: Projekt "Elternlotsen" - überwiesen
+- TOP 5.2.13: "Blitz für Kids" - Kinder stoppen Raser! - überwiesen
+- TOP 5.2.14: Kreisverkehr Lindenthaler Allee / Lissabonallee - überwiesen
+- TOP 5.2.15: Ampelübergang Clayallee Höhe Scharfestraße - überwiesen
+- TOP 5.2.16: Grundständigkeit am Paulsen-Gymnasium - überwiesen
+- TOP 5.2.17: Umbau der Aula am Paulsen-Gymnasium - überwiesen
+- TOP 5.3: Ausschussanträge - erledigt
+- TOP 5.3.1: Förderklassen für minderjährige unbegleitete Flüchtlinge der EAC in Steglitz-Zehlendorf - überwiesen
+- TOP 5.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.4.1: Gedenktafel für den unbekannten Deserteur in Steglitz - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - erledigt
+- TOP 6.1: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Festtage der Demokratie - in der BVV abgelehnt
+- TOP 6.1.2: Bezirkliche Träger der Jugendberufshilfe unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1.3: Wettbewerb um familienfreundlichsten Betrieb in Steglitz-Zehlendorf initiieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Dringlichkeiten - erledigt
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Aktiver Jugendschutz in Steglitz-Zehlendorf - beantwortet
+- TOP 8.2: Bearbeitungszeiten von Wohngeldanträgen in Steglitz-Zehlendorf - beantwortet
+- TOP 8.3: Nicht-Wirtschaftsförderung in Berlin-Südwest - beantwortet
+- TOP 8.4: JobCenter Steglitz-Zehlendorf - beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Sicherung der Mittelinsel in der Onkel-Tom-Straße - vertagt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 10.1: Einführung des kommunalen Wahlrechts für legal in der Bundesrepublik Deutschland lebende Menschen aus Nicht-EU-Ländern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Zusätzliche Haltestelle der S-Bahn-Linien S2 an der Lankwitzer Brücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Schlusswort des Vorstehers - erledigt
