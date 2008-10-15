@@ -1,0 +1,56 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-10-15T15:00:00+02:00
+- Ende: 2008-10-15T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2419
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2419
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126029.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126029.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126029.pdf
+
+## Tagesordnung
+
+- TOP 1: Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschriften - zur Kenntnis genommen
+- TOP 4: Anfragen
+- TOP 5: Sachstand zum Ausbau des Stadt- und Straßenbahnnetzes in Düsseldorf Anfrage der SPD-Ratsfraktion - zur Kenntnis genommen
+- TOP 6: Karolinger Platz - zur Kenntnis genommen
+- TOP 7: Anträge
+- TOP 8: Messeumfahrung U 80 - einstimmig beschlossen
+- TOP 9: Ergänzungsantrag Messeumfahrung U 80 - einstimmig beschlossen
+- TOP 10: Veränderungen im Aufbau des Weihnachtsmarktes im Innenstadtbereich - zur Kenntnis genommen
+- TOP 11: Geschwindigkeitsregelung Rheinufertunnel - mehrheitlich beschlossen
+- TOP 12: Luftmessbericht 2007 - zur Kenntnis genommen
+- TOP 13: Planungskatalog verkehrlicher Maßnahmen
+- TOP 14: Neubau der Ortumgehung Oberbilk (1.Ausbaustufe) - einstimmig beschlossen
+- TOP 15: Ergebnisbericht zum Verkehrsversuch Niederrheinstraße/ Freiligrathplatz - zur Kenntnis genommen
+- TOP 16: Freiligrathplatz - Umbau und Leistungsfähigkeitsverbesserung - einstimmig beschlossen
+- TOP 17: Endausbau Flinger Broich zwischen Rosmarinstraße und Vennhauser Straße - einstimmig beschlossen
+- TOP 18: Brandschutz in bestehenden U-Bahnanlagen - Grundsatzbeschluss - einstimmig beschlossen
+- TOP 19: Begrünung der Gleisbereiche von Straßen- und Stadtbahnstrecken - zur Kenntnis genommen
+- TOP 20: Fernbusahnhof Worringer Straße -BuF - - einstimmig beschlossen
+- TOP 21: Umbau südliche Himmelgeister Straße - einstimmig beschlossen
+- TOP 22: Tempo 100 auf der A 59 - zur Kenntnis genommen
+- TOP 23: Fahrradwegweisung Düsseldorf Stadtbezirke 1 - 3 - zur Kenntnis genommen
+- TOP 24: Beschlusskontrolle im Ordnungs- und Verkehrsausschuss - zur Kenntnis genommen
+- TOP 25: Sitzungstermine des Ordnungs- und Verkehrsausschusses im Jahr 2009 - zur Kenntnis genommen
+- TOP 26: Haushaltsplanentwurf des Amtes für Verkehrsmanagement sowie des Ordnungsamtes für das Jahr 2009
+- TOP 27: Behindertengerechter Ausbau von Bushaltestellen
+- TOP 28: Kö-Bogen
+- TOP 29: Auflösung der OSD
+- TOP 30: Radwege schaffen
+- TOP 31: Neubau und Ausbau von vierspurigen Hauptverkehrsstraßen
+- TOP 32: Haushaltsplanentwurf 2009 - Verkehrsüberwachung
+- TOP 33: Haushaltsplanentwurf 2009 - Gewerbeangelegenheiten
+- TOP 34: Haushaltsplanentwurf 2009 - Prävention und Serviceorientierung
+- TOP 35: Haushaltsplanentwurf 2009 - Verkehrsleitpläne
+- TOP 36: Haushaltsplanentwurf 2009 - Straßen
+- TOP 37: Haushaltsplanentwurf 2009 - Bus- und Bahnanlagen
+- TOP 38: Antrag der SPD-Ratsfraktion zum Etat 2009
+- TOP 39: Erweiterung der Bewohnerparkgebiete Unterbilk und Friedrichstadt - zur Kenntnis genommen
