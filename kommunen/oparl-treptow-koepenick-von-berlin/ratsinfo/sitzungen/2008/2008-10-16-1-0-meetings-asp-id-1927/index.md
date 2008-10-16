@@ -1,0 +1,73 @@
+# 23. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2008-10-16T16:30:00+02:00
+- Ende: 2008-10-16T19:10:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1927
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1927
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=62443
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - beantwortet
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-22 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - beantwortet
+- TOP 8.1: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Jugendinitiativgruppe Les Calcatoggios (SM 861) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Verein Nachbarschaftszentrum Hessenwinkel e.V. (SM 863) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Stadtkinder kultur- und naturnah e. V. (SM 868) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Haven of Peace e. V. (SM 869) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Mügge e. V. (SM 871) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Erinnerung an die Bürgermeister und Bezirksverordnetenvorsteher - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Instandsetzung Grünanlage am S-Bahnhof Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sperrung der Mentelinstraße für Kraftfahrzeuge über 7,5 Tonnen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Behindertenparkplatz Ärztehaus Freiheit 1 - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Bebauungsplan 9-12 („östliche Schnellerstraße“) im Bezirk Treptow-Köpenick, Ortsteil Niederschöneweide hier: - Änderung des Planverfahrens, Weiterführung nach § 13a BauGB - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Entfernung alter Tourismushinweisschilder - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Fußgängerquerung Gartenstadt Falkenberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Aufnahme der Gedenkstätte "Köpenicker Blutwoche Juni 1933" in die Gedenkstättenkonzeption des Bundes - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Sichere Querungsmöglichkeit in der Richterstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Seniorenzentrum - Müggelspree - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.12: Touristisches Leitsystem an Verkehrsknotenpunkten - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Kiezbüro - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Flatrate-Partys verbieten - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Stadion Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Maßnahmenplan für Schöneweide - mit Änderungen in der BVV beschlossen
+- TOP 12.17: Genehmigung der im Haushaltsjahr 2007 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Schulhausmeister/innen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-6 VE ("Wasserturm Altglienicke") hier: - Änderung des Planverfahrens, Weiterführung nach § 13 a BauGB - überwiesen
+- TOP 13.2: Bebauungsplan XVI-6 ("Müggelheimer Damm") hier: - Änderungsbeschluss - überwiesen
+- TOP 13.3: Baumbeisetzungen Friedhof Baumschulenweg Abteilung: H 5 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Einstellung der Zusammenarbeit mit der GBM (BVV-Beschluss Nr. 442/20/08 vom 26.06.2008) - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Zukunft des Treptower Parks - Maßnahmenkonzept - überwiesen
+- TOP 14.2: Beteiligung an der Initiative "Ort der Vielfalt" - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Dokumentationstafel Waldstraße - überwiesen
+- TOP 14.4: Abgabe von bezirkseigenen Grundstücken - überwiesen
+- TOP 14.5: Restaurierung des Ratssaales im Rathaus Köpenick - in der BVV abgelehnt
+- TOP 14.6: Zukunft des Treptower Parks – Öffentlichkeit informieren - überwiesen
+- TOP 14.7: Treptow-Köpenick nicht von der Stadtbahn abschneiden - überwiesen
+- TOP 14.8: Befestigung der Vorwegweiser im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Zugang zum Luisenhain - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Zeitweise Öffnung der Straße Alt-Köpenick für den Durchgangsverkehr - in der BVV abgelehnt
+- TOP 14.11: Zukunft des Treptower Parks – Sportliche Nutzung - überwiesen
+- TOP 14.12: Verlagerung des Mellowparks - im Ältestenrat zurückgezogen
+- TOP 14.13: Bürgerbus in Treptow-Köpenick - überwiesen
+- TOP 14.14: Umgestaltung Platz der Befreiung - überwiesen
+- TOP 15: Große Anfragen - (offen)
