@@ -1,0 +1,109 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2008-10-16T17:30:00+02:00
+- Ende: 2008-10-16T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1770
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1770
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=66526
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - mit Änderungen im Ausschuss beschlossen
+- TOP 4: Thematische Stunde - (offen)
+- TOP 4.1: Maßnahmen zur Energieeinsparung in den bezirklichen Bürodienstgebäuden - beantwortet
+- TOP 4.2: Haushalt entlasten - Klima schützen - Arbeitsplätze schaffen I: Energieverbrauchsenkung durch Energiesparpartnerschaften und Sanierungscontracting - ohne Änderungen in der BVV beschlossen
+- TOP 4.3: Haushalt entlasten - Klima schützen - Arbeitsplätze schaffen II: Landesprogramm zur energetischen Sanierung des Gebäudebestandes fordern - ohne Änderungen in der BVV beschlossen
+- TOP 4.4: Haushalt entlasten - Klima schützen - Arbeitsplätze schaffen III: Energieverschwendung stoppen - Nutzung privater Energiefresser in Bürodienstgebäuden stoppen - überwiesen
+- TOP 4.5: Energiesparcontracting beim Kita-Eigenbetrieb City - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Destabilisierung im Huttenkiez? - beantwortet
+- TOP 5.2: Schließung der Postfiliale Müllerstr. 48? - beantwortet
+- TOP 5.3: Ehemaliges Krematorium Wedding - beantwortet
+- TOP 5.4: Streik in Mitte - schriftlich beantwortet
+- TOP 5.5: Toilettenhaus am Schillerpark, Zerfall, Ruine und Abriss? - schriftlich beantwortet
+- TOP 5.6: Drs.-Nr. 0444/III "Neue Schönhauser Straße für den Fahrradverkehr in beide Richtungen freigeben" - Beschlossen und immer noch nicht umgesetzt! - schriftlich beantwortet
+- TOP 5.7: Bezirksstadtrat auf guten / Ab- Wegen? - schriftlich beantwortet
+- TOP 5.8: Stand der Liegenschaften im Bezirk Mitte - schriftlich beantwortet
+- TOP 5.9: Schließung der Krankenstation der Stadtmission in der Lehrter Straße - schriftlich beantwortet
+- TOP 5.10: Parkraumbewirtschaftung - Überwachung sichern - schriftlich beantwortet
+- TOP 5.11: Illegale Großflächenwerbung und kein Ende? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Seniorenwohnhaus Lehrter Straße 67 / Seydlitzstraße 21-22: Sozialarbeit der Berliner Stadtmission - beantwortet
+- TOP 6.2: Das große Schweigen des Bezirksamtes zu Energiesparmaßnahmen - in der BVV zurückgezogen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Einrichtung von Pflegestützpunkten - beantwortet
+- TOP 7.2: Wie gewonnen, so zerronnen? - beantwortet
+- TOP 7.3: Wie geht es weiter mit dem Innovationspark Humboldthain? - schriftlich beantwortet
+- TOP 7.4: Versetzungen in den Stellenpool - schriftlich beantwortet
+- TOP 7.5: Wohngeld - schriftlich beantwortet
+- TOP 7.6: Umzugsmanagement - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Vorhabenbezogener Bebauungsplanentwurf 1-44VE "Aussichtsrad am Zoologischen Garten" sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes 1-44VE - überwiesen
+- TOP 8.2: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2007 - überwiesen
+- TOP 8.3: Entwurf des 2. Ergänzungsplanes des Bezirks Mitte für das Haushaltsjahr 2009 - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Straßenbenennung nach Ellen Epstein - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Standort für Hekticket - in der BVV abgelehnt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Einschulungssprengel gesetzlich ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Sanierungsmittel in Diskussion zum Ergänzungsplan 2009 bzw. Haushaltsplan 2010/2011 einbeziehen - überwiesen
+- TOP 12.3: Markthallen-Verkauf in Moabit / Arminius-Halle sichern II - überwiesen
+- TOP 12.4: Mehr Fahrradständer auf den Alex - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Parken in der Karl-Liebknecht-Straße - überwiesen
+- TOP 12.6: Mehr Bürgerbeteiligung durch mehr Transparenz - überwiesen
+- TOP 12.7: Bedarfsorientierte Ausstattung mit Schulhelfer/innen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Wiederaufbau der Waisenbrücke - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Zentraler Festplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: AG Verkehrssicherheit in Mitte - in der BVV abgelehnt
+- TOP 12.11: Schulen zu sozio-kulturellen Einrichtungen entwickeln und Budgetierungsverluste vemindern - mit Änderungen in der BVV beschlossen
+- TOP 13: Entschließungen - (offen)
+- TOP 13.1: Radio Multikulti muss erhalten werden! - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Eigentümer-Nutzer-Modell im Bezirk realisieren und in der KLR abbilden - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Sommercamps an bzw. für Berliner Ganztagsgrundschulen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Prüfauftrag Hundeauslaufgebiet - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Baumschutz transparent gestalten - in der BVV abgelehnt
+- TOP 14.5: Liegenschaft Gerichtstr. 37 - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Ab in die Tonne! - in der BVV abgelehnt
+- TOP 14.7: Vielfalt der Schulsysteme für leistungsstarke Schüler erhalten und ausbauen - in der BVV abgelehnt
+- TOP 14.8: Erweiterung des Arbeitskreises Antikorruption (AKA) - in der BVV abgelehnt
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Öffentlichen Spielplatz erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Erhalt Wohn- und Sozialprojekt Brunnenstraße 183/ "Umsonstladen" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Beirat für dezentrale Kulturarbeit (bezugnehmend auf die Drucksache-Nr. 1709/II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Anbringung von Erläuterungsschildern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Zusätzliche Einnahmen für den Sport - Werbung im Straßenland an Sportanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Eltern bei der Schulwahl nicht benachteiligen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Nachbesserung des Seniorenmitwirkungsgesetzes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.8: Mobile Bürgerämter - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.9: Spielplatzentwicklungsplan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Klimaschutz und Kostensenkung: Endlich den Ballast Iranische Str. 3 abwerfen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.11: Beachtung der Barrierefreiheit bei Baugenehmigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Straßenbenennungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Halteverbot für LKWs über 7,5 Tonnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Tempo 30 - Sicherheit für Parkbesucher - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Umzugsmanagement Dienstgebäude - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.16: BVV Mitte gegen die Zerstörung des Zuschauerraums der Staatsoper Unter den Linden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: Sanierungsziele Rosenthaler Vorstadt sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Kontinuierlichen Spielbetrieb im Hexenkesselhoftheater gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.19: Verlängerung der Lüneburger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.20: Benennung von öffentlichem Straßenland in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.21: Übertragung der Kontrolle der Einhaltung des Jugendschutzgesetzes auf das LuV Ordnung und Gewerbe des Bezirksamtes Mitte von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.22: Weiterführung des Bebauungsplanverfahrens III-174 auf der Grundlage des §13a des Baugesetzbuches (BauGB) als beschleunigtes Verfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.23: Die im ersten Halbjahr des Haushaltsjahres 2008 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - in der BVV zurückgezogen
+- TOP 15.24: Regelung der Zuständigkeiten im Rahmen des Nichtraucherschutzgesetzes (NRSG) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.25: Europabericht Bezirk Mitte von Berlin - mit Abschlussbericht zur Kenntnis genommen
