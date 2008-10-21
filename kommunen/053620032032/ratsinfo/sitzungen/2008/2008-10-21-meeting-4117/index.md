@@ -1,0 +1,51 @@
+# Haupt- und Finanzausschuss (25. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2008-10-21T17:03:00+02:00
+- Ende: 2008-10-21T21:41:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUeIOnn8MzGTpBPRBeWHKZ0
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/4117
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZXT3hRSwI8Kw3Q4n8_u-5AMu1ZBO5tIBhXaTIWD2gHSF/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_21.10.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 24. Sitzung vom 02.09.2008
+- TOP 2.: Anregung und Beschwerden gem. § 24 GO NW
+- TOP 2.1: Anregung und Beschwerde gem. § 24 GO NRW hier: Zustand des Baugebietes "Am Wahlenpfad"
+- TOP 3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1: Personalkosteneinsparungen durch nicht besetzte Stellen in 2008
+- TOP 3.2: "kw-Vermerke" bei Personalfluktuation
+- TOP 3.2.1: Personalsituation in der Abteilung 20.1 – Kämmerei
+- TOP 3.2.2: Personalsituation in der Stadtkasse - Einheitssachbearbeitung/Innendienst
+- TOP 3.2.3: Personalsituation in der Stadtkasse - Vollziehungsangestellte/Außendienst
+- TOP 3.2.4: Aufgabenwahrnehmung in der Abteilung 23.2 - Senioren, Behinderte und soziale Hilfen
+- TOP 3.2.5: Personalsituation in der Abt. 23.3 - Unterhaltsvorschusskasse
+- TOP 3.3: Zwischenbericht über die Organisationsuntersuchung und die Personalbemessung in der Abteilung 23.1 - Erzieherische Hilfen
+- TOP 4.: Papier-, Druck- und Portokosten für Sitzungsunterlagen
+- TOP 5.: Einführung Controlling
+- TOP 6.: Fortschreibung der Kosten- und Finanzierungsübersicht zur Entwicklungsmaßnahme Vogelrutherfeld
+- TOP 7.: Bericht über die Haushaltsführung der wesentlichen Haushaltspositionen III.Quartal 2008
+- TOP 8.: Vergabebericht der Stadt Kerpen für das Jahr 2007
+- TOP 9.: Mittelfreigabe Attraktivierung/ Sanierung Erftlagune
+- TOP 10.: Treppenanlage in Kerpen Horrem, Im Bendchen
+- TOP 11.: Flurbereinigung Frechen III - Rekultivierung des ehemaligen Braunkohletagebaus hier: Gemeindegrenzregulierung zwischen den Städten Kerpen und Frechen
+- TOP 17.: Situation der Erftland Kommunale Wohnungsbaugesellschaft mbH und der Erftland Holding GmbH
+- TOP 12.: Mitteilungen
+- TOP 12.1: Einsatz eines werbefinanzierten Erdgasfahrzeugs
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 13.1: Etwaige Auswirkungen der weltweiten Finanzkrise auf Projekte in Kerpen insbesondere Bauvorhaben auf dem Falder/Bürrig in Kerpen
+- TOP 13.2: Evtl. Auswirkungen Cross-Border-Geschäfte auf die Abwassergebühren
+- TOP 13.3: Verkehrsbeeinträchtigungen durch Baustellen rund um Sindorf
+- TOP 14.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 15.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 15.1: Erteilung eines Nachtragsauftrages für die "Sanierung der Pultdachflächen Erftlagune"
+- TOP 16.: Grundstückssituation im Plangebiet „Waldweg“ in Kerpen-Horrem
+- TOP 17.: Situation der Erftland Kommunale Wohnungsbaugesellschaft mbH und der Erftland Holding GmbH
+- TOP 18.: Mitteilungen
+- TOP 19.: Anfragen gem. § 18 Geschäftsordnung
