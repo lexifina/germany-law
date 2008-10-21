@@ -1,0 +1,114 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2008-10-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1328311
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1328311
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.: Parkplatzsituation vor der städtischen Kinderkrippe Teutoburger Straße - <div>verwiesen in den UA Verkehr</div>
+- TOP 2.2.: Bahnunterführung Sachsenstraße - <div>verwiesen in den UA Verkehr</div>
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Ergebnis der ADFC-Aktion "Die 3 dringendsten Radlerwünsche an den neuen Stadtrat"; Schreiben des ADFC vom 30.09.08 - <div>zur Kenntnis genommen</div>
+- TOP 2.2.: Hans-Mielich-Platz; keine Parkplätze auf dem Platz sowie mehr Bäume und stärkere räumliche Abgrenzung zur Straße - <div>nach Antrag</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Init. Kunst in Untergiesing, für die Maßnahme: Skulptur am Hans-Mielich-Platz, Sept. - Nov. 08; Antragssumme: 555,-- ?; Beschlussvorlage des Direktoriums vom 19.09.08 - <div>einstimmig zugestimmt i. H. v. 405,-- </div>
+- TOP 3.2.: AntragstellerIn: Opodeldoks e.V., für die Maßnahme: Umbauarbeiten wg. Brandschutz; Antragssumme: 1.893,35 ?; Beschlussvorlage des Direktoriums vom 09.09.2008 - <div>mehrheitlich zugestimmt</div>
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Elternbeirat der Grundschule an der Fromundstraße, für die Maßnahme: 2 Selbstbehauptungskurse für Mädchen u. Jungen; Antragssumme: 1.238,50 ?; Antrag vom 20.09.08 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Trambahnhaltestelle Großhesseloherbrücke; Fahrradständer und Parkplätze für Autos (vertagt aus der Sitzung vom 16.09.2008 - Antragsteil Parkplatz) - <div>Schreiben MVG (wegen WC), Bauref und KVR (Parkplätze und Fahrradständer)</div>
+- TOP 3.2.: Zebrastreifen vor der Kindertageseinrichtung Schönstraße 75 (vertagt aus der Sitzung vom 16.09.2008)
+- TOP 3: (E) Einrichtung eines Fußgängerüberwegs über die Schönstraße in Höhe der Ludmillastraße Empfehlung Nr. 02-08 / E 00996 der Bürgerver- sammlung des 18. Stadtbezirkes Untergiesing- Harlaching am 25.10.2007 (in der Sitzung am 16.09.2008 im Ergebnis abgelehnt und zur Ausarbeitung der Beschlussformulierung in den UA verwiesen) - <div>abgelehnt</div>
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: zu TOP 3.2.1.4 Linienweg der Buslinie 54: Verschwenkung der Linienführung zur Silberhornstraße zur besseren Anbindung Untergiesings an das dortige Nahversorgungszentrum; Antrag Nr. 08-14 / B 00286 des BA 18 vom 15.07.08; Antwortschreiben des Referates für Arbeit u. Wirtschaft vom 05.09.08 (neutrale Erledigung)
+- TOP 3.1.: Freibadstraße; Haltverbot; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 10.09.08 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 3.1.: Verkehrszeichen (Zeichen 209 - vorgeschriebene Fahrtrichtung rechts) an der Kreuzung Aretinstraße / Karolingerallee; Antrag Nr. 08-14 / B 00089 des BA 18 vom 17.06.2008; Antwortschreiben des KVR vom 15.09.08 (negative Erledigung) - <div>weiteres Schreiben an das KVR</div>
+- TOP 3.1.: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Untersuchungen zur künftigen Flughafenanbindung; A. Projektbeendigung - Einstellung des Planfeststellungsverfahrens MSB B. Verbesserung der Schienenanbindung des Flughafens München C. Anträge und Empfehlung Sitzungsvorlagen Nr. 08-14 / V 00890; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008 (VB)
+- TOP 3.2.: Änderungen an den Schulbushaltestellen in der Harthauser Straße und Holzkirchner Straße; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR mit der Bitte um Kenntnisnahme
+- TOP 3.3.: Haltestelle Krankenhaus Harlaching (Ausstiegshaltestelle der Linie 139); Vormerkung und Anordnung gem. § 45 Abs. 3 StVO; Zuleitung des KVR mit der Bitte um Kenntnisnahme
+- TOP 3.4.: bessere Kennzeichnung von Automaten in den jeweiligen Parklizenzgebieten; Empfehlung Nr. 08-14 / E 00011 der Bürgerversammlung des Stadtbezirkes 2 Ludwigvorstadt - Isarvorstadt am 08.05.2008; Sitzungsvorlage Nr. 08-14 / V 00871; Beschluss des Bauausschusses vom 30.09.2008 (SB)
+- TOP 3.1.: Frage zur Sicherheit der Peter-Auzinger-Straße; Dankschreiben des BA 17 auf das Schreiben des BA 18 vom 30.06.08
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Verunreinigung durch Fäkalien im Bereich des Straßenbahnwendepunkt / Haltestelle Großhesseloher Brücke; Bürgerbeschwerde; Anfrage des BA 18 vom 25.07.08; Antwortschreiben der MVG vom 10.09.08 (positive Erledigung) - <div>siehe UA Verkehr</div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Unterstützung des Vereins Carpe Diem e.V. - <div>nach Antrag</div>
+- TOP 3.1.: München macht Raum für Familien; Broschüre in der Reihe "PERSPEKTIVE MÜNCHEN" - Analyse; Münchner Beitrag zum 7. Familienbericht der Bundesregierung; Broschüre u. Schreiben des Referates für Stadtplanung u. Bauordnung vom 25.09.2008
+- TOP 3.2.: weiterer Ausbau der Schulsozialarbeit an Grund-, Haupt- und Förderschulen; Trägerschaftsvergabe für die neuen Standorte; Verwendung von Restmitteln und Umwidmung von Finanzmitteln im Bereich Schulsozialarbeit; Sozialarbeit an Grundschulen; Antrag Nr. 02-08 / A 04222 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 06.02.08; Einrichtung von Schulsozialarbeit an der HS Walliser Straße; Antrag Nr. 08-14 / B 00193 des BA 19 vom 01.07.08; Sitzungsvorlage Nr. 08-14 / V 00763; Beschluss des Kinder- und Jugendhilfeausschusses und des Schul- und Sportausschusses in der gemeinsamen Sitzung vom 23.09.08 (VB)
+- TOP 3.3.: EU-Projekt Child Friendly Cities; Antrag zur Beteiligung am geplanten Interreg IVB Nordwesteuropa-Projekt zur Verbesserung der Kinder- und Jugendfreundlichkeit von Städten; Sitzungsvorlage Nr. 08-14 / V 00754; Vormerkung des Sozialreferates vom 16.09.08
+- TOP 3.4.: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Sachstand Konsolidierung 2008 - Feinkonzept 2009 - Grobkonzept 2010 - 2011 Sitzungsvorlage Nr. 08-14 / V 00791; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.10.2008 (SB)
+- TOP 3.5.: Haushaltsplan 2009; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; Sitzungsvorlage Nr. 08-14 / V 00792; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.10.2008 (SB)
+- TOP 3.6.: Haushaltsplan 2009; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 00755; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.10.08 (SB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: 3 Warenstellagen in der Naupliastraße; Zuleitung des KVR vom 24.09.08; Beschluss des BA 18 vom 21.10.08
+- TOP 3.1.: Anhörungsrecht für Bezirksausschüsse bei Dreharbeiten und Baugenehmigungen; BA-Antrags-Nr. 02-08 / B 02697 des BA 04 - Schwabing-West vom 12.12.07; Az.: D-HA II-BA 1150/540-07/13; Schreiben des Direktoriums vom 15.09.08 mit der Bitte um Stellungnahme
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Anwesen in der Lautererstraße; Anhörung vom 25.09.08
+- TOP 3.2.: Anwesen in der Josef-Humar-Straße; Anhörung vom 25.09.08
+- TOP 3.3.: Anwesen in der Gabriel-Max-Straße; Anhörung vom 21.08.08 (vertagt aus der Sitzung vom 16.09.2008)
+- TOP 3.1.: Sanierung des nördlichen Teils der Agilolfingerstraße, entlang der Bezirkssportanlage (Ziffer 1 des Antrags); Antrag Nr. 08-14 / B 00279 des BA 18 vom 15.07.08; Antwortschreiben des Baureferats vom 15.09.08 (neutrale Erledigung)
+- TOP 3.1.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2008 - 30.06.2008; Sitzungsvorlagen Nr. 08-14 / V 00957
+- TOP 3.2.: Baufälle im 18. Stadtbezirk
+- TOP 3.3.: wildes Plakatieren; Ansprechpartner der Stadt; Einleiten rechtlicher Schritte; Empfehlung Nr. 02-08 / E 00526 der Bürgerversammlung des Stadtbezirks 04 - Schwabing West am 12.10.2006; Sitzungsvorlagen Nr. 02-08/V 00872; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 24.09.2008 (SB)
+- TOP 3.4.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; hier: Anwesen Bozzarisstraße; Mitteilung des Sozialreferats vom 12.09.08 mit der Bitte um Kenntnisnahme
+- TOP 3.5.: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2007 mit Ergänzungen (Bekanntgabe) B) Beschlussteil 1. Belegrechtsprogramm - Förderrichtlinien 2. Kinderkomponente beim KomPro A 3. Mischfinanzierung KomPro A/EOF 4. Verlängerung der Bindungsdauer (München Modell - Eigentum, SoBoN-Eigentum) 5. Anwendung der Wohnraumförderungsbestimmungen für das München Modell - Eigentum 6. Stellplatzschlüssel für Vorhaben im geförderten Wohnungsbau Sitzungsvorlagen Nr. 08-14 /V 00877; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 24.09.08 (VB)
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: PERSPEKTIVE MÜNCHEN - Leitlinien, Konzepte, Programme; Handlungskonzept: Herausforderungen des soziodemografischen Wandels für die Stadtentwicklung; Sitzungsvorlagen Nr. 08-14 / V 00190; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 01.10.2008 (VB)
+- TOP 3.8.: Verwendung flacherer, gerundeter Randsteinde; Entschärfung bisheriger scharfer und hoher Randsteine (Ziffer 5 des Antrages); Empfehlung Nr. 02-08 ( E 00992 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 20.09.07; Sitzungsvorlage Nr. 08-14 / V 00867; Beschluss des Bauausschusses vom 16.10.08 (SB)
+- TOP 3.9.: Schutz der Münchner Vorgärten a) Förmliche Aufhebung des § 3 der Satzung der Landeshauptstadt München über Einfriedungen und Vorgärten (Vorgartensatzung) b) Planungsrechtliche Situation der Münchner Vorgärten c) weiteres Vorgehen zum Schutz der Münchner Vorgärten d) Zulassung von Carports in offener Bauweise vor bestehenden Garagenzufahrten: Empfehlung Nr. 02-08 / E 00613 der Bürgerversammlung des Stadtbezirkes Laim vom 09.11.06; Sitzungsvorlage Nr. 08-14 / V 01017; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 14.10.08 (VB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Namenserläuterungen an Straßenschildern; Beschluss des Kommunalausschusses vom 14.02.2008; Beschluss der Vollversammlung vom 20.02.2008; Schreiben des Direktoriums vom 04.08.2008 mit der Bitte um Stellungnahme innerhalb der satzungsgemäßen Frist (vertagt aus der Sitzung vom 16.09.2008)
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2009 - 2013; Anhörungsverfahren; Zuleitung der Stadtkämmerei vom 12.09.08 mit der Bitte um Stellungnahme bis 03.11.08
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tierparkstr. 30; 1 Fraxinus excelsior; Fr. Drechsler
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Zugang des Wahllokals Agilolfinger Schule für Menschen mit Behinderung; Antrag Nr. 08-14 / B 00091des BA 18 vom 17.06.08; Zwischennachricht des KVR vom 16.08.08
+- TOP 4.2.: Aufstellung einer Ruhebank im U-Bahnhof Mangfallplatz, Nordkopf; Antrag Nr. 2731 des BA 18 vom 20.11.2007; Antwortschreiben der Stadtwerke München GmbH vom 10.09.2008 (positive Erledigung)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
