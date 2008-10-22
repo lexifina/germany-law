@@ -1,0 +1,8 @@
+# TOP 4: Straßenbenennung im Bereich des
+
+- Sitzung: Bezirksvertretung Rheydt-Mitte (2008-10-22)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/110621
+- Ergebnis: Einstimmiger Beschluss
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/8141
