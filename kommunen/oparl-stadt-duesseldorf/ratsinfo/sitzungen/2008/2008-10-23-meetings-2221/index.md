@@ -1,0 +1,67 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-10-23T16:00:00+02:00
+- Ende: 2008-10-23T20:07:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2221
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2221
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096628.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096628.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096628.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 18.09.2008 - einstimmig beschlossen
+- TOP 3: STEK (BVen ua) KG u. Empf. - vertagt
+- TOP 4: Lichtmasterplan, Teil 2 (weitere Gremien) - mehrheitlich beschlossen
+- TOP 5: Linienänderungen des Nachtnetzes ÖPNV zum Fahrplanwechsel 07.01.2009 - vertagt
+- TOP 6: Optimierung des ruhenden Verkehrs - mehrheitlich beschlossen
+- TOP 7: Breidenplatz - Baumfällung im Rahmen des Baues einer behindertengerechten Rampe - einstimmig beschlossen
+- TOP 8: Am Hackenbruch - Anlage eines straßenbegleitenden Gehweges - einstimmig beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Trödelmärkte OBI-Parkplatz Königsberger Straße 87, 1. Halbjahr 2009 - einstimmig beschlossen
+- TOP 11: Weihnachtsmarkt in Unterbach am 06. und 07. Dezember 2008 - einstimmig beschlossen
+- TOP 12: Zuschüsse der Bezirksvertretung 8 im Jahre 2008 - einstimmig beschlossen
+- TOP 13: Stellplatzangebot im Stadtbezirk 8 - beantwortet
+- TOP 14: Gertrudisplatz - Alkoholkonsum - beantwortet
+- TOP 15: Lierenfelder Gewerbegebiete - zur Kenntnis genommen
+- TOP 16: Aufforstung Bruchgrabenweg - zurückgezogen
+- TOP 17: Kleintierhaltung im Stadtbezirk 8
+- TOP 18: CO - Pipeline - beantwortet
+- TOP 19: Wohnungs- und Geschäftsleerstand im Stadtbezirk 8 - beantwortet
+- TOP 20: Grünpflege - Beschädigung durch Steinschlag
+- TOP 21: Probebohrungen Zamek-See - beantwortet
+- TOP 22: Fußgängerbrücke Kikweg - beantwortet
+- TOP 23: Offensive für Öffentliches Grün - mehrheitlich beschlossen
+- TOP 24: Wartehäuschen In den Maisbanden - einstimmig beschlossen
+- TOP 25: Fahrplan Buslinie 732 - einstimmig beschlossen
+- TOP 26: Radwegebeschilderung - einstimmig beschlossen
+- TOP 27: Parkmarkierungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 28: Kinderspielplatz Posener Straße - einstimmig beschlossen
+- TOP 29: Gleiskörper Kuthsweg - mehrheitlich beschlossen
+- TOP 30: Fläche Posener Straße / Breslauer Straße / Richardstraße - einstimmig beschlossen
+- TOP 31: Geruchsbelästigung Am Karlshof - einstimmig beschlossen
+- TOP 32: Umgestaltung Gertrudisplatz im Bereich Anhalterstraße - einstimmig beschlossen
+- TOP 33: Grünpflege im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 34: Hundeauslaufplatz Schlesische Straße - einstimmig beschlossen
+- TOP 35: Fußgängerampel Weinheimer Straße / Klein-Eller - einstimmig beschlossen
+- TOP 36: Wasserspielplatz Tannenhofweg - einstimmig beschlossen
+- TOP 37: Wartehäuschen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 38: Gehölzrodungen und Umwandlungsmaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 39: Mobile Grünschnittsammlung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: Fahrbahnsanierung Gerresheimer Landstraße / Erkrather Straße - zur Kenntnis genommen
+- TOP 41: Umgestaltung Unterbacher See - Südstrand - zur Kenntnis genommen
+- TOP 42: Querungshilfe Höherweg - zur Kenntnis genommen
+- TOP 43: Postagenturen in Unerbach und Vennhausen - zur Kenntnis genommen
+- TOP 44: Parkplatzbeschilderung Vennhauser Allee / Boston-Club e.V. - zur Kenntnis genommen
+- TOP 45: Unterführungen der Deutschen Bahn AG im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Lärmaktionsplan und Lärmbelastung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 47: Hundeauslaufplatz Am Stufstock - zur Kenntnis genommen
+- TOP 48: Jugendtreff Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 49: Pausenhofdach GGS Gumbertstraße - zur Kenntnis genommen
+- TOP 50: Verkehrsführung Bebelstraße - zur Kenntnis genommen
