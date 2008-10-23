@@ -1,0 +1,140 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2008-10-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1281227
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1281227
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 0.0.3: Wahl der/des Vorsitzenden UA Schule und Soziales
+- TOP 1.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering - Riem Widmung von zwei Teilstrecken der Evereststraße und der Gesamtstrecke der Karpfenstraße
+- TOP 2.1.: Antrag auf verkehrsberuhigende Maßnahmen an der Karpfenstrasse
+- TOP 2.2.: Geschwindigkeitsüberschreitungen Marianne-Plehn-Straße / St.-Augustinus-Straße
+- TOP 2.3.: Aufzüge auch an Wochenenden und Feiertagen reparieren
+- TOP 2.4.: Einführung einer "Kurzstrecke 2" für Fahrten mit der S-Bahn durch zwei Tarifzonen
+- TOP 3.1.: Sammelcontainer für Streusplitt im Wertstoffhof an der Mauerseglerstraße, Antrag Nr. 08-14 / B 00009
+- TOP 3.2.: Gebrauchtwagenhändler / Autoverkaufsplätze in der Truderinger Straße, Antrag Nr. 08-14 / B 00264
+- TOP 3.3.: Aktuelle Fragen zur Verkehrsentwicklung in Trudering-Riem, Antrag Nr. 02-08 / B 02547
+- TOP 3.4.: Ausbau- und Baustoff-Umschlagzentrum am Bahnhof Trudering, Antrag Nr. 08-14 / B 00158
+- TOP 3.5.: Runder Tisch zur Sportflächensituation, Antrag Nr. 02-08 / B 02808
+- TOP 3.6.: Bürgerbusse für Trudering - eine erfolgsversprechende Antwort auf die demographische Entwicklung?, Antrag Nr. 08-14 / B 00155
+- TOP 3.7.: Busdurchfahrt Messestadt Riem, Antrag Nr. 02-08 / B 02798
+- TOP 3.8.: Spielplatz nördlich des Riemer Sees, Antrag Nr. 08-14 / B 00147
+- TOP 4.1.: Hunde im Riemer Park (Runder Tisch) - Schaffung einer Bade-/Trinkgelegenheit; Umrüstung der Mülleimer
+- TOP 4.2.: Erfahrungen mit den Unterflurwertstoffsammelcontainern in der Messestadt
+- TOP 4.3.: Wertstoffsammlungsprobleme in Waldtrudering
+- TOP 4.4.: Perspektiven für das Haus der Gegenwart und den Tribünenkopfbau
+- TOP 4.5.: Bebauungspläne für Bestandsgebiete in Trudering
+- TOP 4.6.: Planung eines mindestens fünfzügigen Truderinger Gymnasiums
+- TOP 4.7.: Erweiterung der Volksschule an der Markgrafenstraße durch Aufstockung
+- TOP 4.8.: Unerlaubte Baumfällungen / Verstoß gegen die Baumschutzverordnung
+- TOP 5.1.: Verkauf von Christbäumen auf dem Flurstück 310/18, Gemarkung Trudering
+- TOP 5.2.: Voranfrage des Burschenverein zur Nutzung eines Grundstücks (Feldbergstr. 139; ggü. Festplatz)
+- TOP 5.3.: Karpfenstraße Einbeziehung in die Tempo 30 Zone; Halteverbot im Einmündungsbereich zur Truderinger Straße
+- TOP 5.4.: 1. Kunst in der Messestadt Riem; Forstsetzung der Maßmahme 2. Realisierung und Wartung permanenter Kunst im öffentlichen Raum - mirbau'n in der Messestadt, Antrag Nr. 02-08 / B 02988 - Panorama-Tafelelemente Alpenkette, Antrag Nr. 02-08 / B 02989 Beschluss des Kulturausschusses vom 20.11.2008 (Anhörung des BA; Frist: 24.10.08)
+- TOP 5.5.: Bebauungsplan mit Grünordnung - Michael-Seidl-Straße (östlich), Truderinger Straße (südlich), Wasserburger Landstraße (nördlich); Teiländerung des Beb.Pl.Nr. 1215
+- TOP 6.1.: Bürgerversammlung des 15. Stadtbezirkes Trudering-Riem am 30.10.2008 - Leistungsbilanzen des Baureferats
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: Spiel ohne Grenzen - Projekt Crossover
+- TOP 7.2.: Messestadt West - was geschieht mit der Projektionsanlage im U-Bahnhof?
+- TOP 7.3.: Sachstand Gedenkveranstaltung 09. November 2008
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Grünzug mit Ausgleichsflächen an der Haffstraße / Terminplan / Wegesicherung / überarbeiteter Entwurf (s. auch OT vom 20.08.08)
+- TOP 7.2.: Baugenehmigung gem. Art. 59 und Art. 68 Bayerische Bauordnung (BayBO) im vereinfachten Genehmigungsverfahren; Bahnstraße 2, Fl.Nr. 209/11, Gemarkung Trudering
+- TOP 7.3.: Birkhanweg - Überprüfung der Verordnung über das Verbot von Zweckentfremdung von Wohnraum
+- TOP 7.4.: Gemeinde Aschheim Flächennutzungsplan - Änderung Nr. 23
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: - Verlegung der Bushaltestelle St.-Augustinus-Straße - Veränderung des Panorama-Radwegs Isar-Inn
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Verwendungsnachweise des Vereins der Freunde und Förderer der Musik (Konzerte 16.03.08; 13.04.08)
+- TOP 7.2.: Anhörung zu den neuen Erläuterungstexten der Kolonialstraßen im 15.ten Stadtbezirk Trudering-Riem
+- TOP 7.3.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2009-2013 (Anhörungsverfahren)
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.1.: Warum mussten die Alleebäume an der Bushaltestelle Drosselweg verschwinden
+- TOP 7.7.7: Ortstermine
+- TOP 7.1.: Protokoll zum Thema "Hunde im Riemer Park"
+- TOP 8.1.: Mitteilung über bereits durchgeführte Baumfällungen: Waldschulstraße, Zehntfeldstraße, Usambarastraße
+- TOP 8.2.: Wachtelweg
+- TOP 8.3.: Samoastraße
+- TOP 8.4.: Rofanstraße
+- TOP 8.5.: Thomas-Hauser-Straße
+- TOP 8.6.: Markgrafenstraße
+- TOP 8.7.: Waterbergstraße
+- TOP 8.8.: Am Birkicht
+- TOP 8.9.: Von-Erckert-Straße
+- TOP 8.10.: Schwedensteinstraße
+- TOP 8.12.: Heilwigstraße
+- TOP 8.13.: Florastraße
+- TOP 8.17.: Groschenweg
+- TOP 8.18.: Xaver-Weismor-Straße
+- TOP 8.19.: Leonhardiweg
+- TOP 8.20.: Hippelstraße
+- TOP 8.21.: Tsingtauerstraße
+- TOP 8.22.: Plumserjochstraße
+- TOP 8.24.: Michael-Seidl-Straße
+- TOP 8.25.: Gerstäckerstraße
+- TOP 8.26.: Nauestraße
+- TOP 8.27.: Agathenstraße
+- TOP 9.1.: Termine und Mitteilungen: a) Einladung des Kulturreferats zum Jour-Fixe am 08.10.08 von 17.00-18.30 Uhr, Rathaus b) Informationsveranstaltung Barrierefreies Bauen am 22.10.08 von 18.00-20.00 Uhr, Sozialreferat c) Informationsveranstaltung zur Übertragung von Entscheidungsrechten bei Sondernutzungen am 05.11.08 ab 18.00 Uhr, Kreisverwaltungsreferat d) Treffen der Frauen- und Genderbeauftragten am 20.10.08 ab 19.00 Uhr, Rathaus e) Einladung zur gemeinsamen Gesprächsrunde / Erfahrungsaustausch in der neuen Wahlperiode am 28.11.08 von 15.00 - 17.00 Uhr, Grützner-Stube Rathaus f) nach Mitteilung der Vorsitzenden
+- TOP 9.2.: Bürgerversammlung des 15.ten Stadtbezirkes Trudering-Riem am 30.10.2008; Schreiben des Oberbürgermeisters
+- TOP 9.3.: Anhörungsrecht für Bezirksausschüsse bei Dreharbeiten und Baugenehmigungen; Mitteilung des Direktoriums
+- TOP 9.4.: Festlegung der Sitzungstermine 2009
+- TOP 9.5.: Protokoll zum Gespräch des BA 15 mit dem Baureferat T1/CS-Ost
+- TOP 9.6.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Ottendichler Straße 30, Kieswerk Obermayr GmbH & Co. KG
+- TOP 9.7.: Messestadt Riem; Stand der Maßnahmerealisierung; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.10.2008
+- TOP 9.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.9.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Kindergrippe Waldtruderinger Straße mit 24 Kinderkrippenplätzen; Beschluss des Kinder- und Jugendhilfeausschusses vom 14.10.2008
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 01.09.2008 bis 21.09.2008
+- TOP 10.2.: Zweckentfremdung von Wohnraum - Böcklerweg
+- TOP 10.3.: Zweckentfremdung von Wohnraum - Eigerstraße
+- TOP 10.4.: Zweckentfremdung von Wohnraum - Heilwigstraße
+- TOP 10.5.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Testa Rossa, Willy-Brandt-Platz
+- TOP 10.6.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Riemer Bistro, Riemer Straße
+- TOP 10.7.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Mistura Tropicana, Graf-Lehndorff-Straße
+- TOP 10.8.: Nachqualifizierung und Revision der Denkmalliste in München - Beteiligung des Landesdenkmalrats
+- TOP 10.9.: Korrektur einer Budgetentscheidung durch das Direktorium
+- TOP 10.10.: Bessere Kennzeichnung der Automaten in den jeweiligen Parklizenzgebieten; Beschluss des Bauausschusses vom 30.09.2008
+- TOP 10.11.: Perspektive München - Leitlinien, Konzepte, Programme; Hinweise/Ergänzungen zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2008
+- TOP 10.12.: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich Förderung freier Träger der Zentrale; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.10.2008
+- TOP 10.13.: Verwendung flacherer, gerundeter Randsteine; Entschärfung bisheriger scharfer und hoher Randsteine; Beschluss des Bauausschusses vom 16.10.2008
+- TOP 10.14.: Vollzug der Straßenverkehrsordnung (StVO); hier: §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund vom 15.09.08 - 26.09.08, Birkhahnweg
+- TOP 10.15.: Verkehrsrechtliche Anordnung nach § 45 StVO; hier: Grundschule an der Forellenstraße - Temporäre Änderung der Parkbereiche
+- TOP 10.16.: Verkehrsrechtliche Anordnung nach § 45 StVO; hier: Verlegung der Haltestelle Sankt-Augustinus-Straße (Linie 195 Richtung Michaelibad)
+- TOP 10.17.: Verkehrsrechtliche Anordnung nach § 45 StVO; hier: Halteverbot Truderinger Straße (Antrag Nr. 08-14 / B 00265)
+- TOP 10.18.: Veranstaltungen / Kooperationen des Kulturreferats im Oktober 08
+- TOP 10.19.: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2007 mit Ergänzungen (Bekanntgabe) B) Beschlussteil Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008 zuzüglich einer Informationsbroschüre "Wohnungsbau in München - Wohnen für Alle"
+- TOP 10.20.: Wildes Plakatieren Ansprechpartner der Stadt; Einleiten rechtlicher Schritte; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008
+- TOP 10.21.: Ausweisung neuer Gewerbeflächen - Berichtsjahr 2007; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008
+- TOP 10.22.: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Untersuchungen zur künftigen Flughafenanbindung; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008
+- TOP 10.23.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum 01.01.08 - 30.06.08; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008
+- TOP 10.24.: Sofortiger Baustopp für Großprojekte (im Münchner Südosten), solange keine gesicherten Maßnahmen für eine spürbare Verkehrsentlastung bestehender Siedlungsgebiete und keine optimale ÖPNV-Anbindung der Neubaugebiete bestehen Empfehlung Nr. 21 der Bürgerversammlung des 15.ten Stadtbezirkes Trudering-Riem vom 10.11.2004; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008
+- TOP 10.25.: Schutz der Münchner Vorgärten a) Förmliche Aufhebung des § 3 der Satzung der Landeshauptstadt München über Einfriedungen und Vorgärten (Vorgartensatzung) b) Planungsrechtliche Situation der Münchner Vorgärten c) Weiteres Vorgehen zum Schutz der Münchner Vorgärten d) Zulassung von Carports in offener Bauweise vor bestehenden Garagenzufahrten Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.10.2008
+- TOP 10.26.: Haushaltskonsolidierung - 4. Haushaltskonsolidierungskonzept (4. HSK) - Sachstand Konsolidierung 2008 - Feinkonzept 2009 - Grobkonzept 2010 - 2011 Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.10.2008
+- TOP 10.27.: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich Förderung freier Träger des Amtes für Soziale Sicherung; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.10.2008
+- TOP 10.28.: Ergebnis der ADFC-Aktion "Die 3 dringendsten Radlerwünsche an den neuen Stadtrat"
+- TOP 10.29.: Infobrief des JIZ und INFOFON
+- TOP 10.30.: Realisierungswettbewerb "Innovativer Wohnungsbau Hasenbergl", Modellvorhaben e% - Energieeffizienter Wohnungsbau; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008
+- TOP 10.31.: Europaarbeit des Referats für Stadtplanung und Bauordnung und aktuelle Entwicklungen der "städtischen Dimension" auf europäischer Ebene; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008
+- TOP 10.32.: Nachqualifizierung/Revision der Denkmalliste - Stellungnahme des BA 13 - Bogenhausen
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
+- TOP 8.23.: Dresselstraße
+- TOP 8.16.: Friedenspromenade
