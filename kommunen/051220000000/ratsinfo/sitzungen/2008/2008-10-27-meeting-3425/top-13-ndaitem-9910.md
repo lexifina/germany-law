@@ -1,0 +1,7 @@
+# TOP 13: Berechnung der Sonderförderung unter KiBiz
+
+- Sitzung: Jugendhilfeausschuss (2008-10-27)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/9910
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/5320
