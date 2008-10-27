@@ -1,0 +1,80 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2008-10-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1314781
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1314781
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Erhalt der Bushaltestelle Gröbenzeller Straße
+- TOP 2.2.: Errichtung eines fest installierten Basketballkorbes
+- TOP 2.3.: Öffnung des Moosangers Höhe Wendehammer / Ecke Bärlauchweg
+- TOP 2.4.: Gesundheitsbelastung durch Abgase von Hauskaminen
+- TOP 2.5.: Spielplatz Simmerleinplatz Parkplatzsituation
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Umorganisation des Kulturreferates
+- TOP 3.2.: Gedenkveranstaltung 09.11.
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Werner-Friedmann-Bogen / Riesstraße
+- TOP 3.2.: Ortstermin Dachauer Str. 334
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Express-S-Bahn auf der S1-Strecke
+- TOP 4.2.: Krippe Bingener Straße
+- TOP 4.3.: Hinweis auf das Berufsschulzentrum Riesstraße im U-Bahnhof OEZ
+- TOP 4.4.: Pflegemaßnahmen Reigersbach
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Express-S-Bahn "light"
+- TOP 4.2.: Erneuerung Telefonzelle Untermenzinger Straße
+- TOP 4.5.: Erneuerung der provisorischen Fahrbahnmarkierung Dachauer - / Ecke Donauwörther Straße
+- TOP 4.6.: Änderung Halteverbot Leipziger-/Quedlinburger Straße
+- TOP 4.7.: Radwegbeschilderung Olympiapark
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.1.: Energieeffizienz Schulzentrum Gerastraße
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10: Jugendfreizeitstätte "Orange Planet", AWO: Musicalprojekt an der HS Haldenbergerstraße
+- TOP 5.2.: Öffentliche Grünanlage Schragenhofstraße
+- TOP 6.: Anhörungen
+- TOP 6.1.: Anhörungsrecht für Bezirksausschüsse bei Dreharbeiten und Baugenehmigungen
+- TOP 6.2.: Vollzug der Baumschutzverordnung 1. Bauvorhaben Bunzlauer Str. 3 2. Bauvorhaben Lauterbachstr. 2 3. Bauvorhaben Glogauer Str. 36 4. Bauvorhaben Georg-Brauchle-Ring 55
+- TOP 6.3.: Mehrjahresinvestitionsprogramm
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Aufhebung des Radweges auf der Nordseite der Triebstraße (wird aufgehoben)
+- TOP 7.2.: Bauzustand des Hauses Feldmochinger Str. 38 (Instandsetzungsarbeiten werden durchgeführt)
+- TOP 7.3.: Geschwindigkeitsüberwachung Allacher Straße (Beanstandung unter dem Durchschnitt)
+- TOP 7.4.: Fortführung des Treffs "Lauinger 23" (Weiterführung ist vorgesehen)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke
+- TOP 8.2.: Meldelisten Bauvorhaben
+- TOP 8.3.: SWM Netzbaumaßnahmen
+- TOP 8.4.: Information über Sanierung und Modernisierung des U-Bahnhofes "Münchner Freiheit"
+- TOP 8.5.: Fahrbahnwiederherstellung nach Kanalbau: Siegmund-Schacky-Straße, Hirschstraße, Görlitzer Straße
+- TOP 8.6.: ADFC-Umfrage
+- TOP 8.7.: Suchkreismeldung Mobilfunk
+- TOP 8.8.: Weiterer Ausbau der Schulsozialarbeit an Grund-, Haupt- und Förderschulen
+- TOP 8.9.: Verwendung flacherer, gerundeter Randsteine
+- TOP 8.10.: Umabu Landshuter Allee / Georg-Brauchle-Ring (Parkharfe)
+- TOP 8.11.: Straßenbaumaßnahme In den Kirschen / Wintrichring
+- TOP 8.12.: Bessere Kennzeichnung der Automaten in den jeweiligen Parklizenzgbieten
+- TOP 8.13.: Schutz der Münchner Vorgärten
+- TOP 8.14.: Perspektive München - Leitlinien, Konzepte, Programme
+- TOP 8.15.: Planungsreferat: Beschlussvollzugskontrolle
+- TOP 8.16.: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen
+- TOP 8.17.: Verkehrsrechtliche Anordnung: Plauener Straße
+- TOP 8.18.: Kanalsanierungsarbeiten
+- TOP 8.19.: Haushaltskonsolidierung Sozialreferat
+- TOP 8.20.: Sozialreferat: Förderung freier Träger für den Bereich - der zentrale - des Amtes für Soziale Sicherung
+- TOP 8.21.: Bushaltestellen
+- TOP 4.4.: Sperrfläche Bushaltestelle Untermenzinger Straße
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
