@@ -1,0 +1,63 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-10-28T17:00:00+01:00
+- Ende: 2008-10-28T00:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2421
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2421
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126022.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126022.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126022.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Optimierung des ruhenden Verkehrs
+- TOP 5: Sonderzuschuss an den Post-Telekom-SV für Umbaumaßnahmen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Ergebnisse der Kleinen Kommission
+- TOP 8: Verwendung von Haushaltsmitteln
+- TOP 9: Sitzungsplan 2009
+- TOP 10: Kastanien am Zamenhofweg
+- TOP 11: Mülleimer an der Heckteichstraße
+- TOP 12: Luftreinhalteplan
+- TOP 13: Abbiegemöglichkeit Dreherstraße / Unter den Eichen
+- TOP 14: Überweg Unter den Eichen / Heyestraße / Dörpfeldstraße Überweg Unter den Eichen / Heyestraße / Dörpfeldstraße
+- TOP 15: CO-Pipeline: Alarm- und Notfallplan für Hubbelrath
+- TOP 16: Fahrbahnbeläge Flaschen-, Paulinen-, Lippstadtstraße, Alte Insel
+- TOP 17: Lichtzeichenanlage Glashüttenstraße / Gödinghover Weg
+- TOP 18: Wartehäuschen Rheinbahn-Haltestelle Knuppertsbrück Wartehäuschen Rheinbahn-Haltestelle Knuppertsbrück
+- TOP 19: Lärmentwicklung Abriss Glashütte
+- TOP 20: Querung der Gleisanlagen S-Bahnhof Gerresheim
+- TOP 21: Obere Kapelle Waldfriedhof Gerresheim
+- TOP 22: Rheinbahn-Haltestelle "Neuenhaus", Richtung Mettmann
+- TOP 23: Schaukästen Aloys-Odenthal-Platz / Sitzmöglichkeiten
+- TOP 24: Verbindungsweg Heckteichstraße / Düssel ("Matschweg") Kamperweg
+- TOP 25: Industriebrachen nutzen - Brücke
+- TOP 26: Industriebrachen nutzen
+- TOP 27: Lager 61, B-Plan Nach den Mauresköthen
+- TOP 28: L 404 n - Südspange
+- TOP 29: Lager 61, B-Plan Nach den Mauresköthen
+- TOP 30: Feinstaub-Belastung Glashüttenstraße
+- TOP 31: Villa Sack in Grafenberg
+- TOP 32: Villa Sack in Grafenberg II
+- TOP 33: Banken-Service und Banken-Arbeitsplätze erhalten
+- TOP 34: Spielwiese am Gallberg
+- TOP 35: Öffnung des Schulhofs der Hanna-Zürndorfer-Schule
+- TOP 36: Hygiene im Krankenhaus
+- TOP 37: Bericht Emissionsschutz
+- TOP 38: Überprüfung der Beleuchtungssituation Torfbruchstraße
+- TOP 39: Erläuterung zu Straßennamen
+- TOP 40: CO-Pipeline
+- TOP 41: Gebäude S-Bahnhof Gerresheim
+- TOP 42: Wohnungsleerstand
+- TOP 43: Sirenen im Stadtbezirk 7
+- TOP 44: Mauerreste in der Baustelle Gerricusstraße
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46: Sachstandsbericht zur Pflegesituation im Stadtbezirk 7
