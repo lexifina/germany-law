@@ -1,0 +1,84 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2008-10-28T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1356650
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1356650
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Aufstellung von Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Weiterführung des Stadtteilladens ?Baum 20? nach Ablauf des Projektes ?Soziale Stadt? als Stadtteil- und Kulturtreffpunkt (Empfehlung Nr. 18 der Bürgerversammlung vom 17.04.2008
+- TOP 3.2.: Zwischennutzung auf dem Planungsgebiet ?Rund um den Ostbahnhof?
+- TOP 3.3.: Berg-am-Laim-Straße ? Neubau eines Hotelgebäudes
+- TOP 3.4.: Anzinger Straße ? Neubau einer ?Medienbrücke?
+- TOP 3.5.: Thomas-Hauser-Straße 6 - 8 ? Errichtung einer Tankstelle für Biodiesel, Pflanzenöl- und Diesel-Kraftstoffe
+- TOP 3.1.: Gammelsdorfer Straße ? Haltverbote im Bereich der Bauminseln
+- TOP 3.2.: Parkmöglichkeiten in der Waldstraße
+- TOP 3.3.: Sitzgelegenheiten an den Haltestellen Bus 146
+- TOP 3.1.: Stadtteilwochen Berg am Laim ? Antwortschreiben des Kulturreferats
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: MIP ? Fortschreibung für die Jahre 2009-2013
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Anhörungsrecht für Bezirksausschüsse bei Dreharbeiten und Baugenehmigungen
+- TOP 3.2.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (ehem. Verwaltungsanordnung)
+- TOP 3.3.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2009 - 2013
+- TOP 3.1.: Großvenedigerstraße ? Antrag auf Baumfällungen
+- TOP 3.2.: Fehwiesenstraße ? Antrag auf Baumfällung
+- TOP 3.3.: Hohenbrunner Str. ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.: Perspektive München ? Leitlinien, Konzepte, Programme
+- TOP 4.2.: Bericht über die der Beschlussvollzugskontrolle unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung des Stadtrates zw. 01.01. und 30.06.2008
+- TOP 4.3.: Nachqualifizierung und Revision der Denkmalliste in München ? Beteiligung des Landesdenkmalrats
+- TOP 4.4.: Vogelweideplatz ? Grundsatzbeschluss und Durchführung eines städtebaulichen und landschaftsplanerischen Ideenwettbewerbs
+- TOP 4.5.: Schutz der Münchner Vorgärten
+- TOP 4.6.: Optimolwerke - ?Garage? (ehemals Salon Erna) ? Unveränderte Fortführung
+- TOP 4.1.: Taxistandplatz St.-Veit-Straße ? Verlängerung
+- TOP 4.2.: Verwendung flacherer, gerundeter Randsteine; Entschärfung bisheriger scharfer und hoher Randsteine
+- TOP 4.3.: Ergebnis der ADFC-Aktion ?Die3 dringendsten Radlerwünsche an den neuen Stadtrat?
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Abbau des Investitionsstaus auf städtischen und Vereinssportanlagen
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Sachstand Konsolidierung 2008 - Feinkonzept 2009 - Grobkonzept 2010 ? 2011
+- TOP 4.2.: Haushaltsplan 2009 - Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? der Zentrale
+- TOP 4.3.: Haushaltsplan 2009 - Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung
+- TOP 4.1.: Elternbeirat Berg-am-Laim-Schule ? Zuwendungsbescheid
+- TOP 4.2.: Zeugnerhof Berg am Laim ? Zuwendungsbescheid
+- TOP 4.3.: Bürgerkreis Berg am Laim ? Zuwendungsbescheid
+- TOP 4.6.: Freiräume e.V. ? Verwendungsnachweis
+- TOP 4.7.: Hauptschule Echardinger Straße ? Verwendungsnachweis
+- TOP 4.8.: Verein zur Förderung des Kinder- und Jugendtheaters ? Verwendungsnachweis
+- TOP 4.1.: Fällungsantrag Hachinger-Bach-Straße
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.6.: Baumschutz
+- TOP 4.5.: Bürgerkreis Berg am Laim ? Verwendungsnachweis
