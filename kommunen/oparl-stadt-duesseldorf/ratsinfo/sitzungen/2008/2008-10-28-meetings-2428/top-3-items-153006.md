@@ -1,0 +1,8 @@
+# TOP 3: STEK (BVen ua) KG u. Empf.
+
+- Sitzung: Bezirksvertretung 2 (2008-10-28)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/153006
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/45261
