@@ -1,0 +1,53 @@
+# Stadtrat (29. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2008-10-28T17:01:00+01:00
+- Ende: 2008-10-28T22:05:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYpzaRD1IesOv4ZafplEMco
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/4113
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZW_sDufkgEjyKD3rjOvPEj29YafkNYg2IownxVnYciIB/Bekanntmachung_Stadtrat_28.10.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZc2ARjDB8CVheMNdaua7YLKx4EdtaLEhSD4E1WJPBPtL/Oeffentliche_Niederschrift_Stadtrat_28.10.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Umbesetzung von Ausschüssen und Gremien
+- TOP 2.: Einbringung der Haushaltssatzung für das Jahr 2009
+- TOP 3.: Veranstaltungen im Bereich der Städtepartnerschaften mit St. Vith (Belgien) und Oswiecim (Polen) in 2008 und 2009 durch die Verwaltung und Bericht des Partnerschaftsbeauftragten der Stadt Kerpen
+- TOP 4.: Stadtentwicklung und Bauleitplanung
+- TOP 4.1: Bebauungsplan BP TÜ 246/3. Änderung "Gewerbe-/Industriegebiet Ville" im Stadtteil Kerpen Türnich hier: Offenlegungsbeschluss gem. § 3 Abs. 2 BauGB
+- TOP 4.2: TÜ 246 3. Änderung "Gewerbe- und Industriegebiet Ville", Abschluss des 2. Änderungsvertrages zum Erschließungsvertrag vom 16.12.1998
+- TOP 4.3: Vorhabenbezogener Bebauungsplan KE 267 B/ 1. Änderung "Stiftsstraße/Filzengraben", Stadtteil Kerpen
+- TOP 4.4: VEP KE 267 B "Stiftsstraße / Filzengraben", Abschluss des 2. Änderungsvertrages zum Durchführungsvertrag vom 06.05.2005
+- TOP 4.5: Ansiedlung einer Tankstelle in Kerpen-Brüggen
+- TOP 4.6: Flurbereinigung Frechen III - Rekultivierung des ehemaligen Braunkohletagebaus hier: Gemeindegrenzregulierung zwischen den Städten Kerpen und Frechen
+- TOP 5.: Haushalt und Finanzen
+- TOP 5.1: Entwurf der Eröffnungsbilanz 2008
+- TOP 5.2: Einführung Controlling
+- TOP 5.3: Bericht über die Haushaltsführung der wesentlichen Haushaltspositionen III.Quartal 2008
+- TOP 5.4: Bekanntgabe der unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NW in der Zeit vom 01.07. bis 30.09.2008
+- TOP 5.5: Treppenanlage in Kerpen Horrem, Im Bendchen
+- TOP 6.: Zuwendungsantrag für Investitionen in Ganztagsschulen, Ganztagsangeboten und pädagogischer Übermittagbetreuung
+- TOP 7.: Personalwirtschaft
+- TOP 7.1: Zwischenbericht über die Organisationsuntersuchung und die Personalbemessung in der Abteilung 23.1 - Erzieherische Hilfen
+- TOP 7.2: Aufgabenwahrnehmung in der Abteilung 23.2 - Senioren, Behinderte und soziale Hilfen
+- TOP 7.3: Personalsituation in der Stadtkasse - Vollziehungsangestellte/Außendienst
+- TOP 7.4: Personalsituation in der Abteilung 20.1 – Kämmerei
+- TOP 7.5: Personalsituation in der Abt. 23.3 - Unterhaltsvorschusskasse
+- TOP 8.: Situation der Erftland Kommunale Wohnungsbaugesellschaft mbH und der Erftland Holding GmbH
+- TOP 9.: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 9.1: Überplanmäßige Ausgabe für das Bauvorhaben Dachsanierung Erftlagune einschl. Nachfolgegewerke
+- TOP 10.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 11.: Mitteilungen
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 12.1: Quartiermanagement Buchenhöhe
+- TOP 13.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 14.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 15.: Mitteilungen
+- TOP 16.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 17.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
