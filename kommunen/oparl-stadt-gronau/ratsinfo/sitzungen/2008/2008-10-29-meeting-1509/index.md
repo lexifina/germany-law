@@ -1,0 +1,56 @@
+# Rat (42. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2008-10-29T17:00:00+01:00
+- Ende: 2008-10-29T20:40:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaKPMpRsx9pwaRf7U-IZTFs
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1509
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWWbPOhUrMTKMco0_eeAEtSK7WPKGpu0DYeDoyWbal2r/Bekanntmachung_Rat_29.10.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeuxFGb3Iw51iVB2MKm6iKXd1VofNrGb9qKFD-rZoo7J/Oeffentliche_Niederschrift_Rat_29.10.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Schaffung von Reitwegen im Bereich Driland (Jugendwartin des Reitvereins Rüenberg e.V.)
+- TOP 2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Niederschrift vom 24.09.2008
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Modernisierung des städtischen Protokollwesens; Antrag der FDP-Fraktion vom 15.09.2008 - 16 Jastimmen, 21 Neinstimmen, 0 Enthaltungen
+- TOP 4.2: Verkehrssituation im Ortsteil Epe, Wilhelmstraße; Antrag der Fraktion Pro!Bürgerschaft vom 18.09.2008
+- TOP 4.3: Resolution an die Landesregierung zur Änderung des Sparkassengesetzes; Antrag der SPD-Fraktion vom 22.09.2008
+- TOP 5.: Haushaltswirtschaftliche Sperre gem. § 24 Gemeindehaushaltsverordnung (GemHVO) - Ohne Abstimmung
+- TOP 6.: Bestellung des Fachdienstleiters –örtliche Rechnungsprüfung- - 16 Jastimmen, 1 Neinstimmen, 21 Enthaltungen
+- TOP 7.: Antrag der Hermann-Löns-Schule auf Einrichtung einer offenen Ganztagsschule - 37 Jastimmen, 0 Neinstimmen, 1 Enthaltungen
+- TOP 8.: Instandsetzung des Wasserturms am Eschweg Rückgabe der Zuwendung des Landes NRW aus dem Denkmalförderprogramm 2008 Anmeldung der Maßnahme für das Denkmalförderprgramm 2009 ff. Genehmigung eines Dringlichkeitsbeschusses gem. § 60 Abs. 1 GO NRW - Einstimmig, 0 Enthaltungen
+- TOP 9.: Lärmaktionsplanung gem. § 47 a-f Bundesimmissionschutzgesetz - Einstimmig, 1 Enthaltungen
+- TOP 10.: Bebauungsplan Nr. 109 "Gewerbegebiet an der Königstraße", Stadtteil Gronau 1. Aufhebung des Aufstellungsbeschlusses vom 24.11.1999 2. Beschluss über die Aufstellung eines einfachen Bebauungsplanes nach § 9 Abs. 2a BauGB im nicht beplanten Innenbereich - Einstimmig, 1 Enthaltungen
+- TOP 11.: Bebauungsplan Nr. 221 "Gewerbegebiet Lauerenz", 1. vereinfachte Änderung, Stadtteil Epe 1. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 2. Satzungsbeschluss - 34 Jastimmen, 3 Neinstimmen, 1 Enthaltungen
+- TOP 12.: Bebauungsplan Nr. 139 "Dibeliusstraße", Stadtteil Gronau Beschluss über die Aufstellung eines einfachen Bebauungsplanes nach § 9 Abs. 2a BauGB im nicht beplanten Innenbereich - 34 Jastimmen, 4 Neinstimmen, 0 Enthaltungen
+- TOP 13.: Umsetzung der Aktion "Stolpersteine" in Gronau - Einstimmig, 0 Enthaltungen
+- TOP 14.: Mitteilungen der Verwaltung
+- TOP 15.: Anfragen
+- TOP 15.1: Personelle Ausstattung der Kitas (RM Krause)
+- TOP 15.2: Planung des Eper Kirchvorplatzes an die UWG-Fraktion (RM von Borczyskowski)
+- TOP 15.3: Interesse der UWG-Fraktion an einer Baumpatenschaft (RM von Borczyskowski)
+- TOP 15.4: Sachstand zum Erhalt der "Weißen Dame" (RM Walkowiak)
+- TOP 15.5: Markierungsarbeiten an der Spinnereistraße (RM Blöding)
+- TOP 15.6: Oberflächenwasserabläufe der Ahauser Straße (RM Tillmann)
+- TOP 15.7: Demografischer Wandel in Gronau (RM Detert)
+- TOP 15.8: Bahnübergang der Vereinsstraße (RM Manfred Lenz)
+- TOP 15.9: Erweiterungsbau der Urenco Deutschland GmbH (RM Buchholz)
+- TOP 15.10: Regenrinne im Fahrradweg der Bahnunterführung (RM Buchholz)
+- TOP 15.11: Sachstand "Runder Tisch" für das rock´n´popmuseum (RM Buchholz)
+- TOP 15.12: Führung des Radweges am ehemaligen Laborgebäude (RM Buchholz)
+- TOP 15.13: Auslaufgelände für Hunde vorgeschrieben? (RM Buchholz)
+- TOP 15.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.15: Bahnsteige im Stadtgebiet reinigen (RM Gerwens)
+- TOP 15.16: Ausschilderung des rock´n´popmuseums anpassen (RM Doetkotte)
+- TOP 15.17: Sanierung des alten Rathausturms (RM Raad)
+- TOP 15.18: Fortschritt im B-Plan des Geländes der ehemaligen Baumwollspinnerei Gronau (RM Bartels)
