@@ -1,8 +1,8 @@
 # In diese Liste werden alle gemeinnützigen Einrichtungen aufgenommen, die um Zuweisung von Geldauflagen in Strafverfahren nachgesucht und die nach dieser Verwaltungsvorschrift erforderlichen Unterlagen vorgelegt haben. 3. Die Liste wird in drei Abteil
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2004-06-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/3622.2
+- Datum: 2008-10-29 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/3622.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -98,7 +98,8 @@ Eine gemeinnützige Einrichtung wird erst dann in die Liste aufgenommen, wenn de
 
 a)
 
-eine Bescheinigung oder ein Bescheid über die Gemeinnützigkeit der Einrichtung, zum Beispiel ein Steuerbescheid oder Freistellungsbescheid nach § 5 Abs. 1 Nr. 9 Körperschaftssteuergesetzes (KStG) in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4144), das zuletzt durch Artikel 11 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076, 3085) geändert worden ist, in der jeweils geltenden Fassung oder § 3 Nr. 6 Gewerbesteuergesetz (GewStG) in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4167), das zuletzt durch Artikel 12 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076, 3086) geändert worden ist, in der jeweils geltenden Fassung,
+eine Bescheinigung oder ein Bescheid über die Gemeinnützigkeit der Einrichtung, zum Beispiel ein Steuerbescheid oder Freistellungsbescheid nach § 5 Abs. 1 Nr. 9 Körperschaftssteuergesetzes (
+KStG) in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4144), das zuletzt durch Artikel 11 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076, 3085) geändert worden ist, in der jeweils geltenden Fassung oder § 3 Nr. 6 Gewerbesteuergesetz (GewStG) in der Fassung der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4167), das zuletzt durch Artikel 12 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076, 3086) geändert worden ist, in der jeweils geltenden Fassung,
 
 b)
 
@@ -169,10 +170,6 @@ Statistische Erfassung
 Der Präsident des Oberlandesgerichts erfasst die den gemeinnützigen Einrichtungen zugewiesenen Geldauflagen und tatsächlich zugeflossenen Gelder für jedes Kalenderjahr aufgrund der eingegangenen Mitteilungen in einem Verzeichnis.
 
 2.
-
-Soweit Mitteilungen nach Ziffer I Nr. 6 Buchst. c nicht fristgerecht eingegangen sind, sind sie mit Hinweis auf Ziffer I Nr. 8 und Nr. 9 Satz 2 mit einer Frist von vier Wochen anzumahnen.
-
-3.
 
 Der Präsident des Oberlandesgerichts übersendet jeweils einen Abdruck des von ihm erstellten Verzeichnisses an
 
