@@ -1,0 +1,6 @@
+# TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 17.06.2008 -öffentlicher Teil-
+
+- Sitzung: Bauverwaltungsausschuss (2008-10-30)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/10650
