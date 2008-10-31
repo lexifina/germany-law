@@ -1,0 +1,51 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-10-31T16:00:00+01:00
+- Ende: 2008-10-31T19:10:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2431
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2431
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126025.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126025.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126025.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung Beschlussfähig - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Polizeistatistik - zur Kenntnis genommen
+- TOP 5: Straßenausbau Auf'm Rott - zur Kenntnis genommen
+- TOP 6: Umbau und Erweiterung der Jugendfreizeiteinrichtung Altenbrückstraße 14 - Bau- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 7: Trödelmarkt Spangerstraße - zur Kenntnis genommen
+- TOP 8: Am Scheitenwege - zur Kenntnis genommen
+- TOP 9: Schiedsmann - zur Kenntnis genommen
+- TOP 10: Festlegung von Sitzungsterminen für das Jahr 2009 - zur Kenntnis genommen
+- TOP 11: Optimierung des ruhenden Verkehrs - zur Kenntnis genommen
+- TOP 12: Anfrage: Instandsetzung des Regenrückhaltebeckens - zur Kenntnis genommen
+- TOP 13: Anfrage: Stand der Deichplanung - zur Kenntnis genommen
+- TOP 14: Anfrage: Friedhof Itter
+- TOP 15: Anfrage: Schrägparkplätze Schimmelpfennigstraße - zur Kenntnis genommen
+- TOP 16: Anfrage: Flugbewegungen über dem Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 17: Anfrage: Radfahrerschutzstreifen - zur Kenntnis genommen
+- TOP 18: Anfrage: Parkplatz Kölner Landstraße - zur Kenntnis genommen
+- TOP 19: Anfrage: Tempo 100 auf der A 59 - zur Kenntnis genommen
+- TOP 20: Antrag: Hitdorfweg, Verkehrsberuhigter Bereich - zur Kenntnis genommen
+- TOP 21: Antrag: Parkverbot Neuenkampstraße - zur Kenntnis genommen
+- TOP 22: Antrag: Beleuchtung Paulsmühlenstraße - zur Kenntnis genommen
+- TOP 23: Antrag: Radwegverbindung Bayreuther Straße - zur Kenntnis genommen
+- TOP 24: Antrag: Altes Krankenhaus Benrath - zur Kenntnis genommen
+- TOP 25: Antrag: Hundeauslaufplatz - zur Kenntnis genommen
+- TOP 26: Antrag: Hausnummer-Hinweisschilder im Bereich Tiroler Weg - zur Kenntnis genommen
+- TOP 27: Antrag: Parkmöglichkeiten auf dem Tiroler Weg - zur Kenntnis genommen
+- TOP 28: Antrag: Verkehrsberuhigung in der Mergelgasse - zur Kenntnis genommen
+- TOP 29: Verfügungsmittel: Pauls-Mühler Jecke e.V. - zur Kenntnis genommen
+- TOP 30: Verfügungsmittel: Heimatverein Holthausen - zur Kenntnis genommen
+- TOP 31: Verfügungsmittel: Seelsorgeeinheit Wersten - zur Kenntnis genommen
+- TOP 32: Verfügungsmittel: Benrather Kulturkreis - zur Kenntnis genommen
+- TOP 33: Verfügungsmittel: Bürgerhaus Benrath, Behelfsmäßige Dach-Instandsetzung des Nebengebäudes - zur Kenntnis genommen
+- TOP 34: Sachstandsbericht Bauunterhalt - zur Kenntnis genommen
