@@ -1,0 +1,53 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-10-31T14:00:00+01:00
+- Ende: 2008-10-31T00:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2430
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2430
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126020.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126020.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126020.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 4: B-Pl.5477/123-Kö-Bogen,1BA,Stell.;Änd.;Satz. - mehrheitlich abgelehnt
+- TOP 5: Lichtmasterplan, Teil 2 (weitere Gremien) - einstimmig beschlossen
+- TOP 6: Verknüpfungselement für den zweiten Grünen Ring - einstimmig beschlossen
+- TOP 7: Altestadt 2 - mehrheitlich abgelehnt
+- TOP 8: Worringer Platz - einstimmig beschlossen
+- TOP 9: Umbau Konrad-Adenauer-Platz /Grundsatzbeschluss - einstimmig beschlossen
+- TOP 10: Optimierung des ruhenden Verkehrs - mehrheitlich beschlossen
+- TOP 11: Scheibenstraße - Öffnung der Einbahnstraße - einstimmig beschlossen
+- TOP 12: Neubau Öffentliche Grünanlage mit Kinderspielplätzen Neue Stadtquartiere Derendorf - einstimmig beschlossen
+- TOP 13: Baumpflanzungen Blumenthalstraße - einstimmig beschlossen
+- TOP 14: Baumpflanzung Bagelstraße - einstimmig beschlossen
+- TOP 15: Baumpflanzung Ulmenstraße 90 - einstimmig beschlossen
+- TOP 16: Namensänderung Städt. Agnes-Miegel-Realschule - mehrheitlich beschlossen
+- TOP 17: Weihnachtsmarkt auf der Nordstraße - einstimmig beschlossen
+- TOP 18: Antikmärkte 2009 - einstimmig beschlossen
+- TOP 19: Wahl einer Schiedsperson - einstimmig beschlossen
+- TOP 20: Sitzungstermine für das Jahr 2009 - einstimmig beschlossen
+- TOP 21: Sommersstraße - mehrheitlich beschlossen
+- TOP 22: Geschwindigkeitsbeschränkung auf der Tußmannstraße - einstimmig beschlossen
+- TOP 23: Altstadt Abfallbehälter - einstimmig beschlossen
+- TOP 24: Umgestaltung westlicher Teil Maximilian-Weyhe-Allee - mehrheitlich beschlossen
+- TOP 25: Gestaltung der Fachhochschule in Derendorf - einstimmig beschlossen
+- TOP 26: Baumfällungen im bereich Derendorf / Golzheim - einstimmig beschlossen
+- TOP 27: Ortstermin auf dem Gelände Tannenstraße - einstimmig beschlossen
+- TOP 28: Baumfällungen auf dem Kasernengelände - einstimmig beschlossen
+- TOP 29: Ampel Roßstraße - einstimmig beschlossen
+- TOP 30: Kanonierstraße - einstimmig beschlossen
+- TOP 31: Denkmalschutz Kaiserswerther Straße - zur Kenntnis genommen
+- TOP 32: Marktfläche Carlsplatz - zur Kenntnis genommen
+- TOP 33: Neubepflanzung der Baumscheiben - zur Kenntnis genommen
+- TOP 34: Paketpost - zur Kenntnis genommen
+- TOP 35: Glockenstraße - zur Kenntnis genommen
+- TOP 36: Mitteilungen der Verwaltung - zur Kenntnis genommen
