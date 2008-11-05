@@ -1,0 +1,51 @@
+# 32. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-11-05T17:16:00+01:00
+- Ende: 2008-11-05T20:03:00+01:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6281
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6281
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00271870.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der UWG/ödp Fraktion an den Rat Nr. A-R/0042/2008, - mehrheitlich beschlossen
+- TOP 2.2: Antrag A-R/0044/2008 der Fraktion Bündnis 90/Die Grünen/GAL vom 28.08.2008 an den Rat "Entwicklung eines Verkehrsberuhigungskonzeptes für Handorf" - mehrheitlich beschlossen
+- TOP 2.3: Haltepunkt Handorf planen - Eisenbahnstrecke Münster - Warendorf beschleunigen Haltepunkt Handorf planen - Eisenbahnstrecke Münster - Warendorf beschleunigen Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat ( A-R/0043/2008) - mehrheitlich beschlossen
+- TOP 2.4: Antrag der SPD-Fraktion an den Rat Nr. A-R/0047/2008 - einstimmig beschlossen
+- TOP 2.5: Antrag der SPD-Fraktion an den Rat Nr. A-R/0048/2008 - einstimmig beschlossen
+- TOP 2.6: Antrag der SPD-Fraktion an den Rat Nr.0038/2008 vom 13.08.2008: "Mehr Platz für Fahrräder in der Innenstadt" - einstimmig beschlossen
+- TOP 2.7: Antrag der Ratsfraktion Bündnis 90/Die Grünen/GAL vom 16.09.2008 - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 3: Bericht zu den Städtepartnerschaften und Städteverbindungen - einstimmig beschlossen
+- TOP 4: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2008 - ohne Beschlussfassung geschoben
+- TOP 5: NKF-Gesamtabschluss für die Stadt Münster (ab 2010) / Probeabschluss für Ende 2009 - einstimmig beschlossen
+- TOP 6: Bericht über die Beteiligungen der Stadt Münster im Jahr 2007 (Beteiligungsbericht 2007) - zur Kenntnis genommen
+- TOP 7: Veräußerung eines Geschäftsanteils an der items GmbH an die Stadtwerke Osnabrück AG - einstimmig beschlossen
+- TOP 8: Wirtschaftsförderung Münster GmbH: Änderung der Gesellschafterstruktur und des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 9: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 9.1: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01. August 2009 durch Einführung eines zusätzlichen Senioren-Abos 60 plus - einstimmig beschlossen
+- TOP 9.2: 6. Satzung zur Änderung der Benutzungs- und Gebührenordnung für die Stadtbücherei Münster - ohne Beschlussfassung geschoben
+- TOP 9.3: Entgeltordnung für die Stadtbücherei - ohne Beschlussfassung geschoben
+- TOP 9.4: Änderung der Gebührensatzung der Stadt Münster für die Westfälische Schule für Musik - ohne Beschlussfassung geschoben
+- TOP 10: NRW-Sportschule - Bau und Betrieb des Sportinternats in Münster, hier: Investorenmodell und Trägerschaft - ohne Beschlussfassung geschoben
+- TOP 11: Neuausrichtung der Jugendgerichtshilfe in Münster - einstimmig beschlossen
+- TOP 12: Beteiligung eines anerkannten Trägers der freien Jugendhilfe an der Aufgabenwahrnehmung "Vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen (hier: Jungen von 13 - 18 Jahren) gemäß § 42 SGB VIII" - einstimmig beschlossen
+- TOP 13: Betrieblich unterstützte Kinderbetreuungsangebote - einstimmig beschlossen
+- TOP 14: Trägerschaftsentscheidung für die Kombi-Einrichtung in Sprakel - einstimmig beschlossen
+- TOP 15: Bauleitplanung
+- TOP 15.1: Stadtbezirk Mitte
+- TOP 15.1.1: Bebauungsplan Nr. 522 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 15.2: Stadtbezirk West
+- TOP 15.2.1: Bebauungsplan Nr. 516: Gievenbeck - Austermannstraße / Parkanlage Kinderbachtal - mehrheitlich beschlossen
+- TOP 15.2.2: Bebauungsplan Nr. 508: Satzungsbeschluss - einstimmig beschlossen
+- TOP 16: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 17: Anhörung zur Bestellung der Mitglieder des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 18: Verschiedenes
