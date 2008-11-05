@@ -1,0 +1,56 @@
+# 34. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-11-05T18:07:00+01:00
+- Ende: 2008-11-05T20:04:00+01:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6282
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6282
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00272267.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 7.1: Fahrradweg an der Warendorfer Straße - verwiesen
+- TOP 8: Anregungen des Ausländerbeirates
+- TOP 9: Bericht zu den Städtepartnerschaften und Städteverbindungen - einstimmig beschlossen
+- TOP 10: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2008 - mehrheitlich beschlossen
+- TOP 11: NKF-Gesamtabschluss für die Stadt Münster (ab 2010) / Probeabschluss für Ende 2009 - einstimmig beschlossen
+- TOP 12: Bericht über die Beteiligungen der Stadt Münster im Jahr 2007 (Beteiligungsbericht 2007) - zur Kenntnis genommen
+- TOP 13: Veräußerung eines Geschäftsanteils an der items GmbH an die Stadtwerke Osnabrück AG - einstimmig beschlossen
+- TOP 14: Wirtschaftsförderung Münster GmbH: Änderung der Gesellschafterstruktur und des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 15: Änderung von Tarifen Gebühren und Entgelten
+- TOP 15.1: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01. August 2009 durch Einführung eines zusätzlichen Senioren-Abos 60 plus - einstimmig beschlossen
+- TOP 15.2: 6. Satzung zur Änderung der Benutzungs- und Gebührenordnung für die Stadtbücherei Münster - mehrheitlich beschlossen
+- TOP 15.3: Entgeltordnung für die Stadtbücherei - einstimmig beschlossen
+- TOP 15.4: Änderung der Gebührensatzung der Stadt Münster für die Westfälische Schule für Musik - mehrheitlich beschlossen
+- TOP 16: NRW-Sportschule - Bau und Betrieb des Sportinternats in Münster, hier: Investorenmodell und Trägerschaft - mehrheitlich geändert beschlossen
+- TOP 17: Neuausrichtung der Jugendgerichtshilfe in Münster - einstimmig beschlossen
+- TOP 18: Beteiligung eines anerkannten Trägers der freien Jugendhilfe an der Aufgabenwahrnehmung "Vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen (hier: Jungen von 13 - 18 Jahren) gemäß § 42 SGB VIII" - einstimmig beschlossen
+- TOP 19: Betrieblich unterstützte Kinderbetreuungsangebote - einstimmig beschlossen
+- TOP 20: Trägerschaftsentscheidung für die Kombi-Einrichtung in Sprakel - einstimmig beschlossen
+- TOP 21: Bauleitplanung
+- TOP 21.1: Stadtbezirk Münster-Mitte
+- TOP 21.1.1: Bebauungsplan Nr. 522 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 21.2: Stadtbezirk Münster-West
+- TOP 21.2.1: Bebauungsplan Nr. 516: Gievenbeck - Austermannstraße / Parkanlage Kinderbachtal - mehrheitlich beschlossen
+- TOP 21.2.2: Bebauungsplan Nr. 508: Satzungsbeschluss - einstimmig beschlossen
+- TOP 22: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 23: Anhörung zur Bestellung der Mitglieder des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 24: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 25: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 25.1: "Haus der kleinen Forscher" Naturwissenschaftliche Bildung auch schon für die Kleinsten - verwiesen
+- TOP 25.2: Energieberatung in der Verbraucherzentrale fortführen - verwiesen
+- TOP 25.3: Kulturwirtschaft als Standortfaktor - verwiesen
+- TOP 25.4: Modellprojekt "Wohnen für Hilfe" - verwiesen
+- TOP 25.5: Modellprojekt mit alternativen Antriebskonzepten für die städtische Fahrzeugflotte auflegen - Der Verantwortung als "Bundeshauptstadt im Klimaschutz" gerecht werden - verwiesen
+- TOP 26: Verschiedenes
