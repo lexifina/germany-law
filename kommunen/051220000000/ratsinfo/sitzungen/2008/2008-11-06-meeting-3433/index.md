@@ -1,0 +1,56 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2008-11-06T16:00:00+01:00
+- Ende: 2008-11-06T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZT6GDKr8z7bfWQfMJ7WHpsc
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3433
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb3UsL_vRoBBL4EEif7ZVzfROLPWA3FxhzlF4L387bnt/Oeffentliche_Niederschrift_Rat_06.11.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Protokoll
+- TOP 4: Umbesetzung von Ausschüssen und Gremien
+- TOP 5: Verwaltungsausschuss der Agentur für Arbeit Solingen
+- TOP 6: Bergische Volkshochschule – Zweckverband der Städte Solingen - Wuppertal für allgemeine und berufliche Weiterbildung sowie Familienbildung
+- TOP 7: Reform der Fraktionsfinanzierung
+- TOP 8: Mittelstandsorientierte Kommunalverwaltung
+- TOP 9: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2009
+- TOP 10: Mitgliedschaft der Stadt Solingen im Zweckverband Gemeinsame Kommunale Datenverarbeitung Rhein-Sieg/Oberberg (GKD)
+- TOP 11: Entsendung eines Vertreters bzw. Stellvertreters der Stadt Solingen in den Verbandsrat des Wupperverbandes
+- TOP 12: I. Nachtrag zum Stellenplan 2008/ Stellenplan 2009
+- TOP 13: Wirtschaftsplan 2009 der Altenzentren der Stadt Solingen
+- TOP 14: Antrag auf kostenfreies Parken auf städtisch bewirtschafteten Flächen an den Adventswochenenden
+- TOP 15: Ganztagsoffensive für die Sekundarstufe I
+- TOP 16: Ganztagsoffensive für die Sekundarstufe I
+- TOP 17: Ganztagsoffensive für die Sekundarstufe I
+- TOP 18: Ganztagsoffensive für die Sekundarstufe I
+- TOP 19: Ganztagsoffensive für die Sekundarstufe I
+- TOP 20: Eheleute Carl-Ruß-Stiftung
+- TOP 21: Zustimmung zu Mehrausgaben gemäß § 83 GO NRW
+- TOP 22: Änderung des Bäderkonzeptes 2007
+- TOP 23: Sanierung und Erweiterung des Sportbades Klingenhalle
+- TOP 24: Bauleitplanung Graf-Wilhelm-Platz/ Neumarkt
+- TOP 25: Aussprache zum Rathausneubau
+- TOP 26: Planänderungsverfahren CO-Pipeline
+- TOP 27: Verschiedenes
+- TOP 28: Auswirkung der Finanzkrise auf durch die Verwaltung bzw. Eigenbetriebe getätigte Derivatgeschäfte
+- TOP 29: Sparbemühungen im Personalbereich
+- TOP 30: Cross-Border-Leasing Geschäfte des Wupperverbandes
+- TOP 31: Anfrage der Ratsfraktion von Bündnis 90 die Grünen, offene Liste vom 27.10.2008
+- TOP 32: Europaweite Ausschreibung Rathausneubau
+- TOP 33: Auswirkungen des Konzeptes zur Umorganisation der Finanzierung der gesetzlichen Krankenversicherung
+- TOP 34: Aschenbecher vor den Verwaltungsgebäuden
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Asset Deal-Kaufvertrag zwischen der itec Informationstechnologie Solingen GmbH
+- TOP 4: Verschiedenes
+- TOP 5: Bauleitplanung Graf-Wilhelm-Platz/ Neumarkt
