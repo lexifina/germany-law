@@ -1,0 +1,87 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-11-06T14:00:00+01:00
+- Ende: 2008-11-06T20:48:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2257
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2257
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166732.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166732.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166732.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass - zur Kenntnis genommen
+- TOP 4: Anfrage aktuell d. SPD: Konkurierende Nutzungen im Hafen - zur Kenntnis genommen
+- TOP 5: Akt. Anfr. Linke: Rheinufertunnel - zur Kenntnis genommen
+- TOP 6: Anfragen - zur Kenntnis genommen
+- TOP 7: Anfr. SPD: Burg-Wächter Castello - beantwortet
+- TOP 8: Anfr. CDU: Mehrgenerationen-Wohnen - beantwortet
+- TOP 9: Anfr. CDU: Freiwilligentag - beantwortet
+- TOP 10: Anfr. Bü90: Informationsfreiheitsgesetz - beantwortet
+- TOP 11: Anfr. Linke: ZMZ - beantwortet
+- TOP 12: Anfrage Ratsfrau Frey: Barrierefreiheit Bilker Arcaden - beantwortet
+- TOP 13: Anfrage Ratsfrau Frey: Pflegestützpunkte - schriftlich beantwortet
+- TOP 14: Anfrage RH Reichert: Wellnessbereich am Elbsee - schriftlich beantwortet
+- TOP 15: Anfrage Ratsfrau Bellstedt: Schlosspark Benrath - schriftlich beantwortet
+- TOP 16: Anfrage Bü90/Grü: Kosten der Verkehrsanlagen Kö-Bogen - schriftlich beantwortet
+- TOP 17: Bericht des Kämmerers bzgl. Finanzen der Stadt - zur Kenntnis genommen
+- TOP 18: Anträge - zur Kenntnis genommen
+- TOP 19: Antr. Linke: Heizpilze - mehrheitlich abgelehnt
+- TOP 20: ÄA Bü90/Grü: "Heizpilze" verhindern - mehrheitlich abgelehnt
+- TOP 21: Antr. CDU/FDP: Lokale Zentren - mehrheitlich beschlossen
+- TOP 22: ÄA Bü90/Grü: Lokale Zentren - mehrheitlich abgelehnt
+- TOP 23: Antrag SPD: Ankauf der LEG-Wohnungsbestände. - mehrheitlich abgelehnt
+- TOP 24: ÄA Bü90/Grü: Ankauf der LEG-Wohnungsbestände - mehrheitlich abgelehnt
+- TOP 25: Antrag SPD: Revitalisierung der Schadowstraße - mehrheitlich abgelehnt
+- TOP 26: Antr. CDU/FDP: Schuldnerberatung - mehrheitlich beschlossen
+- TOP 27: Antrag Linke: Armutsbekämpfung - mehrheitlich abgelehnt
+- TOP 28: Antrag Linke: Öffentliche Investitionen vorziehen, Kaufkraft stärken - zurückgezogen
+- TOP 29: Antrag CDU u. FDP: Fachbericht 2008 Jugendgerichtshilfe - mehrheitlich beschlossen
+- TOP 30: Antrag SPD: Barrierefreie Stadt - mehrheitlich abgelehnt
+- TOP 31: ÄA Bü90/Grü: Barrierefreie Stadt - mehrheitlich abgelehnt
+- TOP 32: Antrag Bü90/Grü: Aufhebung des Vergabeverfahrens Kö-Bogen - mehrheitlich abgelehnt
+- TOP 33: Antrag SPD: Neue Perspektive für den Kö-Bogen - zur Kenntnis genommen
+- TOP 34: Antr. SPD: Kö-Bogen - mehrheitlich abgelehnt
+- TOP 35: Gültigkeit OB-Wahl - einstimmig beschlossen
+- TOP 36: Rechenschaftsbericht zur Jahresrechnung 2007 - einstimmig beschlossen
+- TOP 37: Prüfung der Jahresrechnung 2007 - einstimmig beschlossen
+- TOP 38: Kämmererliste - mehrheitlich beschlossen
+- TOP 39: Befragung zum Risikoverhalten Jugendlicher - zurückgezogen
+- TOP 40: Düsseldorfer Bürgerhaushalt - zur Kenntnis genommen
+- TOP 41: Förderprogramm "Klimafreundliches Wohnen" - zurückgezogen
+- TOP 42: Thermographieaktion 2008/2009 - einstimmig beschlossen
+- TOP 43: Quadriennale GmbH; - Neugründung einer Gesellschaft - - mehrheitlich beschlossen
+- TOP 44: ÄA Bü90: Quadriennale - mehrheitlich abgelehnt
+- TOP 45: üpl. HzE - einstimmig beschlossen
+- TOP 46: Zuwendungen des Landes für Investitionen Ausbau U3 - kommunale Mittel - einstimmig beschlossen
+- TOP 47: Graf-Recke Straße 162 +170 - Sanierung der Heizungsanlage - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 48: Neubau Notarztstation Hassels - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 49: Jahresabschluss 2007 und Lagebericht 2007 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 50: Niederkasseler Str. 36 - Neubau einer Gymnastikhalle mit Räumlichkeiten für die Offene Ganztagsschule - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 51: Umbau und Erweiterung der Jugendfreizeiteinrichtung Altenbrückstraße 14 - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 52: Verlängerung der Stadtbahnlinie U 79 bis zur Universität Ost - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 53: Fernbusahnhof Worringer Straße -BuF - - zur Kenntnis genommen
+- TOP 54: Fernbusbahnhof Worringer Straße/BUF/Neufassung - einstimmig beschlossen
+- TOP 55: Umbau südliche Himmelgeister Straße - einstimmig beschlossen
+- TOP 56: Brandschutz in bestehenden U-Bahnanlagen - Grundsatzbeschluss - einstimmig beschlossen
+- TOP 57: Wildparkkonzept - einstimmig beschlossen
+- TOP 58: Umbesetzungen - zur Kenntnis genommen
+- TOP 59: Umbesetzungen - einstimmig beschlossen
+- TOP 60: Wiederbestellung von Mitgliedern des Gutachterausschusses - einstimmig beschlossen
+- TOP 61: AR Arena
+- TOP 62: Antenne Düsseldorf - einstimmig beschlossen
+- TOP 63: Namensänderung Städt. Agnes-Miegel-Realschule - einstimmig beschlossen
+- TOP 64: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 65: BPl5178/056-Südl.Hansaallee-Stell.;Änd.;Satzung - einstimmig beschlossen
+- TOP 66: B-Pl.5477/123-Kö-Bogen,1BA,Stell.;Änd.;Satz. - mehrheitlich beschlossen
+- TOP 67: Erschließungs-Beschluss Am Scheitenwege - einstimmig beschlossen
+- TOP 68: Erschließungs-Beschluss Gartenstadt Reitzenstein - einstimmig beschlossen
+- TOP 69: Erschließungs-Beschluss An der Piwipp - einstimmig beschlossen
+- TOP 70: World Games 2013
