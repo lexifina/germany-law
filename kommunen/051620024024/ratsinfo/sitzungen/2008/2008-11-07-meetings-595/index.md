@@ -1,0 +1,57 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2008-11-07T16:03:00+01:00
+- Ende: 2008-11-07T21:41:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/595
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/595
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: 115. FNP-Änderung – Grimlinghausen-Südost - (RAT071108-07131.doc)
+- TOP 3: Einführung und Verpflichtung von Stadtverordneten
+- TOP 4: Straßenbahn in der Neusser Innenstadt (RAT071108-07130.doc)
+- TOP 5: Genehmigung der Tagesordnung
+- TOP 6: Aktionsplan Friedrichstraße – LKW-Verkehr (RAT071108-07132.doc)
+- TOP 7: Antrag des City Treff Neuss e.V. auf Erlass einer Ordnungsbehördlichen Verordnung zur Öffnung der Geschäfte in der Innenstadt an vier Sonntagen im Jahr 2009 (HA231008-07003.doc)
+- TOP 8: Flächennutzungsplanänderung Nr. 116 - Stadionviertel, Preußenstraße (Marianum) - - Beschluss über die Stellungnahmen - Beschluss über die FNP-Änderung - Einholung der Genehmigung
+- TOP 9: Bebauungsplan Nr. 454 - Stadionviertel, Preußenstraße (Marianum) - - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 10: Neuausrichtung der Planungen im Bereich Hammfeld II - Antrag der Stadtratsfraktion Bündnis 90 / Die Grünen vom 08.09.2008
+- TOP 11: Genehmigung der Dringlichkeitsentscheidung Nr. 109, hier: Errichtung einer Grundschule in Neuss-Allerheiligen zum 01.08.2009 Entscheidung über das Ergebnis des Abstimmungsverfahrens zur Bestimmung der Schulart (RAT071108-06935.doc)
+- TOP 12: Errichtung einer Kindertageseinrichtung sowie eines Kinder- und Jugendzentrums in Allerheiligen (JHA110908-06728_Allerheiligen.doc)
+- TOP 13: Festellung des Jahresabschlusses zum 31.12.2007 der Stadtentwässerung Neuss und Beschluss über die Verwendung des Jahresgewinns (BA250908-06884.doc)
+- TOP 14: BPL 445 - Allerheiligen, Schule und Begegnungsstätte (Kanalbau) - (BRS160908-06838.doc)
+- TOP 15: Straßenbegleitgrün Further Straße von Berliner Platz bis Zufuhrstraße und Umgestaltung Brunnenanlage mit Platzfläche Further Straße/Wolberostraße (AUG180908-06730.doc)
+- TOP 16: Feststellung des Jahresabschlusses 2007 der Liegenschaften und Vermessung Neuss und Beschluss zur Verwendung des Jahresgewinnes sowie Entlastung der Betriebsleitung ( AWL 211008-06965.doc)
+- TOP 17: Kooperation Kindertageseinrichtungen - Grundschulen (JHA110908-06723.doc)
+- TOP 18: Namensgebung Gemeinschaftsgrundschule Weckhoven (SCH240908-06844.doc)
+- TOP 19: Mensen in städtischen Gymnasien (SCH240908-06848.doc)
+- TOP 20: Ganztagsoffensive Sekundarstufe I Umwandlung der Realschule Südstadt und des Alexander-von-Humboldt-Gymnasiums in eine gebundene Ganztagsrealschule und ein gebundenes Ganztagsgymnasium (SCH240908-06851)
+- TOP 21: Feststellung des Jahresabschlusses des Pflegeheimes Herz-Jesu zum 31.12.2007
+- TOP 22: Ergebnisverwendungsbeschluss zum Jahresabschluss des Pfelgeheims Herz-Jesu für das Jahr 2007 (SOZ301008-06700.doc)
+- TOP 23: Feststellung des Wirtschaftsplanes 2009 für das Pflegeheim Herz-Jesu (SOZ301008-06701.doc)
+- TOP 24: Wahl eines Beigeordneten: Hier: Ausschreibung der Stelle
+- TOP 25: Feststellung des Sitzverlustes aufgrund Wegfalls der Voraussetzung der Wählbarkeit (RAT071108-07031.doc)
+- TOP 26: Bebauungsplan Nr. 444 – Am Erprather Weg – - Einstellung des Verfahrens (RAT071108-07081.doc)
+- TOP 27: Einwohnerantrag gem. § 25 GO NRW der Initiative „Bahn frei für mehr Neuss“ (RAT071108-07113.doc)
+- TOP 28: Option für eine Straßenbahntrasse Batteriestraße erhalten (RAT071108-07092.doc)
+- TOP 29: Erstellung eine Baulückenkatasters für Wohn- und Gewerbeflächen (RAT071108-07093.doc)
+- TOP 30: „Wer plant die Stadt?“ – Vom BDA-NRW und der NGZ lernen (RAT071108-07106.doc)
+- TOP 31: Antrag zur Gestaltung des Werkstattverfahrens zum Jahnstadion (RAT071108-07107.doc)
+- TOP 32: Weihnachtsbeihilfe (RAT071108-07115.doc)
+- TOP 33: Öffentliches Hearing zum Thema „Bürgerbeteiligung in der Stadtplanung – Modelle, Erfahrungen und Konsequenzen für Neuss“ (RAT071108-07117.doc)
+- TOP 34: Verlängerung der Deponielaufzeit im Bereich Holzheim/Grefrath (RAT071108-06974.doc)
+- TOP 35: Einwohnerfragestunde
+- TOP 36: Erschließung Bebauungsplan Nr. 445 – Allerheiligen, Schule, Kinder- und Jugendzentrum (Straßenbau, Beleuchtung) - Planvorlage, Ausbauprogramm - (BRS160908-06751.doc)
+- TOP 37: Bebauungsplan Nr. 115/3 - Grimlinghausen, Kuhweg (West) - - Beschluss über die Stellungnahmen aus den frühzeitigen Beteiligungen - Auslegungsbeschluss
+- TOP 38: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 39: Erneuerung Schmutz- und Regenwasserkanal Bergheimer Straße – zwischen Holzheimer Weg und Eichendorffstraße (BA250908-06813.doc)
+- TOP 40: Masterplan für die Neusser Innenstadt -Antrag der FDP-Stadtratsfraktion vom 15.09.2008
+- TOP 41: Radweg Bergheimer Straße von Hubertusweg bis Eichendorffstraße einschließlich Umbau der Bushaltestelle „Neuss-Süd“ (Straßenbau, Beleuchtung) -Planvorlage, Ausbauprogramm- (BA250908-06805.doc)
+- TOP 42: Alte Münsterschule und Cretschmarhallen: gemeinsame Europaweite Ausschreibung (AWL 211008-06871.doc)
+- TOP 43: Einwohnerfragestunde
