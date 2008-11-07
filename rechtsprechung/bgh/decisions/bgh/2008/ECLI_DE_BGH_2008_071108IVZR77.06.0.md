@@ -1,0 +1,122 @@
+---
+ecli: "ECLI:DE:BGH:2008:071108IVZR77.06.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-04"
+aktenzeichen: "IV ZR 77/06"
+decided: "2008-11-07"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2008&Sort=1&Seite=102&nr=46170&anz=3634&pos=3082&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-04_NA_2008-11-07_IV_ZR_77_06_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/grundgesetz/artikel/009.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/zpo/0321a.md", "germany/bund/acts/zpo/0551.md"]
+---
+
+# Bundesgerichtshof, IV ZR 77/06 vom 2008-11-07
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+
+                   BESCHLUSS
+IV ZR 77/06
+                          vom
+
+                   7. November 2008
+
+                   in dem Rechtsstreit
+
+                                    -2-
+
+
+
+
+    Der IV. Zivilsenat des Bundesgerichtshofes hat durch den Vorsitzenden
+    Richter Terno, die Richter Seiffert, Wendt, die Richterin Dr. Kessal-Wulf
+    und den Richter Felsch
+
+
+    am 7. November 2008
+
+
+    beschlossen:
+
+
+          Die Anhörungsrüge vom 17. Oktober 2008 gegen den Senatsbeschluss vom 2. Oktober 2008 wird auf Kosten der
+          Klägerin verworfen.
+
+
+
+
+                                    Gründe:
+
+
+1          Die Anhörungsrüge ist nicht in der von § 321a Abs. 2 Satz 5 ZPO
+     vorgeschriebenen Form begründet und war deshalb als unzulässig zu
+     verwerfen (§ 321a Abs. 4 Satz 2 ZPO).
+
+
+2          1. Nach § 321a Abs. 2 Satz 5 Halbs. 2 i.V. mit Abs. 1 Satz 1 Nr. 2
+     ZPO muss in der Rügebegründung dargelegt werden, dass und inwieweit das Gericht in der angegriffenen Entscheidung den Anspruch auf
+     rechtliches Gehör in entscheidungserheblicher Weise verletzt hat. Es
+     handelt sich insoweit um eine besondere Verfahrensrüge, für deren Begründungserfordernisse ergänzend auf die Bestimmung des § 551
+     Abs. 3 Nr. 2 b ZPO zurückgegriffen werden kann (Zöller/Vollkommer,
+     ZPO 26. Aufl. § 321a Rdn. 13). Eine ordnungsgemäße Begründung
+     setzt daher voraus, dass die Tatsachen benannt werden, aus denen
+
+                                  -3-
+
+
+
+
+    sich die beanstandete Gehörsverletzung ergibt; ferner ist die Darlegung
+    der Entscheidungserheblichkeit der behaupteten Gehörsverletzung geboten. Da der Rechtsbehelf des § 321a ZPO nach einem abgeschlossenen Revisionsverfahren zur Verwirklichung des verfassungsrechtlich
+    gebotenen Maßes an Rechtsschutz nur dann erforderlich ist, wenn sich
+    die Rüge gegen eine "neue und eigenständige" Verletzung des Art. 103
+    Abs. 1 GG durch den Bundesgerichtshof selbst richtet, muss sich aus
+    der Rügebegründung gerade eine solche Verletzung des Verfahrensgrundrechts ergeben. Andernfalls ist die Anhörungsrüge als Rechtsbehelf nicht geboten und infolgedessen unzulässig (BGH, Beschlüsse vom
+    20. November 2007 - VI ZR 38/07 - NJW 2008, 923 Tz. 5; vom 13. Dezember 2007 - I ZR 47/06 - NJW 2008, 2126 Tz. 1-3; BVerfG NJW
+    2008, 2635 f.).
+
+
+3         2. Dem genügt die Rügebegründung nicht. Sie beanstandet im
+    Kern, dass angesichts der von der Klägerseite schon in den Tatsacheninstanzen umfangreich dargelegten wirtschaftlichen Verhältnisse der
+    Beklagten kein ausreichender Anlass für die Systemumstellung bei der
+    Zusatzversorgung im öffentlichen Dienst bestanden und der Senat diesen auch in der Revisionsinstanz gehaltenen Vortrag nicht ausreichend
+    beachtet habe.
+
+
+4         Der Senat hat allerdings in der angegriffenen Entscheidung ausdrücklich darauf hingewiesen, dass er den vorbezeichneten Klagvortrag
+    zur Kenntnis genommen, jedoch aus Rechtsgründen für nicht entscheidungserheblich erachtet hat, insbesondere wegen der den Tarifvertragsparteien mit Blick auf deren Tarifautonomie (Art. 9 Abs. 3 GG) zugebilligten Einschätzungsprärogative für die Beurteilung der wirtschaftlichen Situation der Beklagten und die künftige Finanzierbarkeit des von
+
+                              -4-
+
+
+
+
+ihr getragenen Zusatzversorgungssystems. Dazu verhält sich die Rügebegründung nicht. Ihr Einwand, den Tarifvertragsparteien werde in der
+angegriffenen Entscheidung eine zu weit gehende Einschätzungsprärogative zugestanden, zeigt angesichts der vorgenannten Entscheidungsgründe nicht auf, dass das Vorbringen zu den Wirtschaftsdaten der Beklagten nicht dennoch zur Kenntnis genommen und erwogen worden ist.
+Vielmehr legt die Anhörungsrüge lediglich dar, dass die Rechtsauffassung des Senats zur Tragweite des Schutzes der Tarifautonomie nach
+Art. 9 Abs. 3 GG auf Klägerseite nicht geteilt wird. Einen Verstoß gegen
+das Verfahrensgrundrecht aus Art. 103 Abs. 1 GG zeigt dies aber nicht
+
+                            -5-
+
+
+
+
+auf (vgl. BGH, Beschlüsse vom 20. November 2007 aaO Tz. 6 und vom
+13. Dezember 2007 aaO Tz. 2).
+
+
+
+
+Terno                           Seiffert                     Wendt
+
+
+          Dr. Kessal-Wulf                      Felsch
+
+
+
+
+Vorinstanzen:
+LG Karlsruhe, Entscheidung vom 03.06.2005 - 6 O 299/03 -
+OLG Karlsruhe, Entscheidung vom 09.03.2006 - 12 U 168/05 -
