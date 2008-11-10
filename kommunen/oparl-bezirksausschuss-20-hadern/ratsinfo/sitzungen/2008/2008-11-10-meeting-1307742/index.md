@@ -1,0 +1,86 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2008-11-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1307742
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1307742
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Gehweg- und Straßenreinigung in der Wilhelm-Weitling-Str. und der Platanenstr.
+- TOP 1.2.: Wertstoffcontainer in der Guardinistr. vor Haus-Nr. 59 und 63
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte
+- TOP 3.1.: UA Verkehr
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 6.1.: Öffentlich-Rechtliche Sondernutzungserlaubnis für Märkte, hier: Sondernutzung und Marktveranstaltung Christkindlmarkt in Hadern auf dem Canisiusplatz am 06.12. und 07.12.08 (Kreisverwaltungsreferat, 29.10.08)
+- TOP 7.: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Pelargonienweg 24, 1 Fichte und 1 Scheinzypresse
+- TOP 7.2.: Waldsaumstr. 2, 2 Birken und 1 Konifere
+- TOP 7.3.: Silberblattstr. 17, gem. Baumbestandsplan und Freiflächengestaltungsplan Nr. 23566
+- TOP 7.4.: Steinbrechweg 9, 1 Tanne
+- TOP 7.5.: Hochwaldstr. 12, 2 Kiefern und 2 Fichten
+- TOP 7.6.: Windeckstr. 36, 1 Tulpenbaum
+- TOP 7.7.: Waldwiesenstr. 8 h, 1 Birke
+- TOP 7.8.: Pfingstrosenstr. 14, 1 Schwarzkiefer
+- TOP 7.9.: Würmtalstr. 39 a, 3 serbische Fichten
+- TOP 7.10.: Pfingstrosenstr. 14 a, 1 Rotbuche
+- TOP 7.11.: Gladiolenstr. 5, 1 Ahorn; Antrag wurde bereits zurückgezogen
+- TOP 7.12.: Windeckstr. 89, 1 Birke
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Listen des Baureferates vom 07.10.08
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: München macht Raum für Familien, Broschüre in der Reihe "PERSPEKTIVE MÜNCHEN" - Analyse, Münchner Beitrag zum 7. Familienbericht der Bundesregierung (Referat für Stadtplanung und Bauordnung, 25.09.08)
+- TOP 8.2.: Fürstenrieder Str. 220, Errichtung einer Werbeanlage (Referat für Stadtplanung und Bauordnung, 10.10.08)
+- TOP 8.3.: Ergebnis der ADFC-Aktion "Die 3 dringendsten Radlerwünsche an den neuen Stadtrat" (ADFC, 30.09.08)
+- TOP 8.4.: Information über Sanierung und Modernisierung des U-Bahnhofs "Münchner Freiheit" (MVG, 01.10.08)
+- TOP 8.5.: Zuschuss für den Einbau einer Trennwand im Kinderhaus am Wolkerweg (Kindertreff Wolkerweg, 17.10.08)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Straßenführung A 96 Ausfahrt Laim stadteinwärts (Kreisverwaltungsreferat, 16.10.08)
+- TOP 9.2.: Umlaufsperre Haderner Steg / Einmündung Willibaldstr. (Baureferat, 14.10.08)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Verkehrsprobleme Großhadern (PI 41, 13.10.08)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Nachqualifizierung und Revision der Denkmalliste (Schr. BA 13, BA 19)
+- TOP 11.2.: Erfahrungsbericht Baumschutzverordnung (Schr. BA 19)
+- TOP 11.3.: Einladung: Bundesweite Fachtagung "Kinder haben Rechte" in München am 17./ 18.11.08 - neue Kinderrechte-Kampagne geplant (Sozialreferat, 29.09.08)
+- TOP 11.4.: Einladung: Das Schulreferat trifft die Bezirksausschüsse am 20.11.08 um 16.00 Uhr (Schul- und Kultusreferat, 13.10.08)
+- TOP 11.5.: Mitteilung der Termine für 2009 "Das Schulreferat trifft die Bezirksausschüsse" (Schul- und Kultusreferat, 16.10.08)
+- TOP 11.6.: Seniorenvertretungswahl 2009 (Sozialreferat, 29.10.08)
+- TOP 11.7.: Einladung zur Informationsveranstaltung "Kommunales Wohnungsbauprogramm (KomPro)" am Donnerstag, 13.11.08 von 19-21 Uhr (Sozialreferat, 30.10.08)
+- TOP 11.8.: Informationsveranstaltung des Referates für Stadtplanung und Bauordnung für die Bezirksausschüsse, Überblick über baurechtliche Aspekte der Arbeit der Bezirksausschüsse: Montag, 24.11.08: Bauleitplanung Mittwoch, 03.12.08: Baugenehmigungsverfahren, jeweils um 18.00 Uhr (Referat für Stadtplanung und Bauordnung, 31.10.08)
+- TOP 11.9.: Leitlinie Gesundheit: Online-Befragung gestartet (Referat für Gesundheit und Umwelt, 05.11.08)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 08.10.2008: Weiterer Ausbau der Schulsozialarbeit an Grund-, Haupt- und Förderschulen Trägerschaftsvergabe für die neuen Standorte Verwendung von Restmitteln und Umwidmung von Finanzmitteln im Bereich Schulsozialarbeit, insbesondere zur Grundschule an der Senftenauerstr. als vorhandenem Standort (S. 5) und zur Grundschule an der Blumenauer Str. als neuem Standort (S. 7)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Schul- und Sportausschusses vom 24.09.2008: Nutzungsgebühr für Schulturnhallen BA-Antr. Nr. 2763 vom 14.01.2008 (Die bisherige Regelung wird beibehalten, da es sich um steuerlich verstrickte "Betriebe gewerblicher Art" handelt.)
+- TOP 12.2.: Beschluss des Bauausschusses vom 30.09.2008: Bessere Kennzeichnung der Automaten in den jeweiligen Parklizenzgebieten
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008: Europaarbeit des Referates für Stadtplanung und Bauordnung und aktuelle Entwicklungen der "städtischen Dimension" auf europäischer Ebene
+- TOP 12.1.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.10.2008: Haushaltsplan 2009, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere zum ASZ Kleinhadern-Blumenau des Caritas-Verbandes, der in 2009 207.101,- ? erhalten wird und zur Altenwohnanlage Konrad-Dreher-Str. des Caritas-Verbandes, die in 2009 50.267,- ? erhalten wird
+- TOP 12.2.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.10.2008: Haushaltsplan 2009, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale
+- TOP 12.3.: Beschluss des Bauausschusses vom 16.10.2008: Verwendung flacherer, gerundeter Randsteine; Entschärfung bisheriger scharfer und hoher Randsteine (Ablehnung beantragt)
+- TOP 12.4.: Beschluss des Schul- und Sportausschusses vom 12.11.2008: Abbau des Investitionsstatus auf städtischen und Vereinssportanlagen Sportinfrastruktur stärken II, Sanierung von Sportanlagen beschleunigen Änderung des Mehrjahresinvestitionsprogramms (MIP) 2008 - 2012, insbesondere - zum Neubau eines Kunstrasenplatzes am Wolkerweg 17 für 800.000,- ? (Priorität A laut Anlage 3) - zum Neubau einer Lärmschutzwand am Wolkerweg 17 für 340.000,- ? (Priorität C laut Anlage 3) - zur Baumaßnahme des TSV Großhadern (Großinstandsetzung von Turnhalle und Judo-Halle) für 170.000,- ? (Zuschuss 51.000,- ? laut Anlage 4) - zum Neubau einer Sporthalle nach dem "Haderner Modell" für 1.140.000,- ? (Zuschuss 455.000,- ? laut Anlage 4)
+- TOP 12.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.10.2008: Haushaltsplan 2009, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum Familienzentrum Hadern-Blumenau, das ab 2009 30.000,- ? + 25.000,- ? = 55.000,- ? zusätzlich erhalten soll (S. 10 und 11) - zum Kinderhaus Wolkerweg des Bayerischen Jugendrings (BJR) (Zuschuss 198.148,- ? laut Anlage 1) - zum PfiffTEEN Treffpunkt für Jugendliche des BJR (Zuschuss 307.167,- ? laut Anlage 1) - zum Treff 21 Schule-Beruf e.V. (Zuschuss 341.335,- ? laut Anlage 1) - zur Nachbarschaft Neuhadern Bewohnertreff des Deutschen Paritätischen Wohlfahrtsverbandes (Zuschuss 98.518,- ? laut Anlage 1, Abschnitt 3.2.2)
+- TOP 12.6.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.10.2008: Haushaltsplan 2009, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum Konzept GRÜN, Bewohnertreff Hadern (13.000,- ? laut Anlage 1) - zur Blumenau (55.000,- ? laut Anlage 1, Abschnitt 4.1.7) - zum KOMPRO MÜNCHEN, Krokusstr. 73 (3.000,- ? laut Anlage 1, Abschnitt 4.1.8)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.10.2008: PERSPEKTIVE MÜNCHEN - Leitlinien, Konzepte, Programme Handlungskonzept: Herausforderungen des soziodemografischen Wandels für die Stadtentwicklung, insbesondere zum Projekt "Integration macht Schule" in Hadern in den Jahren 2008-2010 (S. 93)
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.10.2008: Schutz der Münchner Vorgärten a) Förmliche Aufhebung des § 3 der Satzung der Landeshauptstadt München über Einfriedungen und Vorgärten ( Vorgartensatzung) b) Planungsrechtliche Situation der Münchner Vorgärten c) Weiteres Vorgehen zum Schutz der Münchner Vorgärten d) Zulassung von Carports in offener Bauweise vor bestehenden Garagenzufahrten, insbesondere zur Stellungnahme des BA Hadern, der eine Höhenbegrenzung bei 1,70 m für erforderlich hält (Anlage 3, S. 8)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2008: Realisierungswettbewerbe "Innovativer Wohnungsbau Hasenbergl", Modellvorhaben e% - Energieeffizienter Wohnungsbau
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
