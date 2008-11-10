@@ -1,0 +1,60 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2008-11-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1346890
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1346890
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Vorstellung des interkulturellen Integrationskonzeptes
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Implerstraße 51a; Wohngruppe für unbegleitet minderjährige Flüchtlinge
+- TOP 3.2.: Nachnutzung der städt. Kindertagesstätte Johannes-Timm-Str. 9; Sicherung der Räume für ein Eltern- und kleinkindbezogenes soziales Angebot. Schaffung einer Fachpersonalstelle zum Aufbau des niederschwelligen Angebots für Eltern und Kleinkinder und zur Beratung vor Ort. - <div>Zur Kenntnis genommen</div>
+- TOP 3.3.: EDEKA Am Harras
+- TOP 3.4.: Seniorenvertretungswahl 2009
+- TOP 4: Schulreferat
+- TOP 4.1.: Beschleunigung der Sanierung von Sportanlagen
+- TOP 4.2.: Informationsveranstaltung des Schulreferates für die BAs 2009
+- TOP 5: Gaststättenangelegenheiten
+- TOP 5.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6: Verkehrsangelegenheiten
+- TOP 6.1.: Parkraummanagement in Sendling
+- TOP 6.2.: Warenstellage Pfeuferstraße 45
+- TOP 6.3.: Mobiler Fahrradständer Alramstraße 19
+- TOP 6.4.: Versammlung unter freiem Himmel; Thalkirchner Str. 133 am 22.11.2008
+- TOP 6.5.: Weiterfahrt des letzten fahrplanmäßigen Nachtbusses N40 in den Münchner Süden - <div>Zustimmend zur Kenntnis genommen</div>
+- TOP 6.6.: Eilentscheidung des Kreisverwaltungsreferates vom 29.10.08; Widerruf von Freischankflächen
+- TOP 6.7.: Beschleunigung der Buslinie 54
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben SBH Meindlstraße
+- TOP 8.3.: Bauvorhaben Thalkirchner Str. 131
+- TOP 8.4.: Schutz der Münchner Vorgärten
+- TOP 9: Baureferat
+- TOP 9.1.: Straßenbaumaßnahmen Greiner Berg
+- TOP 9.2.: Straßenbaumaßnahmen Leipartstraße 2
+- TOP 9.3.: Straßenbauarbeiten Schwaneckstraße
+- TOP 9.4.: Verwendung flacherer, gerundeter Randsteine; Entschärfung bisheriger scharfer und hoher Randsteine
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Oberländerstraße 36
+- TOP 10.2.: Baumfällung Kraelerstraße 3
+- TOP 10.3.: Baumfällung Ludwig-Krafft-Straße 4 - 8
+- TOP 10.4.: Baumpflanzung Herzog-Ernst-Platz
+- TOP 10.5.: Fällung von Gefahrenbäumen
+- TOP 10.6.: Baumfällung Karwendelstraße 11 - 17; Sachstandsbericht
+- TOP 10.7.: Neubau eines Parkhauses (Königsdorfer-/ Thalkirchner Str.) Neuer Baumbestandsplan
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 12.1.: Schaffung einer Fußwegverbindung zwischen Fallstraße und Plinganserstraße; Antrag der SPD-Fraktion
+- TOP 13: Verschiedenes
+- TOP 13.1.: Mehrjahresinvestitionsprogramm 2009 - 2013
+- TOP 13.2.: Vorkaufsrecht nach dem Bau GB; Kyreinstraße
