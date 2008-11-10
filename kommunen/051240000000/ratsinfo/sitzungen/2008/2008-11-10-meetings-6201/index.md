@@ -1,0 +1,78 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2008-11-10T16:04:00+01:00
+- Ende: 2008-11-10T19:54:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6201
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6201
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung - Stand: 07.11.2008 - 09.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00100272.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00100633.pdf
+- Wortprotokoll: Nachtragsliste - Stand: 10.11.2008 - 12.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00100415.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Cross-Border-Leasing-Geschäfte - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Antwort auf die Anfrage der FDP-Fraktion vom 14.10.08 (VO/0843/08): Cross-Border-Leasing-Geschäfte - abschließend zur Kenntnis genommen
+- TOP 2.2: Cross-Border-Leasing - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Antwort auf die Große Anfrage der WfW-Fraktion vom 14.10.2008 (VO/0844/08): Cross-Border-Leasing - abschließend zur Kenntnis genommen
+- TOP 2.3: Internationale Finanzkrise, Auswirkungen auf Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Antwort auf die Große Anfrage der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN (VO/0856/08) vom 18.10.08: Internationale Finanzkrise, Auswirkungen auf Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.4: Cross-Border-Leasing-Transaktionen - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Antwort auf die Große Anfrage der Ratsgruppe DIE REPUBLIKANER (VO/0865/08) vom 20.10.08: Cross-Border-Leasing-Transaktionen - abschließend zur Kenntnis genommen
+- TOP 2.5: Auswirkungen der Finanzkrise auf das sale-and-lease-back-Geschäft der GWG - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Antwort auf die Große Anfrage der Ratsfraktion DIE LINKE. vom 24.10.08 (VO/0883/08): Auswirkungen der Finanzkrise aus das sale-and-lease-back-Geschäft der GWG - abschließend zur Kenntnis genommen
+- TOP 2.6: Betreibergesellschaft für das Stadion - abschließend zur Kenntnis genommen
+- TOP 2.6.1: Antwort auf die Anfrage der Fraktion Bündnis 90 Die Grünen vom 28.10.2008 (VO/0888/08): Betreibergesellschaft für das Stadtion - abschließend zur Kenntnis genommen
+- TOP 2.7: Gründung einer Betreibergesellschaft für das Stadion am Zoo - abschließend zur Kenntnis genommen
+- TOP 2.7.1: Antwort auf die Große Anfrage der Ratsfraktion DIE LINKE. vom 29.10.2008 (VO/0901/08): Gründung einer Betreibergesellschaft für das Stadion am Zoo - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Entwendung von Kompressoren aus Kühl- und Elektrogroßgeräten - ungeändert beschlossen
+- TOP 4.1.1: Ergänzungsantrag zu VO/0774/08 - abgelehnt
+- TOP 4.2: Veranstaltungskonzept zur Woche der Mobilität - ungeändert beschlossen
+- TOP 4.2.1: Ergänzungsantrag zu VO/0788/08 - abgelehnt
+- TOP 4.3: Sozialticket - abgelehnt
+- TOP 4.4: Finanzierung der Betreuung von unter Dreijährigen - abgelehnt
+- TOP 4.4.1: Finanzierung Betreuung der unter Dreijährigen - geändert beschlossen
+- TOP 4.5: Kindertagesstätte in Wuppertal-Oberbarmen - abgesetzt
+- TOP 4.6: Bundesmittel - abgesetzt
+- TOP 4.7: Transparenz bei Finanzgeschäften - abgelehnt
+- TOP 4.8: Berichterstattung über Auswirkungen der Finanzkrise auf Wuppertal - abgelehnt
+- TOP 4.9: Rückabwicklung der CBL-Verträge - abgelehnt
+- TOP 4.9.1: US-Leasing-Transaktionen der AWG sowie der Stadt Wuppertal und der WSW - Entgegennahme ohne Beschluss
+- TOP 4.9.2: Einvernehmliche Auflösung/Aufhebung der US-Leasing-Transaktionen der AWG sowie der Stadt Wuppertal und der WSW - zurückgezogen
+- TOP 4.10: Resolution zum Sparkassengesetz - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Ordnungsbehördliche Verordnung zum Schutz von Naturdenkmalen gem. § 42 a LG NRW im Gebiet der Stadt Wuppertal. - ungeändert beschlossen
+- TOP 6.2: Stadtentwässerung - öffentlich-rechtliche Vereinbarung über den Anschluss eines auf dem Gebiet der Stadt Sprockhövel liegenden Grundstücks an die Kanalisation der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: Richtlinien über die Gewährung von Zuwendungen nach § 56 GO NRW - ungeändert beschlossen
+- TOP 6.3.1: Antrag zu VO/0861/08 - Richtlinien zur Gewährung von Zuwendungen - abgelehnt
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Anpassung des Schulträgervertrages Schokoticket - ungeändert beschlossen
+- TOP 7.2: Überplanmäßige Bereitstellung von Mitteln für eine Organisationsuntersuchung im Ressort Kinder, Jugend und Familie - Jugendamt - ungeändert beschlossen
+- TOP 7.3: Über- und außerplanmäßige Aufwendungen und Auszahlungen für 2008, Teil 2 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan 2009 des Zweckverbandes Bergische Volkshochschule (VHS) - geändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Sammelaufhebungsbeschluss zur Aufhebung überholter Planverfahren im Stadtbezirk Oberbarmen (Planverfahren mit Satzungsbeschlüssen) - ungeändert beschlossen
+- TOP 9.2: Bauleitplanverfahren Nr. 1079 - Siedlung Falkenberg - - ungeändert beschlossen
+- TOP 9.3: Sammelverfahren zur Änderung der Bebauungspläne - ungeändert beschlossen
+- TOP 9.4: Bauleitplanverfahren1120 - Hahnerberger Straße/Hipkendahl - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Ausbau des Wuppertaler Gesamtschulangebots - ungeändert beschlossen
+- TOP 11.1.1: Bedarf für Gesamtschulplätze ermitteln - abgelehnt
+- TOP 11.2: Umsetzung der Ganztagsoffensive der Landesregierung für die Sekundarstufe I - ungeändert beschlossen
+- TOP 11.3: Ganztagsbetreuungsangebote an Grundschulen ohne Offenen Ganztag - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Abberufung und Entsendung von Vertretern der Stadt Wuppertal in den Aufsichtsrat der Regiobahn GmbH - ungeändert beschlossen
+- TOP 12.2: Umbesetzung in der Verbandsversammlung des Zweckverbandes Bergische VHS - ungeändert beschlossen
+- TOP 12.3: Bildung der Einigungsstelle der Stadtverwaltung Wuppertal gemäß § 67 Landespersonalvertretungsgesetz NRW - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzung / Benennung - ungeändert beschlossen
