@@ -1,0 +1,69 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2008-11-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1300916
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1300916
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Benennung neues Mitglied im Unterausschuss Planung, Verkehr und Umwelt
+- TOP 1.3.: Benennung neues Mitglied im Unterausschuss Schule, Sport, Soziales
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: BRK Wasserwacht München Nord; Kauf eines Defibrillators (vertagt aus den Sitzungen am 16.09. und 14.10.2008)
+- TOP 2.2.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching - Hasenbergl Widmung der Gesamtstrecke des Paul-Huml-Bogens, einer Teilstrecke der Paul-Preuß-Straße
+- TOP 2.3.: Öffentliche Grünanlage Am Reigersbach im 24. Stadtbezirk Feldmoching - Hasenbergl
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: WEG Josef-Frankl-Höfe BA I Antrag auf Genehmigung einer Verzahnungsmarkierung (WEG Josef-Frankl-Höfe BA I)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Sperrung der Straße Auf den Schrederwiesen für Kraftfahrzeuge (ausgenommen Linienbusse) im Bereich der Wendeschleife (vertagt in der Sitzung am 14.10.2008)
+- TOP 5.2.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2009 - 2013; Anhörungsverfahren (vertagt in der Sitzung am 14.10.2008)
+- TOP 5.3.: Ausführung eines Durchstichs zwischen Am Schnepfenweg und Am Blütenanger als verkehrsberuhigter Bereich Empfehlung Nr. 08-14 / E 00052 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching - Hasenbergl am 24.06.2008
+- TOP 5.4.: Anhörung im Einzelfall auf Anforderung: Bauvorhaben Lerchenstr. 19
+- TOP 5.5.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen: a) Reschreiterstr. 1 - 23 b) Weitlstr. 18 - 48
+- TOP 5.6.: Vollzug der Baumschutzverordnung, Bauvorhaben: Lerchenauer Str. 317
+- TOP 5.7.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Blodigstraße b) Wellenkampstraße
+- TOP 5.8.: Gemeinde Karlsfeld Flächennutzungsplan - Neuaufstellung
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Mülleimer in der Himmelschlüsselstraße / Leberblümchenstraße; (BA-Antrag aus der Sitzung am 16.09.2008)
+- TOP 6.2.: Ausweitung der rythmisierten Ganztagesschule gemäß dem Konzept Innovative Projektschule (IPS) an der Grundschule an der Thelottstraße sowie Darstellung inwieweit IPS auch für die Grundschule an der Eduard-Spranger-Straße realisierbar ist (BA-Antrag-Nr. 08-14 / B 00304 vom 29.07.2008)
+- TOP 6.3.: Lärmbelästigung auf dem Goldschmiedplatz
+- TOP 6.4.: Neugestaltung des Spielplatzes an der Toni-Pfülf-Straße für Schulkinder und Jugendliche (BA-Antrag-Nr. 08-14 / B 00307 vom 29.07.2008) Verlegung und Neugestaltung des vorhandenen Spielplatzes (nicht Bolzplatzes) an der Toni-Pfülf-Str. in das Parkgelände Hans-Böckler-Straße / Ecke Toni-Pfülf-Straße (BA-Antrag-Nr. 08-14 / B 00305 vom 29.07.2008)
+- TOP 6.5.: Raumnot an der Grundschule an der Waldmeisterstraße (BA-Antrag-Nr. 02-08 / B 02971 vom 11.03.2008) Prognosezahlen des Schul- und Kultusreferates
+- TOP 6.6.: Entscheidung über die Projektplanung Öffentliche Grünanlage Am Reigersbach; Beschluss des Bezirksausschusses des 24. Stadtbezirks Feldmoching - Hasenbergl vom 16.09.2008
+- TOP 6.7.: Thelottstr. 2 - 14; Fällungsantrag der GWG auf dem Grundstück
+- TOP 6.8.: Wohnanlage Thelottstraße 2-6 und 10-14, Feldmoching - Hasenbergl; Sammelantrag auf Baumfällung, Stellungnahme des Bezirksausschuss 24 vom 18.09.2008
+- TOP 6.9.: Meldelisten Bauvorhaben
+- TOP 6.10.: Meldelisten Baumfällungen
+- TOP 6.11.: Baumaßnahmen Stadtwerke München
+- TOP 6.12.: Blaukissenweg Bedarfs- und Projektgenehmigung
+- TOP 6.13.: Ergebnis der ADFC-Aktion "Die 3 dringendsten Radlerwünsche an den neuen Stadtrat"
+- TOP 6.14.: München macht Raum für Familien Broschüre in der Reihe "PERSPEKTIVE MÜNCHEN" - Analyse
+- TOP 6.15.: Verwendung flacherer, gerundeter Randsteine; Entschärfung bisheriger scharfer und hoher Randsteine
+- TOP 6.16.: Situierung des Sozialbürgerhauses für den 24. Stadtbezirk im 24. Stadtbezirk (BV-Empfehlung Nr. 08-14 / E 00056 vom 24.06.2008)
+- TOP 6.17.: Aufgabe des Vorhabens Magnetschwebebahn München Hauptbahnhof - Flughafen (MSB); Untersuchungen zur künftigen Flughafenanbindung (Ergänzter Beschluss)
+- TOP 6.18.: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.19.: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale
+- TOP 6.20.: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.21.: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 6.22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.23.: Europaarbeit des Referats für Stadtplanung und Bauordnung und aktuelle Entwicklungen der "städtischen Dimension" auf europäischer Ebene (Ergänzungsantrag)
+- TOP 6.24.: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2007 mit Ergänzungen (Bekanntgabe) B) Beschlussteil (Geänderter Beschluss)
+- TOP 6.25.: PERSPEKTIVE MÜNCHEN - Leitlinien, Konzepte, Programme Handlungskonzept: Herausforderungen des soziodemografischen Wandels für die Stadtentwicklung
+- TOP 6.26.: Schutz der Münchner Vorgärten
+- TOP 6.27.: Zweckentfremdung von Wohnraum - nicht öffentlich -
+- TOP 7.: Berichte
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
