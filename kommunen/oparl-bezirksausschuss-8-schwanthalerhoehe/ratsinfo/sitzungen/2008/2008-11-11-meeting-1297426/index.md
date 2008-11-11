@@ -1,0 +1,66 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2008-11-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1297426
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1297426
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Fahrradständer mit Werbefläche
+- TOP 3.2.: Lärm in der Passage Karl-Spengler-Str / Oda-Schaefer-Weg
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Aufstellen einer Verkaufseinrichtung auf öffentlichem Grund; Gollierstr. 52 1. Antrag
+- TOP 4.2.: Aufstellen einer Verkaufseinrichtung auf öffentlichem Grund; Gollierstr. 52 2. Antrag
+- TOP 4.3.: Aufstellen einer Verkaufseinrichtung auf öffentlichem Grund; Gollierstr. 32
+- TOP 4.4.: Antrag auf Freischnakfläche; Ligsalzstr. 30
+- TOP 5: Anhörungen
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Bauvorhaben Schwanthalerstr. 168
+- TOP 6.1.2.: Meldelisten Bauvorhaben
+- TOP 6.1.3.: Umgestaltung Bergmannstraße
+- TOP 6.1.4.: Informationsveranstaltung für die Beitragszahler Gollierstraße / Astallerstraße
+- TOP 6.1.5.: Rohrkanalsanierung Schwanthalerstraße
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Einsetzung einer/eines Gleichstellungsbeauftragte/n
+- TOP 6.2.2.: Schulreferat trifft Bezirksausschüsse ; Termin 2009
+- TOP 6.2.3.: Wahl der Seniorenvertretung 2009; Vorstellungrunde der Kandidatinnen und Kandidaten
+- TOP 6.2.4.: Investitionskostenförderung; Kinderkrippe Kazmairstraße 21
+- TOP 6.2.5.: Hauptschule Ridlerstraße;
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Bauarbeiten der SWM in der Bergmannstraße
+- TOP 6.4.2.: Baumaßnahmen der SWM in der Ridlerstraße
+- TOP 6.4.3.: Baumaßnahmen der SWM ; Fernwärmeprojekt Westend Los2; Änderung des Terminablaufes
+- TOP 6.4.4.: Absperrung der Theresienwiese für den Auf- und Abbau des Oktoberfestes
+- TOP 6.4.5.: Ergebnis der ADFC-Aktion "Die 3 dringensten Radlerwünsche an den neuen Stadtrat"
+- TOP 6.4.6.: Bahndeckel an der Theresienhöhe; Ausnahmezulassung; vertagt aus der Oktobersitzung
+- TOP 6.4.7.: Verschiebung geplanter PSA-Standorte
+- TOP 6.4.8.: Informationsveranstaltung für Beitragszahler ; Bergmannstraße
+- TOP 6.4.9.: Widmung des Durchgangs zwischen Kazmair- und Heimeranstr vertagt aus der Oktobersitzung.
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Folkoregruppe "Bejeile golubovi"
+- TOP 7: Erledigungen
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: unveränderte Gaststättenfortführungen
+- TOP 9.2.: Anerkennung von Plätzen in der Kita Schrenkstraße 2
+- TOP 9.3.: Bessere Kennzeichnung der Automaten in den jeweiligen Parklizenzgebieten
+- TOP 9.4.: Verwendung flacherer, gerundeter Randsteine
+- TOP 9.5.: Abbau des Investitionsstaus auf städt. und Vereinssportanlagen
+- TOP 9.6.: Ausbau des Mittler Ringes ; Sachstandsbericht zur Öffentlichkeitsarbeit
+- TOP 9.7.: Schutz der Münchner Vorgärten
+- TOP 10: Verschiedenes
+- TOP 10.1.: Verlagerung der Stadtbibliothek
+- TOP 10.2.: Informationsveranstaltung des Sozialreferates; Kommunales Wohnungsbauprogramm
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Haushaltspläne 2009
